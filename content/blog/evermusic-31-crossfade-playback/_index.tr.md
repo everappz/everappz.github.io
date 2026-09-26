@@ -12,7 +12,7 @@ authors:
     image: "/images/about/artem-meleshko-founder-everappz.webp"
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 ## Evermusic 3.1: Neler Değişti ve Neden Önemli
 
@@ -89,22 +89,22 @@ Hesabı kaldırıp yeniden eklemeden bağlı herhangi bir bulut hizmetinin oturu
 
 ## Sık Sorulan Sorular
 
-{{% details title="Evermusic'te crossfade oynatma nedir?" closed="true" %}}
+{{% ls-details title="Evermusic'te crossfade oynatma nedir?" closed="true" %}}
 Crossfade oynatma, bir parçanın sonunu bir sonrakinin başlangıcıyla harmanlayarak kesintisiz geçişler oluşturur. Settings → Audio Player → Crossfade Playback'te süreyi 3 ile 15 saniye arasında ayarlayabilirsiniz.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Evermusic çalma listelerimi bulut depolamaya yedekleyebilir miyim?" closed="true" %}}
+{{% ls-details title="Evermusic çalma listelerimi bulut depolamaya yedekleyebilir miyim?" closed="true" %}}
 Evet. Evermusic 3.1, tüm kütüphanenizi — çalma listeleri, meta veriler, kapak resimleri ve ayarlar dahil — bağlı herhangi bir bulut hizmetine tek bir dosya olarak yedeklemenizi sağlar.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Evermusic iPod kütüphane taramayı destekliyor mu?" closed="true" %}}
+{{% ls-details title="Evermusic iPod kütüphane taramayı destekliyor mu?" closed="true" %}}
 Evet. iPod kütüphanenize çalma listeleri, albümler, sanatçılar ve türlere göre doğrudan Evermusic ana ekranından göz atabilir ve kuyruğunuza parça ekleyebilirsiniz.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Evermusic'te yanlış şarkı etiketlerini nasıl düzeltirim?" closed="true" %}}
+{{% ls-details title="Evermusic'te yanlış şarkı etiketlerini nasıl düzeltirim?" closed="true" %}}
 Dahili Tags Editor'ı kullanın ve Identify eynemine dokunun. Evermusic dosya adlarınızı tarar ve düzeltilmiş meta verilerle ID3 etiketlerini otomatik olarak günceller.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Evermusic hangi bulut hizmetlerini destekliyor?" closed="true" %}}
+{{% ls-details title="Evermusic hangi bulut hizmetlerini destekliyor?" closed="true" %}}
 Evermusic; Dropbox, Google Drive, OneDrive, MEGA, Box, Yandex.Disk, WebDAV, SMB/CIFS ve FTP sunucularıyla çalışır.
-{{% /details %}}
+{{% /ls-details %}}

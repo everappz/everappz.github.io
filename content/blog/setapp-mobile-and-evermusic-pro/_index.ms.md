@@ -12,7 +12,7 @@ authors:
     image: "/images/about/artem-meleshko-founder-everappz.webp"
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 ![](/blog/setapp-mobile-and-evermusic-pro/21260c_766c4fbc81e6433cb8fc21b9c2862ce0~mv2.png)
 
@@ -70,27 +70,27 @@ Sama ada anda menguruskan perpustakaan FLAC yang besar atau memerlukan aplikasi 
 Bersedia untuk mencuba? Dapatkan Evermusic Pro melalui Setapp Mobile dan mula menstrim perpustakaan muzik awan anda hari ini.
 
 {{< cards cols="1" >}}
-  {{< card link="https://go.setapp.com/stp435?_target=https://www.setapp.com/setapp-mobile&stc=mobile" title="Muat turun Evermusic Pro dengan Setapp Mobile" icon="download" >}}
+  {{< ls-card link="https://go.setapp.com/stp435?_target=https://www.setapp.com/setapp-mobile&stc=mobile" title="Muat turun Evermusic Pro dengan Setapp Mobile" icon="download" >}}
 {{< /cards >}}
 
 ## Soalan Lazim
 
-{{% details title="Adakah Evermusic Pro percuma dengan Setapp Mobile?" closed="true" %}}
+{{% ls-details title="Adakah Evermusic Pro percuma dengan Setapp Mobile?" closed="true" %}}
 Ya. Evermusic Pro termasuk dalam langganan Setapp Mobile tanpa kos tambahan. Anda mendapat versi premium penuh dengan semua ciri dibuka kunci.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Apakah perkhidmatan awan yang disokong Evermusic Pro?" closed="true" %}}
+{{% ls-details title="Apakah perkhidmatan awan yang disokong Evermusic Pro?" closed="true" %}}
 Evermusic Pro bersambung ke Google Drive, Dropbox, OneDrive, iCloud, Box, MEGA, Yandex.Disk, pCloud, HiDrive dan pelayan WebDAV. Ia juga menyokong perkongsian fail SMB dan peranti NAS.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Bolehkah saya mendengar luar talian dengan Evermusic Pro?" closed="true" %}}
+{{% ls-details title="Bolehkah saya mendengar luar talian dengan Evermusic Pro?" closed="true" %}}
 Ya. Anda boleh memuat turun trek individu, album, artis atau keseluruhan senarai main untuk main balik luar talian terus dalam aplikasi.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Apakah format audio yang dimainkan Evermusic Pro?" closed="true" %}}
+{{% ls-details title="Apakah format audio yang dimainkan Evermusic Pro?" closed="true" %}}
 Evermusic Pro menyokong FLAC, MP3, AAC, WAV, ALAC, AIFF, OPUS, OGG dan banyak format lain. Ia mengendalikan fail audio lossless dan lossy.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Adakah saya memerlukan langganan Setapp berasingan untuk iPhone?" closed="true" %}}
+{{% ls-details title="Adakah saya memerlukan langganan Setapp berasingan untuk iPhone?" closed="true" %}}
 Setapp Mobile tersedia sebagai sebahagian daripada pelan langganan Setapp yang merangkumi aplikasi iOS. Semak laman web Setapp untuk pilihan harga dan pelan semasa.
-{{% /details %}}
+{{% /ls-details %}}

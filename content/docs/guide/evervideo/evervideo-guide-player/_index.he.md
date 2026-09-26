@@ -31,7 +31,7 @@ readingTime: 14
 הנגן הקומפקטי נשאר גלוי בזמן שאתם עיינים בספרייה, מנהל הקבצים, או ההגדרות שלכם, כך שלעולם לא תאבדו את הווידאו שלכם בזמן שמחפשים את הבא.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="נגן מדיה מסך מלא של Evervideo" image="/docs/guide/evervideo/img/evervideo-media-player-fullscreen.webp" >}}
+  {{< ls-card title="" subtitle="נגן מדיה מסך מלא של Evervideo" image="/docs/guide/evervideo/img/evervideo-media-player-fullscreen.webp" >}}
 {{< /cards >}}
 
 ## פורמטי וידאו ושמע נתמכים
@@ -72,7 +72,7 @@ PiP עובד עם כל פורמט וידאו שEvervideo מנגן, כולל קב
 הנגן הקומפקטי הוא מיני-נגן קבוע שנשאר גלוי בראש כל מסך באפליקציה בזמן שאתם עיינים בספרייה, מנהל הקבצים, או ההגדרות. הקישו עליו להרחבה לנגן מסך מלא; גררו מטה לכיווצו מחדש.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="הגדרות וידאו Evervideo מתצוגת הנגן הקומפקטי על המסך הראשי" image="/docs/guide/evervideo/img/evervideo-video-settings-from-compact-player-view-on-the-main-screen.webp" >}}
+  {{< ls-card title="" subtitle="הגדרות וידאו Evervideo מתצוגת הנגן הקומפקטי על המסך הראשי" image="/docs/guide/evervideo/img/evervideo-video-settings-from-compact-player-view-on-the-main-screen.webp" >}}
 {{< /cards >}}
 
 ## AirPlay 2
@@ -115,7 +115,7 @@ Evervideo כולל אקוולייזר שמע מלא לכוונון פסי שמע
 לכוונון התמונה, Evervideo מספק אקוולייזר וידאו ייעודי — כווננו בהירות, ניגודיות, רוויה וגוון בזמן אמת במהלך הניגון. כמו אקוולייזר השמע, ניתן לייצא ולייבא הגדרות וידאו מותאמות אישית לשיתוף או גיבוי. השתמשו בו כדי להאיר סצנה חשוכה ביום שמשי, לחזק רוויה על תוכן שטוף, או לחמם גוון צבע קר.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="אקוולייזר וידאו Evervideo" image="/docs/guide/evervideo/img/evervideo-video-equalizer.webp" >}}
+  {{< ls-card title="" subtitle="אקוולייזר וידאו Evervideo" image="/docs/guide/evervideo/img/evervideo-video-equalizer.webp" >}}
 {{< /cards >}}
 
 ## מצב קנה מידה וידאו
@@ -144,7 +144,7 @@ Evervideo כולל viewport VR / 360° לקבצי וידאו ספריים. בע�
 הקישו על פקד המהירות בסרגל הכלים של הנגן לשינוי מהירות הניגון — האטו לניתוח (0.25× או 0.5×) או האיצו לאוטיוריאלים והרצאות (1.25×, 1.5×, 2×, ועד 3×). הקישו על אייקון הגדרת התצורה בפינה הימנית-עליונה של מסך המהירות למעבר למצב מדויק עם כוונונים עדינים יותר. תיקון גובה צליל לכל מסלול גם זמין.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="מהירות ניגון Evervideo על סרגל הכלים הראשי" image="/docs/guide/evervideo/img/evervideo-media-player-playback-speed-on-main-toolbar.webp" >}}
+  {{< ls-card title="" subtitle="מהירות ניגון Evervideo על סרגל הכלים הראשי" image="/docs/guide/evervideo/img/evervideo-media-player-playback-speed-on-main-toolbar.webp" >}}
 {{< /cards >}}
 
 ## תור הנגן
@@ -152,7 +152,7 @@ Evervideo כולל viewport VR / 360° לקבצי וידאו ספריים. בע�
 לצפייה בתור הנגן שלכם, הקישו על כפתור התור על הנגן. לכל וידאו בתור יש פעולות נוספות — הקישו על שלוש הנקודות לצפייה בהן. לסידור מחדש של וידאו בתור, השתמשו במחוון הסידור מחדש ליד הכותרת וגררו אותו למיקום חדש.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="תור ניגון Evervideo" image="/docs/guide/evervideo/img/evervideo-playback-queue.webp" >}}
+  {{< ls-card title="" subtitle="תור ניגון Evervideo" image="/docs/guide/evervideo/img/evervideo-playback-queue.webp" >}}
 {{< /cards >}}
 
 ## שעון שינה
@@ -189,7 +189,7 @@ Evervideo כולל viewport VR / 360° לקבצי וידאו ספריים. בע�
 - **עזרה** — פתחו הדרכה.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="מסך עוד פעולות של נגן Evervideo" image="/docs/guide/evervideo/img/evervideo-media-player-more-actions.webp" >}}
+  {{< ls-card title="" subtitle="מסך עוד פעולות של נגן Evervideo" image="/docs/guide/evervideo/img/evervideo-media-player-more-actions.webp" >}}
 {{< /cards >}}
 
 ## הגדרות נגן

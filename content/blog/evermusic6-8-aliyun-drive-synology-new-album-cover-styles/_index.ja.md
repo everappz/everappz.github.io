@@ -12,7 +12,7 @@ authors:
     image: "/images/about/artem-meleshko-founder-everappz.webp"
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 **要約：** Evermusic 6.8にAliyun DriveとSynology NAS統合（QuickConnect対応）、6つの新しいアルバムカバースクロールエフェクト、ミニマルフルスクリーンプレーヤー、ドラッグ＆ドロップファイル管理、高速アルバムアート読み込みが追加されました。iOSとmacOSで利用可能です。
 
@@ -77,18 +77,18 @@ Evermusic 6.8は3つの分野に焦点を当てています：より広いクラ
 
 ## よくある質問
 
-{{% details title="Synology NASをEvermusicに接続するには？" closed="true" %}}
+{{% ls-details title="Synology NASをEvermusicに接続するには？" closed="true" %}}
 接続タブに移動し、Synologyを選択してQuickConnectIDを入力します。EvermusicはIPアドレスやVPN設定を必要とせず直接接続します。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="EvermusicでAliyun Driveは無料で使えますか？" closed="true" %}}
+{{% ls-details title="EvermusicでAliyun Driveは無料で使えますか？" closed="true" %}}
 はい。Aliyun Driveアカウントをお持ちであれば、追加費用なしでEvermusicに接続できます。ストレージの制限はAliyun Driveのプランによります。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="アルバムカバーのスクロールスタイルをカスタマイズできますか？" closed="true" %}}
+{{% ls-details title="アルバムカバーのスクロールスタイルをカスタマイズできますか？" closed="true" %}}
 はい。Settings > Audio Player > Personalization > Album Covers Scrolling Styleに移動し、6つのオプションから選択してください：MacDoc、Linear、Rotary、Inverted Rotary、Cylinder、CoverFlow。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="ミニマルプレーヤー画面はすべてのデバイスで動作しますか？" closed="true" %}}
+{{% ls-details title="ミニマルプレーヤー画面はすべてのデバイスで動作しますか？" closed="true" %}}
 はい。フルスクリーンアルバムカバースタイルは、Evermusic 6.8以降を実行するすべてのサポートされるiPhone、iPad、Macで利用可能です。
-{{% /details %}}
+{{% /ls-details %}}

@@ -12,7 +12,7 @@ authors:
     image: "/images/about/artem-meleshko-founder-everappz.webp"
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 ## Evermusic 3.1: Що змінилося і чому це важливо
 
@@ -89,22 +89,22 @@ Crossfade усуває тишу між треками, плавно змішую
 
 ## Часті запитання
 
-{{% details title="Що таке crossfade відтворення в Evermusic?" closed="true" %}}
+{{% ls-details title="Що таке crossfade відтворення в Evermusic?" closed="true" %}}
 Crossfade відтворення плавно змішує кінець одного треку з початком наступного, створюючи безшовні переходи. Ви можете встановити тривалість від 3 до 15 секунд у Settings → Audio Player → Crossfade Playback.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Чи можу я зробити резервну копію плейлистів Evermusic у хмарне сховище?" closed="true" %}}
+{{% ls-details title="Чи можу я зробити резервну копію плейлистів Evermusic у хмарне сховище?" closed="true" %}}
 Так. Evermusic 3.1 дозволяє зробити резервну копію всієї бібліотеки — включаючи плейлисти, метадані, обкладинки та налаштування — в будь-яку підключену хмарну службу як один файл.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Чи підтримує Evermusic перегляд бібліотеки iPod?" closed="true" %}}
+{{% ls-details title="Чи підтримує Evermusic перегляд бібліотеки iPod?" closed="true" %}}
 Так. Ви можете переглядати бібліотеку iPod за плейлистами, альбомами, виконавцями та жанрами безпосередньо з головного екрану Evermusic та додавати треки до черги.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Як виправити неправильні теги пісень в Evermusic?" closed="true" %}}
+{{% ls-details title="Як виправити неправильні теги пісень в Evermusic?" closed="true" %}}
 Використовуйте вбудований Tags Editor і натисніть дію Identify. Evermusic сканує імена ваших файлів і автоматично оновлює теги ID3 з виправленими метаданими.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Які хмарні сервіси підтримує Evermusic?" closed="true" %}}
+{{% ls-details title="Які хмарні сервіси підтримує Evermusic?" closed="true" %}}
 Evermusic працює з Dropbox, Google Drive, OneDrive, MEGA, Box, Yandex.Disk, WebDAV, SMB/CIFS та FTP серверами.
-{{% /details %}}
+{{% /ls-details %}}

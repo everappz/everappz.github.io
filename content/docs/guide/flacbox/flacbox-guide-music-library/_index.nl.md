@@ -19,7 +19,7 @@ readingTime: 11
 Je muziekbibliotheek beheren is een fluitje van een cent met Flacbox, waar je moeiteloos al je tracks — lokale FLAC, ALAC, DSD, MP3, M4A, OGG, WMA, APE en tientallen andere formaten — kunt organiseren in één doorzoekbare collectie. Je hebt twee opties voor het opbouwen van je muziekbibliotheek: handmatige toevoeging (je kiest precies wat er wordt toegevoegd) of automatische synchronisatie (Flacbox scant aangewezen cloudmappen en voegt nieuwe bestanden automatisch toe zodra ze verschijnen).
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox Muziekbibliotheek Albumweergave" image="/docs/guide/flacbox/img/media-library-albums.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox Muziekbibliotheek Albumweergave" image="/docs/guide/flacbox/img/media-library-albums.webp" >}}
 {{< /cards >}}
 
 ## Handmatige Toevoeging
@@ -27,7 +27,7 @@ Je muziekbibliotheek beheren is een fluitje van een cent met Flacbox, waar je mo
 Om tracks handmatig toe te voegen, tik op het pictogram **Muziek toevoegen** in de linkerbovenhoek en kies mappen of bestanden van een verbonden cloudopslagservice of bestanden op je apparaat. Wanneer je tracks aan de bibliotheek toevoegt, worden er alleen koppelingen naar die tracks gemaakt — de eigenlijke bestanden blijven op hun oorspronkelijke locaties om kostbare schijfruimte te besparen. Als je tracks offline beschikbaar wilt maken, kun je de actie Downloaden gebruiken in het optiesmenu of de offline modus inschakelen voor afspeellijsten en trackcollecties.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox Nummers Toevoegen aan de Muziekbibliotheek" image="/docs/guide/flacbox/img/library-add-songs.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox Nummers Toevoegen aan de Muziekbibliotheek" image="/docs/guide/flacbox/img/library-add-songs.webp" >}}
 {{< /cards >}}
 
 Je kunt ook bestanden naar de bibliotheek slepen en neerzetten in de Mac-versie, of **Bestanden openen…** / **Map openen…** gebruiken via de systeembestandselecteur op iPhone en iPad.
@@ -89,7 +89,7 @@ Vlak onder de navigatiebalk biedt de bovenste werkbalk verschillende handige act
 De zoekfunctie stelt je in staat een specifiek nummer, artiest, album of genre te vinden in je muziekbibliotheek. Zoeken werkt lokaal op de muziekbibliotheekdatabase, dus het werkt volledig offline en geeft resultaten terwijl je typt.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox Muziekbibliotheek Zoeken" image="/docs/guide/flacbox/img/media-library-search.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox Muziekbibliotheek Zoeken" image="/docs/guide/flacbox/img/media-library-search.webp" >}}
 {{< /cards >}}
 
 ## Optiesmenu
@@ -140,7 +140,7 @@ Wanneer je de secties Artiest, Albumartiest of Componist opent, zie je een schak
 Dit is bijzonder nuttig voor het opschonen van rommelige 'Verschillende artiesten'-compilaties in grote bibliotheken.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox Albumdetailsscherm" image="/docs/guide/flacbox/img/media-library-album-details-screen.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox Albumdetailsscherm" image="/docs/guide/flacbox/img/media-library-album-details-screen.webp" >}}
 {{< /cards >}}
 
 ## Instellingen

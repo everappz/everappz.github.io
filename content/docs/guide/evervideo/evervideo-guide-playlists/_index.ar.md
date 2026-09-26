@@ -19,7 +19,7 @@ readingTime: 5
 يمكن لقوائم التشغيل في Evervideo أن تحتوي على مزيج من مقاطع الفيديو السحابية الإلكترونية والملفات المنزّلة غير المتصلة والملفات المحلية ومقاطع فيديو مكتبة الصور ومقاطع فيديو مكتبة الموسيقى iOS — كلها في قائمة تشغيل واحدة — وتعمل معاً بسلاسة.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="قوائم التشغيل في مكتبة الوسائط في Evervideo" image="/docs/guide/evervideo/img/evervideo-playlists-in-media-library.webp" >}}
+  {{< ls-card title="" subtitle="قوائم التشغيل في مكتبة الوسائط في Evervideo" image="/docs/guide/evervideo/img/evervideo-playlists-in-media-library.webp" >}}
 {{< /cards >}}
 
 ## إنشاء قائمة تشغيل

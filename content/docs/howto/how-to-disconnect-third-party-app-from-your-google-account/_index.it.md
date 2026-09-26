@@ -7,7 +7,7 @@ tags: ["google", "sicurezza", "privacy", "app", "account", "accesso"]
 readingTime: 2
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **In breve:** Vai su [myaccount.google.com](https://myaccount.google.com/) > Sicurezza > App e servizi di terze parti. Fai clic sull'app che desideri rimuovere, quindi seleziona "Rimuovi accesso" o "Elimina tutte le connessioni." Ripeti per ogni app.
@@ -75,18 +75,18 @@ Ricorda che, sebbene le app di terze parti possano migliorare la tua esperienza 
 
 ## FAQ
 
-{{% details title="La disconnessione di un'app cancellerà i miei dati da quell'app?" closed="true" %}}
+{{% ls-details title="La disconnessione di un'app cancellerà i miei dati da quell'app?" closed="true" %}}
 No. La rimozione dell'accesso impedisce solo all'app di accedere al tuo account Google in futuro. I dati già condivisi con l'app potrebbero ancora esistere sui loro server. Controlla le impostazioni sulla privacy dell'app stessa per eliminare quei dati.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Posso ricollegare un'app dopo averla disconnessa?" closed="true" %}}
+{{% ls-details title="Posso ricollegare un'app dopo averla disconnessa?" closed="true" %}}
 Sì. Se hai di nuovo bisogno dell'app, accedi semplicemente con Google quando richiesto. L'app richiederà nuovamente i permessi e potrai esaminarli prima di concedere l'accesso.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Con quale frequenza dovrei controllare l'accesso delle app di terze parti?" closed="true" %}}
+{{% ls-details title="Con quale frequenza dovrei controllare l'accesso delle app di terze parti?" closed="true" %}}
 Controlla le tue app collegate ogni 3-6 mesi, o immediatamente dopo aver smesso di usare un servizio. I controlli regolari aiutano a mantenere il tuo account sicuro.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Questo influisce su app come Evermusic che si collegano a Google Drive?" closed="true" %}}
+{{% ls-details title="Questo influisce su app come Evermusic che si collegano a Google Drive?" closed="true" %}}
 Sì. Se disconnetti un'app come Evermusic o Flacbox dal tuo account Google, perderà l'accesso ai tuoi file di Google Drive. Puoi ricollegarti in qualsiasi momento dall'interno dell'app.
-{{% /details %}}
+{{% /ls-details %}}

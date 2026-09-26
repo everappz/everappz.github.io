@@ -17,7 +17,7 @@ readingTime: 8
 Η ενότητα Τοπικά Αρχεία χρησιμεύει ως κέντρο διαχείρισης αρχείων που βρίσκονται στον φάκελο Εγγράφων της εφαρμογής, καθώς και αρχείων που προστέθηκαν από τη συσκευή σας και είναι διαθέσιμα για offline αναπαραγωγή.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Οθόνη Τοπικών Αρχείων Flacbox" image="/docs/guide/flacbox/img/local-files.webp" >}}
+  {{< ls-card title="" subtitle="Οθόνη Τοπικών Αρχείων Flacbox" image="/docs/guide/flacbox/img/local-files.webp" >}}
 {{< /cards >}}
 
 ## Λήψη Αρχείων από Αποθηκευτικό Χώρο Cloud
@@ -98,7 +98,7 @@ readingTime: 8
 Εμφανίζει αρχεία που βρίσκονται στη συσκευή σας αλλά σε διαφορετικές εφαρμογές. Μπορείτε να τα εισάγετε χρησιμοποιώντας τον επιλογέα αρχείων συστήματος. Χρησιμοποιήστε **Άνοιγμα Αρχείων…** για αρχεία ή **Άνοιγμα Φακέλων…** για φακέλους. Λεπτομερείς οδηγίες είναι διαθέσιμες [εδώ](/docs/howto/how-to-play-local-music-stored-on-your-iphone-or-mac).
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox Φάκελοι Συνδεδεμένης Συσκευής" image="/docs/guide/flacbox/img/connected-device-folders.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox Φάκελοι Συνδεδεμένης Συσκευής" image="/docs/guide/flacbox/img/connected-device-folders.webp" >}}
 {{< /cards >}}
 
 Μπορείτε επίσης να συνδέσετε έναν φάκελο στη συσκευή σας. Χρησιμοποιήστε το στοιχείο μενού **Σύνδεση Φακέλου** και επιλέξτε φάκελο. Πατήστε **Ολοκλήρωση** και η εφαρμογή δημιουργεί σύνδεσμο με δικαίωμα ανάγνωσης / εγγραφής. Για αποσύνδεση, πατήστε **Περισσότερες Ενέργειες** και επιλέξτε **Αποσύνδεση**.
@@ -133,7 +133,7 @@ readingTime: 8
 - **Διαγραφή** — αφαίρεση από τη συσκευή. **Αυτή η ενέργεια είναι μη αναστρέψιμη.**
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox Λειτουργία Επιλογής Τοπικών Αρχείων" image="/docs/guide/flacbox/img/local-files-selection-mode.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox Λειτουργία Επιλογής Τοπικών Αρχείων" image="/docs/guide/flacbox/img/local-files-selection-mode.webp" >}}
 {{< /cards >}}
 
 ## Μενού Επιλογών
@@ -157,7 +157,7 @@ readingTime: 8
 - **Διαγραφή** — διαγραφή από τη συσκευή. **Αυτή η ενέργεια είναι μη αναστρέψιμη** και τα διαγραμμένα αρχεία δεν μπορούν να ανακτηθούν.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox Περισσότερες Ενέργειες για Τοπικό Αρχείο" image="/docs/guide/flacbox/img/local-files-more-actions-for-file.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox Περισσότερες Ενέργειες για Τοπικό Αρχείο" image="/docs/guide/flacbox/img/local-files-more-actions-for-file.webp" >}}
 {{< /cards >}}
 
 ## Εκτός Σύνδεσης Φάκελοι

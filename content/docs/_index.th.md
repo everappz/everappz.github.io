@@ -4,7 +4,9 @@ title: 'เอกสาร'
 ---
 
 
-{{< lottie src="/images/juicy-json/juicy-girl-and-boy-searching-for-the-right-files.json" width="90%" >}}
+{{< ls-lottie src="/images/juicy-json/juicy-girl-and-boy-searching-for-the-right-files.json" width="90%" >}}
+
+{{< ls-docs-search >}}
 
 ส่วนนี้มีเอกสารที่เป็นประโยชน์สำหรับแอป Everappz ทั้งหมด — รวมถึงคำแนะนำการตั้งค่า คำอธิบายฟีเจอร์ และเคล็ดลับขั้นสูง
 
@@ -13,9 +15,9 @@ title: 'เอกสาร'
 ## เริ่มต้น
 
 {{< cards >}}
-  {{< card icon="book-open" link="/docs/guide" title="คู่มือผู้ใช้" >}}
-  {{< card icon="question-mark-circle" link="/docs/faq" title="คำถามที่พบบ่อย" >}}
-  {{< card icon="light-bulb" link="/docs/howto" title="วิธีใช้" >}}
+  {{< ls-card icon="book-open" link="/docs/guide" title="คู่มือผู้ใช้" >}}
+  {{< ls-card icon="question-mark-circle" link="/docs/faq" title="คำถามที่พบบ่อย" >}}
+  {{< ls-card icon="light-bulb" link="/docs/howto" title="วิธีใช้" >}}
 {{< /cards >}}
 
 - **คู่มือผู้ใช้** ช่วยให้คุณติดตั้ง กำหนดค่า และใช้งานแอปของเราได้อย่างเต็มประสิทธิภาพ
@@ -31,5 +33,5 @@ title: 'เอกสาร'
 สำหรับนโยบายทางกฎหมาย แนวปฏิบัติการจัดการข้อมูล และข้อตกลงผู้ใช้ที่เกี่ยวข้องกับบริการของเรา โปรดดูเอกสารทางกฎหมายด้านล่าง:
 
 {{< cards >}}
-  {{< card icon="document-text" link="/legal" title="ศูนย์กฎหมาย" >}}
+  {{< ls-card icon="document-text" link="/legal" title="ศูนย์กฎหมาย" >}}
 {{< /cards >}}

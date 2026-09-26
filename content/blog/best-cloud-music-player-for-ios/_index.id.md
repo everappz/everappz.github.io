@@ -12,7 +12,7 @@ authors:
     image: "/images/about/artem-meleshko-founder-everappz.webp"
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 **Ringkasan:** Evermusic adalah pemutar musik cloud untuk iPhone dan iPad yang terhubung ke Dropbox, Google Drive, OneDrive, dan 9+ layanan cloud lainnya. Ini memutar FLAC, MP3, WAV, dan format lainnya, mendukung unduhan offline, dan menyertakan equalizer serta editor tag ID3. Unduhan gratis dengan peningkatan Premium sekali bayar. 11 juta+ unduhan, rating bintang 4,6 di App Store.
 
@@ -20,7 +20,7 @@ authors:
 
 Tonton ulasan video lengkap dari [@Massi_Media](https://www.youtube.com/@Massi_Media):
 
-{{< youtubecard id="pKUZmHy9dxc" >}}
+{{< ls-youtubecard id="pKUZmHy9dxc" >}}
 
 ## Apa Pemutar Musik Cloud Terbaik untuk iPhone?
 
@@ -67,18 +67,18 @@ Karena Evermusic bekerja dengan file yang sudah Anda miliki dan penyimpanan yang
 
 ## Pertanyaan yang Sering Diajukan
 
-{{% details title="Apakah Evermusic benar-benar gratis digunakan?" closed="true" %}}
+{{% ls-details title="Apakah Evermusic benar-benar gratis digunakan?" closed="true" %}}
 Ya, Evermusic menawarkan tingkat gratis yang mencakup konektivitas cloud, streaming, dan unduhan offline. Versi gratis mendukung fitur pemutaran dasar dan jumlah koneksi akun cloud yang terbatas. Evermusic Pro, tersedia sebagai pembelian sekali bayar atau langganan, membuka equalizer penuh, crossfade, akun cloud tambahan, dan fitur canggih lainnya. Tidak diperlukan langganan untuk mengakses file musik Anda sendiri.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Bisakah saya menggunakan Evermusic tanpa koneksi internet?" closed="true" %}}
+{{% ls-details title="Bisakah saya menggunakan Evermusic tanpa koneksi internet?" closed="true" %}}
 Tentu saja. Evermusic memungkinkan Anda mengunduh lagu dari layanan cloud mana pun yang terhubung langsung ke perangkat Anda untuk diputar secara offline. Setelah diunduh, file disimpan secara lokal dan tetap tersedia bahkan tanpa Wi-Fi atau data seluler. Ini membuat Evermusic ideal untuk penerbangan, perjalanan melalui terowongan, atau situasi apa pun di mana konektivitas tidak dapat diandalkan.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Apakah Evermusic mendukung format audio lossless seperti FLAC?" closed="true" %}}
+{{% ls-details title="Apakah Evermusic mendukung format audio lossless seperti FLAC?" closed="true" %}}
 Ya. Evermusic mendukung berbagai format audio termasuk FLAC, ALAC, WAV, AIFF, OGG, MP3, AAC, dan M4A. Aplikasi memutar file lossless dengan kualitas aslinya tanpa pengkodean ulang, sehingga para audiofil dapat menikmati koleksi resolusi tinggi mereka persis seperti yang dimaksudkan.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Bagaimana cara menghubungkan NAS atau server rumah saya ke Evermusic?" closed="true" %}}
+{{% ls-details title="Bagaimana cara menghubungkan NAS atau server rumah saya ke Evermusic?" closed="true" %}}
 Jika NAS atau server rumah Anda mendukung protokol WebDAV atau SMB, Anda dapat menghubungkannya ke Evermusic dengan memasukkan alamat server, port, dan kredensial di pengaturan koneksi cloud aplikasi. Sebagian besar merek NAS populer termasuk Synology, QNAS, dan Western Digital MyCloud mendukung protokol ini di luar kotak. Setelah terhubung, Evermusic akan memindai dan mengindeks file musik Anda seperti sumber cloud lainnya.
-{{% /details %}}
+{{% /ls-details %}}

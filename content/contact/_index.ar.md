@@ -1,9 +1,10 @@
 ---
+excludeSearch: true
 date: '2025-06-12T17:00:00+00:00'
 title: 'اتصل بنا'
 ---
 
-{{< lottie src="/images/juicy-json/juicy-girl-typing-on-phone.json" width="60%" >}}
+{{< ls-lottie src="/images/juicy-json/juicy-girl-typing-on-phone.json" width="60%" >}}
 
 ## العنوان البريدي
 
@@ -27,4 +28,4 @@ title: 'اتصل بنا'
 
 اشترك معنا على شبكات التواصل الاجتماعي للحصول على أحدث الأخبار وتحديثات التطبيقات والنصائح والمعلومات المفيدة:
 
-{{< social-cards >}}
+{{< ls-social-cards >}}

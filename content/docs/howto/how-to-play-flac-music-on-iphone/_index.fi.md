@@ -8,7 +8,7 @@ tags: ["musiikki", "pilvi", "soitin", "lataaja", "taajuuskorjain", "häviötön"
 readingTime: 8
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **Lyhyesti:** Toistaaksesi FLAC-tiedostoja iPhonella tarvitset kolmannen osapuolen soittimen, koska Applen Musiikki-sovellus ei tue FLAC-muotoa. Asenna [Flacbox](/products/flacbox) (se on ilmainen), ja siirrä sitten tiedostosi joko Wi-Fi Driven tai USB:n kautta, tai yhdistä pilvitallennus tai NAS. FLAC-kirjastosi toistuu täydellä laadulla, jopa 384 kHz ja 32-bit USB DAC:in kautta. Flacbox toistaa myös yli 120 formaattia, mukaan lukien FLAC, DSD, ALAC, APE, WAV, OGG ja OPUS, ja siihen kuuluu 10-kaistainen taajuuskorjain, ammattitason BASS-äänimoottori reaaliaikaisilla tehosteilla, DSP-prosessori sekä koko näytön musiikkivisualisoija.
@@ -34,7 +34,7 @@ Flacbox on hi-res-musiikkisoitin iPhonelle, iPadille ja Macille. Se muuttaa pilv
 
 Flacbox on ilmainen ladata ja toimii iPhonella, iPadilla ja Macilla.
 
-{{< app-details product="flacbox" >}}
+{{< ls-app-details product="flacbox" >}}
 
 ### Vaihe 2. Tuo FLAC-tiedostosi sisään
 
@@ -82,7 +82,7 @@ Voit valita toistomoottorin kohdassa Asetukset, sitten Äänisoitin, sitten Ää
 Flacbox sisältää 10-kaistaisen graafisen taajuuskorjaimen iPod-tyylisillä esiasetuksilla kuten Acoustic, Bass Booster, Rock, Pop, Jazz, Classical ja Dance. Mukana on esivahvistin hiljaisten kappaleiden nostamiseen ilman leikkautumista, ja voit tallentaa omat esiasetuksesi. Viritä se in-ear-kuulokkeille, HomePodille tai auton stereoille. Täydellisen läpikäynnin löydät [taajuuskorjainoppaasta](/docs/howto/how-to-use-the-audio-equalizer-on-your-iphone-ipad-mac-with-evermusic-and-flacbox).
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacboxin äänisoittimen taajuuskorjain" image="/docs/guide/flacbox/img/audio-player-equalizer.webp" >}}
+  {{< ls-card title="" subtitle="Flacboxin äänisoittimen taajuuskorjain" image="/docs/guide/flacbox/img/audio-player-equalizer.webp" >}}
 {{< /cards >}}
 
 ## Reaaliaikaiset äänitehosteet
@@ -106,7 +106,7 @@ Tehosteiden lisäksi Flacbox antaa sinulle reaaliaikaisen 14 suodattimen DSP-pro
 Flacboxissa on sisäänrakennettu musiikkivisualisoija, joka maalaa liikkuvaa, värikästä visuaalia musiikkisi tahtiin. Se käyttää tunnettua Milkdrop-moottoria (projectM) 500 presets, piirrettynä OpenGL:llä iPhonella, iPadilla ja Macilla. Avaa se soittimesta napauttamalla Lisää toimintoja -painiketta ja sitten Visualisointi. Valitse esiasetus, tai käytä Auto-tilaa vaihtaaksesi niiden välillä 30 sekunnin välein pehmeällä ristihäivytyksellä. Vaiheittaisen avun saat oppaasta [kuinka ottaa musiikkivisualisoija käyttöön](/docs/howto/how-to-turn-on-a-music-visualizer-while-playing-music-on-iphone-ipad-mac).
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacboxin musiikkivisualisoija (Milkdrop ja projectM)" image="/docs/howto/how-to-turn-on-a-music-visualizer-while-playing-music-on-iphone-ipad-mac/music-visualizer-starfield-sectors-preset.webp" >}}
+  {{< ls-card title="" subtitle="Flacboxin musiikkivisualisoija (Milkdrop ja projectM)" image="/docs/howto/how-to-turn-on-a-music-visualizer-while-playing-music-on-iphone-ipad-mac/music-visualizer-starfield-sectors-preset.webp" >}}
 {{< /cards >}}
 
 ## Pilvi, NAS ja offline-toisto
@@ -127,7 +127,7 @@ Kun haluat musiikkisi mukaan, sisäänrakennettu latauksenhallinta tallentaa kok
 
 Flacbox on ilmainen ladata. Premium poistaa ilmaisversion rajoitukset pilvitileiltä, soittolistoilta ja offline-kansioilta, ja se on saatavilla kertaluonteisena elinikäisenä ostoksena tai kuukausi- tai vuositilauksena, mukana Perhejako.
 
-{{< app-details product="flacbox" >}}
+{{< ls-app-details product="flacbox" >}}
 
 ## Vaihtoehto 2: Muunna FLAC ALAC:ksi Musiikki-sovellusta varten
 
@@ -141,34 +141,34 @@ Kompromissit ovat todellisia. Sinulla on nyt kaksi kopiota kirjastostasi, jokain
 
 ## UKK
 
-{{% details title="Voiko iPhone toistaa FLAC-tiedostoja natiivisti?" closed="true" %}}
+{{% ls-details title="Voiko iPhone toistaa FLAC-tiedostoja natiivisti?" closed="true" %}}
 Vain rajallisesti. Tiedostot-sovellus voi esikatsella yksittäistä FLAC-tiedostoa iOS 11:stä lähtien, mutta siinä ei ole kirjastoa, soittolistoja, jonoa, taajuuskorjainta eikä pilvisuoratoistoa. Todellista kuuntelua varten käytä soitinsovellusta kuten Flacbox.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Voinko toistaa 24-bit- tai 96kHz-FLAC:ia (tai korkeampaa) iPhonella?" closed="true" %}}
+{{% ls-details title="Voinko toistaa 24-bit- tai 96kHz-FLAC:ia (tai korkeampaa) iPhonella?" closed="true" %}}
 Kyllä. Flacbox tukee hi-res-toistoa jopa 384 kHz asti. Toistaaksesi yli 48 kHz todellisella resoluutiolla, kytke ulkoinen USB DAC, koska iPhonen sisäänrakennettu ulostulo uudelleennäytteistää äänen jokaiselle sovellukselle.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Muuntaako Flacbox FLAC:in toiseen formaattiin?" closed="true" %}}
+{{% ls-details title="Muuntaako Flacbox FLAC:in toiseen formaattiin?" closed="true" %}}
 Ei. Flacbox toistaa FLAC:in sen alkuperäisessä häviöttömässä laadussa ilman muunnosta. Tehosteet ja DSP sovelletaan livenä vain toiston aikana, eivätkä ne koskaan muuta tiedostojasi.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Menetänkö laatua muuntaessani FLAC:in ALAC:ksi?" closed="true" %}}
+{{% ls-details title="Menetänkö laatua muuntaessani FLAC:in ALAC:ksi?" closed="true" %}}
 En. FLAC ja ALAC ovat molemmat häviöttömiä, joten muunnos on bit-perfect. Kulutat vain aikaa ja luovut mukavuudesta, sillä päädyt kahteen ylläpidettävään kirjastoon ja joudut synkronoimaan uudelleen muokkausten jälkeen.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Mitä äänimuotoja Flacbox tukee?" closed="true" %}}
+{{% ls-details title="Mitä äänimuotoja Flacbox tukee?" closed="true" %}}
 Yli 120 formaattia, mukaan lukien FLAC, DSD (DSF ja DFF), ALAC, APE, WAV, AIFF, WV, OGG, OPUS, MP3, AAC, M4A, WMA, ja jopa tracker- ja MOD-musiikkia kuten MOD, XM, IT ja S3M.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Onko Flacboxissa taajuuskorjain, tehosteet ja visualisoija?" closed="true" %}}
+{{% ls-details title="Onko Flacboxissa taajuuskorjain, tehosteet ja visualisoija?" closed="true" %}}
 Kyllä. Siinä on 10-kaistainen taajuuskorjain esiasetuksilla ja esivahvistin. Siinä on myös ammattitason BASS-moottori yhdellätoista reaaliaikaisella tehosteella (reverb, delay, multi-tap-kaiku, crossfeed, compressor, chorus, flanger, phaser, auto-wah, distortion ja stereo rotation), sekä EBU R128 -äänenvoimakkuuden tasaus, 14 suodattimen DSP-prosessori ja koko näytön Milkdrop-visualisoija 500 presets.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Voinko suoratoistaa FLAC:ia NAS-laitteeltani tai pilvestä?" closed="true" %}}
+{{% ls-details title="Voinko suoratoistaa FLAC:ia NAS-laitteeltani tai pilvestä?" closed="true" %}}
 Kyllä. Flacbox yhdistyy yli 30 pilvipalveluun sekä NAS-laitteeseen tai tietokoneeseen SMB:n, WebDAV:n, DLNA:n, FTP:n, SFTP:n ja NFS:n kautta. Koko kirjastosi on käytettävissä ilman tiedostojen kopiointia iPhoneesi, ja voit ladata kappaleita offline-toistoa varten milloin tahansa.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Onko Flacbox todella ilmainen?" closed="true" %}}
+{{% ls-details title="Onko Flacbox todella ilmainen?" closed="true" %}}
 Flacbox on ilmainen ladata, ja siinä on ydinominaisuudet kuten taajuuskorjain, pilvisuoratoisto ja offline-toisto. Premium poistaa ilmaisversion rajoitukset pilvitileiltä, soittolistoilta ja offline-kansioilta, ja se tulee kertaluonteisena elinikäisenä ostoksena tai kuukausi- tai vuositilauksena, mukana Perhejako.
-{{% /details %}}
+{{% /ls-details %}}

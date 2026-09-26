@@ -12,7 +12,7 @@ authors:
     image: "/images/about/artem-meleshko-founder-everappz.webp"
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 **重點:** [Flacbox 7.4](/products/flacbox) 是 iPhone 與 Mac 上 hi-res 音訊播放器的重大更新。CarPlay 已從零開始重建 — 快速排序、多種配色配置、全新「正在播放」畫面、一眼看到完整播放佇列,以及針對龐大資料庫的字母索引。本次更新新增了 10+ 種連結音樂的新方式 — 重視隱私的雲端 **Internxt** 與 **Proton Drive**、個人伺服器 **QNAP**、**Nextcloud** 和 **Amazon S3**、串流伺服器 **Plex**、**Subsonic**、**Navidrome**、**Jellyfin** 與 **Emby**,以及 **FTP**、**SFTP** 與 **NFS** 網路協定。介面已針對 Apple 全新的 **Liquid Glass** 材質進行調校,底層網路函式庫更強,主畫面小工具更新更可靠。
 
@@ -121,50 +121,50 @@ Flacbox 7.4 圍繞兩個想法打造:
 
 ## 常見問題
 
-{{% details title="Flacbox 7.4 有什麼新功能?" closed="true" %}}
+{{% ls-details title="Flacbox 7.4 有什麼新功能?" closed="true" %}}
 Flacbox 7.4 帶來完全重建的 CarPlay 體驗、新增 10+ 種連線 — Plex、Jellyfin、Emby、Subsonic、Navidrome、Internxt、Proton Drive、QNAP、Nextcloud、Amazon S3、FTP、SFTP、NFS。此次更新還帶來 Liquid Glass 設計煥新、更強的網路函式庫、智慧重新整理的重新設計主畫面小工具、某些伺服器上的播放修正、翻譯改進以及眾多小幅打磨。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Flacbox 是否支援 Plex 的 FLAC 與無損音訊?" closed="true" %}}
+{{% ls-details title="Flacbox 是否支援 Plex 的 FLAC 與無損音訊?" closed="true" %}}
 是的。從 Flacbox 7.4 開始,你可以連線至 Plex Media Server,並串流整個 hi-res 資料庫 — FLAC、ALAC、WAV、AIFF、OGG、OPUS 與其他無損格式。Plex Media Server 可免費執行;Plex Pass 為可選。Flacbox 同時支援免費與 Plex Pass 設定。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Flacbox 支援 Jellyfin 與 Navidrome 嗎?" closed="true" %}}
+{{% ls-details title="Flacbox 支援 Jellyfin 與 Navidrome 嗎?" closed="true" %}}
 是的。Jellyfin 與 Navidrome 都在 Flacbox 7.4 中獲得完整支援。Jellyfin 是免費、開源的媒體伺服器;Navidrome 是實作 Subsonic API 的免費、開源音樂伺服器。Flacbox 以原生方式連線兩者,並以完整的中繼資料與封面串流你的無損資料庫。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Plex、Jellyfin、Emby、Navidrome 與 Subsonic 是免費的嗎?" closed="true" %}}
+{{% ls-details title="Plex、Jellyfin、Emby、Navidrome 與 Subsonic 是免費的嗎?" closed="true" %}}
 - **Plex** — 伺服器免費;Plex Pass 為可選的付費升級。
 - **Jellyfin** — 完全免費且開源。
 - **Emby** — 伺服器免費;Emby Premiere 為付費,可解鎖行動同步與離線。
 - **Navidrome** — 完全免費且開源。
 - **Subsonic** — 官方伺服器在 30 天試用後每月 1 美元,但其 API 為開放,許多免費伺服器(包含 Navidrome)都實作了它。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="可以透過 SFTP、FTP 或 NFS 從家用 NAS 串流 FLAC 與 DSD 嗎?" closed="true" %}}
+{{% ls-details title="可以透過 SFTP、FTP 或 NFS 從家用 NAS 串流 FLAC 與 DSD 嗎?" closed="true" %}}
 可以。Flacbox 7.4 將 SFTP、FTP 與 NFS 加入為原生連線型別。SFTP 是從自己的伺服器透過公開網際網路串流的建議選擇,因為所有流量都會透過 SSH 加密。FTP 與 NFS 較適合在區域網路或 VPN 內使用。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="如何使用 SFTP 將 Flacbox 連線至自訂伺服器?" closed="true" %}}
+{{% ls-details title="如何使用 SFTP 將 Flacbox 連線至自訂伺服器?" closed="true" %}}
 開啟 Flacbox,前往連線分頁,選擇 SFTP,然後輸入伺服器的主機名稱或 IP、連接埠(通常為 22)、使用者名稱,以及密碼或 SSH 私密金鑰。Flacbox 會瀏覽你的遠端資料夾,並以端對端加密直接串流音訊檔。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Flacbox 支援 Internxt 與 Proton Drive 嗎?" closed="true" %}}
+{{% ls-details title="Flacbox 支援 Internxt 與 Proton Drive 嗎?" closed="true" %}}
 支援。兩款重視隱私的雲端皆從 Flacbox 7.4 起獲得支援。它們與 App 中已有的 MEGA 等重視隱私的服務並列。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Flacbox 是否能播放來自 Plex、Jellyfin 或 NAS 的 DSD 檔案?" closed="true" %}}
+{{% ls-details title="Flacbox 是否能播放來自 Plex、Jellyfin 或 NAS 的 DSD 檔案?" closed="true" %}}
 是的。Flacbox 能播放從 Plex、Jellyfin、Emby、Subsonic 相容伺服器、QNAP、Nextcloud、Amazon S3 以及透過 SFTP、FTP 與 NFS 串流的 DSD64、DSD128 與 DSD256 檔案(DSF 與 DFF 容器)。在 iPhone、iPad 與 Mac 上支援 bit-perfect 輸出至 USB DAC。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="重新設計的 CarPlay 畫面如何運作?" closed="true" %}}
+{{% ls-details title="重新設計的 CarPlay 畫面如何運作?" closed="true" %}}
 Flacbox 的 CarPlay 介面已重建,支援在專輯、藝術家、播放清單與資料夾中快速排序;多種與不同車內裝飾相匹配的配色配置;帶有新控制項的全新「正在播放」畫面;一眼可見的完整播放佇列;針對大型資料庫的字母索引;以及在大型資料夾與雲端目錄上的更快載入。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Flacbox 7.4 是免費更新嗎?" closed="true" %}}
+{{% ls-details title="Flacbox 7.4 是免費更新嗎?" closed="true" %}}
 是的。Flacbox 在 App Store 為免費下載,7.4 是針對所有現有使用者的免費更新。重建的 CarPlay、所有全新的雲端與伺服器連線、煥新的主畫面小工具以及 Liquid Glass UI 皆屬於基礎更新。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Flacbox 7.4 在哪些裝置上可用?" closed="true" %}}
+{{% ls-details title="Flacbox 7.4 在哪些裝置上可用?" closed="true" %}}
 Flacbox 7.4 可在 iPhone、iPad 與 Mac 上執行。CarPlay 支援需要相容 CarPlay 的車輛或售後主機。AirPlay 與 Chromecast 讓你能把播放投到更大的系統;USB DAC 支援 bit-perfect 無損輸出。
-{{% /details %}}
+{{% /ls-details %}}

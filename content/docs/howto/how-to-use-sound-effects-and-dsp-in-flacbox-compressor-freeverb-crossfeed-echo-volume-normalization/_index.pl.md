@@ -7,9 +7,9 @@ tags: ["Flacbox", "Efekty dźwiękowe", "Poradnik", "BASS", "Korektor", "Podbici
 readingTime: 30
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
-{{< full-width-tables >}}
+{{< ls-full-width-tables >}}
 
 **Krótka odpowiedź:** W Flacbox wybierasz jeden **Silnik odtwarzania** w **Ustawienia > Odtwarzacz audio**: **Standard** (systemowy silnik Apple), **Universal** (silnik FFmpeg) lub **Sound FX** (**silnik BASS™**). Wybrany silnik decyduje, które formaty plików się odtwarzają, więc wybór ma znaczenie. Silnik **Sound FX** odtwarza dodatkowe formaty, które większość aplikacji na iPhone pomija (FLAC, DSD, WavPack, APE, Musepack, TrueAudio, Opus oraz starą **muzykę MOD i trackerową** jak MOD, XM, IT i S3M) i jest jedynym silnikiem, który zasila narzędzia dźwiękowe: **10-pasmowy korektor**, **Normalizację głośności**, **Kompresor**, **Freeverb**, **Auto Wah**, **Phaser**, **Flanger**, **Echo**, **Chorus**, **Distortion**, **Rotate**, **Crossfeed** oraz własny **łańcuch DSP**. Aby więc korzystać z efektów w tym przewodniku, najpierw ustaw silnik odtwarzania na **Sound FX**. Każde narzędzie ma gotowe **presety**. Otwórz je w **Ustawienia > Odtwarzacz audio** (Efekty audio, Korektor audio, Przetwarzanie sygnału) lub dotknij przycisku **⋯ (Więcej)** na odtwarzaczu i wybierz **Efekty audio**. Nic, co tu robisz, nigdy nie zmienia Twoich plików.
 
@@ -657,93 +657,93 @@ Ponieważ to wszystko działa na żywo, gdy muzyka gra, efekty:
 
 ## FAQ
 
-{{% details title="Jakiego silnika dźwięku używa Flacbox?" closed="true" %}}
+{{% ls-details title="Jakiego silnika dźwięku używa Flacbox?" closed="true" %}}
 Wybierasz jeden Silnik odtwarzania w Ustawienia > Odtwarzacz audio: Standard (systemowy silnik Apple), Universal (silnik FFmpeg) lub Sound FX (silnik BASS™ od Un4seen Developments, un4seen.com). Wybrany silnik decyduje, które formaty plików się odtwarzają. Sound FX to ten, który odtwarza dodatkowe formaty jak FLAC, DSD, WavPack, APE, Musepack, TrueAudio, Opus oraz muzykę MOD lub trackerową, i jest jedynym silnikiem, który zapewnia efekty na żywo, 10-pasmowy korektor i łańcuch DSP. Aby korzystać z efektów, ustaw silnik odtwarzania na Sound FX.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Czy Flacbox może odtwarzać MOD, XM, IT i inną muzykę trackerową lub modułową?" closed="true" %}}
+{{% ls-details title="Czy Flacbox może odtwarzać MOD, XM, IT i inną muzykę trackerową lub modułową?" closed="true" %}}
 Tak. Silnik BASS™ ma wbudowany odtwarzacz modułów, który ładuje pliki MOD, XM, IT, S3M, MTM, UMX i MO3 oraz odbudowuje utwór na żywo z jego wzorców i brzmień instrumentów, w sposób, w jaki muzyka trackerowa ma być odtwarzana. Zwykłe odtwarzacze na iPhone nie potrafią tego zrobić. Efekty i korektor działają również na muzyce modułowej.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Czy Flacbox obsługuje DSD i pliki wysokiej rozdzielczości?" closed="true" %}}
+{{% ls-details title="Czy Flacbox obsługuje DSD i pliki wysokiej rozdzielczości?" closed="true" %}}
 Tak. Flacbox odtwarza pliki DSD (DSF i DFF) przez silnik BASS™ z użyciem DSD over PCM, więc działają na normalnym sprzęcie wyjściowym, plus FLAC, WavPack, Monkey's Audio (APE), Musepack i TrueAudio do bezstratnego odtwarzania.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Jakie efekty dźwiękowe ma Flacbox?" closed="true" %}}
+{{% ls-details title="Jakie efekty dźwiękowe ma Flacbox?" closed="true" %}}
 10-pasmowy korektor, Normalizację głośności, Kompresor, Freeverb, Auto Wah, Phaser, Flanger, Echo, Chorus, Distortion, Rotate i Crossfeed, plus własny łańcuch DSP z filtrami, półkami, wzmocnieniem, soft clipem, bit crusherem, ring modulatorem, tremolo, opóźnieniem i szerokością stereo. Każdy z nich jest osobny i można go łączyć z pozostałymi.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Czym jest preset?" closed="true" %}}
+{{% ls-details title="Czym jest preset?" closed="true" %}}
 Preset to gotowe ustawienie dla efektu. Zamiast samemu poruszać suwakami, dotykasz presetu, a dźwięk zmienia się, aby mu odpowiadać. Każdy efekt w Flacbox ma kilka presetów, a ten przewodnik wymienia, co robi każdy z nich. Jeśli poruszysz suwak po wybraniu presetu, efekt pokazuje „Ręczny”, aby powiedzieć Ci, że korzysta teraz z Twoich własnych wartości.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Jak otworzyć efekty audio w Flacbox?" closed="true" %}}
+{{% ls-details title="Jak otworzyć efekty audio w Flacbox?" closed="true" %}}
 Otwórz odtwarzacz Teraz odtwarzane, dotknij przycisku ⋯ (Więcej) i wybierz Efekty audio. Lub przejdź do Ustawienia > Odtwarzacz audio > Efekty audio. Dotknij efektu, włącz jego przełącznik i wybierz preset, lub otwórz suwaki, aby dostroić.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Gdzie jest korektor i jakie są najlepsze ustawienia?" closed="true" %}}
+{{% ls-details title="Gdzie jest korektor i jakie są najlepsze ustawienia?" closed="true" %}}
 Przejdź do Ustawienia > Odtwarzacz audio > Korektor audio. Ma 10 pasm od 32 Hz do 16 kHz, każde od -12 do +12 dB, plus Przedwzmacniacz od -24 do +24 dB i 22 presety. Dla większego basu użyj Bass Booster. Dla wyraźniejszych głosów użyj Vocal Booster lub Pop. Dla jaśniejszego dźwięku użyj Treble Booster. Następnie dostosuj pojedyncze pasma do gustu.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Jak podbić basy w Flacbox?" closed="true" %}}
+{{% ls-details title="Jak podbić basy w Flacbox?" closed="true" %}}
 Dwa łatwe sposoby. W Korektorze audio wybierz Bass Booster (lub podnieś pasma 32 Hz i 64 Hz o kilka dB). Lub, w Przetwarzaniu sygnału, dodaj blok Low Shelf ustawiony na Bass Boost. W obu przypadkach obniż Przedwzmacniacz lub dodaj blok Gain o 1 do 2 dB, aby bas pozostał czysty i się nie zniekształcał.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Który preset korektora jest najlepszy dla mojej muzyki?" closed="true" %}}
+{{% ls-details title="Który preset korektora jest najlepszy dla mojej muzyki?" closed="true" %}}
 Rock i Electronic dodają energii mocnym dołem i górą. Acoustic, Jazz i Classical pozostają ciepłe i naturalne. Pop i Vocal Booster wysuwają głosy do przodu. Bass Booster i Hip-Hop dodają ciężaru. Deep i Loudness brzmią pełniej przy niskiej głośności. Zacznij od tego, który pasuje do Twojego gatunku, a następnie dostrój.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Czym jest Normalizacja głośności i czym różni się od ReplayGain?" closed="true" %}}
+{{% ls-details title="Czym jest Normalizacja głośności i czym różni się od ReplayGain?" closed="true" %}}
 Sprawia, że każdy utwór gra na mniej więcej tej samej głośności. Mierzy rzeczywistą głośność przy użyciu standardu EBU R128 (w LUFS, jak serwisy streamingowe) i dostosowuje każdy utwór w kierunku Twojego celu, z limitem maksymalnego podbicia. W przeciwieństwie do ReplayGain nie potrzebuje żadnych tagów w plikach i działa na dowolnym źródle, na żywo, bez zmiany dźwięku. Presety: Light, Standard, Strong i Night.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Czym jest Crossfeed i czy powinienem go używać?" closed="true" %}}
+{{% ls-details title="Czym jest Crossfeed i czy powinienem go używać?" closed="true" %}}
 Crossfeed miesza trochę lewego i prawego kanału razem, aby słuchawki bardziej przypominały prawdziwe głośniki i mniej odczucie, że dźwięk utknął w Twojej głowie. Jest tylko dla słuchawek, więc wyłącz go dla głośników. Flacbox używa metody bs2b (Bauer), z presetami jak Chu Moy i Jan Meier.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Jaka jest różnica między Kompresorem a Normalizacją głośności?" closed="true" %}}
+{{% ls-details title="Jaka jest różnica między Kompresorem a Normalizacją głośności?" closed="true" %}}
 Normalizacja głośności dopasowuje głośność między różnymi utworami. Kompresor wyrównuje głośne i ciche fragmenty wewnątrz pojedynczego utworu. Rozwiązują różne problemy i dobrze ze sobą współpracują, zwłaszcza w samochodzie lub głośnym miejscu.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Czym jest łańcuch Przetwarzania sygnału (DSP)?" closed="true" %}}
+{{% ls-details title="Czym jest łańcuch Przetwarzania sygnału (DSP)?" closed="true" %}}
 To własny zestaw w Ustawienia > Odtwarzacz audio > Przetwarzanie sygnału. Dodaj bloki jak filtry, półki, wzmocnienie, soft clip, bit crusher, ring modulator, tremolo, opóźnienie i szerokość stereo, ustaw je w dowolnej kolejności, włącz lub wyłącz każdy i skieruj łańcuch na wszystkie kanały, lewy lub prawy. Ponieważ kolejność ma znaczenie, możesz zaprojektować dokładnie ten dźwięk, którego chcesz.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Jaka jest różnica między Korektorem, efektami a łańcuchem DSP?" closed="true" %}}
+{{% ls-details title="Jaka jest różnica między Korektorem, efektami a łańcuchem DSP?" closed="true" %}}
 Korektor to prosta 10-pasmowa kontrola barwy. Efekty audio to gotowe narzędzia (kompresor, pogłos, echo i tak dalej) z presetami. Łańcuch DSP to miejsce, gdzie budujesz własną kolejność efektów z pojedynczych bloków. Możesz uruchomić wszystkie trzy jednocześnie.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Czy efekty zmieniają lub uszkadzają moje pliki muzyczne?" closed="true" %}}
+{{% ls-details title="Czy efekty zmieniają lub uszkadzają moje pliki muzyczne?" closed="true" %}}
 Nie. Wszystko jest stosowane na żywo, gdy muzyka gra. Twoje pliki nigdy nie są zmieniane ani zapisywane ponownie. Wyłącz efekt, a oryginalny dźwięk wraca natychmiast.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Czy mogę używać więcej niż jednego efektu jednocześnie?" closed="true" %}}
+{{% ls-details title="Czy mogę używać więcej niż jednego efektu jednocześnie?" closed="true" %}}
 Tak. Każdy efekt ma własny przełącznik i nie ma głównego przełącznika, więc dowolna kombinacja działa. Na przykład Normalizacja głośności plus Kompresor dla równego słuchania, lub Freeverb plus Crossfeed na słuchawkach, z korektorem na wierzchu.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Dlaczego kontrolki efektu są wyszarzone?" closed="true" %}}
+{{% ls-details title="Dlaczego kontrolki efektu są wyszarzone?" closed="true" %}}
 Efekt jest wyłączony. Włącz jego przełącznik na górze edytora, aby użyć kontrolek. Każdy efekt jest domyślnie wyłączony.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Co oznacza etykieta Ręczny?" closed="true" %}}
+{{% ls-details title="Co oznacza etykieta Ręczny?" closed="true" %}}
 Oznacza to, że odsunąłeś suwak od presetu, więc efekt korzysta teraz z Twoich własnych niestandardowych wartości zamiast nazwanego presetu. Każdy suwak ma przycisk resetowania, a ponowne wybranie presetu zastępuje Twoje ręczne wartości.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Czy mogę zapisywać i udostępniać moje presety korektora?" closed="true" %}}
+{{% ls-details title="Czy mogę zapisywać i udostępniać moje presety korektora?" closed="true" %}}
 Tak. Oprócz 22 wbudowanych presetów możesz tworzyć własne, zmieniać ich kolejność oraz eksportować lub importować je, aby przenieść swoje ustawienia na inne urządzenie.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Czy efekty działają z CarPlay, streamingiem i odtwarzaniem w tle?" closed="true" %}}
+{{% ls-details title="Czy efekty działają z CarPlay, streamingiem i odtwarzaniem w tle?" closed="true" %}}
 Tak. Efekty działają wewnątrz silnika BASS™, więc stosują się do plików lokalnych, dysków w chmurze, serwerów multimediów, strumieni i muzyki modułowej, i działają nadal podczas CarPlay oraz odtwarzania w tle.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Czy mogę zmienić jakość wyjścia audio?" closed="true" %}}
+{{% ls-details title="Czy mogę zmienić jakość wyjścia audio?" closed="true" %}}
 Tak. W Ustawienia > Odtwarzacz audio możesz ustawić wyjściową częstotliwość próbkowania, liczbę kanałów i rozmiar bufora, aby dopasować do swoich słuchawek, głośników lub DAC.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Jaka jest dobra początkowa konfiguracja dla słuchawek?" closed="true" %}}
+{{% ls-details title="Jaka jest dobra początkowa konfiguracja dla słuchawek?" closed="true" %}}
 Włącz Normalizację głośności (Standard), dodaj lekki Kompresor (Soft), wybierz preset korektora, który lubisz, i włącz Crossfeed (Chu Moy lub Jan Meier). Pozostaw pogłos, echo i distortion wyłączone, chyba że chcesz kreatywnego brzmienia.
-{{% /details %}}
+{{% /ls-details %}}
 
 ---
 

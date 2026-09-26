@@ -31,7 +31,7 @@ readingTime: 14
 紧凑播放器在您浏览资料库、文件管理器或设置时保持可见，因此您在查找下一个视频时永远不会失去当前视频。
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evervideo 全屏媒体播放器" image="/docs/guide/evervideo/img/evervideo-media-player-fullscreen.webp" >}}
+  {{< ls-card title="" subtitle="Evervideo 全屏媒体播放器" image="/docs/guide/evervideo/img/evervideo-media-player-fullscreen.webp" >}}
 {{< /cards >}}
 
 ## 支持的视频和音频格式
@@ -72,7 +72,7 @@ PiP 适用于 Evervideo 播放的每种视频格式，包括云端流媒体文�
 紧凑播放器是一个持久的迷你播放器，在您浏览资料库、文件管理器或设置时始终显示在应用的每个屏幕顶部。点击它展开到全屏播放器；向下滑动再次折叠。
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evervideo 主屏幕紧凑播放器视图中的视频设置" image="/docs/guide/evervideo/img/evervideo-video-settings-from-compact-player-view-on-the-main-screen.webp" >}}
+  {{< ls-card title="" subtitle="Evervideo 主屏幕紧凑播放器视图中的视频设置" image="/docs/guide/evervideo/img/evervideo-video-settings-from-compact-player-view-on-the-main-screen.webp" >}}
 {{< /cards >}}
 
 ## AirPlay 2
@@ -115,7 +115,7 @@ Evervideo 包含完整的音频均衡器，用于为您的耳机、音箱或高�
 为了调整画面，Evervideo 提供专用的视频均衡器——在播放过程中实时调整亮度、对比度、饱和度和色调。与音频均衡器一样，自定义视频预设可以导出和导入以便共享或备份。使用它在晴天亮化暗景、增强褪色内容的饱和度，或暖化冷色调。
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evervideo 视频均衡器" image="/docs/guide/evervideo/img/evervideo-video-equalizer.webp" >}}
+  {{< ls-card title="" subtitle="Evervideo 视频均衡器" image="/docs/guide/evervideo/img/evervideo-video-equalizer.webp" >}}
 {{< /cards >}}
 
 ## 视频缩放模式
@@ -144,7 +144,7 @@ Evervideo 包含用于球形视频文件的 VR / 360° 视口。播放 360° 视
 点击播放器工具栏上的速度控制来更改播放速度——放慢用于分析（0.25× 或 0.5×）或加速用于教程和讲座（1.25×、1.5×、2× 和高达 3×）。点击速度屏幕右上角的配置图标切换到具有更精细调整的精确模式。还提供每轨道音调校正。
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evervideo 主工具栏上的播放速度" image="/docs/guide/evervideo/img/evervideo-media-player-playback-speed-on-main-toolbar.webp" >}}
+  {{< ls-card title="" subtitle="Evervideo 主工具栏上的播放速度" image="/docs/guide/evervideo/img/evervideo-media-player-playback-speed-on-main-toolbar.webp" >}}
 {{< /cards >}}
 
 ## 播放器队列
@@ -152,7 +152,7 @@ Evervideo 包含用于球形视频文件的 VR / 360° 视口。播放 360° 视
 要查看播放器队列，点击播放器上的队列按钮。队列中的每个视频都有更多操作——点击三个点查看它们。要重新排序队列中的视频，使用标题旁边的重新排序指示器并拖到新位置。
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evervideo 播放队列" image="/docs/guide/evervideo/img/evervideo-playback-queue.webp" >}}
+  {{< ls-card title="" subtitle="Evervideo 播放队列" image="/docs/guide/evervideo/img/evervideo-playback-queue.webp" >}}
 {{< /cards >}}
 
 ## 睡眠定时器
@@ -189,7 +189,7 @@ Evervideo 包含用于球形视频文件的 VR / 360° 视口。播放 360° 视
 - **帮助** — 打开指南。
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evervideo 播放器更多操作屏幕" image="/docs/guide/evervideo/img/evervideo-media-player-more-actions.webp" >}}
+  {{< ls-card title="" subtitle="Evervideo 播放器更多操作屏幕" image="/docs/guide/evervideo/img/evervideo-media-player-more-actions.webp" >}}
 {{< /cards >}}
 
 ## 播放器设置

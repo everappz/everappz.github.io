@@ -7,7 +7,7 @@ tags: ["promocional", "appstore", "instal·lar", "bescanviar", "codi", "gratuït
 readingTime: 2
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **Resum ràpid:** Un codi promocional us permet descarregar una aplicació de pagament gratuïtament o desbloquejar compres dins l'aplicació. A iOS: App Store > Icona del compte > Bescanviar targeta regal o codi > introduïu el codi. A Mac: App Store > Compte > Bescanviar targeta regal > introduïu el codi. Després obriu l'aplicació i restaureu les compres si cal.
@@ -94,22 +94,22 @@ Gaudiu de la vostra aplicació gratuïta o millora dins l'aplicació!
 
 ## Preguntes freqüents
 
-{{% details title="On puc obtenir un codi promocional?" closed="true" %}}
+{{% ls-details title="On puc obtenir un codi promocional?" closed="true" %}}
 Els codis promocionals són proporcionats pels desenvolupadors d'aplicacions per a ressenyes, sorteigs o promocions. Contacteu directament amb el desenvolupador per sol·licitar-ne un.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Els codis promocionals caduquen?" closed="true" %}}
+{{% ls-details title="Els codis promocionals caduquen?" closed="true" %}}
 Sí. Els codis promocionals de l'App Store caduquen 28 dies després de ser generats i només es poden bescanviar una vegada.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Puc utilitzar un codi promocional a qualsevol país?" closed="true" %}}
+{{% ls-details title="Puc utilitzar un codi promocional a qualsevol país?" closed="true" %}}
 Els codis promocionals són específics de la regió. El codi ha de coincidir amb el país de l'App Store del vostre Apple ID.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Com activo les compres dins l'aplicació amb un codi promocional?" closed="true" %}}
+{{% ls-details title="Com activo les compres dins l'aplicació amb un codi promocional?" closed="true" %}}
 Després de bescanviar el codi a l'App Store, obriu l'aplicació i aneu a Configuració > Restaurar compres. El contingut premium es desbloquejarà automàticament.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="El codi promocional diu que ja ha estat bescanviat. Què he de fer?" closed="true" %}}
+{{% ls-details title="El codi promocional diu que ja ha estat bescanviat. Què he de fer?" closed="true" %}}
 Cada codi promocional només es pot utilitzar una vegada. Contacteu amb el desenvolupador per sol·licitar un codi nou.
-{{% /details %}}
+{{% /ls-details %}}

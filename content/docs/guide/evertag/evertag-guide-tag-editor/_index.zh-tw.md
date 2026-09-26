@@ -15,7 +15,7 @@ readingTime: 5
 **標籤編輯器**是 Evertag 應用程式的主畫面，您可以在此查看和編輯音訊檔案元資料。透過點選**本機檔案**部分中的檔案或從任何已連接的**雲端儲存**帳戶開啟此畫面。
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evertag Tag Editor Screen" image="/docs/guide/evertag/img/tag-editor.webp" >}}
+  {{< ls-card title="" subtitle="Evertag Tag Editor Screen" image="/docs/guide/evertag/img/tag-editor.webp" >}}
 {{< /cards >}}
 
 ## 編輯模式
@@ -38,7 +38,7 @@ Evertag 提供兩種編輯模式：
 要存取所有可用標籤，向下捲動到畫面底部並點選**顯示擴展標籤**選項。這將把編輯器切換到擴展模式，允許您編輯超過 **120 個元資料欄位**，包括 **MusicBrainz 標籤**、**歌詞**、**內容分級**、replay-gain 值、排序順序、播客元資料等。使用**設定 → 音訊標籤編輯器 → 主畫面按鈕**永久切換顯示擴展標籤。
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Bottom Actions Panel" image="/docs/guide/evertag/img/tag-editor-bottom-actions.webp" >}}
+{{< ls-card title="" subtitle="Bottom Actions Panel" image="/docs/guide/evertag/img/tag-editor-bottom-actions.webp" >}}
 {{< /cards >}}
 
 ## 批次模式
@@ -53,7 +53,7 @@ Evertag 提供兩種編輯模式：
    - 開啟任何檔案，向下捲動，點選**同時編輯檔案**以載入同一資料夾中的所有檔案。
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Batch Editing Mode" image="/docs/guide/evertag/img/tag-editor-batch-editing.webp" >}}
+{{< ls-card title="" subtitle="Batch Editing Mode" image="/docs/guide/evertag/img/tag-editor-batch-editing.webp" >}}
 {{< /cards >}}
 
 編輯後，點選**儲存**以套用變更。
@@ -72,19 +72,19 @@ Evertag 提供兩種編輯模式：
 每個捷徑只在相應服務從您的裝置可存取時顯示。點選一個服務，複製您想要的歌詞（或 LRC 時間戳），返回 Evertag，將其貼上到文字欄位中——然後點選**儲存**將歌詞寫回音訊檔案的標籤。
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Lyrics Pages" image="/docs/guide/evertag/img/tag-editor-lyrics-pages.webp" >}}
+  {{< ls-card title="" subtitle="Lyrics Pages" image="/docs/guide/evertag/img/tag-editor-lyrics-pages.webp" >}}
 {{< /cards >}}
 
 從選擇器中選擇語言：
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Lyrics Language Selector" image="/docs/guide/evertag/img/tag-editor-lyrics-language-select.webp" >}}
+  {{< ls-card title="" subtitle="Lyrics Language Selector" image="/docs/guide/evertag/img/tag-editor-lyrics-language-select.webp" >}}
 {{< /cards >}}
 
 然後貼上或輸入歌詞文字。Evertag 支援純文字和帶時間戳（同步）歌詞——預留位置顯示 LRC 格式的範例，這正是 Lrclib 和 Lyricsify 為同步結果返回的內容。
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Lyrics Text Editor" image="/docs/guide/evertag/img/tag-editor-lyrics-text.webp" >}}
+  {{< ls-card title="" subtitle="Lyrics Text Editor" image="/docs/guide/evertag/img/tag-editor-lyrics-text.webp" >}}
 {{< /cards >}}
 
 ## 設定評分和內容分級
@@ -96,7 +96,7 @@ Evertag 提供兩種編輯模式：
 使用**評分**欄位為曲目打一到五星的個人評分。該值寫入檔案的標準評分標籤（ID3 的 POPM、MP4 的 `rate`、Vorbis/APE 的 `RATING` 等），因此其他讀取此標籤的應用程式——包括 Music 應用程式、Plex、Roon 和大多數桌面標籤編輯器——會立即獲取您的評分。
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Rating" image="/docs/guide/evertag/img/tag-editor-rating.webp" >}}
+  {{< ls-card title="" subtitle="Rating" image="/docs/guide/evertag/img/tag-editor-rating.webp" >}}
 {{< /cards >}}
 
 ### 內容分級
@@ -117,7 +117,7 @@ Evertag 提供兩種編輯模式：
 該值儲存在檔案格式的標準內容分級欄位中（MP4 的 `rtng`、ID3 的 `TXXX:ITUNESADVISORY`、Vorbis 的 `ITUNESADVISORY`），因此任何讀取家長諮詢元資料的播放器都會看到您的更新。
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Lyrics Advisory Rating" image="/docs/guide/evertag/img/lyrics-advisory-rating.webp" >}}
+  {{< ls-card title="" subtitle="Lyrics Advisory Rating" image="/docs/guide/evertag/img/lyrics-advisory-rating.webp" >}}
 {{< /cards >}}
 
 ## 編輯專輯封面
@@ -129,7 +129,7 @@ Evertag 提供兩種編輯模式：
 3. 選擇要套用為封面藝術的圖像。
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Select Image" image="/docs/guide/evertag/img/select-image.webp" >}}
+  {{< ls-card title="" subtitle="Select Image" image="/docs/guide/evertag/img/select-image.webp" >}}
 {{< /cards >}}
 
 ## 標籤編輯器中的更多操作
@@ -137,7 +137,7 @@ Evertag 提供兩種編輯模式：
 額外的編輯選項透過封面視圖下方的工具列提供。
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="More Actions Menu" image="/docs/guide/evertag/img/tag-editor-more-actions.webp" >}}
+  {{< ls-card title="" subtitle="More Actions Menu" image="/docs/guide/evertag/img/tag-editor-more-actions.webp" >}}
 {{< /cards >}}
 
 ### 自動搜尋音訊標籤
@@ -150,13 +150,13 @@ Evertag 提供兩種編輯模式：
 使用元資料在網路上搜尋正確的專輯封面。  
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Search Album Cover" image="/docs/guide/evertag/img/search-album-cover.webp" >}}
+  {{< ls-card title="" subtitle="Search Album Cover" image="/docs/guide/evertag/img/search-album-cover.webp" >}}
 {{< /cards >}}
 
 找到後，使用系統右鍵選單將圖像儲存到您的**照片**。
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Add Image to Photos" image="/docs/guide/evertag/img/add-image-to-photos.webp" >}}
+  {{< ls-card title="" subtitle="Add Image to Photos" image="/docs/guide/evertag/img/add-image-to-photos.webp" >}}
 {{< /cards >}}
 
 之後，返回標籤編輯器，點選相機圖示，前往**照片庫**，選擇已儲存的圖像。應用程式將其設定為您音訊檔案的封面。
@@ -178,19 +178,19 @@ Evertag 提供兩種編輯模式：
 - 選擇專輯  
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Select Album" image="/docs/guide/evertag/img/select-album-results.webp" >}}
+  {{< ls-card title="" subtitle="Select Album" image="/docs/guide/evertag/img/select-album-results.webp" >}}
 {{< /cards >}}
 
 - 選擇正確的歌曲  
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Select Song" image="/docs/guide/evertag/img/select-a-song.webp" >}}
+  {{< ls-card title="" subtitle="Select Song" image="/docs/guide/evertag/img/select-a-song.webp" >}}
 {{< /cards >}}
 
 - 選擇要套用哪些標籤  
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Select Audio Tags" image="/docs/guide/evertag/img/select-audio-tags.webp" >}}
+  {{< ls-card title="" subtitle="Select Audio Tags" image="/docs/guide/evertag/img/select-audio-tags.webp" >}}
 {{< /cards >}}
 
 點選**完成**將選定的元資料套用到您的曲目。

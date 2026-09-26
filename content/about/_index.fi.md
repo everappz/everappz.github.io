@@ -1,10 +1,11 @@
 ---
+excludeSearch: true
 date: '2025-06-12T17:00:00+00:00'
 title: 'Tietoa meistä'
 description: 'Everappz S.L. on espanjalainen ohjelmistoyritys, joka kehittää iOS- ja macOS-sovelluksia ääntä ja videota varten. Evermusic (11 milj. latausta), Flacbox, EverTag, EverVideo — yli 14 miljoonaa latausta maailmanlaajuisesti.'
 ---
 
-{{< lottie src="/images/juicy-json/juicy-girl-and-guy-preparing-start-up-rocket-to-launch-with-ideas.json" width="65%" >}}
+{{< ls-lottie src="/images/juicy-json/juicy-girl-and-guy-preparing-start-up-rocket-to-launch-with-ideas.json" width="65%" >}}
 
 ## Keitä olemme
 
@@ -35,7 +36,7 @@ Olemme täällä jatkamassa paremman ohjelmiston rakentamista — yksi harkittu 
 ### Artem Meleshko
 
 {{< cards cols="1" >}}
-  {{< card
+  {{< ls-card
     link="https://www.linkedin.com/in/artem-meleshko-s/"
     title="Artem Meleshko"
     tag="Perustaja ja insinööri"
@@ -60,7 +61,7 @@ Hän opiskeli Admiral Makarovin kansallisessa laivanrakennusyliopistossa, on akt
 ### Anna Kosenko
 
 {{< cards cols="1" >}}
-  {{< card
+  {{< ls-card
     link="https://www.linkedin.com/in/anna-kosenko-kosenko/"
     title="Anna Kosenko"
     tag="Johtaja"
@@ -86,4 +87,4 @@ Kiitos, että käytät sovelluksiamme ja tuet itsenäistä kehitystä. Jos sinul
 
 Tilaa meidät sosiaalisessa mediassa saadaksesi uusimmat uutiset, sovelluspäivitykset, vinkit ja hyödyllistä tietoa:
 
-{{< social-cards >}}
+{{< ls-social-cards >}}

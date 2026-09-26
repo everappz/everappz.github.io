@@ -31,7 +31,7 @@ Du kan komma till helskärmsspelaren från den kompakta spelaren. På iPhone sit
 Den kompakta spelaren förblir synlig medan du bläddrar i ditt bibliotek, din filhanterare eller dina inställningar, så du förlorar aldrig din video medan du letar efter nästa.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evervideo fullskärmsmediaspelare" image="/docs/guide/evervideo/img/evervideo-media-player-fullscreen.webp" >}}
+  {{< ls-card title="" subtitle="Evervideo fullskärmsmediaspelare" image="/docs/guide/evervideo/img/evervideo-media-player-fullscreen.webp" >}}
 {{< /cards >}}
 
 ## Stödda video- och ljudformat
@@ -72,7 +72,7 @@ PiP fungerar med alla videoformat som Evervideo spelar, inklusive molnströmmade
 Den kompakta spelaren är en beständig mini-spelare som stannar synlig längst upp på varje skärm i appen medan du bläddrar i biblioteket, filhanteraren eller inställningarna. Tryck på den för att expandera till helskärmsspelaren; svep nedåt för att fälla ihop den igen.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evervideo videoinställningar från den kompakta spelaren på huvudskärmen" image="/docs/guide/evervideo/img/evervideo-video-settings-from-compact-player-view-on-the-main-screen.webp" >}}
+  {{< ls-card title="" subtitle="Evervideo videoinställningar från den kompakta spelaren på huvudskärmen" image="/docs/guide/evervideo/img/evervideo-video-settings-from-compact-player-view-on-the-main-screen.webp" >}}
 {{< /cards >}}
 
 ## AirPlay 2
@@ -115,7 +115,7 @@ Evervideo inkluderar en full ljudekvalisator för att stämma videoens ljudspår
 För att stämma bilden tillhandahåller Evervideo en dedikerad videoekvalisator — justera ljusstyrka, kontrast, mättnad och nyans i realtid under uppspelning. Precis som ljudekvalisatorn kan anpassade videoförinställningar exporteras och importeras för delning eller säkerhetskopiering. Använd den för att ljusa upp en mörk scen en solig dag, öka mättnaden på urtvättat innehåll eller värma upp ett kallt färgskifte.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evervideo videoekvalisator" image="/docs/guide/evervideo/img/evervideo-video-equalizer.webp" >}}
+  {{< ls-card title="" subtitle="Evervideo videoekvalisator" image="/docs/guide/evervideo/img/evervideo-video-equalizer.webp" >}}
 {{< /cards >}}
 
 ## Videoskalningsläge
@@ -144,7 +144,7 @@ Evervideo inkluderar ett VR / 360°-visningsfönster för sfäriska videofiler. 
 Tryck på Hastighetskontrollen på spelarens verktygsfält för att ändra uppspelningshastigheten — sakta ner den för analys (0,25× eller 0,5×) eller snabba upp den för handledningar och föreläsningar (1,25×, 1,5×, 2× och upp till 3×). Tryck på konfigurationsikonen i det övre högra hörnet av Hastighetsskärmen för att växla till precist läge med finare justeringar. Tonhöjdskorrigering per spår är också tillgänglig.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evervideo uppspelningshastighet på huvudverktygsfältet" image="/docs/guide/evervideo/img/evervideo-media-player-playback-speed-on-main-toolbar.webp" >}}
+  {{< ls-card title="" subtitle="Evervideo uppspelningshastighet på huvudverktygsfältet" image="/docs/guide/evervideo/img/evervideo-media-player-playback-speed-on-main-toolbar.webp" >}}
 {{< /cards >}}
 
 ## Spelarkö
@@ -152,7 +152,7 @@ Tryck på Hastighetskontrollen på spelarens verktygsfält för att ändra uppsp
 För att se din spelarkö, tryck på kö-knappen på spelaren. Varje video i kön har fler åtgärder — tryck på de tre punkterna för att visa dem. För att ändra ordningen på en video i kön, använd omordningsindikator nära titeln och dra den till en ny position.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evervideo uppspelningskö" image="/docs/guide/evervideo/img/evervideo-playback-queue.webp" >}}
+  {{< ls-card title="" subtitle="Evervideo uppspelningskö" image="/docs/guide/evervideo/img/evervideo-playback-queue.webp" >}}
 {{< /cards >}}
 
 ## Sovtimer
@@ -189,7 +189,7 @@ Tryck på knappen **Fler åtgärder "..."** på spelaren för att komma åt ytte
 - **Hjälp** — öppna vägledning.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evervideo spelarens Fler åtgärder-skärm" image="/docs/guide/evervideo/img/evervideo-media-player-more-actions.webp" >}}
+  {{< ls-card title="" subtitle="Evervideo spelarens Fler åtgärder-skärm" image="/docs/guide/evervideo/img/evervideo-media-player-more-actions.webp" >}}
 {{< /cards >}}
 
 ## Spelarinställningar

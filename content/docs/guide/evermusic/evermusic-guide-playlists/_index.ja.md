@@ -17,7 +17,7 @@ readingTime: 6
 プレイリストセクションでは、トラックをリストに整理するためのツールを提供します。作成したすべてのプレイリストを表示するコンテンツビュー、さまざまなプレイリスト関連アクションを提供するナビゲーションバーの「...」ボタン、「検索」、「すべて再生」、「すべてシャッフル」ボタンのあるナビゲーションツールバーが含まれています。さらに、各プレイリストにはプレイリストタイトルの近くに「...」ボタンがあり、そのプレイリストに固有のさまざまなアクションを提供します。
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evermusicプレイリスト画面" image="/docs/guide/evermusic/evermusic-guide-playlists/img/playlists-main.webp" >}}
+  {{< ls-card title="" subtitle="Evermusicプレイリスト画面" image="/docs/guide/evermusic/evermusic-guide-playlists/img/playlists-main.webp" >}}
 {{< /cards >}}
 
 ## プレイリストの作成
@@ -25,7 +25,7 @@ readingTime: 6
 新しいプレイリストを作成するには、「+」ボタンまたはナビゲーションバーの右上隅の「...」ボタンをタップし、「新しいプレイリスト」を選択してプレイリストに名前を付けます。名前を付けたら「保存」をタップします。
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="新しいプレイリストを作成" image="/docs/guide/evermusic/evermusic-guide-playlists/img/playlists-add-new.webp" >}}
+  {{< ls-card title="" subtitle="新しいプレイリストを作成" image="/docs/guide/evermusic/evermusic-guide-playlists/img/playlists-add-new.webp" >}}
 {{< /cards >}}
 
 「曲を追加」ダイアログが表示され、新しいプレイリストに追加するトラックを選択できます。トラックはソースタイプ別に分類されており、いくつかのオプションがあります：
@@ -42,7 +42,7 @@ readingTime: 6
 Evermusicでは、M3Uファイルインポート機能を追加したので、プレイリストを手動で作成する必要はありません。
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="ファイルソースからプレイリストをインポート" image="/docs/guide/evermusic/evermusic-guide-playlists/img/playlists-import-from-files.webp" >}}
+  {{< ls-card title="" subtitle="ファイルソースからプレイリストをインポート" image="/docs/guide/evermusic/evermusic-guide-playlists/img/playlists-import-from-files.webp" >}}
 {{< /cards >}}
 
 まず「プレイリスト」セクションに移動します。次に、右上隅の「その他」ボタンをタップします。表示されるメニューから「プレイリストをインポート」オプションを選択します。
@@ -62,7 +62,7 @@ Evermusicでは、M3Uファイルインポート機能を追加したので、�
 プレイリストを開くと「プレイリスト詳細画面」が表示されます。この画面では、右上隅のプレイリストオプション付き「...」ボタンと、アートワーク画像の下に3つのボタン「検索」、「再生を続ける」、「すべて再生」、「すべてシャッフル」があります。さらに「オフラインモード」チェックボックスもあります。
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="プレイリスト詳細画面" image="/docs/guide/evermusic/evermusic-guide-playlists/img/playlists-detail-screen.webp" >}}
+  {{< ls-card title="" subtitle="プレイリスト詳細画面" image="/docs/guide/evermusic/evermusic-guide-playlists/img/playlists-detail-screen.webp" >}}
 {{< /cards >}}
 
 - **再生を続ける**: このプレイリストの再生位置を復元します。
@@ -87,7 +87,7 @@ Evermusicでは、M3Uファイルインポート機能を追加したので、�
 - **プレイリストを削除:** 音楽ライブラリからプレイリストを削除します。この操作は元に戻せないことにご注意ください。
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="プレイリストの詳細アクションメニュー" image="/docs/guide/evermusic/evermusic-guide-playlists/img/playlists-more-actions-for-separate-playlist.webp" >}}
+  {{< ls-card title="" subtitle="プレイリストの詳細アクションメニュー" image="/docs/guide/evermusic/evermusic-guide-playlists/img/playlists-more-actions-for-separate-playlist.webp" >}}
 {{< /cards >}}
 
 ## プレイリスト詳細画面でのプレイリストの詳細アクション
@@ -113,7 +113,7 @@ Evermusicでは、M3Uファイルインポート機能を追加したので、�
 プレイリスト内の曲の順序を変更するには、右上隅の「...」ボタンをタップして「選択」を選択し、選択モードに入ります。各トラックの近くにある並べ替えコントロールとドラッグ＆ドロップジェスチャーを使用して上または下に移動します。並べ替えコントロールをタップすると、トラックはリストの先頭に移動します。選択モードを終了して変更を適用するには、「完了」をタップします。
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="プレイリスト内の曲の順序変更" image="/docs/guide/evermusic/evermusic-guide-playlists/img/playlists-change-songs-order.webp" >}}
+  {{< ls-card title="" subtitle="プレイリスト内の曲の順序変更" image="/docs/guide/evermusic/evermusic-guide-playlists/img/playlists-change-songs-order.webp" >}}
 {{< /cards >}}
 
 ## プレイリストカバー画像の変更
@@ -129,7 +129,7 @@ Evermusicでは、M3Uファイルインポート機能を追加したので、�
 プレイリストを開き、右上隅の「...」ボタンをタップして「選択」を選択して選択モードに入ります。削除したいトラックを選択し、画面下部の「プレイリストから削除」ボタンをタップします。「完了」をタップして変更を確認します。
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="プレイリスト詳細画面の選択モード" image="/docs/guide/evermusic/evermusic-guide-playlists/img/playlists-selection-mode-in-playlist-details-screen.webp" >}}
+  {{< ls-card title="" subtitle="プレイリスト詳細画面の選択モード" image="/docs/guide/evermusic/evermusic-guide-playlists/img/playlists-selection-mode-in-playlist-details-screen.webp" >}}
 {{< /cards >}}
 
 ## トラックオプション
@@ -137,7 +137,7 @@ Evermusicでは、M3Uファイルインポート機能を追加したので、�
 プレイリストの各トラックには「...」ボタンをタップしてアクセスできるアクションリストがあります。すべてのアクションが表示されない場合は、下にスクロールして確認します。プレイリストからトラックを削除したり、ダウンロードしたり、オーディオタグを編集したりできます。
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="プレイリスト内のトラックオプションメニュー" image="/docs/guide/evermusic/evermusic-guide-playlists/img/playlists-track-options.webp" >}}
+  {{< ls-card title="" subtitle="プレイリスト内のトラックオプションメニュー" image="/docs/guide/evermusic/evermusic-guide-playlists/img/playlists-track-options.webp" >}}
 {{< /cards >}}
 
 - **次に再生:** トラックをプレーヤーキューの先頭に追加します。

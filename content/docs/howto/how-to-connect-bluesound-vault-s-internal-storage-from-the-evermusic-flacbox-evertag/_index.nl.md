@@ -7,7 +7,7 @@ tags: ["evermusic", "verbinden", "bluesound vault"]
 readingTime: 1
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **Samenvatting:** Maak verbinding met de interne opslag van uw Bluesound VAULT via SMB met Evermusic, Flacbox of Evertag. Zoek het IP-adres van de VAULT in de BluOS-app, voer het in als een SMB-verbinding met gasttoegang en begin met het afspelen of beheren van uw muziekbestanden.
@@ -58,18 +58,18 @@ Met deze eenvoudige stappen kunt u moeiteloos toegang krijgen tot de interne har
 
 ## Veelgestelde vragen
 
-{{% details title="Heb ik een gebruikersnaam en wachtwoord nodig om verbinding te maken met Bluesound VAULT?" closed="true" %}}
+{{% ls-details title="Heb ik een gebruikersnaam en wachtwoord nodig om verbinding te maken met Bluesound VAULT?" closed="true" %}}
 Nee. Bluesound VAULT ondersteunt gasttoegang (anoniem) via SMB. Laat de velden Inloggen en Wachtwoord leeg bij het configureren van de verbinding.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Kan ik muziektags op de Bluesound VAULT bewerken?" closed="true" %}}
+{{% ls-details title="Kan ik muziektags op de Bluesound VAULT bewerken?" closed="true" %}}
 Ja. Met Evertag kunt u metadata-tags (titel, artiest, album, enz.) bewerken voor audiobestanden die rechtstreeks op de interne harde schijf van de VAULT zijn opgeslagen.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Welke protocollen ondersteunt de Bluesound VAULT?" closed="true" %}}
+{{% ls-details title="Welke protocollen ondersteunt de Bluesound VAULT?" closed="true" %}}
 De Bluesound VAULT stelt zijn interne opslag beschikbaar via SMB (Server Message Block). Evermusic, Flacbox en Evertag ondersteunen allemaal SMB-verbindingen, waardoor het eenvoudig is om verbinding te maken.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Kan ik muziek streamen vanaf de VAULT zonder bestanden naar mijn iPhone te kopiëren?" closed="true" %}}
+{{% ls-details title="Kan ik muziek streamen vanaf de VAULT zonder bestanden naar mijn iPhone te kopiëren?" closed="true" %}}
 Ja. Zodra u via SMB bent verbonden, kunt u audiobestanden rechtstreeks vanaf het interne station van de VAULT streamen zonder ze naar uw apparaat te kopiëren.
-{{% /details %}}
+{{% /ls-details %}}

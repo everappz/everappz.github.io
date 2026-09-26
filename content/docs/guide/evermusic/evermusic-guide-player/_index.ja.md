@@ -17,7 +17,7 @@ readingTime: 11
 ## プレーヤーへのアクセス
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evermusicオーディオプレーヤー画面" image="/docs/guide/evermusic/evermusic-guide-player/img/player-main.webp" >}}
+  {{< ls-card title="" subtitle="Evermusicオーディオプレーヤー画面" image="/docs/guide/evermusic/evermusic-guide-player/img/player-main.webp" >}}
 {{< /cards >}}
 
 フルスクリーンプレーヤーにはミニプレーヤービューからアクセスできます。iPhoneではメイン画面のタブバー上にミニプレーヤーがあります。iPadまたはMacでは左メニューからアクセスできます。ミニプレーヤーを非表示にするには、そのアイコンをタップして下にスワイプします。フルスクリーンプレーヤーを完全に非表示にするには、右下角にある閉じるボタンをタップします。
@@ -44,7 +44,7 @@ readingTime: 11
 ## 音量コントロール
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="AirPlayとGoogle Castによる音量コントロール" image="/docs/guide/evermusic/evermusic-guide-player/img/player-volume-control.webp" >}}
+  {{< ls-card title="" subtitle="AirPlayとGoogle Castによる音量コントロール" image="/docs/guide/evermusic/evermusic-guide-player/img/player-volume-control.webp" >}}
 {{< /cards >}}
 
 再生コントロールの下にある音量アイコンをタップして、オーディオ設定画面で音量スライダーを見つけます。このスライダーまたはデバイスの標準的な音量ボタンを使用して音量を変更できます。さらに、いくつかの便利なストリーミングボタンも見つかります：
@@ -63,7 +63,7 @@ Google Castをご利用の方は、オーディオプレーヤー画面の下部
 ## オーディオイコライザー
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="10バンドオーディオイコライザー" image="/docs/guide/evermusic/evermusic-guide-player/img/player-equalizer.webp" >}}
+  {{< ls-card title="" subtitle="10バンドオーディオイコライザー" image="/docs/guide/evermusic/evermusic-guide-player/img/player-equalizer.webp" >}}
 {{< /cards >}}
 
 EvermusicにはiPodスタイルのプリセット、プリアンプ、手動イコライザー設定を備えた10バンドイコライザーが搭載されています。イコライザーを起動するには、下部ツールバーの「イコライザー」ボタンをタップして右上角のスイッチコントロールを切り替えます。「アコースティック」、「バスブースター」、「クラシック」など、さまざまな定義済みイコライザープリセットから選択できます。音響マニアなら、スライダーを使用して各周波数帯域を微調整する機能を高く評価するでしょう。独自のオーディオイコライザープリセットを作成して保存することもできます。トラックの音量が十分でない場合は、プリアンプゲインも調整できます。イコライザーの使い方の詳細な説明は[こちら](/docs/howto/how-to-use-the-audio-equalizer-on-your-iphone-ipad-mac-with-evermusic-and-flacbox)にあります。
@@ -71,7 +71,7 @@ EvermusicにはiPodスタイルのプリセット、プリアンプ、手動イ�
 ## プレーヤーモードツールバー
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="検索と速度付きプレーヤー上部ツールバー" image="/docs/guide/evermusic/evermusic-guide-player/img/player-top-toolbar.webp" >}}
+  {{< ls-card title="" subtitle="検索と速度付きプレーヤー上部ツールバー" image="/docs/guide/evermusic/evermusic-guide-player/img/player-top-toolbar.webp" >}}
 {{< /cards >}}
 
 一部のプレーヤー画面スタイルでは、ナビゲーションバーのすぐ下のプレーヤー画面の上部にプレーヤーモードツールバーがあります。この便利なツールバーには3つのボタンがあります。
@@ -82,7 +82,7 @@ EvermusicにはiPodスタイルのプリセット、プリアンプ、手動イ�
 ## オーディオブックマーク
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="オーディオブックや講義用オーディオブックマーク" image="/docs/guide/evermusic/evermusic-guide-player/img/player-bookmarks.webp" >}}
+  {{< ls-card title="" subtitle="オーディオブックや講義用オーディオブックマーク" image="/docs/guide/evermusic/evermusic-guide-player/img/player-bookmarks.webp" >}}
 {{< /cards >}}
 
 ここでは音楽ライブラリのトラックに複数のブックマークを作成できます。ブックマークの使い方の完全な説明は[こちら](/docs/howto/how-to-listen-to-audiobooks-on-iphone-ipad-mac-using-evermusic)にあります。
@@ -90,7 +90,7 @@ EvermusicにはiPodスタイルのプリセット、プリアンプ、手動イ�
 ## プレーヤーキュー
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="プレーヤーキュー" image="/docs/guide/evermusic/evermusic-guide-player/img/player-queue.webp" >}}
+  {{< ls-card title="" subtitle="プレーヤーキュー" image="/docs/guide/evermusic/evermusic-guide-player/img/player-queue.webp" >}}
 {{< /cards >}}
 
 プレーヤーキューにアクセスするには、下部ツールバーにあるプレーヤーキューボタンをタップします。キュー内の曲を移動するには、タイトルの近くにある並べ替えインジケーターを使用します。
@@ -98,7 +98,7 @@ EvermusicにはiPodスタイルのプリセット、プリアンプ、手動イ�
 ## コメント / 歌詞
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="コメント、埋め込み歌詞、LRCファイル" image="/docs/guide/evermusic/evermusic-guide-player/img/player-lyrics.webp" >}}
+  {{< ls-card title="" subtitle="コメント、埋め込み歌詞、LRCファイル" image="/docs/guide/evermusic/evermusic-guide-player/img/player-lyrics.webp" >}}
 {{< /cards >}}
 
 トラックのコメントと埋め込み歌詞、LRCファイルを表示するには、次の手順に従います：
@@ -114,7 +114,7 @@ EvermusicにはiPodスタイルのプリセット、プリアンプ、手動イ�
 ## オプションメニュー
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="キューアイテムのオプションメニュー" image="/docs/guide/evermusic/evermusic-guide-player/img/player-queue-item-options-menu.webp" >}}
+  {{< ls-card title="" subtitle="キューアイテムのオプションメニュー" image="/docs/guide/evermusic/evermusic-guide-player/img/player-queue-item-options-menu.webp" >}}
 {{< /cards >}}
 
 オーディオプレーヤーキューの各曲には、曲のタイトルの近くにある3点ボタンをタップしてアクセスできる詳細アクションメニューがあります。利用可能なアクションは以下の通りです：
@@ -153,7 +153,7 @@ EvermusicにはiPodスタイルのプリセット、プリアンプ、手動イ�
 ## 最近の項目とお気に入り
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="プレーヤーからの最近再生した曲" image="/docs/guide/evermusic/evermusic-guide-player/img/player-recents.webp" >}}
+  {{< ls-card title="" subtitle="プレーヤーからの最近再生した曲" image="/docs/guide/evermusic/evermusic-guide-player/img/player-recents.webp" >}}
 {{< /cards >}}
 
 プレーヤー画面では、「その他のアクション」ボタン「…」をタップして対応するメニュー項目を選択することで「最近の項目」と「お気に入り」セクションにアクセスできます。どちらのセクションでも、曲を検索し、すべてのトラックを再生し、すべてのトラックをシャッフルし、リストをエクスポートし、リストを削除できます。曲リストのエクスポート方法の詳細な説明は[こちら](/docs/howto/export-tracks-collection-from-evermusic-flacbox-to-m3u-csv-txt/)にあります。
@@ -161,7 +161,7 @@ EvermusicにはiPodスタイルのプリセット、プリアンプ、手動イ�
 ## ミニプレーヤーウィンドウ（Mac専用）
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Macミニプレーヤーウィンドウ" image="/docs/guide/evermusic/evermusic-guide-player/img/player-mini-mac.webp" >}}
+  {{< ls-card title="" subtitle="Macミニプレーヤーウィンドウ" image="/docs/guide/evermusic/evermusic-guide-player/img/player-mini-mac.webp" >}}
 {{< /cards >}}
 
 Macユーザーのために便利なミニプレーヤーウィンドウがあります。アクセスするには、アプリウィンドウの右下端にカーソルを移動し、可能な限り小さいサイズにリサイズします。次に、折りたたみボタン（下向き矢印で表示）をタップしてミニプレーヤーウィンドウを起動します。他のウィンドウの上に表示し続けたい場合は、Macの上部メニューバーに移動し、「ウィンドウ」を選択して「ウィンドウを常に前面に表示」を選びます。この機能は音声講座を聴いていて中断されたくない場合に特に便利です。
@@ -169,7 +169,7 @@ Macユーザーのために便利なミニプレーヤーウィンドウがあ�
 ## キーボードショートカット（Mac専用）
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="キーボードショートカット付きMacステータスバー再生メニュー" image="/docs/guide/evermusic/evermusic-guide-player/img/player-mac-shortcuts.webp" >}}
+  {{< ls-card title="" subtitle="キーボードショートカット付きMacステータスバー再生メニュー" image="/docs/guide/evermusic/evermusic-guide-player/img/player-mac-shortcuts.webp" >}}
 {{< /cards >}}
 
 Macユーザーのために、キーボードショートカット付きのシステム再生メニューがステータスバーで利用できます。例えば、再生/一時停止するには、キーボードのスペースバーをタップするだけです。停止、次の曲、前の曲、時間スキップ、リピート、シャッフル、再生速度のショートカットがスクリーンショットに示されているとおり利用できます。
@@ -177,7 +177,7 @@ Macユーザーのために、キーボードショートカット付きのシ�
 ## オーディオプレーヤー設定
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="オーディオプレーヤー設定" image="/docs/guide/evermusic/evermusic-guide-player/img/player-settings.webp" >}}
+  {{< ls-card title="" subtitle="オーディオプレーヤー設定" image="/docs/guide/evermusic/evermusic-guide-player/img/player-settings.webp" >}}
 {{< /cards >}}
 
 オーディオプレーヤーの設定にアクセスするには、オーディオプレーヤー画面の「その他」ボタンをタップし、ドロップダウンメニューから「設定」を選択します。ここには機能別にグループ化されたさまざまなセクションがあります：

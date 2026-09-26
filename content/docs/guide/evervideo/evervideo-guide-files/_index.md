@@ -38,7 +38,7 @@ The Files tab is split into clear sections that appear in this order on your scr
 In the top-right corner of the Files screen is a Transfers button (a spinning-arrows icon). Tap it to open the Transfers Queue where you monitor every download and upload across all of your sources.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evervideo Files Across Connected Storages" image="/docs/guide/evervideo/img/evervideo-files-connected-storages.webp" >}}
+  {{< ls-card title="" subtitle="Evervideo Files Across Connected Storages" image="/docs/guide/evervideo/img/evervideo-files-connected-storages.webp" >}}
 {{< /cards >}}
 
 ## Connect to Cloud Storage
@@ -46,7 +46,7 @@ In the top-right corner of the Files screen is a Transfers button (a spinning-ar
 The Cloud Storage section of the Files tab is where every connected account, NAS, media server, and stream lives — side by side, in one scrollable list.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evervideo Cloud Storage Section in the Files Tab" image="/docs/guide/evervideo/img/evervideo-connections.webp" >}}
+  {{< ls-card title="" subtitle="Evervideo Cloud Storage Section in the Files Tab" image="/docs/guide/evervideo/img/evervideo-connections.webp" >}}
 {{< /cards >}}
 
 - Open the **Files** tab.
@@ -56,7 +56,7 @@ The Cloud Storage section of the Files tab is where every connected account, NAS
 - Enter your credentials on the official authorization page provided by the cloud provider, then tap **Done**.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evervideo Connect a Cloud Storage Service" image="/docs/guide/evervideo/img/evervideo-connect-cloud-storage.webp" >}}
+  {{< ls-card title="" subtitle="Evervideo Connect a Cloud Storage Service" image="/docs/guide/evervideo/img/evervideo-connect-cloud-storage.webp" >}}
 {{< /cards >}}
 
 If you encounter any issues, check your internet connection and your login / password. In the Premium version of the app, you can add an unlimited number of services; the free version supports up to three.
@@ -166,7 +166,7 @@ This section displays every device on your local network that you can connect to
 - If needed, enter your login details to complete the connection.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evervideo Available Devices on the Local Network" image="/docs/guide/evervideo/img/evervideo-available-devices.webp" >}}
+  {{< ls-card title="" subtitle="Evervideo Available Devices on the Local Network" image="/docs/guide/evervideo/img/evervideo-available-devices.webp" >}}
 {{< /cards >}}
 
 ## Wi-Fi Drive
@@ -174,7 +174,7 @@ This section displays every device on your local network that you can connect to
 Wi-Fi Drive lets you transfer files wirelessly from your computer to your iOS device via any desktop browser, Finder, or File Explorer. Your device and computer must be on the same Wi-Fi network.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evervideo Wi-Fi Drive" image="/docs/guide/evervideo/img/evervideo-wifi-drive.webp" >}}
+  {{< ls-card title="" subtitle="Evervideo Wi-Fi Drive" image="/docs/guide/evervideo/img/evervideo-wifi-drive.webp" >}}
 {{< /cards >}}
 
 ### Enable Wi-Fi Drive
@@ -206,7 +206,7 @@ Plug a USB drive or SD card into your iPhone, iPad, or Mac via the Lightning-to-
 Tap any connected cloud service to open its file browser. Folders show video thumbnails when available, and tapping a video starts playback immediately while continuing to stream the rest of the file in the background.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evervideo Browsing Folders in Connected Storages" image="/docs/guide/evervideo/img/evervideo-all-connected-device-folders.webp" >}}
+  {{< ls-card title="" subtitle="Evervideo Browsing Folders in Connected Storages" image="/docs/guide/evervideo/img/evervideo-all-connected-device-folders.webp" >}}
 {{< /cards >}}
 
 ## Quick Access
@@ -214,7 +214,7 @@ Tap any connected cloud service to open its file browser. Folders show video thu
 The Quick Access section sits at the top of the Files tab. It gives you fast access to your favorite and recently opened files and folders — both from cloud services and from on-device storage. Whenever you open a file or folder from the cloud, it's added to the Recently Opened list. You can mark deeply nested folders as Favorites to access them quickly without digging through the directory structure.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evervideo Online Links and Quick Access" image="/docs/guide/evervideo/img/evervideo-connections-online-links.webp" >}}
+  {{< ls-card title="" subtitle="Evervideo Online Links and Quick Access" image="/docs/guide/evervideo/img/evervideo-connections-online-links.webp" >}}
 {{< /cards >}}
 
 ## Files in This Application
@@ -222,7 +222,7 @@ The Quick Access section sits at the top of the Files tab. It gives you fast acc
 This section shows files and folders stored in Evervideo's sandboxed Documents directory — everything you've downloaded from the cloud, transferred via Wi-Fi Drive, copied through Finder File Sharing, or imported from another app.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evervideo Files in This Application" image="/docs/guide/evervideo/img/evervideo-files-in-this-application.webp" >}}
+  {{< ls-card title="" subtitle="Evervideo Files in This Application" image="/docs/guide/evervideo/img/evervideo-files-in-this-application.webp" >}}
 {{< /cards >}}
 
 ### Documents Folder
@@ -230,7 +230,7 @@ This section shows files and folders stored in Evervideo's sandboxed Documents d
 The Documents folder is the root of everything inside Files in This Application. You can create subfolders, rename files, move them around, and group them however you like.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evervideo Local Files — Documents Folder" image="/docs/guide/evervideo/img/evervideo-local-files-documents.webp" >}}
+  {{< ls-card title="" subtitle="Evervideo Local Files — Documents Folder" image="/docs/guide/evervideo/img/evervideo-local-files-documents.webp" >}}
 {{< /cards >}}
 
 ## Files on This iPhone / iPad / Mac
@@ -243,7 +243,7 @@ This section shows videos located on your device but in different applications. 
 You can also use Connect a Folder to create a link to a folder on your device with read / write access — perfect for working with a folder on iCloud Drive or an attached USB drive without copying anything.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evervideo Files on This Device" image="/docs/guide/evervideo/img/evervideo-files-on-this-device.webp" >}}
+  {{< ls-card title="" subtitle="Evervideo Files on This Device" image="/docs/guide/evervideo/img/evervideo-files-on-this-device.webp" >}}
 {{< /cards >}}
 
 ## Special Folders
@@ -281,7 +281,7 @@ When you open a folder, tap the **"..."** button in the top-right corner for the
 Tap **"..."** in the top-right corner and choose **Select** to enter selection mode. Checkboxes appear next to every file and folder. Tap to select one or several items, then perform batch actions: Play Next, Play Later, Add to Media Library, Add to a Playlist, Copy, Upload, Move, Rename, or Delete.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evervideo Selection Mode in the File Manager" image="/docs/guide/evervideo/img/evervideo-selection-mode-in-files.webp" >}}
+  {{< ls-card title="" subtitle="Evervideo Selection Mode in the File Manager" image="/docs/guide/evervideo/img/evervideo-selection-mode-in-files.webp" >}}
 {{< /cards >}}
 
 If you'd rather treat connected cloud storage as read-only (to prevent accidental deletions), enable Settings → File Manager → Edit Online Files → Off to hide all destructive operations from the UI.
@@ -323,13 +323,13 @@ For each folder in your cloud storage, you have many actions available by tappin
 In the top-right corner of the Files tab is a **Transfers** button (a spinning-arrows icon). Tap it to open the Transfers Queue — a list of every active download and upload across all of your sources, with real-time progress, speed, and ETA per file.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evervideo File Transfers Queue" image="/docs/guide/evervideo/img/evervideo-file-transfers.webp" >}}
+  {{< ls-card title="" subtitle="Evervideo File Transfers Queue" image="/docs/guide/evervideo/img/evervideo-file-transfers.webp" >}}
 {{< /cards >}}
 
 You can pause, resume, retry failed transfers, rearrange items to prioritize specific downloads, or cancel them individually. You can also adjust the transfer queue speed (maximum parallel tasks), network type (Wi-Fi only or Wi-Fi + Cellular), and background transfers in Settings → File Manager.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evervideo Actions on the File Transfers Queue" image="/docs/guide/evervideo/img/evervideo-file-transfers-actions.webp" >}}
+  {{< ls-card title="" subtitle="Evervideo Actions on the File Transfers Queue" image="/docs/guide/evervideo/img/evervideo-file-transfers-actions.webp" >}}
 {{< /cards >}}
 
 ## Offline Mode and Synchronized Offline Folders

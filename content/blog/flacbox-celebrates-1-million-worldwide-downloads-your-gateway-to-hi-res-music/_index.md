@@ -14,7 +14,7 @@ authors:
     image: "/images/about/artem-meleshko-founder-everappz.webp"
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 **TL;DR:** Flacbox has surpassed 1 million downloads worldwide. It supports FLAC, ALAC, APE, DSD, and other lossless formats with a 10-band equalizer, M3U/CUE playlists, offline playback, and cross-device sync across iPhone, iPad, and Mac.
 
@@ -80,26 +80,26 @@ Upcoming development focuses on:
 
 ## Frequently Asked Questions
 
-{{% details title="What audio formats does Flacbox support?" closed="true" %}}
+{{% ls-details title="What audio formats does Flacbox support?" closed="true" %}}
 Flacbox plays FLAC, ALAC, APE, DSD, WavPack, TTA, RealAudio, MP3, AAC, OGG, and many other formats. It is designed primarily for lossless and hi-res audio.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Does Flacbox have an equalizer?" closed="true" %}}
+{{% ls-details title="Does Flacbox have an equalizer?" closed="true" %}}
 Yes. Flacbox includes a 10-band equalizer with genre presets and manual frequency adjustment.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Can I listen to music offline with Flacbox?" closed="true" %}}
+{{% ls-details title="Can I listen to music offline with Flacbox?" closed="true" %}}
 Yes. Download files from cloud storage or transfer them directly to the app for offline playback without an internet connection.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Does Flacbox work on Mac?" closed="true" %}}
+{{% ls-details title="Does Flacbox work on Mac?" closed="true" %}}
 Yes. Flacbox runs on iPhone, iPad, and Mac with synchronized libraries and playback history across all devices.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="What is CUE sheet support?" closed="true" %}}
+{{% ls-details title="What is CUE sheet support?" closed="true" %}}
 CUE sheets define track boundaries within a single audio file. Flacbox reads CUE files to split album rips into individual tracks with proper metadata.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Is Flacbox free?" closed="true" %}}
+{{% ls-details title="Is Flacbox free?" closed="true" %}}
 Flacbox is free to download with optional premium features available through in-app purchase.
-{{% /details %}}
+{{% /ls-details %}}

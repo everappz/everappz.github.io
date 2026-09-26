@@ -7,7 +7,7 @@ tags: ["evermusic", "csatlakoztatás", "bluesound vault"]
 readingTime: 1
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **Összefoglaló:** Csatlakozzon a Bluesound VAULT belső tárhelyéhez SMB-n keresztül az Evermusic, Flacbox vagy Evertag használatával. Keresse meg a VAULT IP-címét a BluOS alkalmazásban, adja meg SMB-kapcsolatként vendég hozzáféréssel, és kezdje el lejátszani vagy kezelni zenefájljait.
@@ -58,18 +58,18 @@ Ezekkel az egyszerű lépésekkel könnyedén hozzáférhet a Bluesound VAULT be
 
 ## GYIK
 
-{{% details title="Szükségem van felhasználónévre és jelszóra a Bluesound VAULT-hoz való csatlakozáshoz?" closed="true" %}}
+{{% ls-details title="Szükségem van felhasználónévre és jelszóra a Bluesound VAULT-hoz való csatlakozáshoz?" closed="true" %}}
 Nem. A Bluesound VAULT támogatja a vendég (anonim) hozzáférést SMB-n keresztül. Hagyja üresen a Bejelentkezés és Jelszó mezőket a kapcsolat konfigurálásánál.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Szerkeszthetem a zenei címkéket a Bluesound VAULT-on?" closed="true" %}}
+{{% ls-details title="Szerkeszthetem a zenei címkéket a Bluesound VAULT-on?" closed="true" %}}
 Igen. Az Evertag használatával szerkesztheti a metaadat-címkéket (cím, előadó, album stb.) a VAULT belső merevlemezén közvetlenül tárolt hangfájlokhoz.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Milyen protokollokat támogat a Bluesound VAULT?" closed="true" %}}
+{{% ls-details title="Milyen protokollokat támogat a Bluesound VAULT?" closed="true" %}}
 A Bluesound VAULT SMB-n (Server Message Block) keresztül teszi elérhetővé belső tárhelyét. Az Evermusic, Flacbox és Evertag mind támogatja az SMB-kapcsolatokat, ami egyszerűvé teszi a csatlakozást.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Streamelhetek zenét a VAULT-ról anélkül, hogy fájlokat másolnék az iPhone-omra?" closed="true" %}}
+{{% ls-details title="Streamelhetek zenét a VAULT-ról anélkül, hogy fájlokat másolnék az iPhone-omra?" closed="true" %}}
 Igen. Az SMB-n keresztüli csatlakozás után közvetlenül a VAULT belső meghajtójáról streamelhet hangfájlokat anélkül, hogy azokat az eszközére másolná.
-{{% /details %}}
+{{% /ls-details %}}

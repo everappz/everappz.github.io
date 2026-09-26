@@ -7,7 +7,7 @@ tags: ["spotify", "copertă album", "mp3", "metadate", "editor muzică", "fișie
 readingTime: 3
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **Pe scurt:** Spotify nu îți permite să schimbi copertele albumelor pentru piesele în streaming, dar poți actualiza ilustrațiile pentru fișierele locale. Activează funcția Fișiere locale din Spotify, copiază muzica în folderul Spotify, apoi folosește aplicația gratuită Evertag pentru a edita copertele albumelor și metadatele. Modificările apar în Spotify după repornire.
@@ -25,8 +25,8 @@ Pentru a simplifica lucrurile, vom arăta cum să editezi ilustrațiile albumelo
 Începe prin descărcarea aplicației **Evertag** din App Store. Este gratuită și disponibilă pe **iOS** și **macOS**.
 
 {{< cards cols="2">}}
-{{< card link="https://apps.apple.com/app/apple-store/id1450763230?pt=95781850&ct=everappzcom&mt=8" title="Evertag pentru iOS" icon="download" tag="Free" >}}
-{{< card link="https://apps.apple.com/app/apple-store/id1594027661?pt=95781850&ct=everappzcom&mt=8" title="Evertag pentru macOS" icon="download" tag="Free" >}}
+{{< ls-card link="https://apps.apple.com/app/apple-store/id1450763230?pt=95781850&ct=everappzcom&mt=8" title="Evertag pentru iOS" icon="download" tag="Free" >}}
+{{< ls-card link="https://apps.apple.com/app/apple-store/id1594027661?pt=95781850&ct=everappzcom&mt=8" title="Evertag pentru macOS" icon="download" tag="Free" >}}
 {{< /cards >}}
 
 ## Activează biblioteca locală în Spotify
@@ -36,7 +36,7 @@ Implicit, **Biblioteca de fișiere locale** este dezactivată în aplicația Spo
 ### Deschide aplicația Spotify
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Interfața principală a aplicației Spotify" image="/docs/howto/how-to-change-album-covers-for-local-tracks-on-spotify-step-by-step-guide-mobile-desktop/spotify-main.webp" >}}
+{{< ls-card title="" subtitle="Interfața principală a aplicației Spotify" image="/docs/howto/how-to-change-album-covers-for-local-tracks-on-spotify-step-by-step-guide-mobile-desktop/spotify-main.webp" >}}
 {{< /cards >}}
 
 ### Atinge pictograma profilului tău
@@ -44,7 +44,7 @@ Implicit, **Biblioteca de fișiere locale** este dezactivată în aplicația Spo
 Caută în colțul din stânga sus al ecranului principal Spotify și atinge fotografia de profil pentru a deschide meniul.
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Avatar și opțiuni Spotify" image="/docs/howto/how-to-change-album-covers-for-local-tracks-on-spotify-step-by-step-guide-mobile-desktop/spotify-avatar-options.webp" >}}
+{{< ls-card title="" subtitle="Avatar și opțiuni Spotify" image="/docs/howto/how-to-change-album-covers-for-local-tracks-on-spotify-step-by-step-guide-mobile-desktop/spotify-avatar-options.webp" >}}
 {{< /cards >}}
 
 ### Alege «Setări și confidențialitate»
@@ -52,7 +52,7 @@ Caută în colțul din stânga sus al ecranului principal Spotify și atinge fot
 Derulează în jos în meniu și selectează **Setări și confidențialitate** pentru a deschide lista completă de opțiuni.
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Meniul de setări Spotify" image="/docs/howto/how-to-change-album-covers-for-local-tracks-on-spotify-step-by-step-guide-mobile-desktop/spotify-settings.webp" >}}
+{{< ls-card title="" subtitle="Meniul de setări Spotify" image="/docs/howto/how-to-change-album-covers-for-local-tracks-on-spotify-step-by-step-guide-mobile-desktop/spotify-settings.webp" >}}
 {{< /cards >}}
 
 ### Selectează «Aplicații și dispozitive»
@@ -60,7 +60,7 @@ Derulează în jos în meniu și selectează **Setări și confidențialitate** 
 Găsește și atinge elementul de meniu **Aplicații și dispozitive** pentru a vedea setările de integrare a dispozitivelor.
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Aplicații și dispozitive Spotify" image="/docs/howto/how-to-change-album-covers-for-local-tracks-on-spotify-step-by-step-guide-mobile-desktop/spotify-apps-and-devices.webp" >}}
+{{< ls-card title="" subtitle="Aplicații și dispozitive Spotify" image="/docs/howto/how-to-change-album-covers-for-local-tracks-on-spotify-step-by-step-guide-mobile-desktop/spotify-apps-and-devices.webp" >}}
 {{< /cards >}}
 
 ### Activează «Fișiere audio locale»
@@ -68,7 +68,7 @@ Găsește și atinge elementul de meniu **Aplicații și dispozitive** pentru a 
 Activează comutatorul pentru **Fișiere audio locale**. Când ți se solicită, acordă Spotify permisiunea de a accesa fișierele muzicale.
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Acordă Spotify acces la fișierele muzicale" image="/docs/howto/how-to-change-album-covers-for-local-tracks-on-spotify-step-by-step-guide-mobile-desktop/spotify-access-to-music.webp" >}}
+{{< ls-card title="" subtitle="Acordă Spotify acces la fișierele muzicale" image="/docs/howto/how-to-change-album-covers-for-local-tracks-on-spotify-step-by-step-guide-mobile-desktop/spotify-access-to-music.webp" >}}
 {{< /cards >}}
 
 ### Verifică folderul Spotify
@@ -76,7 +76,7 @@ Activează comutatorul pentru **Fișiere audio locale**. Când ți se solicită,
 După acordarea permisiunii, deschide aplicația **Fișiere**, mergi la **Locații > Pe iPhone-ul/iPad-ul meu** și găsește folderul **Spotify**. Aici trebuie plasate fișierele muzicale locale.
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Fișiere muzicale Spotify" image="/docs/howto/how-to-change-album-covers-for-local-tracks-on-spotify-step-by-step-guide-mobile-desktop/files-app-spotify-folder.webp" >}}
+{{< ls-card title="" subtitle="Fișiere muzicale Spotify" image="/docs/howto/how-to-change-album-covers-for-local-tracks-on-spotify-step-by-step-guide-mobile-desktop/files-app-spotify-folder.webp" >}}
 {{< /cards >}}
 
 ## Pune fișiere muzicale în folderul bibliotecii locale Spotify
@@ -90,7 +90,7 @@ Mai jos sunt instrucțiunile folosind metoda aplicației **Fișiere**.
 ### Deschide aplicația Fișiere – Locații – Pe acest dispozitiv
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Folderul Spotify" image="/docs/howto/how-to-change-album-covers-for-local-tracks-on-spotify-step-by-step-guide-mobile-desktop/files-app-spotify-folder.webp" >}}
+{{< ls-card title="" subtitle="Folderul Spotify" image="/docs/howto/how-to-change-album-covers-for-local-tracks-on-spotify-step-by-step-guide-mobile-desktop/files-app-spotify-folder.webp" >}}
 {{< /cards >}}
 
 ### Copiază folderul de muzică
@@ -98,7 +98,7 @@ Mai jos sunt instrucțiunile folosind metoda aplicației **Fișiere**.
 Navighează la folderul tău de **Muzică**. Atinge și ține apăsat pentru a deschide meniul contextual, apoi alege **Copiază**.
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Accesează opțiunile folderului în aplicația Fișiere" image="/docs/howto/how-to-change-album-covers-for-local-tracks-on-spotify-step-by-step-guide-mobile-desktop/files-app-folder-options.webp" >}}
+{{< ls-card title="" subtitle="Accesează opțiunile folderului în aplicația Fișiere" image="/docs/howto/how-to-change-album-covers-for-local-tracks-on-spotify-step-by-step-guide-mobile-desktop/files-app-folder-options.webp" >}}
 {{< /cards >}}
 
 ### Lipește folderul de muzică
@@ -106,7 +106,7 @@ Navighează la folderul tău de **Muzică**. Atinge și ține apăsat pentru a d
 Navighează la folderul **Spotify**, atinge și ține apăsat pe o zonă goală și alege **Lipește** din meniul contextual.
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Lipește folderul în locația de destinație" image="/docs/howto/how-to-change-album-covers-for-local-tracks-on-spotify-step-by-step-guide-mobile-desktop/files-app-paste-folder.webp" >}}
+{{< ls-card title="" subtitle="Lipește folderul în locația de destinație" image="/docs/howto/how-to-change-album-covers-for-local-tracks-on-spotify-step-by-step-guide-mobile-desktop/files-app-paste-folder.webp" >}}
 {{< /cards >}}
 
 ### Așteaptă procesul de copiere
@@ -114,7 +114,7 @@ Navighează la folderul **Spotify**, atinge și ține apăsat pe o zonă goală 
 Așteaptă până când sistemul termină de copiat folderul de muzică în directorul local Spotify.
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Copierea fișierelor muzicale cu aplicația Fișiere" image="/docs/howto/how-to-change-album-covers-for-local-tracks-on-spotify-step-by-step-guide-mobile-desktop/files-app-copying-music.webp" >}}
+{{< ls-card title="" subtitle="Copierea fișierelor muzicale cu aplicația Fișiere" image="/docs/howto/how-to-change-album-covers-for-local-tracks-on-spotify-step-by-step-guide-mobile-desktop/files-app-copying-music.webp" >}}
 {{< /cards >}}
 
 ### Deschide biblioteca locală Spotify
@@ -122,7 +122,7 @@ Așteaptă până când sistemul termină de copiat folderul de muzică în dire
 Acum revino la aplicația Spotify. Atinge **Biblioteca ta > Fișiere locale** și vei vedea fișierele muzicale pe care tocmai le-ai copiat.
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Spotify afișând biblioteca muzicală locală" image="/docs/howto/how-to-change-album-covers-for-local-tracks-on-spotify-step-by-step-guide-mobile-desktop/spotify-local-music-library.webp" >}}
+{{< ls-card title="" subtitle="Spotify afișând biblioteca muzicală locală" image="/docs/howto/how-to-change-album-covers-for-local-tracks-on-spotify-step-by-step-guide-mobile-desktop/spotify-local-music-library.webp" >}}
 {{< /cards >}}
 
 ## Conectează folderul Spotify în aplicația Evertag
@@ -149,26 +149,26 @@ Poți edita metadatele direct din foldere fără a importa fișierele.
 - Derulează la **Fișiere pe acest dispozitiv** în bara laterală
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Vezi toate folderele dispozitivului în Evertag" image="/docs/howto/how-to-change-album-covers-for-local-tracks-on-spotify-step-by-step-guide-mobile-desktop/evertag-all-device-folders.webp" >}}
+{{< ls-card title="" subtitle="Vezi toate folderele dispozitivului în Evertag" image="/docs/howto/how-to-change-album-covers-for-local-tracks-on-spotify-step-by-step-guide-mobile-desktop/evertag-all-device-folders.webp" >}}
 {{< /cards >}}
 
 - Atinge **Toate folderele dispozitivului**
 - Atinge **Conectează un folder**
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Conectează folder folosind selectorul de fișiere" image="/docs/howto/how-to-change-album-covers-for-local-tracks-on-spotify-step-by-step-guide-mobile-desktop/evertag-connect-folder-files-picker.webp" >}}
+{{< ls-card title="" subtitle="Conectează folder folosind selectorul de fișiere" image="/docs/howto/how-to-change-album-covers-for-local-tracks-on-spotify-step-by-step-guide-mobile-desktop/evertag-connect-folder-files-picker.webp" >}}
 {{< /cards >}}
 
 - Alege folderul **Spotify** și atinge **Deschide** pentru confirmare
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Conectează folder cu fișiere locale Spotify" image="/docs/howto/how-to-change-album-covers-for-local-tracks-on-spotify-step-by-step-guide-mobile-desktop/evertag-connect-folder-spotify-local.webp" >}}
+{{< ls-card title="" subtitle="Conectează folder cu fișiere locale Spotify" image="/docs/howto/how-to-change-album-covers-for-local-tracks-on-spotify-step-by-step-guide-mobile-desktop/evertag-connect-folder-spotify-local.webp" >}}
 {{< /cards >}}
 
 - Atinge folderul conectat pentru a vedea și edita conținutul
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Folder conectat cu succes în Evertag" image="/docs/howto/how-to-change-album-covers-for-local-tracks-on-spotify-step-by-step-guide-mobile-desktop/evertag-connected-folder.webp" >}}
+{{< ls-card title="" subtitle="Folder conectat cu succes în Evertag" image="/docs/howto/how-to-change-album-covers-for-local-tracks-on-spotify-step-by-step-guide-mobile-desktop/evertag-connected-folder.webp" >}}
 {{< /cards >}}
 
 ## Editor de etichete
@@ -176,7 +176,7 @@ Poți edita metadatele direct din foldere fără a importa fișierele.
 **Editorul de etichete** este spațiul principal de lucru unde vizualizezi și modifici metadatele fișierelor audio.
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Răsfoiește conținutul folderului conectat" image="/docs/howto/how-to-change-album-covers-for-local-tracks-on-spotify-step-by-step-guide-mobile-desktop/evertag-connected-folder-content.webp" >}}
+{{< ls-card title="" subtitle="Răsfoiește conținutul folderului conectat" image="/docs/howto/how-to-change-album-covers-for-local-tracks-on-spotify-step-by-step-guide-mobile-desktop/evertag-connected-folder-content.webp" >}}
 {{< /cards >}}
 
 ## Moduri de editare
@@ -221,25 +221,25 @@ Pentru a înlocui sau adăuga o nouă ilustrație de album:
 1. Atinge **pictograma camerei** în caruselul de ilustrații
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Alege o fotografie personalizată pentru coperta albumului" image="/docs/howto/how-to-change-album-covers-for-local-tracks-on-spotify-step-by-step-guide-mobile-desktop/evertag-choose-photo.webp" >}}
+{{< ls-card title="" subtitle="Alege o fotografie personalizată pentru coperta albumului" image="/docs/howto/how-to-change-album-covers-for-local-tracks-on-spotify-step-by-step-guide-mobile-desktop/evertag-choose-photo.webp" >}}
 {{< /cards >}}
 
 2. Selectează o sursă de imagine (Biblioteca foto, Fișiere locale, Cloud)
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Accesează biblioteca foto pentru a alege ilustrația" image="/docs/howto/how-to-change-album-covers-for-local-tracks-on-spotify-step-by-step-guide-mobile-desktop/evertag-photo-library.webp" >}}
+{{< ls-card title="" subtitle="Accesează biblioteca foto pentru a alege ilustrația" image="/docs/howto/how-to-change-album-covers-for-local-tracks-on-spotify-step-by-step-guide-mobile-desktop/evertag-photo-library.webp" >}}
 {{< /cards >}}
 
 3. Alege imaginea pentru copertă
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Previzualizare copertă album editată" image="/docs/howto/how-to-change-album-covers-for-local-tracks-on-spotify-step-by-step-guide-mobile-desktop/evertag-edited-album-cover.webp" >}}
+{{< ls-card title="" subtitle="Previzualizare copertă album editată" image="/docs/howto/how-to-change-album-covers-for-local-tracks-on-spotify-step-by-step-guide-mobile-desktop/evertag-edited-album-cover.webp" >}}
 {{< /cards >}}
 
 4. Atinge **Salvează** pentru a aplica modificările
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Salvează etichetele audio actualizate" image="/docs/howto/how-to-change-album-covers-for-local-tracks-on-spotify-step-by-step-guide-mobile-desktop/evertag-save-tags.webp" >}}
+{{< ls-card title="" subtitle="Salvează etichetele audio actualizate" image="/docs/howto/how-to-change-album-covers-for-local-tracks-on-spotify-step-by-step-guide-mobile-desktop/evertag-save-tags.webp" >}}
 {{< /cards >}}
 
 ## Actualizează biblioteca Spotify
@@ -247,7 +247,7 @@ Pentru a înlocui sau adăuga o nouă ilustrație de album:
 După salvarea etichetelor, revino la aplicația Spotify.
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Răsfoiește biblioteca muzicală Spotify" image="/docs/howto/how-to-change-album-covers-for-local-tracks-on-spotify-step-by-step-guide-mobile-desktop/spotify-library.webp" >}}
+{{< ls-card title="" subtitle="Răsfoiește biblioteca muzicală Spotify" image="/docs/howto/how-to-change-album-covers-for-local-tracks-on-spotify-step-by-step-guide-mobile-desktop/spotify-library.webp" >}}
 {{< /cards >}}
 
 Deschide din nou secțiunea **Fișiere locale**. Ar trebui să vezi acum ilustrațiile și etichetele actualizate pentru piesele tale locale.
@@ -255,7 +255,7 @@ Deschide din nou secțiunea **Fișiere locale**. Ar trebui să vezi acum ilustra
 > Dacă actualizările nu apar imediat, **închide forțat Spotify** și redeschide-l. Aceasta declanșează o reîmprospătare a metadatelor.
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Piesă în redare cu etichetă editată" image="/docs/howto/how-to-change-album-covers-for-local-tracks-on-spotify-step-by-step-guide-mobile-desktop/spotify-playing-edited-tag.webp" >}}
+{{< ls-card title="" subtitle="Piesă în redare cu etichetă editată" image="/docs/howto/how-to-change-album-covers-for-local-tracks-on-spotify-step-by-step-guide-mobile-desktop/spotify-playing-edited-tag.webp" >}}
 {{< /cards >}}
 
 ## Concluzie
@@ -268,26 +268,26 @@ Ai nevoie de ajutor pentru etichetarea fișierelor FLAC, MP3 sau alte formate de
 
 ## Întrebări frecvente
 
-{{% details title="Pot schimba copertele albumelor pentru piesele de streaming Spotify?" closed="true" %}}
+{{% ls-details title="Pot schimba copertele albumelor pentru piesele de streaming Spotify?" closed="true" %}}
 Nu. Spotify nu permite schimbarea ilustrațiilor pentru piesele din catalogul de streaming. Poți edita copertele albumelor doar pentru fișierele locale adăugate în biblioteca Spotify.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Este Evertag gratuit?" closed="true" %}}
+{{% ls-details title="Este Evertag gratuit?" closed="true" %}}
 Da. Evertag este gratuit de descărcat și utilizat pe iOS și macOS. Suportă peste 120 etichete audio și peste 30 formate de fișiere.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Ce formate audio suportă Evertag?" closed="true" %}}
+{{% ls-details title="Ce formate audio suportă Evertag?" closed="true" %}}
 Evertag suportă peste 30 formate inclusiv MP3, FLAC, AAC, ALAC, WAV, AIFF, OGG, WMA și altele.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="De ce Spotify nu afișează coperta albumului meu actualizată?" closed="true" %}}
+{{% ls-details title="De ce Spotify nu afișează coperta albumului meu actualizată?" closed="true" %}}
 Închide forțat aplicația Spotify și redeschide-o. Spotify stochează metadatele în cache și necesită o repornire pentru a detecta modificările fișierelor locale.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Pot edita etichetele pentru mai multe fișiere simultan?" closed="true" %}}
+{{% ls-details title="Pot edita etichetele pentru mai multe fișiere simultan?" closed="true" %}}
 Da. Evertag suportă editarea în lot. Selectează mai multe fișiere și atinge «Editează mai multe fișiere simultan» pentru a actualiza etichetele și ilustrațiile pentru toate piesele selectate deodată.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Trebuie să copiez fișierele în folderul Spotify?" closed="true" %}}
+{{% ls-details title="Trebuie să copiez fișierele în folderul Spotify?" closed="true" %}}
 Da. Spotify citește fișierele locale doar din folderul dedicat. Copiază sau mută fișierele muzicale în folderul Spotify de pe dispozitiv, apoi activează comutatorul Fișiere audio locale în setările Spotify.
-{{% /details %}}
+{{% /ls-details %}}

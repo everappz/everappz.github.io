@@ -12,7 +12,7 @@ authors:
     image: "/images/about/artem-meleshko-founder-everappz.webp"
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 ![](/blog/evermusic-sync-your-music-library-save-playback-position-correct-music-tags/21260c_641f376e779e47d4927b43c210d3c87f~mv2.jpeg)
 
@@ -67,22 +67,22 @@ Evermusic rileva e corregge i tag ID3 non validi o incompleti utilizzando databa
 
 ## Domande frequenti
 
-{{% details title="La sincronizzazione automatica di Evermusic funziona con tutti i servizi cloud?" closed="true" %}}
+{{% ls-details title="La sincronizzazione automatica di Evermusic funziona con tutti i servizi cloud?" closed="true" %}}
 Sì. La sincronizzazione automatica funziona con Dropbox, Google Drive, OneDrive, MEGA, WebDAV e SMB. Seleziona le cartelle da monitorare e Evermusic mantiene la tua libreria aggiornata.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Evermusic può salvare la posizione del mio audiolibro?" closed="true" %}}
+{{% ls-details title="Evermusic può salvare la posizione del mio audiolibro?" closed="true" %}}
 Sì. Attiva il salvataggio della posizione di riproduzione nelle impostazioni audio. Evermusic ricorda dove ti sei fermato per ogni file, così puoi riprendere senza segnalibri manuali.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Come funziona la lettura dei metadati in background?" closed="true" %}}
+{{% ls-details title="Come funziona la lettura dei metadati in background?" closed="true" %}}
 Evermusic legge i tag ID3 e i metadati dei file in background mentre utilizzi altre funzionalità. Organizza automaticamente la tua libreria per Artista, Album e Genere.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Evermusic correggerà i miei tag musicali danneggiati?" closed="true" %}}
+{{% ls-details title="Evermusic correggerà i miei tag musicali danneggiati?" closed="true" %}}
 Sì. La funzione di correzione automatica dei tag controlla i tuoi file con database online e corregge i metadati ID3 non validi, incompleti o mancanti.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Evermusic è gratuito da scaricare?" closed="true" %}}
+{{% ls-details title="Evermusic è gratuito da scaricare?" closed="true" %}}
 Evermusic è gratuito da scaricare con funzionalità premium opzionali disponibili tramite acquisto in-app.
-{{% /details %}}
+{{% /ls-details %}}

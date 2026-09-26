@@ -12,7 +12,7 @@ authors:
     image: "/images/about/artem-meleshko-founder-everappz.webp"
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 **In breve:** Installa [Flacbox dall'App Store](https://apps.apple.com/us/app/flacbox-flac-player-music/id1097564256?mt=8) per riprodurre FLAC, DSD, ALAC e oltre 120 formati audio su iPhone e Mac. Importa file tramite iTunes File Sharing, Wi-Fi Drive o archiviazione cloud. Nessuna conversione necessaria. Flacbox decodifica nativamente i formati lossless per una riproduzione in qualità studio.
 
@@ -87,22 +87,22 @@ L'app Musica integrata di Apple non supporta FLAC. Flacbox fornisce un decoder F
 
 ## Domande frequenti
 
-{{< details title="Flacbox richiede un abbonamento per riprodurre file lossless?" closed="true" >}}
+{{< ls-details title="Flacbox richiede un abbonamento per riprodurre file lossless?" closed="true" >}}
 Flacbox offre funzionalità di riproduzione base senza abbonamento. Puoi importare e riprodurre FLAC, DSD, ALAC subito dopo il download. Alcune funzionalità avanzate possono richiedere un upgrade premium, ma la riproduzione lossless base è disponibile immediatamente.
-{{< /details >}}
+{{< /ls-details >}}
 
-{{< details title="Flacbox può riprodurre file DSD senza convertirli in PCM?" closed="true" >}}
+{{< ls-details title="Flacbox può riprodurre file DSD senza convertirli in PCM?" closed="true" >}}
 Sì, Flacbox supporta la riproduzione DSD nativa inclusi i formati DSD64, DSD128 e DSD256. Per i migliori risultati, abbina il dispositivo a un DAC esterno compatibile con DSD.
-{{< /details >}}
+{{< /ls-details >}}
 
-{{< details title="Come trasferire grandi collezioni musicali lossless sul mio iPhone?" closed="true" >}}
+{{< ls-details title="Come trasferire grandi collezioni musicali lossless sul mio iPhone?" closed="true" >}}
 Flacbox offre diverse opzioni di trasferimento. Wi-Fi Drive permette l'upload da qualsiasi browser sulla rete locale. Per il trasferimento più veloce, collega un'unità esterna direttamente tramite adattatore Lightning o USB-C.
-{{< /details >}}
+{{< /ls-details >}}
 
-{{< details title="Qual è il modo migliore per riprodurre file FLAC su iPhone?" closed="true" >}}
+{{< ls-details title="Qual è il modo migliore per riprodurre file FLAC su iPhone?" closed="true" >}}
 Installa Flacbox dall'App Store, poi importa i tuoi file FLAC tramite iTunes File Sharing, Wi-Fi Drive, archiviazione cloud o unità esterna. Flacbox decodifica FLAC nativamente senza conversione, supportando risoluzioni fino a 32-bit/384 kHz.
-{{< /details >}}
+{{< /ls-details >}}
 
-{{< details title="Flacbox funziona con NAS e server domestici?" closed="true" >}}
+{{< ls-details title="Flacbox funziona con NAS e server domestici?" closed="true" >}}
 Sì. Flacbox si collega a dispositivi NAS e server domestici tramite protocolli SMB, WebDAV e DLNA. Questo permette di riprodurre in streaming la libreria lossless senza copiare file sul dispositivo.
-{{< /details >}}
+{{< /ls-details >}}

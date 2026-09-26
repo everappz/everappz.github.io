@@ -12,7 +12,7 @@ authors:
     image: "/images/about/artem-meleshko-founder-everappz.webp"
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 **Ringkasan:** Flacbox telah melampaui 1 juta unduhan di seluruh dunia. Aplikasi ini mendukung FLAC, ALAC, APE, DSD, dan format lossless lainnya dengan equalizer 10-band, playlist M3U/CUE, pemutaran offline, dan sinkronisasi lintas perangkat di iPhone, iPad, dan Mac.
 
@@ -78,26 +78,26 @@ Pengembangan mendatang berfokus pada:
 
 ## Pertanyaan yang Sering Diajukan
 
-{{% details title="Format audio apa yang didukung Flacbox?" closed="true" %}}
+{{% ls-details title="Format audio apa yang didukung Flacbox?" closed="true" %}}
 Flacbox memutar FLAC, ALAC, APE, DSD, WavPack, TTA, RealAudio, MP3, AAC, OGG, dan banyak format lainnya. Ini dirancang terutama untuk audio lossless dan hi-res.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Apakah Flacbox memiliki equalizer?" closed="true" %}}
+{{% ls-details title="Apakah Flacbox memiliki equalizer?" closed="true" %}}
 Ya. Flacbox menyertakan equalizer 10-band dengan preset genre dan penyesuaian frekuensi manual.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Bisakah saya mendengarkan musik offline dengan Flacbox?" closed="true" %}}
+{{% ls-details title="Bisakah saya mendengarkan musik offline dengan Flacbox?" closed="true" %}}
 Ya. Unduh file dari penyimpanan cloud atau transfer langsung ke aplikasi untuk pemutaran offline tanpa koneksi internet.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Apakah Flacbox berfungsi di Mac?" closed="true" %}}
+{{% ls-details title="Apakah Flacbox berfungsi di Mac?" closed="true" %}}
 Ya. Flacbox berjalan di iPhone, iPad, dan Mac dengan perpustakaan dan riwayat pemutaran yang tersinkronisasi di semua perangkat.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Apa itu dukungan CUE sheet?" closed="true" %}}
+{{% ls-details title="Apa itu dukungan CUE sheet?" closed="true" %}}
 CUE sheet mendefinisikan batas trek dalam satu file audio. Flacbox membaca file CUE untuk membagi rip album menjadi trek individual dengan metadata yang tepat.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Apakah Flacbox gratis?" closed="true" %}}
+{{% ls-details title="Apakah Flacbox gratis?" closed="true" %}}
 Flacbox gratis untuk diunduh dengan fitur premium opsional yang tersedia melalui pembelian dalam aplikasi.
-{{% /details %}}
+{{% /ls-details %}}

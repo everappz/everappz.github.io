@@ -71,20 +71,20 @@ Denne vejledning guider dig gennem hver del af Flacbox på iPhone, iPad og Mac �
 
 {{< cards cols="2">}}
 
-{{< card icon="map" link="/docs/guide/flacbox/flacbox-guide-navigation" title="Navigation" subtitle="Fanebladslinje på iPhone, Venstremenu på iPad og Mac, mini-afspiller, widgets, CarPlay." >}}
+{{< ls-card icon="map" link="/docs/guide/flacbox/flacbox-guide-navigation" title="Navigation" subtitle="Fanebladslinje på iPhone, Venstremenu på iPad og Mac, mini-afspiller, widgets, CarPlay." >}}
 
-{{< card icon="cloud" link="/docs/guide/flacbox/flacbox-guide-connections" title="Forbindelser" subtitle="iCloud, Google Drive, Dropbox, OneDrive, NAS, WebDAV, SMB, DLNA." >}}
+{{< ls-card icon="cloud" link="/docs/guide/flacbox/flacbox-guide-connections" title="Forbindelser" subtitle="iCloud, Google Drive, Dropbox, OneDrive, NAS, WebDAV, SMB, DLNA." >}}
 
-{{< card icon="collection" link="/docs/guide/flacbox/flacbox-guide-music-library" title="Musikbibliotek" subtitle="Sange, Album, Kunstnere, Genrer, Komponister — synkroniser, søg, rediger metadata." >}}
+{{< ls-card icon="collection" link="/docs/guide/flacbox/flacbox-guide-music-library" title="Musikbibliotek" subtitle="Sange, Album, Kunstnere, Genrer, Komponister — synkroniser, søg, rediger metadata." >}}
 
-{{< card icon="music-note" link="/docs/guide/flacbox/flacbox-guide-playlists" title="Afspilningslister" subtitle="Byg, importer M3U / M3U8 / CUE, omarranger og eksporter til M3U / CSV / TXT." >}}
+{{< ls-card icon="music-note" link="/docs/guide/flacbox/flacbox-guide-playlists" title="Afspilningslister" subtitle="Byg, importer M3U / M3U8 / CUE, omarranger og eksporter til M3U / CSV / TXT." >}}
 
-{{< card icon="folder" link="/docs/guide/flacbox/flacbox-guide-local-files" title="Lokale filer" subtitle="Offline musik, USB-drev, Wi-Fi Drive, filmanager, offline mapper." >}}
+{{< ls-card icon="folder" link="/docs/guide/flacbox/flacbox-guide-local-files" title="Lokale filer" subtitle="Offline musik, USB-drev, Wi-Fi Drive, filmanager, offline mapper." >}}
 
-{{< card icon="play" link="/docs/guide/flacbox/flacbox-guide-player" title="Lydafspiller" subtitle="Hi-res output, equalizer, tonehøjde, bogmærker, AirPlay, Chromecast, hastighed, sove-timer." >}}
+{{< ls-card icon="play" link="/docs/guide/flacbox/flacbox-guide-player" title="Lydafspiller" subtitle="Hi-res output, equalizer, tonehøjde, bogmærker, AirPlay, Chromecast, hastighed, sove-timer." >}}
 
-{{< card icon="adjustments" link="/docs/guide/flacbox/flacbox-guide-settings" title="Indstillinger" subtitle="Lydmotor, bibliotek, filmanager, CarPlay, widgets, personalisering, sprog, sikkerhedskopiering." >}}
+{{< ls-card icon="adjustments" link="/docs/guide/flacbox/flacbox-guide-settings" title="Indstillinger" subtitle="Lydmotor, bibliotek, filmanager, CarPlay, widgets, personalisering, sprog, sikkerhedskopiering." >}}
 
-{{< card icon="question-mark-circle" link="/docs/faq/flacbox" title="Ofte stillede spørgsmål" subtitle="Find svar på de 50 mest almindelige spørgsmål om Flacbox." >}}
+{{< ls-card icon="question-mark-circle" link="/docs/faq/flacbox" title="Ofte stillede spørgsmål" subtitle="Find svar på de 50 mest almindelige spørgsmål om Flacbox." >}}
 
 {{< /cards >}}

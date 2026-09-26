@@ -33,7 +33,7 @@ readingTime: 14
 בפינה הימנית-עליונה של מסך הקבצים נמצא כפתור העברות (אייקון חצים מסתובבים). הקישו עליו לפתיחת תור ההעברות שבו תוכלו לנטר כל הורדה ועלייה על פני כל המקורות שלכם.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="קבצי Evervideo על האחסונים המחוברים" image="/docs/guide/evervideo/img/evervideo-files-connected-storages.webp" >}}
+  {{< ls-card title="" subtitle="קבצי Evervideo על האחסונים המחוברים" image="/docs/guide/evervideo/img/evervideo-files-connected-storages.webp" >}}
 {{< /cards >}}
 
 ## התחברות לאחסון ענן
@@ -41,7 +41,7 @@ readingTime: 14
 חלק אחסון הענן של כרטיסיית הקבצים הוא המקום שבו חי כל חשבון מחובר, NAS, שרת מדיה ושידור — זה לצד זה, ברשימה גלילה אחת.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="חלק אחסון הענן של Evervideo בכרטיסיית הקבצים" image="/docs/guide/evervideo/img/evervideo-connections.webp" >}}
+  {{< ls-card title="" subtitle="חלק אחסון הענן של Evervideo בכרטיסיית הקבצים" image="/docs/guide/evervideo/img/evervideo-connections.webp" >}}
 {{< /cards >}}
 
 - פתחו את כרטיסיית **קבצים**.
@@ -51,7 +51,7 @@ readingTime: 14
 - הכניסו את פרטי הכניסה שלכם בדף ההרשאה הרשמי שסיפק ספק הענן, ולאחר מכן הקישו על **בוצע**.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evervideo — חיבור שירות אחסון ענן" image="/docs/guide/evervideo/img/evervideo-connect-cloud-storage.webp" >}}
+  {{< ls-card title="" subtitle="Evervideo — חיבור שירות אחסון ענן" image="/docs/guide/evervideo/img/evervideo-connect-cloud-storage.webp" >}}
 {{< /cards >}}
 
 אם תיתקלו בבעיות, בדקו את חיבור האינטרנט ואת פרטי הכניסה שלכם. בגרסת Premium של האפליקציה תוכלו להוסיף מספר בלתי מוגבל של שירותים; הגרסה החינמית תומכת בעד שלושה.
@@ -161,7 +161,7 @@ Evervideo מדבר את ה-API של Subsonic, מה שאומר שהוא עובד 
 - אם צריך, הכניסו את פרטי הכניסה שלכם להשלמת החיבור.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="מכשירים זמינים של Evervideo ברשת המקומית" image="/docs/guide/evervideo/img/evervideo-available-devices.webp" >}}
+  {{< ls-card title="" subtitle="מכשירים זמינים של Evervideo ברשת המקומית" image="/docs/guide/evervideo/img/evervideo-available-devices.webp" >}}
 {{< /cards >}}
 
 ## Wi-Fi Drive
@@ -169,7 +169,7 @@ Evervideo מדבר את ה-API של Subsonic, מה שאומר שהוא עובד 
 Wi-Fi Drive מאפשר לכם להעביר קבצים באופן אלחוטי מהמחשב שלכם למכשיר ה-iOS שלכם דרך כל דפדפן שולחני, Finder, או File Explorer. המכשיר שלכם והמחשב חייבים להיות על אותה רשת Wi-Fi.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Wi-Fi Drive של Evervideo" image="/docs/guide/evervideo/img/evervideo-wifi-drive.webp" >}}
+  {{< ls-card title="" subtitle="Wi-Fi Drive של Evervideo" image="/docs/guide/evervideo/img/evervideo-wifi-drive.webp" >}}
 {{< /cards >}}
 
 ### הפעלת Wi-Fi Drive
@@ -201,7 +201,7 @@ iTunes File Sharing (כיום Finder File Sharing על macOS Catalina ואילך
 הקישו על כל שירות ענן מחובר לפתיחת דפדפן הקבצים שלו. תיקיות מציגות תמונות ממוזערות של וידאו כשזמינות, והקשה על וידאו מתחילה ניגון מיידי בזמן שממשיכה להזרים את שאר הקובץ ברקע.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evervideo — עיון בתיקיות באחסונים המחוברים" image="/docs/guide/evervideo/img/evervideo-all-connected-device-folders.webp" >}}
+  {{< ls-card title="" subtitle="Evervideo — עיון בתיקיות באחסונים המחוברים" image="/docs/guide/evervideo/img/evervideo-all-connected-device-folders.webp" >}}
 {{< /cards >}}
 
 ## גישה מהירה
@@ -209,7 +209,7 @@ iTunes File Sharing (כיום Finder File Sharing על macOS Catalina ואילך
 חלק הגישה המהירה נמצא בראש כרטיסיית הקבצים. הוא מספק גישה מהירה לקבצים ותיקיות מועדפים ופתוחים לאחרונה — הן משירותי ענן והן מאחסון במכשיר. בכל פעם שאתם פותחים קובץ או תיקייה מהענן, הם נוספים לרשימה שנפתחו לאחרונה. תוכלו לסמן תיקיות מקוננות עמוק כמועדפות כדי לגשת אליהן במהירות מבלי לחפש דרך מבנה הספרייה.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evervideo — קישורים מקוונים וגישה מהירה" image="/docs/guide/evervideo/img/evervideo-connections-online-links.webp" >}}
+  {{< ls-card title="" subtitle="Evervideo — קישורים מקוונים וגישה מהירה" image="/docs/guide/evervideo/img/evervideo-connections-online-links.webp" >}}
 {{< /cards >}}
 
 ## קבצים באפליקציה זו
@@ -217,7 +217,7 @@ iTunes File Sharing (כיום Finder File Sharing על macOS Catalina ואילך
 חלק זה מציג קבצים ותיקיות המאוחסנים בספריית המסמכים של Evervideo — כל מה שהורדתם מהענן, העברתם דרך Wi-Fi Drive, העתקתם דרך Finder File Sharing, או יובאתם מאפליקציה אחרת.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evervideo — קבצים באפליקציה זו" image="/docs/guide/evervideo/img/evervideo-files-in-this-application.webp" >}}
+  {{< ls-card title="" subtitle="Evervideo — קבצים באפליקציה זו" image="/docs/guide/evervideo/img/evervideo-files-in-this-application.webp" >}}
 {{< /cards >}}
 
 ### תיקיית מסמכים
@@ -225,7 +225,7 @@ iTunes File Sharing (כיום Finder File Sharing על macOS Catalina ואילך
 תיקיית המסמכים היא שורש כל מה שנמצא בקבצים באפליקציה זו. תוכלו ליצור תיקיות משנה, לשנות שמות קבצים, להעביר אותם וקבץ אותם כרצונכם.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evervideo — קבצים מקומיים — תיקיית מסמכים" image="/docs/guide/evervideo/img/evervideo-local-files-documents.webp" >}}
+  {{< ls-card title="" subtitle="Evervideo — קבצים מקומיים — תיקיית מסמכים" image="/docs/guide/evervideo/img/evervideo-local-files-documents.webp" >}}
 {{< /cards >}}
 
 ## קבצים על iPhone / iPad / Mac זה
@@ -238,7 +238,7 @@ iTunes File Sharing (כיום Finder File Sharing על macOS Catalina ואילך
 תוכלו גם להשתמש בחבר תיקייה ליצירת קישור לתיקייה במכשיר שלכם עם גישת קריאה / כתיבה — מושלם לעבוד עם תיקייה ב-iCloud Drive או כונן USB מחובר מבלי להעתיק כלום.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evervideo — קבצים על המכשיר הזה" image="/docs/guide/evervideo/img/evervideo-files-on-this-device.webp" >}}
+  {{< ls-card title="" subtitle="Evervideo — קבצים על המכשיר הזה" image="/docs/guide/evervideo/img/evervideo-files-on-this-device.webp" >}}
 {{< /cards >}}
 
 ## תיקיות מיוחדות
@@ -276,7 +276,7 @@ iTunes File Sharing (כיום Finder File Sharing על macOS Catalina ואילך
 הקישו על **"..."** בפינה הימנית-עליונה ובחרו **בחר** להיכנס למצב בחירה. תיבות סימון מופיעות ליד כל קובץ ותיקייה. הקישו לבחירת פריט אחד או מספר פריטים, ולאחר מכן בצעו פעולות אצווה: הפעל הבא, הפעל מאוחר יותר, הוסף לספריית מדיה, הוסף לרשימת השמעה, העתק, העלה, העבר, שנה שם, או מחק.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evervideo — מצב בחירה במנהל הקבצים" image="/docs/guide/evervideo/img/evervideo-selection-mode-in-files.webp" >}}
+  {{< ls-card title="" subtitle="Evervideo — מצב בחירה במנהל הקבצים" image="/docs/guide/evervideo/img/evervideo-selection-mode-in-files.webp" >}}
 {{< /cards >}}
 
 אם אתם מעדיפים להתייחס לאחסון הענן המחובר כלקריאה-בלבד (למניעת מחיקות מקריות), הפעילו הגדרות → מנהל קבצים → עריכת קבצים מקוונים → כבוי להסתרת כל הפעולות ההרסניות מממשק המשתמש.
@@ -318,13 +318,13 @@ iTunes File Sharing (כיום Finder File Sharing על macOS Catalina ואילך
 בפינה הימנית-עליונה של כרטיסיית הקבצים נמצא כפתור **העברות** (אייקון חצים מסתובבים). הקישו עליו לפתיחת תור ההעברות — רשימת כל הורדה ועלייה פעילה על פני כל המקורות שלכם, עם התקדמות בזמן אמת, מהירות וזמן הגעה משוער לכל קובץ.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evervideo — תור העברות קבצים" image="/docs/guide/evervideo/img/evervideo-file-transfers.webp" >}}
+  {{< ls-card title="" subtitle="Evervideo — תור העברות קבצים" image="/docs/guide/evervideo/img/evervideo-file-transfers.webp" >}}
 {{< /cards >}}
 
 תוכלו להשהות, לחדש, לנסות מחדש העברות שנכשלו, לסדר מחדש פריטים לתעדוף הורדות ספציפיות, או לבטל אותם בנפרד. תוכלו גם לכוונן את מהירות תור ההעברות (מספר מרבי של משימות מקבילות), סוג הרשת (Wi-Fi בלבד או Wi-Fi + סלולרי), והעברות ברקע בהגדרות → מנהל קבצים.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evervideo — פעולות על תור העברות קבצים" image="/docs/guide/evervideo/img/evervideo-file-transfers-actions.webp" >}}
+  {{< ls-card title="" subtitle="Evervideo — פעולות על תור העברות קבצים" image="/docs/guide/evervideo/img/evervideo-file-transfers-actions.webp" >}}
 {{< /cards >}}
 
 ## מצב לא מקוון ותיקיות לא מקוונות מסונכרנות

@@ -18,7 +18,7 @@ readingTime: 16
 La pantalla de **Ajustes** es el centro de control de Evermusic. Desde aquí puedes actualizar a Premium, configurar el reproductor de audio, gestionar tu biblioteca musical, configurar el gestor de archivos, personalizar la interfaz, activar widgets y CarPlay, hacer copias de seguridad de tus datos y acceder a ayuda e información legal. Las secciones están agrupadas bajo encabezados: **Compras y actualizaciones**, preferencias de la app, **Ayuda** y **Legal y privacidad**.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Pantalla de Ajustes de Evermusic" image="/docs/guide/evermusic/evermusic-guide-settings/img/settings-main-screen.webp" >}}
+  {{< ls-card title="" subtitle="Pantalla de Ajustes de Evermusic" image="/docs/guide/evermusic/evermusic-guide-settings/img/settings-main-screen.webp" >}}
 {{< /cards >}}
 
 ## Compras y Actualizaciones

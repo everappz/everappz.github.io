@@ -7,7 +7,7 @@ tags: ["lyrics", "mp3", "id3", "metadata", "iphone", "audio editing"]
 readingTime: 2
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **摘要：** 使用免费的**Evertag**应用在iPhone或Mac上编辑非同步歌词、内容分级和120多个音频标签。支持本地和云存储文件，支持批量编辑，并保存在Evermusic、Flacbox和其他播放器中可见的歌词。
@@ -23,8 +23,8 @@ readingTime: 2
 首先从App Store下载**Evertag**应用。它适用于**iOS**和**macOS**，且免费使用。
 
 {{< cards cols="2">}}
-{{< card link="https://apps.apple.com/app/apple-store/id1450763230?pt=95781850&ct=everappzcom&mt=8" title="Evertag iOS版" icon="download" tag="Free" >}}
-{{< card link="https://apps.apple.com/app/apple-store/id1594027661?pt=95781850&ct=everappzcom&mt=8" title="Evertag macOS版" icon="download" tag="Free" >}}
+{{< ls-card link="https://apps.apple.com/app/apple-store/id1450763230?pt=95781850&ct=everappzcom&mt=8" title="Evertag iOS版" icon="download" tag="Free" >}}
+{{< ls-card link="https://apps.apple.com/app/apple-store/id1594027661?pt=95781850&ct=everappzcom&mt=8" title="Evertag macOS版" icon="download" tag="Free" >}}
 {{< /cards >}}
 
 ## 连接您的云账户
@@ -38,13 +38,13 @@ readingTime: 2
 - 点击**连接到云存储**
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="连接到云存储" image="/docs/howto/how-to-edit-lyrics-for-audio-files-on-iphone-mac/connect-to-cloud-storage.webp" >}}
+{{< ls-card title="" subtitle="连接到云存储" image="/docs/howto/how-to-edit-lyrics-for-audio-files-on-iphone-mac/connect-to-cloud-storage.webp" >}}
 {{< /cards >}}
 
 - 选择支持的提供商，输入您的凭据，然后点击**完成**
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="连接到云存储" image="/docs/howto/how-to-edit-lyrics-for-audio-files-on-iphone-mac/connect-to-cloud-storage.webp" >}}
+{{< ls-card title="" subtitle="连接到云存储" image="/docs/howto/how-to-edit-lyrics-for-audio-files-on-iphone-mac/connect-to-cloud-storage.webp" >}}
 {{< /cards >}}
 
 - 连接后，您的云存储将出现在应用的**云存储**部分。
@@ -52,7 +52,7 @@ readingTime: 2
 - 点击已连接的云存储以浏览和加载其文件夹内容。
   
 {{< cards cols="1">}}
-{{< card title="" subtitle="云存储文件列表" image="/docs/howto/how-to-edit-lyrics-for-audio-files-on-iphone-mac/cloud-storage-list-audio-files.webp" >}}
+{{< ls-card title="" subtitle="云存储文件列表" image="/docs/howto/how-to-edit-lyrics-for-audio-files-on-iphone-mac/cloud-storage-list-audio-files.webp" >}}
 {{< /cards >}}
 
 ## 连接本地文件夹
@@ -74,7 +74,7 @@ readingTime: 2
 - 在侧边栏菜单中向下滚动到**此设备上的文件**
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="设备文件夹" image="/docs/howto/how-to-edit-lyrics-for-audio-files-on-iphone-mac/device-folders.webp" >}}
+{{< ls-card title="" subtitle="设备文件夹" image="/docs/howto/how-to-edit-lyrics-for-audio-files-on-iphone-mac/device-folders.webp" >}}
 {{< /cards >}}
   
 - 点击**所有设备文件夹**菜单项
@@ -91,7 +91,7 @@ readingTime: 2
 **标签编辑器**是Evertag应用的主屏幕，您可以在此查看和编辑音频文件元数据。通过从**本地文件**部分或任何已连接的**云存储**账户点击文件来打开此屏幕。
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Evertag标签编辑器屏幕" image="/docs/howto/how-to-edit-lyrics-for-audio-files-on-iphone-mac/cloud-storage-audio-file-tag-editor.webp" >}}
+{{< ls-card title="" subtitle="Evertag标签编辑器屏幕" image="/docs/howto/how-to-edit-lyrics-for-audio-files-on-iphone-mac/cloud-storage-audio-file-tag-editor.webp" >}}
 {{< /cards >}}
 
 ## 编辑模式
@@ -112,7 +112,7 @@ Evertag提供两种编辑模式：
 要访问所有可用标签，请滚动到屏幕底部并点击**显示扩展标签**选项。这将把编辑器切换到扩展模式，允许您编辑超过**120个元数据字段**，包括**MusicBrainz标签**、**歌词**、**内容分级**等。
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="底部操作面板" image="/docs/howto/how-to-edit-lyrics-for-audio-files-on-iphone-mac/show-extended-tags.webp" >}}
+{{< ls-card title="" subtitle="底部操作面板" image="/docs/howto/how-to-edit-lyrics-for-audio-files-on-iphone-mac/show-extended-tags.webp" >}}
 {{< /cards >}}
 
 ## 批量模式
@@ -137,7 +137,7 @@ Evertag提供两种编辑模式：
 在**扩展标签**模式下，向下滚动并点击**非同步歌词**文本字段。
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="非同步歌词文本字段" image="/docs/howto/how-to-edit-lyrics-for-audio-files-on-iphone-mac/advisory-rating-2.webp" >}}
+{{< ls-card title="" subtitle="非同步歌词文本字段" image="/docs/howto/how-to-edit-lyrics-for-audio-files-on-iphone-mac/advisory-rating-2.webp" >}}
 {{< /cards >}}
 
 > 支持**ID3标签**的音频文件（如`.mp3`或`.wav`）允许您添加多种语言的歌词。如果您正在编辑带有ID3标签的文件，Evertag将启用完整的多语言支持。  
@@ -148,7 +148,7 @@ Evertag提供两种编辑模式：
 如果您正在编辑ID3标签，下一个屏幕将显示**添加新页面**按钮。点击它开始添加新的歌词条目。
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="添加新歌词页面" image="/docs/howto/how-to-edit-lyrics-for-audio-files-on-iphone-mac/add-new-page.webp" >}}
+{{< ls-card title="" subtitle="添加新歌词页面" image="/docs/howto/how-to-edit-lyrics-for-audio-files-on-iphone-mac/add-new-page.webp" >}}
 {{< /cards >}}
 
 ### 选择语言、评论和歌词内容
@@ -159,7 +159,7 @@ Evertag提供两种编辑模式：
 - 输入实际的**歌词文本**
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="选择语言" image="/docs/howto/how-to-edit-lyrics-for-audio-files-on-iphone-mac/choose-language.webp" >}}
+{{< ls-card title="" subtitle="选择语言" image="/docs/howto/how-to-edit-lyrics-for-audio-files-on-iphone-mac/choose-language.webp" >}}
 {{< /cards >}}
 
 ### 输入歌词
@@ -169,7 +169,7 @@ Evertag提供两种编辑模式：
 > 提示：正在寻找高质量歌词？访问[lyricsify.com](https://www.lyricsify.com)查找数千首曲目的LRC格式歌词。
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="已添加的歌词" image="/docs/howto/how-to-edit-lyrics-for-audio-files-on-iphone-mac/added-lyrics.webp" >}}
+{{< ls-card title="" subtitle="已添加的歌词" image="/docs/howto/how-to-edit-lyrics-for-audio-files-on-iphone-mac/added-lyrics.webp" >}}
 {{< /cards >}}
 
 ### 点击"完成"确认
@@ -177,7 +177,7 @@ Evertag提供两种编辑模式：
 输入歌词后，在歌词页面点击**完成**。然后在上一个屏幕再次点击**完成**以确认您的更改。
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="已保存的歌词" image="/docs/howto/how-to-edit-lyrics-for-audio-files-on-iphone-mac/saved-lyrics.webp" >}}
+{{< ls-card title="" subtitle="已保存的歌词" image="/docs/howto/how-to-edit-lyrics-for-audio-files-on-iphone-mac/saved-lyrics.webp" >}}
 {{< /cards >}}
 
 ### 保存标签更改
@@ -185,7 +185,7 @@ Evertag提供两种编辑模式：
 最后，在**标签编辑器**屏幕上，点击**保存**将更新的标签（包括您的新歌词）写回文件。
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="带歌词的标签编辑器" image="/docs/howto/how-to-edit-lyrics-for-audio-files-on-iphone-mac/tags-editor-with-lyrics.webp" >}}
+{{< ls-card title="" subtitle="带歌词的标签编辑器" image="/docs/howto/how-to-edit-lyrics-for-audio-files-on-iphone-mac/tags-editor-with-lyrics.webp" >}}
 {{< /cards >}}
 
 ### 设置歌词内容分级
@@ -204,22 +204,22 @@ Evertag提供两种编辑模式：
 
 ## 常见问题
 
-{{% details title="Evertag支持哪些音频格式的歌词编辑？" closed="true" %}}
+{{% ls-details title="Evertag支持哪些音频格式的歌词编辑？" closed="true" %}}
 Evertag支持30多种音频格式，包括MP3、FLAC、WAV、M4A、OGG、AIFF等。您可以在任何这些格式中编辑歌词和其他元数据标签。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="我可以添加多种语言的歌词吗？" closed="true" %}}
+{{% ls-details title="我可以添加多种语言的歌词吗？" closed="true" %}}
 是的，但仅限于使用ID3标签的音频文件（如MP3和WAV）。对于FLAC或M4A等其他格式，仅支持单个歌词条目。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Evertag支持批量歌词编辑吗？" closed="true" %}}
+{{% ls-details title="Evertag支持批量歌词编辑吗？" closed="true" %}}
 是的。您可以进入批量模式一次编辑多个文件的元数据。这对于将相同的歌词内容分级或其他共享标签应用到整个专辑很有用。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="编辑的歌词会出现在Apple Music或Spotify中吗？" closed="true" %}}
+{{% ls-details title="编辑的歌词会出现在Apple Music或Spotify中吗？" closed="true" %}}
 使用Evertag编辑的歌词嵌入在音频文件的元数据中。它们将出现在任何读取嵌入歌词标签的音乐播放器中，如Evermusic、Flacbox、VLC和foobar2000。Spotify和Apple Music等流媒体应用使用自己的歌词数据库，不读取嵌入的标签。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="我可以编辑存储在云存储中的文件标签吗？" closed="true" %}}
+{{% ls-details title="我可以编辑存储在云存储中的文件标签吗？" closed="true" %}}
 是的。Evertag支持连接云存储服务。应用下载文件，允许您编辑标签，并自动将更新的文件上传回云端。
-{{% /details %}}
+{{% /ls-details %}}

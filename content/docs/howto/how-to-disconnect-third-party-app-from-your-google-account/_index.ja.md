@@ -7,7 +7,7 @@ tags: ["google", "セキュリティ", "プライバシー", "アプリ", "ア�
 readingTime: 2
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **要約:** [myaccount.google.com](https://myaccount.google.com/) > セキュリティ > サードパーティのアプリとサービスにアクセスします。削除したいアプリをクリックし、「アクセスを削除」または「すべての接続を削除」を選択します。各アプリについて繰り返します。
@@ -75,18 +75,18 @@ Googleアカウントからサードパーティアプリを切断したい理�
 
 ## よくある質問
 
-{{% details title="アプリを切断すると、そのアプリから自分のデータが削除されますか？" closed="true" %}}
+{{% ls-details title="アプリを切断すると、そのアプリから自分のデータが削除されますか？" closed="true" %}}
 いいえ。アクセスの削除は、今後そのアプリがGoogleアカウントにアクセスすることを停止するだけです。すでにアプリと共有されたデータは、そのサーバー上にまだ存在する可能性があります。そのデータを削除するには、アプリ自体のプライバシー設定を確認してください。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="切断した後にアプリを再接続できますか？" closed="true" %}}
+{{% ls-details title="切断した後にアプリを再接続できますか？" closed="true" %}}
 はい。再びアプリが必要な場合は、プロンプトが表示されたらGoogleでサインインするだけです。アプリは再度権限を要求し、アクセスを許可する前にそれらを確認できます。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="サードパーティアプリのアクセスをどのくらいの頻度で確認すべきですか？" closed="true" %}}
+{{% ls-details title="サードパーティアプリのアクセスをどのくらいの頻度で確認すべきですか？" closed="true" %}}
 接続されているアプリを3〜6か月ごとに確認するか、サービスの使用を停止した直後に確認してください。定期的な監査は、アカウントの安全性を維持するのに役立ちます。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="これはGoogle Driveに接続するEvermusic のようなアプリに影響しますか？" closed="true" %}}
+{{% ls-details title="これはGoogle Driveに接続するEvermusic のようなアプリに影響しますか？" closed="true" %}}
 はい。Evermusic やFlacbox のようなアプリをGoogleアカウントから切断すると、Google Driveのファイルへのアクセスが失われます。アプリ内からいつでも再接続できます。
-{{% /details %}}
+{{% /ls-details %}}

@@ -1,10 +1,11 @@
 ---
+excludeSearch: true
 date: '2025-06-12T17:00:00+00:00'
 title: 'हमारे बारे में'
 description: 'Everappz S.L. एक स्पेनिश सॉफ्टवेयर कंपनी है जो ऑडियो और वीडियो के लिए iOS और macOS ऐप्स विकसित करती है। Evermusic (11M डाउनलोड), Flacbox, EverTag, EverVideo के निर्माता — दुनिया भर में 14 मिलियन से अधिक डाउनलोड।'
 ---
 
-{{< lottie src="/images/juicy-json/juicy-girl-and-guy-preparing-start-up-rocket-to-launch-with-ideas.json" width="65%" >}}
+{{< ls-lottie src="/images/juicy-json/juicy-girl-and-guy-preparing-start-up-rocket-to-launch-with-ideas.json" width="65%" >}}
 
 ## हम कौन हैं
 
@@ -35,7 +36,7 @@ Everappz S.L. स्पेन में स्थित एक स्वतं�
 ### Artem Meleshko
 
 {{< cards cols="1" >}}
-  {{< card
+  {{< ls-card
     link="https://www.linkedin.com/in/artem-meleshko-s/"
     title="Artem Meleshko"
     tag="संस्थापक और इंजीनियर"
@@ -60,7 +61,7 @@ Everappz ब्रांड के तहत, Artem ने Flacbox (ऑडिय
 ### Anna Kosenko
 
 {{< cards cols="1" >}}
-  {{< card
+  {{< ls-card
     link="https://www.linkedin.com/in/anna-kosenko-kosenko/"
     title="Anna Kosenko"
     tag="निदेशक"
@@ -86,4 +87,4 @@ Anna ने Colegio Internacional Lope de Vega से व्यवसाय प�
 
 सबसे अद्यतन समाचार, ऐप अपडेट, टिप्स और उपयोगी जानकारी प्राप्त करने के लिए सोशल नेटवर्क पर हमें सब्सक्राइब करें:
 
-{{< social-cards >}}
+{{< ls-social-cards >}}

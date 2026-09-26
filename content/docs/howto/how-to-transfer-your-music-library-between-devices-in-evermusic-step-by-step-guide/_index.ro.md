@@ -7,7 +7,7 @@ keywords: ["transfer bibliotecă muzicală Evermusic", "backup și restaurare li
 readingTime: 3
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **Rezumat:** Pentru a transfera biblioteca Evermusic pe un dispozitiv nou, creați un backup pe dispozitivul sursă, porniți Wi-Fi Drive, conectați al doilea dispozitiv prin aceeași rețea, descărcați backup-ul și fișierele muzicale, apoi restaurați din backup. Întregul proces durează aproximativ 10 minute, în funcție de dimensiunea bibliotecii.
@@ -144,22 +144,22 @@ Urmând acești pași, veți transfera cu succes biblioteca muzicală, listele d
 
 ## Întrebări frecvente
 
-{{% details title="Pot transfera biblioteca Evermusic fără Wi-Fi?" closed="true" %}}
+{{% ls-details title="Pot transfera biblioteca Evermusic fără Wi-Fi?" closed="true" %}}
 Wi-Fi Drive necesită ca ambele dispozitive să fie pe aceeași rețea Wi-Fi. În prezent nu există opțiune de transfer prin Bluetooth sau celular. Ca alternativă, puteți utiliza AirDrop sau aplicația Fișiere pentru a muta manual fișierul de backup și folderele muzicale între dispozitive.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Conexiunile serviciilor cloud se transferă cu backup-ul?" closed="true" %}}
+{{% ls-details title="Conexiunile serviciilor cloud se transferă cu backup-ul?" closed="true" %}}
 Backup-ul include baza de date, listele de redare, copertele albumelor și setările. Credențialele de autentificare ale serviciilor cloud nu sunt incluse din motive de securitate. Va trebui să reconectați conturile cloud pe noul dispozitiv după restaurare.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Ce se întâmplă cu biblioteca existentă de pe al doilea dispozitiv?" closed="true" %}}
+{{% ls-details title="Ce se întâmplă cu biblioteca existentă de pe al doilea dispozitiv?" closed="true" %}}
 Restaurarea unui backup înlocuiește toate datele existente ale bibliotecii muzicale, listele de redare, setările și copertele albumelor de pe al doilea dispozitiv. Faceți mai întâi un backup separat al celui de-al doilea dispozitiv dacă doriți să păstrați datele sale.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Funcționează acest proces între iPhone și Mac?" closed="true" %}}
+{{% ls-details title="Funcționează acest proces între iPhone și Mac?" closed="true" %}}
 Da. Evermusic suportă transferul Wi-Fi Drive între orice combinație de iPhone, iPad și Mac. Ambele dispozitive trebuie doar să fie pe aceeași rețea Wi-Fi.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Cât durează transferul?" closed="true" %}}
+{{% ls-details title="Cât durează transferul?" closed="true" %}}
 Timpul de transfer depinde de dimensiunea bibliotecii muzicale și de viteza Wi-Fi. O bibliotecă tipică de câțiva gigabytes se transferă în 5-15 minute printr-o rețea de acasă standard.
-{{% /details %}}
+{{% /ls-details %}}

@@ -33,7 +33,7 @@ Tab-ul Fișiere este împărțit în secțiuni clare care apar în această ordi
 În colțul din dreapta sus al ecranului Fișiere se află un buton Transferuri (o pictogramă cu săgeți rotitoare). Atingeți-l pentru a deschide Coada de Transferuri unde monitorizați fiecare descărcare și încărcare din toate sursele.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evervideo Fișiere în Stocări Conectate" image="/docs/guide/evervideo/img/evervideo-files-connected-storages.webp" >}}
+  {{< ls-card title="" subtitle="Evervideo Fișiere în Stocări Conectate" image="/docs/guide/evervideo/img/evervideo-files-connected-storages.webp" >}}
 {{< /cards >}}
 
 ## Conectare la Stocare Cloud
@@ -41,7 +41,7 @@ Tab-ul Fișiere este împărțit în secțiuni clare care apar în această ordi
 Secțiunea Stocare Cloud a tab-ului Fișiere este locul unde trăiesc toate conturile conectate, NAS-urile, serverele media și fluxurile — unul lângă altul, într-o listă derulabilă.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Secțiunea Stocare Cloud în Tab-ul Fișiere Evervideo" image="/docs/guide/evervideo/img/evervideo-connections.webp" >}}
+  {{< ls-card title="" subtitle="Secțiunea Stocare Cloud în Tab-ul Fișiere Evervideo" image="/docs/guide/evervideo/img/evervideo-connections.webp" >}}
 {{< /cards >}}
 
 - Deschideți tab-ul **Fișiere**.
@@ -51,7 +51,7 @@ Secțiunea Stocare Cloud a tab-ului Fișiere este locul unde trăiesc toate cont
 - Introduceți datele de autentificare pe pagina de autorizare oficială furnizată de furnizorul cloud, apoi atingeți **Finalizat**.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evervideo Conectare la un Serviciu de Stocare Cloud" image="/docs/guide/evervideo/img/evervideo-connect-cloud-storage.webp" >}}
+  {{< ls-card title="" subtitle="Evervideo Conectare la un Serviciu de Stocare Cloud" image="/docs/guide/evervideo/img/evervideo-connect-cloud-storage.webp" >}}
 {{< /cards >}}
 
 Dacă întâmpinați probleme, verificați conexiunea la internet și login-ul / parola. În versiunea Premium a aplicației, puteți adăuga un număr nelimitat de servicii; versiunea gratuită suportă până la trei.
@@ -161,7 +161,7 @@ Această secțiune afișează fiecare dispozitiv din rețeaua locală la care v�
 - Dacă este necesar, introduceți datele de autentificare pentru a finaliza conexiunea.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evervideo Dispozitive Disponibile în Rețeaua Locală" image="/docs/guide/evervideo/img/evervideo-available-devices.webp" >}}
+  {{< ls-card title="" subtitle="Evervideo Dispozitive Disponibile în Rețeaua Locală" image="/docs/guide/evervideo/img/evervideo-available-devices.webp" >}}
 {{< /cards >}}
 
 ## Wi-Fi Drive
@@ -169,7 +169,7 @@ Această secțiune afișează fiecare dispozitiv din rețeaua locală la care v�
 Wi-Fi Drive vă permite să transferați fișiere wireless de pe computer pe dispozitivul iOS prin orice browser de desktop, Finder sau File Explorer. Dispozitivul și computerul dvs. trebuie să fie în aceeași rețea Wi-Fi.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evervideo Wi-Fi Drive" image="/docs/guide/evervideo/img/evervideo-wifi-drive.webp" >}}
+  {{< ls-card title="" subtitle="Evervideo Wi-Fi Drive" image="/docs/guide/evervideo/img/evervideo-wifi-drive.webp" >}}
 {{< /cards >}}
 
 ### Activare Wi-Fi Drive
@@ -201,7 +201,7 @@ Conectați o unitate USB sau un card SD la iPhone, iPad sau Mac prin adaptorul L
 Atingeți orice serviciu cloud conectat pentru a deschide browserul de fișiere. Folderele arată miniaturile video când sunt disponibile, iar atingerea unui videoclip pornește redarea imediat, continuând să transmită restul fișierului în fundal.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evervideo Navigare Foldere în Stocări Conectate" image="/docs/guide/evervideo/img/evervideo-all-connected-device-folders.webp" >}}
+  {{< ls-card title="" subtitle="Evervideo Navigare Foldere în Stocări Conectate" image="/docs/guide/evervideo/img/evervideo-all-connected-device-folders.webp" >}}
 {{< /cards >}}
 
 ## Acces Rapid
@@ -209,7 +209,7 @@ Atingeți orice serviciu cloud conectat pentru a deschide browserul de fișiere.
 Secțiunea Acces Rapid se află în partea de sus a tab-ului Fișiere. Oferă acces rapid la fișierele și folderele preferate și deschise recent — atât din serviciile cloud cât și din stocarea de pe dispozitiv. De fiecare dată când deschideți un fișier sau folder din cloud, acesta este adăugat la lista Deschis Recent. Puteți marca folderele profund imbricate ca Preferințe pentru a le accesa rapid fără a parcurge structura de directoare.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evervideo Linkuri Online și Acces Rapid" image="/docs/guide/evervideo/img/evervideo-connections-online-links.webp" >}}
+  {{< ls-card title="" subtitle="Evervideo Linkuri Online și Acces Rapid" image="/docs/guide/evervideo/img/evervideo-connections-online-links.webp" >}}
 {{< /cards >}}
 
 ## Fișiere în Această Aplicație
@@ -217,7 +217,7 @@ Secțiunea Acces Rapid se află în partea de sus a tab-ului Fișiere. Oferă ac
 Această secțiune afișează fișierele și folderele stocate în directorul Documente sandbox al Evervideo — tot ce ați descărcat din cloud, transferat prin Wi-Fi Drive, copiat prin Finder File Sharing sau importat din altă aplicație.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evervideo Fișiere în Această Aplicație" image="/docs/guide/evervideo/img/evervideo-files-in-this-application.webp" >}}
+  {{< ls-card title="" subtitle="Evervideo Fișiere în Această Aplicație" image="/docs/guide/evervideo/img/evervideo-files-in-this-application.webp" >}}
 {{< /cards >}}
 
 ### Folderul Documente
@@ -225,7 +225,7 @@ Această secțiune afișează fișierele și folderele stocate în directorul Do
 Folderul Documente este rădăcina a tot ceea ce se află în Fișiere în Această Aplicație. Puteți crea subfoldere, redenumi fișiere, le puteți muta și le puteți grupa cum doriți.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evervideo Fișiere Locale — Folderul Documente" image="/docs/guide/evervideo/img/evervideo-local-files-documents.webp" >}}
+  {{< ls-card title="" subtitle="Evervideo Fișiere Locale — Folderul Documente" image="/docs/guide/evervideo/img/evervideo-local-files-documents.webp" >}}
 {{< /cards >}}
 
 ## Fișiere pe Acest iPhone / iPad / Mac
@@ -238,7 +238,7 @@ Această secțiune afișează videoclipuri situate pe dispozitiv dar în aplica�
 Puteți folosi și Conectare Folder pentru a crea un link la un folder de pe dispozitiv cu acces de citire / scriere — perfect pentru a lucra cu un folder pe iCloud Drive sau o unitate USB atașată fără a copia nimic.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evervideo Fișiere pe Acest Dispozitiv" image="/docs/guide/evervideo/img/evervideo-files-on-this-device.webp" >}}
+  {{< ls-card title="" subtitle="Evervideo Fișiere pe Acest Dispozitiv" image="/docs/guide/evervideo/img/evervideo-files-on-this-device.webp" >}}
 {{< /cards >}}
 
 ## Foldere Speciale
@@ -276,7 +276,7 @@ Când deschideți un folder, atingeți butonul **"..."** din colțul din dreapta
 Atingeți **"..."** în colțul din dreapta sus și alegeți **Selectați** pentru a intra în modul de selecție. Apar casete de selecție lângă fiecare fișier și folder. Atingeți pentru a selecta unul sau mai multe elemente, apoi efectuați acțiuni în lot: Redare Ulterioară, Redare Mai Târziu, Adăugare la Biblioteca Media, Adăugare la o Listă de Redare, Copiere, Încărcare, Mutare, Redenumire sau Ștergere.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evervideo Mod Selecție în Managerul de Fișiere" image="/docs/guide/evervideo/img/evervideo-selection-mode-in-files.webp" >}}
+  {{< ls-card title="" subtitle="Evervideo Mod Selecție în Managerul de Fișiere" image="/docs/guide/evervideo/img/evervideo-selection-mode-in-files.webp" >}}
 {{< /cards >}}
 
 Dacă preferați să tratați stocarea cloud conectată ca numai citire (pentru a preveni ștergerile accidentale), activați Setări → Manager Fișiere → Editare Fișiere Online → Oprit pentru a ascunde toate operațiunile distructive din interfață.
@@ -318,13 +318,13 @@ Pentru fiecare folder din stocarea cloud, aveți multe acțiuni disponibile atin
 În colțul din dreapta sus al tab-ului Fișiere se află un buton **Transferuri** (o pictogramă cu săgeți rotitoare). Atingeți-l pentru a deschide Coada de Transferuri — o listă cu fiecare descărcare și încărcare activă din toate sursele, cu progres în timp real, viteză și ETA per fișier.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evervideo Coadă de Transferuri Fișiere" image="/docs/guide/evervideo/img/evervideo-file-transfers.webp" >}}
+  {{< ls-card title="" subtitle="Evervideo Coadă de Transferuri Fișiere" image="/docs/guide/evervideo/img/evervideo-file-transfers.webp" >}}
 {{< /cards >}}
 
 Puteți întrerupe, relua, reîncerca transferurile eșuate, rearanja elementele pentru a prioritiza descărcări specifice sau le puteți anula individual. Puteți ajusta și viteza cozii de transferuri (numărul maxim de sarcini paralele), tipul de rețea (numai Wi-Fi sau Wi-Fi + Celular) și transferurile în fundal în Setări → Manager Fișiere.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evervideo Acțiuni în Coada de Transferuri Fișiere" image="/docs/guide/evervideo/img/evervideo-file-transfers-actions.webp" >}}
+  {{< ls-card title="" subtitle="Evervideo Acțiuni în Coada de Transferuri Fișiere" image="/docs/guide/evervideo/img/evervideo-file-transfers-actions.webp" >}}
 {{< /cards >}}
 
 ## Mod Offline și Foldere Offline Sincronizate

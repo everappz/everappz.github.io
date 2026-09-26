@@ -15,7 +15,7 @@ tags: [
 ---
 
 
-{{< lottie src="/images/juicy-json/juicy-woman-focused-on-online-learning.json" width="85%" >}}
+{{< ls-lottie src="/images/juicy-json/juicy-woman-focused-on-online-learning.json" width="85%" >}}
 
 ## למד להשתמש באפליקציות שלנו
 
@@ -27,7 +27,7 @@ tags: [
 
 ## בחר את האפליקציה שלך
 
-{{< product-doc-cards section="faq" >}}
+{{< ls-product-doc-cards section="faq" >}}
 
 ## בעיות נפוצות ותשובות
 
@@ -35,7 +35,7 @@ tags: [
 
 <div class="hx:w-full">
 
-{{% details title="מדוע אני לא יכול להתחבר ל-pCloud בגרסת iOS ישנה יותר (15.8.4)?" closed="true" %}}
+{{% ls-details title="מדוע אני לא יכול להתחבר ל-pCloud בגרסת iOS ישנה יותר (15.8.4)?" closed="true" %}}
 דף הכניסה של pCloud עשוי שלא להיות מוצג כראוי בגרסאות iOS ישנות יותר כגון 15.8.4, מה שמונע הזנת דוא"ל וסיסמה במסך החיבור לענן.<br><br>
 
 כפתרון חלופי, תוכל להשתמש בפרוטוקול **WebDAV**, הנתמך על ידי pCloud ועובד בצורה אמינה בכל גרסאות iOS.
@@ -49,9 +49,9 @@ tags: [
 פתח את האפליקציה ← חיבורים ← התחבר לאחסון ענן ← בחר **WebDAV** ← הזן את פרטי ההתחברות וכתובת ה-URL של השרת.
 
 שיטה זו תאפשר לך להתחבר לאחסון pCloud שלך ולגשת לקבצים ללא בעיות במכשירים ישנים יותר.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="כיצד מנגנים מוזיקה דרך AirPlay מ-Mac (macOS)?" closed="true" %}}
+{{% ls-details title="כיצד מנגנים מוזיקה דרך AirPlay מ-Mac (macOS)?" closed="true" %}}
 גרסת macOS של האפליקציה אינה כוללת לחצני חיבור AirPlay, Chromecast או Bluetooth מובנים כמו ב-iOS.<br><br>
 
 לשימוש ב-**AirPlay** ב-MacBook Pro שלך, בצע את השלבים הבאים:
@@ -62,9 +62,9 @@ tags: [
 4. בחר את המכשיר הרצוי כדי להתחיל להזרים את המוזיקה שלך.  
 
 פעולה זו תנתב את כל צליל המערכת (כולל מ-Evermusic או Flacbox) למכשיר AirPlay שבחרת.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="מדוע רכישת ה-Premium שלי לא הופעלה ב-Mac אם קניתי אותה ב-iPhone?" closed="true" %}}
+{{% ls-details title="מדוע רכישת ה-Premium שלי לא הופעלה ב-Mac אם קניתי אותה ב-iPhone?" closed="true" %}}
 רכישות לכל החיים ומנויים מסונכרנים בין iOS ל-Mac דרך **iCloud**.<br><br>
 
 להפעלת Premium ב-Mac שלך:<br>
@@ -76,9 +76,9 @@ tags: [
 - לחלופין, הקש על **שחזר רכישות** בהגדרות האפליקציה בשני המכשירים<br><br>
 
 תכונות ה-Premium שלך אמורות לאחר מכן להיות מופעלות אוטומטית ב-Mac.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="כיצד ניתן לסנכרן רשימות השמעה אוטומטית בין מכשירים?" closed="true" %}}
+{{% ls-details title="כיצד ניתן לסנכרן רשימות השמעה אוטומטית בין מכשירים?" closed="true" %}}
 כרגע **אין סנכרון אוטומטי** לרשימות השמעה.<br><br>
 
 תוכל להשתמש באחת מהאפשרויות הבאות:<br>
@@ -88,9 +88,9 @@ tags: [
   - [כיצד לייבא רשימות השמעה](/docs/howto/how-to-import-m3u-playlist-to-evermusic-and-flacbox/)<br>
 - **ארכיון רשימת השמעה או אלבומים** והעברה דרך ZIP:<br>
   - [מדריך ארכיון רשימות השמעה](/docs/howto/how-to-archive-zip-playlists-albums-artists-and-genres-in-evermusic-flacbox-and-transfer-to/)
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="האם שימוש באפליקציות שלכם בטוח? האם ניתן להשבית אנליטיקה?" closed="true" %}}
+{{% ls-details title="האם שימוש באפליקציות שלכם בטוח? האם ניתן להשבית אנליטיקה?" closed="true" %}}
 כן, הפרטיות שלך היא העדיפות העליונה שלנו.<br><br>
 
 - כל הנתונים — קבצי מוזיקה, הגדרות, כניסות לענן — נשארים במכשיר שלך<br>
@@ -104,18 +104,18 @@ tags: [
 
 בעת שימוש במודעות מותאמות אישית, Google Mobile Ads דורש הצגת הגדרות הסכמה.<br>
 משתמשי Premium אינם רואים מודעות וה-SDK של המודעות מושבת לחלוטין.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="האם האפליקציות שלכם תומכות ב-Family Sharing?" closed="true" %}}
+{{% ls-details title="האם האפליקציות שלכם תומכות ב-Family Sharing?" closed="true" %}}
 כן, Family Sharing נתמך.<br><br>
 
 לשיתוף רכישות בתוך האפליקציה:<br>
 - ודא שהרכישה מוגדרת לשיתוף עם קבוצת המשפחה שלך<br>
 - במכשיר של בן המשפחה, עבור אל **הגדרות > רכישות > שחזר רכישות**<br>
 - זה יבקש נתוני רכישה משרתי Apple ויפעיל אותם במכשירו
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="כיצד מאיצים את סנכרון מטא-הנתונים והענן?" closed="true" %}}
+{{% ls-details title="כיצד מאיצים את סנכרון מטא-הנתונים והענן?" closed="true" %}}
 לשיפור מהירות הסנכרון, הפעל משימות רקע:<br><br>
 
 - **הגדרות ← ספריית מוזיקה ← קריאת מטא-נתונים ← קריאת מטא-נתונים ברקע**<br>
@@ -123,14 +123,14 @@ tags: [
 
 כמו כן, ב-macOS, הגדל את מהירות קריאת מטא-הנתונים דרך **הגדרות ← ספריית מוזיקה**.<br>
 אם הנגן פעיל (מתנגן שמע), iOS לא ישהה את האפליקציה, מה שמאפשר סנכרון רציף.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="כיצד ניתן לבטל את המנוי שלי?" closed="true" %}}
+{{% ls-details title="כיצד ניתן לבטל את המנוי שלי?" closed="true" %}}
 תוכל לבטל את המנוי שלך לפי ההוראות הרשמיות של Apple:<br>
 👉 [כיצד לבטל מנוי](https://support.apple.com/en-us/118428)
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="כיצד ניתן להתחבר ולהזרים שמע מ-WD MyCloud EX2 Ultra?" closed="true" %}}
+{{% ls-details title="כיצד ניתן להתחבר ולהזרים שמע מ-WD MyCloud EX2 Ultra?" closed="true" %}}
 
 כאשר מוסיפים חיבור באפליקציה דרך **חיבורים > התחבר לאחסון ענן > My Cloud Home**, הוא מיועד רשמית לתמיכה במכשירי **WD MyCloud Home**.<br>
 WD MyCloud EX2 Ultra משתמש בגישה מוגבלת לאפליקציות.<br><br>
@@ -144,16 +144,16 @@ WD MyCloud EX2 Ultra משתמש בגישה מוגבלת לאפליקציות.<br
 5. כעת תוכל להזרים אותם או להוריד אותם ישירות<br><br>
 
 ⚠️ רק תיקיות שנוצרו דרך האפליקציה יהיו נגישות מה-NAS.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="כיצד מתחברים ל-Koofr.eu?" closed="true" %}}
+{{% ls-details title="כיצד מתחברים ל-Koofr.eu?" closed="true" %}}
 ניתן לחבר את Koofr באמצעות **WebDAV**.<br><br>
 
 - מדריך הגדרת WebDAV עבור Koofr: [בלוג koofr.eu](https://koofr.eu/blog/posts/3-ways-to-map-koofr-as-a-network-drive-explained)<br>
 - מדריך WebDAV עבור Evermusic/Flacbox: [כיצד לחבר אחסון NAS באמצעות WebDAV ולהאזין למוזיקה ב-iPhone או Mac](/docs/howto/how-to-connect-nas-storage-using-webdav-and-listen-to-music-on-your-iphone-or-mac/)
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="מהם סכמות ה-URL של האפליקציה?" closed="true" %}}
+{{% ls-details title="מהם סכמות ה-URL של האפליקציה?" closed="true" %}}
 להלן הסכמות הנתמכות:<br><br>
 
 **Evermusic**<br>
@@ -172,35 +172,35 @@ WD MyCloud EX2 Ultra משתמש בגישה מוגבלת לאפליקציות.<br
 **Evervideo**<br>
 - iOS: `lsevervideo://`<br>
 - macOS: `lsevervideomac://`
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="המוזיקה מפסיקה לנגן כשהאפליקציה ברקע — כיצד לתקן?" closed="true" %}}
+{{% ls-details title="המוזיקה מפסיקה לנגן כשהאפליקציה ברקע — כיצד לתקן?" closed="true" %}}
 אם האפליקציה קורסת או מושהית ברקע:<br>
 - עבור אל **הגדרות > ספריית מוזיקה > סנכרון מוזיקה מקוון > סנכרון ברקע ← השבת**<br>
 - **הגדרות > ספריית מוזיקה > קריאת מטא-נתונים > קריאת מטא-נתונים ברקע ← השבת**<br>
 - **הגדרות > מנהל קבצים > העברות ברקע ← השבת**
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="השמעה ללא רווחים לא עובדת — כיצד לתקן?" closed="true" %}}
+{{% ls-details title="השמעה ללא רווחים לא עובדת — כיצד לתקן?" closed="true" %}}
 השמעה ללא רווחים תלויה בגרסת iOS ובמנוע השמע.<br>
 נסה להחליף את מנוע השמע:<br>
 - עבור אל **הגדרות ← נגן שמע ← כללי ← מעבד שמע**<br>
 - בחר **Core Audio** לתמיכה טובה יותר בהשמעה ללא רווחים
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="מדוע האפליקציה מציגה רק 100 פריטים ברשימה?" closed="true" %}}
+{{% ls-details title="מדוע האפליקציה מציגה רק 100 פריטים ברשימה?" closed="true" %}}
 האפליקציה משתמשת בחלוקה לעמודים לביצועים.<br>
 כדי להשבית זאת:<br>
 - עבור אל **הגדרות ← התאמה אישית ← מגבלת טעינת תוכן ← מושבת**<br>
 כעת כל הפריטים יטענו בבת אחת.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="מדוע יש תווים מוזרים במטא-נתונים?" closed="true" %}}
+{{% ls-details title="מדוע יש תווים מוזרים במטא-נתונים?" closed="true" %}}
 נסה להפעיל נרמול מטא-נתונים:<br>
 - **הגדרות ← ספריית מוזיקה ← קריאת מטא-נתונים ← נרמל קידוד מטא-נתונים**
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="מדוע האפליקציה לא יכולה לקרוא שמות תיקיות עם תווים מיוחדים?" closed="true" %}}
+{{% ls-details title="מדוע האפליקציה לא יכולה לקרוא שמות תיקיות עם תווים מיוחדים?" closed="true" %}}
 זוהי בעיה ידועה עם **פרוטוקול SMB2**.<br><br>
 
 נסה את הפתרונות הבאים:<br>
@@ -210,9 +210,9 @@ WD MyCloud EX2 Ultra משתמש בגישה מוגבלת לאפליקציות.<br
   - בחר תיקיות/קבצים באמצעות תפריט Apple המובנה<br><br>
 
 לחלופין, התחבר באמצעות **WebDAV** או **DLNA** אם ה-NAS שלך תומך בהם.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="כיצד להעלות ולנהל מוזיקה ב-iCloud?" closed="true" %}}
+{{% ls-details title="כיצד להעלות ולנהל מוזיקה ב-iCloud?" closed="true" %}}
 – **כיצד מעלים מוזיקה ל-iCloud?**  <br>
 עבור אל [https://www.icloud.com](https://www.icloud.com) בדפדפן שלך, צור תיקיה והעלה קבצי מוזיקה ישירות מ-Mac או PC.<br>
 
@@ -225,9 +225,9 @@ WD MyCloud EX2 Ultra משתמש בגישה מוגבלת לאפליקציות.<br
 
 מידע נוסף כאן: [כיצד להזרים מוזיקה מ-iCloud Drive ב-iPhone או Mac](/docs/howto/how-to-listen-to-music-from-icloud-drive-on-your-iphone-or-mac/)
 
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="כיצד ניתן להעביר ספריית מוזיקה בנפח 10 GB מ-Windows 11 ל-iPhone לניגון לא מקוון?" closed="true" %}}
+{{% ls-details title="כיצד ניתן להעביר ספריית מוזיקה בנפח 10 GB מ-Windows 11 ל-iPhone לניגון לא מקוון?" closed="true" %}}
 
 יש לך מספר אפשרויות אמינות להעביר את ספריית המוזיקה ממחשב Windows 11 שלך ל-iPhone ולהשתמש בה במצב לא מקוון באפליקציה. בחר את השיטה המתאימה לך ביותר:
 
@@ -253,6 +253,6 @@ WD MyCloud EX2 Ultra משתמש בגישה מוגבלת לאפליקציות.<br
 
 ⚠️ בעת העברת ספריות גדולות (10 GB ומעלה), העברת USB קווית היא בדרך כלל האפשרות המהירה והיציבה ביותר.
 
-{{% /details %}}
+{{% /ls-details %}}
 
 </div>

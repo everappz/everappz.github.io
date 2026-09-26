@@ -18,7 +18,7 @@ readingTime: 16
 Ecranul Setări este centrul de control al Evermusic. De aici puteți face upgrade la Premium, configura playerul audio, gestiona biblioteca de muzică, configura managerul de fișiere, personaliza interfața, activa widgeturile și CarPlay, face backup pentru date și accesa ajutor și informații legale. Secțiunile sunt grupate sub anteturi: **Achiziții și actualizări**, preferințe aplicație, **Ajutor** și **Legal și confidențialitate**.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Ecranul Setări Evermusic" image="/docs/guide/evermusic/evermusic-guide-settings/img/settings-main-screen.webp" >}}
+  {{< ls-card title="" subtitle="Ecranul Setări Evermusic" image="/docs/guide/evermusic/evermusic-guide-settings/img/settings-main-screen.webp" >}}
 {{< /cards >}}
 
 ## Achiziții și Actualizări

@@ -20,7 +20,7 @@ Dans la section Listes de lecture, vous trouverez des outils pratiques pour gér
 Les listes de lecture dans Flacbox peuvent contenir un mélange de pistes cloud en ligne, de fichiers téléchargés hors ligne et de fichiers locaux de votre appareil — tout dans une seule liste de lecture — et se lire de manière transparente ensemble.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Écran principal des listes de lecture Flacbox" image="/docs/guide/flacbox/img/playlists-main.webp" >}}
+  {{< ls-card title="" subtitle="Écran principal des listes de lecture Flacbox" image="/docs/guide/flacbox/img/playlists-main.webp" >}}
 {{< /cards >}}
 
 ## Créer une liste de lecture
@@ -63,7 +63,7 @@ Lorsque vous ouvrez une liste de lecture, l'écran de détail apparaît. Vous tr
 - **Mode hors ligne** — télécharger toutes les pistes de cette liste de lecture dans les fichiers locaux. Tous les nouveaux éléments ajoutés à la liste de lecture sont également téléchargés automatiquement.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Écran de détail d'une liste de lecture Flacbox" image="/docs/guide/flacbox/img/playlist-details-screen.webp" >}}
+  {{< ls-card title="" subtitle="Écran de détail d'une liste de lecture Flacbox" image="/docs/guide/flacbox/img/playlist-details-screen.webp" >}}
 {{< /cards >}}
 
 ## Plus d'actions pour une liste de lecture dans l'écran des listes de lecture
@@ -82,7 +82,7 @@ Vous pouvez accéder aux actions d'une liste de lecture en appuyant sur le bouto
 - **Supprimer la liste de lecture** — supprimer la liste de lecture de la bibliothèque musicale. **Cette action est irréversible.**
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox — Plus d'actions pour une liste de lecture dans l'écran principal des listes de lecture" image="/docs/guide/flacbox/img/more-actions-for-playlist-in-playlists-main-screen.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox — Plus d'actions pour une liste de lecture dans l'écran principal des listes de lecture" image="/docs/guide/flacbox/img/more-actions-for-playlist-in-playlists-main-screen.webp" >}}
 {{< /cards >}}
 
 ## Plus d'actions pour une liste de lecture dans l'écran de détail
@@ -110,7 +110,7 @@ Pour modifier l'ordre des chansons dans une liste de lecture, appuyez sur le bou
 Pour un flux de travail encore plus simple sur les longues listes de lecture, choisissez Plus d'actions → Réorganiser les chansons pour entrer en mode de réorganisation par glisser-déposer dédié.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox — Réorganiser les chansons dans une liste de lecture" image="/docs/guide/flacbox/img/playlist-details-rearange-songs.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox — Réorganiser les chansons dans une liste de lecture" image="/docs/guide/flacbox/img/playlist-details-rearange-songs.webp" >}}
 {{< /cards >}}
 
 ## Modifier l'image de couverture d'une liste de lecture
@@ -126,7 +126,7 @@ Ouvrez la liste de lecture et appuyez sur le bouton **«&nbsp;...&nbsp;»** dans
 Ouvrez la liste de lecture, appuyez sur le bouton **«&nbsp;...&nbsp;»** dans le coin supérieur droit et sélectionnez **Sélectionner** pour entrer en mode de sélection. Choisissez les pistes que vous souhaitez supprimer et appuyez sur **Supprimer de la liste de lecture** en bas de l'écran. Confirmez en appuyant sur **Fait**.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox — Mode de sélection dans l'écran de détail d'une liste de lecture" image="/docs/guide/flacbox/img/selection-mode-playlist-details-screen.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox — Mode de sélection dans l'écran de détail d'une liste de lecture" image="/docs/guide/flacbox/img/selection-mode-playlist-details-screen.webp" >}}
 {{< /cards >}}
 
 ## Options de piste

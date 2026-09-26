@@ -12,7 +12,7 @@ authors:
     image: "/images/about/artem-meleshko-founder-everappz.webp"
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 ## Wix에서 블로그 게시물을 내보내는 이유
 
@@ -332,33 +332,33 @@ bash fetch_blog_posts.sh
 이 프로젝트는 오픈 소스입니다. 버그 보고, 기능 제안, 풀 리퀘스트를 환영합니다.
 
 {{< cards cols="1" >}}
-  {{< card link="https://github.com/everappz/wix-blog-export" title="GitHub 프로젝트" icon="github" tag="open source" >}}
+  {{< ls-card link="https://github.com/everappz/wix-blog-export" title="GitHub 프로젝트" icon="github" tag="open source" >}}
 {{< /cards >}}
 
 ---
 
 ## 자주 묻는 질문
 
-{{% details title="왜 Wix 블로그 게시물을 스크래핑하는 데 `requests`를 사용할 수 없나요?" closed="true" %}}
+{{% ls-details title="왜 Wix 블로그 게시물을 스크래핑하는 데 `requests`를 사용할 수 없나요?" closed="true" %}}
 Wix는 JavaScript로 콘텐츠를 동적으로 렌더링합니다. 표준 HTTP 요청은 빈 페이지 셸을 반환합니다. Selenium은 헤드리스 브라우저를 실행하여 완전히 렌더링된 HTML을 가져옵니다.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="어떤 Wix 블로그에서도 작동하나요?" closed="true" %}}
+{{% ls-details title="어떤 Wix 블로그에서도 작동하나요?" closed="true" %}}
 네. 스크래퍼는 블로그 사이트맵 XML을 읽고 각 URL을 처리합니다. `parse_blog_sitemap.py`의 `SITEMAP_URL` 변수를 사이트의 사이트맵으로 업데이트하기만 하면 됩니다.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="어떤 OpenAI 모델을 사용하나요?" closed="true" %}}
+{{% ls-details title="어떤 OpenAI 모델을 사용하나요?" closed="true" %}}
 스크립트는 기본적으로 GPT-4o를 사용합니다. `generate_md.py`의 `API_MODEL` 변수를 변경하여 다른 모델을 사용할 수 있습니다.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Wix에서 Hugo로 마이그레이션하는 데 사용할 수 있나요?" closed="true" %}}
+{{% ls-details title="Wix에서 Hugo로 마이그레이션하는 데 사용할 수 있나요?" closed="true" %}}
 네. 출력물은 로컬 이미지 경로가 있는 표준 Markdown으로, Hugo, Jekyll, Astro 및 기타 정적 사이트 생성기에서 바로 작동합니다. 마이그레이션을 완료하려면 생성된 `_index.md` 파일에 front matter를 추가하세요.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="OpenAI API 비용은 얼마인가요?" closed="true" %}}
+{{% ls-details title="OpenAI API 비용은 얼마인가요?" closed="true" %}}
 비용은 블로그 게시물의 수와 길이에 따라 다릅니다. 중간 길이의 게시물 50개가 있는 일반적인 블로그는 GPT-4o로 몇 달러의 API 사용료가 듭니다.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="이 도구는 오픈 소스인가요?" closed="true" %}}
+{{% ls-details title="이 도구는 오픈 소스인가요?" closed="true" %}}
 네. 전체 소스 코드는 오픈 소스 라이선스로 [GitHub](https://github.com/everappz/wix-blog-export)에서 이용할 수 있습니다.
-{{% /details %}}
+{{% /ls-details %}}

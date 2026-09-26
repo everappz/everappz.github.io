@@ -7,7 +7,7 @@ keywords: ["iPhone FTP 伺服器", "iPad FTP 伺服器", "如何在 iPhone 設�
 readingTime: 9
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 FTP 是檔案傳輸界的老可靠。它已經存在了數十年，而這正是它如此好用的原因：幾乎任何能和伺服器溝通的東西都懂它。相機、智慧電視、路由器、網路磁碟、自動化工具和每一個桌面 FTP App 都會說 FTP。有了 [Everdisk](/products/everdisk)，你可以在 iPhone 或 iPad 上執行一個 FTP 伺服器，讓手機成為那些裝置和 App 可以連上並移動檔案的地方。
 
@@ -118,44 +118,44 @@ iOS 的「檔案」App 不含 FTP 用戶端，所以在第二台裝置上用以�
 
 ## 常見問題
 
-{{% details title="我 iPhone 的 FTP 位址和連接埠是什麼？" closed="true" %}}
+{{% ls-details title="我 iPhone 的 FTP 位址和連接埠是什麼？" closed="true" %}}
 在你開始分享後，Everdisk 會在「共享」畫面上顯示位址。它看起來像 ftp://192.168.1.20:2121。2121 是 Everdisk 用於 FTP 的連接埠，第一部分是你 iPhone 在 Wi-Fi 上的位址，所以你的會不一樣。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="我要怎麼把 FileZilla 或 Cyberduck 連接到我的 iPhone？" closed="true" %}}
+{{% ls-details title="我要怎麼把 FileZilla 或 Cyberduck 連接到我的 iPhone？" closed="true" %}}
 打開 App 並建立一個新連線。把 Host 設為你 iPhone 的 Wi-Fi 位址，Port 設為 2121。輸入你的「登入名稱」和「密碼」，或如果你在 Everdisk 裡沒有設定就選擇 Anonymous。連接後，當「檔案編輯」開啟時你就能雙向拖放檔案。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="我可以從 Windows 連上我 iPhone 的 FTP 嗎？" closed="true" %}}
+{{% ls-details title="我可以從 Windows 連上我 iPhone 的 FTP 嗎？" closed="true" %}}
 可以。打開檔案總管，點一下位址列，輸入 Everdisk 裡的 FTP 位址（例如 ftp://192.168.1.20:2121），然後按 Enter。如果你有設定就輸入你的登入資訊，或以訪客身分繼續。若要上傳並有更多掌控，請改用像 FileZilla 這樣的 FTP App。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="我需要 FTP 的登入嗎？" closed="true" %}}
+{{% ls-details title="我需要 FTP 的登入嗎？" closed="true" %}}
 不需要，登入是選用的。在「設定」、「共享」、「存取權」裡把「登入名稱」和「密碼」留空，然後以 Anonymous 連接，大多數 FTP 用戶端都提供這個選項。如果你想要連線先登入，就設定一組登入資訊。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="為什麼我在 FTP 上只能下載而不能上傳？" closed="true" %}}
+{{% ls-details title="為什麼我在 FTP 上只能下載而不能上傳？" closed="true" %}}
 有兩個常見原因。首先，「設定」、「共享」、「存取權」裡的「檔案編輯」開關必須開啟，才能允許上傳、重新命名和刪除。其次，Mac Finder 是以唯讀方式打開 FTP，所以當你想上傳時，請用像 FileZilla 或 Cyberduck 這樣的 FTP App。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="我可以在兩支 iPhone 之間用 FTP 嗎？" closed="true" %}}
+{{% ls-details title="我可以在兩支 iPhone 之間用 FTP 嗎？" closed="true" %}}
 可以。在第一支 iPhone 上開始 FTP 伺服器。在第二支上，打開 Everdisk，前往「裝置」分頁，點一下「新增連線」，選擇「FTP」，然後輸入第一支手機上顯示的位址。專用的 iOS FTP App 也可以，因為 iOS 的「檔案」App 不含 FTP 用戶端。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="FTP 安全嗎？" closed="true" %}}
+{{% ls-details title="FTP 安全嗎？" closed="true" %}}
 純 FTP 不會加密它的流量，所以把它當成給你信任的網路（例如你家的 Wi-Fi）用的工具。在你無法掌控的網路上，改用開啟「要求 SMB 加密」的 SMB 伺服器，它會保護每一次傳輸。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="哪些裝置可以透過 FTP 連接？" closed="true" %}}
+{{% ls-details title="哪些裝置可以透過 FTP 連接？" closed="true" %}}
 幾乎任何有 FTP 用戶端的東西都可以。這包括 Mac、Windows 和 Linux 電腦、像 FileZilla 和 Cyberduck 這樣的 FTP App、Android 檔案管理程式，以及相機、智慧電視、路由器、NAS 機盒和自動化工具等硬體。那種廣泛的觸及範圍正是選擇 FTP 的主要原因。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="我的 FTP 連線為什麼中斷了？" closed="true" %}}
+{{% ls-details title="我的 FTP 連線為什麼中斷了？" closed="true" %}}
 你的 iPhone 是伺服器，而 iOS 會暫停在背景待太久的 App。裝置連著的時候，請讓 Everdisk 保持開在畫面上，並在長時間傳輸時接上電源。也要確認兩台裝置仍在同一個 Wi-Fi 上。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Everdisk 是免費的嗎？" closed="true" %}}
+{{% ls-details title="Everdisk 是免費的嗎？" closed="true" %}}
 是的，Everdisk 免費下載，而且內含 FTP 伺服器。選購的一次性 Premium 購買會加入一些額外功能，例如自訂連接埠以及相片和影片轉換。你不用付費就能設定 FTP 並傳輸檔案。
-{{% /details %}}
+{{% /ls-details %}}
 
 準備好試試看了嗎？[從 App Store 下載 Everdisk](https://apps.apple.com/app/apple-store/id6751851132?pt=95781850&ct=everappzcom&mt=8)，幾分鐘內就能連上你的第一個 FTP 用戶端。有問題或建議嗎？寄信給我們：**support@everappz.com**。

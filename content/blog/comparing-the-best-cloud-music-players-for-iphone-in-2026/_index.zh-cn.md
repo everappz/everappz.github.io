@@ -12,7 +12,7 @@ authors:
     image: "/images/about/artem-meleshko-founder-everappz.webp"
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 ## iPhone 最佳云端音乐播放器是哪款？
 
@@ -91,22 +91,22 @@ Deezer 是拥有数千万首曲目的全球音乐流媒体服务，并有一项�
 
 ## 常见问题
 
-{{% details title="我可以在 iPhone 上不转换就播放 FLAC 文件吗？" closed="true" %}}
+{{% ls-details title="我可以在 iPhone 上不转换就播放 FLAC 文件吗？" closed="true" %}}
 是的。Evermusic 在 iPhone 上原生播放 FLAC、DSD、WAV、ALAC 和其他无损格式。无需文件转换。只需连接云存储账户，直接流媒体播放或下载您的 FLAC 文件即可。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="哪款云端音乐播放器支持 Dropbox 和 Google Drive？" closed="true" %}}
+{{% ls-details title="哪款云端音乐播放器支持 Dropbox 和 Google Drive？" closed="true" %}}
 Evermusic 支持 Dropbox、Google Drive、OneDrive、Box、MEGA、pCloud、WebDAV、SMB 等——总共超过 12 种云服务。Spotify 和 Apple Music 等大多数主流流媒体应用不连接第三方云存储。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="使用云端音乐播放器需要订阅吗？" closed="true" %}}
+{{% ls-details title="使用云端音乐播放器需要订阅吗？" closed="true" %}}
 取决于应用。Spotify、Apple Music 和 Deezer 需要按月订阅。Evermusic 提供免费层和一次性 Premium 购买，无循环费用。您使用自己的云存储来托管音乐文件。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="iPhone 上最适合离线收听的音乐播放器是什么？" closed="true" %}}
+{{% ls-details title="iPhone 上最适合离线收听的音乐播放器是什么？" closed="true" %}}
 所有主流播放器都支持离线下载，但方式不同。Spotify 和 Apple Music 让您从其目录下载曲目。Evermusic 让您从云存储下载自有文件供离线播放——非常适合飞行、通勤或无网络区域。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="我可以将云端音乐播放器与 NAS 或家庭服务器配合使用吗？" closed="true" %}}
+{{% ls-details title="我可以将云端音乐播放器与 NAS 或家庭服务器配合使用吗？" closed="true" %}}
 是的。Evermusic 支持 WebDAV 和 SMB 协议，可连接 Synology、QNAP 和 Western Digital 的大多数 NAS 设备。这让您的 iPhone 成为整个家庭音乐库的远程播放器。
-{{% /details %}}
+{{% /ls-details %}}

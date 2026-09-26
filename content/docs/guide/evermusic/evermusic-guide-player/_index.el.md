@@ -17,7 +17,7 @@ readingTime: 11
 ## Πρόσβαση στον Player
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Οθόνη Ηχητικού Player Evermusic" image="/docs/guide/evermusic/evermusic-guide-player/img/player-main.webp" >}}
+  {{< ls-card title="" subtitle="Οθόνη Ηχητικού Player Evermusic" image="/docs/guide/evermusic/evermusic-guide-player/img/player-main.webp" >}}
 {{< /cards >}}
 
 Μπορείτε να αποκτήσετε πρόσβαση στον player πλήρους οθόνης από την προβολή mini player. Στο iPhone σας, θα βρείτε τον mini player πάνω από τη γραμμή καρτελών στην κύρια οθόνη. Στο iPad ή Mac σας, είναι προσβάσιμος από το αριστερό μενού. Για να αποκρύψετε τον mini player, πατήστε στο εικονίδιό του και σαρώστε προς τα κάτω. Για να αποκρύψετε πλήρως τον player πλήρους οθόνης, απλά πατήστε το κουμπί κλεισίματος στην κάτω δεξιά γωνία.
@@ -44,7 +44,7 @@ readingTime: 11
 ## Έλεγχος Έντασης Ήχου
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Έλεγχος Έντασης Ήχου με AirPlay και Google Cast" image="/docs/guide/evermusic/evermusic-guide-player/img/player-volume-control.webp" >}}
+  {{< ls-card title="" subtitle="Έλεγχος Έντασης Ήχου με AirPlay και Google Cast" image="/docs/guide/evermusic/evermusic-guide-player/img/player-volume-control.webp" >}}
 {{< /cards >}}
 
 Βρείτε τον ρυθμιστικό έντασης στην οθόνη Ρυθμίσεων Ήχου πατώντας το εικονίδιο ήχου κάτω από τους ελέγχους αναπαραγωγής. Μπορείτε να αλλάξετε την ένταση χρησιμοποιώντας αυτόν τον ρυθμιστικό ή τα τυπικά κουμπιά έντασης στη συσκευή σας. Επιπλέον, θα βρείτε μερικά εύχρηστα κουμπιά ροής:
@@ -63,7 +63,7 @@ readingTime: 11
 ## Ηχητικός Equalizer
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="10-ζωνικός Ηχητικός Equalizer" image="/docs/guide/evermusic/evermusic-guide-player/img/player-equalizer.webp" >}}
+  {{< ls-card title="" subtitle="10-ζωνικός Ηχητικός Equalizer" image="/docs/guide/evermusic/evermusic-guide-player/img/player-equalizer.webp" >}}
 {{< /cards >}}
 
 Το Evermusic διαθέτει 10-ζωνικό equalizer, με προεπιλογές στυλ iPod, προενισχυτή και χειροκίνητες ρυθμίσεις equalizer. Για να ενεργοποιήσετε τον equalizer, απλά πατήστε το κουμπί "Equalizer" στην κάτω γραμμή εργαλείων και ενεργοποιήστε τον διακόπτη στην επάνω δεξιά γωνία. Μπορείτε να επιλέξετε από μια σειρά προκαθορισμένων προεπιλογών equalizer όπως "Acoustic", "Bass Booster", "Classical" και άλλα. Αν είστε λάτρης του ήχου, θα εκτιμήσετε τη δυνατότητα λεπτής ρύθμισης κάθε ζώνης συχνοτήτων χρησιμοποιώντας ρυθμιστικούς. Δημιουργήστε και αποθηκεύστε τις δικές σας προεπιλογές ηχητικού equalizer. Αν ένα κομμάτι δεν είναι αρκετά δυνατό, μπορείτε επίσης να ρυθμίσετε την ενίσχυση προενισχυτή. Έχουμε πιο αναλυτικές οδηγίες σχετικά με τη χρήση του equalizer [εδώ](/docs/howto/how-to-use-the-audio-equalizer-on-your-iphone-ipad-mac-with-evermusic-and-flacbox).
@@ -71,7 +71,7 @@ readingTime: 11
 ## Γραμμή Εργαλείων Λειτουργίας Player
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Επάνω γραμμή εργαλείων Player με Αναζήτηση και Ταχύτητα" image="/docs/guide/evermusic/evermusic-guide-player/img/player-top-toolbar.webp" >}}
+  {{< ls-card title="" subtitle="Επάνω γραμμή εργαλείων Player με Αναζήτηση και Ταχύτητα" image="/docs/guide/evermusic/evermusic-guide-player/img/player-top-toolbar.webp" >}}
 {{< /cards >}}
 
 Για ορισμένα στυλ οθόνης player θα βρείτε γραμμή εργαλείων λειτουργίας player στο επάνω μέρος της οθόνης player, ακριβώς κάτω από τη γραμμή πλοήγησης. Αυτή η εύχρηστη γραμμή εργαλείων στεγάζει τρία κουμπιά:
@@ -82,7 +82,7 @@ readingTime: 11
 ## Σελιδοδείκτες Ήχου
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Σελιδοδείκτες Ήχου για Ηχητικά Βιβλία και Διαλέξεις" image="/docs/guide/evermusic/evermusic-guide-player/img/player-bookmarks.webp" >}}
+  {{< ls-card title="" subtitle="Σελιδοδείκτες Ήχου για Ηχητικά Βιβλία και Διαλέξεις" image="/docs/guide/evermusic/evermusic-guide-player/img/player-bookmarks.webp" >}}
 {{< /cards >}}
 
 Εδώ μπορείτε να δημιουργήσετε πολλαπλούς σελιδοδείκτες για κομμάτια στη βιβλιοθήκη μουσικής σας. Έχουμε πλήρη οδηγία σχετικά με τη χρήση σελιδοδεικτών [εδώ](/docs/howto/how-to-listen-to-audiobooks-on-iphone-ipad-mac-using-evermusic).
@@ -90,7 +90,7 @@ readingTime: 11
 ## Ουρά Αναπαραγωγής
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Ουρά Αναπαραγωγής" image="/docs/guide/evermusic/evermusic-guide-player/img/player-queue.webp" >}}
+  {{< ls-card title="" subtitle="Ουρά Αναπαραγωγής" image="/docs/guide/evermusic/evermusic-guide-player/img/player-queue.webp" >}}
 {{< /cards >}}
 
 Για πρόσβαση στην ουρά αναπαραγωγής σας, απλά πατήστε το κουμπί ουράς αναπαραγωγής στην κάτω γραμμή εργαλείων. Για μετακίνηση τραγουδιού στην ουρά, χρησιμοποιήστε τον δείκτη αναδιάταξης κοντά στον τίτλο.
@@ -98,7 +98,7 @@ readingTime: 11
 ## Σχόλια / Στίχοι
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Σχόλια, Ενσωματωμένοι Στίχοι και Αρχεία LRC" image="/docs/guide/evermusic/evermusic-guide-player/img/player-lyrics.webp" >}}
+  {{< ls-card title="" subtitle="Σχόλια, Ενσωματωμένοι Στίχοι και Αρχεία LRC" image="/docs/guide/evermusic/evermusic-guide-player/img/player-lyrics.webp" >}}
 {{< /cards >}}
 
 Για προβολή σχολίων κομματιών και ενσωματωμένων στίχων, καθώς και αρχείων LRC, ακολουθήστε τα παρακάτω βήματα:
@@ -114,7 +114,7 @@ readingTime: 11
 ## Μενού Επιλογών
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Μενού Επιλογών για Στοιχείο Ουράς" image="/docs/guide/evermusic/evermusic-guide-player/img/player-queue-item-options-menu.webp" >}}
+  {{< ls-card title="" subtitle="Μενού Επιλογών για Στοιχείο Ουράς" image="/docs/guide/evermusic/evermusic-guide-player/img/player-queue-item-options-menu.webp" >}}
 {{< /cards >}}
 
 Κάθε τραγούδι στην ουρά audio player σας έχει μενού με περισσότερες ενέργειες, στο οποίο μπορείτε να αποκτήσετε πρόσβαση πατώντας το κουμπί τριών τελειών κοντά στον τίτλο τραγουδιού. Οι διαθέσιμες ενέργειες είναι:
@@ -153,7 +153,7 @@ readingTime: 11
 ## Πρόσφατα και Αγαπημένα
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Πρόσφατα Αναπαραγόμενα Τραγούδια από τον Player" image="/docs/guide/evermusic/evermusic-guide-player/img/player-recents.webp" >}}
+  {{< ls-card title="" subtitle="Πρόσφατα Αναπαραγόμενα Τραγούδια από τον Player" image="/docs/guide/evermusic/evermusic-guide-player/img/player-recents.webp" >}}
 {{< /cards >}}
 
 Στην οθόνη player, μπορείτε να αποκτήσετε πρόσβαση στις ενότητες "Πρόσφατα" και "Αγαπημένα" πατώντας το κουμπί Περισσότερες Ενέργειες '…' και επιλέγοντας το αντίστοιχο στοιχείο μενού. Και στις δύο ενότητες μπορείτε να αναζητάτε τραγούδια, να αναπαράγετε όλα τα κομμάτια, να αναπαράγετε όλα τα κομμάτια τυχαία, να εξάγετε τη λίστα και να διαγράφετε τη λίστα. Έχουμε λεπτομερείς οδηγίες για εξαγωγή λιστών τραγουδιών [εδώ](/docs/howto/export-tracks-collection-from-evermusic-flacbox-to-m3u-csv-txt/).
@@ -161,7 +161,7 @@ readingTime: 11
 ## Παράθυρο Mini Player (Μόνο για Mac)
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Παράθυρο Mac Mini Player" image="/docs/guide/evermusic/evermusic-guide-player/img/player-mini-mac.webp" >}}
+  {{< ls-card title="" subtitle="Παράθυρο Mac Mini Player" image="/docs/guide/evermusic/evermusic-guide-player/img/player-mini-mac.webp" >}}
 {{< /cards >}}
 
 Για χρήστες Mac, υπάρχει εύχρηστο παράθυρο mini player. Για πρόσβαση σε αυτό, απλά μετακινήστε τον κέρσορά σας στην κάτω δεξιά γωνία του παραθύρου εφαρμογής και αλλάξτε το μέγεθός του στο μικρότερο δυνατό. Πατήστε στη συνέχεια το κουμπί σύμπτυξης (που απεικονίζεται ως βέλος προς τα κάτω) για να ενεργοποιήσετε το παράθυρο mini player. Αν θέλετε να το διατηρείτε πάνω από άλλα παράθυρα, μεταβείτε στην επάνω γραμμή μενού του Mac σας, επιλέξτε "Παράθυρο" και επιλέξτε "Εμφάνιση Παραθύρου Πάντα Στην Κορυφή". Αυτή η λειτουργία είναι ιδιαίτερα βολική όταν ακούτε ηχητικές διαλέξεις και δεν θέλετε διακοπές.
@@ -169,7 +169,7 @@ readingTime: 11
 ## Συντομεύσεις Πληκτρολογίου (Μόνο για Mac)
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Μενού Αναπαραγωγής Γραμμής Κατάστασης Mac με Συντομεύσεις Πληκτρολογίου" image="/docs/guide/evermusic/evermusic-guide-player/img/player-mac-shortcuts.webp" >}}
+  {{< ls-card title="" subtitle="Μενού Αναπαραγωγής Γραμμής Κατάστασης Mac με Συντομεύσεις Πληκτρολογίου" image="/docs/guide/evermusic/evermusic-guide-player/img/player-mac-shortcuts.webp" >}}
 {{< /cards >}}
 
 Για χρήστες Mac, υπάρχει διαθέσιμο μενού αναπαραγωγής συστήματος στη γραμμή κατάστασης με συντομεύσεις πληκτρολογίου. Για παράδειγμα, για Αναπαραγωγή/Παύση, απλά πατήστε το πλήκτρο διαστήματος στο πληκτρολόγιό σας. Διατίθενται συντομεύσεις για Διακοπή, Επόμενο Τραγούδι, Προηγούμενο Τραγούδι, Παράλειψη Χρόνου, Επανάληψη, Τυχαία Σειρά και Ταχύτητα Αναπαραγωγής όπως φαίνεται στο στιγμιότυπο οθόνης.
@@ -177,7 +177,7 @@ readingTime: 11
 ## Ρυθμίσεις Ηχητικού Player
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Ρυθμίσεις Ηχητικού Player" image="/docs/guide/evermusic/evermusic-guide-player/img/player-settings.webp" >}}
+  {{< ls-card title="" subtitle="Ρυθμίσεις Ηχητικού Player" image="/docs/guide/evermusic/evermusic-guide-player/img/player-settings.webp" >}}
 {{< /cards >}}
 
 Για πρόσβαση στις ρυθμίσεις audio player, πατήστε το κουμπί Περισσότερα στην οθόνη audio player και επιλέξτε "Ρυθμίσεις" από το αναπτυσσόμενο μενού. Εδώ θα βρείτε διάφορες ενότητες ομαδοποιημένες κατά λειτουργικότητα:

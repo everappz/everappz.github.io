@@ -15,10 +15,6 @@ keywords: [
 tags: [
   "đăng ký", "bản tin", "cập nhật ứng dụng", "everappz","ưu đãi ứng dụng", "truy cập sớm"
 ]
-footer:
-  enable: false
-navbar:
-  enable: false
 hidden: true
 layout: hextra-home
 breadcrumbs: false
@@ -29,7 +25,7 @@ sidebar:
 ---
 
 <div class="lottie-wrapper hx:w-full hx:text-center">
-  {{< lottie src="/images/juicy-json/juicy-envelope.json" width="100%" >}}
+  {{< ls-lottie src="/images/juicy-json/juicy-envelope.json" width="100%" >}}
 </div>
 
 <style>
@@ -47,19 +43,19 @@ sidebar:
 
 <div class="hx:mt-6"></div>
 
-{{< hextra/section-headline >}}
+{{< ls-section-headline >}}
 Đăng ký
-{{< /hextra/section-headline >}}
+{{< /ls-section-headline >}}
 
 <div class="hx:mt-6"></div>
 
 <div class="hx:w-full hx:text-center">
 
-{{< hextra/hero-paragraph >}}
+{{< ls-hero-paragraph >}}
 Tham gia cùng những người nhận tin tức mới nhất và ưu đãi độc quyền từ đội ngũ Everappz.  
 Đừng quên theo dõi chúng tôi trên mạng xã hội để nhận tin tức và cập nhật mới nhất về ứng dụng.  
 Bằng việc đăng ký, bạn đồng ý với [Chính sách bảo mật](/legal/privacy-policy) của chúng tôi và chấp nhận [Điều khoản và Điều kiện](/legal/terms-and-conditions/).
-{{< /hextra/hero-paragraph >}}
+{{< /ls-hero-paragraph >}}
 
 </div>
 
@@ -67,7 +63,7 @@ Bằng việc đăng ký, bạn đồng ý với [Chính sách bảo mật](/leg
 
 <div class="hx:w-full hx:text-center">
 
-{{< rawhtml >}}
+{{< ls-rawhtml >}}
 
 <form action="https://everappz.us10.list-manage.com/subscribe/post?u=f758cdf6a38df2a75513ac5f1&amp;id=2373740226" 
 method="post" 
@@ -107,14 +103,14 @@ style="position: absolute; width: 0; height: 0; overflow: hidden;" aria-hidden="
 class="not-prose hx:font-bold hx:cursor-pointer hx:px-6 hx:py-3 hx:rounded-full hx:text-center hx:text-white hx:inline-flex hx:items-center hx:gap-2 hx:bg-primary-600 hx:hover:bg-primary-700 hx:focus:outline-hidden hx:focus:ring-4 hx:focus:ring-primary-300 hx:dark:bg-primary-600 hx:dark:hover:bg-primary-700 hx:dark:focus:ring-primary-800 hx:transition-all hx:ease-in hx:duration-200" 
 style="outline: none; box-shadow: none;">Đăng ký</button>
 
-{{< /rawhtml >}}
+{{< /ls-rawhtml >}}
 
 </div>
 
 <div class="hx:mt-6"></div>
 
 <div class="hx:w-full hx:text-center">
-{{< social >}}
+{{< ls-social >}}
 </div>
 
 <div class="hx:mt-6"></div>

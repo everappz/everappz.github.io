@@ -7,7 +7,7 @@ keywords: ["optag video mens du afspiller musik på iPhone", "hvordan afspiller 
 readingTime: 1
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **Kort sagt:** Indstil Evermusic's lydoutput til "Blandet tilstand", start afspilning af et nummer, og åbn derefter din Kamera-app og optag. Musikken fortsætter med at spille i baggrunden. Fungerer med TikTok, Instagram og enhver kamera-app.
@@ -45,22 +45,22 @@ Dette trick fungerer på alle iPhones.
 
 ## Ofte stillede spørgsmål
 
-{{% details title="Bliver baggrundsmusikken optaget i videoen?" closed="true" %}}
+{{% ls-details title="Bliver baggrundsmusikken optaget i videoen?" closed="true" %}}
 Musikken afspilles gennem iPhone-højttaleren, så mikrofonen vil opfange den sammen med andre omgivende lyde. For renere lyd kan du overveje at bruge en ekstern højttaler placeret tæt på mikrofonen.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Fungerer dette med TikTok og Instagram?" closed="true" %}}
+{{% ls-details title="Fungerer dette med TikTok og Instagram?" closed="true" %}}
 Ja. Når Evermusic er indstillet til Blandet tilstand og et nummer afspilles, fortsætter musikken, når du åbner TikTok, Instagram eller enhver anden kamera- eller optageapp.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Hvad er Blandet tilstand i Evermusic?" closed="true" %}}
+{{% ls-details title="Hvad er Blandet tilstand i Evermusic?" closed="true" %}}
 Blandet tilstand er en lydoutputindstilling, der giver Evermusic mulighed for at dele lydsessionen med andre apps. Dette forhindrer, at musikken stopper, når en anden app tilgår mikrofonen eller kameraet.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Kan jeg bruge Flacbox i stedet for Evermusic til dette?" closed="true" %}}
+{{% ls-details title="Kan jeg bruge Flacbox i stedet for Evermusic til dette?" closed="true" %}}
 Ja. Flacbox understøtter også blandet lydoutputtilstand. Trinene er de samme: aktivér Blandet tilstand i Indstillinger, start afspilning og åbn din kamera-app.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Kan jeg spille et spil, mens musik fra Evermusic afspilles i baggrunden?" closed="true" %}}
+{{% ls-details title="Kan jeg spille et spil, mens musik fra Evermusic afspilles i baggrunden?" closed="true" %}}
 Ja. Med Blandet tilstand aktiveret fortsætter musik fra Evermusic med at spille, når du åbner et spil eller en app. Både spillets lyd og din musik afspilles samtidig.
-{{% /details %}}
+{{% /ls-details %}}

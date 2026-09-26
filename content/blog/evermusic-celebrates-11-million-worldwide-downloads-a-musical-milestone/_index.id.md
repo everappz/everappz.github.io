@@ -12,7 +12,7 @@ authors:
     image: "/images/about/artem-meleshko-founder-everappz.webp"
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 **Ringkasan:** Evermusic telah melampaui 11 juta unduhan di seluruh dunia. Fitur utama termasuk equalizer 10-band, pemutaran offline, streaming iCloud Drive, dukungan 10+ layanan cloud, sinkronisasi lintas perangkat, dan editor tag ID3 bawaan.
 
@@ -70,22 +70,22 @@ Evermusic dibuat untuk siapa saja yang menyimpan musik di cloud atau penyimpanan
 
 ## FAQ
 
-{{% details title="Format audio apa yang didukung Evermusic?" closed="true" %}}
+{{% ls-details title="Format audio apa yang didukung Evermusic?" closed="true" %}}
 Evermusic memutar MP3, FLAC, WAV, AAC, M4A, AIFF, OGG, WMA, dan format audio populer lainnya.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Bisakah saya menggunakan Evermusic tanpa koneksi internet?" closed="true" %}}
+{{% ls-details title="Bisakah saya menggunakan Evermusic tanpa koneksi internet?" closed="true" %}}
 Ya. Unduh trek dari penyimpanan cloud Anda untuk pemutaran offline. Setelah diunduh, internet tidak diperlukan.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Apakah Evermusic bekerja di Mac?" closed="true" %}}
+{{% ls-details title="Apakah Evermusic bekerja di Mac?" closed="true" %}}
 Ya. Evermusic tersedia di iOS (iPhone/iPad) dan macOS, dengan sinkronisasi perpustakaan di semua perangkat.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Apakah Evermusic gratis diunduh?" closed="true" %}}
+{{% ls-details title="Apakah Evermusic gratis diunduh?" closed="true" %}}
 Ya. Evermusic gratis diunduh dengan fitur premium opsional yang tersedia melalui pembelian dalam aplikasi.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Bagaimana cara kerja streaming iCloud Drive di Evermusic?" closed="true" %}}
+{{% ls-details title="Bagaimana cara kerja streaming iCloud Drive di Evermusic?" closed="true" %}}
 Hubungkan akun iCloud Drive Anda di aplikasi, jelajahi file musik Anda, dan ketuk untuk memutar. Trek di-streaming langsung tanpa perlu mengunduh terlebih dahulu.
-{{% /details %}}
+{{% /ls-details %}}

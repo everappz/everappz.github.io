@@ -20,7 +20,7 @@ readingTime: 7
 Flacbox'taki çalma listeleri; çevrimiçi bulut parçaları, çevrimdışı indirilmiş dosyalar ve cihazınızdaki yerel dosyaların bir karışımını — hepsi tek bir çalma listesinde — içerebilir ve sorunsuz biçimde birlikte oynatılır.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox Çalma Listeleri Ana Ekranı" image="/docs/guide/flacbox/img/playlists-main.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox Çalma Listeleri Ana Ekranı" image="/docs/guide/flacbox/img/playlists-main.webp" >}}
 {{< /cards >}}
 
 ## Çalma Listesi Oluşturma
@@ -63,7 +63,7 @@ Bir çalma listesini açtığınızda Çalma Listesi Ayrıntı ekranı görünü
 - **Çevrimdışı Mod** — bu çalma listesindeki tüm parçaları yerel dosyalara indirir. Çalma listesine eklenen yeni öğeler de otomatik olarak indirilir.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox Çalma Listesi Ayrıntı Ekranı" image="/docs/guide/flacbox/img/playlist-details-screen.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox Çalma Listesi Ayrıntı Ekranı" image="/docs/guide/flacbox/img/playlist-details-screen.webp" >}}
 {{< /cards >}}
 
 ## Çalma Listeleri Ekranındaki Çalma Listesi İçin Daha Fazla Eylem
@@ -82,7 +82,7 @@ Bir çalma listesini açtığınızda Çalma Listesi Ayrıntı ekranı görünü
 - **Çalma Listesini Sil** — çalma listesini müzik kitaplığından siler. **Bu işlem geri alınamaz.**
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox Çalma Listeleri Ana Ekranında Çalma Listesi İçin Daha Fazla Eylem" image="/docs/guide/flacbox/img/more-actions-for-playlist-in-playlists-main-screen.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox Çalma Listeleri Ana Ekranında Çalma Listesi İçin Daha Fazla Eylem" image="/docs/guide/flacbox/img/more-actions-for-playlist-in-playlists-main-screen.webp" >}}
 {{< /cards >}}
 
 ## Çalma Listesi Ayrıntı Ekranındaki Çalma Listesi İçin Daha Fazla Eylem
@@ -110,7 +110,7 @@ Sağ üst köşedeki **"..."** düğmesine dokunarak çalma listesi eylemlerine 
 Uzun çalma listelerinde daha basit bir iş akışı için Daha Fazla Eylem → Şarkıları Yeniden Düzenle seçeneğini belirleyerek özel sürükle ve bırak yeniden sıralama moduna girin.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox Çalma Listesinde Şarkıları Yeniden Düzenleme" image="/docs/guide/flacbox/img/playlist-details-rearange-songs.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox Çalma Listesinde Şarkıları Yeniden Düzenleme" image="/docs/guide/flacbox/img/playlist-details-rearange-songs.webp" >}}
 {{< /cards >}}
 
 ## Çalma Listesi Kapak Resmini Değiştirme
@@ -126,7 +126,7 @@ Bir çalma listesinin kapak resmini değiştirmek için sağ üst köşedeki **"
 Çalma listesini açın, sağ üst köşedeki **"..."** düğmesine dokunun ve seçim moduna girmek için **Seç** seçeneğini belirleyin. Silmek istediğiniz parçaları seçin ve ekranın alt kısmındaki **Çalma Listesinden Sil** seçeneğine dokunun. **Tamamlandı** seçeneğine dokunarak onaylayın.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox Çalma Listesi Ayrıntı Ekranında Seçim Modu" image="/docs/guide/flacbox/img/selection-mode-playlist-details-screen.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox Çalma Listesi Ayrıntı Ekranında Seçim Modu" image="/docs/guide/flacbox/img/selection-mode-playlist-details-screen.webp" >}}
 {{< /cards >}}
 
 ## Parça Seçenekleri

@@ -7,7 +7,7 @@ tags: ["evermusic", "verbinden", "bluesound vault"]
 readingTime: 1
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **Zusammenfassung:** Verbinden Sie sich über SMB mit dem internen Speicher Ihres Bluesound VAULT mit Evermusic, Flacbox oder Evertag. Finden Sie die IP-Adresse des VAULT in der BluOS-App, geben Sie sie als SMB-Verbindung mit Gastzugang ein und beginnen Sie, Ihre Musikdateien abzuspielen oder zu verwalten.
@@ -58,18 +58,18 @@ Mit diesen einfachen Schritten können Sie mühelos auf die interne Festplatte I
 
 ## FAQ
 
-{{% details title="Benötige ich einen Benutzernamen und ein Passwort, um mich mit dem Bluesound VAULT zu verbinden?" closed="true" %}}
+{{% ls-details title="Benötige ich einen Benutzernamen und ein Passwort, um mich mit dem Bluesound VAULT zu verbinden?" closed="true" %}}
 Nein. Der Bluesound VAULT unterstützt Gastzugang (anonym) über SMB. Lassen Sie die Felder Benutzername und Passwort bei der Konfiguration der Verbindung leer.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Kann ich Musik-Tags auf dem Bluesound VAULT bearbeiten?" closed="true" %}}
+{{% ls-details title="Kann ich Musik-Tags auf dem Bluesound VAULT bearbeiten?" closed="true" %}}
 Ja. Mit Evertag können Sie Metadaten-Tags (Titel, Künstler, Album usw.) von Audiodateien bearbeiten, die direkt auf der internen Festplatte des VAULT gespeichert sind.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Welche Protokolle unterstützt der Bluesound VAULT?" closed="true" %}}
+{{% ls-details title="Welche Protokolle unterstützt der Bluesound VAULT?" closed="true" %}}
 Der Bluesound VAULT stellt seinen internen Speicher über SMB (Server Message Block) zur Verfügung. Evermusic, Flacbox und Evertag unterstützen alle SMB-Verbindungen, was die Verbindung unkompliziert macht.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Kann ich Musik vom VAULT streamen, ohne Dateien auf mein iPhone zu kopieren?" closed="true" %}}
+{{% ls-details title="Kann ich Musik vom VAULT streamen, ohne Dateien auf mein iPhone zu kopieren?" closed="true" %}}
 Ja. Sobald Sie über SMB verbunden sind, können Sie Audiodateien direkt vom internen Laufwerk des VAULT streamen, ohne sie auf Ihr Gerät zu kopieren.
-{{% /details %}}
+{{% /ls-details %}}

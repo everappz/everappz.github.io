@@ -9,7 +9,7 @@ aliases:
   - /post/how-to-play-music-from-usb-flash-drive-on-iphone-with-evermusic-and-ixpand/
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **TL;DR:** Evermusic lets you play music directly from a SanDisk iXpand Flash Drive on your iPhone or iPad. Plug in the drive, open Evermusic, and start listening -- no need to copy files to your device. Supports file management, playlists, equalizer, and AirPlay streaming.
@@ -71,22 +71,22 @@ With Evermusic and the SanDisk iXpand Flash Drive, you'll have the freedom to en
 
 ## FAQ
 
-{{% details title="What iXpand Flash Drive models does Evermusic support?" closed="true" %}}
+{{% ls-details title="What iXpand Flash Drive models does Evermusic support?" closed="true" %}}
 Evermusic supports SanDisk iXpand Flash Drives with protocols V1, V2, V3, V6, and V7. You can check compatibility in your iPhone's Settings under General > About > iXpand Flash Drive.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Can I play music from the USB drive without copying files to my iPhone?" closed="true" %}}
+{{% ls-details title="Can I play music from the USB drive without copying files to my iPhone?" closed="true" %}}
 Yes. Evermusic plays audio files directly from the iXpand Flash Drive. No need to copy anything to your device's internal storage.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="What audio formats does Evermusic support from USB drives?" closed="true" %}}
+{{% ls-details title="What audio formats does Evermusic support from USB drives?" closed="true" %}}
 Evermusic supports all major audio formats including MP3, FLAC, AAC, WAV, AIFF, OGG, and more. Any audio file stored on your iXpand drive can be played directly.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Can I stream music from the iXpand drive to AirPlay speakers?" closed="true" %}}
+{{% ls-details title="Can I stream music from the iXpand drive to AirPlay speakers?" closed="true" %}}
 Yes. While playing music from the USB drive, you can stream audio to AirPlay-compatible devices such as Sonos speakers, Apple TV, and Google Chromecast.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="What should I do if my iXpand drive is not recognized?" closed="true" %}}
+{{% ls-details title="What should I do if my iXpand drive is not recognized?" closed="true" %}}
 Make sure no other apps are using the drive. Try unplugging and reconnecting it. If your model is not supported, use an Apple Lightning to USB adapter to connect the drive as a standard USB device.
-{{% /details %}}
+{{% /ls-details %}}

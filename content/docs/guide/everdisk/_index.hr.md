@@ -28,19 +28,19 @@ Ovaj vodič objašnjava svaki dio aplikacije korak po korak. Odaberite odjeljak 
 
 
 {{< cards >}}
-  {{< card icon="play" title="Dijeljenje" subtitle="Dodirnite Start, odaberite što želite dijeliti i pokrenite svih pet poslužitelja odjednom. Upoznajte zaslon Dijeljenje od početka do kraja." link="/docs/guide/everdisk/everdisk-guide-sharing" >}}
+  {{< ls-card icon="play" title="Dijeljenje" subtitle="Dodirnite Start, odaberite što želite dijeliti i pokrenite svih pet poslužitelja odjednom. Upoznajte zaslon Dijeljenje od početka do kraja." link="/docs/guide/everdisk/everdisk-guide-sharing" >}}
 
-  {{< card icon="desktop-computer" title="Povežite svoje uređaje" subtitle="Kako se TV, Mac ili PC, web preglednik, drugi telefon ili USB kabel povezuju s vašim dijeljenim datotekama." link="/docs/guide/everdisk/everdisk-guide-connect" >}}
+  {{< ls-card icon="desktop-computer" title="Povežite svoje uređaje" subtitle="Kako se TV, Mac ili PC, web preglednik, drugi telefon ili USB kabel povezuju s vašim dijeljenim datotekama." link="/docs/guide/everdisk/everdisk-guide-connect" >}}
 
-  {{< card icon="server" title="Povezivanje s poslužiteljima" subtitle="Dosegnite druge DLNA, WebDAV, FTP, SFTP i SMB poslužitelje te NAS diskove na svojoj mreži za pregledavanje, strujanje i preuzimanje." link="/docs/guide/everdisk/everdisk-guide-devices" >}}
+  {{< ls-card icon="server" title="Povezivanje s poslužiteljima" subtitle="Dosegnite druge DLNA, WebDAV, FTP, SFTP i SMB poslužitelje te NAS diskove na svojoj mreži za pregledavanje, strujanje i preuzimanje." link="/docs/guide/everdisk/everdisk-guide-devices" >}}
 
-  {{< card icon="folder" title="Datoteke i dokumenti" subtitle="Pregledavajte, stvarajte mape, preimenujte, premještajte, kopirajte i brišite, pakirajte i raspakiravajte, povezujte vanjske mape i skenirajte u PDF." link="/docs/guide/everdisk/everdisk-guide-files" >}}
+  {{< ls-card icon="folder" title="Datoteke i dokumenti" subtitle="Pregledavajte, stvarajte mape, preimenujte, premještajte, kopirajte i brišite, pakirajte i raspakiravajte, povezujte vanjske mape i skenirajte u PDF." link="/docs/guide/everdisk/everdisk-guide-files" >}}
 
-  {{< card icon="music-note" title="Fotografije, glazba i video" subtitle="Podijelite cijelu biblioteku fotografija i glazbe, reproducirajte zvuk u mini reproduktoru i gledajte video preko cijelog zaslona." link="/docs/guide/everdisk/everdisk-guide-media" >}}
+  {{< ls-card icon="music-note" title="Fotografije, glazba i video" subtitle="Podijelite cijelu biblioteku fotografija i glazbe, reproducirajte zvuk u mini reproduktoru i gledajte video preko cijelog zaslona." link="/docs/guide/everdisk/everdisk-guide-media" >}}
 
-  {{< card icon="lock-closed" title="Pristup i privatnost" subtitle="Zaštitite dijeljenje prijavom i lozinkom, dopustite ili blokirajte uređivanje, blokirajte uređaje i sve zadržite lokalnim." link="/docs/guide/everdisk/everdisk-guide-access" >}}
+  {{< ls-card icon="lock-closed" title="Pristup i privatnost" subtitle="Zaštitite dijeljenje prijavom i lozinkom, dopustite ili blokirajte uređivanje, blokirajte uređaje i sve zadržite lokalnim." link="/docs/guide/everdisk/everdisk-guide-access" >}}
 
-  {{< card icon="adjustments" title="Postavke" subtitle="Objašnjenje svake postavke: profil uređaja, povezivanja, kvaliteta fotografija i videa, portovi, prijenosi i još mnogo toga." link="/docs/guide/everdisk/everdisk-guide-settings" >}}
+  {{< ls-card icon="adjustments" title="Postavke" subtitle="Objašnjenje svake postavke: profil uređaja, povezivanja, kvaliteta fotografija i videa, portovi, prijenosi i još mnogo toga." link="/docs/guide/everdisk/everdisk-guide-settings" >}}
 
-  {{< card icon="question-mark-circle" title="Česta pitanja" subtitle="Brzi odgovori na najčešća pitanja i stvarne situacije." link="/docs/faq/everdisk" >}}
+  {{< ls-card icon="question-mark-circle" title="Česta pitanja" subtitle="Brzi odgovori na najčešća pitanja i stvarne situacije." link="/docs/faq/everdisk" >}}
 {{< /cards >}}

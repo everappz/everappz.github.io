@@ -72,19 +72,19 @@ Deze gids helpt u het meeste uit Evermusic te halen op uw iPhone, iPad of Mac. L
 
 
 {{< cards >}}
-  {{< card icon="location-marker" title="Navigatie" subtitle="Leer hoe u door Evermusic navigeert via de tabbalk op iPhone of het linkermenu op iPad en Mac." link="/docs/guide/evermusic/evermusic-guide-navigation" >}}
+  {{< ls-card icon="location-marker" title="Navigatie" subtitle="Leer hoe u door Evermusic navigeert via de tabbalk op iPhone of het linkermenu op iPad en Mac." link="/docs/guide/evermusic/evermusic-guide-navigation" >}}
 
-  {{< card icon="cloud" title="Verbindingen" subtitle="Verbind uw cloudaccounts en beheer online bestanden met de ingebouwde bestandsbeheerder." link="/docs/guide/evermusic/evermusic-guide-connections" >}}
+  {{< ls-card icon="cloud" title="Verbindingen" subtitle="Verbind uw cloudaccounts en beheer online bestanden met de ingebouwde bestandsbeheerder." link="/docs/guide/evermusic/evermusic-guide-connections" >}}
 
-  {{< card icon="collection" title="Muziekbibliotheek" subtitle="Organiseer en verken uw nummers, albums en artiesten in de muziekbibliotheek." link="/docs/guide/evermusic/evermusic-guide-music-library" >}}
+  {{< ls-card icon="collection" title="Muziekbibliotheek" subtitle="Organiseer en verken uw nummers, albums en artiesten in de muziekbibliotheek." link="/docs/guide/evermusic/evermusic-guide-music-library" >}}
 
-  {{< card icon="music-note" title="Afspeellijsten" subtitle="Maak en rangschik afspeellijsten die passen bij uw stemming of gelegenheid." link="/docs/guide/evermusic/evermusic-guide-playlists" >}}
+  {{< ls-card icon="music-note" title="Afspeellijsten" subtitle="Maak en rangschik afspeellijsten die passen bij uw stemming of gelegenheid." link="/docs/guide/evermusic/evermusic-guide-playlists" >}}
 
-  {{< card icon="folder" title="Lokale bestanden" subtitle="Open en beheer offline muziek via het gedeelte Lokale bestanden." link="/docs/guide/evermusic/evermusic-guide-local-files" >}}
+  {{< ls-card icon="folder" title="Lokale bestanden" subtitle="Open en beheer offline muziek via het gedeelte Lokale bestanden." link="/docs/guide/evermusic/evermusic-guide-local-files" >}}
 
-  {{< card icon="play" title="Audiospeler" subtitle="Beheer uw afspelen, wachtrij en audio-instellingen zoals equalizer en slaaptimer." link="/docs/guide/evermusic/evermusic-guide-player" >}}
+  {{< ls-card icon="play" title="Audiospeler" subtitle="Beheer uw afspelen, wachtrij en audio-instellingen zoals equalizer en slaaptimer." link="/docs/guide/evermusic/evermusic-guide-player" >}}
 
-  {{< card icon="adjustments" title="Instellingen" subtitle="Pas de weergave, functies en prestatie-instellingen van Evermusic aan." link="/docs/guide/evermusic/evermusic-guide-settings" >}}
+  {{< ls-card icon="adjustments" title="Instellingen" subtitle="Pas de weergave, functies en prestatie-instellingen van Evermusic aan." link="/docs/guide/evermusic/evermusic-guide-settings" >}}
 
-  {{< card icon="question-mark-circle" title="Veelgestelde vragen" subtitle="Vind snelle antwoorden op veelgestelde vragen in onze FAQ-sectie." link="/docs/faq/evermusic" >}}
+  {{< ls-card icon="question-mark-circle" title="Veelgestelde vragen" subtitle="Vind snelle antwoorden op veelgestelde vragen in onze FAQ-sectie." link="/docs/faq/evermusic" >}}
 {{< /cards >}}

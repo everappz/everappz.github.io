@@ -4,7 +4,9 @@ title: 'Dokumentasi'
 ---
 
 
-{{< lottie src="/images/juicy-json/juicy-girl-and-boy-searching-for-the-right-files.json" width="90%" >}}
+{{< ls-lottie src="/images/juicy-json/juicy-girl-and-boy-searching-for-the-right-files.json" width="90%" >}}
+
+{{< ls-docs-search >}}
 
 Bagian ini mencakup dokumentasi yang berguna untuk semua aplikasi Everappz — termasuk instruksi pengaturan, penjelasan fitur, dan tips lanjutan.
 
@@ -13,9 +15,9 @@ Jika Anda baru atau ingin belajar lebih banyak, panduan dan FAQ kami adalah temp
 ## Mulai
 
 {{< cards >}}
-  {{< card icon="book-open" link="/docs/guide" title="Panduan Pengguna" >}}
-  {{< card icon="question-mark-circle" link="/docs/faq" title="Pertanyaan yang Sering Diajukan" >}}
-  {{< card icon="light-bulb" link="/docs/howto" title="Cara Penggunaan" >}}
+  {{< ls-card icon="book-open" link="/docs/guide" title="Panduan Pengguna" >}}
+  {{< ls-card icon="question-mark-circle" link="/docs/faq" title="Pertanyaan yang Sering Diajukan" >}}
+  {{< ls-card icon="light-bulb" link="/docs/howto" title="Cara Penggunaan" >}}
 {{< /cards >}}
 
 - **Panduan Pengguna** membantu Anda menginstal, mengonfigurasi, dan memaksimalkan penggunaan aplikasi kami.
@@ -31,5 +33,5 @@ Jika pertanyaan Anda tidak terjawab dalam dokumentasi, silakan kunjungi halaman 
 Untuk kebijakan hukum, praktik penanganan data, dan perjanjian pengguna terkait layanan kami, lihat dokumen hukum di bawah ini:
 
 {{< cards >}}
-  {{< card icon="document-text" link="/legal" title="Pusat Hukum" >}}
+  {{< ls-card icon="document-text" link="/legal" title="Pusat Hukum" >}}
 {{< /cards >}}

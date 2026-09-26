@@ -12,7 +12,7 @@ authors:
     image: "/images/about/artem-meleshko-founder-everappz.webp"
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 ![](/blog/evermusic-stream-your-music-from-the-cloud-and-free-up-space-on-your-iphone-or-ipad/21260c_00c5356db3a24db6a6a37e353b774d56~mv2.jpg)
 
@@ -82,22 +82,22 @@ Blader door je verbonden cloudaccount, open een muziekmap en tik op een bestand 
 
 ## Veelgestelde vragen
 
-{{% details title="Is Evermusic gratis?" closed="true" %}}
+{{% ls-details title="Is Evermusic gratis?" closed="true" %}}
 Evermusic is gratis te downloaden met optionele premiumfuncties. Basis cloudstreaming en offline afspelen zijn beschikbaar in de gratis versie.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Welke cloudservices ondersteunt Evermusic?" closed="true" %}}
+{{% ls-details title="Welke cloudservices ondersteunt Evermusic?" closed="true" %}}
 Google Drive, Dropbox, Box, OneDrive, MediaFire, MEGA, Yandex.Disk, pCloud, HiDrive, MyDrive, SMB-bestandsshares en WebDAV-servers.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Kan ik offline naar muziek luisteren met Evermusic?" closed="true" %}}
+{{% ls-details title="Kan ik offline naar muziek luisteren met Evermusic?" closed="true" %}}
 Ja. Download elk album, artiest, afspeellijst of individueel nummer voor offline afspelen rechtstreeks in de app.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Welke audioformaten speelt Evermusic af?" closed="true" %}}
+{{% ls-details title="Welke audioformaten speelt Evermusic af?" closed="true" %}}
 Evermusic ondersteunt MP3, FLAC, AAC, WAV, ALAC, AIFF, OPUS, OGG en vele andere formaten.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Heb ik nog steeds iTunes nodig om muziek over te zetten?" closed="true" %}}
+{{% ls-details title="Heb ik nog steeds iTunes nodig om muziek over te zetten?" closed="true" %}}
 Nee. Upload je muziek naar een ondersteunde cloudservice vanaf je computer en stream of download het vervolgens via Evermusic op je iPhone of iPad.
-{{% /details %}}
+{{% /ls-details %}}

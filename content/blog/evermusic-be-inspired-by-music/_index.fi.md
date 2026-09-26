@@ -14,7 +14,7 @@ authors:
     image: "/images/about/artem-meleshko-founder-everappz.webp"
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 **Tiivistelmä:** Katso Evermusicin virallinen promovideo ja näe pilvimusiikin suoratoisto, offline-toisto ja äänen muokkaus toiminnassa iPhonella ja Macilla.
 
@@ -24,7 +24,7 @@ Olemme innoissamme jakaessamme Evermusicin virallisen promovideon, jonka on luon
 
 Katso Evermusic toiminnassa -- musiikin suoratoisto pilvestä, soittolistojen hallinta ja korkealaatuisen äänen toistaminen iPhonella:
 
-{{< youtubecard id="6mm3LVT4rtA" title="Evermusic Promo Video" >}}
+{{< ls-youtubecard id="6mm3LVT4rtA" title="Evermusic Promo Video" >}}
 
 ## Mitä näet videossa
 
@@ -41,14 +41,14 @@ Jos pidit videosta, jaa se ystävillesi ja musiikkirakastajille.
 
 ## Usein kysytyt kysymykset
 
-{{% details title="Mikä on Evermusic?" closed="true" %}}
+{{% ls-details title="Mikä on Evermusic?" closed="true" %}}
 Evermusic on musiikkisoitin iOS:lle ja macOS:lle, joka suoratoistaa ääntä pilvipalveluista kuten Dropbox, Google Drive, OneDrive ja iCloud Drive. Se tukee myös offline-toistoa ja sisältää sisäänrakennetun taajuuskorjaimen.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Mitä pilvipalveluita Evermusic tukee?" closed="true" %}}
+{{% ls-details title="Mitä pilvipalveluita Evermusic tukee?" closed="true" %}}
 Evermusic yhdistää Dropboxiin, Google Driveen, OneDriveen, iCloud Driveen, pCloudiin, Yandex.Diskiin ja useisiin muihin pilvipalveluntarjoajiin.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Onko Evermusic ilmainen?" closed="true" %}}
+{{% ls-details title="Onko Evermusic ilmainen?" closed="true" %}}
 Evermusic on ilmainen ladata valinnaisilla premium-ominaisuuksilla, jotka ovat saatavilla sovelluksen sisäisinä ostoina.
-{{% /details %}}
+{{% /ls-details %}}

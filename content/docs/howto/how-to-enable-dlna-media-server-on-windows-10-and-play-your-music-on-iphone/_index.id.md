@@ -7,7 +7,7 @@ tags: ["evermusic", "musik", "cloud", "iphone", "penyimpanan", "lokal", "nas", "
 readingTime: 2
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **Ringkasan:** Windows 10 memiliki server DLNA bawaan. Aktifkan di pengaturan Jaringan dan Berbagi, lalu gunakan aplikasi gratis **Evermusic** di iPhone Anda untuk streaming seluruh perpustakaan musik melalui Wi-Fi. Tidak perlu perangkat lunak server pihak ketiga.
@@ -96,22 +96,22 @@ Dengan DLNA Media Server di Windows 10 dan Evermusic di iPhone Anda, Anda dapat 
 
 ## Pertanyaan yang Sering Diajukan
 
-{{% details title="Apakah saya perlu menginstal perangkat lunak server di Windows 10?" closed="true" %}}
+{{% ls-details title="Apakah saya perlu menginstal perangkat lunak server di Windows 10?" closed="true" %}}
 Tidak. Windows 10 sudah menyertakan server media DLNA bawaan. Anda hanya perlu mengaktifkan streaming media di pengaturan Pusat Jaringan dan Berbagi. Tidak diperlukan perangkat lunak pihak ketiga.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Apakah iPhone saya harus berada di jaringan Wi-Fi yang sama?" closed="true" %}}
+{{% ls-details title="Apakah iPhone saya harus berada di jaringan Wi-Fi yang sama?" closed="true" %}}
 Ya. Streaming DLNA bekerja melalui jaringan lokal Anda. Baik PC Windows 10 maupun iPhone Anda harus terhubung ke jaringan Wi-Fi yang sama agar Evermusic dapat menemukan server DLNA.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Format audio apa yang bisa saya streaming melalui DLNA?" closed="true" %}}
+{{% ls-details title="Format audio apa yang bisa saya streaming melalui DLNA?" closed="true" %}}
 Server Windows DLNA membagikan file dari folder Musik Anda terlepas dari formatnya. Evermusic mendukung MP3, FLAC, AAC, WAV, OGG, AIFF, dan banyak format lainnya, sehingga Anda dapat memutar hampir semua file audio dari server.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Bisakah saya menggunakan Flacbox sebagai pengganti Evermusic?" closed="true" %}}
+{{% ls-details title="Bisakah saya menggunakan Flacbox sebagai pengganti Evermusic?" closed="true" %}}
 Ya. Flacbox juga mendukung penjelajahan dan pemutaran DLNA/UPnP. Anda dapat menggunakan salah satu aplikasi untuk menemukan dan memutar musik dari server Windows DLNA Anda.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Apakah streaming DLNA menggunakan data seluler?" closed="true" %}}
+{{% ls-details title="Apakah streaming DLNA menggunakan data seluler?" closed="true" %}}
 Tidak. DLNA beroperasi sepenuhnya di jaringan Wi-Fi lokal Anda. Tidak menggunakan data seluler apa pun. Namun, kedua perangkat harus tetap terhubung ke jaringan yang sama selama pemutaran.
-{{% /details %}}
+{{% /ls-details %}}

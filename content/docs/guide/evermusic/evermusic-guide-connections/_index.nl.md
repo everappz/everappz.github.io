@@ -17,7 +17,7 @@ Op het scherm Verbindingen kunt u elke bron met uw muziek verbinden — populair
 Het scherm is verdeeld in duidelijk gelabelde secties die schaalbaar zijn van een enkel iCloud Drive-account tot een bibliotheek verspreid over meerdere clouds en NAS-apparaten: Snelle toegang bovenaan (uw favoriete cloudmappen), Cloudopslag (de toegevoegde accounts), Lokaal netwerk (via Bonjour ontdekte apparaten), Computer (Wi-Fi Drive, iTunes-bestandsdeling, SMB), Externe accessoires (verbonden USB-flashdrives) en Andere services (Last.fm en vergelijkbare).
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evermusic Verbindingenscherm" image="/docs/guide/evermusic/evermusic-guide-connections/img/connect-main.webp" >}}
+  {{< ls-card title="" subtitle="Evermusic Verbindingenscherm" image="/docs/guide/evermusic/evermusic-guide-connections/img/connect-main.webp" >}}
 {{< /cards >}}
 
 ## Verbinding maken met cloudopslag
@@ -29,7 +29,7 @@ Het scherm is verdeeld in duidelijk gelabelde secties die schaalbaar zijn van ee
 - Tik op Selesai.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Kiezer voor cloudopslagaanbieder" image="/docs/guide/evermusic/evermusic-guide-connections/img/connect-add-storage.webp" >}}
+  {{< ls-card title="" subtitle="Kiezer voor cloudopslagaanbieder" image="/docs/guide/evermusic/evermusic-guide-connections/img/connect-add-storage.webp" >}}
 {{< /cards >}}
 
 Als u problemen ondervindt, controleer dan uw internetverbinding en inloggegevens, en zorg ervoor dat tweefactorauthenticatie correct is geconfigureerd voor die service.  
@@ -70,7 +70,7 @@ U kunt ook de verbonden cloudaccounts in de applicatie verbreken en het auth-tok
   - **Ontkoppelen**: als u de verbinding tussen de app en de cloudservice volledig wilt verbreken, selecteer dan 'Ontkoppelen.' Houd er rekening mee dat alle nummers die aan deze cloudservice zijn gekoppeld uit de muziekbibliotheek van uw app worden verwijderd, maar ze blijven op de server aanwezig.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Menu met meer acties voor verbonden cloudopslag" image="/docs/guide/evermusic/evermusic-guide-connections/img/connect-storage-more-actions.webp" >}}
+  {{< ls-card title="" subtitle="Menu met meer acties voor verbonden cloudopslag" image="/docs/guide/evermusic/evermusic-guide-connections/img/connect-storage-more-actions.webp" >}}
 {{< /cards >}}
 
 ## Verbinding maken met computer of NAS
@@ -89,7 +89,7 @@ Als uw verbinding geslaagd is, ziet u verbonden opslag in het gedeelte "Cloudops
 Een volledige tutorial over hoe u uw Mac of pc verbindt via SMB is beschikbaar [hier](/docs/howto/stream-your-music-from-mac-or-pc-to-iphone-using-smb/).
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="SMB-verbindingsinstellingen" image="/docs/guide/evermusic/evermusic-guide-connections/img/connect-smb-settings.webp" >}}
+  {{< ls-card title="" subtitle="SMB-verbindingsinstellingen" image="/docs/guide/evermusic/evermusic-guide-connections/img/connect-smb-settings.webp" >}}
 {{< /cards >}}
 
 ## Verbinding maken met NAS via WebDAV
@@ -99,7 +99,7 @@ De URL moet de notatie http://servernaam hebben, of https://servernaam als de se
 Een volledige tutorial over hoe u NAS verbindt via WebDAV-protocol is beschikbaar [hier](/docs/howto/how-to-connect-nas-storage-using-webdav-and-listen-to-music-on-your-iphone-or-mac).
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="WebDAV-verbindingsinstellingen" image="/docs/guide/evermusic/evermusic-guide-connections/img/connect-webdav-settings.webp" >}}
+  {{< ls-card title="" subtitle="WebDAV-verbindingsinstellingen" image="/docs/guide/evermusic/evermusic-guide-connections/img/connect-webdav-settings.webp" >}}
 {{< /cards >}}
 
 ## Verbinding maken met computer of NAS via DLNA
@@ -107,7 +107,7 @@ Een volledige tutorial over hoe u NAS verbindt via WebDAV-protocol is beschikbaa
 U kunt ook een muziekbibliotheek op uw Windows-pc of persoonlijke NAS delen via het DLNA-protocol en die bibliotheek in de app openen zoals beschreven [hier](/docs/howto/how-to-enable-dlna-media-server-on-windows-10-and-play-your-music-on-iphone). DLNA is een populair en veel gebruikt protocol, maar u kunt er alleen muziek mee afspelen of downloaden. U kunt geen bestanden uploaden of nieuwe mappen op de server aanmaken.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="DLNA-verbindingsinstellingen" image="/docs/guide/evermusic/evermusic-guide-connections/img/connect-dlna-settings.webp" >}}
+  {{< ls-card title="" subtitle="DLNA-verbindingsinstellingen" image="/docs/guide/evermusic/evermusic-guide-connections/img/connect-dlna-settings.webp" >}}
 {{< /cards >}}
 
 ## Beschikbare apparaten
@@ -120,7 +120,7 @@ Volg deze stappen om verbinding te maken met een apparaat:
 - Voer indien nodig uw inloggegevens in om de verbinding te voltooien.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Beschikbare apparaten in het lokale netwerk" image="/docs/guide/evermusic/evermusic-guide-connections/img/connect-available-devices.webp" >}}
+  {{< ls-card title="" subtitle="Beschikbare apparaten in het lokale netwerk" image="/docs/guide/evermusic/evermusic-guide-connections/img/connect-available-devices.webp" >}}
 {{< /cards >}}
 
 ## Wi-Fi Drive 
@@ -146,7 +146,7 @@ Zodra de webpagina van uw iOS-apparaat in de browser is geopend, kunt u eenvoudi
 De bestanden die u sleept en neerzet, worden overgebracht naar uw iOS-apparaat en zijn toegankelijk binnen de applicatie.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Wi-Fi Drive-serverinstellingen" image="/docs/guide/evermusic/evermusic-guide-connections/img/connect-wifidrive-settings.webp" >}}
+  {{< ls-card title="" subtitle="Wi-Fi Drive-serverinstellingen" image="/docs/guide/evermusic/evermusic-guide-connections/img/connect-wifidrive-settings.webp" >}}
 {{< /cards >}}
 
 Gedetailleerde instructies over hoe u bestanden draadloos overdraagt via Wi-Fi Drive zijn beschikbaar [hier](/docs/howto/how-to-transfer-files-wirelessly-from-a-computer-to-an-iphone-using-wifi-drive).
@@ -162,7 +162,7 @@ iTunes-bestandsdeling is een andere technologie waarmee u bestanden van uw compu
 Gedetailleerde instructies over hoe u iTunes-bestandsdeling gebruikt zijn beschikbaar [hier](/docs/howto/how-to-play-local-itunes-files-on-my-iphone/).
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="iTunes / Finder-bestandsdeling op Mac" image="/docs/guide/evermusic/evermusic-guide-connections/img/connect-itunes-file-sharing.webp" >}}
+  {{< ls-card title="" subtitle="iTunes / Finder-bestandsdeling op Mac" image="/docs/guide/evermusic/evermusic-guide-connections/img/connect-itunes-file-sharing.webp" >}}
 {{< /cards >}}
 
 ## Een USB-flashkaart verbinden
@@ -183,7 +183,7 @@ De bovenste werkbalk, handig onder de navigatiebalk, biedt verschillende handige
 - **Alles willekeurig afspelen**: Vergelijkbaar met "Alles afspelen", scant deze actie de huidige map en submappen, maar schudt de bestanden voordat ze aan de audiospelerwachtrij worden toegevoegd. Het is een geweldige manier om uw muziek in willekeurige volgorde te genieten voor wat variatie.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Bovenste werkbalk in een cloudmap" image="/docs/guide/evermusic/evermusic-guide-connections/img/connect-top-toolbar.webp" >}}
+  {{< ls-card title="" subtitle="Bovenste werkbalk in een cloudmap" image="/docs/guide/evermusic/evermusic-guide-connections/img/connect-top-toolbar.webp" >}}
 {{< /cards >}}
 
 ## Mapopties
@@ -200,7 +200,7 @@ Hier is een overzicht van deze acties:
 - **Raster/Lijstweergave**: Schakel tussen twee weergavemodi: tabelweergave en miniatuurweergave. De tabelweergave toont bestanden in een lijst, terwijl de miniatuurweergave visuele representaties van de bestanden toont, zodat u de inhoud in één oogopslag gemakkelijk kunt identificeren.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Menu met meer acties voor de huidige map" image="/docs/guide/evermusic/evermusic-guide-connections/img/connect-folder-options.webp" >}}
+  {{< ls-card title="" subtitle="Menu met meer acties voor de huidige map" image="/docs/guide/evermusic/evermusic-guide-connections/img/connect-folder-options.webp" >}}
 {{< /cards >}}
 
 ## Online bestanden bewerken
@@ -212,7 +212,7 @@ Wanneer u meerdere bestanden in uw cloudopslag op Evermusic wilt beheren, kunt u
 - **Verschillende acties uitvoeren**: Zodra u de te beheren bestanden of mappen heeft geselecteerd, heeft u toegang tot verschillende acties die zijn afgestemd op uw behoeften:
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Selectiemodus voor online bestanden" image="/docs/guide/evermusic/evermusic-guide-connections/img/connect-selection-mode.webp" >}}
+  {{< ls-card title="" subtitle="Selectiemodus voor online bestanden" image="/docs/guide/evermusic/evermusic-guide-connections/img/connect-selection-mode.webp" >}}
 {{< /cards >}}
 
 ## Bestandsacties
@@ -233,7 +233,7 @@ Tik erop om een lijst met beschikbare acties te zien:
 - **Verwijderen**: Wees voorzichtig met deze actie, want het verwijdert het bestand permanent van uw cloudopslag. Deze verwijdering kan niet ongedaan worden gemaakt.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Menu met meer acties voor één bestand" image="/docs/guide/evermusic/evermusic-guide-connections/img/connect-single-folder-more-options.webp" >}}
+  {{< ls-card title="" subtitle="Menu met meer acties voor één bestand" image="/docs/guide/evermusic/evermusic-guide-connections/img/connect-single-folder-more-options.webp" >}}
 {{< /cards >}}
 
 Als de lijst met acties de beschikbare schermruimte overschrijdt, scrol dan eenvoudig naar beneden in het actiemenu om aanvullende opties te zien.

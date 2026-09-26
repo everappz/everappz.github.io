@@ -16,7 +16,7 @@ readingTime: 3
 Evertag มีอินเทอร์เฟซผู้ใช้ที่ใช้งานง่าย สิ่งที่ทำให้แตกต่างจากแอปยอดนิยมหลายแอปคือโปรแกรมจัดการไฟล์ในตัว ซึ่งมอบอำนาจให้ผู้ใช้แก้ไขไฟล์เสียงและถ่ายโอนไฟล์ไปยังและจากที่จัดเก็บข้อมูลบนคลาวด์ได้อย่างราบรื่น
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="หน้าจอ Evertag" image="/docs/guide/evertag/img/tag-editor.webp" >}}
+  {{< ls-card title="" subtitle="หน้าจอ Evertag" image="/docs/guide/evertag/img/tag-editor.webp" >}}
 {{< /cards >}}
 
 ## ส่วนต่าง ๆ
@@ -42,7 +42,7 @@ Evertag มีอินเทอร์เฟซผู้ใช้ที่ใช
 รายการเนื้อหาแทบทุกรายการบนหน้าจอมีปุ่ม "ดำเนินการเพิ่มเติม" แตะเพื่อเข้าถึงการดำเนินการที่มีทั้งหมด
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evertag ดำเนินการเพิ่มเติม" image="/docs/guide/evertag/img/downloads-file-actions.webp" >}}
+  {{< ls-card title="" subtitle="Evertag ดำเนินการเพิ่มเติม" image="/docs/guide/evertag/img/downloads-file-actions.webp" >}}
 {{< /cards >}}
 
 ## แถบเครื่องมือด้านบน

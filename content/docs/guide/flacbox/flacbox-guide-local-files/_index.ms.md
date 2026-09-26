@@ -19,7 +19,7 @@ Bahagian Fail Tempatan berfungsi sebagai hab untuk mengurus fail yang terletak d
 Pengurus fail terbina dalam ini membolehkan anda mengedit fail (namakan semula, pindahkan, salin, muat naik, padam), memantau pemindahan, dan menawarkan beberapa kaedah untuk mengimport fail audio ke dalam aplikasi — muat turun terus dari awan, penyegerakan mod luar talian, pemacu kilat USB, Wi-Fi Drive, dan Finder File Sharing.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Skrin Fail Tempatan Flacbox" image="/docs/guide/flacbox/img/local-files.webp" >}}
+  {{< ls-card title="" subtitle="Skrin Fail Tempatan Flacbox" image="/docs/guide/flacbox/img/local-files.webp" >}}
 {{< /cards >}}
 
 ## Muat Turun Fail dari Storan Awan
@@ -102,7 +102,7 @@ Menunjukkan fail dan folder yang disimpan dalam direktori Documents aplikasi dan
 Menunjukkan fail yang terletak pada peranti anda tetapi dalam aplikasi yang berbeza. Anda boleh mengimportnya ke dalam aplikasi ini menggunakan pemilih fail sistem. Untuk mengaktifkan pemilih, pilih **Buka Fail…** untuk memilih fail atau **Buka Folder…** untuk memilih folder. Arahan terperinci tentang cara mengimport muzik tempatan yang disimpan pada iPhone atau Mac anda tersedia [di sini](/docs/howto/how-to-play-local-music-stored-on-your-iphone-or-mac).
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox Folder Peranti yang Disambungkan" image="/docs/guide/flacbox/img/connected-device-folders.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox Folder Peranti yang Disambungkan" image="/docs/guide/flacbox/img/connected-device-folders.webp" >}}
 {{< /cards >}}
 
 Anda juga boleh menyambungkan folder yang terletak pada peranti anda dan mempunyai akses pantas ke kandungannya. Gunakan item menu **Sambungkan Folder** dan pilih folder yang terletak pada peranti anda. Ketik **Selesai**, dan aplikasi mencipta pautan ke folder itu dengan akses baca / tulis, membolehkan anda mengurus fail terus dari aplikasi ini. Untuk memutuskan sambungan folder yang terletak pada peranti anda, ketik butang **Lebih Banyak Tindakan** dan pilih **Putuskan Sambungan**.
@@ -137,7 +137,7 @@ Jika anda perlu mengedit beberapa fail, aktifkan mod pilihan dengan mengetik but
 - **Padam** — alih keluar fail atau folder yang dipilih dari peranti. **Tindakan ini tidak boleh diterbalikkan.**
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox Mod Pilihan Fail Tempatan" image="/docs/guide/flacbox/img/local-files-selection-mode.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox Mod Pilihan Fail Tempatan" image="/docs/guide/flacbox/img/local-files-selection-mode.webp" >}}
 {{< /cards >}}
 
 ## Menu Pilihan
@@ -161,7 +161,7 @@ Untuk setiap fail atau folder dalam aplikasi, beberapa tindakan tersedia, boleh 
 - **Padam** — padam fail atau folder dari peranti. **Tindakan ini tidak boleh diterbalikkan** dan anda tidak boleh memulihkan fail yang dipadam.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox Lebih Banyak Tindakan untuk Fail Tempatan" image="/docs/guide/flacbox/img/local-files-more-actions-for-file.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox Lebih Banyak Tindakan untuk Fail Tempatan" image="/docs/guide/flacbox/img/local-files-more-actions-for-file.webp" >}}
 {{< /cards >}}
 
 ## Folder Luar Talian

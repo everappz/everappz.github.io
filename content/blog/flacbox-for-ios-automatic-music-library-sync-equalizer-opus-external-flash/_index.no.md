@@ -12,7 +12,7 @@ authors:
     image: "/images/about/artem-meleshko-founder-everappz.webp"
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 **Flacbox 1.6** bringer store nye funksjoner til FLAC-musikkspilleren for iPhone og iPad.
 
@@ -68,18 +68,18 @@ Har du tilbakemeldinger eller funksjonsønsker? Ta kontakt -- vi bygger Flacbox 
 
 ## Ofte Stilte Spørsmål
 
-{{% details title="Hvilke lydformater støtter Flacbox?" closed="true" %}}
+{{% ls-details title="Hvilke lydformater støtter Flacbox?" closed="true" %}}
 Flacbox støtter FLAC, ALAC, MP3, AAC, OGG, OPUS, WAV, AIFF, DSD og andre populære lydformater. Alle formater fungerer med den innebygde equalizeren.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Kan jeg spille musikk fra et SD-kort på iPhonen min?" closed="true" %}}
+{{% ls-details title="Kan jeg spille musikk fra et SD-kort på iPhonen min?" closed="true" %}}
 Ja. Koble et SD- eller microSD-kort med en Lightning to SD Card Camera Reader Adapter. Flacbox oppdager kortet automatisk og lar deg bla og spille filer direkte fra ekstern lagring.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Synkroniserer Flacbox med skylagring automatisk?" closed="true" %}}
+{{% ls-details title="Synkroniserer Flacbox med skylagring automatisk?" closed="true" %}}
 Ja. Fra versjon 1.6 kan Flacbox automatisk synkronisere musikkbiblioteket ditt fra skymapper. Aktiver Automatisk synkronisering i Innstillinger og velg mappene du vil overvåke.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Er Flacbox-equalizeren tilpassbar?" closed="true" %}}
+{{% ls-details title="Er Flacbox-equalizeren tilpassbar?" closed="true" %}}
 Ja. 10-bånds equalizeren lar deg justere individuelle frekvensnivåer mellom -12 dB og +12 dB. Du kan bruke innebygde forhåndsinnstillinger eller lagre dine egne tilpassede innstillinger.
-{{% /details %}}
+{{% /ls-details %}}

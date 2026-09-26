@@ -72,19 +72,19 @@ Panduan ini akan membantu anda mendapatkan yang terbaik daripada Evermusic pada 
 
 
 {{< cards >}}
-  {{< card icon="location-marker" title="Navigasi" subtitle="Ketahui cara menavigasi Evermusic menggunakan Tab Bar pada iPhone atau Menu Kiri pada iPad dan Mac." link="/docs/guide/evermusic/evermusic-guide-navigation" >}}
+  {{< ls-card icon="location-marker" title="Navigasi" subtitle="Ketahui cara menavigasi Evermusic menggunakan Tab Bar pada iPhone atau Menu Kiri pada iPad dan Mac." link="/docs/guide/evermusic/evermusic-guide-navigation" >}}
 
-  {{< card icon="cloud" title="Sambungan" subtitle="Sambungkan akaun awan anda dan urus fail dalam talian menggunakan pengurus fail terbina dalam." link="/docs/guide/evermusic/evermusic-guide-connections" >}}
+  {{< ls-card icon="cloud" title="Sambungan" subtitle="Sambungkan akaun awan anda dan urus fail dalam talian menggunakan pengurus fail terbina dalam." link="/docs/guide/evermusic/evermusic-guide-connections" >}}
 
-  {{< card icon="collection" title="Perpustakaan Muzik" subtitle="Susun dan terokai trek, album, dan artis anda dalam Perpustakaan Muzik." link="/docs/guide/evermusic/evermusic-guide-music-library" >}}
+  {{< ls-card icon="collection" title="Perpustakaan Muzik" subtitle="Susun dan terokai trek, album, dan artis anda dalam Perpustakaan Muzik." link="/docs/guide/evermusic/evermusic-guide-music-library" >}}
 
-  {{< card icon="music-note" title="Senarai Main" subtitle="Cipta dan susun senarai main untuk memadankan mood atau majlis anda." link="/docs/guide/evermusic/evermusic-guide-playlists" >}}
+  {{< ls-card icon="music-note" title="Senarai Main" subtitle="Cipta dan susun senarai main untuk memadankan mood atau majlis anda." link="/docs/guide/evermusic/evermusic-guide-playlists" >}}
 
-  {{< card icon="folder" title="Fail Tempatan" subtitle="Akses dan urus muzik luar talian melalui bahagian Fail Tempatan." link="/docs/guide/evermusic/evermusic-guide-local-files" >}}
+  {{< ls-card icon="folder" title="Fail Tempatan" subtitle="Akses dan urus muzik luar talian melalui bahagian Fail Tempatan." link="/docs/guide/evermusic/evermusic-guide-local-files" >}}
 
-  {{< card icon="play" title="Pemain Audio" subtitle="Kawal main balik, baris gilir, dan tetapan audio anda seperti penyama dan pemasa tidur." link="/docs/guide/evermusic/evermusic-guide-player" >}}
+  {{< ls-card icon="play" title="Pemain Audio" subtitle="Kawal main balik, baris gilir, dan tetapan audio anda seperti penyama dan pemasa tidur." link="/docs/guide/evermusic/evermusic-guide-player" >}}
 
-  {{< card icon="adjustments" title="Tetapan" subtitle="Sesuaikan penampilan, ciri, dan tetapan prestasi Evermusic." link="/docs/guide/evermusic/evermusic-guide-settings" >}}
+  {{< ls-card icon="adjustments" title="Tetapan" subtitle="Sesuaikan penampilan, ciri, dan tetapan prestasi Evermusic." link="/docs/guide/evermusic/evermusic-guide-settings" >}}
 
-  {{< card icon="question-mark-circle" title="Soalan Lazim" subtitle="Cari jawapan pantas kepada soalan biasa dalam bahagian Soalan Lazim kami." link="/docs/faq/evermusic" >}}
+  {{< ls-card icon="question-mark-circle" title="Soalan Lazim" subtitle="Cari jawapan pantas kepada soalan biasa dalam bahagian Soalan Lazim kami." link="/docs/faq/evermusic" >}}
 {{< /cards >}}

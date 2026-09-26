@@ -28,19 +28,19 @@ Bu kılavuz, uygulamanın her bölümünü adım adım açıklar. Paylaşımın 
 
 
 {{< cards >}}
-  {{< card icon="play" title="Paylaşım" subtitle="Başlat'a dokunun, ne paylaşacağınızı seçin ve beş sunucuyu aynı anda çalıştırın. Paylaşım ekranını baştan sona öğrenin." link="/docs/guide/everdisk/everdisk-guide-sharing" >}}
+  {{< ls-card icon="play" title="Paylaşım" subtitle="Başlat'a dokunun, ne paylaşacağınızı seçin ve beş sunucuyu aynı anda çalıştırın. Paylaşım ekranını baştan sona öğrenin." link="/docs/guide/everdisk/everdisk-guide-sharing" >}}
 
-  {{< card icon="desktop-computer" title="Cihazlarınızı Bağlayın" subtitle="Bir TV, bir Mac ya da PC, bir web tarayıcısı, başka bir telefon ya da bir USB kablosu paylaşılan dosyalarınıza nasıl bağlanır." link="/docs/guide/everdisk/everdisk-guide-connect" >}}
+  {{< ls-card icon="desktop-computer" title="Cihazlarınızı Bağlayın" subtitle="Bir TV, bir Mac ya da PC, bir web tarayıcısı, başka bir telefon ya da bir USB kablosu paylaşılan dosyalarınıza nasıl bağlanır." link="/docs/guide/everdisk/everdisk-guide-connect" >}}
 
-  {{< card icon="server" title="Sunuculara Bağlanın" subtitle="Ağınızdaki diğer DLNA, WebDAV, FTP, SFTP ve SMB sunucularına ve NAS sürücülerine ulaşın; göz atın, akış yapın ve indirin." link="/docs/guide/everdisk/everdisk-guide-devices" >}}
+  {{< ls-card icon="server" title="Sunuculara Bağlanın" subtitle="Ağınızdaki diğer DLNA, WebDAV, FTP, SFTP ve SMB sunucularına ve NAS sürücülerine ulaşın; göz atın, akış yapın ve indirin." link="/docs/guide/everdisk/everdisk-guide-devices" >}}
 
-  {{< card icon="folder" title="Dosyalar ve Belgeler" subtitle="Göz atın, klasör oluşturun, yeniden adlandırın, taşıyın, kopyalayın ve silin, sıkıştırın ve açın, harici klasörler bağlayın ve PDF'e tarayın." link="/docs/guide/everdisk/everdisk-guide-files" >}}
+  {{< ls-card icon="folder" title="Dosyalar ve Belgeler" subtitle="Göz atın, klasör oluşturun, yeniden adlandırın, taşıyın, kopyalayın ve silin, sıkıştırın ve açın, harici klasörler bağlayın ve PDF'e tarayın." link="/docs/guide/everdisk/everdisk-guide-files" >}}
 
-  {{< card icon="music-note" title="Fotoğraflar, Müzik ve Video" subtitle="Tüm fotoğraf ve müzik kitaplığınızı paylaşın, mini oynatıcıda ses çalın ve videoyu tam ekran izleyin." link="/docs/guide/everdisk/everdisk-guide-media" >}}
+  {{< ls-card icon="music-note" title="Fotoğraflar, Müzik ve Video" subtitle="Tüm fotoğraf ve müzik kitaplığınızı paylaşın, mini oynatıcıda ses çalın ve videoyu tam ekran izleyin." link="/docs/guide/everdisk/everdisk-guide-media" >}}
 
-  {{< card icon="lock-closed" title="Erişim ve Gizlilik" subtitle="Paylaşımı bir giriş ve parolayla koruyun, düzenlemeye izin verin ya da engelleyin, cihazları engelleyin ve her şeyi yerel tutun." link="/docs/guide/everdisk/everdisk-guide-access" >}}
+  {{< ls-card icon="lock-closed" title="Erişim ve Gizlilik" subtitle="Paylaşımı bir giriş ve parolayla koruyun, düzenlemeye izin verin ya da engelleyin, cihazları engelleyin ve her şeyi yerel tutun." link="/docs/guide/everdisk/everdisk-guide-access" >}}
 
-  {{< card icon="adjustments" title="Ayarlar" subtitle="Her ayar açıklanıyor: cihaz profili, bağlantılar, fotoğraf ve video kalitesi, portlar, aktarımlar ve daha fazlası." link="/docs/guide/everdisk/everdisk-guide-settings" >}}
+  {{< ls-card icon="adjustments" title="Ayarlar" subtitle="Her ayar açıklanıyor: cihaz profili, bağlantılar, fotoğraf ve video kalitesi, portlar, aktarımlar ve daha fazlası." link="/docs/guide/everdisk/everdisk-guide-settings" >}}
 
-  {{< card icon="question-mark-circle" title="SSS" subtitle="En sık sorulan sorulara ve gerçek dünya senaryolarına hızlı yanıtlar." link="/docs/faq/everdisk" >}}
+  {{< ls-card icon="question-mark-circle" title="SSS" subtitle="En sık sorulan sorulara ve gerçek dünya senaryolarına hızlı yanıtlar." link="/docs/faq/everdisk" >}}
 {{< /cards >}}

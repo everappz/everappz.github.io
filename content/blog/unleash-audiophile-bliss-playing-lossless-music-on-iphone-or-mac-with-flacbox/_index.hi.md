@@ -12,7 +12,7 @@ authors:
     image: "/images/about/artem-meleshko-founder-everappz.webp"
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 **संक्षेप में:** iPhone और Mac पर FLAC, DSD, ALAC और 120+ अन्य ऑडियो फॉर्मेट चलाने के लिए [App Store से Flacbox इंस्टॉल करें](https://apps.apple.com/us/app/flacbox-flac-player-music/id1097564256?mt=8)। iTunes File Sharing, Wi-Fi Drive या क्लाउड स्टोरेज से फाइलें इम्पोर्ट करें। फाइल कन्वर्शन की ज़रूरत नहीं। Flacbox पूर्ण स्टूडियो-क्वालिटी प्लेबैक के लिए lossless फॉर्मेट को मूल रूप से डिकोड करता है।
 
@@ -110,26 +110,26 @@ Mac App Store से Flacbox डाउनलोड करें।
 
 ## अक्सर पूछे जाने वाले प्रश्न
 
-{{< details title="क्या Flacbox को lossless फाइलें चलाने के लिए सब्सक्रिप्शन चाहिए?" closed="true" >}}
+{{< ls-details title="क्या Flacbox को lossless फाइलें चलाने के लिए सब्सक्रिप्शन चाहिए?" closed="true" >}}
 Flacbox बेसिक प्लेबैक कार्यक्षमता बिना सब्सक्रिप्शन के प्रदान करता है। आप ऐप डाउनलोड करने के तुरंत बाद FLAC, DSD, ALAC और अन्य lossless फॉर्मेट इम्पोर्ट और प्ले कर सकते हैं। कुछ उन्नत सुविधाओं के लिए प्रीमियम अपग्रेड की आवश्यकता हो सकती है, लेकिन बेसिक lossless प्लेबैक तुरंत उपलब्ध है।
-{{< /details >}}
+{{< /ls-details >}}
 
-{{< details title="क्या Flacbox DSD फाइलों को PCM में बदले बिना चला सकता है?" closed="true" >}}
+{{< ls-details title="क्या Flacbox DSD फाइलों को PCM में बदले बिना चला सकता है?" closed="true" >}}
 हाँ, Flacbox DSD64, DSD128 और DSD256 फॉर्मेट सहित नेटिव DSD प्लेबैक सपोर्ट करता है। सर्वोत्तम परिणामों के लिए, अपने डिवाइस को DSD-संगत एक्सटर्नल DAC के साथ पेयर करें।
-{{< /details >}}
+{{< /ls-details >}}
 
-{{< details title="बड़े lossless म्यूजिक कलेक्शन को iPhone में कैसे ट्रांसफर करें?" closed="true" >}}
+{{< ls-details title="बड़े lossless म्यूजिक कलेक्शन को iPhone में कैसे ट्रांसफर करें?" closed="true" >}}
 Flacbox बड़ी लाइब्रेरी के लिए कई ट्रांसफर विकल्प प्रदान करता है। Wi-Fi Drive आपको लोकल नेटवर्क पर किसी भी ब्राउज़र से फाइलें अपलोड करने देता है। बहुत बड़े कलेक्शन के सबसे तेज़ ट्रांसफर के लिए, Lightning या USB-C एडाप्टर का उपयोग करके एक्सटर्नल ड्राइव सीधे कनेक्ट करें।
-{{< /details >}}
+{{< /ls-details >}}
 
-{{< details title="Flacbox में FLAC और ALAC के बीच साउंड क्वालिटी में अंतर है?" closed="true" >}}
+{{< ls-details title="Flacbox में FLAC और ALAC के बीच साउंड क्वालिटी में अंतर है?" closed="true" >}}
 FLAC और ALAC दोनों lossless कोडेक हैं, यानी वे डिकोड होने पर समान ऑडियो आउटपुट उत्पन्न करते हैं। अंतर कम्पैटिबिलिटी और कम्प्रेशन एफिशिएंसी में है। Flacbox दोनों को समान फिडेलिटी से हैंडल करता है।
-{{< /details >}}
+{{< /ls-details >}}
 
-{{< details title="iPhone पर FLAC फाइलें चलाने का सबसे अच्छा तरीका क्या है?" closed="true" >}}
+{{< ls-details title="iPhone पर FLAC फाइलें चलाने का सबसे अच्छा तरीका क्या है?" closed="true" >}}
 App Store से Flacbox इंस्टॉल करें, फिर iTunes File Sharing, Wi-Fi Drive, क्लाउड स्टोरेज या USB/Lightning एक्सटर्नल ड्राइव से अपनी FLAC फाइलें इम्पोर्ट करें। Flacbox 32-bit/384 kHz तक की रिज़ॉल्यूशन सपोर्ट करते हुए बिना कन्वर्शन के FLAC को मूल रूप से डिकोड करता है।
-{{< /details >}}
+{{< /ls-details >}}
 
-{{< details title="क्या Flacbox NAS और होम सर्वर के साथ काम करता है?" closed="true" >}}
+{{< ls-details title="क्या Flacbox NAS और होम सर्वर के साथ काम करता है?" closed="true" >}}
 हाँ। Flacbox SMB, WebDAV और DLNA प्रोटोकॉल के माध्यम से NAS डिवाइस और होम सर्वर से कनेक्ट होता है। यह आपको अपने डिवाइस पर फाइलें कॉपी किए बिना अपनी lossless लाइब्रेरी स्ट्रीम करने देता है।
-{{< /details >}}
+{{< /ls-details >}}

@@ -7,14 +7,14 @@ keywords: ["iTunes olmadan müzik aktarma", "wifi drive iphone", "iPhone'a kablo
 readingTime: 2
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **Özet:** Bilgisayarınızdan iPhone veya iPad'inize müzik aktarmak için Evermusic, Flacbox veya Evertag'daki Wi-Fi Drive'ı kullanın. iTunes gerekmez. Her iki cihaz da aynı Wi-Fi ağında olmalıdır. Web tarayıcısı veya WebDAV (Mac Finder / Windows Dosya Gezgini) aracılığıyla aktarın.
 
 [**TECHGUYPH**](https://www.youtube.com/channel/UCgpf09gGFE_c_3pPTtTpnzg) video eğitimini izleyebilir veya aşağıdaki metin sürümünü okuyabilirsiniz.
 <br><br>
-{{< youtubecard id="CqdqrQ0ge70" title="Can We Wirelessly Put Offline Music on iPhones?" >}}
+{{< ls-youtubecard id="CqdqrQ0ge70" title="Can We Wirelessly Put Offline Music on iPhones?" >}}
 
 Wi-Fi Drive, müzik koleksiyonunuzu bilgisayarınızdan iPhone veya iPad'inize iTunes'a ihtiyaç duymadan sorunsuzca aktarmanın en iyi çözümüdür. Bu zahmetsiz yöntem, yerel Wi-Fi bağlantınızı kullanarak birden fazla ses dosyasını ve hatta tüm klasörleri kolayca indirmenize veya yüklemenize olanak tanır. Bunun mükemmel çalışması için hem bilgisayarınız hem de iOS cihazınız aynı Wi-Fi ağına bağlı olmalıdır.
 
@@ -84,22 +84,22 @@ Wi-Fi Drive ile iTunes ile uğraşma günleri sona erdi. Yerel Wi-Fi ağınızı
 
 ## Sıkça Sorulan Sorular
 
-{{% details title="Wi-Fi Drive ile hangi ses formatlarını aktarabilirim?" closed="true" %}}
+{{% ls-details title="Wi-Fi Drive ile hangi ses formatlarını aktarabilirim?" closed="true" %}}
 Wi-Fi Drive her dosya türünü aktarır. Evermusic ve Flacbox, MP3, FLAC, AAC, WAV, AIFF, OGG, WMA ve diğer birçok ses formatını çalmayı destekler.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="iPhone'uma müzik koymak için iTunes'a ihtiyacım var mı?" closed="true" %}}
+{{% ls-details title="iPhone'uma müzik koymak için iTunes'a ihtiyacım var mı?" closed="true" %}}
 Hayır. Wi-Fi Drive müziği doğrudan yerel Wi-Fi ağınız üzerinden aktarır. iTunes gerekli değildir.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Tüm müzik klasörlerini bir seferde aktarabilir miyim?" closed="true" %}}
+{{% ls-details title="Tüm müzik klasörlerini bir seferde aktarabilir miyim?" closed="true" %}}
 Evet. Web tarayıcısı yöntemi, iç içe alt klasörler dahil tüm klasörlerin yüklenmesini destekler.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Müzik aktarımım güvenli mi?" closed="true" %}}
+{{% ls-details title="Müzik aktarımım güvenli mi?" closed="true" %}}
 Wi-Fi Drive yalnızca yerel ağınızda çalışır. Ek güvenlik için bir kullanıcı adı ve şifre de belirleyebilirsiniz.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Hangi uygulamalar müzik için Wi-Fi Drive'ı destekler?" closed="true" %}}
+{{% ls-details title="Hangi uygulamalar müzik için Wi-Fi Drive'ı destekler?" closed="true" %}}
 Evermusic, Flacbox ve Evertag'ın tümü bilgisayarınızdan ses dosyalarını aktarmak için Wi-Fi Drive içerir.
-{{% /details %}}
+{{% /ls-details %}}

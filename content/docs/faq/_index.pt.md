@@ -15,7 +15,7 @@ tags: [
 ---
 
 
-{{< lottie src="/images/juicy-json/juicy-woman-focused-on-online-learning.json" width="85%" >}}
+{{< ls-lottie src="/images/juicy-json/juicy-woman-focused-on-online-learning.json" width="85%" >}}
 
 ## Aprenda a usar nossos aplicativos
 
@@ -27,7 +27,7 @@ Explore o FAQ do seu aplicativo abaixo para começar, ou navegue pelas perguntas
 
 ## Escolha seu aplicativo
 
-{{< product-doc-cards section="faq" >}}
+{{< ls-product-doc-cards section="faq" >}}
 
 ## Problemas comuns e respostas
 
@@ -35,7 +35,7 @@ Explore o FAQ do seu aplicativo abaixo para começar, ou navegue pelas perguntas
 
 <div class="hx:w-full">
 
-{{% details title="Por que não consigo fazer login no pCloud em uma versão mais antiga do iOS (15.8.4)?" closed="true" %}}
+{{% ls-details title="Por que não consigo fazer login no pCloud em uma versão mais antiga do iOS (15.8.4)?" closed="true" %}}
 A página de login da web do pCloud pode não ser exibida corretamente em versões mais antigas do iOS como 15.8.4, o que impede a inserção de e-mail e senha na tela de conexão em nuvem.<br><br>
 
 Como solução alternativa, você pode usar o protocolo **WebDAV**, que é suportado pelo pCloud e funciona de forma confiável em todas as versões do iOS.
@@ -49,9 +49,9 @@ Como solução alternativa, você pode usar o protocolo **WebDAV**, que é supor
 Abra o aplicativo → Conexões → Conectar ao armazenamento em nuvem → Escolha **WebDAV** → Insira suas credenciais e URL do servidor.
 
 Este método permitirá que você se conecte ao seu armazenamento pCloud e tenha acesso a seus arquivos sem problemas em dispositivos mais antigos.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Como reproduzir música no AirPlay do Mac (macOS)?" closed="true" %}}
+{{% ls-details title="Como reproduzir música no AirPlay do Mac (macOS)?" closed="true" %}}
 A versão macOS do aplicativo não inclui botões de conexão AirPlay, Chromecast ou Bluetooth integrados como no iOS.<br><br>
 
 Para usar o **AirPlay** no seu MacBook Pro, siga estas etapas:
@@ -62,9 +62,9 @@ Para usar o **AirPlay** no seu MacBook Pro, siga estas etapas:
 4. Selecione o dispositivo desejado para começar a transmitir sua música.  
 
 Isso roteará todo o áudio do sistema (incluindo do Evermusic ou Flacbox) para o dispositivo AirPlay escolhido.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Por que minha compra Premium não está ativada no Mac se eu comprei no iPhone?" closed="true" %}}
+{{% ls-details title="Por que minha compra Premium não está ativada no Mac se eu comprei no iPhone?" closed="true" %}}
 Compras vitalícias e assinaturas são sincronizadas entre iOS e Mac via **iCloud**.<br><br>
 
 Para ativar o Premium no seu Mac:<br>
@@ -76,9 +76,9 @@ Para ativar o Premium no seu Mac:<br>
 - Como alternativa, toque em **Restaurar compras** nas configurações do aplicativo em ambos os dispositivos<br><br>
 
 Seus recursos Premium deverão então ser ativados no Mac automaticamente.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Como posso sincronizar listas de reprodução automaticamente entre dispositivos?" closed="true" %}}
+{{% ls-details title="Como posso sincronizar listas de reprodução automaticamente entre dispositivos?" closed="true" %}}
 Atualmente **não há sincronização automática** para listas de reprodução.<br><br>
 
 Você pode usar uma das seguintes opções:<br>
@@ -88,9 +88,9 @@ Você pode usar uma das seguintes opções:<br>
   - [Como importar listas de reprodução](/docs/howto/how-to-import-m3u-playlist-to-evermusic-and-flacbox/)<br>
 - **Arquivar lista de reprodução ou álbuns** e transferir via ZIP:<br>
   - [Guia de arquivo de lista de reprodução](/docs/howto/how-to-archive-zip-playlists-albums-artists-and-genres-in-evermusic-flacbox-and-transfer-to/)
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="É seguro usar seus aplicativos? Posso desativar a análise?" closed="true" %}}
+{{% ls-details title="É seguro usar seus aplicativos? Posso desativar a análise?" closed="true" %}}
 Sim, sua privacidade é nossa principal prioridade.<br><br>
 
 - Todos os dados — arquivos de música, configurações, logins na nuvem — permanecem no seu dispositivo<br>
@@ -104,18 +104,18 @@ Mais informações:<br>
 
 Se usar anúncios personalizados, o Google Mobile Ads requer que as configurações de consentimento sejam exibidas.<br>
 Usuários Premium não veem anúncios e o SDK de anúncios está completamente desativado.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Seus aplicativos suportam Compartilhamento familiar?" closed="true" %}}
+{{% ls-details title="Seus aplicativos suportam Compartilhamento familiar?" closed="true" %}}
 Sim, o Compartilhamento familiar é suportado.<br><br>
 
 Para compartilhar compras dentro do aplicativo:<br>
 - Certifique-se de que a compra está configurada para ser compartilhada com seu grupo familiar<br>
 - No dispositivo do membro da família, vá para **Configurações > Compras > Restaurar compras**<br>
 - Isso solicitará dados de compra dos servidores da Apple e os ativará no dispositivo deles
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Como acelerar a sincronização de metadados e nuvem?" closed="true" %}}
+{{% ls-details title="Como acelerar a sincronização de metadados e nuvem?" closed="true" %}}
 Para melhorar a velocidade de sincronização, ative tarefas em segundo plano:<br><br>
 
 - **Configurações → Biblioteca de música → Leitura de metadados → Leitura de metadados em segundo plano**<br>
@@ -123,14 +123,14 @@ Para melhorar a velocidade de sincronização, ative tarefas em segundo plano:<b
 
 Além disso, no macOS, aumente a velocidade de leitura de metadados em **Configurações → Biblioteca de música**.<br>
 Se o player estiver ativo (áudio tocando), o iOS não suspenderá o aplicativo, permitindo sincronização contínua.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Como posso cancelar minha assinatura?" closed="true" %}}
+{{% ls-details title="Como posso cancelar minha assinatura?" closed="true" %}}
 Você pode cancelar sua assinatura seguindo as instruções oficiais da Apple:<br>
 👉 [Como cancelar uma assinatura](https://support.apple.com/en-us/118428)
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Como conectar e transmitir áudio do WD MyCloud EX2 Ultra?" closed="true" %}}
+{{% ls-details title="Como conectar e transmitir áudio do WD MyCloud EX2 Ultra?" closed="true" %}}
 
 Quando você adiciona uma conexão no aplicativo via **Conexões > Conectar ao armazenamento em nuvem > My Cloud Home**, ele é oficialmente projetado para suportar dispositivos **WD MyCloud Home**.<br>
 O WD MyCloud EX2 Ultra usa acesso restrito para aplicativos.<br><br>
@@ -144,16 +144,16 @@ No entanto, se você se conectou com sucesso a um **WD MyCloud EX2 Ultra**, **WD
 5. Agora você pode transmiti-los ou baixá-los diretamente<br><br>
 
 ⚠️ Apenas pastas criadas pelo aplicativo serão acessíveis do NAS.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Como me conectar ao Koofr.eu?" closed="true" %}}
+{{% ls-details title="Como me conectar ao Koofr.eu?" closed="true" %}}
 Você pode conectar o Koofr usando **WebDAV**.<br><br>
 
 - Guia de configuração do Koofr WebDAV: [blog koofr.eu](https://koofr.eu/blog/posts/3-ways-to-map-koofr-as-a-network-drive-explained)<br>
 - Guia WebDAV do Evermusic/Flacbox: [Como conectar armazenamento NAS usando WebDAV e ouvir música no iPhone ou Mac](/docs/howto/how-to-connect-nas-storage-using-webdav-and-listen-to-music-on-your-iphone-or-mac/)
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Quais são os esquemas de URL do aplicativo?" closed="true" %}}
+{{% ls-details title="Quais são os esquemas de URL do aplicativo?" closed="true" %}}
 Aqui estão os esquemas suportados:<br><br>
 
 **Evermusic**<br>
@@ -172,35 +172,35 @@ Aqui estão os esquemas suportados:<br><br>
 **Evervideo**<br>
 - iOS: `lsevervideo://`<br>
 - macOS: `lsevervideomac://`
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="A música para de tocar quando o aplicativo está em segundo plano — como corrigir?" closed="true" %}}
+{{% ls-details title="A música para de tocar quando o aplicativo está em segundo plano — como corrigir?" closed="true" %}}
 Se o aplicativo travar ou pausar em segundo plano:<br>
 - Vá para **Configurações > Biblioteca de música > Sincronização de música online > Sincronização em segundo plano → Desativar**<br>
 - **Configurações > Biblioteca de música > Leitura de metadados > Leitura de metadados em segundo plano → Desativar**<br>
 - **Configurações > Gerenciador de arquivos > Transferências em segundo plano → Desativar**
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="A reprodução sem interrupção não está funcionando — como corrigir?" closed="true" %}}
+{{% ls-details title="A reprodução sem interrupção não está funcionando — como corrigir?" closed="true" %}}
 A reprodução sem interrupção depende da versão do iOS e do mecanismo de áudio.<br>
 Tente mudar o mecanismo de áudio:<br>
 - Vá para **Configurações → Player de áudio → Geral → Processador de áudio**<br>
 - Selecione **Core Audio** para melhor suporte sem interrupção
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Por que o aplicativo mostra apenas 100 itens em uma lista?" closed="true" %}}
+{{% ls-details title="Por que o aplicativo mostra apenas 100 itens em uma lista?" closed="true" %}}
 O aplicativo usa paginação para desempenho.<br>
 Para desativá-la:<br>
 - Vá para **Configurações → Personalização → Limite de carregamento de conteúdo → Desativado**<br>
 Agora todos os itens serão carregados de uma vez.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Por que há caracteres estranhos nos metadados?" closed="true" %}}
+{{% ls-details title="Por que há caracteres estranhos nos metadados?" closed="true" %}}
 Tente ativar a normalização de metadados:<br>
 - **Configurações → Biblioteca de música → Leitura de metadados → Normalizar codificação de metadados**
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Por que o aplicativo não consegue ler nomes de pastas com caracteres especiais?" closed="true" %}}
+{{% ls-details title="Por que o aplicativo não consegue ler nomes de pastas com caracteres especiais?" closed="true" %}}
 Este é um problema conhecido com o **protocolo SMB2**.<br><br>
 
 Tente as seguintes soluções:<br>
@@ -210,9 +210,9 @@ Tente as seguintes soluções:<br>
   - Selecione pastas/arquivos usando o menu nativo da Apple<br><br>
 
 Como alternativa, conecte-se usando **WebDAV** ou **DLNA** se o seu NAS os suportar.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Como fazer upload e gerenciar música no iCloud?" closed="true" %}}
+{{% ls-details title="Como fazer upload e gerenciar música no iCloud?" closed="true" %}}
 – **Como faço upload de música para o iCloud?**  <br>
 Vá para [https://www.icloud.com](https://www.icloud.com) no seu navegador, crie uma pasta e faça upload dos seus arquivos de música diretamente do seu Mac ou PC.<br>
 
@@ -225,9 +225,9 @@ Você tem duas opções:  <br>
 
 Saiba mais aqui: [Como transmitir música do iCloud Drive no iPhone ou Mac](/docs/howto/how-to-listen-to-music-from-icloud-drive-on-your-iphone-or-mac/)
 
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Como transferir minha biblioteca de música de 10 GB do Windows 11 para o iPhone para reprodução offline?" closed="true" %}}
+{{% ls-details title="Como transferir minha biblioteca de música de 10 GB do Windows 11 para o iPhone para reprodução offline?" closed="true" %}}
 
 Você tem várias opções confiáveis para mover sua biblioteca de música do PC com Windows 11 para o iPhone e usá-la offline no aplicativo. Escolha o método que funciona melhor para você:
 
@@ -253,6 +253,6 @@ Você tem várias opções confiáveis para mover sua biblioteca de música do P
 
 ⚠️ Ao transferir bibliotecas grandes (10 GB+), uma transferência USB com fio é geralmente a opção mais rápida e estável.
 
-{{% /details %}}
+{{% /ls-details %}}
 
 </div>

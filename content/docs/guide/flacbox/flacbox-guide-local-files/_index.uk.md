@@ -19,7 +19,7 @@ readingTime: 8
 Вбудований файловий менеджер дозволяє редагувати файли (перейменовувати, переміщати, копіювати, завантажувати, видаляти), стежити за передачами та пропонує кілька методів імпорту аудіофайлів — безпосередні завантаження з хмари, синхронізація в офлайн режимі, USB флеш-накопичувачі, Wi-Fi Drive та Finder File Sharing.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Екран Локальних файлів Flacbox" image="/docs/guide/flacbox/img/local-files.webp" >}}
+  {{< ls-card title="" subtitle="Екран Локальних файлів Flacbox" image="/docs/guide/flacbox/img/local-files.webp" >}}
 {{< /cards >}}
 
 ## Завантаження файлів із хмарного сховища
@@ -102,7 +102,7 @@ readingTime: 8
 Показує файли, розташовані на пристрої, але в інших додатках. Їх можна імпортувати за допомогою системного вибору файлів. Для активації вибору виберіть **Відкрити файли…** для вибору файлів або **Відкрити папки…** для вибору папок. Детальні інструкції з імпорту локальної музики доступні [тут](/docs/howto/how-to-play-local-music-stored-on-your-iphone-or-mac).
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox — Папки підключеного пристрою" image="/docs/guide/flacbox/img/connected-device-folders.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox — Папки підключеного пристрою" image="/docs/guide/flacbox/img/connected-device-folders.webp" >}}
 {{< /cards >}}
 
 Ви також можете підключити папку на пристрої та мати швидкий доступ до її вмісту. Скористайтеся пунктом меню **Підключити папку** і виберіть папку на пристрої. Натисніть **Готово**, і додаток створить посилання на цю папку з доступом для читання / запису. Щоб відключити папку, натисніть кнопку **Більше дій** та виберіть **Відключити**.
@@ -137,7 +137,7 @@ readingTime: 8
 - **Видалити** — видалити вибраний файл або папку з пристрою. **Ця дія незворотна.**
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox Локальні файли — Режим вибору" image="/docs/guide/flacbox/img/local-files-selection-mode.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox Локальні файли — Режим вибору" image="/docs/guide/flacbox/img/local-files-selection-mode.webp" >}}
 {{< /cards >}}
 
 ## Меню опцій
@@ -161,7 +161,7 @@ readingTime: 8
 - **Видалити** — видалити файл або папку з пристрою. **Ця дія незворотна**, і видалені файли не можна відновити.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox — Більше дій для локального файлу" image="/docs/guide/flacbox/img/local-files-more-actions-for-file.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox — Більше дій для локального файлу" image="/docs/guide/flacbox/img/local-files-more-actions-for-file.webp" >}}
 {{< /cards >}}
 
 ## Офлайн папки

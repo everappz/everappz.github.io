@@ -12,7 +12,7 @@ authors:
     image: "/images/about/artem-meleshko-founder-everappz.webp"
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 **요약:** [Evermusic 8.7](/products/evermusic)은 iPhone, iPad, Mac을 위한 음질 중심의 업데이트입니다. **진정한 갭리스 재생**(트랙 사이의 멈춤, 클릭음, 틱 소리 없음), 완전한 **스튜디오 오디오 이펙트** 세트 — 리버브, 딜레이, 디스토션, 컴프레서, 크로스피드 — 그리고 ReplayGain 태그 없이 곡마다 라우드니스를 일관되게 유지하는 **EBU R128 음량 정규화**를 제공합니다. **10밴드 이퀄라이저**는 새로운 슬라이더, 더 빠른 프리셋 전환, 가져오고 내보낼 수 있는 커스텀 프리셋, 그리고 개선된 가로 모드 및 iPad 레이아웃으로 새롭게 디자인되었습니다. 내부적으로는 **재구축된 AVAudioEngine 스트리밍 엔진**이 안정성과 형식 지원을 개선하며, **FLAC**과 **Ogg Vorbis**를 포함합니다. **CarPlay**와 **현재 재생 중** 정보는 잠금 화면, 차량 안, 헤드폰 리모컨에서 더 빠르고 정확합니다.
 
@@ -129,50 +129,50 @@ Evermusic 8.7은 하나의 아이디어를 중심으로 만들어졌습니다: *
 
 ## 자주 묻는 질문
 
-{{% details title="Evermusic 8.7의 새로운 기능은 무엇인가요?" closed="true" %}}
+{{% ls-details title="Evermusic 8.7의 새로운 기능은 무엇인가요?" closed="true" %}}
 Evermusic 8.7은 진정한 갭리스 재생, 다섯 가지 스튜디오 오디오 이펙트(리버브, 딜레이, 디스토션, 컴프레서, 크로스피드), EBU R128 음량 정규화, 커스텀 프리셋과 가져오기/내보내기가 가능한 새롭게 디자인된 10밴드 이퀄라이저, 개선된 형식 지원(FLAC과 Ogg Vorbis 포함)을 갖춘 재구축된 AVAudioEngine 스트리밍 엔진, 더 빠르고 정확한 CarPlay와 현재 재생 중 정보, Liquid Glass 디자인 업데이트, 새로워진 홈 화면 위젯, 그리고 버그 및 현지화 수정을 추가합니다.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Evermusic에 진정한 갭리스 재생이 있나요?" closed="true" %}}
+{{% ls-details title="Evermusic에 진정한 갭리스 재생이 있나요?" closed="true" %}}
 네. Evermusic 8.7부터 재생은 진정으로 갭리스입니다: 트랙 사이에 멈춤, 클릭음, 틱 소리가 없습니다. 엔진은 현재 트랙이 재생되는 동안 다음 트랙을 미리 버퍼링하고 디코딩한 뒤 연속된 링 버퍼 위에서 오디오 샘플 사이로 넘겨주므로, 전환이 들리지 않습니다. 로컬 파일, 클라우드 스트림, 미디어 서버에서 작동하며, 라이브 앨범, DJ 믹스, 콘셉트 앨범에 이상적입니다.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Evermusic 8.7에는 어떤 오디오 이펙트가 포함되나요?" closed="true" %}}
+{{% ls-details title="Evermusic 8.7에는 어떤 오디오 이펙트가 포함되나요?" closed="true" %}}
 다섯 가지 실시간 이펙트: **리버브**(13가지 룸 프리셋, 웻/드라이 믹스), **딜레이/에코**(딜레이 타임, 피드백, 로우패스, 믹스를 갖춘 10가지 프리셋), **디스토션**(프리게인과 믹스를 갖춘 22가지 캐릭터 프리셋), **컴프레서**(임계값, 비율, 어택, 릴리스, 확장, 메이크업 게인을 갖춘 완전한 다이내믹스 프로세서와 10가지 프리셋), 그리고 **크로스피드**(레벨과 컷오프 컨트롤과 6가지 프리셋을 갖춘 바우어 bs2b 헤드폰 크로스피드). 각 이펙트는 엄선된 프리셋과 함께 제공되며, 커스텀 설정은 세션 사이에 기억됩니다.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="크로스피드가 무엇이고 왜 사용하나요?" closed="true" %}}
+{{% ls-details title="크로스피드가 무엇이고 왜 사용하나요?" closed="true" %}}
 크로스피드는 각 스테레오 채널의 작고 필터링된 양을 반대편에 섞어, 여러분의 귀가 방 안에서 실제 스피커를 자연스럽게 듣는 방식대로 만듭니다. 헤드폰에서 이것은 좌우로 극단 배치된 녹음의 과장된 "머릿속" 분리를 줄이고 긴 청취를 더 편안하게 만듭니다. Evermusic은 잘 알려진 바우어 스테레오포닉-투-바이노럴(bs2b) 알고리즘을 사용하며 Chu Moy와 Jan Meier 같은 프리셋을 포함합니다. 오래된 1960년대와 1970년대 스테레오 믹스에서 특히 효과적입니다.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Evermusic에서 음량 정규화는 어떻게 작동하나요?" closed="true" %}}
+{{% ls-details title="Evermusic에서 음량 정규화는 어떻게 작동하나요?" closed="true" %}}
 Evermusic 8.7은 EBU R128 표준(ITU-R BS.1770)을 사용해 각 트랙의 지각 라우드니스를 실시간으로 측정하고, 트랙 간 음량이 튀지 않도록 레벨을 일관된 목표를 향해 부드럽게 조정합니다. ReplayGain 태그가 필요 없고 파일을 변경하지 않습니다. 네 가지 프리셋이 제공됩니다 — 약하게 (−20 LUFS), 표준 (−16 LUFS), 강하게 (−14 LUFS), 야간 (−23 LUFS) — 그리고 탐색하거나 트랙을 바꿀 때 정규화가 깔끔하게 재설정됩니다.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Evermusic의 음량 정규화는 ReplayGain과 같은가요?" closed="true" %}}
+{{% ls-details title="Evermusic의 음량 정규화는 ReplayGain과 같은가요?" closed="true" %}}
 같은 목표 — 트랙 간 일관된 라우드니스 — 를 달성하지만 다르게 작동합니다. ReplayGain은 파일 안에 저장된 라우드니스 태그에 의존합니다. Evermusic의 정규화기는 EBU R128을 사용해 라우드니스를 실시간으로 측정하므로, 파일에 태그가 전혀 없어도 클라우드 스트림과 인터넷 라디오를 포함한 모든 소스에서 작동합니다.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Evermusic 이퀄라이저는 밴드가 몇 개이고, 나만의 프리셋을 만들 수 있나요?" closed="true" %}}
+{{% ls-details title="Evermusic 이퀄라이저는 밴드가 몇 개이고, 나만의 프리셋을 만들 수 있나요?" closed="true" %}}
 Evermusic 이퀄라이저는 32 Hz에서 16 kHz를 다루는 10밴드 그래픽 이퀄라이저로, 각 밴드는 0.1 dB 단계로 −12 dB에서 +12 dB까지 조절할 수 있고 −24 dB에서 +24 dB까지의 프리앰프가 있습니다. 내장 프리셋을 포함하고, 커스텀 프리셋을 만들고 저장할 수 있으며, 기기 간에 옮기거나 공유할 수 있도록 `.eqp` 파일로 프리셋 가져오기와 내보내기를 지원합니다.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Evermusic 8.7 이퀄라이저에서 무엇이 바뀌었나요?" closed="true" %}}
+{{% ls-details title="Evermusic 8.7 이퀄라이저에서 무엇이 바뀌었나요?" closed="true" %}}
 이퀄라이저는 iOS 26 시스템 슬라이더와 Liquid Glass 룩을 채택한 더 정밀한 새 슬라이더, 더 빠르고 부드러운 프리셋 전환, 그리고 가로 모드와 iPad에서 개선된 레이아웃(세로 모드의 가로 프리셋 바와 가로 모드의 세로 프리셋 열)으로 새롭게 디자인되었습니다. 커스텀 프리셋과 `.eqp` 가져오기/내보내기가 지원됩니다.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Evermusic 8.7은 FLAC과 Ogg Vorbis를 지원하나요?" closed="true" %}}
+{{% ls-details title="Evermusic 8.7은 FLAC과 Ogg Vorbis를 지원하나요?" closed="true" %}}
 네. 재구축된 엔진은 로컬 파일, 클라우드 드라이브, 미디어 서버에서 MP3, AAC, Apple Lossless (ALAC), WAV, AIFF, AC-3, CAF 등과 함께 FLAC(Core Audio 경유)과 Ogg Vorbis(libvorbisfile 경유)를 재생합니다.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="CarPlay와 잠금 화면에서 무엇이 개선되었나요?" closed="true" %}}
+{{% ls-details title="CarPlay와 잠금 화면에서 무엇이 개선되었나요?" closed="true" %}}
 CarPlay 앨범 아트워크가 긴 목록에서 몇 배 더 빠르게 로드되며, 이전에는 아무것도 표시되지 않던 컴팩트한 iOS 26 목록 행에도 이제 나타납니다. 잠금 화면과 CarPlay의 현재 재생 중 정보가 더 정확합니다 — 제목, 경과 시간, 재생 시간, 재생/일시정지 상태가 함께 캡처되어 서로 어긋날 수 없으며, 버퍼링 상태가 올바르게 보고됩니다. 리모컨 제어(재생, 일시정지, 다음, 이전, 탐색, 셔플, 반복, 속도)가 헤드폰과 차량에서 신뢰성 있게 반응하고, 대용량 라이브러리의 CarPlay 정렬이 더 빠릅니다.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="오디오 이펙트와 이퀄라이저가 클라우드 스트리밍 및 CarPlay에서 작동하나요?" closed="true" %}}
+{{% ls-details title="오디오 이펙트와 이퀄라이저가 클라우드 스트리밍 및 CarPlay에서 작동하나요?" closed="true" %}}
 네. 이펙트, 이퀄라이저, 음량 정규화는 재생 엔진 안에서 네이티브로 실행되므로, Evermusic이 재생하는 모든 것에 적용됩니다 — 로컬 파일, 클라우드 드라이브, 미디어 서버, 인터넷 라디오 — 그리고 CarPlay 재생 중에도, 지원되는 곳에서는 AirPlay와 Chromecast를 통해서도 계속 작동합니다.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Evermusic 8.7은 무료로 업데이트할 수 있고, 어떤 기기를 지원하나요?" closed="true" %}}
+{{% ls-details title="Evermusic 8.7은 무료로 업데이트할 수 있고, 어떤 기기를 지원하나요?" closed="true" %}}
 네. Evermusic은 App Store에서 무료로 다운로드할 수 있으며, 8.7은 기존 사용자를 위한 무료 업데이트이고 고급 기능을 위한 선택적 인앱 업그레이드가 있습니다. iPhone, iPad, Mac에서 실행됩니다. CarPlay는 CarPlay 호환 차량 또는 헤드 유닛이 필요합니다.
-{{% /details %}}
+{{% /ls-details %}}

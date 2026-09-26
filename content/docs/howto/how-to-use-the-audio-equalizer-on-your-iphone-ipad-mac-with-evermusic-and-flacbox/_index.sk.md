@@ -7,7 +7,7 @@ tags: ["hudba", "zvuk", "ekvalizér", "10-pásmový", "zosilnenie", "konfigurác
 keywords: ["audio ekvalizér iPhone", "predvoľby EQ Evermusic", "10-pásmový ekvalizér Flacbox", "nastavenie basov výšok iOS", "ekvalizér Mac hudobná aplikácia", "zosilnenie zvuku predzosilňovačom", "vlastné zvukové predvoľby"]
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **Zhrnutie:** Evermusic a Flacbox obsahujú profesionálny 10-pásmový audio ekvalizér s predvoľbami (Rock, Hip-Hop, Bass Booster a ďalšie), vytváraním vlastných predvolieb a predzosilňovačom na zosilnenie hlasitosti. Dostupné na iPhone, iPade a Macu.
@@ -105,26 +105,26 @@ Vylepšite svoj hudobný zážitok, prispôsobte zvuk akémukoľvek scenáru a v
 
 ## Často kladené otázky
 
-{{% details title="Funguje ekvalizér so všetkými audio formátmi?" closed="true" %}}
+{{% ls-details title="Funguje ekvalizér so všetkými audio formátmi?" closed="true" %}}
 Áno. 10-pásmový EQ v Evermusic a Flacbox funguje s MP3, FLAC, AAC, WAV, ALAC, OGG a všetkými ostatnými podporovanými formátmi.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Budú nastavenia EQ platiť pre všetky skladby?" closed="true" %}}
+{{% ls-details title="Budú nastavenia EQ platiť pre všetky skladby?" closed="true" %}}
 Áno. Po aktivácii ekvalizéra a výbere predvoľby sa aplikuje na všetko prehrávanie, kým ju nezmeníte alebo nevypnete.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Môžem vytvoriť viac ako jednu vlastnú predvoľbu?" closed="true" %}}
+{{% ls-details title="Môžem vytvoriť viac ako jednu vlastnú predvoľbu?" closed="true" %}}
 Áno. Môžete vytvárať, ukladať a prepínať medzi viacerými vlastnými predvoľbami. Na zálohovanie použite funkciu exportu.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Spôsobuje predzosilňovač skreslenie?" closed="true" %}}
+{{% ls-details title="Spôsobuje predzosilňovač skreslenie?" closed="true" %}}
 Môže, ak je nastavený príliš vysoko. Počas úprav sledujte indikátory úrovne zvuku. Ak úrovne oria (dosahujú maximum), mierne znížte zosilnenie predzosilňovača.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Je ekvalizér dostupný v Evermusic aj Flacbox?" closed="true" %}}
+{{% ls-details title="Je ekvalizér dostupný v Evermusic aj Flacbox?" closed="true" %}}
 Áno. Obe aplikácie obsahujú rovnaký 10-pásmový ekvalizér s predvoľbami, vlastnými predvoľbami a predzosilňovačom.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Môžem zdieľať svoje predvoľby EQ s niekým iným?" closed="true" %}}
+{{% ls-details title="Môžem zdieľať svoje predvoľby EQ s niekým iným?" closed="true" %}}
 Áno. Použite možnosť Export konfigurácie na uloženie predvolieb do súboru a potom ho zdieľajte. Druhá osoba ho môže importovať pomocou Import konfigurácie.
-{{% /details %}}
+{{% /ls-details %}}

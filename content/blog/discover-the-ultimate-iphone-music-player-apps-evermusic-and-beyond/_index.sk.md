@@ -12,7 +12,7 @@ authors:
     image: "/images/about/artem-meleshko-founder-everappz.webp"
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 **Zhrnutie:** Najlepší prehrávač hudby pre iPhone závisí od vašich potrieb. **Evermusic** je ideálny na prehrávanie z cloudového úložiska a flexibilitu formátov. **Apple Music** vyhovuje tým, ktorí sú hlboko v ekosystéme Apple. **Spotify** vyniká v objavovaní hudby. **VLC** zvládne každý formát súborov zadarmo. **Amazon Music** sa dobre spája s Alexa a Prime.
 
@@ -128,22 +128,22 @@ Amazon Music sa integruje s ekosystémom Amazon, ponúka hlasové ovládanie cez
 
 ## Často kladené otázky
 
-{{% details title="Aký je najlepší bezplatný prehrávač hudby pre iPhone?" closed="true" %}}
+{{% ls-details title="Aký je najlepší bezplatný prehrávač hudby pre iPhone?" closed="true" %}}
 Na prehrávanie vlastných súborov sú Evermusic a VLC bezplatné možnosti. Evermusic pridáva integráciu s cloudovým úložiskom, zatiaľ čo VLC podporuje najširší rozsah formátov súborov.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Môžem na iPhone prehrávať súbory FLAC?" closed="true" %}}
+{{% ls-details title="Môžem na iPhone prehrávať súbory FLAC?" closed="true" %}}
 Áno. Evermusic a VLC oba podporujú prehrávanie FLAC na iPhone. Apple Music a Spotify neprehrajú súbory FLAC priamo.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Ktorá aplikácia na prehrávanie hudby funguje s cloudovým úložiskom?" closed="true" %}}
+{{% ls-details title="Ktorá aplikácia na prehrávanie hudby funguje s cloudovým úložiskom?" closed="true" %}}
 Evermusic je popredný prehrávač hudby pre iPhone so vstavanou podporou cloudového úložiska. Pripája sa k iCloud Drive, Dropbox, Google Drive, OneDrive, pCloud a ďalším službám.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Je Evermusic lepší ako Apple Music?" closed="true" %}}
+{{% ls-details title="Je Evermusic lepší ako Apple Music?" closed="true" %}}
 Slúžia na rôzne účely. Evermusic prehráva vaše vlastné hudobné súbory z cloudového a lokálneho úložiska. Apple Music je streamovacia služba s predplatným a katalógom 100M+ skladieb. Ak vlastníte svoje hudobné súbory, Evermusic je lepšia voľba.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Môžem používať Spotify offline na iPhone?" closed="true" %}}
+{{% ls-details title="Môžem používať Spotify offline na iPhone?" closed="true" %}}
 Áno, ale iba s predplatným Spotify Premium. Bezplatní používatelia Spotify nemôžu sťahovať skladby na offline prehrávanie.
-{{% /details %}}
+{{% /ls-details %}}

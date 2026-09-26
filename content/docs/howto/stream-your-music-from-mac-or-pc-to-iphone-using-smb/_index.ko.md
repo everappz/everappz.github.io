@@ -7,7 +7,7 @@ tags: ["cloud", "streaming", "computer", "mp3", "file", "downloader", "manager",
 keywords: ["Mac에서 iPhone으로 음악 스트리밍", "SMB 오디오 스트리밍 iOS", "Evermusic SMB 설정", "PC 음악 iPhone 연결", "Mac 음악 공유 iOS", "SMB Windows 파일 스트리밍", "Evermusic PC 폴더 접근"]
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **요약:** iPhone 또는 iPad용 Evermusic 앱을 사용하여 SMB를 통해 로컬 네트워크에서 Mac 또는 Windows PC의 음악을 스트리밍하세요. 동기화 불필요, 복사 불필요 -- 컴퓨터에서 파일 공유를 활성화하고, 앱에서 연결한 다음 재생하면 됩니다. 설정은 5분 이내로 완료됩니다.
@@ -102,26 +102,26 @@ Evermusic으로 iPhone 또는 iPad에서 음악 컬렉션을 원활하게 즐기
 
 ## 자주 묻는 질문
 
-{{% details title="iTunes 없이 PC에서 iPhone으로 음악을 스트리밍할 수 있나요?" closed="true" %}}
+{{% ls-details title="iTunes 없이 PC에서 iPhone으로 음악을 스트리밍할 수 있나요?" closed="true" %}}
 네. Evermusic은 로컬 Wi-Fi 네트워크에서 SMB를 통해 PC에 연결합니다. iTunes가 필요 없습니다. PC에서 파일 공유를 활성화하고 앱에서 연결하기만 하면 됩니다.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="SMB 스트리밍은 모바일 데이터를 사용하나요?" closed="true" %}}
+{{% ls-details title="SMB 스트리밍은 모바일 데이터를 사용하나요?" closed="true" %}}
 아니요. SMB는 로컬 Wi-Fi 네트워크를 통해 작동합니다. 인터넷 연결이나 모바일 데이터가 필요하지 않습니다.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Evermusic은 SMB를 통해 어떤 오디오 형식을 지원하나요?" closed="true" %}}
+{{% ls-details title="Evermusic은 SMB를 통해 어떤 오디오 형식을 지원하나요?" closed="true" %}}
 Evermusic은 MP3, FLAC, AAC, WAV, AIFF, OGG, WMA, ALAC 및 기타 일반적인 오디오 형식을 지원합니다. 파일은 SMB 공유에서 직접 재생됩니다.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="NAS에서 iPhone으로 음악을 스트리밍할 수 있나요?" closed="true" %}}
+{{% ls-details title="NAS에서 iPhone으로 음악을 스트리밍할 수 있나요?" closed="true" %}}
 네. NAS가 SMB를 지원하는 경우(Synology, QNAP, WD My Cloud을 포함한 대부분이 지원), 이 가이드의 동일한 단계를 사용하여 연결할 수 있습니다.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="스트리밍하는 동안 컴퓨터를 켜 놓아야 하나요?" closed="true" %}}
+{{% ls-details title="스트리밍하는 동안 컴퓨터를 켜 놓아야 하나요?" closed="true" %}}
 네. Evermusic은 컴퓨터에서 직접 파일을 스트리밍하므로 컴퓨터가 켜져 있고 iPhone과 동일한 네트워크에 연결되어 있어야 합니다.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="SMB 스트리밍에 파일 크기 제한이 있나요?" closed="true" %}}
+{{% ls-details title="SMB 스트리밍에 파일 크기 제한이 있나요?" closed="true" %}}
 아니요. Evermusic은 SMB를 통해 모든 크기의 파일을 스트리밍합니다. 큰 무손실 파일(FLAC, WAV)도 문제 없이 작동합니다.
-{{% /details %}}
+{{% /ls-details %}}

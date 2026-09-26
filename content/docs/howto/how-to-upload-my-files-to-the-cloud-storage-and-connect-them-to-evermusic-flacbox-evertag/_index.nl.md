@@ -7,7 +7,7 @@ tags: ["evermusic", "flacbox", "cloud", "bestand", "account", "beheerder", "verb
 keywords: ["cloudservice verbinden met Evermusic", "bestanden uploaden naar Google Drive", "Flacbox cloudintegratie", "OneDrive gebruiken met Evermusic", "Evertag cloud bestandstoegang", "Dropbox verbinden met iOS muziekspeler", "bestandsbeheer voor cloudservices"]
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **Samenvatting:** Upload uw muziek- of mediabestanden naar een ondersteunde cloudservice (Google Drive, Dropbox, OneDrive en meer), en verbind vervolgens die service in Evermusic, Flacbox of Evertag om uw bestanden rechtstreeks op iPhone, iPad of Mac te streamen of downloaden.
@@ -76,38 +76,38 @@ Zeg vaarwel tegen opslagbeperkingen en hallo tegen gemak!
 
 ## Veelgestelde vragen
 
-{{% details title="Welke cloudservices worden ondersteund?" closed="true" %}}
+{{% ls-details title="Welke cloudservices worden ondersteund?" closed="true" %}}
 Evermusic, Flacbox en Evertag ondersteunen Google Drive, Dropbox, OneDrive, Box, MediaFire, Yandex.Disk, MEGA, MyDrive, pCloud en andere cloudproviders. U kunt ook aangepaste WebDAV-, SMB- en FTP-servers verbinden.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Kan ik muziek rechtstreeks vanuit de cloud streamen zonder te downloaden?" closed="true" %}}
+{{% ls-details title="Kan ik muziek rechtstreeks vanuit de cloud streamen zonder te downloaden?" closed="true" %}}
 Ja. Alle drie de apps ondersteunen het streamen van audiobestanden rechtstreeks vanuit uw verbonden cloudopslag. U kunt ook bestanden downloaden voor offline afspelen wanneer u geen internettoegang hebt.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Is er een bestandsgrootte- of opslaglimiet in de app?" closed="true" %}}
+{{% ls-details title="Is er een bestandsgrootte- of opslaglimiet in de app?" closed="true" %}}
 De apps leggen geen eigen bestandsgrootte- of opslaglimieten op. Uw beschikbare opslag is afhankelijk van uw cloudserviceplan en de lokale opslag van uw apparaat voor gedownloade bestanden.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Kan ik meerdere cloudaccounts tegelijk verbinden?" closed="true" %}}
+{{% ls-details title="Kan ik meerdere cloudaccounts tegelijk verbinden?" closed="true" %}}
 Ja. U kunt meerdere cloudservices en meerdere accounts van dezelfde provider tegelijk verbinden. Alle verbonden accounts verschijnen in het tabblad Verbindingen voor eenvoudig wisselen.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Moet ik bestanden opnieuw uploaden als ik naar een andere app overstap?" closed="true" %}}
+{{% ls-details title="Moet ik bestanden opnieuw uploaden als ik naar een andere app overstap?" closed="true" %}}
 Nee. Aangezien uw bestanden in de cloud zijn opgeslagen, kunt u hetzelfde cloudaccount verbinden met Evermusic, Flacbox of Evertag zonder iets opnieuw te uploaden. Elke app heeft toegang tot dezelfde bestanden vanuit uw cloudopslag.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Zijn mijn cloudaccountgegevens veilig?" closed="true" %}}
+{{% ls-details title="Zijn mijn cloudaccountgegevens veilig?" closed="true" %}}
 Ja. De app gebruikt alleen officiële SDK's en versleutelde verbindingen om met cloudservices te communiceren. Uw inloggegevens en wachtwoord worden nooit door de app opgeslagen. Wanneer u inlogt, toont de app de officiële autorisatiepagina van de cloudservice. Na succesvolle autorisatie stuurt de cloudprovider een autorisatietoken naar de app, dat veilig wordt opgeslagen in de Keychain van het apparaat. Dit token wordt gebruikt voor alle API-verzoeken.<br><br>
 De app deelt geen informatie uit uw cloudaccount. U kunt de toegang op elk moment intrekken via de instellingenpagina van uw cloudaccount in een webbrowser, of het account ontkoppelen in de app.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Hoe ontkoppel ik een cloudservice of wijzig ik de configuratie?" closed="true" %}}
+{{% ls-details title="Hoe ontkoppel ik een cloudservice of wijzig ik de configuratie?" closed="true" %}}
 Zoek de cloudopslag in het tabblad Verbindingen van de app en tik op de knop **...** ernaast. U ziet deze opties:<br>
 - **Hernoemen** -- wijzig de weergavenaam van de cloudservice<br>
 - **Instellingen** -- wijzig de configuratie of autoriseer opnieuw als het token is verlopen<br>
 - **Ontkoppelen** -- verwijder de verbinding volledig. Dit verwijdert alle nummers van deze cloudservice uit de muziekbibliotheek van de app, maar bestanden blijven op de server
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Hoe trek ik de toegang van de app tot mijn cloudaccount in?" closed="true" %}}
+{{% ls-details title="Hoe trek ik de toegang van de app tot mijn cloudaccount in?" closed="true" %}}
 Log in op uw cloudaccount in een webbrowser en open de accountinstellingen of beveiligingspagina. Zoek de lijst met verbonden apps van derden en verwijder de app die u niet langer wilt autoriseren. U kunt het cloudaccount ook ontkoppelen in de app -- hiermee wordt het autorisatietoken van uw apparaat verwijderd. Als u de app volledig verwijdert, worden alle gedownloade gegevens en toegangstokens automatisch verwijderd.
-{{% /details %}}
+{{% /ls-details %}}

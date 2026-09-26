@@ -6,7 +6,7 @@ tags: ["τοπική μουσική", "μουσική εκτός σύνδεση�
 keywords: ["πώς να αναπαράγετε τοπική μουσική στο iPhone", "αναπαραγωγή μουσικής από αποθηκευτικό χώρο συσκευής", "αναπαραγωγέας μουσικής εκτός σύνδεσης iOS", "οδηγός εφαρμογής Evermusic", "αναπαραγωγέας FLAC Flacbox", "αναπαραγωγή τοπικών αρχείων iOS", "μουσική βιβλιοθήκη Mac", "εφαρμογή μουσικής για τοπικά αρχεία", "αναπαραγωγή κατεβασμένων τραγουδιών στο iPhone", "πώς να χρησιμοποιήσετε το Evermusic με τοπικά αρχεία"]
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **Περίληψη:** Εγκαταστήστε το [Evermusic](/products/evermusic) (MP3/WAV) ή το [Flacbox](/products/flacbox) (FLAC/DSD), ανοίξτε οποιοδήποτε τοπικό αρχείο ήχου ή φάκελο και ξεκινήστε την αναπαραγωγή. Προσθέστε φακέλους στα **Αγαπημένα** για γρήγορη πρόσβαση, εισαγάγετε κομμάτια στη Μουσική Βιβλιοθήκη σας ή δημιουργήστε λίστες αναπαραγωγής.
@@ -24,10 +24,10 @@ keywords: ["πώς να αναπαράγετε τοπική μουσική στ�
 Για να ξεκινήσετε το ταξίδι σας στον κόσμο της τοπικής μουσικής στο iPhone και Mac σας, ξεκινήστε εγκαθιστώντας είτε το Evermusic (για τυπικές μορφές ήχου όπως mp3 και wav) είτε το Flacbox (για μουσική χωρίς απώλειες σε dsd και flac). Και οι δύο εφαρμογές είναι διαθέσιμες για iOS και macOS και μπορείτε να τις κατεβάσετε δωρεάν.
 
 {{< cards >}}
-  {{< card link="https://apps.apple.com/us/app/evermusic-cloud-music-player/id885367198?pt=95781850&ct=everappzcom&mt=8" title="Λήψη Evermusic για iOS" tag="iOS" >}}
-  {{< card link="https://apps.apple.com/us/app/flacbox-hi-res-equalizer/id1097564256?pt=95781850&ct=everappzcom&mt=8" title="Λήψη Flacbox για iOS" tag="iOS" >}}
-  {{< card link="https://apps.apple.com/us/app/evermusic-hi-res-music-player/id1564384601?pt=95781850&ct=everappzcom&mt=8" title="Λήψη Evermusic για Mac" tag="macOS" >}}
-  {{< card link="https://apps.apple.com/us/app/flacbox-hi-res-music-player/id1594027432?pt=95781850&ct=everappzcom&mt=8" title="Λήψη Flacbox για Mac" tag="macOS" >}}
+  {{< ls-card link="https://apps.apple.com/us/app/evermusic-cloud-music-player/id885367198?pt=95781850&ct=everappzcom&mt=8" title="Λήψη Evermusic για iOS" tag="iOS" >}}
+  {{< ls-card link="https://apps.apple.com/us/app/flacbox-hi-res-equalizer/id1097564256?pt=95781850&ct=everappzcom&mt=8" title="Λήψη Flacbox για iOS" tag="iOS" >}}
+  {{< ls-card link="https://apps.apple.com/us/app/evermusic-hi-res-music-player/id1564384601?pt=95781850&ct=everappzcom&mt=8" title="Λήψη Evermusic για Mac" tag="macOS" >}}
+  {{< ls-card link="https://apps.apple.com/us/app/flacbox-hi-res-music-player/id1594027432?pt=95781850&ct=everappzcom&mt=8" title="Λήψη Flacbox για Mac" tag="macOS" >}}
 {{< /cards >}}
 
 
@@ -135,22 +135,22 @@ keywords: ["πώς να αναπαράγετε τοπική μουσική στ�
 
 ## Συχνές ερωτήσεις
 
-{{% details title="Ποιες μορφές ήχου μπορούν να αναπαράγουν τα Evermusic και Flacbox;" closed="true" %}}
+{{% ls-details title="Ποιες μορφές ήχου μπορούν να αναπαράγουν τα Evermusic και Flacbox;" closed="true" %}}
 Το Evermusic αναπαράγει MP3, WAV, AAC, M4A και άλλες τυπικές μορφές. Το Flacbox προσθέτει υποστήριξη για FLAC, DSD, OGG, OPUS, APE, WMA και ALAC.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Αντιγράφουν αυτές οι εφαρμογές αρχεία στον αποθηκευτικό χώρο της εφαρμογής;" closed="true" %}}
+{{% ls-details title="Αντιγράφουν αυτές οι εφαρμογές αρχεία στον αποθηκευτικό χώρο της εφαρμογής;" closed="true" %}}
 Από προεπιλογή, τα αρχεία αναπαράγονται από την αρχική τους τοποθεσία χωρίς αντιγραφή. Για να αλλάξετε αυτή τη συμπεριφορά, ενεργοποιήστε την "Πάντα αντιγραφή αρχείων κατά το άνοιγμα" στις **Ρυθμίσεις** > Διαχείριση αρχείων.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Μπορώ να οργανώσω την τοπική μουσική ανά καλλιτέχνη και άλμπουμ;" closed="true" %}}
+{{% ls-details title="Μπορώ να οργανώσω την τοπική μουσική ανά καλλιτέχνη και άλμπουμ;" closed="true" %}}
 Ναι. Εισαγάγετε αρχεία στη Μουσική Βιβλιοθήκη (Βήμα 4) και η εφαρμογή διαβάζει τα μεταδεδομένα για να ομαδοποιήσει τα κομμάτια ανά Καλλιτέχνη, Άλμπουμ, Είδος και Συνθέτη.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Πώς μεταφέρω μουσική από τον υπολογιστή μου στο iPhone;" closed="true" %}}
+{{% ls-details title="Πώς μεταφέρω μουσική από τον υπολογιστή μου στο iPhone;" closed="true" %}}
 Χρησιμοποιήστε την Κοινή χρήση αρχείων iTunes (USB), WiFi Drive (ασύρματα) ή SMB (streaming). Δείτε τον αναλυτικό οδηγό μας: [Μεταφορά και αναπαραγωγή τοπικών αρχείων στο iPhone](/docs/howto/how-to-play-local-itunes-files-on-my-iphone/).
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Είναι δωρεάν τα Evermusic και Flacbox;" closed="true" %}}
+{{% ls-details title="Είναι δωρεάν τα Evermusic και Flacbox;" closed="true" %}}
 Ναι, και οι δύο εφαρμογές είναι δωρεάν για λήψη με βασικές λειτουργίες συμπεριλαμβανομένων αναπαραγωγής, ισοσταθμιστή και cloud streaming. Οι δωρεάν εκδόσεις έχουν κάποιους περιορισμούς (αριθμός λιστών αναπαραγωγής, λογαριασμών cloud, φακέλων εκτός σύνδεσης). Η αναβάθμιση σε Premium αφαιρεί αυτούς τους περιορισμούς.
-{{% /details %}}
+{{% /ls-details %}}

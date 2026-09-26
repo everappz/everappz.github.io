@@ -15,7 +15,7 @@ readingTime: 5
 **Etiket Düzenleyicisi**, ses dosyası meta verilerini görüntüleyip düzenleyebileceğiniz Evertag uygulamasının ana ekranıdır. Bu ekranı **Yerel Dosyalar** bölümünden veya herhangi bir bağlı **bulut depolama** hesabından bir dosyaya dokunarak açın.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evertag Etiket Düzenleyicisi Ekranı" image="/docs/guide/evertag/img/tag-editor.webp" >}}
+  {{< ls-card title="" subtitle="Evertag Etiket Düzenleyicisi Ekranı" image="/docs/guide/evertag/img/tag-editor.webp" >}}
 {{< /cards >}}
 
 ## Düzenleme Modları
@@ -38,7 +38,7 @@ Varsayılan olarak uygulama, etiket düzenleyicisini yalnızca ana düzenleme se
 Mevcut tüm etiketlere erişmek için ekranın altına kaydırın ve **Genişletilmiş etiketleri göster** seçeneğine dokunun. Bu, **MusicBrainz Etiketleri**, **Şarkı Sözleri**, **Danışmanlık Derecelendirmeleri**, replay-gain değerleri, sıralama düzenleri, podcast meta verileri ve daha fazlası dahil **120'den fazla meta veri alanını** düzenlemenize olanak tanıyan genişletilmiş moda geçer. Genişletilmiş etiketleri göster seçeneğini her zaman açık olacak şekilde kalıcı olarak değiştirmek için **Ayarlar → Ses etiketi düzenleyicisi → Ana ekrandaki düğmeler** kısmını kullanın.
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Alt Eylemler Paneli" image="/docs/guide/evertag/img/tag-editor-bottom-actions.webp" >}}
+{{< ls-card title="" subtitle="Alt Eylemler Paneli" image="/docs/guide/evertag/img/tag-editor-bottom-actions.webp" >}}
 {{< /cards >}}
 
 ## Toplu Mod
@@ -53,7 +53,7 @@ Toplu düzenlemeye iki şekilde girebilirsiniz:
    - Herhangi bir dosyayı açın, alta kaydırın ve aynı klasördeki tüm dosyaları yüklemek için **Dosyaları eş zamanlı düzenle**'ye dokunun.
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Toplu Düzenleme Modu" image="/docs/guide/evertag/img/tag-editor-batch-editing.webp" >}}
+{{< ls-card title="" subtitle="Toplu Düzenleme Modu" image="/docs/guide/evertag/img/tag-editor-batch-editing.webp" >}}
 {{< /cards >}}
 
 Düzenledikten sonra değişiklikleri uygulamak için **Kaydet**'e dokunun.
@@ -72,19 +72,19 @@ Genişletilmiş düzenleyici **Şarkı Sözleri** alanını ortaya çıkarır. �
 Her kısayol yalnızca ilgili hizmet cihazınızdan erişilebilir olduğunda görünür. Bir hizmete dokunun, istediğiniz şarkı sözlerini (veya LRC zaman damgalarını) kopyalayın, Evertag'a geri dönün ve metin alanına yapıştırın — ardından şarkı sözlerini ses dosyasının etiketlerine geri yazmak için **Kaydet**'e dokunun.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Şarkı Sözleri Sayfaları" image="/docs/guide/evertag/img/tag-editor-lyrics-pages.webp" >}}
+  {{< ls-card title="" subtitle="Şarkı Sözleri Sayfaları" image="/docs/guide/evertag/img/tag-editor-lyrics-pages.webp" >}}
 {{< /cards >}}
 
 Seçiciden bir dil seçin:
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Şarkı Sözleri Dil Seçici" image="/docs/guide/evertag/img/tag-editor-lyrics-language-select.webp" >}}
+  {{< ls-card title="" subtitle="Şarkı Sözleri Dil Seçici" image="/docs/guide/evertag/img/tag-editor-lyrics-language-select.webp" >}}
 {{< /cards >}}
 
 Ardından şarkı sözleri metnini yapıştırın veya yazın. Evertag hem düz metin hem de zaman damgalı (senkronize) şarkı sözlerini destekler — yer tutucu, LRC stili biçiminin bir örneğini gösterir; bu tam olarak Lrclib ve Lyricsify'ın senkronize sonuçlar için döndürdüğü şeydir.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Şarkı Sözleri Metin Düzenleyicisi" image="/docs/guide/evertag/img/tag-editor-lyrics-text.webp" >}}
+  {{< ls-card title="" subtitle="Şarkı Sözleri Metin Düzenleyicisi" image="/docs/guide/evertag/img/tag-editor-lyrics-text.webp" >}}
 {{< /cards >}}
 
 ## Puan ve Danışmanlık Derecelendirmesi Ayarla
@@ -96,7 +96,7 @@ Genişletilmiş düzenleyici, **Danışmanlık Derecelendirmesi** segmentli kont
 Bir parçaya bir ila beş yıldız arasında kişisel bir puan vermek için **Puan** alanını kullanın. Değer, dosyanın standart puan etiketine yazılır (ID3 için POPM, MP4 için `rate`, Vorbis/APE için `RATING` vb.), böylece bu etiketi okuyan diğer uygulamalar — Music uygulaması, Plex, Roon ve çoğu masaüstü etiketi düzenleyicisi dahil — puanlarınızı hemen alır.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Puan" image="/docs/guide/evertag/img/tag-editor-rating.webp" >}}
+  {{< ls-card title="" subtitle="Puan" image="/docs/guide/evertag/img/tag-editor-rating.webp" >}}
 {{< /cards >}}
 
 ### Danışmanlık Derecelendirmesi
@@ -117,7 +117,7 @@ Bu alanı ayarlamak veya düzeltmek isteyeceğiniz durumlar:
 Değer, dosya formatı için standart danışmanlık derecelendirmesi alanında saklanır (MP4 için `rtng`, ID3 için `TXXX:ITUNESADVISORY`, Vorbis için `ITUNESADVISORY`), böylece ebeveyn danışmanlık meta verilerini okuyan tüm oynatıcılar güncellemenizi görür.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Şarkı Sözleri Danışmanlık Derecelendirmesi" image="/docs/guide/evertag/img/lyrics-advisory-rating.webp" >}}
+  {{< ls-card title="" subtitle="Şarkı Sözleri Danışmanlık Derecelendirmesi" image="/docs/guide/evertag/img/lyrics-advisory-rating.webp" >}}
 {{< /cards >}}
 
 ## Albüm Kapağını Düzenle
@@ -129,7 +129,7 @@ Albüm kapağını değiştirmek için:
 3. Kapak resmi olarak uygulanacak bir resim seçin.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Resim Seç" image="/docs/guide/evertag/img/select-image.webp" >}}
+  {{< ls-card title="" subtitle="Resim Seç" image="/docs/guide/evertag/img/select-image.webp" >}}
 {{< /cards >}}
 
 ## Etiket Düzenleyicisinde Daha Fazla Eylem
@@ -137,7 +137,7 @@ Albüm kapağını değiştirmek için:
 Ekstra düzenleme seçenekleri, artwork görünümünün altındaki araç çubuğu aracılığıyla kullanılabilir.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Daha Fazla Eylem Menüsü" image="/docs/guide/evertag/img/tag-editor-more-actions.webp" >}}
+  {{< ls-card title="" subtitle="Daha Fazla Eylem Menüsü" image="/docs/guide/evertag/img/tag-editor-more-actions.webp" >}}
 {{< /cards >}}
 
 ### Ses Etiketlerini Otomatik Ara
@@ -150,13 +150,13 @@ Uygulama, **50 milyondan** fazla parça içeren en kapsamlı etiket veritabanlar
 Doğru albüm kapağını web'de aramak için meta verileri kullanın.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Albüm Kapağı Ara" image="/docs/guide/evertag/img/search-album-cover.webp" >}}
+  {{< ls-card title="" subtitle="Albüm Kapağı Ara" image="/docs/guide/evertag/img/search-album-cover.webp" >}}
 {{< /cards >}}
 
 Bulunduktan sonra sistem bağlam menüsünü kullanarak resmi **Fotoğraflar**'a kaydedin.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Fotoğraflara Resim Ekle" image="/docs/guide/evertag/img/add-image-to-photos.webp" >}}
+  {{< ls-card title="" subtitle="Fotoğraflara Resim Ekle" image="/docs/guide/evertag/img/add-image-to-photos.webp" >}}
 {{< /cards >}}
 
 Bundan sonra etiket düzenleyicisine geri dönün, Kamera simgesine dokunun, **Fotoğraf Kütüphanesi**'ne gidin ve kaydedilen resmi seçin. Uygulama, onu ses dosyanızın kapağı olarak ayarlayacaktır.
@@ -178,19 +178,19 @@ MusicBrainz veritabanını kullanarak albüm meta verilerini manuel olarak aray�
 - Albümü seçin
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Albüm Seç" image="/docs/guide/evertag/img/select-album-results.webp" >}}
+  {{< ls-card title="" subtitle="Albüm Seç" image="/docs/guide/evertag/img/select-album-results.webp" >}}
 {{< /cards >}}
 
 - Doğru şarkıyı seçin
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Şarkı Seç" image="/docs/guide/evertag/img/select-a-song.webp" >}}
+  {{< ls-card title="" subtitle="Şarkı Seç" image="/docs/guide/evertag/img/select-a-song.webp" >}}
 {{< /cards >}}
 
 - Hangi etiketlerin uygulanacağını seçin
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Ses Etiketleri Seç" image="/docs/guide/evertag/img/select-audio-tags.webp" >}}
+  {{< ls-card title="" subtitle="Ses Etiketleri Seç" image="/docs/guide/evertag/img/select-audio-tags.webp" >}}
 {{< /cards >}}
 
 Seçilen meta verileri parçanıza uygulamak için **Tamamlandı**'ya dokunun.

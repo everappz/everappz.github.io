@@ -12,7 +12,7 @@ authors:
     image: "/images/about/artem-meleshko-founder-everappz.webp"
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 **Kurzfassung:** [Evermusic 8.7](/products/evermusic) ist ein Release für Klangqualität für iPhone, iPad und Mac. Es bringt **echte lückenlose Wiedergabe** (keine Pausen, kein Klicken oder Knacken zwischen den Titeln), ein komplettes Set an **Studio-Audioeffekten** – Hall, Delay, Verzerrung, Kompressor und Crossfeed – sowie eine **EBU-R128-Lautstärkenormalisierung**, die die Lautheit von Song zu Song ohne ReplayGain-Tags gleichbleibend hält. Der **10-Band-Equalizer** wurde neu gestaltet, mit neuen Reglern, schnellerem Preset-Wechsel, eigenen Presets zum Importieren und Exportieren sowie einem besseren Layout im Querformat und auf dem iPad. Im Inneren verbessert eine **neu entwickelte AVAudioEngine-Streaming-Engine** die Zuverlässigkeit und Formatunterstützung, darunter **FLAC** und **Ogg Vorbis**. **CarPlay** und **Aktuelle Wiedergabe** sind schneller und genauer auf dem Sperrbildschirm, im Auto und über Fernbedienungen an Kopfhörern.
 
@@ -129,50 +129,50 @@ Wenn Ihnen die App gefällt, hinterlassen Sie bitte eine Bewertung im App Store 
 
 ## Häufig gestellte Fragen
 
-{{% details title="Was ist neu in Evermusic 8.7?" closed="true" %}}
+{{% ls-details title="Was ist neu in Evermusic 8.7?" closed="true" %}}
 Evermusic 8.7 bringt echte lückenlose Wiedergabe, fünf Studio-Audioeffekte (Hall, Delay, Verzerrung, Kompressor und Crossfeed), EBU-R128-Lautstärkenormalisierung, einen neu gestalteten 10-Band-Equalizer mit eigenen Presets und Import/Export, eine neu entwickelte AVAudioEngine-Streaming-Engine mit verbesserter Formatunterstützung (darunter FLAC und Ogg Vorbis), ein schnelleres und genaueres CarPlay und Aktuelle Wiedergabe, Liquid-Glass-Design-Updates, aufgefrischte Home-Bildschirm-Widgets sowie Fehler- und Lokalisierungskorrekturen.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Hat Evermusic echte lückenlose Wiedergabe?" closed="true" %}}
+{{% ls-details title="Hat Evermusic echte lückenlose Wiedergabe?" closed="true" %}}
 Ja. Ab Evermusic 8.7 ist die Wiedergabe wirklich lückenlos: Es gibt keine Pause, kein Klicken und kein Knacken zwischen den Titeln. Die Engine puffert und dekodiert den nächsten Titel vor, während der aktuelle läuft, und übergibt zwischen den Audiosamples auf einem durchgehenden Ringpuffer, sodass der Übergang unhörbar ist. Es funktioniert für lokale Dateien, Cloud-Streams und Medienserver und ist ideal für Live-Alben, DJ-Mixe und Konzeptalben.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Welche Audioeffekte enthält Evermusic 8.7?" closed="true" %}}
+{{% ls-details title="Welche Audioeffekte enthält Evermusic 8.7?" closed="true" %}}
 Fünf Echtzeiteffekte: **Hall** (13 Raum-Presets, Wet/Dry-Mix), **Delay/Echo** (10 Presets mit Delay-Zeit, Feedback, Tiefpass und Mix), **Verzerrung** (22 Charakter-Presets mit Pre-Gain und Mix), **Kompressor** (ein vollwertiger Dynamikprozessor mit Schwellenwert, Verhältnis, Attack, Release, Expansion und Makeup-Gain sowie 10 Presets) und **Crossfeed** (Bauer-bs2b-Kopfhörer-Crossfeed mit Pegel- und Cutoff-Reglern und 6 Presets). Jeder Effekt wird mit kuratierten Presets ausgeliefert, und Ihre eigenen Einstellungen werden zwischen den Sitzungen gemerkt.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Was ist Crossfeed und warum sollte ich es verwenden?" closed="true" %}}
+{{% ls-details title="Was ist Crossfeed und warum sollte ich es verwenden?" closed="true" %}}
 Crossfeed mischt einen kleinen, gefilterten Anteil jedes Stereokanals in den anderen, so wie Ihre Ohren echte Lautsprecher in einem Raum von Natur aus hören. Über Kopfhörer reduziert das die übertriebene, "im-Kopf"-Trennung hart gepannter Aufnahmen und macht langes Hören angenehmer. Evermusic verwendet den bekannten Algorithmus Bauer stereophonic-to-binaural (bs2b) und enthält Presets wie Chu Moy und Jan Meier. Besonders wirkungsvoll ist es bei älteren Stereo-Mischungen aus den 1960er- und 1970er-Jahren.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Wie funktioniert die Lautstärkenormalisierung in Evermusic?" closed="true" %}}
+{{% ls-details title="Wie funktioniert die Lautstärkenormalisierung in Evermusic?" closed="true" %}}
 Evermusic 8.7 misst die wahrgenommene Lautheit jedes Titels in Echtzeit mit dem Standard EBU R128 (ITU-R BS.1770) und passt den Pegel behutsam an ein gleichbleibendes Ziel an, sodass Titel nicht in der Lautstärke springen. Es benötigt keine ReplayGain-Tags und verändert Ihre Dateien nicht. Vier Presets sind verfügbar – Leicht (−20 LUFS), Standard (−16 LUFS), Stark (−14 LUFS) und Nacht (−23 LUFS) – und die Normalisierung setzt sich sauber zurück, wenn Sie spulen oder den Titel wechseln.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Ist die Lautstärkenormalisierung von Evermusic dasselbe wie ReplayGain?" closed="true" %}}
+{{% ls-details title="Ist die Lautstärkenormalisierung von Evermusic dasselbe wie ReplayGain?" closed="true" %}}
 Sie verfolgt dasselbe Ziel – eine gleichbleibende Lautheit zwischen den Titeln – funktioniert aber anders. ReplayGain stützt sich auf Lautheits-Tags, die in Ihren Dateien gespeichert sind. Der Normalisierer von Evermusic misst die Lautheit live mit EBU R128, sodass er auf jeder Quelle funktioniert, einschließlich Cloud-Streams und Internetradio, selbst wenn die Dateien überhaupt keine Tags haben.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Wie viele Bänder hat der Evermusic-Equalizer, und kann ich eigene Presets erstellen?" closed="true" %}}
+{{% ls-details title="Wie viele Bänder hat der Evermusic-Equalizer, und kann ich eigene Presets erstellen?" closed="true" %}}
 Der Evermusic-Equalizer ist ein grafischer 10-Band-Equalizer, der 32 Hz bis 16 kHz abdeckt, wobei jedes Band von −12 dB bis +12 dB in 0,1-dB-Schritten einstellbar ist und ein Vorverstärker von −24 dB bis +24 dB zur Verfügung steht. Er enthält integrierte Presets, lässt Sie eigene Presets erstellen und speichern und unterstützt den Import und Export von Presets als .eqp-Dateien, sodass Sie sie zwischen Geräten übertragen oder teilen können.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Was hat sich am Equalizer von Evermusic 8.7 geändert?" closed="true" %}}
+{{% ls-details title="Was hat sich am Equalizer von Evermusic 8.7 geändert?" closed="true" %}}
 Der Equalizer wurde mit neuen, präziseren Reglern neu gestaltet, die das iOS-26-System-Slider- und Liquid-Glass-Aussehen übernehmen, mit schnellerem und geschmeidigerem Preset-Wechsel sowie einem besseren Layout im Querformat und auf dem iPad (eine horizontale Preset-Leiste im Hochformat und eine vertikale Preset-Spalte im Querformat). Eigene Presets und der .eqp-Import/-Export werden unterstützt.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Unterstützt Evermusic 8.7 FLAC und Ogg Vorbis?" closed="true" %}}
+{{% ls-details title="Unterstützt Evermusic 8.7 FLAC und Ogg Vorbis?" closed="true" %}}
 Ja. Die neu entwickelte Engine spielt FLAC (über Core Audio) und Ogg Vorbis (über libvorbisfile), zusammen mit MP3, AAC, Apple Lossless (ALAC), WAV, AIFF, AC-3, CAF und mehr, von lokalen Dateien, Cloud-Laufwerken und Medienservern.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Was wurde in CarPlay und auf dem Sperrbildschirm verbessert?" closed="true" %}}
+{{% ls-details title="Was wurde in CarPlay und auf dem Sperrbildschirm verbessert?" closed="true" %}}
 CarPlay-Albumcover werden auf langen Listen mehrfach schneller geladen und erscheinen jetzt in den kompakten iOS-26-Listenzeilen, die zuvor keine zeigten. Die Informationen bei Aktuelle Wiedergabe auf dem Sperrbildschirm und in CarPlay sind genauer – Titel, verstrichene Zeit, Dauer und Wiedergabe-/Pausenzustand werden gemeinsam erfasst, sodass sie nicht widersprüchlich sein können, und Pufferzustände werden korrekt gemeldet. Fernbedienungen (Wiedergabe, Pause, Weiter, Zurück, Spulen, Zufall, Wiederholen, Geschwindigkeit) reagieren zuverlässig über Kopfhörer und im Auto, und die CarPlay-Sortierung bei großen Bibliotheken ist schneller.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Funktionieren die Audioeffekte und der Equalizer mit Cloud-Streaming und CarPlay?" closed="true" %}}
+{{% ls-details title="Funktionieren die Audioeffekte und der Equalizer mit Cloud-Streaming und CarPlay?" closed="true" %}}
 Ja. Die Effekte, der Equalizer und die Lautstärkenormalisierung laufen nativ innerhalb der Wiedergabe-Engine, sodass sie auf alles angewendet werden, was Evermusic abspielt – lokale Dateien, Cloud-Laufwerke, Medienserver und Internetradio – und sie funktionieren während der CarPlay-Wiedergabe sowie, wo unterstützt, über AirPlay und Chromecast weiter.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Ist das Update auf Evermusic 8.7 kostenlos, und welche Geräte werden unterstützt?" closed="true" %}}
+{{% ls-details title="Ist das Update auf Evermusic 8.7 kostenlos, und welche Geräte werden unterstützt?" closed="true" %}}
 Ja. Evermusic ist ein kostenloser Download aus dem App Store, und 8.7 ist ein kostenloses Update für bestehende Nutzer, mit optionalen In-App-Upgrades für erweiterte Funktionen. Es läuft auf iPhone, iPad und Mac. CarPlay erfordert ein CarPlay-kompatibles Fahrzeug oder Head-Unit.
-{{% /details %}}
+{{% /ls-details %}}

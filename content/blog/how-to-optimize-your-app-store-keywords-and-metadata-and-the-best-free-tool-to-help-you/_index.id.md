@@ -14,7 +14,7 @@ authors:
     image: "/images/about/artem-meleshko-founder-everappz.webp"
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 ## Mengapa Kata Kunci App Store Menentukan Jumlah Unduhan Anda
 
@@ -74,29 +74,29 @@ Dengan [AppKeywords.pro](https://appkeywords.pro), Anda dapat meningkatkan visib
 Alat ini open source.
 
 {{< cards cols="1" >}}
-  {{< card link="https://github.com/everappz/app-store-keyword-optimizer/tree/main" title="appkeywords.pro di GitHub" icon="github" tag= "open source" >}}
+  {{< ls-card link="https://github.com/everappz/app-store-keyword-optimizer/tree/main" title="appkeywords.pro di GitHub" icon="github" tag= "open source" >}}
 {{< /cards >}}
 
 ---
 
 ## Pertanyaan yang Sering Diajukan
 
-{{% details title="Apakah AppKeywords.pro benar-benar gratis?" closed="true" %}}
+{{% ls-details title="Apakah AppKeywords.pro benar-benar gratis?" closed="true" %}}
 Ya. Ini adalah alat open-source sepenuhnya, berbasis browser tanpa pendaftaran, iklan, dan pengumpulan data.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Apakah alat ini berfungsi untuk beberapa lokalisasi App Store?" closed="true" %}}
+{{% ls-details title="Apakah alat ini berfungsi untuk beberapa lokalisasi App Store?" closed="true" %}}
 Ya. Anda dapat menambahkan metadata untuk setiap lokal secara independen, dan ekspor menyertakan semua bahasa dalam satu file JSON yang kompatibel dengan Fastlane.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Haruskah saya mengulangi kata kunci judul di field kata kunci?" closed="true" %}}
+{{% ls-details title="Haruskah saya mengulangi kata kunci judul di field kata kunci?" closed="true" %}}
 Tidak. Apple sudah mengindeks kata dari judul dan subjudul Anda. Mengulanginya membuang-buang karakter.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Seberapa sering saya harus memperbarui kata kunci App Store?" closed="true" %}}
+{{% ls-details title="Seberapa sering saya harus memperbarui kata kunci App Store?" closed="true" %}}
 Tinjau dan segarkan kata kunci setidaknya sekali per kuartal.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Bisakah saya menggunakan alat ini dengan Fastlane?" closed="true" %}}
+{{% ls-details title="Bisakah saya menggunakan alat ini dengan Fastlane?" closed="true" %}}
 Ya. Repo GitHub menyertakan skrip shell untuk mengonversi antara struktur folder metadata Fastlane dan format JSON AppKeywords.pro.
-{{% /details %}}
+{{% /ls-details %}}

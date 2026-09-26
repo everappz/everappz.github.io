@@ -7,7 +7,7 @@ tags: ["cloud", "streaming", "computer", "mp3", "file", "downloader", "manager",
 keywords: ["הזרמת מוסיקה מ-Mac ל-iPhone", "הזרמת אודיו SMB iOS", "הגדרת Evermusic SMB", "חיבור מוסיקת PC ל-iPhone", "שיתוף מוסיקת Mac iOS", "הזרמת קבצי SMB Windows", "גישת Evermusic לתיקיות PC"]
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **בקצרה:** השתמש באפליקציית Evermusic ל-iPhone או iPad כדי להזרים מוסיקה מה-Mac או Windows PC שלך דרך הרשת המקומית באמצעות SMB. ללא סנכרון, ללא העתקה -- פשוט הפעל שיתוף קבצים במחשב שלך, התחבר באפליקציה ונגן. ההגדרה לוקחת פחות מ-5 דקות.
@@ -102,26 +102,26 @@ keywords: ["הזרמת מוסיקה מ-Mac ל-iPhone", "הזרמת אודיו SM
 
 ## שאלות נפוצות
 
-{{% details title="האם אני יכול להזרים מוסיקה מה-PC שלי ל-iPhone שלי בלי iTunes?" closed="true" %}}
+{{% ls-details title="האם אני יכול להזרים מוסיקה מה-PC שלי ל-iPhone שלי בלי iTunes?" closed="true" %}}
 כן. Evermusic מתחבר ל-PC שלך דרך SMB ברשת ה-Wi-Fi המקומית שלך. לא נדרש iTunes. פשוט הפעל שיתוף קבצים ב-PC שלך והתחבר באפליקציה.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="האם הזרמת SMB משתמשת בנתוני סלולר?" closed="true" %}}
+{{% ls-details title="האם הזרמת SMB משתמשת בנתוני סלולר?" closed="true" %}}
 לא. SMB עובד דרך רשת ה-Wi-Fi המקומית שלך. לא נדרש חיבור אינטרנט או נתוני סלולר.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="אילו פורמטי אודיו Evermusic תומך דרך SMB?" closed="true" %}}
+{{% ls-details title="אילו פורמטי אודיו Evermusic תומך דרך SMB?" closed="true" %}}
 Evermusic תומך ב-MP3, FLAC, AAC, WAV, AIFF, OGG, WMA, ALAC ופורמטי אודיו נפוצים אחרים. קבצים מנוגנים ישירות משיתוף ה-SMB.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="האם אני יכול להזרים מוסיקה מ-NAS ל-iPhone שלי?" closed="true" %}}
+{{% ls-details title="האם אני יכול להזרים מוסיקה מ-NAS ל-iPhone שלי?" closed="true" %}}
 כן. אם ה-NAS שלך תומך ב-SMB (רובם תומכים, כולל Synology, QNAP ו-WD My Cloud), תוכל להתחבר אליו באמצעות אותם שלבים במדריך זה.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="האם אני צריך להשאיר את המחשב שלי דלוק בזמן הזרמה?" closed="true" %}}
+{{% ls-details title="האם אני צריך להשאיר את המחשב שלי דלוק בזמן הזרמה?" closed="true" %}}
 כן. מכיוון ש-Evermusic מזרים קבצים ישירות מהמחשב שלך, הוא חייב להיות דלוק ומחובר לאותה רשת כמו ה-iPhone שלך.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="האם יש מגבלת גודל קובץ להזרמת SMB?" closed="true" %}}
+{{% ls-details title="האם יש מגבלת גודל קובץ להזרמת SMB?" closed="true" %}}
 לא. Evermusic מזרים קבצים בכל גודל דרך SMB. קבצים גדולים ללא אובדן (FLAC, WAV) עובדים ללא בעיות.
-{{% /details %}}
+{{% /ls-details %}}

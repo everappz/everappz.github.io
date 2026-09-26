@@ -71,20 +71,20 @@ Flacboxは各クラウドプロバイダーの公式SDKとOAuthベースのロ�
 
 {{< cards cols="2">}}
 
-{{< card icon="map" link="/docs/guide/flacbox/flacbox-guide-navigation" title="ナビゲーション" subtitle="iPhoneのタブバー、iPadとMacの左メニュー、ミニプレーヤー、ウィジェット、CarPlay。" >}}
+{{< ls-card icon="map" link="/docs/guide/flacbox/flacbox-guide-navigation" title="ナビゲーション" subtitle="iPhoneのタブバー、iPadとMacの左メニュー、ミニプレーヤー、ウィジェット、CarPlay。" >}}
 
-{{< card icon="cloud" link="/docs/guide/flacbox/flacbox-guide-connections" title="接続" subtitle="iCloud、Google Drive、Dropbox、OneDrive、NAS、WebDAV、SMB、DLNA。" >}}
+{{< ls-card icon="cloud" link="/docs/guide/flacbox/flacbox-guide-connections" title="接続" subtitle="iCloud、Google Drive、Dropbox、OneDrive、NAS、WebDAV、SMB、DLNA。" >}}
 
-{{< card icon="collection" link="/docs/guide/flacbox/flacbox-guide-music-library" title="音楽ライブラリ" subtitle="曲、アルバム、アーティスト、ジャンル、作曲家 — 同期、検索、メタデータ編集。" >}}
+{{< ls-card icon="collection" link="/docs/guide/flacbox/flacbox-guide-music-library" title="音楽ライブラリ" subtitle="曲、アルバム、アーティスト、ジャンル、作曲家 — 同期、検索、メタデータ編集。" >}}
 
-{{< card icon="music-note" link="/docs/guide/flacbox/flacbox-guide-playlists" title="プレイリスト" subtitle="M3U / M3U8 / CUEの作成、インポート、並べ替え、M3U / CSV / TXTへのエクスポート。" >}}
+{{< ls-card icon="music-note" link="/docs/guide/flacbox/flacbox-guide-playlists" title="プレイリスト" subtitle="M3U / M3U8 / CUEの作成、インポート、並べ替え、M3U / CSV / TXTへのエクスポート。" >}}
 
-{{< card icon="folder" link="/docs/guide/flacbox/flacbox-guide-local-files" title="ローカルファイル" subtitle="オフライン音楽、USBドライブ、Wi-Fi Drive、ファイルマネージャー、オフラインフォルダー。" >}}
+{{< ls-card icon="folder" link="/docs/guide/flacbox/flacbox-guide-local-files" title="ローカルファイル" subtitle="オフライン音楽、USBドライブ、Wi-Fi Drive、ファイルマネージャー、オフラインフォルダー。" >}}
 
-{{< card icon="play" link="/docs/guide/flacbox/flacbox-guide-player" title="オーディオプレーヤー" subtitle="Hi-res出力、イコライザー、ピッチ、ブックマーク、AirPlay、Chromecast、速度、スリープタイマー。" >}}
+{{< ls-card icon="play" link="/docs/guide/flacbox/flacbox-guide-player" title="オーディオプレーヤー" subtitle="Hi-res出力、イコライザー、ピッチ、ブックマーク、AirPlay、Chromecast、速度、スリープタイマー。" >}}
 
-{{< card icon="adjustments" link="/docs/guide/flacbox/flacbox-guide-settings" title="設定" subtitle="オーディオエンジン、ライブラリ、ファイルマネージャー、CarPlay、ウィジェット、パーソナライズ、言語、バックアップ。" >}}
+{{< ls-card icon="adjustments" link="/docs/guide/flacbox/flacbox-guide-settings" title="設定" subtitle="オーディオエンジン、ライブラリ、ファイルマネージャー、CarPlay、ウィジェット、パーソナライズ、言語、バックアップ。" >}}
 
-{{< card icon="question-mark-circle" link="/docs/faq/flacbox" title="よくある質問" subtitle="Flacboxに関する最もよくある50の質問への回答を見つけましょう。" >}}
+{{< ls-card icon="question-mark-circle" link="/docs/faq/flacbox" title="よくある質問" subtitle="Flacboxに関する最もよくある50の質問への回答を見つけましょう。" >}}
 
 {{< /cards >}}

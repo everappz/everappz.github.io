@@ -7,7 +7,7 @@ tags: ["evermusic", "מוזיקה", "ענן", "iphone", "אחסון", "nas", "ה
 readingTime: 4
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **תקציר:** השתמשו ב-Evermusic כדי להזרים או להוריד מוזיקה מה-WD My Cloud Home NAS שלכם ישירות לאייפון. גשו עד 8 TB של מוזיקה, השמיעו ללא חיבור לאינטרנט והשתמשו באקולייזר המובנה -- הכל ללא מנויים חודשיים.
@@ -87,26 +87,26 @@ Evermusic משתמש בחיבור מאובטח וב-API הרשמי שפותח ע
 
 ## שאלות נפוצות
 
-{{% details title="האם Evermusic חינמי לשימוש עם WD My Cloud Home?" closed="true" %}}
+{{% ls-details title="האם Evermusic חינמי לשימוש עם WD My Cloud Home?" closed="true" %}}
 Evermusic חינמי להורדה עם תכונות ליבה כולל האקולייזר, הזרמת ענן והשמעה לא מקוונת. הגרסה החינמית תומכת בעד 3 חיבורי ענן. שדרוג ל-Premium מסיר מגבלות על חשבונות ענן, רשימות השמעה ותיקיות לא מקוונות.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="האם אני יכול להאזין למוזיקה ללא חיבור מה-NAS שלי?" closed="true" %}}
+{{% ls-details title="האם אני יכול להאזין למוזיקה ללא חיבור מה-NAS שלי?" closed="true" %}}
 כן. Evermusic מאפשר לכם להוריד שירים מ-WD My Cloud Home לאייפון שלכם להשמעה לא מקוונת. זה שימושי כשאתם נוסעים או כשהגישה לאינטרנט מוגבלת.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="האם Evermusic תומך בפורמטים של שמע ללא אובדן מ-WD My Cloud?" closed="true" %}}
+{{% ls-details title="האם Evermusic תומך בפורמטים של שמע ללא אובדן מ-WD My Cloud?" closed="true" %}}
 כן. Evermusic תומך ב-FLAC, ALAC, WAV, AIFF ופורמטים אחרים ללא אובדן. תוכלו להזרים או להוריד קבצי שמע באיכות גבוהה מה-NAS שלכם ללא המרת פורמט.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="האם אני יכול להשתמש ב-WD MyCloud EX2 Ultra עם Evermusic?" closed="true" %}}
+{{% ls-details title="האם אני יכול להשתמש ב-WD MyCloud EX2 Ultra עם Evermusic?" closed="true" %}}
 כן, עם פתרון עוקף. התחברו דרך אפשרות My Cloud Home, צרו תיקייה באמצעות מנהל הקבצים של Evermusic והעלו את קבצי המוזיקה שלכם לשם. בגלל מצב ארגז החול, רק קבצים בתיקיות שנוצרו על ידי האפליקציה נגישים.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="כמה מוזיקה אני יכול לאחסן ב-WD My Cloud Home?" closed="true" %}}
+{{% ls-details title="כמה מוזיקה אני יכול לאחסן ב-WD My Cloud Home?" closed="true" %}}
 WD My Cloud Home תומך בעד 8 TB של אחסון. בקצבי סיביות אופייניים, הוא יכול להכיל מאות אלפי שירים, כולל ספריות מוזיקה גדולות ללא אובדן.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="האם החיבור בין Evermusic ל-WD My Cloud Home מאובטח?" closed="true" %}}
+{{% ls-details title="האם החיבור בין Evermusic ל-WD My Cloud Home מאובטח?" closed="true" %}}
 כן. Evermusic משתמש בחיבור מאובטח וב-API הרשמי של Western Digital כדי לגשת ל-NAS שלכם. הנתונים ופרטי ההתחברות שלכם מוגנים במהלך ההעברה.
-{{% /details %}}
+{{% /ls-details %}}

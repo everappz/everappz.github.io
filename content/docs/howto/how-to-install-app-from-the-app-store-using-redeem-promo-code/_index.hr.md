@@ -7,7 +7,7 @@ tags: ["promo", "appstore", "instaliraj", "iskoristi", "kod", "besplatno"]
 readingTime: 2
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **Ukratko:** Promotivni kod omogućuje besplatno preuzimanje plaćene aplikacije ili otključavanje kupnji unutar aplikacije. Na iOS-u: App Store > Ikona računa > Iskoristi darovnu karticu ili kod > unesite kod. Na Macu: App Store > Račun > Iskoristi darovnu karticu > unesite kod. Zatim otvorite aplikaciju i vratite kupnje ako je potrebno.
@@ -94,22 +94,22 @@ Uživajte u svojoj besplatnoj aplikaciji ili nadogradnji unutar aplikacije!
 
 ## Često postavljana pitanja
 
-{{% details title="Gdje mogu dobiti promotivni kod?" closed="true" %}}
+{{% ls-details title="Gdje mogu dobiti promotivni kod?" closed="true" %}}
 Promotivne kodove pružaju razvojni programeri aplikacija za recenzije, nagradne igre ili promocije. Izravno kontaktirajte razvojnog programera kako biste zatražili jedan.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Istječu li promotivni kodovi?" closed="true" %}}
+{{% ls-details title="Istječu li promotivni kodovi?" closed="true" %}}
 Da. Promotivni kodovi za Apple App Store istječu 28 dana nakon generiranja i mogu se iskoristiti samo jednom.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Mogu li koristiti promotivni kod u bilo kojoj zemlji?" closed="true" %}}
+{{% ls-details title="Mogu li koristiti promotivni kod u bilo kojoj zemlji?" closed="true" %}}
 Promotivni kodovi su specifični za regiju. Kod mora odgovarati zemlji App Storea vašeg Apple ID-a.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Kako aktiviram kupnje unutar aplikacije promotivnim kodom?" closed="true" %}}
+{{% ls-details title="Kako aktiviram kupnje unutar aplikacije promotivnim kodom?" closed="true" %}}
 Nakon iskorištavanja koda u App Storeu, otvorite aplikaciju i idite na Postavke > Vrati kupnje. Premium sadržaj bit će automatski otključan.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Promotivni kod kaže da je već iskorišten. Što trebam učiniti?" closed="true" %}}
+{{% ls-details title="Promotivni kod kaže da je već iskorišten. Što trebam učiniti?" closed="true" %}}
 Svaki promotivni kod može se koristiti samo jednom. Kontaktirajte razvojnog programera kako biste zatražili novi kod.
-{{% /details %}}
+{{% /ls-details %}}

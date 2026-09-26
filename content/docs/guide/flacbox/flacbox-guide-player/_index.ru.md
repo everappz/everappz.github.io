@@ -23,7 +23,7 @@ readingTime: 14
 К полноэкранному плееру можно перейти из панели мини-плеера. На iPhone мини-плеер расположен внизу главного экрана. На iPad и Mac — слева. Чтобы скрыть мини-плеер на iPhone, нажмите на него один раз и смахните вниз. Чтобы полностью закрыть полноэкранный плеер, нажмите кнопку закрытия в правом нижнем углу.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox Audio Player Main Screen" image="/docs/guide/flacbox/img/audio-player-main-screen.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox Audio Player Main Screen" image="/docs/guide/flacbox/img/audio-player-main-screen.webp" >}}
 {{< /cards >}}
 
 ## Поддерживаемые Форматы Аудио
@@ -66,7 +66,7 @@ Flacbox воспроизводит наиболее популярные ауд�
 Flacbox включает **10-полосный эквалайзер** с пресетами в стиле iPod. Нажмите «Эквалайзер» в виде громкости, затем включите его в правом верхнем углу. Вы можете использовать пресеты, такие как «Акустический» и «Усиление басов», или настраивать каждую полосу частот с помощью ползунков. Создавайте собственные пресеты, сохраняйте их под любым именем и усиливайте общую громкость с помощью предусилителя. Подробные инструкции по использованию эквалайзера доступны [здесь](/docs/howto/how-to-use-the-audio-equalizer-on-your-iphone-ipad-mac-with-evermusic-and-flacbox).
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox Audio Player Equalizer" image="/docs/guide/flacbox/img/audio-player-equalizer.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox Audio Player Equalizer" image="/docs/guide/flacbox/img/audio-player-equalizer.webp" >}}
 {{< /cards >}}
 
 ## Панель Инструментов Режима Плеера
@@ -82,7 +82,7 @@ Flacbox включает **10-полосный эквалайзер** с пре�
 Чтобы увидеть очередь плеера, нажмите кнопку очереди справа от текущей песни. У каждой песни в очереди есть дополнительные действия — нажмите три точки, чтобы их просмотреть. Чтобы изменить порядок песни в очереди, используйте индикатор изменения порядка рядом с названием и перетащите его на новую позицию.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox Playback Queue" image="/docs/guide/flacbox/img/playback_queue.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox Playback Queue" image="/docs/guide/flacbox/img/playback_queue.webp" >}}
 {{< /cards >}}
 
 ## Комментарии / Тексты Песен
@@ -98,7 +98,7 @@ Flacbox включает **10-полосный эквалайзер** с пре�
 После этого нажмите кнопку очереди плеера внизу экрана несколько раз, чтобы переключиться с вида обложки / очереди на вид комментариев. На экране «Комментарии» прокрутите вправо, чтобы переключаться между **Комментариями**, **Встроенными текстами** и **Файлом LRC**. Полные инструкции доступны [здесь](/docs/howto/how-to-add-and-view-comments-to-your-audio-tracks-on-iphone-ipad-and-mac-with-evermusic-and-flacbox).
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox Lyrics and Comments Screen" image="/docs/guide/flacbox/img/lyrics-screen.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox Lyrics and Comments Screen" image="/docs/guide/flacbox/img/lyrics-screen.webp" >}}
 {{< /cards >}}
 
 ## Меню Параметров
@@ -121,7 +121,7 @@ Flacbox включает **10-полосный эквалайзер** с пре�
 Те же параметры доступны для текущего воспроизводимого элемента в очереди аудиоплеера, к которому можно получить доступ, нажав значок **Другие действия** рядом с названием трека.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox Options for an Item in the Playback Queue" image="/docs/guide/flacbox/img/options-for-item-in-playback-queue.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox Options for an Item in the Playback Queue" image="/docs/guide/flacbox/img/options-for-item-in-playback-queue.webp" >}}
 {{< /cards >}}
 
 ## Дополнительные Действия Плеера
@@ -143,7 +143,7 @@ Flacbox включает **10-полосный эквалайзер** с пре�
 - **Справка** — найти помощь и руководство.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox Audio Player More Actions Screen" image="/docs/guide/flacbox/img/audio-player-more-actions-screen.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox Audio Player More Actions Screen" image="/docs/guide/flacbox/img/audio-player-more-actions-screen.webp" >}}
 {{< /cards >}}
 
 ## Аудиозакладки
@@ -161,7 +161,7 @@ Flacbox включает **10-полосный эквалайзер** с пре�
 Редактировать закладки текущего трека легко: нажмите «Редактировать» в правом верхнем углу, чтобы войти в режим редактирования. В этом режиме можно изменять порядок закладок, удалять их, корректировать время закладки и изменять заголовки закладок. Подробные инструкции по аудиозакладкам доступны [здесь](/docs/howto/how-to-listen-to-audiobooks-on-iphone-ipad-mac-using-evermusic).
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox Audio Bookmarks Screen" image="/docs/guide/flacbox/img/audio-bookmarks.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox Audio Bookmarks Screen" image="/docs/guide/flacbox/img/audio-bookmarks.webp" >}}
 {{< /cards >}}
 
 ## Недавние и Избранное
@@ -175,7 +175,7 @@ Flacbox включает **10-полосный эквалайзер** с пре�
 [Прочитайте полное руководство по CarPlay](/docs/howto/how-to-play-your-own-music-on-iphone-using-carplay/).
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox on Apple CarPlay" image="/docs/guide/flacbox/img/carplay-main.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox on Apple CarPlay" image="/docs/guide/flacbox/img/carplay-main.webp" >}}
 {{< /cards >}}
 
 ## Виджеты Главного Экрана (iPhone и iPad)
@@ -243,7 +243,7 @@ Flacbox поддерживает виджеты главного экрана и
 Настройте скорость воспроизведения аудиоплеера от **0,02× до 3,00×**. Нажмите значок настройки в правом верхнем углу, чтобы переключиться в **точный режим** для более тонкой регулировки.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox Playback Speed Screen" image="/docs/guide/flacbox/img/playback-speed.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox Playback Speed Screen" image="/docs/guide/flacbox/img/playback-speed.webp" >}}
 {{< /cards >}}
 
 ### Коррекция Тональности

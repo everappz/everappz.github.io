@@ -7,7 +7,7 @@ tags: ["lyrics", "mp3", "id3", "metadata", "iphone", "audio editing"]
 readingTime: 2
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **Özet:** iPhone veya Mac'te senkronize olmayan şarkı sözlerini, içerik derecelendirmelerini ve 120'den fazla ses etiketini düzenlemek için ücretsiz **Evertag** uygulamasını kullanın. Yerel ve bulutta depolanan dosyalarla çalışır, toplu düzenlemeyi destekler ve Evermusic, Flacbox ve diğer oynatıcılarda görünen şarkı sözlerini kaydeder.
@@ -23,8 +23,8 @@ Gösterim için **Evertag** uygulamasını kullanacağız. **120'den fazla ses e
 App Store'dan **Evertag** uygulamasını indirerek başlayın. Hem **iOS** hem de **macOS** için mevcuttur ve ücretsizdir.
 
 {{< cards cols="2">}}
-{{< card link="https://apps.apple.com/app/apple-store/id1450763230?pt=95781850&ct=everappzcom&mt=8" title="Evertag iOS için" icon="download" tag="Free" >}}
-{{< card link="https://apps.apple.com/app/apple-store/id1594027661?pt=95781850&ct=everappzcom&mt=8" title="Evertag macOS için" icon="download" tag="Free" >}}
+{{< ls-card link="https://apps.apple.com/app/apple-store/id1450763230?pt=95781850&ct=everappzcom&mt=8" title="Evertag iOS için" icon="download" tag="Free" >}}
+{{< ls-card link="https://apps.apple.com/app/apple-store/id1594027661?pt=95781850&ct=everappzcom&mt=8" title="Evertag macOS için" icon="download" tag="Free" >}}
 {{< /cards >}}
 
 ## Bulut Hesabınızı Bağlayın
@@ -38,13 +38,13 @@ Bir bulut depolama hizmeti bağlamak için:
 - **Bulut Depolamaya Bağlan**'a dokunun
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Bulut Depolamaya Bağlan" image="/docs/howto/how-to-edit-lyrics-for-audio-files-on-iphone-mac/connect-to-cloud-storage.webp" >}}
+{{< ls-card title="" subtitle="Bulut Depolamaya Bağlan" image="/docs/howto/how-to-edit-lyrics-for-audio-files-on-iphone-mac/connect-to-cloud-storage.webp" >}}
 {{< /cards >}}
 
 - Desteklenen bir sağlayıcı seçin, kimlik bilgilerinizi girin ve **Bitti**'ye dokunun
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Bulut Depolamaya Bağlan" image="/docs/howto/how-to-edit-lyrics-for-audio-files-on-iphone-mac/connect-to-cloud-storage.webp" >}}
+{{< ls-card title="" subtitle="Bulut Depolamaya Bağlan" image="/docs/howto/how-to-edit-lyrics-for-audio-files-on-iphone-mac/connect-to-cloud-storage.webp" >}}
 {{< /cards >}}
 
 - Bağlandıktan sonra, bulut depolamanız uygulamanın **Bulut Depolama** bölümünde görünecektir.
@@ -52,7 +52,7 @@ Bir bulut depolama hizmeti bağlamak için:
 - Klasör içeriğini görmek ve yüklemek için bağlı bulut depolamanıza dokunun.
   
 {{< cards cols="1">}}
-{{< card title="" subtitle="Bulut Depolama Dosya Listesi" image="/docs/howto/how-to-edit-lyrics-for-audio-files-on-iphone-mac/cloud-storage-list-audio-files.webp" >}}
+{{< ls-card title="" subtitle="Bulut Depolama Dosya Listesi" image="/docs/howto/how-to-edit-lyrics-for-audio-files-on-iphone-mac/cloud-storage-list-audio-files.webp" >}}
 {{< /cards >}}
 
 ## Yerel Klasör Bağlayın
@@ -74,7 +74,7 @@ Dosyaları uygulamaya aktarmadan cihazınızda doğrudan depolanan dosyaların s
 - Kenar çubuğu menüsünde **Bu Cihazdaki Dosyalar**'a kadar aşağı kaydırın
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Cihaz Klasörleri" image="/docs/howto/how-to-edit-lyrics-for-audio-files-on-iphone-mac/device-folders.webp" >}}
+{{< ls-card title="" subtitle="Cihaz Klasörleri" image="/docs/howto/how-to-edit-lyrics-for-audio-files-on-iphone-mac/device-folders.webp" >}}
 {{< /cards >}}
   
 - **Tüm cihaz klasörleri** menü öğesine dokunun
@@ -91,7 +91,7 @@ Dosyaları uygulamaya aktarmadan cihazınızda doğrudan depolanan dosyaların s
 **Etiket Düzenleyici**, ses dosyası meta verilerini görüntüleyip düzenleyebileceğiniz Evertag uygulamasının ana ekranıdır. **Yerel Dosyalar** bölümünden veya bağlı herhangi bir **Bulut depolama** hesabından bir dosyaya dokunarak bu ekranı açın.
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Evertag Etiket Düzenleyici Ekranı" image="/docs/howto/how-to-edit-lyrics-for-audio-files-on-iphone-mac/cloud-storage-audio-file-tag-editor.webp" >}}
+{{< ls-card title="" subtitle="Evertag Etiket Düzenleyici Ekranı" image="/docs/howto/how-to-edit-lyrics-for-audio-files-on-iphone-mac/cloud-storage-audio-file-tag-editor.webp" >}}
 {{< /cards >}}
 
 ## Düzenleme Modları
@@ -112,7 +112,7 @@ Varsayılan olarak, uygulama etiket düzenleyiciyi yalnızca ana düzenleme seç
 Tüm mevcut etiketlere erişmek için ekranın altına kaydırın ve **Genişletilmiş Etiketleri Göster** seçeneğine dokunun. Bu, düzenleyiciyi genişletilmiş moda geçirir ve **MusicBrainz etiketleri**, **şarkı sözleri**, **içerik derecelendirmeleri** ve daha fazlası dahil **120'den fazla meta veri alanını** düzenlemenize olanak tanır.
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Alt Eylem Paneli" image="/docs/howto/how-to-edit-lyrics-for-audio-files-on-iphone-mac/show-extended-tags.webp" >}}
+{{< ls-card title="" subtitle="Alt Eylem Paneli" image="/docs/howto/how-to-edit-lyrics-for-audio-files-on-iphone-mac/show-extended-tags.webp" >}}
 {{< /cards >}}
 
 ## Toplu Mod
@@ -137,7 +137,7 @@ Evertag uygulamasını kullanarak ses dosyalarınıza gömülü **Senkronize Olm
 **Genişletilmiş Etiketler** modunda, aşağı kaydırın ve **Senkronize Olmayan Şarkı Sözleri** metin alanına dokunun.
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Senkronize Olmayan Şarkı Sözleri Metin Alanı" image="/docs/howto/how-to-edit-lyrics-for-audio-files-on-iphone-mac/advisory-rating-2.webp" >}}
+{{< ls-card title="" subtitle="Senkronize Olmayan Şarkı Sözleri Metin Alanı" image="/docs/howto/how-to-edit-lyrics-for-audio-files-on-iphone-mac/advisory-rating-2.webp" >}}
 {{< /cards >}}
 
 > **ID3 etiketlerini** destekleyen ses dosyaları (`.mp3` veya `.wav` gibi) birden fazla dilde şarkı sözü eklemenize olanak tanır. ID3 etiketli bir dosyayı düzenliyorsanız, Evertag tam çok dilli desteği etkinleştirir.  
@@ -148,7 +148,7 @@ Evertag uygulamasını kullanarak ses dosyalarınıza gömülü **Senkronize Olm
 ID3 etiketlerini düzenliyorsanız, sonraki ekranda **Yeni Sayfa Ekle** düğmesi görünecektir. Yeni bir şarkı sözü girişi eklemeye başlamak için dokunun.
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Yeni Şarkı Sözü Sayfası Ekle" image="/docs/howto/how-to-edit-lyrics-for-audio-files-on-iphone-mac/add-new-page.webp" >}}
+{{< ls-card title="" subtitle="Yeni Şarkı Sözü Sayfası Ekle" image="/docs/howto/how-to-edit-lyrics-for-audio-files-on-iphone-mac/add-new-page.webp" >}}
 {{< /cards >}}
 
 ### Dil, Yorum ve Şarkı Sözü İçeriğini Seçin
@@ -159,7 +159,7 @@ ID3 etiketlerini düzenliyorsanız, sonraki ekranda **Yeni Sayfa Ekle** düğmes
 - Gerçek **şarkı sözü metnini** girin
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Dil Seçin" image="/docs/howto/how-to-edit-lyrics-for-audio-files-on-iphone-mac/choose-language.webp" >}}
+{{< ls-card title="" subtitle="Dil Seçin" image="/docs/howto/how-to-edit-lyrics-for-audio-files-on-iphone-mac/choose-language.webp" >}}
 {{< /cards >}}
 
 ### Şarkı Sözlerini Girin
@@ -169,7 +169,7 @@ ID3 etiketlerini düzenliyorsanız, sonraki ekranda **Yeni Sayfa Ekle** düğmes
 > İpucu: Yüksek kaliteli şarkı sözleri mi arıyorsunuz? Binlerce parça için LRC formatında şarkı sözleri bulmak için [lyricsify.com](https://www.lyricsify.com) adresini ziyaret edin.
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Eklenen Şarkı Sözleri" image="/docs/howto/how-to-edit-lyrics-for-audio-files-on-iphone-mac/added-lyrics.webp" >}}
+{{< ls-card title="" subtitle="Eklenen Şarkı Sözleri" image="/docs/howto/how-to-edit-lyrics-for-audio-files-on-iphone-mac/added-lyrics.webp" >}}
 {{< /cards >}}
 
 ### Onaylamak İçin "Bitti"ye Dokunun
@@ -177,7 +177,7 @@ ID3 etiketlerini düzenliyorsanız, sonraki ekranda **Yeni Sayfa Ekle** düğmes
 Şarkı sözlerinizi girdikten sonra, şarkı sözü sayfasında **Bitti**'ye dokunun. Ardından değişikliklerinizi onaylamak için önceki ekranda tekrar **Bitti**'ye dokunun.
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Kaydedilen Şarkı Sözleri" image="/docs/howto/how-to-edit-lyrics-for-audio-files-on-iphone-mac/saved-lyrics.webp" >}}
+{{< ls-card title="" subtitle="Kaydedilen Şarkı Sözleri" image="/docs/howto/how-to-edit-lyrics-for-audio-files-on-iphone-mac/saved-lyrics.webp" >}}
 {{< /cards >}}
 
 ### Etiket Değişikliklerini Kaydedin
@@ -185,7 +185,7 @@ ID3 etiketlerini düzenliyorsanız, sonraki ekranda **Yeni Sayfa Ekle** düğmes
 Son olarak, **Etiket Düzenleyici** ekranında, güncellenmiş etiketleri — yeni şarkı sözleriniz dahil — dosyaya geri yazmak için **Kaydet**'e dokunun.
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Şarkı Sözleriyle Etiket Düzenleyici" image="/docs/howto/how-to-edit-lyrics-for-audio-files-on-iphone-mac/tags-editor-with-lyrics.webp" >}}
+{{< ls-card title="" subtitle="Şarkı Sözleriyle Etiket Düzenleyici" image="/docs/howto/how-to-edit-lyrics-for-audio-files-on-iphone-mac/tags-editor-with-lyrics.webp" >}}
 {{< /cards >}}
 
 ### Şarkı Sözü İçerik Derecelendirmesini Ayarlayın
@@ -204,22 +204,22 @@ Bu adımları izleyerek, şarkı sözleriniz ses dosyasının meta verilerine d�
 
 ## Sık Sorulan Sorular
 
-{{% details title="Evertag şarkı sözü düzenlemesi için hangi ses formatlarını destekler?" closed="true" %}}
+{{% ls-details title="Evertag şarkı sözü düzenlemesi için hangi ses formatlarını destekler?" closed="true" %}}
 Evertag, MP3, FLAC, WAV, M4A, OGG, AIFF ve daha fazlası dahil 30'dan fazla ses formatını destekler. Bu formatlardan herhangi birinde şarkı sözlerini ve diğer meta veri etiketlerini düzenleyebilirsiniz.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Birden fazla dilde şarkı sözü ekleyebilir miyim?" closed="true" %}}
+{{% ls-details title="Birden fazla dilde şarkı sözü ekleyebilir miyim?" closed="true" %}}
 Evet, ancak yalnızca ID3 etiketleri kullanan ses dosyaları için (MP3 ve WAV gibi). FLAC veya M4A gibi diğer formatlar için yalnızca tek bir şarkı sözü girişi desteklenir.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Evertag toplu şarkı sözü düzenlemeyi destekliyor mu?" closed="true" %}}
+{{% ls-details title="Evertag toplu şarkı sözü düzenlemeyi destekliyor mu?" closed="true" %}}
 Evet. Birden fazla dosyanın meta verilerini aynı anda düzenlemek için toplu moda girebilirsiniz. Bu, aynı içerik derecelendirmesini veya diğer paylaşılan etiketleri tüm albüme uygulamak için kullanışlıdır.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Düzenlenen şarkı sözleri Apple Music veya Spotify'da görünecek mi?" closed="true" %}}
+{{% ls-details title="Düzenlenen şarkı sözleri Apple Music veya Spotify'da görünecek mi?" closed="true" %}}
 Evertag ile düzenlenen şarkı sözleri ses dosyasının meta verilerine gömülüdür. Evermusic, Flacbox, VLC ve foobar2000 gibi gömülü şarkı sözü etiketlerini okuyan herhangi bir müzik oynatıcısında görünecektir. Spotify ve Apple Music gibi yayın uygulamaları kendi şarkı sözü veritabanlarını kullanır ve gömülü etiketleri okumaz.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Bulut depolamada saklanan dosyaların etiketlerini düzenleyebilir miyim?" closed="true" %}}
+{{% ls-details title="Bulut depolamada saklanan dosyaların etiketlerini düzenleyebilir miyim?" closed="true" %}}
 Evet. Evertag bulut depolama hizmetlerine bağlanmayı destekler. Uygulama dosyayı indirir, etiketleri düzenlemenize izin verir ve güncellenmiş dosyayı otomatik olarak buluta geri yükler.
-{{% /details %}}
+{{% /ls-details %}}

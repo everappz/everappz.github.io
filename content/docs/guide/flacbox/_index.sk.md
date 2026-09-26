@@ -71,20 +71,20 @@ Táto príručka vás prevedie každou časťou Flacbox na iPhone, iPad a Mac �
 
 {{< cards cols="2">}}
 
-{{< card icon="map" link="/docs/guide/flacbox/flacbox-guide-navigation" title="Navigácia" subtitle="Tab Bar na iPhone, ľavé menu na iPad a Mac, mini prehrávač, widgety, CarPlay." >}}
+{{< ls-card icon="map" link="/docs/guide/flacbox/flacbox-guide-navigation" title="Navigácia" subtitle="Tab Bar na iPhone, ľavé menu na iPad a Mac, mini prehrávač, widgety, CarPlay." >}}
 
-{{< card icon="cloud" link="/docs/guide/flacbox/flacbox-guide-connections" title="Pripojenia" subtitle="iCloud, Google Drive, Dropbox, OneDrive, NAS, WebDAV, SMB, DLNA." >}}
+{{< ls-card icon="cloud" link="/docs/guide/flacbox/flacbox-guide-connections" title="Pripojenia" subtitle="iCloud, Google Drive, Dropbox, OneDrive, NAS, WebDAV, SMB, DLNA." >}}
 
-{{< card icon="collection" link="/docs/guide/flacbox/flacbox-guide-music-library" title="Hudobná knižnica" subtitle="Skladby, albumy, umelci, žánre, skladatelia — synchronizácia, vyhľadávanie, úprava metadát." >}}
+{{< ls-card icon="collection" link="/docs/guide/flacbox/flacbox-guide-music-library" title="Hudobná knižnica" subtitle="Skladby, albumy, umelci, žánre, skladatelia — synchronizácia, vyhľadávanie, úprava metadát." >}}
 
-{{< card icon="music-note" link="/docs/guide/flacbox/flacbox-guide-playlists" title="Prehrávače" subtitle="Vytvorte, importujte M3U / M3U8 / CUE, zmeňte poradie a exportujte do M3U / CSV / TXT." >}}
+{{< ls-card icon="music-note" link="/docs/guide/flacbox/flacbox-guide-playlists" title="Prehrávače" subtitle="Vytvorte, importujte M3U / M3U8 / CUE, zmeňte poradie a exportujte do M3U / CSV / TXT." >}}
 
-{{< card icon="folder" link="/docs/guide/flacbox/flacbox-guide-local-files" title="Lokálne súbory" subtitle="Offline hudba, USB disky, Wi-Fi Drive, správca súborov, offline priečinky." >}}
+{{< ls-card icon="folder" link="/docs/guide/flacbox/flacbox-guide-local-files" title="Lokálne súbory" subtitle="Offline hudba, USB disky, Wi-Fi Drive, správca súborov, offline priečinky." >}}
 
-{{< card icon="play" link="/docs/guide/flacbox/flacbox-guide-player" title="Audio prehrávač" subtitle="Hi-res výstup, ekvalizér, výška tónu, záložky, AirPlay, Chromecast, rýchlosť, časovač spánku." >}}
+{{< ls-card icon="play" link="/docs/guide/flacbox/flacbox-guide-player" title="Audio prehrávač" subtitle="Hi-res výstup, ekvalizér, výška tónu, záložky, AirPlay, Chromecast, rýchlosť, časovač spánku." >}}
 
-{{< card icon="adjustments" link="/docs/guide/flacbox/flacbox-guide-settings" title="Nastavenia" subtitle="Audio engine, knižnica, správca súborov, CarPlay, widgety, personalizácia, jazyk, záloha." >}}
+{{< ls-card icon="adjustments" link="/docs/guide/flacbox/flacbox-guide-settings" title="Nastavenia" subtitle="Audio engine, knižnica, správca súborov, CarPlay, widgety, personalizácia, jazyk, záloha." >}}
 
-{{< card icon="question-mark-circle" link="/docs/faq/flacbox" title="FAQ" subtitle="Nájdite odpovede na 50 najčastejších otázok o Flacbox." >}}
+{{< ls-card icon="question-mark-circle" link="/docs/faq/flacbox" title="FAQ" subtitle="Nájdite odpovede na 50 najčastejších otázok o Flacbox." >}}
 
 {{< /cards >}}

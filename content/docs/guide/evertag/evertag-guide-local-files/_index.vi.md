@@ -18,7 +18,7 @@ Phần Tệp cục bộ là trung tâm quản lý các tệp nằm trong thư m�
 Trình quản lý tệp tích hợp này cho phép bạn chỉnh sửa tệp và cung cấp nhiều phương thức nhập tệp âm thanh vào ứng dụng. Các tệp bạn đã mở gần đây sẽ tự động xuất hiện trong tab **Gần đây** và các mục bạn đánh dấu sao sẽ hiển thị trong **Yêu thích**, giúp bạn truy cập ngay vào các tệp làm việc thường xuyên nhất.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evertag Downloads Screen" image="/docs/guide/evertag/img/downloads.webp" >}}
+  {{< ls-card title="" subtitle="Evertag Downloads Screen" image="/docs/guide/evertag/img/downloads.webp" >}}
 {{< /cards >}}
 
 ## Tải tệp từ bộ nhớ đám mây
@@ -74,7 +74,7 @@ Hiển thị các tệp và thư mục được lưu trữ trong thư mục Tài
 Hiển thị các tệp nằm trên thiết bị của bạn nhưng trong các ứng dụng khác. Bạn có thể nhập chúng vào ứng dụng này bằng bộ chọn tệp hệ thống. Để kích hoạt bộ chọn, chọn «Mở tệp...» để chọn tệp hoặc «Mở thư mục...» để chọn thư mục. Hướng dẫn chi tiết về cách nhập nhạc cục bộ trên iPhone hoặc Mac có sẵn [tại đây](/docs/howto/how-to-play-local-music-stored-on-your-iphone-or-mac). Bạn cũng có thể kết nối một thư mục nằm trên thiết bị và có quyền truy cập nhanh vào nội dung thư mục. Sử dụng mục menu «Kết nối thư mục» và chọn một thư mục trên thiết bị. Nhấn «Hoàn tất», và ứng dụng sẽ tạo liên kết đến thư mục đó với quyền đọc/ghi, cho phép bạn quản lý tệp trực tiếp từ ứng dụng này. Để ngắt kết nối thư mục trên thiết bị, nhấn nút «Thêm hành động» và chọn «Ngắt kết nối».
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evertag Import Files From My Device" image="/docs/guide/evertag/img/open-files.webp" >}}
+  {{< ls-card title="" subtitle="Evertag Import Files From My Device" image="/docs/guide/evertag/img/open-files.webp" >}}
 {{< /cards >}}
 
 ## Nhập tệp từ USB flash đã kết nối
@@ -86,7 +86,7 @@ Hướng dẫn chi tiết về cách kết nối USB flash với iPhone và qu�
 Menu Thêm hành động cho thư mục đang mở nằm ở góc trên bên phải và cung cấp quyền truy cập vào nhiều hành động khác nhau.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evertag Import Files From My Device" image="/docs/guide/evertag/img/downloads-current-folder-actions.webp" >}}
+  {{< ls-card title="" subtitle="Evertag Import Files From My Device" image="/docs/guide/evertag/img/downloads-current-folder-actions.webp" >}}
 {{< /cards >}}
 
 - **Chọn:** Chuyển sang chế độ chọn cho tệp và thư mục.  

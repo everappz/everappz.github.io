@@ -31,7 +31,7 @@ Puoi arrivare al lettore a schermo intero dalla barra del lettore compatto. Su i
 Il lettore compatto rimane visibile mentre sfoglie la libreria, il gestore file o le impostazioni, così non perdi mai il video mentre cerchi il prossimo.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Lettore Media a Schermo Intero di Evervideo" image="/docs/guide/evervideo/img/evervideo-media-player-fullscreen.webp" >}}
+  {{< ls-card title="" subtitle="Lettore Media a Schermo Intero di Evervideo" image="/docs/guide/evervideo/img/evervideo-media-player-fullscreen.webp" >}}
 {{< /cards >}}
 
 ## Formati Video e Audio Supportati
@@ -72,7 +72,7 @@ PiP funziona con ogni formato video riprodotto da Evervideo, inclusi i file in s
 Il lettore compatto è un mini lettore persistente che rimane visibile in cima a ogni schermata dell'app mentre sfoglie la libreria, il gestore file o le impostazioni. Toccalo per espanderlo nel lettore a schermo intero; scorri verso il basso per ridurlo di nuovo.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Impostazioni Video Evervideo dalla Vista Lettore Compatto nella Schermata Principale" image="/docs/guide/evervideo/img/evervideo-video-settings-from-compact-player-view-on-the-main-screen.webp" >}}
+  {{< ls-card title="" subtitle="Impostazioni Video Evervideo dalla Vista Lettore Compatto nella Schermata Principale" image="/docs/guide/evervideo/img/evervideo-video-settings-from-compact-player-view-on-the-main-screen.webp" >}}
 {{< /cards >}}
 
 ## AirPlay 2
@@ -115,7 +115,7 @@ Evervideo include un equalizzatore audio completo per sintonizzare le colonne so
 Per sintonizzare l'immagine, Evervideo fornisce un equalizzatore video dedicato — regola luminosità, contrasto, saturazione e tonalità in tempo reale durante la riproduzione. Come l'equalizzatore audio, i preset video personalizzati possono essere esportati e importati per la condivisione o il backup. Usalo per illuminare una scena buia in una giornata di sole, aumentare la saturazione su contenuti sbiaditi o riscaldare una tonalità di colore fredda.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Equalizzatore Video di Evervideo" image="/docs/guide/evervideo/img/evervideo-video-equalizer.webp" >}}
+  {{< ls-card title="" subtitle="Equalizzatore Video di Evervideo" image="/docs/guide/evervideo/img/evervideo-video-equalizer.webp" >}}
 {{< /cards >}}
 
 ## Modalità di Ridimensionamento Video
@@ -144,7 +144,7 @@ Evervideo include un viewport VR / 360° per file video sferici. Quando si ripro
 Tocca il controllo Velocità sulla barra degli strumenti del lettore per cambiare la velocità di riproduzione — rallentala per l'analisi (0,25× o 0,5×) o accelerala per tutorial e lezioni (1,25×, 1,5×, 2× e fino a 3×). Tocca l'icona di configurazione nell'angolo in alto a destra della schermata Velocità per passare alla modalità precisa con regolazioni più fini. La correzione del tono per traccia è anche disponibile.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Velocità di Riproduzione Evervideo sulla Barra degli Strumenti Principale" image="/docs/guide/evervideo/img/evervideo-media-player-playback-speed-on-main-toolbar.webp" >}}
+  {{< ls-card title="" subtitle="Velocità di Riproduzione Evervideo sulla Barra degli Strumenti Principale" image="/docs/guide/evervideo/img/evervideo-media-player-playback-speed-on-main-toolbar.webp" >}}
 {{< /cards >}}
 
 ## Coda del Lettore
@@ -152,7 +152,7 @@ Tocca il controllo Velocità sulla barra degli strumenti del lettore per cambiar
 Per vedere la coda del lettore, tocca il pulsante coda sul lettore. Ogni video nella coda ha più azioni — tocca i tre puntini per visualizzarle. Per riordinare un video nella coda, usa l'indicatore di riordino vicino al titolo e trascinalo in una nuova posizione.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Coda di Riproduzione di Evervideo" image="/docs/guide/evervideo/img/evervideo-playback-queue.webp" >}}
+  {{< ls-card title="" subtitle="Coda di Riproduzione di Evervideo" image="/docs/guide/evervideo/img/evervideo-playback-queue.webp" >}}
 {{< /cards >}}
 
 ## Sleep Timer
@@ -189,7 +189,7 @@ Tocca il pulsante **Altre azioni "..."** sul lettore per accedere a funzioni agg
 - **Aiuto** — apri la guida.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Schermata Altre Azioni del Lettore Evervideo" image="/docs/guide/evervideo/img/evervideo-media-player-more-actions.webp" >}}
+  {{< ls-card title="" subtitle="Schermata Altre Azioni del Lettore Evervideo" image="/docs/guide/evervideo/img/evervideo-media-player-more-actions.webp" >}}
 {{< /cards >}}
 
 ## Impostazioni del Lettore

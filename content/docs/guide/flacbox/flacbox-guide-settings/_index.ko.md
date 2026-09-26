@@ -21,7 +21,7 @@ readingTime: 16
 설정 화면은 Flacbox의 제어 센터입니다. 여기서 프리미엄으로 업그레이드하고, 오디오 엔진(시스템 코덱 또는 FFmpeg)을 구성하고, 음악 라이브러리를 관리하고, 파일 관리자를 설정하고, 오디오 태그 편집기를 사용자 정의하고, 홈 화면 위젯과 Apple CarPlay를 활성화하고, 데이터를 백업하고, 도움말 및 법적 정보에 액세스할 수 있습니다. 섹션은 구매 및 업데이트, 앱 기본 설정, 도움말, 법률 및 개인 정보 보호 헤더 아래에 그룹화되어 있습니다.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox 설정 메인 화면" image="/docs/guide/flacbox/img/settings-main.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox 설정 메인 화면" image="/docs/guide/flacbox/img/settings-main.webp" >}}
 {{< /cards >}}
 
 ## 프리미엄으로 업그레이드
@@ -29,13 +29,13 @@ readingTime: 16
 모든 제한을 제거하려면 애플리케이션을 프리미엄 버전으로 업그레이드하세요. 무료 버전의 애플리케이션은 일회성 평생 인앱 구매와 두 가지 구독 옵션(1개월 및 1년)을 제공하여 모든 제한을 제거하고 프리미엄으로 업그레이드할 수 있습니다.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox 프리미엄으로 업그레이드" image="/docs/guide/flacbox/img/upgrade-to-premium.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox 프리미엄으로 업그레이드" image="/docs/guide/flacbox/img/upgrade-to-premium.webp" >}}
 {{< /cards >}}
 
 **가족 공유**는 모든 구매 및 플랜에 활성화되어 있으므로 추가 비용 없이 최대 5명의 가족과 프리미엄 버전을 공유할 수 있습니다.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox 프리미엄 플랜 선택" image="/docs/guide/flacbox/img/select-premium-plan.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox 프리미엄 플랜 선택" image="/docs/guide/flacbox/img/select-premium-plan.webp" >}}
 {{< /cards >}}
 
 구매 및 프리미엄 버전에 대해 더 알아보려면 여기를 읽어보세요: [Flacbox와 Flacbox 프리미엄의 차이점은 무엇인가요](/docs/faq/flacbox/what-is-the-difference-between-flacbox-and-flacbox-premium/).

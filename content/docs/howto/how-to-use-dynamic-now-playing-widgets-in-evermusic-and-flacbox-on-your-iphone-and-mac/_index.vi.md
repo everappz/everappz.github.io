@@ -7,7 +7,7 @@ tags: ["widget", "ios17", "động", "đang phát", "màn hình chính", "sonoma
 keywords: ["Widget Evermusic", "Widget Flacbox", "Widget Đang Phát iOS", "widget máy tính macOS Sonoma", "đánh dấu âm thanh iPhone", "widget nhạc Evermusic", "điều khiển phát lại màn hình chính", "widget động iOS 17"]
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **Tóm tắt:** Evermusic và Flacbox cung cấp widget Đang Phát tương tác trên iOS 17+ và macOS 14 Sonoma+. Bạn có thể điều khiển phát lại, bỏ qua bài hát, thêm yêu thích và tạo đánh dấu âm thanh trực tiếp từ màn hình chính iPhone hoặc máy tính để bàn Mac — không cần mở ứng dụng.
@@ -78,22 +78,22 @@ Tận hưởng bản cập nhật và chúc bạn nghe nhạc vui vẻ!
 
 ## Câu Hỏi Thường Gặp
 
-{{% details title="Widget có hoạt động mà không cần mở ứng dụng không?" closed="true" %}}
+{{% ls-details title="Widget có hoạt động mà không cần mở ứng dụng không?" closed="true" %}}
 Có. Trên iOS 17 và macOS 14 Sonoma, các nút widget có tương tác và điều khiển phát lại trực tiếp. Ứng dụng không cần ở chế độ nền trước.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Tôi nên chọn kích thước widget nào?" closed="true" %}}
+{{% ls-details title="Tôi nên chọn kích thước widget nào?" closed="true" %}}
 Chọn Nhỏ cho phát/tạm dừng cơ bản và yêu thích. Chọn Trung Bình nếu bạn muốn nút tua. Chọn Lớn nếu bạn cũng muốn đánh dấu âm thanh.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Tôi có thể sử dụng widget để tiếp tục sách nói không?" closed="true" %}}
+{{% ls-details title="Tôi có thể sử dụng widget để tiếp tục sách nói không?" closed="true" %}}
 Có. Bật "Lưu Trạng Thái Trình Phát Âm Thanh" trong Cài đặt, và widget sẽ tiếp tục phát từ vị trí cuối cùng của bạn ngay cả sau khi ứng dụng đã bị đóng.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Widget có sẵn trên iPad không?" closed="true" %}}
+{{% ls-details title="Widget có sẵn trên iPad không?" closed="true" %}}
 Có. iPadOS 17 hỗ trợ các widget tương tác giống như iPhone.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Cả Evermusic và Flacbox đều có widget này không?" closed="true" %}}
+{{% ls-details title="Cả Evermusic và Flacbox đều có widget này không?" closed="true" %}}
 Có. Widget Đang Phát có sẵn trong cả Evermusic và Flacbox với chức năng giống hệt nhau.
-{{% /details %}}
+{{% /ls-details %}}

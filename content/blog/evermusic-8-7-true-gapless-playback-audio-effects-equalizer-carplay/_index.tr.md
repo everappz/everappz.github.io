@@ -12,7 +12,7 @@ authors:
     image: "/images/about/artem-meleshko-founder-everappz.webp"
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 **Özet:** [Evermusic 8.7](/products/evermusic), iPhone, iPad ve Mac için bir ses kalitesi sürümüdür. **Gerçek boşluksuz çalma** (parçalar arasında duraklama, tıklama veya tık sesi yok), tam bir **stüdyo ses efektleri** seti — Reverb, Delay, Distortion, Kompresör ve Crossfeed — ve ReplayGain etiketleri olmadan ses yüksekliğini şarkıdan şarkıya tutarlı tutan **EBU R128 ses düzeyi normalizasyonu** getirir. **10 bantlı ekolayzer**, yeni kaydırıcılar, daha hızlı ön ayar değiştirme, içe ve dışa aktarabileceğiniz özel ön ayarlar ve daha iyi bir yatay ile iPad düzeniyle yeniden tasarlandı. Kaputun altında, **yeniden yapılandırılmış bir AVAudioEngine yayın motoru** güvenilirliği ve format desteğini iyileştirir; **FLAC** ve **Ogg Vorbis** dâhil. **CarPlay** ve **Şimdi Çalınıyor**, kilit ekranında, arabada ve kulaklık uzaktan kumandalarında daha hızlı ve daha doğru.
 
@@ -129,50 +129,50 @@ Uygulamayı beğendiyseniz, lütfen App Store'da bir değerlendirme bırakın �
 
 ## Sık Sorulan Sorular
 
-{{% details title="Evermusic 8.7'de yenilikler neler?" closed="true" %}}
+{{% ls-details title="Evermusic 8.7'de yenilikler neler?" closed="true" %}}
 Evermusic 8.7, gerçek boşluksuz çalma, beş stüdyo ses efekti (Reverb, Delay, Distortion, Kompresör ve Crossfeed), EBU R128 ses düzeyi normalizasyonu, özel ön ayarlar ve içe/dışa aktarımlı yeniden tasarlanmış 10 bantlı ekolayzer, iyileştirilmiş format desteğine (FLAC ve Ogg Vorbis dâhil) sahip yeniden yapılandırılmış AVAudioEngine yayın motoru, daha hızlı ve daha doğru CarPlay ile Şimdi Çalınıyor, Liquid Glass tasarım güncellemeleri, yenilenmiş Ana Ekran widget'ları ve hata ile yerelleştirme düzeltmeleri ekler.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Evermusic'in gerçek boşluksuz çalması var mı?" closed="true" %}}
+{{% ls-details title="Evermusic'in gerçek boşluksuz çalması var mı?" closed="true" %}}
 Evet. Evermusic 8.7'den itibaren çalma gerçekten boşluksuzdur: parçalar arasında duraklama, tıklama veya tık sesi yoktur. Motor, mevcut parça çalarken bir sonraki parçayı önceden arabelleğe alıp çözer ve sürekli bir halka arabelleği üzerinde ses örnekleri arasında devreder, böylece geçiş duyulmaz. Yerel dosyalar, bulut yayınları ve medya sunucuları için çalışır ve canlı albümler, DJ mix'leri ile konsept albümler için idealdir.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Evermusic 8.7 hangi ses efektlerini içerir?" closed="true" %}}
+{{% ls-details title="Evermusic 8.7 hangi ses efektlerini içerir?" closed="true" %}}
 Beş gerçek zamanlı efekt: **Reverb** (13 oda ön ayarı, wet/dry mix), **Delay/Eko** (delay süresi, feedback, alçak geçiren ve mix ile 10 ön ayar), **Distortion** (pre-gain ve mix ile 22 karakter ön ayarı), **Kompresör** (threshold, ratio, attack, release, expansion ve makeup gain ile tam bir dinamik işlemci, artı 10 ön ayar) ve **Crossfeed** (düzey ve cutoff denetimleri ile 6 ön ayarlı Bauer bs2b kulaklık crossfeed'i). Her efekt özenle seçilmiş ön ayarlarla gelir ve özel ayarlarınız oturumlar arasında hatırlanır.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Crossfeed nedir ve neden kullanırım?" closed="true" %}}
+{{% ls-details title="Crossfeed nedir ve neden kullanırım?" closed="true" %}}
 Crossfeed, her stereo kanalın küçük, filtrelenmiş bir miktarını diğerine karıştırır; tıpkı kulaklarınızın bir odadaki gerçek hoparlörleri doğal olarak duyduğu gibi. Kulaklıklarda bu, sert pan yapılmış kayıtların abartılı, "kafanın içinde" ayrımını azaltır ve uzun dinlemeyi daha rahat hâle getirir. Evermusic, iyi bilinen Bauer stereophonic-to-binaural (bs2b) algoritmasını kullanır ve Chu Moy ile Jan Meier gibi ön ayarlar içerir. Özellikle eski 1960'lar ve 1970'ler stereo mikslerinde etkilidir.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Evermusic'te ses düzeyi normalizasyonu nasıl çalışır?" closed="true" %}}
+{{% ls-details title="Evermusic'te ses düzeyi normalizasyonu nasıl çalışır?" closed="true" %}}
 Evermusic 8.7, her parçanın algılanan ses yüksekliğini EBU R128 standardıyla (ITU-R BS.1770) gerçek zamanlı ölçer ve düzeyi nazikçe tutarlı bir hedefe doğru ayarlar, böylece parçalar ses düzeyinde zıplamaz. ReplayGain etiketleri gerektirmez ve dosyalarınızı değiştirmez. Dört ön ayar mevcuttur — Light (−20 LUFS), Standard (−16 LUFS), Strong (−14 LUFS) ve Night (−23 LUFS) — ve normalizasyon, sardığınızda veya parça değiştirdiğinizde temiz bir şekilde sıfırlanır.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Evermusic'in ses düzeyi normalizasyonu ReplayGain ile aynı mı?" closed="true" %}}
+{{% ls-details title="Evermusic'in ses düzeyi normalizasyonu ReplayGain ile aynı mı?" closed="true" %}}
 Aynı hedefe ulaşır — parçalar arasında tutarlı ses yüksekliği — ama farklı çalışır. ReplayGain, dosyalarınızın içinde depolanan ses yüksekliği etiketlerine dayanır. Evermusic'in normalleştiricisi, ses yüksekliğini EBU R128 ile canlı ölçer, böylece dosyalarda hiç etiket olmasa bile bulut yayınları ve internet radyosu dâhil herhangi bir kaynakta çalışır.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Evermusic ekolayzerinin kaç bandı var ve kendi ön ayarlarımı oluşturabilir miyim?" closed="true" %}}
+{{% ls-details title="Evermusic ekolayzerinin kaç bandı var ve kendi ön ayarlarımı oluşturabilir miyim?" closed="true" %}}
 Evermusic ekolayzeri, 32 Hz ile 16 kHz arasını kapsayan 10 bantlı bir grafik ekolayzerdir; her bant 0,1 dB adımlarla −12 dB'den +12 dB'ye ayarlanabilir ve −24 dB'den +24 dB'ye bir ön yükselteç vardır. Yerleşik ön ayarlar içerir, özel ön ayarlar oluşturup kaydetmenize izin verir ve cihazlar arasında taşıyabilmeniz veya paylaşabilmeniz için ön ayarları .eqp dosyaları olarak içe ve dışa aktarmayı destekler.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Evermusic 8.7 ekolayzerinde ne değişti?" closed="true" %}}
+{{% ls-details title="Evermusic 8.7 ekolayzerinde ne değişti?" closed="true" %}}
 Ekolayzer; iOS 26 sistem kaydırıcısı ile Liquid Glass görünümünü benimseyen yeni, daha hassas kaydırıcılar, daha hızlı ve daha yumuşak ön ayar değiştirme ve yatayda ile iPad'de daha iyi bir düzen (dikeyde yatay bir ön ayar çubuğu ve yatayda dikey bir ön ayar sütunu) ile yeniden tasarlandı. Özel ön ayarlar ve .eqp içe/dışa aktarımı desteklenir.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Evermusic 8.7 FLAC ve Ogg Vorbis'i destekliyor mu?" closed="true" %}}
+{{% ls-details title="Evermusic 8.7 FLAC ve Ogg Vorbis'i destekliyor mu?" closed="true" %}}
 Evet. Yeniden yapılandırılmış motor, yerel dosyalardan, bulut sürücülerinden ve medya sunucularından FLAC (Core Audio üzerinden) ve Ogg Vorbis'i (libvorbisfile üzerinden), MP3, AAC, Apple Lossless (ALAC), WAV, AIFF, AC-3, CAF ve daha fazlasıyla birlikte çalar.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="CarPlay'de ve kilit ekranında ne iyileşti?" closed="true" %}}
+{{% ls-details title="CarPlay'de ve kilit ekranında ne iyileşti?" closed="true" %}}
 CarPlay albüm kapak resmi uzun listelerde birkaç kat daha hızlı yükleniyor ve daha önce hiçbirini göstermeyen kompakt iOS 26 liste satırlarında artık görünüyor. Kilit ekranındaki ve CarPlay'deki Şimdi Çalınıyor bilgisi daha doğru — başlık, geçen süre, süre ve çal/duraklat durumu birlikte yakalandığı için çelişemezler ve arabelleğe alma durumları doğru raporlanır. Uzaktan kumandalar (çal, duraklat, sonraki, önceki, sar, karıştır, tekrarla, hız) kulaklıklardan ve arabadan güvenilir şekilde yanıt verir ve büyük kütüphanelerde CarPlay sıralaması daha hızlıdır.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Ses efektleri ve ekolayzer bulut yayını ile CarPlay'de çalışır mı?" closed="true" %}}
+{{% ls-details title="Ses efektleri ve ekolayzer bulut yayını ile CarPlay'de çalışır mı?" closed="true" %}}
 Evet. Efektler, ekolayzer ve ses düzeyi normalizasyonu çalma motorunun içinde yerleşik çalışır, böylece Evermusic'in çaldığı her şeye uygulanırlar — yerel dosyalar, bulut sürücüleri, medya sunucuları ve internet radyosu — ve CarPlay çalma sırasında, ayrıca desteklendiği yerlerde AirPlay ve Chromecast üzerinden çalışmaya devam ederler.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Evermusic 8.7 güncellemesi ücretsiz mi ve hangi cihazları destekliyor?" closed="true" %}}
+{{% ls-details title="Evermusic 8.7 güncellemesi ücretsiz mi ve hangi cihazları destekliyor?" closed="true" %}}
 Evet. Evermusic, App Store'dan ücretsiz bir indirmedir ve 8.7, mevcut kullanıcılar için ücretsiz bir güncellemedir; gelişmiş özellikler için isteğe bağlı uygulama içi yükseltmelerle. iPhone, iPad ve Mac'te çalışır. CarPlay, CarPlay uyumlu bir araç veya ana ünite gerektirir.
-{{% /details %}}
+{{% /ls-details %}}

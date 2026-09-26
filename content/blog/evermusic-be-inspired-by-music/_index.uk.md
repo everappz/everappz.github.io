@@ -14,7 +14,7 @@ authors:
     image: "/images/about/artem-meleshko-founder-everappz.webp"
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 **TL;DR:** Перегляньте офіційне промовідео Evermusic, щоб побачити хмарний стрімінг музики, офлайн-відтворення та налаштування звуку в дії на iPhone та Mac.
 
@@ -24,7 +24,7 @@ authors:
 
 Дивіться Evermusic в дії -- стрімінг музики з хмари, управління плейлистами та відтворення високоякісного звуку на iPhone:
 
-{{< youtubecard id="6mm3LVT4rtA" title="Evermusic Promo Video" >}}
+{{< ls-youtubecard id="6mm3LVT4rtA" title="Evermusic Promo Video" >}}
 
 ## Що ви побачите у відео
 
@@ -41,14 +41,14 @@ Evermusic доступний для iPhone, iPad та Mac. [Завантажте
 
 ## FAQ
 
-{{% details title="Що таке Evermusic?" closed="true" %}}
+{{% ls-details title="Що таке Evermusic?" closed="true" %}}
 Evermusic — це музичний плеєр для iOS та macOS, який стрімить аудіо з хмарних сервісів, таких як Dropbox, Google Drive, OneDrive та iCloud Drive. Він також підтримує офлайн-відтворення та має вбудований еквалайзер.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Які хмарні сервіси підтримує Evermusic?" closed="true" %}}
+{{% ls-details title="Які хмарні сервіси підтримує Evermusic?" closed="true" %}}
 Evermusic підключається до Dropbox, Google Drive, OneDrive, iCloud Drive, pCloud, Yandex.Disk та кількох інших постачальників хмарного сховища.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Evermusic безкоштовний?" closed="true" %}}
+{{% ls-details title="Evermusic безкоштовний?" closed="true" %}}
 Evermusic можна завантажити безкоштовно з додатковими преміум-функціями, доступними через покупку в додатку.
-{{% /details %}}
+{{% /ls-details %}}

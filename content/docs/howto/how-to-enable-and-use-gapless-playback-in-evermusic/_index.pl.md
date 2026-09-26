@@ -7,7 +7,7 @@ tags: ["Evermusic", "Odtwarzanie bez przerw", "Poradnik", "Dźwięk", "Odtwarzan
 readingTime: 4
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 **W skrócie:** Otwórz **Ustawienia > Odtwarzacz audio > Odtwarzanie bez przerw** i włącz przełącznik. Od tej chwili utwory grają bez pauzy, kliknięcia czy trzasku między nimi. Evermusic z wyprzedzeniem buforuje i dekoduje następny utwór, gdy bieżący jeszcze gra, a następnie przełącza się między próbkami audio na ciągłym buforze, dzięki czemu przejście jest naprawdę płynne. To prawdziwe odtwarzanie bez przerw z dokładnością do próbki, a nie płynne przejście.
 
@@ -73,30 +73,30 @@ Rezultat jest taki, że album koncertowy, zsynchronizowany rytmicznie set DJ czy
 
 ## Najczęściej zadawane pytania
 
-{{% details title="Jak włączyć odtwarzanie bez przerw w Evermusic?" closed="true" %}}
+{{% ls-details title="Jak włączyć odtwarzanie bez przerw w Evermusic?" closed="true" %}}
 Otwórz Evermusic, przejdź do Ustawienia > Odtwarzacz audio > Odtwarzanie bez przerw i włącz przełącznik. Jest domyślnie wyłączone. Po włączeniu obejmuje wszystko, co odtwarzasz, i pozostaje włączone, dopóki go nie wyłączysz.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Czy odtwarzanie bez przerw w Evermusic jest prawdziwe, czy to tylko płynne przejście?" closed="true" %}}
+{{% ls-details title="Czy odtwarzanie bez przerw w Evermusic jest prawdziwe, czy to tylko płynne przejście?" closed="true" %}}
 To prawdziwe odtwarzanie bez przerw z dokładnością do próbki. Evermusic dekoduje i wstępnie buforuje następny utwór, gdy bieżący gra, a następnie przełącza się między próbkami audio na ciągłym buforze, więc nie jest wstawiana żadna cisza, kliknięcie ani wypełnienie i nie występuje przerwa na ponowne uruchomienie dekodera. Płynne przejście to osobna, inna funkcja, która nakłada i miesza utwory; odtwarzanie bez przerw zachowuje dźwięk dokładnie tak, jak został zmasterowany, i tylko usuwa przerwę.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Dlaczego wciąż słyszę przerwę między niektórymi utworami?" closed="true" %}}
+{{% ls-details title="Dlaczego wciąż słyszę przerwę między niektórymi utworami?" closed="true" %}}
 Upewnij się, że odtwarzanie bez przerw jest włączone w Ustawienia > Odtwarzacz audio > Odtwarzanie bez przerw. Jeśli przerwa pozostaje, może być wtopiona w samo nagranie (niektóre pliki zawierają kilka sekund prawdziwej ciszy na początku lub końcu utworu). Odtwarzanie bez przerw usuwa przerwę, którą odtwarzacz normalnie dodałby między utworami; nie może usunąć ciszy, która jest częścią pliku audio.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Czy odtwarzanie bez przerw działa z plikami FLAC i innymi plikami bezstratnymi?" closed="true" %}}
+{{% ls-details title="Czy odtwarzanie bez przerw działa z plikami FLAC i innymi plikami bezstratnymi?" closed="true" %}}
 Tak. Odtwarzanie bez przerw działa z FLAC, Apple Lossless (ALAC) oraz formatami stratnymi, takimi jak MP3 i AAC, niezależnie od tego, czy pliki są zapisane lokalnie, w chmurze czy na serwerze multimediów.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Czy mogę używać odtwarzania bez przerw i płynnego przejścia jednocześnie?" closed="true" %}}
+{{% ls-details title="Czy mogę używać odtwarzania bez przerw i płynnego przejścia jednocześnie?" closed="true" %}}
 Nie. Robią rzeczy przeciwne, więc włączenie odtwarzania bez przerw automatycznie wyłącza płynne przejście. Używaj odtwarzania bez przerw dla albumów koncertowych, miksów DJ i płyt koncepcyjnych, gdzie dźwięk powinien być zachowany dokładnie; używaj płynnego przejścia, jeśli chcesz, aby utwory wyciszały się jeden w drugi.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Czy odtwarzanie bez przerw działa podczas strumieniowania z chmury?" closed="true" %}}
+{{% ls-details title="Czy odtwarzanie bez przerw działa podczas strumieniowania z chmury?" closed="true" %}}
 Tak. Evermusic z wyprzedzeniem zaczyna buforować i dekodować następny utwór, również dla dysków w chmurze i serwerów multimediów, więc przejście pozostaje płynne. Przy wolniejszych połączeniach po prostu zaczyna przygotowywać następny utwór nieco wcześniej.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Czy odtwarzanie bez przerw obniża jakość dźwięku?" closed="true" %}}
+{{% ls-details title="Czy odtwarzanie bez przerw obniża jakość dźwięku?" closed="true" %}}
 Nie. Odtwarzanie bez przerw nie koduje ponownie ani nie przetwarza Twojego dźwięku. Zmienia tylko sposób, w jaki utwory są planowane i buforowane, aby nie było przerwy między nimi. Każda próbka jest odtwarzana dokładnie tak, jak znajduje się w pliku.
-{{% /details %}}
+{{% /ls-details %}}

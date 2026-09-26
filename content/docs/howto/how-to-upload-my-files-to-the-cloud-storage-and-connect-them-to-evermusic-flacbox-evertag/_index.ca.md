@@ -7,7 +7,7 @@ tags: ["evermusic", "flacbox", "núvol", "fitxer", "compte", "gestor", "connexi�
 keywords: ["connectar servei al núvol a Evermusic", "pujar fitxers a Google Drive", "integració al núvol de Flacbox", "usar OneDrive amb Evermusic", "accés a fitxers al núvol d'Evertag", "connectar Dropbox a reproductor de música iOS", "gestor de fitxers per a serveis al núvol"]
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **Resum:** Puja els teus fitxers de música o multimèdia a qualsevol servei al núvol compatible (Google Drive, Dropbox, OneDrive i més), després connecta aquest servei dins d'Evermusic, Flacbox o Evertag per reproduir en streaming o descarregar els teus fitxers directament a l'iPhone, iPad o Mac.
@@ -76,38 +76,38 @@ Digues adéu a les limitacions d'emmagatzematge i hola a la comoditat!
 
 ## Preguntes freqüents
 
-{{% details title="Quins serveis al núvol són compatibles?" closed="true" %}}
+{{% ls-details title="Quins serveis al núvol són compatibles?" closed="true" %}}
 Evermusic, Flacbox i Evertag són compatibles amb Google Drive, Dropbox, OneDrive, Box, MediaFire, Yandex.Disk, MEGA, MyDrive, pCloud i altres proveïdors de núvol. També pots connectar servidors WebDAV, SMB i FTP personalitzats.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Puc reproduir música en streaming directament des del núvol sense descarregar?" closed="true" %}}
+{{% ls-details title="Puc reproduir música en streaming directament des del núvol sense descarregar?" closed="true" %}}
 Sí. Les tres aplicacions permeten la reproducció en streaming de fitxers d'àudio directament des del teu emmagatzematge al núvol connectat. També pots descarregar fitxers per a la reproducció fora de línia quan no tinguis accés a internet.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Hi ha un límit de mida de fitxer o d'emmagatzematge a l'aplicació?" closed="true" %}}
+{{% ls-details title="Hi ha un límit de mida de fitxer o d'emmagatzematge a l'aplicació?" closed="true" %}}
 Les aplicacions no imposen els seus propis límits de mida de fitxer o d'emmagatzematge. L'emmagatzematge disponible depèn del teu pla de servei al núvol i de l'emmagatzematge local del teu dispositiu per als fitxers descarregats.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Puc connectar diversos comptes al núvol alhora?" closed="true" %}}
+{{% ls-details title="Puc connectar diversos comptes al núvol alhora?" closed="true" %}}
 Sí. Pots connectar diversos serveis al núvol i diversos comptes del mateix proveïdor simultàniament. Tots els comptes connectats apareixen a la pestanya Connexions per canviar fàcilment.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="He de tornar a pujar els fitxers si canvio a una altra aplicació?" closed="true" %}}
+{{% ls-details title="He de tornar a pujar els fitxers si canvio a una altra aplicació?" closed="true" %}}
 No. Com que els teus fitxers s'emmagatzemen al núvol, pots connectar el mateix compte al núvol a Evermusic, Flacbox o Evertag sense tornar a pujar res. Cada aplicació accedeix als mateixos fitxers del teu emmagatzematge al núvol.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Les dades del meu compte al núvol són segures?" closed="true" %}}
+{{% ls-details title="Les dades del meu compte al núvol són segures?" closed="true" %}}
 Sí. L'aplicació utilitza només SDK oficials i connexions xifrades per interactuar amb els serveis al núvol. El teu nom d'usuari i contrasenya mai no són emmagatzemats per l'aplicació. Quan inicies sessió, l'aplicació mostra la pàgina d'autorització oficial proporcionada pel servei al núvol. Després d'una autorització correcta, el proveïdor de núvol envia un token d'autenticació a l'aplicació, que s'emmagatzema de manera segura al Keychain del dispositiu. Aquest token s'utilitza per a totes les sol·licituds d'API.<br><br>
 L'aplicació no comparteix cap informació del teu compte al núvol. Pots revocar l'accés en qualsevol moment des de la pàgina de configuració del teu compte al núvol en un navegador web, o desconnectar el compte dins de l'aplicació.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Com desconnecto un servei al núvol o canvio la seva configuració?" closed="true" %}}
+{{% ls-details title="Com desconnecto un servei al núvol o canvio la seva configuració?" closed="true" %}}
 Localitza l'emmagatzematge al núvol a la pestanya **Connexions** de l'aplicació i toca el botó **...** al costat. Veuràs aquestes opcions:<br>
 - **Canviar el nom** -- canvia el nom de visualització del servei al núvol<br>
 - **Configuració** -- modifica la configuració o torna a autoritzar si el token ha caducat<br>
 - **Desconnectar** -- elimina la connexió completament. Això elimina totes les cançons d'aquest servei al núvol de la biblioteca de música de l'aplicació, però els fitxers romanen al servidor
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Com revoco l'accés de l'aplicació al meu compte al núvol?" closed="true" %}}
+{{% ls-details title="Com revoco l'accés de l'aplicació al meu compte al núvol?" closed="true" %}}
 Inicia sessió al teu compte al núvol en un navegador web i obre la pàgina de configuració del compte o de seguretat. Cerca la llista d'aplicacions de tercers connectades i elimina l'aplicació que ja no vols autoritzar. També pots desconnectar el compte al núvol dins de l'aplicació -- això elimina el token d'autenticació del teu dispositiu. Si elimines l'aplicació completament, totes les dades descarregades i els tokens d'accés s'eliminen automàticament.
-{{% /details %}}
+{{% /ls-details %}}

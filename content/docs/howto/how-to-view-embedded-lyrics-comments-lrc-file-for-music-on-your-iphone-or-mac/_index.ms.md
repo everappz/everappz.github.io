@@ -7,7 +7,7 @@ tags: ["audio", "iphone", "mp3", "lirik", "lrc", "terbenam", "lihat", "papar"]
 keywords: ["lihat lirik terbenam iPhone", "Evermusic tunjuk lirik", "fail LRC Evermusic", "tag komen audio", "papar lirik Flacbox", "lirik iOS aplikasi muzik", "pemain audio tunjuk lirik"]
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **TL;DR:** Evermusic untuk iPhone dan Mac memaparkan lirik terbenam, tag komen dan fail .lrc luaran untuk mana-mana trek audio. Buka pemain, ketik **Lebih banyak tindakan**, kemudian pilih **Komen** untuk melihat lirik dalam tiga mod: Komen, Lirik Terbenam dan Fail LRC.
@@ -68,22 +68,22 @@ Melihat lirik terbenam, komen atau fail `.lrc` yang disegerakkan dalam **Evermus
 
 ## Soalan Lazim
 
-{{% details title="Bagaimana saya melihat lirik terbenam di iPhone saya?" closed="true" %}}
+{{% ls-details title="Bagaimana saya melihat lirik terbenam di iPhone saya?" closed="true" %}}
 Buka Evermusic, mainkan lagu, ketik Lebih banyak tindakan di pemain skrin penuh, dan pilih Komen. Leret ke tab Lirik Terbenam untuk melihat lirik yang disimpan dalam tag fail audio.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Apakah fail LRC dan bagaimana ia berfungsi?" closed="true" %}}
+{{% ls-details title="Apakah fail LRC dan bagaimana ia berfungsi?" closed="true" %}}
 Fail LRC ialah fail teks yang mengandungi lirik lagu bertempoh masa. Apabila diletakkan dalam folder yang sama dengan fail audio dengan nama fail yang sama, Evermusic membacanya dan memaparkan lirik yang disegerakkan yang menatal semasa main balik.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Bolehkah saya menambah lirik pada fail muzik saya di iPhone?" closed="true" %}}
+{{% ls-details title="Bolehkah saya menambah lirik pada fail muzik saya di iPhone?" closed="true" %}}
 Ya. Gunakan aplikasi Evertag untuk mengedit tag ID3 dan menambah atau mengemas kini lirik terbenam terus di iPhone anda. Anda boleh menampal teks format LRC bertempoh untuk lirik yang disegerakkan.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Adakah Evermusic menyokong lirik yang disegerakkan (bertempoh)?" closed="true" %}}
+{{% ls-details title="Adakah Evermusic menyokong lirik yang disegerakkan (bertempoh)?" closed="true" %}}
 Ya. Evermusic menyokong lirik bertempoh dalam format LRC, sama ada apabila terbenam dalam tag audio mahupun apabila disediakan sebagai fail `.lrc` yang berasingan.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Format audio apakah yang menyokong lirik terbenam?" closed="true" %}}
+{{% ls-details title="Format audio apakah yang menyokong lirik terbenam?" closed="true" %}}
 MP3, FLAC, AAC, M4A, OGG dan kebanyakan format biasa lain menyokong lirik terbenam melalui standard tag masing-masing.
-{{% /details %}}
+{{% /ls-details %}}

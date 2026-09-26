@@ -23,7 +23,7 @@ Pemutar Audio adalah layar utama aplikasi tempat Anda mengontrol musik dan sebag
 Anda dapat membuka pemutar layar penuh dari bilah mini player. Di iPhone, mini player berada di bagian bawah layar utama. Di iPad dan Mac, ada di sisi kiri. Untuk menyembunyikan mini player di iPhone, ketuk sekali dan geser ke bawah. Untuk menutup sepenuhnya pemutar layar penuh, ketuk tombol tutup di sudut kanan bawah.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Layar Utama Pemutar Audio Flacbox" image="/docs/guide/flacbox/img/audio-player-main-screen.webp" >}}
+  {{< ls-card title="" subtitle="Layar Utama Pemutar Audio Flacbox" image="/docs/guide/flacbox/img/audio-player-main-screen.webp" >}}
 {{< /cards >}}
 
 ## Format Audio yang Didukung
@@ -64,7 +64,7 @@ Untuk AirPlay, cari tombol **AirPlay** di bagian bawah pemutar. Ketuk dan pilih 
 Flacbox menyertakan **equalizer 10 band** dengan preset bergaya iPod. Ketuk Equalizer pada tampilan volume, lalu aktifkan di sudut kanan atas. Anda dapat menggunakan preset seperti Akustik dan Penguat Bass, atau menyesuaikan setiap band frekuensi dengan slider. Instruksi lebih terperinci tentang cara menggunakan equalizer tersedia [di sini](/docs/howto/how-to-use-the-audio-equalizer-on-your-iphone-ipad-mac-with-evermusic-and-flacbox).
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Equalizer Pemutar Audio Flacbox" image="/docs/guide/flacbox/img/audio-player-equalizer.webp" >}}
+  {{< ls-card title="" subtitle="Equalizer Pemutar Audio Flacbox" image="/docs/guide/flacbox/img/audio-player-equalizer.webp" >}}
 {{< /cards >}}
 
 ## Toolbar Mode Pemutar
@@ -80,7 +80,7 @@ Untuk beberapa gaya pemutar, ada toolbar khusus di bagian atas pemutar layar pen
 Untuk melihat antrian pemutar, ketuk tombol antrian di sisi kanan lagu saat ini. Setiap lagu dalam antrian memiliki lebih banyak tindakan — ketuk tiga titik untuk melihatnya.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Antrian Pemutaran Flacbox" image="/docs/guide/flacbox/img/playback_queue.webp" >}}
+  {{< ls-card title="" subtitle="Antrian Pemutaran Flacbox" image="/docs/guide/flacbox/img/playback_queue.webp" >}}
 {{< /cards >}}
 
 ## Komentar / Lirik
@@ -96,7 +96,7 @@ Untuk melihat komentar trek dan lirik yang disematkan, serta file LRC, ikuti lan
 Setelah ini, ketuk tombol antrian pemutar di bagian bawah layar beberapa kali untuk beralih dari tampilan artwork / antrian ke tampilan komentar. Instruksi lengkap tersedia [di sini](/docs/howto/how-to-add-and-view-comments-to-your-audio-tracks-on-iphone-ipad-and-mac-with-evermusic-and-flacbox).
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Layar Lirik dan Komentar Flacbox" image="/docs/guide/flacbox/img/lyrics-screen.webp" >}}
+  {{< ls-card title="" subtitle="Layar Lirik dan Komentar Flacbox" image="/docs/guide/flacbox/img/lyrics-screen.webp" >}}
 {{< /cards >}}
 
 ## Menu Opsi
@@ -117,7 +117,7 @@ Setiap lagu dalam antrian pemutar audio memiliki menu dengan lebih banyak tindak
 - **Hapus dari Perpustakaan Musik** — menghapus lagu dari perpustakaan musik, sambil menyimpan file di penyimpanan.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox Opsi untuk Item dalam Antrian Pemutaran" image="/docs/guide/flacbox/img/options-for-item-in-playback-queue.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox Opsi untuk Item dalam Antrian Pemutaran" image="/docs/guide/flacbox/img/options-for-item-in-playback-queue.webp" >}}
 {{< /cards >}}
 
 ## Tindakan Pemutar Tambahan
@@ -139,7 +139,7 @@ Ketuk tombol **Lebih banyak tindakan** "..." di sisi kiri judul lagu yang sedang
 - **Bantuan** — temukan bantuan dan panduan.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Layar Lebih banyak tindakan Pemutar Audio Flacbox" image="/docs/guide/flacbox/img/audio-player-more-actions-screen.webp" >}}
+  {{< ls-card title="" subtitle="Layar Lebih banyak tindakan Pemutar Audio Flacbox" image="/docs/guide/flacbox/img/audio-player-more-actions-screen.webp" >}}
 {{< /cards >}}
 
 ## Bookmark Audio
@@ -155,7 +155,7 @@ Untuk membuat bookmark baru:
 - Pilih waktu bookmark dan ketuk **Selesai** di sudut kanan atas.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Layar Bookmark Audio Flacbox" image="/docs/guide/flacbox/img/audio-bookmarks.webp" >}}
+  {{< ls-card title="" subtitle="Layar Bookmark Audio Flacbox" image="/docs/guide/flacbox/img/audio-bookmarks.webp" >}}
 {{< /cards >}}
 
 ## Terbaru dan Favorit
@@ -169,7 +169,7 @@ Hubungkan iPhone ke mobil melalui USB atau Apple CarPlay nirkabel. Antarmuka Car
 [Baca panduan CarPlay lengkap](/docs/howto/how-to-play-your-own-music-on-iphone-using-carplay/).
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox di Apple CarPlay" image="/docs/guide/flacbox/img/carplay-main.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox di Apple CarPlay" image="/docs/guide/flacbox/img/carplay-main.webp" >}}
 {{< /cards >}}
 
 ## Widget Layar Utama (iPhone & iPad)
@@ -223,7 +223,7 @@ Konfigurasikan equalizer audio 10 band. Baca lebih lanjut [di sini](/docs/howto/
 Sesuaikan kecepatan pemutaran pemutar audio dari **0,02× hingga 3,00×**.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Layar Kecepatan Pemutaran Flacbox" image="/docs/guide/flacbox/img/playback-speed.webp" >}}
+  {{< ls-card title="" subtitle="Layar Kecepatan Pemutaran Flacbox" image="/docs/guide/flacbox/img/playback-speed.webp" >}}
 {{< /cards >}}
 
 ### Koreksi Pitch

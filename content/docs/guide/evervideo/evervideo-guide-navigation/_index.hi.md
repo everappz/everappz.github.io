@@ -19,7 +19,7 @@ Evervideo एक साफ, सहज इंटरफेस प्रदान �
 अधिकांश मीडिया ऐप के विपरीत, Evervideo आपके क्लाउड अकाउंट, NAS शेयर, मीडिया सर्वर और लोकल फाइलों को एक एकीकृत Files टैब में मिला देता है — इसलिए आपको अलग-अलग स्क्रीन के बीच नहीं जाना पड़ता। इससे एक Plex सर्वर से, iCloud Drive फोल्डर से, आपके iPhone के Documents फोल्डर तक वीडियो मूव करना एक स्क्रीन, एक-टैप ऑपरेशन बन जाता है।
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evervideo मुख्य स्क्रीन" image="/docs/guide/evervideo/img/evervideo-main.webp" >}}
+  {{< ls-card title="" subtitle="Evervideo मुख्य स्क्रीन" image="/docs/guide/evervideo/img/evervideo-main.webp" >}}
 {{< /cards >}}
 
 ## टैब
@@ -53,7 +53,7 @@ PiP Evervideo के सभी वीडियो फॉर्मेट के �
 स्क्रीन पर लगभग हर कंटेंट आइटम में एक अधिक क्रियाएं बटन होता है (तीन-बिंदु आइकन "⋯")। उस आइटम के लिए उपलब्ध हर क्रिया के साथ एक संदर्भ-संवेदनशील मेनू खोलने के लिए उस पर टैप करें — अगला चलाएं, बाद में चलाएं, प्लेलिस्ट में जोड़ें, पसंदीदा में जोड़ें, टैग एडिट करें, डाउनलोड करें, शेयर करें, नाम बदलें, मूव करें, और इसी तरह। लंबी सूचियां लंबवत स्क्रॉल होती हैं ताकि आप मुख्य UI को भीड़भाड़ किए बिना कम सामान्य क्रियाओं तक पहुंच सकें।
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evervideo पसंदीदा अधिक क्रियाएं मेनू" image="/docs/guide/evervideo/img/evervideo-favorites-more-actions.webp" >}}
+  {{< ls-card title="" subtitle="Evervideo पसंदीदा अधिक क्रियाएं मेनू" image="/docs/guide/evervideo/img/evervideo-favorites-more-actions.webp" >}}
 {{< /cards >}}
 
 ## टॉप टूलबार

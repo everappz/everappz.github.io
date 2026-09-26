@@ -7,7 +7,7 @@ tags: ["evermusic", "flacbox", "recenties", "lastfm", "exporteren", "scrobbler"]
 readingTime: 5
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **Samenvatting:** Exporteer je luistergeschiedenis vanuit Evermusic of Flacbox als een CSV-bestand en upload het vervolgens naar Last.fm met de gratis Last.fm-Scrubbler-WPF-tool op Windows. Automatische scrobbling is ook standaard beschikbaar in beide apps.
@@ -134,22 +134,22 @@ Nu kun je je profiel openen op de [Last.fm](http://Last.fm)-pagina en alle wijzi
 
 ## Veelgestelde vragen
 
-{{% details title="Kan ik automatisch scrobblen zonder CSV-bestanden te exporteren?" closed="true" %}}
+{{% ls-details title="Kan ik automatisch scrobblen zonder CSV-bestanden te exporteren?" closed="true" %}}
 Ja. Zowel Evermusic als Flacbox ondersteunen nu automatische Last.fm-scrobbling. Zie de handleiding: [Hoe scrobble je naar Last.fm](/docs/howto/how-to-scrobble-your-music-history-from-evermusic-or-flacbox-to-last-fm).
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Wat als mijn CSV nummers bevat die ouder zijn dan 14 dagen?" closed="true" %}}
+{{% ls-details title="Wat als mijn CSV nummers bevat die ouder zijn dan 14 dagen?" closed="true" %}}
 Gebruik de Importmodus in Last.fm-Scrubbler-WPF. Het herberekent tijdstempels op basis van de Finish Time, waardoor je nummers kunt scrobblen ongeacht hun oorspronkelijke datum.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Ik heb geen Windows-computer. Kan ik Last.fm-Scrubbler toch gebruiken?" closed="true" %}}
+{{% ls-details title="Ik heb geen Windows-computer. Kan ik Last.fm-Scrubbler toch gebruiken?" closed="true" %}}
 Ja. Installeer VirtualBox op je Mac en download de gratis Windows-ontwikkelomgevingsimage van Microsoft. Voer Last.fm-Scrubbler-WPF uit in de virtuele machine.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Waarom worden sommige scrobbles niet geparseerd?" closed="true" %}}
+{{% ls-details title="Waarom worden sommige scrobbles niet geparseerd?" closed="true" %}}
 Nummers zonder essentiële metadata (zoals artiestnaam) kunnen niet worden geparseerd. Dit is verwacht en heeft geen invloed op andere nummers in het bestand.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Is er een dagelijkse scrobblelimiet?" closed="true" %}}
+{{% ls-details title="Is er een dagelijkse scrobblelimiet?" closed="true" %}}
 Ja. Last.fm-Scrubbler-WPF staat maximaal 2.800 scrobbles per dag toe. Als je meer moet scrobblen, verdeel het proces dan over meerdere dagen.
-{{% /details %}}
+{{% /ls-details %}}

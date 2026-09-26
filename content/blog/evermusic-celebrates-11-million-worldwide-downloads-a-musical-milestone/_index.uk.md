@@ -12,7 +12,7 @@ authors:
     image: "/images/about/artem-meleshko-founder-everappz.webp"
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 **TL;DR:** Evermusic перевищив 11 мільйонів завантажень по всьому світу. Ключові функції включають 10-смуговий еквалайзер, офлайн-відтворення, стрімінг з iCloud Drive, підтримку понад 10 хмарних сервісів, синхронізацію між пристроями та вбудований редактор тегів ID3.
 
@@ -70,22 +70,22 @@ Evermusic створений для всіх, хто зберігає музик
 
 ## FAQ
 
-{{% details title="Які аудіоформати підтримує Evermusic?" closed="true" %}}
+{{% ls-details title="Які аудіоформати підтримує Evermusic?" closed="true" %}}
 Evermusic відтворює MP3, FLAC, WAV, AAC, M4A, AIFF, OGG, WMA та інші популярні аудіоформати.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Чи можу я використовувати Evermusic без підключення до інтернету?" closed="true" %}}
+{{% ls-details title="Чи можу я використовувати Evermusic без підключення до інтернету?" closed="true" %}}
 Так. Завантажте треки з хмарного сховища для офлайн-відтворення. Після завантаження інтернет не потрібен.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Чи працює Evermusic на Mac?" closed="true" %}}
+{{% ls-details title="Чи працює Evermusic на Mac?" closed="true" %}}
 Так. Evermusic доступний як на iOS (iPhone/iPad), так і на macOS, із синхронізацією бібліотеки між усіма пристроями.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Чи безкоштовне завантаження Evermusic?" closed="true" %}}
+{{% ls-details title="Чи безкоштовне завантаження Evermusic?" closed="true" %}}
 Так. Evermusic безкоштовний для завантаження з додатковими преміум-функціями, доступними через покупку в додатку.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Як працює стрімінг з iCloud Drive в Evermusic?" closed="true" %}}
+{{% ls-details title="Як працює стрімінг з iCloud Drive в Evermusic?" closed="true" %}}
 Підключіть свій обліковий запис iCloud Drive в додатку, перегляньте свої музичні файли та натисніть для відтворення. Треки стрімляться безпосередньо без необхідності попереднього завантаження.
-{{% /details %}}
+{{% /ls-details %}}

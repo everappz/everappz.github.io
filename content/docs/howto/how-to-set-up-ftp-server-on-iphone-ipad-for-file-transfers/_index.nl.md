@@ -7,7 +7,7 @@ keywords: ["FTP-server iPhone", "FTP-server iPad", "FTP instellen op iPhone", "i
 readingTime: 9
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 FTP is de oude betrouwbare kracht van bestandsoverdracht. Het bestaat al decennia, en juist daarom is het zo nuttig: bijna alles wat met een server kan praten, begrijpt het. Camera's, smart-tv's, routers, netwerkschijven, automatiseringstools en elke desktop-FTP-app spreken FTP. Met [Everdisk](/products/everdisk) kun je een FTP-server op je iPhone of iPad draaien, zodat de telefoon een plek wordt waar die apparaten en apps verbinding mee kunnen maken en bestanden kunnen verplaatsen.
 
@@ -118,44 +118,44 @@ De schakelaar **Bestanden bewerken** in Instellingen, Delen, Toegang bepaalt dit
 
 ## Veelgestelde vragen
 
-{{% details title="Wat is het FTP-adres en de poort voor mijn iPhone?" closed="true" %}}
+{{% ls-details title="Wat is het FTP-adres en de poort voor mijn iPhone?" closed="true" %}}
 Nadat je met delen begint, toont Everdisk het adres op het scherm Delen. Het ziet er zo uit: ftp://192.168.1.20:2121. De 2121 is de poort die Everdisk voor FTP gebruikt, en het eerste deel is het adres van je iPhone op het Wi-Fi, dus dat van jou is anders.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Hoe verbind ik FileZilla of Cyberduck met mijn iPhone?" closed="true" %}}
+{{% ls-details title="Hoe verbind ik FileZilla of Cyberduck met mijn iPhone?" closed="true" %}}
 Open de app en maak een nieuwe verbinding. Stel de Host in op het Wi-Fi-adres van je iPhone en de Poort op 2121. Voer je Inlognaam en Wachtwoord in, of kies Anonymous als je er geen hebt ingesteld in Everdisk. Verbind, en je kunt bestanden in beide richtingen slepen wanneer Bestanden bewerken aanstaat.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Kan ik vanaf Windows verbinden met mijn iPhone-FTP?" closed="true" %}}
+{{% ls-details title="Kan ik vanaf Windows verbinden met mijn iPhone-FTP?" closed="true" %}}
 Ja. Open Verkenner, klik op de adresbalk, typ het FTP-adres uit Everdisk (bijvoorbeeld ftp://192.168.1.20:2121), en druk op Enter. Voer je login in als je die hebt ingesteld, of ga verder als gast. Gebruik voor uploads en meer controle in plaats daarvan een FTP-app zoals FileZilla.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Heb ik een login nodig voor FTP?" closed="true" %}}
+{{% ls-details title="Heb ik een login nodig voor FTP?" closed="true" %}}
 Nee, een login is optioneel. Laat de Inlognaam en het Wachtwoord leeg in Instellingen, Delen, Toegang, en verbind als Anonymous, wat de meeste FTP-clients aanbieden. Stel een login in als je wilt dat verbindingen eerst inloggen.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Waarom kan ik alleen downloaden en niet uploaden via FTP?" closed="true" %}}
+{{% ls-details title="Waarom kan ik alleen downloaden en niet uploaden via FTP?" closed="true" %}}
 Twee redenen komen vaak voor. Ten eerste moet de schakelaar Bestanden bewerken in Instellingen, Delen, Toegang aanstaan om uploads, hernoemingen en verwijderingen toe te staan. Ten tweede opent Mac Finder FTP als alleen-lezen, dus gebruik een FTP-app zoals FileZilla of Cyberduck wanneer je wilt uploaden.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Kan ik FTP gebruiken tussen twee iPhones?" closed="true" %}}
+{{% ls-details title="Kan ik FTP gebruiken tussen twee iPhones?" closed="true" %}}
 Ja. Start de FTP-server op de eerste iPhone. Open op de tweede Everdisk, ga naar het tabblad Apparaten, tik op Nieuwe verbinding, kies FTP, en voer het adres in dat op de eerste telefoon wordt getoond. Een speciale FTP-app voor iOS werkt ook, aangezien de iOS Bestanden-app geen FTP-client bevat.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Is FTP veilig?" closed="true" %}}
+{{% ls-details title="Is FTP veilig?" closed="true" %}}
 Gewone FTP versleutelt zijn verkeer niet, dus behandel het als een hulpmiddel voor netwerken die je vertrouwt, zoals je thuis-Wi-Fi. Gebruik op een netwerk dat je niet beheert de SMB-server met SMB-versleuteling vereisen aangezet, die elke overdracht beschermt.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Welke apparaten kunnen verbinden via FTP?" closed="true" %}}
+{{% ls-details title="Welke apparaten kunnen verbinden via FTP?" closed="true" %}}
 Bijna alles met een FTP-client. Dat omvat Mac-, Windows- en Linux-computers, FTP-apps zoals FileZilla en Cyberduck, Android-bestandsbeheerders, en hardware zoals camera's, smart-tv's, routers, NAS-apparaten en automatiseringstools. Dat brede bereik is de belangrijkste reden om voor FTP te kiezen.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Waarom viel mijn FTP-verbinding weg?" closed="true" %}}
+{{% ls-details title="Waarom viel mijn FTP-verbinding weg?" closed="true" %}}
 Je iPhone is de server, en iOS pauzeert apps die te lang op de achtergrond blijven. Houd Everdisk in beeld terwijl een apparaat verbonden is, en sluit aan op stroom voor lange overdrachten. Zorg er ook voor dat beide apparaten nog op hetzelfde Wi-Fi zitten.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Is Everdisk gratis?" closed="true" %}}
+{{% ls-details title="Is Everdisk gratis?" closed="true" %}}
 Ja, Everdisk is gratis te downloaden en de FTP-server is inbegrepen. Een optionele eenmalige Premium-aankoop voegt extra's toe zoals aangepaste poorten en foto- en videoconversie. Je kunt FTP instellen en bestanden overzetten zonder te betalen.
-{{% /details %}}
+{{% /ls-details %}}
 
 Klaar om het te proberen? [Download Everdisk in de App Store](https://apps.apple.com/app/apple-store/id6751851132?pt=95781850&ct=everappzcom&mt=8) en verbind je eerste FTP-client in een paar minuten. Vragen of feedback? Mail ons op **support@everappz.com**.

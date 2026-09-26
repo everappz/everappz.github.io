@@ -72,19 +72,19 @@ Evermusic 包含完整的 10 段音訊均衡器，帶有 iPod 風格的預設（
 
 
 {{< cards >}}
-  {{< card icon="location-marker" title="導航" subtitle="了解如何在 iPhone 上使用標籤列或在 iPad 和 Mac 上使用左側選單導航 Evermusic。" link="/docs/guide/evermusic/evermusic-guide-navigation" >}}
+  {{< ls-card icon="location-marker" title="導航" subtitle="了解如何在 iPhone 上使用標籤列或在 iPad 和 Mac 上使用左側選單導航 Evermusic。" link="/docs/guide/evermusic/evermusic-guide-navigation" >}}
 
-  {{< card icon="cloud" title="連接" subtitle="連接您的雲端帳戶並使用內建檔案管理器管理線上檔案。" link="/docs/guide/evermusic/evermusic-guide-connections" >}}
+  {{< ls-card icon="cloud" title="連接" subtitle="連接您的雲端帳戶並使用內建檔案管理器管理線上檔案。" link="/docs/guide/evermusic/evermusic-guide-connections" >}}
 
-  {{< card icon="collection" title="音樂庫" subtitle="在音樂庫中整理和瀏覽您的曲目、專輯和藝術家。" link="/docs/guide/evermusic/evermusic-guide-music-library" >}}
+  {{< ls-card icon="collection" title="音樂庫" subtitle="在音樂庫中整理和瀏覽您的曲目、專輯和藝術家。" link="/docs/guide/evermusic/evermusic-guide-music-library" >}}
 
-  {{< card icon="music-note" title="播放清單" subtitle="建立和整理播放清單以符合您的心情或場合。" link="/docs/guide/evermusic/evermusic-guide-playlists" >}}
+  {{< ls-card icon="music-note" title="播放清單" subtitle="建立和整理播放清單以符合您的心情或場合。" link="/docs/guide/evermusic/evermusic-guide-playlists" >}}
 
-  {{< card icon="folder" title="本地檔案" subtitle="通過本地檔案部分存取和管理離線音樂。" link="/docs/guide/evermusic/evermusic-guide-local-files" >}}
+  {{< ls-card icon="folder" title="本地檔案" subtitle="通過本地檔案部分存取和管理離線音樂。" link="/docs/guide/evermusic/evermusic-guide-local-files" >}}
 
-  {{< card icon="play" title="音訊播放器" subtitle="控制播放、佇列和音訊設定，如均衡器和睡眠計時器。" link="/docs/guide/evermusic/evermusic-guide-player" >}}
+  {{< ls-card icon="play" title="音訊播放器" subtitle="控制播放、佇列和音訊設定，如均衡器和睡眠計時器。" link="/docs/guide/evermusic/evermusic-guide-player" >}}
 
-  {{< card icon="adjustments" title="設定" subtitle="自訂 Evermusic 的外觀、功能和效能設定。" link="/docs/guide/evermusic/evermusic-guide-settings" >}}
+  {{< ls-card icon="adjustments" title="設定" subtitle="自訂 Evermusic 的外觀、功能和效能設定。" link="/docs/guide/evermusic/evermusic-guide-settings" >}}
 
-  {{< card icon="question-mark-circle" title="FAQ" subtitle="在我們的 FAQ 部分找到常見問題的快速解答。" link="/docs/faq/evermusic" >}}
+  {{< ls-card icon="question-mark-circle" title="FAQ" subtitle="在我們的 FAQ 部分找到常見問題的快速解答。" link="/docs/faq/evermusic" >}}
 {{< /cards >}}

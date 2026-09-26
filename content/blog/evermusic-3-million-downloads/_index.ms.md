@@ -12,7 +12,7 @@ authors:
     image: "/images/about/artem-meleshko-founder-everappz.webp"
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 ## 3 Juta Muat Turun
 
@@ -98,22 +98,22 @@ Evermusic percuma di App Store dengan ciri premium pilihan.
 
 ## Soalan Lazim
 
-{{% details title="Adakah Evermusic percuma untuk digunakan?" closed="true" %}}
+{{% ls-details title="Adakah Evermusic percuma untuk digunakan?" closed="true" %}}
 Ya. Evermusic percuma untuk dimuat turun dengan ciri teras tersedia tanpa kos. Ciri premium seperti penyama dan pilihan awan lanjutan tersedia melalui peningkatan pilihan.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Bolehkah Evermusic memainkan buku audio?" closed="true" %}}
+{{% ls-details title="Bolehkah Evermusic memainkan buku audio?" closed="true" %}}
 Ya. Evermusic menyimpan kedudukan main balik anda, menyokong penanda buku, kelajuan main balik boleh laras (0.5x hingga 2.0x) dan pemasa tidur — menjadikannya sesuai untuk buku audio dan podcast.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Apakah perkhidmatan awan yang disambungkan oleh Evermusic?" closed="true" %}}
+{{% ls-details title="Apakah perkhidmatan awan yang disambungkan oleh Evermusic?" closed="true" %}}
 Dropbox, Google Drive, OneDrive, Box, MEGA, Yandex.Disk, MyDrive, pCloud, HiDrive, perkongsian fail SMB dan pelayan WebDAV.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Bolehkah saya menggunakan kad SD dengan Evermusic?" closed="true" %}}
+{{% ls-details title="Bolehkah saya menggunakan kad SD dengan Evermusic?" closed="true" %}}
 Ya. Sambungkan pembaca kad SD Lightning atau USB-C ke iPhone atau iPad anda dan strim muzik terus dari kad melalui Evermusic.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Adakah Evermusic berfungsi di Mac?" closed="true" %}}
+{{% ls-details title="Adakah Evermusic berfungsi di Mac?" closed="true" %}}
 Ya. Evermusic tersedia untuk kedua-dua iOS dan macOS, dengan penstriman awan dan main balik luar talian di semua platform.
-{{% /details %}}
+{{% /ls-details %}}

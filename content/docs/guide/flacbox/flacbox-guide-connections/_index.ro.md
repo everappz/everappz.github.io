@@ -19,7 +19,7 @@ readingTime: 12
 Pe acest ecran, puteți conecta fiecare sursă care conține muzica dvs. Puteți integra servicii cloud populare precum Dropbox, Google Drive, iCloud Drive, OneDrive, MEGA, Box, pCloud, Yandex Disk, Synology Drive și multe altele, precum și Mac-ul, PC-ul sau NAS-ul dvs. prin protocoale standard. Indiferent dacă colecția dvs. se află pe un serviciu prietenos cu streaming-ul precum Dropbox sau pe un NAS personal precum Synology, QNAP, Buffalo, Apple Time Capsule sau WD My Cloud Home, Flacbox se conectează la toate dintr-un singur ecran.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Ecranul Conexiuni al Flacbox" image="/docs/guide/flacbox/img/connections-main.webp" >}}
+  {{< ls-card title="" subtitle="Ecranul Conexiuni al Flacbox" image="/docs/guide/flacbox/img/connections-main.webp" >}}
 {{< /cards >}}
 
 ## Conectare la Stocare în Cloud
@@ -30,7 +30,7 @@ Pe acest ecran, puteți conecta fiecare sursă care conține muzica dvs. Puteți
 - Introduceți credențialele pe pagina oficială de autorizare furnizată de furnizorul cloud, apoi atingeți **Finalizat**.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox Adăugare Serviciu de Stocare în Cloud" image="/docs/guide/flacbox/img/add-cloud-storage.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox Adăugare Serviciu de Stocare în Cloud" image="/docs/guide/flacbox/img/add-cloud-storage.webp" >}}
 {{< /cards >}}
 
 Dacă întâmpinați probleme, verificați conexiunea la internet și login-ul / parola. În versiunea Premium a aplicației, puteți adăuga un număr nelimitat de servicii; versiunea gratuită acceptă până la trei.
@@ -134,7 +134,7 @@ Această secțiune afișează fiecare dispozitiv din rețeaua locală la care v�
 Aceasta este cea mai rapidă modalitate de a descoperi un share SMB, WebDAV, DLNA în rețeaua dvs. de acasă fără a tasta manual adrese IP.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox Dispozitive Disponibile în Rețeaua Locală" image="/docs/guide/flacbox/img/available-devies.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox Dispozitive Disponibile în Rețeaua Locală" image="/docs/guide/flacbox/img/available-devies.webp" >}}
 {{< /cards >}}
 
 ## Wi-Fi Drive
@@ -149,7 +149,7 @@ Wi-Fi Drive este o tehnologie convenabilă care permite transferuri wireless de 
 - Atingeți **Pornire Wi-Fi Drive** pentru a activa Wi-Fi Drive.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox Wi-Fi Drive" image="/docs/guide/flacbox/img/wifi-drive.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox Wi-Fi Drive" image="/docs/guide/flacbox/img/wifi-drive.webp" >}}
 {{< /cards >}}
 
 ### Accesarea Wi-Fi Drive pe Calculator
@@ -234,7 +234,7 @@ Atingeți pictograma **„..."** lângă titlul unui fișier pentru a-i dezvălu
 - **Șterge** — eliminați permanent fișierul din stocarea dvs. cloud. **Această acțiune nu poate fi anulată.**
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox Mai Multe Acțiuni pentru un Fișier în Stocarea Cloud Conectată" image="/docs/guide/flacbox/img/more-actions-for-file-in-connected-cloud-storage.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox Mai Multe Acțiuni pentru un Fișier în Stocarea Cloud Conectată" image="/docs/guide/flacbox/img/more-actions-for-file-in-connected-cloud-storage.webp" >}}
 {{< /cards >}}
 
 Dacă lista de acțiuni depășește spațiul disponibil pe ecran, pur și simplu derulați în jos în meniul de acțiuni pentru a accesa opțiunile suplimentare.
@@ -261,7 +261,7 @@ Pentru fiecare folder din stocarea dvs. cloud, aveți o varietate largă de acț
 Secțiunea Acces Rapid este localizată în partea de sus a ecranului. Vă oferă acces rapid la fișierele dvs. preferate și recent deschise din serviciile cloud conectate. De fiecare dată când deschideți un fișier sau un folder din cloud, acesta este adăugat la lista Deschis Recent. Pentru a șterge această listă, deschideți Recente, atingeți butonul Mai Multe Acțiuni și alegeți Ștergere Listă. Puteți, de asemenea, marca folderele imbricate adânc ca Preferințe pentru a le accesa rapid fără a parcurge structura de directoare.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox Linkuri Online și Acces Rapid" image="/docs/guide/flacbox/img/online-links.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox Linkuri Online și Acces Rapid" image="/docs/guide/flacbox/img/online-links.webp" >}}
 {{< /cards >}}
 
 ## Alte Servicii
@@ -269,5 +269,5 @@ Secțiunea Acces Rapid este localizată în partea de sus a ecranului. Vă ofer�
 Această secțiune afișează funcționalități suplimentare care vă îmbunătățesc experiența. În prezent, aplicația acceptă scrobbling-ul **Last.fm** — când este conectat, statisticile dvs. de redare sunt trimise automat contului dvs. Last.fm. Puteți ulterior vizita profilul dvs. Last.fm pentru a vedea analizele de ascultare și a obține recomandări muzicale personalizate. Instrucțiuni detaliate de configurare sunt disponibile [aici](/docs/howto/how-to-scrobble-your-music-history-from-evermusic-or-flacbox-to-last-fm).
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox Conectare Last.fm" image="/docs/guide/flacbox/img/last-fm-connect.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox Conectare Last.fm" image="/docs/guide/flacbox/img/last-fm-connect.webp" >}}
 {{< /cards >}}

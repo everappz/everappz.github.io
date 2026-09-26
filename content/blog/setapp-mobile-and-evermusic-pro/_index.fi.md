@@ -12,7 +12,7 @@ authors:
     image: "/images/about/artem-meleshko-founder-everappz.webp"
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 ![](/blog/setapp-mobile-and-evermusic-pro/21260c_766c4fbc81e6433cb8fc21b9c2862ce0~mv2.png)
 
@@ -49,27 +49,27 @@ Lataa albumeita, artisteja tai soittolistoja.
 Yhdistä **NAS:iin, SMB-jakamisiin** ja **WebDAV-palvelimiin**.
 
 {{< cards cols="1" >}}
-  {{< card link="https://go.setapp.com/stp435?_target=https://www.setapp.com/setapp-mobile&stc=mobile" title="Lataa Evermusic Pro Setapp Mobilella" icon="download" >}}
+  {{< ls-card link="https://go.setapp.com/stp435?_target=https://www.setapp.com/setapp-mobile&stc=mobile" title="Lataa Evermusic Pro Setapp Mobilella" icon="download" >}}
 {{< /cards >}}
 
 ## Usein kysytyt kysymykset
 
-{{% details title="Onko Evermusic Pro ilmainen Setapp Mobilella?" closed="true" %}}
+{{% ls-details title="Onko Evermusic Pro ilmainen Setapp Mobilella?" closed="true" %}}
 Kyllä. Evermusic Pro sisältyy Setapp Mobile -tilaukseen ilman lisäkustannuksia.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Mitä pilvipalveluita Evermusic Pro tukee?" closed="true" %}}
+{{% ls-details title="Mitä pilvipalveluita Evermusic Pro tukee?" closed="true" %}}
 Google Drive, Dropbox, OneDrive, iCloud, Box, MEGA, Yandex.Disk, pCloud, HiDrive, WebDAV, SMB ja NAS.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Voinko kuunnella offline Evermusic Prolla?" closed="true" %}}
+{{% ls-details title="Voinko kuunnella offline Evermusic Prolla?" closed="true" %}}
 Kyllä. Voit ladata kappaleita, albumeita, artisteja tai kokonaisia soittolistoja.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Mitä äänimuotoja Evermusic Pro toistaa?" closed="true" %}}
+{{% ls-details title="Mitä äänimuotoja Evermusic Pro toistaa?" closed="true" %}}
 FLAC, MP3, AAC, WAV, ALAC, AIFF, OPUS, OGG ja monia muita.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Tarvitsenko erillisen Setapp-tilauksen iPhonelle?" closed="true" %}}
+{{% ls-details title="Tarvitsenko erillisen Setapp-tilauksen iPhonelle?" closed="true" %}}
 Setapp Mobile on saatavilla osana Setapp-tilaussuunnitelmaa, joka sisältää iOS-sovellukset.
-{{% /details %}}
+{{% /ls-details %}}

@@ -23,7 +23,7 @@ readingTime: 14
 Μπορείτε να φτάσετε στον full-screen player από τη γραμμή mini player. Στο iPhone, ο mini player βρίσκεται στο κάτω μέρος της κύριας οθόνης. Σε iPad και Mac βρίσκεται στην αριστερή πλευρά.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Κύρια Οθόνη Audio Player Flacbox" image="/docs/guide/flacbox/img/audio-player-main-screen.webp" >}}
+  {{< ls-card title="" subtitle="Κύρια Οθόνη Audio Player Flacbox" image="/docs/guide/flacbox/img/audio-player-main-screen.webp" >}}
 {{< /cards >}}
 
 ## Υποστηριζόμενες Μορφές Ήχου
@@ -64,7 +64,7 @@ readingTime: 14
 Το Flacbox περιλαμβάνει **ισοσταθμιστή 10 ζωνών** με presets τύπου iPod. Πατήστε Ισοσταθμιστής στην προβολή έντασης και ενεργοποιήστε τον. Έχουμε λεπτομερείς οδηγίες [εδώ](/docs/howto/how-to-use-the-audio-equalizer-on-your-iphone-ipad-mac-with-evermusic-and-flacbox).
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox Ισοσταθμιστής Audio Player" image="/docs/guide/flacbox/img/audio-player-equalizer.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox Ισοσταθμιστής Audio Player" image="/docs/guide/flacbox/img/audio-player-equalizer.webp" >}}
 {{< /cards >}}
 
 ## Γραμμή Εργαλείων Λειτουργίας Player
@@ -80,7 +80,7 @@ readingTime: 14
 Για προβολή της ουράς, πατήστε το κουμπί ουράς στα δεξιά του τρέχοντος τραγουδιού.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox Ουρά Αναπαραγωγής" image="/docs/guide/flacbox/img/playback_queue.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox Ουρά Αναπαραγωγής" image="/docs/guide/flacbox/img/playback_queue.webp" >}}
 {{< /cards >}}
 
 ## Σχόλια / Στίχοι
@@ -94,7 +94,7 @@ readingTime: 14
 5. Ενεργοποιήστε τα **Σχόλια**.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox Οθόνη Στίχων και Σχολίων" image="/docs/guide/flacbox/img/lyrics-screen.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox Οθόνη Στίχων και Σχολίων" image="/docs/guide/flacbox/img/lyrics-screen.webp" >}}
 {{< /cards >}}
 
 ## Μενού Επιλογών
@@ -115,7 +115,7 @@ readingTime: 14
 - **Διαγραφή από Μουσική Βιβλιοθήκη** — διαγραφή από βιβλιοθήκη, αλλά το αρχείο παραμένει.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox Επιλογές για Στοιχείο στην Ουρά Αναπαραγωγής" image="/docs/guide/flacbox/img/options-for-item-in-playback-queue.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox Επιλογές για Στοιχείο στην Ουρά Αναπαραγωγής" image="/docs/guide/flacbox/img/options-for-item-in-playback-queue.webp" >}}
 {{< /cards >}}
 
 ## Πρόσθετες Ενέργειες Player
@@ -137,7 +137,7 @@ readingTime: 14
 - **Βοήθεια** — εύρεση βοήθειας.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox Οθόνη Περισσότερων Ενεργειών Audio Player" image="/docs/guide/flacbox/img/audio-player-more-actions-screen.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox Οθόνη Περισσότερων Ενεργειών Audio Player" image="/docs/guide/flacbox/img/audio-player-more-actions-screen.webp" >}}
 {{< /cards >}}
 
 ## Σελιδοδείκτες Ήχου
@@ -153,7 +153,7 @@ readingTime: 14
 - Επιλέξτε ώρα σελιδοδείκτη και πατήστε **Ολοκλήρωση**.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox Οθόνη Σελιδοδεικτών Ήχου" image="/docs/guide/flacbox/img/audio-bookmarks.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox Οθόνη Σελιδοδεικτών Ήχου" image="/docs/guide/flacbox/img/audio-bookmarks.webp" >}}
 {{< /cards >}}
 
 ## Πρόσφατα και Αγαπημένα
@@ -167,7 +167,7 @@ readingTime: 14
 [Διαβάστε τον πλήρη οδηγό CarPlay](/docs/howto/how-to-play-your-own-music-on-iphone-using-carplay/).
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox σε Apple CarPlay" image="/docs/guide/flacbox/img/carplay-main.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox σε Apple CarPlay" image="/docs/guide/flacbox/img/carplay-main.webp" >}}
 {{< /cards >}}
 
 ## Widgets Αρχικής Οθόνης (iPhone & iPad)
@@ -221,7 +221,7 @@ readingTime: 14
 Ρύθμιση ταχύτητας από **0,02× έως 3,00×**.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox Οθόνη Ταχύτητας Αναπαραγωγής" image="/docs/guide/flacbox/img/playback-speed.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox Οθόνη Ταχύτητας Αναπαραγωγής" image="/docs/guide/flacbox/img/playback-speed.webp" >}}
 {{< /cards >}}
 
 ### Διόρθωση Τόνου

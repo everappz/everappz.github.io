@@ -6,7 +6,7 @@ keywords: ["evermusic 내보내기", "flacbox 내보내기", "m3u로 내보내�
 tags: ["evermusic", "최근 항목", "즐겨찾기", "내보내기", "m3u", "재생목록", "csv", "txt", "앨범"]
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **요약:** Evermusic과 Flacbox를 사용하면 모든 트랙 컬렉션(최근 항목, 즐겨찾기, 재생목록, 앨범)을 CSV, TXT 또는 M3U 파일로 내보낼 수 있습니다. 이러한 내보내기를 사용하여 Last.fm에 스크로블하거나, 라이브러리를 백업하거나, 다른 기기에서 재생목록을 재생할 수 있습니다.
@@ -157,22 +157,22 @@ Evermusic과 Flacbox에서 트랙을 내보내면 음악 데이터를 완전히 
 
 ## FAQ
 
-{{% details title="Last.fm 스크로블링에 어떤 내보내기 형식을 사용해야 하나요?" closed="true" %}}
+{{% ls-details title="Last.fm 스크로블링에 어떤 내보내기 형식을 사용해야 하나요?" closed="true" %}}
 CSV를 사용하세요. Last.fm-Scrubbler-WPF와 같은 스크로블링 도구에 필요한 타임스탬프와 전체 메타데이터가 포함되어 있습니다.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="재생목록뿐만 아니라 다른 트랙 컬렉션도 내보낼 수 있나요?" closed="true" %}}
+{{% ls-details title="재생목록뿐만 아니라 다른 트랙 컬렉션도 내보낼 수 있나요?" closed="true" %}}
 네. 동일한 단계를 사용하여 최근 항목, 즐겨찾기, 앨범, 재생목록 및 앱 내 기타 모든 트랙 컬렉션을 내보낼 수 있습니다.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="M3U 재생목록이 다른 기기에서 작동하나요?" closed="true" %}}
+{{% ls-details title="M3U 재생목록이 다른 기기에서 작동하나요?" closed="true" %}}
 내보내기 시 절대 URL 옵션을 선택하면 M3U 재생목록을 지원하는 모든 기기에서 M3U 파일을 재생할 수 있습니다. 단, 일부 클라우드 URL은 시간이 지나면 만료될 수 있습니다.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="내보내기 기능은 무료인가요?" closed="true" %}}
+{{% ls-details title="내보내기 기능은 무료인가요?" closed="true" %}}
 네. M3U, CSV, TXT로 트랙 컬렉션을 내보내는 기능은 Evermusic과 Flacbox의 무료 버전과 프리미엄 버전 모두에서 사용할 수 있습니다.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="절대 URL 내보내기를 지원하는 클라우드 서비스는 무엇인가요?" closed="true" %}}
+{{% ls-details title="절대 URL 내보내기를 지원하는 클라우드 서비스는 무엇인가요?" closed="true" %}}
 절대 URL 내보내기는 iCloud Drive, pCloud, PanBaidu, MyCloudHome, DLNA, MediaFire, OneDrive, Box, Dropbox, Google Drive, WebDAV(게스트 모드)에서 지원됩니다.
-{{% /details %}}
+{{% /ls-details %}}

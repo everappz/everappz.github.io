@@ -7,7 +7,7 @@ keywords: ["SMB-server iPhone", "SMB-server iPad", "hvordan sette opp SMB på iP
 readingTime: 10
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 SMB er fildelingen som er innebygd i macOS, Windows og Linux, og i nesten hver nettverksdisk (NAS). Når du kobler til en delt mappe på en annen datamaskin og den åpnes som en vanlig disk i Finder eller Filutforsker, er det SMB som gjør jobben. Med [Everdisk](/products/everdisk) kan du legge en SMB-deling på iPhone eller iPad, slik at telefonen selv dukker opp som en nettverksdisk andre enheter kan bla i, kopiere fra og kopiere til.
 
@@ -136,44 +136,44 @@ Hver SMB-overføring er da beskyttet med **SMB3-kryptering (AES)**. Enheten som 
 
 ## Ofte stilte spørsmål
 
-{{% details title="Hva er SMB-adressen og porten for iPhone?" closed="true" %}}
+{{% ls-details title="Hva er SMB-adressen og porten for iPhone?" closed="true" %}}
 Etter at du starter delingen, viser Everdisk adressen på Deling-skjermen. Den ser slik ut: smb://192.168.1.20:4455/Share. 4455 er porten Everdisk bruker for SMB, og Share er navnet på den delte mappen. Den første delen er iPhone-adressen din på Wi-Fi, så din vil være annerledes.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Kan jeg koble til iPhone SMB-delingen fra Windows?" closed="true" %}}
+{{% ls-details title="Kan jeg koble til iPhone SMB-delingen fra Windows?" closed="true" %}}
 Windows Filutforsker kobler bare til SMB på standardporten og godtar ikke en egendefinert port i banen, mens Everdisk bruker port 4455. Så den vanlige Tilordne nettverksstasjon-veien når ofte ikke frem. Bruk en filbehandler som lar deg sette en egendefinert port, eller koble til fra Windows med WebDAV, FTP eller nettleserlenken i stedet. Alle disse fungerer fra Windows uten portproblemer.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Hvordan deler jeg filer mellom to iPhoner med SMB?" closed="true" %}}
+{{% ls-details title="Hvordan deler jeg filer mellom to iPhoner med SMB?" closed="true" %}}
 Start SMB-serveren på den første iPhone i Everdisk. På den andre iPhone åpner du Filer-appen, trykker på mer-knappen, velger Koble til tjener, og skriver inn smb-adressen som vises i Everdisk (for eksempel smb://192.168.1.20:4455/Share). Koble til som Gjest eller med innloggingen din, og delingen vises i Filer. Du kan også bruke Everdisks egen Enheter-fane på den andre telefonen.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Dukker iPhone opp i Mac Finder-sidefeltet automatisk?" closed="true" %}}
+{{% ls-details title="Dukker iPhone opp i Mac Finder-sidefeltet automatisk?" closed="true" %}}
 Vanligvis ja. Everdisk gjør SMB-delingen synlig på Wi-Fi, så iPhone dukker ofte opp under Steder eller Nettverk i Finder-sidefeltet. Klikk på den og velg Koble til som, så Gjest eller innloggingen din. Hvis den ikke dukker opp, kobler du til manuelt med Gå til, Koble til tjener og hele smb-adressen.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Trenger jeg et passord for å bruke SMB?" closed="true" %}}
+{{% ls-details title="Trenger jeg et passord for å bruke SMB?" closed="true" %}}
 Nei, en innlogging er valgfri. La Innlogging og Passord stå tomme i Innstillinger, Deling, Tilgang for å tillate gjestetilgang. Sett dem hvis du vil at tilkoblinger skal logge inn. En innlogging og et passord er bare påkrevd hvis du slår på Krev SMB-kryptering, fordi krypterte tilkoblinger ikke kan være anonyme.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Er SMB-tilkoblingen kryptert?" closed="true" %}}
+{{% ls-details title="Er SMB-tilkoblingen kryptert?" closed="true" %}}
 Den kan være det. SMB er den eneste Everdisk-tilkoblingen som støtter kryptering. Sett en innlogging og et passord, slå så på Krev SMB-kryptering i Innstillinger, Deling. Hver overføring er da beskyttet med SMB3 (AES). Den andre enheten må støtte SMB3, noe moderne Mac-er og Windows 10 eller nyere gjør. Kryptering er en Premium-funksjon.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Kan folk endre eller slette filene mine over SMB?" closed="true" %}}
+{{% ls-details title="Kan folk endre eller slette filene mine over SMB?" closed="true" %}}
 Bare hvis du tillater det. Filredigering-bryteren i Innstillinger, Deling, Tilgang styrer dette. Med den på kan tilkoblede enheter laste opp, gi nytt navn og slette. Med den av er delingen skrivebeskyttet, og andre kan bla i og kopiere filer av telefonen din, men ikke endre noe.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Hvorfor falt SMB-tilkoblingen min ut?" closed="true" %}}
+{{% ls-details title="Hvorfor falt SMB-tilkoblingen min ut?" closed="true" %}}
 iPhone er serveren, og iOS setter apper som ligger i bakgrunnen for lenge på pause. Hold Everdisk åpen på skjermen mens en enhet er tilkoblet, og koble telefonen til strøm under lange overføringer. Sørg også for at begge enhetene ble værende på samme Wi-Fi.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="SMB, WebDAV eller FTP, hvilken bør jeg bruke?" closed="true" %}}
+{{% ls-details title="SMB, WebDAV eller FTP, hvilken bør jeg bruke?" closed="true" %}}
 Bruk SMB når du vil at telefonen skal oppføre seg som en ekte nettverksdisk på en Mac, en annen iPhone, Linux eller en NAS, og når du vil ha kryptering. Bruk WebDAV når du vil ha en nettverksdisk som også fungerer godt fra Windows. Bruk FTP for den bredeste kompatibiliteten med eldre enheter og apper. Everdisk kan kjøre alle samtidig, så du er ikke låst til én.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Er Everdisk gratis?" closed="true" %}}
+{{% ls-details title="Er Everdisk gratis?" closed="true" %}}
 Ja, Everdisk er gratis å laste ned, og SMB-serveren er inkludert. Det valgfrie engangskjøpet av Premium legger til SMB-kryptering, egendefinerte porter og noen andre ekstrafunksjoner. Du kan sette opp SMB og dele filer uten å betale.
-{{% /details %}}
+{{% /ls-details %}}
 
 Klar til å prøve? [Last ned Everdisk fra App Store](https://apps.apple.com/app/apple-store/id6751851132?pt=95781850&ct=everappzcom&mt=8) og åpne iPhone i Finder på omtrent et minutt. Spørsmål eller tilbakemeldinger? Send oss e-post på **support@everappz.com**.

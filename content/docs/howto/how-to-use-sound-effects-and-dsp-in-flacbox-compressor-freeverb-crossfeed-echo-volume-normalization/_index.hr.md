@@ -7,9 +7,9 @@ tags: ["Flacbox", "Zvučni efekti", "Upute", "BASS", "Ekvalizator", "Pojačanje 
 readingTime: 30
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
-{{< full-width-tables >}}
+{{< ls-full-width-tables >}}
 
 **Kratki odgovor:** U Flacboxu odaberete jedan **Motor reprodukcije** u **Postavke > Audio player**: **Standard** (Appleov sustavski motor), **Universal** (FFmpeg motor) ili **Sound FX** (**BASS™ motor**). Motor koji odaberete određuje koji se formati datoteka reproduciraju, pa je izbor bitan. **Sound FX** motor reproducira dodatne formate koje većina iPhone aplikacija preskače (FLAC, DSD, WavPack, APE, Musepack, TrueAudio, Opus i staru **MOD i tracker glazbu** poput MOD, XM, IT i S3M), i to je jedini motor koji pokreće zvučne alate: **10-pojasni ekvalizator**, **Normalizaciju glasnoće**, **Kompresor**, **Freeverb**, **Auto Wah**, **Phaser**, **Flanger**, **Echo**, **Chorus**, **Distorziju**, **Rotate**, **Crossfeed** i izgradite-svoj **DSP lanac**. Dakle, da biste koristili efekte u ovom vodiču, prvo postavite Motor reprodukcije na **Sound FX**. Svaki alat ima gotove **presete**. Otvorite ih u **Postavke > Audio player** (Audio efekti, Audio ekvalizator, Obrada signala) ili dodirnite gumb **⋯ (Više)** na reproduktoru i odaberite **Audio efekti**. Ništa što ovdje učinite nikada ne mijenja vaše datoteke.
 
@@ -657,93 +657,93 @@ Budući da sve ovo radi uživo dok glazba svira, efekti:
 
 ## Česta pitanja
 
-{{% details title="Koji zvučni motor Flacbox koristi?" closed="true" %}}
+{{% ls-details title="Koji zvučni motor Flacbox koristi?" closed="true" %}}
 Odaberete jedan Motor reprodukcije u Postavke > Audio player: Standard (Appleov sustavski motor), Universal (FFmpeg motor) ili Sound FX (BASS™ motor tvrtke Un4seen Developments, un4seen.com). Motor koji odaberete određuje koji se formati datoteka reproduciraju. Sound FX je onaj koji reproducira dodatne formate poput FLAC, DSD, WavPack, APE, Musepack, TrueAudio, Opus i MOD ili tracker glazbe, i to je jedini motor koji pruža efekte uživo, 10-pojasni ekvalizator i DSP lanac. Da biste koristili efekte, postavite Motor reprodukcije na Sound FX.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Može li Flacbox reproducirati MOD, XM, IT i drugu tracker ili modul glazbu?" closed="true" %}}
+{{% ls-details title="Može li Flacbox reproducirati MOD, XM, IT i drugu tracker ili modul glazbu?" closed="true" %}}
 Da. BASS™ motor ima ugrađen modul reproduktor koji učitava MOD, XM, IT, S3M, MTM, UMX i MO3 datoteke i uživo ponovno gradi pjesmu iz njezinih obrazaca i zvukova instrumenata, onako kako se tracker glazba treba reproducirati. Obični iPhone reproduktori to ne mogu. Efekti i ekvalizator rade i na modul glazbi.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Podržava li Flacbox DSD i visokorezolucijske datoteke?" closed="true" %}}
+{{% ls-details title="Podržava li Flacbox DSD i visokorezolucijske datoteke?" closed="true" %}}
 Da. Flacbox reproducira DSD datoteke (DSF i DFF) kroz BASS™ motor koristeći DSD preko PCM-a tako da rade na normalnom izlaznom hardveru, plus FLAC, WavPack, Monkey's Audio (APE), Musepack i TrueAudio za lossless reprodukciju.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Koje zvučne efekte Flacbox ima?" closed="true" %}}
+{{% ls-details title="Koje zvučne efekte Flacbox ima?" closed="true" %}}
 10-pojasni ekvalizator, Normalizaciju glasnoće, Kompresor, Freeverb, Auto Wah, Phaser, Flanger, Echo, Chorus, Distorziju, Rotate i Crossfeed, plus izgradite-svoj DSP lanac s filterima, shelfovima, gainom, soft clipom, bit crusherom, ring modulatorom, tremolom, delayem i stereo širinom. Svaki je zaseban i može se kombinirati s ostalima.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Što je preset?" closed="true" %}}
+{{% ls-details title="Što je preset?" closed="true" %}}
 Preset je gotova postavka za efekt. Umjesto da sami pomičete klizače, dodirnete preset i zvuk se promijeni da odgovara. Svaki efekt u Flacboxu ima nekoliko preseta, a ovaj vodič navodi što svaki od njih radi. Ako pomaknete klizač nakon odabira preseta, efekt prikazuje «Manual» da vam kaže da sada koristi vaše vlastite vrijednosti.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Kako otvoriti audio efekte u Flacboxu?" closed="true" %}}
+{{% ls-details title="Kako otvoriti audio efekte u Flacboxu?" closed="true" %}}
 Otvorite Now Playing reproduktor, dodirnite gumb ⋯ (Više) i odaberite Audio efekti. Ili idite na Postavke > Audio player > Audio efekti. Dodirnite efekt, uključite njegov prekidač i odaberite preset, ili otvorite klizače da fino podesite.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Gdje je ekvalizator i koje su najbolje postavke?" closed="true" %}}
+{{% ls-details title="Gdje je ekvalizator i koje su najbolje postavke?" closed="true" %}}
 Idite na Postavke > Audio player > Audio ekvalizator. Ima 10 pojasa od 32 Hz do 16 kHz, svaki od -12 do +12 dB, plus Predpojačalo od -24 do +24 dB i 22 preseta. Za više basa koristite Bass Booster. Za jasnije glasove koristite Vocal Booster ili Pop. Za svjetliji zvuk koristite Treble Booster. Zatim prilagodite pojedine pojaseve po ukusu.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Kako pojačati bas u Flacboxu?" closed="true" %}}
+{{% ls-details title="Kako pojačati bas u Flacboxu?" closed="true" %}}
 Dva laka načina. U Audio ekvalizatoru odaberite Bass Booster (ili podignite pojaseve 32 Hz i 64 Hz za nekoliko dB). Ili, u Obradi signala, dodajte Low Shelf blok postavljen na Bass Boost. U oba slučaja, spustite Predpojačalo ili dodajte Gain blok za 1 do 2 dB kako bi bas ostao čist i ne distorzirao.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Koji je preset ekvalizatora najbolji za moju glazbu?" closed="true" %}}
+{{% ls-details title="Koji je preset ekvalizatora najbolji za moju glazbu?" closed="true" %}}
 Rock i Electronic dodaju energiju sa snažnim niskim i visokim tonovima. Acoustic, Jazz i Classical ostaju topli i prirodni. Pop i Vocal Booster guraju glasove naprijed. Bass Booster i Hip-Hop dodaju težinu. Deep i Loudness zvuče punije pri niskoj glasnoći. Počnite s onim koji odgovara vašem žanru, zatim fino podesite.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Što je Normalizacija glasnoće i kako se razlikuje od ReplayGaina?" closed="true" %}}
+{{% ls-details title="Što je Normalizacija glasnoće i kako se razlikuje od ReplayGaina?" closed="true" %}}
 Čini da svaka pjesma svira otprilike jednako glasno. Mjeri stvarnu glasnoću koristeći EBU R128 standard (u LUFS, poput streaming usluga) i prilagođava svaku pjesmu prema vašem cilju, s granicom maksimalnog pojačanja. Za razliku od ReplayGaina, ne treba nikakve oznake u vašim datotekama i radi na bilo kojem izvoru, uživo, bez mijenjanja audija. Preseti: Light, Standard, Strong i Night.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Što je Crossfeed i trebam li ga koristiti?" closed="true" %}}
+{{% ls-details title="Što je Crossfeed i trebam li ga koristiti?" closed="true" %}}
 Crossfeed miješa malo lijevog i desnog kanala zajedno tako da slušalice djeluju više poput stvarnih zvučnika i manje kao da je zvuk zaglavljen u vašoj glavi. Namijenjen je samo za slušalice, pa ga isključite za zvučnike. Flacbox koristi bs2b (Bauer) metodu, s presetima poput Chu Moy i Jan Meier.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Koja je razlika između Kompresora i Normalizacije glasnoće?" closed="true" %}}
+{{% ls-details title="Koja je razlika između Kompresora i Normalizacije glasnoće?" closed="true" %}}
 Normalizacija glasnoće usklađuje glasnoću između različitih pjesama. Kompresor izjednačuje glasne i tihe dijelove unutar jedne pjesme. Rješavaju različite probleme i dobro rade zajedno, osobito u autu ili na bučnom mjestu.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Što je Obrada signala (DSP) lanac?" closed="true" %}}
+{{% ls-details title="Što je Obrada signala (DSP) lanac?" closed="true" %}}
 To je izgradite-svoju polica u Postavke > Audio player > Obrada signala. Dodajte blokove poput filtera, shelfova, gaina, soft clipa, bit crushera, ring modulatora, tremola, delaya i stereo širine, poredajte ih bilo kojim redoslijedom, uključite ili isključite svaki i usmjerite lanac na sve kanale, lijevi ili desni. Budući da je redoslijed bitan, možete dizajnirati točno zvuk koji želite.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Koja je razlika između Ekvalizatora, efekata i DSP lanca?" closed="true" %}}
+{{% ls-details title="Koja je razlika između Ekvalizatora, efekata i DSP lanca?" closed="true" %}}
 Ekvalizator je jednostavna 10-pojasna kontrola tona. Audio efekti su gotovi alati (kompresor, reverb, echo itd.) s presetima. DSP lanac je gdje gradite vlastiti redoslijed efekata od pojedinačnih blokova. Možete pokrenuti sva tri istovremeno.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Mijenjaju li efekti ili oštećuju moje glazbene datoteke?" closed="true" %}}
+{{% ls-details title="Mijenjaju li efekti ili oštećuju moje glazbene datoteke?" closed="true" %}}
 Ne. Sve se primjenjuje uživo dok glazba svira. Vaše datoteke nikada se ne mijenjaju ni ponovno spremaju. Isključite efekt i izvorni zvuk se odmah vraća.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Mogu li koristiti više od jednog efekta istovremeno?" closed="true" %}}
+{{% ls-details title="Mogu li koristiti više od jednog efekta istovremeno?" closed="true" %}}
 Da. Svaki efekt ima svoj prekidač i nema glavnog prekidača, pa bilo koja kombinacija radi. Na primjer, Normalizacija glasnoće plus Kompresor za ujednačeno slušanje, ili Freeverb plus Crossfeed na slušalicama, s ekvalizatorom na vrhu.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Zašto su kontrole efekta zasivljene?" closed="true" %}}
+{{% ls-details title="Zašto su kontrole efekta zasivljene?" closed="true" %}}
 Efekt je isključen. Uključite njegov prekidač na vrhu uređivača da koristite kontrole. Svaki efekt je isključen prema zadanom.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Što znači oznaka Manual?" closed="true" %}}
+{{% ls-details title="Što znači oznaka Manual?" closed="true" %}}
 Znači da ste pomaknuli klizač dalje od preseta, pa efekt sada koristi vaše vlastite prilagođene vrijednosti umjesto imenovanog preseta. Svaki klizač ima gumb za poništavanje, a ponovni odabir preseta zamjenjuje vaše ručne vrijednosti.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Mogu li spremiti i dijeliti svoje presete ekvalizatora?" closed="true" %}}
+{{% ls-details title="Mogu li spremiti i dijeliti svoje presete ekvalizatora?" closed="true" %}}
 Da. Osim 22 ugrađena preseta, možete napraviti vlastite, promijeniti im redoslijed te ih izvesti ili uvesti da premjestite svoje postavke na drugi uređaj.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Rade li efekti s CarPlayem, streamingom i pozadinskom reprodukcijom?" closed="true" %}}
+{{% ls-details title="Rade li efekti s CarPlayem, streamingom i pozadinskom reprodukcijom?" closed="true" %}}
 Da. Efekti rade unutar BASS™ motora, pa se primjenjuju na lokalne datoteke, diskove u oblaku, medijske poslužitelje, streamove i modul glazbu, i nastavljaju raditi tijekom CarPlaya i pozadinske reprodukcije.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Mogu li promijeniti kvalitetu audio izlaza?" closed="true" %}}
+{{% ls-details title="Mogu li promijeniti kvalitetu audio izlaza?" closed="true" %}}
 Da. U Postavke > Audio player možete postaviti izlaznu frekvenciju uzorkovanja, broj kanala i veličinu međuspremnika da odgovaraju vašim slušalicama, zvučnicima ili DAC-u.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Kakva je dobra početna postavka za slušalice?" closed="true" %}}
+{{% ls-details title="Kakva je dobra početna postavka za slušalice?" closed="true" %}}
 Uključite Normalizaciju glasnoće (Standard), dodajte lagani Kompresor (Soft), odaberite preset ekvalizatora koji vam se sviđa i uključite Crossfeed (Chu Moy ili Jan Meier). Ostavite reverb, echo i distorziju isključenima osim ako želite kreativan zvuk.
-{{% /details %}}
+{{% /ls-details %}}
 
 ---
 

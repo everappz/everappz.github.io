@@ -19,7 +19,7 @@ readingTime: 12
 この画面では、音楽を保存しているすべてのソースを接続できます。Dropbox、Google Drive、iCloud Drive、OneDrive、MEGA、Box、pCloud、Yandex Disk、Synology Driveなどの人気クラウドサービスや、標準プロトコルを介したMac、PC、NASを統合できます。コレクションがDropboxのようなストリーミング対応サービスにあっても、Synology、QNAP、Buffalo、Apple Time Capsule、WD My Cloud Homeなどの個人用NASにあっても、Flacboxはすべてに1つの画面から接続します。
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox 接続画面" image="/docs/guide/flacbox/img/connections-main.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox 接続画面" image="/docs/guide/flacbox/img/connections-main.webp" >}}
 {{< /cards >}}
 
 ## クラウドストレージへの接続
@@ -30,7 +30,7 @@ readingTime: 12
 - クラウドプロバイダーが提供する公式認証ページで資格情報を入力し、**完了**をタップします。
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox クラウドストレージサービスの追加" image="/docs/guide/flacbox/img/add-cloud-storage.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox クラウドストレージサービスの追加" image="/docs/guide/flacbox/img/add-cloud-storage.webp" >}}
 {{< /cards >}}
 
 問題が発生した場合は、インターネット接続とログイン / パスワードを確認してください。アプリのプレミアムバージョンでは、無制限のサービスを追加できます。無料バージョンでは最大3つのサービスをサポートします。
@@ -134,7 +134,7 @@ FlacboxにはS3互換コネクタが含まれています。**クラウドスト
 これは、IPアドレスを手動で入力せずにホームネットワーク上のSMB、WebDAV、DLNA共有を見つける最速の方法です。
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox ローカルネットワーク上の利用可能なデバイス" image="/docs/guide/flacbox/img/available-devies.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox ローカルネットワーク上の利用可能なデバイス" image="/docs/guide/flacbox/img/available-devies.webp" >}}
 {{< /cards >}}
 
 ## Wi-Fi Drive
@@ -149,7 +149,7 @@ Wi-Fi Driveは、デスクトップブラウザーを使ってコンピュータ
 - **Wi-Fi Driveを開始**をタップしてWi-Fi Driveを有効にします。
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox Wi-Fi Drive" image="/docs/guide/flacbox/img/wifi-drive.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox Wi-Fi Drive" image="/docs/guide/flacbox/img/wifi-drive.webp" >}}
 {{< /cards >}}
 
 ### コンピューターでWi-Fi Driveにアクセス
@@ -234,7 +234,7 @@ iPhoneにUSBフラッシュドライブを接続して音楽を聴いたりフ�
 - **削除する** — クラウドストレージからファイルを永久に削除します。**この操作は元に戻せません。**
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox 接続されたクラウドストレージのファイルに対するその他のアクション" image="/docs/guide/flacbox/img/more-actions-for-file-in-connected-cloud-storage.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox 接続されたクラウドストレージのファイルに対するその他のアクション" image="/docs/guide/flacbox/img/more-actions-for-file-in-connected-cloud-storage.webp" >}}
 {{< /cards >}}
 
 アクションのリストが利用可能な画面スペースを超える場合は、アクションメニュー内を下にスクロールして追加のオプションにアクセスしてください。
@@ -261,7 +261,7 @@ iPhoneにUSBフラッシュドライブを接続して音楽を聴いたりフ�
 クイックアクセスセクションは画面の上部にあります。接続されたクラウドサービスのお気に入りや最近開いたファイルへのすばやいアクセスを提供します。クラウドからファイルまたはフォルダーを開くたびに、最近開いたリストに追加されます。このリストをクリアするには、最近の項目を開き、その他のアクションボタンをタップして、リストを削除を選択します。
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox オンラインリンクとクイックアクセス" image="/docs/guide/flacbox/img/online-links.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox オンラインリンクとクイックアクセス" image="/docs/guide/flacbox/img/online-links.webp" >}}
 {{< /cards >}}
 
 ## その他のサービス
@@ -269,5 +269,5 @@ iPhoneにUSBフラッシュドライブを接続して音楽を聴いたりフ�
 このセクションには、エクスペリエンスを向上させる追加機能が表示されます。現在、アプリは**Last.fm**スクロブリングをサポートしています — 接続すると、再生統計が自動的にLast.fmアカウントに送信されます。詳細な設定手順は[こちら](/docs/howto/how-to-scrobble-your-music-history-from-evermusic-or-flacbox-to-last-fm)で確認できます。
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox Last.fm接続" image="/docs/guide/flacbox/img/last-fm-connect.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox Last.fm接続" image="/docs/guide/flacbox/img/last-fm-connect.webp" >}}
 {{< /cards >}}

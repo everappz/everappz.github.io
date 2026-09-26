@@ -7,7 +7,7 @@ keywords: ["pindahkan fail tanpa wayar ke iPhone", "pemindahan fail Wi-Fi Drive"
 readingTime: 2
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **TL;DR:** Wi-Fi Drive membolehkan anda memindahkan fail dari mana-mana komputer ke iPhone atau iPad anda melalui Wi-Fi -- tanpa memerlukan iTunes atau kabel. Gunakan pelayar web, Mac Finder, atau Windows File Explorer. Kedua-dua peranti mesti berada dalam rangkaian Wi-Fi yang sama.
@@ -18,7 +18,7 @@ Anda boleh memindahkan fail secara tanpa wayar menggunakan pelayar web desktop a
 
 Anda boleh menonton tutorial video daripada [**TECHGUYPH**](https://www.youtube.com/channel/UCgpf09gGFE_c_3pPTtTpnzg) atau membaca versi teks di bawah.
 <br><br>
-{{< youtubecard id="CqdqrQ0ge70" title="Can We Wirelessly Put Offline Music on iPhones?" >}}
+{{< ls-youtubecard id="CqdqrQ0ge70" title="Can We Wirelessly Put Offline Music on iPhones?" >}}
 
 ## Pindahkan fail dari komputer secara tanpa wayar dengan pelayar web desktop
 
@@ -90,26 +90,26 @@ iTunes tidak diperlukan!
 
 ## Soalan Lazim
 
-{{% details title="Adakah saya memerlukan iTunes untuk memindahkan fail ke iPhone saya?" closed="true" %}}
+{{% ls-details title="Adakah saya memerlukan iTunes untuk memindahkan fail ke iPhone saya?" closed="true" %}}
 Tidak. Wi-Fi Drive memindahkan fail terus melalui rangkaian Wi-Fi tempatan anda. iTunes tidak diperlukan.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Aplikasi mana yang menyokong Wi-Fi Drive?" closed="true" %}}
+{{% ls-details title="Aplikasi mana yang menyokong Wi-Fi Drive?" closed="true" %}}
 Wi-Fi Drive tersedia dalam Evermusic, Flacbox, Evertag, dan Evervideo untuk iOS.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Adakah kedua-dua peranti perlu berada dalam rangkaian Wi-Fi yang sama?" closed="true" %}}
+{{% ls-details title="Adakah kedua-dua peranti perlu berada dalam rangkaian Wi-Fi yang sama?" closed="true" %}}
 Ya. Komputer dan iPhone atau iPad anda mesti disambungkan ke rangkaian Wi-Fi tempatan yang sama untuk Wi-Fi Drive berfungsi.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Bolehkah saya memindahkan keseluruhan folder, bukan hanya fail individu?" closed="true" %}}
+{{% ls-details title="Bolehkah saya memindahkan keseluruhan folder, bukan hanya fail individu?" closed="true" %}}
 Ya. Wi-Fi Drive menyokong memuat naik dan memuat turun keseluruhan folder melalui antara muka pelayar web.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Adakah Wi-Fi Drive berfungsi dengan Windows?" closed="true" %}}
+{{% ls-details title="Adakah Wi-Fi Drive berfungsi dengan Windows?" closed="true" %}}
 Ya. Anda boleh menggunakan mana-mana pelayar web pada Windows atau menyambung melalui Windows File Explorer menggunakan protokol WebDAV.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Bolehkah saya menggunakan kabel USB untuk mempercepatkan pemindahan?" closed="true" %}}
+{{% ls-details title="Bolehkah saya menggunakan kabel USB untuk mempercepatkan pemindahan?" closed="true" %}}
 Ya. Jika iPhone anda disambungkan ke Mac anda melalui USB semasa Wi-Fi Drive berjalan, pemindahan akan menggunakan sambungan kabel untuk kelajuan yang lebih pantas.
-{{% /details %}}
+{{% /ls-details %}}

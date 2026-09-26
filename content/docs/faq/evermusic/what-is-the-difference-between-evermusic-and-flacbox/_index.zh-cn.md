@@ -11,7 +11,7 @@ Evermusic 和 Flacbox 是 Everappz 为 iPhone、iPad 和 Mac 推出的两款先�
 
 **简短回答：**如果你想要最全面流畅的聆听体验、无缝的无缝播放和交叉淡入淡出过渡，以及访问你的 Apple Music 媒体库，请选择 **Evermusic**。如果你是一位发烧友，想要深入的声音塑造（音效机架和 DSP 链）、可选择的专业音频引擎，以及最全面的高解析和无损格式覆盖（包括 DSD、APE 和 WavPack），请选择 **Flacbox**。
 
-{{< app-details ids="885367198, 1097564256" >}}
+{{< ls-app-details ids="885367198, 1097564256" >}}
 
 ## 功能对比表
 
@@ -129,38 +129,38 @@ Evermusic 和 Flacbox 是 Everappz 为 iPhone、iPad 和 Mac 推出的两款先�
 
 ## 常见问题
 
-{{% details title="Evermusic 与 Flacbox 的主要区别是什么？" closed="true" %}}
+{{% ls-details title="Evermusic 与 Flacbox 的主要区别是什么？" closed="true" %}}
 它们共享相同的平台和连接方式，但音频方面有所不同。Evermusic 运行在 Apple 的 AVPlayer 和 Core Audio 上，是支持广泛格式的日常播放器，具备真正的无缝播放、交叉淡入淡出、空间音频以及 Apple Music 媒体库导入。Flacbox 增加了专业的 BASS™ 音频引擎和 FFmpeg 解码，带来了 14 个滤波器的 DSP 链、更多实时音效、tracker/MOD 播放，以及最广泛的高解析和无损格式支持，包括 DSD、APE 和 WavPack。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Evermusic 和 Flacbox 哪个更好？" closed="true" %}}
+{{% ls-details title="Evermusic 和 Flacbox 哪个更好？" closed="true" %}}
 两者并无绝对的优劣之分；它们是为不同的听众而调校的。Evermusic 更适合流畅的日常聆听，以及那些也使用自己 Apple Music 媒体库的人，这得益于无缝播放、交叉淡入淡出和空间音频。Flacbox 更适合想要深度声音塑造、可选择的专业音频引擎，以及最全面的高解析和无损格式覆盖的发烧友。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Evermusic 使用 FFmpeg 吗？" closed="true" %}}
+{{% ls-details title="Evermusic 使用 FFmpeg 吗？" closed="true" %}}
 不使用。Evermusic 完全通过 Apple 的原生音频栈（AVPlayer 和 Core Audio）播放，由 Core Audio 处理其音效和处理任务。FFmpeg 解码是 Flacbox 的功能，与 Flacbox 可选择的 BASS 引擎并存。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Flacbox 有无缝播放或交叉淡入淡出吗？" closed="true" %}}
+{{% ls-details title="Flacbox 有无缝播放或交叉淡入淡出吗？" closed="true" %}}
 没有。真正的无缝播放和交叉淡入淡出（1 到 30 秒）是 Evermusic 的功能。Flacbox 转而专注于高解析播放、专业的 BASS 引擎、音效机架和 DSP 链。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="哪款应用更适合 FLAC、DSD 和 APE？" closed="true" %}}
+{{% ls-details title="哪款应用更适合 FLAC、DSD 和 APE？" closed="true" %}}
 Flacbox。两款应用都能播放 FLAC，但 Flacbox 是高解析和无损专家，通过 FFmpeg 及其 BASS™ 引擎原生支持 FLAC、ALAC、DSD（DSF/DFF）、APE、WavPack（WV）、TTA、OPUS 等。它还提供更精细的输出控制，以满足严肃聆听的需求。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="哪款应用拥有更多音频效果和 DSP 链？" closed="true" %}}
+{{% ls-details title="哪款应用拥有更多音频效果和 DSP 链？" closed="true" %}}
 Flacbox。Evermusic 有 6 种音效（混响、延迟、失真、压缩器、串音消除和音量标准化）。Flacbox 有 11 种音效（增加了合唱、镶边、移相、自动哇音、立体声旋转和多抽头回声），外加一个可自行搭建的 14 个滤波器 DSP 链。DSP 链是 Flacbox 独有的。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="两款应用是否支持相同的云服务、媒体服务器和 CarPlay？" closed="true" %}}
+{{% ls-details title="两款应用是否支持相同的云服务、媒体服务器和 CarPlay？" closed="true" %}}
 是的。Evermusic 和 Flacbox 连接相同的云存储（iCloud Drive、Google Drive、Dropbox、OneDrive、MEGA、pCloud、Internxt、Proton Drive 等）、相同的媒体服务器（Plex、Subsonic、Navidrome、Jellyfin、Emby），以及相同的电脑和 NAS 协议（SMB、WebDAV、FTP、SFTP、NFS、DLNA），并原生支持 QNAP、Synology、Nextcloud 和 WD My Cloud Home。两者也都支持 Apple CarPlay、AirPlay 和 Google Chromecast。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Evermusic 能播放我的 Apple Music 或 iTunes 媒体库吗？" closed="true" %}}
+{{% ls-details title="Evermusic 能播放我的 Apple Music 或 iTunes 媒体库吗？" closed="true" %}}
 可以。除了云端和网络来源外，Evermusic 还可以导入并播放你的 Apple Music / iTunes 媒体库中的音乐。Flacbox 专为来自云端、NAS 和本地存储的你自己的文件而设计，不导入 Apple Music 媒体库。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="我可以同时使用 Evermusic 和 Flacbox 吗？" closed="true" %}}
+{{% ls-details title="我可以同时使用 Evermusic 和 Flacbox 吗？" closed="true" %}}
 可以，而且很多人都这么做。常见的搭配是：用 Evermusic 进行日常无缝播放和访问 Apple Music 媒体库，用 Flacbox 配合 BASS 引擎、音效和 DSP 链进行严肃的高解析聆听。两者都从相同的云端和 NAS 来源读取文件，因此你的媒体库在任一应用中都可用。两者均可免费下载，并提供可选的应用内高级版升级。
-{{% /details %}}
+{{% /ls-details %}}

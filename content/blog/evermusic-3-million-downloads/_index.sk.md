@@ -12,7 +12,7 @@ authors:
     image: "/images/about/artem-meleshko-founder-everappz.webp"
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 ## 3 milióny stiahnutí
 
@@ -98,22 +98,22 @@ Evermusic je zadarmo v App Store s voliteľnými prémiovými funkciami.
 
 ## Často kladené otázky
 
-{{% details title="Je Evermusic zadarmo?" closed="true" %}}
+{{% ls-details title="Je Evermusic zadarmo?" closed="true" %}}
 Áno. Evermusic je zadarmo na stiahnutie so základnými funkciami dostupnými bez poplatku. Prémiové funkcie ako ekvalizér a pokročilé cloudové možnosti sú dostupné prostredníctvom voliteľného upgradu.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Dokáže Evermusic prehrávať audioknihy?" closed="true" %}}
+{{% ls-details title="Dokáže Evermusic prehrávať audioknihy?" closed="true" %}}
 Áno. Evermusic ukladá pozíciu prehrávania, podporuje záložky, nastaviteľnú rýchlosť prehrávania (0,5x až 2,0x) a časovače spánku — čo ho robí vhodným pre audioknihy a podcasty.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="K akým cloudovým službám sa Evermusic pripája?" closed="true" %}}
+{{% ls-details title="K akým cloudovým službám sa Evermusic pripája?" closed="true" %}}
 Dropbox, Google Drive, OneDrive, Box, MEGA, Yandex.Disk, MyDrive, pCloud, HiDrive, SMB zdieľané priečinky a WebDAV servery.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Môžem s Evermusic použiť SD kartu?" closed="true" %}}
+{{% ls-details title="Môžem s Evermusic použiť SD kartu?" closed="true" %}}
 Áno. Pripojte Lightning alebo USB-C čítačku SD kariet k iPhonu alebo iPadu a streamujte hudbu priamo z karty cez Evermusic.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Funguje Evermusic na Macu?" closed="true" %}}
+{{% ls-details title="Funguje Evermusic na Macu?" closed="true" %}}
 Áno. Evermusic je dostupný pre iOS aj macOS s cloudovým streamovaním a offline prehrávaním na všetkých platformách.
-{{% /details %}}
+{{% /ls-details %}}

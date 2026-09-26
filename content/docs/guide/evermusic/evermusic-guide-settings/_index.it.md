@@ -18,7 +18,7 @@ readingTime: 16
 La schermata Impostazioni è il centro di controllo di Evermusic. Da qui puoi passare a Premium, configurare il lettore audio, gestire la tua libreria musicale, impostare il gestore file, personalizzare l'interfaccia, abilitare widget e CarPlay, eseguire il backup dei tuoi dati e accedere all'aiuto e alle informazioni legali. Le sezioni sono raggruppate sotto intestazioni: **Acquisti e aggiornamenti**, preferenze app, **Aiuto**, e **Legale e privacy**.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Schermata Impostazioni Evermusic" image="/docs/guide/evermusic/evermusic-guide-settings/img/settings-main-screen.webp" >}}
+  {{< ls-card title="" subtitle="Schermata Impostazioni Evermusic" image="/docs/guide/evermusic/evermusic-guide-settings/img/settings-main-screen.webp" >}}
 {{< /cards >}}
 
 ## Acquisti e Aggiornamenti

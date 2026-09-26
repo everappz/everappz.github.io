@@ -21,7 +21,7 @@ readingTime: 16
 Obrazovka Nastavení je řídicím centrem Flacboxu. Odsud můžete upgradovat na Premium, konfigurovat zvukový engine (systémové kodeky nebo FFmpeg), spravovat hudební knihovnu, nastavit správce souborů, přizpůsobit editor audio tagů, aktivovat widgety domovské obrazovky a Apple CarPlay, zálohovat data a přistupovat k nápovědě a právním informacím. Sekce jsou seskupeny pod záhlavími: Nákupy a aktualizace, Předvolby aplikace, Nápověda a Právní informace a soukromí.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Hlavní obrazovka nastavení Flacbox" image="/docs/guide/flacbox/img/settings-main.webp" >}}
+  {{< ls-card title="" subtitle="Hlavní obrazovka nastavení Flacbox" image="/docs/guide/flacbox/img/settings-main.webp" >}}
 {{< /cards >}}
 
 ## Upgrade na Premium
@@ -29,13 +29,13 @@ Obrazovka Nastavení je řídicím centrem Flacboxu. Odsud můžete upgradovat n
 Upgradujte aplikaci na verzi Premium a odstraňte všechna omezení. Bezplatná verze aplikace nabízí jednorázový doživotní nákup v aplikaci a dvě možnosti předplatného (1 měsíc a 1 rok) pro odstranění všech omezení a upgrade na Premium.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Upgrade Flacboxu na Premium" image="/docs/guide/flacbox/img/upgrade-to-premium.webp" >}}
+  {{< ls-card title="" subtitle="Upgrade Flacboxu na Premium" image="/docs/guide/flacbox/img/upgrade-to-premium.webp" >}}
 {{< /cards >}}
 
 **Rodinné sdílení** je povoleno pro všechny nákupy a plány, takže můžete sdílet verzi Premium až s pěti členy rodiny bez dalších nákladů.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Vybrat Premium plán Flacboxu" image="/docs/guide/flacbox/img/select-premium-plan.webp" >}}
+  {{< ls-card title="" subtitle="Vybrat Premium plán Flacboxu" image="/docs/guide/flacbox/img/select-premium-plan.webp" >}}
 {{< /cards >}}
 
 Více o nákupech a verzi Premium si můžete přečíst zde: [Jaký je rozdíl mezi Flacboxem a Flacbox Premium](/docs/faq/flacbox/what-is-the-difference-between-flacbox-and-flacbox-premium/).

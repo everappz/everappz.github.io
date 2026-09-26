@@ -20,7 +20,7 @@ Di bagian Playlist, Anda akan menemukan alat yang berguna untuk mengelola koleks
 Playlist di Flacbox dapat berisi campuran trek cloud online, file yang diunduh secara offline, dan file lokal dari perangkat Anda — semuanya dalam satu playlist — dan diputar dengan mulus bersama-sama.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Layar Utama Playlist Flacbox" image="/docs/guide/flacbox/img/playlists-main.webp" >}}
+  {{< ls-card title="" subtitle="Layar Utama Playlist Flacbox" image="/docs/guide/flacbox/img/playlists-main.webp" >}}
 {{< /cards >}}
 
 ## Membuat Playlist
@@ -63,7 +63,7 @@ Saat Anda membuka playlist, layar Detail Playlist muncul. Anda akan menemukan to
 - **Mode Offline** — mengunduh semua trek dari playlist ini ke file lokal. Item baru yang ditambahkan ke playlist juga diunduh secara otomatis.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Layar Detail Playlist Flacbox" image="/docs/guide/flacbox/img/playlist-details-screen.webp" >}}
+  {{< ls-card title="" subtitle="Layar Detail Playlist Flacbox" image="/docs/guide/flacbox/img/playlist-details-screen.webp" >}}
 {{< /cards >}}
 
 ## Aksi Lainnya untuk Playlist di Layar Playlist
@@ -82,7 +82,7 @@ Anda dapat mengakses aksi untuk playlist dengan mengetuk tombol **"..."** di dek
 - **Hapus Playlist** — menghapus playlist dari perpustakaan musik. **Tindakan ini tidak dapat dibatalkan.**
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox Aksi Lainnya untuk Playlist di Layar Utama Playlist" image="/docs/guide/flacbox/img/more-actions-for-playlist-in-playlists-main-screen.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox Aksi Lainnya untuk Playlist di Layar Utama Playlist" image="/docs/guide/flacbox/img/more-actions-for-playlist-in-playlists-main-screen.webp" >}}
 {{< /cards >}}
 
 ## Aksi Lainnya untuk Playlist di Layar Detail Playlist
@@ -110,7 +110,7 @@ Untuk mengubah urutan lagu dalam playlist, ketuk tombol **"..."** di sudut kanan
 Untuk alur kerja yang lebih sederhana pada playlist panjang, pilih Aksi Lainnya → Susun Ulang Lagu untuk masuk ke mode pengurutan ulang seret dan lepas khusus.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox Susun Ulang Lagu dalam Playlist" image="/docs/guide/flacbox/img/playlist-details-rearange-songs.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox Susun Ulang Lagu dalam Playlist" image="/docs/guide/flacbox/img/playlist-details-rearange-songs.webp" >}}
 {{< /cards >}}
 
 ## Mengubah Gambar Sampul Playlist
@@ -126,7 +126,7 @@ Buka playlist dan ketuk tombol **"..."** di sudut kanan atas, lalu pilih **Tamba
 Buka playlist, ketuk tombol **"..."** di sudut kanan atas, dan pilih **Pilih** untuk masuk ke mode pemilihan. Pilih trek yang ingin Anda hapus dan ketuk **Hapus dari Playlist** di bagian bawah layar. Konfirmasi dengan mengetuk **Selesai**.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox Mode Pemilihan di Layar Detail Playlist" image="/docs/guide/flacbox/img/selection-mode-playlist-details-screen.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox Mode Pemilihan di Layar Detail Playlist" image="/docs/guide/flacbox/img/selection-mode-playlist-details-screen.webp" >}}
 {{< /cards >}}
 
 ## Opsi Trek

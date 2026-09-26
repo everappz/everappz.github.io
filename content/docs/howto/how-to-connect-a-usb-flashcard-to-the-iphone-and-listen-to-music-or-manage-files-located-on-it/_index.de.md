@@ -7,7 +7,7 @@ tags: ["Musik", "Dateien", "usb", "Flash", "extern", "ixpand", "abspielen", "Kar
 readingTime: 2
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **Zusammenfassung:** Verbinden Sie einen USB-Stick oder eine SD-Karte mit Ihrem iPhone über einen Apple-Adapter oder ein SanDisk iXpand-Laufwerk und verwenden Sie dann Evermusic, Flacbox oder Evertag, um Ihre Audiodateien direkt vom externen Speicher zu durchsuchen, abzuspielen und zu verwalten.
@@ -72,18 +72,18 @@ Genießen Sie die Freiheit, Ihre Musik mühelos mit diesen einfachen Schritten z
 
 ## Häufig gestellte Fragen
 
-{{% details title="Welche USB-Adapter funktionieren mit dem iPhone für die Musikwiedergabe?" closed="true" %}}
+{{% ls-details title="Welche USB-Adapter funktionieren mit dem iPhone für die Musikwiedergabe?" closed="true" %}}
 Sowohl der Lightning to SD Card Camera Reader als auch der Lightning to USB 3 Camera Adapter von Apple funktionieren. USB-C-Adapter funktionieren auf neueren iPhones mit USB-C-Anschlüssen. SanDisk iXpand Flash-Laufwerke (V1-V7) werden ebenfalls nativ von Evermusic, Flacbox und Evertag unterstützt.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Kann ich Musik direkt vom USB-Laufwerk abspielen, ohne Dateien zu kopieren?" closed="true" %}}
+{{% ls-details title="Kann ich Musik direkt vom USB-Laufwerk abspielen, ohne Dateien zu kopieren?" closed="true" %}}
 Ja. Mit SanDisk iXpand-Laufwerken können Sie Musik direkt vom Laufwerk abspielen, ohne Dateien auf Ihr iPhone zu kopieren. Bei Verwendung von Apple-Adaptern werden Dateien importiert, aber Sie können wählen, ob Sie sie in den lokalen Speicher kopieren möchten.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Welche Audioformate werden von USB-Laufwerken unterstützt?" closed="true" %}}
+{{% ls-details title="Welche Audioformate werden von USB-Laufwerken unterstützt?" closed="true" %}}
 Evermusic und Flacbox unterstützen eine breite Palette von Formaten, darunter FLAC, MP3, AAC, WAV, ALAC, OGG, WMA und mehr. Alle unterstützten Formate funktionieren bei der Wiedergabe vom USB-Speicher.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Mein SanDisk iXpand zeigt einen 'belegt'-Fehler. Was soll ich tun?" closed="true" %}}
+{{% ls-details title="Mein SanDisk iXpand zeigt einen 'belegt'-Fehler. Was soll ich tun?" closed="true" %}}
 Eine andere App greift möglicherweise auf das Laufwerk zu. Schließen Sie alle anderen Apps, die das Flash-Laufwerk möglicherweise verwenden, oder trennen Sie es und stecken Sie es wieder ein. Öffnen Sie dann Evermusic, Flacbox oder Evertag erneut.
-{{% /details %}}
+{{% /ls-details %}}

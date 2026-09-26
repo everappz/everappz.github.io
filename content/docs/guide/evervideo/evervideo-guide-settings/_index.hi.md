@@ -23,7 +23,7 @@ readingTime: 16
 **सेटिंग्स** स्क्रीन Evervideo का कंट्रोल सेंटर है। यहाँ से आप Premium में अपग्रेड कर सकते हैं, वीडियो और ऑडियो इंजन (सिस्टम कोडेक या FFmpeg) कॉन्फ़िगर कर सकते हैं, Picture-in-Picture प्रबंधित कर सकते हैं, सबटाइटल सेट अप कर सकते हैं (प्राथमिक, द्वितीयक, libass, बाहरी फ़ाइलें, फ़ॉन्ट), मीडिया लाइब्रेरी व्यवस्थित कर सकते हैं, फ़ाइल मैनेजर सेट अप कर सकते हैं, होम स्क्रीन विजेट सक्षम कर सकते हैं, अपना डेटा बैकअप कर सकते हैं, और सहायता एवं कानूनी जानकारी एक्सेस कर सकते हैं। सेक्शन हेडर के अंतर्गत समूहीकृत हैं: खरीदारी और अपडेट, ऐप प्राथमिकताएं, सहायता, कानूनी और गोपनीयता।
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evervideo सेटिंग्स मुख्य स्क्रीन" image="/docs/guide/evervideo/img/evervideo-settings.webp" >}}
+  {{< ls-card title="" subtitle="Evervideo सेटिंग्स मुख्य स्क्रीन" image="/docs/guide/evervideo/img/evervideo-settings.webp" >}}
 {{< /cards >}}
 
 ## Premium में अपग्रेड करें
@@ -31,13 +31,13 @@ readingTime: 16
 सभी सीमाएं हटाने के लिए एप्लिकेशन को Premium संस्करण में अपग्रेड करें। एप्लिकेशन का मुफ्त संस्करण एक बार का आजीवन इन-ऐप खरीद और दो सदस्यता विकल्प (1 महीना और 1 वर्ष) प्रदान करता है सभी प्रतिबंध हटाने और Premium में अपग्रेड करने के लिए।
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evervideo Premium में अपग्रेड करें" image="/docs/guide/evervideo/img/evervideo-upgrade-to-premium.webp" >}}
+  {{< ls-card title="" subtitle="Evervideo Premium में अपग्रेड करें" image="/docs/guide/evervideo/img/evervideo-upgrade-to-premium.webp" >}}
 {{< /cards >}}
 
 **Family Sharing** सभी खरीदारी और योजनाओं के लिए सक्षम है, इसलिए आप बिना किसी अतिरिक्त लागत के अपने परिवार के पाँच सदस्यों तक Premium संस्करण साझा कर सकते हैं।
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evervideo Premium योजना चुनें" image="/docs/guide/evervideo/img/evervideo-select-premium-plan.webp" >}}
+  {{< ls-card title="" subtitle="Evervideo Premium योजना चुनें" image="/docs/guide/evervideo/img/evervideo-select-premium-plan.webp" >}}
 {{< /cards >}}
 
 ## iOS और Mac के बीच खरीदारी साझा करना
@@ -51,7 +51,7 @@ readingTime: 16
 नए डिवाइस पर अपनी खरीदारी पुनर्स्थापित करने के लिए, **खरीदारी → खरीदारी पुनर्स्थापित करें** मेनू का उपयोग करें। आपकी खरीदारी की सूची दिखाई देगी। यदि आप उन सभी को नहीं देखते हैं, तो पुष्टि करें कि डिवाइस उसी Apple ID से कनेक्ट है जिसका उपयोग खरीदारी करने के लिए किया गया था, और सुनिश्चित करें कि iCloud सक्षम है।
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evervideo सेटिंग्स में खरीदारी मेनू" image="/docs/guide/evervideo/img/evervideo-purhases-menu-in-settings.webp" >}}
+  {{< ls-card title="" subtitle="Evervideo सेटिंग्स में खरीदारी मेनू" image="/docs/guide/evervideo/img/evervideo-purhases-menu-in-settings.webp" >}}
 {{< /cards >}}
 
 ## मुफ्त में Premium आज़माएं

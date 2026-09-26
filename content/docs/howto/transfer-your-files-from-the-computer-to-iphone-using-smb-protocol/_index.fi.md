@@ -7,7 +7,7 @@ tags: ["cloud", "streaming", "computer", "mp3", "file", "downloader", "manager",
 keywords: ["tiedostojen siirto iPhoneen SMB", "PC-musiikin suoratoisto iPhonessa", "Macin yhdistäminen iPhoneen SMB", "Evermusic SMB-asetukset", "tietokoneen tiedostojen käyttö iPhonella", "Windows-musiikin jakaminen iOS", "SMB-tiedostosiirto Evermusic"]
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **Tiivistelmä:** Käytä Evermusicia iPhonessa tai iPadissa päästäksesi käsiksi Macille tai Windows PC:lle tallennettuihin tiedostoihin paikallisverkon kautta SMB:n avulla. Ei kaapeleita, ei iTunesia, ei pilvilatausta tarvita. Ota tiedostojen jakaminen käyttöön tietokoneellasi, yhdistä sovelluksessa ja selaa tai toista tiedostojasi langattomasti.
@@ -142,26 +142,26 @@ Näillä vaiheilla voit vaivattomasti käyttää laajaa tiedostokokoelmaasi MAC-
 
 ## Usein kysytyt kysymykset
 
-{{% details title="Voinko käyttää tietokoneeni tiedostoja iPhonesta ilman iTunesia?" closed="true" %}}
+{{% ls-details title="Voinko käyttää tietokoneeni tiedostoja iPhonesta ilman iTunesia?" closed="true" %}}
 Kyllä. Evermusic yhdistää tietokoneeseen SMB:n kautta paikallisessa Wi-Fi-verkossa. iTunes- tai Finder-synkronointia ei tarvita. Ota tiedostojen jakaminen käyttöön PC:lläsi ja yhdistä suoraan sovelluksesta.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Toimiiko SMB-tiedostojen käyttö internetin kautta?" closed="true" %}}
+{{% ls-details title="Toimiiko SMB-tiedostojen käyttö internetin kautta?" closed="true" %}}
 Ei. SMB on paikallisverkkoprotokolla. iPhonesi ja tietokoneesi on oltava samassa Wi-Fi-verkossa. Etäkäyttöä varten lataa tiedostot pilvipalveluun kuten Google Drive tai Dropbox ja yhdistä siihen Evermusicissa.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Mitä tiedostotyyppejä voin käyttää SMB:n kautta?" closed="true" %}}
+{{% ls-details title="Mitä tiedostotyyppejä voin käyttää SMB:n kautta?" closed="true" %}}
 Evermusic tukee MP3-, FLAC-, AAC-, WAV-, AIFF-, OGG-, WMA-, ALAC- ja muita äänimuotoja. Voit myös selata ja hallita muita kuin äänitiedostoja sisäänrakennetun tiedostonhallinnan avulla.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Voinko siirtää tiedostoja NAS-laitteesta iPhoneen SMB:n avulla?" closed="true" %}}
+{{% ls-details title="Voinko siirtää tiedostoja NAS-laitteesta iPhoneen SMB:n avulla?" closed="true" %}}
 Kyllä. Useimmat NAS-laitteet (Synology, QNAP, WD My Cloud ja muut) tukevat SMB:tä. Yhdistä NAS-laitteeseesi samoja vaiheita käyttäen tässä oppaassa.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Pitääkö minun kopioida tiedostot iPhoneen toistaakseni niitä?" closed="true" %}}
+{{% ls-details title="Pitääkö minun kopioida tiedostot iPhoneen toistaakseni niitä?" closed="true" %}}
 Ei. Evermusic suoratoistaa tiedostot suoraan tietokoneeltasi tai NAS-laitteestasi verkon kautta. Tiedostoja ei kopioida iPhoneen, ellet valitse ladata niitä offline-toistoa varten.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Onko SMB-tiedostojen jakaminen turvallista?" closed="true" %}}
+{{% ls-details title="Onko SMB-tiedostojen jakaminen turvallista?" closed="true" %}}
 SMB-tiedostojen jakaminen toimii vain paikallisverkossasi. Muut laitteet eri verkoissa eivät pääse käsiksi jaettuihin kansioihisi. Lisäturvallisuutta varten käytä käyttäjätunnusta ja salasanaa anonyymin (Kaikki) käytön sijaan.
-{{% /details %}}
+{{% /ls-details %}}

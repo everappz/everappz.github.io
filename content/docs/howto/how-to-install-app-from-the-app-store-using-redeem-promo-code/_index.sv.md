@@ -7,7 +7,7 @@ tags: ["kampanj", "appstore", "installera", "lösa in", "kod", "gratis"]
 readingTime: 2
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **Sammanfattning:** En kampanjkod låter dig ladda ner en betalapp gratis eller låsa upp köp i appen. På iOS: App Store > Kontoikon > Lös in presentkort eller kod > ange kod. På Mac: App Store > Konto > Lös in presentkort > ange kod. Öppna sedan appen och återställ köp vid behov.
@@ -94,22 +94,22 @@ Njut av din gratisapp eller uppgradering i appen!
 
 ## Vanliga frågor
 
-{{% details title="Var får jag en kampanjkod?" closed="true" %}}
+{{% ls-details title="Var får jag en kampanjkod?" closed="true" %}}
 Kampanjkoder tillhandahålls av apputvecklare för recensioner, utlottningar eller kampanjer. Kontakta utvecklaren direkt för att begära en.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Går kampanjkoder ut?" closed="true" %}}
+{{% ls-details title="Går kampanjkoder ut?" closed="true" %}}
 Ja. Apple App Store kampanjkoder går ut 28 dagar efter att de genererats och kan bara lösas in en gång.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Kan jag använda en kampanjkod i vilket land som helst?" closed="true" %}}
+{{% ls-details title="Kan jag använda en kampanjkod i vilket land som helst?" closed="true" %}}
 Kampanjkoder är regionsspecifika. Koden måste matcha App Store-landet för ditt Apple ID.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Hur aktiverar jag köp i appen med en kampanjkod?" closed="true" %}}
+{{% ls-details title="Hur aktiverar jag köp i appen med en kampanjkod?" closed="true" %}}
 Efter att du löst in koden i App Store, öppna appen och gå till Inställningar > Återställ köp. Premiuminnehållet låses upp automatiskt.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Kampanjkoden säger att den redan har lösts in. Vad ska jag göra?" closed="true" %}}
+{{% ls-details title="Kampanjkoden säger att den redan har lösts in. Vad ska jag göra?" closed="true" %}}
 Varje kampanjkod kan bara användas en gång. Kontakta utvecklaren för att begära en ny kod.
-{{% /details %}}
+{{% /ls-details %}}

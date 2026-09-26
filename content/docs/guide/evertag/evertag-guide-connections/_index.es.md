@@ -15,7 +15,7 @@ readingTime: 11
 En esta pantalla, puedes conectar varias fuentes que contienen tus archivos de audio. Puedes integrar servicios de nube populares como Google Drive, Dropbox, OneDrive, iCloud y otros, así como conectar tu Mac o PC. Además, tienes la opción de editar archivos de audio ubicados en Apple Time Capsule, WD Cloud Home o cualquier NAS que hable SMB o WebDAV.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evertag Connections Screen" image="/docs/guide/evertag/img/connections.webp" >}}
+  {{< ls-card title="" subtitle="Evertag Connections Screen" image="/docs/guide/evertag/img/connections.webp" >}}
 {{< /cards >}}
 
 ## Acceso rápido
@@ -151,7 +151,7 @@ Aquí hay un desglose de estas acciones:
 - **Vista de cuadrícula/lista**: Cambia entre dos modos de visualización: vista de tabla y vista de miniaturas. La vista de tabla presenta archivos en una lista, mientras que la vista de miniaturas muestra representaciones visuales de los archivos, facilitando la identificación del contenido a primera vista.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evertag Cloud Folder Sort" image="/docs/guide/evertag/img/cloud-storage-sort.webp" >}}
+  {{< ls-card title="" subtitle="Evertag Cloud Folder Sort" image="/docs/guide/evertag/img/cloud-storage-sort.webp" >}}
 {{< /cards >}}
 
 ## Editar Archivos en Línea
@@ -163,7 +163,7 @@ Cuando necesitas gestionar varios archivos dentro de tu almacenamiento en la nub
 - **Realizar Varias Acciones**: Una vez que hayas seleccionado los archivos o carpetas que deseas gestionar, tendrás acceso a varias acciones adaptadas a tus necesidades:
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evertag File Select" image="/docs/guide/evertag/img/cloud-storage-file-select.webp" >}}
+  {{< ls-card title="" subtitle="Evertag File Select" image="/docs/guide/evertag/img/cloud-storage-file-select.webp" >}}
 {{< /cards >}}
 
 ## Acciones de archivo
@@ -180,7 +180,7 @@ Tócalo para revelar una lista de acciones disponibles:
 - **Eliminar**: Ten cuidado con esta acción, ya que elimina permanentemente el archivo de tu almacenamiento en la nube. **Esta eliminación no se puede deshacer**.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evertag File Options" image="/docs/guide/evertag/img/cloud-storage-file-options.webp" >}}
+  {{< ls-card title="" subtitle="Evertag File Options" image="/docs/guide/evertag/img/cloud-storage-file-options.webp" >}}
 {{< /cards >}}
 
 Si la lista de acciones supera el espacio de pantalla disponible, simplemente desplázate hacia abajo dentro del menú de acciones para acceder a opciones adicionales.
@@ -196,5 +196,5 @@ Para cada carpeta en tu almacenamiento en la nube, tienes varias acciones dispon
 - **Eliminar**: Ten cuidado con esta acción, ya que elimina permanentemente la carpeta y su contenido de tu almacenamiento en la nube. **Esta acción no se puede deshacer**.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evertag Folder Options" image="/docs/guide/evertag/img/cloud-storage-folder-options.webp" >}}
+  {{< ls-card title="" subtitle="Evertag Folder Options" image="/docs/guide/evertag/img/cloud-storage-folder-options.webp" >}}
 {{< /cards >}}

@@ -18,7 +18,7 @@ readingTime: 3
 Evertag offers an intuitive user interface. What sets it apart from many popular apps is its built-in file manager, giving users the power to edit audio files and seamlessly transfer them to and from cloud storage.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evertag Screen" image="/docs/guide/evertag/img/tag-editor.webp" >}}
+  {{< ls-card title="" subtitle="Evertag Screen" image="/docs/guide/evertag/img/tag-editor.webp" >}}
 {{< /cards >}}
 
 ## Sections
@@ -44,7 +44,7 @@ The Local Files section is divided into two categories: **Files in this applicat
 Virtually every content item on the screen features a "More Actions" button. Tap it to access all available actions.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evertag More Actions" image="/docs/guide/evertag/img/downloads-file-actions.webp" >}}
+  {{< ls-card title="" subtitle="Evertag More Actions" image="/docs/guide/evertag/img/downloads-file-actions.webp" >}}
 {{< /cards >}}
 
 ## Top Toolbar

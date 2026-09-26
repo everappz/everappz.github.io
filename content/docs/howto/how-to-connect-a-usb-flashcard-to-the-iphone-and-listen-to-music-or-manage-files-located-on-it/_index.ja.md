@@ -7,7 +7,7 @@ tags: ["音楽", "ファイル", "usb", "フラッシュ", "外部", "ixpand", "
 readingTime: 2
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **概要:** AppleアダプターまたはSanDisk iXpandドライブを使用してUSBフラッシュドライブまたはSDカードをiPhoneに接続し、Evermusic、Flacbox、またはEvertagを使って外部ストレージから直接オーディオファイルを閲覧、再生、管理できます。
@@ -72,18 +72,18 @@ SanDiskはこちらで購入できます: [SanDisk iXpand Mini](https://www.goog
 
 ## よくある質問
 
-{{% details title="音楽再生にはどのUSBアダプターがiPhoneで使えますか？" closed="true" %}}
+{{% ls-details title="音楽再生にはどのUSBアダプターがiPhoneで使えますか？" closed="true" %}}
 AppleのLightning to SD Card Camera ReaderとLightning to USB 3 Camera Adapterの両方が使えます。USB-Cアダプターは、USB-Cポートを搭載した新しいiPhoneで動作します。SanDisk iXpand Flashドライブ（V1-V7）もEvermusic、Flacbox、Evertagでネイティブにサポートされています。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="ファイルをコピーせずにUSBドライブから直接音楽を再生できますか？" closed="true" %}}
+{{% ls-details title="ファイルをコピーせずにUSBドライブから直接音楽を再生できますか？" closed="true" %}}
 はい。SanDisk iXpandドライブを使用すると、iPhoneにファイルをコピーすることなく、ドライブから直接音楽を再生できます。Appleアダプターを使用する場合、ファイルはインポートされますが、ローカルストレージにコピーするかどうかを選択できます。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="USBドライブからサポートされるオーディオフォーマットは何ですか？" closed="true" %}}
+{{% ls-details title="USBドライブからサポートされるオーディオフォーマットは何ですか？" closed="true" %}}
 EverusicとFlacboxは、FLAC、MP3、AAC、WAV、ALAC、OGG、WMAなど、幅広いフォーマットをサポートしています。すべてのサポートされるフォーマットは、USBストレージからの再生時に動作します。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="SanDisk iXpandが「ビジー」エラーを表示します。どうすればいいですか？" closed="true" %}}
+{{% ls-details title="SanDisk iXpandが「ビジー」エラーを表示します。どうすればいいですか？" closed="true" %}}
 別のアプリがドライブにアクセスしている可能性があります。フラッシュドライブを使用している可能性のある他のすべてのアプリを閉じるか、ドライブを抜いて再挿入してください。その後、Evermusic、Flacbox、またはEvertagを再度開いてください。
-{{% /details %}}
+{{% /ls-details %}}

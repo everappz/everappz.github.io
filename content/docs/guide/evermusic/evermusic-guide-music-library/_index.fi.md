@@ -15,7 +15,7 @@ readingTime: 11
 Musiikkikirjastosi hallinta on helppoa Evermusicillä, jossa voit järjestää kaikki kappaleesi vaivattomasti. Sinulla on kaksi vaihtoehtoa musiikkikirjaston rakentamiseen: manuaalinen lisääminen tai automaattinen synkronointi.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evermusicin Musiikkikirjasto-näyttö" image="/docs/guide/evermusic/evermusic-guide-music-library/img/music-library-main.webp" >}}
+  {{< ls-card title="" subtitle="Evermusicin Musiikkikirjasto-näyttö" image="/docs/guide/evermusic/evermusic-guide-music-library/img/music-library-main.webp" >}}
 {{< /cards >}}
 
 ## Manuaalinen lisääminen
@@ -23,7 +23,7 @@ Musiikkikirjastosi hallinta on helppoa Evermusicillä, jossa voit järjestää k
 Lisätäksesi kappaleita manuaalisesti, napauta 'Lisää musiikkia' -valikkoa ja valitse kansioita/tiedostoja yhdistetyltä pilvipalvelulta tai laitteellasi olevia tiedostoja. Kun lisäät kappaleita kirjastoon, luodaan vain linkkejä kyseisiin kappaleisiin, säilyttäen varsinaiset tiedostot alkuperäisissä sijainneissaan arvokaan levytilan säästämiseksi. Jos haluat tehdä kappaleista offline-käytettävissä olevia, voit käyttää lataamistoimintoa asetusvalikosta tai ottaa offline-tilan käyttöön soittolistoille ja kappalekokelmille.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Lisää kappaleita musiikkikirjastoon" image="/docs/guide/evermusic/evermusic-guide-music-library/img/music-library-add-songs.webp" >}}
+  {{< ls-card title="" subtitle="Lisää kappaleita musiikkikirjastoon" image="/docs/guide/evermusic/evermusic-guide-music-library/img/music-library-add-songs.webp" >}}
 {{< /cards >}}
 
 ## Pikakäyttö
@@ -75,7 +75,7 @@ Kun lisäät kappaleita musiikkikirjastoosi, sovellus lukee automaattisesti niid
 Aivan navigointipalkin alapuolella ylätyökalupalkki tarjoaa useita käteviä toimintoja: 'Haku', 'Toista kaikki', 'Toista satunnaisessa järjestyksessä' ja 'Jatka toistoa'. Voit näyttää tai piilottaa tämän palkin yksinkertaisella alaspäin pyyhkäisyelkeellä.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Albumikatselunäkymä — Ryhmitelty musiikkitunnisteiden mukaan" image="/docs/guide/evermusic/evermusic-guide-music-library/img/music-library-albums.webp" >}}
+  {{< ls-card title="" subtitle="Albumikatselunäkymä — Ryhmitelty musiikkitunnisteiden mukaan" image="/docs/guide/evermusic/evermusic-guide-music-library/img/music-library-albums.webp" >}}
 {{< /cards >}}
 
 ## Haku
@@ -83,7 +83,7 @@ Aivan navigointipalkin alapuolella ylätyökalupalkki tarjoaa useita käteviä t
 Hakutoiminto mahdollistaa tietyn kappaleen, artistin, albumin tai genren löytämisen musiikkikirjastostasi. 'Hakunäytöllä' voit käyttää seuraavia toimintoja: 'Lajittele', 'Suodata', 'Ruudukko/Lista'.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Musiikkikirjaston hakutulokset" image="/docs/guide/evermusic/evermusic-guide-music-library/img/music-library-search.webp" >}}
+  {{< ls-card title="" subtitle="Musiikkikirjaston hakutulokset" image="/docs/guide/evermusic/evermusic-guide-music-library/img/music-library-search.webp" >}}
 {{< /cards >}}
 
 ## Asetusvalikko
@@ -91,7 +91,7 @@ Hakutoiminto mahdollistaa tietyn kappaleen, artistin, albumin tai genren löytä
 Jokaisella musiikkikirjastosi kappaleella on lisätoimintovalikko, johon pääsee napauttamalla kappaleen otsikon lähellä olevaa kolmen pisteen painiketta.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Lisää toimintoja kirjaston kohteelle" image="/docs/guide/evermusic/evermusic-guide-music-library/img/music-library-item-more-actions.webp" >}}
+  {{< ls-card title="" subtitle="Lisää toimintoja kirjaston kohteelle" image="/docs/guide/evermusic/evermusic-guide-music-library/img/music-library-item-more-actions.webp" >}}
 {{< /cards >}}
 
 ### Yksittäisille kappaleille
@@ -125,7 +125,7 @@ Kappalekokelmille, kuten albumeille, artisteille, genreille tai säveltäjille, 
 Voit aktivoida valintamoodin käyttämällä Lisää toimintoja -painiketta oikeassa yläkulmassa.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Valintamoodi musiikkikirjastossa" image="/docs/guide/evermusic/evermusic-guide-music-library/img/music-library-selection-mode.webp" >}}
+  {{< ls-card title="" subtitle="Valintamoodi musiikkikirjastossa" image="/docs/guide/evermusic/evermusic-guide-music-library/img/music-library-selection-mode.webp" >}}
 {{< /cards >}}
 
 ## Tunnisteryhmittely
@@ -145,7 +145,7 @@ Nämä kategoriat auttavat sinua järjestämään kappaleesi musiikkitunnisteide
 Kun avaat Artisti-, Albumiartisti- tai Säveltäjä-osion, näet vaihtopainikkeen Kappaleet/Kaikki albumit/Eksklusiiviset albumit/Solo-albumit.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Albumin tiedot Kappaleet / Kaikki / Eksklusiiviset / Solo -vaihtopainikkeella" image="/docs/guide/evermusic/evermusic-guide-music-library/img/music-library-album-details.webp" >}}
+  {{< ls-card title="" subtitle="Albumin tiedot Kappaleet / Kaikki / Eksklusiiviset / Solo -vaihtopainikkeella" image="/docs/guide/evermusic/evermusic-guide-music-library/img/music-library-album-details.webp" >}}
 {{< /cards >}}
 
 - **Kappaleet**: Näyttää kaikki kappaleet, joissa tämä Artisti/Albumiartisti/Säveltäjä on asetettu äänitunnisteissa.
@@ -166,7 +166,7 @@ Voit käyttää tätä ominaisuutta löytääksesi nopeasti minkä tahansa kappa
 Napauta 'Asetukset'-valikkoa määrittääksesi musiikkikirjastosi asetukset.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Musiikkikirjaston asetukset" image="/docs/guide/evermusic/evermusic-guide-music-library/img/music-library-settings.webp" >}}
+  {{< ls-card title="" subtitle="Musiikkikirjaston asetukset" image="/docs/guide/evermusic/evermusic-guide-music-library/img/music-library-settings.webp" >}}
 {{< /cards >}}
 
 #### Metatietojen lukeminen

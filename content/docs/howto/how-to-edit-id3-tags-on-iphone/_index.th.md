@@ -7,7 +7,7 @@ tags: ["mp3", "โปรแกรมแก้ไข", "iPhone", "แท็ก", 
 readingTime: 2
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **สรุป:** ใช้โปรแกรมแก้ไขแท็กในตัวของ Evermusic หรือ Flacbox เพื่อแก้ไขแท็ก ID3 บน iPhone หรือ Mac -- สำหรับทั้งไฟล์คลาวด์และไฟล์ในเครื่อง ต้องการแก้ไขเป็นชุดหรือฟิลด์แท็กมากกว่า 120 รายการ? ใช้ [Evertag](https://apps.apple.com/app/apple-store/id1450763230?pt=95781850&ct=everappzcom&mt=8) แทน
@@ -21,8 +21,8 @@ readingTime: 2
 ในขณะที่แอปเดสก์ท็อปหลายตัวมีการแก้ไขข้อมูลเมตา Evermusic และ Flacbox ยกระดับความเรียบง่ายไปอีกขั้นด้วยการรวมโปรแกรมแก้ไขแท็ก ID3 ตอนนี้คุณสามารถใช้แอปเดียวเพื่อสร้างคลังเพลง เพลิดเพลินกับแทร็กของคุณ และแก้ไขแท็กเสียง
 
 {{< cards cols="2">}}
-{{< card link="https://apps.apple.com/app/apple-store/id885367198?pt=95781850&ct=everappzcom&mt=8" title="ดาวน์โหลด Evermusic" icon="download" tag="Free" >}}
-{{< card link="https://apps.apple.com/app/apple-store/id1097564256?pt=95781850&ct=everappzcom&mt=8" title="ดาวน์โหลด Flacbox" icon="download" tag="Free" >}}
+{{< ls-card link="https://apps.apple.com/app/apple-store/id885367198?pt=95781850&ct=everappzcom&mt=8" title="ดาวน์โหลด Evermusic" icon="download" tag="Free" >}}
+{{< ls-card link="https://apps.apple.com/app/apple-store/id1097564256?pt=95781850&ct=everappzcom&mt=8" title="ดาวน์โหลด Flacbox" icon="download" tag="Free" >}}
 {{< /cards >}}
 
 ## โปรแกรมแก้ไขระดับมืออาชีพ
@@ -30,7 +30,7 @@ readingTime: 2
 แต่ก่อนที่คุณจะเริ่ม ลองดูแอป **Evertag** — รองรับ **แท็กเสียงมากกว่า 120 รายการ**, **รูปแบบเสียงมากกว่า 30 รูปแบบ** และมี **การแก้ไขเป็นชุด** ที่ทรงพลัง หากคุณกำลังมองหาเครื่องมือจัดการแท็กที่ครบครัน Evertag คือทางเลือกที่เหมาะสม อย่างไรก็ตาม หากคุณต้องการเพียง **โปรแกรมแก้ไขแท็กง่ายๆ** ก็ดำเนินการต่อด้วยคู่มือนี้
 
 {{< cards >}}
-{{< card link="https://apps.apple.com/app/apple-store/id1450763230?pt=95781850&ct=everappzcom&mt=8" title="ดาวน์โหลด Evertag" icon="download" tag="Free" >}}
+{{< ls-card link="https://apps.apple.com/app/apple-store/id1450763230?pt=95781850&ct=everappzcom&mt=8" title="ดาวน์โหลด Evertag" icon="download" tag="Free" >}}
 {{< /cards >}}
 
 
@@ -38,21 +38,21 @@ readingTime: 2
 เชื่อมโยงบัญชีคลาวด์ที่คุณต้องการภายในแอป
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="เชื่อมต่อเซิร์ฟเวอร์คลาวด์" image="/docs/howto/how-to-edit-id3-tags-on-iphone/connect_cloud_server.webp" >}}
+{{< ls-card title="" subtitle="เชื่อมต่อเซิร์ฟเวอร์คลาวด์" image="/docs/howto/how-to-edit-id3-tags-on-iphone/connect_cloud_server.webp" >}}
 {{< /cards >}}
 
 ## นำทางไปยังไฟล์เสียงของคุณ  
 เปิดโฟลเดอร์ที่มีไฟล์เสียงของคุณในบัญชีคลาวด์ที่เชื่อมต่อ
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="โฟลเดอร์คลาวด์" image="/docs/howto/how-to-edit-id3-tags-on-iphone/cloud_server_folders.webp" >}}
+{{< ls-card title="" subtitle="โฟลเดอร์คลาวด์" image="/docs/howto/how-to-edit-id3-tags-on-iphone/cloud_server_folders.webp" >}}
 {{< /cards >}}
 
 ## เข้าถึงตัวเลือกไฟล์  
 แตะปุ่ม 'เพิ่มเติม' ('...') ใกล้กับไฟล์ที่คุณต้องการแก้ไข
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="การดำเนินการเพิ่มเติม" image="/docs/howto/how-to-edit-id3-tags-on-iphone/cloud_server_audio_more_actions.webp" >}}
+{{< ls-card title="" subtitle="การดำเนินการเพิ่มเติม" image="/docs/howto/how-to-edit-id3-tags-on-iphone/cloud_server_audio_more_actions.webp" >}}
 {{< /cards >}}
 
 ## เลือก 'แก้ไขแท็กเสียง'  
@@ -70,7 +70,7 @@ readingTime: 2
 เมื่อแก้ไขเสร็จแล้ว แตะปุ่ม 'บันทึก' เพื่อบันทึกการเปลี่ยนแปลงของคุณ
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="โปรแกรมแก้ไขแท็ก" image="/docs/howto/how-to-edit-id3-tags-on-iphone/tags_editor.webp" >}}
+{{< ls-card title="" subtitle="โปรแกรมแก้ไขแท็ก" image="/docs/howto/how-to-edit-id3-tags-on-iphone/tags_editor.webp" >}}
 {{< /cards >}}
 
 ## การเติมข้อมูลอัตโนมัติอัจฉริยะ  
@@ -88,7 +88,7 @@ readingTime: 2
 - **ไปที่ส่วน "ไฟล์ในเครื่อง"** จากนั้นเลื่อนลงไปที่ **"ไฟล์บนอุปกรณ์นี้"**
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="ไฟล์บนอุปกรณ์นี้" image="/docs/howto/how-to-edit-id3-tags-on-iphone/local_files.webp" >}}
+{{< ls-card title="" subtitle="ไฟล์บนอุปกรณ์นี้" image="/docs/howto/how-to-edit-id3-tags-on-iphone/local_files.webp" >}}
 {{< /cards >}}
 
 - แตะ **"เชื่อมต่อโฟลเดอร์"**
@@ -96,25 +96,25 @@ readingTime: 2
 - ในตัวเลือกโฟลเดอร์ เลือกไดเรกทอรีที่คุณต้องการเข้าถึงและแตะ **"เปิด"** เพื่อยืนยัน
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="เชื่อมต่อโฟลเดอร์ภายนอก" image="/docs/howto/how-to-edit-id3-tags-on-iphone/connect_external_folder.webp" >}}
+{{< ls-card title="" subtitle="เชื่อมต่อโฟลเดอร์ภายนอก" image="/docs/howto/how-to-edit-id3-tags-on-iphone/connect_external_folder.webp" >}}
 {{< /cards >}}
 
 - หลังจากเพิ่มโฟลเดอร์แล้ว แตะที่มันเพื่อดูไฟล์ข้างใน
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="เนื้อหาโฟลเดอร์ภายนอก" image="/docs/howto/how-to-edit-id3-tags-on-iphone/connected_external_folder.webp" >}}
+{{< ls-card title="" subtitle="เนื้อหาโฟลเดอร์ภายนอก" image="/docs/howto/how-to-edit-id3-tags-on-iphone/connected_external_folder.webp" >}}
 {{< /cards >}}
 
 - เช่นเดียวกับไฟล์คลาวด์ แตะปุ่ม **"การดำเนินการเพิ่มเติม"** ข้างไฟล์เสียงและเลือก **"แก้ไขแท็กเสียง"**
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="การดำเนินการเพิ่มเติม - ไฟล์ในเครื่อง" image="/docs/howto/how-to-edit-id3-tags-on-iphone/more_actions_local_file.webp" >}}
+{{< ls-card title="" subtitle="การดำเนินการเพิ่มเติม - ไฟล์ในเครื่อง" image="/docs/howto/how-to-edit-id3-tags-on-iphone/more_actions_local_file.webp" >}}
 {{< /cards >}}
 
 - โปรแกรมแก้ไขแท็กจะเปิดขึ้น ทำการเปลี่ยนแปลงและแตะ **"บันทึก"** เท่านี้เอง! การแก้ไขของคุณจะถูกนำไปใช้กับไฟล์โดยตรง — ไม่จำเป็นต้องคัดลอกหรือย้ายอะไร
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="โปรแกรมแก้ไขแท็ก - ไฟล์ในเครื่อง" image="/docs/howto/how-to-edit-id3-tags-on-iphone/tag_editor_local_file.webp" >}}
+{{< ls-card title="" subtitle="โปรแกรมแก้ไขแท็ก - ไฟล์ในเครื่อง" image="/docs/howto/how-to-edit-id3-tags-on-iphone/tag_editor_local_file.webp" >}}
 {{< /cards >}}
 
 ## แก้ไขปกอัลบั้ม
@@ -126,7 +126,7 @@ readingTime: 2
 3. เลือกรูปภาพเพื่อใช้เป็นปก
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="เลือกรูปภาพ" image="/docs/howto/how-to-edit-id3-tags-on-iphone/tags_editor_choose_image.webp" >}}
+{{< ls-card title="" subtitle="เลือกรูปภาพ" image="/docs/howto/how-to-edit-id3-tags-on-iphone/tags_editor_choose_image.webp" >}}
 {{< /cards >}}
 
 ## การดำเนินการเพิ่มเติมในโปรแกรมแก้ไขแท็ก
@@ -134,7 +134,7 @@ readingTime: 2
 ตัวเลือกการแก้ไขเพิ่มเติมมีให้ผ่านแถบเครื่องมือใต้มุมมองภาพปก
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="เมนูการดำเนินการเพิ่มเติม" image="/docs/howto/how-to-edit-id3-tags-on-iphone/tags_edito_more_actions.webp" >}}
+{{< ls-card title="" subtitle="เมนูการดำเนินการเพิ่มเติม" image="/docs/howto/how-to-edit-id3-tags-on-iphone/tags_edito_more_actions.webp" >}}
 {{< /cards >}}
 
 ### ค้นหาแท็กเสียงอัตโนมัติ
@@ -195,22 +195,22 @@ readingTime: 2
 
 ## คำถามที่พบบ่อย
 
-{{% details title="ฉันสามารถแก้ไขแท็กรูปแบบเสียงใดได้บ้าง?" closed="true" %}}
+{{% ls-details title="ฉันสามารถแก้ไขแท็กรูปแบบเสียงใดได้บ้าง?" closed="true" %}}
 Evermusic และ Flacbox รองรับการแก้ไขแท็กสำหรับ MP3, FLAC, AAC, OGG และรูปแบบเสียงทั่วไปอื่นๆ Evertag รองรับมากกว่า 30 รูปแบบรวมถึง WAV, AIFF, WMA และ APE
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="ฉันสามารถแก้ไขแท็กสำหรับไฟล์ที่จัดเก็บในบริการคลาวด์ได้หรือไม่?" closed="true" %}}
+{{% ls-details title="ฉันสามารถแก้ไขแท็กสำหรับไฟล์ที่จัดเก็บในบริการคลาวด์ได้หรือไม่?" closed="true" %}}
 ได้ เชื่อมต่อบัญชี Dropbox, Google Drive, OneDrive หรือบัญชีคลาวด์อื่นๆ ของคุณ แอปจะดาวน์โหลดไฟล์ ให้คุณแก้ไขแท็ก และอัปโหลดไฟล์ที่แก้ไขแล้วกลับไปยังคลาวด์โดยอัตโนมัติ
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Evermusic/Flacbox และ Evertag แตกต่างกันอย่างไร?" closed="true" %}}
+{{% ls-details title="Evermusic/Flacbox และ Evertag แตกต่างกันอย่างไร?" closed="true" %}}
 Evermusic และ Flacbox เป็นเครื่องเล่นเพลงที่มีโปรแกรมแก้ไขแท็กพื้นฐานในตัว Evertag เป็นโปรแกรมแก้ไขแท็กเฉพาะทางที่รองรับแท็กเสียงมากกว่า 120 รายการ การแก้ไขเป็นชุด และมากกว่า 30 รูปแบบ -- เหมาะสำหรับการจัดการคลังขนาดใหญ่
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="คุณสมบัติค้นหาอัตโนมัติต้องใช้การเชื่อมต่ออินเทอร์เน็ตหรือไม่?" closed="true" %}}
+{{% ls-details title="คุณสมบัติค้นหาอัตโนมัติต้องใช้การเชื่อมต่ออินเทอร์เน็ตหรือไม่?" closed="true" %}}
 ใช่ คุณสมบัติค้นหาแท็กเสียงอัตโนมัติจะสอบถามฐานข้อมูลออนไลน์ MusicBrainz เพื่อค้นหาและเติมข้อมูลเมตา จำเป็นต้องมีการเชื่อมต่ออินเทอร์เน็ตที่ใช้งานได้สำหรับคุณสมบัตินี้
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="การแก้ไขแท็กจะเปลี่ยนคุณภาพเสียงของฉันหรือไม่?" closed="true" %}}
+{{% ls-details title="การแก้ไขแท็กจะเปลี่ยนคุณภาพเสียงของฉันหรือไม่?" closed="true" %}}
 ไม่ การแก้ไขแท็กจะแก้ไขเฉพาะข้อมูลเมตาที่ฝังอยู่ในไฟล์เท่านั้น ข้อมูลเสียงจะไม่ถูกแตะต้อง -- ไม่มีการเข้ารหัสใหม่เกิดขึ้น
-{{% /details %}}
+{{% /ls-details %}}

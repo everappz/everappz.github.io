@@ -7,7 +7,7 @@ tags: ["carplay", "iphone", "música local", "reproducció sense connexió", "ev
 readingTime: 5
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **Resum:** Utilitza [Evermusic](https://apps.apple.com/app/apple-store/id885367198?pt=95781850&ct=everappzcom&mt=8) o [Flacbox](https://apps.apple.com/app/apple-store/id1097564256?pt=95781850&ct=everappzcom&mt=8) per reproduir els teus fitxers MP3, FLAC o altres fitxers d'àudio a l'iPhone a través d'Apple CarPlay. Afegeix música des de l'emmagatzematge al núvol, USB o transferència Wi-Fi, i després navega per la teva biblioteca, llistes de reproducció i carpetes directament a la pantalla del teu cotxe.
@@ -17,7 +17,7 @@ readingTime: 5
 Vols reproduir la teva pròpia música al cotxe amb Apple CarPlay? Tant si les teves cançons estan emmagatzemades al teu iPhone, a l'emmagatzematge al núvol o sense connexió, aplicacions com **Evermusic** i **Flacbox** fan que sigui fàcil escoltar la teva col·lecció musical personal mentre condueixes.
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Cua de reproducció següent de CarPlay" image="/docs/howto/how-to-play-your-own-music-on-iphone-using-carplay/carplay-nowplaying-5.webp" imageStyle="border-radius: clamp(14px, 2vw, 28px);" >}}
+{{< ls-card title="" subtitle="Cua de reproducció següent de CarPlay" image="/docs/howto/how-to-play-your-own-music-on-iphone-using-carplay/carplay-nowplaying-5.webp" imageStyle="border-radius: clamp(14px, 2vw, 28px);" >}}
 {{< /cards >}}
 
 En aquesta guia, et mostrarem com preparar els teus fitxers de música per a CarPlay, organitzar-los amb les portades d'àlbum correctes i la informació de les pistes, i reproduir-los de manera segura des del teu iPhone. Amb Evermusic o Flacbox, pots crear llistes de reproducció i reproduir en streaming o descarregar cançons de serveis com **Google Drive**, **Dropbox**, **OneDrive**, **NAS** o el teu ordinador de casa.
@@ -25,8 +25,8 @@ En aquesta guia, et mostrarem com preparar els teus fitxers de música per a Car
 Aquestes aplicacions són perfectes per a qualsevol persona que vulgui un control total sobre la seva biblioteca musical.
 
 {{< cards cols="2">}}
-{{< card link="https://apps.apple.com/app/apple-store/id885367198?pt=95781850&ct=everappzcom&mt=8" title="Descarregar Evermusic" icon="download" tag="Free" >}}
-{{< card link="https://apps.apple.com/app/apple-store/id1097564256?pt=95781850&ct=everappzcom&mt=8" title="Descarregar Flacbox" icon="download" tag="Free" >}}
+{{< ls-card link="https://apps.apple.com/app/apple-store/id885367198?pt=95781850&ct=everappzcom&mt=8" title="Descarregar Evermusic" icon="download" tag="Free" >}}
+{{< ls-card link="https://apps.apple.com/app/apple-store/id1097564256?pt=95781850&ct=everappzcom&mt=8" title="Descarregar Flacbox" icon="download" tag="Free" >}}
 {{< /cards >}}
 
 ## Afegir fitxers a l'aplicació
@@ -106,7 +106,7 @@ Transfereix fitxers sense fils tal com es descriu [aquí](/docs/howto/how-to-tra
 Un cop hagis iniciat les nostres aplicacions Evermusic o Flacbox amb el mode CarPlay, veuràs la interfície principal dividida en 4 pestanyes principals: Biblioteca, Connexions, Fitxers locals, Configuració.
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Menú principal de CarPlay" image="/docs/howto/how-to-play-your-own-music-on-iphone-using-carplay/library-with-images.webp" imageStyle="border-radius: clamp(14px, 2vw, 28px);" >}}
+{{< ls-card title="" subtitle="Menú principal de CarPlay" image="/docs/howto/how-to-play-your-own-music-on-iphone-using-carplay/library-with-images.webp" imageStyle="border-radius: clamp(14px, 2vw, 28px);" >}}
 {{< /cards >}}
 
 ## Biblioteca
@@ -116,7 +116,7 @@ La pestanya **Biblioteca** a Evermusic és el centre principal on s'organitza to
 Aquesta pantalla et dona accés ràpid als teus favorits, recents, llistes de reproducció, marcadors i totes les pistes afegides. També pots continuar la reproducció des de la teva última sessió, veure cançons no reproduïdes i explorar música per etiquetes o tipus de font.
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Biblioteca" image="/docs/howto/how-to-play-your-own-music-on-iphone-using-carplay/library-with-images-3.webp" imageStyle="border-radius: clamp(14px, 2vw, 28px);" >}}
+{{< ls-card title="" subtitle="Biblioteca" image="/docs/howto/how-to-play-your-own-music-on-iphone-using-carplay/library-with-images-3.webp" imageStyle="border-radius: clamp(14px, 2vw, 28px);" >}}
 {{< /cards >}}
 
 La secció **Biblioteca** conté les següents categories:
@@ -139,7 +139,7 @@ La secció **Biblioteca** conté les següents categories:
 - **Fitxers en línia** – Música reproduïda en streaming directament des de serveis al núvol
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Vista d'àlbums" image="/docs/howto/how-to-play-your-own-music-on-iphone-using-carplay/albums.webp" imageStyle="border-radius: clamp(14px, 2vw, 28px);" >}}
+{{< ls-card title="" subtitle="Vista d'àlbums" image="/docs/howto/how-to-play-your-own-music-on-iphone-using-carplay/albums.webp" imageStyle="border-radius: clamp(14px, 2vw, 28px);" >}}
 {{< /cards >}}
 
 Pots obrir qualsevol submenú i tocar una pista per iniciar la reproducció instantàniament. Per a més detalls, consulta la [Guia de la biblioteca musical](/docs/guide/evermusic/evermusic-guide-music-library/) completa.
@@ -150,7 +150,7 @@ Pots obrir qualsevol submenú i tocar una pista per iniciar la reproducció inst
 La pestanya **Connexions** és el teu centre principal per accedir i gestionar tots els serveis d'emmagatzematge al núvol connectats i dispositius de xarxa local.
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Connexions" image="/docs/howto/how-to-play-your-own-music-on-iphone-using-carplay/connections-with-images-3.webp" imageStyle="border-radius: clamp(14px, 2vw, 28px);" >}}
+{{< ls-card title="" subtitle="Connexions" image="/docs/howto/how-to-play-your-own-music-on-iphone-using-carplay/connections-with-images-3.webp" imageStyle="border-radius: clamp(14px, 2vw, 28px);" >}}
 {{< /cards >}}
 
 Des d'aquí, pots connectar-te a plataformes al núvol populars com Dropbox, Google Drive, OneDrive, MEGA, iCloud Drive, i fins i tot unitats de xarxa com SMB, DLNA i WebDAV. Un cop connectat, pots navegar, reproduir en streaming, descarregar i gestionar fitxers directament des de l'aplicació.
@@ -172,7 +172,7 @@ Per saber més sobre totes les maneres de connectar i gestionar les teves biblio
 La secció **Fitxers locals** és el teu centre principal per gestionar fitxers d'àudio emmagatzemats directament al teu dispositiu o dins del directori **Documents** de l'aplicació Evermusic. També inclou fitxers sense connexió descarregats de l'emmagatzematge al núvol, fitxers de memòria cau del reproductor d'àudio i carpetes que has fet disponibles per a la reproducció sense connexió. Aquesta secció assegura que puguis gaudir de la teva biblioteca musical fins i tot sense connexió a internet.
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Fitxers locals" image="/docs/howto/how-to-play-your-own-music-on-iphone-using-carplay/local-files-with-images.webp" imageStyle="border-radius: clamp(14px, 2vw, 28px);" >}}
+{{< ls-card title="" subtitle="Fitxers locals" image="/docs/howto/how-to-play-your-own-music-on-iphone-using-carplay/local-files-with-images.webp" imageStyle="border-radius: clamp(14px, 2vw, 28px);" >}}
 {{< /cards >}}
 
 La pantalla **Fitxers locals** està organitzada en les següents seccions clau:
@@ -186,7 +186,7 @@ La pantalla **Fitxers locals** està organitzada en les següents seccions clau:
 - **Reproductor d'àudio** – Una carpeta de memòria cau utilitzada per a l'optimització del crossfade i el rendiment. Es pot desactivar o esborrar a la configuració.
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Carpetes del dispositiu a Fitxers locals" image="/docs/howto/how-to-play-your-own-music-on-iphone-using-carplay/local-files-device-folders.webp" imageStyle="border-radius: clamp(14px, 2vw, 28px);" >}}
+{{< ls-card title="" subtitle="Carpetes del dispositiu a Fitxers locals" image="/docs/howto/how-to-play-your-own-music-on-iphone-using-carplay/local-files-device-folders.webp" imageStyle="border-radius: clamp(14px, 2vw, 28px);" >}}
 {{< /cards >}}
 
 Pots saber-ne més a la [Guia de fitxers locals](/docs/guide/evermusic/evermusic-guide-local-files/) completa.
@@ -194,7 +194,7 @@ Pots saber-ne més a la [Guia de fitxers locals](/docs/guide/evermusic/evermusic
 ## Vista de carpeta
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Carpeta local amb portades" image="/docs/howto/how-to-play-your-own-music-on-iphone-using-carplay/local-folder-with-images-2.webp" imageStyle="border-radius: clamp(14px, 2vw, 28px);" >}}
+{{< ls-card title="" subtitle="Carpeta local amb portades" image="/docs/howto/how-to-play-your-own-music-on-iphone-using-carplay/local-folder-with-images-2.webp" imageStyle="border-radius: clamp(14px, 2vw, 28px);" >}}
 {{< /cards >}}
 
 Quan obres una carpeta, trobaràs un conjunt d'accions útils a la part superior:
@@ -206,7 +206,7 @@ Quan obres una carpeta, trobaràs un conjunt d'accions útils a la part superior
 ## Límit de profunditat del contingut
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Límit de profunditat del contingut" image="/docs/howto/how-to-play-your-own-music-on-iphone-using-carplay/content-depth-limit.webp" imageStyle="border-radius: clamp(14px, 2vw, 28px);" >}}
+{{< ls-card title="" subtitle="Límit de profunditat del contingut" image="/docs/howto/how-to-play-your-own-music-on-iphone-using-carplay/content-depth-limit.webp" imageStyle="border-radius: clamp(14px, 2vw, 28px);" >}}
 {{< /cards >}}
 
 Quan utilitzes CarPlay, pots trobar un error de **"Límit de profunditat del contingut"**, especialment si la teva biblioteca musical té moltes carpetes profundament imbricades.
@@ -227,7 +227,7 @@ Aquesta solució assegura una experiència sense problemes quan navegues per la 
 ## Pantalla de reproducció actual
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Entrada de reproducció actual de CarPlay" image="/docs/howto/how-to-play-your-own-music-on-iphone-using-carplay/carplay-nowplaying.webp" imageStyle="border-radius: clamp(14px, 2vw, 28px);" >}}
+{{< ls-card title="" subtitle="Entrada de reproducció actual de CarPlay" image="/docs/howto/how-to-play-your-own-music-on-iphone-using-carplay/carplay-nowplaying.webp" imageStyle="border-radius: clamp(14px, 2vw, 28px);" >}}
 {{< /cards >}}
 
 Després de tocar qualsevol fitxer d'àudio, s'afegeix automàticament a la **cua del reproductor**.
@@ -244,7 +244,7 @@ Aquesta pantalla et permet mantenir el control de la teva experiència d'escolta
 ## Configuració
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Menú de configuració" image="/docs/howto/how-to-play-your-own-music-on-iphone-using-carplay/settings-2.webp" imageStyle="border-radius: clamp(14px, 2vw, 28px);" >}}
+{{< ls-card title="" subtitle="Menú de configuració" image="/docs/howto/how-to-play-your-own-music-on-iphone-using-carplay/settings-2.webp" imageStyle="border-radius: clamp(14px, 2vw, 28px);" >}}
 {{< /cards >}}
 
 La secció **Configuració** a la interfície de CarPlay et permet personalitzar com es comporta l'aplicació mentre condueixes. Aquests ajustos ajuden a millorar el rendiment, reduir les distraccions i proporcionar una experiència d'escolta més fluida.
@@ -260,7 +260,7 @@ La secció **Configuració** a la interfície de CarPlay et permet personalitzar
 - **Ordenar** – Ajusta com s'ordena el contingut als menús de CarPlay com fitxers, biblioteca musical i connexions.
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Menú d'opcions d'ordenació" image="/docs/howto/how-to-play-your-own-music-on-iphone-using-carplay/settings-sort.webp" imageStyle="border-radius: clamp(14px, 2vw, 28px);" >}}
+{{< ls-card title="" subtitle="Menú d'opcions d'ordenació" image="/docs/howto/how-to-play-your-own-music-on-iphone-using-carplay/settings-sort.webp" imageStyle="border-radius: clamp(14px, 2vw, 28px);" >}}
 {{< /cards >}}
 
 - **Límit de càrrega de contingut** – Estableix quants elements han d'aparèixer per pantalla. Límits més baixos milloren la velocitat de càrrega i redueixen l'esforç de desplaçament.
@@ -271,19 +271,19 @@ La secció **Configuració** a la interfície de CarPlay et permet personalitzar
 - **Equalitzador d'àudio**
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Panell de configuració de l'equalitzador" image="/docs/howto/how-to-play-your-own-music-on-iphone-using-carplay/settings-eq-configuration.webp" imageStyle="border-radius: clamp(14px, 2vw, 28px);" >}}
+{{< ls-card title="" subtitle="Panell de configuració de l'equalitzador" image="/docs/howto/how-to-play-your-own-music-on-iphone-using-carplay/settings-eq-configuration.webp" imageStyle="border-radius: clamp(14px, 2vw, 28px);" >}}
 {{< /cards >}}
 
 Activa l'equalitzador d'àudio integrat, ajusta les bandes de freqüència i selecciona entre preajustos preconfigurats per a una experiència de so personalitzada.
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Llista de preajustos de l'equalitzador" image="/docs/howto/how-to-play-your-own-music-on-iphone-using-carplay/settings-equalizer.webp" imageStyle="border-radius: clamp(14px, 2vw, 28px);" >}}
+{{< ls-card title="" subtitle="Llista de preajustos de l'equalitzador" image="/docs/howto/how-to-play-your-own-music-on-iphone-using-carplay/settings-equalizer.webp" imageStyle="border-radius: clamp(14px, 2vw, 28px);" >}}
 {{< /cards >}}
 
 - **Reproducció amb crossfade**
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Reproducció amb crossfade" image="/docs/howto/how-to-play-your-own-music-on-iphone-using-carplay/settings-crossfade-playback.webp" imageStyle="border-radius: clamp(14px, 2vw, 28px);" >}}
+{{< ls-card title="" subtitle="Reproducció amb crossfade" image="/docs/howto/how-to-play-your-own-music-on-iphone-using-carplay/settings-crossfade-playback.webp" imageStyle="border-radius: clamp(14px, 2vw, 28px);" >}}
 {{< /cards >}}
 
 Crea transicions suaus entre cançons superposant el final d'una pista amb l'inici de la següent. La durada del crossfade es pot personalitzar.
@@ -291,7 +291,7 @@ Crea transicions suaus entre cançons superposant el final d'una pista amb l'ini
 - **Reproducció sense buits**
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Reproducció sense buits" image="/docs/howto/how-to-play-your-own-music-on-iphone-using-carplay/settings-gapless-playback.webp" imageStyle="border-radius: clamp(14px, 2vw, 28px);" >}}
+{{< ls-card title="" subtitle="Reproducció sense buits" image="/docs/howto/how-to-play-your-own-music-on-iphone-using-carplay/settings-gapless-playback.webp" imageStyle="border-radius: clamp(14px, 2vw, 28px);" >}}
 {{< /cards >}}
 
 Reprodueix pistes sense pauses, ideal per a enregistraments en directe, mixes de DJ i àlbums conceptuals.
@@ -307,7 +307,7 @@ Per saber-ne més, llegeix la [Guia de configuració](/docs/guide/evermusic/ever
 Amb **Evermusic** i **Flacbox**, reproduir la teva pròpia música al cotxe amb Apple CarPlay es converteix en quelcom senzill, flexible i fiable. Tant si reprodueixes en streaming des de l'emmagatzematge al núvol, accedeixes a fitxers locals o reprodueixes pistes descarregades sense connexió, aquestes aplicacions estan dissenyades per donar-te un control total sobre la teva experiència d'escolta mentre condueixes.
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Pantalla de reproducció actual de CarPlay" image="/docs/howto/how-to-play-your-own-music-on-iphone-using-carplay/carplay-nowplaying-2.webp" imageStyle="border-radius: clamp(14px, 2vw, 28px);" >}}
+{{< ls-card title="" subtitle="Pantalla de reproducció actual de CarPlay" image="/docs/howto/how-to-play-your-own-music-on-iphone-using-carplay/carplay-nowplaying-2.webp" imageStyle="border-radius: clamp(14px, 2vw, 28px);" >}}
 {{< /cards >}}
 
 Des de la integració sense problemes amb el núvol fins a la sincronització de carpetes sense connexió, des de l'organització profunda de la biblioteca musical fins a la reproducció personalitzable amb equalitzadors i crossfade, aquestes funcions fan d'Evermusic i Flacbox molt més que simples reproductors d'àudio. Són companys intel·ligents de CarPlay dissenyats per a audiòfils, viatgers habituals i usuaris quotidians.
@@ -325,22 +325,22 @@ Explora més funcions, ajustos i guies al nostre [Manual d'usuari d'Evermusic](/
 
 ## Preguntes freqüents
 
-{{% details title="Quins formats de fitxers musicals funcionen amb CarPlay a Evermusic i Flacbox?" closed="true" %}}
+{{% ls-details title="Quins formats de fitxers musicals funcionen amb CarPlay a Evermusic i Flacbox?" closed="true" %}}
 Evermusic i Flacbox són compatibles amb una àmplia gamma de formats d'àudio incloent MP3, FLAC, AAC, WAV, AIFF, OGG, WMA i més. Tots els formats compatibles funcionen a través de CarPlay sense necessitat de cap conversió.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Puc reproduir música de Google Drive o Dropbox a CarPlay?" closed="true" %}}
+{{% ls-details title="Puc reproduir música de Google Drive o Dropbox a CarPlay?" closed="true" %}}
 Sí. Tant Evermusic com Flacbox et permeten connectar-te a serveis d'emmagatzematge al núvol com Google Drive, Dropbox, OneDrive, MEGA i altres. Pots reproduir música en streaming directament o descarregar-la per a la reproducció sense connexió a CarPlay.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Necessito una connexió a internet per reproduir música a CarPlay?" closed="true" %}}
+{{% ls-details title="Necessito una connexió a internet per reproduir música a CarPlay?" closed="true" %}}
 No. Pots descarregar música de l'emmagatzematge al núvol per a la reproducció sense connexió. Un cop els fitxers estiguin emmagatzemats localment al teu iPhone, es reprodueixen a través de CarPlay sense cap connexió a internet.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Per què veig un error de límit de profunditat del contingut a CarPlay?" closed="true" %}}
+{{% ls-details title="Per què veig un error de límit de profunditat del contingut a CarPlay?" closed="true" %}}
 CarPlay restringeix quants nivells de carpetes pot mostrar. Si la teva música es troba en carpetes profundament imbricades, afegeix aquestes carpetes als Favorits perquè puguis accedir-hi directament des del menú Favorits a CarPlay.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Evermusic o Flacbox són gratuïts per utilitzar amb CarPlay?" closed="true" %}}
+{{% ls-details title="Evermusic o Flacbox són gratuïts per utilitzar amb CarPlay?" closed="true" %}}
 Ambdues aplicacions es poden descarregar gratuïtament amb suport complet per a CarPlay, equalitzador i funcions de reproducció. Les versions gratuïtes tenen límits en connexions al núvol (3), llistes de reproducció (10) i carpetes fora de línia (1). La versió Premium elimina tots els límits.
-{{% /details %}}
+{{% /ls-details %}}

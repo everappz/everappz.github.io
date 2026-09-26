@@ -7,7 +7,7 @@ keywords: ["gravar vídeo mentre es reprodueix música a l'iPhone", "com reprodu
 readingTime: 1
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **En resum:** Configura la sortida d'àudio d'Evermusic a "Mode mixt.", inicia la reproducció d'una pista i obre l'aplicació de càmera per gravar. La música continua reproduint-se en segon pla. Funciona amb TikTok, Instagram i qualsevol aplicació de càmera.
@@ -45,22 +45,22 @@ Aquest truc funciona a tots els iPhone.
 
 ## Preguntes freqüents
 
-{{% details title="La música de fons es grava al vídeo?" closed="true" %}}
+{{% ls-details title="La música de fons es grava al vídeo?" closed="true" %}}
 La música es reprodueix a través de l'altaveu de l'iPhone, de manera que el micròfon la captarà juntament amb altres sons ambientals. Per obtenir un àudio més net, considera utilitzar un altaveu extern col·locat a prop del micròfon.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Funciona amb TikTok i Instagram?" closed="true" %}}
+{{% ls-details title="Funciona amb TikTok i Instagram?" closed="true" %}}
 Sí. Un cop Evermusic està configurat en Mode mixt. i una pista s'està reproduint, la música continua quan obres TikTok, Instagram o qualsevol altra aplicació de càmera o gravació.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Què és el Mode mixt. a Evermusic?" closed="true" %}}
+{{% ls-details title="Què és el Mode mixt. a Evermusic?" closed="true" %}}
 El Mode mixt. és una configuració de sortida d'àudio que permet a Evermusic compartir la sessió d'àudio amb altres aplicacions. Això evita que la música s'aturi quan una altra aplicació accedeix al micròfon o la càmera.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Puc utilitzar Flacbox en lloc d'Evermusic per a això?" closed="true" %}}
+{{% ls-details title="Puc utilitzar Flacbox en lloc d'Evermusic per a això?" closed="true" %}}
 Sí. Flacbox també admet el mode de sortida d'àudio mixt. Els passos són els mateixos: activa el Mode mixt. a la Configuració, inicia la reproducció i obre l'aplicació de càmera.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Puc jugar a un joc mentre la música d'Evermusic es reprodueix en segon pla?" closed="true" %}}
+{{% ls-details title="Puc jugar a un joc mentre la música d'Evermusic es reprodueix en segon pla?" closed="true" %}}
 Sí. Amb el Mode mixt. activat, la música d'Evermusic continua reproduint-se quan obres qualsevol joc o aplicació. L'àudio del joc i la teva música sonaran alhora.
-{{% /details %}}
+{{% /ls-details %}}

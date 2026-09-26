@@ -1,9 +1,10 @@
 ---
+excludeSearch: true
 date: '2025-06-12T17:00:00+00:00'
 title: 'צרו קשר'
 ---
 
-{{< lottie src="/images/juicy-json/juicy-girl-typing-on-phone.json" width="60%" >}}
+{{< ls-lottie src="/images/juicy-json/juicy-girl-typing-on-phone.json" width="60%" >}}
 
 ## כתובת למשלוח דואר
 
@@ -27,4 +28,4 @@ title: 'צרו קשר'
 
 עקבו אחרינו ברשתות החברתיות כדי לקבל את החדשות העדכניות ביותר, עדכוני אפליקציות, טיפים ומידע שימושי:
 
-{{< social-cards >}}
+{{< ls-social-cards >}}

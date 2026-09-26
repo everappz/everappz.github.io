@@ -4,7 +4,9 @@ title: 'Документація'
 ---
 
 
-{{< lottie src="/images/juicy-json/juicy-girl-and-boy-searching-for-the-right-files.json" width="90%" >}}
+{{< ls-lottie src="/images/juicy-json/juicy-girl-and-boy-searching-for-the-right-files.json" width="90%" >}}
+
+{{< ls-docs-search >}}
 
 Цей розділ містить корисну документацію для всіх додатків Everappz — включаючи інструкції з налаштування, опис функцій та розширені поради.
 
@@ -13,9 +15,9 @@ title: 'Документація'
 ## Початок роботи
 
 {{< cards >}}
-  {{< card icon="book-open" link="/docs/guide" title="Посібник користувача" >}}
-  {{< card icon="question-mark-circle" link="/docs/faq" title="Поширені запитання" >}}
-  {{< card icon="light-bulb" link="/docs/howto" title="Інструкції" >}}
+  {{< ls-card icon="book-open" link="/docs/guide" title="Посібник користувача" >}}
+  {{< ls-card icon="question-mark-circle" link="/docs/faq" title="Поширені запитання" >}}
+  {{< ls-card icon="light-bulb" link="/docs/howto" title="Інструкції" >}}
 {{< /cards >}}
 
 - **Посібник користувача** допоможе вам встановити, налаштувати та максимально використовувати наші додатки.
@@ -31,5 +33,5 @@ title: 'Документація'
 Для ознайомлення з юридичними політиками, практиками обробки даних та угодами користувачів, пов'язаними з нашими послугами, зверніться до юридичних документів нижче:
 
 {{< cards >}}
-  {{< card icon="document-text" link="/legal" title="Юридичний центр" >}}
+  {{< ls-card icon="document-text" link="/legal" title="Юридичний центр" >}}
 {{< /cards >}}

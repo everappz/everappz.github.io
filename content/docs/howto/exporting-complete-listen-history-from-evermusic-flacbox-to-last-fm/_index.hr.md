@@ -7,7 +7,7 @@ tags: ["evermusic", "flacbox", "nedavne", "lastfm", "izvoz", "scrobbler"]
 readingTime: 5
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **Sažetak:** Izvezite svoju povijest slušanja iz Evermusica ili Flacboxa kao CSV datoteku, zatim je prenesite na Last.fm koristeći besplatni alat Last.fm-Scrubbler-WPF na Windowsu. Automatsko scrobblanje također je izvorno dostupno u obje aplikacije.
@@ -134,22 +134,22 @@ Sada možete otvoriti svoj profil na stranici [Last.fm](http://Last.fm) i provje
 
 ## Često postavljana pitanja
 
-{{% details title="Mogu li scrobblati automatski bez izvoza CSV datoteka?" closed="true" %}}
+{{% ls-details title="Mogu li scrobblati automatski bez izvoza CSV datoteka?" closed="true" %}}
 Da. I Evermusic i Flacbox sada podržavaju automatsko Last.fm scrobblanje. Pogledajte vodič: [Kako scrobblati na Last.fm](/docs/howto/how-to-scrobble-your-music-history-from-evermusic-or-flacbox-to-last-fm).
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Što ako moj CSV ima pjesme starije od 14 dana?" closed="true" %}}
+{{% ls-details title="Što ako moj CSV ima pjesme starije od 14 dana?" closed="true" %}}
 Koristite Način uvoza u Last.fm-Scrubbler-WPF. Preračunava vremenske žigove iz Vremena završetka, omogućujući vam scrobblanje pjesama bez obzira na njihov izvorni datum.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Nemam Windows računalo. Mogu li još uvijek koristiti Last.fm-Scrubbler?" closed="true" %}}
+{{% ls-details title="Nemam Windows računalo. Mogu li još uvijek koristiti Last.fm-Scrubbler?" closed="true" %}}
 Da. Instalirajte VirtualBox na vaš Mac i preuzmite besplatnu sliku Windows razvojnog okruženja od Microsofta. Pokrenite Last.fm-Scrubbler-WPF unutar virtualnog stroja.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Zašto neke scrobble nisu analizirane?" closed="true" %}}
+{{% ls-details title="Zašto neke scrobble nisu analizirane?" closed="true" %}}
 Pjesme kojima nedostaju bitni metapodaci (poput imena izvođača) ne mogu biti analizirane. To je očekivano i ne utječe na ostale pjesme u datoteci.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Postoji li dnevno ograničenje scrobblanja?" closed="true" %}}
+{{% ls-details title="Postoji li dnevno ograničenje scrobblanja?" closed="true" %}}
 Da. Last.fm-Scrubbler-WPF dopušta do 2.800 scrobble-ova dnevno. Ako trebate scrobblati više, podijelite postupak na više dana.
-{{% /details %}}
+{{% /ls-details %}}

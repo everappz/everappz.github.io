@@ -7,7 +7,7 @@ tags: ["evermusic", "flacbox", "cloud", "fichier", "compte", "gestionnaire", "co
 keywords: ["connecter un service cloud à Evermusic", "télécharger des fichiers sur Google Drive", "intégration cloud Flacbox", "utiliser OneDrive avec Evermusic", "accès aux fichiers cloud Evertag", "connecter Dropbox au lecteur de musique iOS", "gestionnaire de fichiers pour services cloud"]
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **En bref :** Téléchargez vos fichiers musicaux ou multimédias vers n'importe quel service cloud pris en charge (Google Drive, Dropbox, OneDrive et plus), puis connectez ce service dans Evermusic, Flacbox ou Evertag pour diffuser ou télécharger vos fichiers directement sur iPhone, iPad ou Mac.
@@ -76,38 +76,38 @@ Dites adieu aux limitations de stockage et bonjour à la commodité !
 
 ## Foire aux questions
 
-{{% details title="Quels services cloud sont pris en charge ?" closed="true" %}}
+{{% ls-details title="Quels services cloud sont pris en charge ?" closed="true" %}}
 Evermusic, Flacbox et Evertag prennent en charge Google Drive, Dropbox, OneDrive, Box, MediaFire, Yandex.Disk, MEGA, MyDrive, pCloud et d'autres fournisseurs cloud. Vous pouvez également connecter des serveurs WebDAV, SMB et FTP personnalisés.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Puis-je diffuser de la musique directement depuis le cloud sans télécharger ?" closed="true" %}}
+{{% ls-details title="Puis-je diffuser de la musique directement depuis le cloud sans télécharger ?" closed="true" %}}
 Oui. Les trois applications prennent en charge la diffusion de fichiers audio directement depuis votre stockage cloud connecté. Vous pouvez également télécharger des fichiers pour une lecture hors ligne lorsque vous n'avez pas accès à internet.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Y a-t-il une limite de taille de fichier ou de stockage dans l'application ?" closed="true" %}}
+{{% ls-details title="Y a-t-il une limite de taille de fichier ou de stockage dans l'application ?" closed="true" %}}
 Les applications n'imposent pas leurs propres limites de taille de fichier ou de stockage. Votre stockage disponible dépend de votre plan de service cloud et du stockage local de votre appareil pour les fichiers téléchargés.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Puis-je connecter plusieurs comptes cloud en même temps ?" closed="true" %}}
+{{% ls-details title="Puis-je connecter plusieurs comptes cloud en même temps ?" closed="true" %}}
 Oui. Vous pouvez connecter plusieurs services cloud et plusieurs comptes du même fournisseur simultanément. Tous les comptes connectés apparaissent dans l'onglet Connexions pour un basculement facile.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Dois-je re-télécharger les fichiers si je passe à une autre application ?" closed="true" %}}
+{{% ls-details title="Dois-je re-télécharger les fichiers si je passe à une autre application ?" closed="true" %}}
 Non. Puisque vos fichiers sont stockés dans le cloud, vous pouvez connecter le même compte cloud à Evermusic, Flacbox ou Evertag sans rien re-télécharger. Chaque application accède aux mêmes fichiers depuis votre stockage cloud.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Les données de mon compte cloud sont-elles sécurisées ?" closed="true" %}}
+{{% ls-details title="Les données de mon compte cloud sont-elles sécurisées ?" closed="true" %}}
 Oui. L'application utilise uniquement des SDK officiels et des connexions chiffrées pour interagir avec les services cloud. Votre identifiant et mot de passe ne sont jamais stockés par l'application. Lors de la connexion, l'application affiche la page d'autorisation officielle fournie par le service cloud. Après une autorisation réussie, le fournisseur cloud envoie un jeton d'authentification à l'application, qui est stocké en toute sécurité dans le Keychain de l'appareil. Ce jeton est utilisé pour toutes les requêtes API.<br><br>
 L'application ne partage aucune information de votre compte cloud. Vous pouvez révoquer l'accès à tout moment depuis la page de paramètres de votre compte cloud dans un navigateur web, ou déconnecter le compte dans l'application.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Comment déconnecter un service cloud ou modifier sa configuration ?" closed="true" %}}
+{{% ls-details title="Comment déconnecter un service cloud ou modifier sa configuration ?" closed="true" %}}
 Localisez le stockage cloud dans l'onglet **Connexions** de l'application et appuyez sur le bouton **...** à côté. Vous verrez ces options :<br>
 - **Renommer** -- changer le nom d'affichage du service cloud<br>
 - **Paramètres** -- modifier la configuration ou re-autoriser si le jeton a expiré<br>
 - **Se déconnecter** -- supprimer entièrement la connexion. Cela supprime toutes les chansons de ce service cloud de la bibliothèque musicale de l'application, mais les fichiers restent sur le serveur
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Comment révoquer l'accès de l'application à mon compte cloud ?" closed="true" %}}
+{{% ls-details title="Comment révoquer l'accès de l'application à mon compte cloud ?" closed="true" %}}
 Connectez-vous à votre compte cloud dans un navigateur web et ouvrez la page des paramètres du compte ou de sécurité. Trouvez la liste des applications tierces connectées et supprimez l'application que vous ne souhaitez plus autoriser. Vous pouvez également déconnecter le compte cloud dans l'application -- cela supprime le jeton d'authentification de votre appareil. Si vous supprimez entièrement l'application, toutes les données téléchargées et les jetons d'accès sont supprimés automatiquement.
-{{% /details %}}
+{{% /ls-details %}}

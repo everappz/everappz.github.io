@@ -23,7 +23,7 @@ El reproductor d'àudio és la pantalla principal de l'app on controles la músi
 Pots arribar al reproductor de pantalla completa des de la barra del mini reproductor. A l'iPhone, el mini reproductor es troba a la part inferior de la pantalla principal. A l'iPad i al Mac, és al costat esquerre. Per ocultar el mini reproductor a l'iPhone, toca'l una vegada i llisca cap avall. Per tancar completament el reproductor de pantalla completa, toca el botó de tancament a la cantonada inferior dreta.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Pantalla principal del reproductor d'àudio de Flacbox" image="/docs/guide/flacbox/img/audio-player-main-screen.webp" >}}
+  {{< ls-card title="" subtitle="Pantalla principal del reproductor d'àudio de Flacbox" image="/docs/guide/flacbox/img/audio-player-main-screen.webp" >}}
 {{< /cards >}}
 
 ## Formats d'àudio compatibles
@@ -66,7 +66,7 @@ Per a AirPlay, busca el botó **AirPlay** a la part inferior del reproductor. To
 Flacbox inclou un **equalitzador de 10 bandes** amb presets a l'estil iPod. Toca Equalitzador a la vista de volum, i activa'l a la cantonada superior dreta. Pots usar presets com Acoustic i Bass Booster, o ajustar cada banda de freqüència amb controls lliscants. Crea els teus propis presets, desa'ls amb qualsevol nom i augmenta el volum global amb el preamplificador. Tenim instruccions més detallades sobre com usar l'equalitzador d'àudio [aquí](/docs/howto/how-to-use-the-audio-equalizer-on-your-iphone-ipad-mac-with-evermusic-and-flacbox).
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Equalitzador del reproductor d'àudio de Flacbox" image="/docs/guide/flacbox/img/audio-player-equalizer.webp" >}}
+  {{< ls-card title="" subtitle="Equalitzador del reproductor d'àudio de Flacbox" image="/docs/guide/flacbox/img/audio-player-equalizer.webp" >}}
 {{< /cards >}}
 
 ## Barra d'eines del mode de reproductor
@@ -82,7 +82,7 @@ Per a alguns estils de reproductor, hi ha una barra d'eines dedicada a la part s
 Per veure la cua del reproductor, toca el botó de cua al costat dret de la cançó actual. Cada cançó de la cua té més accions — toca els tres punts per veure-les. Per reordenar una cançó a la cua, usa l'indicador de reordenació prop del títol i arrossega'l a una nova posició.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Cua de reproducció de Flacbox" image="/docs/guide/flacbox/img/playback_queue.webp" >}}
+  {{< ls-card title="" subtitle="Cua de reproducció de Flacbox" image="/docs/guide/flacbox/img/playback_queue.webp" >}}
 {{< /cards >}}
 
 ## Comentaris / Lletra
@@ -98,7 +98,7 @@ Per veure els comentaris de la pista i la lletra incrustada, així com els fitxe
 Després d'això, toca el botó de cua del reproductor a la part inferior de la pantalla diverses vegades per canviar de la vista de portada / cua a la vista de comentaris. A la pantalla de comentaris, llisca a la dreta per canviar entre **Comentaris**, **Lletra incrustada** i el **Fitxer LRC**. Les instruccions completes estan disponibles [aquí](/docs/howto/how-to-add-and-view-comments-to-your-audio-tracks-on-iphone-ipad-and-mac-with-evermusic-and-flacbox).
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Pantalla de lletra i comentaris de Flacbox" image="/docs/guide/flacbox/img/lyrics-screen.webp" >}}
+  {{< ls-card title="" subtitle="Pantalla de lletra i comentaris de Flacbox" image="/docs/guide/flacbox/img/lyrics-screen.webp" >}}
 {{< /cards >}}
 
 ## Menú d'opcions
@@ -121,7 +121,7 @@ Cada cançó a la cua del reproductor d'àudio té un menú amb més accions, al
 Les mateixes opcions estan disponibles per a l'element que s'està reproduint actualment a la cua del reproductor d'àudio, al qual pots accedir tocant la icona de **Més accions** prop del títol de la pista.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Opcions de Flacbox per a un element a la cua de reproducció" image="/docs/guide/flacbox/img/options-for-item-in-playback-queue.webp" >}}
+  {{< ls-card title="" subtitle="Opcions de Flacbox per a un element a la cua de reproducció" image="/docs/guide/flacbox/img/options-for-item-in-playback-queue.webp" >}}
 {{< /cards >}}
 
 ## Accions addicionals del reproductor
@@ -143,7 +143,7 @@ Toca el botó de **Més accions** "..." al costat esquerre del títol de la can�
 - **Ajuda** — troba assistència i orientació.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Pantalla de més accions del reproductor d'àudio de Flacbox" image="/docs/guide/flacbox/img/audio-player-more-actions-screen.webp" >}}
+  {{< ls-card title="" subtitle="Pantalla de més accions del reproductor d'àudio de Flacbox" image="/docs/guide/flacbox/img/audio-player-more-actions-screen.webp" >}}
 {{< /cards >}}
 
 ## Marcadors d'àudio
@@ -161,7 +161,7 @@ Per crear un nou marcador:
 Editar els marcadors de la pista actual és fàcil: toca Edita a la cantonada superior dreta per entrar al mode d'edició. En aquest mode, pots reordenar els marcadors, eliminar-los, ajustar el temps del marcador i canviar els títols dels marcadors. Hi ha instruccions més detallades sobre els marcadors d'àudio disponibles [aquí](/docs/howto/how-to-listen-to-audiobooks-on-iphone-ipad-mac-using-evermusic).
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Pantalla de marcadors d'àudio de Flacbox" image="/docs/guide/flacbox/img/audio-bookmarks.webp" >}}
+  {{< ls-card title="" subtitle="Pantalla de marcadors d'àudio de Flacbox" image="/docs/guide/flacbox/img/audio-bookmarks.webp" >}}
 {{< /cards >}}
 
 ## Recents i favorits
@@ -175,7 +175,7 @@ Connecta el teu iPhone al cotxe via USB o Apple CarPlay sense fils i Flacbox apa
 [Llegeix la guia completa de CarPlay](/docs/howto/how-to-play-your-own-music-on-iphone-using-carplay/).
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox a Apple CarPlay" image="/docs/guide/flacbox/img/carplay-main.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox a Apple CarPlay" image="/docs/guide/flacbox/img/carplay-main.webp" >}}
 {{< /cards >}}
 
 ## Widgets de la pantalla d'inici (iPhone i iPad)
@@ -243,7 +243,7 @@ Personalitza la configuració de l'equalitzador d'àudio. Pots llegir més sobre
 Ajusta la velocitat de reproducció del reproductor d'àudio de **0,02× a 3,00×**. Toca la icona de configuració a la cantonada superior dreta per canviar al **mode precís** per a ajustos més fins.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Pantalla de velocitat de reproducció de Flacbox" image="/docs/guide/flacbox/img/playback-speed.webp" >}}
+  {{< ls-card title="" subtitle="Pantalla de velocitat de reproducció de Flacbox" image="/docs/guide/flacbox/img/playback-speed.webp" >}}
 {{< /cards >}}
 
 ### Correcció del to

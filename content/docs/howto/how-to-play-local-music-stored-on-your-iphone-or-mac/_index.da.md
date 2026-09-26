@@ -6,7 +6,7 @@ tags: ["lokal musik", "offline musik", "musikafspiller", "iPhone", "Mac", "Everm
 keywords: ["sådan afspiller du lokal musik på iPhone", "afspil musik fra enhedens lager", "offline musikafspiller iOS", "Evermusic app vejledning", "Flacbox FLAC afspiller", "iOS lokal filafspilning", "Mac musikbibliotek", "musikapp til lokale filer", "iPhone afspil downloadede sange", "sådan bruger du Evermusic med lokale filer"]
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **Resumé:** Installer [Evermusic](/products/evermusic) (MP3/WAV) eller [Flacbox](/products/flacbox) (FLAC/DSD), åbn enhver lokal lydfil eller mappe, og begynd at afspille. Tilføj mapper til **Favoritter** for hurtig adgang, importer numre til dit musikbibliotek, eller opret afspilningslister.
@@ -24,10 +24,10 @@ Vi vil udforske metoder og værktøjer til problemfrit at afspille din lokale mu
 For at begynde din rejse ind i verdenen af lokal musik på din iPhone og Mac, start med at installere enten Evermusic (til standard lydformater som mp3 og wav) eller Flacbox (til tabsfri musik i dsd og flac). Begge disse apps er tilgængelige til iOS og macOS, og du kan downloade dem gratis.
 
 {{< cards >}}
-  {{< card link="https://apps.apple.com/us/app/evermusic-cloud-music-player/id885367198?pt=95781850&ct=everappzcom&mt=8" title="Download Evermusic til iOS" tag="iOS" >}}
-  {{< card link="https://apps.apple.com/us/app/flacbox-hi-res-equalizer/id1097564256?pt=95781850&ct=everappzcom&mt=8" title="Download Flacbox til iOS" tag="iOS" >}}
-  {{< card link="https://apps.apple.com/us/app/evermusic-hi-res-music-player/id1564384601?pt=95781850&ct=everappzcom&mt=8" title="Download Evermusic til Mac" tag="macOS" >}}
-  {{< card link="https://apps.apple.com/us/app/flacbox-hi-res-music-player/id1594027432?pt=95781850&ct=everappzcom&mt=8" title="Download Flacbox til Mac" tag="macOS" >}}
+  {{< ls-card link="https://apps.apple.com/us/app/evermusic-cloud-music-player/id885367198?pt=95781850&ct=everappzcom&mt=8" title="Download Evermusic til iOS" tag="iOS" >}}
+  {{< ls-card link="https://apps.apple.com/us/app/flacbox-hi-res-equalizer/id1097564256?pt=95781850&ct=everappzcom&mt=8" title="Download Flacbox til iOS" tag="iOS" >}}
+  {{< ls-card link="https://apps.apple.com/us/app/evermusic-hi-res-music-player/id1564384601?pt=95781850&ct=everappzcom&mt=8" title="Download Evermusic til Mac" tag="macOS" >}}
+  {{< ls-card link="https://apps.apple.com/us/app/flacbox-hi-res-music-player/id1594027432?pt=95781850&ct=everappzcom&mt=8" title="Download Flacbox til Mac" tag="macOS" >}}
 {{< /cards >}}
 
 
@@ -135,22 +135,22 @@ Med disse enkle trin kan du frigøre det fulde potentiale af din iPhone og Mac s
 
 ## Ofte stillede spørgsmål
 
-{{% details title="Hvilke lydformater kan Evermusic og Flacbox afspille?" closed="true" %}}
+{{% ls-details title="Hvilke lydformater kan Evermusic og Flacbox afspille?" closed="true" %}}
 Evermusic afspiller MP3, WAV, AAC, M4A og andre standardformater. Flacbox tilføjer understøttelse af FLAC, DSD, OGG, OPUS, APE, WMA og ALAC.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Kopierer disse apps filer til appens lager?" closed="true" %}}
+{{% ls-details title="Kopierer disse apps filer til appens lager?" closed="true" %}}
 Som standard afspilles filer fra deres oprindelige placering uden at blive kopieret. For at ændre denne adfærd, aktivér "Kopier altid filer ved åbning" i **Indstillinger** > Filhåndtering.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Kan jeg organisere lokal musik efter kunstner og album?" closed="true" %}}
+{{% ls-details title="Kan jeg organisere lokal musik efter kunstner og album?" closed="true" %}}
 Ja. Importer filer til musikbiblioteket (Trin 4) og appen læser metadata for at gruppere numre efter kunstner, album, genre og komponist.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Hvordan overfører jeg musik fra min computer til iPhone?" closed="true" %}}
+{{% ls-details title="Hvordan overfører jeg musik fra min computer til iPhone?" closed="true" %}}
 Brug iTunes Fildeling (USB), WiFi Drive (trådløst) eller SMB (streaming). Se vores detaljerede guide: [Overfør og afspil lokale filer på iPhone](/docs/howto/how-to-play-local-itunes-files-on-my-iphone/).
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Er Evermusic og Flacbox gratis?" closed="true" %}}
+{{% ls-details title="Er Evermusic og Flacbox gratis?" closed="true" %}}
 Ja, begge apps er gratis at downloade med kernefunktioner inklusive afspilning, equalizer og cloud-streaming. De gratis versioner har nogle begrænsninger (antal afspilningslister, cloud-konti, offline mapper). Opgradering til Premium fjerner disse begrænsninger.
-{{% /details %}}
+{{% /ls-details %}}

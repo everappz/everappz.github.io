@@ -14,7 +14,7 @@ authors:
     image: "/images/about/artem-meleshko-founder-everappz.webp"
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 ## Waarom App Store Zoekwoorden Uw Downloadaantallen Bepalen
 
@@ -104,29 +104,29 @@ Probeer het nu — uw volgende gebruiker is één zoekopdracht verwijderd.
 De tool is open source. Bugrapporten, functiesuggesties en pull requests zijn welkom.
 
 {{< cards cols="1" >}}
-  {{< card link="https://github.com/everappz/app-store-keyword-optimizer/tree/main" title="appkeywords.pro on GitHub" icon="github" tag= "open source" >}}
+  {{< ls-card link="https://github.com/everappz/app-store-keyword-optimizer/tree/main" title="appkeywords.pro on GitHub" icon="github" tag= "open source" >}}
 {{< /cards >}}
 
 ---
 
 ## Veelgestelde Vragen
 
-{{% details title="Is AppKeywords.pro echt gratis?" closed="true" %}}
+{{% ls-details title="Is AppKeywords.pro echt gratis?" closed="true" %}}
 Ja. Het is een volledig open-source, browsergebaseerde tool zonder registratie, zonder advertenties en zonder dataverzameling. Uw metadata verlaat nooit uw apparaat.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Werkt deze tool voor meerdere App Store-lokalisaties?" closed="true" %}}
+{{% ls-details title="Werkt deze tool voor meerdere App Store-lokalisaties?" closed="true" %}}
 Ja. U kunt metadata voor elke locale onafhankelijk toevoegen, en de export bevat alle talen in één JSON-bestand dat compatibel is met Fastlane.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Moet ik mijn titelzoekwoorden herhalen in het zoekwoordveld?" closed="true" %}}
+{{% ls-details title="Moet ik mijn titelzoekwoorden herhalen in het zoekwoordveld?" closed="true" %}}
 Nee. Apple indexeert al woorden uit uw titel en ondertitel. Ze herhalen in het zoekwoordveld verspilt tekens.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Hoe vaak moet ik mijn App Store zoekwoorden bijwerken?" closed="true" %}}
+{{% ls-details title="Hoe vaak moet ik mijn App Store zoekwoorden bijwerken?" closed="true" %}}
 Controleer en ververs uw zoekwoorden minstens één keer per kwartaal. Pas eerder aan als u rankingdalingen of seizoensgebonden verschuivingen in zoekgedrag opmerkt.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Kan ik deze tool gebruiken met Fastlane?" closed="true" %}}
+{{% ls-details title="Kan ik deze tool gebruiken met Fastlane?" closed="true" %}}
 Ja. De GitHub-repo bevat shell-scripts om te converteren tussen Fastlane's metadata-mapstructuur en het JSON-formaat dat wordt gebruikt door AppKeywords.pro.
-{{% /details %}}
+{{% /ls-details %}}

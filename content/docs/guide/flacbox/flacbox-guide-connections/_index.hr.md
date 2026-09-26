@@ -19,7 +19,7 @@ readingTime: 12
 Na ovom zaslonu možete povezati svaki izvor koji sadrži vašu glazbu. Možete integrirati popularne cloud usluge poput Dropbox, Google Drive, iCloud Drive, OneDrive, MEGA, Box, pCloud, Yandex Disk, Synology Drive i još mnogo toga, kao i vaše Mac, PC ili NAS uređaje putem standardnih protokola. Bez obzira nalazi li se vaša kolekcija na streaming-prijatelskoj usluzi poput Dropboxa ili na osobnom NAS-u poput Synologyja, QNAP-a, Buffaloa, Apple Time Capsule ili WD My Cloud Home, Flacbox se povezuje sa svima njima s jednog zaslona.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Zaslon Povezivanja u Flacboxu" image="/docs/guide/flacbox/img/connections-main.webp" >}}
+  {{< ls-card title="" subtitle="Zaslon Povezivanja u Flacboxu" image="/docs/guide/flacbox/img/connections-main.webp" >}}
 {{< /cards >}}
 
 ## Povezivanje s cloud pohranom
@@ -30,7 +30,7 @@ Na ovom zaslonu možete povezati svaki izvor koji sadrži vašu glazbu. Možete 
 - Unesite svoje vjerodajnice na službenoj stranici za autorizaciju koju pruža davatelj cloud usluge, zatim tapnite **Završeno**.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Dodavanje cloud pohrane u Flacboxu" image="/docs/guide/flacbox/img/add-cloud-storage.webp" >}}
+  {{< ls-card title="" subtitle="Dodavanje cloud pohrane u Flacboxu" image="/docs/guide/flacbox/img/add-cloud-storage.webp" >}}
 {{< /cards >}}
 
 Ako naiđete na probleme, provjerite internetsku vezu i svoje korisničko ime / lozinku. U Premium verziji aplikacije možete dodati neograničen broj usluga; besplatna verzija podržava do tri.
@@ -134,7 +134,7 @@ Ovaj odjeljak prikazuje svaki uređaj na vašoj lokalnoj mreži na koji se može
 Ovo je najbrži način za otkrivanje SMB, WebDAV, DLNA dijeljenja na kućnoj mreži bez ručnog unošenja IP adresa.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Dostupni uređaji na lokalnoj mreži u Flacboxu" image="/docs/guide/flacbox/img/available-devies.webp" >}}
+  {{< ls-card title="" subtitle="Dostupni uređaji na lokalnoj mreži u Flacboxu" image="/docs/guide/flacbox/img/available-devies.webp" >}}
 {{< /cards >}}
 
 ## Wi-Fi Drive
@@ -149,7 +149,7 @@ Wi-Fi Drive je praktična tehnologija koja omogućuje bežični prijenos datotek
 - Tapnite **Pokreni Wi-Fi Drive** za omogućivanje Wi-Fi Drive-a.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Wi-Fi Drive u Flacboxu" image="/docs/guide/flacbox/img/wifi-drive.webp" >}}
+  {{< ls-card title="" subtitle="Wi-Fi Drive u Flacboxu" image="/docs/guide/flacbox/img/wifi-drive.webp" >}}
 {{< /cards >}}
 
 ### Pristup Wi-Fi Drive-u na računalu
@@ -234,7 +234,7 @@ Tapnite ikonu **"..."** pored naslova datoteke za prikaz izbornika radnji:
 - **Izbriši** — trajno uklonite datoteku iz cloud pohrane. **Ova radnja se ne može poništiti.**
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Više radnji za datoteku u povezanoj cloud pohrani u Flacboxu" image="/docs/guide/flacbox/img/more-actions-for-file-in-connected-cloud-storage.webp" >}}
+  {{< ls-card title="" subtitle="Više radnji za datoteku u povezanoj cloud pohrani u Flacboxu" image="/docs/guide/flacbox/img/more-actions-for-file-in-connected-cloud-storage.webp" >}}
 {{< /cards >}}
 
 Ako popis radnji prekoračuje dostupni prostor na zaslonu, jednostavno se pomaknite prema dolje unutar izbornika radnji za pristup dodatnim opcijama.
@@ -261,7 +261,7 @@ Za svaku mapu u cloud pohrani, imate širok raspon dostupnih radnji tapnutjem na
 Odjeljak Brzi pristup nalazi se na vrhu zaslona. Daje vam brzi pristup vašim omiljenim i nedavno otvorenim datotekama iz povezanih cloud usluga. Kad god otvorite datoteku ili mapu iz clouda, dodaje se na popis Nedavno otvoreno. Za brisanje ovog popisa, otvorite Nedavne, tapnite gumb Više radnji i odaberite Izbriši popis. Također možete označiti duboko ugniježđene mape kao Omiljene za brzi pristup bez kopanja kroz strukturu direktorija.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Online poveznice i brzi pristup u Flacboxu" image="/docs/guide/flacbox/img/online-links.webp" >}}
+  {{< ls-card title="" subtitle="Online poveznice i brzi pristup u Flacboxu" image="/docs/guide/flacbox/img/online-links.webp" >}}
 {{< /cards >}}
 
 ## Ostale usluge
@@ -269,5 +269,5 @@ Odjeljak Brzi pristup nalazi se na vrhu zaslona. Daje vam brzi pristup vašim om
 Ovaj odjeljak prikazuje dodatne funkcije koje poboljšavaju vaše iskustvo. Trenutno aplikacija podržava **Last.fm** scrobbling — kada je spojen, vaše statistike reprodukcije automatski se šalju na vaš Last.fm račun. Kasnije možete posjetiti svoj Last.fm profil za pregled analitike slušanja i dobivanje personaliziranih preporuka za glazbu. Detaljne upute za postavljanje dostupne su [ovdje](/docs/howto/how-to-scrobble-your-music-history-from-evermusic-or-flacbox-to-last-fm).
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox Last.fm Connect" image="/docs/guide/flacbox/img/last-fm-connect.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox Last.fm Connect" image="/docs/guide/flacbox/img/last-fm-connect.webp" >}}
 {{< /cards >}}

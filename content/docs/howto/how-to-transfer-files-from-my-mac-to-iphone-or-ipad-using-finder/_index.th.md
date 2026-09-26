@@ -17,7 +17,7 @@ keywords: [
 readingTime: 3
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **สรุป:** เชื่อมต่อ iPhone หรือ iPad กับ Mac (หรือ PC) ด้วยสาย USB บน macOS Catalina และใหม่กว่า ใช้ Finder บน macOS เก่าหรือ Windows ใช้ iTunes ลากไฟล์ไปยังแอปเช่น Evermusic, Flacbox หรือ Evertag เพื่อถ่ายโอนทันที
@@ -117,26 +117,26 @@ readingTime: 3
 
 ## คำถามที่พบบ่อย
 
-{{% details title="ฉันต้องการการเชื่อมต่ออินเทอร์เน็ตเพื่อถ่ายโอนไฟล์ผ่าน USB หรือไม่?" closed="true" %}}
+{{% ls-details title="ฉันต้องการการเชื่อมต่ออินเทอร์เน็ตเพื่อถ่ายโอนไฟล์ผ่าน USB หรือไม่?" closed="true" %}}
 ไม่ การแชร์ไฟล์ทำงานผ่านการเชื่อมต่อสาย USB ระหว่างคอมพิวเตอร์และอุปกรณ์ iOS ทั้งหมด ไม่จำเป็นต้องใช้อินเทอร์เน็ต
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="ฉันสามารถถ่ายโอนไฟล์รูปแบบใดไปยัง Evermusic หรือ Flacbox ได้บ้าง?" closed="true" %}}
+{{% ls-details title="ฉันสามารถถ่ายโอนไฟล์รูปแบบใดไปยัง Evermusic หรือ Flacbox ได้บ้าง?" closed="true" %}}
 ทั้งสองแอปรองรับรูปแบบเสียงหลากหลาย รวมถึง MP3, FLAC, AAC, WAV, AIFF, OGG, WMA และอื่นๆ ตรวจสอบเอกสารของแอปสำหรับรายการรูปแบบที่รองรับทั้งหมด
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="ทำไมฉันไม่เห็นแท็บไฟล์ใน Finder?" closed="true" %}}
+{{% ls-details title="ทำไมฉันไม่เห็นแท็บไฟล์ใน Finder?" closed="true" %}}
 แท็บไฟล์จะปรากฏเมื่ออุปกรณ์มีแอปอย่างน้อยหนึ่งแอปที่รองรับการแชร์ไฟล์ ติดตั้ง Evermusic, Flacbox หรือ Evertag แล้วเชื่อมต่ออุปกรณ์อีกครั้ง
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="ฉันสามารถถ่ายโอนไฟล์แบบไร้สายแทนการใช้สาย USB ได้หรือไม่?" closed="true" %}}
+{{% ls-details title="ฉันสามารถถ่ายโอนไฟล์แบบไร้สายแทนการใช้สาย USB ได้หรือไม่?" closed="true" %}}
 ได้ Evermusic และ Flacbox ยังรองรับบริการจัดเก็บข้อมูลบนคลาวด์และการถ่ายโอน Wi-Fi อย่างไรก็ตาม การแชร์ไฟล์ USB ผ่าน Finder หรือ iTunes มักจะเร็วกว่าสำหรับคลังเพลงขนาดใหญ่
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="การถ่ายโอนไฟล์ผ่าน Finder จะเขียนทับไฟล์ที่มีอยู่ในอุปกรณ์หรือไม่?" closed="true" %}}
+{{% ls-details title="การถ่ายโอนไฟล์ผ่าน Finder จะเขียนทับไฟล์ที่มีอยู่ในอุปกรณ์หรือไม่?" closed="true" %}}
 ไม่ ไฟล์ใหม่จะถูกเพิ่มควบคู่กับไฟล์ที่มีอยู่ หากมีไฟล์ชื่อเดียวกันอยู่แล้ว macOS อาจเปลี่ยนชื่อไฟล์ใหม่โดยอัตโนมัติ
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="วิธีนี้ใช้ได้กับ PC ที่ใช้ Windows หรือไม่?" closed="true" %}}
+{{% ls-details title="วิธีนี้ใช้ได้กับ PC ที่ใช้ Windows หรือไม่?" closed="true" %}}
 ได้ บน Windows ใช้ iTunes เพื่อถ่ายโอนไฟล์ กระบวนการเหมือนกับที่อธิบายในส่วน iTunes ด้านบน ติดตั้ง iTunes จาก Microsoft Store หรือเว็บไซต์ของ Apple
-{{% /details %}}
+{{% /ls-details %}}

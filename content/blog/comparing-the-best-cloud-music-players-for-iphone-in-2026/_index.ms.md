@@ -12,7 +12,7 @@ authors:
     image: "/images/about/artem-meleshko-founder-everappz.webp"
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 ## Pemain Muzik Awan Mana yang Terbaik untuk iPhone?
 
@@ -91,22 +91,22 @@ Bagi audiofil dan sesiapa yang mengekalkan koleksi muzik peribadi dalam storan a
 
 ## Soalan Lazim
 
-{{% details title="Bolehkah saya memainkan fail FLAC di iPhone tanpa menukarnya?" closed="true" %}}
+{{% ls-details title="Bolehkah saya memainkan fail FLAC di iPhone tanpa menukarnya?" closed="true" %}}
 Ya. Evermusic memainkan FLAC, DSD, WAV, ALAC, dan format tanpa kehilangan lain secara asli di iPhone. Tiada penukaran fail diperlukan. Cukup sambungkan akaun storan awan anda dan strim atau muat turun fail FLAC anda secara langsung.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Pemain muzik awan mana yang berfungsi dengan Dropbox dan Google Drive?" closed="true" %}}
+{{% ls-details title="Pemain muzik awan mana yang berfungsi dengan Dropbox dan Google Drive?" closed="true" %}}
 Evermusic menyokong Dropbox, Google Drive, OneDrive, Box, MEGA, pCloud, WebDAV, SMB dan lagi -- lebih 12 perkhidmatan awan kesemuanya. Kebanyakan aplikasi penstriman arus perdana seperti Spotify dan Apple Music tidak menyambung ke storan awan pihak ketiga.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Adakah saya memerlukan langganan untuk menggunakan pemain muzik awan?" closed="true" %}}
+{{% ls-details title="Adakah saya memerlukan langganan untuk menggunakan pemain muzik awan?" closed="true" %}}
 Ia bergantung pada aplikasi. Spotify, Apple Music, dan Deezer memerlukan langganan bulanan. Evermusic menawarkan tier percuma dan pembelian Premium sekali sahaja tanpa yuran berulang. Anda menggunakan storan awan anda sendiri untuk mengehoskan fail muzik anda.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Apakah pemain muzik terbaik untuk pendengaran luar talian di iPhone?" closed="true" %}}
+{{% ls-details title="Apakah pemain muzik terbaik untuk pendengaran luar talian di iPhone?" closed="true" %}}
 Semua pemain utama menyokong muat turun luar talian, tetapi pendekatannya berbeza. Spotify dan Apple Music membolehkan anda memuat turun lagu dari katalog mereka. Evermusic membolehkan anda memuat turun fail anda sendiri dari storan awan untuk main balik luar talian -- sesuai untuk penerbangan, perjalanan kerja, atau kawasan tanpa sambungan.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Bolehkah saya menggunakan pemain muzik awan dengan NAS atau pelayan rumah saya?" closed="true" %}}
+{{% ls-details title="Bolehkah saya menggunakan pemain muzik awan dengan NAS atau pelayan rumah saya?" closed="true" %}}
 Ya. Evermusic menyokong protokol WebDAV dan SMB, yang bermakna ia boleh menyambung ke kebanyakan peranti NAS dari Synology, QNAP, dan Western Digital. Ini mengubah iPhone anda menjadi pemain jauh untuk seluruh perpustakaan muzik rumah anda.
-{{% /details %}}
+{{% /ls-details %}}

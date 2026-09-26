@@ -7,7 +7,7 @@ tags: ["evermusic", "flacbox", "πρόσφατα", "lastfm", "εξαγωγή", "
 readingTime: 5
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **Περίληψη:** Εξάγετε το ιστορικό ακρόασης από το Evermusic ή το Flacbox ως αρχείο CSV και στη συνέχεια ανεβάστε το στο Last.fm χρησιμοποιώντας το δωρεάν εργαλείο Last.fm-Scrubbler-WPF στα Windows. Το αυτόματο scrobbling είναι επίσης διαθέσιμο εγγενώς και στις δύο εφαρμογές.
@@ -134,22 +134,22 @@ M3U: Αυτή η μορφή είναι ουσιαστικά η κλασική ε
 
 ## Συχνές ερωτήσεις
 
-{{% details title="Μπορώ να κάνω scrobble αυτόματα χωρίς εξαγωγή αρχείων CSV;" closed="true" %}}
+{{% ls-details title="Μπορώ να κάνω scrobble αυτόματα χωρίς εξαγωγή αρχείων CSV;" closed="true" %}}
 Ναι. Τόσο το Evermusic όσο και το Flacbox υποστηρίζουν τώρα αυτόματο scrobbling στο Last.fm. Δείτε τον οδηγό: [Πώς να κάνετε scrobble στο Last.fm](/docs/howto/how-to-scrobble-your-music-history-from-evermusic-or-flacbox-to-last-fm).
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Τι γίνεται αν το CSV μου έχει κομμάτια παλαιότερα από 14 ημέρες;" closed="true" %}}
+{{% ls-details title="Τι γίνεται αν το CSV μου έχει κομμάτια παλαιότερα από 14 ημέρες;" closed="true" %}}
 Χρησιμοποιήστε τη Λειτουργία Εισαγωγής στο Last.fm-Scrubbler-WPF. Επαναϋπολογίζει τις χρονοσημάνσεις από τον Χρόνο Λήξης, επιτρέποντάς σας να κάνετε scrobble κομμάτια ανεξάρτητα από την αρχική τους ημερομηνία.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Δεν έχω υπολογιστή Windows. Μπορώ να χρησιμοποιήσω το Last.fm-Scrubbler;" closed="true" %}}
+{{% ls-details title="Δεν έχω υπολογιστή Windows. Μπορώ να χρησιμοποιήσω το Last.fm-Scrubbler;" closed="true" %}}
 Ναι. Εγκαταστήστε το VirtualBox στο Mac σας και κατεβάστε τη δωρεάν εικόνα περιβάλλοντος ανάπτυξης Windows από τη Microsoft. Εκτελέστε το Last.fm-Scrubbler-WPF μέσα στην εικονική μηχανή.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Γιατί δεν αναλύονται κάποια scrobbles;" closed="true" %}}
+{{% ls-details title="Γιατί δεν αναλύονται κάποια scrobbles;" closed="true" %}}
 Κομμάτια που λείπουν βασικά μεταδεδομένα (όπως το όνομα καλλιτέχνη) δεν μπορούν να αναλυθούν. Αυτό είναι αναμενόμενο και δεν επηρεάζει τα υπόλοιπα κομμάτια στο αρχείο.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Υπάρχει ημερήσιο όριο scrobbling;" closed="true" %}}
+{{% ls-details title="Υπάρχει ημερήσιο όριο scrobbling;" closed="true" %}}
 Ναι. Το Last.fm-Scrubbler-WPF επιτρέπει μέχρι 2.800 scrobbles ανά ημέρα. Αν χρειάζεστε περισσότερα, χωρίστε τη διαδικασία σε πολλές ημέρες.
-{{% /details %}}
+{{% /ls-details %}}

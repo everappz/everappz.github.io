@@ -7,9 +7,9 @@ tags: ["Flacbox", "Audio-effecten", "Handleiding", "BASS", "Equalizer", "Bass Bo
 readingTime: 30
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
-{{< full-width-tables >}}
+{{< ls-full-width-tables >}}
 
 **Kort antwoord:** In Flacbox kies je één **Afspeelengine** in **Instellingen > Audiospeler**: **Standard** (de systeemengine van Apple), **Universal** (de FFmpeg-engine), of **Sound FX** (de **BASS™-engine**). De engine die je kiest bepaalt welke bestandsformaten worden afgespeeld, dus de keuze doet ertoe. De **Sound FX**-engine speelt extra formaten af die de meeste iPhone-apps overslaan (FLAC, DSD, WavPack, APE, Musepack, TrueAudio, Opus, en oude **MOD- en trackermuziek** zoals MOD, XM, IT en S3M), en het is de enige engine die de geluidstools aandrijft: een **10-bands equalizer**, **Volumenormalisatie**, **Compressor**, **Freeverb**, **Auto Wah**, **Phaser**, **Flanger**, **Echo**, **Chorus**, **Distortion**, **Rotate**, **Crossfeed**, en een zelf te bouwen **DSP-keten**. Om de effecten uit deze gids te gebruiken, zet je je Afspeelengine dus eerst op **Sound FX**. Elke tool heeft kant-en-klare **presets**. Open ze in **Instellingen > Audiospeler** (Audio-effecten, Audio-equalizer, Signaalverwerking), of tik op de **⋯ (Meer)**-knop in de speler en kies **Audio-effecten**. Niets wat je hier doet verandert ooit je bestanden.
 
@@ -657,93 +657,93 @@ Omdat dit alles live draait terwijl de muziek speelt, doen de effecten het volge
 
 ## FAQ
 
-{{% details title="Welke geluidsengine gebruikt Flacbox?" closed="true" %}}
+{{% ls-details title="Welke geluidsengine gebruikt Flacbox?" closed="true" %}}
 Je kiest één Afspeelengine in Instellingen > Audiospeler: Standard (de systeemengine van Apple), Universal (de FFmpeg-engine), of Sound FX (de BASS™-engine van Un4seen Developments, un4seen.com). De engine die je kiest bepaalt welke bestandsformaten afspelen. Sound FX is degene die extra formaten afspeelt zoals FLAC, DSD, WavPack, APE, Musepack, TrueAudio, Opus en MOD- of trackermuziek, en het is de enige engine die de live effecten, de 10-bands equalizer en de DSP-keten biedt. Om de effecten te gebruiken, zet je de Afspeelengine op Sound FX.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Kan Flacbox MOD, XM, IT en andere tracker- of modulemuziek afspelen?" closed="true" %}}
+{{% ls-details title="Kan Flacbox MOD, XM, IT en andere tracker- of modulemuziek afspelen?" closed="true" %}}
 Ja. De BASS™-engine heeft een ingebouwde modulespeler die MOD-, XM-, IT-, S3M-, MTM-, UMX- en MO3-bestanden laadt en het nummer live opnieuw opbouwt vanuit zijn patronen en instrumentgeluiden, zoals trackermuziek bedoeld is om te spelen. Gewone iPhone-spelers kunnen dit niet. Effecten en de equalizer werken ook op modulemuziek.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Ondersteunt Flacbox DSD- en high-resolution bestanden?" closed="true" %}}
+{{% ls-details title="Ondersteunt Flacbox DSD- en high-resolution bestanden?" closed="true" %}}
 Ja. Flacbox speelt DSD-bestanden (DSF en DFF) af via de BASS™-engine met DSD over PCM zodat ze werken op normale uitvoerhardware, plus FLAC, WavPack, Monkey's Audio (APE), Musepack en TrueAudio voor lossless afspelen.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Welke geluidseffecten heeft Flacbox?" closed="true" %}}
+{{% ls-details title="Welke geluidseffecten heeft Flacbox?" closed="true" %}}
 Een 10-bands equalizer, Volumenormalisatie, Compressor, Freeverb, Auto Wah, Phaser, Flanger, Echo, Chorus, Distortion, Rotate en Crossfeed, plus een zelf te bouwen DSP-keten met filters, shelves, gain, soft clip, bit crusher, ring modulator, tremolo, delay en stereobreedte. Elk effect is apart en kan met de andere worden gecombineerd.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Wat is een preset?" closed="true" %}}
+{{% ls-details title="Wat is een preset?" closed="true" %}}
 Een preset is een kant-en-klare instelling voor een effect. In plaats van zelf schuifregelaars te verplaatsen, tik je op een preset en verandert het geluid dienovereenkomstig. Elk effect in Flacbox heeft meerdere presets, en deze gids beschrijft wat elk ervan doet. Als je een schuifregelaar verplaatst nadat je een preset hebt gekozen, toont het effect 'Manual' om je te vertellen dat het nu je eigen waarden gebruikt.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Hoe open ik de audio-effecten in Flacbox?" closed="true" %}}
+{{% ls-details title="Hoe open ik de audio-effecten in Flacbox?" closed="true" %}}
 Open de Now Playing-speler, tik op de ⋯ (Meer)-knop en kies Audio-effecten. Of ga naar Instellingen > Audiospeler > Audio-effecten. Tik op een effect, zet zijn schakelaar aan en kies een preset, of open de schuifregelaars om fijn af te stemmen.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Waar is de equalizer, en wat zijn de beste instellingen?" closed="true" %}}
+{{% ls-details title="Waar is de equalizer, en wat zijn de beste instellingen?" closed="true" %}}
 Ga naar Instellingen > Audiospeler > Audio-equalizer. Hij heeft 10 banden van 32 Hz tot 16 kHz, elk van -12 tot +12 dB, plus een -24 tot +24 dB Voorversterker en 22 presets. Voor meer bas gebruik je Bass Booster. Voor helderdere stemmen gebruik je Vocal Booster of Pop. Voor een helderder geluid gebruik je Treble Booster. Stel daarna losse banden naar smaak af.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Hoe versterk ik de bas in Flacbox?" closed="true" %}}
+{{% ls-details title="Hoe versterk ik de bas in Flacbox?" closed="true" %}}
 Twee eenvoudige manieren. Kies in de Audio-equalizer Bass Booster (of verhoog de 32 Hz- en 64 Hz-banden een paar dB). Of voeg in Signaalverwerking een Low Shelf-blok toe ingesteld op Bass Boost. In beide gevallen verlaag je de Voorversterker of voeg je een Gain-blok toe van 1 tot 2 dB zodat de bas schoon blijft en niet vervormt.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Welke equalizer-preset is het beste voor mijn muziek?" closed="true" %}}
+{{% ls-details title="Welke equalizer-preset is het beste voor mijn muziek?" closed="true" %}}
 Rock en Electronic voegen energie toe met sterk laag en hoog. Acoustic, Jazz en Classical blijven warm en natuurlijk. Pop en Vocal Booster duwen stemmen naar voren. Bass Booster en Hip-Hop voegen gewicht toe. Deep en Loudness klinken voller op laag volume. Begin met degene die bij je genre past, en stem daarna fijn af.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Wat is Volumenormalisatie, en hoe verschilt het van ReplayGain?" closed="true" %}}
+{{% ls-details title="Wat is Volumenormalisatie, en hoe verschilt het van ReplayGain?" closed="true" %}}
 Het laat elk nummer op ongeveer dezelfde luidheid spelen. Het meet de werkelijke luidheid met de EBU R128-standaard (in LUFS, zoals streamingdiensten) en past elk nummer aan naar jouw doel, met een max-boost-limiet. Anders dan ReplayGain heeft het geen tags in je bestanden nodig en werkt het op elke bron, live, zonder de audio te veranderen. Presets: Light, Standard, Strong en Night.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Wat is Crossfeed, en zou ik het moeten gebruiken?" closed="true" %}}
+{{% ls-details title="Wat is Crossfeed, en zou ik het moeten gebruiken?" closed="true" %}}
 Crossfeed mengt een beetje van het linker- en rechterkanaal samen zodat een koptelefoon meer aanvoelt als echte luidsprekers en minder alsof het geluid vastzit in je hoofd. Het is alleen voor een koptelefoon, dus zet het uit voor luidsprekers. Flacbox gebruikt de bs2b (Bauer)-methode, met presets zoals Chu Moy en Jan Meier.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Wat is het verschil tussen de Compressor en Volumenormalisatie?" closed="true" %}}
+{{% ls-details title="Wat is het verschil tussen de Compressor en Volumenormalisatie?" closed="true" %}}
 Volumenormalisatie stemt de luidheid tussen verschillende nummers af. De Compressor egaliseert de luide en zachte delen binnen één nummer. Ze lossen verschillende problemen op en werken goed samen, vooral in een auto of op een luidruchtige plek.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Wat is de Signaalverwerking (DSP)-keten?" closed="true" %}}
+{{% ls-details title="Wat is de Signaalverwerking (DSP)-keten?" closed="true" %}}
 Het is een zelf te bouwen rack in Instellingen > Audiospeler > Signaalverwerking. Voeg blokken toe zoals filters, shelves, gain, soft clip, bit crusher, ring modulator, tremolo, delay en stereobreedte, zet ze in elke volgorde, zet elk aan of uit, en richt de keten op alle kanalen, links of rechts. Omdat de volgorde ertoe doet, kun je precies het geluid ontwerpen dat je wilt.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Wat is het verschil tussen de Equalizer, de effecten en de DSP-keten?" closed="true" %}}
+{{% ls-details title="Wat is het verschil tussen de Equalizer, de effecten en de DSP-keten?" closed="true" %}}
 De Equalizer is een eenvoudige 10-bands klankregeling. De Audio-effecten zijn kant-en-klare tools (compressor, reverb, echo, enzovoort) met presets. De DSP-keten is waar je je eigen effectvolgorde bouwt uit individuele blokken. Je kunt alle drie tegelijk draaien.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Veranderen of beschadigen de effecten mijn muziekbestanden?" closed="true" %}}
+{{% ls-details title="Veranderen of beschadigen de effecten mijn muziekbestanden?" closed="true" %}}
 Nee. Alles wordt live toegepast terwijl de muziek speelt. Je bestanden worden nooit veranderd of heropgeslagen. Zet een effect uit en het oorspronkelijke geluid keert meteen terug.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Kan ik meer dan één effect tegelijk gebruiken?" closed="true" %}}
+{{% ls-details title="Kan ik meer dan één effect tegelijk gebruiken?" closed="true" %}}
 Ja. Elk effect heeft zijn eigen schakelaar en er is geen hoofdschakelaar, dus elke combinatie werkt. Bijvoorbeeld Volumenormalisatie plus Compressor voor egaal luisteren, of Freeverb plus Crossfeed op een koptelefoon, met de equalizer erbovenop.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Waarom zijn de effectregelaars grijs?" closed="true" %}}
+{{% ls-details title="Waarom zijn de effectregelaars grijs?" closed="true" %}}
 Het effect staat uit. Zet zijn schakelaar bovenaan de editor aan om de regelaars te gebruiken. Elk effect staat standaard uit.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Wat betekent het label Manual?" closed="true" %}}
+{{% ls-details title="Wat betekent het label Manual?" closed="true" %}}
 Het betekent dat je een schuifregelaar van een preset af hebt bewogen, dus het effect gebruikt nu je eigen aangepaste waarden in plaats van een benoemde preset. Elke schuifregelaar heeft een resetknop, en het opnieuw kiezen van een preset vervangt je handmatige waarden.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Kan ik mijn equalizer-presets opslaan en delen?" closed="true" %}}
+{{% ls-details title="Kan ik mijn equalizer-presets opslaan en delen?" closed="true" %}}
 Ja. Naast de 22 ingebouwde presets kun je je eigen presets maken, ze herordenen, en ze exporteren of importeren om je instellingen naar een ander apparaat te verplaatsen.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Werken de effecten met CarPlay, streaming en achtergrondafspelen?" closed="true" %}}
+{{% ls-details title="Werken de effecten met CarPlay, streaming en achtergrondafspelen?" closed="true" %}}
 Ja. De effecten draaien binnen de BASS™-engine, dus ze zijn van toepassing op lokale bestanden, cloud drives, mediaservers, streams en modulemuziek, en ze blijven werken tijdens CarPlay en achtergrondafspelen.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Kan ik de audio-uitvoerkwaliteit wijzigen?" closed="true" %}}
+{{% ls-details title="Kan ik de audio-uitvoerkwaliteit wijzigen?" closed="true" %}}
 Ja. In Instellingen > Audiospeler kun je de uitvoer-samplerate, het aantal kanalen en de buffergrootte instellen om bij je koptelefoon, luidsprekers of DAC te passen.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Wat is een goede startopstelling voor een koptelefoon?" closed="true" %}}
+{{% ls-details title="Wat is een goede startopstelling voor een koptelefoon?" closed="true" %}}
 Zet Volumenormalisatie aan (Standard), voeg een lichte Compressor toe (Soft), kies een equalizer-preset die je bevalt, en zet Crossfeed aan (Chu Moy of Jan Meier). Laat reverb, echo en distortion uit tenzij je een creatief geluid wilt.
-{{% /details %}}
+{{% /ls-details %}}
 
 ---
 

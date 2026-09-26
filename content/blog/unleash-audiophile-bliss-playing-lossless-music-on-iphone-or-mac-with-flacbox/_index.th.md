@@ -12,7 +12,7 @@ authors:
     image: "/images/about/artem-meleshko-founder-everappz.webp"
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 **สรุป:** ติดตั้ง [Flacbox จาก App Store](https://apps.apple.com/us/app/flacbox-flac-player-music/id1097564256?mt=8) เพื่อเล่น FLAC, DSD, ALAC และรูปแบบเสียงมากกว่า 120 รูปแบบบน iPhone และ Mac นำเข้าไฟล์ผ่าน iTunes File Sharing, Wi-Fi Drive หรือที่เก็บข้อมูลคลาวด์ ไม่ต้องแปลงไฟล์ Flacbox ถอดรหัสรูปแบบ lossless แบบเนทีฟเพื่อคุณภาพเสียงระดับสตูดิโอ
 
@@ -69,26 +69,26 @@ authors:
 
 ## คำถามที่พบบ่อย
 
-{{< details title="Flacbox ต้องสมัครสมาชิกเพื่อเล่นไฟล์ lossless หรือไม่?" closed="true" >}}
+{{< ls-details title="Flacbox ต้องสมัครสมาชิกเพื่อเล่นไฟล์ lossless หรือไม่?" closed="true" >}}
 Flacbox เสนอการเล่นพื้นฐานโดยไม่ต้องสมัครสมาชิก คุณสามารถนำเข้าและเล่น FLAC, DSD, ALAC และรูปแบบ lossless อื่นๆ ได้ทันทีหลังดาวน์โหลด ฟีเจอร์ขั้นสูงบางอย่างอาจต้องอัปเกรดพรีเมียม
-{{< /details >}}
+{{< /ls-details >}}
 
-{{< details title="Flacbox สามารถเล่นไฟล์ DSD โดยไม่ต้องแปลงเป็น PCM ก่อนได้หรือไม่?" closed="true" >}}
+{{< ls-details title="Flacbox สามารถเล่นไฟล์ DSD โดยไม่ต้องแปลงเป็น PCM ก่อนได้หรือไม่?" closed="true" >}}
 ได้ Flacbox รองรับการเล่น DSD เนทีฟรวมถึง DSD64, DSD128 และ DSD256 สำหรับผลลัพธ์ที่ดีที่สุด จับคู่อุปกรณ์กับ DAC ภายนอกที่รองรับ DSD
-{{< /details >}}
+{{< /ls-details >}}
 
-{{< details title="ฉันจะถ่ายโอนคอลเลกชันเพลง lossless ขนาดใหญ่ไปยัง iPhone ได้อย่างไร?" closed="true" >}}
+{{< ls-details title="ฉันจะถ่ายโอนคอลเลกชันเพลง lossless ขนาดใหญ่ไปยัง iPhone ได้อย่างไร?" closed="true" >}}
 Flacbox มีตัวเลือกการถ่ายโอนหลายแบบ Wi-Fi Drive ให้อัปโหลดจากเบราว์เซอร์ คุณยังใช้ iTunes File Sharing หรือเชื่อมต่อบริการคลาวด์ได้ สำหรับการถ่ายโอนที่เร็วที่สุด เชื่อมต่อไดรฟ์ภายนอกผ่านอะแดปเตอร์ Lightning หรือ USB-C
-{{< /details >}}
+{{< /ls-details >}}
 
-{{< details title="คุณภาพเสียงระหว่าง FLAC และ ALAC ใน Flacbox แตกต่างกันหรือไม่?" closed="true" >}}
+{{< ls-details title="คุณภาพเสียงระหว่าง FLAC และ ALAC ใน Flacbox แตกต่างกันหรือไม่?" closed="true" >}}
 ทั้ง FLAC และ ALAC เป็นตัวเข้ารหัส lossless ที่ให้เสียงเหมือนกัน ความแตกต่างอยู่ที่ความเข้ากันได้และประสิทธิภาพการบีบอัด Flacbox จัดการทั้งสองด้วยความเที่ยงตรงเท่ากัน
-{{< /details >}}
+{{< /ls-details >}}
 
-{{< details title="วิธีที่ดีที่สุดในการเล่นไฟล์ FLAC บน iPhone คืออะไร?" closed="true" >}}
+{{< ls-details title="วิธีที่ดีที่สุดในการเล่นไฟล์ FLAC บน iPhone คืออะไร?" closed="true" >}}
 ติดตั้ง Flacbox จาก App Store จากนั้นนำเข้าไฟล์ FLAC ผ่าน iTunes File Sharing, Wi-Fi Drive, ที่เก็บข้อมูลคลาวด์ หรือไดรฟ์ USB/Lightning ภายนอก Flacbox ถอดรหัส FLAC เนทีฟโดยไม่ต้องแปลง รองรับความละเอียดถึง 32-bit/384 kHz
-{{< /details >}}
+{{< /ls-details >}}
 
-{{< details title="Flacbox ใช้งานกับ NAS และเซิร์ฟเวอร์ภายในบ้านได้หรือไม่?" closed="true" >}}
+{{< ls-details title="Flacbox ใช้งานกับ NAS และเซิร์ฟเวอร์ภายในบ้านได้หรือไม่?" closed="true" >}}
 ได้ Flacbox เชื่อมต่อกับอุปกรณ์ NAS และเซิร์ฟเวอร์ภายในบ้านผ่านโปรโตคอล SMB, WebDAV และ DLNA
-{{< /details >}}
+{{< /ls-details >}}

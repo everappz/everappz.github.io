@@ -12,7 +12,7 @@ authors:
     image: "/images/about/artem-meleshko-founder-everappz.webp"
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 ## Dlaczego warto eksportować wpisy blogowe z Wix?
 
@@ -332,33 +332,33 @@ To pojedyncze polecenie konfiguruje środowisko, skrobie wszystkie wpisy blogowe
 Projekt jest open source. Raporty o błędach, sugestie funkcji i pull requesty są mile widziane.
 
 {{< cards cols="1" >}}
-  {{< card link="https://github.com/everappz/wix-blog-export" title="Projekt na GitHub" icon="github" tag="open source" >}}
+  {{< ls-card link="https://github.com/everappz/wix-blog-export" title="Projekt na GitHub" icon="github" tag="open source" >}}
 {{< /cards >}}
 
 ---
 
 ## Często Zadawane Pytania
 
-{{% details title="Dlaczego nie mogę po prostu użyć `requests` do skrobania wpisów blogowych Wix?" closed="true" %}}
+{{% ls-details title="Dlaczego nie mogę po prostu użyć `requests` do skrobania wpisów blogowych Wix?" closed="true" %}}
 Wix renderuje zawartość dynamicznie za pomocą JavaScript. Standardowe żądanie HTTP zwraca pustą powłokę strony. Selenium uruchamia bezgłową przeglądarkę, aby uzyskać w pełni wyrenderowany HTML.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Czy to działa z dowolnym blogiem Wix?" closed="true" %}}
+{{% ls-details title="Czy to działa z dowolnym blogiem Wix?" closed="true" %}}
 Tak. Skrobak odczytuje XML mapy witryny bloga i przetwarza każdy URL. Wystarczy zaktualizować zmienną `SITEMAP_URL` w `parse_blog_sitemap.py`, aby wskazywała na mapę witryny Twojej strony.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Jakiego modelu OpenAI to używa?" closed="true" %}}
+{{% ls-details title="Jakiego modelu OpenAI to używa?" closed="true" %}}
 Skrypt domyślnie używa GPT-4o. Możesz zmienić zmienną `API_MODEL` w `generate_md.py`, aby użyć innego modelu.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Czy mogę użyć tego do migracji z Wix do Hugo?" closed="true" %}}
+{{% ls-details title="Czy mogę użyć tego do migracji z Wix do Hugo?" closed="true" %}}
 Tak. Wynik to standardowy Markdown z lokalnymi ścieżkami obrazów, który działa bezpośrednio z Hugo, Jekyll, Astro i innymi generatorami stron statycznych. Dodaj front matter do wygenerowanych plików `_index.md`, aby zakończyć migrację.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Ile kosztuje API OpenAI za to?" closed="true" %}}
+{{% ls-details title="Ile kosztuje API OpenAI za to?" closed="true" %}}
 Koszt zależy od liczby i długości wpisów blogowych. Typowy blog z 50 wpisami o umiarkowanej długości kosztuje kilka dolarów za użycie API z GPT-4o.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Czy to narzędzie jest open source?" closed="true" %}}
+{{% ls-details title="Czy to narzędzie jest open source?" closed="true" %}}
 Tak. Pełny kod źródłowy jest dostępny na [GitHub](https://github.com/everappz/wix-blog-export) na licencji open source.
-{{% /details %}}
+{{% /ls-details %}}

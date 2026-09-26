@@ -8,7 +8,7 @@ tags: ["musik", "cloud", "pemutar", "pengunduh", "equalizer", "lossless", "hi-re
 readingTime: 8
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **Ringkasnya:** Untuk memutar FLAC di iPhone, Anda memerlukan pemutar pihak ketiga, karena aplikasi Musik dari Apple tidak mendukung FLAC. Pasang [Flacbox](/products/flacbox) (gratis), lalu transfer file Anda melalui Wi-Fi Drive atau USB, atau hubungkan penyimpanan cloud atau NAS Anda. Koleksi FLAC Anda diputar dalam kualitas penuh, hingga 384 kHz dan 32-bit melalui USB DAC. Flacbox juga memutar lebih dari 120 format, termasuk FLAC, DSD, ALAC, APE, WAV, OGG, dan OPUS, dan menambahkan equalizer 10 band, mesin audio BASS profesional dengan efek real-time, prosesor DSP, dan visualizer musik layar penuh.
@@ -34,7 +34,7 @@ Flacbox adalah pemutar musik hi-res untuk iPhone, iPad, dan Mac. Ia mengubah pen
 
 Flacbox dapat diunduh secara gratis dan berjalan di iPhone, iPad, dan Mac.
 
-{{< app-details product="flacbox" >}}
+{{< ls-app-details product="flacbox" >}}
 
 ### Langkah 2. Masukkan File FLAC Anda
 
@@ -82,7 +82,7 @@ Anda dapat memilih mesin pemutaran di Pengaturan, lalu Pemutar Audio, lalu Codec
 Flacbox menyertakan equalizer grafis 10 band dengan preset bergaya iPod seperti Acoustic, Bass Booster, Rock, Pop, Jazz, Classical, dan Dance. Ada preamplifier untuk mengangkat lagu yang pelan tanpa clipping, dan Anda dapat menyimpan preset Anda sendiri. Setel untuk in-ear monitor, HomePod, atau stereo mobil. Untuk panduan lengkap, lihat [panduan equalizer](/docs/howto/how-to-use-the-audio-equalizer-on-your-iphone-ipad-mac-with-evermusic-and-flacbox).
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Equalizer Pemutar Audio Flacbox" image="/docs/guide/flacbox/img/audio-player-equalizer.webp" >}}
+  {{< ls-card title="" subtitle="Equalizer Pemutar Audio Flacbox" image="/docs/guide/flacbox/img/audio-player-equalizer.webp" >}}
 {{< /cards >}}
 
 ## Efek Audio Real-Time
@@ -106,7 +106,7 @@ Selain efek, Flacbox memberi Anda prosesor DSP 14 filter real-time yang Anda atu
 Flacbox memiliki visualizer musik bawaan yang melukis visual bergerak dan penuh warna seirama dengan musik Anda. Ia menggunakan mesin Milkdrop terkenal (projectM) dengan 500 preset, digambar dengan OpenGL di iPhone, iPad, dan Mac. Buka dari pemutar dengan mengetuk tombol Tindakan Lain lalu Visualisasi. Pilih preset, atau gunakan mode Auto untuk mengacaknya setiap 30 detik dengan crossfade yang mulus. Untuk bantuan langkah demi langkah, lihat panduan tentang [cara mengaktifkan visualizer musik](/docs/howto/how-to-turn-on-a-music-visualizer-while-playing-music-on-iphone-ipad-mac).
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Visualizer Musik Flacbox (Milkdrop dan projectM)" image="/docs/howto/how-to-turn-on-a-music-visualizer-while-playing-music-on-iphone-ipad-mac/music-visualizer-starfield-sectors-preset.webp" >}}
+  {{< ls-card title="" subtitle="Visualizer Musik Flacbox (Milkdrop dan projectM)" image="/docs/howto/how-to-turn-on-a-music-visualizer-while-playing-music-on-iphone-ipad-mac/music-visualizer-starfield-sectors-preset.webp" >}}
 {{< /cards >}}
 
 ## Cloud, NAS, dan Pemutaran Offline
@@ -127,7 +127,7 @@ Ketika Anda ingin membawa musik Anda, pengelola unduhan bawaan menyimpan seluruh
 
 Flacbox gratis untuk diunduh. Premium menghapus batasan versi gratis pada akun cloud, daftar putar, dan folder offline, dan tersedia sebagai pembelian seumur hidup sekali bayar atau langganan bulanan atau tahunan, dengan Berbagi Keluarga.
 
-{{< app-details product="flacbox" >}}
+{{< ls-app-details product="flacbox" >}}
 
 ## Opsi 2: Konversikan FLAC ke ALAC untuk Aplikasi Musik
 
@@ -141,34 +141,34 @@ Kompromisnya nyata. Anda kini menyimpan dua salinan pustaka Anda, setiap pengedi
 
 ## FAQ
 
-{{% details title="Bisakah iPhone memutar file FLAC secara native?" closed="true" %}}
+{{% ls-details title="Bisakah iPhone memutar file FLAC secara native?" closed="true" %}}
 Hanya secara terbatas. Aplikasi Files dapat menampilkan pratinjau satu file FLAC sejak iOS 11, tetapi tidak ada pustaka, daftar putar, antrean, equalizer, atau streaming cloud. Untuk mendengarkan dengan sungguhan, gunakan aplikasi pemutar seperti Flacbox.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Bisakah saya memutar FLAC 24-bit atau 96kHz (atau lebih tinggi) di iPhone?" closed="true" %}}
+{{% ls-details title="Bisakah saya memutar FLAC 24-bit atau 96kHz (atau lebih tinggi) di iPhone?" closed="true" %}}
 Ya. Flacbox mendukung output hi-res hingga 384 kHz. Untuk memutar di atas 48 kHz pada resolusi asli, hubungkan USB DAC eksternal, karena output bawaan iPhone melakukan resampling audio untuk setiap aplikasi.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Apakah Flacbox mengonversi FLAC ke format lain?" closed="true" %}}
+{{% ls-details title="Apakah Flacbox mengonversi FLAC ke format lain?" closed="true" %}}
 Tidak. Flacbox memutar FLAC dalam kualitas lossless aslinya tanpa konversi. Efek dan DSP diterapkan secara langsung selama pemutaran saja, dan tidak pernah mengubah file Anda.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Apakah saya kehilangan kualitas saat mengonversi FLAC ke ALAC?" closed="true" %}}
+{{% ls-details title="Apakah saya kehilangan kualitas saat mengonversi FLAC ke ALAC?" closed="true" %}}
 Tidak. FLAC dan ALAC keduanya lossless, jadi konversinya bit-perfect. Anda hanya menghabiskan waktu dan mengorbankan kenyamanan, karena Anda berakhir dengan dua pustaka yang harus dikelola dan Anda harus menyinkronkan ulang setelah pengeditan.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Format audio apa yang didukung Flacbox?" closed="true" %}}
+{{% ls-details title="Format audio apa yang didukung Flacbox?" closed="true" %}}
 Lebih dari 120 format, termasuk FLAC, DSD (DSF dan DFF), ALAC, APE, WAV, AIFF, WV, OGG, OPUS, MP3, AAC, M4A, WMA, dan bahkan musik tracker dan MOD seperti MOD, XM, IT, dan S3M.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Apakah Flacbox memiliki equalizer, efek, dan visualizer?" closed="true" %}}
+{{% ls-details title="Apakah Flacbox memiliki equalizer, efek, dan visualizer?" closed="true" %}}
 Ya. Ia memiliki equalizer 10 band dengan preset dan preamp. Ia juga memiliki mesin BASS profesional dengan sebelas efek real-time (reverb, delay, echo multi-tap, crossfeed, kompresor, chorus, flanger, phaser, auto-wah, distortion, dan stereo rotation), ditambah penyeimbangan volume EBU R128, prosesor DSP 14 filter, dan visualizer Milkdrop layar penuh dengan 500 preset.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Bisakah saya streaming FLAC dari NAS atau cloud saya?" closed="true" %}}
+{{% ls-details title="Bisakah saya streaming FLAC dari NAS atau cloud saya?" closed="true" %}}
 Ya. Flacbox terhubung ke lebih dari 30 layanan cloud dan ke NAS atau komputer melalui SMB, WebDAV, DLNA, FTP, SFTP, dan NFS. Seluruh pustaka Anda tersedia tanpa menyalin file ke iPhone Anda, dan Anda dapat mengunduh lagu untuk pemutaran offline kapan saja.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Apakah Flacbox benar-benar gratis?" closed="true" %}}
+{{% ls-details title="Apakah Flacbox benar-benar gratis?" closed="true" %}}
 Flacbox gratis untuk diunduh, dengan fitur inti seperti equalizer, streaming cloud, dan pemutaran offline. Premium menghapus batasan versi gratis pada akun cloud, daftar putar, dan folder offline, dan hadir sebagai pembelian seumur hidup sekali bayar atau langganan bulanan atau tahunan, dengan Berbagi Keluarga.
-{{% /details %}}
+{{% /ls-details %}}

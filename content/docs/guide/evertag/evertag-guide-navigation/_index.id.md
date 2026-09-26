@@ -16,7 +16,7 @@ readingTime: 3
 Evertag menawarkan antarmuka pengguna yang intuitif. Yang membedakannya dari banyak aplikasi populer adalah pengelola file bawaannya, yang memberikan pengguna kemampuan untuk mengedit file audio dan mentransfernya ke dan dari penyimpanan cloud dengan mulus.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Layar Evertag" image="/docs/guide/evertag/img/tag-editor.webp" >}}
+  {{< ls-card title="" subtitle="Layar Evertag" image="/docs/guide/evertag/img/tag-editor.webp" >}}
 {{< /cards >}}
 
 ## Bagian
@@ -42,7 +42,7 @@ Bagian File Lokal dibagi menjadi dua kategori: **File di aplikasi ini**, menampi
 Hampir setiap item konten di layar memiliki tombol "Lebih Banyak Tindakan". Ketuk untuk mengakses semua tindakan yang tersedia.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Lebih Banyak Tindakan Evertag" image="/docs/guide/evertag/img/downloads-file-actions.webp" >}}
+  {{< ls-card title="" subtitle="Lebih Banyak Tindakan Evertag" image="/docs/guide/evertag/img/downloads-file-actions.webp" >}}
 {{< /cards >}}
 
 ## Toolbar Atas

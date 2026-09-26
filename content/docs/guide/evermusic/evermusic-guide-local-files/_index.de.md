@@ -20,7 +20,7 @@ Der Bereich 'Lokale Dateien' dient als Hub für die Verwaltung von Dateien im 'D
 Dieser integrierte Dateimanager ermöglicht die Bearbeitung von Dateien und bietet verschiedene Methoden zum Importieren von Audiodateien in die App.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evermusic Lokale Dateien-Bildschirm" image="/docs/guide/evermusic/evermusic-guide-local-files/img/local-files-main.webp" >}}
+  {{< ls-card title="" subtitle="Evermusic Lokale Dateien-Bildschirm" image="/docs/guide/evermusic/evermusic-guide-local-files/img/local-files-main.webp" >}}
 {{< /cards >}}
 
 ## Dateien aus Cloud-Speicher herunterladen
@@ -40,7 +40,7 @@ Importiere Dateien ganz einfach von deinem Gerät wie [hier](/docs/howto/how-to-
 Dateien über eine Kabelverbindung übertragen, wie [hier](/docs/howto/how-to-transfer-files-from-my-mac-to-iphone-or-ipad-using-finder) beschrieben.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="iTunes / Finder-Dateifreigabe" image="/docs/guide/evermusic/evermusic-guide-local-files/img/local-files-itunes-file-sharing.webp" >}}
+  {{< ls-card title="" subtitle="iTunes / Finder-Dateifreigabe" image="/docs/guide/evermusic/evermusic-guide-local-files/img/local-files-itunes-file-sharing.webp" >}}
 {{< /cards >}}
 
 ## Wi-Fi Drive
@@ -48,7 +48,7 @@ Dateien über eine Kabelverbindung übertragen, wie [hier](/docs/howto/how-to-tr
 Dateien kabellos übertragen, wie [hier](/docs/howto/how-to-transfer-files-wirelessly-from-a-computer-to-an-iphone-using-wifi-drive) beschrieben.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Wi-Fi Drive Server-Einstellungen" image="/docs/guide/evermusic/evermusic-guide-local-files/img/local-files-wifidrive-settings.webp" >}}
+  {{< ls-card title="" subtitle="Wi-Fi Drive Server-Einstellungen" image="/docs/guide/evermusic/evermusic-guide-local-files/img/local-files-wifidrive-settings.webp" >}}
 {{< /cards >}}
 
 ## Übertragungswarteschlange
@@ -56,7 +56,7 @@ Dateien kabellos übertragen, wie [hier](/docs/howto/how-to-transfer-files-wirel
 In der oberen linken Ecke der Navigationsleiste findest du die Schaltfläche 'Übertragungen'. Tippe darauf, um auf die Übertragungswarteschlange zuzugreifen, wo du alle deine Downloads und Uploads überwachen und verwalten kannst. Außerdem kannst du die Übertragungswarteschlangengeschwindigkeit und den Netzwerktyp in den App-Einstellungen anpassen.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Dateiübertragungswarteschlange" image="/docs/guide/evermusic/evermusic-guide-local-files/img/local-files-file-transfers.webp" >}}
+  {{< ls-card title="" subtitle="Dateiübertragungswarteschlange" image="/docs/guide/evermusic/evermusic-guide-local-files/img/local-files-file-transfers.webp" >}}
 {{< /cards >}}
 
 ## Schnellzugriff-Bereich
@@ -68,7 +68,7 @@ Oben auf dem Bildschirm bietet ein Schnellzugriff-Bereich praktische Links zu de
 Dieser Bereich zeigt alle zuletzt geöffneten Dateien oder Ordner an.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Zuletzt geöffnete Dateien und Ordner" image="/docs/guide/evermusic/evermusic-guide-local-files/img/local-files-recents.webp" >}}
+  {{< ls-card title="" subtitle="Zuletzt geöffnete Dateien und Ordner" image="/docs/guide/evermusic/evermusic-guide-local-files/img/local-files-recents.webp" >}}
 {{< /cards >}}
 
 ## Favoriten
@@ -76,7 +76,7 @@ Dieser Bereich zeigt alle zuletzt geöffneten Dateien oder Ordner an.
 Du kannst Dateien oder Ordner als Favoriten markieren und in diesem Bereich aufrufen. Darüber hinaus kannst du einen Ordner auf deinem Gerät zu deinen Favoriten hinzufügen. Öffne dazu den Favoriten-Bereich, tippe auf die drei Punkte oben rechts und wähle 'Ordner hinzufügen'. Folge den Anweisungen, um einen Ordner von deinem Gerät für den Schnellzugriff hinzuzufügen.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Favoriten — Ordner vom Gerät hinzufügen" image="/docs/guide/evermusic/evermusic-guide-local-files/img/local-files-favorites.webp" >}}
+  {{< ls-card title="" subtitle="Favoriten — Ordner vom Gerät hinzufügen" image="/docs/guide/evermusic/evermusic-guide-local-files/img/local-files-favorites.webp" >}}
 {{< /cards >}}
 
 ## Obere Symbolleiste
@@ -91,7 +91,7 @@ Die obere Symbolleiste unter der Navigationsleiste bietet mehrere Aktionen:
 Du kannst die obere Symbolleiste mit einer Wisch-nach-unten-Geste ein- oder ausblenden.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Obere Symbolleiste für den aktuellen Ordner" image="/docs/guide/evermusic/evermusic-guide-local-files/img/local-files-top-toolbar.webp" >}}
+  {{< ls-card title="" subtitle="Obere Symbolleiste für den aktuellen Ordner" image="/docs/guide/evermusic/evermusic-guide-local-files/img/local-files-top-toolbar.webp" >}}
 {{< /cards >}}
 
 ## Spezielle Ordner
@@ -128,7 +128,7 @@ Zeigt Dateien und Ordner an, die im Dokumentenverzeichnis der App und in iCloud 
 Zeigt Dateien, die sich auf deinem Gerät befinden, aber in anderen Anwendungen. Du kannst sie mit der Systemdateiauswahl in diese Anwendung importieren. Aktiviere die Auswahl mit 'Dateien öffnen...', um Dateien auszuwählen, oder 'Ordner öffnen...', um Ordner auszuwählen. Detaillierte Anleitungen zum Importieren lokaler Musik auf iPhone oder Mac sind [hier](/docs/howto/how-to-play-local-music-stored-on-your-iphone-or-mac) verfügbar. Du kannst auch einen Ordner auf deinem Gerät verbinden und schnell auf den Inhalt zugreifen. Verwende 'Ordner verbinden' und wähle einen Ordner auf deinem Gerät. Tippe auf 'Fertig', und die App erstellt einen Link zu diesem Ordner mit Lese-/Schreibzugriff. Um einen Ordner auf deinem Gerät zu trennen, tippe auf 'Weitere Aktionen' und wähle 'Trennen'.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Dateien auf diesem iPhone / iPad / Mac" image="/docs/guide/evermusic/evermusic-guide-local-files/img/local-files-on-this-device.webp" >}}
+  {{< ls-card title="" subtitle="Dateien auf diesem iPhone / iPad / Mac" image="/docs/guide/evermusic/evermusic-guide-local-files/img/local-files-on-this-device.webp" >}}
 {{< /cards >}}
 
 ## Dateien auf verbundenen USB-Flashkarten importieren
@@ -151,7 +151,7 @@ Das Weitere Aktionen-Menü für den aktuell geöffneten Ordner befindet sich obe
 Wenn du mehrere Dateien bearbeiten möchtest, aktiviere den Auswahlmodus, indem du auf die Weitere Aktionen-Schaltfläche '...' in der Navigationsleiste oben rechts tippst und dann 'Auswählen' wählst. Dadurch werden Kontrollkästchen neben jeder Datei angezeigt. Wähle die gewünschten Dateien durch Tippen auf ihre Kontrollkästchen aus. Du kannst folgende Aktionen für die ausgewählten Dateien ausführen.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Auswahlmodus-Aktionen für lokale Dateien" image="/docs/guide/evermusic/evermusic-guide-local-files/img/local-files-selection-mode.webp" >}}
+  {{< ls-card title="" subtitle="Auswahlmodus-Aktionen für lokale Dateien" image="/docs/guide/evermusic/evermusic-guide-local-files/img/local-files-selection-mode.webp" >}}
 {{< /cards >}}
 
 - **Als nächstes abspielen:** Ausgewählte Dateien oder Ordner mit der aktuellen Sortierreihenfolge an die Spitze der Player-Warteschlange hinzufügen.
@@ -186,7 +186,7 @@ Für jede Datei oder jeden Ordner in der App stehen verschiedene Aktionen zur Ve
 ## Offline-Ordner
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Offline-Ordner Weitere Aktionen Menü" image="/docs/guide/evermusic/evermusic-guide-local-files/img/local-files-offline-folders.webp" >}}
+  {{< ls-card title="" subtitle="Offline-Ordner Weitere Aktionen Menü" image="/docs/guide/evermusic/evermusic-guide-local-files/img/local-files-offline-folders.webp" >}}
 {{< /cards >}}
 
 Der Offline-Modus ist eine praktische Funktion, mit der du deine Lieblingsmusik auch ohne Internetverbindung abrufen kannst. Wenn du den Offline-Modus für ein Album, einen Künstler, eine Wiedergabeliste, ein Genre oder einen Remote-Ordner aktivierst, werden alle Dateien in dieser Sammlung automatisch auf dein Gerät für die Offline-Wiedergabe heruntergeladen. Du kannst diese Dateien bequem im Bereich 'Offline-Ordner' der App aufrufen.
@@ -204,7 +204,7 @@ Detaillierte Anleitungen zur Offline-Musikwiedergabe in Evermusic & Flacbox sind
 Fast jedes Verhalten des 'Lokale Dateien'-Bildschirms — von der Netzwerkbandbreite bis zum Download-Ziel bis hin zur Thumbnail-Caching — ist unter **Einstellungen → Dateimanager** konfigurierbar. Öffne es, wenn du die Übertragungsgeschwindigkeit anpassen, Speicherplatz sparen oder die App auf Wi-Fi beschränken möchtest.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Dateimanager-Einstellungen Bildschirm" image="/docs/guide/evermusic/evermusic-guide-local-files/img/local-files-file-manager-settings.webp" >}}
+  {{< ls-card title="" subtitle="Dateimanager-Einstellungen Bildschirm" image="/docs/guide/evermusic/evermusic-guide-local-files/img/local-files-file-manager-settings.webp" >}}
 {{< /cards >}}
 
 Der Bildschirm zeigt alle Optionen, geordnet in klar beschrifteten Bereichen:

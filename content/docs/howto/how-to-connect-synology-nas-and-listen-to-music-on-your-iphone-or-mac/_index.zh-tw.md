@@ -7,7 +7,7 @@ tags: ["音樂", "串流", "nas", "synology", "quickconnect"]
 readingTime: 4
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **摘要：** 使用 Synology 的原生 API 將 Synology NAS 連接到 Evermusic 或 Flacbox —— 透過 IP 位址手動連接或透過 QuickConnect ID 自動連接。QuickConnect 讓您無需連接埠轉發即可遠端串流音樂。兩款應用程式都支援 FLAC、MP3、WAV 及其他高解析度格式。
@@ -140,22 +140,22 @@ Synology QuickConnect ID 是一個唯一識別碼，允許您透過網際網路�
 
 ## FAQ
 
-{{% details title="手動連線和 QuickConnect 有什麼區別？" closed="true" %}}
+{{% ls-details title="手動連線和 QuickConnect 有什麼區別？" closed="true" %}}
 手動連線使用 NAS IP 位址和連接埠，在本地網路上運作。QuickConnect 使用 Synology 的中繼服務從網際網路上的任何地方建立連線，無需連接埠轉發。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="我可以在家庭網路之外從 Synology NAS 串流音樂嗎？" closed="true" %}}
+{{% ls-details title="我可以在家庭網路之外從 Synology NAS 串流音樂嗎？" closed="true" %}}
 可以。在 Synology NAS 上啟用 QuickConnect，並在 Evermusic 或 Flacbox 中使用 QuickConnect ID，即可從任何有網際網路連線的地方串流音樂。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="從 Synology NAS 串流時支援哪些音訊格式？" closed="true" %}}
+{{% ls-details title="從 Synology NAS 串流時支援哪些音訊格式？" closed="true" %}}
 Evermusic 和 Flacbox 支援 FLAC、MP3、AAC、WAV、ALAC、OGG、WMA、DSD 及許多其他格式。從 Synology NAS 串流時，所有支援的格式均可使用。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="連線需要雙重身份驗證嗎？" closed="true" %}}
+{{% ls-details title="連線需要雙重身份驗證嗎？" closed="true" %}}
 不需要，2FA 是選用的。但是，如果您在 Synology DSM 上啟用了兩步驟驗證，應用程式將在登入時要求輸入一次性密碼。工作階段過期時需要重新授權。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="應該使用 Synology 原生 API、WebDAV 還是 SMB 來連線？" closed="true" %}}
+{{% ls-details title="應該使用 Synology 原生 API、WebDAV 還是 SMB 來連線？" closed="true" %}}
 帶有 QuickConnect 的 Synology 原生 API 是遠端存取的最佳選擇。對於本地網路使用，SMB 通常是最快的選項。WebDAV 在本地和遠端存取中都表現良好。Evermusic 和 Flacbox 支援所有三種通訊協定。
-{{% /details %}}
+{{% /ls-details %}}

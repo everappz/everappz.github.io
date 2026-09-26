@@ -7,7 +7,7 @@ tags: ["evermusic", "audio", "editor", "etichete", "comentarii"]
 readingTime: 4
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **Rezumat:** Evermusic și Flacbox vă permit să adăugați comentarii text cu marcaje temporale la orice pistă audio, apoi le afișează sincronizat în timpul redării. Puteți vizualiza și versuri încorporate și fișiere LRC. Funcțiile de comentarii și versuri sunt gratuite în ambele aplicații.
@@ -97,22 +97,22 @@ Adăugarea comentariilor la pistele audio în Evermusic și Flacbox marchează u
 
 ## Întrebări frecvente
 
-{{% details title="Funcția de comentarii este gratuită în Evermusic și Flacbox?" closed="true" %}}
+{{% ls-details title="Funcția de comentarii este gratuită în Evermusic și Flacbox?" closed="true" %}}
 Da. Adăugarea, editarea și vizualizarea comentariilor și versurilor este o funcție gratuită atât în Evermusic, cât și în Flacbox.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Ce format ar trebui să folosesc pentru comentariile temporizate?" closed="true" %}}
+{{% ls-details title="Ce format ar trebui să folosesc pentru comentariile temporizate?" closed="true" %}}
 Folosiți formatul de marcaj temporal LRC: `[MM:SS.SS]` urmat de textul dvs. De exemplu: `[01:23.45]Acesta este comentariul meu`. Puteți atribui mai multe marcaje temporale unei singure linii.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Pot vizualiza versuri și fișiere LRC pe același ecran?" closed="true" %}}
+{{% ls-details title="Pot vizualiza versuri și fișiere LRC pe același ecran?" closed="true" %}}
 Da. Ecranul Comentarii suportă trei moduri între care puteți glisa: Comentarii, Versuri încorporate și Fișier LRC.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Unde pot găsi fișiere de versuri LRC?" closed="true" %}}
+{{% ls-details title="Unde pot găsi fișiere de versuri LRC?" closed="true" %}}
 Versuri LRC gratuite sunt disponibile pe site-uri web precum Lyricsify.com. Puteți fie să le încorporați în eticheta de versuri a fișierului dvs. audio, fie să plasați un fișier `.lrc` separat lângă fișierul dvs. audio.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Am nevoie de o aplicație separată pentru a edita etichetele de versuri?" closed="true" %}}
+{{% ls-details title="Am nevoie de o aplicație separată pentru a edita etichetele de versuri?" closed="true" %}}
 Puteți edita comentariile direct în Evermusic și Flacbox. Pentru a edita specific eticheta de versuri, folosiți Evertag, un editor gratuit de metadate audio pentru iOS și macOS.
-{{% /details %}}
+{{% /ls-details %}}

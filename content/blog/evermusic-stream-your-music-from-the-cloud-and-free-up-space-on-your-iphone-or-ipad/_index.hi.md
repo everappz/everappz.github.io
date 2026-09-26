@@ -12,7 +12,7 @@ authors:
     image: "/images/about/artem-meleshko-founder-everappz.webp"
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 ![](/blog/evermusic-stream-your-music-from-the-cloud-and-free-up-space-on-your-iphone-or-ipad/21260c_00c5356db3a24db6a6a37e353b774d56~mv2.jpg)
 
@@ -82,22 +82,22 @@ Evermusic Google Drive, Dropbox, Box, OneDrive, MediaFire, MEGA, Yandex.Disk, pC
 
 ## अक्सर पूछे जाने वाले प्रश्न
 
-{{% details title="क्या Evermusic मुफ्त है?" closed="true" %}}
+{{% ls-details title="क्या Evermusic मुफ्त है?" closed="true" %}}
 Evermusic वैकल्पिक प्रीमियम सुविधाओं के साथ मुफ्त डाउनलोड के लिए उपलब्ध है। बेसिक क्लाउड स्ट्रीमिंग और ऑफलाइन प्लेबैक मुफ्त संस्करण में उपलब्ध हैं।
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Evermusic किन क्लाउड सेवाओं को सपोर्ट करता है?" closed="true" %}}
+{{% ls-details title="Evermusic किन क्लाउड सेवाओं को सपोर्ट करता है?" closed="true" %}}
 Google Drive, Dropbox, Box, OneDrive, MediaFire, MEGA, Yandex.Disk, pCloud, HiDrive, MyDrive, SMB फाइल शेयर और WebDAV सर्वर।
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="क्या मैं Evermusic के साथ ऑफलाइन संगीत सुन सकता हूं?" closed="true" %}}
+{{% ls-details title="क्या मैं Evermusic के साथ ऑफलाइन संगीत सुन सकता हूं?" closed="true" %}}
 हां। ऐप के भीतर सीधे ऑफलाइन प्लेबैक के लिए कोई भी एल्बम, कलाकार, प्लेलिस्ट या व्यक्तिगत ट्रैक डाउनलोड करें।
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Evermusic कौन से ऑडियो फॉर्मेट चलाता है?" closed="true" %}}
+{{% ls-details title="Evermusic कौन से ऑडियो फॉर्मेट चलाता है?" closed="true" %}}
 Evermusic MP3, FLAC, AAC, WAV, ALAC, AIFF, OPUS, OGG और कई अन्य फॉर्मेट को सपोर्ट करता है।
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="क्या मुझे अभी भी संगीत ट्रांसफर करने के लिए iTunes की जरूरत है?" closed="true" %}}
+{{% ls-details title="क्या मुझे अभी भी संगीत ट्रांसफर करने के लिए iTunes की जरूरत है?" closed="true" %}}
 नहीं। अपने कंप्यूटर से किसी भी समर्थित क्लाउड सेवा पर अपना संगीत अपलोड करें, फिर अपने iPhone या iPad पर Evermusic के माध्यम से स्ट्रीम या डाउनलोड करें।
-{{% /details %}}
+{{% /ls-details %}}

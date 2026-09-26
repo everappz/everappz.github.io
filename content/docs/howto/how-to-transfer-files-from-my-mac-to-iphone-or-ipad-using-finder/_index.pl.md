@@ -17,7 +17,7 @@ keywords: [
 readingTime: 3
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **Podsumowanie:** Podłącz iPhone'a lub iPada do Maca (lub PC) kablem USB. W macOS Catalina i nowszych użyj Findera. W starszych wersjach macOS lub Windows użyj iTunes. Przeciągnij pliki do aplikacji takiej jak Evermusic, Flacbox lub Evertag, aby natychmiast je przesłać.
@@ -117,26 +117,26 @@ Dzięki Udostępnianiu plików iTunes możesz łatwo zarządzać plikami między
 
 ## Często zadawane pytania
 
-{{% details title="Czy potrzebuję połączenia internetowego, aby przesyłać pliki przez USB?" closed="true" %}}
+{{% ls-details title="Czy potrzebuję połączenia internetowego, aby przesyłać pliki przez USB?" closed="true" %}}
 Nie. Udostępnianie plików działa całkowicie przez połączenie kablem USB między komputerem a urządzeniem iOS. Internet nie jest wymagany.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Jakie formaty plików mogę przesłać do Evermusic lub Flacbox?" closed="true" %}}
+{{% ls-details title="Jakie formaty plików mogę przesłać do Evermusic lub Flacbox?" closed="true" %}}
 Obie aplikacje obsługują szeroki zakres formatów audio, w tym MP3, FLAC, AAC, WAV, AIFF, OGG, WMA i inne. Sprawdź dokumentację aplikacji, aby uzyskać pełną listę obsługiwanych formatów.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Dlaczego nie widzę karty Pliki w Finderze?" closed="true" %}}
+{{% ls-details title="Dlaczego nie widzę karty Pliki w Finderze?" closed="true" %}}
 Karta Pliki pojawia się tylko wtedy, gdy na urządzeniu jest zainstalowana co najmniej jedna aplikacja obsługująca Udostępnianie plików. Zainstaluj Evermusic, Flacbox lub Evertag, a następnie ponownie podłącz urządzenie.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Czy mogę przesyłać pliki bezprzewodowo zamiast używać kabla USB?" closed="true" %}}
+{{% ls-details title="Czy mogę przesyłać pliki bezprzewodowo zamiast używać kabla USB?" closed="true" %}}
 Tak. Evermusic i Flacbox obsługują również usługi przechowywania w chmurze i transfer Wi-Fi. Jednak udostępnianie plików przez USB za pomocą Findera lub iTunes jest zwykle szybsze w przypadku dużych bibliotek muzycznych.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Czy przesyłanie plików przez Findera nadpisze istniejące pliki na moim urządzeniu?" closed="true" %}}
+{{% ls-details title="Czy przesyłanie plików przez Findera nadpisze istniejące pliki na moim urządzeniu?" closed="true" %}}
 Nie. Nowe pliki są dodawane obok istniejących. Jeśli plik o tej samej nazwie już istnieje, macOS może automatycznie zmienić nazwę nowego pliku.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Czy ta metoda działa z komputerami z Windows?" closed="true" %}}
+{{% ls-details title="Czy ta metoda działa z komputerami z Windows?" closed="true" %}}
 Tak. W systemie Windows użyj iTunes do przesyłania plików. Proces jest taki sam jak opisany w sekcji iTunes powyżej. Zainstaluj iTunes z Microsoft Store lub strony internetowej Apple.
-{{% /details %}}
+{{% /ls-details %}}

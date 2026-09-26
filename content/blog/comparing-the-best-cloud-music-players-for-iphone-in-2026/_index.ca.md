@@ -12,7 +12,7 @@ authors:
     image: "/images/about/artem-meleshko-founder-everappz.webp"
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 ## Quin reproductor de música al núvol és el millor per a iPhone?
 
@@ -91,22 +91,22 @@ Per als audiòfils i per a qualsevol que mantingui una col·lecció musical pers
 
 ## Preguntes freqüents
 
-{{% details title="Puc reproduir fitxers FLAC a l'iPhone sense convertir-los?" closed="true" %}}
+{{% ls-details title="Puc reproduir fitxers FLAC a l'iPhone sense convertir-los?" closed="true" %}}
 Sí. Evermusic reprodueix fitxers FLAC, DSD, WAV, ALAC i altres formats sense pèrdues de forma nativa a l'iPhone. No cal cap conversió de fitxers. Simplement connecta el teu compte d'emmagatzematge al núvol i transmet o descarrega els teus fitxers FLAC directament.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Quin reproductor de música al núvol funciona amb Dropbox i Google Drive?" closed="true" %}}
+{{% ls-details title="Quin reproductor de música al núvol funciona amb Dropbox i Google Drive?" closed="true" %}}
 Evermusic admet Dropbox, Google Drive, OneDrive, Box, MEGA, pCloud, WebDAV, SMB i més -- més de 12 serveis al núvol en total. La majoria de les aplicacions de streaming principals com Spotify i Apple Music no es connecten a emmagatzematge al núvol de tercers.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Necessito una subscripció per usar un reproductor de música al núvol?" closed="true" %}}
+{{% ls-details title="Necessito una subscripció per usar un reproductor de música al núvol?" closed="true" %}}
 Depèn de l'aplicació. Spotify, Apple Music i Deezer requereixen subscripcions mensuals. Evermusic ofereix un nivell gratuït i una compra Premium única sense comissions recurrents. Fas servir el teu propi emmagatzematge al núvol per allotjar els teus fitxers de música.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Quin és el millor reproductor de música per escoltar offline a l'iPhone?" closed="true" %}}
+{{% ls-details title="Quin és el millor reproductor de música per escoltar offline a l'iPhone?" closed="true" %}}
 Tots els reproductors principals admeten descàrregues offline, però l'enfocament és diferent. Spotify i Apple Music permeten descarregar pistes dels seus catàlegs. Evermusic permet descarregar els teus propis fitxers de l'emmagatzematge al núvol per a la reproducció offline -- ideal per a vols, desplaçaments o zones sense connectivitat.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Puc usar un reproductor de música al núvol amb el meu NAS o servidor domèstic?" closed="true" %}}
+{{% ls-details title="Puc usar un reproductor de música al núvol amb el meu NAS o servidor domèstic?" closed="true" %}}
 Sí. Evermusic admet protocols WebDAV i SMB, la qual cosa significa que es pot connectar a la majoria de dispositius NAS de Synology, QNAP i Western Digital. Això converteix el teu iPhone en un reproductor remot per a tota la teva biblioteca de música domèstica.
-{{% /details %}}
+{{% /ls-details %}}

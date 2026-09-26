@@ -19,7 +19,7 @@ Evervideo cung cấp giao diện sạch sẽ, trực quan quen thuộc với b�
 Không giống hầu hết ứng dụng phương tiện, Evervideo hợp nhất tài khoản đám mây, chia sẻ NAS, máy chủ phương tiện và tệp cục bộ vào một tab Tệp duy nhất — vì vậy bạn không phải chuyển đổi giữa các màn hình riêng biệt. Điều đó làm cho việc di chuyển video từ máy chủ Plex sang thư mục iCloud Drive rồi đến thư mục Documents trên iPhone trở thành thao tác một màn hình, một chạm.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Màn hình chính Evervideo" image="/docs/guide/evervideo/img/evervideo-main.webp" >}}
+  {{< ls-card title="" subtitle="Màn hình chính Evervideo" image="/docs/guide/evervideo/img/evervideo-main.webp" >}}
 {{< /cards >}}
 
 ## Các tab
@@ -53,7 +53,7 @@ PiP hoạt động với mọi định dạng video Evervideo phát, bao gồm c
 Hầu hết mọi mục nội dung trên màn hình đều có nút Thêm hành động (biểu tượng «⋯» ba chấm). Nhấn vào đó để mở menu nhạy cảm với ngữ cảnh với mọi hành động có sẵn cho mục đó — phát tiếp theo, phát sau, thêm vào danh sách phát, thêm vào yêu thích, chỉnh sửa thẻ, tải xuống, chia sẻ, đổi tên, di chuyển, v.v. Danh sách dài cuộn dọc để bạn có thể truy cập các hành động ít dùng mà không làm rối giao diện chính.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Menu Thêm hành động trong Yêu thích Evervideo" image="/docs/guide/evervideo/img/evervideo-favorites-more-actions.webp" >}}
+  {{< ls-card title="" subtitle="Menu Thêm hành động trong Yêu thích Evervideo" image="/docs/guide/evervideo/img/evervideo-favorites-more-actions.webp" >}}
 {{< /cards >}}
 
 ## Thanh công cụ trên cùng

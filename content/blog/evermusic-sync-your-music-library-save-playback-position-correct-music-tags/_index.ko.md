@@ -12,7 +12,7 @@ authors:
     image: "/images/about/artem-meleshko-founder-everappz.webp"
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 ![](/blog/evermusic-sync-your-music-library-save-playback-position-correct-music-tags/21260c_641f376e779e47d4927b43c210d3c87f~mv2.jpeg)
 
@@ -67,22 +67,22 @@ Evermusic는 온라인 데이터베이스를 사용하여 잘못되거나 불완
 
 ## 자주 묻는 질문
 
-{{% details title="Evermusic 자동 동기화는 모든 클라우드 서비스에서 작동하나요?" closed="true" %}}
+{{% ls-details title="Evermusic 자동 동기화는 모든 클라우드 서비스에서 작동하나요?" closed="true" %}}
 네. 자동 동기화는 Dropbox, Google Drive, OneDrive, MEGA, WebDAV 및 SMB에서 작동합니다. 모니터링할 폴더를 선택하면 Evermusic가 라이브러리를 최신 상태로 유지합니다.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Evermusic가 오디오북 위치를 저장할 수 있나요?" closed="true" %}}
+{{% ls-details title="Evermusic가 오디오북 위치를 저장할 수 있나요?" closed="true" %}}
 네. 오디오 설정에서 재생 위치 저장을 활성화하세요. Evermusic가 각 파일에서 중단한 위치를 기억하므로 수동 북마크 없이 이어서 들을 수 있습니다.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="백그라운드 메타데이터 읽기는 어떻게 작동하나요?" closed="true" %}}
+{{% ls-details title="백그라운드 메타데이터 읽기는 어떻게 작동하나요?" closed="true" %}}
 Evermusic는 다른 기능을 사용하는 동안 백그라운드에서 ID3 태그와 파일 메타데이터를 읽습니다. 아티스트, 앨범, 장르별로 라이브러리를 자동으로 정리합니다.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Evermusic가 손상된 음악 태그를 수정하나요?" closed="true" %}}
+{{% ls-details title="Evermusic가 손상된 음악 태그를 수정하나요?" closed="true" %}}
 네. 자동 태그 수정 기능이 온라인 데이터베이스와 대조하여 파일을 확인하고 잘못되거나 불완전하거나 누락된 ID3 메타데이터를 수정합니다.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Evermusic는 무료로 다운로드할 수 있나요?" closed="true" %}}
+{{% ls-details title="Evermusic는 무료로 다운로드할 수 있나요?" closed="true" %}}
 Evermusic는 앱 내 구매를 통해 이용할 수 있는 선택적 프리미엄 기능과 함께 무료로 다운로드할 수 있습니다.
-{{% /details %}}
+{{% /ls-details %}}

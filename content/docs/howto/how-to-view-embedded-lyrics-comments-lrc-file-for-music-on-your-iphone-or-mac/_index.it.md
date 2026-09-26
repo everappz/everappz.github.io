@@ -7,7 +7,7 @@ tags: ["audio", "iphone", "mp3", "testi", "lrc", "incorporato", "visualizzare", 
 keywords: ["visualizzare testi incorporati iPhone", "Evermusic mostra testi", "file LRC Evermusic", "tag commento audio", "visualizzazione testi Flacbox", "testi iOS app musica", "lettore audio mostra testi"]
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **In breve:** Evermusic per iPhone e Mac visualizza testi incorporati, tag dei commenti e file .lrc esterni per qualsiasi traccia audio. Apri il lettore, tocca **Altre azioni**, quindi seleziona **Commenti** per visualizzare i testi in tre modalità: Commenti, Testi incorporati e File LRC.
@@ -68,22 +68,22 @@ Visualizzare testi incorporati, commenti o file `.lrc` sincronizzati in **Evermu
 
 ## FAQ
 
-{{% details title="Come visualizzo i testi incorporati sul mio iPhone?" closed="true" %}}
+{{% ls-details title="Come visualizzo i testi incorporati sul mio iPhone?" closed="true" %}}
 Apri Evermusic, riproduci una canzone, tocca Altre azioni nel lettore a schermo intero e seleziona Commenti. Scorri alla scheda Testi incorporati per vedere i testi memorizzati nei tag del file audio.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Cos'è un file LRC e come funziona?" closed="true" %}}
+{{% ls-details title="Cos'è un file LRC e come funziona?" closed="true" %}}
 Un file LRC è un file di testo contenente testi di canzoni con marcatori temporali. Quando posizionato nella stessa cartella di un file audio con lo stesso nome file, Evermusic lo legge e visualizza testi sincronizzati che scorrono durante la riproduzione.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Posso aggiungere testi ai miei file musicali su iPhone?" closed="true" %}}
+{{% ls-details title="Posso aggiungere testi ai miei file musicali su iPhone?" closed="true" %}}
 Sì. Usa l'app Evertag per modificare i tag ID3 e aggiungere o aggiornare i testi incorporati direttamente sul tuo iPhone. Puoi incollare testo temporizzato in formato LRC per testi sincronizzati.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Evermusic supporta i testi sincronizzati (temporizzati)?" closed="true" %}}
+{{% ls-details title="Evermusic supporta i testi sincronizzati (temporizzati)?" closed="true" %}}
 Sì. Evermusic supporta i testi temporizzati in formato LRC, sia quando incorporati nei tag audio sia quando forniti come file `.lrc` separato.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Quali formati audio supportano i testi incorporati?" closed="true" %}}
+{{% ls-details title="Quali formati audio supportano i testi incorporati?" closed="true" %}}
 MP3, FLAC, AAC, M4A, OGG e la maggior parte degli altri formati comuni supportano i testi incorporati attraverso i rispettivi standard dei tag.
-{{% /details %}}
+{{% /ls-details %}}

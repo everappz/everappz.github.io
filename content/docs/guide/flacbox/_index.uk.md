@@ -71,20 +71,20 @@ Flacbox використовує лише офіційні SDK та OAuth авт
 
 {{< cards cols="2">}}
 
-{{< card icon="map" link="/docs/guide/flacbox/flacbox-guide-navigation" title="Навігація" subtitle="Панель вкладок на iPhone, ліве меню на iPad і Mac, міні-плеєр, віджети, CarPlay." >}}
+{{< ls-card icon="map" link="/docs/guide/flacbox/flacbox-guide-navigation" title="Навігація" subtitle="Панель вкладок на iPhone, ліве меню на iPad і Mac, міні-плеєр, віджети, CarPlay." >}}
 
-{{< card icon="cloud" link="/docs/guide/flacbox/flacbox-guide-connections" title="З'єднання" subtitle="iCloud, Google Drive, Dropbox, OneDrive, NAS, WebDAV, SMB, DLNA." >}}
+{{< ls-card icon="cloud" link="/docs/guide/flacbox/flacbox-guide-connections" title="З'єднання" subtitle="iCloud, Google Drive, Dropbox, OneDrive, NAS, WebDAV, SMB, DLNA." >}}
 
-{{< card icon="collection" link="/docs/guide/flacbox/flacbox-guide-music-library" title="Музична бібліотека" subtitle="Пісні, альбоми, виконавці, жанри, композитори — синхронізація, пошук, редагування метаданих." >}}
+{{< ls-card icon="collection" link="/docs/guide/flacbox/flacbox-guide-music-library" title="Музична бібліотека" subtitle="Пісні, альбоми, виконавці, жанри, композитори — синхронізація, пошук, редагування метаданих." >}}
 
-{{< card icon="music-note" link="/docs/guide/flacbox/flacbox-guide-playlists" title="Плейлисти" subtitle="Створення, імпорт M3U / M3U8 / CUE, зміна порядку та експорт у M3U / CSV / TXT." >}}
+{{< ls-card icon="music-note" link="/docs/guide/flacbox/flacbox-guide-playlists" title="Плейлисти" subtitle="Створення, імпорт M3U / M3U8 / CUE, зміна порядку та експорт у M3U / CSV / TXT." >}}
 
-{{< card icon="folder" link="/docs/guide/flacbox/flacbox-guide-local-files" title="Локальні файли" subtitle="Офлайн музика, USB накопичувачі, Wi-Fi Drive, файловий менеджер, офлайн папки." >}}
+{{< ls-card icon="folder" link="/docs/guide/flacbox/flacbox-guide-local-files" title="Локальні файли" subtitle="Офлайн музика, USB накопичувачі, Wi-Fi Drive, файловий менеджер, офлайн папки." >}}
 
-{{< card icon="play" link="/docs/guide/flacbox/flacbox-guide-player" title="Аудіоплеєр" subtitle="Хай-рез вихід, еквалайзер, висота тону, закладки, AirPlay, Chromecast, швидкість, таймер сну." >}}
+{{< ls-card icon="play" link="/docs/guide/flacbox/flacbox-guide-player" title="Аудіоплеєр" subtitle="Хай-рез вихід, еквалайзер, висота тону, закладки, AirPlay, Chromecast, швидкість, таймер сну." >}}
 
-{{< card icon="adjustments" link="/docs/guide/flacbox/flacbox-guide-settings" title="Налаштування" subtitle="Аудіодвигун, бібліотека, файловий менеджер, CarPlay, віджети, персоналізація, мова, резервне копіювання." >}}
+{{< ls-card icon="adjustments" link="/docs/guide/flacbox/flacbox-guide-settings" title="Налаштування" subtitle="Аудіодвигун, бібліотека, файловий менеджер, CarPlay, віджети, персоналізація, мова, резервне копіювання." >}}
 
-{{< card icon="question-mark-circle" link="/docs/faq/flacbox" title="FAQ" subtitle="Знайдіть відповіді на 50 найпоширеніших питань про Flacbox." >}}
+{{< ls-card icon="question-mark-circle" link="/docs/faq/flacbox" title="FAQ" subtitle="Знайдіть відповіді на 50 найпоширеніших питань про Flacbox." >}}
 
 {{< /cards >}}

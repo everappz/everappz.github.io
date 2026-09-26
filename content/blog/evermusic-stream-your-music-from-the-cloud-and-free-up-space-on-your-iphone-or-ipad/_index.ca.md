@@ -12,7 +12,7 @@ authors:
     image: "/images/about/artem-meleshko-founder-everappz.webp"
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 ![](/blog/evermusic-stream-your-music-from-the-cloud-and-free-up-space-on-your-iphone-or-ipad/21260c_00c5356db3a24db6a6a37e353b774d56~mv2.jpg)
 
@@ -82,22 +82,22 @@ Navega pel teu compte al núvol connectat, obre una carpeta de música i toca un
 
 ## Preguntes freqüents
 
-{{% details title="Evermusic és gratuït?" closed="true" %}}
+{{% ls-details title="Evermusic és gratuït?" closed="true" %}}
 Evermusic és gratuït per descarregar amb funcions premium opcionals. La reproducció al núvol bàsica i la reproducció fora de línia estan disponibles a la versió gratuïta.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Quins serveis al núvol admet Evermusic?" closed="true" %}}
+{{% ls-details title="Quins serveis al núvol admet Evermusic?" closed="true" %}}
 Google Drive, Dropbox, Box, OneDrive, MediaFire, MEGA, Yandex.Disk, pCloud, HiDrive, MyDrive, recursos compartits SMB i servidors WebDAV.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Puc escoltar música fora de línia amb Evermusic?" closed="true" %}}
+{{% ls-details title="Puc escoltar música fora de línia amb Evermusic?" closed="true" %}}
 Sí. Descarrega qualsevol àlbum, artista, llista de reproducció o pista individual per a la reproducció fora de línia directament des de l'aplicació.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Quins formats d'àudio reprodueix Evermusic?" closed="true" %}}
+{{% ls-details title="Quins formats d'àudio reprodueix Evermusic?" closed="true" %}}
 Evermusic admet MP3, FLAC, AAC, WAV, ALAC, AIFF, OPUS, OGG i molts altres formats.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Encara necessito iTunes per transferir música?" closed="true" %}}
+{{% ls-details title="Encara necessito iTunes per transferir música?" closed="true" %}}
 No. Puja la teva música a qualsevol servei al núvol compatible des del teu ordinador, i després reprodueix-la o descarrega-la amb Evermusic al teu iPhone o iPad.
-{{% /details %}}
+{{% /ls-details %}}

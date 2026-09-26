@@ -12,7 +12,7 @@ authors:
     image: "/images/about/artem-meleshko-founder-everappz.webp"
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 **V skratke:** [Evertag 4.2](/products/evertag) je veľká aktualizácia editora audio značiek pre iPhone, iPad a Mac. Vyriešili sme kľúčové chyby pri úprave značiek a pridali viac ako 6 nových cloudových a serverových pripojení — **Internxt**, **Proton Drive**, **QNAP**, **Nextcloud**, **Amazon S3** plus protokoly **FTP**, **SFTP** a **NFS**. Wi-Fi Drive získal osvieženú rozhranie, režim viacnásobného výberu, inteligentnejšiu frontu nahrávania a rýchlejšie prenosy. Celá aplikácia je vyladená pre dizajn **Liquid Glass**. Tento príspevok tiež hlboko skúma nastavenia editora značiek Evertag — vysvetľuje **ID3v2.4 vs ID3v2.3**, **škálovanie obalu albumu**, **duplikovanie značiek**, **režimy nahrávania do cloudu**, **vymazanie stiahnutého súboru** a presne to, ktoré možnosti vybrať, ak pripravujete zvuk pre **Spotify**, **Apple Music**, **Plex**, **Jellyfin** alebo akúkoľvek inú streamovaciu službu.
 
@@ -229,50 +229,50 @@ Ak sa vám aplikácia páči, zanechajte hodnotenie v App Store — naozaj to po
 
 ## Často kladené otázky
 
-{{% details title="Čo je nové v Evertag 4.2?" closed="true" %}}
+{{% ls-details title="Čo je nové v Evertag 4.2?" closed="true" %}}
 Evertag 4.2 pridáva viac ako 6 nových cloudových a serverových pripojení (Internxt, Proton Drive, QNAP, Nextcloud, Amazon S3, FTP, SFTP, NFS), osviežený Wi-Fi Drive s viacnásobným výberom a inteligentnejšou frontou nahrávania, aktualizácie UI Liquid Glass, aktualizované knižnice pripojení, kľúčové opravy chýb úpravy značiek a vylepšenia prekladu.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Mám v Evertagu používať ID3v2.4 alebo ID3v2.3?" closed="true" %}}
+{{% ls-details title="Mám v Evertagu používať ID3v2.4 alebo ID3v2.3?" closed="true" %}}
 Použite **ID3v2.4** pre moderné prehrávače (Evermusic, Plex, Jellyfin, Apple Music, foobar2000, VLC, moderné Android aplikácie) a pre knižnice s nelatinkovými znakmi — podpora UTF-8 znamená čistejšie značky v čínštine, kórejčine, japončine, ruštine, arabčine a hebrejčine. Použite **ID3v2.3**, ak sa vaše značky v niektorých aplikáciách zobrazujú nesprávne, ak cielite na staršie autorádiá alebo ak streamovací distribútor pipeline odmieta v2.4. Vždy môžete prepnúť a uložiť znova.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Prečo sú moje značky po úprave v Spotify nesprávne?" closed="true" %}}
+{{% ls-details title="Prečo sú moje značky po úprave v Spotify nesprávne?" closed="true" %}}
 Spotify zobrazuje prevažne metadáta zo svojho katalógu — vaše lokálne značky sa používajú len pre «Local Files» alebo obsah, ktorý ste nahrali ako interpret. Ak označujete súbory pre Spotify Local Files a nezobrazujú sa správne, skúste vypnúť ID3v2.4 v Evertagu a uložiť ako ID3v2.3 — parser Spotify bol historicky konzervatívny voči v2.4.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Akú veľkosť obalu albumu mám vybrať v Evertagu?" closed="true" %}}
+{{% ls-details title="Akú veľkosť obalu albumu mám vybrať v Evertagu?" closed="true" %}}
 Pre väčšinu používateľov: **Veľký**. Vyzerá skvele na telefónoch, iPadoch, Macoch a moderných auto displejoch bez prílišného nafukovania súborov. Použite **Stredný**, ak máte obrovskú knižnicu a chcete ušetriť disk. Použite **Originálny** (bez škálovania) len pre archívne mastre alebo keď skutočne potrebujete maximálnu kvalitu — ale uvedomte si, že niektoré staršie prehrávače majú problémy s veľmi veľkými vloženými obalmi. **Originálny** je súčasťou prémiovej personalizačnej aktualizácie Evertag.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Zväčšia väčšie obaly albumov moje súbory?" closed="true" %}}
+{{% ls-details title="Zväčšia väčšie obaly albumov moje súbory?" closed="true" %}}
 Áno. Vloženie obalu 3 000 × 3 000 px môže pridať niekoľko megabajtov k jednému audio súboru. V knižnici 1 000 skladieb to dosahuje gigabajty. Ak je úložisko obmedzené, použite Stredný alebo Veľký; ak streamujete z NAS, kde veľkosť nezáleží, Veľmi veľký alebo Originálny sú v poriadku.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Čo je Duplikovanie značiek a mám ho aktivovať?" closed="true" %}}
+{{% ls-details title="Čo je Duplikovanie značiek a mám ho aktivovať?" closed="true" %}}
 Duplikovanie značiek zapisuje základné metadáta do oboch sekcií ID3v1 (legacy 128 bajtov) a ID3v2 (moderná) súboru. Aktivujte ho len ak cielite na veľmi staré prehrávače alebo hardvér, ktorý číta ID3v1. Pre všetko moderné (smartfóny, počítače, novšie autorádiá) ho nechajte vypnuté.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Upravuje Evertag značky priamo v cloudových súboroch?" closed="true" %}}
+{{% ls-details title="Upravuje Evertag značky priamo v cloudových súboroch?" closed="true" %}}
 Áno. Pripojte sa k svojmu cloudu (Google Drive, Dropbox, OneDrive, iCloud Drive, Internxt, Proton Drive, QNAP, Nextcloud, Amazon S3 atď.) alebo cez FTP/SFTP/NFS, otvorte súbor a upravujte značky, akoby bol lokálny. Evertag stiahne súbor, aplikuje vaše úpravy a nahrá aktualizovanú verziu späť. V nastaveniach môžete vybrať medzi režimami «Vždy sa pýtať», «Auto-nahrať» alebo «Nenahrávať».
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Môžem upravovať FLAC značky na iPhone s Evertagom?" closed="true" %}}
+{{% ls-details title="Môžem upravovať FLAC značky na iPhone s Evertagom?" closed="true" %}}
 Áno. Evertag podporuje FLAC, MP3, M4A/MP4, AIFF, WAV, OGG, APE a ďalšie dôležité formáty s plnou podporou čítania/zápisu značiek vrátane vloženého obalu.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Ako bezpečne upravím značky na svojom domácom serveri pomocou SFTP?" closed="true" %}}
+{{% ls-details title="Ako bezpečne upravím značky na svojom domácom serveri pomocou SFTP?" closed="true" %}}
 Otvorte Evertag, prejdite na Pripojenia, vyberte SFTP a zadajte hostname alebo IP servera, port (zvyčajne 22), používateľské meno a heslo alebo súkromný SSH kľúč. Evertag prejde vaše vzdialené priečinky a bude upravovať značky priamo s end-to-end šifrovaním cez SSH.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Môžem upravovať značky vo viacerých súboroch naraz?" closed="true" %}}
+{{% ls-details title="Môžem upravovať značky vo viacerých súboroch naraz?" closed="true" %}}
 Áno. V nastaveniach aktivujte **Upravovať súbory súčasne**. Vyberte viacero súborov, otvorte editor značiek, a akékoľvek pole, ktoré zmeníte, sa aplikuje na všetky vybrané súbory. Toto je najrýchlejší spôsob, ako nastaviť rovnakého album artist, rok alebo žáner v celom albume.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Je aktualizácia na Evertag 4.2 zadarmo?" closed="true" %}}
+{{% ls-details title="Je aktualizácia na Evertag 4.2 zadarmo?" closed="true" %}}
 Áno. Evertag je bezplatné stiahnutie z App Store a 4.2 je bezplatná aktualizácia pre všetkých existujúcich používateľov. Nové cloudové integrácie, vylepšenia Wi-Fi Drive a UI Liquid Glass sú súčasťou základnej aktualizácie.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Na akých zariadeniach je Evertag 4.2 dostupný?" closed="true" %}}
+{{% ls-details title="Na akých zariadeniach je Evertag 4.2 dostupný?" closed="true" %}}
 Evertag 4.2 funguje na iPhone, iPade a Macu. Synchronizácia iCloud Drive udržuje vaše nastavenia editora značiek konzistentné medzi zariadeniami.
-{{% /details %}}
+{{% /ls-details %}}

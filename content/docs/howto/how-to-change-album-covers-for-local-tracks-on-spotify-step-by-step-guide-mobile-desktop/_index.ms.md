@@ -7,7 +7,7 @@ tags: ["spotify", "kulit album", "mp3", "metadata", "editor muzik", "fail tempat
 readingTime: 3
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **Ringkasan:** Spotify tidak membenarkan anda menukar kulit album untuk trek penstriman, tetapi anda boleh mengemas kini karya seni untuk fail tempatan. Aktifkan ciri Fail Tempatan Spotify, salin muzik anda ke folder Spotify, kemudian gunakan aplikasi percuma Evertag untuk mengedit kulit album dan metadata. Perubahan akan muncul di Spotify selepas dimulakan semula.
@@ -25,8 +25,8 @@ Untuk memudahkan, kami akan menunjukkan cara mengedit karya seni album menggunak
 Mulakan dengan memuat turun aplikasi **Evertag** dari App Store. Ia percuma dan tersedia pada kedua-dua **iOS** dan **macOS**.
 
 {{< cards cols="2">}}
-{{< card link="https://apps.apple.com/app/apple-store/id1450763230?pt=95781850&ct=everappzcom&mt=8" title="Evertag untuk iOS" icon="download" tag="Free" >}}
-{{< card link="https://apps.apple.com/app/apple-store/id1594027661?pt=95781850&ct=everappzcom&mt=8" title="Evertag untuk macOS" icon="download" tag="Free" >}}
+{{< ls-card link="https://apps.apple.com/app/apple-store/id1450763230?pt=95781850&ct=everappzcom&mt=8" title="Evertag untuk iOS" icon="download" tag="Free" >}}
+{{< ls-card link="https://apps.apple.com/app/apple-store/id1594027661?pt=95781850&ct=everappzcom&mt=8" title="Evertag untuk macOS" icon="download" tag="Free" >}}
 {{< /cards >}}
 
 ## Aktifkan Pustaka Tempatan di Spotify
@@ -36,7 +36,7 @@ Secara lalai, **Pustaka Fail Tempatan** dinyahdayakan dalam aplikasi Spotify. Ji
 ### Buka Aplikasi Spotify
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Antara muka utama aplikasi Spotify" image="/docs/howto/how-to-change-album-covers-for-local-tracks-on-spotify-step-by-step-guide-mobile-desktop/spotify-main.webp" >}}
+{{< ls-card title="" subtitle="Antara muka utama aplikasi Spotify" image="/docs/howto/how-to-change-album-covers-for-local-tracks-on-spotify-step-by-step-guide-mobile-desktop/spotify-main.webp" >}}
 {{< /cards >}}
 
 ### Ketik pada Ikon Profil Anda
@@ -44,7 +44,7 @@ Secara lalai, **Pustaka Fail Tempatan** dinyahdayakan dalam aplikasi Spotify. Ji
 Lihat di sudut kiri atas skrin utama Spotify dan ketik gambar profil anda untuk membuka menu.
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Avatar dan pilihan Spotify" image="/docs/howto/how-to-change-album-covers-for-local-tracks-on-spotify-step-by-step-guide-mobile-desktop/spotify-avatar-options.webp" >}}
+{{< ls-card title="" subtitle="Avatar dan pilihan Spotify" image="/docs/howto/how-to-change-album-covers-for-local-tracks-on-spotify-step-by-step-guide-mobile-desktop/spotify-avatar-options.webp" >}}
 {{< /cards >}}
 
 ### Pilih «Tetapan dan Privasi»
@@ -52,7 +52,7 @@ Lihat di sudut kiri atas skrin utama Spotify dan ketik gambar profil anda untuk 
 Tatal ke bawah dalam menu dan pilih **Tetapan dan Privasi** untuk membuka senarai penuh pilihan.
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Menu tetapan Spotify" image="/docs/howto/how-to-change-album-covers-for-local-tracks-on-spotify-step-by-step-guide-mobile-desktop/spotify-settings.webp" >}}
+{{< ls-card title="" subtitle="Menu tetapan Spotify" image="/docs/howto/how-to-change-album-covers-for-local-tracks-on-spotify-step-by-step-guide-mobile-desktop/spotify-settings.webp" >}}
 {{< /cards >}}
 
 ### Pilih «Aplikasi dan Peranti»
@@ -60,7 +60,7 @@ Tatal ke bawah dalam menu dan pilih **Tetapan dan Privasi** untuk membuka senara
 Cari dan ketik item menu **Aplikasi dan Peranti** untuk melihat tetapan integrasi peranti.
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Aplikasi dan peranti Spotify" image="/docs/howto/how-to-change-album-covers-for-local-tracks-on-spotify-step-by-step-guide-mobile-desktop/spotify-apps-and-devices.webp" >}}
+{{< ls-card title="" subtitle="Aplikasi dan peranti Spotify" image="/docs/howto/how-to-change-album-covers-for-local-tracks-on-spotify-step-by-step-guide-mobile-desktop/spotify-apps-and-devices.webp" >}}
 {{< /cards >}}
 
 ### Hidupkan «Fail Audio Tempatan»
@@ -68,7 +68,7 @@ Cari dan ketik item menu **Aplikasi dan Peranti** untuk melihat tetapan integras
 Hidupkan suis untuk **Fail Audio Tempatan**. Apabila diminta, berikan Spotify kebenaran untuk mengakses fail muzik anda.
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Berikan Spotify akses kepada fail muzik" image="/docs/howto/how-to-change-album-covers-for-local-tracks-on-spotify-step-by-step-guide-mobile-desktop/spotify-access-to-music.webp" >}}
+{{< ls-card title="" subtitle="Berikan Spotify akses kepada fail muzik" image="/docs/howto/how-to-change-album-covers-for-local-tracks-on-spotify-step-by-step-guide-mobile-desktop/spotify-access-to-music.webp" >}}
 {{< /cards >}}
 
 ### Semak Folder Spotify
@@ -76,7 +76,7 @@ Hidupkan suis untuk **Fail Audio Tempatan**. Apabila diminta, berikan Spotify ke
 Selepas kebenaran diberikan, buka aplikasi **Fail**, pergi ke **Lokasi > Pada iPhone/iPad Saya**, dan cari folder **Spotify**. Di sinilah fail muzik tempatan perlu diletakkan.
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Fail muzik Spotify" image="/docs/howto/how-to-change-album-covers-for-local-tracks-on-spotify-step-by-step-guide-mobile-desktop/files-app-spotify-folder.webp" >}}
+{{< ls-card title="" subtitle="Fail muzik Spotify" image="/docs/howto/how-to-change-album-covers-for-local-tracks-on-spotify-step-by-step-guide-mobile-desktop/files-app-spotify-folder.webp" >}}
 {{< /cards >}}
 
 ## Letakkan Fail Muzik ke Folder Pustaka Tempatan Spotify
@@ -90,7 +90,7 @@ Di bawah adalah arahan menggunakan kaedah aplikasi **Fail**.
 ### Buka Aplikasi Fail – Lokasi – Pada Peranti Ini
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Folder Spotify" image="/docs/howto/how-to-change-album-covers-for-local-tracks-on-spotify-step-by-step-guide-mobile-desktop/files-app-spotify-folder.webp" >}}
+{{< ls-card title="" subtitle="Folder Spotify" image="/docs/howto/how-to-change-album-covers-for-local-tracks-on-spotify-step-by-step-guide-mobile-desktop/files-app-spotify-folder.webp" >}}
 {{< /cards >}}
 
 ### Salin Folder Muzik
@@ -98,7 +98,7 @@ Di bawah adalah arahan menggunakan kaedah aplikasi **Fail**.
 Navigasi ke folder **Muzik** anda. Ketik dan tahan untuk membuka menu konteks, kemudian pilih **Salin**.
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Akses pilihan folder dalam aplikasi Fail" image="/docs/howto/how-to-change-album-covers-for-local-tracks-on-spotify-step-by-step-guide-mobile-desktop/files-app-folder-options.webp" >}}
+{{< ls-card title="" subtitle="Akses pilihan folder dalam aplikasi Fail" image="/docs/howto/how-to-change-album-covers-for-local-tracks-on-spotify-step-by-step-guide-mobile-desktop/files-app-folder-options.webp" >}}
 {{< /cards >}}
 
 ### Tampal Folder Muzik
@@ -106,7 +106,7 @@ Navigasi ke folder **Muzik** anda. Ketik dan tahan untuk membuka menu konteks, k
 Navigasi ke folder **Spotify**, ketik dan tahan pada kawasan kosong, dan pilih **Tampal** dari menu konteks.
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Tampal folder ke lokasi destinasi" image="/docs/howto/how-to-change-album-covers-for-local-tracks-on-spotify-step-by-step-guide-mobile-desktop/files-app-paste-folder.webp" >}}
+{{< ls-card title="" subtitle="Tampal folder ke lokasi destinasi" image="/docs/howto/how-to-change-album-covers-for-local-tracks-on-spotify-step-by-step-guide-mobile-desktop/files-app-paste-folder.webp" >}}
 {{< /cards >}}
 
 ### Tunggu Proses Penyalinan
@@ -114,7 +114,7 @@ Navigasi ke folder **Spotify**, ketik dan tahan pada kawasan kosong, dan pilih *
 Tunggu sehingga sistem selesai menyalin folder muzik anda ke direktori tempatan Spotify.
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Menyalin fail muzik menggunakan aplikasi Fail" image="/docs/howto/how-to-change-album-covers-for-local-tracks-on-spotify-step-by-step-guide-mobile-desktop/files-app-copying-music.webp" >}}
+{{< ls-card title="" subtitle="Menyalin fail muzik menggunakan aplikasi Fail" image="/docs/howto/how-to-change-album-covers-for-local-tracks-on-spotify-step-by-step-guide-mobile-desktop/files-app-copying-music.webp" >}}
 {{< /cards >}}
 
 ### Buka Pustaka Tempatan Spotify
@@ -122,7 +122,7 @@ Tunggu sehingga sistem selesai menyalin folder muzik anda ke direktori tempatan 
 Sekarang kembali ke aplikasi Spotify. Ketik **Pustaka Anda > Fail Tempatan**, dan anda akan melihat fail muzik yang baru anda salin.
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Spotify memaparkan pustaka muzik tempatan" image="/docs/howto/how-to-change-album-covers-for-local-tracks-on-spotify-step-by-step-guide-mobile-desktop/spotify-local-music-library.webp" >}}
+{{< ls-card title="" subtitle="Spotify memaparkan pustaka muzik tempatan" image="/docs/howto/how-to-change-album-covers-for-local-tracks-on-spotify-step-by-step-guide-mobile-desktop/spotify-local-music-library.webp" >}}
 {{< /cards >}}
 
 ## Sambungkan Folder Spotify dalam Aplikasi Evertag
@@ -149,26 +149,26 @@ Anda boleh mengedit metadata terus dari folder tanpa mengimport fail.
 - Tatal ke **Fail pada Peranti Ini** di bar sisi
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Lihat semua folder peranti dalam Evertag" image="/docs/howto/how-to-change-album-covers-for-local-tracks-on-spotify-step-by-step-guide-mobile-desktop/evertag-all-device-folders.webp" >}}
+{{< ls-card title="" subtitle="Lihat semua folder peranti dalam Evertag" image="/docs/howto/how-to-change-album-covers-for-local-tracks-on-spotify-step-by-step-guide-mobile-desktop/evertag-all-device-folders.webp" >}}
 {{< /cards >}}
 
 - Ketik **Semua Folder Peranti**
 - Ketik **Sambungkan Folder**
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Sambungkan folder menggunakan pemilih fail" image="/docs/howto/how-to-change-album-covers-for-local-tracks-on-spotify-step-by-step-guide-mobile-desktop/evertag-connect-folder-files-picker.webp" >}}
+{{< ls-card title="" subtitle="Sambungkan folder menggunakan pemilih fail" image="/docs/howto/how-to-change-album-covers-for-local-tracks-on-spotify-step-by-step-guide-mobile-desktop/evertag-connect-folder-files-picker.webp" >}}
 {{< /cards >}}
 
 - Pilih folder **Spotify** dan ketik **Buka** untuk mengesahkan
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Sambungkan folder dengan fail tempatan Spotify" image="/docs/howto/how-to-change-album-covers-for-local-tracks-on-spotify-step-by-step-guide-mobile-desktop/evertag-connect-folder-spotify-local.webp" >}}
+{{< ls-card title="" subtitle="Sambungkan folder dengan fail tempatan Spotify" image="/docs/howto/how-to-change-album-covers-for-local-tracks-on-spotify-step-by-step-guide-mobile-desktop/evertag-connect-folder-spotify-local.webp" >}}
 {{< /cards >}}
 
 - Ketik folder yang disambungkan untuk melihat dan mengedit kandungannya
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Folder berjaya disambungkan dalam Evertag" image="/docs/howto/how-to-change-album-covers-for-local-tracks-on-spotify-step-by-step-guide-mobile-desktop/evertag-connected-folder.webp" >}}
+{{< ls-card title="" subtitle="Folder berjaya disambungkan dalam Evertag" image="/docs/howto/how-to-change-album-covers-for-local-tracks-on-spotify-step-by-step-guide-mobile-desktop/evertag-connected-folder.webp" >}}
 {{< /cards >}}
 
 ## Editor Tag
@@ -176,7 +176,7 @@ Anda boleh mengedit metadata terus dari folder tanpa mengimport fail.
 **Editor Tag** adalah ruang kerja utama di mana anda melihat dan mengubah suai metadata fail audio anda.
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Layari kandungan folder yang disambungkan" image="/docs/howto/how-to-change-album-covers-for-local-tracks-on-spotify-step-by-step-guide-mobile-desktop/evertag-connected-folder-content.webp" >}}
+{{< ls-card title="" subtitle="Layari kandungan folder yang disambungkan" image="/docs/howto/how-to-change-album-covers-for-local-tracks-on-spotify-step-by-step-guide-mobile-desktop/evertag-connected-folder-content.webp" >}}
 {{< /cards >}}
 
 ## Mod Pengeditan
@@ -221,25 +221,25 @@ Untuk menggantikan atau menambah karya seni album baharu:
 1. Ketik **ikon Kamera** pada karusel karya seni
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Pilih foto kulit album tersuai" image="/docs/howto/how-to-change-album-covers-for-local-tracks-on-spotify-step-by-step-guide-mobile-desktop/evertag-choose-photo.webp" >}}
+{{< ls-card title="" subtitle="Pilih foto kulit album tersuai" image="/docs/howto/how-to-change-album-covers-for-local-tracks-on-spotify-step-by-step-guide-mobile-desktop/evertag-choose-photo.webp" >}}
 {{< /cards >}}
 
 2. Pilih sumber imej (Pustaka Foto, Fail Tempatan, Awan)
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Akses pustaka foto untuk memilih karya seni" image="/docs/howto/how-to-change-album-covers-for-local-tracks-on-spotify-step-by-step-guide-mobile-desktop/evertag-photo-library.webp" >}}
+{{< ls-card title="" subtitle="Akses pustaka foto untuk memilih karya seni" image="/docs/howto/how-to-change-album-covers-for-local-tracks-on-spotify-step-by-step-guide-mobile-desktop/evertag-photo-library.webp" >}}
 {{< /cards >}}
 
 3. Pilih imej untuk digunakan sebagai kulit
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Pratonton kulit album yang diedit" image="/docs/howto/how-to-change-album-covers-for-local-tracks-on-spotify-step-by-step-guide-mobile-desktop/evertag-edited-album-cover.webp" >}}
+{{< ls-card title="" subtitle="Pratonton kulit album yang diedit" image="/docs/howto/how-to-change-album-covers-for-local-tracks-on-spotify-step-by-step-guide-mobile-desktop/evertag-edited-album-cover.webp" >}}
 {{< /cards >}}
 
 4. Ketik **Simpan** untuk menerapkan perubahan
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Simpan tag audio yang dikemas kini" image="/docs/howto/how-to-change-album-covers-for-local-tracks-on-spotify-step-by-step-guide-mobile-desktop/evertag-save-tags.webp" >}}
+{{< ls-card title="" subtitle="Simpan tag audio yang dikemas kini" image="/docs/howto/how-to-change-album-covers-for-local-tracks-on-spotify-step-by-step-guide-mobile-desktop/evertag-save-tags.webp" >}}
 {{< /cards >}}
 
 ## Kemas Kini Pustaka Spotify
@@ -247,7 +247,7 @@ Untuk menggantikan atau menambah karya seni album baharu:
 Selepas menyimpan tag anda, kembali ke aplikasi Spotify.
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Layari pustaka muzik Spotify" image="/docs/howto/how-to-change-album-covers-for-local-tracks-on-spotify-step-by-step-guide-mobile-desktop/spotify-library.webp" >}}
+{{< ls-card title="" subtitle="Layari pustaka muzik Spotify" image="/docs/howto/how-to-change-album-covers-for-local-tracks-on-spotify-step-by-step-guide-mobile-desktop/spotify-library.webp" >}}
 {{< /cards >}}
 
 Buka bahagian **Fail Tempatan** sekali lagi. Anda sepatutnya melihat karya seni dan tag yang dikemas kini untuk trek tempatan anda.
@@ -255,7 +255,7 @@ Buka bahagian **Fail Tempatan** sekali lagi. Anda sepatutnya melihat karya seni 
 > Jika kemas kini tidak muncul serta-merta, **paksa tutup Spotify** dan buka semula. Ini mencetuskan penyegaran metadata.
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Trek yang sedang dimainkan dengan tag yang diedit" image="/docs/howto/how-to-change-album-covers-for-local-tracks-on-spotify-step-by-step-guide-mobile-desktop/spotify-playing-edited-tag.webp" >}}
+{{< ls-card title="" subtitle="Trek yang sedang dimainkan dengan tag yang diedit" image="/docs/howto/how-to-change-album-covers-for-local-tracks-on-spotify-step-by-step-guide-mobile-desktop/spotify-playing-edited-tag.webp" >}}
 {{< /cards >}}
 
 ## Kesimpulan
@@ -268,26 +268,26 @@ Perlukan bantuan untuk menandai fail FLAC, MP3 atau format berkualiti tinggi lai
 
 ## Soalan Lazim
 
-{{% details title="Bolehkah saya menukar kulit album untuk trek penstriman Spotify?" closed="true" %}}
+{{% ls-details title="Bolehkah saya menukar kulit album untuk trek penstriman Spotify?" closed="true" %}}
 Tidak. Spotify tidak membenarkan menukar karya seni untuk trek dalam katalog penstrimannya. Anda hanya boleh mengedit kulit album untuk fail tempatan yang ditambahkan ke pustaka Spotify anda.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Adakah Evertag percuma?" closed="true" %}}
+{{% ls-details title="Adakah Evertag percuma?" closed="true" %}}
 Ya. Evertag percuma untuk dimuat turun dan digunakan pada iOS dan macOS. Ia menyokong lebih 120 tag audio dan 30+ format fail.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Format audio apa yang disokong Evertag?" closed="true" %}}
+{{% ls-details title="Format audio apa yang disokong Evertag?" closed="true" %}}
 Evertag menyokong 30+ format termasuk MP3, FLAC, AAC, ALAC, WAV, AIFF, OGG, WMA dan banyak lagi.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Mengapa Spotify tidak memaparkan kulit album saya yang dikemas kini?" closed="true" %}}
+{{% ls-details title="Mengapa Spotify tidak memaparkan kulit album saya yang dikemas kini?" closed="true" %}}
 Paksa tutup aplikasi Spotify dan buka semula. Spotify menyimpan cache metadata dan memerlukan dimulakan semula untuk mengesan perubahan pada fail tempatan.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Bolehkah saya mengedit tag untuk berbilang fail sekaligus?" closed="true" %}}
+{{% ls-details title="Bolehkah saya mengedit tag untuk berbilang fail sekaligus?" closed="true" %}}
 Ya. Evertag menyokong pengeditan kelompok. Pilih berbilang fail dan ketik «Edit beberapa fail secara serentak» untuk mengemas kini tag dan karya seni untuk semua trek yang dipilih sekaligus.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Perlukah saya menyalin fail ke folder Spotify?" closed="true" %}}
+{{% ls-details title="Perlukah saya menyalin fail ke folder Spotify?" closed="true" %}}
 Ya. Spotify hanya membaca fail tempatan dari folder khususnya. Salin atau pindahkan fail muzik anda ke folder Spotify pada peranti anda, kemudian aktifkan suis Fail Audio Tempatan dalam tetapan Spotify.
-{{% /details %}}
+{{% /ls-details %}}

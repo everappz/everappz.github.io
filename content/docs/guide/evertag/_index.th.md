@@ -55,17 +55,17 @@ Evertag มีโปรแกรมจัดการไฟล์ในตัว
 ในคู่มือนี้ คุณจะได้เรียนรู้วิธีใช้ประโยชน์จาก Evertag บน iPhone, iPad และ Mac ของคุณ เพื่อให้ประสบการณ์การจัดการเพลงของคุณราบรื่นและสนุกสนาน
 
 {{< cards >}}
-  {{< card icon="location-marker" title="การนำทาง" subtitle="เรียนรู้วิธีนำทางในแอปของเราได้อย่างง่ายดายโดยใช้แถบแท็บ (สำหรับผู้ใช้ iPhone) หรือเมนูด้านซ้าย (สำหรับผู้ใช้ iPad และ Mac) เพื่อเข้าถึงและสำรวจฟีเจอร์ทั้งหมดของแอป" link="/docs/guide/evertag/evertag-guide-navigation" >}}
+  {{< ls-card icon="location-marker" title="การนำทาง" subtitle="เรียนรู้วิธีนำทางในแอปของเราได้อย่างง่ายดายโดยใช้แถบแท็บ (สำหรับผู้ใช้ iPhone) หรือเมนูด้านซ้าย (สำหรับผู้ใช้ iPad และ Mac) เพื่อเข้าถึงและสำรวจฟีเจอร์ทั้งหมดของแอป" link="/docs/guide/evertag/evertag-guide-navigation" >}}
 
-  {{< card icon="cloud" title="การเชื่อมต่อ" subtitle="เชื่อมต่อบัญชีคลาวด์ทั้งหมดที่มีอยู่กับไฟล์เสียงอันมีค่าของคุณได้อย่างง่ายดาย คุณยังสามารถแก้ไขไฟล์ออนไลน์ได้อย่างง่ายดายโดยใช้โปรแกรมจัดการไฟล์ในตัวของเรา" link="/docs/guide/evertag/evertag-guide-connections" >}}
+  {{< ls-card icon="cloud" title="การเชื่อมต่อ" subtitle="เชื่อมต่อบัญชีคลาวด์ทั้งหมดที่มีอยู่กับไฟล์เสียงอันมีค่าของคุณได้อย่างง่ายดาย คุณยังสามารถแก้ไขไฟล์ออนไลน์ได้อย่างง่ายดายโดยใช้โปรแกรมจัดการไฟล์ในตัวของเรา" link="/docs/guide/evertag/evertag-guide-connections" >}}
 
-  {{< card icon="folder" title="ไฟล์ในเครื่อง" subtitle="ดูและจัดระเบียบไฟล์ที่จัดเก็บในโฟลเดอร์เอกสารของแอปหรือบนอุปกรณ์ของคุณ ใช้โปรแกรมจัดการไฟล์ในตัวเพื่อแก้ไขและจัดการไฟล์เสียงได้อย่างง่ายดาย" link="/docs/guide/evertag/evertag-guide-local-files" >}}
+  {{< ls-card icon="folder" title="ไฟล์ในเครื่อง" subtitle="ดูและจัดระเบียบไฟล์ที่จัดเก็บในโฟลเดอร์เอกสารของแอปหรือบนอุปกรณ์ของคุณ ใช้โปรแกรมจัดการไฟล์ในตัวเพื่อแก้ไขและจัดการไฟล์เสียงได้อย่างง่ายดาย" link="/docs/guide/evertag/evertag-guide-local-files" >}}
 
-  {{< card icon="pencil-alt" title="โปรแกรมแก้ไขแท็ก" subtitle="เชี่ยวชาญการจัดการข้อมูลเมตาของไฟล์เสียง ค้นพบวิธีแก้ไขข้อมูลเมตา เปลี่ยนปกอัลบั้ม และจัดการหลายไฟล์พร้อมกันได้อย่างราบรื่น" link="/docs/guide/evertag/evertag-guide-tag-editor" >}}
+  {{< ls-card icon="pencil-alt" title="โปรแกรมแก้ไขแท็ก" subtitle="เชี่ยวชาญการจัดการข้อมูลเมตาของไฟล์เสียง ค้นพบวิธีแก้ไขข้อมูลเมตา เปลี่ยนปกอัลบั้ม และจัดการหลายไฟล์พร้อมกันได้อย่างราบรื่น" link="/docs/guide/evertag/evertag-guide-tag-editor" >}}
 
-  {{< card icon="code" title="การแมปฟิลด์แท็ก" subtitle="สำรวจรายการฟิลด์แท็กเสียงทั้งหมดที่รองรับโดยแอป Evertag รวมถึงชื่อฟิลด์ภายในและการแมปในรูปแบบข้อมูลเมตาหลัก" link="/docs/guide/evertag/evertag-tag-field-mappings" >}}
+  {{< ls-card icon="code" title="การแมปฟิลด์แท็ก" subtitle="สำรวจรายการฟิลด์แท็กเสียงทั้งหมดที่รองรับโดยแอป Evertag รวมถึงชื่อฟิลด์ภายในและการแมปในรูปแบบข้อมูลเมตาหลัก" link="/docs/guide/evertag/evertag-tag-field-mappings" >}}
 
-  {{< card icon="adjustments" title="การตั้งค่า" subtitle="ค้นพบวิธีปรับแต่งประสบการณ์การใช้แอป ปรับประสิทธิภาพ จัดการการใช้ข้อมูล และปรับแต่งการตั้งค่าภาษาและอินเทอร์เฟซผู้ใช้ตามความต้องการของคุณ" link="/docs/guide/evertag/evertag-guide-settings" >}}
+  {{< ls-card icon="adjustments" title="การตั้งค่า" subtitle="ค้นพบวิธีปรับแต่งประสบการณ์การใช้แอป ปรับประสิทธิภาพ จัดการการใช้ข้อมูล และปรับแต่งการตั้งค่าภาษาและอินเทอร์เฟซผู้ใช้ตามความต้องการของคุณ" link="/docs/guide/evertag/evertag-guide-settings" >}}
 
-  {{< card icon="question-mark-circle" title="FAQ" subtitle="ค้นหาคำตอบด่วนสำหรับคำถามทั่วไปในส่วน FAQ ของเรา" link="/docs/faq/evertag" >}}
+  {{< ls-card icon="question-mark-circle" title="FAQ" subtitle="ค้นหาคำตอบด่วนสำหรับคำถามทั่วไปในส่วน FAQ ของเรา" link="/docs/faq/evertag" >}}
 {{< /cards >}}

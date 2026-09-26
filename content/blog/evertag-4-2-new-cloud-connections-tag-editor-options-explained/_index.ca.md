@@ -12,7 +12,7 @@ authors:
     image: "/images/about/artem-meleshko-founder-everappz.webp"
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 **TL;DR:** [Evertag 4.2](/products/evertag) és una actualització important de l'editor d'etiquetes d'àudio per a iPhone, iPad i Mac. Hem eliminat errors clau d'edició d'etiquetes i hem afegit més de 6 noves connexions al núvol i a servidors — **Internxt**, **Proton Drive**, **QNAP**, **Nextcloud**, **Amazon S3**, a més dels protocols **FTP**, **SFTP** i **NFS**. Wi-Fi Drive estrena interfície renovada, mode de selecció múltiple, una cua de pujada més intel·ligent i transferències més ràpides. Tota l'app s'ajusta al disseny **Liquid Glass**. Aquesta entrada també aprofundeix en les opcions de l'editor d'etiquetes d'Evertag — explicant **ID3v2.4 vs ID3v2.3**, **escalat de la coberta**, **etiquetes duplicades**, **modes de pujada al núvol**, **eliminació del fitxer baixat** i exactament quines opcions triar si prepares àudio per a **Spotify**, **Apple Music**, **Plex**, **Jellyfin** o qualsevol altre servei de streaming.
 
@@ -229,50 +229,50 @@ Si t'agrada l'app, deixa una valoració a l'App Store — ens ajuda molt. Tens c
 
 ## Preguntes freqüents
 
-{{% details title="Què hi ha de nou a Evertag 4.2?" closed="true" %}}
+{{% ls-details title="Què hi ha de nou a Evertag 4.2?" closed="true" %}}
 Evertag 4.2 afegeix més de 6 noves connexions al núvol i a servidors (Internxt, Proton Drive, QNAP, Nextcloud, Amazon S3, FTP, SFTP, NFS), un Wi-Fi Drive renovat amb selecció múltiple i cua de pujada més intel·ligent, actualitzacions de la interfície Liquid Glass, biblioteques de connexió actualitzades, correccions clau en l'edició d'etiquetes i millores en la traducció.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="He d'usar ID3v2.4 o ID3v2.3 a Evertag?" closed="true" %}}
+{{% ls-details title="He d'usar ID3v2.4 o ID3v2.3 a Evertag?" closed="true" %}}
 Utilitza **ID3v2.4** per a reproductors moderns (Evermusic, Plex, Jellyfin, Apple Music, foobar2000, VLC, apps Android modernes) i per a biblioteques amb caràcters no llatins — el suport UTF-8 implica etiquetes més netes en xinès, coreà, japonès, rus, àrab i hebreu. Utilitza **ID3v2.3** si les teves etiquetes es veuen incorrectament en algunes apps, si apuntes a equips de cotxe antics o si una canonada de distribuïdor de streaming rebutja v2.4. Sempre pots canviar i tornar a desar.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Per què les meves etiquetes són incorrectes a Spotify després d'editar?" closed="true" %}}
+{{% ls-details title="Per què les meves etiquetes són incorrectes a Spotify després d'editar?" closed="true" %}}
 Spotify mostra principalment metadades del seu propi catàleg — les teves etiquetes locals només s'usen per a «Local Files» o per a contingut que has pujat com a artista. Si etiquetes fitxers per a Fitxers locals de Spotify i no apareixen correctament, prova a desactivar ID3v2.4 a Evertag i desar com a ID3v2.3 — l'analitzador de Spotify ha estat històricament conservador amb v2.4.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Quina mida de coberta hauria de triar a Evertag?" closed="true" %}}
+{{% ls-details title="Quina mida de coberta hauria de triar a Evertag?" closed="true" %}}
 Per a la majoria d'usuaris: **Gran**. Es veu fantàstic en telèfons, iPads, Macs i pantalles de cotxe modernes sense inflar massa els fitxers. Utilitza **Mitjana** si tens una biblioteca enorme i vols estalviar disc. Utilitza **Original** (sense escalat) només per a màsters d'arxiu o quan necessites màxima qualitat — però tingues en compte que alguns reproductors antics tenen problemes amb cobertes incrustades molt grans. **Original** forma part de la millora de personalització premium d'Evertag.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Les cobertes més grans faran els meus fitxers més grans?" closed="true" %}}
+{{% ls-details title="Les cobertes més grans faran els meus fitxers més grans?" closed="true" %}}
 Sí. Incrustar una coberta de 3.000 × 3.000 px pot afegir diversos megabytes a un sol fitxer d'àudio. Sobre una biblioteca de 1.000 pistes, això suma gigabytes. Si vas just d'emmagatzematge, utilitza Mitjana o Gran; si reprodueixes des d'un NAS on la mida no importa, Extra gran o Original van bé.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Què són les etiquetes duplicades i hauria d'activar-les?" closed="true" %}}
+{{% ls-details title="Què són les etiquetes duplicades i hauria d'activar-les?" closed="true" %}}
 Les etiquetes duplicades escriuen les metadades centrals a les seccions ID3v1 (llegat de 128 bytes) i ID3v2 (moderna) del fitxer. Activa-les només si apuntes a reproductors molt antics o maquinari que llegeix ID3v1. Per a tot allò modern (smartphones, ordinadors, equips de cotxe recents), deixa-les desactivades.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Evertag edita les etiquetes directament en fitxers al núvol?" closed="true" %}}
+{{% ls-details title="Evertag edita les etiquetes directament en fitxers al núvol?" closed="true" %}}
 Sí. Connecta't al teu núvol (Google Drive, Dropbox, OneDrive, iCloud Drive, Internxt, Proton Drive, QNAP, Nextcloud, Amazon S3, etc.) o via FTP/SFTP/NFS, obre un fitxer i edita les etiquetes com si fos local. Evertag descarrega el fitxer, aplica els teus canvis i torna a pujar la versió actualitzada. Pots triar entre els modes «Preguntar sempre», «Pujar automàticament» o «No pujar» a la configuració.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Puc editar etiquetes FLAC a iPhone amb Evertag?" closed="true" %}}
+{{% ls-details title="Puc editar etiquetes FLAC a iPhone amb Evertag?" closed="true" %}}
 Sí. Evertag admet FLAC, MP3, M4A/MP4, AIFF, WAV, OGG, APE i altres formats importants amb suport complet de lectura/escriptura d'etiquetes, incloent coberta incrustada.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Com edito etiquetes de manera segura al meu servidor domèstic amb SFTP?" closed="true" %}}
+{{% ls-details title="Com edito etiquetes de manera segura al meu servidor domèstic amb SFTP?" closed="true" %}}
 Obre Evertag, ves a Connexions, tria SFTP i introdueix el nom d'amfitrió o IP del servidor, el port (normalment 22), el nom d'usuari i, o bé una contrasenya, o una clau SSH privada. Evertag mostrarà les teves carpetes remotes i editarà les etiquetes directament amb xifratge d'extrem a extrem sobre SSH.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Puc editar etiquetes en diversos fitxers alhora?" closed="true" %}}
+{{% ls-details title="Puc editar etiquetes en diversos fitxers alhora?" closed="true" %}}
 Sí. Activa **Editar fitxers simultàniament** a la configuració. Selecciona diversos fitxers, obre l'editor d'etiquetes i qualsevol camp que canviïs s'aplicarà a tots els fitxers seleccionats. És la manera més ràpida de fixar el mateix album artist, any o gènere en tot un àlbum.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="L'actualització a Evertag 4.2 és gratuïta?" closed="true" %}}
+{{% ls-details title="L'actualització a Evertag 4.2 és gratuïta?" closed="true" %}}
 Sí. Evertag és una descàrrega gratuïta a l'App Store i la 4.2 és una actualització gratis per a tots els usuaris actuals. Les noves integracions al núvol, les millores de Wi-Fi Drive i la interfície Liquid Glass formen part de l'actualització base.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="En quins dispositius està disponible Evertag 4.2?" closed="true" %}}
+{{% ls-details title="En quins dispositius està disponible Evertag 4.2?" closed="true" %}}
 Evertag 4.2 funciona a iPhone, iPad i Mac. La sincronització amb iCloud Drive manté els teus ajustaments d'edició d'etiquetes consistents entre dispositius.
-{{% /details %}}
+{{% /ls-details %}}

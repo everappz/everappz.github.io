@@ -20,7 +20,7 @@ readingTime: 8
 이 내장 파일 관리자를 사용하면 파일을 편집하고 다양한 방법으로 앱에 오디오 파일을 가져올 수 있습니다.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evermusic 로컬 파일 화면" image="/docs/guide/evermusic/evermusic-guide-local-files/img/local-files-main.webp" >}}
+  {{< ls-card title="" subtitle="Evermusic 로컬 파일 화면" image="/docs/guide/evermusic/evermusic-guide-local-files/img/local-files-main.webp" >}}
 {{< /cards >}}
 
 ## 클라우드 스토리지에서 파일 다운로드
@@ -40,7 +40,7 @@ readingTime: 8
 [여기](/docs/howto/how-to-transfer-files-from-my-mac-to-iphone-or-ipad-using-finder)에 설명된 대로 케이블 연결을 사용하여 파일을 전송합니다.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="iTunes / Finder File Sharing" image="/docs/guide/evermusic/evermusic-guide-local-files/img/local-files-itunes-file-sharing.webp" >}}
+  {{< ls-card title="" subtitle="iTunes / Finder File Sharing" image="/docs/guide/evermusic/evermusic-guide-local-files/img/local-files-itunes-file-sharing.webp" >}}
 {{< /cards >}}
 
 ## Wi-Fi Drive
@@ -48,7 +48,7 @@ readingTime: 8
 [여기](/docs/howto/how-to-transfer-files-wirelessly-from-a-computer-to-an-iphone-using-wifi-drive)에 설명된 대로 무선으로 파일을 전송합니다.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Wi-Fi Drive 서버 설정" image="/docs/guide/evermusic/evermusic-guide-local-files/img/local-files-wifidrive-settings.webp" >}}
+  {{< ls-card title="" subtitle="Wi-Fi Drive 서버 설정" image="/docs/guide/evermusic/evermusic-guide-local-files/img/local-files-wifidrive-settings.webp" >}}
 {{< /cards >}}
 
 ## 전송 대기열
@@ -56,7 +56,7 @@ readingTime: 8
 탐색 바의 왼쪽 상단 모서리에서 '전송' 버튼을 찾을 수 있습니다. 탭하여 전송 대기열에 접근하고, 모든 다운로드 및 업로드를 모니터링하고 관리할 수 있습니다. 또한 앱 설정에서 전송 대기열 속도와 네트워크 유형을 유연하게 조정할 수 있습니다.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="파일 전송 대기열" image="/docs/guide/evermusic/evermusic-guide-local-files/img/local-files-file-transfers.webp" >}}
+  {{< ls-card title="" subtitle="파일 전송 대기열" image="/docs/guide/evermusic/evermusic-guide-local-files/img/local-files-file-transfers.webp" >}}
 {{< /cards >}}
 
 ## 빠른 접근 섹션
@@ -68,7 +68,7 @@ readingTime: 8
 이 섹션은 최근에 열린 모든 파일이나 폴더를 표시합니다.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="최근 열린 파일 및 폴더" image="/docs/guide/evermusic/evermusic-guide-local-files/img/local-files-recents.webp" >}}
+  {{< ls-card title="" subtitle="최근 열린 파일 및 폴더" image="/docs/guide/evermusic/evermusic-guide-local-files/img/local-files-recents.webp" >}}
 {{< /cards >}}
 
 ## 즐겨찾기
@@ -76,7 +76,7 @@ readingTime: 8
 파일이나 폴더를 즐겨찾기로 표시하고 이 섹션에서 접근할 수 있습니다. 또한 기기에 있는 폴더를 즐겨찾기에 추가할 수 있습니다. 이를 위해 즐겨찾기 섹션을 열고 오른쪽 상단 모서리의 세 점을 탭한 다음 "폴더 추가" 메뉴 항목을 선택합니다. 안내에 따라 기기의 폴더를 즐겨찾기에 추가하여 빠른 접근이 가능하게 합니다.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="즐겨찾기 — 기기에서 폴더 추가" image="/docs/guide/evermusic/evermusic-guide-local-files/img/local-files-favorites.webp" >}}
+  {{< ls-card title="" subtitle="즐겨찾기 — 기기에서 폴더 추가" image="/docs/guide/evermusic/evermusic-guide-local-files/img/local-files-favorites.webp" >}}
 {{< /cards >}}
 
 ## 상단 도구 모음
@@ -91,7 +91,7 @@ readingTime: 8
 아래로 스와이프하는 제스처를 사용하여 상단 도구 모음을 표시하거나 숨길 수 있습니다.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="현재 폴더의 상단 도구 모음" image="/docs/guide/evermusic/evermusic-guide-local-files/img/local-files-top-toolbar.webp" >}}
+  {{< ls-card title="" subtitle="현재 폴더의 상단 도구 모음" image="/docs/guide/evermusic/evermusic-guide-local-files/img/local-files-top-toolbar.webp" >}}
 {{< /cards >}}
 
 ## 특수 폴더
@@ -128,7 +128,7 @@ readingTime: 8
 기기에 있지만 다른 응용 프로그램에 있는 파일을 표시합니다. 시스템 파일 선택기를 사용하여 이 응용 프로그램으로 가져올 수 있습니다. 선택기를 활성화하려면 파일을 선택하려면 "파일 열기..."를 선택하고 폴더를 선택하려면 "폴더 열기..."를 선택합니다. iPhone 또는 Mac에 저장된 로컬 음악을 가져오는 방법에 대한 자세한 지침은 [여기](/docs/howto/how-to-play-local-music-stored-on-your-iphone-or-mac)에서 확인할 수 있습니다. 기기에 있는 폴더를 연결하고 폴더 내용에 빠르게 접근할 수도 있습니다. "폴더 연결" 메뉴 항목을 사용하여 기기에 있는 폴더를 선택합니다. "완료됨"을 탭하면 앱이 읽기/쓰기 권한으로 해당 폴더에 대한 링크를 만들어 이 앱에서 직접 파일을 관리할 수 있습니다. 기기에 있는 폴더 연결을 끊으려면 "추가 작업" 버튼을 탭하고 "연결 끊기"를 선택합니다.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="이 iPhone / iPad / Mac의 파일" image="/docs/guide/evermusic/evermusic-guide-local-files/img/local-files-on-this-device.webp" >}}
+  {{< ls-card title="" subtitle="이 iPhone / iPad / Mac의 파일" image="/docs/guide/evermusic/evermusic-guide-local-files/img/local-files-on-this-device.webp" >}}
 {{< /cards >}}
 
 ## 연결된 USB 플래시 카드에 있는 파일 가져오기
@@ -151,7 +151,7 @@ iPhone에 USB 플래시 카드를 연결하고 음악을 듣거나 파일을 관
 여러 파일을 편집해야 하는 경우, 탐색 바의 오른쪽 상단 모서리에 있는 추가 작업 버튼 "..."을 탭한 다음 "선택하다" 메뉴 항목을 선택하여 선택 모드를 활성화합니다. 이렇게 하면 각 파일 옆에 체크박스가 표시됩니다. 체크박스를 탭하여 원하는 파일을 선택합니다. 선택한 파일에 대해 다음 작업을 수행할 수 있습니다.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="로컬 파일에 대한 선택 모드 작업" image="/docs/guide/evermusic/evermusic-guide-local-files/img/local-files-selection-mode.webp" >}}
+  {{< ls-card title="" subtitle="로컬 파일에 대한 선택 모드 작업" image="/docs/guide/evermusic/evermusic-guide-local-files/img/local-files-selection-mode.webp" >}}
 {{< /cards >}}
 
 - **다음에 재생:** 선택한 파일이나 폴더를 현재 정렬 순서로 플레이어 대기열의 상단에 추가합니다.
@@ -186,7 +186,7 @@ iPhone에 USB 플래시 카드를 연결하고 음악을 듣거나 파일을 관
 ## 오프라인 폴더
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="오프라인 폴더 추가 작업 메뉴" image="/docs/guide/evermusic/evermusic-guide-local-files/img/local-files-offline-folders.webp" >}}
+  {{< ls-card title="" subtitle="오프라인 폴더 추가 작업 메뉴" image="/docs/guide/evermusic/evermusic-guide-local-files/img/local-files-offline-folders.webp" >}}
 {{< /cards >}}
 
 오프라인 모드는 인터넷에 연결되지 않았을 때도 즐겨찾는 음악에 접근할 수 있게 해주는 편리한 기능입니다. 앨범, 아티스트, 플레이리스트, 장르, 또는 원격 폴더에 대해 오프라인 모드를 활성화하면 해당 컬렉션 내의 모든 파일이 자동으로 기기에 다운로드되어 오프라인 재생이 가능해집니다. 앱의 "오프라인 폴더" 섹션에서 이러한 파일에 편리하게 접근할 수 있습니다.
@@ -204,7 +204,7 @@ Evermusic 및 Flacbox에서 오프라인 음악을 재생하는 방법: 클라�
 로컬 파일 화면의 거의 모든 동작 — 네트워크 대역폭부터 다운로드 위치, 썸네일 캐시 방법까지 — 은 **설정 → 파일 관리자**에서 구성할 수 있습니다. 전송 속도를 세밀하게 조정하거나, 저장 공간을 절약하거나, 앱을 Wi-Fi 전용으로 제한하고 싶을 때마다 열어보세요.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="파일 관리자 설정 화면" image="/docs/guide/evermusic/evermusic-guide-local-files/img/local-files-file-manager-settings.webp" >}}
+  {{< ls-card title="" subtitle="파일 관리자 설정 화면" image="/docs/guide/evermusic/evermusic-guide-local-files/img/local-files-file-manager-settings.webp" >}}
 {{< /cards >}}
 
 화면에는 명확하게 레이블이 붙은 섹션으로 그룹화된 모든 옵션이 표시됩니다:

@@ -19,7 +19,7 @@ U odjeljku Popisi za reproduciju pronaći ćete korisne alate za upravljanje zbi
 Popisi za reproduciju u Evervideu mogu sadržavati kombinaciju online cloud videozapisa, offline preuzetih datoteka, lokalnih datoteka, videozapisa iz biblioteke Photos i videozapisa iz iOS biblioteke Music — sve u jednom popisu — i reproduciraju se besprijekorno zajedno.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evervideo Popisi za reproduciju u Medijskoj biblioteci" image="/docs/guide/evervideo/img/evervideo-playlists-in-media-library.webp" >}}
+  {{< ls-card title="" subtitle="Evervideo Popisi za reproduciju u Medijskoj biblioteci" image="/docs/guide/evervideo/img/evervideo-playlists-in-media-library.webp" >}}
 {{< /cards >}}
 
 ## Kreiranje popisa za reproduciju

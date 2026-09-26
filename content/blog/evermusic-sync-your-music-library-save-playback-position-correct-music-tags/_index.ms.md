@@ -12,7 +12,7 @@ authors:
     image: "/images/about/artem-meleshko-founder-everappz.webp"
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 ![](/blog/evermusic-sync-your-music-library-save-playback-position-correct-music-tags/21260c_641f376e779e47d4927b43c210d3c87f~mv2.jpeg)
 
@@ -67,22 +67,22 @@ Evermusic mengesan dan membetulkan tag ID3 yang tidak sah atau tidak lengkap men
 
 ## Soalan Lazim
 
-{{% details title="Adakah penyegerakan automatik Evermusic berfungsi dengan semua perkhidmatan awan?" closed="true" %}}
+{{% ls-details title="Adakah penyegerakan automatik Evermusic berfungsi dengan semua perkhidmatan awan?" closed="true" %}}
 Ya. Penyegerakan automatik berfungsi dengan Dropbox, Google Drive, OneDrive, MEGA, WebDAV, dan SMB. Pilih folder yang ingin dipantau dan Evermusic memastikan pustaka anda sentiasa terkini.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Bolehkah Evermusic menyimpan posisi buku audio saya?" closed="true" %}}
+{{% ls-details title="Bolehkah Evermusic menyimpan posisi buku audio saya?" closed="true" %}}
 Ya. Aktifkan penyimpanan posisi main balik dalam tetapan audio. Evermusic mengingati di mana anda berhenti untuk setiap fail, supaya anda boleh menyambung tanpa penanda buku manual.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Bagaimanakah pembacaan metadata latar belakang berfungsi?" closed="true" %}}
+{{% ls-details title="Bagaimanakah pembacaan metadata latar belakang berfungsi?" closed="true" %}}
 Evermusic membaca tag ID3 dan metadata fail di latar belakang semasa anda menggunakan ciri lain. Ia menyusun pustaka anda mengikut Artis, Album, dan Genre secara automatik.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Adakah Evermusic membetulkan tag muzik yang rosak?" closed="true" %}}
+{{% ls-details title="Adakah Evermusic membetulkan tag muzik yang rosak?" closed="true" %}}
 Ya. Ciri pembetulan tag automatik menyemak fail anda terhadap pangkalan data dalam talian dan membetulkan metadata ID3 yang tidak sah, tidak lengkap, atau hilang.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Adakah Evermusic percuma untuk dimuat turun?" closed="true" %}}
+{{% ls-details title="Adakah Evermusic percuma untuk dimuat turun?" closed="true" %}}
 Evermusic percuma untuk dimuat turun dengan ciri premium pilihan yang tersedia melalui pembelian dalam aplikasi.
-{{% /details %}}
+{{% /ls-details %}}

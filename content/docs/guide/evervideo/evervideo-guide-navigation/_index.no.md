@@ -19,7 +19,7 @@ Evervideo tilbyr et rent, intuitivt grensesnitt som føles kjent for alle som ha
 I motsetning til de fleste media-apper slår Evervideo sammen skykontoene dine, NAS-delinger, medieservere og lokale filer til én samlet Filer-fane — slik at du ikke hopper mellom separate skjermer. Det gjør at du kan flytte en video fra en Plex-server, til en iCloud Drive-mappe, til iPhone-ens Dokumenter-mappe i én skjerm, én trykkoperasjon.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evervideo Hovedskjerm" image="/docs/guide/evervideo/img/evervideo-main.webp" >}}
+  {{< ls-card title="" subtitle="Evervideo Hovedskjerm" image="/docs/guide/evervideo/img/evervideo-main.webp" >}}
 {{< /cards >}}
 
 ## Faner
@@ -53,7 +53,7 @@ PiP fungerer med alle videoformater Evervideo spiller av, inkludert skystreamede
 Praktisk talt alle innholdselementer på skjermen har en Flere handlinger-knapp ("⋯" tre-punkts-ikonet). Trykk på den for å åpne en kontekstsensitiv meny med alle tilgjengelige handlinger for det elementet — spill neste, spill senere, legg til i spilleliste, legg til i favoritter, rediger tagger, last ned, del, gi nytt navn, flytt og så videre. Lange lister ruller vertikalt slik at du kan nå sjeldnere brukte handlinger uten å overfylle hoved-UI-en.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evervideo Favoritter Flere handlinger Meny" image="/docs/guide/evervideo/img/evervideo-favorites-more-actions.webp" >}}
+  {{< ls-card title="" subtitle="Evervideo Favoritter Flere handlinger Meny" image="/docs/guide/evervideo/img/evervideo-favorites-more-actions.webp" >}}
 {{< /cards >}}
 
 ## Verktøylinje øverst

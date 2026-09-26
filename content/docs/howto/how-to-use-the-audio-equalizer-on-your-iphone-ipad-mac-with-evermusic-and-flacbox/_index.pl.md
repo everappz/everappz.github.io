@@ -7,7 +7,7 @@ tags: ["muzyka", "dźwięk", "korektor", "10-pasmowy", "wzmocnienie", "konfigura
 keywords: ["korektor dźwięku iPhone", "presety EQ Evermusic", "korektor 10-pasmowy Flacbox", "regulacja basów sopranów iOS", "korektor Mac aplikacja muzyczna", "wzmocnienie dźwięku przedwzmacniaczem", "własne presety dźwięku"]
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **Podsumowanie:** Evermusic i Flacbox zawierają profesjonalny 10-pasmowy korektor dźwięku z presetami (Rock, Hip-Hop, Bass Booster i więcej), tworzeniem własnych presetów oraz przedwzmacniaczem do wzmacniania głośności. Dostępny na iPhonie, iPadzie i Macu.
@@ -105,26 +105,26 @@ Podnieś swoje wrażenia muzyczne, dostosuj dźwięk do każdej sytuacji i ciesz
 
 ## Często zadawane pytania
 
-{{% details title="Czy korektor działa ze wszystkimi formatami audio?" closed="true" %}}
+{{% ls-details title="Czy korektor działa ze wszystkimi formatami audio?" closed="true" %}}
 Tak. 10-pasmowy EQ w Evermusic i Flacbox działa z MP3, FLAC, AAC, WAV, ALAC, OGG i wszystkimi innymi obsługiwanymi formatami.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Czy ustawienia EQ będą stosowane do wszystkich utworów?" closed="true" %}}
+{{% ls-details title="Czy ustawienia EQ będą stosowane do wszystkich utworów?" closed="true" %}}
 Tak. Po aktywacji korektora i wybraniu presetu jest on stosowany do całego odtwarzania, dopóki go nie zmienisz lub nie wyłączysz.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Czy mogę utworzyć więcej niż jeden własny preset?" closed="true" %}}
+{{% ls-details title="Czy mogę utworzyć więcej niż jeden własny preset?" closed="true" %}}
 Tak. Możesz tworzyć, zapisywać i przełączać się między wieloma własnymi presetami. Użyj funkcji eksportu, aby je zarchiwizować.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Czy przedwzmacniacz powoduje zniekształcenia?" closed="true" %}}
+{{% ls-details title="Czy przedwzmacniacz powoduje zniekształcenia?" closed="true" %}}
 Może, jeśli jest ustawiony zbyt wysoko. Obserwuj wskaźniki poziomu dźwięku podczas regulacji. Jeśli poziomy są obcinane (sięgają szczytu), zmniejsz nieco wzmocnienie przedwzmacniacza.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Czy korektor jest dostępny zarówno w Evermusic, jak i Flacbox?" closed="true" %}}
+{{% ls-details title="Czy korektor jest dostępny zarówno w Evermusic, jak i Flacbox?" closed="true" %}}
 Tak. Obie aplikacje zawierają ten sam 10-pasmowy korektor z presetami, własnymi presetami i przedwzmacniaczem.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Czy mogę udostępnić moje presety EQ komuś innemu?" closed="true" %}}
+{{% ls-details title="Czy mogę udostępnić moje presety EQ komuś innemu?" closed="true" %}}
 Tak. Użyj opcji Eksportuj konfigurację, aby zapisać presety do pliku, a następnie je udostępnij. Druga osoba może je zaimportować za pomocą opcji Importuj konfigurację.
-{{% /details %}}
+{{% /ls-details %}}

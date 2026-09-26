@@ -7,7 +7,7 @@ tags: ["nhạc", "âm thanh", "trình phát", "iphone", "phát lại", "ngoại 
 readingTime: 5
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **Tóm tắt:** Chuyển đổi video YouTube thành MP3 bằng trình chuyển đổi trên trình duyệt hoặc ứng dụng máy tính miễn phí ClipGrab. Sau đó nhập các tệp âm thanh vào Evermusic trên iPhone hoặc Mac để phát ngoại tuyến -- không cần internet.
@@ -221,30 +221,30 @@ Nếu bạn không chắc chắn về các lựa chọn của mình, hãy cân n
 
 P.S. Cũng có một số **video hướng dẫn** trên YouTube:
 <br><br>
-{{< youtubecard id="TlVpbRvAiwA" title="Descargar Música Gratis Para IOS" >}}
+{{< ls-youtubecard id="TlVpbRvAiwA" title="Descargar Música Gratis Para IOS" >}}
 <br><br>
-{{< youtubecard id="jSDuNguZZNE" title="Evermusic: Free Offline Music Player for iOS (iPhone/iPod/iPad) | Music Files Organization" >}}
+{{< ls-youtubecard id="jSDuNguZZNE" title="Evermusic: Free Offline Music Player for iOS (iPhone/iPod/iPad) | Music Files Organization" >}}
 <br><br>
-{{< youtubecard id="-kY48ktbo2M" title="テクノロジー塾】おすすめiPhone 音楽アプリ「ever music」ストック型篇" >}}
+{{< ls-youtubecard id="-kY48ktbo2M" title="テクノロジー塾】おすすめiPhone 音楽アプリ「ever music」ストック型篇" >}}
 
 ## Câu hỏi thường gặp
 
-{{% details title="Tải nhạc từ YouTube có hợp pháp không?" closed="true" %}}
+{{% ls-details title="Tải nhạc từ YouTube có hợp pháp không?" closed="true" %}}
 Điều đó phụ thuộc vào trạng thái bản quyền của nội dung. Nội dung miễn phí bản quyền và Creative Commons thường có thể được tải để sử dụng cá nhân. Nhạc có bản quyền yêu cầu giấy phép hoặc sự cho phép phù hợp.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Evermusic hỗ trợ những định dạng âm thanh nào?" closed="true" %}}
+{{% ls-details title="Evermusic hỗ trợ những định dạng âm thanh nào?" closed="true" %}}
 Evermusic hỗ trợ MP3, FLAC, AAC, WAV, OGG, AIFF và nhiều định dạng âm thanh khác. Bạn có thể phát hầu như bất kỳ tệp âm thanh nào bạn tải xuống.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Tôi có thể sử dụng Evermusic mà không cần kết nối internet không?" closed="true" %}}
+{{% ls-details title="Tôi có thể sử dụng Evermusic mà không cần kết nối internet không?" closed="true" %}}
 Có. Sau khi các tệp âm thanh được nhập vào Evermusic, bạn có thể phát chúng hoàn toàn ngoại tuyến -- không cần kết nối internet.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="ClipGrab có miễn phí không?" closed="true" %}}
+{{% ls-details title="ClipGrab có miễn phí không?" closed="true" %}}
 Có. ClipGrab miễn phí và có sẵn cho cả Mac và Windows. Nó sử dụng thư viện mã nguồn mở youtube-dlp để tải xuống.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Làm thế nào để chuyển nhạc đã tải từ Mac sang iPhone?" closed="true" %}}
+{{% ls-details title="Làm thế nào để chuyển nhạc đã tải từ Mac sang iPhone?" closed="true" %}}
 Bạn có thể sử dụng AirDrop, iTunes File Sharing hoặc tính năng Wi-Fi Drive tích hợp của Evermusic để chuyển tệp âm thanh từ Mac sang iPhone.
-{{% /details %}}
+{{% /ls-details %}}

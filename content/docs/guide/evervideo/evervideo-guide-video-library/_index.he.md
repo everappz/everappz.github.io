@@ -21,7 +21,7 @@ readingTime: 8
 יש לך שתי דרכים להוסיף מדיה לספרייה שלך: **הוספה ידנית** (אתה בוחר בדיוק מה מתווסף) או **סנכרון אוטומטי** (Evervideo סורקת תיקיות ענן ייעודיות ומוסיפה קבצים חדשים אוטומטית כשהם מופיעים).
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evervideo ספריית מדיה" image="/docs/guide/evervideo/img/evervideo-genres-in-media-library.webp" >}}
+  {{< ls-card title="" subtitle="Evervideo ספריית מדיה" image="/docs/guide/evervideo/img/evervideo-genres-in-media-library.webp" >}}
 {{< /cards >}}
 
 ## הוספה ידנית
@@ -92,7 +92,7 @@ Evervideo גם קוראת סרטונים מספריית אפליקציית המ�
 סעיף זה מציג את כל הסרטונים שהופעלו לאחרונה עם מיקום ההפעלה האחרון שלהם, כך שניתן לחדש כל אחד מהם בלחיצה אחת. ניתן לשנות כמה ערכים הרשימה שומרת בהגדרות → ספריית מדיה → אחרונים → שנה גודל רשימה, ולייצא את הרשימה כ-M3U / CSV / TXT לגיבוי היסטוריית הצפייה שלך.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evervideo אחרונים — סרטונים שנצפו לאחרונה" image="/docs/guide/evervideo/img/evervideo-recents.webp" >}}
+  {{< ls-card title="" subtitle="Evervideo אחרונים — סרטונים שנצפו לאחרונה" image="/docs/guide/evervideo/img/evervideo-recents.webp" >}}
 {{< /cards >}}
 
 ## מועדפים
@@ -104,7 +104,7 @@ Evervideo גם קוראת סרטונים מספריית אפליקציית המ�
 Evervideo עוקבת אחר מיקום ההפעלה של כל וידאו שצופה. כל וידאו בכל רשימה — אחרונים, מועדפים, אלבום, ז'אנר, רשימת השמעה, תיקייה — מציג סרגל התקדמות קטן כדי שתוכל לראות במבט אחד כמה כבר צפית. זה הופך את ניהול עונות ארוכות של תוכניות טלוויזיה, פלייליסטים של קורסים ולילות צפייה רצופה לנוח ללא מאמץ.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evervideo פרטי ז'אנר עם התקדמות צפייה לפי קובץ" image="/docs/guide/evervideo/img/evervideo-genre-detail-with-playback-progress-for-watched-files.webp" >}}
+  {{< ls-card title="" subtitle="Evervideo פרטי ז'אנר עם התקדמות צפייה לפי קובץ" image="/docs/guide/evervideo/img/evervideo-genre-detail-with-playback-progress-for-watched-files.webp" >}}
 {{< /cards >}}
 
 ## סרגל הכלים העליון
@@ -116,7 +116,7 @@ Evervideo עוקבת אחר מיקום ההפעלה של כל וידאו שצו�
 תכונת החיפוש מאפשרת לך לאתר כותרת, אלבום, ז'אנר, או רשימת השמעה ספציפיים בתוך ספריית המדיה שלך. במסך החיפוש, יש לך גישה לפעולות מיון, סינון, ותצוגת רשת / רשימה. החיפוש פועל מקומית מול מסד הנתונים של ספריית המדיה, כך שהוא פועל לחלוטין לא מקוון ומחזיר תוצאות תוך כדי הקלדה.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evervideo חיפוש ספריית מדיה" image="/docs/guide/evervideo/img/evervideo-library-search.webp" >}}
+  {{< ls-card title="" subtitle="Evervideo חיפוש ספריית מדיה" image="/docs/guide/evervideo/img/evervideo-library-search.webp" >}}
 {{< /cards >}}
 
 ## תפריט אפשרויות

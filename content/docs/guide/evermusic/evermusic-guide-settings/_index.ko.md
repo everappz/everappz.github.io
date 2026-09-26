@@ -18,7 +18,7 @@ readingTime: 16
 설정 화면은 Evermusic의 제어 센터입니다. 여기에서 프리미엄으로 업그레이드하고, 오디오 플레이어를 구성하고, 음악 라이브러리를 관리하고, 파일 관리자를 설정하고, 인터페이스를 사용자 지정하고, 위젯 및 CarPlay를 활성화하고, 데이터를 백업하고, 도움말 및 법률 정보에 접근할 수 있습니다. 섹션은 헤더 아래에 그룹화됩니다: **구매 및 업데이트**, 앱 기본 설정, **도움말**, **법률 및 개인 정보 보호**.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evermusic 설정 화면" image="/docs/guide/evermusic/evermusic-guide-settings/img/settings-main-screen.webp" >}}
+  {{< ls-card title="" subtitle="Evermusic 설정 화면" image="/docs/guide/evermusic/evermusic-guide-settings/img/settings-main-screen.webp" >}}
 {{< /cards >}}
 
 ## 구매 및 업데이트

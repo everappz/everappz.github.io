@@ -21,7 +21,7 @@ La **Libreria Media** è il cuore di Evervideo. Raccoglie ogni file video e musi
 Hai due modi per aggiungere media alla tua libreria: **aggiunta manuale** (scegli esattamente cosa viene aggiunto) o **sincronizzazione automatica** (Evervideo scansiona le cartelle cloud designate e aggiunge automaticamente nuovi file man mano che compaiono).
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Libreria Media Evervideo" image="/docs/guide/evervideo/img/evervideo-genres-in-media-library.webp" >}}
+  {{< ls-card title="" subtitle="Libreria Media Evervideo" image="/docs/guide/evervideo/img/evervideo-genres-in-media-library.webp" >}}
 {{< /cards >}}
 
 ## Aggiunta Manuale
@@ -92,7 +92,7 @@ Se non vedi tutti i tuoi titoli, assicurati che l'app abbia scansionato ogni fil
 Questa sezione mostra tutti i video riprodotti di recente con la loro ultima posizione di riproduzione, così puoi riprenderne uno con un solo tocco. Puoi cambiare quante voci mantiene l'elenco in Impostazioni → Libreria Media → Recenti → Cambia Dimensione Elenco, ed esportare l'elenco in M3U / CSV / TXT per fare il backup della tua cronologia di visione.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evervideo Recenti — Video Guardati di Recente" image="/docs/guide/evervideo/img/evervideo-recents.webp" >}}
+  {{< ls-card title="" subtitle="Evervideo Recenti — Video Guardati di Recente" image="/docs/guide/evervideo/img/evervideo-recents.webp" >}}
 {{< /cards >}}
 
 ## Preferiti
@@ -104,7 +104,7 @@ Contrassegna i video come preferiti nella schermata del lettore o tramite il men
 Evervideo tiene traccia della posizione di riproduzione di ogni video che guardi. Ogni video in qualsiasi elenco — Recenti, Preferiti, un album, un genere, una playlist, una cartella — mostra una piccola barra di avanzamento così puoi vedere a colpo d'occhio quanto ne hai già guardato. Questo rende le lunghe stagioni di serie TV, le playlist di corsi e le serate di binge-watching semplicissime da gestire.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Dettaglio Genere Evervideo con Progresso Visione Per File" image="/docs/guide/evervideo/img/evervideo-genre-detail-with-playback-progress-for-watched-files.webp" >}}
+  {{< ls-card title="" subtitle="Dettaglio Genere Evervideo con Progresso Visione Per File" image="/docs/guide/evervideo/img/evervideo-genre-detail-with-playback-progress-for-watched-files.webp" >}}
 {{< /cards >}}
 
 ## Barra degli Strumenti Superiore
@@ -116,7 +116,7 @@ Posizionata appena sotto la barra di navigazione, la barra degli strumenti super
 La funzione di ricerca ti consente di individuare un titolo, album, genere o playlist specifici all'interno della tua libreria media. Nella schermata Cerca, hai accesso alle azioni Ordina, Filtro e vista Griglia / Elenco. La ricerca viene eseguita localmente sul database della libreria media, quindi funziona completamente offline e restituisce risultati mentre digiti.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Ricerca Libreria Media Evervideo" image="/docs/guide/evervideo/img/evervideo-library-search.webp" >}}
+  {{< ls-card title="" subtitle="Ricerca Libreria Media Evervideo" image="/docs/guide/evervideo/img/evervideo-library-search.webp" >}}
 {{< /cards >}}
 
 ## Menu Opzioni

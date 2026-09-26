@@ -7,7 +7,7 @@ tags: ["evermusic", "import", "senarai main", "m3u", "cue"]
 readingTime: 3
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **Ringkasan:** Evermusic dan Flacbox menyokong pengimportan fail senarai main M3U, M3U8 dan CUE dari storan awan, fail aplikasi tempatan atau peranti anda. Pergi ke Senarai Main > Lagi > Import Senarai Main, pilih sumber, pilih fail anda dan aplikasi akan membina senarai main anda secara automatik.
@@ -84,22 +84,22 @@ Selain itu, anda boleh mengimport berbilang senarai main sekaligus dengan menget
 
 ## Soalan Lazim
 
-{{% details title="Apakah format senarai main yang disokong oleh Evermusic dan Flacbox?" closed="true" %}}
+{{% ls-details title="Apakah format senarai main yang disokong oleh Evermusic dan Flacbox?" closed="true" %}}
 Kedua-dua aplikasi menyokong format fail senarai main M3U, M3U8 dan CUE. Ini meliputi standard senarai main yang paling biasa digunakan oleh pemain muzik dan perisian media.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Bolehkah saya mengimport senarai main dari storan awan?" closed="true" %}}
+{{% ls-details title="Bolehkah saya mengimport senarai main dari storan awan?" closed="true" %}}
 Ya. Anda boleh mengimport fail senarai main dari mana-mana perkhidmatan storan awan yang disambungkan termasuk Google Drive, Dropbox, OneDrive dan pelayan WebDAV.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Mengapa sesetengah trek hilang selepas import?" closed="true" %}}
+{{% ls-details title="Mengapa sesetengah trek hilang selepas import?" closed="true" %}}
 Fail senarai main mesti mengandungi laluan yang betul ke fail media anda, dan fail-fail tersebut mesti wujud di lokasi yang dinyatakan pada storan anda. Semak semula bahawa laluan fail dalam fail M3U atau CUE anda sepadan dengan lokasi fail sebenar.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Bolehkah saya mengimport berbilang senarai main sekaligus?" closed="true" %}}
+{{% ls-details title="Bolehkah saya mengimport berbilang senarai main sekaligus?" closed="true" %}}
 Ya. Gunakan butang Lebih banyak tindakan dan pilih "Import Senarai Main dari Folder." Aplikasi mengimbas folder untuk semua fail senarai main yang disokong dan mengimportnya dalam satu langkah.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Adakah saya perlu mencipta senarai main secara manual?" closed="true" %}}
+{{% ls-details title="Adakah saya perlu mencipta senarai main secara manual?" closed="true" %}}
 Tidak. Ciri import menghapuskan penciptaan senarai main secara manual. Hanya halakan aplikasi ke fail M3U, M3U8 atau CUE sedia ada anda dan ia membina senarai main secara automatik.
-{{% /details %}}
+{{% /ls-details %}}

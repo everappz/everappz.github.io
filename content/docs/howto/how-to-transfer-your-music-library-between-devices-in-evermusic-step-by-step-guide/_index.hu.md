@@ -7,7 +7,7 @@ keywords: ["zenei könyvtár átvitele Evermusic", "lejátszási listák biztons
 readingTime: 3
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **Röviden:** Az Evermusic könyvtárad új eszközre történő átviteléhez hozz létre biztonsági mentést a forráseszközön, indítsd el a Wi-Fi Drive-ot, csatlakoztasd a második eszközt ugyanazon a hálózaton, töltsd le a biztonsági mentést és a zenefájlokat, majd állítsd vissza a biztonsági mentésből. Az egész folyamat a könyvtár méretétől függően körülbelül 10 percet vesz igénybe.
@@ -144,22 +144,22 @@ Ezen lépések követésével sikeresen átviszed zenei könyvtáradat, lejátsz
 
 ## Gyakran ismételt kérdések
 
-{{% details title="Átvihetem az Evermusic könyvtáramat Wi-Fi nélkül?" closed="true" %}}
+{{% ls-details title="Átvihetem az Evermusic könyvtáramat Wi-Fi nélkül?" closed="true" %}}
 A Wi-Fi Drive megköveteli, hogy mindkét eszköz ugyanazon a Wi-Fi hálózaton legyen. Jelenleg nincs Bluetooth vagy mobilhálózati átviteli lehetőség. Alternatívaként használhatod az AirDrop-ot vagy a Fájlok alkalmazást a biztonsági mentés fájl és a zenei mappák manuális áthelyezéséhez az eszközök között.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Átvihetők-e a felhőszolgáltatás-kapcsolataim a biztonsági mentéssel?" closed="true" %}}
+{{% ls-details title="Átvihetők-e a felhőszolgáltatás-kapcsolataim a biztonsági mentéssel?" closed="true" %}}
 A biztonsági mentés tartalmazza az adatbázisodat, lejátszási listáidat, albumborítóidat és beállításaidat. A felhőszolgáltatás bejelentkezési adatai biztonsági okokból nincsenek benne. A visszaállítás után újra kell csatlakoztatnod felhőfiókjaidat az új eszközön.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Mi történik a meglévő könyvtárammal a második eszközön?" closed="true" %}}
+{{% ls-details title="Mi történik a meglévő könyvtárammal a második eszközön?" closed="true" %}}
 A biztonsági mentés visszaállítása lecseréli az összes meglévő zenei könyvtár adatot, lejátszási listákat, beállításokat és albumborítókat a második eszközön. Készíts külön biztonsági mentést a második eszközről, ha meg szeretnéd őrizni annak adatait.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Működik ez a folyamat iPhone és Mac között?" closed="true" %}}
+{{% ls-details title="Működik ez a folyamat iPhone és Mac között?" closed="true" %}}
 Igen. Az Evermusic támogatja a Wi-Fi Drive átvitelt az iPhone, iPad és Mac bármely kombinációja között. Mindkét eszköznek csak ugyanazon a Wi-Fi hálózaton kell lennie.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Mennyi ideig tart az átvitel?" closed="true" %}}
+{{% ls-details title="Mennyi ideig tart az átvitel?" closed="true" %}}
 Az átviteli idő a zenei könyvtárad méretétől és a Wi-Fi sebességedtől függ. Egy tipikus, néhány gigabájtos könyvtár 5-15 perc alatt átvihető egy szabványos otthoni hálózaton.
-{{% /details %}}
+{{% /ls-details %}}

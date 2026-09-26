@@ -21,7 +21,7 @@ readingTime: 16
 A Beállítások képernyő a Flacbox vezérlőközpontja. Innen frissíthet Prémiumra, konfigurálhatja a hangmotort (rendszer kodekek vagy FFmpeg), kezelheti a zenetárat, beállíthatja a fájlkezelőt, testreszabhatja az audio tagok szerkesztőjét, engedélyezheti a Kezdőképernyő widgeteket és az Apple CarPlay-t, biztonsági másolatot készíthet az adatairól, és hozzáférhet a súgóhoz és jogi információkhoz.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox Beállítások főképernyő" image="/docs/guide/flacbox/img/settings-main.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox Beállítások főképernyő" image="/docs/guide/flacbox/img/settings-main.webp" >}}
 {{< /cards >}}
 
 ## Frissítés Prémiumra
@@ -29,13 +29,13 @@ A Beállítások képernyő a Flacbox vezérlőközpontja. Innen frissíthet Pr�
 Frissítse az alkalmazást Prémium verzióra az összes korlát eltávolításához. Az alkalmazás ingyenes verziója egyszeri élettartamú alkalmazáson belüli vásárlást és két előfizetési lehetőséget (1 hónap és 1 év) kínál az összes korlátozás eltávolításához és a Prémiumra való frissítéshez.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox Frissítés Prémiumra" image="/docs/guide/flacbox/img/upgrade-to-premium.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox Frissítés Prémiumra" image="/docs/guide/flacbox/img/upgrade-to-premium.webp" >}}
 {{< /cards >}}
 
 A **Családi megosztás** engedélyezett minden vásárlásnál és terven, így a Prémium verziót megoszthatja legfeljebb öt családtaggal extra költség nélkül.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox Prémium terv kiválasztása" image="/docs/guide/flacbox/img/select-premium-plan.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox Prémium terv kiválasztása" image="/docs/guide/flacbox/img/select-premium-plan.webp" >}}
 {{< /cards >}}
 
 Tudjon meg többet a vásárlásokról és a Prémium verzióról: [Mi a különbség a Flacbox és a Flacbox Prémium között](/docs/faq/flacbox/what-is-the-difference-between-flacbox-and-flacbox-premium/).

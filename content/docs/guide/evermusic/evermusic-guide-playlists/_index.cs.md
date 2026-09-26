@@ -17,7 +17,7 @@ readingTime: 6
 Sekce Seznamy skladeb vám poskytuje nástroje pro organizaci stop do seznamů. Zahrnuje zobrazení obsahu s přehledem všech vytvořených playlistů, tlačítko "..." v navigační liště nabízející různé akce relacionované s playlisty a navigační panel nástrojů s tlačítky "Hledat", "Přehrát vše" a "Zamíchat vše". Navíc každý jednotlivý playlist má tlačítko "..." vedle názvu playlistu, nabízející řadu akcí specifických pro daný playlist.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Obrazovka Playlistů Evermusic" image="/docs/guide/evermusic/evermusic-guide-playlists/img/playlists-main.webp" >}}
+  {{< ls-card title="" subtitle="Obrazovka Playlistů Evermusic" image="/docs/guide/evermusic/evermusic-guide-playlists/img/playlists-main.webp" >}}
 {{< /cards >}}
 
 ## Vytvoření playlistu
@@ -25,7 +25,7 @@ Sekce Seznamy skladeb vám poskytuje nástroje pro organizaci stop do seznamů. 
 Pro vytvoření nového playlistu klepněte na tlačítko "+" nebo tlačítko "..." v pravém horním rohu navigační lišty, vyberte "Nový playlist" a přiřaďte název playlistu. Po pojmenování klepněte na "Uložit".
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Vytvoření nového playlistu" image="/docs/guide/evermusic/evermusic-guide-playlists/img/playlists-add-new.webp" >}}
+  {{< ls-card title="" subtitle="Vytvoření nového playlistu" image="/docs/guide/evermusic/evermusic-guide-playlists/img/playlists-add-new.webp" >}}
 {{< /cards >}}
 
 Tím se otevře dialog "Přidat skladby", kde si můžete vybrat, které stopy přidat do nového playlistu. Stopy jsou kategorizovány podle typu zdroje a máte několik možností:
@@ -42,7 +42,7 @@ Ve výchozím nastavení můžete přidat stopu do playlistu pouze jednou. Pro p
 V Evermusic jsme přidali funkci importu souborů M3U, takže nemusíte ručně vytvářet playlisty.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Import playlistu ze zdroje souborů" image="/docs/guide/evermusic/evermusic-guide-playlists/img/playlists-import-from-files.webp" >}}
+  {{< ls-card title="" subtitle="Import playlistu ze zdroje souborů" image="/docs/guide/evermusic/evermusic-guide-playlists/img/playlists-import-from-files.webp" >}}
 {{< /cards >}}
 
 Nejprve přejděte do sekce "Seznamy skladeb". Poté klepněte na tlačítko "Více" v pravém horním rohu. Z nabídky, která se zobrazí, vyberte možnost "Importovat playlist".
@@ -62,7 +62,7 @@ Aplikace analyzuje soubor playlistu, vytvoří seznam stop a vyhledá tyto soubo
 Když otevřete playlist, zobrazí se "Obrazovka detailu playlistu". Na této obrazovce najdete tlačítko "..." v pravém horním rohu s možnostmi playlistu a tři tlačítka pod obrázkem uměleckého díla: "Hledat", "Pokračovat v přehrávání", "Přehrát vše" a "Zamíchat vše". Navíc je zde zaškrtávací políčko "Offline režim".
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Obrazovka detailu playlistu" image="/docs/guide/evermusic/evermusic-guide-playlists/img/playlists-detail-screen.webp" >}}
+  {{< ls-card title="" subtitle="Obrazovka detailu playlistu" image="/docs/guide/evermusic/evermusic-guide-playlists/img/playlists-detail-screen.webp" >}}
 {{< /cards >}}
 
 - **Pokračovat v přehrávání**: Obnoví pozici přehrávání pro tento playlist.
@@ -87,7 +87,7 @@ Akce playlistu získáte klepnutím na tlačítko "..." vedle názvu playlistu. 
 - **Smazat playlist:** Smazat playlist z hudební knihovny. Upozorňujeme, že tuto akci nelze vrátit zpět.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Nabídka Další akce pro playlist" image="/docs/guide/evermusic/evermusic-guide-playlists/img/playlists-more-actions-for-separate-playlist.webp" >}}
+  {{< ls-card title="" subtitle="Nabídka Další akce pro playlist" image="/docs/guide/evermusic/evermusic-guide-playlists/img/playlists-more-actions-for-separate-playlist.webp" >}}
 {{< /cards >}}
 
 ## Další akce pro playlist na obrazovce detailu playlistu
@@ -113,7 +113,7 @@ Akce playlistu získáte klepnutím na tlačítko "..." v pravém horním rohu. 
 Pro změnu pořadí skladeb v playlistu klepněte na tlačítko "..." v pravém horním rohu a vyberte "Vybrat" pro vstup do režimu výběru. Pro přesun stop nahoru nebo dolů použijte ovládací prvek přeřazení a gesta přetažení vedle každé stopy. Klepnutím na ovládací prvek přeřazení se stopa přesune na začátek seznamu. Pro opuštění režimu výběru a aplikaci změn klepněte na "Hotovo".
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Změna pořadí skladeb v playlistu" image="/docs/guide/evermusic/evermusic-guide-playlists/img/playlists-change-songs-order.webp" >}}
+  {{< ls-card title="" subtitle="Změna pořadí skladeb v playlistu" image="/docs/guide/evermusic/evermusic-guide-playlists/img/playlists-change-songs-order.webp" >}}
 {{< /cards >}}
 
 ## Změna obrázku obalu playlistu
@@ -129,7 +129,7 @@ Otevřete playlist a klepněte na tlačítko "..." v pravém horním rohu, poté
 Otevřete playlist, klepněte na tlačítko "..." v pravém horním rohu a vyberte "Vybrat" pro vstup do režimu výběru. Vyberte stopy, které chcete smazat, a klepněte na tlačítko "Smazat z playlistu" ve spodní části obrazovky. Klepnutím na "Hotovo" potvrďte změny.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Režim výběru uvnitř playlistu" image="/docs/guide/evermusic/evermusic-guide-playlists/img/playlists-selection-mode-in-playlist-details-screen.webp" >}}
+  {{< ls-card title="" subtitle="Režim výběru uvnitř playlistu" image="/docs/guide/evermusic/evermusic-guide-playlists/img/playlists-selection-mode-in-playlist-details-screen.webp" >}}
 {{< /cards >}}
 
 ## Možnosti stopy
@@ -137,7 +137,7 @@ Otevřete playlist, klepněte na tlačítko "..." v pravém horním rohu a vyber
 Každá stopa v playlistu má seznam akcí, dostupných klepnutím na tlačítko "...". Pokud nevidíte všechny akce, posuňte se dolů pro jejich zobrazení. Stopu z playlistu můžete smazat, stáhnout, upravit audio tagy a další.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Nabídka možností stopy v playlistu" image="/docs/guide/evermusic/evermusic-guide-playlists/img/playlists-track-options.webp" >}}
+  {{< ls-card title="" subtitle="Nabídka možností stopy v playlistu" image="/docs/guide/evermusic/evermusic-guide-playlists/img/playlists-track-options.webp" >}}
 {{< /cards >}}
 
 - **Přehrát jako další:** Přidá stopu na začátek fronty přehrávače.

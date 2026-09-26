@@ -17,7 +17,7 @@ readingTime: 11
 ## الوصول إلى المشغل
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="شاشة مشغل الصوت في Evermusic" image="/docs/guide/evermusic/evermusic-guide-player/img/player-main.webp" >}}
+  {{< ls-card title="" subtitle="شاشة مشغل الصوت في Evermusic" image="/docs/guide/evermusic/evermusic-guide-player/img/player-main.webp" >}}
 {{< /cards >}}
 
 يمكنك الوصول إلى المشغل بملء الشاشة من عرض المشغل المصغر. على iPhone، ستجد المشغل المصغر فوق شريط التبويب على الشاشة الرئيسية. على iPad أو Mac، يمكن الوصول إليه من القائمة اليسرى. لإخفاء المشغل المصغر، انقر على أيقونته واسحب لأسفل. لإخفاء المشغل بملء الشاشة بالكامل، انقر ببساطة على زر الإغلاق الموجود في الزاوية السفلية اليمنى.
@@ -44,7 +44,7 @@ readingTime: 11
 ## التحكم في مستوى الصوت
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="التحكم في مستوى الصوت مع AirPlay وGoogle Cast" image="/docs/guide/evermusic/evermusic-guide-player/img/player-volume-control.webp" >}}
+  {{< ls-card title="" subtitle="التحكم في مستوى الصوت مع AirPlay وGoogle Cast" image="/docs/guide/evermusic/evermusic-guide-player/img/player-volume-control.webp" >}}
 {{< /cards >}}
 
 اعثر على شريط تمرير مستوى الصوت على شاشة إعدادات الصوت بالنقر على أيقونة الصوت أسفل عناصر التحكم في التشغيل. يمكنك تغيير مستوى الصوت باستخدام هذا الشريط أو أزرار مستوى الصوت القياسية على جهازك. بالإضافة إلى ذلك، ستجد بعض أزرار البث المفيدة:
@@ -63,7 +63,7 @@ readingTime: 11
 ## معادل الصوت
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="معادل الصوت 10 نطاقات" image="/docs/guide/evermusic/evermusic-guide-player/img/player-equalizer.webp" >}}
+  {{< ls-card title="" subtitle="معادل الصوت 10 نطاقات" image="/docs/guide/evermusic/evermusic-guide-player/img/player-equalizer.webp" >}}
 {{< /cards >}}
 
 يأتي Evermusic مزودًا بمعادل صوت 10 نطاقات كامل، مع إعدادات مسبقة بأسلوب iPod ومكبر مسبق وإعدادات يدوية للمعادل. لتفعيل المعادل، انقر ببساطة على زر "معادل الصوت" في شريط الأدوات السفلي وشغّل مفتاح التحكم في الزاوية العلوية اليمنى. يمكنك الاختيار من مجموعة من إعدادات المعادل المسبقة مثل "Acoustic" و"Bass Booster" و"Classical" والمزيد. إذا كنت متحمسًا للصوت، ستقدّر القدرة على ضبط كل نطاق تردد باستخدام أشرطة التمرير. لا تتردد في إنشاء وحفظ إعداداتك المسبقة الخاصة لمعادل الصوت. إذا كانت المقطوعة غير عالية بما يكفي، يمكنك أيضًا ضبط مكسب المكبر المسبق. لدينا تعليمات أكثر تفصيلاً حول كيفية استخدام معادل الصوت [هنا](/docs/howto/how-to-use-the-audio-equalizer-on-your-iphone-ipad-mac-with-evermusic-and-flacbox).
@@ -71,7 +71,7 @@ readingTime: 11
 ## شريط أدوات وضع المشغل
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="شريط الأدوات العلوي للمشغل مع البحث والسرعة" image="/docs/guide/evermusic/evermusic-guide-player/img/player-top-toolbar.webp" >}}
+  {{< ls-card title="" subtitle="شريط الأدوات العلوي للمشغل مع البحث والسرعة" image="/docs/guide/evermusic/evermusic-guide-player/img/player-top-toolbar.webp" >}}
 {{< /cards >}}
 
 لبعض أنماط شاشة المشغل المحددة ستجد شريط أدوات وضع المشغل في أعلى شاشة المشغل، مباشرة أسفل شريط التنقل. يضم هذا الشريط العملي ثلاثة أزرار.
@@ -82,7 +82,7 @@ readingTime: 11
 ## الإشارات المرجعية الصوتية
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="الإشارات المرجعية الصوتية للكتب الصوتية والمحاضرات" image="/docs/guide/evermusic/evermusic-guide-player/img/player-bookmarks.webp" >}}
+  {{< ls-card title="" subtitle="الإشارات المرجعية الصوتية للكتب الصوتية والمحاضرات" image="/docs/guide/evermusic/evermusic-guide-player/img/player-bookmarks.webp" >}}
 {{< /cards >}}
 
 هنا يمكنك إنشاء إشارات مرجعية متعددة للمقطوعات في مكتبة الموسيقى. لدينا تعليمات كاملة حول كيفية استخدام الإشارات المرجعية [هنا](/docs/howto/how-to-listen-to-audiobooks-on-iphone-ipad-mac-using-evermusic).
@@ -90,7 +90,7 @@ readingTime: 11
 ## قائمة انتظار المشغل
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="قائمة انتظار المشغل" image="/docs/guide/evermusic/evermusic-guide-player/img/player-queue.webp" >}}
+  {{< ls-card title="" subtitle="قائمة انتظار المشغل" image="/docs/guide/evermusic/evermusic-guide-player/img/player-queue.webp" >}}
 {{< /cards >}}
 
 للوصول إلى قائمة انتظار المشغل، انقر ببساطة على زر قائمة انتظار المشغل الموجود في شريط الأدوات السفلي. لنقل أغنية في قائمة الانتظار، استخدم مؤشر إعادة الترتيب بالقرب من العنوان.
@@ -98,7 +98,7 @@ readingTime: 11
 ## التعليقات / الكلمات
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="التعليقات والكلمات المضمّنة وملفات LRC" image="/docs/guide/evermusic/evermusic-guide-player/img/player-lyrics.webp" >}}
+  {{< ls-card title="" subtitle="التعليقات والكلمات المضمّنة وملفات LRC" image="/docs/guide/evermusic/evermusic-guide-player/img/player-lyrics.webp" >}}
 {{< /cards >}}
 
 لعرض تعليقات المقطوعة والكلمات المضمّنة وكذلك ملفات LRC، اتبع هذه الخطوات:
@@ -114,7 +114,7 @@ readingTime: 11
 ## قائمة الخيارات
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="قائمة الخيارات لعنصر في قائمة الانتظار" image="/docs/guide/evermusic/evermusic-guide-player/img/player-queue-item-options-menu.webp" >}}
+  {{< ls-card title="" subtitle="قائمة الخيارات لعنصر في قائمة الانتظار" image="/docs/guide/evermusic/evermusic-guide-player/img/player-queue-item-options-menu.webp" >}}
 {{< /cards >}}
 
 كل أغنية في قائمة انتظار مشغل الصوت لديها قائمة بمزيد من الإجراءات، يمكنك الوصول إليها بالنقر على زر النقاط الثلاث بجانب عنوان الأغنية. الإجراءات المتاحة هي:
@@ -153,7 +153,7 @@ readingTime: 11
 ## الأخيرة والمفضلات
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="الأغاني التي شُغّلت مؤخرًا من المشغل" image="/docs/guide/evermusic/evermusic-guide-player/img/player-recents.webp" >}}
+  {{< ls-card title="" subtitle="الأغاني التي شُغّلت مؤخرًا من المشغل" image="/docs/guide/evermusic/evermusic-guide-player/img/player-recents.webp" >}}
 {{< /cards >}}
 
 على شاشة المشغل، يمكنك الوصول إلى قسمي 'الأخيرة' و'المفضلات' بالنقر على زر المزيد من الإجراءات '...' وتحديد عنصر القائمة المقابل. في كلا القسمين، يمكنك البحث عن أغانٍ وتشغيل جميع المقطوعات وخلط جميع المقطوعات وتصدير القائمة وحذف القائمة. لدينا تعليمات تفصيلية حول كيفية تصدير قوائم الأغاني [هنا](/docs/howto/export-tracks-collection-from-evermusic-flacbox-to-m3u-csv-txt/).
@@ -161,7 +161,7 @@ readingTime: 11
 ## نافذة المشغل المصغر (حصريًا على Mac)
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="نافذة المشغل المصغر على Mac" image="/docs/guide/evermusic/evermusic-guide-player/img/player-mini-mac.webp" >}}
+  {{< ls-card title="" subtitle="نافذة المشغل المصغر على Mac" image="/docs/guide/evermusic/evermusic-guide-player/img/player-mini-mac.webp" >}}
 {{< /cards >}}
 
 بالنسبة لمستخدمي Mac، هناك نافذة مشغل مصغر مفيدة. للوصول إليها، حرّك المؤشر ببساطة إلى الحافة السفلية اليمنى من نافذة التطبيق وقلّص حجمها إلى أصغر حجم ممكن. ثم انقر على زر الطي (المصوَّر كسهم لأسفل) لتفعيل نافذة المشغل المصغر. إذا أردت إبقاءها فوق النوافذ الأخرى، انتقل إلى شريط القائمة العلوي في Mac وحدد 'نافذة' واختر 'إظهار النافذة دائمًا في الأعلى'. هذه الميزة مريحة بشكل خاص عند الاستماع إلى المحاضرات الصوتية وعدم الرغبة في أي انقطاعات.
@@ -169,7 +169,7 @@ readingTime: 11
 ## اختصارات لوحة المفاتيح (حصريًا على Mac)
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="قائمة التشغيل في شريط الحالة على Mac مع اختصارات لوحة المفاتيح" image="/docs/guide/evermusic/evermusic-guide-player/img/player-mac-shortcuts.webp" >}}
+  {{< ls-card title="" subtitle="قائمة التشغيل في شريط الحالة على Mac مع اختصارات لوحة المفاتيح" image="/docs/guide/evermusic/evermusic-guide-player/img/player-mac-shortcuts.webp" >}}
 {{< /cards >}}
 
 بالنسبة لمستخدمي Mac، يتوفر قائمة تشغيل نظام على شريط الحالة مع اختصارات لوحة المفاتيح. على سبيل المثال، للتشغيل/الإيقاف المؤقت، فقط انقر على مفتاح المسافة في لوحة المفاتيح. الاختصارات للإيقاف والأغنية التالية والأغنية السابقة وتخطي الوقت والتكرار والخلط وسرعة التشغيل متاحة كما هو موضح في لقطة الشاشة.
@@ -177,7 +177,7 @@ readingTime: 11
 ## إعدادات مشغل الصوت
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="إعدادات مشغل الصوت" image="/docs/guide/evermusic/evermusic-guide-player/img/player-settings.webp" >}}
+  {{< ls-card title="" subtitle="إعدادات مشغل الصوت" image="/docs/guide/evermusic/evermusic-guide-player/img/player-settings.webp" >}}
 {{< /cards >}}
 
 للوصول إلى إعدادات مشغل الصوت، انقر على زر المزيد في شاشة مشغل الصوت وحدد "الإعدادات" من القائمة المنسدلة. هنا ستجد أقسامًا متنوعة مجمّعة حسب الوظيفة:

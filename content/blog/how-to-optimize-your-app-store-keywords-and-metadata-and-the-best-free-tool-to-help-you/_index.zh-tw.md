@@ -14,7 +14,7 @@ authors:
     image: "/images/about/artem-meleshko-founder-everappz.webp"
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 ## 為什麼 App Store 關鍵字決定您的下載量
 
@@ -104,29 +104,29 @@ App Store 最佳化不需要昂貴的工具。透過智慧規劃和 [AppKeywords
 該工具是開放原始碼的。歡迎提交錯誤回報、功能建議和 pull request。
 
 {{< cards cols="1" >}}
-  {{< card link="https://github.com/everappz/app-store-keyword-optimizer/tree/main" title="appkeywords.pro 在 GitHub" icon="github" tag= "open source" >}}
+  {{< ls-card link="https://github.com/everappz/app-store-keyword-optimizer/tree/main" title="appkeywords.pro 在 GitHub" icon="github" tag= "open source" >}}
 {{< /cards >}}
 
 ---
 
 ## 常見問題
 
-{{% details title="AppKeywords.pro 真的免費嗎？" closed="true" %}}
+{{% ls-details title="AppKeywords.pro 真的免費嗎？" closed="true" %}}
 是的。這是一個完全開放原始碼的瀏覽器端工具，無需註冊、無廣告、無資料收集。您的中繼資料永遠不會離開裝置。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="該工具支援多個 App Store 本地化嗎？" closed="true" %}}
+{{% ls-details title="該工具支援多個 App Store 本地化嗎？" closed="true" %}}
 支援。您可以為每個地區獨立新增中繼資料，匯出包含所有語言的單個 JSON 檔案，相容 Fastlane。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="應該在關鍵字欄位中重複標題關鍵字嗎？" closed="true" %}}
+{{% ls-details title="應該在關鍵字欄位中重複標題關鍵字嗎？" closed="true" %}}
 不應該。Apple 已經索引標題和副標題中的詞。在關鍵字欄位中重複會浪費字元。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="應該多久更新一次 App Store 關鍵字？" closed="true" %}}
+{{% ls-details title="應該多久更新一次 App Store 關鍵字？" closed="true" %}}
 至少每季審視和更新關鍵字。如果發現排名下降或搜尋行為的季節性變化，請更早調整。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="可以與 Fastlane 一起使用嗎？" closed="true" %}}
+{{% ls-details title="可以與 Fastlane 一起使用嗎？" closed="true" %}}
 可以。GitHub 儲存庫包含 shell 腳本，用於在 Fastlane 中繼資料資料夾結構和 AppKeywords.pro 使用的 JSON 格式之間轉換。
-{{% /details %}}
+{{% /ls-details %}}

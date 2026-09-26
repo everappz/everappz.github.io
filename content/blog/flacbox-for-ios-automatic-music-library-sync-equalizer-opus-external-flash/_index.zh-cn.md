@@ -12,7 +12,7 @@ authors:
     image: "/images/about/artem-meleshko-founder-everappz.webp"
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 **Flacbox 1.6** 为 iPhone 和 iPad 的 FLAC 音乐播放器带来了重大新功能。
 
@@ -68,18 +68,18 @@ Flacbox 1.6 现已在 App Store 上提供。[下载 Flacbox](https://itunes.appl
 
 ## 常见问题
 
-{{% details title="Flacbox 支持哪些音频格式？" closed="true" %}}
+{{% ls-details title="Flacbox 支持哪些音频格式？" closed="true" %}}
 Flacbox 支持 FLAC、ALAC、MP3、AAC、OGG、OPUS、WAV、AIFF、DSD 和其他流行的音频格式。所有格式均可使用内置均衡器。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="我可以在 iPhone 上从 SD 卡播放音乐吗？" closed="true" %}}
+{{% ls-details title="我可以在 iPhone 上从 SD 卡播放音乐吗？" closed="true" %}}
 可以。使用 Lightning to SD Card Camera Reader Adapter 连接 SD 或 microSD 卡。Flacbox 自动检测卡片，让您直接从外部存储浏览和播放文件。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Flacbox 能自动与云存储同步吗？" closed="true" %}}
+{{% ls-details title="Flacbox 能自动与云存储同步吗？" closed="true" %}}
 能。从 1.6 版本开始，Flacbox 可以自动从云文件夹同步您的音乐库。在设置中启用自动同步并选择要监控的文件夹。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Flacbox 均衡器可以自定义吗？" closed="true" %}}
+{{% ls-details title="Flacbox 均衡器可以自定义吗？" closed="true" %}}
 可以。10 段均衡器允许您在 -12 dB 和 +12 dB 之间调整各个频率级别。您可以使用内置预设或保存自己的自定义设置。
-{{% /details %}}
+{{% /ls-details %}}

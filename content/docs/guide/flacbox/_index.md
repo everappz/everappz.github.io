@@ -75,20 +75,20 @@ This guide walks you through every part of Flacbox on iPhone, iPad, and Mac — 
 
 {{< cards cols="2">}}
 
-{{< card icon="map" link="/docs/guide/flacbox/flacbox-guide-navigation" title="Navigation" subtitle="Tab Bar on iPhone, Left Menu on iPad and Mac, mini player, widgets, CarPlay." >}}
+{{< ls-card icon="map" link="/docs/guide/flacbox/flacbox-guide-navigation" title="Navigation" subtitle="Tab Bar on iPhone, Left Menu on iPad and Mac, mini player, widgets, CarPlay." >}}
 
-{{< card icon="cloud" link="/docs/guide/flacbox/flacbox-guide-connections" title="Connections" subtitle="iCloud, Google Drive, Dropbox, OneDrive, NAS, WebDAV, SMB, DLNA." >}}
+{{< ls-card icon="cloud" link="/docs/guide/flacbox/flacbox-guide-connections" title="Connections" subtitle="iCloud, Google Drive, Dropbox, OneDrive, NAS, WebDAV, SMB, DLNA." >}}
 
-{{< card icon="collection" link="/docs/guide/flacbox/flacbox-guide-music-library" title="Music Library" subtitle="Songs, Albums, Artists, Genres, Composers — sync, search, edit metadata." >}}
+{{< ls-card icon="collection" link="/docs/guide/flacbox/flacbox-guide-music-library" title="Music Library" subtitle="Songs, Albums, Artists, Genres, Composers — sync, search, edit metadata." >}}
 
-{{< card icon="music-note" link="/docs/guide/flacbox/flacbox-guide-playlists" title="Playlists" subtitle="Build, import M3U / M3U8 / CUE, reorder, and export to M3U / CSV / TXT." >}}
+{{< ls-card icon="music-note" link="/docs/guide/flacbox/flacbox-guide-playlists" title="Playlists" subtitle="Build, import M3U / M3U8 / CUE, reorder, and export to M3U / CSV / TXT." >}}
 
-{{< card icon="folder" link="/docs/guide/flacbox/flacbox-guide-local-files" title="Local Files" subtitle="Offline music, USB drives, Wi-Fi Drive, file manager, offline folders." >}}
+{{< ls-card icon="folder" link="/docs/guide/flacbox/flacbox-guide-local-files" title="Local Files" subtitle="Offline music, USB drives, Wi-Fi Drive, file manager, offline folders." >}}
 
-{{< card icon="play" link="/docs/guide/flacbox/flacbox-guide-player" title="Audio Player" subtitle="Hi-res output, equalizer, pitch, bookmarks, AirPlay, Chromecast, speed, sleep timer." >}}
+{{< ls-card icon="play" link="/docs/guide/flacbox/flacbox-guide-player" title="Audio Player" subtitle="Hi-res output, equalizer, pitch, bookmarks, AirPlay, Chromecast, speed, sleep timer." >}}
 
-{{< card icon="adjustments" link="/docs/guide/flacbox/flacbox-guide-settings" title="Settings" subtitle="Audio engine, library, file manager, CarPlay, widgets, personalization, language, backup." >}}
+{{< ls-card icon="adjustments" link="/docs/guide/flacbox/flacbox-guide-settings" title="Settings" subtitle="Audio engine, library, file manager, CarPlay, widgets, personalization, language, backup." >}}
 
-{{< card icon="question-mark-circle" link="/docs/faq/flacbox" title="FAQ" subtitle="Find answers to the 50 most common questions about Flacbox." >}}
+{{< ls-card icon="question-mark-circle" link="/docs/faq/flacbox" title="FAQ" subtitle="Find answers to the 50 most common questions about Flacbox." >}}
 
 {{< /cards >}}

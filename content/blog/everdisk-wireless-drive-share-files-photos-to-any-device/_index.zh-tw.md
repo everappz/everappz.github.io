@@ -12,7 +12,7 @@ authors:
     image: "/images/about/artem-meleshko-founder-everappz.webp"
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 **摘要：**[Everdisk](/products/everdisk) 是我們的全新應用程式，它能把你的 **iPhone 或 iPad 變成一顆無線硬碟**，同時也是連接你其他裝置的樞紐。點一下 **Start**，Everdisk 就會**同時執行四個伺服器**：**DLNA** 面向智慧電視和媒體播放器，**HTTP** 面向任何網頁瀏覽器，**WebDAV** 面向 Finder、Windows 和 Linux，**FTP** 面向檔案類應用程式。每台裝置都按自己喜歡的方式連接。把你的檔案、相片、影片和音樂分享給網路中的任何裝置，不需接線就能投放到電視，把你的裝置掛載為網路磁碟機，或者在沒有 Wi-Fi 時透過 **USB 線**傳輸檔案。Everdisk 還能反向連接到 **DLNA、WebDAV、FTP 和 SFTP** 伺服器，內建支援壓縮和解壓縮的**檔案管理員**，還能**把文件掃描為 PDF**、**標註和簽署 PDF**，並提供一整套 **PDF 工具**。不需帳號、不需雲端，另一端也不需安裝額外應用程式。所有內容都留在你的區域網路內。免費下載，可選一次性購買 Premium Lifetime。
 
@@ -133,46 +133,46 @@ Everdisk 圍繞三個簡單的理念打造：
 
 ## 常見問題
 
-{{% details title="Everdisk 是什麼？" closed="true" %}}
+{{% ls-details title="Everdisk 是什麼？" closed="true" %}}
 Everdisk 是一款全新應用程式，能把你的 iPhone 或 iPad 變成一顆無線硬碟，也是連接你其他裝置的樞紐。你可以把檔案、相片、影片和音樂分享給網路中的任何裝置，從其他伺服器瀏覽和串流，並在裝置上直接管理一切。不需帳號、不需雲端，另一端也不需安裝額外應用程式。你只需點一下 Start，一切就緒。這款應用程式同時執行四個伺服器：DLNA 面向智慧電視和媒體播放器，HTTP 面向任何網頁瀏覽器，WebDAV 面向 Finder、Windows 和 Linux，FTP 面向檔案類應用程式和進階使用者。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Everdisk 多少錢？" closed="true" %}}
+{{% ls-details title="Everdisk 多少錢？" closed="true" %}}
 Everdisk 免費下載。你可以免費把裝置變成無線硬碟、用四種方式分享檔案、投放到電視、掛載網路磁碟機、透過 USB 傳輸、連接其他伺服器、使用檔案管理員、掃描文件以及使用 PDF 工具。另有一次性 Premium Lifetime 購買選項，一次付費無訂閱，可解鎖無限的共享資料夾和已儲存連線、相片和影片轉換、自訂連接埠、自動開啟分享，以及裝置個人化。價格可能因地區而異。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="我需要在另一台裝置上安裝任何東西嗎？" closed="true" %}}
+{{% ls-details title="我需要在另一台裝置上安裝任何東西嗎？" closed="true" %}}
 不需要。這正是重點所在。另一台裝置用它自己已有的工具就能連接。智慧電視透過 DLNA 自行找到你的媒體庫，任何電腦或手機在網頁瀏覽器中開啟一個連結即可，而 Mac Finder、Windows 和 Linux 則透過 WebDAV 把你的裝置掛載為網路磁碟機。另一端不需安裝任何東西。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="我如何把相片和影片串流到電視？" closed="true" %}}
+{{% ls-details title="我如何把相片和影片串流到電視？" closed="true" %}}
 把你的電視或媒體播放器和你的裝置接入同一張 Wi-Fi 網路，然後在 Everdisk 中點一下 Start，並分享你的相片、影片或音樂。你的裝置會自行出現在電視的媒體伺服器清單裡，並帶有預覽縮圖。在電視上開啟它，就能在大螢幕上盡享你的媒體庫。不需接線，也不需額外應用程式。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="我如何從 Mac 或 PC 連接 Everdisk？" closed="true" %}}
+{{% ls-details title="我如何從 Mac 或 PC 連接 Everdisk？" closed="true" %}}
 Everdisk 透過 WebDAV 讓你的裝置顯示為一顆普通網路磁碟機。在 Mac 上，開啟 Finder 並選擇 Go，然後 Connect to Server，輸入應用程式中顯示的 WebDAV 位址。在 Windows 上，用同一個位址對應一顆網路磁碟機。在 Linux 上，從你的檔案管理員連接到該 WebDAV 位址。連接之後，你就可以雙向拖放。如果你不想掛載磁碟機，只需在任意網頁瀏覽器中開啟 HTTP 連結即可。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="沒有 Wi-Fi 也能傳檔案嗎？" closed="true" %}}
+{{% ls-details title="沒有 Wi-Fi 也能傳檔案嗎？" closed="true" %}}
 可以。用你平時充電用的那條 USB 線把裝置連到 Mac，檔案就會直接透過線傳輸，比 Wi-Fi 更快。因為它不需要無線網路，所以在飛機上、飯店裡，或任何禁止 Wi-Fi 共享的鎖定網路或公共網路中都能照常運作。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="我能把檔案從一台 iPhone 傳到另一台嗎？" closed="true" %}}
+{{% ls-details title="我能把檔案從一台 iPhone 傳到另一台嗎？" closed="true" %}}
 可以。在一台裝置上開始分享，然後在另一台裝置的網頁瀏覽器中開啟連結，或者透過 WebDAV 或 FTP 連接。你可以雙向瀏覽、串流和下載，甚至把相片、文件和整個資料夾上傳回正在分享的那台裝置。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Everdisk 能連接到哪些裝置？" closed="true" %}}
+{{% ls-details title="Everdisk 能連接到哪些裝置？" closed="true" %}}
 Everdisk 也是你網路中其他裝置的用戶端。你可以尋找並連接 DLNA、WebDAV、FTP 和 SFTP 伺服器，包括 NAS 裝置和媒體伺服器。連接之後，你可以瀏覽它們的資料夾，串流音訊和影片，下載檔案，並在伺服器允許時建立資料夾、上傳、重新命名、移動或刪除。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="我能在 Everdisk 中掃描文件和編輯 PDF 嗎？" closed="true" %}}
+{{% ls-details title="我能在 Everdisk 中掃描文件和編輯 PDF 嗎？" closed="true" %}}
 可以。Everdisk 能用相機掃描紙本文件。它會自行辨識邊緣，把每一頁拉正，並儲存為一份整潔的多頁 PDF。你還可以開啟一份 PDF 或相片進行標註（塗畫、螢光標示、加入文字和形狀，以及用手指簽名），變更會儲存回檔案。一整套 PDF 工具還提供壓縮、把內容辨識 (OCR) 成可搜尋的 PDF、密碼保護、權限檢視、中繼資料編輯，以及平面化。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Everdisk 私密又安全嗎？" closed="true" %}}
+{{% ls-details title="Everdisk 私密又安全嗎？" closed="true" %}}
 是的。一切都留在你的區域網路內，從不接觸網際網路，所以你的檔案永遠不會離開家。中間沒有帳號也沒有雲端。你可以用登入名稱和密碼保護存取，讓連接的裝置必須輸入相同的資訊才能看到你的檔案，而且你可以一鍵封鎖任何裝置。為了獲得最佳隱私，只在你連著熟悉且信任的 Wi-Fi 網路時才開啟分享。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Everdisk 能在哪些裝置上執行？" closed="true" %}}
+{{% ls-details title="Everdisk 能在哪些裝置上執行？" closed="true" %}}
 Everdisk 在 iPhone 和 iPad 上執行。它可以與智慧電視、媒體播放器，Mac、Windows 和 Linux 電腦，網頁瀏覽器，其他手機和平板，NAS 硬碟，以及你網路中任何 DLNA、WebDAV、FTP 或 SFTP 伺服器共享並連接。
-{{% /details %}}
+{{% /ls-details %}}

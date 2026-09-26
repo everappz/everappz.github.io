@@ -8,7 +8,7 @@ tags: ["מוזיקה", "ענן", "נגן", "מוריד", "אקולייזר", "ל
 readingTime: 8
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **בקצרה:** כדי לנגן FLAC באייפון אתם זקוקים לנגן צד שלישי, מפני שאפליקציית המוזיקה של Apple אינה תומכת ב-FLAC. התקינו את [Flacbox](/products/flacbox) (הוא חינמי), ואז העבירו את הקבצים שלכם דרך Wi-Fi Drive או USB, או חברו את אחסון הענן או ה-NAS שלכם. ספריית ה-FLAC שלכם מתנגנת באיכות מלאה, עד 384 kHz ו-32-bit דרך USB DAC. Flacbox גם מנגן יותר מ-120 פורמטים, כולל FLAC, DSD, ALAC, APE, WAV, OGG ו-OPUS, והוא מוסיף אקולייזר 10 פסים, את מנוע השמע המקצועי BASS עם אפקטים בזמן אמת, מעבד DSP וויזואלייזר מוזיקלי במסך מלא.
@@ -34,7 +34,7 @@ Flacbox הוא נגן מוזיקה ברזולוציה גבוהה לאייפון,
 
 Flacbox ניתן להורדה בחינם ופועל באייפון, באייפד וב-Mac.
 
-{{< app-details product="flacbox" >}}
+{{< ls-app-details product="flacbox" >}}
 
 ### שלב 2. הכנסת קבצי ה-FLAC שלכם
 
@@ -82,7 +82,7 @@ Flacbox בנוי עבור אנשים שאכפת להם מאיכות הצליל, 
 Flacbox כולל אקולייזר גרפי 10 פסים עם presets בסגנון iPod כמו Acoustic, Bass Booster, Rock, Pop, Jazz, Classical ו-Dance. יש מקדים מגבר להגברת רצועות שקטות ללא עיוות, ותוכלו לשמור presets משלכם. כווננו אותו עבור אוזניות in-ear, HomePod או מערכת שמע לרכב. להסבר מלא, עיינו ב-[מדריך האקולייזר](/docs/howto/how-to-use-the-audio-equalizer-on-your-iphone-ipad-mac-with-evermusic-and-flacbox).
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="אקולייזר נגן השמע של Flacbox" image="/docs/guide/flacbox/img/audio-player-equalizer.webp" >}}
+  {{< ls-card title="" subtitle="אקולייזר נגן השמע של Flacbox" image="/docs/guide/flacbox/img/audio-player-equalizer.webp" >}}
 {{< /cards >}}
 
 ## אפקטי שמע בזמן אמת
@@ -106,7 +106,7 @@ Flacbox כולל אקולייזר גרפי 10 פסים עם presets בסגנון
 ל-Flacbox יש ויזואלייזר מוזיקלי מובנה שמצייר ויזואלים נעים וצבעוני בקצב המוזיקה שלכם. הוא משתמש במנוע Milkdrop הידוע (projectM) עם 500 presets, המצוירים באמצעות OpenGL באייפון, באייפד וב-Mac. פתחו אותו מהנגן על ידי הקשה על כפתור עוד פעולות ולאחר מכן Visualization. בחרו preset, או השתמשו במצב Auto כדי לעבור ביניהם כל 30 שניות עם מעבר crossfade חלק. לעזרה שלב אחר שלב, עיינו במדריך על [איך להפעיל את הויזואלייזר המוזיקלי](/docs/howto/how-to-turn-on-a-music-visualizer-while-playing-music-on-iphone-ipad-mac).
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="ויזואלייזר מוזיקלי של Flacbox (Milkdrop ו-projectM)" image="/docs/howto/how-to-turn-on-a-music-visualizer-while-playing-music-on-iphone-ipad-mac/music-visualizer-starfield-sectors-preset.webp" >}}
+  {{< ls-card title="" subtitle="ויזואלייזר מוזיקלי של Flacbox (Milkdrop ו-projectM)" image="/docs/howto/how-to-turn-on-a-music-visualizer-while-playing-music-on-iphone-ipad-mac/music-visualizer-starfield-sectors-preset.webp" >}}
 {{< /cards >}}
 
 ## ענן, NAS וניגון לא מקוון
@@ -127,7 +127,7 @@ Flacbox כולל אקולייזר גרפי 10 פסים עם presets בסגנון
 
 Flacbox ניתן להורדה בחינם. Premium מסיר את מגבלות הגרסה החינמית על חשבונות ענן, רשימות השמעה ותיקיות לא מקוונות, והוא זמין כרכישה חד-פעמית לכל החיים או כמנוי חודשי או שנתי, עם שיתוף משפחתי.
 
-{{< app-details product="flacbox" >}}
+{{< ls-app-details product="flacbox" >}}
 
 ## אפשרות 2: המרת FLAC ל-ALAC עבור אפליקציית המוזיקה
 
@@ -141,34 +141,34 @@ Flacbox ניתן להורדה בחינם. Premium מסיר את מגבלות ה�
 
 ## שאלות נפוצות
 
-{{% details title="האם האייפון יכול לנגן קבצי FLAC באופן מובנה?" closed="true" %}}
+{{% ls-details title="האם האייפון יכול לנגן קבצי FLAC באופן מובנה?" closed="true" %}}
 רק בצורה מוגבלת. אפליקציית הקבצים יכולה להציג תצוגה מקדימה של קובץ FLAC בודד מאז iOS 11, אך אין ספרייה, רשימות השמעה, תור, אקולייזר או הזרמת ענן. להאזנה אמיתית, השתמשו באפליקציית נגן כמו Flacbox.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="האם אני יכול לנגן FLAC ב-24-bit או 96kHz (או גבוה יותר) באייפון?" closed="true" %}}
+{{% ls-details title="האם אני יכול לנגן FLAC ב-24-bit או 96kHz (או גבוה יותר) באייפון?" closed="true" %}}
 כן. Flacbox תומך בפלט ברזולוציה גבוהה עד 384 kHz. כדי לנגן מעל 48 kHz ברזולוציה האמיתית, חברו USB DAC חיצוני, מפני שהפלט המובנה של האייפון מבצע דגימה מחדש של השמע עבור כל אפליקציה.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="האם Flacbox ממיר FLAC לפורמט אחר?" closed="true" %}}
+{{% ls-details title="האם Flacbox ממיר FLAC לפורמט אחר?" closed="true" %}}
 לא. Flacbox מנגן FLAC באיכותו המקורית ללא אובדן איכות וללא המרה. אפקטים ו-DSP מיושמים בשידור חי במהלך הניגון בלבד, והם אף פעם אינם משנים את הקבצים שלכם.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="האם אני מאבד איכות בהמרת FLAC ל-ALAC?" closed="true" %}}
+{{% ls-details title="האם אני מאבד איכות בהמרת FLAC ל-ALAC?" closed="true" %}}
 לא. גם FLAC וגם ALAC הם ללא אובדן איכות, כך שההמרה היא bit-perfect. אתם רק מבזבזים זמן ומוותרים על נוחות, מפני שאתם נשארים עם שתי ספריות לתחזוקה ואתם צריכים לסנכרן מחדש לאחר עריכות.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="באילו פורמטי שמע Flacbox תומך?" closed="true" %}}
+{{% ls-details title="באילו פורמטי שמע Flacbox תומך?" closed="true" %}}
 יותר מ-120 פורמטים, כולל FLAC, DSD (DSF ו-DFF), ALAC, APE, WAV, AIFF, WV, OGG, OPUS, MP3, AAC, M4A, WMA, ואפילו מוזיקת tracker ו-MOD כמו MOD, XM, IT ו-S3M.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="האם ל-Flacbox יש אקולייזר, אפקטים וויזואלייזר?" closed="true" %}}
+{{% ls-details title="האם ל-Flacbox יש אקולייזר, אפקטים וויזואלייזר?" closed="true" %}}
 כן. יש לו אקולייזר 10 פסים עם presets ופרה-אמפ. יש לו גם מנוע BASS מקצועי עם אחד-עשר אפקטים בזמן אמת (רוורב, delay, הד multi-tap, crossfeed, קומפרסור, chorus, flanger, phaser, auto-wah, distortion וסיבוב סטריאו), בנוסף לאיזון ווליום EBU R128, מעבד DSP בן 14 מסננים וויזואלייזר Milkdrop במסך מלא עם 500 presets.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="האם אני יכול להזרים FLAC מה-NAS או מהענן שלי?" closed="true" %}}
+{{% ls-details title="האם אני יכול להזרים FLAC מה-NAS או מהענן שלי?" closed="true" %}}
 כן. Flacbox מתחבר ליותר מ-30 שירותי ענן ול-NAS או למחשב דרך SMB, WebDAV, DLNA, FTP, SFTP ו-NFS. כל הספרייה שלכם זמינה ללא העתקת קבצים לאייפון, ותוכלו להוריד רצועות לניגון לא מקוון בכל עת.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="האם Flacbox באמת חינמי?" closed="true" %}}
+{{% ls-details title="האם Flacbox באמת חינמי?" closed="true" %}}
 Flacbox ניתן להורדה בחינם, עם תכונות ליבה כמו האקולייזר, הזרמת ענן וניגון לא מקוון. Premium מסיר את מגבלות הגרסה החינמית על חשבונות ענן, רשימות השמעה ותיקיות לא מקוונות, והוא מגיע כרכישה חד-פעמית לכל החיים או כמנוי חודשי או שנתי, עם שיתוף משפחתי.
-{{% /details %}}
+{{% /ls-details %}}

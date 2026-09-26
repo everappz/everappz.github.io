@@ -7,7 +7,7 @@ tags: ["música", "áudio", "equalizador", "10 bandas", "ganho", "configuração
 keywords: ["equalizador de áudio iPhone", "predefinições EQ Evermusic", "equalizador 10 bandas Flacbox", "ajustar graves agudos iOS", "equalizador Mac aplicativo de música", "aumentar áudio com pré-amplificador", "predefinições de som personalizadas"]
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **Resumo:** Evermusic e Flacbox incluem um equalizador de áudio profissional de 10 bandas com predefinições (Rock, Hip-Hop, Bass Booster e mais), criação de predefinições personalizadas e um pré-amplificador para aumento de volume. Disponível no iPhone, iPad e Mac.
@@ -105,26 +105,26 @@ Eleve sua experiência musical, adapte seu áudio a qualquer cenário e aproveit
 
 ## Perguntas frequentes
 
-{{% details title="O equalizador funciona com todos os formatos de áudio?" closed="true" %}}
+{{% ls-details title="O equalizador funciona com todos os formatos de áudio?" closed="true" %}}
 Sim. O EQ de 10 bandas no Evermusic e Flacbox funciona com MP3, FLAC, AAC, WAV, ALAC, OGG e todos os outros formatos suportados.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="As configurações do EQ se aplicam a todas as músicas?" closed="true" %}}
+{{% ls-details title="As configurações do EQ se aplicam a todas as músicas?" closed="true" %}}
 Sim. Depois de ativar o equalizador e selecionar uma predefinição, ela se aplica a toda a reprodução até que você a altere ou desative.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Posso criar mais de uma predefinição personalizada?" closed="true" %}}
+{{% ls-details title="Posso criar mais de uma predefinição personalizada?" closed="true" %}}
 Sim. Você pode criar, salvar e alternar entre várias predefinições personalizadas. Use o recurso de exportação para fazer backup.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="O pré-amplificador causa distorção?" closed="true" %}}
+{{% ls-details title="O pré-amplificador causa distorção?" closed="true" %}}
 Pode, se configurado muito alto. Observe os indicadores de nível de áudio durante o ajuste. Se os níveis estiverem cortando (atingindo o topo), reduza ligeiramente o ganho do pré-amplificador.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="O equalizador está disponível tanto no Evermusic quanto no Flacbox?" closed="true" %}}
+{{% ls-details title="O equalizador está disponível tanto no Evermusic quanto no Flacbox?" closed="true" %}}
 Sim. Ambos os aplicativos incluem o mesmo equalizador de 10 bandas com predefinições, predefinições personalizadas e pré-amplificador.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Posso compartilhar minhas predefinições de EQ com outra pessoa?" closed="true" %}}
+{{% ls-details title="Posso compartilhar minhas predefinições de EQ com outra pessoa?" closed="true" %}}
 Sim. Use a opção Exportar configuração para salvar suas predefinições em um arquivo e depois compartilhe. A outra pessoa pode importá-las usando Importar configuração.
-{{% /details %}}
+{{% /ls-details %}}

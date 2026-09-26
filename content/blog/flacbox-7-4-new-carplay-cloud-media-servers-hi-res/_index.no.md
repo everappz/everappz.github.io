@@ -12,7 +12,7 @@ authors:
     image: "/images/about/artem-meleshko-founder-everappz.webp"
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 **Kort fortalt:** [Flacbox 7.4](/products/flacbox) er en stor oppdatering for hi-res-lydspilleren for iPhone og Mac. CarPlay er bygd opp fra grunnen — rask sortering, flere fargetemaer, en oppfrisket Spilles nå-skjerm, hele avspillingskøen i ett blikk og en bokstavindeks for store bibliotek. Oppdateringen legger til mer enn 10 nye måter å nå musikken din på — personvernsfokuserte skytjenester **Internxt** og **Proton Drive**, personlige servere **QNAP**, **Nextcloud** og **Amazon S3**, strømmeservere **Plex**, **Subsonic**, **Navidrome**, **Jellyfin** og **Emby**, samt nettverksprotokollene **FTP**, **SFTP** og **NFS**. Grensesnittet er tilpasset Apples nye **Liquid Glass**-materiale, de underliggende nettverksbibliotekene er sterkere, og Hjem-skjermwidgeter oppdateres mer pålitelig.
 
@@ -121,50 +121,50 @@ Hvis appen gjør dagen din bedre, hjelper en vurdering i App Store virkelig. Sp�
 
 ## Vanlige spørsmål
 
-{{% details title="Hva er nytt i Flacbox 7.4?" closed="true" %}}
+{{% ls-details title="Hva er nytt i Flacbox 7.4?" closed="true" %}}
 Flacbox 7.4 leverer en fullstendig nybygd CarPlay-opplevelse og legger til 10+ nye tilkoblinger — Plex, Jellyfin, Emby, Subsonic, Navidrome, Internxt, Proton Drive, QNAP, Nextcloud, Amazon S3, FTP, SFTP, NFS. Utgivelsen bringer også en Liquid Glass-designoppfriskning, sterkere nettverksbiblioteker, redesignede Hjem-skjermwidgeter med smartere oppdatering, avspillingsfikser på enkelte servere, oversettelsesforbedringer og mange små poleringer.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Fungerer Flacbox med Plex for FLAC og tapsfri lyd?" closed="true" %}}
+{{% ls-details title="Fungerer Flacbox med Plex for FLAC og tapsfri lyd?" closed="true" %}}
 Ja. Fra og med Flacbox 7.4 kan du koble til en Plex Media Server og strømme hele hi-res-biblioteket ditt — FLAC, ALAC, WAV, AIFF, OGG, OPUS og andre tapsfrie formater. Plex Media Server er gratis å kjøre; Plex Pass er valgfri. Flacbox støtter både gratis og Plex Pass-oppsett.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Er Jellyfin eller Navidrome støttet i Flacbox?" closed="true" %}}
+{{% ls-details title="Er Jellyfin eller Navidrome støttet i Flacbox?" closed="true" %}}
 Ja. Begge er fullt ut støttet i Flacbox 7.4. Jellyfin er en gratis, åpen kildekode-medieserver. Navidrome er en gratis, åpen kildekode-musikkserver som implementerer Subsonic-API-et. Flacbox kobler native til begge og strømmer det tapsfrie biblioteket ditt med fulle metadata og omslag.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Er Plex, Jellyfin, Emby, Navidrome og Subsonic gratis?" closed="true" %}}
+{{% ls-details title="Er Plex, Jellyfin, Emby, Navidrome og Subsonic gratis?" closed="true" %}}
 - **Plex** — server er gratis; Plex Pass er en valgfri betalt oppgradering.
 - **Jellyfin** — fullstendig gratis og åpen kildekode.
 - **Emby** — server er gratis; Emby Premiere er betalt og låser opp mobilsynkronisering og frakoblet bruk.
 - **Navidrome** — fullstendig gratis og åpen kildekode.
 - **Subsonic** — den offisielle serveren koster $1/måned etter 30-dagers prøveperiode, men API-et er åpent og mange gratis servere (inkludert Navidrome) implementerer det.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Kan jeg strømme FLAC og DSD fra hjemme-NAS-en min over SFTP, FTP eller NFS?" closed="true" %}}
+{{% ls-details title="Kan jeg strømme FLAC og DSD fra hjemme-NAS-en min over SFTP, FTP eller NFS?" closed="true" %}}
 Ja. Flacbox 7.4 legger til SFTP, FTP og NFS som native tilkoblingstyper. SFTP er det anbefalte valget for strømming fra din egen server over det offentlige internett fordi all trafikk er kryptert via SSH. FTP og NFS er best brukt inne i ditt lokale nettverk eller bak en VPN.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Hvordan kobler jeg Flacbox til en egendefinert server med SFTP?" closed="true" %}}
+{{% ls-details title="Hvordan kobler jeg Flacbox til en egendefinert server med SFTP?" closed="true" %}}
 Åpne Flacbox, gå til Tilkoblinger-fanen, velg SFTP og skriv inn serverens vertsnavn eller IP, port (vanligvis 22), brukernavn og enten et passord eller en privat SSH-nøkkel. Flacbox vil bla i fjernmappene dine og strømme lydfiler direkte med ende-til-ende-kryptering.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Støtter Flacbox Internxt og Proton Drive?" closed="true" %}}
+{{% ls-details title="Støtter Flacbox Internxt og Proton Drive?" closed="true" %}}
 Ja. Begge personvernsfokuserte skyene er støttet fra og med Flacbox 7.4. De slutter seg til MEGA og andre personvernsfokuserte tjenester som allerede er tilgjengelige i appen.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Spiller Flacbox DSD-filer fra Plex, Jellyfin eller en NAS?" closed="true" %}}
+{{% ls-details title="Spiller Flacbox DSD-filer fra Plex, Jellyfin eller en NAS?" closed="true" %}}
 Ja. Flacbox spiller DSD64-, DSD128- og DSD256-filer (DSF- og DFF-beholdere) strømmet fra Plex, Jellyfin, Emby, Subsonic-kompatible servere, QNAP, Nextcloud, Amazon S3 og over SFTP, FTP og NFS. Bit-perfekt utgang til USB DAC-er er støttet på iPhone, iPad og Mac.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Hvordan fungerer de redesignede CarPlay-skjermene?" closed="true" %}}
+{{% ls-details title="Hvordan fungerer de redesignede CarPlay-skjermene?" closed="true" %}}
 Flacbox sitt CarPlay-grensesnitt er bygd opp på nytt med rask sortering på tvers av album, artister, spillelister og mapper; flere fargetemaer som matcher ulike bilinteriører; en oppfrisket Spilles nå-skjerm med nye kontroller; hele avspillingskøen i ett blikk; en bokstavindeks for å hoppe gjennom store bibliotek; og raskere lasting på store mapper og skykataloger.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Er Flacbox 7.4 gratis å oppdatere?" closed="true" %}}
+{{% ls-details title="Er Flacbox 7.4 gratis å oppdatere?" closed="true" %}}
 Ja. Flacbox er en gratis nedlasting fra App Store, og 7.4 er en gratis oppdatering for alle eksisterende brukere. Den nybygde CarPlay, alle nye sky- og servertilkoblinger, oppfriskede Hjem-skjermwidgeter og Liquid Glass-grensesnittet er en del av basisoppdateringen.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Hvilke enheter er Flacbox 7.4 tilgjengelig på?" closed="true" %}}
+{{% ls-details title="Hvilke enheter er Flacbox 7.4 tilgjengelig på?" closed="true" %}}
 Flacbox 7.4 kjører på iPhone, iPad og Mac. CarPlay-støtte krever et CarPlay-kompatibelt kjøretøy eller en ettermarkeds-hodeenhet. AirPlay og Chromecast lar deg caste avspilling til et større system; USB DAC-er er støttet for bit-perfekt tapsfri utgang.
-{{% /details %}}
+{{% /ls-details %}}

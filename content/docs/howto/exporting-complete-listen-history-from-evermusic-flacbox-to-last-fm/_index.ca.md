@@ -7,7 +7,7 @@ tags: ["evermusic", "flacbox", "recents", "lastfm", "exportar", "scrobbler"]
 readingTime: 5
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **Resum:** Exporta el teu historial d'escolta d'Evermusic o Flacbox com a fitxer CSV, després puja'l a Last.fm utilitzant l'eina gratuïta Last.fm-Scrubbler-WPF a Windows. L'scrobbling automàtic també està disponible de forma nativa a ambdues aplicacions.
@@ -134,22 +134,22 @@ Ara pots obrir el teu perfil a la pàgina de [Last.fm](http://Last.fm) i comprov
 
 ## Preguntes freqüents
 
-{{% details title="Puc fer scrobbling automàticament sense exportar fitxers CSV?" closed="true" %}}
+{{% ls-details title="Puc fer scrobbling automàticament sense exportar fitxers CSV?" closed="true" %}}
 Sí. Tant Evermusic com Flacbox ara admeten l'scrobbling automàtic a Last.fm. Consulta la guia: [Com fer scrobble a Last.fm](/docs/howto/how-to-scrobble-your-music-history-from-evermusic-or-flacbox-to-last-fm).
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Què passa si el meu CSV té pistes de més de 14 dies?" closed="true" %}}
+{{% ls-details title="Què passa si el meu CSV té pistes de més de 14 dies?" closed="true" %}}
 Utilitza el Mode d'Importació a Last.fm-Scrubbler-WPF. Recalcula les marques de temps a partir del Temps de Finalització, permetent-te fer scrobble de les pistes independentment de la seva data original.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="No tinc un ordinador amb Windows. Puc utilitzar Last.fm-Scrubbler?" closed="true" %}}
+{{% ls-details title="No tinc un ordinador amb Windows. Puc utilitzar Last.fm-Scrubbler?" closed="true" %}}
 Sí. Instal·la VirtualBox al teu Mac i descarrega la imatge gratuïta de l'entorn de desenvolupament de Windows de Microsoft. Executa Last.fm-Scrubbler-WPF dins de la màquina virtual.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Per què no s'analitzen alguns scrobbles?" closed="true" %}}
+{{% ls-details title="Per què no s'analitzen alguns scrobbles?" closed="true" %}}
 Les pistes que no tenen metadades essencials (com el nom de l'artista) no es poden analitzar. Això és esperat i no afecta les altres pistes del fitxer.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Hi ha un límit diari d'scrobbling?" closed="true" %}}
+{{% ls-details title="Hi ha un límit diari d'scrobbling?" closed="true" %}}
 Sí. Last.fm-Scrubbler-WPF permet fins a 2.800 scrobbles per dia. Si necessites fer-ne més, divideix el procés en diversos dies.
-{{% /details %}}
+{{% /ls-details %}}

@@ -7,7 +7,7 @@ tags: ["zene", "usb", "külső", "ixpand", "sandisk", "iphone", "evermusic"]
 readingTime: 3
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **Összefoglaló:** Az Evermusic lehetővé teszi, hogy közvetlenül egy SanDisk iXpand Flash Drive-ról játsszon le zenét az iPhone-ján vagy iPadjén. Csatlakoztassa a meghajtót, nyissa meg az Evermusic-ot, és kezdjen el hallgatni -- nincs szükség fájlok másolására az eszközre. Támogatja a fájlkezelést, lejátszási listákat, hangszínszabályzót és AirPlay streaminget.
@@ -69,22 +69,22 @@ Az Evermusic és a SanDisk iXpand Flash Drive segítségével szabadon élvezhet
 
 ## GYIK
 
-{{% details title="Milyen iXpand Flash Drive modelleket támogat az Evermusic?" closed="true" %}}
+{{% ls-details title="Milyen iXpand Flash Drive modelleket támogat az Evermusic?" closed="true" %}}
 Az Evermusic támogatja a SanDisk iXpand Flash Drive-okat V1, V2, V3, V6 és V7 protokollokkal. A kompatibilitást az iPhone Beállítások menüjében ellenőrizheti az Általános > Névjegy > iXpand Flash Drive alatt.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Lejátszhatok zenét az USB meghajtóról anélkül, hogy fájlokat másolnék az iPhone-omra?" closed="true" %}}
+{{% ls-details title="Lejátszhatok zenét az USB meghajtóról anélkül, hogy fájlokat másolnék az iPhone-omra?" closed="true" %}}
 Igen. Az Evermusic közvetlenül az iXpand Flash Drive-ról játssza le a hangfájlokat. Nem kell semmit másolnia az eszköz belső tárhelyére.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Milyen hangformátumokat támogat az Evermusic USB meghajtókról?" closed="true" %}}
+{{% ls-details title="Milyen hangformátumokat támogat az Evermusic USB meghajtókról?" closed="true" %}}
 Az Evermusic támogatja az összes főbb hangformátumot, beleértve az MP3, FLAC, AAC, WAV, AIFF, OGG és más formátumokat. Az iXpand meghajtón tárolt bármely hangfájl közvetlenül lejátszható.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Streamelhetek zenét az iXpand meghajtóról AirPlay hangszórókra?" closed="true" %}}
+{{% ls-details title="Streamelhetek zenét az iXpand meghajtóról AirPlay hangszórókra?" closed="true" %}}
 Igen. Zene lejátszása közben az USB meghajtóról streamelheti a hangot AirPlay-kompatibilis eszközökre, például Sonos hangszórókra, Apple TV-re és Google Chromecast-ra.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Mit tegyek, ha az iXpand meghajtóm nem felismerhető?" closed="true" %}}
+{{% ls-details title="Mit tegyek, ha az iXpand meghajtóm nem felismerhető?" closed="true" %}}
 Győződjön meg róla, hogy más alkalmazások nem használják a meghajtót. Próbálja meg kihúzni és újra csatlakoztatni. Ha a modellje nem támogatott, használjon Apple Lightning-USB adaptert a meghajtó szabványos USB eszközként való csatlakoztatásához.
-{{% /details %}}
+{{% /ls-details %}}

@@ -23,7 +23,7 @@ authors:
     image: "/images/about/artem-meleshko-founder-everappz.webp"
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 ## 在幾秒鐘內取得 App Store 資料
 
@@ -134,53 +134,53 @@ AppLookup.pro 在您的瀏覽器中執行。無登入。無追蹤。不會在伺
 AppLookup.pro 是開放原始碼專案。歡迎回報錯誤、新增國家/地區與提交 Pull Request。
 
 {{< cards cols="1" >}}
-  {{< card link="https://github.com/everappz/AppStoreLookup" title="GitHub 上的 AppLookup.pro" icon="github" tag="開放原始碼" >}}
+  {{< ls-card link="https://github.com/everappz/AppStoreLookup" title="GitHub 上的 AppLookup.pro" icon="github" tag="開放原始碼" >}}
 {{< /cards >}}
 
 ---
 
 ## 常見問題
 
-{{% details title="AppLookup.pro 真的免費嗎?" closed="true" %}}
+{{% ls-details title="AppLookup.pro 真的免費嗎?" closed="true" %}}
 是的。AppLookup.pro 100% 免費且開放原始碼。它在您的瀏覽器中執行。除了 Apple 自己的 iTunes Search API 限制之外,沒有註冊、付費等級或使用上限。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="資料從哪裡來?" closed="true" %}}
+{{% ls-details title="資料從哪裡來?" closed="true" %}}
 每個結果都即時從 Apple 官方的 [iTunes Search API](https://developer.apple.com/library/archive/documentation/AudioVideo/Conceptual/iTuneSearchAPI/index.html) 擷取。本工具不會爬取 App Store 頁面,也不會在任何伺服器上快取回應。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="可以下載高解析度的 App 圖示嗎?" closed="true" %}}
+{{% ls-details title="可以下載高解析度的 App 圖示嗎?" closed="true" %}}
 可以。**App Icon** 區段會顯示 Apple 傳回的每個圖示 URL。每張卡片都有 Direct Link 與 Download 按鈕,Download All Icons ZIP 按鈕可將它們打包到一個壓縮檔中。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="可以一次下載所有 App Store 截圖嗎?" closed="true" %}}
+{{% ls-details title="可以一次下載所有 App Store 截圖嗎?" closed="true" %}}
 可以。每個截圖區段(iPhone、iPad、macOS 與 Apple TV)都有 **Download All (ZIP)** 按鈕,可將所有截圖以完整解析度打包。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="如何查看 App 在其他國家/地區的樣子?" closed="true" %}}
+{{% ls-details title="如何查看 App 在其他國家/地區的樣子?" closed="true" %}}
 在頁面頂部的下拉式選單中選擇一個國家/地區。支援 40 多個店面。再次按一下 **Lookup**,工具會重新擷取該國家/地區的 App,顯示在地化的標題、描述、截圖、新功能與價格。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="可以複製 Bundle ID 或發行日期等單一欄位嗎?" closed="true" %}}
+{{% ls-details title="可以複製 Bundle ID 或發行日期等單一欄位嗎?" closed="true" %}}
 可以。結果中的每個文字欄位都有自己的 Copy 按鈕: App 名稱、開發者、描述、新功能、Bundle ID、版本、價格、檔案大小、最低 OS、發行日期、內容分級、語言、支援的裝置以及原始 JSON。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="AppLookup.pro 適用於任何 iOS App 嗎?" closed="true" %}}
+{{% ls-details title="AppLookup.pro 適用於任何 iOS App 嗎?" closed="true" %}}
 它適用於在至少一個 App Store 國家/地區公開上架並由 iTunes Search API 傳回的任何 App。未上架、已下架或企業派發的 App 不會出現。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="它支援 macOS 與 Apple TV App 嗎?" closed="true" %}}
+{{% ls-details title="它支援 macOS 與 Apple TV App 嗎?" closed="true" %}}
 是的。如果該 App 在 iTunes Search API 回應中有 macOS 或 Apple TV 截圖,AppLookup.pro 會將它們顯示在自己的可捲動面板中,並帶有下載按鈕。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="我可以在自己的程式碼中使用原始 JSON 嗎?" closed="true" %}}
+{{% ls-details title="我可以在自己的程式碼中使用原始 JSON 嗎?" closed="true" %}}
 可以。Raw API Response 區段會顯示 Apple 傳回的精確 JSON。將其複製到 Postman、單元測試或後端管線中。請尊重 Apple 的 API 條款與合理的速率限制。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="把 App Store URL 貼到工具中安全嗎?" closed="true" %}}
+{{% ls-details title="把 App Store URL 貼到工具中安全嗎?" closed="true" %}}
 是的。URL 會在您的瀏覽器中解析。唯一的對外網路呼叫是對 Apple iTunes Search API 的查詢。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="AppLookup.pro 與 AppKeywords.pro 之間有什麼差別?" closed="true" %}}
+{{% ls-details title="AppLookup.pro 與 AppKeywords.pro 之間有什麼差別?" closed="true" %}}
 [AppLookup.pro](https://applookup.pro) 用於讀取任何已發布 App 的 App Store 中繼資料: 競品研究、素材下載、在地化檢查。[AppKeywords.pro](https://appkeywords.pro) 用於為您自己的 App 撰寫 App Store 中繼資料: 標題、副標題與關鍵字最佳化,並支援 Fastlane。這兩款工具搭配使用效果很好。
-{{% /details %}}
+{{% /ls-details %}}

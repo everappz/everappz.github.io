@@ -1,9 +1,10 @@
 ---
+excludeSearch: true
 date: '2025-06-12T17:00:00+00:00'
 title: 'हमसे संपर्क करें'
 ---
 
-{{< lottie src="/images/juicy-json/juicy-girl-typing-on-phone.json" width="60%" >}}
+{{< ls-lottie src="/images/juicy-json/juicy-girl-typing-on-phone.json" width="60%" >}}
 
 ## डाक पता
 
@@ -27,4 +28,4 @@ title: 'हमसे संपर्क करें'
 
 नवीनतम समाचार, ऐप अपडेट, सुझाव और उपयोगी जानकारी प्राप्त करने के लिए सोशल नेटवर्क पर हमसे जुड़ें:
 
-{{< social-cards >}}
+{{< ls-social-cards >}}

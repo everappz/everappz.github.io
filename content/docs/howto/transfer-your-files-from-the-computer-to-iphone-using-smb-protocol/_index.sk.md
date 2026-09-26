@@ -7,7 +7,7 @@ tags: ["cloud", "streaming", "computer", "mp3", "file", "downloader", "manager",
 keywords: ["prenos súborov do iPhone SMB", "streamovanie hudby z PC na iPhone", "pripojenie Macu k iPhone SMB", "nastavenie Evermusic SMB", "prístup k súborom počítača iPhone", "zdieľanie hudby Windows iOS", "prenos súborov SMB Evermusic"]
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **Zhrnutie:** Použite Evermusic na svojom iPhone alebo iPade na prístup k súborom uloženým na Macu alebo Windows PC cez lokálnu sieť pomocou SMB. Bez káblov, bez iTunes, bez nahrávania do cloudu. Povoľte zdieľanie súborov na počítači, pripojte sa v aplikácii a prehliadajte alebo prehrávajte súbory bezdrôtovo.
@@ -142,26 +142,26 @@ S týmito krokmi môžete jednoducho pristupovať k rozsiahlej zbierke súborov 
 
 ## Často kladené otázky
 
-{{% details title="Môžem pristupovať k súborom na PC z iPhonu bez iTunes?" closed="true" %}}
+{{% ls-details title="Môžem pristupovať k súborom na PC z iPhonu bez iTunes?" closed="true" %}}
 Áno. Evermusic sa pripojí k vášmu počítaču cez SMB na lokálnej Wi-Fi sieti. Synchronizácia cez iTunes alebo Finder nie je potrebná. Povoľte zdieľanie súborov na PC a pripojte sa priamo z aplikácie.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Funguje prístup k súborom cez SMB cez internet?" closed="true" %}}
+{{% ls-details title="Funguje prístup k súborom cez SMB cez internet?" closed="true" %}}
 Nie. SMB je protokol lokálnej siete. Váš iPhone a počítač musia byť na rovnakej Wi-Fi sieti. Pre vzdialený prístup nahrajte súbory do cloudovej služby ako Google Drive alebo Dropbox a pripojte sa k nej v Evermusic.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Aké typy súborov môžem pristupovať cez SMB?" closed="true" %}}
+{{% ls-details title="Aké typy súborov môžem pristupovať cez SMB?" closed="true" %}}
 Evermusic podporuje MP3, FLAC, AAC, WAV, AIFF, OGG, WMA, ALAC a ďalšie audio formáty. Môžete tiež prehliadať a spravovať neaudio súbory pomocou vstavaného správcu súborov.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Môžem prenášať súbory z NAS do iPhonu pomocou SMB?" closed="true" %}}
+{{% ls-details title="Môžem prenášať súbory z NAS do iPhonu pomocou SMB?" closed="true" %}}
 Áno. Väčšina NAS zariadení (Synology, QNAP, WD My Cloud a ďalšie) podporuje SMB. Pripojte sa k NAS pomocou rovnakých krokov v tomto sprievodcovi.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Musím kopírovať súbory do iPhonu, aby som ich mohol prehrávať?" closed="true" %}}
+{{% ls-details title="Musím kopírovať súbory do iPhonu, aby som ich mohol prehrávať?" closed="true" %}}
 Nie. Evermusic streamuje súbory priamo z vášho počítača alebo NAS cez sieť. Súbory sa nekopírujú do iPhonu, pokiaľ si ich nezvolíte stiahnuť pre offline prehrávanie.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Je zdieľanie súborov cez SMB bezpečné?" closed="true" %}}
+{{% ls-details title="Je zdieľanie súborov cez SMB bezpečné?" closed="true" %}}
 Zdieľanie súborov cez SMB funguje iba na vašej lokálnej sieti. Ostatné zariadenia na iných sieťach nemôžu pristupovať k vašim zdieľaným priečinkom. Pre dodatočnú bezpečnosť použite prihlasovacie meno a heslo namiesto anonymného (Všetci) prístupu.
-{{% /details %}}
+{{% /ls-details %}}

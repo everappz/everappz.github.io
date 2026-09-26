@@ -19,7 +19,7 @@ Az Evervideo letisztult, intuitív felületet kínál, amely ismerős mindenki s
 A legtöbb médiaalkalmozással ellentétben az Evervideo egyetlen, egységes Fájlok lapba olvasztja össze a felhőfiókokat, NAS-megosztásokat, médiaszervereket és helyi fájlokat — így nincs szükség különböző képernyők közötti ugrásra. Ez lehetővé teszi, hogy egy videót Plex-szerverről, iCloud Drive-mappából az iPhone Dokumentumok mappájába helyezzen át — egyetlen képernyőn, egyetlen érintéssel.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evervideo főképernyő" image="/docs/guide/evervideo/img/evervideo-main.webp" >}}
+  {{< ls-card title="" subtitle="Evervideo főképernyő" image="/docs/guide/evervideo/img/evervideo-main.webp" >}}
 {{< /cards >}}
 
 ## Lapok
@@ -53,7 +53,7 @@ A PiP az Evervideo által lejátszott összes videoformátummal működik, bele�
 Szinte minden tartalomelem a képernyőn rendelkezik egy További műveletek gombbal (a „⋯" három pont ikon). Érintse meg egy kontextusérzékeny menü megnyitásához, amely az adott elemhez elérhető minden műveletet tartalmaz — következőnek lejátszás, később lejátszás, hozzáadás lejátszási listához, hozzáadás kedvencekhez, címkék szerkesztése, letöltés, megosztás, átnevezés, mozgatás stb. A hosszú listák függőlegesen görgethetők, hogy a kevésbé gyakori műveletekhez is hozzáférjen anélkül, hogy zsúfolná a fő felületet.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evervideo Kedvencek További műveletek menü" image="/docs/guide/evervideo/img/evervideo-favorites-more-actions.webp" >}}
+  {{< ls-card title="" subtitle="Evervideo Kedvencek További műveletek menü" image="/docs/guide/evervideo/img/evervideo-favorites-more-actions.webp" >}}
 {{< /cards >}}
 
 ## Felső eszköztár

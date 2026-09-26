@@ -17,7 +17,7 @@ El Reproductor és la pantalla principal de l'aplicació on pots controlar la cu
 ## Accés al reproductor
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Pantalla del reproductor d'àudio d'Evermusic" image="/docs/guide/evermusic/evermusic-guide-player/img/player-main.webp" >}}
+  {{< ls-card title="" subtitle="Pantalla del reproductor d'àudio d'Evermusic" image="/docs/guide/evermusic/evermusic-guide-player/img/player-main.webp" >}}
 {{< /cards >}}
 
 Pots accedir al reproductor de pantalla completa des de la vista del mini reproductor. Al teu iPhone, trobaràs el mini reproductor per sobre de la barra de pestanyes a la pantalla principal. A l'iPad o Mac, és accessible des del menú esquerre. Per amagar el mini reproductor, toca la seva icona i llisca cap avall. Per ocultar completament el reproductor de pantalla completa, simplement toca el botó de tancar situat a la cantonada inferior dreta.
@@ -44,7 +44,7 @@ Si et ve de gust una mica d'aleatorietat, l'opció "Aleatori" és la teva millor
 ## Control de volum
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Control de volum amb AirPlay i Google Cast" image="/docs/guide/evermusic/evermusic-guide-player/img/player-volume-control.webp" >}}
+  {{< ls-card title="" subtitle="Control de volum amb AirPlay i Google Cast" image="/docs/guide/evermusic/evermusic-guide-player/img/player-volume-control.webp" >}}
 {{< /cards >}}
 
 Troba el control lliscant de volum a la pantalla de configuració d'àudio tocant la icona de so sota els controls de reproducció. Pots canviar el volum utilitzant aquest control lliscant o els botons de volum estàndard del teu dispositiu. A més, trobaràs alguns botons d'streaming pràctics:
@@ -63,7 +63,7 @@ D'altra banda, si prefereixes AirPlay, busca el botó d'AirPlay a la part inferi
 ## Equalitzador d'àudio
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Equalitzador d'àudio de 10 bandes" image="/docs/guide/evermusic/evermusic-guide-player/img/player-equalizer.webp" >}}
+  {{< ls-card title="" subtitle="Equalitzador d'àudio de 10 bandes" image="/docs/guide/evermusic/evermusic-guide-player/img/player-equalizer.webp" >}}
 {{< /cards >}}
 
 Evermusic ve equipat amb un equalitzador de 10 bandes, complet amb presets a l'estil iPod, un preamplificador i configuració manual de l'equalitzador. Per activar l'equalitzador, simplement toca el botó "Equalitzador" a la barra d'eines inferior i activa el control d'interruptor a la cantonada superior dreta. Pots seleccionar entre una gamma de presets d'equalitzador predefinits com "Acoustic", "Bass Booster", "Classical" i més. Si ets un entusiasta del so, apreciaràs la possibilitat d'ajustar finament cada banda de freqüència mitjançant controls lliscants. Pots crear i desar els teus propis presets d'equalitzador d'àudio. Si una pista no és prou forta, també pots ajustar el guany del preamplificador. Tenim instruccions més detallades sobre com utilitzar l'equalitzador [aquí](/docs/howto/how-to-use-the-audio-equalizer-on-your-iphone-ipad-mac-with-evermusic-and-flacbox).
@@ -71,7 +71,7 @@ Evermusic ve equipat amb un equalitzador de 10 bandes, complet amb presets a l'e
 ## Barra d'eines del mode del reproductor
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Barra d'eines superior del reproductor amb cerca i velocitat" image="/docs/guide/evermusic/evermusic-guide-player/img/player-top-toolbar.webp" >}}
+  {{< ls-card title="" subtitle="Barra d'eines superior del reproductor amb cerca i velocitat" image="/docs/guide/evermusic/evermusic-guide-player/img/player-top-toolbar.webp" >}}
 {{< /cards >}}
 
 Per a uns pocs estils de pantalla del reproductor seleccionats, trobaràs una barra d'eines del mode del reproductor a la part superior de la pantalla del reproductor, just per sota de la barra de navegació. Aquesta pràctica barra d'eines té tres botons.
@@ -82,7 +82,7 @@ Per a uns pocs estils de pantalla del reproductor seleccionats, trobaràs una ba
 ## Marcadors d'àudio
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Marcadors d'àudio per a audiollibres i conferències" image="/docs/guide/evermusic/evermusic-guide-player/img/player-bookmarks.webp" >}}
+  {{< ls-card title="" subtitle="Marcadors d'àudio per a audiollibres i conferències" image="/docs/guide/evermusic/evermusic-guide-player/img/player-bookmarks.webp" >}}
 {{< /cards >}}
 
 Aquí és on pots crear múltiples marcadors per a pistes de la teva biblioteca de música. Tenim instruccions completes sobre com utilitzar els marcadors [aquí](/docs/howto/how-to-listen-to-audiobooks-on-iphone-ipad-mac-using-evermusic).
@@ -90,7 +90,7 @@ Aquí és on pots crear múltiples marcadors per a pistes de la teva biblioteca 
 ## Cua del reproductor
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Cua del reproductor" image="/docs/guide/evermusic/evermusic-guide-player/img/player-queue.webp" >}}
+  {{< ls-card title="" subtitle="Cua del reproductor" image="/docs/guide/evermusic/evermusic-guide-player/img/player-queue.webp" >}}
 {{< /cards >}}
 
 Per accedir a la cua del reproductor, simplement toca el botó de la cua del reproductor situat a la barra d'eines inferior. Per moure una cançó a la cua, utilitza l'indicador de reordenació prop del títol.
@@ -98,7 +98,7 @@ Per accedir a la cua del reproductor, simplement toca el botó de la cua del rep
 ## Comentaris / Lletres
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Comentaris, lletres incrustades i fitxers LRC" image="/docs/guide/evermusic/evermusic-guide-player/img/player-lyrics.webp" >}}
+  {{< ls-card title="" subtitle="Comentaris, lletres incrustades i fitxers LRC" image="/docs/guide/evermusic/evermusic-guide-player/img/player-lyrics.webp" >}}
 {{< /cards >}}
 
 Per veure els comentaris de les pistes i les lletres incrustades, així com els fitxers LRC, segueix aquests passos:
@@ -114,7 +114,7 @@ Tenim instruccions completes sobre com veure les lletres [aquí](/docs/howto/how
 ## Menú d'opcions
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Menú d'opcions per a un element de la cua" image="/docs/guide/evermusic/evermusic-guide-player/img/player-queue-item-options-menu.webp" >}}
+  {{< ls-card title="" subtitle="Menú d'opcions per a un element de la cua" image="/docs/guide/evermusic/evermusic-guide-player/img/player-queue-item-options-menu.webp" >}}
 {{< /cards >}}
 
 Cada cançó a la cua del reproductor d'àudio té un menú amb més accions, al qual pots accedir tocant el botó de tres punts prop del títol de la cançó. Les accions disponibles són:
@@ -153,7 +153,7 @@ Toca el botó de més accions "..." al costat esquerre del títol de la cançó 
 ## Recents i Preferits
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Cançons reproduïdes recentment des del reproductor" image="/docs/guide/evermusic/evermusic-guide-player/img/player-recents.webp" >}}
+  {{< ls-card title="" subtitle="Cançons reproduïdes recentment des del reproductor" image="/docs/guide/evermusic/evermusic-guide-player/img/player-recents.webp" >}}
 {{< /cards >}}
 
 A la pantalla del reproductor, pots accedir a les seccions 'Recents' i 'Preferits' tocant el botó de Més accions '…' i seleccionant l'element de menú corresponent. A les dues seccions, pots cercar cançons, reproduir totes les pistes, barrejar totes les pistes, exportar la llista i eliminar la llista. Tenim instruccions detallades sobre com exportar llistes de cançons [aquí](/docs/howto/export-tracks-collection-from-evermusic-flacbox-to-m3u-csv-txt/).
@@ -161,7 +161,7 @@ A la pantalla del reproductor, pots accedir a les seccions 'Recents' i 'Preferit
 ## Finestra del mini reproductor (exclusiu de Mac)
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Finestra del mini reproductor de Mac" image="/docs/guide/evermusic/evermusic-guide-player/img/player-mini-mac.webp" >}}
+  {{< ls-card title="" subtitle="Finestra del mini reproductor de Mac" image="/docs/guide/evermusic/evermusic-guide-player/img/player-mini-mac.webp" >}}
 {{< /cards >}}
 
 Per als usuaris de Mac, hi ha una pràctica finestra de mini reproductor. Per accedir-hi, simplement mou el cursor a la cantonada inferior dreta de la finestra de l'aplicació i redimensiona-la al mínim possible. Després, toca el botó de replegar (representat com una fletxa cap avall) per activar la finestra del mini reproductor. Si vols mantenir-la per sobre d'altres finestres, ves a la barra de menú superior del teu Mac, selecciona 'Finestra' i tria 'Mostra la finestra sempre al capdamunt'. Aquesta funció és especialment pràctica quan estàs escoltant conferències d'àudio i no vols interrupcions.
@@ -169,7 +169,7 @@ Per als usuaris de Mac, hi ha una pràctica finestra de mini reproductor. Per ac
 ## Dreceres de teclat (exclusiu de Mac)
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Menú de reproducció de la barra d'estat de Mac amb dreceres de teclat" image="/docs/guide/evermusic/evermusic-guide-player/img/player-mac-shortcuts.webp" >}}
+  {{< ls-card title="" subtitle="Menú de reproducció de la barra d'estat de Mac amb dreceres de teclat" image="/docs/guide/evermusic/evermusic-guide-player/img/player-mac-shortcuts.webp" >}}
 {{< /cards >}}
 
 Per als usuaris de Mac, hi ha un menú de reproducció del sistema disponible a la barra d'estat amb dreceres de teclat. Per exemple, per reproduir/pausar, simplement toca la barra espaiadora del teclat. Les dreceres per a Aturar, Cançó següent, Cançó anterior, Saltar temps, Repetir, Aleatori i Velocitat de reproducció estan disponibles tal com es mostra a la captura de pantalla.
@@ -177,7 +177,7 @@ Per als usuaris de Mac, hi ha un menú de reproducció del sistema disponible a 
 ## Configuració del reproductor d'àudio
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Configuració del reproductor d'àudio" image="/docs/guide/evermusic/evermusic-guide-player/img/player-settings.webp" >}}
+  {{< ls-card title="" subtitle="Configuració del reproductor d'àudio" image="/docs/guide/evermusic/evermusic-guide-player/img/player-settings.webp" >}}
 {{< /cards >}}
 
 Per accedir a la configuració del reproductor d'àudio, toca el botó Més a la pantalla del reproductor d'àudio i selecciona "Configuració" del menú desplegable. Aquí trobaràs diverses seccions agrupades per funcionalitat:

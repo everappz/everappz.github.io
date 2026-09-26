@@ -12,7 +12,7 @@ authors:
     image: "/images/about/artem-meleshko-founder-everappz.webp"
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 **Kort oppsummert:** [Evermusic 8.7](/products/evermusic) er en lydkvalitetsutgivelse for iPhone, iPad og Mac. Den leverer **ekte sømløs avspilling** (ingen pauser, klikk eller tikk mellom spor), et fullstendig sett med **studiolydeffekter** — Reverb, Delay, Distortion, Compressor og Crossfeed — og **EBU R128 volumnormalisering** som holder lydstyrken konsistent fra sang til sang uten ReplayGain-tagger. **10-bånds equalizeren** er redesignet med nye glidebrytere, raskere bytte av forhåndsinnstillinger, egendefinerte forhåndsinnstillinger du kan importere og eksportere, og en bedre layout i liggende format og på iPad. Under panseret forbedrer en **gjenoppbygd AVAudioEngine-strømmemotor** påliteligheten og formatstøtten, inkludert **FLAC** og **Ogg Vorbis**. **CarPlay** og **Spilles nå** er raskere og mer nøyaktige på låseskjermen, i bilen og fra fjernkontroller på hodetelefoner.
 
@@ -129,50 +129,50 @@ Hvis du liker appen, vennligst legg igjen en vurdering på App Store — det hje
 
 ## Ofte stilte spørsmål
 
-{{% details title="Hva er nytt i Evermusic 8.7?" closed="true" %}}
+{{% ls-details title="Hva er nytt i Evermusic 8.7?" closed="true" %}}
 Evermusic 8.7 legger til ekte sømløs avspilling, fem studiolydeffekter (Reverb, Delay, Distortion, Compressor og Crossfeed), EBU R128 volumnormalisering, en redesignet 10-bånds equalizer med egendefinerte forhåndsinnstillinger og import/eksport, en gjenoppbygd AVAudioEngine-strømmemotor med forbedret formatstøtte (inkludert FLAC og Ogg Vorbis), raskere og mer nøyaktig CarPlay og Spilles nå, Liquid Glass-designoppdateringer, oppfriskede startskjermwidgeter, og feil- og lokaliseringsfikser.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Har Evermusic ekte sømløs avspilling?" closed="true" %}}
+{{% ls-details title="Har Evermusic ekte sømløs avspilling?" closed="true" %}}
 Ja. Fra og med Evermusic 8.7 er avspillingen ekte sømløs: det er ingen pause, klikk eller tikk mellom spor. Motoren forhåndsbufrer og dekoder neste spor mens det nåværende spilles og overleverer mellom lydsampler på en kontinuerlig ringbuffer, slik at overgangen er uhørbar. Den fungerer for lokale filer, skystrømmer og medieservere, og den er ideell for livealbum, DJ-mikser og konseptalbum.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Hvilke lydeffekter inkluderer Evermusic 8.7?" closed="true" %}}
+{{% ls-details title="Hvilke lydeffekter inkluderer Evermusic 8.7?" closed="true" %}}
 Fem sanntidseffekter: **Reverb** (13 rom-forhåndsinnstillinger, wet/dry-miks), **Delay/Ekko** (10 forhåndsinnstillinger med delay-tid, feedback, lavpass og miks), **Distortion** (22 karakter-forhåndsinnstillinger med pre-gain og miks), **Compressor** (en fullverdig dynamikkprosessor med terskel, forhold, attack, release, ekspansjon og makeup-gain, pluss 10 forhåndsinnstillinger), og **Crossfeed** (Bauer bs2b hodetelefon-crossfeed med nivå- og cutoff-kontroller og 6 forhåndsinnstillinger). Hver effekt leveres med kuraterte forhåndsinnstillinger, og de egendefinerte innstillingene dine huskes mellom øktene.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Hva er Crossfeed og hvorfor skulle jeg bruke den?" closed="true" %}}
+{{% ls-details title="Hva er Crossfeed og hvorfor skulle jeg bruke den?" closed="true" %}}
 Crossfeed blander en liten, filtrert mengde av hver stereokanal inn i den andre, slik ørene dine naturlig hører ekte høyttalere i et rom. På hodetelefoner reduserer dette den overdrevne «inne-i-hodet»-separasjonen av hardt panorerte opptak og gjør lang lytting mer behagelig. Evermusic bruker den velkjente Bauer stereophonic-to-binaural (bs2b)-algoritmen og inkluderer forhåndsinnstillinger som Chu Moy og Jan Meier. Den er spesielt effektiv på eldre stereomikser fra 1960- og 1970-tallet.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Hvordan fungerer volumnormalisering i Evermusic?" closed="true" %}}
+{{% ls-details title="Hvordan fungerer volumnormalisering i Evermusic?" closed="true" %}}
 Evermusic 8.7 måler hvert spors opplevde lydstyrke ved hjelp av EBU R128-standarden (ITU-R BS.1770) i sanntid og justerer forsiktig nivået mot et konsistent mål slik at spor ikke hopper i volum. Den krever ingen ReplayGain-tagger og endrer ikke filene dine. Fire forhåndsinnstillinger er tilgjengelige — Lett (−20 LUFS), Standard (−16 LUFS), Sterk (−14 LUFS) og Natt (−23 LUFS) — og normaliseringen nullstilles rent når du søker eller bytter spor.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Er Evermusics volumnormalisering det samme som ReplayGain?" closed="true" %}}
+{{% ls-details title="Er Evermusics volumnormalisering det samme som ReplayGain?" closed="true" %}}
 Den oppnår det samme målet — konsistent lydstyrke mellom spor — men fungerer annerledes. ReplayGain er avhengig av lydstyrke-tagger lagret inne i filene dine. Evermusics normalisator måler lydstyrke direkte med EBU R128, så den fungerer på enhver kilde, inkludert skystrømmer og internettradio, selv når filene ikke har noen tagger i det hele tatt.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Hvor mange bånd har Evermusic-equalizeren, og kan jeg lage mine egne forhåndsinnstillinger?" closed="true" %}}
+{{% ls-details title="Hvor mange bånd har Evermusic-equalizeren, og kan jeg lage mine egne forhåndsinnstillinger?" closed="true" %}}
 Evermusic-equalizeren er en 10-bånds grafisk equalizer som dekker 32 Hz til 16 kHz, med hvert bånd justerbart fra −12 dB til +12 dB i trinn på 0,1 dB og en forforsterker fra −24 dB til +24 dB. Den inkluderer innebygde forhåndsinnstillinger, lar deg lage og lagre egendefinerte forhåndsinnstillinger, og støtter import og eksport av forhåndsinnstillinger som .eqp-filer slik at du kan flytte eller dele dem mellom enheter.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Hva endret seg i Evermusic 8.7-equalizeren?" closed="true" %}}
+{{% ls-details title="Hva endret seg i Evermusic 8.7-equalizeren?" closed="true" %}}
 Equalizeren ble redesignet med nye, mer presise glidebrytere som tar i bruk iOS 26-systemglidebryteren og Liquid Glass-utseendet, raskere og smidigere bytte av forhåndsinnstillinger, og en bedre layout i liggende format og på iPad (en horisontal forhåndsinnstillingslinje i stående format og en vertikal forhåndsinnstillingskolonne i liggende format). Egendefinerte forhåndsinnstillinger og .eqp import/eksport støttes.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Støtter Evermusic 8.7 FLAC og Ogg Vorbis?" closed="true" %}}
+{{% ls-details title="Støtter Evermusic 8.7 FLAC og Ogg Vorbis?" closed="true" %}}
 Ja. Den gjenoppbygde motoren spiller FLAC (via Core Audio) og Ogg Vorbis (via libvorbisfile), sammen med MP3, AAC, Apple Lossless (ALAC), WAV, AIFF, AC-3, CAF og mer, fra lokale filer, skystasjoner og medieservere.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Hva ble forbedret i CarPlay og på låseskjermen?" closed="true" %}}
+{{% ls-details title="Hva ble forbedret i CarPlay og på låseskjermen?" closed="true" %}}
 CarPlay-albumomslag lastes flere ganger raskere i lange lister og vises nå i de kompakte iOS 26-listeradene som tidligere ikke viste noen. Spilles nå-informasjon på låseskjermen og i CarPlay er mer nøyaktig — tittelen, forløpt tid, varighet og spill/pause-tilstand fanges sammen slik at de ikke kan være uenige, og bufringstilstander rapporteres korrekt. Fjernkontroller (spill, pause, neste, forrige, søk, shuffle, gjenta, hastighet) reagerer pålitelig fra hodetelefoner og bilen, og CarPlay-sortering på store biblioteker er raskere.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Fungerer lydeffektene og equalizeren med skystrømming og CarPlay?" closed="true" %}}
+{{% ls-details title="Fungerer lydeffektene og equalizeren med skystrømming og CarPlay?" closed="true" %}}
 Ja. Effektene, equalizeren og volumnormaliseringen kjører native inne i avspillingsmotoren, så de brukes på alt Evermusic spiller — lokale filer, skystasjoner, medieservere og internettradio — og de fortsetter å fungere under CarPlay-avspilling og, der det støttes, over AirPlay og Chromecast.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Er Evermusic 8.7 gratis å oppdatere, og hvilke enheter støtter den?" closed="true" %}}
+{{% ls-details title="Er Evermusic 8.7 gratis å oppdatere, og hvilke enheter støtter den?" closed="true" %}}
 Ja. Evermusic er en gratis nedlasting fra App Store, og 8.7 er en gratis oppdatering for eksisterende brukere, med valgfrie oppgraderinger i appen for avanserte funksjoner. Den kjører på iPhone, iPad og Mac. CarPlay krever et CarPlay-kompatibelt kjøretøy eller hodeenhet.
-{{% /details %}}
+{{% /ls-details %}}

@@ -55,17 +55,17 @@ Stai tranquillo sapendo che i tuoi dati sono al sicuro. Evertag ti consente di i
 In questa guida scoprirai come sfruttare la potenza di Evertag su iPhone, iPad e Mac, rendendo la tua esperienza di gestione musicale fluida e piacevole.
 
 {{< cards >}}
-  {{< card icon="location-marker" title="Navigazione" subtitle="Scopri come navigare facilmente nella nostra app usando la Tab Bar (per gli utenti iPhone) o il Menu laterale sinistro (per gli utenti iPad e Mac) per accedere a tutte le funzionalità." link="/docs/guide/evertag/evertag-guide-navigation" >}}
+  {{< ls-card icon="location-marker" title="Navigazione" subtitle="Scopri come navigare facilmente nella nostra app usando la Tab Bar (per gli utenti iPhone) o il Menu laterale sinistro (per gli utenti iPad e Mac) per accedere a tutte le funzionalità." link="/docs/guide/evertag/evertag-guide-navigation" >}}
 
-  {{< card icon="cloud" title="Connessioni" subtitle="Collega facilmente tutti i tuoi account cloud disponibili con i tuoi preziosi file audio. Puoi anche modificare i tuoi file online con il nostro gestore file integrato." link="/docs/guide/evertag/evertag-guide-connections" >}}
+  {{< ls-card icon="cloud" title="Connessioni" subtitle="Collega facilmente tutti i tuoi account cloud disponibili con i tuoi preziosi file audio. Puoi anche modificare i tuoi file online con il nostro gestore file integrato." link="/docs/guide/evertag/evertag-guide-connections" >}}
 
-  {{< card icon="folder" title="File locali" subtitle="Visualizza e organizza i file archiviati nella cartella Documenti dell'app o sul tuo dispositivo. Usa il gestore file integrato per modificare e gestire i tuoi file audio con facilità." link="/docs/guide/evertag/evertag-guide-local-files" >}}
+  {{< ls-card icon="folder" title="File locali" subtitle="Visualizza e organizza i file archiviati nella cartella Documenti dell'app o sul tuo dispositivo. Usa il gestore file integrato per modificare e gestire i tuoi file audio con facilità." link="/docs/guide/evertag/evertag-guide-local-files" >}}
 
-  {{< card icon="pencil-alt" title="Editor tag" subtitle="Padroneggia l'arte della manipolazione dei metadati dei file audio. Scopri come modificare i metadati, trasformare le copertine degli album e gestire più file contemporaneamente." link="/docs/guide/evertag/evertag-guide-tag-editor" >}}
+  {{< ls-card icon="pencil-alt" title="Editor tag" subtitle="Padroneggia l'arte della manipolazione dei metadati dei file audio. Scopri come modificare i metadati, trasformare le copertine degli album e gestire più file contemporaneamente." link="/docs/guide/evertag/evertag-guide-tag-editor" >}}
 
-  {{< card icon="code" title="Mappature dei campi tag" subtitle="Esplora l'elenco completo dei campi tag audio supportati dall'app Evertag, inclusi i nomi dei campi interni e le mappature nei principali formati di metadati." link="/docs/guide/evertag/evertag-tag-field-mappings" >}}
+  {{< ls-card icon="code" title="Mappature dei campi tag" subtitle="Esplora l'elenco completo dei campi tag audio supportati dall'app Evertag, inclusi i nomi dei campi interni e le mappature nei principali formati di metadati." link="/docs/guide/evertag/evertag-tag-field-mappings" >}}
 
-  {{< card icon="adjustments" title="Impostazioni" subtitle="Scopri come personalizzare la tua esperienza con l'app, ottimizzare le prestazioni, gestire l'utilizzo dei dati e adattare le preferenze di lingua e interfaccia utente." link="/docs/guide/evertag/evertag-guide-settings" >}}
+  {{< ls-card icon="adjustments" title="Impostazioni" subtitle="Scopri come personalizzare la tua esperienza con l'app, ottimizzare le prestazioni, gestire l'utilizzo dei dati e adattare le preferenze di lingua e interfaccia utente." link="/docs/guide/evertag/evertag-guide-settings" >}}
 
-  {{< card icon="question-mark-circle" title="FAQ" subtitle="Trova risposte rapide alle domande frequenti nella nostra sezione FAQ." link="/docs/faq/evertag" >}}
+  {{< ls-card icon="question-mark-circle" title="FAQ" subtitle="Trova risposte rapide alle domande frequenti nella nostra sezione FAQ." link="/docs/faq/evertag" >}}
 {{< /cards >}}

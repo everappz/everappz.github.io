@@ -15,7 +15,7 @@ readingTime: 5
 **โปรแกรมแก้ไขแท็ก** คือหน้าจอหลักของแอป Evertag ที่คุณสามารถดูและแก้ไขข้อมูลเมตาของไฟล์เสียงได้ เปิดหน้าจอนี้โดยแตะไฟล์จากส่วน **ไฟล์ในเครื่อง** หรือจากบัญชี **ที่จัดเก็บข้อมูลบนคลาวด์** ที่เชื่อมต่อไว้
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="หน้าจอโปรแกรมแก้ไขแท็ก Evertag" image="/docs/guide/evertag/img/tag-editor.webp" >}}
+  {{< ls-card title="" subtitle="หน้าจอโปรแกรมแก้ไขแท็ก Evertag" image="/docs/guide/evertag/img/tag-editor.webp" >}}
 {{< /cards >}}
 
 ## โหมดการแก้ไข
@@ -38,7 +38,7 @@ Evertag มีสองโหมดการแก้ไข:
 หากต้องการเข้าถึงแท็กทั้งหมดที่มี เลื่อนลงไปที่ด้านล่างของหน้าจอและแตะตัวเลือก **แสดงแท็กขยาย** ซึ่งจะสลับโปรแกรมแก้ไขไปยังโหมดขยาย ช่วยให้คุณแก้ไขฟิลด์ข้อมูลเมตากว่า **120 ฟิลด์** รวมถึง **แท็ก MusicBrainz**, **เนื้อเพลง**, **การให้คะแนนแนะนำ**, ค่า replay-gain, ลำดับการจัดเรียง ข้อมูลเมตา podcast และอื่น ๆ ใช้ **การตั้งค่า → โปรแกรมแก้ไขแท็กเสียง → ปุ่มบนหน้าจอหลัก** เพื่อสลับตัวเลือกแสดงแท็กขยายอย่างถาวรเพื่อให้เปิดอยู่เสมอ
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="แผงการดำเนินการด้านล่าง" image="/docs/guide/evertag/img/tag-editor-bottom-actions.webp" >}}
+{{< ls-card title="" subtitle="แผงการดำเนินการด้านล่าง" image="/docs/guide/evertag/img/tag-editor-bottom-actions.webp" >}}
 {{< /cards >}}
 
 ## โหมดกลุ่ม
@@ -53,7 +53,7 @@ Evertag มีสองโหมดการแก้ไข:
    - เปิดไฟล์ใด ๆ เลื่อนลงไปที่ด้านล่าง และแตะ **แก้ไขไฟล์พร้อมกัน** เพื่อโหลดไฟล์ทั้งหมดจากโฟลเดอร์เดียวกัน
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="โหมดการแก้ไขแบบกลุ่ม" image="/docs/guide/evertag/img/tag-editor-batch-editing.webp" >}}
+{{< ls-card title="" subtitle="โหมดการแก้ไขแบบกลุ่ม" image="/docs/guide/evertag/img/tag-editor-batch-editing.webp" >}}
 {{< /cards >}}
 
 หลังจากแก้ไขแล้ว แตะ **บันทึก** เพื่อใช้การเปลี่ยนแปลง
@@ -72,19 +72,19 @@ Evertag มีสองโหมดการแก้ไข:
 ทางลัดแต่ละอันจะปรากฏเฉพาะเมื่อบริการที่เกี่ยวข้องสามารถเข้าถึงได้จากอุปกรณ์ของคุณ แตะบริการ คัดลอกเนื้อเพลง (หรือไทม์สแตมป์ LRC) ที่คุณต้องการ กลับไปที่ Evertag และวางในช่องข้อความ — จากนั้น **บันทึก** เพื่อเขียนเนื้อเพลงกลับเข้าในแท็กของไฟล์เสียง
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="หน้าเนื้อเพลง" image="/docs/guide/evertag/img/tag-editor-lyrics-pages.webp" >}}
+  {{< ls-card title="" subtitle="หน้าเนื้อเพลง" image="/docs/guide/evertag/img/tag-editor-lyrics-pages.webp" >}}
 {{< /cards >}}
 
 เลือกภาษาจากตัวเลือก:
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="ตัวเลือกภาษาเนื้อเพลง" image="/docs/guide/evertag/img/tag-editor-lyrics-language-select.webp" >}}
+  {{< ls-card title="" subtitle="ตัวเลือกภาษาเนื้อเพลง" image="/docs/guide/evertag/img/tag-editor-lyrics-language-select.webp" >}}
 {{< /cards >}}
 
 จากนั้นวางหรือพิมพ์ข้อความเนื้อเพลง Evertag รองรับทั้งข้อความธรรมดาและเนื้อเพลงแบบมีไทม์สแตมป์ (ซิงค์) — placeholder แสดงตัวอย่างรูปแบบ LRC-style ซึ่งเป็นสิ่งที่ Lrclib และ Lyricsify ส่งคืนสำหรับผลลัพธ์ที่ซิงค์
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="โปรแกรมแก้ไขข้อความเนื้อเพลง" image="/docs/guide/evertag/img/tag-editor-lyrics-text.webp" >}}
+  {{< ls-card title="" subtitle="โปรแกรมแก้ไขข้อความเนื้อเพลง" image="/docs/guide/evertag/img/tag-editor-lyrics-text.webp" >}}
 {{< /cards >}}
 
 ## ตั้งค่าการให้คะแนนและการให้คะแนนแนะนำ
@@ -96,7 +96,7 @@ Evertag มีสองโหมดการแก้ไข:
 ใช้ฟิลด์ **การให้คะแนน** เพื่อให้คะแนนส่วนตัวแก่เพลงตั้งแต่หนึ่งถึงห้าดาว ค่าจะถูกเขียนลงในแท็กการให้คะแนนมาตรฐานของไฟล์ (POPM สำหรับ ID3, `rate` สำหรับ MP4, `RATING` สำหรับ Vorbis/APE ฯลฯ) ดังนั้นแอปอื่น ๆ ที่อ่านแท็กนี้ — รวมถึงแอป Music, Plex, Roon และโปรแกรมแก้ไขแท็กบนเดสก์ท็อปส่วนใหญ่ — จะหยิบคะแนนของคุณไปทันที
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="การให้คะแนน" image="/docs/guide/evertag/img/tag-editor-rating.webp" >}}
+  {{< ls-card title="" subtitle="การให้คะแนน" image="/docs/guide/evertag/img/tag-editor-rating.webp" >}}
 {{< /cards >}}
 
 ### การให้คะแนนแนะนำ
@@ -117,7 +117,7 @@ Evertag มีสองโหมดการแก้ไข:
 ค่าจะถูกเก็บไว้ในฟิลด์การให้คะแนนแนะนำมาตรฐานสำหรับรูปแบบไฟล์ (`rtng` สำหรับ MP4, `TXXX:ITUNESADVISORY` สำหรับ ID3, `ITUNESADVISORY` สำหรับ Vorbis) ดังนั้นเครื่องเล่นใด ๆ ที่อ่านข้อมูลเมตาคำแนะนำของผู้ปกครองจะเห็นการอัปเดตของคุณ
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="การให้คะแนนแนะนำเนื้อเพลง" image="/docs/guide/evertag/img/lyrics-advisory-rating.webp" >}}
+  {{< ls-card title="" subtitle="การให้คะแนนแนะนำเนื้อเพลง" image="/docs/guide/evertag/img/lyrics-advisory-rating.webp" >}}
 {{< /cards >}}
 
 ## แก้ไขปกอัลบั้ม
@@ -129,7 +129,7 @@ Evertag มีสองโหมดการแก้ไข:
 3. เลือกรูปเพื่อใช้เป็นปก
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="เลือกรูปภาพ" image="/docs/guide/evertag/img/select-image.webp" >}}
+  {{< ls-card title="" subtitle="เลือกรูปภาพ" image="/docs/guide/evertag/img/select-image.webp" >}}
 {{< /cards >}}
 
 ## การดำเนินการเพิ่มเติมในโปรแกรมแก้ไขแท็ก
@@ -137,7 +137,7 @@ Evertag มีสองโหมดการแก้ไข:
 ตัวเลือกการแก้ไขพิเศษมีอยู่ผ่านแถบเครื่องมือใต้มุมมอง artwork
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="เมนูการดำเนินการเพิ่มเติม" image="/docs/guide/evertag/img/tag-editor-more-actions.webp" >}}
+  {{< ls-card title="" subtitle="เมนูการดำเนินการเพิ่มเติม" image="/docs/guide/evertag/img/tag-editor-more-actions.webp" >}}
 {{< /cards >}}
 
 ### ค้นหาแท็กเสียงอัตโนมัติ
@@ -150,13 +150,13 @@ Evertag มีสองโหมดการแก้ไข:
 ใช้ข้อมูลเมตาเพื่อค้นหาเว็บสำหรับ artwork อัลบั้มที่ถูกต้อง
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="ค้นหาปกอัลบั้ม" image="/docs/guide/evertag/img/search-album-cover.webp" >}}
+  {{< ls-card title="" subtitle="ค้นหาปกอัลบั้ม" image="/docs/guide/evertag/img/search-album-cover.webp" >}}
 {{< /cards >}}
 
 เมื่อพบแล้ว บันทึกรูปไปยัง **Photos** โดยใช้เมนูบริบทของระบบ
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="เพิ่มรูปไปยัง Photos" image="/docs/guide/evertag/img/add-image-to-photos.webp" >}}
+  {{< ls-card title="" subtitle="เพิ่มรูปไปยัง Photos" image="/docs/guide/evertag/img/add-image-to-photos.webp" >}}
 {{< /cards >}}
 
 จากนั้นกลับไปที่โปรแกรมแก้ไขแท็ก แตะไอคอนกล้อง ไปที่ **คลัง Photos** และเลือกรูปที่บันทึกไว้ แอปจะตั้งให้เป็นปกสำหรับไฟล์เสียงของคุณ
@@ -178,19 +178,19 @@ Evertag มีสองโหมดการแก้ไข:
 - เลือกอัลบั้ม
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="เลือกอัลบั้ม" image="/docs/guide/evertag/img/select-album-results.webp" >}}
+  {{< ls-card title="" subtitle="เลือกอัลบั้ม" image="/docs/guide/evertag/img/select-album-results.webp" >}}
 {{< /cards >}}
 
 - เลือกเพลงที่ถูกต้อง
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="เลือกเพลง" image="/docs/guide/evertag/img/select-a-song.webp" >}}
+  {{< ls-card title="" subtitle="เลือกเพลง" image="/docs/guide/evertag/img/select-a-song.webp" >}}
 {{< /cards >}}
 
 - เลือกแท็กที่จะใช้
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="เลือกแท็กเสียง" image="/docs/guide/evertag/img/select-audio-tags.webp" >}}
+  {{< ls-card title="" subtitle="เลือกแท็กเสียง" image="/docs/guide/evertag/img/select-audio-tags.webp" >}}
 {{< /cards >}}
 
 แตะ **เสร็จสิ้น** เพื่อใช้ข้อมูลเมตาที่เลือกกับเพลงของคุณ

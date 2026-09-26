@@ -12,7 +12,7 @@ authors:
     image: "/images/about/artem-meleshko-founder-everappz.webp"
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 **Resum:** Instal·la [Flacbox des de l'App Store](https://apps.apple.com/us/app/flacbox-flac-player-music/id1097564256?mt=8) per reproduir FLAC, DSD, ALAC i més de 120 formats d'àudio a iPhone i Mac. Importa arxius via iTunes File Sharing, Wi-Fi Drive o emmagatzematge al núvol. Sense conversió necessària. Flacbox descodifica formats sense pèrdua de manera nativa per a reproducció amb qualitat d'estudi completa.
 
@@ -62,26 +62,26 @@ Després de descarregar de l'[App Store](https://apps.apple.com/us/app/flacbox-f
 
 ## Preguntes freqüents
 
-{{< details title="Flacbox requereix subscripció per reproduir arxius sense pèrdua?" closed="true" >}}
+{{< ls-details title="Flacbox requereix subscripció per reproduir arxius sense pèrdua?" closed="true" >}}
 Flacbox ofereix funcionalitat bàsica de reproducció sense subscripció. Pots importar i reproduir FLAC, DSD, ALAC immediatament.
-{{< /details >}}
+{{< /ls-details >}}
 
-{{< details title="Pot Flacbox reproduir arxius DSD sense convertir-los a PCM?" closed="true" >}}
+{{< ls-details title="Pot Flacbox reproduir arxius DSD sense convertir-los a PCM?" closed="true" >}}
 Sí, Flacbox suporta reproducció DSD nativa incloent DSD64, DSD128 i DSD256.
-{{< /details >}}
+{{< /ls-details >}}
 
-{{< details title="Com transfereixo col·leccions grans de música sense pèrdua al meu iPhone?" closed="true" >}}
+{{< ls-details title="Com transfereixo col·leccions grans de música sense pèrdua al meu iPhone?" closed="true" >}}
 Wi-Fi Drive, iTunes File Sharing, emmagatzematge al núvol o unitats externes via Lightning o USB-C.
-{{< /details >}}
+{{< /ls-details >}}
 
-{{< details title="Hi ha diferència de qualitat entre FLAC i ALAC a Flacbox?" closed="true" >}}
+{{< ls-details title="Hi ha diferència de qualitat entre FLAC i ALAC a Flacbox?" closed="true" >}}
 Ambdós són còdecs sense pèrdua amb sortida idèntica. Flacbox gestiona ambdós amb la mateixa fidelitat.
-{{< /details >}}
+{{< /ls-details >}}
 
-{{< details title="Quina és la millor manera de reproduir arxius FLAC a iPhone?" closed="true" >}}
+{{< ls-details title="Quina és la millor manera de reproduir arxius FLAC a iPhone?" closed="true" >}}
 Instal·la Flacbox i importa via iTunes File Sharing, Wi-Fi Drive, núvol o unitat externa. Descodificació nativa fins a 32-bit/384 kHz.
-{{< /details >}}
+{{< /ls-details >}}
 
-{{< details title="Funciona Flacbox amb NAS i servidors domèstics?" closed="true" >}}
+{{< ls-details title="Funciona Flacbox amb NAS i servidors domèstics?" closed="true" >}}
 Sí, via SMB, WebDAV i DLNA.
-{{< /details >}}
+{{< /ls-details >}}

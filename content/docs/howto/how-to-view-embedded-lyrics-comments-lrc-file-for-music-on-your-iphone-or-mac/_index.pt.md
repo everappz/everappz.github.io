@@ -7,7 +7,7 @@ tags: ["audio", "iphone", "mp3", "letras", "lrc", "incorporado", "visualizar", "
 keywords: ["visualizar letras incorporadas iPhone", "Evermusic mostrar letras", "arquivo LRC Evermusic", "tag de comentário áudio", "exibição de letras Flacbox", "letras iOS app de música", "reprodutor de áudio mostrar letras"]
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **TL;DR:** Evermusic para iPhone e Mac exibe letras incorporadas, tags de comentários e arquivos .lrc externos para qualquer faixa de áudio. Abra o reprodutor, toque em **Mais ações** e selecione **Comentários** para visualizar letras em três modos: Comentários, Letras Incorporadas e Arquivo LRC.
@@ -68,22 +68,22 @@ Visualizar letras incorporadas, comentários ou arquivos `.lrc` sincronizados no
 
 ## Perguntas frequentes
 
-{{% details title="Como visualizo letras incorporadas no meu iPhone?" closed="true" %}}
+{{% ls-details title="Como visualizo letras incorporadas no meu iPhone?" closed="true" %}}
 Abra o Evermusic, reproduza uma música, toque em Mais ações no reprodutor em tela cheia e selecione Comentários. Deslize até a aba Letras Incorporadas para ver as letras armazenadas nas tags do arquivo de áudio.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="O que é um arquivo LRC e como funciona?" closed="true" %}}
+{{% ls-details title="O que é um arquivo LRC e como funciona?" closed="true" %}}
 Um arquivo LRC é um arquivo de texto contendo letras de músicas cronometradas. Quando colocado na mesma pasta de um arquivo de áudio com o mesmo nome, o Evermusic o lê e exibe letras sincronizadas que rolam durante a reprodução.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Posso adicionar letras aos meus arquivos de música no iPhone?" closed="true" %}}
+{{% ls-details title="Posso adicionar letras aos meus arquivos de música no iPhone?" closed="true" %}}
 Sim. Use o aplicativo Evertag para editar tags ID3 e adicionar ou atualizar letras incorporadas diretamente no seu iPhone. Você pode colar texto no formato LRC cronometrado para letras sincronizadas.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="O Evermusic suporta letras sincronizadas (cronometradas)?" closed="true" %}}
+{{% ls-details title="O Evermusic suporta letras sincronizadas (cronometradas)?" closed="true" %}}
 Sim. O Evermusic suporta letras cronometradas no formato LRC, tanto quando incorporadas nas tags de áudio quanto quando fornecidas como um arquivo `.lrc` separado.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Quais formatos de áudio suportam letras incorporadas?" closed="true" %}}
+{{% ls-details title="Quais formatos de áudio suportam letras incorporadas?" closed="true" %}}
 MP3, FLAC, AAC, M4A, OGG e a maioria dos outros formatos comuns suportam letras incorporadas por meio de seus respectivos padrões de tags.
-{{% /details %}}
+{{% /ls-details %}}

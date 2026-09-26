@@ -7,7 +7,7 @@ tags: ["google", "bảo mật", "quyền riêng tư", "ứng dụng", "tài kho�
 readingTime: 2
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **Tóm tắt:** Truy cập [myaccount.google.com](https://myaccount.google.com/) > Bảo mật > Ứng dụng và dịch vụ bên thứ ba. Nhấp vào ứng dụng bạn muốn xóa, sau đó chọn "Xóa quyền truy cập" hoặc "Xóa tất cả kết nối." Lặp lại cho mỗi ứng dụng.
@@ -75,18 +75,18 @@ Hãy nhớ rằng mặc dù các ứng dụng bên thứ ba có thể nâng cao 
 
 ## Câu hỏi thường gặp
 
-{{% details title="Ngắt kết nối ứng dụng có xóa dữ liệu của tôi khỏi ứng dụng đó không?" closed="true" %}}
+{{% ls-details title="Ngắt kết nối ứng dụng có xóa dữ liệu của tôi khỏi ứng dụng đó không?" closed="true" %}}
 Không. Xóa quyền truy cập chỉ ngăn ứng dụng truy cập tài khoản Google của bạn trong tương lai. Dữ liệu đã được chia sẻ với ứng dụng có thể vẫn tồn tại trên máy chủ của họ. Kiểm tra cài đặt quyền riêng tư của chính ứng dụng để xóa dữ liệu đó.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Tôi có thể kết nối lại ứng dụng sau khi ngắt kết nối không?" closed="true" %}}
+{{% ls-details title="Tôi có thể kết nối lại ứng dụng sau khi ngắt kết nối không?" closed="true" %}}
 Có. Nếu bạn cần ứng dụng lại, chỉ cần đăng nhập bằng Google khi được yêu cầu. Ứng dụng sẽ yêu cầu quyền lại, và bạn có thể xem xét chúng trước khi cấp quyền truy cập.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Tôi nên xem xét quyền truy cập của ứng dụng bên thứ ba bao lâu một lần?" closed="true" %}}
+{{% ls-details title="Tôi nên xem xét quyền truy cập của ứng dụng bên thứ ba bao lâu một lần?" closed="true" %}}
 Xem xét các ứng dụng đã kết nối của bạn mỗi 3-6 tháng, hoặc ngay sau khi bạn ngừng sử dụng một dịch vụ. Kiểm tra thường xuyên giúp giữ cho tài khoản của bạn an toàn.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Điều này có ảnh hưởng đến các ứng dụng như Evermusic kết nối với Google Drive không?" closed="true" %}}
+{{% ls-details title="Điều này có ảnh hưởng đến các ứng dụng như Evermusic kết nối với Google Drive không?" closed="true" %}}
 Có. Nếu bạn ngắt kết nối một ứng dụng như Evermusic hoặc Flacbox khỏi tài khoản Google, nó sẽ mất quyền truy cập vào các tệp Google Drive của bạn. Bạn có thể kết nối lại bất kỳ lúc nào từ trong ứng dụng.
-{{% /details %}}
+{{% /ls-details %}}

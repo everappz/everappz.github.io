@@ -19,7 +19,7 @@ Phần File cục bộ đóng vai trò là trung tâm quản lý các file nằm
 Trình quản lý file tích hợp này cho phép chỉnh sửa file (đổi tên, di chuyển, sao chép, tải lên, xóa), theo dõi truyền tải và cung cấp một số phương pháp nhập file âm thanh vào ứng dụng — tải xuống trực tiếp từ đám mây, đồng bộ chế độ ngoại tuyến, USB flash drive, Wi-Fi Drive và Finder File Sharing.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Màn hình File cục bộ Flacbox" image="/docs/guide/flacbox/img/local-files.webp" >}}
+  {{< ls-card title="" subtitle="Màn hình File cục bộ Flacbox" image="/docs/guide/flacbox/img/local-files.webp" >}}
 {{< /cards >}}
 
 ## Tải xuống File từ Lưu trữ Đám mây
@@ -102,7 +102,7 @@ Hiển thị file và thư mục được lưu trong thư mục Documents của 
 Hiển thị các file nằm trên thiết bị nhưng trong các ứng dụng khác. Bạn có thể nhập chúng vào ứng dụng này bằng cách sử dụng bộ chọn file hệ thống. Để kích hoạt bộ chọn, chọn **Mở File…** để chọn file hoặc **Mở Thư mục…** để chọn thư mục. Hướng dẫn chi tiết về cách nhập nhạc cục bộ có sẵn [tại đây](/docs/howto/how-to-play-local-music-stored-on-your-iphone-or-mac).
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox Thư mục Thiết bị Đã kết nối" image="/docs/guide/flacbox/img/connected-device-folders.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox Thư mục Thiết bị Đã kết nối" image="/docs/guide/flacbox/img/connected-device-folders.webp" >}}
 {{< /cards >}}
 
 Bạn cũng có thể kết nối một thư mục trên thiết bị và có quyền truy cập nhanh vào nội dung của nó. Sử dụng mục menu **Kết nối Thư mục** và chọn thư mục trên thiết bị. Nhấn **Hoàn tất**, ứng dụng tạo liên kết đến thư mục đó với quyền đọc / ghi. Để ngắt kết nối thư mục, nhấn nút **Thêm Hành động** và chọn **Ngắt kết nối**.
@@ -137,7 +137,7 @@ Nếu bạn cần chỉnh sửa nhiều file, kích hoạt chế độ chọn b�
 - **Xóa** — xóa file hoặc thư mục đã chọn khỏi thiết bị. **Hành động này không thể đảo ngược.**
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox File cục bộ Chế độ Chọn" image="/docs/guide/flacbox/img/local-files-selection-mode.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox File cục bộ Chế độ Chọn" image="/docs/guide/flacbox/img/local-files-selection-mode.webp" >}}
 {{< /cards >}}
 
 ## Menu Tùy chọn
@@ -161,7 +161,7 @@ Nếu bạn cần chỉnh sửa nhiều file, kích hoạt chế độ chọn b�
 - **Xóa** — xóa file hoặc thư mục khỏi thiết bị. **Hành động này không thể đảo ngược** và bạn không thể khôi phục file đã xóa.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox Thêm Hành động cho File Cục bộ" image="/docs/guide/flacbox/img/local-files-more-actions-for-file.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox Thêm Hành động cho File Cục bộ" image="/docs/guide/flacbox/img/local-files-more-actions-for-file.webp" >}}
 {{< /cards >}}
 
 ## Thư mục Ngoại tuyến

@@ -7,7 +7,7 @@ tags: ["Evermusic", "Saumaton toisto", "Ohje", "Ääni", "Toisto", "Ristihäivyt
 readingTime: 4
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 **Tiivistelmä:** Avaa **Asetukset > Äänisoitin > Saumaton toisto** ja kytke kytkin **päälle**. Siitä eteenpäin kappaleet soivat ilman taukoa, napsahdusta tai naksahdusta niiden välillä. Evermusic esipuskuroi ja purkaa seuraavan kappaleen jo silloin, kun nykyinen vielä soi, ja luovuttaa sitten vuoron ääninäytteiden välissä jatkuvassa puskurissa, joten siirtymä on aidosti saumaton. Se on aitoa, näytetarkkaa saumatonta toistoa, ei ristihäivytystä.
 
@@ -73,30 +73,30 @@ Lopputulos on, että live-albumi, iskukohtaisesti sovitettu DJ-setti tai konsept
 
 ## Usein kysytyt kysymykset
 
-{{% details title="Miten otan saumattoman toiston käyttöön Evermusicissa?" closed="true" %}}
+{{% ls-details title="Miten otan saumattoman toiston käyttöön Evermusicissa?" closed="true" %}}
 Avaa Evermusic, siirry kohtaan Asetukset > Äänisoitin > Saumaton toisto ja kytke kytkin päälle. Se on oletuksena pois päältä. Käyttöön otettuna se koskee kaikkea, mitä soitat, ja pysyy päällä, kunnes kytket sen pois.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Onko Evermusicin saumaton toisto aidosti saumatonta vai vain ristihäivytystä?" closed="true" %}}
+{{% ls-details title="Onko Evermusicin saumaton toisto aidosti saumatonta vai vain ristihäivytystä?" closed="true" %}}
 Se on aitoa, näytetarkkaa saumatonta toistoa. Evermusic purkaa ja esipuskuroi seuraavan kappaleen nykyisen soidessa ja luovuttaa sitten vuoron ääninäytteiden välissä jatkuvassa puskurissa, joten mitään hiljaisuutta, napsahdusta tai täytettä ei lisätä eikä purkajan uudelleenkäynnistyksestä synny taukoa. Ristihäivytys on erillinen, eri ominaisuus, joka limittää ja sekoittaa kappaleita; saumaton toisto säilyttää äänen täsmälleen masteroituna ja poistaa vain tauon.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Miksi kuulen yhä tauon joidenkin kappaleiden välissä?" closed="true" %}}
+{{% ls-details title="Miksi kuulen yhä tauon joidenkin kappaleiden välissä?" closed="true" %}}
 Varmista, että saumaton toisto on kytketty päälle kohdassa Asetukset > Äänisoitin > Saumaton toisto. Jos tauko jää yhä jäljelle, se voi olla sisäänrakennettu itse tallenteeseen (jotkin tiedostot sisältävät muutaman sekunnin aitoa hiljaisuutta kappaleen alussa tai lopussa). Saumaton toisto poistaa tauon, jonka soitin normaalisti lisäisi kappaleiden väliin; se ei voi poistaa hiljaisuutta, joka on osa äänitiedostoa.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Toimiiko saumaton toisto FLAC- ja muiden häviöttömien tiedostojen kanssa?" closed="true" %}}
+{{% ls-details title="Toimiiko saumaton toisto FLAC- ja muiden häviöttömien tiedostojen kanssa?" closed="true" %}}
 Kyllä. Saumaton toisto toimii FLAC-, Apple Lossless (ALAC)- ja häviöllisten muotojen kuten MP3 ja AAC kanssa, riippumatta siitä, onko tiedostot tallennettu paikallisesti, pilveen vai mediapalvelimelle.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Voinko käyttää saumatonta toistoa ja ristihäivytystä samaan aikaan?" closed="true" %}}
+{{% ls-details title="Voinko käyttää saumatonta toistoa ja ristihäivytystä samaan aikaan?" closed="true" %}}
 En. Ne tekevät vastakkaisia asioita, joten saumattoman toiston käyttöönotto poistaa ristihäivytyksen automaattisesti käytöstä. Käytä saumatonta toistoa live-albumeihin, DJ-miksauksiin ja konseptilevyihin, joissa ääni on säilytettävä täsmälleen; käytä ristihäivytystä, jos haluat kappaleiden häivyttyvän toisiinsa.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Toimiiko saumaton toisto pilvestä suoratoistettaessa?" closed="true" %}}
+{{% ls-details title="Toimiiko saumaton toisto pilvestä suoratoistettaessa?" closed="true" %}}
 Kyllä. Evermusic aloittaa seuraavan kappaleen puskuroinnin ja purkamisen ajoissa, myös pilviasemien ja mediapalvelinten osalta, joten luovutus pysyy saumattomana. Hitaammilla yhteyksillä se yksinkertaisesti aloittaa seuraavan kappaleen valmistelun hieman aiemmin.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Heikentääkö saumaton toisto äänenlaatua?" closed="true" %}}
+{{% ls-details title="Heikentääkö saumaton toisto äänenlaatua?" closed="true" %}}
 Ei. Saumaton toisto ei koodaa uudelleen eikä käsittele ääntäsi. Se muuttaa vain sitä, miten kappaleet ajastetaan ja puskuroidaan, jotta niiden välissä ei ole taukoa. Jokainen näyte soitetaan täsmälleen sellaisena kuin se on tiedostossa.
-{{% /details %}}
+{{% /ls-details %}}

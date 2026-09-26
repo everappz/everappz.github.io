@@ -25,7 +25,7 @@ Chức năng của Evermusic được chia thành hai thành phần riêng biệ
 Dù bạn đang sử dụng iPhone, iPad hay chế độ nhỏ gọn trên Mac, tất cả các tính năng ứng dụng đều dễ dàng truy cập qua thanh tab ở dưới cùng màn hình. Đối với người dùng iPad và Mac, menu tương tự nằm ở bên trái màn hình. Tổ chức chu đáo này phân loại tất cả các tính năng ứng dụng thành các phần dễ truy cập, đảm bảo trải nghiệm thân thiện và hiệu quả với người dùng.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Thanh bên trái Evermusic trên iPad và Mac" image="/docs/guide/evermusic/evermusic-guide-navigation/img/navigation-left-sidebar.webp" >}}
+  {{< ls-card title="" subtitle="Thanh bên trái Evermusic trên iPad và Mac" image="/docs/guide/evermusic/evermusic-guide-navigation/img/navigation-left-sidebar.webp" >}}
 {{< /cards >}}
 
 **Kết nối:** Bạn có thể dễ dàng kết nối các dịch vụ lưu trữ đám mây như Google Drive, MEGA, OneDrive và Dropbox, cũng như máy tính và NAS cá nhân trên màn hình này.
@@ -47,7 +47,7 @@ Phần tệp cục bộ được chia thành hai danh mục: Tệp trong ứng d
 Kích hoạt trình phát toàn màn hình bằng cách nhấn vào biểu tượng mini player và sử dụng cử chỉ vuốt xuống để ẩn nó. Trên iPad và Mac, màn hình mini player nằm ở đầu màn hình và có thể ẩn khi mở trình phát toàn màn hình qua menu chính.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Thanh tab iPhone" image="/docs/guide/evermusic/evermusic-guide-navigation/img/navigation-bottom-tabbar.webp" >}}
+  {{< ls-card title="" subtitle="Thanh tab iPhone" image="/docs/guide/evermusic/evermusic-guide-navigation/img/navigation-bottom-tabbar.webp" >}}
 {{< /cards >}}
 
 ## Cửa sổ Mini Player (Dành riêng cho Mac)
@@ -55,7 +55,7 @@ Kích hoạt trình phát toàn màn hình bằng cách nhấn vào biểu tư�
 Để truy cập cửa sổ mini player trên Mac, chỉ cần di chuyển con trỏ đến cạnh dưới bên phải của cửa sổ ứng dụng và thay đổi kích thước về mức nhỏ nhất có thể. Sau đó, nhấn nút thu gọn (được mô tả là mũi tên xuống) để kích hoạt cửa sổ mini player. Để giữ cửa sổ mini player luôn ở trên các cửa sổ khác, điều hướng đến thanh menu trên cùng của Mac, chọn «Window», và chọn «Show Window Always On Top». Tính năng này hữu ích để nghe bài giảng âm thanh mà không bị gián đoạn.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Cửa sổ Mini Player Mac" image="/docs/guide/evermusic/evermusic-guide-navigation/img/navigation-mac-exclusive-miniplayer.webp" >}}
+  {{< ls-card title="" subtitle="Cửa sổ Mini Player Mac" image="/docs/guide/evermusic/evermusic-guide-navigation/img/navigation-mac-exclusive-miniplayer.webp" >}}
 {{< /cards >}}
 
 ## Thêm hành động
@@ -63,7 +63,7 @@ Kích hoạt trình phát toàn màn hình bằng cách nhấn vào biểu tư�
 Hầu hết mọi mục nội dung trên màn hình đều có nút «Thêm hành động». Nhấn vào đó để truy cập tất cả các hành động có sẵn.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Menu ngữ cảnh Thêm hành động" image="/docs/guide/evermusic/evermusic-guide-navigation/img/navigation-more-actions.webp" >}}
+  {{< ls-card title="" subtitle="Menu ngữ cảnh Thêm hành động" image="/docs/guide/evermusic/evermusic-guide-navigation/img/navigation-more-actions.webp" >}}
 {{< /cards >}}
 
 ## Thanh công cụ trên cùng
@@ -77,7 +77,7 @@ Bạn có thể dễ dàng hiển thị hoặc ẩn thanh công cụ này bằng
 - **Phát ngẫu nhiên:** thêm tất cả bài hát từ trang hiện tại vào hàng đợi trình phát âm thanh, trộn chúng trước khi thêm.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Thanh công cụ trên cùng với Tìm kiếm, Phát tất cả và Phát ngẫu nhiên" image="/docs/guide/evermusic/evermusic-guide-navigation/img/navigation-top-toolbar.webp" >}}
+  {{< ls-card title="" subtitle="Thanh công cụ trên cùng với Tìm kiếm, Phát tất cả và Phát ngẫu nhiên" image="/docs/guide/evermusic/evermusic-guide-navigation/img/navigation-top-toolbar.webp" >}}
 {{< /cards >}}
 
 ## Menu ngữ cảnh
@@ -91,7 +91,7 @@ Menu ngữ cảnh cung cấp quyền truy cập nhanh vào các tùy chọn và 
 **Nhấp chuột phải:** Nhấp chuột phải vào ô, mini player hoặc trình phát nhỏ gọn để hiển thị menu ngữ cảnh.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Menu ngữ cảnh trên macOS" image="/docs/guide/evermusic/evermusic-guide-navigation/img/navigation-context-menu-macos.webp" >}}
+  {{< ls-card title="" subtitle="Menu ngữ cảnh trên macOS" image="/docs/guide/evermusic/evermusic-guide-navigation/img/navigation-context-menu-macos.webp" >}}
 {{< /cards >}}
 
 ## Khả năng tiếp cận
@@ -125,7 +125,7 @@ Evermusic đi kèm với bốn tiện ích màn hình chính / màn hình khóa 
 Cả bốn tiện ích đều có sẵn ở các kích thước Small, Medium và Large để bạn có thể chọn bố cục phù hợp với màn hình của mình.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Thêm tiện ích Evermusic" image="/docs/guide/evermusic/evermusic-guide-navigation/img/navigation-add-widgets.webp" >}}
+  {{< ls-card title="" subtitle="Thêm tiện ích Evermusic" image="/docs/guide/evermusic/evermusic-guide-navigation/img/navigation-add-widgets.webp" >}}
 {{< /cards >}}
 
 ### Thêm tiện ích trên iPhone (Màn hình chính)
@@ -175,7 +175,7 @@ Tiện ích CarPlay cập nhật trực tiếp khi nhạc của bạn thay đổ
 Evermusic bao gồm giao diện **Apple CarPlay** đầy đủ tính năng (chỉ iOS) được tối ưu hóa cho màn hình xe. Sau khi iPhone được kết nối với thiết bị đầu cuối CarPlay tương thích — qua USB hoặc không dây — Evermusic xuất hiện cùng với Apple Music và Spotify trong lưới ứng dụng CarPlay, sẵn sàng phát thư viện đám mây của bạn trên đường.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evermusic trên màn hình CarPlay" image="/docs/guide/evermusic/evermusic-guide-navigation/img/navigation-carplay-menu.webp" >}}
+  {{< ls-card title="" subtitle="Evermusic trên màn hình CarPlay" image="/docs/guide/evermusic/evermusic-guide-navigation/img/navigation-carplay-menu.webp" >}}
 {{< /cards >}}
 
 ### Những gì bạn nhận được trong CarPlay

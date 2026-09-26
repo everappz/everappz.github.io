@@ -18,7 +18,7 @@ Bagian File Lokal berfungsi sebagai hub untuk mengelola file yang terletak di fo
 Pengelola file bawaan ini memungkinkan Anda mengedit file dan menawarkan berbagai metode untuk mengimpor file audio ke dalam aplikasi. File yang baru saja Anda buka secara otomatis muncul di tab **Terbaru** dan item yang Anda tandai dengan bintang muncul di bawah **Favorit**, sehingga Anda dapat langsung menuju file yang paling sering Anda gunakan tanpa harus kembali ke layar ini.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Layar Unduh Evertag" image="/docs/guide/evertag/img/downloads.webp" >}}
+  {{< ls-card title="" subtitle="Layar Unduh Evertag" image="/docs/guide/evertag/img/downloads.webp" >}}
 {{< /cards >}}
 
 ## Unduh file dari penyimpanan cloud
@@ -74,7 +74,7 @@ Menampilkan file dan folder yang tersimpan di direktori Documents aplikasi dan i
 Menampilkan file yang terletak di perangkat Anda tetapi di aplikasi yang berbeda. Anda dapat mengimpornya ke dalam aplikasi ini menggunakan pemilih file sistem. Untuk mengaktifkan pemilih, pilih "Buka file..." untuk memilih file atau "Buka folder..." untuk memilih folder. Instruksi terperinci tentang cara mengimpor musik lokal yang tersimpan di iPhone atau Mac Anda tersedia [di sini](/docs/howto/how-to-play-local-music-stored-on-your-iphone-or-mac). Anda juga dapat menghubungkan folder yang terletak di perangkat Anda dan memiliki akses cepat ke konten folder tersebut. Gunakan item menu "Hubungkan folder" dan pilih folder yang terletak di perangkat Anda. Ketuk "Selesai," dan aplikasi akan membuat tautan ke folder tersebut dengan akses baca/tulis, memungkinkan Anda mengelola file langsung dari aplikasi ini. Untuk memutus koneksi folder yang terletak di perangkat Anda, ketuk tombol "Lebih banyak tindakan" dan pilih "Putuskan Koneksi."
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evertag Impor File dari Perangkat Saya" image="/docs/guide/evertag/img/open-files.webp" >}}
+  {{< ls-card title="" subtitle="Evertag Impor File dari Perangkat Saya" image="/docs/guide/evertag/img/open-files.webp" >}}
 {{< /cards >}}
 
 ## Impor File yang Terletak di Kartu Flash USB yang Terhubung
@@ -86,7 +86,7 @@ Instruksi terperinci tentang cara menghubungkan kartu flash USB ke iPhone dan me
 Menu Lebih Banyak Tindakan untuk folder yang sedang dibuka terletak di sudut kanan atas dan menyediakan akses ke berbagai tindakan.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evertag Impor File dari Perangkat Saya" image="/docs/guide/evertag/img/downloads-current-folder-actions.webp" >}}
+  {{< ls-card title="" subtitle="Evertag Impor File dari Perangkat Saya" image="/docs/guide/evertag/img/downloads-current-folder-actions.webp" >}}
 {{< /cards >}}
 
 - **Pilih:** Beralih ke mode pemilihan untuk file dan folder.  

@@ -6,7 +6,7 @@ keywords: ["xuất evermusic", "xuất flacbox", "xuất sang m3u", "xuất danh
 tags: ["evermusic", "recents", "favorites", "export", "m3u", "playlist", "csv", "txt", "album"]
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **Tóm tắt:** Evermusic và Flacbox cho phép bạn xuất bất kỳ bộ sưu tập bài hát nào (gần đây, yêu thích, danh sách phát, album) sang tệp CSV, TXT hoặc M3U. Sử dụng các bản xuất này để scrobble lên Last.fm, sao lưu thư viện hoặc phát danh sách phát trên các thiết bị khác.
@@ -157,22 +157,22 @@ Xuất bài hát từ Evermusic và Flacbox mang lại cho bạn quyền kiểm 
 
 ## Câu hỏi thường gặp
 
-{{% details title="Tôi nên sử dụng định dạng xuất nào cho scrobbling Last.fm?" closed="true" %}}
+{{% ls-details title="Tôi nên sử dụng định dạng xuất nào cho scrobbling Last.fm?" closed="true" %}}
 Sử dụng CSV. Nó bao gồm dấu thời gian và siêu dữ liệu đầy đủ theo yêu cầu của các công cụ scrobbling như Last.fm-Scrubbler-WPF.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Tôi có thể xuất bất kỳ bộ sưu tập bài hát nào, không chỉ danh sách phát không?" closed="true" %}}
+{{% ls-details title="Tôi có thể xuất bất kỳ bộ sưu tập bài hát nào, không chỉ danh sách phát không?" closed="true" %}}
 Có. Bạn có thể xuất gần đây, yêu thích, album, danh sách phát và bất kỳ bộ sưu tập bài hát nào khác trong ứng dụng bằng các bước tương tự.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Danh sách phát M3U của tôi có hoạt động trên các thiết bị khác không?" closed="true" %}}
+{{% ls-details title="Danh sách phát M3U của tôi có hoạt động trên các thiết bị khác không?" closed="true" %}}
 Nếu bạn chọn tùy chọn URL tuyệt đối khi xuất, tệp M3U có thể được phát trên bất kỳ thiết bị nào hỗ trợ danh sách phát M3U. Lưu ý rằng một số URL đám mây có thể hết hạn theo thời gian.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Tính năng xuất có miễn phí không?" closed="true" %}}
+{{% ls-details title="Tính năng xuất có miễn phí không?" closed="true" %}}
 Có. Xuất bộ sưu tập bài hát sang M3U, CSV và TXT có sẵn trong cả phiên bản miễn phí và cao cấp của Evermusic và Flacbox.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Những dịch vụ đám mây nào hỗ trợ xuất URL tuyệt đối?" closed="true" %}}
+{{% ls-details title="Những dịch vụ đám mây nào hỗ trợ xuất URL tuyệt đối?" closed="true" %}}
 Xuất URL tuyệt đối được hỗ trợ cho iCloud Drive, pCloud, PanBaidu, MyCloudHome, DLNA, MediaFire, OneDrive, Box, Dropbox, Google Drive và WebDAV (chế độ khách).
-{{% /details %}}
+{{% /ls-details %}}

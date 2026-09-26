@@ -19,7 +19,7 @@ Evervideo bietet eine übersichtliche, intuitive Benutzeroberfläche, die jedem 
 Im Gegensatz zu den meisten Media-Apps fasst Evervideo Ihre Cloud-Konten, NAS-Freigaben, Medienserver und lokale Dateien in einem einzigen, einheitlichen Dateien-Tab zusammen — sodass Sie nicht zwischen verschiedenen Bildschirmen hin und her wechseln. Das macht das Verschieben eines Videos von einem Plex-Server in einen iCloud Drive-Ordner und dann in den Dokumente-Ordner Ihres iPhones zu einer Ein-Bildschirm-Ein-Tipp-Operation.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evervideo Hauptbildschirm" image="/docs/guide/evervideo/img/evervideo-main.webp" >}}
+  {{< ls-card title="" subtitle="Evervideo Hauptbildschirm" image="/docs/guide/evervideo/img/evervideo-main.webp" >}}
 {{< /cards >}}
 
 ## Tabs
@@ -53,7 +53,7 @@ PiP funktioniert mit allen Videoformaten, die Evervideo abspielt, einschließlic
 Praktisch jedes Inhaltselement auf dem Bildschirm hat eine Weitere Aktionen-Schaltfläche (das "⋯"-Drei-Punkte-Symbol). Tippen Sie darauf, um ein kontextsensitives Menü mit allen verfügbaren Aktionen für dieses Element zu öffnen — als nächstes abspielen, später abspielen, zur Wiedergabeliste hinzufügen, zu Favoriten hinzufügen, Tags bearbeiten, herunterladen, teilen, umbenennen, verschieben und so weiter. Lange Listen können vertikal gescrollt werden, um seltenere Aktionen zu erreichen, ohne die Haupt-UI zu überladen.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evervideo Favoriten Weitere Aktionen Menü" image="/docs/guide/evervideo/img/evervideo-favorites-more-actions.webp" >}}
+  {{< ls-card title="" subtitle="Evervideo Favoriten Weitere Aktionen Menü" image="/docs/guide/evervideo/img/evervideo-favorites-more-actions.webp" >}}
 {{< /cards >}}
 
 ## Obere Symbolleiste

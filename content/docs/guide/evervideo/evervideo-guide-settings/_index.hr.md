@@ -23,7 +23,7 @@ readingTime: 16
 Zaslon **Postavke** je kontrolni centar Evervideo. Odavde možete nadograditi na Premium, konfigurirati video i audio motore (sistemske kodeke ili FFmpeg), upravljati Picture-in-Picture, postaviti titlove (primarni, sekundarni, libass, vanjske datoteke, fontovi), organizirati medijsku biblioteku, postaviti upravitelja datoteka, omogućiti widgete početnog zaslona, napraviti sigurnosnu kopiju podataka i pristupiti pomoći i pravnim informacijama. Odjeljci su grupirani pod naslovima: Kupnje i ažuriranja, Postavke aplikacije, Pomoć, Pravne napomene i privatnost.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evervideo Glavni zaslon postavki" image="/docs/guide/evervideo/img/evervideo-settings.webp" >}}
+  {{< ls-card title="" subtitle="Evervideo Glavni zaslon postavki" image="/docs/guide/evervideo/img/evervideo-settings.webp" >}}
 {{< /cards >}}
 
 ## Nadogradnja na Premium
@@ -31,13 +31,13 @@ Zaslon **Postavke** je kontrolni centar Evervideo. Odavde možete nadograditi na
 Nadogradite aplikaciju na Premium verziju kako biste uklonili sva ograničenja. Besplatna verzija aplikacije nudi jednokratnu doživotnu kupnju unutar aplikacije i dvije opcije pretplate (1 mjesec i 1 godina) za uklanjanje svih ograničenja i nadogradnju na Premium.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evervideo Nadogradnja na Premium" image="/docs/guide/evervideo/img/evervideo-upgrade-to-premium.webp" >}}
+  {{< ls-card title="" subtitle="Evervideo Nadogradnja na Premium" image="/docs/guide/evervideo/img/evervideo-upgrade-to-premium.webp" >}}
 {{< /cards >}}
 
 **Family Sharing** je omogućen za sve kupnje i planove, tako da možete podijeliti Premium verziju s do pet članova obitelji bez dodatnih troškova.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evervideo Odabir Premium plana" image="/docs/guide/evervideo/img/evervideo-select-premium-plan.webp" >}}
+  {{< ls-card title="" subtitle="Evervideo Odabir Premium plana" image="/docs/guide/evervideo/img/evervideo-select-premium-plan.webp" >}}
 {{< /cards >}}
 
 ## Dijeljenje kupnji između iOS-a i Maca
@@ -51,7 +51,7 @@ Možete i dodirnuti gumb **Vrati kupnje** u postavkama aplikacije. Osigurajte da
 Za vraćanje kupnje na novom uređaju koristite izbornik **Kupnje → Vrati kupnje**. Vidjet ćete popis svojih kupnji. Ako ne vidite sve, provjerite je li uređaj povezan s istim Apple ID-jem koji je korišten za kupnju i je li iCloud omogućen.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evervideo Izbornik kupnji u postavkama" image="/docs/guide/evervideo/img/evervideo-purhases-menu-in-settings.webp" >}}
+  {{< ls-card title="" subtitle="Evervideo Izbornik kupnji u postavkama" image="/docs/guide/evervideo/img/evervideo-purhases-menu-in-settings.webp" >}}
 {{< /cards >}}
 
 ## Isprobajte Premium besplatno

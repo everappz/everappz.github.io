@@ -12,7 +12,7 @@ authors:
     image: "/images/about/artem-meleshko-founder-everappz.webp"
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 **בקצרה:** Evermusic 3.6 מוסיף שילוב Apple CarPlay, נגישות VoiceOver מלאה, פלט שמע מעורב, המשך השמעה אוטומטי, עריכת עטיפות ותגיות עבור FLAC/MP3/AIFF וייבוא קבצים מ-iCloud Drive.
 
@@ -78,18 +78,18 @@ Evermusic שומר את מיקום ההאזנה שלכם אוטומטית. כש�
 
 ## FAQ
 
-{{% details title="האם Evermusic עובד עם CarPlay?" closed="true" %}}
+{{% ls-details title="האם Evermusic עובד עם CarPlay?" closed="true" %}}
 כן. החל מגרסה 3.6, Evermusic תומך באופן מלא ב-Apple CarPlay. תוכלו לדפדף ולהשמיע את ספריית המוזיקה שלכם מהמסך המובנה ברכב.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="האם Evermusic נגיש למשתמשים עיוורים או עם לקויות ראייה?" closed="true" %}}
+{{% ls-details title="האם Evermusic נגיש למשתמשים עיוורים או עם לקויות ראייה?" closed="true" %}}
 כן. Evermusic 3.6 כולל תמיכה מלאה ב-VoiceOver עם תוויות תיאוריות, רמזים ומצב ממשק מפושט.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="האם אפשר לערוך תגיות FLAC באייפון עם Evermusic?" closed="true" %}}
+{{% ls-details title="האם אפשר לערוך תגיות FLAC באייפון עם Evermusic?" closed="true" %}}
 כן. Evermusic כולל עורך תגיות מובנה שעובד עם קבצי FLAC, MP3 ו-AIFF. תוכלו לערוך כותרים, אמנים, אלבומים ועטיפות.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="האם Evermusic זוכר איפה הפסקתי להאזין?" closed="true" %}}
+{{% ls-details title="האם Evermusic זוכר איפה הפסקתי להאזין?" closed="true" %}}
 כן. כאשר "Save Audio Player State" מופעל, Evermusic משחזר את תור ההשמעה, הרצועה הנוכחית ומיקום ההשמעה המדויק כשאתם פותחים מחדש את האפליקציה.
-{{% /details %}}
+{{% /ls-details %}}

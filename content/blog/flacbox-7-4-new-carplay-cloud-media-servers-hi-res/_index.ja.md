@@ -12,7 +12,7 @@ authors:
     image: "/images/about/artem-meleshko-founder-everappz.webp"
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 **要点:** [Flacbox 7.4](/products/flacbox) はiPhoneとMacのhi-resオーディオプレーヤーの大型アップデートです。CarPlayをゼロから作り直し、クイックソート、複数のカラーテーマ、新しいNow Playing画面、再生キューを一目で確認、巨大なライブラリ向けの頭文字インデックスを搭載。このアップデートで音楽にアクセスする10以上の新しい方法を追加 — プライバシー重視のクラウド **Internxt** と **Proton Drive**、個人サーバー **QNAP**、**Nextcloud**、**Amazon S3**、ストリーミングサーバー **Plex**、**Subsonic**、**Navidrome**、**Jellyfin**、**Emby**、加えてネットワークプロトコル **FTP**、**SFTP**、**NFS** に対応。インターフェースはAppleの新しい **Liquid Glass** マテリアルに合わせて調整され、基盤となるネットワークライブラリは強化され、ホーム画面ウィジェットはより信頼性高くリフレッシュされます。
 
@@ -121,50 +121,50 @@ Flacbox 7.4は2つの考えに沿って作られています。
 
 ## よくある質問
 
-{{% details title="Flacbox 7.4の新機能は?" closed="true" %}}
+{{% ls-details title="Flacbox 7.4の新機能は?" closed="true" %}}
 Flacbox 7.4は完全に再構築されたCarPlay体験を搭載し、10以上の新しい接続 — Plex、Jellyfin、Emby、Subsonic、Navidrome、Internxt、Proton Drive、QNAP、Nextcloud、Amazon S3、FTP、SFTP、NFS — を追加します。このリリースはLiquid Glassデザインのリフレッシュ、より強力なネットワークライブラリ、よりスマートなリフレッシュを備えた再設計されたホーム画面ウィジェット、一部のサーバーでの再生修正、翻訳改善、多くの小さな仕上げ項目も含みます。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="FlacboxはFLACおよびロスレスオーディオでPlexと動作しますか?" closed="true" %}}
+{{% ls-details title="FlacboxはFLACおよびロスレスオーディオでPlexと動作しますか?" closed="true" %}}
 はい。Flacbox 7.4からPlex Media Serverに接続して、hi-resライブラリ全体 — FLAC、ALAC、WAV、AIFF、OGG、OPUS、その他のロスレスフォーマット — をストリーミングできます。Plex Media Serverの実行は無料で、Plex Passはオプションです。Flacboxは無料設定でもPlex Pass設定でもサポートします。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="JellyfinまたはNavidromeはFlacboxでサポートされますか?" closed="true" %}}
+{{% ls-details title="JellyfinまたはNavidromeはFlacboxでサポートされますか?" closed="true" %}}
 はい。両方ともFlacbox 7.4で完全にサポートされています。Jellyfinは無料のオープンソースメディアサーバーです。NavidromeはSubsonic APIを実装した無料のオープンソース音楽サーバーです。Flacboxは両方にネイティブ接続し、ロスレスライブラリを完全なメタデータとアートワーク付きでストリーミングします。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Plex、Jellyfin、Emby、Navidrome、Subsonicは無料ですか?" closed="true" %}}
+{{% ls-details title="Plex、Jellyfin、Emby、Navidrome、Subsonicは無料ですか?" closed="true" %}}
 - **Plex** — サーバーは無料。Plex Passはオプションの有料アップグレード。
 - **Jellyfin** — 完全に無料でオープンソース。
 - **Emby** — サーバーは無料。Emby Premiereは有料で、モバイル同期とオフラインを解放。
 - **Navidrome** — 完全に無料でオープンソース。
 - **Subsonic** — 公式サーバーは30日間の試用後に月額1ドル。ただしAPIはオープンで、多くの無料サーバー(Navidromeを含む)がそれを実装しています。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="自宅のNASからSFTP、FTP、NFS経由でFLACとDSDをストリーミングできますか?" closed="true" %}}
+{{% ls-details title="自宅のNASからSFTP、FTP、NFS経由でFLACとDSDをストリーミングできますか?" closed="true" %}}
 はい。Flacbox 7.4はSFTP、FTP、NFSをネイティブ接続タイプとして追加します。SSH越しにすべてのトラフィックが暗号化されるため、公衆インターネット越しに自分のサーバーからストリーミングするにはSFTPがおすすめです。FTPとNFSはローカルネットワーク内またはVPN経由での利用が最適です。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="SFTPでFlacboxをカスタムサーバーに接続するには?" closed="true" %}}
+{{% ls-details title="SFTPでFlacboxをカスタムサーバーに接続するには?" closed="true" %}}
 Flacboxを開き、Connectionsタブに移動してSFTPを選択し、サーバーのホスト名またはIP、ポート(通常22)、ユーザー名、パスワードまたはSSH秘密鍵を入力します。Flacboxがリモートフォルダを表示し、エンドツーエンド暗号化でオーディオファイルを直接ストリーミングします。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="FlacboxはInternxtとProton Driveをサポートしますか?" closed="true" %}}
+{{% ls-details title="FlacboxはInternxtとProton Driveをサポートしますか?" closed="true" %}}
 はい。Flacbox 7.4から両方のプライバシー重視クラウドをサポートします。アプリで既に利用できるMEGAなどのプライバシーファーストサービスに加わる形です。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="FlacboxはPlex、Jellyfin、NASからDSDファイルを再生しますか?" closed="true" %}}
+{{% ls-details title="FlacboxはPlex、Jellyfin、NASからDSDファイルを再生しますか?" closed="true" %}}
 はい。FlacboxはPlex、Jellyfin、Emby、Subsonic互換サーバー、QNAP、Nextcloud、Amazon S3、そしてSFTP、FTP、NFS経由でストリーミングされるDSD64、DSD128、DSD256ファイル(DSFおよびDFFコンテナ)を再生します。USB DACへのbit-perfect出力はiPhone、iPad、Macでサポートされています。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="再設計されたCarPlay画面はどう動作しますか?" closed="true" %}}
+{{% ls-details title="再設計されたCarPlay画面はどう動作しますか?" closed="true" %}}
 FlacboxのCarPlayインターフェースは、アルバム、アーティスト、プレイリスト、フォルダにわたるクイックソート;さまざまな車の内装に合う複数のカラーテーマ;新しいコントロールを備えた新しいNow Playing画面;一目で確認できる再生キュー;大きなライブラリ間を移動する頭文字インデックス;大きなフォルダとクラウドディレクトリでの高速読み込みで再構築されました。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Flacbox 7.4へのアップデートは無料ですか?" closed="true" %}}
+{{% ls-details title="Flacbox 7.4へのアップデートは無料ですか?" closed="true" %}}
 はい。FlacboxはApp Storeから無料でダウンロードでき、7.4は既存のすべてのユーザー向けの無料アップデートです。再構築されたCarPlay、すべての新しいクラウドとサーバー接続、刷新されたホーム画面ウィジェット、Liquid Glass UIはベースアップデートに含まれます。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Flacbox 7.4が利用できるデバイスは?" closed="true" %}}
+{{% ls-details title="Flacbox 7.4が利用できるデバイスは?" closed="true" %}}
 Flacbox 7.4はiPhone、iPad、Macで動作します。CarPlayサポートにはCarPlay対応の車両またはアフターマーケットヘッドユニットが必要です。AirPlayとChromecastを使ってより大きなシステムに再生をキャストでき;USB DACはbit-perfectロスレス出力に対応しています。
-{{% /details %}}
+{{% /ls-details %}}

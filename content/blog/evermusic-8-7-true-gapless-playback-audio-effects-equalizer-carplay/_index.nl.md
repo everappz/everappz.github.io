@@ -12,7 +12,7 @@ authors:
     image: "/images/about/artem-meleshko-founder-everappz.webp"
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 **Kort samengevat:** [Evermusic 8.7](/products/evermusic) is een release rond geluidskwaliteit voor iPhone, iPad en Mac. Het brengt **echt naadloos afspelen** (geen pauzes, klikken of tikken tussen nummers), een volledige set **studio-audio-effecten** — Reverb, Delay, Distortion, Compressor en Crossfeed — en **EBU R128 volumenormalisatie** die de luidheid van nummer tot nummer consistent houdt zonder ReplayGain-tags. De **10-bands equalizer** is opnieuw ontworpen met nieuwe schuifregelaars, sneller schakelen tussen presets, aangepaste presets die je kunt importeren en exporteren, en een betere lay-out in liggend formaat en op iPad. Onder de motorkap verbetert een **herbouwde AVAudioEngine-streamengine** de betrouwbaarheid en formaatondersteuning, inclusief **FLAC** en **Ogg Vorbis**. **CarPlay** en **Nu speelt** zijn sneller en nauwkeuriger op het vergrendelscherm, in de auto en vanaf koptelefoonafstandsbedieningen.
 
@@ -129,50 +129,50 @@ Als je de app leuk vindt, laat dan een beoordeling achter in de App Store — da
 
 ## Veelgestelde vragen
 
-{{% details title="Wat is nieuw in Evermusic 8.7?" closed="true" %}}
+{{% ls-details title="Wat is nieuw in Evermusic 8.7?" closed="true" %}}
 Evermusic 8.7 voegt echt naadloos afspelen toe, vijf studio-audio-effecten (Reverb, Delay, Distortion, Compressor en Crossfeed), EBU R128 volumenormalisatie, een opnieuw ontworpen 10-bands equalizer met aangepaste presets en import/export, een herbouwde AVAudioEngine-streamengine met verbeterde formaatondersteuning (inclusief FLAC en Ogg Vorbis), een snellere en nauwkeurigere CarPlay en Nu speelt, Liquid Glass-ontwerpupdates, vernieuwde beginschermwidgets, en bug- en lokalisatieoplossingen.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Heeft Evermusic echt naadloos afspelen?" closed="true" %}}
+{{% ls-details title="Heeft Evermusic echt naadloos afspelen?" closed="true" %}}
 Ja. Vanaf Evermusic 8.7 is het afspelen echt naadloos: er is geen pauze, klik of tik tussen nummers. De engine buffert en decodeert het volgende nummer alvast terwijl het huidige speelt en draagt de overdracht over tussen audiosamples op een doorlopende ringbuffer, zodat de overgang onhoorbaar is. Het werkt voor lokale bestanden, cloudstreams en mediaservers, en is ideaal voor livealbums, DJ-mixen en conceptalbums.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Welke audio-effecten bevat Evermusic 8.7?" closed="true" %}}
+{{% ls-details title="Welke audio-effecten bevat Evermusic 8.7?" closed="true" %}}
 Vijf realtime effecten: **Reverb** (13 ruimte-presets, wet/dry-mix), **Delay/Echo** (10 presets met delaytijd, feedback, low-pass en mix), **Distortion** (22 karakter-presets met pre-gain en mix), **Compressor** (een volwaardige dynamiekprocessor met drempel, ratio, attack, release, expansie en makeup-gain, plus 10 presets) en **Crossfeed** (Bauer bs2b koptelefoon-crossfeed met niveau- en cutoff-bedieningen en 6 presets). Elk effect wordt geleverd met samengestelde presets, en je aangepaste instellingen worden tussen sessies onthouden.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Wat is Crossfeed en waarom zou ik het gebruiken?" closed="true" %}}
+{{% ls-details title="Wat is Crossfeed en waarom zou ik het gebruiken?" closed="true" %}}
 Crossfeed mengt een kleine, gefilterde hoeveelheid van elk stereokanaal in het andere, zoals je oren van nature echte luidsprekers in een ruimte horen. Op een koptelefoon vermindert dit de overdreven "in-je-hoofd"-scheiding van hard gepande opnames en maakt het lang luisteren comfortabeler. Evermusic gebruikt het bekende Bauer stereophonic-to-binaural (bs2b) algoritme en bevat presets zoals Chu Moy en Jan Meier. Het is vooral effectief op oudere stereomixen uit de jaren 60 en 70.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Hoe werkt volumenormalisatie in Evermusic?" closed="true" %}}
+{{% ls-details title="Hoe werkt volumenormalisatie in Evermusic?" closed="true" %}}
 Evermusic 8.7 meet de waargenomen luidheid van elk nummer met de EBU R128-standaard (ITU-R BS.1770) in realtime en past het niveau voorzichtig aan naar een consistent doel zodat nummers niet in volume springen. Het vereist geen ReplayGain-tags en wijzigt je bestanden niet. Vier presets zijn beschikbaar — Licht (−20 LUFS), Standaard (−16 LUFS), Sterk (−14 LUFS) en Nacht (−23 LUFS) — en de normalisatie reset netjes wanneer je zoekt of van nummer wisselt.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Is de volumenormalisatie van Evermusic hetzelfde als ReplayGain?" closed="true" %}}
+{{% ls-details title="Is de volumenormalisatie van Evermusic hetzelfde als ReplayGain?" closed="true" %}}
 Het bereikt hetzelfde doel — consistente luidheid tussen nummers — maar werkt anders. ReplayGain vertrouwt op luidheidstags die in je bestanden zijn opgeslagen. De normalisator van Evermusic meet de luidheid live met EBU R128, dus hij werkt op elke bron, inclusief cloudstreams en internetradio, zelfs als de bestanden helemaal geen tags hebben.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Hoeveel banden heeft de Evermusic-equalizer, en kan ik mijn eigen presets maken?" closed="true" %}}
+{{% ls-details title="Hoeveel banden heeft de Evermusic-equalizer, en kan ik mijn eigen presets maken?" closed="true" %}}
 De Evermusic-equalizer is een 10-bands grafische equalizer die 32 Hz tot 16 kHz bestrijkt, met elke band instelbaar van −12 dB tot +12 dB in stappen van 0,1 dB en een preamp van −24 dB tot +24 dB. Hij bevat ingebouwde presets, laat je aangepaste presets maken en bewaren, en ondersteunt het importeren en exporteren van presets als .eqp-bestanden zodat je ze tussen apparaten kunt verplaatsen of delen.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Wat is er veranderd in de equalizer van Evermusic 8.7?" closed="true" %}}
+{{% ls-details title="Wat is er veranderd in de equalizer van Evermusic 8.7?" closed="true" %}}
 De equalizer is opnieuw ontworpen met nieuwe, preciezere schuifregelaars die de iOS 26-systeemschuifregelaar en Liquid Glass-look overnemen, sneller en soepeler schakelen tussen presets, en een betere lay-out in liggend formaat en op iPad (een horizontale preset-balk in staand formaat en een verticale preset-kolom in liggend formaat). Aangepaste presets en .eqp import/export worden ondersteund.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Ondersteunt Evermusic 8.7 FLAC en Ogg Vorbis?" closed="true" %}}
+{{% ls-details title="Ondersteunt Evermusic 8.7 FLAC en Ogg Vorbis?" closed="true" %}}
 Ja. De herbouwde engine speelt FLAC (via Core Audio) en Ogg Vorbis (via libvorbisfile), samen met MP3, AAC, Apple Lossless (ALAC), WAV, AIFF, AC-3, CAF en meer, vanaf lokale bestanden, cloudschijven en mediaservers.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Wat is verbeterd in CarPlay en op het vergrendelscherm?" closed="true" %}}
+{{% ls-details title="Wat is verbeterd in CarPlay en op het vergrendelscherm?" closed="true" %}}
 CarPlay-albumhoezen laden meerdere keren sneller in lange lijsten en verschijnen nu in de compacte iOS 26-lijstrijen die er eerder geen toonden. Nu speelt-informatie op het vergrendelscherm en in CarPlay is nauwkeuriger — de titel, verstreken tijd, duur en afspeel-/pauzestatus worden samen vastgelegd zodat ze het niet oneens kunnen zijn, en bufferstatussen worden correct gerapporteerd. Afstandsbedieningen (afspelen, pauzeren, volgende, vorige, zoeken, shuffle, herhalen, snelheid) reageren betrouwbaar vanaf koptelefoons en de auto, en CarPlay-sortering in grote bibliotheken is sneller.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Werken de audio-effecten en equalizer met cloudstreaming en CarPlay?" closed="true" %}}
+{{% ls-details title="Werken de audio-effecten en equalizer met cloudstreaming en CarPlay?" closed="true" %}}
 Ja. De effecten, equalizer en volumenormalisatie draaien native binnen de afspeelengine, dus ze worden toegepast op alles wat Evermusic afspeelt — lokale bestanden, cloudschijven, mediaservers en internetradio — en ze blijven werken tijdens het afspelen via CarPlay en, waar ondersteund, via AirPlay en Chromecast.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Is Evermusic 8.7 gratis om bij te werken, en welke apparaten worden ondersteund?" closed="true" %}}
+{{% ls-details title="Is Evermusic 8.7 gratis om bij te werken, en welke apparaten worden ondersteund?" closed="true" %}}
 Ja. Evermusic is een gratis download uit de App Store, en 8.7 is een gratis update voor bestaande gebruikers, met optionele in-app upgrades voor geavanceerde functies. Het draait op iPhone, iPad en Mac. CarPlay vereist een CarPlay-compatibel voertuig of hoofdunit.
-{{% /details %}}
+{{% /ls-details %}}

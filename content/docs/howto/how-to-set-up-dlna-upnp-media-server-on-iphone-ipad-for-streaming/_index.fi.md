@@ -7,7 +7,7 @@ keywords: ["DLNA-palvelin iPhone", "UPnP-palvelin iPad", "näin määrität DLNA
 readingTime: 9
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 DLNA (jota kutsutaan myös nimellä UPnP AV) on hiljainen työjuhta useimpien älytelevisioiden taustalla. Se on yhteinen kieli, jonka avulla televisio tai mediasoitin löytää samassa Wi-Fi-verkossa olevan mediakirjaston ja toistaa siitä ilman, että televisioon tarvitsee asentaa mitään. Jos iPhonesi tai iPadisi voi toimia tuona kirjastona, kuvasi, videosi ja musiikkisi ilmestyvät isolle ruudulle itsestään.
 
@@ -127,44 +127,44 @@ DLNA luovuttaa tiedoston televisiolle sellaisenaan, ja television on pystyttäv�
 
 ## Usein kysytyt kysymykset
 
-{{% details title="Mikä ero on DLNAn ja UPnP:n välillä?" closed="true" %}}
+{{% ls-details title="Mikä ero on DLNAn ja UPnP:n välillä?" closed="true" %}}
 Ne liittyvät läheisesti toisiinsa. UPnP on taustalla oleva verkkostandardi, ja DLNA on sen päälle rakennettu mediaprofiili, jota televisiot ja soittimet käyttävät kuvien, videoiden ja musiikin jakamiseen ja toistamiseen. Jokapäiväisessä käytössä sanat ovat keskenään vaihdettavissa. Kun otat Everdiskissä käyttöön Televisio ja mediakeskus, laitteesi muuttuu DLNA/UPnP-mediapalvelimeksi, jota mikä tahansa DLNA-asiakas voi selata.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Tarvitseeko televisiooni asentaa mitään?" closed="true" %}}
+{{% ls-details title="Tarvitseeko televisiooni asentaa mitään?" closed="true" %}}
 Ei. Jos televisiosi tukee DLNAa, siinä on jo mediasoitin, joka voi löytää laitteesi Wi-Fi-verkosta. Asennat Everdiskin vain siihen iPhoneen tai iPadiin, joka sisältää sisällön. Jos televisiosi ei tue DLNAa, asenna soitin, kuten VLC tai Kodi, siihen kytketylle laitteelle.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Miksi iPhoneni ei näy televisiossa?" closed="true" %}}
+{{% ls-details title="Miksi iPhoneni ei näy televisiossa?" closed="true" %}}
 Tarkista, että molemmat laitteet ovat samassa Wi-Fi-verkossa. Vierasverkot sekä jotkin toimisto- tai hotelliverkot estävät laitteita näkemästä toisiaan, mikä estää DLNAn. Varmista sitten, että Everdisk on avoinna jakamisen ollessa aloitettu, ja että Televisio ja mediakeskus on päällä kohdassa Asetukset, Jakaminen, Yhteydet. Jos televisio ei vieläkään löydä sitä, lisää palvelin käsin käyttämällä laitekuvausosoitetta, joka päättyy muotoon /device-desc.xml.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Tarvitseeko DLNA-suoratoisto salasanan?" closed="true" %}}
+{{% ls-details title="Tarvitseeko DLNA-suoratoisto salasanan?" closed="true" %}}
 Ei. DLNA on aina avoin kaikille samassa Wi-Fi-verkossa oleville sen ollessa päällä, minkä vuoksi television puolella ei ole kirjautumista. Tämä on hyvä kotiverkossa, johon luotat. Verkossa, johon et luota, sammuta Televisio ja mediakeskus, kun olet valmis, tai käytä sen sijaan salattua SMB-palvelinta.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Voinko suoratoistaa Chromecastiin tai Rokuun?" closed="true" %}}
+{{% ls-details title="Voinko suoratoistaa Chromecastiin tai Rokuun?" closed="true" %}}
 Chromecast ja Roku eivät toimi DLNA-soittimina suoraan, joten ne eivät löydä laitettasi suoraan. Kiertotie on asentaa DLNA-sovellus, joka voi lähettää suoratoiston, kuten VLC tai BubbleUPnP puhelimeen, ja työntää toisto sieltä Chromecastiin tai Rokuun. Useimmissa muissa älytelevisioissa DLNA toimii ilman tätä kaikkea.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Video toistuu ilman ääntä tai ei avaudu. Mitä voin tehdä?" closed="true" %}}
+{{% ls-details title="Video toistuu ilman ääntä tai ei avaudu. Mitä voin tehdä?" closed="true" %}}
 Se on muoto, jota televisio ei voi purkaa. Avaa Everdiskissä Asetukset, Jakaminen, Videot ja alenna Laatu-asetusta, jotta sovellus muuntaa videon yhteensopivampaan muotoon suoratoiston aikana. Voit myös avata saman tiedoston selainlinkin kautta, joka käsittelee useampia muotoja.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Voinko suoratoistaa musiikkia, en pelkkiä videoita?" closed="true" %}}
+{{% ls-details title="Voinko suoratoistaa musiikkia, en pelkkiä videoita?" closed="true" %}}
 Kyllä. Ota käyttöön Salli pääsy koko musiikkikirjastoon, tai lisää tietyt kappaleet, ja aloita sitten jakaminen. Kappaleesi näkyvät missä tahansa DLNA-kaiuttimessa, AV-vastaanottimessa tai televisiossa kansikuvineen ja kappaletietoineen. Musiikki jaetaan aina alkuperäisessä laadussaan.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Täytyykö sovelluksen pysyä auki katselun aikana?" closed="true" %}}
+{{% ls-details title="Täytyykö sovelluksen pysyä auki katselun aikana?" closed="true" %}}
 Kyllä. iPhonesi toimii palvelimena, ja iOS pysäyttää sovellukset, jotka työnnetään kokonaan taustalle pitkäksi aikaa. Pidä Everdisk näytöllä suoratoiston aikana ja kytke virtalähteeseen pitkiä hetkiä varten.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Miten suoratoistan yhdestä iPhonesta toiseen iPadiin?" closed="true" %}}
+{{% ls-details title="Miten suoratoistan yhdestä iPhonesta toiseen iPadiin?" closed="true" %}}
 Aloita jakaminen iPhonella, avaa sitten Everdisk iPadilla ja siirry Laitteet-välilehdelle. iPhone näkyy kohdassa Käytettävissä olevat laitteet mediapalvelimena. Napauta sitä selataksesi ja toistaaksesi. Everdisk toimii sekä DLNA-asiakkaana että -palvelimena, joten et tarvitse muuta sovellusta.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Onko Everdisk ilmainen?" closed="true" %}}
+{{% ls-details title="Onko Everdisk ilmainen?" closed="true" %}}
 Kyllä, Everdiskin voi ladata ilmaiseksi ja DLNA-mediapalvelin sisältyy siihen. Valinnainen kertaostoksena hankittava Premium Lifetime lisää lisäominaisuuksia, kuten kuvien ja videoiden muunnoksen vanhemmille televisioille, mukautetut portit ja muuta. Voit ottaa DLNA-suoratoiston käyttöön ja käyttää sitä maksamatta.
-{{% /details %}}
+{{% /ls-details %}}
 
 Valmis kokeilemaan? [Lataa Everdisk App Storesta](https://apps.apple.com/app/apple-store/id6751851132?pt=95781850&ct=everappzcom&mt=8) ja suoratoista ensimmäinen albumisi televisioon parissa minuutissa. Kysymyksiä tai palautetta? Lähetä meille sähköpostia osoitteeseen **support@everappz.com**.

@@ -7,7 +7,7 @@ tags: ["evermusic", "importar", "listas de reproducción", "m3u", "cue"]
 readingTime: 3
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **Resumen:** Evermusic y Flacbox admiten la importación de archivos de listas de reproducción M3U, M3U8 y CUE desde almacenamiento en la nube, archivos locales de la aplicación o tu dispositivo. Ve a Listas de reproducción > Más > Importar lista de reproducción, selecciona una fuente, elige tu archivo y la aplicación creará tu lista de reproducción automáticamente.
@@ -84,22 +84,22 @@ Además, puedes importar múltiples listas de reproducción a la vez tocando el 
 
 ## Preguntas frecuentes
 
-{{% details title="¿Qué formatos de listas de reproducción admiten Evermusic y Flacbox?" closed="true" %}}
+{{% ls-details title="¿Qué formatos de listas de reproducción admiten Evermusic y Flacbox?" closed="true" %}}
 Ambas aplicaciones admiten los formatos de archivo de listas de reproducción M3U, M3U8 y CUE. Estos cubren los estándares de listas de reproducción más comunes utilizados por reproductores de música y software multimedia.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="¿Puedo importar listas de reproducción desde almacenamiento en la nube?" closed="true" %}}
+{{% ls-details title="¿Puedo importar listas de reproducción desde almacenamiento en la nube?" closed="true" %}}
 Sí. Puedes importar archivos de listas de reproducción desde cualquier servicio de almacenamiento en la nube conectado, incluyendo Google Drive, Dropbox, OneDrive y servidores WebDAV.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="¿Por qué faltan algunas pistas después de la importación?" closed="true" %}}
+{{% ls-details title="¿Por qué faltan algunas pistas después de la importación?" closed="true" %}}
 El archivo de la lista de reproducción debe contener rutas correctas a tus archivos multimedia, y esos archivos deben existir en las ubicaciones especificadas en tu almacenamiento. Verifica que las rutas de archivos en tu archivo M3U o CUE coincidan con las ubicaciones reales de los archivos.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="¿Puedo importar múltiples listas de reproducción a la vez?" closed="true" %}}
+{{% ls-details title="¿Puedo importar múltiples listas de reproducción a la vez?" closed="true" %}}
 Sí. Usa el botón Más acciones y selecciona "Importar listas de reproducción desde una carpeta". La aplicación escanea la carpeta en busca de todos los archivos de listas de reproducción compatibles y los importa en un solo paso.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="¿Necesito crear las listas de reproducción manualmente?" closed="true" %}}
+{{% ls-details title="¿Necesito crear las listas de reproducción manualmente?" closed="true" %}}
 No. La función de importación elimina la creación manual de listas de reproducción. Solo apunta la aplicación a tu archivo M3U, M3U8 o CUE existente y creará la lista de reproducción automáticamente.
-{{% /details %}}
+{{% /ls-details %}}

@@ -72,19 +72,19 @@ Evermusic يتيح لك بناء نظام بث موسيقى سحابي خاص ب
 
 
 {{< cards >}}
-  {{< card icon="location-marker" title="التنقل" subtitle="تعرّف على كيفية التنقل في Evermusic باستخدام شريط التبويب على iPhone أو القائمة اليسرى على iPad وMac." link="/docs/guide/evermusic/evermusic-guide-navigation" >}}
+  {{< ls-card icon="location-marker" title="التنقل" subtitle="تعرّف على كيفية التنقل في Evermusic باستخدام شريط التبويب على iPhone أو القائمة اليسرى على iPad وMac." link="/docs/guide/evermusic/evermusic-guide-navigation" >}}
 
-  {{< card icon="cloud" title="الاتصالات" subtitle="اربط حساباتك السحابية وأدِر الملفات عبر الإنترنت باستخدام مدير الملفات المدمج." link="/docs/guide/evermusic/evermusic-guide-connections" >}}
+  {{< ls-card icon="cloud" title="الاتصالات" subtitle="اربط حساباتك السحابية وأدِر الملفات عبر الإنترنت باستخدام مدير الملفات المدمج." link="/docs/guide/evermusic/evermusic-guide-connections" >}}
 
-  {{< card icon="collection" title="مكتبة الموسيقى" subtitle="نظّم مقطوعاتك وألبوماتك وفنانيك واستكشفها في مكتبة الموسيقى." link="/docs/guide/evermusic/evermusic-guide-music-library" >}}
+  {{< ls-card icon="collection" title="مكتبة الموسيقى" subtitle="نظّم مقطوعاتك وألبوماتك وفنانيك واستكشفها في مكتبة الموسيقى." link="/docs/guide/evermusic/evermusic-guide-music-library" >}}
 
-  {{< card icon="music-note" title="قوائم التشغيل" subtitle="أنشئ قوائم التشغيل ورتّبها لتناسب مزاجك أو مناسبتك." link="/docs/guide/evermusic/evermusic-guide-playlists" >}}
+  {{< ls-card icon="music-note" title="قوائم التشغيل" subtitle="أنشئ قوائم التشغيل ورتّبها لتناسب مزاجك أو مناسبتك." link="/docs/guide/evermusic/evermusic-guide-playlists" >}}
 
-  {{< card icon="folder" title="الملفات المحلية" subtitle="صل إلى الموسيقى بدون اتصال وأدِرها من خلال قسم الملفات المحلية." link="/docs/guide/evermusic/evermusic-guide-local-files" >}}
+  {{< ls-card icon="folder" title="الملفات المحلية" subtitle="صل إلى الموسيقى بدون اتصال وأدِرها من خلال قسم الملفات المحلية." link="/docs/guide/evermusic/evermusic-guide-local-files" >}}
 
-  {{< card icon="play" title="مشغل الصوت" subtitle="تحكّم في التشغيل وقائمة الانتظار وإعدادات الصوت مثل المعادل ومؤقت النوم." link="/docs/guide/evermusic/evermusic-guide-player" >}}
+  {{< ls-card icon="play" title="مشغل الصوت" subtitle="تحكّم في التشغيل وقائمة الانتظار وإعدادات الصوت مثل المعادل ومؤقت النوم." link="/docs/guide/evermusic/evermusic-guide-player" >}}
 
-  {{< card icon="adjustments" title="الإعدادات" subtitle="خصّص مظهر Evermusic وميزاته وإعدادات الأداء." link="/docs/guide/evermusic/evermusic-guide-settings" >}}
+  {{< ls-card icon="adjustments" title="الإعدادات" subtitle="خصّص مظهر Evermusic وميزاته وإعدادات الأداء." link="/docs/guide/evermusic/evermusic-guide-settings" >}}
 
-  {{< card icon="question-mark-circle" title="الأسئلة الشائعة" subtitle="اعثر على إجابات سريعة للأسئلة الشائعة في قسم الأسئلة الشائعة." link="/docs/faq/evermusic" >}}
+  {{< ls-card icon="question-mark-circle" title="الأسئلة الشائعة" subtitle="اعثر على إجابات سريعة للأسئلة الشائعة في قسم الأسئلة الشائعة." link="/docs/faq/evermusic" >}}
 {{< /cards >}}

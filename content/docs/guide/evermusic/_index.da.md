@@ -72,19 +72,19 @@ Denne guide hjælper dig med at få det fulde udbytte af Evermusic på din iPhon
 
 
 {{< cards >}}
-  {{< card icon="location-marker" title="Navigation" subtitle="Lær at navigere i Evermusic ved hjælp af fanebladet i bunden på iPhone eller venstre menu på iPad og Mac." link="/docs/guide/evermusic/evermusic-guide-navigation" >}}
+  {{< ls-card icon="location-marker" title="Navigation" subtitle="Lær at navigere i Evermusic ved hjælp af fanebladet i bunden på iPhone eller venstre menu på iPad og Mac." link="/docs/guide/evermusic/evermusic-guide-navigation" >}}
 
-  {{< card icon="cloud" title="Forbindelser" subtitle="Tilslut dine cloud-konti og administrer online filer ved hjælp af den indbyggede filmanager." link="/docs/guide/evermusic/evermusic-guide-connections" >}}
+  {{< ls-card icon="cloud" title="Forbindelser" subtitle="Tilslut dine cloud-konti og administrer online filer ved hjælp af den indbyggede filmanager." link="/docs/guide/evermusic/evermusic-guide-connections" >}}
 
-  {{< card icon="collection" title="Musikbibliotek" subtitle="Organiser og udforsk dine sange, albums og kunstnere i musikbiblioteket." link="/docs/guide/evermusic/evermusic-guide-music-library" >}}
+  {{< ls-card icon="collection" title="Musikbibliotek" subtitle="Organiser og udforsk dine sange, albums og kunstnere i musikbiblioteket." link="/docs/guide/evermusic/evermusic-guide-music-library" >}}
 
-  {{< card icon="music-note" title="Afspilningslister" subtitle="Opret og organiser afspilningslister, der passer til dit humør eller din lejlighed." link="/docs/guide/evermusic/evermusic-guide-playlists" >}}
+  {{< ls-card icon="music-note" title="Afspilningslister" subtitle="Opret og organiser afspilningslister, der passer til dit humør eller din lejlighed." link="/docs/guide/evermusic/evermusic-guide-playlists" >}}
 
-  {{< card icon="folder" title="Lokale filer" subtitle="Adgang til og administrer offline musik via sektionen Lokale filer." link="/docs/guide/evermusic/evermusic-guide-local-files" >}}
+  {{< ls-card icon="folder" title="Lokale filer" subtitle="Adgang til og administrer offline musik via sektionen Lokale filer." link="/docs/guide/evermusic/evermusic-guide-local-files" >}}
 
-  {{< card icon="play" title="Lydafspiller" subtitle="Styr afspilning, kø og lydindstillinger som equalizer og søvntimer." link="/docs/guide/evermusic/evermusic-guide-player" >}}
+  {{< ls-card icon="play" title="Lydafspiller" subtitle="Styr afspilning, kø og lydindstillinger som equalizer og søvntimer." link="/docs/guide/evermusic/evermusic-guide-player" >}}
 
-  {{< card icon="adjustments" title="Indstillinger" subtitle="Tilpas udseende, funktioner og ydeevneindstillinger i Evermusic." link="/docs/guide/evermusic/evermusic-guide-settings" >}}
+  {{< ls-card icon="adjustments" title="Indstillinger" subtitle="Tilpas udseende, funktioner og ydeevneindstillinger i Evermusic." link="/docs/guide/evermusic/evermusic-guide-settings" >}}
 
-  {{< card icon="question-mark-circle" title="FAQ" subtitle="Find hurtige svar på hyppige spørgsmål i vores FAQ-sektion." link="/docs/faq/evermusic" >}}
+  {{< ls-card icon="question-mark-circle" title="FAQ" subtitle="Find hurtige svar på hyppige spørgsmål i vores FAQ-sektion." link="/docs/faq/evermusic" >}}
 {{< /cards >}}

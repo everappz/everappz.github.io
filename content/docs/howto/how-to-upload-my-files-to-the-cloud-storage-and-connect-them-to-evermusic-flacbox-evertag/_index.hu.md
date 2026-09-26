@@ -7,7 +7,7 @@ tags: ["evermusic", "flacbox", "felhő", "fájl", "fiók", "kezelő", "kapcsolat
 keywords: ["felhőszolgáltatás csatlakoztatása az Evermusic-hoz", "fájlok feltöltése a Google Drive-ra", "Flacbox felhőintegráció", "OneDrive használata az Evermusic-kal", "Evertag felhőfájl-hozzáférés", "Dropbox csatlakoztatása iOS zenelejátszóhoz", "fájlkezelő felhőszolgáltatásokhoz"]
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **Röviden:** Töltsd fel zenei vagy médiafájljaidat bármely támogatott felhőszolgáltatásba (Google Drive, Dropbox, OneDrive és több), majd csatlakoztasd azt a szolgáltatást az Evermusic, Flacbox vagy Evertag alkalmazásban, hogy közvetlenül streameld vagy letöltsd fájljaidat iPhone-on, iPaden vagy Macen.
@@ -76,38 +76,38 @@ Mondj búcsút a tárhely-korlátozásoknak és üdvözöld a kényelmet!
 
 ## Gyakran ismételt kérdések
 
-{{% details title="Mely felhőszolgáltatások támogatottak?" closed="true" %}}
+{{% ls-details title="Mely felhőszolgáltatások támogatottak?" closed="true" %}}
 Az Evermusic, Flacbox és Evertag támogatja a Google Drive-ot, Dropboxot, OneDrive-ot, Boxot, MediaFire-t, Yandex.Disk-et, MEGA-t, MyDrive-ot, pCloudot és más felhőszolgáltatókat. Egyéni WebDAV, SMB és FTP szervereket is csatlakoztathatsz.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Streamelhetek zenét közvetlenül a felhőből letöltés nélkül?" closed="true" %}}
+{{% ls-details title="Streamelhetek zenét közvetlenül a felhőből letöltés nélkül?" closed="true" %}}
 Igen. Mindhárom alkalmazás támogatja az audiofájlok közvetlen streamingjét a csatlakoztatott felhőtárhelyről. Fájlokat is letölthetsz offline lejátszáshoz, amikor nincs internet-hozzáférésed.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Van fájlméret- vagy tárhely-korlát az alkalmazásban?" closed="true" %}}
+{{% ls-details title="Van fájlméret- vagy tárhely-korlát az alkalmazásban?" closed="true" %}}
 Az alkalmazások nem szabnak saját fájlméret- vagy tárhely-korlátokat. A rendelkezésre álló tárhely a felhőszolgáltatási csomagodtól és az eszközöd helyi tárhelyétől függ a letöltött fájlok számára.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Csatlakoztathatok több felhőfiókot egyszerre?" closed="true" %}}
+{{% ls-details title="Csatlakoztathatok több felhőfiókot egyszerre?" closed="true" %}}
 Igen. Egyszerre több felhőszolgáltatást és több fiókot is csatlakoztathatsz ugyanattól a szolgáltatótól. Az összes csatlakoztatott fiók megjelenik a Kapcsolatok fülön a könnyű váltáshoz.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Újra fel kell töltenem a fájlokat, ha másik alkalmazásra váltok?" closed="true" %}}
+{{% ls-details title="Újra fel kell töltenem a fájlokat, ha másik alkalmazásra váltok?" closed="true" %}}
 Nem. Mivel a fájljaid a felhőben vannak tárolva, ugyanazt a felhőfiókot csatlakoztathatod az Evermusic, Flacbox vagy Evertag alkalmazáshoz anélkül, hogy bármit újra feltöltenél. Minden alkalmazás ugyanazokhoz a fájlokhoz fér hozzá a felhőtárhelyedről.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Biztonságban vannak a felhőfiókom adatai?" closed="true" %}}
+{{% ls-details title="Biztonságban vannak a felhőfiókom adatai?" closed="true" %}}
 Igen. Az alkalmazás kizárólag hivatalos SDK-kat és titkosított kapcsolatokat használ a felhőszolgáltatásokkal való interakcióhoz. A bejelentkezési neved és jelszavad soha nem tárolja az alkalmazás. Bejelentkezéskor az alkalmazás a felhőszolgáltatás által biztosított hivatalos engedélyezési oldalt jeleníti meg. Sikeres engedélyezés után a felhőszolgáltató egy hitelesítési tokent küld az alkalmazásnak, amelyet biztonságosan tárol az eszköz Keychain-jében. Ezt a tokent használja az összes API-kéréshez.<br><br>
 Az alkalmazás nem oszt meg semmilyen információt a felhőfiókodból. Bármikor visszavonhatod a hozzáférést a felhőfiókod beállítási oldaláról egy webböngészőben, vagy leválaszthatod a fiókot az alkalmazáson belül.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Hogyan válasszak le egy felhőszolgáltatást vagy változtassam meg a konfigurációját?" closed="true" %}}
+{{% ls-details title="Hogyan válasszak le egy felhőszolgáltatást vagy változtassam meg a konfigurációját?" closed="true" %}}
 Keresd meg a felhőtárhelyet az alkalmazás **Kapcsolatok** fülén és koppints a mellette lévő **...** gombra. Ezeket a lehetőségeket látod:<br>
 - **Átnevezés** -- a felhőszolgáltatás megjelenítési nevének módosítása<br>
 - **Beállítások** -- konfiguráció módosítása vagy újraengedélyezés, ha a token lejárt<br>
 - **Kibővítés megszüntetése** -- a kapcsolat teljes eltávolítása. Ez eltávolítja az összes dalt erről a felhőszolgáltatásról az alkalmazás zenei könyvtárából, de a fájlok megmaradnak a szerveren
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Hogyan vonjam vissza az alkalmazás hozzáférését a felhőfiókhoz?" closed="true" %}}
+{{% ls-details title="Hogyan vonjam vissza az alkalmazás hozzáférését a felhőfiókhoz?" closed="true" %}}
 Jelentkezz be a felhőfiókodba egy webböngészőben és nyisd meg a fiókbeállítások vagy biztonsági oldalt. Keresd meg a csatlakoztatott harmadik féltől származó alkalmazások listáját és távolítsd el azt az alkalmazást, amelyet már nem szeretnél engedélyezni. A felhőfiókot az alkalmazáson belül is leválaszthatod -- ez eltávolítja a hitelesítési tokent az eszközödről. Ha teljesen törlöd az alkalmazást, az összes letöltött adat és hozzáférési token automatikusan eltávolításra kerül.
-{{% /details %}}
+{{% /ls-details %}}

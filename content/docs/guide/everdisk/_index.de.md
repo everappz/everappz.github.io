@@ -28,19 +28,19 @@ Diese Anleitung erklart dir jeden Teil der App Schritt fur Schritt. Wahle unten 
 
 
 {{< cards >}}
-  {{< card icon="play" title="Teilen" subtitle="Tippe auf Start, wahle aus, was du teilen mochtest, und lasse alle funf Server gleichzeitig laufen. Lerne den Teilen-Bildschirm von Anfang bis Ende kennen." link="/docs/guide/everdisk/everdisk-guide-sharing" >}}
+  {{< ls-card icon="play" title="Teilen" subtitle="Tippe auf Start, wahle aus, was du teilen mochtest, und lasse alle funf Server gleichzeitig laufen. Lerne den Teilen-Bildschirm von Anfang bis Ende kennen." link="/docs/guide/everdisk/everdisk-guide-sharing" >}}
 
-  {{< card icon="desktop-computer" title="Deine Gerate verbinden" subtitle="Wie sich ein TV, ein Mac oder PC, ein Webbrowser, ein anderes Telefon oder ein USB-Kabel mit deinen geteilten Dateien verbindet." link="/docs/guide/everdisk/everdisk-guide-connect" >}}
+  {{< ls-card icon="desktop-computer" title="Deine Gerate verbinden" subtitle="Wie sich ein TV, ein Mac oder PC, ein Webbrowser, ein anderes Telefon oder ein USB-Kabel mit deinen geteilten Dateien verbindet." link="/docs/guide/everdisk/everdisk-guide-connect" >}}
 
-  {{< card icon="server" title="Mit Servern verbinden" subtitle="Erreiche andere DLNA-, WebDAV-, FTP-, SFTP- und SMB-Server sowie NAS-Laufwerke in deinem Netzwerk, um zu durchsuchen, zu streamen und herunterzuladen." link="/docs/guide/everdisk/everdisk-guide-devices" >}}
+  {{< ls-card icon="server" title="Mit Servern verbinden" subtitle="Erreiche andere DLNA-, WebDAV-, FTP-, SFTP- und SMB-Server sowie NAS-Laufwerke in deinem Netzwerk, um zu durchsuchen, zu streamen und herunterzuladen." link="/docs/guide/everdisk/everdisk-guide-devices" >}}
 
-  {{< card icon="folder" title="Dateien & Dokumente" subtitle="Durchsuche, erstelle Ordner, benenne um, verschiebe, kopiere und losche, packe und entpacke, verbinde externe Ordner und scanne als PDF." link="/docs/guide/everdisk/everdisk-guide-files" >}}
+  {{< ls-card icon="folder" title="Dateien & Dokumente" subtitle="Durchsuche, erstelle Ordner, benenne um, verschiebe, kopiere und losche, packe und entpacke, verbinde externe Ordner und scanne als PDF." link="/docs/guide/everdisk/everdisk-guide-files" >}}
 
-  {{< card icon="music-note" title="Fotos, Musik & Video" subtitle="Teile deine gesamte Foto- und Musikbibliothek, spiele Audio im Mini-Player ab und schaue Videos im Vollbild." link="/docs/guide/everdisk/everdisk-guide-media" >}}
+  {{< ls-card icon="music-note" title="Fotos, Musik & Video" subtitle="Teile deine gesamte Foto- und Musikbibliothek, spiele Audio im Mini-Player ab und schaue Videos im Vollbild." link="/docs/guide/everdisk/everdisk-guide-media" >}}
 
-  {{< card icon="lock-closed" title="Zugriff & Privatsphare" subtitle="Schutze das Teilen mit Login und Passwort, erlaube oder verbiete Bearbeitungen, blockiere Gerate und halte alles lokal." link="/docs/guide/everdisk/everdisk-guide-access" >}}
+  {{< ls-card icon="lock-closed" title="Zugriff & Privatsphare" subtitle="Schutze das Teilen mit Login und Passwort, erlaube oder verbiete Bearbeitungen, blockiere Gerate und halte alles lokal." link="/docs/guide/everdisk/everdisk-guide-access" >}}
 
-  {{< card icon="adjustments" title="Einstellungen" subtitle="Jede Einstellung erklart: Gerateprofil, Verbindungen, Foto- und Videoqualitat, Ports, Ubertragungen und mehr." link="/docs/guide/everdisk/everdisk-guide-settings" >}}
+  {{< ls-card icon="adjustments" title="Einstellungen" subtitle="Jede Einstellung erklart: Gerateprofil, Verbindungen, Foto- und Videoqualitat, Ports, Ubertragungen und mehr." link="/docs/guide/everdisk/everdisk-guide-settings" >}}
 
-  {{< card icon="question-mark-circle" title="FAQ" subtitle="Schnelle Antworten auf die haufigsten Fragen und Situationen aus der Praxis." link="/docs/faq/everdisk" >}}
+  {{< ls-card icon="question-mark-circle" title="FAQ" subtitle="Schnelle Antworten auf die haufigsten Fragen und Situationen aus der Praxis." link="/docs/faq/everdisk" >}}
 {{< /cards >}}

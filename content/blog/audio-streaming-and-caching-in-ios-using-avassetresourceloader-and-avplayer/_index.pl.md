@@ -12,7 +12,7 @@ authors:
     image: "/images/about/artem-meleshko-founder-everappz.webp"
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 ![](/blog/audio-streaming-and-caching-in-ios-using-avassetresourceloader-and-avplayer/diagram.png)
 
@@ -140,18 +140,18 @@ To podejście napędza silnik strumieniowania audio w [Evermusic](https://apps.a
 
 ## Często zadawane pytania
 
-{{% details title="Kiedy powinienem używać AVAssetResourceLoaderDelegate zamiast bezpośredniego URL?" closed="true" %}}
+{{% ls-details title="Kiedy powinienem używać AVAssetResourceLoaderDelegate zamiast bezpośredniego URL?" closed="true" %}}
 Użyj go, gdy usługa chmurowa wymaga niestandardowych nagłówków autoryzacji, gdy potrzebujesz buforowania na dysku dla strumieniowanego audio lub gdy chcesz mieć szczegółową kontrolę nad tym, jak dane są ładowane i buforowane.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Czy to podejście działa ze Swift?" closed="true" %}}
+{{% ls-details title="Czy to podejście działa ze Swift?" closed="true" %}}
 Tak. Protokół `AVAssetResourceLoaderDelegate` działa w taki sam sposób w Swift. Przykłady w Objective-C przekładają się bezpośrednio.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Czy mogę tego używać również do strumieniowania wideo?" closed="true" %}}
+{{% ls-details title="Czy mogę tego używać również do strumieniowania wideo?" closed="true" %}}
 Tak. `AVAssetResourceLoaderDelegate` działa z każdym typem mediów obsługiwanym przez AVPlayer, w tym z wideo. To samo podejście z niestandardowym schematem ma zastosowanie.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Czy to obsługuje odtwarzanie audio w tle?" closed="true" %}}
+{{% ls-details title="Czy to obsługuje odtwarzanie audio w tle?" closed="true" %}}
 Tak, pod warunkiem że włączysz tryb tła „Audio, AirPlay i Obraz w obrazie" w możliwościach aplikacji i poprawnie skonfigurujesz `AVAudioSession`.
-{{% /details %}}
+{{% /ls-details %}}

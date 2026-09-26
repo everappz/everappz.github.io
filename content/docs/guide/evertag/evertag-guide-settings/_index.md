@@ -23,7 +23,7 @@ On this screen, you can access the application settings and upgrade it to the Pr
 - **Legal & privacy** — Terms, Privacy Policy, Legal Notices, Analytics & data collection
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evertag Settings Screen" image="/docs/guide/evertag/img/settings.webp" >}}
+  {{< ls-card title="" subtitle="Evertag Settings Screen" image="/docs/guide/evertag/img/settings.webp" >}}
 {{< /cards >}}
 
 ## Upgrade to Premium
@@ -65,7 +65,7 @@ Activates the password protection screen if you want to protect your application
 The file manager supports access to connected cloud storage accounts and offers batch operations for quick management of multiple files.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evertag Settings File Manager Screen" image="/docs/guide/evertag/img/settings-file-manager.webp" >}}
+  {{< ls-card title="" subtitle="Evertag Settings File Manager Screen" image="/docs/guide/evertag/img/settings-file-manager.webp" >}}
 {{< /cards >}}
 
 ### File transfers
@@ -105,7 +105,7 @@ Clear the application's cache folder to reclaim storage space.
 In this section, you can configure the built-in audio tags editor.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evertag Settings Tag Editor Screen" image="/docs/guide/evertag/img/settings-tag-editor.webp" >}}
+  {{< ls-card title="" subtitle="Evertag Settings Tag Editor Screen" image="/docs/guide/evertag/img/settings-tag-editor.webp" >}}
 {{< /cards >}}
 
 ### Album cover scaling
@@ -138,7 +138,7 @@ In this section, you can activate the WiFi Drive feature, which allows you to tr
 In this section, you can customize the user interface settings to suit your preferences.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evertag Settings Personalization Screen" image="/docs/guide/evertag/img/settings-personalization.webp" >}}
+  {{< ls-card title="" subtitle="Evertag Settings Personalization Screen" image="/docs/guide/evertag/img/settings-personalization.webp" >}}
 {{< /cards >}}
 
 ### Application icon

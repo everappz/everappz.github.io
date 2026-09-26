@@ -12,7 +12,7 @@ authors:
     image: "/images/about/artem-meleshko-founder-everappz.webp"
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 **Flacbox 1.6** tuo merkittäviä uusia ominaisuuksia FLAC-musiikkisoittimeen iPhonelle ja iPadille.
 
@@ -68,18 +68,18 @@ Onko sinulla palautetta tai ominaisuuspyyntöjä? Ota yhteyttä -- rakennamme Fl
 
 ## Usein kysytyt kysymykset
 
-{{% details title="Mitä äänimuotoja Flacbox tukee?" closed="true" %}}
+{{% ls-details title="Mitä äänimuotoja Flacbox tukee?" closed="true" %}}
 Flacbox tukee FLAC-, ALAC-, MP3-, AAC-, OGG-, OPUS-, WAV-, AIFF-, DSD- ja muita suosittuja äänimuotoja. Kaikki muodot toimivat sisäänrakennetun taajuuskorjaimen kanssa.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Voinko toistaa musiikkia SD-kortilta iPhonellani?" closed="true" %}}
+{{% ls-details title="Voinko toistaa musiikkia SD-kortilta iPhonellani?" closed="true" %}}
 Kyllä. Yhdistä SD- tai microSD-kortti Lightning to SD Card Camera Reader Adapterilla. Flacbox tunnistaa kortin automaattisesti ja antaa sinun selata ja toistaa tiedostoja suoraan ulkoisesta tallennustilasta.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Synkronoiko Flacbox pilvitallennuksen kanssa automaattisesti?" closed="true" %}}
+{{% ls-details title="Synkronoiko Flacbox pilvitallennuksen kanssa automaattisesti?" closed="true" %}}
 Kyllä. Versiosta 1.6 alkaen Flacbox voi synkronoida musiikkikirjastosi automaattisesti pilvikansioista. Ota automaattinen synkronointi käyttöön asetuksissa ja valitse seurattavat kansiot.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Onko Flacboxin taajuuskorjain muokattavissa?" closed="true" %}}
+{{% ls-details title="Onko Flacboxin taajuuskorjain muokattavissa?" closed="true" %}}
 Kyllä. 10-kaistan taajuuskorjain mahdollistaa yksittäisten taajuustasojen säätämisen -12 dB ja +12 dB välillä. Voit käyttää sisäänrakennettuja esiasetuksia tai tallentaa omia mukautettuja asetuksia.
-{{% /details %}}
+{{% /ls-details %}}

@@ -19,7 +19,7 @@ Soittolistat-osiossa löydät hyödyllisiä työkaluja videokokoelmien hallintaa
 Evervideo-soittolistat voivat sisältää sekoituksen verkkovideotiedostoja pilvestä, offline-ladattuja tiedostoja, paikallisia tiedostoja, Kuvat-kirjaston videoita ja iOS-Musiikki-kirjaston videoita — kaikki yhdessä soittolistassa — ja ne toistetaan saumattomasti yhdessä.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evervideo Soittolistat mediakirjastossa" image="/docs/guide/evervideo/img/evervideo-playlists-in-media-library.webp" >}}
+  {{< ls-card title="" subtitle="Evervideo Soittolistat mediakirjastossa" image="/docs/guide/evervideo/img/evervideo-playlists-in-media-library.webp" >}}
 {{< /cards >}}
 
 ## Soittolistan luominen

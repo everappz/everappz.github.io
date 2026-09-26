@@ -23,7 +23,7 @@ authors:
     image: "/images/about/artem-meleshko-founder-everappz.webp"
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 ## קבלו נתוני App Store בשניות
 
@@ -134,53 +134,53 @@ AppLookup.pro רץ בדפדפן שלכם. אין כניסה. אין מעקב. א
 AppLookup.pro הוא קוד פתוח. דוחות באגים, הוספות מדינה ו-pull requests מוזמנים.
 
 {{< cards cols="1" >}}
-  {{< card link="https://github.com/everappz/AppStoreLookup" title="AppLookup.pro ב-GitHub" icon="github" tag="קוד פתוח" >}}
+  {{< ls-card link="https://github.com/everappz/AppStoreLookup" title="AppLookup.pro ב-GitHub" icon="github" tag="קוד פתוח" >}}
 {{< /cards >}}
 
 ---
 
 ## שאלות נפוצות
 
-{{% details title="האם AppLookup.pro באמת חינמי?" closed="true" %}}
+{{% ls-details title="האם AppLookup.pro באמת חינמי?" closed="true" %}}
 כן. AppLookup.pro הוא 100 אחוז חינמי וקוד פתוח. הוא רץ בדפדפן שלכם. אין הרשמה, אין שכבה בתשלום ואין מגבלת שימוש מעבר למגבלות iTunes Search API של Apple עצמה.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="מאיפה הנתונים מגיעים?" closed="true" %}}
+{{% ls-details title="מאיפה הנתונים מגיעים?" closed="true" %}}
 כל תוצאה נשלפת בזמן אמת מ-[iTunes Search API](https://developer.apple.com/library/archive/documentation/AudioVideo/Conceptual/iTuneSearchAPI/index.html) הרשמי של Apple. הכלי לא עושה scraping לדפי App Store ולא שומר תגובות במטמון על שום שרת.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="האם אפשר להוריד את אייקון האפליקציה ברזולוציה גבוהה?" closed="true" %}}
+{{% ls-details title="האם אפשר להוריד את אייקון האפליקציה ברזולוציה גבוהה?" closed="true" %}}
 כן. סעיף **App Icon** מציג כל כתובת אייקון ש-Apple מחזירה. לכל כרטיס יש Direct Link וכפתור Download, וכפתור Download All Icons ZIP אורז אותם בארכיון אחד.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="האם אפשר להוריד את כל צילומי המסך של App Store בבת אחת?" closed="true" %}}
+{{% ls-details title="האם אפשר להוריד את כל צילומי המסך של App Store בבת אחת?" closed="true" %}}
 כן. לכל סעיף צילומי מסך (iPhone, iPad, macOS ו-Apple TV) יש כפתור **Download All (ZIP)** שאורז כל צילום מסך ברזולוציה מלאה.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="איך אני רואה איך אפליקציה נראית במדינה אחרת?" closed="true" %}}
+{{% ls-details title="איך אני רואה איך אפליקציה נראית במדינה אחרת?" closed="true" %}}
 בחרו מדינה בתפריט הנפתח בראש הדף. יותר מ-40 חנויות נתמכות. לחצו שוב על **Lookup** והכלי שולף שוב את האפליקציה עבור אותה מדינה, ומציג את הכותרת, התיאור, צילומי המסך, מה חדש והמחיר המקומיים.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="האם אפשר להעתיק שדות בודדים כמו bundle ID או תאריך השקה?" closed="true" %}}
+{{% ls-details title="האם אפשר להעתיק שדות בודדים כמו bundle ID או תאריך השקה?" closed="true" %}}
 כן. לכל שדה טקסט בתוצאה יש כפתור Copy משלו: שם אפליקציה, מפתח, תיאור, מה חדש, bundle ID, גרסה, מחיר, גודל קובץ, מערכת הפעלה מינימלית, תאריך השקה, דירוג תוכן, שפות, מכשירים נתמכים ו-JSON גולמי.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="האם AppLookup.pro עובד עבור כל אפליקציית iOS?" closed="true" %}}
+{{% ls-details title="האם AppLookup.pro עובד עבור כל אפליקציית iOS?" closed="true" %}}
 הוא עובד עבור כל אפליקציה הרשומה בפומבי בלפחות מדינת App Store אחת ומוחזרת על ידי iTunes Search API. אפליקציות לא רשומות, שהוסרו או מופצות באופן ארגוני לא יופיעו.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="האם הוא תומך באפליקציות macOS ו-Apple TV?" closed="true" %}}
+{{% ls-details title="האם הוא תומך באפליקציות macOS ו-Apple TV?" closed="true" %}}
 כן. אם לאפליקציה יש צילומי מסך של macOS או Apple TV בתגובת iTunes Search API, AppLookup.pro מציג אותם בפאנל ניתן לגלילה משלהם עם כפתורי הורדה.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="האם אפשר להשתמש ב-JSON הגולמי בקוד שלי?" closed="true" %}}
+{{% ls-details title="האם אפשר להשתמש ב-JSON הגולמי בקוד שלי?" closed="true" %}}
 כן. סעיף Raw API Response מציג את ה-JSON המדויק ש-Apple מחזירה. העתיקו אותו ל-Postman, מבחן יחידה או צינור backend. אנא כבדו את תנאי ה-API של Apple ומגבלות קצב סבירות.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="האם בטוח להדביק כתובות App Store בכלי?" closed="true" %}}
+{{% ls-details title="האם בטוח להדביק כתובות App Store בכלי?" closed="true" %}}
 כן. הכתובת מנותחת בדפדפן שלכם. השיחת הרשת היוצאת היחידה היא חיפוש ל-iTunes Search API של Apple.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="מה ההבדל בין AppLookup.pro ל-AppKeywords.pro?" closed="true" %}}
+{{% ls-details title="מה ההבדל בין AppLookup.pro ל-AppKeywords.pro?" closed="true" %}}
 [AppLookup.pro](https://applookup.pro) נועד לקריאת מטא-נתוני App Store מכל אפליקציה שפורסמה: מחקר מתחרים, הורדת נכסים, בדיקות לוקליזציה. [AppKeywords.pro](https://appkeywords.pro) נועד לכתיבת מטא-נתוני App Store עבור האפליקציה שלכם: אופטימיזציה של כותרת, כותרת משנה ומילות מפתח עם תמיכה ב-Fastlane. שני הכלים עובדים היטב יחד.
-{{% /details %}}
+{{% /ls-details %}}

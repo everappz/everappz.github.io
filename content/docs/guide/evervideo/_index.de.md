@@ -74,18 +74,18 @@ Dieses Handbuch führt Sie durch jeden Teil von Evervideo auf iPhone, iPad und M
 
 {{< cards cols="2">}}
 
-{{< card icon="map" link="/docs/guide/evervideo/evervideo-guide-navigation" title="Navigation" subtitle="Tab-Leiste auf iPhone, linkes Menü auf iPad und Mac, kompakter Always-on-Screen-Media-Player." >}}
+{{< ls-card icon="map" link="/docs/guide/evervideo/evervideo-guide-navigation" title="Navigation" subtitle="Tab-Leiste auf iPhone, linkes Menü auf iPad und Mac, kompakter Always-on-Screen-Media-Player." >}}
 
-{{< card icon="folder" link="/docs/guide/evervideo/evervideo-guide-files" title="Dateien" subtitle="Ein einheitlicher Tab für Cloud, NAS, RTSP-Streams, lokale Dateien, USB-Laufwerke und die Übertragungswarteschlange." >}}
+{{< ls-card icon="folder" link="/docs/guide/evervideo/evervideo-guide-files" title="Dateien" subtitle="Ein einheitlicher Tab für Cloud, NAS, RTSP-Streams, lokale Dateien, USB-Laufwerke und die Übertragungswarteschlange." >}}
 
-{{< card icon="collection" link="/docs/guide/evervideo/evervideo-guide-video-library" title="Mediathek" subtitle="Nach Alben, Genres, Aktuell, Favoriten durchsuchen — plus die iOS-Fotos-Mediathek und Apple Music-Mediathek." >}}
+{{< ls-card icon="collection" link="/docs/guide/evervideo/evervideo-guide-video-library" title="Mediathek" subtitle="Nach Alben, Genres, Aktuell, Favoriten durchsuchen — plus die iOS-Fotos-Mediathek und Apple Music-Mediathek." >}}
 
-{{< card icon="music-note" link="/docs/guide/evervideo/evervideo-guide-playlists" title="Wiedergabelisten" subtitle="Wiedergabelisten aus Cloud, lokalen Dateien, Fotos oder der Musik-Mediathek erstellen, M3U / M3U8 / CUE importieren." >}}
+{{< ls-card icon="music-note" link="/docs/guide/evervideo/evervideo-guide-playlists" title="Wiedergabelisten" subtitle="Wiedergabelisten aus Cloud, lokalen Dateien, Fotos oder der Musik-Mediathek erstellen, M3U / M3U8 / CUE importieren." >}}
 
-{{< card icon="play" link="/docs/guide/evervideo/evervideo-guide-player" title="Media Player" subtitle="Picture-in-Picture, Audio- und Videospuren, Untertitel, Audio- + Video-Equalizer, AirPlay, Chromecast." >}}
+{{< ls-card icon="play" link="/docs/guide/evervideo/evervideo-guide-player" title="Media Player" subtitle="Picture-in-Picture, Audio- und Videospuren, Untertitel, Audio- + Video-Equalizer, AirPlay, Chromecast." >}}
 
-{{< card icon="adjustments" link="/docs/guide/evervideo/evervideo-guide-settings" title="Einstellungen" subtitle="Audio-Engine, Video-Decoder, Untertitel, Mediathek, Dateimanager, Widgets, Personalisierung, Sprache, Backup." >}}
+{{< ls-card icon="adjustments" link="/docs/guide/evervideo/evervideo-guide-settings" title="Einstellungen" subtitle="Audio-Engine, Video-Decoder, Untertitel, Mediathek, Dateimanager, Widgets, Personalisierung, Sprache, Backup." >}}
 
-{{< card icon="question-mark-circle" link="/docs/faq/evervideo" title="FAQ" subtitle="Finden Sie Antworten auf die häufigsten Fragen zu Evervideo." >}}
+{{< ls-card icon="question-mark-circle" link="/docs/faq/evervideo" title="FAQ" subtitle="Finden Sie Antworten auf die häufigsten Fragen zu Evervideo." >}}
 
 {{< /cards >}}

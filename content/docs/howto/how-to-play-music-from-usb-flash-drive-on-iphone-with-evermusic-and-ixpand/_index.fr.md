@@ -7,7 +7,7 @@ tags: ["musique", "usb", "externe", "ixpand", "sandisk", "iphone", "evermusic"]
 readingTime: 3
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **Résumé :** Evermusic vous permet de lire de la musique directement depuis une clé USB SanDisk iXpand sur votre iPhone ou iPad. Branchez la clé, ouvrez Evermusic et commencez à écouter -- pas besoin de copier des fichiers sur votre appareil. Prend en charge la gestion de fichiers, les listes de lecture, l'égaliseur et la diffusion AirPlay.
@@ -69,22 +69,22 @@ Avec Evermusic et la clé SanDisk iXpand, vous aurez la liberté de profiter de 
 
 ## FAQ
 
-{{% details title="Quels modèles de clé iXpand Evermusic prend-il en charge ?" closed="true" %}}
+{{% ls-details title="Quels modèles de clé iXpand Evermusic prend-il en charge ?" closed="true" %}}
 Evermusic prend en charge les clés SanDisk iXpand avec les protocoles V1, V2, V3, V6 et V7. Vous pouvez vérifier la compatibilité dans les Paramètres de votre iPhone sous Général > Informations > iXpand Flash Drive.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Puis-je lire de la musique depuis la clé USB sans copier de fichiers sur mon iPhone ?" closed="true" %}}
+{{% ls-details title="Puis-je lire de la musique depuis la clé USB sans copier de fichiers sur mon iPhone ?" closed="true" %}}
 Oui. Evermusic lit les fichiers audio directement depuis la clé iXpand. Pas besoin de copier quoi que ce soit dans le stockage interne de votre appareil.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Quels formats audio Evermusic prend-il en charge depuis les clés USB ?" closed="true" %}}
+{{% ls-details title="Quels formats audio Evermusic prend-il en charge depuis les clés USB ?" closed="true" %}}
 Evermusic prend en charge tous les principaux formats audio, notamment MP3, FLAC, AAC, WAV, AIFF, OGG et plus encore. Tout fichier audio stocké sur votre clé iXpand peut être lu directement.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Puis-je diffuser de la musique depuis la clé iXpand vers des enceintes AirPlay ?" closed="true" %}}
+{{% ls-details title="Puis-je diffuser de la musique depuis la clé iXpand vers des enceintes AirPlay ?" closed="true" %}}
 Oui. Pendant la lecture de musique depuis la clé USB, vous pouvez diffuser l'audio vers des appareils compatibles AirPlay tels que les enceintes Sonos, Apple TV et Google Chromecast.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Que dois-je faire si ma clé iXpand n'est pas reconnue ?" closed="true" %}}
+{{% ls-details title="Que dois-je faire si ma clé iXpand n'est pas reconnue ?" closed="true" %}}
 Assurez-vous qu'aucune autre application n'utilise la clé. Essayez de la débrancher et de la rebrancher. Si votre modèle n'est pas pris en charge, utilisez un adaptateur Apple Lightning vers USB pour connecter la clé comme un périphérique USB standard.
-{{% /details %}}
+{{% /ls-details %}}

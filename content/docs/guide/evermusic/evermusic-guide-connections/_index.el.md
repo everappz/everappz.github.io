@@ -17,7 +17,7 @@ readingTime: 11
 Η οθόνη χωρίζεται σε σαφώς επισημασμένες ενότητες: Γρήγορη Πρόσβαση στην κορυφή (οι αγαπημένοι σας cloud φάκελοι), Cloud storage (οι λογαριασμοί που έχετε προσθέσει), Τοπικό δίκτυο (συσκευές που εντοπίστηκαν μέσω Bonjour), Υπολογιστής (Wi-Fi Drive, κοινή χρήση αρχείων iTunes, SMB), Εξωτερικά αξεσουάρ (συνδεδεμένες USB μονάδες flash) και Άλλες υπηρεσίες (Last.fm και παρόμοιες).
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Οθόνη Συνδέσεων Evermusic" image="/docs/guide/evermusic/evermusic-guide-connections/img/connect-main.webp" >}}
+  {{< ls-card title="" subtitle="Οθόνη Συνδέσεων Evermusic" image="/docs/guide/evermusic/evermusic-guide-connections/img/connect-main.webp" >}}
 {{< /cards >}}
 
 ## Σύνδεση σε cloud storage
@@ -29,7 +29,7 @@ readingTime: 11
 - Πατήστε 'Ολοκλήρωση'.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Επιλογή παρόχου cloud storage" image="/docs/guide/evermusic/evermusic-guide-connections/img/connect-add-storage.webp" >}}
+  {{< ls-card title="" subtitle="Επιλογή παρόχου cloud storage" image="/docs/guide/evermusic/evermusic-guide-connections/img/connect-add-storage.webp" >}}
 {{< /cards >}}
 
 Αν αντιμετωπίσετε προβλήματα, ελέγξτε τη σύνδεσή σας στο διαδίκτυο και τα διαπιστευτήρια σύνδεσης, και βεβαιωθείτε ότι ο έλεγχος ταυτότητας δύο παραγόντων έχει ρυθμιστεί σωστά για αυτή την υπηρεσία.  
@@ -70,7 +70,7 @@ readingTime: 11
   - **Αποσύνδεση**: αν θέλετε να αποκόψετε εντελώς τη σύνδεση μεταξύ της εφαρμογής και της υπηρεσίας cloud, επιλέξτε 'Αποσύνδεση'. Σημειώστε ότι αυτό θα αφαιρέσει όλα τα τραγούδια που σχετίζονται με αυτή την υπηρεσία cloud από τη μουσική βιβλιοθήκη της εφαρμογής, αλλά θα παραμείνουν στον server.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Μενού Περισσότερες Ενέργειες για συνδεδεμένο Cloud Storage" image="/docs/guide/evermusic/evermusic-guide-connections/img/connect-storage-more-actions.webp" >}}
+  {{< ls-card title="" subtitle="Μενού Περισσότερες Ενέργειες για συνδεδεμένο Cloud Storage" image="/docs/guide/evermusic/evermusic-guide-connections/img/connect-storage-more-actions.webp" >}}
 {{< /cards >}}
 
 ## Σύνδεση σε Υπολογιστή ή NAS
@@ -89,7 +89,7 @@ readingTime: 11
 Ένας πλήρης οδηγός για τη σύνδεση Mac ή PC μέσω SMB είναι διαθέσιμος [εδώ](/docs/howto/stream-your-music-from-mac-or-pc-to-iphone-using-smb/).
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Ρυθμίσεις σύνδεσης SMB" image="/docs/guide/evermusic/evermusic-guide-connections/img/connect-smb-settings.webp" >}}
+  {{< ls-card title="" subtitle="Ρυθμίσεις σύνδεσης SMB" image="/docs/guide/evermusic/evermusic-guide-connections/img/connect-smb-settings.webp" >}}
 {{< /cards >}}
 
 ## Σύνδεση σε NAS με χρήση WebDAV
@@ -99,7 +99,7 @@ readingTime: 11
 Ένας πλήρης οδηγός για τη σύνδεση NAS με χρήση WebDAV είναι διαθέσιμος [εδώ](/docs/howto/how-to-connect-nas-storage-using-webdav-and-listen-to-music-on-your-iphone-or-mac).
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Ρυθμίσεις σύνδεσης WebDAV" image="/docs/guide/evermusic/evermusic-guide-connections/img/connect-webdav-settings.webp" >}}
+  {{< ls-card title="" subtitle="Ρυθμίσεις σύνδεσης WebDAV" image="/docs/guide/evermusic/evermusic-guide-connections/img/connect-webdav-settings.webp" >}}
 {{< /cards >}}
 
 ## Σύνδεση σε Υπολογιστή ή NAS με χρήση DLNA
@@ -107,7 +107,7 @@ readingTime: 11
 Μπορείτε επίσης να κοινοποιήσετε μια μουσική βιβλιοθήκη στον Windows PC ή το προσωπικό σας NAS χρησιμοποιώντας το πρωτόκολλο DLNA και να αποκτήσετε πρόσβαση σε αυτή στην εφαρμογή όπως περιγράφεται [εδώ](/docs/howto/how-to-enable-dlna-media-server-on-windows-10-and-play-your-music-on-iphone). Το DLNA είναι δημοφιλές και ευρέως χρησιμοποιούμενο πρωτόκολλο, αλλά επιτρέπει μόνο αναπαραγωγή ή λήψη μουσικής. Δεν μπορείτε να ανεβάσετε αρχεία ή να δημιουργήσετε νέους φακέλους στον server.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Ρυθμίσεις σύνδεσης DLNA" image="/docs/guide/evermusic/evermusic-guide-connections/img/connect-dlna-settings.webp" >}}
+  {{< ls-card title="" subtitle="Ρυθμίσεις σύνδεσης DLNA" image="/docs/guide/evermusic/evermusic-guide-connections/img/connect-dlna-settings.webp" >}}
 {{< /cards >}}
 
 ## Διαθέσιμες συσκευές
@@ -120,7 +120,7 @@ readingTime: 11
 - Αν χρειάζεται, εισάγετε τα στοιχεία σύνδεσής σας για να ολοκληρώσετε τη σύνδεση.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Διαθέσιμες Συσκευές στο Τοπικό Δίκτυο" image="/docs/guide/evermusic/evermusic-guide-connections/img/connect-available-devices.webp" >}}
+  {{< ls-card title="" subtitle="Διαθέσιμες Συσκευές στο Τοπικό Δίκτυο" image="/docs/guide/evermusic/evermusic-guide-connections/img/connect-available-devices.webp" >}}
 {{< /cards >}}
 
 ## Wi-Fi Drive
@@ -146,7 +146,7 @@ readingTime: 11
 Τα αρχεία που σύρετε και αποθέτετε θα μεταφερθούν στη συσκευή iOS και θα είναι προσβάσιμα εντός της εφαρμογής.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Ρυθμίσεις Server Wi-Fi Drive" image="/docs/guide/evermusic/evermusic-guide-connections/img/connect-wifidrive-settings.webp" >}}
+  {{< ls-card title="" subtitle="Ρυθμίσεις Server Wi-Fi Drive" image="/docs/guide/evermusic/evermusic-guide-connections/img/connect-wifidrive-settings.webp" >}}
 {{< /cards >}}
 
 Λεπτομερείς οδηγίες για ασύρματη μεταφορά αρχείων με WiFi-Drive είναι διαθέσιμες [εδώ](/docs/howto/how-to-transfer-files-wirelessly-from-a-computer-to-an-iphone-using-wifi-drive).
@@ -162,7 +162,7 @@ readingTime: 11
 Λεπτομερείς οδηγίες για τη χρήση κοινής χρήσης αρχείων iTunes είναι διαθέσιμες [εδώ](/docs/howto/how-to-play-local-itunes-files-on-my-iphone/).
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Κοινή Χρήση Αρχείων iTunes / Finder στο Mac" image="/docs/guide/evermusic/evermusic-guide-connections/img/connect-itunes-file-sharing.webp" >}}
+  {{< ls-card title="" subtitle="Κοινή Χρήση Αρχείων iTunes / Finder στο Mac" image="/docs/guide/evermusic/evermusic-guide-connections/img/connect-itunes-file-sharing.webp" >}}
 {{< /cards >}}
 
 ## Σύνδεση USB flashcard
@@ -183,7 +183,7 @@ readingTime: 11
 - **Ανακάτεμα όλων**: Παρόμοιο με 'Αναπαραγωγή όλων', αλλά ανακατεύει τα αρχεία πριν τα προσθέσει στην ουρά audio player.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Επάνω Γραμμή Εργαλείων Εντός Cloud Φακέλου" image="/docs/guide/evermusic/evermusic-guide-connections/img/connect-top-toolbar.webp" >}}
+  {{< ls-card title="" subtitle="Επάνω Γραμμή Εργαλείων Εντός Cloud Φακέλου" image="/docs/guide/evermusic/evermusic-guide-connections/img/connect-top-toolbar.webp" >}}
 {{< /cards >}}
 
 ## Επιλογές Φακέλου
@@ -200,7 +200,7 @@ readingTime: 11
 - **Προβολή Πλέγματος/Λίστας**: Εναλλαγή μεταξύ προβολής πίνακα και προβολής μικρογραφιών.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Μενού Περισσότερες Ενέργειες για Τρέχοντα Φάκελο" image="/docs/guide/evermusic/evermusic-guide-connections/img/connect-folder-options.webp" >}}
+  {{< ls-card title="" subtitle="Μενού Περισσότερες Ενέργειες για Τρέχοντα Φάκελο" image="/docs/guide/evermusic/evermusic-guide-connections/img/connect-folder-options.webp" >}}
 {{< /cards >}}
 
 ## Επεξεργασία Online Αρχείων
@@ -212,7 +212,7 @@ readingTime: 11
 - **Εκτέλεση Διαφόρων Ενεργειών**: Μόλις επιλέξετε τα αρχεία ή φακέλους που θέλετε να διαχειριστείτε, θα έχετε πρόσβαση σε διάφορες ενέργειες.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Λειτουργία Επιλογής για Online Αρχεία" image="/docs/guide/evermusic/evermusic-guide-connections/img/connect-selection-mode.webp" >}}
+  {{< ls-card title="" subtitle="Λειτουργία Επιλογής για Online Αρχεία" image="/docs/guide/evermusic/evermusic-guide-connections/img/connect-selection-mode.webp" >}}
 {{< /cards >}}
 
 ## Ενέργειες αρχείου
@@ -233,7 +233,7 @@ readingTime: 11
 - **Διαγραφή**: Να είστε προσεκτικοί με αυτή την ενέργεια, καθώς αφαιρεί μόνιμα το αρχείο από το cloud storage σας. Αυτή η διαγραφή δεν μπορεί να αναιρεθεί.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Μενού Περισσότερες Ενέργειες για Μεμονωμένο Αρχείο" image="/docs/guide/evermusic/evermusic-guide-connections/img/connect-single-folder-more-options.webp" >}}
+  {{< ls-card title="" subtitle="Μενού Περισσότερες Ενέργειες για Μεμονωμένο Αρχείο" image="/docs/guide/evermusic/evermusic-guide-connections/img/connect-single-folder-more-options.webp" >}}
 {{< /cards >}}
 
 Αν η λίστα ενεργειών υπερβαίνει τον διαθέσιμο χώρο οθόνης, απλώς κάντε κύλιση προς τα κάτω εντός του μενού ενεργειών.

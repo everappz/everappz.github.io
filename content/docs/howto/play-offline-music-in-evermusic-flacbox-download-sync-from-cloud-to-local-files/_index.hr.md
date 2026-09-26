@@ -7,7 +7,7 @@ tags: ["glazba", "audio", "player", "offline", "način rada", "preuzimanje", "ma
 keywords: ["offline glazba iPhone", "sinkronizacija glazbe u oblaku", "Evermusic offline", "Flacbox sinkronizacija glazbe", "reprodukcija glazbe bez interneta", "preuzimanje zvuka iz oblaka", "reprodukcija lokalnih datoteka iOS"]
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **Ukratko:** Evermusic i Flacbox omogućuju vam preuzimanje glazbe iz pohrane u oblaku (Google Drive, Dropbox, OneDrive i više) na vaš iPhone ili iPad za offline reprodukciju. Možete koristiti tri metode: izravno preuzimanje, offline način rada s automatskom sinkronizacijom ili predmemoriju audio playera. Ovaj vodič pokriva sva tri pristupa korak po korak.
@@ -140,26 +140,26 @@ Slijedeći ove detaljne korake, možete bez problema upravljati i reproducirati 
 
 ## Često postavljana pitanja
 
-{{% details title="Koje usluge u oblaku podržavaju Evermusic i Flacbox?" closed="true" %}}
+{{% ls-details title="Koje usluge u oblaku podržavaju Evermusic i Flacbox?" closed="true" %}}
 Obje aplikacije podržavaju Google Drive, Dropbox, OneDrive, Box, MEGA, Yandex.Disk i druge velike pružatelje pohrane u oblaku. Možete povezati više usluga odjednom.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Mogu li automatski sinkronizirati glazbu iz pohrane u oblaku na svoj iPhone?" closed="true" %}}
+{{% ls-details title="Mogu li automatski sinkronizirati glazbu iz pohrane u oblaku na svoj iPhone?" closed="true" %}}
 Da. Omogućite Offline način rada za bilo koju mapu, popis pjesama, album ili izvođača. Aplikacija izvodi jednosmjernu sinkronizaciju iz oblaka na uređaj u konfigurabilnom intervalu (zadano: jednom dnevno).
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Koristi li offline način rada puno prostora za pohranu na mom uređaju?" closed="true" %}}
+{{% ls-details title="Koristi li offline način rada puno prostora za pohranu na mom uređaju?" closed="true" %}}
 Korištenje pohrane ovisi o veličini vaše glazbene kolekcije i formatima datoteka. Možete to kontrolirati odabirom specifičnih mapa za sinkronizaciju, postavljanjem ograničenja veličine predmemorije i praćenjem pohrane u postavkama aplikacije.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Koji audio formati su podržani za offline reprodukciju?" closed="true" %}}
+{{% ls-details title="Koji audio formati su podržani za offline reprodukciju?" closed="true" %}}
 Evermusic i Flacbox podržavaju MP3, FLAC, AAC, ALAC, WAV, AIFF, OGG, WMA i mnoge druge formate. Flacbox je optimiziran za bezgubitne formate poput FLAC i ALAC.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Hoće li se moja offline glazba nastaviti reproducirati ako zatvorim aplikaciju?" closed="true" %}}
+{{% ls-details title="Hoće li se moja offline glazba nastaviti reproducirati ako zatvorim aplikaciju?" closed="true" %}}
 Da. Preuzete datoteke pohranjuju se lokalno na vašem uređaju i reproduciraju se putem audio playera aplikacije bez obzira na internetsku vezu. Reprodukcija u pozadini je u potpunosti podržana.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Kako osloboditi prostor koji zauzima offline glazba?" closed="true" %}}
+{{% ls-details title="Kako osloboditi prostor koji zauzima offline glazba?" closed="true" %}}
 Onemogućite Offline način rada za specifične mape u **Postavke** > Upravitelj datoteka > **Sinkronizirani offline mape**. Time se uklanjaju lokalne kopije s vašeg uređaja. Također možete očistiti predmemoriju audio playera ili ručno izbrisati preuzete datoteke.
-{{% /details %}}
+{{% /ls-details %}}

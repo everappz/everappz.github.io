@@ -31,7 +31,7 @@ Vous pouvez accéder au lecteur plein écran depuis la barre du lecteur compact.
 Le lecteur compact reste visible pendant que vous parcourez votre bibliothèque, votre gestionnaire de fichiers ou vos paramètres, afin que vous ne perdiez jamais votre vidéo tout en cherchant la suivante.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Lecteur multimédia plein écran Evervideo" image="/docs/guide/evervideo/img/evervideo-media-player-fullscreen.webp" >}}
+  {{< ls-card title="" subtitle="Lecteur multimédia plein écran Evervideo" image="/docs/guide/evervideo/img/evervideo-media-player-fullscreen.webp" >}}
 {{< /cards >}}
 
 ## Formats vidéo et audio pris en charge
@@ -72,7 +72,7 @@ PiP fonctionne avec tous les formats vidéo qu'Evervideo lit, y compris les fich
 Le lecteur compact est un mini-lecteur persistant qui reste visible en haut de chaque écran de l'application pendant que vous parcourez la bibliothèque, le gestionnaire de fichiers ou les paramètres. Appuyez dessus pour agrandir en lecteur plein écran ; faites glisser vers le bas pour le réduire à nouveau.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Paramètres vidéo Evervideo depuis le lecteur compact sur l'écran principal" image="/docs/guide/evervideo/img/evervideo-video-settings-from-compact-player-view-on-the-main-screen.webp" >}}
+  {{< ls-card title="" subtitle="Paramètres vidéo Evervideo depuis le lecteur compact sur l'écran principal" image="/docs/guide/evervideo/img/evervideo-video-settings-from-compact-player-view-on-the-main-screen.webp" >}}
 {{< /cards >}}
 
 ## AirPlay 2
@@ -115,7 +115,7 @@ Evervideo inclut un égaliseur audio complet pour régler les bandes sonores vid
 Pour régler l'image, Evervideo fournit un égaliseur vidéo dédié — ajustez la luminosité, le contraste, la saturation et la teinte en temps réel pendant la lecture. Comme l'égaliseur audio, les préréglages vidéo personnalisés peuvent être exportés et importés pour le partage ou la sauvegarde. Utilisez-le pour éclaircir une scène sombre par une journée ensoleillée, booster la saturation sur du contenu délavé, ou réchauffer une dominante froide.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Égaliseur vidéo Evervideo" image="/docs/guide/evervideo/img/evervideo-video-equalizer.webp" >}}
+  {{< ls-card title="" subtitle="Égaliseur vidéo Evervideo" image="/docs/guide/evervideo/img/evervideo-video-equalizer.webp" >}}
 {{< /cards >}}
 
 ## Mode de mise à l'échelle vidéo
@@ -144,7 +144,7 @@ Evervideo inclut un viewport VR / 360° pour les fichiers vidéo sphériques. Lo
 Appuyez sur le contrôle de vitesse sur la barre d'outils du lecteur pour modifier la vitesse de lecture — ralentissez pour l'analyse (0,25× ou 0,5×) ou accélérez pour les tutoriels et les conférences (1,25×, 1,5×, 2×, et jusqu'à 3×). Appuyez sur l'icône de configuration dans le coin supérieur droit de l'écran Vitesse pour passer en mode précis avec des ajustements plus fins. La correction de hauteur par piste est également disponible.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Vitesse de lecture Evervideo sur la barre d'outils principale" image="/docs/guide/evervideo/img/evervideo-media-player-playback-speed-on-main-toolbar.webp" >}}
+  {{< ls-card title="" subtitle="Vitesse de lecture Evervideo sur la barre d'outils principale" image="/docs/guide/evervideo/img/evervideo-media-player-playback-speed-on-main-toolbar.webp" >}}
 {{< /cards >}}
 
 ## File du lecteur
@@ -152,7 +152,7 @@ Appuyez sur le contrôle de vitesse sur la barre d'outils du lecteur pour modifi
 Pour voir votre file du lecteur, appuyez sur le bouton de file sur le lecteur. Chaque vidéo dans la file a des actions supplémentaires — appuyez sur les trois points pour les voir. Pour réorganiser une vidéo dans la file, utilisez l'indicateur de réorganisation près du titre et faites-le glisser vers une nouvelle position.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="File de lecture Evervideo" image="/docs/guide/evervideo/img/evervideo-playback-queue.webp" >}}
+  {{< ls-card title="" subtitle="File de lecture Evervideo" image="/docs/guide/evervideo/img/evervideo-playback-queue.webp" >}}
 {{< /cards >}}
 
 ## Minuterie de sommeil
@@ -189,7 +189,7 @@ Appuyez sur le bouton **Plus d'actions « ... »** sur le lecteur pour accéder 
 - **Aide** — ouvrir les conseils.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Écran Plus d'actions du lecteur Evervideo" image="/docs/guide/evervideo/img/evervideo-media-player-more-actions.webp" >}}
+  {{< ls-card title="" subtitle="Écran Plus d'actions du lecteur Evervideo" image="/docs/guide/evervideo/img/evervideo-media-player-more-actions.webp" >}}
 {{< /cards >}}
 
 ## Paramètres du lecteur

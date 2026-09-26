@@ -7,7 +7,7 @@ tags: ["evermusic", "lyd", "editor", "tagger", "kommentarer"]
 readingTime: 4
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **Sammendrag:** Evermusic og Flacbox lar deg legge til tekstkommentarer med tidsmarkører til ethvert lydspor, og deretter vise dem synkronisert under avspilling. Du kan også se innebygde sangtekster og LRC-filer. Kommentar- og sangtekstfunksjonene er gratis i begge appene.
@@ -97,22 +97,22 @@ Tillegget av kommentarer til lydspor i Evermusic og Flacbox markerer et betydeli
 
 ## Ofte stilte spørsmål
 
-{{% details title="Er kommentarfunksjonen gratis i Evermusic og Flacbox?" closed="true" %}}
+{{% ls-details title="Er kommentarfunksjonen gratis i Evermusic og Flacbox?" closed="true" %}}
 Ja. Å legge til, redigere og vise kommentarer og sangtekster er en gratis funksjon i både Evermusic og Flacbox.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Hvilket format bør jeg bruke for tidsbestemte kommentarer?" closed="true" %}}
+{{% ls-details title="Hvilket format bør jeg bruke for tidsbestemte kommentarer?" closed="true" %}}
 Bruk LRC-tidsmarkørformatet: `[MM:SS.SS]` etterfulgt av teksten din. For eksempel: `[01:23.45]Dette er min kommentar`. Du kan tildele flere tidsstempler til en enkelt linje.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Kan jeg se sangtekster og LRC-filer på samme skjerm?" closed="true" %}}
+{{% ls-details title="Kan jeg se sangtekster og LRC-filer på samme skjerm?" closed="true" %}}
 Ja. Kommentarskjermen støtter tre moduser du kan sveipe mellom: Kommentarer, Innebygde sangtekster og LRC-fil.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Hvor kan jeg finne LRC-sangtekstfiler?" closed="true" %}}
+{{% ls-details title="Hvor kan jeg finne LRC-sangtekstfiler?" closed="true" %}}
 Gratis LRC-sangtekster er tilgjengelig på nettsteder som Lyricsify.com. Du kan enten bygge dem inn i lydfilens sangtekst-tagg eller plassere en separat `.lrc`-fil ved siden av lydfilen din.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Trenger jeg en separat app for å redigere sangtekst-tagger?" closed="true" %}}
+{{% ls-details title="Trenger jeg en separat app for å redigere sangtekst-tagger?" closed="true" %}}
 Du kan redigere kommentarer direkte i Evermusic og Flacbox. For å spesifikt redigere sangtekst-taggen, bruk Evertag, en gratis lydmetadata-editor for iOS og macOS.
-{{% /details %}}
+{{% /ls-details %}}

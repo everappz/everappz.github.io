@@ -7,7 +7,7 @@ tags: ["evermusic", "importálás", "lejátszási listák", "m3u", "cue"]
 readingTime: 3
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **Összefoglalás:** Az Evermusic és a Flacbox támogatja az M3U, M3U8 és CUE lejátszási lista fájlok importálását felhőtárolóból, helyi alkalmazásfájlokból vagy eszközéről. Lépjen a Lejátszási listák > Továbbiak > Lejátszási lista importálása menüpontra, válasszon forrást, válassza ki a fájlt, és az alkalmazás automatikusan létrehozza a lejátszási listát.
@@ -84,22 +84,22 @@ Ezenkívül egyszerre több lejátszási listát is importálhat a "További mű
 
 ## Gyakran ismételt kérdések
 
-{{% details title="Milyen lejátszási lista formátumokat támogat az Evermusic és a Flacbox?" closed="true" %}}
+{{% ls-details title="Milyen lejátszási lista formátumokat támogat az Evermusic és a Flacbox?" closed="true" %}}
 Mindkét alkalmazás támogatja az M3U, M3U8 és CUE lejátszási lista fájlformátumokat. Ezek lefedik a zenelejátszók és médiaszoftverek által használt leggyakoribb lejátszási lista szabványokat.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Importálhatok lejátszási listákat felhőtárolóból?" closed="true" %}}
+{{% ls-details title="Importálhatok lejátszási listákat felhőtárolóból?" closed="true" %}}
 Igen. Lejátszási lista fájlokat importálhat bármely csatlakoztatott felhőtároló szolgáltatásból, beleértve a Google Drive-ot, Dropboxot, OneDrive-ot és WebDAV szervereket.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Miért hiányoznak egyes számok az importálás után?" closed="true" %}}
+{{% ls-details title="Miért hiányoznak egyes számok az importálás után?" closed="true" %}}
 A lejátszási lista fájlnak tartalmaznia kell a médiafájlok helyes elérési útjait, és ezeknek a fájloknak a megadott helyeken kell létezniük a tárolón. Ellenőrizze, hogy az M3U vagy CUE fájlban lévő fájl elérési utak megfelelnek-e a tényleges fájl helyeknek.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Importálhatok egyszerre több lejátszási listát?" closed="true" %}}
+{{% ls-details title="Importálhatok egyszerre több lejátszási listát?" closed="true" %}}
 Igen. Használja a További műveletek gombot és válassza a "Lejátszási listák importálása mappából" lehetőséget. Az alkalmazás átvizsgálja a mappát az összes támogatott lejátszási lista fájl után és egy lépésben importálja őket.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Manuálisan kell létrehoznom a lejátszási listákat?" closed="true" %}}
+{{% ls-details title="Manuálisan kell létrehoznom a lejátszási listákat?" closed="true" %}}
 Nem. Az importálási funkció kiküszöböli a manuális lejátszási lista létrehozást. Egyszerűen irányítsa az alkalmazást a meglévő M3U, M3U8 vagy CUE fájlra, és az automatikusan létrehozza a lejátszási listát.
-{{% /details %}}
+{{% /ls-details %}}

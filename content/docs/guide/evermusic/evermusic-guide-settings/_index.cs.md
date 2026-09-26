@@ -18,7 +18,7 @@ readingTime: 16
 Obrazovka Nastavení je řídicím centrem Evermusic. Odtud můžete upgradovat na Premium, konfigurovat přehrávač zvuku, spravovat hudební knihovnu, nastavit správce souborů, přizpůsobit rozhraní, aktivovat widgety a CarPlay, zálohovat data a přistupovat k nápovědě a právním informacím. Sekce jsou seskupeny pod záhlavími: **Nákupy a aktualizace**, předvolby aplikace, **Nápověda** a **Právní a soukromí**.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Obrazovka nastavení Evermusic" image="/docs/guide/evermusic/evermusic-guide-settings/img/settings-main-screen.webp" >}}
+  {{< ls-card title="" subtitle="Obrazovka nastavení Evermusic" image="/docs/guide/evermusic/evermusic-guide-settings/img/settings-main-screen.webp" >}}
 {{< /cards >}}
 
 ## Nákupy a aktualizace

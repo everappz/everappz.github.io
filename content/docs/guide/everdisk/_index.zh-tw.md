@@ -28,19 +28,19 @@ Everdisk 可免費下載，並提供選購的一次性 Premium 終身版，解�
 
 
 {{< cards >}}
-  {{< card icon="play" title="分享" subtitle="點一下開始，選擇要分享的內容，五種伺服器一次全開。從頭到尾學會分享畫面。" link="/docs/guide/everdisk/everdisk-guide-sharing" >}}
+  {{< ls-card icon="play" title="分享" subtitle="點一下開始，選擇要分享的內容，五種伺服器一次全開。從頭到尾學會分享畫面。" link="/docs/guide/everdisk/everdisk-guide-sharing" >}}
 
-  {{< card icon="desktop-computer" title="連接你的裝置" subtitle="電視、Mac 或 PC、網頁瀏覽器、另一支手機或 USB 傳輸線，如何連上你分享的檔案。" link="/docs/guide/everdisk/everdisk-guide-connect" >}}
+  {{< ls-card icon="desktop-computer" title="連接你的裝置" subtitle="電視、Mac 或 PC、網頁瀏覽器、另一支手機或 USB 傳輸線，如何連上你分享的檔案。" link="/docs/guide/everdisk/everdisk-guide-connect" >}}
 
-  {{< card icon="server" title="連接到伺服器" subtitle="連上網路上其他的 DLNA、WebDAV、FTP、SFTP 和 SMB 伺服器與 NAS 硬碟，瀏覽、串流和下載。" link="/docs/guide/everdisk/everdisk-guide-devices" >}}
+  {{< ls-card icon="server" title="連接到伺服器" subtitle="連上網路上其他的 DLNA、WebDAV、FTP、SFTP 和 SMB 伺服器與 NAS 硬碟，瀏覽、串流和下載。" link="/docs/guide/everdisk/everdisk-guide-devices" >}}
 
-  {{< card icon="folder" title="檔案與文件" subtitle="瀏覽、建立資料夾、重新命名、移動、複製和刪除、壓縮與解壓縮、連接外部資料夾，以及掃描成 PDF。" link="/docs/guide/everdisk/everdisk-guide-files" >}}
+  {{< ls-card icon="folder" title="檔案與文件" subtitle="瀏覽、建立資料夾、重新命名、移動、複製和刪除、壓縮與解壓縮、連接外部資料夾，以及掃描成 PDF。" link="/docs/guide/everdisk/everdisk-guide-files" >}}
 
-  {{< card icon="music-note" title="相片、音樂與影片" subtitle="分享整個相片和音樂圖庫，在迷你播放器裡播放音訊，並全螢幕觀看影片。" link="/docs/guide/everdisk/everdisk-guide-media" >}}
+  {{< ls-card icon="music-note" title="相片、音樂與影片" subtitle="分享整個相片和音樂圖庫，在迷你播放器裡播放音訊，並全螢幕觀看影片。" link="/docs/guide/everdisk/everdisk-guide-media" >}}
 
-  {{< card icon="lock-closed" title="存取與隱私" subtitle="用帳號和密碼保護分享、允許或封鎖編輯、封鎖裝置，並讓一切都留在本地。" link="/docs/guide/everdisk/everdisk-guide-access" >}}
+  {{< ls-card icon="lock-closed" title="存取與隱私" subtitle="用帳號和密碼保護分享、允許或封鎖編輯、封鎖裝置，並讓一切都留在本地。" link="/docs/guide/everdisk/everdisk-guide-access" >}}
 
-  {{< card icon="adjustments" title="設定" subtitle="逐項說明每個設定：裝置檔案、連線、相片與影片品質、連接埠、傳輸等等。" link="/docs/guide/everdisk/everdisk-guide-settings" >}}
+  {{< ls-card icon="adjustments" title="設定" subtitle="逐項說明每個設定：裝置檔案、連線、相片與影片品質、連接埠、傳輸等等。" link="/docs/guide/everdisk/everdisk-guide-settings" >}}
 
-  {{< card icon="question-mark-circle" title="常見問題" subtitle="針對最常見的問題和實際情境提供快速解答。" link="/docs/faq/everdisk" >}}
+  {{< ls-card icon="question-mark-circle" title="常見問題" subtitle="針對最常見的問題和實際情境提供快速解答。" link="/docs/faq/everdisk" >}}
 {{< /cards >}}

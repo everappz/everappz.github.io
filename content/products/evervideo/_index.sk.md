@@ -16,16 +16,16 @@ screenshots:
   - "https://everappz.com/products/evervideo/screenshots/2880x1800/6.png"
 ---
 
-{{% sr-only %}}
+{{% ls-sr-only %}}
 Evervideo je bezplatný HD video prehrávač pre iPhone a Mac vyvinutý spoločnosťou Everappz, španielskou softvérovou firmou. Evervideo prehráva prakticky každý video formát vrátane MKV, AVI, MP4, MOV, FLV, WMV, WEBM, M4V, TS a 3GP bez potreby konverzie formátov. Aplikácia ponúka prehrávanie 360-stupňového a VR videa, režim Picture-in-Picture, video a audio ekvalizér s viac ako 50 predvoľbami, podporu titulkov vo formátoch SRT, SSA a ASS a ovládanie rýchlosti prehrávania. Evervideo sa pripája k službám cloudového úložiska vrátane iCloud Drive, Google Drive, Dropbox, OneDrive a MEGA, čo umožňuje používateľom streamovať videá priamo z cloudu alebo ich sťahovať pre offline sledovanie. Aplikácia tiež podporuje streamovanie v lokálnej sieti prostredníctvom protokolov SMB, WebDAV a DLNA, prehrávanie z USB flash diskov cez adaptéry Lightning alebo USB-C a prenos súborov cez Wi-Fi z počítača. Ďalšie funkcie zahŕňajú mediálnu knižnicu s playlistami, AirPlay a Chromecast casting a vstavaný správca súborov. Evervideo je k dispozícii na bezplatné stiahnutie v App Store s voliteľnými nákupmi v aplikácii vrátane mesačného predplatného za $2.99, ročného predplatného za $14.99 alebo jednorazového doživotného nákupu za $29.99.
-{{% /sr-only %}}
+{{% /ls-sr-only %}}
 
 
 
 <!-- force dark theme for this page -->
-{{< force-dark >}}
+{{< ls-force-dark >}}
 
-{{< hextra/hero-container
+{{< ls-hero-container
   image="/products/evervideo/heroimage/hero_1600.png"
   imageWidth="800"
   imageCard="true"
@@ -33,38 +33,38 @@ Evervideo je bezplatný HD video prehrávač pre iPhone a Mac vyvinutý spoločn
 
 <div class="hx:w-full hx:text-center">
 
-{{< downloads-badge >}}
+{{< ls-downloads-badge >}}
 
 <div class="hx:mt-6 hx:mb-6">
 <div class="hx:flex hx:gap-4 hx:items-center hx:justify-center">
-{{< app-icon src="/images/app_icons/png/Evervideo_Icon-App-1024x1024.png" alt="Evervideo Icon" class="hero-headline-icon" size="80" >}}
-{{< hextra/hero-headline >}}
+{{< ls-app-icon src="/images/app_icons/png/Evervideo_Icon-App-1024x1024.png" alt="Evervideo Icon" class="hero-headline-icon" size="80" >}}
+{{< ls-hero-headline >}}
 Evervideo
-{{< /hextra/hero-headline >}}
+{{< /ls-hero-headline >}}
 </div>
 </div>
 
 <div class="hx:mb-12">
-{{< hextra/hero-centered-subtitle >}}
+{{< ls-hero-centered-subtitle >}}
 <strong>HD video prehrávač a streamer pre váš iPhone a MAC</strong>
-{{< /hextra/hero-centered-subtitle >}}
+{{< /ls-hero-centered-subtitle >}}
 </div>
 
 
 <div class="hx:mb-6">
-{{< hextra/hero-paragraph >}}
+{{< ls-hero-paragraph >}}
 • Sledujte 360° a vysokorozlišovacie videá vo všetkých formátoch<br>
 • Streamujte z iCloud, Google Drive, Dropbox, NAS alebo vášho počítača<br>
 • Stiahnite si videá na offline sledovanie kedykoľvek a kdekoľvek<br>
 • Aktivujte titulky, používajte video ekvalizér a organizujte videá pomocou playlistov
-{{< /hextra/hero-paragraph >}}
+{{< /ls-hero-paragraph >}}
 </div>
 
-{{< app-store-badges products="evervideo:ios, evervideo:macos" >}}
+{{< ls-app-store-badges products="evervideo:ios, evervideo:macos" >}}
 
 </div>
 
-{{< /hextra/hero-container >}}
+{{< /ls-hero-container >}}
 
 <div class="hx:mt-6"></div>
 
@@ -72,42 +72,42 @@ Evervideo
 
 {{< hextra/feature-grid >}}
 
-  {{< hextra/feature-card
+  {{< ls-glass-feature-card
     title="Prehrávajte všetky video a audio formáty"
     subtitle=`Sledujte videá a počúvajte hudbu bez konvertovania súborov. Podporuje MP4, MOV, MKV, AVI, FLV, WMV, WEBM, M4V, MP3, FLAC, AAC, ALAC, OGG, OPUS, WAV, WMA a ďalšie.`
     icon="film"
     style="background: radial-gradient(circle at 50% 80%, rgba(255,99,71,0.15), rgba(17,24,39,0));"  
   >}}
 
-  {{< hextra/feature-card
+  {{< ls-glass-feature-card
     title="Knižnica médií a playlisty"
     subtitle=`Organizujte knižnicu médií so skladbami zoskupenými podľa albumu, žánru alebo trvania. Automaticky sa synchronizuje so zmenami v cloude. Vytvárajte, upravujte a exportujte M3U playlisty s vlastným triedením.`
     icon="collection"
     style="background: radial-gradient(circle at 50% 80%, rgba(255,165,0,0.15), rgba(17,24,39,0));"  
   >}}
 
-  {{< hextra/feature-card
+  {{< ls-glass-feature-card
     title="Audio a video ekvalizér"
     subtitle=`Prispôsobte si vzhľad a zvuk videí úpravou basov, výšky tónu, jasu, gamy, sýtosti, kontrastu a ďalšieho, s viac ako 50 video predvoľbami a 20+ audio predvoľbami alebo možnosťou vytvoriť si vlastné.`
     icon="adjustments"
     style="background: radial-gradient(circle at 50% 80%, rgba(255,255,0,0.15), rgba(17,24,39,0));" 
   >}}
 
-  {{< hextra/feature-card
+  {{< ls-glass-feature-card
     title="Obraz v obraze"
     subtitle=`Obraz v obraze (PiP) vám umožňuje pokračovať v sledovaní videí v malom plávajúcom okne pri používaní iných aplikácií, s plnou podporou všetkých hlavných formátov ako MKV, AVI, MP4 a MOV, plynulými prechodmi videí vo fronte, automatickými aktualizáciami prehrávania a aktívnymi titulkami vždy viditeľnými.`
     icon="duplicate"
     style="background: radial-gradient(circle at 50% 80%, rgba(0,128,0,0.15), rgba(17,24,39,0));" 
   >}}
 
-  {{< hextra/feature-card
+  {{< ls-glass-feature-card
     title="360° video a VR režim"
     subtitle=`Zažite 360° a VR videá ako nikdy predtým — pohybujte telefónom a preskúmajte každý uhol alebo sa úplne ponorte s VR headsetom pre úplné pohltenie. Okamžite prehrávajte 360° videá z kamier Insta360 a podobných zariadení s plynulým prehrávaním bez nastavovania.`
     icon="video-camera"
     style="background: radial-gradient(circle at 50% 80%, rgba(0,191,255,0.15), rgba(17,24,39,0));"  
   >}}
 
-  {{< hextra/feature-card
+  {{< ls-glass-feature-card
     title="Bezproblémové streamovanie a cloudové pripojenie"
     subtitle=`Streamujte videá priamo z Mac, PC, NAS, USB flash disku alebo cloudového úložiska a prenášajte mediálne súbory pomocou Wi-Fi Drive alebo iTunes File Sharing. Užívajte si plný prístup k celej video knižnici kdekoľvek, aj na diaľku, cez Synology Drive, WD My Cloud Home a podobné NAS zariadenia.`
     icon="cloud"
@@ -120,9 +120,9 @@ Evervideo
 
 <div class="hx:mt-6"></div>
 
-{{< hextra/section-headline >}}
+{{< ls-section-headline >}}
 Všetky funkcie
-{{< /hextra/section-headline >}}
+{{< /ls-section-headline >}}
 
 <div class="hx:mt-6"></div>
 
@@ -130,35 +130,35 @@ Všetky funkcie
 
 {{< cards >}}
 
-{{< feature-card title="Prehrávajte všetky video a audio formáty" subtitle="Sledujte médiá bez konvertovania súborov. Evervideo podporuje všetky hlavné formáty vrátane MKV, AVI, MP4, MOV, FLAC, MP3, AAC, OGG, WAV, WMV a ďalšie." icon="film">}}
+{{< ls-feature-card title="Prehrávajte všetky video a audio formáty" subtitle="Sledujte médiá bez konvertovania súborov. Evervideo podporuje všetky hlavné formáty vrátane MKV, AVI, MP4, MOV, FLAC, MP3, AAC, OGG, WAV, WMV a ďalšie." icon="film">}}
 
-{{< feature-card title="Offline režim" subtitle="Stiahnite si videá, albumy a playlisty na sledovanie bez internetového pripojenia. Vezmite si celú video kolekciu kamkoľvek." icon="download">}}
+{{< ls-feature-card title="Offline režim" subtitle="Stiahnite si videá, albumy a playlisty na sledovanie bez internetového pripojenia. Vezmite si celú video kolekciu kamkoľvek." icon="download">}}
 
-{{< feature-card title="360° video a VR režim" subtitle="Sledujte 360° a VR videá zábavným a jednoduchým spôsobom. Pohybujte telefónom a pozerajte sa do akéhokoľvek smeru alebo ho vložte do VR headsetu, aby ste sa cítili ako vo vnútri videa." icon="video-camera">}}
+{{< ls-feature-card title="360° video a VR režim" subtitle="Sledujte 360° a VR videá zábavným a jednoduchým spôsobom. Pohybujte telefónom a pozerajte sa do akéhokoľvek smeru alebo ho vložte do VR headsetu, aby ste sa cítili ako vo vnútri videa." icon="video-camera">}}
 
-{{< feature-card title="Obraz v obraze" subtitle="Pokračujte v sledovaní videí v malom plávajúcom okne pri používaní iných aplikácií. Ovládajte prehrávanie a vidzte titulky súčasne – ideálne pre multitasking." icon="duplicate">}}
+{{< ls-feature-card title="Obraz v obraze" subtitle="Pokračujte v sledovaní videí v malom plávajúcom okne pri používaní iných aplikácií. Ovládajte prehrávanie a vidzte titulky súčasne – ideálne pre multitasking." icon="duplicate">}}
 
-{{< feature-card title="Video a audio ekvalizér" subtitle="Prispôsobte si vzhľad a zvuk videí. Upravte basy, výšku tónu, jas, gamu, sýtosť, kontrast a ďalšie. Vyberte si z 50+ video predvolieb a 20+ audio predvolieb alebo si vytvorte vlastné." icon="adjustments">}}
+{{< ls-feature-card title="Video a audio ekvalizér" subtitle="Prispôsobte si vzhľad a zvuk videí. Upravte basy, výšku tónu, jas, gamu, sýtosť, kontrast a ďalšie. Vyberte si z 50+ video predvolieb a 20+ audio predvolieb alebo si vytvorte vlastné." icon="adjustments">}}
 
-{{< feature-card title="Titulky" subtitle="Zobrazujte vložené titulky, vyberte číslo stopy titulkov a užívajte si plnú podporu titulkov aj v režime Obraz v obraze." icon="annotation" >}}
+{{< ls-feature-card title="Titulky" subtitle="Zobrazujte vložené titulky, vyberte číslo stopy titulkov a užívajte si plnú podporu titulkov aj v režime Obraz v obraze." icon="annotation" >}}
 
-{{< feature-card title="Prehrávajte priamo z cloudu" subtitle="Sledujte videá priamo z cloudového úložiska bez využívania miesta na zariadení. Podporuje iCloud Drive, Google Drive, Dropbox, OneDrive, MEGA, Synology Drive, pCloud a ďalšie." icon="cloud">}}
+{{< ls-feature-card title="Prehrávajte priamo z cloudu" subtitle="Sledujte videá priamo z cloudového úložiska bez využívania miesta na zariadení. Podporuje iCloud Drive, Google Drive, Dropbox, OneDrive, MEGA, Synology Drive, pCloud a ďalšie." icon="cloud">}}
 
-{{< feature-card title="Pripojenie počítača / NAS" subtitle="Jednoducho pripojte NAS, Mac alebo PC cez domácu sieť pomocou SMB, WebDAV alebo DLNA. Vzdialený prístup je podporovaný pre Synology Drive a WD MyCloud Home. Prenášajte mediálne súbory na zariadenie cez Wi-Fi alebo iTunes File Sharing." icon="desktop-computer">}}
+{{< ls-feature-card title="Pripojenie počítača / NAS" subtitle="Jednoducho pripojte NAS, Mac alebo PC cez domácu sieť pomocou SMB, WebDAV alebo DLNA. Vzdialený prístup je podporovaný pre Synology Drive a WD MyCloud Home. Prenášajte mediálne súbory na zariadenie cez Wi-Fi alebo iTunes File Sharing." icon="desktop-computer">}}
 
-{{< feature-card title="Knižnica médií" subtitle="Organizujte podľa albumu, žánru alebo trvania. Automaticky sa synchronizuje so zmenami v cloude. Vytvárajte, upravujte a exportujte M3U playlisty s vlastným triedením." icon="library" >}}
+{{< ls-feature-card title="Knižnica médií" subtitle="Organizujte podľa albumu, žánru alebo trvania. Automaticky sa synchronizuje so zmenami v cloude. Vytvárajte, upravujte a exportujte M3U playlisty s vlastným triedením." icon="library" >}}
 
-{{< feature-card title="Záložky a ukladanie pozície prehrávania" subtitle="Uložte si miesto v akomkoľvek videu pomocou záložiek a pokračujte v prehrávaní tam, kde ste skončili. Upravte rýchlosť prehrávania, označte obľúbené a trieďte videá podľa najčastejšie prehrávaných pre jednoduchý prístup." icon="book-open">}}
+{{< ls-feature-card title="Záložky a ukladanie pozície prehrávania" subtitle="Uložte si miesto v akomkoľvek videu pomocou záložiek a pokračujte v prehrávaní tam, kde ste skončili. Upravte rýchlosť prehrávania, označte obľúbené a trieďte videá podľa najčastejšie prehrávaných pre jednoduchý prístup." icon="book-open">}}
 
-{{< feature-card title="AirPlay a Chromecast" subtitle="Prehrávajte videá na väčšej obrazovke streamovaním na Apple TV, Chromecast alebo akýkoľvek kompatibilný externý displej." icon="device-mobile">}}
+{{< ls-feature-card title="AirPlay a Chromecast" subtitle="Prehrávajte videá na väčšej obrazovke streamovaním na Apple TV, Chromecast alebo akýkoľvek kompatibilný externý displej." icon="device-mobile">}}
 
-{{< feature-card title="Import zo Súborov a Knižníc" subtitle="Importujte videá priamo z aplikácie Súbory, Fotiek alebo knižnice iTunes. Pristupujte ku všetkému lokálnemu a cloudovému obsahu v jednej organizovanej knižnici médií." icon="database">}}
+{{< ls-feature-card title="Import zo Súborov a Knižníc" subtitle="Importujte videá priamo z aplikácie Súbory, Fotiek alebo knižnice iTunes. Pristupujte ku všetkému lokálnemu a cloudovému obsahu v jednej organizovanej knižnici médií." icon="database">}}
 
-{{< feature-card title="Správca súborov" subtitle="Presúvajte, premenúvajte, mazajte a organizujte súbory priamo v aplikácii." icon="folder">}}
+{{< ls-feature-card title="Správca súborov" subtitle="Presúvajte, premenúvajte, mazajte a organizujte súbory priamo v aplikácii." icon="folder">}}
 
-{{< feature-card title="Personalizácia" subtitle="Prispôsobte si aplikáciu podľa svojich preferencií. Vyberte si témy, zobrazte alebo skryte funkcie a upravte rozhranie podľa svojich potrieb." icon="sun">}}
+{{< ls-feature-card title="Personalizácia" subtitle="Prispôsobte si aplikáciu podľa svojich preferencií. Vyberte si témy, zobrazte alebo skryte funkcie a upravte rozhranie podľa svojich potrieb." icon="sun">}}
 
-{{< feature-card title="Inteligentné vyhľadávanie" subtitle="Rýchlo nájdite videá, albumy alebo playlisty vo vašej knižnici médií pomocou kľúčových slov alebo filtrov." icon="search" >}}
+{{< ls-feature-card title="Inteligentné vyhľadávanie" subtitle="Rýchlo nájdite videá, albumy alebo playlisty vo vašej knižnici médií pomocou kľúčových slov alebo filtrov." icon="search" >}}
 
 
 
@@ -168,9 +168,9 @@ Všetky funkcie
 
 <div class="hx:mt-6"></div>
 
-{{< hextra/section-headline >}}
+{{< ls-section-headline >}}
 Intuitívny dizajn
-{{< /hextra/section-headline >}}
+{{< /ls-section-headline >}}
 
 <div class="hx:mt-6"></div>
 
@@ -178,7 +178,7 @@ Intuitívny dizajn
 
 {{< cards cols="4">}}
 
-  {{< design-feature-card 
+  {{< ls-design-feature-card 
     image="/products/evervideo/screenshots/2880x1800/1.png" 
     title="Video prehrávač" 
     method="Fill"
@@ -187,7 +187,7 @@ Intuitívny dizajn
     icon="play"
   >}}
 
-  {{< design-feature-card 
+  {{< ls-design-feature-card 
     image="/products/evervideo/screenshots/2880x1800/3.png" 
     title="Audio a video ekvalizér" 
     method="Fill"
@@ -196,7 +196,7 @@ Intuitívny dizajn
     icon="adjustments"
   >}}
 
-  {{< design-feature-card 
+  {{< ls-design-feature-card 
     image="/products/evervideo/screenshots/2880x1800/6.png" 
     title="Správca playlistov" 
     method="Fill"
@@ -205,7 +205,7 @@ Intuitívny dizajn
     icon="collection"
   >}}
 
-  {{< design-feature-card 
+  {{< ls-design-feature-card 
     image="/products/evervideo/screenshots/2880x1800/5.png" 
     title="Knižnica médií" 
     method="Fill"
@@ -214,7 +214,7 @@ Intuitívny dizajn
     icon="library"
   >}}
 
-  {{< design-feature-card 
+  {{< ls-design-feature-card 
     image="/products/evervideo/screenshots/2880x1800/7.png"  
     title="Cloudové úložisko" 
     method="Fill"
@@ -223,7 +223,7 @@ Intuitívny dizajn
     icon="cloud"
   >}}
 
-  {{< design-feature-card 
+  {{< ls-design-feature-card 
     image="/products/evervideo/screenshots/2880x1800/9.png"  
     title="Správca súborov" 
     method="Fill"
@@ -241,49 +241,49 @@ Intuitívny dizajn
 <div class="hx:mt-6"></div>
 
 <div class="hx:w-full">
-{{< appstore-reviews apps="6602897336,6743504109" stars="5,4"  app="Evervideo" >}}
+{{< ls-appstore-reviews apps="6602897336,6743504109" stars="5,4"  app="Evervideo" >}}
 </div>
 
 
 <div class="hx:mt-6"></div>
 
-{{< hextra/section-headline >}}
+{{< ls-section-headline >}}
    Cenové plány
-{{< /hextra/section-headline >}}
+{{< /ls-section-headline >}}
 
 <div class="hx:mt-6"></div>
 
 <div class="hx:w-full">
 
-{{< pricing-plans >}}
+{{< ls-pricing-plans >}}
 
 </div>
 
 <div class="hx:mt-6"></div>
 
 <div class="hx:w-full hx:mx-auto hx:flex hx:flex-col hx:items-center">
-  {{< hextra/info-paragraph border="true" >}}
+  {{< ls-info-paragraph border="true" >}}
    <strong>Rodinné zdieľanie</strong>: Všetky nákupy a predplatné podporujú Rodinné zdieľanie, čo vám umožňuje zdieľať Premium prístup s vašou rodinou.<br><strong>Univerzálny prístup</strong>: Doživotné a predplatné plány sú zdieľané medzi iOS a Mac zariadeniami pomocou synchronizácie iCloud.<br><strong>Ceny</strong>: Ceny sú zobrazené v amerických dolároch pre Spojené štáty. Konečná cena sa môže líšiť v závislosti od vášho regiónu.  
-  {{< /hextra/info-paragraph >}}
+  {{< /ls-info-paragraph >}}
 </div>
 
 <div class="hx:mt-6"></div>
 
 <div class="hx:w-full">
-{{< app-details heading="true" >}}
+{{< ls-app-details heading="true" >}}
 </div>
 
 <div class="hx:mt-6"></div>
 
-{{< hextra/section-headline >}}
+{{< ls-section-headline >}}
    Často kladené otázky
-{{< /hextra/section-headline >}}
+{{< /ls-section-headline >}}
 
 <div class="hx:mt-6"></div>
 
 <div class="hx:w-full">
 
-{{% details title="Ako funguje Evervideo?" closed="true" %}}
+{{% ls-details title="Ako funguje Evervideo?" closed="true" %}}
 Evervideo je HD video prehrávač, ktorý vám umožňuje spravovať video stopy ako bežné súbory.<br>
 Môžete nahrať celú video kolekciu do cloudových služieb ako Dropbox, OneDrive, iCloud alebo osobný NAS a prehrávať video priamo z cloudu s plnou kontrolou.<br><br>
 Synchronizácia cez iTunes nie je potrebná — jednoducho nahrajte z PC alebo Mac ako akýkoľvek súbor.<br>
@@ -293,9 +293,9 @@ Preskúmajte naše návody pre viac podrobností:<br>
 - [Sprievodca Evervideo](/docs/guide/evervideo/)<br>
 - [Ako bezdrôtovo preniesť súbory z počítača do iPhone pomocou WiFi-Drive.](/docs/howto/how-to-transfer-files-wirelessly-from-a-computer-to-an-iphone-using-wifi-drive)<br>
 
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Je Evervideo zadarmo?" closed="true" %}}
+{{% ls-details title="Je Evervideo zadarmo?" closed="true" %}}
 Evervideo je zadarmo s niektorými obmedzeniami, ktoré je možné odstrániť upgradom na Premium verziu.<br>
 Môžete si vybrať medzi jednorazovým doživotným nákupom alebo dvoma možnosťami predplatného (mesačne alebo ročne). Ceny sa môžu líšiť v závislosti od vášho regiónu.<br><br>
 
@@ -304,9 +304,9 @@ Rodinné zdieľanie je povolené pre všetky plány, takže môžete zdieľať P
 Premium nákupy a predplatné sú zdieľané medzi iOS a Mac cez iCloud. Na synchronizáciu nákupu sa uistite, že iCloud je povolený, otvorte aplikáciu na iOS zariadení a počkajte minútu na dokončenie synchronizácie.<br><br>
 
 [Prečítajte si viac o rozdieloch medzi Evervideo a Evervideo Premium](/docs/faq/evervideo/what-is-the-difference-between-evervideo-and-evervideo-premium/)
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Ako používam Evervideo?" closed="true" %}}
+{{% ls-details title="Ako používam Evervideo?" closed="true" %}}
 
 **Nainštalujte Evervideo**<br>
 Stiahnite a nainštalujte aplikáciu Evervideo z obchodu s aplikáciami vášho zariadenia. Je k dispozícii pre iOS aj Mac zariadenia.<br><br>
@@ -355,9 +355,9 @@ Máte dve možnosti pridania videa do Evervideo: manuálne pridanie alebo automa
 **Užívajte si svoje videá**<br>
 Keď sú vaše videá organizované, použite horný panel nástrojov na rýchle akcie ako **Vyhľadávanie**, **Prehrať všetko**, **Náhodné prehrávanie** a **Pokračovať v prehrávaní**.<br><br>
 
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Je Evervideo bezpečný?" closed="true" %}}
+{{% ls-details title="Je Evervideo bezpečný?" closed="true" %}}
 Evervideo používa len oficiálne SDK a zabezpečené pripojenia na interakciu s pripojenými cloudovými službami. Vaše prihlasovacie meno a heslo nie sú dostupné pre aplikáciu. Všetky požiadavky z aplikácie na cloudovú službu sú šifrované.<br>
 Keď zadáte prihlasovacie meno a heslo, aplikácia vám zobrazí oficiálnu autorizačnú stránku poskytovanú poskytovateľom cloudovej služby a celý autorizačný proces prebieha mimo aplikácie. Poskytovateľ cloudovej služby pošle aplikácii autorizačný token po úspešnej autorizácii a tento token sa používa na vykonávanie API volaní.<br><br>
 
@@ -368,22 +368,22 @@ Na odvolanie autorizačného tokenu sa prihláste do svojho účtu vo webovom pr
 
 Môžete tiež odpojiť pripojené cloudové účty v aplikácii a autorizačný token bude tiež odstránený z vášho zariadenia. Ak aplikáciu zo zariadenia odstránite, všetky stiahnuté dáta a prístupové tokeny budú tiež odstránené.<br><br>
 
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Ako vytvorím playlist v Evervideo?" closed="true" %}}
+{{% ls-details title="Ako vytvorím playlist v Evervideo?" closed="true" %}}
 - Otvorte sekciu Playlisty.<br>
 - Ťuknite na tlačidlo „+" alebo tlačidlo „..." v pravom hornom rohu a vyberte „Nový playlist."<br>
 - Zadajte názov playlistu a ťuknite na „Uložiť." Zobrazí sa dialóg „Pridať mediálne súbory."<br>
 - Vyberte skladby, ktoré chcete pridať do playlistu.<br><br>
 
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Aké cloudové služby podporuje Evervideo?" closed="true" %}}
+{{% ls-details title="Aké cloudové služby podporuje Evervideo?" closed="true" %}}
 V súčasnosti aplikácia podporuje najpopulárnejšie cloudové služby: iCloud Drive, Google Drive, Dropbox, OneDrive, Box, MEGA, Yandex.Disk, DLNA, MediaFire, WebDAV, SMB, pCloud, Cloud Mail.ru, Put.io.<br><br>
 
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Ako povolím offline režim v Evervideo?" closed="true" %}}
+{{% ls-details title="Ako povolím offline režim v Evervideo?" closed="true" %}}
 - Pripojenie ku cloudovému úložisku:<br>
  • Prejdite na kartu „Súbory".<br>
  • Vyberte „Pripojiť cloudové úložisko" a postupujte podľa pokynov na pripojenie požadovanej služby.<br><br>
@@ -408,9 +408,9 @@ V súčasnosti aplikácia podporuje najpopulárnejšie cloudové služby: iCloud
  • Na manuálnu synchronizáciu prejdite na „Nastavenia" > „Správca súborov" > „Offline priečinky" > „Synchronizované offline priečinky."<br>
  • Ťuknite na „Ďalšie akcie" a vyberte „Spustiť synchronizáciu."<br><br>
 
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Ako prehrávať lokálne stiahnuté videá na iPhone?" closed="true" %}}
+{{% ls-details title="Ako prehrávať lokálne stiahnuté videá na iPhone?" closed="true" %}}
 Po inštalácii aplikácie otvorte obrazovku „Súbory" a prejdite nadol do sekcie „Súbory na tomto iPhone". Odtiaľ vyberte „Otvoriť súbory...", ak potrebujete vybrať niekoľko súborov, alebo „Otvoriť priečinok...", ak chcete vybrať mediálny priečinok. Aplikácia prehľadá obsah priečinka a všetky nájdené mediálne súbory budú vybrané. Prejdite do mediálneho priečinka, ťuknite na „Otvoriť" na potvrdenie výberu a súbory budú pridané do frontu prehrávania. Tieto súbory budú prehrávané priamo z vybraného umiestnenia bez kopírovania do balíka aplikácie.<br><br>
 
 **Pridanie priečinka do obľúbených pre rýchly prístup**<br>
@@ -422,13 +422,13 @@ Ak uprednostňujete organizovanie lokálnych súborov v knižnici, otvorte obraz
 **Pridanie lokálnych súborov do playlistu**<br>
 Na pridanie lokálnych súborov do playlistu otvorte obrazovku „Playlisty" a ťuknite na tlačidlo ďalších akcií v pravom hornom rohu. Vyberte „+ Nový playlist," zadajte názov nového playlistu a na ďalšej obrazovke vyberte možnosť „Súbory na tomto zariadení" a ťuknite na „Otvoriť súbory...". Vyberte mediálne súbory, ktoré chcete pridať, a ťuknite na „Otvoriť" na potvrdenie. Súbory budú pridané do vášho playlistu, kde môžete meniť poradie skladieb a vykonávať ďalšie akcie pomocou tlačidla ďalších akcií.<br><br>
 
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Ako môžem pokračovať v playliste tam, kde som skončil?" closed="true" %}}
+{{% ls-details title="Ako môžem pokračovať v playliste tam, kde som skončil?" closed="true" %}}
 Najprv sa uistite, že „Uložiť stav media prehrávača" je povolené v Nastavenia > Media prehrávač > Všeobecné. Keď prepnete na iný playlist a vrátite sa, uvidíte štyri akcie na hornom paneli nástrojov pod obalom albumu: „Vyhľadávanie," „Pokračovať v prehrávaní," „Prehrať všetko" a „Náhodné prehrávanie všetkého." Ťuknite na „Pokračovať v prehrávaní" na obnovenie playlistu z posledného uloženého stavu a pozície média.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Ako prenesiem video do Evervideo z počítača?" closed="true" %}}
+{{% ls-details title="Ako prenesiem video do Evervideo z počítača?" closed="true" %}}
 Môžete pripojiť počítač alebo osobný NAS pomocou protokolov SMB, WebDAV alebo DLNA. Alternatívne použite iTunes File Sharing na prenos mediálnych súborov.<br><br>
 
 Na pripojenie počítača pomocou protokolu SMB ťuknite na „Súbory" „Pripojiť cloudové úložisko" → SMB. Zadajte IP adresu počítača a názov zdieľaného priečinka do poľa URL vo formáte smb://ip-adresa-počítača/názov-zdieľaného-priečinka, zadajte prihlasovacie údaje a ťuknite na „Hotovo". Ak je pripojenie úspešné, uvidíte pripojené úložisko v sekcii „Cloudové úložisko".<br><br>
@@ -447,9 +447,9 @@ iTunes File Sharing je ďalšia technológia, ktorá vám umožňuje prenášať
 Podrobné pokyny sú k dispozícii tu:<br>
 [Ako prehrávať lokálne súbory (iTunes súbory) na mojom iPhone](/docs/howto/how-to-play-local-itunes-files-on-my-iphone)<br><br>
 
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Ako stiahnuť video?" closed="true" %}}
+{{% ls-details title="Ako stiahnuť video?" closed="true" %}}
 Pred stiahnutím videa a jeho offline sledovaním musíte pripojiť cloudové úložisko.<br>
 Jednoducho otvorte obrazovku „Súbory" a pripojte cloudové úložisko.<br>
 Po pridaní si môžete stiahnuť videá z cloudu.<br><br>
@@ -465,14 +465,14 @@ Po pridaní si môžete stiahnuť videá z cloudu.<br><br>
 – Ťuknite na zaškrtávacie políčko „Offline režim"<br>
 – Offline Interpret/Album/Playlist sa objaví v sekcii „Súbory" -> „Offline priečinky".<br><br>
 
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Aké audio formáty podporuje Evervideo?" closed="true" %}}
+{{% ls-details title="Aké audio formáty podporuje Evervideo?" closed="true" %}}
 Táto aplikácia podporuje predvolené **systémové audio kodeky** a ďalšie **ffmpeg softvérové kodeky**:<br><br>
 3g2, 3gp, 3gp2, 3gpp, 8svx, aa, aac, aax, ac3, act, adt, adts, aif, aifc, aiff, alac, amr, amv, ape, asf, au, avi, awb, caf, cavs, cdda, cue, dct, dff, drc, dsf, dss, dvf, "dvr-ms", ec3, f4a, f4b, f4p, f4v, flac, flv, gif, gifv, gsm, gxf, h261, h263, h264, ifv, iklax, ivf, ivs, l16, latm, loas, m2t, m2ts, m2v, m3u, m3u8, m4a, m4b, m4p, m4r, m4v, mka, mkv, mmf, mng, mod, mogg, mov, mp1, mp2, mp3, mp4, mp4v, mpa, mpc, mpe, mpeg, mpg, mpv, msv, mts, mxf, nsf, nsv, nut, oga, ogg, ogv, opus, pcm, pls, qt, ra, raw, rm, rmvb, roq, rv, sln, snd, svi, tod, tta, vob, voc, vox, vtt, w64, wav, wave, webm, wma, wmv, wv, xhe, xmv, y4m, yuv.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Funguje Evervideo s NAS zariadeniami?" closed="true" %}}
+{{% ls-details title="Funguje Evervideo s NAS zariadeniami?" closed="true" %}}
 
 Áno, Evervideo podporuje NAS pripojenia pomocou protokolov **SMB**, **WebDAV** a **DLNA**.<br><br>
 
@@ -496,9 +496,9 @@ Ak je pripojenie úspešné, uvidíte svoj NAS v sekcii **Cloudové úložisko**
 • Zobrazuje všetky objaviteľné NAS zariadenia vo vašej lokálnej sieti.<br>
 • Ťuknite na názov zariadenia na pripojenie, potom zadajte prihlasovacie údaje podľa potreby.<br><br>
 
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Ako používam funkciu Wi-Fi Drive v Evervideo?" closed="true" %}}
+{{% ls-details title="Ako používam funkciu Wi-Fi Drive v Evervideo?" closed="true" %}}
 
 **Bezdrôtový prenos pomocou desktopového prehliadača**<br>
 1. Spustite aplikáciu: Otvorte Evervideo.<br>
@@ -523,39 +523,39 @@ Poznámka: Uistite sa, že JavaScript je povolený a používate najnovšiu verz
 
 [Prečítajte si viac](/docs/howto/how-to-transfer-files-wirelessly-from-a-computer-to-an-iphone-using-wifi-drive)
 
-{{% /details %}}
+{{% /ls-details %}}
 
 </div>
 
 
 <div class="hx:mt-6"></div>
 
-{{< hextra/section-headline >}}
+{{< ls-section-headline >}}
   Používateľská príručka
-{{< /hextra/section-headline >}}
+{{< /ls-section-headline >}}
 
 <div class="hx:mt-6"></div>
 
 <div class="hx:w-full">
 
 <div class="hx:w-full hx:mx-auto hx:flex hx:flex-col hx:items-center hx:text-center">
-  {{< hextra/info-paragraph border="false" >}}
+  {{< ls-info-paragraph border="false" >}}
   Táto príručka vám pomôže získať z Evervidea v iPhone, iPade alebo Macu maximum. Naučte sa, ako streamovať videá z cloudového úložiska a NAS, používať režim Obraz v obraze, spravovať titulky a ladiť ekvalizéry zvuku a obrazu. Evervideo vám dáva úplnú kontrolu nad celou vašou zbierkou videí — z akéhokoľvek zdroja — v jednej jednoduchej aplikácii.
-  {{< /hextra/info-paragraph >}}
+  {{< /ls-info-paragraph >}}
 </div>
 
 {{< cards >}}
-  {{< feature-card icon="location-marker" title="Navigácia" subtitle="Naučte sa ovládať Evervideo pomocou panela kariet v iPhone alebo ľavého menu v iPade a Macu, plus kompaktného prehrávača videa, ktorý je vždy na obrazovke." link="/docs/guide/evervideo/evervideo-guide-navigation" >}}
+  {{< ls-feature-card icon="location-marker" title="Navigácia" subtitle="Naučte sa ovládať Evervideo pomocou panela kariet v iPhone alebo ľavého menu v iPade a Macu, plus kompaktného prehrávača videa, ktorý je vždy na obrazovke." link="/docs/guide/evervideo/evervideo-guide-navigation" >}}
 
-  {{< feature-card icon="folder" title="Súbory" subtitle="Pripojte cloudové účty, zdieľané priečinky NAS, mediálne servery (Plex, Jellyfin, Emby, Subsonic, Navidrome), RTSP streamy a lokálne súbory v jednej zjednotenej karte." link="/docs/guide/evervideo/evervideo-guide-files" >}}
+  {{< ls-feature-card icon="folder" title="Súbory" subtitle="Pripojte cloudové účty, zdieľané priečinky NAS, mediálne servery (Plex, Jellyfin, Emby, Subsonic, Navidrome), RTSP streamy a lokálne súbory v jednej zjednotenej karte." link="/docs/guide/evervideo/evervideo-guide-files" >}}
 
-  {{< feature-card icon="library" title="Mediálna knižnica" subtitle="Usporiadajte a prehľadávajte videá a hudbu podľa albumov, žánrov, nedávno prehraných a obľúbených — plus knižnica Fotky v iOS a knižnica Apple Music." link="/docs/guide/evervideo/evervideo-guide-video-library" >}}
+  {{< ls-feature-card icon="library" title="Mediálna knižnica" subtitle="Usporiadajte a prehľadávajte videá a hudbu podľa albumov, žánrov, nedávno prehraných a obľúbených — plus knižnica Fotky v iOS a knižnica Apple Music." link="/docs/guide/evervideo/evervideo-guide-video-library" >}}
 
-  {{< feature-card icon="collection" title="Zoznamy skladieb" subtitle="Vytvárajte a usporiadajte zoznamy skladieb pre videá, hudbu, seriály alebo kurzy a importujte súbory M3U / M3U8 / CUE." link="/docs/guide/evervideo/evervideo-guide-playlists" >}}
+  {{< ls-feature-card icon="collection" title="Zoznamy skladieb" subtitle="Vytvárajte a usporiadajte zoznamy skladieb pre videá, hudbu, seriály alebo kurzy a importujte súbory M3U / M3U8 / CUE." link="/docs/guide/evervideo/evervideo-guide-playlists" >}}
 
-  {{< feature-card icon="play" title="Mediálny prehrávač" subtitle="Ovládajte prehrávanie, frontu, režim Obraz v obraze, audio a video stopy, primárne a sekundárne titulky a ekvalizéry zvuku aj obrazu." link="/docs/guide/evervideo/evervideo-guide-player" >}}
+  {{< ls-feature-card icon="play" title="Mediálny prehrávač" subtitle="Ovládajte prehrávanie, frontu, režim Obraz v obraze, audio a video stopy, primárne a sekundárne titulky a ekvalizéry zvuku aj obrazu." link="/docs/guide/evervideo/evervideo-guide-player" >}}
 
-  {{< feature-card icon="adjustments" title="Nastavenia" subtitle="Prispôsobte vzhľad, dekodér, ekvalizéry, titulky, widgety, jazyk, prístupový kód, zálohu a výkonnostné nastavenia aplikácie Evervideo." link="/docs/guide/evervideo/evervideo-guide-settings" >}}
+  {{< ls-feature-card icon="adjustments" title="Nastavenia" subtitle="Prispôsobte vzhľad, dekodér, ekvalizéry, titulky, widgety, jazyk, prístupový kód, zálohu a výkonnostné nastavenia aplikácie Evervideo." link="/docs/guide/evervideo/evervideo-guide-settings" >}}
 
 {{< /cards >}}
 

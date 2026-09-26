@@ -23,7 +23,7 @@ readingTime: 16
 Indstillingsskærmen er Evervideos kontrolcenter. Herfra kan du opgradere til Premium, konfigurere video- og lydmotorerne (systemcodecs eller FFmpeg), administrere Picture-in-Picture, konfigurere undertekster (primær, sekundær, libass, eksterne filer, skrifttyper), organisere mediebiblioteket, konfigurere filhåndteringen, aktivere startskærmwidgets, sikkerhedskopiere dine data og få adgang til hjælp og juridiske oplysninger. Sektioner er grupperet under overskrifter: Køb og opdateringer, App-præferencer, Hjælp, Juridisk og privatliv.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evervideos indstillingshovedskaerm" image="/docs/guide/evervideo/img/evervideo-settings.webp" >}}
+  {{< ls-card title="" subtitle="Evervideos indstillingshovedskaerm" image="/docs/guide/evervideo/img/evervideo-settings.webp" >}}
 {{< /cards >}}
 
 ## Opgrader til Premium
@@ -31,13 +31,13 @@ Indstillingsskærmen er Evervideos kontrolcenter. Herfra kan du opgradere til Pr
 Opgrader applikationen til Premium-versionen for at fjerne alle begrænsninger. Gratisversionen af applikationen tilbyder et engangskøb på livstid og to abonnementsindstillinger (1 måned og 1 år) for at fjerne alle begrænsninger og opgradere til Premium.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evervideo opgrader til Premium" image="/docs/guide/evervideo/img/evervideo-upgrade-to-premium.webp" >}}
+  {{< ls-card title="" subtitle="Evervideo opgrader til Premium" image="/docs/guide/evervideo/img/evervideo-upgrade-to-premium.webp" >}}
 {{< /cards >}}
 
 **Family Sharing** er aktiveret for alle køb og planer, så du kan dele Premium-versionen med op til fem familiemedlemmer uden ekstra omkostninger.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evervideo vælg en Premium-plan" image="/docs/guide/evervideo/img/evervideo-select-premium-plan.webp" >}}
+  {{< ls-card title="" subtitle="Evervideo vælg en Premium-plan" image="/docs/guide/evervideo/img/evervideo-select-premium-plan.webp" >}}
 {{< /cards >}}
 
 ## Deling af køb mellem iOS og Mac
@@ -51,7 +51,7 @@ Du kan også trykke på knappen **Gendan køb** i appindstillingerne. Sørg for,
 For at gendanne dit køb på en ny enhed skal du bruge menuen **Køb → Gendan køb**. Du vil se listen over dine køb. Hvis du ikke ser dem alle, skal du bekræfte, at enheden er tilsluttet det samme Apple-ID, der blev brugt til at foretage købene, og sørge for, at iCloud er aktiveret.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evervideo købsmenu i indstillinger" image="/docs/guide/evervideo/img/evervideo-purhases-menu-in-settings.webp" >}}
+  {{< ls-card title="" subtitle="Evervideo købsmenu i indstillinger" image="/docs/guide/evervideo/img/evervideo-purhases-menu-in-settings.webp" >}}
 {{< /cards >}}
 
 ## Prøv Premium gratis

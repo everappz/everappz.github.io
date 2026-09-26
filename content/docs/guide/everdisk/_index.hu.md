@@ -28,19 +28,19 @@ Ez az útmutató lépésről lépésre bemutatja az alkalmazás minden részét.
 
 
 {{< cards >}}
-  {{< card icon="play" title="Megosztás" subtitle="Érintsd meg a Start gombot, válaszd ki, mit szeretnél megosztani, és futtasd egyszerre mind az öt kiszolgálót. Ismerd meg a Megosztás képernyőt elejétől a végéig." link="/docs/guide/everdisk/everdisk-guide-sharing" >}}
+  {{< ls-card icon="play" title="Megosztás" subtitle="Érintsd meg a Start gombot, válaszd ki, mit szeretnél megosztani, és futtasd egyszerre mind az öt kiszolgálót. Ismerd meg a Megosztás képernyőt elejétől a végéig." link="/docs/guide/everdisk/everdisk-guide-sharing" >}}
 
-  {{< card icon="desktop-computer" title="Eszközeid csatlakoztatása" subtitle="Hogyan csatlakozik a megosztott fájljaidhoz egy TV, egy Mac vagy PC, egy webböngésző, egy másik telefon vagy egy USB-kábel." link="/docs/guide/everdisk/everdisk-guide-connect" >}}
+  {{< ls-card icon="desktop-computer" title="Eszközeid csatlakoztatása" subtitle="Hogyan csatlakozik a megosztott fájljaidhoz egy TV, egy Mac vagy PC, egy webböngésző, egy másik telefon vagy egy USB-kábel." link="/docs/guide/everdisk/everdisk-guide-connect" >}}
 
-  {{< card icon="server" title="Csatlakozás kiszolgálókhoz" subtitle="Érd el a hálózatodon lévő többi DLNA, WebDAV, FTP, SFTP és SMB kiszolgálót és NAS-meghajtót a böngészéshez, streameléshez és letöltéshez." link="/docs/guide/everdisk/everdisk-guide-devices" >}}
+  {{< ls-card icon="server" title="Csatlakozás kiszolgálókhoz" subtitle="Érd el a hálózatodon lévő többi DLNA, WebDAV, FTP, SFTP és SMB kiszolgálót és NAS-meghajtót a böngészéshez, streameléshez és letöltéshez." link="/docs/guide/everdisk/everdisk-guide-devices" >}}
 
-  {{< card icon="folder" title="Fájlok és dokumentumok" subtitle="Böngéssz, hozz létre mappákat, nevezz át, mozgass, másolj és törölj, tömöríts és bonts ki, csatlakoztass külső mappákat, és szkennelj PDF-be." link="/docs/guide/everdisk/everdisk-guide-files" >}}
+  {{< ls-card icon="folder" title="Fájlok és dokumentumok" subtitle="Böngéssz, hozz létre mappákat, nevezz át, mozgass, másolj és törölj, tömöríts és bonts ki, csatlakoztass külső mappákat, és szkennelj PDF-be." link="/docs/guide/everdisk/everdisk-guide-files" >}}
 
-  {{< card icon="music-note" title="Fotók, zene és videó" subtitle="Oszd meg a teljes fotó- és zenegyűjteményedet, hallgass hangot a minilejátszóban, és nézz videót teljes képernyőn." link="/docs/guide/everdisk/everdisk-guide-media" >}}
+  {{< ls-card icon="music-note" title="Fotók, zene és videó" subtitle="Oszd meg a teljes fotó- és zenegyűjteményedet, hallgass hangot a minilejátszóban, és nézz videót teljes képernyőn." link="/docs/guide/everdisk/everdisk-guide-media" >}}
 
-  {{< card icon="lock-closed" title="Hozzáférés és adatvédelem" subtitle="Védd a megosztást bejelentkezéssel és jelszóval, engedélyezd vagy tiltsd a szerkesztést, blokkolj eszközöket, és tarts mindent helyben." link="/docs/guide/everdisk/everdisk-guide-access" >}}
+  {{< ls-card icon="lock-closed" title="Hozzáférés és adatvédelem" subtitle="Védd a megosztást bejelentkezéssel és jelszóval, engedélyezd vagy tiltsd a szerkesztést, blokkolj eszközöket, és tarts mindent helyben." link="/docs/guide/everdisk/everdisk-guide-access" >}}
 
-  {{< card icon="adjustments" title="Beállítások" subtitle="Minden beállítás elmagyarázva: eszközprofil, kapcsolatok, fotó- és videóminőség, portok, átvitelek és még sok más." link="/docs/guide/everdisk/everdisk-guide-settings" >}}
+  {{< ls-card icon="adjustments" title="Beállítások" subtitle="Minden beállítás elmagyarázva: eszközprofil, kapcsolatok, fotó- és videóminőség, portok, átvitelek és még sok más." link="/docs/guide/everdisk/everdisk-guide-settings" >}}
 
-  {{< card icon="question-mark-circle" title="GYIK" subtitle="Gyors válaszok a leggyakoribb kérdésekre és valós élethelyzetekre." link="/docs/faq/everdisk" >}}
+  {{< ls-card icon="question-mark-circle" title="GYIK" subtitle="Gyors válaszok a leggyakoribb kérdésekre és valós élethelyzetekre." link="/docs/faq/everdisk" >}}
 {{< /cards >}}

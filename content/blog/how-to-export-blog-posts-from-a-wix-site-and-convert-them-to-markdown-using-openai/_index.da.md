@@ -12,7 +12,7 @@ authors:
     image: "/images/about/artem-meleshko-founder-everappz.webp"
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 ## Hvorfor eksportere blogindlæg fra Wix?
 
@@ -261,33 +261,33 @@ Denne ene kommando opsætter miljøet, scraper alle blogindlæg fra sitemappen, 
 Projektet er open source. Fejlrapporter, funktionsforslag og pull requests er velkomne.
 
 {{< cards cols="1" >}}
-  {{< card link="https://github.com/everappz/wix-blog-export" title="Projekt på GitHub" icon="github" tag="open source" >}}
+  {{< ls-card link="https://github.com/everappz/wix-blog-export" title="Projekt på GitHub" icon="github" tag="open source" >}}
 {{< /cards >}}
 
 ---
 
 ## Ofte stillede spørgsmål
 
-{{% details title="Hvorfor kan jeg ikke bare bruge `requests` til at scrape Wix blogindlæg?" closed="true" %}}
+{{% ls-details title="Hvorfor kan jeg ikke bare bruge `requests` til at scrape Wix blogindlæg?" closed="true" %}}
 Wix renderer indhold dynamisk med JavaScript. En standard HTTP-anmodning returnerer en tom sidekonstruktion. Selenium kører en hovedløs browser for at få det fuldt renderede HTML.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Fungerer dette med enhver Wix blog?" closed="true" %}}
+{{% ls-details title="Fungerer dette med enhver Wix blog?" closed="true" %}}
 Ja. Scraperen læser blog-sitemap XML og behandler hvert URL. Du behøver kun at opdatere `SITEMAP_URL`-variablen i `parse_blog_sitemap.py` til at pege på dit sites sitemap.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Hvilken OpenAI model bruger dette?" closed="true" %}}
+{{% ls-details title="Hvilken OpenAI model bruger dette?" closed="true" %}}
 Scriptet bruger GPT-4o som standard. Du kan ændre `API_MODEL`-variablen i `generate_md.py` for at bruge en anden model.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Kan jeg bruge dette til at migrere fra Wix til Hugo?" closed="true" %}}
+{{% ls-details title="Kan jeg bruge dette til at migrere fra Wix til Hugo?" closed="true" %}}
 Ja. Outputtet er standard Markdown med lokale billedstier, som fungerer direkte med Hugo, Jekyll, Astro og andre statiske sitegeneratorer. Tilføj front matter til de genererede `_index.md`-filer for at fuldføre migrationen.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Hvad koster OpenAI API til dette?" closed="true" %}}
+{{% ls-details title="Hvad koster OpenAI API til dette?" closed="true" %}}
 Prisen afhænger af antallet og længden af dine blogindlæg. En typisk blog med 50 indlæg af moderat længde koster et par dollars i API-forbrug med GPT-4o.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Er dette værktøj open source?" closed="true" %}}
+{{% ls-details title="Er dette værktøj open source?" closed="true" %}}
 Ja. Den fulde kildekode er tilgængelig på [GitHub](https://github.com/everappz/wix-blog-export) under en open source-licens.
-{{% /details %}}
+{{% /ls-details %}}

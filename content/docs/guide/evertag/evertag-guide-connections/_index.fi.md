@@ -15,7 +15,7 @@ readingTime: 11
 Tässä näytössä voit yhdistää eri lähteitä, jotka sisältävät äänitiedostojasi. Voit integroida suosittuja pilvipalveluja kuten Google Drive, Dropbox, OneDrive, iCloud ja muita sekä yhdistää Mac- tai PC-tietokoneesi. Lisäksi sinulla on mahdollisuus muokata Apple Time Capsulessa, WD Cloud Homessa tai missä tahansa SMB- tai WebDAV-yhteensopivassa NAS-laitteessa sijaitsevia äänitiedostoja.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evertag Connections Screen" image="/docs/guide/evertag/img/connections.webp" >}}
+  {{< ls-card title="" subtitle="Evertag Connections Screen" image="/docs/guide/evertag/img/connections.webp" >}}
 {{< /cards >}}
 
 ## Pikakäyttö
@@ -151,7 +151,7 @@ Tässä on erittely näistä toiminnoista:
 - **Ruudukko/luettelonäkymä**: Vaihda kahden näkymätilan välillä: taulukonäkymä ja pikkukuvanäkymä. Taulukonäkymä esittää tiedostot luettelona, kun taas pikkukuvanäkymä näyttää tiedostojen visuaaliset esitykset, mikä helpottaa sisällön tunnistamista yhdellä silmäyksellä.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evertag Cloud Folder Sort" image="/docs/guide/evertag/img/cloud-storage-sort.webp" >}}
+  {{< ls-card title="" subtitle="Evertag Cloud Folder Sort" image="/docs/guide/evertag/img/cloud-storage-sort.webp" >}}
 {{< /cards >}}
 
 ## Online-tiedostojen muokkaaminen
@@ -163,7 +163,7 @@ Kun sinun täytyy hallita useita tiedostoja pilvipalvelussa tässä sovelluksess
 - **Erilaisten toimintojen suorittaminen**: Kun olet valinnut tiedostot tai kansiot, joita haluat hallita, sinulla on pääsy useisiin tarpeisiisi räätälöityihin toimintoihin:
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evertag File Select" image="/docs/guide/evertag/img/cloud-storage-file-select.webp" >}}
+  {{< ls-card title="" subtitle="Evertag File Select" image="/docs/guide/evertag/img/cloud-storage-file-select.webp" >}}
 {{< /cards >}}
 
 ## Tiedostotoiminnot
@@ -180,7 +180,7 @@ Napauta sitä nähdäksesi luettelon saatavilla olevista toiminnoista:
 - **Poistaa**: Ole varovainen tämän toiminnon kanssa, sillä se poistaa tiedoston pysyvästi pilvipalvelustasi. **Tätä poistoa ei voi peruuttaa**.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evertag File Options" image="/docs/guide/evertag/img/cloud-storage-file-options.webp" >}}
+  {{< ls-card title="" subtitle="Evertag File Options" image="/docs/guide/evertag/img/cloud-storage-file-options.webp" >}}
 {{< /cards >}}
 
 Jos toimintoluettelo ylittää käytettävissä olevan näyttötilan, selaa vain toimintovalikossa alaspäin päästäksesi lisävaihtoehtoihin.
@@ -196,5 +196,5 @@ Jokaiselle pilvipalvelusi kansiolle on saatavilla useita toimintoja. Päästäks
 - **Poistaa**: Ole varovainen tämän toiminnon kanssa, sillä se poistaa kansion ja sen sisällön pysyvästi pilvipalvelustasi. **Tätä toimintoa ei voi peruuttaa**.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evertag Folder Options" image="/docs/guide/evertag/img/cloud-storage-folder-options.webp" >}}
+  {{< ls-card title="" subtitle="Evertag Folder Options" image="/docs/guide/evertag/img/cloud-storage-folder-options.webp" >}}
 {{< /cards >}}

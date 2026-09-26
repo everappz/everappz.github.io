@@ -11,7 +11,7 @@ tags: ["Evertag", "Premium", "Diferență", "Pro", "Gratuit vs Plătit", "Aplica
 Evertag și Evertag Premium sunt două versiuni ale aceleiași aplicații puternice de editare a etichetelor. În timp ce Evertag Free vă oferă acces la instrumentele esențiale de editare a metadatelor, Evertag Premium deblochează experiența completă — fără reclame, nelimitată și personalizabilă.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evertag Upgrade To Premium Screen" image="/docs/faq/evertag/what-is-the-difference-between-evertag-and-evertag-premium/upgrade-to-premium.webp" >}}
+  {{< ls-card title="" subtitle="Evertag Upgrade To Premium Screen" image="/docs/faq/evertag/what-is-the-difference-between-evertag-and-evertag-premium/upgrade-to-premium.webp" >}}
 {{< /cards >}}
 
 ## Alegeți Planul Premium
@@ -19,7 +19,7 @@ Evertag și Evertag Premium sunt două versiuni ale aceleiași aplicații putern
 Versiunea gratuită a aplicației oferă o achiziție unică pe viață și două opțiuni de abonament (1 lună și 1 an) pentru a elimina toate restricțiile și a face upgrade la versiunea Premium, permițându-vă să alegeți prețul cel mai bun și optim pentru dvs. Prețurile pot varia în funcție de țara sau teritoriul dvs. De asemenea, rețineți că **Partajarea în familie** este **activată** pentru toate achizițiile și planurile, astfel puteți partaja versiunea Premium cu membrii familiei dvs.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evertag Select Your Premium Plan Screen" image="/docs/faq/evertag/what-is-the-difference-between-evertag-and-evertag-premium/select-your-plan.webp" >}}
+  {{< ls-card title="" subtitle="Evertag Select Your Premium Plan Screen" image="/docs/faq/evertag/what-is-the-difference-between-evertag-and-evertag-premium/select-your-plan.webp" >}}
 {{< /cards >}}
 
 ## Partajarea Achizițiilor între iOS și Mac
@@ -79,7 +79,7 @@ Odată ce vă actualizați aplicația, veți vedea ecranul de stare Premium cu d
 Puteți face upgrade la versiunea Premium gratuit, dar pentru o perioadă limitată, folosind meniul 'Încercați premium gratuit'. Urmăriți o reclamă sau spuneți prietenilor despre această aplicație pentru a obține versiunea Premium gratuit.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evertag Try Premium For Free Screen" image="/docs/faq/evertag/what-is-the-difference-between-evertag-and-evertag-premium/try-premium-for-free.webp" >}}
+  {{< ls-card title="" subtitle="Evertag Try Premium For Free Screen" image="/docs/faq/evertag/what-is-the-difference-between-evertag-and-evertag-premium/try-premium-for-free.webp" >}}
 {{< /cards >}}
 
 ## Ce să Alegeți?

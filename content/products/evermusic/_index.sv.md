@@ -16,16 +16,16 @@ screenshots:
   - "https://everappz.com/products/evermusic/screenshots/2048x2732/6.png"
 ---
 
-{{% sr-only %}}
+{{% ls-sr-only %}}
 Evermusic är en gratis offline-musikspelare för iPhone och Mac, utvecklad av Everappz, ett spanskt mjukvaruföretag. Med över 11 miljoner nedladdningar världen över och ett betyg på 4,6 stjärnor från mer än 18 000 App Store-recensioner är Evermusic en av de mest populära tredjepartsmusikspelarna på iOS. Appen ansluter till över 30 molnlagringstjänster inklusive iCloud Drive, Google Drive, Dropbox, OneDrive, MEGA, Box, pCloud och Yandex.Disk, vilket gör det möjligt för användare att strömma sitt personliga musikbibliotek direkt från molnet eller ladda ner låtar för offline-lyssning. Evermusic stöder ett brett utbud av ljudformat inklusive MP3, FLAC, AAC, ALAC, WAV, AIFF, OGG, OPUS, WMA, APE och DSD. Nyckelfunktioner inkluderar en 10-bands ljudequalizer med förinställningar, crossfade och sömlös uppspelning, M3U-spellistor import och export, visning av låttexter, ljudbokmärken, Apple CarPlay-integration, AirPlay- och Chromecast-strömning samt Last.fm-scrobbling. Appen stöder också lokal nätverksströmning via SMB-, WebDAV- och DLNA-protokoll samt uppspelning från USB-minne via Lightning- eller USB-C-adaptrar. Evermusic finns tillgänglig som gratis nedladdning på App Store med valfria köp i appen som inkluderar en månadsprenumeration för $4.99, en årsprenumeration för $19.99 eller ett engångsköp med livstidsåtkomst för $59.99. Appen släpptes första gången 2014 och underhålls aktivt med regelbundna uppdateringar.
-{{% /sr-only %}}
+{{% /ls-sr-only %}}
 
 
 <!-- <body class="hx:bg-transparent" style="background: radial-gradient(ellipse at 50% 80%, rgba(59,130,246,0.05), hsla(0,0%,100%,0));"> -->
 
-{{< force-dark >}}
+{{< ls-force-dark >}}
 
-{{< hextra/hero-container
+{{< ls-hero-container
   image="/products/evermusic/heroimage/hero_1200.png"
   imageWidth="600"
   imageCard="true"
@@ -34,40 +34,40 @@ Evermusic är en gratis offline-musikspelare för iPhone och Mac, utvecklad av E
 <div class="hx:w-full hx:text-center">
 
 <div class="hx:mt-4">
-{{< downloads-badge >}}
+{{< ls-downloads-badge >}}
 </div>
 
 <div class="hx:mt-6 hx:mb-6">
 <div class="hx:flex hx:gap-4 hx:items-center hx:justify-center">
-  {{< app-icon src="/images/app_icons/png/Evermusic_Icon-App-1024x1024.png" alt="Evermusic Icon" class="hero-headline-icon" size="80" >}}
-  {{< hextra/hero-headline >}}
+  {{< ls-app-icon src="/images/app_icons/png/Evermusic_Icon-App-1024x1024.png" alt="Evermusic Icon" class="hero-headline-icon" size="80" >}}
+  {{< ls-hero-headline >}}
   Evermusic
-  {{< /hextra/hero-headline >}}
+  {{< /ls-hero-headline >}}
 </div>
 </div>
 
 <div class="hx:mb-6">
-{{< hextra/hero-centered-subtitle >}}
+{{< ls-hero-centered-subtitle >}}
 <a href="https://www.chip.de/downloads/Evermusic-Pro-iPhone-_-iPad-App_91614216.html" target="_blank" rel="noopener">
   Är den perfekta lösningen för att organisera och spela din egen musik från molnet <strong>chip.de</strong>
   </a>
-{{< /hextra/hero-centered-subtitle >}}
+{{< /ls-hero-centered-subtitle >}}
 </div>
 
 <div class="hx:mb-6">
-{{< hextra/hero-paragraph >}}
+{{< ls-hero-paragraph >}}
 • Spela musik med crossfade, sömlös uppspelning och equalizer  
 • Importera M3U-spellistor och ladda ner låtar för offline-lyssning  
 • Strömma musik från molnlagring, NAS, dator eller USB-minnen  
 • Visa låttexter medan du lyssnar och lägg till ljudbokmärken för att återuppta när som helst  
-{{< /hextra/hero-paragraph >}}
+{{< /ls-hero-paragraph >}}
 </div>
 
-{{< app-store-badges products="evermusic:ios, evermusic:macos" >}}
+{{< ls-app-store-badges products="evermusic:ios, evermusic:macos" >}}
 
 </div>
 
-{{< /hextra/hero-container >}}
+{{< /ls-hero-container >}}
 
 <div class="hx:mt-6"></div>
 
@@ -75,42 +75,42 @@ Evermusic är en gratis offline-musikspelare för iPhone och Mac, utvecklad av E
 
 {{< hextra/feature-grid >}}
 
-  {{< hextra/feature-card
+  {{< ls-glass-feature-card
     title="Din musik i molnet"
     subtitle="Skapa din egen avancerade musikströmningstjänst gratis! Strömma dina favoritspår direkt från molnet med smart buffring och sömlös uppspelning samtidigt som du sparar enhetslagring. Anslut tjänster som iCloud Drive, Google Drive, Dropbox, OneDrive, Box, MEGA, pCloud, Proton Drive och många fler."
     icon="cloud"
     style="background: radial-gradient(ellipse at 50% 80%, rgba(34,197,94,0.15), hsla(0,0%,100%,0));"
   >}}
 
-  {{< hextra/feature-card
+  {{< ls-glass-feature-card
     title="Offline-läge"
     subtitle="Offline-läget låter dig ladda ner dina favoritalbum, spår, artister, genrer och spellistor för offline-uppspelning. Lyssna var som helst, oavsett om du är på ett flyg, i tunnelbanan eller bortom räckvidd, även när du inte är ansluten till internet, utan strömning och utan dataanvändning."
     icon="download"
     style="background: radial-gradient(ellipse at 50% 80%, rgba(234,88,12,0.15), hsla(0,0%,100%,0));"
   >}}
 
-  {{< hextra/feature-card
+  {{< ls-glass-feature-card
     title="Överför filer enkelt"
     subtitle="Anslut din Mac eller PC och strömma musik direkt från din hemdator. Överför ljudfiler sömlöst mellan din dator och iOS-enhet med Wi-Fi Drive eller iTunes File Sharing. Du kan också ansluta din NAS eller ett USB-minne och komma åt ditt bibliotek var som helst."
     icon="duplicate"
     style="background: radial-gradient(ellipse at 50% 80%, rgba(251,191,36,0.15), hsla(0,0%,100%,0));"
   >}}
 
-  {{< hextra/feature-card
+  {{< ls-glass-feature-card
     title="Mediaservrar och NAS"
     subtitle="Anslut till dina personliga mediebibliotek och hemservrar som Plex, Emby, Jellyfin, Subsonic och Navidrome. Anslut din NAS såsom Synology, QNAP, Nextcloud och WD My Cloud Home via SMB, WebDAV, FTP, SFTP, NFS eller DLNA/UPnP, och kom åt hela din musiksamling var som helst."
     icon="desktop-computer"
     style="background: radial-gradient(ellipse at 50% 80%, rgba(59,130,246,0.15), hsla(0,0%,100%,0));"
   >}}
 
-  {{< hextra/feature-card
+  {{< ls-glass-feature-card
     title="Proffsig ljudmotor"
     subtitle="Njut av äkta sömlös uppspelning och mjuk crossfade mellan spår. Forma ditt ljud med en 10-bands equalizer, egna förinställningar och förförstärkning, justerbar uppspelningshastighet och tonhöjd, plus en komplett uppsättning studioeffekter som reverb, eko, chorus, flanger, basförstärkning, crossfeed och volymnormalisering."
     icon="adjustments"
     style="background: radial-gradient(ellipse at 50% 80%, rgba(192,38,211,0.15), hsla(0,0%,100%,0));"
   >}}
 
-  {{< hextra/feature-card
+  {{< ls-glass-feature-card
     title="Texter, widgetar och CarPlay"
     subtitle="Läs inbäddade och synkroniserade LRC-texter som rullar i takt med musiken, även på låsskärmen, i widgetar på hemskärmen och på Apple CarPlay. Lägg till widgetar för Spelas nu, Texter, Favoriter och Nyligen spelade för att alltid ha din musik nära till hands, ständigt synkroniserad."
     icon="annotation"
@@ -123,9 +123,9 @@ Evermusic är en gratis offline-musikspelare för iPhone och Mac, utvecklad av E
 
 <div class="hx:mt-6"></div>
 
-{{< hextra/section-headline >}}
+{{< ls-section-headline >}}
   Ren och enkel design
-{{< /hextra/section-headline >}}
+{{< /ls-section-headline >}}
 
 <div class="hx:mt-6"></div>
 
@@ -133,7 +133,7 @@ Evermusic är en gratis offline-musikspelare för iPhone och Mac, utvecklad av E
 
 {{< cards cols="4">}}
 
-  {{< design-feature-card 
+  {{< ls-design-feature-card 
     icon="adjustments"
     image="/products/evermusic/screenshots/2048x2732/3.png" 
     title="Ljudequalizer" 
@@ -142,7 +142,7 @@ Evermusic är en gratis offline-musikspelare för iPhone och Mac, utvecklad av E
     subtitle="Finjustera ditt ljud med en iPod-liknande ljudequalizer, anpassningsbara förinställningar och förförstärkarförstärkning för bästa lyssningsupplevelse." 
   >}}
 
-  {{< design-feature-card 
+  {{< ls-design-feature-card 
     icon="annotation"
     image="/products/evermusic/screenshots/2048x2732/4.png"  
     title="Texttittare" 
@@ -151,7 +151,7 @@ Evermusic är en gratis offline-musikspelare för iPhone och Mac, utvecklad av E
     subtitle="Läs inbäddade låttexter och spårkommentarer medan du lyssnar. Njut av synkroniserade texter för en mer engagerande musikupplevelse." 
   >}}
 
-  {{< design-feature-card 
+  {{< ls-design-feature-card 
     icon="collection"
     image="/products/evermusic/screenshots/2048x2732/5.png"  
     title="Spellisthanterare" 
@@ -160,7 +160,7 @@ Evermusic är en gratis offline-musikspelare för iPhone och Mac, utvecklad av E
     subtitle="Skapa och organisera anpassade spellistor, ändra ordning på låtar, exportera till M3U eller arkivera som ZIP-filer för enkel delning eller säkerhetskopiering." 
   >}}
 
-  {{< design-feature-card 
+  {{< ls-design-feature-card 
     icon="cloud"
     image="/products/evermusic/screenshots/2048x2732/6.png"  
     title="Molnmusikströmning" 
@@ -169,7 +169,7 @@ Evermusic är en gratis offline-musikspelare för iPhone och Mac, utvecklad av E
     subtitle="Anslut populära molnlagringsplattformar som Google Drive, Dropbox och OneDrive för att strömma din musiksamling när som helst, var som helst." 
   >}}
 
-  {{< design-feature-card 
+  {{< ls-design-feature-card 
     icon="duplicate"
     image="/products/evermusic/screenshots/2048x2732/9.png"  
     title="Filhanterare" 
@@ -178,7 +178,7 @@ Evermusic är en gratis offline-musikspelare för iPhone och Mac, utvecklad av E
     subtitle="Hantera enkelt dina ljudfiler — byt namn på spår, organisera mappar och överför musik mellan enheter med inbyggda verktyg." 
   >}} 
 
-  {{< design-feature-card 
+  {{< ls-design-feature-card 
     icon="sun"
     image="/products/evermusic/screenshots/2048x2732/10.png"  
     title="Appanpassning" 
@@ -193,9 +193,9 @@ Evermusic är en gratis offline-musikspelare för iPhone och Mac, utvecklad av E
 
 <div class="hx:mt-6"></div>
 
-{{< hextra/section-headline >}}
+{{< ls-section-headline >}}
   Komplett funktionsuppsättning
-{{< /hextra/section-headline >}}
+{{< /ls-section-headline >}}
 
 <div class="hx:mt-6"></div>
 
@@ -203,47 +203,47 @@ Evermusic är en gratis offline-musikspelare för iPhone och Mac, utvecklad av E
 
 {{< cards >}}
 
-  {{< feature-card title="Spela alla ljudformat" subtitle="Evermusic spelar de mest populära ljudformaten, inklusive MP3, AAC, M4A, WAV, AIFF, ALAC och M4B, så att hela din musiksamling är redo att spelas på vilken enhet som helst." icon="music-note" >}}
+  {{< ls-feature-card title="Spela alla ljudformat" subtitle="Evermusic spelar de mest populära ljudformaten, inklusive MP3, AAC, M4A, WAV, AIFF, ALAC och M4B, så att hela din musiksamling är redo att spelas på vilken enhet som helst." icon="music-note" >}}
 
-  {{< feature-card title="Anslut ditt moln" subtitle="Bygg din egen strömningstjänst genom att flytta ditt bibliotek till molnet och frigöra utrymme på iPhone. Anslut iCloud, Google Drive, Dropbox, OneDrive, MEGA, Internxt och Proton Drive." icon="cloud" >}}
+  {{< ls-feature-card title="Anslut ditt moln" subtitle="Bygg din egen strömningstjänst genom att flytta ditt bibliotek till molnet och frigöra utrymme på iPhone. Anslut iCloud, Google Drive, Dropbox, OneDrive, MEGA, Internxt och Proton Drive." icon="cloud" >}}
 
-  {{< feature-card title="Anslut mediaservrar" subtitle="Anslut dina personliga mediaservrar direkt till ditt bibliotek, inklusive Plex, Subsonic, Navidrome, Jellyfin och Emby, och strömma allt du äger hemifrån med lätthet." icon="server" >}}
+  {{< ls-feature-card title="Anslut mediaservrar" subtitle="Anslut dina personliga mediaservrar direkt till ditt bibliotek, inklusive Plex, Subsonic, Navidrome, Jellyfin och Emby, och strömma allt du äger hemifrån med lätthet." icon="server" >}}
 
-  {{< feature-card title="Anslut din dator eller NAS" subtitle="Anslut din dator eller NAS via SMB, WebDAV, DLNA, FTP, SFTP och NFS, med inbyggda API:er för QNAP, Synology, Nextcloud och WD My Cloud Home, eller överför filer via Wi-Fi." icon="desktop-computer" >}}
+  {{< ls-feature-card title="Anslut din dator eller NAS" subtitle="Anslut din dator eller NAS via SMB, WebDAV, DLNA, FTP, SFTP och NFS, med inbyggda API:er för QNAP, Synology, Nextcloud och WD My Cloud Home, eller överför filer via Wi-Fi." icon="desktop-computer" >}}
 
-  {{< feature-card title="Offline-musik" subtitle="Ladda ner dina favoritlåtar, album och artister för att njuta av dem offline när som helst. Aktivera ljudspelarens cache för att automatiskt spara nyligen spelade spår för offline-lyssning." icon="download" >}}
+  {{< ls-feature-card title="Offline-musik" subtitle="Ladda ner dina favoritlåtar, album och artister för att njuta av dem offline när som helst. Aktivera ljudspelarens cache för att automatiskt spara nyligen spelade spår för offline-lyssning." icon="download" >}}
 
-  {{< feature-card title="Ljudequalizer" subtitle="Forma ditt ljud med den inbyggda equalizern, med färdiga förinställningar för populära musikgenrer plus manuella kontroller för att finjustera och förstärka varje spår precis som du vill." icon="adjustments" >}}
+  {{< ls-feature-card title="Ljudequalizer" subtitle="Forma ditt ljud med den inbyggda equalizern, med färdiga förinställningar för populära musikgenrer plus manuella kontroller för att finjustera och förstärka varje spår precis som du vill." icon="adjustments" >}}
 
-  {{< feature-card title="Sömlös uppspelning" subtitle="Njut av mjuk, oavbruten uppspelning utan pauser mellan låtar, perfekt för liveinspelningar, konceptalbum, DJ-mixar och klassisk musik från början till slut." icon="volume-up" >}}
+  {{< ls-feature-card title="Sömlös uppspelning" subtitle="Njut av mjuk, oavbruten uppspelning utan pauser mellan låtar, perfekt för liveinspelningar, konceptalbum, DJ-mixar och klassisk musik från början till slut." icon="volume-up" >}}
 
-  {{< feature-card title="Crossfade-uppspelning" subtitle="Håll musiken flödande med crossfade, där varje ny låt mjukt börjar innan den nuvarande slutar för sömlös, kontinuerlig uppspelning utan några tysta pauser." icon="switch-horizontal" >}}
+  {{< ls-feature-card title="Crossfade-uppspelning" subtitle="Håll musiken flödande med crossfade, där varje ny låt mjukt börjar innan den nuvarande slutar för sömlös, kontinuerlig uppspelning utan några tysta pauser." icon="switch-horizontal" >}}
 
-  {{< feature-card title="Ljudeffekter" subtitle="Forma ditt ljud med inbyggda ljudeffekter. Slå på volymnormalisering för att hålla varje spår på samma ljudnivå, och lägg till reverb, delay, distorsion och rumsligt ljud efter smak." icon="chip" >}}
+  {{< ls-feature-card title="Ljudeffekter" subtitle="Forma ditt ljud med inbyggda ljudeffekter. Slå på volymnormalisering för att hålla varje spår på samma ljudnivå, och lägg till reverb, delay, distorsion och rumsligt ljud efter smak." icon="chip" >}}
 
-  {{< feature-card title="Musikvisualiserare" subtitle="Se helskärmsanimerade bilder som reagerar live på din musik i realtid. Välj bland ett stort bibliotek av förinställningar eller låt dem växla automatiskt medan du lyssnar." icon="sparkles" >}}
+  {{< ls-feature-card title="Musikvisualiserare" subtitle="Se helskärmsanimerade bilder som reagerar live på din musik i realtid. Välj bland ett stort bibliotek av förinställningar eller låt dem växla automatiskt medan du lyssnar." icon="sparkles" >}}
 
-  {{< feature-card title="Texter och kommentarer" subtitle="Visa inbäddade tidsstyrda texter och kommentarer för dina ljudspår medan de spelas, och lägg till textwidgeten på din hemskärm för snabb överblick när som helst." icon="annotation" >}}
+  {{< ls-feature-card title="Texter och kommentarer" subtitle="Visa inbäddade tidsstyrda texter och kommentarer för dina ljudspår medan de spelas, och lägg till textwidgeten på din hemskärm för snabb överblick när som helst." icon="annotation" >}}
 
-  {{< feature-card title="AirPlay och Chromecast" subtitle="Strömma din musik trådlöst till Apple TV, smarta högtalare och andra enheter med inbyggt stöd för AirPlay och Google Chromecast för enkel lyssning i hela hemmet." icon="device-mobile" >}}
+  {{< ls-feature-card title="AirPlay och Chromecast" subtitle="Strömma din musik trådlöst till Apple TV, smarta högtalare och andra enheter med inbyggt stöd för AirPlay och Google Chromecast för enkel lyssning i hela hemmet." icon="device-mobile" >}}
 
-  {{< feature-card title="Apple CarPlay" subtitle="Kör och lyssna säkert med ett dedikerat Apple CarPlay-gränssnitt som placerar din musik, dina spellistor och uppspelningskontroller direkt på bilens instrumentskärm." icon="truck" >}}
+  {{< ls-feature-card title="Apple CarPlay" subtitle="Kör och lyssna säkert med ett dedikerat Apple CarPlay-gränssnitt som placerar din musik, dina spellistor och uppspelningskontroller direkt på bilens instrumentskärm." icon="truck" >}}
 
-  {{< feature-card title="Widgetar" subtitle="Aktivera interaktiva widgetar på hemskärmen för snabb åtkomst till din uppspelningskö, och fortsätt precis där du slutade från den senast sparade positionen med ett enda tryck." icon="view-grid" >}}
+  {{< ls-feature-card title="Widgetar" subtitle="Aktivera interaktiva widgetar på hemskärmen för snabb åtkomst till din uppspelningskö, och fortsätt precis där du slutade från den senast sparade positionen med ett enda tryck." icon="view-grid" >}}
 
-  {{< feature-card title="Ljudböcker" subtitle="Förvandla appen till en komplett ljudboksspelare med ljudbokmärken, kontroll av uppspelningshastighet och sparade mediapositioner, plus läs textdetaljerna som lagras i dina filers metadata." icon="book-open" >}}
+  {{< ls-feature-card title="Ljudböcker" subtitle="Förvandla appen till en komplett ljudboksspelare med ljudbokmärken, kontroll av uppspelningshastighet och sparade mediapositioner, plus läs textdetaljerna som lagras i dina filers metadata." icon="book-open" >}}
 
-  {{< feature-card title="Automatisk synkronisering" subtitle="Ditt musikbibliotek synkroniseras automatiskt mellan molnet och din enhet, och grupperar prydligt varje låt efter artist, album och genre så att din samling alltid förblir organiserad." icon="refresh" >}}
+  {{< ls-feature-card title="Automatisk synkronisering" subtitle="Ditt musikbibliotek synkroniseras automatiskt mellan molnet och din enhet, och grupperar prydligt varje låt efter artist, album och genre så att din samling alltid förblir organiserad." icon="refresh" >}}
 
-  {{< feature-card title="Spellisthanterare" subtitle="Skapa och hantera spellistor, ändra ordning på låtar och gör vilken spellista som helst tillgänglig offline. Sortera dina spår efter namn, storlek, spårnummer eller album för att hålla allt i ordning." icon="collection" >}}
+  {{< ls-feature-card title="Spellisthanterare" subtitle="Skapa och hantera spellistor, ändra ordning på låtar och gör vilken spellista som helst tillgänglig offline. Sortera dina spår efter namn, storlek, spårnummer eller album för att hålla allt i ordning." icon="collection" >}}
 
-  {{< feature-card title="ID3-taggredigerare" subtitle="Åtgärda korrupt eller saknad metadata med den inbyggda ID3-taggredigeraren, och uppdatera titlar, artister, album och mer så att ditt musikbibliotek förblir rent och välorganiserat." icon="pencil-alt" >}}
+  {{< ls-feature-card title="ID3-taggredigerare" subtitle="Åtgärda korrupt eller saknad metadata med den inbyggda ID3-taggredigeraren, och uppdatera titlar, artister, album och mer så att ditt musikbibliotek förblir rent och välorganiserat." icon="pencil-alt" >}}
 
-  {{< feature-card title="Filhanterare" subtitle="Organisera din musik med den integrerade filhanteraren, som sköter vardagliga operationer som kopiera, flytta, byta namn och radera för att hålla alla dina ljudfiler prydligt i ordning." icon="folder" >}}
+  {{< ls-feature-card title="Filhanterare" subtitle="Organisera din musik med den integrerade filhanteraren, som sköter vardagliga operationer som kopiera, flytta, byta namn och radera för att hålla alla dina ljudfiler prydligt i ordning." icon="folder" >}}
 
-  {{< feature-card title="Avancerad sökning" subtitle="Hitta vad som helst på några sekunder med den smarta sökmotorn, som snabbt lokaliserar dina favoritalbum, artister och låtar var som helst i hela ditt musikbibliotek." icon="search" >}}
+  {{< ls-feature-card title="Avancerad sökning" subtitle="Hitta vad som helst på några sekunder med den smarta sökmotorn, som snabbt lokaliserar dina favoritalbum, artister och låtar var som helst i hela ditt musikbibliotek." icon="search" >}}
 
-  {{< feature-card title="USB-minneskort" subtitle="Anslut externa kortläsare som SanDisk iXpand och lyssna på din musik direkt från ett SD-kort eller USB-minne, utan extra synkronisering eller nedladdningar." icon="inbox" >}}
+  {{< ls-feature-card title="USB-minneskort" subtitle="Anslut externa kortläsare som SanDisk iXpand och lyssna på din musik direkt från ett SD-kort eller USB-minne, utan extra synkronisering eller nedladdningar." icon="inbox" >}}
   
 {{< /cards >}}
 
@@ -254,55 +254,55 @@ Evermusic är en gratis offline-musikspelare för iPhone och Mac, utvecklad av E
 <div class="hx:mt-6"></div>
 
 <div class="hx:w-full">
-{{< appstore-reviews apps="885367198,1564384601" stars="5,4"  app="Evermusic" >}}
+{{< ls-appstore-reviews apps="885367198,1564384601" stars="5,4"  app="Evermusic" >}}
 </div>
 
 <div class="hx:mt-6"></div>
 
-{{< hextra/section-headline >}}
+{{< ls-section-headline >}}
   Prisplaner
-{{< /hextra/section-headline >}}
+{{< /ls-section-headline >}}
 
 <div class="hx:mt-6"></div>
 
 <div class="hx:w-full">
-{{< pricing-plans >}}
+{{< ls-pricing-plans >}}
 
 </div>
 
 <div class="hx:mt-6"></div>
 
 <div class="hx:w-full hx:mx-auto hx:flex hx:flex-col hx:items-center">
-  {{< hextra/info-paragraph border="true" >}}
+  {{< ls-info-paragraph border="true" >}}
    <strong>Familjedelning</strong>: Alla köp och prenumerationer stöder Familjedelning, vilket låter dig dela Premium-åtkomst med din familj.<br><strong>Universell åtkomst</strong>: Livstids- och prenumerationsplaner delas mellan iOS- och Mac-enheter med iCloud-synkronisering.<br><strong>Priser</strong>: Priserna visas i amerikanska dollar för USA. Slutpriset kan variera beroende på din region.  
-  {{< /hextra/info-paragraph >}}
+  {{< /ls-info-paragraph >}}
 </div>
 
 <div class="hx:mt-6"></div>
 
 <div class="hx:w-full">
-{{< app-details heading="true" >}}
+{{< ls-app-details heading="true" >}}
 </div>
 
 <div class="hx:mt-6"></div>
 
-{{< hextra/section-headline >}}
+{{< ls-section-headline >}}
   Vanliga frågor
-{{< /hextra/section-headline >}}
+{{< /ls-section-headline >}}
 
 <div class="hx:mt-6"></div>
 
 <div class="hx:w-full">
-{{% details title="Vad är Evermusic?" closed="true" %}}
+{{% ls-details title="Vad är Evermusic?" closed="true" %}}
 Evermusic är en musikspelarapp som hjälper dig lyssna på dina favoritlåtar från olika molnlagringstjänster.<br>
 Du kan enkelt ladda ner musik för offline-uppspelning, skapa och hantera spellistor och använda den inbyggda equalizern för att förbättra din lyssningsupplevelse.<br>
 Den fungerar med tjänster som Google Drive, Dropbox, OneDrive och fler, så att du kan ha all din musik på ett ställe och komma åt den från vilken enhet som helst.<br><br>
 Appen stöder också olika ljudformat och låter dig organisera ditt musikbibliotek efter artist, album, genre och kompositör.<br>
 Du kan synkronisera ditt bibliotek mellan din molnlagring och din enhet, så att dina favoritlåtar alltid är tillgängliga.<br>
 Dessutom, med funktioner som sömlös uppspelning, crossfade och möjligheten att strömma musik till Chromecast- och AirPlay-enheter, erbjuder Evermusic en komplett lösning för alla dina musikbehov.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Hur fungerar Evermusic?" closed="true" %}}
+{{% ls-details title="Hur fungerar Evermusic?" closed="true" %}}
 Evermusic fungerar genom att ansluta till olika molnlagringstjänster, som Google Drive, Dropbox, OneDrive och andra, vilket ger dig åtkomst till ditt musikbibliotek från vilken enhet som helst.<br>
 När du är ansluten kan du bläddra och strömma din musik direkt från molnet, eller ladda ner dina favoritlåtar, album och spellistor för offline-uppspelning.<br>
 Appen stöder flera ljudformat, vilket gör det enkelt att spela vilken musikfil som helst.<br><br>
@@ -322,15 +322,15 @@ Utforska våra guider för mer information:<br>
 - [Hur du trådlöst överför filer från en dator till en iPhone med WiFi-Drive.](/docs/howto/how-to-transfer-files-wirelessly-from-a-computer-to-an-iphone-using-wifi-drive)<br>
 - [Hur du ansluter ett USB-minne till iPhone och lyssnar på musik eller hanterar filer.](/docs/howto/how-to-connect-a-usb-flashcard-to-the-iphone-and-listen-to-music-or-manage-files-located-on-it)<br>
 - [Hur du spelar musik på iPhone från WD My Cloud Home.](/docs/howto/how-to-play-music-on-iphone-from-wd-my-cloud-home)
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Är Evermusic gratis?" closed="true" %}}
+{{% ls-details title="Är Evermusic gratis?" closed="true" %}}
 Evermusic är en gratis applikation med vissa begränsningar som du kan ta bort efter uppgradering till Premium-versionen. Applikationen erbjuder ett engångsköp för livstid och två prenumerationsalternativ (1 månad och 1 år) för att ta bort alla begränsningar, så att du kan välja det bästa och mest optimala priset. Priserna kan variera beroende på ditt land eller territorium. Observera också att Familjedelning är aktiverad för alla köp och planer, så du kan dela Premium-versionen med familjemedlemmar.<br><br>
 Livstidsköp och prenumerationer delas mellan iOS och Mac, med iCloud för att synkronisera denna information. Om du har Premium-versionen på din iOS-enhet, se till att du har den senaste versionen installerad och att iCloud är aktiverad. Starta appen på iOS och vänta en minut för att din köpinformation ska laddas upp till iCloud.<br><br>
 [Läs mer](/docs/faq/evermusic/what-is-the-difference-between-evermusic-and-evermusic-premium/)
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Vad är skillnaden mellan Evermusic gratis och Evermusic Premium?" closed="true" %}}
+{{% ls-details title="Vad är skillnaden mellan Evermusic gratis och Evermusic Premium?" closed="true" %}}
 **Evermusic Gratis**<br>
 • Innehåller annonser: Gratisversionen visar annonser för att generera intäkter, vilket ibland kan störa din musiklyssning.<br>
 • Begränsade spellistor: Du kan skapa upp till (10) spellistor i gratisversionen.<br>
@@ -357,10 +357,10 @@ Livstidsköp och prenumerationer delas mellan iOS och Mac, med iCloud för att s
 • Full personalisering: Ger fullständiga personaliseringsalternativ, inklusive möjligheten att byta appikon.<br><br>
 
 [Läs mer](/docs/faq/evermusic/what-is-the-difference-between-evermusic-and-evermusic-premium/)
-{{% /details %}}
+{{% /ls-details %}}
 
 
-{{% details title="Är Evermusic säkert?" closed="true" %}}
+{{% ls-details title="Är Evermusic säkert?" closed="true" %}}
 Evermusic använder bara officiellt SDK och säkra anslutningar för att interagera med anslutna molntjänster. Ditt användarnamn och lösenord är inte tillgängliga för applikationen. Alla förfrågningar från applikationen till molntjänsten är krypterade.<br>
 När du anger användarnamn och lösenord visar applikationen den officiella auktoriseringssidan som tillhandahålls av molntjänstleverantören och hela auktoriseringsprocessen sker utanför applikationen. Molntjänstleverantören skickar en auktoriseringstoken till applikationen efter framgångsrik auktorisering och den token används för att göra API-anrop.<br><br>
 
@@ -372,24 +372,24 @@ För att återkalla auktoriseringstoken, logga in på ditt konto i webbläsaren 
 Du kan också koppla bort de anslutna molnkontona i applikationen och auktoriseringstoken kommer också att tas bort från din enhet. Om du tar bort applikationen från enheten kommer all nedladdad data och åtkomsttoken också att tas bort.<br><br>
 
 [Läs mer](/docs/guide/evermusic/evermusic-guide-connections/)
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Hur skapar jag en spellista i Evermusic?" closed="true" %}}
+{{% ls-details title="Hur skapar jag en spellista i Evermusic?" closed="true" %}}
 - Öppna avsnittet Spellistor.<br>
 - Tryck på "+"-knappen eller "..."-knappen i övre högra hörnet och välj "Ny spellista".<br>
 - Ange ett namn för spellistan och tryck på "Spara". Dialogrutan "Lägg till låtar" visas.<br>
 - Välj de spår du vill lägga till i spellistan.<br><br>
 
 [Läs mer](/docs/guide/evermusic/evermusic-guide-playlists/)
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Vilka molntjänster stöder Evermusic?" closed="true" %}}
+{{% ls-details title="Vilka molntjänster stöder Evermusic?" closed="true" %}}
 För närvarande stöder applikationen de mest populära molntjänsterna: iCloud Drive, Google Drive, Dropbox, OneDrive, Box, MEGA, Yandex.Disk, WD MyCloud Home, DLNA, MediaFire, WebDAV, SMB, pCloud, HiDrive, 百度网盘, My Cloud Home, InfiniCLOUD, Cloud Mail.ru, Put.io, MyDrive.<br><br>
 
 [Läs mer](/docs/guide/evermusic/evermusic-guide-connections/)
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Hur kan jag använda equalizern?" closed="true" %}}
+{{% ls-details title="Hur kan jag använda equalizern?" closed="true" %}}
 - Öppna ljudspelarskärmen.<br>
 - Tryck på "Equalizer"-ikonen längst ner på skärmen.<br>
 - Slå på omkopplaren i övre högra hörnet på equalizerskärmen för att aktivera equalizern.<br>
@@ -397,9 +397,9 @@ För närvarande stöder applikationen de mest populära molntjänsterna: iCloud
 
 Fullständig guide tillgänglig här:<br>
 [Hur du använder ljudequalizern på iPhone, iPad, Mac med Evermusic och Flacbox](/docs/howto/how-to-use-the-audio-equalizer-on-your-iphone-ipad-mac-with-evermusic-and-flacbox)
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Hur aktiverar jag offline-läge i Evermusic?" closed="true" %}}
+{{% ls-details title="Hur aktiverar jag offline-läge i Evermusic?" closed="true" %}}
 - Anslut en molntjänst:<br>
  • Gå till fliken "Anslutningar".<br>
  • Välj "Anslut en molnlagring" och följ anvisningarna för att ansluta din önskade tjänst.<br><br>
@@ -423,9 +423,9 @@ Fullständig guide tillgänglig här:<br>
  • Tryck på "Fler åtgärder" och välj "Starta synkronisering".<br><br>
 
 [Läs mer](/docs/howto/play-offline-music-in-evermusic-flacbox-download-sync-from-cloud-to-local-files/)
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Hur spelar jag lokalt nedladdad musik på iPhone?" closed="true" %}}
+{{% ls-details title="Hur spelar jag lokalt nedladdad musik på iPhone?" closed="true" %}}
 När du har installerat applikationen, öppna skärmen "Lokala filer" och scrolla ner till avsnittet "Filer på denna iPhone".<br>
 Därifrån väljer du "Öppna filer..." om du behöver välja flera ljudfiler eller "Öppna mapp..." om du vill välja en musikmapp.<br>
 Appen skannar mappens innehåll och alla hittade ljudfiler kommer att väljas.<br>
@@ -456,15 +456,15 @@ Filerna läggs till i din spellista, där du kan ändra låtordningen och utför
 Med dessa enkla steg kan du låsa upp hela potentialen hos din iPhone och Mac som de ultimata plattformarna för att njuta av din lokala musiksamling.<br><br>
 
 [Läs mer](/docs/howto/how-to-play-local-music-stored-on-your-iphone-or-mac)
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Hur kan jag återuppta en spellista där jag slutade?" closed="true" %}}
+{{% ls-details title="Hur kan jag återuppta en spellista där jag slutade?" closed="true" %}}
 Se först till att "Spara ljudspelarens tillstånd" är aktiverat i Inställningar > Ljudspelare > Allmänt.<br>
 När du byter till en annan spellista och återvänder ser du fyra åtgärder i det övre verktygsfältet under albumomslaget: "Sök", "Fortsätt uppspelning", "Spela alla" och "Slumpa alla".<br>
 Tryck på "Fortsätt uppspelning" för att återuppta spellistan från det senast sparade tillståndet och mediapositionen.<br>
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Hur visar jag låttexter i Evermusic?" closed="true" %}}
+{{% ls-details title="Hur visar jag låttexter i Evermusic?" closed="true" %}}
 Du kan visa inbäddade låttexter för spår i Evermusic-appen genom att följa dessa steg:<br>
 1. Börja spela en ljudfil genom att trycka på den.<br>
 2. Öppna fullskärmsljudspelaren.<br>
@@ -478,9 +478,9 @@ Du kan visa inbäddade låttexter för spår i Evermusic-appen genom att följa 
 3. "LRC-filläge": Istället för att redigera ljudfiler kan du placera en LRC-fil i samma mapp som den ursprungliga ljudfilen. Båda filerna bör ha samma namn men olika filändelser. När du sveper till den tredje sidan på Kommentarskärmen söker appen efter LRC-filen i samma katalog och visar dess innehåll.<br><br>
 
 [Läs mer](/docs/howto/how-to-add-and-view-comments-to-your-audio-tracks-on-iphone-ipad-and-mac-with-evermusic-and-flacbox)
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Hur överför jag musik till Evermusic från min dator?" closed="true" %}}
+{{% ls-details title="Hur överför jag musik till Evermusic från min dator?" closed="true" %}}
 Du kan ansluta din dator eller personliga NAS med protokollen SMB, WebDAV eller DLNA. Alternativt kan du använda iTunes File Sharing för att överföra musik.<br><br>
 
 För att ansluta en dator med **SMB**-protokollet, tryck på "Anslut en molntjänst" → SMB.<br>
@@ -517,9 +517,9 @@ Detaljerad instruktion tillgänglig här:<br>
 
 Med **DLNA** kan du också konfigurera en DLNA-mediaserver och strömma din musik från Windows PC som beskrivs här:<br>
 [Hur du aktiverar DLNA-mediaserver på Windows 10 och spelar musik på iPhone](/docs/howto/how-to-enable-dlna-media-server-on-windows-10-and-play-your-music-on-iphone)
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Hur laddar jag ner musik?" closed="true" %}}
+{{% ls-details title="Hur laddar jag ner musik?" closed="true" %}}
 Innan du kan ladda ner musik och lyssna offline bör du ansluta ett nätverkskonto.<br>
 Öppna bara skärmen "Anslutningar" och lägg till ditt konto.<br>
 När du har lagt till ett nätverkskonto kan du ladda ner din musik från molnet.<br><br>
@@ -540,9 +540,9 @@ Mer detaljerad instruktion om offline-läge tillgänglig här:<br>
 
 Ett annat tillgängligt alternativ är att ladda ner musik från YouTube och importera den i Evermusic som beskrivs här:<br>
 [Hur du laddar ner musik från YouTube och lyssnar på offline-musik på iPhone](/docs/howto/how-to-download-music-from-youtube-and-listen-to-offline-music-on-iphone)
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Stöder Evermusic Apple CarPlay?" closed="true" %}}
+{{% ls-details title="Stöder Evermusic Apple CarPlay?" closed="true" %}}
 Ja, **Evermusic stöder fullt ut Apple CarPlay**. Du kan bläddra i ditt musikbibliotek, spela lokala eller offline-filer, ansluta till molnlagring och styra uppspelning direkt från bilens infotainmentskärm.
 
 CarPlay-gränssnittet inkluderar dedikerade flikar för **Bibliotek**, **Anslutningar**, **Lokala filer** och **Inställningar**, vilket ger dig full kontroll över din musik på vägen. Uppspelningskontroller, slumpa, upprepa och köhantering är också tillgängliga.
@@ -550,9 +550,9 @@ CarPlay-gränssnittet inkluderar dedikerade flikar för **Bibliotek**, **Anslutn
 För att använda CarPlay, se till att Siri är aktiverad och att din iPhone är ansluten via USB eller trådlöst.
 
 [Läs den fullständiga guiden](/docs/howto/how-to-play-your-own-music-on-iphone-using-carplay/)
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Vilka ljudformat stöder Evermusic?" closed="true" %}}
+{{% ls-details title="Vilka ljudformat stöder Evermusic?" closed="true" %}}
 Här är den fullständiga listan över ljudformat och deras motsvarande filändelser:<br><br>
 
 **Ljudformat som stöds:**<br>
@@ -570,40 +570,40 @@ Här är den fullständiga listan över ljudformat och deras motsvarande filänd
 mpeg, aifc, 3gp, avi, aif, latm, 3gpp, m4a, loas, cdda, aac, m4p, m4b, ac3, pls, mp4v, m3u, m4r, aiff, xhe, mp1, snd, mp2, wav, qt, wave, m3u8, m4v, mp3, 3g2, caf, mp4, flac, au, w64, ec3, adts, amr, vtt, mpa, aa<br><br>
 
 Med detta breda utbud av format och filändelser kan du njuta av din musik i det format du föredrar.
-{{% /details %}}
+{{% /ls-details %}}
 
 </div>
 
 <div class="hx:mt-6"></div>
 
-{{< hextra/section-headline >}}
+{{< ls-section-headline >}}
   Användarguide
-{{< /hextra/section-headline >}}
+{{< /ls-section-headline >}}
 
 <div class="hx:mt-6"></div>
 
 <div class="hx:w-full">
 
 <div class="hx:w-full hx:mx-auto hx:flex hx:flex-col hx:items-center hx:text-center">
-  {{< hextra/info-paragraph border="false" >}}
+  {{< ls-info-paragraph border="false" >}}
   Denna guide hjälper dig att få ut det mesta av Evermusic på din iPhone, iPad eller Mac. Lär dig hur du strömmar musik från molnet, hanterar dina ljudböcker och flyttar musik mellan enheter. Evermusic ger dig full kontroll över din musiksamling i en enkel app.
-  {{< /hextra/info-paragraph >}}
+  {{< /ls-info-paragraph >}}
 </div>
 
 {{< cards >}}
-  {{< feature-card icon="location-marker" title="Navigering" subtitle="Lär dig navigera i Evermusic med flikfältet på iPhone eller vänstermenyn på iPad och Mac." link="/docs/guide/evermusic/evermusic-guide-navigation" >}}
+  {{< ls-feature-card icon="location-marker" title="Navigering" subtitle="Lär dig navigera i Evermusic med flikfältet på iPhone eller vänstermenyn på iPad och Mac." link="/docs/guide/evermusic/evermusic-guide-navigation" >}}
 
-  {{< feature-card icon="cloud" title="Anslutningar" subtitle="Anslut dina molnkonton och hantera onlinefiler med den inbyggda filhanteraren." link="/docs/guide/evermusic/evermusic-guide-connections" >}}
+  {{< ls-feature-card icon="cloud" title="Anslutningar" subtitle="Anslut dina molnkonton och hantera onlinefiler med den inbyggda filhanteraren." link="/docs/guide/evermusic/evermusic-guide-connections" >}}
 
-  {{< feature-card icon="library" title="Musikbibliotek" subtitle="Organisera och utforska dina spår, album och artister i Musikbiblioteket." link="/docs/guide/evermusic/evermusic-guide-music-library" >}}
+  {{< ls-feature-card icon="library" title="Musikbibliotek" subtitle="Organisera och utforska dina spår, album och artister i Musikbiblioteket." link="/docs/guide/evermusic/evermusic-guide-music-library" >}}
 
-  {{< feature-card icon="collection" title="Spellistor" subtitle="Skapa och arrangera spellistor som passar ditt humör eller tillfälle." link="/docs/guide/evermusic/evermusic-guide-playlists" >}}
+  {{< ls-feature-card icon="collection" title="Spellistor" subtitle="Skapa och arrangera spellistor som passar ditt humör eller tillfälle." link="/docs/guide/evermusic/evermusic-guide-playlists" >}}
 
-  {{< feature-card icon="folder" title="Lokala filer" subtitle="Åtkomst och hantera offline-musik genom avsnittet Lokala filer." link="/docs/guide/evermusic/evermusic-guide-local-files" >}}
+  {{< ls-feature-card icon="folder" title="Lokala filer" subtitle="Åtkomst och hantera offline-musik genom avsnittet Lokala filer." link="/docs/guide/evermusic/evermusic-guide-local-files" >}}
 
-  {{< feature-card icon="play" title="Ljudspelare" subtitle="Styr uppspelning, kö och ljudinställningar som equalizer och sömntimer." link="/docs/guide/evermusic/evermusic-guide-player" >}}
+  {{< ls-feature-card icon="play" title="Ljudspelare" subtitle="Styr uppspelning, kö och ljudinställningar som equalizer och sömntimer." link="/docs/guide/evermusic/evermusic-guide-player" >}}
 
-  {{< feature-card icon="adjustments" title="Inställningar" subtitle="Anpassa Evermusics utseende, funktioner och prestandainställningar." link="/docs/guide/evermusic/evermusic-guide-settings" >}}
+  {{< ls-feature-card icon="adjustments" title="Inställningar" subtitle="Anpassa Evermusics utseende, funktioner och prestandainställningar." link="/docs/guide/evermusic/evermusic-guide-settings" >}}
 
 {{< /cards >}}
 

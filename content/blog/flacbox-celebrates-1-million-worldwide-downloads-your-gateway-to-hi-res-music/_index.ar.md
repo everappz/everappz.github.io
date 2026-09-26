@@ -12,7 +12,7 @@ authors:
     image: "/images/about/artem-meleshko-founder-everappz.webp"
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 **ملخص:** تجاوز Flacbox مليون تحميل حول العالم. يدعم FLAC وALAC وAPE وDSD وصيغ أخرى بلا فقدان مع معادل صوت 10 نطاقات وقوائم M3U/CUE وتشغيل بدون إنترنت ومزامنة عبر الأجهزة على iPhone وiPad وMac.
 
@@ -78,26 +78,26 @@ authors:
 
 ## الأسئلة الشائعة
 
-{{% details title="ما صيغ الصوت التي يدعمها Flacbox؟" closed="true" %}}
+{{% ls-details title="ما صيغ الصوت التي يدعمها Flacbox؟" closed="true" %}}
 يشغل Flacbox صيغ FLAC وALAC وAPE وDSD وWavPack وTTA وRealAudio وMP3 وAAC وOGG والعديد من الصيغ الأخرى. صُمم بشكل أساسي للصوت بلا فقدان وعالي الدقة.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="هل يحتوي Flacbox على معادل صوت؟" closed="true" %}}
+{{% ls-details title="هل يحتوي Flacbox على معادل صوت؟" closed="true" %}}
 نعم. يتضمن Flacbox معادل صوت بـ 10 نطاقات مع إعدادات مسبقة حسب النوع وضبط يدوي للتردد.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="هل يمكنني الاستماع للموسيقى بدون إنترنت مع Flacbox؟" closed="true" %}}
+{{% ls-details title="هل يمكنني الاستماع للموسيقى بدون إنترنت مع Flacbox؟" closed="true" %}}
 نعم. حمّل الملفات من التخزين السحابي أو انقلها مباشرة إلى التطبيق للتشغيل بدون اتصال بالإنترنت.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="هل يعمل Flacbox على Mac؟" closed="true" %}}
+{{% ls-details title="هل يعمل Flacbox على Mac؟" closed="true" %}}
 نعم. يعمل Flacbox على iPhone وiPad وMac مع مكتبات وسجلات تشغيل متزامنة عبر جميع الأجهزة.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="ما هو دعم ملفات CUE؟" closed="true" %}}
+{{% ls-details title="ما هو دعم ملفات CUE؟" closed="true" %}}
 تحدد ملفات CUE حدود المسارات ضمن ملف صوتي واحد. يقرأ Flacbox ملفات CUE لتقسيم تسجيلات الألبومات إلى مسارات فردية مع بيانات وصفية صحيحة.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="هل Flacbox مجاني؟" closed="true" %}}
+{{% ls-details title="هل Flacbox مجاني؟" closed="true" %}}
 Flacbox مجاني للتحميل مع ميزات متميزة اختيارية متاحة من خلال الشراء داخل التطبيق.
-{{% /details %}}
+{{% /ls-details %}}

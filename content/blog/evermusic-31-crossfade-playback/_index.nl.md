@@ -12,7 +12,7 @@ authors:
     image: "/images/about/artem-meleshko-founder-everappz.webp"
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 ## Evermusic 3.1: wat is er veranderd en waarom het belangrijk is
 
@@ -89,22 +89,22 @@ De **Audio Tags Editor** verwerkt metadatacorrectie nu betrouwbaarder:
 
 ## Veelgestelde vragen
 
-{{% details title="Wat is crossfade-weergave in Evermusic?" closed="true" %}}
+{{% ls-details title="Wat is crossfade-weergave in Evermusic?" closed="true" %}}
 Crossfade-weergave laat het einde van het ene nummer overlopen in het begin van het volgende, waardoor naadloze overgangen ontstaan. Je kunt de duur instellen tussen 3 en 15 seconden in Settings → Audio Player → Crossfade Playback.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Kan ik mijn Evermusic-afspeellijsten back-uppen naar cloudopslag?" closed="true" %}}
+{{% ls-details title="Kan ik mijn Evermusic-afspeellijsten back-uppen naar cloudopslag?" closed="true" %}}
 Ja. Met Evermusic 3.1 kun je je hele bibliotheek back-uppen — inclusief afspeellijsten, metadata, albumhoezen en instellingen — naar elke verbonden clouddienst als één bestand.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Ondersteunt Evermusic iPod-bibliotheekbrowsing?" closed="true" %}}
+{{% ls-details title="Ondersteunt Evermusic iPod-bibliotheekbrowsing?" closed="true" %}}
 Ja. Je kunt je iPod-bibliotheek doorzoeken op afspeellijsten, albums, artiesten en genres rechtstreeks vanuit het Evermusic-startscherm en nummers toevoegen aan je wachtrij.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Hoe repareer ik onjuiste liedtags in Evermusic?" closed="true" %}}
+{{% ls-details title="Hoe repareer ik onjuiste liedtags in Evermusic?" closed="true" %}}
 Gebruik de ingebouwde tag-editor en tik op de actie Identify. Evermusic scant je bestandsnamen en werkt ID3-tags automatisch bij met gecorrigeerde metadata.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Welke clouddiensten ondersteunt Evermusic?" closed="true" %}}
+{{% ls-details title="Welke clouddiensten ondersteunt Evermusic?" closed="true" %}}
 Evermusic werkt met Dropbox, Google Drive, OneDrive, MEGA, Box, Yandex.Disk, WebDAV, SMB/CIFS en FTP-servers.
-{{% /details %}}
+{{% /ls-details %}}

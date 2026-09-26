@@ -12,7 +12,7 @@ authors:
     image: "/images/about/artem-meleshko-founder-everappz.webp"
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 ## 3 ملايين تحميل
 
@@ -98,22 +98,22 @@ Evermusic مجاني على App Store مع ميزات متميزة اختيار�
 
 ## الأسئلة الشائعة
 
-{{% details title="هل Evermusic مجاني الاستخدام؟" closed="true" %}}
+{{% ls-details title="هل Evermusic مجاني الاستخدام؟" closed="true" %}}
 نعم. Evermusic مجاني للتحميل مع توفر الميزات الأساسية بدون تكلفة. الميزات المتميزة مثل معادل الصوت وخيارات السحابة المتقدمة متاحة من خلال ترقية اختيارية.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="هل يمكن لـ Evermusic تشغيل الكتب الصوتية؟" closed="true" %}}
+{{% ls-details title="هل يمكن لـ Evermusic تشغيل الكتب الصوتية؟" closed="true" %}}
 نعم. يحفظ Evermusic موضع التشغيل ويدعم الإشارات المرجعية وسرعة تشغيل قابلة للتعديل (0.5x إلى 2.0x) ومؤقتات النوم — مما يجعله مناسبًا للكتب الصوتية والبودكاست.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="ما هي الخدمات السحابية التي يتصل بها Evermusic؟" closed="true" %}}
+{{% ls-details title="ما هي الخدمات السحابية التي يتصل بها Evermusic؟" closed="true" %}}
 Dropbox وGoogle Drive وOneDrive وBox وMEGA وYandex.Disk وMyDrive وpCloud وHiDrive ومشاركات ملفات SMB وخوادم WebDAV.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="هل يمكنني استخدام بطاقة SD مع Evermusic؟" closed="true" %}}
+{{% ls-details title="هل يمكنني استخدام بطاقة SD مع Evermusic؟" closed="true" %}}
 نعم. قم بتوصيل قارئ بطاقات SD Lightning أو USB-C بجهاز iPhone أو iPad وابث الموسيقى مباشرة من البطاقة عبر Evermusic.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="هل يعمل Evermusic على Mac؟" closed="true" %}}
+{{% ls-details title="هل يعمل Evermusic على Mac؟" closed="true" %}}
 نعم. Evermusic متاح لكل من iOS وmacOS، مع بث سحابي وتشغيل بدون اتصال على جميع المنصات.
-{{% /details %}}
+{{% /ls-details %}}

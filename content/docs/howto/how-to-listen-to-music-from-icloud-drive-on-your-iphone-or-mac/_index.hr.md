@@ -7,7 +7,7 @@ tags: ["glazba", "oblak", "strujanje", "player", "drive", "icloud"]
 readingTime: 5
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **Ukratko:** Prenesite glazbu na iCloud Drive, instalirajte [Evermusic](/products/evermusic) (za MP3/WAV) ili [Flacbox](/products/flacbox) (za FLAC/DSD), povežite svoju iCloud Drive mapu i strujite izravno bez korištenja pohrane uređaja.
@@ -29,8 +29,8 @@ Prije nego što počnete uživati u glazbi s iCloud Drivea na iPhoneu ili Macu, 
 1. Idite u App Store i preuzmite **Evermusic** ako je vaša glazba pohranjena u standardnim audio formatima poput mp3 ili wav. Ako imate glazbu bez gubitaka u dsd ili flac formatu, odaberite **Flacbox**. Obje aplikacije su dostupne za iOS i MacOS.
 
 {{< cards >}}
-  {{< card link="https://apps.apple.com/us/app/evermusic-cloud-music-player/id885367198" title="Preuzmi Evermusic za iOS" icon="download" tag="Besplatno" >}}
-  {{< card link="https://apps.apple.com/us/app/flacbox-flac-player-equalizer/id1097564256" title="Preuzmi Flacbox za iOS" icon="download" tag="Besplatno" >}}
+  {{< ls-card link="https://apps.apple.com/us/app/evermusic-cloud-music-player/id885367198" title="Preuzmi Evermusic za iOS" icon="download" tag="Besplatno" >}}
+  {{< ls-card link="https://apps.apple.com/us/app/flacbox-flac-player-equalizer/id1097564256" title="Preuzmi Flacbox za iOS" icon="download" tag="Besplatno" >}}
 {{< /cards >}}
 
 - Za MacOS:
@@ -38,8 +38,8 @@ Prije nego što počnete uživati u glazbi s iCloud Drivea na iPhoneu ili Macu, 
 1. Posjetite App Store na svom Macu i instalirajte **Evermusic** ili **Flacbox** prema vašim preferencijama formata glazbe.
 
 {{< cards >}}
-  {{< card link="https://apps.apple.com/us/app/evermusic-cloud-music-player/id1564384601" title="Preuzmi Evermusic za Mac" icon="download" tag="Besplatno" >}}
-  {{< card link="https://apps.apple.com/us/app/flacbox-hires-music-player/id1594027432" title="Preuzmi Flacbox za Mac" icon="download" tag="Besplatno" >}}
+  {{< ls-card link="https://apps.apple.com/us/app/evermusic-cloud-music-player/id1564384601" title="Preuzmi Evermusic za Mac" icon="download" tag="Besplatno" >}}
+  {{< ls-card link="https://apps.apple.com/us/app/flacbox-hires-music-player/id1594027432" title="Preuzmi Flacbox za Mac" icon="download" tag="Besplatno" >}}
 {{< /cards >}}
 
 Nakon što instalirate aplikaciju na iPhone ili Mac, spremni ste za nastavak.
@@ -215,22 +215,22 @@ Sada, krenite, počnite strujiti i neka glazba svira!
 
 ## FAQ
 
-{{% details title="Koje audio formate mogu strujiti s iCloud Drivea?" closed="true" %}}
+{{% ls-details title="Koje audio formate mogu strujiti s iCloud Drivea?" closed="true" %}}
 Evermusic podržava MP3, WAV, AAC i druge standardne formate. Flacbox dodaje podršku za FLAC, DSD, OGG i OPUS. Odaberite aplikaciju koja odgovara vašoj glazbenoj kolekciji.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Koristi li strujanje s iCloud Drivea pohranu uređaja?" closed="true" %}}
+{{% ls-details title="Koristi li strujanje s iCloud Drivea pohranu uređaja?" closed="true" %}}
 Ne. I Evermusic i Flacbox struje audio izravno s vašeg iCloud Drivea bez preuzimanja datoteka na uređaj. Po želji možete preuzeti pojedinačne pjesme za offline slušanje.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Mogu li koristiti iCloud Drive glazbu offline?" closed="true" %}}
+{{% ls-details title="Mogu li koristiti iCloud Drive glazbu offline?" closed="true" %}}
 Da. Dodirnite izbornik s tri točke na bilo kojoj pjesmi i odaberite opciju preuzimanja. Datoteka će biti spremljena lokalno za offline reprodukciju.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Zašto se moja glazba zaustavlja ili sprema u međuspremnik tijekom reprodukcije?" closed="true" %}}
+{{% ls-details title="Zašto se moja glazba zaustavlja ili sprema u međuspremnik tijekom reprodukcije?" closed="true" %}}
 To je obično uzrokovano sporom ili nestabilnom internetskom vezom. Omogućite predmemoriju audio playera u Postavkama za unaprijed preuzimanje nadolazećih pjesama i sprječavanje prekida.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Je li strujanje glazbe s iCloud Drivea besplatno?" closed="true" %}}
+{{% ls-details title="Je li strujanje glazbe s iCloud Drivea besplatno?" closed="true" %}}
 I Evermusic i Flacbox besplatni su za preuzimanje. iCloud Drive nudi 5 GB besplatne pohrane. Možete nadograditi plan pohrane iClouda putem Applea ako trebate više prostora.
-{{% /details %}}
+{{% /ls-details %}}

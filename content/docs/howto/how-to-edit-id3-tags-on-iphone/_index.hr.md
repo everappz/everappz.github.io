@@ -7,7 +7,7 @@ tags: ["mp3", "uređivač", "iPhone", "oznake", "metapodaci", "id3"]
 readingTime: 2
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **Sažetak:** Koristite ugrađeni uređivač oznaka u Evermusic ili Flacbox za uređivanje ID3 oznaka na iPhoneu ili Macu -- za oblačne i lokalne datoteke. Trebate skupno uređivanje ili 120+ polja oznaka? Koristite [Evertag](https://apps.apple.com/app/apple-store/id1450763230?pt=95781850&ct=everappzcom&mt=8) umjesto toga.
@@ -21,8 +21,8 @@ Kada uvezete pjesme u svoju glazbenu knjižnicu, one se inteligentno grupiraju p
 Dok mnoge desktop aplikacije nude uređivanje metapodataka, Evermusic i Flacbox podižu jednostavnost na višu razinu uključivanjem ID3 uređivača oznaka. Sada možete koristiti jednu aplikaciju za izgradnju glazbene knjižnice, uživanje u svojim pjesmama i ispravljanje audio oznaka.
 
 {{< cards cols="2">}}
-{{< card link="https://apps.apple.com/app/apple-store/id885367198?pt=95781850&ct=everappzcom&mt=8" title="Preuzmi Evermusic" icon="download" tag="Free" >}}
-{{< card link="https://apps.apple.com/app/apple-store/id1097564256?pt=95781850&ct=everappzcom&mt=8" title="Preuzmi Flacbox" icon="download" tag="Free" >}}
+{{< ls-card link="https://apps.apple.com/app/apple-store/id885367198?pt=95781850&ct=everappzcom&mt=8" title="Preuzmi Evermusic" icon="download" tag="Free" >}}
+{{< ls-card link="https://apps.apple.com/app/apple-store/id1097564256?pt=95781850&ct=everappzcom&mt=8" title="Preuzmi Flacbox" icon="download" tag="Free" >}}
 {{< /cards >}}
 
 ## Profesionalni uređivač
@@ -30,7 +30,7 @@ Dok mnoge desktop aplikacije nude uređivanje metapodataka, Evermusic i Flacbox 
 Ali prije nego što počnete, pogledajte aplikaciju **Evertag** — podržava **120+ audio oznaka**, **30+ audio formata** i nudi moćno **skupno uređivanje**. Ako tražite potpuno opremljen alat za upravljanje oznakama, Evertag je pravi izbor. Međutim, ako vam treba samo **jednostavan uređivač oznaka**, slobodno nastavite s ovim vodičem.
 
 {{< cards >}}
-{{< card link="https://apps.apple.com/app/apple-store/id1450763230?pt=95781850&ct=everappzcom&mt=8" title="Preuzmi Evertag" icon="download" tag="Free" >}}
+{{< ls-card link="https://apps.apple.com/app/apple-store/id1450763230?pt=95781850&ct=everappzcom&mt=8" title="Preuzmi Evertag" icon="download" tag="Free" >}}
 {{< /cards >}}
 
 
@@ -38,21 +38,21 @@ Ali prije nego što počnete, pogledajte aplikaciju **Evertag** — podržava **
 Povežite svoj preferirani račun u oblaku unutar aplikacije.
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Poveži oblačni poslužitelj" image="/docs/howto/how-to-edit-id3-tags-on-iphone/connect_cloud_server.webp" >}}
+{{< ls-card title="" subtitle="Poveži oblačni poslužitelj" image="/docs/howto/how-to-edit-id3-tags-on-iphone/connect_cloud_server.webp" >}}
 {{< /cards >}}
 
 ## Navigirajte do svojih audio datoteka  
 Otvorite mapu koja sadrži vaše audio datoteke u povezanom računu u oblaku.
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Oblačne mape" image="/docs/howto/how-to-edit-id3-tags-on-iphone/cloud_server_folders.webp" >}}
+{{< ls-card title="" subtitle="Oblačne mape" image="/docs/howto/how-to-edit-id3-tags-on-iphone/cloud_server_folders.webp" >}}
 {{< /cards >}}
 
 ## Pristupite opcijama datoteke  
 Dodirnite gumb 'Više' ('...') pored datoteke koju želite urediti.
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Više radnji" image="/docs/howto/how-to-edit-id3-tags-on-iphone/cloud_server_audio_more_actions.webp" >}}
+{{< ls-card title="" subtitle="Više radnji" image="/docs/howto/how-to-edit-id3-tags-on-iphone/cloud_server_audio_more_actions.webp" >}}
 {{< /cards >}}
 
 ## Odaberite 'Uredi audio oznake'  
@@ -70,7 +70,7 @@ Na zaslonu 'Uređivač oznaka' izmijenite polja metapodataka kao što su Naslov,
 Kada završite s uređivanjem, dodirnite gumb 'Spremi' za spremanje promjena.
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Uređivač oznaka" image="/docs/howto/how-to-edit-id3-tags-on-iphone/tags_editor.webp" >}}
+{{< ls-card title="" subtitle="Uređivač oznaka" image="/docs/howto/how-to-edit-id3-tags-on-iphone/tags_editor.webp" >}}
 {{< /cards >}}
 
 ## Pametno automatsko dovršavanje  
@@ -88,7 +88,7 @@ Možete uređivati audio oznake za datoteke pohranjene **izravno na vašem uređ
 - **Idite na odjeljak "Lokalne datoteke"**, zatim se pomaknite prema dolje do **"Datoteke na ovom uređaju."**
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Datoteke na ovom uređaju" image="/docs/howto/how-to-edit-id3-tags-on-iphone/local_files.webp" >}}
+{{< ls-card title="" subtitle="Datoteke na ovom uređaju" image="/docs/howto/how-to-edit-id3-tags-on-iphone/local_files.webp" >}}
 {{< /cards >}}
 
 - Dodirnite **"Poveži mapu"**.
@@ -96,25 +96,25 @@ Možete uređivati audio oznake za datoteke pohranjene **izravno na vašem uređ
 - U biraču mapa odaberite direktorij kojem želite pristupiti i dodirnite **"Otvori"** za potvrdu.
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Poveži vanjsku mapu" image="/docs/howto/how-to-edit-id3-tags-on-iphone/connect_external_folder.webp" >}}
+{{< ls-card title="" subtitle="Poveži vanjsku mapu" image="/docs/howto/how-to-edit-id3-tags-on-iphone/connect_external_folder.webp" >}}
 {{< /cards >}}
 
 - Nakon dodavanja mape, dodirnite je za pregled datoteka unutra.
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Sadržaj vanjske mape" image="/docs/howto/how-to-edit-id3-tags-on-iphone/connected_external_folder.webp" >}}
+{{< ls-card title="" subtitle="Sadržaj vanjske mape" image="/docs/howto/how-to-edit-id3-tags-on-iphone/connected_external_folder.webp" >}}
 {{< /cards >}}
 
 - Kao i kod oblačnih datoteka, dodirnite gumb **"Više radnji"** pored audio datoteke i odaberite **"Uredi audio oznake".**
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Više radnji - Lokalna datoteka" image="/docs/howto/how-to-edit-id3-tags-on-iphone/more_actions_local_file.webp" >}}
+{{< ls-card title="" subtitle="Više radnji - Lokalna datoteka" image="/docs/howto/how-to-edit-id3-tags-on-iphone/more_actions_local_file.webp" >}}
 {{< /cards >}}
 
 - Otvorit će se uređivač oznaka. Napravite promjene i dodirnite **"Spremi"**. To je to! Vaše izmjene se primjenjuju izravno na datoteku — nema potrebe za kopiranjem ili premještanjem.
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Uređivač oznaka - Lokalna datoteka" image="/docs/howto/how-to-edit-id3-tags-on-iphone/tag_editor_local_file.webp" >}}
+{{< ls-card title="" subtitle="Uređivač oznaka - Lokalna datoteka" image="/docs/howto/how-to-edit-id3-tags-on-iphone/tag_editor_local_file.webp" >}}
 {{< /cards >}}
 
 ## Uređivanje omota albuma
@@ -126,7 +126,7 @@ Za promjenu omota albuma:
 3. Odaberite sliku za primjenu kao omot.
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Odaberi sliku" image="/docs/howto/how-to-edit-id3-tags-on-iphone/tags_editor_choose_image.webp" >}}
+{{< ls-card title="" subtitle="Odaberi sliku" image="/docs/howto/how-to-edit-id3-tags-on-iphone/tags_editor_choose_image.webp" >}}
 {{< /cards >}}
 
 ## Više radnji u uređivaču oznaka
@@ -134,7 +134,7 @@ Za promjenu omota albuma:
 Dodatne opcije uređivanja dostupne su putem alatne trake ispod prikaza ilustracija.
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Izbornik više radnji" image="/docs/howto/how-to-edit-id3-tags-on-iphone/tags_edito_more_actions.webp" >}}
+{{< ls-card title="" subtitle="Izbornik više radnji" image="/docs/howto/how-to-edit-id3-tags-on-iphone/tags_edito_more_actions.webp" >}}
 {{< /cards >}}
 
 ### Automatsko pretraživanje audio oznaka
@@ -195,22 +195,22 @@ Pojednostavite upravljanje glazbenom knjižnicom i uređivanje oznaka s Evermusi
 
 ## Česta pitanja
 
-{{% details title="Koje audio formate mogu uređivati?" closed="true" %}}
+{{% ls-details title="Koje audio formate mogu uređivati?" closed="true" %}}
 Evermusic i Flacbox podržavaju uređivanje oznaka za MP3, FLAC, AAC, OGG i druge uobičajene audio formate. Evertag podržava 30+ formata uključujući WAV, AIFF, WMA i APE.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Mogu li uređivati oznake datoteka pohranjenih u oblačnim uslugama?" closed="true" %}}
+{{% ls-details title="Mogu li uređivati oznake datoteka pohranjenih u oblačnim uslugama?" closed="true" %}}
 Da. Povežite svoj Dropbox, Google Drive, OneDrive ili drugi oblačni račun. Aplikacija preuzme datoteku, omogući vam uređivanje oznaka i automatski učita modificiranu datoteku natrag u oblak.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Koja je razlika između Evermusic/Flacbox i Evertag?" closed="true" %}}
+{{% ls-details title="Koja je razlika između Evermusic/Flacbox i Evertag?" closed="true" %}}
 Evermusic i Flacbox su glazbeni playeri s ugrađenim osnovnim uređivačem oznaka. Evertag je namjenski uređivač oznaka koji podržava 120+ audio oznaka, skupno uređivanje i 30+ formata -- idealan za upravljanje velikim knjižnicama.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Zahtijeva li značajka automatskog pretraživanja internetsku vezu?" closed="true" %}}
+{{% ls-details title="Zahtijeva li značajka automatskog pretraživanja internetsku vezu?" closed="true" %}}
 Da. Značajka automatskog pretraživanja audio oznaka upituje online bazu podataka MusicBrainz za pronalaženje i popunjavanje metapodataka. Za ovu značajku potrebna je aktivna internetska veza.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Hoće li uređivanje oznaka promijeniti kvalitetu zvuka?" closed="true" %}}
+{{% ls-details title="Hoće li uređivanje oznaka promijeniti kvalitetu zvuka?" closed="true" %}}
 Ne. Uređivanje oznaka mijenja samo metapodatke ugrađene u datoteku. Sami audio podaci ostaju netaknuti -- ne dolazi do ponovnog kodiranja.
-{{% /details %}}
+{{% /ls-details %}}

@@ -16,7 +16,7 @@ readingTime: 3
 Evertagは直感的なユーザーインターフェースを提供しています。多くの人気アプリとの違いは、組み込みのファイルマネージャーで、ユーザーがオーディオファイルを編集し、クラウドストレージとの間でシームレスに転送できます。
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evertag画面" image="/docs/guide/evertag/img/tag-editor.webp" >}}
+  {{< ls-card title="" subtitle="Evertag画面" image="/docs/guide/evertag/img/tag-editor.webp" >}}
 {{< /cards >}}
 
 ## セクション
@@ -42,7 +42,7 @@ iPhone、iPad、またはMacのコンパクトモードを使用している場�
 画面上のほぼすべてのコンテンツ項目には「その他のアクション」ボタンがあります。タップして利用可能なすべてのアクションにアクセスします。
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evertagその他のアクション" image="/docs/guide/evertag/img/downloads-file-actions.webp" >}}
+  {{< ls-card title="" subtitle="Evertagその他のアクション" image="/docs/guide/evertag/img/downloads-file-actions.webp" >}}
 {{< /cards >}}
 
 ## トップツールバー

@@ -7,7 +7,7 @@ keywords: ["DLNA sunucusu iPhone", "UPnP sunucusu iPad", "iPhone'da DLNA nasıl 
 readingTime: 9
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 DLNA (UPnP AV olarak da adlandırılır), çoğu akıllı TV'nin arkasındaki sessiz iş gücüdür. Bir TV veya medya oynatıcının aynı Wi-Fi'deki bir medya kitaplığını bulup ondan oynatmasını sağlayan, TV'ye hiçbir şey kurmayı gerektirmeyen ortak bir dildir. iPhone veya iPad cihazınız bu kitaplık gibi davranabilirse, fotoğraflarınız, videolarınız ve müziğiniz büyük ekranda kendiliğinden görünür.
 
@@ -127,44 +127,44 @@ DLNA dosyayı olduğu gibi TV'ye verir ve TV'nin onu çözebilmesi gerekir. Bir 
 
 ## Sıkça Sorulan Sorular
 
-{{% details title="DLNA ile UPnP arasındaki fark nedir?" closed="true" %}}
+{{% ls-details title="DLNA ile UPnP arasındaki fark nedir?" closed="true" %}}
 Yakından ilişkilidirler. UPnP alttaki ağ standardıdır ve DLNA, onun üzerine inşa edilen, TV'lerin ve oynatıcıların fotoğrafları, videoları ve müziği paylaşmak ve oynatmak için kullandığı medya profilidir. Günlük kullanımda kelimeler birbirinin yerine geçer. Everdisk'te TV ve Medya Merkezi'ni açtığınızda, cihazınız herhangi bir DLNA istemcisinin göz atabileceği bir DLNA/UPnP medya sunucusu olur.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="TV'me bir şey kurmam gerekiyor mu?" closed="true" %}}
+{{% ls-details title="TV'me bir şey kurmam gerekiyor mu?" closed="true" %}}
 Hayır. TV'niz DLNA'yı destekliyorsa, Wi-Fi'de cihazınızı bulabilecek bir medya oynatıcısı zaten vardır. Yalnızca içeriği tutan iPhone veya iPad'e Everdisk'i kurarsınız. TV'niz DLNA'yı desteklemiyorsa, ona bağlı bir cihaza VLC veya Kodi gibi bir oynatıcı kurun.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="iPhone'um neden TV'de görünmüyor?" closed="true" %}}
+{{% ls-details title="iPhone'um neden TV'de görünmüyor?" closed="true" %}}
 Her iki cihazın da aynı Wi-Fi ağında olduğunu kontrol edin. Konuk ağları ve bazı ofis veya otel ağları cihazların birbirini görmesini engeller; bu da DLNA'yı durdurur. Ardından Everdisk'in paylaşım başlatılmış olarak açık olduğunu ve Ayarlar, Paylaşım, Bağlantılar'da TV ve Medya Merkezi'nin açık olduğunu doğrulayın. TV yine de bulamıyorsa, /device-desc.xml ile biten cihaz açıklama adresini kullanarak sunucuyu elle ekleyin.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="DLNA yayını parola gerektirir mi?" closed="true" %}}
+{{% ls-details title="DLNA yayını parola gerektirir mi?" closed="true" %}}
 Hayır. DLNA açıkken aynı Wi-Fi'deki herkese her zaman açıktır; bu nedenle TV tarafında oturum açma yoktur. Güvendiğiniz bir ev ağında bu sorun değildir. Güvenmediğiniz bir ağda, işiniz bittiğinde TV ve Medya Merkezi'ni kapatın veya bunun yerine şifrelemeli SMB sunucusunu kullanın.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Chromecast'e veya Roku'ya yayın yapabilir miyim?" closed="true" %}}
+{{% ls-details title="Chromecast'e veya Roku'ya yayın yapabilir miyim?" closed="true" %}}
 Chromecast ve Roku, kutudan çıktığı haliyle DLNA oynatıcı gibi davranmaz; bu nedenle cihazınızı doğrudan bulamazlar. Geçici çözüm, bir telefonda VLC veya BubbleUPnP gibi yayınlayabilen bir DLNA uygulaması kurmak ve oynatmayı oradan Chromecast veya Roku'ya göndermektir. Diğer çoğu akıllı TV'de DLNA bunların hiçbiri olmadan çalışır.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Bir video sessiz oynatılıyor veya açılmıyor. Ne yapabilirim?" closed="true" %}}
+{{% ls-details title="Bir video sessiz oynatılıyor veya açılmıyor. Ne yapabilirim?" closed="true" %}}
 Bu, TV'nin çözemediği bir biçimdir. Everdisk'te Ayarlar, Paylaşım, Videolar'ı açın ve uygulamanın videoyu yayınlarken daha uyumlu bir biçime dönüştürmesi için Kalite'yi düşürün. Aynı dosyayı, daha fazla biçimi işleyen tarayıcı bağlantısı üzerinden de açabilirsiniz.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Yalnızca video değil, müzik de yayınlayabilir miyim?" closed="true" %}}
+{{% ls-details title="Yalnızca video değil, müzik de yayınlayabilir miyim?" closed="true" %}}
 Evet. Tüm Müzik Kitaplığına erişime izin ver'i açın veya belirli parçalar ekleyin, ardından paylaşımı başlatın. Şarkılarınız, kapak resmi ve parça bilgileriyle birlikte herhangi bir DLNA hoparlöründe, AV alıcısında veya TV'de görünür. Müzik her zaman orijinal kalitesinde paylaşılır.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="İzlerken uygulamanın açık kalması gerekiyor mu?" closed="true" %}}
+{{% ls-details title="İzlerken uygulamanın açık kalması gerekiyor mu?" closed="true" %}}
 Evet. iPhone'unuz sunucu olarak davranır ve iOS, uzun süre tamamen arka plana itilen uygulamaları duraklatır. Yayın yaparken Everdisk'i ekranda açık tutun ve uzun oturumlar için güce takın.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Bir iPhone'dan başka bir iPad'e nasıl yayın yaparım?" closed="true" %}}
+{{% ls-details title="Bir iPhone'dan başka bir iPad'e nasıl yayın yaparım?" closed="true" %}}
 iPhone'da paylaşımı başlatın, ardından iPad'de Everdisk'i açın ve Cihazlar sekmesine gidin. iPhone, Kullanılabilir Cihazlar altında bir medya sunucusu olarak görünür. Göz atmak ve oynatmak için ona dokunun. Everdisk hem DLNA istemcisi hem de sunucu olarak çalışır; bu nedenle başka bir uygulamaya ihtiyacınız yoktur.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Everdisk ücretsiz mi?" closed="true" %}}
+{{% ls-details title="Everdisk ücretsiz mi?" closed="true" %}}
 Evet, Everdisk ücretsiz indirilir ve DLNA medya sunucusu dahildir. İsteğe bağlı, tek seferlik bir Premium Ömür Boyu satın alma, eski TV'ler için fotoğraf ve video dönüştürme, özel bağlantı noktaları ve daha fazlası gibi ekstralar ekler. DLNA yayınını ödeme yapmadan kurabilir ve kullanabilirsiniz.
-{{% /details %}}
+{{% /ls-details %}}
 
 Denemeye hazır mısınız? [Everdisk'i App Store'dan indirin](https://apps.apple.com/app/apple-store/id6751851132?pt=95781850&ct=everappzcom&mt=8) ve birkaç dakika içinde ilk albümünüzü TV'ye yayınlayın. Sorularınız veya geri bildiriminiz mi var? Bize **support@everappz.com** adresinden e-posta gönderin.

@@ -22,7 +22,7 @@ readingTime: 16
 Innstillinger-skjermen er kontrollsenteret for Evervideo. Herfra kan du oppgradere til Premium, konfigurere video- og lydmotorene (systemkodeks eller FFmpeg), administrere Picture-in-Picture, sette opp undertekster (primær, sekundær, libass, eksterne filer, skrifter), organisere mediebiblioteket, sette opp filbehandleren, aktivere Hjem-skjerm-widgets, sikkerhetskopiere dataene dine og få tilgang til hjelp og juridisk informasjon. Seksjoner er gruppert under overskrifter: Kjøp & Oppdateringer, App-preferanser, Hjelp, Juridisk & Personvern.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evervideo Innstillinger Hovedskjerm" image="/docs/guide/evervideo/img/evervideo-settings.webp" >}}
+  {{< ls-card title="" subtitle="Evervideo Innstillinger Hovedskjerm" image="/docs/guide/evervideo/img/evervideo-settings.webp" >}}
 {{< /cards >}}
 
 ## Oppgrader til Premium
@@ -30,13 +30,13 @@ Innstillinger-skjermen er kontrollsenteret for Evervideo. Herfra kan du oppgrade
 Oppgrader applikasjonen til Premium-versjonen for å fjerne alle begrensninger. Den gratis versjonen tilbyr et engangs livstids kjøp i appen og to abonnementsalternativer (1 måned og 1 år) for å fjerne alle begrensninger og oppgradere til Premium.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evervideo Oppgrader til Premium" image="/docs/guide/evervideo/img/evervideo-upgrade-to-premium.webp" >}}
+  {{< ls-card title="" subtitle="Evervideo Oppgrader til Premium" image="/docs/guide/evervideo/img/evervideo-upgrade-to-premium.webp" >}}
 {{< /cards >}}
 
 **Familiedeling** er aktivert for alle kjøp og planer, slik at du kan dele Premium-versjonen med opptil fem familiemedlemmer uten ekstra kostnad.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evervideo Velg en Premium-plan" image="/docs/guide/evervideo/img/evervideo-select-premium-plan.webp" >}}
+  {{< ls-card title="" subtitle="Evervideo Velg en Premium-plan" image="/docs/guide/evervideo/img/evervideo-select-premium-plan.webp" >}}
 {{< /cards >}}
 
 ## Dele Kjøp Mellom iOS og Mac
@@ -50,7 +50,7 @@ Du kan også trykke på knappen **Gjenopprett kjøp** i app-innstillingene. Sør
 For å gjenopprette kjøpet ditt på en ny enhet, bruk menyen **Kjøp → Gjenopprett kjøp**. Du vil se listen over kjøpene dine. Hvis du ikke ser alle, bekreft at enheten er koblet til samme Apple ID som ble brukt til å gjøre kjøpene, og sørg for at iCloud er aktivert.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evervideo Kjøpsmeny i Innstillinger" image="/docs/guide/evervideo/img/evervideo-purhases-menu-in-settings.webp" >}}
+  {{< ls-card title="" subtitle="Evervideo Kjøpsmeny i Innstillinger" image="/docs/guide/evervideo/img/evervideo-purhases-menu-in-settings.webp" >}}
 {{< /cards >}}
 
 ## Prøv Premium Gratis

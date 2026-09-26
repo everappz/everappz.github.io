@@ -7,7 +7,7 @@ keywords: ["iPhone DLNA サーバー", "iPad UPnP サーバー", "iPhone で DLN
 readingTime: 9
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 DLNA (UPnP AV とも呼ばれます) は、ほとんどのスマート TV を支える縁の下の力持ちです。これは、TV やメディアプレーヤーが同じ Wi-Fi 上のメディアライブラリを見つけて再生できるようにする共通言語で、TV 側に何もインストールする必要はありません。iPhone や iPad をそのライブラリとして動かせれば、写真・動画・音楽が自動的に大画面に表示されます。
 
@@ -127,44 +127,44 @@ DLNA はファイルをそのままの形で TV に渡すため、TV 側がそ�
 
 ## よくある質問
 
-{{% details title="DLNA と UPnP の違いは何ですか?" closed="true" %}}
+{{% ls-details title="DLNA と UPnP の違いは何ですか?" closed="true" %}}
 両者は密接に関係しています。UPnP は基盤となるネットワーク規格で、DLNA はその上に作られたメディアプロファイルで、TV やプレーヤーが写真・動画・音楽を共有・再生するために使います。日常的には両者は同じ意味で使われます。Everdisk で TV とメディアセンターをオンにすると、お使いのデバイスは、どの DLNA クライアントからも閲覧できる DLNA/UPnP メディアサーバーになります。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="TV に何かインストールする必要はありますか?" closed="true" %}}
+{{% ls-details title="TV に何かインストールする必要はありますか?" closed="true" %}}
 いいえ。TV が DLNA に対応していれば、Wi-Fi 上でお使いのデバイスを見つけられるメディアプレーヤーがすでに備わっています。インストールが必要なのは、コンテンツを持つ iPhone や iPad に Everdisk を入れることだけです。TV が DLNA に対応していない場合は、それに接続したデバイスに VLC や Kodi のようなプレーヤーをインストールしてください。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="iPhone が TV に表示されないのはなぜですか?" closed="true" %}}
+{{% ls-details title="iPhone が TV に表示されないのはなぜですか?" closed="true" %}}
 両方のデバイスが同じ Wi-Fi ネットワークにあるか確認してください。ゲストネットワークや一部のオフィス・ホテルのネットワークは、デバイス同士が見えないようにブロックしており、これが DLNA を妨げます。次に、Everdisk が開かれていて共有が開始されていること、そして設定、共有、接続で TV とメディアセンターがオンになっていることを確認してください。それでも TV が見つけられない場合は、/device-desc.xml で終わるデバイス記述アドレスを使ってサーバーを手動で追加してください。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="DLNA ストリーミングにパスワードは必要ですか?" closed="true" %}}
+{{% ls-details title="DLNA ストリーミングにパスワードは必要ですか?" closed="true" %}}
 いいえ。DLNA はオンの間、同じ Wi-Fi 上の誰に対しても常に開放されているため、TV 側にログインはありません。信頼できる家庭内ネットワークなら問題ありません。信頼できないネットワークでは、使い終わったら TV とメディアセンターをオフにするか、代わりに暗号化付きの SMB サーバーを使ってください。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Chromecast や Roku へストリーミングできますか?" closed="true" %}}
+{{% ls-details title="Chromecast や Roku へストリーミングできますか?" closed="true" %}}
 Chromecast と Roku は初期状態では DLNA プレーヤーとして動作しないので、お使いのデバイスを直接見つけられません。回避策として、スマホに VLC や BubbleUPnP のようなキャスト対応の DLNA アプリをインストールし、そこから Chromecast や Roku へ再生を送ります。他のほとんどのスマート TV では、こうした手間なしに DLNA が動きます。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="動画が音声なしで再生される、または開けません。どうすればよいですか?" closed="true" %}}
+{{% ls-details title="動画が音声なしで再生される、または開けません。どうすればよいですか?" closed="true" %}}
 それは TV がデコードできない形式です。Everdisk で設定、共有、動画を開き、画質を下げると、アプリがストリーミングしながら動画をより互換性の高い形式に変換します。ブラウザリンクを使って同じファイルを開くこともでき、こちらはより多くの形式に対応します。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="動画だけでなく音楽もストリーミングできますか?" closed="true" %}}
+{{% ls-details title="動画だけでなく音楽もストリーミングできますか?" closed="true" %}}
 はい。すべての音楽ライブラリへのアクセスを許可をオンにするか、特定の曲を追加してから共有を開始します。曲は、アートワークやトラック情報とともに、どの DLNA スピーカー・AV レシーバー・TV にも表示されます。音楽は常にオリジナル画質で共有されます。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="視聴中はアプリを開いたままにしておく必要がありますか?" closed="true" %}}
+{{% ls-details title="視聴中はアプリを開いたままにしておく必要がありますか?" closed="true" %}}
 はい。iPhone がサーバーとして動作しており、iOS は完全にバックグラウンドに長時間回ったアプリを一時停止します。ストリーミング中は Everdisk を画面に開いたままにし、長時間のセッションでは電源につないでください。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="1 台の iPhone から別の iPad へストリーミングするにはどうしますか?" closed="true" %}}
+{{% ls-details title="1 台の iPhone から別の iPad へストリーミングするにはどうしますか?" closed="true" %}}
 iPhone で共有を開始し、次に iPad で Everdisk を開いてデバイスタブに移動します。iPhone がメディアサーバーとして利用可能なデバイスの下に表示されます。タップして閲覧・再生します。Everdisk は DLNA クライアントとサーバーの両方として動くので、別のアプリは必要ありません。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Everdisk は無料ですか?" closed="true" %}}
+{{% ls-details title="Everdisk は無料ですか?" closed="true" %}}
 はい。Everdisk は無料でダウンロードでき、DLNA メディアサーバーも含まれています。任意の買い切りの Premium Lifetime を購入すると、古い TV 向けの写真・動画変換、カスタムポートなどの追加機能が使えます。お支払いなしで DLNA ストリーミングの設定と利用ができます。
-{{% /details %}}
+{{% /ls-details %}}
 
 試してみませんか? [App Store から Everdisk をダウンロード](https://apps.apple.com/app/apple-store/id6751851132?pt=95781850&ct=everappzcom&mt=8)して、数分で最初のアルバムを TV へストリーミングしてみましょう。ご質問やご意見は **support@everappz.com** までメールでお寄せください。

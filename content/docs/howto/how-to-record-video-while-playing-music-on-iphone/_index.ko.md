@@ -7,7 +7,7 @@ keywords: ["iPhone에서 음악 재생하며 동영상 녹화", "iPhone 촬영 �
 readingTime: 1
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **요약:** Evermusic의 오디오 출력을 "혼합 모드"로 설정하고, 트랙을 재생한 다음, 카메라 앱을 열고 녹화하세요. 음악이 배경에서 계속 재생됩니다. TikTok, Instagram 및 모든 카메라 앱에서 작동합니다.
@@ -45,22 +45,22 @@ App Store를 열고 [Evermusic](https://apps.apple.com/app/evermusic-cloud-music
 
 ## 자주 묻는 질문
 
-{{% details title="배경 음악이 동영상에 녹음되나요?" closed="true" %}}
+{{% ls-details title="배경 음악이 동영상에 녹음되나요?" closed="true" %}}
 음악은 iPhone 스피커를 통해 재생되므로 마이크가 다른 주변 소리와 함께 음악을 녹음합니다. 더 깨끗한 오디오를 원하시면 마이크 근처에 외부 스피커를 배치하는 것을 고려해 보세요.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="TikTok과 Instagram에서도 작동하나요?" closed="true" %}}
+{{% ls-details title="TikTok과 Instagram에서도 작동하나요?" closed="true" %}}
 네. Evermusic이 혼합 모드로 설정되어 있고 트랙이 재생 중이면, TikTok, Instagram 또는 다른 카메라나 녹화 앱을 열어도 음악이 계속 재생됩니다.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Evermusic의 혼합 모드란 무엇인가요?" closed="true" %}}
+{{% ls-details title="Evermusic의 혼합 모드란 무엇인가요?" closed="true" %}}
 혼합 모드는 Evermusic이 다른 앱과 오디오 세션을 공유할 수 있게 해주는 오디오 출력 설정입니다. 이를 통해 다른 앱이 마이크나 카메라에 접근할 때 음악이 멈추지 않습니다.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Evermusic 대신 Flacbox를 사용할 수 있나요?" closed="true" %}}
+{{% ls-details title="Evermusic 대신 Flacbox를 사용할 수 있나요?" closed="true" %}}
 네. Flacbox도 혼합 오디오 출력 모드를 지원합니다. 단계는 동일합니다: 설정에서 혼합 모드를 활성화하고, 재생을 시작한 다음, 카메라 앱을 여세요.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Evermusic에서 음악이 재생되는 동안 게임을 할 수 있나요?" closed="true" %}}
+{{% ls-details title="Evermusic에서 음악이 재생되는 동안 게임을 할 수 있나요?" closed="true" %}}
 네. 혼합 모드가 활성화되면 어떤 게임이나 앱을 열어도 Evermusic의 음악이 계속 재생됩니다. 게임 오디오와 음악이 동시에 재생됩니다.
-{{% /details %}}
+{{% /ls-details %}}

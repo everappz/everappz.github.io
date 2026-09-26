@@ -12,7 +12,7 @@ authors:
     image: "/images/about/artem-meleshko-founder-everappz.webp"
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 ## 300 万次下载
 
@@ -98,22 +98,22 @@ Evermusic 在 App Store 免费提供，带有可选的高级功能。
 
 ## 常见问题
 
-{{% details title="Evermusic 可以免费使用吗？" closed="true" %}}
+{{% ls-details title="Evermusic 可以免费使用吗？" closed="true" %}}
 是的。Evermusic 免费下载，核心功能免费使用。均衡器和高级云选项等高级功能可通过可选升级获得。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Evermusic 可以播放有声书吗？" closed="true" %}}
+{{% ls-details title="Evermusic 可以播放有声书吗？" closed="true" %}}
 可以。Evermusic 保存播放位置，支持书签、可调节播放速度（0.5x 至 2.0x）和睡眠定时器——适合有声书和播客。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Evermusic 连接哪些云服务？" closed="true" %}}
+{{% ls-details title="Evermusic 连接哪些云服务？" closed="true" %}}
 Dropbox、Google Drive、OneDrive、Box、MEGA、Yandex.Disk、MyDrive、pCloud、HiDrive、SMB 文件共享和 WebDAV 服务器。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="我可以在 Evermusic 中使用 SD 卡吗？" closed="true" %}}
+{{% ls-details title="我可以在 Evermusic 中使用 SD 卡吗？" closed="true" %}}
 可以。将 Lightning 或 USB-C SD 卡读卡器连接到 iPhone 或 iPad，通过 Evermusic 直接从卡片串流音乐。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Evermusic 在 Mac 上可以使用吗？" closed="true" %}}
+{{% ls-details title="Evermusic 在 Mac 上可以使用吗？" closed="true" %}}
 可以。Evermusic 同时支持 iOS 和 macOS，在所有平台上提供云串流和离线播放。
-{{% /details %}}
+{{% /ls-details %}}

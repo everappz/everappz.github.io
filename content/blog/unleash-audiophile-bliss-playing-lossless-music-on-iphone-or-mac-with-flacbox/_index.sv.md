@@ -12,7 +12,7 @@ authors:
     image: "/images/about/artem-meleshko-founder-everappz.webp"
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 **Sammanfattning:** Installera [Flacbox från App Store](https://apps.apple.com/us/app/flacbox-flac-player-music/id1097564256?mt=8) för att spela FLAC, DSD, ALAC och 120+ andra ljudformat på iPhone och Mac. Importera filer via iTunes File Sharing, Wi-Fi Drive eller molnlagring. Ingen filkonvertering behövs. Flacbox avkodar förlustfria format inbyggt för full studiokvalitetsuppspelning.
 
@@ -78,26 +78,26 @@ Ladda ner Flacbox från Mac App Store. Anslut till NAS via SMB, WebDAV och DLNA.
 
 ## Vanliga frågor
 
-{{< details title="Kräver Flacbox ett abonnemang för förlustfri uppspelning?" closed="true" >}}
+{{< ls-details title="Kräver Flacbox ett abonnemang för förlustfri uppspelning?" closed="true" >}}
 Flacbox erbjuder grundläggande uppspelning utan abonnemang. Du kan importera och spela FLAC, DSD, ALAC och andra förlustfria format direkt efter nedladdning. Vissa avancerade funktioner kan kräva en premiumuppgradering, men grundläggande förlustfri uppspelning är tillgänglig omedelbart.
-{{< /details >}}
+{{< /ls-details >}}
 
-{{< details title="Kan Flacbox spela DSD-filer utan att konvertera dem till PCM först?" closed="true" >}}
+{{< ls-details title="Kan Flacbox spela DSD-filer utan att konvertera dem till PCM först?" closed="true" >}}
 Ja, Flacbox stöder inbyggd DSD-uppspelning inklusive DSD64, DSD128 och DSD256. Para ihop din enhet med en DSD-kompatibel extern DAC för bästa resultat.
-{{< /details >}}
+{{< /ls-details >}}
 
-{{< details title="Hur överför jag stora förlustfria musiksamlingar till min iPhone?" closed="true" >}}
+{{< ls-details title="Hur överför jag stora förlustfria musiksamlingar till min iPhone?" closed="true" >}}
 Flacbox erbjuder flera överföringsalternativ. Wi-Fi Drive låter dig ladda upp från valfri webbläsare. Du kan även använda iTunes File Sharing eller ansluta molnlagringstjänster. För snabbast överföring, anslut en extern enhet via Lightning- eller USB-C-adapter.
-{{< /details >}}
+{{< /ls-details >}}
 
-{{< details title="Finns det en skillnad i ljudkvalitet mellan FLAC och ALAC i Flacbox?" closed="true" >}}
+{{< ls-details title="Finns det en skillnad i ljudkvalitet mellan FLAC och ALAC i Flacbox?" closed="true" >}}
 Både FLAC och ALAC är förlustfria codecs som producerar identisk ljudutgång. Skillnaden ligger i kompatibilitet och komprimeringseffektivitet. Flacbox hanterar båda med samma trohet.
-{{< /details >}}
+{{< /ls-details >}}
 
-{{< details title="Vad är det bästa sättet att spela FLAC-filer på iPhone?" closed="true" >}}
+{{< ls-details title="Vad är det bästa sättet att spela FLAC-filer på iPhone?" closed="true" >}}
 Installera Flacbox från App Store, importera dina FLAC-filer via iTunes File Sharing, Wi-Fi Drive, molnlagring eller en extern USB/Lightning-enhet. Flacbox avkodar FLAC inbyggt utan konvertering, med stöd för upplösningar upp till 32-bit/384 kHz.
-{{< /details >}}
+{{< /ls-details >}}
 
-{{< details title="Fungerar Flacbox med NAS och hemmaservrar?" closed="true" >}}
+{{< ls-details title="Fungerar Flacbox med NAS och hemmaservrar?" closed="true" >}}
 Ja. Flacbox ansluter till NAS-enheter och hemmaservrar via SMB, WebDAV och DLNA-protokoll.
-{{< /details >}}
+{{< /ls-details >}}

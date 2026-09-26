@@ -23,7 +23,7 @@ authors:
     image: "/images/about/artem-meleshko-founder-everappz.webp"
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 ## Podaci App Storea u nekoliko sekundi
 
@@ -134,53 +134,53 @@ Ne treba ti API ključ, programerski račun ni plaćeni plan da bi pregledao pod
 AppLookup.pro je otvorenog koda. Prijave bugova, dodavanje zemalja i pull requestovi su dobrodošli.
 
 {{< cards cols="1" >}}
-  {{< card link="https://github.com/everappz/AppStoreLookup" title="AppLookup.pro na GitHubu" icon="github" tag="otvoreni kôd" >}}
+  {{< ls-card link="https://github.com/everappz/AppStoreLookup" title="AppLookup.pro na GitHubu" icon="github" tag="otvoreni kôd" >}}
 {{< /cards >}}
 
 ---
 
 ## Često postavljana pitanja
 
-{{% details title="Je li AppLookup.pro stvarno besplatan?" closed="true" %}}
+{{% ls-details title="Je li AppLookup.pro stvarno besplatan?" closed="true" %}}
 Da. AppLookup.pro je 100 posto besplatan i otvorenog koda. Radi u tvom pregledniku. Nema registracije, plaćenih razina ni ograničenja korištenja, izvan vlastitih ograničenja iTunes Search API-ja Applea.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Odakle dolaze podaci?" closed="true" %}}
+{{% ls-details title="Odakle dolaze podaci?" closed="true" %}}
 Svaki rezultat dohvaća se u stvarnom vremenu iz Appleovog službenog [iTunes Search API-ja](https://developer.apple.com/library/archive/documentation/AudioVideo/Conceptual/iTuneSearchAPI/index.html). Alat ne scrape-a App Store stranice i ne sprema odgovore na nijednom poslužitelju.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Mogu li preuzeti ikonu aplikacije u visokoj rezoluciji?" closed="true" %}}
+{{% ls-details title="Mogu li preuzeti ikonu aplikacije u visokoj rezoluciji?" closed="true" %}}
 Da. Sekcija **App Icon** prikazuje svaki URL ikone koji Apple vraća. Svaka kartica ima Direct Link i gumb Download, a gumb Download All Icons ZIP pakira ih sve u jednu arhivu.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Mogu li preuzeti sve snimke zaslona App Storea odjednom?" closed="true" %}}
+{{% ls-details title="Mogu li preuzeti sve snimke zaslona App Storea odjednom?" closed="true" %}}
 Da. Svaka sekcija snimaka zaslona (iPhone, iPad, macOS i Apple TV) ima gumb **Download All (ZIP)** koji pakira svaku snimku zaslona u punoj rezoluciji.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Kako mogu vidjeti kako aplikacija izgleda u drugoj državi?" closed="true" %}}
+{{% ls-details title="Kako mogu vidjeti kako aplikacija izgleda u drugoj državi?" closed="true" %}}
 Odaberi državu u padajućem izborniku na vrhu stranice. Podržano je više od 40 trgovina. Klikni ponovno **Lookup** i alat ponovno dohvaća aplikaciju za tu državu, prikazujući lokalizirani naslov, opis, snimke zaslona, novosti u verziji i cijenu.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Mogu li kopirati pojedinačna polja poput bundle ID-a ili datuma izdanja?" closed="true" %}}
+{{% ls-details title="Mogu li kopirati pojedinačna polja poput bundle ID-a ili datuma izdanja?" closed="true" %}}
 Da. Svako tekstualno polje u rezultatu ima vlastiti gumb Copy: naziv aplikacije, programer, opis, novosti u verziji, bundle ID, verzija, cijena, veličina datoteke, minimalni OS, datum izdanja, dobna oznaka, jezici, podržani uređaji i sirovi JSON.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Radi li AppLookup.pro za bilo koju iOS aplikaciju?" closed="true" %}}
+{{% ls-details title="Radi li AppLookup.pro za bilo koju iOS aplikaciju?" closed="true" %}}
 Radi za bilo koju aplikaciju koja je javno navedena u najmanje jednoj državi App Storea i koju vraća iTunes Search API. Aplikacije koje nisu navedene, koje su uklonjene ili distribuirane putem enterprise kanala neće se pojaviti.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Podržava li macOS i Apple TV aplikacije?" closed="true" %}}
+{{% ls-details title="Podržava li macOS i Apple TV aplikacije?" closed="true" %}}
 Da. Ako aplikacija ima snimke zaslona za macOS ili Apple TV u odgovoru iTunes Search API-ja, AppLookup.pro ih prikazuje u zasebnom panelu s klizačem i gumbima za preuzimanje.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Mogu li koristiti sirovi JSON u vlastitom kodu?" closed="true" %}}
+{{% ls-details title="Mogu li koristiti sirovi JSON u vlastitom kodu?" closed="true" %}}
 Da. Sekcija Raw API Response prikazuje točan JSON koji Apple vraća. Kopiraj ga u Postman, jedinični test ili backend pipeline. Molimo poštuj Appleove API uvjete i razumna ograničenja stope.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Je li sigurno lijepiti App Store URL-ove u alat?" closed="true" %}}
+{{% ls-details title="Je li sigurno lijepiti App Store URL-ove u alat?" closed="true" %}}
 Da. URL se analizira u tvom pregledniku. Jedini izlazni mrežni poziv je pretraživanje Appleovog iTunes Search API-ja.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Koja je razlika između AppLookup.pro i AppKeywords.pro?" closed="true" %}}
+{{% ls-details title="Koja je razlika između AppLookup.pro i AppKeywords.pro?" closed="true" %}}
 [AppLookup.pro](https://applookup.pro) služi za čitanje metapodataka App Storea bilo koje objavljene aplikacije: istraživanje konkurencije, preuzimanje materijala, provjere lokalizacije. [AppKeywords.pro](https://appkeywords.pro) služi za pisanje metapodataka App Storea za tvoju aplikaciju: optimizacija naslova, podnaslova i ključnih riječi uz Fastlane podršku. Ta dva alata dobro rade zajedno.
-{{% /details %}}
+{{% /ls-details %}}

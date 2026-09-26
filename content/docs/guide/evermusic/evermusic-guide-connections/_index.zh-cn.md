@@ -17,7 +17,7 @@ readingTime: 11
 屏幕被分为清晰标记的部分：顶部的快速访问（您收藏的云文件夹）、云存储（已添加的账户）、本地网络（Bonjour 发现的设备）、电脑（Wi-Fi Drive、iTunes 文件共享、SMB）、外部配件（已连接的 USB 闪存盘）以及其他服务（Last.fm 等）。
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evermusic 连接屏幕" image="/docs/guide/evermusic/evermusic-guide-connections/img/connect-main.webp" >}}
+  {{< ls-card title="" subtitle="Evermusic 连接屏幕" image="/docs/guide/evermusic/evermusic-guide-connections/img/connect-main.webp" >}}
 {{< /cards >}}
 
 ## 连接云存储
@@ -29,7 +29,7 @@ readingTime: 11
 - 点击「完成」。
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="连接云存储提供商选择器" image="/docs/guide/evermusic/evermusic-guide-connections/img/connect-add-storage.webp" >}}
+  {{< ls-card title="" subtitle="连接云存储提供商选择器" image="/docs/guide/evermusic/evermusic-guide-connections/img/connect-add-storage.webp" >}}
 {{< /cards >}}
 
 如果遇到任何问题，请仔细检查您的网络连接和登录凭据，并确保该服务的双重认证配置正确。  
@@ -70,7 +70,7 @@ Auth token 是允许第三方应用程序与云存储交互的数字密钥。Aut
   - **断开连接**：如果您希望完全断开应用程序与云服务的连接，请选择「断开连接」。请注意，选择此选项将从应用程序的音乐库中删除与此云服务关联的所有歌曲，但它们将保留在服务器上。
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="已连接云存储的更多操作菜单" image="/docs/guide/evermusic/evermusic-guide-connections/img/connect-storage-more-actions.webp" >}}
+  {{< ls-card title="" subtitle="已连接云存储的更多操作菜单" image="/docs/guide/evermusic/evermusic-guide-connections/img/connect-storage-more-actions.webp" >}}
 {{< /cards >}}
 
 ## 连接电脑或 NAS
@@ -89,7 +89,7 @@ Auth token 是允许第三方应用程序与云存储交互的数字密钥。Aut
 关于如何使用 SMB 连接 Mac 或 PC 的完整教程请参见[此处](/docs/howto/stream-your-music-from-mac-or-pc-to-iphone-using-smb/)。
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="SMB 连接设置" image="/docs/guide/evermusic/evermusic-guide-connections/img/connect-smb-settings.webp" >}}
+  {{< ls-card title="" subtitle="SMB 连接设置" image="/docs/guide/evermusic/evermusic-guide-connections/img/connect-smb-settings.webp" >}}
 {{< /cards >}}
 
 ## 使用 WebDAV 连接 NAS
@@ -99,7 +99,7 @@ URL 应为 http://server-name 格式，如果服务器支持 SSL 则为 https://
 关于如何使用 WebDAV 协议连接 NAS 存储的完整教程请参见[此处](/docs/howto/how-to-connect-nas-storage-using-webdav-and-listen-to-music-on-your-iphone-or-mac)。
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="WebDAV 连接设置" image="/docs/guide/evermusic/evermusic-guide-connections/img/connect-webdav-settings.webp" >}}
+  {{< ls-card title="" subtitle="WebDAV 连接设置" image="/docs/guide/evermusic/evermusic-guide-connections/img/connect-webdav-settings.webp" >}}
 {{< /cards >}}
 
 ## 使用 DLNA 连接电脑或 NAS
@@ -107,7 +107,7 @@ URL 应为 http://server-name 格式，如果服务器支持 SSL 则为 https://
 您也可以使用 DLNA 协议共享位于 Windows PC 或个人 NAS 上的音乐库，并在应用程序中访问该库，如[此处](/docs/howto/how-to-enable-dlna-media-server-on-windows-10-and-play-your-music-on-iphone)所述。DLNA 是一种流行且广泛使用的协议，但它只允许您播放或下载音乐。您无法上传文件或在服务器上创建新文件夹。
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="DLNA 连接设置" image="/docs/guide/evermusic/evermusic-guide-connections/img/connect-dlna-settings.webp" >}}
+  {{< ls-card title="" subtitle="DLNA 连接设置" image="/docs/guide/evermusic/evermusic-guide-connections/img/connect-dlna-settings.webp" >}}
 {{< /cards >}}
 
 ## 可用设备
@@ -120,7 +120,7 @@ URL 应为 http://server-name 格式，如果服务器支持 SSL 则为 https://
 - 如有需要，输入您的登录信息以完成连接。
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="本地网络上的可用设备" image="/docs/guide/evermusic/evermusic-guide-connections/img/connect-available-devices.webp" >}}
+  {{< ls-card title="" subtitle="本地网络上的可用设备" image="/docs/guide/evermusic/evermusic-guide-connections/img/connect-available-devices.webp" >}}
 {{< /cards >}}
 
 ## Wi-Fi Drive
@@ -146,7 +146,7 @@ Wi-Fi Drive 是一种便捷的技术，可通过桌面浏览器将文件从计�
 您拖放的文件将开始传输到 iOS 设备，并可在应用程序中访问。
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Wi-Fi Drive 服务器设置" image="/docs/guide/evermusic/evermusic-guide-connections/img/connect-wifidrive-settings.webp" >}}
+  {{< ls-card title="" subtitle="Wi-Fi Drive 服务器设置" image="/docs/guide/evermusic/evermusic-guide-connections/img/connect-wifidrive-settings.webp" >}}
 {{< /cards >}}
 
 关于如何使用 WiFi-Drive 无线传输文件的详细说明请参见[此处](/docs/howto/how-to-transfer-files-wirelessly-from-a-computer-to-an-iphone-using-wifi-drive)。
@@ -162,7 +162,7 @@ iTunes 文件共享是另一种技术，允许您使用 Mac 上的 Finder 应用
 关于如何使用 iTunes 文件共享的详细说明请参见[此处](/docs/howto/how-to-play-local-itunes-files-on-my-iphone/)。
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Mac 上的 iTunes / Finder 文件共享" image="/docs/guide/evermusic/evermusic-guide-connections/img/connect-itunes-file-sharing.webp" >}}
+  {{< ls-card title="" subtitle="Mac 上的 iTunes / Finder 文件共享" image="/docs/guide/evermusic/evermusic-guide-connections/img/connect-itunes-file-sharing.webp" >}}
 {{< /cards >}}
 
 ## 连接 USB 闪存盘
@@ -183,7 +183,7 @@ iTunes 文件共享是另一种技术，允许您使用 Mac 上的 Finder 应用
 - **随机播放**：类似于「全部播放」，但在将文件添加到音频播放器队列之前对其进行随机排序。
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="云文件夹内的顶部工具栏" image="/docs/guide/evermusic/evermusic-guide-connections/img/connect-top-toolbar.webp" >}}
+  {{< ls-card title="" subtitle="云文件夹内的顶部工具栏" image="/docs/guide/evermusic/evermusic-guide-connections/img/connect-top-toolbar.webp" >}}
 {{< /cards >}}
 
 ## 文件夹选项
@@ -200,7 +200,7 @@ iTunes 文件共享是另一种技术，允许您使用 Mac 上的 Finder 应用
 - **网格/列表视图**：在表格视图和缩略图视图两种显示模式之间切换。
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="当前文件夹的更多操作菜单" image="/docs/guide/evermusic/evermusic-guide-connections/img/connect-folder-options.webp" >}}
+  {{< ls-card title="" subtitle="当前文件夹的更多操作菜单" image="/docs/guide/evermusic/evermusic-guide-connections/img/connect-folder-options.webp" >}}
 {{< /cards >}}
 
 ## 编辑在线文件
@@ -212,7 +212,7 @@ iTunes 文件共享是另一种技术，允许您使用 Mac 上的 Finder 应用
 - **执行各种操作**：选择要管理的文件或文件夹后，您将可以访问多个操作。
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="在线文件的选择模式" image="/docs/guide/evermusic/evermusic-guide-connections/img/connect-selection-mode.webp" >}}
+  {{< ls-card title="" subtitle="在线文件的选择模式" image="/docs/guide/evermusic/evermusic-guide-connections/img/connect-selection-mode.webp" >}}
 {{< /cards >}}
 
 ## 文件操作
@@ -233,7 +233,7 @@ iTunes 文件共享是另一种技术，允许您使用 Mac 上的 Finder 应用
 - **删除**：此操作会永久从云存储中删除文件，此操作无法撤销。
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="单个文件的更多操作菜单" image="/docs/guide/evermusic/evermusic-guide-connections/img/connect-single-folder-more-options.webp" >}}
+  {{< ls-card title="" subtitle="单个文件的更多操作菜单" image="/docs/guide/evermusic/evermusic-guide-connections/img/connect-single-folder-more-options.webp" >}}
 {{< /cards >}}
 
 如果操作列表超出可用屏幕空间，只需在操作菜单中向下滚动以访问其他选项。

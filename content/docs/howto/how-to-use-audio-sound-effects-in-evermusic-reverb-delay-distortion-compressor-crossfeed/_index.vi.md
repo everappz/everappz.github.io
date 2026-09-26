@@ -7,7 +7,7 @@ tags: ["Evermusic", "Hiệu ứng âm thanh", "Hướng dẫn", "Reverb", "Delay
 readingTime: 8
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 **Tóm tắt nhanh:** Evermusic có sáu hiệu ứng âm thanh thời gian thực — **Chuẩn hóa âm lượng, Compressor, Reverb, Crossfeed, Delay và Distortion**. Mở chúng từ menu **⋯ (Thêm) > Hiệu ứng âm thanh** của trình phát, hoặc từ **Cài đặt > Trình phát âm thanh > Hiệu ứng âm thanh**. Chạm vào một hiệu ứng, gạt công tắc sang **BẬT** (góc trên bên phải), chọn một **preset**, và tùy chọn mở **Chế độ nâng cao** để tinh chỉnh các thanh trượt. Mỗi hiệu ứng hoạt động độc lập và áp dụng theo thời gian thực cho mọi thứ bạn phát — tệp cục bộ, luồng đám mây và đài phát thanh internet — mà không mã hóa lại.
 
@@ -162,38 +162,38 @@ Chúng cũng hoạt động cùng với **bộ chỉnh âm đồ họa 10 dải*
 
 ## Câu hỏi thường gặp
 
-{{% details title="Làm thế nào để thêm reverb, delay hay các hiệu ứng khác vào nhạc trong Evermusic?" closed="true" %}}
+{{% ls-details title="Làm thế nào để thêm reverb, delay hay các hiệu ứng khác vào nhạc trong Evermusic?" closed="true" %}}
 Mở trình phát, chạm nút ⋯ (Thêm) và chọn Hiệu ứng âm thanh (hoặc vào Cài đặt > Trình phát âm thanh > Hiệu ứng âm thanh). Chạm hiệu ứng bạn muốn, gạt công tắc sang BẬT ở góc trên bên phải, và chọn một preset. Mở chế độ Nâng cao để tinh chỉnh các thanh trượt. Hiệu ứng áp dụng ngay cho bất cứ thứ gì đang phát.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Evermusic có những hiệu ứng âm thanh nào?" closed="true" %}}
+{{% ls-details title="Evermusic có những hiệu ứng âm thanh nào?" closed="true" %}}
 Sáu hiệu ứng thời gian thực: Chuẩn hóa âm lượng (cân độ lớn EBU R128), Compressor (dải động), Reverb (không gian và đuôi vang), Crossfeed (định vị âm tự nhiên trên tai nghe), Delay (tiếng vang) và Distortion (chất rè lo-fi). Mỗi cái đều độc lập và có thể dùng riêng hoặc kết hợp.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Các hiệu ứng có thay đổi hay làm hỏng tệp âm thanh của tôi không?" closed="true" %}}
+{{% ls-details title="Các hiệu ứng có thay đổi hay làm hỏng tệp âm thanh của tôi không?" closed="true" %}}
 Không. Tất cả hiệu ứng chỉ áp dụng theo thời gian thực trong lúc phát. Chúng không bao giờ sửa đổi hay mã hóa lại tệp của bạn. Tắt một hiệu ứng và âm thanh gốc trở lại ngay lập tức.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Tôi có thể dùng nhiều hiệu ứng cùng lúc không?" closed="true" %}}
+{{% ls-details title="Tôi có thể dùng nhiều hiệu ứng cùng lúc không?" closed="true" %}}
 Có. Mỗi hiệu ứng đều độc lập — không có công tắc tổng — nên bạn có thể bật bất kỳ tổ hợp nào. Ví dụ, Chuẩn hóa âm lượng cộng Compressor để nghe đồng nhất, dễ chịu, hoặc Reverb cộng Crossfeed trên tai nghe.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Crossfeed là gì và tôi có nên dùng không?" closed="true" %}}
+{{% ls-details title="Crossfeed là gì và tôi có nên dùng không?" closed="true" %}}
 Crossfeed hòa một lượng nhỏ đã lọc của mỗi kênh stereo vào kênh kia để tai nghe nghe giống loa thật hơn, giảm cảm giác "trong đầu" của các bản phối panning gắt. Đây là hiệu ứng cho tai nghe (hãy để tắt khi dùng loa). Nó được xây dựng trên thuật toán Bauer stereophonic-to-binaural (bs2b) và có các preset như Chu Moy và Jan Meier.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Chuẩn hóa âm lượng là gì và khác ReplayGain thế nào?" closed="true" %}}
+{{% ls-details title="Chuẩn hóa âm lượng là gì và khác ReplayGain thế nào?" closed="true" %}}
 Chuẩn hóa âm lượng giữ mọi bài ở độ lớn đồng nhất bằng cách đo độ lớn cảm nhận với chuẩn EBU R128 và cân về một mục tiêu. Khác với ReplayGain, nó không cần thẻ độ lớn trong tệp của bạn và không thay đổi âm thanh — nó hoạt động trực tiếp trên mọi nguồn, kể cả luồng đám mây và đài phát thanh internet. Preset: Nhẹ, Tiêu chuẩn, Mạnh và Ban đêm.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Sự khác biệt giữa chế độ Đơn giản và Nâng cao là gì?" closed="true" %}}
+{{% ls-details title="Sự khác biệt giữa chế độ Đơn giản và Nâng cao là gì?" closed="true" %}}
 Chế độ Đơn giản hiển thị danh sách preset kèm mô tả dễ hiểu, nên bạn có được âm thanh hay chỉ với một lần chạm. Chế độ Nâng cao bổ sung các thanh trượt tham số (ví dụ Mix cho Reverb, hoặc bảy điều khiển của Compressor) để tinh chỉnh chính xác. Chuyển đổi giữa chúng bằng nút chế độ ở góc trên bên phải của mỗi trình chỉnh hiệu ứng.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Vì sao các điều khiển hiệu ứng bị mờ đi?" closed="true" %}}
+{{% ls-details title="Vì sao các điều khiển hiệu ứng bị mờ đi?" closed="true" %}}
 Hiệu ứng đang tắt. Bật công tắc của hiệu ứng ở góc trên bên phải của trình chỉnh để kích hoạt các điều khiển. Mọi hiệu ứng đều mặc định tắt.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Các hiệu ứng có hoạt động với phát trực tuyến và CarPlay không?" closed="true" %}}
+{{% ls-details title="Các hiệu ứng có hoạt động với phát trực tuyến và CarPlay không?" closed="true" %}}
 Có. Các hiệu ứng chạy bên trong bộ máy phát nhạc, nên chúng áp dụng cho tệp cục bộ, ổ đám mây, máy chủ phương tiện và đài phát thanh internet, và tiếp tục hoạt động trong khi phát qua CarPlay.
-{{% /details %}}
+{{% /ls-details %}}

@@ -11,7 +11,7 @@ Evermusic ja Flacbox ovat kaksi Everappzin edistynyttä musiikkisoitinta iPhonel
 
 **Lyhyt vastaus:** valitse **Evermusic**, jos haluat sulavimman kaikkeen sopivan kuuntelun, saumattomat taukottomat ja ristihäivytetyt siirtymät sekä pääsyn Apple Music -kirjastoosi. Valitse **Flacbox**, jos olet audiofiili, joka haluaa syvällisen äänenmuokkauksen (efektitelineen ja DSP-ketjun), valittavan ammattimaisen äänimoottorin sekä maksimaalisen hi-res- ja häviöttömän formaattikattavuuden, mukaan lukien DSD, APE ja WavPack.
 
-{{< app-details ids="885367198, 1097564256" >}}
+{{< ls-app-details ids="885367198, 1097564256" >}}
 
 ## Ominaisuuksien vertailutaulukko
 
@@ -129,38 +129,38 @@ Molemmat ovat ilmaisia ladata, ja niissä on valinnaiset Premium-päivitykset, j
 
 ## Usein kysytyt kysymykset
 
-{{% details title="Mikä on tärkein ero Evermusicin ja Flacboxin välillä?" closed="true" %}}
+{{% ls-details title="Mikä on tärkein ero Evermusicin ja Flacboxin välillä?" closed="true" %}}
 Ne jakavat saman alustan ja yhteydet, mutta äänipuoli eroaa. Evermusic toimii Applen AVPlayerilla ja Core Audiolla ja on laajan formaattituen jokapäiväinen soitin, jossa on aito taukoton toisto, ristihäivytys, tilaääni ja Apple Music -kirjaston tuonti. Flacbox lisää ammattimaisen BASS™-äänimoottorin ja FFmpeg-dekoodauksen, jotka tuovat 14 suodattimen DSP-ketjun, enemmän reaaliaikaisia efektejä, tracker/MOD-toiston sekä laajimman hi-res- ja häviöttömän formaattituen, mukaan lukien DSD, APE ja WavPack.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Onko Evermusic vai Flacbox parempi?" closed="true" %}}
+{{% ls-details title="Onko Evermusic vai Flacbox parempi?" closed="true" %}}
 Kumpikaan ei ole ehdottomasti parempi; ne on viritetty eri kuuntelijoille. Evermusic on parempi sulavaan, jokapäiväiseen kuunteluun ja niille, jotka käyttävät myös Apple Music -kirjastoaan, taukottoman toiston, ristihäivytyksen ja tilaäänen ansiosta. Flacbox on parempi audiofiileille, jotka haluavat syvällisen äänenmuokkauksen, valittavan ammattimaisen äänimoottorin sekä maksimaalisen hi-res- ja häviöttömän formaattikattavuuden.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Käyttääkö Evermusic FFmpegiä?" closed="true" %}}
+{{% ls-details title="Käyttääkö Evermusic FFmpegiä?" closed="true" %}}
 Ei. Evermusic toistaa kokonaan Applen natiivin äänipinon, AVPlayerin ja Core Audion kautta, ja Core Audio hoitaa sen efektit ja käsittelyn. FFmpeg-dekoodaus on Flacboxin ominaisuus, Flacboxin valittavan BASS-moottorin ohella.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Onko Flacboxissa taukoton toisto tai ristihäivytys?" closed="true" %}}
+{{% ls-details title="Onko Flacboxissa taukoton toisto tai ristihäivytys?" closed="true" %}}
 Ei. Aito taukoton toisto ja ristihäivytys (1–30 sekuntia) ovat Evermusicin ominaisuuksia. Flacbox keskittyy sen sijaan korkearesoluutioiseen toistoon, ammattimaiseen BASS-moottoriin, efektitelineeseen ja DSP-ketjuun.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Kumpi sovellus on parempi FLACille, DSD:lle ja APE:lle?" closed="true" %}}
+{{% ls-details title="Kumpi sovellus on parempi FLACille, DSD:lle ja APE:lle?" closed="true" %}}
 Flacbox. Molemmat sovellukset toistavat FLACia, mutta Flacbox on korkearesoluutioinen ja häviötön erikoissoitin, jossa on natiivi tuki formaateille FLAC, ALAC, DSD (DSF/DFF), APE, WavPack (WV), TTA, OPUS ja muut FFmpegin ja BASS™-moottorinsa kautta. Se tarjoaa myös tarkemman ulostulon hallinnan kriittiseen kuunteluun.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Kummassa sovelluksessa on enemmän ääniefektejä ja DSP-ketju?" closed="true" %}}
+{{% ls-details title="Kummassa sovelluksessa on enemmän ääniefektejä ja DSP-ketju?" closed="true" %}}
 Flacbox. Evermusicissa on 6 efektiä (Kaiku, Viive, Säröytys, Kompressori, Crossfeed ja Äänenvoimakkuuden normalisointi). Flacboxissa on 11 efektiä (lisäten Chorus, Flanger, Phaser, Auto-Wah, Stereorotaatio ja Multi-tap-viive) sekä itse rakennettava 14 suodattimen DSP-ketju. DSP-ketju on yksinomaan Flacboxissa.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Tukevatko molemmat sovellukset samoja pilvipalveluja, mediapalvelimia ja CarPlayta?" closed="true" %}}
+{{% ls-details title="Tukevatko molemmat sovellukset samoja pilvipalveluja, mediapalvelimia ja CarPlayta?" closed="true" %}}
 Kyllä. Evermusic ja Flacbox yhdistyvät samaan pilvitallennukseen (iCloud Drive, Google Drive, Dropbox, OneDrive, MEGA, pCloud, Internxt, Proton Drive ja muut), samoihin mediapalvelimiin (Plex, Subsonic, Navidrome, Jellyfin, Emby) ja samoihin tietokone- ja NAS-protokolliin (SMB, WebDAV, FTP, SFTP, NFS, DLNA), natiivilla tuella palveluille QNAP, Synology, Nextcloud ja WD My Cloud Home. Molemmat tukevat myös Apple CarPlayta, AirPlayta ja Google Chromecastia.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Voiko Evermusic toistaa Apple Music- tai iTunes-kirjastoni?" closed="true" %}}
+{{% ls-details title="Voiko Evermusic toistaa Apple Music- tai iTunes-kirjastoni?" closed="true" %}}
 Kyllä. Evermusic voi tuoda ja toistaa musiikkia Apple Music / iTunes -kirjastostasi pilvi- ja verkkolähteiden lisäksi. Flacbox on suunniteltu omille tiedostoillesi pilvestä, NAS:sta ja paikallisesta tallennustilasta, eikä se tuo Apple Music -kirjastoa.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Voinko käyttää Evermusicia ja Flacboxia yhdessä?" closed="true" %}}
+{{% ls-details title="Voinko käyttää Evermusicia ja Flacboxia yhdessä?" closed="true" %}}
 Kyllä, ja monet käyttävätkin. Yleinen kokoonpano on Evermusic päivittäiseen, saumattomaan toistoon ja Apple Music -kirjaston käyttöön, ja Flacbox kriittiseen, korkearesoluutioiseen kuunteluun BASS-moottorilla, efekteillä ja DSP-ketjulla. Molemmat lukevat samoista pilvi- ja NAS-lähteistä, joten kirjastosi on käytettävissä kummassakin sovelluksessa. Molemmat ovat ilmaisia ladata, ja niissä on valinnaiset Premium-sovellussisäiset päivitykset.
-{{% /details %}}
+{{% /ls-details %}}

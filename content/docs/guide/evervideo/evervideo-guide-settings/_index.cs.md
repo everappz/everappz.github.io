@@ -23,7 +23,7 @@ readingTime: 16
 Obrazovka Nastavení je řídicím centrem Evervideo. Odtud lze upgradovat na Premium, konfigurovat video a zvukové stroje (systémové kodeky nebo FFmpeg), spravovat Picture-in-Picture, nastavit titulky (primární, sekundární, libass, externí soubory, písma), organizovat knihovnu médií, nastavit správce souborů, aktivovat widgety plochy, zálohovat data a přistupovat k nápovědě a právním informacím. Sekce jsou seskupeny pod záhlavími: Nákupy a aktualizace, Předvolby aplikace, Nápověda, Právní a soukromí.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Hlavní obrazovka Nastavení Evervideo" image="/docs/guide/evervideo/img/evervideo-settings.webp" >}}
+  {{< ls-card title="" subtitle="Hlavní obrazovka Nastavení Evervideo" image="/docs/guide/evervideo/img/evervideo-settings.webp" >}}
 {{< /cards >}}
 
 ## Upgrade na Premium
@@ -31,13 +31,13 @@ Obrazovka Nastavení je řídicím centrem Evervideo. Odtud lze upgradovat na Pr
 Upgradujte aplikaci na verzi Premium pro odstranění všech omezení. Bezplatná verze aplikace nabízí jednorázový doživotní nákup a dvě možnosti předplatného (1 měsíc a 1 rok) pro odstranění všech omezení a upgrade na Premium.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Upgrade na Premium v Evervideo" image="/docs/guide/evervideo/img/evervideo-upgrade-to-premium.webp" >}}
+  {{< ls-card title="" subtitle="Upgrade na Premium v Evervideo" image="/docs/guide/evervideo/img/evervideo-upgrade-to-premium.webp" >}}
 {{< /cards >}}
 
 **Family Sharing** je povolen pro všechny nákupy a plány, takže verzi Premium lze sdílet s až pěti členy rodiny bez dalších nákladů.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Výběr Premium plánu v Evervideo" image="/docs/guide/evervideo/img/evervideo-select-premium-plan.webp" >}}
+  {{< ls-card title="" subtitle="Výběr Premium plánu v Evervideo" image="/docs/guide/evervideo/img/evervideo-select-premium-plan.webp" >}}
 {{< /cards >}}
 
 ## Sdílení nákupů mezi iOS a Mac
@@ -51,7 +51,7 @@ Také můžete klepnout na tlačítko **Obnovit nákupy** v nastavení aplikace.
 Pro obnovení nákupu na novém zařízení použijte nabídku **Nákupy → Obnovit nákupy**. Zobrazí se seznam nákupů. Pokud nevidíte všechny, potvrďte, že je zařízení připojeno ke stejnému Apple ID, které bylo použito k nákupům, a ujistěte se, že iCloud je povolen.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Nabídka nákupů v nastavení Evervideo" image="/docs/guide/evervideo/img/evervideo-purhases-menu-in-settings.webp" >}}
+  {{< ls-card title="" subtitle="Nabídka nákupů v nastavení Evervideo" image="/docs/guide/evervideo/img/evervideo-purhases-menu-in-settings.webp" >}}
 {{< /cards >}}
 
 ## Vyzkoušejte Premium zdarma

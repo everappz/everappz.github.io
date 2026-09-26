@@ -21,7 +21,7 @@ En esta pantalla, puedes acceder a la configuración de la aplicación y actuali
 - **Legal y privacidad** — Términos, Política de Privacidad, Avisos Legales, Analítica y recopilación de datos
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evertag Settings Screen" image="/docs/guide/evertag/img/settings.webp" >}}
+  {{< ls-card title="" subtitle="Evertag Settings Screen" image="/docs/guide/evertag/img/settings.webp" >}}
 {{< /cards >}}
 
 ## Actualizar a Premium
@@ -63,7 +63,7 @@ Activa la pantalla de protección por contraseña si quieres proteger los datos 
 El gestor de archivos admite acceso a cuentas de almacenamiento en la nube conectadas y ofrece operaciones por lotes para una gestión rápida de múltiples archivos.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evertag Settings File Manager Screen" image="/docs/guide/evertag/img/settings-file-manager.webp" >}}
+  {{< ls-card title="" subtitle="Evertag Settings File Manager Screen" image="/docs/guide/evertag/img/settings-file-manager.webp" >}}
 {{< /cards >}}
 
 ### Transferencias de archivos
@@ -103,7 +103,7 @@ Borra la carpeta de caché de la aplicación para recuperar espacio de almacenam
 En esta sección, puedes configurar el editor de etiquetas de audio integrado.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evertag Settings Tag Editor Screen" image="/docs/guide/evertag/img/settings-tag-editor.webp" >}}
+  {{< ls-card title="" subtitle="Evertag Settings Tag Editor Screen" image="/docs/guide/evertag/img/settings-tag-editor.webp" >}}
 {{< /cards >}}
 
 ### Escala de portada de álbum
@@ -136,7 +136,7 @@ En esta sección, puedes activar la función WiFi Drive, que te permite transfer
 En esta sección, puedes personalizar los ajustes de la interfaz de usuario según tus preferencias.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evertag Settings Personalization Screen" image="/docs/guide/evertag/img/settings-personalization.webp" >}}
+  {{< ls-card title="" subtitle="Evertag Settings Personalization Screen" image="/docs/guide/evertag/img/settings-personalization.webp" >}}
 {{< /cards >}}
 
 ### Icono de aplicación

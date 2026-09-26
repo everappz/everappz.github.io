@@ -6,7 +6,7 @@ keywords: ["export evermusic", "export flacbox", "export do m3u", "export playli
 tags: ["evermusic", "nedávne", "obľúbené", "export", "m3u", "playlist", "csv", "txt", "album"]
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **Zhrnutie:** Evermusic a Flacbox vám umožňujú exportovať akúkoľvek kolekciu skladieb (nedávne, obľúbené, playlisty, albumy) do súborov CSV, TXT alebo M3U. Tieto exporty použite na scrobblovanie do Last.fm, zálohovanie knižnice alebo prehrávanie playlistov na iných zariadeniach.
@@ -157,22 +157,22 @@ Export skladieb z Evermusic a Flacbox vám dáva úplnú kontrolu nad vašimi hu
 
 ## Často kladené otázky
 
-{{% details title="Ktorý formát exportu mám použiť pre scrobblovanie Last.fm?" closed="true" %}}
+{{% ls-details title="Ktorý formát exportu mám použiť pre scrobblovanie Last.fm?" closed="true" %}}
 Použite CSV. Obsahuje časové pečiatky a úplné metadáta potrebné pre scrobblovacie nástroje ako Last.fm-Scrubbler-WPF.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Môžem exportovať akúkoľvek kolekciu skladieb, nielen playlisty?" closed="true" %}}
+{{% ls-details title="Môžem exportovať akúkoľvek kolekciu skladieb, nielen playlisty?" closed="true" %}}
 Áno. Môžete exportovať nedávne, obľúbené, albumy, playlisty a akúkoľvek inú kolekciu skladieb v aplikácii pomocou rovnakých krokov.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Bude môj playlist M3U fungovať na iných zariadeniach?" closed="true" %}}
+{{% ls-details title="Bude môj playlist M3U fungovať na iných zariadeniach?" closed="true" %}}
 Ak si počas exportu vyberiete možnosť Absolútna URL, súbor M3U je možné prehrávať na akomkoľvek zariadení, ktoré podporuje playlisty M3U. Upozorňujeme, že niektoré cloudové URL adresy môžu časom vypršať.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Je funkcia exportu zadarmo?" closed="true" %}}
+{{% ls-details title="Je funkcia exportu zadarmo?" closed="true" %}}
 Áno. Export kolekcií skladieb do M3U, CSV a TXT je dostupný v bezplatnej aj prémiovej verzii Evermusic a Flacbox.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Ktoré cloudové služby podporujú export s absolútnou URL?" closed="true" %}}
+{{% ls-details title="Ktoré cloudové služby podporujú export s absolútnou URL?" closed="true" %}}
 Export s absolútnou URL je podporovaný pre iCloud Drive, pCloud, PanBaidu, MyCloudHome, DLNA, MediaFire, OneDrive, Box, Dropbox, Google Drive a WebDAV (hosťovský režim).
-{{% /details %}}
+{{% /ls-details %}}

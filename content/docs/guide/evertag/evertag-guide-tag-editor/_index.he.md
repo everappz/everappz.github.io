@@ -15,7 +15,7 @@ readingTime: 5
 **עורך התגים** הוא המסך הראשי של אפליקציית Evertag שבו ניתן לצפות ולערוך מטאדטה של קבצי אודיו. פתחו מסך זה על ידי הקשה על קובץ מסעיף **קבצים מקומיים** או מכל חשבון **אחסון בענן** מחובר.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="מסך עורך התגים Evertag" image="/docs/guide/evertag/img/tag-editor.webp" >}}
+  {{< ls-card title="" subtitle="מסך עורך התגים Evertag" image="/docs/guide/evertag/img/tag-editor.webp" >}}
 {{< /cards >}}
 
 ## מצבי עריכה
@@ -38,7 +38,7 @@ Evertag מספק שני מצבי עריכה:
 כדי לגשת לכל התגים הזמינים, גללו לתחתית המסך והקישו על האפשרות **הצג תגים מורחבים**. זה יעביר את העורך למצב מורחב, ומאפשר לכם לערוך יותר מ**120 שדות מטאדטה**, כולל **תגי MusicBrainz**, **מילות שיר**, **דירוגי תוכן**, ערכי replay-gain, סדרי מיון, מטאדטה של פודקאסט ועוד. השתמשו ב**הגדרות → עורך תגי אודיו → כפתורים על המסך הראשי** כדי להחליף לצמיתות את הצג תגים מורחבים כך שהוא תמיד פועל.
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="לוח פעולות תחתון" image="/docs/guide/evertag/img/tag-editor-bottom-actions.webp" >}}
+{{< ls-card title="" subtitle="לוח פעולות תחתון" image="/docs/guide/evertag/img/tag-editor-bottom-actions.webp" >}}
 {{< /cards >}}
 
 ## מצב אצווה
@@ -53,7 +53,7 @@ Evertag מספק שני מצבי עריכה:
    - פתחו קובץ כלשהו, גללו למטה והקישו **ערוך קבצים בו-זמנית** לטעינת כל הקבצים מאותה תיקייה.
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="מצב עריכת אצווה" image="/docs/guide/evertag/img/tag-editor-batch-editing.webp" >}}
+{{< ls-card title="" subtitle="מצב עריכת אצווה" image="/docs/guide/evertag/img/tag-editor-batch-editing.webp" >}}
 {{< /cards >}}
 
 לאחר עריכה, הקישו **שמור** כדי להחיל שינויים.
@@ -72,19 +72,19 @@ Evertag מספק שני מצבי עריכה:
 כל קיצור מופיע רק כשהשירות המתאים נגיש מהמכשיר שלכם. הקישו על שירות, העתיקו את מילות השיר (או חותמות הזמן של LRC) שאתם רוצים, חזרו ל-Evertag, הדביקו אותם בשדה הטקסט — ואז **שמרו** כדי לכתוב את מילות השיר חזרה לתגי קובץ האודיו.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="דפי מילות שיר" image="/docs/guide/evertag/img/tag-editor-lyrics-pages.webp" >}}
+  {{< ls-card title="" subtitle="דפי מילות שיר" image="/docs/guide/evertag/img/tag-editor-lyrics-pages.webp" >}}
 {{< /cards >}}
 
 בחרו שפה מהבורר:
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="בורר שפת מילות שיר" image="/docs/guide/evertag/img/tag-editor-lyrics-language-select.webp" >}}
+  {{< ls-card title="" subtitle="בורר שפת מילות שיר" image="/docs/guide/evertag/img/tag-editor-lyrics-language-select.webp" >}}
 {{< /cards >}}
 
 ואז הדביקו או הקלידו את טקסט מילות השיר. Evertag תומך בטקסט רגיל ובמילות שיר מתוזמנות (מסונכרנות) — הטקסט המציין מראה דוגמה לפורמט בסגנון LRC, שהוא בדיוק מה ש-Lrclib ו-Lyricsify מחזירים לתוצאות מסונכרנות.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="עורך טקסט מילות שיר" image="/docs/guide/evertag/img/tag-editor-lyrics-text.webp" >}}
+  {{< ls-card title="" subtitle="עורך טקסט מילות שיר" image="/docs/guide/evertag/img/tag-editor-lyrics-text.webp" >}}
 {{< /cards >}}
 
 ## הגדרת דירוג ודירוג תוכן
@@ -96,7 +96,7 @@ Evertag מספק שני מצבי עריכה:
 השתמשו בשדה **דירוג** לתת לרצועה ציון אישי מכוכב אחד עד חמישה כוכבים. הערך נכתב לתג הדירוג הסטנדרטי של הקובץ (POPM עבור ID3, `rate` עבור MP4, `RATING` עבור Vorbis/APE וכו'), כך שאפליקציות אחרות הקוראות תג זה — כולל אפליקציית המוזיקה, Plex, Roon ורוב עורכי התגים לשולחן העבודה — יקלטו מיד את הציונים שלכם.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="דירוג" image="/docs/guide/evertag/img/tag-editor-rating.webp" >}}
+  {{< ls-card title="" subtitle="דירוג" image="/docs/guide/evertag/img/tag-editor-rating.webp" >}}
 {{< /cards >}}
 
 ### דירוג תוכן
@@ -117,7 +117,7 @@ Evertag מספק שני מצבי עריכה:
 הערך מאוחסן בשדה דירוג התוכן הסטנדרטי עבור פורמט הקובץ (`rtng` עבור MP4, `TXXX:ITUNESADVISORY` עבור ID3, `ITUNESADVISORY` עבור Vorbis), כך שכל נגן הקורא מטאדטה של בקרה הורית יראה את העדכון שלכם.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="דירוג תוכן של מילות שיר" image="/docs/guide/evertag/img/lyrics-advisory-rating.webp" >}}
+  {{< ls-card title="" subtitle="דירוג תוכן של מילות שיר" image="/docs/guide/evertag/img/lyrics-advisory-rating.webp" >}}
 {{< /cards >}}
 
 ## עריכת עטיפת אלבום
@@ -129,7 +129,7 @@ Evertag מספק שני מצבי עריכה:
 3. בחרו תמונה להחיל כאמנות כיסוי.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="בחר תמונה" image="/docs/guide/evertag/img/select-image.webp" >}}
+  {{< ls-card title="" subtitle="בחר תמונה" image="/docs/guide/evertag/img/select-image.webp" >}}
 {{< /cards >}}
 
 ## עוד פעולות בעורך תגים
@@ -137,7 +137,7 @@ Evertag מספק שני מצבי עריכה:
 אפשרויות עריכה נוספות זמינות דרך סרגל הכלים מתחת לתצוגת האמנות.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="תפריט עוד פעולות" image="/docs/guide/evertag/img/tag-editor-more-actions.webp" >}}
+  {{< ls-card title="" subtitle="תפריט עוד פעולות" image="/docs/guide/evertag/img/tag-editor-more-actions.webp" >}}
 {{< /cards >}}
 
 ### חיפוש אוטומטי של תגי אודיו
@@ -150,13 +150,13 @@ Evertag מספק שני מצבי עריכה:
 השתמשו במטאדטה לחיפוש אמנות אלבום נכונה באינטרנט.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="חיפוש עטיפת אלבום" image="/docs/guide/evertag/img/search-album-cover.webp" >}}
+  {{< ls-card title="" subtitle="חיפוש עטיפת אלבום" image="/docs/guide/evertag/img/search-album-cover.webp" >}}
 {{< /cards >}}
 
 לאחר שנמצאה, שמרו את התמונה ל**תמונות** שלכם באמצעות תפריט ההקשר של המערכת.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="הוסף תמונה לתמונות" image="/docs/guide/evertag/img/add-image-to-photos.webp" >}}
+  {{< ls-card title="" subtitle="הוסף תמונה לתמונות" image="/docs/guide/evertag/img/add-image-to-photos.webp" >}}
 {{< /cards >}}
 
 לאחר מכן, חזרו לעורך התגים, הקישו על סמל המצלמה, עברו ל**ספריית תמונות** ובחרו את התמונה השמורה. האפליקציה תגדיר אותה ככריכה של קובץ האודיו שלכם.
@@ -178,19 +178,19 @@ Evertag מספק שני מצבי עריכה:
 - בחרו את האלבום
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="בחר אלבום" image="/docs/guide/evertag/img/select-album-results.webp" >}}
+  {{< ls-card title="" subtitle="בחר אלבום" image="/docs/guide/evertag/img/select-album-results.webp" >}}
 {{< /cards >}}
 
 - בחרו את השיר הנכון
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="בחר שיר" image="/docs/guide/evertag/img/select-a-song.webp" >}}
+  {{< ls-card title="" subtitle="בחר שיר" image="/docs/guide/evertag/img/select-a-song.webp" >}}
 {{< /cards >}}
 
 - בחרו אילו תגים להחיל
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="בחר תגי אודיו" image="/docs/guide/evertag/img/select-audio-tags.webp" >}}
+  {{< ls-card title="" subtitle="בחר תגי אודיו" image="/docs/guide/evertag/img/select-audio-tags.webp" >}}
 {{< /cards >}}
 
 הקישו **בוצע** כדי להחיל את המטאדטה הנבחרת על הרצועה שלכם.

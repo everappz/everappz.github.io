@@ -16,7 +16,7 @@ readingTime: 3
 Evertag bietet eine intuitive Benutzeroberfläche. Was es von vielen beliebten Apps unterscheidet, ist sein integrierter Dateimanager, der Benutzern die Möglichkeit gibt, Audiodateien zu bearbeiten und sie nahtlos zum und vom Cloud-Speicher zu übertragen.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evertag Screen" image="/docs/guide/evertag/img/tag-editor.webp" >}}
+  {{< ls-card title="" subtitle="Evertag Screen" image="/docs/guide/evertag/img/tag-editor.webp" >}}
 {{< /cards >}}
 
 ## Abschnitte
@@ -42,7 +42,7 @@ Der Abschnitt „Lokale Dateien" ist in zwei Kategorien unterteilt: **Dateien in
 Praktisch jedes Inhaltselement auf dem Bildschirm hat eine Schaltfläche „Weitere Aktionen". Tippen Sie darauf, um auf alle verfügbaren Aktionen zuzugreifen.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evertag More Actions" image="/docs/guide/evertag/img/downloads-file-actions.webp" >}}
+  {{< ls-card title="" subtitle="Evertag More Actions" image="/docs/guide/evertag/img/downloads-file-actions.webp" >}}
 {{< /cards >}}
 
 ## Obere Symbolleiste

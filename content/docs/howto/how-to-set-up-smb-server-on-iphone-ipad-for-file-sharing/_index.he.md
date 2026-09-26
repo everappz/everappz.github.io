@@ -7,7 +7,7 @@ keywords: ["שרת SMB ל-iPhone", "שרת SMB ל-iPad", "איך להקים SMB 
 readingTime: 10
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 SMB הוא שיתוף הקבצים המובנה ב-macOS, ב-Windows וב-Linux, וכמעט בכל כונן רשת (NAS). כשאתם מתחברים לתיקייה משותפת על מחשב אחר והיא נפתחת כמו דיסק רגיל ב-Finder או ב-File Explorer, זה SMB שעושה את העבודה. עם [Everdisk](/products/everdisk) אפשר להעמיד שיתוף SMB על ה-iPhone או ה-iPad שלכם, כך שהטלפון עצמו מופיע ככונן רשת שמכשירים אחרים מעיינים בו, מעתיקים ממנו ומעתיקים אליו.
 
@@ -136,44 +136,44 @@ SMB הוא החיבור היחיד של Everdisk שיכול להצפין כל ה
 
 ## שאלות נפוצות
 
-{{% details title="מהי כתובת ה-SMB והפורט של ה-iPhone שלי?" closed="true" %}}
+{{% ls-details title="מהי כתובת ה-SMB והפורט של ה-iPhone שלי?" closed="true" %}}
 אחרי שאתם מתחילים לשתף, Everdisk מציגה את הכתובת במסך השיתוף. היא נראית כמו smb://192.168.1.20:4455/Share. ה-4455 הוא הפורט ש-Everdisk משתמשת בו ל-SMB, ו-Share הוא שם התיקייה המשותפת. החלק הראשון הוא כתובת ה-iPhone שלכם ברשת ה-Wi-Fi, ולכן שלכם תהיה שונה.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="האם אפשר להתחבר לשיתוף ה-SMB של ה-iPhone שלי מ-Windows?" closed="true" %}}
+{{% ls-details title="האם אפשר להתחבר לשיתוף ה-SMB של ה-iPhone שלי מ-Windows?" closed="true" %}}
 Windows File Explorer מתחבר ל-SMB רק על הפורט הסטנדרטי ואינו מקבל פורט מותאם אישית בנתיב, ואילו Everdisk משתמשת בפורט 4455. לכן מסלול ה-Map network drive הרגיל לרוב לא יגיע אליו. השתמשו במנהל קבצים שמאפשר להגדיר פורט מותאם אישית, או התחברו מ-Windows עם WebDAV, FTP או קישור הדפדפן במקום זאת. כל אלה עובדים מ-Windows בלי שום בעיית פורט.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="איך משתפים קבצים בין שני אייפונים עם SMB?" closed="true" %}}
+{{% ls-details title="איך משתפים קבצים בין שני אייפונים עם SMB?" closed="true" %}}
 התחילו את שרת ה-SMB ב-iPhone הראשון ב-Everdisk. ב-iPhone השני, פתחו את אפליקציית Files, הקישו על כפתור ה-more, בחרו Connect to Server, והזינו את כתובת ה-smb שמוצגת ב-Everdisk (למשל smb://192.168.1.20:4455/Share). התחברו כ-Guest או עם ההתחברות שלכם, והשיתוף מופיע ב-Files. אפשר גם להשתמש בלשונית ה-מכשירים של Everdisk עצמה בטלפון השני.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="האם ה-iPhone שלי מופיע בסרגל הצד של Finder ב-Mac אוטומטית?" closed="true" %}}
+{{% ls-details title="האם ה-iPhone שלי מופיע בסרגל הצד של Finder ב-Mac אוטומטית?" closed="true" %}}
 בדרך כלל כן. Everdisk מכריזה על שיתוף ה-SMB ברשת ה-Wi-Fi שלכם, כך שה-iPhone שלכם מופיע לעתים קרובות תחת Locations או Network בסרגל הצד של Finder. הקליקו עליו ובחרו Connect As, ואז Guest או ההתחברות שלכם. אם הוא לא מופיע, התחברו ידנית עם Go, Connect to Server וכתובת ה-smb המלאה.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="האם צריך סיסמה כדי להשתמש ב-SMB?" closed="true" %}}
+{{% ls-details title="האם צריך סיסמה כדי להשתמש ב-SMB?" closed="true" %}}
 לא, ההתחברות אופציונלית. השאירו את ההתחברות והסיסמה ריקות בהגדרות, שיתוף, גישה כדי לאפשר גישת אורח. הגדירו אותן אם אתם רוצים שחיבורים ייכנסו למערכת. התחברות וסיסמה נדרשות רק אם אתם מפעילים את דרוש הצפנת SMB, כי חיבורים מוצפנים לא יכולים להיות אנונימיים.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="האם חיבור ה-SMB מוצפן?" closed="true" %}}
+{{% ls-details title="האם חיבור ה-SMB מוצפן?" closed="true" %}}
 הוא יכול להיות. SMB הוא החיבור היחיד של Everdisk שתומך בהצפנה. הגדירו התחברות וסיסמה, ואז הפעילו את דרוש הצפנת SMB בהגדרות, שיתוף. כל העברה אז מוגנת בעזרת SMB3 (AES). המכשיר האחר צריך לתמוך ב-SMB3, מה שמחשבי Mac מודרניים ו-Windows 10 ואילך תומכים בו. הצפנה היא תכונת Premium.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="האם אנשים יכולים לשנות או למחוק את הקבצים שלי דרך SMB?" closed="true" %}}
+{{% ls-details title="האם אנשים יכולים לשנות או למחוק את הקבצים שלי דרך SMB?" closed="true" %}}
 רק אם תאפשרו זאת. מתג עריכת קבצים בהגדרות, שיתוף, גישה שולט בזה. כשהוא מופעל, מכשירים מחוברים יכולים להעלות, לשנות שם ולמחוק. כשהוא כבוי, השיתוף לקריאה בלבד ואחרים יכולים לעיין ולהעתיק קבצים מהטלפון שלכם אך לא לשנות דבר.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="למה חיבור ה-SMB שלי התנתק?" closed="true" %}}
+{{% ls-details title="למה חיבור ה-SMB שלי התנתק?" closed="true" %}}
 ה-iPhone שלכם הוא השרת, ו-iOS משהה אפליקציות שנשארות ברקע יותר מדי זמן. השאירו את Everdisk פתוחה על המסך בזמן שמכשיר מחובר, וחברו את הטלפון לחשמל במהלך העברות ארוכות. ודאו גם ששני המכשירים נשארו באותה רשת Wi-Fi.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="SMB, WebDAV או FTP, במה כדאי להשתמש?" closed="true" %}}
+{{% ls-details title="SMB, WebDAV או FTP, במה כדאי להשתמש?" closed="true" %}}
 השתמשו ב-SMB כשאתם רוצים שהטלפון יתנהג ככונן רשת אמיתי על Mac, iPhone נוסף, Linux או NAS, וכשאתם רוצים הצפנה. השתמשו ב-WebDAV כשאתם רוצים כונן רשת שעובד היטב גם מ-Windows. השתמשו ב-FTP לתאימות הרחבה ביותר עם מכשירים ואפליקציות ישנים. Everdisk יכולה להריץ את כולם בבת אחת, ולכן אתם לא נעולים על אחד.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="האם Everdisk בחינם?" closed="true" %}}
+{{% ls-details title="האם Everdisk בחינם?" closed="true" %}}
 כן, את Everdisk אפשר להוריד בחינם ושרת ה-SMB כלול. רכישת ה-Premium החד פעמית והאופציונלית מוסיפה הצפנת SMB, פורטים מותאמים אישית וכמה תוספות אחרות. אפשר להקים SMB ולשתף קבצים בלי לשלם.
-{{% /details %}}
+{{% /ls-details %}}
 
 מוכנים לנסות? [הורידו את Everdisk מ-App Store](https://apps.apple.com/app/apple-store/id6751851132?pt=95781850&ct=everappzcom&mt=8) ופתחו את ה-iPhone שלכם ב-Finder תוך כדקה. שאלות או משוב? כתבו לנו ל-**support@everappz.com**.

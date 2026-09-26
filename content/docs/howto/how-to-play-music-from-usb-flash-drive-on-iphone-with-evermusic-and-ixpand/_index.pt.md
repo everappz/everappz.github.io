@@ -7,7 +7,7 @@ tags: ["música", "usb", "externo", "ixpand", "sandisk", "iphone", "evermusic"]
 readingTime: 3
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **Resumo:** O Evermusic permite que você reproduza música diretamente de um SanDisk iXpand Flash Drive no seu iPhone ou iPad. Conecte o drive, abra o Evermusic e comece a ouvir -- sem necessidade de copiar arquivos para o seu dispositivo. Suporta gerenciamento de arquivos, listas de reprodução, equalizador e streaming AirPlay.
@@ -69,22 +69,22 @@ Com o Evermusic e o SanDisk iXpand Flash Drive, você terá a liberdade de aprov
 
 ## FAQ
 
-{{% details title="Quais modelos de iXpand Flash Drive o Evermusic suporta?" closed="true" %}}
+{{% ls-details title="Quais modelos de iXpand Flash Drive o Evermusic suporta?" closed="true" %}}
 O Evermusic suporta SanDisk iXpand Flash Drives com protocolos V1, V2, V3, V6 e V7. Você pode verificar a compatibilidade nas Configurações do seu iPhone em Geral > Sobre > iXpand Flash Drive.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Posso reproduzir música do drive USB sem copiar arquivos para o meu iPhone?" closed="true" %}}
+{{% ls-details title="Posso reproduzir música do drive USB sem copiar arquivos para o meu iPhone?" closed="true" %}}
 Sim. O Evermusic reproduz arquivos de áudio diretamente do iXpand Flash Drive. Não é necessário copiar nada para o armazenamento interno do seu dispositivo.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Quais formatos de áudio o Evermusic suporta de drives USB?" closed="true" %}}
+{{% ls-details title="Quais formatos de áudio o Evermusic suporta de drives USB?" closed="true" %}}
 O Evermusic suporta todos os principais formatos de áudio, incluindo MP3, FLAC, AAC, WAV, AIFF, OGG e mais. Qualquer arquivo de áudio armazenado no seu drive iXpand pode ser reproduzido diretamente.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Posso transmitir música do drive iXpand para alto-falantes AirPlay?" closed="true" %}}
+{{% ls-details title="Posso transmitir música do drive iXpand para alto-falantes AirPlay?" closed="true" %}}
 Sim. Enquanto reproduz música do drive USB, você pode transmitir áudio para dispositivos compatíveis com AirPlay, como alto-falantes Sonos, Apple TV e Google Chromecast.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="O que devo fazer se meu drive iXpand não for reconhecido?" closed="true" %}}
+{{% ls-details title="O que devo fazer se meu drive iXpand não for reconhecido?" closed="true" %}}
 Certifique-se de que nenhum outro aplicativo esteja usando o drive. Tente desconectar e reconectar. Se seu modelo não for suportado, use um adaptador Apple Lightning para USB para conectar o drive como um dispositivo USB padrão.
-{{% /details %}}
+{{% /ls-details %}}

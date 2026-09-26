@@ -34,7 +34,7 @@ You can get to the full-screen player from the compact player bar. On iPhone, th
 The compact player stays visible while you browse your library, your file manager, or your settings, so you never lose your video while looking for the next one.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evervideo Full-Screen Media Player" image="/docs/guide/evervideo/img/evervideo-media-player-fullscreen.webp" >}}
+  {{< ls-card title="" subtitle="Evervideo Full-Screen Media Player" image="/docs/guide/evervideo/img/evervideo-media-player-fullscreen.webp" >}}
 {{< /cards >}}
 
 ## Supported Video and Audio Formats
@@ -75,7 +75,7 @@ PiP works with every video format Evervideo plays, including cloud-streamed file
 The compact player is a persistent mini-player that stays visible at the top of every screen in the app while you browse the library, the file manager, or settings. Tap it to expand into the full-screen player; swipe down to collapse it again.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evervideo Video Settings from the Compact Player on the Main Screen" image="/docs/guide/evervideo/img/evervideo-video-settings-from-compact-player-view-on-the-main-screen.webp" >}}
+  {{< ls-card title="" subtitle="Evervideo Video Settings from the Compact Player on the Main Screen" image="/docs/guide/evervideo/img/evervideo-video-settings-from-compact-player-view-on-the-main-screen.webp" >}}
 {{< /cards >}}
 
 ## AirPlay 2
@@ -118,7 +118,7 @@ Evervideo includes a full audio equalizer to tune video soundtracks for your hea
 For tuning the picture, Evervideo provides a dedicated video equalizer — adjust brightness, contrast, saturation, and hue in real time during playback. Like the audio equalizer, custom video presets can be exported and imported for sharing or backup. Use it to brighten a dark scene on a sunny day, boost saturation on washed-out content, or warm up a cold color cast.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evervideo Video Equalizer" image="/docs/guide/evervideo/img/evervideo-video-equalizer.webp" >}}
+  {{< ls-card title="" subtitle="Evervideo Video Equalizer" image="/docs/guide/evervideo/img/evervideo-video-equalizer.webp" >}}
 {{< /cards >}}
 
 ## Video Scaling Mode
@@ -147,7 +147,7 @@ Evervideo includes a VR / 360° viewport for spherical video files. When playing
 Tap the Speed control on the player toolbar to change playback speed — slow it down for analysis (0.25× or 0.5×) or speed it up for tutorials and lectures (1.25×, 1.5×, 2×, and up to 3×). Tap the configuration icon in the top-right corner of the Speed screen to switch to precise mode with finer adjustments. Per-track pitch correction is also available.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evervideo Playback Speed on the Main Toolbar" image="/docs/guide/evervideo/img/evervideo-media-player-playback-speed-on-main-toolbar.webp" >}}
+  {{< ls-card title="" subtitle="Evervideo Playback Speed on the Main Toolbar" image="/docs/guide/evervideo/img/evervideo-media-player-playback-speed-on-main-toolbar.webp" >}}
 {{< /cards >}}
 
 ## Player Queue
@@ -155,7 +155,7 @@ Tap the Speed control on the player toolbar to change playback speed — slow it
 To see your player queue, tap the queue button on the player. Each video in the queue has more actions — tap the three dots to view them. To reorder a video in the queue, use the reorder indicator near the title and drag it to a new position.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evervideo Playback Queue" image="/docs/guide/evervideo/img/evervideo-playback-queue.webp" >}}
+  {{< ls-card title="" subtitle="Evervideo Playback Queue" image="/docs/guide/evervideo/img/evervideo-playback-queue.webp" >}}
 {{< /cards >}}
 
 ## Sleep Timer
@@ -192,7 +192,7 @@ Tap the **More Actions "..."** button on the player to access additional functio
 - **Help** — open guidance.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evervideo Player More Actions Screen" image="/docs/guide/evervideo/img/evervideo-media-player-more-actions.webp" >}}
+  {{< ls-card title="" subtitle="Evervideo Player More Actions Screen" image="/docs/guide/evervideo/img/evervideo-media-player-more-actions.webp" >}}
 {{< /cards >}}
 
 ## Player Settings

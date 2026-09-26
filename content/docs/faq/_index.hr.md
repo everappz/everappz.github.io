@@ -15,7 +15,7 @@ tags: [
 ---
 
 
-{{< lottie src="/images/juicy-json/juicy-woman-focused-on-online-learning.json" width="85%" >}}
+{{< ls-lottie src="/images/juicy-json/juicy-woman-focused-on-online-learning.json" width="85%" >}}
 
 ## Naučite koristiti naše aplikacije
 
@@ -27,7 +27,7 @@ Istražite FAQ za svoju aplikaciju u nastavku kako biste započeli, ili pregleda
 
 ## Odaberite svoju aplikaciju
 
-{{< product-doc-cards section="faq" >}}
+{{< ls-product-doc-cards section="faq" >}}
 
 ## Uobičajeni problemi i odgovori
 
@@ -35,7 +35,7 @@ Istražite FAQ za svoju aplikaciju u nastavku kako biste započeli, ili pregleda
 
 <div class="hx:w-full">
 
-{{% details title="Zašto se ne mogu prijaviti na pCloud na starijoj verziji iOS-a (15.8.4)?" closed="true" %}}
+{{% ls-details title="Zašto se ne mogu prijaviti na pCloud na starijoj verziji iOS-a (15.8.4)?" closed="true" %}}
 Web stranica za prijavu pClouda možda se neće ispravno prikazati na starijim verzijama iOS-a poput 15.8.4, što sprječava unos e-pošte i lozinke na zaslonu za cloud vezu.<br><br>
 
 Kao zaobilazno rješenje možete koristiti protokol **WebDAV**, koji podržava pCloud i pouzdano radi na svim verzijama iOS-a.
@@ -49,9 +49,9 @@ Kao zaobilazno rješenje možete koristiti protokol **WebDAV**, koji podržava p
 Otvorite aplikaciju → Veze → Poveži s pohranom u oblaku → Odaberite **WebDAV** → Unesite svoje podatke i URL poslužitelja.
 
 Ova metoda omogućit će vam povezivanje s pCloud pohranom i pristup datotekama bez problema na starijim uređajima.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Kako reproducirati glazbu putem AirPlaya s Maca (macOS)?" closed="true" %}}
+{{% ls-details title="Kako reproducirati glazbu putem AirPlaya s Maca (macOS)?" closed="true" %}}
 macOS verzija aplikacije ne uključuje ugrađene gumbe za AirPlay, Chromecast ili Bluetooth kao iOS.<br><br>
 
 Za korištenje **AirPlaya** na vašem MacBook Prou, slijedite ove korake:
@@ -62,9 +62,9 @@ Za korištenje **AirPlaya** na vašem MacBook Prou, slijedite ove korake:
 4. Odaberite željeni uređaj za početak streamanja vaše glazbe.  
 
 Time će se sav sistemski zvuk (uključujući iz Evermusica ili Flacboxa) preusmjeriti na odabrani AirPlay uređaj.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Zašto moja Premium kupnja nije aktivirana na Macu ako sam je kupio na iPhoneu?" closed="true" %}}
+{{% ls-details title="Zašto moja Premium kupnja nije aktivirana na Macu ako sam je kupio na iPhoneu?" closed="true" %}}
 Doživotne kupnje i pretplate sinkroniziraju se između iOS-a i Maca putem **iClouda**.<br><br>
 
 Za aktivaciju Premiuma na Macu:<br>
@@ -76,9 +76,9 @@ Za aktivaciju Premiuma na Macu:<br>
 - Alternativno, dodirnite **Obnovi kupnje** u postavkama aplikacije na oba uređaja<br><br>
 
 Vaše Premium funkcije trebale bi se zatim automatski aktivirati na Macu.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Kako mogu automatski sinkronizirati popise za reprodukciju između uređaja?" closed="true" %}}
+{{% ls-details title="Kako mogu automatski sinkronizirati popise za reprodukciju između uređaja?" closed="true" %}}
 Trenutno **ne postoji automatska sinkronizacija** za popise za reprodukciju.<br><br>
 
 Možete koristiti jednu od sljedećih opcija:<br>
@@ -88,9 +88,9 @@ Možete koristiti jednu od sljedećih opcija:<br>
   - [Kako uvesti popise za reprodukciju](/docs/howto/how-to-import-m3u-playlist-to-evermusic-and-flacbox/)<br>
 - **Arhiviraj popis za reprodukciju ili albume** i prenesi putem ZIP-a:<br>
   - [Vodič za arhiviranje popisa za reprodukciju](/docs/howto/how-to-archive-zip-playlists-albums-artists-and-genres-in-evermusic-flacbox-and-transfer-to/)
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Je li sigurno koristiti vaše aplikacije? Mogu li onemogućiti analitiku?" closed="true" %}}
+{{% ls-details title="Je li sigurno koristiti vaše aplikacije? Mogu li onemogućiti analitiku?" closed="true" %}}
 Da, vaša privatnost naša je najviša prioritet.<br><br>
 
 - Svi podaci — glazbene datoteke, postavke, cloud prijave — ostaju na vašem uređaju<br>
@@ -104,18 +104,18 @@ Više informacija:<br>
 
 Pri korištenju personaliziranih oglasa, Google Mobile Ads zahtijeva prikaz postavki pristanka.<br>
 Korisnici Premiuma ne vide oglase i oglas SDK je potpuno onemogućen.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Podržavaju li vaše aplikacije Obiteljsko dijeljenje?" closed="true" %}}
+{{% ls-details title="Podržavaju li vaše aplikacije Obiteljsko dijeljenje?" closed="true" %}}
 Da, Obiteljsko dijeljenje je podržano.<br><br>
 
 Za dijeljenje kupnji unutar aplikacije:<br>
 - Provjerite je li kupnja postavljena za dijeljenje s vašom obiteljskom grupom<br>
 - Na uređaju člana obitelji idite na **Postavke > Kupnje > Obnovi kupnje**<br>
 - Time će se zatražiti podaci o kupnji s Appleovih poslužitelja i aktivirati na njihovom uređaju
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Kako ubrzati sinkronizaciju metapodataka i oblaka?" closed="true" %}}
+{{% ls-details title="Kako ubrzati sinkronizaciju metapodataka i oblaka?" closed="true" %}}
 Za poboljšanje brzine sinkronizacije, omogućite pozadinske zadatke:<br><br>
 
 - **Postavke → Glazbena biblioteka → Čitanje metapodataka → Čitanje metapodataka u pozadini**<br>
@@ -123,14 +123,14 @@ Za poboljšanje brzine sinkronizacije, omogućite pozadinske zadatke:<br><br>
 
 Na macOS-u povećajte brzinu čitanja metapodataka putem **Postavke → Glazbena biblioteka**.<br>
 Ako je player aktivan (reproducira se zvuk), iOS neće suspendirati aplikaciju, što omogućuje kontinuiranu sinkronizaciju.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Kako mogu otkazati pretplatu?" closed="true" %}}
+{{% ls-details title="Kako mogu otkazati pretplatu?" closed="true" %}}
 Pretplatu možete otkazati prema Appleovim službenim uputama:<br>
 👉 [Kako otkazati pretplatu](https://support.apple.com/en-us/118428)
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Kako se spojiti i streamati zvuk s WD MyCloud EX2 Ultra?" closed="true" %}}
+{{% ls-details title="Kako se spojiti i streamati zvuk s WD MyCloud EX2 Ultra?" closed="true" %}}
 
 Kada dodajete vezu u aplikaciji putem **Veze > Poveži s pohranom u oblaku > My Cloud Home**, to je službeno dizajnirano za podršku **WD MyCloud Home** uređajima.<br>
 WD MyCloud EX2 Ultra koristi ograničeni pristup za aplikacije.<br><br>
@@ -144,16 +144,16 @@ Međutim, ako ste se uspješno povezali s **WD MyCloud EX2 Ultra**, **WD MyCloud
 5. Sada ih možete streamati ili preuzimati izravno<br><br>
 
 ⚠️ Samo mape kreirane putem aplikacije bit će dostupne s NAS-a.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Kako se spojiti na Koofr.eu?" closed="true" %}}
+{{% ls-details title="Kako se spojiti na Koofr.eu?" closed="true" %}}
 Koofr možete povezati koristeći **WebDAV**.<br><br>
 
 - Vodič za postavljanje WebDAV za Koofr: [koofr.eu blog](https://koofr.eu/blog/posts/3-ways-to-map-koofr-as-a-network-drive-explained)<br>
 - Evermusic/Flacbox WebDAV vodič: [Kako spojiti NAS pohrani koristeći WebDAV i slušati glazbu na iPhoneu ili Macu](/docs/howto/how-to-connect-nas-storage-using-webdav-and-listen-to-music-on-your-iphone-or-mac/)
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Koji su URL sheme aplikacije?" closed="true" %}}
+{{% ls-details title="Koji su URL sheme aplikacije?" closed="true" %}}
 Evo podržanih shema:<br><br>
 
 **Evermusic**<br>
@@ -172,35 +172,35 @@ Evo podržanih shema:<br><br>
 **Evervideo**<br>
 - iOS: `lsevervideo://`<br>
 - macOS: `lsevervideomac://`
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Glazba prestaje svirati kada je aplikacija u pozadini — kako to popraviti?" closed="true" %}}
+{{% ls-details title="Glazba prestaje svirati kada je aplikacija u pozadini — kako to popraviti?" closed="true" %}}
 Ako aplikacija padne ili zastane u pozadini:<br>
 - Idite na **Postavke > Glazbena biblioteka > Online sinkronizacija glazbe > Pozadinska sinkronizacija → Onemogući**<br>
 - **Postavke > Glazbena biblioteka > Čitanje metapodataka > Čitanje metapodataka u pozadini → Onemogući**<br>
 - **Postavke > Upravitelj datoteka > Pozadinski prijenosi → Onemogući**
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Reprodukcija bez praznina ne radi — kako to popraviti?" closed="true" %}}
+{{% ls-details title="Reprodukcija bez praznina ne radi — kako to popraviti?" closed="true" %}}
 Reprodukcija bez praznina ovisi o verziji iOS-a i audio enginu.<br>
 Pokušajte promijeniti audio engine:<br>
 - Idite na **Postavke → Audio player → Općenito → Audio procesor**<br>
 - Odaberite **Core Audio** za bolju podršku reprodukcije bez praznina
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Zašto aplikacija prikazuje samo 100 stavki na popisu?" closed="true" %}}
+{{% ls-details title="Zašto aplikacija prikazuje samo 100 stavki na popisu?" closed="true" %}}
 Aplikacija koristi straničenje radi performansi.<br>
 Za onemogućavanje:<br>
 - Idite na **Postavke → Personalizacija → Ograničenje učitavanja sadržaja → Deaktivirano**<br>
 Sada će se sve stavke učitati odjednom.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Zašto postoje čudni znakovi u metapodacima?" closed="true" %}}
+{{% ls-details title="Zašto postoje čudni znakovi u metapodacima?" closed="true" %}}
 Pokušajte omogućiti normalizaciju metapodataka:<br>
 - **Postavke → Glazbena biblioteka → Čitanje metapodataka → Normaliziraj kodiranje metapodataka**
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Zašto aplikacija ne može čitati nazive mapa s posebnim znakovima?" closed="true" %}}
+{{% ls-details title="Zašto aplikacija ne može čitati nazive mapa s posebnim znakovima?" closed="true" %}}
 Ovo je poznati problem s **SMB2 protokolom**.<br><br>
 
 Isprobajte sljedeća rješenja:<br>
@@ -210,9 +210,9 @@ Isprobajte sljedeća rješenja:<br>
   - Odaberite mape/datoteke koristeći Appleov izvorni izbornik<br><br>
 
 Alternativno, povežite se koristeći **WebDAV** ili **DLNA** ako vaš NAS to podržava.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Kako učitati i upravljati glazbom na iCloudu?" closed="true" %}}
+{{% ls-details title="Kako učitati i upravljati glazbom na iCloudu?" closed="true" %}}
 – **Kako učitati glazbu na iCloud?**  <br>
 Idite na [https://www.icloud.com](https://www.icloud.com) u pregledniku, kreirajte mapu i učitajte glazbene datoteke izravno s vašeg Maca ili PC-a.<br>
 
@@ -225,9 +225,9 @@ Imate dvije mogućnosti:  <br>
 
 Saznajte više ovdje: [Kako streamati glazbu s iCloud Drivea na iPhoneu ili Macu](/docs/howto/how-to-listen-to-music-from-icloud-drive-on-your-iphone-or-mac/)
 
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Kako mogu prenijeti svoju glazbenu biblioteku od 10 GB s Windows 11 na iPhone za offline reprodukciju?" closed="true" %}}
+{{% ls-details title="Kako mogu prenijeti svoju glazbenu biblioteku od 10 GB s Windows 11 na iPhone za offline reprodukciju?" closed="true" %}}
 
 Imate nekoliko pouzdanih opcija za premještanje glazbene biblioteke s Windows 11 PC-a na iPhone i korištenje bez interneta u aplikaciji. Odaberite metodu koja vam najbolje odgovara:
 
@@ -253,6 +253,6 @@ Imate nekoliko pouzdanih opcija za premještanje glazbene biblioteke s Windows 1
 
 ⚠️ Pri prijenosu velikih biblioteka (10 GB+), žičani USB prijenos obično je najbrža i najstabilnija opcija.
 
-{{% /details %}}
+{{% /ls-details %}}
 
 </div>

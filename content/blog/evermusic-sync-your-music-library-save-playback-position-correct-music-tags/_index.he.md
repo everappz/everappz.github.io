@@ -12,7 +12,7 @@ authors:
     image: "/images/about/artem-meleshko-founder-everappz.webp"
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 ![](/blog/evermusic-sync-your-music-library-save-playback-position-correct-music-tags/21260c_641f376e779e47d4927b43c210d3c87f~mv2.jpeg)
 
@@ -67,22 +67,22 @@ Evermusic מזהה ומתקן תגיות ID3 לא תקינות או חלקיות
 
 ## שאלות נפוצות
 
-{{% details title="האם הסנכרון האוטומטי של Evermusic עובד עם כל שירותי הענן?" closed="true" %}}
+{{% ls-details title="האם הסנכרון האוטומטי של Evermusic עובד עם כל שירותי הענן?" closed="true" %}}
 כן. הסנכרון האוטומטי עובד עם Dropbox, Google Drive, OneDrive, MEGA, WebDAV ו-SMB. בחרו את התיקיות שאתם רוצים לנטר ו-Evermusic שומר על הספרייה שלכם מעודכנת.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="האם Evermusic יכול לשמור את מיקום ספר השמע שלי?" closed="true" %}}
+{{% ls-details title="האם Evermusic יכול לשמור את מיקום ספר השמע שלי?" closed="true" %}}
 כן. הפעילו שמירת מיקום השמעה בהגדרות האודיו. Evermusic זוכר איפה עצרתם לכל קובץ, כך שתוכלו להמשיך ללא סימניות ידניות.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="איך עובדת קריאת המטא-נתונים ברקע?" closed="true" %}}
+{{% ls-details title="איך עובדת קריאת המטא-נתונים ברקע?" closed="true" %}}
 Evermusic קורא תגיות ID3 ומטא-נתונים של קבצים ברקע בזמן שאתם משתמשים בתכונות אחרות. הוא מארגן את הספרייה שלכם לפי אמן, אלבום וז'אנר אוטומטית.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="האם Evermusic יתקן תגיות מוזיקה שבורות?" closed="true" %}}
+{{% ls-details title="האם Evermusic יתקן תגיות מוזיקה שבורות?" closed="true" %}}
 כן. תכונת תיקון התגיות האוטומטי בודקת את הקבצים שלכם מול מסדי נתונים מקוונים ומתקנת מטא-נתונים ID3 לא תקינים, חלקיים או חסרים.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="האם Evermusic חינמי להורדה?" closed="true" %}}
+{{% ls-details title="האם Evermusic חינמי להורדה?" closed="true" %}}
 Evermusic חינמי להורדה עם תכונות פרימיום אופציונליות הזמינות דרך רכישה בתוך האפליקציה.
-{{% /details %}}
+{{% /ls-details %}}

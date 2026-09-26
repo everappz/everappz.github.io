@@ -7,7 +7,7 @@ keywords: ["نقل الملفات لاسلكيًا إلى iPhone", "نقل مل�
 readingTime: 2
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **ملخص:** يتيح لك Wi-Fi Drive نقل الملفات من أي كمبيوتر إلى iPhone أو iPad عبر Wi-Fi -- دون الحاجة إلى iTunes أو كابلات. استخدم متصفح ويب أو Mac Finder أو Windows File Explorer. يجب أن يكون كلا الجهازين متصلين بنفس شبكة Wi-Fi.
@@ -18,7 +18,7 @@ Wi-Fi Drive هو أسهل طريقة لنقل ملفاتك من الكمبيوت
 
 يمكنك مشاهدة فيديو تعليمي من [**TECHGUYPH**](https://www.youtube.com/channel/UCgpf09gGFE_c_3pPTtTpnzg) أو قراءة النسخة النصية أدناه.
 <br><br>
-{{< youtubecard id="CqdqrQ0ge70" title="Can We Wirelessly Put Offline Music on iPhones?" >}}
+{{< ls-youtubecard id="CqdqrQ0ge70" title="Can We Wirelessly Put Offline Music on iPhones?" >}}
 
 ## نقل الملفات من الكمبيوتر لاسلكيًا باستخدام متصفح ويب على سطح المكتب
 
@@ -90,26 +90,26 @@ Wi-Fi Drive هو أسهل طريقة لنقل ملفاتك من الكمبيوت
 
 ## الأسئلة الشائعة
 
-{{% details title="هل أحتاج إلى iTunes لنقل الملفات إلى iPhone؟" closed="true" %}}
+{{% ls-details title="هل أحتاج إلى iTunes لنقل الملفات إلى iPhone؟" closed="true" %}}
 لا. ينقل Wi-Fi Drive الملفات مباشرة عبر شبكة Wi-Fi المحلية. لا حاجة لـ iTunes.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="ما التطبيقات التي تدعم Wi-Fi Drive؟" closed="true" %}}
+{{% ls-details title="ما التطبيقات التي تدعم Wi-Fi Drive؟" closed="true" %}}
 Wi-Fi Drive متاح في Evermusic وFlacbox وEvertag وEvervideo لنظام iOS.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="هل يجب أن يكون كلا الجهازين على نفس شبكة Wi-Fi؟" closed="true" %}}
+{{% ls-details title="هل يجب أن يكون كلا الجهازين على نفس شبكة Wi-Fi؟" closed="true" %}}
 نعم. يجب أن يكون الكمبيوتر وiPhone أو iPad متصلين بنفس شبكة Wi-Fi المحلية حتى يعمل Wi-Fi Drive.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="هل يمكنني نقل مجلدات كاملة وليس ملفات فردية فقط؟" closed="true" %}}
+{{% ls-details title="هل يمكنني نقل مجلدات كاملة وليس ملفات فردية فقط؟" closed="true" %}}
 نعم. يدعم Wi-Fi Drive رفع وتنزيل مجلدات كاملة من خلال واجهة المتصفح.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="هل يعمل Wi-Fi Drive مع Windows؟" closed="true" %}}
+{{% ls-details title="هل يعمل Wi-Fi Drive مع Windows؟" closed="true" %}}
 نعم. يمكنك استخدام أي متصفح ويب على Windows أو الاتصال عبر Windows File Explorer باستخدام بروتوكول WebDAV.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="هل يمكنني استخدام كابل USB لتسريع النقل؟" closed="true" %}}
+{{% ls-details title="هل يمكنني استخدام كابل USB لتسريع النقل؟" closed="true" %}}
 نعم. إذا كان iPhone متصلاً بـ Mac عبر USB أثناء تشغيل Wi-Fi Drive، فسيستخدم النقل اتصال الكابل لسرعات أعلى.
-{{% /details %}}
+{{% /ls-details %}}

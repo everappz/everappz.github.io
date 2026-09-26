@@ -12,7 +12,7 @@ authors:
     image: "/images/about/artem-meleshko-founder-everappz.webp"
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 **Lyhyesti:** [Evervideo 1.7](/products/evervideo) on iso päivitys iPhonen, iPadin ja Macin HD-videosoittimelle. Julkaisu tuo yli 10 uutta pilvi-, NAS- ja mediapalvelinyhteyttä — **Internxt**, **Proton Drive**, **QNAP**, **Nextcloud**, **Amazon S3** sekä suosituimmat mediapalvelimet **Plex**, **Subsonic**, **Navidrome**, **Jellyfin** ja **Emby**, ja kolme verkkoprotokollaa: **FTP**, **SFTP** ja **NFS**. Uudet **toistoeleet** mahdollistavat kaksoiskosketuksen eteen- tai taaksepäin kelaamiseen, kosketuksen ja pidon 2x-nopeudelle ja yhden kosketuksen säätimien näyttämiseen — kaikki ilman, että poistut koko näytön tilasta. Wi-Fi Drive saa uudistetun käyttöliittymän valintatilalla ja älykkäämmän lähetysjonon. Koko sovellus on viritetty Applen uuteen **Liquid Glass** -muotoiluun.
 
@@ -147,58 +147,58 @@ Jos pidät sovelluksesta, jätä arvostelu App Storeen — se auttaa todella. On
 
 ## Usein kysytyt kysymykset
 
-{{% details title="Mitä uutta Evervideo 1.7:ssä on?" closed="true" %}}
+{{% ls-details title="Mitä uutta Evervideo 1.7:ssä on?" closed="true" %}}
 Evervideo 1.7 tuo tuen yli 10 uudelle yhteydelle (Plex, Jellyfin, Emby, Subsonic, Navidrome, Internxt, Proton Drive, QNAP, Nextcloud, Amazon S3, FTP, SFTP, NFS), uudet toistoeleet (kaksoiskosketus kelausta varten, kosketus ja pito 2x-nopeudelle, yksi kosketus säätimien näyttämiseen), uudistetun Wi-Fi Driven valintatilalla ja älykkäämmällä lähetysjonolla, Liquid Glass -muotoilun päivitykset, päivitetyt yhteyskirjastot ja monia virheenkorjauksia.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Toimiiko Evervideo Plexin kanssa?" closed="true" %}}
+{{% ls-details title="Toimiiko Evervideo Plexin kanssa?" closed="true" %}}
 Kyllä. Evervideo 1.7:stä alkaen voit yhdistää Plex Media Serveriin ja suoratoistaa koko videokirjastosi — elokuvia, TV-sarjoja ja kotivideoita. Plex Media Server on ilmainen ajaa; Plex Pass on valinnainen. Evervideo tukee sekä ilmaisia että Plex Pass -kokoonpanoja, mukaan lukien MKV-, MP4-, AVI-, MOV- ja muiden formaattien suoratoiston ilman uudelleenkoodausta.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Tuetaanko Jellyfiniä tai Navidromea Evervideossa?" closed="true" %}}
+{{% ls-details title="Tuetaanko Jellyfiniä tai Navidromea Evervideossa?" closed="true" %}}
 Kyllä. Sekä Jellyfin että Navidrome ovat täysin tuettuja Evervideo 1.7:ssä. Jellyfin on ilmainen, avoimen lähdekoodin mediapalvelin, joka käsittelee videoita ja ääntä. Navidrome on ilmainen, avoimen lähdekoodin palvelin, joka toteuttaa Subsonic-API:n. Evervideo yhdistyy molempiin natiivisti.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Ovatko Plex, Jellyfin, Emby, Navidrome ja Subsonic ilmaisia?" closed="true" %}}
+{{% ls-details title="Ovatko Plex, Jellyfin, Emby, Navidrome ja Subsonic ilmaisia?" closed="true" %}}
 - **Plex** — palvelin on ilmainen; Plex Pass on valinnainen maksullinen päivitys.
 - **Jellyfin** — täysin ilmainen ja avoimen lähdekoodin.
 - **Emby** — palvelin on ilmainen; Emby Premiere on maksullinen ja avaa mobiilisynkronoinnin ja offline-tilan.
 - **Navidrome** — täysin ilmainen ja avoimen lähdekoodin.
 - **Subsonic** — virallinen palvelin maksaa 1 dollari/kuukausi 30 päivän kokeilun jälkeen, mutta sen API on avoin ja monet ilmaiset palvelimet (mukaan lukien Navidrome) toteuttavat sen.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Voinko suoratoistaa kotini NAS:sta SFTP:n, FTP:n tai NFS:n yli?" closed="true" %}}
+{{% ls-details title="Voinko suoratoistaa kotini NAS:sta SFTP:n, FTP:n tai NFS:n yli?" closed="true" %}}
 Kyllä. Evervideo 1.7 lisää SFTP:n, FTP:n ja NFS:n natiiveiksi yhteystyypeiksi. SFTP on suositeltu valinta omalta palvelimeltasi suoratoistamiseen julkisen internetin yli, koska kaikki liikenne salataan SSH:n kautta. FTP:tä ja NFS:ää käytetään parhaiten paikallisverkossasi tai VPN:n takana.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Miten yhdistän Evervideon mukautettuun palvelimeen SFTP:n avulla?" closed="true" %}}
+{{% ls-details title="Miten yhdistän Evervideon mukautettuun palvelimeen SFTP:n avulla?" closed="true" %}}
 Avaa Evervideo, mene Yhteydet-välilehteen, valitse SFTP ja syötä palvelimesi isäntänimi tai IP, portti (yleensä 22), käyttäjänimi ja joko salasana tai yksityinen SSH-avain. Evervideo selaa etäkansioitasi ja suoratoistaa videotiedostoja suoraan päästä päähän -salauksella.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Tukeeko Evervideo Internxtiä ja Proton Drivea?" closed="true" %}}
+{{% ls-details title="Tukeeko Evervideo Internxtiä ja Proton Drivea?" closed="true" %}}
 Kyllä. Molemmat yksityisyyteen keskittyvät pilvet ovat tuettuja Evervideo 1.7:stä alkaen. Ne täydentävät MEGAa ja muita sovelluksessa jo saatavilla olevia yksityisyyttä korostavia palveluja.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Miten uudet toistoeleet toimivat?" closed="true" %}}
+{{% ls-details title="Miten uudet toistoeleet toimivat?" closed="true" %}}
 Koko näytön videotoistossa **kaksoiskosketa oikeaa puolta** hypätäksesi eteenpäin ja **kaksoiskosketa vasenta puolta** hypätäksesi taaksepäin muokattavalla välillä (oletus 10 sekuntia — muuta se Asetuksissa). **Kosketa ja pidä** missä tahansa näytöllä nopeuttaaksesi tilapäisesti 2x-nopeudelle; päästä irti palataksesi normaaliin. **Yksi kosketus** missä tahansa vaihtaa toistosäätimien näkyvyyttä (näytä tai piilota).
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Voinko muuttaa kaksoiskosketuksen hyppyväliä?" closed="true" %}}
+{{% ls-details title="Voinko muuttaa kaksoiskosketuksen hyppyväliä?" closed="true" %}}
 Kyllä. Mene kohtaan **Asetukset → Toisto → Eleen hyppyväli** ja valitse arvo 5 ja 60 sekunnin väliltä. Useimmat käyttäjät pitävät sen 10 tai 15 sekunnissa.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Mikä Wi-Fi Drive on Evervideossa?" closed="true" %}}
+{{% ls-details title="Mikä Wi-Fi Drive on Evervideossa?" closed="true" %}}
 Wi-Fi Drive on Evervideon sisäänrakennettu langaton tiedostonsiirto-ominaisuus. Sen avulla voit ladata videoita tietokoneeltasi iPhoneen tai iPadiin paikallisen Wi-Fi-verkkosi kautta — ilman iTunesia, ilman kaapeleita, ilman pilvitiliä. Voit käyttää mitä tahansa työpöydän selainta tai WebDAV-asiakasta kuten Mac Finderiä tai Windowsin tiedostonhallintaa. Katso [täydellinen Wi-Fi Drive -opas](/docs/howto/how-to-transfer-files-wirelessly-from-a-computer-to-an-iphone-using-wifi-drive/).
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Toistaako Evervideo MKV-, AVI- ja muita formaatteja Plexistä tai Jellyfinistä?" closed="true" %}}
+{{% ls-details title="Toistaako Evervideo MKV-, AVI- ja muita formaatteja Plexistä tai Jellyfinistä?" closed="true" %}}
 Kyllä. Evervideo toistaa lähes kaikkia videoformaatteja — MKV, AVI, MP4, MOV, FLV, WMV, WEBM, M4V, TS, 3GP — ja suoratoistaa ne suoraan Plexistä, Jellyfinistä, Embystä ja muista mediapalvelimista vaatimatta transkoodausta useimmille koodekeille. Tämä tarkoittaa pienempää suoritinkuormaa palvelimellasi ja nopeampia käynnistysaikoja.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Onko Evervideo 1.7 ilmainen päivittää?" closed="true" %}}
+{{% ls-details title="Onko Evervideo 1.7 ilmainen päivittää?" closed="true" %}}
 Kyllä. Evervideo on ilmainen lataus App Storesta, ja 1.7 on ilmainen päivitys kaikille nykyisille käyttäjille. Uudet pilvi-integraatiot, mediapalvelintuki, toistoeleet, Wi-Fi Drive -parannukset ja Liquid Glass -käyttöliittymä ovat osa peruspäivitystä.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Millä laitteilla Evervideo 1.7 on saatavilla?" closed="true" %}}
+{{% ls-details title="Millä laitteilla Evervideo 1.7 on saatavilla?" closed="true" %}}
 Evervideo 1.7 toimii iPhonella, iPadilla ja Macilla. AirPlay ja Chromecast antavat sinun lähettää toiston isommalle näytölle. iCloud Drive -synkronointi pitää kirjastosi ja asetuksesi yhtenäisinä laitteiden välillä.
-{{% /details %}}
+{{% /ls-details %}}

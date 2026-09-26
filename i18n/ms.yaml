@@ -186,3 +186,5 @@ everdiskFeatAdvancedServerSettings: "Tetapan pelayan lanjutan"
 everdiskFeatSMB3Encryption: "Penyulitan SMB3"
 everdiskFeatAutomaticSharing: "Perkongsian automatik"
 everdiskFeatDevicePersonalization: "Pemperibadian peranti"
+
+searchDocsPlaceholder: "Cari dokumentasi, soalan lazim dan panduan…"

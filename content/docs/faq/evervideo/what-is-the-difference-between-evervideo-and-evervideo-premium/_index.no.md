@@ -11,7 +11,7 @@ readingTime: 3
 Evervideo tilbyr både en gratis versjon med visse bruksbegrensninger og en premiumversjon med ekstra funksjoner, som kan låses opp gjennom kjøp i appen.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Skjerm for oppgradering av standardplan" image="/docs/faq/evervideo/what-is-the-difference-between-evervideo-and-evervideo-premium/upgrade-default.webp" >}}
+  {{< ls-card title="" subtitle="Skjerm for oppgradering av standardplan" image="/docs/faq/evervideo/what-is-the-difference-between-evervideo-and-evervideo-premium/upgrade-default.webp" >}}
 {{< /cards >}}
 
 ## Velg premiumplanen din
@@ -19,7 +19,7 @@ Evervideo tilbyr både en gratis versjon med visse bruksbegrensninger og en prem
 Gratisversjonen av applikasjonen tilbyr et engangs livstidskjøp i appen og to abonnementsalternativer (1 måned og 1 år) for å fjerne alle begrensninger og oppgradere til premiumversjonen, slik at du kan velge den beste og mest optimale prisen for deg. Priser kan variere avhengig av land eller territorium. Vær også oppmerksom på at **Family Sharing** er aktivert for alle kjøp og planer, slik at du kan dele premiumversjonen med familiemedlemmer.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Planutvelgingsskjerm for Evervideo" image="/docs/faq/evervideo/what-is-the-difference-between-evervideo-and-evervideo-premium/plan-select.webp" >}}
+  {{< ls-card title="" subtitle="Planutvelgingsskjerm for Evervideo" image="/docs/faq/evervideo/what-is-the-difference-between-evervideo-and-evervideo-premium/plan-select.webp" >}}
 {{< /cards >}}
 
 ## Dele kjøp mellom iOS og Mac
@@ -31,13 +31,13 @@ Du kan også prøve å trykke på 'Gjenopprett kjøp'-knappen i appinnstillingen
 For å gjenopprette kjøpet på den nye enheten, bruk bare 'Gjenopprett kjøp'-menyen. Du vil se listen over kjøpene dine. Hvis du ikke ser alle kjøpene dine, sjekk om enheten er koblet til den samme iTunes-kontoen som ble brukt til å foreta kjøpene, og sørg for at iCloud er aktivert.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Skjerm for gjenopprettet kjøp" image="/docs/faq/evervideo/what-is-the-difference-between-evervideo-and-evervideo-premium/purchase-restored.webp" >}}
+  {{< ls-card title="" subtitle="Skjerm for gjenopprettet kjøp" image="/docs/faq/evervideo/what-is-the-difference-between-evervideo-and-evervideo-premium/purchase-restored.webp" >}}
 {{< /cards >}}
 
 Når du oppgraderer appen, vil du se Premium-statusskjermen med detaljer om de nåværende kjøpene dine.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Skjerm for aktiv Premium-bruk" image="/docs/faq/evervideo/what-is-the-difference-between-evervideo-and-evervideo-premium/you-are-using-premium.webp" >}}
+  {{< ls-card title="" subtitle="Skjerm for aktiv Premium-bruk" image="/docs/faq/evervideo/what-is-the-difference-between-evervideo-and-evervideo-premium/you-are-using-premium.webp" >}}
 {{< /cards >}}
 
 ## Prøv Premium gratis
@@ -45,7 +45,7 @@ Når du oppgraderer appen, vil du se Premium-statusskjermen med detaljer om de n
 I tillegg er det en tidsbegrenset mulighet til å '**Prøve Premium gratis**'. Du kan få tilgang til denne funksjonen gjennom menyen 'Prøv Premium gratis'. Ved å enkelt se på en reklame eller spre ordet om appen til vennene dine, kan du låse opp premiumversjonen gratis i løpet av denne kampanjeperioden. Dette gir deg en sjanse til å oppleve premiumfunksjonene uten noen finansiell forpliktelse.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Skjerm for prøving av Premium gratis" image="/docs/faq/evervideo/what-is-the-difference-between-evervideo-and-evervideo-premium/premium-for-free.webp" >}}
+  {{< ls-card title="" subtitle="Skjerm for prøving av Premium gratis" image="/docs/faq/evervideo/what-is-the-difference-between-evervideo-and-evervideo-premium/premium-for-free.webp" >}}
 {{< /cards >}}
 
 ## Evervideo Free
@@ -62,7 +62,7 @@ I tillegg er det en tidsbegrenset mulighet til å '**Prøve Premium gratis**'. D
 - Ingen tilpasnings- eller personaliseringsalternativer.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Skjerm for oppgradering av skylagring" image="/docs/faq/evervideo/what-is-the-difference-between-evervideo-and-evervideo-premium/upgrade-cloud-storage.webp" >}}
+  {{< ls-card title="" subtitle="Skjerm for oppgradering av skylagring" image="/docs/faq/evervideo/what-is-the-difference-between-evervideo-and-evervideo-premium/upgrade-cloud-storage.webp" >}}
 {{< /cards >}}
 
 ## Evervideo Premium
@@ -106,7 +106,7 @@ Hvis du akkurat er i gang eller bare trenger grunnleggende videoavspillingsfunks
 På den andre siden låser **Evervideo Premium** opp den fullstendige opplevelsen. Du vil nyte et reklamefritt grensesnitt, ubegrenset støtte for spillelister og køer, full frakoblet funksjonalitet, skyfleksibilitet og avanserte eksport- og personaliseringsalternativer. Det er det beste alternativet for brukere med store videobiblioteker, de som ser innhold fra flere kilder, eller alle som ser etter en mer profesjonell og sømløs mediespiller.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Skjerm for fullført Premium-kjøp" image="/docs/faq/evervideo/what-is-the-difference-between-evervideo-and-evervideo-premium/you-have-purchased-premium.webp" >}}
+  {{< ls-card title="" subtitle="Skjerm for fullført Premium-kjøp" image="/docs/faq/evervideo/what-is-the-difference-between-evervideo-and-evervideo-premium/you-have-purchased-premium.webp" >}}
 {{< /cards >}}
 
 Hvis du ser etter fleksibilitet, prøv **månedlig plan**. For langsiktig verdi, velg **årlig** eller **livstids**-oppgradering — begge tilbyr full tilgang til en bedre pris.

@@ -15,7 +15,7 @@ readingTime: 5
 **Tagreditoren** er Evertag-appens hovedskærm, hvor du kan se og redigere lydfilmetadata. Åbn denne skærm ved at trykke på en fil fra sektionen **Lokale filer** eller fra en hvilken som helst tilsluttet **cloudlagrings**konto.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evertag Tagredaktørskærm" image="/docs/guide/evertag/img/tag-editor.webp" >}}
+  {{< ls-card title="" subtitle="Evertag Tagredaktørskærm" image="/docs/guide/evertag/img/tag-editor.webp" >}}
 {{< /cards >}}
 
 ## Redigeringstilstande
@@ -38,7 +38,7 @@ Som standard åbner appen tagreditoren i enkeltfilstilstand med kun de vigtigste
 For at få adgang til alle tilgængelige tags skal du scrolle til bunden af skærmen og trykke på indstillingen **Vis udvidede tags**. Dette skifter editoren til udvidet tilstand, hvilket giver dig mulighed for at redigere over **120 metadatafelter**, herunder **MusicBrainz-tags**, **Lyrics**, **Rådgivende bedømmelser**, replay-gain-værdier, sorteringsrækkefølger, podcast-metadata og mere. Brug **Indstillinger → Lydtagseditor → Knapper på hovedskærmen** for permanent at slå Vis udvidede tags til, så det altid er aktiveret.
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Bundhandlingspanel" image="/docs/guide/evertag/img/tag-editor-bottom-actions.webp" >}}
+{{< ls-card title="" subtitle="Bundhandlingspanel" image="/docs/guide/evertag/img/tag-editor-bottom-actions.webp" >}}
 {{< /cards >}}
 
 ## Batchtilstand
@@ -53,7 +53,7 @@ Du kan gå ind i batchredigering på to måder:
    - Åbn en fil, scroll til bunden, og tryk på **Rediger filer samtidigt** for at indlæse alle filer fra den samme mappe.
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Batchredigeringstilstand" image="/docs/guide/evertag/img/tag-editor-batch-editing.webp" >}}
+{{< ls-card title="" subtitle="Batchredigeringstilstand" image="/docs/guide/evertag/img/tag-editor-batch-editing.webp" >}}
 {{< /cards >}}
 
 Tryk på **Gem** for at anvende ændringer efter redigering.
@@ -72,19 +72,19 @@ Du behøver ikke at skrive lyrics fra bunden. Editoren inkluderer søgegenveje m
 Hver genvej vises kun, når den tilsvarende tjeneste er tilgængelig fra din enhed. Tryk på en tjeneste, kopier de lyrics (eller LRC-tidsstempler), du ønsker, vend tilbage til Evertag, og indsæt dem i tekstfeltet — tryk derefter på **Gem** for at skrive lyrics tilbage i lydfilens tags.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Lyrics-sider" image="/docs/guide/evertag/img/tag-editor-lyrics-pages.webp" >}}
+  {{< ls-card title="" subtitle="Lyrics-sider" image="/docs/guide/evertag/img/tag-editor-lyrics-pages.webp" >}}
 {{< /cards >}}
 
 Vælg et sprog fra vælgeren:
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Lyrics-sprogsvælger" image="/docs/guide/evertag/img/tag-editor-lyrics-language-select.webp" >}}
+  {{< ls-card title="" subtitle="Lyrics-sprogsvælger" image="/docs/guide/evertag/img/tag-editor-lyrics-language-select.webp" >}}
 {{< /cards >}}
 
 Indsæt eller skriv derefter lyrics-teksten. Evertag understøtter både ren tekst og tidsstemplede (synkroniserede) lyrics — pladsholderen viser et eksempel på LRC-stilformatet, som er præcis, hvad Lrclib og Lyricsify returnerer for synkroniserede resultater.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Lyrics-teksteditor" image="/docs/guide/evertag/img/tag-editor-lyrics-text.webp" >}}
+  {{< ls-card title="" subtitle="Lyrics-teksteditor" image="/docs/guide/evertag/img/tag-editor-lyrics-text.webp" >}}
 {{< /cards >}}
 
 ## Indstil en bedømmelse og rådgivende bedømmelse
@@ -96,7 +96,7 @@ Den udvidede editor tilbyder en stjerne-**Bedømmelse**-kontrol ved siden af en 
 Brug feltet **Bedømmelse** til at give et spor en personlig score fra én til fem stjerner. Værdien skrives ind i filens standardbedømmelsestag (POPM for ID3, `rate` for MP4, `RATING` for Vorbis/APE osv.), så andre apps, der læser dette tag — herunder Musik-appen, Plex, Roon og de fleste skrivebords-tareditorer — straks opfanger dine scores.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Bedømmelse" image="/docs/guide/evertag/img/tag-editor-rating.webp" >}}
+  {{< ls-card title="" subtitle="Bedømmelse" image="/docs/guide/evertag/img/tag-editor-rating.webp" >}}
 {{< /cards >}}
 
 ### Rådgivende bedømmelse
@@ -117,7 +117,7 @@ Du vil ønske at indstille eller rette dette felt, når:
 Værdien gemmes i det standard rådgivende bedømmelsesfelt for filformatet (`rtng` for MP4, `TXXX:ITUNESADVISORY` for ID3, `ITUNESADVISORY` for Vorbis), så enhver afspiller, der læser forældrenes rådgivende metadata, vil se din opdatering.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Lyrics rådgivende bedømmelse" image="/docs/guide/evertag/img/lyrics-advisory-rating.webp" >}}
+  {{< ls-card title="" subtitle="Lyrics rådgivende bedømmelse" image="/docs/guide/evertag/img/lyrics-advisory-rating.webp" >}}
 {{< /cards >}}
 
 ## Rediger albumomslag
@@ -129,7 +129,7 @@ For at ændre et albumomslag:
 3. Vælg et billede til at anvende som covertkunstværk.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Vælg billede" image="/docs/guide/evertag/img/select-image.webp" >}}
+  {{< ls-card title="" subtitle="Vælg billede" image="/docs/guide/evertag/img/select-image.webp" >}}
 {{< /cards >}}
 
 ## Flere handlinger i Tagreditoren
@@ -137,7 +137,7 @@ For at ændre et albumomslag:
 Ekstra redigeringsmuligheder er tilgængelige via værktøjslinjen under kunstværksvisningen.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Menu Flere handlinger" image="/docs/guide/evertag/img/tag-editor-more-actions.webp" >}}
+  {{< ls-card title="" subtitle="Menu Flere handlinger" image="/docs/guide/evertag/img/tag-editor-more-actions.webp" >}}
 {{< /cards >}}
 
 ### Automatisk søgning efter lydtags
@@ -150,13 +150,13 @@ Appen bruger MusicBrainz-databasen — en af de mest omfattende tagdatabaser —
 Brug metadata til at søge på nettet efter det korrekte albumkunstværk.  
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Søg albumomslag" image="/docs/guide/evertag/img/search-album-cover.webp" >}}
+  {{< ls-card title="" subtitle="Søg albumomslag" image="/docs/guide/evertag/img/search-album-cover.webp" >}}
 {{< /cards >}}
 
 Når det er fundet, skal du gemme billedet til dine **Fotos** ved hjælp af systemkontekstmenuen.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Tilføj billede til Fotos" image="/docs/guide/evertag/img/add-image-to-photos.webp" >}}
+  {{< ls-card title="" subtitle="Tilføj billede til Fotos" image="/docs/guide/evertag/img/add-image-to-photos.webp" >}}
 {{< /cards >}}
 
 Derefter skal du vende tilbage til tagreditoren, trykke på Kameraikon, gå til **Fotobibliotek** og vælge det gemte billede. Appen indstiller det som omslag til din lydfil.
@@ -178,19 +178,19 @@ Søg efter albummetadata manuelt ved hjælp af MusicBrainz-databasen.
 - Vælg album  
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Vælg album" image="/docs/guide/evertag/img/select-album-results.webp" >}}
+  {{< ls-card title="" subtitle="Vælg album" image="/docs/guide/evertag/img/select-album-results.webp" >}}
 {{< /cards >}}
 
 - Vælg det korrekte sang  
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Vælg sang" image="/docs/guide/evertag/img/select-a-song.webp" >}}
+  {{< ls-card title="" subtitle="Vælg sang" image="/docs/guide/evertag/img/select-a-song.webp" >}}
 {{< /cards >}}
 
 - Vælg hvilke tags der skal anvendes  
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Vælg lydtags" image="/docs/guide/evertag/img/select-audio-tags.webp" >}}
+  {{< ls-card title="" subtitle="Vælg lydtags" image="/docs/guide/evertag/img/select-audio-tags.webp" >}}
 {{< /cards >}}
 
 Tryk på **Færdig** for at anvende de valgte metadata på dit spor.

@@ -19,7 +19,7 @@ Avsnittet Lokala filer fungerar som ett nav för hantering av filer som finns i 
 Den här inbyggda filhanteraren låter dig redigera filer (byta namn, flytta, kopiera, ladda upp, ta bort), övervaka överföringar och erbjuder flera metoder för att importera ljudfiler till appen — direktnedladdningar från molnet, synkronisering i offline-läge, USB-flashenheter, Wi-Fi Drive och Finder Fildelning.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox skärm för lokala filer" image="/docs/guide/flacbox/img/local-files.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox skärm för lokala filer" image="/docs/guide/flacbox/img/local-files.webp" >}}
 {{< /cards >}}
 
 ## Ladda ner filer från molnlagring
@@ -102,7 +102,7 @@ Visar filer och mappar lagrade i appens Documents-katalog och iCloud Drive.
 Visar filer som finns på din enhet men i andra applikationer. Du kan importera dem till den här applikationen med systemfilväljaren. För att aktivera väljaren, välj **Öppna filer…** för att välja filer eller **Öppna mappar…** för att välja mappar. Detaljerade instruktioner om hur du importerar lokal musik lagrad på din iPhone eller Mac finns [här](/docs/howto/how-to-play-local-music-stored-on-your-iphone-or-mac).
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox anslutna enhetsmappar" image="/docs/guide/flacbox/img/connected-device-folders.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox anslutna enhetsmappar" image="/docs/guide/flacbox/img/connected-device-folders.webp" >}}
 {{< /cards >}}
 
 Du kan också ansluta en mapp på din enhet och ha snabb åtkomst till dess innehåll. Använd menyalternativet **Anslut en mapp** och välj en mapp på din enhet. Tryck på **Färdig**, och appen skapar en länk till den mappen med läs / skriv-åtkomst, vilket låter dig hantera filer direkt från den här appen. För att koppla bort en mapp på din enhet, tryck på knappen **Fler åtgärder** och välj **Koppla bort**.
@@ -137,7 +137,7 @@ Om du behöver redigera flera filer, aktivera markeringsläge genom att trycka p
 - **Ta bort** — ta bort den valda filen eller mappen från enheten. **Den här åtgärden är oåterkallelig.**
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox markeringsläge för lokala filer" image="/docs/guide/flacbox/img/local-files-selection-mode.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox markeringsläge för lokala filer" image="/docs/guide/flacbox/img/local-files-selection-mode.webp" >}}
 {{< /cards >}}
 
 ## Alternativmeny
@@ -161,7 +161,7 @@ För varje fil eller mapp i appen finns flera åtgärder tillgängliga, nåbara 
 - **Ta bort** — ta bort filen eller mappen från enheten. **Den här åtgärden är oåterkallelig** och du kan inte återställa borttagna filer.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox fler åtgärder för en lokal fil" image="/docs/guide/flacbox/img/local-files-more-actions-for-file.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox fler åtgärder för en lokal fil" image="/docs/guide/flacbox/img/local-files-more-actions-for-file.webp" >}}
 {{< /cards >}}
 
 ## Offlinemappar

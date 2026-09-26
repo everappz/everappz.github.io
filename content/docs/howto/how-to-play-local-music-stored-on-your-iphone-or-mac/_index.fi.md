@@ -6,7 +6,7 @@ tags: ["paikallinen musiikki", "offline-musiikki", "musiikkisoitin", "iPhone", "
 keywords: ["kuinka toistaa paikallista musiikkia iPhonessa", "toista musiikkia laitteen tallennustilasta", "offline-musiikkisoitin iOS", "Evermusic-sovelluksen opas", "Flacbox FLAC-soitin", "iOS paikallisten tiedostojen toisto", "Mac musiikkikirjasto", "musiikkisovellus paikallisille tiedostoille", "iPhone toista ladattuja kappaleita", "kuinka käyttää Evermusicia paikallisten tiedostojen kanssa"]
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **Tiivistelmä:** Asenna [Evermusic](/products/evermusic) (MP3/WAV) tai [Flacbox](/products/flacbox) (FLAC/DSD), avaa mikä tahansa paikallinen äänitiedosto tai kansio ja aloita toisto. Lisää kansioita **Suosikit**-luetteloon nopeaa pääsyä varten, tuo kappaleita musiikkikirjastoosi tai luo soittolistoja.
@@ -24,10 +24,10 @@ Tutkimme menetelmiä ja työkaluja paikallisen musiikkisi saumattomaan toistoon 
 Aloittaaksesi matkasi paikallisen musiikin maailmaan iPhonellasi ja Macillasi, aloita asentamalla joko Evermusic (tavallisille äänimuodoille kuten mp3 ja wav) tai Flacbox (häviöttömälle musiikille dsd- ja flac-muodoissa). Molemmat sovellukset ovat saatavilla iOS:lle ja macOS:lle, ja voit ladata ne ilmaiseksi.
 
 {{< cards >}}
-  {{< card link="https://apps.apple.com/us/app/evermusic-cloud-music-player/id885367198?pt=95781850&ct=everappzcom&mt=8" title="Lataa Evermusic iOS:lle" tag="iOS" >}}
-  {{< card link="https://apps.apple.com/us/app/flacbox-hi-res-equalizer/id1097564256?pt=95781850&ct=everappzcom&mt=8" title="Lataa Flacbox iOS:lle" tag="iOS" >}}
-  {{< card link="https://apps.apple.com/us/app/evermusic-hi-res-music-player/id1564384601?pt=95781850&ct=everappzcom&mt=8" title="Lataa Evermusic Macille" tag="macOS" >}}
-  {{< card link="https://apps.apple.com/us/app/flacbox-hi-res-music-player/id1594027432?pt=95781850&ct=everappzcom&mt=8" title="Lataa Flacbox Macille" tag="macOS" >}}
+  {{< ls-card link="https://apps.apple.com/us/app/evermusic-cloud-music-player/id885367198?pt=95781850&ct=everappzcom&mt=8" title="Lataa Evermusic iOS:lle" tag="iOS" >}}
+  {{< ls-card link="https://apps.apple.com/us/app/flacbox-hi-res-equalizer/id1097564256?pt=95781850&ct=everappzcom&mt=8" title="Lataa Flacbox iOS:lle" tag="iOS" >}}
+  {{< ls-card link="https://apps.apple.com/us/app/evermusic-hi-res-music-player/id1564384601?pt=95781850&ct=everappzcom&mt=8" title="Lataa Evermusic Macille" tag="macOS" >}}
+  {{< ls-card link="https://apps.apple.com/us/app/flacbox-hi-res-music-player/id1594027432?pt=95781850&ct=everappzcom&mt=8" title="Lataa Flacbox Macille" tag="macOS" >}}
 {{< /cards >}}
 
 
@@ -135,22 +135,22 @@ Näiden yksinkertaisten vaiheiden avulla voit vapauttaa iPhonesi ja Macisi täyd
 
 ## Usein kysytyt kysymykset
 
-{{% details title="Mitä äänimuotoja Evermusic ja Flacbox voivat toistaa?" closed="true" %}}
+{{% ls-details title="Mitä äänimuotoja Evermusic ja Flacbox voivat toistaa?" closed="true" %}}
 Evermusic toistaa MP3-, WAV-, AAC-, M4A- ja muita vakiomuotoja. Flacbox lisää tuen FLAC-, DSD-, OGG-, OPUS-, APE-, WMA- ja ALAC-muodoille.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Kopioivatko nämä sovellukset tiedostoja sovelluksen tallennustilaan?" closed="true" %}}
+{{% ls-details title="Kopioivatko nämä sovellukset tiedostoja sovelluksen tallennustilaan?" closed="true" %}}
 Oletuksena tiedostot toistetaan alkuperäisestä sijainnistaan kopioimatta niitä. Muuttaaksesi tätä käyttäytymistä, ota käyttöön "Kopioi tiedostot aina avattaessa" kohdassa **Asetukset** > Tiedostonhallinta.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Voinko järjestää paikallisen musiikin esittäjän ja albumin mukaan?" closed="true" %}}
+{{% ls-details title="Voinko järjestää paikallisen musiikin esittäjän ja albumin mukaan?" closed="true" %}}
 Kyllä. Tuo tiedostot musiikkikirjastoon (Vaihe 4) ja sovellus lukee metatiedot ryhmitelläkseen kappaleet esittäjän, albumin, genren ja säveltäjän mukaan.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Kuinka siirrän musiikkia tietokoneeltani iPhoneen?" closed="true" %}}
+{{% ls-details title="Kuinka siirrän musiikkia tietokoneeltani iPhoneen?" closed="true" %}}
 Käytä iTunes-tiedostonjakoa (USB), WiFi Drivea (langaton) tai SMB:tä (suoratoisto). Katso yksityiskohtainen oppaamme: [Siirrä ja toista paikallisia tiedostoja iPhonessa](/docs/howto/how-to-play-local-itunes-files-on-my-iphone/).
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Ovatko Evermusic ja Flacbox ilmaisia?" closed="true" %}}
+{{% ls-details title="Ovatko Evermusic ja Flacbox ilmaisia?" closed="true" %}}
 Kyllä, molemmat sovellukset ovat ilmaisia ladata ydinominaisuuksilla, jotka sisältävät toiston, taajuuskorjaimen ja pilvisuoratoiston. Ilmaisversioissa on joitakin rajoituksia (soittolistojen, pilvitiilien ja offline-kansioiden määrä). Premium-päivitys poistaa nämä rajoitukset.
-{{% /details %}}
+{{% /ls-details %}}

@@ -7,7 +7,7 @@ keywords: ["bežični prijenos datoteka na iPhone", "wifi drive prijenos datotek
 readingTime: 2
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **Ukratko:** Wi-Fi Drive omogućuje prijenos datoteka s bilo kojeg računala na vaš iPhone ili iPad putem Wi-Fi -- bez iTunes ili kabela. Koristite web preglednik, Mac Finder ili Windows File Explorer. Oba uređaja moraju biti na istoj Wi-Fi mreži.
@@ -18,7 +18,7 @@ Datoteke možete bežično prenositi koristeći desktop web preglednik ili WebDA
 
 Možete pogledati video vodič od [**TECHGUYPH**](https://www.youtube.com/channel/UCgpf09gGFE_c_3pPTtTpnzg) ili pročitati tekstualnu verziju u nastavku.
 <br><br>
-{{< youtubecard id="CqdqrQ0ge70" title="Can We Wirelessly Put Offline Music on iPhones?" >}}
+{{< ls-youtubecard id="CqdqrQ0ge70" title="Can We Wirelessly Put Offline Music on iPhones?" >}}
 
 ## Prijenos datoteka s računala bežično pomoću desktop web preglednika
 
@@ -90,26 +90,26 @@ iTunes nije potreban!
 
 ## Često postavljana pitanja
 
-{{% details title="Trebam li iTunes za prijenos datoteka na svoj iPhone?" closed="true" %}}
+{{% ls-details title="Trebam li iTunes za prijenos datoteka na svoj iPhone?" closed="true" %}}
 Ne. Wi-Fi Drive prenosi datoteke izravno putem vaše lokalne Wi-Fi mreže. iTunes nije potreban.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Koje aplikacije podržavaju Wi-Fi Drive?" closed="true" %}}
+{{% ls-details title="Koje aplikacije podržavaju Wi-Fi Drive?" closed="true" %}}
 Wi-Fi Drive je dostupan u Evermusic, Flacbox, Evertag i Evervideo za iOS.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Moraju li oba uređaja biti na istoj Wi-Fi mreži?" closed="true" %}}
+{{% ls-details title="Moraju li oba uređaja biti na istoj Wi-Fi mreži?" closed="true" %}}
 Da. Vaše računalo i iPhone ili iPad moraju biti spojeni na istu lokalnu Wi-Fi mrežu da bi Wi-Fi Drive radio.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Mogu li prenositi cijele mape, a ne samo pojedinačne datoteke?" closed="true" %}}
+{{% ls-details title="Mogu li prenositi cijele mape, a ne samo pojedinačne datoteke?" closed="true" %}}
 Da. Wi-Fi Drive podržava prijenos i preuzimanje cijelih mapa putem sučelja web preglednika.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Radi li Wi-Fi Drive s Windowsom?" closed="true" %}}
+{{% ls-details title="Radi li Wi-Fi Drive s Windowsom?" closed="true" %}}
 Da. Možete koristiti bilo koji web preglednik na Windowsu ili se povezati putem Windows File Explorer koristeći WebDAV protokol.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Mogu li koristiti USB kabel za ubrzavanje prijenosa?" closed="true" %}}
+{{% ls-details title="Mogu li koristiti USB kabel za ubrzavanje prijenosa?" closed="true" %}}
 Da. Ako je vaš iPhone spojen na Mac putem USB dok Wi-Fi Drive radi, prijenos će koristiti kabelsku vezu za brže brzine.
-{{% /details %}}
+{{% /ls-details %}}

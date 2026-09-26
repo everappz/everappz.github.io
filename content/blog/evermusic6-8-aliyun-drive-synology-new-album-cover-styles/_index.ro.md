@@ -12,7 +12,7 @@ authors:
     image: "/images/about/artem-meleshko-founder-everappz.webp"
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 **Rezumat:** Evermusic 6.8 adaugă integrarea Aliyun Drive și Synology NAS (cu QuickConnect), șase efecte noi de defilare pentru coperțile albumelor, un player minimal pe ecran complet, gestionare fișiere prin tragere și plasare și încărcare mai rapidă a ilustrațiilor albumelor. Disponibil acum pentru iOS și macOS.
 
@@ -77,18 +77,18 @@ Evermusic 6.8 se concentrează pe trei domenii: compatibilitate cloud mai largă
 
 ## Întrebări Frecvente
 
-{{% details title="Cum conectez Synology NAS la Evermusic?" closed="true" %}}
+{{% ls-details title="Cum conectez Synology NAS la Evermusic?" closed="true" %}}
 Mergeți la fila Conexiuni, selectați Synology și introduceți QuickConnectID-ul dvs. Evermusic se conectează direct fără a necesita adrese IP sau configurare VPN.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Aliyun Drive este gratuit de utilizat cu Evermusic?" closed="true" %}}
+{{% ls-details title="Aliyun Drive este gratuit de utilizat cu Evermusic?" closed="true" %}}
 Da. Dacă aveți un cont Aliyun Drive, îl puteți conecta la Evermusic fără costuri suplimentare. Limitele de stocare depind de planul dvs. Aliyun Drive.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Pot personaliza stilul de defilare al coperților albumelor?" closed="true" %}}
+{{% ls-details title="Pot personaliza stilul de defilare al coperților albumelor?" closed="true" %}}
 Da. Mergeți la Settings > Audio Player > Personalization > Album Covers Scrolling Style și alegeți dintre șase opțiuni: MacDoc, Linear, Rotary, Inverted Rotary, Cylinder sau CoverFlow.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Funcționează ecranul minimal al playerului cu toate dispozitivele?" closed="true" %}}
+{{% ls-details title="Funcționează ecranul minimal al playerului cu toate dispozitivele?" closed="true" %}}
 Da. Stilul de copertă album pe ecran complet este disponibil pe toate iPhone-urile, iPad-urile și Mac-urile acceptate care rulează Evermusic 6.8 sau mai recent.
-{{% /details %}}
+{{% /ls-details %}}

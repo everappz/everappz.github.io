@@ -15,7 +15,7 @@ readingTime: 11
 Na této obrazovce můžete připojit různé zdroje obsahující vaše audio soubory. Můžete integrovat oblíbené cloudové služby jako Google Drive, Dropbox, OneDrive, iCloud a další, stejně jako připojit váš Mac nebo PC. Navíc máte možnost upravovat audio soubory umístěné v Apple Time Capsule, WD Cloud Home nebo jakémkoli NAS, který podporuje SMB nebo WebDAV.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Obrazovka Připojení Evertag" image="/docs/guide/evertag/img/connections.webp" >}}
+  {{< ls-card title="" subtitle="Obrazovka Připojení Evertag" image="/docs/guide/evertag/img/connections.webp" >}}
 {{< /cards >}}
 
 ## Rychlý přístup
@@ -151,7 +151,7 @@ Zde je přehled těchto akcí:
 - **Mřížka/Seznam**: přepínání mezi dvěma režimy zobrazení: tabulkovým zobrazením a zobrazením miniatur. Tabulkové zobrazení zobrazuje soubory v seznamu, zatímco zobrazení miniatur zobrazuje vizuální reprezentace souborů, čímž usnadňuje identifikaci obsahu na první pohled.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Řazení cloudové složky Evertag" image="/docs/guide/evertag/img/cloud-storage-sort.webp" >}}
+  {{< ls-card title="" subtitle="Řazení cloudové složky Evertag" image="/docs/guide/evertag/img/cloud-storage-sort.webp" >}}
 {{< /cards >}}
 
 ## Úprava online souborů
@@ -163,7 +163,7 @@ Když potřebujete spravovat více souborů v cloudovém úložišti v této apl
 - **Provádění různých akcí**: jakmile vyberete soubory nebo složky, které chcete spravovat, budete mít přístup k několika akcím přizpůsobeným vašim potřebám:
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Výběr souboru Evertag" image="/docs/guide/evertag/img/cloud-storage-file-select.webp" >}}
+  {{< ls-card title="" subtitle="Výběr souboru Evertag" image="/docs/guide/evertag/img/cloud-storage-file-select.webp" >}}
 {{< /cards >}}
 
 ## Akce se souborem
@@ -180,7 +180,7 @@ Klepnutím na něj zobrazíte seznam dostupných akcí:
 - **Smazat**: s touto akcí buďte opatrní, protože trvale odstraní soubor z cloudového úložiště. **Toto smazání nelze vrátit zpět**.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Možnosti souboru Evertag" image="/docs/guide/evertag/img/cloud-storage-file-options.webp" >}}
+  {{< ls-card title="" subtitle="Možnosti souboru Evertag" image="/docs/guide/evertag/img/cloud-storage-file-options.webp" >}}
 {{< /cards >}}
 
 Pokud seznam akcí přesáhne dostupný prostor na obrazovce, jednoduše se posuňte dolů v nabídce akcí pro přístup k dalším možnostem.
@@ -196,5 +196,5 @@ Pro každou složku v cloudovém úložišti jsou k dispozici různé akce. Pro 
 - **Smazat**: s touto akcí buďte opatrní, protože trvale odstraní složku a její obsah z cloudového úložiště. **Tuto akci nelze vrátit zpět**.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Možnosti složky Evertag" image="/docs/guide/evertag/img/cloud-storage-folder-options.webp" >}}
+  {{< ls-card title="" subtitle="Možnosti složky Evertag" image="/docs/guide/evertag/img/cloud-storage-folder-options.webp" >}}
 {{< /cards >}}

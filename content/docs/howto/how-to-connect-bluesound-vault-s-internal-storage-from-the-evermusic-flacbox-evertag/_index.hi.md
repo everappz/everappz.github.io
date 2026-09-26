@@ -7,7 +7,7 @@ tags: ["evermusic", "कनेक्ट", "bluesound vault"]
 readingTime: 1
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **सारांश:** Evermusic, Flacbox या Evertag का उपयोग करके SMB के माध्यम से अपने Bluesound VAULT के आंतरिक स्टोरेज से कनेक्ट करें। BluOS ऐप में VAULT का IP पता खोजें, इसे अतिथि पहुंच के साथ SMB कनेक्शन के रूप में दर्ज करें, और अपनी संगीत फाइलों को चलाना या प्रबंधित करना शुरू करें।
@@ -58,18 +58,18 @@ Bluesound VAULT में एक आंतरिक हार्ड ड्रा
 
 ## अक्सर पूछे जाने वाले प्रश्न
 
-{{% details title="क्या मुझे Bluesound VAULT से कनेक्ट करने के लिए उपयोगकर्ता नाम और पासवर्ड की आवश्यकता है?" closed="true" %}}
+{{% ls-details title="क्या मुझे Bluesound VAULT से कनेक्ट करने के लिए उपयोगकर्ता नाम और पासवर्ड की आवश्यकता है?" closed="true" %}}
 नहीं। Bluesound VAULT SMB के माध्यम से अतिथि (अनाम) पहुंच का समर्थन करता है। कनेक्शन कॉन्फ़िगर करते समय लॉगिन और पासवर्ड फ़ील्ड खाली छोड़ दें।
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="क्या मैं Bluesound VAULT पर संगीत टैग संपादित कर सकता हूं?" closed="true" %}}
+{{% ls-details title="क्या मैं Bluesound VAULT पर संगीत टैग संपादित कर सकता हूं?" closed="true" %}}
 हां। Evertag का उपयोग करके, आप VAULT की आंतरिक हार्ड ड्राइव पर सीधे संग्रहीत ऑडियो फाइलों के लिए मेटाडेटा टैग (शीर्षक, कलाकार, एल्बम, आदि) संपादित कर सकते हैं।
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Bluesound VAULT कौन से प्रोटोकॉल का समर्थन करता है?" closed="true" %}}
+{{% ls-details title="Bluesound VAULT कौन से प्रोटोकॉल का समर्थन करता है?" closed="true" %}}
 Bluesound VAULT अपने आंतरिक स्टोरेज को SMB (Server Message Block) के माध्यम से उपलब्ध कराता है। Evermusic, Flacbox और Evertag सभी SMB कनेक्शन का समर्थन करते हैं, जिससे कनेक्ट करना आसान हो जाता है।
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="क्या मैं अपने iPhone में फाइलें कॉपी किए बिना VAULT से संगीत स्ट्रीम कर सकता हूं?" closed="true" %}}
+{{% ls-details title="क्या मैं अपने iPhone में फाइलें कॉपी किए बिना VAULT से संगीत स्ट्रीम कर सकता हूं?" closed="true" %}}
 हां। SMB के माध्यम से कनेक्ट होने के बाद, आप VAULT की आंतरिक ड्राइव से सीधे ऑडियो फाइलें स्ट्रीम कर सकते हैं बिना उन्हें अपने डिवाइस में कॉपी किए।
-{{% /details %}}
+{{% /ls-details %}}

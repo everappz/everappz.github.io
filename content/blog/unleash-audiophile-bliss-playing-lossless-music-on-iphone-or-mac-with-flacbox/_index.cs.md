@@ -12,7 +12,7 @@ authors:
     image: "/images/about/artem-meleshko-founder-everappz.webp"
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 **Shrnutí:** Nainstalujte [Flacbox z App Store](https://apps.apple.com/us/app/flacbox-flac-player-music/id1097564256?mt=8) pro přehrávání FLAC, DSD, ALAC a 120+ dalších audio formátů na iPhone a Mac. Importujte soubory přes iTunes File Sharing, Wi-Fi Drive nebo cloudové úložiště. Žádná konverze souborů není potřeba.
 
@@ -52,26 +52,26 @@ Po stažení z [App Store](https://apps.apple.com/us/app/flacbox-flac-player-mus
 
 ## Často kladené otázky
 
-{{< details title="Vyžaduje Flacbox předplatné pro přehrávání bezztrátových souborů?" closed="true" >}}
+{{< ls-details title="Vyžaduje Flacbox předplatné pro přehrávání bezztrátových souborů?" closed="true" >}}
 Flacbox nabízí základní přehrávání bez předplatného. Můžete importovat a přehrávat FLAC, DSD, ALAC ihned po stažení.
-{{< /details >}}
+{{< /ls-details >}}
 
-{{< details title="Může Flacbox přehrávat DSD soubory bez konverze na PCM?" closed="true" >}}
+{{< ls-details title="Může Flacbox přehrávat DSD soubory bez konverze na PCM?" closed="true" >}}
 Ano, Flacbox podporuje nativní DSD přehrávání včetně DSD64, DSD128 a DSD256.
-{{< /details >}}
+{{< /ls-details >}}
 
-{{< details title="Jak přenesu velké bezztrátové sbírky na iPhone?" closed="true" >}}
+{{< ls-details title="Jak přenesu velké bezztrátové sbírky na iPhone?" closed="true" >}}
 Wi-Fi Drive, iTunes File Sharing, cloudové úložiště nebo externí disk přes Lightning/USB-C.
-{{< /details >}}
+{{< /ls-details >}}
 
-{{< details title="Je rozdíl v kvalitě zvuku mezi FLAC a ALAC ve Flacboxu?" closed="true" >}}
+{{< ls-details title="Je rozdíl v kvalitě zvuku mezi FLAC a ALAC ve Flacboxu?" closed="true" >}}
 Oba jsou bezztrátové kodeky s identickým výstupem. Flacbox zpracovává oba se stejnou věrností.
-{{< /details >}}
+{{< /ls-details >}}
 
-{{< details title="Jaký je nejlepší způsob přehrávání FLAC souborů na iPhone?" closed="true" >}}
+{{< ls-details title="Jaký je nejlepší způsob přehrávání FLAC souborů na iPhone?" closed="true" >}}
 Nainstalujte Flacbox a importujte soubory. Nativní dekódování až do 32-bit/384 kHz.
-{{< /details >}}
+{{< /ls-details >}}
 
-{{< details title="Funguje Flacbox s NAS a domácími servery?" closed="true" >}}
+{{< ls-details title="Funguje Flacbox s NAS a domácími servery?" closed="true" >}}
 Ano, přes SMB, WebDAV a DLNA.
-{{< /details >}}
+{{< /ls-details >}}

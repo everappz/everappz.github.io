@@ -21,7 +21,7 @@ readingTime: 16
 Layar Pengaturan adalah pusat kendali Flacbox. Dari sini Anda dapat meningkatkan ke Premium, mengonfigurasi mesin audio (codec sistem atau FFmpeg), mengelola perpustakaan musik, menyiapkan manajer file, menyesuaikan editor tag audio, mengaktifkan widget Layar Beranda dan Apple CarPlay, mencadangkan data Anda, dan mengakses bantuan serta informasi hukum.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Layar Utama Pengaturan Flacbox" image="/docs/guide/flacbox/img/settings-main.webp" >}}
+  {{< ls-card title="" subtitle="Layar Utama Pengaturan Flacbox" image="/docs/guide/flacbox/img/settings-main.webp" >}}
 {{< /cards >}}
 
 ## Tingkatkan ke Premium
@@ -29,13 +29,13 @@ Layar Pengaturan adalah pusat kendali Flacbox. Dari sini Anda dapat meningkatkan
 Tingkatkan aplikasi ke versi Premium untuk menghapus semua batasan. Versi gratis aplikasi menawarkan pembelian dalam aplikasi seumur hidup satu kali dan dua opsi berlangganan (1 bulan dan 1 tahun) untuk menghapus semua batasan dan meningkatkan ke Premium.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox Tingkatkan ke Premium" image="/docs/guide/flacbox/img/upgrade-to-premium.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox Tingkatkan ke Premium" image="/docs/guide/flacbox/img/upgrade-to-premium.webp" >}}
 {{< /cards >}}
 
 **Berbagi Keluarga** diaktifkan untuk semua pembelian dan paket, sehingga Anda dapat berbagi versi Premium dengan hingga lima anggota keluarga tanpa biaya tambahan.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox Pilih Paket Premium" image="/docs/guide/flacbox/img/select-premium-plan.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox Pilih Paket Premium" image="/docs/guide/flacbox/img/select-premium-plan.webp" >}}
 {{< /cards >}}
 
 Anda dapat membaca lebih lanjut tentang pembelian dan versi Premium di sini: [Apa perbedaan antara Flacbox dan Flacbox Premium](/docs/faq/flacbox/what-is-the-difference-between-flacbox-and-flacbox-premium/).

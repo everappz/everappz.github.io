@@ -7,7 +7,7 @@ tags: ["evermusic", "flacbox", "ostatnie", "lastfm", "eksport", "scrobbler"]
 readingTime: 5
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **Podsumowanie:** Wyeksportuj historię słuchania z Evermusic lub Flacbox jako plik CSV, a następnie prześlij ją do Last.fm za pomocą bezpłatnego narzędzia Last.fm-Scrubbler-WPF na Windows. Automatyczne scrobblowanie jest również dostępne natywnie w obu aplikacjach.
@@ -134,22 +134,22 @@ Teraz możesz otworzyć swój profil na stronie [Last.fm](http://Last.fm) i spra
 
 ## Najczęściej zadawane pytania
 
-{{% details title="Czy mogę scrobblować automatycznie bez eksportowania plików CSV?" closed="true" %}}
+{{% ls-details title="Czy mogę scrobblować automatycznie bez eksportowania plików CSV?" closed="true" %}}
 Tak. Zarówno Evermusic, jak i Flacbox obsługują teraz automatyczne scrobblowanie do Last.fm. Zobacz przewodnik: [Jak scrobblować do Last.fm](/docs/howto/how-to-scrobble-your-music-history-from-evermusic-or-flacbox-to-last-fm).
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Co jeśli mój CSV ma utwory starsze niż 14 dni?" closed="true" %}}
+{{% ls-details title="Co jeśli mój CSV ma utwory starsze niż 14 dni?" closed="true" %}}
 Użyj trybu importu w Last.fm-Scrubbler-WPF. Przelicza on znaczniki czasu na podstawie Finish Time, umożliwiając scrobblowanie utworów niezależnie od ich oryginalnej daty.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Nie mam komputera z Windows. Czy nadal mogę używać Last.fm-Scrubbler?" closed="true" %}}
+{{% ls-details title="Nie mam komputera z Windows. Czy nadal mogę używać Last.fm-Scrubbler?" closed="true" %}}
 Tak. Zainstaluj VirtualBox na swoim Mac i pobierz bezpłatny obraz środowiska programistycznego Windows od Microsoft. Uruchom Last.fm-Scrubbler-WPF wewnątrz maszyny wirtualnej.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Dlaczego niektóre scrobble nie zostały przeanalizowane?" closed="true" %}}
+{{% ls-details title="Dlaczego niektóre scrobble nie zostały przeanalizowane?" closed="true" %}}
 Utwory bez istotnych metadanych (takich jak nazwa artysty) nie mogą zostać przeanalizowane. Jest to oczekiwane i nie wpływa na inne utwory w pliku.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Czy istnieje dzienny limit scrobble'i?" closed="true" %}}
+{{% ls-details title="Czy istnieje dzienny limit scrobble'i?" closed="true" %}}
 Tak. Last.fm-Scrubbler-WPF pozwala na maksymalnie 2800 scrobble'i dziennie. Jeśli musisz scrobblować więcej, rozłóż proces na kilka dni.
-{{% /details %}}
+{{% /ls-details %}}

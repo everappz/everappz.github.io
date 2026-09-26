@@ -7,7 +7,7 @@ tags: ["cloud", "streaming", "computer", "mp3", "file", "downloader", "manager",
 keywords: ["transmitere muzică de pe Mac pe iPhone", "SMB audio streaming iOS", "configurare Evermusic SMB", "conectare muzică PC iPhone", "partajare muzică Mac iOS", "SMB Windows streaming fișiere", "acces Evermusic foldere PC"]
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **Pe scurt:** Folosește aplicația Evermusic pentru iPhone sau iPad pentru a transmite muzică de pe Mac sau Windows PC prin rețeaua ta locală folosind SMB. Fără sincronizare, fără copiere -- doar activează partajarea fișierelor pe computer, conectează-te în aplicație și redă. Configurarea durează mai puțin de 5 minute.
@@ -102,26 +102,26 @@ P.S. Poți de asemenea să transferi fișiere audio de pe MAC/PC pe iPhone folos
 
 ## Întrebări frecvente
 
-{{% details title="Pot transmite muzică de pe PC pe iPhone fără iTunes?" closed="true" %}}
+{{% ls-details title="Pot transmite muzică de pe PC pe iPhone fără iTunes?" closed="true" %}}
 Da. Evermusic se conectează la PC-ul tău prin SMB pe rețeaua ta Wi-Fi locală. iTunes nu este necesar. Doar activează partajarea fișierelor pe PC și conectează-te în aplicație.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Streaming-ul SMB folosește date mobile?" closed="true" %}}
+{{% ls-details title="Streaming-ul SMB folosește date mobile?" closed="true" %}}
 Nu. SMB funcționează prin rețeaua ta Wi-Fi locală. Nu este necesară conexiune la internet sau date mobile.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Ce formate audio suportă Evermusic prin SMB?" closed="true" %}}
+{{% ls-details title="Ce formate audio suportă Evermusic prin SMB?" closed="true" %}}
 Evermusic suportă MP3, FLAC, AAC, WAV, AIFF, OGG, WMA, ALAC și alte formate audio comune. Fișierele sunt redate direct din partajarea SMB.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Pot transmite muzică de pe un NAS pe iPhone?" closed="true" %}}
+{{% ls-details title="Pot transmite muzică de pe un NAS pe iPhone?" closed="true" %}}
 Da. Dacă NAS-ul tău suportă SMB (majoritatea o fac, inclusiv Synology, QNAP și WD My Cloud), te poți conecta la el folosind aceiași pași din acest ghid.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Trebuie să țin computerul pornit în timpul transmiterii?" closed="true" %}}
+{{% ls-details title="Trebuie să țin computerul pornit în timpul transmiterii?" closed="true" %}}
 Da. Deoarece Evermusic transmite fișierele direct de pe computer, acesta trebuie să fie pornit și conectat la aceeași rețea ca iPhone-ul tău.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Există o limită de dimensiune a fișierului pentru streaming SMB?" closed="true" %}}
+{{% ls-details title="Există o limită de dimensiune a fișierului pentru streaming SMB?" closed="true" %}}
 Nu. Evermusic transmite fișiere de orice dimensiune prin SMB. Fișierele mari lossless (FLAC, WAV) funcționează fără probleme.
-{{% /details %}}
+{{% /ls-details %}}

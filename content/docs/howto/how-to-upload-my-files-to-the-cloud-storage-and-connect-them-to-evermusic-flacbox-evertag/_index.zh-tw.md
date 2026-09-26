@@ -7,7 +7,7 @@ tags: ["evermusic", "flacbox", "雲端", "檔案", "帳戶", "管理器", "連�
 keywords: ["將雲端服務連接到 Evermusic", "上傳檔案到 Google Drive", "Flacbox 雲端整合", "在 Evermusic 中使用 OneDrive", "Evertag 雲端檔案存取", "將 Dropbox 連接到 iOS 音樂播放器", "雲端服務檔案管理器"]
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **摘要：** 將您的音樂或媒體檔案上傳到任何支援的雲端服務（Google Drive、Dropbox、OneDrive 等），然後在 Evermusic、Flacbox 或 Evertag 中連接該服務，即可直接在 iPhone、iPad 或 Mac 上串流或下載您的檔案。
@@ -76,38 +76,38 @@ keywords: ["將雲端服務連接到 Evermusic", "上傳檔案到 Google Drive",
 
 ## 常見問題
 
-{{% details title="支援哪些雲端服務？" closed="true" %}}
+{{% ls-details title="支援哪些雲端服務？" closed="true" %}}
 Evermusic、Flacbox 和 Evertag 支援 Google Drive、Dropbox、OneDrive、Box、MediaFire、Yandex.Disk、MEGA、MyDrive、pCloud 和其他雲端服務供應商。您還可以連接自訂的 WebDAV、SMB 和 FTP 伺服器。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="我可以直接從雲端串流音樂而不下載嗎？" closed="true" %}}
+{{% ls-details title="我可以直接從雲端串流音樂而不下載嗎？" closed="true" %}}
 可以。三款應用程式都支援直接從已連接的雲端儲存串流音訊檔案。您也可以下載檔案以便在沒有網路連線時離線播放。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="應用程式中有檔案大小或儲存限制嗎？" closed="true" %}}
+{{% ls-details title="應用程式中有檔案大小或儲存限制嗎？" closed="true" %}}
 應用程式本身不設置檔案大小或儲存限制。您的可用儲存空間取決於雲端服務方案和裝置的本機儲存空間。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="我可以同時連接多個雲端帳戶嗎？" closed="true" %}}
+{{% ls-details title="我可以同時連接多個雲端帳戶嗎？" closed="true" %}}
 可以。您可以同時連接多個雲端服務和同一供應商的多個帳戶。所有已連接的帳戶都顯示在連接標籤頁中，方便切換。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="切換到其他應用程式時需要重新上傳檔案嗎？" closed="true" %}}
+{{% ls-details title="切換到其他應用程式時需要重新上傳檔案嗎？" closed="true" %}}
 不需要。由於檔案儲存在雲端，您可以將同一雲端帳戶連接到 Evermusic、Flacbox 或 Evertag，無需重新上傳任何內容。每個應用程式都存取雲端儲存中的相同檔案。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="我的雲端帳戶資料安全嗎？" closed="true" %}}
+{{% ls-details title="我的雲端帳戶資料安全嗎？" closed="true" %}}
 安全。應用程式僅使用官方 SDK 和加密連線與雲端服務互動。您的登入資訊和密碼絕不會被應用程式儲存。登入時，應用程式會顯示雲端服務提供的官方授權頁面。授權成功後，雲端服務供應商會向應用程式傳送授權權杖，該權杖安全儲存在裝置鑰匙圈中。此權杖用於所有 API 請求。<br><br>
 應用程式不會分享您雲端帳戶中的任何資訊。您可以隨時在網頁瀏覽器的雲端帳戶設定頁面撤銷存取權限，或在應用程式內斷開帳戶連接。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="如何斷開雲端服務連接或變更其設定？" closed="true" %}}
+{{% ls-details title="如何斷開雲端服務連接或變更其設定？" closed="true" %}}
 在應用程式的連接標籤頁中找到雲端儲存，點選旁邊的 **...** 按鈕。您將看到以下選項：<br>
 - **重新命名** -- 變更雲端服務的顯示名稱<br>
 - **設定** -- 修改設定或在權杖過期時重新授權<br>
 - **斷開連接** -- 完全移除連接。這將從應用程式的音樂資料庫中移除該雲端服務的所有歌曲，但檔案仍保留在伺服器上
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="如何撤銷應用程式對我雲端帳戶的存取權限？" closed="true" %}}
+{{% ls-details title="如何撤銷應用程式對我雲端帳戶的存取權限？" closed="true" %}}
 在網頁瀏覽器中登入您的雲端帳戶，開啟帳戶設定或安全頁面。找到已連接的第三方應用程式清單，移除您不再想授權的應用程式。您也可以在應用程式內斷開雲端帳戶連接——這將從您的裝置中移除授權權杖。如果您完全刪除應用程式，所有下載的資料和存取權杖將自動移除。
-{{% /details %}}
+{{% /ls-details %}}

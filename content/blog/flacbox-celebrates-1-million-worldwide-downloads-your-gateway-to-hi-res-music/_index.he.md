@@ -12,7 +12,7 @@ authors:
     image: "/images/about/artem-meleshko-founder-everappz.webp"
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 **בקצרה:** Flacbox עבר מיליון הורדות ברחבי העולם. הוא תומך ב-FLAC, ALAC, APE, DSD ופורמטים lossless אחרים עם אקולייזר 10 פסים, רשימות השמעה M3U/CUE, השמעה לא מקוונת וסנכרון בין מכשירים ב-iPhone, iPad ו-Mac.
 
@@ -78,26 +78,26 @@ Flacbox מנגן את המוזיקה שלכם בדיוק כפי שהוקלטה. 
 
 ## שאלות נפוצות
 
-{{% details title="באילו פורמטי אודיו Flacbox תומך?" closed="true" %}}
+{{% ls-details title="באילו פורמטי אודיו Flacbox תומך?" closed="true" %}}
 Flacbox מנגן FLAC, ALAC, APE, DSD, WavPack, TTA, RealAudio, MP3, AAC, OGG ופורמטים רבים אחרים. הוא מתוכנן בעיקר לאודיו lossless ו-hi-res.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="האם ל-Flacbox יש אקולייזר?" closed="true" %}}
+{{% ls-details title="האם ל-Flacbox יש אקולייזר?" closed="true" %}}
 כן. Flacbox כולל אקולייזר 10 פסים עם הגדרות מוכנות לפי ז׳אנר וכוונון תדרים ידני.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="האם ניתן להאזין למוזיקה לא מקוונת עם Flacbox?" closed="true" %}}
+{{% ls-details title="האם ניתן להאזין למוזיקה לא מקוונת עם Flacbox?" closed="true" %}}
 כן. הורידו קבצים מאחסון ענן או העבירו אותם ישירות לאפליקציה להשמעה לא מקוונת ללא חיבור אינטרנט.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="האם Flacbox עובד על Mac?" closed="true" %}}
+{{% ls-details title="האם Flacbox עובד על Mac?" closed="true" %}}
 כן. Flacbox פועל על iPhone, iPad ו-Mac עם ספריות מסונכרנות והיסטוריית השמעה בכל המכשירים.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="מהי תמיכת גיליון CUE?" closed="true" %}}
+{{% ls-details title="מהי תמיכת גיליון CUE?" closed="true" %}}
 גיליונות CUE מגדירים גבולות רצועות בתוך קובץ אודיו בודד. Flacbox קורא קבצי CUE כדי לפצל ריפים של אלבומים לרצועות בודדות עם מטא-נתונים תקינים.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="האם Flacbox חינמי?" closed="true" %}}
+{{% ls-details title="האם Flacbox חינמי?" closed="true" %}}
 Flacbox חינמי להורדה עם תכונות פרימיום אופציונליות זמינות באמצעות רכישה בתוך האפליקציה.
-{{% /details %}}
+{{% /ls-details %}}

@@ -7,12 +7,12 @@ tags: ["Evermusic", "Flacbox", "Visualizer", "Sådan gør du", "Milkdrop", "proj
 readingTime: 9
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 **Kort svar:** [Evermusic](/products/evermusic) og [Flacbox](/products/flacbox) har begge en **musikvisualizer** i fuld skærm, der maler bevægelige, farverige visuals i takt med din musik. Åbn den fra **Afspilles nu**-afspilleren (**⋯ Mere > Visualisering**) eller fra **Indstillinger > Visualisering**, vælg derefter et preset eller **Auto**, og tryk på **Start visualisering**. På visualizer-skærmen kan du trykke én gang for at vise eller skjule kontrollerne og bruge pilene **Forrige** og **Næste** til at ændre udseendet. Den bruger den velkendte **Milkdrop (projectM)**-motor med **500 presets**, gengiver med **OpenGL** og fungerer på **iPhone, iPad og Mac**. Trinnene er de samme i begge apps. De fulde trin er nedenfor.
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Musikvisualizer: Starfield Sectors-preset" image="/docs/howto/how-to-turn-on-a-music-visualizer-while-playing-music-on-iphone-ipad-mac/music-visualizer-starfield-sectors-preset.webp" imageStyle="border-radius: clamp(14px, 2vw, 28px);" >}}
+{{< ls-card title="" subtitle="Musikvisualizer: Starfield Sectors-preset" image="/docs/howto/how-to-turn-on-a-music-visualizer-while-playing-music-on-iphone-ipad-mac/music-visualizer-starfield-sectors-preset.webp" imageStyle="border-radius: clamp(14px, 2vw, 28px);" >}}
 {{< /cards >}}
 
 ## Hvad er visualizeren?
@@ -85,50 +85,50 @@ Uanset hvad reagerer visualsene på præcis den lyd, du afspiller, uanset om det
 
 ## FAQ
 
-{{% details title="Hvordan tænder jeg visualizeren i Evermusic eller Flacbox?" closed="true" %}}
+{{% ls-details title="Hvordan tænder jeg visualizeren i Evermusic eller Flacbox?" closed="true" %}}
 Åbn Afspilles nu-afspilleren, tryk på ⋯ (Mere)-knappen, og vælg Visualisering. Du kan også åbne den fra Indstillinger > Visualisering. Vælg derefter et preset (eller Auto), og tryk på Start visualisering. Trinnene er de samme i begge apps.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Hvad er visualizeren baseret på?" closed="true" %}}
+{{% ls-details title="Hvad er visualizeren baseret på?" closed="true" %}}
 Den bruger den open source projectM-motor, som afspiller Milkdrop-lignende presets. Det er de animerede, musikreaktive visuals, som mange kender fra desktop-musikafspillere. Både Evermusic og Flacbox inkluderer 500 presets og tegner dem med OpenGL.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Hvor mange visualizer-presets er der?" closed="true" %}}
+{{% ls-details title="Hvor mange visualizer-presets er der?" closed="true" %}}
 500 presets. Hvert enkelt er en anderledes animeret scene, og du kan bevæge dig gennem dem med pilene Næste og Forrige, eller lade Auto-tilstand blande gennem dem for dig.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Reagerer visualizeren på musikken?" closed="true" %}}
+{{% ls-details title="Reagerer visualizeren på musikken?" closed="true" %}}
 Ja. Visualsene reagerer på den lyd, du afspiller, i realtid, så formerne, farverne og bevægelsen ændrer sig med nummerets beat og energi. Den fungerer med lokale filer, cloud-drev, medieservere og internetradio.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Hvordan skifter jeg visualizer-preset?" closed="true" %}}
+{{% ls-details title="Hvordan skifter jeg visualizer-preset?" closed="true" %}}
 Tryk på skærmen én gang for at vise kontrollerne, og brug derefter pilene Forrige og Næste nederst til at bevæge dig mellem presets. Navnet og tælleren øverst (for eksempel 429 / 500) opdateres, mens du skifter dem. Du kan også starte i Auto-tilstand for at få appen til at skifte presets automatisk.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Hvad er Auto-tilstand?" closed="true" %}}
+{{% ls-details title="Hvad er Auto-tilstand?" closed="true" %}}
 Auto-tilstand, valgt fra preset-vælgeren, blander gennem presets på egen hånd og skifter til et nyt hvert 30. sekund med en jævn crossfade. Det er den nemmeste måde at nyde showet på uden at røre skærmen.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Hvordan skjuler jeg kontrollerne på skærmen?" closed="true" %}}
+{{% ls-details title="Hvordan skjuler jeg kontrollerne på skærmen?" closed="true" %}}
 Tryk på skærmen én gang for at skjule kontrollerne for en ren visning i fuld skærm, og tryk igen for at få dem tilbage. Kontrollerne skjuler også sig selv efter et par sekunder.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Fungerer visualizeren på Mac?" closed="true" %}}
+{{% ls-details title="Fungerer visualizeren på Mac?" closed="true" %}}
 Ja. På Mac åbner både Evermusic og Flacbox visualizeren i sit eget vindue og tegner den med native desktop-OpenGL, så du får de samme musikreaktive Milkdrop-visuals på en stor skærm.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Fungerer visualizeren på iPhone og iPad?" closed="true" %}}
+{{% ls-details title="Fungerer visualizeren på iPhone og iPad?" closed="true" %}}
 Ja. På iPhone og iPad kører den i fuld skærm, tegnet med OpenGL ES for jævn animation på Retina-skærme.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Vil min skærm dæmpes eller låses, mens visualizeren kører?" closed="true" %}}
+{{% ls-details title="Vil min skærm dæmpes eller låses, mens visualizeren kører?" closed="true" %}}
 Nej. Appen holder skærmen vågen, mens visualizeren er tændt, så showet vil ikke blive afbrudt af, at skærmen dæmpes eller låses.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Husker appen mit valgte preset?" closed="true" %}}
+{{% ls-details title="Husker appen mit valgte preset?" closed="true" %}}
 Ja. Det sidste preset, du valgte, gemmes og fremhæves i preset-vælgeren, så det er nemt at vende tilbage til din favorit.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Hvor vises navnet på det aktuelle preset?" closed="true" %}}
+{{% ls-details title="Hvor vises navnet på det aktuelle preset?" closed="true" %}}
 Øverst i midten af visualizer-skærmen, sammen med en tæller som 429 / 500, der viser, hvilket preset du er på ud af hele sættet. På eksempelskærmbilledet er preset'et Starfield Sectors.
-{{% /details %}}
+{{% /ls-details %}}

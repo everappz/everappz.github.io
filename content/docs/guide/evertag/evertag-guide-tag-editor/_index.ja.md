@@ -15,7 +15,7 @@ readingTime: 5
 **タグエディタ**はEvertagアプリのメイン画面で、オーディオファイルのメタデータを表示・編集できます。**ローカルファイル**セクションのファイルをタップするか、接続された**クラウドストレージ**アカウントからこの画面を開きます。
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evertagタグエディタ画面" image="/docs/guide/evertag/img/tag-editor.webp" >}}
+  {{< ls-card title="" subtitle="Evertagタグエディタ画面" image="/docs/guide/evertag/img/tag-editor.webp" >}}
 {{< /cards >}}
 
 ## 編集モード
@@ -38,7 +38,7 @@ Evertagは2つの編集モードを提供します：
 利用可能なすべてのタグにアクセスするには、画面の一番下までスクロールして**拡張タグを表示**オプションをタップします。これにより、エディタが拡張モードに切り替わり、**MusicBrainzタグ**、**歌詞**、**推奨レーティング**、replay-gain値、ソート順、ポッドキャストメタデータなど、**120以上のメタデータフィールド**を編集できます。**設定 → オーディオタグエディタ → メイン画面のボタン**を使用して、拡張タグを表示を常にオンになるよう恒久的に切り替えます。
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="ボトムアクションパネル" image="/docs/guide/evertag/img/tag-editor-bottom-actions.webp" >}}
+{{< ls-card title="" subtitle="ボトムアクションパネル" image="/docs/guide/evertag/img/tag-editor-bottom-actions.webp" >}}
 {{< /cards >}}
 
 ## バッチモード
@@ -53,7 +53,7 @@ Evertagは2つの編集モードを提供します：
    - 任意のファイルを開き、下にスクロールして**ファイルを同時に編集**をタップすると、同じフォルダーのすべてのファイルが読み込まれます。
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="バッチ編集モード" image="/docs/guide/evertag/img/tag-editor-batch-editing.webp" >}}
+{{< ls-card title="" subtitle="バッチ編集モード" image="/docs/guide/evertag/img/tag-editor-batch-editing.webp" >}}
 {{< /cards >}}
 
 編集後、**保存する**をタップして変更を適用します。
@@ -72,19 +72,19 @@ Evertagは2つの編集モードを提供します：
 各ショートカットは、対応するサービスがデバイスから到達可能な場合にのみ表示されます。サービスをタップし、必要な歌詞（またはLRCタイムスタンプ）をコピーし、Evertagに戻ってテキストフィールドに貼り付けます — 次に**保存する**をタップして歌詞をオーディオファイルのタグに書き戻します。
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="歌詞ページ" image="/docs/guide/evertag/img/tag-editor-lyrics-pages.webp" >}}
+  {{< ls-card title="" subtitle="歌詞ページ" image="/docs/guide/evertag/img/tag-editor-lyrics-pages.webp" >}}
 {{< /cards >}}
 
 ピッカーから言語を選択します：
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="歌詞言語セレクター" image="/docs/guide/evertag/img/tag-editor-lyrics-language-select.webp" >}}
+  {{< ls-card title="" subtitle="歌詞言語セレクター" image="/docs/guide/evertag/img/tag-editor-lyrics-language-select.webp" >}}
 {{< /cards >}}
 
 次に歌詞テキストを貼り付けるか入力します。Evertagはプレーンテキストとタイムスタンプ付き（同期済み）歌詞の両方をサポートしています — プレースホルダーにはLRCスタイル形式の例が表示されており、これはLrclibとLyricsifyが同期結果として返すものです。
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="歌詞テキストエディタ" image="/docs/guide/evertag/img/tag-editor-lyrics-text.webp" >}}
+  {{< ls-card title="" subtitle="歌詞テキストエディタ" image="/docs/guide/evertag/img/tag-editor-lyrics-text.webp" >}}
 {{< /cards >}}
 
 ## 評価と推奨レーティングの設定
@@ -96,7 +96,7 @@ Evertagは2つの編集モードを提供します：
 **評価**フィールドを使用して、トラックに1から5つ星の個人スコアを付けます。値はファイルの標準評価タグに書き込まれます（ID3ではPOPM、MP4では`rate`、Vorbis/APEでは`RATING`など）。そのため、このタグを読む他のアプリ（ミュージックアプリ、Plex、Roon、ほとんどのデスクトップタグエディタを含む）はすぐにスコアを取得します。
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="評価" image="/docs/guide/evertag/img/tag-editor-rating.webp" >}}
+  {{< ls-card title="" subtitle="評価" image="/docs/guide/evertag/img/tag-editor-rating.webp" >}}
 {{< /cards >}}
 
 ### 推奨レーティング
@@ -117,7 +117,7 @@ Evertagは2つの編集モードを提供します：
 値はファイル形式の標準推奨レーティングフィールドに保存されます（MP4では`rtng`、ID3では`TXXX:ITUNESADVISORY`、Vorbisでは`ITUNESADVISORY`）。そのため、ペアレンタルアドバイザリーメタデータを読むプレーヤーはあなたの更新を確認できます。
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="歌詞推奨レーティング" image="/docs/guide/evertag/img/lyrics-advisory-rating.webp" >}}
+  {{< ls-card title="" subtitle="歌詞推奨レーティング" image="/docs/guide/evertag/img/lyrics-advisory-rating.webp" >}}
 {{< /cards >}}
 
 ## アルバムカバーの編集
@@ -129,7 +129,7 @@ Evertagは2つの編集モードを提供します：
 3. カバーアートとして適用する画像を選択します。
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="画像を選択" image="/docs/guide/evertag/img/select-image.webp" >}}
+  {{< ls-card title="" subtitle="画像を選択" image="/docs/guide/evertag/img/select-image.webp" >}}
 {{< /cards >}}
 
 ## タグエディタのその他のアクション
@@ -137,7 +137,7 @@ Evertagは2つの編集モードを提供します：
 追加の編集オプションは、アートワークビューの下にあるツールバーから利用できます。
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="その他のアクションメニュー" image="/docs/guide/evertag/img/tag-editor-more-actions.webp" >}}
+  {{< ls-card title="" subtitle="その他のアクションメニュー" image="/docs/guide/evertag/img/tag-editor-more-actions.webp" >}}
 {{< /cards >}}
 
 ### オーディオタグの自動検索
@@ -150,13 +150,13 @@ Evertagは2つの編集モードを提供します：
 メタデータを使用してウェブで正しいアルバムアートワークを検索します。  
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="アルバムカバーを検索" image="/docs/guide/evertag/img/search-album-cover.webp" >}}
+  {{< ls-card title="" subtitle="アルバムカバーを検索" image="/docs/guide/evertag/img/search-album-cover.webp" >}}
 {{< /cards >}}
 
 見つかったら、システムコンテキストメニューを使用して画像を**写真**に保存します。
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="写真に画像を追加" image="/docs/guide/evertag/img/add-image-to-photos.webp" >}}
+  {{< ls-card title="" subtitle="写真に画像を追加" image="/docs/guide/evertag/img/add-image-to-photos.webp" >}}
 {{< /cards >}}
 
 その後、タグエディタに戻り、カメラアイコンをタップして**写真ライブラリ**に移動し、保存した画像を選択します。アプリはそれをオーディオファイルのカバーとして設定します。
@@ -178,19 +178,19 @@ MusicBrainzデータベースを使用してアルバムメタデータを手動
 - アルバムを選択  
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="アルバムを選択" image="/docs/guide/evertag/img/select-album-results.webp" >}}
+  {{< ls-card title="" subtitle="アルバムを選択" image="/docs/guide/evertag/img/select-album-results.webp" >}}
 {{< /cards >}}
 
 - 正しい曲を選ぶ  
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="曲を選択" image="/docs/guide/evertag/img/select-a-song.webp" >}}
+  {{< ls-card title="" subtitle="曲を選択" image="/docs/guide/evertag/img/select-a-song.webp" >}}
 {{< /cards >}}
 
 - 適用するタグを選択  
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="オーディオタグを選択" image="/docs/guide/evertag/img/select-audio-tags.webp" >}}
+  {{< ls-card title="" subtitle="オーディオタグを選択" image="/docs/guide/evertag/img/select-audio-tags.webp" >}}
 {{< /cards >}}
 
 **完了**をタップして選択したメタデータをトラックに適用します。

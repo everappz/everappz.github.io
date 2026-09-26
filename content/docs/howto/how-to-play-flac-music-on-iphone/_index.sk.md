@@ -8,7 +8,7 @@ tags: ["hudba", "cloud", "prehrávač", "sťahovanie", "ekvalizér", "bezstratov
 readingTime: 8
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **Zhrnutie:** Na prehrávanie FLAC na iPhone potrebujete prehrávač tretej strany, pretože aplikácia Hudba od Apple nepodporuje FLAC. Nainštalujte si [Flacbox](/products/flacbox) (je zadarmo) a potom buď preneste svoje súbory cez Wi-Fi Drive alebo USB, alebo pripojte svoje cloudové úložisko či NAS. Vaša knižnica FLAC sa prehráva v plnej kvalite, až do 384 kHz a 32-bit cez USB DAC. Flacbox tiež prehráva viac ako 120 formátov, vrátane FLAC, DSD, ALAC, APE, WAV, OGG a OPUS, a pridáva 10-pásmový ekvalizér, profesionálny zvukový motor BASS s efektmi v reálnom čase, DSP procesor a celoobrazovkový vizualizér hudby.
@@ -34,7 +34,7 @@ Flacbox je hi-res hudobný prehrávač pre iPhone, iPad a Mac. Premení vaše cl
 
 Flacbox je zadarmo na stiahnutie a beží na iPhone, iPade a Macu.
 
-{{< app-details product="flacbox" >}}
+{{< ls-app-details product="flacbox" >}}
 
 ### Krok 2. Dostaňte svoje súbory FLAC dovnútra
 
@@ -82,7 +82,7 @@ Motor prehrávania si môžete vybrať v Nastavenia, potom Prehrávač zvuku, po
 Flacbox obsahuje 10-pásmový grafický ekvalizér s predvoľbami v štýle iPodu ako Acoustic, Bass Booster, Rock, Pop, Jazz, Classical a Dance. Je tu predzosilňovač na zosilnenie tichých skladieb bez orezania a môžete si uložiť vlastné predvoľby. Nalaďte ho pre slúchadlá do uší, HomePod alebo autorádio. Pre kompletný návod si pozrite [príručku ekvalizéra](/docs/howto/how-to-use-the-audio-equalizer-on-your-iphone-ipad-mac-with-evermusic-and-flacbox).
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Ekvalizér prehrávača zvuku Flacbox" image="/docs/guide/flacbox/img/audio-player-equalizer.webp" >}}
+  {{< ls-card title="" subtitle="Ekvalizér prehrávača zvuku Flacbox" image="/docs/guide/flacbox/img/audio-player-equalizer.webp" >}}
 {{< /cards >}}
 
 ## Zvukové efekty v reálnom čase
@@ -106,7 +106,7 @@ Okrem efektov vám Flacbox ponúka 14-filtrový DSP procesor v reálnom čase, k
 Flacbox má zabudovaný vizualizér hudby, ktorý vykresľuje pohyblivé, farebné vizuály v takte s vašou hudbou. Používa dobre známy motor Milkdrop (projectM) s 500 predvoľbami, vykreslený pomocou OpenGL na iPhone, iPade a Macu. Otvorte ho z prehrávača ťuknutím na tlačidlo Viac a potom Vizualizácia. Vyberte si predvoľbu alebo použite režim Auto na ich prepínanie každých 30 sekúnd s plynulým prelínaním. Pre pomoc krok za krokom si pozrite príručku o tom, [ako zapnúť vizualizér hudby](/docs/howto/how-to-turn-on-a-music-visualizer-while-playing-music-on-iphone-ipad-mac).
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Vizualizér hudby Flacbox (Milkdrop a projectM)" image="/docs/howto/how-to-turn-on-a-music-visualizer-while-playing-music-on-iphone-ipad-mac/music-visualizer-starfield-sectors-preset.webp" >}}
+  {{< ls-card title="" subtitle="Vizualizér hudby Flacbox (Milkdrop a projectM)" image="/docs/howto/how-to-turn-on-a-music-visualizer-while-playing-music-on-iphone-ipad-mac/music-visualizer-starfield-sectors-preset.webp" >}}
 {{< /cards >}}
 
 ## Cloud, NAS a offline prehrávanie
@@ -127,7 +127,7 @@ Keď chcete mať svoju hudbu so sebou, zabudovaný správca sťahovania uloží 
 
 Flacbox je zadarmo na stiahnutie. Premium odstraňuje obmedzenia bezplatnej verzie na cloudové účty, playlisty a offline priečinky a je dostupný ako jednorazový doživotný nákup alebo mesačné či ročné predplatné, s Rodinným zdieľaním.
 
-{{< app-details product="flacbox" >}}
+{{< ls-app-details product="flacbox" >}}
 
 ## Možnosť 2: Konvertovať FLAC na ALAC pre aplikáciu Hudba
 
@@ -141,34 +141,34 @@ Kompromisy sú reálne. Teraz máte dve kópie svojej knižnice, každá úprava
 
 ## Časté otázky
 
-{{% details title="Dokáže iPhone prehrávať súbory FLAC natívne?" closed="true" %}}
+{{% ls-details title="Dokáže iPhone prehrávať súbory FLAC natívne?" closed="true" %}}
 Len obmedzene. Aplikácia Súbory dokáže zobraziť náhľad jedného súboru FLAC od iOS 11, ale nie je tu žiadna knižnica, playlisty, front, ekvalizér ani cloudový streaming. Na skutočné počúvanie použite prehrávač ako Flacbox.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Môžem na iPhone prehrávať 24-bit alebo 96kHz (alebo vyššie) FLAC?" closed="true" %}}
+{{% ls-details title="Môžem na iPhone prehrávať 24-bit alebo 96kHz (alebo vyššie) FLAC?" closed="true" %}}
 Áno. Flacbox podporuje hi-res výstup až do 384 kHz. Na prehrávanie nad 48 kHz v skutočnom rozlíšení pripojte externý USB DAC, pretože zabudovaný výstup iPhonu prevzorkúva zvuk pre každú aplikáciu.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Konvertuje Flacbox FLAC na iný formát?" closed="true" %}}
+{{% ls-details title="Konvertuje Flacbox FLAC na iný formát?" closed="true" %}}
 Nie. Flacbox prehráva FLAC v jeho pôvodnej bezstratovej kvalite bez konverzie. Efekty a DSP sa aplikujú naživo iba počas prehrávania a nikdy nemenia vaše súbory.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Stratím kvalitu konverziou FLAC na ALAC?" closed="true" %}}
+{{% ls-details title="Stratím kvalitu konverziou FLAC na ALAC?" closed="true" %}}
 Nie. FLAC aj ALAC sú bezstratové, takže konverzia je bit-perfect. Strácate len čas a pohodlie, keďže skončíte s dvoma knižnicami na údržbu a po úpravách musíte znova synchronizovať.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Aké zvukové formáty Flacbox podporuje?" closed="true" %}}
+{{% ls-details title="Aké zvukové formáty Flacbox podporuje?" closed="true" %}}
 Viac ako 120 formátov, vrátane FLAC, DSD (DSF a DFF), ALAC, APE, WAV, AIFF, WV, OGG, OPUS, MP3, AAC, M4A, WMA a dokonca tracker a MOD hudby ako MOD, XM, IT a S3M.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Má Flacbox ekvalizér, efekty a vizualizér?" closed="true" %}}
+{{% ls-details title="Má Flacbox ekvalizér, efekty a vizualizér?" closed="true" %}}
 Áno. Má 10-pásmový ekvalizér s predvoľbami a predzosilňovač. Má tiež profesionálny motor BASS s jedenástimi efektmi v reálnom čase (reverb, delay, multi-tap echo, crossfeed, kompresor, chorus, flanger, phaser, auto-wah, distortion a stereo rotation), plus vyrovnávanie hlasitosti EBU R128, 14-filtrový DSP procesor a celoobrazovkový vizualizér Milkdrop s 500 predvoľbami.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Môžem streamovať FLAC z môjho NAS alebo cloudu?" closed="true" %}}
+{{% ls-details title="Môžem streamovať FLAC z môjho NAS alebo cloudu?" closed="true" %}}
 Áno. Flacbox sa pripája k viac ako 30 cloudovým službám a k NAS alebo počítaču cez SMB, WebDAV, DLNA, FTP, SFTP a NFS. Celá vaša knižnica je dostupná bez kopírovania súborov do vášho iPhonu a skladby si môžete kedykoľvek stiahnuť na offline prehrávanie.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Je Flacbox naozaj zadarmo?" closed="true" %}}
+{{% ls-details title="Je Flacbox naozaj zadarmo?" closed="true" %}}
 Flacbox je zadarmo na stiahnutie, so základnými funkciami ako ekvalizér, cloudový streaming a offline prehrávanie. Premium odstraňuje obmedzenia bezplatnej verzie na cloudové účty, playlisty a offline priečinky a prichádza ako jednorazový doživotný nákup alebo mesačné či ročné predplatné, s Rodinným zdieľaním.
-{{% /details %}}
+{{% /ls-details %}}

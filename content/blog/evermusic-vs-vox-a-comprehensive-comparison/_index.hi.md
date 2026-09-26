@@ -14,7 +14,7 @@ authors:
     image: "/images/about/artem-meleshko-founder-everappz.webp"
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 **संक्षेप में:** Evermusic 8 में से 5 श्रेणियों में जीतता है, 3 बराबरी के साथ। यह व्यापक क्लाउड स्टोरेज सपोर्ट (12+ सेवाएं बनाम केवल VOX Cloud), बिल्ट-इन ऑडियोबुक सुविधाएं, ID3 टैग एडिटर और वायरलेस फाइल ट्रांसफर प्रदान करता है। VOX उन उपयोगकर्ताओं को आकर्षित करता है जो इसके प्रोप्राइटरी क्लाउड और मिनिमलिस्ट डिज़ाइन पसंद करते हैं।
 
@@ -34,8 +34,8 @@ authors:
 | एक्सेसिबिलिटी (VoiceOver) | हाँ | हाँ | बराबरी |
 
 {{< cards >}}
-  {{< card link="https://apps.apple.com/us/app/evermusic-cloud-music-player/id885367198" title="Evermusic डाउनलोड करें" icon="download" tag="मुफ़्त" >}}
-  {{< card link="https://apps.apple.com/us/app/vox-mp3-flac-music-player/id916215494" title="VOX डाउनलोड करें" icon="download" tag="मुफ़्त" >}}
+  {{< ls-card link="https://apps.apple.com/us/app/evermusic-cloud-music-player/id885367198" title="Evermusic डाउनलोड करें" icon="download" tag="मुफ़्त" >}}
+  {{< ls-card link="https://apps.apple.com/us/app/vox-mp3-flac-music-player/id916215494" title="VOX डाउनलोड करें" icon="download" tag="मुफ़्त" >}}
 {{< /cards >}}
 
 ## क्लाउड स्टोरेज सपोर्ट
@@ -107,18 +107,18 @@ Evermusic में एक **Wi-Fi Drive** मोड शामिल है ज�
 
 ## अक्सर पूछे जाने वाले प्रश्न
 
-{{% details title="क्या Evermusic VOX का अच्छा विकल्प है?" closed="true" %}}
+{{% ls-details title="क्या Evermusic VOX का अच्छा विकल्प है?" closed="true" %}}
 हाँ। Evermusic VOX के केवल प्रोप्राइटरी क्लाउड की तुलना में 12+ क्लाउड स्टोरेज सेवाओं का समर्थन करता है। यह ऑडियोबुक सुविधाएं, ID3 टैग एडिटिंग और Wi-Fi फाइल ट्रांसफर भी प्रदान करता है जो VOX में नहीं है। Evermusic मुफ़्त डाउनलोड के लिए उपलब्ध है जिसमें एक बार का Premium अपग्रेड उपलब्ध है।
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="क्या VOX Dropbox या Google Drive का समर्थन करता है?" closed="true" %}}
+{{% ls-details title="क्या VOX Dropbox या Google Drive का समर्थन करता है?" closed="true" %}}
 नहीं। VOX अपने स्वयं के प्रोप्राइटरी VOX Cloud स्टोरेज का उपयोग करता है। यह Dropbox, Google Drive या OneDrive जैसी तीसरे पक्ष की सेवाओं से कनेक्ट नहीं होता। Evermusic इन सभी और अधिक का समर्थन करता है।
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="ऑडियोबुक के लिए कौन सा ऐप बेहतर है: Evermusic या VOX?" closed="true" %}}
+{{% ls-details title="ऑडियोबुक के लिए कौन सा ऐप बेहतर है: Evermusic या VOX?" closed="true" %}}
 ऑडियोबुक के लिए Evermusic काफी बेहतर है। इसमें प्लेबैक स्पीड कंट्रोल, स्वचालित पोज़िशन सेविंग और बुकमार्क सपोर्ट शामिल है। VOX में समर्पित ऑडियोबुक सुविधाएं नहीं हैं।
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="क्या मैं Evermusic से iPhone पर म्यूजिक टैग एडिट कर सकता हूँ?" closed="true" %}}
+{{% ls-details title="क्या मैं Evermusic से iPhone पर म्यूजिक टैग एडिट कर सकता हूँ?" closed="true" %}}
 हाँ। Evermusic में बिल्ट-इन ID3 टैग एडिटर शामिल है जो आपको ट्रैक शीर्षक, कलाकार नाम, एल्बम जानकारी और अन्य मेटाडेटा सीधे अपने iPhone या iPad पर ठीक करने देता है।
-{{% /details %}}
+{{% /ls-details %}}

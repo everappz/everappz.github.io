@@ -71,20 +71,20 @@ Flacbox는 각 클라우드 제공업체의 공식 SDK와 OAuth 기반 로그인
 
 {{< cards cols="2">}}
 
-{{< card icon="map" link="/docs/guide/flacbox/flacbox-guide-navigation" title="탐색" subtitle="iPhone의 탭 바, iPad 및 Mac의 왼쪽 메뉴, 미니 플레이어, 위젯, CarPlay." >}}
+{{< ls-card icon="map" link="/docs/guide/flacbox/flacbox-guide-navigation" title="탐색" subtitle="iPhone의 탭 바, iPad 및 Mac의 왼쪽 메뉴, 미니 플레이어, 위젯, CarPlay." >}}
 
-{{< card icon="cloud" link="/docs/guide/flacbox/flacbox-guide-connections" title="연결하기" subtitle="iCloud, Google Drive, Dropbox, OneDrive, NAS, WebDAV, SMB, DLNA." >}}
+{{< ls-card icon="cloud" link="/docs/guide/flacbox/flacbox-guide-connections" title="연결하기" subtitle="iCloud, Google Drive, Dropbox, OneDrive, NAS, WebDAV, SMB, DLNA." >}}
 
-{{< card icon="collection" link="/docs/guide/flacbox/flacbox-guide-music-library" title="음악 라이브러리" subtitle="곡, 앨범, 아티스트, 장르, 작곡가 — 동기화, 검색, 메타데이터 편집." >}}
+{{< ls-card icon="collection" link="/docs/guide/flacbox/flacbox-guide-music-library" title="음악 라이브러리" subtitle="곡, 앨범, 아티스트, 장르, 작곡가 — 동기화, 검색, 메타데이터 편집." >}}
 
-{{< card icon="music-note" link="/docs/guide/flacbox/flacbox-guide-playlists" title="재생 목록" subtitle="M3U / M3U8 / CUE 빌드 및 가져오기, 재정렬, M3U / CSV / TXT로 내보내기." >}}
+{{< ls-card icon="music-note" link="/docs/guide/flacbox/flacbox-guide-playlists" title="재생 목록" subtitle="M3U / M3U8 / CUE 빌드 및 가져오기, 재정렬, M3U / CSV / TXT로 내보내기." >}}
 
-{{< card icon="folder" link="/docs/guide/flacbox/flacbox-guide-local-files" title="로컬 파일" subtitle="오프라인 음악, USB 드라이브, Wi-Fi Drive, 파일 관리자, 오프라인 폴더." >}}
+{{< ls-card icon="folder" link="/docs/guide/flacbox/flacbox-guide-local-files" title="로컬 파일" subtitle="오프라인 음악, USB 드라이브, Wi-Fi Drive, 파일 관리자, 오프라인 폴더." >}}
 
-{{< card icon="play" link="/docs/guide/flacbox/flacbox-guide-player" title="오디오 플레이어" subtitle="고해상도 출력, 이퀄라이저, 피치, 북마크, AirPlay, Chromecast, 속도, 수면 타이머." >}}
+{{< ls-card icon="play" link="/docs/guide/flacbox/flacbox-guide-player" title="오디오 플레이어" subtitle="고해상도 출력, 이퀄라이저, 피치, 북마크, AirPlay, Chromecast, 속도, 수면 타이머." >}}
 
-{{< card icon="adjustments" link="/docs/guide/flacbox/flacbox-guide-settings" title="설정" subtitle="오디오 엔진, 라이브러리, 파일 관리자, CarPlay, 위젯, 개인화, 언어, 백업." >}}
+{{< ls-card icon="adjustments" link="/docs/guide/flacbox/flacbox-guide-settings" title="설정" subtitle="오디오 엔진, 라이브러리, 파일 관리자, CarPlay, 위젯, 개인화, 언어, 백업." >}}
 
-{{< card icon="question-mark-circle" link="/docs/faq/flacbox" title="FAQ" subtitle="Flacbox에 관한 50가지 가장 일반적인 질문에 대한 답변을 찾아보세요." >}}
+{{< ls-card icon="question-mark-circle" link="/docs/faq/flacbox" title="FAQ" subtitle="Flacbox에 관한 50가지 가장 일반적인 질문에 대한 답변을 찾아보세요." >}}
 
 {{< /cards >}}

@@ -7,7 +7,7 @@ tags: ["เพลง", "ไฟล์", "usb", "แฟลช", "ภายนอ�
 readingTime: 2
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **สรุป:** เชื่อมต่อ USB แฟลชไดรฟ์หรือการ์ด SD กับ iPhone ของคุณโดยใช้อะแดปเตอร์ Apple หรือไดรฟ์ SanDisk iXpand จากนั้นใช้ Evermusic, Flacbox หรือ Evertag เพื่อเรียกดู เล่น และจัดการไฟล์เสียงของคุณโดยตรงจากที่เก็บข้อมูลภายนอก
@@ -72,18 +72,18 @@ readingTime: 2
 
 ## คำถามที่พบบ่อย
 
-{{% details title="อะแดปเตอร์ USB ใดที่ใช้งานได้กับ iPhone สำหรับการเล่นเพลง?" closed="true" %}}
+{{% ls-details title="อะแดปเตอร์ USB ใดที่ใช้งานได้กับ iPhone สำหรับการเล่นเพลง?" closed="true" %}}
 ทั้ง Lightning to SD Card Camera Reader และ Lightning to USB 3 Camera Adapter ของ Apple ใช้งานได้ อะแดปเตอร์ USB-C ใช้งานได้กับ iPhone รุ่นใหม่ที่มีพอร์ต USB-C ไดรฟ์ SanDisk iXpand Flash (V1-V7) ยังได้รับการรองรับแบบดั้งเดิมโดย Evermusic, Flacbox และ Evertag
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="ฉันสามารถเล่นเพลงโดยตรงจากไดรฟ์ USB โดยไม่ต้องคัดลอกไฟล์ได้หรือไม่?" closed="true" %}}
+{{% ls-details title="ฉันสามารถเล่นเพลงโดยตรงจากไดรฟ์ USB โดยไม่ต้องคัดลอกไฟล์ได้หรือไม่?" closed="true" %}}
 ได้ ด้วยไดรฟ์ SanDisk iXpand คุณสามารถเล่นเพลงโดยตรงจากไดรฟ์โดยไม่ต้องคัดลอกไฟล์ไปยัง iPhone เมื่อใช้อะแดปเตอร์ Apple ไฟล์จะถูกนำเข้า แต่คุณสามารถเลือกได้ว่าจะคัดลอกไปยังที่เก็บข้อมูลในเครื่องหรือไม่
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="รูปแบบเสียงใดที่รองรับจากไดรฟ์ USB?" closed="true" %}}
+{{% ls-details title="รูปแบบเสียงใดที่รองรับจากไดรฟ์ USB?" closed="true" %}}
 Evermusic และ Flacbox รองรับรูปแบบที่หลากหลาย รวมถึง FLAC, MP3, AAC, WAV, ALAC, OGG, WMA และอื่นๆ รูปแบบที่รองรับทั้งหมดทำงานได้เมื่อเล่นจากที่เก็บข้อมูล USB
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="SanDisk iXpand ของฉันแสดงข้อผิดพลาด 'ไม่ว่าง' ฉันควรทำอย่างไร?" closed="true" %}}
+{{% ls-details title="SanDisk iXpand ของฉันแสดงข้อผิดพลาด 'ไม่ว่าง' ฉันควรทำอย่างไร?" closed="true" %}}
 แอปอื่นอาจกำลังเข้าถึงไดรฟ์อยู่ ปิดแอปอื่นทั้งหมดที่อาจใช้แฟลชไดรฟ์ หรือถอดออกแล้วเสียบใหม่ จากนั้นเปิด Evermusic, Flacbox หรือ Evertag อีกครั้ง
-{{% /details %}}
+{{% /ls-details %}}

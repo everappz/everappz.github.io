@@ -6,7 +6,7 @@ keywords: ["evermusic eksport", "flacbox eksport", "eksporter til m3u", "eksport
 tags: ["evermusic", "seneste", "favoritter", "eksport", "m3u", "afspilningsliste", "csv", "txt", "album"]
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **Kort sagt:** Evermusic og Flacbox lader dig eksportere enhver sporsamling (seneste, favoritter, afspilningslister, albums) til CSV-, TXT- eller M3U-filer. Brug disse eksporter til at scrobble til Last.fm, sikkerhedskopiere dit bibliotek eller afspille dine afspilningslister på andre enheder.
@@ -157,22 +157,22 @@ Eksport af dine spor fra Evermusic og Flacbox giver dig fuld kontrol over dine m
 
 ## FAQ
 
-{{% details title="Hvilket eksportformat skal jeg bruge til Last.fm-scrobbling?" closed="true" %}}
+{{% ls-details title="Hvilket eksportformat skal jeg bruge til Last.fm-scrobbling?" closed="true" %}}
 Brug CSV. Det inkluderer tidsstempler og fulde metadata, som kræves af scrobbling-værktøjer som Last.fm-Scrubbler-WPF.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Kan jeg eksportere enhver sporsamling, ikke kun afspilningslister?" closed="true" %}}
+{{% ls-details title="Kan jeg eksportere enhver sporsamling, ikke kun afspilningslister?" closed="true" %}}
 Ja. Du kan eksportere seneste, favoritter, albums, afspilningslister og enhver anden sporsamling i appen ved hjælp af de samme trin.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Vil min M3U-afspilningsliste fungere på andre enheder?" closed="true" %}}
+{{% ls-details title="Vil min M3U-afspilningsliste fungere på andre enheder?" closed="true" %}}
 Hvis du vælger muligheden Absolut URL under eksport, kan M3U-filen afspilles på enhver enhed, der understøtter M3U-afspilningslister. Bemærk, at nogle cloud-URL'er kan udløbe over tid.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Er eksportfunktionen gratis?" closed="true" %}}
+{{% ls-details title="Er eksportfunktionen gratis?" closed="true" %}}
 Ja. Eksport af sporsamlinger til M3U, CSV og TXT er tilgængelig i både de gratis og premium-versioner af Evermusic og Flacbox.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Hvilke cloudtjenester understøtter Absolut URL-eksport?" closed="true" %}}
+{{% ls-details title="Hvilke cloudtjenester understøtter Absolut URL-eksport?" closed="true" %}}
 Absolut URL-eksport understøttes af iCloud Drive, pCloud, PanBaidu, MyCloudHome, DLNA, MediaFire, OneDrive, Box, Dropbox, Google Drive og WebDAV (gæstetilstand).
-{{% /details %}}
+{{% /ls-details %}}

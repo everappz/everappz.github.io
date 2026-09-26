@@ -12,7 +12,7 @@ authors:
     image: "/images/about/artem-meleshko-founder-everappz.webp"
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 **Tóm tắt:** Evermusic là trình phát nhạc đám mây cho iPhone và iPad kết nối với Dropbox, Google Drive, OneDrive và 9+ dịch vụ đám mây khác. Phát FLAC, MP3, WAV và các định dạng khác, hỗ trợ tải xuống ngoại tuyến và bao gồm bộ chỉnh âm và trình chỉnh sửa thẻ ID3. Tải xuống miễn phí với nâng cấp Premium một lần. Hơn 11 triệu lượt tải xuống, xếp hạng 4,6 sao trên App Store.
 
@@ -20,7 +20,7 @@ authors:
 
 Xem đánh giá video đầy đủ bởi [@Massi_Media](https://www.youtube.com/@Massi_Media):
 
-{{< youtubecard id="pKUZmHy9dxc" >}}
+{{< ls-youtubecard id="pKUZmHy9dxc" >}}
 
 ## Trình Phát Nhạc Đám Mây Tốt Nhất cho iPhone Là Gì?
 
@@ -67,18 +67,18 @@ Vì Evermusic hoạt động với các tệp bạn đã có và bộ nhớ bạ
 
 ## Câu Hỏi Thường Gặp
 
-{{% details title="Evermusic có thực sự miễn phí không?" closed="true" %}}
+{{% ls-details title="Evermusic có thực sự miễn phí không?" closed="true" %}}
 Có, Evermusic cung cấp gói miễn phí bao gồm kết nối đám mây, phát trực tuyến và tải xuống ngoại tuyến. Phiên bản miễn phí hỗ trợ các tính năng phát lại cơ bản và số lượng kết nối tài khoản đám mây hạn chế. Evermusic Pro, có sẵn như mua một lần hoặc đăng ký, mở khóa bộ chỉnh âm đầy đủ, crossfade, tài khoản đám mây bổ sung và các tính năng nâng cao khác. Không cần đăng ký để truy cập các tệp nhạc của riêng bạn.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Tôi có thể sử dụng Evermusic mà không cần kết nối internet không?" closed="true" %}}
+{{% ls-details title="Tôi có thể sử dụng Evermusic mà không cần kết nối internet không?" closed="true" %}}
 Hoàn toàn có thể. Evermusic cho phép bạn tải xuống bài hát từ bất kỳ dịch vụ đám mây nào được kết nối trực tiếp vào thiết bị của bạn để phát lại ngoại tuyến. Sau khi tải xuống, các tệp được lưu trữ cục bộ và vẫn có thể truy cập ngay cả khi không có Wi-Fi hoặc dữ liệu di động. Điều này làm cho Evermusic lý tưởng cho các chuyến bay, đi làm qua đường hầm hoặc bất kỳ tình huống nào mà kết nối không đáng tin cậy.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Evermusic có hỗ trợ các định dạng âm thanh không mất dữ liệu như FLAC không?" closed="true" %}}
+{{% ls-details title="Evermusic có hỗ trợ các định dạng âm thanh không mất dữ liệu như FLAC không?" closed="true" %}}
 Có. Evermusic hỗ trợ nhiều định dạng âm thanh bao gồm FLAC, ALAC, WAV, AIFF, OGG, MP3, AAC và M4A. Ứng dụng phát các tệp không mất dữ liệu ở chất lượng gốc mà không cần mã hóa lại, vì vậy những người đam mê âm thanh có thể thưởng thức bộ sưu tập độ phân giải cao của họ chính xác như dự định.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Làm thế nào để kết nối NAS hoặc máy chủ gia đình của tôi với Evermusic?" closed="true" %}}
+{{% ls-details title="Làm thế nào để kết nối NAS hoặc máy chủ gia đình của tôi với Evermusic?" closed="true" %}}
 Nếu NAS hoặc máy chủ gia đình của bạn hỗ trợ giao thức WebDAV hoặc SMB, bạn có thể kết nối với Evermusic bằng cách nhập địa chỉ máy chủ, cổng và thông tin xác thực trong cài đặt kết nối đám mây của ứng dụng. Hầu hết các thương hiệu NAS phổ biến bao gồm Synology, QNAS và Western Digital MyCloud hỗ trợ các giao thức này ngay từ đầu. Sau khi kết nối, Evermusic sẽ quét và lập chỉ mục các tệp nhạc của bạn giống như bất kỳ nguồn đám mây nào khác.
-{{% /details %}}
+{{% /ls-details %}}

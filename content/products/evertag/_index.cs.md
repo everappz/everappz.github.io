@@ -15,14 +15,14 @@ screenshots:
   - "https://everappz.com/products/evertag/screenshots/2048x2732/3.png"
 ---
 
-{{% sr-only %}}
+{{% ls-sr-only %}}
 Evertag je editor hudebních tagů pro iPhone a Mac vyvinutý společností Everappz, španělskou softwarovou firmou. Evertag umožňuje uživatelům upravovat více než 120 audio metadatových tagů včetně názvu, interpreta, alba, interpreta alba, žánru, roku, čísla stopy, čísla disku, skladatele, BPM, textů, komentářů a dalších. Aplikace podporuje hromadnou úpravu tagů, což uživatelům umožňuje aktualizovat metadata pro více souborů současně. Evertag zahrnuje automatický vyhledávač tagů využívající databázi MusicBrainz, který identifikuje písně a doplní chybějící metadata, stejně jako vyhledávač obalů alb, který hledá a aplikuje obaly na stopy. Aplikace podporuje více než 30 audio formátů včetně MP3, FLAC, OGG, OPUS, M4A, WAV, WMA, APE, AIFF, ALAC, MKA, MOD, XM, IT a S3M. Evertag může přistupovat k souborům z cloudových úložišť včetně iCloud Drive, Google Drive, Dropbox a OneDrive, stejně jako z USB flash disků a míst v lokální síti přes SMB a WebDAV. Aplikace také nabízí vestavěný správce souborů, přenos souborů přes Wi-Fi, opravu kódování pro nesprávně zobrazené tagy v nelatinkových písmech a editor textů. Evertag je k dispozici ke stažení zdarma na App Store s volitelnými nákupy v aplikaci zahrnujícími měsíční předplatné za $2.99, roční předplatné za $9.99 nebo jednorázový doživotní nákup za $29.99.
-{{% /sr-only %}}
+{{% /ls-sr-only %}}
 
 
-{{< force-dark >}}
+{{< ls-force-dark >}}
 
-{{< hextra/hero-container
+{{< ls-hero-container
   image="/products/evertag/heroimage/evertag_mac_600_345.png"
   imageWidth="600"
 >}}
@@ -30,37 +30,37 @@ Evertag je editor hudebních tagů pro iPhone a Mac vyvinutý společností Ever
 <div class="hx:w-full hx:text-center">
 
 <div class="hx:mt-4">
-{{< downloads-badge >}}
+{{< ls-downloads-badge >}}
 </div>
 
 <div class="hx:mt-6 hx:mb-6">
 <div class="hx:flex hx:gap-4 hx:items-center hx:justify-center">
-  {{< app-icon src="/images/app_icons/png/Evertag_Icon-App-1024x1024.png" alt="Evertag Icon" class="hero-headline-icon" size="80" >}}
-  {{< hextra/hero-headline >}}
+  {{< ls-app-icon src="/images/app_icons/png/Evertag_Icon-App-1024x1024.png" alt="Evertag Icon" class="hero-headline-icon" size="80" >}}
+  {{< ls-hero-headline >}}
   Evertag
-  {{< /hextra/hero-headline >}}
+  {{< /ls-hero-headline >}}
 </div>
 </div>
 
 <div class="hx:mb-6">
-{{< hextra/hero-centered-subtitle >}}
+{{< ls-hero-centered-subtitle >}}
 <strong>Udržujte svou hudební knihovnu organizovanou</strong>
-{{< /hextra/hero-centered-subtitle >}}
+{{< /ls-hero-centered-subtitle >}}
 </div>
 
 <div class="hx:mb-6">
-{{< hextra/hero-paragraph >}}
+{{< ls-hero-paragraph >}}
 • Přidejte nebo aktualizujte obaly alb  
 • Hromadně upravujte tagy pro mnoho skladeb najednou  
 • Opravte poškozené kódování a automaticky doplňte chybějící tagy  
-{{< /hextra/hero-paragraph >}}
+{{< /ls-hero-paragraph >}}
 </div>
 
-{{< app-store-badges products="evertag:ios, evertag:macos" >}}
+{{< ls-app-store-badges products="evertag:ios, evertag:macos" >}}
 
 </div>
 
-{{< /hextra/hero-container >}}
+{{< /ls-hero-container >}}
 
 <div class="hx:mt-6"></div>
 
@@ -68,63 +68,63 @@ Evertag je editor hudebních tagů pro iPhone a Mac vyvinutý společností Ever
 
 {{< hextra/feature-grid >}}
 
-  {{< hextra/feature-card
+  {{< ls-glass-feature-card
     title="Upravte více než 120 tagů"
     subtitle="Rychle upravujte hudební tagy jako Název, Interpret, Album, Interpret alba, BPM, Komentář, Skladatel, Číslo disku, Žánr, Text, Hodnocení, Číslo stopy, Rok a další."
     icon="pencil"
     style="background: radial-gradient(ellipse at 50% 80%, rgba(59,130,246,0.15), hsla(0,0%,100%,0));"
   >}}
 
-  {{< hextra/feature-card
+  {{< ls-glass-feature-card
     title="Hromadná úprava tagů"
     subtitle="Aktualizujte metadata pro více souborů najednou. Ušetřete čas a udržujte svou hudební knihovnu dobře organizovanou pomocí několika klepnutí."
     icon="database"
     style="background: radial-gradient(ellipse at 50% 80%, rgba(192,38,211,0.15), hsla(0,0%,100%,0));"
   >}}
 
-  {{< hextra/feature-card
+  {{< ls-glass-feature-card
     title="Vyhledávání obalů alb"
     subtitle="Automaticky najděte a přidejte chybějící obaly alb ke svým skladbám. Učiňte svou hudební sbírku vizuálně kompletní."
     icon="camera"
     style="background: radial-gradient(ellipse at 50% 80%, rgba(234,88,12,0.15), hsla(0,0%,100%,0));"
   >}}
 
-  {{< hextra/feature-card
+  {{< ls-glass-feature-card
     title="Pracuje s 30+ formáty"
     subtitle="Podporuje MP3, FLAC, OGG, OPUS, M4A, WAV, WMA, APE, AIFF, MOD, XM, IT a další."
     icon="music-note"
     style="background: radial-gradient(ellipse at 50% 80%, rgba(236,72,153,0.15), hsla(0,0%,100%,0));"
   >}}
 
-  {{< hextra/feature-card
+  {{< ls-glass-feature-card
     title="Automatický vyhledávač tagů"
     subtitle="Zjistěte chybějící informace o skladbách a automaticky je doplňte pomocí databáze MusicBrainz. Vyberte si, zda chcete změny zkontrolovat nebo je okamžitě použít."
     icon="search"
     style="background: radial-gradient(ellipse at 50% 80%, rgba(34,197,94,0.15), hsla(0,0%,100%,0));"
   >}}
 
-  {{< hextra/feature-card
+  {{< ls-glass-feature-card
     title="Oprava problémů s kódováním"
     subtitle="Opravte poškozené nebo nečitelné znaky ve vašich metadatech. Evertag udržuje vaše tagy čisté a srozumitelné v jakémkoli jazyce."
     icon="translate"
     style="background: radial-gradient(ellipse at 50% 80%, rgba(251,191,36,0.15), hsla(0,0%,100%,0));"
   >}}
 
-  {{< hextra/feature-card
+  {{< ls-glass-feature-card
     title="Přístup ke cloudu a USB"
     subtitle="Upravujte hudbu přímo z iCloud Drive, Google Drive, Dropbox, OneDrive, USB flash disků nebo sdílených složek — bez kopírování."
     icon="cloud"
     style="background: radial-gradient(ellipse at 50% 80%, rgba(6,182,212,0.15), hsla(0,0%,100%,0));"
   >}}
 
-  {{< hextra/feature-card
+  {{< ls-glass-feature-card
     title="Wi-Fi přenos hudby"
     subtitle="Snadno nahrajte hudbu do svého iPhonu nebo iPadu z počítače pomocí Wi-Fi připojení. Žádné kabely nejsou potřeba."
     icon="wifi"
     style="background: radial-gradient(ellipse at 50% 80%, rgba(245,158,11,0.15), hsla(0,0%,100%,0));"
   >}}
 
-  {{< hextra/feature-card
+  {{< ls-glass-feature-card
     title="Vestavěný správce souborů"
     subtitle="Organizujte své hudební soubory pomocí vestavěných nástrojů. Přejmenování, přesunutí, smazání, označení oblíbených a zobrazení nedávné aktivity — vše v jedné aplikaci."
     icon="folder-open"
@@ -139,47 +139,47 @@ Evertag je editor hudebních tagů pro iPhone a Mac vyvinutý společností Ever
 <div class="hx:mt-6"></div>
 
 <div class="hx:w-full">
-{{< appstore-reviews apps="1450763230,1594027661" stars="5,4"  app="Evertag" >}}
+{{< ls-appstore-reviews apps="1450763230,1594027661" stars="5,4"  app="Evertag" >}}
 </div>
 
 <div class="hx:mt-6"></div>
 
-{{< hextra/section-headline >}}
+{{< ls-section-headline >}}
   Cenové plány
-{{< /hextra/section-headline >}}
+{{< /ls-section-headline >}}
 
 <div class="hx:mt-6"></div>
 
 <div class="hx:w-full">
 
-{{< pricing-plans >}}
+{{< ls-pricing-plans >}}
 
 </div>
 
 <div class="hx:mt-6"></div>
 
 <div class="hx:w-full hx:mx-auto hx:flex hx:flex-col hx:items-center">
-  {{< hextra/info-paragraph border="true" >}}
+  {{< ls-info-paragraph border="true" >}}
    <strong>Rodinné sdílení</strong>: Všechny nákupy a předplatná podporují Rodinné sdílení, což vám umožňuje sdílet Premium přístup s vaší rodinou.<br><strong>Univerzální přístup</strong>: Doživotní a předplatné plány jsou sdíleny mezi zařízeními iOS a Mac pomocí synchronizace iCloud.<br><strong>Ceny</strong>: Ceny jsou zobrazeny v amerických dolarech pro Spojené státy. Konečná cena se může lišit v závislosti na vašem regionu.  
-  {{< /hextra/info-paragraph >}}
+  {{< /ls-info-paragraph >}}
 </div>
 
 <div class="hx:mt-6"></div>
 
 <div class="hx:w-full">
-{{< app-details heading="true" >}}
+{{< ls-app-details heading="true" >}}
 </div>
 
 <div class="hx:mt-6"></div>
 
-{{< hextra/section-headline >}}
+{{< ls-section-headline >}}
   Často kladené dotazy
-{{< /hextra/section-headline >}}
+{{< /ls-section-headline >}}
 
 <div class="hx:mt-6"></div>
 
 <div class="hx:w-full">
-{{% details title="Co je Evertag?" closed="true" %}}
+{{% ls-details title="Co je Evertag?" closed="true" %}}
 Evertag je výkonný editor hudebních metadat a správce obalů alb navržený pro iOS a macOS. Poskytuje vám nástroje k organizaci vaší hudební sbírky jako profesionál, ať už jsou vaše soubory uloženy lokálně nebo v cloudu. S čistým rozhraním a pokročilými funkcemi úprav Evertag usnadňuje opravu chybějících tagů, přidání vysoce kvalitních obalů a zajištění toho, aby vaše hudební knihovna vypadala skvěle a zůstala konzistentní.<br><br>
 
 Aplikace podporuje širokou škálu populárních audio formátů, včetně MP3, FLAC, WAV, M4A, WMA, OGG a mnoha dalších. Umožňuje upravovat běžné tagy jako název, interpret, album, žánr, rok, číslo stopy, a také rozšířená pole jako BPM, číslo disku, texty, MusicBrainz ID a další. Můžete pracovat s jedním souborem najednou nebo přepnout do hromadného režimu pro úpravu více stop současně — ideální pro organizaci celých alb nebo playlistů.<br><br>
@@ -187,14 +187,14 @@ Aplikace podporuje širokou škálu populárních audio formátů, včetně MP3,
 Jednou z výjimečných funkcí Evertag je schopnost načíst chybějící obaly alb přímo z internetu nebo vám umožnit přidat vlastní ručně. Můžete také použít editor textů k přidání nesynchronizovaných textů k vašim skladbám, čímž vylepšíte přehrávání v kompatibilních přehrávačích. Aplikace podporuje úpravy na místě, takže můžete upravovat audio tagy bez nutnosti kopírovat nebo přesouvat soubory.<br><br>
 
 Ať už spravujete hudbu na svém zařízení nebo v cloudu pomocí Dropbox, OneDrive, MEGA nebo jiných služeb, Evertag nabízí bezproblémový přístup k souborům a jejich úpravy. Je to ideální řešení pro hudebníky, DJ a sběratele, kteří chtějí udržovat čistou, dobře organizovanou hudební knihovnu na iPhone a iPad bez potřeby stolního počítače.<br><br>
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Je Evertag zdarma?" closed="true" %}}
+{{% ls-details title="Je Evertag zdarma?" closed="true" %}}
 Evertag je bezplatná aplikace s některými omezeními, která můžete odstranit po upgradu na verzi Premium. Aplikace nabízí jednorázový doživotní nákup v aplikaci a dvě možnosti předplatného (1 měsíc a 1 rok) pro odstranění všech omezení, což vám umožňuje vybrat si nejlepší a nejoptimálnější cenu. Ceny se mohou lišit v závislosti na vaší zemi nebo území. Také mějte na paměti, že Rodinné sdílení je povoleno pro všechny nákupy a plány, takže můžete sdílet verzi Premium s členy vaší rodiny.<br><br>
 Doživotní nákupy a předplatná jsou sdílena mezi iOS a Mac pomocí iCloudu pro synchronizaci těchto informací. Pokud máte verzi Premium na svém iOS zařízení, ujistěte se, že máte nainstalovanou nejnovější verzi a že je povolen iCloud. Spusťte aplikaci na iOS a počkejte jednu minutu, než se informace o nákupu nahrají do iCloudu.<br><br>
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Jaký je rozdíl mezi Evertag Free a Evertag Premium?" closed="true" %}}
+{{% ls-details title="Jaký je rozdíl mezi Evertag Free a Evertag Premium?" closed="true" %}}
 
 **Evertag Free**  <br>
 Evertag Free vám poskytuje přístup k výkonným funkcím úpravy hudebních metadat s určitými funkčními omezeními. Obsahuje reklamy a umožňuje základní použití editoru tagů, editoru obalů alb a hromadné úpravy. Můžete opravit problémy s kódováním, připojit 1 cloudový účet úložiště a označit až 10 oblíbených souborů. Navíc můžete provést 20 automatických vyhledávání tagů a 20 vyhledávání obalů alb denně.<br><br>
@@ -213,9 +213,9 @@ Uživatelé Premium také získají přístup k plnému nastavení personalizace
 
 Každá prémiová možnost zahrnuje stejnou sadu funkcí, takže si můžete vybrat plán, který vyhovuje vašim potřebám a rozpočtu.<br><br>
 
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Je Evertag bezpečný?" closed="true" %}}
+{{% ls-details title="Je Evertag bezpečný?" closed="true" %}}
 Evertag používá pouze oficiální SDK a zabezpečená připojení pro interakci s připojenými cloudovými službami. Vaše přihlašovací jméno a heslo nejsou dostupné pro aplikaci. Všechny požadavky z aplikace na cloudovou službu jsou šifrovány.<br>
 Když zadáte přihlašovací jméno a heslo, aplikace vám zobrazí oficiální autorizační stránku poskytovanou poskytovatelem cloudové služby a celý autorizační proces probíhá mimo aplikaci. Poskytovatel cloudové služby odešle auth-token do aplikace po úspěšné autorizaci a tento token se používá k provádění API volání.<br><br>
 
@@ -226,9 +226,9 @@ Pro odmítnutí auth-tokenu se přihlaste ke svému účtu ve webovém prohlíž
 
 Můžete také odpojit připojené cloudové účty v aplikaci a auth-token bude také odstraněn z vašeho zařízení. Pokud odstraníte aplikaci ze svého zařízení, budou odstraněna také všechna stažená data a přístupové tokeny.<br><br>
 
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Jak upravit metadata souborů v lokálně stažené hudbě na iPhone?" closed="true" %}}
+{{% ls-details title="Jak upravit metadata souborů v lokálně stažené hudbě na iPhone?" closed="true" %}}
 Po instalaci aplikace otevřete obrazovku „Místní soubory" a přejděte dolů do sekce „Soubory na tomto iPhone".<br>
 Odtud vyberte „Otevřít soubory..." pokud potřebujete vybrat několik audio souborů, nebo „Otevřít složku..." pokud chcete vybrat hudební složku.<br>
 Aplikace prohledá obsah složky a všechny nalezené audio soubory budou vybrány.<br>
@@ -242,9 +242,9 @@ Otevřete obrazovku „Místní soubory".<br>
 Přejděte dolů do sekce „Soubory na tomto zařízení" a klepněte na „Připojit složku".<br>
 Vyberte složku umístěnou na vašem zařízení a klepněte na „Otevřít" pro potvrzení výběru.<br>
 Vaše složka bude přidána do sekce „Soubory na tomto iPhone" a poskytne rychlý přístup k vašim audio souborům.<br><br>
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Jak přidat texty ke skladbám v Evertag?" closed="true" %}}
+{{% ls-details title="Jak přidat texty ke skladbám v Evertag?" closed="true" %}}
 Texty můžete ke svým stopám v aplikaci Evertag přidat následujícím postupem:<br><br>
 * Začněte úpravu audio souboru klepnutím na něj.<br>
 * Klepněte na „Zobrazit rozšířené tagy" pro přepnutí editoru tagů do pokročilého režimu.<br>
@@ -258,9 +258,9 @@ Texty můžete ke svým stopám v aplikaci Evertag přidat následujícím postu
 Podrobnější návod je k dispozici zde:<br>
 [Jak upravit texty pro audio soubory na iPhone nebo MAC](/docs/howto/how-to-edit-lyrics-for-audio-files-on-iphone-mac/)<br><br>
 
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Jak přenesu hudbu do Evertag z počítače?" closed="true" %}}
+{{% ls-details title="Jak přenesu hudbu do Evertag z počítače?" closed="true" %}}
 Můžete připojit svůj počítač nebo osobní NAS pomocí SMB, WebDAV. Alternativně použijte sdílení souborů iTunes pro přenos hudby.<br><br>
 
 Pro připojení počítače pomocí protokolu **SMB** klepněte na „Připojit ke cloudovému úložišti" → SMB.<br>
@@ -295,23 +295,23 @@ Zkopírujte soubory z počítače do sdílené složky na zařízení.<br><br>
 Podrobný návod je k dispozici zde:<br>
 [Jak přehrávat místní soubory (soubory iTunes) na mém iPhone](/docs/howto/how-to-play-local-itunes-files-on-my-iphone)<br><br>
 
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Jaké audio formáty Evertag podporuje?" closed="true" %}}
+{{% ls-details title="Jaké audio formáty Evertag podporuje?" closed="true" %}}
 Zde je úplný seznam podporovaných audio formátů a jejich odpovídajících přípon souborů:<br><br>
 
 MP3, OGG, OGA, FLAC, MPC, WV, SPX, OPUS, TTA, M4A, M4R, M4B, M4P, MP4, 3G2, M4V, WMA, ASF, AIF, AIFF, AFC, AIFC, WAV, APE, MOD, MODULE, NTS, WOW, S3M, IT, XM.<br>
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Jaké audio tagy Evertag podporuje?" closed="true" %}}
+{{% ls-details title="Jaké audio tagy Evertag podporuje?" closed="true" %}}
 Zde je úplný seznam podporovaných audio tagů:<br><br>
 
 ASIN, AcoustID: Fingerprint, AcoustID: Identifier, Album, Album Artist, Album Artist Sort Order, Album Cover, Album Sort Order, Arranger, Artist, Artist Sort Order, Artists, Barcode, Beats Per Minute, Catalog Number, Comment, Compilation, Composer, Composer Sort Order, Conductor, Content Group, Copyright, Description, Director, Disk Number, Disk Subtitle, Disk Total, Encoded By, Encoder Settings, Encoding Time, Engineer, File Owner, File Type, Genre, Grouping, ISRC, Initial Key, Involved People, Language, Length, License, Lyricist, Lyrics Advisory Rating, Lyrics Unsynced, Media Type, Mix DJ, Mixer, Mood, Movement Name, Movement Number, Movement Total, MusicBrainz: Album Artist ID, MusicBrainz: Album ID, MusicBrainz: Album Release Country, MusicBrainz: Album Status, MusicBrainz: Album Type, MusicBrainz: Artist ID, MusicBrainz: Disc ID, MusicBrainz: Original Album ID, MusicBrainz: Original Artist ID, MusicBrainz: Release Group ID, MusicBrainz: Release Track ID, MusicBrainz: TRM ID, MusicBrainz: Track ID, MusicBrainz: Work ID, MusicIP: Fingerprint, MusicIP: PUID, Musician Credits, Narrator, Net Radio Owner, Net Radio Station, Original Album, Original Artist, Original File Name, Original Lyricist, Original Release Date, Original Release Year, Performer, Podcast, Podcast Category, Podcast Description, Podcast ID, Podcast Keywords, Podcast URL, Producer, Publisher, Rating, Record Label, Release Country, Release Status, Release Type, Remixed By, Replay Gain: Album Gain, Replay Gain: Album Peak, Replay Gain: Album Range, Replay Gain: Reference Loudness, Replay Gain: Track Gain, Replay Gain: Track Peak, Replay Gain: Track Range, Script, Show Movement, Show Name, Show Name Sort Order, Subtitle, Track Number, Track Title, Track Title Sort Order, Track Total, WWW, WWW: Artist, WWW: Audio File, WWW: Audio Source, WWW: Commercial Info, WWW: Copyright, WWW: Payment, WWW: Publisher, WWW: Radio Page, Website, Work Title, Writer, Year<br><br>
 
 [Číst více](/docs/guide/evertag/evertag-tag-field-mappings/)
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Jak stáhnout soubory?" closed="true" %}}
+{{% ls-details title="Jak stáhnout soubory?" closed="true" %}}
 Než budete moci stahovat audio soubory a upravovat audio tagy, musíte připojit cloudovou úložnou službu.<br>
 Otevřete obrazovku „Připojení" a přidejte svého poskytovatele cloudového úložiště.<br>
 Po přidání můžete začít stahovat soubory do aplikace.<br><br>
@@ -321,10 +321,10 @@ Pro stažení souborů z cloudu:<br>
 – Přejděte do složky, kterou chcete stáhnout.<br>
 – Klepněte na tlačítko „Další akce" („...") v pravém horním rohu a vyberte položku nabídky „Vybrat".<br>
 – Vyberte soubory nebo složky, které chcete stáhnout, a klepněte na akci „Stáhnout".<br>
-{{% /details %}}
+{{% /ls-details %}}
 
 
-{{% details title="Jaké cloudové služby jsou podporovány?" closed="true" %}}
+{{% ls-details title="Jaké cloudové služby jsou podporovány?" closed="true" %}}
 Pokud je vaše hudební knihovna uložena v cloudu, můžete připojit nejpopulárnější cloudové služby přímo v aplikaci:<br>
 Dropbox, OneDrive, Box, MEGA, Yandex.Disk, MediaFire, pCloud, HiDrive.<br><br>
 
@@ -332,9 +332,9 @@ Své soubory můžete procházet a spravovat pomocí vestavěného správce soub
 
 Můžete také upravovat audio soubory uložené lokálně na vašem zařízení pomocí funkce otevření na místě. Není třeba je kopírovat z jiných aplikací — jednoduše je otevřete a upravte přímo.<br><br>
 
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Jak automaticky aktualizovat metadata souboru v cloudové službě?" closed="true" %}}
+{{% ls-details title="Jak automaticky aktualizovat metadata souboru v cloudové službě?" closed="true" %}}
 Po dokončení úpravy metadat klepněte na tlačítko „Uložit" v pravém horním rohu pro použití změn na vybrané soubory.<br><br>
 
 Pokud upravujete soubor uložený v cloudu, aplikace vám nabídne několik možností pro aktualizaci metadat souboru. Toto chování lze přizpůsobit v nastavení:<br><br>
@@ -344,10 +344,10 @@ Pokud upravujete soubor uložený v cloudu, aplikace vám nabídne několik mož
 • **Neaktualizovat metadata souboru** – Když je povoleno, aplikace přeskočí aktualizaci metadat cloudového souboru po úpravě.<br><br>
 
 Tyto možnosti najdete a upravíte v nastavení Evertag v sekci předvoleb aktualizace metadat.
-{{% /details %}}
+{{% /ls-details %}}
 
 
-{{% details title="Jak přidat nový účet?" closed="true" %}}
+{{% ls-details title="Jak přidat nový účet?" closed="true" %}}
 Pro připojení cloudové služby otevřete kartu „Připojení" → vyberte položku nabídky „Připojit ke cloudovému úložišti" → vyberte cloudovou úložnou službu ze seznamu → zadejte své přihlašovací údaje a klepněte na „Hotovo".<br><br>
 
 Pokud narazíte na problémy, ujistěte se, že vaše internetové připojení je aktivní a zkontrolujte své přihlašovací jméno a heslo.<br><br>
@@ -355,9 +355,9 @@ Pokud narazíte na problémy, ujistěte se, že vaše internetové připojení j
 Aktuálně podporované služby zahrnují: Dropbox, OneDrive, Box, MEGA, Yandex.Disk, Media Fire, PCloud a HiDrive.<br><br>
 
 V prémiové verzi aplikace můžete přidat neomezený počet cloudových účtů.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Jak spravovat mé soubory v síťovém úložišti?" closed="true" %}}
+{{% ls-details title="Jak spravovat mé soubory v síťovém úložišti?" closed="true" %}}
 Pokud potřebujete upravit několik souborů umístěných ve vašem cloudovém úložišti, aktivujte režim výběru klepnutím na tlačítko „..." v pravém horním rohu.<br><br>
 
 Po aktivaci se u každého souboru zobrazí zaškrtávací políčka. Poté můžete provádět akce s jednotlivými soubory nebo vybrat více souborů pro hromadné akce.<br><br>
@@ -371,10 +371,10 @@ Dostupné akce pro vybrané soubory:<br>
 • <strong>Mřížka/Seznam</strong> – Přepínejte mezi zobrazením tabulky a miniatur.<br><br>
 
 Pokud není dostatek místa pro zobrazení všech možností, zobrazí se tlačítko „Další akce". Klepněte na něj pro přístup k úplnému seznamu dostupných akcí.
-{{% /details %}}
+{{% /ls-details %}}
 
 
-{{% details title="Jak upravit několik souborů jako jeden soubor?" closed="true" %}}
+{{% ls-details title="Jak upravit několik souborů jako jeden soubor?" closed="true" %}}
 S „hromadným režimem" můžete upravit více souborů najednou a rychle a efektivně aplikovat sdílené změny metadat.<br><br>
 
 Pro aktivaci hromadného režimu:<br>
@@ -382,38 +382,38 @@ Pro aktivaci hromadného režimu:<br>
 • Klepněte na tlačítko „Upravit několik souborů současně".<br><br>
 
 Tento režim je zvláště užitečný, když potřebujete aplikovat stejný název alba, interpreta, žánr nebo jiná pole metadat na více audio souborů.
-{{% /details %}}
+{{% /ls-details %}}
 
 </div>
 
 <div class="hx:mt-6"></div>
 
-{{< hextra/section-headline >}}
+{{< ls-section-headline >}}
   Uživatelská příručka
-{{< /hextra/section-headline >}}
+{{< /ls-section-headline >}}
 
 <div class="hx:mt-6"></div>
 
 <div class="hx:w-full">
 
 <div class="hx:w-full hx:mx-auto hx:flex hx:flex-col hx:items-center hx:text-center">
-  {{< hextra/info-paragraph border="false" >}}
+  {{< ls-info-paragraph border="false" >}}
   V této příručce objevíte, jak využít sílu Evertag na vašem iPhone, iPad a Mac, a učinit správu vaší hudby bezproblémovou a příjemnou.
-  {{< /hextra/info-paragraph >}}
+  {{< /ls-info-paragraph >}}
 </div>
 
 {{< cards >}}
-  {{< feature-card icon="location-marker" title="Navigace" subtitle="Naučte se snadno navigovat v naší aplikaci pomocí panelu karet (pro uživatele iPhone) nebo levého menu (pro uživatele iPad a Mac) pro přístup a prozkoumání všech funkcí aplikace." link="/docs/guide/evertag/evertag-guide-navigation" >}}
+  {{< ls-feature-card icon="location-marker" title="Navigace" subtitle="Naučte se snadno navigovat v naší aplikaci pomocí panelu karet (pro uživatele iPhone) nebo levého menu (pro uživatele iPad a Mac) pro přístup a prozkoumání všech funkcí aplikace." link="/docs/guide/evertag/evertag-guide-navigation" >}}
 
-  {{< feature-card icon="cloud" title="Připojení" subtitle="Snadno propojte všechny své dostupné cloudové účty s vašimi cennými audio soubory. Můžete dokonce snadno upravovat své online soubory pomocí našeho integrovaného správce souborů." link="/docs/guide/evertag/evertag-guide-connections" >}}
+  {{< ls-feature-card icon="cloud" title="Připojení" subtitle="Snadno propojte všechny své dostupné cloudové účty s vašimi cennými audio soubory. Můžete dokonce snadno upravovat své online soubory pomocí našeho integrovaného správce souborů." link="/docs/guide/evertag/evertag-guide-connections" >}}
 
-  {{< feature-card icon="folder" title="Místní soubory" subtitle="Zobrazujte a organizujte soubory uložené ve složce Documents aplikace nebo na vašem zařízení. Použijte vestavěný správce souborů k úpravě a správě audio souborů s lehkostí." link="/docs/guide/evertag/evertag-guide-local-files" >}}
+  {{< ls-feature-card icon="folder" title="Místní soubory" subtitle="Zobrazujte a organizujte soubory uložené ve složce Documents aplikace nebo na vašem zařízení. Použijte vestavěný správce souborů k úpravě a správě audio souborů s lehkostí." link="/docs/guide/evertag/evertag-guide-local-files" >}}
 
-  {{< feature-card icon="pencil-alt" title="Editor tagů" subtitle="Ovládněte umění manipulace s metadaty audio souborů. Zjistěte, jak upravovat metadata, měnit obaly alb a bezproblémově spravovat více souborů současně." link="/docs/guide/evertag/evertag-guide-tag-editor" >}}
+  {{< ls-feature-card icon="pencil-alt" title="Editor tagů" subtitle="Ovládněte umění manipulace s metadaty audio souborů. Zjistěte, jak upravovat metadata, měnit obaly alb a bezproblémově spravovat více souborů současně." link="/docs/guide/evertag/evertag-guide-tag-editor" >}}
 
-  {{< feature-card icon="code" title="Mapování polí tagů" subtitle="Prozkoumejte úplný seznam polí audio tagů podporovaných aplikací Evertag, včetně interních názvů polí a mapování napříč hlavními formáty metadat." link="/docs/guide/evertag/evertag-tag-field-mappings" >}}
+  {{< ls-feature-card icon="code" title="Mapování polí tagů" subtitle="Prozkoumejte úplný seznam polí audio tagů podporovaných aplikací Evertag, včetně interních názvů polí a mapování napříč hlavními formáty metadat." link="/docs/guide/evertag/evertag-tag-field-mappings" >}}
 
-  {{< feature-card icon="adjustments" title="Nastavení" subtitle="Objevte, jak přizpůsobit zážitek z aplikace, vyladit výkon, spravovat využití dat a přizpůsobit jazykové a uživatelské preference podle svého přání." link="/docs/guide/evertag/evertag-guide-settings" >}}
+  {{< ls-feature-card icon="adjustments" title="Nastavení" subtitle="Objevte, jak přizpůsobit zážitek z aplikace, vyladit výkon, spravovat využití dat a přizpůsobit jazykové a uživatelské preference podle svého přání." link="/docs/guide/evertag/evertag-guide-settings" >}}
 
 {{< /cards >}}
 

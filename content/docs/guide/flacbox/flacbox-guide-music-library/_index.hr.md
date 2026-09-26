@@ -19,7 +19,7 @@ readingTime: 11
 Upravljanje glazbenom bibliotekom s Flacboxom je lako — možete bez napora organizirati sve svoje zapise — lokalne FLAC, ALAC, DSD, MP3, M4A, OGG, WMA, APE i desetke drugih formata — u jednu pretraživu kolekciju. Imate dvije opcije za izgradnju glazbene biblioteke: ručno dodavanje (vi birate što se dodaje) ili automatska sinkronizacija (Flacbox skenira određene cloud mape i automatski dodaje nove datoteke čim se pojave).
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Prikaz albuma glazbene biblioteke u Flacboxu" image="/docs/guide/flacbox/img/media-library-albums.webp" >}}
+  {{< ls-card title="" subtitle="Prikaz albuma glazbene biblioteke u Flacboxu" image="/docs/guide/flacbox/img/media-library-albums.webp" >}}
 {{< /cards >}}
 
 ## Ručno dodavanje
@@ -27,7 +27,7 @@ Upravljanje glazbenom bibliotekom s Flacboxom je lako — možete bez napora org
 Za ručno dodavanje zapisa, tapnite ikonu **Dodaj glazbu** smještenu u gornjem lijevom kutu i odaberite mape ili datoteke iz spojene usluge cloud pohrane ili datoteke smještene na vašem uređaju. Kada dodajete zapise u biblioteku, stvaraju se samo veze na te zapise — stvarne datoteke ostaju na originalnim lokacijama kako bi se sačuvao dragocjeni prostor na disku. Ako želite zapise učiniti dostupnima offline, možete koristiti radnju Preuzmi iz izbornika opcija ili omogućiti Offline način rada za popise pjesama i kolekcije zapisa.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Dodavanje pjesama u glazbenu biblioteku u Flacboxu" image="/docs/guide/flacbox/img/library-add-songs.webp" >}}
+  {{< ls-card title="" subtitle="Dodavanje pjesama u glazbenu biblioteku u Flacboxu" image="/docs/guide/flacbox/img/library-add-songs.webp" >}}
 {{< /cards >}}
 
 Na Mac verziji možete i povlačiti i ispuštati datoteke u biblioteku, ili koristiti **Otvori datoteke…** / **Otvori mapu…** iz sistemskog birača datoteka na iPhoneu i iPadu.
@@ -89,7 +89,7 @@ Smještena neposredno ispod navigacijske trake, gornja alatna traka nudi nekolik
 Funkcija pretraživanja omogućuje vam lociranje određenog zapisa, izvođača, albuma ili žanra unutar vaše glazbene biblioteke. Na zaslonu Pretraži imate pristup radnjama Sortiraj, Filtriraj i Mreža / Popis. Pretraga se izvodi lokalno u bazi podataka glazbene biblioteke, pa radi u potpunosti offline i vraća rezultate dok tipkate.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Pretraga glazbene biblioteke u Flacboxu" image="/docs/guide/flacbox/img/media-library-search.webp" >}}
+  {{< ls-card title="" subtitle="Pretraga glazbene biblioteke u Flacboxu" image="/docs/guide/flacbox/img/media-library-search.webp" >}}
 {{< /cards >}}
 
 ## Izbornik opcija
@@ -140,7 +140,7 @@ Kada otvorite odjeljke Izvođač, Izvođač albuma ili Skladatelj, možete vidje
 Ovo je posebno korisno za čišćenje zakrčenih kompilacija "Raznih izvođača" u velikim bibliotekama.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Zaslon detalja albuma u Flacboxu" image="/docs/guide/flacbox/img/media-library-album-details-screen.webp" >}}
+  {{< ls-card title="" subtitle="Zaslon detalja albuma u Flacboxu" image="/docs/guide/flacbox/img/media-library-album-details-screen.webp" >}}
 {{< /cards >}}
 
 ## Postavke

@@ -20,7 +20,7 @@ readingTime: 8
 這個內建檔案管理器允許您編輯檔案，並提供多種將音訊檔案匯入應用程式的方法。
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evermusic 本地檔案螢幕" image="/docs/guide/evermusic/evermusic-guide-local-files/img/local-files-main.webp" >}}
+  {{< ls-card title="" subtitle="Evermusic 本地檔案螢幕" image="/docs/guide/evermusic/evermusic-guide-local-files/img/local-files-main.webp" >}}
 {{< /cards >}}
 
 ## 從雲端儲存下載檔案
@@ -40,7 +40,7 @@ readingTime: 8
 通過數據線連接傳輸檔案，如[此處](/docs/howto/how-to-transfer-files-from-my-mac-to-iphone-or-ipad-using-finder)所述。
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="iTunes / Finder 檔案共享" image="/docs/guide/evermusic/evermusic-guide-local-files/img/local-files-itunes-file-sharing.webp" >}}
+  {{< ls-card title="" subtitle="iTunes / Finder 檔案共享" image="/docs/guide/evermusic/evermusic-guide-local-files/img/local-files-itunes-file-sharing.webp" >}}
 {{< /cards >}}
 
 ## Wi-Fi Drive
@@ -48,7 +48,7 @@ readingTime: 8
 無線傳輸檔案，如[此處](/docs/howto/how-to-transfer-files-wirelessly-from-a-computer-to-an-iphone-using-wifi-drive)所述。
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Wi-Fi Drive 伺服器設定" image="/docs/guide/evermusic/evermusic-guide-local-files/img/local-files-wifidrive-settings.webp" >}}
+  {{< ls-card title="" subtitle="Wi-Fi Drive 伺服器設定" image="/docs/guide/evermusic/evermusic-guide-local-files/img/local-files-wifidrive-settings.webp" >}}
 {{< /cards >}}
 
 ## 傳輸佇列
@@ -56,7 +56,7 @@ readingTime: 8
 在導覽列的左上角，您會找到「傳輸」按鈕。點選它存取傳輸佇列，您可以在那裡監控和管理所有下載和上傳。此外，您可以在應用程式設定中調整傳輸佇列速度和網路類型。
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="檔案傳輸佇列" image="/docs/guide/evermusic/evermusic-guide-local-files/img/local-files-file-transfers.webp" >}}
+  {{< ls-card title="" subtitle="檔案傳輸佇列" image="/docs/guide/evermusic/evermusic-guide-local-files/img/local-files-file-transfers.webp" >}}
 {{< /cards >}}
 
 ## 快速存取部分
@@ -68,7 +68,7 @@ readingTime: 8
 此部分顯示所有最近開啟的檔案或資料夾。
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="最近開啟的檔案和資料夾" image="/docs/guide/evermusic/evermusic-guide-local-files/img/local-files-recents.webp" >}}
+  {{< ls-card title="" subtitle="最近開啟的檔案和資料夾" image="/docs/guide/evermusic/evermusic-guide-local-files/img/local-files-recents.webp" >}}
 {{< /cards >}}
 
 ## 最愛項目
@@ -76,7 +76,7 @@ readingTime: 8
 您可以將檔案或資料夾標記為最愛並在此部分存取它們。此外，您可以將裝置上的資料夾新增到最愛項目。為此，開啟最愛項目部分，點選右上角的三個點，然後選擇「新增資料夾」選單項。按照提示將裝置中的資料夾新增到最愛項目以便快速存取。
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="最愛項目 — 從裝置新增資料夾" image="/docs/guide/evermusic/evermusic-guide-local-files/img/local-files-favorites.webp" >}}
+  {{< ls-card title="" subtitle="最愛項目 — 從裝置新增資料夾" image="/docs/guide/evermusic/evermusic-guide-local-files/img/local-files-favorites.webp" >}}
 {{< /cards >}}
 
 ## 頂部工具列
@@ -91,7 +91,7 @@ readingTime: 8
 您可以通過向下滑動手勢顯示或隱藏頂部工具列。
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="當前資料夾的頂部工具列" image="/docs/guide/evermusic/evermusic-guide-local-files/img/local-files-top-toolbar.webp" >}}
+  {{< ls-card title="" subtitle="當前資料夾的頂部工具列" image="/docs/guide/evermusic/evermusic-guide-local-files/img/local-files-top-toolbar.webp" >}}
 {{< /cards >}}
 
 ## 特殊資料夾
@@ -128,7 +128,7 @@ readingTime: 8
 顯示位於裝置上但在不同應用程式中的檔案。您可以使用系統檔案選擇器將它們匯入此應用程式。要啟用選擇器，選擇「開啟檔案...」來選擇檔案或「開啟資料夾...」來選擇資料夾。有關如何匯入存儲在 iPhone 或 Mac 上的本地音樂的詳細說明，請參見[此處](/docs/howto/how-to-play-local-music-stored-on-your-iphone-or-mac)。您還可以連接裝置上的資料夾並快速存取資料夾內容。使用「連接資料夾」選單項並選擇裝置上的資料夾。點選「完成」，應用程式將建立到該資料夾的具有讀/寫權限的連結，您可以直接從此應用程式管理檔案。要斷開裝置上的資料夾連接，請點選「更多操作」按鈕並選擇「斷開連接」。
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="此 iPhone / iPad / Mac 上的檔案" image="/docs/guide/evermusic/evermusic-guide-local-files/img/local-files-on-this-device.webp" >}}
+  {{< ls-card title="" subtitle="此 iPhone / iPad / Mac 上的檔案" image="/docs/guide/evermusic/evermusic-guide-local-files/img/local-files-on-this-device.webp" >}}
 {{< /cards >}}
 
 ## 從已連接的 USB 隨身碟匯入檔案
@@ -151,7 +151,7 @@ readingTime: 8
 如果您需要編輯多個檔案，請通過點選導覽列右上角的更多操作按鈕「...」然後選擇「選擇」選單項來啟用選擇模式。這將在每個檔案附近顯示核取方塊。通過點選其核取方塊選擇所需檔案。您可以對選定的檔案執行以下操作。
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="本地檔案的選擇模式操作" image="/docs/guide/evermusic/evermusic-guide-local-files/img/local-files-selection-mode.webp" >}}
+  {{< ls-card title="" subtitle="本地檔案的選擇模式操作" image="/docs/guide/evermusic/evermusic-guide-local-files/img/local-files-selection-mode.webp" >}}
 {{< /cards >}}
 
 - **下一首播放：** 按當前排序順序將選定檔案或資料夾新增到播放器佇列頂部。
@@ -186,7 +186,7 @@ readingTime: 8
 ## 離線資料夾
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="離線資料夾的更多操作選單" image="/docs/guide/evermusic/evermusic-guide-local-files/img/local-files-offline-folders.webp" >}}
+  {{< ls-card title="" subtitle="離線資料夾的更多操作選單" image="/docs/guide/evermusic/evermusic-guide-local-files/img/local-files-offline-folders.webp" >}}
 {{< /cards >}}
 
 離線模式是一項便捷功能，讓您即使在沒有網路連接的情況下也能存取您喜歡的音樂。當您為任何專輯、藝術家、播放清單、類型或遠端資料夾啟用離線模式時，該集合中的所有檔案將自動下載到您的裝置供離線播放。您可以在應用程式的「離線資料夾」部分方便地存取這些檔案。
@@ -204,7 +204,7 @@ readingTime: 8
 「本地檔案」螢幕的幾乎所有行為——從網路頻寬到下載位置到縮圖快取方式——都可在**設定 → 檔案管理器**中配置。當您想微調傳輸速度、節省儲存空間或將應用程式限制為僅 Wi-Fi 時，請開啟它。
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="檔案管理器設定螢幕" image="/docs/guide/evermusic/evermusic-guide-local-files/img/local-files-file-manager-settings.webp" >}}
+  {{< ls-card title="" subtitle="檔案管理器設定螢幕" image="/docs/guide/evermusic/evermusic-guide-local-files/img/local-files-file-manager-settings.webp" >}}
 {{< /cards >}}
 
 螢幕將每個選項分組到清楚標記的部分中：

@@ -7,7 +7,7 @@ tags: ["evermusic", "flacbox", "arsip", "cadangan", "ekspor", "daftar putar", "m
 readingTime: 2
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **Ringkasan:** Evermusic dan Flacbox dapat mengarsipkan daftar putar, album, artis, atau genre apa pun ke dalam file ZIP dengan daftar putar M3U, sampul album, dan semua file audio. Transfer ZIP ke perangkat lain, ekstrak, dan impor M3U untuk membangun ulang daftar putar secara instan.
@@ -104,22 +104,22 @@ Dengan mengikuti panduan ini, Anda dapat mengarsipkan dan mentransfer daftar put
 
 ## FAQ
 
-{{% details title="Apa saja yang termasuk dalam arsip ZIP?" closed="true" %}}
+{{% ls-details title="Apa saja yang termasuk dalam arsip ZIP?" closed="true" %}}
 Arsip berisi semua file audio, file daftar putar M3U yang mempertahankan urutan trek, dan sampul album daftar putar yang disimpan sebagai file gambar terpisah.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Apakah pengarsipan berfungsi dengan file cloud?" closed="true" %}}
+{{% ls-details title="Apakah pengarsipan berfungsi dengan file cloud?" closed="true" %}}
 Ya. Aplikasi secara otomatis mengunduh semua file yang disimpan di cloud sebelum menambahkannya ke arsip. Anda dapat memantau kemajuan unduhan di bagian transfer file.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Bisakah saya mengarsipkan album, artis, dan genre juga?" closed="true" %}}
+{{% ls-details title="Bisakah saya mengarsipkan album, artis, dan genre juga?" closed="true" %}}
 Ya. Opsi «Tambahkan ke Arsip» tersedia untuk daftar putar, album, artis, dan genre. Prosesnya identik untuk semuanya.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Bagaimana cara mentransfer arsip ke perangkat lain?" closed="true" %}}
+{{% ls-details title="Bagaimana cara mentransfer arsip ke perangkat lain?" closed="true" %}}
 Anda dapat mengunggah ZIP ke penyimpanan cloud (Google Drive, Dropbox, dll.), menggunakan AirDrop, atau mentransfer secara nirkabel melalui fitur Wi-Fi Drive bawaan di Evermusic dan Flacbox.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Apakah struktur daftar putar akan terjaga setelah transfer?" closed="true" %}}
+{{% ls-details title="Apakah struktur daftar putar akan terjaga setelah transfer?" closed="true" %}}
 Ya. File M3U menyimpan struktur daftar putar dengan jalur relatif. Setelah mengekstrak di perangkat baru, impor file M3U untuk membangun ulang daftar putar dengan semua trek dalam urutan asli.
-{{% /details %}}
+{{% /ls-details %}}

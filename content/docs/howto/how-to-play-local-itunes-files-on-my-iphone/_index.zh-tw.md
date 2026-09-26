@@ -7,7 +7,7 @@ tags: ["音訊", "播放器", "電腦", "檔案", "檔案", "PC", "Mac", "共享
 keywords: ["iTunes檔案共享", "播放本機音樂", "傳輸音樂到iPhone", "複製檔案到iOS", "Mac到iPhone音訊", "iPhone上的本機檔案", "Evermusic", "Flacbox", "音樂播放器", "檔案共享", "WiFi Drive", "SMB音樂串流", "iPhone音樂應用程式", "匯入音樂到iOS"]
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **簡述：** 使用以下三種方法之一將音樂從電腦傳輸到iPhone：**iTunes/Finder File Sharing**（USB傳輸線）、**[WiFi Drive](/docs/howto/how-to-transfer-music-from-computer-to-iphone-without-itunes)**（無線，無需傳輸線）或 **[SMB](/docs/howto/stream-your-music-from-mac-or-pc-to-iphone-using-smb/)**（直接串流播放，無需複製）。然後使用 [Evermusic](/products/evermusic) 或 [Flacbox](/products/flacbox) 播放。
@@ -134,22 +134,22 @@ iTunes File Sharing讓您可以輕鬆地在電腦和iPhone、iPad或iPod touch�
 
 ## FAQ
 
-{{% details title="將音樂傳輸到iPhone最快的方法是什麼？" closed="true" %}}
+{{% ls-details title="將音樂傳輸到iPhone最快的方法是什麼？" closed="true" %}}
 透過USB的iTunes/Finder File Sharing是大型音樂庫最快的方法。對於較小的傳輸，WiFi Drive更方便，因為不需要傳輸線。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="我可以將FLAC檔案傳輸到iPhone嗎？" closed="true" %}}
+{{% ls-details title="我可以將FLAC檔案傳輸到iPhone嗎？" closed="true" %}}
 可以。Evermusic和Flacbox都透過iTunes File Sharing、WiFi Drive或SMB接受FLAC檔案。對於無損格式，推薦使用Flacbox。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="在macOS Catalina或更高版本上需要iTunes嗎？" closed="true" %}}
+{{% ls-details title="在macOS Catalina或更高版本上需要iTunes嗎？" closed="true" %}}
 不需要。Apple從macOS Catalina開始用Finder替代了iTunes進行裝置管理。使用Finder的「檔案」標籤頁進行檔案共享。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="我可以在不將檔案複製到iPhone的情況下串流播放音樂嗎？" closed="true" %}}
+{{% ls-details title="我可以在不將檔案複製到iPhone的情況下串流播放音樂嗎？" closed="true" %}}
 可以。使用SMB協定直接從Mac或PC串流播放音樂。這樣可以節省裝置儲存空間，並將音樂庫保留在電腦上。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="我應該使用哪個應用程式——Evermusic還是Flacbox？" closed="true" %}}
+{{% ls-details title="我應該使用哪個應用程式——Evermusic還是Flacbox？" closed="true" %}}
 對於MP3、WAV和AAC等標準格式，使用Evermusic。如果您的音樂庫包含FLAC、DSD或OGG等無損格式，選擇Flacbox。
-{{% /details %}}
+{{% /ls-details %}}

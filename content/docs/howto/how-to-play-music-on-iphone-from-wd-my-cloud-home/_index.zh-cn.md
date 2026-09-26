@@ -7,7 +7,7 @@ tags: ["evermusic", "音乐", "云", "iphone", "存储", "nas", "聆听", "远�
 readingTime: 4
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **摘要：** 使用Evermusic从您的WD My Cloud Home NAS直接向iPhone流式传输或下载音乐。访问最多8 TB的音乐，离线播放，并使用内置均衡器——一切无需月度订阅。
@@ -87,26 +87,26 @@ Evermusic使用安全连接和Western Digital工程师开发的官方API，确�
 
 ## FAQ
 
-{{% details title="Evermusic可以免费与WD My Cloud Home一起使用吗？" closed="true" %}}
+{{% ls-details title="Evermusic可以免费与WD My Cloud Home一起使用吗？" closed="true" %}}
 Evermusic可以免费下载，提供包括均衡器、云流媒体和离线播放在内的核心功能。免费版本支持最多3个云连接。升级到高级版可解除云账户、播放列表和离线文件夹的限制。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="我可以从NAS离线收听音乐吗？" closed="true" %}}
+{{% ls-details title="我可以从NAS离线收听音乐吗？" closed="true" %}}
 可以。Evermusic允许您从WD My Cloud Home下载曲目到iPhone进行离线播放。这在旅行或互联网访问受限时非常有用。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Evermusic支持来自WD My Cloud的无损音频格式吗？" closed="true" %}}
+{{% ls-details title="Evermusic支持来自WD My Cloud的无损音频格式吗？" closed="true" %}}
 支持。Evermusic支持FLAC、ALAC、WAV、AIFF和其他无损格式。您可以从NAS流式传输或下载高质量音频文件，无需格式转换。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="我可以将WD MyCloud EX2 Ultra与Evermusic一起使用吗？" closed="true" %}}
+{{% ls-details title="我可以将WD MyCloud EX2 Ultra与Evermusic一起使用吗？" closed="true" %}}
 可以，使用替代方法。通过My Cloud Home选项连接，使用Evermusic的文件管理器创建文件夹，并将音乐文件上传到那里。由于沙盒模式，只有应用创建的文件夹中的文件可以访问。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="WD My Cloud Home可以存储多少音乐？" closed="true" %}}
+{{% ls-details title="WD My Cloud Home可以存储多少音乐？" closed="true" %}}
 WD My Cloud Home支持最多8 TB的存储。在典型比特率下，可以存储数十万首歌曲，包括大型无损音乐库。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Evermusic与WD My Cloud Home之间的连接安全吗？" closed="true" %}}
+{{% ls-details title="Evermusic与WD My Cloud Home之间的连接安全吗？" closed="true" %}}
 安全。Evermusic使用安全连接和Western Digital的官方API来访问您的NAS。您的数据和登录凭据在传输过程中受到保护。
-{{% /details %}}
+{{% /ls-details %}}

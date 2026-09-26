@@ -19,7 +19,7 @@ Evervideo 提供简洁直观的界面，对于使用过 iOS 音乐或媒体播�
 与大多数媒体应用不同，Evervideo 将云账户、NAS 共享、媒体服务器和本地文件整合到单一的「文件」标签页中——无需在不同屏幕之间切换。这使得将视频从 Plex 服务器移动到 iCloud Drive 文件夹再到 iPhone Documents 文件夹成为一个屏幕、一次操作的事情。
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evervideo 主屏幕" image="/docs/guide/evervideo/img/evervideo-main.webp" >}}
+  {{< ls-card title="" subtitle="Evervideo 主屏幕" image="/docs/guide/evervideo/img/evervideo-main.webp" >}}
 {{< /cards >}}
 
 ## 标签页
@@ -53,7 +53,7 @@ PiP 适用于 Evervideo 播放的所有视频格式，包括云端流媒体文�
 屏幕上几乎每个内容项都有一个「更多操作」按钮（「⋯」三点图标）。点击它可打开上下文敏感菜单，其中包含该项目的所有可用操作——播放下一个、稍后播放、添加到播放列表、添加到收藏夹、编辑标签、下载、分享、重命名、移动等。长列表可垂直滚动，让您无需挤占主界面就能访问不常用的操作。
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evervideo 收藏夹更多操作菜单" image="/docs/guide/evervideo/img/evervideo-favorites-more-actions.webp" >}}
+  {{< ls-card title="" subtitle="Evervideo 收藏夹更多操作菜单" image="/docs/guide/evervideo/img/evervideo-favorites-more-actions.webp" >}}
 {{< /cards >}}
 
 ## 顶部工具栏

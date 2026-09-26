@@ -21,7 +21,7 @@ Ezen a képernyőn elérheti az alkalmazás beállításait, és frissítheti az
 - **Jogi és adatvédelem** — Feltételek, Adatvédelmi irányelvek, Jogi megjegyzések, Elemzés és adatgyűjtés
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evertag Beállítások képernyő" image="/docs/guide/evertag/img/settings.webp" >}}
+  {{< ls-card title="" subtitle="Evertag Beállítások képernyő" image="/docs/guide/evertag/img/settings.webp" >}}
 {{< /cards >}}
 
 ## Frissítés Prémiumra
@@ -63,7 +63,7 @@ Aktiválja a jelszóvédelmi képernyőt, ha meg szeretné védeni az alkalmazá
 A fájlkezelő hozzáférést biztosít a csatlakoztatott felhőtároló fiókokhoz, és kötegelt műveleteket kínál több fájl gyors kezeléséhez.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evertag Beállítások Fájlkezelő képernyő" image="/docs/guide/evertag/img/settings-file-manager.webp" >}}
+  {{< ls-card title="" subtitle="Evertag Beállítások Fájlkezelő képernyő" image="/docs/guide/evertag/img/settings-file-manager.webp" >}}
 {{< /cards >}}
 
 ### Fájlátvitelek
@@ -103,7 +103,7 @@ Törölje az alkalmazás gyorsítótár mappáját a tárhely felszabadításáh
 Ebben a szakaszban konfigurálhatja a beépített audio tag szerkesztőt.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evertag Beállítások Tag szerkesztő képernyő" image="/docs/guide/evertag/img/settings-tag-editor.webp" >}}
+  {{< ls-card title="" subtitle="Evertag Beállítások Tag szerkesztő képernyő" image="/docs/guide/evertag/img/settings-tag-editor.webp" >}}
 {{< /cards >}}
 
 ### Albumborító méretezés
@@ -136,7 +136,7 @@ Ebben a szakaszban aktiválhatja a WiFi Drive funkciót, amely lehetővé teszi 
 Ebben a szakaszban testreszabhatja a felhasználói felület beállításait az igényei szerint.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evertag Beállítások Személyre szabás képernyő" image="/docs/guide/evertag/img/settings-personalization.webp" >}}
+  {{< ls-card title="" subtitle="Evertag Beállítások Személyre szabás képernyő" image="/docs/guide/evertag/img/settings-personalization.webp" >}}
 {{< /cards >}}
 
 ### Alkalmazás ikon

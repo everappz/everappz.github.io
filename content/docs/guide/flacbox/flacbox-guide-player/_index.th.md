@@ -23,7 +23,7 @@ readingTime: 14
 คุณสามารถไปยังเครื่องเล่นแบบเต็มหน้าจอจากแถบมินิเพลเยอร์ บน iPhone มินิเพลเยอร์อยู่ที่ด้านล่างของหน้าจอหลัก บน iPad และ Mac อยู่ทางด้านซ้าย ในการซ่อนมินิเพลเยอร์บน iPhone ให้แตะหนึ่งครั้งและปัดลง ในการปิดเครื่องเล่นแบบเต็มหน้าจออย่างสมบูรณ์ ให้แตะปุ่มปิดในมุมล่างขวา
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="หน้าจอหลักเครื่องเล่นเสียง Flacbox" image="/docs/guide/flacbox/img/audio-player-main-screen.webp" >}}
+  {{< ls-card title="" subtitle="หน้าจอหลักเครื่องเล่นเสียง Flacbox" image="/docs/guide/flacbox/img/audio-player-main-screen.webp" >}}
 {{< /cards >}}
 
 ## รูปแบบเสียงที่รองรับ
@@ -66,7 +66,7 @@ Flacbox เล่นรูปแบบเสียงยอดนิยมที
 Flacbox มี **equalizer 10 แบนด์** พร้อมพรีเซ็ตแบบ iPod แตะ Equalizer บนมุมมองระดับเสียง จากนั้นเปิดในมุมบนขวา คุณสามารถใช้พรีเซ็ตอย่าง Acoustic และ Bass Booster หรือปรับแต่ง frequency band แต่ละแบนด์ด้วยสไลเดอร์ สร้างพรีเซ็ตของคุณเอง บันทึกภายใต้ชื่อใดก็ได้ และเพิ่มระดับเสียงโดยรวมด้วย preamplifier เรามีคำแนะนำโดยละเอียดเพิ่มเติมเกี่ยวกับวิธีใช้ equalizer [ที่นี่](/docs/howto/how-to-use-the-audio-equalizer-on-your-iphone-ipad-mac-with-evermusic-and-flacbox)
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Equalizer เครื่องเล่นเสียง Flacbox" image="/docs/guide/flacbox/img/audio-player-equalizer.webp" >}}
+  {{< ls-card title="" subtitle="Equalizer เครื่องเล่นเสียง Flacbox" image="/docs/guide/flacbox/img/audio-player-equalizer.webp" >}}
 {{< /cards >}}
 
 ## แถบเครื่องมือโหมดเครื่องเล่น
@@ -82,7 +82,7 @@ Flacbox มี **equalizer 10 แบนด์** พร้อมพรีเซ�
 ในการดูคิวเครื่องเล่นของคุณ ให้แตะปุ่มคิวทางด้านขวาของเพลงปัจจุบัน เพลงแต่ละเพลงในคิวมีการดำเนินการเพิ่มเติม — แตะจุดสามจุดเพื่อดู ในการเรียงลำดับเพลงในคิวใหม่ ให้ใช้ตัวบ่งชี้การเรียงลำดับใกล้ชื่อและลากไปยังตำแหน่งใหม่
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="คิวการเล่น Flacbox" image="/docs/guide/flacbox/img/playback_queue.webp" >}}
+  {{< ls-card title="" subtitle="คิวการเล่น Flacbox" image="/docs/guide/flacbox/img/playback_queue.webp" >}}
 {{< /cards >}}
 
 ## ความคิดเห็น / เนื้อเพลง
@@ -98,7 +98,7 @@ Flacbox มี **equalizer 10 แบนด์** พร้อมพรีเซ�
 หลังจากนี้ ให้แตะปุ่มคิวเครื่องเล่นที่ด้านล่างของหน้าจอหลายครั้งเพื่อสลับจากมุมมองภาพปก / คิวไปยังมุมมองความคิดเห็น บนหน้าจอความคิดเห็น ให้เลื่อนไปทางขวาเพื่อสลับระหว่าง **ความคิดเห็น**, **เนื้อเพลงที่ฝังอยู่** และ **ไฟล์ LRC** คำแนะนำฉบับสมบูรณ์มีอยู่ [ที่นี่](/docs/howto/how-to-add-and-view-comments-to-your-audio-tracks-on-iphone-ipad-and-mac-with-evermusic-and-flacbox)
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="หน้าจอเนื้อเพลงและความคิดเห็นของ Flacbox" image="/docs/guide/flacbox/img/lyrics-screen.webp" >}}
+  {{< ls-card title="" subtitle="หน้าจอเนื้อเพลงและความคิดเห็นของ Flacbox" image="/docs/guide/flacbox/img/lyrics-screen.webp" >}}
 {{< /cards >}}
 
 ## เมนูตัวเลือก
@@ -121,7 +121,7 @@ Flacbox มี **equalizer 10 แบนด์** พร้อมพรีเซ�
 ตัวเลือกเดียวกันเหล่านี้มีให้สำหรับรายการที่กำลังเล่นอยู่ในคิวเครื่องเล่นเสียง ซึ่งคุณสามารถเข้าถึงได้โดยแตะไอคอน **การดำเนินการเพิ่มเติม** ใกล้ชื่อแทร็ค
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="ตัวเลือก Flacbox สำหรับรายการในคิวการเล่น" image="/docs/guide/flacbox/img/options-for-item-in-playback-queue.webp" >}}
+  {{< ls-card title="" subtitle="ตัวเลือก Flacbox สำหรับรายการในคิวการเล่น" image="/docs/guide/flacbox/img/options-for-item-in-playback-queue.webp" >}}
 {{< /cards >}}
 
 ## การดำเนินการเครื่องเล่นเพิ่มเติม
@@ -143,7 +143,7 @@ Flacbox มี **equalizer 10 แบนด์** พร้อมพรีเซ�
 - **ช่วยเหลือ** — ค้นหาความช่วยเหลือและคำแนะนำ
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="หน้าจอการดำเนินการเพิ่มเติมของเครื่องเล่นเสียง Flacbox" image="/docs/guide/flacbox/img/audio-player-more-actions-screen.webp" >}}
+  {{< ls-card title="" subtitle="หน้าจอการดำเนินการเพิ่มเติมของเครื่องเล่นเสียง Flacbox" image="/docs/guide/flacbox/img/audio-player-more-actions-screen.webp" >}}
 {{< /cards >}}
 
 ## บุ๊คมาร์คเสียง
@@ -161,7 +161,7 @@ Flacbox มี **equalizer 10 แบนด์** พร้อมพรีเซ�
 การแก้ไขบุ๊คมาร์คสำหรับแทร็คปัจจุบันเป็นเรื่องง่าย: แตะแก้ไขในมุมบนขวาเพื่อเข้าสู่โหมดแก้ไข ในโหมดนี้ คุณสามารถจัดเรียงบุ๊คมาร์คใหม่, ลบ, ปรับเวลาบุ๊คมาร์ค และเปลี่ยนชื่อบุ๊คมาร์ค คำแนะนำโดยละเอียดเกี่ยวกับบุ๊คมาร์คเสียงมีอยู่ [ที่นี่](/docs/howto/how-to-listen-to-audiobooks-on-iphone-ipad-mac-using-evermusic)
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="หน้าจอบุ๊คมาร์คเสียง Flacbox" image="/docs/guide/flacbox/img/audio-bookmarks.webp" >}}
+  {{< ls-card title="" subtitle="หน้าจอบุ๊คมาร์คเสียง Flacbox" image="/docs/guide/flacbox/img/audio-bookmarks.webp" >}}
 {{< /cards >}}
 
 ## รายการล่าสุดและรายการโปรด
@@ -175,7 +175,7 @@ Flacbox มี **equalizer 10 แบนด์** พร้อมพรีเซ�
 [อ่านคู่มือ CarPlay ฉบับสมบูรณ์](/docs/howto/how-to-play-your-own-music-on-iphone-using-carplay/)
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox บน Apple CarPlay" image="/docs/guide/flacbox/img/carplay-main.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox บน Apple CarPlay" image="/docs/guide/flacbox/img/carplay-main.webp" >}}
 {{< /cards >}}
 
 ## วิดเจ็ตหน้าจอหลัก (iPhone & iPad)
@@ -243,7 +243,7 @@ Flacbox รองรับวิดเจ็ตหน้าจอหลักแ
 ปรับความเร็วการเล่นของเครื่องเล่นเสียงตั้งแต่ **0.02× ถึง 3.00×** แตะไอคอนการกำหนดค่าในมุมบนขวาเพื่อสลับไปยัง **โหมดแม่นยำ** สำหรับการปรับที่ละเอียดกว่า
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="หน้าจอความเร็วการเล่น Flacbox" image="/docs/guide/flacbox/img/playback-speed.webp" >}}
+  {{< ls-card title="" subtitle="หน้าจอความเร็วการเล่น Flacbox" image="/docs/guide/flacbox/img/playback-speed.webp" >}}
 {{< /cards >}}
 
 ### การแก้ไขระดับเสียง

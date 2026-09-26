@@ -1,9 +1,10 @@
 ---
+excludeSearch: true
 date: '2025-06-12T17:00:00+00:00'
 title: 'ติดต่อเรา'
 ---
 
-{{< lottie src="/images/juicy-json/juicy-girl-typing-on-phone.json" width="60%" >}}
+{{< ls-lottie src="/images/juicy-json/juicy-girl-typing-on-phone.json" width="60%" >}}
 
 ## ที่อยู่ไปรษณีย์
 
@@ -27,4 +28,4 @@ title: 'ติดต่อเรา'
 
 ติดตามเราบนโซเชียลเน็ตเวิร์กเพื่อรับข่าวสารล่าสุด อัปเดตแอป เคล็ดลับ และข้อมูลที่เป็นประโยชน์:
 
-{{< social-cards >}}
+{{< ls-social-cards >}}

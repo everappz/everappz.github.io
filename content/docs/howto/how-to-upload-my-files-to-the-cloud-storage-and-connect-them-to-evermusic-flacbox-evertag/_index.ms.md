@@ -7,7 +7,7 @@ tags: ["evermusic", "flacbox", "awan", "fail", "akaun", "pengurus", "sambung", "
 keywords: ["sambung perkhidmatan awan ke Evermusic", "muat naik fail ke Google Drive", "integrasi awan Flacbox", "guna OneDrive dengan Evermusic", "akses fail awan Evertag", "sambung Dropbox ke pemain muzik iOS", "pengurus fail untuk perkhidmatan awan"]
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **Ringkasan:** Muat naik fail muzik atau media anda ke mana-mana perkhidmatan awan yang disokong (Google Drive, Dropbox, OneDrive, dan lain-lain), kemudian sambungkan perkhidmatan tersebut di dalam Evermusic, Flacbox, atau Evertag untuk menstrim atau memuat turun fail anda terus di iPhone, iPad, atau Mac.
@@ -76,38 +76,38 @@ Ucapkan selamat tinggal kepada had storan dan selamat datang kepada kemudahan!
 
 ## Soalan Lazim
 
-{{% details title="Perkhidmatan awan manakah yang disokong?" closed="true" %}}
+{{% ls-details title="Perkhidmatan awan manakah yang disokong?" closed="true" %}}
 Evermusic, Flacbox, dan Evertag menyokong Google Drive, Dropbox, OneDrive, Box, MediaFire, Yandex.Disk, MEGA, MyDrive, pCloud, dan pembekal awan lain. Anda juga boleh menyambungkan pelayan WebDAV, SMB, dan FTP tersuai.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Bolehkah saya menstrim muzik terus dari awan tanpa memuat turun?" closed="true" %}}
+{{% ls-details title="Bolehkah saya menstrim muzik terus dari awan tanpa memuat turun?" closed="true" %}}
 Ya. Ketiga-tiga aplikasi menyokong penstriman fail audio terus dari storan awan yang disambungkan. Anda juga boleh memuat turun fail untuk main balik luar talian apabila anda tidak mempunyai akses internet.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Adakah had saiz fail atau storan dalam aplikasi?" closed="true" %}}
+{{% ls-details title="Adakah had saiz fail atau storan dalam aplikasi?" closed="true" %}}
 Aplikasi tidak mengenakan had saiz fail atau storan mereka sendiri. Storan yang tersedia bergantung pada pelan perkhidmatan awan anda dan storan tempatan peranti anda untuk fail yang dimuat turun.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Bolehkah saya menyambungkan beberapa akaun awan pada masa yang sama?" closed="true" %}}
+{{% ls-details title="Bolehkah saya menyambungkan beberapa akaun awan pada masa yang sama?" closed="true" %}}
 Ya. Anda boleh menyambungkan beberapa perkhidmatan awan dan beberapa akaun daripada pembekal yang sama secara serentak. Semua akaun yang disambungkan muncul dalam tab Sambungan untuk penukaran yang mudah.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Perlukah saya memuat naik semula fail jika saya beralih ke aplikasi lain?" closed="true" %}}
+{{% ls-details title="Perlukah saya memuat naik semula fail jika saya beralih ke aplikasi lain?" closed="true" %}}
 Tidak. Memandangkan fail anda disimpan dalam awan, anda boleh menyambungkan akaun awan yang sama ke Evermusic, Flacbox, atau Evertag tanpa memuat naik semula apa-apa. Setiap aplikasi mengakses fail yang sama dari storan awan anda.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Adakah data akaun awan saya selamat?" closed="true" %}}
+{{% ls-details title="Adakah data akaun awan saya selamat?" closed="true" %}}
 Ya. Aplikasi hanya menggunakan SDK rasmi dan sambungan yang disulitkan untuk berinteraksi dengan perkhidmatan awan. Log masuk dan kata laluan anda tidak pernah disimpan oleh aplikasi. Apabila anda log masuk, aplikasi memaparkan halaman kebenaran rasmi yang disediakan oleh perkhidmatan awan. Selepas kebenaran berjaya, pembekal awan menghantar token kebenaran kepada aplikasi, yang disimpan dengan selamat dalam Keychain peranti. Token ini digunakan untuk semua permintaan API.<br><br>
 Aplikasi tidak berkongsi sebarang maklumat daripada akaun awan anda. Anda boleh membatalkan akses pada bila-bila masa dari halaman tetapan akaun awan anda dalam pelayar web, atau memutuskan sambungan akaun dalam aplikasi.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Bagaimana cara memutuskan sambungan perkhidmatan awan atau menukar konfigurasinya?" closed="true" %}}
+{{% ls-details title="Bagaimana cara memutuskan sambungan perkhidmatan awan atau menukar konfigurasinya?" closed="true" %}}
 Cari storan awan dalam tab Sambungan aplikasi dan ketik butang **...** di sebelahnya. Anda akan melihat pilihan ini:<br>
 - **Namakan Semula** -- tukar nama paparan perkhidmatan awan<br>
 - **Tetapan** -- ubah suai konfigurasi atau benarkan semula jika token telah tamat tempoh<br>
 - **Putuskan Sambungan** -- alih keluar sambungan sepenuhnya. Ini mengalih keluar semua lagu dari perkhidmatan awan ini daripada pustaka muzik aplikasi, tetapi fail kekal di pelayan
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Bagaimana cara membatalkan akses aplikasi ke akaun awan saya?" closed="true" %}}
+{{% ls-details title="Bagaimana cara membatalkan akses aplikasi ke akaun awan saya?" closed="true" %}}
 Log masuk ke akaun awan anda dalam pelayar web dan buka halaman tetapan akaun atau keselamatan. Cari senarai aplikasi pihak ketiga yang disambungkan dan alih keluar aplikasi yang anda tidak mahu benarkan lagi. Anda juga boleh memutuskan sambungan akaun awan dalam aplikasi -- ini mengalih keluar token kebenaran daripada peranti anda. Jika anda memadam aplikasi sepenuhnya, semua data yang dimuat turun dan token akses dialih keluar secara automatik.
-{{% /details %}}
+{{% /ls-details %}}

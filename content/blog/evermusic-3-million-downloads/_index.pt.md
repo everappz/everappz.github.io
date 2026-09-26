@@ -12,7 +12,7 @@ authors:
     image: "/images/about/artem-meleshko-founder-everappz.webp"
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 ## 3 milhões de downloads
 
@@ -98,22 +98,22 @@ O Evermusic é gratuito na App Store com recursos premium opcionais.
 
 ## Perguntas frequentes
 
-{{% details title="O Evermusic é gratuito?" closed="true" %}}
+{{% ls-details title="O Evermusic é gratuito?" closed="true" %}}
 Sim. O Evermusic é gratuito para baixar com recursos principais disponíveis sem custo. Recursos premium como o equalizador e opções avançadas de nuvem estão disponíveis através de uma atualização opcional.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="O Evermusic pode reproduzir audiolivros?" closed="true" %}}
+{{% ls-details title="O Evermusic pode reproduzir audiolivros?" closed="true" %}}
 Sim. O Evermusic salva sua posição de reprodução, suporta marcadores, velocidade de reprodução ajustável (0,5x a 2,0x) e timers de sono — tornando-o adequado para audiolivros e podcasts.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="A quais serviços de nuvem o Evermusic se conecta?" closed="true" %}}
+{{% ls-details title="A quais serviços de nuvem o Evermusic se conecta?" closed="true" %}}
 Dropbox, Google Drive, OneDrive, Box, MEGA, Yandex.Disk, MyDrive, pCloud, HiDrive, compartilhamentos de arquivo SMB e servidores WebDAV.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Posso usar um cartão SD com o Evermusic?" closed="true" %}}
+{{% ls-details title="Posso usar um cartão SD com o Evermusic?" closed="true" %}}
 Sim. Conecte um leitor de cartão SD Lightning ou USB-C ao seu iPhone ou iPad e transmita música diretamente do cartão pelo Evermusic.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="O Evermusic funciona no Mac?" closed="true" %}}
+{{% ls-details title="O Evermusic funciona no Mac?" closed="true" %}}
 Sim. O Evermusic está disponível tanto para iOS quanto para macOS, com streaming na nuvem e reprodução offline em todas as plataformas.
-{{% /details %}}
+{{% /ls-details %}}

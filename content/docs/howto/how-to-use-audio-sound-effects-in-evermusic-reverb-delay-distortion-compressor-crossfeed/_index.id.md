@@ -7,7 +7,7 @@ tags: ["Evermusic", "Efek Audio", "Panduan", "Reverb", "Delay", "Distorsi", "Kom
 readingTime: 8
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 **Ringkasan:** Evermusic menyertakan enam efek audio real-time — **Normalisasi Volume, Kompresor, Reverb, Crossfeed, Delay, dan Distorsi**. Buka melalui **menu ⋯ (Lainnya) pemutar > Efek audio**, atau melalui **Pengaturan > Pemutar audio > Efek audio**. Ketuk sebuah efek, aktifkan sakelarnya ke **ON** (kanan atas), pilih sebuah **preset**, dan secara opsional buka **Mode lanjutan** untuk menyempurnakan slider. Setiap efek bekerja secara independen dan berlaku secara real-time untuk semua yang Anda putar — file lokal, streaming cloud, dan radio internet — tanpa pengodean ulang.
 
@@ -162,38 +162,38 @@ Efek-efek ini juga bekerja bersama **equalizer grafis 10-band** Evermusic dan **
 
 ## FAQ
 
-{{% details title="Bagaimana cara menambahkan reverb, delay, atau efek lain ke musik saya di Evermusic?" closed="true" %}}
+{{% ls-details title="Bagaimana cara menambahkan reverb, delay, atau efek lain ke musik saya di Evermusic?" closed="true" %}}
 Buka pemutar, ketuk tombol ⋯ (Lainnya), dan pilih Efek audio (atau buka Pengaturan > Pemutar audio > Efek audio). Ketuk efek yang Anda inginkan, aktifkan sakelarnya ke ON di kanan atas, dan pilih sebuah preset. Buka Mode lanjutan untuk menyempurnakan slider. Efek berlaku segera untuk apa pun yang sedang diputar.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Efek audio apa saja yang dimiliki Evermusic?" closed="true" %}}
+{{% ls-details title="Efek audio apa saja yang dimiliki Evermusic?" closed="true" %}}
 Enam efek real-time: Normalisasi Volume (perataan kekerasan EBU R128), Kompresor (dinamika), Reverb (ruang dan ekor gema), Crossfeed (pencitraan headphone alami), Delay (gema), dan Distorsi (tekstur lo-fi). Masing-masing independen dan dapat digunakan sendiri atau dikombinasikan.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Apakah efek mengubah atau merusak file audio saya?" closed="true" %}}
+{{% ls-details title="Apakah efek mengubah atau merusak file audio saya?" closed="true" %}}
 Tidak. Semua efek diterapkan secara real-time hanya selama pemutaran. Efek tidak pernah memodifikasi atau mengodekan ulang file Anda. Nonaktifkan sebuah efek dan suara asli Anda kembali seketika.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Bisakah saya menggunakan lebih dari satu efek pada saat yang sama?" closed="true" %}}
+{{% ls-details title="Bisakah saya menggunakan lebih dari satu efek pada saat yang sama?" closed="true" %}}
 Ya. Setiap efek independen — tidak ada sakelar utama — jadi Anda dapat mengaktifkan kombinasi apa pun. Misalnya, Normalisasi Volume plus Kompresor untuk mendengarkan yang konsisten dan nyaman, atau Reverb plus Crossfeed pada headphone.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Apa itu Crossfeed dan haruskah saya menggunakannya?" closed="true" %}}
+{{% ls-details title="Apa itu Crossfeed dan haruskah saya menggunakannya?" closed="true" %}}
 Crossfeed memadukan sedikit jumlah yang difilter dari setiap kanal stereo ke kanal lainnya sehingga headphone terdengar lebih seperti speaker sungguhan, mengurangi kesan "di dalam kepala" dari mix dengan panning ekstrem. Ini adalah efek headphone (biarkan nonaktif untuk speaker). Dibangun di atas algoritma Bauer stereophonic-to-binaural (bs2b) dan menyertakan preset seperti Chu Moy dan Jan Meier.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Apa itu Normalisasi Volume dan apa bedanya dengan ReplayGain?" closed="true" %}}
+{{% ls-details title="Apa itu Normalisasi Volume dan apa bedanya dengan ReplayGain?" closed="true" %}}
 Normalisasi Volume menjaga setiap lagu pada kekerasan yang konsisten dengan mengukur kekerasan yang dirasakan menggunakan standar EBU R128 dan meratakannya menuju target. Tidak seperti ReplayGain, ia tidak memerlukan tag kekerasan pada file Anda dan tidak mengubah audio — ia bekerja langsung pada sumber apa pun, termasuk streaming cloud dan radio internet. Preset: Ringan, Standar, Kuat, dan Malam.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Apa perbedaan antara mode Sederhana dan Lanjutan?" closed="true" %}}
+{{% ls-details title="Apa perbedaan antara mode Sederhana dan Lanjutan?" closed="true" %}}
 Mode Sederhana menampilkan daftar preset dengan deskripsi jelas, sehingga Anda bisa mendapatkan suara yang bagus dengan satu ketukan. Mode Lanjutan menambahkan slider parameter (misalnya Mix untuk Reverb, atau tujuh kontrol Kompresor) untuk penyempurnaan yang presisi. Beralih di antara keduanya dengan tombol mode di kanan atas setiap editor efek.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Mengapa kontrol efek berwarna abu-abu?" closed="true" %}}
+{{% ls-details title="Mengapa kontrol efek berwarna abu-abu?" closed="true" %}}
 Efek dalam keadaan nonaktif. Aktifkan sakelar efek di kanan atas editornya untuk mengaktifkan kontrol. Setiap efek nonaktif secara bawaan.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Apakah efek berfungsi dengan streaming dan CarPlay?" closed="true" %}}
+{{% ls-details title="Apakah efek berfungsi dengan streaming dan CarPlay?" closed="true" %}}
 Ya. Efek berjalan di dalam mesin pemutaran, sehingga berlaku untuk file lokal, drive cloud, server media, dan radio internet, dan tetap berfungsi selama pemutaran CarPlay.
-{{% /details %}}
+{{% /ls-details %}}

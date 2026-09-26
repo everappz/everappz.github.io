@@ -7,7 +7,7 @@ tags: ["audio", "pemain", "komputer", "fail", "fail", "PC", "Mac", "perkongsian"
 keywords: ["iTunes file sharing", "main muzik tempatan", "pindah muzik ke iPhone", "salin fail ke iOS", "audio Mac ke iPhone", "fail tempatan di iPhone", "Evermusic", "Flacbox", "pemain muzik", "perkongsian fail", "WiFi Drive", "penstriman muzik SMB", "aplikasi muzik iPhone", "import muzik ke iOS"]
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **Ringkasan:** Pindahkan muzik dari komputer anda ke iPhone menggunakan salah satu daripada tiga kaedah: **iTunes/Finder File Sharing** (kabel USB), **[WiFi Drive](/docs/howto/how-to-transfer-music-from-computer-to-iphone-without-itunes)** (tanpa wayar, tiada kabel diperlukan), atau **[SMB](/docs/howto/stream-your-music-from-mac-or-pc-to-iphone-using-smb/)** (strim terus tanpa menyalin). Kemudian mainkan dengan [Evermusic](/products/evermusic) atau [Flacbox](/products/flacbox).
@@ -134,22 +134,22 @@ Anda juga boleh menyambungkan komputer anda menggunakan protokol SMB untuk menst
 
 ## FAQ
 
-{{% details title="Apakah cara terpantas untuk memindahkan muzik ke iPhone?" closed="true" %}}
+{{% ls-details title="Apakah cara terpantas untuk memindahkan muzik ke iPhone?" closed="true" %}}
 iTunes/Finder File Sharing melalui USB adalah kaedah terpantas untuk perpustakaan muzik yang besar. Untuk pemindahan yang lebih kecil, WiFi Drive lebih mudah kerana tidak memerlukan kabel.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Bolehkah saya memindahkan fail FLAC ke iPhone saya?" closed="true" %}}
+{{% ls-details title="Bolehkah saya memindahkan fail FLAC ke iPhone saya?" closed="true" %}}
 Ya. Kedua-dua Evermusic dan Flacbox menerima fail FLAC melalui iTunes File Sharing, WiFi Drive, atau SMB. Flacbox disyorkan untuk format tanpa kehilangan.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Adakah saya memerlukan iTunes pada macOS Catalina atau lebih baharu?" closed="true" %}}
+{{% ls-details title="Adakah saya memerlukan iTunes pada macOS Catalina atau lebih baharu?" closed="true" %}}
 Tidak. Apple menggantikan iTunes dengan Finder untuk pengurusan peranti bermula dengan macOS Catalina. Gunakan tab Fail Finder untuk perkongsian fail.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Bolehkah saya menstrim muzik tanpa menyalin fail ke iPhone saya?" closed="true" %}}
+{{% ls-details title="Bolehkah saya menstrim muzik tanpa menyalin fail ke iPhone saya?" closed="true" %}}
 Ya. Gunakan protokol SMB untuk menstrim muzik terus dari Mac atau PC anda. Ini menjimatkan storan peranti dan mengekalkan perpustakaan anda pada komputer.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Aplikasi mana yang patut saya gunakan -- Evermusic atau Flacbox?" closed="true" %}}
+{{% ls-details title="Aplikasi mana yang patut saya gunakan -- Evermusic atau Flacbox?" closed="true" %}}
 Gunakan Evermusic untuk format standard seperti MP3, WAV, dan AAC. Pilih Flacbox jika perpustakaan anda termasuk format tanpa kehilangan seperti FLAC, DSD, atau OGG.
-{{% /details %}}
+{{% /ls-details %}}

@@ -74,18 +74,18 @@ Tämä opas opastaa sinut jokaisen Evervideo-osan läpi iPhonella, iPadilla ja M
 
 {{< cards cols="2">}}
 
-{{< card icon="map" link="/docs/guide/evervideo/evervideo-guide-navigation" title="Navigointi" subtitle="Välilehtipalkit iPhonella, vasen valikko iPadilla ja Macilla, kompakti aina näytöllä oleva mediasoitin." >}}
+{{< ls-card icon="map" link="/docs/guide/evervideo/evervideo-guide-navigation" title="Navigointi" subtitle="Välilehtipalkit iPhonella, vasen valikko iPadilla ja Macilla, kompakti aina näytöllä oleva mediasoitin." >}}
 
-{{< card icon="folder" link="/docs/guide/evervideo/evervideo-guide-files" title="Tiedostot" subtitle="Yksi yhtenäinen välilehti pilvelle, NASille, RTSP-virroille, paikallisille tiedostoille, USB-asemille ja siirtojonoon." >}}
+{{< ls-card icon="folder" link="/docs/guide/evervideo/evervideo-guide-files" title="Tiedostot" subtitle="Yksi yhtenäinen välilehti pilvelle, NASille, RTSP-virroille, paikallisille tiedostoille, USB-asemille ja siirtojonoon." >}}
 
-{{< card icon="collection" link="/docs/guide/evervideo/evervideo-guide-video-library" title="Mediakirjasto" subtitle="Selaa albumeita, lajeja, äskettäin katsottuja, suosikkeja — sekä iOS:n Kuvat-kirjastoa ja Apple Music -kirjastoa." >}}
+{{< ls-card icon="collection" link="/docs/guide/evervideo/evervideo-guide-video-library" title="Mediakirjasto" subtitle="Selaa albumeita, lajeja, äskettäin katsottuja, suosikkeja — sekä iOS:n Kuvat-kirjastoa ja Apple Music -kirjastoa." >}}
 
-{{< card icon="music-note" link="/docs/guide/evervideo/evervideo-guide-playlists" title="Soittolistat" subtitle="Luo soittolistoja pilvestä, paikallisista tiedostoista, Kuvista tai Musiikki-kirjastosta, tuo M3U / M3U8 / CUE." >}}
+{{< ls-card icon="music-note" link="/docs/guide/evervideo/evervideo-guide-playlists" title="Soittolistat" subtitle="Luo soittolistoja pilvestä, paikallisista tiedostoista, Kuvista tai Musiikki-kirjastosta, tuo M3U / M3U8 / CUE." >}}
 
-{{< card icon="play" link="/docs/guide/evervideo/evervideo-guide-player" title="Mediasoitin" subtitle="Picture-in-Picture, ääni- ja videoraidat, tekstitykset, ääni- + videotaajuuskorjaimet, AirPlay, Chromecast." >}}
+{{< ls-card icon="play" link="/docs/guide/evervideo/evervideo-guide-player" title="Mediasoitin" subtitle="Picture-in-Picture, ääni- ja videoraidat, tekstitykset, ääni- + videotaajuuskorjaimet, AirPlay, Chromecast." >}}
 
-{{< card icon="adjustments" link="/docs/guide/evervideo/evervideo-guide-settings" title="Asetukset" subtitle="Äänimoottori, videodekooderi, tekstitykset, kirjasto, tiedostohallinta, widgetit, personointi, kieli, varmuuskopiointi." >}}
+{{< ls-card icon="adjustments" link="/docs/guide/evervideo/evervideo-guide-settings" title="Asetukset" subtitle="Äänimoottori, videodekooderi, tekstitykset, kirjasto, tiedostohallinta, widgetit, personointi, kieli, varmuuskopiointi." >}}
 
-{{< card icon="question-mark-circle" link="/docs/faq/evervideo" title="FAQ" subtitle="Löydä vastauksia yleisimpiin Evervideoita koskeviin kysymyksiin." >}}
+{{< ls-card icon="question-mark-circle" link="/docs/faq/evervideo" title="FAQ" subtitle="Löydä vastauksia yleisimpiin Evervideoita koskeviin kysymyksiin." >}}
 
 {{< /cards >}}

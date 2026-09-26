@@ -12,7 +12,7 @@ authors:
     image: "/images/about/artem-meleshko-founder-everappz.webp"
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 ## 3 Juta Unduhan
 
@@ -98,22 +98,22 @@ Evermusic gratis di App Store dengan fitur premium opsional.
 
 ## Pertanyaan yang Sering Diajukan
 
-{{% details title="Apakah Evermusic gratis?" closed="true" %}}
+{{% ls-details title="Apakah Evermusic gratis?" closed="true" %}}
 Ya. Evermusic gratis diunduh dengan fitur dasar tersedia tanpa biaya. Fitur premium seperti equalizer dan opsi cloud lanjutan tersedia melalui upgrade opsional.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Bisakah Evermusic memutar buku audio?" closed="true" %}}
+{{% ls-details title="Bisakah Evermusic memutar buku audio?" closed="true" %}}
 Ya. Evermusic menyimpan posisi pemutaran Anda, mendukung bookmark, kecepatan pemutaran yang dapat disesuaikan (0,5x hingga 2,0x), dan timer tidur — menjadikannya cocok untuk buku audio dan podcast.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Layanan cloud apa yang terhubung dengan Evermusic?" closed="true" %}}
+{{% ls-details title="Layanan cloud apa yang terhubung dengan Evermusic?" closed="true" %}}
 Dropbox, Google Drive, OneDrive, Box, MEGA, Yandex.Disk, MyDrive, pCloud, HiDrive, berbagi file SMB, dan server WebDAV.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Bisakah saya menggunakan kartu SD dengan Evermusic?" closed="true" %}}
+{{% ls-details title="Bisakah saya menggunakan kartu SD dengan Evermusic?" closed="true" %}}
 Ya. Hubungkan pembaca kartu SD Lightning atau USB-C ke iPhone atau iPad Anda dan streaming musik langsung dari kartu melalui Evermusic.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Apakah Evermusic bekerja di Mac?" closed="true" %}}
+{{% ls-details title="Apakah Evermusic bekerja di Mac?" closed="true" %}}
 Ya. Evermusic tersedia untuk iOS dan macOS, dengan streaming cloud dan pemutaran offline di semua platform.
-{{% /details %}}
+{{% /ls-details %}}

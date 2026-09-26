@@ -7,7 +7,7 @@ tags: ["evermusic", "オーディオ", "エディター", "タグ", "コメン�
 readingTime: 4
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **概要:** EvermusciとFlacboxでは、任意のオーディオトラックにタイムマーカー付きのテキストコメントを追加し、再生中に同期して表示できます。埋め込み歌詞やLRCファイルも表示可能です。コメントと歌詞機能は両方のアプリで無料です。
@@ -97,22 +97,22 @@ EvermusciとFlacboxでのオーディオトラックへのコメント追加は�
 
 ## よくある質問
 
-{{% details title="EvermusciとFlacboxのコメント機能は無料ですか？" closed="true" %}}
+{{% ls-details title="EvermusciとFlacboxのコメント機能は無料ですか？" closed="true" %}}
 はい。コメントと歌詞の追加、編集、表示はEvermusciとFlacboxの両方で無料の機能です。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="タイムスタンプ付きコメントにはどの形式を使用すべきですか？" closed="true" %}}
+{{% ls-details title="タイムスタンプ付きコメントにはどの形式を使用すべきですか？" closed="true" %}}
 LRCタイムマーカー形式を使用してください：`[MM:SS.SS]`の後にテキストを入力します。例：`[01:23.45]これは私のコメントです`。1行に複数のタイムスタンプを割り当てることができます。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="同じ画面で歌詞とLRCファイルを表示できますか？" closed="true" %}}
+{{% ls-details title="同じ画面で歌詞とLRCファイルを表示できますか？" closed="true" %}}
 はい。コメント画面はスワイプで切り替えられる3つのモードをサポートしています：コメント、埋め込み歌詞、LRCファイル。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="LRC歌詞ファイルはどこで見つけられますか？" closed="true" %}}
+{{% ls-details title="LRC歌詞ファイルはどこで見つけられますか？" closed="true" %}}
 無料のLRC歌詞はLyricsify.comなどのウェブサイトで入手できます。オーディオファイルの歌詞タグに埋め込むか、オーディオファイルの横に別の`.lrc`ファイルを配置できます。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="歌詞タグの編集に別のアプリが必要ですか？" closed="true" %}}
+{{% ls-details title="歌詞タグの編集に別のアプリが必要ですか？" closed="true" %}}
 コメントはEvermusciとFlacboxで直接編集できます。歌詞タグを特に編集する場合は、iOSとmacOS用の無料オーディオメタデータエディターであるEvertagを使用してください。
-{{% /details %}}
+{{% /ls-details %}}

@@ -19,7 +19,7 @@ readingTime: 11
 Flacbox ile müzik kitaplığınızı yönetmek son derece kolaydır; tüm parçalarınızı — yerel FLAC, ALAC, DSD, MP3, M4A, OGG, WMA, APE ve düzinelerce başka format — tek, aranabilir bir koleksiyona zahmetsizce düzenleyebilirsiniz. Müzik kitaplığınızı oluşturmak için iki seçeneğiniz var: manuel ekleme (neyin ekleneceğine tam olarak siz karar verirsiniz) veya otomatik eşitleme (Flacbox belirlenen bulut klasörlerini tarar ve yeni dosyalar göründükçe otomatik olarak ekler).
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox Müzik Kitaplığı Albümler Görünümü" image="/docs/guide/flacbox/img/media-library-albums.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox Müzik Kitaplığı Albümler Görünümü" image="/docs/guide/flacbox/img/media-library-albums.webp" >}}
 {{< /cards >}}
 
 ## Manuel Ekleme
@@ -27,7 +27,7 @@ Flacbox ile müzik kitaplığınızı yönetmek son derece kolaydır; tüm parç
 Parçaları manuel olarak eklemek için sol üst köşedeki **Müzik Ekle** simgesine dokunun ve bağlı bir bulut depolama hizmetinden klasörler ya da dosyalar ya da cihazınızdaki dosyalar arasından seçin. Kitaplığa parça eklediğinizde, yalnızca bu parçalara bağlantılar oluşturulur — gerçek dosyalar, değerli disk alanını korumak için özgün konumlarında kalır. Parçaları çevrimdışı erişilebilir kılmak istiyorsanız, seçenekler menüsündeki İndir eylemini kullanabilir veya çalma listeleri ve parça koleksiyonları için Çevrimdışı Mod'u etkinleştirebilirsiniz.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox Müzik Kitaplığına Şarkı Ekleme" image="/docs/guide/flacbox/img/library-add-songs.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox Müzik Kitaplığına Şarkı Ekleme" image="/docs/guide/flacbox/img/library-add-songs.webp" >}}
 {{< /cards >}}
 
 Mac sürümünde dosyaları kitaplığa sürükleyip bırakabilirsiniz. iPhone ve iPad'de ise sistem dosya seçiciden **Dosyaları Aç…** / **Klasörü Aç…** seçeneklerini kullanabilirsiniz.
@@ -89,7 +89,7 @@ Gezinme çubuğunun hemen altında bulunan üst araç çubuğu birkaç kullanı�
 Arama özelliği, müzik kitaplığınızda belirli bir parçayı, sanatçıyı, albümü veya türü bulmanıza olanak tanır. Arama ekranında Sırala, Filtrele ve Izgara / Liste görünümü eylemlerine erişebilirsiniz. Arama, müzik kitaplığı veritabanına karşı yerel olarak çalışır; dolayısıyla tamamen çevrimdışı çalışır ve siz yazdıkça sonuçları getirir.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox Müzik Kitaplığı Arama" image="/docs/guide/flacbox/img/media-library-search.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox Müzik Kitaplığı Arama" image="/docs/guide/flacbox/img/media-library-search.webp" >}}
 {{< /cards >}}
 
 ## Seçenekler Menüsü
@@ -140,7 +140,7 @@ Sanatçı, Albüm Sanatçısı veya Besteci bölümlerini açtığınızda Şark
 Bu, büyük kitaplıklardaki dağınık "Çeşitli Sanatçılar" derlemelerini temizlemek için özellikle kullanışlıdır.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox Albüm Ayrıntı Ekranı" image="/docs/guide/flacbox/img/media-library-album-details-screen.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox Albüm Ayrıntı Ekranı" image="/docs/guide/flacbox/img/media-library-album-details-screen.webp" >}}
 {{< /cards >}}
 
 ## Ayarlar

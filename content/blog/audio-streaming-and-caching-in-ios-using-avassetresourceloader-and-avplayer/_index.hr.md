@@ -12,7 +12,7 @@ authors:
     image: "/images/about/artem-meleshko-founder-everappz.webp"
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 ![](/blog/audio-streaming-and-caching-in-ios-using-avassetresourceloader-and-avplayer/diagram.png)
 
@@ -134,18 +134,18 @@ Ovaj pristup pokreće engine za audio streaming u [Evermusic](https://apps.apple
 
 ## Često postavljana pitanja
 
-{{% details title="Kada koristiti AVAssetResourceLoaderDelegate umjesto izravnog URL-a?" closed="true" %}}
+{{% ls-details title="Kada koristiti AVAssetResourceLoaderDelegate umjesto izravnog URL-a?" closed="true" %}}
 Koristite ga kada cloud usluga zahtijeva prilagođena zaglavlja autorizacije, kada trebate disk cache za streamani audio, ili kada želite preciznu kontrolu nad načinom učitavanja i međupohranjivanja podataka.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Funkcionira li ovaj pristup sa Swiftom?" closed="true" %}}
+{{% ls-details title="Funkcionira li ovaj pristup sa Swiftom?" closed="true" %}}
 Da. Protokol `AVAssetResourceLoaderDelegate` funkcionira na isti način u Swiftu. Ovdje prikazani Objective-C primjeri izravno se prevode.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Mogu li ovo koristiti i za video streaming?" closed="true" %}}
+{{% ls-details title="Mogu li ovo koristiti i za video streaming?" closed="true" %}}
 Da. `AVAssetResourceLoaderDelegate` funkcionira s bilo kojom vrstom medija koju AVPlayer podržava, uključujući video. Isti pristup s prilagođenom shemom se primjenjuje.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Podržava li ovo reprodukciju audija u pozadini?" closed="true" %}}
+{{% ls-details title="Podržava li ovo reprodukciju audija u pozadini?" closed="true" %}}
 Da, sve dok omogućite pozadinski način rada "Audio, AirPlay, and Picture in Picture" u mogućnostima vaše aplikacije i ispravno konfigurirate svoj `AVAudioSession`.
-{{% /details %}}
+{{% /ls-details %}}

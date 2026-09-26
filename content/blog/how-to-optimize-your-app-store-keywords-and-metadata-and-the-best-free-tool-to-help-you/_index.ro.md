@@ -14,7 +14,7 @@ authors:
     image: "/images/about/artem-meleshko-founder-everappz.webp"
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 ## De Ce Cuvintele Cheie App Store Determină Numărul de Descărcări
 
@@ -104,29 +104,29 @@ Optimizarea App Store nu necesită instrumente scumpe. Cu planificare inteligent
 Instrumentul este open source. Rapoartele de erori, sugestiile de funcții și pull request-urile sunt binevenite.
 
 {{< cards cols="1" >}}
-  {{< card link="https://github.com/everappz/app-store-keyword-optimizer/tree/main" title="appkeywords.pro on GitHub" icon="github" tag= "open source" >}}
+  {{< ls-card link="https://github.com/everappz/app-store-keyword-optimizer/tree/main" title="appkeywords.pro on GitHub" icon="github" tag= "open source" >}}
 {{< /cards >}}
 
 ---
 
 ## Întrebări Frecvente
 
-{{% details title="AppKeywords.pro este cu adevărat gratuit?" closed="true" %}}
+{{% ls-details title="AppKeywords.pro este cu adevărat gratuit?" closed="true" %}}
 Da. Este un instrument complet open source, bazat pe browser, fără înregistrare, fără reclame și fără colectare de date. Metadatele dvs. nu părăsesc niciodată dispozitivul.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Funcționează acest instrument pentru mai multe localizări App Store?" closed="true" %}}
+{{% ls-details title="Funcționează acest instrument pentru mai multe localizări App Store?" closed="true" %}}
 Da. Puteți adăuga metadate pentru fiecare localizare independent, iar exportul include toate limbile într-un singur fișier JSON compatibil cu Fastlane.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Ar trebui să repet cuvintele cheie din titlu în câmpul de cuvinte cheie?" closed="true" %}}
+{{% ls-details title="Ar trebui să repet cuvintele cheie din titlu în câmpul de cuvinte cheie?" closed="true" %}}
 Nu. Apple indexează deja cuvintele din titlul și subtitlul dvs. Repetarea lor în câmpul de cuvinte cheie risipește caractere.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Cât de des ar trebui să actualizez cuvintele cheie App Store?" closed="true" %}}
+{{% ls-details title="Cât de des ar trebui să actualizez cuvintele cheie App Store?" closed="true" %}}
 Revizuiți și reîmprospătați cuvintele cheie cel puțin o dată pe trimestru. Ajustați mai devreme dacă observați scăderi de clasament sau schimbări sezoniere în comportamentul de căutare.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Pot folosi acest instrument cu Fastlane?" closed="true" %}}
+{{% ls-details title="Pot folosi acest instrument cu Fastlane?" closed="true" %}}
 Da. Repo-ul GitHub include scripturi shell pentru a converti între structura de foldere de metadate a Fastlane și formatul JSON folosit de AppKeywords.pro.
-{{% /details %}}
+{{% /ls-details %}}

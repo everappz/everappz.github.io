@@ -17,7 +17,7 @@ Il Lettore è la schermata principale dell'applicazione dove puoi controllare la
 ## Accesso al Lettore
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Schermata Lettore Audio Evermusic" image="/docs/guide/evermusic/evermusic-guide-player/img/player-main.webp" >}}
+  {{< ls-card title="" subtitle="Schermata Lettore Audio Evermusic" image="/docs/guide/evermusic/evermusic-guide-player/img/player-main.webp" >}}
 {{< /cards >}}
 
 Puoi accedere al lettore a schermo intero dalla visualizzazione mini-player. Su iPhone, troverai il mini player sopra la barra schede nella schermata principale. Su iPad o Mac, è accessibile dal menu sinistro. Per nascondere il mini player, tocca la sua icona e scorri verso il basso. Per nascondere completamente il lettore a schermo intero, tocca semplicemente il pulsante di chiusura situato nell'angolo in basso a destra.
@@ -44,7 +44,7 @@ Se sei dell'umore giusto per un po' di casualità, l'opzione "Mescola" è quella
 ## Controllo Volume
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Controllo Volume con AirPlay e Google Cast" image="/docs/guide/evermusic/evermusic-guide-player/img/player-volume-control.webp" >}}
+  {{< ls-card title="" subtitle="Controllo Volume con AirPlay e Google Cast" image="/docs/guide/evermusic/evermusic-guide-player/img/player-volume-control.webp" >}}
 {{< /cards >}}
 
 Trova il cursore del volume nella schermata Impostazioni Audio toccando l'icona del suono sotto i controlli di riproduzione. Puoi cambiare il volume usando questo cursore o i pulsanti del volume standard sul tuo dispositivo. Troverai anche alcuni utili pulsanti di streaming:
@@ -63,7 +63,7 @@ D'altra parte, se preferisci AirPlay, cerca il pulsante AirPlay nella parte infe
 ## Equalizzatore Audio
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Equalizzatore Audio a 10 Bande" image="/docs/guide/evermusic/evermusic-guide-player/img/player-equalizer.webp" >}}
+  {{< ls-card title="" subtitle="Equalizzatore Audio a 10 Bande" image="/docs/guide/evermusic/evermusic-guide-player/img/player-equalizer.webp" >}}
 {{< /cards >}}
 
 Evermusic è dotato di un equalizzatore a 10 bande, completo di preset in stile iPod, un preamplificatore e impostazioni manuali dell'equalizzatore. Per attivare l'equalizzatore, tocca semplicemente il pulsante "Equalizzatore" nella barra degli strumenti inferiore e attiva il controllo dell'interruttore nell'angolo in alto a destra. Puoi selezionare da una serie di preset dell'equalizzatore predefiniti come "Acustico", "Bass Booster", "Classico" e altro ancora. Se sei un appassionato di audio, apprezzerai la possibilità di regolare con precisione ogni banda di frequenza usando i cursori. Puoi creare e salvare i tuoi preset dell'equalizzatore audio. Se un brano non è abbastanza forte, puoi anche regolare il guadagno del preamplificatore. Abbiamo istruzioni più dettagliate su come usare l'equalizzatore [qui](/docs/howto/how-to-use-the-audio-equalizer-on-your-iphone-ipad-mac-with-evermusic-and-flacbox).
@@ -71,7 +71,7 @@ Evermusic è dotato di un equalizzatore a 10 bande, completo di preset in stile 
 ## Barra degli Strumenti Modalità Lettore
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Barra degli Strumenti Superiore del Lettore con Ricerca e Velocità" image="/docs/guide/evermusic/evermusic-guide-player/img/player-top-toolbar.webp" >}}
+  {{< ls-card title="" subtitle="Barra degli Strumenti Superiore del Lettore con Ricerca e Velocità" image="/docs/guide/evermusic/evermusic-guide-player/img/player-top-toolbar.webp" >}}
 {{< /cards >}}
 
 Per alcuni stili di schermata del lettore troverai una barra degli strumenti modalità lettore nella parte superiore della schermata del lettore, appena sotto la barra di navigazione. Questa pratica barra degli strumenti contiene tre pulsanti.
@@ -82,7 +82,7 @@ Per alcuni stili di schermata del lettore troverai una barra degli strumenti mod
 ## Segnalibri Audio
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Segnalibri Audio per Audiolibri e Lezioni" image="/docs/guide/evermusic/evermusic-guide-player/img/player-bookmarks.webp" >}}
+  {{< ls-card title="" subtitle="Segnalibri Audio per Audiolibri e Lezioni" image="/docs/guide/evermusic/evermusic-guide-player/img/player-bookmarks.webp" >}}
 {{< /cards >}}
 
 Qui puoi creare più segnalibri per i brani nella tua libreria musicale. Abbiamo una guida completa su come usare i segnalibri [qui](/docs/howto/how-to-listen-to-audiobooks-on-iphone-ipad-mac-using-evermusic).
@@ -90,7 +90,7 @@ Qui puoi creare più segnalibri per i brani nella tua libreria musicale. Abbiamo
 ## Coda del Lettore
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Coda del Lettore" image="/docs/guide/evermusic/evermusic-guide-player/img/player-queue.webp" >}}
+  {{< ls-card title="" subtitle="Coda del Lettore" image="/docs/guide/evermusic/evermusic-guide-player/img/player-queue.webp" >}}
 {{< /cards >}}
 
 Per accedere alla tua coda del lettore, tocca semplicemente il pulsante della coda del lettore situato nella barra degli strumenti inferiore. Per spostare una canzone nella coda, usa l'indicatore di riordinamento vicino al titolo.
@@ -98,7 +98,7 @@ Per accedere alla tua coda del lettore, tocca semplicemente il pulsante della co
 ## Commenti / Testi
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Commenti, Testi Incorporati e File LRC" image="/docs/guide/evermusic/evermusic-guide-player/img/player-lyrics.webp" >}}
+  {{< ls-card title="" subtitle="Commenti, Testi Incorporati e File LRC" image="/docs/guide/evermusic/evermusic-guide-player/img/player-lyrics.webp" >}}
 {{< /cards >}}
 
 Per visualizzare i commenti del brano e i testi incorporati, nonché i file LRC, segui questi passaggi:
@@ -114,7 +114,7 @@ Abbiamo una guida completa su come visualizzare i testi [qui](/docs/howto/how-to
 ## Menu Opzioni
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Menu Opzioni per un Elemento della Coda" image="/docs/guide/evermusic/evermusic-guide-player/img/player-queue-item-options-menu.webp" >}}
+  {{< ls-card title="" subtitle="Menu Opzioni per un Elemento della Coda" image="/docs/guide/evermusic/evermusic-guide-player/img/player-queue-item-options-menu.webp" >}}
 {{< /cards >}}
 
 Ogni canzone nella tua coda del lettore audio ha un menu con altre azioni, a cui puoi accedere toccando il pulsante con i tre puntini vicino al titolo della canzone. Le azioni disponibili sono:
@@ -153,7 +153,7 @@ Tocca il pulsante altre azioni "..." sul lato sinistro del titolo della canzone 
 ## Recenti e Preferiti
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Canzoni Riprodotte di Recente dal Lettore" image="/docs/guide/evermusic/evermusic-guide-player/img/player-recents.webp" >}}
+  {{< ls-card title="" subtitle="Canzoni Riprodotte di Recente dal Lettore" image="/docs/guide/evermusic/evermusic-guide-player/img/player-recents.webp" >}}
 {{< /cards >}}
 
 Nella schermata del lettore, puoi accedere alle sezioni 'Recenti' e 'Preferiti' toccando il pulsante Altre Azioni '…' e selezionando la voce di menu corrispondente. In entrambe le sezioni, puoi cercare canzoni, riprodurre tutti i brani, mescolare tutti i brani, esportare l'elenco ed eliminare l'elenco. Abbiamo istruzioni dettagliate su come esportare gli elenchi di canzoni [qui](/docs/howto/export-tracks-collection-from-evermusic-flacbox-to-m3u-csv-txt/).
@@ -161,7 +161,7 @@ Nella schermata del lettore, puoi accedere alle sezioni 'Recenti' e 'Preferiti' 
 ## Finestra Mini Player (Solo Mac)
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Finestra Mini Player Mac" image="/docs/guide/evermusic/evermusic-guide-player/img/player-mini-mac.webp" >}}
+  {{< ls-card title="" subtitle="Finestra Mini Player Mac" image="/docs/guide/evermusic/evermusic-guide-player/img/player-mini-mac.webp" >}}
 {{< /cards >}}
 
 Per gli utenti Mac, c'è una comoda finestra mini-player. Per accedervi, sposta semplicemente il cursore sul bordo in basso a destra della finestra dell'app e ridimensionala alla dimensione più piccola possibile. Quindi, tocca il pulsante di riduzione (raffigurato come una freccia verso il basso) per attivare la finestra del mini-player. Se vuoi mantenerla sopra le altre finestre, vai alla barra dei menu superiore del tuo Mac, seleziona 'Finestra' e scegli 'Mostra finestra sempre in primo piano.' Questa funzione è particolarmente comoda quando stai ascoltando lezioni audio e non vuoi interruzioni.
@@ -169,7 +169,7 @@ Per gli utenti Mac, c'è una comoda finestra mini-player. Per accedervi, sposta 
 ## Scorciatoie da Tastiera (Solo Mac)
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Menu di Riproduzione nella Barra di Stato Mac con Scorciatoie da Tastiera" image="/docs/guide/evermusic/evermusic-guide-player/img/player-mac-shortcuts.webp" >}}
+  {{< ls-card title="" subtitle="Menu di Riproduzione nella Barra di Stato Mac con Scorciatoie da Tastiera" image="/docs/guide/evermusic/evermusic-guide-player/img/player-mac-shortcuts.webp" >}}
 {{< /cards >}}
 
 Per gli utenti Mac, è disponibile un menu di riproduzione di sistema nella barra di stato con scorciatoie da tastiera. Ad esempio, per Riprodurre/Mettere in pausa, premi semplicemente la barra spaziatrice sulla tastiera. Le scorciatoie per Stop, Canzone Successiva, Canzone Precedente, Salta Tempo, Ripeti, Mescola e Velocità di Riproduzione sono disponibili come mostrato nello screenshot.
@@ -177,7 +177,7 @@ Per gli utenti Mac, è disponibile un menu di riproduzione di sistema nella barr
 ## Impostazioni del Lettore Audio
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Impostazioni del Lettore Audio" image="/docs/guide/evermusic/evermusic-guide-player/img/player-settings.webp" >}}
+  {{< ls-card title="" subtitle="Impostazioni del Lettore Audio" image="/docs/guide/evermusic/evermusic-guide-player/img/player-settings.webp" >}}
 {{< /cards >}}
 
 Per accedere alle impostazioni del lettore audio, tocca il pulsante Altro nella schermata del lettore audio e seleziona "Impostazioni" dal menu a discesa. Qui troverai varie sezioni raggruppate per funzionalità:

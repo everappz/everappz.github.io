@@ -7,7 +7,7 @@ tags: ["Evermusic", "Phát liền mạch", "Hướng dẫn", "Âm thanh", "Phát
 readingTime: 4
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 **Tóm tắt nhanh:** Mở **Cài đặt > Trình phát âm thanh > Phát liền mạch** và gạt công tắc sang **BẬT**. Từ đó trở đi, các bài hát phát mà không có khoảng dừng, tiếng lách cách hay tiếng tích giữa chúng. Evermusic nạp bộ đệm trước và giải mã bài kế tiếp trong khi bài hiện tại vẫn đang phát, rồi chuyển giao giữa các mẫu âm thanh trên một bộ đệm liên tục, nên quá trình chuyển tiếp thực sự liền mạch. Đây là phát liền mạch thực sự, chính xác đến từng mẫu, không phải hiệu ứng chuyển tiếp mờ dần.
 
@@ -73,30 +73,30 @@ Kết quả là một album trực tiếp, một set DJ khớp nhịp hay một 
 
 ## Câu hỏi thường gặp
 
-{{% details title="Làm thế nào để bật phát liền mạch trong Evermusic?" closed="true" %}}
+{{% ls-details title="Làm thế nào để bật phát liền mạch trong Evermusic?" closed="true" %}}
 Mở Evermusic, vào Cài đặt > Trình phát âm thanh > Phát liền mạch và gạt công tắc sang BẬT. Tính năng mặc định tắt. Khi đã bật, nó áp dụng cho mọi thứ bạn phát và luôn bật cho đến khi bạn tắt.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Phát liền mạch của Evermusic là liền mạch thực sự hay chỉ là chuyển tiếp mờ dần?" closed="true" %}}
+{{% ls-details title="Phát liền mạch của Evermusic là liền mạch thực sự hay chỉ là chuyển tiếp mờ dần?" closed="true" %}}
 Đây là phát liền mạch thực sự, chính xác đến từng mẫu. Evermusic giải mã và nạp bộ đệm trước bài kế tiếp trong khi bài hiện tại đang phát, rồi chuyển giao giữa các mẫu âm thanh trên một bộ đệm liên tục, nên không có khoảng lặng, tiếng lách cách hay phần đệm nào được chèn vào và không có khoảng trống do khởi động lại bộ giải mã. Chuyển tiếp mờ dần là một tính năng riêng, khác biệt, chồng lấn và hòa trộn các bài; phát liền mạch giữ nguyên âm thanh đúng như khi master và chỉ loại bỏ khoảng trống.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Vì sao tôi vẫn nghe thấy khoảng trống giữa một số bài?" closed="true" %}}
+{{% ls-details title="Vì sao tôi vẫn nghe thấy khoảng trống giữa một số bài?" closed="true" %}}
 Hãy chắc chắn rằng phát liền mạch đã BẬT trong Cài đặt > Trình phát âm thanh > Phát liền mạch. Nếu vẫn còn khoảng trống, có thể nó đã có sẵn trong bản ghi (một số tệp có vài giây im lặng thật ở đầu hoặc cuối bài). Phát liền mạch loại bỏ khoảng trống mà trình phát thường thêm vào giữa các bài; nó không thể loại bỏ khoảng lặng vốn là một phần của tệp âm thanh.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Phát liền mạch có hoạt động với FLAC và các tệp lossless khác không?" closed="true" %}}
+{{% ls-details title="Phát liền mạch có hoạt động với FLAC và các tệp lossless khác không?" closed="true" %}}
 Có. Phát liền mạch hoạt động với FLAC, Apple Lossless (ALAC) và các định dạng lossy như MP3 và AAC, dù tệp được lưu cục bộ, trên đám mây hay trên máy chủ phương tiện.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Tôi có thể dùng phát liền mạch và chuyển tiếp mờ dần cùng lúc không?" closed="true" %}}
+{{% ls-details title="Tôi có thể dùng phát liền mạch và chuyển tiếp mờ dần cùng lúc không?" closed="true" %}}
 Không. Chúng làm điều trái ngược nhau, nên bật phát liền mạch sẽ tự động tắt chuyển tiếp mờ dần. Dùng phát liền mạch cho album trực tiếp, bản phối DJ và đĩa concept nơi âm thanh cần được giữ nguyên chính xác; dùng chuyển tiếp mờ dần nếu bạn muốn các bài mờ dần vào nhau.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Phát liền mạch có hoạt động khi phát trực tuyến từ đám mây không?" closed="true" %}}
+{{% ls-details title="Phát liền mạch có hoạt động khi phát trực tuyến từ đám mây không?" closed="true" %}}
 Có. Evermusic bắt đầu nạp bộ đệm và giải mã bài kế tiếp sớm, kể cả với ổ đám mây và máy chủ phương tiện, nên việc chuyển giao vẫn liền mạch. Với kết nối chậm hơn, nó chỉ đơn giản bắt đầu chuẩn bị bài kế tiếp sớm hơn một chút.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Phát liền mạch có làm giảm chất lượng âm thanh không?" closed="true" %}}
+{{% ls-details title="Phát liền mạch có làm giảm chất lượng âm thanh không?" closed="true" %}}
 Không. Phát liền mạch không mã hóa lại hay xử lý âm thanh của bạn. Nó chỉ thay đổi cách các bài được lên lịch và nạp bộ đệm để không có khoảng trống giữa chúng. Từng mẫu được phát đúng như trong tệp.
-{{% /details %}}
+{{% /ls-details %}}

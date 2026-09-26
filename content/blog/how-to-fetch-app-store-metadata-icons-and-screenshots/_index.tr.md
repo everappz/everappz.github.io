@@ -23,7 +23,7 @@ authors:
     image: "/images/about/artem-meleshko-founder-everappz.webp"
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 ## Saniyeler İçinde App Store Verisi Alın
 
@@ -134,53 +134,53 @@ App Store verilerini incelemek için API anahtarına, geliştirici hesabına vey
 AppLookup.pro açık kaynaktır. Hata raporları, ülke eklemeleri ve pull request'ler memnuniyetle karşılanır.
 
 {{< cards cols="1" >}}
-  {{< card link="https://github.com/everappz/AppStoreLookup" title="GitHub'da AppLookup.pro" icon="github" tag="açık kaynak" >}}
+  {{< ls-card link="https://github.com/everappz/AppStoreLookup" title="GitHub'da AppLookup.pro" icon="github" tag="açık kaynak" >}}
 {{< /cards >}}
 
 ---
 
 ## Sıkça Sorulan Sorular
 
-{{% details title="AppLookup.pro gerçekten ücretsiz mi?" closed="true" %}}
+{{% ls-details title="AppLookup.pro gerçekten ücretsiz mi?" closed="true" %}}
 Evet. AppLookup.pro yüzde 100 ücretsiz ve açık kaynaktır. Tarayıcınızda çalışır. Kayıt yoktur, ücretli katman yoktur ve Apple'ın kendi iTunes Search API sınırlarının ötesinde kullanım sınırı yoktur.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Veriler nereden geliyor?" closed="true" %}}
+{{% ls-details title="Veriler nereden geliyor?" closed="true" %}}
 Her sonuç, Apple'ın resmi [iTunes Search API](https://developer.apple.com/library/archive/documentation/AudioVideo/Conceptual/iTuneSearchAPI/index.html) sayfasından gerçek zamanlı olarak alınır. Araç App Store sayfalarını scrape etmez ve yanıtları herhangi bir sunucuda önbelleğe almaz.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Uygulama simgesini yüksek çözünürlükte indirebilir miyim?" closed="true" %}}
+{{% ls-details title="Uygulama simgesini yüksek çözünürlükte indirebilir miyim?" closed="true" %}}
 Evet. **App Icon** bölümü, Apple'ın döndürdüğü her simge URL'sini gösterir. Her kartta bir Direct Link ve bir Download düğmesi vardır ve bir Download All Icons ZIP düğmesi onları tek bir arşivde paketler.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Tüm App Store ekran görüntülerini bir kerede indirebilir miyim?" closed="true" %}}
+{{% ls-details title="Tüm App Store ekran görüntülerini bir kerede indirebilir miyim?" closed="true" %}}
 Evet. Her ekran görüntüsü bölümünde (iPhone, iPad, macOS ve Apple TV) her ekran görüntüsünü tam çözünürlükte paketleyen bir **Download All (ZIP)** düğmesi vardır.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Bir uygulamanın başka bir ülkede nasıl göründüğünü nasıl görürüm?" closed="true" %}}
+{{% ls-details title="Bir uygulamanın başka bir ülkede nasıl göründüğünü nasıl görürüm?" closed="true" %}}
 Sayfanın üstündeki açılır menüden bir ülke seçin. 40'tan fazla mağaza desteklenmektedir. Tekrar **Lookup** tıklayın ve araç o ülke için uygulamayı yeniden alır, yerelleştirilmiş başlığı, açıklamayı, ekran görüntülerini, sürüm yeniliklerini ve fiyatı gösterir.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Bundle ID veya yayın tarihi gibi tek alanları kopyalayabilir miyim?" closed="true" %}}
+{{% ls-details title="Bundle ID veya yayın tarihi gibi tek alanları kopyalayabilir miyim?" closed="true" %}}
 Evet. Sonuçtaki her metin alanının kendi Copy düğmesi vardır: uygulama adı, geliştirici, açıklama, sürüm yenilikleri, bundle ID, sürüm, fiyat, dosya boyutu, minimum işletim sistemi, yayın tarihi, içerik derecelendirmesi, diller, desteklenen cihazlar ve ham JSON.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="AppLookup.pro herhangi bir iOS uygulaması için çalışır mı?" closed="true" %}}
+{{% ls-details title="AppLookup.pro herhangi bir iOS uygulaması için çalışır mı?" closed="true" %}}
 En az bir App Store ülkesinde herkese açık olarak listelenen ve iTunes Search API tarafından döndürülen herhangi bir uygulama için çalışır. Listelenmemiş, kaldırılmış veya kurumsal olarak dağıtılan uygulamalar görünmez.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="macOS ve Apple TV uygulamalarını destekliyor mu?" closed="true" %}}
+{{% ls-details title="macOS ve Apple TV uygulamalarını destekliyor mu?" closed="true" %}}
 Evet. Uygulamanın iTunes Search API yanıtında macOS veya Apple TV ekran görüntüleri varsa, AppLookup.pro bunları kendi kaydırılabilir panelinde indirme düğmeleriyle gösterir.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Ham JSON'u kendi kodumda kullanabilir miyim?" closed="true" %}}
+{{% ls-details title="Ham JSON'u kendi kodumda kullanabilir miyim?" closed="true" %}}
 Evet. Raw API Response bölümü, Apple'ın döndürdüğü tam JSON'u gösterir. Postman'e, bir birim testine veya bir backend pipeline'a kopyalayın. Lütfen Apple'ın API şartlarına ve makul hız sınırlarına saygı gösterin.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="App Store URL'lerini araca yapıştırmak güvenli mi?" closed="true" %}}
+{{% ls-details title="App Store URL'lerini araca yapıştırmak güvenli mi?" closed="true" %}}
 Evet. URL tarayıcınızda ayrıştırılır. Tek giden ağ çağrısı Apple'ın iTunes Search API'sine yapılan aramadır.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="AppLookup.pro ile AppKeywords.pro arasındaki fark nedir?" closed="true" %}}
+{{% ls-details title="AppLookup.pro ile AppKeywords.pro arasındaki fark nedir?" closed="true" %}}
 [AppLookup.pro](https://applookup.pro), yayınlanmış herhangi bir uygulamanın App Store meta verilerini okumak içindir: rakip araştırması, materyal indirme, yerelleştirme kontrolleri. [AppKeywords.pro](https://appkeywords.pro), kendi uygulamanız için App Store meta verilerini yazmak içindir: Fastlane desteğiyle başlık, alt başlık ve anahtar kelime optimizasyonu. İki araç birlikte iyi çalışır.
-{{% /details %}}
+{{% /ls-details %}}

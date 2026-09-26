@@ -12,7 +12,7 @@ authors:
     image: "/images/about/artem-meleshko-founder-everappz.webp"
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 **Tóm tắt:** Trình phát nhạc iPhone tốt nhất phụ thuộc vào nhu cầu của bạn. **Evermusic** lý tưởng cho việc phát nhạc từ lưu trữ đám mây và linh hoạt về định dạng. **Apple Music** phù hợp với những ai gắn bó sâu với hệ sinh thái Apple. **Spotify** xuất sắc trong việc khám phá nhạc. **VLC** xử lý mọi định dạng tệp miễn phí. **Amazon Music** kết hợp tốt với Alexa và Prime.
 
@@ -128,22 +128,22 @@ Amazon Music tích hợp với hệ sinh thái Amazon, cung cấp điều khiể
 
 ## Câu hỏi thường gặp
 
-{{% details title="Trình phát nhạc miễn phí tốt nhất cho iPhone là gì?" closed="true" %}}
+{{% ls-details title="Trình phát nhạc miễn phí tốt nhất cho iPhone là gì?" closed="true" %}}
 Để phát tệp của riêng bạn, Evermusic và VLC đều là các lựa chọn miễn phí. Evermusic bổ sung tích hợp lưu trữ đám mây, trong khi VLC hỗ trợ nhiều định dạng tệp nhất.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Tôi có thể phát tệp FLAC trên iPhone không?" closed="true" %}}
+{{% ls-details title="Tôi có thể phát tệp FLAC trên iPhone không?" closed="true" %}}
 Có. Evermusic và VLC đều hỗ trợ phát FLAC trên iPhone. Apple Music và Spotify không phát trực tiếp tệp FLAC.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Ứng dụng nghe nhạc nào hoạt động với lưu trữ đám mây?" closed="true" %}}
+{{% ls-details title="Ứng dụng nghe nhạc nào hoạt động với lưu trữ đám mây?" closed="true" %}}
 Evermusic là trình phát nhạc iPhone hàng đầu với hỗ trợ lưu trữ đám mây tích hợp. Nó kết nối với iCloud Drive, Dropbox, Google Drive, OneDrive, pCloud và các dịch vụ khác.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Evermusic có tốt hơn Apple Music không?" closed="true" %}}
+{{% ls-details title="Evermusic có tốt hơn Apple Music không?" closed="true" %}}
 Chúng phục vụ các mục đích khác nhau. Evermusic phát tệp nhạc của riêng bạn từ lưu trữ đám mây và lưu trữ cục bộ. Apple Music là dịch vụ phát trực tuyến đăng ký với danh mục 100M+ bài hát. Nếu bạn sở hữu tệp nhạc, Evermusic là lựa chọn tốt hơn.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Tôi có thể dùng Spotify ngoại tuyến trên iPhone không?" closed="true" %}}
+{{% ls-details title="Tôi có thể dùng Spotify ngoại tuyến trên iPhone không?" closed="true" %}}
 Có, nhưng chỉ với đăng ký Spotify Premium. Người dùng Spotify miễn phí không thể tải bài hát để phát ngoại tuyến.
-{{% /details %}}
+{{% /ls-details %}}

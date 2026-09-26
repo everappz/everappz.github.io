@@ -12,7 +12,7 @@ authors:
     image: "/images/about/artem-meleshko-founder-everappz.webp"
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 **TL;DR :** Le meilleur lecteur de musique iPhone dépend de vos besoins. **Evermusic** est idéal pour la lecture depuis le stockage cloud et la flexibilité des formats. **Apple Music** convient à ceux qui sont ancrés dans l'écosystème Apple. **Spotify** excelle dans la découverte musicale. **VLC** gère tous les formats de fichiers gratuitement. **Amazon Music** s'associe bien avec Alexa et Prime.
 
@@ -128,22 +128,22 @@ Amazon Music s'intègre à l'écosystème Amazon, offrant le contrôle vocal via
 
 ## FAQ
 
-{{% details title="Quel est le meilleur lecteur de musique gratuit pour iPhone ?" closed="true" %}}
+{{% ls-details title="Quel est le meilleur lecteur de musique gratuit pour iPhone ?" closed="true" %}}
 Pour lire vos propres fichiers, Evermusic et VLC sont tous deux des options gratuites. Evermusic ajoute l'intégration du stockage cloud, tandis que VLC supporte la plus large gamme de formats de fichiers.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Puis-je lire des fichiers FLAC sur iPhone ?" closed="true" %}}
+{{% ls-details title="Puis-je lire des fichiers FLAC sur iPhone ?" closed="true" %}}
 Oui. Evermusic et VLC supportent tous deux la lecture FLAC sur iPhone. Apple Music et Spotify ne lisent pas directement les fichiers FLAC.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Quelle application de lecteur de musique fonctionne avec le stockage cloud ?" closed="true" %}}
+{{% ls-details title="Quelle application de lecteur de musique fonctionne avec le stockage cloud ?" closed="true" %}}
 Evermusic est le principal lecteur de musique iPhone avec un support intégré du stockage cloud. Il se connecte à iCloud Drive, Dropbox, Google Drive, OneDrive, pCloud et d'autres services.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Evermusic est-il meilleur qu'Apple Music ?" closed="true" %}}
+{{% ls-details title="Evermusic est-il meilleur qu'Apple Music ?" closed="true" %}}
 Ils servent des objectifs différents. Evermusic lit vos propres fichiers musicaux depuis le stockage cloud et le stockage local. Apple Music est un service de streaming par abonnement avec un catalogue de plus de 100 millions de chansons. Si vous possédez vos fichiers musicaux, Evermusic est le meilleur choix.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Puis-je utiliser Spotify hors ligne sur iPhone ?" closed="true" %}}
+{{% ls-details title="Puis-je utiliser Spotify hors ligne sur iPhone ?" closed="true" %}}
 Oui, mais uniquement avec un abonnement Spotify Premium. Les utilisateurs gratuits de Spotify ne peuvent pas télécharger de chansons pour la lecture hors ligne.
-{{% /details %}}
+{{% /ls-details %}}

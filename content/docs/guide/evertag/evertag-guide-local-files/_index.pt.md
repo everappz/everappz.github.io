@@ -18,7 +18,7 @@ A secção Ficheiros Locais serve como um centro para gerir ficheiros localizado
 Este gestor de ficheiros integrado permite-lhe editar ficheiros e oferece vários métodos para importar ficheiros de áudio para a aplicação. Os ficheiros que abriu recentemente aparecem automaticamente no separador **Recentes** e os itens que marcou com uma estrela aparecem em **Favoritos** — para que possa ir diretamente aos ficheiros com que trabalha mais sem ter de voltar a este ecrã.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evertag Downloads Screen" image="/docs/guide/evertag/img/downloads.webp" >}}
+  {{< ls-card title="" subtitle="Evertag Downloads Screen" image="/docs/guide/evertag/img/downloads.webp" >}}
 {{< /cards >}}
 
 ## Transferir ficheiros do armazenamento na nuvem
@@ -74,7 +74,7 @@ Mostra ficheiros e pastas armazenados no diretório Documentos da aplicação e 
 Mostra ficheiros localizados no seu dispositivo mas em aplicações diferentes. Pode importá-los para esta aplicação usando o seletor de ficheiros do sistema. Para ativar o seletor, escolha "Abrir ficheiros..." para selecionar ficheiros ou "Abrir pastas..." para selecionar pastas. Instruções detalhadas sobre como importar música local armazenada no seu iPhone ou Mac estão disponíveis [aqui](/docs/howto/how-to-play-local-music-stored-on-your-iphone-or-mac). Pode também ligar uma pasta localizada no seu dispositivo e ter acesso rápido ao conteúdo da pasta. Use o item de menu "Ligar uma pasta" e escolha uma pasta localizada no seu dispositivo. Toque em "Concluído" e a aplicação criará uma ligação para essa pasta com acesso de leitura/escrita, permitindo-lhe gerir ficheiros diretamente a partir desta aplicação. Para desligar uma pasta localizada no seu dispositivo, toque no botão "Mais Ações" e escolha "Desligar."
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evertag Import Files From My Device" image="/docs/guide/evertag/img/open-files.webp" >}}
+  {{< ls-card title="" subtitle="Evertag Import Files From My Device" image="/docs/guide/evertag/img/open-files.webp" >}}
 {{< /cards >}}
 
 ## Importar Ficheiros Localizados em Memorias USB Ligadas
@@ -86,7 +86,7 @@ Instruções detalhadas sobre como ligar uma memória USB ao seu iPhone e gerir 
 O menu Mais Ações para a pasta atualmente aberta está localizado no canto superior direito e fornece acesso a várias ações.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evertag Import Files From My Device" image="/docs/guide/evertag/img/downloads-current-folder-actions.webp" >}}
+  {{< ls-card title="" subtitle="Evertag Import Files From My Device" image="/docs/guide/evertag/img/downloads-current-folder-actions.webp" >}}
 {{< /cards >}}
 
 - **Selecionar:** Mude para o modo de seleção de ficheiros e pastas.  

@@ -7,7 +7,7 @@ tags: ["evermusic", "flacbox", "arkiv", "säkerhetskopiering", "exportera", "spe
 readingTime: 2
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **Sammanfattning:** Evermusic och Flacbox kan arkivera vilken spellista, album, artist eller genre som helst till en ZIP-fil med en M3U-spellista, albumomslag och alla ljudfiler. Överför ZIP-filen till en annan enhet, packa upp den och importera M3U för att återskapa spellistan direkt.
@@ -104,22 +104,22 @@ Genom att följa denna guide kan du effektivt arkivera och överföra dina spell
 
 ## Vanliga frågor
 
-{{% details title="Vad ingår i ZIP-arkivet?" closed="true" %}}
+{{% ls-details title="Vad ingår i ZIP-arkivet?" closed="true" %}}
 Arkivet innehåller alla ljudfiler, en M3U-spellistefil som bevarar spårordningen och spellistans albumomslag sparat som en separat bildfil.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Fungerar arkivering med molnfiler?" closed="true" %}}
+{{% ls-details title="Fungerar arkivering med molnfiler?" closed="true" %}}
 Ja. Appen laddar automatiskt ner alla molnlagrade filer innan de läggs till i arkivet. Du kan övervaka nedladdningsförloppet i sektionen för filöverföringar.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Kan jag också arkivera album, artister och genrer?" closed="true" %}}
+{{% ls-details title="Kan jag också arkivera album, artister och genrer?" closed="true" %}}
 Ja. Alternativet «Lägg till i arkiv» är tillgängligt för spellistor, album, artister och genrer. Processen är identisk för alla.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Hur överför jag arkivet till en annan enhet?" closed="true" %}}
+{{% ls-details title="Hur överför jag arkivet till en annan enhet?" closed="true" %}}
 Du kan ladda upp ZIP-filen till molnlagring (Google Drive, Dropbox osv.), använda AirDrop eller överföra trådlöst via den inbyggda Wi-Fi Drive-funktionen i Evermusic och Flacbox.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Kommer spellistans struktur att bevaras efter överföring?" closed="true" %}}
+{{% ls-details title="Kommer spellistans struktur att bevaras efter överföring?" closed="true" %}}
 Ja. M3U-filen lagrar spellistans struktur med relativa sökvägar. Efter uppackning på den nya enheten importerar du M3U-filen för att återskapa spellistan med alla spår i den ursprungliga ordningen.
-{{% /details %}}
+{{% /ls-details %}}

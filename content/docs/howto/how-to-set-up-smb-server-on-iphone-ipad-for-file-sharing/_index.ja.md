@@ -7,7 +7,7 @@ keywords: ["iPhone SMB サーバー", "iPad SMB サーバー", "iPhone で SMB �
 readingTime: 10
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 SMB は macOS、Windows、Linux、そしてほぼすべてのネットワークドライブ (NAS) に組み込まれたファイル共有のしくみです。別のパソコンの共有フォルダーに接続したときに、Finder やエクスプローラーで普通のディスクのように開けるのは、SMB が働いているからです。[Everdisk](/products/everdisk) を使えば、iPhone や iPad に SMB 共有を置けるので、スマホ自体が、他のデバイスから閲覧・コピー元・コピー先として使えるネットワークドライブとして表示されます。
 
@@ -136,44 +136,44 @@ SMB は、すべての転送を暗号化できる唯一の Everdisk 接続です
 
 ## よくある質問
 
-{{% details title="iPhone の SMB アドレスとポートは何ですか?" closed="true" %}}
+{{% ls-details title="iPhone の SMB アドレスとポートは何ですか?" closed="true" %}}
 共有を開始すると、Everdisk が共有画面にアドレスを表示します。smb://192.168.1.20:4455/Share のような形です。4455 は Everdisk が SMB に使うポートで、Share は共有フォルダーの名前です。最初の部分は Wi-Fi 上での iPhone のアドレスなので、あなたの場合は異なります。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Windows から iPhone の SMB 共有に接続できますか?" closed="true" %}}
+{{% ls-details title="Windows から iPhone の SMB 共有に接続できますか?" closed="true" %}}
 Windows のエクスプローラーは標準ポートの SMB にしか接続できず、パスにカスタムポートを受け付けませんが、Everdisk はポート 4455 を使います。そのため、単純なネットワークドライブの割り当てでは届かないことがよくあります。カスタムポートを設定できるファイルマネージャーを使うか、代わりに WebDAV、FTP、ブラウザリンクで Windows から接続してください。これらはすべてポートの問題なく Windows から動きます。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="SMB で 2 台の iPhone の間でファイルを共有するにはどうしますか?" closed="true" %}}
+{{% ls-details title="SMB で 2 台の iPhone の間でファイルを共有するにはどうしますか?" closed="true" %}}
 1 台目の iPhone で Everdisk の SMB サーバーを開始します。2 台目の iPhone でファイルアプリを開き、その他ボタンをタップして、サーバへ接続を選び、Everdisk に表示された smb アドレス (例: smb://192.168.1.20:4455/Share) を入力します。ゲストまたはログインで接続すると、共有がファイルに表示されます。2 台目のスマホで Everdisk 自身のデバイスタブを使うこともできます。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="iPhone は Mac の Finder のサイドバーに自動的に表示されますか?" closed="true" %}}
+{{% ls-details title="iPhone は Mac の Finder のサイドバーに自動的に表示されますか?" closed="true" %}}
 たいていは表示されます。Everdisk は Wi-Fi 上で SMB 共有を告知するので、iPhone は Finder のサイドバーの場所やネットワークの下によく表示されます。それをクリックして別名で接続を選び、ゲストまたはログインを選びます。表示されない場合は、移動、サーバへ接続で完全な smb アドレスを使って手動で接続してください。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="SMB を使うのにパスワードは必要ですか?" closed="true" %}}
+{{% ls-details title="SMB を使うのにパスワードは必要ですか?" closed="true" %}}
 いいえ、ログインは任意です。ゲストアクセスを許可するには、設定、共有、アクセスでログインとパスワードを空のままにしてください。接続にサインインさせたい場合は設定します。ログインとパスワードが必須になるのは、SMB 暗号化を必須にするをオンにしたときだけです。暗号化された接続は匿名にできないためです。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="SMB 接続は暗号化されていますか?" closed="true" %}}
+{{% ls-details title="SMB 接続は暗号化されていますか?" closed="true" %}}
 暗号化できます。SMB は暗号化に対応する唯一の Everdisk 接続です。ログインとパスワードを設定してから、設定、共有で SMB 暗号化を必須にするをオンにします。すると、すべての転送が SMB3 (AES) で保護されます。相手のデバイスは SMB3 に対応している必要があり、最新の Mac や Windows 10 以降は対応しています。暗号化は Premium 機能です。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="SMB 経由で私のファイルを変更したり削除したりされることはありますか?" closed="true" %}}
+{{% ls-details title="SMB 経由で私のファイルを変更したり削除したりされることはありますか?" closed="true" %}}
 許可した場合のみです。設定、共有、アクセスのファイルの編集スイッチがこれを制御します。オンにすると、接続したデバイスはアップロード・名前の変更・削除ができます。オフにすると、共有は読み取り専用になり、相手は閲覧とスマホからのファイルのコピーはできますが、何も変更できません。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="SMB 接続が切れたのはなぜですか?" closed="true" %}}
+{{% ls-details title="SMB 接続が切れたのはなぜですか?" closed="true" %}}
 iPhone がサーバーで、iOS はバックグラウンドに長く留まったアプリを一時停止します。デバイスが接続している間は Everdisk を画面に開いたままにし、長時間の転送中はスマホを電源につないでください。また、両方のデバイスが同じ Wi-Fi にとどまっていることも確認してください。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="SMB、WebDAV、FTP のどれを使うべきですか?" closed="true" %}}
+{{% ls-details title="SMB、WebDAV、FTP のどれを使うべきですか?" closed="true" %}}
 Mac、別の iPhone、Linux、NAS でスマホを本物のネットワークドライブのように動かしたいときや、暗号化したいときは SMB を使います。Windows からもうまく動くネットワークドライブがほしいときは WebDAV を使います。古いデバイスやアプリとの幅広い互換性がほしいときは FTP を使います。Everdisk はこれらすべてを同時に動かせるので、1 つに縛られることはありません。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Everdisk は無料ですか?" closed="true" %}}
+{{% ls-details title="Everdisk は無料ですか?" closed="true" %}}
 はい。Everdisk は無料でダウンロードでき、SMB サーバーも含まれています。任意の買い切りの Premium 購入で、SMB 暗号化、カスタムポート、その他いくつかの追加機能が使えます。お支払いなしで SMB を設定してファイルを共有できます。
-{{% /details %}}
+{{% /ls-details %}}
 
 試してみませんか? [App Store から Everdisk をダウンロード](https://apps.apple.com/app/apple-store/id6751851132?pt=95781850&ct=everappzcom&mt=8)して、約 1 分で iPhone を Finder で開いてみましょう。ご質問やご意見は **support@everappz.com** までメールでお寄せください。

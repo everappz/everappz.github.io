@@ -3,7 +3,9 @@ date: '2025-06-12T17:00:00+00:00'
 title: 'Brukerstøtte'
 ---
 
-{{< lottie src="/images/juicy-json/juicy-girl-is-working-on-laptop-at-a-remote-job.json" width="80%" >}}
+{{< ls-lottie src="/images/juicy-json/juicy-girl-is-working-on-laptop-at-a-remote-job.json" width="80%" >}}
+
+{{< ls-docs-search >}}
 
 ## Trenger du hjelp? Vi er her for deg
 
@@ -19,9 +21,9 @@ Ved å kontakte oss bekrefter du at du har lest og godtar vår [Personvernerklæ
 For å spare tid og få umiddelbare svar, sjekk gjerne våre mest nyttige ressurser. Mange vanlige spørsmål er allerede dekket:
 
 {{< cards >}}
-  {{< card icon="book-open" link="/docs/guide" title="Brukerveiledning" >}}
-  {{< card icon="question-mark-circle" link="/docs/faq" title="Ofte stilte spørsmål" >}}
-  {{< card icon="light-bulb" link="/docs/howto" title="Slik gjør du det" >}}
+  {{< ls-card icon="book-open" link="/docs/guide" title="Brukerveiledning" >}}
+  {{< ls-card icon="question-mark-circle" link="/docs/faq" title="Ofte stilte spørsmål" >}}
+  {{< ls-card icon="light-bulb" link="/docs/howto" title="Slik gjør du det" >}}
 {{< /cards >}}
 
 Disse veiledningene er laget for å hjelpe deg å få mest mulig ut av appene våre — fra oppsett til avanserte funksjoner.

@@ -71,20 +71,20 @@ Flacbox هو مشغّل موسيقى عالي الدقة لأجهزة iPhone وi
 
 {{< cards cols="2">}}
 
-{{< card icon="map" link="/docs/guide/flacbox/flacbox-guide-navigation" title="التنقل" subtitle="شريط التبويبات على iPhone، القائمة الجانبية على iPad وMac، المشغّل المصغّر، عناصر الواجهة، CarPlay." >}}
+{{< ls-card icon="map" link="/docs/guide/flacbox/flacbox-guide-navigation" title="التنقل" subtitle="شريط التبويبات على iPhone، القائمة الجانبية على iPad وMac، المشغّل المصغّر، عناصر الواجهة، CarPlay." >}}
 
-{{< card icon="cloud" link="/docs/guide/flacbox/flacbox-guide-connections" title="الاتصالات" subtitle="iCloud وGoogle Drive وDropbox وOneDrive وNAS وWebDAV وSMB وDLNA." >}}
+{{< ls-card icon="cloud" link="/docs/guide/flacbox/flacbox-guide-connections" title="الاتصالات" subtitle="iCloud وGoogle Drive وDropbox وOneDrive وNAS وWebDAV وSMB وDLNA." >}}
 
-{{< card icon="collection" link="/docs/guide/flacbox/flacbox-guide-music-library" title="مكتبة الموسيقى" subtitle="الأغاني والألبومات والفنانون والأنواع والملحّنون — مزامنة وبحث وتحرير بيانات وصفية." >}}
+{{< ls-card icon="collection" link="/docs/guide/flacbox/flacbox-guide-music-library" title="مكتبة الموسيقى" subtitle="الأغاني والألبومات والفنانون والأنواع والملحّنون — مزامنة وبحث وتحرير بيانات وصفية." >}}
 
-{{< card icon="music-note" link="/docs/guide/flacbox/flacbox-guide-playlists" title="قوائم التشغيل" subtitle="إنشاء واستيراد M3U / M3U8 / CUE وإعادة الترتيب والتصدير إلى M3U / CSV / TXT." >}}
+{{< ls-card icon="music-note" link="/docs/guide/flacbox/flacbox-guide-playlists" title="قوائم التشغيل" subtitle="إنشاء واستيراد M3U / M3U8 / CUE وإعادة الترتيب والتصدير إلى M3U / CSV / TXT." >}}
 
-{{< card icon="folder" link="/docs/guide/flacbox/flacbox-guide-local-files" title="الملفات المحلية" subtitle="الموسيقى غير المتصلة ومحركات USB وWi-Fi Drive ومدير الملفات والمجلدات غير المتصلة." >}}
+{{< ls-card icon="folder" link="/docs/guide/flacbox/flacbox-guide-local-files" title="الملفات المحلية" subtitle="الموسيقى غير المتصلة ومحركات USB وWi-Fi Drive ومدير الملفات والمجلدات غير المتصلة." >}}
 
-{{< card icon="play" link="/docs/guide/flacbox/flacbox-guide-player" title="مشغّل الصوت" subtitle="إخراج عالي الدقة والمعادل وتصحيح النغمة والإشارات المرجعية وAirPlay وChromecast والسرعة ومؤقت النوم." >}}
+{{< ls-card icon="play" link="/docs/guide/flacbox/flacbox-guide-player" title="مشغّل الصوت" subtitle="إخراج عالي الدقة والمعادل وتصحيح النغمة والإشارات المرجعية وAirPlay وChromecast والسرعة ومؤقت النوم." >}}
 
-{{< card icon="adjustments" link="/docs/guide/flacbox/flacbox-guide-settings" title="الإعدادات" subtitle="محرك الصوت والمكتبة ومدير الملفات وCarPlay وعناصر الواجهة والتخصيص واللغة والنسخ الاحتياطي." >}}
+{{< ls-card icon="adjustments" link="/docs/guide/flacbox/flacbox-guide-settings" title="الإعدادات" subtitle="محرك الصوت والمكتبة ومدير الملفات وCarPlay وعناصر الواجهة والتخصيص واللغة والنسخ الاحتياطي." >}}
 
-{{< card icon="question-mark-circle" link="/docs/faq/flacbox" title="الأسئلة الشائعة" subtitle="اعثر على إجابات لأكثر 50 سؤالاً شائعاً حول Flacbox." >}}
+{{< ls-card icon="question-mark-circle" link="/docs/faq/flacbox" title="الأسئلة الشائعة" subtitle="اعثر على إجابات لأكثر 50 سؤالاً شائعاً حول Flacbox." >}}
 
 {{< /cards >}}

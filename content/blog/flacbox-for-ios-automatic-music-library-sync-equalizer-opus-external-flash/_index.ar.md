@@ -12,7 +12,7 @@ authors:
     image: "/images/about/artem-meleshko-founder-everappz.webp"
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 يقدم **Flacbox 1.6** ميزات رئيسية جديدة لمشغل موسيقى FLAC لـ iPhone وiPad.
 
@@ -68,18 +68,18 @@ Flacbox 1.6 متاح الآن على App Store. [حمّل Flacbox](https://itune
 
 ## الأسئلة الشائعة
 
-{{% details title="ما صيغ الصوت التي يدعمها Flacbox؟" closed="true" %}}
+{{% ls-details title="ما صيغ الصوت التي يدعمها Flacbox؟" closed="true" %}}
 يدعم Flacbox صيغ FLAC وALAC وMP3 وAAC وOGG وOPUS وWAV وAIFF وDSD وصيغ صوتية شائعة أخرى. جميع الصيغ تعمل مع المعادل المدمج.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="هل يمكنني تشغيل الموسيقى من بطاقة SD على iPhone؟" closed="true" %}}
+{{% ls-details title="هل يمكنني تشغيل الموسيقى من بطاقة SD على iPhone؟" closed="true" %}}
 نعم. صل بطاقة SD أو microSD باستخدام Lightning to SD Card Camera Reader Adapter. يكتشف Flacbox البطاقة تلقائياً ويتيح لك تصفح وتشغيل الملفات مباشرة من التخزين الخارجي.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="هل يزامن Flacbox مع التخزين السحابي تلقائياً؟" closed="true" %}}
+{{% ls-details title="هل يزامن Flacbox مع التخزين السحابي تلقائياً؟" closed="true" %}}
 نعم. بدءاً من الإصدار 1.6، يمكن لـ Flacbox مزامنة مكتبة الموسيقى تلقائياً من مجلدات السحابة. فعّل المزامنة التلقائية في الإعدادات وحدد المجلدات التي تريد مراقبتها.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="هل معادل الصوت في Flacbox قابل للتخصيص؟" closed="true" %}}
+{{% ls-details title="هل معادل الصوت في Flacbox قابل للتخصيص؟" closed="true" %}}
 نعم. يتيح لك معادل الصوت بـ 10 نطاقات ضبط مستويات الترددات الفردية بين -12 dB و+12 dB. يمكنك استخدام الإعدادات المسبقة أو حفظ إعداداتك المخصصة.
-{{% /details %}}
+{{% /ls-details %}}

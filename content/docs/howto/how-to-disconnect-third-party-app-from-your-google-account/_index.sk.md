@@ -7,7 +7,7 @@ tags: ["google", "bezpečnosť", "súkromie", "aplikácie", "účet", "prístup"
 readingTime: 2
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **Zhrnutie:** Prejdite na [myaccount.google.com](https://myaccount.google.com/) > Zabezpečenie > Aplikácie a služby tretích strán. Kliknite na aplikáciu, ktorú chcete odstrániť, a potom vyberte „Odstrániť prístup" alebo „Vymazať všetky pripojenia." Zopakujte pre každú aplikáciu.
@@ -75,18 +75,18 @@ Pamätajte, že hoci aplikácie tretích strán môžu vylepšiť váš digitál
 
 ## Často kladené otázky
 
-{{% details title="Vymaže odpojenie aplikácie moje údaje z tejto aplikácie?" closed="true" %}}
+{{% ls-details title="Vymaže odpojenie aplikácie moje údaje z tejto aplikácie?" closed="true" %}}
 Nie. Odstránenie prístupu iba zastaví aplikáciu v prístupe k vášmu účtu Google do budúcnosti. Údaje už zdieľané s aplikáciou môžu stále existovať na jej serveroch. Skontrolujte vlastné nastavenia súkromia aplikácie na vymazanie týchto údajov.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Môžem aplikáciu po odpojení znova pripojiť?" closed="true" %}}
+{{% ls-details title="Môžem aplikáciu po odpojení znova pripojiť?" closed="true" %}}
 Áno. Ak aplikáciu znova potrebujete, jednoducho sa prihláste pomocou Google, keď budete vyzvaní. Aplikácia znova požiada o oprávnenia a vy ich môžete skontrolovať pred udelením prístupu.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Ako často by som mal kontrolovať prístup aplikácií tretích strán?" closed="true" %}}
+{{% ls-details title="Ako často by som mal kontrolovať prístup aplikácií tretích strán?" closed="true" %}}
 Kontrolujte svoje pripojené aplikácie každých 3–6 mesiacov alebo ihneď po tom, ako prestanete používať nejakú službu. Pravidelné kontroly pomáhajú udržiavať váš účet v bezpečí.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Ovplyvní to aplikácie ako Evermusic, ktoré sa pripájajú ku Google Drive?" closed="true" %}}
+{{% ls-details title="Ovplyvní to aplikácie ako Evermusic, ktoré sa pripájajú ku Google Drive?" closed="true" %}}
 Áno. Ak odpojíte aplikáciu ako Evermusic alebo Flacbox od vášho účtu Google, stratí prístup k vašim súborom na Google Drive. Môžete sa znova pripojiť kedykoľvek priamo z aplikácie.
-{{% /details %}}
+{{% /ls-details %}}

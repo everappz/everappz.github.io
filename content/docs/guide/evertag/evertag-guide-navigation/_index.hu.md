@@ -16,7 +16,7 @@ readingTime: 3
 Az Evertag intuitív felhasználói felületet kínál. Ami megkülönbözteti a sok népszerű alkalmazástól, az a beépített fájlkezelő, amely lehetővé teszi a felhasználók számára az audio fájlok szerkesztését és zökkenőmentes átvitelét felhőtárolóba és onnan.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evertag képernyő" image="/docs/guide/evertag/img/tag-editor.webp" >}}
+  {{< ls-card title="" subtitle="Evertag képernyő" image="/docs/guide/evertag/img/tag-editor.webp" >}}
 {{< /cards >}}
 
 ## Szakaszok
@@ -42,7 +42,7 @@ A Helyi fájlok szakasz két kategóriára van osztva: **Az alkalmazás fájljai
 Szinte minden tartalom elem a képernyőn rendelkezik "További műveletek" gombbal. Koppintson rá az összes elérhető művelet eléréséhez.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evertag további műveletek" image="/docs/guide/evertag/img/downloads-file-actions.webp" >}}
+  {{< ls-card title="" subtitle="Evertag további műveletek" image="/docs/guide/evertag/img/downloads-file-actions.webp" >}}
 {{< /cards >}}
 
 ## Felső eszköztár

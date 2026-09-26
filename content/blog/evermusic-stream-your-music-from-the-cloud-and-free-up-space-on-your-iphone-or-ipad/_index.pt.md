@@ -12,7 +12,7 @@ authors:
     image: "/images/about/artem-meleshko-founder-everappz.webp"
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 ![](/blog/evermusic-stream-your-music-from-the-cloud-and-free-up-space-on-your-iphone-or-ipad/21260c_00c5356db3a24db6a6a37e353b774d56~mv2.jpg)
 
@@ -82,22 +82,22 @@ Navegue pela conta na nuvem conectada, abra uma pasta de música e toque em um a
 
 ## Perguntas frequentes
 
-{{% details title="O Evermusic é gratuito?" closed="true" %}}
+{{% ls-details title="O Evermusic é gratuito?" closed="true" %}}
 O Evermusic é gratuito para download com recursos premium opcionais. Transmissão básica na nuvem e reprodução offline estão disponíveis na versão gratuita.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Quais serviços de nuvem o Evermusic suporta?" closed="true" %}}
+{{% ls-details title="Quais serviços de nuvem o Evermusic suporta?" closed="true" %}}
 Google Drive, Dropbox, Box, OneDrive, MediaFire, MEGA, Yandex.Disk, pCloud, HiDrive, MyDrive, compartilhamentos de arquivos SMB e servidores WebDAV.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Posso ouvir música offline com o Evermusic?" closed="true" %}}
+{{% ls-details title="Posso ouvir música offline com o Evermusic?" closed="true" %}}
 Sim. Baixe qualquer álbum, artista, playlist ou faixa individual para reprodução offline diretamente no aplicativo.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Quais formatos de áudio o Evermusic reproduz?" closed="true" %}}
+{{% ls-details title="Quais formatos de áudio o Evermusic reproduz?" closed="true" %}}
 O Evermusic suporta MP3, FLAC, AAC, WAV, ALAC, AIFF, OPUS, OGG e muitos outros formatos.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Ainda preciso do iTunes para transferir música?" closed="true" %}}
+{{% ls-details title="Ainda preciso do iTunes para transferir música?" closed="true" %}}
 Não. Faça upload da sua música para qualquer serviço de nuvem suportado a partir do computador e depois transmita ou baixe pelo Evermusic no iPhone ou iPad.
-{{% /details %}}
+{{% /ls-details %}}

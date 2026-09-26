@@ -7,7 +7,7 @@ tags: ["cloud", "streaming", "computer", "mp3", "file", "downloader", "manager",
 keywords: ["prijenos datoteka na iPhone SMB", "streamanje glazbe s PC-a na iPhone", "povezivanje Maca s iPhoneom SMB", "postavljanje Evermusic SMB", "pristup datotekama računala iPhone", "dijeljenje glazbe Windows iOS", "SMB prijenos datoteka Evermusic"]
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **Sažetak:** Koristite Evermusic na svom iPhoneu ili iPadu za pristup datotekama pohranjenim na vašem Macu ili Windows PC-u putem lokalne mreže preko SMB-a. Bez kabela, bez iTunesa, bez potrebe za upload u oblak. Omogućite dijeljenje datoteka na računalu, povežite se u aplikaciji i pregledavajte ili reproducirajte datoteke bežično.
@@ -142,26 +142,26 @@ S ovim koracima možete bez napora pristupiti svojoj velikoj kolekciji datoteka 
 
 ## Često postavljana pitanja
 
-{{% details title="Mogu li pristupiti datotekama na PC-u s iPhonea bez iTunesa?" closed="true" %}}
+{{% ls-details title="Mogu li pristupiti datotekama na PC-u s iPhonea bez iTunesa?" closed="true" %}}
 Da. Evermusic se povezuje s vašim računalom putem SMB-a na lokalnoj Wi-Fi mreži. Nije potrebna sinkronizacija iTunesom ili Finderom. Omogućite dijeljenje datoteka na PC-u i povežite se izravno iz aplikacije.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Radi li SMB pristup datotekama putem interneta?" closed="true" %}}
+{{% ls-details title="Radi li SMB pristup datotekama putem interneta?" closed="true" %}}
 Ne. SMB je protokol lokalne mreže. Vaš iPhone i računalo moraju biti na istoj Wi-Fi mreži. Za udaljeni pristup, prenesite datoteke na uslugu u oblaku poput Google Drivea ili Dropboxa i povežite se s njom u Evermusicu.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Kojim vrstama datoteka mogu pristupiti putem SMB-a?" closed="true" %}}
+{{% ls-details title="Kojim vrstama datoteka mogu pristupiti putem SMB-a?" closed="true" %}}
 Evermusic podržava MP3, FLAC, AAC, WAV, AIFF, OGG, WMA, ALAC i druge audio formate. Također možete pregledavati i upravljati ne-audio datotekama koristeći ugrađeni upravitelj datoteka.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Mogu li prenijeti datoteke s NAS-a na iPhone koristeći SMB?" closed="true" %}}
+{{% ls-details title="Mogu li prenijeti datoteke s NAS-a na iPhone koristeći SMB?" closed="true" %}}
 Da. Većina NAS uređaja (Synology, QNAP, WD My Cloud i drugi) podržava SMB. Povežite se sa svojim NAS-om koristeći iste korake u ovom vodiču.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Trebam li kopirati datoteke na iPhone da bih ih reproducirao?" closed="true" %}}
+{{% ls-details title="Trebam li kopirati datoteke na iPhone da bih ih reproducirao?" closed="true" %}}
 Ne. Evermusic streama datoteke izravno s vašeg računala ili NAS-a putem mreže. Datoteke se ne kopiraju na iPhone osim ako ne odaberete preuzimanje za offline reprodukciju.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Je li SMB dijeljenje datoteka sigurno?" closed="true" %}}
+{{% ls-details title="Je li SMB dijeljenje datoteka sigurno?" closed="true" %}}
 SMB dijeljenje datoteka radi samo na vašoj lokalnoj mreži. Drugi uređaji na različitim mrežama ne mogu pristupiti vašim dijeljenim mapama. Za dodatnu sigurnost koristite korisničko ime i lozinku umjesto anonimnog (Svi) pristupa.
-{{% /details %}}
+{{% /ls-details %}}

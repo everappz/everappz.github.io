@@ -6,7 +6,7 @@ keywords: ["evermusic izvoz", "flacbox izvoz", "izvoz u m3u", "izvoz popisa za r
 tags: ["evermusic", "nedavne", "omiljeni", "izvoz", "m3u", "popis za reprodukciju", "csv", "txt", "album"]
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **Ukratko:** Evermusic i Flacbox omogućuju vam izvoz bilo koje kolekcije pjesama (nedavne, omiljeni, popisi za reprodukciju, albumi) u CSV, TXT ili M3U datoteke. Koristite ove izvoze za scrobblanje na Last.fm, sigurnosno kopiranje vaše biblioteke ili reprodukciju popisa za reprodukciju na drugim uređajima.
@@ -157,22 +157,22 @@ Izvoz vaših pjesama iz Evermusic i Flacbox daje vam potpunu kontrolu nad vašim
 
 ## Često postavljana pitanja
 
-{{% details title="Koji format izvoza trebam koristiti za Last.fm scrobblanje?" closed="true" %}}
+{{% ls-details title="Koji format izvoza trebam koristiti za Last.fm scrobblanje?" closed="true" %}}
 Koristite CSV. Uključuje vremenske oznake i potpune metapodatke potrebne alatima za scrobblanje poput Last.fm-Scrubbler-WPF.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Mogu li izvesti bilo koju kolekciju pjesama, ne samo popise za reprodukciju?" closed="true" %}}
+{{% ls-details title="Mogu li izvesti bilo koju kolekciju pjesama, ne samo popise za reprodukciju?" closed="true" %}}
 Da. Možete izvesti nedavne, omiljene, albume, popise za reprodukciju i bilo koju drugu kolekciju pjesama u aplikaciji koristeći iste korake.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Hoće li moj M3U popis za reprodukciju raditi na drugim uređajima?" closed="true" %}}
+{{% ls-details title="Hoće li moj M3U popis za reprodukciju raditi na drugim uređajima?" closed="true" %}}
 Ako odaberete opciju Apsolutni URL tijekom izvoza, M3U datoteka se može reproducirati na bilo kojem uređaju koji podržava M3U popise za reprodukciju. Imajte na umu da neki URL-ovi oblaka mogu isteći s vremenom.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Je li značajka izvoza besplatna?" closed="true" %}}
+{{% ls-details title="Je li značajka izvoza besplatna?" closed="true" %}}
 Da. Izvoz kolekcija pjesama u M3U, CSV i TXT dostupan je i u besplatnoj i u premium verziji Evermusic i Flacbox.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Koje usluge u oblaku podržavaju izvoz Apsolutnog URL-a?" closed="true" %}}
+{{% ls-details title="Koje usluge u oblaku podržavaju izvoz Apsolutnog URL-a?" closed="true" %}}
 Izvoz Apsolutnog URL-a podržan je za iCloud Drive, pCloud, PanBaidu, MyCloudHome, DLNA, MediaFire, OneDrive, Box, Dropbox, Google Drive i WebDAV (gostujući način).
-{{% /details %}}
+{{% /ls-details %}}

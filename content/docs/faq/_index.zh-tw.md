@@ -15,7 +15,7 @@ tags: [
 ---
 
 
-{{< lottie src="/images/juicy-json/juicy-woman-focused-on-online-learning.json" width="85%" >}}
+{{< ls-lottie src="/images/juicy-json/juicy-woman-focused-on-online-learning.json" width="85%" >}}
 
 ## 學習如何使用我們的應用程式
 
@@ -27,7 +27,7 @@ tags: [
 
 ## 選擇您的應用程式
 
-{{< product-doc-cards section="faq" >}}
+{{< ls-product-doc-cards section="faq" >}}
 
 ## 常見問題和解答
 
@@ -35,7 +35,7 @@ tags: [
 
 <div class="hx:w-full">
 
-{{% details title="為什麼我無法在舊版 iOS（15.8.4）上登入 pCloud？" closed="true" %}}
+{{% ls-details title="為什麼我無法在舊版 iOS（15.8.4）上登入 pCloud？" closed="true" %}}
 pCloud 的網頁登入頁面可能無法在 15.8.4 等舊版 iOS 上正常顯示，導致無法在雲端連線畫面中輸入電子郵件和密碼。<br><br>
 
 作為解決方法，您可以使用 **WebDAV** 通訊協定，該協定受 pCloud 支援，並在所有 iOS 版本上穩定運作。
@@ -49,9 +49,9 @@ pCloud 的網頁登入頁面可能無法在 15.8.4 等舊版 iOS 上正常顯示
 開啟應用程式 → 連線 → 連線到雲端儲存 → 選擇 **WebDAV** → 輸入您的憑證和伺服器 URL。
 
 此方法可讓您連線到 pCloud 儲存空間，並在舊裝置上無障礙存取您的檔案。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="如何在 Mac (macOS) 上透過 AirPlay 播放音樂？" closed="true" %}}
+{{% ls-details title="如何在 Mac (macOS) 上透過 AirPlay 播放音樂？" closed="true" %}}
 macOS 版應用程式不像 iOS 那樣內建 AirPlay、Chromecast 或藍牙連線按鈕。<br><br>
 
 要在 MacBook Pro 上使用 **AirPlay**，請按照以下步驟操作：
@@ -62,9 +62,9 @@ macOS 版應用程式不像 iOS 那樣內建 AirPlay、Chromecast 或藍牙連�
 4. 選擇所需裝置開始播放音樂。  
 
 這將把所有系統音訊（包括來自 Evermusic 或 Flacbox 的音訊）路由到您選擇的 AirPlay 裝置。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="為什麼我在 iPhone 上購買的 Premium 沒有在 Mac 上啟動？" closed="true" %}}
+{{% ls-details title="為什麼我在 iPhone 上購買的 Premium 沒有在 Mac 上啟動？" closed="true" %}}
 終身購買和訂閱透過 **iCloud** 在 iOS 和 Mac 之間同步。<br><br>
 
 要在 Mac 上啟動 Premium：<br>
@@ -76,9 +76,9 @@ macOS 版應用程式不像 iOS 那樣內建 AirPlay、Chromecast 或藍牙連�
 - 或者，在兩台裝置的應用程式設定中點按**恢復購買**<br><br>
 
 您的 Premium 功能將自動在 Mac 上啟動。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="如何在裝置之間自動同步播放清單？" closed="true" %}}
+{{% ls-details title="如何在裝置之間自動同步播放清單？" closed="true" %}}
 目前播放清單**沒有自動同步**功能。<br><br>
 
 您可以使用以下選項之一：<br>
@@ -88,9 +88,9 @@ macOS 版應用程式不像 iOS 那樣內建 AirPlay、Chromecast 或藍牙連�
   - [如何匯入播放清單](/docs/howto/how-to-import-m3u-playlist-to-evermusic-and-flacbox/)<br>
 - **封存播放清單或專輯**並透過 ZIP 傳輸：<br>
   - [播放清單封存指南](/docs/howto/how-to-archive-zip-playlists-albums-artists-and-genres-in-evermusic-flacbox-and-transfer-to/)
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="您的應用程式安全嗎？我可以停用分析功能嗎？" closed="true" %}}
+{{% ls-details title="您的應用程式安全嗎？我可以停用分析功能嗎？" closed="true" %}}
 是的，您的隱私是我們的首要任務。<br><br>
 
 - 所有資料——音樂檔案、設定、雲端登入——都儲存在您的裝置上<br>
@@ -104,18 +104,18 @@ macOS 版應用程式不像 iOS 那樣內建 AirPlay、Chromecast 或藍牙連�
 
 如果使用個人化廣告，Google Mobile Ads 需要顯示同意設定。<br>
 Premium 使用者看不到廣告，廣告 SDK 已完全停用。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="您的應用程式支援家人共享嗎？" closed="true" %}}
+{{% ls-details title="您的應用程式支援家人共享嗎？" closed="true" %}}
 是的，支援家人共享。<br><br>
 
 要共享應用程式內購買：<br>
 - 確保購買已設定為與您的家庭群組共享<br>
 - 在家庭成員的裝置上，前往**設定 > 購買 > 恢復購買**<br>
 - 這將從 Apple 伺服器請求購買資料並在其裝置上啟動
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="如何加快中繼資料和雲端同步速度？" closed="true" %}}
+{{% ls-details title="如何加快中繼資料和雲端同步速度？" closed="true" %}}
 要提高同步速度，請啟用背景工作：<br><br>
 
 - **設定 → 音樂庫 → 中繼資料讀取 → 在背景讀取中繼資料**<br>
@@ -123,14 +123,14 @@ Premium 使用者看不到廣告，廣告 SDK 已完全停用。
 
 此外，在 macOS 上，透過**設定 → 音樂庫**提高中繼資料讀取速度。<br>
 如果播放器處於活動狀態（正在播放音訊），iOS 不會暫停應用程式，從而實現持續同步。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="如何取消訂閱？" closed="true" %}}
+{{% ls-details title="如何取消訂閱？" closed="true" %}}
 您可以按照 Apple 的官方說明取消訂閱：<br>
 👉 [如何取消訂閱](https://support.apple.com/en-us/118428)
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="如何連線並從 WD MyCloud EX2 Ultra 串流音訊？" closed="true" %}}
+{{% ls-details title="如何連線並從 WD MyCloud EX2 Ultra 串流音訊？" closed="true" %}}
 
 當您透過應用程式中的**連線 > 連線到雲端儲存 > My Cloud Home** 新增連線時，該功能官方設計支援 **WD MyCloud Home** 裝置。<br>
 WD MyCloud EX2 Ultra 對應用程式使用受限存取。<br><br>
@@ -144,16 +144,16 @@ WD MyCloud EX2 Ultra 對應用程式使用受限存取。<br><br>
 5. 您現在可以直接串流或下載它們<br><br>
 
 ⚠️ 只有透過應用程式建立的資料夾才能從 NAS 存取。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="如何連線到 Koofr.eu？" closed="true" %}}
+{{% ls-details title="如何連線到 Koofr.eu？" closed="true" %}}
 您可以使用 **WebDAV** 連線 Koofr。<br><br>
 
 - Koofr WebDAV 設定指南：[koofr.eu 部落格](https://koofr.eu/blog/posts/3-ways-to-map-koofr-as-a-network-drive-explained)<br>
 - Evermusic/Flacbox WebDAV 指南：[如何使用 WebDAV 連線 NAS 儲存空間並在 iPhone 或 Mac 上聆聽音樂](/docs/howto/how-to-connect-nas-storage-using-webdav-and-listen-to-music-on-your-iphone-or-mac/)
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="應用程式的 URL scheme 是什麼？" closed="true" %}}
+{{% ls-details title="應用程式的 URL scheme 是什麼？" closed="true" %}}
 以下是支援的 scheme：<br><br>
 
 **Evermusic**<br>
@@ -172,35 +172,35 @@ WD MyCloud EX2 Ultra 對應用程式使用受限存取。<br><br>
 **Evervideo**<br>
 - iOS：`lsevervideo://`<br>
 - macOS：`lsevervideomac://`
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="應用程式在背景時音樂停止播放——如何修復？" closed="true" %}}
+{{% ls-details title="應用程式在背景時音樂停止播放——如何修復？" closed="true" %}}
 如果應用程式在背景崩潰或暫停：<br>
 - 前往**設定 > 音樂庫 > 線上音樂同步 > 背景同步 → 停用**<br>
 - **設定 > 音樂庫 > 中繼資料讀取 > 在背景讀取中繼資料 → 停用**<br>
 - **設定 > 檔案管理器 > 背景傳輸 → 停用**
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="無縫播放無法運作——如何修復？" closed="true" %}}
+{{% ls-details title="無縫播放無法運作——如何修復？" closed="true" %}}
 無縫播放取決於 iOS 版本和音訊引擎。<br>
 嘗試切換音訊引擎：<br>
 - 前往**設定 → 音訊播放器 → 一般 → 音訊處理器**<br>
 - 選擇 **Core Audio** 以獲得更好的無縫播放支援
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="為什麼應用程式在清單中只顯示 100 個項目？" closed="true" %}}
+{{% ls-details title="為什麼應用程式在清單中只顯示 100 個項目？" closed="true" %}}
 應用程式使用分頁以提高效能。<br>
 要停用它：<br>
 - 前往**設定 → 個人化 → 內容載入限制 → 已停用**<br>
 現在所有項目將一次性載入。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="為什麼中繼資料中有奇怪的字元？" closed="true" %}}
+{{% ls-details title="為什麼中繼資料中有奇怪的字元？" closed="true" %}}
 嘗試啟用中繼資料標準化：<br>
 - **設定 → 音樂庫 → 中繼資料讀取 → 標準化中繼資料編碼**
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="為什麼應用程式無法讀取含有特殊字元的資料夾名稱？" closed="true" %}}
+{{% ls-details title="為什麼應用程式無法讀取含有特殊字元的資料夾名稱？" closed="true" %}}
 這是 **SMB2 通訊協定**的已知問題。<br><br>
 
 嘗試以下解決方案：<br>
@@ -210,9 +210,9 @@ WD MyCloud EX2 Ultra 對應用程式使用受限存取。<br><br>
   - 使用 Apple 的原生選單選取資料夾/檔案<br><br>
 
 或者，如果您的 NAS 支援，可使用 **WebDAV** 或 **DLNA** 連線。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="如何在 iCloud 中上傳和管理音樂？" closed="true" %}}
+{{% ls-details title="如何在 iCloud 中上傳和管理音樂？" closed="true" %}}
 – **如何將音樂上傳到 iCloud？**  <br>
 在瀏覽器中前往 [https://www.icloud.com](https://www.icloud.com)，建立資料夾，然後直接從 Mac 或 PC 上傳音樂檔案。<br>
 
@@ -225,9 +225,9 @@ WD MyCloud EX2 Ultra 對應用程式使用受限存取。<br><br>
 
 在此深入了解：[如何從 iCloud Drive 在 iPhone 或 Mac 上串流音樂](/docs/howto/how-to-listen-to-music-from-icloud-drive-on-your-iphone-or-mac/)
 
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="如何將 10GB 音樂庫從 Windows 11 傳輸到 iPhone 進行離線播放？" closed="true" %}}
+{{% ls-details title="如何將 10GB 音樂庫從 Windows 11 傳輸到 iPhone 進行離線播放？" closed="true" %}}
 
 您有多種可靠的方式將音樂庫從 Windows 11 PC 移動到 iPhone，並在應用程式中離線使用。選擇最適合您的方法：
 
@@ -253,6 +253,6 @@ WD MyCloud EX2 Ultra 對應用程式使用受限存取。<br><br>
 
 ⚠️ 傳輸大型音樂庫（10GB+）時，有線 USB 傳輸通常是最快且最穩定的選項。
 
-{{% /details %}}
+{{% /ls-details %}}
 
 </div>

@@ -11,7 +11,7 @@ Evermusic și Flacbox sunt două playere muzicale avansate de la Everappz pentru
 
 **Răspuns pe scurt:** alege **Evermusic** dacă vrei cea mai fluidă ascultare de ansamblu, tranziții gapless și crossfade fără cusur și acces la biblioteca ta Apple Music. Alege **Flacbox** dacă ești audiofil și vrei o modelare profundă a sunetului (un rack de efecte și un lanț DSP), un motor audio profesional selectabil și acoperirea maximă a formatelor hi-res și lossless, inclusiv DSD, APE și WavPack.
 
-{{< app-details ids="885367198, 1097564256" >}}
+{{< ls-app-details ids="885367198, 1097564256" >}}
 
 ## Tabel comparativ al funcțiilor
 
@@ -129,38 +129,38 @@ Ambele sunt gratuite la descărcare, cu upgrade-uri Premium opționale, și ambe
 
 ## Întrebări frecvente
 
-{{% details title="Care este principala diferență dintre Evermusic și Flacbox?" closed="true" %}}
+{{% ls-details title="Care este principala diferență dintre Evermusic și Flacbox?" closed="true" %}}
 Au aceeași platformă și aceleași conexiuni, dar partea audio diferă. Evermusic rulează pe AVPlayer și Core Audio de la Apple și este playerul de zi cu zi cu suport larg de formate, cu redare gapless veritabilă, crossfade, audio spațial și import al bibliotecii Apple Music. Flacbox adaugă un motor audio BASS™ profesional și decodare FFmpeg, care aduc un lanț DSP cu 14 filtre, mai multe efecte în timp real, redare tracker/MOD și cel mai larg suport pentru formate hi-res și lossless, inclusiv DSD, APE și WavPack.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Care este mai bun, Evermusic sau Flacbox?" closed="true" %}}
+{{% ls-details title="Care este mai bun, Evermusic sau Flacbox?" closed="true" %}}
 Niciunul nu este strict mai bun; sunt optimizate pentru ascultători diferiți. Evermusic este mai potrivit pentru o ascultare fluidă, de zi cu zi, și pentru persoanele care își folosesc și biblioteca Apple Music, datorită redării gapless, crossfade și audio spațial. Flacbox este mai potrivit pentru audiofilii care vor o modelare profundă a sunetului, un motor audio profesional selectabil și acoperirea maximă a formatelor hi-res și lossless.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Folosește Evermusic FFmpeg?" closed="true" %}}
+{{% ls-details title="Folosește Evermusic FFmpeg?" closed="true" %}}
 Nu. Evermusic redă integral prin stiva audio nativă Apple, AVPlayer și Core Audio, Core Audio ocupându-se de efectele și procesarea sa. Decodarea FFmpeg este o funcție Flacbox, alături de motorul BASS selectabil al Flacbox.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Are Flacbox redare gapless sau crossfade?" closed="true" %}}
+{{% ls-details title="Are Flacbox redare gapless sau crossfade?" closed="true" %}}
 Nu. Redarea gapless veritabilă și crossfade (1 până la 30 de secunde) sunt funcții Evermusic. Flacbox se concentrează în schimb pe redarea de înaltă rezoluție, un motor BASS profesional, un rack de efecte și un lanț DSP.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Care aplicație este mai bună pentru FLAC, DSD și APE?" closed="true" %}}
+{{% ls-details title="Care aplicație este mai bună pentru FLAC, DSD și APE?" closed="true" %}}
 Flacbox. Ambele aplicații redă FLAC, dar Flacbox este specialistul în înaltă rezoluție și lossless, cu suport nativ pentru FLAC, ALAC, DSD (DSF/DFF), APE, WavPack (WV), TTA, OPUS și altele prin FFmpeg și motorul său BASS™. Oferă totodată un control mai fin al ieșirii pentru ascultarea critică.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Care aplicație are mai multe efecte audio și un lanț DSP?" closed="true" %}}
+{{% ls-details title="Care aplicație are mai multe efecte audio și un lanț DSP?" closed="true" %}}
 Flacbox. Evermusic are 6 efecte (Reverb, Delay, Distortion, Compressor, Crossfeed și Normalizare volum). Flacbox are 11 efecte (adăugând Chorus, Flanger, Phaser, Auto-Wah, Rotație stereo și un Multi-tap echo) plus un lanț DSP cu 14 filtre pe care ți-l construiești singur. Lanțul DSP este exclusiv pentru Flacbox.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Acceptă ambele aplicații aceleași servicii cloud, servere media și CarPlay?" closed="true" %}}
+{{% ls-details title="Acceptă ambele aplicații aceleași servicii cloud, servere media și CarPlay?" closed="true" %}}
 Da. Evermusic și Flacbox se conectează la aceeași stocare cloud (iCloud Drive, Google Drive, Dropbox, OneDrive, MEGA, pCloud, Internxt, Proton Drive și altele), la aceleași servere media (Plex, Subsonic, Navidrome, Jellyfin, Emby) și la aceleași protocoale de computer și NAS (SMB, WebDAV, FTP, SFTP, NFS, DLNA), cu suport nativ pentru QNAP, Synology, Nextcloud și WD My Cloud Home. Ambele acceptă și Apple CarPlay, AirPlay și Google Chromecast.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Poate Evermusic să redea biblioteca mea Apple Music sau iTunes?" closed="true" %}}
+{{% ls-details title="Poate Evermusic să redea biblioteca mea Apple Music sau iTunes?" closed="true" %}}
 Da. Evermusic poate importa și reda muzică din biblioteca ta Apple Music / iTunes, pe lângă sursele cloud și de rețea. Flacbox este conceput pentru fișierele tale proprii din stocare cloud, NAS și locală și nu importă biblioteca Apple Music.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Pot folosi Evermusic și Flacbox împreună?" closed="true" %}}
+{{% ls-details title="Pot folosi Evermusic și Flacbox împreună?" closed="true" %}}
 Da, și mulți o fac. O configurație obișnuită este Evermusic pentru redare zilnică, fără cusur, și acces la biblioteca Apple Music, iar Flacbox pentru ascultare critică, de înaltă rezoluție, cu motorul BASS, efecte și lanțul DSP. Ambele citesc din aceleași surse cloud și NAS, așa că biblioteca ta este disponibilă în oricare dintre aplicații. Ambele sunt gratuite la descărcare, cu upgrade-uri Premium opționale în aplicație.
-{{% /details %}}
+{{% /ls-details %}}

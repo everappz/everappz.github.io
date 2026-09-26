@@ -12,7 +12,7 @@ authors:
     image: "/images/about/artem-meleshko-founder-everappz.webp"
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 **Shrnutí:** Evermusic 6.8 přidává integraci Aliyun Drive a Synology NAS (s QuickConnect), šest nových efektů posouvání obalů alb, minimální přehrávač na celou obrazovku, správu souborů přetažením a rychlejší načítání obrázků alb. K dispozici nyní pro iOS a macOS.
 
@@ -77,18 +77,18 @@ Evermusic 6.8 se zaměřuje na tři oblasti: širší cloudovou kompatibilitu (A
 
 ## Často kladené otázky
 
-{{% details title="Jak připojím Synology NAS k Evermusic?" closed="true" %}}
+{{% ls-details title="Jak připojím Synology NAS k Evermusic?" closed="true" %}}
 Přejděte na záložku Připojení, vyberte Synology a zadejte své QuickConnectID. Evermusic se připojí přímo bez nutnosti IP adres nebo nastavení VPN.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Je Aliyun Drive s Evermusic zdarma?" closed="true" %}}
+{{% ls-details title="Je Aliyun Drive s Evermusic zdarma?" closed="true" %}}
 Ano. Pokud máte účet Aliyun Drive, můžete ho připojit k Evermusic bez dalších nákladů. Limity úložiště závisí na vašem plánu Aliyun Drive.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Mohu přizpůsobit styl posouvání obalů alb?" closed="true" %}}
+{{% ls-details title="Mohu přizpůsobit styl posouvání obalů alb?" closed="true" %}}
 Ano. Přejděte do Settings > Audio Player > Personalization > Album Covers Scrolling Style a vyberte z šesti možností: MacDoc, Linear, Rotary, Inverted Rotary, Cylinder nebo CoverFlow.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Funguje minimální přehrávač se všemi zařízeními?" closed="true" %}}
+{{% ls-details title="Funguje minimální přehrávač se všemi zařízeními?" closed="true" %}}
 Ano. Styl obalu alba na celou obrazovku je dostupný na všech podporovaných iPhone, iPad a Mac s Evermusic 6.8 nebo novějším.
-{{% /details %}}
+{{% /ls-details %}}

@@ -20,7 +20,7 @@ Dalam bahagian Senarai Main, anda akan menemui alat berguna untuk mengurus kolek
 Senarai main dalam Flacbox boleh mengandungi campuran trek awan dalam talian, fail yang dimuat turun luar talian dan fail tempatan dari peranti anda — semuanya dalam satu senarai main — dan dimainkan bersama dengan lancar.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Skrin Utama Senarai Main Flacbox" image="/docs/guide/flacbox/img/playlists-main.webp" >}}
+  {{< ls-card title="" subtitle="Skrin Utama Senarai Main Flacbox" image="/docs/guide/flacbox/img/playlists-main.webp" >}}
 {{< /cards >}}
 
 ## Mencipta Senarai Main
@@ -63,7 +63,7 @@ Apabila anda membuka senarai main, Skrin Butiran Senarai Main muncul. Anda akan 
 - **Mod Luar Talian** — muat turun semua trek dari senarai main ini ke fail tempatan. Mana-mana item baru yang ditambah ke senarai main juga dimuat turun secara automatik.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Skrin Butiran Senarai Main Flacbox" image="/docs/guide/flacbox/img/playlist-details-screen.webp" >}}
+  {{< ls-card title="" subtitle="Skrin Butiran Senarai Main Flacbox" image="/docs/guide/flacbox/img/playlist-details-screen.webp" >}}
 {{< /cards >}}
 
 ## Lebih Banyak Tindakan untuk Senarai Main pada Skrin Senarai Main
@@ -82,7 +82,7 @@ Anda boleh mengakses tindakan untuk senarai main dengan mengetik butang **"..."*
 - **Padam Senarai Main** — padam senarai main dari pustaka muzik. **Tindakan ini tidak boleh dibatalkan.**
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox Lebih Banyak Tindakan untuk Senarai Main pada Skrin Utama Senarai Main" image="/docs/guide/flacbox/img/more-actions-for-playlist-in-playlists-main-screen.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox Lebih Banyak Tindakan untuk Senarai Main pada Skrin Utama Senarai Main" image="/docs/guide/flacbox/img/more-actions-for-playlist-in-playlists-main-screen.webp" >}}
 {{< /cards >}}
 
 ## Lebih Banyak Tindakan untuk Senarai Main pada Skrin Butiran Senarai Main
@@ -110,7 +110,7 @@ Untuk menukar susunan lagu dalam senarai main, ketik butang **"..."** di sudut k
 Untuk aliran kerja yang lebih mudah pada senarai main yang panjang, pilih Lebih Banyak Tindakan → Susun Semula Lagu untuk memasuki mod susunan semula seret dan lepas yang khusus.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox Susun Semula Lagu dalam Senarai Main" image="/docs/guide/flacbox/img/playlist-details-rearange-songs.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox Susun Semula Lagu dalam Senarai Main" image="/docs/guide/flacbox/img/playlist-details-rearange-songs.webp" >}}
 {{< /cards >}}
 
 ## Menukar Imej Sampul Senarai Main
@@ -126,7 +126,7 @@ Buka senarai main dan ketik butang **"..."** di sudut kanan atas, kemudian pilih
 Buka senarai main, ketik butang **"..."** di sudut kanan atas dan pilih **Pilih** untuk memasuki mod pemilihan. Pilih trek yang ingin anda padamkan dan ketik **Padam dari Senarai Main** di bahagian bawah skrin. Sahkan dengan mengetik **Selesai**.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox Mod Pemilihan dalam Skrin Butiran Senarai Main" image="/docs/guide/flacbox/img/selection-mode-playlist-details-screen.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox Mod Pemilihan dalam Skrin Butiran Senarai Main" image="/docs/guide/flacbox/img/selection-mode-playlist-details-screen.webp" >}}
 {{< /cards >}}
 
 ## Pilihan Trek

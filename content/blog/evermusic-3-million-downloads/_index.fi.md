@@ -12,7 +12,7 @@ authors:
     image: "/images/about/artem-meleshko-founder-everappz.webp"
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 ## 3 miljoonaa latausta
 
@@ -98,22 +98,22 @@ Evermusic on ilmainen App Storessa valinnaisilla premium-ominaisuuksilla.
 
 ## Usein kysytyt kysymykset
 
-{{% details title="Onko Evermusic ilmainen?" closed="true" %}}
+{{% ls-details title="Onko Evermusic ilmainen?" closed="true" %}}
 Kyllä. Evermusic on ilmainen ladata, ja perusominaisuudet ovat käytettävissä ilmaiseksi. Premium-ominaisuudet kuten taajuuskorjain ja edistyneet pilvipalveluvaihtoehdot ovat saatavilla valinnaisen päivityksen kautta.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Voiko Evermusic toistaa äänikirjoja?" closed="true" %}}
+{{% ls-details title="Voiko Evermusic toistaa äänikirjoja?" closed="true" %}}
 Kyllä. Evermusic tallentaa toistokohdan, tukee kirjanmerkkejä, säädettävää toistonopeutta (0,5x - 2,0x) ja uniajastimia — mikä tekee siitä sopivan äänikirjoille ja podcasteille.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Mihin pilvipalveluihin Evermusic yhdistää?" closed="true" %}}
+{{% ls-details title="Mihin pilvipalveluihin Evermusic yhdistää?" closed="true" %}}
 Dropbox, Google Drive, OneDrive, Box, MEGA, Yandex.Disk, MyDrive, pCloud, HiDrive, SMB-tiedostojaot ja WebDAV-palvelimet.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Voinko käyttää SD-korttia Evermusicin kanssa?" closed="true" %}}
+{{% ls-details title="Voinko käyttää SD-korttia Evermusicin kanssa?" closed="true" %}}
 Kyllä. Liitä Lightning- tai USB-C SD-kortinlukija iPhoneen tai iPadiin ja suoratoista musiikkia suoraan kortilta Evermusicin kautta.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Toimiiko Evermusic Macilla?" closed="true" %}}
+{{% ls-details title="Toimiiko Evermusic Macilla?" closed="true" %}}
 Kyllä. Evermusic on saatavilla sekä iOS:lle että macOS:lle pilvisuoratoistolla ja offline-toistolla kaikilla alustoilla.
-{{% /details %}}
+{{% /ls-details %}}

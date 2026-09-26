@@ -15,7 +15,7 @@ readingTime: 11
 Na ovom zaslonu možete povezati razne izvore koji sadrže vaše audio datoteke. Možete integrirati popularne usluge oblaka kao što su Google Drive, Dropbox, OneDrive, iCloud i druge, kao i povezati Mac ili PC. Osim toga, imate mogućnost uređivanja audio datoteka smještenih u Apple Time Capsule, WD Cloud Home ili bilo koji NAS koji govori SMB ili WebDAV.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Zaslon Povezivanja u Evertagu" image="/docs/guide/evertag/img/connections.webp" >}}
+  {{< ls-card title="" subtitle="Zaslon Povezivanja u Evertagu" image="/docs/guide/evertag/img/connections.webp" >}}
 {{< /cards >}}
 
 ## Brzi pristup
@@ -151,7 +151,7 @@ Evo pregleda ovih akcija:
 - **Rešetkasti/Listovni prikaz**: Prebacite između dva načina prikaza: tabličnog prikaza i prikaza s minijaturama. Tablični prikaz prikazuje datoteke u listi, dok prikaz s minijaturama prikazuje vizualne reprezentacije datoteka, olakšavajući prepoznavanje sadržaja na prvi pogled.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Sortiranje mape u oblaku u Evertagu" image="/docs/guide/evertag/img/cloud-storage-sort.webp" >}}
+  {{< ls-card title="" subtitle="Sortiranje mape u oblaku u Evertagu" image="/docs/guide/evertag/img/cloud-storage-sort.webp" >}}
 {{< /cards >}}
 
 ## Uređivanje online datoteka
@@ -163,7 +163,7 @@ Kada trebate upravljati više datotekama unutar pohrane u oblaku u ovoj aplikaci
 - **Izvršite razne akcije**: Kada odaberete datoteke ili mape kojima želite upravljati, imat ćete pristup nekoliko akcija prilagođenih vašim potrebama:
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Odabir datoteka u Evertagu" image="/docs/guide/evertag/img/cloud-storage-file-select.webp" >}}
+  {{< ls-card title="" subtitle="Odabir datoteka u Evertagu" image="/docs/guide/evertag/img/cloud-storage-file-select.webp" >}}
 {{< /cards >}}
 
 ## Akcije s datotekama
@@ -180,7 +180,7 @@ Tapnite ga za prikaz liste dostupnih akcija:
 - **Izbriši**: Budite oprezni s ovom akcijom, jer trajno uklanja datoteku iz pohrane u oblaku. **Ovo brisanje se ne može poništiti**.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Opcije datoteke u Evertagu" image="/docs/guide/evertag/img/cloud-storage-file-options.webp" >}}
+  {{< ls-card title="" subtitle="Opcije datoteke u Evertagu" image="/docs/guide/evertag/img/cloud-storage-file-options.webp" >}}
 {{< /cards >}}
 
 Ako lista akcija prelazi dostupni prostor zaslona, jednostavno se pomaknite prema dolje unutar izbornika akcija za pristup dodatnim opcijama.
@@ -196,5 +196,5 @@ Za svaku mapu u pohrani u oblaku, imate različite dostupne akcije. Za pristup t
 - **Izbriši**: Budite oprezni s ovom akcijom, jer trajno uklanja mapu i njezin sadržaj iz pohrane u oblaku. **Ova akcija se ne može poništiti**.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Opcije mape u Evertagu" image="/docs/guide/evertag/img/cloud-storage-folder-options.webp" >}}
+  {{< ls-card title="" subtitle="Opcije mape u Evertagu" image="/docs/guide/evertag/img/cloud-storage-folder-options.webp" >}}
 {{< /cards >}}

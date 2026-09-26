@@ -12,7 +12,7 @@ authors:
     image: "/images/about/artem-meleshko-founder-everappz.webp"
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 ![](/blog/evermusic-stream-your-music-from-the-cloud-and-free-up-space-on-your-iphone-or-ipad/21260c_00c5356db3a24db6a6a37e353b774d56~mv2.jpg)
 
@@ -82,22 +82,22 @@ iPhoneまたはiPadでEvermusicを起動します。
 
 ## よくある質問
 
-{{% details title="Evermusicは無料ですか？" closed="true" %}}
+{{% ls-details title="Evermusicは無料ですか？" closed="true" %}}
 Evermusicはオプションのプレミアム機能付きで無料ダウンロードできます。基本的なクラウドストリーミングとオフライン再生は無料版で利用できます。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Evermusicはどのクラウドサービスに対応していますか？" closed="true" %}}
+{{% ls-details title="Evermusicはどのクラウドサービスに対応していますか？" closed="true" %}}
 Google Drive、Dropbox、Box、OneDrive、MediaFire、MEGA、Yandex.Disk、pCloud、HiDrive、MyDrive、SMBファイル共有、WebDAVサーバーに対応しています。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Evermusicでオフラインで音楽を聴けますか？" closed="true" %}}
+{{% ls-details title="Evermusicでオフラインで音楽を聴けますか？" closed="true" %}}
 はい。アプリ内で直接、任意のアルバム、アーティスト、プレイリスト、または個別のトラックをオフライン再生用にダウンロードできます。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Evermusicはどのオーディオフォーマットに対応していますか？" closed="true" %}}
+{{% ls-details title="Evermusicはどのオーディオフォーマットに対応していますか？" closed="true" %}}
 EvermusicはMP3、FLAC、AAC、WAV、ALAC、AIFF、OPUS、OGGなど、多くのフォーマットに対応しています。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="音楽の転送にまだiTunesが必要ですか？" closed="true" %}}
+{{% ls-details title="音楽の転送にまだiTunesが必要ですか？" closed="true" %}}
 いいえ。パソコンから対応するクラウドサービスに音楽をアップロードし、iPhoneやiPadのEvermusicでストリーミングまたはダウンロードするだけです。
-{{% /details %}}
+{{% /ls-details %}}

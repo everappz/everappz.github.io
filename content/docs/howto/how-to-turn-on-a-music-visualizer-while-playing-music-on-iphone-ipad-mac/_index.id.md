@@ -7,12 +7,12 @@ tags: ["Evermusic", "Flacbox", "Visualizer", "Cara", "Milkdrop", "projectM", "Op
 readingTime: 9
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 **Jawaban singkat:** [Evermusic](/products/evermusic) dan [Flacbox](/products/flacbox) keduanya memiliki **visualizer musik** layar penuh yang melukis visual bergerak dan berwarna seiring dengan musik Anda. Buka dari pemutar **Now Playing** (**⋯ More > Visualization**) atau dari **Pengaturan > Visualization**, lalu pilih preset atau **Auto** dan ketuk **Start visualization**. Pada layar visualizer, ketuk sekali untuk menampilkan atau menyembunyikan kontrol dan gunakan panah **Previous** dan **Next** untuk mengganti tampilan. Ia menggunakan engine **Milkdrop (projectM)** yang terkenal dengan **500 preset**, merender dengan **OpenGL**, dan bekerja di **iPhone, iPad, dan Mac**. Langkahnya sama di kedua aplikasi. Langkah lengkap ada di bawah.
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Visualizer musik: preset Starfield Sectors" image="/docs/howto/how-to-turn-on-a-music-visualizer-while-playing-music-on-iphone-ipad-mac/music-visualizer-starfield-sectors-preset.webp" imageStyle="border-radius: clamp(14px, 2vw, 28px);" >}}
+{{< ls-card title="" subtitle="Visualizer musik: preset Starfield Sectors" image="/docs/howto/how-to-turn-on-a-music-visualizer-while-playing-music-on-iphone-ipad-mac/music-visualizer-starfield-sectors-preset.webp" imageStyle="border-radius: clamp(14px, 2vw, 28px);" >}}
 {{< /cards >}}
 
 ## Apa Itu Visualizer?
@@ -85,50 +85,50 @@ Bagaimanapun, visual bereaksi terhadap audio persis yang Anda putar, baik itu fi
 
 ## FAQ
 
-{{% details title="Bagaimana cara mengaktifkan visualizer di Evermusic atau Flacbox?" closed="true" %}}
+{{% ls-details title="Bagaimana cara mengaktifkan visualizer di Evermusic atau Flacbox?" closed="true" %}}
 Buka pemutar Now Playing, ketuk tombol ⋯ (More), dan pilih Visualization. Anda juga dapat membukanya dari Pengaturan > Visualization. Lalu pilih preset (atau Auto) dan ketuk Start visualization. Langkahnya sama di kedua aplikasi.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Visualizer didasarkan pada apa?" closed="true" %}}
+{{% ls-details title="Visualizer didasarkan pada apa?" closed="true" %}}
 Ia menggunakan engine projectM open-source, yang memainkan preset gaya Milkdrop. Ini adalah visual animasi yang reaktif terhadap musik yang dikenal banyak orang dari pemutar musik desktop. Baik Evermusic maupun Flacbox menyertakan 500 preset dan menggambarnya dengan OpenGL.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Berapa banyak preset visualizer yang ada?" closed="true" %}}
+{{% ls-details title="Berapa banyak preset visualizer yang ada?" closed="true" %}}
 500 preset. Masing-masing adalah adegan animasi yang berbeda, dan Anda dapat berpindah melaluinya dengan panah Next dan Previous, atau biarkan mode Auto mengacaknya untuk Anda.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Apakah visualizer bereaksi terhadap musik?" closed="true" %}}
+{{% ls-details title="Apakah visualizer bereaksi terhadap musik?" closed="true" %}}
 Ya. Visual merespons audio yang Anda putar secara real time, sehingga bentuk, warna, dan gerakan berubah dengan beat dan energi track. Ia bekerja dengan file lokal, drive cloud, server media, dan radio internet.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Bagaimana cara mengganti preset visualizer?" closed="true" %}}
+{{% ls-details title="Bagaimana cara mengganti preset visualizer?" closed="true" %}}
 Ketuk layar sekali untuk menampilkan kontrol, lalu gunakan panah Previous dan Next di bagian bawah untuk berpindah antar preset. Nama dan penghitung di bagian atas (misalnya, 429 / 500) diperbarui saat Anda menggantinya. Anda juga dapat memulai dalam mode Auto agar aplikasi mengganti preset secara otomatis.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Apa itu mode Auto?" closed="true" %}}
+{{% ls-details title="Apa itu mode Auto?" closed="true" %}}
 Mode Auto, dipilih dari pemilih preset, mengacak preset dengan sendirinya, berganti ke yang baru setiap 30 detik dengan crossfade yang mulus. Ini adalah cara termudah untuk menikmati pertunjukan tanpa menyentuh layar.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Bagaimana cara menyembunyikan kontrol di layar?" closed="true" %}}
+{{% ls-details title="Bagaimana cara menyembunyikan kontrol di layar?" closed="true" %}}
 Ketuk layar sekali untuk menyembunyikan kontrol untuk tampilan layar penuh yang bersih, dan ketuk lagi untuk memunculkannya kembali. Kontrol juga menyembunyi dengan sendirinya setelah beberapa detik.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Apakah visualizer bekerja di Mac?" closed="true" %}}
+{{% ls-details title="Apakah visualizer bekerja di Mac?" closed="true" %}}
 Ya. Di Mac, baik Evermusic maupun Flacbox membuka visualizer di jendelanya sendiri dan menggambarnya dengan desktop OpenGL native, sehingga Anda mendapatkan visual Milkdrop reaktif musik yang sama pada layar besar.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Apakah visualizer bekerja di iPhone dan iPad?" closed="true" %}}
+{{% ls-details title="Apakah visualizer bekerja di iPhone dan iPad?" closed="true" %}}
 Ya. Di iPhone dan iPad ia berjalan layar penuh, digambar dengan OpenGL ES untuk animasi mulus pada layar Retina.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Apakah layar saya akan meredup atau terkunci saat visualizer berjalan?" closed="true" %}}
+{{% ls-details title="Apakah layar saya akan meredup atau terkunci saat visualizer berjalan?" closed="true" %}}
 Tidak. Aplikasi menjaga layar tetap menyala saat visualizer aktif, sehingga pertunjukan tidak akan terganggu oleh layar yang meredup atau terkunci.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Apakah aplikasi mengingat preset pilihan saya?" closed="true" %}}
+{{% ls-details title="Apakah aplikasi mengingat preset pilihan saya?" closed="true" %}}
 Ya. Preset terakhir yang Anda pilih disimpan dan disorot di pemilih preset, sehingga mudah untuk kembali ke favorit Anda.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Di mana nama preset saat ini ditampilkan?" closed="true" %}}
+{{% ls-details title="Di mana nama preset saat ini ditampilkan?" closed="true" %}}
 Di tengah atas layar visualizer, bersama dengan penghitung seperti 429 / 500 yang menunjukkan preset mana yang sedang Anda lihat dari keseluruhan set. Pada contoh tangkapan layar, presetnya adalah Starfield Sectors.
-{{% /details %}}
+{{% /ls-details %}}

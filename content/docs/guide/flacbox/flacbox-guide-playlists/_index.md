@@ -23,7 +23,7 @@ In the Playlists section, you’ll find helpful tools to manage your music colle
 Playlists in Flacbox can contain a mix of online cloud tracks, offline downloaded files, and local files from your device — all in one playlist — and play seamlessly together.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox Playlists Main Screen" image="/docs/guide/flacbox/img/playlists-main.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox Playlists Main Screen" image="/docs/guide/flacbox/img/playlists-main.webp" >}}
 {{< /cards >}}
 
 ## Creating a Playlist
@@ -66,7 +66,7 @@ When you open a playlist, the Playlist Detail screen appears. You’ll find a **
 - **Offline Mode** — download all tracks from this playlist to local files. Any new items added to the playlist are also downloaded automatically.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox Playlist Detail Screen" image="/docs/guide/flacbox/img/playlist-details-screen.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox Playlist Detail Screen" image="/docs/guide/flacbox/img/playlist-details-screen.webp" >}}
 {{< /cards >}}
 
 ## More Actions for a Playlist in the Playlists Screen
@@ -85,7 +85,7 @@ You can access actions for a playlist by tapping the **"..."** button near the p
 - **Delete Playlist** — delete the playlist from the music library. **This action cannot be undone.**
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox More Actions for a Playlist on the Playlists Main Screen" image="/docs/guide/flacbox/img/more-actions-for-playlist-in-playlists-main-screen.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox More Actions for a Playlist on the Playlists Main Screen" image="/docs/guide/flacbox/img/more-actions-for-playlist-in-playlists-main-screen.webp" >}}
 {{< /cards >}}
 
 ## More Actions for a Playlist in the Playlist Detail Screen
@@ -113,7 +113,7 @@ To change the order of songs in a playlist, tap the **"..."** button in the top-
 For an even simpler workflow on long playlists, choose More Actions → Rearrange Songs to enter dedicated drag-and-drop reorder mode.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox Rearrange Songs in a Playlist" image="/docs/guide/flacbox/img/playlist-details-rearange-songs.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox Rearrange Songs in a Playlist" image="/docs/guide/flacbox/img/playlist-details-rearange-songs.webp" >}}
 {{< /cards >}}
 
 ## Changing the Playlist Cover Image
@@ -129,7 +129,7 @@ Open the playlist and tap the **"..."** button in the top-right corner, then sel
 Open the playlist, tap the **"..."** button in the top-right corner, and select **Select** to enter selection mode. Choose the tracks you want to delete and tap **Delete from Playlist** at the bottom of the screen. Confirm by tapping **Done**.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox Selection Mode in the Playlist Detail Screen" image="/docs/guide/flacbox/img/selection-mode-playlist-details-screen.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox Selection Mode in the Playlist Detail Screen" image="/docs/guide/flacbox/img/selection-mode-playlist-details-screen.webp" >}}
 {{< /cards >}}
 
 ## Track Options

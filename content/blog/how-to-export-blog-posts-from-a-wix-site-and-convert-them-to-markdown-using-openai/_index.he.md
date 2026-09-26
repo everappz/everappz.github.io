@@ -12,7 +12,7 @@ authors:
     image: "/images/about/artem-meleshko-founder-everappz.webp"
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 ## למה לייצא פוסטים מבלוג Wix?
 
@@ -332,33 +332,33 @@ bash fetch_blog_posts.sh
 הפרויקט הוא קוד פתוח. דיווחי באגים, הצעות לתכונות ו-pull requests מתקבלים בברכה.
 
 {{< cards cols="1" >}}
-  {{< card link="https://github.com/everappz/wix-blog-export" title="פרויקט ב-GitHub" icon="github" tag="open source" >}}
+  {{< ls-card link="https://github.com/everappz/wix-blog-export" title="פרויקט ב-GitHub" icon="github" tag="open source" >}}
 {{< /cards >}}
 
 ---
 
 ## שאלות נפוצות
 
-{{% details title="למה אני לא יכול פשוט להשתמש ב-`requests` כדי לגרד פוסטי בלוג Wix?" closed="true" %}}
+{{% ls-details title="למה אני לא יכול פשוט להשתמש ב-`requests` כדי לגרד פוסטי בלוג Wix?" closed="true" %}}
 Wix מרנדר תוכן באופן דינמי עם JavaScript. בקשת HTTP סטנדרטית מחזירה מעטפת דף ריקה. Selenium מריץ דפדפן headless כדי לקבל את ה-HTML המרונדר במלואו.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="האם זה עובד עם כל בלוג Wix?" closed="true" %}}
+{{% ls-details title="האם זה עובד עם כל בלוג Wix?" closed="true" %}}
 כן. ה-scraper קורא את ה-XML של ה-sitemap של הבלוג ומעבד כל URL. צריך רק לעדכן את המשתנה `SITEMAP_URL` ב-`parse_blog_sitemap.py` כדי להפנות ל-sitemap של האתר שלכם.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="באיזה מודל OpenAI זה משתמש?" closed="true" %}}
+{{% ls-details title="באיזה מודל OpenAI זה משתמש?" closed="true" %}}
 הסקריפט משתמש ב-GPT-4o כברירת מחדל. ניתן לשנות את המשתנה `API_MODEL` ב-`generate_md.py` כדי להשתמש במודל אחר.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="האם ניתן להשתמש בזה להגירה מ-Wix ל-Hugo?" closed="true" %}}
+{{% ls-details title="האם ניתן להשתמש בזה להגירה מ-Wix ל-Hugo?" closed="true" %}}
 כן. הפלט הוא Markdown סטנדרטי עם נתיבי תמונות מקומיים, שעובד ישירות עם Hugo, Jekyll, Astro ומחוללי אתרים סטטיים אחרים. הוסיפו front matter לקבצי `_index.md` שנוצרו כדי להשלים את ההגירה.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="כמה עולה ה-API של OpenAI לזה?" closed="true" %}}
+{{% ls-details title="כמה עולה ה-API של OpenAI לזה?" closed="true" %}}
 העלות תלויה במספר ובאורך הפוסטים בבלוג שלכם. בלוג טיפוסי עם 50 פוסטים באורך בינוני עולה כמה דולרים בשימוש API עם GPT-4o.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="האם הכלי הזה קוד פתוח?" closed="true" %}}
+{{% ls-details title="האם הכלי הזה קוד פתוח?" closed="true" %}}
 כן. קוד המקור המלא זמין ב-[GitHub](https://github.com/everappz/wix-blog-export) תחת רישיון קוד פתוח.
-{{% /details %}}
+{{% /ls-details %}}

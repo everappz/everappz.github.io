@@ -12,7 +12,7 @@ authors:
     image: "/images/about/artem-meleshko-founder-everappz.webp"
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 **ملخص سريع:** أفضل مشغل موسيقى للآيفون يعتمد على احتياجاتك. **Evermusic** مثالي لتشغيل الموسيقى من التخزين السحابي ومرونة الصيغ. **Apple Music** يناسب المستخدمين المتعمقين في نظام Apple. **Spotify** يتفوق في اكتشاف الموسيقى. **VLC** يتعامل مع كل صيغة ملفات مجاناً. **Amazon Music** يتوافق جيداً مع Alexa وPrime.
 
@@ -128,22 +128,22 @@ Amazon Music يتكامل مع نظام Amazon البيئي، ويقدم الت�
 
 ## الأسئلة الشائعة
 
-{{% details title="ما هو أفضل مشغل موسيقى مجاني للآيفون؟" closed="true" %}}
+{{% ls-details title="ما هو أفضل مشغل موسيقى مجاني للآيفون؟" closed="true" %}}
 لتشغيل ملفاتك الخاصة، Evermusic وVLC كلاهما خياران مجانيان. Evermusic يضيف تكامل التخزين السحابي، بينما VLC يدعم أوسع مجموعة من صيغ الملفات.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="هل يمكنني تشغيل ملفات FLAC على الآيفون؟" closed="true" %}}
+{{% ls-details title="هل يمكنني تشغيل ملفات FLAC على الآيفون؟" closed="true" %}}
 نعم. Evermusic وVLC كلاهما يدعم تشغيل FLAC على الآيفون. Apple Music وSpotify لا يشغلان ملفات FLAC مباشرة.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="أي تطبيق مشغل موسيقى يعمل مع التخزين السحابي؟" closed="true" %}}
+{{% ls-details title="أي تطبيق مشغل موسيقى يعمل مع التخزين السحابي؟" closed="true" %}}
 Evermusic هو مشغل الموسيقى الرائد للآيفون مع دعم مدمج للتخزين السحابي. يتصل بـ iCloud Drive وDropbox وGoogle Drive وOneDrive وpCloud وخدمات أخرى.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="هل Evermusic أفضل من Apple Music؟" closed="true" %}}
+{{% ls-details title="هل Evermusic أفضل من Apple Music؟" closed="true" %}}
 يخدمان أغراضاً مختلفة. Evermusic يشغل ملفات الموسيقى الخاصة بك من التخزين السحابي والتخزين المحلي. Apple Music هو خدمة بث باشتراك مع كتالوج يضم أكثر من 100 مليون أغنية. إذا كنت تملك ملفات الموسيقى الخاصة بك، فإن Evermusic هو الخيار الأفضل.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="هل يمكنني استخدام Spotify بدون إنترنت على الآيفون؟" closed="true" %}}
+{{% ls-details title="هل يمكنني استخدام Spotify بدون إنترنت على الآيفون؟" closed="true" %}}
 نعم، ولكن فقط مع اشتراك Spotify Premium. مستخدمو Spotify المجاني لا يمكنهم تحميل الأغاني للاستماع بدون إنترنت.
-{{% /details %}}
+{{% /ls-details %}}

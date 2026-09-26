@@ -21,7 +21,7 @@ readingTime: 16
 Indstillingsskærmen er kontrolcentret for Flacbox. Herfra kan du opgradere til Premium, konfigurere lydmotoren (systemkodeks eller FFmpeg), administrere dit musikbibliotek, konfigurere filhåndtering, tilpasse lydtags-editoren, aktivere startskærmswidgets og Apple CarPlay, sikkerhedskopiere dine data og tilgå hjælp og juridiske oplysninger. Sektioner er grupperet under overskrifter: Køb og opdateringer, Appræferencer, Hjælp og Juridisk og privatliv.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox indstillingers hovedskærm" image="/docs/guide/flacbox/img/settings-main.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox indstillingers hovedskærm" image="/docs/guide/flacbox/img/settings-main.webp" >}}
 {{< /cards >}}
 
 ## Opgradering til Premium
@@ -29,13 +29,13 @@ Indstillingsskærmen er kontrolcentret for Flacbox. Herfra kan du opgradere til 
 Opgrader applikationen til Premium-versionen for at fjerne alle begrænsninger. Den gratis version tilbyder et engangskøb til livstids brug og to abonnementsmuligheder (1 måned og 1 år) for at fjerne alle begrænsninger og opgradere til Premium.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox opgradering til Premium" image="/docs/guide/flacbox/img/upgrade-to-premium.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox opgradering til Premium" image="/docs/guide/flacbox/img/upgrade-to-premium.webp" >}}
 {{< /cards >}}
 
 **Familiedeling** er aktiveret for alle køb og planer, så du kan dele Premium-versionen med op til fem familiemedlemmer uden ekstra omkostninger.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox vælg en Premium-plan" image="/docs/guide/flacbox/img/select-premium-plan.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox vælg en Premium-plan" image="/docs/guide/flacbox/img/select-premium-plan.webp" >}}
 {{< /cards >}}
 
 Du kan læse mere om køb og Premium-versionen her: [Hvad er forskellen mellem Flacbox og Flacbox Premium](/docs/faq/flacbox/what-is-the-difference-between-flacbox-and-flacbox-premium/).

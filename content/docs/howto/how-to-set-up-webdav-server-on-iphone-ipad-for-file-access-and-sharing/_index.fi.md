@@ -7,7 +7,7 @@ keywords: ["WebDAV-palvelin iPhone", "WebDAV-palvelin iPad", "näin määrität 
 readingTime: 9
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 WebDAV muuttaa kansion verkkolevyksi, jonka tietokone voi avata tavallisessa tiedostonhallinnassaan. Se toimii saman verkkoprotokollan päällä, jota selaimesi käyttää, minkä vuoksi se kulkee hyvin Macin, Windowsin ja Linuxin välillä ilman erikoisajureita. [Everdiskin](/products/everdisk) avulla voit pyörittää WebDAV-palvelinta iPhonellasi tai iPadillasi, jolloin puhelin näkyy levynä, jota voit selata, josta voit kopioida ja johon voit kopioida lähes miltä tahansa tietokoneelta.
 
@@ -104,40 +104,40 @@ Jos sinun tarvitsee vain napata tiedosto nopeasti etkä halua liittää levyä l
 
 ## Usein kysytyt kysymykset
 
-{{% details title="Mikä on iPhoneni WebDAV-osoite ja portti?" closed="true" %}}
+{{% ls-details title="Mikä on iPhoneni WebDAV-osoite ja portti?" closed="true" %}}
 Kun aloitat jakamisen, Everdisk näyttää osoitteen Jakaminen-näytöllä. Se näyttää tältä: http://192.168.1.20:8080. 8080 on portti, jota Everdisk käyttää WebDAViin, ja ensimmäinen osa on iPhonesi osoite Wi-Fi-verkossa, joten omasi on erilainen.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Miten yhdistän iPhoneni WebDAViin Windowsista?" closed="true" %}}
+{{% ls-details title="Miten yhdistän iPhoneni WebDAViin Windowsista?" closed="true" %}}
 Avaa File Explorer, klikkaa hiiren oikealla Tämä tietokone ja valitse Lisää verkkosijainti tai Yhdistä verkkoasema. Syötä Everdiskin WebDAV-osoite, esimerkiksi http://192.168.1.20:8080, ja syötä sitten kirjautumistietosi, jos asetit sellaisen. Jos Windows ei yhdistä, varmista, että WebClient-palvelu on käynnissä (etsi Palvelut, löydä WebClient, käynnistä se) ja yritä uudelleen.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Voinko käyttää WebDAVia kahden iPhonen välillä?" closed="true" %}}
+{{% ls-details title="Voinko käyttää WebDAVia kahden iPhonen välillä?" closed="true" %}}
 Kyllä, mutta iOS:n Tiedostot-sovelluksessa ei ole WebDAV-asiakasta, joten käytä Everdiskiä toisella laitteella. Avaa Laitteet-välilehti, napauta Uusi yhteys, valitse WebDAV ja syötä ensimmäisellä puhelimella näkyvä osoite. WebDAV-sovellus, kuten Documents by Readdle, toimii myös.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Tarvitseeko WebDAV salasanan?" closed="true" %}}
+{{% ls-details title="Tarvitseeko WebDAV salasanan?" closed="true" %}}
 Ei, kirjautuminen on valinnaista. Jätä Käyttäjätunnus ja Salasana tyhjiksi kohdassa Asetukset, Jakaminen, Käyttöoikeus vieraskäyttöä varten, tai aseta ne, jos haluat yhteyksien kirjautuvan sisään.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Voivatko muut ihmiset muuttaa tiedostojani WebDAVin kautta?" closed="true" %}}
+{{% ls-details title="Voivatko muut ihmiset muuttaa tiedostojani WebDAVin kautta?" closed="true" %}}
 Vain jos sallit sen. Tiedostojen muokkaus -kytkin kohdassa Asetukset, Jakaminen, Käyttöoikeus hallitsee tätä. Päällä antaa yhdistettyjen laitteiden lähettää, nimetä uudelleen ja poistaa. Pois päältä tekee levystä vain luku -tilaisen, joten muut voivat katsella ja kopioida mutta eivät muuttaa mitään.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="WebDAV vai SMB, mikä ero on?" closed="true" %}}
+{{% ls-details title="WebDAV vai SMB, mikä ero on?" closed="true" %}}
 Molemmat liittävät iPhonesi verkkolevynä. WebDAV toimii verkkoprotokollan päällä ja yhdistää siististi Windowsin File Explorerista, mikä on sen pääasiallinen vahvuus. SMB on natiivi tiedostojen jakaminen Macilla, Linuxissa ja NAS-laitteilla, on yleensä nopeampi Macilla ja on ainoa Everdisk-yhteys, joka voi salata siirrot. Everdisk voi pyörittää molempia yhtä aikaa.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Miksi WebDAV-levyni katkeaa?" closed="true" %}}
+{{% ls-details title="Miksi WebDAV-levyni katkeaa?" closed="true" %}}
 iPhonesi on palvelin, ja iOS pysäyttää sovellukset, jotka pysyvät taustalla liian kauan. Pidä Everdisk avoinna näytöllä, kun laite on yhdistettynä, ja kytke virtalähteeseen pitkien siirtojen aikana. Varmista myös, että molemmat laitteet ovat edelleen samassa Wi-Fi-verkossa.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Voinko yhdistää WebDAVin kautta ilman Wi-Fiä?" closed="true" %}}
+{{% ls-details title="Voinko yhdistää WebDAVin kautta ilman Wi-Fiä?" closed="true" %}}
 Kyllä, jos kytket iPhonesi Maciin kaapelilla. Everdisk näyttää tällöin ylimääräisen kaapeliyhteysosoitteen, jonka yhdistetty Mac voi avata Finderissa, mikä toimii vaikka ilman Wi-Fiä lainkaan. Kaapelissa vain kyseinen Mac voi tavoittaa laitteen.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Onko Everdisk ilmainen?" closed="true" %}}
+{{% ls-details title="Onko Everdisk ilmainen?" closed="true" %}}
 Kyllä, Everdiskin voi ladata ilmaiseksi ja WebDAV-palvelin sisältyy siihen. Valinnainen kertaostoksena hankittava Premium lisää lisäominaisuuksia, kuten mukautetut portit sekä kuvien ja videoiden muunnoksen. Voit ottaa WebDAVin käyttöön ja jakaa tiedostoja maksamatta.
-{{% /details %}}
+{{% /ls-details %}}
 
 Valmis kokeilemaan? [Lataa Everdisk App Storesta](https://apps.apple.com/app/apple-store/id6751851132?pt=95781850&ct=everappzcom&mt=8) ja liitä iPhonesi levynä parissa minuutissa. Kysymyksiä tai palautetta? Lähetä meille sähköpostia osoitteeseen **support@everappz.com**.

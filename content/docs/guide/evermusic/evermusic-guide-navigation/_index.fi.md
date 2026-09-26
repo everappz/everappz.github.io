@@ -25,7 +25,7 @@ Evermusicin toiminnallisuus on jaettu harkitusti kahteen erilliseen osaan: Musii
 Käytitpä sitten iPhonea, iPadia tai Macin kompaktitilaa, kaikki sovelluksen toiminnot ovat helposti saatavilla näytön alareunassa olevan välilehtipalkin kautta. iPad- ja Mac-käyttäjille sama valikko löytyy näytön vasemmalta puolelta. Tämä harkittu organisointi luokittelee kaikki sovelluksen toiminnot helposti saavutettaviin osioihin, varmistaen käyttäjäystävällisen ja tehokkaan kokemuksen.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evermusicin vasen sivupalkki iPadilla ja Macilla" image="/docs/guide/evermusic/evermusic-guide-navigation/img/navigation-left-sidebar.webp" >}}
+  {{< ls-card title="" subtitle="Evermusicin vasen sivupalkki iPadilla ja Macilla" image="/docs/guide/evermusic/evermusic-guide-navigation/img/navigation-left-sidebar.webp" >}}
 {{< /cards >}}
 
 **Yhteydet:** Voit vaivattomasti yhdistää pilvipalvelut kuten Google Drive, MEGA, OneDrive ja Dropbox sekä tietokoneesi ja henkilökohtaisen NAS-laitteen tällä näytöllä.
@@ -47,7 +47,7 @@ Paikalliset tiedostot -osio on jaettu kahteen kategoriaan: "Tiedostot tässä so
 Aktivoi koko näytön soitin napauttamalla mini-soittimen kuvaketta ja käyttämällä pyyhkäisyä alaspäin piilottaaksesi sen. iPadissa ja Macissa mini-soittimen näyttö sijaitsee näytön yläosassa ja se voidaan piilottaa avattaessa koko näytön soitin päävalikon kautta.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="iPhonen välilehtipalkki" image="/docs/guide/evermusic/evermusic-guide-navigation/img/navigation-bottom-tabbar.webp" >}}
+  {{< ls-card title="" subtitle="iPhonen välilehtipalkki" image="/docs/guide/evermusic/evermusic-guide-navigation/img/navigation-bottom-tabbar.webp" >}}
 {{< /cards >}}
 
 ## Mini-soittimen ikkuna (vain Mac)
@@ -55,7 +55,7 @@ Aktivoi koko näytön soitin napauttamalla mini-soittimen kuvaketta ja käyttäm
 Pääset mini-soittimen ikkunaan Macillasi siirtämällä kursorin sovelluksen ikkunan oikeaan alakulmaan ja muuttamalla sen koon mahdollisimman pieneksi. Napauta sitten tiivistämispainiketta (kuvattu alaspäin osoittavana nuolena) aktivoidaksesi mini-soittimen ikkunan. Pidä mini-soittimen ikkuna aina muiden ikkunoiden päällä navigoimalla Macisi ylävalikkoriville, valitsemalla "Ikkuna" ja sitten "Näytä ikkuna aina päällimmäisenä". Tämä ominaisuus on hyödyllinen ääniluentojen kuunteluun ilman keskeytyksiä.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Macin mini-soittimen ikkuna" image="/docs/guide/evermusic/evermusic-guide-navigation/img/navigation-mac-exclusive-miniplayer.webp" >}}
+  {{< ls-card title="" subtitle="Macin mini-soittimen ikkuna" image="/docs/guide/evermusic/evermusic-guide-navigation/img/navigation-mac-exclusive-miniplayer.webp" >}}
 {{< /cards >}}
 
 ## Lisää toimintoja
@@ -63,7 +63,7 @@ Pääset mini-soittimen ikkunaan Macillasi siirtämällä kursorin sovelluksen i
 Käytännöllisesti katsoen jokaisella näytön sisältöobjektilla on "Lisää toimintoja" -painike. Napauta sitä päästäksesi kaikkiin saatavilla oleviin toimintoihin.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Lisää toimintoja -kontekstivalikko" image="/docs/guide/evermusic/evermusic-guide-navigation/img/navigation-more-actions.webp" >}}
+  {{< ls-card title="" subtitle="Lisää toimintoja -kontekstivalikko" image="/docs/guide/evermusic/evermusic-guide-navigation/img/navigation-more-actions.webp" >}}
 {{< /cards >}}
 
 ## Ylätyökalupalkki
@@ -77,7 +77,7 @@ Voit helposti näyttää tai piilottaa tämän työkalupalkin yksinkertaisella a
 - **Sekoita kaikki:** Lisää kaikki kappaleet nykyiseltä sivulta äänisoittimen jonoon sekoittaen ne ennen lisäämistä ihastuttavan kuuntelukokemuksen saamiseksi.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Ylätyökalupalkki Haulla, Toista kaikki ja Sekoita kaikki" image="/docs/guide/evermusic/evermusic-guide-navigation/img/navigation-top-toolbar.webp" >}}
+  {{< ls-card title="" subtitle="Ylätyökalupalkki Haulla, Toista kaikki ja Sekoita kaikki" image="/docs/guide/evermusic/evermusic-guide-navigation/img/navigation-top-toolbar.webp" >}}
 {{< /cards >}}
 
 ## Kontekstivalikko
@@ -91,7 +91,7 @@ Kontekstivalikko tarjoaa nopean pääsyn lisävaihtoehtoihin ja toimintoihin sau
 **Hiiren oikea napsautus:** Napsauta hiiren oikeaa painiketta soluissa, mini-soittimessa tai kompaktisoittimessa kontekstivalikon näyttämiseksi.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Kontekstivalikko macOS:ssa" image="/docs/guide/evermusic/evermusic-guide-navigation/img/navigation-context-menu-macos.webp" >}}
+  {{< ls-card title="" subtitle="Kontekstivalikko macOS:ssa" image="/docs/guide/evermusic/evermusic-guide-navigation/img/navigation-context-menu-macos.webp" >}}
 {{< /cards >}}
 
 ## Esteettömyys
@@ -125,7 +125,7 @@ Evermusic sisältää neljä Kotinäytön / Lukitusnäytön widgetiä, jotka nä
 Kaikki neljä widgetiä ovat saatavilla Pieni, Keskikokoinen ja Suuri -ko'oissa, joten voit valita näyttösi sopivan asettelun.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evermusic-widgetien lisääminen" image="/docs/guide/evermusic/evermusic-guide-navigation/img/navigation-add-widgets.webp" >}}
+  {{< ls-card title="" subtitle="Evermusic-widgetien lisääminen" image="/docs/guide/evermusic/evermusic-guide-navigation/img/navigation-add-widgets.webp" >}}
 {{< /cards >}}
 
 ### Widgetin lisääminen iPhoneen (Kotinäyttö)
@@ -175,7 +175,7 @@ CarPlay-widget päivittyy reaaliajassa musiikin vaihtuessa ja on suurella sormel
 Evermusic sisältää täysin varusteltu **Apple CarPlay** -käyttöliittymän (vain iOS), joka on optimoitu auton näytölle. Kun iPhonesi on yhdistetty yhteensopivaan CarPlay-päälaitteeseen — USB:n tai langattomasti — Evermusic ilmestyy Apple Musicin ja Spotifyn rinnalle CarPlay-sovellusruudukkoon, valmiina suoratoistamaan pilvikirjastoasi tiellä.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evermusic CarPlay-näytöllä" image="/docs/guide/evermusic/evermusic-guide-navigation/img/navigation-carplay-menu.webp" >}}
+  {{< ls-card title="" subtitle="Evermusic CarPlay-näytöllä" image="/docs/guide/evermusic/evermusic-guide-navigation/img/navigation-carplay-menu.webp" >}}
 {{< /cards >}}
 
 ### Mitä saat CarPlayssä

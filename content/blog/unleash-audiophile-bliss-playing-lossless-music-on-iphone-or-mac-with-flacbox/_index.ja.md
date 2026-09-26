@@ -12,7 +12,7 @@ authors:
     image: "/images/about/artem-meleshko-founder-everappz.webp"
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 **要約：** [App StoreからFlacboxをインストール](https://apps.apple.com/us/app/flacbox-flac-player-music/id1097564256?mt=8)して、iPhoneとMacでFLAC、DSD、ALAC、120以上のオーディオフォーマットを再生。iTunes File Sharing、Wi-Fi Drive、クラウドストレージからファイルをインポート。ファイル変換不要。Flacboxはロスレスフォーマットをネイティブにデコードしてスタジオ品質の再生を実現します。
 
@@ -87,22 +87,22 @@ AppleのミュージックアプリはFLACをサポートしていません。Fl
 
 ## よくある質問
 
-{{< details title="Flacboxでロスレスファイルを再生するにはサブスクリプションが必要ですか？" closed="true" >}}
+{{< ls-details title="Flacboxでロスレスファイルを再生するにはサブスクリプションが必要ですか？" closed="true" >}}
 Flacboxは基本的な再生機能をサブスクリプションなしで提供します。アプリダウンロード後すぐにFLAC、DSD、ALACなどのロスレスフォーマットをインポート・再生できます。一部の高度な機能にはプレミアムアップグレードが必要な場合がありますが、基本的なロスレス再生はすぐに利用可能です。
-{{< /details >}}
+{{< /ls-details >}}
 
-{{< details title="FlacboxはDSDファイルをPCMに変換せずに再生できますか？" closed="true" >}}
+{{< ls-details title="FlacboxはDSDファイルをPCMに変換せずに再生できますか？" closed="true" >}}
 はい。FlacboxはDSD64、DSD128、DSD256フォーマットを含むネイティブDSD再生をサポートしています。最良の結果を得るには、DSD対応の外部DACとペアリングしてください。
-{{< /details >}}
+{{< /ls-details >}}
 
-{{< details title="大規模なロスレス音楽コレクションをiPhoneに転送するには？" closed="true" >}}
+{{< ls-details title="大規模なロスレス音楽コレクションをiPhoneに転送するには？" closed="true" >}}
 Flacboxは大規模ライブラリ用に複数の転送オプションを提供します。Wi-Fi Driveではローカルネットワーク上のブラウザからアップロードできます。最速の転送にはLightningまたはUSB-Cアダプタで外部ドライブを直接接続します。
-{{< /details >}}
+{{< /ls-details >}}
 
-{{< details title="iPhoneでFLACファイルを再生する最良の方法は？" closed="true" >}}
+{{< ls-details title="iPhoneでFLACファイルを再生する最良の方法は？" closed="true" >}}
 App StoreからFlacboxをインストールし、iTunes File Sharing、Wi-Fi Drive、クラウドストレージ、USB/Lightning外部ドライブでFLACファイルをインポートします。Flacboxは変換なしでFLACをネイティブにデコードし、32-bit/384 kHzまでの解像度をサポートします。
-{{< /details >}}
+{{< /ls-details >}}
 
-{{< details title="FlacboxはNASやホームサーバーと連携しますか？" closed="true" >}}
+{{< ls-details title="FlacboxはNASやホームサーバーと連携しますか？" closed="true" >}}
 はい。FlacboxはSMB、WebDAV、DLNAプロトコルでNASデバイスやホームサーバーに接続します。デバイスにファイルをコピーせずにロスレスライブラリをストリーミングできます。
-{{< /details >}}
+{{< /ls-details >}}

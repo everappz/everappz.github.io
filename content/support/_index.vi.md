@@ -3,7 +3,9 @@ date: '2025-06-12T17:00:00+00:00'
 title: 'Hỗ trợ'
 ---
 
-{{< lottie src="/images/juicy-json/juicy-girl-is-working-on-laptop-at-a-remote-job.json" width="80%" >}}
+{{< ls-lottie src="/images/juicy-json/juicy-girl-is-working-on-laptop-at-a-remote-job.json" width="80%" >}}
+
+{{< ls-docs-search >}}
 
 ## Cần trợ giúp? Chúng tôi luôn sẵn sàng hỗ trợ bạn
 
@@ -19,9 +21,9 @@ Bằng việc liên hệ với chúng tôi, bạn xác nhận rằng bạn đã 
 Để tiết kiệm thời gian và nhận câu trả lời ngay lập tức, vui lòng xem các tài nguyên hữu ích nhất của chúng tôi. Nhiều câu hỏi thường gặp đã được giải đáp:
 
 {{< cards >}}
-  {{< card icon="book-open" link="/docs/guide" title="Hướng dẫn sử dụng" >}}
-  {{< card icon="question-mark-circle" link="/docs/faq" title="Câu hỏi thường gặp" >}}
-  {{< card icon="light-bulb" link="/docs/howto" title="Hướng dẫn thực hiện" >}}
+  {{< ls-card icon="book-open" link="/docs/guide" title="Hướng dẫn sử dụng" >}}
+  {{< ls-card icon="question-mark-circle" link="/docs/faq" title="Câu hỏi thường gặp" >}}
+  {{< ls-card icon="light-bulb" link="/docs/howto" title="Hướng dẫn thực hiện" >}}
 {{< /cards >}}
 
 Các hướng dẫn này được thiết kế để giúp bạn tận dụng tối đa các ứng dụng của chúng tôi — từ cài đặt đến các tính năng nâng cao.

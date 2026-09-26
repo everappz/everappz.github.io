@@ -7,7 +7,7 @@ tags: ["Evermusic", "Prehrávanie bez medzier", "Návod", "Zvuk", "Prehrávanie"
 readingTime: 4
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 **Zhrnutie:** Otvorte **Nastavenia > Audio prehrávač > Prehrávanie bez medzier** a prepnite prepínač do polohy **ZAP**. Odvtedy sa skladby prehrávajú bez pauzy, cvaknutia či kliknutia medzi nimi. Evermusic si vopred načíta a dekóduje nasledujúcu skladbu, kým aktuálna ešte hrá, a potom odovzdá riadenie medzi jednotlivými zvukovými vzorkami na súvislom bufferi, takže je prechod skutočne plynulý. Ide o skutočné, vzorkovo presné prehrávanie bez medzier, a nie o prelínanie.
 
@@ -73,30 +73,30 @@ Výsledkom je, že live album, beatovo zladený DJ set alebo koncepčná nahráv
 
 ## Často kladené otázky
 
-{{% details title="Ako zapnem prehrávanie bez medzier v Evermusic?" closed="true" %}}
+{{% ls-details title="Ako zapnem prehrávanie bez medzier v Evermusic?" closed="true" %}}
 Otvorte Evermusic, prejdite do Nastavenia > Audio prehrávač > Prehrávanie bez medzier a prepnite prepínač do polohy ZAP. Predvolene je vypnuté. Po zapnutí sa uplatní na všetko, čo prehráte, a zostane zapnuté, kým ho nevypnete.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Je prehrávanie bez medzier v Evermusic skutočné gapless, alebo len prelínanie?" closed="true" %}}
+{{% ls-details title="Je prehrávanie bez medzier v Evermusic skutočné gapless, alebo len prelínanie?" closed="true" %}}
 Je to skutočné, vzorkovo presné prehrávanie bez medzier. Evermusic dekóduje a vopred bufferuje nasledujúcu skladbu, kým aktuálna hrá, a potom odovzdá riadenie medzi zvukovými vzorkami na súvislom bufferi, takže sa nevkladá žiadne ticho, cvaknutie ani výplň a nevzniká žiadna medzera pri reštarte dekodéra. Prelínanie je samostatná, odlišná funkcia, ktorá skladby prekrýva a mieša; gapless zachováva zvuk presne tak, ako bol masterovaný, a iba odstráni medzeru.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Prečo medzi niektorými skladbami stále počujem medzeru?" closed="true" %}}
+{{% ls-details title="Prečo medzi niektorými skladbami stále počujem medzeru?" closed="true" %}}
 Uistite sa, že prehrávanie bez medzier je zapnuté v Nastavenia > Audio prehrávač > Prehrávanie bez medzier. Ak medzera pretrváva, môže byť zakódovaná priamo v nahrávke (niektoré súbory obsahujú pár sekúnd skutočného ticha na začiatku alebo konci skladby). Gapless odstraňuje medzeru, ktorú by prehrávač bežne pridal medzi skladby; nedokáže odstrániť ticho, ktoré je súčasťou zvukového súboru.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Funguje prehrávanie bez medzier s FLAC a inými bezstratovými súbormi?" closed="true" %}}
+{{% ls-details title="Funguje prehrávanie bez medzier s FLAC a inými bezstratovými súbormi?" closed="true" %}}
 Áno. Prehrávanie bez medzier funguje s FLAC, Apple Lossless (ALAC) aj so stratovými formátmi ako MP3 a AAC, či už sú súbory uložené lokálne, v cloude alebo na mediálnom serveri.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Môžem používať prehrávanie bez medzier a prelínanie súčasne?" closed="true" %}}
+{{% ls-details title="Môžem používať prehrávanie bez medzier a prelínanie súčasne?" closed="true" %}}
 Nie. Robia opačné veci, takže zapnutie prehrávania bez medzier automaticky vypne prelínanie. Používajte gapless pre live albumy, DJ mixy a koncepčné nahrávky, kde má zvuk zostať zachovaný presne; použite prelínanie, ak chcete, aby sa skladby prelínali jedna do druhej.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Funguje prehrávanie bez medzier pri streamovaní z cloudu?" closed="true" %}}
+{{% ls-details title="Funguje prehrávanie bez medzier pri streamovaní z cloudu?" closed="true" %}}
 Áno. Evermusic začne bufferovať a dekódovať nasledujúcu skladbu s predstihom, a to aj pri cloudových diskoch a mediálnych serveroch, takže odovzdanie zostáva plynulé. Pri pomalších pripojeniach jednoducho začne pripravovať nasledujúcu skladbu o niečo skôr.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Znižuje prehrávanie bez medzier kvalitu zvuku?" closed="true" %}}
+{{% ls-details title="Znižuje prehrávanie bez medzier kvalitu zvuku?" closed="true" %}}
 Nie. Prehrávanie bez medzier váš zvuk neprekódováva ani nespracúva. Mení iba to, ako sú skladby plánované a bufferované, aby medzi nimi nebola medzera. Každá vzorka sa prehrá presne tak, ako je v súbore.
-{{% /details %}}
+{{% /ls-details %}}

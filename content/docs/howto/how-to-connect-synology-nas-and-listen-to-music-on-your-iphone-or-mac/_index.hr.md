@@ -7,7 +7,7 @@ tags: ["glazba", "streamanje", "nas", "synology", "quickconnect"]
 readingTime: 4
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **Sažetak:** Povežite svoj Synology NAS s Evermusic ili Flacbox koristeći Synologyjev nativni API -- ručno putem IP adrese ili automatski putem QuickConnect ID-a. QuickConnect vam omogućuje streamanje glazbe na daljinu bez prosljeđivanja portova. Obje aplikacije podržavaju FLAC, MP3, WAV i druge hi-res formate.
@@ -140,22 +140,22 @@ Sa sigurnim daljinskim pristupom putem QuickConnect-a i podrškom za širok rasp
 
 ## Često postavljana pitanja
 
-{{% details title="Koja je razlika između ručnog povezivanja i QuickConnect-a?" closed="true" %}}
+{{% ls-details title="Koja je razlika između ručnog povezivanja i QuickConnect-a?" closed="true" %}}
 Ručno povezivanje koristi IP adresu i port NAS-a, što funkcionira na vašoj lokalnoj mreži. QuickConnect koristi Synologyjevu relay uslugu za uspostavljanje veze s bilo kojeg mjesta putem interneta, bez prosljeđivanja portova.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Mogu li streamati glazbu sa Synology NAS-a izvan kućne mreže?" closed="true" %}}
+{{% ls-details title="Mogu li streamati glazbu sa Synology NAS-a izvan kućne mreže?" closed="true" %}}
 Da. Omogućite QuickConnect na svom Synology NAS-u i koristite QuickConnect ID u Evermusicju ili Flacboxu za streamanje glazbe s bilo kojeg mjesta s internetskom vezom.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Koji audio formati su podržani pri streamanju sa Synology NAS-a?" closed="true" %}}
+{{% ls-details title="Koji audio formati su podržani pri streamanju sa Synology NAS-a?" closed="true" %}}
 Evermusic i Flacbox podržavaju FLAC, MP3, AAC, WAV, ALAC, OGG, WMA, DSD i mnoge druge formate. Svi podržani formati rade pri streamanju sa Synology NAS-a.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Trebam li dvofaktorsku autentifikaciju za povezivanje?" closed="true" %}}
+{{% ls-details title="Trebam li dvofaktorsku autentifikaciju za povezivanje?" closed="true" %}}
 Ne, dvofaktorska autentifikacija je opcionalna. Međutim, ako ste omogućili verifikaciju u 2 koraka na svom Synology DSM-u, aplikacija će zatražiti jednokratnu lozinku tijekom prijave. Trebat ćete reautorizirati kada sesija istekne.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Trebam li koristiti Synology nativni API, WebDAV ili SMB za povezivanje?" closed="true" %}}
+{{% ls-details title="Trebam li koristiti Synology nativni API, WebDAV ili SMB za povezivanje?" closed="true" %}}
 Synology nativni API s QuickConnect-om najbolji je izbor za daljinski pristup. Za korištenje lokalne mreže, SMB je obično najbrža opcija. WebDAV dobro funkcionira za lokalni i daljinski pristup. Evermusic i Flacbox podržavaju sva tri protokola.
-{{% /details %}}
+{{% /ls-details %}}

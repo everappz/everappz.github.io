@@ -19,7 +19,7 @@ Evervideo oferuje przejrzysty, intuicyjny interfejs, który jest znajomy dla ka�
 W przeciwieństwie do większości aplikacji multimedialnych, Evervideo łączy konta w chmurze, udziały NAS, serwery multimediów i pliki lokalne w jedną, ujednoliconą kartę Pliki — dzięki czemu nie trzeba przełączać się między osobnymi ekranami. Przeniesienie wideo z serwera Plex, do folderu iCloud Drive, do folderu Dokumenty na iPhonie to operacja na jednym ekranie, jednym dotknięciem.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Główny ekran Evervideo" image="/docs/guide/evervideo/img/evervideo-main.webp" >}}
+  {{< ls-card title="" subtitle="Główny ekran Evervideo" image="/docs/guide/evervideo/img/evervideo-main.webp" >}}
 {{< /cards >}}
 
 ## Karty
@@ -53,7 +53,7 @@ PiP działa ze wszystkimi formatami wideo, które odtwarza Evervideo, w tym z pl
 Praktycznie każdy element treści na ekranie ma przycisk **Więcej akcji** (ikona „⋯" z trzema kropkami). Dotknij, aby otworzyć menu kontekstowe z każdą dostępną akcją dla tego elementu — odtwórz następnie, odtwórz później, dodaj do listy odtwarzania, dodaj do ulubionych, edytuj tagi, pobierz, udostępnij, zmień nazwę, przenieś i tak dalej. Długie listy przewijają się pionowo, dzięki czemu możesz dotrzeć do rzadziej używanych akcji bez zatłoczenia głównego interfejsu.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Menu Więcej akcji Ulubionych w Evervideo" image="/docs/guide/evervideo/img/evervideo-favorites-more-actions.webp" >}}
+  {{< ls-card title="" subtitle="Menu Więcej akcji Ulubionych w Evervideo" image="/docs/guide/evervideo/img/evervideo-favorites-more-actions.webp" >}}
 {{< /cards >}}
 
 ## Górny pasek narzędzi

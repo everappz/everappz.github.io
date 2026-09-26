@@ -19,7 +19,7 @@ Evervideo는 iOS에서 음악 또는 미디어 플레이어를 사용해 본 사
 대부분의 미디어 앱과 달리, Evervideo는 클라우드 계정, NAS 공유, 미디어 서버 및 로컬 파일을 하나의 통합된 파일 탭으로 병합합니다 — 별도의 화면 사이를 왔다 갔다 할 필요가 없습니다. 이를 통해 Plex 서버에서 iCloud Drive 폴더로, iPhone의 Documents 폴더로 비디오를 이동하는 것이 한 화면, 한 번 탭으로 가능합니다.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evervideo 메인 화면" image="/docs/guide/evervideo/img/evervideo-main.webp" >}}
+  {{< ls-card title="" subtitle="Evervideo 메인 화면" image="/docs/guide/evervideo/img/evervideo-main.webp" >}}
 {{< /cards >}}
 
 ## 탭
@@ -53,7 +53,7 @@ PiP는 클라우드 스트리밍 파일 및 RTSP 스트림을 포함하여 Everv
 화면의 거의 모든 콘텐츠 항목에는 추가 작업 버튼 ("⋯" 세 점 아이콘)이 있습니다. 탭하면 해당 항목에 사용 가능한 모든 작업이 포함된 컨텍스트 메뉴가 열립니다 — 다음에 재생, 나중에 재생, 재생 목록에 추가, 즐겨찾기에 추가, 태그 편집, 다운로드, 공유, 이름 변경, 이동 등. 긴 목록은 세로로 스크롤되어 메인 UI를 혼잡하게 하지 않고도 자주 사용하지 않는 작업에 접근할 수 있습니다.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evervideo 즐겨찾기 추가 작업 메뉴" image="/docs/guide/evervideo/img/evervideo-favorites-more-actions.webp" >}}
+  {{< ls-card title="" subtitle="Evervideo 즐겨찾기 추가 작업 메뉴" image="/docs/guide/evervideo/img/evervideo-favorites-more-actions.webp" >}}
 {{< /cards >}}
 
 ## 상단 툴바

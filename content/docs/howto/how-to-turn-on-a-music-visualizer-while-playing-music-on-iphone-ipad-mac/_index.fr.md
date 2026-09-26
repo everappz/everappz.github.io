@@ -7,12 +7,12 @@ tags: ["Evermusic", "Flacbox", "Visualiseur", "Guide pratique", "Milkdrop", "pro
 readingTime: 9
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 **Réponse courte :** [Evermusic](/products/evermusic) et [Flacbox](/products/flacbox) possèdent tous deux un **visualiseur de musique** plein écran qui peint des visuels colorés et mouvants au rythme de votre musique. Ouvrez-le depuis le lecteur **Lecture en cours** (**⋯ Plus > Visualisation**) ou depuis **Paramètres > Visualisation**, puis choisissez un préréglage ou **Auto** et touchez **Démarrer la visualisation**. Sur l'écran du visualiseur, touchez une fois pour afficher ou masquer les commandes et utilisez les flèches **Précédent** et **Suivant** pour changer l'apparence. Il utilise le célèbre moteur **Milkdrop (projectM)** avec **500 préréglages**, effectue le rendu avec **OpenGL** et fonctionne sur **iPhone, iPad et Mac**. Les étapes sont les mêmes dans les deux applications. Les étapes complètes sont ci-dessous.
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Visualiseur de musique : préréglage Starfield Sectors" image="/docs/howto/how-to-turn-on-a-music-visualizer-while-playing-music-on-iphone-ipad-mac/music-visualizer-starfield-sectors-preset.webp" imageStyle="border-radius: clamp(14px, 2vw, 28px);" >}}
+{{< ls-card title="" subtitle="Visualiseur de musique : préréglage Starfield Sectors" image="/docs/howto/how-to-turn-on-a-music-visualizer-while-playing-music-on-iphone-ipad-mac/music-visualizer-starfield-sectors-preset.webp" imageStyle="border-radius: clamp(14px, 2vw, 28px);" >}}
 {{< /cards >}}
 
 ## Qu'est-ce que le visualiseur ?
@@ -85,50 +85,50 @@ Dans les deux cas, les visuels réagissent exactement à l'audio que vous lisez,
 
 ## FAQ
 
-{{% details title="Comment activer le visualiseur dans Evermusic ou Flacbox ?" closed="true" %}}
+{{% ls-details title="Comment activer le visualiseur dans Evermusic ou Flacbox ?" closed="true" %}}
 Ouvrez le lecteur Lecture en cours, touchez le bouton ⋯ (Plus) et choisissez Visualisation. Vous pouvez aussi l'ouvrir depuis Paramètres > Visualisation. Puis choisissez un préréglage (ou Auto) et touchez Démarrer la visualisation. Les étapes sont les mêmes dans les deux applications.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Sur quoi le visualiseur est-il basé ?" closed="true" %}}
+{{% ls-details title="Sur quoi le visualiseur est-il basé ?" closed="true" %}}
 Il utilise le moteur open-source projectM, qui joue des préréglages de style Milkdrop. Ce sont les visuels animés et réactifs à la musique que beaucoup de gens connaissent grâce aux lecteurs de musique de bureau. Evermusic et Flacbox incluent tous deux 500 préréglages et les dessinent avec OpenGL.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Combien y a-t-il de préréglages de visualiseur ?" closed="true" %}}
+{{% ls-details title="Combien y a-t-il de préréglages de visualiseur ?" closed="true" %}}
 500 préréglages. Chacun est une scène animée différente, et vous pouvez les parcourir avec les flèches Suivant et Précédent, ou laisser le mode Auto les parcourir pour vous.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Le visualiseur réagit-il à la musique ?" closed="true" %}}
+{{% ls-details title="Le visualiseur réagit-il à la musique ?" closed="true" %}}
 Oui. Les visuels répondent à l'audio que vous lisez en temps réel, si bien que les formes, les couleurs et le mouvement changent avec le rythme et l'énergie du morceau. Il fonctionne avec les fichiers locaux, les disques cloud, les serveurs multimédias et la radio Internet.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Comment changer le préréglage du visualiseur ?" closed="true" %}}
+{{% ls-details title="Comment changer le préréglage du visualiseur ?" closed="true" %}}
 Touchez l'écran une fois pour afficher les commandes, puis utilisez les flèches Précédent et Suivant en bas pour passer d'un préréglage à l'autre. Le nom et le compteur en haut (par exemple, 429 / 500) se mettent à jour au fur et à mesure. Vous pouvez aussi démarrer en mode Auto pour que l'application change les préréglages automatiquement.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Qu'est-ce que le mode Auto ?" closed="true" %}}
+{{% ls-details title="Qu'est-ce que le mode Auto ?" closed="true" %}}
 Le mode Auto, choisi depuis le sélecteur de préréglages, parcourt les préréglages tout seul, en passant à un nouveau toutes les 30 secondes avec un fondu enchaîné doux. C'est la façon la plus simple de profiter du spectacle sans toucher l'écran.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Comment masquer les commandes à l'écran ?" closed="true" %}}
+{{% ls-details title="Comment masquer les commandes à l'écran ?" closed="true" %}}
 Touchez l'écran une fois pour masquer les commandes et obtenir une vue plein écran nette, et touchez à nouveau pour les faire revenir. Les commandes se masquent également d'elles-mêmes après quelques secondes.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Le visualiseur fonctionne-t-il sur Mac ?" closed="true" %}}
+{{% ls-details title="Le visualiseur fonctionne-t-il sur Mac ?" closed="true" %}}
 Oui. Sur Mac, Evermusic et Flacbox ouvrent tous deux le visualiseur dans sa propre fenêtre et le dessinent avec OpenGL de bureau natif, pour que vous obteniez les mêmes visuels Milkdrop réactifs à la musique sur un grand écran.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Le visualiseur fonctionne-t-il sur iPhone et iPad ?" closed="true" %}}
+{{% ls-details title="Le visualiseur fonctionne-t-il sur iPhone et iPad ?" closed="true" %}}
 Oui. Sur iPhone et iPad, il fonctionne en plein écran, dessiné avec OpenGL ES pour une animation fluide sur les écrans Retina.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Mon écran va-t-il se mettre en veille ou se verrouiller pendant que le visualiseur fonctionne ?" closed="true" %}}
+{{% ls-details title="Mon écran va-t-il se mettre en veille ou se verrouiller pendant que le visualiseur fonctionne ?" closed="true" %}}
 Non. L'application garde l'écran allumé pendant que le visualiseur est actif, si bien que le spectacle ne sera pas interrompu par la mise en veille ou le verrouillage de l'écran.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="L'application mémorise-t-elle mon préréglage choisi ?" closed="true" %}}
+{{% ls-details title="L'application mémorise-t-elle mon préréglage choisi ?" closed="true" %}}
 Oui. Le dernier préréglage que vous avez sélectionné est enregistré et mis en évidence dans le sélecteur de préréglages, pour qu'il soit facile de revenir à votre favori.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Où s'affiche le nom du préréglage actuel ?" closed="true" %}}
+{{% ls-details title="Où s'affiche le nom du préréglage actuel ?" closed="true" %}}
 En haut au centre de l'écran du visualiseur, avec un compteur tel que 429 / 500 qui indique sur quel préréglage vous êtes parmi l'ensemble complet. Dans la capture d'écran d'exemple, le préréglage est Starfield Sectors.
-{{% /details %}}
+{{% /ls-details %}}

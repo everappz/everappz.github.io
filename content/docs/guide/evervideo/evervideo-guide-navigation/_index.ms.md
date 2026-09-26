@@ -19,7 +19,7 @@ Evervideo menawarkan antara muka yang bersih dan intuitif yang terasa biasa kepa
 Tidak seperti kebanyakan aplikasi media, Evervideo menggabungkan akaun awan, perkongsian NAS, pelayan media, dan fail tempatan anda ke dalam satu tab Fail yang bersatu — jadi anda tidak perlu bertukar antara skrin berasingan. Ini menjadikan pemindahan video dari pelayan Plex, ke folder iCloud Drive, ke folder Documents iPhone anda sebagai operasi satu skrin, satu ketikan.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Skrin Utama Evervideo" image="/docs/guide/evervideo/img/evervideo-main.webp" >}}
+  {{< ls-card title="" subtitle="Skrin Utama Evervideo" image="/docs/guide/evervideo/img/evervideo-main.webp" >}}
 {{< /cards >}}
 
 ## Tab
@@ -53,7 +53,7 @@ PiP berfungsi dengan semua format video yang dimainkan Evervideo, termasuk fail 
 Hampir setiap item kandungan pada skrin mempunyai butang Lebih Banyak Tindakan (ikon tiga titik "⋯"). Ketiknya untuk membuka menu sensitif konteks dengan setiap tindakan yang tersedia untuk item tersebut — main seterusnya, main kemudian, tambah ke senarai main, tambah ke kegemaran, edit tag, muat turun, kongsi, namakan semula, pindah, dan sebagainya. Senarai panjang menatal secara menegak supaya anda boleh mencapai tindakan yang kurang biasa tanpa memenuhi UI utama.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Menu Lebih Banyak Tindakan Kegemaran Evervideo" image="/docs/guide/evervideo/img/evervideo-favorites-more-actions.webp" >}}
+  {{< ls-card title="" subtitle="Menu Lebih Banyak Tindakan Kegemaran Evervideo" image="/docs/guide/evervideo/img/evervideo-favorites-more-actions.webp" >}}
 {{< /cards >}}
 
 ## Bar Alat Atas

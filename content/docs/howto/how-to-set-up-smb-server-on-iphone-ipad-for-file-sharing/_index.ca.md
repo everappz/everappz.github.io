@@ -7,7 +7,7 @@ keywords: ["servidor SMB iPhone", "servidor SMB iPad", "com configurar SMB a l'i
 readingTime: 10
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 SMB és la compartició d'arxius integrada a macOS, Windows i Linux, i a gairebé totes les unitats de xarxa (NAS). Quan et connectes a una carpeta compartida d'un altre ordinador i s'obre com un disc normal al Finder o a l'Explorador d'arxius, això és SMB fent la feina. Amb [Everdisk](/products/everdisk) pots posar una compartició SMB al teu iPhone o iPad, de manera que el mateix telèfon apareix com una unitat de xarxa que altres dispositius exploren, de la qual copien i a la qual copien.
 
@@ -136,44 +136,44 @@ L'interruptor **Edició de fitxers** a Configuració, Compartició, Accés contr
 
 ## Preguntes freqüents
 
-{{% details title="Quina és l'adreça i el port SMB del meu iPhone?" closed="true" %}}
+{{% ls-details title="Quina és l'adreça i el port SMB del meu iPhone?" closed="true" %}}
 Després que comencis a compartir, Everdisk mostra l'adreça a la pantalla Compartició. Té l'aspecte smb://192.168.1.20:4455/Share. El 4455 és el port que Everdisk fa servir per a SMB, i Share és el nom de la carpeta compartida. La primera part és l'adreça del teu iPhone a la Wi-Fi, així que la teva serà diferent.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Puc connectar-me a la compartició SMB del meu iPhone des de Windows?" closed="true" %}}
+{{% ls-details title="Puc connectar-me a la compartició SMB del meu iPhone des de Windows?" closed="true" %}}
 L'Explorador d'arxius de Windows només es connecta a SMB al port estàndard i no accepta un port personalitzat a la ruta, mentre que Everdisk fa servir el port 4455. Així que la ruta senzilla d'Assignar una unitat de xarxa sovint no hi arribarà. Fes servir un gestor d'arxius que et permeti definir un port personalitzat, o connecta't des de Windows amb WebDAV, FTP o l'enllaç del navegador. Tots aquests funcionen des de Windows sense cap problema de port.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Com comparteixo arxius entre dos iPhones amb SMB?" closed="true" %}}
+{{% ls-details title="Com comparteixo arxius entre dos iPhones amb SMB?" closed="true" %}}
 Inicia el servidor SMB al primer iPhone a Everdisk. Al segon iPhone, obre l'app Arxius, toca el botó més, tria Connectar al servidor, i introdueix l'adreça smb que es mostra a Everdisk (per exemple smb://192.168.1.20:4455/Share). Connecta't com a Convidat o amb el teu inici de sessió, i la compartició apareix a Arxius. També pots fer servir la mateixa pestanya Dispositius d'Everdisk al segon telèfon.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="El meu iPhone apareix automàticament a la barra lateral del Finder del Mac?" closed="true" %}}
+{{% ls-details title="El meu iPhone apareix automàticament a la barra lateral del Finder del Mac?" closed="true" %}}
 Normalment sí. Everdisk anuncia la compartició SMB a la teva Wi-Fi, així que el teu iPhone sovint apareix sota Ubicacions o Xarxa a la barra lateral del Finder. Fes-hi clic i tria Connectar com a, després Convidat o el teu inici de sessió. Si no apareix, connecta't a mà amb Anar, Connectar al servidor i l'adreça smb completa.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Necessito una contrasenya per fer servir SMB?" closed="true" %}}
+{{% ls-details title="Necessito una contrasenya per fer servir SMB?" closed="true" %}}
 No, un inici de sessió és opcional. Deixa l'Inici de sessió i la Contrasenya buits a Configuració, Compartició, Accés per permetre l'accés de convidats. Defineix-los si vols que les connexions iniciïn sessió. Un inici de sessió i una contrasenya només són obligatoris si actives Requereix xifratge SMB, perquè les connexions xifrades no poden ser anònimes.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="La connexió SMB està xifrada?" closed="true" %}}
+{{% ls-details title="La connexió SMB està xifrada?" closed="true" %}}
 Pot estar-ho. SMB és l'única connexió d'Everdisk que admet xifratge. Defineix un inici de sessió i una contrasenya, i després activa Requereix xifratge SMB a Configuració, Compartició. Cada transferència queda aleshores protegida amb SMB3 (AES). L'altre dispositiu ha d'admetre SMB3, cosa que els Mac moderns i Windows 10 o posterior fan. El xifratge és una funció Premium.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="La gent pot canviar o eliminar els meus arxius per SMB?" closed="true" %}}
+{{% ls-details title="La gent pot canviar o eliminar els meus arxius per SMB?" closed="true" %}}
 Només si ho permets. L'interruptor Edició de fitxers a Configuració, Compartició, Accés controla això. Amb això activat, els dispositius connectats poden pujar, canviar de nom i eliminar. Amb això desactivat, la compartició és de només lectura i els altres poden explorar i copiar arxius del teu telèfon però no poden canviar res.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Per què s'ha tallat la meva connexió SMB?" closed="true" %}}
+{{% ls-details title="Per què s'ha tallat la meva connexió SMB?" closed="true" %}}
 El teu iPhone és el servidor, i iOS posa en pausa les apps que estan massa estona en segon pla. Mantén Everdisk obert a la pantalla mentre hi hagi un dispositiu connectat, i connecta el telèfon a l'electricitat durant les transferències llargues. També assegura't que tots dos dispositius s'han quedat a la mateixa Wi-Fi.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="SMB, WebDAV o FTP, quin hauria de fer servir?" closed="true" %}}
+{{% ls-details title="SMB, WebDAV o FTP, quin hauria de fer servir?" closed="true" %}}
 Fes servir SMB quan vols que el telèfon es comporti com una unitat de xarxa de debò en un Mac, un altre iPhone, Linux o un NAS, i quan vols xifratge. Fes servir WebDAV quan vols una unitat de xarxa que també funcioni bé des de Windows. Fes servir FTP per a la compatibilitat més àmplia amb dispositius i apps antics. Everdisk pot fer-los funcionar tots alhora, així que no quedes lligat a cap.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Everdisk és gratis?" closed="true" %}}
+{{% ls-details title="Everdisk és gratis?" closed="true" %}}
 Sí, Everdisk es baixa gratis i el servidor SMB hi està inclòs. La compra opcional única Premium afegeix el xifratge SMB, ports personalitzats i uns quants altres extres. Pots configurar SMB i compartir arxius sense pagar.
-{{% /details %}}
+{{% /ls-details %}}
 
 Vols provar-ho? [Baixa Everdisk de l'App Store](https://apps.apple.com/app/apple-store/id6751851132?pt=95781850&ct=everappzcom&mt=8) i obre el teu iPhone al Finder en aproximadament un minut. Preguntes o comentaris? Escriu-nos a **support@everappz.com**.

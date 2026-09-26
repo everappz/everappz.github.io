@@ -28,19 +28,19 @@ Everdisk можно скачать бесплатно, а разовая пок�
 
 
 {{< cards >}}
-  {{< card icon="play" title="Совместный доступ" subtitle="Нажмите Начать, выберите, чем поделиться, и запустите все пять серверов сразу. Разберём экран совместного доступа от и до." link="/docs/guide/everdisk/everdisk-guide-sharing" >}}
+  {{< ls-card icon="play" title="Совместный доступ" subtitle="Нажмите Начать, выберите, чем поделиться, и запустите все пять серверов сразу. Разберём экран совместного доступа от и до." link="/docs/guide/everdisk/everdisk-guide-sharing" >}}
 
-  {{< card icon="desktop-computer" title="Подключение устройств" subtitle="Как телевизор, Mac или ПК, веб-браузер, другой телефон или кабель USB подключаются к вашим общим файлам." link="/docs/guide/everdisk/everdisk-guide-connect" >}}
+  {{< ls-card icon="desktop-computer" title="Подключение устройств" subtitle="Как телевизор, Mac или ПК, веб-браузер, другой телефон или кабель USB подключаются к вашим общим файлам." link="/docs/guide/everdisk/everdisk-guide-connect" >}}
 
-  {{< card icon="server" title="Подключение к серверам" subtitle="Доберитесь до других серверов DLNA, WebDAV, FTP, SFTP и SMB и накопителей NAS в вашей сети, чтобы просматривать, транслировать и скачивать." link="/docs/guide/everdisk/everdisk-guide-devices" >}}
+  {{< ls-card icon="server" title="Подключение к серверам" subtitle="Доберитесь до других серверов DLNA, WebDAV, FTP, SFTP и SMB и накопителей NAS в вашей сети, чтобы просматривать, транслировать и скачивать." link="/docs/guide/everdisk/everdisk-guide-devices" >}}
 
-  {{< card icon="folder" title="Файлы и документы" subtitle="Просматривайте, создавайте папки, переименовывайте, перемещайте, копируйте и удаляйте, упаковывайте и распаковывайте архивы, подключайте внешние папки и сканируйте в PDF." link="/docs/guide/everdisk/everdisk-guide-files" >}}
+  {{< ls-card icon="folder" title="Файлы и документы" subtitle="Просматривайте, создавайте папки, переименовывайте, перемещайте, копируйте и удаляйте, упаковывайте и распаковывайте архивы, подключайте внешние папки и сканируйте в PDF." link="/docs/guide/everdisk/everdisk-guide-files" >}}
 
-  {{< card icon="music-note" title="Фото, музыка и видео" subtitle="Делитесь всей фото- и музыкальной библиотекой, слушайте аудио в мини-плеере и смотрите видео на весь экран." link="/docs/guide/everdisk/everdisk-guide-media" >}}
+  {{< ls-card icon="music-note" title="Фото, музыка и видео" subtitle="Делитесь всей фото- и музыкальной библиотекой, слушайте аудио в мини-плеере и смотрите видео на весь экран." link="/docs/guide/everdisk/everdisk-guide-media" >}}
 
-  {{< card icon="lock-closed" title="Доступ и приватность" subtitle="Защитите доступ логином и паролем, разрешайте или запрещайте изменения, блокируйте устройства и держите всё локально." link="/docs/guide/everdisk/everdisk-guide-access" >}}
+  {{< ls-card icon="lock-closed" title="Доступ и приватность" subtitle="Защитите доступ логином и паролем, разрешайте или запрещайте изменения, блокируйте устройства и держите всё локально." link="/docs/guide/everdisk/everdisk-guide-access" >}}
 
-  {{< card icon="adjustments" title="Настройки" subtitle="Разбор каждой настройки: профиль устройства, подключения, качество фото и видео, порты, передачи и другое." link="/docs/guide/everdisk/everdisk-guide-settings" >}}
+  {{< ls-card icon="adjustments" title="Настройки" subtitle="Разбор каждой настройки: профиль устройства, подключения, качество фото и видео, порты, передачи и другое." link="/docs/guide/everdisk/everdisk-guide-settings" >}}
 
-  {{< card icon="question-mark-circle" title="FAQ" subtitle="Быстрые ответы на самые частые вопросы и реальные сценарии использования." link="/docs/faq/everdisk" >}}
+  {{< ls-card icon="question-mark-circle" title="FAQ" subtitle="Быстрые ответы на самые частые вопросы и реальные сценарии использования." link="/docs/faq/everdisk" >}}
 {{< /cards >}}

@@ -62,7 +62,7 @@ Sinisen ja punaisen välillä eroaa se, **miten ne on paketoitu App Storeen**, m
 
 ### Lataa App Storesta
 
-{{< app-details ids="885367198, 905746421, 1564384601" >}}
+{{< ls-app-details ids="885367198, 905746421, 1564384601" >}}
 
 ### App Store -paketointi
 
@@ -142,7 +142,7 @@ Ilmainen versio on hyvä satunnaiselle kuuntelijalle, kun taas Premium ja Pro on
 
 ## Usein kysytyt kysymykset
 
-{{% details title="Ostin Evermusic Pron (tai Premiumin) vanhalla Apple-tilillä. Voinko siirtää sen uudelle Apple-tilille?" closed="true" %}}
+{{% ls-details title="Ostin Evermusic Pron (tai Premiumin) vanhalla Apple-tilillä. Voinko siirtää sen uudelle Apple-tilille?" closed="true" %}}
 Applen virallisen dokumentaation mukaan toisen Apple-tilin ostot voidaan jakaa perhejaon / ostojen jakamisen kautta, edellyttäen että tilit on määritetty asianmukaisesti saman perhejakoryhmän sisällä.
 
 Jos Evermusic Pro ostettiin vanhalla Apple-tililläsi, Apple tarjoaa vaihtoehdon käyttää kyseistä tiliä toissijaisena Apple-tilinä ostojen jakamiseen.
@@ -202,30 +202,30 @@ Näin ollen, jos Applen perhejaon määrittäminen vanhalla tilillä on hankalaa
 Huomaa, että Applen perhejakoa, ostojen jakamista, Apple-tilejä ja App Storen ostohistoriaa hallinnoi kokonaan Apple. Meillä ei ole pääsyä käyttäjien Apple-tileihin, emmekä voi siirtää App Store -ostoja Apple-tililtä toiselle omalta puoleltamme.
 
 Jos kohtaat ongelmia erityisesti perhejaon kanssa tai vanhalla Apple-tilillä tehdyn oston käyttämisessä, Applen tuen tulisi tarkistaa tilien määritykset.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Päivitin jo Evermusic Free (sininen) -version Premiumiin. Tarvitsenko myös Evermusic Pron (punainen)?" closed="true" %}}
+{{% ls-details title="Päivitin jo Evermusic Free (sininen) -version Premiumiin. Tarvitsenko myös Evermusic Pron (punainen)?" closed="true" %}}
 Et. Evermusic Pro (punainen kuvake) on sama sovellus kuin Evermusic Free (sininen kuvake), jossa Premium on jo avattuna. Jos olet jo päivittänyt sinisen sovelluksen Premiumiin, sinulla on kaikki mitä Pro tarjoaa, joten punaista sovellusta ei tarvitse asentaa tai ostaa.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Tuetaanko perhejakoa, ja kuinka moni voi käyttää ostoani?" closed="true" %}}
+{{% ls-details title="Tuetaanko perhejakoa, ja kuinka moni voi käyttää ostoani?" closed="true" %}}
 Kyllä. Perhejako toimii kaikkien Evermusic-ostojen ja -tilausten kanssa, joten voit jakaa Premiumin enintään viiden perheenjäsenen kanssa. Ota ostojen jakaminen käyttöön kohdassa Asetukset → Perhe laitteellasi. Jokainen perheenjäsen lataa sovelluksen omalla Apple-tilillään ja saa Premiumin automaattisesti.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Päivitin Premiumiin iPhonellani, mutta Macini näyttää edelleen ilmaisen version. Miten korjaan tämän?" closed="true" %}}
+{{% ls-details title="Päivitin Premiumiin iPhonellani, mutta Macini näyttää edelleen ilmaisen version. Miten korjaan tämän?" closed="true" %}}
 Premium jaetaan iPhonen ja Macin välillä iCloudin kautta. Varmista ensin, että molemmat laitteet käyttävät samaa Apple-tiliä ja että niissä on iCloud käytössä. Avaa iPhonellasi uusin Evermusic-versio ja odota noin minuutti, jotta ostosi latautuu iCloudiin. Voit myös napauttaa Palauta ostot -kohtaa Asetuksissa. Avaa sitten uusin versio Macillasi, muodosta internetyhteys ja odota noin minuutti. Premiumin pitäisi käynnistyä itsestään.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Miten palautan ostoni uudella laitteella?" closed="true" %}}
+{{% ls-details title="Miten palautan ostoni uudella laitteella?" closed="true" %}}
 Avaa sovelluksen Asetukset ja napauta Palauta ostot. Näet ostosi ja Premium käynnistyy uudelleen. Jos jokin osto puuttuu, varmista, että laite käyttää samaa Apple-tiliä, jolla teit ostoksen, ja että iCloud on käytössä.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Jos asennan Evermusic Pron (punainen), avaako se Premiumin Evermusic Free -versiossa (sininen)?" closed="true" %}}
+{{% ls-details title="Jos asennan Evermusic Pron (punainen), avaako se Premiumin Evermusic Free -versiossa (sininen)?" closed="true" %}}
 Kyllä. Jos asennat punaisen Evermusic Pron laitteelle, saman laitteen sininen Evermusic Free havaitsee sen ja ottaa Premiumin automaattisesti käyttöön. Sinun ei tarvitse ostaa Premiumia uudelleen sinisessä sovelluksessa. Sinun tarvitsee vain pitää punainen sovellus asennettuna.
 
 Toiseen suuntaan tämä ei toimi. Premiumin ostaminen sinisen sovelluksen sisällä ei tee punaisesta Evermusic Prosta ilmaista, koska ne ovat erillisiä sovelluksia App Storessa. Sinisten sovellusten ostot synkronoituvat iCloudin kautta sinisen iPhone-sovelluksen ja sinisen Mac-sovelluksen välillä.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Voinko käyttää Premiumia Intel-Macilla?" closed="true" %}}
+{{% ls-details title="Voinko käyttää Premiumia Intel-Macilla?" closed="true" %}}
 Kyllä. Käytä sinistä Evermusic Free -sovellusta ja päivitä Premiumiin. Sininen Mac-sovellus toimii sekä Apple Silicon- että Intel-Maceilla. Punainen Evermusic Pro toimii vain Apple Silicon -Maceilla (M1 ja uudemmat), eikä sitä voi asentaa Intel-Maceille.
-{{% /details %}}
+{{% /ls-details %}}

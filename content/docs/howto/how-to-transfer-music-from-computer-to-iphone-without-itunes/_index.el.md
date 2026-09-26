@@ -7,14 +7,14 @@ keywords: ["μεταφορά μουσικής χωρίς iTunes", "wifi drive ip
 readingTime: 2
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **Περίληψη:** Χρησιμοποιήστε το Wi-Fi Drive στο Evermusic, Flacbox ή Evertag για να μεταφέρετε μουσική από τον υπολογιστή σας στο iPhone ή iPad σας. Δεν χρειάζεται iTunes. Και οι δύο συσκευές πρέπει να βρίσκονται στο ίδιο δίκτυο Wi-Fi. Μεταφέρετε μέσω προγράμματος περιήγησης ιστού ή WebDAV (Mac Finder / Windows Εξερευνητής αρχείων).
 
 Μπορείτε να παρακολουθήσετε ένα βίντεο-οδηγό από τον [**TECHGUYPH**](https://www.youtube.com/channel/UCgpf09gGFE_c_3pPTtTpnzg) ή να διαβάσετε την κειμενική έκδοση παρακάτω.
 <br><br>
-{{< youtubecard id="CqdqrQ0ge70" title="Can We Wirelessly Put Offline Music on iPhones?" >}}
+{{< ls-youtubecard id="CqdqrQ0ge70" title="Can We Wirelessly Put Offline Music on iPhones?" >}}
 
 Το Wi-Fi Drive είναι η απόλυτη λύση για την απρόσκοπτη μεταφορά της μουσικής συλλογής σας από τον υπολογιστή στο iPhone ή iPad σας χωρίς την ανάγκη iTunes. Αυτή η εύκολη μέθοδος σας επιτρέπει να κατεβάζετε ή να ανεβάζετε πολλαπλά αρχεία ήχου και ακόμη και ολόκληρους φακέλους χρησιμοποιώντας την τοπική σύνδεση Wi-Fi. Τόσο ο υπολογιστής σας όσο και η συσκευή iOS πρέπει να είναι συνδεδεμένοι στο ίδιο δίκτυο Wi-Fi για να λειτουργήσει αυτό τέλεια.
 
@@ -84,22 +84,22 @@ readingTime: 2
 
 ## Συχνές ερωτήσεις
 
-{{% details title="Ποιες μορφές ήχου μπορώ να μεταφέρω με το Wi-Fi Drive;" closed="true" %}}
+{{% ls-details title="Ποιες μορφές ήχου μπορώ να μεταφέρω με το Wi-Fi Drive;" closed="true" %}}
 Το Wi-Fi Drive μεταφέρει οποιονδήποτε τύπο αρχείου. Τα Evermusic και Flacbox υποστηρίζουν αναπαραγωγή MP3, FLAC, AAC, WAV, AIFF, OGG, WMA και πολλών άλλων μορφών ήχου.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Χρειάζομαι iTunes για να βάλω μουσική στο iPhone μου;" closed="true" %}}
+{{% ls-details title="Χρειάζομαι iTunes για να βάλω μουσική στο iPhone μου;" closed="true" %}}
 Όχι. Το Wi-Fi Drive μεταφέρει μουσική απευθείας μέσω του τοπικού δικτύου Wi-Fi. Δεν χρειάζεται iTunes.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Μπορώ να μεταφέρω ολόκληρους φακέλους μουσικής ταυτόχρονα;" closed="true" %}}
+{{% ls-details title="Μπορώ να μεταφέρω ολόκληρους φακέλους μουσικής ταυτόχρονα;" closed="true" %}}
 Ναι. Η μέθοδος μέσω προγράμματος περιήγησης υποστηρίζει μεταφόρτωση ολόκληρων φακέλων, συμπεριλαμβανομένων ένθετων υποφακέλων.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Είναι ασφαλής η μεταφορά μουσικής μου;" closed="true" %}}
+{{% ls-details title="Είναι ασφαλής η μεταφορά μουσικής μου;" closed="true" %}}
 Το Wi-Fi Drive λειτουργεί μόνο στο τοπικό σας δίκτυο. Μπορείτε επίσης να ορίσετε όνομα χρήστη και κωδικό πρόσβασης για πρόσθετη ασφάλεια.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Ποιες εφαρμογές υποστηρίζουν Wi-Fi Drive για μουσική;" closed="true" %}}
+{{% ls-details title="Ποιες εφαρμογές υποστηρίζουν Wi-Fi Drive για μουσική;" closed="true" %}}
 Τα Evermusic, Flacbox και Evertag περιλαμβάνουν όλα Wi-Fi Drive για μεταφορά αρχείων ήχου από τον υπολογιστή σας.
-{{% /details %}}
+{{% /ls-details %}}

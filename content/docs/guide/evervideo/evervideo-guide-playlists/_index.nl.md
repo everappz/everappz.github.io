@@ -19,7 +19,7 @@ In de sectie Afspeellijsten vindt u handige hulpmiddelen om uw videoverzamelinge
 Afspeellijsten in Evervideo kunnen een mix bevatten van online cloudvideo's, offline gedownloade bestanden, lokale bestanden, Foto's-bibliotheekvideos en iOS Muziek-bibliotheekvideos — alles in één afspeellijst — en ze spelen naadloos samen.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evervideo Afspeellijsten in de Mediabibliotheek" image="/docs/guide/evervideo/img/evervideo-playlists-in-media-library.webp" >}}
+  {{< ls-card title="" subtitle="Evervideo Afspeellijsten in de Mediabibliotheek" image="/docs/guide/evervideo/img/evervideo-playlists-in-media-library.webp" >}}
 {{< /cards >}}
 
 ## Een afspeellijst aanmaken

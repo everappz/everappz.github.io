@@ -12,7 +12,7 @@ authors:
     image: "/images/about/artem-meleshko-founder-everappz.webp"
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 **Ringkasan:** [Evermusic 8.7](/products/evermusic) adalah rilis yang berfokus pada kualitas suara untuk iPhone, iPad, dan Mac. Rilis ini menghadirkan **pemutaran tanpa jeda yang sesungguhnya** (tanpa jeda, klik, atau bunyi antar lagu), satu set lengkap **efek audio studio** — Reverb, Delay, Distorsi, Kompresor, dan Crossfeed — serta **normalisasi volume EBU R128** yang menjaga kekerasan tetap konsisten dari lagu ke lagu tanpa tag ReplayGain. **Equalizer 10-band** didesain ulang dengan slider baru, peralihan preset yang lebih cepat, preset kustom yang dapat Anda impor dan ekspor, serta tata letak lanskap dan iPad yang lebih baik. Di balik layar, **mesin streaming AVAudioEngine yang dibangun ulang** meningkatkan keandalan dan dukungan format, termasuk **FLAC** dan **Ogg Vorbis**. **CarPlay** dan **Sedang Diputar** lebih cepat dan lebih akurat di Layar Kunci, di mobil, dan dari remote headphone.
 
@@ -129,50 +129,50 @@ Jika Anda menikmati aplikasinya, mohon berikan peringkat di App Store — ini be
 
 ## Pertanyaan yang Sering Diajukan
 
-{{% details title="Apa yang baru di Evermusic 8.7?" closed="true" %}}
+{{% ls-details title="Apa yang baru di Evermusic 8.7?" closed="true" %}}
 Evermusic 8.7 menambahkan pemutaran tanpa jeda yang sesungguhnya, lima efek audio studio (Reverb, Delay, Distorsi, Kompresor, dan Crossfeed), normalisasi volume EBU R128, equalizer 10-band yang didesain ulang dengan preset kustom dan impor/ekspor, mesin streaming AVAudioEngine yang dibangun ulang dengan dukungan format yang ditingkatkan (termasuk FLAC dan Ogg Vorbis), CarPlay dan Sedang Diputar yang lebih cepat dan akurat, pembaruan desain Liquid Glass, widget Layar Utama yang disegarkan, serta perbaikan bug dan lokalisasi.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Apakah Evermusic memiliki pemutaran tanpa jeda yang sesungguhnya?" closed="true" %}}
+{{% ls-details title="Apakah Evermusic memiliki pemutaran tanpa jeda yang sesungguhnya?" closed="true" %}}
 Ya. Mulai dari Evermusic 8.7, pemutaran benar-benar tanpa jeda: tidak ada jeda, klik, atau bunyi antar lagu. Mesin melakukan pra-buffer dan mendekode lagu berikutnya saat lagu saat ini diputar dan berpindah di antara sampel audio pada ring buffer berkelanjutan, sehingga transisinya tidak terdengar. Ini berfungsi untuk file lokal, streaming cloud, dan server media, dan ideal untuk album live, DJ mix, dan album konsep.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Efek audio apa saja yang disertakan Evermusic 8.7?" closed="true" %}}
+{{% ls-details title="Efek audio apa saja yang disertakan Evermusic 8.7?" closed="true" %}}
 Lima efek real-time: **Reverb** (13 preset ruang, mix wet/dry), **Delay/Gema** (10 preset dengan waktu delay, feedback, low-pass, dan mix), **Distorsi** (22 preset karakter dengan pre-gain dan mix), **Kompresor** (prosesor dinamika lengkap dengan ambang, rasio, attack, release, ekspansi, dan makeup gain, plus 10 preset), dan **Crossfeed** (crossfeed headphone Bauer bs2b dengan kontrol level dan cutoff serta 6 preset). Setiap efek dilengkapi dengan preset yang dikurasi, dan pengaturan kustom Anda diingat antar sesi.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Apa itu Crossfeed dan mengapa saya menggunakannya?" closed="true" %}}
+{{% ls-details title="Apa itu Crossfeed dan mengapa saya menggunakannya?" closed="true" %}}
 Crossfeed memadukan sedikit jumlah yang difilter dari setiap kanal stereo ke kanal lainnya, seperti cara telinga Anda secara alami mendengar speaker sungguhan di ruangan. Pada headphone ini mengurangi pemisahan "di dalam kepala" yang berlebihan dari rekaman dengan panning ekstrem dan membuat mendengarkan lama lebih nyaman. Evermusic menggunakan algoritma Bauer stereophonic-to-binaural (bs2b) yang terkenal dan menyertakan preset seperti Chu Moy dan Jan Meier. Ini sangat efektif pada mix stereo lama dari tahun 1960-an dan 1970-an.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Bagaimana cara kerja normalisasi volume di Evermusic?" closed="true" %}}
+{{% ls-details title="Bagaimana cara kerja normalisasi volume di Evermusic?" closed="true" %}}
 Evermusic 8.7 mengukur kekerasan yang dirasakan dari setiap lagu menggunakan standar EBU R128 (ITU-R BS.1770) secara real-time dan dengan lembut menyesuaikan level menuju target yang konsisten sehingga lagu tidak melonjak dalam volume. Ia tidak memerlukan tag ReplayGain dan tidak mengubah file Anda. Tersedia empat preset — Ringan (−20 LUFS), Standar (−16 LUFS), Kuat (−14 LUFS), dan Malam (−23 LUFS) — dan normalisasi mereset dengan bersih saat Anda mencari atau mengganti lagu.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Apakah normalisasi volume Evermusic sama dengan ReplayGain?" closed="true" %}}
+{{% ls-details title="Apakah normalisasi volume Evermusic sama dengan ReplayGain?" closed="true" %}}
 Ia mencapai tujuan yang sama — kekerasan yang konsisten antar lagu — tetapi bekerja secara berbeda. ReplayGain bergantung pada tag kekerasan yang disimpan di dalam file Anda. Normalizer Evermusic mengukur kekerasan secara langsung menggunakan EBU R128, sehingga berfungsi pada sumber apa pun, termasuk streaming cloud dan radio internet, bahkan ketika file tidak memiliki tag sama sekali.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Berapa banyak band yang dimiliki equalizer Evermusic, dan bisakah saya membuat preset sendiri?" closed="true" %}}
+{{% ls-details title="Berapa banyak band yang dimiliki equalizer Evermusic, dan bisakah saya membuat preset sendiri?" closed="true" %}}
 Equalizer Evermusic adalah equalizer grafis 10-band yang mencakup 32 Hz hingga 16 kHz, dengan setiap band dapat disesuaikan dari −12 dB hingga +12 dB dalam langkah 0,1 dB dan preamp dari −24 dB hingga +24 dB. Ia menyertakan preset bawaan, memungkinkan Anda membuat dan menyimpan preset kustom, dan mendukung impor serta ekspor preset sebagai file .eqp sehingga Anda dapat memindahkan atau membagikannya antar perangkat.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Apa yang berubah pada equalizer Evermusic 8.7?" closed="true" %}}
+{{% ls-details title="Apa yang berubah pada equalizer Evermusic 8.7?" closed="true" %}}
 Equalizer didesain ulang dengan slider baru yang lebih presisi yang mengadopsi tampilan slider sistem iOS 26 dan Liquid Glass, peralihan preset yang lebih cepat dan mulus, serta tata letak yang lebih baik dalam lanskap dan di iPad (bilah preset horizontal dalam potret dan kolom preset vertikal dalam lanskap). Preset kustom dan impor/ekspor .eqp didukung.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Apakah Evermusic 8.7 mendukung FLAC dan Ogg Vorbis?" closed="true" %}}
+{{% ls-details title="Apakah Evermusic 8.7 mendukung FLAC dan Ogg Vorbis?" closed="true" %}}
 Ya. Mesin yang dibangun ulang memutar FLAC (melalui Core Audio) dan Ogg Vorbis (melalui libvorbisfile), bersama MP3, AAC, Apple Lossless (ALAC), WAV, AIFF, AC-3, CAF, dan lainnya, dari file lokal, drive cloud, dan server media.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Apa yang ditingkatkan pada CarPlay dan Layar Kunci?" closed="true" %}}
+{{% ls-details title="Apa yang ditingkatkan pada CarPlay dan Layar Kunci?" closed="true" %}}
 Sampul album CarPlay dimuat beberapa kali lebih cepat pada daftar panjang dan kini muncul di baris daftar iOS 26 yang ringkas yang sebelumnya tidak menampilkan apa pun. Info Sedang Diputar di Layar Kunci dan di CarPlay lebih akurat — judul, waktu berlalu, durasi, dan status putar/jeda ditangkap bersama sehingga tidak dapat bertentangan, dan status buffering dilaporkan dengan benar. Kontrol remote (putar, jeda, berikutnya, sebelumnya, cari, acak, ulangi, kecepatan) merespons dengan andal dari headphone dan mobil, dan penyortiran CarPlay pada pustaka besar lebih cepat.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Apakah efek audio dan equalizer berfungsi dengan streaming cloud dan CarPlay?" closed="true" %}}
+{{% ls-details title="Apakah efek audio dan equalizer berfungsi dengan streaming cloud dan CarPlay?" closed="true" %}}
 Ya. Efek, equalizer, dan normalisasi volume berjalan secara native di dalam mesin pemutaran, sehingga berlaku untuk semua yang diputar Evermusic — file lokal, drive cloud, server media, dan radio internet — dan terus berfungsi selama pemutaran CarPlay dan, jika didukung, melalui AirPlay dan Chromecast.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Apakah Evermusic 8.7 gratis untuk diperbarui, dan perangkat apa saja yang didukungnya?" closed="true" %}}
+{{% ls-details title="Apakah Evermusic 8.7 gratis untuk diperbarui, dan perangkat apa saja yang didukungnya?" closed="true" %}}
 Ya. Evermusic adalah unduhan gratis dari App Store, dan 8.7 adalah pembaruan gratis untuk pengguna yang sudah ada, dengan peningkatan dalam aplikasi opsional untuk fitur lanjutan. Ia berjalan di iPhone, iPad, dan Mac. CarPlay memerlukan kendaraan atau head unit yang kompatibel dengan CarPlay.
-{{% /details %}}
+{{% /ls-details %}}

@@ -12,7 +12,7 @@ authors:
     image: "/images/about/artem-meleshko-founder-everappz.webp"
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 **Kort oppsummert:** Den beste iPhone musikkspilleren avhenger av dine behov. **Evermusic** er ideell for skylagringsavspilling og formatfleksibilitet. **Apple Music** passer de som er dypt inne i Apple-økosystemet. **Spotify** utmerker seg på musikkoppdagelse. **VLC** håndterer alle filformater gratis. **Amazon Music** passer godt med Alexa og Prime.
 
@@ -128,22 +128,22 @@ Amazon Music integreres med Amazon-økosystemet og tilbyr stemmestyring gjennom 
 
 ## FAQ
 
-{{% details title="Hva er den beste gratis musikkspilleren for iPhone?" closed="true" %}}
+{{% ls-details title="Hva er den beste gratis musikkspilleren for iPhone?" closed="true" %}}
 For å spille dine egne filer er Evermusic og VLC begge gratis alternativer. Evermusic legger til skylagringsintegrasjon, mens VLC støtter det bredeste utvalget av filformater.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Kan jeg spille FLAC-filer på iPhone?" closed="true" %}}
+{{% ls-details title="Kan jeg spille FLAC-filer på iPhone?" closed="true" %}}
 Ja. Evermusic og VLC støtter begge FLAC-avspilling på iPhone. Apple Music og Spotify spiller ikke FLAC-filer direkte.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Hvilken musikkspiller-app fungerer med skylagring?" closed="true" %}}
+{{% ls-details title="Hvilken musikkspiller-app fungerer med skylagring?" closed="true" %}}
 Evermusic er den ledende iPhone musikkspilleren med innebygd skylagringsstøtte. Den kobler til iCloud Drive, Dropbox, Google Drive, OneDrive, pCloud og andre tjenester.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Er Evermusic bedre enn Apple Music?" closed="true" %}}
+{{% ls-details title="Er Evermusic bedre enn Apple Music?" closed="true" %}}
 De tjener forskjellige formål. Evermusic spiller dine egne musikkfiler fra skylagring og lokal lagring. Apple Music er en strømmetjeneste med abonnement med en katalog på 100M+ sanger. Hvis du eier dine egne musikkfiler, er Evermusic det bedre valget.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Kan jeg bruke Spotify offline på iPhone?" closed="true" %}}
+{{% ls-details title="Kan jeg bruke Spotify offline på iPhone?" closed="true" %}}
 Ja, men bare med et Spotify Premium-abonnement. Gratis Spotify-brukere kan ikke laste ned sanger for offline avspilling.
-{{% /details %}}
+{{% /ls-details %}}

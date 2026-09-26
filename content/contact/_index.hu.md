@@ -1,9 +1,10 @@
 ---
+excludeSearch: true
 date: '2025-06-12T17:00:00+00:00'
 title: 'Lépjen kapcsolatba velünk'
 ---
 
-{{< lottie src="/images/juicy-json/juicy-girl-typing-on-phone.json" width="60%" >}}
+{{< ls-lottie src="/images/juicy-json/juicy-girl-typing-on-phone.json" width="60%" >}}
 
 ## Postacím
 
@@ -27,4 +28,4 @@ Az e-mail elküldésével megerősíti, hogy elolvasta és elfogadja az [Adatvé
 
 Kövessen minket a közösségi hálózatokon a legfrissebb hírekért, alkalmazásfrissítésekért, tippekért és hasznos információkért:
 
-{{< social-cards >}}
+{{< ls-social-cards >}}

@@ -7,7 +7,7 @@ keywords: ["server FTP iPhone", "server FTP iPad", "cum configurez FTP pe iPhone
 readingTime: 9
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 FTP este soluția veche și de încredere pentru transferul de fișiere. Există de zeci de ani, ceea ce este exact motivul pentru care este atât de utilă: aproape orice poate comunica cu un server îl înțelege. Camerele, televizoarele smart, routerele, discurile de rețea, instrumentele de automatizare și fiecare aplicație FTP de desktop vorbesc FTP. Cu [Everdisk](/products/everdisk) poți rula un server FTP pe iPhone-ul sau iPad-ul tău, astfel încât telefonul devine un loc la care acele dispozitive și aplicații se pot conecta și pot muta fișiere.
 
@@ -118,44 +118,44 @@ Comutatorul **Editarea fișierelor** din Setări, Partajare, Acces controlează 
 
 ## Întrebări frecvente
 
-{{% details title="Care este adresa și portul FTP pentru iPhone-ul meu?" closed="true" %}}
+{{% ls-details title="Care este adresa și portul FTP pentru iPhone-ul meu?" closed="true" %}}
 După ce începi partajarea, Everdisk afișează adresa pe ecranul Partajare. Arată ca ftp://192.168.1.20:2121. 2121 este portul pe care Everdisk îl folosește pentru FTP, iar prima parte este adresa iPhone-ului tău în rețeaua Wi-Fi, așa că a ta va fi diferită.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Cum conectez FileZilla sau Cyberduck la iPhone-ul meu?" closed="true" %}}
+{{% ls-details title="Cum conectez FileZilla sau Cyberduck la iPhone-ul meu?" closed="true" %}}
 Deschide aplicația și creează o nouă conexiune. Setează Host-ul la adresa Wi-Fi a iPhone-ului tău și Port-ul la 2121. Introdu Utilizator și Parolă sau alege Anonymous dacă nu ai setat una în Everdisk. Conectează-te și poți trage fișiere în ambele direcții când Editarea fișierelor este activată.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Mă pot conecta la iPhone-ul meu FTP de pe Windows?" closed="true" %}}
+{{% ls-details title="Mă pot conecta la iPhone-ul meu FTP de pe Windows?" closed="true" %}}
 Da. Deschide File Explorer, fă clic pe bara de adrese, tastează adresa FTP din Everdisk (de exemplu ftp://192.168.1.20:2121) și apasă Enter. Introdu autentificarea ta dacă ai setat una sau continuă ca invitat. Pentru încărcări și mai mult control, folosește în schimb o aplicație FTP precum FileZilla.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Am nevoie de o autentificare pentru FTP?" closed="true" %}}
+{{% ls-details title="Am nevoie de o autentificare pentru FTP?" closed="true" %}}
 Nu, autentificarea este opțională. Lasă Utilizator și Parolă goale în Setări, Partajare, Acces și conectează-te ca Anonymous, ceea ce majoritatea clienților FTP oferă. Setează o autentificare dacă vrei ca conexiunile să se autentifice mai întâi.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="De ce pot doar să descarc și nu să încarc prin FTP?" closed="true" %}}
+{{% ls-details title="De ce pot doar să descarc și nu să încarc prin FTP?" closed="true" %}}
 Două motive sunt frecvente. Primul, comutatorul Editarea fișierelor din Setări, Partajare, Acces trebuie să fie activat pentru a permite încărcări, redenumiri și ștergeri. Al doilea, Mac Finder deschide FTP doar pentru citire, așa că folosește o aplicație FTP precum FileZilla sau Cyberduck când vrei să încarci.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Pot folosi FTP între două iPhone-uri?" closed="true" %}}
+{{% ls-details title="Pot folosi FTP între două iPhone-uri?" closed="true" %}}
 Da. Pornește serverul FTP pe primul iPhone. Pe al doilea, deschide Everdisk, mergi la fila Dispozitive, apasă Conexiune nouă, alege FTP și introdu adresa afișată pe primul telefon. Funcționează și o aplicație FTP dedicată pentru iOS, întrucât aplicația Files din iOS nu include un client FTP.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="FTP este sigur?" closed="true" %}}
+{{% ls-details title="FTP este sigur?" closed="true" %}}
 FTP simplu nu își criptează traficul, așa că tratează-l ca pe un instrument pentru rețele în care ai încredere, precum Wi-Fi-ul de acasă. Într-o rețea pe care nu o controlezi, folosește serverul SMB cu Solicită criptare SMB activat, care protejează fiecare transfer.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Ce dispozitive se pot conecta prin FTP?" closed="true" %}}
+{{% ls-details title="Ce dispozitive se pot conecta prin FTP?" closed="true" %}}
 Aproape orice cu un client FTP. Asta include computere Mac, Windows și Linux, aplicații FTP precum FileZilla și Cyberduck, manageri de fișiere Android și echipamente precum camere, televizoare smart, routere, casete NAS și instrumente de automatizare. Această acoperire largă este principalul motiv pentru a alege FTP.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="De ce s-a întrerupt conexiunea mea FTP?" closed="true" %}}
+{{% ls-details title="De ce s-a întrerupt conexiunea mea FTP?" closed="true" %}}
 iPhone-ul tău este serverul, iar iOS pune pe pauză aplicațiile care stau prea mult în fundal. Ține Everdisk deschis pe ecran cât timp un dispozitiv este conectat și conectează-l la sursa de alimentare pentru transferuri lungi. De asemenea, asigură-te că ambele dispozitive sunt încă în aceeași rețea Wi-Fi.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Everdisk este gratuit?" closed="true" %}}
+{{% ls-details title="Everdisk este gratuit?" closed="true" %}}
 Da, Everdisk se descarcă gratuit, iar serverul FTP este inclus. O achiziție opțională unică Premium adaugă suplimente precum porturi personalizate și conversia fotografiilor și videoclipurilor. Poți configura FTP și transfera fișiere fără să plătești.
-{{% /details %}}
+{{% /ls-details %}}
 
 Gata să încerci? [Descarcă Everdisk din App Store](https://apps.apple.com/app/apple-store/id6751851132?pt=95781850&ct=everappzcom&mt=8) și conectează primul tău client FTP în câteva minute. Întrebări sau feedback? Scrie-ne la **support@everappz.com**.

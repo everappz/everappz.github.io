@@ -7,7 +7,7 @@ tags: ["موسيقى", "usb", "خارجي", "ixpand", "sandisk", "iphone", "ever
 readingTime: 3
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **ملخص:** يتيح لك Evermusic تشغيل الموسيقى مباشرة من محرك أقراص SanDisk iXpand على iPhone أو iPad. قم بتوصيل المحرك، وافتح Evermusic، وابدأ الاستماع -- دون الحاجة إلى نسخ الملفات إلى جهازك. يدعم إدارة الملفات وقوائم التشغيل والمعادل الصوتي وبث AirPlay.
@@ -69,22 +69,22 @@ readingTime: 3
 
 ## الأسئلة الشائعة
 
-{{% details title="ما هي طرازات محرك أقراص iXpand التي يدعمها Evermusic؟" closed="true" %}}
+{{% ls-details title="ما هي طرازات محرك أقراص iXpand التي يدعمها Evermusic؟" closed="true" %}}
 يدعم Evermusic محركات أقراص SanDisk iXpand ببروتوكولات V1 و V2 و V3 و V6 و V7. يمكنك التحقق من التوافق في إعدادات iPhone ضمن عام > حول > iXpand Flash Drive.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="هل يمكنني تشغيل الموسيقى من محرك USB دون نسخ الملفات إلى iPhone؟" closed="true" %}}
+{{% ls-details title="هل يمكنني تشغيل الموسيقى من محرك USB دون نسخ الملفات إلى iPhone؟" closed="true" %}}
 نعم. يقوم Evermusic بتشغيل ملفات الصوت مباشرة من محرك أقراص iXpand. لا حاجة لنسخ أي شيء إلى التخزين الداخلي لجهازك.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="ما هي تنسيقات الصوت التي يدعمها Evermusic من محركات USB؟" closed="true" %}}
+{{% ls-details title="ما هي تنسيقات الصوت التي يدعمها Evermusic من محركات USB؟" closed="true" %}}
 يدعم Evermusic جميع تنسيقات الصوت الرئيسية بما في ذلك MP3 و FLAC و AAC و WAV و AIFF و OGG والمزيد. يمكن تشغيل أي ملف صوتي مخزن على محرك iXpand مباشرة.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="هل يمكنني بث الموسيقى من محرك iXpand إلى مكبرات صوت AirPlay؟" closed="true" %}}
+{{% ls-details title="هل يمكنني بث الموسيقى من محرك iXpand إلى مكبرات صوت AirPlay؟" closed="true" %}}
 نعم. أثناء تشغيل الموسيقى من محرك USB، يمكنك بث الصوت إلى الأجهزة المتوافقة مع AirPlay مثل مكبرات صوت Sonos و Apple TV و Google Chromecast.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="ماذا أفعل إذا لم يتم التعرف على محرك iXpand؟" closed="true" %}}
+{{% ls-details title="ماذا أفعل إذا لم يتم التعرف على محرك iXpand؟" closed="true" %}}
 تأكد من عدم استخدام تطبيقات أخرى للمحرك. حاول فصله وإعادة توصيله. إذا كان طرازك غير مدعوم، استخدم محول Apple Lightning إلى USB لتوصيل المحرك كجهاز USB قياسي.
-{{% /details %}}
+{{% /ls-details %}}

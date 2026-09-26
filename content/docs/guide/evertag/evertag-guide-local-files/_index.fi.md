@@ -18,7 +18,7 @@ Paikalliset tiedostot -osio toimii tiedostonhallinnan keskuksena sovelluksen «D
 Tämä sisäänrakennettu tiedostonhallinta mahdollistaa tiedostojen muokkaamisen ja tarjoaa useita tapoja tuoda äänitiedostoja sovellukseen. Äskettäin avaamasi tiedostot näkyvät automaattisesti **Äskettäin**-välilehdellä, ja tähdellä merkitsemäsi kohteet näkyvät **Suosikit**-kohdassa, joten voit siirtyä suoraan eniten käyttämiisi tiedostoihin palaamatta tähän näyttöön.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evertag Downloads Screen" image="/docs/guide/evertag/img/downloads.webp" >}}
+  {{< ls-card title="" subtitle="Evertag Downloads Screen" image="/docs/guide/evertag/img/downloads.webp" >}}
 {{< /cards >}}
 
 ## Tiedostojen lataaminen pilvipalvelusta
@@ -74,7 +74,7 @@ Näyttää sovelluksen Documents-hakemistoon ja iCloud Driveen tallennettuja tie
 Näyttää laitteellasi olevat tiedostot, mutta eri sovelluksissa. Voit tuoda ne tähän sovellukseen järjestelmän tiedostovalitsimen avulla. Aktivoidaksesi valitsimen, valitse «Avaa tiedostoja...» tiedostojen valitsemiseksi tai «Avaa kansioita...» kansioiden valitsemiseksi. Yksityiskohtaiset ohjeet iPhonellesi tai Macillesi tallennetun paikallisen musiikin tuomiseen ovat saatavilla [täällä](/docs/howto/how-to-play-local-music-stored-on-your-iphone-or-mac). Voit myös yhdistää laitteellasi olevan kansion ja käyttää kansion sisältöä nopeasti. Käytä «Yhdistä kansio» -valikkovaihtoehtoa ja valitse laitteellasi oleva kansio. Napauta «Valmis», ja sovellus luo linkin kyseiseen kansioon luku/kirjoitusoikeuksilla, jolloin voit hallita tiedostoja suoraan tästä sovelluksesta. Katkaise laitteellasi olevan kansion yhteys napauttamalla «Lisää toimintoja» -painiketta ja valitsemalla «Irrottaa».
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evertag Import Files From My Device" image="/docs/guide/evertag/img/open-files.webp" >}}
+  {{< ls-card title="" subtitle="Evertag Import Files From My Device" image="/docs/guide/evertag/img/open-files.webp" >}}
 {{< /cards >}}
 
 ## Yhdistettyihin USB-muistikortteihin tallennettujen tiedostojen tuominen
@@ -86,7 +86,7 @@ Yksityiskohtaiset ohjeet USB-muistikortin yhdistämisestä iPhoneen ja siinä ol
 Nykyisen avatun kansion Lisää toimintoja -valikko sijaitsee oikeassa yläkulmassa ja tarjoaa pääsyn useisiin toimintoihin.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evertag Import Files From My Device" image="/docs/guide/evertag/img/downloads-current-folder-actions.webp" >}}
+  {{< ls-card title="" subtitle="Evertag Import Files From My Device" image="/docs/guide/evertag/img/downloads-current-folder-actions.webp" >}}
 {{< /cards >}}
 
 - **Valita:** Vaihda tiedostojen ja kansioiden valinta-tilaan.

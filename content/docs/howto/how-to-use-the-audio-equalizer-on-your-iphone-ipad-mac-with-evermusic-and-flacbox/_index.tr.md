@@ -7,7 +7,7 @@ tags: ["müzik", "ses", "ekolayzır", "10 bantlı", "kazanç", "yapılandırma",
 keywords: ["ses ekolayzırı iPhone", "Evermusic EQ ön ayarları", "Flacbox 10 bantlı ekolayzır", "bas tiz ayarlama iOS", "ekolayzır Mac müzik uygulaması", "ön amplifikatör ile ses artırma", "özel ses ön ayarları"]
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **Özet:** Evermusic ve Flacbox, ön ayarlar (Rock, Hip-Hop, Bass Booster ve daha fazlası), özel ön ayar oluşturma ve ses artırma için ön amplifikatör içeren profesyonel 10 bantlı ses ekolayzırı sunar. iPhone, iPad ve Mac'te kullanılabilir.
@@ -105,26 +105,26 @@ Müzik deneyiminizi yükseltin, sesinizi her senaryoya uyarlayın ve Evermusic v
 
 ## Sıkça Sorulan Sorular
 
-{{% details title="Ekolayzır tüm ses formatlarıyla çalışır mı?" closed="true" %}}
+{{% ls-details title="Ekolayzır tüm ses formatlarıyla çalışır mı?" closed="true" %}}
 Evet. Evermusic ve Flacbox'taki 10 bantlı EQ, MP3, FLAC, AAC, WAV, ALAC, OGG ve desteklenen diğer tüm formatlarla çalışır.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="EQ ayarları tüm şarkılara uygulanır mı?" closed="true" %}}
+{{% ls-details title="EQ ayarları tüm şarkılara uygulanır mı?" closed="true" %}}
 Evet. Ekolayzırı etkinleştirip bir ön ayar seçtiğinizde, siz değiştirene veya kapatana kadar tüm oynatmalara uygulanır.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Birden fazla özel ön ayar oluşturabilir miyim?" closed="true" %}}
+{{% ls-details title="Birden fazla özel ön ayar oluşturabilir miyim?" closed="true" %}}
 Evet. Birden fazla özel ön ayar oluşturabilir, kaydedebilir ve aralarında geçiş yapabilirsiniz. Yedeklemek için Dışa Aktarma özelliğini kullanın.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Ön amplifikatör bozulmaya neden olur mu?" closed="true" %}}
+{{% ls-details title="Ön amplifikatör bozulmaya neden olur mu?" closed="true" %}}
 Çok yüksek ayarlanırsa olabilir. Ayarlarken ses seviyesi göstergelerini izleyin. Seviyeler kırpılıyorsa (tepeye ulaşıyorsa), ön amplifikatör kazancını hafifçe azaltın.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Ekolayzır hem Evermusic'te hem de Flacbox'ta mevcut mu?" closed="true" %}}
+{{% ls-details title="Ekolayzır hem Evermusic'te hem de Flacbox'ta mevcut mu?" closed="true" %}}
 Evet. Her iki uygulama da ön ayarlar, özel ön ayarlar ve ön amplifikatör içeren aynı 10 bantlı ekolayzırı sunar.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="EQ ön ayarlarımı başka biriyle paylaşabilir miyim?" closed="true" %}}
+{{% ls-details title="EQ ön ayarlarımı başka biriyle paylaşabilir miyim?" closed="true" %}}
 Evet. Ön ayarlarınızı bir dosyaya kaydetmek için Yapılandırmayı Dışa Aktar seçeneğini kullanın, ardından paylaşın. Diğer kişi, Yapılandırmayı İçe Aktar'ı kullanarak içe aktarabilir.
-{{% /details %}}
+{{% /ls-details %}}

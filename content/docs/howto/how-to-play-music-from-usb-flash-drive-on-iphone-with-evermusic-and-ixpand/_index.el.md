@@ -7,7 +7,7 @@ tags: ["μουσική", "usb", "εξωτερικό", "ixpand", "sandisk", "ipho
 readingTime: 3
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **Περίληψη:** Το Evermusic σας επιτρέπει να αναπαράγετε μουσική απευθείας από ένα SanDisk iXpand Flash Drive στο iPhone ή iPad σας. Συνδέστε τη μονάδα, ανοίξτε το Evermusic και ξεκινήστε να ακούτε -- χωρίς να χρειάζεται να αντιγράψετε αρχεία στη συσκευή σας. Υποστηρίζει διαχείριση αρχείων, λίστες αναπαραγωγής, ισοσταθμιστή και streaming μέσω AirPlay.
@@ -69,22 +69,22 @@ readingTime: 3
 
 ## Συχνές ερωτήσεις
 
-{{% details title="Ποια μοντέλα iXpand Flash Drive υποστηρίζει το Evermusic;" closed="true" %}}
+{{% ls-details title="Ποια μοντέλα iXpand Flash Drive υποστηρίζει το Evermusic;" closed="true" %}}
 Το Evermusic υποστηρίζει SanDisk iXpand Flash Drives με πρωτόκολλα V1, V2, V3, V6 και V7. Μπορείτε να ελέγξετε τη συμβατότητα στις Ρυθμίσεις του iPhone σας στο Γενικά > Πληροφορίες > iXpand Flash Drive.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Μπορώ να αναπαράγω μουσική από τη μονάδα USB χωρίς να αντιγράψω αρχεία στο iPhone μου;" closed="true" %}}
+{{% ls-details title="Μπορώ να αναπαράγω μουσική από τη μονάδα USB χωρίς να αντιγράψω αρχεία στο iPhone μου;" closed="true" %}}
 Ναι. Το Evermusic αναπαράγει αρχεία ήχου απευθείας από το iXpand Flash Drive. Δεν χρειάζεται να αντιγράψετε τίποτα στον εσωτερικό αποθηκευτικό χώρο της συσκευής σας.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Ποιες μορφές ήχου υποστηρίζει το Evermusic από μονάδες USB;" closed="true" %}}
+{{% ls-details title="Ποιες μορφές ήχου υποστηρίζει το Evermusic από μονάδες USB;" closed="true" %}}
 Το Evermusic υποστηρίζει όλες τις κύριες μορφές ήχου συμπεριλαμβανομένων MP3, FLAC, AAC, WAV, AIFF, OGG και άλλων. Οποιοδήποτε αρχείο ήχου αποθηκευμένο στη μονάδα iXpand σας μπορεί να αναπαραχθεί απευθείας.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Μπορώ να κάνω streaming μουσικής από τη μονάδα iXpand σε ηχεία AirPlay;" closed="true" %}}
+{{% ls-details title="Μπορώ να κάνω streaming μουσικής από τη μονάδα iXpand σε ηχεία AirPlay;" closed="true" %}}
 Ναι. Κατά την αναπαραγωγή μουσικής από τη μονάδα USB, μπορείτε να κάνετε streaming ήχου σε συσκευές συμβατές με AirPlay όπως ηχεία Sonos, Apple TV και Google Chromecast.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Τι πρέπει να κάνω αν η μονάδα iXpand μου δεν αναγνωρίζεται;" closed="true" %}}
+{{% ls-details title="Τι πρέπει να κάνω αν η μονάδα iXpand μου δεν αναγνωρίζεται;" closed="true" %}}
 Βεβαιωθείτε ότι καμία άλλη εφαρμογή δεν χρησιμοποιεί τη μονάδα. Δοκιμάστε να την αποσυνδέσετε και να την επανασυνδέσετε. Αν το μοντέλο σας δεν υποστηρίζεται, χρησιμοποιήστε έναν προσαρμογέα Apple Lightning σε USB για να συνδέσετε τη μονάδα ως τυπική συσκευή USB.
-{{% /details %}}
+{{% /ls-details %}}

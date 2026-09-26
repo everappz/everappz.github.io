@@ -25,7 +25,7 @@ Evermusic предлагает интуитивный пользовательс
 Независимо от того, используете ли вы iPhone, iPad или компактный режим на Mac, все функции приложения легко доступны через панель вкладок в нижней части экрана. Для пользователей iPad и Mac то же меню находится в левой части экрана. Такая продуманная организация распределяет все функции приложения по удобным разделам, обеспечивая дружественный и эффективный пользовательский опыт.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Левая боковая панель Evermusic на iPad и Mac" image="/docs/guide/evermusic/evermusic-guide-navigation/img/navigation-left-sidebar.webp" >}}
+  {{< ls-card title="" subtitle="Левая боковая панель Evermusic на iPad и Mac" image="/docs/guide/evermusic/evermusic-guide-navigation/img/navigation-left-sidebar.webp" >}}
 {{< /cards >}}
 
 **Подключения:** На этом экране вы можете без труда подключить облачные хранилища, такие как Google Drive, MEGA, OneDrive и Dropbox, а также компьютер и персональный NAS.
@@ -47,7 +47,7 @@ Evermusic предлагает интуитивный пользовательс
 Откройте полноэкранный плеер, нажав на иконку мини-плеера, и используйте жест смахивания вниз, чтобы скрыть его. На iPad и Mac экран мини-плеера расположен в верхней части экрана и может быть скрыт при открытии полноэкранного плеера через главное меню.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Панель вкладок iPhone" image="/docs/guide/evermusic/evermusic-guide-navigation/img/navigation-bottom-tabbar.webp" >}}
+  {{< ls-card title="" subtitle="Панель вкладок iPhone" image="/docs/guide/evermusic/evermusic-guide-navigation/img/navigation-bottom-tabbar.webp" >}}
 {{< /cards >}}
 
 ## Окно мини-плеера (только Mac)
@@ -55,7 +55,7 @@ Evermusic предлагает интуитивный пользовательс
 Для доступа к окну мини-плеера на Mac просто переместите курсор к нижнему правому краю окна приложения и измените его размер до минимального. Затем нажмите кнопку свёртывания (изображённую в виде стрелки вниз), чтобы активировать окно мини-плеера. Чтобы держать окно мини-плеера всегда поверх других окон, перейдите в верхнее меню Mac, выберите «Окно» и затем «Всегда поверх других». Эта функция удобна для прослушивания аудиолекций без прерываний.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Окно мини-плеера Mac" image="/docs/guide/evermusic/evermusic-guide-navigation/img/navigation-mac-exclusive-miniplayer.webp" >}}
+  {{< ls-card title="" subtitle="Окно мини-плеера Mac" image="/docs/guide/evermusic/evermusic-guide-navigation/img/navigation-mac-exclusive-miniplayer.webp" >}}
 {{< /cards >}}
 
 ## Другие действия
@@ -63,7 +63,7 @@ Evermusic предлагает интуитивный пользовательс
 Практически каждый элемент содержимого на экране имеет кнопку «Другие действия». Нажмите её, чтобы получить доступ ко всем доступным действиям.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Контекстное меню Другие действия" image="/docs/guide/evermusic/evermusic-guide-navigation/img/navigation-more-actions.webp" >}}
+  {{< ls-card title="" subtitle="Контекстное меню Другие действия" image="/docs/guide/evermusic/evermusic-guide-navigation/img/navigation-more-actions.webp" >}}
 {{< /cards >}}
 
 ## Верхняя панель инструментов
@@ -77,7 +77,7 @@ Evermusic предлагает интуитивный пользовательс
 - **Воспроизвести в случайном порядке:** Добавьте все треки с текущей страницы в очередь аудиоплеера, перемешав их перед добавлением для приятного прослушивания.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Верхняя панель инструментов с Поиском, Воспроизвести всё и Воспроизвести в случайном порядке" image="/docs/guide/evermusic/evermusic-guide-navigation/img/navigation-top-toolbar.webp" >}}
+  {{< ls-card title="" subtitle="Верхняя панель инструментов с Поиском, Воспроизвести всё и Воспроизвести в случайном порядке" image="/docs/guide/evermusic/evermusic-guide-navigation/img/navigation-top-toolbar.webp" >}}
 {{< /cards >}}
 
 ## Контекстное меню
@@ -91,7 +91,7 @@ Evermusic предлагает интуитивный пользовательс
 **Клик правой кнопкой мыши:** Щёлкните правой кнопкой мыши на ячейках, мини-плеере или компактном плеере, чтобы показать контекстное меню.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Контекстное меню на macOS" image="/docs/guide/evermusic/evermusic-guide-navigation/img/navigation-context-menu-macos.webp" >}}
+  {{< ls-card title="" subtitle="Контекстное меню на macOS" image="/docs/guide/evermusic/evermusic-guide-navigation/img/navigation-context-menu-macos.webp" >}}
 {{< /cards >}}
 
 ## Доступность
@@ -125,7 +125,7 @@ Evermusic поставляется с четырьмя виджетами для
 Все четыре виджета доступны в размерах Малый, Средний и Большой, поэтому вы можете выбрать макет, подходящий для вашего экрана.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Добавление виджетов Evermusic" image="/docs/guide/evermusic/evermusic-guide-navigation/img/navigation-add-widgets.webp" >}}
+  {{< ls-card title="" subtitle="Добавление виджетов Evermusic" image="/docs/guide/evermusic/evermusic-guide-navigation/img/navigation-add-widgets.webp" >}}
 {{< /cards >}}
 
 ### Добавить виджет на iPhone (Главный экран)
@@ -175,7 +175,7 @@ iPad поддерживает как виджеты Today View, так и вид
 Evermusic включает полнофункциональный интерфейс **Apple CarPlay** (только iOS), оптимизированный для автомобильного дисплея. После подключения iPhone к совместимой головной единице CarPlay — через USB или по беспроводной связи — Evermusic появляется рядом с Apple Music и Spotify в сетке приложений CarPlay, готовый транслировать вашу облачную библиотеку в дороге.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evermusic на экране CarPlay" image="/docs/guide/evermusic/evermusic-guide-navigation/img/navigation-carplay-menu.webp" >}}
+  {{< ls-card title="" subtitle="Evermusic на экране CarPlay" image="/docs/guide/evermusic/evermusic-guide-navigation/img/navigation-carplay-menu.webp" >}}
 {{< /cards >}}
 
 ### Что доступно в CarPlay

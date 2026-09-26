@@ -12,7 +12,7 @@ authors:
     image: "/images/about/artem-meleshko-founder-everappz.webp"
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 ## Evermusic: iPhone ve iPad için Bulut Müzik Çalar
 
@@ -22,7 +22,7 @@ Evermusic, kişisel bulut depolamanıza bağlanan ve onu tam bir müzik kütüph
 
 ## Tanıtım Videosunu İzleyin
 
-{{< youtubecard id="BwD0XLgdzEE" title="Evermusic Promo Video" >}}
+{{< ls-youtubecard id="BwD0XLgdzEE" title="Evermusic Promo Video" >}}
 
 ## Videoda Gösterilen Temel Özellikler
 
@@ -36,14 +36,14 @@ Evermusic, kişisel bulut depolamanıza bağlanan ve onu tam bir müzik kütüph
 
 ## Sık Sorulan Sorular
 
-{{% details title="Evermusic nedir?" closed="true" %}}
+{{% ls-details title="Evermusic nedir?" closed="true" %}}
 Evermusic, iPhone ve iPad için bir bulut müzik çalarıdır. Dropbox, Google Drive ve OneDrive gibi bulut depolama hizmetlerine bağlanarak kendi müzik dosyalarınızı akışla dinlemenizi ve indirmenizi sağlar. FLAC, MP3, AAC, WAV ve diğer ses formatlarını destekler.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Evermusic'i indirmek ücretsiz mi?" closed="true" %}}
+{{% ls-details title="Evermusic'i indirmek ücretsiz mi?" closed="true" %}}
 Evet. Evermusic temel özelliklerle ücretsiz olarak indirilebilir. Tek seferlik Premium yükseltme, ekolayzırı, crossfade'i ve ek bulut hesap bağlantılarını açar.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Evermusic hangi bulut hizmetlerini destekliyor?" closed="true" %}}
+{{% ls-details title="Evermusic hangi bulut hizmetlerini destekliyor?" closed="true" %}}
 Evermusic, iCloud Drive, Dropbox, Google Drive, OneDrive, Box, MEGA, Yandex.Disk, pCloud ve WebDAV veya SMB protokolü çalıştıran herhangi bir sunucu dahil 12'den fazla bulut platformunu destekler.
-{{% /details %}}
+{{% /ls-details %}}

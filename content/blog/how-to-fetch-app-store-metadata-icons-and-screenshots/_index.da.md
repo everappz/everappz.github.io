@@ -23,7 +23,7 @@ authors:
     image: "/images/about/artem-meleshko-founder-everappz.webp"
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 ## Få App Store-data på få sekunder
 
@@ -134,53 +134,53 @@ Du behøver ikke en API-nøgle, en udviklerkonto eller et betalt abonnement for 
 AppLookup.pro er open source. Fejlrapporter, nye lande og pull requests er velkomne.
 
 {{< cards cols="1" >}}
-  {{< card link="https://github.com/everappz/AppStoreLookup" title="AppLookup.pro på GitHub" icon="github" tag="open source" >}}
+  {{< ls-card link="https://github.com/everappz/AppStoreLookup" title="AppLookup.pro på GitHub" icon="github" tag="open source" >}}
 {{< /cards >}}
 
 ---
 
 ## Ofte stillede spørgsmål
 
-{{% details title="Er AppLookup.pro virkelig gratis?" closed="true" %}}
+{{% ls-details title="Er AppLookup.pro virkelig gratis?" closed="true" %}}
 Ja. AppLookup.pro er 100 procent gratis og open source. Det kører i din browser. Der er ingen tilmelding, intet betalt niveau og intet brugsloft ud over Apples egne grænser for iTunes Search API.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Hvor kommer dataene fra?" closed="true" %}}
+{{% ls-details title="Hvor kommer dataene fra?" closed="true" %}}
 Hvert resultat hentes i realtid fra Apples officielle [iTunes Search API](https://developer.apple.com/library/archive/documentation/AudioVideo/Conceptual/iTuneSearchAPI/index.html). Værktøjet scraper ikke App Store-sider og cacher ikke svar på nogen server.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Kan jeg downloade app-ikonet i høj opløsning?" closed="true" %}}
+{{% ls-details title="Kan jeg downloade app-ikonet i høj opløsning?" closed="true" %}}
 Ja. Sektionen **App Icon** viser hver ikon-URL, som Apple returnerer. Hvert kort har et Direct Link og en Download-knap, og en Download All Icons ZIP-knap pakker dem alle ind i ét arkiv.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Kan jeg downloade alle App Store-skærmbilleder på én gang?" closed="true" %}}
+{{% ls-details title="Kan jeg downloade alle App Store-skærmbilleder på én gang?" closed="true" %}}
 Ja. Hver skærmbillede-sektion (iPhone, iPad, macOS og Apple TV) har en **Download All (ZIP)**-knap, der samler alle skærmbilleder i fuld opløsning.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Hvordan ser jeg, hvordan en app ser ud i et andet land?" closed="true" %}}
+{{% ls-details title="Hvordan ser jeg, hvordan en app ser ud i et andet land?" closed="true" %}}
 Vælg et land i rullemenuen øverst på siden. Over 40 butikker er understøttet. Klik på **Lookup** igen, og værktøjet henter appen for det land og viser den lokaliserede titel, beskrivelse, skærmbilleder, hvad der er nyt og pris.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Kan jeg kopiere enkelte felter som bundle ID eller udgivelsesdato?" closed="true" %}}
+{{% ls-details title="Kan jeg kopiere enkelte felter som bundle ID eller udgivelsesdato?" closed="true" %}}
 Ja. Hvert tekstfelt i resultatet har sin egen Copy-knap: appnavn, udvikler, beskrivelse, hvad der er nyt, bundle ID, version, pris, filstørrelse, mindste OS, udgivelsesdato, indholdsklassificering, sprog, understøttede enheder og rå JSON.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Virker AppLookup.pro for enhver iOS-app?" closed="true" %}}
+{{% ls-details title="Virker AppLookup.pro for enhver iOS-app?" closed="true" %}}
 Det virker for enhver app, der er offentligt anført i mindst ét App Store-land og returneres af iTunes Search API. Ikke-anførte, fjernede eller enterprise-distribuerede apps vises ikke.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Understøtter det macOS- og Apple TV-apps?" closed="true" %}}
+{{% ls-details title="Understøtter det macOS- og Apple TV-apps?" closed="true" %}}
 Ja. Hvis appen har macOS- eller Apple TV-skærmbilleder i svaret fra iTunes Search API, viser AppLookup.pro dem i deres eget scrollbare panel med downloadknapper.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Kan jeg bruge den rå JSON i min egen kode?" closed="true" %}}
+{{% ls-details title="Kan jeg bruge den rå JSON i min egen kode?" closed="true" %}}
 Ja. Sektionen Raw API Response viser den præcise JSON, som Apple returnerer. Kopiér den ind i Postman, en enhedstest eller en backend-pipeline. Respekter Apples API-vilkår og rimelige hastighedsgrænser.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Er det sikkert at indsætte App Store-URL'er i værktøjet?" closed="true" %}}
+{{% ls-details title="Er det sikkert at indsætte App Store-URL'er i værktøjet?" closed="true" %}}
 Ja. URL'en parses i din browser. Det eneste udgående netværkskald er opslaget mod Apples iTunes Search API.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Hvad er forskellen mellem AppLookup.pro og AppKeywords.pro?" closed="true" %}}
+{{% ls-details title="Hvad er forskellen mellem AppLookup.pro og AppKeywords.pro?" closed="true" %}}
 [AppLookup.pro](https://applookup.pro) er til at læse App Store-metadata fra en hvilken som helst udgivet app: konkurrentanalyse, asset-download, lokaliseringstjek. [AppKeywords.pro](https://appkeywords.pro) er til at skrive App Store-metadata for din egen app: optimering af titel, underoverskrift og søgeord med Fastlane-understøttelse. De to værktøjer fungerer godt sammen.
-{{% /details %}}
+{{% /ls-details %}}

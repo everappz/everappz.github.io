@@ -71,20 +71,20 @@ Deze gids leidt je door elk onderdeel van Flacbox op iPhone, iPad en Mac — van
 
 {{< cards cols="2">}}
 
-{{< card icon="map" link="/docs/guide/flacbox/flacbox-guide-navigation" title="Navigatie" subtitle="Tabbalk op iPhone, Linkermenu op iPad en Mac, minispeler, widgets, CarPlay." >}}
+{{< ls-card icon="map" link="/docs/guide/flacbox/flacbox-guide-navigation" title="Navigatie" subtitle="Tabbalk op iPhone, Linkermenu op iPad en Mac, minispeler, widgets, CarPlay." >}}
 
-{{< card icon="cloud" link="/docs/guide/flacbox/flacbox-guide-connections" title="Verbindingen" subtitle="iCloud, Google Drive, Dropbox, OneDrive, NAS, WebDAV, SMB, DLNA." >}}
+{{< ls-card icon="cloud" link="/docs/guide/flacbox/flacbox-guide-connections" title="Verbindingen" subtitle="iCloud, Google Drive, Dropbox, OneDrive, NAS, WebDAV, SMB, DLNA." >}}
 
-{{< card icon="collection" link="/docs/guide/flacbox/flacbox-guide-music-library" title="Muziekbibliotheek" subtitle="Nummers, Albums, Artiesten, Genres, Componisten — synchroniseer, zoek, bewerk metadata." >}}
+{{< ls-card icon="collection" link="/docs/guide/flacbox/flacbox-guide-music-library" title="Muziekbibliotheek" subtitle="Nummers, Albums, Artiesten, Genres, Componisten — synchroniseer, zoek, bewerk metadata." >}}
 
-{{< card icon="music-note" link="/docs/guide/flacbox/flacbox-guide-playlists" title="Afspeellijsten" subtitle="Maak aan, importeer M3U / M3U8 / CUE, herorden en exporteer naar M3U / CSV / TXT." >}}
+{{< ls-card icon="music-note" link="/docs/guide/flacbox/flacbox-guide-playlists" title="Afspeellijsten" subtitle="Maak aan, importeer M3U / M3U8 / CUE, herorden en exporteer naar M3U / CSV / TXT." >}}
 
-{{< card icon="folder" link="/docs/guide/flacbox/flacbox-guide-local-files" title="Lokale Bestanden" subtitle="Offline muziek, USB-schijven, Wi-Fi Drive, bestandsbeheer, offline mappen." >}}
+{{< ls-card icon="folder" link="/docs/guide/flacbox/flacbox-guide-local-files" title="Lokale Bestanden" subtitle="Offline muziek, USB-schijven, Wi-Fi Drive, bestandsbeheer, offline mappen." >}}
 
-{{< card icon="play" link="/docs/guide/flacbox/flacbox-guide-player" title="Audiospeler" subtitle="Hi-res uitvoer, equalizer, toonhoogte, bladwijzers, AirPlay, Chromecast, snelheid, slaaptimer." >}}
+{{< ls-card icon="play" link="/docs/guide/flacbox/flacbox-guide-player" title="Audiospeler" subtitle="Hi-res uitvoer, equalizer, toonhoogte, bladwijzers, AirPlay, Chromecast, snelheid, slaaptimer." >}}
 
-{{< card icon="adjustments" link="/docs/guide/flacbox/flacbox-guide-settings" title="Instellingen" subtitle="Audio-engine, bibliotheek, bestandsbeheer, CarPlay, widgets, personalisatie, taal, back-up." >}}
+{{< ls-card icon="adjustments" link="/docs/guide/flacbox/flacbox-guide-settings" title="Instellingen" subtitle="Audio-engine, bibliotheek, bestandsbeheer, CarPlay, widgets, personalisatie, taal, back-up." >}}
 
-{{< card icon="question-mark-circle" link="/docs/faq/flacbox" title="Veelgestelde vragen" subtitle="Vind antwoorden op de 50 meest gestelde vragen over Flacbox." >}}
+{{< ls-card icon="question-mark-circle" link="/docs/faq/flacbox" title="Veelgestelde vragen" subtitle="Vind antwoorden op de 50 meest gestelde vragen over Flacbox." >}}
 
 {{< /cards >}}

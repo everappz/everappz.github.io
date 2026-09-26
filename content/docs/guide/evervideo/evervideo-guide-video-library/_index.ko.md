@@ -20,7 +20,7 @@ readingTime: 8
 미디어를 보관함에 추가하는 방법은 두 가지입니다: **수동 추가**(추가할 항목을 직접 선택) 또는 **자동 동기화**(Evervideo가 지정된 클라우드 폴더를 스캔하고 새 파일이 나타날 때 자동으로 추가).
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evervideo 미디어 보관함" image="/docs/guide/evervideo/img/evervideo-genres-in-media-library.webp" >}}
+  {{< ls-card title="" subtitle="Evervideo 미디어 보관함" image="/docs/guide/evervideo/img/evervideo-genres-in-media-library.webp" >}}
 {{< /cards >}}
 
 ## 수동 추가
@@ -91,7 +91,7 @@ Evervideo는 또한 Music 앱 보관함의 비디오를 읽습니다 (iTunes에�
 이 섹션에는 마지막 재생 위치와 함께 최근에 재생한 모든 비디오가 표시되므로, 한 번의 탭으로 재개할 수 있습니다. 설정 → 미디어 보관함 → 최근 항목 → 목록 크기 변경에서 목록이 유지하는 항목 수를 변경할 수 있으며, M3U / CSV / TXT로 내보내어 시청 기록을 백업할 수 있습니다.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evervideo 최근 항목 — 최근 시청한 비디오" image="/docs/guide/evervideo/img/evervideo-recents.webp" >}}
+  {{< ls-card title="" subtitle="Evervideo 최근 항목 — 최근 시청한 비디오" image="/docs/guide/evervideo/img/evervideo-recents.webp" >}}
 {{< /cards >}}
 
 ## 즐겨찾기
@@ -103,7 +103,7 @@ Evervideo는 또한 Music 앱 보관함의 비디오를 읽습니다 (iTunes에�
 Evervideo는 시청하는 모든 비디오의 재생 위치를 추적합니다. 최근 항목, 즐겨찾기, 앨범, 장르, 재생 목록, 폴더 등 어느 목록에서든 각 비디오에 이미 시청한 양을 한눈에 볼 수 있는 작은 진행 막대가 표시됩니다. 이는 긴 TV 시리즈, 강의 재생 목록, 정주행의 관리를 손쉽게 만들어줍니다.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evervideo 파일별 시청 진행 상황이 있는 장르 세부 정보" image="/docs/guide/evervideo/img/evervideo-genre-detail-with-playback-progress-for-watched-files.webp" >}}
+  {{< ls-card title="" subtitle="Evervideo 파일별 시청 진행 상황이 있는 장르 세부 정보" image="/docs/guide/evervideo/img/evervideo-genre-detail-with-playback-progress-for-watched-files.webp" >}}
 {{< /cards >}}
 
 ## 상단 도구 모음
@@ -115,7 +115,7 @@ Evervideo는 시청하는 모든 비디오의 재생 위치를 추적합니다. 
 검색 기능을 통해 미디어 보관함 내에서 특정 제목, 앨범, 장르 또는 재생 목록을 찾을 수 있습니다. 검색 화면에서 정렬, 필터, 그리드/목록 보기 작업에 액세스할 수 있습니다. 검색은 미디어 보관함 데이터베이스에 대해 로컬로 실행되므로 완전히 오프라인에서 작동하며 입력하는 동안 결과를 반환합니다.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evervideo 미디어 보관함 검색" image="/docs/guide/evervideo/img/evervideo-library-search.webp" >}}
+  {{< ls-card title="" subtitle="Evervideo 미디어 보관함 검색" image="/docs/guide/evervideo/img/evervideo-library-search.webp" >}}
 {{< /cards >}}
 
 ## 옵션 메뉴

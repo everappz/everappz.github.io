@@ -7,7 +7,7 @@ tags: ["musik", "usb", "eksternal", "ixpand", "sandisk", "iphone", "evermusic"]
 readingTime: 3
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **Ringkasan:** Evermusic memungkinkan Anda memutar musik langsung dari SanDisk iXpand Flash Drive di iPhone atau iPad Anda. Colokkan drive, buka Evermusic, dan mulai mendengarkan -- tidak perlu menyalin file ke perangkat Anda. Mendukung pengelolaan file, daftar putar, equalizer, dan streaming AirPlay.
@@ -69,22 +69,22 @@ Dengan Evermusic dan SanDisk iXpand Flash Drive, Anda akan memiliki kebebasan un
 
 ## FAQ
 
-{{% details title="Model iXpand Flash Drive apa yang didukung Evermusic?" closed="true" %}}
+{{% ls-details title="Model iXpand Flash Drive apa yang didukung Evermusic?" closed="true" %}}
 Evermusic mendukung SanDisk iXpand Flash Drive dengan protokol V1, V2, V3, V6, dan V7. Anda dapat memeriksa kompatibilitas di Pengaturan iPhone Anda di bawah Umum > Tentang > iXpand Flash Drive.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Bisakah saya memutar musik dari drive USB tanpa menyalin file ke iPhone saya?" closed="true" %}}
+{{% ls-details title="Bisakah saya memutar musik dari drive USB tanpa menyalin file ke iPhone saya?" closed="true" %}}
 Ya. Evermusic memutar file audio langsung dari iXpand Flash Drive. Tidak perlu menyalin apa pun ke penyimpanan internal perangkat Anda.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Format audio apa yang didukung Evermusic dari drive USB?" closed="true" %}}
+{{% ls-details title="Format audio apa yang didukung Evermusic dari drive USB?" closed="true" %}}
 Evermusic mendukung semua format audio utama termasuk MP3, FLAC, AAC, WAV, AIFF, OGG, dan lainnya. File audio apa pun yang disimpan di drive iXpand Anda dapat diputar langsung.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Bisakah saya streaming musik dari drive iXpand ke speaker AirPlay?" closed="true" %}}
+{{% ls-details title="Bisakah saya streaming musik dari drive iXpand ke speaker AirPlay?" closed="true" %}}
 Ya. Saat memutar musik dari drive USB, Anda dapat streaming audio ke perangkat yang kompatibel dengan AirPlay seperti speaker Sonos, Apple TV, dan Google Chromecast.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Apa yang harus saya lakukan jika drive iXpand saya tidak dikenali?" closed="true" %}}
+{{% ls-details title="Apa yang harus saya lakukan jika drive iXpand saya tidak dikenali?" closed="true" %}}
 Pastikan tidak ada aplikasi lain yang menggunakan drive. Coba cabut dan hubungkan kembali. Jika model Anda tidak didukung, gunakan adaptor Apple Lightning ke USB untuk menghubungkan drive sebagai perangkat USB standar.
-{{% /details %}}
+{{% /ls-details %}}

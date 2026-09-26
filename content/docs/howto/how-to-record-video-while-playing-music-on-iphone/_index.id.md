@@ -7,7 +7,7 @@ keywords: ["merekam video sambil memutar musik di iPhone", "cara memutar musik s
 readingTime: 1
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **Singkatnya:** Atur output audio Evermusic ke "Mode campuran", mulai putar lagu, lalu buka aplikasi Kamera dan rekam. Musik terus diputar di latar belakang. Berfungsi dengan TikTok, Instagram, dan aplikasi kamera apa pun.
@@ -45,22 +45,22 @@ Trik ini berfungsi di setiap iPhone.
 
 ## Pertanyaan yang Sering Diajukan
 
-{{% details title="Apakah musik latar terekam ke dalam video?" closed="true" %}}
+{{% ls-details title="Apakah musik latar terekam ke dalam video?" closed="true" %}}
 Musik diputar melalui speaker iPhone, sehingga mikrofon akan menangkapnya bersama suara sekitar lainnya. Untuk audio yang lebih bersih, pertimbangkan menggunakan speaker eksternal yang ditempatkan dekat mikrofon.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Apakah ini berfungsi dengan TikTok dan Instagram?" closed="true" %}}
+{{% ls-details title="Apakah ini berfungsi dengan TikTok dan Instagram?" closed="true" %}}
 Ya. Setelah Evermusic diatur ke Mode campuran dan lagu sedang diputar, musik terus berlanjut saat Anda membuka TikTok, Instagram, atau aplikasi kamera atau perekaman lainnya.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Apa itu Mode campuran di Evermusic?" closed="true" %}}
+{{% ls-details title="Apa itu Mode campuran di Evermusic?" closed="true" %}}
 Mode campuran adalah pengaturan output audio yang memungkinkan Evermusic berbagi sesi audio dengan aplikasi lain. Ini mencegah musik berhenti saat aplikasi lain mengakses mikrofon atau kamera.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Bisakah saya menggunakan Flacbox sebagai pengganti Evermusic untuk ini?" closed="true" %}}
+{{% ls-details title="Bisakah saya menggunakan Flacbox sebagai pengganti Evermusic untuk ini?" closed="true" %}}
 Ya. Flacbox juga mendukung mode output audio campuran. Langkah-langkahnya sama: aktifkan Mode campuran di Pengaturan, mulai pemutaran, dan buka aplikasi kamera Anda.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Bisakah saya bermain game sambil musik dari Evermusic diputar di latar belakang?" closed="true" %}}
+{{% ls-details title="Bisakah saya bermain game sambil musik dari Evermusic diputar di latar belakang?" closed="true" %}}
 Ya. Dengan Mode campuran diaktifkan, musik dari Evermusic terus diputar saat Anda membuka game atau aplikasi apa pun. Audio game dan musik Anda akan diputar bersamaan.
-{{% /details %}}
+{{% /ls-details %}}

@@ -16,7 +16,7 @@ readingTime: 3
 Evertag एक सहज उपयोगकर्ता इंटरफेस प्रदान करता है। जो इसे कई लोकप्रिय ऐप से अलग करता है वह है इसका बिल्ट-इन फ़ाइल मैनेजर, जो उपयोगकर्ताओं को ऑडियो फ़ाइलें संपादित करने और उन्हें क्लाउड स्टोरेज से और उस पर सहजता से ट्रांसफर करने की शक्ति देता है।
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evertag स्क्रीन" image="/docs/guide/evertag/img/tag-editor.webp" >}}
+  {{< ls-card title="" subtitle="Evertag स्क्रीन" image="/docs/guide/evertag/img/tag-editor.webp" >}}
 {{< /cards >}}
 
 ## अनुभाग
@@ -42,7 +42,7 @@ Local Files अनुभाग दो categories में विभाजित
 स्क्रीन पर व्यावहारिक रूप से प्रत्येक content item में एक "अधिक क्रियाएँ" बटन होता है। सभी उपलब्ध क्रियाओं तक पहुँचने के लिए उसे टैप करें।
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evertag अधिक क्रियाएँ" image="/docs/guide/evertag/img/downloads-file-actions.webp" >}}
+  {{< ls-card title="" subtitle="Evertag अधिक क्रियाएँ" image="/docs/guide/evertag/img/downloads-file-actions.webp" >}}
 {{< /cards >}}
 
 ## शीर्ष टूलबार

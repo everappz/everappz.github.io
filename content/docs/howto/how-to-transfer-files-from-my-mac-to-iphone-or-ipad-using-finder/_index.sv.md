@@ -17,7 +17,7 @@ keywords: [
 readingTime: 3
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **Sammanfattning:** Anslut din iPhone eller iPad till din Mac (eller PC) med en USB-kabel. På macOS Catalina och senare använder du Finder. På äldre macOS eller Windows använder du iTunes. Dra filer till en app som Evermusic, Flacbox eller Evertag för att överföra dem direkt.
@@ -117,26 +117,26 @@ Med iTunes Fildelning kan du enkelt hantera filer mellan din dator och iOS-appar
 
 ## Vanliga frågor
 
-{{% details title="Behöver jag en internetanslutning för att överföra filer via USB?" closed="true" %}}
+{{% ls-details title="Behöver jag en internetanslutning för att överföra filer via USB?" closed="true" %}}
 Nej. Fildelning fungerar helt via USB-kabelanslutningen mellan din dator och din iOS-enhet. Inget internet krävs.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Vilka filformat kan jag överföra till Evermusic eller Flacbox?" closed="true" %}}
+{{% ls-details title="Vilka filformat kan jag överföra till Evermusic eller Flacbox?" closed="true" %}}
 Båda apparna stöder ett brett utbud av ljudformat inklusive MP3, FLAC, AAC, WAV, AIFF, OGG, WMA och fler. Kontrollera appens dokumentation för den fullständiga listan över format som stöds.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Varför ser jag inte fliken Filer i Finder?" closed="true" %}}
+{{% ls-details title="Varför ser jag inte fliken Filer i Finder?" closed="true" %}}
 Fliken Filer visas bara när din enhet har minst en app installerad som stöder Fildelning. Installera Evermusic, Flacbox eller Evertag och anslut sedan din enhet igen.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Kan jag överföra filer trådlöst istället för att använda en USB-kabel?" closed="true" %}}
+{{% ls-details title="Kan jag överföra filer trådlöst istället för att använda en USB-kabel?" closed="true" %}}
 Ja. Evermusic och Flacbox stöder också molnlagringstjänster och Wi-Fi-överföring. USB-fildelning genom Finder eller iTunes är dock vanligtvis snabbare för stora musikbibliotek.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Kommer överföring av filer via Finder att skriva över befintliga filer på min enhet?" closed="true" %}}
+{{% ls-details title="Kommer överföring av filer via Finder att skriva över befintliga filer på min enhet?" closed="true" %}}
 Nej. Nya filer läggs till bredvid befintliga. Om en fil med samma namn redan finns kan macOS automatiskt byta namn på den nya filen.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Fungerar den här metoden med Windows-datorer?" closed="true" %}}
+{{% ls-details title="Fungerar den här metoden med Windows-datorer?" closed="true" %}}
 Ja. På Windows använder du iTunes för att överföra filer. Processen är densamma som beskrivs i iTunes-avsnittet ovan. Installera iTunes från Microsoft Store eller Apples webbplats.
-{{% /details %}}
+{{% /ls-details %}}

@@ -4,7 +4,9 @@ title: 'Dokumentasjon'
 ---
 
 
-{{< lottie src="/images/juicy-json/juicy-girl-and-boy-searching-for-the-right-files.json" width="90%" >}}
+{{< ls-lottie src="/images/juicy-json/juicy-girl-and-boy-searching-for-the-right-files.json" width="90%" >}}
+
+{{< ls-docs-search >}}
 
 Denne seksjonen inneholder nyttig dokumentasjon for alle Everappz-apper — inkludert oppsettinstruksjoner, funksjonsoversikter og avanserte tips.
 
@@ -13,9 +15,9 @@ Hvis du er ny eller ønsker å lære mer, er våre veiledninger og vanlige spør
 ## Kom i gang
 
 {{< cards >}}
-  {{< card icon="book-open" link="/docs/guide" title="Brukerveiledning" >}}
-  {{< card icon="question-mark-circle" link="/docs/faq" title="Vanlige spørsmål" >}}
-  {{< card icon="light-bulb" link="/docs/howto" title="Veiledninger" >}}
+  {{< ls-card icon="book-open" link="/docs/guide" title="Brukerveiledning" >}}
+  {{< ls-card icon="question-mark-circle" link="/docs/faq" title="Vanlige spørsmål" >}}
+  {{< ls-card icon="light-bulb" link="/docs/howto" title="Veiledninger" >}}
 {{< /cards >}}
 
 - **Brukerveiledningen** hjelper deg med å installere, konfigurere og få mest mulig ut av appene våre.
@@ -31,5 +33,5 @@ Hvis spørsmålet ditt ikke er besvart i dokumentasjonen, kan du besøke vår [S
 For juridiske retningslinjer, databehandlingspraksis og brukeravtaler knyttet til våre tjenester, se de juridiske dokumentene nedenfor:
 
 {{< cards >}}
-  {{< card icon="document-text" link="/legal" title="Juridisk senter" >}}
+  {{< ls-card icon="document-text" link="/legal" title="Juridisk senter" >}}
 {{< /cards >}}

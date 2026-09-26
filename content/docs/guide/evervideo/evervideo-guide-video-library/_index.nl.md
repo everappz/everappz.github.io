@@ -20,7 +20,7 @@ De **Mediabibliotheek** is het hart van Evervideo. Het brengt elk video- en muzi
 U hebt twee manieren om media aan uw bibliotheek toe te voegen: **handmatige toevoeging** (u bepaalt exact wat wordt toegevoegd) of **automatische synchronisatie** (Evervideo scant aangewezen cloudmappen en voegt nieuwe bestanden automatisch toe zodra ze verschijnen).
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evervideo Mediabibliotheek" image="/docs/guide/evervideo/img/evervideo-genres-in-media-library.webp" >}}
+  {{< ls-card title="" subtitle="Evervideo Mediabibliotheek" image="/docs/guide/evervideo/img/evervideo-genres-in-media-library.webp" >}}
 {{< /cards >}}
 
 ## Handmatige Toevoeging
@@ -91,7 +91,7 @@ Als u niet alle titels ziet, zorg dan dat de app elk bestand heeft gescand. U ku
 Dit gedeelte toont alle recent afgespeelde video's met hun laatste afspeelpositie, zodat u ze met één tik kunt hervatten. U kunt wijzigen hoeveel vermeldingen de lijst bijhoudt in Instellingen → Mediabibliotheek → Recente items → Lijstgrootte Wijzigen, en de lijst exporteren naar M3U / CSV / TXT om uw kijkgeschiedenis te back-uppen.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evervideo Recente items — Onlangs Bekeken Video's" image="/docs/guide/evervideo/img/evervideo-recents.webp" >}}
+  {{< ls-card title="" subtitle="Evervideo Recente items — Onlangs Bekeken Video's" image="/docs/guide/evervideo/img/evervideo-recents.webp" >}}
 {{< /cards >}}
 
 ## Favorieten
@@ -103,7 +103,7 @@ Markeer video's als favoriet op het spelerscherm of via het optiemenu. Favoriete
 Evervideo houdt de afspeelpositie bij van elke video die u bekijkt. Elke video in elke lijst — Recente items, Favorieten, een album, een genre, een afspeellijst, een map — toont een kleine voortgangsbalk zodat u in één oogopslag kunt zien hoeveel u al hebt bekeken. Dit maakt lange tv-seizoenen, cursusafspeellijsten en bingesessies moeiteloos te beheren.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evervideo Genredetail met Kijkvoortgang per Bestand" image="/docs/guide/evervideo/img/evervideo-genre-detail-with-playback-progress-for-watched-files.webp" >}}
+  {{< ls-card title="" subtitle="Evervideo Genredetail met Kijkvoortgang per Bestand" image="/docs/guide/evervideo/img/evervideo-genre-detail-with-playback-progress-for-watched-files.webp" >}}
 {{< /cards >}}
 
 ## Bovenste Werkbalk
@@ -115,7 +115,7 @@ De bovenste werkbalk, vlak onder de navigatiebalk, biedt verschillende handige a
 De zoekfunctie stelt u in staat een specifieke titel, album, genre of afspeellijst in uw mediabibliotheek te vinden. In het Zoekscherm hebt u toegang tot de acties Sorteren, Filteren en Raster-/Lijstweergave. Zoeken wordt lokaal uitgevoerd op de mediabiblioteekdatabase, dus het werkt volledig offline en geeft resultaten terug terwijl u typt.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evervideo Mediabibliotheek Zoeken" image="/docs/guide/evervideo/img/evervideo-library-search.webp" >}}
+  {{< ls-card title="" subtitle="Evervideo Mediabibliotheek Zoeken" image="/docs/guide/evervideo/img/evervideo-library-search.webp" >}}
 {{< /cards >}}
 
 ## Optiemenu

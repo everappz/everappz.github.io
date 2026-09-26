@@ -19,7 +19,7 @@ Evervideo nudi čisto, intuitivno sučelje koje će biti poznato svakome tko je 
 Za razliku od većine medijskih aplikacija, Evervideo spaja vaše cloud račune, NAS dijeljene mape, medijske servere i lokalne datoteke u jednu objedinjenu karticu Datoteke — tako da ne skačete između zasebnih zaslona. To premještanje videa s Plex servera, u mapu iCloud Drive, do mape Documents na vašem iPhoneu čini operacijom na jednom zaslonu i jednim dodirom.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Glavni zaslon Evervideo" image="/docs/guide/evervideo/img/evervideo-main.webp" >}}
+  {{< ls-card title="" subtitle="Glavni zaslon Evervideo" image="/docs/guide/evervideo/img/evervideo-main.webp" >}}
 {{< /cards >}}
 
 ## Kartice
@@ -53,7 +53,7 @@ PiP radi sa svim video formatima koje Evervideo reproducira, uključujući datot
 Gotovo svaka stavka sadržaja na zaslonu ima gumb Više radnji (ikona s tri točke "⋯"). Dodirnite ga da otvorite kontekstno osjetljivi izbornik sa svim dostupnim radnjama za tu stavku — reproduciraj sljedeće, reproduciraj kasnije, dodaj u popis za reproduciju, dodaj u omiljene, uredi oznake, preuzmi, podijeli, preimenuj, premjesti, i tako dalje. Dugi popisi se pomiču okomito kako biste mogli dosegnuti rjeđe korištene radnje bez gužvanja glavnog korisničkog sučelja.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Izbornik Više radnji omiljenih stavki u Evervideu" image="/docs/guide/evervideo/img/evervideo-favorites-more-actions.webp" >}}
+  {{< ls-card title="" subtitle="Izbornik Više radnji omiljenih stavki u Evervideu" image="/docs/guide/evervideo/img/evervideo-favorites-more-actions.webp" >}}
 {{< /cards >}}
 
 ## Gornja alatna traka

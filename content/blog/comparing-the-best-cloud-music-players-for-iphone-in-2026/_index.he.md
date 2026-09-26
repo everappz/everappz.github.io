@@ -12,7 +12,7 @@ authors:
     image: "/images/about/artem-meleshko-founder-everappz.webp"
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 ## איזה נגן מוזיקה ענן הוא הטוב ביותר ל-iPhone?
 
@@ -91,22 +91,22 @@ Deezer הוא שירות סטרימינג מוזיקה גלובלי עם עשר�
 
 ## שאלות נפוצות
 
-{{% details title="האם אני יכול לנגן קבצי FLAC ב-iPhone מבלי להמיר אותם?" closed="true" %}}
+{{% ls-details title="האם אני יכול לנגן קבצי FLAC ב-iPhone מבלי להמיר אותם?" closed="true" %}}
 כן. Evermusic מנגן FLAC, DSD, WAV, ALAC ופורמטים ללא אובדן אחרים בצורה מקורית ב-iPhone. לא נדרשת המרת קבצים. פשוט חבר את חשבון אחסון הענן שלך וסדרג או הוריד את קבצי ה-FLAC שלך ישירות.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="איזה נגן מוזיקה ענן עובד עם Dropbox ו-Google Drive?" closed="true" %}}
+{{% ls-details title="איזה נגן מוזיקה ענן עובד עם Dropbox ו-Google Drive?" closed="true" %}}
 Evermusic תומך ב-Dropbox, Google Drive, OneDrive, Box, MEGA, pCloud, WebDAV, SMB ועוד -- יותר מ-12 שירותי ענן בסך הכל. רוב אפליקציות הסטרימינג המרכזיות כמו Spotify ו-Apple Music אינן מתחברות לאחסון ענן של צד שלישי.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="האם אני צריך מנוי כדי להשתמש בנגן מוזיקה ענן?" closed="true" %}}
+{{% ls-details title="האם אני צריך מנוי כדי להשתמש בנגן מוזיקה ענן?" closed="true" %}}
 זה תלוי באפליקציה. Spotify, Apple Music ו-Deezer דורשים מנויים חודשיים. Evermusic מציע שכבה חינמית ורכישת Premium חד-פעמית ללא דמי מנוי חוזרים. אתה משתמש באחסון הענן שלך עצמך לאירוח קבצי המוזיקה שלך.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="מהו נגן המוזיקה הטוב ביותר להאזנה אופליין ב-iPhone?" closed="true" %}}
+{{% ls-details title="מהו נגן המוזיקה הטוב ביותר להאזנה אופליין ב-iPhone?" closed="true" %}}
 כל הנגנים המרכזיים תומכים בהורדות אופליין, אך הגישה שונה. Spotify ו-Apple Music מאפשרים להוריד רצועות מהקטלוגים שלהם. Evermusic מאפשר לך להוריד קבצים משלך מאחסון ענן להשמעה אופליין -- אידיאלי לטיסות, נסיעות יומיומיות או אזורים ללא קישוריות.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="האם אני יכול להשתמש בנגן מוזיקה ענן עם ה-NAS שלי או השרת הביתי?" closed="true" %}}
+{{% ls-details title="האם אני יכול להשתמש בנגן מוזיקה ענן עם ה-NAS שלי או השרת הביתי?" closed="true" %}}
 כן. Evermusic תומך בפרוטוקולי WebDAV ו-SMB, מה שאומר שהוא יכול להתחבר לרוב מכשירי NAS מ-Synology, QNAP ו-Western Digital. זה הופך את ה-iPhone שלך לנגן מרוחק לכל ספריית המוזיקה הביתית שלך.
-{{% /details %}}
+{{% /ls-details %}}

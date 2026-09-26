@@ -7,14 +7,14 @@ keywords: ["iTunes के बिना संगीत ट्रांसफर 
 readingTime: 2
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **सारांश:** अपने कंप्यूटर से iPhone या iPad में संगीत ट्रांसफर करने के लिए Evermusic, Flacbox या Evertag में Wi-Fi Drive का उपयोग करें। iTunes की आवश्यकता नहीं। दोनों डिवाइस एक ही Wi-Fi नेटवर्क पर होने चाहिए। वेब ब्राउज़र या WebDAV (Mac Finder / Windows फ़ाइल एक्सप्लोरर) के माध्यम से ट्रांसफर करें।
 
 आप [**TECHGUYPH**](https://www.youtube.com/channel/UCgpf09gGFE_c_3pPTtTpnzg) का वीडियो ट्यूटोरियल देख सकते हैं या नीचे टेक्स्ट संस्करण पढ़ सकते हैं।
 <br><br>
-{{< youtubecard id="CqdqrQ0ge70" title="Can We Wirelessly Put Offline Music on iPhones?" >}}
+{{< ls-youtubecard id="CqdqrQ0ge70" title="Can We Wirelessly Put Offline Music on iPhones?" >}}
 
 Wi-Fi Drive आपके कंप्यूटर से iPhone या iPad में अपने संगीत संग्रह को बिना iTunes के सहजता से ट्रांसफर करने का सबसे अच्छा समाधान है। यह आसान तरीका आपको अपने स्थानीय Wi-Fi कनेक्शन का उपयोग करके कई ऑडियो फ़ाइलें और यहां तक कि पूरे फ़ोल्डर डाउनलोड या अपलोड करने की अनुमति देता है। इसके सही ढंग से काम करने के लिए आपका कंप्यूटर और iOS डिवाइस दोनों एक ही Wi-Fi नेटवर्क से जुड़े होने चाहिए।
 
@@ -84,22 +84,22 @@ Wi-Fi Drive के साथ, iTunes से जूझने के दिन ख
 
 ## अक्सर पूछे जाने वाले प्रश्न
 
-{{% details title="Wi-Fi Drive से मैं कौन से ऑडियो फॉर्मेट ट्रांसफर कर सकता हूं?" closed="true" %}}
+{{% ls-details title="Wi-Fi Drive से मैं कौन से ऑडियो फॉर्मेट ट्रांसफर कर सकता हूं?" closed="true" %}}
 Wi-Fi Drive किसी भी फ़ाइल प्रकार को ट्रांसफर करता है। Evermusic और Flacbox MP3, FLAC, AAC, WAV, AIFF, OGG, WMA और कई अन्य ऑडियो फॉर्मेट की प्लेबैक का समर्थन करते हैं।
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="क्या मुझे अपने iPhone पर संगीत डालने के लिए iTunes की आवश्यकता है?" closed="true" %}}
+{{% ls-details title="क्या मुझे अपने iPhone पर संगीत डालने के लिए iTunes की आवश्यकता है?" closed="true" %}}
 नहीं। Wi-Fi Drive आपके स्थानीय Wi-Fi नेटवर्क पर सीधे संगीत ट्रांसफर करता है। iTunes की आवश्यकता नहीं है।
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="क्या मैं एक बार में पूरे संगीत फ़ोल्डर ट्रांसफर कर सकता हूं?" closed="true" %}}
+{{% ls-details title="क्या मैं एक बार में पूरे संगीत फ़ोल्डर ट्रांसफर कर सकता हूं?" closed="true" %}}
 हां। वेब ब्राउज़र विधि पूरे फ़ोल्डर अपलोड करने का समर्थन करती है, जिसमें नेस्टेड सबफ़ोल्डर भी शामिल हैं।
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="क्या मेरा संगीत ट्रांसफर सुरक्षित है?" closed="true" %}}
+{{% ls-details title="क्या मेरा संगीत ट्रांसफर सुरक्षित है?" closed="true" %}}
 Wi-Fi Drive केवल आपके स्थानीय नेटवर्क पर चलता है। अतिरिक्त सुरक्षा के लिए आप उपयोगकर्ता नाम और पासवर्ड भी सेट कर सकते हैं।
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="कौन से ऐप्स संगीत के लिए Wi-Fi Drive का समर्थन करते हैं?" closed="true" %}}
+{{% ls-details title="कौन से ऐप्स संगीत के लिए Wi-Fi Drive का समर्थन करते हैं?" closed="true" %}}
 Evermusic, Flacbox और Evertag सभी में आपके कंप्यूटर से ऑडियो फ़ाइलें ट्रांसफर करने के लिए Wi-Fi Drive शामिल है।
-{{% /details %}}
+{{% /ls-details %}}

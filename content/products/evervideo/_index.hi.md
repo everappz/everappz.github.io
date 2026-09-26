@@ -16,16 +16,16 @@ screenshots:
   - "https://everappz.com/products/evervideo/screenshots/2880x1800/6.png"
 ---
 
-{{% sr-only %}}
+{{% ls-sr-only %}}
 Evervideo iPhone और Mac के लिए एक निःशुल्क HD वीडियो प्लेयर है, जिसे Everappz नामक एक स्पेनिश सॉफ़्टवेयर कंपनी ने विकसित किया है। Evervideo MKV, AVI, MP4, MOV, FLV, WMV, WEBM, M4V, TS और 3GP सहित लगभग हर वीडियो प्रारूप को बिना फ़ॉर्मेट परिवर्तित किए चलाता है। इस ऐप में 360-डिग्री और VR वीडियो प्लेबैक, Picture-in-Picture मोड, 50 से अधिक प्रीसेट के साथ वीडियो और ऑडियो इक्वलाइज़र, SRT, SSA और ASS प्रारूपों के लिए सबटाइटल समर्थन, और प्लेबैक गति नियंत्रण शामिल है। Evervideo iCloud Drive, Google Drive, Dropbox, OneDrive और MEGA सहित क्लाउड स्टोरेज सेवाओं से जुड़ता है, जिससे उपयोगकर्ता सीधे क्लाउड से वीडियो स्ट्रीम कर सकते हैं या ऑफ़लाइन देखने के लिए उन्हें डाउनलोड कर सकते हैं। यह ऐप SMB, WebDAV और DLNA प्रोटोकॉल के माध्यम से स्थानीय नेटवर्क स्ट्रीमिंग, Lightning या USB-C एडाप्टर के माध्यम से USB फ़्लैश ड्राइव प्लेबैक, और कंप्यूटर से Wi-Fi फ़ाइल ट्रांसफ़र का भी समर्थन करता है। अतिरिक्त विशेषताओं में प्लेलिस्ट के साथ मीडिया लाइब्रेरी, AirPlay और Chromecast कास्टिंग, और अंतर्निहित फ़ाइल प्रबंधक शामिल हैं। Evervideo App Store पर निःशुल्क डाउनलोड के रूप में उपलब्ध है, जिसमें वैकल्पिक इन-ऐप खरीदारी शामिल है जिसमें $2.99 पर मासिक सदस्यता, $14.99 पर वार्षिक सदस्यता, या $29.99 पर एक बार की आजीवन खरीदारी शामिल है।
-{{% /sr-only %}}
+{{% /ls-sr-only %}}
 
 
 
 <!-- force dark theme for this page -->
-{{< force-dark >}}
+{{< ls-force-dark >}}
 
-{{< hextra/hero-container
+{{< ls-hero-container
   image="/products/evervideo/heroimage/hero_1600.png"
   imageWidth="800"
   imageCard="true"
@@ -33,38 +33,38 @@ Evervideo iPhone और Mac के लिए एक निःशुल्क HD 
 
 <div class="hx:w-full hx:text-center">
 
-{{< downloads-badge >}}
+{{< ls-downloads-badge >}}
 
 <div class="hx:mt-6 hx:mb-6">
 <div class="hx:flex hx:gap-4 hx:items-center hx:justify-center">
-{{< app-icon src="/images/app_icons/png/Evervideo_Icon-App-1024x1024.png" alt="Evervideo Icon" class="hero-headline-icon" size="80" >}}
-{{< hextra/hero-headline >}}
+{{< ls-app-icon src="/images/app_icons/png/Evervideo_Icon-App-1024x1024.png" alt="Evervideo Icon" class="hero-headline-icon" size="80" >}}
+{{< ls-hero-headline >}}
 Evervideo
-{{< /hextra/hero-headline >}}
+{{< /ls-hero-headline >}}
 </div>
 </div>
 
 <div class="hx:mb-12">
-{{< hextra/hero-centered-subtitle >}}
+{{< ls-hero-centered-subtitle >}}
 <strong>HD वीडियो प्लेयर और स्ट्रीमर आपके iPhone और MAC के लिए</strong>
-{{< /hextra/hero-centered-subtitle >}}
+{{< /ls-hero-centered-subtitle >}}
 </div>
 
 
 <div class="hx:mb-6">
-{{< hextra/hero-paragraph >}}
+{{< ls-hero-paragraph >}}
 • सभी फॉर्मेट में 360° और हाई-डेफिनिशन वीडियो देखें<br>
 • iCloud, Google Drive, Dropbox, NAS, या अपने कंप्यूटर से स्ट्रीम करें<br>
 • कभी भी, कहीं भी ऑफलाइन देखने के लिए वीडियो डाउनलोड करें<br>
 • सबटाइटल सक्षम करें, वीडियो इक्वलाइज़र का उपयोग करें, और प्लेलिस्ट के साथ वीडियो व्यवस्थित करें
-{{< /hextra/hero-paragraph >}}
+{{< /ls-hero-paragraph >}}
 </div>
 
-{{< app-store-badges products="evervideo:ios, evervideo:macos" >}}
+{{< ls-app-store-badges products="evervideo:ios, evervideo:macos" >}}
 
 </div>
 
-{{< /hextra/hero-container >}}
+{{< /ls-hero-container >}}
 
 <div class="hx:mt-6"></div>
 
@@ -72,42 +72,42 @@ Evervideo
 
 {{< hextra/feature-grid >}}
 
-  {{< hextra/feature-card
+  {{< ls-glass-feature-card
     title="सभी वीडियो और ऑडियो फॉर्मेट चलाएं"
     subtitle=`फ़ाइलों को कन्वर्ट किए बिना अपने वीडियो देखें और संगीत सुनें। MP4, MOV, MKV, AVI, FLV, WMV, WEBM, M4V, MP3, FLAC, AAC, ALAC, OGG, OPUS, WAV, WMA और अन्य सपोर्ट करता है।`
     icon="film"
     style="background: radial-gradient(circle at 50% 80%, rgba(255,99,71,0.15), rgba(17,24,39,0));"  
   >}}
 
-  {{< hextra/feature-card
+  {{< ls-glass-feature-card
     title="मीडिया लाइब्रेरी और प्लेलिस्ट"
     subtitle=`एल्बम, शैली, या अवधि के अनुसार ट्रैक के साथ मीडिया लाइब्रेरी व्यवस्थित करें। क्लाउड परिवर्तनों के साथ स्वचालित रूप से सिंक होती है। कस्टम सॉर्टिंग के साथ M3U प्लेलिस्ट बनाएं, संपादित करें और एक्सपोर्ट करें।`
     icon="collection"
     style="background: radial-gradient(circle at 50% 80%, rgba(255,165,0,0.15), rgba(17,24,39,0));"  
   >}}
 
-  {{< hextra/feature-card
+  {{< ls-glass-feature-card
     title="ऑडियो और वीडियो इक्वलाइज़र"
     subtitle=`बास, पिच, ब्राइटनेस, गामा, सैचुरेशन, कंट्रास्ट और अन्य को एडजस्ट करके अपने वीडियो की दिखावट और ध्वनि को कस्टमाइज़ करें, 50+ वीडियो प्रीसेट और 20+ ऑडियो प्रीसेट उपलब्ध हैं या अपना खुद का बनाएं।`
     icon="adjustments"
     style="background: radial-gradient(circle at 50% 80%, rgba(255,255,0,0.15), rgba(17,24,39,0));" 
   >}}
 
-  {{< hextra/feature-card
+  {{< ls-glass-feature-card
     title="पिक्चर-इन-पिक्चर"
     subtitle=`पिक्चर-इन-पिक्चर (PiP) आपको अन्य ऐप्स का उपयोग करते हुए एक छोटी फ्लोटिंग विंडो में वीडियो देखते रहने देता है, MKV, AVI, MP4, और MOV जैसे सभी प्रमुख फॉर्मेट के लिए पूर्ण सपोर्ट, कतार में सहज वीडियो ट्रांज़िशन, स्वचालित प्लेबैक अपडेट, और सक्रिय सबटाइटल हमेशा दिखाई देते हैं।`
     icon="duplicate"
     style="background: radial-gradient(circle at 50% 80%, rgba(0,128,0,0.15), rgba(17,24,39,0));" 
   >}}
 
-  {{< hextra/feature-card
+  {{< ls-glass-feature-card
     title="360° वीडियो और VR मोड"
     subtitle=`360° और VR वीडियो को पहले जैसा कभी नहीं अनुभव करें — हर कोण को एक्सप्लोर करने के लिए अपना फोन मूव करें या VR हेडसेट के साथ पूर्ण विसर्जन में डूबें। Insta360 कैमरों और समान उपकरणों से 360° वीडियो तुरंत चलाएं, बिना सेटअप के स्मूथ और आसान प्लेबैक।`
     icon="video-camera"
     style="background: radial-gradient(circle at 50% 80%, rgba(0,191,255,0.15), rgba(17,24,39,0));"  
   >}}
 
-  {{< hextra/feature-card
+  {{< ls-glass-feature-card
     title="सहज स्ट्रीमिंग और क्लाउड कनेक्टिविटी"
     subtitle=`अपने Mac, PC, NAS, USB फ्लैश ड्राइव, या क्लाउड स्टोरेज से सीधे वीडियो स्ट्रीम करें और Wi-Fi Drive या iTunes File Sharing का उपयोग करके मीडिया फ़ाइलें ट्रांसफर करें। Synology Drive, WD My Cloud Home, और समान NAS उपकरणों के माध्यम से कहीं से भी, यहां तक कि रिमोटली, अपनी पूरी वीडियो लाइब्रेरी तक पूर्ण पहुंच का आनंद लें।`
     icon="cloud"
@@ -120,9 +120,9 @@ Evervideo
 
 <div class="hx:mt-6"></div>
 
-{{< hextra/section-headline >}}
+{{< ls-section-headline >}}
 सभी सुविधाएं
-{{< /hextra/section-headline >}}
+{{< /ls-section-headline >}}
 
 <div class="hx:mt-6"></div>
 
@@ -130,35 +130,35 @@ Evervideo
 
 {{< cards >}}
 
-{{< feature-card title="सभी वीडियो और ऑडियो फॉर्मेट चलाएं" subtitle="फ़ाइलों को कन्वर्ट किए बिना अपना मीडिया देखें। Evervideo MKV, AVI, MP4, MOV, FLAC, MP3, AAC, OGG, WAV, WMV और अन्य सहित सभी प्रमुख फॉर्मेट सपोर्ट करता है।" icon="film">}}
+{{< ls-feature-card title="सभी वीडियो और ऑडियो फॉर्मेट चलाएं" subtitle="फ़ाइलों को कन्वर्ट किए बिना अपना मीडिया देखें। Evervideo MKV, AVI, MP4, MOV, FLAC, MP3, AAC, OGG, WAV, WMV और अन्य सहित सभी प्रमुख फॉर्मेट सपोर्ट करता है।" icon="film">}}
 
-{{< feature-card title="ऑफलाइन मोड" subtitle="इंटरनेट कनेक्शन के बिना देखने के लिए वीडियो, एल्बम और प्लेलिस्ट डाउनलोड करें। अपना पूरा वीडियो कलेक्शन कहीं भी ले जाएं।" icon="download">}}
+{{< ls-feature-card title="ऑफलाइन मोड" subtitle="इंटरनेट कनेक्शन के बिना देखने के लिए वीडियो, एल्बम और प्लेलिस्ट डाउनलोड करें। अपना पूरा वीडियो कलेक्शन कहीं भी ले जाएं।" icon="download">}}
 
-{{< feature-card title="360° वीडियो और VR मोड" subtitle="360° और VR वीडियो को मज़ेदार और आसान तरीके से देखें। किसी भी दिशा में देखने के लिए अपना फोन घुमाएं, या VR हेडसेट में लगाकर ऐसा महसूस करें जैसे आप वीडियो के अंदर हैं।" icon="video-camera">}}
+{{< ls-feature-card title="360° वीडियो और VR मोड" subtitle="360° और VR वीडियो को मज़ेदार और आसान तरीके से देखें। किसी भी दिशा में देखने के लिए अपना फोन घुमाएं, या VR हेडसेट में लगाकर ऐसा महसूस करें जैसे आप वीडियो के अंदर हैं।" icon="video-camera">}}
 
-{{< feature-card title="पिक्चर-इन-पिक्चर" subtitle="अन्य ऐप्स का उपयोग करते हुए एक छोटी फ्लोटिंग विंडो में वीडियो देखते रहें। प्लेबैक कंट्रोल करें और एक साथ सबटाइटल देखें – मल्टीटास्किंग के लिए परफेक्ट।" icon="duplicate">}}
+{{< ls-feature-card title="पिक्चर-इन-पिक्चर" subtitle="अन्य ऐप्स का उपयोग करते हुए एक छोटी फ्लोटिंग विंडो में वीडियो देखते रहें। प्लेबैक कंट्रोल करें और एक साथ सबटाइटल देखें – मल्टीटास्किंग के लिए परफेक्ट।" icon="duplicate">}}
 
-{{< feature-card title="वीडियो और ऑडियो इक्वलाइज़र" subtitle="अपने वीडियो की दिखावट और ध्वनि को कस्टमाइज़ करें। बास, पिच, ब्राइटनेस, गामा, सैचुरेशन, कंट्रास्ट और अन्य एडजस्ट करें। 50+ वीडियो प्रीसेट और 20+ ऑडियो प्रीसेट में से चुनें, या अपना खुद का बनाएं।" icon="adjustments">}}
+{{< ls-feature-card title="वीडियो और ऑडियो इक्वलाइज़र" subtitle="अपने वीडियो की दिखावट और ध्वनि को कस्टमाइज़ करें। बास, पिच, ब्राइटनेस, गामा, सैचुरेशन, कंट्रास्ट और अन्य एडजस्ट करें। 50+ वीडियो प्रीसेट और 20+ ऑडियो प्रीसेट में से चुनें, या अपना खुद का बनाएं।" icon="adjustments">}}
 
-{{< feature-card title="सबटाइटल" subtitle="एम्बेडेड सबटाइटल देखें, सबटाइटल ट्रैक नंबर चुनें, और पिक्चर-इन-पिक्चर मोड में भी पूर्ण सबटाइटल सपोर्ट का आनंद लें।" icon="annotation" >}}
+{{< ls-feature-card title="सबटाइटल" subtitle="एम्बेडेड सबटाइटल देखें, सबटाइटल ट्रैक नंबर चुनें, और पिक्चर-इन-पिक्चर मोड में भी पूर्ण सबटाइटल सपोर्ट का आनंद लें।" icon="annotation" >}}
 
-{{< feature-card title="क्लाउड से सीधे चलाएं" subtitle="डिवाइस स्पेस का उपयोग किए बिना सीधे अपने क्लाउड स्टोरेज से वीडियो देखें। iCloud Drive, Google Drive, Dropbox, OneDrive, MEGA, Synology Drive, pCloud और अन्य सपोर्ट करता है।" icon="cloud">}}
+{{< ls-feature-card title="क्लाउड से सीधे चलाएं" subtitle="डिवाइस स्पेस का उपयोग किए बिना सीधे अपने क्लाउड स्टोरेज से वीडियो देखें। iCloud Drive, Google Drive, Dropbox, OneDrive, MEGA, Synology Drive, pCloud और अन्य सपोर्ट करता है।" icon="cloud">}}
 
-{{< feature-card title="कंप्यूटर / NAS कनेक्ट करें" subtitle="SMB, WebDAV, या DLNA का उपयोग करके अपने होम नेटवर्क पर आसानी से अपना NAS, Mac, या PC कनेक्ट करें। Synology Drive और WD MyCloud Home के लिए रिमोट एक्सेस सपोर्टेड है। Wi-Fi या iTunes File Sharing के माध्यम से अपने डिवाइस पर मीडिया फ़ाइलें ट्रांसफर करें।" icon="desktop-computer">}}
+{{< ls-feature-card title="कंप्यूटर / NAS कनेक्ट करें" subtitle="SMB, WebDAV, या DLNA का उपयोग करके अपने होम नेटवर्क पर आसानी से अपना NAS, Mac, या PC कनेक्ट करें। Synology Drive और WD MyCloud Home के लिए रिमोट एक्सेस सपोर्टेड है। Wi-Fi या iTunes File Sharing के माध्यम से अपने डिवाइस पर मीडिया फ़ाइलें ट्रांसफर करें।" icon="desktop-computer">}}
 
-{{< feature-card title="मीडिया लाइब्रेरी" subtitle="एल्बम, शैली, या अवधि के अनुसार व्यवस्थित करें। क्लाउड परिवर्तनों के साथ स्वचालित रूप से सिंक होती है। कस्टम सॉर्टिंग के साथ M3U प्लेलिस्ट बनाएं, संपादित करें और एक्सपोर्ट करें।" icon="library" >}}
+{{< ls-feature-card title="मीडिया लाइब्रेरी" subtitle="एल्बम, शैली, या अवधि के अनुसार व्यवस्थित करें। क्लाउड परिवर्तनों के साथ स्वचालित रूप से सिंक होती है। कस्टम सॉर्टिंग के साथ M3U प्लेलिस्ट बनाएं, संपादित करें और एक्सपोर्ट करें।" icon="library" >}}
 
-{{< feature-card title="बुकमार्क और प्लेबैक पोज़िशन सेविंग" subtitle="बुकमार्क के साथ किसी भी वीडियो में अपनी जगह सेव करें और जहां छोड़ा था वहां से प्लेबैक फिर से शुरू करें। प्लेबैक स्पीड एडजस्ट करें, फेवरिट मार्क करें, और आसान एक्सेस के लिए सबसे ज़्यादा चलाए गए वीडियो के अनुसार सॉर्ट करें।" icon="book-open">}}
+{{< ls-feature-card title="बुकमार्क और प्लेबैक पोज़िशन सेविंग" subtitle="बुकमार्क के साथ किसी भी वीडियो में अपनी जगह सेव करें और जहां छोड़ा था वहां से प्लेबैक फिर से शुरू करें। प्लेबैक स्पीड एडजस्ट करें, फेवरिट मार्क करें, और आसान एक्सेस के लिए सबसे ज़्यादा चलाए गए वीडियो के अनुसार सॉर्ट करें।" icon="book-open">}}
 
-{{< feature-card title="AirPlay और Chromecast" subtitle="Apple TV, Chromecast, या किसी भी कम्पैटिबल एक्सटर्नल डिस्प्ले पर स्ट्रीम करके बड़ी स्क्रीन पर वीडियो चलाएं।" icon="device-mobile">}}
+{{< ls-feature-card title="AirPlay और Chromecast" subtitle="Apple TV, Chromecast, या किसी भी कम्पैटिबल एक्सटर्नल डिस्प्ले पर स्ट्रीम करके बड़ी स्क्रीन पर वीडियो चलाएं।" icon="device-mobile">}}
 
-{{< feature-card title="Files और Libraries से इम्पोर्ट" subtitle="Files ऐप, Photos, या अपनी iTunes Library से सीधे वीडियो इम्पोर्ट करें। एक व्यवस्थित मीडिया लाइब्रेरी में अपनी सभी लोकल और क्लाउड कंटेंट एक्सेस करें।" icon="database">}}
+{{< ls-feature-card title="Files और Libraries से इम्पोर्ट" subtitle="Files ऐप, Photos, या अपनी iTunes Library से सीधे वीडियो इम्पोर्ट करें। एक व्यवस्थित मीडिया लाइब्रेरी में अपनी सभी लोकल और क्लाउड कंटेंट एक्सेस करें।" icon="database">}}
 
-{{< feature-card title="फ़ाइल मैनेजर" subtitle="ऐप के अंदर सीधे फ़ाइलें मूव, रीनेम, डिलीट और व्यवस्थित करें।" icon="folder">}}
+{{< ls-feature-card title="फ़ाइल मैनेजर" subtitle="ऐप के अंदर सीधे फ़ाइलें मूव, रीनेम, डिलीट और व्यवस्थित करें।" icon="folder">}}
 
-{{< feature-card title="पर्सनलाइज़ेशन" subtitle="ऐप को अपनी पसंद के अनुसार कस्टमाइज़ करें। थीम चुनें, फीचर्स दिखाएं या छुपाएं, और इंटरफ़ेस को अपनी ज़रूरतों के अनुसार एडजस्ट करें।" icon="sun">}}
+{{< ls-feature-card title="पर्सनलाइज़ेशन" subtitle="ऐप को अपनी पसंद के अनुसार कस्टमाइज़ करें। थीम चुनें, फीचर्स दिखाएं या छुपाएं, और इंटरफ़ेस को अपनी ज़रूरतों के अनुसार एडजस्ट करें।" icon="sun">}}
 
-{{< feature-card title="स्मार्ट सर्च" subtitle="कीवर्ड या फ़िल्टर का उपयोग करके अपनी मीडिया लाइब्रेरी में जल्दी से वीडियो, एल्बम, या प्लेलिस्ट खोजें।" icon="search" >}}
+{{< ls-feature-card title="स्मार्ट सर्च" subtitle="कीवर्ड या फ़िल्टर का उपयोग करके अपनी मीडिया लाइब्रेरी में जल्दी से वीडियो, एल्बम, या प्लेलिस्ट खोजें।" icon="search" >}}
 
 
 
@@ -168,9 +168,9 @@ Evervideo
 
 <div class="hx:mt-6"></div>
 
-{{< hextra/section-headline >}}
+{{< ls-section-headline >}}
 सहज डिज़ाइन
-{{< /hextra/section-headline >}}
+{{< /ls-section-headline >}}
 
 <div class="hx:mt-6"></div>
 
@@ -178,7 +178,7 @@ Evervideo
 
 {{< cards cols="4">}}
 
-  {{< design-feature-card 
+  {{< ls-design-feature-card 
     image="/products/evervideo/screenshots/2880x1800/1.png" 
     title="वीडियो प्लेयर" 
     method="Fill"
@@ -187,7 +187,7 @@ Evervideo
     icon="play"
   >}}
 
-  {{< design-feature-card 
+  {{< ls-design-feature-card 
     image="/products/evervideo/screenshots/2880x1800/3.png" 
     title="ऑडियो और वीडियो इक्वलाइज़र" 
     method="Fill"
@@ -196,7 +196,7 @@ Evervideo
     icon="adjustments"
   >}}
 
-  {{< design-feature-card 
+  {{< ls-design-feature-card 
     image="/products/evervideo/screenshots/2880x1800/6.png" 
     title="प्लेलिस्ट मैनेजर" 
     method="Fill"
@@ -205,7 +205,7 @@ Evervideo
     icon="collection"
   >}}
 
-  {{< design-feature-card 
+  {{< ls-design-feature-card 
     image="/products/evervideo/screenshots/2880x1800/5.png" 
     title="मीडिया लाइब्रेरी" 
     method="Fill"
@@ -214,7 +214,7 @@ Evervideo
     icon="library"
   >}}
 
-  {{< design-feature-card 
+  {{< ls-design-feature-card 
     image="/products/evervideo/screenshots/2880x1800/7.png"  
     title="क्लाउड स्टोरेज" 
     method="Fill"
@@ -223,7 +223,7 @@ Evervideo
     icon="cloud"
   >}}
 
-  {{< design-feature-card 
+  {{< ls-design-feature-card 
     image="/products/evervideo/screenshots/2880x1800/9.png"  
     title="फ़ाइल मैनेजर" 
     method="Fill"
@@ -241,49 +241,49 @@ Evervideo
 <div class="hx:mt-6"></div>
 
 <div class="hx:w-full">
-{{< appstore-reviews apps="6602897336,6743504109" stars="5,4"  app="Evervideo" >}}
+{{< ls-appstore-reviews apps="6602897336,6743504109" stars="5,4"  app="Evervideo" >}}
 </div>
 
 
 <div class="hx:mt-6"></div>
 
-{{< hextra/section-headline >}}
+{{< ls-section-headline >}}
    मूल्य योजनाएं
-{{< /hextra/section-headline >}}
+{{< /ls-section-headline >}}
 
 <div class="hx:mt-6"></div>
 
 <div class="hx:w-full">
 
-{{< pricing-plans >}}
+{{< ls-pricing-plans >}}
 
 </div>
 
 <div class="hx:mt-6"></div>
 
 <div class="hx:w-full hx:mx-auto hx:flex hx:flex-col hx:items-center">
-  {{< hextra/info-paragraph border="true" >}}
+  {{< ls-info-paragraph border="true" >}}
    <strong>फैमिली शेयरिंग</strong>: सभी खरीदारी और सब्सक्रिप्शन फैमिली शेयरिंग सपोर्ट करते हैं, जिससे आप अपने परिवार के साथ प्रीमियम एक्सेस शेयर कर सकते हैं।<br><strong>यूनिवर्सल एक्सेस</strong>: लाइफटाइम और सब्सक्रिप्शन प्लान iCloud सिंक्रोनाइज़ेशन का उपयोग करके iOS और Mac डिवाइस के बीच शेयर किए जाते हैं।<br><strong>मूल्य</strong>: कीमतें संयुक्त राज्य अमेरिका के लिए अमेरिकी डॉलर में दिखाई गई हैं। अंतिम मूल्य आपके क्षेत्र के आधार पर भिन्न हो सकते हैं।  
-  {{< /hextra/info-paragraph >}}
+  {{< /ls-info-paragraph >}}
 </div>
 
 <div class="hx:mt-6"></div>
 
 <div class="hx:w-full">
-{{< app-details heading="true" >}}
+{{< ls-app-details heading="true" >}}
 </div>
 
 <div class="hx:mt-6"></div>
 
-{{< hextra/section-headline >}}
+{{< ls-section-headline >}}
    अक्सर पूछे जाने वाले प्रश्न
-{{< /hextra/section-headline >}}
+{{< /ls-section-headline >}}
 
 <div class="hx:mt-6"></div>
 
 <div class="hx:w-full">
 
-{{% details title="Evervideo कैसे काम करता है?" closed="true" %}}
+{{% ls-details title="Evervideo कैसे काम करता है?" closed="true" %}}
 Evervideo एक HD वीडियो प्लेयर है जो आपको वीडियो ट्रैक को सामान्य फ़ाइलों की तरह प्रबंधित करने देता है।<br>
 आप अपना पूरा वीडियो कलेक्शन Dropbox, OneDrive, iCloud, या पर्सनल NAS जैसी क्लाउड सेवाओं पर अपलोड कर सकते हैं और पूर्ण नियंत्रण के साथ सीधे क्लाउड से वीडियो चला सकते हैं।<br><br>
 कोई iTunes सिंक की ज़रूरत नहीं — बस अपने PC या Mac से वैसे ही अपलोड करें जैसे आप किसी फ़ाइल के साथ करते हैं।<br>
@@ -293,9 +293,9 @@ Evervideo एक HD वीडियो प्लेयर है जो आप�
 - [Evervideo गाइड](/docs/guide/evervideo/)<br>
 - [WiFi-Drive का उपयोग करके कंप्यूटर से iPhone में वायरलेस तरीके से फ़ाइलें कैसे ट्रांसफर करें।](/docs/howto/how-to-transfer-files-wirelessly-from-a-computer-to-an-iphone-using-wifi-drive)<br>
 
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="क्या Evervideo मुफ्त है?" closed="true" %}}
+{{% ls-details title="क्या Evervideo मुफ्त है?" closed="true" %}}
 Evervideo कुछ सीमाओं के साथ मुफ्त में उपयोग किया जा सकता है, जिन्हें प्रीमियम संस्करण में अपग्रेड करके हटाया जा सकता है।<br>
 आप एक बार की लाइफटाइम खरीदारी या दो सब्सक्रिप्शन विकल्पों (मासिक या वार्षिक) में से चुन सकते हैं। कीमतें आपके क्षेत्र के आधार पर भिन्न हो सकती हैं।<br><br>
 
@@ -304,9 +304,9 @@ Evervideo कुछ सीमाओं के साथ मुफ्त मे�
 प्रीमियम खरीदारी और सब्सक्रिप्शन iCloud के माध्यम से iOS और Mac पर शेयर किए जाते हैं। अपनी खरीदारी सिंक करने के लिए, सुनिश्चित करें कि iCloud सक्षम है, अपने iOS डिवाइस पर ऐप खोलें, और सिंक पूरा होने के लिए एक मिनट प्रतीक्षा करें।<br><br>
 
 [Evervideo और Evervideo Premium के बीच अंतर के बारे में और पढ़ें](/docs/faq/evervideo/what-is-the-difference-between-evervideo-and-evervideo-premium/)
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="मैं Evervideo का उपयोग कैसे करूं?" closed="true" %}}
+{{% ls-details title="मैं Evervideo का उपयोग कैसे करूं?" closed="true" %}}
 
 **Evervideo इंस्टॉल करें**<br>
 अपने डिवाइस के ऐप स्टोर से Evervideo ऐप डाउनलोड और इंस्टॉल करें। यह iOS और Mac दोनों डिवाइस के लिए उपलब्ध है।<br><br>
@@ -355,9 +355,9 @@ Evervideo में वीडियो जोड़ने के दो वि�
 **अपने वीडियो का आनंद लें**<br>
 एक बार जब आपका वीडियो व्यवस्थित हो जाए, तो **Search**, **Play All**, **Shuffle**, और **Continue Playback** जैसी क्विक एक्शन के लिए टॉप टूलबार का उपयोग करें।<br><br>
 
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="क्या Evervideo सुरक्षित है?" closed="true" %}}
+{{% ls-details title="क्या Evervideo सुरक्षित है?" closed="true" %}}
 Evervideo कनेक्टेड क्लाउड सेवाओं के साथ इंटरैक्ट करने के लिए केवल आधिकारिक SDK और सुरक्षित कनेक्शन का उपयोग करता है। आपका लॉगिन और पासवर्ड एप्लिकेशन के लिए उपलब्ध नहीं है। एप्लिकेशन से क्लाउड सेवा के सभी अनुरोध एन्क्रिप्टेड हैं।<br>
 जब आप लॉगिन और पासवर्ड दर्ज करते हैं तो एप्लिकेशन आपको क्लाउड सेवा प्रदाता द्वारा प्रदान किया गया आधिकारिक प्राधिकरण पृष्ठ दिखाता है और सभी प्राधिकरण प्रक्रिया एप्लिकेशन के बाहर की जाती है। सफल प्राधिकरण के बाद क्लाउड सेवा प्रदाता एप्लिकेशन को एक auth-token भेजता है और उस टोकन का उपयोग API कॉल करने के लिए किया जाता है।<br><br>
 
@@ -368,22 +368,22 @@ Auth-token अस्वीकार करने के लिए अपने �
 
 आप एप्लिकेशन में कनेक्टेड क्लाउड अकाउंट को भी डिस्कनेक्ट कर सकते हैं और auth-token भी आपके डिवाइस से हटा दिया जाएगा। यदि आप एप्लिकेशन को अपने डिवाइस से हटाते हैं तो सभी डाउनलोड किया गया डेटा और एक्सेस टोकन भी हटा दिए जाएंगे।<br><br>
 
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="मैं Evervideo पर प्लेलिस्ट कैसे बनाऊं?" closed="true" %}}
+{{% ls-details title="मैं Evervideo पर प्लेलिस्ट कैसे बनाऊं?" closed="true" %}}
 - Playlists सेक्शन खोलें।<br>
 - ऊपर दाएं कोने में "+" बटन या "..." बटन पर टैप करें और "New Playlist" चुनें।<br>
 - प्लेलिस्ट के लिए एक नाम दर्ज करें और "Save" पर टैप करें। "Add Media Files" डायलॉग दिखाई देगा।<br>
 - प्लेलिस्ट में जोड़ने के लिए इच्छित ट्रैक चुनें।<br><br>
 
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Evervideo कौन सी क्लाउड सेवाएं सपोर्ट करता है?" closed="true" %}}
+{{% ls-details title="Evervideo कौन सी क्लाउड सेवाएं सपोर्ट करता है?" closed="true" %}}
 वर्तमान में, एप्लिकेशन सबसे लोकप्रिय क्लाउड सेवाओं को सपोर्ट करता है: iCloud Drive, Google Drive, Dropbox, OneDrive, Box, MEGA, Yandex.Disk, DLNA, MediaFire, WebDAV, SMB, pCloud, Cloud Mail.ru, Put.io।<br><br>
 
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="मैं Evervideo में ऑफलाइन मोड कैसे सक्षम करूं?" closed="true" %}}
+{{% ls-details title="मैं Evervideo में ऑफलाइन मोड कैसे सक्षम करूं?" closed="true" %}}
 - क्लाउड स्टोरेज से कनेक्ट करें:<br>
  • "Files" टैब पर जाएं।<br>
  • "Connect to cloud storage" चुनें और अपनी इच्छित सेवा कनेक्ट करने के लिए निर्देशों का पालन करें।<br><br>
@@ -408,9 +408,9 @@ Auth-token अस्वीकार करने के लिए अपने �
  • मैन्युअल रूप से सिंक करने के लिए, "Settings" > "File manager" > "Offline folders" > "Synchronized offline folders" पर जाएं।<br>
  • "More actions" पर टैप करें और "Start synchronization" चुनें।<br><br>
 
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="iPhone पर लोकली डाउनलोड किए गए वीडियो कैसे चलाएं?" closed="true" %}}
+{{% ls-details title="iPhone पर लोकली डाउनलोड किए गए वीडियो कैसे चलाएं?" closed="true" %}}
 एक बार जब आपने एप्लिकेशन इंस्टॉल कर लिया है, "Files" स्क्रीन खोलें और "Files on this iPhone" सेक्शन तक स्क्रॉल करें। वहां से, कई फ़ाइलें चुनने के लिए "Open files..." या मीडिया फोल्डर चुनने के लिए "Open folder..." चुनें। ऐप फोल्डर की सामग्री स्कैन करेगा, और पाई गई सभी मीडिया फ़ाइलें चयनित होंगी। अपने मीडिया फोल्डर पर नेविगेट करें, अपने चयन की पुष्टि के लिए "Open" पर टैप करें, और फ़ाइलें प्लेयर कतार में जोड़ दी जाएंगी। ये फ़ाइलें एप्लिकेशन बंडल में कॉपी किए बिना चयनित स्थान से सीधे चलाई जाएंगी।<br><br>
 
 **क्विक एक्सेस के लिए फोल्डर को फेवरिट में जोड़ें**<br>
@@ -422,13 +422,13 @@ Auth-token अस्वीकार करने के लिए अपने �
 **प्लेलिस्ट में लोकल फ़ाइलें जोड़ें**<br>
 प्लेलिस्ट में लोकल फ़ाइलें जोड़ने के लिए, "Playlists" स्क्रीन खोलें और ऊपर दाएं कोने में more बटन पर टैप करें। "+ New Playlist" चुनें, अपनी नई प्लेलिस्ट के लिए एक नाम दर्ज करें, और अगली स्क्रीन पर, "Files on this device" विकल्प चुनें और "Open Files..." पर टैप करें। जोड़ने के लिए इच्छित मीडिया फ़ाइलें चुनें और पुष्टि के लिए "Open" पर टैप करें। फ़ाइलें आपकी प्लेलिस्ट में जोड़ दी जाएंगी, जहां आप more बटन का उपयोग करके ट्रैक का क्रम बदल सकते हैं और अन्य कार्य कर सकते हैं।<br><br>
 
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="मैं प्लेलिस्ट को वहीं से कैसे फिर से शुरू करूं जहां मैंने छोड़ा था?" closed="true" %}}
+{{% ls-details title="मैं प्लेलिस्ट को वहीं से कैसे फिर से शुरू करूं जहां मैंने छोड़ा था?" closed="true" %}}
 पहले, सुनिश्चित करें कि Settings > Media Player > General में "Save Media Player State" सक्षम है। जब आप किसी अन्य प्लेलिस्ट पर स्विच करते हैं और वापस आते हैं, तो आप एल्बम आर्टवर्क के नीचे टॉप टूलबार पर चार एक्शन देखेंगे: "Search," "Continue Playback," "Play All," और "Shuffle All।" अंतिम सेव किए गए स्थिति और मीडिया पोज़िशन से प्लेलिस्ट फिर से शुरू करने के लिए "Continue Playback" पर टैप करें।
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="मैं अपने कंप्यूटर से Evervideo में वीडियो कैसे ट्रांसफर करूं?" closed="true" %}}
+{{% ls-details title="मैं अपने कंप्यूटर से Evervideo में वीडियो कैसे ट्रांसफर करूं?" closed="true" %}}
 आप SMB, WebDAV, या DLNA प्रोटोकॉल का उपयोग करके अपना कंप्यूटर या पर्सनल NAS कनेक्ट कर सकते हैं। वैकल्पिक रूप से, मीडिया फ़ाइलें ट्रांसफर करने के लिए iTunes File Sharing का उपयोग करें।<br><br>
 
 SMB प्रोटोकॉल का उपयोग करके कंप्यूटर कनेक्ट करने के लिए "Files" "Connect to cloud storage" → SMB पर टैप करें। smb://computer-ip-address/shared-folder-name फॉर्मेट का उपयोग करके URL फील्ड में कंप्यूटर IP एड्रेस और शेयर्ड फोल्डर नाम दर्ज करें, लॉगिन और पासवर्ड दर्ज करें और "Done" पर टैप करें। यदि आपका कनेक्शन सफल है तो आप "Cloud storage" सेक्शन में कनेक्टेड स्टोरेज देखेंगे।<br><br>
@@ -447,9 +447,9 @@ iTunes File Sharing एक और तकनीक है जो आपको iTu
 विस्तृत निर्देश यहां उपलब्ध हैं:<br>
 [मेरे iPhone पर लोकल फ़ाइलें (iTunes फ़ाइलें) कैसे चलाएं](/docs/howto/how-to-play-local-itunes-files-on-my-iphone)<br><br>
 
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="वीडियो कैसे डाउनलोड करें?" closed="true" %}}
+{{% ls-details title="वीडियो कैसे डाउनलोड करें?" closed="true" %}}
 वीडियो डाउनलोड करने और ऑफलाइन देखने से पहले आपको क्लाउड स्टोरेज कनेक्ट करना होगा।<br>
 बस "Files" स्क्रीन खोलें और अपना क्लाउड स्टोरेज कनेक्ट करें।<br>
 एक बार जब आपने इसे जोड़ लिया तो आप क्लाउड से अपना वीडियो डाउनलोड कर सकते हैं।<br><br>
@@ -465,14 +465,14 @@ iTunes File Sharing एक और तकनीक है जो आपको iTu
 – "Offline mode" चेकबॉक्स पर टैप करें<br>
 – ऑफलाइन Artist/Album/Playlist "Files" -> "Offline folders" सेक्शन में दिखाई देगा।<br><br>
 
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Evervideo कौन से ऑडियो फॉर्मेट सपोर्ट करता है?" closed="true" %}}
+{{% ls-details title="Evervideo कौन से ऑडियो फॉर्मेट सपोर्ट करता है?" closed="true" %}}
 यह ऐप डिफ़ॉल्ट **सिस्टम ऑडियो कोडेक** और अतिरिक्त **ffmpeg सॉफ्टवेयर कोडेक** सपोर्ट करता है:<br><br>
 3g2, 3gp, 3gp2, 3gpp, 8svx, aa, aac, aax, ac3, act, adt, adts, aif, aifc, aiff, alac, amr, amv, ape, asf, au, avi, awb, caf, cavs, cdda, cue, dct, dff, drc, dsf, dss, dvf, "dvr-ms", ec3, f4a, f4b, f4p, f4v, flac, flv, gif, gifv, gsm, gxf, h261, h263, h264, ifv, iklax, ivf, ivs, l16, latm, loas, m2t, m2ts, m2v, m3u, m3u8, m4a, m4b, m4p, m4r, m4v, mka, mkv, mmf, mng, mod, mogg, mov, mp1, mp2, mp3, mp4, mp4v, mpa, mpc, mpe, mpeg, mpg, mpv, msv, mts, mxf, nsf, nsv, nut, oga, ogg, ogv, opus, pcm, pls, qt, ra, raw, rm, rmvb, roq, rv, sln, snd, svi, tod, tta, vob, voc, vox, vtt, w64, wav, wave, webm, wma, wmv, wv, xhe, xmv, y4m, yuv.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="क्या Evervideo NAS उपकरणों के साथ काम करता है?" closed="true" %}}
+{{% ls-details title="क्या Evervideo NAS उपकरणों के साथ काम करता है?" closed="true" %}}
 
 हां, Evervideo **SMB**, **WebDAV**, और **DLNA** प्रोटोकॉल का उपयोग करके NAS कनेक्शन सपोर्ट करता है।<br><br>
 
@@ -496,9 +496,9 @@ iTunes File Sharing एक और तकनीक है जो आपको iTu
 • आपके लोकल नेटवर्क पर सभी खोजने योग्य NAS उपकरण दिखाता है।<br>
 • कनेक्ट करने के लिए डिवाइस नाम पर टैप करें, फिर यदि आवश्यक हो तो लॉगिन क्रेडेंशियल्स दर्ज करें।<br><br>
 
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="मैं Evervideo में Wi-Fi Drive फीचर का उपयोग कैसे करूं?" closed="true" %}}
+{{% ls-details title="मैं Evervideo में Wi-Fi Drive फीचर का उपयोग कैसे करूं?" closed="true" %}}
 
 **डेस्कटॉप ब्राउज़र का उपयोग करके वायरलेस ट्रांसफर**<br>
 1. ऐप लॉन्च करें: Evervideo खोलें।<br>
@@ -523,39 +523,39 @@ iTunes File Sharing एक और तकनीक है जो आपको iTu
 
 [और पढ़ें](/docs/howto/how-to-transfer-files-wirelessly-from-a-computer-to-an-iphone-using-wifi-drive)
 
-{{% /details %}}
+{{% /ls-details %}}
 
 </div>
 
 
 <div class="hx:mt-6"></div>
 
-{{< hextra/section-headline >}}
+{{< ls-section-headline >}}
   उपयोगकर्ता मार्गदर्शिका
-{{< /hextra/section-headline >}}
+{{< /ls-section-headline >}}
 
 <div class="hx:mt-6"></div>
 
 <div class="hx:w-full">
 
 <div class="hx:w-full hx:mx-auto hx:flex hx:flex-col hx:items-center hx:text-center">
-  {{< hextra/info-paragraph border="false" >}}
+  {{< ls-info-paragraph border="false" >}}
   यह मार्गदर्शिका आपके iPhone, iPad या Mac पर Evervideo से अधिकतम लाभ उठाने में आपकी मदद करेगी। क्लाउड स्टोरेज और NAS से वीडियो स्ट्रीम करना, Picture-in-Picture का उपयोग करना, सबटाइटल प्रबंधित करना, और ऑडियो और वीडियो इक्वलाइज़र ट्यून करना सीखें। Evervideo आपको किसी भी स्रोत से आपके पूरे वीडियो संग्रह पर एक आसान ऐप में पूर्ण नियंत्रण देता है।
-  {{< /hextra/info-paragraph >}}
+  {{< /ls-info-paragraph >}}
 </div>
 
 {{< cards >}}
-  {{< feature-card icon="location-marker" title="नेविगेशन" subtitle="iPhone पर टैब बार या iPad और Mac पर बाएँ मेनू, साथ ही कॉम्पैक्ट हमेशा-स्क्रीन पर रहने वाले वीडियो प्लेयर का उपयोग करके Evervideo में नेविगेट करना सीखें।" link="/docs/guide/evervideo/evervideo-guide-navigation" >}}
+  {{< ls-feature-card icon="location-marker" title="नेविगेशन" subtitle="iPhone पर टैब बार या iPad और Mac पर बाएँ मेनू, साथ ही कॉम्पैक्ट हमेशा-स्क्रीन पर रहने वाले वीडियो प्लेयर का उपयोग करके Evervideo में नेविगेट करना सीखें।" link="/docs/guide/evervideo/evervideo-guide-navigation" >}}
 
-  {{< feature-card icon="folder" title="फ़ाइलें" subtitle="क्लाउड खाते, NAS शेयर, मीडिया सर्वर (Plex, Jellyfin, Emby, Subsonic, Navidrome), RTSP स्ट्रीम और स्थानीय फ़ाइलों को एक एकीकृत टैब में कनेक्ट करें।" link="/docs/guide/evervideo/evervideo-guide-files" >}}
+  {{< ls-feature-card icon="folder" title="फ़ाइलें" subtitle="क्लाउड खाते, NAS शेयर, मीडिया सर्वर (Plex, Jellyfin, Emby, Subsonic, Navidrome), RTSP स्ट्रीम और स्थानीय फ़ाइलों को एक एकीकृत टैब में कनेक्ट करें।" link="/docs/guide/evervideo/evervideo-guide-files" >}}
 
-  {{< feature-card icon="library" title="मीडिया लाइब्रेरी" subtitle="अपने वीडियो और संगीत को एल्बम, शैली, हाल के और पसंदीदा द्वारा व्यवस्थित और एक्सप्लोर करें — साथ ही iOS Photos लाइब्रेरी और Apple Music लाइब्रेरी।" link="/docs/guide/evervideo/evervideo-guide-video-library" >}}
+  {{< ls-feature-card icon="library" title="मीडिया लाइब्रेरी" subtitle="अपने वीडियो और संगीत को एल्बम, शैली, हाल के और पसंदीदा द्वारा व्यवस्थित और एक्सप्लोर करें — साथ ही iOS Photos लाइब्रेरी और Apple Music लाइब्रेरी।" link="/docs/guide/evervideo/evervideo-guide-video-library" >}}
 
-  {{< feature-card icon="collection" title="प्लेलिस्ट" subtitle="वीडियो, संगीत, सीरीज़ या पाठ्यक्रमों के लिए प्लेलिस्ट बनाएँ और व्यवस्थित करें और M3U / M3U8 / CUE फ़ाइलें आयात करें।" link="/docs/guide/evervideo/evervideo-guide-playlists" >}}
+  {{< ls-feature-card icon="collection" title="प्लेलिस्ट" subtitle="वीडियो, संगीत, सीरीज़ या पाठ्यक्रमों के लिए प्लेलिस्ट बनाएँ और व्यवस्थित करें और M3U / M3U8 / CUE फ़ाइलें आयात करें।" link="/docs/guide/evervideo/evervideo-guide-playlists" >}}
 
-  {{< feature-card icon="play" title="मीडिया प्लेयर" subtitle="प्लेबैक, क्यू, Picture-in-Picture, ऑडियो और वीडियो ट्रैक, प्राथमिक और द्वितीयक सबटाइटल और ऑडियो + वीडियो इक्वलाइज़र को नियंत्रित करें।" link="/docs/guide/evervideo/evervideo-guide-player" >}}
+  {{< ls-feature-card icon="play" title="मीडिया प्लेयर" subtitle="प्लेबैक, क्यू, Picture-in-Picture, ऑडियो और वीडियो ट्रैक, प्राथमिक और द्वितीयक सबटाइटल और ऑडियो + वीडियो इक्वलाइज़र को नियंत्रित करें।" link="/docs/guide/evervideo/evervideo-guide-player" >}}
 
-  {{< feature-card icon="adjustments" title="सेटिंग्स" subtitle="Evervideo के लुक, डिकोडर, इक्वलाइज़र, सबटाइटल, विजेट, भाषा, पासकोड, बैकअप और प्रदर्शन सेटिंग्स को कस्टमाइज़ करें।" link="/docs/guide/evervideo/evervideo-guide-settings" >}}
+  {{< ls-feature-card icon="adjustments" title="सेटिंग्स" subtitle="Evervideo के लुक, डिकोडर, इक्वलाइज़र, सबटाइटल, विजेट, भाषा, पासकोड, बैकअप और प्रदर्शन सेटिंग्स को कस्टमाइज़ करें।" link="/docs/guide/evervideo/evervideo-guide-settings" >}}
 
 {{< /cards >}}
 

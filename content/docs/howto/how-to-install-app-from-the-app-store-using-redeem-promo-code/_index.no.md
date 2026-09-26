@@ -7,7 +7,7 @@ tags: ["kampanje", "appstore", "installere", "innløse", "kode", "gratis"]
 readingTime: 2
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **Kort fortalt:** En kampanjekode lar deg laste ned en betalt app gratis eller låse opp kjøp i appen. På iOS: App Store > Kontoikon > Løs inn gavekort eller kode > skriv inn koden. På Mac: App Store > Konto > Løs inn gavekort > skriv inn koden. Åpne deretter appen og gjenopprett kjøp om nødvendig.
@@ -94,22 +94,22 @@ Nyt din gratis app eller oppgradering i appen!
 
 ## Ofte stilte spørsmål
 
-{{% details title="Hvor får jeg en kampanjekode?" closed="true" %}}
+{{% ls-details title="Hvor får jeg en kampanjekode?" closed="true" %}}
 Kampanjekoder gis ut av apputviklere for anmeldelser, konkurranser eller kampanjer. Kontakt utvikleren direkte for å be om en.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Utløper kampanjekoder?" closed="true" %}}
+{{% ls-details title="Utløper kampanjekoder?" closed="true" %}}
 Ja. Apple App Store-kampanjekoder utløper 28 dager etter at de er generert og kan bare løses inn én gang.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Kan jeg bruke en kampanjekode i et hvilket som helst land?" closed="true" %}}
+{{% ls-details title="Kan jeg bruke en kampanjekode i et hvilket som helst land?" closed="true" %}}
 Kampanjekoder er regionsspesifikke. Koden må samsvare med App Store-landet til din Apple ID.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Hvordan aktiverer jeg kjøp i appen med en kampanjekode?" closed="true" %}}
+{{% ls-details title="Hvordan aktiverer jeg kjøp i appen med en kampanjekode?" closed="true" %}}
 Etter å ha løst inn koden i App Store, åpne appen og gå til Innstillinger > Gjenopprett kjøp. Premiuminnholdet vil bli låst opp automatisk.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Kampanjekoden sier at den allerede er innløst. Hva skal jeg gjøre?" closed="true" %}}
+{{% ls-details title="Kampanjekoden sier at den allerede er innløst. Hva skal jeg gjøre?" closed="true" %}}
 Hver kampanjekode kan bare brukes én gang. Kontakt utvikleren for å be om en ny kode.
-{{% /details %}}
+{{% /ls-details %}}

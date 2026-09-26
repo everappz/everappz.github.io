@@ -7,7 +7,7 @@ tags: ["evermusic", "müzik", "bulut", "iphone", "depolama", "yerel", "nas", "wi
 readingTime: 2
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **Özet:** Windows 10'da yerleşik bir DLNA sunucusu bulunur. Ağ ve Paylaşım ayarlarında etkinleştirin, ardından iPhone'unuzdaki ücretsiz **Evermusic** uygulamasını kullanarak tüm müzik kitaplığınızı Wi-Fi üzerinden aktarın. Üçüncü taraf sunucu yazılımına gerek yok.
@@ -96,22 +96,22 @@ Windows 10'daki DLNA Medya Sunucusu ve iPhone'unuzdaki Evermusic ile bilgisayar�
 
 ## Sık Sorulan Sorular
 
-{{% details title="Windows 10'a sunucu yazılımı yüklemem gerekiyor mu?" closed="true" %}}
+{{% ls-details title="Windows 10'a sunucu yazılımı yüklemem gerekiyor mu?" closed="true" %}}
 Hayır. Windows 10 yerleşik bir DLNA medya sunucusu içerir. Yalnızca Ağ ve Paylaşım Merkezi ayarlarında medya akışını etkinleştirmeniz gerekir. Üçüncü taraf yazılım gerekmez.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="iPhone'umun aynı Wi-Fi ağında olması gerekiyor mu?" closed="true" %}}
+{{% ls-details title="iPhone'umun aynı Wi-Fi ağında olması gerekiyor mu?" closed="true" %}}
 Evet. DLNA akışı yerel ağınız üzerinden çalışır. Evermusic'in DLNA sunucusunu keşfedebilmesi için hem Windows 10 bilgisayarınız hem de iPhone'unuz aynı Wi-Fi ağına bağlı olmalıdır.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="DLNA üzerinden hangi ses formatlarını aktarabilirim?" closed="true" %}}
+{{% ls-details title="DLNA üzerinden hangi ses formatlarını aktarabilirim?" closed="true" %}}
 Windows DLNA sunucusu, formattan bağımsız olarak Müzik klasörünüzdeki dosyaları paylaşır. Evermusic MP3, FLAC, AAC, WAV, OGG, AIFF ve birçok başka formatı destekler, böylece sunucudan neredeyse her ses dosyasını çalabilirsiniz.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Evermusic yerine Flacbox kullanabilir miyim?" closed="true" %}}
+{{% ls-details title="Evermusic yerine Flacbox kullanabilir miyim?" closed="true" %}}
 Evet. Flacbox da DLNA/UPnP göz atma ve çalmayı destekler. Windows DLNA sunucunuzdan müzik keşfetmek ve çalmak için her iki uygulamadan birini kullanabilirsiniz.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="DLNA akışı mobil veri kullanır mı?" closed="true" %}}
+{{% ls-details title="DLNA akışı mobil veri kullanır mı?" closed="true" %}}
 Hayır. DLNA tamamen yerel Wi-Fi ağınızda çalışır. Hiçbir mobil veri kullanmaz. Ancak çalma sırasında her iki cihazın da aynı ağa bağlı kalması gerekir.
-{{% /details %}}
+{{% /ls-details %}}

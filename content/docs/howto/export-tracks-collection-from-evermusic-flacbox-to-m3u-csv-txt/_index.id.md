@@ -6,7 +6,7 @@ keywords: ["evermusic ekspor", "flacbox ekspor", "ekspor ke m3u", "ekspor daftar
 tags: ["evermusic", "terbaru", "favorit", "ekspor", "m3u", "daftar putar", "csv", "txt", "album"]
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **Ringkasan:** Evermusic dan Flacbox memungkinkan Anda mengekspor koleksi lagu apa pun (terbaru, favorit, daftar putar, album) ke file CSV, TXT, atau M3U. Gunakan ekspor ini untuk scrobbling ke Last.fm, mencadangkan perpustakaan Anda, atau memutar daftar putar Anda di perangkat lain.
@@ -157,22 +157,22 @@ Mengekspor lagu-lagu Anda dari Evermusic dan Flacbox memberi Anda kendali penuh 
 
 ## Pertanyaan yang Sering Diajukan
 
-{{% details title="Format ekspor mana yang harus saya gunakan untuk scrobbling Last.fm?" closed="true" %}}
+{{% ls-details title="Format ekspor mana yang harus saya gunakan untuk scrobbling Last.fm?" closed="true" %}}
 Gunakan CSV. Format ini mencakup timestamp dan metadata lengkap yang diperlukan oleh alat scrobbling seperti Last.fm-Scrubbler-WPF.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Bisakah saya mengekspor koleksi lagu apa pun, bukan hanya daftar putar?" closed="true" %}}
+{{% ls-details title="Bisakah saya mengekspor koleksi lagu apa pun, bukan hanya daftar putar?" closed="true" %}}
 Ya. Anda dapat mengekspor terbaru, favorit, album, daftar putar, dan koleksi lagu lainnya di aplikasi menggunakan langkah-langkah yang sama.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Apakah daftar putar M3U saya akan berfungsi di perangkat lain?" closed="true" %}}
+{{% ls-details title="Apakah daftar putar M3U saya akan berfungsi di perangkat lain?" closed="true" %}}
 Jika Anda memilih opsi URL Absolut selama ekspor, file M3U dapat diputar di perangkat apa pun yang mendukung daftar putar M3U. Perlu diperhatikan bahwa beberapa URL cloud mungkin kedaluwarsa seiring waktu.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Apakah fitur ekspor gratis?" closed="true" %}}
+{{% ls-details title="Apakah fitur ekspor gratis?" closed="true" %}}
 Ya. Mengekspor koleksi lagu ke M3U, CSV, dan TXT tersedia di versi gratis maupun premium Evermusic dan Flacbox.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Layanan cloud apa yang mendukung ekspor URL Absolut?" closed="true" %}}
+{{% ls-details title="Layanan cloud apa yang mendukung ekspor URL Absolut?" closed="true" %}}
 Ekspor URL Absolut didukung untuk iCloud Drive, pCloud, PanBaidu, MyCloudHome, DLNA, MediaFire, OneDrive, Box, Dropbox, Google Drive, dan WebDAV (mode tamu).
-{{% /details %}}
+{{% /ls-details %}}

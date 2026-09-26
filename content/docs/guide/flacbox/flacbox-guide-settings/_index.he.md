@@ -21,7 +21,7 @@ readingTime: 16
 מסך ההגדרות הוא מרכז הבקרה של Flacbox. מכאן ניתן לשדרג ל-Premium, להגדיר את מנוע האודיו (קודקי מערכת או FFmpeg), לנהל את ספריית המוזיקה שלכם, להגדיר את מנהל הקבצים, להתאים אישית את עורך תגי האודיו, להפעיל ווידג'טים של מסך הבית ו-Apple CarPlay, לגבות את הנתונים שלכם ולגשת לעזרה ומידע משפטי. החלקים מקובצים תחת כותרות: רכישות ועדכונים, העדפות אפליקציה, עזרה, ומשפטי ופרטיות.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="המסך הראשי של הגדרות Flacbox" image="/docs/guide/flacbox/img/settings-main.webp" >}}
+  {{< ls-card title="" subtitle="המסך הראשי של הגדרות Flacbox" image="/docs/guide/flacbox/img/settings-main.webp" >}}
 {{< /cards >}}
 
 ## שדרוג ל-Premium
@@ -29,13 +29,13 @@ readingTime: 16
 שדרגו את האפליקציה לגרסת Premium כדי להסיר את כל ההגבלות. הגרסה החינמית של האפליקציה מציעה רכישה חד-פעמית לכל החיים ושתי אפשרויות מנוי (חודש ושנה) להסרת כל ההגבלות ושדרוג ל-Premium.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="שדרוג ל-Premium ב-Flacbox" image="/docs/guide/flacbox/img/upgrade-to-premium.webp" >}}
+  {{< ls-card title="" subtitle="שדרוג ל-Premium ב-Flacbox" image="/docs/guide/flacbox/img/upgrade-to-premium.webp" >}}
 {{< /cards >}}
 
 **Family Sharing** מופעל עבור כל הרכישות והתוכניות, כך שתוכלו לשתף את גרסת Premium עם עד חמישה בני משפחה ללא עלות נוספת.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="בחירת תוכנית Premium ב-Flacbox" image="/docs/guide/flacbox/img/select-premium-plan.webp" >}}
+  {{< ls-card title="" subtitle="בחירת תוכנית Premium ב-Flacbox" image="/docs/guide/flacbox/img/select-premium-plan.webp" >}}
 {{< /cards >}}
 
 ניתן לקרוא עוד על רכישות וגרסת Premium כאן: [מה ההבדל בין Flacbox ל-Flacbox Premium](/docs/faq/flacbox/what-is-the-difference-between-flacbox-and-flacbox-premium/).

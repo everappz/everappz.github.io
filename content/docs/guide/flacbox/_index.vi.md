@@ -71,20 +71,20 @@ Hướng dẫn này dẫn bạn qua từng phần của Flacbox trên iPhone, iP
 
 {{< cards cols="2">}}
 
-{{< card icon="map" link="/docs/guide/flacbox/flacbox-guide-navigation" title="Điều hướng" subtitle="Thanh tab trên iPhone, Menu trái trên iPad và Mac, mini player, widget, CarPlay." >}}
+{{< ls-card icon="map" link="/docs/guide/flacbox/flacbox-guide-navigation" title="Điều hướng" subtitle="Thanh tab trên iPhone, Menu trái trên iPad và Mac, mini player, widget, CarPlay." >}}
 
-{{< card icon="cloud" link="/docs/guide/flacbox/flacbox-guide-connections" title="Kết nối" subtitle="iCloud, Google Drive, Dropbox, OneDrive, NAS, WebDAV, SMB, DLNA." >}}
+{{< ls-card icon="cloud" link="/docs/guide/flacbox/flacbox-guide-connections" title="Kết nối" subtitle="iCloud, Google Drive, Dropbox, OneDrive, NAS, WebDAV, SMB, DLNA." >}}
 
-{{< card icon="collection" link="/docs/guide/flacbox/flacbox-guide-music-library" title="Thư viện nhạc" subtitle="Bài hát, Album, Nghệ sĩ, Thể loại, Nhạc sĩ — đồng bộ, tìm kiếm, chỉnh sửa siêu dữ liệu." >}}
+{{< ls-card icon="collection" link="/docs/guide/flacbox/flacbox-guide-music-library" title="Thư viện nhạc" subtitle="Bài hát, Album, Nghệ sĩ, Thể loại, Nhạc sĩ — đồng bộ, tìm kiếm, chỉnh sửa siêu dữ liệu." >}}
 
-{{< card icon="music-note" link="/docs/guide/flacbox/flacbox-guide-playlists" title="Danh sách phát" subtitle="Tạo, nhập M3U / M3U8 / CUE, sắp xếp lại và xuất sang M3U / CSV / TXT." >}}
+{{< ls-card icon="music-note" link="/docs/guide/flacbox/flacbox-guide-playlists" title="Danh sách phát" subtitle="Tạo, nhập M3U / M3U8 / CUE, sắp xếp lại và xuất sang M3U / CSV / TXT." >}}
 
-{{< card icon="folder" link="/docs/guide/flacbox/flacbox-guide-local-files" title="File cục bộ" subtitle="Nhạc ngoại tuyến, USB drive, Wi-Fi Drive, trình quản lý file, thư mục ngoại tuyến." >}}
+{{< ls-card icon="folder" link="/docs/guide/flacbox/flacbox-guide-local-files" title="File cục bộ" subtitle="Nhạc ngoại tuyến, USB drive, Wi-Fi Drive, trình quản lý file, thư mục ngoại tuyến." >}}
 
-{{< card icon="play" link="/docs/guide/flacbox/flacbox-guide-player" title="Trình phát âm thanh" subtitle="Đầu ra hi-res, bộ chỉnh âm, cao độ, đánh dấu, AirPlay, Chromecast, tốc độ, bộ hẹn giờ ngủ." >}}
+{{< ls-card icon="play" link="/docs/guide/flacbox/flacbox-guide-player" title="Trình phát âm thanh" subtitle="Đầu ra hi-res, bộ chỉnh âm, cao độ, đánh dấu, AirPlay, Chromecast, tốc độ, bộ hẹn giờ ngủ." >}}
 
-{{< card icon="adjustments" link="/docs/guide/flacbox/flacbox-guide-settings" title="Cài đặt" subtitle="Bộ máy âm thanh, thư viện, trình quản lý file, CarPlay, widget, cá nhân hóa, ngôn ngữ, sao lưu." >}}
+{{< ls-card icon="adjustments" link="/docs/guide/flacbox/flacbox-guide-settings" title="Cài đặt" subtitle="Bộ máy âm thanh, thư viện, trình quản lý file, CarPlay, widget, cá nhân hóa, ngôn ngữ, sao lưu." >}}
 
-{{< card icon="question-mark-circle" link="/docs/faq/flacbox" title="FAQ" subtitle="Tìm câu trả lời cho 50 câu hỏi phổ biến nhất về Flacbox." >}}
+{{< ls-card icon="question-mark-circle" link="/docs/faq/flacbox" title="FAQ" subtitle="Tìm câu trả lời cho 50 câu hỏi phổ biến nhất về Flacbox." >}}
 
 {{< /cards >}}

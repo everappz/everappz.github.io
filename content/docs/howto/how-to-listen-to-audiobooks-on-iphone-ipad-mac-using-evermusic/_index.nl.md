@@ -7,7 +7,7 @@ tags: ["audioboeken", "afspelen", "offline", "evermusic", "bladwijzer"]
 readingTime: 5
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **Samenvatting:** Evermusic fungeert ook als een volwaardige audioboekenspeler op iOS en macOS. Zet audioboeken over via iTunes, WiFi of cloudopslag en gebruik vervolgens afspeelsnelheidsregeling, springtijdknoppen, audiobladwijzers, afspelen hervatten en offline downloads voor een naadloze luisterervaring.
@@ -151,26 +151,26 @@ Veel luisterplezier!
 
 ## Veelgestelde vragen
 
-{{% details title="Welke audioboekenformaten ondersteunt Evermusic?" closed="true" %}}
+{{% ls-details title="Welke audioboekenformaten ondersteunt Evermusic?" closed="true" %}}
 Evermusic ondersteunt MP3, M4A, M4B, FLAC, WAV, AIFF, OGG en andere gangbare audioformaten. Elk audiobestand dat in Evermusic afspeelt, werkt als audioboek.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Kan ik naar audioboeken luisteren vanuit cloudopslag?" closed="true" %}}
+{{% ls-details title="Kan ik naar audioboeken luisteren vanuit cloudopslag?" closed="true" %}}
 Ja. Evermusic maakt verbinding met iCloud Drive, Google Drive, Dropbox, OneDrive, Box en WebDAV-servers. Je kunt audioboeken rechtstreeks streamen of downloaden voor offline luisteren.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Worden mijn bladwijzers overgedragen naar een nieuw apparaat?" closed="true" %}}
+{{% ls-details title="Worden mijn bladwijzers overgedragen naar een nieuw apparaat?" closed="true" %}}
 Ja. Evermusic slaat audiobladwijzers op in de metadata van het bestand, dus ze worden automatisch overgedragen wanneer je bestanden naar een nieuw apparaat verplaatst.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Onthoudt Evermusic waar ik gestopt ben met luisteren?" closed="true" %}}
+{{% ls-details title="Onthoudt Evermusic waar ik gestopt ben met luisteren?" closed="true" %}}
 Ja. Schakel "Afspeelpositie opslaan" en "Audiospelerstatus opslaan" in via Instellingen > Audiospeler > Algemeen. De app slaat je exacte positie op en herstelt deze tussen sessies.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Kan ik de afspeelsnelheid van audioboeken aanpassen?" closed="true" %}}
+{{% ls-details title="Kan ik de afspeelsnelheid van audioboeken aanpassen?" closed="true" %}}
 Ja. Ga naar Instellingen > Audiospeler > Afspeelsnelheid om je gewenste snelheid in te stellen. Je kunt de vertelling versnellen of vertragen om aan te passen aan je luistervoorkeur.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Hoe zet ik audioboeken over naar Evermusic?" closed="true" %}}
+{{% ls-details title="Hoe zet ik audioboeken over naar Evermusic?" closed="true" %}}
 Je kunt bestanden overdragen via iTunes/Finder-bestandsdeling, WiFi Drive (ingebouwd in de app), of door een cloudopslagaccount te koppelen binnen Evermusic.
-{{% /details %}}
+{{% /ls-details %}}

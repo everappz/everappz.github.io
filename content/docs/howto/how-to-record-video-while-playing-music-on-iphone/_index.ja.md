@@ -7,7 +7,7 @@ keywords: ["iPhoneで音楽を再生しながらビデオを録画", "iPhoneで�
 readingTime: 1
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **要約：** Evermusicのオーディオ出力を「混合モード」に設定し、曲の再生を開始してから、カメラアプリを開いて録画します。音楽はバックグラウンドで再生され続けます。TikTok、Instagram、その他すべてのカメラアプリで動作します。
@@ -45,22 +45,22 @@ App Storeを開き、[Evermusic](https://apps.apple.com/app/evermusic-cloud-musi
 
 ## よくある質問
 
-{{% details title="バックグラウンドミュージックはビデオに録音されますか？" closed="true" %}}
+{{% ls-details title="バックグラウンドミュージックはビデオに録音されますか？" closed="true" %}}
 音楽はiPhoneのスピーカーを通じて再生されるため、マイクが周囲の音と一緒に拾います。よりクリアなオーディオを得るには、マイクの近くに外部スピーカーを設置することを検討してください。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="TikTokやInstagramでも動作しますか？" closed="true" %}}
+{{% ls-details title="TikTokやInstagramでも動作しますか？" closed="true" %}}
 はい。Evermusicが混合モードに設定され、トラックが再生されている状態で、TikTok、Instagram、その他のカメラや録画アプリを開いても音楽は継続されます。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Evermusicの混合モードとは何ですか？" closed="true" %}}
+{{% ls-details title="Evermusicの混合モードとは何ですか？" closed="true" %}}
 混合モードは、Evermusicが他のアプリとオーディオセッションを共有できるようにするオーディオ出力設定です。これにより、別のアプリがマイクやカメラにアクセスしても音楽が停止するのを防ぎます。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Evermusicの代わりにFlacboxを使用できますか？" closed="true" %}}
+{{% ls-details title="Evermusicの代わりにFlacboxを使用できますか？" closed="true" %}}
 はい。Flacboxも混合オーディオ出力モードをサポートしています。手順は同じです：設定で混合モードを有効にし、再生を開始してからカメラアプリを開いてください。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Evermusicの音楽をバックグラウンドで再生しながらゲームをプレイできますか？" closed="true" %}}
+{{% ls-details title="Evermusicの音楽をバックグラウンドで再生しながらゲームをプレイできますか？" closed="true" %}}
 はい。混合モードを有効にすると、ゲームやアプリを開いてもEvermusicの音楽は再生され続けます。ゲームのオーディオと音楽が同時に再生されます。
-{{% /details %}}
+{{% /ls-details %}}

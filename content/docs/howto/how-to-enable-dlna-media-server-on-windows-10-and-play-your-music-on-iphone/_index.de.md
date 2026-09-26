@@ -7,7 +7,7 @@ tags: ["evermusic", "musik", "cloud", "iphone", "speicher", "lokal", "nas", "win
 readingTime: 2
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **Kurzfassung:** Windows 10 hat einen integrierten DLNA-Server. Aktivieren Sie ihn in den Netzwerk- und Freigabeeinstellungen und verwenden Sie dann die kostenlose **Evermusic**-App auf Ihrem iPhone, um Ihre gesamte Musikbibliothek über Wi-Fi zu streamen. Keine Drittanbieter-Serversoftware erforderlich.
@@ -96,22 +96,22 @@ Mit dem DLNA Media Server unter Windows 10 und Evermusic auf Ihrem iPhone könne
 
 ## Häufig gestellte Fragen
 
-{{% details title="Muss ich Serversoftware auf Windows 10 installieren?" closed="true" %}}
+{{% ls-details title="Muss ich Serversoftware auf Windows 10 installieren?" closed="true" %}}
 Nein. Windows 10 enthält einen integrierten DLNA-Medienserver. Sie müssen nur das Medienstreaming in den Einstellungen des Netzwerk- und Freigabecenters aktivieren. Keine Drittanbieter-Software erforderlich.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Muss mein iPhone im selben Wi-Fi-Netzwerk sein?" closed="true" %}}
+{{% ls-details title="Muss mein iPhone im selben Wi-Fi-Netzwerk sein?" closed="true" %}}
 Ja. DLNA-Streaming funktioniert über Ihr lokales Netzwerk. Sowohl Ihr Windows 10-PC als auch Ihr iPhone müssen mit demselben Wi-Fi-Netzwerk verbunden sein, damit Evermusic den DLNA-Server erkennen kann.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Welche Audioformate kann ich über DLNA streamen?" closed="true" %}}
+{{% ls-details title="Welche Audioformate kann ich über DLNA streamen?" closed="true" %}}
 Der Windows DLNA-Server gibt Dateien aus Ihrem Musikordner unabhängig vom Format frei. Evermusic unterstützt MP3, FLAC, AAC, WAV, OGG, AIFF und viele weitere Formate, sodass Sie praktisch jede Audiodatei vom Server abspielen können.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Kann ich Flacbox anstelle von Evermusic verwenden?" closed="true" %}}
+{{% ls-details title="Kann ich Flacbox anstelle von Evermusic verwenden?" closed="true" %}}
 Ja. Flacbox unterstützt ebenfalls DLNA/UPnP-Browsing und -Wiedergabe. Sie können beide Apps verwenden, um Musik von Ihrem Windows DLNA-Server zu entdecken und abzuspielen.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Verbraucht DLNA-Streaming mobile Daten?" closed="true" %}}
+{{% ls-details title="Verbraucht DLNA-Streaming mobile Daten?" closed="true" %}}
 Nein. DLNA arbeitet ausschließlich über Ihr lokales Wi-Fi-Netzwerk. Es verbraucht keine mobilen Daten. Beide Geräte müssen jedoch während der Wiedergabe mit demselben Netzwerk verbunden bleiben.
-{{% /details %}}
+{{% /ls-details %}}

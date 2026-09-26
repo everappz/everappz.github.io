@@ -1,9 +1,10 @@
 ---
+excludeSearch: true
 date: '2025-06-12T17:00:00+00:00'
 title: 'Hubungi Kami'
 ---
 
-{{< lottie src="/images/juicy-json/juicy-girl-typing-on-phone.json" width="60%" >}}
+{{< ls-lottie src="/images/juicy-json/juicy-girl-typing-on-phone.json" width="60%" >}}
 
 ## Alamat Pos
 
@@ -27,4 +28,4 @@ Dengan menghantar e-mel, anda mengesahkan bahawa anda telah membaca dan bersetuj
 
 Ikuti kami di rangkaian sosial untuk mendapatkan berita terkini, kemas kini aplikasi, petua dan maklumat berguna:
 
-{{< social-cards >}}
+{{< ls-social-cards >}}

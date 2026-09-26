@@ -55,17 +55,17 @@ Tenang mengetahui data anda selamat. Evertag membolehkan anda menetapkan kata la
 Dalam panduan ini, anda akan mengetahui cara memanfaatkan kuasa Evertag pada iPhone, iPad, dan Mac anda, menjadikan pengalaman pengurusan muzik anda lancar dan menyeronokkan.
 
 {{< cards >}}
-  {{< card icon="location-marker" title="Navigasi" subtitle="Ketahui cara menavigasi aplikasi kami dengan mudah menggunakan Tab Bar (untuk pengguna iPhone) atau Menu Kiri (untuk pengguna iPad dan Mac) untuk mengakses dan meneroka semua ciri aplikasi." link="/docs/guide/evertag/evertag-guide-navigation" >}}
+  {{< ls-card icon="location-marker" title="Navigasi" subtitle="Ketahui cara menavigasi aplikasi kami dengan mudah menggunakan Tab Bar (untuk pengguna iPhone) atau Menu Kiri (untuk pengguna iPad dan Mac) untuk mengakses dan meneroka semua ciri aplikasi." link="/docs/guide/evertag/evertag-guide-navigation" >}}
 
-  {{< card icon="cloud" title="Sambungan" subtitle="Hubungkan semua akaun awan yang tersedia dengan fail audio berharga anda dengan mudah. Anda juga boleh menyunting fail dalam talian anda dengan mudah menggunakan pengurus fail bersepadu kami." link="/docs/guide/evertag/evertag-guide-connections" >}}
+  {{< ls-card icon="cloud" title="Sambungan" subtitle="Hubungkan semua akaun awan yang tersedia dengan fail audio berharga anda dengan mudah. Anda juga boleh menyunting fail dalam talian anda dengan mudah menggunakan pengurus fail bersepadu kami." link="/docs/guide/evertag/evertag-guide-connections" >}}
 
-  {{< card icon="folder" title="Fail Tempatan" subtitle="Lihat dan susun fail yang disimpan dalam folder Dokumen aplikasi atau pada peranti anda. Gunakan pengurus fail terbina dalam untuk menyunting dan mengurus fail audio anda dengan mudah." link="/docs/guide/evertag/evertag-guide-local-files" >}}
+  {{< ls-card icon="folder" title="Fail Tempatan" subtitle="Lihat dan susun fail yang disimpan dalam folder Dokumen aplikasi atau pada peranti anda. Gunakan pengurus fail terbina dalam untuk menyunting dan mengurus fail audio anda dengan mudah." link="/docs/guide/evertag/evertag-guide-local-files" >}}
 
-  {{< card icon="pencil-alt" title="Penyunting Tag" subtitle="Kuasai seni manipulasi metadata fail audio. Ketahui cara menyunting metadata, mengubah kulit album, dan mengurus berbilang fail secara serentak." link="/docs/guide/evertag/evertag-guide-tag-editor" >}}
+  {{< ls-card icon="pencil-alt" title="Penyunting Tag" subtitle="Kuasai seni manipulasi metadata fail audio. Ketahui cara menyunting metadata, mengubah kulit album, dan mengurus berbilang fail secara serentak." link="/docs/guide/evertag/evertag-guide-tag-editor" >}}
 
-  {{< card icon="code" title="Pemetaan Medan Tag" subtitle="Terokai senarai lengkap medan tag audio yang disokong oleh aplikasi Evertag, termasuk nama medan dalaman dan pemetaan merentas format metadata utama." link="/docs/guide/evertag/evertag-tag-field-mappings" >}}
+  {{< ls-card icon="code" title="Pemetaan Medan Tag" subtitle="Terokai senarai lengkap medan tag audio yang disokong oleh aplikasi Evertag, termasuk nama medan dalaman dan pemetaan merentas format metadata utama." link="/docs/guide/evertag/evertag-tag-field-mappings" >}}
 
-  {{< card icon="adjustments" title="Tetapan" subtitle="Temui cara menyesuaikan pengalaman aplikasi anda, memperhalusi prestasi, mengurus penggunaan data, dan menyesuaikan keutamaan bahasa dan antara muka pengguna mengikut citarasa anda." link="/docs/guide/evertag/evertag-guide-settings" >}}
+  {{< ls-card icon="adjustments" title="Tetapan" subtitle="Temui cara menyesuaikan pengalaman aplikasi anda, memperhalusi prestasi, mengurus penggunaan data, dan menyesuaikan keutamaan bahasa dan antara muka pengguna mengikut citarasa anda." link="/docs/guide/evertag/evertag-guide-settings" >}}
 
-  {{< card icon="question-mark-circle" title="Soalan Lazim" subtitle="Cari jawapan pantas kepada soalan biasa dalam bahagian Soalan Lazim kami." link="/docs/faq/evertag" >}}
+  {{< ls-card icon="question-mark-circle" title="Soalan Lazim" subtitle="Cari jawapan pantas kepada soalan biasa dalam bahagian Soalan Lazim kami." link="/docs/faq/evertag" >}}
 {{< /cards >}}

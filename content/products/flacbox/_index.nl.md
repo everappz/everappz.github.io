@@ -16,15 +16,15 @@ screenshots:
   - "https://everappz.com/products/flacbox/screenshots/2048x2732/6.png"
 ---
 
-{{% sr-only %}}
+{{% ls-sr-only %}}
 Flacbox is een hi-res audiospeler voor iPhone en Mac, ontwikkeld door Everappz, een Spaans softwarebedrijf. Met meer dan 1 miljoen downloads wereldwijd is Flacbox ontworpen voor audiofielen en muziekliefhebbers die lossless en hoge-resolutie audiobestanden willen afspelen op hun Apple-apparaten zonder formaten te converteren. De app ondersteunt native meer dan 120 audioformaten, waaronder FLAC, DSD (DSD64, DSD128, DSD256), ALAC, APE, WAV, AIFF, OGG, OPUS, WMA, MKA, MP3, AAC en meer. Flacbox maakt verbinding met meer dan 30 cloudopslagdiensten, waaronder iCloud Drive, Google Drive, Dropbox, OneDrive, MEGA, Box en pCloud, waardoor gebruikers hun hi-res muziekcollectie rechtstreeks vanuit de cloud kunnen streamen of bestanden kunnen downloaden voor offline weergave. Belangrijke functies zijn onder meer een 10-bands audio-equalizer met aanpasbare presets, crossfade en naadloze weergave, toonhoogte- en snelheidsregeling, basversterking, M3U-afspeellijst importeren en exporteren, songteksten weergeven, audiobladwijzers, een ingebouwde metadata-tag-editor, Apple CarPlay-integratie, AirPlay- en Chromecast-streaming en Last.fm-scrobbling. De app ondersteunt lokaal netwerk-streaming via SMB-, WebDAV- en DLNA-protocollen, USB-flashdrive weergave en Wi-Fi-bestandsoverdracht. Flacbox is beschikbaar als gratis download in de App Store met optionele in-app-aankopen waaronder een maandabonnement voor $4.99, een jaarabonnement voor $19.99 of een eenmalige levenslange aankoop voor $59.99. De app werd voor het eerst uitgebracht in 2016 en wordt actief onderhouden met regelmatige updates.
-{{% /sr-only %}}
+{{% /ls-sr-only %}}
 
 
 <!-- force dark theme for this page -->
-{{< force-dark >}}
+{{< ls-force-dark >}}
 
-{{< hextra/hero-container
+{{< ls-hero-container
   image="/products/flacbox/heroimage/hero_1600.png"
   imageWidth="800"
   imageCard="true"
@@ -32,36 +32,36 @@ Flacbox is een hi-res audiospeler voor iPhone en Mac, ontwikkeld door Everappz, 
 
 <div class="hx:w-full hx:text-center">
 
-{{< downloads-badge >}}
+{{< ls-downloads-badge >}}
 
 <div class="hx:mt-6 hx:mb-6">
 <div class="hx:flex hx:gap-4 hx:items-center hx:justify-center">
-{{< app-icon src="/images/app_icons/png/Flacbox_Icon-App-1024x1024.png" alt="Flacbox Icon" class="hero-headline-icon" size="80" >}}
-{{< hextra/hero-headline >}}
+{{< ls-app-icon src="/images/app_icons/png/Flacbox_Icon-App-1024x1024.png" alt="Flacbox Icon" class="hero-headline-icon" size="80" >}}
+{{< ls-hero-headline >}}
 Flacbox
-{{< /hextra/hero-headline >}}
+{{< /ls-hero-headline >}}
 </div>
 </div>
 
 <div class="hx:mb-12">
-{{< hextra/hero-centered-subtitle >}}
+{{< ls-hero-centered-subtitle >}}
 <strong>Hi-Res Audiospeler en Streamer voor iPhone en MAC</strong>
-{{< /hextra/hero-centered-subtitle >}}
+{{< /ls-hero-centered-subtitle >}}
 </div>
 
 <div class="hx:mb-6">
-{{< hextra/hero-paragraph >}}
+{{< ls-hero-paragraph >}}
 • Speel FLAC, ALAC, APE, DSD en meer af in lossless kwaliteit  
 • Download muziek en luister offline met volledige controle  
 • Stream vanaf Google Drive, Dropbox, NAS of computer   
-{{< /hextra/hero-paragraph >}}
+{{< /ls-hero-paragraph >}}
 </div>
 
-{{< app-store-badges products="flacbox:ios, flacbox:macos" >}}
+{{< ls-app-store-badges products="flacbox:ios, flacbox:macos" >}}
 
 </div>
 
-{{< /hextra/hero-container >}}
+{{< /ls-hero-container >}}
 
 <div class="hx:mt-6"></div>
 
@@ -69,7 +69,7 @@ Flacbox
 
 {{< hextra/feature-grid >}}
 
-  {{< hextra/feature-card
+  {{< ls-glass-feature-card
     title="Stream Lossless Muziek"
     subtitle=`Geniet van lossless muziek op iPhone, iPad en Mac zonder abonnementen.<br><br>
 Verbind je cloudopslag om FLAC, ALAC, MKA en meer gratis te streamen. Cast eenvoudig naar Chromecast- en AirPlay-apparaten.<br><br>
@@ -78,7 +78,7 @@ Bouw je muziekbibliotheek, organiseer tracks op album, artiest en genre. Verbete
     style="background: radial-gradient(circle at 50% 80%, rgba(99,102,241,0.15), transparent);"
   >}}
 
-  {{< hextra/feature-card
+  {{< ls-glass-feature-card
     title="Speel High-Res Audio Af"
     subtitle=`Geniet van studiokwaliteit geluid met ondersteuning voor meer dan 120 audioformaten, waaronder FLAC, ALAC, WAV, AIFF en DSD.<br><br>
 Flacbox speelt ook MP3, AAC, OGG, APE, MOD, MKA en geavanceerde containers zoals MKV, MP4 en MOV.<br><br>
@@ -87,7 +87,7 @@ Met brede codec-compatibiliteit is je hele collectie toegankelijk — geen conve
     style="background: radial-gradient(circle at 50% 80%, rgba(236,72,153,0.15), transparent);"
   >}}
 
-  {{< hextra/feature-card
+  {{< ls-glass-feature-card
     title="Download en Luister Offline"
     subtitle=`Blijf verbonden met je muziek, zelfs wanneer je offline bent.<br><br>
 Download complete albums, genres, afspeellijsten en tracks naar je apparaat. Gebruik Wi-Fi Drive of iTunes bestandsdeling om audio over te zetten vanaf Mac of PC.<br><br>
@@ -102,9 +102,9 @@ Stream vanaf USB-sticks of netwerkopslag (NAS) en geniet van je volledige muziek
 
 <div class="hx:mt-6"></div>
 
-{{< hextra/section-headline >}}
+{{< ls-section-headline >}}
 Alles-in-één Functies
-{{< /hextra/section-headline >}}
+{{< /ls-section-headline >}}
 
 <div class="hx:mt-6"></div>
 
@@ -112,41 +112,41 @@ Alles-in-één Functies
 
 {{< cards >}}
 
-  {{< feature-card title="Audiokwaliteit" subtitle="Geniet van high-fidelity uitvoer met sample rates van 8 kHz tot 384 kHz, standaard of gemengde uitvoermodi, en ondersteuning voor 1 tot 7 audiokanalen." icon="volume-up" >}}
-  {{< feature-card title="Lossless en Hi-Res Audio" subtitle="Speel lossless en hi-res formaten zoals FLAC, ALAC, WAV, AIFF, APE, WV en DSF (DSD) af, plus MP3, AAC, OGG en OPUS, met sample rates tot 384 kHz." icon="music-note" >}}
-  {{< feature-card title="Tracker- en MOD-muziek" subtitle="Speel klassieke tracker- en modulemuziek native af, waaronder MOD, XM, IT en S3M formaten uit de chiptune- en demoscene die de meeste spelers niet kunnen openen." icon="table" >}}
+  {{< ls-feature-card title="Audiokwaliteit" subtitle="Geniet van high-fidelity uitvoer met sample rates van 8 kHz tot 384 kHz, standaard of gemengde uitvoermodi, en ondersteuning voor 1 tot 7 audiokanalen." icon="volume-up" >}}
+  {{< ls-feature-card title="Lossless en Hi-Res Audio" subtitle="Speel lossless en hi-res formaten zoals FLAC, ALAC, WAV, AIFF, APE, WV en DSF (DSD) af, plus MP3, AAC, OGG en OPUS, met sample rates tot 384 kHz." icon="music-note" >}}
+  {{< ls-feature-card title="Tracker- en MOD-muziek" subtitle="Speel klassieke tracker- en modulemuziek native af, waaronder MOD, XM, IT en S3M formaten uit de chiptune- en demoscene die de meeste spelers niet kunnen openen." icon="table" >}}
 
-  {{< feature-card title="Audio-engines" subtitle="Kies uit drie afspeel-engines: de standaard systeem-engine, een veelzijdige FFmpeg-engine en de professionele BASS™-engine die effecten, DSP en visuals ontgrendelt." icon="switch-horizontal" >}}
-  {{< feature-card title="Audio-effecten" subtitle="Vorm je geluid in realtime met reverb, delay, echo, chorus, flanger, phaser, auto-wah, distortion, een compressor en natuurlijke koptelefoon-crossfeed." icon="lightning-bolt" >}}
-  {{< feature-card title="DSP-keten" subtitle="Bouw je eigen realtime signaalketen op uit professionele filters en EQ-banden, saturatie en een bit crusher, plus creatieve processors zoals tremolo en stereobreedte." icon="chip" >}}
+  {{< ls-feature-card title="Audio-engines" subtitle="Kies uit drie afspeel-engines: de standaard systeem-engine, een veelzijdige FFmpeg-engine en de professionele BASS™-engine die effecten, DSP en visuals ontgrendelt." icon="switch-horizontal" >}}
+  {{< ls-feature-card title="Audio-effecten" subtitle="Vorm je geluid in realtime met reverb, delay, echo, chorus, flanger, phaser, auto-wah, distortion, een compressor en natuurlijke koptelefoon-crossfeed." icon="lightning-bolt" >}}
+  {{< ls-feature-card title="DSP-keten" subtitle="Bouw je eigen realtime signaalketen op uit professionele filters en EQ-banden, saturatie en een bit crusher, plus creatieve processors zoals tremolo en stereobreedte." icon="chip" >}}
 
-  {{< feature-card title="Audio-equalizer" subtitle="Verfijn je geluid met een multi-band equalizer, kant-en-klare genrepresets, handmatige bediening en voorversterking om stille tracks te versterken zonder vervorming." icon="adjustments" >}}
-  {{< feature-card title="Muziekvisualizer" subtitle="Bekijk schermvullende geanimeerde visuals die live reageren op je muziek, kies uit een grote bibliotheek met presets of laat ze automatisch wisselen." icon="sparkles" >}}
-  {{< feature-card title="Afspeelbediening" subtitle="Pas de afspeelsnelheid aan zonder de toonhoogte te wijzigen, sla je wachtrij en positie op en herstel ze, en gebruik een slaaptimer, shuffle, herhalen en afspelen op de achtergrond." icon="play" >}}
+  {{< ls-feature-card title="Audio-equalizer" subtitle="Verfijn je geluid met een multi-band equalizer, kant-en-klare genrepresets, handmatige bediening en voorversterking om stille tracks te versterken zonder vervorming." icon="adjustments" >}}
+  {{< ls-feature-card title="Muziekvisualizer" subtitle="Bekijk schermvullende geanimeerde visuals die live reageren op je muziek, kies uit een grote bibliotheek met presets of laat ze automatisch wisselen." icon="sparkles" >}}
+  {{< ls-feature-card title="Afspeelbediening" subtitle="Pas de afspeelsnelheid aan zonder de toonhoogte te wijzigen, sla je wachtrij en positie op en herstel ze, en gebruik een slaaptimer, shuffle, herhalen en afspelen op de achtergrond." icon="play" >}}
 
-  {{< feature-card title="Cloud Streaming" subtitle="Stream rechtstreeks vanaf iCloud Drive, Google Drive, Dropbox, OneDrive, Box, MEGA en pCloud, plus privacygerichte clouds zoals Internxt en Proton Drive." icon="cloud" >}}
-  {{< feature-card title="Mediaservers" subtitle="Verbind je persoonlijke mediaservers, waaronder Plex, Subsonic, Navidrome, Jellyfin en Emby, om je hele muziekbibliotheek te openen en te streamen." icon="server" >}}
-  {{< feature-card title="Computer en NAS" subtitle="Verbind een computer of NAS via SMB, WebDAV, DLNA, FTP, SFTP of NFS, met native ondersteuning voor QNAP, Synology, Nextcloud en WD My Cloud Home." icon="desktop-computer" >}}
+  {{< ls-feature-card title="Cloud Streaming" subtitle="Stream rechtstreeks vanaf iCloud Drive, Google Drive, Dropbox, OneDrive, Box, MEGA en pCloud, plus privacygerichte clouds zoals Internxt en Proton Drive." icon="cloud" >}}
+  {{< ls-feature-card title="Mediaservers" subtitle="Verbind je persoonlijke mediaservers, waaronder Plex, Subsonic, Navidrome, Jellyfin en Emby, om je hele muziekbibliotheek te openen en te streamen." icon="server" >}}
+  {{< ls-feature-card title="Computer en NAS" subtitle="Verbind een computer of NAS via SMB, WebDAV, DLNA, FTP, SFTP of NFS, met native ondersteuning voor QNAP, Synology, Nextcloud en WD My Cloud Home." icon="desktop-computer" >}}
 
-  {{< feature-card title="USB-geheugenkaarten" subtitle="Speel muziek rechtstreeks af van SD-kaarten en USB-sticks met externe lezers zoals de SanDisk iXpand, zonder importeren of synchroniseren." icon="inbox" >}}
-  {{< feature-card title="AirPlay en Chromecast" subtitle="Stuur je muziek draadloos naar Apple TV, HomePod, slimme speakers en meer met ingebouwde ondersteuning voor AirPlay, AirPlay 2 en Google Chromecast." icon="device-mobile" >}}
-  {{< feature-card title="Apple CarPlay" subtitle="Rijd en luister veilig met een eenvoudig, speciaal Apple CarPlay-scherm om muziek uit cloud-, lokale en offline bronnen te kiezen en te bedienen." icon="map" >}}
+  {{< ls-feature-card title="USB-geheugenkaarten" subtitle="Speel muziek rechtstreeks af van SD-kaarten en USB-sticks met externe lezers zoals de SanDisk iXpand, zonder importeren of synchroniseren." icon="inbox" >}}
+  {{< ls-feature-card title="AirPlay en Chromecast" subtitle="Stuur je muziek draadloos naar Apple TV, HomePod, slimme speakers en meer met ingebouwde ondersteuning voor AirPlay, AirPlay 2 en Google Chromecast." icon="device-mobile" >}}
+  {{< ls-feature-card title="Apple CarPlay" subtitle="Rijd en luister veilig met een eenvoudig, speciaal Apple CarPlay-scherm om muziek uit cloud-, lokale en offline bronnen te kiezen en te bedienen." icon="map" >}}
 
-  {{< feature-card title="Offline Luisteren" subtitle="Download nummers, albums en volledige artiesten om zonder internet te luisteren, of schakel de audiocache in om recent afgespeelde tracks automatisch te bewaren." icon="download" >}}
-  {{< feature-card title="Automatische Synchronisatie" subtitle="Houd je bibliotheek automatisch gesynchroniseerd tussen je cloudopslag en lokale mappen, zodat nieuw toegevoegde bestanden verschijnen zonder handmatig werk." icon="refresh" >}}
-  {{< feature-card title="Mediabibliotheek" subtitle="Voeg je muziek toe en organiseer die automatisch op album, artiest, albumartiest, genre en componist met de tags die in je bestanden zijn ingebed." icon="library" >}}
+  {{< ls-feature-card title="Offline Luisteren" subtitle="Download nummers, albums en volledige artiesten om zonder internet te luisteren, of schakel de audiocache in om recent afgespeelde tracks automatisch te bewaren." icon="download" >}}
+  {{< ls-feature-card title="Automatische Synchronisatie" subtitle="Houd je bibliotheek automatisch gesynchroniseerd tussen je cloudopslag en lokale mappen, zodat nieuw toegevoegde bestanden verschijnen zonder handmatig werk." icon="refresh" >}}
+  {{< ls-feature-card title="Mediabibliotheek" subtitle="Voeg je muziek toe en organiseer die automatisch op album, artiest, albumartiest, genre en componist met de tags die in je bestanden zijn ingebed." icon="library" >}}
 
-  {{< feature-card title="Aangepaste Afspeellijsten" subtitle="Maak, bewerk en herschik je eigen afspeellijsten, maak ze offline beschikbaar en importeer of exporteer ze in M3U-, M3U8- en CUE-formaten." icon="collection" >}}
-  {{< feature-card title="Bestandsbeheer" subtitle="Beheer je muziek met de ingebouwde bestandsbeheerder en voer dagelijkse handelingen uit zoals kopiëren, verplaatsen, hernoemen en verwijderen om je bestanden op orde te houden." icon="folder" >}}
-  {{< feature-card title="ID3 Tag Editor" subtitle="Herstel onjuiste of ontbrekende metadata met de ingebouwde ID3 tag-editor en werk de titel, artiest, album, genre en meer bij met slechts een paar tikken." icon="pencil-alt" >}}
+  {{< ls-feature-card title="Aangepaste Afspeellijsten" subtitle="Maak, bewerk en herschik je eigen afspeellijsten, maak ze offline beschikbaar en importeer of exporteer ze in M3U-, M3U8- en CUE-formaten." icon="collection" >}}
+  {{< ls-feature-card title="Bestandsbeheer" subtitle="Beheer je muziek met de ingebouwde bestandsbeheerder en voer dagelijkse handelingen uit zoals kopiëren, verplaatsen, hernoemen en verwijderen om je bestanden op orde te houden." icon="folder" >}}
+  {{< ls-feature-card title="ID3 Tag Editor" subtitle="Herstel onjuiste of ontbrekende metadata met de ingebouwde ID3 tag-editor en werk de titel, artiest, album, genre en meer bij met slechts een paar tikken." icon="pencil-alt" >}}
 
-  {{< feature-card title="Geavanceerd Zoeken" subtitle="Vind snel elk nummer, elke artiest of elk album in je hele collectie met een slimme, snelle zoekfunctie gebouwd voor zeer grote muziekbibliotheken." icon="search" >}}
-  {{< feature-card title="Snelle Toegang" subtitle="Spring meteen terug naar wat belangrijk is met Recent Afgespeeld, Favorieten en Bladwijzers, zodat je favoriete tracks altijd met één tik binnen handbereik zijn." icon="clock" >}}
-  {{< feature-card title="Songteksten en Opmerkingen" subtitle="Bekijk getimede songteksten en songnotities in elke track tijdens het afspelen, en voeg de widget Songteksten toe aan je Beginscherm voor snelle toegang in één oogopslag." icon="annotation" >}}
+  {{< ls-feature-card title="Geavanceerd Zoeken" subtitle="Vind snel elk nummer, elke artiest of elk album in je hele collectie met een slimme, snelle zoekfunctie gebouwd voor zeer grote muziekbibliotheken." icon="search" >}}
+  {{< ls-feature-card title="Snelle Toegang" subtitle="Spring meteen terug naar wat belangrijk is met Recent Afgespeeld, Favorieten en Bladwijzers, zodat je favoriete tracks altijd met één tik binnen handbereik zijn." icon="clock" >}}
+  {{< ls-feature-card title="Songteksten en Opmerkingen" subtitle="Bekijk getimede songteksten en songnotities in elke track tijdens het afspelen, en voeg de widget Songteksten toe aan je Beginscherm voor snelle toegang in één oogopslag." icon="annotation" >}}
 
-  {{< feature-card title="Widgets" subtitle="Voeg widgets voor het Beginscherm toe die je afspeelwachtrij tonen en je meteen laten verdergaan, precies vanaf waar je gebleven was." icon="view-grid" >}}
-  {{< feature-card title="Luisterboek Ondersteuning" subtitle="Luister naar luisterboeken met bladwijzers, een slaaptimer, instelbare snelheid en hervat afspelen dat verdergaat precies waar je gestopt was." icon="book-open" >}}
-  {{< feature-card title="Last.fm Integratie" subtitle="Verbind je Last.fm-account om tracks te scrobbelen, je luisterstatistieken te volgen en na verloop van tijd persoonlijke muziekaanbevelingen te ontvangen." icon="chart-bar" >}}
+  {{< ls-feature-card title="Widgets" subtitle="Voeg widgets voor het Beginscherm toe die je afspeelwachtrij tonen en je meteen laten verdergaan, precies vanaf waar je gebleven was." icon="view-grid" >}}
+  {{< ls-feature-card title="Luisterboek Ondersteuning" subtitle="Luister naar luisterboeken met bladwijzers, een slaaptimer, instelbare snelheid en hervat afspelen dat verdergaat precies waar je gestopt was." icon="book-open" >}}
+  {{< ls-feature-card title="Last.fm Integratie" subtitle="Verbind je Last.fm-account om tracks te scrobbelen, je luisterstatistieken te volgen en na verloop van tijd persoonlijke muziekaanbevelingen te ontvangen." icon="chart-bar" >}}
 
 {{< /cards >}}
 
@@ -154,9 +154,9 @@ Alles-in-één Functies
 
 <div class="hx:mt-6"></div>
 
-{{< hextra/section-headline >}}
+{{< ls-section-headline >}}
 Intuïtief Ontwerp
-{{< /hextra/section-headline >}}
+{{< /ls-section-headline >}}
 
 <div class="hx:mt-6"></div>
 
@@ -164,7 +164,7 @@ Intuïtief Ontwerp
 
 {{< cards cols="4">}}
 
-  {{< design-feature-card 
+  {{< ls-design-feature-card 
     image="/products/flacbox/screenshots/2048x2732/1.png" 
     title="Audiospeler" 
     method="Fill"
@@ -173,7 +173,7 @@ Intuïtief Ontwerp
     icon="play"
   >}}
 
-  {{< design-feature-card 
+  {{< ls-design-feature-card 
     image="/products/flacbox/screenshots/2048x2732/2.png"  
     title="Audio Equalizer" 
     method="Fill"
@@ -182,7 +182,7 @@ Intuïtief Ontwerp
     icon="adjustments"
   >}}
 
-  {{< design-feature-card 
+  {{< ls-design-feature-card 
     image="/products/flacbox/screenshots/2048x2732/3.png"  
     title="Afspeellijstbeheer" 
     method="Fill"
@@ -191,7 +191,7 @@ Intuïtief Ontwerp
     icon="collection"
   >}}
 
-  {{< design-feature-card 
+  {{< ls-design-feature-card 
     image="/products/flacbox/screenshots/2048x2732/5.png"  
     title="Mediabibliotheek" 
     method="Fill"
@@ -200,7 +200,7 @@ Intuïtief Ontwerp
     icon="library"
   >}}
 
-  {{< design-feature-card 
+  {{< ls-design-feature-card 
     image="/products/flacbox/screenshots/2048x2732/7.png"  
     title="Cloudopslag" 
     method="Fill"
@@ -209,7 +209,7 @@ Intuïtief Ontwerp
     icon="cloud"
   >}}
 
-  {{< design-feature-card 
+  {{< ls-design-feature-card 
     image="/products/flacbox/screenshots/2048x2732/8.png"  
     title="iCloud Drive" 
     method="Fill"
@@ -227,48 +227,48 @@ Intuïtief Ontwerp
 <div class="hx:mt-6"></div>
 
 <div class="hx:w-full">
-{{< appstore-reviews apps="1097564256,1594027432" stars="5,4"  app="Flacbox" >}}
+{{< ls-appstore-reviews apps="1097564256,1594027432" stars="5,4"  app="Flacbox" >}}
 </div>
 
 <div class="hx:mt-6"></div>
 
-{{< hextra/section-headline >}}
+{{< ls-section-headline >}}
    Prijsplannen
-{{< /hextra/section-headline >}}
+{{< /ls-section-headline >}}
 
 <div class="hx:mt-6"></div>
 
 <div class="hx:w-full">
 
-{{< pricing-plans >}}
+{{< ls-pricing-plans >}}
 
 </div>
 
 <div class="hx:mt-6"></div>
 
 <div class="hx:w-full hx:mx-auto hx:flex hx:flex-col hx:items-center">
-  {{< hextra/info-paragraph border="true" >}}
+  {{< ls-info-paragraph border="true" >}}
    <strong>Delen met Gezin</strong>: Alle aankopen en abonnementen ondersteunen Delen met Gezin, zodat je Premium-toegang kunt delen met je gezin.<br><strong>Universele Toegang</strong>: Levenslange en abonnementsplannen worden gedeeld tussen iOS- en Mac-apparaten via iCloud-synchronisatie.<br><strong>Prijzen</strong>: Prijzen worden weergegeven in Amerikaanse dollars voor de Verenigde Staten. De uiteindelijke prijs kan variëren op basis van je regio.  
-  {{< /hextra/info-paragraph >}}
+  {{< /ls-info-paragraph >}}
 </div>
 
 <div class="hx:mt-6"></div>
 
 <div class="hx:w-full">
-{{< app-details heading="true" >}}
+{{< ls-app-details heading="true" >}}
 </div>
 
 <div class="hx:mt-6"></div>
 
-{{< hextra/section-headline >}}
+{{< ls-section-headline >}}
    Veelgestelde Vragen
-{{< /hextra/section-headline >}}
+{{< /ls-section-headline >}}
 
 <div class="hx:mt-6"></div>
 
 <div class="hx:w-full">
 
-{{% details title="Hoe werkt Flacbox?" closed="true" %}}
+{{% ls-details title="Hoe werkt Flacbox?" closed="true" %}}
 Flacbox is een hi-res muziekspeler waarmee je audiotracks kunt beheren als gewone bestanden.<br>
 Je kunt je volledige muziekcollectie uploaden naar clouddiensten zoals Dropbox, Google Drive of een persoonlijke NAS en muziek rechtstreeks vanuit de cloud afspelen met volledige controle.<br><br>
 Geen iTunes-synchronisatie nodig — upload gewoon vanaf je PC of Mac zoals je met elk bestand doet.<br>
@@ -282,9 +282,9 @@ Bekijk onze handleidingen voor meer informatie:<br>
 - [Hoe bestanden draadloos overzetten van een computer naar een iPhone met WiFi-Drive.](/docs/howto/how-to-transfer-files-wirelessly-from-a-computer-to-an-iphone-using-wifi-drive)<br>
 - [Hoe een USB-geheugenkaart aansluiten op de iPhone en muziek beluisteren of bestanden beheren.](/docs/howto/how-to-connect-a-usb-flashcard-to-the-iphone-and-listen-to-music-or-manage-files-located-on-it)<br>
 - [Hoe muziek afspelen op iPhone vanuit WD My Cloud Home.](/docs/howto/how-to-play-music-on-iphone-from-wd-my-cloud-home)
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Is Flacbox gratis?" closed="true" %}}
+{{% ls-details title="Is Flacbox gratis?" closed="true" %}}
 Flacbox is gratis te gebruiken met enkele beperkingen, die kunnen worden opgeheven door te upgraden naar de Premium-versie.<br>
 Je kunt kiezen tussen een eenmalige levenslange aankoop of twee abonnementsopties (maandelijks of jaarlijks). Prijzen kunnen variëren op basis van je regio.<br><br>
 
@@ -293,10 +293,10 @@ Delen met Gezin is ingeschakeld voor alle plannen, zodat je de Premium-versie ku
 Premium-aankopen en abonnementen worden gedeeld via iOS en Mac via iCloud. Om je aankoop te synchroniseren, zorg ervoor dat iCloud is ingeschakeld, open de app op je iOS-apparaat en wacht even tot de synchronisatie is voltooid.<br><br>
 
 [Lees meer over de verschillen tussen Flacbox en Flacbox Premium](/docs/faq/flacbox/what-is-the-difference-between-flacbox-and-flacbox-premium/)
-{{% /details %}}
+{{% /ls-details %}}
 
 
-{{% details title="Wat is het verschil tussen Flacbox en Evermusic?" closed="true" %}}
+{{% ls-details title="Wat is het verschil tussen Flacbox en Evermusic?" closed="true" %}}
 **Flacbox** is gebouwd om alle standaard iOS-audioformaten te ondersteunen, samen met veel extra formaten die niet standaard worden ondersteund op iPhone, zoals WMA, OGG, M4A, DSD en meer.<br>
 Het gebruikt een aangepaste audio-engine om bijna alle formaten te verwerken en biedt functies zoals instelbare audio-uitvoer samplefrequentie en toonhoogtecorrectie.<br><br>
 
@@ -306,9 +306,9 @@ Als je voornamelijk MP3, ALAC of FLAC gebruikt, is **Evermusic** mogelijk de bet
 Als je brede compatibiliteit met verschillende audiobestandstypen nodig hebt, is **Flacbox** de juiste keuze.<br><br>
 
 [Lees meer over de verschillen tussen Flacbox en Evermusic](/docs/faq/evermusic/what-is-the-difference-between-evermusic-and-flacbox/)
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Hoe synchroniseer ik Flacbox?" closed="true" %}}
+{{% ls-details title="Hoe synchroniseer ik Flacbox?" closed="true" %}}
 
 **Metadata Synchronisatie**  
 Wanneer je tracks aan je bibliotheek toevoegt, scant een achtergrond-metadatalezer je bestanden en organiseert ze op Artiest, Album, Genre en Componist.<br>
@@ -345,10 +345,10 @@ Je kunt ook **synchronisatie-time-outintervallen** aanpassen in de instellingen 
 
 [Lees meer](/docs/guide/flacbox/flacbox-guide-music-library)
 
-{{% /details %}}
+{{% /ls-details %}}
 
 
-{{% details title="Hoe gebruik ik Flacbox?" closed="true" %}}
+{{% ls-details title="Hoe gebruik ik Flacbox?" closed="true" %}}
 
 **Installeer Flacbox**<br>
 Download en installeer de Flacbox-app vanuit de app store van je apparaat. Het is beschikbaar voor zowel iOS- als Mac-apparaten.<br><br>
@@ -408,10 +408,10 @@ Bekijk in-app tutorials of bezoek deze handleidingen:<br><br>
 • [USB-geheugenkaart Aansluiten](/docs/howto/how-to-connect-a-usb-flashcard-to-the-iphone-and-listen-to-music-or-manage-files-located-on-it)<br>
 • [WiFi-Drive Draadloze Overdracht](/docs/howto/how-to-transfer-files-wirelessly-from-a-computer-to-an-iphone-using-wifi-drive)
 
-{{% /details %}}
+{{% /ls-details %}}
 
 
-{{% details title="Is Flacbox veilig?" closed="true" %}}
+{{% ls-details title="Is Flacbox veilig?" closed="true" %}}
 Flacbox gebruikt alleen officiële SDK en beveiligde verbindingen om te communiceren met verbonden clouddiensten. Je inlog en wachtwoord zijn niet beschikbaar voor de applicatie. Alle verzoeken van de applicatie naar de clouddienst zijn versleuteld.<br>
 Wanneer je inlog en wachtwoord invoert, toont de applicatie je de officiële autorisatiepagina die wordt aangeboden door de clouddienst-aanbieder en het gehele autorisatieproces vindt plaats buiten de applicatie. De clouddienst-aanbieder stuurt een auth-token naar de applicatie na succesvolle autorisatie en dat token wordt gebruikt om API-aanroepen te doen.<br><br>
 
@@ -423,24 +423,24 @@ Om het auth-token in te trekken, log in op je account in de webbrowser en navige
 Je kunt ook de verbonden cloudaccounts loskoppelen in de applicatie en het auth-token wordt ook van je apparaat verwijderd. Als je de applicatie van je apparaat verwijdert, worden alle gedownloade gegevens en toegangstokens ook verwijderd.<br><br>
 
 [Lees meer](/docs/guide/flacbox/flacbox-guide-connections)
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Hoe maak ik een afspeellijst in Flacbox?" closed="true" %}}
+{{% ls-details title="Hoe maak ik een afspeellijst in Flacbox?" closed="true" %}}
 - Open de sectie Afspeellijsten.<br>
 - Tik op de knop "+" of de knop "..." in de rechterbovenhoek en selecteer "Nieuwe Afspeellijst."<br>
 - Voer een naam in voor de afspeellijst en tik op "Opslaan." Het dialoogvenster "Nummers Toevoegen" verschijnt.<br>
 - Selecteer de tracks die je aan de afspeellijst wilt toevoegen.<br><br>
 
 [Lees meer](/docs/guide/flacbox/flacbox-guide-playlists)
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Welke clouddiensten ondersteunt Flacbox?" closed="true" %}}
+{{% ls-details title="Welke clouddiensten ondersteunt Flacbox?" closed="true" %}}
 Momenteel ondersteunt de applicatie de meest populaire clouddiensten: iCloud Drive, Google Drive, Dropbox, OneDrive, Box, MEGA, Yandex.Disk, WD MyCloud Home, DLNA, MediaFire, WebDAV, SMB, pCloud, HiDrive, My Cloud Home, InfiniCLOUD, Cloud Mail.ru, Put.io, MyDrive.<br><br>
 
 [Lees meer](/docs/guide/flacbox/flacbox-guide-connections)
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Hoe kan ik een equalizer gebruiken?" closed="true" %}}
+{{% ls-details title="Hoe kan ik een equalizer gebruiken?" closed="true" %}}
 - Open het Audio Player Scherm.<br>
 - Tik op het "Equalizer" pictogram onderaan het scherm.<br>
 - Zet de schakelaar in de rechterbovenhoek van het equalizerscherm aan om de equalizer te activeren.<br>
@@ -448,9 +448,9 @@ Momenteel ondersteunt de applicatie de meest populaire clouddiensten: iCloud Dri
 
 Volledige handleiding beschikbaar hier:<br>
 [Hoe de audio-equalizer gebruiken op je iPhone, iPad, Mac met Evermusic en Flacbox](/docs/howto/how-to-use-the-audio-equalizer-on-your-iphone-ipad-mac-with-evermusic-and-flacbox)
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Hoe schakel ik offline modus in Flacbox in?" closed="true" %}}
+{{% ls-details title="Hoe schakel ik offline modus in Flacbox in?" closed="true" %}}
 - Verbind een Clouddienst:<br>
  • Ga naar het tabblad "Verbindingen".<br>
  • Selecteer "Verbind een clouddienst" en volg de aanwijzingen om de gewenste dienst te verbinden.<br><br>
@@ -476,9 +476,9 @@ Volledige handleiding beschikbaar hier:<br>
  • Tik op "Meer acties" en selecteer "Synchronisatie starten."<br><br>
 
 [Lees meer](/docs/howto/play-offline-music-in-evermusic-flacbox-download-sync-from-cloud-to-local-files/)
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Hoe speel ik lokaal gedownloade muziek af op iPhone?" closed="true" %}}
+{{% ls-details title="Hoe speel ik lokaal gedownloade muziek af op iPhone?" closed="true" %}}
 Zodra je de applicatie hebt geïnstalleerd, open het scherm "Lokale Bestanden" en scroll naar beneden naar de sectie "Bestanden op deze iPhone". Kies daar "Bestanden openen..." als je meerdere audiobestanden wilt selecteren of "Map openen..." als je een muziekmap wilt kiezen. De app scant de inhoud van de map en alle gevonden audiobestanden worden geselecteerd. Navigeer naar je muziekmap, tik op "Open" om je selectie te bevestigen, en de bestanden worden aan de afspeelwachtrij toegevoegd. Deze bestanden worden rechtstreeks afgespeeld vanaf de geselecteerde locatie zonder naar de applicatiebundel te worden gekopieerd.<br><br>
 
 **Een Map Toevoegen aan Favorieten voor Snelle Toegang**<br>
@@ -493,13 +493,13 @@ Om lokale bestanden aan een afspeellijst toe te voegen, open het scherm "Afspeel
 Met deze eenvoudige stappen kun je het volledige potentieel van je iPhone en Mac ontgrendelen als het ultieme platform om te genieten van je gekoesterde lokale muziekcollectie.<br><br>
 
 [Lees meer](/docs/howto/how-to-play-local-music-stored-on-your-iphone-or-mac)
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Hoe kan ik een afspeellijst hervatten waar ik was gebleven?" closed="true" %}}
+{{% ls-details title="Hoe kan ik een afspeellijst hervatten waar ik was gebleven?" closed="true" %}}
 Zorg er eerst voor dat "Audiospeler Status Opslaan" is ingeschakeld in Instellingen > Audiospeler > Algemeen. Wanneer je naar een andere afspeellijst schakelt en terugkeert, zie je vier acties op de bovenste werkbalk onder de albumhoes: "Zoeken", "Afspelen Hervatten", "Alles Afspelen" en "Alles Shuffelen." Tik op "Afspelen Hervatten" om de afspeellijst te hervatten vanaf de laatst opgeslagen status en mediapositie.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Hoe bekijk ik songteksten in Flacbox?" closed="true" %}}
+{{% ls-details title="Hoe bekijk ik songteksten in Flacbox?" closed="true" %}}
 Je kunt ingebedde songteksten voor tracks in de app bekijken door **deze stappen te volgen**:<br>
 1. Start het afspelen van een audiobestand door erop te tikken.<br>
 2. Open de audiospeler op volledig scherm.<br>
@@ -513,9 +513,9 @@ Je kunt ingebedde songteksten voor tracks in de app bekijken door **deze stappen
 3. LRC-bestand Modus: In plaats van audiobestanden te bewerken, kun je een LRC-bestand in dezelfde map plaatsen als het originele audiobestand. Beide bestanden moeten dezelfde naam hebben maar verschillende extensies. Wanneer je naar de derde pagina op het Opmerkingenscherm veegt, zoekt de app naar het LRC-bestand in dezelfde map en toont de inhoud.<br><br>
 
 [Lees meer](/docs/howto/how-to-add-and-view-comments-to-your-audio-tracks-on-iphone-ipad-and-mac-with-evermusic-and-flacbox)
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Hoe zet ik muziek over naar Flacbox vanaf mijn computer?" closed="true" %}}
+{{% ls-details title="Hoe zet ik muziek over naar Flacbox vanaf mijn computer?" closed="true" %}}
 Je kunt je computer of persoonlijke NAS verbinden via SMB-, WebDAV- of DLNA-protocollen. Als alternatief kun je iTunes Bestandsdeling gebruiken om muziek over te zetten.<br><br>
 
 Om een computer te verbinden via SMB-protocol, tik op "Verbind een clouddienst" → SMB. Voer het IP-adres van de computer en de naam van de gedeelde map in het URL-veld in met het formaat smb://computer-ip-adres/gedeelde-mapnaam, voer inlog en wachtwoord in en tik op "Gereed". Als je verbinding succesvol is, zie je de verbonden opslag in de sectie "Clouddiensten".<br><br>
@@ -536,9 +536,9 @@ Gedetailleerde instructie hier beschikbaar:<br>
 
 DLNA Je kunt ook een DLNA-mediaserver instellen en je muziek streamen vanaf een Windows-PC zoals hier beschreven:<br>
 [Hoe DLNA-mediaserver inschakelen op Windows 10 en je muziek afspelen op iPhone](/docs/howto/how-to-enable-dlna-media-server-on-windows-10-and-play-your-music-on-iphone)
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Hoe download ik muziek?" closed="true" %}}
+{{% ls-details title="Hoe download ik muziek?" closed="true" %}}
 Voordat je muziek kunt downloaden en offline naar je muziek kunt luisteren, moet je een netwerkaccount verbinden.<br>
 Open gewoon het scherm "Verbindingen" en voeg je account toe.<br>
 Zodra je een netwerkaccount hebt toegevoegd, kun je je muziek downloaden vanuit de cloud.<br><br>
@@ -559,15 +559,15 @@ Meer gedetailleerde instructie over offline modus hier beschikbaar:<br>
 
 Een andere beschikbare optie is muziek downloaden van clouddiensten en importeren in Evermusic zoals hier beschreven:<br>
 [Hoe Muziek Downloaden van YouTube en Luisteren naar Offline Muziek op iPhone](/docs/howto/how-to-download-music-from-youtube-and-listen-to-offline-music-on-iphone)
-{{% /details %}}
+{{% /ls-details %}}
 
 
-{{% details title="Welke audioformaten ondersteunt Flacbox?" closed="true" %}}
+{{% ls-details title="Welke audioformaten ondersteunt Flacbox?" closed="true" %}}
 Deze app ondersteunt standaard **systeem audiocodecs** en aanvullende **ffmpeg softwarecodecs**:<br><br>
 3g2, 3gp, 3gp2, 3gpp, 8svx, aa, aac, aax, ac3, act, adt, adts, aif, aifc, aiff, alac, amr, amv, ape, asf, au, avi, awb, caf, cavs, cdda, cue, dct, dff, drc, dsf, dss, dvf, "dvr-ms", ec3, f4a, f4b, f4p, f4v, flac, flv, gif, gifv, gsm, gxf, h261, h263, h264, ifv, iklax, ivf, ivs, l16, latm, loas, m2t, m2ts, m2v, m3u, m3u8, m4a, m4b, m4p, m4r, m4v, mka, mkv, mmf, mng, mod, mogg, mov, mp1, mp2, mp3, mp4, mp4v, mpa, mpc, mpe, mpeg, mpg, mpv, msv, mts, mxf, nsf, nsv, nut, oga, ogg, ogv, opus, pcm, pls, qt, ra, raw, rm, rmvb, roq, rv, sln, snd, svi, tod, tta, vob, voc, vox, vtt, w64, wav, wave, webm, wma, wmv, wv, xhe, xmv, y4m, yuv.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Kan ik Flacbox gebruiken om luisterboeken af te spelen?" closed="true" %}}
+{{% ls-details title="Kan ik Flacbox gebruiken om luisterboeken af te spelen?" closed="true" %}}
 
 Ja, Flacbox kan worden gebruikt als een krachtige luisterboekenspeler.<br><br>
 
@@ -590,11 +590,11 @@ Flacbox biedt een volledige oplossing voor luisterboekenliefhebbers op iPhone, i
 
 [Lees meer](/docs/howto/how-to-listen-to-audiobooks-on-iphone-ipad-mac-using-evermusic)
 
-{{% /details %}}
+{{% /ls-details %}}
 
 
 
-{{% details title="Werkt Flacbox met NAS-apparaten?" closed="true" %}}
+{{% ls-details title="Werkt Flacbox met NAS-apparaten?" closed="true" %}}
 
 Ja, Flacbox ondersteunt NAS-verbindingen via **SMB**-, **WebDAV**- en **DLNA**-protocollen.<br><br>
 
@@ -625,10 +625,10 @@ Als de verbinding succesvol is, zie je je NAS in de sectie **Clouddiensten**.<br
 • [Bluesound Vault opslag verbinden](/docs/howto/how-to-connect-bluesound-vault-s-internal-storage-from-the-evermusic-flacbox-evertag)<br>
 • [NAS-opslag verbinden via WebDAV](/docs/howto/how-to-connect-nas-storage-using-webdav-and-listen-to-music-on-your-iphone-or-mac)
 
-{{% /details %}}
+{{% /ls-details %}}
 
 
-{{% details title="Hoe importeer ik muziek in Flacbox?" closed="true" %}}
+{{% ls-details title="Hoe importeer ik muziek in Flacbox?" closed="true" %}}
 
 **Verbind Je Clouddienst**<br>
 • Open het tabblad **Verbindingen**.<br>
@@ -674,10 +674,10 @@ Bekijk deze handleidingen voor meer hulp:<br><br>
 • [Bestanden Draadloos Overzetten via WiFi-Drive](/docs/howto/how-to-transfer-files-wirelessly-from-a-computer-to-an-iphone-using-wifi-drive)<br>
 • [Bestanden Overzetten via SMB-protocol](/docs/howto/transfer-your-files-from-the-computer-to-iphone-using-smb-protocol/)
 
-{{% /details %}}
+{{% /ls-details %}}
 
 
-{{% details title="Hoe gebruik ik de Wi-Fi Drive functie in Flacbox?" closed="true" %}}
+{{% ls-details title="Hoe gebruik ik de Wi-Fi Drive functie in Flacbox?" closed="true" %}}
 
 **Draadloze overdracht via een desktopbrowser**<br>
 1. Start de app: Open Flacbox.<br>
@@ -702,9 +702,9 @@ Opmerking: Zorg ervoor dat JavaScript is ingeschakeld en dat je de nieuwste brow
 
 [Lees meer](/docs/howto/how-to-transfer-files-wirelessly-from-a-computer-to-an-iphone-using-wifi-drive)
 
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Ondersteunt Flacbox Apple CarPlay?" closed="true" %}}
+{{% ls-details title="Ondersteunt Flacbox Apple CarPlay?" closed="true" %}}
 Ja, **Flacbox ondersteunt Apple CarPlay volledig**. Je kunt door je muziekbibliotheek bladeren, lokale of offline bestanden afspelen, verbinding maken met cloudopslag en het afspelen rechtstreeks bedienen vanaf het infotainmentscherm van je auto.
 
 De CarPlay-interface bevat speciale tabbladen voor **Bibliotheek**, **Verbindingen**, **Lokale Bestanden** en **Instellingen**, waardoor je volledige controle hebt over je muziek onderweg. Afspeelbediening, shuffle, herhalen en wachtrijbeheer zijn ook beschikbaar.
@@ -712,42 +712,42 @@ De CarPlay-interface bevat speciale tabbladen voor **Bibliotheek**, **Verbinding
 Om CarPlay te gebruiken, zorg ervoor dat Siri is ingeschakeld en je iPhone is verbonden via USB of draadloos.
 
 [Lees de volledige handleiding](/docs/howto/how-to-play-your-own-music-on-iphone-using-carplay/)
-{{% /details %}}
+{{% /ls-details %}}
 
 </div>
 
 
 <div class="hx:mt-6"></div>
 
-{{< hextra/section-headline >}}
+{{< ls-section-headline >}}
   Gebruikershandleiding
-{{< /hextra/section-headline >}}
+{{< /ls-section-headline >}}
 
 <div class="hx:mt-6"></div>
 
 <div class="hx:w-full">
 
 <div class="hx:w-full hx:mx-auto hx:flex hx:flex-col hx:items-center hx:text-center">
-  {{< hextra/info-paragraph border="false" >}}
+  {{< ls-info-paragraph border="false" >}}
   Deze handleiding helpt je om het meeste uit Flacbox te halen op je iPhone, iPad of Mac. Leer hoe je hi-res muziek kunt streamen vanuit de cloud, je bibliotheek kunt organiseren, luisterboeken kunt beheren en muziek kunt overzetten tussen apparaten.
-  {{< /hextra/info-paragraph >}}
+  {{< /ls-info-paragraph >}}
 </div>
 
 {{< cards >}}
 
-{{< feature-card icon="map" link="/docs/guide/flacbox/flacbox-guide-navigation" title="Navigatie" subtitle="Gebruik de tabbalk op iPhone of het linkermenu op iPad en Mac." >}}
+{{< ls-feature-card icon="map" link="/docs/guide/flacbox/flacbox-guide-navigation" title="Navigatie" subtitle="Gebruik de tabbalk op iPhone of het linkermenu op iPad en Mac." >}}
 
-{{< feature-card icon="cloud" link="/docs/guide/flacbox/flacbox-guide-connections" title="Verbindingen" subtitle="Verbind Dropbox, Google Drive, iCloud of je NAS." >}}
+{{< ls-feature-card icon="cloud" link="/docs/guide/flacbox/flacbox-guide-connections" title="Verbindingen" subtitle="Verbind Dropbox, Google Drive, iCloud of je NAS." >}}
 
-{{< feature-card icon="collection" link="/docs/guide/flacbox/flacbox-guide-music-library" title="Muziekbibliotheek" subtitle="Beheer en zoek tracks op artiest, album of genre." >}}
+{{< ls-feature-card icon="collection" link="/docs/guide/flacbox/flacbox-guide-music-library" title="Muziekbibliotheek" subtitle="Beheer en zoek tracks op artiest, album of genre." >}}
 
-{{< feature-card icon="music-note" link="/docs/guide/flacbox/flacbox-guide-playlists" title="Afspeellijsten" subtitle="Maak en organiseer afspeellijsten voor elke stemming of gelegenheid." >}}
+{{< ls-feature-card icon="music-note" link="/docs/guide/flacbox/flacbox-guide-playlists" title="Afspeellijsten" subtitle="Maak en organiseer afspeellijsten voor elke stemming of gelegenheid." >}}
 
-{{< feature-card icon="folder" link="/docs/guide/flacbox/flacbox-guide-local-files" title="Lokale Bestanden" subtitle="Bewerk en speel offline muziek af met de ingebouwde bestandsbeheerder." >}}
+{{< ls-feature-card icon="folder" link="/docs/guide/flacbox/flacbox-guide-local-files" title="Lokale Bestanden" subtitle="Bewerk en speel offline muziek af met de ingebouwde bestandsbeheerder." >}}
 
-{{< feature-card icon="play" link="/docs/guide/flacbox/flacbox-guide-player" title="Audiospeler" subtitle="Bedien het afspelen, pas de snelheid aan, stel bladwijzers in en meer." >}}
+{{< ls-feature-card icon="play" link="/docs/guide/flacbox/flacbox-guide-player" title="Audiospeler" subtitle="Bedien het afspelen, pas de snelheid aan, stel bladwijzers in en meer." >}}
 
-{{< feature-card icon="adjustments" link="/docs/guide/flacbox/flacbox-guide-settings" title="Instellingen" subtitle="Pas equalizer, uiterlijk en app-gedrag aan." >}}
+{{< ls-feature-card icon="adjustments" link="/docs/guide/flacbox/flacbox-guide-settings" title="Instellingen" subtitle="Pas equalizer, uiterlijk en app-gedrag aan." >}}
 
 {{< /cards >}}
 

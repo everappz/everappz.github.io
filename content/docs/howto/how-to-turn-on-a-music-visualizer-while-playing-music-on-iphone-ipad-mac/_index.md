@@ -10,12 +10,12 @@ aliases:
   - /post/how-to-use-the-music-visualizer-in-flacbox-milkdrop-projectm-500-presets/
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 **Short answer:** [Evermusic](/products/evermusic) and [Flacbox](/products/flacbox) both have a full-screen **music visualizer** that paints moving, colorful visuals in time with your music. Open it from the **Now Playing** player (**⋯ More > Visualization**) or from **Settings > Visualization**, then pick a preset or **Auto** and tap **Start visualization**. On the visualizer screen, tap once to show or hide the controls and use the **Previous** and **Next** arrows to change the look. It uses the well-known **Milkdrop (projectM)** engine with **500 presets**, renders with **OpenGL**, and works on **iPhone, iPad, and Mac**. The steps are the same in both apps. Full steps are below.
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Music visualizer: Starfield Sectors preset" image="/docs/howto/how-to-turn-on-a-music-visualizer-while-playing-music-on-iphone-ipad-mac/music-visualizer-starfield-sectors-preset.webp" imageStyle="border-radius: clamp(14px, 2vw, 28px);" >}}
+{{< ls-card title="" subtitle="Music visualizer: Starfield Sectors preset" image="/docs/howto/how-to-turn-on-a-music-visualizer-while-playing-music-on-iphone-ipad-mac/music-visualizer-starfield-sectors-preset.webp" imageStyle="border-radius: clamp(14px, 2vw, 28px);" >}}
 {{< /cards >}}
 
 ## What Is the Visualizer?
@@ -88,50 +88,50 @@ Either way, the visuals react to the exact audio you are playing, whether that i
 
 ## FAQ
 
-{{% details title="How do I turn on the visualizer in Evermusic or Flacbox?" closed="true" %}}
+{{% ls-details title="How do I turn on the visualizer in Evermusic or Flacbox?" closed="true" %}}
 Open the Now Playing player, tap the ⋯ (More) button, and choose Visualization. You can also open it from Settings > Visualization. Then pick a preset (or Auto) and tap Start visualization. The steps are the same in both apps.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="What is the visualizer based on?" closed="true" %}}
+{{% ls-details title="What is the visualizer based on?" closed="true" %}}
 It uses the open-source projectM engine, which plays Milkdrop-style presets. These are the animated, music-reactive visuals many people know from desktop music players. Both Evermusic and Flacbox include 500 presets and draw them with OpenGL.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="How many visualizer presets are there?" closed="true" %}}
+{{% ls-details title="How many visualizer presets are there?" closed="true" %}}
 500 presets. Each one is a different animated scene, and you can move through them with the Next and Previous arrows, or let Auto mode shuffle through them for you.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Does the visualizer react to the music?" closed="true" %}}
+{{% ls-details title="Does the visualizer react to the music?" closed="true" %}}
 Yes. The visuals respond to the audio you are playing in real time, so the shapes, colors, and motion change with the beat and energy of the track. It works with local files, cloud drives, media servers, and internet radio.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="How do I change the visualizer preset?" closed="true" %}}
+{{% ls-details title="How do I change the visualizer preset?" closed="true" %}}
 Tap the screen once to show the controls, then use the Previous and Next arrows at the bottom to move between presets. The name and counter at the top (for example, 429 / 500) update as you change them. You can also start in Auto mode to have the app switch presets automatically.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="What is Auto mode?" closed="true" %}}
+{{% ls-details title="What is Auto mode?" closed="true" %}}
 Auto mode, chosen from the preset picker, shuffles through the presets on its own, switching to a new one every 30 seconds with a smooth crossfade. It is the easiest way to enjoy the show without touching the screen.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="How do I hide the on-screen controls?" closed="true" %}}
+{{% ls-details title="How do I hide the on-screen controls?" closed="true" %}}
 Tap the screen once to hide the controls for a clean, full-screen view, and tap again to bring them back. The controls also hide by themselves after a few seconds.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Does the visualizer work on Mac?" closed="true" %}}
+{{% ls-details title="Does the visualizer work on Mac?" closed="true" %}}
 Yes. On Mac, both Evermusic and Flacbox open the visualizer in its own window and draw it with native desktop OpenGL, so you get the same music-reactive Milkdrop visuals on a large screen.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Does the visualizer work on iPhone and iPad?" closed="true" %}}
+{{% ls-details title="Does the visualizer work on iPhone and iPad?" closed="true" %}}
 Yes. On iPhone and iPad it runs full-screen, drawn with OpenGL ES for smooth animation on Retina displays.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Will my screen dim or lock while the visualizer is running?" closed="true" %}}
+{{% ls-details title="Will my screen dim or lock while the visualizer is running?" closed="true" %}}
 No. The app keeps the screen awake while the visualizer is on, so the show will not be interrupted by the display dimming or locking.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Does the app remember my chosen preset?" closed="true" %}}
+{{% ls-details title="Does the app remember my chosen preset?" closed="true" %}}
 Yes. The last preset you selected is saved and highlighted in the preset picker, so it is easy to return to your favorite.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Where does the current preset name show?" closed="true" %}}
+{{% ls-details title="Where does the current preset name show?" closed="true" %}}
 At the top center of the visualizer screen, along with a counter such as 429 / 500 that shows which preset you are on out of the full set. In the example screenshot, the preset is Starfield Sectors.
-{{% /details %}}
+{{% /ls-details %}}

@@ -7,7 +7,7 @@ tags: ["Evermusic", "Gapless-afspilning", "Sådan gør du", "Lyd", "Afspilning",
 readingTime: 4
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 **Kort fortalt:** Åbn **Indstillinger > Lydafspiller > Gapless-afspilning**, og sæt kontakten på **TIL**. Fra da af afspilles sange uden pause, klik eller tik imellem dem. Evermusic forbuffrer og afkoder det næste nummer, mens det aktuelle stadig spiller, og overdrager derefter mellem lydsamples på en sammenhængende buffer, så overgangen er helt problemfri. Det er ægte gapless-afspilning med sample-nøjagtighed, ikke crossfade.
 
@@ -73,30 +73,30 @@ Resultatet er, at et livealbum, et beat-matchet DJ-sæt eller en konceptplade af
 
 ## Ofte stillede spørgsmål
 
-{{% details title="Hvordan slår jeg gapless-afspilning til i Evermusic?" closed="true" %}}
+{{% ls-details title="Hvordan slår jeg gapless-afspilning til i Evermusic?" closed="true" %}}
 Åbn Evermusic, gå til Indstillinger > Lydafspiller > Gapless-afspilning, og sæt kontakten på TIL. Det er slået fra som standard. Når det er aktiveret, gælder det for alt, du afspiller, og bliver slået til, indtil du slår det fra.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Er Evermusics gapless-afspilning ægte gapless eller bare crossfade?" closed="true" %}}
+{{% ls-details title="Er Evermusics gapless-afspilning ægte gapless eller bare crossfade?" closed="true" %}}
 Det er ægte gapless-afspilning med sample-nøjagtighed. Evermusic afkoder og forbuffrer det næste nummer, mens det aktuelle spiller, og overdrager derefter mellem lydsamples på en sammenhængende buffer, så der indsættes ingen stilhed, klik eller padding, og der opstår intet hul fra afkoder-genstart. Crossfade er en separat, anden funktion, der overlapper og blander numre; gapless bevarer lyden nøjagtigt som masteret og fjerner kun hullet.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Hvorfor hører jeg stadig et hul mellem nogle numre?" closed="true" %}}
+{{% ls-details title="Hvorfor hører jeg stadig et hul mellem nogle numre?" closed="true" %}}
 Sørg for, at gapless-afspilning er slået TIL under Indstillinger > Lydafspiller > Gapless-afspilning. Hvis der stadig er et hul, kan det være indbygget i selve optagelsen (nogle filer indeholder nogle få sekunders ægte stilhed i starten eller slutningen af et nummer). Gapless fjerner det hul, afspilleren normalt ville tilføje mellem numre; det kan ikke fjerne stilhed, der er en del af lydfilen.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Virker gapless-afspilning med FLAC og andre tabsfrie filer?" closed="true" %}}
+{{% ls-details title="Virker gapless-afspilning med FLAC og andre tabsfrie filer?" closed="true" %}}
 Ja. Gapless-afspilning virker med FLAC, Apple Lossless (ALAC) og tabsbehæftede formater som MP3 og AAC, uanset om filerne er gemt lokalt, i skyen eller på en medieserver.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Kan jeg bruge gapless-afspilning og crossfade samtidig?" closed="true" %}}
+{{% ls-details title="Kan jeg bruge gapless-afspilning og crossfade samtidig?" closed="true" %}}
 Nej. De gør modsatte ting, så når du aktiverer gapless-afspilning, deaktiveres crossfade automatisk. Brug gapless til livealbum, DJ-mix og konceptplader, hvor lyden skal bevares nøjagtigt; brug crossfade, hvis du vil have sange til at fade over i hinanden.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Virker gapless-afspilning ved streaming fra skyen?" closed="true" %}}
+{{% ls-details title="Virker gapless-afspilning ved streaming fra skyen?" closed="true" %}}
 Ja. Evermusic begynder at buffre og afkode det næste nummer tidligt, også for skydrev og medieservere, så overdragelsen forbliver problemfri. På langsommere forbindelser begynder den blot at forberede det næste nummer lidt tidligere.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Forringer gapless-afspilning lydkvaliteten?" closed="true" %}}
+{{% ls-details title="Forringer gapless-afspilning lydkvaliteten?" closed="true" %}}
 Nej. Gapless-afspilning genkoder eller behandler ikke din lyd. Det ændrer kun, hvordan numrene planlægges og buffres, så der ikke er noget hul imellem dem. Hvert sample afspilles nøjagtigt, som det er i filen.
-{{% /details %}}
+{{% /ls-details %}}

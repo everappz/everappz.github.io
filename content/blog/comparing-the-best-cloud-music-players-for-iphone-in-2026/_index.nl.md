@@ -12,7 +12,7 @@ authors:
     image: "/images/about/artem-meleshko-founder-everappz.webp"
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 ## Welke Cloud Muziekspeler Is het Beste voor iPhone?
 
@@ -91,22 +91,22 @@ Voor audiofiele gebruikers en iedereen die een persoonlijke muziekcollectie bijh
 
 ## Veelgestelde Vragen
 
-{{% details title="Kan ik FLAC-bestanden afspelen op iPhone zonder ze te converteren?" closed="true" %}}
+{{% ls-details title="Kan ik FLAC-bestanden afspelen op iPhone zonder ze te converteren?" closed="true" %}}
 Ja. Evermusic speelt FLAC, DSD, WAV, ALAC en andere verliesloze formaten native af op iPhone. Er is geen bestandsconversie nodig. Verbind gewoon je cloudopslagaccount en stream of download je FLAC-bestanden direct.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Welke cloud muziekspeler werkt met Dropbox en Google Drive?" closed="true" %}}
+{{% ls-details title="Welke cloud muziekspeler werkt met Dropbox en Google Drive?" closed="true" %}}
 Evermusic ondersteunt Dropbox, Google Drive, OneDrive, Box, MEGA, pCloud, WebDAV, SMB en meer -- meer dan 12 clouddiensten in totaal. De meeste mainstream streaming-apps zoals Spotify en Apple Music verbinden niet met cloudopslag van derden.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Heb ik een abonnement nodig om een cloud muziekspeler te gebruiken?" closed="true" %}}
+{{% ls-details title="Heb ik een abonnement nodig om een cloud muziekspeler te gebruiken?" closed="true" %}}
 Het hangt af van de app. Spotify, Apple Music en Deezer vereisen maandelijkse abonnementen. Evermusic biedt een gratis tier en een eenmalige Premium-aankoop zonder terugkerende kosten. Je gebruikt je eigen cloudopslag om je muziekbestanden te hosten.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Wat is de beste muziekspeler voor offline luisteren op iPhone?" closed="true" %}}
+{{% ls-details title="Wat is de beste muziekspeler voor offline luisteren op iPhone?" closed="true" %}}
 Alle grote spelers ondersteunen offline downloads, maar de aanpak verschilt. Spotify en Apple Music laten je nummers downloaden uit hun catalogi. Evermusic laat je je eigen bestanden downloaden uit cloudopslag voor offline afspelen -- ideaal voor vluchten, woon-werkverkeer of gebieden zonder connectiviteit.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Kan ik een cloud muziekspeler gebruiken met mijn NAS of thuisserver?" closed="true" %}}
+{{% ls-details title="Kan ik een cloud muziekspeler gebruiken met mijn NAS of thuisserver?" closed="true" %}}
 Ja. Evermusic ondersteunt WebDAV- en SMB-protocollen, wat betekent dat het verbinding kan maken met de meeste NAS-apparaten van Synology, QNAP en Western Digital. Dit maakt je iPhone tot een remote speler voor je hele thuismuziekbibliotheek.
-{{% /details %}}
+{{% /ls-details %}}

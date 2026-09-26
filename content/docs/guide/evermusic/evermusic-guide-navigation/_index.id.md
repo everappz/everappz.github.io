@@ -25,7 +25,7 @@ Fungsionalitas Evermusic dibagi dengan cermat menjadi dua komponen berbeda: Perp
 Baik Anda menggunakan iPhone, iPad, atau mode kompak di Mac, semua fitur aplikasi mudah diakses melalui tab bar di bagian bawah layar. Untuk pengguna iPad dan Mac, menu yang sama dapat ditemukan di sisi kiri layar. Organisasi yang cerdas ini mengkategorikan semua fitur aplikasi ke dalam bagian yang mudah diakses, memastikan pengalaman yang ramah pengguna dan efisien.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Sidebar Kiri Evermusic di iPad dan Mac" image="/docs/guide/evermusic/evermusic-guide-navigation/img/navigation-left-sidebar.webp" >}}
+  {{< ls-card title="" subtitle="Sidebar Kiri Evermusic di iPad dan Mac" image="/docs/guide/evermusic/evermusic-guide-navigation/img/navigation-left-sidebar.webp" >}}
 {{< /cards >}}
 
 **Koneksi:** Anda dapat dengan mudah menghubungkan layanan penyimpanan cloud seperti Google Drive, MEGA, OneDrive, dan Dropbox, serta komputer dan NAS pribadi Anda di layar ini.
@@ -47,7 +47,7 @@ Bagian file lokal dibagi menjadi dua kategori: File di aplikasi ini, yang menamp
 Aktifkan pemutar layar penuh dengan mengetuk ikon mini player dan menggunakan gerakan geser ke bawah untuk menyembunyikannya. Di iPad dan Mac, layar mini player terletak di bagian atas layar dan dapat disembunyikan saat membuka pemutar layar penuh melalui menu utama.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Tab Bar iPhone" image="/docs/guide/evermusic/evermusic-guide-navigation/img/navigation-bottom-tabbar.webp" >}}
+  {{< ls-card title="" subtitle="Tab Bar iPhone" image="/docs/guide/evermusic/evermusic-guide-navigation/img/navigation-bottom-tabbar.webp" >}}
 {{< /cards >}}
 
 ## Jendela Mini Player (Khusus Mac)
@@ -55,7 +55,7 @@ Aktifkan pemutar layar penuh dengan mengetuk ikon mini player dan menggunakan ge
 Untuk mengakses jendela mini player di Mac Anda, cukup pindahkan kursor ke tepi kanan bawah jendela aplikasi dan ubah ukurannya ke ukuran terkecil yang mungkin. Kemudian, ketuk tombol ciutkan (digambarkan sebagai panah ke bawah) untuk mengaktifkan jendela mini-player. Untuk menjaga jendela mini player selalu di atas jendela lain, navigasi ke bilah menu atas Mac Anda, pilih 'Window,' lalu pilih 'Show Window Always On Top.' Fitur ini berguna untuk mendengarkan ceramah audio tanpa gangguan.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Jendela Mini Player Mac" image="/docs/guide/evermusic/evermusic-guide-navigation/img/navigation-mac-exclusive-miniplayer.webp" >}}
+  {{< ls-card title="" subtitle="Jendela Mini Player Mac" image="/docs/guide/evermusic/evermusic-guide-navigation/img/navigation-mac-exclusive-miniplayer.webp" >}}
 {{< /cards >}}
 
 ## Lebih Banyak Tindakan
@@ -63,7 +63,7 @@ Untuk mengakses jendela mini player di Mac Anda, cukup pindahkan kursor ke tepi 
 Hampir setiap item konten di layar memiliki tombol "Lebih Banyak Tindakan". Ketuk untuk mengakses semua tindakan yang tersedia.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Menu Konteks Lebih Banyak Tindakan" image="/docs/guide/evermusic/evermusic-guide-navigation/img/navigation-more-actions.webp" >}}
+  {{< ls-card title="" subtitle="Menu Konteks Lebih Banyak Tindakan" image="/docs/guide/evermusic/evermusic-guide-navigation/img/navigation-more-actions.webp" >}}
 {{< /cards >}}
 
 ## Toolbar Atas
@@ -77,7 +77,7 @@ Anda dapat dengan mudah menampilkan atau menyembunyikan toolbar ini dengan gerak
 - **Acak Semua:** Tambahkan semua trek dari halaman saat ini ke antrean pemutar audio, mengacaknya sebelum menambahkan untuk pengalaman mendengarkan yang menyenangkan.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Toolbar Atas dengan Pencarian, Putar Semua, dan Acak Semua" image="/docs/guide/evermusic/evermusic-guide-navigation/img/navigation-top-toolbar.webp" >}}
+  {{< ls-card title="" subtitle="Toolbar Atas dengan Pencarian, Putar Semua, dan Acak Semua" image="/docs/guide/evermusic/evermusic-guide-navigation/img/navigation-top-toolbar.webp" >}}
 {{< /cards >}}
 
 ## Menu Konteks
@@ -91,7 +91,7 @@ Menu konteks menyediakan akses cepat ke opsi dan tindakan tambahan untuk interak
 **Klik Mouse Kanan:** Klik kanan pada sel, mini player, atau pemutar kompak untuk menampilkan menu konteks.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Menu Konteks di macOS" image="/docs/guide/evermusic/evermusic-guide-navigation/img/navigation-context-menu-macos.webp" >}}
+  {{< ls-card title="" subtitle="Menu Konteks di macOS" image="/docs/guide/evermusic/evermusic-guide-navigation/img/navigation-context-menu-macos.webp" >}}
 {{< /cards >}}
 
 ## Aksesibilitas
@@ -125,7 +125,7 @@ Evermusic hadir dengan empat widget Layar Utama / Layar Kunci yang menampilkan b
 Keempat widget tersedia dalam ukuran Kecil, Sedang, dan Besar sehingga Anda dapat memilih tata letak yang sesuai dengan layar Anda.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Menambahkan Widget Evermusic" image="/docs/guide/evermusic/evermusic-guide-navigation/img/navigation-add-widgets.webp" >}}
+  {{< ls-card title="" subtitle="Menambahkan Widget Evermusic" image="/docs/guide/evermusic/evermusic-guide-navigation/img/navigation-add-widgets.webp" >}}
 {{< /cards >}}
 
 ### Tambahkan widget di iPhone (Layar Utama)
@@ -175,7 +175,7 @@ Widget CarPlay diperbarui secara langsung seiring perubahan musik dan ramah jari
 Evermusic menyertakan antarmuka **Apple CarPlay** yang lengkap fitur (hanya iOS) yang dioptimalkan untuk layar mobil. Setelah iPhone Anda terhubung ke head unit CarPlay yang kompatibel — melalui USB atau nirkabel — Evermusic muncul bersama Apple Music dan Spotify di kisi aplikasi CarPlay, siap untuk melakukan streaming perpustakaan cloud Anda di jalan.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evermusic di Layar CarPlay" image="/docs/guide/evermusic/evermusic-guide-navigation/img/navigation-carplay-menu.webp" >}}
+  {{< ls-card title="" subtitle="Evermusic di Layar CarPlay" image="/docs/guide/evermusic/evermusic-guide-navigation/img/navigation-carplay-menu.webp" >}}
 {{< /cards >}}
 
 ### Yang Anda dapatkan di CarPlay

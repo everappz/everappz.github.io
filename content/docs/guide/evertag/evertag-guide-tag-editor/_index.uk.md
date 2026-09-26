@@ -15,7 +15,7 @@ readingTime: 5
 **Редактор тегів** — головний екран додатка Evertag, де можна переглядати та редагувати метадані аудіофайлів. Відкрийте цей екран, натиснувши на файл у розділі **Локальні файли** або з будь-якого підключеного **хмарного сховища**.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evertag Tag Editor Screen" image="/docs/guide/evertag/img/tag-editor.webp" >}}
+  {{< ls-card title="" subtitle="Evertag Tag Editor Screen" image="/docs/guide/evertag/img/tag-editor.webp" >}}
 {{< /cards >}}
 
 ## Режими редагування
@@ -38,7 +38,7 @@ Evertag надає два режими редагування:
 Щоб отримати доступ до всіх доступних тегів, прокрутіть до низу екрана та натисніть опцію **Показати розширені теги**. Це переведе редактор у розширений режим, що дозволяє редагувати понад **120 полів метаданих**, включно з **тегами MusicBrainz**, **текстами пісень**, **рейтингами**, значеннями replay-gain, порядком сортування, метаданими подкастів тощо. Використовуйте **Налаштування → Редактор аудіотегів → Кнопки на головному екрані**, щоб постійно ввімкнути «Показати розширені теги».
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Bottom Actions Panel" image="/docs/guide/evertag/img/tag-editor-bottom-actions.webp" >}}
+{{< ls-card title="" subtitle="Bottom Actions Panel" image="/docs/guide/evertag/img/tag-editor-bottom-actions.webp" >}}
 {{< /cards >}}
 
 ## Пакетний режим
@@ -53,7 +53,7 @@ Evertag надає два режими редагування:
    - Відкрийте будь-який файл, прокрутіть до низу та натисніть **Редагувати файли одночасно**, щоб завантажити всі файли з тієї самої папки.
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Batch Editing Mode" image="/docs/guide/evertag/img/tag-editor-batch-editing.webp" >}}
+{{< ls-card title="" subtitle="Batch Editing Mode" image="/docs/guide/evertag/img/tag-editor-batch-editing.webp" >}}
 {{< /cards >}}
 
 Після редагування натисніть **Зберегти**, щоб застосувати зміни.
@@ -72,19 +72,19 @@ Evertag надає два режими редагування:
 Кожен ярлик відображається лише тоді, коли відповідний сервіс доступний із вашого пристрою. Натисніть на сервіс, скопіюйте тексти (або мітки часу LRC), поверніться до Evertag і вставте їх у текстове поле — потім натисніть **Зберегти**, щоб записати тексти в теги аудіофайлу.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Lyrics Pages" image="/docs/guide/evertag/img/tag-editor-lyrics-pages.webp" >}}
+  {{< ls-card title="" subtitle="Lyrics Pages" image="/docs/guide/evertag/img/tag-editor-lyrics-pages.webp" >}}
 {{< /cards >}}
 
 Виберіть мову з вибірника:
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Lyrics Language Selector" image="/docs/guide/evertag/img/tag-editor-lyrics-language-select.webp" >}}
+  {{< ls-card title="" subtitle="Lyrics Language Selector" image="/docs/guide/evertag/img/tag-editor-lyrics-language-select.webp" >}}
 {{< /cards >}}
 
 Потім вставте або введіть текст пісні. Evertag підтримує як звичайний текст, так і синхронізовані тексти — у плейсхолдері показано приклад формату LRC, який саме повертають Lrclib і Lyricsify для синхронізованих результатів.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Lyrics Text Editor" image="/docs/guide/evertag/img/tag-editor-lyrics-text.webp" >}}
+  {{< ls-card title="" subtitle="Lyrics Text Editor" image="/docs/guide/evertag/img/tag-editor-lyrics-text.webp" >}}
 {{< /cards >}}
 
 ## Встановлення рейтингу та рейтингу вмісту
@@ -96,7 +96,7 @@ Evertag надає два режими редагування:
 Використовуйте поле **Рейтинг**, щоб дати треку особистий бал від однієї до п'яти зірок. Значення записується в стандартний тег рейтингу файлу (POPM для ID3, `rate` для MP4, `RATING` для Vorbis/APE тощо), тому інші додатки, що читають цей тег, — включно з Music, Plex, Roon і більшістю настільних редакторів тегів — одразу підхоплять ваші оцінки.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Rating" image="/docs/guide/evertag/img/tag-editor-rating.webp" >}}
+  {{< ls-card title="" subtitle="Rating" image="/docs/guide/evertag/img/tag-editor-rating.webp" >}}
 {{< /cards >}}
 
 ### Рейтинг вмісту
@@ -117,7 +117,7 @@ Evertag надає два режими редагування:
 Значення зберігається в стандартному полі рейтингу вмісту для формату файлу (`rtng` для MP4, `TXXX:ITUNESADVISORY` для ID3, `ITUNESADVISORY` для Vorbis), тому будь-який плеєр, що читає метадані батьківського контролю, побачить ваше оновлення.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Lyrics Advisory Rating" image="/docs/guide/evertag/img/lyrics-advisory-rating.webp" >}}
+  {{< ls-card title="" subtitle="Lyrics Advisory Rating" image="/docs/guide/evertag/img/lyrics-advisory-rating.webp" >}}
 {{< /cards >}}
 
 ## Редагування обкладинки альбому
@@ -129,7 +129,7 @@ Evertag надає два режими редагування:
 3. Оберіть зображення для застосування як обкладинки.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Select Image" image="/docs/guide/evertag/img/select-image.webp" >}}
+  {{< ls-card title="" subtitle="Select Image" image="/docs/guide/evertag/img/select-image.webp" >}}
 {{< /cards >}}
 
 ## Більше дій у редакторі тегів
@@ -137,7 +137,7 @@ Evertag надає два режими редагування:
 Додаткові параметри редагування доступні через панель інструментів під переглядом обкладинки.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="More Actions Menu" image="/docs/guide/evertag/img/tag-editor-more-actions.webp" >}}
+  {{< ls-card title="" subtitle="More Actions Menu" image="/docs/guide/evertag/img/tag-editor-more-actions.webp" >}}
 {{< /cards >}}
 
 ### Автопошук аудіотегів
@@ -150,13 +150,13 @@ Evertag надає два режими редагування:
 Використовуйте метадані для пошуку правильного зображення обкладинки в Інтернеті.  
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Search Album Cover" image="/docs/guide/evertag/img/search-album-cover.webp" >}}
+  {{< ls-card title="" subtitle="Search Album Cover" image="/docs/guide/evertag/img/search-album-cover.webp" >}}
 {{< /cards >}}
 
 Після знаходження збережіть зображення до **Фото** за допомогою системного контекстного меню.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Add Image to Photos" image="/docs/guide/evertag/img/add-image-to-photos.webp" >}}
+  {{< ls-card title="" subtitle="Add Image to Photos" image="/docs/guide/evertag/img/add-image-to-photos.webp" >}}
 {{< /cards >}}
 
 Після цього поверніться до редактора тегів, натисніть іконку камери, перейдіть до **Бібліотеки фото** та оберіть збережене зображення. Додаток встановить його як обкладинку вашого аудіофайлу.
@@ -178,19 +178,19 @@ Evertag надає два режими редагування:
 - Оберіть альбом  
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Select Album" image="/docs/guide/evertag/img/select-album-results.webp" >}}
+  {{< ls-card title="" subtitle="Select Album" image="/docs/guide/evertag/img/select-album-results.webp" >}}
 {{< /cards >}}
 
 - Виберіть потрібну пісню  
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Select Song" image="/docs/guide/evertag/img/select-a-song.webp" >}}
+  {{< ls-card title="" subtitle="Select Song" image="/docs/guide/evertag/img/select-a-song.webp" >}}
 {{< /cards >}}
 
 - Оберіть, які теги застосувати  
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Select Audio Tags" image="/docs/guide/evertag/img/select-audio-tags.webp" >}}
+  {{< ls-card title="" subtitle="Select Audio Tags" image="/docs/guide/evertag/img/select-audio-tags.webp" >}}
 {{< /cards >}}
 
 Натисніть **Готово**, щоб застосувати вибрані метадані до свого треку.

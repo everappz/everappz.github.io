@@ -14,7 +14,7 @@ authors:
     image: "/images/about/artem-meleshko-founder-everappz.webp"
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 ![](/blog/evermusic-sync-your-music-library-save-playback-position-correct-music-tags/21260c_641f376e779e47d4927b43c210d3c87f~mv2.jpeg)
 
@@ -69,22 +69,22 @@ Evermusic detects and corrects invalid or incomplete ID3 tags using online datab
 
 ## Frequently Asked Questions
 
-{{% details title="Does Evermusic auto-sync work with all cloud services?" closed="true" %}}
+{{% ls-details title="Does Evermusic auto-sync work with all cloud services?" closed="true" %}}
 Yes. Automatic sync works with Dropbox, Google Drive, OneDrive, MEGA, WebDAV, and SMB. Select the folders you want monitored and Evermusic keeps your library current.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Can Evermusic save my audiobook position?" closed="true" %}}
+{{% ls-details title="Can Evermusic save my audiobook position?" closed="true" %}}
 Yes. Enable playback position saving in audio settings. Evermusic remembers where you stopped for each file, so you can resume without manual bookmarks.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="How does background metadata reading work?" closed="true" %}}
+{{% ls-details title="How does background metadata reading work?" closed="true" %}}
 Evermusic reads ID3 tags and file metadata in the background while you use other features. It organizes your library by Artist, Album, and Genre automatically.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Will Evermusic fix my broken music tags?" closed="true" %}}
+{{% ls-details title="Will Evermusic fix my broken music tags?" closed="true" %}}
 Yes. The automatic tag correction feature checks your files against online databases and fixes invalid, incomplete, or missing ID3 metadata.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Is Evermusic free to download?" closed="true" %}}
+{{% ls-details title="Is Evermusic free to download?" closed="true" %}}
 Evermusic is free to download with optional premium features available via in-app purchase.
-{{% /details %}}
+{{% /ls-details %}}

@@ -12,7 +12,7 @@ authors:
     image: "/images/about/artem-meleshko-founder-everappz.webp"
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 **Ringkasan:** [Evervideo 1.7](/products/evervideo) ialah kemas kini besar untuk pemain video HD pada iPhone, iPad dan Mac. Keluaran ini menambah lebih daripada 10 sambungan awan, NAS dan pelayan media baharu — **Internxt**, **Proton Drive**, **QNAP**, **Nextcloud**, **Amazon S3**, ditambah dengan pelayan media paling popular **Plex**, **Subsonic**, **Navidrome**, **Jellyfin** dan **Emby**, dan tiga protokol rangkaian: **FTP**, **SFTP** dan **NFS**. **Gerak isyarat main** baharu membenarkan anda ketuk dua kali untuk meloncat ke hadapan atau ke belakang, ketuk dan tahan untuk berjalan pada 2x, dan ketuk sekali untuk menogol kawalan — semuanya tanpa meninggalkan skrin penuh. Wi-Fi Drive memperoleh UI yang disegarkan dengan mod pemilihan dan baris gilir muat naik yang lebih bijak. Keseluruhan aplikasi diselaraskan untuk reka bentuk **Liquid Glass** baharu Apple.
 
@@ -147,58 +147,58 @@ Jika anda menyukai aplikasi ini, sila tinggalkan penilaian di App Store — ia b
 
 ## Soalan Lazim
 
-{{% details title="Apa yang baru dalam Evervideo 1.7?" closed="true" %}}
+{{% ls-details title="Apa yang baru dalam Evervideo 1.7?" closed="true" %}}
 Evervideo 1.7 memperkenalkan sokongan untuk lebih daripada 10 sambungan baharu (Plex, Jellyfin, Emby, Subsonic, Navidrome, Internxt, Proton Drive, QNAP, Nextcloud, Amazon S3, FTP, SFTP, NFS), gerak isyarat main baharu (ketuk dua kali untuk skip, ketuk dan tahan untuk 2x, ketuk sekali untuk menogol kawalan), Wi-Fi Drive yang direka semula dengan mod pemilihan dan baris gilir muat naik yang lebih bijak, kemas kini reka bentuk Liquid Glass, pustaka sambungan dikemas kini dan banyak pembetulan pepijat.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Adakah Evervideo berfungsi dengan Plex?" closed="true" %}}
+{{% ls-details title="Adakah Evervideo berfungsi dengan Plex?" closed="true" %}}
 Ya. Bermula dengan Evervideo 1.7, anda boleh menyambung ke Plex Media Server dan menstrim pustaka video penuh anda — filem, rancangan TV dan video rumah. Plex Media Server adalah percuma untuk dijalankan; Plex Pass adalah pilihan. Evervideo menyokong kedua-dua persediaan percuma dan Plex Pass, termasuk main terus MKV, MP4, AVI, MOV dan format lain tanpa pengekodan semula.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Adakah Jellyfin atau Navidrome disokong dalam Evervideo?" closed="true" %}}
+{{% ls-details title="Adakah Jellyfin atau Navidrome disokong dalam Evervideo?" closed="true" %}}
 Ya. Kedua-dua Jellyfin dan Navidrome disokong sepenuhnya dalam Evervideo 1.7. Jellyfin ialah pelayan media percuma, sumber terbuka yang mengendalikan video dan audio. Navidrome ialah pelayan percuma, sumber terbuka yang melaksanakan API Subsonic. Evervideo menyambung kepada kedua-duanya secara asli.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Adakah Plex, Jellyfin, Emby, Navidrome dan Subsonic percuma?" closed="true" %}}
+{{% ls-details title="Adakah Plex, Jellyfin, Emby, Navidrome dan Subsonic percuma?" closed="true" %}}
 - **Plex** — pelayan adalah percuma; Plex Pass ialah naik taraf berbayar pilihan.
 - **Jellyfin** — sepenuhnya percuma dan sumber terbuka.
 - **Emby** — pelayan adalah percuma; Emby Premiere berbayar dan membuka penyegerakan mudah alih dan luar talian.
 - **Navidrome** — sepenuhnya percuma dan sumber terbuka.
 - **Subsonic** — pelayan rasmi berharga $1/bulan selepas percubaan 30 hari, tetapi API-nya terbuka dan banyak pelayan percuma (termasuk Navidrome) melaksanakannya.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Bolehkah saya menstrim dari NAS rumah saya melalui SFTP, FTP atau NFS?" closed="true" %}}
+{{% ls-details title="Bolehkah saya menstrim dari NAS rumah saya melalui SFTP, FTP atau NFS?" closed="true" %}}
 Ya. Evervideo 1.7 menambah SFTP, FTP dan NFS sebagai jenis sambungan asli. SFTP ialah pilihan yang disyorkan untuk menstrim dari pelayan anda sendiri melalui Internet awam kerana semua trafik disulitkan melalui SSH. FTP dan NFS paling sesuai digunakan dalam rangkaian tempatan anda atau di belakang VPN.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Bagaimana saya menyambungkan Evervideo ke pelayan tersuai menggunakan SFTP?" closed="true" %}}
+{{% ls-details title="Bagaimana saya menyambungkan Evervideo ke pelayan tersuai menggunakan SFTP?" closed="true" %}}
 Buka Evervideo, pergi ke tab Sambungan, pilih SFTP dan masukkan nama hos atau IP pelayan, port (biasanya 22), nama pengguna dan kata laluan atau kunci peribadi SSH. Evervideo akan menyemak imbas folder jauh anda dan menstrim fail video terus dengan penyulitan hujung ke hujung.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Adakah Evervideo menyokong Internxt dan Proton Drive?" closed="true" %}}
+{{% ls-details title="Adakah Evervideo menyokong Internxt dan Proton Drive?" closed="true" %}}
 Ya. Kedua-dua awan tertumpu privasi disokong mulai Evervideo 1.7. Mereka menyertai MEGA dan perkhidmatan keutamaan privasi lain yang sudah tersedia dalam aplikasi.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Bagaimana gerak isyarat main baharu berfungsi?" closed="true" %}}
+{{% ls-details title="Bagaimana gerak isyarat main baharu berfungsi?" closed="true" %}}
 Dalam main balik video skrin penuh, **ketuk dua kali sisi kanan** untuk meloncat ke hadapan dan **ketuk dua kali sisi kiri** untuk meloncat ke belakang dengan selang yang boleh dikonfigurasi (lalai 10 saat — tukarnya dalam Tetapan). **Ketuk dan tahan** di mana-mana pada skrin untuk mempercepat sementara kepada 2x; lepaskan untuk kembali ke normal. **Ketuk sekali** di mana-mana untuk menogol kawalan main balik (tunjuk atau sembunyikan).
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Bolehkah saya menukar selang skip ketuk dua kali?" closed="true" %}}
+{{% ls-details title="Bolehkah saya menukar selang skip ketuk dua kali?" closed="true" %}}
 Ya. Pergi ke **Tetapan → Main Semula → Selang Skip Gerak Isyarat** dan pilih nilai antara 5 dan 60 saat. Kebanyakan pengguna mengekalkannya pada 10 atau 15 saat.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Apakah Wi-Fi Drive dalam Evervideo?" closed="true" %}}
+{{% ls-details title="Apakah Wi-Fi Drive dalam Evervideo?" closed="true" %}}
 Wi-Fi Drive ialah ciri pemindahan fail tanpa wayar terbina dalam Evervideo. Ia membenarkan anda memuat naik video dari komputer anda ke iPhone atau iPad melalui rangkaian Wi-Fi tempatan anda — tanpa iTunes, tanpa kabel, tanpa akaun awan. Anda boleh menggunakan mana-mana penyemak imbas desktop atau klien WebDAV seperti Mac Finder atau Windows File Explorer. Lihat [panduan Wi-Fi Drive penuh](/docs/howto/how-to-transfer-files-wirelessly-from-a-computer-to-an-iphone-using-wifi-drive/).
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Adakah Evervideo memainkan MKV, AVI dan format lain dari Plex atau Jellyfin?" closed="true" %}}
+{{% ls-details title="Adakah Evervideo memainkan MKV, AVI dan format lain dari Plex atau Jellyfin?" closed="true" %}}
 Ya. Evervideo memainkan hampir setiap format video — MKV, AVI, MP4, MOV, FLV, WMV, WEBM, M4V, TS, 3GP — dan menstrimnya terus dari Plex, Jellyfin, Emby dan pelayan media lain tanpa memerlukan transcoding untuk kebanyakan kodek. Ini bermakna beban CPU yang lebih rendah pada pelayan anda dan masa permulaan yang lebih pantas.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Adakah Evervideo 1.7 percuma untuk dikemas kini?" closed="true" %}}
+{{% ls-details title="Adakah Evervideo 1.7 percuma untuk dikemas kini?" closed="true" %}}
 Ya. Evervideo ialah muat turun percuma dari App Store, dan 1.7 ialah kemas kini percuma untuk semua pengguna sedia ada. Integrasi awan baharu, sokongan pelayan media, gerak isyarat main, penambahbaikan Wi-Fi Drive dan UI Liquid Glass adalah sebahagian daripada kemas kini asas.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Pada peranti apa Evervideo 1.7 tersedia?" closed="true" %}}
+{{% ls-details title="Pada peranti apa Evervideo 1.7 tersedia?" closed="true" %}}
 Evervideo 1.7 berjalan pada iPhone, iPad dan Mac. AirPlay dan Chromecast membenarkan anda menghantar main balik ke skrin yang lebih besar. Penyegerakan iCloud Drive memastikan pustaka dan tetapan anda kekal konsisten merentasi peranti.
-{{% /details %}}
+{{% /ls-details %}}

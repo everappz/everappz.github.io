@@ -15,7 +15,7 @@ readingTime: 11
 Gerir a sua biblioteca de música é muito fácil com o Evermusic, onde pode organizar todas as suas faixas sem esforço. Tem duas opções para construir a sua biblioteca de música: adição manual ou sincronização automática.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Ecrã da Biblioteca de Música do Evermusic" image="/docs/guide/evermusic/evermusic-guide-music-library/img/music-library-main.webp" >}}
+  {{< ls-card title="" subtitle="Ecrã da Biblioteca de Música do Evermusic" image="/docs/guide/evermusic/evermusic-guide-music-library/img/music-library-main.webp" >}}
 {{< /cards >}}
 
 ## Adição Manual
@@ -23,7 +23,7 @@ Gerir a sua biblioteca de música é muito fácil com o Evermusic, onde pode org
 Para adicionar faixas manualmente, toque no item de menu "Adicionar música" e selecione pastas/ficheiros do serviço de armazenamento na nuvem ligado ou ficheiros localizados no seu dispositivo. Quando adiciona faixas à biblioteca, apenas são criadas ligações para essas faixas, preservando os ficheiros reais nas suas localizações originais para poupar espaço em disco. Se quiser tornar as faixas disponíveis offline, pode usar a ação de transferência no menu de opções ou ativar o modo offline para listas de reprodução e coleções de faixas.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Adicionar Músicas à Biblioteca de Música" image="/docs/guide/evermusic/evermusic-guide-music-library/img/music-library-add-songs.webp" >}}
+  {{< ls-card title="" subtitle="Adicionar Músicas à Biblioteca de Música" image="/docs/guide/evermusic/evermusic-guide-music-library/img/music-library-add-songs.webp" >}}
 {{< /cards >}}
 
 ## Acesso Rápido
@@ -75,7 +75,7 @@ Quando adiciona faixas à sua biblioteca de música, a aplicação lê automatic
 Localizada logo abaixo da barra de navegação, a barra de ferramentas superior oferece várias ações convenientes: "Pesquisar", "Reproduzir tudo", "Reproduzir aleatoriamente" e "Continuar reprodução". Pode revelar ou ocultar esta barra de ferramentas com um simples gesto de deslizar para baixo.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Vista de Álbuns — Agrupados por Tags Musicais" image="/docs/guide/evermusic/evermusic-guide-music-library/img/music-library-albums.webp" >}}
+  {{< ls-card title="" subtitle="Vista de Álbuns — Agrupados por Tags Musicais" image="/docs/guide/evermusic/evermusic-guide-music-library/img/music-library-albums.webp" >}}
 {{< /cards >}}
 
 ## Pesquisar
@@ -83,7 +83,7 @@ Localizada logo abaixo da barra de navegação, a barra de ferramentas superior 
 A funcionalidade de pesquisa permite-lhe localizar uma faixa, artista, álbum ou género específico na sua biblioteca de música. No "ecrã de Pesquisa", tem acesso às seguintes ações: "Ordenar", "Filtrar", "Grelha/Lista".
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Resultados de Pesquisa na Biblioteca de Música" image="/docs/guide/evermusic/evermusic-guide-music-library/img/music-library-search.webp" >}}
+  {{< ls-card title="" subtitle="Resultados de Pesquisa na Biblioteca de Música" image="/docs/guide/evermusic/evermusic-guide-music-library/img/music-library-search.webp" >}}
 {{< /cards >}}
 
 ## Menu de Opções
@@ -91,7 +91,7 @@ A funcionalidade de pesquisa permite-lhe localizar uma faixa, artista, álbum ou
 Cada música na sua biblioteca de música tem um menu com mais ações, acessível tocando no botão dos três pontos perto do título da música. Estas ações variam consoante seja uma música individual ou parte de uma coleção.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Mais Ações para um Item da Biblioteca" image="/docs/guide/evermusic/evermusic-guide-music-library/img/music-library-item-more-actions.webp" >}}
+  {{< ls-card title="" subtitle="Mais Ações para um Item da Biblioteca" image="/docs/guide/evermusic/evermusic-guide-music-library/img/music-library-item-more-actions.webp" >}}
 {{< /cards >}}
 
 ### Para Músicas Individuais
@@ -125,7 +125,7 @@ Para coleções de músicas como Álbuns, Artistas, Géneros ou Compositores, o 
 Pode ativar o modo de seleção usando o botão Mais Ações no canto superior direito. Neste modo, pode selecionar múltiplas faixas e executar várias ações.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Modo de Seleção na Biblioteca de Música" image="/docs/guide/evermusic/evermusic-guide-music-library/img/music-library-selection-mode.webp" >}}
+  {{< ls-card title="" subtitle="Modo de Seleção na Biblioteca de Música" image="/docs/guide/evermusic/evermusic-guide-music-library/img/music-library-selection-mode.webp" >}}
 {{< /cards >}}
 
 ## Agrupamento por Tags
@@ -145,7 +145,7 @@ Estas categorias ajudam-no a organizar as suas faixas por tags musicais: Música
 Quando abre as secções Artista, Artista do Álbum ou Compositor, pode ver um seletor para Músicas/Todos os Álbuns/Álbuns Exclusivos/Álbuns Solo.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Detalhes do Álbum com Seletor Músicas / Todos / Exclusivos / Solo" image="/docs/guide/evermusic/evermusic-guide-music-library/img/music-library-album-details.webp" >}}
+  {{< ls-card title="" subtitle="Detalhes do Álbum com Seletor Músicas / Todos / Exclusivos / Solo" image="/docs/guide/evermusic/evermusic-guide-music-library/img/music-library-album-details.webp" >}}
 {{< /cards >}}
 
 - **Músicas**: Apresenta todas as músicas onde este Artista/Artista do Álbum/Compositor está definido nas tags de áudio.
@@ -166,7 +166,7 @@ Pode usar esta funcionalidade para encontrar rapidamente qualquer música, artis
 Toque no item de menu "Configurações" para configurar as suas preferências da biblioteca de música.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Definições da Biblioteca de Música" image="/docs/guide/evermusic/evermusic-guide-music-library/img/music-library-settings.webp" >}}
+  {{< ls-card title="" subtitle="Definições da Biblioteca de Música" image="/docs/guide/evermusic/evermusic-guide-music-library/img/music-library-settings.webp" >}}
 {{< /cards >}}
 
 #### Leitura de Metadados

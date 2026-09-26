@@ -18,7 +18,7 @@ readingTime: 6
 這個內建檔案管理器允許您編輯檔案，並提供多種將音訊檔案匯入應用程式的方法。您最近開啟的檔案會自動顯示在**最近使用的**標籤頁中，而您標記星號的項目會顯示在**最愛項目**下，讓您可以直接跳到最常使用的檔案。
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evertag Downloads Screen" image="/docs/guide/evertag/img/downloads.webp" >}}
+  {{< ls-card title="" subtitle="Evertag Downloads Screen" image="/docs/guide/evertag/img/downloads.webp" >}}
 {{< /cards >}}
 
 ## 從雲端儲存下載檔案
@@ -74,7 +74,7 @@ readingTime: 6
 顯示位於您裝置上但在不同應用程式中的檔案。您可以使用系統檔案選擇器將其匯入此應用程式。要啟動選擇器，選擇「開啟檔案...」來選擇檔案，或「開啟資料夾...」來選擇資料夾。有關如何匯入存放在 iPhone 或 Mac 上的本機音樂的詳細說明，請訪問[此處](/docs/howto/how-to-play-local-music-stored-on-your-iphone-or-mac)。您還可以連接裝置上的資料夾並快速存取資料夾內容。使用「連接資料夾」選單項目並選擇裝置上的資料夾。點選「完成」，應用程式將建立指向該資料夾的連結，具有讀/寫權限，允許您直接從此應用程式管理檔案。要斷開裝置上的資料夾連線，請點選「更多操作」按鈕並選擇「斷開連接」。
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evertag Import Files From My Device" image="/docs/guide/evertag/img/open-files.webp" >}}
+  {{< ls-card title="" subtitle="Evertag Import Files From My Device" image="/docs/guide/evertag/img/open-files.webp" >}}
 {{< /cards >}}
 
 ## 從已連接的 USB 隨身碟匯入檔案
@@ -86,7 +86,7 @@ readingTime: 6
 目前開啟資料夾的更多操作選單位於右上角，提供對各種操作的存取。
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evertag Import Files From My Device" image="/docs/guide/evertag/img/downloads-current-folder-actions.webp" >}}
+  {{< ls-card title="" subtitle="Evertag Import Files From My Device" image="/docs/guide/evertag/img/downloads-current-folder-actions.webp" >}}
 {{< /cards >}}
 
 - **選擇：** 切換到檔案和資料夾的選擇模式。  

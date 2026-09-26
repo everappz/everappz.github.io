@@ -29,7 +29,7 @@ tags: [
 readingTime: 3
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **Ringkasan:** Tampal mana-mana URL Internet Archive ke [archivetom3u.com](https://archivetom3u.com), pilih format audio (MP3, FLAC, OGG), dan muat turun senarai main M3U yang sedia untuk dimainkan -- tiada akaun diperlukan. Kemudian import ke [Evermusic](https://apps.apple.com/app/apple-store/id885367198?pt=95781850&ct=everappzcom&mt=8) di iPhone atau Mac untuk main balik serta-merta.
@@ -69,7 +69,7 @@ Anda boleh memilih dari format berikut:
 Pergi ke [archive.org](https://archive.org), ketik **Audio**, dan pilih **Live Music Archive**. Gunakan bar carian untuk mencari genre, artis, atau konsert yang anda mahu.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Cari muzik di Internet Archive" image="/docs/howto/how-to-create-m3u-playlist-for-internet-archive-or-live-music-archive/1.internet-archive-search.webp" >}}
+  {{< ls-card title="" subtitle="Cari muzik di Internet Archive" image="/docs/howto/how-to-create-m3u-playlist-for-internet-archive-or-live-music-archive/1.internet-archive-search.webp" >}}
 {{< /cards >}}
 
 ### 2. Salin URL Item
@@ -77,7 +77,7 @@ Pergi ke [archive.org](https://archive.org), ketik **Audio**, dan pilih **Live M
 Klik pada item yang anda mahu, dan salin URL-nya dari bar alamat pelayar.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Salin URL item dari Internet Archive" image="/docs/howto/how-to-create-m3u-playlist-for-internet-archive-or-live-music-archive/2.internet-archive-copy-item-url.webp" >}}
+  {{< ls-card title="" subtitle="Salin URL item dari Internet Archive" image="/docs/howto/how-to-create-m3u-playlist-for-internet-archive-or-live-music-archive/2.internet-archive-copy-item-url.webp" >}}
 {{< /cards >}}
 
 ### 3. Tampal URL ke Penjana
@@ -85,7 +85,7 @@ Klik pada item yang anda mahu, dan salin URL-nya dari bar alamat pelayar.
 Kembali ke [archivetom3u.com](https://archivetom3u.com) dan tampal URL yang disalin ke medan input.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Tampal URL item ke penjana M3U" image="/docs/howto/how-to-create-m3u-playlist-for-internet-archive-or-live-music-archive/3.archive-to-m3u-paste-item-url.webp" >}}
+  {{< ls-card title="" subtitle="Tampal URL item ke penjana M3U" image="/docs/howto/how-to-create-m3u-playlist-for-internet-archive-or-live-music-archive/3.archive-to-m3u-paste-item-url.webp" >}}
 {{< /cards >}}
 
 ### 4. Pilih Format Audio Anda
@@ -93,7 +93,7 @@ Kembali ke [archivetom3u.com](https://archivetom3u.com) dan tampal URL yang disa
 Pilih format yang anda mahu (MP3, FLAC, dll.).
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Pilih format audio pilihan anda" image="/docs/howto/how-to-create-m3u-playlist-for-internet-archive-or-live-music-archive/4.archive-to-m3u-select-format.webp" >}}
+  {{< ls-card title="" subtitle="Pilih format audio pilihan anda" image="/docs/howto/how-to-create-m3u-playlist-for-internet-archive-or-live-music-archive/4.archive-to-m3u-select-format.webp" >}}
 {{< /cards >}}
 
 ### 5. Jana Senarai Main
@@ -101,7 +101,7 @@ Pilih format yang anda mahu (MP3, FLAC, dll.).
 Klik **Generate Playlist**. Kandungan `.m3u` akan dipaparkan di bawah. Anda boleh menyalin atau memuat turunnya.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Senarai main M3U dijana secara automatik" image="/docs/howto/how-to-create-m3u-playlist-for-internet-archive-or-live-music-archive/5.archive-to-m3u-generated-playlist.webp" >}}
+  {{< ls-card title="" subtitle="Senarai main M3U dijana secara automatik" image="/docs/howto/how-to-create-m3u-playlist-for-internet-archive-or-live-music-archive/5.archive-to-m3u-generated-playlist.webp" >}}
 {{< /cards >}}
 
 ### 6. Pratonton Trek
@@ -109,7 +109,7 @@ Klik **Generate Playlist**. Kandungan `.m3u` akan dipaparkan di bawah. Anda bole
 Tatal ke bawah untuk pratonton setiap trek. Pastikan semuanya dimainkan dengan betul.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Pratonton semua trek sebelum memuat turun" image="/docs/howto/how-to-create-m3u-playlist-for-internet-archive-or-live-music-archive/6.archive-to-m3u-tracks-preview.webp" >}}
+  {{< ls-card title="" subtitle="Pratonton semua trek sebelum memuat turun" image="/docs/howto/how-to-create-m3u-playlist-for-internet-archive-or-live-music-archive/6.archive-to-m3u-tracks-preview.webp" >}}
 {{< /cards >}}
 
 ### 7. Muat Turun Senarai Main
@@ -117,7 +117,7 @@ Tatal ke bawah untuk pratonton setiap trek. Pastikan semuanya dimainkan dengan b
 Klik **Download Playlist** untuk menyimpan fail `.m3u` ke peranti anda. Tiada log masuk atau akaun diperlukan.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Muat turun senarai main M3U ke peranti anda" image="/docs/howto/how-to-create-m3u-playlist-for-internet-archive-or-live-music-archive/7.downloaded-m3u-playlist.webp" >}}
+  {{< ls-card title="" subtitle="Muat turun senarai main M3U ke peranti anda" image="/docs/howto/how-to-create-m3u-playlist-for-internet-archive-or-live-music-archive/7.downloaded-m3u-playlist.webp" >}}
 {{< /cards >}}
 
 ## Cara Memainkan Senarai Main M3U di macOS atau iOS
@@ -125,14 +125,14 @@ Klik **Download Playlist** untuk menyimpan fail `.m3u` ke peranti anda. Tiada lo
 Untuk memainkan fail `.m3u` yang dimuat turun pada peranti Apple anda, gunakan aplikasi **Evermusic** (muat turun percuma):
 
 {{< cards cols="1">}}
-{{< card link="https://apps.apple.com/app/apple-store/id1564384601?pt=95781850&ct=everappzcom&mt=8" title="Evermusic macOS" icon="download" tag="Free" >}}
-{{< card link="https://apps.apple.com/app/apple-store/id885367198?pt=95781850&ct=everappzcom&mt=8" title="Evermusic iOS" icon="download" tag="Free" >}}
+{{< ls-card link="https://apps.apple.com/app/apple-store/id1564384601?pt=95781850&ct=everappzcom&mt=8" title="Evermusic macOS" icon="download" tag="Free" >}}
+{{< ls-card link="https://apps.apple.com/app/apple-store/id885367198?pt=95781850&ct=everappzcom&mt=8" title="Evermusic iOS" icon="download" tag="Free" >}}
 {{< /cards >}}
 
 ### 1. Buka Evermusic dan Pergi ke Senarai Main
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Buka Evermusic dan pergi ke Senarai Main" image="/docs/howto/how-to-create-m3u-playlist-for-internet-archive-or-live-music-archive/8.evermusic-app-playlists.webp" >}}
+  {{< ls-card title="" subtitle="Buka Evermusic dan pergi ke Senarai Main" image="/docs/howto/how-to-create-m3u-playlist-for-internet-archive-or-live-music-archive/8.evermusic-app-playlists.webp" >}}
 {{< /cards >}}
 
 ### 2. Import Senarai Main
@@ -140,7 +140,7 @@ Untuk memainkan fail `.m3u` yang dimuat turun pada peranti Apple anda, gunakan a
 Ketik **Add Playlist**, kemudian pilih **Import Playlist**.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Ketik Import Playlist untuk menambah M3U yang dimuat turun" image="/docs/howto/how-to-create-m3u-playlist-for-internet-archive-or-live-music-archive/9.evermusic-app-import-playlist.webp" >}}
+  {{< ls-card title="" subtitle="Ketik Import Playlist untuk menambah M3U yang dimuat turun" image="/docs/howto/how-to-create-m3u-playlist-for-internet-archive-or-live-music-archive/9.evermusic-app-import-playlist.webp" >}}
 {{< /cards >}}
 
 ### 3. Pilih Lokasi Senarai Main
@@ -148,7 +148,7 @@ Ketik **Add Playlist**, kemudian pilih **Import Playlist**.
 Pilih **Files on this Mac** (atau lokasi lain di mana anda menyimpan fail).
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Pilih lokasi fail yang dimuat turun" image="/docs/howto/how-to-create-m3u-playlist-for-internet-archive-or-live-music-archive/10.select-location.webp" >}}
+  {{< ls-card title="" subtitle="Pilih lokasi fail yang dimuat turun" image="/docs/howto/how-to-create-m3u-playlist-for-internet-archive-or-live-music-archive/10.select-location.webp" >}}
 {{< /cards >}}
 
 ### 4. Beri Akses Folder
@@ -156,7 +156,7 @@ Pilih **Files on this Mac** (atau lokasi lain di mana anda menyimpan fail).
 Evermusic hanya boleh mengakses fail jika anda membenarkan akses peringkat folder. Pilih folder yang mengandungi fail `.m3u` anda **dan** fail audio yang dipautkan di dalamnya.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Sambungkan folder yang terletak pada peranti anda" image="/docs/howto/how-to-create-m3u-playlist-for-internet-archive-or-live-music-archive/11.connect-folder-located-on-your-device.webp" >}}
+  {{< ls-card title="" subtitle="Sambungkan folder yang terletak pada peranti anda" image="/docs/howto/how-to-create-m3u-playlist-for-internet-archive-or-live-music-archive/11.connect-folder-located-on-your-device.webp" >}}
 {{< /cards >}}
 
 ### 5. Pilih Folder Muat Turun
@@ -164,13 +164,13 @@ Evermusic hanya boleh mengakses fail jika anda membenarkan akses peringkat folde
 Dalam kebanyakan kes, senarai main disimpan dalam folder **Downloads** anda.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Pilih folder Muat Turun" image="/docs/howto/how-to-create-m3u-playlist-for-internet-archive-or-live-music-archive/12.select-downloads-folder.webp" >}}
+  {{< ls-card title="" subtitle="Pilih folder Muat Turun" image="/docs/howto/how-to-create-m3u-playlist-for-internet-archive-or-live-music-archive/12.select-downloads-folder.webp" >}}
 {{< /cards >}}
 
 Ketik **Open** untuk mengesahkan pilihan.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Folder Muat Turun anda kini disambungkan" image="/docs/howto/how-to-create-m3u-playlist-for-internet-archive-or-live-music-archive/13.downloads-folder-connected.webp" >}}
+  {{< ls-card title="" subtitle="Folder Muat Turun anda kini disambungkan" image="/docs/howto/how-to-create-m3u-playlist-for-internet-archive-or-live-music-archive/13.downloads-folder-connected.webp" >}}
 {{< /cards >}}
 
 ### 6. Pilih Fail Senarai Main
@@ -180,7 +180,7 @@ Setelah folder disambungkan, cari dan pilih fail `.m3u` anda.
 Ketik **Done** untuk mengesahkan pilihan.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Pilih fail senarai main M3U dari folder" image="/docs/howto/how-to-create-m3u-playlist-for-internet-archive-or-live-music-archive/14.m3u-playlist-selected-from-connected-folder.webp" >}}
+  {{< ls-card title="" subtitle="Pilih fail senarai main M3U dari folder" image="/docs/howto/how-to-create-m3u-playlist-for-internet-archive-or-live-music-archive/14.m3u-playlist-selected-from-connected-folder.webp" >}}
 {{< /cards >}}
 
 ### 7. Senarai Main Berjaya Diimport
@@ -188,7 +188,7 @@ Ketik **Done** untuk mengesahkan pilihan.
 Aplikasi akan mengurai senarai main dan menambahkannya ke perpustakaan anda.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Senarai main telah berjaya diimport" image="/docs/howto/how-to-create-m3u-playlist-for-internet-archive-or-live-music-archive/15.playlist-imported.webp" >}}
+  {{< ls-card title="" subtitle="Senarai main telah berjaya diimport" image="/docs/howto/how-to-create-m3u-playlist-for-internet-archive-or-live-music-archive/15.playlist-imported.webp" >}}
 {{< /cards >}}
 
 ### 8. Buka dan Mainkan Senarai Main
@@ -196,13 +196,13 @@ Aplikasi akan mengurai senarai main dan menambahkannya ke perpustakaan anda.
 Ketik senarai main untuk melihat semua trek dan mulakan main balik.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Buka senarai main dan lihat senarai trek" image="/docs/howto/how-to-create-m3u-playlist-for-internet-archive-or-live-music-archive/16.playlist-opened.webp" >}}
+  {{< ls-card title="" subtitle="Buka senarai main dan lihat senarai trek" image="/docs/howto/how-to-create-m3u-playlist-for-internet-archive-or-live-music-archive/16.playlist-opened.webp" >}}
 {{< /cards >}}
 
 Selepas beberapa saat, Evermusic akan memuatkan semua metadata dan mengemas kini paparan trek.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Senarai main anda sedia untuk dimainkan" image="/docs/howto/how-to-create-m3u-playlist-for-internet-archive-or-live-music-archive/17.playlist-opened-2.webp" >}}
+  {{< ls-card title="" subtitle="Senarai main anda sedia untuk dimainkan" image="/docs/howto/how-to-create-m3u-playlist-for-internet-archive-or-live-music-archive/17.playlist-opened-2.webp" >}}
 {{< /cards >}}
 
 ## Privasi & Sumber Terbuka
@@ -221,22 +221,22 @@ Kini anda tahu cara mencipta dan mengimport senarai main M3U dari Internet Archi
 
 ## Soalan Lazim
 
-{{% details title="Adakah alat penjana M3U percuma untuk digunakan?" closed="true" %}}
+{{% ls-details title="Adakah alat penjana M3U percuma untuk digunakan?" closed="true" %}}
 Ya. Alat di [archivetom3u.com](https://archivetom3u.com) sepenuhnya percuma, tidak memerlukan akaun, dan berjalan sepenuhnya dalam pelayar anda.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Format audio apa yang boleh saya masukkan dalam senarai main M3U?" closed="true" %}}
+{{% ls-details title="Format audio apa yang boleh saya masukkan dalam senarai main M3U?" closed="true" %}}
 Anda boleh memilih VBR MP3, FLAC, 24-bit FLAC, atau OGG Vorbis. Hanya trek yang tersedia dalam format pilihan anda akan muncul dalam senarai main.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Bolehkah saya memainkan senarai main M3U di iPhone atau Mac?" closed="true" %}}
+{{% ls-details title="Bolehkah saya memainkan senarai main M3U di iPhone atau Mac?" closed="true" %}}
 Ya. Muat turun aplikasi Evermusic percuma untuk iOS atau macOS, kemudian gunakan ciri Import Playlist untuk memuatkan fail `.m3u` anda.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Adakah alat ini menyimpan data saya atau menghoskan muzik?" closed="true" %}}
+{{% ls-details title="Adakah alat ini menyimpan data saya atau menghoskan muzik?" closed="true" %}}
 Tidak. Semua pemprosesan berlaku secara tempatan dalam pelayar anda. Tiada data disimpan, dan semua strim audio datang terus dari archive.org.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Adakah alat ini bergabung dengan Internet Archive?" closed="true" %}}
+{{% ls-details title="Adakah alat ini bergabung dengan Internet Archive?" closed="true" %}}
 Tidak. Ia adalah projek sumber terbuka bebas yang dicipta untuk kemudahan. Ia menggunakan API Metadata rasmi Internet Archive untuk menjana senarai main.
-{{% /details %}}
+{{% /ls-details %}}

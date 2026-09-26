@@ -16,7 +16,7 @@ readingTime: 3
 Evertag ponúka intuitívne používateľské rozhranie. To, čo ho odlišuje od mnohých populárnych aplikácií, je vstavaný správca súborov, ktorý dáva používateľom možnosť upravovať audio súbory a bezproblémovo ich prenášať do a z cloudového úložiska.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Obrazovka Evertag" image="/docs/guide/evertag/img/tag-editor.webp" >}}
+  {{< ls-card title="" subtitle="Obrazovka Evertag" image="/docs/guide/evertag/img/tag-editor.webp" >}}
 {{< /cards >}}
 
 ## Sekcie
@@ -42,7 +42,7 @@ Sekcia Lokálne súbory je rozdelená do dvoch kategórií: **Súbory v tejto ap
 Prakticky každá položka obsahu na obrazovke má tlačidlo "Viac akcií". Klepnutím naň získate prístup ku všetkým dostupným akciám.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evertag Viac akcií" image="/docs/guide/evertag/img/downloads-file-actions.webp" >}}
+  {{< ls-card title="" subtitle="Evertag Viac akcií" image="/docs/guide/evertag/img/downloads-file-actions.webp" >}}
 {{< /cards >}}
 
 ## Horný panel nástrojov

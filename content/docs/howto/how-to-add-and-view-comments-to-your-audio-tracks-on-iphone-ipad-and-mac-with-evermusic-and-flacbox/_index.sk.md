@@ -7,7 +7,7 @@ tags: ["evermusic", "audio", "editor", "tagy", "komentáre"]
 readingTime: 4
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **Zhrnutie:** Evermusic a Flacbox vám umožňujú pridávať textové komentáre s časovými značkami k akejkoľvek audio stope a následne ich synchronizovane zobrazovať počas prehrávania. Môžete tiež zobraziť vložené texty piesní a súbory LRC. Funkcie komentárov a textov piesní sú v oboch aplikáciách zadarmo.
@@ -97,22 +97,22 @@ Pridanie komentárov k audio stopám v Evermusic a Flacbox predstavuje významn�
 
 ## Často kladené otázky
 
-{{% details title="Je funkcia komentárov v Evermusic a Flacbox zadarmo?" closed="true" %}}
+{{% ls-details title="Je funkcia komentárov v Evermusic a Flacbox zadarmo?" closed="true" %}}
 Áno. Pridávanie, úprava a zobrazenie komentárov a textov piesní je bezplatná funkcia v oboch aplikáciách Evermusic a Flacbox.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Aký formát mám použiť pre časované komentáre?" closed="true" %}}
+{{% ls-details title="Aký formát mám použiť pre časované komentáre?" closed="true" %}}
 Použite formát časovej značky LRC: `[MM:SS.SS]` nasledovaný vaším textom. Napríklad: `[01:23.45]Toto je môj komentár`. Jednému riadku môžete priradiť viacero časových značiek.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Môžem zobraziť texty piesní a súbory LRC na rovnakej obrazovke?" closed="true" %}}
+{{% ls-details title="Môžem zobraziť texty piesní a súbory LRC na rovnakej obrazovke?" closed="true" %}}
 Áno. Obrazovka Komentáre podporuje tri režimy, medzi ktorými môžete prepínať potiahnutím: Komentáre, Vložené texty piesní a Súbor LRC.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Kde nájdem súbory s textami piesní vo formáte LRC?" closed="true" %}}
+{{% ls-details title="Kde nájdem súbory s textami piesní vo formáte LRC?" closed="true" %}}
 Bezplatné texty piesní vo formáte LRC sú dostupné na webových stránkach ako Lyricsify.com. Môžete ich buď vložiť do tagu textov piesní vášho audio súboru, alebo umiestniť samostatný súbor `.lrc` vedľa vášho audio súboru.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Potrebujem samostatnú aplikáciu na úpravu tagov textov piesní?" closed="true" %}}
+{{% ls-details title="Potrebujem samostatnú aplikáciu na úpravu tagov textov piesní?" closed="true" %}}
 Komentáre môžete upravovať priamo v Evermusic a Flacbox. Pre úpravu konkrétne tagu textov piesní použite Evertag, bezplatný editor audio metadát pre iOS a macOS.
-{{% /details %}}
+{{% /ls-details %}}

@@ -15,7 +15,7 @@ readingTime: 5
 A **Tag szerkesztő** az Evertag alkalmazás főképernyője, ahol megtekintheti és szerkesztheti az audio fájlok metaadatait. Nyissa meg ezt a képernyőt egy fájlra koppintva a **Helyi fájlok** szakaszból vagy bármely csatlakoztatott **felhőtároló** fiókból.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evertag Tag szerkesztő képernyő" image="/docs/guide/evertag/img/tag-editor.webp" >}}
+  {{< ls-card title="" subtitle="Evertag Tag szerkesztő képernyő" image="/docs/guide/evertag/img/tag-editor.webp" >}}
 {{< /cards >}}
 
 ## Szerkesztési módok
@@ -38,7 +38,7 @@ Alapértelmezés szerint az alkalmazás egyfájlos módban nyitja meg a tag szer
 Az összes elérhető tag eléréséhez görgessen a képernyő aljára, és koppintson a **Bővített tagek megjelenítése** opcióra. Ez kiterjesztett módba kapcsolja a szerkesztőt, lehetővé téve több mint **120 metaadat mező** szerkesztését, beleértve a **MusicBrainz tageket**, **Dalszövegeket**, **Tanácsadói értékeléseket**, replay-gain értékeket, rendezési sorrendeket, podcast metaadatokat és egyebeket. A **Beállítások → Audio tag szerkesztő → Gombok a főképernyőn** segítségével véglegesen bekapcsolhatja a Bővített tagek megjelenítését, hogy mindig be legyen kapcsolva.
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Alsó műveletek panel" image="/docs/guide/evertag/img/tag-editor-bottom-actions.webp" >}}
+{{< ls-card title="" subtitle="Alsó műveletek panel" image="/docs/guide/evertag/img/tag-editor-bottom-actions.webp" >}}
 {{< /cards >}}
 
 ## Kötegelt mód
@@ -53,7 +53,7 @@ Kétféleképpen léphet be a kötegelt szerkesztésbe:
    - Nyisson meg bármely fájlt, görgessen le, és koppintson a **Fájlok egyidejű szerkesztése** lehetőségre az összes fájl betöltéséhez ugyanabból a mappából.
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Kötegelt szerkesztési mód" image="/docs/guide/evertag/img/tag-editor-batch-editing.webp" >}}
+{{< ls-card title="" subtitle="Kötegelt szerkesztési mód" image="/docs/guide/evertag/img/tag-editor-batch-editing.webp" >}}
 {{< /cards >}}
 
 A szerkesztés után koppintson a **Mentés** gombra a változtatások alkalmazásához.
@@ -72,19 +72,19 @@ Nem kell nulláról beírni a dalszövegeket. A szerkesztő tartalmaz egy-koppin
 Minden hivatkozás csak akkor jelenik meg, ha a megfelelő szolgáltatás elérhető az eszközéről. Koppintson egy szolgáltatásra, másolja a kívánt dalszövegeket (vagy az LRC időbélyegeket), térjen vissza az Evertag-be, és illessze be őket a szövegmezőbe – majd koppintson a **Mentés** gombra a dalszövegek audio fájl tagjeibe való visszaírásához.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Dalszöveg oldalak" image="/docs/guide/evertag/img/tag-editor-lyrics-pages.webp" >}}
+  {{< ls-card title="" subtitle="Dalszöveg oldalak" image="/docs/guide/evertag/img/tag-editor-lyrics-pages.webp" >}}
 {{< /cards >}}
 
 Válasszon nyelvet a választóból:
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Dalszöveg nyelv kiválasztó" image="/docs/guide/evertag/img/tag-editor-lyrics-language-select.webp" >}}
+  {{< ls-card title="" subtitle="Dalszöveg nyelv kiválasztó" image="/docs/guide/evertag/img/tag-editor-lyrics-language-select.webp" >}}
 {{< /cards >}}
 
 Ezután illessze be vagy írja be a dalszöveg szöveget. Az Evertag támogatja a sima szöveget és az időbélyegzett (szinkronizált) dalszövegeket is – a helyőrző az LRC-stílusú formátum példáját mutatja, amelyet pontosan a Lrclib és a Lyricsify ad vissza szinkronizált eredményekre.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Dalszöveg szövegszerkesztő" image="/docs/guide/evertag/img/tag-editor-lyrics-text.webp" >}}
+  {{< ls-card title="" subtitle="Dalszöveg szövegszerkesztő" image="/docs/guide/evertag/img/tag-editor-lyrics-text.webp" >}}
 {{< /cards >}}
 
 ## Értékelés és tanácsadói értékelés beállítása
@@ -96,7 +96,7 @@ A kiterjesztett szerkesztő csillag **Értékelés** vezérlőt és **Tanácsad�
 Használja az **Értékelés** mezőt, hogy egy-öt csillagos személyes pontszámot adjon egy zeneszámnak. Az érték a fájl szabványos értékelési tagjébe íródik (POPM az ID3-hoz, `rate` az MP4-hez, `RATING` a Vorbis/APE-hez stb.), így más alkalmazások, amelyek olvassák ezt a taget – beleértve a Zene alkalmazást, a Plexet, a Roont és a legtöbb asztali tag szerkesztőt – azonnal felveszik a pontszámokat.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Értékelés" image="/docs/guide/evertag/img/tag-editor-rating.webp" >}}
+  {{< ls-card title="" subtitle="Értékelés" image="/docs/guide/evertag/img/tag-editor-rating.webp" >}}
 {{< /cards >}}
 
 ### Tanácsadói értékelés
@@ -117,7 +117,7 @@ Ezt a mezőt beállítani vagy javítani kell, ha:
 Az érték a fájlformátum szabványos tanácsadói értékelési mezőjébe kerül tárolásra (`rtng` az MP4-hez, `TXXX:ITUNESADVISORY` az ID3-hoz, `ITUNESADVISORY` a Vorbis-hoz), így bármely szülői tanácsadói metaadatot olvasó lejátszó látni fogja a frissítést.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Dalszöveg tanácsadói értékelés" image="/docs/guide/evertag/img/lyrics-advisory-rating.webp" >}}
+  {{< ls-card title="" subtitle="Dalszöveg tanácsadói értékelés" image="/docs/guide/evertag/img/lyrics-advisory-rating.webp" >}}
 {{< /cards >}}
 
 ## Albumborító szerkesztése
@@ -129,7 +129,7 @@ Az albumborító megváltoztatásához:
 3. Válasszon ki egy képet borítóként való alkalmazáshoz.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Kép kiválasztása" image="/docs/guide/evertag/img/select-image.webp" >}}
+  {{< ls-card title="" subtitle="Kép kiválasztása" image="/docs/guide/evertag/img/select-image.webp" >}}
 {{< /cards >}}
 
 ## További műveletek a Tag szerkesztőben
@@ -137,7 +137,7 @@ Az albumborító megváltoztatásához:
 Extra szerkesztési lehetőségek érhetők el az alkotói nézet alatti eszköztárán keresztül.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="További műveletek menü" image="/docs/guide/evertag/img/tag-editor-more-actions.webp" >}}
+  {{< ls-card title="" subtitle="További műveletek menü" image="/docs/guide/evertag/img/tag-editor-more-actions.webp" >}}
 {{< /cards >}}
 
 ### Audio tagek automatikus keresése
@@ -150,13 +150,13 @@ Az alkalmazás a MusicBrainz adatbázist használja – az egyik legátfogóbb t
 A metaadatok segítségével keressen a weben a megfelelő albumborítóhoz.  
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Albumborító keresése" image="/docs/guide/evertag/img/search-album-cover.webp" >}}
+  {{< ls-card title="" subtitle="Albumborító keresése" image="/docs/guide/evertag/img/search-album-cover.webp" >}}
 {{< /cards >}}
 
 Ha megtalálta, mentse el a képet a **Fotók** alkalmazásba a rendszer helyi menü segítségével.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Kép hozzáadása a Fotókhoz" image="/docs/guide/evertag/img/add-image-to-photos.webp" >}}
+  {{< ls-card title="" subtitle="Kép hozzáadása a Fotókhoz" image="/docs/guide/evertag/img/add-image-to-photos.webp" >}}
 {{< /cards >}}
 
 Ezt követően térjen vissza a tag szerkesztőbe, koppintson a Kamera ikonra, lépjen a **Fotók könyvtárba**, és válassza ki a mentett képet. Az alkalmazás beállítja azt az audio fájl borítójaként.
@@ -178,19 +178,19 @@ Keressen albummetaadatokat manuálisan a MusicBrainz adatbázisban.
 - Válassza ki az albumot  
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Album kiválasztása" image="/docs/guide/evertag/img/select-album-results.webp" >}}
+  {{< ls-card title="" subtitle="Album kiválasztása" image="/docs/guide/evertag/img/select-album-results.webp" >}}
 {{< /cards >}}
 
 - Válassza ki a megfelelő dalt  
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Dal kiválasztása" image="/docs/guide/evertag/img/select-a-song.webp" >}}
+  {{< ls-card title="" subtitle="Dal kiválasztása" image="/docs/guide/evertag/img/select-a-song.webp" >}}
 {{< /cards >}}
 
 - Válassza ki, mely tageket kívánja alkalmazni  
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Audio tagek kiválasztása" image="/docs/guide/evertag/img/select-audio-tags.webp" >}}
+  {{< ls-card title="" subtitle="Audio tagek kiválasztása" image="/docs/guide/evertag/img/select-audio-tags.webp" >}}
 {{< /cards >}}
 
 Koppintson a **Kész** gombra a kiválasztott metaadat alkalmazásához a zeneszámra.

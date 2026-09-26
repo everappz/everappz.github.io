@@ -12,7 +12,7 @@ authors:
     image: "/images/about/artem-meleshko-founder-everappz.webp"
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 **In breve:** Evermusic ha superato gli 11 milioni di download in tutto il mondo. Le funzionalità chiave includono un equalizzatore a 10 bande, riproduzione offline, streaming da iCloud Drive, supporto per oltre 10 servizi cloud, sincronizzazione tra dispositivi e un editor di tag ID3 integrato.
 
@@ -70,22 +70,22 @@ Evermusic è creato per chiunque archivi musica nel cloud o nell'archiviazione l
 
 ## FAQ
 
-{{% details title="Quali formati audio supporta Evermusic?" closed="true" %}}
+{{% ls-details title="Quali formati audio supporta Evermusic?" closed="true" %}}
 Evermusic riproduce MP3, FLAC, WAV, AAC, M4A, AIFF, OGG, WMA e altri formati audio popolari.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Posso usare Evermusic senza connessione internet?" closed="true" %}}
+{{% ls-details title="Posso usare Evermusic senza connessione internet?" closed="true" %}}
 Sì. Scarica le tracce dalla tua archiviazione cloud per la riproduzione offline. Una volta scaricate, non è necessaria la connessione internet.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Evermusic funziona su Mac?" closed="true" %}}
+{{% ls-details title="Evermusic funziona su Mac?" closed="true" %}}
 Sì. Evermusic è disponibile su iOS (iPhone/iPad) e macOS, con sincronizzazione della libreria su tutti i dispositivi.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Evermusic è gratuito da scaricare?" closed="true" %}}
+{{% ls-details title="Evermusic è gratuito da scaricare?" closed="true" %}}
 Sì. Evermusic è gratuito da scaricare con funzionalità premium opzionali disponibili tramite acquisto in-app.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Come funziona lo streaming da iCloud Drive in Evermusic?" closed="true" %}}
+{{% ls-details title="Come funziona lo streaming da iCloud Drive in Evermusic?" closed="true" %}}
 Collega il tuo account iCloud Drive nell'app, sfoglia i tuoi file musicali e tocca per riprodurre. Le tracce vengono riprodotte in streaming direttamente senza bisogno di scaricarle prima.
-{{% /details %}}
+{{% /ls-details %}}

@@ -11,7 +11,7 @@ tags: ["Evertag", "Premium", "Sự khác biệt", "Pro", "Free vs Paid", "Ứng 
 Evertag và Evertag Premium là hai phiên bản của cùng một ứng dụng chỉnh sửa thẻ mạnh mẽ. Trong khi Evertag Free cung cấp cho bạn quyền truy cập vào các công cụ chỉnh sửa siêu dữ liệu thiết yếu, Evertag Premium mở khóa trải nghiệm đầy đủ—không có quảng cáo, không giới hạn và có thể tùy chỉnh.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evertag Upgrade To Premium Screen" image="/docs/faq/evertag/what-is-the-difference-between-evertag-and-evertag-premium/upgrade-to-premium.webp" >}}
+  {{< ls-card title="" subtitle="Evertag Upgrade To Premium Screen" image="/docs/faq/evertag/what-is-the-difference-between-evertag-and-evertag-premium/upgrade-to-premium.webp" >}}
 {{< /cards >}}
 
 ## Chọn gói Premium của bạn
@@ -19,7 +19,7 @@ Evertag và Evertag Premium là hai phiên bản của cùng một ứng dụng 
 Phiên bản miễn phí của ứng dụng cung cấp giao dịch mua trong ứng dụng trọn đời một lần và hai tùy chọn đăng ký (1 tháng và 1 năm) để xóa tất cả hạn chế và nâng cấp lên phiên bản Premium, cho phép bạn chọn mức giá tốt nhất và tối ưu nhất cho mình. Giá có thể thay đổi tùy theo quốc gia hoặc vùng lãnh thổ của bạn. Ngoài ra, hãy nhớ rằng **Family Sharing** **được bật** cho tất cả các giao dịch mua và gói, vì vậy bạn có thể chia sẻ phiên bản Premium với các thành viên trong gia đình.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evertag Select Your Premium Plan Screen" image="/docs/faq/evertag/what-is-the-difference-between-evertag-and-evertag-premium/select-your-plan.webp" >}}
+  {{< ls-card title="" subtitle="Evertag Select Your Premium Plan Screen" image="/docs/faq/evertag/what-is-the-difference-between-evertag-and-evertag-premium/select-your-plan.webp" >}}
 {{< /cards >}}
 
 ## Chia sẻ giao dịch mua giữa iOS và Mac
@@ -79,7 +79,7 @@ Sau khi nâng cấp ứng dụng, bạn sẽ thấy màn hình trạng thái Pre
 Bạn có thể nâng cấp lên phiên bản Premium miễn phí nhưng chỉ trong thời gian giới hạn bằng cách sử dụng menu "Dùng thử premium miễn phí". Chỉ cần xem một quảng cáo hoặc giới thiệu ứng dụng này với bạn bè để nhận phiên bản Premium miễn phí.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evertag Try Premium For Free Screen" image="/docs/faq/evertag/what-is-the-difference-between-evertag-and-evertag-premium/try-premium-for-free.webp" >}}
+  {{< ls-card title="" subtitle="Evertag Try Premium For Free Screen" image="/docs/faq/evertag/what-is-the-difference-between-evertag-and-evertag-premium/try-premium-for-free.webp" >}}
 {{< /cards >}}
 
 ## Nên chọn gì?

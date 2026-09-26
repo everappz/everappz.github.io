@@ -29,7 +29,7 @@ tags: [
 readingTime: 5
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **Resum:** Utilitza la funció integrada **File > Library > Export Playlist** d'Apple Music per desar qualsevol llista de reproducció com a fitxer M3U. Després importa-la a **Evermusic** o **Flacbox** al Mac. També pots arxivar llistes de reproducció com a fitxers ZIP per transferir-les fàcilment a altres dispositius.
@@ -45,13 +45,13 @@ D'aquesta manera, pots continuar escoltant les teves llistes de reproducció fav
 Comença obrint la llista de reproducció a l'aplicació Apple Music al teu Mac.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Obre la llista de reproducció a Apple Music" image="/docs/howto/how-to-export-apple-music-playlists-and-play-them-in-evermusic-on-mac/1-apple-music-playlist.webp" >}}
+  {{< ls-card title="" subtitle="Obre la llista de reproducció a Apple Music" image="/docs/howto/how-to-export-apple-music-playlists-and-play-them-in-evermusic-on-mac/1-apple-music-playlist.webp" >}}
 {{< /cards >}}
 
 Ves a **File → Library → Export Playlist** des del menú superior.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Exporta la llista de reproducció de la teva biblioteca" image="/docs/howto/how-to-export-apple-music-playlists-and-play-them-in-evermusic-on-mac/2-library-export-playlist.webp" >}}
+  {{< ls-card title="" subtitle="Exporta la llista de reproducció de la teva biblioteca" image="/docs/howto/how-to-export-apple-music-playlists-and-play-them-in-evermusic-on-mac/2-library-export-playlist.webp" >}}
 {{< /cards >}}
 
 Tria la destinació on es desarà el fitxer M3U.  
@@ -61,7 +61,7 @@ Tria la destinació on es desarà el fitxer M3U.
 > Com que les aplicacions funcionen en mode sandbox a macOS, tant el **fitxer de la llista de reproducció** com els **fitxers multimèdia** han d'estar a la mateixa carpeta per a una importació correcta.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Tria la destinació del fitxer M3U" image="/docs/howto/how-to-export-apple-music-playlists-and-play-them-in-evermusic-on-mac/3-select-m3u-destination.webp" >}}
+  {{< ls-card title="" subtitle="Tria la destinació del fitxer M3U" image="/docs/howto/how-to-export-apple-music-playlists-and-play-them-in-evermusic-on-mac/3-select-m3u-destination.webp" >}}
 {{< /cards >}}
 
 ## Importar la llista de reproducció a Evermusic o Flacbox
@@ -69,26 +69,26 @@ Tria la destinació on es desarà el fitxer M3U.
 Descarrega una de les aplicacions des del Mac App Store:
 
 {{< cards cols="1">}}
-{{< card link="https://apps.apple.com/app/apple-store/id1564384601?pt=95781850&ct=everappzcom&mt=8" title="Evermusic" icon="download" tag="Free" >}}
-{{< card link="https://apps.apple.com/app/apple-store/id1594027432?pt=95781850&ct=everappzcom&mt=8" title="Flacbox" icon="download" tag="Free" >}}
+{{< ls-card link="https://apps.apple.com/app/apple-store/id1564384601?pt=95781850&ct=everappzcom&mt=8" title="Evermusic" icon="download" tag="Free" >}}
+{{< ls-card link="https://apps.apple.com/app/apple-store/id1594027432?pt=95781850&ct=everappzcom&mt=8" title="Flacbox" icon="download" tag="Free" >}}
 {{< /cards >}}
 
 Obre la **pestanya Llistes de reproducció** a l'aplicació.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Obre Llistes de reproducció a Evermusic" image="/docs/howto/how-to-export-apple-music-playlists-and-play-them-in-evermusic-on-mac/4-evermusic-playlists.webp" >}}
+  {{< ls-card title="" subtitle="Obre Llistes de reproducció a Evermusic" image="/docs/howto/how-to-export-apple-music-playlists-and-play-them-in-evermusic-on-mac/4-evermusic-playlists.webp" >}}
 {{< /cards >}}
 
 Toca el botó **Afegir** i selecciona **Importar llista de reproducció**.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Importa la llista de reproducció a Evermusic" image="/docs/howto/how-to-export-apple-music-playlists-and-play-them-in-evermusic-on-mac/5-evermusic-import-playlist.webp" >}}
+  {{< ls-card title="" subtitle="Importa la llista de reproducció a Evermusic" image="/docs/howto/how-to-export-apple-music-playlists-and-play-them-in-evermusic-on-mac/5-evermusic-import-playlist.webp" >}}
 {{< /cards >}}
 
 A continuació, tria **Fitxers en aquest Mac** per importar fitxers emmagatzemats localment.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Selecciona la ubicació d'importació a Evermusic" image="/docs/howto/how-to-export-apple-music-playlists-and-play-them-in-evermusic-on-mac/6-evermusic-select-location.webp" >}}
+  {{< ls-card title="" subtitle="Selecciona la ubicació d'importació a Evermusic" image="/docs/howto/how-to-export-apple-music-playlists-and-play-them-in-evermusic-on-mac/6-evermusic-select-location.webp" >}}
 {{< /cards >}}
 
 Ara, connecta la teva **carpeta Música** (on has desat la llista de reproducció M3U).  
@@ -98,37 +98,37 @@ Això és necessari perquè macOS requereix que concedeixis explícitament accé
 > Assegura't que el fitxer de la llista de reproducció i els fitxers multimèdia associats estiguin a la mateixa carpeta.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Tria Fitxers en aquest Mac" image="/docs/howto/how-to-export-apple-music-playlists-and-play-them-in-evermusic-on-mac/7-files-on-this-mac.webp" >}}
+  {{< ls-card title="" subtitle="Tria Fitxers en aquest Mac" image="/docs/howto/how-to-export-apple-music-playlists-and-play-them-in-evermusic-on-mac/7-files-on-this-mac.webp" >}}
 {{< /cards >}}
 
 Selecciona la teva **carpeta Música** (on has desat la llista de reproducció M3U) i toca **Obrir** per confirmar la selecció.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Selecciona la teva carpeta Música" image="/docs/howto/how-to-export-apple-music-playlists-and-play-them-in-evermusic-on-mac/8-select-music-folder-location.webp" >}}
+  {{< ls-card title="" subtitle="Selecciona la teva carpeta Música" image="/docs/howto/how-to-export-apple-music-playlists-and-play-them-in-evermusic-on-mac/8-select-music-folder-location.webp" >}}
 {{< /cards >}}
 
 Un cop connectada, obre la carpeta i selecciona el teu fitxer **M3U** exportat.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Selecciona el fitxer M3U" image="/docs/howto/how-to-export-apple-music-playlists-and-play-them-in-evermusic-on-mac/9-select-m3u-file.webp" >}}
+  {{< ls-card title="" subtitle="Selecciona el fitxer M3U" image="/docs/howto/how-to-export-apple-music-playlists-and-play-them-in-evermusic-on-mac/9-select-m3u-file.webp" >}}
 {{< /cards >}}
 
 L'aplicació començarà a importar totes les pistes de la llista de reproducció.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Espera mentre s'importa la llista de reproducció" image="/docs/howto/how-to-export-apple-music-playlists-and-play-them-in-evermusic-on-mac/10-importing-playlist.webp" >}}
+  {{< ls-card title="" subtitle="Espera mentre s'importa la llista de reproducció" image="/docs/howto/how-to-export-apple-music-playlists-and-play-them-in-evermusic-on-mac/10-importing-playlist.webp" >}}
 {{< /cards >}}
 
 Un cop finalitzat, veuràs la teva llista de reproducció llesta per usar.  
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Llista de reproducció importada correctament" image="/docs/howto/how-to-export-apple-music-playlists-and-play-them-in-evermusic-on-mac/11-playlist-imported.webp" >}}
+  {{< ls-card title="" subtitle="Llista de reproducció importada correctament" image="/docs/howto/how-to-export-apple-music-playlists-and-play-them-in-evermusic-on-mac/11-playlist-imported.webp" >}}
 {{< /cards >}}
 
 Toca-la per veure el seu contingut o iniciar la reproducció immediatament.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Obre la llista de reproducció importada" image="/docs/howto/how-to-export-apple-music-playlists-and-play-them-in-evermusic-on-mac/12-opened-playlist.webp" >}}
+  {{< ls-card title="" subtitle="Obre la llista de reproducció importada" image="/docs/howto/how-to-export-apple-music-playlists-and-play-them-in-evermusic-on-mac/12-opened-playlist.webp" >}}
 {{< /cards >}}
 
 ## Arxivar i transferir llistes de reproducció
@@ -140,26 +140,26 @@ Això fa que transferir llistes de reproducció a un altre dispositiu sigui ràp
 Simplement tria **Més accions → Afegir a l'arxiu** des del menú de la llista de reproducció.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Obre més accions per a la llista de reproducció" image="/docs/howto/how-to-export-apple-music-playlists-and-play-them-in-evermusic-on-mac/14-more-actions-playlist.webp" >}}
+  {{< ls-card title="" subtitle="Obre més accions per a la llista de reproducció" image="/docs/howto/how-to-export-apple-music-playlists-and-play-them-in-evermusic-on-mac/14-more-actions-playlist.webp" >}}
 {{< /cards >}}
 
 Després de seleccionar **Afegir a l'arxiu**, espera un moment mentre l'aplicació processa la llista de reproducció.  
 Un cop completat l'arxivat, veuràs una **alerta d'èxit**. Toca **Mostrar fitxer** perquè l'aplicació reveli l'arxiu ZIP creat recentment.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Arxivat completat" image="/docs/howto/how-to-export-apple-music-playlists-and-play-them-in-evermusic-on-mac/15-archiving-completed.webp" >}}
+  {{< ls-card title="" subtitle="Arxivat completat" image="/docs/howto/how-to-export-apple-music-playlists-and-play-them-in-evermusic-on-mac/15-archiving-completed.webp" >}}
 {{< /cards >}}
 
 L'aplicació obrirà la **carpeta d'exportació**, on s'emmagatzemen tots els arxius creats.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Obre la carpeta d'exportació" image="/docs/howto/how-to-export-apple-music-playlists-and-play-them-in-evermusic-on-mac/16-export-folder.webp" >}}
+  {{< ls-card title="" subtitle="Obre la carpeta d'exportació" image="/docs/howto/how-to-export-apple-music-playlists-and-play-them-in-evermusic-on-mac/16-export-folder.webp" >}}
 {{< /cards >}}
 
 Localitza el teu arxiu creat recentment, toca el botó **Més accions** al costat i tria **Mostrar al Finder**.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Utilitza Més accions al fitxer ZIP" image="/docs/howto/how-to-export-apple-music-playlists-and-play-them-in-evermusic-on-mac/17-more-actions-menu-zip-file.webp" >}}
+  {{< ls-card title="" subtitle="Utilitza Més accions al fitxer ZIP" image="/docs/howto/how-to-export-apple-music-playlists-and-play-them-in-evermusic-on-mac/17-more-actions-menu-zip-file.webp" >}}
 {{< /cards >}}
 
 Ara veuràs la **ubicació real del fitxer ZIP** al teu Mac.  
@@ -167,13 +167,13 @@ En aquest punt, pots transferir fàcilment l'arxiu a un altre dispositiu.
 Però abans, fem una ullada més de prop al que hi ha dins. Fes doble clic al fitxer per desarxivar-lo.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Revela el fitxer ZIP al Finder" image="/docs/howto/how-to-export-apple-music-playlists-and-play-them-in-evermusic-on-mac/18-zip-file-revealed-in-finder.webp" >}}
+  {{< ls-card title="" subtitle="Revela el fitxer ZIP al Finder" image="/docs/howto/how-to-export-apple-music-playlists-and-play-them-in-evermusic-on-mac/18-zip-file-revealed-in-finder.webp" >}}
 {{< /cards >}}
 
 A dins, trobaràs el **contingut complet de la llista de reproducció** — tots els fitxers d'àudio inclosos a la llista de reproducció, així com el **fitxer de llista de reproducció M3U**.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Desarxiva el fitxer ZIP" image="/docs/howto/how-to-export-apple-music-playlists-and-play-them-in-evermusic-on-mac/19-unarchived-zip-file.webp" >}}
+  {{< ls-card title="" subtitle="Desarxiva el fitxer ZIP" image="/docs/howto/how-to-export-apple-music-playlists-and-play-them-in-evermusic-on-mac/19-unarchived-zip-file.webp" >}}
 {{< /cards >}}
 
 Finalment, obre el **fitxer M3U** per inspeccionar el seu contingut.  
@@ -181,7 +181,7 @@ Està formatat correctament, de manera que quan moguis aquest arxiu ZIP a un alt
 L'aplicació restaurarà la llista de reproducció amb l'**ordre correcte de les pistes** i **tots els fitxers multimèdia associats**.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Visualitza el contingut de la llista de reproducció M3U" image="/docs/howto/how-to-export-apple-music-playlists-and-play-them-in-evermusic-on-mac/20-m3u-playlist-content.webp" >}}
+  {{< ls-card title="" subtitle="Visualitza el contingut de la llista de reproducció M3U" image="/docs/howto/how-to-export-apple-music-playlists-and-play-them-in-evermusic-on-mac/20-m3u-playlist-content.webp" >}}
 {{< /cards >}}
 
 ## Conclusió
@@ -199,22 +199,22 @@ En canvi, gaudeix d'una experiència musical fluida amb més control, millors fu
 
 ## Preguntes freqüents
 
-{{% details title="Quin format de llista de reproducció exporta Apple Music?" closed="true" %}}
+{{% ls-details title="Quin format de llista de reproducció exporta Apple Music?" closed="true" %}}
 Apple Music exporta llistes de reproducció en format M3U, que és un format estàndard de llista de reproducció compatible amb la majoria de reproductors de música, incloent Evermusic, Flacbox, VLC i foobar2000.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Per què el fitxer M3U i els fitxers d'àudio han d'estar a la mateixa carpeta?" closed="true" %}}
+{{% ls-details title="Per què el fitxer M3U i els fitxers d'àudio han d'estar a la mateixa carpeta?" closed="true" %}}
 Evermusic i Flacbox funcionen en mode sandbox de macOS, que restringeix l'accés als fitxers a les carpetes a les quals concedeixis permís explícitament. Mantenir el fitxer M3U i els fitxers d'àudio a la mateixa carpeta assegura que l'aplicació pugui llegir ambdós durant la importació.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Puc transferir llistes de reproducció entre Mac i iPhone?" closed="true" %}}
+{{% ls-details title="Puc transferir llistes de reproducció entre Mac i iPhone?" closed="true" %}}
 Sí. Utilitza la funció d'arxivat de llistes de reproducció per crear un fitxer ZIP que contingui la llista de reproducció i totes les pistes. Transfereix el ZIP al teu iPhone via AirDrop, iCloud Drive o qualsevol altre mètode, després importa-ho a Evermusic o Flacbox a iOS.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Funciona amb pistes de streaming d'Apple Music?" closed="true" %}}
+{{% ls-details title="Funciona amb pistes de streaming d'Apple Music?" closed="true" %}}
 Aquest mètode funciona amb fitxers d'àudio locals que has afegit a Apple Music. Les pistes de streaming protegides amb DRM d'Apple Music no es poden exportar com a llistes de reproducció M3U.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Quins formats d'àudio suporten Evermusic i Flacbox?" closed="true" %}}
+{{% ls-details title="Quins formats d'àudio suporten Evermusic i Flacbox?" closed="true" %}}
 Ambdues aplicacions suporten una àmplia gamma de formats incloent MP3, FLAC, AAC, WAV, OGG, AIFF, ALAC, WMA, APE i més. També suporten reproducció d'àudio d'alta resolució per a formats sense pèrdua.
-{{% /details %}}
+{{% /ls-details %}}

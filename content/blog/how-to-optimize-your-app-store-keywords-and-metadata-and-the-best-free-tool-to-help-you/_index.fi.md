@@ -14,7 +14,7 @@ authors:
     image: "/images/about/artem-meleshko-founder-everappz.webp"
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 ## Miksi App Storen avainsanat määräävät latausmääräsi
 
@@ -100,29 +100,29 @@ App Store -optimointi ei vaadi kalliita työkaluja. Älykkäällä suunnittelull
 Työkalu on avointa lähdekoodia.
 
 {{< cards cols="1" >}}
-  {{< card link="https://github.com/everappz/app-store-keyword-optimizer/tree/main" title="appkeywords.pro GitHubissa" icon="github" tag= "open source" >}}
+  {{< ls-card link="https://github.com/everappz/app-store-keyword-optimizer/tree/main" title="appkeywords.pro GitHubissa" icon="github" tag= "open source" >}}
 {{< /cards >}}
 
 ---
 
 ## Usein kysytyt kysymykset
 
-{{% details title="Onko AppKeywords.pro todella ilmainen?" closed="true" %}}
+{{% ls-details title="Onko AppKeywords.pro todella ilmainen?" closed="true" %}}
 Kyllä. Se on täysin avoimen lähdekoodin selainpohjainen työkalu ilman rekisteröitymistä, ilman mainoksia ja ilman tiedonkeruuta.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Toimiiko tämä työkalu useille App Store -lokalisoinneille?" closed="true" %}}
+{{% ls-details title="Toimiiko tämä työkalu useille App Store -lokalisoinneille?" closed="true" %}}
 Kyllä. Voit lisätä metatietoja kielittäin ja vienti sisältää kaikki kielet yhdessä Fastlane-yhteensopivassa JSON-tiedostossa.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Pitäisikö toistaa otsikon avainsanoja avainsanakentässä?" closed="true" %}}
+{{% ls-details title="Pitäisikö toistaa otsikon avainsanoja avainsanakentässä?" closed="true" %}}
 Ei. Apple indeksoi jo sanat otsikosta ja alaotsikosta. Niiden toistaminen tuhlaa merkkejä.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Kuinka usein App Storen avainsanoja pitäisi päivittää?" closed="true" %}}
+{{% ls-details title="Kuinka usein App Storen avainsanoja pitäisi päivittää?" closed="true" %}}
 Vähintään kerran neljännesvuodessa.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Voinko käyttää tätä työkalua Fastlanen kanssa?" closed="true" %}}
+{{% ls-details title="Voinko käyttää tätä työkalua Fastlanen kanssa?" closed="true" %}}
 Kyllä. GitHub-repo sisältää shell-skriptejä Fastlanen metatietokansiorakenteen ja AppKeywords.pro:n käyttämän JSON-muodon väliseen muunnokseen.
-{{% /details %}}
+{{% /ls-details %}}

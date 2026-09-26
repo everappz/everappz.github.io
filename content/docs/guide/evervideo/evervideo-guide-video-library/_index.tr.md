@@ -21,7 +21,7 @@ readingTime: 8
 Kitaplığa medya eklemenin iki yolu vardır: **manuel ekleme** (tam olarak nelerin ekleneceğini kendiniz seçersiniz) veya **otomatik senkronizasyon** (Evervideo belirlenmiş bulut klasörlerini tarar ve görünen yeni dosyaları otomatik olarak ekler).
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evervideo Medya Kitaplığı" image="/docs/guide/evervideo/img/evervideo-genres-in-media-library.webp" >}}
+  {{< ls-card title="" subtitle="Evervideo Medya Kitaplığı" image="/docs/guide/evervideo/img/evervideo-genres-in-media-library.webp" >}}
 {{< /cards >}}
 
 ## Manuel Ekleme
@@ -92,7 +92,7 @@ Tüm başlıklarınızı göremiyorsanız, uygulamanın her dosyayı taradığı
 Bu bölüm, son oynatma konumlarıyla birlikte yakın zamanda oynatılan tüm videoları görüntüler, böylece tek dokunuşla herhangi birini devam ettirebilirsiniz. Listenin tuttuğu girdi sayısını Ayarlar → Medya Kitaplığı → Son Oynatılanlar → Liste Boyutunu Değiştir'den değiştirebilir ve izleme geçmişinizi yedeklemek için listeyi M3U / CSV / TXT olarak dışa aktarabilirsiniz.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evervideo Son Oynatılanlar — Son İzlenen Videolar" image="/docs/guide/evervideo/img/evervideo-recents.webp" >}}
+  {{< ls-card title="" subtitle="Evervideo Son Oynatılanlar — Son İzlenen Videolar" image="/docs/guide/evervideo/img/evervideo-recents.webp" >}}
 {{< /cards >}}
 
 ## Favoriler
@@ -104,7 +104,7 @@ Oynatıcı ekranında veya seçenekler menüsü aracılığıyla videoları favo
 Evervideo izlediğiniz her videonun oynatma konumunu takip eder. Herhangi bir listedeki her video — Son Oynatılanlar, Favoriler, bir albüm, bir tür, bir çalma listesi, bir klasör — ne kadar izlediğinizi bir bakışta görebilmeniz için küçük bir ilerleme çubuğu görüntüler. Bu, uzun TV dizisi sezonlarını, kurs çalma listelerini ve binge-watch gecelerini zahmetsizce yönetmenizi sağlar.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evervideo Tür Ayrıntısı ile Dosya Başına İzleme İlerlemesi" image="/docs/guide/evervideo/img/evervideo-genre-detail-with-playback-progress-for-watched-files.webp" >}}
+  {{< ls-card title="" subtitle="Evervideo Tür Ayrıntısı ile Dosya Başına İzleme İlerlemesi" image="/docs/guide/evervideo/img/evervideo-genre-detail-with-playback-progress-for-watched-files.webp" >}}
 {{< /cards >}}
 
 ## Üst Araç Çubuğu
@@ -116,7 +116,7 @@ Gezinme çubuğunun hemen altında bulunan üst araç çubuğu birkaç kullanı�
 Arama özelliği, medya kitaplığınızda belirli bir başlığı, albümü, türü veya çalma listesini bulmanızı sağlar. Arama ekranında Sıralama, Filtreleme ve Izgara / Liste görünümü eylemlerine erişebilirsiniz. Arama, medya kitaplığı veritabanına karşı yerel olarak çalışır, bu nedenle tamamen çevrimdışı çalışır ve siz yazarken sonuçlar döner.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evervideo Medya Kitaplığı Araması" image="/docs/guide/evervideo/img/evervideo-library-search.webp" >}}
+  {{< ls-card title="" subtitle="Evervideo Medya Kitaplığı Araması" image="/docs/guide/evervideo/img/evervideo-library-search.webp" >}}
 {{< /cards >}}
 
 ## Seçenekler Menüsü

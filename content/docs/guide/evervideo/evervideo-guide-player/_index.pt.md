@@ -31,7 +31,7 @@ Pode chegar ao leitor de ecrã inteiro a partir da barra do leitor compacto. No 
 O leitor compacto permanece visível enquanto navega na biblioteca, no gestor de ficheiros ou nas configurações, para que nunca perca o vídeo enquanto procura o próximo.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Leitor de Multimédia em Ecrã Inteiro do Evervideo" image="/docs/guide/evervideo/img/evervideo-media-player-fullscreen.webp" >}}
+  {{< ls-card title="" subtitle="Leitor de Multimédia em Ecrã Inteiro do Evervideo" image="/docs/guide/evervideo/img/evervideo-media-player-fullscreen.webp" >}}
 {{< /cards >}}
 
 ## Formatos de Vídeo e Áudio Suportados
@@ -72,7 +72,7 @@ O PiP funciona com todos os formatos de vídeo que o Evervideo reproduz, incluin
 O leitor compacto é um mini-leitor persistente que permanece visível no topo de cada ecrã na aplicação enquanto navega na biblioteca, no gestor de ficheiros ou nas configurações. Toque nele para expandir para o leitor de ecrã inteiro; deslize para baixo para recolhê-lo novamente.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Configurações de Vídeo a partir do Leitor Compacto no Ecrã Principal do Evervideo" image="/docs/guide/evervideo/img/evervideo-video-settings-from-compact-player-view-on-the-main-screen.webp" >}}
+  {{< ls-card title="" subtitle="Configurações de Vídeo a partir do Leitor Compacto no Ecrã Principal do Evervideo" image="/docs/guide/evervideo/img/evervideo-video-settings-from-compact-player-view-on-the-main-screen.webp" >}}
 {{< /cards >}}
 
 ## AirPlay 2
@@ -115,7 +115,7 @@ O Evervideo inclui um equalizador de áudio completo para ajustar as bandas sono
 Para ajustar a imagem, o Evervideo fornece um equalizador de vídeo dedicado — ajuste o brilho, contraste, saturação e matiz em tempo real durante a reprodução. Tal como o equalizador de áudio, os presets de vídeo personalizados podem ser exportados e importados para partilha ou cópia de segurança. Use-o para iluminar uma cena escura num dia ensolarado, aumentar a saturação em conteúdo desbotado ou aquecer uma tonalidade de cor fria.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Equalizador de Vídeo do Evervideo" image="/docs/guide/evervideo/img/evervideo-video-equalizer.webp" >}}
+  {{< ls-card title="" subtitle="Equalizador de Vídeo do Evervideo" image="/docs/guide/evervideo/img/evervideo-video-equalizer.webp" >}}
 {{< /cards >}}
 
 ## Modo de Escala de Vídeo
@@ -144,7 +144,7 @@ O Evervideo inclui um viewport VR / 360° para ficheiros de vídeo esféricos. A
 Toque no controlo Velocidade na barra de ferramentas do leitor para alterar a velocidade de reprodução — abrande para análise (0,25× ou 0,5×) ou acelere para tutoriais e aulas (1,25×, 1,5×, 2× e até 3×). Toque no ícone de configuração no canto superior direito do ecrã de Velocidade para mudar para o modo preciso com ajustes mais finos. A correção de tom por faixa também está disponível.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Velocidade de Reprodução na Barra de Ferramentas Principal do Evervideo" image="/docs/guide/evervideo/img/evervideo-media-player-playback-speed-on-main-toolbar.webp" >}}
+  {{< ls-card title="" subtitle="Velocidade de Reprodução na Barra de Ferramentas Principal do Evervideo" image="/docs/guide/evervideo/img/evervideo-media-player-playback-speed-on-main-toolbar.webp" >}}
 {{< /cards >}}
 
 ## Fila do Leitor
@@ -152,7 +152,7 @@ Toque no controlo Velocidade na barra de ferramentas do leitor para alterar a ve
 Para ver a fila do leitor, toque no botão da fila no leitor. Cada vídeo na fila tem mais ações — toque nos três pontos para as ver. Para reordenar um vídeo na fila, use o indicador de reordenação perto do título e arraste-o para uma nova posição.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Fila de Reprodução do Evervideo" image="/docs/guide/evervideo/img/evervideo-playback-queue.webp" >}}
+  {{< ls-card title="" subtitle="Fila de Reprodução do Evervideo" image="/docs/guide/evervideo/img/evervideo-playback-queue.webp" >}}
 {{< /cards >}}
 
 ## Temporizador de Suspensão
@@ -189,7 +189,7 @@ Toque no botão **Mais Ações "..."** no leitor para aceder a funções adicion
 - **Ajuda** — abrir orientação.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Ecrã Mais Ações do Leitor Evervideo" image="/docs/guide/evervideo/img/evervideo-media-player-more-actions.webp" >}}
+  {{< ls-card title="" subtitle="Ecrã Mais Ações do Leitor Evervideo" image="/docs/guide/evervideo/img/evervideo-media-player-more-actions.webp" >}}
 {{< /cards >}}
 
 ## Configurações do Leitor

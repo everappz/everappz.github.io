@@ -17,7 +17,7 @@ På Tilkoblinger-skjermen kan du koble til alle kilder som inneholder musikken d
 Skjermen er delt inn i tydelig merkede seksjoner som skalerer fra en enkelt iCloud Drive-konto til et bibliotek spredt over flere skyer og NAS-enheter: Hurtig tilgang øverst (favorittskymappene dine), Skylagring (kontoene du har lagt til), Lokalt nettverk (Bonjour-oppdagede enheter), Datamaskin (Wi-Fi Drive, iTunes-fildeling, SMB), Eksterne tilbehør (tilkoblede USB-minnepinner) og Andre tjenester (Last.fm og lignende).
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evermusic tilkoblingsskjerm" image="/docs/guide/evermusic/evermusic-guide-connections/img/connect-main.webp" >}}
+  {{< ls-card title="" subtitle="Evermusic tilkoblingsskjerm" image="/docs/guide/evermusic/evermusic-guide-connections/img/connect-main.webp" >}}
 {{< /cards >}}
 
 ## Koble til skylagring
@@ -29,7 +29,7 @@ Skjermen er delt inn i tydelig merkede seksjoner som skalerer fra en enkelt iClo
 - Trykk Ferdig.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Velger for skyleverandør" image="/docs/guide/evermusic/evermusic-guide-connections/img/connect-add-storage.webp" >}}
+  {{< ls-card title="" subtitle="Velger for skyleverandør" image="/docs/guide/evermusic/evermusic-guide-connections/img/connect-add-storage.webp" >}}
 {{< /cards >}}
 
 Hvis du støter på problemer, dobbeltsjekk internettforbindelsen og påloggingsinformasjonen, og sørg for at tofaktorautentisering er riktig konfigurert for den tjenesten.  
@@ -70,7 +70,7 @@ Du kan også koble fra de tilkoblede skykontoene i applikasjonen, og auth-tokene
   - **Koble fra**: hvis du ønsker å fullstendig avbryte forbindelsen mellom appen og skytjenesten, velg 'Koble fra.' Vær oppmerksom på at dette vil fjerne alle sanger tilknyttet denne skytjenesten fra appens musikkbibliotek, men de vil forbli på serveren.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flere handlinger-meny for tilkoblet skylagring" image="/docs/guide/evermusic/evermusic-guide-connections/img/connect-storage-more-actions.webp" >}}
+  {{< ls-card title="" subtitle="Flere handlinger-meny for tilkoblet skylagring" image="/docs/guide/evermusic/evermusic-guide-connections/img/connect-storage-more-actions.webp" >}}
 {{< /cards >}}
 
 ## Koble til datamaskin eller NAS
@@ -89,7 +89,7 @@ Hvis tilkoblingen er vellykket, ser du tilkoblet lagring i seksjonen "Skylagring
 En fullstendig opplæring om hvordan du kobler Mac eller PC via SMB er tilgjengelig [her](/docs/howto/stream-your-music-from-mac-or-pc-to-iphone-using-smb/).
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="SMB-tilkoblingsinnstillinger" image="/docs/guide/evermusic/evermusic-guide-connections/img/connect-smb-settings.webp" >}}
+  {{< ls-card title="" subtitle="SMB-tilkoblingsinnstillinger" image="/docs/guide/evermusic/evermusic-guide-connections/img/connect-smb-settings.webp" >}}
 {{< /cards >}}
 
 ## Koble til NAS via WebDAV
@@ -99,7 +99,7 @@ URL skal ha formatet http://servernavn, eller https://servernavn hvis serveren s
 En fullstendig opplæring om hvordan du kobler NAS via WebDAV-protokoll er tilgjengelig [her](/docs/howto/how-to-connect-nas-storage-using-webdav-and-listen-to-music-on-your-iphone-or-mac).
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="WebDAV-tilkoblingsinnstillinger" image="/docs/guide/evermusic/evermusic-guide-connections/img/connect-webdav-settings.webp" >}}
+  {{< ls-card title="" subtitle="WebDAV-tilkoblingsinnstillinger" image="/docs/guide/evermusic/evermusic-guide-connections/img/connect-webdav-settings.webp" >}}
 {{< /cards >}}
 
 ## Koble til datamaskin eller NAS via DLNA
@@ -107,7 +107,7 @@ En fullstendig opplæring om hvordan du kobler NAS via WebDAV-protokoll er tilgj
 Du kan også dele et musikkbibliotek som befinner seg på Windows-PC-en eller den personlige NAS-en din ved hjelp av DLNA-protokollen og få tilgang til det biblioteket i appen som beskrevet [her](/docs/howto/how-to-enable-dlna-media-server-on-windows-10-and-play-your-music-on-iphone). DLNA er en populær og mye brukt protokoll, men den lar deg bare spille av eller laste ned musikk. Du kan ikke laste opp filer eller opprette nye mapper på serveren.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="DLNA-tilkoblingsinnstillinger" image="/docs/guide/evermusic/evermusic-guide-connections/img/connect-dlna-settings.webp" >}}
+  {{< ls-card title="" subtitle="DLNA-tilkoblingsinnstillinger" image="/docs/guide/evermusic/evermusic-guide-connections/img/connect-dlna-settings.webp" >}}
 {{< /cards >}}
 
 ## Tilgjengelige enheter
@@ -120,7 +120,7 @@ For å opprette en forbindelse med en enhet, følg disse trinnene:
 - Hvis nødvendig, skriv inn påloggingsinformasjonen din for å fullføre tilkoblingen.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Tilgjengelige enheter i det lokale nettverket" image="/docs/guide/evermusic/evermusic-guide-connections/img/connect-available-devices.webp" >}}
+  {{< ls-card title="" subtitle="Tilgjengelige enheter i det lokale nettverket" image="/docs/guide/evermusic/evermusic-guide-connections/img/connect-available-devices.webp" >}}
 {{< /cards >}}
 
 ## Wi-Fi Drive 
@@ -146,7 +146,7 @@ Når nettsiden som tilsvarer iOS-enheten åpnes i nettleseren, kan du enkelt dra
 Filene du drar og slipper begynner å overføres til iOS-enheten og vil være tilgjengelige i applikasjonen.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Wi-Fi Drive-serverinnstillinger" image="/docs/guide/evermusic/evermusic-guide-connections/img/connect-wifidrive-settings.webp" >}}
+  {{< ls-card title="" subtitle="Wi-Fi Drive-serverinnstillinger" image="/docs/guide/evermusic/evermusic-guide-connections/img/connect-wifidrive-settings.webp" >}}
 {{< /cards >}}
 
 Detaljerte instruksjoner om hvordan du overfører filer trådløst ved hjelp av Wi-Fi Drive er tilgjengelige [her](/docs/howto/how-to-transfer-files-wirelessly-from-a-computer-to-an-iphone-using-wifi-drive).
@@ -162,7 +162,7 @@ iTunes-fildeling er en annen teknologi som lar deg overføre filer fra datamaski
 Detaljerte instruksjoner om hvordan du bruker iTunes-fildeling er tilgjengelige [her](/docs/howto/how-to-play-local-itunes-files-on-my-iphone/).
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="iTunes / Finder-fildeling på Mac" image="/docs/guide/evermusic/evermusic-guide-connections/img/connect-itunes-file-sharing.webp" >}}
+  {{< ls-card title="" subtitle="iTunes / Finder-fildeling på Mac" image="/docs/guide/evermusic/evermusic-guide-connections/img/connect-itunes-file-sharing.webp" >}}
 {{< /cards >}}
 
 ## Koble til et USB-minnekort
@@ -183,7 +183,7 @@ Den øverste verktøylinjen, praktisk plassert under navigasjonsbjelken, tilbyr 
 - **Bland alle**: Ligner på "Spill alle", denne handlingen skanner gjeldende mappe og undermapper, men blander filene før de legges til lydspillerkøen. Det er en flott måte å nyte musikken i tilfeldig rekkefølge for litt variasjon.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Øverste verktøylinje inne i en skymappe" image="/docs/guide/evermusic/evermusic-guide-connections/img/connect-top-toolbar.webp" >}}
+  {{< ls-card title="" subtitle="Øverste verktøylinje inne i en skymappe" image="/docs/guide/evermusic/evermusic-guide-connections/img/connect-top-toolbar.webp" >}}
 {{< /cards >}}
 
 ## Mappealternativer
@@ -200,7 +200,7 @@ Her er en oversikt over disse handlingene:
 - **Rutenett/Listevisning**: Bytt mellom to visningsmoduser: tabellvisning og miniatyrvisning. Tabellvisningen presenterer filer i en liste, mens miniatyrvisningen viser visuelle representasjoner av filene, noe som gjør det lettere å identifisere innhold med et blikk.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Gjeldende mappe flere handlinger-meny" image="/docs/guide/evermusic/evermusic-guide-connections/img/connect-folder-options.webp" >}}
+  {{< ls-card title="" subtitle="Gjeldende mappe flere handlinger-meny" image="/docs/guide/evermusic/evermusic-guide-connections/img/connect-folder-options.webp" >}}
 {{< /cards >}}
 
 ## Rediger online-filer
@@ -212,7 +212,7 @@ Når du trenger å administrere flere filer i skylagringen din på Evermusic, ka
 - **Utfør ulike handlinger**: Når du har valgt filene eller mappene du vil administrere, har du tilgang til flere handlinger tilpasset dine behov:
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Valgmodus for online-filer" image="/docs/guide/evermusic/evermusic-guide-connections/img/connect-selection-mode.webp" >}}
+  {{< ls-card title="" subtitle="Valgmodus for online-filer" image="/docs/guide/evermusic/evermusic-guide-connections/img/connect-selection-mode.webp" >}}
 {{< /cards >}}
 
 ## Filhandlinger
@@ -233,7 +233,7 @@ Trykk på den for å avsløre en liste over tilgjengelige handlinger:
 - **Slette**: Vær forsiktig med denne handlingen, da den permanent fjerner filen fra skylagringen. Denne slettingen kan ikke angres.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flere handlinger-meny for én enkelt fil" image="/docs/guide/evermusic/evermusic-guide-connections/img/connect-single-folder-more-options.webp" >}}
+  {{< ls-card title="" subtitle="Flere handlinger-meny for én enkelt fil" image="/docs/guide/evermusic/evermusic-guide-connections/img/connect-single-folder-more-options.webp" >}}
 {{< /cards >}}
 
 Hvis listen over handlinger overskrider tilgjengelig skjermlass, bla ganske enkelt ned i handlingsmenyen for å få tilgang til ytterligere alternativer.

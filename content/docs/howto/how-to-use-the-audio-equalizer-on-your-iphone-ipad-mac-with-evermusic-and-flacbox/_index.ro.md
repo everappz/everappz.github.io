@@ -7,7 +7,7 @@ tags: ["muzică", "audio", "egalizator", "10 benzi", "amplificare", "configurare
 keywords: ["egalizator audio iPhone", "presetări EQ Evermusic", "egalizator 10 benzi Flacbox", "reglare bas înalte iOS", "egalizator Mac aplicație muzică", "amplificare audio cu preamplificator", "presetări sunet personalizate"]
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **Rezumat:** Evermusic și Flacbox includ un egalizator audio profesional cu 10 benzi cu presetări (Rock, Hip-Hop, Bass Booster și altele), creare de presetări personalizate și un preamplificator pentru amplificarea volumului. Disponibil pe iPhone, iPad și Mac.
@@ -105,26 +105,26 @@ Ridicați-vă experiența muzicală, adaptați-vă audio-ul la orice scenariu ș
 
 ## Întrebări frecvente
 
-{{% details title="Funcționează egalizatorul cu toate formatele audio?" closed="true" %}}
+{{% ls-details title="Funcționează egalizatorul cu toate formatele audio?" closed="true" %}}
 Da. EQ-ul cu 10 benzi din Evermusic și Flacbox funcționează cu MP3, FLAC, AAC, WAV, ALAC, OGG și toate celelalte formate acceptate.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Se vor aplica setările EQ la toate melodiile?" closed="true" %}}
+{{% ls-details title="Se vor aplica setările EQ la toate melodiile?" closed="true" %}}
 Da. Odată ce activați egalizatorul și selectați o presetare, aceasta se aplică la toate redările până când o schimbați sau o dezactivați.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Pot crea mai mult de o presetare personalizată?" closed="true" %}}
+{{% ls-details title="Pot crea mai mult de o presetare personalizată?" closed="true" %}}
 Da. Puteți crea, salva și comuta între mai multe presetări personalizate. Utilizați funcția de export pentru a le salva.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Preamplificatorul provoacă distorsiune?" closed="true" %}}
+{{% ls-details title="Preamplificatorul provoacă distorsiune?" closed="true" %}}
 Poate, dacă este setat prea sus. Urmăriți indicatorii de nivel audio în timp ce reglați. Dacă nivelurile sunt tăiate (ating vârful), reduceți ușor câștigul preamplificatorului.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Este egalizatorul disponibil atât pe Evermusic, cât și pe Flacbox?" closed="true" %}}
+{{% ls-details title="Este egalizatorul disponibil atât pe Evermusic, cât și pe Flacbox?" closed="true" %}}
 Da. Ambele aplicații includ același egalizator cu 10 benzi cu presetări, presetări personalizate și preamplificator.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Pot partaja presetările mele EQ cu altcineva?" closed="true" %}}
+{{% ls-details title="Pot partaja presetările mele EQ cu altcineva?" closed="true" %}}
 Da. Utilizați opțiunea Exportare configurație pentru a salva presetările într-un fișier, apoi partajați-l. Cealaltă persoană îl poate importa folosind Importare configurație.
-{{% /details %}}
+{{% /ls-details %}}

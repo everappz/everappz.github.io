@@ -33,7 +33,7 @@ readingTime: 14
 Στην επάνω δεξιά γωνία της οθόνης Αρχεία υπάρχει ένα κουμπί Μεταφορές (εικονίδιο με περιστρεφόμενα βέλη). Πατήστε το για να ανοίξετε την Ουρά Μεταφορών όπου παρακολουθείτε κάθε λήψη και αποστολή σε όλες τις πηγές σας.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Αρχεία Evervideo σε Συνδεδεμένες Αποθηκεύσεις" image="/docs/guide/evervideo/img/evervideo-files-connected-storages.webp" >}}
+  {{< ls-card title="" subtitle="Αρχεία Evervideo σε Συνδεδεμένες Αποθηκεύσεις" image="/docs/guide/evervideo/img/evervideo-files-connected-storages.webp" >}}
 {{< /cards >}}
 
 ## Σύνδεση σε Αποθήκευση Cloud
@@ -41,7 +41,7 @@ readingTime: 14
 Η ενότητα Αποθήκευση Cloud του tab Αρχεία είναι ο τόπος όπου βρίσκεται κάθε συνδεδεμένος λογαριασμός, NAS, media server και ροή — δίπλα-δίπλα, σε μία κυλιόμενη λίστα.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Ενότητα Αποθήκευσης Cloud Evervideo στο Tab Αρχεία" image="/docs/guide/evervideo/img/evervideo-connections.webp" >}}
+  {{< ls-card title="" subtitle="Ενότητα Αποθήκευσης Cloud Evervideo στο Tab Αρχεία" image="/docs/guide/evervideo/img/evervideo-connections.webp" >}}
 {{< /cards >}}
 
 - Ανοίξτε το tab **Αρχεία**.
@@ -51,7 +51,7 @@ readingTime: 14
 - Εισάγετε τα διαπιστευτήρια σας στην επίσημη σελίδα εξουσιοδότησης του παρόχου cloud, στη συνέχεια πατήστε **Ολοκλήρωση**.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evervideo Σύνδεση Υπηρεσίας Αποθήκευσης Cloud" image="/docs/guide/evervideo/img/evervideo-connect-cloud-storage.webp" >}}
+  {{< ls-card title="" subtitle="Evervideo Σύνδεση Υπηρεσίας Αποθήκευσης Cloud" image="/docs/guide/evervideo/img/evervideo-connect-cloud-storage.webp" >}}
 {{< /cards >}}
 
 Αν αντιμετωπίσετε προβλήματα, ελέγξτε τη σύνδεσή σας στο διαδίκτυο και τα στοιχεία σύνδεσης / κωδικό πρόσβασης. Στην Premium έκδοση της εφαρμογής μπορείτε να προσθέσετε απεριόριστο αριθμό υπηρεσιών· η δωρεάν έκδοση υποστηρίζει μέχρι τρεις.
@@ -161,7 +161,7 @@ readingTime: 14
 - Αν χρειάζεται, εισάγετε τα στοιχεία σύνδεσής σας για να ολοκληρώσετε τη σύνδεση.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evervideo Διαθέσιμες Συσκευές στο Τοπικό Δίκτυο" image="/docs/guide/evervideo/img/evervideo-available-devices.webp" >}}
+  {{< ls-card title="" subtitle="Evervideo Διαθέσιμες Συσκευές στο Τοπικό Δίκτυο" image="/docs/guide/evervideo/img/evervideo-available-devices.webp" >}}
 {{< /cards >}}
 
 ## Wi-Fi Drive
@@ -169,7 +169,7 @@ readingTime: 14
 Το Wi-Fi Drive σας επιτρέπει να μεταφέρετε αρχεία ασύρματα από τον υπολογιστή σας στη συσκευή iOS μέσω οποιουδήποτε προγράμματος περιήγησης επιτραπέζιου υπολογιστή, Finder ή Εξερεύνηση Αρχείων. Η συσκευή και ο υπολογιστής σας πρέπει να βρίσκονται στο ίδιο δίκτυο Wi-Fi.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evervideo Wi-Fi Drive" image="/docs/guide/evervideo/img/evervideo-wifi-drive.webp" >}}
+  {{< ls-card title="" subtitle="Evervideo Wi-Fi Drive" image="/docs/guide/evervideo/img/evervideo-wifi-drive.webp" >}}
 {{< /cards >}}
 
 ### Ενεργοποίηση Wi-Fi Drive
@@ -201,7 +201,7 @@ readingTime: 14
 Πατήστε οποιαδήποτε συνδεδεμένη υπηρεσία cloud για να ανοίξετε το πρόγραμμα περιήγησης αρχείων της. Οι φάκελοι εμφανίζουν μικρογραφίες βίντεο όπου είναι διαθέσιμες, και η επιλογή ενός βίντεο ξεκινά αμέσως την αναπαραγωγή ενώ συνεχίζεται η ροή του υπόλοιπου αρχείου στο παρασκήνιο.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evervideo Περιήγηση Φακέλων σε Συνδεδεμένες Αποθηκεύσεις" image="/docs/guide/evervideo/img/evervideo-all-connected-device-folders.webp" >}}
+  {{< ls-card title="" subtitle="Evervideo Περιήγηση Φακέλων σε Συνδεδεμένες Αποθηκεύσεις" image="/docs/guide/evervideo/img/evervideo-all-connected-device-folders.webp" >}}
 {{< /cards >}}
 
 ## Γρήγορη Πρόσβαση
@@ -209,7 +209,7 @@ readingTime: 14
 Η ενότητα Γρήγορης Πρόσβασης βρίσκεται στην κορυφή του tab Αρχεία. Σας παρέχει γρήγορη πρόσβαση στα αγαπημένα και πρόσφατα ανοιγμένα αρχεία και φακέλους — τόσο από υπηρεσίες cloud όσο και από την αποθήκευση στη συσκευή. Κάθε φορά που ανοίγετε ένα αρχείο ή φάκελο από το cloud, προστίθεται στη λίστα Πρόσφατα Ανοιγμένα. Μπορείτε να επισημάνετε βαθιά ένθετους φακέλους ως Αγαπημένα για γρήγορη πρόσβαση χωρίς να ψάχνετε μέσα στη δομή καταλόγου.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Online Σύνδεσμοι Evervideo και Γρήγορη Πρόσβαση" image="/docs/guide/evervideo/img/evervideo-connections-online-links.webp" >}}
+  {{< ls-card title="" subtitle="Online Σύνδεσμοι Evervideo και Γρήγορη Πρόσβαση" image="/docs/guide/evervideo/img/evervideo-connections-online-links.webp" >}}
 {{< /cards >}}
 
 ## Αρχεία σε Αυτήν την Εφαρμογή
@@ -217,7 +217,7 @@ readingTime: 14
 Αυτή η ενότητα εμφανίζει αρχεία και φακέλους που αποθηκεύονται στον κατάλογο Έγγραφα με sandbox του Evervideo — όλα όσα κατεβάσατε από το cloud, μεταφέρατε μέσω Wi-Fi Drive, αντιγράψατε μέσω Κοινής Χρήσης Αρχείων Finder ή εισαγάγατε από άλλη εφαρμογή.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Αρχεία Evervideo σε Αυτήν την Εφαρμογή" image="/docs/guide/evervideo/img/evervideo-files-in-this-application.webp" >}}
+  {{< ls-card title="" subtitle="Αρχεία Evervideo σε Αυτήν την Εφαρμογή" image="/docs/guide/evervideo/img/evervideo-files-in-this-application.webp" >}}
 {{< /cards >}}
 
 ### Φάκελος Εγγράφων
@@ -225,7 +225,7 @@ readingTime: 14
 Ο φάκελος Έγγραφα είναι η ρίζα όλων των στοιχείων εντός του Αρχεία σε Αυτήν την Εφαρμογή. Μπορείτε να δημιουργήσετε υποφακέλους, να μετονομάσετε αρχεία, να τα μετακινήσετε και να τα ομαδοποιήσετε όπως θέλετε.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Τοπικά Αρχεία Evervideo — Φάκελος Εγγράφων" image="/docs/guide/evervideo/img/evervideo-local-files-documents.webp" >}}
+  {{< ls-card title="" subtitle="Τοπικά Αρχεία Evervideo — Φάκελος Εγγράφων" image="/docs/guide/evervideo/img/evervideo-local-files-documents.webp" >}}
 {{< /cards >}}
 
 ## Αρχεία σε Αυτό το iPhone / iPad / Mac
@@ -238,7 +238,7 @@ readingTime: 14
 Μπορείτε επίσης να χρησιμοποιήσετε Σύνδεση Φακέλου για να δημιουργήσετε σύνδεσμο σε έναν φάκελο στη συσκευή σας με πρόσβαση ανάγνωσης / εγγραφής — ιδανικό για εργασία με φάκελο σε iCloud Drive ή συνδεδεμένη μονάδα USB χωρίς αντιγραφή οτιδήποτε.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Αρχεία Evervideo σε Αυτή τη Συσκευή" image="/docs/guide/evervideo/img/evervideo-files-on-this-device.webp" >}}
+  {{< ls-card title="" subtitle="Αρχεία Evervideo σε Αυτή τη Συσκευή" image="/docs/guide/evervideo/img/evervideo-files-on-this-device.webp" >}}
 {{< /cards >}}
 
 ## Ειδικοί Φάκελοι
@@ -276,7 +276,7 @@ readingTime: 14
 Πατήστε **"..."** στην επάνω δεξιά γωνία και επιλέξτε **Επιλογή** για να εισέλθετε στη λειτουργία επιλογής. Εμφανίζονται πλαίσια ελέγχου δίπλα σε κάθε αρχείο και φάκελο. Πατήστε για να επιλέξετε ένα ή περισσότερα στοιχεία, στη συνέχεια εκτελέστε μαζικές ενέργειες: Αναπαραγωγή Επόμενου, Αναπαραγωγή Αργότερα, Προσθήκη στη Βιβλιοθήκη Πολυμέσων, Προσθήκη σε Λίστα Αναπαραγωγής, Αντιγραφή, Αποστολή, Μετακίνηση, Μετονομασία ή Διαγραφή.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Λειτουργία Επιλογής Evervideo στον Διαχειριστή Αρχείων" image="/docs/guide/evervideo/img/evervideo-selection-mode-in-files.webp" >}}
+  {{< ls-card title="" subtitle="Λειτουργία Επιλογής Evervideo στον Διαχειριστή Αρχείων" image="/docs/guide/evervideo/img/evervideo-selection-mode-in-files.webp" >}}
 {{< /cards >}}
 
 Αν προτιμάτε να αντιμετωπίζετε τη συνδεδεμένη αποθήκευση cloud ως μόνο για ανάγνωση (για να αποτρέψετε τυχαίες διαγραφές), ενεργοποιήστε Ρυθμίσεις → Διαχειριστής Αρχείων → Επεξεργασία Online Αρχείων → Απενεργοποίηση για να αποκρύψετε όλες τις καταστρεπτικές λειτουργίες από τη διεπαφή.
@@ -318,13 +318,13 @@ readingTime: 14
 Στην επάνω δεξιά γωνία του tab Αρχεία υπάρχει ένα κουμπί **Μεταφορές** (εικονίδιο με περιστρεφόμενα βέλη). Πατήστε το για να ανοίξετε την Ουρά Μεταφορών — μια λίστα κάθε ενεργής λήψης και αποστολής σε όλες τις πηγές σας, με πρόοδο πραγματικού χρόνου, ταχύτητα και εκτιμώμενο χρόνο ανά αρχείο.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Ουρά Μεταφορών Αρχείων Evervideo" image="/docs/guide/evervideo/img/evervideo-file-transfers.webp" >}}
+  {{< ls-card title="" subtitle="Ουρά Μεταφορών Αρχείων Evervideo" image="/docs/guide/evervideo/img/evervideo-file-transfers.webp" >}}
 {{< /cards >}}
 
 Μπορείτε να παύσετε, να συνεχίσετε, να επαναλάβετε αποτυχημένες μεταφορές, να αναδιατάξετε στοιχεία για να δώσετε προτεραιότητα σε συγκεκριμένες λήψεις ή να τα ακυρώσετε μεμονωμένα. Μπορείτε επίσης να ρυθμίσετε την ταχύτητα ουράς μεταφοράς (μέγιστες παράλληλες εργασίες), τον τύπο δικτύου (μόνο Wi-Fi ή Wi-Fi + Κινητό) και τις μεταφορές παρασκηνίου στις Ρυθμίσεις → Διαχειριστής Αρχείων.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Ενέργειες Evervideo στην Ουρά Μεταφορών Αρχείων" image="/docs/guide/evervideo/img/evervideo-file-transfers-actions.webp" >}}
+  {{< ls-card title="" subtitle="Ενέργειες Evervideo στην Ουρά Μεταφορών Αρχείων" image="/docs/guide/evervideo/img/evervideo-file-transfers-actions.webp" >}}
 {{< /cards >}}
 
 ## Offline Λειτουργία και Συγχρονισμένοι Εκτός Σύνδεσης Φάκελοι

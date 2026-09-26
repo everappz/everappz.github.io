@@ -33,7 +33,7 @@ La pestaña Archivos se divide en secciones claras que aparecen en este orden en
 En la esquina superior derecha de la pantalla Archivos hay un botón de Transferencias (un icono de flechas giratorias). Tócalo para abrir la Cola de Transferencias donde monitoreas cada descarga y carga en todas tus fuentes.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Archivos Evervideo en Almacenamientos Conectados" image="/docs/guide/evervideo/img/evervideo-files-connected-storages.webp" >}}
+  {{< ls-card title="" subtitle="Archivos Evervideo en Almacenamientos Conectados" image="/docs/guide/evervideo/img/evervideo-files-connected-storages.webp" >}}
 {{< /cards >}}
 
 ## Conectar al Almacenamiento en la Nube
@@ -41,7 +41,7 @@ En la esquina superior derecha de la pantalla Archivos hay un botón de Transfer
 La sección de Almacenamiento en la Nube de la pestaña Archivos es donde vive cada cuenta conectada, NAS, servidor multimedia y transmisión — uno al lado del otro, en una lista con desplazamiento.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Sección de Almacenamiento en la Nube de Evervideo en la Pestaña Archivos" image="/docs/guide/evervideo/img/evervideo-connections.webp" >}}
+  {{< ls-card title="" subtitle="Sección de Almacenamiento en la Nube de Evervideo en la Pestaña Archivos" image="/docs/guide/evervideo/img/evervideo-connections.webp" >}}
 {{< /cards >}}
 
 - Abre la pestaña **Archivos**.
@@ -51,7 +51,7 @@ La sección de Almacenamiento en la Nube de la pestaña Archivos es donde vive c
 - Ingresa tus credenciales en la página de autorización oficial del proveedor de la nube, luego toca **Hecho**.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evervideo Conectar un Servicio de Almacenamiento en la Nube" image="/docs/guide/evervideo/img/evervideo-connect-cloud-storage.webp" >}}
+  {{< ls-card title="" subtitle="Evervideo Conectar un Servicio de Almacenamiento en la Nube" image="/docs/guide/evervideo/img/evervideo-connect-cloud-storage.webp" >}}
 {{< /cards >}}
 
 Si encuentras algún problema, verifica tu conexión a internet y tu nombre de usuario / contraseña. En la versión Premium de la app, puedes agregar un número ilimitado de servicios; la versión gratuita admite hasta tres.
@@ -161,7 +161,7 @@ Esta sección muestra cada dispositivo en tu red local al que puedes conectarte 
 - Si es necesario, ingresa tus datos de inicio de sesión para completar la conexión.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evervideo Dispositivos Disponibles en la Red Local" image="/docs/guide/evervideo/img/evervideo-available-devices.webp" >}}
+  {{< ls-card title="" subtitle="Evervideo Dispositivos Disponibles en la Red Local" image="/docs/guide/evervideo/img/evervideo-available-devices.webp" >}}
 {{< /cards >}}
 
 ## Wi-Fi Drive
@@ -169,7 +169,7 @@ Esta sección muestra cada dispositivo en tu red local al que puedes conectarte 
 Wi-Fi Drive te permite transferir archivos inalámbricamente desde tu ordenador a tu dispositivo iOS mediante cualquier navegador de escritorio, Finder o Explorador de archivos. Tu dispositivo y ordenador deben estar en la misma red Wi-Fi.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evervideo Wi-Fi Drive" image="/docs/guide/evervideo/img/evervideo-wifi-drive.webp" >}}
+  {{< ls-card title="" subtitle="Evervideo Wi-Fi Drive" image="/docs/guide/evervideo/img/evervideo-wifi-drive.webp" >}}
 {{< /cards >}}
 
 ### Activar Wi-Fi Drive
@@ -201,7 +201,7 @@ Conecta una unidad USB o tarjeta SD a tu iPhone, iPad o Mac mediante el adaptado
 Toca cualquier servicio en la nube conectado para abrir su navegador de archivos. Las carpetas muestran miniaturas de video cuando están disponibles, y tocar un video inicia la reproducción inmediatamente mientras continúa transmitiendo el resto del archivo en segundo plano.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evervideo Navegación de Carpetas en Almacenamientos Conectados" image="/docs/guide/evervideo/img/evervideo-all-connected-device-folders.webp" >}}
+  {{< ls-card title="" subtitle="Evervideo Navegación de Carpetas en Almacenamientos Conectados" image="/docs/guide/evervideo/img/evervideo-all-connected-device-folders.webp" >}}
 {{< /cards >}}
 
 ## Acceso Rápido
@@ -209,7 +209,7 @@ Toca cualquier servicio en la nube conectado para abrir su navegador de archivos
 La sección de Acceso Rápido se encuentra en la parte superior de la pestaña Archivos. Te da acceso rápido a tus archivos y carpetas favoritas y abiertos recientemente — tanto de servicios en la nube como del almacenamiento del dispositivo. Siempre que abres un archivo o carpeta desde la nube, se añade a la lista de Abiertos Recientemente. Puedes marcar carpetas profundamente anidadas como Favoritos para acceder a ellas rápidamente sin navegar por la estructura de directorios.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evervideo Enlaces en Línea y Acceso Rápido" image="/docs/guide/evervideo/img/evervideo-connections-online-links.webp" >}}
+  {{< ls-card title="" subtitle="Evervideo Enlaces en Línea y Acceso Rápido" image="/docs/guide/evervideo/img/evervideo-connections-online-links.webp" >}}
 {{< /cards >}}
 
 ## Archivos en Esta Aplicación
@@ -217,7 +217,7 @@ La sección de Acceso Rápido se encuentra en la parte superior de la pestaña A
 Esta sección muestra archivos y carpetas almacenados en el directorio Documentos con sandbox de Evervideo — todo lo que has descargado de la nube, transferido vía Wi-Fi Drive, copiado a través de Compartición de Archivos de Finder, o importado desde otra app.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evervideo Archivos en Esta Aplicación" image="/docs/guide/evervideo/img/evervideo-files-in-this-application.webp" >}}
+  {{< ls-card title="" subtitle="Evervideo Archivos en Esta Aplicación" image="/docs/guide/evervideo/img/evervideo-files-in-this-application.webp" >}}
 {{< /cards >}}
 
 ### Carpeta de Documentos
@@ -225,7 +225,7 @@ Esta sección muestra archivos y carpetas almacenados en el directorio Documento
 La carpeta de Documentos es la raíz de todo dentro de Archivos en Esta Aplicación. Puedes crear subcarpetas, renombrar archivos, moverlos y agruparlos como quieras.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evervideo Archivos Locales — Carpeta de Documentos" image="/docs/guide/evervideo/img/evervideo-local-files-documents.webp" >}}
+  {{< ls-card title="" subtitle="Evervideo Archivos Locales — Carpeta de Documentos" image="/docs/guide/evervideo/img/evervideo-local-files-documents.webp" >}}
 {{< /cards >}}
 
 ## Archivos en Este iPhone / iPad / Mac
@@ -238,7 +238,7 @@ Esta sección muestra videos ubicados en tu dispositivo pero en diferentes aplic
 También puedes usar Conectar una Carpeta para crear un enlace a una carpeta en tu dispositivo con acceso de lectura / escritura — perfecto para trabajar con una carpeta en iCloud Drive o una unidad USB conectada sin copiar nada.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evervideo Archivos en Este Dispositivo" image="/docs/guide/evervideo/img/evervideo-files-on-this-device.webp" >}}
+  {{< ls-card title="" subtitle="Evervideo Archivos en Este Dispositivo" image="/docs/guide/evervideo/img/evervideo-files-on-this-device.webp" >}}
 {{< /cards >}}
 
 ## Carpetas Especiales
@@ -276,7 +276,7 @@ Cuando abres una carpeta, toca el botón **"..."** en la esquina superior derech
 Toca **"..."** en la esquina superior derecha y elige **Seleccionar** para entrar en el modo de selección. Aparecen casillas de verificación junto a cada archivo y carpeta. Toca para seleccionar uno o varios elementos, luego realiza acciones en lote: Reproducir Siguiente, Reproducir Más Tarde, Agregar a la Biblioteca Multimedia, Agregar a una Lista de Reproducción, Copiar, Subir, Mover, Renombrar o Eliminar.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Modo de Selección de Evervideo en el Gestor de Archivos" image="/docs/guide/evervideo/img/evervideo-selection-mode-in-files.webp" >}}
+  {{< ls-card title="" subtitle="Modo de Selección de Evervideo en el Gestor de Archivos" image="/docs/guide/evervideo/img/evervideo-selection-mode-in-files.webp" >}}
 {{< /cards >}}
 
 Si prefieres tratar el almacenamiento en la nube conectado como de solo lectura (para evitar eliminaciones accidentales), activa Ajustes → Gestor de Archivos → Editar Archivos en Línea → Desactivado para ocultar todas las operaciones destructivas de la interfaz.
@@ -318,13 +318,13 @@ Para cada carpeta en tu almacenamiento en la nube, tienes muchas acciones dispon
 En la esquina superior derecha de la pestaña Archivos hay un botón de **Transferencias** (un icono de flechas giratorias). Tócalo para abrir la Cola de Transferencias — una lista de cada descarga y carga activa en todas tus fuentes, con progreso en tiempo real, velocidad y ETA por archivo.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Cola de Transferencias de Archivos de Evervideo" image="/docs/guide/evervideo/img/evervideo-file-transfers.webp" >}}
+  {{< ls-card title="" subtitle="Cola de Transferencias de Archivos de Evervideo" image="/docs/guide/evervideo/img/evervideo-file-transfers.webp" >}}
 {{< /cards >}}
 
 Puedes pausar, reanudar, reintentar transferencias fallidas, reorganizar elementos para priorizar descargas específicas, o cancelarlos individualmente. También puedes ajustar la velocidad de la cola de transferencias (máximo de tareas paralelas), el tipo de red (solo Wi-Fi o Wi-Fi + datos móviles) y las transferencias en segundo plano en Ajustes → Gestor de Archivos.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evervideo Acciones en la Cola de Transferencias de Archivos" image="/docs/guide/evervideo/img/evervideo-file-transfers-actions.webp" >}}
+  {{< ls-card title="" subtitle="Evervideo Acciones en la Cola de Transferencias de Archivos" image="/docs/guide/evervideo/img/evervideo-file-transfers-actions.webp" >}}
 {{< /cards >}}
 
 ## Modo Sin Conexión y Carpetas Sin Conexión Sincronizadas

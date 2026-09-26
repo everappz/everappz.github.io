@@ -17,7 +17,7 @@ readingTime: 6
 La sección de Listas de reproducción te proporciona las herramientas para organizar tus pistas en listas. Incluye una vista de contenido que muestra todas tus listas de reproducción creadas, un botón "..." en la barra de navegación que ofrece varias acciones relacionadas con listas de reproducción, y una barra de herramientas de navegación con botones de "Buscar", "Reproducir todo" y "Reproducción aleatoria". Además, cada lista de reproducción individual tiene un botón "..." cerca del título de la lista de reproducción, que ofrece una variedad de acciones específicas para esa lista de reproducción.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Pantalla de Listas de Reproducción de Evermusic" image="/docs/guide/evermusic/evermusic-guide-playlists/img/playlists-main.webp" >}}
+  {{< ls-card title="" subtitle="Pantalla de Listas de Reproducción de Evermusic" image="/docs/guide/evermusic/evermusic-guide-playlists/img/playlists-main.webp" >}}
 {{< /cards >}}
 
 ## Crear una lista de reproducción
@@ -25,7 +25,7 @@ La sección de Listas de reproducción te proporciona las herramientas para orga
 Para crear una nueva lista de reproducción, toca el botón "+" o el botón "..." en la esquina superior derecha de la barra de navegación, selecciona "Nueva lista de reproducción" y asigna un nombre a tu lista de reproducción. Después de nombrarlo, toca "Guardar".
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Crear una Nueva Lista de Reproducción" image="/docs/guide/evermusic/evermusic-guide-playlists/img/playlists-add-new.webp" >}}
+  {{< ls-card title="" subtitle="Crear una Nueva Lista de Reproducción" image="/docs/guide/evermusic/evermusic-guide-playlists/img/playlists-add-new.webp" >}}
 {{< /cards >}}
 
 Esto abre el diálogo "Añadir canciones", donde puedes elegir qué pistas añadir a la nueva lista de reproducción. Las pistas se clasifican por tipo de fuente y tienes varias opciones:
@@ -42,7 +42,7 @@ Por defecto, puedes añadir una pista a una lista de reproducción solo una vez.
 En Evermusic, hemos añadido la funcionalidad de importación de archivos M3U, para que no tengas que crear listas de reproducción manualmente.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Importar Lista de Reproducción desde una Fuente de Archivo" image="/docs/guide/evermusic/evermusic-guide-playlists/img/playlists-import-from-files.webp" >}}
+  {{< ls-card title="" subtitle="Importar Lista de Reproducción desde una Fuente de Archivo" image="/docs/guide/evermusic/evermusic-guide-playlists/img/playlists-import-from-files.webp" >}}
 {{< /cards >}}
 
 Primero, ve a la sección "Listas de reproducción". Luego, toca el botón "Más" en la esquina superior derecha. Del menú que aparece, selecciona la opción "Importar lista de reproducción".
@@ -62,7 +62,7 @@ La app analizará el archivo de lista de reproducción, creará una lista de pis
 Cuando abres una lista de reproducción, aparece la "Pantalla de detalle de lista de reproducción". En esta pantalla, encontrarás un botón "..." en la esquina superior derecha con opciones de lista de reproducción y tres botones bajo la imagen del artwork: "Buscar", "Continuar reproducción", "Reproducir todo" y "Reproducción aleatoria". Además, hay una casilla de verificación de "Modo sin conexión".
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Pantalla de Detalle de Lista de Reproducción" image="/docs/guide/evermusic/evermusic-guide-playlists/img/playlists-detail-screen.webp" >}}
+  {{< ls-card title="" subtitle="Pantalla de Detalle de Lista de Reproducción" image="/docs/guide/evermusic/evermusic-guide-playlists/img/playlists-detail-screen.webp" >}}
 {{< /cards >}}
 
 - **Continuar reproducción**: Restaurar la posición de reproducción para esta lista de reproducción.
@@ -87,7 +87,7 @@ Puedes acceder a las acciones de una lista de reproducción tocando el botón ".
 - **Eliminar lista de reproducción:** Elimina la lista de reproducción de la Biblioteca de música. Ten en cuenta que esta acción no se puede deshacer.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Menú de Más Acciones para una Lista de Reproducción" image="/docs/guide/evermusic/evermusic-guide-playlists/img/playlists-more-actions-for-separate-playlist.webp" >}}
+  {{< ls-card title="" subtitle="Menú de Más Acciones para una Lista de Reproducción" image="/docs/guide/evermusic/evermusic-guide-playlists/img/playlists-more-actions-for-separate-playlist.webp" >}}
 {{< /cards >}}
 
 ## Más acciones para lista de reproducción en la pantalla de detalle
@@ -113,7 +113,7 @@ Puedes acceder a las acciones de una lista de reproducción tocando el botón ".
 Para cambiar el orden de las canciones en una lista de reproducción, toca el botón "..." en la esquina superior derecha y selecciona "Seleccionar" para entrar en el modo de selección. Usa el control de reordenación y gestos de arrastrar y soltar cerca de cada pista para moverlas hacia arriba o hacia abajo. Tocar en el control de reordenación moverá la pista a la parte superior de la lista. Para salir del modo de selección y aplicar cambios, toca "Hecho".
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Cambiar el Orden de Canciones en una Lista de Reproducción" image="/docs/guide/evermusic/evermusic-guide-playlists/img/playlists-change-songs-order.webp" >}}
+  {{< ls-card title="" subtitle="Cambiar el Orden de Canciones en una Lista de Reproducción" image="/docs/guide/evermusic/evermusic-guide-playlists/img/playlists-change-songs-order.webp" >}}
 {{< /cards >}}
 
 ## Cambiar la imagen de portada de la lista de reproducción
@@ -129,7 +129,7 @@ Abre la lista de reproducción y toca el botón "..." en la esquina superior der
 Abre la lista de reproducción, toca el botón "..." en la esquina superior derecha y selecciona "Seleccionar" para entrar en el modo de selección. Elige las pistas que quieres eliminar y toca el botón "Eliminar de la lista de reproducción" en la parte inferior de la pantalla. Confirma los cambios tocando "Hecho".
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Modo de Selección dentro de una Lista de Reproducción" image="/docs/guide/evermusic/evermusic-guide-playlists/img/playlists-selection-mode-in-playlist-details-screen.webp" >}}
+  {{< ls-card title="" subtitle="Modo de Selección dentro de una Lista de Reproducción" image="/docs/guide/evermusic/evermusic-guide-playlists/img/playlists-selection-mode-in-playlist-details-screen.webp" >}}
 {{< /cards >}}
 
 ## Opciones de pista
@@ -137,7 +137,7 @@ Abre la lista de reproducción, toca el botón "..." en la esquina superior dere
 Cada pista en una lista de reproducción tiene una lista de acciones, accesible tocando el botón "...". Si no puedes ver todas las acciones, desplázate hacia abajo para verlas. Puedes eliminar la pista de la lista de reproducción, descargarla, editar etiquetas de audio y más.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Menú de Opciones de Pista en una Lista de Reproducción" image="/docs/guide/evermusic/evermusic-guide-playlists/img/playlists-track-options.webp" >}}
+  {{< ls-card title="" subtitle="Menú de Opciones de Pista en una Lista de Reproducción" image="/docs/guide/evermusic/evermusic-guide-playlists/img/playlists-track-options.webp" >}}
 {{< /cards >}}
 
 - **Reproducir a continuación:** Añade la pista a la parte superior de la cola del reproductor.

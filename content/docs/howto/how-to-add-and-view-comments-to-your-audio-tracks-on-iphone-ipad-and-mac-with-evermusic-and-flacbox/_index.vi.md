@@ -7,7 +7,7 @@ tags: ["evermusic", "âm thanh", "trình biên tập", "thẻ", "nhận xét"]
 readingTime: 4
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **Tóm tắt:** Evermusic và Flacbox cho phép bạn thêm nhận xét văn bản với đánh dấu thời gian vào bất kỳ bản nhạc nào, sau đó hiển thị chúng đồng bộ trong quá trình phát. Bạn cũng có thể xem lời bài hát nhúng và tệp LRC. Tính năng nhận xét và lời bài hát miễn phí trong cả hai ứng dụng.
@@ -97,22 +97,22 @@ Việc thêm nhận xét vào các bản nhạc trong Evermusic và Flacbox đá
 
 ## Câu hỏi thường gặp
 
-{{% details title="Tính năng nhận xét có miễn phí trong Evermusic và Flacbox không?" closed="true" %}}
+{{% ls-details title="Tính năng nhận xét có miễn phí trong Evermusic và Flacbox không?" closed="true" %}}
 Có. Thêm, chỉnh sửa và xem nhận xét và lời bài hát là tính năng miễn phí trong cả Evermusic và Flacbox.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Tôi nên sử dụng định dạng nào cho nhận xét có thời gian?" closed="true" %}}
+{{% ls-details title="Tôi nên sử dụng định dạng nào cho nhận xét có thời gian?" closed="true" %}}
 Sử dụng định dạng đánh dấu thời gian LRC: `[MM:SS.SS]` theo sau là văn bản của bạn. Ví dụ: `[01:23.45]Đây là nhận xét của tôi`. Bạn có thể gán nhiều dấu thời gian cho một dòng.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Tôi có thể xem lời bài hát và tệp LRC trên cùng một màn hình không?" closed="true" %}}
+{{% ls-details title="Tôi có thể xem lời bài hát và tệp LRC trên cùng một màn hình không?" closed="true" %}}
 Có. Màn hình Nhận xét hỗ trợ ba chế độ bạn có thể vuốt chuyển đổi: Nhận xét, Lời bài hát nhúng và Tệp LRC.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Tôi có thể tìm tệp lời bài hát LRC ở đâu?" closed="true" %}}
+{{% ls-details title="Tôi có thể tìm tệp lời bài hát LRC ở đâu?" closed="true" %}}
 Lời bài hát LRC miễn phí có sẵn trên các trang web như Lyricsify.com. Bạn có thể nhúng chúng vào thẻ lời bài hát của tệp âm thanh hoặc đặt tệp `.lrc` riêng bên cạnh tệp âm thanh của bạn.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Tôi có cần ứng dụng riêng để chỉnh sửa thẻ lời bài hát không?" closed="true" %}}
+{{% ls-details title="Tôi có cần ứng dụng riêng để chỉnh sửa thẻ lời bài hát không?" closed="true" %}}
 Bạn có thể chỉnh sửa nhận xét trực tiếp trong Evermusic và Flacbox. Để chỉnh sửa thẻ lời bài hát cụ thể, sử dụng Evertag, trình biên tập siêu dữ liệu âm thanh miễn phí cho iOS và macOS.
-{{% /details %}}
+{{% /ls-details %}}

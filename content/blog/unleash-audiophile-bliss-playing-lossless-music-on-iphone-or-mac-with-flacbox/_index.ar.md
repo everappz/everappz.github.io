@@ -12,7 +12,7 @@ authors:
     image: "/images/about/artem-meleshko-founder-everappz.webp"
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 **ملخص:** ثبّت [Flacbox من App Store](https://apps.apple.com/us/app/flacbox-flac-player-music/id1097564256?mt=8) لتشغيل FLAC وDSD وALAC وأكثر من 120 صيغة صوتية أخرى على iPhone وMac. استورد الملفات عبر iTunes File Sharing أو Wi-Fi Drive أو التخزين السحابي. لا حاجة لتحويل الملفات. يفك Flacbox تشفير الصيغ بلا فقدان أصلياً للتشغيل بجودة الاستوديو الكاملة.
 
@@ -111,26 +111,26 @@ authors:
 
 ## الأسئلة الشائعة
 
-{{< details title="هل يتطلب Flacbox اشتراكاً لتشغيل الملفات بلا فقدان؟" closed="true" >}}
+{{< ls-details title="هل يتطلب Flacbox اشتراكاً لتشغيل الملفات بلا فقدان؟" closed="true" >}}
 يقدم Flacbox وظائف التشغيل الأساسية بدون اشتراك. يمكنك استيراد وتشغيل FLAC وDSD وALAC وصيغ أخرى بلا فقدان فوراً بعد التحميل. بعض الميزات المتقدمة قد تتطلب ترقية مميزة.
-{{< /details >}}
+{{< /ls-details >}}
 
-{{< details title="هل يمكن لـ Flacbox تشغيل ملفات DSD بدون تحويلها إلى PCM أولاً؟" closed="true" >}}
+{{< ls-details title="هل يمكن لـ Flacbox تشغيل ملفات DSD بدون تحويلها إلى PCM أولاً؟" closed="true" >}}
 نعم، يدعم Flacbox تشغيل DSD الأصلي بما في ذلك DSD64 وDSD128 وDSD256. للحصول على أفضل النتائج، اقرن جهازك بـ DAC خارجي متوافق مع DSD.
-{{< /details >}}
+{{< /ls-details >}}
 
-{{< details title="كيف أنقل مجموعات موسيقى كبيرة بلا فقدان إلى iPhone؟" closed="true" >}}
+{{< ls-details title="كيف أنقل مجموعات موسيقى كبيرة بلا فقدان إلى iPhone؟" closed="true" >}}
 يوفر Flacbox عدة خيارات نقل. Wi-Fi Drive يتيح الرفع من أي متصفح. يمكنك أيضاً استخدام iTunes File Sharing أو ربط خدمات التخزين السحابي. لأسرع نقل، اربط محرك أقراص خارجي عبر محول Lightning أو USB-C.
-{{< /details >}}
+{{< /ls-details >}}
 
-{{< details title="هل هناك فرق في جودة الصوت بين FLAC وALAC في Flacbox؟" closed="true" >}}
+{{< ls-details title="هل هناك فرق في جودة الصوت بين FLAC وALAC في Flacbox؟" closed="true" >}}
 كلاهما ترميزان بلا فقدان ينتجان إخراجاً صوتياً متطابقاً عند فك التشفير. يتعامل Flacbox مع كليهما بنفس الدقة.
-{{< /details >}}
+{{< /ls-details >}}
 
-{{< details title="ما أفضل طريقة لتشغيل ملفات FLAC على iPhone؟" closed="true" >}}
+{{< ls-details title="ما أفضل طريقة لتشغيل ملفات FLAC على iPhone؟" closed="true" >}}
 ثبّت Flacbox من App Store، ثم استورد ملفات FLAC عبر iTunes File Sharing أو Wi-Fi Drive أو التخزين السحابي أو محرك خارجي USB/Lightning. يفك Flacbox تشفير FLAC أصلياً حتى 32-bit/384 kHz.
-{{< /details >}}
+{{< /ls-details >}}
 
-{{< details title="هل يعمل Flacbox مع NAS وخوادم المنزل؟" closed="true" >}}
+{{< ls-details title="هل يعمل Flacbox مع NAS وخوادم المنزل؟" closed="true" >}}
 نعم. يتصل Flacbox بأجهزة NAS وخوادم المنزل عبر بروتوكولات SMB وWebDAV وDLNA. يتيح لك هذا بث مكتبتك بلا فقدان بدون نسخ الملفات إلى جهازك.
-{{< /details >}}
+{{< /ls-details >}}

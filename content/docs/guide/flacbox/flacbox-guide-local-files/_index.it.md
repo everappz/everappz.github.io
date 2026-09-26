@@ -19,7 +19,7 @@ La sezione File Locali funge da hub per la gestione dei file nella cartella Docu
 Questo gestore file integrato consente di modificare i file (rinominare, spostare, copiare, caricare, eliminare), monitorare i trasferimenti e offre diversi metodi per importare file audio nell'app — download diretti dal cloud, sincronizzazione in modalità offline, drive flash USB, Wi-Fi Drive e Finder File Sharing.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Schermata File Locali di Flacbox" image="/docs/guide/flacbox/img/local-files.webp" >}}
+  {{< ls-card title="" subtitle="Schermata File Locali di Flacbox" image="/docs/guide/flacbox/img/local-files.webp" >}}
 {{< /cards >}}
 
 ## Scaricare File dal Cloud Storage
@@ -102,7 +102,7 @@ Mostra file e cartelle memorizzati nella directory Documenti dell'app e in iClou
 Mostra i file situati sul tuo dispositivo ma in applicazioni diverse. Puoi importarli in questa applicazione usando il selettore file di sistema. Per attivare il selettore, scegli **Apri File…** per selezionare file o **Apri Cartelle…** per selezionare cartelle. Le istruzioni dettagliate su come importare musica locale archiviata su iPhone o Mac sono disponibili [qui](/docs/howto/how-to-play-local-music-stored-on-your-iphone-or-mac).
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox Cartelle del Dispositivo Connesso" image="/docs/guide/flacbox/img/connected-device-folders.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox Cartelle del Dispositivo Connesso" image="/docs/guide/flacbox/img/connected-device-folders.webp" >}}
 {{< /cards >}}
 
 Puoi anche connettere una cartella sul tuo dispositivo e avere accesso rapido al suo contenuto. Usa la voce di menu **Connetti una Cartella** e scegli una cartella sul tuo dispositivo. Tocca **Fatto** e l'app crea un collegamento a quella cartella con accesso in lettura / scrittura, permettendoti di gestire i file direttamente da questa app. Per disconnettere una cartella sul tuo dispositivo, tocca il pulsante **Altre azioni** e scegli **Disconnettere**.
@@ -137,7 +137,7 @@ Se devi modificare più file, attiva la modalità selezione toccando il pulsante
 - **Eliminare** — rimuove il file o la cartella selezionati dal dispositivo. **Questa azione è irreversibile.**
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox Modalità Selezione File Locali" image="/docs/guide/flacbox/img/local-files-selection-mode.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox Modalità Selezione File Locali" image="/docs/guide/flacbox/img/local-files-selection-mode.webp" >}}
 {{< /cards >}}
 
 ## Menu Opzioni
@@ -161,7 +161,7 @@ Per ogni file o cartella nell'app, sono disponibili diverse azioni, accessibili 
 - **Eliminare** — elimina il file o la cartella dal dispositivo. **Questa azione è irreversibile** e non puoi ripristinare i file eliminati.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox Altre Azioni per un File Locale" image="/docs/guide/flacbox/img/local-files-more-actions-for-file.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox Altre Azioni per un File Locale" image="/docs/guide/flacbox/img/local-files-more-actions-for-file.webp" >}}
 {{< /cards >}}
 
 ## Cartelle Offline

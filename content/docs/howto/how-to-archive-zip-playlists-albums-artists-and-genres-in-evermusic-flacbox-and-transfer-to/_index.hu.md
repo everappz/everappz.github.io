@@ -7,7 +7,7 @@ tags: ["evermusic", "flacbox", "archívum", "biztonsági mentés", "exportálás
 readingTime: 2
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **Összefoglaló:** Az Evermusic és a Flacbox bármely lejátszási listát, albumot, előadót vagy műfajt archiválhat egy ZIP fájlba M3U lejátszási listával, albumborítóval és az összes hangfájllal. Vigye át a ZIP-et egy másik eszközre, csomagolja ki, és importálja az M3U-t a lejátszási lista azonnali újraépítéséhez.
@@ -104,22 +104,22 @@ Ennek az útmutatónak a követésével hatékonyan archiválhatja és átviheti
 
 ## Gyakran ismételt kérdések
 
-{{% details title="Mi szerepel a ZIP archívumban?" closed="true" %}}
+{{% ls-details title="Mi szerepel a ZIP archívumban?" closed="true" %}}
 Az archívum tartalmazza az összes hangfájlt, egy M3U lejátszási lista fájlt, amely megőrzi a számok sorrendjét, és a lejátszási lista albumborítóját külön képfájlként mentve.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Működik az archiválás felhőfájlokkal?" closed="true" %}}
+{{% ls-details title="Működik az archiválás felhőfájlokkal?" closed="true" %}}
 Igen. Az alkalmazás automatikusan letölti az összes felhőben tárolt fájlt, mielőtt hozzáadná őket az archívumhoz. A letöltés előrehaladását a fájlátvitelek részben követheti nyomon.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Archiválhatok albumokat, előadókat és műfajokat is?" closed="true" %}}
+{{% ls-details title="Archiválhatok albumokat, előadókat és műfajokat is?" closed="true" %}}
 Igen. A «Hozzáadás az archívumhoz» lehetőség elérhető lejátszási listákhoz, albumokhoz, előadókhoz és műfajokhoz. A folyamat mindegyiknél azonos.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Hogyan vihetem át az archívumot másik eszközre?" closed="true" %}}
+{{% ls-details title="Hogyan vihetem át az archívumot másik eszközre?" closed="true" %}}
 Feltöltheti a ZIP-et felhőtárhelyre (Google Drive, Dropbox stb.), használhatja az AirDrop-ot, vagy vezeték nélkül átviheti az Evermusic és Flacbox beépített Wi-Fi Drive funkciójával.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Megmarad a lejátszási lista szerkezete az átvitel után?" closed="true" %}}
+{{% ls-details title="Megmarad a lejátszási lista szerkezete az átvitel után?" closed="true" %}}
 Igen. Az M3U fájl relatív útvonalakkal tárolja a lejátszási lista szerkezetét. Az új eszközön történő kicsomagolás után importálja az M3U fájlt a lejátszási lista újraépítéséhez az összes számmal az eredeti sorrendben.
-{{% /details %}}
+{{% /ls-details %}}

@@ -7,7 +7,7 @@ tags: ["musica", "usb", "esterno", "ixpand", "sandisk", "iphone", "evermusic"]
 readingTime: 3
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **Riepilogo:** Evermusic ti consente di riprodurre musica direttamente da una chiavetta SanDisk iXpand sul tuo iPhone o iPad. Collega l'unità, apri Evermusic e inizia ad ascoltare -- non è necessario copiare file sul tuo dispositivo. Supporta gestione file, playlist, equalizzatore e streaming AirPlay.
@@ -69,22 +69,22 @@ Con Evermusic e la chiavetta SanDisk iXpand, avrai la libertà di goderti la tua
 
 ## FAQ
 
-{{% details title="Quali modelli di chiavetta iXpand supporta Evermusic?" closed="true" %}}
+{{% ls-details title="Quali modelli di chiavetta iXpand supporta Evermusic?" closed="true" %}}
 Evermusic supporta le chiavette SanDisk iXpand con protocolli V1, V2, V3, V6 e V7. Puoi verificare la compatibilità nelle Impostazioni del tuo iPhone sotto Generale > Info > iXpand Flash Drive.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Posso riprodurre musica dall'unità USB senza copiare file sul mio iPhone?" closed="true" %}}
+{{% ls-details title="Posso riprodurre musica dall'unità USB senza copiare file sul mio iPhone?" closed="true" %}}
 Sì. Evermusic riproduce file audio direttamente dalla chiavetta iXpand. Non è necessario copiare nulla nell'archiviazione interna del tuo dispositivo.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Quali formati audio supporta Evermusic dalle unità USB?" closed="true" %}}
+{{% ls-details title="Quali formati audio supporta Evermusic dalle unità USB?" closed="true" %}}
 Evermusic supporta tutti i principali formati audio inclusi MP3, FLAC, AAC, WAV, AIFF, OGG e altri. Qualsiasi file audio memorizzato sulla tua chiavetta iXpand può essere riprodotto direttamente.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Posso fare streaming di musica dalla chiavetta iXpand agli altoparlanti AirPlay?" closed="true" %}}
+{{% ls-details title="Posso fare streaming di musica dalla chiavetta iXpand agli altoparlanti AirPlay?" closed="true" %}}
 Sì. Durante la riproduzione di musica dall'unità USB, puoi fare streaming audio su dispositivi compatibili con AirPlay come altoparlanti Sonos, Apple TV e Google Chromecast.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Cosa devo fare se la mia chiavetta iXpand non viene riconosciuta?" closed="true" %}}
+{{% ls-details title="Cosa devo fare se la mia chiavetta iXpand non viene riconosciuta?" closed="true" %}}
 Assicurati che nessun'altra app stia utilizzando l'unità. Prova a scollegarla e ricollegarla. Se il tuo modello non è supportato, usa un adattatore Apple Lightning a USB per collegare l'unità come dispositivo USB standard.
-{{% /details %}}
+{{% /ls-details %}}

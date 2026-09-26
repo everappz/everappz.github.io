@@ -17,7 +17,7 @@ Bağlantılar ekranında müziğinizi barındıran her kaynağı bağlayabilirsi
 Ekran, tek bir iCloud Drive hesabından birden fazla bulut ve NAS cihazına yayılmış bir kitaplığa kadar ölçeklenmesi için açıkça etiketlenmiş bölümlere ayrılmıştır: en üstte Hızlı Erişim (favori bulut klasörleriniz), Bulut depolama (eklediğiniz hesaplar), Yerel ağ (Bonjour ile keşfedilen cihazlar), Bilgisayar (Wi-Fi Drive, iTunes Dosya Paylaşımı, SMB), Harici aksesuarlar (bağlı USB flash sürücüler) ve Diğer hizmetler (Last.fm ve benzerleri).
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evermusic Connections Screen" image="/docs/guide/evermusic/evermusic-guide-connections/img/connect-main.webp" >}}
+  {{< ls-card title="" subtitle="Evermusic Connections Screen" image="/docs/guide/evermusic/evermusic-guide-connections/img/connect-main.webp" >}}
 {{< /cards >}}
 
 ## Bulut depolamaya bağlan
@@ -29,7 +29,7 @@ Ekran, tek bir iCloud Drive hesabından birden fazla bulut ve NAS cihazına yay�
 - Tamamlandı'ya dokunun.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Connect Cloud Storage Provider Picker" image="/docs/guide/evermusic/evermusic-guide-connections/img/connect-add-storage.webp" >}}
+  {{< ls-card title="" subtitle="Connect Cloud Storage Provider Picker" image="/docs/guide/evermusic/evermusic-guide-connections/img/connect-add-storage.webp" >}}
 {{< /cards >}}
 
 Herhangi bir sorunla karşılaşırsanız, internet bağlantınızı ve oturum açma kimlik bilgilerinizi iki kez kontrol edin ve o hizmet için iki faktörlü kimlik doğrulamanın doğru şekilde yapılandırıldığından emin olun.  
@@ -70,7 +70,7 @@ Bağlı bulut hesaplarını uygulamada da bağlantısını kesebilirsiniz ve aut
   - **Bağlantıyı Kes**: Uygulama ile bulut hizmeti arasındaki bağlantıyı tamamen kesmek istiyorsanız 'Bağlantıyı Kes'i seçin. Bu seçeneğin uygulamanın müzik kitaplığından bu bulut hizmetiyle ilişkili tüm şarkıları kaldıracağını, ancak sunucuda kalacağını unutmayın.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Connected Cloud Storage More Actions Menu" image="/docs/guide/evermusic/evermusic-guide-connections/img/connect-storage-more-actions.webp" >}}
+  {{< ls-card title="" subtitle="Connected Cloud Storage More Actions Menu" image="/docs/guide/evermusic/evermusic-guide-connections/img/connect-storage-more-actions.webp" >}}
 {{< /cards >}}
 
 ## Bilgisayara veya NAS'a bağlan
@@ -89,7 +89,7 @@ Bağlantınız başarılıysa "Bulut depolama" bölümünde bağlı depolamayı 
 SMB kullanarak MAC veya PC'nizi nasıl bağlayacağınıza dair tam öğretici [burada](/docs/howto/stream-your-music-from-mac-or-pc-to-iphone-using-smb/) mevcuttur.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="SMB Connection Settings" image="/docs/guide/evermusic/evermusic-guide-connections/img/connect-smb-settings.webp" >}}
+  {{< ls-card title="" subtitle="SMB Connection Settings" image="/docs/guide/evermusic/evermusic-guide-connections/img/connect-smb-settings.webp" >}}
 {{< /cards >}}
 
 ## WebDAV kullanarak NAS'a bağlan
@@ -99,7 +99,7 @@ URL, http://server-name formatında veya sunucu SSL destekliyorsa https://server
 WebDAV protokolünü kullanarak NAS'ı nasıl bağlayacağınıza dair tam öğretici [burada](/docs/howto/how-to-connect-nas-storage-using-webdav-and-listen-to-music-on-your-iphone-or-mac) mevcuttur.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="WebDAV Connection Settings" image="/docs/guide/evermusic/evermusic-guide-connections/img/connect-webdav-settings.webp" >}}
+  {{< ls-card title="" subtitle="WebDAV Connection Settings" image="/docs/guide/evermusic/evermusic-guide-connections/img/connect-webdav-settings.webp" >}}
 {{< /cards >}}
 
 ## DLNA kullanarak Bilgisayara veya NAS'a bağlan
@@ -107,7 +107,7 @@ WebDAV protokolünü kullanarak NAS'ı nasıl bağlayacağınıza dair tam öğr
 DLNA protokolünü kullanarak Windows PC'nizde veya kişisel NAS'ınızda bulunan bir müzik kitaplığını paylaşabilir ve bu kitaplığa [burada](/docs/howto/how-to-enable-dlna-media-server-on-windows-10-and-play-your-music-on-iphone) açıklandığı gibi uygulamada erişebilirsiniz. DLNA popüler ve yaygın olarak kullanılan bir protokoldür, ancak yalnızca müzik çalmanıza veya indirmenize izin verir. Sunucuya dosya yükleyemez veya yeni klasörler oluşturamazsınız.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="DLNA Connection Settings" image="/docs/guide/evermusic/evermusic-guide-connections/img/connect-dlna-settings.webp" >}}
+  {{< ls-card title="" subtitle="DLNA Connection Settings" image="/docs/guide/evermusic/evermusic-guide-connections/img/connect-dlna-settings.webp" >}}
 {{< /cards >}}
 
 ## Mevcut cihazlar
@@ -120,7 +120,7 @@ Bir cihazla bağlantı kurmak için şu adımları izleyin:
 - Gerekirse bağlantıyı tamamlamak için giriş bilgilerinizi girin.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Available Devices on the Local Network" image="/docs/guide/evermusic/evermusic-guide-connections/img/connect-available-devices.webp" >}}
+  {{< ls-card title="" subtitle="Available Devices on the Local Network" image="/docs/guide/evermusic/evermusic-guide-connections/img/connect-available-devices.webp" >}}
 {{< /cards >}}
 
 ## Wi-Fi Drive
@@ -146,7 +146,7 @@ iOS cihazınıza karşılık gelen web sayfası tarayıcıda açıldığında, b
 Sürükleyip bıraktığınız dosyalar iOS cihazınıza aktarılmaya başlar ve uygulama içinde erişilebilir olur.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Wi-Fi Drive Server Settings" image="/docs/guide/evermusic/evermusic-guide-connections/img/connect-wifidrive-settings.webp" >}}
+  {{< ls-card title="" subtitle="Wi-Fi Drive Server Settings" image="/docs/guide/evermusic/evermusic-guide-connections/img/connect-wifidrive-settings.webp" >}}
 {{< /cards >}}
 
 WiFi-Drive kullanarak dosyaların kablosuz olarak nasıl aktarılacağına dair ayrıntılı talimatlar [burada](/docs/howto/how-to-transfer-files-wirelessly-from-a-computer-to-an-iphone-using-wifi-drive) mevcuttur.
@@ -162,7 +162,7 @@ iTunes Dosya Paylaşımı, Mac'inizdeki Finder uygulamasını ve lightning kablo
 iTunes dosya paylaşımının nasıl kullanılacağına dair ayrıntılı talimatlar [burada](/docs/howto/how-to-play-local-itunes-files-on-my-iphone/) mevcuttur.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="iTunes / Finder File Sharing on Mac" image="/docs/guide/evermusic/evermusic-guide-connections/img/connect-itunes-file-sharing.webp" >}}
+  {{< ls-card title="" subtitle="iTunes / Finder File Sharing on Mac" image="/docs/guide/evermusic/evermusic-guide-connections/img/connect-itunes-file-sharing.webp" >}}
 {{< /cards >}}
 
 ## USB flash kart bağla
@@ -183,7 +183,7 @@ Gezinme çubuğunun altında uygun biçimde bulunan üst araç çubuğu, kolay e
 - **Tümünü Karıştır**: "Tümünü Oynat"a benzer, ancak bu eylem mevcut klasörü ve alt klasörlerini tarar ancak dosyaları ses oynatıcı kuyruğuna eklemeden önce karıştırır. Müziğinizi biraz çeşitlilik için rastgele sırayla keyifle dinlemenin harika bir yoludur.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Top Toolbar Inside a Cloud Folder" image="/docs/guide/evermusic/evermusic-guide-connections/img/connect-top-toolbar.webp" >}}
+  {{< ls-card title="" subtitle="Top Toolbar Inside a Cloud Folder" image="/docs/guide/evermusic/evermusic-guide-connections/img/connect-top-toolbar.webp" >}}
 {{< /cards >}}
 
 ## Klasör Seçenekleri
@@ -200,7 +200,7 @@ Bu eylemlerin dökümü şöyledir:
 - **Izgara/Liste Görünümü**: İki görüntüleme modu arasında geçiş yapın: tablo görünümü ve küçük resim görünümü. Tablo görünümü dosyaları bir listede sunarken, küçük resim görünümü dosyaların görsel temsillerini gösterir, bakışta içeriği tanımlamayı kolaylaştırır.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Current Folder More Actions Menu" image="/docs/guide/evermusic/evermusic-guide-connections/img/connect-folder-options.webp" >}}
+  {{< ls-card title="" subtitle="Current Folder More Actions Menu" image="/docs/guide/evermusic/evermusic-guide-connections/img/connect-folder-options.webp" >}}
 {{< /cards >}}
 
 ## Çevrimiçi Dosyaları Düzenle
@@ -212,7 +212,7 @@ Evermusic'te bulut depolamada birden fazla dosyayı yönetmeniz gerektiğinde, e
 - **Çeşitli Eylemler Gerçekleştirin**: Yönetmek istediğiniz dosya veya klasörleri seçtikten sonra, ihtiyaçlarınıza göre özelleştirilmiş çeşitli eylemlere erişebileceksiniz:
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Selection Mode for Online Files" image="/docs/guide/evermusic/evermusic-guide-connections/img/connect-selection-mode.webp" >}}
+  {{< ls-card title="" subtitle="Selection Mode for Online Files" image="/docs/guide/evermusic/evermusic-guide-connections/img/connect-selection-mode.webp" >}}
 {{< /cards >}}
 
 ## Dosya eylemleri
@@ -233,7 +233,7 @@ Mevcut eylemlerin listesini ortaya çıkarmak için ona dokunun:
 - **Silmek**: Dosyayı bulut depolamanızdan kalıcı olarak kaldırdığı için bu eylemle dikkatli olun. Bu silme işlemi geri alınamaz.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="More Actions Menu for a Single File" image="/docs/guide/evermusic/evermusic-guide-connections/img/connect-single-folder-more-options.webp" >}}
+  {{< ls-card title="" subtitle="More Actions Menu for a Single File" image="/docs/guide/evermusic/evermusic-guide-connections/img/connect-single-folder-more-options.webp" >}}
 {{< /cards >}}
 
 Eylemler listesi mevcut ekran alanını aşarsa, ek seçeneklere erişmek için eylemler menüsünde aşağı kaydırın.

@@ -7,7 +7,7 @@ tags: ["zene", "felhő", "streamelés", "lejátszó", "meghajtó", "icloud"]
 readingTime: 5
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **Röviden:** Töltsön fel zenét az iCloud Drive-ra, telepítse az [Evermusic](/products/evermusic)-ot (MP3/WAV-hoz) vagy a [Flacbox](/products/flacbox)-ot (FLAC/DSD-hez), csatlakoztassa az iCloud Drive mappáját, és streameljen közvetlenül az eszköz tárhelyének felhasználása nélkül.
@@ -29,8 +29,8 @@ Mielőtt elkezdheti élvezni iCloud Drive zenéjét iPhone-ján vagy Mac-jén, t
 1. Lépjen az App Store-ba és töltse le az **Evermusic**-ot, ha zenéje szabványos hangformátumokban, például mp3 vagy wav formátumban van tárolva. Ha veszteségmentes zenéje van dsd vagy flac formátumban, válassza a **Flacbox**-ot. Mindkét alkalmazás elérhető iOS-re és MacOS-re.
 
 {{< cards >}}
-  {{< card link="https://apps.apple.com/us/app/evermusic-cloud-music-player/id885367198" title="Evermusic letöltése iOS-re" icon="download" tag="Ingyenes" >}}
-  {{< card link="https://apps.apple.com/us/app/flacbox-flac-player-equalizer/id1097564256" title="Flacbox letöltése iOS-re" icon="download" tag="Ingyenes" >}}
+  {{< ls-card link="https://apps.apple.com/us/app/evermusic-cloud-music-player/id885367198" title="Evermusic letöltése iOS-re" icon="download" tag="Ingyenes" >}}
+  {{< ls-card link="https://apps.apple.com/us/app/flacbox-flac-player-equalizer/id1097564256" title="Flacbox letöltése iOS-re" icon="download" tag="Ingyenes" >}}
 {{< /cards >}}
 
 - MacOS-hez:
@@ -38,8 +38,8 @@ Mielőtt elkezdheti élvezni iCloud Drive zenéjét iPhone-ján vagy Mac-jén, t
 1. Látogassa meg az App Store-t Mac-jén, és telepítse az **Evermusic**-ot vagy a **Flacbox**-ot zenei formátum preferenciái alapján.
 
 {{< cards >}}
-  {{< card link="https://apps.apple.com/us/app/evermusic-cloud-music-player/id1564384601" title="Evermusic letöltése Mac-re" icon="download" tag="Ingyenes" >}}
-  {{< card link="https://apps.apple.com/us/app/flacbox-hires-music-player/id1594027432" title="Flacbox letöltése Mac-re" icon="download" tag="Ingyenes" >}}
+  {{< ls-card link="https://apps.apple.com/us/app/evermusic-cloud-music-player/id1564384601" title="Evermusic letöltése Mac-re" icon="download" tag="Ingyenes" >}}
+  {{< ls-card link="https://apps.apple.com/us/app/flacbox-hires-music-player/id1594027432" title="Flacbox letöltése Mac-re" icon="download" tag="Ingyenes" >}}
 {{< /cards >}}
 
 Miután telepítette az alkalmazást iPhone-jára vagy Mac-jére, készen áll a folytatásra.
@@ -215,22 +215,22 @@ Tehát, kezdje el a streamelést, és szóljon a zene!
 
 ## FAQ
 
-{{% details title="Milyen hangformátumokat streamelhetek az iCloud Drive-ról?" closed="true" %}}
+{{% ls-details title="Milyen hangformátumokat streamelhetek az iCloud Drive-ról?" closed="true" %}}
 Az Evermusic támogatja az MP3, WAV, AAC és egyéb szabványos formátumokat. A Flacbox hozzáadja a FLAC, DSD, OGG és OPUS támogatását. Válassza a zenegyűjteményéhez illő alkalmazást.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Az iCloud Drive-ról való streamelés használja az eszköz tárhelyét?" closed="true" %}}
+{{% ls-details title="Az iCloud Drive-ról való streamelés használja az eszköz tárhelyét?" closed="true" %}}
 Nem. Mind az Evermusic, mind a Flacbox közvetlenül az iCloud Drive-ról streameli a hangot anélkül, hogy fájlokat töltene le az eszközre. Opcionálisan letölthet egyes számokat offline hallgatáshoz.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Használhatom az iCloud Drive zenét offline is?" closed="true" %}}
+{{% ls-details title="Használhatom az iCloud Drive zenét offline is?" closed="true" %}}
 Igen. Érintse meg a három pont menüt bármely számnál, és válassza a letöltés opciót. A fájl helyben mentésre kerül offline lejátszáshoz.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Miért áll meg a zeném vagy pufferel lejátszás közben?" closed="true" %}}
+{{% ls-details title="Miért áll meg a zeném vagy pufferel lejátszás közben?" closed="true" %}}
 Ezt általában lassú vagy instabil internetkapcsolat okozza. Engedélyezze a hanglejátszó gyorsítótárat a Beállításokban a következő számok előzetes letöltéséhez és a megszakítások elkerüléséhez.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Ingyenes az iCloud Drive-ról való zenestreamelés?" closed="true" %}}
+{{% ls-details title="Ingyenes az iCloud Drive-ról való zenestreamelés?" closed="true" %}}
 Mind az Evermusic, mind a Flacbox ingyenesen letölthető. Az iCloud Drive 5 GB ingyenes tárhelyet kínál. Az iCloud tárhely csomagját az Apple-n keresztül frissítheti, ha több helyre van szüksége.
-{{% /details %}}
+{{% /ls-details %}}

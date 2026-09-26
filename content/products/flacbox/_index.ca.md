@@ -16,15 +16,15 @@ screenshots:
   - "https://everappz.com/products/flacbox/screenshots/2048x2732/6.png"
 ---
 
-{{% sr-only %}}
+{{% ls-sr-only %}}
 Flacbox és un reproductor d'àudio d'alta resolució per a iPhone i Mac desenvolupat per Everappz, una empresa de programari espanyola. Amb més d'1 milió de descàrregues a tot el món, Flacbox està dissenyat per a audiòfils i entusiastes de la música que volen reproduir fitxers d'àudio sense pèrdua i d'alta resolució als seus dispositius Apple sense haver de convertir formats. L'aplicació admet de forma nativa més de 120 formats d'àudio, inclosos FLAC, DSD (DSD64, DSD128, DSD256), ALAC, APE, WAV, AIFF, OGG, OPUS, WMA, MKA, MP3, AAC i més. Flacbox es connecta a més de 30 serveis d'emmagatzematge al núvol, inclosos iCloud Drive, Google Drive, Dropbox, OneDrive, MEGA, Box i pCloud, permetent als usuaris reproduir en streaming la seva col·lecció de música d'alta resolució directament des del núvol o descarregar fitxers per a la reproducció sense connexió. Les característiques principals inclouen un equalitzador d'àudio de 10 bandes amb preajustos personalitzables, reproducció amb crossfade i sense talls, control de to i velocitat, reforç de greus, importació i exportació de llistes de reproducció M3U, visualització de lletres, marcadors d'àudio, editor de metadades integrat, integració amb Apple CarPlay, streaming AirPlay i Chromecast, i scrobbling de Last.fm. L'aplicació admet streaming per xarxa local mitjançant protocols SMB, WebDAV i DLNA, reproducció des d'unitats flash USB i transferència de fitxers per Wi-Fi. Flacbox està disponible com a descàrrega gratuïta a l'App Store amb compres opcionals dins l'aplicació que inclouen una subscripció mensual a $4.99, una subscripció anual a $19.99 o una compra única de per vida a $59.99. L'aplicació es va llançar per primera vegada el 2016 i es manté activament amb actualitzacions regulars.
-{{% /sr-only %}}
+{{% /ls-sr-only %}}
 
 
 <!-- force dark theme for this page -->
-{{< force-dark >}}
+{{< ls-force-dark >}}
 
-{{< hextra/hero-container
+{{< ls-hero-container
   image="/products/flacbox/heroimage/hero_1600.png"
   imageWidth="800"
   imageCard="true"
@@ -32,36 +32,36 @@ Flacbox és un reproductor d'àudio d'alta resolució per a iPhone i Mac desenvo
 
 <div class="hx:w-full hx:text-center">
 
-{{< downloads-badge >}}
+{{< ls-downloads-badge >}}
 
 <div class="hx:mt-6 hx:mb-6">
 <div class="hx:flex hx:gap-4 hx:items-center hx:justify-center">
-{{< app-icon src="/images/app_icons/png/Flacbox_Icon-App-1024x1024.png" alt="Flacbox Icon" class="hero-headline-icon" size="80" >}}
-{{< hextra/hero-headline >}}
+{{< ls-app-icon src="/images/app_icons/png/Flacbox_Icon-App-1024x1024.png" alt="Flacbox Icon" class="hero-headline-icon" size="80" >}}
+{{< ls-hero-headline >}}
 Flacbox
-{{< /hextra/hero-headline >}}
+{{< /ls-hero-headline >}}
 </div>
 </div>
 
 <div class="hx:mb-12">
-{{< hextra/hero-centered-subtitle >}}
+{{< ls-hero-centered-subtitle >}}
 <strong>Reproductor i transmissor d'àudio d'alta resolució per a iPhone i MAC</strong>
-{{< /hextra/hero-centered-subtitle >}}
+{{< /ls-hero-centered-subtitle >}}
 </div>
 
 <div class="hx:mb-6">
-{{< hextra/hero-paragraph >}}
+{{< ls-hero-paragraph >}}
 • Reprodueix FLAC, ALAC, APE, DSD i més amb qualitat sense pèrdua  
 • Descarrega música i escolta fora de línia amb control total  
 • Transmet des de Google Drive, Dropbox, NAS o ordinador   
-{{< /hextra/hero-paragraph >}}
+{{< /ls-hero-paragraph >}}
 </div>
 
-{{< app-store-badges products="flacbox:ios, flacbox:macos" >}}
+{{< ls-app-store-badges products="flacbox:ios, flacbox:macos" >}}
 
 </div>
 
-{{< /hextra/hero-container >}}
+{{< /ls-hero-container >}}
 
 <div class="hx:mt-6"></div>
 
@@ -69,7 +69,7 @@ Flacbox
 
 {{< hextra/feature-grid >}}
 
-  {{< hextra/feature-card
+  {{< ls-glass-feature-card
     title="Transmet música sense pèrdua"
     subtitle=`Gaudeix de música sense pèrdua a iPhone, iPad i Mac sense subscripcions.<br><br>
 Connecta el teu emmagatzematge al núvol per transmetre FLAC, ALAC, MKA i més de forma gratuïta. Transmet fàcilment a dispositius Chromecast i AirPlay.<br><br>
@@ -78,7 +78,7 @@ Crea la teva biblioteca musical, organitza les pistes per àlbum, artista i gèn
     style="background: radial-gradient(circle at 50% 80%, rgba(99,102,241,0.15), transparent);"
   >}}
 
-  {{< hextra/feature-card
+  {{< ls-glass-feature-card
     title="Reprodueix àudio d'alta resolució"
     subtitle=`Gaudeix d'un so de qualitat d'estudi amb compatibilitat amb més de 120 formats d'àudio, incloent FLAC, ALAC, WAV, AIFF i DSD.<br><br>
 Flacbox també reprodueix MP3, AAC, OGG, APE, MOD, MKA i contenidors avançats com MKV, MP4 i MOV.<br><br>
@@ -87,7 +87,7 @@ Amb una àmplia compatibilitat de còdecs, tota la teva col·lecció és accessi
     style="background: radial-gradient(circle at 50% 80%, rgba(236,72,153,0.15), transparent);"
   >}}
 
-  {{< hextra/feature-card
+  {{< ls-glass-feature-card
     title="Descarrega i escolta fora de línia"
     subtitle=`Mantén-te connectat a la teva música fins i tot quan estàs fora de línia.<br><br>
 Descarrega àlbums complets, gèneres, llistes de reproducció i pistes al teu dispositiu. Utilitza Wi-Fi Drive o iTunes File Sharing per transferir àudio des del Mac o PC.<br><br>
@@ -102,9 +102,9 @@ Transmet des de memòries USB o emmagatzematge de xarxa (NAS) i gaudeix de tota 
 
 <div class="hx:mt-6"></div>
 
-{{< hextra/section-headline >}}
+{{< ls-section-headline >}}
 Funcions completes
-{{< /hextra/section-headline >}}
+{{< /ls-section-headline >}}
 
 <div class="hx:mt-6"></div>
 
@@ -112,41 +112,41 @@ Funcions completes
 
 {{< cards >}}
 
-  {{< feature-card title="Qualitat d'àudio" subtitle="Gaudeix d'una sortida d'alta fidelitat amb freqüències de mostreig de 8 kHz a 384 kHz, modes de sortida predeterminat o mixt, i compatibilitat amb 1 a 7 canals d'àudio." icon="volume-up" >}}
-  {{< feature-card title="Àudio sense pèrdua i d'alta resolució" subtitle="Reprodueix formats sense pèrdua i d'alta resolució com FLAC, ALAC, WAV, AIFF, APE, WV i DSF (DSD), a més de MP3, AAC, OGG i OPUS, amb freqüències de mostreig de fins a 384 kHz." icon="music-note" >}}
-  {{< feature-card title="Música tracker i MOD" subtitle="Reprodueix de forma nativa música clàssica de tracker i mòdul, incloent els formats MOD, XM, IT i S3M de l'escena chiptune i demoscene que la majoria de reproductors no poden obrir." icon="table" >}}
+  {{< ls-feature-card title="Qualitat d'àudio" subtitle="Gaudeix d'una sortida d'alta fidelitat amb freqüències de mostreig de 8 kHz a 384 kHz, modes de sortida predeterminat o mixt, i compatibilitat amb 1 a 7 canals d'àudio." icon="volume-up" >}}
+  {{< ls-feature-card title="Àudio sense pèrdua i d'alta resolució" subtitle="Reprodueix formats sense pèrdua i d'alta resolució com FLAC, ALAC, WAV, AIFF, APE, WV i DSF (DSD), a més de MP3, AAC, OGG i OPUS, amb freqüències de mostreig de fins a 384 kHz." icon="music-note" >}}
+  {{< ls-feature-card title="Música tracker i MOD" subtitle="Reprodueix de forma nativa música clàssica de tracker i mòdul, incloent els formats MOD, XM, IT i S3M de l'escena chiptune i demoscene que la majoria de reproductors no poden obrir." icon="table" >}}
 
-  {{< feature-card title="Motors d'àudio" subtitle="Tria entre tres motors de reproducció: el motor de sistema estàndard, un versàtil motor FFmpeg i el motor professional BASS™ que desbloqueja efectes, DSP i visualitzacions." icon="switch-horizontal" >}}
-  {{< feature-card title="Efectes d'àudio" subtitle="Dona forma al teu so en temps real amb reverberació, delay, eco, chorus, flanger, phaser, auto-wah, distorsió, un compressor i un crossfeed natural per a auriculars." icon="lightning-bolt" >}}
-  {{< feature-card title="Cadena DSP" subtitle="Munta la teva pròpia cadena de senyal en temps real amb filtres professionals i bandes d'EQ, saturació i un bit crusher, a més de processadors creatius com el tremolo i l'amplada estèreo." icon="chip" >}}
+  {{< ls-feature-card title="Motors d'àudio" subtitle="Tria entre tres motors de reproducció: el motor de sistema estàndard, un versàtil motor FFmpeg i el motor professional BASS™ que desbloqueja efectes, DSP i visualitzacions." icon="switch-horizontal" >}}
+  {{< ls-feature-card title="Efectes d'àudio" subtitle="Dona forma al teu so en temps real amb reverberació, delay, eco, chorus, flanger, phaser, auto-wah, distorsió, un compressor i un crossfeed natural per a auriculars." icon="lightning-bolt" >}}
+  {{< ls-feature-card title="Cadena DSP" subtitle="Munta la teva pròpia cadena de senyal en temps real amb filtres professionals i bandes d'EQ, saturació i un bit crusher, a més de processadors creatius com el tremolo i l'amplada estèreo." icon="chip" >}}
 
-  {{< feature-card title="Equalitzador d'àudio" subtitle="Ajusta el teu so amb un equalitzador multibanda, preajustaments per gènere ja fets, control manual i guany de preamplificador per reforçar pistes fluixes sense saturació." icon="adjustments" >}}
-  {{< feature-card title="Visualitzador de música" subtitle="Contempla visualitzacions animades a pantalla completa que reaccionen en directe a la teva música, tries entre una gran biblioteca de preajustaments o deixes que es vagin succeint automàticament." icon="sparkles" >}}
-  {{< feature-card title="Controls de reproducció" subtitle="Ajusta la velocitat de reproducció sense alterar el to, desa i restaura la cua i la posició, i utilitza un temporitzador de son, la reproducció aleatòria, la repetició i la reproducció en segon pla." icon="play" >}}
+  {{< ls-feature-card title="Equalitzador d'àudio" subtitle="Ajusta el teu so amb un equalitzador multibanda, preajustaments per gènere ja fets, control manual i guany de preamplificador per reforçar pistes fluixes sense saturació." icon="adjustments" >}}
+  {{< ls-feature-card title="Visualitzador de música" subtitle="Contempla visualitzacions animades a pantalla completa que reaccionen en directe a la teva música, tries entre una gran biblioteca de preajustaments o deixes que es vagin succeint automàticament." icon="sparkles" >}}
+  {{< ls-feature-card title="Controls de reproducció" subtitle="Ajusta la velocitat de reproducció sense alterar el to, desa i restaura la cua i la posició, i utilitza un temporitzador de son, la reproducció aleatòria, la repetició i la reproducció en segon pla." icon="play" >}}
 
-  {{< feature-card title="Transmissió al núvol" subtitle="Transmet directament des d'iCloud Drive, Google Drive, Dropbox, OneDrive, Box, MEGA i pCloud, a més de núvols centrats en la privadesa com Internxt i Proton Drive." icon="cloud" >}}
-  {{< feature-card title="Servidors multimèdia" subtitle="Connecta els teus servidors multimèdia personals, incloent Plex, Subsonic, Navidrome, Jellyfin i Emby, per obrir i transmetre tota la teva biblioteca musical." icon="server" >}}
-  {{< feature-card title="Ordinador i NAS" subtitle="Connecta un ordinador o NAS mitjançant SMB, WebDAV, DLNA, FTP, SFTP o NFS, amb compatibilitat nativa amb QNAP, Synology, Nextcloud i WD My Cloud Home." icon="desktop-computer" >}}
+  {{< ls-feature-card title="Transmissió al núvol" subtitle="Transmet directament des d'iCloud Drive, Google Drive, Dropbox, OneDrive, Box, MEGA i pCloud, a més de núvols centrats en la privadesa com Internxt i Proton Drive." icon="cloud" >}}
+  {{< ls-feature-card title="Servidors multimèdia" subtitle="Connecta els teus servidors multimèdia personals, incloent Plex, Subsonic, Navidrome, Jellyfin i Emby, per obrir i transmetre tota la teva biblioteca musical." icon="server" >}}
+  {{< ls-feature-card title="Ordinador i NAS" subtitle="Connecta un ordinador o NAS mitjançant SMB, WebDAV, DLNA, FTP, SFTP o NFS, amb compatibilitat nativa amb QNAP, Synology, Nextcloud i WD My Cloud Home." icon="desktop-computer" >}}
 
-  {{< feature-card title="Targetes flash USB" subtitle="Reprodueix música directament des de targetes SD i memòries flash USB utilitzant lectors externs com el SanDisk iXpand, sense necessitat d'importar ni sincronitzar." icon="inbox" >}}
-  {{< feature-card title="AirPlay i Chromecast" subtitle="Envia la teva música sense fils a Apple TV, HomePod, altaveus intel·ligents i més amb compatibilitat integrada amb AirPlay, AirPlay 2 i Google Chromecast." icon="device-mobile" >}}
-  {{< feature-card title="Apple CarPlay" subtitle="Condueix i escolta amb seguretat amb una pantalla Apple CarPlay senzilla i dedicada per triar i controlar la música des de fonts al núvol, locals i fora de línia." icon="map" >}}
+  {{< ls-feature-card title="Targetes flash USB" subtitle="Reprodueix música directament des de targetes SD i memòries flash USB utilitzant lectors externs com el SanDisk iXpand, sense necessitat d'importar ni sincronitzar." icon="inbox" >}}
+  {{< ls-feature-card title="AirPlay i Chromecast" subtitle="Envia la teva música sense fils a Apple TV, HomePod, altaveus intel·ligents i més amb compatibilitat integrada amb AirPlay, AirPlay 2 i Google Chromecast." icon="device-mobile" >}}
+  {{< ls-feature-card title="Apple CarPlay" subtitle="Condueix i escolta amb seguretat amb una pantalla Apple CarPlay senzilla i dedicada per triar i controlar la música des de fonts al núvol, locals i fora de línia." icon="map" >}}
 
-  {{< feature-card title="Escolta fora de línia" subtitle="Descarrega cançons, àlbums i artistes complets per escoltar-los sense internet, o activa la memòria cau d'àudio per desar automàticament les pistes reproduïdes recentment." icon="download" >}}
-  {{< feature-card title="Sincronització automàtica" subtitle="Mantén la teva biblioteca sincronitzada automàticament entre l'emmagatzematge al núvol i les carpetes locals, de manera que els fitxers afegits nous apareixen sense cap feina manual." icon="refresh" >}}
-  {{< feature-card title="Biblioteca multimèdia" subtitle="Afegeix la teva música i organitza-la automàticament per àlbum, artista, artista de l'àlbum, gènere i compositor utilitzant les etiquetes incrustades als teus fitxers." icon="library" >}}
+  {{< ls-feature-card title="Escolta fora de línia" subtitle="Descarrega cançons, àlbums i artistes complets per escoltar-los sense internet, o activa la memòria cau d'àudio per desar automàticament les pistes reproduïdes recentment." icon="download" >}}
+  {{< ls-feature-card title="Sincronització automàtica" subtitle="Mantén la teva biblioteca sincronitzada automàticament entre l'emmagatzematge al núvol i les carpetes locals, de manera que els fitxers afegits nous apareixen sense cap feina manual." icon="refresh" >}}
+  {{< ls-feature-card title="Biblioteca multimèdia" subtitle="Afegeix la teva música i organitza-la automàticament per àlbum, artista, artista de l'àlbum, gènere i compositor utilitzant les etiquetes incrustades als teus fitxers." icon="library" >}}
 
-  {{< feature-card title="Llistes personalitzades" subtitle="Crea, edita i reordena les teves pròpies llistes de reproducció, fes-les disponibles fora de línia i importa-les o exporta-les en formats M3U, M3U8 i CUE." icon="collection" >}}
-  {{< feature-card title="Gestor de fitxers" subtitle="Gestiona la teva música amb el gestor de fitxers integrat, que fa operacions quotidianes com copiar, moure, canviar el nom i eliminar per mantenir els fitxers en ordre." icon="folder" >}}
-  {{< feature-card title="Editor d'etiquetes ID3" subtitle="Corregeix metadades incorrectes o absents amb l'editor d'etiquetes ID3 integrat, actualitzant el títol, l'artista, l'àlbum, el gènere i més en només uns quants tocs." icon="pencil-alt" >}}
+  {{< ls-feature-card title="Llistes personalitzades" subtitle="Crea, edita i reordena les teves pròpies llistes de reproducció, fes-les disponibles fora de línia i importa-les o exporta-les en formats M3U, M3U8 i CUE." icon="collection" >}}
+  {{< ls-feature-card title="Gestor de fitxers" subtitle="Gestiona la teva música amb el gestor de fitxers integrat, que fa operacions quotidianes com copiar, moure, canviar el nom i eliminar per mantenir els fitxers en ordre." icon="folder" >}}
+  {{< ls-feature-card title="Editor d'etiquetes ID3" subtitle="Corregeix metadades incorrectes o absents amb l'editor d'etiquetes ID3 integrat, actualitzant el títol, l'artista, l'àlbum, el gènere i més en només uns quants tocs." icon="pencil-alt" >}}
 
-  {{< feature-card title="Cerca avançada" subtitle="Troba ràpidament qualsevol cançó, artista o àlbum de tota la teva col·lecció amb una cerca intel·ligent i ràpida pensada per a biblioteques musicals molt grans." icon="search" >}}
-  {{< feature-card title="Accés ràpid" subtitle="Torna directament al que importa amb Reproduïdes recentment, Favorits i Marcadors, mantenint les teves pistes preferides sempre a un sol toc." icon="clock" >}}
-  {{< feature-card title="Lletres i comentaris" subtitle="Visualitza lletres sincronitzades i notes de la cançó dins de cada pista mentre es reprodueix, i afegeix el giny de lletres a la pantalla d'inici per a un accés ràpid d'un cop d'ull." icon="annotation" >}}
+  {{< ls-feature-card title="Cerca avançada" subtitle="Troba ràpidament qualsevol cançó, artista o àlbum de tota la teva col·lecció amb una cerca intel·ligent i ràpida pensada per a biblioteques musicals molt grans." icon="search" >}}
+  {{< ls-feature-card title="Accés ràpid" subtitle="Torna directament al que importa amb Reproduïdes recentment, Favorits i Marcadors, mantenint les teves pistes preferides sempre a un sol toc." icon="clock" >}}
+  {{< ls-feature-card title="Lletres i comentaris" subtitle="Visualitza lletres sincronitzades i notes de la cançó dins de cada pista mentre es reprodueix, i afegeix el giny de lletres a la pantalla d'inici per a un accés ràpid d'un cop d'ull." icon="annotation" >}}
 
-  {{< feature-card title="Ginys" subtitle="Afegeix ginys a la pantalla d'inici que mostren la teva cua de reproducció i et permeten reprendre-la, continuant exactament des d'on ho vas deixar." icon="view-grid" >}}
-  {{< feature-card title="Compatibilitat amb audiollibres" subtitle="Escolta audiollibres amb marcadors, un temporitzador de son, velocitat ajustable i reproducció represa que continua just on ho vas deixar." icon="book-open" >}}
-  {{< feature-card title="Integració amb Last.fm" subtitle="Connecta el teu compte de Last.fm per fer scrobbling de pistes, seguir les teves estadístiques d'escolta i rebre recomanacions musicals personalitzades amb el temps." icon="chart-bar" >}}
+  {{< ls-feature-card title="Ginys" subtitle="Afegeix ginys a la pantalla d'inici que mostren la teva cua de reproducció i et permeten reprendre-la, continuant exactament des d'on ho vas deixar." icon="view-grid" >}}
+  {{< ls-feature-card title="Compatibilitat amb audiollibres" subtitle="Escolta audiollibres amb marcadors, un temporitzador de son, velocitat ajustable i reproducció represa que continua just on ho vas deixar." icon="book-open" >}}
+  {{< ls-feature-card title="Integració amb Last.fm" subtitle="Connecta el teu compte de Last.fm per fer scrobbling de pistes, seguir les teves estadístiques d'escolta i rebre recomanacions musicals personalitzades amb el temps." icon="chart-bar" >}}
 
 {{< /cards >}}
 
@@ -154,9 +154,9 @@ Funcions completes
 
 <div class="hx:mt-6"></div>
 
-{{< hextra/section-headline >}}
+{{< ls-section-headline >}}
 Disseny intuïtiu
-{{< /hextra/section-headline >}}
+{{< /ls-section-headline >}}
 
 <div class="hx:mt-6"></div>
 
@@ -164,7 +164,7 @@ Disseny intuïtiu
 
 {{< cards cols="4">}}
 
-  {{< design-feature-card 
+  {{< ls-design-feature-card 
     image="/products/flacbox/screenshots/2048x2732/1.png" 
     title="Reproductor d'àudio" 
     method="Fill"
@@ -173,7 +173,7 @@ Disseny intuïtiu
     icon="play"
   >}}
 
-  {{< design-feature-card 
+  {{< ls-design-feature-card 
     image="/products/flacbox/screenshots/2048x2732/2.png"  
     title="Equalitzador d'àudio" 
     method="Fill"
@@ -182,7 +182,7 @@ Disseny intuïtiu
     icon="adjustments"
   >}}
 
-  {{< design-feature-card 
+  {{< ls-design-feature-card 
     image="/products/flacbox/screenshots/2048x2732/3.png"  
     title="Gestor de llistes" 
     method="Fill"
@@ -191,7 +191,7 @@ Disseny intuïtiu
     icon="collection"
   >}}
 
-  {{< design-feature-card 
+  {{< ls-design-feature-card 
     image="/products/flacbox/screenshots/2048x2732/5.png"  
     title="Biblioteca multimèdia" 
     method="Fill"
@@ -200,7 +200,7 @@ Disseny intuïtiu
     icon="library"
   >}}
 
-  {{< design-feature-card 
+  {{< ls-design-feature-card 
     image="/products/flacbox/screenshots/2048x2732/7.png"  
     title="Emmagatzematge al núvol" 
     method="Fill"
@@ -209,7 +209,7 @@ Disseny intuïtiu
     icon="cloud"
   >}}
 
-  {{< design-feature-card 
+  {{< ls-design-feature-card 
     image="/products/flacbox/screenshots/2048x2732/8.png"  
     title="iCloud Drive" 
     method="Fill"
@@ -227,48 +227,48 @@ Disseny intuïtiu
 <div class="hx:mt-6"></div>
 
 <div class="hx:w-full">
-{{< appstore-reviews apps="1097564256,1594027432" stars="5,4"  app="Flacbox" >}}
+{{< ls-appstore-reviews apps="1097564256,1594027432" stars="5,4"  app="Flacbox" >}}
 </div>
 
 <div class="hx:mt-6"></div>
 
-{{< hextra/section-headline >}}
+{{< ls-section-headline >}}
    Plans de preus
-{{< /hextra/section-headline >}}
+{{< /ls-section-headline >}}
 
 <div class="hx:mt-6"></div>
 
 <div class="hx:w-full">
 
-{{< pricing-plans >}}
+{{< ls-pricing-plans >}}
 
 </div>
 
 <div class="hx:mt-6"></div>
 
 <div class="hx:w-full hx:mx-auto hx:flex hx:flex-col hx:items-center">
-  {{< hextra/info-paragraph border="true" >}}
+  {{< ls-info-paragraph border="true" >}}
    <strong>Compartir en família</strong>: Totes les compres i subscripcions admeten Compartir en família, permetent-te compartir l'accés Premium amb la teva família.<br><strong>Accés universal</strong>: Els plans de per vida i de subscripció es comparteixen entre dispositius iOS i Mac mitjançant la sincronització d'iCloud.<br><strong>Preus</strong>: Els preus es mostren en dòlars americans per als Estats Units. El preu final pot variar segons la teva regió.  
-  {{< /hextra/info-paragraph >}}
+  {{< /ls-info-paragraph >}}
 </div>
 
 <div class="hx:mt-6"></div>
 
 <div class="hx:w-full">
-{{< app-details heading="true" >}}
+{{< ls-app-details heading="true" >}}
 </div>
 
 <div class="hx:mt-6"></div>
 
-{{< hextra/section-headline >}}
+{{< ls-section-headline >}}
    Preguntes freqüents
-{{< /hextra/section-headline >}}
+{{< /ls-section-headline >}}
 
 <div class="hx:mt-6"></div>
 
 <div class="hx:w-full">
 
-{{% details title="Com funciona Flacbox?" closed="true" %}}
+{{% ls-details title="Com funciona Flacbox?" closed="true" %}}
 Flacbox és un reproductor de música d'alta resolució que et permet gestionar les pistes d'àudio com fitxers normals.<br>
 Pots pujar tota la teva col·lecció musical a serveis al núvol com Dropbox, Google Drive o un NAS personal i reproduir música directament des del núvol amb control total.<br><br>
 No cal sincronitzar amb iTunes; simplement puja des del teu PC o Mac com ho fas amb qualsevol fitxer.<br>
@@ -282,9 +282,9 @@ Explora les nostres guies pràctiques per a més detalls:<br>
 - [Com transferir fitxers sense fils des d'un ordinador a un iPhone mitjançant WiFi-Drive.](/docs/howto/how-to-transfer-files-wirelessly-from-a-computer-to-an-iphone-using-wifi-drive)<br>
 - [Com connectar una memòria USB a l'iPhone i escoltar música o gestionar fitxers.](/docs/howto/how-to-connect-a-usb-flashcard-to-the-iphone-and-listen-to-music-or-manage-files-located-on-it)<br>
 - [Com reproduir música a l'iPhone des de WD My Cloud Home.](/docs/howto/how-to-play-music-on-iphone-from-wd-my-cloud-home)
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Flacbox és gratuït?" closed="true" %}}
+{{% ls-details title="Flacbox és gratuït?" closed="true" %}}
 Flacbox és gratuït amb algunes limitacions, que es poden eliminar actualitzant a la versió Premium.<br>
 Pots triar entre una compra de per vida o dues opcions de subscripció (mensual o anual). Els preus poden variar segons la teva regió.<br><br>
 
@@ -293,10 +293,10 @@ Compartir en família està activat per a tots els plans, de manera que pots com
 Les compres i subscripcions Premium es comparteixen entre iOS i Mac mitjançant iCloud. Per sincronitzar la teva compra, assegura't que iCloud estigui activat, obre l'aplicació al teu dispositiu iOS i espera un minut perquè es completi la sincronització.<br><br>
 
 [Llegeix més sobre les diferències entre Flacbox i Flacbox Premium](/docs/faq/flacbox/what-is-the-difference-between-flacbox-and-flacbox-premium/)
-{{% /details %}}
+{{% /ls-details %}}
 
 
-{{% details title="Quina és la diferència entre Flacbox i Evermusic?" closed="true" %}}
+{{% ls-details title="Quina és la diferència entre Flacbox i Evermusic?" closed="true" %}}
 **Flacbox** està dissenyat per admetre tots els formats d'àudio predeterminats d'iOS juntament amb molts formats addicionals no compatibles de forma nativa a l'iPhone, com WMA, OGG, M4A, DSD i més.<br>
 Utilitza un motor d'àudio personalitzat per gestionar gairebé tots els formats i ofereix funcions com la freqüència de mostreig de sortida d'àudio ajustable i la correcció de to.<br><br>
 
@@ -306,9 +306,9 @@ Si utilitzes principalment MP3, ALAC o FLAC, **Evermusic** pot ser la millor opc
 Si necessites àmplia compatibilitat amb diversos tipus de fitxers d'àudio, **Flacbox** és l'elecció correcta.<br><br>
 
 [Coneix més sobre les diferències entre Flacbox i Evermusic](/docs/faq/evermusic/what-is-the-difference-between-evermusic-and-flacbox/)
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Com sincronitzo Flacbox?" closed="true" %}}
+{{% ls-details title="Com sincronitzo Flacbox?" closed="true" %}}
 
 **Sincronització de metadades**  
 Quan afegeixes pistes a la teva biblioteca, un lector de metadades en segon pla escaneja els teus fitxers i els organitza per Artista, Àlbum, Gènere i Compositor.<br>
@@ -345,10 +345,10 @@ També pots personalitzar els **intervals de temps de sincronització** a la con
 
 [Llegeix més](/docs/guide/flacbox/flacbox-guide-music-library)
 
-{{% /details %}}
+{{% /ls-details %}}
 
 
-{{% details title="Com utilitzo Flacbox?" closed="true" %}}
+{{% ls-details title="Com utilitzo Flacbox?" closed="true" %}}
 
 **Instal·la Flacbox**<br>
 Descarrega i instal·la l'aplicació Flacbox des de la botiga d'aplicacions del teu dispositiu. Està disponible per a dispositius iOS i Mac.<br><br>
@@ -408,10 +408,10 @@ Explora tutorials dins de l'aplicació o visita aquestes guies:<br><br>
 • [Connectar memòria USB](/docs/howto/how-to-connect-a-usb-flashcard-to-the-iphone-and-listen-to-music-or-manage-files-located-on-it)<br>
 • [Transferència sense fils WiFi-Drive](/docs/howto/how-to-transfer-files-wirelessly-from-a-computer-to-an-iphone-using-wifi-drive)
 
-{{% /details %}}
+{{% /ls-details %}}
 
 
-{{% details title="Flacbox és segur?" closed="true" %}}
+{{% ls-details title="Flacbox és segur?" closed="true" %}}
 Flacbox utilitza únicament SDK oficial i connexions segures per interactuar amb els serveis al núvol connectats. El teu nom d'usuari i contrasenya no estan disponibles per a l'aplicació. Totes les sol·licituds de l'aplicació al servei al núvol estan xifrades.<br>
 Quan introdueixes el nom d'usuari i la contrasenya, l'aplicació et mostra la pàgina d'autorització oficial proporcionada pel proveïdor del servei al núvol i tot el procés d'autorització es fa fora de l'aplicació. El proveïdor del servei al núvol envia un token d'autenticació a l'aplicació després d'una autorització correcta i aquest token s'utilitza per fer crides a l'API.<br><br>
 
@@ -423,24 +423,24 @@ Per rebutjar el token d'autenticació, inicia sessió al teu compte al navegador
 També pots desconnectar els comptes al núvol connectats a l'aplicació i el token d'autenticació també s'eliminarà del teu dispositiu. Si elimines l'aplicació del teu dispositiu, totes les dades descarregades i els tokens d'accés també s'eliminaran.<br><br>
 
 [Llegeix més](/docs/guide/flacbox/flacbox-guide-connections)
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Com creo una llista de reproducció a Flacbox?" closed="true" %}}
+{{% ls-details title="Com creo una llista de reproducció a Flacbox?" closed="true" %}}
 - Obre la secció Llistes de reproducció.<br>
 - Toca el botó "+" o el botó "..." a la cantonada superior dreta i selecciona "Nova llista de reproducció".<br>
 - Introdueix un nom per a la llista de reproducció i toca "Desar". Apareixerà el diàleg "Afegir cançons".<br>
 - Selecciona les pistes que vols afegir a la llista de reproducció.<br><br>
 
 [Llegeix més](/docs/guide/flacbox/flacbox-guide-playlists)
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Quins serveis al núvol admet Flacbox?" closed="true" %}}
+{{% ls-details title="Quins serveis al núvol admet Flacbox?" closed="true" %}}
 Actualment, l'aplicació admet els serveis al núvol més populars: iCloud Drive, Google Drive, Dropbox, OneDrive, Box, MEGA, Yandex.Disk, WD MyCloud Home, DLNA, MediaFire, WebDAV, SMB, pCloud, HiDrive, My Cloud Home, InfiniCLOUD, Cloud Mail.ru, Put.io, MyDrive.<br><br>
 
 [Llegeix més](/docs/guide/flacbox/flacbox-guide-connections)
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Com puc utilitzar un equalitzador?" closed="true" %}}
+{{% ls-details title="Com puc utilitzar un equalitzador?" closed="true" %}}
 - Obre la pantalla del reproductor d'àudio.<br>
 - Toca la icona "Equalitzador" a la part inferior de la pantalla.<br>
 - Activa el control de commutació a la cantonada superior dreta de la pantalla de l'equalitzador per activar-lo.<br>
@@ -448,9 +448,9 @@ Actualment, l'aplicació admet els serveis al núvol més populars: iCloud Drive
 
 Tutorial complet disponible aquí:<br>
 [Com utilitzar l'equalitzador d'àudio al teu iPhone, iPad, Mac amb Evermusic i Flacbox](/docs/howto/how-to-use-the-audio-equalizer-on-your-iphone-ipad-mac-with-evermusic-and-flacbox)
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Com activo el mode fora de línia a Flacbox?" closed="true" %}}
+{{% ls-details title="Com activo el mode fora de línia a Flacbox?" closed="true" %}}
 - Connectar un servei al núvol:<br>
  • Ves a la pestanya "Connexions".<br>
  • Selecciona "Connectar un servei al núvol" i segueix les instruccions per connectar el servei desitjat.<br><br>
@@ -476,9 +476,9 @@ Tutorial complet disponible aquí:<br>
  • Toca "Més accions" i selecciona "Iniciar sincronització".<br><br>
 
 [Llegeix més](/docs/howto/play-offline-music-in-evermusic-flacbox-download-sync-from-cloud-to-local-files/)
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Com reproduir música descarregada localment a l'iPhone?" closed="true" %}}
+{{% ls-details title="Com reproduir música descarregada localment a l'iPhone?" closed="true" %}}
 Un cop hagis instal·lat l'aplicació, obre la pantalla "Fitxers locals" i desplaça't fins a la secció "Fitxers d'aquest iPhone". Des d'allà, tria "Obrir fitxers..." si necessites seleccionar diversos fitxers d'àudio o "Obrir carpeta..." si vols triar una carpeta de música. L'aplicació escanejarà el contingut de la carpeta i tots els fitxers d'àudio trobats seran seleccionats. Navega fins a la teva carpeta de música, toca "Obrir" per confirmar la selecció i els fitxers s'afegiran a la cua del reproductor. Aquests fitxers es reproduiran directament des de la ubicació seleccionada sense copiar-se al paquet de l'aplicació.<br><br>
 
 **Afegir una carpeta als preferits per a accés ràpid**<br>
@@ -493,13 +493,13 @@ Per afegir fitxers locals a una llista de reproducció, obre la pantalla "Lliste
 Amb aquests senzills passos, pots desbloquejar tot el potencial del teu iPhone i Mac com les plataformes definitives per gaudir de la teva col·lecció de música local.<br><br>
 
 [Llegeix més](/docs/howto/how-to-play-local-music-stored-on-your-iphone-or-mac)
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Com puc reprendre una llista de reproducció des d'on la vaig deixar?" closed="true" %}}
+{{% ls-details title="Com puc reprendre una llista de reproducció des d'on la vaig deixar?" closed="true" %}}
 Primer, assegura't que "Desar estat del reproductor d'àudio" estigui activat a Configuració > Reproductor d'àudio > General. Quan canviïs a una altra llista de reproducció i tornis, veuràs quatre accions a la barra d'eines superior sota la portada de l'àlbum: "Cerca", "Continuar reproducció", "Reproduir tot" i "Aleatori tot". Toca "Continuar reproducció" per reprendre la llista de reproducció des de l'últim estat desat i posició multimèdia.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Com veure les lletres de les cançons a Flacbox?" closed="true" %}}
+{{% ls-details title="Com veure les lletres de les cançons a Flacbox?" closed="true" %}}
 Pots veure les lletres incrustades de les pistes a l'aplicació seguint **aquests passos**:<br>
 1. Comença a reproduir un fitxer d'àudio tocant-lo.<br>
 2. Obre el reproductor d'àudio a pantalla completa.<br>
@@ -513,9 +513,9 @@ Pots veure les lletres incrustades de les pistes a l'aplicació seguint **aquest
 3. Mode fitxer LRC: En lloc d'editar fitxers d'àudio, pots col·locar un fitxer LRC a la mateixa carpeta que el fitxer d'àudio original. Ambdós fitxers haurien de tenir el mateix nom però extensions diferents. Quan llisquis fins a la tercera pàgina de la pantalla de comentaris, l'aplicació buscarà el fitxer LRC al mateix directori i mostrarà el seu contingut.<br><br>
 
 [Llegeix més](/docs/howto/how-to-add-and-view-comments-to-your-audio-tracks-on-iphone-ipad-and-mac-with-evermusic-and-flacbox)
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Com transfereixo música a Flacbox des del meu ordinador?" closed="true" %}}
+{{% ls-details title="Com transfereixo música a Flacbox des del meu ordinador?" closed="true" %}}
 Pots connectar el teu ordinador o NAS personal mitjançant els protocols SMB, WebDAV o DLNA. Alternativament, utilitza iTunes File Sharing per transferir música.<br><br>
 
 Per connectar un ordinador mitjançant el protocol SMB, toca "Connectar un servei al núvol" → SMB. Introdueix l'adreça IP de l'ordinador i el nom de la carpeta compartida al camp URL amb el format smb://adreça-ip-ordinador/nom-carpeta-compartida, introdueix el nom d'usuari i la contrasenya i toca "Fet". Si la connexió és correcta, veuràs l'emmagatzematge connectat a la secció "Serveis al núvol".<br><br>
@@ -536,9 +536,9 @@ Instrucció detallada disponible aquí:<br>
 
 DLNA També pots configurar el servidor multimèdia DLNA i transmetre la teva música des del PC amb Windows com es descriu aquí:<br>
 [Com activar el servidor multimèdia DLNA a Windows 10 i reproduir la teva música a l'iPhone](/docs/howto/how-to-enable-dlna-media-server-on-windows-10-and-play-your-music-on-iphone)
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Com descarregar música?" closed="true" %}}
+{{% ls-details title="Com descarregar música?" closed="true" %}}
 Abans de poder descarregar música i escoltar-la fora de línia, has de connectar un compte de xarxa.<br>
 Simplement obre la pantalla "Connexions" i afegeix el teu compte.<br>
 Un cop hagis afegit un compte de xarxa, pots descarregar la teva música des del núvol.<br><br>
@@ -559,15 +559,15 @@ Instrucció més detallada sobre el mode fora de línia disponible aquí:<br>
 
 Una altra opció disponible és descarregar música dels serveis al núvol i importar-la a Evermusic com es descriu aquí:<br>
 [Com descarregar música de YouTube i escoltar música fora de línia a l'iPhone](/docs/howto/how-to-download-music-from-youtube-and-listen-to-offline-music-on-iphone)
-{{% /details %}}
+{{% /ls-details %}}
 
 
-{{% details title="Quins formats d'àudio admet Flacbox?" closed="true" %}}
+{{% ls-details title="Quins formats d'àudio admet Flacbox?" closed="true" %}}
 Aquesta aplicació admet els **còdecs d'àudio del sistema** predeterminats i **còdecs de programari ffmpeg** addicionals:<br><br>
 3g2, 3gp, 3gp2, 3gpp, 8svx, aa, aac, aax, ac3, act, adt, adts, aif, aifc, aiff, alac, amr, amv, ape, asf, au, avi, awb, caf, cavs, cdda, cue, dct, dff, drc, dsf, dss, dvf, "dvr-ms", ec3, f4a, f4b, f4p, f4v, flac, flv, gif, gifv, gsm, gxf, h261, h263, h264, ifv, iklax, ivf, ivs, l16, latm, loas, m2t, m2ts, m2v, m3u, m3u8, m4a, m4b, m4p, m4r, m4v, mka, mkv, mmf, mng, mod, mogg, mov, mp1, mp2, mp3, mp4, mp4v, mpa, mpc, mpe, mpeg, mpg, mpv, msv, mts, mxf, nsf, nsv, nut, oga, ogg, ogv, opus, pcm, pls, qt, ra, raw, rm, rmvb, roq, rv, sln, snd, svi, tod, tta, vob, voc, vox, vtt, w64, wav, wave, webm, wma, wmv, wv, xhe, xmv, y4m, yuv.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Puc utilitzar Flacbox per reproduir audiollibres?" closed="true" %}}
+{{% ls-details title="Puc utilitzar Flacbox per reproduir audiollibres?" closed="true" %}}
 
 Sí, Flacbox es pot utilitzar com un potent reproductor d'audiollibres.<br><br>
 
@@ -590,11 +590,11 @@ Flacbox ofereix una solució completa per als amants dels audiollibres a iPhone,
 
 [Llegeix més](/docs/howto/how-to-listen-to-audiobooks-on-iphone-ipad-mac-using-evermusic)
 
-{{% /details %}}
+{{% /ls-details %}}
 
 
 
-{{% details title="Flacbox funciona amb dispositius NAS?" closed="true" %}}
+{{% ls-details title="Flacbox funciona amb dispositius NAS?" closed="true" %}}
 
 Sí, Flacbox admet connexions NAS mitjançant els protocols **SMB**, **WebDAV** i **DLNA**.<br><br>
 
@@ -625,10 +625,10 @@ Si la connexió és correcta, veuràs el teu NAS a la secció **Serveis al núvo
 • [Connectar emmagatzematge Bluesound Vault](/docs/howto/how-to-connect-bluesound-vault-s-internal-storage-from-the-evermusic-flacbox-evertag)<br>
 • [Connectar emmagatzematge NAS mitjançant WebDAV](/docs/howto/how-to-connect-nas-storage-using-webdav-and-listen-to-music-on-your-iphone-or-mac)
 
-{{% /details %}}
+{{% /ls-details %}}
 
 
-{{% details title="Com importo música a Flacbox?" closed="true" %}}
+{{% ls-details title="Com importo música a Flacbox?" closed="true" %}}
 
 **Connecta el teu servei al núvol**<br>
 • Obre la pestanya **Connexions**.<br>
@@ -674,10 +674,10 @@ Explora aquests tutorials per a més ajuda:<br><br>
 • [Transferir fitxers sense fils mitjançant WiFi-Drive](/docs/howto/how-to-transfer-files-wirelessly-from-a-computer-to-an-iphone-using-wifi-drive)<br>
 • [Transferir fitxers mitjançant el protocol SMB](/docs/howto/transfer-your-files-from-the-computer-to-iphone-using-smb-protocol/)
 
-{{% /details %}}
+{{% /ls-details %}}
 
 
-{{% details title="Com utilitzo la funció Wi-Fi Drive a Flacbox?" closed="true" %}}
+{{% ls-details title="Com utilitzo la funció Wi-Fi Drive a Flacbox?" closed="true" %}}
 
 **Transferència sense fils mitjançant un navegador d'escriptori**<br>
 1. Inicia l'aplicació: Obre Flacbox.<br>
@@ -702,9 +702,9 @@ Nota: Assegura't que JavaScript estigui activat i que estiguis utilitzant l'últ
 
 [Llegeix més](/docs/howto/how-to-transfer-files-wirelessly-from-a-computer-to-an-iphone-using-wifi-drive)
 
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Flacbox admet Apple CarPlay?" closed="true" %}}
+{{% ls-details title="Flacbox admet Apple CarPlay?" closed="true" %}}
 Sí, **Flacbox admet completament Apple CarPlay**. Pots explorar la teva biblioteca musical, reproduir fitxers locals o fora de línia, connectar-te a l'emmagatzematge al núvol i controlar la reproducció directament des de la pantalla d'informació i entreteniment del teu cotxe.
 
 La interfície CarPlay inclou pestanyes dedicades per a **Biblioteca**, **Connexions**, **Fitxers locals** i **Configuració**, donant-te control total sobre la teva música a la carretera. Els controls de reproducció, aleatori, repetició i gestió de cua també estan disponibles.
@@ -712,42 +712,42 @@ La interfície CarPlay inclou pestanyes dedicades per a **Biblioteca**, **Connex
 Per utilitzar CarPlay, assegura't que Siri estigui activat i que el teu iPhone estigui connectat mitjançant USB o sense fils.
 
 [Llegeix la guia completa](/docs/howto/how-to-play-your-own-music-on-iphone-using-carplay/)
-{{% /details %}}
+{{% /ls-details %}}
 
 </div>
 
 
 <div class="hx:mt-6"></div>
 
-{{< hextra/section-headline >}}
+{{< ls-section-headline >}}
   Guia d'usuari
-{{< /hextra/section-headline >}}
+{{< /ls-section-headline >}}
 
 <div class="hx:mt-6"></div>
 
 <div class="hx:w-full">
 
 <div class="hx:w-full hx:mx-auto hx:flex hx:flex-col hx:items-center hx:text-center">
-  {{< hextra/info-paragraph border="false" >}}
+  {{< ls-info-paragraph border="false" >}}
   Aquesta guia t'ajudarà a treure el màxim profit de Flacbox al teu iPhone, iPad o Mac. Aprèn a transmetre música d'alta resolució des del núvol, organitzar la teva biblioteca, gestionar audiollibres i transferir música entre dispositius.
-  {{< /hextra/info-paragraph >}}
+  {{< /ls-info-paragraph >}}
 </div>
 
 {{< cards >}}
 
-{{< feature-card icon="map" link="/docs/guide/flacbox/flacbox-guide-navigation" title="Navegació" subtitle="Utilitza la barra de pestanyes a l'iPhone o el menú lateral a l'iPad i Mac." >}}
+{{< ls-feature-card icon="map" link="/docs/guide/flacbox/flacbox-guide-navigation" title="Navegació" subtitle="Utilitza la barra de pestanyes a l'iPhone o el menú lateral a l'iPad i Mac." >}}
 
-{{< feature-card icon="cloud" link="/docs/guide/flacbox/flacbox-guide-connections" title="Connexions" subtitle="Connecta Dropbox, Google Drive, iCloud o el teu NAS." >}}
+{{< ls-feature-card icon="cloud" link="/docs/guide/flacbox/flacbox-guide-connections" title="Connexions" subtitle="Connecta Dropbox, Google Drive, iCloud o el teu NAS." >}}
 
-{{< feature-card icon="collection" link="/docs/guide/flacbox/flacbox-guide-music-library" title="Biblioteca musical" subtitle="Gestiona i cerca pistes per artista, àlbum o gènere." >}}
+{{< ls-feature-card icon="collection" link="/docs/guide/flacbox/flacbox-guide-music-library" title="Biblioteca musical" subtitle="Gestiona i cerca pistes per artista, àlbum o gènere." >}}
 
-{{< feature-card icon="music-note" link="/docs/guide/flacbox/flacbox-guide-playlists" title="Llistes de reproducció" subtitle="Crea i organitza llistes de reproducció per a qualsevol estat d'ànim o ocasió." >}}
+{{< ls-feature-card icon="music-note" link="/docs/guide/flacbox/flacbox-guide-playlists" title="Llistes de reproducció" subtitle="Crea i organitza llistes de reproducció per a qualsevol estat d'ànim o ocasió." >}}
 
-{{< feature-card icon="folder" link="/docs/guide/flacbox/flacbox-guide-local-files" title="Fitxers locals" subtitle="Edita i reprodueix música fora de línia amb el gestor de fitxers integrat." >}}
+{{< ls-feature-card icon="folder" link="/docs/guide/flacbox/flacbox-guide-local-files" title="Fitxers locals" subtitle="Edita i reprodueix música fora de línia amb el gestor de fitxers integrat." >}}
 
-{{< feature-card icon="play" link="/docs/guide/flacbox/flacbox-guide-player" title="Reproductor d'àudio" subtitle="Controla la reproducció, ajusta la velocitat, estableix marcadors i més." >}}
+{{< ls-feature-card icon="play" link="/docs/guide/flacbox/flacbox-guide-player" title="Reproductor d'àudio" subtitle="Controla la reproducció, ajusta la velocitat, estableix marcadors i més." >}}
 
-{{< feature-card icon="adjustments" link="/docs/guide/flacbox/flacbox-guide-settings" title="Configuració" subtitle="Personalitza l'equalitzador, l'aparença i el comportament de l'aplicació." >}}
+{{< ls-feature-card icon="adjustments" link="/docs/guide/flacbox/flacbox-guide-settings" title="Configuració" subtitle="Personalitza l'equalitzador, l'aparença i el comportament de l'aplicació." >}}
 
 {{< /cards >}}
 

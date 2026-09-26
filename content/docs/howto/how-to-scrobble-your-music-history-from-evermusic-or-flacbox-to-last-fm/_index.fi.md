@@ -17,7 +17,7 @@ keywords: [
 readingTime: 2
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **Lyhyesti:** Sekä Evermusicissa että Flacboxissa on sisäänrakennettu Last.fm-scrobblaus. Yhdistä tilisi **Yhteydet**-osiossa, ja jokainen soittamasi kappale kirjataan automaattisesti -- myös offline-tilassa. Asennus vie alle minuutin.
@@ -66,22 +66,22 @@ Musiikkihistoriasi scrobblaaminen Evermusicista tai Flacboxista [Last.fm](http:/
 
 ## Usein kysytyt kysymykset
 
-{{% details title="Onko Last.fm-scrobblaus ilmaista?" closed="true" %}}
+{{% ls-details title="Onko Last.fm-scrobblaus ilmaista?" closed="true" %}}
 Kyllä. Last.fm tarjoaa ilmaisen tilin, joka sisältää täyden scrobblauksen, kuunteluhistorian ja perussuositukset. Maksullinen Last.fm Pro -tilaus lisää lisäominaisuuksia Last.fm-verkkosivustolle, mutta sitä ei vaadita scrobblaukseen Evermusicista tai Flacboxista.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Toimiiko scrobblaus kun olen offline-tilassa?" closed="true" %}}
+{{% ls-details title="Toimiiko scrobblaus kun olen offline-tilassa?" closed="true" %}}
 Kyllä. Sekä Evermusic että Flacbox tallentavat toistohistoriasi paikallisesti. Kun palaat verkkoon, sovellukset lataavat jonossa olevat scrobblet automaattisesti Last.fm:ään.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Tallentaako sovellus Last.fm-kirjautumistietoni?" closed="true" %}}
+{{% ls-details title="Tallentaako sovellus Last.fm-kirjautumistietoni?" closed="true" %}}
 Ei. Sovellus tallentaa vain suojatun käyttöoikeustunnisteen laitteesi avainnippuun. Käyttäjänimeäsi ja salasanaasi ei tallenneta.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Voinko scrobblata sekä iPhonesta että Macista?" closed="true" %}}
+{{% ls-details title="Voinko scrobblata sekä iPhonesta että Macista?" closed="true" %}}
 Kyllä. Evermusic ja Flacbox tukevat Last.fm-scrobblausta iPhonella, iPadilla ja Macilla. Yhdistä tilisi jokaisella laitteella, jolla haluat seurata toistoja.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Kuinka lopetan scrobblauksen poistamatta Last.fm-tiliäni?" closed="true" %}}
+{{% ls-details title="Kuinka lopetan scrobblauksen poistamatta Last.fm-tiliäni?" closed="true" %}}
 Avaa Yhteydet-osio Evermusicissa tai Flacboxissa ja napauta Irrottaa Last.fm:n vieressä. Tämä poistaa käyttöoikeustunnisteen ja lopettaa scrobblauksen, mutta Last.fm-tilisi ja historiasi säilyvät ennallaan.
-{{% /details %}}
+{{% /ls-details %}}

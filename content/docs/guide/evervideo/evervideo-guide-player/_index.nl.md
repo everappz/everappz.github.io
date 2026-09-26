@@ -31,7 +31,7 @@ U kunt de volledige speler bereiken vanuit de compacte spelerbalk. Op iPhone zit
 De compacte speler blijft zichtbaar terwijl u door uw bibliotheek, bestandsbeheer of instellingen bladert, zodat u uw video nooit verliest terwijl u naar het volgende zoekt.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evervideo Volledige Mediaspeler" image="/docs/guide/evervideo/img/evervideo-media-player-fullscreen.webp" >}}
+  {{< ls-card title="" subtitle="Evervideo Volledige Mediaspeler" image="/docs/guide/evervideo/img/evervideo-media-player-fullscreen.webp" >}}
 {{< /cards >}}
 
 ## Ondersteunde video- en audioformaten
@@ -72,7 +72,7 @@ PiP werkt met elk videoformaat dat Evervideo afspeelt, inclusief cloudgestreamde
 De compacte speler is een permanente minispeler die zichtbaar blijft bovenaan elk scherm in de app terwijl u door de bibliotheek, de bestandsbeheerder of de instellingen bladert. Tik erop om de volledige speler te openen; veeg omlaag om hem terug te klappen.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evervideo Video-instellingen vanuit de Compacte Speler op het Hoofdscherm" image="/docs/guide/evervideo/img/evervideo-video-settings-from-compact-player-view-on-the-main-screen.webp" >}}
+  {{< ls-card title="" subtitle="Evervideo Video-instellingen vanuit de Compacte Speler op het Hoofdscherm" image="/docs/guide/evervideo/img/evervideo-video-settings-from-compact-player-view-on-the-main-screen.webp" >}}
 {{< /cards >}}
 
 ## AirPlay 2
@@ -115,7 +115,7 @@ Evervideo bevat een volledige audio-equalizer om videosoundtracks af te stemmen 
 Voor het afstemmen van het beeld biedt Evervideo een speciale video-equalizer — pas helderheid, contrast, verzadiging en tint in realtime aan tijdens het afspelen. Net als de audio-equalizer kunnen aangepaste videopresets worden geëxporteerd en geïmporteerd voor delen of back-up. Gebruik het om een donker ​​scène op een zonnige dag op te helderen, de verzadiging van uitgebleekte inhoud te verhogen of een koude kleurcast op te warmen.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evervideo Video-equalizer" image="/docs/guide/evervideo/img/evervideo-video-equalizer.webp" >}}
+  {{< ls-card title="" subtitle="Evervideo Video-equalizer" image="/docs/guide/evervideo/img/evervideo-video-equalizer.webp" >}}
 {{< /cards >}}
 
 ## Videoschalingsmodus
@@ -144,7 +144,7 @@ Evervideo bevat een VR / 360° viewport voor sferische videobestanden. Bij het a
 Tik op het snelheidsbesturingselement op de spelerwerkbalk om de afspeelsnelheid te wijzigen — vertraag voor analyse (0,25× of 0,5×) of versnel voor tutorials en lezingen (1,25×, 1,5×, 2× en tot 3×). Tik op het configuratiepictogram in de rechterbovenhoek van het snelheidsscherm om naar de precieze modus te schakelen met fijnere aanpassingen. Toonhoogtecorrectie per spoor is ook beschikbaar.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evervideo Afspeelsnelheid op de Hoofdwerkbalk" image="/docs/guide/evervideo/img/evervideo-media-player-playback-speed-on-main-toolbar.webp" >}}
+  {{< ls-card title="" subtitle="Evervideo Afspeelsnelheid op de Hoofdwerkbalk" image="/docs/guide/evervideo/img/evervideo-media-player-playback-speed-on-main-toolbar.webp" >}}
 {{< /cards >}}
 
 ## Spelerswachtrij
@@ -152,7 +152,7 @@ Tik op het snelheidsbesturingselement op de spelerwerkbalk om de afspeelsnelheid
 Om uw spelerswachtrij te bekijken, tikt u op de wachtrij-knop op de speler. Elke video in de wachtrij heeft meer acties — tik op de drie puntjes om ze te bekijken. Om een video in de wachtrij te herordenen, gebruik de herordeneringsindicator bij de titel en sleep het naar een nieuwe positie.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evervideo Afspeelwachtrij" image="/docs/guide/evervideo/img/evervideo-playback-queue.webp" >}}
+  {{< ls-card title="" subtitle="Evervideo Afspeelwachtrij" image="/docs/guide/evervideo/img/evervideo-playback-queue.webp" >}}
 {{< /cards >}}
 
 ## Slaaptimer
@@ -189,7 +189,7 @@ Tik op de knop **Meer acties "..."** op de speler om toegang te krijgen tot extr
 - **Help** — open hulp.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evervideo Speler Meer acties Scherm" image="/docs/guide/evervideo/img/evervideo-media-player-more-actions.webp" >}}
+  {{< ls-card title="" subtitle="Evervideo Speler Meer acties Scherm" image="/docs/guide/evervideo/img/evervideo-media-player-more-actions.webp" >}}
 {{< /cards >}}
 
 ## Spelerinstellingen

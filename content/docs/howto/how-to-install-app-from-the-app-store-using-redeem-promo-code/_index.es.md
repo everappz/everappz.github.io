@@ -7,7 +7,7 @@ tags: ["promo", "appstore", "instalar", "canjear", "código", "gratis"]
 readingTime: 2
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **Resumen:** Un código promocional te permite descargar una app de pago gratis o desbloquear compras dentro de la app. En iOS: App Store > Icono de cuenta > Canjear tarjeta regalo o código > introducir código. En Mac: App Store > Cuenta > Canjear tarjeta regalo > introducir código. Luego abre la app y restaura las compras si es necesario.
@@ -94,22 +94,22 @@ Sigue los mismos pasos anteriores para canjear el código. Después, abre la app
 
 ## Preguntas frecuentes
 
-{{% details title="¿Dónde consigo un código promocional?" closed="true" %}}
+{{% ls-details title="¿Dónde consigo un código promocional?" closed="true" %}}
 Los códigos promocionales son proporcionados por los desarrolladores de apps para reseñas, sorteos o promociones. Contacta directamente al desarrollador para solicitar uno.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="¿Los códigos promocionales caducan?" closed="true" %}}
+{{% ls-details title="¿Los códigos promocionales caducan?" closed="true" %}}
 Sí. Los códigos promocionales del Apple App Store caducan 28 días después de su generación y solo pueden canjearse una vez.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="¿Puedo usar un código promocional en cualquier país?" closed="true" %}}
+{{% ls-details title="¿Puedo usar un código promocional en cualquier país?" closed="true" %}}
 Los códigos promocionales son específicos de cada región. El código debe coincidir con el país del App Store de tu Apple ID.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="¿Cómo activo las compras dentro de la app con un código promocional?" closed="true" %}}
+{{% ls-details title="¿Cómo activo las compras dentro de la app con un código promocional?" closed="true" %}}
 Después de canjear el código en el App Store, abre la app y ve a Ajustes > Restaurar compras. El contenido premium se desbloqueará automáticamente.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="El código promocional dice que ya ha sido canjeado. ¿Qué debo hacer?" closed="true" %}}
+{{% ls-details title="El código promocional dice que ya ha sido canjeado. ¿Qué debo hacer?" closed="true" %}}
 Cada código promocional solo puede usarse una vez. Contacta al desarrollador para solicitar un nuevo código.
-{{% /details %}}
+{{% /ls-details %}}

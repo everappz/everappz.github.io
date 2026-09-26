@@ -3,7 +3,9 @@ date: '2025-06-12T17:00:00+00:00'
 title: 'Support'
 ---
 
-{{< lottie src="/images/juicy-json/juicy-girl-is-working-on-laptop-at-a-remote-job.json" width="80%" >}}
+{{< ls-lottie src="/images/juicy-json/juicy-girl-is-working-on-laptop-at-a-remote-job.json" width="80%" >}}
+
+{{< ls-docs-search >}}
 
 ## Need Help? We're Here for You
 
@@ -19,9 +21,9 @@ By contacting us, you confirm that you have read and agree to our [Privacy Polic
 To save time and get instant answers, please check out our most helpful resources. Many common questions are already covered:
 
 {{< cards >}}
-  {{< card icon="book-open" link="/docs/guide" title="User Guide" >}}
-  {{< card icon="question-mark-circle" link="/docs/faq" title="Frequently Asked Questions" >}}
-  {{< card icon="light-bulb" link="/docs/howto" title="How-To" >}}
+  {{< ls-card icon="book-open" link="/docs/guide" title="User Guide" >}}
+  {{< ls-card icon="question-mark-circle" link="/docs/faq" title="Frequently Asked Questions" >}}
+  {{< ls-card icon="light-bulb" link="/docs/howto" title="How-To" >}}
 {{< /cards >}}
 
 These guides are designed to help you get the most out of our apps — from setup to advanced features.

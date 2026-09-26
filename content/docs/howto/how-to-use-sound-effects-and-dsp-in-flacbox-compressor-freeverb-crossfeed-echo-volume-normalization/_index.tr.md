@@ -7,9 +7,9 @@ tags: ["Flacbox", "Ses Efektleri", "Nasıl Yapılır", "BASS", "Ekolayzer", "Bas
 readingTime: 30
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
-{{< full-width-tables >}}
+{{< ls-full-width-tables >}}
 
 **Kısa cevap:** Flacbox'ta **Ayarlar > Ses çalar** içinde bir **Oynatma motoru** seçersiniz: **Standard** (Apple'ın sistem motoru), **Universal** (FFmpeg motoru) veya **Sound FX** (**BASS™ motoru**). Seçtiğiniz motor hangi dosya formatlarının çalacağına karar verir, bu yüzden seçim önemlidir. **Sound FX** motoru, çoğu iPhone uygulamasının atladığı ek formatları çalar (FLAC, DSD, WavPack, APE, Musepack, TrueAudio, Opus ve MOD, XM, IT ve S3M gibi eski **MOD ve tracker müziği**) ve ses araçlarını çalıştıran tek motordur: **10 bantlı ekolayzer**, **Ses Normalizasyonu**, **Compressor**, **Freeverb**, **Auto Wah**, **Phaser**, **Flanger**, **Echo**, **Chorus**, **Distortion**, **Rotate**, **Crossfeed** ve kendi kendinize kurduğunuz bir **DSP zinciri**. Yani bu rehberdeki efektleri kullanmak için önce Oynatma motorunuzu **Sound FX** olarak ayarlayın. Her aracın hazır **ön ayarları** vardır. Bunları **Ayarlar > Ses çalar** içinde açın (Ses efektleri, Ses ekolayzeri, Sinyal işleme) veya çalarda **⋯ (Daha fazla eylem)** düğmesine dokunup **Ses efektleri**'ni seçin. Burada yaptığınız hiçbir şey dosyalarınızı asla değiştirmez.
 
@@ -657,93 +657,93 @@ Tüm bunlar müzik çalarken canlı olarak çalıştığından, efektler:
 
 ## SSS
 
-{{% details title="Flacbox hangi ses motorunu kullanır?" closed="true" %}}
+{{% ls-details title="Flacbox hangi ses motorunu kullanır?" closed="true" %}}
 Ayarlar > Ses çalar içinde bir Oynatma motoru seçersiniz: Standard (Apple'ın sistem motoru), Universal (FFmpeg motoru) veya Sound FX (Un4seen Developments'ten BASS™ motoru, un4seen.com). Seçtiğiniz motor hangi dosya formatlarının çalacağına karar verir. Sound FX, FLAC, DSD, WavPack, APE, Musepack, TrueAudio, Opus ve MOD veya tracker müziği gibi ek formatları çalan tek motordur ve canlı efektleri, 10 bantlı ekolayzeri ve DSP zincirini sağlayan tek motordur. Efektleri kullanmak için Oynatma motorunu Sound FX olarak ayarlayın.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Flacbox MOD, XM, IT ve diğer tracker veya modül müziğini çalabilir mi?" closed="true" %}}
+{{% ls-details title="Flacbox MOD, XM, IT ve diğer tracker veya modül müziğini çalabilir mi?" closed="true" %}}
 Evet. BASS™ motorunun, MOD, XM, IT, S3M, MTM, UMX ve MO3 dosyalarını yükleyen ve şarkıyı desenlerinden ve enstrüman seslerinden, tracker müziğinin çalınması gerektiği şekilde canlı olarak yeniden oluşturan yerleşik bir modül çalar vardır. Sıradan iPhone çalarlar bunu yapamaz. Efektler ve ekolayzer modül müziğinde de çalışır.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Flacbox DSD ve yüksek çözünürlüklü dosyaları destekler mi?" closed="true" %}}
+{{% ls-details title="Flacbox DSD ve yüksek çözünürlüklü dosyaları destekler mi?" closed="true" %}}
 Evet. Flacbox, DSD dosyalarını (DSF ve DFF) normal çıkış donanımında çalışmaları için DSD over PCM kullanarak BASS™ motoru aracılığıyla çalar, ayrıca kayıpsız oynatma için FLAC, WavPack, Monkey's Audio (APE), Musepack ve TrueAudio çalar.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Flacbox'ta hangi ses efektleri var?" closed="true" %}}
+{{% ls-details title="Flacbox'ta hangi ses efektleri var?" closed="true" %}}
 10 bantlı bir ekolayzer, Ses Normalizasyonu, Compressor, Freeverb, Auto Wah, Phaser, Flanger, Echo, Chorus, Distortion, Rotate ve Crossfeed, ayrıca filtreler, shelf'ler, gain, soft clip, bit crusher, ring modulator, tremolo, delay ve stereo width ile kendi kendinize kurduğunuz bir DSP zinciri. Her biri ayrıdır ve diğerleriyle birleştirilebilir.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Ön ayar nedir?" closed="true" %}}
+{{% ls-details title="Ön ayar nedir?" closed="true" %}}
 Ön ayar, bir efekt için hazır bir ayardır. Sürgüleri kendiniz hareket ettirmek yerine bir ön ayara dokunursunuz ve ses ona uyacak şekilde değişir. Flacbox'taki her efektin birkaç ön ayarı vardır ve bu rehber her birinin ne yaptığını listeler. Bir ön ayar seçtikten sonra bir sürgüyü hareket ettirirseniz, efekt artık kendi değerlerinizi kullandığını söylemek için «Manual» gösterir.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Flacbox'ta ses efektlerini nasıl açarım?" closed="true" %}}
+{{% ls-details title="Flacbox'ta ses efektlerini nasıl açarım?" closed="true" %}}
 Şimdi Çalınıyor çalarını açın, ⋯ (Daha fazla eylem) düğmesine dokunun ve Ses efektleri'ni seçin. Veya Ayarlar > Ses çalar > Ses efektleri'ne gidin. Bir efekte dokunun, anahtarını açın ve bir ön ayar seçin veya ince ayar yapmak için sürgüleri açın.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Ekolayzer nerede ve en iyi ayarlar nelerdir?" closed="true" %}}
+{{% ls-details title="Ekolayzer nerede ve en iyi ayarlar nelerdir?" closed="true" %}}
 Ayarlar > Ses çalar > Ses ekolayzeri'ne gidin. 32 Hz'den 16 kHz'e her biri -12 ila +12 dB olan 10 bant, ayrıca -24 ila +24 dB'lik bir Preamplifier ve 22 ön ayar vardır. Daha fazla bas için Bass Booster kullanın. Daha net sesler için Vocal Booster veya Pop kullanın. Daha parlak bir ses için Treble Booster kullanın. Sonra tek bantları zevkinize göre ayarlayın.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Flacbox'ta bası nasıl artırırım?" closed="true" %}}
+{{% ls-details title="Flacbox'ta bası nasıl artırırım?" closed="true" %}}
 İki kolay yol. Ses ekolayzerinde Bass Booster'ı seçin (veya 32 Hz ve 64 Hz bantlarını birkaç dB yükseltin). Veya Sinyal işleme içinde Bass Boost olarak ayarlanmış bir Low Shelf bloğu ekleyin. Her iki durumda da, basın temiz kalması ve bozulmaması için Preamplifier'ı düşürün veya 1 ila 2 dB'lik bir Gain bloğu ekleyin.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Müziğim için hangi ekolayzer ön ayarı en iyisi?" closed="true" %}}
+{{% ls-details title="Müziğim için hangi ekolayzer ön ayarı en iyisi?" closed="true" %}}
 Rock ve Electronic, güçlü baslar ve tizlerle enerji ekler. Acoustic, Jazz ve Classical sıcak ve doğal kalır. Pop ve Vocal Booster sesleri öne iter. Bass Booster ve Hip-Hop ağırlık ekler. Deep ve Loudness düşük ses seviyesinde daha dolu duyulur. Türünüze uyanla başlayın, sonra ince ayar yapın.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Ses Normalizasyonu nedir ve ReplayGain'den nasıl farklıdır?" closed="true" %}}
+{{% ls-details title="Ses Normalizasyonu nedir ve ReplayGain'den nasıl farklıdır?" closed="true" %}}
 Her parçayı yaklaşık aynı ses düzeyinde çaldırır. Gerçek ses düzeyini EBU R128 standardını (akış hizmetleri gibi LUFS cinsinden) kullanarak ölçer ve her parçayı bir max-boost sınırıyla hedefinize doğru ayarlar. ReplayGain'in aksine, dosyalarınızda etikete ihtiyaç duymaz ve sesi değiştirmeden herhangi bir kaynakta canlı olarak çalışır. Ön ayarlar: Light, Standard, Strong ve Night.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Crossfeed nedir ve kullanmalı mıyım?" closed="true" %}}
+{{% ls-details title="Crossfeed nedir ve kullanmalı mıyım?" closed="true" %}}
 Crossfeed, sol ve sağ kanallardan biraz karıştırır, böylece kulaklıklar gerçek hoparlörlere daha çok benzer ve ses kafanızda takılı kalmış gibi olmaz. Yalnızca kulaklıklar içindir, bu yüzden hoparlörler için kapatın. Flacbox, Chu Moy ve Jan Meier gibi ön ayarlarla bs2b (Bauer) yöntemini kullanır.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Compressor ile Ses Normalizasyonu arasındaki fark nedir?" closed="true" %}}
+{{% ls-details title="Compressor ile Ses Normalizasyonu arasındaki fark nedir?" closed="true" %}}
 Ses Normalizasyonu, farklı şarkılar arasındaki ses düzeyini eşleştirir. Compressor, tek bir şarkının içindeki yüksek ve sessiz kısımları dengeler. Farklı sorunları çözerler ve özellikle bir arabada veya gürültülü bir yerde birlikte iyi çalışırlar.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Sinyal işleme (DSP) zinciri nedir?" closed="true" %}}
+{{% ls-details title="Sinyal işleme (DSP) zinciri nedir?" closed="true" %}}
 Ayarlar > Ses çalar > Sinyal işleme içinde kendi kendinize kurduğunuz bir raftır. Filtreler, shelf'ler, gain, soft clip, bit crusher, ring modulator, tremolo, delay ve stereo width gibi bloklar ekleyin, herhangi bir sıraya koyun, her birini açın veya kapatın ve zinciri tüm kanallara, sola veya sağa yönlendirin. Sıra önemli olduğundan, tam olarak istediğiniz sesi tasarlayabilirsiniz.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Ekolayzer, efektler ve DSP zinciri arasındaki fark nedir?" closed="true" %}}
+{{% ls-details title="Ekolayzer, efektler ve DSP zinciri arasındaki fark nedir?" closed="true" %}}
 Ekolayzer, basit bir 10 bantlı ton denetimidir. Ses efektleri, ön ayarları olan hazır araçlardır (compressor, reverb, echo vb.). DSP zinciri, kendi efekt sıranızı bireysel bloklardan kurduğunuz yerdir. Üçünü de aynı anda çalıştırabilirsiniz.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Efektler müzik dosyalarımı değiştirir veya bozar mı?" closed="true" %}}
+{{% ls-details title="Efektler müzik dosyalarımı değiştirir veya bozar mı?" closed="true" %}}
 Hayır. Her şey müzik çalarken canlı olarak uygulanır. Dosyalarınız asla değiştirilmez veya yeniden kaydedilmez. Bir efekti kapatın ve orijinal ses anında geri döner.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Aynı anda birden fazla efekt kullanabilir miyim?" closed="true" %}}
+{{% ls-details title="Aynı anda birden fazla efekt kullanabilir miyim?" closed="true" %}}
 Evet. Her efektin kendi anahtarı vardır ve ana anahtar yoktur, bu yüzden herhangi bir kombinasyon çalışır. Örneğin, eşit dinleme için Ses Normalizasyonu artı Compressor veya kulaklıkta Freeverb artı Crossfeed, üstünde ekolayzer ile.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Efekt denetimleri neden gri görünüyor?" closed="true" %}}
+{{% ls-details title="Efekt denetimleri neden gri görünüyor?" closed="true" %}}
 Efekt kapalıdır. Denetimleri kullanmak için düzenleyicinin üstündeki anahtarını açın. Her efekt varsayılan olarak kapalıdır.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Manual etiketi ne anlama gelir?" closed="true" %}}
+{{% ls-details title="Manual etiketi ne anlama gelir?" closed="true" %}}
 Bir sürgüyü bir ön ayardan uzaklaştırdığınız anlamına gelir, yani efekt artık adlandırılmış bir ön ayar yerine kendi özel değerlerinizi kullanıyor. Her sürgünün bir sıfırlama düğmesi vardır ve bir ön ayarı tekrar seçmek manuel değerlerinizin yerini alır.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Ekolayzer ön ayarlarımı kaydedip paylaşabilir miyim?" closed="true" %}}
+{{% ls-details title="Ekolayzer ön ayarlarımı kaydedip paylaşabilir miyim?" closed="true" %}}
 Evet. 22 yerleşik ön ayarın yanı sıra, kendinizinkileri oluşturabilir, yeniden sıralayabilir ve ayarlarınızı başka bir cihaza taşımak için dışa veya içe aktarabilirsiniz.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Efektler CarPlay, akış ve arka plan oynatımıyla çalışır mı?" closed="true" %}}
+{{% ls-details title="Efektler CarPlay, akış ve arka plan oynatımıyla çalışır mı?" closed="true" %}}
 Evet. Efektler BASS™ motorunun içinde çalışır, bu yüzden yerel dosyalara, bulut sürücülerine, medya sunucularına, yayınlara ve modül müziğine uygulanır ve CarPlay ile arka plan oynatımı sırasında çalışmaya devam ederler.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Ses çıkış kalitesini değiştirebilir miyim?" closed="true" %}}
+{{% ls-details title="Ses çıkış kalitesini değiştirebilir miyim?" closed="true" %}}
 Evet. Ayarlar > Ses çalar içinde çıkış örnekleme hızını, kanal sayısını ve arabellek boyutunu kulaklıklarınıza, hoparlörlerinize veya DAC'nize uyacak şekilde ayarlayabilirsiniz.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Kulaklıklar için iyi bir başlangıç kurulumu nedir?" closed="true" %}}
+{{% ls-details title="Kulaklıklar için iyi bir başlangıç kurulumu nedir?" closed="true" %}}
 Ses Normalizasyonu'nu (Standard) açın, hafif bir Compressor (Soft) ekleyin, beğendiğiniz bir ekolayzer ön ayarı seçin ve Crossfeed'i (Chu Moy veya Jan Meier) açın. Yaratıcı bir ses istemiyorsanız reverb, echo ve distortion'ı kapalı bırakın.
-{{% /details %}}
+{{% /ls-details %}}
 
 ---
 

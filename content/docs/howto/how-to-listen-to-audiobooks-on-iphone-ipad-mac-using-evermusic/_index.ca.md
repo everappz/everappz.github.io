@@ -7,7 +7,7 @@ tags: ["audiolibres", "reproducció", "fora de línia", "evermusic", "marcador"]
 readingTime: 5
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **Resum:** Evermusic funciona com un reproductor d'audiolibres complet a iOS i macOS. Transferiu audiolibres a través d'iTunes, WiFi o emmagatzematge al núvol, i després utilitzeu el control de velocitat de reproducció, els botons de salt de temps, els marcadors d'àudio, la continuació de reproducció i les descàrregues fora de línia per a una experiència d'escolta perfecta.
@@ -151,26 +151,26 @@ Bona escolta!
 
 ## Preguntes freqüents
 
-{{% details title="Quins formats d'audiolibres admet Evermusic?" closed="true" %}}
+{{% ls-details title="Quins formats d'audiolibres admet Evermusic?" closed="true" %}}
 Evermusic admet MP3, M4A, M4B, FLAC, WAV, AIFF, OGG i altres formats d'àudio comuns. Qualsevol fitxer d'àudio que es reprodueixi a Evermusic funciona com a audiollibre.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Puc escoltar audiolibres des de l'emmagatzematge al núvol?" closed="true" %}}
+{{% ls-details title="Puc escoltar audiolibres des de l'emmagatzematge al núvol?" closed="true" %}}
 Sí. Evermusic es connecta a iCloud Drive, Google Drive, Dropbox, OneDrive, Box i servidors WebDAV. Podeu reproduir audiolibres en streaming directament o descarregar-los per a l'escolta fora de línia.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Es transferiran els meus marcadors a un nou dispositiu?" closed="true" %}}
+{{% ls-details title="Es transferiran els meus marcadors a un nou dispositiu?" closed="true" %}}
 Sí. Evermusic desa els marcadors d'àudio a les metadades del fitxer, de manera que es transfereixen automàticament quan moveu fitxers a un nou dispositiu.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Evermusic recorda on vaig deixar d'escoltar?" closed="true" %}}
+{{% ls-details title="Evermusic recorda on vaig deixar d'escoltar?" closed="true" %}}
 Sí. Activeu "Desar la posició de reproducció" i "Desar l'estat del reproductor d'àudio" a Configuració > Reproductor d'àudio > General. L'aplicació desa i restaura la vostra posició exacta entre sessions.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Puc ajustar la velocitat de reproducció dels audiolibres?" closed="true" %}}
+{{% ls-details title="Puc ajustar la velocitat de reproducció dels audiolibres?" closed="true" %}}
 Sí. Aneu a Configuració > Reproductor d'àudio > Velocitat de reproducció per establir la vostra velocitat preferida. Podeu accelerar o alentir la narració per adaptar-la a la vostra preferència d'escolta.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Com transfereixo audiolibres a Evermusic?" closed="true" %}}
+{{% ls-details title="Com transfereixo audiolibres a Evermusic?" closed="true" %}}
 Podeu transferir fitxers a través de la compartició de fitxers d'iTunes/Finder, WiFi Drive (integrat a l'aplicació) o connectant un compte d'emmagatzematge al núvol dins d'Evermusic.
-{{% /details %}}
+{{% /ls-details %}}

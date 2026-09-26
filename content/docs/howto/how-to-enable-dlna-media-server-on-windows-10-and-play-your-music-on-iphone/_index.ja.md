@@ -7,7 +7,7 @@ tags: ["evermusic", "音楽", "クラウド", "iphone", "ストレージ", "ロ�
 readingTime: 2
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **要約：** Windows 10には内蔵DLNAサーバーがあります。ネットワークと共有の設定で有効にし、iPhoneの無料アプリ**Evermusic**を使ってWi-Fi経由で音楽ライブラリ全体をストリーミングできます。サードパーティのサーバーソフトウェアは不要です。
@@ -96,22 +96,22 @@ Windows 10のDLNAメディアサーバーとiPhoneのEvermusicを使えば、コ
 
 ## よくある質問
 
-{{% details title="Windows 10にサーバーソフトウェアをインストールする必要がありますか？" closed="true" %}}
+{{% ls-details title="Windows 10にサーバーソフトウェアをインストールする必要がありますか？" closed="true" %}}
 いいえ。Windows 10には内蔵DLNAメディアサーバーが含まれています。ネットワークと共有センターの設定でメディアストリーミングを有効にするだけです。サードパーティソフトウェアは不要です。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="iPhoneは同じWi-Fiネットワークに接続する必要がありますか？" closed="true" %}}
+{{% ls-details title="iPhoneは同じWi-Fiネットワークに接続する必要がありますか？" closed="true" %}}
 はい。DLNAストリーミングはローカルネットワーク上で動作します。EvermusicがDLNAサーバーを検出するには、Windows 10 PCとiPhoneの両方が同じWi-Fiネットワークに接続されている必要があります。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="DLNA経由でどのオーディオフォーマットをストリーミングできますか？" closed="true" %}}
+{{% ls-details title="DLNA経由でどのオーディオフォーマットをストリーミングできますか？" closed="true" %}}
 Windows DLNAサーバーは、フォーマットに関係なくミュージックフォルダのファイルを共有します。EvermusicはMP3、FLAC、AAC、WAV、OGG、AIFFなど多くのフォーマットに対応しているため、サーバーからほぼすべてのオーディオファイルを再生できます。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Evermusicの代わりにFlacboxを使用できますか？" closed="true" %}}
+{{% ls-details title="Evermusicの代わりにFlacboxを使用できますか？" closed="true" %}}
 はい。FlacboxもDLNA/UPnPの閲覧と再生に対応しています。どちらのアプリでもWindows DLNAサーバーから音楽を検出して再生できます。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="DLNAストリーミングはモバイルデータを使用しますか？" closed="true" %}}
+{{% ls-details title="DLNAストリーミングはモバイルデータを使用しますか？" closed="true" %}}
 いいえ。DLNAはローカルWi-Fiネットワーク上でのみ動作します。モバイルデータは一切使用しません。ただし、再生中は両方のデバイスが同じネットワークに接続されている必要があります。
-{{% /details %}}
+{{% /ls-details %}}

@@ -3,7 +3,9 @@ date: '2025-06-12T17:00:00+00:00'
 title: 'Destek'
 ---
 
-{{< lottie src="/images/juicy-json/juicy-girl-is-working-on-laptop-at-a-remote-job.json" width="80%" >}}
+{{< ls-lottie src="/images/juicy-json/juicy-girl-is-working-on-laptop-at-a-remote-job.json" width="80%" >}}
+
+{{< ls-docs-search >}}
 
 ## Yardıma mı ihtiyacınız var? Sizin için buradayız
 
@@ -19,9 +21,9 @@ Bizimle iletişime geçerek, [Gizlilik Politikamızı](../legal/privacy-policy) 
 Zamandan tasarruf etmek ve anında yanıt almak için lütfen en faydalı kaynaklarımıza göz atın. Birçok sık sorulan soru zaten yanıtlanmıştır:
 
 {{< cards >}}
-  {{< card icon="book-open" link="/docs/guide" title="Kullanıcı Kılavuzu" >}}
-  {{< card icon="question-mark-circle" link="/docs/faq" title="Sık Sorulan Sorular" >}}
-  {{< card icon="light-bulb" link="/docs/howto" title="Nasıl Yapılır" >}}
+  {{< ls-card icon="book-open" link="/docs/guide" title="Kullanıcı Kılavuzu" >}}
+  {{< ls-card icon="question-mark-circle" link="/docs/faq" title="Sık Sorulan Sorular" >}}
+  {{< ls-card icon="light-bulb" link="/docs/howto" title="Nasıl Yapılır" >}}
 {{< /cards >}}
 
 Bu kılavuzlar, uygulamalarımızdan en iyi şekilde yararlanmanıza yardımcı olmak için tasarlanmıştır — kurulumdan gelişmiş özelliklere kadar.

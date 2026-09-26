@@ -12,7 +12,7 @@ authors:
     image: "/images/about/artem-meleshko-founder-everappz.webp"
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 ![](/blog/evermusic-sync-your-music-library-save-playback-position-correct-music-tags/21260c_641f376e779e47d4927b43c210d3c87f~mv2.jpeg)
 
@@ -67,22 +67,22 @@ Evermusic, çevrimiçi veritabanlarını kullanarak geçersiz veya eksik ID3 eti
 
 ## Sıkça Sorulan Sorular
 
-{{% details title="Evermusic otomatik senkronizasyon tüm bulut hizmetleriyle çalışır mı?" closed="true" %}}
+{{% ls-details title="Evermusic otomatik senkronizasyon tüm bulut hizmetleriyle çalışır mı?" closed="true" %}}
 Evet. Otomatik senkronizasyon Dropbox, Google Drive, OneDrive, MEGA, WebDAV ve SMB ile çalışır. İzlemek istediğiniz klasörleri seçin, Evermusic kitaplığınızı güncel tutar.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Evermusic sesli kitap konumumu kaydedebilir mi?" closed="true" %}}
+{{% ls-details title="Evermusic sesli kitap konumumu kaydedebilir mi?" closed="true" %}}
 Evet. Ses ayarlarında oynatma konumu kaydetmeyi etkinleştirin. Evermusic her dosya için nerede durduğunuzu hatırlar, böylece manuel yer işaretleri olmadan devam edebilirsiniz.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Arka planda meta veri okuma nasıl çalışır?" closed="true" %}}
+{{% ls-details title="Arka planda meta veri okuma nasıl çalışır?" closed="true" %}}
 Evermusic, siz diğer özellikleri kullanırken arka planda ID3 etiketlerini ve dosya meta verilerini okur. Kitaplığınızı otomatik olarak Sanatçı, Albüm ve Tür'e göre düzenler.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Evermusic bozuk müzik etiketlerimi düzeltir mi?" closed="true" %}}
+{{% ls-details title="Evermusic bozuk müzik etiketlerimi düzeltir mi?" closed="true" %}}
 Evet. Otomatik etiket düzeltme özelliği, dosyalarınızı çevrimiçi veritabanlarıyla karşılaştırır ve geçersiz, eksik veya kayıp ID3 meta verilerini düzeltir.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Evermusic'i indirmek ücretsiz mi?" closed="true" %}}
+{{% ls-details title="Evermusic'i indirmek ücretsiz mi?" closed="true" %}}
 Evermusic, uygulama içi satın alma yoluyla sunulan isteğe bağlı premium özelliklerle ücretsiz olarak indirilebilir.
-{{% /details %}}
+{{% /ls-details %}}

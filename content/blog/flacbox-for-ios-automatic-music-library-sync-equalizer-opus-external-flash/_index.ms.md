@@ -12,7 +12,7 @@ authors:
     image: "/images/about/artem-meleshko-founder-everappz.webp"
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 **Flacbox 1.6** membawa ciri baharu utama ke pemain muzik FLAC untuk iPhone dan iPad.
 
@@ -68,18 +68,18 @@ Ada maklum balas atau permintaan ciri? Hubungi kami -- kami membina Flacbox berd
 
 ## Soalan Lazim
 
-{{% details title="Apakah format audio yang disokong Flacbox?" closed="true" %}}
+{{% ls-details title="Apakah format audio yang disokong Flacbox?" closed="true" %}}
 Flacbox menyokong FLAC, ALAC, MP3, AAC, OGG, OPUS, WAV, AIFF, DSD, dan format audio popular lain. Semua format berfungsi dengan penyama terbina dalam.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Bolehkah saya main muzik dari kad SD di iPhone saya?" closed="true" %}}
+{{% ls-details title="Bolehkah saya main muzik dari kad SD di iPhone saya?" closed="true" %}}
 Ya. Sambungkan kad SD atau microSD menggunakan Lightning to SD Card Camera Reader Adapter. Flacbox mengesan kad secara automatik dan membolehkan anda melayari dan memainkan fail terus dari storan luaran.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Adakah Flacbox menyegerak dengan storan awan secara automatik?" closed="true" %}}
+{{% ls-details title="Adakah Flacbox menyegerak dengan storan awan secara automatik?" closed="true" %}}
 Ya. Bermula dengan versi 1.6, Flacbox boleh menyegerakkan perpustakaan muzik anda dari folder awan secara automatik. Aktifkan Automatic Sync dalam Tetapan dan pilih folder yang ingin dipantau.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Adakah penyama Flacbox boleh disesuaikan?" closed="true" %}}
+{{% ls-details title="Adakah penyama Flacbox boleh disesuaikan?" closed="true" %}}
 Ya. Penyama 10 jalur membolehkan anda melaraskan tahap frekuensi individu antara -12 dB dan +12 dB. Anda boleh menggunakan pratetap terbina dalam atau menyimpan tetapan tersuai anda sendiri.
-{{% /details %}}
+{{% /ls-details %}}

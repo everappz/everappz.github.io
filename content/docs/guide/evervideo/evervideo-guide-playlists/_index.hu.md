@@ -19,7 +19,7 @@ A Lejátszási listák szakaszban hasznos eszközöket talál videógyűjtemény
 Az Evervideóban a lejátszási listák tartalmazhatnak online felhővideók, offline letöltött fájlok, helyi fájlok, Fotók könyvtár videók és iOS Music könyvtár videók keverékét — mindezt egy lejátszási listában — és zökkenőmentesen lejátssza őket.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evervideo lejátszási listák a médiakönyvtárban" image="/docs/guide/evervideo/img/evervideo-playlists-in-media-library.webp" >}}
+  {{< ls-card title="" subtitle="Evervideo lejátszási listák a médiakönyvtárban" image="/docs/guide/evervideo/img/evervideo-playlists-in-media-library.webp" >}}
 {{< /cards >}}
 
 ## Lejátszási lista létrehozása

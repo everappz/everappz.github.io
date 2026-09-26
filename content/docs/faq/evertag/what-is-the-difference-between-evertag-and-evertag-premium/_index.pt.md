@@ -11,7 +11,7 @@ tags: ["Evertag", "Premium", "Diferença", "Pro", "Gratuito vs Pago", "Aplicaç�
 O Evertag e o Evertag Premium são duas versões da mesma poderosa aplicação de edição de tags. Enquanto o Evertag Free lhe dá acesso a ferramentas essenciais de edição de metadados, o Evertag Premium desbloqueia a experiência completa — sem anúncios, ilimitado e personalizável.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evertag Upgrade To Premium Screen" image="/docs/faq/evertag/what-is-the-difference-between-evertag-and-evertag-premium/upgrade-to-premium.webp" >}}
+  {{< ls-card title="" subtitle="Evertag Upgrade To Premium Screen" image="/docs/faq/evertag/what-is-the-difference-between-evertag-and-evertag-premium/upgrade-to-premium.webp" >}}
 {{< /cards >}}
 
 ## Escolha o Seu Plano Premium
@@ -19,7 +19,7 @@ O Evertag e o Evertag Premium são duas versões da mesma poderosa aplicação d
 A versão gratuita da aplicação oferece uma compra única vitalícia e duas opções de subscrição (1 mês e 1 ano) para remover todas as restrições e atualizar para a versão Premium, permitindo-lhe escolher o melhor e mais otimizado preço para si. Os preços podem variar dependendo do seu país ou território. Tenha também em mente que a **Partilha Familiar** está **ativada** para todas as compras e planos, pelo que pode partilhar a versão Premium com membros da sua família.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evertag Select Your Premium Plan Screen" image="/docs/faq/evertag/what-is-the-difference-between-evertag-and-evertag-premium/select-your-plan.webp" >}}
+  {{< ls-card title="" subtitle="Evertag Select Your Premium Plan Screen" image="/docs/faq/evertag/what-is-the-difference-between-evertag-and-evertag-premium/select-your-plan.webp" >}}
 {{< /cards >}}
 
 ## Partilha de Compras Entre iOS e Mac
@@ -79,7 +79,7 @@ Uma vez que atualize a sua aplicação, verá o ecrã de estado Premium com deta
 Pode atualizar para a versão Premium gratuitamente, mas apenas por tempo limitado, usando o menu "Experimentar o premium gratuitamente". Basta ver um anúncio ou contar aos seus amigos sobre esta aplicação para obter a versão Premium gratuitamente.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evertag Try Premium For Free Screen" image="/docs/faq/evertag/what-is-the-difference-between-evertag-and-evertag-premium/try-premium-for-free.webp" >}}
+  {{< ls-card title="" subtitle="Evertag Try Premium For Free Screen" image="/docs/faq/evertag/what-is-the-difference-between-evertag-and-evertag-premium/try-premium-for-free.webp" >}}
 {{< /cards >}}
 
 ## O Que Escolher?

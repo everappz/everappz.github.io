@@ -12,7 +12,7 @@ authors:
     image: "/images/about/artem-meleshko-founder-everappz.webp"
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 ## Evermusic: Хмарний музичний плеєр для iPhone та iPad
 
@@ -22,7 +22,7 @@ Evermusic — це хмарний музичний плеєр, який підк
 
 ## Дивіться промовідео
 
-{{< youtubecard id="BwD0XLgdzEE" title="Evermusic Promo Video" >}}
+{{< ls-youtubecard id="BwD0XLgdzEE" title="Evermusic Promo Video" >}}
 
 ## Ключові функції, показані у відео
 
@@ -36,14 +36,14 @@ Evermusic — це хмарний музичний плеєр, який підк
 
 ## Часті запитання
 
-{{% details title="Що таке Evermusic?" closed="true" %}}
+{{% ls-details title="Що таке Evermusic?" closed="true" %}}
 Evermusic — це хмарний музичний плеєр для iPhone та iPad. Він підключається до хмарних сховищ, таких як Dropbox, Google Drive та OneDrive, дозволяючи стрімити та завантажувати ваші власні музичні файли. Підтримує FLAC, MP3, AAC, WAV та інші аудіоформати.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Чи безкоштовне завантаження Evermusic?" closed="true" %}}
+{{% ls-details title="Чи безкоштовне завантаження Evermusic?" closed="true" %}}
 Так. Evermusic безкоштовний для завантаження з базовими функціями. Одноразове оновлення Premium розблоковує еквалайзер, crossfade та додаткові підключення хмарних облікових записів.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Які хмарні сервіси підтримує Evermusic?" closed="true" %}}
+{{% ls-details title="Які хмарні сервіси підтримує Evermusic?" closed="true" %}}
 Evermusic підтримує понад 12 хмарних платформ, включаючи iCloud Drive, Dropbox, Google Drive, OneDrive, Box, MEGA, Yandex.Disk, pCloud та будь-який сервер з протоколами WebDAV або SMB.
-{{% /details %}}
+{{% /ls-details %}}

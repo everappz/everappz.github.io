@@ -18,7 +18,7 @@ La secció de Fitxers locals serveix com a centre per gestionar els fitxers ubic
 Aquest gestor de fitxers integrat et permet editar fitxers i ofereix diversos mètodes per importar fitxers d'àudio a l'aplicació. Els fitxers que has obert recentment apareixen automàticament a la pestanya **Recents** i els elements que marques amb una estrella apareixen a **Favorits**, perquè puguis accedir directament als fitxers amb els quals treballes més sense tornar a navegar per aquesta pantalla.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Pantalla de Descàrregues d'Evertag" image="/docs/guide/evertag/img/downloads.webp" >}}
+  {{< ls-card title="" subtitle="Pantalla de Descàrregues d'Evertag" image="/docs/guide/evertag/img/downloads.webp" >}}
 {{< /cards >}}
 
 ## Descarregar fitxers de l'emmagatzematge al núvol
@@ -74,7 +74,7 @@ Mostra els fitxers i carpetes emmagatzemats al directori Documents de l'aplicaci
 Mostra els fitxers ubicats al teu dispositiu però en aplicacions diferents. Pots importar-los a aquesta aplicació utilitzant el selector de fitxers del sistema. Per activar el selector, tria "Obrir fitxers..." per seleccionar fitxers o "Obrir carpetes..." per seleccionar carpetes. Les instruccions detallades sobre com importar música local emmagatzemada al teu iPhone o Mac estan disponibles [aquí](/docs/howto/how-to-play-local-music-stored-on-your-iphone-or-mac). També pots connectar una carpeta ubicada al teu dispositiu i tenir accés ràpid al contingut de la carpeta. Utilitza l'element de menú "Connectar una carpeta" i tria una carpeta ubicada al teu dispositiu. Toca "Fet" i l'aplicació crearà un enllaç a aquella carpeta amb accés de lectura/escriptura, permetent-te gestionar fitxers directament des d'aquesta aplicació. Per desconnectar una carpeta ubicada al teu dispositiu, toca el botó "Més Accions" i tria "Desconnectar".
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Importar fitxers des del meu dispositiu a Evertag" image="/docs/guide/evertag/img/open-files.webp" >}}
+  {{< ls-card title="" subtitle="Importar fitxers des del meu dispositiu a Evertag" image="/docs/guide/evertag/img/open-files.webp" >}}
 {{< /cards >}}
 
 ## Importar fitxers ubicats a targetes USB connectades
@@ -86,7 +86,7 @@ Les instruccions detallades sobre com connectar una targeta USB al teu iPhone i 
 El menú Més Accions per a la carpeta oberta actualment es troba a la cantonada superior dreta i proporciona accés a diverses accions.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Importar fitxers des del meu dispositiu a Evertag" image="/docs/guide/evertag/img/downloads-current-folder-actions.webp" >}}
+  {{< ls-card title="" subtitle="Importar fitxers des del meu dispositiu a Evertag" image="/docs/guide/evertag/img/downloads-current-folder-actions.webp" >}}
 {{< /cards >}}
 
 - **Seleccionar:** canvia al mode de selecció de fitxers i carpetes.  

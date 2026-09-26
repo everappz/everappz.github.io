@@ -7,14 +7,14 @@ keywords: ["transfer musik tanpa iTunes", "wifi drive iphone", "salin musik nirk
 readingTime: 2
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **Ringkasan:** Gunakan Wi-Fi Drive di Evermusic, Flacbox, atau Evertag untuk mentransfer musik dari komputer ke iPhone atau iPad. Tidak perlu iTunes. Kedua perangkat harus berada di jaringan Wi-Fi yang sama. Transfer melalui browser web atau WebDAV (Mac Finder / Windows File Explorer).
 
 Anda dapat menonton tutorial video dari [**TECHGUYPH**](https://www.youtube.com/channel/UCgpf09gGFE_c_3pPTtTpnzg) atau membaca versi teks di bawah ini.
 <br><br>
-{{< youtubecard id="CqdqrQ0ge70" title="Can We Wirelessly Put Offline Music on iPhones?" >}}
+{{< ls-youtubecard id="CqdqrQ0ge70" title="Can We Wirelessly Put Offline Music on iPhones?" >}}
 
 Wi-Fi Drive adalah solusi terbaik untuk mentransfer koleksi musik Anda dari komputer ke iPhone atau iPad dengan mulus tanpa memerlukan iTunes. Metode mudah ini memungkinkan Anda mengunduh atau mengunggah beberapa file audio dan bahkan seluruh folder menggunakan koneksi Wi-Fi lokal Anda. Komputer dan perangkat iOS Anda harus terhubung ke jaringan Wi-Fi yang sama agar ini berfungsi dengan sempurna.
 
@@ -84,22 +84,22 @@ Dengan Wi-Fi Drive, hari-hari berjuang dengan iTunes telah berakhir. Nikmati car
 
 ## Pertanyaan yang Sering Diajukan
 
-{{% details title="Format audio apa saja yang bisa saya transfer dengan Wi-Fi Drive?" closed="true" %}}
+{{% ls-details title="Format audio apa saja yang bisa saya transfer dengan Wi-Fi Drive?" closed="true" %}}
 Wi-Fi Drive mentransfer jenis file apa pun. Evermusic dan Flacbox mendukung pemutaran MP3, FLAC, AAC, WAV, AIFF, OGG, WMA, dan banyak format audio lainnya.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Apakah saya memerlukan iTunes untuk memasukkan musik ke iPhone?" closed="true" %}}
+{{% ls-details title="Apakah saya memerlukan iTunes untuk memasukkan musik ke iPhone?" closed="true" %}}
 Tidak. Wi-Fi Drive mentransfer musik langsung melalui jaringan Wi-Fi lokal Anda. iTunes tidak diperlukan.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Bisakah saya mentransfer seluruh folder musik sekaligus?" closed="true" %}}
+{{% ls-details title="Bisakah saya mentransfer seluruh folder musik sekaligus?" closed="true" %}}
 Ya. Metode browser web mendukung pengunggahan seluruh folder, termasuk subfolder bersarang.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Apakah transfer musik saya aman?" closed="true" %}}
+{{% ls-details title="Apakah transfer musik saya aman?" closed="true" %}}
 Wi-Fi Drive berjalan hanya di jaringan lokal Anda. Anda juga dapat mengatur nama pengguna dan kata sandi untuk keamanan tambahan.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Aplikasi apa saja yang mendukung Wi-Fi Drive untuk musik?" closed="true" %}}
+{{% ls-details title="Aplikasi apa saja yang mendukung Wi-Fi Drive untuk musik?" closed="true" %}}
 Evermusic, Flacbox, dan Evertag semuanya menyertakan Wi-Fi Drive untuk mentransfer file audio dari komputer Anda.
-{{% /details %}}
+{{% /ls-details %}}

@@ -7,7 +7,7 @@ keywords: ["transferir fitxers sense fil a iPhone", "transferència de fitxers w
 readingTime: 2
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **Resum:** Wi-Fi Drive us permet transferir fitxers des de qualsevol ordinador al vostre iPhone o iPad a través de Wi-Fi -- sense necessitat d'iTunes ni cables. Utilitzeu un navegador web, Mac Finder o Windows File Explorer. Ambdós dispositius han d'estar connectats a la mateixa xarxa Wi-Fi.
@@ -18,7 +18,7 @@ Podeu transferir fitxers sense fil utilitzant un navegador web d'escriptori o un
 
 Podeu veure un vídeo tutorial de [**TECHGUYPH**](https://www.youtube.com/channel/UCgpf09gGFE_c_3pPTtTpnzg) o llegir la versió de text a continuació.
 <br><br>
-{{< youtubecard id="CqdqrQ0ge70" title="Can We Wirelessly Put Offline Music on iPhones?" >}}
+{{< ls-youtubecard id="CqdqrQ0ge70" title="Can We Wirelessly Put Offline Music on iPhones?" >}}
 
 ## Transferir fitxers de l'ordinador sense fil amb un navegador web d'escriptori
 
@@ -90,26 +90,26 @@ No cal iTunes!
 
 ## Preguntes freqüents
 
-{{% details title="Necessito iTunes per transferir fitxers al meu iPhone?" closed="true" %}}
+{{% ls-details title="Necessito iTunes per transferir fitxers al meu iPhone?" closed="true" %}}
 No. Wi-Fi Drive transfereix fitxers directament a través de la vostra xarxa Wi-Fi local. No cal iTunes.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Quines aplicacions admeten Wi-Fi Drive?" closed="true" %}}
+{{% ls-details title="Quines aplicacions admeten Wi-Fi Drive?" closed="true" %}}
 Wi-Fi Drive està disponible a Evermusic, Flacbox, Evertag i Evervideo per a iOS.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Ambdós dispositius han d'estar a la mateixa xarxa Wi-Fi?" closed="true" %}}
+{{% ls-details title="Ambdós dispositius han d'estar a la mateixa xarxa Wi-Fi?" closed="true" %}}
 Sí. El vostre ordinador i iPhone o iPad han d'estar connectats a la mateixa xarxa Wi-Fi local perquè Wi-Fi Drive funcioni.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Puc transferir carpetes senceres, no només fitxers individuals?" closed="true" %}}
+{{% ls-details title="Puc transferir carpetes senceres, no només fitxers individuals?" closed="true" %}}
 Sí. Wi-Fi Drive admet la pujada i descàrrega de carpetes senceres a través de la interfície del navegador web.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Wi-Fi Drive funciona amb Windows?" closed="true" %}}
+{{% ls-details title="Wi-Fi Drive funciona amb Windows?" closed="true" %}}
 Sí. Podeu utilitzar qualsevol navegador web a Windows o connectar-vos mitjançant Windows File Explorer utilitzant el protocol WebDAV.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Puc utilitzar un cable USB per accelerar la transferència?" closed="true" %}}
+{{% ls-details title="Puc utilitzar un cable USB per accelerar la transferència?" closed="true" %}}
 Sí. Si el vostre iPhone està connectat al Mac via USB mentre Wi-Fi Drive està en funcionament, la transferència utilitzarà la connexió per cable per a velocitats més ràpides.
-{{% /details %}}
+{{% /ls-details %}}

@@ -20,7 +20,7 @@ U odjeljku Popisi pjesama naći ćete korisne alate za upravljanje glazbenim kol
 Popisi pjesama u Flacboxu mogu sadržavati mješavinu online cloud zapisa, offline preuzetih datoteka i lokalnih datoteka s vašeg uređaja — sve u jednom popisu — i besprijekorno se reproduciraju zajedno.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Glavni zaslon Popisa pjesama u Flacboxu" image="/docs/guide/flacbox/img/playlists-main.webp" >}}
+  {{< ls-card title="" subtitle="Glavni zaslon Popisa pjesama u Flacboxu" image="/docs/guide/flacbox/img/playlists-main.webp" >}}
 {{< /cards >}}
 
 ## Stvaranje popisa pjesama
@@ -63,7 +63,7 @@ Kada otvorite popis pjesama, pojavljuje se zaslon Detalja popisa. U gornjem desn
 - **Offline način rada** — preuzmite sve zapise iz ovog popisa u lokalne datoteke. Sve nove stavke dodane u popis automatski se preuzimaju.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Zaslon detalja popisa u Flacboxu" image="/docs/guide/flacbox/img/playlist-details-screen.webp" >}}
+  {{< ls-card title="" subtitle="Zaslon detalja popisa u Flacboxu" image="/docs/guide/flacbox/img/playlist-details-screen.webp" >}}
 {{< /cards >}}
 
 ## Više radnji za popis na zaslonu Popisi
@@ -82,7 +82,7 @@ Radnjama za popis možete pristupiti tapnutjem na gumb **"..."** pored naslova p
 - **Izbriši popis** — izbriši popis iz glazbene biblioteke. **Ova radnja se ne može poništiti.**
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Više radnji za popis na glavnom zaslonu Popisa u Flacboxu" image="/docs/guide/flacbox/img/more-actions-for-playlist-in-playlists-main-screen.webp" >}}
+  {{< ls-card title="" subtitle="Više radnji za popis na glavnom zaslonu Popisa u Flacboxu" image="/docs/guide/flacbox/img/more-actions-for-playlist-in-playlists-main-screen.webp" >}}
 {{< /cards >}}
 
 ## Više radnji za popis na zaslonu Detalja popisa
@@ -110,7 +110,7 @@ Za promjenu redosljeda pjesama u popisu, tapnite gumb **"..."** u gornjem desnom
 Za još jednostavniji radni tijek s dugim popisima, odaberite Više radnji → Prerasporedi pjesme za ulazak u namjenski način preraspoređivanja povuci i ispusti.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Preraspoređivanje pjesama u popisu u Flacboxu" image="/docs/guide/flacbox/img/playlist-details-rearange-songs.webp" >}}
+  {{< ls-card title="" subtitle="Preraspoređivanje pjesama u popisu u Flacboxu" image="/docs/guide/flacbox/img/playlist-details-rearange-songs.webp" >}}
 {{< /cards >}}
 
 ## Promjena omota popisa
@@ -126,7 +126,7 @@ Otvorite popis i tapnite gumb **"..."** u gornjem desnom kutu, zatim odaberite *
 Otvorite popis, tapnite gumb **"..."** u gornjem desnom kutu i odaberite **Odaberi** za ulazak u način odabira. Odaberite zapise koje želite izbrisati i tapnite **Izbriši iz popisa** pri dnu zaslona. Potvrdite tapnutjem **Završeno**.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Način odabira na zaslonu detalja popisa u Flacboxu" image="/docs/guide/flacbox/img/selection-mode-playlist-details-screen.webp" >}}
+  {{< ls-card title="" subtitle="Način odabira na zaslonu detalja popisa u Flacboxu" image="/docs/guide/flacbox/img/selection-mode-playlist-details-screen.webp" >}}
 {{< /cards >}}
 
 ## Opcije zapisa

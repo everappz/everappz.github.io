@@ -23,7 +23,7 @@ readingTime: 16
 Η οθόνη Ρυθμίσεις είναι το κέντρο ελέγχου του Evervideo. Από εδώ μπορείτε να αναβαθμίσετε σε Premium, να διαμορφώσετε τις μηχανές βίντεο και ήχου (κωδικοποιητές συστήματος ή FFmpeg), να διαχειριστείτε το Εικόνα-μέσα-σε-Εικόνα, να ρυθμίσετε υποτίτλους (πρωτεύοντες, δευτερεύοντες, libass, εξωτερικά αρχεία, γραμματοσειρές), να οργανώσετε τη μεσοθήκη, να ρυθμίσετε τον διαχειριστή αρχείων, να ενεργοποιήσετε γραφικά στοιχεία Αρχικής οθόνης, να δημιουργήσετε αντίγραφα ασφαλείας των δεδομένων σας και να αποκτήσετε πρόσβαση σε βοήθεια και νομικές πληροφορίες. Οι ενότητες ομαδοποιούνται υπό επικεφαλίδες: Αγορές & Ενημερώσεις, Προτιμήσεις εφαρμογής, Βοήθεια, Νομικά & Απόρρητο.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Κύρια οθόνη Ρυθμίσεων Evervideo" image="/docs/guide/evervideo/img/evervideo-settings.webp" >}}
+  {{< ls-card title="" subtitle="Κύρια οθόνη Ρυθμίσεων Evervideo" image="/docs/guide/evervideo/img/evervideo-settings.webp" >}}
 {{< /cards >}}
 
 ## Αναβάθμιση σε Premium
@@ -31,13 +31,13 @@ readingTime: 16
 Αναβαθμίστε την εφαρμογή στην έκδοση Premium για να αφαιρέσετε όλους τους περιορισμούς. Η δωρεάν έκδοση της εφαρμογής προσφέρει μια εφάπαξ αγορά δια βίου εντός εφαρμογής και δύο επιλογές συνδρομής (1 μήνας και 1 χρόνος) για την αφαίρεση όλων των περιορισμών και την αναβάθμιση σε Premium.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Αναβάθμιση Evervideo σε Premium" image="/docs/guide/evervideo/img/evervideo-upgrade-to-premium.webp" >}}
+  {{< ls-card title="" subtitle="Αναβάθμιση Evervideo σε Premium" image="/docs/guide/evervideo/img/evervideo-upgrade-to-premium.webp" >}}
 {{< /cards >}}
 
 Η **Οικογενειακή κοινή χρήση** είναι ενεργοποιημένη για όλες τις αγορές και τα πλάνα, ώστε να μπορείτε να μοιράζεστε την Premium έκδοση με έως και πέντε μέλη της οικογένειάς σας χωρίς επιπλέον κόστος.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evervideo Επιλογή πλάνου Premium" image="/docs/guide/evervideo/img/evervideo-select-premium-plan.webp" >}}
+  {{< ls-card title="" subtitle="Evervideo Επιλογή πλάνου Premium" image="/docs/guide/evervideo/img/evervideo-select-premium-plan.webp" >}}
 {{< /cards >}}
 
 ## Κοινή χρήση αγορών μεταξύ iOS και Mac
@@ -51,7 +51,7 @@ readingTime: 16
 Για να επαναφέρετε την αγορά σας σε μια νέα συσκευή, χρησιμοποιήστε το μενού **Αγορές → Επαναφορά αγορών**. Θα δείτε τη λίστα των αγορών σας. Αν δεν βλέπετε όλες τις αγορές, επιβεβαιώστε ότι η συσκευή είναι συνδεδεμένη στο ίδιο Apple ID που χρησιμοποιήθηκε για τις αγορές, και βεβαιωθείτε ότι το iCloud είναι ενεργοποιημένο.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Μενού Αγορών Evervideo στις Ρυθμίσεις" image="/docs/guide/evervideo/img/evervideo-purhases-menu-in-settings.webp" >}}
+  {{< ls-card title="" subtitle="Μενού Αγορών Evervideo στις Ρυθμίσεις" image="/docs/guide/evervideo/img/evervideo-purhases-menu-in-settings.webp" >}}
 {{< /cards >}}
 
 ## Δοκιμάστε το Premium δωρεάν

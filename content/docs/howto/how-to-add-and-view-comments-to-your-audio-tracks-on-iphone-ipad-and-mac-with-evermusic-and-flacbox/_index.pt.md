@@ -7,7 +7,7 @@ tags: ["evermusic", "áudio", "editor", "tags", "comentários"]
 readingTime: 4
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **Resumo:** Evermusic e Flacbox permitem adicionar comentários de texto com marcadores de tempo a qualquer faixa de áudio e exibi-los sincronizados durante a reprodução. Você também pode visualizar letras incorporadas e arquivos LRC. As funcionalidades de comentários e letras são gratuitas em ambos os aplicativos.
@@ -97,22 +97,22 @@ A adição de comentários às faixas de áudio no Evermusic e Flacbox marca um 
 
 ## Perguntas frequentes
 
-{{% details title="A funcionalidade de comentários é gratuita no Evermusic e Flacbox?" closed="true" %}}
+{{% ls-details title="A funcionalidade de comentários é gratuita no Evermusic e Flacbox?" closed="true" %}}
 Sim. Adicionar, editar e visualizar comentários e letras é uma funcionalidade gratuita tanto no Evermusic quanto no Flacbox.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Qual formato devo usar para comentários temporizados?" closed="true" %}}
+{{% ls-details title="Qual formato devo usar para comentários temporizados?" closed="true" %}}
 Use o formato de marcador de tempo LRC: `[MM:SS.SS]` seguido do seu texto. Por exemplo: `[01:23.45]Este é meu comentário`. Você pode atribuir múltiplas marcações de tempo a uma única linha.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Posso visualizar letras e arquivos LRC na mesma tela?" closed="true" %}}
+{{% ls-details title="Posso visualizar letras e arquivos LRC na mesma tela?" closed="true" %}}
 Sim. A tela de Comentários suporta três modos entre os quais você pode deslizar: Comentários, Letras incorporadas e Arquivo LRC.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Onde posso encontrar arquivos de letras LRC?" closed="true" %}}
+{{% ls-details title="Onde posso encontrar arquivos de letras LRC?" closed="true" %}}
 Letras LRC gratuitas estão disponíveis em sites como Lyricsify.com. Você pode incorporá-las na tag de letras do seu arquivo de áudio ou colocar um arquivo `.lrc` separado ao lado do seu arquivo de áudio.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Preciso de um aplicativo separado para editar tags de letras?" closed="true" %}}
+{{% ls-details title="Preciso de um aplicativo separado para editar tags de letras?" closed="true" %}}
 Você pode editar comentários diretamente no Evermusic e Flacbox. Para editar especificamente a tag de letras, use o Evertag, um editor de metadados de áudio gratuito para iOS e macOS.
-{{% /details %}}
+{{% /ls-details %}}

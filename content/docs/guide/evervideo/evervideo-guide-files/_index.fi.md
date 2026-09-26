@@ -33,7 +33,7 @@ Tiedostot-välilehti on jaettu selkeisiin osioihin, jotka näkyvät tässä jär
 Tiedostot-näytön oikeassa yläkulmassa on Siirrot-painike (pyörivien nuolten kuvake). Napauta sitä avataksesi Siirtojono, jossa tarkkailet jokaista latausta ja lähetystä kaikista lähteistäsi.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evervideo tiedostot yhdistettyjen tallennusten yli" image="/docs/guide/evervideo/img/evervideo-files-connected-storages.webp" >}}
+  {{< ls-card title="" subtitle="Evervideo tiedostot yhdistettyjen tallennusten yli" image="/docs/guide/evervideo/img/evervideo-files-connected-storages.webp" >}}
 {{< /cards >}}
 
 ## Yhdistä Pilvitallennukseen
@@ -41,7 +41,7 @@ Tiedostot-näytön oikeassa yläkulmassa on Siirrot-painike (pyörivien nuolten 
 Tiedostot-välilehden Pilvitallennus-osio on paikka, jossa jokainen yhdistetty tili, NAS, mediapalvelin ja virta sijaitsee — rinnakkain yhdessä vieritettävässä listassa.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evervideo Pilvitallennus-osio Tiedostot-välilehdessä" image="/docs/guide/evervideo/img/evervideo-connections.webp" >}}
+  {{< ls-card title="" subtitle="Evervideo Pilvitallennus-osio Tiedostot-välilehdessä" image="/docs/guide/evervideo/img/evervideo-connections.webp" >}}
 {{< /cards >}}
 
 - Avaa **Tiedostot**-välilehti.
@@ -51,7 +51,7 @@ Tiedostot-välilehden Pilvitallennus-osio on paikka, jossa jokainen yhdistetty t
 - Syötä tunnistetietosi pilvipalveluntarjoajan virallisella valtuutussivulla ja napauta sitten **Valmis**.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evervideo Yhdistä pilvipalveluun" image="/docs/guide/evervideo/img/evervideo-connect-cloud-storage.webp" >}}
+  {{< ls-card title="" subtitle="Evervideo Yhdistä pilvipalveluun" image="/docs/guide/evervideo/img/evervideo-connect-cloud-storage.webp" >}}
 {{< /cards >}}
 
 Jos kohtaat ongelmia, tarkista internet-yhteytesi ja käyttäjänimesi / salasanasi. Sovelluksen Premium-versiossa voit lisätä rajattoman määrän palveluja; ilmainen versio tukee enintään kolmea.
@@ -161,7 +161,7 @@ Tässä osiossa näkyvät kaikki paikalliverkossasi olevat laitteet, joihin voit
 - Tarvittaessa syötä kirjautumistietosi viimeistelläksesi yhteyden.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evervideo Saatavilla Olevat Laitteet Paikallisverkossa" image="/docs/guide/evervideo/img/evervideo-available-devices.webp" >}}
+  {{< ls-card title="" subtitle="Evervideo Saatavilla Olevat Laitteet Paikallisverkossa" image="/docs/guide/evervideo/img/evervideo-available-devices.webp" >}}
 {{< /cards >}}
 
 ## Wi-Fi Drive
@@ -169,7 +169,7 @@ Tässä osiossa näkyvät kaikki paikalliverkossasi olevat laitteet, joihin voit
 Wi-Fi Drive mahdollistaa tiedostojen siirtämisen langattomasti tietokoneeltasi iOS-laitteellesi minkä tahansa pöytäkoneen selaimen, Finderin tai Resurssienhallinnon kautta. Laitteesi ja tietokoneesi on oltava samassa Wi-Fi-verkossa.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evervideo Wi-Fi Drive" image="/docs/guide/evervideo/img/evervideo-wifi-drive.webp" >}}
+  {{< ls-card title="" subtitle="Evervideo Wi-Fi Drive" image="/docs/guide/evervideo/img/evervideo-wifi-drive.webp" >}}
 {{< /cards >}}
 
 ### Wi-Fi Driven Ottaminen Käyttöön
@@ -201,7 +201,7 @@ Liitä USB-asema tai SD-kortti iPhoneen, iPadiin tai Maciin Lightning-USB / USB-
 Napauta mitä tahansa yhdistettyä pilvipalvelua avataksesi sen tiedostonselaimen. Kansiot näyttävät videopienoiskuvia kun saatavilla, ja videon napauttaminen aloittaa toiston välittömästi samalla kun tiedoston loppuosa jatkaa suoratoistoa taustalla.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evervideo Kansioiden selaaminen yhdistetyissä tallennuksissa" image="/docs/guide/evervideo/img/evervideo-all-connected-device-folders.webp" >}}
+  {{< ls-card title="" subtitle="Evervideo Kansioiden selaaminen yhdistetyissä tallennuksissa" image="/docs/guide/evervideo/img/evervideo-all-connected-device-folders.webp" >}}
 {{< /cards >}}
 
 ## Pikakäyttö
@@ -209,7 +209,7 @@ Napauta mitä tahansa yhdistettyä pilvipalvelua avataksesi sen tiedostonselaime
 Pikakäyttö-osio sijaitsee Tiedostot-välilehden yläosassa. Se antaa sinulle nopean pääsyn suosikki- ja äskettäin avattuihin tiedostoihin ja kansioihin — sekä pilvipalveluista että laitteen tallennuksesta. Aina kun avaat tiedoston tai kansion pilvestä, se lisätään Äskettäin avattujen listaan. Voit merkitä syvälle sisäkkäisiä kansioita Suosikeiksi päästäksesi niihin nopeasti ilman hakemistorakenteen läpikäymistä.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evervideo Online-linkit ja Pikakäyttö" image="/docs/guide/evervideo/img/evervideo-connections-online-links.webp" >}}
+  {{< ls-card title="" subtitle="Evervideo Online-linkit ja Pikakäyttö" image="/docs/guide/evervideo/img/evervideo-connections-online-links.webp" >}}
 {{< /cards >}}
 
 ## Tiedostot Tässä Sovelluksessa
@@ -217,7 +217,7 @@ Pikakäyttö-osio sijaitsee Tiedostot-välilehden yläosassa. Se antaa sinulle n
 Tässä osiossa näkyvät tiedostot ja kansiot, jotka on tallennettu Evervideo-sovelluksen hiekkalaatikkotettuun Asiakirjat-hakemistoon — kaikki, mitä olet ladannut pilvestä, siirtänyt Wi-Fi Driven kautta, kopioinut Finder-tiedostonjaon kautta tai tuonut toisesta sovelluksesta.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evervideo Tiedostot tässä sovelluksessa" image="/docs/guide/evervideo/img/evervideo-files-in-this-application.webp" >}}
+  {{< ls-card title="" subtitle="Evervideo Tiedostot tässä sovelluksessa" image="/docs/guide/evervideo/img/evervideo-files-in-this-application.webp" >}}
 {{< /cards >}}
 
 ### Asiakirjat-Kansio
@@ -225,7 +225,7 @@ Tässä osiossa näkyvät tiedostot ja kansiot, jotka on tallennettu Evervideo-s
 Asiakirjat-kansio on kaiken juuri Tiedostot tässä sovelluksessa -osiossa. Voit luoda alikansioita, nimetä tiedostoja uudelleen, siirtää niitä ja ryhmitellä ne haluamallasi tavalla.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evervideo Paikalliset tiedostot — Asiakirjat-kansio" image="/docs/guide/evervideo/img/evervideo-local-files-documents.webp" >}}
+  {{< ls-card title="" subtitle="Evervideo Paikalliset tiedostot — Asiakirjat-kansio" image="/docs/guide/evervideo/img/evervideo-local-files-documents.webp" >}}
 {{< /cards >}}
 
 ## Tiedostot Tällä iPhone / iPad / Mac
@@ -238,7 +238,7 @@ Tässä osiossa näkyvät laitteellasi olevat videot, mutta eri sovelluksissa. V
 Voit myös käyttää Yhdistä kansio -toimintoa luodaksesi linkin laitteellasi olevaan kansioon luku- / kirjoitusoikeuksilla — täydellinen iCloud Drive -kansion tai liitetyn USB-aseman käyttöön kopioimatta mitään.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evervideo Tiedostot tällä laitteella" image="/docs/guide/evervideo/img/evervideo-files-on-this-device.webp" >}}
+  {{< ls-card title="" subtitle="Evervideo Tiedostot tällä laitteella" image="/docs/guide/evervideo/img/evervideo-files-on-this-device.webp" >}}
 {{< /cards >}}
 
 ## Erikoiskansiot
@@ -276,7 +276,7 @@ Kun avaat kansion, napauta **"..."**-painiketta oikeassa yläkulmassa näiden to
 Napauta **"..."** oikeassa yläkulmassa ja valitse **Valita** aktivoidaksesi valintamoodin. Jokaisen tiedoston ja kansion vieressä näkyvät valintaruudut. Napauta valitaksesi yhden tai useamman kohteen, suorita sitten erätoimintoja: Toista seuraavaksi, Toista myöhemmin, Lisää mediakirjastoon, Lisää soittolistaan, Kopioi, Lataa, Siirrä, Nimeä uudelleen tai Poista.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evervideo valintamoodi tiedostohallinnassa" image="/docs/guide/evervideo/img/evervideo-selection-mode-in-files.webp" >}}
+  {{< ls-card title="" subtitle="Evervideo valintamoodi tiedostohallinnassa" image="/docs/guide/evervideo/img/evervideo-selection-mode-in-files.webp" >}}
 {{< /cards >}}
 
 Jos haluat mieluummin käsitellä yhdistettyä pilvitallennusta vain luku -tilassa (vahingollisten poistojen estämiseksi), ota käyttöön Asetukset → Tiedostohallinta → Muokkaa online-tiedostoja → Pois käytöstä piilottaaksesi kaikki tuhoavat toiminnot käyttöliittymästä.
@@ -318,13 +318,13 @@ Jokaiselle pilvitallennuksessasi olevalle kansiolle on monia toimintoja saatavil
 Tiedostot-välilehden oikeassa yläkulmassa on **Siirrot**-painike (pyörivien nuolten kuvake). Napauta sitä avataksesi Siirtojono — luettelo kaikista aktiivisista latauksista ja lähetyksistä kaikissa lähteissäsi reaaliaikaisella edistymisellä, nopeudella ja ETA:lla per tiedosto.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evervideo Tiedostojen siirtojono" image="/docs/guide/evervideo/img/evervideo-file-transfers.webp" >}}
+  {{< ls-card title="" subtitle="Evervideo Tiedostojen siirtojono" image="/docs/guide/evervideo/img/evervideo-file-transfers.webp" >}}
 {{< /cards >}}
 
 Voit keskeyttää, jatkaa, yrittää uudelleen epäonnistuneita siirtoja, järjestää kohteita uudelleen priorisoidaksesi tiettyjä latauksia tai peruuttaa niitä yksitellen. Voit myös säätää siirtojonon nopeutta (enimmäismäärä rinnakkaisia tehtäviä), verkkotyyppiä (vain Wi-Fi tai Wi-Fi + mobiilidata) ja taustasiirtoja kohdassa Asetukset → Tiedostohallinta.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evervideo Toiminnot tiedostojen siirtojonossa" image="/docs/guide/evervideo/img/evervideo-file-transfers-actions.webp" >}}
+  {{< ls-card title="" subtitle="Evervideo Toiminnot tiedostojen siirtojonossa" image="/docs/guide/evervideo/img/evervideo-file-transfers-actions.webp" >}}
 {{< /cards >}}
 
 ## Offline-Tila ja Synkronoidut Offline-Kansiot

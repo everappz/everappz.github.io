@@ -12,7 +12,7 @@ authors:
     image: "/images/about/artem-meleshko-founder-everappz.webp"
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 **Flacbox 1.6** mang đến các tính năng mới quan trọng cho trình phát nhạc FLAC dành cho iPhone và iPad.
 
@@ -68,18 +68,18 @@ Có phản hồi hoặc yêu cầu tính năng? Liên hệ với chúng tôi -- 
 
 ## Câu hỏi thường gặp
 
-{{% details title="Flacbox hỗ trợ những định dạng âm thanh nào?" closed="true" %}}
+{{% ls-details title="Flacbox hỗ trợ những định dạng âm thanh nào?" closed="true" %}}
 Flacbox hỗ trợ FLAC, ALAC, MP3, AAC, OGG, OPUS, WAV, AIFF, DSD và các định dạng âm thanh phổ biến khác. Tất cả định dạng hoạt động với bộ cân bằng tích hợp.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Tôi có thể phát nhạc từ thẻ SD trên iPhone không?" closed="true" %}}
+{{% ls-details title="Tôi có thể phát nhạc từ thẻ SD trên iPhone không?" closed="true" %}}
 Có. Kết nối thẻ SD hoặc microSD bằng Lightning to SD Card Camera Reader Adapter. Flacbox tự động phát hiện thẻ và cho phép bạn duyệt và phát tệp trực tiếp từ bộ nhớ ngoài.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Flacbox có đồng bộ với lưu trữ đám mây tự động không?" closed="true" %}}
+{{% ls-details title="Flacbox có đồng bộ với lưu trữ đám mây tự động không?" closed="true" %}}
 Có. Từ phiên bản 1.6, Flacbox có thể tự động đồng bộ thư viện nhạc từ thư mục đám mây. Bật Đồng bộ tự động trong Cài đặt và chọn thư mục bạn muốn giám sát.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Bộ cân bằng Flacbox có tùy chỉnh được không?" closed="true" %}}
+{{% ls-details title="Bộ cân bằng Flacbox có tùy chỉnh được không?" closed="true" %}}
 Có. Bộ cân bằng 10 dải cho phép bạn điều chỉnh mức tần số riêng lẻ giữa -12 dB và +12 dB. Bạn có thể sử dụng cài đặt sẵn tích hợp hoặc lưu cài đặt tùy chỉnh riêng.
-{{% /details %}}
+{{% /ls-details %}}

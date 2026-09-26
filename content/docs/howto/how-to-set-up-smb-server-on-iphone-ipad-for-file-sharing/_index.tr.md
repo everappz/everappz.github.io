@@ -7,7 +7,7 @@ keywords: ["SMB sunucusu iPhone", "SMB sunucusu iPad", "iPhone'da SMB nasıl kur
 readingTime: 10
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 SMB, macOS, Windows ve Linux'a ve neredeyse her ağ sürücüsüne (NAS) yerleşik olan dosya paylaşımıdır. Başka bir bilgisayardaki paylaşılan bir klasöre bağlandığınızda ve o klasör Finder veya Dosya Gezgini'nde normal bir disk gibi açıldığında, işi yapan SMB'dir. [Everdisk](/products/everdisk) ile iPhone veya iPad cihazınıza bir SMB paylaşımı koyabilirsiniz; böylece telefonun kendisi, diğer cihazların göz attığı, kopyaladığı ve içine kopyaladığı bir ağ sürücüsü olarak görünür.
 
@@ -136,44 +136,44 @@ Ayarlar, Paylaşım, Erişim'deki **Dosya Düzenleme** anahtarı, SMB dahil her 
 
 ## Sıkça Sorulan Sorular
 
-{{% details title="iPhone'um için SMB adresi ve bağlantı noktası nedir?" closed="true" %}}
+{{% ls-details title="iPhone'um için SMB adresi ve bağlantı noktası nedir?" closed="true" %}}
 Paylaşımı başlattıktan sonra Everdisk adresi Paylaşım ekranında gösterir. smb://192.168.1.20:4455/Share gibi görünür. 4455, Everdisk'in SMB için kullandığı bağlantı noktasıdır ve Share, paylaşılan klasörün adıdır. İlk kısım iPhone'unuzun Wi-Fi'deki adresidir; bu nedenle sizinki farklı olacaktır.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="iPhone SMB paylaşımıma Windows'tan bağlanabilir miyim?" closed="true" %}}
+{{% ls-details title="iPhone SMB paylaşımıma Windows'tan bağlanabilir miyim?" closed="true" %}}
 Windows Dosya Gezgini yalnızca standart bağlantı noktasındaki SMB'ye bağlanır ve yolda özel bir bağlantı noktasını kabul etmez; Everdisk ise 4455 bağlantı noktasını kullanır. Bu nedenle düz Ağ sürücüsü eşle yolu ona genellikle ulaşamaz. Özel bir bağlantı noktası ayarlamanıza izin veren bir dosya yöneticisi kullanın ya da bunun yerine Windows'tan WebDAV, FTP veya tarayıcı bağlantısıyla bağlanın. Bunların hepsi Windows'tan bağlantı noktası sorunu olmadan çalışır.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="İki iPhone arasında SMB ile dosyaları nasıl paylaşırım?" closed="true" %}}
+{{% ls-details title="İki iPhone arasında SMB ile dosyaları nasıl paylaşırım?" closed="true" %}}
 İlk iPhone'da Everdisk'te SMB sunucusunu başlatın. İkinci iPhone'da Dosyalar uygulamasını açın, daha fazla düğmesine dokunun, Sunucuya Bağlan'ı seçin ve Everdisk'te gösterilen smb adresini girin (örneğin smb://192.168.1.20:4455/Share). Konuk olarak veya oturum açma bilgilerinizle bağlanın; paylaşım Dosyalar'da görünür. İkinci telefonda Everdisk'in kendi Cihazlar sekmesini de kullanabilirsiniz.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="iPhone'um Mac Finder kenar çubuğunda otomatik olarak görünür mü?" closed="true" %}}
+{{% ls-details title="iPhone'um Mac Finder kenar çubuğunda otomatik olarak görünür mü?" closed="true" %}}
 Genellikle evet. Everdisk SMB paylaşımını Wi-Fi'nizde duyurur; bu nedenle iPhone'unuz çoğunlukla Finder kenar çubuğunda Konumlar veya Ağ altında görünür. Ona tıklayın ve Farklı Bağlan'ı, ardından Konuk'u veya oturum açma bilgilerinizi seçin. Görünmüyorsa, Git, Sunucuya Bağlan ve tam smb adresiyle elle bağlanın.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="SMB kullanmak için bir parolaya ihtiyacım var mı?" closed="true" %}}
+{{% ls-details title="SMB kullanmak için bir parolaya ihtiyacım var mı?" closed="true" %}}
 Hayır, oturum açma isteğe bağlıdır. Konuk erişimine izin vermek için Ayarlar, Paylaşım, Erişim'de Kullanıcı Adı ve Parola'yı boş bırakın. Bağlantıların oturum açmasını istiyorsanız onları ayarlayın. Kullanıcı adı ve parola yalnızca SMB şifrelemesi iste'yi açarsanız gereklidir, çünkü şifreli bağlantılar anonim olamaz.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="SMB bağlantısı şifreli mi?" closed="true" %}}
+{{% ls-details title="SMB bağlantısı şifreli mi?" closed="true" %}}
 Öyle olabilir. SMB, şifrelemeyi destekleyen tek Everdisk bağlantısıdır. Bir kullanıcı adı ve parola ayarlayın, ardından Ayarlar, Paylaşım'da SMB şifrelemesi iste'yi açın. Her aktarım bundan sonra SMB3 (AES) ile korunur. Diğer cihazın SMB3'ü desteklemesi gerekir; modern Mac'ler ve Windows 10 veya sonrası bunu destekler. Şifreleme bir Premium özelliğidir.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="İnsanlar SMB üzerinden dosyalarımı değiştirebilir veya silebilir mi?" closed="true" %}}
+{{% ls-details title="İnsanlar SMB üzerinden dosyalarımı değiştirebilir veya silebilir mi?" closed="true" %}}
 Yalnızca izin verirseniz. Ayarlar, Paylaşım, Erişim'deki Dosya Düzenleme anahtarı bunu kontrol eder. Açıkken bağlı cihazlar yükleyebilir, yeniden adlandırabilir ve silebilir. Kapalıyken paylaşım salt okunurdur ve diğerleri telefonunuzdan dosyalara göz atabilir ve kopyalayabilir, ancak hiçbir şeyi değiştiremez.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="SMB bağlantım neden düştü?" closed="true" %}}
+{{% ls-details title="SMB bağlantım neden düştü?" closed="true" %}}
 iPhone'unuz sunucudur ve iOS çok uzun süre arka planda kalan uygulamaları duraklatır. Bir cihaz bağlıyken Everdisk'i ekranda açık tutun ve uzun aktarımlar sırasında telefonu güce takın. Ayrıca her iki cihazın da aynı Wi-Fi'de kaldığından emin olun.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="SMB, WebDAV veya FTP, hangisini kullanmalıyım?" closed="true" %}}
+{{% ls-details title="SMB, WebDAV veya FTP, hangisini kullanmalıyım?" closed="true" %}}
 Telefonun bir Mac'te, başka bir iPhone'da, Linux'ta veya bir NAS'ta gerçek bir ağ sürücüsü gibi davranmasını istediğinizde ve şifreleme istediğinizde SMB kullanın. Windows'tan da iyi çalışan bir ağ sürücüsü istediğinizde WebDAV kullanın. Eski cihazlar ve uygulamalarla en geniş uyumluluk için FTP kullanın. Everdisk hepsini aynı anda çalıştırabilir; bu nedenle tek birine bağlı kalmazsınız.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Everdisk ücretsiz mi?" closed="true" %}}
+{{% ls-details title="Everdisk ücretsiz mi?" closed="true" %}}
 Evet, Everdisk ücretsiz indirilir ve SMB sunucusu dahildir. İsteğe bağlı, tek seferlik Premium satın alma, SMB şifrelemesi, özel bağlantı noktaları ve birkaç ekstra ekler. SMB'yi ödeme yapmadan kurabilir ve dosya paylaşabilirsiniz.
-{{% /details %}}
+{{% /ls-details %}}
 
 Denemeye hazır mısınız? [Everdisk'i App Store'dan indirin](https://apps.apple.com/app/apple-store/id6751851132?pt=95781850&ct=everappzcom&mt=8) ve yaklaşık bir dakika içinde iPhone'unuzu Finder'da açın. Sorularınız veya geri bildiriminiz mi var? Bize **support@everappz.com** adresinden e-posta gönderin.

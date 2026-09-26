@@ -3,7 +3,9 @@ date: '2025-06-12T17:00:00+00:00'
 title: 'Поддержка'
 ---
 
-{{< lottie src="/images/juicy-json/juicy-girl-is-working-on-laptop-at-a-remote-job.json" width="80%" >}}
+{{< ls-lottie src="/images/juicy-json/juicy-girl-is-working-on-laptop-at-a-remote-job.json" width="80%" >}}
+
+{{< ls-docs-search >}}
 
 ## Нужна помощь? Мы здесь для вас
 
@@ -19,9 +21,9 @@ title: 'Поддержка'
 Чтобы сэкономить время и получить мгновенные ответы, ознакомьтесь с нашими наиболее полезными ресурсами. Многие распространённые вопросы уже освещены:
 
 {{< cards >}}
-  {{< card icon="book-open" link="/docs/guide" title="Руководство пользователя" >}}
-  {{< card icon="question-mark-circle" link="/docs/faq" title="Часто задаваемые вопросы" >}}
-  {{< card icon="light-bulb" link="/docs/howto" title="Инструкции" >}}
+  {{< ls-card icon="book-open" link="/docs/guide" title="Руководство пользователя" >}}
+  {{< ls-card icon="question-mark-circle" link="/docs/faq" title="Часто задаваемые вопросы" >}}
+  {{< ls-card icon="light-bulb" link="/docs/howto" title="Инструкции" >}}
 {{< /cards >}}
 
 Эти руководства помогут вам получить максимум от наших приложений — от настройки до продвинутых функций.

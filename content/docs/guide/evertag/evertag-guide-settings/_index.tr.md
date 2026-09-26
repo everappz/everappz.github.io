@@ -21,7 +21,7 @@ Bu ekranda uygulama ayarlarına erişebilir ve uygulamayı Premium sürüme yük
 - **Yasal ve gizlilik** — Koşullar, Gizlilik Politikası, Yasal Bildirimler, Analitik ve veri toplama
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evertag Ayarlar Ekranı" image="/docs/guide/evertag/img/settings.webp" >}}
+  {{< ls-card title="" subtitle="Evertag Ayarlar Ekranı" image="/docs/guide/evertag/img/settings.webp" >}}
 {{< /cards >}}
 
 ## Premium'a Yükselt
@@ -63,7 +63,7 @@ Uygulama verilerinizi korumak istiyorsanız parola koruma ekranını etkinleşti
 Dosya yöneticisi, bağlı bulut depolama hesaplarına erişimi destekler ve birden fazla dosyanın hızlı yönetimi için toplu işlemler sunar.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evertag Ayarlar Dosya Yöneticisi Ekranı" image="/docs/guide/evertag/img/settings-file-manager.webp" >}}
+  {{< ls-card title="" subtitle="Evertag Ayarlar Dosya Yöneticisi Ekranı" image="/docs/guide/evertag/img/settings-file-manager.webp" >}}
 {{< /cards >}}
 
 ### Dosya transferleri
@@ -103,7 +103,7 @@ Depolama alanını geri kazanmak için uygulamanın önbellek klasörünü temiz
 Bu bölümde yerleşik ses etiketi düzenleyicisini yapılandırabilirsiniz.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evertag Ayarlar Etiket Düzenleyicisi Ekranı" image="/docs/guide/evertag/img/settings-tag-editor.webp" >}}
+  {{< ls-card title="" subtitle="Evertag Ayarlar Etiket Düzenleyicisi Ekranı" image="/docs/guide/evertag/img/settings-tag-editor.webp" >}}
 {{< /cards >}}
 
 ### Albüm kapağı ölçeklendirme
@@ -136,7 +136,7 @@ Bu bölümde, masaüstü web tarayıcısı kullanarak dosyaları bilgisayarını
 Bu bölümde, kullanıcı arayüzü ayarlarını tercihlerinize göre özelleştirebilirsiniz.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evertag Ayarlar Kişiselleştirme Ekranı" image="/docs/guide/evertag/img/settings-personalization.webp" >}}
+  {{< ls-card title="" subtitle="Evertag Ayarlar Kişiselleştirme Ekranı" image="/docs/guide/evertag/img/settings-personalization.webp" >}}
 {{< /cards >}}
 
 ### Uygulama simgesi

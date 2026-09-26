@@ -7,7 +7,7 @@ tags: ["evermusic", "audio", "uređivač", "oznake", "komentari"]
 readingTime: 4
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **Sažetak:** Evermusic i Flacbox omogućuju vam dodavanje tekstualnih komentara s vremenskim oznakama na bilo koji audio zapis, a zatim ih sinkronizirano prikazuju tijekom reprodukcije. Također možete pregledavati ugrađene tekstove pjesama i LRC datoteke. Značajke komentara i tekstova pjesama besplatne su u obje aplikacije.
@@ -97,22 +97,22 @@ Dodavanje komentara audio zapisima u Evermusic i Flacbox označava značajan sko
 
 ## Često postavljana pitanja
 
-{{% details title="Je li značajka komentara besplatna u Evermusic i Flacbox?" closed="true" %}}
+{{% ls-details title="Je li značajka komentara besplatna u Evermusic i Flacbox?" closed="true" %}}
 Da. Dodavanje, uređivanje i pregledavanje komentara i tekstova pjesama besplatna je značajka u oba programa Evermusic i Flacbox.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Koji format trebam koristiti za vremenski označene komentare?" closed="true" %}}
+{{% ls-details title="Koji format trebam koristiti za vremenski označene komentare?" closed="true" %}}
 Koristite LRC format vremenske oznake: `[MM:SS.SS]` nakon čega slijedi vaš tekst. Na primjer: `[01:23.45]Ovo je moj komentar`. Možete dodijeliti više vremenskih oznaka jednom retku.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Mogu li pregledavati tekstove pjesama i LRC datoteke na istom zaslonu?" closed="true" %}}
+{{% ls-details title="Mogu li pregledavati tekstove pjesama i LRC datoteke na istom zaslonu?" closed="true" %}}
 Da. Zaslon Komentari podržava tri načina između kojih možete povlačiti: Komentari, Ugrađeni tekstovi pjesama i LRC datoteka.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Gdje mogu pronaći LRC datoteke tekstova pjesama?" closed="true" %}}
+{{% ls-details title="Gdje mogu pronaći LRC datoteke tekstova pjesama?" closed="true" %}}
 Besplatni LRC tekstovi pjesama dostupni su na web stranicama poput Lyricsify.com. Možete ih ugraditi u oznaku tekstova pjesama vaše audio datoteke ili postaviti zasebnu `.lrc` datoteku uz vašu audio datoteku.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Trebam li zasebnu aplikaciju za uređivanje oznaka tekstova pjesama?" closed="true" %}}
+{{% ls-details title="Trebam li zasebnu aplikaciju za uređivanje oznaka tekstova pjesama?" closed="true" %}}
 Komentare možete uređivati izravno u Evermusic i Flacbox. Za specifično uređivanje oznake tekstova pjesama koristite Evertag, besplatni uređivač audio metapodataka za iOS i macOS.
-{{% /details %}}
+{{% /ls-details %}}

@@ -19,7 +19,7 @@ Di bagian Daftar Putar, Anda akan menemukan alat bantu yang berguna untuk mengel
 Daftar putar di Evervideo dapat berisi campuran video cloud online, file yang diunduh offline, file lokal, video perpustakaan Foto, dan video perpustakaan Music iOS — semuanya dalam satu daftar putar — dan diputar secara mulus bersama.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Daftar Putar Evervideo di Perpustakaan Media" image="/docs/guide/evervideo/img/evervideo-playlists-in-media-library.webp" >}}
+  {{< ls-card title="" subtitle="Daftar Putar Evervideo di Perpustakaan Media" image="/docs/guide/evervideo/img/evervideo-playlists-in-media-library.webp" >}}
 {{< /cards >}}
 
 ## Membuat Daftar Putar

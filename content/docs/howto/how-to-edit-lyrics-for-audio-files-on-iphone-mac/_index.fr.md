@@ -7,7 +7,7 @@ tags: ["lyrics", "mp3", "id3", "metadata", "iphone", "audio editing"]
 readingTime: 2
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **Résumé:** Utilisez l'application gratuite **Evertag** pour modifier les paroles non synchronisées, les classements consultatifs et plus de 120 tags audio sur iPhone ou Mac. Fonctionne avec les fichiers locaux et stockés dans le cloud, prend en charge l'édition par lots et enregistre les paroles visibles dans Evermusic, Flacbox et d'autres lecteurs.
@@ -23,8 +23,8 @@ Pour la démonstration, nous utiliserons l'application **Evertag**. Elle prend e
 Commencez par télécharger l'application **Evertag** depuis l'App Store. Elle est disponible pour **iOS** et **macOS**, et gratuite.
 
 {{< cards cols="2">}}
-{{< card link="https://apps.apple.com/app/apple-store/id1450763230?pt=95781850&ct=everappzcom&mt=8" title="Evertag pour iOS" icon="download" tag="Free" >}}
-{{< card link="https://apps.apple.com/app/apple-store/id1594027661?pt=95781850&ct=everappzcom&mt=8" title="Evertag pour macOS" icon="download" tag="Free" >}}
+{{< ls-card link="https://apps.apple.com/app/apple-store/id1450763230?pt=95781850&ct=everappzcom&mt=8" title="Evertag pour iOS" icon="download" tag="Free" >}}
+{{< ls-card link="https://apps.apple.com/app/apple-store/id1594027661?pt=95781850&ct=everappzcom&mt=8" title="Evertag pour macOS" icon="download" tag="Free" >}}
 {{< /cards >}}
 
 ## Connecter votre compte cloud
@@ -38,13 +38,13 @@ Pour connecter un service de stockage cloud :
 - Appuyez sur **Connecter au stockage cloud**
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Connecter au stockage cloud" image="/docs/howto/how-to-edit-lyrics-for-audio-files-on-iphone-mac/connect-to-cloud-storage.webp" >}}
+{{< ls-card title="" subtitle="Connecter au stockage cloud" image="/docs/howto/how-to-edit-lyrics-for-audio-files-on-iphone-mac/connect-to-cloud-storage.webp" >}}
 {{< /cards >}}
 
 - Sélectionnez un fournisseur pris en charge, entrez vos identifiants et appuyez sur **Terminé**
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Connecter au stockage cloud" image="/docs/howto/how-to-edit-lyrics-for-audio-files-on-iphone-mac/connect-to-cloud-storage.webp" >}}
+{{< ls-card title="" subtitle="Connecter au stockage cloud" image="/docs/howto/how-to-edit-lyrics-for-audio-files-on-iphone-mac/connect-to-cloud-storage.webp" >}}
 {{< /cards >}}
 
 - Une fois connecté, votre stockage cloud apparaîtra dans la section **Stockage cloud** de l'application.
@@ -52,7 +52,7 @@ Pour connecter un service de stockage cloud :
 - Appuyez sur votre stockage cloud connecté pour parcourir et charger le contenu de ses dossiers.
   
 {{< cards cols="1">}}
-{{< card title="" subtitle="Liste des fichiers du stockage cloud" image="/docs/howto/how-to-edit-lyrics-for-audio-files-on-iphone-mac/cloud-storage-list-audio-files.webp" >}}
+{{< ls-card title="" subtitle="Liste des fichiers du stockage cloud" image="/docs/howto/how-to-edit-lyrics-for-audio-files-on-iphone-mac/cloud-storage-list-audio-files.webp" >}}
 {{< /cards >}}
 
 ## Connecter un dossier local
@@ -74,7 +74,7 @@ Vous pouvez modifier les tags audio des fichiers stockés directement sur votre 
 - Faites défiler jusqu'à **Fichiers sur cet appareil** dans le menu de la barre latérale
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Dossiers de l'appareil" image="/docs/howto/how-to-edit-lyrics-for-audio-files-on-iphone-mac/device-folders.webp" >}}
+{{< ls-card title="" subtitle="Dossiers de l'appareil" image="/docs/howto/how-to-edit-lyrics-for-audio-files-on-iphone-mac/device-folders.webp" >}}
 {{< /cards >}}
   
 - Appuyez sur l'élément de menu **Tous les dossiers de l'appareil**
@@ -91,7 +91,7 @@ Vous pouvez modifier les tags audio des fichiers stockés directement sur votre 
 L'**Éditeur de tags** est l'écran principal de l'application Evertag où vous pouvez afficher et modifier les métadonnées des fichiers audio. Ouvrez cet écran en appuyant sur un fichier depuis la section **Fichiers locaux** ou depuis n'importe quel compte de **stockage cloud** connecté.
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Écran de l'éditeur de tags Evertag" image="/docs/howto/how-to-edit-lyrics-for-audio-files-on-iphone-mac/cloud-storage-audio-file-tag-editor.webp" >}}
+{{< ls-card title="" subtitle="Écran de l'éditeur de tags Evertag" image="/docs/howto/how-to-edit-lyrics-for-audio-files-on-iphone-mac/cloud-storage-audio-file-tag-editor.webp" >}}
 {{< /cards >}}
 
 ## Modes d'édition
@@ -112,7 +112,7 @@ Par défaut, l'application ouvre l'éditeur de tags en mode fichier unique avec 
 Pour accéder à tous les tags disponibles, faites défiler jusqu'en bas de l'écran et appuyez sur l'option **Afficher les tags étendus**. Cela basculera l'éditeur en mode étendu, vous permettant de modifier plus de **120 champs de métadonnées**, y compris les **tags MusicBrainz**, les **paroles**, les **classements consultatifs** et plus encore.
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Panneau d'actions inférieur" image="/docs/howto/how-to-edit-lyrics-for-audio-files-on-iphone-mac/show-extended-tags.webp" >}}
+{{< ls-card title="" subtitle="Panneau d'actions inférieur" image="/docs/howto/how-to-edit-lyrics-for-audio-files-on-iphone-mac/show-extended-tags.webp" >}}
 {{< /cards >}}
 
 ## Mode par lots
@@ -137,7 +137,7 @@ Voici comment ajouter ou mettre à jour les **paroles non synchronisées** inté
 En mode **Tags étendus**, faites défiler vers le bas et appuyez sur le champ de texte **Paroles non synchronisées**.
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Champ de texte des paroles non synchronisées" image="/docs/howto/how-to-edit-lyrics-for-audio-files-on-iphone-mac/advisory-rating-2.webp" >}}
+{{< ls-card title="" subtitle="Champ de texte des paroles non synchronisées" image="/docs/howto/how-to-edit-lyrics-for-audio-files-on-iphone-mac/advisory-rating-2.webp" >}}
 {{< /cards >}}
 
 > Les fichiers audio qui prennent en charge les **tags ID3** (tels que `.mp3` ou `.wav`) vous permettent d'ajouter des paroles dans plusieurs langues. Si vous modifiez un fichier avec des tags ID3, Evertag active la prise en charge multilingue complète.  
@@ -148,7 +148,7 @@ En mode **Tags étendus**, faites défiler vers le bas et appuyez sur le champ d
 Si vous modifiez des tags ID3, l'écran suivant affichera un bouton **Ajouter une nouvelle page**. Appuyez dessus pour commencer à ajouter une nouvelle entrée de paroles.
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Ajouter une nouvelle page de paroles" image="/docs/howto/how-to-edit-lyrics-for-audio-files-on-iphone-mac/add-new-page.webp" >}}
+{{< ls-card title="" subtitle="Ajouter une nouvelle page de paroles" image="/docs/howto/how-to-edit-lyrics-for-audio-files-on-iphone-mac/add-new-page.webp" >}}
 {{< /cards >}}
 
 ### Choisir la langue, le commentaire et le contenu des paroles
@@ -159,7 +159,7 @@ Sur l'écran de saisie des paroles, vous pourrez :
 - Entrer le **texte des paroles** réel
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Sélectionner la langue" image="/docs/howto/how-to-edit-lyrics-for-audio-files-on-iphone-mac/choose-language.webp" >}}
+{{< ls-card title="" subtitle="Sélectionner la langue" image="/docs/howto/how-to-edit-lyrics-for-audio-files-on-iphone-mac/choose-language.webp" >}}
 {{< /cards >}}
 
 ### Entrer les paroles
@@ -169,7 +169,7 @@ Tapez ou collez le contenu de vos paroles. Evertag prend en charge les paroles a
 > Conseil : Vous cherchez des paroles de haute qualité ? Visitez [lyricsify.com](https://www.lyricsify.com) pour trouver des paroles au format LRC pour des milliers de pistes.
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Paroles ajoutées" image="/docs/howto/how-to-edit-lyrics-for-audio-files-on-iphone-mac/added-lyrics.webp" >}}
+{{< ls-card title="" subtitle="Paroles ajoutées" image="/docs/howto/how-to-edit-lyrics-for-audio-files-on-iphone-mac/added-lyrics.webp" >}}
 {{< /cards >}}
 
 ### Appuyez sur « Terminé » pour confirmer
@@ -177,7 +177,7 @@ Tapez ou collez le contenu de vos paroles. Evertag prend en charge les paroles a
 Après avoir entré vos paroles, appuyez sur **Terminé** sur la page des paroles. Puis appuyez à nouveau sur **Terminé** sur l'écran précédent pour confirmer vos modifications.
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Paroles enregistrées" image="/docs/howto/how-to-edit-lyrics-for-audio-files-on-iphone-mac/saved-lyrics.webp" >}}
+{{< ls-card title="" subtitle="Paroles enregistrées" image="/docs/howto/how-to-edit-lyrics-for-audio-files-on-iphone-mac/saved-lyrics.webp" >}}
 {{< /cards >}}
 
 ### Enregistrer les modifications des tags
@@ -185,7 +185,7 @@ Après avoir entré vos paroles, appuyez sur **Terminé** sur la page des parole
 Enfin, sur l'écran de l'**Éditeur de tags**, appuyez sur **Enregistrer** pour écrire les tags mis à jour — y compris vos nouvelles paroles — dans le fichier.
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Éditeur de tags avec paroles" image="/docs/howto/how-to-edit-lyrics-for-audio-files-on-iphone-mac/tags-editor-with-lyrics.webp" >}}
+{{< ls-card title="" subtitle="Éditeur de tags avec paroles" image="/docs/howto/how-to-edit-lyrics-for-audio-files-on-iphone-mac/tags-editor-with-lyrics.webp" >}}
 {{< /cards >}}
 
 ### Définir le classement consultatif des paroles
@@ -204,22 +204,22 @@ En suivant ces étapes, vos paroles seront correctement intégrées dans les mé
 
 ## Questions fréquemment posées
 
-{{% details title="Quels formats audio Evertag prend-il en charge pour l'édition de paroles ?" closed="true" %}}
+{{% ls-details title="Quels formats audio Evertag prend-il en charge pour l'édition de paroles ?" closed="true" %}}
 Evertag prend en charge plus de 30 formats audio, y compris MP3, FLAC, WAV, M4A, OGG, AIFF et plus encore. Vous pouvez modifier les paroles et d'autres tags de métadonnées dans n'importe lequel de ces formats.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Puis-je ajouter des paroles dans plusieurs langues ?" closed="true" %}}
+{{% ls-details title="Puis-je ajouter des paroles dans plusieurs langues ?" closed="true" %}}
 Oui, mais uniquement pour les fichiers audio qui utilisent des tags ID3 (tels que MP3 et WAV). Pour les autres formats comme FLAC ou M4A, seule une entrée de paroles unique est prise en charge.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Evertag prend-il en charge l'édition par lots des paroles ?" closed="true" %}}
+{{% ls-details title="Evertag prend-il en charge l'édition par lots des paroles ?" closed="true" %}}
 Oui. Vous pouvez entrer en mode par lots pour modifier les métadonnées de plusieurs fichiers à la fois. C'est utile pour appliquer le même classement consultatif de paroles ou d'autres tags partagés à un album entier.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Les paroles modifiées apparaîtront-elles dans Apple Music ou Spotify ?" closed="true" %}}
+{{% ls-details title="Les paroles modifiées apparaîtront-elles dans Apple Music ou Spotify ?" closed="true" %}}
 Les paroles modifiées avec Evertag sont intégrées dans les métadonnées du fichier audio. Elles apparaîtront dans tout lecteur de musique qui lit les tags de paroles intégrés, comme Evermusic, Flacbox, VLC et foobar2000. Les applications de streaming comme Spotify et Apple Music utilisent leurs propres bases de données de paroles et ne lisent pas les tags intégrés.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Puis-je modifier les tags des fichiers stockés dans le cloud ?" closed="true" %}}
+{{% ls-details title="Puis-je modifier les tags des fichiers stockés dans le cloud ?" closed="true" %}}
 Oui. Evertag prend en charge la connexion aux services de stockage cloud. L'application télécharge le fichier, vous permet de modifier les tags et téléverse automatiquement le fichier mis à jour dans le cloud.
-{{% /details %}}
+{{% /ls-details %}}

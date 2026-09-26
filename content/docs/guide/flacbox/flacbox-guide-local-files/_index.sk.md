@@ -19,7 +19,7 @@ Sekcia Lokálne súbory slúži ako centrum správy súborov nachádzajúcich sa
 Tento zabudovaný správca súborov umožňuje úpravu súborov (premenovanie, presúvanie, kopírovanie, nahrávanie, mazanie), sledovanie prenosov a ponúka niekoľko spôsobov importu zvukových súborov do aplikácie — priame sťahovania z cloudu, synchronizácia offline režimu, USB flash disky, Wi-Fi Drive a Finder File Sharing.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox — obrazovka Lokálne súbory" image="/docs/guide/flacbox/img/local-files.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox — obrazovka Lokálne súbory" image="/docs/guide/flacbox/img/local-files.webp" >}}
 {{< /cards >}}
 
 ## Sťahovanie súborov z cloudového úložiska
@@ -102,7 +102,7 @@ Zobrazuje súbory a priečinky uložené v priečinku Dokumenty aplikácie a iCl
 Zobrazuje súbory nachádzajúce sa na vašom zariadení, ale v iných aplikáciách. Môžete ich importovať do tejto aplikácie pomocou systémového výberu súborov. Ak chcete aktivovať výber, zvoľte **Otvoriť súbory…** na výber súborov alebo **Otvoriť priečinky…** na výber priečinkov. Podrobné pokyny na import lokálnej hudby uloženej na iPhone alebo Mac sú dostupné [tu](/docs/howto/how-to-play-local-music-stored-on-your-iphone-or-mac).
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox — priečinky pripojeného zariadenia" image="/docs/guide/flacbox/img/connected-device-folders.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox — priečinky pripojeného zariadenia" image="/docs/guide/flacbox/img/connected-device-folders.webp" >}}
 {{< /cards >}}
 
 Môžete tiež pripojiť priečinok nachádzajúci sa na zariadení a mať rýchly prístup k jeho obsahu. Použite položku ponuky **Pripojiť priečinok** a vyberte priečinok nachádzajúci sa na zariadení. Klepnite na **Hotovo** a aplikácia vytvorí prepojenie na tento priečinok s prístupom na čítanie / zápis, čo vám umožní spravovať súbory priamo z tejto aplikácie. Ak chcete odpojiť priečinok nachádzajúci sa na zariadení, klepnite na tlačidlo **Viac akcií** a vyberte **Odpojiť**.
@@ -137,7 +137,7 @@ Ak potrebujete upraviť viac súborov, aktivujte režim výberu klepnutím na tl
 - **Vymazať** — odstráni vybraný súbor alebo priečinok zo zariadenia. **Táto akcia je nezvratná.**
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox — režim výberu v lokálnych súboroch" image="/docs/guide/flacbox/img/local-files-selection-mode.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox — režim výberu v lokálnych súboroch" image="/docs/guide/flacbox/img/local-files-selection-mode.webp" >}}
 {{< /cards >}}
 
 ## Ponuka možností
@@ -161,7 +161,7 @@ Pre každý súbor alebo priečinok v aplikácii je k dispozícii niekoľko akci
 - **Vymazať** — vymaže súbor alebo priečinok zo zariadenia. **Táto akcia je nezvratná** a vymazané súbory nie je možné obnoviť.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox — ďalšie akcie pre lokálny súbor" image="/docs/guide/flacbox/img/local-files-more-actions-for-file.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox — ďalšie akcie pre lokálny súbor" image="/docs/guide/flacbox/img/local-files-more-actions-for-file.webp" >}}
 {{< /cards >}}
 
 ## Offline priečinky

@@ -17,7 +17,7 @@ keywords: [
 readingTime: 3
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **摘要：** 使用 USB 数据线将 iPhone 或 iPad 连接到 Mac（或 PC）。在 macOS Catalina 及更高版本上，使用 Finder。在较旧的 macOS 或 Windows 上，使用 iTunes。将文件拖入 Evermusic、Flacbox 或 Evertag 等应用即可立即传输。
@@ -117,26 +117,26 @@ iTunes 文件共享提供了一种在电脑和 iPhone、iPad 或 iPod touch 上�
 
 ## 常见问题
 
-{{% details title="通过 USB 传输文件需要互联网连接吗？" closed="true" %}}
+{{% ls-details title="通过 USB 传输文件需要互联网连接吗？" closed="true" %}}
 不需要。文件共享完全通过电脑和 iOS 设备之间的 USB 数据线连接运行。不需要互联网。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="我可以将哪些文件格式传输到 Evermusic 或 Flacbox？" closed="true" %}}
+{{% ls-details title="我可以将哪些文件格式传输到 Evermusic 或 Flacbox？" closed="true" %}}
 两款应用都支持多种音频格式，包括 MP3、FLAC、AAC、WAV、AIFF、OGG、WMA 等。请查看应用文档以获取支持格式的完整列表。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="为什么我在 Finder 中看不到文件选项卡？" closed="true" %}}
+{{% ls-details title="为什么我在 Finder 中看不到文件选项卡？" closed="true" %}}
 "文件"选项卡仅在设备上安装了至少一个支持文件共享的应用时才会出现。安装 Evermusic、Flacbox 或 Evertag，然后重新连接设备。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="我可以无线传输文件而不使用 USB 数据线吗？" closed="true" %}}
+{{% ls-details title="我可以无线传输文件而不使用 USB 数据线吗？" closed="true" %}}
 可以。Evermusic 和 Flacbox 还支持云存储服务和 Wi-Fi 传输。但是，通过 Finder 或 iTunes 进行的 USB 文件共享通常对于大型音乐库来说更快。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="通过 Finder 传输文件会覆盖设备上的现有文件吗？" closed="true" %}}
+{{% ls-details title="通过 Finder 传输文件会覆盖设备上的现有文件吗？" closed="true" %}}
 不会。新文件会与现有文件一起添加。如果已存在同名文件，macOS 可能会自动重命名新文件。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="此方法适用于 Windows PC 吗？" closed="true" %}}
+{{% ls-details title="此方法适用于 Windows PC 吗？" closed="true" %}}
 是的。在 Windows 上，使用 iTunes 传输文件。过程与上面 iTunes 部分描述的相同。从 Microsoft Store 或 Apple 网站安装 iTunes。
-{{% /details %}}
+{{% /ls-details %}}

@@ -7,7 +7,7 @@ tags: ["google", "安全", "隐私", "应用", "帐户", "访问"]
 readingTime: 2
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **摘要：** 前往 [myaccount.google.com](https://myaccount.google.com/) > 安全性 > 第三方应用和服务。点击要移除的应用，然后选择"移除访问权限"或"删除所有连接"。为每个应用重复此操作。
@@ -75,18 +75,18 @@ readingTime: 2
 
 ## 常见问题
 
-{{% details title="断开应用连接会删除我在该应用中的数据吗？" closed="true" %}}
+{{% ls-details title="断开应用连接会删除我在该应用中的数据吗？" closed="true" %}}
 不会。移除访问权限只会阻止该应用今后访问您的Google帐户。已与该应用共享的数据可能仍然存在于其服务器上。请查看该应用自身的隐私设置以删除这些数据。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="断开连接后我可以重新连接应用吗？" closed="true" %}}
+{{% ls-details title="断开连接后我可以重新连接应用吗？" closed="true" %}}
 可以。如果您再次需要该应用，只需在出现提示时使用Google登录即可。该应用将再次请求权限，您可以在授予访问权限之前查看这些权限。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="我应该多久查看一次第三方应用的访问权限？" closed="true" %}}
+{{% ls-details title="我应该多久查看一次第三方应用的访问权限？" closed="true" %}}
 每3-6个月查看一次已连接的应用，或在停止使用某项服务后立即查看。定期审查有助于保持帐户安全。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="这会影响像Evermusic这样连接到Google Drive的应用吗？" closed="true" %}}
+{{% ls-details title="这会影响像Evermusic这样连接到Google Drive的应用吗？" closed="true" %}}
 会的。如果您将Evermusic或Flacbox等应用从Google帐户断开连接，它将失去对您Google Drive文件的访问权限。您可以随时从应用内重新连接。
-{{% /details %}}
+{{% /ls-details %}}

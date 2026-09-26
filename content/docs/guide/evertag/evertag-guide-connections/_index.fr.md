@@ -15,7 +15,7 @@ readingTime: 11
 Sur cet écran, vous pouvez connecter diverses sources contenant vos fichiers audio. Vous pouvez intégrer des services cloud populaires comme Google Drive, Dropbox, OneDrive, iCloud et d'autres, ainsi que connecter votre Mac ou PC. De plus, vous avez la possibilité de modifier les fichiers audio situés dans Apple Time Capsule, WD Cloud Home ou tout NAS compatible SMB ou WebDAV.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Écran des connexions Evertag" image="/docs/guide/evertag/img/connections.webp" >}}
+  {{< ls-card title="" subtitle="Écran des connexions Evertag" image="/docs/guide/evertag/img/connections.webp" >}}
 {{< /cards >}}
 
 ## Accès rapide
@@ -151,7 +151,7 @@ Voici un aperçu de ces actions :
 - **Vue grille/liste** : Basculez entre deux modes d'affichage : vue tableau et vue vignettes. La vue tableau présente les fichiers sous forme de liste, tandis que la vue vignettes affiche des représentations visuelles des fichiers, facilitant l'identification du contenu d'un coup d'œil.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Tri du dossier cloud Evertag" image="/docs/guide/evertag/img/cloud-storage-sort.webp" >}}
+  {{< ls-card title="" subtitle="Tri du dossier cloud Evertag" image="/docs/guide/evertag/img/cloud-storage-sort.webp" >}}
 {{< /cards >}}
 
 ## Modifier des fichiers en ligne
@@ -163,7 +163,7 @@ Lorsque vous devez gérer plusieurs fichiers dans votre stockage cloud sur cette
 - **Effectuer diverses actions** : Une fois que vous avez sélectionné les fichiers ou dossiers que vous souhaitez gérer, vous aurez accès à plusieurs actions adaptées à vos besoins :
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Sélection de fichier Evertag" image="/docs/guide/evertag/img/cloud-storage-file-select.webp" >}}
+  {{< ls-card title="" subtitle="Sélection de fichier Evertag" image="/docs/guide/evertag/img/cloud-storage-file-select.webp" >}}
 {{< /cards >}}
 
 ## Actions sur les fichiers
@@ -180,7 +180,7 @@ Appuyez dessus pour révéler une liste d'actions disponibles :
 - **Supprimer** : Soyez prudent avec cette action, car elle supprime définitivement le fichier de votre stockage cloud. **Cette suppression ne peut pas être annulée**.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Options de fichier Evertag" image="/docs/guide/evertag/img/cloud-storage-file-options.webp" >}}
+  {{< ls-card title="" subtitle="Options de fichier Evertag" image="/docs/guide/evertag/img/cloud-storage-file-options.webp" >}}
 {{< /cards >}}
 
 Si la liste des actions dépasse l'espace disponible à l'écran, faites simplement défiler vers le bas dans le menu des actions pour accéder aux options supplémentaires.
@@ -196,5 +196,5 @@ Pour chaque dossier dans votre stockage cloud, vous disposez de diverses actions
 - **Supprimer** : Soyez prudent avec cette action, car elle supprime définitivement le dossier et son contenu de votre stockage cloud. **Cette action ne peut pas être annulée**.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Options de dossier Evertag" image="/docs/guide/evertag/img/cloud-storage-folder-options.webp" >}}
+  {{< ls-card title="" subtitle="Options de dossier Evertag" image="/docs/guide/evertag/img/cloud-storage-folder-options.webp" >}}
 {{< /cards >}}

@@ -14,7 +14,7 @@ authors:
     image: "/images/about/artem-meleshko-founder-everappz.webp"
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 **TL;DR:** Xem video quảng cáo chính thức của Evermusic để thấy phát nhạc đám mây, phát offline và tùy chỉnh âm thanh hoạt động trên iPhone và Mac.
 
@@ -24,7 +24,7 @@ Chúng tôi rất vui được chia sẻ video quảng cáo chính thức của 
 
 Xem Evermusic hoạt động -- phát nhạc từ đám mây, quản lý danh sách phát và phát âm thanh chất lượng cao trên iPhone:
 
-{{< youtubecard id="6mm3LVT4rtA" title="Evermusic Promo Video" >}}
+{{< ls-youtubecard id="6mm3LVT4rtA" title="Evermusic Promo Video" >}}
 
 ## Những gì bạn sẽ thấy trong video
 
@@ -41,14 +41,14 @@ Nếu bạn thích video, hãy chia sẻ với bạn bè và những người y�
 
 ## FAQ
 
-{{% details title="Evermusic là gì?" closed="true" %}}
+{{% ls-details title="Evermusic là gì?" closed="true" %}}
 Evermusic là trình phát nhạc cho iOS và macOS, phát trực tuyến âm thanh từ các dịch vụ đám mây như Dropbox, Google Drive, OneDrive và iCloud Drive. Nó cũng hỗ trợ phát offline và bao gồm bộ cân bằng tích hợp.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Evermusic hỗ trợ những dịch vụ đám mây nào?" closed="true" %}}
+{{% ls-details title="Evermusic hỗ trợ những dịch vụ đám mây nào?" closed="true" %}}
 Evermusic kết nối với Dropbox, Google Drive, OneDrive, iCloud Drive, pCloud, Yandex.Disk và nhiều nhà cung cấp bộ nhớ đám mây khác.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Evermusic có miễn phí không?" closed="true" %}}
+{{% ls-details title="Evermusic có miễn phí không?" closed="true" %}}
 Evermusic miễn phí tải về với các tính năng cao cấp tùy chọn có sẵn qua mua hàng trong ứng dụng.
-{{% /details %}}
+{{% /ls-details %}}

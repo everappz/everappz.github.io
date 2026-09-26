@@ -14,7 +14,7 @@ authors:
     image: "/images/about/artem-meleshko-founder-everappz.webp"
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 ## Per què les paraules clau de l'App Store determinen els teus números de descàrregues
 
@@ -104,29 +104,29 @@ Prova'l ara — el teu pròxim usuari és a una cerca de distància.
 L'eina és de codi obert. Informes d'errors, suggeriments de funcions i pull requests són benvinguts.
 
 {{< cards cols="1" >}}
-  {{< card link="https://github.com/everappz/app-store-keyword-optimizer/tree/main" title="appkeywords.pro a GitHub" icon="github" tag= "open source" >}}
+  {{< ls-card link="https://github.com/everappz/app-store-keyword-optimizer/tree/main" title="appkeywords.pro a GitHub" icon="github" tag= "open source" >}}
 {{< /cards >}}
 
 ---
 
 ## Preguntes freqüents
 
-{{% details title="AppKeywords.pro és realment gratuït?" closed="true" %}}
+{{% ls-details title="AppKeywords.pro és realment gratuït?" closed="true" %}}
 Sí. És una eina de codi obert basada en navegador sense registre, sense anuncis i sense recollida de dades. Les teves metadades mai surten del teu dispositiu.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Funciona aquesta eina per a múltiples localitzacions de l'App Store?" closed="true" %}}
+{{% ls-details title="Funciona aquesta eina per a múltiples localitzacions de l'App Store?" closed="true" %}}
 Sí. Pots afegir metadades per a cada idioma de manera independent, i l'exportació inclou tots els idiomes en un sol arxiu JSON compatible amb Fastlane.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Hauria de repetir les paraules clau del títol al camp de paraules clau?" closed="true" %}}
+{{% ls-details title="Hauria de repetir les paraules clau del títol al camp de paraules clau?" closed="true" %}}
 No. Apple ja indexa les paraules del teu títol i subtítol. Repetir-les al camp de paraules clau malbarata caràcters.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Amb quina freqüència hauria d'actualitzar les paraules clau de l'App Store?" closed="true" %}}
+{{% ls-details title="Amb quina freqüència hauria d'actualitzar les paraules clau de l'App Store?" closed="true" %}}
 Revisa i actualitza les teves paraules clau almenys un cop per trimestre. Ajusta abans si notes caigudes de rànquing o canvis estacionals en el comportament de cerca.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Puc utilitzar aquesta eina amb Fastlane?" closed="true" %}}
+{{% ls-details title="Puc utilitzar aquesta eina amb Fastlane?" closed="true" %}}
 Sí. El repositori GitHub inclou scripts shell per convertir entre l'estructura de carpetes de metadades de Fastlane i el format JSON utilitzat per AppKeywords.pro.
-{{% /details %}}
+{{% /ls-details %}}

@@ -7,7 +7,7 @@ tags: ["musiikki", "pilvi", "suoratoisto", "synkronointi", "icloud", "kirjasto"]
 keywords: ["tuo iCloud-musiikki Evermusic", "Flacbox iCloud-synkronointi", "Evermusic suoratoisto iCloudista", "musiikkikirjasto iOS-sovellus", "Flacbox metatietojen lukija", "iCloud-musiikin suoratoisto iPhone"]
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **Tiivistelmä:** Voit suoratoistaa iCloud Drive -musiikkikirjastoasi Evermusic- ja Flacbox-sovelluksissa lataamatta tiedostoja laitteellesi. Yhdistä iCloud Drive sovelluksessa, ota käyttöön Online-musiikkisynkronointi kirjastosi rakentamiseksi, määritä metatietojen lukija järjestämään esittäjän/albumin/genren mukaan, ja valinnaisesti ota käyttöön Offline-tila albumien lataamiseksi kuuntelua varten ilman internetiä. Nämä vaiheet toimivat myös Google Driven, Dropboxin, OneDriven ja muiden tuettujen pilvipalveluiden kanssa.
@@ -148,26 +148,26 @@ Siinä kaikki tältä päivältä! Toivomme, että tämä opas auttaa sinua mä�
 
 ## UKK
 
-{{% details title="Voinko suoratoistaa iCloud-musiikkia lataamatta tiedostoja iPhoneeni?" closed="true" %}}
+{{% ls-details title="Voinko suoratoistaa iCloud-musiikkia lataamatta tiedostoja iPhoneeni?" closed="true" %}}
 Kyllä. Kun yhdistät iCloud Driven Evermusic- tai Flacbox-sovelluksessa ja käytät Online-musiikkisynkronointia, sovellus luo linkkejä pilvitiedostoihisi ja suoratoistaa ne tarvittaessa. Tiedostoja ei ladata, ellei erikseen ota Offline-tilaa käyttöön.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Miksi iCloud-musiikin tuonti on hidasta Flacbox- tai Evermusic-sovelluksessa?" closed="true" %}}
+{{% ls-details title="Miksi iCloud-musiikin tuonti on hidasta Flacbox- tai Evermusic-sovelluksessa?" closed="true" %}}
 Hidas tuonti johtuu yleensä suuren kirjaston metatietojen lukemisesta mobiiliyhteyden kautta. Ota taustasynkronointi käyttöön, aloita äänen toisto pitääksesi sovelluksen aktiivisena, ja harkitse Mac-version käyttöä suurten kokoelmien alkusynkronointiin.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Toimiiko tämä opas muiden pilvipalveluiden kuin iCloudin kanssa?" closed="true" %}}
+{{% ls-details title="Toimiiko tämä opas muiden pilvipalveluiden kuin iCloudin kanssa?" closed="true" %}}
 Kyllä. Samat vaiheet pätevät Google Driveen, Dropboxiin, OneDriveen, SMB:hen, WebDAV:iin ja kaikkiin muihin Evermusic- ja Flacbox-sovellusten tukemiin pilvipalveluihin.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Kuinka siirrän musiikkikirjastoni Macista iPhoneen?" closed="true" %}}
+{{% ls-details title="Kuinka siirrän musiikkikirjastoni Macista iPhoneen?" closed="true" %}}
 Käytä sovelluksen asetusten varmuuskopiointi/palautus-ominaisuutta. Synkronoi ja lue metatiedot Mac-versiossa ensin, luo varmuuskopio ja palauta se sitten iOS-versiossa. Tämä on nopein tapa perustaa suuri kirjasto iPhonessa.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Muuttaako metatietojen lukija alkuperäisiä äänitiedostojani?" closed="true" %}}
+{{% ls-details title="Muuttaako metatietojen lukija alkuperäisiä äänitiedostojani?" closed="true" %}}
 Ei. Metatietojen lukija päivittää vain näyttötiedot musiikkikirjastossasi. Se ei muokkaa pilvitililläsi tai laitteellasi tallennettuja tiedostoja. Tiedostotunnisteiden muokkaamiseen käytä sisäänrakennettua tunnisteiden muokkaajaa.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Kuinka teen albumeista saatavilla offline-tilassa?" closed="true" %}}
+{{% ls-details title="Kuinka teen albumeista saatavilla offline-tilassa?" closed="true" %}}
 Käytä Offline-tila-ominaisuutta. Napauta **Lisää toimintoja** missä tahansa pilvikansiossa ja valitse **Ota offline-tila käyttöön**. Sovellus lataa kaikki tiedostot ja pitää ne synkronoituina pilviversion kanssa automaattisesti.
-{{% /details %}}
+{{% /ls-details %}}

@@ -7,7 +7,7 @@ tags: ["evermusic", "flacbox", "terbaru", "lastfm", "ekspor", "scrobbler"]
 readingTime: 5
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **Ringkasan:** Ekspor riwayat mendengarkan Anda dari Evermusic atau Flacbox sebagai file CSV, lalu unggah ke Last.fm menggunakan alat gratis Last.fm-Scrubbler-WPF di Windows. Scrobbling otomatis juga tersedia secara bawaan di kedua aplikasi.
@@ -134,22 +134,22 @@ Sekarang Anda dapat membuka profil Anda di halaman [Last.fm](http://Last.fm) dan
 
 ## FAQ
 
-{{% details title="Bisakah saya scrobble secara otomatis tanpa mengekspor file CSV?" closed="true" %}}
+{{% ls-details title="Bisakah saya scrobble secara otomatis tanpa mengekspor file CSV?" closed="true" %}}
 Ya. Baik Evermusic maupun Flacbox sekarang mendukung scrobbling Last.fm otomatis. Lihat panduan: [Cara Scrobble ke Last.fm](/docs/howto/how-to-scrobble-your-music-history-from-evermusic-or-flacbox-to-last-fm).
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Bagaimana jika CSV saya memiliki lagu yang lebih lama dari 14 hari?" closed="true" %}}
+{{% ls-details title="Bagaimana jika CSV saya memiliki lagu yang lebih lama dari 14 hari?" closed="true" %}}
 Gunakan Mode Impor di Last.fm-Scrubbler-WPF. Mode ini menghitung ulang stempel waktu dari Waktu Selesai, memungkinkan Anda scrobble lagu terlepas dari tanggal aslinya.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Saya tidak punya komputer Windows. Bisakah saya tetap menggunakan Last.fm-Scrubbler?" closed="true" %}}
+{{% ls-details title="Saya tidak punya komputer Windows. Bisakah saya tetap menggunakan Last.fm-Scrubbler?" closed="true" %}}
 Ya. Instal VirtualBox di Mac Anda dan unduh gambar lingkungan pengembangan Windows gratis dari Microsoft. Jalankan Last.fm-Scrubbler-WPF di dalam mesin virtual.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Mengapa beberapa scrobble tidak diparse?" closed="true" %}}
+{{% ls-details title="Mengapa beberapa scrobble tidak diparse?" closed="true" %}}
 Lagu yang tidak memiliki metadata penting (seperti nama artis) tidak dapat diparse. Ini diharapkan dan tidak mempengaruhi lagu lain di file.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Apakah ada batas scrobble harian?" closed="true" %}}
+{{% ls-details title="Apakah ada batas scrobble harian?" closed="true" %}}
 Ya. Last.fm-Scrubbler-WPF memungkinkan hingga 2.800 scrobble per hari. Jika Anda perlu scrobble lebih banyak, bagi prosesnya ke beberapa hari.
-{{% /details %}}
+{{% /ls-details %}}

@@ -7,7 +7,7 @@ tags: ["audio", "iphone", "mp3", "lirik", "lrc", "tertanam", "lihat", "tampilan"
 keywords: ["lihat lirik tertanam iPhone", "Evermusic tampilkan lirik", "file LRC Evermusic", "tag komentar audio", "tampilan lirik Flacbox", "lirik iOS aplikasi musik", "pemutar audio tampilkan lirik"]
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **Ringkasan:** Evermusic untuk iPhone dan Mac menampilkan lirik tertanam, tag komentar, dan file .lrc eksternal untuk trek audio apa pun. Buka pemutar, ketuk **Lebih banyak tindakan**, lalu pilih **Komentar** untuk melihat lirik dalam tiga mode: Komentar, Lirik Tertanam, dan File LRC.
@@ -68,22 +68,22 @@ Melihat lirik tertanam, komentar, atau file `.lrc` yang disinkronkan di **Evermu
 
 ## FAQ
 
-{{% details title="Bagaimana cara melihat lirik tertanam di iPhone saya?" closed="true" %}}
+{{% ls-details title="Bagaimana cara melihat lirik tertanam di iPhone saya?" closed="true" %}}
 Buka Evermusic, putar lagu, ketuk Lebih banyak tindakan di pemutar layar penuh, dan pilih Komentar. Geser ke tab Lirik Tertanam untuk melihat lirik yang tersimpan di tag file audio.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Apa itu file LRC dan bagaimana cara kerjanya?" closed="true" %}}
+{{% ls-details title="Apa itu file LRC dan bagaimana cara kerjanya?" closed="true" %}}
 File LRC adalah file teks yang berisi lirik lagu dengan stempel waktu. Ketika ditempatkan di folder yang sama dengan file audio dengan nama file yang sama, Evermusic membacanya dan menampilkan lirik yang disinkronkan yang bergulir selama pemutaran.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Bisakah saya menambahkan lirik ke file musik saya di iPhone?" closed="true" %}}
+{{% ls-details title="Bisakah saya menambahkan lirik ke file musik saya di iPhone?" closed="true" %}}
 Ya. Gunakan aplikasi Evertag untuk mengedit tag ID3 dan menambahkan atau memperbarui lirik tertanam langsung di iPhone Anda. Anda dapat menempelkan teks berformat LRC berwaktu untuk lirik yang disinkronkan.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Apakah Evermusic mendukung lirik yang disinkronkan (berwaktu)?" closed="true" %}}
+{{% ls-details title="Apakah Evermusic mendukung lirik yang disinkronkan (berwaktu)?" closed="true" %}}
 Ya. Evermusic mendukung lirik berwaktu dalam format LRC, baik ketika tertanam di tag audio maupun ketika disediakan sebagai file `.lrc` terpisah.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Format audio apa yang mendukung lirik tertanam?" closed="true" %}}
+{{% ls-details title="Format audio apa yang mendukung lirik tertanam?" closed="true" %}}
 MP3, FLAC, AAC, M4A, OGG, dan sebagian besar format umum lainnya mendukung lirik tertanam melalui standar tag masing-masing.
-{{% /details %}}
+{{% /ls-details %}}

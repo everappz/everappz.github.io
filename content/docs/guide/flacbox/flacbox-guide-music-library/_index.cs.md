@@ -19,7 +19,7 @@ readingTime: 11
 Správa vaší hudební knihovny je s Flacboxem hračka — snadno organizujete všechny vaše stopy — místní FLAC, ALAC, DSD, MP3, M4A, OGG, WMA, APE a desítky dalších formátů — do jedné prohledávatelné sbírky. Pro sestavení hudební knihovny máte dvě možnosti: ruční přidávání (vy přesně určujete, co se přidá) nebo automatická synchronizace (Flacbox prohledává určené cloudové složky a automaticky přidává nové soubory, jakmile se objeví).
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Zobrazení alb hudební knihovny Flacbox" image="/docs/guide/flacbox/img/media-library-albums.webp" >}}
+  {{< ls-card title="" subtitle="Zobrazení alb hudební knihovny Flacbox" image="/docs/guide/flacbox/img/media-library-albums.webp" >}}
 {{< /cards >}}
 
 ## Ruční Přidávání
@@ -27,7 +27,7 @@ Správa vaší hudební knihovny je s Flacboxem hračka — snadno organizujete 
 Chcete-li přidat stopy ručně, klepněte na ikonu **Přidat hudbu** v levém horním rohu a vyberte složky nebo soubory z připojené cloudové úložiště nebo soubory na vašem zařízení. Při přidávání stop do knihovny se vytváří pouze odkazy na tyto stopy — skutečné soubory zůstávají na svých původních místech, aby šetřily cenné místo na disku. Chcete-li mít stopy k dispozici offline, můžete použít akci Stáhnout z nabídky možností nebo povolit Offline režim pro seznamy skladeb a sbírky stop.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox Přidat skladby do hudební knihovny" image="/docs/guide/flacbox/img/library-add-songs.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox Přidat skladby do hudební knihovny" image="/docs/guide/flacbox/img/library-add-songs.webp" >}}
 {{< /cards >}}
 
 Na verzi pro Mac můžete také přetáhnout soubory do knihovny nebo použít **Otevřít soubory…** / **Otevřít složku…** ze systémového výběru souborů na iPhonu a iPadu.
@@ -89,7 +89,7 @@ Horní panel nástrojů umístěný bezprostředně pod navigační lištou nab�
 Funkce vyhledávání vám umožňuje najít konkrétní stopu, interpreta, album nebo žánr v hudební knihovně. Na obrazovce Vyhledávání máte přístup k akcím Seřadit, Filtrovat a zobrazení Mřížka / Seznam. Vyhledávání probíhá lokálně v databázi hudební knihovny, takže funguje plně offline a vrací výsledky při psaní.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Vyhledávání v hudební knihovně Flacbox" image="/docs/guide/flacbox/img/media-library-search.webp" >}}
+  {{< ls-card title="" subtitle="Vyhledávání v hudební knihovně Flacbox" image="/docs/guide/flacbox/img/media-library-search.webp" >}}
 {{< /cards >}}
 
 ## Nabídka Možností
@@ -140,7 +140,7 @@ Při otevření sekcí Interpret, Interpret alba nebo Skladatel vidíte přepín
 To je obzvláště užitečné pro vyčištění nepřehledných kompilací „Různí interpreti" ve velkých knihovnách.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Obrazovka detailu alba Flacbox" image="/docs/guide/flacbox/img/media-library-album-details-screen.webp" >}}
+  {{< ls-card title="" subtitle="Obrazovka detailu alba Flacbox" image="/docs/guide/flacbox/img/media-library-album-details-screen.webp" >}}
 {{< /cards >}}
 
 ## Nastavení

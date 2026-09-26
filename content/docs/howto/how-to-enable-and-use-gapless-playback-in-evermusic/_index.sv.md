@@ -7,7 +7,7 @@ tags: ["Evermusic", "Sömlös uppspelning", "Guide", "Ljud", "Uppspelning", "Öv
 readingTime: 4
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 **Sammanfattning:** Öppna **Inställningar > Ljuduppspelare > Sömlös uppspelning** och slå på reglaget till **PÅ**. Från och med då spelas låtarna utan paus, klick eller knäpp mellan sig. Evermusic förbuffrar och avkodar nästa spår medan det aktuella fortfarande spelas, och lämnar sedan över mellan ljudsampel på en sammanhängande buffert, så att övergången blir helt sömlös. Det är äkta, samplingsexakt sömlös uppspelning, inte en övertoning.
 
@@ -73,30 +73,30 @@ Resultatet är att ett livealbum, ett beat-matchat DJ-set eller en konceptskiva 
 
 ## Vanliga frågor
 
-{{% details title="Hur slår jag på sömlös uppspelning i Evermusic?" closed="true" %}}
+{{% ls-details title="Hur slår jag på sömlös uppspelning i Evermusic?" closed="true" %}}
 Öppna Evermusic, gå till Inställningar > Ljuduppspelare > Sömlös uppspelning och slå på reglaget till PÅ. Den är avstängd som standard. När den är aktiverad gäller den för allt du spelar och förblir på tills du stänger av den.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Är Evermusics sömlösa uppspelning äkta gapless eller bara övertoning?" closed="true" %}}
+{{% ls-details title="Är Evermusics sömlösa uppspelning äkta gapless eller bara övertoning?" closed="true" %}}
 Det är äkta, samplingsexakt sömlös uppspelning. Evermusic avkodar och förbuffrar nästa spår medan det aktuella spelas, och lämnar sedan över mellan ljudsampel på en sammanhängande buffert, så ingen tystnad, klick eller utfyllnad läggs in och inget glapp uppstår vid omstart av avkodaren. Övertoning är en separat, annan funktion som överlappar och blandar spår; sömlös uppspelning bevarar ljudet exakt som det mastrats och tar bara bort glappet.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Varför hör jag fortfarande ett glapp mellan vissa spår?" closed="true" %}}
+{{% ls-details title="Varför hör jag fortfarande ett glapp mellan vissa spår?" closed="true" %}}
 Se till att sömlös uppspelning är påslagen i Inställningar > Ljuduppspelare > Sömlös uppspelning. Om ett glapp kvarstår kan det vara inbakat i själva inspelningen (vissa filer innehåller några sekunder verklig tystnad i början eller slutet av ett spår). Sömlös uppspelning tar bort glappet som spelaren normalt skulle lägga till mellan spår; den kan inte ta bort tystnad som är en del av ljudfilen.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Fungerar sömlös uppspelning med FLAC och andra förlustfria filer?" closed="true" %}}
+{{% ls-details title="Fungerar sömlös uppspelning med FLAC och andra förlustfria filer?" closed="true" %}}
 Ja. Sömlös uppspelning fungerar med FLAC, Apple Lossless (ALAC) och förlustbehäftade format som MP3 och AAC, oavsett om filerna lagras lokalt, i molnet eller på en mediaserver.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Kan jag använda sömlös uppspelning och övertoning samtidigt?" closed="true" %}}
+{{% ls-details title="Kan jag använda sömlös uppspelning och övertoning samtidigt?" closed="true" %}}
 Nej. De gör motsatta saker, så när du aktiverar sömlös uppspelning stängs övertoning av automatiskt. Använd sömlös uppspelning för livealbum, DJ-mixar och konceptskivor där ljudet ska bevaras exakt; använd övertoning om du vill att låtar ska tona in i varandra.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Fungerar sömlös uppspelning vid strömning från molnet?" closed="true" %}}
+{{% ls-details title="Fungerar sömlös uppspelning vid strömning från molnet?" closed="true" %}}
 Ja. Evermusic börjar buffra och avkoda nästa spår tidigt, även för molnenheter och mediaservrar, så att överlämningen förblir sömlös. På långsammare anslutningar börjar den helt enkelt förbereda nästa spår lite tidigare.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Försämrar sömlös uppspelning ljudkvaliteten?" closed="true" %}}
+{{% ls-details title="Försämrar sömlös uppspelning ljudkvaliteten?" closed="true" %}}
 Nej. Sömlös uppspelning kodar inte om eller bearbetar ditt ljud. Den ändrar bara hur spår schemaläggs och buffras så att det inte finns något glapp mellan dem. Varje sampel spelas exakt som det är i filen.
-{{% /details %}}
+{{% /ls-details %}}

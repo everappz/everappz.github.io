@@ -19,7 +19,7 @@ I Spillelister-seksjonen finner du nyttige verktøy for å administrere videosam
 Spillelister i Evervideo kan inneholde en blanding av online skyvideoer, offline nedlastede filer, lokale filer, Bilder-bibliotekvideoer og iOS Musikk-bibliotekvideoer — alt i én spilleliste — og spille sømløst sammen.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evervideo Spillelister i Mediebiblioteket" image="/docs/guide/evervideo/img/evervideo-playlists-in-media-library.webp" >}}
+  {{< ls-card title="" subtitle="Evervideo Spillelister i Mediebiblioteket" image="/docs/guide/evervideo/img/evervideo-playlists-in-media-library.webp" >}}
 {{< /cards >}}
 
 ## Opprette en spilleliste

@@ -20,7 +20,7 @@ readingTime: 7
 Listele de redare în Flacbox pot conține un amestec de piese online din cloud, fișiere descărcate offline și fișiere locale de pe dispozitivul dvs. — toate într-o singură listă — și se redau perfect împreună.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox Playlists Main Screen" image="/docs/guide/flacbox/img/playlists-main.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox Playlists Main Screen" image="/docs/guide/flacbox/img/playlists-main.webp" >}}
 {{< /cards >}}
 
 ## Crearea unei Liste de Redare
@@ -63,7 +63,7 @@ Când deschideți o listă de redare, apare ecranul cu Detaliile Listei de Redar
 - **Mod Offline** — descărcați toate piesele din această listă în fișiere locale. Orice element nou adăugat la listă este, de asemenea, descărcat automat.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox Playlist Detail Screen" image="/docs/guide/flacbox/img/playlist-details-screen.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox Playlist Detail Screen" image="/docs/guide/flacbox/img/playlist-details-screen.webp" >}}
 {{< /cards >}}
 
 ## Mai Multe Acțiuni pentru o Listă de Redare pe Ecranul cu Liste de Redare
@@ -82,7 +82,7 @@ Puteți accesa acțiuni pentru o listă de redare atingând butonul **«...»** 
 - **Ștergere Listă de Redare** — ștergeți lista de redare din biblioteca muzicală. **Această acțiune nu poate fi anulată.**
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox More Actions for a Playlist on the Playlists Main Screen" image="/docs/guide/flacbox/img/more-actions-for-playlist-in-playlists-main-screen.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox More Actions for a Playlist on the Playlists Main Screen" image="/docs/guide/flacbox/img/more-actions-for-playlist-in-playlists-main-screen.webp" >}}
 {{< /cards >}}
 
 ## Mai Multe Acțiuni pentru o Listă de Redare pe Ecranul cu Detalii
@@ -110,7 +110,7 @@ Pentru a schimba ordinea cântecelor dintr-o listă de redare, atingeți butonul
 Pentru un flux de lucru și mai simplu pe liste de redare lungi, alegeți Mai Multe Acțiuni → Rearanjare Cântece pentru a intra în modul dedicat de reordonare prin glisare și plasare.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox Rearrange Songs in a Playlist" image="/docs/guide/flacbox/img/playlist-details-rearange-songs.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox Rearrange Songs in a Playlist" image="/docs/guide/flacbox/img/playlist-details-rearange-songs.webp" >}}
 {{< /cards >}}
 
 ## Schimbarea Imaginii de Copertă a Listei de Redare
@@ -126,7 +126,7 @@ Deschideți lista de redare și atingeți butonul **«...»** din colțul din dr
 Deschideți lista de redare, atingeți butonul **«...»** din colțul din dreapta sus și selectați **Selectare** pentru a intra în modul de selecție. Alegeți piesele pe care doriți să le ștergeți și atingeți **Ștergere din Lista de Redare** în partea de jos a ecranului. Confirmați atingând **Terminat**.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox Selection Mode in the Playlist Detail Screen" image="/docs/guide/flacbox/img/selection-mode-playlist-details-screen.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox Selection Mode in the Playlist Detail Screen" image="/docs/guide/flacbox/img/selection-mode-playlist-details-screen.webp" >}}
 {{< /cards >}}
 
 ## Opțiunile Piesei

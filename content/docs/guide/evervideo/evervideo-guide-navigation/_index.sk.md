@@ -19,7 +19,7 @@ Evervideo ponúka čisté, intuitívne rozhranie, ktoré je povedomé každému,
 Na rozdiel od väčšiny mediálnych aplikácií Evervideo zlučuje vaše cloudové účty, NAS zdieľania, mediálne servery a miestne súbory do jedinej, jednotnej karty Súbory — takže sa neprepínate medzi oddelenými obrazovkami. Vďaka tomu je presun videa zo servera Plex, do priečinka iCloud Drive, do priečinka Documents vášho iPhone jednooperačná, jednokliky akcia.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Hlavná obrazovka Evervideo" image="/docs/guide/evervideo/img/evervideo-main.webp" >}}
+  {{< ls-card title="" subtitle="Hlavná obrazovka Evervideo" image="/docs/guide/evervideo/img/evervideo-main.webp" >}}
 {{< /cards >}}
 
 ## Karty
@@ -53,7 +53,7 @@ PiP funguje so všetkými formátmi videa, ktoré Evervideo prehráva, vrátane 
 Prakticky každá položka obsahu na obrazovke má tlačidlo Viac akcií (ikona "⋯" tri bodky). Klepnutím naň otvoríte kontextovo citlivé menu so všetkými akciami dostupnými pre danú položku — prehrať ďalej, prehrať neskôr, pridať do playlistu, pridať k obľúbeným, upraviť tagy, stiahnuť, zdieľať, premenovať, presunúť a tak ďalej. Dlhé zoznamy sa posúvajú zvisle, takže môžete dosiahnuť menej bežné akcie bez preplnenia hlavného UI.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evervideo Obľúbené menu Viac akcií" image="/docs/guide/evervideo/img/evervideo-favorites-more-actions.webp" >}}
+  {{< ls-card title="" subtitle="Evervideo Obľúbené menu Viac akcií" image="/docs/guide/evervideo/img/evervideo-favorites-more-actions.webp" >}}
 {{< /cards >}}
 
 ## Horný panel nástrojov

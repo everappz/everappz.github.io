@@ -12,7 +12,7 @@ authors:
     image: "/images/about/artem-meleshko-founder-everappz.webp"
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 ## De Ce Să Exportați Postările de Blog din Wix?
 
@@ -332,33 +332,33 @@ Această singură comandă configurează mediul, extrage toate postările de blo
 Proiectul este open source. Rapoartele de erori, sugestiile de funcții și pull request-urile sunt binevenite.
 
 {{< cards cols="1" >}}
-  {{< card link="https://github.com/everappz/wix-blog-export" title="Proiect pe GitHub" icon="github" tag="open source" >}}
+  {{< ls-card link="https://github.com/everappz/wix-blog-export" title="Proiect pe GitHub" icon="github" tag="open source" >}}
 {{< /cards >}}
 
 ---
 
 ## Întrebări Frecvente
 
-{{% details title="De ce nu pot folosi pur și simplu `requests` pentru a extrage postările de blog Wix?" closed="true" %}}
+{{% ls-details title="De ce nu pot folosi pur și simplu `requests` pentru a extrage postările de blog Wix?" closed="true" %}}
 Wix randează conținutul dinamic cu JavaScript. O cerere HTTP standard returnează o coajă de pagină goală. Selenium rulează un browser headless pentru a obține HTML-ul complet randat.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Funcționează cu orice blog Wix?" closed="true" %}}
+{{% ls-details title="Funcționează cu orice blog Wix?" closed="true" %}}
 Da. Scraper-ul citește XML-ul sitemap-ului blogului și procesează fiecare URL. Trebuie doar să actualizați variabila `SITEMAP_URL` din `parse_blog_sitemap.py` pentru a indica către sitemap-ul site-ului dvs.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Ce model OpenAI folosește?" closed="true" %}}
+{{% ls-details title="Ce model OpenAI folosește?" closed="true" %}}
 Scriptul folosește GPT-4o implicit. Puteți schimba variabila `API_MODEL` din `generate_md.py` pentru a folosi un alt model.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Pot folosi asta pentru a migra de la Wix la Hugo?" closed="true" %}}
+{{% ls-details title="Pot folosi asta pentru a migra de la Wix la Hugo?" closed="true" %}}
 Da. Ieșirea este Markdown standard cu căi locale de imagini, care funcționează direct cu Hugo, Jekyll, Astro și alți generatoare de site-uri statice. Adăugați front matter la fișierele `_index.md` generate pentru a finaliza migrarea.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Cât costă API-ul OpenAI pentru asta?" closed="true" %}}
+{{% ls-details title="Cât costă API-ul OpenAI pentru asta?" closed="true" %}}
 Costul depinde de numărul și lungimea postărilor de blog. Un blog tipic cu 50 de postări de lungime moderată costă câțiva dolari în utilizarea API cu GPT-4o.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Acest instrument este open source?" closed="true" %}}
+{{% ls-details title="Acest instrument este open source?" closed="true" %}}
 Da. Codul sursă complet este disponibil pe [GitHub](https://github.com/everappz/wix-blog-export) sub o licență open source.
-{{% /details %}}
+{{% /ls-details %}}

@@ -7,7 +7,7 @@ tags: ["musiikki", "suoratoisto", "nas", "synology", "quickconnect"]
 readingTime: 4
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **Tiivistelmä:** Yhdistä Synology NAS Evermusiciin tai Flacboxiin käyttämällä Synologyn natiivia API:a -- joko manuaalisesti IP-osoitteen kautta tai automaattisesti QuickConnect ID:n avulla. QuickConnect mahdollistaa musiikin suoratoiston etänä ilman porttien uudelleenohjausta. Molemmat sovellukset tukevat FLAC-, MP3-, WAV- ja muita korkean resoluution formaatteja.
@@ -140,22 +140,22 @@ Turvallisen etäkäytön QuickConnectin kautta ja laajan äänimuototuen ansiost
 
 ## Usein kysytyt kysymykset
 
-{{% details title="Mikä on ero manuaalisen yhteyden ja QuickConnectin välillä?" closed="true" %}}
+{{% ls-details title="Mikä on ero manuaalisen yhteyden ja QuickConnectin välillä?" closed="true" %}}
 Manuaalinen yhteys käyttää NAS:n IP-osoitetta ja porttia, joka toimii paikallisverkossasi. QuickConnect käyttää Synologyn välityspalvelua yhteyden muodostamiseen mistä tahansa internetin kautta, ilman porttien uudelleenohjausta.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Voinko suoratoistaa musiikkia Synology NAS:sta kotiverkkoni ulkopuolella?" closed="true" %}}
+{{% ls-details title="Voinko suoratoistaa musiikkia Synology NAS:sta kotiverkkoni ulkopuolella?" closed="true" %}}
 Kyllä. Ota QuickConnect käyttöön Synology NAS:ssasi ja käytä QuickConnect ID:tä Evermusicissa tai Flacboxissa musiikin suoratoistoon mistä tahansa internetyhteydellä.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Mitä äänimuotoja tuetaan suoratoistettaessa Synology NAS:sta?" closed="true" %}}
+{{% ls-details title="Mitä äänimuotoja tuetaan suoratoistettaessa Synology NAS:sta?" closed="true" %}}
 Evermusic ja Flacbox tukevat FLAC-, MP3-, AAC-, WAV-, ALAC-, OGG-, WMA-, DSD- ja monia muita formaatteja. Kaikki tuetut formaatit toimivat suoratoistettaessa Synology NAS:sta.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Tarvitsenko kaksivaiheisen todennuksen yhdistämiseen?" closed="true" %}}
+{{% ls-details title="Tarvitsenko kaksivaiheisen todennuksen yhdistämiseen?" closed="true" %}}
 Ei, kaksivaiheinen todennus on valinnainen. Jos olet kuitenkin ottanut kaksivaiheisen vahvistuksen käyttöön Synology DSM:ssäsi, sovellus pyytää kertakäyttösalasanaa kirjautumisen yhteydessä. Sinun on valtuutettava uudelleen, kun istunto vanhenee.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Pitäisikö minun käyttää Synologyn natiivia API:a, WebDAV:ia vai SMB:tä yhdistämiseen?" closed="true" %}}
+{{% ls-details title="Pitäisikö minun käyttää Synologyn natiivia API:a, WebDAV:ia vai SMB:tä yhdistämiseen?" closed="true" %}}
 Synologyn natiivi API QuickConnectin kanssa on paras valinta etäkäyttöön. Paikallisverkon käyttöön SMB on tyypillisesti nopein vaihtoehto. WebDAV toimii hyvin sekä paikalliseen että etäkäyttöön. Evermusic ja Flacbox tukevat kaikkia kolmea protokollaa.
-{{% /details %}}
+{{% /ls-details %}}

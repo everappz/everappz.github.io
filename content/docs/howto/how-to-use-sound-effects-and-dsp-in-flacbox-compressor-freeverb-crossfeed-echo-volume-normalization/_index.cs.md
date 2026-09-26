@@ -7,9 +7,9 @@ tags: ["Flacbox", "Zvukové efekty", "Návod", "BASS", "Ekvalizér", "Zesílení
 readingTime: 30
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
-{{< full-width-tables >}}
+{{< ls-full-width-tables >}}
 
 **Krátká odpověď:** Ve Flacboxu si zvolíte jeden **přehrávací engine** v **Nastavení > Audio přehrávač**: **Standard** (systémový engine Apple), **Universal** (engine FFmpeg) nebo **Sound FX** (**engine BASS™**). Engine, který zvolíte, rozhoduje o tom, které formáty souborů se přehrají, takže na volbě záleží. Engine **Sound FX** přehrává další formáty, které většina aplikací pro iPhone vynechává (FLAC, DSD, WavPack, APE, Musepack, TrueAudio, Opus a starou **hudbu MOD a tracker music** jako MOD, XM, IT a S3M), a je jediným enginem, který pohání zvukové nástroje: **10pásmový ekvalizér**, **normalizaci hlasitosti**, **Compressor**, **Freeverb**, **Auto Wah**, **Phaser**, **Flanger**, **Echo**, **Chorus**, **Distortion**, **Rotate**, **Crossfeed** a vlastní **DSP řetězec**. Chcete-li tedy používat efekty z tohoto průvodce, nastavte nejprve přehrávací engine na **Sound FX**. Každý nástroj má připravené **presety**. Otevřete je v **Nastavení > Audio přehrávač** (Audio efekty, Audio ekvalizér, Zpracování signálu), nebo klepněte na tlačítko **⋯ (Další akce)** v přehrávači a zvolte **Audio efekty**. Nic, co zde uděláte, nikdy nezmění vaše soubory.
 
@@ -657,93 +657,93 @@ Protože to celé běží živě, zatímco hudba hraje, efekty:
 
 ## Časté dotazy
 
-{{% details title="Jaký zvukový engine Flacbox používá?" closed="true" %}}
+{{% ls-details title="Jaký zvukový engine Flacbox používá?" closed="true" %}}
 Zvolíte si jeden přehrávací engine v Nastavení > Audio přehrávač: Standard (systémový engine Apple), Universal (engine FFmpeg) nebo Sound FX (engine BASS™ od Un4seen Developments, un4seen.com). Engine, který zvolíte, rozhoduje o tom, které formáty souborů se přehrají. Sound FX je ten, který přehrává další formáty jako FLAC, DSD, WavPack, APE, Musepack, TrueAudio, Opus a hudbu MOD nebo tracker music, a je jediným enginem, který poskytuje živé efekty, 10pásmový ekvalizér a DSP řetězec. Chcete-li používat efekty, nastavte přehrávací engine na Sound FX.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Umí Flacbox přehrávat MOD, XM, IT a další tracker nebo modulovou hudbu?" closed="true" %}}
+{{% ls-details title="Umí Flacbox přehrávat MOD, XM, IT a další tracker nebo modulovou hudbu?" closed="true" %}}
 Ano. Engine BASS™ má vestavěný modulový přehrávač, který načítá soubory MOD, XM, IT, S3M, MTM, UMX a MO3 a znovu sestavuje skladbu živě z jejích patternů a zvuků nástrojů, tak jak má být tracker music přehrávána. Běžné přehrávače pro iPhone to nedokáží. Efekty a ekvalizér fungují i na modulové hudbě.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Podporuje Flacbox DSD a vysokorozlišené soubory?" closed="true" %}}
+{{% ls-details title="Podporuje Flacbox DSD a vysokorozlišené soubory?" closed="true" %}}
 Ano. Flacbox přehrává soubory DSD (DSF a DFF) přes engine BASS™ pomocí DSD over PCM, takže fungují na běžném výstupním hardwaru, plus FLAC, WavPack, Monkey's Audio (APE), Musepack a TrueAudio pro bezztrátové přehrávání.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Jaké zvukové efekty Flacbox má?" closed="true" %}}
+{{% ls-details title="Jaké zvukové efekty Flacbox má?" closed="true" %}}
 10pásmový ekvalizér, normalizaci hlasitosti, Compressor, Freeverb, Auto Wah, Phaser, Flanger, Echo, Chorus, Distortion, Rotate a Crossfeed, plus vlastní DSP řetězec s filtry, shelfy, gainem, soft clipem, bit crusherem, ring modulátorem, tremolem, delayem a stereo šířkou. Každý je samostatný a lze jej kombinovat s ostatními.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Co je preset?" closed="true" %}}
+{{% ls-details title="Co je preset?" closed="true" %}}
 Preset je připravené nastavení efektu. Místo abyste sami pohybovali posuvníky, klepnete na preset a zvuk se změní podle něj. Každý efekt ve Flacboxu má několik presetů a tento průvodce uvádí, co každý dělá. Pokud po výběru presetu pohnete posuvníkem, efekt zobrazí „Manual“, aby vám řekl, že nyní používá vaše vlastní hodnoty.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Jak otevřu audio efekty ve Flacboxu?" closed="true" %}}
+{{% ls-details title="Jak otevřu audio efekty ve Flacboxu?" closed="true" %}}
 Otevřete přehrávač Now Playing, klepněte na tlačítko ⋯ (Další akce) a zvolte Audio efekty. Nebo přejděte na Nastavení > Audio přehrávač > Audio efekty. Klepněte na efekt, zapněte jeho vypínač a vyberte preset, nebo otevřete posuvníky k doladění.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Kde je ekvalizér a jaká jsou nejlepší nastavení?" closed="true" %}}
+{{% ls-details title="Kde je ekvalizér a jaká jsou nejlepší nastavení?" closed="true" %}}
 Přejděte na Nastavení > Audio přehrávač > Audio ekvalizér. Má 10 pásem od 32 Hz do 16 kHz, každé od -12 do +12 dB, plus Preamplifier od -24 do +24 dB a 22 presetů. Pro více basů použijte Bass Booster. Pro čistší hlasy použijte Vocal Booster nebo Pop. Pro jasnější zvuk použijte Treble Booster. Poté upravte jednotlivá pásma podle chuti.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Jak zesílím basy ve Flacboxu?" closed="true" %}}
+{{% ls-details title="Jak zesílím basy ve Flacboxu?" closed="true" %}}
 Dva snadné způsoby. V Audio ekvalizéru vyberte Bass Booster (nebo zvedněte pásma 32 Hz a 64 Hz o pár dB). Nebo v Zpracování signálu přidejte blok Low Shelf nastavený na Bass Boost. V obou případech snižte Preamplifier nebo přidejte blok Gain o 1 až 2 dB, aby basy zůstaly čisté a nezkreslovaly.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Který preset ekvalizéru je nejlepší pro mou hudbu?" closed="true" %}}
+{{% ls-details title="Který preset ekvalizéru je nejlepší pro mou hudbu?" closed="true" %}}
 Rock a Electronic přidávají energii se silnými basy a výškami. Acoustic, Jazz a Classical zůstávají teplé a přirozené. Pop a Vocal Booster tlačí hlasy dopředu. Bass Booster a Hip-Hop přidávají váhu. Deep a Loudness znějí plněji při nízké hlasitosti. Začněte s tím, který odpovídá vašemu žánru, a poté dolaďte.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Co je normalizace hlasitosti a čím se liší od ReplayGain?" closed="true" %}}
+{{% ls-details title="Co je normalizace hlasitosti a čím se liší od ReplayGain?" closed="true" %}}
 Způsobí, že každá skladba hraje zhruba stejně hlasitě. Měří skutečnou hlasitost pomocí standardu EBU R128 (v LUFS, jako streamovací služby) a přizpůsobuje každou skladbu k vašemu cíli, s limitem max-boost. Na rozdíl od ReplayGain nepotřebuje žádné tagy ve vašich souborech a funguje na jakémkoli zdroji, živě, bez změny zvuku. Presety: Light, Standard, Strong a Night.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Co je Crossfeed a měl bych ho používat?" closed="true" %}}
+{{% ls-details title="Co je Crossfeed a měl bych ho používat?" closed="true" %}}
 Crossfeed vmíchá trochu levého a pravého kanálu dohromady, takže sluchátka působí spíše jako reálné reproduktory a méně jako by zvuk uvízl ve vaší hlavě. Je pouze pro sluchátka, takže jej pro reproduktory vypněte. Flacbox používá metodu bs2b (Bauer), s presety jako Chu Moy a Jan Meier.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Jaký je rozdíl mezi Compressorem a normalizací hlasitosti?" closed="true" %}}
+{{% ls-details title="Jaký je rozdíl mezi Compressorem a normalizací hlasitosti?" closed="true" %}}
 Normalizace hlasitosti sjednocuje hlasitost mezi různými skladbami. Compressor vyrovnává hlasité a tiché části uvnitř jedné skladby. Řeší různé problémy a dobře spolu fungují, zejména v autě nebo na hlučném místě.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Co je řetězec Zpracování signálu (DSP)?" closed="true" %}}
+{{% ls-details title="Co je řetězec Zpracování signálu (DSP)?" closed="true" %}}
 Je to vlastní rack v Nastavení > Audio přehrávač > Zpracování signálu. Přidejte bloky jako filtry, shelfy, gain, soft clip, bit crusher, ring modulátor, tremolo, delay a stereo šířku, dejte je do libovolného pořadí, každý zapněte nebo vypněte a zaměřte řetězec na všechny kanály, levý nebo pravý. Protože na pořadí záleží, můžete navrhnout přesně ten zvuk, který chcete.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Jaký je rozdíl mezi ekvalizérem, efekty a DSP řetězcem?" closed="true" %}}
+{{% ls-details title="Jaký je rozdíl mezi ekvalizérem, efekty a DSP řetězcem?" closed="true" %}}
 Ekvalizér je jednoduché 10pásmové řízení tónu. Audio efekty jsou připravené nástroje (kompresor, reverb, echo atd.) s presety. DSP řetězec je místo, kde si stavíte vlastní pořadí efektů z jednotlivých bloků. Všechny tři můžete spustit současně.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Mění nebo poškozují efekty mé hudební soubory?" closed="true" %}}
+{{% ls-details title="Mění nebo poškozují efekty mé hudební soubory?" closed="true" %}}
 Ne. Vše se aplikuje živě, zatímco hudba hraje. Vaše soubory se nikdy nezmění ani znovu neuloží. Vypněte efekt a původní zvuk se ihned vrátí.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Mohu použít více než jeden efekt současně?" closed="true" %}}
+{{% ls-details title="Mohu použít více než jeden efekt současně?" closed="true" %}}
 Ano. Každý efekt má vlastní vypínač a neexistuje žádný hlavní vypínač, takže funguje jakákoli kombinace. Například normalizace hlasitosti plus Compressor pro vyrovnaný poslech, nebo Freeverb plus Crossfeed na sluchátkách, s ekvalizérem navrch.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Proč jsou ovládací prvky efektu zašedlé?" closed="true" %}}
+{{% ls-details title="Proč jsou ovládací prvky efektu zašedlé?" closed="true" %}}
 Efekt je vypnutý. Zapněte jeho vypínač v horní části editoru, abyste ovládací prvky mohli používat. Každý efekt je ve výchozím stavu vypnutý.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Co znamená označení Manual?" closed="true" %}}
+{{% ls-details title="Co znamená označení Manual?" closed="true" %}}
 Znamená to, že jste pohnuli posuvníkem pryč od presetu, takže efekt nyní používá vaše vlastní vlastní hodnoty místo pojmenovaného presetu. Každý posuvník má tlačítko reset a opětovný výběr presetu nahradí vaše ruční hodnoty.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Mohu uložit a sdílet své presety ekvalizéru?" closed="true" %}}
+{{% ls-details title="Mohu uložit a sdílet své presety ekvalizéru?" closed="true" %}}
 Ano. Kromě 22 vestavěných presetů si můžete vytvořit vlastní, změnit jejich pořadí a exportovat nebo importovat je, abyste přesunuli svá nastavení do jiného zařízení.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Fungují efekty s CarPlay, streamováním a přehráváním na pozadí?" closed="true" %}}
+{{% ls-details title="Fungují efekty s CarPlay, streamováním a přehráváním na pozadí?" closed="true" %}}
 Ano. Efekty běží uvnitř enginu BASS™, takže se uplatní na lokální soubory, cloudová úložiště, mediální servery, streamy a modulovou hudbu a fungují i během CarPlay a přehrávání na pozadí.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Mohu změnit kvalitu zvukového výstupu?" closed="true" %}}
+{{% ls-details title="Mohu změnit kvalitu zvukového výstupu?" closed="true" %}}
 Ano. V Nastavení > Audio přehrávač můžete nastavit výstupní vzorkovací frekvenci, počet kanálů a velikost bufferu, aby odpovídaly vašim sluchátkům, reproduktorům nebo DAC.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Jaké je dobré výchozí nastavení pro sluchátka?" closed="true" %}}
+{{% ls-details title="Jaké je dobré výchozí nastavení pro sluchátka?" closed="true" %}}
 Zapněte normalizaci hlasitosti (Standard), přidejte lehký Compressor (Soft), vyberte preset ekvalizéru, který se vám líbí, a zapněte Crossfeed (Chu Moy nebo Jan Meier). Reverb, echo a distortion nechte vypnuté, pokud nechcete kreativní zvuk.
-{{% /details %}}
+{{% /ls-details %}}
 
 ---
 

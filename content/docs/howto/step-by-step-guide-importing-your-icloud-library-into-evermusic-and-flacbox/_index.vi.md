@@ -7,7 +7,7 @@ tags: ["âm nhạc", "đám mây", "phát trực tuyến", "đồng bộ", "iclo
 keywords: ["nhập nhạc iCloud Evermusic", "Flacbox đồng bộ iCloud", "Evermusic phát trực tuyến từ iCloud", "thư viện nhạc ứng dụng iOS", "Flacbox đọc siêu dữ liệu", "phát nhạc iCloud iPhone"]
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **Tóm tắt:** Bạn có thể phát trực tuyến thư viện nhạc iCloud Drive trong Evermusic và Flacbox mà không cần tải file về thiết bị. Kết nối iCloud Drive trong ứng dụng, bật Đồng bộ nhạc trực tuyến để xây dựng thư viện, cấu hình trình đọc siêu dữ liệu để sắp xếp theo nghệ sĩ/album/thể loại, và tùy chọn bật Chế độ ngoại tuyến để tải album nghe không cần internet. Các bước này cũng hoạt động với Google Drive, Dropbox, OneDrive và các dịch vụ đám mây được hỗ trợ khác.
@@ -75,26 +75,26 @@ File đã tải xuất hiện trong **File cục bộ - Thư mục ngoại tuy�
 
 ## Câu hỏi thường gặp
 
-{{% details title="Tôi có thể phát nhạc iCloud mà không tải file về iPhone không?" closed="true" %}}
+{{% ls-details title="Tôi có thể phát nhạc iCloud mà không tải file về iPhone không?" closed="true" %}}
 Có. Khi kết nối iCloud Drive và sử dụng Đồng bộ nhạc trực tuyến, ứng dụng tạo liên kết đến file đám mây và phát theo yêu cầu. File không được tải trừ khi bạn bật Chế độ ngoại tuyến.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Tại sao nhập nhạc iCloud chậm?" closed="true" %}}
+{{% ls-details title="Tại sao nhập nhạc iCloud chậm?" closed="true" %}}
 Nhập chậm thường do đọc siêu dữ liệu thư viện lớn qua kết nối di động. Bật Đồng bộ nền và cân nhắc sử dụng phiên bản Mac.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Hướng dẫn này có hoạt động với dịch vụ đám mây khác không?" closed="true" %}}
+{{% ls-details title="Hướng dẫn này có hoạt động với dịch vụ đám mây khác không?" closed="true" %}}
 Có. Các bước tương tự áp dụng cho Google Drive, Dropbox, OneDrive, SMB, WebDAV và tất cả dịch vụ đám mây được hỗ trợ khác.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Làm sao chuyển thư viện nhạc từ Mac sang iPhone?" closed="true" %}}
+{{% ls-details title="Làm sao chuyển thư viện nhạc từ Mac sang iPhone?" closed="true" %}}
 Sử dụng tính năng sao lưu/khôi phục dữ liệu trong cài đặt ứng dụng. Đồng bộ siêu dữ liệu trên phiên bản Mac trước, tạo bản sao lưu và khôi phục trên phiên bản iOS.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Trình đọc siêu dữ liệu có thay đổi file âm thanh gốc không?" closed="true" %}}
+{{% ls-details title="Trình đọc siêu dữ liệu có thay đổi file âm thanh gốc không?" closed="true" %}}
 Không. Trình đọc siêu dữ liệu chỉ cập nhật thông tin hiển thị trong thư viện nhạc. Để chỉnh sửa thẻ file, sử dụng trình chỉnh sửa thẻ tích hợp.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Làm sao để album có sẵn ngoại tuyến?" closed="true" %}}
+{{% ls-details title="Làm sao để album có sẵn ngoại tuyến?" closed="true" %}}
 Nhấn **Thêm hành động** trên thư mục đám mây và chọn **Bật chế độ ngoại tuyến**. Ứng dụng tải tất cả file và tự động giữ đồng bộ với phiên bản đám mây.
-{{% /details %}}
+{{% /ls-details %}}

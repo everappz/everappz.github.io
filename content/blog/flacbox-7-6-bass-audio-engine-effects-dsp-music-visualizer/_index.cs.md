@@ -12,7 +12,7 @@ authors:
     image: "/images/about/artem-meleshko-founder-everappz.webp"
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 **Ve zkratce:** [Flacbox 7.6](/products/flacbox) je naše dosud největší aktualizace hi-res audio přehrávače pro iPhone, iPad a Mac a je postavena kolem zcela nového **zvukového enginu BASS™** pro bezztrátové a vysoce kvalitní přehrávání. Engine BASS™ můžete vybrat jako alternativní jádro přehrávání a odemknout tak celý řetězec **zvukových efektů v reálném čase**, **DSP procesor se 14 filtry**, **živý celoobrazovkový hudební vizualizér** a přehrávání klasické **trackerové a MOD hudby** (MOD, XM, IT, S3M, MTM, UMX, MO3). Aktualizace navíc přidává **automatické vyrovnávání hlasitosti podle hlasitosti**, **studiovou sadu jedenácti efektů** (reverb, delay, multi-tap echo, chorus, flanger, phaser, auto-wah, zkreslení, kompresor, stereo rotace a crossfeed), **přepracovaný design efektů a ekvalizéru** s moderními posuvníky ve skleněném stylu a **vylepšení CarPlay** včetně nastavení DSP přímo v autě a přesnějšího ovládání na zamykací obrazovce, hodinkách a v autě. Pod kapotou: spolehlivější základ pro streamování, lepší zpracování typů souborů, širší lokalizace a řada oprav stability a výkonu.
 
@@ -139,50 +139,50 @@ Děkujeme, že používáte Flacbox. Vaše hudba teď zní skvěle a vypadá skv
 
 ## Často kladené otázky
 
-{{% details title="Co je nového ve Flacboxu 7.6?" closed="true" %}}
+{{% ls-details title="Co je nového ve Flacboxu 7.6?" closed="true" %}}
 Flacbox 7.6 přidává nový profesionální **zvukový engine BASS™**, který si můžete zvolit jako alternativní jádro přehrávání, **automatické vyrovnávání hlasitosti podle hlasitosti**, **studiovou sadu jedenácti efektů** (reverb, delay, multi-tap echo, chorus, flanger, phaser, auto-wah, zkreslení, kompresor, stereo rotace a crossfeed), **DSP procesor v reálném čase se 14 filtry**, **celoobrazovkový hudební vizualizér v reálném čase**, nativní přehrávání **trackerové a MOD** hudby (MOD, XM, IT, S3M, MTM, UMX, MO3), **přepracovaný design efektů a ekvalizéru** a **vylepšení CarPlay**. Zahrnuje také spolehlivější základ pro streamování, lepší zpracování typů souborů, širší lokalizaci a řadu oprav stability a výkonu.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Co je nový zvukový engine BASS™ ve Flacboxu?" closed="true" %}}
+{{% ls-details title="Co je nový zvukový engine BASS™ ve Flacboxu?" closed="true" %}}
 Zvukový engine [BASS™](https://www.un4seen.com), postavený na zvukové knihovně BASS™ od un4seen Developments, je profesionální jádro přehrávání, které si můžete zvolit jako **alternativu ke stávajícímu enginu Flacboxu**. Jeho výběrem odemknete celý řetězec zvukových efektů v reálném čase, DSP procesor a živou vizualizaci a přidáte přehrávání klasické trackerové a MOD hudby. Přehrává vaši stávající bezztrátovou a hi-res knihovnu (FLAC, DSD, ALAC, APE a další) s **vysoce kvalitním převzorkováním** a **přesným ovládáním výšky a tempa**. Kdykoli se můžete přepnout zpět na klasický engine.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Které zvukové formáty a typy trackerů/MOD Flacbox 7.6 přehrává?" closed="true" %}}
+{{% ls-details title="Které zvukové formáty a typy trackerů/MOD Flacbox 7.6 přehrává?" closed="true" %}}
 Flacbox zůstává hi-res a bezztrátovým přehrávačem, který zvládá **FLAC, DSD, APE, ALAC, WAV, AIFF, MP3, AAC, Opus** a další. Novinkou v 7.6 je, že engine BASS™ přehrává také klasickou **trackerovou a modulovou hudbu**: **MOD, XM, IT, S3M, MTM, UMX a MO3** — formáty vzorů a samplů používané v chiptune a demoscénové hudbě, které většina přehrávačů na iPhonu neumí otevřít.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Jak funguje automatické vyrovnávání hlasitosti ve Flacboxu?" closed="true" %}}
+{{% ls-details title="Jak funguje automatické vyrovnávání hlasitosti ve Flacboxu?" closed="true" %}}
 Flacbox 7.6 používá **měření hlasitosti EBU R128** (standard ITU-R BS.1770) k udržení skladeb z různých alb na konzistentní vnímané hlasitosti, takže nemusíte mezi skladbami upravovat hlasitost. U **místních souborů se vaše knihovna předem prohledá**, takže se přehrávání spustí již vyrovnané — nedochází k prodlevě, kdy aplikace měří hlasitost po spuštění skladby. K dispozici jsou čtyři předvolby — **Slabé** (−20 LUFS), **Standardní** (−16 LUFS), **Silné** (−14 LUFS) a **Noční** (−23 LUFS) — a funguje napříč smíšenými knihovnami, kompilacemi a náhodnými výběry.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Jaké zvukové efekty jsou ve Flacboxu 7.6?" closed="true" %}}
+{{% ls-details title="Jaké zvukové efekty jsou ve Flacboxu 7.6?" closed="true" %}}
 Jedenáct efektů v reálném čase, které můžete skládat a ladit během přehrávání hudby: **reverb, delay, multi-tap echo, chorus, flanger, phaser, auto-wah, zkreslení, kompresor, stereo rotace a crossfeed**. Každý efekt má **vlastní obrazovku, knihovnu předvoleb a okamžité přepínání zapnuto/vypnuto** a Flacbox si vaše nastavení mezi relacemi pamatuje. Crossfeed zejména způsobí, že tvrdě vypanované nahrávky zní na sluchátkách přirozeněji.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Co je DSP procesor a které filtry obsahuje?" closed="true" %}}
+{{% ls-details title="Co je DSP procesor a které filtry obsahuje?" closed="true" %}}
 DSP procesor vám umožní **sestavit si vlastní signálový řetězec v reálném čase ze 14 filtrů**: gain, dolní propust, horní propust, pásmová propust a pásmová zádrž, peaking EQ, low-shelf a high-shelf EQ, soft-clip saturace, bit crusher, tremolo, delay, ring modulátor a stereo šířka. Každý filtr má **předvolby a okamžité přepínání zapnuto/vypnuto**, takže můžete korigovat místnost, zkrotit tvrdé nahrávky nebo navrhnout zcela vlastní tón.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Co je crossfeed a proč bych ho použil na sluchátkách?" closed="true" %}}
+{{% ls-details title="Co je crossfeed a proč bych ho použil na sluchátkách?" closed="true" %}}
 Crossfeed přimíchává malé, filtrované množství každého stereo kanálu do druhého, tak jak vaše uši přirozeně slyší skutečné reproduktory v místnosti. Na sluchátkách to snižuje přehnané oddělení tvrdě vypanovaných nahrávek „uvnitř hlavy“ a činí dlouhý poslech pohodlnějším. Obzvláště účinné je to u starších stereo mixů z 60. a 70. let.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Funguje hudební vizualizér Flacboxu na všech zařízeních?" closed="true" %}}
+{{% ls-details title="Funguje hudební vizualizér Flacboxu na všech zařízeních?" closed="true" %}}
 Ano. **Hudební vizualizér v reálném čase** zobrazuje celoobrazovkové animované vizuály, které živě reagují na vaši hudbu, s rozsáhlou knihovnou předvoleb, které si můžete vybrat nebo je nechat automaticky střídat. Je **dostupný napříč přehrávacími enginy na všech vašich zařízeních** a vestavěný **blokovač uspání obrazovky** udržuje displej vzhůru, takže se vizuály během skladby nepřeruší.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Mohu měnit výšku a tempo, aniž bych ovlivnil to druhé?" closed="true" %}}
+{{% ls-details title="Mohu měnit výšku a tempo, aniž bych ovlivnil to druhé?" closed="true" %}}
 Ano. Když použijete nový engine BASS™, Flacbox 7.6 nabízí **přesné, nezávislé ovládání výšky a tempa** — změňte rychlost skladby beze změny tóniny, nebo posuňte tóninu beze změny rychlosti. Hodí se to pro cvičení, přepisování a poslech ve stylu DJ.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Co se zlepšilo v CarPlay ve Flacboxu 7.6?" closed="true" %}}
+{{% ls-details title="Co se zlepšilo v CarPlay ve Flacboxu 7.6?" closed="true" %}}
 CarPlay nyní zahrnuje **nastavení DSP**, takže dosáhnete na svou konfiguraci z auta, **opravené vykreslování obalu alba a obrazovky Přehrává se** a **přesnější ovládání na zamykací obrazovce, Apple Watch a v autě**, které zůstává synchronizované s přehráváním. Ve spojení se spolehlivějším základem pro streamování je poslech vaší bezztrátové knihovny na cestách plynulejší.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Fungují efekty, DSP a ekvalizér s cloudovým streamováním?" closed="true" %}}
+{{% ls-details title="Fungují efekty, DSP a ekvalizér s cloudovým streamováním?" closed="true" %}}
 Ano. Efekty, DSP filtry, ekvalizér a vyrovnávání hlasitosti běží v reálném čase uvnitř přehrávacího enginu BASS™, takže se aplikují na vše, co Flacbox přehrává — **místní soubory, cloudová úložiště (iCloud Drive, Google Drive, Dropbox, OneDrive a další), mediální servery a síťová sdílení** — bez opětovného kódování vašich souborů.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Je Flacbox 7.6 bezplatná aktualizace a která zařízení podporuje?" closed="true" %}}
+{{% ls-details title="Je Flacbox 7.6 bezplatná aktualizace a která zařízení podporuje?" closed="true" %}}
 Ano. Flacbox si stáhnete **zdarma** z App Store a 7.6 je **bezplatná aktualizace** pro stávající uživatele, s volitelnými nákupy v aplikaci pro pokročilé funkce. Běží na **iPhonu, iPadu a Macu**. CarPlay vyžaduje vozidlo nebo autorádio kompatibilní s CarPlay.
-{{% /details %}}
+{{% /ls-details %}}

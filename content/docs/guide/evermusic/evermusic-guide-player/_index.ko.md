@@ -17,7 +17,7 @@ readingTime: 11
 ## 플레이어 접근
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evermusic 오디오 플레이어 화면" image="/docs/guide/evermusic/evermusic-guide-player/img/player-main.webp" >}}
+  {{< ls-card title="" subtitle="Evermusic 오디오 플레이어 화면" image="/docs/guide/evermusic/evermusic-guide-player/img/player-main.webp" >}}
 {{< /cards >}}
 
 미니 플레이어 보기에서 전체 화면 플레이어에 접근할 수 있습니다. iPhone에서는 메인 화면의 탭 바 위에 미니 플레이어가 있습니다. iPad 또는 Mac에서는 왼쪽 메뉴에서 접근할 수 있습니다. 미니 플레이어를 숨기려면 아이콘을 탭하고 아래로 스와이프합니다. 전체 화면 플레이어를 완전히 숨기려면 오른쪽 하단 모서리에 있는 닫기 버튼을 탭합니다.
@@ -44,7 +44,7 @@ readingTime: 11
 ## 볼륨 제어
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="AirPlay 및 Google Cast가 포함된 볼륨 제어" image="/docs/guide/evermusic/evermusic-guide-player/img/player-volume-control.webp" >}}
+  {{< ls-card title="" subtitle="AirPlay 및 Google Cast가 포함된 볼륨 제어" image="/docs/guide/evermusic/evermusic-guide-player/img/player-volume-control.webp" >}}
 {{< /cards >}}
 
 재생 컨트롤 아래의 사운드 아이콘을 탭하여 오디오 설정 화면에서 볼륨 슬라이더를 찾습니다. 이 슬라이더나 기기의 표준 볼륨 버튼을 사용하여 볼륨을 변경할 수 있습니다. 또한 편리한 스트리밍 버튼도 찾을 수 있습니다:
@@ -63,7 +63,7 @@ Google Cast를 사용하는 분들을 위해 오디오 플레이어 화면 하�
 ## 오디오 이퀄라이저
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="10밴드 오디오 이퀄라이저" image="/docs/guide/evermusic/evermusic-guide-player/img/player-equalizer.webp" >}}
+  {{< ls-card title="" subtitle="10밴드 오디오 이퀄라이저" image="/docs/guide/evermusic/evermusic-guide-player/img/player-equalizer.webp" >}}
 {{< /cards >}}
 
 Evermusic에는 iPod 스타일 프리셋, 프리앰프, 수동 이퀄라이저 설정이 포함된 10밴드 이퀄라이저가 탑재되어 있습니다. 이퀄라이저를 활성화하려면 하단 도구 모음에서 "이퀄라이저" 버튼을 탭하고 오른쪽 상단 모서리의 스위치 컨트롤을 전환합니다. "Acoustic", "Bass Booster", "Classical" 등과 같은 미리 정의된 이퀄라이저 프리셋을 선택할 수 있습니다. 사운드 애호가라면 슬라이더를 사용하여 각 주파수 대역을 세밀하게 조정할 수 있습니다. 자신만의 오디오 이퀄라이저 프리셋을 만들고 저장할 수도 있습니다. 트랙이 충분히 크지 않으면 프리앰프 게인도 조정할 수 있습니다. 이퀄라이저 사용 방법에 대한 자세한 지침은 [여기](/docs/howto/how-to-use-the-audio-equalizer-on-your-iphone-ipad-mac-with-evermusic-and-flacbox)에서 확인할 수 있습니다.
@@ -71,7 +71,7 @@ Evermusic에는 iPod 스타일 프리셋, 프리앰프, 수동 이퀄라이저 �
 ## 플레이어 모드 도구 모음
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="검색 및 속도가 있는 플레이어 상단 도구 모음" image="/docs/guide/evermusic/evermusic-guide-player/img/player-top-toolbar.webp" >}}
+  {{< ls-card title="" subtitle="검색 및 속도가 있는 플레이어 상단 도구 모음" image="/docs/guide/evermusic/evermusic-guide-player/img/player-top-toolbar.webp" >}}
 {{< /cards >}}
 
 일부 플레이어 화면 스타일의 경우 탐색 바 바로 아래 플레이어 화면 상단에 플레이어 모드 도구 모음이 있습니다. 이 편리한 도구 모음에는 세 개의 버튼이 있습니다.
@@ -82,7 +82,7 @@ Evermusic에는 iPod 스타일 프리셋, 프리앰프, 수동 이퀄라이저 �
 ## 오디오 북마크
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="오디오북 및 강의를 위한 오디오 북마크" image="/docs/guide/evermusic/evermusic-guide-player/img/player-bookmarks.webp" >}}
+  {{< ls-card title="" subtitle="오디오북 및 강의를 위한 오디오 북마크" image="/docs/guide/evermusic/evermusic-guide-player/img/player-bookmarks.webp" >}}
 {{< /cards >}}
 
 여기에서 음악 라이브러리의 트랙에 대해 여러 북마크를 만들 수 있습니다. 북마크 사용 방법에 대한 전체 지침은 [여기](/docs/howto/how-to-listen-to-audiobooks-on-iphone-ipad-mac-using-evermusic)에서 확인할 수 있습니다.
@@ -90,7 +90,7 @@ Evermusic에는 iPod 스타일 프리셋, 프리앰프, 수동 이퀄라이저 �
 ## 플레이어 대기열
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="플레이어 대기열" image="/docs/guide/evermusic/evermusic-guide-player/img/player-queue.webp" >}}
+  {{< ls-card title="" subtitle="플레이어 대기열" image="/docs/guide/evermusic/evermusic-guide-player/img/player-queue.webp" >}}
 {{< /cards >}}
 
 플레이어 대기열에 접근하려면 하단 도구 모음에 있는 플레이어 대기열 버튼을 탭합니다. 대기열에서 노래를 이동하려면 제목 옆의 재정렬 표시기를 사용합니다.
@@ -98,7 +98,7 @@ Evermusic에는 iPod 스타일 프리셋, 프리앰프, 수동 이퀄라이저 �
 ## 댓글 / 가사
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="댓글, 내장 가사 및 LRC 파일" image="/docs/guide/evermusic/evermusic-guide-player/img/player-lyrics.webp" >}}
+  {{< ls-card title="" subtitle="댓글, 내장 가사 및 LRC 파일" image="/docs/guide/evermusic/evermusic-guide-player/img/player-lyrics.webp" >}}
 {{< /cards >}}
 
 트랙 댓글, 내장 가사 및 LRC 파일을 보려면 다음 단계를 따르세요:
@@ -114,7 +114,7 @@ Evermusic에는 iPod 스타일 프리셋, 프리앰프, 수동 이퀄라이저 �
 ## 옵션 메뉴
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="대기열 항목에 대한 옵션 메뉴" image="/docs/guide/evermusic/evermusic-guide-player/img/player-queue-item-options-menu.webp" >}}
+  {{< ls-card title="" subtitle="대기열 항목에 대한 옵션 메뉴" image="/docs/guide/evermusic/evermusic-guide-player/img/player-queue-item-options-menu.webp" >}}
 {{< /cards >}}
 
 오디오 플레이어 대기열의 각 노래에는 노래 제목 옆의 세 점 버튼을 탭하여 접근할 수 있는 추가 작업 메뉴가 있습니다. 사용 가능한 작업은 다음과 같습니다:
@@ -153,7 +153,7 @@ Evermusic에는 iPod 스타일 프리셋, 프리앰프, 수동 이퀄라이저 �
 ## 최근 항목 및 즐겨찾기
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="플레이어에서의 최근 재생 노래" image="/docs/guide/evermusic/evermusic-guide-player/img/player-recents.webp" >}}
+  {{< ls-card title="" subtitle="플레이어에서의 최근 재생 노래" image="/docs/guide/evermusic/evermusic-guide-player/img/player-recents.webp" >}}
 {{< /cards >}}
 
 플레이어 화면에서 추가 작업 버튼 '...'을 탭하고 해당 메뉴 항목을 선택하여 '최근 항목'과 '즐겨찾기' 섹션에 접근할 수 있습니다. 두 섹션 모두에서 노래를 검색하고, 모든 트랙을 재생하고, 모든 트랙을 셔플하고, 목록을 내보내고, 목록을 삭제할 수 있습니다. 노래 목록을 내보내는 방법에 대한 자세한 지침은 [여기](/docs/howto/export-tracks-collection-from-evermusic-flacbox-to-m3u-csv-txt/)에서 확인할 수 있습니다.
@@ -161,7 +161,7 @@ Evermusic에는 iPod 스타일 프리셋, 프리앰프, 수동 이퀄라이저 �
 ## 미니 플레이어 창 (Mac 전용)
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Mac 미니 플레이어 창" image="/docs/guide/evermusic/evermusic-guide-player/img/player-mini-mac.webp" >}}
+  {{< ls-card title="" subtitle="Mac 미니 플레이어 창" image="/docs/guide/evermusic/evermusic-guide-player/img/player-mini-mac.webp" >}}
 {{< /cards >}}
 
 Mac 사용자를 위해 편리한 미니 플레이어 창이 있습니다. 접근하려면 앱 창의 오른쪽 하단 모서리로 커서를 이동하고 가능한 가장 작은 크기로 조정합니다. 그런 다음 접기 버튼(아래 화살표로 표시됨)을 탭하여 미니 플레이어 창을 활성화합니다. 다른 창 위에 항상 유지하려면 Mac의 상단 메뉴 바로 이동하여 '창'을 선택하고 '창을 항상 위에 표시'를 선택합니다. 이 기능은 오디오 강의를 들으면서 중단을 원하지 않는 경우 특히 편리합니다.
@@ -169,7 +169,7 @@ Mac 사용자를 위해 편리한 미니 플레이어 창이 있습니다. 접�
 ## 키보드 단축키 (Mac 전용)
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="키보드 단축키가 있는 Mac 상태 바 재생 메뉴" image="/docs/guide/evermusic/evermusic-guide-player/img/player-mac-shortcuts.webp" >}}
+  {{< ls-card title="" subtitle="키보드 단축키가 있는 Mac 상태 바 재생 메뉴" image="/docs/guide/evermusic/evermusic-guide-player/img/player-mac-shortcuts.webp" >}}
 {{< /cards >}}
 
 Mac 사용자를 위해 상태 바에 키보드 단축키가 있는 시스템 재생 메뉴가 있습니다. 예를 들어 재생/일시 중지하려면 키보드의 스페이스바를 탭하면 됩니다. 중지, 다음 노래, 이전 노래, 시간 건너뛰기, 반복, 셔플, 재생 속도에 대한 단축키는 스크린샷에서 볼 수 있습니다.
@@ -177,7 +177,7 @@ Mac 사용자를 위해 상태 바에 키보드 단축키가 있는 시스템 �
 ## 오디오 플레이어 설정
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="오디오 플레이어 설정" image="/docs/guide/evermusic/evermusic-guide-player/img/player-settings.webp" >}}
+  {{< ls-card title="" subtitle="오디오 플레이어 설정" image="/docs/guide/evermusic/evermusic-guide-player/img/player-settings.webp" >}}
 {{< /cards >}}
 
 오디오 플레이어 설정에 접근하려면 오디오 플레이어 화면에서 추가 버튼을 탭하고 드롭다운 메뉴에서 "설정"을 선택합니다. 여기에서 기능별로 그룹화된 다양한 섹션을 찾을 수 있습니다:

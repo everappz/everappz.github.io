@@ -28,19 +28,19 @@ Everdisk זמין להורדה בחינם, עם אפשרות לרכישת Premiu
 
 
 {{< cards >}}
-  {{< card icon="play" title="שיתוף" subtitle="הקישו על התחל, בחרו מה לשתף והריצו את כל חמשת השרתים בבת אחת. הכירו את מסך השיתוף מקצה לקצה." link="/docs/guide/everdisk/everdisk-guide-sharing" >}}
+  {{< ls-card icon="play" title="שיתוף" subtitle="הקישו על התחל, בחרו מה לשתף והריצו את כל חמשת השרתים בבת אחת. הכירו את מסך השיתוף מקצה לקצה." link="/docs/guide/everdisk/everdisk-guide-sharing" >}}
 
-  {{< card icon="desktop-computer" title="חיבור המכשירים שלכם" subtitle="איך טלוויזיה, Mac או PC, דפדפן אינטרנט, טלפון נוסף או כבל USB מתחברים לקבצים המשותפים שלכם." link="/docs/guide/everdisk/everdisk-guide-connect" >}}
+  {{< ls-card icon="desktop-computer" title="חיבור המכשירים שלכם" subtitle="איך טלוויזיה, Mac או PC, דפדפן אינטרנט, טלפון נוסף או כבל USB מתחברים לקבצים המשותפים שלכם." link="/docs/guide/everdisk/everdisk-guide-connect" >}}
 
-  {{< card icon="server" title="חיבור לשרתים" subtitle="הגיעו לשרתי DLNA, WebDAV, FTP, SFTP ו-SMB וכונני NAS אחרים ברשת שלכם כדי לעיין, להזרים ולהוריד." link="/docs/guide/everdisk/everdisk-guide-devices" >}}
+  {{< ls-card icon="server" title="חיבור לשרתים" subtitle="הגיעו לשרתי DLNA, WebDAV, FTP, SFTP ו-SMB וכונני NAS אחרים ברשת שלכם כדי לעיין, להזרים ולהוריד." link="/docs/guide/everdisk/everdisk-guide-devices" >}}
 
-  {{< card icon="folder" title="קבצים ומסמכים" subtitle="עיינו, צרו תיקיות, שנו שם, העבירו, העתיקו ומחקו, דחסו וחלצו, חברו תיקיות חיצוניות וסרקו ל-PDF." link="/docs/guide/everdisk/everdisk-guide-files" >}}
+  {{< ls-card icon="folder" title="קבצים ומסמכים" subtitle="עיינו, צרו תיקיות, שנו שם, העבירו, העתיקו ומחקו, דחסו וחלצו, חברו תיקיות חיצוניות וסרקו ל-PDF." link="/docs/guide/everdisk/everdisk-guide-files" >}}
 
-  {{< card icon="music-note" title="תמונות, מוזיקה ווידאו" subtitle="שתפו את כל ספריית התמונות והמוזיקה שלכם, נגנו אודיו בנגן המוקטן וצפו בווידאו במסך מלא." link="/docs/guide/everdisk/everdisk-guide-media" >}}
+  {{< ls-card icon="music-note" title="תמונות, מוזיקה ווידאו" subtitle="שתפו את כל ספריית התמונות והמוזיקה שלכם, נגנו אודיו בנגן המוקטן וצפו בווידאו במסך מלא." link="/docs/guide/everdisk/everdisk-guide-media" >}}
 
-  {{< card icon="lock-closed" title="גישה ופרטיות" subtitle="הגנו על השיתוף עם שם משתמש וסיסמה, אפשרו או חסמו עריכה, חסמו מכשירים ושמרו על הכול מקומי." link="/docs/guide/everdisk/everdisk-guide-access" >}}
+  {{< ls-card icon="lock-closed" title="גישה ופרטיות" subtitle="הגנו על השיתוף עם שם משתמש וסיסמה, אפשרו או חסמו עריכה, חסמו מכשירים ושמרו על הכול מקומי." link="/docs/guide/everdisk/everdisk-guide-access" >}}
 
-  {{< card icon="adjustments" title="הגדרות" subtitle="הסבר לכל הגדרה: פרופיל המכשיר, חיבורים, איכות תמונה ווידאו, פורטים, העברות ועוד." link="/docs/guide/everdisk/everdisk-guide-settings" >}}
+  {{< ls-card icon="adjustments" title="הגדרות" subtitle="הסבר לכל הגדרה: פרופיל המכשיר, חיבורים, איכות תמונה ווידאו, פורטים, העברות ועוד." link="/docs/guide/everdisk/everdisk-guide-settings" >}}
 
-  {{< card icon="question-mark-circle" title="שאלות נפוצות" subtitle="תשובות מהירות לשאלות הנפוצות ביותר ולתרחישים מהחיים האמיתיים." link="/docs/faq/everdisk" >}}
+  {{< ls-card icon="question-mark-circle" title="שאלות נפוצות" subtitle="תשובות מהירות לשאלות הנפוצות ביותר ולתרחישים מהחיים האמיתיים." link="/docs/faq/everdisk" >}}
 {{< /cards >}}

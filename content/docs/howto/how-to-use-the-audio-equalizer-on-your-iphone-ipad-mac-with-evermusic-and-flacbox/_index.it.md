@@ -7,7 +7,7 @@ tags: ["musica", "audio", "equalizzatore", "10 bande", "guadagno", "configurazio
 keywords: ["equalizzatore audio iPhone", "preset EQ Evermusic", "equalizzatore 10 bande Flacbox", "regolare bassi alti iOS", "equalizzatore app musica Mac", "potenziare audio con preamplificatore", "preset sonori personalizzati"]
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **In breve:** Evermusic e Flacbox includono un equalizzatore audio professionale a 10 bande con preset (Rock, Hip-Hop, Bass Booster e altro), creazione di preset personalizzati e un preamplificatore per il potenziamento del volume. Disponibile su iPhone, iPad e Mac.
@@ -105,26 +105,26 @@ Eleva la tua esperienza musicale, adatta il tuo audio a qualsiasi scenario e god
 
 ## Domande frequenti
 
-{{% details title="L'equalizzatore funziona con tutti i formati audio?" closed="true" %}}
+{{% ls-details title="L'equalizzatore funziona con tutti i formati audio?" closed="true" %}}
 Sì. L'EQ a 10 bande di Evermusic e Flacbox funziona con MP3, FLAC, AAC, WAV, ALAC, OGG e tutti gli altri formati supportati.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Le impostazioni EQ si applicano a tutte le canzoni?" closed="true" %}}
+{{% ls-details title="Le impostazioni EQ si applicano a tutte le canzoni?" closed="true" %}}
 Sì. Una volta attivato l'equalizzatore e selezionato un preset, si applica a tutta la riproduzione fino a quando non lo cambi o lo disattivi.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Posso creare più di un preset personalizzato?" closed="true" %}}
+{{% ls-details title="Posso creare più di un preset personalizzato?" closed="true" %}}
 Sì. Puoi creare, salvare e passare da un preset personalizzato all'altro. Usa la funzione di esportazione per eseguirne il backup.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Il preamplificatore causa distorsione?" closed="true" %}}
+{{% ls-details title="Il preamplificatore causa distorsione?" closed="true" %}}
 Può farlo se impostato troppo alto. Osserva gli indicatori di livello audio durante la regolazione. Se i livelli stanno clippando (raggiungono il massimo), riduci leggermente il guadagno del preamplificatore.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="L'equalizzatore è disponibile sia su Evermusic che su Flacbox?" closed="true" %}}
+{{% ls-details title="L'equalizzatore è disponibile sia su Evermusic che su Flacbox?" closed="true" %}}
 Sì. Entrambe le app includono lo stesso equalizzatore a 10 bande con preset, preset personalizzati e preamplificatore.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Posso condividere i miei preset EQ con qualcun altro?" closed="true" %}}
+{{% ls-details title="Posso condividere i miei preset EQ con qualcun altro?" closed="true" %}}
 Sì. Usa l'opzione Esporta configurazione per salvare i preset in un file, poi condividilo. L'altra persona può importarlo usando Importa configurazione.
-{{% /details %}}
+{{% /ls-details %}}

@@ -7,7 +7,7 @@ keywords: ["DLNA-server iPhone", "UPnP-server iPad", "DLNA instellen op iPhone",
 readingTime: 9
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 DLNA (ook UPnP AV genoemd) is de stille werkezel achter de meeste smart-tv's. Het is een gedeelde taal waarmee een tv of mediaspeler een mediabibliotheek op hetzelfde Wi-Fi kan vinden en ervan kan afspelen, zonder dat je iets op de tv hoeft te installeren. Als je iPhone of iPad die bibliotheek kan zijn, verschijnen je foto's, video's en muziek vanzelf op het grote scherm.
 
@@ -127,44 +127,44 @@ DLNA geeft het bestand ongewijzigd door aan de tv, en de tv moet het kunnen deco
 
 ## Veelgestelde vragen
 
-{{% details title="Wat is het verschil tussen DLNA en UPnP?" closed="true" %}}
+{{% ls-details title="Wat is het verschil tussen DLNA en UPnP?" closed="true" %}}
 Ze zijn nauw verwant. UPnP is de onderliggende netwerkstandaard, en DLNA is het mediaprofiel dat erbovenop is gebouwd en dat tv's en spelers gebruiken om foto's, video's en muziek te delen en af te spelen. In het dagelijks gebruik zijn de woorden uitwisselbaar. Als je Tv en mediacentrum in Everdisk aanzet, wordt je apparaat een DLNA/UPnP-mediaserver die elke DLNA-client kan bekijken.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Moet ik iets op mijn tv installeren?" closed="true" %}}
+{{% ls-details title="Moet ik iets op mijn tv installeren?" closed="true" %}}
 Nee. Als je tv DLNA ondersteunt, heeft hij al een mediaspeler die je apparaat op het Wi-Fi kan vinden. Je installeert Everdisk alleen op de iPhone of iPad die de inhoud bevat. Als je tv geen DLNA ondersteunt, installeer dan een speler zoals VLC of Kodi op een apparaat dat ermee is verbonden.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Waarom verschijnt mijn iPhone niet op de tv?" closed="true" %}}
+{{% ls-details title="Waarom verschijnt mijn iPhone niet op de tv?" closed="true" %}}
 Controleer of beide apparaten op hetzelfde Wi-Fi-netwerk zitten. Gastennetwerken en sommige kantoor- of hotelnetwerken verhinderen dat apparaten elkaar zien, wat DLNA blokkeert. Bevestig vervolgens dat Everdisk open is met delen gestart, en dat Tv en mediacentrum aanstaat in Instellingen, Delen, Verbindingen. Als de tv het nog steeds niet kan vinden, voeg de server dan handmatig toe met het adres voor de apparaatbeschrijving dat eindigt op /device-desc.xml.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Heeft DLNA-streaming een wachtwoord nodig?" closed="true" %}}
+{{% ls-details title="Heeft DLNA-streaming een wachtwoord nodig?" closed="true" %}}
 Nee. DLNA staat altijd open voor iedereen op hetzelfde Wi-Fi zolang het aanstaat, en daarom is er geen login aan de tv-kant. Dat is prima op een thuisnetwerk dat je vertrouwt. Op een netwerk dat je niet vertrouwt, zet je Tv en mediacentrum uit als je klaar bent, of gebruik je in plaats daarvan de SMB-server met versleuteling.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Kan ik naar een Chromecast of Roku streamen?" closed="true" %}}
+{{% ls-details title="Kan ik naar een Chromecast of Roku streamen?" closed="true" %}}
 Chromecast en Roku werken standaard niet als DLNA-spelers, dus ze vinden je apparaat niet rechtstreeks. De oplossing is een DLNA-app te installeren die kan casten, zoals VLC of BubbleUPnP op een telefoon, en het afspelen van daaruit naar de Chromecast of Roku te sturen. Op de meeste andere smart-tv's werkt DLNA zonder dit alles.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Een video speelt zonder geluid of gaat niet open. Wat kan ik doen?" closed="true" %}}
+{{% ls-details title="Een video speelt zonder geluid of gaat niet open. Wat kan ik doen?" closed="true" %}}
 Dat is een formaat dat de tv niet kan decoderen. Open Instellingen, Delen, Video's in Everdisk en verlaag de Kwaliteit zodat de app de video tijdens het streamen omzet naar een beter compatibel formaat. Je kunt hetzelfde bestand ook via de browserlink openen, die meer formaten aankan.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Kan ik muziek streamen, niet alleen video?" closed="true" %}}
+{{% ls-details title="Kan ik muziek streamen, niet alleen video?" closed="true" %}}
 Ja. Zet Toegang tot volledige muziekbibliotheek toestaan aan, of voeg specifieke nummers toe, en begin dan met delen. Je nummers verschijnen op elke DLNA-speaker, AV-receiver of tv, met albumhoezen en trackgegevens. Muziek wordt altijd in de originele kwaliteit gedeeld.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Moet de app open blijven terwijl ik kijk?" closed="true" %}}
+{{% ls-details title="Moet de app open blijven terwijl ik kijk?" closed="true" %}}
 Ja. Je iPhone fungeert als de server, en iOS pauzeert apps die lang volledig naar de achtergrond worden geduwd. Houd Everdisk in beeld terwijl je streamt, en sluit aan op stroom voor lange sessies.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Hoe stream ik van de ene iPhone naar een andere iPad?" closed="true" %}}
+{{% ls-details title="Hoe stream ik van de ene iPhone naar een andere iPad?" closed="true" %}}
 Begin met delen op de iPhone, open dan Everdisk op de iPad en ga naar het tabblad Apparaten. De iPhone verschijnt onder Beschikbare apparaten als mediaserver. Tik erop om te bladeren en af te spelen. Everdisk werkt als DLNA-client en server, dus je hebt geen andere app nodig.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Is Everdisk gratis?" closed="true" %}}
+{{% ls-details title="Is Everdisk gratis?" closed="true" %}}
 Ja, Everdisk is gratis te downloaden en de DLNA-mediaserver is inbegrepen. Een optionele eenmalige Premium Lifetime-aankoop voegt extra's toe zoals foto- en videoconversie voor oudere tv's, aangepaste poorten en meer. Je kunt DLNA-streaming instellen en gebruiken zonder te betalen.
-{{% /details %}}
+{{% /ls-details %}}
 
 Klaar om het te proberen? [Download Everdisk in de App Store](https://apps.apple.com/app/apple-store/id6751851132?pt=95781850&ct=everappzcom&mt=8) en stream je eerste album in een paar minuten naar de tv. Vragen of feedback? Mail ons op **support@everappz.com**.

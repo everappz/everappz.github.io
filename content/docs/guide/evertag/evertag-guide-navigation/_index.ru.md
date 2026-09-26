@@ -16,7 +16,7 @@ readingTime: 3
 Evertag предлагает интуитивный пользовательский интерфейс. Его отличительная черта от многих популярных приложений — встроенный файловый менеджер, дающий пользователям возможность редактировать аудиофайлы и без труда передавать их в облачное хранилище и обратно.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evertag Screen" image="/docs/guide/evertag/img/tag-editor.webp" >}}
+  {{< ls-card title="" subtitle="Evertag Screen" image="/docs/guide/evertag/img/tag-editor.webp" >}}
 {{< /cards >}}
 
 ## Разделы
@@ -42,7 +42,7 @@ Evertag предлагает интуитивный пользовательск
 Практически у каждого элемента содержимого на экране есть кнопка «Другие действия». Нажмите её для доступа ко всем доступным действиям.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evertag More Actions" image="/docs/guide/evertag/img/downloads-file-actions.webp" >}}
+  {{< ls-card title="" subtitle="Evertag More Actions" image="/docs/guide/evertag/img/downloads-file-actions.webp" >}}
 {{< /cards >}}
 
 ## Верхняя панель инструментов

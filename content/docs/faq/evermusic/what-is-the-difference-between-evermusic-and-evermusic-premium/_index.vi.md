@@ -62,7 +62,7 @@ Sau khi bạn nâng cấp ứng dụng, bạn sẽ thấy màn hình trạng th�
 
 ### Tải xuống trên App Store
 
-{{< app-details ids="885367198, 905746421, 1564384601" >}}
+{{< ls-app-details ids="885367198, 905746421, 1564384601" >}}
 
 ### Đóng gói trên App Store
 
@@ -142,7 +142,7 @@ Phiên bản miễn phí rất tuyệt cho những người nghe thông thườn
 
 ## Câu hỏi thường gặp
 
-{{% details title="Tôi đã mua Evermusic Pro (hoặc Premium) bằng một Apple Account cũ. Tôi có thể chuyển nó sang một Apple Account mới không?" closed="true" %}}
+{{% ls-details title="Tôi đã mua Evermusic Pro (hoặc Premium) bằng một Apple Account cũ. Tôi có thể chuyển nó sang một Apple Account mới không?" closed="true" %}}
 Theo tài liệu chính thức của Apple, các giao dịch mua từ một Apple Account khác có thể được chia sẻ thông qua Chia sẻ trong gia đình / Chia sẻ giao dịch mua, với điều kiện các tài khoản được cấu hình phù hợp trong cùng một nhóm Chia sẻ trong gia đình.
 
 Nếu Evermusic Pro được mua bằng Apple Account cũ của bạn, Apple cung cấp một tùy chọn để sử dụng tài khoản đó làm Apple Account phụ cho Chia sẻ giao dịch mua.
@@ -202,30 +202,30 @@ Do đó, nếu việc cấu hình Chia sẻ trong gia đình của Apple với t
 Xin lưu ý rằng Chia sẻ trong gia đình của Apple, Chia sẻ giao dịch mua, các Apple Account và lịch sử mua hàng trên App Store đều được Apple quản lý hoàn toàn. Chúng tôi không có quyền truy cập vào các Apple Account của người dùng và không thể chuyển các giao dịch mua trên App Store từ một Apple Account này sang một Apple Account khác từ phía chúng tôi.
 
 Nếu bạn gặp bất kỳ vấn đề nào cụ thể với Chia sẻ trong gia đình hoặc việc truy cập giao dịch mua được thực hiện bằng Apple Account cũ của bạn, Bộ phận hỗ trợ của Apple sẽ cần kiểm tra cấu hình của các tài khoản.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Tôi đã nâng cấp Evermusic Free (màu xanh) lên Premium rồi. Tôi có cần thêm Evermusic Pro (màu đỏ) không?" closed="true" %}}
+{{% ls-details title="Tôi đã nâng cấp Evermusic Free (màu xanh) lên Premium rồi. Tôi có cần thêm Evermusic Pro (màu đỏ) không?" closed="true" %}}
 Không. Evermusic Pro (biểu tượng đỏ) là cùng một ứng dụng với Evermusic Free (biểu tượng xanh) đã mở khóa Premium sẵn. Nếu bạn đã nâng cấp ứng dụng màu xanh lên Premium, bạn đã có mọi thứ mà Pro cung cấp, vì vậy không cần cài đặt hay mua ứng dụng màu đỏ.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Chia sẻ trong gia đình có được hỗ trợ không, và bao nhiêu người có thể sử dụng giao dịch mua của tôi?" closed="true" %}}
+{{% ls-details title="Chia sẻ trong gia đình có được hỗ trợ không, và bao nhiêu người có thể sử dụng giao dịch mua của tôi?" closed="true" %}}
 Có. Chia sẻ trong gia đình hoạt động với tất cả các giao dịch mua và đăng ký của Evermusic, vì vậy bạn có thể chia sẻ Premium với tối đa năm thành viên gia đình. Bật Chia sẻ giao dịch mua trong Cài đặt → Gia đình trên thiết bị của bạn. Mỗi thành viên gia đình tải xuống ứng dụng bằng Apple Account của riêng họ và nhận được Premium một cách tự động.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Tôi đã nâng cấp lên Premium trên iPhone của mình, nhưng máy Mac của tôi vẫn hiển thị phiên bản miễn phí. Làm cách nào để khắc phục?" closed="true" %}}
+{{% ls-details title="Tôi đã nâng cấp lên Premium trên iPhone của mình, nhưng máy Mac của tôi vẫn hiển thị phiên bản miễn phí. Làm cách nào để khắc phục?" closed="true" %}}
 Premium được chia sẻ giữa iPhone và Mac thông qua iCloud. Trước tiên, hãy đảm bảo cả hai thiết bị sử dụng cùng một Apple Account và đã bật iCloud. Trên iPhone của bạn, mở phiên bản Evermusic mới nhất và đợi khoảng một phút để giao dịch mua của bạn được tải lên iCloud. Bạn cũng có thể nhấn Khôi phục giao dịch mua trong Cài đặt. Sau đó mở phiên bản mới nhất trên máy Mac của bạn, kết nối internet và đợi khoảng một phút. Premium sẽ tự động được bật.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Làm cách nào để khôi phục giao dịch mua của tôi trên một thiết bị mới?" closed="true" %}}
+{{% ls-details title="Làm cách nào để khôi phục giao dịch mua của tôi trên một thiết bị mới?" closed="true" %}}
 Mở Cài đặt trong ứng dụng và nhấn Khôi phục giao dịch mua. Bạn sẽ thấy các giao dịch mua của mình và Premium sẽ được bật lại. Nếu thiếu một giao dịch mua, hãy đảm bảo thiết bị sử dụng cùng một Apple Account mà bạn đã mua, và iCloud đã được bật.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Nếu tôi cài đặt Evermusic Pro (màu đỏ), nó có mở khóa Premium trong Evermusic Free (màu xanh) không?" closed="true" %}}
+{{% ls-details title="Nếu tôi cài đặt Evermusic Pro (màu đỏ), nó có mở khóa Premium trong Evermusic Free (màu xanh) không?" closed="true" %}}
 Có. Nếu bạn cài đặt Evermusic Pro màu đỏ trên một thiết bị, thì Evermusic Free màu xanh trên cùng thiết bị đó sẽ phát hiện nó và tự động bật Premium. Bạn không cần mua Premium lại trong ứng dụng màu xanh. Bạn chỉ cần giữ ứng dụng màu đỏ được cài đặt.
 
 Điều này không hoạt động theo chiều ngược lại. Việc mua Premium bên trong ứng dụng màu xanh không làm cho Evermusic Pro màu đỏ trở nên miễn phí, vì chúng là các ứng dụng riêng biệt trên App Store. Các giao dịch mua trong các ứng dụng màu xanh đồng bộ hóa qua iCloud giữa ứng dụng iPhone màu xanh và ứng dụng Mac màu xanh.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Tôi có thể sử dụng Premium trên máy Mac Intel không?" closed="true" %}}
+{{% ls-details title="Tôi có thể sử dụng Premium trên máy Mac Intel không?" closed="true" %}}
 Có. Hãy sử dụng ứng dụng Evermusic Free màu xanh và nâng cấp lên Premium. Ứng dụng Mac màu xanh chạy trên cả máy Mac Apple Silicon lẫn Intel. Evermusic Pro màu đỏ chỉ chạy trên máy Mac Apple Silicon (M1 trở lên) và không thể cài đặt trên máy Mac Intel.
-{{% /details %}}
+{{% /ls-details %}}

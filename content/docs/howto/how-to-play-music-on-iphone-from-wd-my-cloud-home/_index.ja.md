@@ -7,7 +7,7 @@ tags: ["evermusic", "音楽", "クラウド", "iphone", "ストレージ", "nas"
 readingTime: 4
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **要約:** Evermusicを使用してWD My Cloud Home NASからiPhoneに直接音楽をストリーミングまたはダウンロードしましょう。最大8 TBの音楽にアクセスし、オフラインで再生し、内蔵イコライザーを使用できます -- すべて月額サブスクリプションなしで。
@@ -87,26 +87,26 @@ Evermusicのファイルマネージャーを使用して、このフォルダ�
 
 ## よくある質問
 
-{{% details title="EvermusicはWD My Cloud Homeで無料で使えますか？" closed="true" %}}
+{{% ls-details title="EvermusicはWD My Cloud Homeで無料で使えますか？" closed="true" %}}
 Evermusicはイコライザー、クラウドストリーミング、オフライン再生などのコア機能を含む無料ダウンロードです。無料版は最大3つのクラウド接続をサポートしています。Premiumへのアップグレードで、クラウドアカウント、プレイリスト、オフラインフォルダーの制限が解除されます。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="NASからオフラインで音楽を聴けますか？" closed="true" %}}
+{{% ls-details title="NASからオフラインで音楽を聴けますか？" closed="true" %}}
 はい。Evermusicを使えば、WD My Cloud HomeからiPhoneにトラックをダウンロードしてオフライン再生できます。旅行中やインターネットアクセスが制限されている時に便利です。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="EvermusicはWD My Cloudからのロスレスオーディオフォーマットをサポートしていますか？" closed="true" %}}
+{{% ls-details title="EvermusicはWD My Cloudからのロスレスオーディオフォーマットをサポートしていますか？" closed="true" %}}
 はい。EvermusicはFLAC、ALAC、WAV、AIFF、その他のロスレスフォーマットをサポートしています。フォーマット変換なしで、NASから高品質のオーディオファイルをストリーミングまたはダウンロードできます。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="WD MyCloud EX2 UltraをEvermusicで使えますか？" closed="true" %}}
+{{% ls-details title="WD MyCloud EX2 UltraをEvermusicで使えますか？" closed="true" %}}
 はい、回避策を使えば可能です。My Cloud Homeオプションから接続し、Evermusicのファイルマネージャーでフォルダを作成し、音楽ファイルをアップロードしてください。サンドボックスモードのため、アプリが作成したフォルダ内のファイルのみアクセス可能です。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="WD My Cloud Homeにどのくらいの音楽を保存できますか？" closed="true" %}}
+{{% ls-details title="WD My Cloud Homeにどのくらいの音楽を保存できますか？" closed="true" %}}
 WD My Cloud Homeは最大8 TBのストレージをサポートしています。一般的なビットレートでは、大規模なロスレス音楽ライブラリを含む数十万曲を収容できます。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="EvermusicとWD My Cloud Home間の接続は安全ですか？" closed="true" %}}
+{{% ls-details title="EvermusicとWD My Cloud Home間の接続は安全ですか？" closed="true" %}}
 はい。EvermusicはWestern Digitalの公式APIと安全な接続を使用してNASにアクセスします。データとログイン認証情報は送信中に保護されています。
-{{% /details %}}
+{{% /ls-details %}}

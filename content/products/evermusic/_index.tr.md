@@ -16,16 +16,16 @@ screenshots:
   - "https://everappz.com/products/evermusic/screenshots/2048x2732/6.png"
 ---
 
-{{% sr-only %}}
+{{% ls-sr-only %}}
 Evermusic, İspanyol yazılım şirketi Everappz tarafından geliştirilen iPhone ve Mac için ücretsiz bir çevrimdışı müzik çaları. Dünya genelinde 11 milyondan fazla indirme ve App Store'da 18.000'den fazla değerlendirmeden 4,6 yıldız puanıyla Evermusic, iOS'ta en popüler üçüncü taraf müzik çalarlardan biridir. Uygulama, iCloud Drive, Google Drive, Dropbox, OneDrive, MEGA, Box, pCloud ve Yandex.Disk dahil 30'dan fazla bulut depolama hizmetine bağlanarak kullanıcıların kişisel müzik kitaplıklarını doğrudan buluttan aktarmalarına veya çevrimdışı dinleme için parçaları indirmelerine olanak tanır. Evermusic, MP3, FLAC, AAC, ALAC, WAV, AIFF, OGG, OPUS, WMA, APE ve DSD dahil geniş bir ses formatı yelpazesini destekler. Temel özellikler arasında hazır ayarlarla 10 bantlı ses ekolayzeri, geçişli ve kesintisiz çalma, M3U çalma listesi içe ve dışa aktarma, şarkı sözü görüntüleme, ses yer imleri, Apple CarPlay entegrasyonu, AirPlay ve Chromecast aktarımı ile Last.fm scrobbling bulunur. Uygulama ayrıca SMB, WebDAV ve DLNA protokolleri aracılığıyla yerel ağ aktarımını ve Lightning veya USB-C adaptörleriyle USB flash sürücüden çalmayı destekler. Evermusic, App Store'da ücretsiz olarak indirilebilir ve aylık $4.99 abonelik, yıllık $19.99 abonelik veya $59.99 tek seferlik ömür boyu satın alma seçenekleriyle isteğe bağlı uygulama içi satın alma sunmaktadır. Uygulama ilk olarak 2014 yılında yayımlanmış olup düzenli güncellemelerle aktif olarak bakımı yapılmaktadır.
-{{% /sr-only %}}
+{{% /ls-sr-only %}}
 
 
 <!-- <body class="hx:bg-transparent" style="background: radial-gradient(ellipse at 50% 80%, rgba(59,130,246,0.05), hsla(0,0%,100%,0));"> -->
 
-{{< force-dark >}}
+{{< ls-force-dark >}}
 
-{{< hextra/hero-container
+{{< ls-hero-container
   image="/products/evermusic/heroimage/hero_1200.png"
   imageWidth="600"
   imageCard="true"
@@ -34,40 +34,40 @@ Evermusic, İspanyol yazılım şirketi Everappz tarafından geliştirilen iPhon
 <div class="hx:w-full hx:text-center">
 
 <div class="hx:mt-4">
-{{< downloads-badge >}}
+{{< ls-downloads-badge >}}
 </div>
 
 <div class="hx:mt-6 hx:mb-6">
 <div class="hx:flex hx:gap-4 hx:items-center hx:justify-center">
-  {{< app-icon src="/images/app_icons/png/Evermusic_Icon-App-1024x1024.png" alt="Evermusic Icon" class="hero-headline-icon" size="80" >}}
-  {{< hextra/hero-headline >}}
+  {{< ls-app-icon src="/images/app_icons/png/Evermusic_Icon-App-1024x1024.png" alt="Evermusic Icon" class="hero-headline-icon" size="80" >}}
+  {{< ls-hero-headline >}}
   Evermusic
-  {{< /hextra/hero-headline >}}
+  {{< /ls-hero-headline >}}
 </div>
 </div>
 
 <div class="hx:mb-6">
-{{< hextra/hero-centered-subtitle >}}
+{{< ls-hero-centered-subtitle >}}
 <a href="https://www.chip.de/downloads/Evermusic-Pro-iPhone-_-iPad-App_91614216.html" target="_blank" rel="noopener">
   Kendi müziğinizi buluttan düzenleme ve çalma için mükemmel çözüm <strong>chip.de</strong>
   </a>
-{{< /hextra/hero-centered-subtitle >}}
+{{< /ls-hero-centered-subtitle >}}
 </div>
 
 <div class="hx:mb-6">
-{{< hextra/hero-paragraph >}}
+{{< ls-hero-paragraph >}}
 • Crossfade, boşluksuz oynatma ve ekolayzir ile müzik çalın  
 • M3U çalma listeleri içe aktarın ve çevrimdışı dinlemek için şarkıları indirin  
 • Bulut sürücüler, NAS, bilgisayar veya USB flash sürücülerden müzik akışı yapın  
 • Dinlerken şarkı sözlerini görüntüleyin ve istediğiniz zaman devam etmek için ses yer imleri ekleyin  
-{{< /hextra/hero-paragraph >}}
+{{< /ls-hero-paragraph >}}
 </div>
 
-{{< app-store-badges products="evermusic:ios, evermusic:macos" >}}
+{{< ls-app-store-badges products="evermusic:ios, evermusic:macos" >}}
 
 </div>
 
-{{< /hextra/hero-container >}}
+{{< /ls-hero-container >}}
 
 <div class="hx:mt-6"></div>
 
@@ -75,42 +75,42 @@ Evermusic, İspanyol yazılım şirketi Everappz tarafından geliştirilen iPhon
 
 {{< hextra/feature-grid >}}
 
-  {{< hextra/feature-card
+  {{< ls-glass-feature-card
     title="Müziğiniz Bulutta"
     subtitle="Kendi gelişmiş müzik akış hizmetinizi ücretsiz oluşturun! Favori parçalarınızı akıllı önbellekleme ve kesintisiz oynatma ile doğrudan buluttan akış yapın, cihaz depolamasından da tasarruf edin. iCloud Drive, Google Drive, Dropbox, OneDrive, Box, MEGA, pCloud, Proton Drive ve daha birçok hizmeti bağlayın."
     icon="cloud"
     style="background: radial-gradient(ellipse at 50% 80%, rgba(34,197,94,0.15), hsla(0,0%,100%,0));"
   >}}
 
-  {{< hextra/feature-card
+  {{< ls-glass-feature-card
     title="Çevrimdışı Mod"
     subtitle="Çevrimdışı mod, favori albümlerinizi, parçalarınızı, sanatçılarınızı, türlerinizi ve çalma listelerinizi çevrimdışı oynatma için indirmenize olanak tanır. İster uçakta, ister metroda, ister şebekeden uzakta olun, internete bağlı olmasanız bile akış ve veri kullanımı olmadan her yerde dinleyin."
     icon="download"
     style="background: radial-gradient(ellipse at 50% 80%, rgba(234,88,12,0.15), hsla(0,0%,100%,0));"
   >}}
 
-  {{< hextra/feature-card
+  {{< ls-glass-feature-card
     title="Dosyaları Kolayca Aktarın"
     subtitle="Mac veya PC'nizi bağlayın ve müziği doğrudan ev bilgisayarınızdan akış yapın. Wi-Fi Drive veya iTunes Dosya Paylaşımı kullanarak bilgisayarınız ile iOS cihazınız arasında ses dosyalarını sorunsuz aktarın. Ayrıca NAS'ınızı veya bir USB flash sürücünüzü bağlayabilir ve kitaplığınıza her yerden erişebilirsiniz."
     icon="duplicate"
     style="background: radial-gradient(ellipse at 50% 80%, rgba(251,191,36,0.15), hsla(0,0%,100%,0));"
   >}}
 
-  {{< hextra/feature-card
+  {{< ls-glass-feature-card
     title="Medya Sunucuları ve NAS"
     subtitle="Plex, Emby, Jellyfin, Subsonic ve Navidrome gibi kişisel medya kitaplıklarınıza ve ev sunucularınıza bağlanın. Synology, QNAP, Nextcloud ve WD My Cloud Home gibi NAS cihazlarınızı SMB, WebDAV, FTP, SFTP, NFS veya DLNA/UPnP üzerinden bağlayın ve tüm müzik koleksiyonunuza her yerden erişin."
     icon="desktop-computer"
     style="background: radial-gradient(ellipse at 50% 80%, rgba(59,130,246,0.15), hsla(0,0%,100%,0));"
   >}}
 
-  {{< hextra/feature-card
+  {{< ls-glass-feature-card
     title="Profesyonel Ses Motoru"
     subtitle="Parçalar arasında gerçek boşluksuz oynatma ve akıcı crossfade geçişlerinin keyfini çıkarın. Sesinizi 10 bantlı ekolayzer, özel ön ayarlar ve preamp kazancı, ayarlanabilir oynatma hızı ve perde ile şekillendirin; ayrıca reverb, echo, chorus, flanger, bas güçlendirme, crossfeed ve ses seviyesi normalleştirme gibi eksiksiz bir stüdyo efektleri paketinden yararlanın."
     icon="adjustments"
     style="background: radial-gradient(ellipse at 50% 80%, rgba(192,38,211,0.15), hsla(0,0%,100%,0));"
   >}}
 
-  {{< hextra/feature-card
+  {{< ls-glass-feature-card
     title="Şarkı Sözleri, Widget'lar ve CarPlay"
     subtitle="Müzikle birlikte zamanında kayan gömülü ve senkronize LRC şarkı sözlerini kilit ekranında, ana ekran widget'larında ve Apple CarPlay'de bile okuyun. Müziğinizi her zaman parmaklarınızın ucunda ve senkronize tutmak için Şimdi Çalınıyor, Şarkı Sözleri, Favoriler ve Son Çalınanlar widget'larını ekleyin."
     icon="annotation"
@@ -123,9 +123,9 @@ Evermusic, İspanyol yazılım şirketi Everappz tarafından geliştirilen iPhon
 
 <div class="hx:mt-6"></div>
 
-{{< hextra/section-headline >}}
+{{< ls-section-headline >}}
   Temiz ve Sade Tasarım
-{{< /hextra/section-headline >}}
+{{< /ls-section-headline >}}
 
 <div class="hx:mt-6"></div>
 
@@ -133,7 +133,7 @@ Evermusic, İspanyol yazılım şirketi Everappz tarafından geliştirilen iPhon
 
 {{< cards cols="4">}}
 
-  {{< design-feature-card 
+  {{< ls-design-feature-card 
     icon="adjustments"
     image="/products/evermusic/screenshots/2048x2732/3.png" 
     title="Ses Ekolayzeri" 
@@ -142,7 +142,7 @@ Evermusic, İspanyol yazılım şirketi Everappz tarafından geliştirilen iPhon
     subtitle="iPod tarzı ses ekolayzeri, özelleştirilebilir ön ayarlar ve en iyi dinleme deneyimi için preamp kazancı ile sesinizi ince ayarlayın." 
   >}}
 
-  {{< design-feature-card 
+  {{< ls-design-feature-card 
     icon="annotation"
     image="/products/evermusic/screenshots/2048x2732/4.png"  
     title="Şarkı Sözü Görüntüleyici" 
@@ -151,7 +151,7 @@ Evermusic, İspanyol yazılım şirketi Everappz tarafından geliştirilen iPhon
     subtitle="Dinlerken gömülü şarkı sözlerini ve parça yorumlarını okuyun. Daha sürükleyici bir müzik deneyimi için senkronize şarkı sözlerinin keyfini çıkarın." 
   >}}
 
-  {{< design-feature-card 
+  {{< ls-design-feature-card 
     icon="collection"
     image="/products/evermusic/screenshots/2048x2732/5.png"  
     title="Çalma Listesi Yöneticisi" 
@@ -160,7 +160,7 @@ Evermusic, İspanyol yazılım şirketi Everappz tarafından geliştirilen iPhon
     subtitle="Özel çalma listeleri oluşturun ve düzenleyin, şarkıları yeniden sıralayın, M3U'ya dışa aktarın veya kolay paylaşım ve yedekleme için ZIP dosyaları olarak arşivleyin." 
   >}}
 
-  {{< design-feature-card 
+  {{< ls-design-feature-card 
     icon="cloud"
     image="/products/evermusic/screenshots/2048x2732/6.png"  
     title="Bulut Müzik Akışı" 
@@ -169,7 +169,7 @@ Evermusic, İspanyol yazılım şirketi Everappz tarafından geliştirilen iPhon
     subtitle="Müzik koleksiyonunuzu her zaman her yerde akış yapmak için Google Drive, Dropbox ve OneDrive gibi popüler bulut depolama platformlarını bağlayın." 
   >}}
 
-  {{< design-feature-card 
+  {{< ls-design-feature-card 
     icon="duplicate"
     image="/products/evermusic/screenshots/2048x2732/9.png"  
     title="Dosya Yöneticisi" 
@@ -178,7 +178,7 @@ Evermusic, İspanyol yazılım şirketi Everappz tarafından geliştirilen iPhon
     subtitle="Ses dosyalarınızı kolayca yönetin—parçaları yeniden adlandırın, klasörleri düzenleyin ve yerleşik araçları kullanarak cihazlar arasında müzik aktarın." 
   >}} 
 
-  {{< design-feature-card 
+  {{< ls-design-feature-card 
     icon="sun"
     image="/products/evermusic/screenshots/2048x2732/10.png"  
     title="Uygulama Özelleştirme" 
@@ -193,9 +193,9 @@ Evermusic, İspanyol yazılım şirketi Everappz tarafından geliştirilen iPhon
 
 <div class="hx:mt-6"></div>
 
-{{< hextra/section-headline >}}
+{{< ls-section-headline >}}
   Tam Özellik Seti
-{{< /hextra/section-headline >}}
+{{< /ls-section-headline >}}
 
 <div class="hx:mt-6"></div>
 
@@ -203,47 +203,47 @@ Evermusic, İspanyol yazılım şirketi Everappz tarafından geliştirilen iPhon
 
 {{< cards >}}
 
-  {{< feature-card title="Tüm Ses Formatlarını Çalın" subtitle="Evermusic, MP3, AAC, M4A, WAV, AIFF, ALAC ve M4B dahil en popüler ses formatlarını çalar, böylece tüm müzik koleksiyonunuz her cihazda çalmaya hazırdır." icon="music-note" >}}
+  {{< ls-feature-card title="Tüm Ses Formatlarını Çalın" subtitle="Evermusic, MP3, AAC, M4A, WAV, AIFF, ALAC ve M4B dahil en popüler ses formatlarını çalar, böylece tüm müzik koleksiyonunuz her cihazda çalmaya hazırdır." icon="music-note" >}}
 
-  {{< feature-card title="Bulutunuzu Bağlayın" subtitle="Kitaplığınızı buluta taşıyarak ve iPhone alanını serbest bırakarak kendi akış hizmetinizi oluşturun. iCloud, Google Drive, Dropbox, OneDrive, MEGA, Internxt ve Proton Drive'ı bağlayın." icon="cloud" >}}
+  {{< ls-feature-card title="Bulutunuzu Bağlayın" subtitle="Kitaplığınızı buluta taşıyarak ve iPhone alanını serbest bırakarak kendi akış hizmetinizi oluşturun. iCloud, Google Drive, Dropbox, OneDrive, MEGA, Internxt ve Proton Drive'ı bağlayın." icon="cloud" >}}
 
-  {{< feature-card title="Medya Sunucularını Bağlayın" subtitle="Plex, Subsonic, Navidrome, Jellyfin ve Emby dahil kişisel medya sunucularınızı doğrudan kitaplığınıza bağlayın ve sahip olduğunuz her şeyi evden kolayca akış yapın." icon="server" >}}
+  {{< ls-feature-card title="Medya Sunucularını Bağlayın" subtitle="Plex, Subsonic, Navidrome, Jellyfin ve Emby dahil kişisel medya sunucularınızı doğrudan kitaplığınıza bağlayın ve sahip olduğunuz her şeyi evden kolayca akış yapın." icon="server" >}}
 
-  {{< feature-card title="Bilgisayarınızı veya NAS'ınızı Bağlayın" subtitle="Bilgisayarınızı veya NAS'ınızı SMB, WebDAV, DLNA, FTP, SFTP ve NFS üzerinden, QNAP, Synology, Nextcloud ve WD My Cloud Home için yerel API'lerle bağlayın veya dosyaları Wi-Fi üzerinden aktarın." icon="desktop-computer" >}}
+  {{< ls-feature-card title="Bilgisayarınızı veya NAS'ınızı Bağlayın" subtitle="Bilgisayarınızı veya NAS'ınızı SMB, WebDAV, DLNA, FTP, SFTP ve NFS üzerinden, QNAP, Synology, Nextcloud ve WD My Cloud Home için yerel API'lerle bağlayın veya dosyaları Wi-Fi üzerinden aktarın." icon="desktop-computer" >}}
 
-  {{< feature-card title="Çevrimdışı Müzik" subtitle="Favori şarkılarınızı, albümlerinizi ve sanatçılarınızı indirerek istediğiniz zaman çevrimdışı dinleyin. Son çalınan parçaları çevrimdışı dinleme için otomatik olarak kaydetmek üzere ses çalar önbelleğini etkinleştirin." icon="download" >}}
+  {{< ls-feature-card title="Çevrimdışı Müzik" subtitle="Favori şarkılarınızı, albümlerinizi ve sanatçılarınızı indirerek istediğiniz zaman çevrimdışı dinleyin. Son çalınan parçaları çevrimdışı dinleme için otomatik olarak kaydetmek üzere ses çalar önbelleğini etkinleştirin." icon="download" >}}
 
-  {{< feature-card title="Ses Ekolayzeri" subtitle="Popüler müzik türleri için hazır ön ayarların yanı sıra her parçayı tam istediğiniz gibi ince ayarlamak ve güçlendirmek için manuel kontroller sunan yerleşik ekolayzer ile sesinizi şekillendirin." icon="adjustments" >}}
+  {{< ls-feature-card title="Ses Ekolayzeri" subtitle="Popüler müzik türleri için hazır ön ayarların yanı sıra her parçayı tam istediğiniz gibi ince ayarlamak ve güçlendirmek için manuel kontroller sunan yerleşik ekolayzer ile sesinizi şekillendirin." icon="adjustments" >}}
 
-  {{< feature-card title="Boşluksuz Oynatma" subtitle="Şarkılar arasında hiç duraklama olmadan akıcı, kesintisiz oynatmanın keyfini çıkarın; canlı kayıtlar, konsept albümler, DJ mikleri ve klasik müzik için baştan sona idealdir." icon="volume-up" >}}
+  {{< ls-feature-card title="Boşluksuz Oynatma" subtitle="Şarkılar arasında hiç duraklama olmadan akıcı, kesintisiz oynatmanın keyfini çıkarın; canlı kayıtlar, konsept albümler, DJ mikleri ve klasik müzik için baştan sona idealdir." icon="volume-up" >}}
 
-  {{< feature-card title="Crossfade Oynatma" subtitle="Crossfade ile müziği akışta tutun; her yeni şarkı, mevcut şarkı bitmeden yumuşakça başlar ve hiç sessiz boşluk olmadan sorunsuz, kesintisiz oynatma sağlar." icon="switch-horizontal" >}}
+  {{< ls-feature-card title="Crossfade Oynatma" subtitle="Crossfade ile müziği akışta tutun; her yeni şarkı, mevcut şarkı bitmeden yumuşakça başlar ve hiç sessiz boşluk olmadan sorunsuz, kesintisiz oynatma sağlar." icon="switch-horizontal" >}}
 
-  {{< feature-card title="Ses Efektleri" subtitle="Sesinizi yerleşik ses efektleriyle şekillendirin. Her parçayı aynı ses seviyesinde tutmak için ses seviyesi normalleştirmeyi açın ve zevkinize göre reverb, delay, distortion ve mekansal ses ekleyin." icon="chip" >}}
+  {{< ls-feature-card title="Ses Efektleri" subtitle="Sesinizi yerleşik ses efektleriyle şekillendirin. Her parçayı aynı ses seviyesinde tutmak için ses seviyesi normalleştirmeyi açın ve zevkinize göre reverb, delay, distortion ve mekansal ses ekleyin." icon="chip" >}}
 
-  {{< feature-card title="Müzik Görselleştirici" subtitle="Müziğinize gerçek zamanlı olarak canlı tepki veren tam ekran animasyonlu görselleri izleyin. Geniş bir ön ayar kitaplığından seçim yapın veya dinlerken otomatik olarak dönmelerine izin verin." icon="sparkles" >}}
+  {{< ls-feature-card title="Müzik Görselleştirici" subtitle="Müziğinize gerçek zamanlı olarak canlı tepki veren tam ekran animasyonlu görselleri izleyin. Geniş bir ön ayar kitaplığından seçim yapın veya dinlerken otomatik olarak dönmelerine izin verin." icon="sparkles" >}}
 
-  {{< feature-card title="Şarkı Sözleri ve Yorumlar" subtitle="Ses parçalarınızın gömülü zamanlı şarkı sözlerini ve yorumlarını çalarken görüntüleyin ve hızlı, tek bakışta erişim için şarkı sözü widget'ını Ana Ekranınıza ekleyin." icon="annotation" >}}
+  {{< ls-feature-card title="Şarkı Sözleri ve Yorumlar" subtitle="Ses parçalarınızın gömülü zamanlı şarkı sözlerini ve yorumlarını çalarken görüntüleyin ve hızlı, tek bakışta erişim için şarkı sözü widget'ını Ana Ekranınıza ekleyin." icon="annotation" >}}
 
-  {{< feature-card title="AirPlay ve Chromecast" subtitle="Zahmetsiz ev genelinde dinleme için yerleşik AirPlay ve Google Chromecast desteğiyle müziğinizi Apple TV'ye, akıllı hoparlörlere ve diğer cihazlara kablosuz olarak akış yapın." icon="device-mobile" >}}
+  {{< ls-feature-card title="AirPlay ve Chromecast" subtitle="Zahmetsiz ev genelinde dinleme için yerleşik AirPlay ve Google Chromecast desteğiyle müziğinizi Apple TV'ye, akıllı hoparlörlere ve diğer cihazlara kablosuz olarak akış yapın." icon="device-mobile" >}}
 
-  {{< feature-card title="Apple CarPlay" subtitle="Müziğinizi, çalma listelerinizi ve oynatma kontrollerinizi doğrudan aracınızın gösterge paneli ekranına getiren özel bir Apple CarPlay arayüzü ile güvenle sürün ve dinleyin." icon="truck" >}}
+  {{< ls-feature-card title="Apple CarPlay" subtitle="Müziğinizi, çalma listelerinizi ve oynatma kontrollerinizi doğrudan aracınızın gösterge paneli ekranına getiren özel bir Apple CarPlay arayüzü ile güvenle sürün ve dinleyin." icon="truck" >}}
 
-  {{< feature-card title="Widget'lar" subtitle="Oynatma kuyruğunuza hızlı erişim için etkileşimli Ana Ekran widget'larını etkinleştirin ve tek dokunuşla son kaydedilen konumdan kaldığınız yerden devam edin." icon="view-grid" >}}
+  {{< ls-feature-card title="Widget'lar" subtitle="Oynatma kuyruğunuza hızlı erişim için etkileşimli Ana Ekran widget'larını etkinleştirin ve tek dokunuşla son kaydedilen konumdan kaldığınız yerden devam edin." icon="view-grid" >}}
 
-  {{< feature-card title="Sesli Kitaplar" subtitle="Uygulamayı ses yer imleri, oynatma hızı kontrolü ve kaydedilen medya konumlarıyla tam bir sesli kitap çalarına dönüştürün; ayrıca dosyalarınızın meta verilerinde saklanan metin ayrıntılarını okuyun." icon="book-open" >}}
+  {{< ls-feature-card title="Sesli Kitaplar" subtitle="Uygulamayı ses yer imleri, oynatma hızı kontrolü ve kaydedilen medya konumlarıyla tam bir sesli kitap çalarına dönüştürün; ayrıca dosyalarınızın meta verilerinde saklanan metin ayrıntılarını okuyun." icon="book-open" >}}
 
-  {{< feature-card title="Otomatik Senkronizasyon" subtitle="Müzik kitaplığınız bulut ile cihazınız arasında otomatik olarak senkronize olur ve her şarkıyı sanatçı, albüm ve türe göre düzenli bir şekilde gruplayarak koleksiyonunuzu her zaman düzenli tutar." icon="refresh" >}}
+  {{< ls-feature-card title="Otomatik Senkronizasyon" subtitle="Müzik kitaplığınız bulut ile cihazınız arasında otomatik olarak senkronize olur ve her şarkıyı sanatçı, albüm ve türe göre düzenli bir şekilde gruplayarak koleksiyonunuzu her zaman düzenli tutar." icon="refresh" >}}
 
-  {{< feature-card title="Çalma Listesi Yöneticisi" subtitle="Çalma listeleri oluşturun ve yönetin, şarkıları yeniden sıralayın ve herhangi bir çalma listesini çevrimdışı kullanılabilir yapın. Her şeyi düzenli tutmak için parçalarınızı ada, boyuta, şarkı numarasına veya albüme göre sıralayın." icon="collection" >}}
+  {{< ls-feature-card title="Çalma Listesi Yöneticisi" subtitle="Çalma listeleri oluşturun ve yönetin, şarkıları yeniden sıralayın ve herhangi bir çalma listesini çevrimdışı kullanılabilir yapın. Her şeyi düzenli tutmak için parçalarınızı ada, boyuta, şarkı numarasına veya albüme göre sıralayın." icon="collection" >}}
 
-  {{< feature-card title="ID3 Etiket Düzenleyici" subtitle="Yerleşik ID3 etiket düzenleyici ile bozuk veya eksik meta verileri düzeltin; başlıkları, sanatçıları, albümleri ve daha fazlasını güncelleyerek müzik kitaplığınızı temiz ve düzenli tutun." icon="pencil-alt" >}}
+  {{< ls-feature-card title="ID3 Etiket Düzenleyici" subtitle="Yerleşik ID3 etiket düzenleyici ile bozuk veya eksik meta verileri düzeltin; başlıkları, sanatçıları, albümleri ve daha fazlasını güncelleyerek müzik kitaplığınızı temiz ve düzenli tutun." icon="pencil-alt" >}}
 
-  {{< feature-card title="Dosya Yöneticisi" subtitle="Müziğinizi entegre dosya yöneticisiyle düzenleyin; tüm ses dosyalarınızı düzenli tutmak için kopyalama, taşıma, yeniden adlandırma ve silme gibi günlük işlemleri gerçekleştirin." icon="folder" >}}
+  {{< ls-feature-card title="Dosya Yöneticisi" subtitle="Müziğinizi entegre dosya yöneticisiyle düzenleyin; tüm ses dosyalarınızı düzenli tutmak için kopyalama, taşıma, yeniden adlandırma ve silme gibi günlük işlemleri gerçekleştirin." icon="folder" >}}
 
-  {{< feature-card title="Gelişmiş Arama" subtitle="Akıllı arama motoruyla saniyeler içinde her şeyi bulun; favori albümlerinizi, sanatçılarınızı ve şarkılarınızı tüm müzik kitaplığınızın her yerinde hızlıca bulun." icon="search" >}}
+  {{< ls-feature-card title="Gelişmiş Arama" subtitle="Akıllı arama motoruyla saniyeler içinde her şeyi bulun; favori albümlerinizi, sanatçılarınızı ve şarkılarınızı tüm müzik kitaplığınızın her yerinde hızlıca bulun." icon="search" >}}
 
-  {{< feature-card title="USB Flash Kartlar" subtitle="SanDisk iXpand gibi harici kart okuyucuları bağlayın ve müziğinizi doğrudan bir SD karttan veya USB flash sürücüden, ekstra senkronizasyon veya indirme gerekmeden dinleyin." icon="inbox" >}}
+  {{< ls-feature-card title="USB Flash Kartlar" subtitle="SanDisk iXpand gibi harici kart okuyucuları bağlayın ve müziğinizi doğrudan bir SD karttan veya USB flash sürücüden, ekstra senkronizasyon veya indirme gerekmeden dinleyin." icon="inbox" >}}
   
 {{< /cards >}}
 
@@ -254,55 +254,55 @@ Evermusic, İspanyol yazılım şirketi Everappz tarafından geliştirilen iPhon
 <div class="hx:mt-6"></div>
 
 <div class="hx:w-full">
-{{< appstore-reviews apps="885367198,1564384601" stars="5,4"  app="Evermusic" >}}
+{{< ls-appstore-reviews apps="885367198,1564384601" stars="5,4"  app="Evermusic" >}}
 </div>
 
 <div class="hx:mt-6"></div>
 
-{{< hextra/section-headline >}}
+{{< ls-section-headline >}}
   Fiyatlandırma Planları
-{{< /hextra/section-headline >}}
+{{< /ls-section-headline >}}
 
 <div class="hx:mt-6"></div>
 
 <div class="hx:w-full">
-{{< pricing-plans >}}
+{{< ls-pricing-plans >}}
 
 </div>
 
 <div class="hx:mt-6"></div>
 
 <div class="hx:w-full hx:mx-auto hx:flex hx:flex-col hx:items-center">
-  {{< hextra/info-paragraph border="true" >}}
+  {{< ls-info-paragraph border="true" >}}
    <strong>Aile Paylaşımı</strong>: Tüm satın alımlar ve abonelikler Aile Paylaşımını destekler, Premium erişimi ailenizle paylaşmanıza olanak tanır.<br><strong>Evrensel Erişim</strong>: Ömür boyu ve abonelik planları iCloud senkronizasyonu kullanılarak iOS ve Mac cihazlar arasında paylaşılır.<br><strong>Fiyatlandırma</strong>: Fiyatlar Amerika Birleşik Devletleri için ABD doları cinsinden gösterilmektedir. Son fiyatlandırma bölgenize göre değişebilir.  
-  {{< /hextra/info-paragraph >}}
+  {{< /ls-info-paragraph >}}
 </div>
 
 <div class="hx:mt-6"></div>
 
 <div class="hx:w-full">
-{{< app-details heading="true" >}}
+{{< ls-app-details heading="true" >}}
 </div>
 
 <div class="hx:mt-6"></div>
 
-{{< hextra/section-headline >}}
+{{< ls-section-headline >}}
   Sıkça Sorulan Sorular
-{{< /hextra/section-headline >}}
+{{< /ls-section-headline >}}
 
 <div class="hx:mt-6"></div>
 
 <div class="hx:w-full">
-{{% details title="Evermusic nedir?" closed="true" %}}
+{{% ls-details title="Evermusic nedir?" closed="true" %}}
 Evermusic, farklı bulut depolama hizmetlerinden favori şarkılarınızı dinlemenize yardımcı olan bir müzik çalar uygulamasıdır.<br>
 Çevrimdışı çalmak için müzik kolayca indirebilir, çalma listeleri oluşturup yönetebilir ve dinleme deneyiminizi geliştirmek için yerleşik ekolayziri kullanabilirsiniz.<br>
 Google Drive, Dropbox, OneDrive ve daha fazlası gibi hizmetlerle çalışır, böylece tüm müziğinizi tek bir yerde tutabilir ve herhangi bir cihazdan erişebilirsiniz.<br><br>
 Uygulama ayrıca çeşitli ses formatlarını destekler ve müzik kitaplığınızı sanatçı, albüm, tür ve besteci bazında düzenlemenizi sağlar.<br>
 Kitaplığınızı bulut depolamanız ile cihazınız arasında senkronize ederek favori şarkılarınızın her zaman hazır olmasını sağlayabilirsiniz.<br>
 Ayrıca boşluksuz oynatma, crossfade ve Chromecast ile AirPlay cihazlarına müzik akışı yapma gibi özelliklerle Evermusic tüm müzik ihtiyaçlarınız için eksiksiz bir çözüm sunar.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Evermusic nasıl çalışır?" closed="true" %}}
+{{% ls-details title="Evermusic nasıl çalışır?" closed="true" %}}
 Evermusic, Google Drive, Dropbox, OneDrive ve diğerleri gibi çeşitli bulut depolama hizmetlerine bağlanarak müzik kitaplığınıza herhangi bir cihazdan erişmenizi sağlar.<br>
 Bağlandıktan sonra müziğinizi doğrudan buluttan göz atabilir ve akış yapabilir veya favori şarkılarınızı, albümlerinizi ve çalma listelerinizi çevrimdışı oynatma için indirebilirsiniz.<br>
 Uygulama birden fazla ses formatını destekler ve depoladığınız herhangi bir müzik dosyasını çalmayı kolaylaştırır.<br><br>
@@ -322,15 +322,15 @@ Daha fazla ayrıntı için nasıl yapılır kılavuzlarımızı keşfedin:<br>
 - [WiFi-Drive kullanarak bilgisayardan iPhone'a kablosuz dosya aktarımı nasıl yapılır.](/docs/howto/how-to-transfer-files-wirelessly-from-a-computer-to-an-iphone-using-wifi-drive)<br>
 - [iPhone'a USB flash kart nasıl bağlanır ve üzerindeki müzik dinlenir veya dosyalar yönetilir.](/docs/howto/how-to-connect-a-usb-flashcard-to-the-iphone-and-listen-to-music-or-manage-files-located-on-it)<br>
 - [WD My Cloud Home'dan iPhone'da müzik nasıl çalınır.](/docs/howto/how-to-play-music-on-iphone-from-wd-my-cloud-home)
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Evermusic ücretsiz mi?" closed="true" %}}
+{{% ls-details title="Evermusic ücretsiz mi?" closed="true" %}}
 Evermusic, Premium sürüme yükseltme yaparak kaldırabileceğiniz bazı sınırlamalarla ücretsiz bir uygulamadır. Uygulama, tüm kısıtlamaları kaldırmak için tek seferlik ömür boyu uygulama içi satın alma ve iki abonelik seçeneği (1 ay ve 1 yıl) sunar, böylece sizin için en iyi ve en uygun fiyatı seçebilirsiniz. Fiyatlar ülkenize veya bölgenize göre değişebilir. Ayrıca tüm satın alımlar ve planlar için Aile Paylaşımı'nın etkinleştirildiğini unutmayın, böylece Premium sürümü aile üyelerinizle paylaşabilirsiniz.<br><br>
 Ömür boyu satın alımlar ve abonelikler, bu bilgileri senkronize etmek için iCloud kullanılarak iOS ve Mac arasında paylaşılır. iOS cihazınızda Premium sürümünüz varsa, lütfen en son sürümün yüklü olduğundan ve iCloud'un etkin olduğundan emin olun. iOS'ta uygulamayı başlatın ve satın alma bilgilerinizin iCloud'a yüklenmesi için bir dakika bekleyin.<br><br>
 [Daha fazla bilgi](/docs/faq/evermusic/what-is-the-difference-between-evermusic-and-evermusic-premium/)
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Ücretsiz Evermusic ile Evermusic Premium arasındaki fark nedir?" closed="true" %}}
+{{% ls-details title="Ücretsiz Evermusic ile Evermusic Premium arasındaki fark nedir?" closed="true" %}}
 **Ücretsiz Evermusic**<br>
 • Reklam İçerir: Ücretsiz sürüm, gelir elde etmek için reklamlar görüntüler ve bu durum zaman zaman müzik dinlemenizi kesintiye uğratabilir.<br>
 • Sınırlı Çalma Listeleri: Ücretsiz sürümde en fazla (10) çalma listesi oluşturabilirsiniz.<br>
@@ -357,10 +357,10 @@ Evermusic, Premium sürüme yükseltme yaparak kaldırabileceğiniz bazı sını
 • Tam Kişiselleştirme: Uygulama simgesini değiştirme yeteneği dahil tam kişiselleştirme seçenekleri sunar.<br><br>
 
 [Daha fazla bilgi](/docs/faq/evermusic/what-is-the-difference-between-evermusic-and-evermusic-premium/)
-{{% /details %}}
+{{% /ls-details %}}
 
 
-{{% details title="Evermusic güvenli mi?" closed="true" %}}
+{{% ls-details title="Evermusic güvenli mi?" closed="true" %}}
 Evermusic, bağlı bulut hizmetleriyle etkileşim kurmak için yalnızca resmi SDK ve güvenli bağlantılar kullanır. Kullanıcı adınız ve şifreniz uygulama tarafından erişilemez. Uygulamadan bulut hizmetine yapılan tüm istekler şifrelenir.<br>
 Kullanıcı adı ve şifre girdiğinizde, uygulama size bulut hizmet sağlayıcısı tarafından sağlanan resmi yetkilendirme sayfasını gösterir ve tüm yetkilendirme süreci uygulamanın dışında gerçekleşir. Bulut hizmet sağlayıcısı, başarılı yetkilendirmeden sonra uygulamaya bir auth-token gönderir ve bu token API çağrıları yapmak için kullanılır.<br><br>
 
@@ -372,24 +372,24 @@ Auth-token'ı iptal etmek için web tarayıcınızda hesabınıza giriş yapın 
 Ayrıca uygulamadaki bağlı bulut hesaplarının bağlantısını kesebilirsiniz ve auth-token da cihazınızdan kaldırılacaktır. Uygulamayı cihazınızdan kaldırırsanız, indirilen tüm veriler ve erişim tokenları da kaldırılacaktır.<br><br>
 
 [Daha fazla bilgi](/docs/guide/evermusic/evermusic-guide-connections/)
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Evermusic'te çalma listesi nasıl oluşturulur?" closed="true" %}}
+{{% ls-details title="Evermusic'te çalma listesi nasıl oluşturulur?" closed="true" %}}
 - Çalma Listeleri bölümünü açın.<br>
 - Sağ üst köşedeki "+" düğmesine veya "..." düğmesine dokunun ve "Yeni Çalma Listesi"ni seçin.<br>
 - Çalma listesi için bir ad girin ve "Kaydet"e dokunun. "Şarkı Ekle" iletişim kutusu görünecektir.<br>
 - Çalma listesine eklemek istediğiniz parçaları seçin.<br><br>
 
 [Daha fazla bilgi](/docs/guide/evermusic/evermusic-guide-playlists/)
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Evermusic hangi bulut hizmetlerini destekler?" closed="true" %}}
+{{% ls-details title="Evermusic hangi bulut hizmetlerini destekler?" closed="true" %}}
 Şu anda uygulama en popüler bulut hizmetlerini desteklemektedir: iCloud Drive, Google Drive, Dropbox, OneDrive, Box, MEGA, Yandex.Disk, WD MyCloud Home, DLNA, MediaFire, WebDAV, SMB, pCloud, HiDrive, 百度网盘, My Cloud Home, InfiniCLOUD, Cloud Mail.ru, Put.io, MyDrive.<br><br>
 
 [Daha fazla bilgi](/docs/guide/evermusic/evermusic-guide-connections/)
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Ekolayziri nasıl kullanabilirim?" closed="true" %}}
+{{% ls-details title="Ekolayziri nasıl kullanabilirim?" closed="true" %}}
 - Ses Çalar Ekranını açın.<br>
 - Ekranın altındaki "Ekolayzir" simgesine dokunun.<br>
 - Ekolayziri etkinleştirmek için ekolayzir ekranının sağ üst köşesindeki aç/kapa kontrolüne dokunun.<br>
@@ -397,9 +397,9 @@ Ayrıca uygulamadaki bağlı bulut hesaplarının bağlantısını kesebilirsini
 
 Tam eğitim burada mevcuttur:<br>
 [iPhone, iPad, Mac'inizde Evermusic ve Flacbox ile ses ekolayziri nasıl kullanılır](/docs/howto/how-to-use-the-audio-equalizer-on-your-iphone-ipad-mac-with-evermusic-and-flacbox)
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Evermusic'te çevrimdışı mod nasıl etkinleştirilir?" closed="true" %}}
+{{% ls-details title="Evermusic'te çevrimdışı mod nasıl etkinleştirilir?" closed="true" %}}
 - Bulut Hizmeti Bağlayın:<br>
  • "Bağlantılar" sekmesine gidin.<br>
  • "Bulut depolama bağla"yı seçin ve istediğiniz hizmeti bağlamak için yönergeleri izleyin.<br><br>
@@ -423,9 +423,9 @@ Tam eğitim burada mevcuttur:<br>
  • "Daha fazla eylem"e dokunun ve "Senkronizasyonu başlat"ı seçin.<br><br>
 
 [Daha fazla bilgi](/docs/howto/play-offline-music-in-evermusic-flacbox-download-sync-from-cloud-to-local-files/)
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="iPhone'da yerel olarak indirilen müzik nasıl çalınır?" closed="true" %}}
+{{% ls-details title="iPhone'da yerel olarak indirilen müzik nasıl çalınır?" closed="true" %}}
 Uygulamayı yükledikten sonra "Yerel Dosyalar" ekranını açın ve "Bu iPhone'daki Dosyalar" bölümüne gidin.<br>
 Birkaç ses dosyası seçmeniz gerekiyorsa "Dosya aç..."ı, bir müzik klasörü seçmek istiyorsanız "Klasör aç..."ı seçin.<br>
 Uygulama klasörün içeriğini tarar ve bulunan tüm ses dosyaları seçilir.<br>
@@ -456,15 +456,15 @@ Dosyalar çalma listenize eklenir ve daha fazla düğmesini kullanarak şarkı s
 Bu basit adımlarla iPhone ve Mac'inizin en sevdiğiniz yerel müzik koleksiyonunun keyfini çıkarmak için en iyi platform olma potansiyelini ortaya çıkarabilirsiniz.<br><br>
 
 [Daha fazla bilgi](/docs/howto/how-to-play-local-music-stored-on-your-iphone-or-mac)
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Bir çalma listesine kaldığım yerden nasıl devam edebilirim?" closed="true" %}}
+{{% ls-details title="Bir çalma listesine kaldığım yerden nasıl devam edebilirim?" closed="true" %}}
 Önce Ayarlar > Ses Çalar > Genel'de "Ses Çalar Durumunu Kaydet"in etkin olduğundan emin olun.<br>
 Başka bir çalma listesine geçip geri döndüğünüzde, albüm kapağının altındaki üst araç çubuğunda dört eylem göreceksiniz: "Ara", "Oynatmaya Devam Et", "Tümünü Çal" ve "Tümünü Karıştır".<br>
 Çalma listesine son kaydedilen durumdan ve medya konumundan devam etmek için "Oynatmaya Devam Et"e dokunun.<br>
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Evermusic'te şarkı sözleri nasıl görüntülenir?" closed="true" %}}
+{{% ls-details title="Evermusic'te şarkı sözleri nasıl görüntülenir?" closed="true" %}}
 Evermusic uygulamasında parçalar için gömülü şarkı sözlerini şu adımları izleyerek görüntüleyebilirsiniz:<br>
 1. Bir ses dosyasına dokunarak oynatmaya başlayın.<br>
 2. Tam ekran ses çaları açın.<br>
@@ -478,9 +478,9 @@ Evermusic uygulamasında parçalar için gömülü şarkı sözlerini şu adıml
 3. "LRC Dosyası Modu": Ses dosyalarını düzenlemek yerine, orijinal ses dosyasıyla aynı klasöre bir LRC dosyası yerleştirebilirsiniz. Her iki dosya da aynı ada ancak farklı uzantılara sahip olmalıdır. Yorumlar ekranında üçüncü sayfaya kaydırdığınızda, uygulama aynı dizinde LRC dosyasını arar ve içeriğini görüntüler.<br><br>
 
 [Daha fazla bilgi](/docs/howto/how-to-add-and-view-comments-to-your-audio-tracks-on-iphone-ipad-and-mac-with-evermusic-and-flacbox)
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Bilgisayarımdan Evermusic'e müzik nasıl aktarılır?" closed="true" %}}
+{{% ls-details title="Bilgisayarımdan Evermusic'e müzik nasıl aktarılır?" closed="true" %}}
 Bilgisayarınızı veya kişisel NAS'ınızı SMB, WebDAV veya DLNA protokolleri kullanarak bağlayabilirsiniz. Alternatif olarak müzik aktarmak için iTunes Dosya Paylaşımı'nı kullanabilirsiniz.<br><br>
 
 Bilgisayarı **SMB** protokolü kullanarak bağlamak için "Bulut hizmeti bağla" → SMB'ye dokunun.<br>
@@ -517,9 +517,9 @@ Ayrıntılı talimat burada mevcuttur:<br>
 
 **DLNA** ile burada açıklandığı gibi DLNA medya sunucusu kurabilir ve Windows PC'den müziğinizi akış yapabilirsiniz:<br>
 [Windows 10'da DLNA Media Server nasıl etkinleştirilir ve iPhone'da müziğiniz nasıl çalınır](/docs/howto/how-to-enable-dlna-media-server-on-windows-10-and-play-your-music-on-iphone)
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Müzik nasıl indirilir?" closed="true" %}}
+{{% ls-details title="Müzik nasıl indirilir?" closed="true" %}}
 Müzik indirmeden ve çevrimdışı dinlemeden önce bir ağ hesabı bağlamanız gerekir.<br>
 "Bağlantılar" ekranını açın ve hesabınızı ekleyin.<br>
 Bir ağ hesabı ekledikten sonra buluttan müzik indirebilirsiniz.<br><br>
@@ -540,9 +540,9 @@ Bir ağ hesabı ekledikten sonra buluttan müzik indirebilirsiniz.<br><br>
 
 Başka bir seçenek de Youtube'dan müzik indirip burada açıklandığı gibi Evermusic'e aktarmaktır:<br>
 [YouTube'dan Müzik Nasıl İndirilir ve iPhone'da Çevrimdışı Müzik Nasıl Dinlenir](/docs/howto/how-to-download-music-from-youtube-and-listen-to-offline-music-on-iphone)
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Evermusic Apple CarPlay'i destekliyor mu?" closed="true" %}}
+{{% ls-details title="Evermusic Apple CarPlay'i destekliyor mu?" closed="true" %}}
 Evet, **Evermusic Apple CarPlay'i tam olarak destekler**. Müzik kitaplığınıza göz atabilir, yerel veya çevrimdışı dosyaları çalabilir, bulut depolamaya bağlanabilir ve aracınızın bilgi-eğlence ekranından doğrudan oynatmayı kontrol edebilirsiniz.
 
 CarPlay arayüzü **Kitaplık**, **Bağlantılar**, **Yerel Dosyalar** ve **Ayarlar** için özel sekmeler içerir ve yolda müziğiniz üzerinde tam kontrol sağlar. Oynatma kontrolleri, karıştırma, tekrarlama ve kuyruk yönetimi de mevcuttur.
@@ -550,9 +550,9 @@ CarPlay arayüzü **Kitaplık**, **Bağlantılar**, **Yerel Dosyalar** ve **Ayar
 CarPlay'i kullanmak için Siri'nin etkin olduğundan ve iPhone'unuzun USB veya kablosuz olarak bağlı olduğundan emin olun.
 
 [Tam kılavuzu okuyun](/docs/howto/how-to-play-your-own-music-on-iphone-using-carplay/)
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Evermusic hangi ses formatlarını destekler?" closed="true" %}}
+{{% ls-details title="Evermusic hangi ses formatlarını destekler?" closed="true" %}}
 İşte desteklenen ses formatlarının ve karşılık gelen dosya uzantılarının tam listesi:<br><br>
 
 **Desteklenen Ses Formatları:**<br>
@@ -570,40 +570,40 @@ CarPlay'i kullanmak için Siri'nin etkin olduğundan ve iPhone'unuzun USB veya k
 mpeg, aifc, 3gp, avi, aif, latm, 3gpp, m4a, loas, cdda, aac, m4p, m4b, ac3, pls, mp4v, m3u, m4r, aiff, xhe, mp1, snd, mp2, wav, qt, wave, m3u8, m4v, mp3, 3g2, caf, mp4, flac, au, w64, ec3, adts, amr, vtt, mpa, aa<br><br>
 
 Bu geniş desteklenen format ve dosya uzantısı yelpazesiyle müziğinizi tercih ettiğiniz formatta dinleyebilirsiniz.
-{{% /details %}}
+{{% /ls-details %}}
 
 </div>
 
 <div class="hx:mt-6"></div>
 
-{{< hextra/section-headline >}}
+{{< ls-section-headline >}}
   Kullanım Kılavuzu
-{{< /hextra/section-headline >}}
+{{< /ls-section-headline >}}
 
 <div class="hx:mt-6"></div>
 
 <div class="hx:w-full">
 
 <div class="hx:w-full hx:mx-auto hx:flex hx:flex-col hx:items-center hx:text-center">
-  {{< hextra/info-paragraph border="false" >}}
+  {{< ls-info-paragraph border="false" >}}
   Bu kılavuz, iPhone, iPad veya Mac'inizde Evermusic'ten en iyi şekilde yararlanmanıza yardımcı olacaktır. Buluttan müzik akışı yapmayı, sesli kitaplarınızı yönetmeyi ve cihazlar arasında müzik taşımayı öğrenin. Evermusic, müzik koleksiyonunuz üzerinde kolay bir uygulamada tam kontrol sağlar.
-  {{< /hextra/info-paragraph >}}
+  {{< /ls-info-paragraph >}}
 </div>
 
 {{< cards >}}
-  {{< feature-card icon="location-marker" title="Gezinme" subtitle="iPhone'da Sekme Çubuğu veya iPad ve Mac'te Sol Menü kullanarak Evermusic'te nasıl gezineceğinizi öğrenin." link="/docs/guide/evermusic/evermusic-guide-navigation" >}}
+  {{< ls-feature-card icon="location-marker" title="Gezinme" subtitle="iPhone'da Sekme Çubuğu veya iPad ve Mac'te Sol Menü kullanarak Evermusic'te nasıl gezineceğinizi öğrenin." link="/docs/guide/evermusic/evermusic-guide-navigation" >}}
 
-  {{< feature-card icon="cloud" title="Bağlantılar" subtitle="Bulut hesaplarınızı bağlayın ve yerleşik dosya yöneticisini kullanarak çevrimiçi dosyaları yönetin." link="/docs/guide/evermusic/evermusic-guide-connections" >}}
+  {{< ls-feature-card icon="cloud" title="Bağlantılar" subtitle="Bulut hesaplarınızı bağlayın ve yerleşik dosya yöneticisini kullanarak çevrimiçi dosyaları yönetin." link="/docs/guide/evermusic/evermusic-guide-connections" >}}
 
-  {{< feature-card icon="library" title="Müzik Kitaplığı" subtitle="Müzik Kitaplığı'nda parçalarınızı, albümlerinizi ve sanatçılarınızı düzenleyin ve keşfedin." link="/docs/guide/evermusic/evermusic-guide-music-library" >}}
+  {{< ls-feature-card icon="library" title="Müzik Kitaplığı" subtitle="Müzik Kitaplığı'nda parçalarınızı, albümlerinizi ve sanatçılarınızı düzenleyin ve keşfedin." link="/docs/guide/evermusic/evermusic-guide-music-library" >}}
 
-  {{< feature-card icon="collection" title="Çalma Listeleri" subtitle="Ruh halinize veya etkinliğinize uygun çalma listeleri oluşturun ve düzenleyin." link="/docs/guide/evermusic/evermusic-guide-playlists" >}}
+  {{< ls-feature-card icon="collection" title="Çalma Listeleri" subtitle="Ruh halinize veya etkinliğinize uygun çalma listeleri oluşturun ve düzenleyin." link="/docs/guide/evermusic/evermusic-guide-playlists" >}}
 
-  {{< feature-card icon="folder" title="Yerel Dosyalar" subtitle="Yerel Dosyalar bölümünden çevrimdışı müziğe erişin ve yönetin." link="/docs/guide/evermusic/evermusic-guide-local-files" >}}
+  {{< ls-feature-card icon="folder" title="Yerel Dosyalar" subtitle="Yerel Dosyalar bölümünden çevrimdışı müziğe erişin ve yönetin." link="/docs/guide/evermusic/evermusic-guide-local-files" >}}
 
-  {{< feature-card icon="play" title="Ses Çalar" subtitle="Oynatma, kuyruk ve ekolayzir ile uyku zamanlayıcısı gibi ses ayarlarını kontrol edin." link="/docs/guide/evermusic/evermusic-guide-player" >}}
+  {{< ls-feature-card icon="play" title="Ses Çalar" subtitle="Oynatma, kuyruk ve ekolayzir ile uyku zamanlayıcısı gibi ses ayarlarını kontrol edin." link="/docs/guide/evermusic/evermusic-guide-player" >}}
 
-  {{< feature-card icon="adjustments" title="Ayarlar" subtitle="Evermusic'in görünümünü, özelliklerini ve performans ayarlarını özelleştirin." link="/docs/guide/evermusic/evermusic-guide-settings" >}}
+  {{< ls-feature-card icon="adjustments" title="Ayarlar" subtitle="Evermusic'in görünümünü, özelliklerini ve performans ayarlarını özelleştirin." link="/docs/guide/evermusic/evermusic-guide-settings" >}}
 
 {{< /cards >}}
 

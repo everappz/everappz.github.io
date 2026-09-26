@@ -14,7 +14,7 @@ authors:
     image: "/images/about/artem-meleshko-founder-everappz.webp"
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 ## App Store 키워드가 다운로드 수를 결정하는 이유
 
@@ -104,29 +104,29 @@ App Store 최적화에 비싼 도구가 필요하지 않습니다. 스마트한 
 이 도구는 오픈 소스입니다. 버그 보고, 기능 제안, 풀 리퀘스트를 환영합니다.
 
 {{< cards cols="1" >}}
-  {{< card link="https://github.com/everappz/app-store-keyword-optimizer/tree/main" title="appkeywords.pro on GitHub" icon="github" tag= "open source" >}}
+  {{< ls-card link="https://github.com/everappz/app-store-keyword-optimizer/tree/main" title="appkeywords.pro on GitHub" icon="github" tag= "open source" >}}
 {{< /cards >}}
 
 ---
 
 ## 자주 묻는 질문
 
-{{% details title="AppKeywords.pro는 정말 무료인가요?" closed="true" %}}
+{{% ls-details title="AppKeywords.pro는 정말 무료인가요?" closed="true" %}}
 네. 가입, 광고, 데이터 수집 없는 완전한 오픈 소스 브라우저 기반 도구입니다. 메타데이터는 절대 기기를 떠나지 않습니다.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="이 도구는 여러 App Store 현지화를 지원하나요?" closed="true" %}}
+{{% ls-details title="이 도구는 여러 App Store 현지화를 지원하나요?" closed="true" %}}
 네. 각 로케일에 대해 독립적으로 메타데이터를 추가할 수 있으며, 내보내기에는 Fastlane과 호환되는 단일 JSON 파일에 모든 언어가 포함됩니다.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="제목 키워드를 키워드 필드에서 반복해야 하나요?" closed="true" %}}
+{{% ls-details title="제목 키워드를 키워드 필드에서 반복해야 하나요?" closed="true" %}}
 아니요. Apple은 이미 제목과 부제목의 단어를 인덱싱합니다. 키워드 필드에서 반복하면 글자를 낭비합니다.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="App Store 키워드를 얼마나 자주 업데이트해야 하나요?" closed="true" %}}
+{{% ls-details title="App Store 키워드를 얼마나 자주 업데이트해야 하나요?" closed="true" %}}
 최소 분기에 한 번 키워드를 검토하고 갱신하세요. 순위 하락이나 검색 행동의 계절적 변화를 감지하면 더 빨리 조정하세요.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="이 도구를 Fastlane과 함께 사용할 수 있나요?" closed="true" %}}
+{{% ls-details title="이 도구를 Fastlane과 함께 사용할 수 있나요?" closed="true" %}}
 네. GitHub 저장소에는 Fastlane의 메타데이터 폴더 구조와 AppKeywords.pro에서 사용하는 JSON 형식 간에 변환하는 셸 스크립트가 포함되어 있습니다.
-{{% /details %}}
+{{% /ls-details %}}

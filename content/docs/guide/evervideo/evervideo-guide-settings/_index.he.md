@@ -23,7 +23,7 @@ readingTime: 16
 מסך **הגדרות** הוא מרכז הבקרה של Evervideo. מכאן ניתן לשדרג ל-Premium, להגדיר מנועי וידאו ואודיו (קודקים של המערכת או FFmpeg), לנהל Picture-in-Picture, להגדיר כתוביות (ראשי, משני, libass, קבצים חיצוניים, גופנים), לארגן את ספריית המדיה, להגדיר את מנהל הקבצים, להפעיל widgets של מסך הבית, לגבות נתונים ולגשת לעזרה ולמידע משפטי. הסעיפים מקובצים תחת כותרות: רכישות ועדכונים, העדפות אפליקציה, עזרה, הודעות משפטיות ופרטיות.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evervideo מסך הגדרות ראשי" image="/docs/guide/evervideo/img/evervideo-settings.webp" >}}
+  {{< ls-card title="" subtitle="Evervideo מסך הגדרות ראשי" image="/docs/guide/evervideo/img/evervideo-settings.webp" >}}
 {{< /cards >}}
 
 ## שדרוג ל-Premium
@@ -31,13 +31,13 @@ readingTime: 16
 שדרג את האפליקציה לגרסת Premium כדי להסיר את כל המגבלות. הגרסה החינמית של האפליקציה מציעה רכישה חד-פעמית לכל החיים ושתי אפשרויות מנוי (חודש 1 ושנה 1) להסרת כל ההגבלות ולשדרוג ל-Premium.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evervideo שדרוג ל-Premium" image="/docs/guide/evervideo/img/evervideo-upgrade-to-premium.webp" >}}
+  {{< ls-card title="" subtitle="Evervideo שדרוג ל-Premium" image="/docs/guide/evervideo/img/evervideo-upgrade-to-premium.webp" >}}
 {{< /cards >}}
 
 **Family Sharing** מופעל עבור כל הרכישות והתוכניות, כך שניתן לשתף את גרסת Premium עם עד חמישה בני משפחה ללא עלות נוספת.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evervideo בחר תוכנית Premium" image="/docs/guide/evervideo/img/evervideo-select-premium-plan.webp" >}}
+  {{< ls-card title="" subtitle="Evervideo בחר תוכנית Premium" image="/docs/guide/evervideo/img/evervideo-select-premium-plan.webp" >}}
 {{< /cards >}}
 
 ## שיתוף רכישות בין iOS ו-Mac
@@ -51,7 +51,7 @@ readingTime: 16
 לשחזור הרכישה במכשיר חדש, השתמש בתפריט **רכישות ← שחזור רכישות**. תראה את רשימת הרכישות שלך. אם אינך רואה את כולן, אשר שהמכשיר מחובר לאותו Apple ID ששימש לביצוע הרכישות, וודא שה-iCloud מופעל.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evervideo תפריט רכישות בהגדרות" image="/docs/guide/evervideo/img/evervideo-purhases-menu-in-settings.webp" >}}
+  {{< ls-card title="" subtitle="Evervideo תפריט רכישות בהגדרות" image="/docs/guide/evervideo/img/evervideo-purhases-menu-in-settings.webp" >}}
 {{< /cards >}}
 
 ## נסה Premium בחינם

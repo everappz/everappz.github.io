@@ -21,7 +21,7 @@ readingTime: 14
 - **מסמכים משפטיים ופרטיות** — תנאים, מדיניות פרטיות, הודעות משפטיות, ניתוחים ואיסוף נתונים
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="מסך הגדרות Evertag" image="/docs/guide/evertag/img/settings.webp" >}}
+  {{< ls-card title="" subtitle="מסך הגדרות Evertag" image="/docs/guide/evertag/img/settings.webp" >}}
 {{< /cards >}}
 
 ## שדרוג ל-Premium
@@ -63,7 +63,7 @@ readingTime: 14
 מנהל הקבצים תומך בגישה לחשבונות אחסון ענן מחוברים ומציע פעולות אצווה לניהול מהיר של מספר קבצים.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="מסך מנהל קבצים של הגדרות Evertag" image="/docs/guide/evertag/img/settings-file-manager.webp" >}}
+  {{< ls-card title="" subtitle="מסך מנהל קבצים של הגדרות Evertag" image="/docs/guide/evertag/img/settings-file-manager.webp" >}}
 {{< /cards >}}
 
 ### העברות קבצים
@@ -103,7 +103,7 @@ readingTime: 14
 בסעיף זה, ניתן להגדיר את עורך תגי האודיו המובנה.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="מסך עורך תגים של הגדרות Evertag" image="/docs/guide/evertag/img/settings-tag-editor.webp" >}}
+  {{< ls-card title="" subtitle="מסך עורך תגים של הגדרות Evertag" image="/docs/guide/evertag/img/settings-tag-editor.webp" >}}
 {{< /cards >}}
 
 ### קנה מידה לעטיפת אלבום
@@ -136,7 +136,7 @@ readingTime: 14
 בסעיף זה, ניתן להתאים אישית את הגדרות ממשק המשתמש בהתאם להעדפותיכם.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="מסך התאמה אישית של הגדרות Evertag" image="/docs/guide/evertag/img/settings-personalization.webp" >}}
+  {{< ls-card title="" subtitle="מסך התאמה אישית של הגדרות Evertag" image="/docs/guide/evertag/img/settings-personalization.webp" >}}
 {{< /cards >}}
 
 ### סמל אפליקציה

@@ -14,7 +14,7 @@ authors:
     image: "/images/about/artem-meleshko-founder-everappz.webp"
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 **要約：** Evermusicの公式プロモーションビデオをご覧になり、iPhoneとMacでのクラウド音楽ストリーミング、オフライン再生、オーディオカスタマイズをご確認ください。
 
@@ -24,7 +24,7 @@ authors:
 
 Evermusicの実際の動作をご覧ください — クラウドからの音楽ストリーミング、プレイリスト管理、iPhoneでの高品質オーディオ配信：
 
-{{< youtubecard id="6mm3LVT4rtA" title="Evermusic Promo Video" >}}
+{{< ls-youtubecard id="6mm3LVT4rtA" title="Evermusic Promo Video" >}}
 
 ## ビデオでご覧いただける内容
 
@@ -41,14 +41,14 @@ EvermusicはiPhone、iPad、Macで利用可能です。App Storeから[Evermusic
 
 ## FAQ
 
-{{% details title="Evermusicとは？" closed="true" %}}
+{{% ls-details title="Evermusicとは？" closed="true" %}}
 EvermusicはiOSおよびmacOS向けの音楽プレーヤーで、Dropbox、Google Drive、OneDrive、iCloud Driveなどのクラウドサービスからオーディオをストリーミングします。オフライン再生もサポートしており、内蔵イコライザーも搭載しています。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Evermusicはどのクラウドサービスをサポートしていますか？" closed="true" %}}
+{{% ls-details title="Evermusicはどのクラウドサービスをサポートしていますか？" closed="true" %}}
 EvermusicはDropbox、Google Drive、OneDrive、iCloud Drive、pCloud、Yandex.Disk、その他いくつかのクラウドストレージプロバイダーに接続します。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Evermusicは無料ですか？" closed="true" %}}
+{{% ls-details title="Evermusicは無料ですか？" closed="true" %}}
 Evermusicはアプリ内課金でオプションのプレミアム機能が利用できる無料ダウンロードです。
-{{% /details %}}
+{{% /ls-details %}}

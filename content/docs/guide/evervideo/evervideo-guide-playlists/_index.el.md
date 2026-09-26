@@ -19,7 +19,7 @@ readingTime: 5
 Οι λίστες αναπαραγωγής στο Evervideo μπορούν να περιέχουν μίξη online cloud βίντεο, offline ληφθέντα αρχεία, τοπικά αρχεία, βίντεο βιβλιοθήκης Φωτογραφιών και βίντεο βιβλιοθήκης iOS Μουσικής — όλα σε μία λίστα — και αναπαράγονται άψογα μαζί.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Λίστες αναπαραγωγής Evervideo στη Βιβλιοθήκη Πολυμέσων" image="/docs/guide/evervideo/img/evervideo-playlists-in-media-library.webp" >}}
+  {{< ls-card title="" subtitle="Λίστες αναπαραγωγής Evervideo στη Βιβλιοθήκη Πολυμέσων" image="/docs/guide/evervideo/img/evervideo-playlists-in-media-library.webp" >}}
 {{< /cards >}}
 
 ## Δημιουργία Λίστας Αναπαραγωγής

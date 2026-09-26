@@ -21,7 +21,7 @@ Na tejto obrazovke máte prístup k nastaveniam aplikácie a môžete ju upgrado
 - **Právne a súkromie** — Podmienky, Zásady ochrany súkromia, Právne upozornenia, Analytika a zber dát
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Obrazovka Nastavení Evertag" image="/docs/guide/evertag/img/settings.webp" >}}
+  {{< ls-card title="" subtitle="Obrazovka Nastavení Evertag" image="/docs/guide/evertag/img/settings.webp" >}}
 {{< /cards >}}
 
 ## Upgrade na Premium
@@ -63,7 +63,7 @@ Aktivuje obrazovku ochrany heslom, ak chcete chrániť dáta svojej aplikácie.
 Správca súborov podporuje prístup k pripojeným cloudovým úložným účtom a ponúka dávkové operácie pre rýchlu správu viacerých súborov.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Obrazovka Nastavení Správcu súborov Evertag" image="/docs/guide/evertag/img/settings-file-manager.webp" >}}
+  {{< ls-card title="" subtitle="Obrazovka Nastavení Správcu súborov Evertag" image="/docs/guide/evertag/img/settings-file-manager.webp" >}}
 {{< /cards >}}
 
 ### Prenosy súborov
@@ -103,7 +103,7 @@ Vymažte priečinok vyrovnávacej pamäte aplikácie na získanie miesta.
 V tejto sekcii môžete nakonfigurovať vstavaný editor audio tagov.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Obrazovka Nastavení Editora tagov Evertag" image="/docs/guide/evertag/img/settings-tag-editor.webp" >}}
+  {{< ls-card title="" subtitle="Obrazovka Nastavení Editora tagov Evertag" image="/docs/guide/evertag/img/settings-tag-editor.webp" >}}
 {{< /cards >}}
 
 ### Škálovanie obálky albumu
@@ -136,7 +136,7 @@ V tejto sekcii môžete aktivovať funkciu WiFi Drive, ktorá vám umožňuje pr
 V tejto sekcii môžete prispôsobiť nastavenia používateľského rozhrania podľa svojich preferencií.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Obrazovka Nastavení Personalizácie Evertag" image="/docs/guide/evertag/img/settings-personalization.webp" >}}
+  {{< ls-card title="" subtitle="Obrazovka Nastavení Personalizácie Evertag" image="/docs/guide/evertag/img/settings-personalization.webp" >}}
 {{< /cards >}}
 
 ### Ikona aplikácie

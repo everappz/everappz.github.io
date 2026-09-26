@@ -16,7 +16,7 @@ readingTime: 3
 يوفر Evertag واجهة مستخدم بديهية. ما يميزه عن كثير من التطبيقات الشائعة هو مدير الملفات المدمج، الذي يمنح المستخدمين القدرة على تعديل ملفات الصوت ونقلها من وإلى التخزين السحابي بسلاسة.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="شاشة Evertag" image="/docs/guide/evertag/img/tag-editor.webp" >}}
+  {{< ls-card title="" subtitle="شاشة Evertag" image="/docs/guide/evertag/img/tag-editor.webp" >}}
 {{< /cards >}}
 
 ## الأقسام
@@ -42,7 +42,7 @@ readingTime: 3
 يتضمن كل عنصر محتوى تقريبًا على الشاشة زر "المزيد من الإجراءات". اضغط عليه للوصول إلى جميع الإجراءات المتاحة.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="المزيد من الإجراءات في Evertag" image="/docs/guide/evertag/img/downloads-file-actions.webp" >}}
+  {{< ls-card title="" subtitle="المزيد من الإجراءات في Evertag" image="/docs/guide/evertag/img/downloads-file-actions.webp" >}}
 {{< /cards >}}
 
 ## شريط الأدوات العلوي

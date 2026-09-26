@@ -7,7 +7,7 @@ tags: ["Evermusic", "音频效果", "操作指南", "混响", "延迟", "失真"
 readingTime: 8
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 **要点速览：** Evermusic 内置六种实时音频效果——**音量归一化、压缩器、混响、交叉馈送、延迟和失真**。可从播放器的 **⋯（更多）菜单 > 音频效果** 打开它们，或从 **设置 > 音频播放器 > 音频效果** 进入。点按某个效果，将其开关拨到 **开启**（右上角），选择一个**预设**，并可选地打开 **高级模式** 来精细调节滑块。每种效果都独立工作，并实时应用于你播放的所有内容——本地文件、云端流和网络电台——且不重新编码。
 
@@ -162,38 +162,38 @@ Evermusic 的效果运行在一条现代的 **AVAudioEngine** 处理链内部。
 
 ## 常见问题
 
-{{% details title="如何在 Evermusic 中为我的音乐添加混响、延迟或其他效果？" closed="true" %}}
+{{% ls-details title="如何在 Evermusic 中为我的音乐添加混响、延迟或其他效果？" closed="true" %}}
 打开播放器，点按 ⋯（更多）按钮，选择音频效果（或前往 设置 > 音频播放器 > 音频效果）。点按你想要的效果，在右上角将其开关拨到开启，然后选择一个预设。打开高级模式以精细调节滑块。效果会立即应用于正在播放的内容。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Evermusic 有哪些音频效果？" closed="true" %}}
+{{% ls-details title="Evermusic 有哪些音频效果？" closed="true" %}}
 六种实时效果：音量归一化（EBU R128 响度拉平）、压缩器（动态）、混响（空间与回声尾音）、交叉馈送（自然的耳机声像）、延迟（回声）和失真（低保真颗粒感）。每一种都相互独立，可单独使用或组合使用。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="这些效果会改变或损坏我的音频文件吗？" closed="true" %}}
+{{% ls-details title="这些效果会改变或损坏我的音频文件吗？" closed="true" %}}
 不会。所有效果仅在播放期间实时应用。它们从不修改或重新编码你的文件。关闭某个效果，你的原始声音会立即恢复。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="我能同时使用多种效果吗？" closed="true" %}}
+{{% ls-details title="我能同时使用多种效果吗？" closed="true" %}}
 可以。每种效果都相互独立——没有总开关——因此你可以启用任意组合。例如，音量归一化加压缩器以获得一致、易听的聆听体验，或在耳机上使用混响加交叉馈送。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="什么是交叉馈送，我应该使用它吗？" closed="true" %}}
+{{% ls-details title="什么是交叉馈送，我应该使用它吗？" closed="true" %}}
 交叉馈送会将每个立体声声道经过滤波的一小部分混入另一个声道，使耳机听起来更像真实的音箱，减轻硬声像混音那种"在脑袋里"的感觉。它是一种耳机效果（使用音箱时请关闭它）。它基于 Bauer stereophonic-to-binaural (bs2b) 算法构建，并包含 Chu Moy 和 Jan Meier 等预设。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="什么是音量归一化，它与 ReplayGain 有何不同？" closed="true" %}}
+{{% ls-details title="什么是音量归一化，它与 ReplayGain 有何不同？" closed="true" %}}
 音量归一化通过用 EBU R128 标准测量感知响度并将其拉向一个目标，使每首曲目保持一致的响度。与 ReplayGain 不同，它无需在文件中包含响度标签，也不会改动音频——它对任何来源实时工作，包括云端流和网络电台。预设：轻度、标准、强烈和夜间。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="简单模式和高级模式有什么区别？" closed="true" %}}
+{{% ls-details title="简单模式和高级模式有什么区别？" closed="true" %}}
 简单模式显示一列带通俗说明的预设，让你一键获得好声音。高级模式则增加参数滑块（例如混响的混合量，或压缩器的七个控件），用于精确的精细调节。用每个效果编辑器右上角的模式按钮在二者之间切换。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="为什么效果控件是灰色的？" closed="true" %}}
+{{% ls-details title="为什么效果控件是灰色的？" closed="true" %}}
 该效果处于关闭状态。在其编辑器右上角开启该效果的开关，即可激活控件。每种效果默认关闭。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="这些效果在流式播放和 CarPlay 下有效吗？" closed="true" %}}
+{{% ls-details title="这些效果在流式播放和 CarPlay 下有效吗？" closed="true" %}}
 有效。这些效果运行在播放引擎内部，因此它们适用于本地文件、云盘、媒体服务器和网络电台，并在 CarPlay 播放期间持续工作。
-{{% /details %}}
+{{% /ls-details %}}

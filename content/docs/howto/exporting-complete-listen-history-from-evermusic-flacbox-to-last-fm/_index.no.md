@@ -7,7 +7,7 @@ tags: ["evermusic", "flacbox", "nylige", "lastfm", "eksportere", "scrobbler"]
 readingTime: 5
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **Sammendrag:** Eksporter lyttehistorikken din fra Evermusic eller Flacbox som en CSV-fil, og last den deretter opp til Last.fm ved hjelp av det gratis verktøyet Last.fm-Scrubbler-WPF på Windows. Automatisk scrobbling er også tilgjengelig innebygd i begge appene.
@@ -134,22 +134,22 @@ Nå kan du åpne profilen din på [Last.fm](http://Last.fm)-siden og sjekke alle
 
 ## Ofte stilte spørsmål
 
-{{% details title="Kan jeg scrobble automatisk uten å eksportere CSV-filer?" closed="true" %}}
+{{% ls-details title="Kan jeg scrobble automatisk uten å eksportere CSV-filer?" closed="true" %}}
 Ja. Både Evermusic og Flacbox støtter nå automatisk Last.fm-scrobbling. Se veiledningen: [Hvordan scrobble til Last.fm](/docs/howto/how-to-scrobble-your-music-history-from-evermusic-or-flacbox-to-last-fm).
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Hva om CSV-filen min har spor eldre enn 14 dager?" closed="true" %}}
+{{% ls-details title="Hva om CSV-filen min har spor eldre enn 14 dager?" closed="true" %}}
 Bruk Importmodus i Last.fm-Scrubbler-WPF. Den beregner tidsstempler på nytt fra Finish Time, slik at du kan scrobble spor uavhengig av den opprinnelige datoen.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Jeg har ikke en Windows-datamaskin. Kan jeg fortsatt bruke Last.fm-Scrubbler?" closed="true" %}}
+{{% ls-details title="Jeg har ikke en Windows-datamaskin. Kan jeg fortsatt bruke Last.fm-Scrubbler?" closed="true" %}}
 Ja. Installer VirtualBox på din Mac og last ned det gratis Windows-utviklingsmiljøimaget fra Microsoft. Kjør Last.fm-Scrubbler-WPF inne i den virtuelle maskinen.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Hvorfor blir noen scrobbles ikke parset?" closed="true" %}}
+{{% ls-details title="Hvorfor blir noen scrobbles ikke parset?" closed="true" %}}
 Spor som mangler viktig metadata (som artistnavn) kan ikke parses. Dette er forventet og påvirker ikke andre spor i filen.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Er det en daglig scrobblegrense?" closed="true" %}}
+{{% ls-details title="Er det en daglig scrobblegrense?" closed="true" %}}
 Ja. Last.fm-Scrubbler-WPF tillater opptil 2 800 scrobbles per dag. Hvis du trenger å scrobble mer, fordel prosessen over flere dager.
-{{% /details %}}
+{{% /ls-details %}}

@@ -7,7 +7,7 @@ tags: ["muzyka", "audio", "odtwarzacz", "iphone", "odtwarzanie", "offline", "pob
 readingTime: 5
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **Podsumowanie:** Konwertuj filmy z YouTube na MP3 za pomocą konwertera w przeglądarce lub darmowej aplikacji ClipGrab. Następnie zaimportuj pliki audio do Evermusic na iPhone lub Mac do odtwarzania offline -- internet nie jest wymagany.
@@ -221,30 +221,30 @@ Jeśli nie jesteś pewien swoich opcji, rozważ poproszenie o więcej informacji
 
 P.S. Na YouTube dostępnych jest również kilka **samouczków wideo**:
 <br><br>
-{{< youtubecard id="TlVpbRvAiwA" title="Descargar Música Gratis Para IOS" >}}
+{{< ls-youtubecard id="TlVpbRvAiwA" title="Descargar Música Gratis Para IOS" >}}
 <br><br>
-{{< youtubecard id="jSDuNguZZNE" title="Evermusic: Free Offline Music Player for iOS (iPhone/iPod/iPad) | Music Files Organization" >}}
+{{< ls-youtubecard id="jSDuNguZZNE" title="Evermusic: Free Offline Music Player for iOS (iPhone/iPod/iPad) | Music Files Organization" >}}
 <br><br>
-{{< youtubecard id="-kY48ktbo2M" title="テクノロジー塾】おすすめiPhone 音楽アプリ「ever music」ストック型篇" >}}
+{{< ls-youtubecard id="-kY48ktbo2M" title="テクノロジー塾】おすすめiPhone 音楽アプリ「ever music」ストック型篇" >}}
 
 ## Najczęściej zadawane pytania
 
-{{% details title="Czy legalne jest pobieranie muzyki z YouTube?" closed="true" %}}
+{{% ls-details title="Czy legalne jest pobieranie muzyki z YouTube?" closed="true" %}}
 Zależy to od statusu praw autorskich treści. Treści bez tantiem i Creative Commons można zwykle pobierać do użytku osobistego. Muzyka chroniona prawem autorskim wymaga odpowiedniej licencji lub zgody.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Jakie formaty audio obsługuje Evermusic?" closed="true" %}}
+{{% ls-details title="Jakie formaty audio obsługuje Evermusic?" closed="true" %}}
 Evermusic obsługuje MP3, FLAC, AAC, WAV, OGG, AIFF i wiele innych formatów audio. Możesz odtwarzać praktycznie każdy pobrany plik audio.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Czy mogę używać Evermusic bez połączenia z internetem?" closed="true" %}}
+{{% ls-details title="Czy mogę używać Evermusic bez połączenia z internetem?" closed="true" %}}
 Tak. Po zaimportowaniu plików audio do Evermusic możesz je odtwarzać całkowicie offline -- połączenie internetowe nie jest wymagane.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Czy ClipGrab jest darmowy?" closed="true" %}}
+{{% ls-details title="Czy ClipGrab jest darmowy?" closed="true" %}}
 Tak. ClipGrab jest darmowy i dostępny na Mac i Windows. Używa biblioteki open-source youtube-dlp do pobierania.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Jak przenieść pobraną muzykę z Mac na iPhone?" closed="true" %}}
+{{% ls-details title="Jak przenieść pobraną muzykę z Mac na iPhone?" closed="true" %}}
 Możesz użyć AirDrop, iTunes File Sharing lub wbudowanej funkcji Wi-Fi Drive w Evermusic do przesyłania plików audio z Mac na iPhone.
-{{% /details %}}
+{{% /ls-details %}}

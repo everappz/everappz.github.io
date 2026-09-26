@@ -21,7 +21,7 @@ readingTime: 16
 La schermata Impostazioni è il centro di controllo di Flacbox. Da qui puoi passare a Premium, configurare il motore audio (codec di sistema o FFmpeg), gestire la tua libreria musicale, configurare il gestore file, personalizzare l'editor tag audio, abilitare i widget della Schermata Home e Apple CarPlay, eseguire il backup dei tuoi dati e accedere a guida e informazioni legali.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Schermata Principale Impostazioni Flacbox" image="/docs/guide/flacbox/img/settings-main.webp" >}}
+  {{< ls-card title="" subtitle="Schermata Principale Impostazioni Flacbox" image="/docs/guide/flacbox/img/settings-main.webp" >}}
 {{< /cards >}}
 
 ## Aggiorna a Premium
@@ -29,13 +29,13 @@ La schermata Impostazioni è il centro di controllo di Flacbox. Da qui puoi pass
 Aggiorna l'applicazione alla versione Premium per rimuovere tutti i limiti. La versione gratuita dell'applicazione offre un acquisto in-app una tantum a vita e due opzioni di abbonamento (1 mese e 1 anno) per rimuovere tutte le restrizioni e passare a Premium.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox Aggiorna a Premium" image="/docs/guide/flacbox/img/upgrade-to-premium.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox Aggiorna a Premium" image="/docs/guide/flacbox/img/upgrade-to-premium.webp" >}}
 {{< /cards >}}
 
 **La Condivisione in Famiglia** è abilitata per tutti gli acquisti e i piani, quindi puoi condividere la versione Premium con fino a cinque membri della tua famiglia senza costi aggiuntivi.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox Seleziona un Piano Premium" image="/docs/guide/flacbox/img/select-premium-plan.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox Seleziona un Piano Premium" image="/docs/guide/flacbox/img/select-premium-plan.webp" >}}
 {{< /cards >}}
 
 Puoi leggere di più sugli acquisti e sulla versione Premium qui: [Qual è la differenza tra Flacbox e Flacbox Premium](/docs/faq/flacbox/what-is-the-difference-between-flacbox-and-flacbox-premium/).

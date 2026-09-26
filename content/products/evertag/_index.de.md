@@ -15,14 +15,14 @@ screenshots:
   - "https://everappz.com/products/evertag/screenshots/2048x2732/3.png"
 ---
 
-{{% sr-only %}}
+{{% ls-sr-only %}}
 Evertag ist ein Musik-Tag-Editor für iPhone und Mac, entwickelt von Everappz, einem spanischen Softwareunternehmen. Evertag ermöglicht es Nutzern, über 120 Audio-Metadaten-Tags zu bearbeiten, darunter Titel, Künstler, Album, Albumkünstler, Genre, Jahr, Titelnummer, Disknummer, Komponist, BPM, Liedtexte, Kommentare und mehr. Die App unterstützt Stapel-Tag-Bearbeitung, sodass Nutzer Metadaten für mehrere Dateien gleichzeitig aktualisieren können. Evertag enthält einen automatischen Tag-Finder, der von der MusicBrainz-Datenbank unterstützt wird und Songs identifiziert und fehlende Metadaten ergänzt, sowie einen Albumcover-Finder, der nach Artworks sucht und diese auf Titel anwendet. Die App unterstützt über 30 Audioformate, darunter MP3, FLAC, OGG, OPUS, M4A, WAV, WMA, APE, AIFF, ALAC, MKA, MOD, XM, IT und S3M. Evertag kann auf Dateien von Cloud-Speicherdiensten zugreifen, darunter iCloud Drive, Google Drive, Dropbox und OneDrive, sowie von USB-Sticks und lokalen Netzwerkstandorten über SMB und WebDAV. Die App bietet außerdem einen integrierten Dateimanager, Wi-Fi-Dateiübertragung, Kodierungskorrektur für falsch angezeigte Tags in nicht-lateinischen Schriften und einen Liedtexteditor. Evertag ist als kostenloser Download im App Store erhältlich mit optionalen In-App-Käufen, darunter ein Monatsabo für $2.99, ein Jahresabo für $9.99 oder ein einmaliger Kauf mit lebenslangem Zugang für $29.99.
-{{% /sr-only %}}
+{{% /ls-sr-only %}}
 
 
-{{< force-dark >}}
+{{< ls-force-dark >}}
 
-{{< hextra/hero-container
+{{< ls-hero-container
   image="/products/evertag/heroimage/evertag_mac_600_345.png"
   imageWidth="600"
 >}}
@@ -30,37 +30,37 @@ Evertag ist ein Musik-Tag-Editor für iPhone und Mac, entwickelt von Everappz, e
 <div class="hx:w-full hx:text-center">
 
 <div class="hx:mt-4">
-{{< downloads-badge >}}
+{{< ls-downloads-badge >}}
 </div>
 
 <div class="hx:mt-6 hx:mb-6">
 <div class="hx:flex hx:gap-4 hx:items-center hx:justify-center">
-  {{< app-icon src="/images/app_icons/png/Evertag_Icon-App-1024x1024.png" alt="Evertag Icon" class="hero-headline-icon" size="80" >}}
-  {{< hextra/hero-headline >}}
+  {{< ls-app-icon src="/images/app_icons/png/Evertag_Icon-App-1024x1024.png" alt="Evertag Icon" class="hero-headline-icon" size="80" >}}
+  {{< ls-hero-headline >}}
   Evertag
-  {{< /hextra/hero-headline >}}
+  {{< /ls-hero-headline >}}
 </div>
 </div>
 
 <div class="hx:mb-6">
-{{< hextra/hero-centered-subtitle >}}
+{{< ls-hero-centered-subtitle >}}
 <strong>Halten Sie Ihre Musikbibliothek organisiert</strong>
-{{< /hextra/hero-centered-subtitle >}}
+{{< /ls-hero-centered-subtitle >}}
 </div>
 
 <div class="hx:mb-6">
-{{< hextra/hero-paragraph >}}
+{{< ls-hero-paragraph >}}
 • Albumcover hinzufügen oder aktualisieren  
 • Tags für viele Songs gleichzeitig stapelweise bearbeiten  
 • Defekte Kodierung reparieren und fehlende Tags automatisch ausfüllen  
-{{< /hextra/hero-paragraph >}}
+{{< /ls-hero-paragraph >}}
 </div>
 
-{{< app-store-badges products="evertag:ios, evertag:macos" >}}
+{{< ls-app-store-badges products="evertag:ios, evertag:macos" >}}
 
 </div>
 
-{{< /hextra/hero-container >}}
+{{< /ls-hero-container >}}
 
 <div class="hx:mt-6"></div>
 
@@ -68,63 +68,63 @@ Evertag ist ein Musik-Tag-Editor für iPhone und Mac, entwickelt von Everappz, e
 
 {{< hextra/feature-grid >}}
 
-  {{< hextra/feature-card
+  {{< ls-glass-feature-card
     title="Über 120 Tags bearbeiten"
     subtitle="Bearbeiten Sie schnell Musik-Tags wie Titel, Künstler, Album, Albumkünstler, BPM, Kommentar, Komponist, Disknummer, Genre, Liedtext, Bewertung, Tracknummer, Jahr und mehr."
     icon="pencil"
     style="background: radial-gradient(ellipse at 50% 80%, rgba(59,130,246,0.15), hsla(0,0%,100%,0));"
   >}}
 
-  {{< hextra/feature-card
+  {{< ls-glass-feature-card
     title="Stapel-Tag-Bearbeitung"
     subtitle="Aktualisieren Sie Metadaten für mehrere Dateien gleichzeitig. Sparen Sie Zeit und halten Sie Ihre Musikbibliothek mit wenigen Fingertipps gut organisiert."
     icon="database"
     style="background: radial-gradient(ellipse at 50% 80%, rgba(192,38,211,0.15), hsla(0,0%,100%,0));"
   >}}
 
-  {{< hextra/feature-card
+  {{< ls-glass-feature-card
     title="Albumcover finden"
     subtitle="Finden und fügen Sie automatisch fehlende Albumcover zu Ihren Songs hinzu. Machen Sie Ihre Musiksammlung visuell vollständig."
     icon="camera"
     style="background: radial-gradient(ellipse at 50% 80%, rgba(234,88,12,0.15), hsla(0,0%,100%,0));"
   >}}
 
-  {{< hextra/feature-card
+  {{< ls-glass-feature-card
     title="Funktioniert mit 30+ Formaten"
     subtitle="Unterstützt MP3, FLAC, OGG, OPUS, M4A, WAV, WMA, APE, AIFF, MOD, XM, IT und mehr."
     icon="music-note"
     style="background: radial-gradient(ellipse at 50% 80%, rgba(236,72,153,0.15), hsla(0,0%,100%,0));"
   >}}
 
-  {{< hextra/feature-card
+  {{< ls-glass-feature-card
     title="Automatischer Tag-Finder"
     subtitle="Erkennen Sie fehlende Songinformationen und füllen Sie diese automatisch mit der MusicBrainz-Datenbank aus. Wählen Sie, ob Sie Änderungen überprüfen oder sofort anwenden möchten."
     icon="search"
     style="background: radial-gradient(ellipse at 50% 80%, rgba(34,197,94,0.15), hsla(0,0%,100%,0));"
   >}}
 
-  {{< hextra/feature-card
+  {{< ls-glass-feature-card
     title="Kodierungsprobleme beheben"
     subtitle="Reparieren Sie defekte oder unlesbare Zeichen in Ihren Metadaten. Evertag hält Ihre Tags in jeder Sprache sauber und klar."
     icon="translate"
     style="background: radial-gradient(ellipse at 50% 80%, rgba(251,191,36,0.15), hsla(0,0%,100%,0));"
   >}}
 
-  {{< hextra/feature-card
+  {{< ls-glass-feature-card
     title="Cloud- und USB-Zugriff"
     subtitle="Bearbeiten Sie Musik direkt von iCloud Drive, Google Drive, Dropbox, OneDrive, USB-Sticks oder freigegebenen Ordnern — kein Kopieren erforderlich."
     icon="cloud"
     style="background: radial-gradient(ellipse at 50% 80%, rgba(6,182,212,0.15), hsla(0,0%,100%,0));"
   >}}
 
-  {{< hextra/feature-card
+  {{< ls-glass-feature-card
     title="Wi-Fi-Musikübertragung"
     subtitle="Laden Sie ganz einfach Musik von Ihrem Computer über eine WLAN-Verbindung auf Ihr iPhone oder iPad hoch. Keine Kabel erforderlich."
     icon="wifi"
     style="background: radial-gradient(ellipse at 50% 80%, rgba(245,158,11,0.15), hsla(0,0%,100%,0));"
   >}}
 
-  {{< hextra/feature-card
+  {{< ls-glass-feature-card
     title="Integrierter Dateimanager"
     subtitle="Organisieren Sie Ihre Musikdateien mit integrierten Tools. Umbenennen, Verschieben, Löschen, Favoriten markieren und Letzte Aktivitäten anzeigen — alles in einer App."
     icon="folder-open"
@@ -139,47 +139,47 @@ Evertag ist ein Musik-Tag-Editor für iPhone und Mac, entwickelt von Everappz, e
 <div class="hx:mt-6"></div>
 
 <div class="hx:w-full">
-{{< appstore-reviews apps="1450763230,1594027661" stars="5,4"  app="Evertag" >}}
+{{< ls-appstore-reviews apps="1450763230,1594027661" stars="5,4"  app="Evertag" >}}
 </div>
 
 <div class="hx:mt-6"></div>
 
-{{< hextra/section-headline >}}
+{{< ls-section-headline >}}
   Preispläne
-{{< /hextra/section-headline >}}
+{{< /ls-section-headline >}}
 
 <div class="hx:mt-6"></div>
 
 <div class="hx:w-full">
 
-{{< pricing-plans >}}
+{{< ls-pricing-plans >}}
 
 </div>
 
 <div class="hx:mt-6"></div>
 
 <div class="hx:w-full hx:mx-auto hx:flex hx:flex-col hx:items-center">
-  {{< hextra/info-paragraph border="true" >}}
+  {{< ls-info-paragraph border="true" >}}
    <strong>Familienfreigabe</strong>: Alle Käufe und Abonnements unterstützen die Familienfreigabe, sodass Sie den Premium-Zugang mit Ihrer Familie teilen können.<br><strong>Universeller Zugriff</strong>: Lebenslange und Abonnement-Pläne werden über die iCloud-Synchronisierung zwischen iOS- und Mac-Geräten geteilt.<br><strong>Preise</strong>: Die Preise werden in US-Dollar für die Vereinigten Staaten angezeigt. Der endgültige Preis kann je nach Region variieren.  
-  {{< /hextra/info-paragraph >}}
+  {{< /ls-info-paragraph >}}
 </div>
 
 <div class="hx:mt-6"></div>
 
 <div class="hx:w-full">
-{{< app-details heading="true" >}}
+{{< ls-app-details heading="true" >}}
 </div>
 
 <div class="hx:mt-6"></div>
 
-{{< hextra/section-headline >}}
+{{< ls-section-headline >}}
   Häufig gestellte Fragen
-{{< /hextra/section-headline >}}
+{{< /ls-section-headline >}}
 
 <div class="hx:mt-6"></div>
 
 <div class="hx:w-full">
-{{% details title="Was ist Evertag?" closed="true" %}}
+{{% ls-details title="Was ist Evertag?" closed="true" %}}
 Evertag ist ein leistungsstarker Musikmetadaten-Editor und Albumcover-Manager für iOS und macOS. Er gibt Ihnen die Werkzeuge, um Ihre Musiksammlung wie ein Profi zu organisieren, egal ob Ihre Dateien lokal oder in der Cloud gespeichert sind. Mit einer übersichtlichen Oberfläche und erweiterten Bearbeitungsfunktionen macht Evertag es einfach, fehlende Tags zu korrigieren, hochwertige Cover hinzuzufügen und sicherzustellen, dass Ihre Musikbibliothek großartig aussieht und konsistent bleibt.<br><br>
 
 Die App unterstützt eine breite Palette populärer Audioformate, darunter MP3, FLAC, WAV, M4A, WMA, OGG und viele mehr. Sie können gängige Tags wie Titel, Künstler, Album, Genre, Jahr, Tracknummer sowie erweiterte Felder wie BPM, Disknummer, Liedtexte, MusicBrainz-IDs und mehr bearbeiten. Sie können mit einer Datei gleichzeitig arbeiten oder in den Stapelmodus wechseln, um mehrere Tracks gleichzeitig zu bearbeiten — perfekt für die Organisation ganzer Alben oder Playlists.<br><br>
@@ -187,14 +187,14 @@ Die App unterstützt eine breite Palette populärer Audioformate, darunter MP3, 
 Eine der herausragenden Funktionen von Evertag ist die Möglichkeit, fehlende Albumcover direkt aus dem Internet abzurufen oder eigene manuell hinzuzufügen. Sie können auch den Texteditor verwenden, um unsynchronisierte Texte zu Ihren Songs hinzuzufügen und so die Wiedergabe in kompatiblen Playern zu verbessern. Die App unterstützt die Bearbeitung vor Ort, sodass Sie Audio-Tags ändern können, ohne Ihre Dateien kopieren oder verschieben zu müssen.<br><br>
 
 Ob Sie Musik auf Ihrem Gerät oder in der Cloud mit Dropbox, OneDrive, MEGA oder anderen Diensten verwalten — Evertag bietet nahtlosen Dateizugriff und Bearbeitung. Es ist die perfekte Lösung für Musiker, DJs und Sammler, die eine saubere, gut organisierte Musikbibliothek auf iPhone und iPad ohne Desktop-Computer pflegen möchten.<br><br>
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Ist Evertag kostenlos?" closed="true" %}}
+{{% ls-details title="Ist Evertag kostenlos?" closed="true" %}}
 Evertag ist eine kostenlose Anwendung mit einigen Einschränkungen, die Sie nach dem Upgrade auf die Premium-Version entfernen können. Die Anwendung bietet einen einmaligen lebenslangen In-App-Kauf und zwei Abonnementoptionen (1 Monat und 1 Jahr), um alle Einschränkungen zu entfernen, sodass Sie den besten und optimalen Preis für sich wählen können. Die Preise können je nach Land oder Gebiet variieren. Beachten Sie auch, dass die Familienfreigabe für alle Käufe und Pläne aktiviert ist, sodass Sie die Premium-Version mit Familienmitgliedern teilen können.<br><br>
 Lebenslange Käufe und Abonnements werden zwischen iOS und Mac über iCloud synchronisiert. Wenn Sie die Premium-Version auf Ihrem iOS-Gerät haben, stellen Sie sicher, dass die neueste Version installiert und iCloud aktiviert ist. Starten Sie die App unter iOS und warten Sie eine Minute, bis Ihre Kaufinformationen in iCloud hochgeladen werden.<br><br>
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Was ist der Unterschied zwischen Evertag Free und Evertag Premium?" closed="true" %}}
+{{% ls-details title="Was ist der Unterschied zwischen Evertag Free und Evertag Premium?" closed="true" %}}
 
 **Evertag Free**  <br>
 Evertag Free bietet Ihnen Zugang zu leistungsstarken Funktionen zur Bearbeitung von Musikmetadaten mit einigen funktionalen Einschränkungen. Es enthält Werbung und ermöglicht die grundlegende Nutzung des Tag-Editors, des Albumcover-Editors und der Stapelbearbeitung. Sie können Kodierungsprobleme beheben, 1 Cloud-Speicherkonto verbinden und bis zu 10 Favoritendateien markieren. Zusätzlich können Sie 20 automatische Tag-Suchen und 20 Albumcover-Abfragen pro Tag durchführen.<br><br>
@@ -213,9 +213,9 @@ Premium-Benutzer erhalten auch Zugriff auf vollständige Personalisierungseinste
 
 Jede Premium-Option umfasst den gleichen Funktionsumfang, sodass Sie den Plan wählen können, der Ihren Bedürfnissen und Ihrem Budget entspricht.<br><br>
 
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Ist Evertag sicher?" closed="true" %}}
+{{% ls-details title="Ist Evertag sicher?" closed="true" %}}
 Evertag verwendet ausschließlich offizielle SDKs und sichere Verbindungen zur Interaktion mit verbundenen Cloud-Diensten. Ihr Benutzername und Passwort sind für die Anwendung nicht zugänglich. Alle Anfragen der Anwendung an den Cloud-Dienst sind verschlüsselt.<br>
 Wenn Sie Benutzername und Passwort eingeben, zeigt Ihnen die Anwendung die offizielle Autorisierungsseite des Cloud-Dienstanbieters an, und der gesamte Autorisierungsprozess findet außerhalb der Anwendung statt. Der Cloud-Dienstanbieter sendet nach erfolgreicher Autorisierung einen Auth-Token an die Anwendung, der für API-Aufrufe verwendet wird.<br><br>
 
@@ -226,9 +226,9 @@ Um den Auth-Token abzulehnen, melden Sie sich in Ihrem Webbrowser bei Ihrem Kont
 
 Sie können auch die verbundenen Cloud-Konten in der Anwendung trennen, und der Auth-Token wird ebenfalls von Ihrem Gerät entfernt. Wenn Sie die Anwendung von Ihrem Gerät entfernen, werden alle heruntergeladenen Daten und Zugriffstoken ebenfalls entfernt.<br><br>
 
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Wie bearbeite ich Metadaten für Dateien in lokal heruntergeladener Musik auf dem iPhone?" closed="true" %}}
+{{% ls-details title="Wie bearbeite ich Metadaten für Dateien in lokal heruntergeladener Musik auf dem iPhone?" closed="true" %}}
 Nachdem Sie die Anwendung installiert haben, öffnen Sie den Bildschirm «Lokale Dateien» und scrollen Sie nach unten zum Abschnitt «Dateien auf diesem iPhone».<br>
 Wählen Sie dort «Dateien öffnen...», wenn Sie mehrere Audiodateien auswählen möchten, oder «Ordner öffnen...», wenn Sie einen Musikordner auswählen möchten.<br>
 Die App scannt den Ordnerinhalt, und alle gefundenen Audiodateien werden ausgewählt.<br>
@@ -242,9 +242,9 @@ So müssen Sie die Schritte nicht jedes Mal wiederholen, wenn Sie Tags für Date
 Scrollen Sie nach unten zum Abschnitt «Dateien auf diesem Gerät» und tippen Sie auf «Ordner verbinden».<br>
 Wählen Sie einen Ordner auf Ihrem Gerät aus und tippen Sie auf «Öffnen», um die Auswahl zu bestätigen.<br>
 Ihr Ordner wird dem Abschnitt «Dateien auf diesem iPhone» hinzugefügt und bietet schnellen Zugriff auf Ihre Audiodateien.<br><br>
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Wie füge ich Liedtexte zu Songs in Evertag hinzu?" closed="true" %}}
+{{% ls-details title="Wie füge ich Liedtexte zu Songs in Evertag hinzu?" closed="true" %}}
 Sie können eingebettete Liedtexte zu Ihren Tracks in der Evertag-App hinzufügen, indem Sie diese Schritte befolgen:<br><br>
 * Beginnen Sie mit der Bearbeitung einer Audiodatei, indem Sie darauf tippen.<br>
 * Tippen Sie auf «Erweiterte Tags anzeigen», um den Tag-Editor in den erweiterten Modus zu schalten.<br>
@@ -258,9 +258,9 @@ Sie können eingebettete Liedtexte zu Ihren Tracks in der Evertag-App hinzufüge
 Ausführlicheres Tutorial hier verfügbar:<br>
 [Wie man Liedtexte für Audiodateien auf iPhone oder MAC bearbeitet](/docs/howto/how-to-edit-lyrics-for-audio-files-on-iphone-mac/)<br><br>
 
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Wie übertrage ich Musik vom Computer zu Evertag?" closed="true" %}}
+{{% ls-details title="Wie übertrage ich Musik vom Computer zu Evertag?" closed="true" %}}
 Sie können Ihren Computer oder persönlichen NAS über SMB, WebDAV verbinden. Alternativ verwenden Sie die iTunes-Dateifreigabe zur Musikübertragung.<br><br>
 
 Um einen Computer über das **SMB**-Protokoll zu verbinden, tippen Sie auf «Mit Cloud-Speicher verbinden» → SMB.<br>
@@ -295,23 +295,23 @@ Kopieren Sie Dateien vom Computer in den freigegebenen Ordner auf dem Gerät.<br
 Detaillierte Anleitung hier verfügbar:<br>
 [Wie man lokale Dateien (iTunes-Dateien) auf meinem iPhone abspielt](/docs/howto/how-to-play-local-itunes-files-on-my-iphone)<br><br>
 
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Welche Audioformate unterstützt Evertag?" closed="true" %}}
+{{% ls-details title="Welche Audioformate unterstützt Evertag?" closed="true" %}}
 Hier ist die vollständige Liste der unterstützten Audioformate und ihrer entsprechenden Dateierweiterungen:<br><br>
 
 MP3, OGG, OGA, FLAC, MPC, WV, SPX, OPUS, TTA, M4A, M4R, M4B, M4P, MP4, 3G2, M4V, WMA, ASF, AIF, AIFF, AFC, AIFC, WAV, APE, MOD, MODULE, NTS, WOW, S3M, IT, XM.<br>
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Welche Audio-Tags unterstützt Evertag?" closed="true" %}}
+{{% ls-details title="Welche Audio-Tags unterstützt Evertag?" closed="true" %}}
 Hier ist die vollständige Liste der unterstützten Audio-Tags:<br><br>
 
 ASIN, AcoustID: Fingerprint, AcoustID: Identifier, Album, Album Artist, Album Artist Sort Order, Album Cover, Album Sort Order, Arranger, Artist, Artist Sort Order, Artists, Barcode, Beats Per Minute, Catalog Number, Comment, Compilation, Composer, Composer Sort Order, Conductor, Content Group, Copyright, Description, Director, Disk Number, Disk Subtitle, Disk Total, Encoded By, Encoder Settings, Encoding Time, Engineer, File Owner, File Type, Genre, Grouping, ISRC, Initial Key, Involved People, Language, Length, License, Lyricist, Lyrics Advisory Rating, Lyrics Unsynced, Media Type, Mix DJ, Mixer, Mood, Movement Name, Movement Number, Movement Total, MusicBrainz: Album Artist ID, MusicBrainz: Album ID, MusicBrainz: Album Release Country, MusicBrainz: Album Status, MusicBrainz: Album Type, MusicBrainz: Artist ID, MusicBrainz: Disc ID, MusicBrainz: Original Album ID, MusicBrainz: Original Artist ID, MusicBrainz: Release Group ID, MusicBrainz: Release Track ID, MusicBrainz: TRM ID, MusicBrainz: Track ID, MusicBrainz: Work ID, MusicIP: Fingerprint, MusicIP: PUID, Musician Credits, Narrator, Net Radio Owner, Net Radio Station, Original Album, Original Artist, Original File Name, Original Lyricist, Original Release Date, Original Release Year, Performer, Podcast, Podcast Category, Podcast Description, Podcast ID, Podcast Keywords, Podcast URL, Producer, Publisher, Rating, Record Label, Release Country, Release Status, Release Type, Remixed By, Replay Gain: Album Gain, Replay Gain: Album Peak, Replay Gain: Album Range, Replay Gain: Reference Loudness, Replay Gain: Track Gain, Replay Gain: Track Peak, Replay Gain: Track Range, Script, Show Movement, Show Name, Show Name Sort Order, Subtitle, Track Number, Track Title, Track Title Sort Order, Track Total, WWW, WWW: Artist, WWW: Audio File, WWW: Audio Source, WWW: Commercial Info, WWW: Copyright, WWW: Payment, WWW: Publisher, WWW: Radio Page, Website, Work Title, Writer, Year<br><br>
 
 [Mehr lesen](/docs/guide/evertag/evertag-tag-field-mappings/)
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Wie lade ich Dateien herunter?" closed="true" %}}
+{{% ls-details title="Wie lade ich Dateien herunter?" closed="true" %}}
 Bevor Sie Audiodateien herunterladen und Audio-Tags bearbeiten können, müssen Sie einen Cloud-Speicherdienst verbinden.<br>
 Öffnen Sie den Bildschirm «Verbindungen» und fügen Sie Ihren Cloud-Speicheranbieter hinzu.<br>
 Nach dem Hinzufügen können Sie mit dem Herunterladen von Dateien in die App beginnen.<br><br>
@@ -321,10 +321,10 @@ Um Dateien aus der Cloud herunterzuladen:<br>
 – Navigieren Sie zum gewünschten Ordner.<br>
 – Tippen Sie auf die Schaltfläche «Weitere Aktionen» («...») in der oberen rechten Ecke und wählen Sie den Menüpunkt «Auswählen».<br>
 – Wählen Sie die Dateien oder Ordner aus, die Sie herunterladen möchten, und tippen Sie auf die Aktion «Herunterladen».<br>
-{{% /details %}}
+{{% /ls-details %}}
 
 
-{{% details title="Welche Cloud-Dienste werden unterstützt?" closed="true" %}}
+{{% ls-details title="Welche Cloud-Dienste werden unterstützt?" closed="true" %}}
 Wenn Ihre Musikbibliothek in der Cloud gespeichert ist, können Sie die beliebtesten Cloud-Dienste direkt in der App verbinden:<br>
 Dropbox, OneDrive, Box, MEGA, Yandex.Disk, MediaFire, pCloud, HiDrive.<br><br>
 
@@ -332,9 +332,9 @@ Sie können Ihre Dateien mit dem integrierten Dateimanager durchsuchen und verwa
 
 Sie können auch Audiodateien bearbeiten, die lokal auf Ihrem Gerät gespeichert sind, mit der Funktion «Vor Ort öffnen». Sie müssen sie nicht aus anderen Apps kopieren — öffnen und bearbeiten Sie sie einfach direkt.<br><br>
 
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Wie aktualisiere ich die Metadaten einer Datei automatisch in einem Cloud-Dienst?" closed="true" %}}
+{{% ls-details title="Wie aktualisiere ich die Metadaten einer Datei automatisch in einem Cloud-Dienst?" closed="true" %}}
 Wenn Sie mit der Bearbeitung der Metadaten fertig sind, tippen Sie auf die Schaltfläche «Speichern» in der oberen rechten Ecke, um die Änderungen auf die ausgewählten Dateien anzuwenden.<br><br>
 
 Wenn Sie eine in der Cloud gespeicherte Datei bearbeiten, bietet Ihnen die App mehrere Optionen zur Aktualisierung der Dateimetadaten. Diese Verhaltensweisen können in den Einstellungen angepasst werden:<br><br>
@@ -344,10 +344,10 @@ Wenn Sie eine in der Cloud gespeicherte Datei bearbeiten, bietet Ihnen die App m
 • **Dateimetadaten nicht aktualisieren** – Wenn aktiviert, überspringt die App die Aktualisierung der Cloud-Dateimetadaten nach der Bearbeitung.<br><br>
 
 Sie finden und ändern diese Optionen in den Evertag-Einstellungen im Abschnitt für Metadaten-Aktualisierungseinstellungen.
-{{% /details %}}
+{{% /ls-details %}}
 
 
-{{% details title="Wie füge ich ein neues Konto hinzu?" closed="true" %}}
+{{% ls-details title="Wie füge ich ein neues Konto hinzu?" closed="true" %}}
 Um einen Cloud-Dienst zu verbinden, öffnen Sie den Tab «Verbindungen» → wählen Sie den Menüpunkt «Mit Cloud-Speicher verbinden» → wählen Sie einen Cloud-Speicherdienst aus der Liste → geben Sie Ihre Anmeldedaten ein und tippen Sie auf «Fertig».<br><br>
 
 Wenn Sie Probleme haben, stellen Sie sicher, dass Ihre Internetverbindung aktiv ist, und überprüfen Sie Ihren Benutzernamen und Ihr Passwort erneut.<br><br>
@@ -355,9 +355,9 @@ Wenn Sie Probleme haben, stellen Sie sicher, dass Ihre Internetverbindung aktiv 
 Derzeit unterstützte Dienste umfassen: Dropbox, OneDrive, Box, MEGA, Yandex.Disk, Media Fire, PCloud und HiDrive.<br><br>
 
 In der Premium-Version der App können Sie eine unbegrenzte Anzahl von Cloud-Konten hinzufügen.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Wie verwalte ich meine Dateien im Netzwerkspeicher?" closed="true" %}}
+{{% ls-details title="Wie verwalte ich meine Dateien im Netzwerkspeicher?" closed="true" %}}
 Wenn Sie mehrere Dateien in Ihrem Cloud-Speicher bearbeiten müssen, aktivieren Sie den Auswahlmodus, indem Sie auf die Schaltfläche «...» in der oberen rechten Ecke tippen.<br><br>
 
 Nach der Aktivierung erscheinen Kontrollkästchen neben jeder Datei. Sie können dann Aktionen für einzelne Dateien durchführen oder mehrere Dateien für Massenaktionen auswählen.<br><br>
@@ -371,10 +371,10 @@ Verfügbare Aktionen für ausgewählte Dateien:<br>
 • <strong>Raster/Liste</strong> – Wechseln Sie zwischen Tabellenansicht und Miniaturansicht.<br><br>
 
 Wenn nicht genügend Platz vorhanden ist, um alle Optionen anzuzeigen, erscheint eine Schaltfläche «Weitere Aktionen». Tippen Sie darauf, um auf die vollständige Liste der verfügbaren Aktionen zuzugreifen.
-{{% /details %}}
+{{% /ls-details %}}
 
 
-{{% details title="Wie bearbeite ich mehrere Dateien als eine Datei?" closed="true" %}}
+{{% ls-details title="Wie bearbeite ich mehrere Dateien als eine Datei?" closed="true" %}}
 Im «Stapelmodus» können Sie mehrere Dateien gleichzeitig bearbeiten und gemeinsame Metadatenänderungen schnell und effizient anwenden.<br><br>
 
 So aktivieren Sie den Stapelmodus:<br>
@@ -382,38 +382,38 @@ So aktivieren Sie den Stapelmodus:<br>
 • Tippen Sie auf die Schaltfläche «Mehrere Dateien gleichzeitig bearbeiten».<br><br>
 
 Dieser Modus ist besonders nützlich, wenn Sie denselben Albumnamen, Künstler, Genre oder andere Metadatenfelder auf mehrere Audiodateien anwenden müssen.
-{{% /details %}}
+{{% /ls-details %}}
 
 </div>
 
 <div class="hx:mt-6"></div>
 
-{{< hextra/section-headline >}}
+{{< ls-section-headline >}}
   Benutzerhandbuch
-{{< /hextra/section-headline >}}
+{{< /ls-section-headline >}}
 
 <div class="hx:mt-6"></div>
 
 <div class="hx:w-full">
 
 <div class="hx:w-full hx:mx-auto hx:flex hx:flex-col hx:items-center hx:text-center">
-  {{< hextra/info-paragraph border="false" >}}
+  {{< ls-info-paragraph border="false" >}}
   In diesem Handbuch erfahren Sie, wie Sie die Leistung von Evertag auf Ihrem iPhone, iPad und Mac nutzen können, um Ihre Musikverwaltung nahtlos und angenehm zu gestalten.
-  {{< /hextra/info-paragraph >}}
+  {{< /ls-info-paragraph >}}
 </div>
 
 {{< cards >}}
-  {{< feature-card icon="location-marker" title="Navigation" subtitle="Erfahren Sie, wie Sie mühelos in unserer App navigieren können — über die Tab-Leiste (für iPhone-Benutzer) oder das linke Menü (für iPad- und Mac-Benutzer), um alle Funktionen der App zu erkunden." link="/docs/guide/evertag/evertag-guide-navigation" >}}
+  {{< ls-feature-card icon="location-marker" title="Navigation" subtitle="Erfahren Sie, wie Sie mühelos in unserer App navigieren können — über die Tab-Leiste (für iPhone-Benutzer) oder das linke Menü (für iPad- und Mac-Benutzer), um alle Funktionen der App zu erkunden." link="/docs/guide/evertag/evertag-guide-navigation" >}}
 
-  {{< feature-card icon="cloud" title="Verbindungen" subtitle="Verbinden Sie mühelos alle Ihre verfügbaren Cloud-Konten mit Ihren wertvollen Audiodateien. Sie können sogar Ihre Online-Dateien bequem mit unserem integrierten Dateimanager bearbeiten." link="/docs/guide/evertag/evertag-guide-connections" >}}
+  {{< ls-feature-card icon="cloud" title="Verbindungen" subtitle="Verbinden Sie mühelos alle Ihre verfügbaren Cloud-Konten mit Ihren wertvollen Audiodateien. Sie können sogar Ihre Online-Dateien bequem mit unserem integrierten Dateimanager bearbeiten." link="/docs/guide/evertag/evertag-guide-connections" >}}
 
-  {{< feature-card icon="folder" title="Lokale Dateien" subtitle="Anzeigen und Organisieren von Dateien im Documents-Ordner der App oder auf Ihrem Gerät. Verwenden Sie den integrierten Dateimanager, um Ihre Audiodateien mühelos zu bearbeiten und zu verwalten." link="/docs/guide/evertag/evertag-guide-local-files" >}}
+  {{< ls-feature-card icon="folder" title="Lokale Dateien" subtitle="Anzeigen und Organisieren von Dateien im Documents-Ordner der App oder auf Ihrem Gerät. Verwenden Sie den integrierten Dateimanager, um Ihre Audiodateien mühelos zu bearbeiten und zu verwalten." link="/docs/guide/evertag/evertag-guide-local-files" >}}
 
-  {{< feature-card icon="pencil-alt" title="Tag-Editor" subtitle="Meistern Sie die Kunst der Audiodatei-Metadaten-Bearbeitung. Erfahren Sie, wie Sie Metadaten bearbeiten, Albumcover ändern und mehrere Dateien gleichzeitig nahtlos verwalten." link="/docs/guide/evertag/evertag-guide-tag-editor" >}}
+  {{< ls-feature-card icon="pencil-alt" title="Tag-Editor" subtitle="Meistern Sie die Kunst der Audiodatei-Metadaten-Bearbeitung. Erfahren Sie, wie Sie Metadaten bearbeiten, Albumcover ändern und mehrere Dateien gleichzeitig nahtlos verwalten." link="/docs/guide/evertag/evertag-guide-tag-editor" >}}
 
-  {{< feature-card icon="code" title="Tag-Feld-Zuordnungen" subtitle="Erkunden Sie die vollständige Liste der von der Evertag-App unterstützten Audio-Tag-Felder, einschließlich interner Feldnamen und Zuordnungen über wichtige Metadatenformate hinweg." link="/docs/guide/evertag/evertag-tag-field-mappings" >}}
+  {{< ls-feature-card icon="code" title="Tag-Feld-Zuordnungen" subtitle="Erkunden Sie die vollständige Liste der von der Evertag-App unterstützten Audio-Tag-Felder, einschließlich interner Feldnamen und Zuordnungen über wichtige Metadatenformate hinweg." link="/docs/guide/evertag/evertag-tag-field-mappings" >}}
 
-  {{< feature-card icon="adjustments" title="Einstellungen" subtitle="Entdecken Sie, wie Sie Ihr App-Erlebnis anpassen, die Leistung optimieren, die Datennutzung verwalten und Sprach- sowie Benutzeroberflächeneinstellungen nach Ihren Wünschen anpassen." link="/docs/guide/evertag/evertag-guide-settings" >}}
+  {{< ls-feature-card icon="adjustments" title="Einstellungen" subtitle="Entdecken Sie, wie Sie Ihr App-Erlebnis anpassen, die Leistung optimieren, die Datennutzung verwalten und Sprach- sowie Benutzeroberflächeneinstellungen nach Ihren Wünschen anpassen." link="/docs/guide/evertag/evertag-guide-settings" >}}
 
 {{< /cards >}}
 

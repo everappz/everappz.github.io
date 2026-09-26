@@ -12,7 +12,7 @@ authors:
     image: "/images/about/artem-meleshko-founder-everappz.webp"
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 **Περίληψη:** Εγκαταστήστε το [Flacbox από το App Store](https://apps.apple.com/us/app/flacbox-flac-player-music/id1097564256?mt=8) για αναπαραγωγή FLAC, DSD, ALAC και 120+ μορφών ήχου σε iPhone και Mac. Εισαγωγή αρχείων μέσω iTunes File Sharing, Wi-Fi Drive ή αποθήκευσης cloud. Χωρίς μετατροπή αρχείων.
 
@@ -52,26 +52,26 @@ authors:
 
 ## Συχνές ερωτήσεις
 
-{{< details title="Απαιτεί το Flacbox συνδρομή για αναπαραγωγή χωρίς απώλειες;" closed="true" >}}
+{{< ls-details title="Απαιτεί το Flacbox συνδρομή για αναπαραγωγή χωρίς απώλειες;" closed="true" >}}
 Το Flacbox προσφέρει βασική αναπαραγωγή χωρίς συνδρομή. Μπορείτε να εισάγετε και να αναπαράγετε FLAC, DSD, ALAC αμέσως.
-{{< /details >}}
+{{< /ls-details >}}
 
-{{< details title="Μπορεί το Flacbox να αναπαράγει DSD χωρίς μετατροπή σε PCM;" closed="true" >}}
+{{< ls-details title="Μπορεί το Flacbox να αναπαράγει DSD χωρίς μετατροπή σε PCM;" closed="true" >}}
 Ναι, υποστηρίζει εγγενή αναπαραγωγή DSD64, DSD128 και DSD256.
-{{< /details >}}
+{{< /ls-details >}}
 
-{{< details title="Πώς μεταφέρω μεγάλες συλλογές στο iPhone;" closed="true" >}}
+{{< ls-details title="Πώς μεταφέρω μεγάλες συλλογές στο iPhone;" closed="true" >}}
 Wi-Fi Drive, iTunes File Sharing, cloud ή εξωτερικός δίσκος μέσω Lightning/USB-C.
-{{< /details >}}
+{{< /ls-details >}}
 
-{{< details title="Υπάρχει διαφορά ποιότητας μεταξύ FLAC και ALAC;" closed="true" >}}
+{{< ls-details title="Υπάρχει διαφορά ποιότητας μεταξύ FLAC και ALAC;" closed="true" >}}
 Και τα δύο είναι χωρίς απώλειες με ταυτόσημη έξοδο. Το Flacbox τα χειρίζεται με ίση πιστότητα.
-{{< /details >}}
+{{< /ls-details >}}
 
-{{< details title="Ποιος είναι ο καλύτερος τρόπος αναπαραγωγής FLAC σε iPhone;" closed="true" >}}
+{{< ls-details title="Ποιος είναι ο καλύτερος τρόπος αναπαραγωγής FLAC σε iPhone;" closed="true" >}}
 Εγκαταστήστε Flacbox και εισάγετε αρχεία. Εγγενής αποκωδικοποίηση έως 32-bit/384 kHz.
-{{< /details >}}
+{{< /ls-details >}}
 
-{{< details title="Λειτουργεί το Flacbox με NAS;" closed="true" >}}
+{{< ls-details title="Λειτουργεί το Flacbox με NAS;" closed="true" >}}
 Ναι, μέσω SMB, WebDAV και DLNA.
-{{< /details >}}
+{{< /ls-details >}}

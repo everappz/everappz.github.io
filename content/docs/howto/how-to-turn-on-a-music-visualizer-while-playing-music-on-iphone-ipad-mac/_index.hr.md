@@ -7,12 +7,12 @@ tags: ["Evermusic", "Flacbox", "Vizualizator", "Upute", "Milkdrop", "projectM", 
 readingTime: 9
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 **Kratki odgovor:** [Evermusic](/products/evermusic) i [Flacbox](/products/flacbox) oba imaju **glazbeni vizualizator** preko cijelog zaslona koji slika pokretne, šarene vizuale u ritmu vaše glazbe. Otvorite ga iz **Now Playing** reproduktora (**⋯ Više > Vizualizacija**) ili iz **Postavke > Vizualizacija**, zatim odaberite preset ili **Auto** i dodirnite **Pokreni vizualizaciju**. Na zaslonu vizualizatora, dodirnite jednom da prikažete ili sakrijete kontrole i koristite strelice **Prethodni** i **Sljedeći** za promjenu izgleda. Koristi dobro poznati **Milkdrop (projectM)** motor s **500 preseta**, prikazuje s **OpenGL** i radi na **iPhoneu, iPadu i Macu**. Koraci su isti u obje aplikacije. Potpuni koraci su u nastavku.
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Glazbeni vizualizator: preset Starfield Sectors" image="/docs/howto/how-to-turn-on-a-music-visualizer-while-playing-music-on-iphone-ipad-mac/music-visualizer-starfield-sectors-preset.webp" imageStyle="border-radius: clamp(14px, 2vw, 28px);" >}}
+{{< ls-card title="" subtitle="Glazbeni vizualizator: preset Starfield Sectors" image="/docs/howto/how-to-turn-on-a-music-visualizer-while-playing-music-on-iphone-ipad-mac/music-visualizer-starfield-sectors-preset.webp" imageStyle="border-radius: clamp(14px, 2vw, 28px);" >}}
 {{< /cards >}}
 
 ## Što je vizualizator?
@@ -85,50 +85,50 @@ U svakom slučaju, vizuali reagiraju na točan audio koji reproducirate, bilo da
 
 ## Česta pitanja
 
-{{% details title="Kako uključiti vizualizator u Evermusicu ili Flacboxu?" closed="true" %}}
+{{% ls-details title="Kako uključiti vizualizator u Evermusicu ili Flacboxu?" closed="true" %}}
 Otvorite Now Playing reproduktor, dodirnite gumb ⋯ (Više) i odaberite Vizualizacija. Također ga možete otvoriti iz Postavke > Vizualizacija. Zatim odaberite preset (ili Auto) i dodirnite Pokreni vizualizaciju. Koraci su isti u obje aplikacije.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Na čemu se temelji vizualizator?" closed="true" %}}
+{{% ls-details title="Na čemu se temelji vizualizator?" closed="true" %}}
 Koristi open-source projectM motor, koji reproducira presete u Milkdrop stilu. To su animirani, na glazbu reaktivni vizuali koje mnogi poznaju s desktop glazbenih reproduktora. Oba, Evermusic i Flacbox, uključuju 500 preseta i crtaju ih s OpenGL.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Koliko ima preseta vizualizatora?" closed="true" %}}
+{{% ls-details title="Koliko ima preseta vizualizatora?" closed="true" %}}
 500 preseta. Svaki je drugačija animirana scena, a možete se kretati kroz njih strelicama Sljedeći i Prethodni, ili pustiti Auto način rada da ih miješa za vas.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Reagira li vizualizator na glazbu?" closed="true" %}}
+{{% ls-details title="Reagira li vizualizator na glazbu?" closed="true" %}}
 Da. Vizuali reagiraju na audio koji reproducirate u stvarnom vremenu, tako da se oblici, boje i kretanje mijenjaju s ritmom i energijom pjesme. Radi s lokalnim datotekama, diskovima u oblaku, medijskim poslužiteljima i internetskim radijem.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Kako promijeniti preset vizualizatora?" closed="true" %}}
+{{% ls-details title="Kako promijeniti preset vizualizatora?" closed="true" %}}
 Dodirnite zaslon jednom da prikažete kontrole, zatim koristite strelice Prethodni i Sljedeći na dnu da se krećete između preseta. Naziv i brojač na vrhu (na primjer, 429 / 500) ažuriraju se kako ih mijenjate. Također možete započeti u Auto načinu rada da aplikacija automatski mijenja presete.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Što je Auto način rada?" closed="true" %}}
+{{% ls-details title="Što je Auto način rada?" closed="true" %}}
 Auto način rada, odabran iz birača preseta, sam miješa presete, prebacujući na novi svakih 30 sekundi s glatkim crossfadeom. To je najlakši način da uživate u predstavi bez diranja zaslona.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Kako sakriti kontrole na zaslonu?" closed="true" %}}
+{{% ls-details title="Kako sakriti kontrole na zaslonu?" closed="true" %}}
 Dodirnite zaslon jednom da sakrijete kontrole za čist prikaz preko cijelog zaslona, i dodirnite ponovno da ih vratite. Kontrole se također same sakrivaju nakon nekoliko sekundi.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Radi li vizualizator na Macu?" closed="true" %}}
+{{% ls-details title="Radi li vizualizator na Macu?" closed="true" %}}
 Da. Na Macu, oba, Evermusic i Flacbox, otvaraju vizualizator u vlastitom prozoru i crtaju ga s izvornim desktop OpenGL, tako da dobivate iste na glazbu reaktivne Milkdrop vizuale na velikom zaslonu.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Radi li vizualizator na iPhoneu i iPadu?" closed="true" %}}
+{{% ls-details title="Radi li vizualizator na iPhoneu i iPadu?" closed="true" %}}
 Da. Na iPhoneu i iPadu radi preko cijelog zaslona, crtan s OpenGL ES za glatku animaciju na Retina zaslonima.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Hoće li se moj zaslon zatamniti ili zaključati dok vizualizator radi?" closed="true" %}}
+{{% ls-details title="Hoće li se moj zaslon zatamniti ili zaključati dok vizualizator radi?" closed="true" %}}
 Ne. Aplikacija drži zaslon budnim dok je vizualizator uključen, tako da predstava neće biti prekinuta zatamnjivanjem ili zaključavanjem zaslona.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Pamti li aplikacija moj odabrani preset?" closed="true" %}}
+{{% ls-details title="Pamti li aplikacija moj odabrani preset?" closed="true" %}}
 Da. Zadnji preset koji ste odabrali sprema se i ističe u biraču preseta, tako da se lako vratite svom favoritu.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Gdje se prikazuje naziv trenutnog preseta?" closed="true" %}}
+{{% ls-details title="Gdje se prikazuje naziv trenutnog preseta?" closed="true" %}}
 Na vrhu u sredini zaslona vizualizatora, uz brojač poput 429 / 500 koji pokazuje na kojem ste presetu od cijelog skupa. Na primjeru snimke zaslona, preset je Starfield Sectors.
-{{% /details %}}
+{{% /ls-details %}}

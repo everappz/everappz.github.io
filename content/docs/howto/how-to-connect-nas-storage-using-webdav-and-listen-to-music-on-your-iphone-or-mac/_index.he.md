@@ -7,7 +7,7 @@ tags: ["מוזיקה", "הזרמה", "אחסון", "nas", "חיבור", "webdav"
 readingTime: 2
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **בקצרה:** התקינו והפעילו WebDAV ב-Synology NAS, הגדירו הרשאות תיקייה משותפת, ואז התחברו מ-Evermusic או Flacbox באמצעות כתובת ה-IP של ה-NAS ופורט WebDAV (ברירת מחדל 5005/5006). תוכלו להזרים ולנהל את כל ספריית המוזיקה שלכם מבלי להעתיק קבצים למכשיר.
@@ -87,22 +87,22 @@ readingTime: 2
 
 ## שאלות נפוצות
 
-{{% details title="אילו מכשירי NAS תומכים ב-WebDAV?" closed="true" %}}
+{{% ls-details title="אילו מכשירי NAS תומכים ב-WebDAV?" closed="true" %}}
 רוב מותגי ה-NAS הפופולריים תומכים ב-WebDAV, כולל Synology, QNAP, TrueNAS ו-Western Digital. בדקו את התיעוד של יצרן ה-NAS שלכם להוראות הגדרת WebDAV.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="מה ההבדל בין WebDAV ל-SMB להזרמת מוזיקה מ-NAS?" closed="true" %}}
+{{% ls-details title="מה ההבדל בין WebDAV ל-SMB להזרמת מוזיקה מ-NAS?" closed="true" %}}
 WebDAV פועל דרך HTTP/HTTPS ומתאים יותר לגישה מרחוק דרך האינטרנט. SMB בדרך כלל מהיר יותר ברשתות מקומיות. Evermusic ו-Flacbox תומכים בשני הפרוטוקולים, אז בחרו בהתאם לצורך בגישה מקומית או מרחוק.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="האם אני צריך שם משתמש וסיסמה ל-WebDAV ב-Synology?" closed="true" %}}
+{{% ls-details title="האם אני צריך שם משתמש וסיסמה ל-WebDAV ב-Synology?" closed="true" %}}
 לא, אם תפעילו גישת WebDAV אנונימית ותגדירו הרשאות אורח בתיקייה המשותפת. לאבטחה טובה יותר, תוכלו להשתמש בפרטי ההתחברות של Synology במקום.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="האם אפשר להזרים FLAC ופורמטים באיכות גבוהה אחרים מ-NAS דרך WebDAV?" closed="true" %}}
+{{% ls-details title="האם אפשר להזרים FLAC ופורמטים באיכות גבוהה אחרים מ-NAS דרך WebDAV?" closed="true" %}}
 כן. גם Evermusic וגם Flacbox תומכים ב-FLAC, ALAC, WAV, DSD ופורמטים באיכות גבוהה אחרים בעת הזרמה מאחסון NAS דרך WebDAV.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="למה האפליקציה לא מוצאת את ה-NAS שלי במכשירים זמינים?" closed="true" %}}
+{{% ls-details title="למה האפליקציה לא מוצאת את ה-NAS שלי במכשירים זמינים?" closed="true" %}}
 ודאו שה-iPhone/Mac וה-NAS נמצאים באותה רשת Wi-Fi. אם הגילוי האוטומטי לא עובד, השתמשו באפשרות החיבור הידני והזינו את כתובת ה-IP של ה-NAS ופורט WebDAV ישירות.
-{{% /details %}}
+{{% /ls-details %}}

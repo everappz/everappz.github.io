@@ -7,7 +7,7 @@ tags: ["evermusic", "kết nối", "bluesound vault"]
 readingTime: 1
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **Tóm tắt:** Kết nối với bộ nhớ trong của Bluesound VAULT qua SMB sử dụng Evermusic, Flacbox hoặc Evertag. Tìm địa chỉ IP của VAULT trong ứng dụng BluOS, nhập nó làm kết nối SMB với quyền truy cập khách và bắt đầu phát hoặc quản lý các tệp nhạc của bạn.
@@ -58,18 +58,18 @@ Với các bước đơn giản này, bạn có thể dễ dàng truy cập ổ 
 
 ## Câu hỏi thường gặp
 
-{{% details title="Tôi có cần tên người dùng và mật khẩu để kết nối với Bluesound VAULT không?" closed="true" %}}
+{{% ls-details title="Tôi có cần tên người dùng và mật khẩu để kết nối với Bluesound VAULT không?" closed="true" %}}
 Không. Bluesound VAULT hỗ trợ truy cập khách (ẩn danh) qua SMB. Để trống các trường Đăng nhập và Mật khẩu khi cấu hình kết nối.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Tôi có thể chỉnh sửa thẻ nhạc trên Bluesound VAULT không?" closed="true" %}}
+{{% ls-details title="Tôi có thể chỉnh sửa thẻ nhạc trên Bluesound VAULT không?" closed="true" %}}
 Có. Sử dụng Evertag, bạn có thể chỉnh sửa thẻ siêu dữ liệu (tiêu đề, nghệ sĩ, album, v.v.) cho các tệp âm thanh được lưu trữ trực tiếp trên ổ cứng bên trong của VAULT.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Bluesound VAULT hỗ trợ những giao thức nào?" closed="true" %}}
+{{% ls-details title="Bluesound VAULT hỗ trợ những giao thức nào?" closed="true" %}}
 Bluesound VAULT cung cấp bộ nhớ trong của mình qua SMB (Server Message Block). Evermusic, Flacbox và Evertag đều hỗ trợ kết nối SMB, giúp việc kết nối trở nên đơn giản.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Tôi có thể phát nhạc trực tuyến từ VAULT mà không cần sao chép tệp vào iPhone không?" closed="true" %}}
+{{% ls-details title="Tôi có thể phát nhạc trực tuyến từ VAULT mà không cần sao chép tệp vào iPhone không?" closed="true" %}}
 Có. Sau khi kết nối qua SMB, bạn có thể phát trực tuyến các tệp âm thanh trực tiếp từ ổ đĩa bên trong của VAULT mà không cần sao chép chúng vào thiết bị của bạn.
-{{% /details %}}
+{{% /ls-details %}}

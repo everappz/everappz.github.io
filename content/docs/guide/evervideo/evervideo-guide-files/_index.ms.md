@@ -33,7 +33,7 @@ Tab Fail dibahagikan kepada bahagian jelas yang muncul dalam urutan ini pada skr
 Di sudut kanan atas skrin Fail terdapat butang Pemindahan (ikon anak panah berputar). Ketiknya untuk membuka Baris Gilir Pemindahan di mana anda memantau setiap muat turun dan muat naik merentasi semua sumber anda.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Fail Evervideo Merentasi Storan Disambungkan" image="/docs/guide/evervideo/img/evervideo-files-connected-storages.webp" >}}
+  {{< ls-card title="" subtitle="Fail Evervideo Merentasi Storan Disambungkan" image="/docs/guide/evervideo/img/evervideo-files-connected-storages.webp" >}}
 {{< /cards >}}
 
 ## Sambung ke Storan Awan
@@ -41,7 +41,7 @@ Di sudut kanan atas skrin Fail terdapat butang Pemindahan (ikon anak panah berpu
 Bahagian Storan Awan dalam tab Fail adalah tempat setiap akaun yang disambungkan, NAS, pelayan media, dan strim berada — bersebelahan, dalam satu senarai boleh tatal.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Bahagian Storan Awan Evervideo dalam Tab Fail" image="/docs/guide/evervideo/img/evervideo-connections.webp" >}}
+  {{< ls-card title="" subtitle="Bahagian Storan Awan Evervideo dalam Tab Fail" image="/docs/guide/evervideo/img/evervideo-connections.webp" >}}
 {{< /cards >}}
 
 - Buka tab **Fail**.
@@ -51,7 +51,7 @@ Bahagian Storan Awan dalam tab Fail adalah tempat setiap akaun yang disambungkan
 - Masukkan kelayakan anda pada halaman kebenaran rasmi yang disediakan oleh pembekal awan, kemudian ketik **Selesai**.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evervideo Sambung Perkhidmatan Storan Awan" image="/docs/guide/evervideo/img/evervideo-connect-cloud-storage.webp" >}}
+  {{< ls-card title="" subtitle="Evervideo Sambung Perkhidmatan Storan Awan" image="/docs/guide/evervideo/img/evervideo-connect-cloud-storage.webp" >}}
 {{< /cards >}}
 
 Jika anda menghadapi sebarang isu, semak sambungan internet dan log masuk / kata laluan anda. Dalam versi Premium aplikasi, anda boleh menambah bilangan perkhidmatan yang tidak terhad; versi percuma menyokong sehingga tiga.
@@ -161,7 +161,7 @@ Bahagian ini memaparkan setiap peranti pada rangkaian tempatan anda yang boleh a
 - Jika perlu, masukkan butiran log masuk anda untuk melengkapkan sambungan.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Peranti yang Tersedia Evervideo pada Rangkaian Tempatan" image="/docs/guide/evervideo/img/evervideo-available-devices.webp" >}}
+  {{< ls-card title="" subtitle="Peranti yang Tersedia Evervideo pada Rangkaian Tempatan" image="/docs/guide/evervideo/img/evervideo-available-devices.webp" >}}
 {{< /cards >}}
 
 ## Wi-Fi Drive
@@ -169,7 +169,7 @@ Bahagian ini memaparkan setiap peranti pada rangkaian tempatan anda yang boleh a
 Wi-Fi Drive membolehkan anda memindahkan fail secara wayarles dari komputer anda ke peranti iOS anda melalui mana-mana penyemak imbas desktop, Finder, atau File Explorer. Peranti dan komputer anda mesti berada pada rangkaian Wi-Fi yang sama.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evervideo Wi-Fi Drive" image="/docs/guide/evervideo/img/evervideo-wifi-drive.webp" >}}
+  {{< ls-card title="" subtitle="Evervideo Wi-Fi Drive" image="/docs/guide/evervideo/img/evervideo-wifi-drive.webp" >}}
 {{< /cards >}}
 
 ### Aktifkan Wi-Fi Drive
@@ -201,7 +201,7 @@ Pasang pemacu USB atau kad SD ke iPhone, iPad, atau Mac anda melalui penyesuai L
 Ketik mana-mana perkhidmatan awan yang disambungkan untuk membuka penyemak fail. Folder menunjukkan lakaran kecil video apabila tersedia, dan mengetik video memulakan main balik dengan segera sambil terus menstrim fail selebihnya dalam latar belakang.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evervideo Melayari Folder dalam Storan yang Disambungkan" image="/docs/guide/evervideo/img/evervideo-all-connected-device-folders.webp" >}}
+  {{< ls-card title="" subtitle="Evervideo Melayari Folder dalam Storan yang Disambungkan" image="/docs/guide/evervideo/img/evervideo-all-connected-device-folders.webp" >}}
 {{< /cards >}}
 
 ## Akses Pantas
@@ -209,7 +209,7 @@ Ketik mana-mana perkhidmatan awan yang disambungkan untuk membuka penyemak fail.
 Bahagian Akses Pantas duduk di bahagian atas tab Fail. Ia memberi anda akses pantas ke fail dan folder kegemaran dan terkini yang dibuka — dari perkhidmatan awan dan dari storan pada peranti. Setiap kali anda membuka fail atau folder dari awan, ia ditambahkan ke senarai Baru-baru ini Dibuka. Anda boleh menandakan folder yang bersarang dalam sebagai Kegemaran untuk mengaksesnya dengan cepat tanpa menggali melalui struktur direktori.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Pautan Dalam Talian dan Akses Pantas Evervideo" image="/docs/guide/evervideo/img/evervideo-connections-online-links.webp" >}}
+  {{< ls-card title="" subtitle="Pautan Dalam Talian dan Akses Pantas Evervideo" image="/docs/guide/evervideo/img/evervideo-connections-online-links.webp" >}}
 {{< /cards >}}
 
 ## Fail dalam Aplikasi Ini
@@ -217,7 +217,7 @@ Bahagian Akses Pantas duduk di bahagian atas tab Fail. Ia memberi anda akses pan
 Bahagian ini menunjukkan fail dan folder yang disimpan dalam direktori Dokumen berpasir Evervideo — semua yang anda telah muat turun dari awan, dipindahkan melalui Wi-Fi Drive, disalin melalui Perkongsian Fail Finder, atau diimport dari aplikasi lain.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Fail dalam Aplikasi Ini Evervideo" image="/docs/guide/evervideo/img/evervideo-files-in-this-application.webp" >}}
+  {{< ls-card title="" subtitle="Fail dalam Aplikasi Ini Evervideo" image="/docs/guide/evervideo/img/evervideo-files-in-this-application.webp" >}}
 {{< /cards >}}
 
 ### Folder Dokumen
@@ -225,7 +225,7 @@ Bahagian ini menunjukkan fail dan folder yang disimpan dalam direktori Dokumen b
 Folder Dokumen ialah akar segala-galanya dalam Fail dalam Aplikasi Ini. Anda boleh membuat subfolder, menamakan semula fail, mengalihkannya, dan mengumpulkannya mengikut cara anda suka.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Fail Tempatan Evervideo — Folder Dokumen" image="/docs/guide/evervideo/img/evervideo-local-files-documents.webp" >}}
+  {{< ls-card title="" subtitle="Fail Tempatan Evervideo — Folder Dokumen" image="/docs/guide/evervideo/img/evervideo-local-files-documents.webp" >}}
 {{< /cards >}}
 
 ## Fail pada iPhone / iPad / Mac Ini
@@ -238,7 +238,7 @@ Bahagian ini menunjukkan video yang terletak pada peranti anda tetapi dalam apli
 Anda juga boleh menggunakan Sambung Folder untuk mewujudkan pautan ke folder pada peranti anda dengan akses baca / tulis — sempurna untuk bekerja dengan folder pada iCloud Drive atau pemacu USB yang dipasang tanpa menyalin apa-apa.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Fail pada Peranti Ini Evervideo" image="/docs/guide/evervideo/img/evervideo-files-on-this-device.webp" >}}
+  {{< ls-card title="" subtitle="Fail pada Peranti Ini Evervideo" image="/docs/guide/evervideo/img/evervideo-files-on-this-device.webp" >}}
 {{< /cards >}}
 
 ## Folder Khas
@@ -276,7 +276,7 @@ Apabila anda membuka folder, ketik butang **"..."** di sudut kanan atas untuk ti
 Ketik **"..."** di sudut kanan atas dan pilih **Pilih** untuk memasuki mod pemilihan. Kotak semak muncul di sebelah setiap fail dan folder. Ketik untuk memilih satu atau beberapa item, kemudian lakukan tindakan kumpulan: Main Seterusnya, Main Kemudian, Tambah ke Perpustakaan Media, Tambah ke Senarai Main, Salin, Muat Naik, Alih, Namakankan Semula, atau Padam.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Mod Pemilihan dalam Pengurus Fail Evervideo" image="/docs/guide/evervideo/img/evervideo-selection-mode-in-files.webp" >}}
+  {{< ls-card title="" subtitle="Mod Pemilihan dalam Pengurus Fail Evervideo" image="/docs/guide/evervideo/img/evervideo-selection-mode-in-files.webp" >}}
 {{< /cards >}}
 
 Jika anda lebih suka melayan storan awan yang disambungkan sebagai baca sahaja (untuk mengelakkan pemadaman tidak sengaja), aktifkan Tetapan → Pengurus Fail → Edit Fail Dalam Talian → Mati untuk menyembunyikan semua operasi merosakkan dari UI.
@@ -318,13 +318,13 @@ Untuk setiap folder dalam storan awan anda, anda mempunyai banyak tindakan yang 
 Di sudut kanan atas tab Fail terdapat butang **Pemindahan** (ikon anak panah berputar). Ketiknya untuk membuka Baris Gilir Pemindahan — senarai setiap muat turun dan muat naik aktif merentasi semua sumber anda, dengan kemajuan masa nyata, kelajuan, dan ETA per fail.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Baris Gilir Pemindahan Fail Evervideo" image="/docs/guide/evervideo/img/evervideo-file-transfers.webp" >}}
+  {{< ls-card title="" subtitle="Baris Gilir Pemindahan Fail Evervideo" image="/docs/guide/evervideo/img/evervideo-file-transfers.webp" >}}
 {{< /cards >}}
 
 Anda boleh menjeda, menyambung semula, mencuba semula pemindahan yang gagal, menyusun semula item untuk mengutamakan muat turun tertentu, atau membatalkannya secara individu. Anda juga boleh melaraskan kelajuan baris gilir pemindahan (bilangan tugas selari maksimum), jenis rangkaian (Wi-Fi sahaja atau Wi-Fi + Selular), dan pemindahan latar belakang dalam Tetapan → Pengurus Fail.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Tindakan pada Baris Gilir Pemindahan Fail Evervideo" image="/docs/guide/evervideo/img/evervideo-file-transfers-actions.webp" >}}
+  {{< ls-card title="" subtitle="Tindakan pada Baris Gilir Pemindahan Fail Evervideo" image="/docs/guide/evervideo/img/evervideo-file-transfers-actions.webp" >}}
 {{< /cards >}}
 
 ## Mod Luar Talian dan Folder Luar Talian yang Diselaraskan

@@ -28,19 +28,19 @@ Panduan ini menjelaskan setiap bagian aplikasi langkah demi langkah. Pilih bagia
 
 
 {{< cards >}}
-  {{< card icon="play" title="Berbagi" subtitle="Ketuk Mulai, pilih apa yang ingin dibagikan, dan jalankan kelima server sekaligus. Pahami layar Berbagi dari awal hingga akhir." link="/docs/guide/everdisk/everdisk-guide-sharing" >}}
+  {{< ls-card icon="play" title="Berbagi" subtitle="Ketuk Mulai, pilih apa yang ingin dibagikan, dan jalankan kelima server sekaligus. Pahami layar Berbagi dari awal hingga akhir." link="/docs/guide/everdisk/everdisk-guide-sharing" >}}
 
-  {{< card icon="desktop-computer" title="Hubungkan Perangkat Anda" subtitle="Cara TV, Mac atau PC, peramban web, ponsel lain, atau kabel USB terhubung ke file yang Anda bagikan." link="/docs/guide/everdisk/everdisk-guide-connect" >}}
+  {{< ls-card icon="desktop-computer" title="Hubungkan Perangkat Anda" subtitle="Cara TV, Mac atau PC, peramban web, ponsel lain, atau kabel USB terhubung ke file yang Anda bagikan." link="/docs/guide/everdisk/everdisk-guide-connect" >}}
 
-  {{< card icon="server" title="Terhubung ke Server" subtitle="Akses server DLNA, WebDAV, FTP, SFTP, dan SMB serta drive NAS lain di jaringan Anda untuk menelusuri, streaming, dan mengunduh." link="/docs/guide/everdisk/everdisk-guide-devices" >}}
+  {{< ls-card icon="server" title="Terhubung ke Server" subtitle="Akses server DLNA, WebDAV, FTP, SFTP, dan SMB serta drive NAS lain di jaringan Anda untuk menelusuri, streaming, dan mengunduh." link="/docs/guide/everdisk/everdisk-guide-devices" >}}
 
-  {{< card icon="folder" title="File & Dokumen" subtitle="Menelusuri, membuat folder, mengganti nama, memindahkan, menyalin dan menghapus, mengompresi dan mengekstrak, menghubungkan folder eksternal, serta memindai ke PDF." link="/docs/guide/everdisk/everdisk-guide-files" >}}
+  {{< ls-card icon="folder" title="File & Dokumen" subtitle="Menelusuri, membuat folder, mengganti nama, memindahkan, menyalin dan menghapus, mengompresi dan mengekstrak, menghubungkan folder eksternal, serta memindai ke PDF." link="/docs/guide/everdisk/everdisk-guide-files" >}}
 
-  {{< card icon="music-note" title="Foto, Musik & Video" subtitle="Bagikan seluruh pustaka foto dan musik Anda, putar audio di mini player, dan tonton video layar penuh." link="/docs/guide/everdisk/everdisk-guide-media" >}}
+  {{< ls-card icon="music-note" title="Foto, Musik & Video" subtitle="Bagikan seluruh pustaka foto dan musik Anda, putar audio di mini player, dan tonton video layar penuh." link="/docs/guide/everdisk/everdisk-guide-media" >}}
 
-  {{< card icon="lock-closed" title="Akses & Privasi" subtitle="Lindungi berbagi dengan login dan kata sandi, izinkan atau blokir pengeditan, blokir perangkat, dan jaga semuanya tetap lokal." link="/docs/guide/everdisk/everdisk-guide-access" >}}
+  {{< ls-card icon="lock-closed" title="Akses & Privasi" subtitle="Lindungi berbagi dengan login dan kata sandi, izinkan atau blokir pengeditan, blokir perangkat, dan jaga semuanya tetap lokal." link="/docs/guide/everdisk/everdisk-guide-access" >}}
 
-  {{< card icon="adjustments" title="Pengaturan" subtitle="Setiap pengaturan dijelaskan: profil perangkat, koneksi, kualitas foto dan video, port, transfer, dan lainnya." link="/docs/guide/everdisk/everdisk-guide-settings" >}}
+  {{< ls-card icon="adjustments" title="Pengaturan" subtitle="Setiap pengaturan dijelaskan: profil perangkat, koneksi, kualitas foto dan video, port, transfer, dan lainnya." link="/docs/guide/everdisk/everdisk-guide-settings" >}}
 
-  {{< card icon="question-mark-circle" title="FAQ" subtitle="Jawaban cepat untuk pertanyaan paling umum dan skenario nyata sehari-hari." link="/docs/faq/everdisk" >}}
+  {{< ls-card icon="question-mark-circle" title="FAQ" subtitle="Jawaban cepat untuk pertanyaan paling umum dan skenario nyata sehari-hari." link="/docs/faq/everdisk" >}}
 {{< /cards >}}

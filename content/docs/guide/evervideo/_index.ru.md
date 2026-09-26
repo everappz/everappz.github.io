@@ -74,18 +74,18 @@ Evervideo использует официальные SDK и авторизац�
 
 {{< cards cols="2">}}
 
-{{< card icon="map" link="/docs/guide/evervideo/evervideo-guide-navigation" title="Навигация" subtitle="Панель вкладок на iPhone, боковое меню на iPad и Mac, компактный медиаплеер всегда на экране." >}}
+{{< ls-card icon="map" link="/docs/guide/evervideo/evervideo-guide-navigation" title="Навигация" subtitle="Панель вкладок на iPhone, боковое меню на iPad и Mac, компактный медиаплеер всегда на экране." >}}
 
-{{< card icon="folder" link="/docs/guide/evervideo/evervideo-guide-files" title="Файлы" subtitle="Единая вкладка для облака, NAS, RTSP-потоков, локальных файлов, USB-дисков и очереди передачи." >}}
+{{< ls-card icon="folder" link="/docs/guide/evervideo/evervideo-guide-files" title="Файлы" subtitle="Единая вкладка для облака, NAS, RTSP-потоков, локальных файлов, USB-дисков и очереди передачи." >}}
 
-{{< card icon="collection" link="/docs/guide/evervideo/evervideo-guide-video-library" title="Медиатека" subtitle="Просматривайте по Альбомам, Жанрам, Недавним, Избранному — а также по библиотеке «Фото» iOS и Apple Music." >}}
+{{< ls-card icon="collection" link="/docs/guide/evervideo/evervideo-guide-video-library" title="Медиатека" subtitle="Просматривайте по Альбомам, Жанрам, Недавним, Избранному — а также по библиотеке «Фото» iOS и Apple Music." >}}
 
-{{< card icon="music-note" link="/docs/guide/evervideo/evervideo-guide-playlists" title="Плейлисты" subtitle="Создавайте плейлисты из облака, локальных файлов, «Фото» или библиотеки «Музыка», импортируйте M3U / M3U8 / CUE." >}}
+{{< ls-card icon="music-note" link="/docs/guide/evervideo/evervideo-guide-playlists" title="Плейлисты" subtitle="Создавайте плейлисты из облака, локальных файлов, «Фото» или библиотеки «Музыка», импортируйте M3U / M3U8 / CUE." >}}
 
-{{< card icon="play" link="/docs/guide/evervideo/evervideo-guide-player" title="Медиаплеер" subtitle="Картинка в картинке, аудио- и видеодорожки, субтитры, аудио- и видеоэквалайзеры, AirPlay, Chromecast." >}}
+{{< ls-card icon="play" link="/docs/guide/evervideo/evervideo-guide-player" title="Медиаплеер" subtitle="Картинка в картинке, аудио- и видеодорожки, субтитры, аудио- и видеоэквалайзеры, AirPlay, Chromecast." >}}
 
-{{< card icon="adjustments" link="/docs/guide/evervideo/evervideo-guide-settings" title="Настройки" subtitle="Аудиодвижок, видеодекодер, субтитры, библиотека, менеджер файлов, виджеты, персонализация, язык, резервное копирование." >}}
+{{< ls-card icon="adjustments" link="/docs/guide/evervideo/evervideo-guide-settings" title="Настройки" subtitle="Аудиодвижок, видеодекодер, субтитры, библиотека, менеджер файлов, виджеты, персонализация, язык, резервное копирование." >}}
 
-{{< card icon="question-mark-circle" link="/docs/faq/evervideo" title="FAQ" subtitle="Найдите ответы на самые частые вопросы об Evervideo." >}}
+{{< ls-card icon="question-mark-circle" link="/docs/faq/evervideo" title="FAQ" subtitle="Найдите ответы на самые частые вопросы об Evervideo." >}}
 
 {{< /cards >}}

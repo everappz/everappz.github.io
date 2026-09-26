@@ -186,3 +186,5 @@ everdiskFeatAdvancedServerSettings: "Zaawansowane ustawienia serwera"
 everdiskFeatSMB3Encryption: "Szyfrowanie SMB3"
 everdiskFeatAutomaticSharing: "Automatyczne udostępnianie"
 everdiskFeatDevicePersonalization: "Personalizacja urządzenia"
+
+searchDocsPlaceholder: "Szukaj w dokumentacji, najczęstszych pytaniach i poradnikach…"

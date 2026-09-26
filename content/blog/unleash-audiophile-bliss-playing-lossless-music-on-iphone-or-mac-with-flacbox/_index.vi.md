@@ -12,7 +12,7 @@ authors:
     image: "/images/about/artem-meleshko-founder-everappz.webp"
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 **Tóm tắt:** Cài đặt [Flacbox từ App Store](https://apps.apple.com/us/app/flacbox-flac-player-music/id1097564256?mt=8) để phát FLAC, DSD, ALAC và hơn 120 định dạng âm thanh trên iPhone và Mac. Nhập tệp qua iTunes File Sharing, Wi-Fi Drive hoặc lưu trữ đám mây. Không cần chuyển đổi. Flacbox giải mã định dạng lossless gốc cho chất lượng phòng thu.
 
@@ -59,26 +59,26 @@ Nhập tệp bằng: **iTunes File Sharing**, **Wi-Fi Drive**, **lưu trữ đá
 
 ## Câu hỏi thường gặp
 
-{{< details title="Flacbox có cần đăng ký để phát tệp lossless không?" closed="true" >}}
+{{< ls-details title="Flacbox có cần đăng ký để phát tệp lossless không?" closed="true" >}}
 Flacbox cung cấp phát cơ bản mà không cần đăng ký. Bạn có thể nhập và phát FLAC, DSD, ALAC và các định dạng lossless khác ngay sau khi tải.
-{{< /details >}}
+{{< /ls-details >}}
 
-{{< details title="Flacbox có thể phát tệp DSD mà không cần chuyển đổi sang PCM không?" closed="true" >}}
+{{< ls-details title="Flacbox có thể phát tệp DSD mà không cần chuyển đổi sang PCM không?" closed="true" >}}
 Có, Flacbox hỗ trợ phát DSD gốc bao gồm DSD64, DSD128 và DSD256.
-{{< /details >}}
+{{< /ls-details >}}
 
-{{< details title="Làm cách nào để chuyển bộ sưu tập nhạc lossless lớn sang iPhone?" closed="true" >}}
+{{< ls-details title="Làm cách nào để chuyển bộ sưu tập nhạc lossless lớn sang iPhone?" closed="true" >}}
 Flacbox cung cấp nhiều tùy chọn: Wi-Fi Drive, iTunes File Sharing, dịch vụ đám mây hoặc ổ đĩa ngoài qua Lightning/USB-C.
-{{< /details >}}
+{{< /ls-details >}}
 
-{{< details title="Có sự khác biệt chất lượng giữa FLAC và ALAC trong Flacbox không?" closed="true" >}}
+{{< ls-details title="Có sự khác biệt chất lượng giữa FLAC và ALAC trong Flacbox không?" closed="true" >}}
 Cả hai đều là codec lossless với đầu ra âm thanh giống nhau. Flacbox xử lý cả hai với độ trung thực bằng nhau.
-{{< /details >}}
+{{< /ls-details >}}
 
-{{< details title="Cách tốt nhất để phát tệp FLAC trên iPhone là gì?" closed="true" >}}
+{{< ls-details title="Cách tốt nhất để phát tệp FLAC trên iPhone là gì?" closed="true" >}}
 Cài đặt Flacbox, nhập tệp qua iTunes File Sharing, Wi-Fi Drive, đám mây hoặc ổ đĩa ngoài. Flacbox giải mã FLAC gốc đến 32-bit/384 kHz.
-{{< /details >}}
+{{< /ls-details >}}
 
-{{< details title="Flacbox có hoạt động với NAS và máy chủ gia đình không?" closed="true" >}}
+{{< ls-details title="Flacbox có hoạt động với NAS và máy chủ gia đình không?" closed="true" >}}
 Có. Flacbox kết nối với NAS và máy chủ gia đình qua SMB, WebDAV và DLNA.
-{{< /details >}}
+{{< /ls-details >}}

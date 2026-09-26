@@ -4,7 +4,9 @@ title: 'Documentatie'
 ---
 
 
-{{< lottie src="/images/juicy-json/juicy-girl-and-boy-searching-for-the-right-files.json" width="90%" >}}
+{{< ls-lottie src="/images/juicy-json/juicy-girl-and-boy-searching-for-the-right-files.json" width="90%" >}}
+
+{{< ls-docs-search >}}
 
 Dit gedeelte bevat nuttige documentatie voor alle Everappz-apps — inclusief installatie-instructies, functie-overzichten en geavanceerde tips.
 
@@ -13,9 +15,9 @@ Als u nieuw bent of meer wilt leren, zijn onze handleidingen en veelgestelde vra
 ## Aan de slag
 
 {{< cards >}}
-  {{< card icon="book-open" link="/docs/guide" title="Gebruikershandleiding" >}}
-  {{< card icon="question-mark-circle" link="/docs/faq" title="Veelgestelde vragen" >}}
-  {{< card icon="light-bulb" link="/docs/howto" title="Instructies" >}}
+  {{< ls-card icon="book-open" link="/docs/guide" title="Gebruikershandleiding" >}}
+  {{< ls-card icon="question-mark-circle" link="/docs/faq" title="Veelgestelde vragen" >}}
+  {{< ls-card icon="light-bulb" link="/docs/howto" title="Instructies" >}}
 {{< /cards >}}
 
 - De **Gebruikershandleiding** helpt u onze apps te installeren, configureren en optimaal te benutten.
@@ -31,5 +33,5 @@ Als uw vraag niet in de documentatie wordt beantwoord, bezoek dan onze [Onderste
 Voor juridisch beleid, gegevensbeheersingspraktijken en gebruikersovereenkomsten met betrekking tot onze diensten, raadpleeg de juridische documenten hieronder:
 
 {{< cards >}}
-  {{< card icon="document-text" link="/legal" title="Juridisch centrum" >}}
+  {{< ls-card icon="document-text" link="/legal" title="Juridisch centrum" >}}
 {{< /cards >}}

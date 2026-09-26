@@ -7,7 +7,7 @@ tags: ["เพลง", "usb", "ภายนอก", "ixpand", "sandisk", "iphone
 readingTime: 3
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **สรุป:** Evermusic ให้คุณเล่นเพลงโดยตรงจาก SanDisk iXpand Flash Drive บน iPhone หรือ iPad เสียบไดรฟ์ เปิด Evermusic แล้วเริ่มฟัง -- ไม่จำเป็นต้องคัดลอกไฟล์ไปยังอุปกรณ์ของคุณ รองรับการจัดการไฟล์ เพลย์ลิสต์ อีควอไลเซอร์ และการสตรีม AirPlay
@@ -69,22 +69,22 @@ Evermusic ทำหน้าที่เป็นตัวจัดการไ�
 
 ## FAQ
 
-{{% details title="Evermusic รองรับ iXpand Flash Drive รุ่นใดบ้าง?" closed="true" %}}
+{{% ls-details title="Evermusic รองรับ iXpand Flash Drive รุ่นใดบ้าง?" closed="true" %}}
 Evermusic รองรับ SanDisk iXpand Flash Drive ที่ใช้โปรโตคอล V1, V2, V3, V6 และ V7 คุณสามารถตรวจสอบความเข้ากันได้ในการตั้งค่าของ iPhone ภายใต้ ทั่วไป > เกี่ยวกับ > iXpand Flash Drive
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="ฉันสามารถเล่นเพลงจากไดรฟ์ USB โดยไม่ต้องคัดลอกไฟล์ไปยัง iPhone ได้หรือไม่?" closed="true" %}}
+{{% ls-details title="ฉันสามารถเล่นเพลงจากไดรฟ์ USB โดยไม่ต้องคัดลอกไฟล์ไปยัง iPhone ได้หรือไม่?" closed="true" %}}
 ได้ Evermusic เล่นไฟล์เสียงโดยตรงจาก iXpand Flash Drive ไม่จำเป็นต้องคัดลอกอะไรไปยังที่เก็บข้อมูลภายในอุปกรณ์
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Evermusic รองรับรูปแบบเสียงใดบ้างจากไดรฟ์ USB?" closed="true" %}}
+{{% ls-details title="Evermusic รองรับรูปแบบเสียงใดบ้างจากไดรฟ์ USB?" closed="true" %}}
 Evermusic รองรับรูปแบบเสียงหลักทั้งหมด รวมถึง MP3, FLAC, AAC, WAV, AIFF, OGG และอื่นๆ ไฟล์เสียงใดก็ตามที่เก็บไว้ในไดรฟ์ iXpand สามารถเล่นได้โดยตรง
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="ฉันสามารถสตรีมเพลงจากไดรฟ์ iXpand ไปยังลำโพง AirPlay ได้หรือไม่?" closed="true" %}}
+{{% ls-details title="ฉันสามารถสตรีมเพลงจากไดรฟ์ iXpand ไปยังลำโพง AirPlay ได้หรือไม่?" closed="true" %}}
 ได้ ขณะเล่นเพลงจากไดรฟ์ USB คุณสามารถสตรีมเสียงไปยังอุปกรณ์ที่เข้ากันได้กับ AirPlay เช่น ลำโพง Sonos, Apple TV และ Google Chromecast
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="ฉันควรทำอย่างไรหากไดรฟ์ iXpand ไม่ถูกรู้จัก?" closed="true" %}}
+{{% ls-details title="ฉันควรทำอย่างไรหากไดรฟ์ iXpand ไม่ถูกรู้จัก?" closed="true" %}}
 ตรวจสอบให้แน่ใจว่าไม่มีแอปอื่นใช้ไดรฟ์อยู่ ลองถอดออกแล้วเชื่อมต่อใหม่ หากรุ่นของคุณไม่รองรับ ให้ใช้อะแดปเตอร์ Apple Lightning to USB เพื่อเชื่อมต่อไดรฟ์เป็นอุปกรณ์ USB มาตรฐาน
-{{% /details %}}
+{{% /ls-details %}}

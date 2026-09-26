@@ -17,7 +17,7 @@ Yhteydet-näytöllä voit yhdistää jokaisen lähteen, joka sisältää musiikk
 Näyttö on jaettu selkeästi merkittyihin osioihin: Pikakäyttö yläosassa (suosikkipilvikansiosi), Pilvipalvelu (lisäämäsi tilit), Paikallinen verkko (Bonjour-löydetyt laitteet), Tietokone (Wi-Fi Drive, iTunes File Sharing, SMB), Ulkoiset lisävarusteet (yhdistetyt USB-muistitikut) ja Muut palvelut (Last.fm ja vastaavat).
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evermusic Yhteydet-näyttö" image="/docs/guide/evermusic/evermusic-guide-connections/img/connect-main.webp" >}}
+  {{< ls-card title="" subtitle="Evermusic Yhteydet-näyttö" image="/docs/guide/evermusic/evermusic-guide-connections/img/connect-main.webp" >}}
 {{< /cards >}}
 
 ## Yhdistä pilvipalveluun
@@ -29,7 +29,7 @@ Näyttö on jaettu selkeästi merkittyihin osioihin: Pikakäyttö yläosassa (su
 - Napauta Valmis.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Pilvipalveluntarjoajan valitsin" image="/docs/guide/evermusic/evermusic-guide-connections/img/connect-add-storage.webp" >}}
+  {{< ls-card title="" subtitle="Pilvipalveluntarjoajan valitsin" image="/docs/guide/evermusic/evermusic-guide-connections/img/connect-add-storage.webp" >}}
 {{< /cards >}}
 
 Jos kohtaat ongelmia, tarkista internet-yhteytesi ja kirjautumistietosi sekä varmista, että kaksivaiheinen todennus on määritetty oikein kyseiselle palvelulle.  
@@ -70,7 +70,7 @@ Voit myös irrottaa yhdistetyt pilvitilit sovelluksessa, jolloin auth-token pois
   - **Irrottaa**: jos haluat katkaista yhteyden sovelluksen ja pilvipalvelun väliltä kokonaan, valitse 'Irrottaa'. Huomaa, että tämän vaihtoehdon valitseminen poistaa kaikki tähän pilvipalveluun liittyvät kappaleet sovelluksen musiikkikirjastosta, mutta ne pysyvät palvelimella.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Yhdistetyn pilvipalvelun lisätoimintojen valikko" image="/docs/guide/evermusic/evermusic-guide-connections/img/connect-storage-more-actions.webp" >}}
+  {{< ls-card title="" subtitle="Yhdistetyn pilvipalvelun lisätoimintojen valikko" image="/docs/guide/evermusic/evermusic-guide-connections/img/connect-storage-more-actions.webp" >}}
 {{< /cards >}}
 
 ## Yhdistä tietokoneeseen tai NAS-laitteeseen
@@ -89,7 +89,7 @@ Jos yhteys onnistuu, näet yhdistetyn tallennustilan 'Pilvipalvelu'-osiossa.
 Täydellinen opas Mac- tai PC-yhteyden muodostamiseen SMB:n avulla on saatavilla [täältä](/docs/howto/stream-your-music-from-mac-or-pc-to-iphone-using-smb/).
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="SMB-yhteysasetukset" image="/docs/guide/evermusic/evermusic-guide-connections/img/connect-smb-settings.webp" >}}
+  {{< ls-card title="" subtitle="SMB-yhteysasetukset" image="/docs/guide/evermusic/evermusic-guide-connections/img/connect-smb-settings.webp" >}}
 {{< /cards >}}
 
 ## Yhdistä NAS-laitteeseen WebDAV:n avulla
@@ -99,7 +99,7 @@ URL:n tulee olla muodossa http://palvelimen-nimi tai https://palvelimen-nimi, jo
 Täydellinen opas NAS-laitteen yhdistämiseen WebDAV-protokollalla on saatavilla [täältä](/docs/howto/how-to-connect-nas-storage-using-webdav-and-listen-to-music-on-your-iphone-or-mac).
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="WebDAV-yhteysasetukset" image="/docs/guide/evermusic/evermusic-guide-connections/img/connect-webdav-settings.webp" >}}
+  {{< ls-card title="" subtitle="WebDAV-yhteysasetukset" image="/docs/guide/evermusic/evermusic-guide-connections/img/connect-webdav-settings.webp" >}}
 {{< /cards >}}
 
 ## Yhdistä tietokoneeseen tai NAS-laitteeseen DLNA:n avulla
@@ -107,7 +107,7 @@ Täydellinen opas NAS-laitteen yhdistämiseen WebDAV-protokollalla on saatavilla
 Voit myös jakaa Windows PC:lle tai henkilökohtaiselle NAS-laitteelle tallennetun musiikkikirjaston DLNA-protokollan avulla ja käyttää sitä sovelluksessa kuten kuvattu [täällä](/docs/howto/how-to-enable-dlna-media-server-on-windows-10-and-play-your-music-on-iphone). DLNA on suosittu ja laajalti käytetty protokolla, mutta se sallii vain musiikin toistamisen tai lataamisen. Et voi ladata tiedostoja tai luoda uusia kansioita palvelimella.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="DLNA-yhteysasetukset" image="/docs/guide/evermusic/evermusic-guide-connections/img/connect-dlna-settings.webp" >}}
+  {{< ls-card title="" subtitle="DLNA-yhteysasetukset" image="/docs/guide/evermusic/evermusic-guide-connections/img/connect-dlna-settings.webp" >}}
 {{< /cards >}}
 
 ## Saatavilla olevat laitteet
@@ -120,7 +120,7 @@ Luo yhteys laitteeseen seuraavasti:
 - Syötä tarvittaessa kirjautumistietosi yhteyden muodostamiseksi.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Saatavilla olevat laitteet lähiverkossa" image="/docs/guide/evermusic/evermusic-guide-connections/img/connect-available-devices.webp" >}}
+  {{< ls-card title="" subtitle="Saatavilla olevat laitteet lähiverkossa" image="/docs/guide/evermusic/evermusic-guide-connections/img/connect-available-devices.webp" >}}
 {{< /cards >}}
 
 ## Wi-Fi Drive
@@ -146,7 +146,7 @@ Kun selaimessa aukeaa iOS-laitettasi vastaava verkkosivu, voit helposti vetää 
 Vetämäsi ja pudottamasi tiedostot siirretään iOS-laitteellesi ja ne ovat käytettävissä sovelluksessa.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Wi-Fi Drive -palvelimen asetukset" image="/docs/guide/evermusic/evermusic-guide-connections/img/connect-wifidrive-settings.webp" >}}
+  {{< ls-card title="" subtitle="Wi-Fi Drive -palvelimen asetukset" image="/docs/guide/evermusic/evermusic-guide-connections/img/connect-wifidrive-settings.webp" >}}
 {{< /cards >}}
 
 Yksityiskohtaiset ohjeet tiedostojen langattomaan siirtämiseen WiFi-Driven avulla ovat saatavilla [täältä](/docs/howto/how-to-transfer-files-wirelessly-from-a-computer-to-an-iphone-using-wifi-drive).
@@ -162,7 +162,7 @@ iTunes File Sharing on toinen teknologia, jonka avulla voit siirtää tiedostoja
 Yksityiskohtaiset ohjeet iTunes File Sharingin käyttöön ovat saatavilla [täältä](/docs/howto/how-to-play-local-itunes-files-on-my-iphone/).
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="iTunes / Finder File Sharing Macilla" image="/docs/guide/evermusic/evermusic-guide-connections/img/connect-itunes-file-sharing.webp" >}}
+  {{< ls-card title="" subtitle="iTunes / Finder File Sharing Macilla" image="/docs/guide/evermusic/evermusic-guide-connections/img/connect-itunes-file-sharing.webp" >}}
 {{< /cards >}}
 
 ## Yhdistä USB-muistikortti
@@ -183,7 +183,7 @@ Navigointipalkin alla sijaitseva ylätyökalupalkki tarjoaa useita hyödyllisiä
 - **Toista satunnaisessa järjestyksessä**: Samanlainen kuin 'Toista kaikki', mutta sekoittaa tiedostot ennen niiden lisäämistä äänentoistimen jonoon.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Ylätyökalupalkki pilvisessä kansiossa" image="/docs/guide/evermusic/evermusic-guide-connections/img/connect-top-toolbar.webp" >}}
+  {{< ls-card title="" subtitle="Ylätyökalupalkki pilvisessä kansiossa" image="/docs/guide/evermusic/evermusic-guide-connections/img/connect-top-toolbar.webp" >}}
 {{< /cards >}}
 
 ## Kansioasetukset
@@ -200,7 +200,7 @@ Tässä on erittely näistä toiminnoista:
 - **Ruudukko/listakatselunäkymä**: Vaihda taulukkonäkymän ja pikkukuvanäkymän välillä.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Nykyisen kansion lisätoimintojen valikko" image="/docs/guide/evermusic/evermusic-guide-connections/img/connect-folder-options.webp" >}}
+  {{< ls-card title="" subtitle="Nykyisen kansion lisätoimintojen valikko" image="/docs/guide/evermusic/evermusic-guide-connections/img/connect-folder-options.webp" >}}
 {{< /cards >}}
 
 ## Muokkaa verkkotiedostoja
@@ -212,7 +212,7 @@ Kun sinun täytyy hallita useita tiedostoja pilvipalvelussa Evermusicillä, voit
 - **Suorita erilaisia toimintoja**: Kun olet valinnut hallittavat tiedostot tai kansiot, sinulla on pääsy useisiin toimintoihin.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Valintamoodi verkkotiedostoille" image="/docs/guide/evermusic/evermusic-guide-connections/img/connect-selection-mode.webp" >}}
+  {{< ls-card title="" subtitle="Valintamoodi verkkotiedostoille" image="/docs/guide/evermusic/evermusic-guide-connections/img/connect-selection-mode.webp" >}}
 {{< /cards >}}
 
 ## Tiedostotoiminnot
@@ -233,7 +233,7 @@ Napauta sitä paljastaaksesi käytettävissä olevien toimintojen listan:
 - **Poistaa**: Ole varovainen tämän toiminnon kanssa, sillä se poistaa tiedoston pysyvästi pilvipalvelustasi. Tätä poistoa ei voi kumota.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Yksittäisen tiedoston lisätoimintojen valikko" image="/docs/guide/evermusic/evermusic-guide-connections/img/connect-single-folder-more-options.webp" >}}
+  {{< ls-card title="" subtitle="Yksittäisen tiedoston lisätoimintojen valikko" image="/docs/guide/evermusic/evermusic-guide-connections/img/connect-single-folder-more-options.webp" >}}
 {{< /cards >}}
 
 Jos toimintojen lista ylittää käytettävissä olevan näyttötilan, vierittää alaspäin toimintovalikossa.

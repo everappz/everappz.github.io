@@ -7,7 +7,7 @@ tags: ["música", "àudio", "reproductor", "fora de línia", "mode", "descarrega
 keywords: ["música fora de línia iPhone", "sincronització música al núvol", "Evermusic fora de línia", "Flacbox sincronitzar música", "reproduir música sense internet", "descarregar àudio del núvol", "reproducció de fitxers locals iOS"]
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **Resum:** Evermusic i Flacbox et permeten descarregar música de l'emmagatzematge al núvol (Google Drive, Dropbox, OneDrive i més) al teu iPhone o iPad per a la reproducció fora de línia. Pots utilitzar tres mètodes: descàrrega directa, mode fora de línia amb sincronització automàtica o memòria cau del reproductor d'àudio. Aquesta guia cobreix els tres enfocaments pas a pas.
@@ -140,26 +140,26 @@ Seguint aquests passos detallats, pots gestionar i reproduir sense problemes la 
 
 ## Preguntes freqüents
 
-{{% details title="Quins serveis al núvol suporten Evermusic i Flacbox?" closed="true" %}}
+{{% ls-details title="Quins serveis al núvol suporten Evermusic i Flacbox?" closed="true" %}}
 Ambdues aplicacions suporten Google Drive, Dropbox, OneDrive, Box, MEGA, Yandex.Disk i altres proveïdors principals d'emmagatzematge al núvol. Pots connectar múltiples serveis alhora.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Puc sincronitzar música automàticament de l'emmagatzematge al núvol al meu iPhone?" closed="true" %}}
+{{% ls-details title="Puc sincronitzar música automàticament de l'emmagatzematge al núvol al meu iPhone?" closed="true" %}}
 Sí. Activa el Mode fora de línia per a qualsevol carpeta, llista de reproducció, àlbum o artista. L'aplicació realitza una sincronització unidireccional del núvol al dispositiu amb un interval configurable (per defecte: un cop al dia).
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="El mode fora de línia utilitza molt d'emmagatzematge al meu dispositiu?" closed="true" %}}
+{{% ls-details title="El mode fora de línia utilitza molt d'emmagatzematge al meu dispositiu?" closed="true" %}}
 L'ús d'emmagatzematge depèn de la mida de la teva col·lecció de música i dels formats de fitxer. Pots controlar-ho triant carpetes específiques per sincronitzar, establint límits de mida de memòria cau i monitoritzant l'emmagatzematge a la configuració de l'aplicació.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Quins formats d'àudio es suporten per a la reproducció fora de línia?" closed="true" %}}
+{{% ls-details title="Quins formats d'àudio es suporten per a la reproducció fora de línia?" closed="true" %}}
 Evermusic i Flacbox suporten MP3, FLAC, AAC, ALAC, WAV, AIFF, OGG, WMA i molts altres formats. Flacbox està optimitzat per a formats sense pèrdua com FLAC i ALAC.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="La meva música fora de línia continuarà reproduint-se si tanco l'aplicació?" closed="true" %}}
+{{% ls-details title="La meva música fora de línia continuarà reproduint-se si tanco l'aplicació?" closed="true" %}}
 Sí. Els fitxers descarregats s'emmagatzemen localment al teu dispositiu i es reprodueixen a través del reproductor d'àudio de l'aplicació independentment de la connectivitat a internet. La reproducció en segon pla és totalment compatible.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Com puc alliberar espai ocupat per la música fora de línia?" closed="true" %}}
+{{% ls-details title="Com puc alliberar espai ocupat per la música fora de línia?" closed="true" %}}
 Desactiva el Mode fora de línia per a carpetes específiques a **Configuració** > Gestor de fitxers > **Carpetes offline sincronitzades**. Això elimina les còpies locals del teu dispositiu. També pots esborrar la memòria cau del reproductor d'àudio o eliminar manualment els fitxers descarregats.
-{{% /details %}}
+{{% /ls-details %}}

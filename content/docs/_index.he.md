@@ -4,7 +4,9 @@ title: 'תיעוד'
 ---
 
 
-{{< lottie src="/images/juicy-json/juicy-girl-and-boy-searching-for-the-right-files.json" width="90%" >}}
+{{< ls-lottie src="/images/juicy-json/juicy-girl-and-boy-searching-for-the-right-files.json" width="90%" >}}
+
+{{< ls-docs-search >}}
 
 סעיף זה כולל תיעוד שימושי לכל אפליקציות Everappz — כולל הוראות הגדרה, הסברים על תכונות וטיפים מתקדמים.
 
@@ -13,9 +15,9 @@ title: 'תיעוד'
 ## התחל
 
 {{< cards >}}
-  {{< card icon="book-open" link="/docs/guide" title="מדריך למשתמש" >}}
-  {{< card icon="question-mark-circle" link="/docs/faq" title="שאלות נפוצות" >}}
-  {{< card icon="light-bulb" link="/docs/howto" title="כיצד לעשות" >}}
+  {{< ls-card icon="book-open" link="/docs/guide" title="מדריך למשתמש" >}}
+  {{< ls-card icon="question-mark-circle" link="/docs/faq" title="שאלות נפוצות" >}}
+  {{< ls-card icon="light-bulb" link="/docs/howto" title="כיצד לעשות" >}}
 {{< /cards >}}
 
 - **מדריך למשתמש** עוזר לך להתקין, להגדיר ולהפיק את המירב מהאפליקציות שלנו.
@@ -31,5 +33,5 @@ title: 'תיעוד'
 לפוליסות משפטיות, נהלי טיפול בנתונים והסכמי משתמש הקשורים לשירותינו, עיין במסמכים המשפטיים למטה:
 
 {{< cards >}}
-  {{< card icon="document-text" link="/legal" title="מרכז משפטי" >}}
+  {{< ls-card icon="document-text" link="/legal" title="מרכז משפטי" >}}
 {{< /cards >}}

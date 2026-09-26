@@ -21,7 +21,7 @@ Na tym ekranie możesz uzyskać dostęp do ustawień aplikacji i uaktualnić ją
 - **Prawne i prywatność** — Warunki korzystania, Polityka prywatności, Informacje prawne, Analityka i zbieranie danych
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evertag Settings Screen" image="/docs/guide/evertag/img/settings.webp" >}}
+  {{< ls-card title="" subtitle="Evertag Settings Screen" image="/docs/guide/evertag/img/settings.webp" >}}
 {{< /cards >}}
 
 ## Uaktualnij do Premium
@@ -63,7 +63,7 @@ Aktywuje ekran ochrony hasłem, jeśli chcesz zabezpieczyć dane aplikacji.
 Menedżer plików obsługuje dostęp do połączonych kont chmury i oferuje operacje wsadowe do szybkiego zarządzania wieloma plikami.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evertag Settings File Manager Screen" image="/docs/guide/evertag/img/settings-file-manager.webp" >}}
+  {{< ls-card title="" subtitle="Evertag Settings File Manager Screen" image="/docs/guide/evertag/img/settings-file-manager.webp" >}}
 {{< /cards >}}
 
 ### Transfery plików
@@ -103,7 +103,7 @@ Wyczyść folder pamięci podręcznej aplikacji, aby odzyskać miejsce.
 W tej sekcji możesz skonfigurować wbudowany edytor tagów audio.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evertag Settings Tag Editor Screen" image="/docs/guide/evertag/img/settings-tag-editor.webp" >}}
+  {{< ls-card title="" subtitle="Evertag Settings Tag Editor Screen" image="/docs/guide/evertag/img/settings-tag-editor.webp" >}}
 {{< /cards >}}
 
 ### Skalowanie okładki albumu
@@ -136,7 +136,7 @@ W tej sekcji możesz aktywować funkcję WiFi Drive, która pozwala przesyłać 
 W tej sekcji możesz dostosować ustawienia interfejsu użytkownika do swoich preferencji.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evertag Settings Personalization Screen" image="/docs/guide/evertag/img/settings-personalization.webp" >}}
+  {{< ls-card title="" subtitle="Evertag Settings Personalization Screen" image="/docs/guide/evertag/img/settings-personalization.webp" >}}
 {{< /cards >}}
 
 ### Ikona aplikacji

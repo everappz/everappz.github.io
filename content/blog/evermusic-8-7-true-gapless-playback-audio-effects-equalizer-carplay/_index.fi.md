@@ -12,7 +12,7 @@ authors:
     image: "/images/about/artem-meleshko-founder-everappz.webp"
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 **Tiivistelmä:** [Evermusic 8.7](/products/evermusic) on äänenlaatuun keskittyvä julkaisu iPhonelle, iPadille ja Macille. Se tuo **aidon saumattoman toiston** (ei taukoja, napsahduksia tai naksahduksia kappaleiden välillä), täyden setin **studioääniefektejä** – kaiku, viive, särö, kompressori ja crossfeed – sekä **EBU R128 -äänenvoimakkuuden normalisoinnin**, joka pitää äänekkyyden tasaisena kappaleesta toiseen ilman ReplayGain-tunnisteita. **10-kaistainen taajuuskorjain** on uudistettu uusilla liukusäätimillä, nopeammalla esiasetusten vaihdolla, omilla esiasetuksilla, joita voit tuoda ja viedä, sekä paremmalla vaaka- ja iPad-asettelulla. Konepellin alla **uudelleenrakennettu AVAudioEngine-suoratoistomoottori** parantaa luotettavuutta ja muototukea, mukaan lukien **FLAC** ja **Ogg Vorbis**. **CarPlay** ja **Nyt soi** ovat nopeampia ja tarkempia lukitusnäytöllä, autossa ja kuulokkeiden kaukosäätimistä.
 
@@ -129,50 +129,50 @@ Jos pidät sovelluksesta, jätäthän arvion App Storeen – se auttaa aidosti. 
 
 ## Usein kysytyt kysymykset
 
-{{% details title="Mitä uutta Evermusic 8.7:ssä on?" closed="true" %}}
+{{% ls-details title="Mitä uutta Evermusic 8.7:ssä on?" closed="true" %}}
 Evermusic 8.7 lisää aidon saumattoman toiston, viisi studioääniefektiä (kaiku, viive, särö, kompressori ja crossfeed), EBU R128 -äänenvoimakkuuden normalisoinnin, uudistetun 10-kaistaisen taajuuskorjaimen omilla esiasetuksilla sekä tuonnilla ja viennillä, uudelleenrakennetun AVAudioEngine-suoratoistomoottorin parannetulla muototuella (mukaan lukien FLAC ja Ogg Vorbis), nopeamman ja tarkemman CarPlayn ja Nyt soi -näytön, Liquid Glass -muotoilun päivityksiä, päivitetyt aloitusnäytön widgetit sekä virhe- ja lokalisointikorjauksia.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Onko Evermusicissa aito saumaton toisto?" closed="true" %}}
+{{% ls-details title="Onko Evermusicissa aito saumaton toisto?" closed="true" %}}
 Kyllä. Evermusic 8.7:stä alkaen toisto on aidosti saumatonta: kappaleiden välissä ei ole taukoa, napsahdusta tai naksahdusta. Moottori esipuskuroi ja purkaa seuraavan kappaleen nykyisen soidessa ja luovuttaa vuoron ääninäytteiden välissä jatkuvassa rengaspuskurissa, joten siirtymä on kuulumaton. Se toimii paikallisten tiedostojen, pilvivirtojen ja mediapalvelinten kanssa, ja se on ihanteellinen live-albumeille, DJ-miksauksille ja konseptialbumeille.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Mitä ääniefektejä Evermusic 8.7 sisältää?" closed="true" %}}
+{{% ls-details title="Mitä ääniefektejä Evermusic 8.7 sisältää?" closed="true" %}}
 Viisi reaaliaikaista efektiä: **kaiku** (13 tilaesiasetusta, märkä/kuiva-sekoitus), **viive/kaiku** (10 esiasetusta viiveajalla, takaisinkytkennällä, alipäästöllä ja sekoituksella), **särö** (22 luonne-esiasetusta esivahvistuksella ja sekoituksella), **kompressori** (täysiverinen dynamiikkaprosessori kynnyksellä, suhteella, nousuajalla, vapautuksella, ekspansiolla ja kompensointivahvistuksella sekä 10 esiasetuksella) ja **crossfeed** (Bauer bs2b -kuulokecrossfeed taso- ja rajataajuussäätimillä sekä 6 esiasetuksella). Jokainen efekti tulee huolellisesti koostettujen esiasetusten kanssa, ja omat asetuksesi muistetaan istuntojen välillä.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Mikä crossfeed on ja miksi käyttäisin sitä?" closed="true" %}}
+{{% ls-details title="Mikä crossfeed on ja miksi käyttäisin sitä?" closed="true" %}}
 Crossfeed sekoittaa pienen, suodatetun määrän kumpaakin stereokanavaa toiseen, samalla tavalla kuin korvasi luonnostaan kuulevat oikeat kaiuttimet huoneessa. Kuulokkeissa tämä vähentää jyrkästi panoroitujen tallenteiden liioiteltua, "pään sisällä" -erottelua ja tekee pitkästä kuuntelusta mukavampaa. Evermusic käyttää tunnettua Bauer stereophonic-to-binaural (bs2b) -algoritmia ja sisältää esiasetuksia kuten Chu Moy ja Jan Meier. Se on erityisen tehokas vanhoissa 1960- ja 1970-lukujen stereomiksauksissa.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Miten äänenvoimakkuuden normalisointi toimii Evermusicissa?" closed="true" %}}
+{{% ls-details title="Miten äänenvoimakkuuden normalisointi toimii Evermusicissa?" closed="true" %}}
 Evermusic 8.7 mittaa kunkin kappaleen koetun äänekkyyden EBU R128 -standardilla (ITU-R BS.1770) reaaliajassa ja säätää tasoa hellävaraisesti kohti tasaista tavoitetta, jotta kappaleiden äänenvoimakkuus ei hyppää. Se ei vaadi ReplayGain-tunnisteita eikä muuta tiedostojasi. Käytettävissä on neljä esiasetusta – Kevyt (−20 LUFS), Vakio (−16 LUFS), Voimakas (−14 LUFS) ja Yö (−23 LUFS) – ja normalisointi nollautuu siististi, kun kelaat tai vaihdat kappaletta.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Onko Evermusicin äänenvoimakkuuden normalisointi sama asia kuin ReplayGain?" closed="true" %}}
+{{% ls-details title="Onko Evermusicin äänenvoimakkuuden normalisointi sama asia kuin ReplayGain?" closed="true" %}}
 Se saavuttaa saman tavoitteen – tasaisen äänekkyyden kappaleiden välillä – mutta toimii eri tavalla. ReplayGain nojaa tiedostojesi sisään tallennettuihin äänekkyystunnisteisiin. Evermusicin normalisoija mittaa äänekkyyden livenä EBU R128:lla, joten se toimii millä tahansa lähteellä, mukaan lukien pilvivirrat ja internetradio, silloinkin kun tiedostoissa ei ole lainkaan tunnisteita.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Kuinka monta kaistaa Evermusicin taajuuskorjaimessa on, ja voinko tehdä omia esiasetuksia?" closed="true" %}}
+{{% ls-details title="Kuinka monta kaistaa Evermusicin taajuuskorjaimessa on, ja voinko tehdä omia esiasetuksia?" closed="true" %}}
 Evermusicin taajuuskorjain on 10-kaistainen graafinen taajuuskorjain, joka kattaa 32 Hz – 16 kHz, kukin kaista säädettävissä −12 dB:stä +12 dB:hen 0,1 dB:n askelin ja esivahvistin −24 dB:stä +24 dB:hen. Se sisältää valmiit esiasetukset, antaa sinun luoda ja tallentaa omia esiasetuksia ja tukee esiasetusten tuontia ja vientiä .eqp-tiedostoina, jotta voit siirtää tai jakaa niitä laitteiden välillä.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Mikä muuttui Evermusic 8.7:n taajuuskorjaimessa?" closed="true" %}}
+{{% ls-details title="Mikä muuttui Evermusic 8.7:n taajuuskorjaimessa?" closed="true" %}}
 Taajuuskorjain uudistettiin uusilla, tarkemmilla liukusäätimillä, jotka omaksuvat iOS 26:n järjestelmäliukusäätimen ja Liquid Glassin ulkoasun, nopeammalla ja sulavammalla esiasetusten vaihdolla sekä paremmalla asettelulla vaakatilassa ja iPadilla (vaakasuora esiasetuspalkki pystytilassa ja pystysuora esiasetussarake vaakatilassa). Omia esiasetuksia ja .eqp-tuontia/vientiä tuetaan.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Tukeeko Evermusic 8.7 FLAC- ja Ogg Vorbis -muotoja?" closed="true" %}}
+{{% ls-details title="Tukeeko Evermusic 8.7 FLAC- ja Ogg Vorbis -muotoja?" closed="true" %}}
 Kyllä. Uudelleenrakennettu moottori toistaa FLAC- (Core Audion kautta) ja Ogg Vorbis -muotoja (libvorbisfile-kirjaston kautta), MP3:n, AAC:n, Apple Losslessin (ALAC), WAV:n, AIFF:n, AC-3:n, CAF:n ja muiden ohella, paikallisista tiedostoista, pilviasemilta ja mediapalvelimilta.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Mikä parani CarPlayssa ja lukitusnäytöllä?" closed="true" %}}
+{{% ls-details title="Mikä parani CarPlayssa ja lukitusnäytöllä?" closed="true" %}}
 CarPlayn albumikansikuvat latautuvat useita kertoja nopeammin pitkillä listoilla ja näkyvät nyt iOS 26:n kompakteissa listariveissä, jotka aiemmin eivät näyttäneet niitä lainkaan. Nyt soi -tieto lukitusnäytöllä ja CarPlayssa on tarkempi – otsikko, kulunut aika, kesto ja toisto/tauko-tila tallennetaan yhdessä, jotta ne eivät voi olla ristiriidassa, ja puskurointitilat raportoidaan oikein. Kaukosäätimet (toista, tauko, seuraava, edellinen, kelaus, satunnaistoisto, toisto, nopeus) reagoivat luotettavasti kuulokkeista ja autosta, ja CarPlayn lajittelu suurissa kirjastoissa on nopeampaa.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Toimivatko ääniefektit ja taajuuskorjain pilvisuoratoiston ja CarPlayn kanssa?" closed="true" %}}
+{{% ls-details title="Toimivatko ääniefektit ja taajuuskorjain pilvisuoratoiston ja CarPlayn kanssa?" closed="true" %}}
 Kyllä. Efektit, taajuuskorjain ja äänenvoimakkuuden normalisointi ajetaan natiivisti toistomoottorin sisällä, joten ne vaikuttavat kaikkeen, mitä Evermusic soittaa – paikallisiin tiedostoihin, pilviasemiin, mediapalvelimiin ja internetradioon – ja ne toimivat edelleen CarPlay-toiston aikana sekä, siellä missä tuettu, AirPlayn ja Chromecastin kautta.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Onko Evermusic 8.7 -päivitys ilmainen, ja mitä laitteita se tukee?" closed="true" %}}
+{{% ls-details title="Onko Evermusic 8.7 -päivitys ilmainen, ja mitä laitteita se tukee?" closed="true" %}}
 Kyllä. Evermusic on ilmainen lataus App Storesta, ja 8.7 on ilmainen päivitys olemassa oleville käyttäjille, valinnaisilla sovelluksensisäisillä päivityksillä edistyneisiin ominaisuuksiin. Se toimii iPhonella, iPadilla ja Macilla. CarPlay vaatii CarPlay-yhteensopivan ajoneuvon tai pääyksikön.
-{{% /details %}}
+{{% /ls-details %}}

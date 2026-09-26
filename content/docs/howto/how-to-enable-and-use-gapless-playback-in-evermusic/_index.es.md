@@ -7,7 +7,7 @@ tags: ["Evermusic", "Reproducción sin cortes", "Cómo hacerlo", "Audio", "Repro
 readingTime: 4
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 **En resumen:** Abre **Ajustes > Reproductor de audio > Reproducción sin cortes** y activa el interruptor (**ON**). A partir de ahí, las canciones se reproducen sin pausa, clic ni chasquido entre ellas. Evermusic almacena y decodifica por adelantado la siguiente pista mientras la actual sigue sonando y luego hace el relevo entre las muestras de audio sobre un búfer continuo, de modo que la transición es realmente fluida. Es una reproducción sin cortes real y precisa a nivel de muestra, no un fundido encadenado.
 
@@ -73,30 +73,30 @@ El resultado es que un álbum en directo, un set de DJ con encaje rítmico o un 
 
 ## Preguntas frecuentes
 
-{{% details title="¿Cómo activo la reproducción sin cortes en Evermusic?" closed="true" %}}
+{{% ls-details title="¿Cómo activo la reproducción sin cortes en Evermusic?" closed="true" %}}
 Abre Evermusic, ve a Ajustes > Reproductor de audio > Reproducción sin cortes y activa el interruptor (ON). Está desactivada de forma predeterminada. Una vez activada, se aplica a todo lo que reproduzcas y permanece activada hasta que la desactives.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="¿La reproducción sin cortes de Evermusic es real o solo un fundido encadenado?" closed="true" %}}
+{{% ls-details title="¿La reproducción sin cortes de Evermusic es real o solo un fundido encadenado?" closed="true" %}}
 Es una reproducción sin cortes real y precisa a nivel de muestra. Evermusic decodifica y almacena por adelantado la siguiente pista mientras suena la actual, y luego hace el relevo entre las muestras de audio sobre un búfer continuo, de modo que no se inserta ningún silencio, clic ni relleno y no se produce ningún hueco por reinicio del decodificador. El fundido encadenado es una función distinta y aparte que superpone y mezcla pistas; la reproducción sin cortes conserva el audio exactamente como se masterizó y solo elimina el hueco.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="¿Por qué sigo oyendo un hueco entre algunas pistas?" closed="true" %}}
+{{% ls-details title="¿Por qué sigo oyendo un hueco entre algunas pistas?" closed="true" %}}
 Asegúrate de que la reproducción sin cortes esté activada en Ajustes > Reproductor de audio > Reproducción sin cortes. Si aún queda un hueco, puede estar incorporado en la propia grabación (algunos archivos incluyen unos segundos de silencio real al principio o al final de una pista). La reproducción sin cortes elimina el hueco que el reproductor añadiría normalmente entre pistas; no puede eliminar un silencio que forma parte del archivo de audio.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="¿Funciona la reproducción sin cortes con FLAC y otros archivos sin pérdida?" closed="true" %}}
+{{% ls-details title="¿Funciona la reproducción sin cortes con FLAC y otros archivos sin pérdida?" closed="true" %}}
 Sí. La reproducción sin cortes funciona con FLAC, Apple Lossless (ALAC) y formatos con pérdida como MP3 y AAC, ya sea que los archivos estén almacenados localmente, en la nube o en un servidor multimedia.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="¿Puedo usar la reproducción sin cortes y el fundido encadenado al mismo tiempo?" closed="true" %}}
+{{% ls-details title="¿Puedo usar la reproducción sin cortes y el fundido encadenado al mismo tiempo?" closed="true" %}}
 No. Hacen cosas opuestas, así que activar la reproducción sin cortes desactiva automáticamente el fundido encadenado. Usa la reproducción sin cortes para álbumes en directo, sesiones de DJ y discos conceptuales donde el audio debe conservarse exactamente; usa el fundido encadenado si quieres que las canciones se fundan unas con otras.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="¿Funciona la reproducción sin cortes al transmitir desde la nube?" closed="true" %}}
+{{% ls-details title="¿Funciona la reproducción sin cortes al transmitir desde la nube?" closed="true" %}}
 Sí. Evermusic empieza a almacenar en búfer y a decodificar la siguiente pista con antelación, incluso para unidades en la nube y servidores multimedia, de modo que el relevo se mantiene fluido. En conexiones más lentas simplemente empieza a preparar la siguiente pista un poco antes.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="¿La reproducción sin cortes reduce la calidad del audio?" closed="true" %}}
+{{% ls-details title="¿La reproducción sin cortes reduce la calidad del audio?" closed="true" %}}
 No. La reproducción sin cortes no vuelve a codificar ni procesa tu audio. Solo cambia el modo en que se programan y almacenan las pistas para que no haya hueco entre ellas. Cada muestra se reproduce exactamente como está en el archivo.
-{{% /details %}}
+{{% /ls-details %}}

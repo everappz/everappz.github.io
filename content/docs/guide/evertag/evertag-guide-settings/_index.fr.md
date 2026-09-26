@@ -21,7 +21,7 @@ Sur cet écran, vous pouvez accéder aux paramètres de l'application et la mett
 - **Mentions légales et confidentialité** — Conditions, Politique de confidentialité, Mentions légales, Analyses et collecte de données
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Écran des paramètres Evertag" image="/docs/guide/evertag/img/settings.webp" >}}
+  {{< ls-card title="" subtitle="Écran des paramètres Evertag" image="/docs/guide/evertag/img/settings.webp" >}}
 {{< /cards >}}
 
 ## Passer à Premium
@@ -63,7 +63,7 @@ Active l'écran de protection par mot de passe si vous souhaitez protéger les d
 Le gestionnaire de fichiers prend en charge l'accès aux comptes de stockage cloud connectés et offre des opérations par lot pour une gestion rapide de plusieurs fichiers.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Écran du gestionnaire de fichiers des paramètres Evertag" image="/docs/guide/evertag/img/settings-file-manager.webp" >}}
+  {{< ls-card title="" subtitle="Écran du gestionnaire de fichiers des paramètres Evertag" image="/docs/guide/evertag/img/settings-file-manager.webp" >}}
 {{< /cards >}}
 
 ### Transferts de fichiers
@@ -103,7 +103,7 @@ Videz le dossier de cache de l'application pour récupérer de l'espace de stock
 Dans cette section, vous pouvez configurer l'éditeur de tags audio intégré.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Écran de l'éditeur de tags des paramètres Evertag" image="/docs/guide/evertag/img/settings-tag-editor.webp" >}}
+  {{< ls-card title="" subtitle="Écran de l'éditeur de tags des paramètres Evertag" image="/docs/guide/evertag/img/settings-tag-editor.webp" >}}
 {{< /cards >}}
 
 ### Mise à l'échelle des pochettes d'album
@@ -136,7 +136,7 @@ Dans cette section, vous pouvez activer la fonctionnalité WiFi Drive, qui vous 
 Dans cette section, vous pouvez personnaliser les paramètres de l'interface utilisateur selon vos préférences.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Écran de personnalisation des paramètres Evertag" image="/docs/guide/evertag/img/settings-personalization.webp" >}}
+  {{< ls-card title="" subtitle="Écran de personnalisation des paramètres Evertag" image="/docs/guide/evertag/img/settings-personalization.webp" >}}
 {{< /cards >}}
 
 ### Icône de l'application

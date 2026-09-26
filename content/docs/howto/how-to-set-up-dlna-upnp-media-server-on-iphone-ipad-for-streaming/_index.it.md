@@ -7,7 +7,7 @@ keywords: ["server DLNA iPhone", "server UPnP iPad", "come configurare DLNA su i
 readingTime: 9
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 DLNA (chiamato anche UPnP AV) è il motore silenzioso dietro la maggior parte delle smart TV. È un linguaggio condiviso che permette a una TV o a un lettore multimediale di trovare una libreria multimediale sulla stessa rete Wi-Fi e riprodurne i contenuti, senza dover installare nulla sulla TV. Se il tuo iPhone o iPad può fare da libreria, le tue foto, i video e la musica compaiono da soli sul grande schermo.
 
@@ -127,44 +127,44 @@ Il DLNA passa il file alla TV così com'è, e la TV deve essere in grado di deco
 
 ## Domande frequenti
 
-{{% details title="Qual è la differenza tra DLNA e UPnP?" closed="true" %}}
+{{% ls-details title="Qual è la differenza tra DLNA e UPnP?" closed="true" %}}
 Sono strettamente correlati. UPnP è lo standard di rete sottostante, e DLNA è il profilo multimediale costruito sopra di esso che TV e lettori usano per condividere e riprodurre foto, video e musica. Nell'uso quotidiano i termini sono intercambiabili. Quando attivi TV e centro multimediale in Everdisk, il tuo dispositivo diventa un media server DLNA/UPnP che qualsiasi client DLNA può sfogliare.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Devo installare qualcosa sulla mia TV?" closed="true" %}}
+{{% ls-details title="Devo installare qualcosa sulla mia TV?" closed="true" %}}
 No. Se la tua TV supporta il DLNA, ha già un lettore multimediale in grado di trovare il tuo dispositivo sul Wi-Fi. Devi installare Everdisk solo sull'iPhone o iPad che contiene i contenuti. Se la tua TV non supporta il DLNA, installa un lettore come VLC o Kodi su un dispositivo collegato ad essa.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Perché il mio iPhone non compare sulla TV?" closed="true" %}}
+{{% ls-details title="Perché il mio iPhone non compare sulla TV?" closed="true" %}}
 Controlla che entrambi i dispositivi siano sulla stessa rete Wi-Fi. Le reti ospiti e alcune reti aziendali o d'hotel impediscono ai dispositivi di vedersi tra loro, il che blocca il DLNA. Poi verifica che Everdisk sia aperto con la condivisione avviata, e che TV e centro multimediale sia attivo in Impostazioni, Condivisione, Connessioni. Se la TV ancora non riesce a trovarlo, aggiungi il server manualmente usando l'indirizzo di descrizione del dispositivo che termina in /device-desc.xml.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Lo streaming DLNA richiede una password?" closed="true" %}}
+{{% ls-details title="Lo streaming DLNA richiede una password?" closed="true" %}}
 No. Il DLNA è sempre aperto a chiunque sia sulla stessa rete Wi-Fi mentre è attivo, ed è per questo che non c'è alcun login dal lato TV. Va bene su una rete domestica di cui ti fidi. Su una rete di cui non ti fidi, disattiva TV e centro multimediale quando hai finito, oppure usa invece il server SMB con la cifratura.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Posso trasmettere a un Chromecast o Roku?" closed="true" %}}
+{{% ls-details title="Posso trasmettere a un Chromecast o Roku?" closed="true" %}}
 Chromecast e Roku non fanno da lettori DLNA per impostazione predefinita, quindi non troveranno direttamente il tuo dispositivo. La soluzione è installare un'app DLNA in grado di trasmettere, come VLC o BubbleUPnP su un telefono, e inviare la riproduzione al Chromecast o al Roku da lì. Sulla maggior parte delle altre smart TV, il DLNA funziona senza tutto questo.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Un video parte senza audio o non si apre. Cosa posso fare?" closed="true" %}}
+{{% ls-details title="Un video parte senza audio o non si apre. Cosa posso fare?" closed="true" %}}
 È un formato che la TV non riesce a decodificare. Apri Impostazioni, Condivisione, Video in Everdisk e abbassa la Qualità così l'app converte il video in un formato più compatibile mentre lo trasmette. Puoi anche aprire lo stesso file tramite il link del browser, che gestisce più formati.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Posso trasmettere musica, non solo video?" closed="true" %}}
+{{% ls-details title="Posso trasmettere musica, non solo video?" closed="true" %}}
 Sì. Attiva Consenti l'accesso a tutta la libreria Musica, oppure aggiungi brani specifici, poi avvia la condivisione. I tuoi brani compaiono su qualsiasi altoparlante DLNA, ricevitore AV o TV, con copertina e dettagli della traccia. La musica è sempre condivisa nella sua qualità originale.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="L'app deve restare aperta mentre guardo?" closed="true" %}}
+{{% ls-details title="L'app deve restare aperta mentre guardo?" closed="true" %}}
 Sì. Il tuo iPhone fa da server, e iOS mette in pausa le app spinte completamente in background per molto tempo. Tieni Everdisk sullo schermo mentre trasmetti, e collegalo all'alimentazione per le sessioni lunghe.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Come faccio streaming da un iPhone a un altro iPad?" closed="true" %}}
+{{% ls-details title="Come faccio streaming da un iPhone a un altro iPad?" closed="true" %}}
 Avvia la condivisione sull'iPhone, poi apri Everdisk sull'iPad e vai alla scheda Dispositivi. L'iPhone compare tra i Dispositivi disponibili come media server. Toccalo per sfogliare e riprodurre. Everdisk funziona sia come client DLNA che come server, quindi non ti serve un'altra app.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Everdisk è gratis?" closed="true" %}}
+{{% ls-details title="Everdisk è gratis?" closed="true" %}}
 Sì, Everdisk si scarica gratis e il media server DLNA è incluso. Un acquisto Premium Lifetime opzionale una tantum aggiunge extra come la conversione di foto e video per le TV più vecchie, porte personalizzate e altro. Puoi configurare e usare lo streaming DLNA senza pagare.
-{{% /details %}}
+{{% /ls-details %}}
 
 Pronto a provarlo? [Scarica Everdisk dall'App Store](https://apps.apple.com/app/apple-store/id6751851132?pt=95781850&ct=everappzcom&mt=8) e trasmetti il tuo primo album alla TV in un paio di minuti. Domande o feedback? Scrivici a **support@everappz.com**.

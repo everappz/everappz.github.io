@@ -15,7 +15,7 @@ readingTime: 5
 Der **Tag-Editor** ist der Hauptbildschirm der Evertag-App, auf dem Sie Audio-Datei-Metadaten anzeigen und bearbeiten können. Öffnen Sie diesen Bildschirm, indem Sie eine Datei aus dem Abschnitt **Lokale Dateien** oder einem verbundenen **Cloud-Speicher**-Konto antippen.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evertag Tag Editor Screen" image="/docs/guide/evertag/img/tag-editor.webp" >}}
+  {{< ls-card title="" subtitle="Evertag Tag Editor Screen" image="/docs/guide/evertag/img/tag-editor.webp" >}}
 {{< /cards >}}
 
 ## Bearbeitungsmodi
@@ -38,7 +38,7 @@ Standardmäßig öffnet die App den Tag-Editor im Einzeldatei-Modus mit nur den 
 Um auf alle verfügbaren Tags zuzugreifen, scrollen Sie zum Ende des Bildschirms und tippen Sie auf die Option **Erweiterte Tags anzeigen**. Dadurch wechselt der Editor in den erweiterten Modus, in dem Sie über **120 Metadatenfelder** bearbeiten können, darunter **MusicBrainz-Tags**, **Lyrics**, **Jugendschutz-Bewertungen**, Replay-Gain-Werte, Sortierreihenfolgen, Podcast-Metadaten und mehr. Verwenden Sie **Einstellungen → Audio-Tags-Editor → Schaltflächen auf dem Hauptbildschirm**, um «Erweiterte Tags anzeigen» dauerhaft einzuschalten, damit es immer aktiviert ist.
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Bottom Actions Panel" image="/docs/guide/evertag/img/tag-editor-bottom-actions.webp" >}}
+{{< ls-card title="" subtitle="Bottom Actions Panel" image="/docs/guide/evertag/img/tag-editor-bottom-actions.webp" >}}
 {{< /cards >}}
 
 ## Stapelmodus
@@ -53,7 +53,7 @@ Sie können die Stapelbearbeitung auf zwei Arten aufrufen:
    - Öffnen Sie eine beliebige Datei, scrollen Sie nach unten und tippen Sie auf **Dateien gleichzeitig bearbeiten**, um alle Dateien aus demselben Ordner zu laden.
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Batch Editing Mode" image="/docs/guide/evertag/img/tag-editor-batch-editing.webp" >}}
+{{< ls-card title="" subtitle="Batch Editing Mode" image="/docs/guide/evertag/img/tag-editor-batch-editing.webp" >}}
 {{< /cards >}}
 
 Nach der Bearbeitung tippen Sie auf **Speichern**, um Änderungen anzuwenden.
@@ -72,19 +72,19 @@ Sie müssen Lyrics nicht von Grund auf eintippen. Der Editor enthält Ein-Tipp-S
 Jede Verknüpfung erscheint nur, wenn der entsprechende Dienst von Ihrem Gerät aus erreichbar ist. Tippen Sie auf einen Dienst, kopieren Sie die Lyrics (oder die LRC-Zeitstempel), die Sie möchten, kehren Sie zu Evertag zurück und fügen Sie sie in das Textfeld ein – dann **Speichern**, um die Lyrics zurück in die Tags der Audiodatei zu schreiben.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Lyrics Pages" image="/docs/guide/evertag/img/tag-editor-lyrics-pages.webp" >}}
+  {{< ls-card title="" subtitle="Lyrics Pages" image="/docs/guide/evertag/img/tag-editor-lyrics-pages.webp" >}}
 {{< /cards >}}
 
 Wählen Sie eine Sprache aus der Auswahlliste:
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Lyrics Language Selector" image="/docs/guide/evertag/img/tag-editor-lyrics-language-select.webp" >}}
+  {{< ls-card title="" subtitle="Lyrics Language Selector" image="/docs/guide/evertag/img/tag-editor-lyrics-language-select.webp" >}}
 {{< /cards >}}
 
 Fügen Sie dann die Lyrics ein oder tippen Sie sie ein. Evertag unterstützt sowohl einfachen Text als auch zeitgestempelte (synchronisierte) Lyrics – der Platzhalter zeigt ein Beispiel des LRC-Stilformats, das genau das ist, was Lrclib und Lyricsify für synchronisierte Ergebnisse zurückgeben.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Lyrics Text Editor" image="/docs/guide/evertag/img/tag-editor-lyrics-text.webp" >}}
+  {{< ls-card title="" subtitle="Lyrics Text Editor" image="/docs/guide/evertag/img/tag-editor-lyrics-text.webp" >}}
 {{< /cards >}}
 
 ## Bewertung und Jugendschutz-Bewertung setzen
@@ -96,7 +96,7 @@ Der erweiterte Editor bietet ein Stern-**Bewertungs**-Steuerelement neben einem 
 Verwenden Sie das Feld **Bewertung**, um einem Track eine persönliche Punktzahl von einem bis fünf Sternen zu geben. Der Wert wird in das Standard-Bewertungs-Tag der Datei geschrieben (POPM für ID3, `rate` für MP4, `RATING` für Vorbis/APE usw.), sodass andere Apps, die dieses Tag lesen – einschließlich der Musik-App, Plex, Roon und die meisten Desktop-Tag-Editoren – Ihre Bewertungen sofort übernehmen.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Rating" image="/docs/guide/evertag/img/tag-editor-rating.webp" >}}
+  {{< ls-card title="" subtitle="Rating" image="/docs/guide/evertag/img/tag-editor-rating.webp" >}}
 {{< /cards >}}
 
 ### Jugendschutz-Bewertung
@@ -117,7 +117,7 @@ Sie sollten dieses Feld festlegen oder korrigieren, wenn:
 Der Wert wird im Standard-Jugendschutz-Bewertungsfeld für das Dateiformat gespeichert (`rtng` für MP4, `TXXX:ITUNESADVISORY` für ID3, `ITUNESADVISORY` für Vorbis), sodass jeder Player, der Elternberatungs-Metadaten liest, Ihre Aktualisierung sieht.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Lyrics Advisory Rating" image="/docs/guide/evertag/img/lyrics-advisory-rating.webp" >}}
+  {{< ls-card title="" subtitle="Lyrics Advisory Rating" image="/docs/guide/evertag/img/lyrics-advisory-rating.webp" >}}
 {{< /cards >}}
 
 ## Albumcover bearbeiten
@@ -129,7 +129,7 @@ So ändern Sie ein Albumcover:
 3. Wählen Sie ein Bild aus, das als Coverart angewendet werden soll.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Select Image" image="/docs/guide/evertag/img/select-image.webp" >}}
+  {{< ls-card title="" subtitle="Select Image" image="/docs/guide/evertag/img/select-image.webp" >}}
 {{< /cards >}}
 
 ## Weitere Aktionen im Tag-Editor
@@ -137,7 +137,7 @@ So ändern Sie ein Albumcover:
 Zusätzliche Bearbeitungsoptionen sind über die Symbolleiste unter der Artwork-Ansicht verfügbar.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="More Actions Menu" image="/docs/guide/evertag/img/tag-editor-more-actions.webp" >}}
+  {{< ls-card title="" subtitle="More Actions Menu" image="/docs/guide/evertag/img/tag-editor-more-actions.webp" >}}
 {{< /cards >}}
 
 ### Audio-Tags automatisch suchen
@@ -150,13 +150,13 @@ Die App verwendet die MusicBrainz-Datenbank – eine der umfassendsten Tag-Daten
 Verwenden Sie Metadaten, um im Web nach dem korrekten Albumcover zu suchen.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Search Album Cover" image="/docs/guide/evertag/img/search-album-cover.webp" >}}
+  {{< ls-card title="" subtitle="Search Album Cover" image="/docs/guide/evertag/img/search-album-cover.webp" >}}
 {{< /cards >}}
 
 Sobald es gefunden wurde, speichern Sie das Bild in Ihre **Fotos** über das Systemkontextmenü.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Add Image to Photos" image="/docs/guide/evertag/img/add-image-to-photos.webp" >}}
+  {{< ls-card title="" subtitle="Add Image to Photos" image="/docs/guide/evertag/img/add-image-to-photos.webp" >}}
 {{< /cards >}}
 
 Kehren Sie danach zum Tag-Editor zurück, tippen Sie auf das Kamera-Symbol, gehen Sie zu **Fotobibliothek** und wählen Sie das gespeicherte Bild aus. Die App legt es als Cover für Ihre Audiodatei fest.
@@ -178,19 +178,19 @@ Suchen Sie manuell nach Album-Metadaten über die MusicBrainz-Datenbank.
 - Wählen Sie das Album aus
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Select Album" image="/docs/guide/evertag/img/select-album-results.webp" >}}
+  {{< ls-card title="" subtitle="Select Album" image="/docs/guide/evertag/img/select-album-results.webp" >}}
 {{< /cards >}}
 
 - Wählen Sie den richtigen Song aus
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Select Song" image="/docs/guide/evertag/img/select-a-song.webp" >}}
+  {{< ls-card title="" subtitle="Select Song" image="/docs/guide/evertag/img/select-a-song.webp" >}}
 {{< /cards >}}
 
 - Wählen Sie aus, welche Tags angewendet werden sollen
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Select Audio Tags" image="/docs/guide/evertag/img/select-audio-tags.webp" >}}
+  {{< ls-card title="" subtitle="Select Audio Tags" image="/docs/guide/evertag/img/select-audio-tags.webp" >}}
 {{< /cards >}}
 
 Tippen Sie auf **Fertig**, um die ausgewählten Metadaten auf Ihren Track anzuwenden.

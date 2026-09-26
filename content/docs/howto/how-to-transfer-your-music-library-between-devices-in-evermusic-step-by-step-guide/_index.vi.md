@@ -7,7 +7,7 @@ keywords: ["chuyển thư viện nhạc Evermusic", "sao lưu và khôi phục d
 readingTime: 3
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **Tóm tắt:** Để chuyển thư viện Evermusic sang thiết bị mới, hãy tạo bản sao lưu trên thiết bị nguồn, khởi động Wi-Fi Drive, kết nối thiết bị thứ hai qua cùng mạng, tải xuống bản sao lưu và các tệp nhạc, sau đó khôi phục từ bản sao lưu. Toàn bộ quá trình mất khoảng 10 phút tùy thuộc vào kích thước thư viện.
@@ -144,22 +144,22 @@ Bằng cách làm theo các bước này, bạn sẽ chuyển thành công thư 
 
 ## Câu hỏi thường gặp
 
-{{% details title="Tôi có thể chuyển thư viện Evermusic mà không cần Wi-Fi không?" closed="true" %}}
+{{% ls-details title="Tôi có thể chuyển thư viện Evermusic mà không cần Wi-Fi không?" closed="true" %}}
 Wi-Fi Drive yêu cầu cả hai thiết bị phải ở trên cùng một mạng Wi-Fi. Hiện tại không có tùy chọn chuyển qua Bluetooth hoặc mạng di động. Bạn có thể sử dụng AirDrop hoặc ứng dụng Tệp để di chuyển thủ công tệp sao lưu và thư mục nhạc giữa các thiết bị.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Các kết nối dịch vụ đám mây có được chuyển cùng bản sao lưu không?" closed="true" %}}
+{{% ls-details title="Các kết nối dịch vụ đám mây có được chuyển cùng bản sao lưu không?" closed="true" %}}
 Bản sao lưu bao gồm cơ sở dữ liệu, danh sách phát, ảnh bìa album và cài đặt. Thông tin đăng nhập dịch vụ đám mây không được bao gồm vì lý do bảo mật. Bạn sẽ cần kết nối lại tài khoản đám mây trên thiết bị mới sau khi khôi phục.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Điều gì xảy ra với thư viện hiện có trên thiết bị thứ hai?" closed="true" %}}
+{{% ls-details title="Điều gì xảy ra với thư viện hiện có trên thiết bị thứ hai?" closed="true" %}}
 Khôi phục bản sao lưu sẽ thay thế tất cả dữ liệu thư viện nhạc, danh sách phát, cài đặt và ảnh bìa album hiện có trên thiết bị thứ hai. Hãy tạo bản sao lưu riêng cho thiết bị thứ hai trước nếu bạn muốn giữ lại dữ liệu của nó.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Quy trình này có hoạt động giữa iPhone và Mac không?" closed="true" %}}
+{{% ls-details title="Quy trình này có hoạt động giữa iPhone và Mac không?" closed="true" %}}
 Có. Evermusic hỗ trợ chuyển Wi-Fi Drive giữa bất kỳ sự kết hợp nào của iPhone, iPad và Mac. Cả hai thiết bị chỉ cần ở trên cùng một mạng Wi-Fi.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Quá trình chuyển mất bao lâu?" closed="true" %}}
+{{% ls-details title="Quá trình chuyển mất bao lâu?" closed="true" %}}
 Thời gian chuyển phụ thuộc vào kích thước thư viện nhạc và tốc độ Wi-Fi của bạn. Một thư viện điển hình vài gigabyte được chuyển trong 5-15 phút qua mạng gia đình tiêu chuẩn.
-{{% /details %}}
+{{% /ls-details %}}

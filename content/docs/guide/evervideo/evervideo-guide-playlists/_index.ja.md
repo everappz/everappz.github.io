@@ -19,7 +19,7 @@ readingTime: 5
 Evervideoのプレイリストには、オンラインクラウドビデオ、オフラインでダウンロードされたファイル、ローカルファイル、写真ライブラリビデオ、iOSミュージックライブラリビデオのミックスを含めることができます — すべて1つのプレイリストに — そしてシームレスに一緒に再生されます。
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="メディアライブラリのEvervideoプレイリスト" image="/docs/guide/evervideo/img/evervideo-playlists-in-media-library.webp" >}}
+  {{< ls-card title="" subtitle="メディアライブラリのEvervideoプレイリスト" image="/docs/guide/evervideo/img/evervideo-playlists-in-media-library.webp" >}}
 {{< /cards >}}
 
 ## プレイリストの作成

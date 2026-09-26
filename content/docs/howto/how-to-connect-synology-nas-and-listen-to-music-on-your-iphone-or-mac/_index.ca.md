@@ -7,7 +7,7 @@ tags: ["música", "reproducció", "nas", "synology", "quickconnect"]
 readingTime: 4
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **Resum:** Connecta el teu Synology NAS a Evermusic o Flacbox utilitzant l'API nativa de Synology -- ja sigui manualment mitjançant l'adreça IP o automàticament mitjançant l'ID de QuickConnect. QuickConnect et permet reproduir música de forma remota sense redirecció de ports. Ambdues aplicacions admeten FLAC, MP3, WAV i altres formats d'alta resolució.
@@ -140,22 +140,22 @@ Amb accés remot segur a través de QuickConnect i compatibilitat amb una àmpli
 
 ## Preguntes freqüents
 
-{{% details title="Quina diferència hi ha entre la connexió manual i QuickConnect?" closed="true" %}}
+{{% ls-details title="Quina diferència hi ha entre la connexió manual i QuickConnect?" closed="true" %}}
 La connexió manual utilitza l'adreça IP del NAS i el port, que funciona a la teva xarxa local. QuickConnect utilitza el servei de retransmissió de Synology per establir una connexió des de qualsevol lloc per internet, sense redirecció de ports.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Puc reproduir música des del Synology NAS fora de la meva xarxa domèstica?" closed="true" %}}
+{{% ls-details title="Puc reproduir música des del Synology NAS fora de la meva xarxa domèstica?" closed="true" %}}
 Sí. Activa QuickConnect al teu Synology NAS i utilitza l'ID de QuickConnect a Evermusic o Flacbox per reproduir música des de qualsevol lloc amb connexió a internet.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Quins formats d'àudio es poden utilitzar quan es reprodueix des del Synology NAS?" closed="true" %}}
+{{% ls-details title="Quins formats d'àudio es poden utilitzar quan es reprodueix des del Synology NAS?" closed="true" %}}
 Evermusic i Flacbox admeten FLAC, MP3, AAC, WAV, ALAC, OGG, WMA, DSD i molts altres formats. Tots els formats compatibles funcionen quan es reprodueix des del Synology NAS.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Necessito autenticació de dos factors per connectar-me?" closed="true" %}}
+{{% ls-details title="Necessito autenticació de dos factors per connectar-me?" closed="true" %}}
 No, l'autenticació de dos factors és opcional. No obstant això, si has activat la verificació en dos passos al teu Synology DSM, l'aplicació et demanarà una contrasenya d'un sol ús durant l'inici de sessió. Hauràs de reautoritzar quan la sessió expiri.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Hauria d'utilitzar l'API nativa de Synology, WebDAV o SMB per connectar-me?" closed="true" %}}
+{{% ls-details title="Hauria d'utilitzar l'API nativa de Synology, WebDAV o SMB per connectar-me?" closed="true" %}}
 L'API nativa de Synology amb QuickConnect és la millor opció per a l'accés remot. Per a l'ús a la xarxa local, SMB sol ser l'opció més ràpida. WebDAV funciona bé tant per a l'accés local com remot. Evermusic i Flacbox admeten els tres protocols.
-{{% /details %}}
+{{% /ls-details %}}

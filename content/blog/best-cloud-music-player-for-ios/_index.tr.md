@@ -12,7 +12,7 @@ authors:
     image: "/images/about/artem-meleshko-founder-everappz.webp"
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 **Özet:** Evermusic, Dropbox, Google Drive, OneDrive ve 9'dan fazla diğer bulut hizmetine bağlanan iPhone ve iPad için bir bulut müzik çalardır. FLAC, MP3, WAV ve diğer formatları oynatır, çevrimdışı indirmeleri destekler ve bir ekolayzer ve ID3 etiket düzenleyicisi içerir. Tek seferlik Premium yükseltme ile ücretsiz indir. 11 milyondan fazla indirme, App Store'da 4,6 yıldız puanı.
 
@@ -20,7 +20,7 @@ authors:
 
 [@Massi_Media](https://www.youtube.com/@Massi_Media) tarafından yapılan tam video incelemesini izleyin:
 
-{{< youtubecard id="pKUZmHy9dxc" >}}
+{{< ls-youtubecard id="pKUZmHy9dxc" >}}
 
 ## iPhone için En İyi Bulut Müzik Çalar Hangisi?
 
@@ -67,18 +67,18 @@ Evermusic zaten sahip olduğunuz dosyalar ve zaten ödediğiniz depolama alanıy
 
 ## Sık Sorulan Sorular
 
-{{% details title="Evermusic gerçekten ücretsiz mi?" closed="true" %}}
+{{% ls-details title="Evermusic gerçekten ücretsiz mi?" closed="true" %}}
 Evet, Evermusic bulut bağlantısı, akış ve çevrimdışı indirmeleri içeren ücretsiz bir katman sunar. Ücretsiz sürüm, temel oynatma özelliklerini ve sınırlı sayıda bulut hesabı bağlantısını destekler. Tek seferlik satın alma veya abonelik olarak mevcut olan Evermusic Pro, tam ekolayzer, geçiş, ek bulut hesapları ve diğer gelişmiş özelliklerin kilidini açar. Kendi müzik dosyalarınıza erişmek için abonelik gerekmez.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Evermusic'i internet bağlantısı olmadan kullanabilir miyim?" closed="true" %}}
+{{% ls-details title="Evermusic'i internet bağlantısı olmadan kullanabilir miyim?" closed="true" %}}
 Kesinlikle. Evermusic, bağlı herhangi bir bulut hizmetinden parçaları çevrimdışı oynatmak için doğrudan cihazınıza indirmenize olanak tanır. İndirildikten sonra dosyalar yerel olarak depolanır ve Wi-Fi veya mobil veri olmadan bile kullanılabilir durumda kalır. Bu, Evermusic'i uçuşlar, tüneller boyunca işe gidiş gelişleri veya bağlantının güvenilmez olduğu durumlar için ideal kılar.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Evermusic FLAC gibi kayıpsız ses formatlarını destekliyor mu?" closed="true" %}}
+{{% ls-details title="Evermusic FLAC gibi kayıpsız ses formatlarını destekliyor mu?" closed="true" %}}
 Evet. Evermusic, FLAC, ALAC, WAV, AIFF, OGG, MP3, AAC ve M4A dahil olmak üzere geniş bir ses formatı yelpazesini destekler. Uygulama, kayıpsız dosyaları yeniden kodlama yapmadan orijinal kalitelerinde oynatır; böylece ses meraklıları yüksek çözünürlüklü koleksiyonlarının tam olarak amaçlandığı gibi keyfini çıkarabilir.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="NAS'ımı veya ev sunucumu Evermusic'e nasıl bağlarım?" closed="true" %}}
+{{% ls-details title="NAS'ımı veya ev sunucumu Evermusic'e nasıl bağlarım?" closed="true" %}}
 NAS'ınız veya ev sunucunuz WebDAV veya SMB protokollerini destekliyorsa, uygulamanın bulut bağlantı ayarlarına sunucu adresinizi, portunu ve kimlik bilgilerinizi girerek Evermusic'e bağlayabilirsiniz. Synology, QNAS ve Western Digital MyCloud dahil olmak üzere çoğu popüler NAS markası bu protokolleri kutudan çıktığı gibi destekler. Bağlandıktan sonra Evermusic, müzik dosyalarınızı diğer herhangi bir bulut kaynağı gibi tarar ve dizinler.
-{{% /details %}}
+{{% /ls-details %}}

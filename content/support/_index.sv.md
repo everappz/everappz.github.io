@@ -3,7 +3,9 @@ date: '2025-06-12T17:00:00+00:00'
 title: 'Support'
 ---
 
-{{< lottie src="/images/juicy-json/juicy-girl-is-working-on-laptop-at-a-remote-job.json" width="80%" >}}
+{{< ls-lottie src="/images/juicy-json/juicy-girl-is-working-on-laptop-at-a-remote-job.json" width="80%" >}}
+
+{{< ls-docs-search >}}
 
 ## Behöver du hjälp? Vi finns här för dig
 
@@ -19,9 +21,9 @@ Genom att kontakta oss bekräftar du att du har läst och godkänner vår [Integ
 För att spara tid och få omedelbara svar, kolla in våra mest användbara resurser. Många vanliga frågor är redan besvarade:
 
 {{< cards >}}
-  {{< card icon="book-open" link="/docs/guide" title="Användarguide" >}}
-  {{< card icon="question-mark-circle" link="/docs/faq" title="Vanliga frågor" >}}
-  {{< card icon="light-bulb" link="/docs/howto" title="Så gör du" >}}
+  {{< ls-card icon="book-open" link="/docs/guide" title="Användarguide" >}}
+  {{< ls-card icon="question-mark-circle" link="/docs/faq" title="Vanliga frågor" >}}
+  {{< ls-card icon="light-bulb" link="/docs/howto" title="Så gör du" >}}
 {{< /cards >}}
 
 Dessa guider är utformade för att hjälpa dig att få ut det mesta av våra appar — från installation till avancerade funktioner.

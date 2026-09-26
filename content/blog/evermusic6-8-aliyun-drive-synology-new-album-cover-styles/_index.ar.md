@@ -12,7 +12,7 @@ authors:
     image: "/images/about/artem-meleshko-founder-everappz.webp"
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 **ملخص:** يضيف Evermusic 6.8 تكامل Aliyun Drive وSynology NAS (مع QuickConnect)، ستة تأثيرات تمرير جديدة لأغلفة الألبومات، مشغل ملء الشاشة مبسط، إدارة ملفات بالسحب والإفلات، وتحميل أسرع لأعمال الألبومات الفنية. متوفر الآن لنظامي iOS وmacOS.
 
@@ -77,18 +77,18 @@ authors:
 
 ## الأسئلة الشائعة
 
-{{% details title="كيف أربط Synology NAS بـ Evermusic؟" closed="true" %}}
+{{% ls-details title="كيف أربط Synology NAS بـ Evermusic؟" closed="true" %}}
 انتقل إلى علامة التبويب الاتصالات، اختر Synology، وأدخل QuickConnectID الخاص بك. يتصل Evermusic مباشرة بدون الحاجة إلى عناوين IP أو إعداد VPN.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="هل استخدام Aliyun Drive مجاني مع Evermusic؟" closed="true" %}}
+{{% ls-details title="هل استخدام Aliyun Drive مجاني مع Evermusic؟" closed="true" %}}
 نعم. إذا كان لديك حساب Aliyun Drive، يمكنك ربطه بـ Evermusic بدون تكلفة إضافية. تعتمد حدود التخزين على خطة Aliyun Drive الخاصة بك.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="هل يمكنني تخصيص نمط تمرير أغلفة الألبومات؟" closed="true" %}}
+{{% ls-details title="هل يمكنني تخصيص نمط تمرير أغلفة الألبومات؟" closed="true" %}}
 نعم. انتقل إلى Settings > Audio Player > Personalization > Album Covers Scrolling Style واختر من ستة خيارات: MacDoc، Linear، Rotary، Inverted Rotary، Cylinder، أو CoverFlow.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="هل يعمل المشغل المبسط مع جميع الأجهزة؟" closed="true" %}}
+{{% ls-details title="هل يعمل المشغل المبسط مع جميع الأجهزة؟" closed="true" %}}
 نعم. نمط غلاف الألبوم بملء الشاشة متاح على جميع أجهزة iPhone وiPad وMac المدعومة التي تعمل بـ Evermusic 6.8 أو أحدث.
-{{% /details %}}
+{{% /ls-details %}}

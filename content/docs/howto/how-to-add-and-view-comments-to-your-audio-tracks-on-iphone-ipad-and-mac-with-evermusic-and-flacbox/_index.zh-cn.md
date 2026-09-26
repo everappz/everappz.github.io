@@ -7,7 +7,7 @@ tags: ["evermusic", "音频", "编辑器", "标签", "评论"]
 readingTime: 4
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **摘要：** Evermusic 和 Flacbox 允许您为任何音频曲目添加带时间标记的文本评论，然后在播放过程中同步显示。您还可以查看嵌入式歌词和 LRC 文件。评论和歌词功能在两个应用中均免费。
@@ -97,22 +97,22 @@ Evermusic 和 Flacbox 使您在听音乐时轻松访问和享受评论。在播�
 
 ## 常见问题
 
-{{% details title="Evermusic 和 Flacbox 中的评论功能免费吗？" closed="true" %}}
+{{% ls-details title="Evermusic 和 Flacbox 中的评论功能免费吗？" closed="true" %}}
 是的。在 Evermusic 和 Flacbox 中添加、编辑和查看评论和歌词是免费功能。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="定时评论应该使用什么格式？" closed="true" %}}
+{{% ls-details title="定时评论应该使用什么格式？" closed="true" %}}
 使用 LRC 时间标记格式：`[MM:SS.SS]` 后跟您的文本。例如：`[01:23.45]这是我的评论`。您可以为一行分配多个时间戳。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="我可以在同一屏幕上查看歌词和 LRC 文件吗？" closed="true" %}}
+{{% ls-details title="我可以在同一屏幕上查看歌词和 LRC 文件吗？" closed="true" %}}
 可以。评论屏幕支持三种模式，您可以滑动切换：评论、嵌入式歌词和 LRC 文件。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="在哪里可以找到 LRC 歌词文件？" closed="true" %}}
+{{% ls-details title="在哪里可以找到 LRC 歌词文件？" closed="true" %}}
 免费的 LRC 歌词可在 Lyricsify.com 等网站上获取。您可以将它们嵌入音频文件的歌词标签中，或在音频文件旁边放置单独的 `.lrc` 文件。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="我需要单独的应用来编辑歌词标签吗？" closed="true" %}}
+{{% ls-details title="我需要单独的应用来编辑歌词标签吗？" closed="true" %}}
 您可以直接在 Evermusic 和 Flacbox 中编辑评论。要专门编辑歌词标签，请使用 Evertag，这是一款适用于 iOS 和 macOS 的免费音频元数据编辑器。
-{{% /details %}}
+{{% /ls-details %}}

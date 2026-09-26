@@ -7,7 +7,7 @@ keywords: ["chuyển tệp không dây sang iPhone", "chuyển tệp Wi-Fi Drive
 readingTime: 2
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **Tóm tắt:** Wi-Fi Drive cho phép bạn chuyển tệp từ bất kỳ máy tính nào sang iPhone hoặc iPad qua Wi-Fi -- không cần iTunes hay cáp. Sử dụng trình duyệt web, Mac Finder hoặc Windows File Explorer. Cả hai thiết bị phải ở trên cùng một mạng Wi-Fi.
@@ -18,7 +18,7 @@ Bạn có thể chuyển tệp không dây bằng trình duyệt web trên máy 
 
 Bạn có thể xem video hướng dẫn từ [**TECHGUYPH**](https://www.youtube.com/channel/UCgpf09gGFE_c_3pPTtTpnzg) hoặc đọc phiên bản văn bản bên dưới.
 <br><br>
-{{< youtubecard id="CqdqrQ0ge70" title="Can We Wirelessly Put Offline Music on iPhones?" >}}
+{{< ls-youtubecard id="CqdqrQ0ge70" title="Can We Wirelessly Put Offline Music on iPhones?" >}}
 
 ## Chuyển tệp từ máy tính không dây bằng trình duyệt web trên máy tính
 
@@ -90,26 +90,26 @@ Không cần iTunes!
 
 ## Câu hỏi thường gặp
 
-{{% details title="Tôi có cần iTunes để chuyển tệp sang iPhone không?" closed="true" %}}
+{{% ls-details title="Tôi có cần iTunes để chuyển tệp sang iPhone không?" closed="true" %}}
 Không. Wi-Fi Drive chuyển tệp trực tiếp qua mạng Wi-Fi cục bộ. Không cần iTunes.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Những ứng dụng nào hỗ trợ Wi-Fi Drive?" closed="true" %}}
+{{% ls-details title="Những ứng dụng nào hỗ trợ Wi-Fi Drive?" closed="true" %}}
 Wi-Fi Drive có sẵn trong Evermusic, Flacbox, Evertag và Evervideo cho iOS.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Cả hai thiết bị có cần ở trên cùng một mạng Wi-Fi không?" closed="true" %}}
+{{% ls-details title="Cả hai thiết bị có cần ở trên cùng một mạng Wi-Fi không?" closed="true" %}}
 Có. Máy tính và iPhone hoặc iPad của bạn phải được kết nối với cùng một mạng Wi-Fi cục bộ để Wi-Fi Drive hoạt động.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Tôi có thể chuyển toàn bộ thư mục, không chỉ từng tệp riêng lẻ không?" closed="true" %}}
+{{% ls-details title="Tôi có thể chuyển toàn bộ thư mục, không chỉ từng tệp riêng lẻ không?" closed="true" %}}
 Có. Wi-Fi Drive hỗ trợ tải lên và tải xuống toàn bộ thư mục thông qua giao diện trình duyệt web.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Wi-Fi Drive có hoạt động với Windows không?" closed="true" %}}
+{{% ls-details title="Wi-Fi Drive có hoạt động với Windows không?" closed="true" %}}
 Có. Bạn có thể sử dụng bất kỳ trình duyệt web nào trên Windows hoặc kết nối qua Windows File Explorer bằng giao thức WebDAV.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Tôi có thể sử dụng cáp USB để tăng tốc độ chuyển không?" closed="true" %}}
+{{% ls-details title="Tôi có thể sử dụng cáp USB để tăng tốc độ chuyển không?" closed="true" %}}
 Có. Nếu iPhone được kết nối với Mac qua USB trong khi Wi-Fi Drive đang chạy, quá trình chuyển sẽ sử dụng kết nối cáp để tốc độ nhanh hơn.
-{{% /details %}}
+{{% /ls-details %}}

@@ -7,7 +7,7 @@ tags: ["cloud", "streaming", "computer", "mp3", "file", "downloader", "manager",
 keywords: ["phát nhạc từ Mac sang iPhone", "SMB phát âm thanh iOS", "thiết lập Evermusic SMB", "kết nối nhạc PC iPhone", "chia sẻ nhạc Mac iOS", "SMB Windows phát tệp", "truy cập thư mục PC Evermusic"]
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **Tóm tắt:** Sử dụng ứng dụng Evermusic cho iPhone hoặc iPad để phát nhạc trực tuyến từ Mac hoặc Windows PC qua mạng cục bộ bằng SMB. Không cần đồng bộ, không cần sao chép -- chỉ cần bật chia sẻ tệp trên máy tính, kết nối trong ứng dụng và phát. Thiết lập mất chưa đến 5 phút.
@@ -102,26 +102,26 @@ P.S. Bạn cũng có thể chuyển tệp âm thanh từ MAC/PC sang iPhone bằ
 
 ## Câu hỏi thường gặp
 
-{{% details title="Tôi có thể phát nhạc từ PC sang iPhone mà không cần iTunes không?" closed="true" %}}
+{{% ls-details title="Tôi có thể phát nhạc từ PC sang iPhone mà không cần iTunes không?" closed="true" %}}
 Có. Evermusic kết nối với PC qua SMB trên mạng Wi-Fi cục bộ. Không cần iTunes. Chỉ cần bật chia sẻ tệp trên PC và kết nối trong ứng dụng.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Phát trực tuyến SMB có sử dụng dữ liệu di động không?" closed="true" %}}
+{{% ls-details title="Phát trực tuyến SMB có sử dụng dữ liệu di động không?" closed="true" %}}
 Không. SMB hoạt động qua mạng Wi-Fi cục bộ. Không cần kết nối internet hoặc dữ liệu di động.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Evermusic hỗ trợ định dạng âm thanh nào qua SMB?" closed="true" %}}
+{{% ls-details title="Evermusic hỗ trợ định dạng âm thanh nào qua SMB?" closed="true" %}}
 Evermusic hỗ trợ MP3, FLAC, AAC, WAV, AIFF, OGG, WMA, ALAC và các định dạng âm thanh phổ biến khác. Tệp được phát trực tiếp từ chia sẻ SMB.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Tôi có thể phát nhạc từ NAS sang iPhone không?" closed="true" %}}
+{{% ls-details title="Tôi có thể phát nhạc từ NAS sang iPhone không?" closed="true" %}}
 Có. Nếu NAS hỗ trợ SMB (hầu hết đều hỗ trợ, bao gồm Synology, QNAP và WD My Cloud), bạn có thể kết nối bằng các bước tương tự trong hướng dẫn này.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Tôi có cần để máy tính bật khi phát trực tuyến không?" closed="true" %}}
+{{% ls-details title="Tôi có cần để máy tính bật khi phát trực tuyến không?" closed="true" %}}
 Có. Vì Evermusic phát tệp trực tiếp từ máy tính, nên máy tính phải được bật và kết nối cùng mạng với iPhone.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Có giới hạn kích thước tệp cho phát trực tuyến SMB không?" closed="true" %}}
+{{% ls-details title="Có giới hạn kích thước tệp cho phát trực tuyến SMB không?" closed="true" %}}
 Không. Evermusic phát tệp bất kỳ kích thước nào qua SMB. Các tệp lossless lớn (FLAC, WAV) hoạt động bình thường.
-{{% /details %}}
+{{% /ls-details %}}

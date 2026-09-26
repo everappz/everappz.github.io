@@ -7,7 +7,7 @@ tags: ["cloud", "streaming", "computer", "mp3", "file", "downloader", "manager",
 keywords: ["strumieniowanie muzyki z Mac na iPhone", "SMB audio streaming iOS", "konfiguracja Evermusic SMB", "połączenie muzyki PC iPhone", "udostępnianie muzyki Mac iOS", "SMB Windows strumieniowanie plików", "dostęp Evermusic do folderów PC"]
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **W skrócie:** Użyj aplikacji Evermusic na iPhone lub iPad, aby strumieniować muzykę z Maca lub Windows PC przez sieć lokalną za pomocą SMB. Bez synchronizacji, bez kopiowania -- po prostu włącz udostępnianie plików na komputerze, połącz się w aplikacji i odtwarzaj. Konfiguracja zajmuje mniej niż 5 minut.
@@ -102,26 +102,26 @@ P.S. Możesz również przesyłać pliki audio z MAC/PC na iPhone za pomocą udo
 
 ## Często zadawane pytania
 
-{{% details title="Czy mogę strumieniować muzykę z PC na iPhone bez iTunes?" closed="true" %}}
+{{% ls-details title="Czy mogę strumieniować muzykę z PC na iPhone bez iTunes?" closed="true" %}}
 Tak. Evermusic łączy się z PC przez SMB w lokalnej sieci Wi-Fi. iTunes nie jest wymagany. Po prostu włącz udostępnianie plików na PC i połącz się w aplikacji.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Czy strumieniowanie SMB zużywa dane mobilne?" closed="true" %}}
+{{% ls-details title="Czy strumieniowanie SMB zużywa dane mobilne?" closed="true" %}}
 Nie. SMB działa przez lokalną sieć Wi-Fi. Nie jest potrzebne połączenie internetowe ani dane mobilne.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Jakie formaty audio obsługuje Evermusic przez SMB?" closed="true" %}}
+{{% ls-details title="Jakie formaty audio obsługuje Evermusic przez SMB?" closed="true" %}}
 Evermusic obsługuje MP3, FLAC, AAC, WAV, AIFF, OGG, WMA, ALAC i inne popularne formaty audio. Pliki odtwarzane są bezpośrednio z udziału SMB.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Czy mogę strumieniować muzykę z NAS na iPhone?" closed="true" %}}
+{{% ls-details title="Czy mogę strumieniować muzykę z NAS na iPhone?" closed="true" %}}
 Tak. Jeśli twój NAS obsługuje SMB (większość tak, w tym Synology, QNAP i WD My Cloud), możesz się z nim połączyć, korzystając z tych samych kroków w tym przewodniku.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Czy muszę trzymać komputer włączony podczas strumieniowania?" closed="true" %}}
+{{% ls-details title="Czy muszę trzymać komputer włączony podczas strumieniowania?" closed="true" %}}
 Tak. Ponieważ Evermusic strumieniuje pliki bezpośrednio z komputera, musi on być włączony i podłączony do tej samej sieci co iPhone.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Czy istnieje limit rozmiaru pliku dla strumieniowania SMB?" closed="true" %}}
+{{% ls-details title="Czy istnieje limit rozmiaru pliku dla strumieniowania SMB?" closed="true" %}}
 Nie. Evermusic strumieniuje pliki dowolnego rozmiaru przez SMB. Duże pliki bezstratne (FLAC, WAV) działają bez problemów.
-{{% /details %}}
+{{% /ls-details %}}

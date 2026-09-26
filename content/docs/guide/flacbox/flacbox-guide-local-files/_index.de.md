@@ -19,7 +19,7 @@ Der Bereich „Lokale Dateien" dient als Zentrale zur Verwaltung von Dateien im 
 Dieser integrierte Datei-Manager ermöglicht Ihnen das Bearbeiten von Dateien (Umbenennen, Verschieben, Kopieren, Hochladen, Löschen), das Überwachen von Übertragungen und bietet mehrere Methoden zum Importieren von Audiodateien in die App.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox Lokale Dateien-Bildschirm" image="/docs/guide/flacbox/img/local-files.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox Lokale Dateien-Bildschirm" image="/docs/guide/flacbox/img/local-files.webp" >}}
 {{< /cards >}}
 
 ## Dateien aus Cloud-Speicher herunterladen
@@ -102,7 +102,7 @@ Zeigt Dateien und Ordner an, die im Dokumentenverzeichnis der App und iCloud Dri
 Zeigt Dateien auf Ihrem Gerät in anderen Anwendungen an. Sie können sie mit der Systemdateiauswahl importieren. Aktivieren Sie die Auswahl mit **Dateien öffnen…** für Dateien oder **Ordner öffnen…** für Ordner. Detaillierte Anweisungen sind [hier](/docs/howto/how-to-play-local-music-stored-on-your-iphone-or-mac) verfügbar.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox Verbundene Geräteordner" image="/docs/guide/flacbox/img/connected-device-folders.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox Verbundene Geräteordner" image="/docs/guide/flacbox/img/connected-device-folders.webp" >}}
 {{< /cards >}}
 
 Sie können auch einen Ordner auf Ihrem Gerät verbinden. Verwenden Sie das Menüelement **Ordner verbinden** und wählen Sie einen Ordner auf Ihrem Gerät. Tippen Sie auf **Fertig**, und die App erstellt einen Link mit Lese-/Schreibzugriff. Um die Verbindung zu trennen, tippen Sie auf **Weitere Aktionen** und wählen Sie **Trennen**.
@@ -137,7 +137,7 @@ Um mehrere Dateien zu bearbeiten, aktivieren Sie den Auswahlmodus über die Scha
 - **Löschen** — die ausgewählte Datei vom Gerät entfernen. **Diese Aktion ist irreversibel.**
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox Lokale Dateien Auswahlmodus" image="/docs/guide/flacbox/img/local-files-selection-mode.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox Lokale Dateien Auswahlmodus" image="/docs/guide/flacbox/img/local-files-selection-mode.webp" >}}
 {{< /cards >}}
 
 ## Optionsmenü
@@ -161,7 +161,7 @@ Für jede Datei oder jeden Ordner in der App sind Aktionen verfügbar, die über
 - **Löschen** — die Datei vom Gerät löschen. **Diese Aktion ist irreversibel** und Sie können gelöschte Dateien nicht wiederherstellen.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox Weitere Aktionen für eine lokale Datei" image="/docs/guide/flacbox/img/local-files-more-actions-for-file.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox Weitere Aktionen für eine lokale Datei" image="/docs/guide/flacbox/img/local-files-more-actions-for-file.webp" >}}
 {{< /cards >}}
 
 ## Offline-Ordner

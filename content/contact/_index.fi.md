@@ -1,9 +1,10 @@
 ---
+excludeSearch: true
 date: '2025-06-12T17:00:00+00:00'
 title: 'Ota yhteyttä'
 ---
 
-{{< lottie src="/images/juicy-json/juicy-girl-typing-on-phone.json" width="60%" >}}
+{{< ls-lottie src="/images/juicy-json/juicy-girl-typing-on-phone.json" width="60%" >}}
 
 ## Postiosoite
 
@@ -27,4 +28,4 @@ Lähettämällä sähköpostia vahvistat, että olet lukenut ja hyväksyt [Tieto
 
 Seuraa meitä sosiaalisessa mediassa saadaksesi uusimmat uutiset, sovelluspäivitykset, vinkit ja hyödyllistä tietoa:
 
-{{< social-cards >}}
+{{< ls-social-cards >}}

@@ -20,7 +20,7 @@ Het gedeelte Lokale bestanden dient als hub voor het beheren van bestanden in de
 Deze ingebouwde bestandsbeheerder maakt het bewerken van bestanden mogelijk en biedt verschillende methoden om audiobestanden in de app te importeren.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evermusic scherm voor lokale bestanden" image="/docs/guide/evermusic/evermusic-guide-local-files/img/local-files-main.webp" >}}
+  {{< ls-card title="" subtitle="Evermusic scherm voor lokale bestanden" image="/docs/guide/evermusic/evermusic-guide-local-files/img/local-files-main.webp" >}}
 {{< /cards >}}
 
 ## Bestanden downloaden van cloudopslag
@@ -40,7 +40,7 @@ Importeer eenvoudig bestanden van uw apparaat zoals beschreven [hier](/docs/howt
 Breng bestanden over via een kabelverbinding zoals beschreven [hier](/docs/howto/how-to-transfer-files-from-my-mac-to-iphone-or-ipad-using-finder).
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="iTunes / Finder-bestandsdeling" image="/docs/guide/evermusic/evermusic-guide-local-files/img/local-files-itunes-file-sharing.webp" >}}
+  {{< ls-card title="" subtitle="iTunes / Finder-bestandsdeling" image="/docs/guide/evermusic/evermusic-guide-local-files/img/local-files-itunes-file-sharing.webp" >}}
 {{< /cards >}}
 
 ## Wi-Fi Drive
@@ -48,7 +48,7 @@ Breng bestanden over via een kabelverbinding zoals beschreven [hier](/docs/howto
 Breng bestanden draadloos over zoals beschreven [hier](/docs/howto/how-to-transfer-files-wirelessly-from-a-computer-to-an-iphone-using-wifi-drive).
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Wi-Fi Drive-serverinstellingen" image="/docs/guide/evermusic/evermusic-guide-local-files/img/local-files-wifidrive-settings.webp" >}}
+  {{< ls-card title="" subtitle="Wi-Fi Drive-serverinstellingen" image="/docs/guide/evermusic/evermusic-guide-local-files/img/local-files-wifidrive-settings.webp" >}}
 {{< /cards >}}
 
 ## Overdrachtsrij
@@ -56,7 +56,7 @@ Breng bestanden draadloos over zoals beschreven [hier](/docs/howto/how-to-transf
 In de linkerbovenhoek van de navigatiebalk vindt u een knop 'Overdrachten'. Tik erop om de overdrachtsrij te openen, waar u al uw downloads en uploads kunt bewaken en beheren. Bovendien kunt u de snelheid van de overdrachtsrij en het netwerktype aanpassen in de app-instellingen.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Bestandsoverdrachtsrij" image="/docs/guide/evermusic/evermusic-guide-local-files/img/local-files-file-transfers.webp" >}}
+  {{< ls-card title="" subtitle="Bestandsoverdrachtsrij" image="/docs/guide/evermusic/evermusic-guide-local-files/img/local-files-file-transfers.webp" >}}
 {{< /cards >}}
 
 ## Gedeelte Snelle toegang
@@ -68,7 +68,7 @@ Bovenaan het scherm biedt een gedeelte voor snelle toegang handige koppelingen n
 Dit gedeelte toont alle recent geopende bestanden of mappen.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Recent geopende bestanden en mappen" image="/docs/guide/evermusic/evermusic-guide-local-files/img/local-files-recents.webp" >}}
+  {{< ls-card title="" subtitle="Recent geopende bestanden en mappen" image="/docs/guide/evermusic/evermusic-guide-local-files/img/local-files-recents.webp" >}}
 {{< /cards >}}
 
 ## Favorieten
@@ -76,7 +76,7 @@ Dit gedeelte toont alle recent geopende bestanden of mappen.
 U kunt bestanden of mappen als favoriet markeren en ze in dit gedeelte openen. Bovendien kunt u een map die zich op uw apparaat bevindt, toevoegen aan uw favorieten. Open hiervoor het favorieten-gedeelte, tik op de drie puntjes in de rechterbovenhoek en kies het menu-item "Map toevoegen". Volg de aanwijzingen om een map van uw apparaat toe te voegen aan uw favorieten voor snelle toegang.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Favorieten — Map toevoegen van uw apparaat" image="/docs/guide/evermusic/evermusic-guide-local-files/img/local-files-favorites.webp" >}}
+  {{< ls-card title="" subtitle="Favorieten — Map toevoegen van uw apparaat" image="/docs/guide/evermusic/evermusic-guide-local-files/img/local-files-favorites.webp" >}}
 {{< /cards >}}
 
 ## Bovenste werkbalk
@@ -91,7 +91,7 @@ De bovenste werkbalk, onder de navigatiebalk, biedt verschillende acties:
 U kunt de bovenste werkbalk tonen of verbergen met een veegbeweging naar beneden.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Bovenste werkbalk voor de huidige map" image="/docs/guide/evermusic/evermusic-guide-local-files/img/local-files-top-toolbar.webp" >}}
+  {{< ls-card title="" subtitle="Bovenste werkbalk voor de huidige map" image="/docs/guide/evermusic/evermusic-guide-local-files/img/local-files-top-toolbar.webp" >}}
 {{< /cards >}}
 
 ## Speciale mappen
@@ -128,7 +128,7 @@ Toont bestanden en mappen die zijn opgeslagen in de map Documenten van de app en
 Toont bestanden op uw apparaat maar in verschillende applicaties. U kunt ze in deze applicatie importeren via de systeembestandskiezer. Om de kiezer te activeren, kiest u "Bestanden openen..." om bestanden te selecteren of "Mappen openen..." om mappen te selecteren. Gedetailleerde instructies over het importeren van lokale muziek op uw iPhone of Mac zijn beschikbaar [hier](/docs/howto/how-to-play-local-music-stored-on-your-iphone-or-mac). U kunt ook een map op uw apparaat verbinden en snelle toegang tot de inhoud van de map krijgen. Gebruik het menu-item "Een map verbinden" en kies een map op uw apparaat. Tik op "Voltooid" en de app maakt een koppeling naar die map met lees/schrijftoegang en u kunt bestanden rechtstreeks vanuit deze app beheren. Om de verbinding met de map op uw apparaat te verbreken, tikt u op de knop "Meer acties" en kiest u "Ontkoppelen".
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Bestanden op deze iPhone / iPad / Mac" image="/docs/guide/evermusic/evermusic-guide-local-files/img/local-files-on-this-device.webp" >}}
+  {{< ls-card title="" subtitle="Bestanden op deze iPhone / iPad / Mac" image="/docs/guide/evermusic/evermusic-guide-local-files/img/local-files-on-this-device.webp" >}}
 {{< /cards >}}
 
 ## Bestanden importeren van verbonden USB-flashkaarten
@@ -151,7 +151,7 @@ Het menu meer acties voor de momenteel geopende map bevindt zich in de rechterbo
 Als u meerdere bestanden wilt bewerken, activeer dan de selectiemodus door op de knop meer acties "..." in de navigatiebalk in de rechterbovenhoek te tikken en vervolgens het menu-item "Selecteren" te kiezen. Er worden dan selectievakjes weergegeven naast elk bestand. Selecteer de gewenste bestanden door op hun selectievakjes te tikken. U kunt de volgende acties uitvoeren op de geselecteerde bestanden.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Selectiemodus-acties voor lokale bestanden" image="/docs/guide/evermusic/evermusic-guide-local-files/img/local-files-selection-mode.webp" >}}
+  {{< ls-card title="" subtitle="Selectiemodus-acties voor lokale bestanden" image="/docs/guide/evermusic/evermusic-guide-local-files/img/local-files-selection-mode.webp" >}}
 {{< /cards >}}
 
 - **Volgende afspelen:** Voeg geselecteerde bestanden of mappen bovenaan de speler-wachtrij toe met de huidige sorteervolgorde.
@@ -186,7 +186,7 @@ Voor elk bestand of elke map in de app zijn verschillende acties beschikbaar, to
 ## Offline mappen
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Menu meer acties voor offline mappen" image="/docs/guide/evermusic/evermusic-guide-local-files/img/local-files-offline-folders.webp" >}}
+  {{< ls-card title="" subtitle="Menu meer acties voor offline mappen" image="/docs/guide/evermusic/evermusic-guide-local-files/img/local-files-offline-folders.webp" >}}
 {{< /cards >}}
 
 Offline modus is een handige functie waarmee u uw favoriete muziek kunt beluisteren ook als u niet verbonden bent met internet. Wanneer u de offline modus inschakelt voor een album, artiest, afspeellijst, genre of externe map, worden alle bestanden in die collectie automatisch naar uw apparaat gedownload voor offline afspelen. U kunt deze bestanden gemakkelijk vinden in het gedeelte "Offline mappen" van de app.
@@ -204,7 +204,7 @@ Gedetailleerde instructies over hoe u offline muziek afspeelt in Evermusic & Fla
 Vrijwel elk gedrag van het scherm Lokale bestanden — van netwerkbandbreedte tot waar downloads terechtkomen tot hoe miniaturen worden gecached — is configureerbaar onder **Instellingen → Bestandsbeheerder**. Open het wanneer u de overdrachtssnelheid wilt verfijnen, opslagruimte wilt besparen of de app wilt beperken tot alleen Wi-Fi.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Instellingenscherm bestandsbeheerder" image="/docs/guide/evermusic/evermusic-guide-local-files/img/local-files-file-manager-settings.webp" >}}
+  {{< ls-card title="" subtitle="Instellingenscherm bestandsbeheerder" image="/docs/guide/evermusic/evermusic-guide-local-files/img/local-files-file-manager-settings.webp" >}}
 {{< /cards >}}
 
 Het scherm geeft elke optie weer gegroepeerd in duidelijk gelabelde secties:

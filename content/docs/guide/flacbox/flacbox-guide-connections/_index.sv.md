@@ -19,7 +19,7 @@ readingTime: 12
 På den här skärmen kan du ansluta alla källor som innehåller din musik. Du kan integrera populära molntjänster som Dropbox, Google Drive, iCloud Drive, OneDrive, MEGA, Box, pCloud, Yandex Disk, Synology Drive och många fler, samt din Mac, PC eller NAS via standardprotokoll. Oavsett om din samling finns på en strömningsvänlig tjänst som Dropbox eller på en personlig NAS som en Synology, QNAP, Buffalo, Apple Time Capsule eller WD My Cloud Home, ansluter Flacbox till dem alla från en enda skärm.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox anslutningsskärm" image="/docs/guide/flacbox/img/connections-main.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox anslutningsskärm" image="/docs/guide/flacbox/img/connections-main.webp" >}}
 {{< /cards >}}
 
 ## Anslut till molnlagring
@@ -30,7 +30,7 @@ På den här skärmen kan du ansluta alla källor som innehåller din musik. Du 
 - Ange dina uppgifter på den officiella auktoriseringssidan som tillhandahålls av molnleverantören och tryck sedan på **Färdig**.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox lägg till en molnlagringstjänst" image="/docs/guide/flacbox/img/add-cloud-storage.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox lägg till en molnlagringstjänst" image="/docs/guide/flacbox/img/add-cloud-storage.webp" >}}
 {{< /cards >}}
 
 Om du stöter på problem, kontrollera din internetanslutning och ditt inloggnings- / lösenord. I premiumversionen av appen kan du lägga till ett obegränsat antal tjänster; gratisversionen stöder upp till tre.
@@ -134,7 +134,7 @@ Det här avsnittet visar alla enheter på ditt lokala nätverk som du kan anslut
 Det här är det snabbaste sättet att hitta en SMB-, WebDAV- eller DLNA-resurs på ditt hemnätverk utan att manuellt skriva IP-adresser.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox tillgängliga enheter på det lokala nätverket" image="/docs/guide/flacbox/img/available-devies.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox tillgängliga enheter på det lokala nätverket" image="/docs/guide/flacbox/img/available-devies.webp" >}}
 {{< /cards >}}
 
 ## Wi-Fi Drive
@@ -149,7 +149,7 @@ Wi-Fi Drive är en bekväm teknik som möjliggör trådlösa filöverföringar f
 - Tryck på **Starta Wi-Fi Drive** för att aktivera Wi-Fi Drive.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox Wi-Fi Drive" image="/docs/guide/flacbox/img/wifi-drive.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox Wi-Fi Drive" image="/docs/guide/flacbox/img/wifi-drive.webp" >}}
 {{< /cards >}}
 
 ### Öppna Wi-Fi Drive på din dator
@@ -234,7 +234,7 @@ Tryck på ikonen **"..."** nära en fils titel för att visa åtgärdsmenyn:
 - **Ta bort** — ta bort filen permanent från din molnlagring. **Den här åtgärden kan inte ångras.**
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox fler åtgärder för en fil i ansluten molnlagring" image="/docs/guide/flacbox/img/more-actions-for-file-in-connected-cloud-storage.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox fler åtgärder för en fil i ansluten molnlagring" image="/docs/guide/flacbox/img/more-actions-for-file-in-connected-cloud-storage.webp" >}}
 {{< /cards >}}
 
 Om listan med åtgärder överskrider det tillgängliga skärmutrymmet, rulla bara ned i åtgärdsmenyn för att se fler alternativ.
@@ -261,7 +261,7 @@ För varje mapp i din molnlagring finns ett brett urval av åtgärder tillgängl
 Avsnittet Snabbåtkomst finns längst upp på skärmen. Det ger dig snabb åtkomst till dina favorit- och nyligen öppnade filer från anslutna molntjänster. Varje gång du öppnar en fil eller mapp från molnet läggs den till i listan Nyligen öppnade. För att rensa den här listan, öppna Senaste, tryck på knappen **Fler åtgärder** och välj Ta bort lista. Du kan också markera djupt nästlade mappar som Favoriter för att komma åt dem snabbt utan att gräva sig igenom katalogstrukturen.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox onlinelänkar och snabbåtkomst" image="/docs/guide/flacbox/img/online-links.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox onlinelänkar och snabbåtkomst" image="/docs/guide/flacbox/img/online-links.webp" >}}
 {{< /cards >}}
 
 ## Andra tjänster
@@ -269,5 +269,5 @@ Avsnittet Snabbåtkomst finns längst upp på skärmen. Det ger dig snabb åtkom
 Det här avsnittet visar extra funktioner som förbättrar din upplevelse. För närvarande stöder appen **Last.fm** scrobbling — när den är ansluten skickas din uppspelningsstatistik automatiskt till ditt Last.fm-konto. Du kan sedan besöka din Last.fm-profil för att se lyssningsanalys och få personliga musikrekommendationer. Detaljerade installationsinstruktioner finns [här](/docs/howto/how-to-scrobble-your-music-history-from-evermusic-or-flacbox-to-last-fm).
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox Last.fm-anslutning" image="/docs/guide/flacbox/img/last-fm-connect.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox Last.fm-anslutning" image="/docs/guide/flacbox/img/last-fm-connect.webp" >}}
 {{< /cards >}}

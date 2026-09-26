@@ -7,7 +7,7 @@ tags: ["Evermusic", "Efecte audio", "Ghid", "Reverb", "Delay", "Distorsiune", "C
 readingTime: 8
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 **Pe scurt:** Evermusic include șase efecte audio în timp real — **normalizarea volumului, compresor, reverb, crossfeed, delay și distorsiune**. Deschide-le din **meniul ⋯ (Mai multe) > Efecte audio** al playerului sau din **Setări > Player audio > Efecte audio**. Apasă pe un efect, activează comutatorul acestuia (dreapta sus), alege un **preset** și, opțional, deschide **modul avansat** pentru a regla fin glisoarele. Fiecare efect funcționează independent și se aplică în timp real la tot ce redai — fișiere locale, fluxuri din cloud și radio pe internet — fără recodare.
 
@@ -162,38 +162,38 @@ Ele funcționează, de asemenea, împreună cu **egalizatorul grafic cu 10 benzi
 
 ## Întrebări frecvente
 
-{{% details title="Cum adaug reverb, delay sau alte efecte la muzica mea în Evermusic?" closed="true" %}}
+{{% ls-details title="Cum adaug reverb, delay sau alte efecte la muzica mea în Evermusic?" closed="true" %}}
 Deschide playerul, apasă butonul ⋯ (Mai multe) și alege Efecte audio (sau mergi la Setări > Player audio > Efecte audio). Apasă pe efectul dorit, activează comutatorul acestuia în dreapta sus și alege un preset. Deschide modul avansat pentru a regla fin glisoarele. Efectul se aplică imediat la ce se redă.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Ce efecte audio are Evermusic?" closed="true" %}}
+{{% ls-details title="Ce efecte audio are Evermusic?" closed="true" %}}
 Șase efecte în timp real: normalizarea volumului (nivelarea intensității sonore EBU R128), compresor (dinamică), reverb (spațiu și coadă de ecou), crossfeed (imagine naturală la căști), delay (ecou) și distorsiune (asprime lo-fi). Fiecare este independent și poate fi folosit singur sau combinat.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Efectele modifică sau deteriorează fișierele mele audio?" closed="true" %}}
+{{% ls-details title="Efectele modifică sau deteriorează fișierele mele audio?" closed="true" %}}
 Nu. Toate efectele se aplică în timp real doar în timpul redării. Ele nu modifică și nu recodează niciodată fișierele tale. Dezactivează un efect și sunetul original revine instantaneu.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Pot folosi mai mult de un efect în același timp?" closed="true" %}}
+{{% ls-details title="Pot folosi mai mult de un efect în același timp?" closed="true" %}}
 Da. Fiecare efect este independent — nu există un comutator principal — așa că poți activa orice combinație. De exemplu, normalizarea volumului plus compresorul pentru o ascultare constantă și ușoară, sau reverb plus crossfeed la căști.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Ce este crossfeed și ar trebui să îl folosesc?" closed="true" %}}
+{{% ls-details title="Ce este crossfeed și ar trebui să îl folosesc?" closed="true" %}}
 Crossfeed amestecă o cantitate mică, filtrată din fiecare canal stereo în celălalt, pentru ca căștile să sune mai mult ca niște difuzoare reale, reducând senzația de „în cap" a mixajelor cu panoramare extremă. Este un efect pentru căști (lasă-l dezactivat pentru difuzoare). Este construit pe algoritmul Bauer stereophonic-to-binaural (bs2b) și include preseturi precum Chu Moy și Jan Meier.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Ce este normalizarea volumului și cum diferă de ReplayGain?" closed="true" %}}
+{{% ls-details title="Ce este normalizarea volumului și cum diferă de ReplayGain?" closed="true" %}}
 Normalizarea volumului menține fiecare piesă la o intensitate sonoră constantă, măsurând intensitatea sonoră percepută cu standardul EBU R128 și nivelând-o către o țintă. Spre deosebire de ReplayGain, nu are nevoie de etichete de intensitate sonoră în fișierele tale și nu alterează sunetul — funcționează live pe orice sursă, inclusiv fluxuri din cloud și radio pe internet. Preseturi: Ușor, Standard, Puternic și Nocturn.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Care este diferența dintre modul Simplu și cel Avansat?" closed="true" %}}
+{{% ls-details title="Care este diferența dintre modul Simplu și cel Avansat?" closed="true" %}}
 Modul Simplu afișează o listă de preseturi cu descrieri clare, astfel încât să obții un sunet bun cu o singură apăsare. Modul Avansat adaugă glisoarele de parametri (de exemplu, Mix pentru reverb, sau cele șapte comenzi ale compresorului) pentru un reglaj fin precis. Comută între ele cu butonul de mod din dreapta sus a fiecărui editor de efect.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="De ce sunt comenzile efectului estompate?" closed="true" %}}
+{{% ls-details title="De ce sunt comenzile efectului estompate?" closed="true" %}}
 Efectul este dezactivat. Activează comutatorul efectului din dreapta sus a editorului său pentru a activa comenzile. Fiecare efect este dezactivat implicit.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Funcționează efectele cu streaming și CarPlay?" closed="true" %}}
+{{% ls-details title="Funcționează efectele cu streaming și CarPlay?" closed="true" %}}
 Da. Efectele rulează în interiorul motorului de redare, așa că se aplică la fișiere locale, drive-uri în cloud, servere media și radio pe internet și continuă să funcționeze în timpul redării prin CarPlay.
-{{% /details %}}
+{{% /ls-details %}}

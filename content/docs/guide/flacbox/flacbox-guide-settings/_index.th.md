@@ -21,7 +21,7 @@ readingTime: 16
 หน้าจอการตั้งค่าคือศูนย์ควบคุมของ Flacbox จากที่นี่คุณสามารถอัปเกรดเป็น Premium, กำหนดค่าเครื่องมือเสียง (โคเดกระบบหรือ FFmpeg), จัดการคลังเพลง, ตั้งค่าตัวจัดการไฟล์, ปรับแต่งตัวแก้ไขแท็กเสียง, เปิดใช้งานวิดเจ็ตหน้าจอหลักและ Apple CarPlay, สำรองข้อมูลของคุณ และเข้าถึงข้อมูลช่วยเหลือและข้อมูลทางกฎหมาย ส่วนต่างๆ ถูกจัดกลุ่มภายใต้หัวข้อ: การซื้อ & อัปเดต, การตั้งค่าแอป, ช่วยเหลือ และกฎหมาย & ความเป็นส่วนตัว
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="หน้าจอหลักการตั้งค่า Flacbox" image="/docs/guide/flacbox/img/settings-main.webp" >}}
+  {{< ls-card title="" subtitle="หน้าจอหลักการตั้งค่า Flacbox" image="/docs/guide/flacbox/img/settings-main.webp" >}}
 {{< /cards >}}
 
 ## อัปเกรดเป็น Premium
@@ -29,13 +29,13 @@ readingTime: 16
 อัปเกรดแอปพลิเคชันเป็นเวอร์ชัน Premium เพื่อลบข้อจำกัดทั้งหมด เวอร์ชันฟรีของแอปพลิเคชันมีตัวเลือกการซื้อในแอปแบบ one-time lifetime และตัวเลือกสมาชิกสองแบบ (1 เดือนและ 1 ปี) เพื่อลบข้อจำกัดทั้งหมดและอัปเกรดเป็น Premium
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox อัปเกรดเป็น Premium" image="/docs/guide/flacbox/img/upgrade-to-premium.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox อัปเกรดเป็น Premium" image="/docs/guide/flacbox/img/upgrade-to-premium.webp" >}}
 {{< /cards >}}
 
 **Family Sharing** เปิดใช้งานสำหรับการซื้อและแผนทั้งหมด เพื่อให้คุณแชร์เวอร์ชัน Premium กับสมาชิกในครอบครัวได้มากถึงห้าคนโดยไม่มีค่าใช้จ่ายเพิ่มเติม
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox เลือกแผน Premium" image="/docs/guide/flacbox/img/select-premium-plan.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox เลือกแผน Premium" image="/docs/guide/flacbox/img/select-premium-plan.webp" >}}
 {{< /cards >}}
 
 คุณสามารถอ่านเพิ่มเติมเกี่ยวกับการซื้อและเวอร์ชัน Premium ได้ที่นี่: [ความแตกต่างระหว่าง Flacbox และ Flacbox Premium คืออะไร](/docs/faq/flacbox/what-is-the-difference-between-flacbox-and-flacbox-premium/)

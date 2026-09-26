@@ -29,7 +29,7 @@ tags: [
 readingTime: 3
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **Ukratko:** Zalijepite bilo koji Internet Archive URL na [archivetom3u.com](https://archivetom3u.com), odaberite format zvuka (MP3, FLAC, OGG) i preuzmite M3U popis za reprodukciju spreman za reprodukciju -- nije potreban račun. Zatim ga uvezite u [Evermusic](https://apps.apple.com/app/apple-store/id885367198?pt=95781850&ct=everappzcom&mt=8) na iPhoneu ili Macu za trenutačnu reprodukciju.
@@ -69,7 +69,7 @@ Možete birati između sljedećih formata:
 Idite na [archive.org](https://archive.org), dodirnite **Audio** i odaberite **Live Music Archive**. Koristite traku za pretraživanje da pronađete žanr, izvođača ili koncert koji želite.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Pretražite glazbu na Internet Archive" image="/docs/howto/how-to-create-m3u-playlist-for-internet-archive-or-live-music-archive/1.internet-archive-search.webp" >}}
+  {{< ls-card title="" subtitle="Pretražite glazbu na Internet Archive" image="/docs/howto/how-to-create-m3u-playlist-for-internet-archive-or-live-music-archive/1.internet-archive-search.webp" >}}
 {{< /cards >}}
 
 ### 2. Kopirajte URL stavke
@@ -77,7 +77,7 @@ Idite na [archive.org](https://archive.org), dodirnite **Audio** i odaberite **L
 Kliknite na željenu stavku i kopirajte njen URL iz adresne trake preglednika.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Kopirajte URL stavke s Internet Archive" image="/docs/howto/how-to-create-m3u-playlist-for-internet-archive-or-live-music-archive/2.internet-archive-copy-item-url.webp" >}}
+  {{< ls-card title="" subtitle="Kopirajte URL stavke s Internet Archive" image="/docs/howto/how-to-create-m3u-playlist-for-internet-archive-or-live-music-archive/2.internet-archive-copy-item-url.webp" >}}
 {{< /cards >}}
 
 ### 3. Zalijepite URL u generator
@@ -85,7 +85,7 @@ Kliknite na željenu stavku i kopirajte njen URL iz adresne trake preglednika.
 Vratite se na [archivetom3u.com](https://archivetom3u.com) i zalijepite kopirani URL u polje za unos.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Zalijepite URL stavke u M3U generator" image="/docs/howto/how-to-create-m3u-playlist-for-internet-archive-or-live-music-archive/3.archive-to-m3u-paste-item-url.webp" >}}
+  {{< ls-card title="" subtitle="Zalijepite URL stavke u M3U generator" image="/docs/howto/how-to-create-m3u-playlist-for-internet-archive-or-live-music-archive/3.archive-to-m3u-paste-item-url.webp" >}}
 {{< /cards >}}
 
 ### 4. Odaberite audio format
@@ -93,7 +93,7 @@ Vratite se na [archivetom3u.com](https://archivetom3u.com) i zalijepite kopirani
 Odaberite željeni format (MP3, FLAC itd.).
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Odaberite željeni audio format" image="/docs/howto/how-to-create-m3u-playlist-for-internet-archive-or-live-music-archive/4.archive-to-m3u-select-format.webp" >}}
+  {{< ls-card title="" subtitle="Odaberite željeni audio format" image="/docs/howto/how-to-create-m3u-playlist-for-internet-archive-or-live-music-archive/4.archive-to-m3u-select-format.webp" >}}
 {{< /cards >}}
 
 ### 5. Generirajte popis za reprodukciju
@@ -101,7 +101,7 @@ Odaberite željeni format (MP3, FLAC itd.).
 Kliknite **Generate Playlist**. Sadržaj `.m3u` bit će prikazan ispod. Možete ga kopirati ili preuzeti.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="M3U popis za reprodukciju generira se automatski" image="/docs/howto/how-to-create-m3u-playlist-for-internet-archive-or-live-music-archive/5.archive-to-m3u-generated-playlist.webp" >}}
+  {{< ls-card title="" subtitle="M3U popis za reprodukciju generira se automatski" image="/docs/howto/how-to-create-m3u-playlist-for-internet-archive-or-live-music-archive/5.archive-to-m3u-generated-playlist.webp" >}}
 {{< /cards >}}
 
 ### 6. Pregledajte pjesme
@@ -109,7 +109,7 @@ Kliknite **Generate Playlist**. Sadržaj `.m3u` bit će prikazan ispod. Možete 
 Pomaknite se prema dolje za pregled svake pjesme. Provjerite da se sve ispravno reproducira.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Pregledajte sve pjesme prije preuzimanja" image="/docs/howto/how-to-create-m3u-playlist-for-internet-archive-or-live-music-archive/6.archive-to-m3u-tracks-preview.webp" >}}
+  {{< ls-card title="" subtitle="Pregledajte sve pjesme prije preuzimanja" image="/docs/howto/how-to-create-m3u-playlist-for-internet-archive-or-live-music-archive/6.archive-to-m3u-tracks-preview.webp" >}}
 {{< /cards >}}
 
 ### 7. Preuzmite popis za reprodukciju
@@ -117,7 +117,7 @@ Pomaknite se prema dolje za pregled svake pjesme. Provjerite da se sve ispravno 
 Kliknite **Download Playlist** za spremanje `.m3u` datoteke na vaš uređaj. Nije potrebna prijava niti račun.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Preuzmite M3U popis za reprodukciju na vaš uređaj" image="/docs/howto/how-to-create-m3u-playlist-for-internet-archive-or-live-music-archive/7.downloaded-m3u-playlist.webp" >}}
+  {{< ls-card title="" subtitle="Preuzmite M3U popis za reprodukciju na vaš uređaj" image="/docs/howto/how-to-create-m3u-playlist-for-internet-archive-or-live-music-archive/7.downloaded-m3u-playlist.webp" >}}
 {{< /cards >}}
 
 ## Kako reproducirati M3U popis za reprodukciju na macOS ili iOS
@@ -125,14 +125,14 @@ Kliknite **Download Playlist** za spremanje `.m3u` datoteke na vaš uređaj. Nij
 Za reprodukciju preuzetog `.m3u` datoteke na vašem Apple uređaju, koristite aplikaciju **Evermusic** (besplatno preuzimanje):
 
 {{< cards cols="1">}}
-{{< card link="https://apps.apple.com/app/apple-store/id1564384601?pt=95781850&ct=everappzcom&mt=8" title="Evermusic macOS" icon="download" tag="Free" >}}
-{{< card link="https://apps.apple.com/app/apple-store/id885367198?pt=95781850&ct=everappzcom&mt=8" title="Evermusic iOS" icon="download" tag="Free" >}}
+{{< ls-card link="https://apps.apple.com/app/apple-store/id1564384601?pt=95781850&ct=everappzcom&mt=8" title="Evermusic macOS" icon="download" tag="Free" >}}
+{{< ls-card link="https://apps.apple.com/app/apple-store/id885367198?pt=95781850&ct=everappzcom&mt=8" title="Evermusic iOS" icon="download" tag="Free" >}}
 {{< /cards >}}
 
 ### 1. Otvorite Evermusic i idite na Popise za reprodukciju
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Otvorite Evermusic i idite na Popise za reprodukciju" image="/docs/howto/how-to-create-m3u-playlist-for-internet-archive-or-live-music-archive/8.evermusic-app-playlists.webp" >}}
+  {{< ls-card title="" subtitle="Otvorite Evermusic i idite na Popise za reprodukciju" image="/docs/howto/how-to-create-m3u-playlist-for-internet-archive-or-live-music-archive/8.evermusic-app-playlists.webp" >}}
 {{< /cards >}}
 
 ### 2. Uvezite popis za reprodukciju
@@ -140,7 +140,7 @@ Za reprodukciju preuzetog `.m3u` datoteke na vašem Apple uređaju, koristite ap
 Dodirnite **Add Playlist**, zatim odaberite **Import Playlist**.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Dodirnite Import Playlist za dodavanje preuzetog M3U" image="/docs/howto/how-to-create-m3u-playlist-for-internet-archive-or-live-music-archive/9.evermusic-app-import-playlist.webp" >}}
+  {{< ls-card title="" subtitle="Dodirnite Import Playlist za dodavanje preuzetog M3U" image="/docs/howto/how-to-create-m3u-playlist-for-internet-archive-or-live-music-archive/9.evermusic-app-import-playlist.webp" >}}
 {{< /cards >}}
 
 ### 3. Odaberite lokaciju popisa za reprodukciju
@@ -148,7 +148,7 @@ Dodirnite **Add Playlist**, zatim odaberite **Import Playlist**.
 Odaberite **Files on this Mac** (ili drugu lokaciju gdje ste spremili datoteku).
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Odaberite lokaciju preuzete datoteke" image="/docs/howto/how-to-create-m3u-playlist-for-internet-archive-or-live-music-archive/10.select-location.webp" >}}
+  {{< ls-card title="" subtitle="Odaberite lokaciju preuzete datoteke" image="/docs/howto/how-to-create-m3u-playlist-for-internet-archive-or-live-music-archive/10.select-location.webp" >}}
 {{< /cards >}}
 
 ### 4. Odobrite pristup mapi
@@ -156,7 +156,7 @@ Odaberite **Files on this Mac** (ili drugu lokaciju gdje ste spremili datoteku).
 Evermusic može pristupiti datotekama samo ako dopustite pristup na razini mape. Odaberite mapu koja sadrži vašu `.m3u` datoteku **i** audio datoteke povezane unutar nje.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Povežite mapu koja se nalazi na vašem uređaju" image="/docs/howto/how-to-create-m3u-playlist-for-internet-archive-or-live-music-archive/11.connect-folder-located-on-your-device.webp" >}}
+  {{< ls-card title="" subtitle="Povežite mapu koja se nalazi na vašem uređaju" image="/docs/howto/how-to-create-m3u-playlist-for-internet-archive-or-live-music-archive/11.connect-folder-located-on-your-device.webp" >}}
 {{< /cards >}}
 
 ### 5. Odaberite mapu Preuzimanja
@@ -164,13 +164,13 @@ Evermusic može pristupiti datotekama samo ako dopustite pristup na razini mape.
 U većini slučajeva, popis za reprodukciju je spremljen u vašoj mapi **Downloads**.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Odaberite mapu Preuzimanja" image="/docs/howto/how-to-create-m3u-playlist-for-internet-archive-or-live-music-archive/12.select-downloads-folder.webp" >}}
+  {{< ls-card title="" subtitle="Odaberite mapu Preuzimanja" image="/docs/howto/how-to-create-m3u-playlist-for-internet-archive-or-live-music-archive/12.select-downloads-folder.webp" >}}
 {{< /cards >}}
 
 Dodirnite **Open** za potvrdu odabira.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Vaša mapa Preuzimanja sada je povezana" image="/docs/howto/how-to-create-m3u-playlist-for-internet-archive-or-live-music-archive/13.downloads-folder-connected.webp" >}}
+  {{< ls-card title="" subtitle="Vaša mapa Preuzimanja sada je povezana" image="/docs/howto/how-to-create-m3u-playlist-for-internet-archive-or-live-music-archive/13.downloads-folder-connected.webp" >}}
 {{< /cards >}}
 
 ### 6. Odaberite datoteku popisa za reprodukciju
@@ -180,7 +180,7 @@ Nakon što je mapa povezana, pronađite i odaberite svoju `.m3u` datoteku.
 Dodirnite **Done** za potvrdu odabira.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Odaberite M3U datoteku popisa za reprodukciju iz mape" image="/docs/howto/how-to-create-m3u-playlist-for-internet-archive-or-live-music-archive/14.m3u-playlist-selected-from-connected-folder.webp" >}}
+  {{< ls-card title="" subtitle="Odaberite M3U datoteku popisa za reprodukciju iz mape" image="/docs/howto/how-to-create-m3u-playlist-for-internet-archive-or-live-music-archive/14.m3u-playlist-selected-from-connected-folder.webp" >}}
 {{< /cards >}}
 
 ### 7. Popis za reprodukciju uspješno uvezen
@@ -188,7 +188,7 @@ Dodirnite **Done** za potvrdu odabira.
 Aplikacija će analizirati popis za reprodukciju i dodati ga u vašu knjižnicu.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Popis za reprodukciju uspješno je uvezen" image="/docs/howto/how-to-create-m3u-playlist-for-internet-archive-or-live-music-archive/15.playlist-imported.webp" >}}
+  {{< ls-card title="" subtitle="Popis za reprodukciju uspješno je uvezen" image="/docs/howto/how-to-create-m3u-playlist-for-internet-archive-or-live-music-archive/15.playlist-imported.webp" >}}
 {{< /cards >}}
 
 ### 8. Otvorite i reproducirajte popis za reprodukciju
@@ -196,13 +196,13 @@ Aplikacija će analizirati popis za reprodukciju i dodati ga u vašu knjižnicu.
 Dodirnite popis za reprodukciju da vidite sve pjesme i pokrenete reprodukciju.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Otvorite popis za reprodukciju i pogledajte popis pjesama" image="/docs/howto/how-to-create-m3u-playlist-for-internet-archive-or-live-music-archive/16.playlist-opened.webp" >}}
+  {{< ls-card title="" subtitle="Otvorite popis za reprodukciju i pogledajte popis pjesama" image="/docs/howto/how-to-create-m3u-playlist-for-internet-archive-or-live-music-archive/16.playlist-opened.webp" >}}
 {{< /cards >}}
 
 Nakon nekoliko sekundi, Evermusic će učitati sve metapodatke i ažurirati prikaz pjesama.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Vaš popis za reprodukciju spreman je za reprodukciju" image="/docs/howto/how-to-create-m3u-playlist-for-internet-archive-or-live-music-archive/17.playlist-opened-2.webp" >}}
+  {{< ls-card title="" subtitle="Vaš popis za reprodukciju spreman je za reprodukciju" image="/docs/howto/how-to-create-m3u-playlist-for-internet-archive-or-live-music-archive/17.playlist-opened-2.webp" >}}
 {{< /cards >}}
 
 ## Privatnost i otvoreni kod
@@ -221,22 +221,22 @@ Sada znate kako stvoriti i uvesti M3U popise za reprodukciju s Internet Archive 
 
 ## Često postavljana pitanja
 
-{{% details title="Je li alat za generiranje M3U besplatan?" closed="true" %}}
+{{% ls-details title="Je li alat za generiranje M3U besplatan?" closed="true" %}}
 Da. Alat na [archivetom3u.com](https://archivetom3u.com) potpuno je besplatan, ne zahtijeva račun i radi u cijelosti u vašem pregledniku.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Koje audio formate mogu uključiti u M3U popis za reprodukciju?" closed="true" %}}
+{{% ls-details title="Koje audio formate mogu uključiti u M3U popis za reprodukciju?" closed="true" %}}
 Možete odabrati VBR MP3, FLAC, 24-bit FLAC ili OGG Vorbis. Samo pjesme dostupne u odabranom formatu pojavit će se u popisu za reprodukciju.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Mogu li reproducirati M3U popise za reprodukciju na iPhoneu ili Macu?" closed="true" %}}
+{{% ls-details title="Mogu li reproducirati M3U popise za reprodukciju na iPhoneu ili Macu?" closed="true" %}}
 Da. Preuzmite besplatnu aplikaciju Evermusic za iOS ili macOS, zatim koristite značajku Import Playlist za učitavanje vaše `.m3u` datoteke.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Pohranjuje li alat moje podatke ili hostira glazbu?" closed="true" %}}
+{{% ls-details title="Pohranjuje li alat moje podatke ili hostira glazbu?" closed="true" %}}
 Ne. Sva obrada odvija se lokalno u vašem pregledniku. Nikakvi podaci se ne pohranjuju, a svi audio streamovi dolaze izravno s archive.org.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Je li ovaj alat povezan s Internet Archive?" closed="true" %}}
+{{% ls-details title="Je li ovaj alat povezan s Internet Archive?" closed="true" %}}
 Ne. To je neovisni projekt otvorenog koda stvoren za praktičnost. Koristi službeni Internet Archive Metadata API za generiranje popisa za reprodukciju.
-{{% /details %}}
+{{% /ls-details %}}

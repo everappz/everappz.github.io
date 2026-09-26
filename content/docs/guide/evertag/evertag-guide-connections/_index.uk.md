@@ -15,7 +15,7 @@ readingTime: 11
 На цьому екрані можна підключити різні джерела з аудіофайлами. Ви можете інтегрувати популярні хмарні сервіси, як-от Google Drive, Dropbox, OneDrive, iCloud та інші, а також підключити Mac або PC. Крім того, є можливість редагувати аудіофайли, що знаходяться в Apple Time Capsule, WD Cloud Home або будь-якому NAS, що підтримує SMB або WebDAV.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evertag Connections Screen" image="/docs/guide/evertag/img/connections.webp" >}}
+  {{< ls-card title="" subtitle="Evertag Connections Screen" image="/docs/guide/evertag/img/connections.webp" >}}
 {{< /cards >}}
 
 ## Швидкий доступ
@@ -151,7 +151,7 @@ iTunes File Sharing — ще одна технологія, що дозволя�
 - **Сітка/Список**: перемикання між режимами перегляду: таблицею та мініатюрами.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evertag Cloud Folder Sort" image="/docs/guide/evertag/img/cloud-storage-sort.webp" >}}
+  {{< ls-card title="" subtitle="Evertag Cloud Folder Sort" image="/docs/guide/evertag/img/cloud-storage-sort.webp" >}}
 {{< /cards >}}
 
 ## Редагування онлайн-файлів
@@ -163,7 +163,7 @@ iTunes File Sharing — ще одна технологія, що дозволя�
 - **Виконайте дії**: після вибору файлів або папок вам будуть доступні різні дії.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evertag File Select" image="/docs/guide/evertag/img/cloud-storage-file-select.webp" >}}
+  {{< ls-card title="" subtitle="Evertag File Select" image="/docs/guide/evertag/img/cloud-storage-file-select.webp" >}}
 {{< /cards >}}
 
 ## Дії з файлами
@@ -180,7 +180,7 @@ iTunes File Sharing — ще одна технологія, що дозволя�
 - **Видалити**: ця дія безповоротно видаляє файл із хмарного сховища. **Цю дію не можна скасувати**.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evertag File Options" image="/docs/guide/evertag/img/cloud-storage-file-options.webp" >}}
+  {{< ls-card title="" subtitle="Evertag File Options" image="/docs/guide/evertag/img/cloud-storage-file-options.webp" >}}
 {{< /cards >}}
 
 Якщо список дій перевищує доступний простір на екрані, просто прокрутіть меню дій вниз, щоб побачити додаткові параметри.
@@ -196,5 +196,5 @@ iTunes File Sharing — ще одна технологія, що дозволя�
 - **Видалити**: ця дія безповоротно видаляє папку та її вміст із хмарного сховища. **Цю дію не можна скасувати**.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evertag Folder Options" image="/docs/guide/evertag/img/cloud-storage-folder-options.webp" >}}
+  {{< ls-card title="" subtitle="Evertag Folder Options" image="/docs/guide/evertag/img/cloud-storage-folder-options.webp" >}}
 {{< /cards >}}

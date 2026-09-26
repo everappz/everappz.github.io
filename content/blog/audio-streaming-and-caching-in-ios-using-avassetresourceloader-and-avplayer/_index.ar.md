@@ -12,7 +12,7 @@ authors:
     image: "/images/about/artem-meleshko-founder-everappz.webp"
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 ![](/blog/audio-streaming-and-caching-in-ios-using-avassetresourceloader-and-avplayer/diagram.png)
 
@@ -140,18 +140,18 @@ self.player = [AVPlayer playerWithPlayerItem:item];
 
 ## الأسئلة الشائعة
 
-{{% details title="متى يجب استخدام AVAssetResourceLoaderDelegate بدلًا من URL مباشر؟" closed="true" %}}
+{{% ls-details title="متى يجب استخدام AVAssetResourceLoaderDelegate بدلًا من URL مباشر؟" closed="true" %}}
 استخدمه عندما تتطلب الخدمة السحابية رؤوس تفويض مخصصة، أو عندما تحتاج إلى تخزين الصوت المبثوث مؤقتًا على القرص، أو عندما تريد تحكمًا دقيقًا في كيفية تحميل البيانات وتخزينها في المخزن المؤقت.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="هل يعمل هذا النهج مع Swift؟" closed="true" %}}
+{{% ls-details title="هل يعمل هذا النهج مع Swift؟" closed="true" %}}
 نعم. يعمل بروتوكول `AVAssetResourceLoaderDelegate` بنفس الطريقة في Swift. الأمثلة المكتوبة بـ Objective-C هنا تترجم مباشرةً.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="هل يمكن استخدام هذا لبث الفيديو أيضًا؟" closed="true" %}}
+{{% ls-details title="هل يمكن استخدام هذا لبث الفيديو أيضًا؟" closed="true" %}}
 نعم. يعمل `AVAssetResourceLoaderDelegate` مع أي نوع وسائط يدعمه AVPlayer، بما في ذلك الفيديو. ينطبق نفس نهج المخطط المخصص.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="هل يدعم هذا تشغيل الصوت في الخلفية؟" closed="true" %}}
+{{% ls-details title="هل يدعم هذا تشغيل الصوت في الخلفية؟" closed="true" %}}
 نعم، طالما تفعّل وضع الخلفية "Audio, AirPlay, and Picture in Picture" في إمكانيات تطبيقك وتضبط `AVAudioSession` بشكل صحيح.
-{{% /details %}}
+{{% /ls-details %}}

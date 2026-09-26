@@ -71,20 +71,20 @@ Tämä opas käy läpi jokaisen Flacboxin osan iPhone-, iPad- ja Mac-laitteilla.
 
 {{< cards cols="2">}}
 
-{{< card icon="map" link="/docs/guide/flacbox/flacbox-guide-navigation" title="Navigointi" subtitle="Tab-palkki iPhonessa, vasen valikko iPadilla ja Macilla, mini-soitin, widgetit, CarPlay." >}}
+{{< ls-card icon="map" link="/docs/guide/flacbox/flacbox-guide-navigation" title="Navigointi" subtitle="Tab-palkki iPhonessa, vasen valikko iPadilla ja Macilla, mini-soitin, widgetit, CarPlay." >}}
 
-{{< card icon="cloud" link="/docs/guide/flacbox/flacbox-guide-connections" title="Yhteydet" subtitle="iCloud, Google Drive, Dropbox, OneDrive, NAS, WebDAV, SMB, DLNA." >}}
+{{< ls-card icon="cloud" link="/docs/guide/flacbox/flacbox-guide-connections" title="Yhteydet" subtitle="iCloud, Google Drive, Dropbox, OneDrive, NAS, WebDAV, SMB, DLNA." >}}
 
-{{< card icon="collection" link="/docs/guide/flacbox/flacbox-guide-music-library" title="Musiikkikirjasto" subtitle="Kappaleet, Albumit, Artistit, Genret, Säveltäjät — synkronoi, hae, muokkaa metatietoja." >}}
+{{< ls-card icon="collection" link="/docs/guide/flacbox/flacbox-guide-music-library" title="Musiikkikirjasto" subtitle="Kappaleet, Albumit, Artistit, Genret, Säveltäjät — synkronoi, hae, muokkaa metatietoja." >}}
 
-{{< card icon="music-note" link="/docs/guide/flacbox/flacbox-guide-playlists" title="Soittolistat" subtitle="Luo, tuo M3U / M3U8 / CUE, järjestä uudelleen ja vie M3U / CSV / TXT-muodossa." >}}
+{{< ls-card icon="music-note" link="/docs/guide/flacbox/flacbox-guide-playlists" title="Soittolistat" subtitle="Luo, tuo M3U / M3U8 / CUE, järjestä uudelleen ja vie M3U / CSV / TXT-muodossa." >}}
 
-{{< card icon="folder" link="/docs/guide/flacbox/flacbox-guide-local-files" title="Paikalliset Tiedostot" subtitle="Offline-musiikki, USB-asemat, Wi-Fi Drive, tiedostohallinta, offline-kansiot." >}}
+{{< ls-card icon="folder" link="/docs/guide/flacbox/flacbox-guide-local-files" title="Paikalliset Tiedostot" subtitle="Offline-musiikki, USB-asemat, Wi-Fi Drive, tiedostohallinta, offline-kansiot." >}}
 
-{{< card icon="play" link="/docs/guide/flacbox/flacbox-guide-player" title="Äänisoitin" subtitle="Hi-res-lähtö, taajuuskorjain, sävelkorkeus, kirjanmerkit, AirPlay, Chromecast, nopeus, unitaituri." >}}
+{{< ls-card icon="play" link="/docs/guide/flacbox/flacbox-guide-player" title="Äänisoitin" subtitle="Hi-res-lähtö, taajuuskorjain, sävelkorkeus, kirjanmerkit, AirPlay, Chromecast, nopeus, unitaituri." >}}
 
-{{< card icon="adjustments" link="/docs/guide/flacbox/flacbox-guide-settings" title="Asetukset" subtitle="Äänimoottori, kirjasto, tiedostohallinta, CarPlay, widgetit, personointi, kieli, varmuuskopio." >}}
+{{< ls-card icon="adjustments" link="/docs/guide/flacbox/flacbox-guide-settings" title="Asetukset" subtitle="Äänimoottori, kirjasto, tiedostohallinta, CarPlay, widgetit, personointi, kieli, varmuuskopio." >}}
 
-{{< card icon="question-mark-circle" link="/docs/faq/flacbox" title="FAQ" subtitle="Löydä vastaukset 50 yleisimpään Flacbox-kysymykseen." >}}
+{{< ls-card icon="question-mark-circle" link="/docs/faq/flacbox" title="FAQ" subtitle="Löydä vastaukset 50 yleisimpään Flacbox-kysymykseen." >}}
 
 {{< /cards >}}

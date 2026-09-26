@@ -7,7 +7,7 @@ tags: ["evermusic", "audio", "editor", "tag", "commenti"]
 readingTime: 4
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **Riepilogo:** Evermusic e Flacbox ti consentono di aggiungere commenti testuali con marcatori temporali a qualsiasi traccia audio, per poi visualizzarli in sincronia durante la riproduzione. Puoi anche visualizzare i testi incorporati e i file LRC. Le funzionalità di commenti e testi sono gratuite in entrambe le app.
@@ -97,22 +97,22 @@ L'aggiunta di commenti alle tracce audio in Evermusic e Flacbox segna un signifi
 
 ## FAQ
 
-{{% details title="La funzione commenti è gratuita in Evermusic e Flacbox?" closed="true" %}}
+{{% ls-details title="La funzione commenti è gratuita in Evermusic e Flacbox?" closed="true" %}}
 Sì. Aggiungere, modificare e visualizzare commenti e testi è una funzionalità gratuita in entrambi Evermusic e Flacbox.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Quale formato devo usare per i commenti temporizzati?" closed="true" %}}
+{{% ls-details title="Quale formato devo usare per i commenti temporizzati?" closed="true" %}}
 Usa il formato del marcatore temporale LRC: `[MM:SS.SS]` seguito dal tuo testo. Ad esempio: `[01:23.45]Questo è il mio commento`. Puoi assegnare più marcatori temporali a una singola riga.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Posso visualizzare testi e file LRC nella stessa schermata?" closed="true" %}}
+{{% ls-details title="Posso visualizzare testi e file LRC nella stessa schermata?" closed="true" %}}
 Sì. La schermata Commenti supporta tre modalità tra cui puoi scorrere: Commenti, Testi incorporati e File LRC.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Dove posso trovare file di testi LRC?" closed="true" %}}
+{{% ls-details title="Dove posso trovare file di testi LRC?" closed="true" %}}
 Testi LRC gratuiti sono disponibili su siti web come Lyricsify.com. Puoi incorporarli nel tag dei testi del tuo file audio o posizionare un file `.lrc` separato accanto al tuo file audio.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Ho bisogno di un'app separata per modificare i tag dei testi?" closed="true" %}}
+{{% ls-details title="Ho bisogno di un'app separata per modificare i tag dei testi?" closed="true" %}}
 Puoi modificare i commenti direttamente in Evermusic e Flacbox. Per modificare specificamente il tag dei testi, usa Evertag, un editor di metadati audio gratuito per iOS e macOS.
-{{% /details %}}
+{{% /ls-details %}}

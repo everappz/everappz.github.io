@@ -12,7 +12,7 @@ authors:
     image: "/images/about/artem-meleshko-founder-everappz.webp"
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 **Yhteenveto:** Asenna [Flacbox App Storesta](https://apps.apple.com/us/app/flacbox-flac-player-music/id1097564256?mt=8) toistaaksesi FLAC-, DSD-, ALAC- ja yli 120 muuta äänimuotoa iPhonella ja Macilla. Tuo tiedostoja iTunes File Sharingin, Wi-Fi Driven tai pilvitallennuksen kautta. Ei tiedostonmuunnosta tarvita.
 
@@ -52,26 +52,26 @@ Tuo tiedostoja **iTunes File Sharingin**, **Wi-Fi Driven**, **pilvitallennuksen*
 
 ## Usein kysytyt kysymykset
 
-{{< details title="Vaatiiko Flacbox tilausta häviöttömien tiedostojen toistoon?" closed="true" >}}
+{{< ls-details title="Vaatiiko Flacbox tilausta häviöttömien tiedostojen toistoon?" closed="true" >}}
 Flacbox tarjoaa perustoistotoiminnot ilman tilausta. Voit tuoda ja toistaa FLAC-, DSD- ja ALAC-tiedostoja heti latauksen jälkeen.
-{{< /details >}}
+{{< /ls-details >}}
 
-{{< details title="Voiko Flacbox toistaa DSD-tiedostoja ilman PCM-muunnosta?" closed="true" >}}
+{{< ls-details title="Voiko Flacbox toistaa DSD-tiedostoja ilman PCM-muunnosta?" closed="true" >}}
 Kyllä, Flacbox tukee natiivista DSD-toistoa mukaan lukien DSD64, DSD128 ja DSD256.
-{{< /details >}}
+{{< /ls-details >}}
 
-{{< details title="Miten siirrän suuria häviöttömiä kokoelmia iPhonelleni?" closed="true" >}}
+{{< ls-details title="Miten siirrän suuria häviöttömiä kokoelmia iPhonelleni?" closed="true" >}}
 Wi-Fi Drive, iTunes File Sharing, pilvitallennus tai ulkoinen asema Lightning/USB-C-sovittimella.
-{{< /details >}}
+{{< /ls-details >}}
 
-{{< details title="Onko äänenlaadun eroa FLAC:n ja ALAC:n välillä Flacboxissa?" closed="true" >}}
+{{< ls-details title="Onko äänenlaadun eroa FLAC:n ja ALAC:n välillä Flacboxissa?" closed="true" >}}
 Molemmat ovat häviöttömiä koodekkeja identtisellä lähdöllä. Flacbox käsittelee molempia samalla tarkkuudella.
-{{< /details >}}
+{{< /ls-details >}}
 
-{{< details title="Mikä on paras tapa toistaa FLAC-tiedostoja iPhonella?" closed="true" >}}
+{{< ls-details title="Mikä on paras tapa toistaa FLAC-tiedostoja iPhonella?" closed="true" >}}
 Asenna Flacbox ja tuo tiedostoja. Natiivi dekoodaus jopa 32-bit/384 kHz.
-{{< /details >}}
+{{< /ls-details >}}
 
-{{< details title="Toimiiko Flacbox NAS:n ja kotipalvelimien kanssa?" closed="true" >}}
+{{< ls-details title="Toimiiko Flacbox NAS:n ja kotipalvelimien kanssa?" closed="true" >}}
 Kyllä, SMB:n, WebDAV:n ja DLNA:n kautta.
-{{< /details >}}
+{{< /ls-details >}}

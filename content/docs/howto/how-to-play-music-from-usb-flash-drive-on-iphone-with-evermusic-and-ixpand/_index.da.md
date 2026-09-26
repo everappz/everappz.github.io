@@ -7,7 +7,7 @@ tags: ["musik", "usb", "ekstern", "ixpand", "sandisk", "iphone", "evermusic"]
 readingTime: 3
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **Resumé:** Evermusic lader dig afspille musik direkte fra et SanDisk iXpand Flash Drive på din iPhone eller iPad. Tilslut drevet, åbn Evermusic, og begynd at lytte -- ingen grund til at kopiere filer til din enhed. Understøtter filhåndtering, afspilningslister, equalizer og AirPlay-streaming.
@@ -69,22 +69,22 @@ Med Evermusic og SanDisk iXpand Flash Drive har du friheden til at nyde din musi
 
 ## FAQ
 
-{{% details title="Hvilke iXpand Flash Drive-modeller understøtter Evermusic?" closed="true" %}}
+{{% ls-details title="Hvilke iXpand Flash Drive-modeller understøtter Evermusic?" closed="true" %}}
 Evermusic understøtter SanDisk iXpand Flash Drives med protokollerne V1, V2, V3, V6 og V7. Du kan kontrollere kompatibiliteten i din iPhones Indstillinger under Generelt > Om > iXpand Flash Drive.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Kan jeg afspille musik fra USB-drevet uden at kopiere filer til min iPhone?" closed="true" %}}
+{{% ls-details title="Kan jeg afspille musik fra USB-drevet uden at kopiere filer til min iPhone?" closed="true" %}}
 Ja. Evermusic afspiller lydfiler direkte fra iXpand Flash Drive. Ingen grund til at kopiere noget til din enheds interne lager.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Hvilke lydformater understøtter Evermusic fra USB-drev?" closed="true" %}}
+{{% ls-details title="Hvilke lydformater understøtter Evermusic fra USB-drev?" closed="true" %}}
 Evermusic understøtter alle større lydformater inklusive MP3, FLAC, AAC, WAV, AIFF, OGG og flere. Enhver lydfil gemt på dit iXpand-drev kan afspilles direkte.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Kan jeg streame musik fra iXpand-drevet til AirPlay-højttalere?" closed="true" %}}
+{{% ls-details title="Kan jeg streame musik fra iXpand-drevet til AirPlay-højttalere?" closed="true" %}}
 Ja. Mens du afspiller musik fra USB-drevet, kan du streame lyd til AirPlay-kompatible enheder som Sonos-højttalere, Apple TV og Google Chromecast.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Hvad skal jeg gøre, hvis mit iXpand-drev ikke genkendes?" closed="true" %}}
+{{% ls-details title="Hvad skal jeg gøre, hvis mit iXpand-drev ikke genkendes?" closed="true" %}}
 Sørg for, at ingen andre apps bruger drevet. Prøv at tage det ud og tilslutte det igen. Hvis din model ikke understøttes, brug en Apple Lightning til USB-adapter til at tilslutte drevet som en standard USB-enhed.
-{{% /details %}}
+{{% /ls-details %}}

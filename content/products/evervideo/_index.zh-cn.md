@@ -16,16 +16,16 @@ screenshots:
   - "https://everappz.com/products/evervideo/screenshots/2880x1800/6.png"
 ---
 
-{{% sr-only %}}
+{{% ls-sr-only %}}
 Evervideo 是一款适用于 iPhone 和 Mac 的免费高清视频播放器，由西班牙软件公司 Everappz 开发。Evervideo 可以播放几乎所有视频格式，包括 MKV、AVI、MP4、MOV、FLV、WMV、WEBM、M4V、TS 和 3GP，无需格式转换。该应用具有 360 度和 VR 视频播放、画中画模式、带有 50 多种预设的视频和音频均衡器、对 SRT、SSA 和 ASS 格式的字幕支持，以及播放速度控制功能。Evervideo 连接到云存储服务，包括 iCloud Drive、Google Drive、Dropbox、OneDrive 和 MEGA，用户可以直接从云端串流视频或下载视频以供离线观看。该应用还支持通过 SMB、WebDAV 和 DLNA 协议进行本地网络串流、通过 Lightning 或 USB-C 转接器播放 USB 闪存驱动器中的视频，以及从电脑进行 Wi-Fi 文件传输。其他功能包括带播放列表的媒体库、AirPlay 和 Chromecast 投屏以及内置文件管理器。Evervideo 可在 App Store 免费下载，提供可选的应用内购买，包括每月订阅 $2.99、每年订阅 $14.99 或一次性终身购买 $29.99。
-{{% /sr-only %}}
+{{% /ls-sr-only %}}
 
 
 
 <!-- force dark theme for this page -->
-{{< force-dark >}}
+{{< ls-force-dark >}}
 
-{{< hextra/hero-container
+{{< ls-hero-container
   image="/products/evervideo/heroimage/hero_1600.png"
   imageWidth="800"
   imageCard="true"
@@ -33,38 +33,38 @@ Evervideo 是一款适用于 iPhone 和 Mac 的免费高清视频播放器，由
 
 <div class="hx:w-full hx:text-center">
 
-{{< downloads-badge >}}
+{{< ls-downloads-badge >}}
 
 <div class="hx:mt-6 hx:mb-6">
 <div class="hx:flex hx:gap-4 hx:items-center hx:justify-center">
-{{< app-icon src="/images/app_icons/png/Evervideo_Icon-App-1024x1024.png" alt="Evervideo Icon" class="hero-headline-icon" size="80" >}}
-{{< hextra/hero-headline >}}
+{{< ls-app-icon src="/images/app_icons/png/Evervideo_Icon-App-1024x1024.png" alt="Evervideo Icon" class="hero-headline-icon" size="80" >}}
+{{< ls-hero-headline >}}
 Evervideo
-{{< /hextra/hero-headline >}}
+{{< /ls-hero-headline >}}
 </div>
 </div>
 
 <div class="hx:mb-12">
-{{< hextra/hero-centered-subtitle >}}
+{{< ls-hero-centered-subtitle >}}
 <strong>高清视频播放器和串流工具 适用于您的 iPhone 和 MAC</strong>
-{{< /hextra/hero-centered-subtitle >}}
+{{< /ls-hero-centered-subtitle >}}
 </div>
 
 
 <div class="hx:mb-6">
-{{< hextra/hero-paragraph >}}
+{{< ls-hero-paragraph >}}
 • 以所有格式观看 360° 和高清视频<br>
 • 从 iCloud、Google Drive、Dropbox、NAS 或您的电脑串流播放<br>
 • 下载视频以随时随地离线观看<br>
 • 启用字幕，使用视频均衡器，并使用播放列表整理视频
-{{< /hextra/hero-paragraph >}}
+{{< /ls-hero-paragraph >}}
 </div>
 
-{{< app-store-badges products="evervideo:ios, evervideo:macos" >}}
+{{< ls-app-store-badges products="evervideo:ios, evervideo:macos" >}}
 
 </div>
 
-{{< /hextra/hero-container >}}
+{{< /ls-hero-container >}}
 
 <div class="hx:mt-6"></div>
 
@@ -72,42 +72,42 @@ Evervideo
 
 {{< hextra/feature-grid >}}
 
-  {{< hextra/feature-card
+  {{< ls-glass-feature-card
     title="播放所有视频和音频格式"
     subtitle=`无需转换文件即可观看视频和听音乐。支持 MP4、MOV、MKV、AVI、FLV、WMV、WEBM、M4V、MP3、FLAC、AAC、ALAC、OGG、OPUS、WAV、WMA 等。`
     icon="film"
     style="background: radial-gradient(circle at 50% 80%, rgba(255,99,71,0.15), rgba(17,24,39,0));"  
   >}}
 
-  {{< hextra/feature-card
+  {{< ls-glass-feature-card
     title="媒体库和播放列表"
     subtitle=`通过专辑、类型或时长分组整理媒体库。自动与云端变更同步。创建、编辑和导出带有自定义排序的 M3U 播放列表。`
     icon="collection"
     style="background: radial-gradient(circle at 50% 80%, rgba(255,165,0,0.15), rgba(17,24,39,0));"  
   >}}
 
-  {{< hextra/feature-card
+  {{< ls-glass-feature-card
     title="音频和视频均衡器"
     subtitle=`通过调整低音、音调、亮度、伽马、饱和度、对比度等自定义视频的画面和声音效果，提供 50+ 视频预设和 20+ 音频预设可选，或创建您自己的预设。`
     icon="adjustments"
     style="background: radial-gradient(circle at 50% 80%, rgba(255,255,0,0.15), rgba(17,24,39,0));" 
   >}}
 
-  {{< hextra/feature-card
+  {{< ls-glass-feature-card
     title="画中画"
     subtitle=`画中画（PiP）让您在使用其他应用时继续在小浮动窗口中观看视频，完全支持 MKV、AVI、MP4 和 MOV 等所有主要格式，队列中视频无缝切换，自动更新播放进度，字幕始终可见。`
     icon="duplicate"
     style="background: radial-gradient(circle at 50% 80%, rgba(0,128,0,0.15), rgba(17,24,39,0));" 
   >}}
 
-  {{< hextra/feature-card
+  {{< ls-glass-feature-card
     title="360° 视频和 VR 模式"
     subtitle=`以前所未有的方式体验 360° 和 VR 视频——移动手机探索每个角度，或使用 VR 头显完全沉浸其中。即时播放来自 Insta360 摄像头和类似设备的 360° 视频，流畅播放无需设置。`
     icon="video-camera"
     style="background: radial-gradient(circle at 50% 80%, rgba(0,191,255,0.15), rgba(17,24,39,0));"  
   >}}
 
-  {{< hextra/feature-card
+  {{< ls-glass-feature-card
     title="无缝串流和云端连接"
     subtitle=`直接从 Mac、PC、NAS、USB 闪存驱动器或云存储串流视频，并使用 Wi-Fi Drive 或 iTunes 文件共享传输媒体文件。通过 Synology Drive、WD My Cloud Home 和类似 NAS 设备，随时随地访问您的完整视频库，即使是远程访问。`
     icon="cloud"
@@ -120,9 +120,9 @@ Evervideo
 
 <div class="hx:mt-6"></div>
 
-{{< hextra/section-headline >}}
+{{< ls-section-headline >}}
 所有功能
-{{< /hextra/section-headline >}}
+{{< /ls-section-headline >}}
 
 <div class="hx:mt-6"></div>
 
@@ -130,35 +130,35 @@ Evervideo
 
 {{< cards >}}
 
-{{< feature-card title="播放所有视频和音频格式" subtitle="无需转换文件即可观看媒体。Evervideo 支持所有主要格式，包括 MKV、AVI、MP4、MOV、FLAC、MP3、AAC、OGG、WAV、WMV 等。" icon="film">}}
+{{< ls-feature-card title="播放所有视频和音频格式" subtitle="无需转换文件即可观看媒体。Evervideo 支持所有主要格式，包括 MKV、AVI、MP4、MOV、FLAC、MP3、AAC、OGG、WAV、WMV 等。" icon="film">}}
 
-{{< feature-card title="离线模式" subtitle="下载视频、专辑和播放列表以在无网络连接时观看。随身携带您的完整视频合集。" icon="download">}}
+{{< ls-feature-card title="离线模式" subtitle="下载视频、专辑和播放列表以在无网络连接时观看。随身携带您的完整视频合集。" icon="download">}}
 
-{{< feature-card title="360° 视频和 VR 模式" subtitle="以有趣且简单的方式观看 360° 和 VR 视频。移动手机即可环顾四周，或戴上 VR 头显感受身临其境。" icon="video-camera">}}
+{{< ls-feature-card title="360° 视频和 VR 模式" subtitle="以有趣且简单的方式观看 360° 和 VR 视频。移动手机即可环顾四周，或戴上 VR 头显感受身临其境。" icon="video-camera">}}
 
-{{< feature-card title="画中画" subtitle="在使用其他应用时继续在小浮动窗口中观看视频。同时控制播放和查看字幕——非常适合多任务处理。" icon="duplicate">}}
+{{< ls-feature-card title="画中画" subtitle="在使用其他应用时继续在小浮动窗口中观看视频。同时控制播放和查看字幕——非常适合多任务处理。" icon="duplicate">}}
 
-{{< feature-card title="视频和音频均衡器" subtitle="自定义视频的画面和声音效果。调整低音、音调、亮度、伽马、饱和度、对比度等。从 50+ 视频预设和 20+ 音频预设中选择，或创建您自己的。" icon="adjustments">}}
+{{< ls-feature-card title="视频和音频均衡器" subtitle="自定义视频的画面和声音效果。调整低音、音调、亮度、伽马、饱和度、对比度等。从 50+ 视频预设和 20+ 音频预设中选择，或创建您自己的。" icon="adjustments">}}
 
-{{< feature-card title="字幕" subtitle="查看内嵌字幕，选择字幕轨道编号，即使在画中画模式下也能享受完整的字幕支持。" icon="annotation" >}}
+{{< ls-feature-card title="字幕" subtitle="查看内嵌字幕，选择字幕轨道编号，即使在画中画模式下也能享受完整的字幕支持。" icon="annotation" >}}
 
-{{< feature-card title="直接从云端播放" subtitle="直接从云存储观看视频而不占用设备空间。支持 iCloud Drive、Google Drive、Dropbox、OneDrive、MEGA、Synology Drive、pCloud 等。" icon="cloud">}}
+{{< ls-feature-card title="直接从云端播放" subtitle="直接从云存储观看视频而不占用设备空间。支持 iCloud Drive、Google Drive、Dropbox、OneDrive、MEGA、Synology Drive、pCloud 等。" icon="cloud">}}
 
-{{< feature-card title="连接电脑 / NAS" subtitle="通过 SMB、WebDAV 或 DLNA 轻松连接您的 NAS、Mac 或 PC 到家庭网络。支持 Synology Drive 和 WD MyCloud Home 的远程访问。通过 Wi-Fi 或 iTunes 文件共享将媒体文件传输到您的设备。" icon="desktop-computer">}}
+{{< ls-feature-card title="连接电脑 / NAS" subtitle="通过 SMB、WebDAV 或 DLNA 轻松连接您的 NAS、Mac 或 PC 到家庭网络。支持 Synology Drive 和 WD MyCloud Home 的远程访问。通过 Wi-Fi 或 iTunes 文件共享将媒体文件传输到您的设备。" icon="desktop-computer">}}
 
-{{< feature-card title="媒体库" subtitle="按专辑、类型或时长整理。自动与云端变更同步。创建、编辑和导出带有自定义排序的 M3U 播放列表。" icon="library" >}}
+{{< ls-feature-card title="媒体库" subtitle="按专辑、类型或时长整理。自动与云端变更同步。创建、编辑和导出带有自定义排序的 M3U 播放列表。" icon="library" >}}
 
-{{< feature-card title="书签和播放位置保存" subtitle="使用书签保存任何视频中的位置，并从上次中断处继续播放。调整播放速度，标记收藏，按播放次数排序视频以便快速访问。" icon="book-open">}}
+{{< ls-feature-card title="书签和播放位置保存" subtitle="使用书签保存任何视频中的位置，并从上次中断处继续播放。调整播放速度，标记收藏，按播放次数排序视频以便快速访问。" icon="book-open">}}
 
-{{< feature-card title="AirPlay 和 Chromecast" subtitle="通过串流到 Apple TV、Chromecast 或任何兼容的外部显示器，在更大的屏幕上播放视频。" icon="device-mobile">}}
+{{< ls-feature-card title="AirPlay 和 Chromecast" subtitle="通过串流到 Apple TV、Chromecast 或任何兼容的外部显示器，在更大的屏幕上播放视频。" icon="device-mobile">}}
 
-{{< feature-card title="从 Files 和资料库导入" subtitle="直接从 Files 应用、Photos 或您的 iTunes 资料库导入视频。在一个有序的媒体库中访问您所有的本地和云端内容。" icon="database">}}
+{{< ls-feature-card title="从 Files 和资料库导入" subtitle="直接从 Files 应用、Photos 或您的 iTunes 资料库导入视频。在一个有序的媒体库中访问您所有的本地和云端内容。" icon="database">}}
 
-{{< feature-card title="文件管理器" subtitle="直接在应用内移动、重命名、删除和整理文件。" icon="folder">}}
+{{< ls-feature-card title="文件管理器" subtitle="直接在应用内移动、重命名、删除和整理文件。" icon="folder">}}
 
-{{< feature-card title="个性化" subtitle="根据您的偏好自定义应用。选择主题，显示或隐藏功能，并根据需要调整界面。" icon="sun">}}
+{{< ls-feature-card title="个性化" subtitle="根据您的偏好自定义应用。选择主题，显示或隐藏功能，并根据需要调整界面。" icon="sun">}}
 
-{{< feature-card title="智能搜索" subtitle="使用关键词或筛选器快速查找媒体库中的视频、专辑或播放列表。" icon="search" >}}
+{{< ls-feature-card title="智能搜索" subtitle="使用关键词或筛选器快速查找媒体库中的视频、专辑或播放列表。" icon="search" >}}
 
 
 
@@ -168,9 +168,9 @@ Evervideo
 
 <div class="hx:mt-6"></div>
 
-{{< hextra/section-headline >}}
+{{< ls-section-headline >}}
 直观设计
-{{< /hextra/section-headline >}}
+{{< /ls-section-headline >}}
 
 <div class="hx:mt-6"></div>
 
@@ -178,7 +178,7 @@ Evervideo
 
 {{< cards cols="4">}}
 
-  {{< design-feature-card 
+  {{< ls-design-feature-card 
     image="/products/evervideo/screenshots/2880x1800/1.png" 
     title="视频播放器" 
     method="Fill"
@@ -187,7 +187,7 @@ Evervideo
     icon="play"
   >}}
 
-  {{< design-feature-card 
+  {{< ls-design-feature-card 
     image="/products/evervideo/screenshots/2880x1800/3.png" 
     title="音频和视频均衡器" 
     method="Fill"
@@ -196,7 +196,7 @@ Evervideo
     icon="adjustments"
   >}}
 
-  {{< design-feature-card 
+  {{< ls-design-feature-card 
     image="/products/evervideo/screenshots/2880x1800/6.png" 
     title="播放列表管理器" 
     method="Fill"
@@ -205,7 +205,7 @@ Evervideo
     icon="collection"
   >}}
 
-  {{< design-feature-card 
+  {{< ls-design-feature-card 
     image="/products/evervideo/screenshots/2880x1800/5.png" 
     title="媒体库" 
     method="Fill"
@@ -214,7 +214,7 @@ Evervideo
     icon="library"
   >}}
 
-  {{< design-feature-card 
+  {{< ls-design-feature-card 
     image="/products/evervideo/screenshots/2880x1800/7.png"  
     title="云存储" 
     method="Fill"
@@ -223,7 +223,7 @@ Evervideo
     icon="cloud"
   >}}
 
-  {{< design-feature-card 
+  {{< ls-design-feature-card 
     image="/products/evervideo/screenshots/2880x1800/9.png"  
     title="文件管理器" 
     method="Fill"
@@ -241,49 +241,49 @@ Evervideo
 <div class="hx:mt-6"></div>
 
 <div class="hx:w-full">
-{{< appstore-reviews apps="6602897336,6743504109" stars="5,4"  app="Evervideo" >}}
+{{< ls-appstore-reviews apps="6602897336,6743504109" stars="5,4"  app="Evervideo" >}}
 </div>
 
 
 <div class="hx:mt-6"></div>
 
-{{< hextra/section-headline >}}
+{{< ls-section-headline >}}
    价格方案
-{{< /hextra/section-headline >}}
+{{< /ls-section-headline >}}
 
 <div class="hx:mt-6"></div>
 
 <div class="hx:w-full">
 
-{{< pricing-plans >}}
+{{< ls-pricing-plans >}}
 
 </div>
 
 <div class="hx:mt-6"></div>
 
 <div class="hx:w-full hx:mx-auto hx:flex hx:flex-col hx:items-center">
-  {{< hextra/info-paragraph border="true" >}}
+  {{< ls-info-paragraph border="true" >}}
    <strong>家人共享</strong>：所有购买和订阅均支持家人共享，让您与家人共享 Premium 访问权限。<br><strong>通用访问</strong>：终身和订阅方案通过 iCloud 同步在 iOS 和 Mac 设备之间共享。<br><strong>价格</strong>：价格以美元显示，适用于美国地区。最终价格可能因您所在地区而异。  
-  {{< /hextra/info-paragraph >}}
+  {{< /ls-info-paragraph >}}
 </div>
 
 <div class="hx:mt-6"></div>
 
 <div class="hx:w-full">
-{{< app-details heading="true" >}}
+{{< ls-app-details heading="true" >}}
 </div>
 
 <div class="hx:mt-6"></div>
 
-{{< hextra/section-headline >}}
+{{< ls-section-headline >}}
    常见问题
-{{< /hextra/section-headline >}}
+{{< /ls-section-headline >}}
 
 <div class="hx:mt-6"></div>
 
 <div class="hx:w-full">
 
-{{% details title="Evervideo 是如何工作的？" closed="true" %}}
+{{% ls-details title="Evervideo 是如何工作的？" closed="true" %}}
 Evervideo 是一款高清视频播放器，让您像管理普通文件一样管理视频。<br>
 您可以将整个视频合集上传到 Dropbox、OneDrive、iCloud 或个人 NAS 等云服务，并直接从云端播放视频，拥有完全控制权。<br><br>
 无需 iTunes 同步——像处理任何文件一样从 PC 或 Mac 上传即可。<br>
@@ -293,9 +293,9 @@ Evervideo 是一款高清视频播放器，让您像管理普通文件一样管�
 - [Evervideo 指南](/docs/guide/evervideo/)<br>
 - [如何使用 WiFi-Drive 从电脑无线传输文件到 iPhone](/docs/howto/how-to-transfer-files-wirelessly-from-a-computer-to-an-iphone-using-wifi-drive)<br>
 
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Evervideo 免费吗？" closed="true" %}}
+{{% ls-details title="Evervideo 免费吗？" closed="true" %}}
 Evervideo 可免费使用，但有一些限制，升级到 Premium 版本即可解除这些限制。<br>
 您可以选择一次性终身购买或两种订阅选项（月度或年度）。价格可能因地区而异。<br><br>
 
@@ -304,9 +304,9 @@ Evervideo 可免费使用，但有一些限制，升级到 Premium 版本即可�
 Premium 购买和订阅通过 iCloud 在 iOS 和 Mac 之间共享。要同步您的购买，请确保 iCloud 已启用，在 iOS 设备上打开应用，然后等待一分钟完成同步。<br><br>
 
 [了解更多关于 Evervideo 和 Evervideo Premium 的区别](/docs/faq/evervideo/what-is-the-difference-between-evervideo-and-evervideo-premium/)
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="如何使用 Evervideo？" closed="true" %}}
+{{% ls-details title="如何使用 Evervideo？" closed="true" %}}
 
 **安装 Evervideo**<br>
 从设备的应用商店下载并安装 Evervideo 应用。支持 iOS 和 Mac 设备。<br><br>
@@ -355,9 +355,9 @@ Premium 购买和订阅通过 iCloud 在 iOS 和 Mac 之间共享。要同步您
 **享受您的视频**<br>
 视频整理好后，使用顶部工具栏进行快速操作，如 **Search**、**Play All**、**Shuffle** 和 **Continue Playback**。<br><br>
 
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Evervideo 安全吗？" closed="true" %}}
+{{% ls-details title="Evervideo 安全吗？" closed="true" %}}
 Evervideo 仅使用官方 SDK 和安全连接与已连接的云服务交互。您的用户名和密码不会被应用访问。从应用到云服务的所有请求都经过加密。<br>
 当您输入用户名和密码时，应用会显示由云服务提供商提供的官方授权页面，整个授权过程在应用外部完成。云服务提供商在成功授权后向应用发送 auth-token，该令牌用于进行 API 调用。<br><br>
 
@@ -368,22 +368,22 @@ Auth-token 是一个数字密钥，允许第三方应用与云存储交互。Aut
 
 您也可以在应用中断开已连接的云账户，auth-token 也将从设备中删除。如果您从设备中删除应用，所有下载的数据和访问令牌也将被删除。<br><br>
 
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="如何在 Evervideo 中创建播放列表？" closed="true" %}}
+{{% ls-details title="如何在 Evervideo 中创建播放列表？" closed="true" %}}
 - 打开 Playlists 部分。<br>
 - 点击右上角的"+"按钮或"..."按钮，选择"New Playlist。"<br>
 - 输入播放列表名称并点击"Save。""Add Media Files"对话框将出现。<br>
 - 选择要添加到播放列表的曲目。<br><br>
 
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Evervideo 支持哪些云服务？" closed="true" %}}
+{{% ls-details title="Evervideo 支持哪些云服务？" closed="true" %}}
 目前，应用支持最流行的云服务：iCloud Drive、Google Drive、Dropbox、OneDrive、Box、MEGA、Yandex.Disk、DLNA、MediaFire、WebDAV、SMB、pCloud、Cloud Mail.ru、Put.io。<br><br>
 
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="如何在 Evervideo 中启用离线模式？" closed="true" %}}
+{{% ls-details title="如何在 Evervideo 中启用离线模式？" closed="true" %}}
 - 连接云存储：<br>
  • 前往"Files"标签。<br>
  • 选择"Connect to cloud storage"并按照提示连接所需服务。<br><br>
@@ -408,9 +408,9 @@ Auth-token 是一个数字密钥，允许第三方应用与云存储交互。Aut
  • 要手动同步，前往"Settings" > "File manager" > "Offline folders" > "Synchronized offline folders。"<br>
  • 点击"More actions"并选择"Start synchronization。"<br><br>
 
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="如何在 iPhone 上播放本地下载的视频？" closed="true" %}}
+{{% ls-details title="如何在 iPhone 上播放本地下载的视频？" closed="true" %}}
 安装应用后，打开"Files"屏幕并向下滚动到"Files on this iPhone"部分。从那里，如果需要选择多个文件，选择"Open files..."，如果想选择媒体文件夹，选择"Open folder..."。应用将扫描文件夹内容，所有找到的媒体文件将被选中。导航到您的媒体文件夹，点击"Open"确认选择，文件将被添加到播放队列。这些文件将直接从选定位置播放，不会被复制到应用包中。<br><br>
 
 **将文件夹添加到收藏以快速访问**<br>
@@ -422,13 +422,13 @@ Auth-token 是一个数字密钥，允许第三方应用与云存储交互。Aut
 **将本地文件添加到播放列表**<br>
 要将本地文件添加到播放列表，打开"Playlists"屏幕，点击右上角的更多按钮。选择"+ New Playlist"，输入新播放列表的名称，在下一个屏幕中选择"Files on this device"选项并点击"Open Files..."。选择要添加的媒体文件并点击"Open"确认。文件将添加到播放列表中，您可以使用更多按钮更改曲目顺序和执行其他操作。<br><br>
 
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="如何从上次停止的地方继续播放列表？" closed="true" %}}
+{{% ls-details title="如何从上次停止的地方继续播放列表？" closed="true" %}}
 首先，确保在 Settings > Media Player > General 中启用了"Save Media Player State"。当您切换到另一个播放列表并返回时，您将在专辑封面下方的顶部工具栏上看到四个操作："Search"、"Continue Playback"、"Play All"和"Shuffle All"。点击"Continue Playback"从上次保存的状态和媒体位置继续播放列表。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="如何从电脑传输视频到 Evervideo？" closed="true" %}}
+{{% ls-details title="如何从电脑传输视频到 Evervideo？" closed="true" %}}
 您可以使用 SMB、WebDAV 或 DLNA 协议连接电脑或个人 NAS。或者，使用 iTunes 文件共享传输媒体文件。<br><br>
 
 要使用 SMB 协议连接电脑，点击"Files""Connect to cloud storage" → SMB。在 URL 字段中输入电脑 IP 地址和共享文件夹名称，格式为 smb://computer-ip-address/shared-folder-name，输入用户名和密码并点击"Done"。如果连接成功，您将在"Cloud storage"部分看到已连接的存储。<br><br>
@@ -447,9 +447,9 @@ iTunes 文件共享是另一种技术，允许您使用 iTunes 和 Lightning 线
 详细说明请访问：<br>
 [如何在 iPhone 上播放本地文件（iTunes 文件）](/docs/howto/how-to-play-local-itunes-files-on-my-iphone)<br><br>
 
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="如何下载视频？" closed="true" %}}
+{{% ls-details title="如何下载视频？" closed="true" %}}
 在下载视频并离线观看之前，您需要连接云存储。<br>
 只需打开"Files"屏幕并连接您的云存储。<br>
 添加后，您可以从云端下载视频。<br><br>
@@ -465,14 +465,14 @@ iTunes 文件共享是另一种技术，允许您使用 iTunes 和 Lightning 线
 – 点击"Offline mode"复选框<br>
 – 离线的艺术家/专辑/播放列表将出现在"Files" -> "Offline folders"部分。<br><br>
 
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Evervideo 支持哪些音频格式？" closed="true" %}}
+{{% ls-details title="Evervideo 支持哪些音频格式？" closed="true" %}}
 此应用支持默认的**系统音频编解码器**和额外的 **ffmpeg 软件编解码器**：<br><br>
 3g2, 3gp, 3gp2, 3gpp, 8svx, aa, aac, aax, ac3, act, adt, adts, aif, aifc, aiff, alac, amr, amv, ape, asf, au, avi, awb, caf, cavs, cdda, cue, dct, dff, drc, dsf, dss, dvf, "dvr-ms", ec3, f4a, f4b, f4p, f4v, flac, flv, gif, gifv, gsm, gxf, h261, h263, h264, ifv, iklax, ivf, ivs, l16, latm, loas, m2t, m2ts, m2v, m3u, m3u8, m4a, m4b, m4p, m4r, m4v, mka, mkv, mmf, mng, mod, mogg, mov, mp1, mp2, mp3, mp4, mp4v, mpa, mpc, mpe, mpeg, mpg, mpv, msv, mts, mxf, nsf, nsv, nut, oga, ogg, ogv, opus, pcm, pls, qt, ra, raw, rm, rmvb, roq, rv, sln, snd, svi, tod, tta, vob, voc, vox, vtt, w64, wav, wave, webm, wma, wmv, wv, xhe, xmv, y4m, yuv.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Evervideo 是否支持 NAS 设备？" closed="true" %}}
+{{% ls-details title="Evervideo 是否支持 NAS 设备？" closed="true" %}}
 
 是的，Evervideo 支持使用 **SMB**、**WebDAV** 和 **DLNA** 协议连接 NAS。<br><br>
 
@@ -496,9 +496,9 @@ iTunes 文件共享是另一种技术，允许您使用 iTunes 和 Lightning 线
 • 显示本地网络上所有可发现的 NAS 设备。<br>
 • 点击设备名称进行连接，然后根据需要输入登录凭据。<br><br>
 
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="如何在 Evervideo 中使用 Wi-Fi Drive 功能？" closed="true" %}}
+{{% ls-details title="如何在 Evervideo 中使用 Wi-Fi Drive 功能？" closed="true" %}}
 
 **使用桌面浏览器无线传输**<br>
 1. 启动应用：打开 Evervideo。<br>
@@ -523,39 +523,39 @@ iTunes 文件共享是另一种技术，允许您使用 iTunes 和 Lightning 线
 
 [了解更多](/docs/howto/how-to-transfer-files-wirelessly-from-a-computer-to-an-iphone-using-wifi-drive)
 
-{{% /details %}}
+{{% /ls-details %}}
 
 </div>
 
 
 <div class="hx:mt-6"></div>
 
-{{< hextra/section-headline >}}
+{{< ls-section-headline >}}
   用户指南
-{{< /hextra/section-headline >}}
+{{< /ls-section-headline >}}
 
 <div class="hx:mt-6"></div>
 
 <div class="hx:w-full">
 
 <div class="hx:w-full hx:mx-auto hx:flex hx:flex-col hx:items-center hx:text-center">
-  {{< hextra/info-paragraph border="false" >}}
+  {{< ls-info-paragraph border="false" >}}
   本指南将帮助你在 iPhone、iPad 或 Mac 上充分发挥 Evervideo 的功能。了解如何从云存储和 NAS 流式播放视频、使用画中画、管理字幕以及调节音频和视频均衡器。Evervideo 让你在一个简单的应用中,从任何来源完全掌控你的整个视频收藏。
-  {{< /hextra/info-paragraph >}}
+  {{< /ls-info-paragraph >}}
 </div>
 
 {{< cards >}}
-  {{< feature-card icon="location-marker" title="导航" subtitle="学习如何使用 iPhone 上的标签栏或 iPad 和 Mac 上的左侧菜单,以及屏幕上始终显示的紧凑视频播放器,来浏览 Evervideo。" link="/docs/guide/evervideo/evervideo-guide-navigation" >}}
+  {{< ls-feature-card icon="location-marker" title="导航" subtitle="学习如何使用 iPhone 上的标签栏或 iPad 和 Mac 上的左侧菜单,以及屏幕上始终显示的紧凑视频播放器,来浏览 Evervideo。" link="/docs/guide/evervideo/evervideo-guide-navigation" >}}
 
-  {{< feature-card icon="folder" title="文件" subtitle="在一个统一的标签页中连接云账户、NAS 共享、媒体服务器(Plex、Jellyfin、Emby、Subsonic、Navidrome)、RTSP 流和本地文件。" link="/docs/guide/evervideo/evervideo-guide-files" >}}
+  {{< ls-feature-card icon="folder" title="文件" subtitle="在一个统一的标签页中连接云账户、NAS 共享、媒体服务器(Plex、Jellyfin、Emby、Subsonic、Navidrome)、RTSP 流和本地文件。" link="/docs/guide/evervideo/evervideo-guide-files" >}}
 
-  {{< feature-card icon="library" title="媒体库" subtitle="按专辑、流派、最近播放和收藏整理与浏览你的视频和音乐,同时支持 iOS 照片图库和 Apple Music 媒体库。" link="/docs/guide/evervideo/evervideo-guide-video-library" >}}
+  {{< ls-feature-card icon="library" title="媒体库" subtitle="按专辑、流派、最近播放和收藏整理与浏览你的视频和音乐,同时支持 iOS 照片图库和 Apple Music 媒体库。" link="/docs/guide/evervideo/evervideo-guide-video-library" >}}
 
-  {{< feature-card icon="collection" title="播放列表" subtitle="为视频、音乐、剧集或课程创建并整理播放列表,并导入 M3U / M3U8 / CUE 文件。" link="/docs/guide/evervideo/evervideo-guide-playlists" >}}
+  {{< ls-feature-card icon="collection" title="播放列表" subtitle="为视频、音乐、剧集或课程创建并整理播放列表,并导入 M3U / M3U8 / CUE 文件。" link="/docs/guide/evervideo/evervideo-guide-playlists" >}}
 
-  {{< feature-card icon="play" title="媒体播放器" subtitle="控制播放、队列、画中画、音频与视频轨道、主副字幕以及音频 + 视频均衡器。" link="/docs/guide/evervideo/evervideo-guide-player" >}}
+  {{< ls-feature-card icon="play" title="媒体播放器" subtitle="控制播放、队列、画中画、音频与视频轨道、主副字幕以及音频 + 视频均衡器。" link="/docs/guide/evervideo/evervideo-guide-player" >}}
 
-  {{< feature-card icon="adjustments" title="设置" subtitle="自定义 Evervideo 的外观、解码器、均衡器、字幕、小组件、语言、密码、备份和性能设置。" link="/docs/guide/evervideo/evervideo-guide-settings" >}}
+  {{< ls-feature-card icon="adjustments" title="设置" subtitle="自定义 Evervideo 的外观、解码器、均衡器、字幕、小组件、语言、密码、备份和性能设置。" link="/docs/guide/evervideo/evervideo-guide-settings" >}}
 
 {{< /cards >}}
 

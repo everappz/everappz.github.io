@@ -12,7 +12,7 @@ authors:
     image: "/images/about/artem-meleshko-founder-everappz.webp"
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 **요약:** [Evermusic 8.6](/products/evermusic)은 iPhone, iPad, Mac을 위한 대규모 업데이트입니다. CarPlay를 처음부터 다시 만들었습니다 — 빠른 정렬, 다양한 색상 구성표, 새롭게 디자인된 재생 중 화면, 재생 대기열 전체 보기, 빠른 알파벳 인덱스 스크롤이 추가되었습니다. 이번 릴리스는 **Plex**, **Jellyfin**, **Emby**, **Subsonic**, **Navidrome**, **Internxt**, **Proton Drive**, **QNAP**, **Nextcloud**, **Amazon S3** 외에 **FTP**, **SFTP**, **NFS** 프로토콜 등 10개 이상의 새로운 연결을 추가합니다. 새로운 **동기화 가사 홈 화면 위젯**은 음악을 들으면서 시간 동기화된 가사를 보여줍니다. Wi-Fi Drive는 새로운 UI, 선택 모드, 더 빠른 업로드 큐를 갖췄습니다. 앱 전체가 **Liquid Glass** 디자인에 맞게 업데이트되었으며 **Baidu Netdisk(百度网盘)**, **Aliyun Drive(阿里云盘)**와 같은 중국 서버에서의 스트리밍이 더 안정적으로 동작합니다.
 
@@ -161,54 +161,54 @@ Evermusic 8.6은 세 가지 아이디어를 중심으로 만들어졌습니다.
 
 ## 자주 묻는 질문
 
-{{% details title="Evermusic 8.6의 새로운 점은?" closed="true" %}}
+{{% ls-details title="Evermusic 8.6의 새로운 점은?" closed="true" %}}
 Evermusic 8.6은 완전히 새로 디자인된 CarPlay 경험, 10개 이상의 새로운 연결 지원(Plex, Jellyfin, Emby, Subsonic, Navidrome, Internxt, Proton Drive, QNAP, Nextcloud, Amazon S3, FTP, SFTP, NFS), 새로운 동기화 가사 홈 화면 위젯, 선택 모드를 갖춘 Wi-Fi Drive UI 개선, Liquid Glass 디자인 업데이트, Baidu Netdisk와 Aliyun Drive에 대한 안정성 향상, 다수의 버그 수정을 도입합니다.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Evermusic은 Plex와 함께 작동하나요?" closed="true" %}}
+{{% ls-details title="Evermusic은 Plex와 함께 작동하나요?" closed="true" %}}
 네. Evermusic 8.6부터 Plex Media Server에 연결해 전체 음악 라이브러리를 스트리밍할 수 있습니다. Plex Media Server는 무료로 실행되며, Plex Pass는 선택 사항입니다. Evermusic은 무료 설정과 Plex Pass 설정을 모두 지원합니다.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Evermusic에서 Jellyfin이나 Navidrome이 지원되나요?" closed="true" %}}
+{{% ls-details title="Evermusic에서 Jellyfin이나 Navidrome이 지원되나요?" closed="true" %}}
 네. Jellyfin과 Navidrome 모두 Evermusic 8.6에서 완전히 지원됩니다. Jellyfin은 무료 오픈 소스 미디어 서버이고, Navidrome은 Subsonic API를 구현하는 무료 오픈 소스 음악 서버입니다. Evermusic은 두 가지 모두에 네이티브로 연결됩니다.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Plex, Jellyfin, Emby, Navidrome, Subsonic은 무료인가요?" closed="true" %}}
+{{% ls-details title="Plex, Jellyfin, Emby, Navidrome, Subsonic은 무료인가요?" closed="true" %}}
 - **Plex** — 서버는 무료이며, Plex Pass는 선택형 유료 업그레이드입니다.
 - **Jellyfin** — 완전 무료이며 오픈 소스입니다.
 - **Emby** — 서버는 무료이며, Emby Premiere는 유료로 모바일 동기화와 오프라인을 잠금 해제합니다.
 - **Navidrome** — 완전 무료이며 오픈 소스입니다.
 - **Subsonic** — 공식 서버는 30일 체험 후 월 1달러이지만 API는 공개되어 있고 Navidrome을 비롯한 다수의 무료 서버가 이를 구현합니다.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="가정용 NAS에서 SFTP, FTP, NFS로 스트리밍할 수 있나요?" closed="true" %}}
+{{% ls-details title="가정용 NAS에서 SFTP, FTP, NFS로 스트리밍할 수 있나요?" closed="true" %}}
 네. Evermusic 8.6은 SFTP, FTP, NFS를 네이티브 연결 유형으로 추가합니다. SFTP는 모든 트래픽이 SSH로 암호화되므로 공개 인터넷에서 자체 서버로부터 스트리밍하려는 경우 권장되는 선택입니다. FTP와 NFS는 로컬 네트워크 또는 VPN 뒤에서 사용하는 것이 가장 좋습니다.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="SFTP를 사용해 Evermusic을 사용자 정의 서버에 어떻게 연결하나요?" closed="true" %}}
+{{% ls-details title="SFTP를 사용해 Evermusic을 사용자 정의 서버에 어떻게 연결하나요?" closed="true" %}}
 Evermusic을 열고 연결하기 탭으로 이동해 SFTP를 선택한 다음 서버의 호스트 이름이나 IP, 포트(보통 22), 사용자 이름, 그리고 비밀번호 또는 SSH 개인 키를 입력하세요. Evermusic이 원격 폴더를 탐색하고 엔드 투 엔드 암호화로 오디오 파일을 직접 스트리밍합니다.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Evermusic은 Internxt와 Proton Drive를 지원하나요?" closed="true" %}}
+{{% ls-details title="Evermusic은 Internxt와 Proton Drive를 지원하나요?" closed="true" %}}
 네. Evermusic 8.6부터 두 가지 프라이버시 중심 클라우드를 모두 지원합니다. 앱에서 이미 사용할 수 있는 Mega 등 다른 프라이버시 우선 서비스에 더해집니다.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Evermusic의 Wi-Fi Drive란 무엇인가요?" closed="true" %}}
+{{% ls-details title="Evermusic의 Wi-Fi Drive란 무엇인가요?" closed="true" %}}
 Wi-Fi Drive는 Evermusic에 내장된 무선 파일 전송 기능입니다. iTunes, 케이블, 클라우드 계정 없이 로컬 Wi-Fi 네트워크를 통해 컴퓨터에서 iPhone이나 iPad로 음악을 업로드할 수 있습니다. 모든 데스크톱 브라우저나 Mac Finder, Windows File Explorer 같은 WebDAV 클라이언트를 사용할 수 있습니다. [전체 Wi-Fi Drive 가이드](/docs/howto/how-to-transfer-files-wirelessly-from-a-computer-to-an-iphone-using-wifi-drive/)를 참고하세요.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="새로운 가사 위젯은 어떻게 작동하나요?" closed="true" %}}
+{{% ls-details title="새로운 가사 위젯은 어떻게 작동하나요?" closed="true" %}}
 가사 위젯은 현재 재생 중인 트랙에 대해 시간 동기화된 가사를 iPhone, iPad, Mac 홈 화면에 표시합니다. 표시되는 줄은 곡과 함께 자동으로 진행됩니다. 홈 화면을 길게 누르고 편집 > 위젯 추가를 탭한 뒤 Evermusic을 검색하고 가사 위젯을 선택해 추가하세요.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Evermusic 8.6은 Baidu Netdisk와 Aliyun Drive 재생 문제를 해결하나요?" closed="true" %}}
+{{% ls-details title="Evermusic 8.6은 Baidu Netdisk와 Aliyun Drive 재생 문제를 해결하나요?" closed="true" %}}
 네. 百度网盘(Baidu Netdisk)과 阿里云盘(Aliyun Drive) 모두에서 안정성을 크게 개선했습니다. 디렉터리 목록 표시 속도 향상, 약한 연결에서의 더 똑똑한 재시도, 긴 재생 세션 동안의 더 나은 재개 동작 등이 포함됩니다.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Evermusic 8.6 업데이트는 무료인가요?" closed="true" %}}
+{{% ls-details title="Evermusic 8.6 업데이트는 무료인가요?" closed="true" %}}
 네. Evermusic은 App Store에서 무료로 다운로드할 수 있고, 8.6은 모든 기존 사용자를 위한 무료 업데이트입니다. 새로운 CarPlay, 가사 위젯, 모든 새로운 서버 통합은 기본 업데이트에 포함되어 있습니다.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Evermusic 8.6은 어떤 기기에서 사용할 수 있나요?" closed="true" %}}
+{{% ls-details title="Evermusic 8.6은 어떤 기기에서 사용할 수 있나요?" closed="true" %}}
 Evermusic 8.6은 iPhone, iPad, Mac에서 작동합니다. CarPlay 지원에는 CarPlay 호환 차량이나 애프터마켓 헤드 유닛이 필요합니다.
-{{% /details %}}
+{{% /ls-details %}}

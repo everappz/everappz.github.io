@@ -12,7 +12,7 @@ authors:
     image: "/images/about/artem-meleshko-founder-everappz.webp"
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 **Кратко:** Лучший музыкальный плеер для iPhone зависит от ваших потребностей. **Evermusic** идеален для воспроизведения из облачного хранилища и гибкости форматов. **Apple Music** подходит тем, кто глубоко в экосистеме Apple. **Spotify** отлично справляется с открытием новой музыки. **VLC** бесплатно воспроизводит любые форматы файлов. **Amazon Music** хорошо сочетается с Alexa и Prime.
 
@@ -128,22 +128,22 @@ Amazon Music интегрируется с экосистемой Amazon, пре
 
 ## FAQ
 
-{{% details title="Какой лучший бесплатный музыкальный плеер для iPhone?" closed="true" %}}
+{{% ls-details title="Какой лучший бесплатный музыкальный плеер для iPhone?" closed="true" %}}
 Для воспроизведения собственных файлов Evermusic и VLC — оба бесплатные варианты. Evermusic добавляет интеграцию с облачным хранилищем, а VLC поддерживает самый широкий спектр форматов файлов.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Можно ли воспроизводить файлы FLAC на iPhone?" closed="true" %}}
+{{% ls-details title="Можно ли воспроизводить файлы FLAC на iPhone?" closed="true" %}}
 Да. Evermusic и VLC оба поддерживают воспроизведение FLAC на iPhone. Apple Music и Spotify не воспроизводят файлы FLAC напрямую.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Какое приложение-плеер работает с облачным хранилищем?" closed="true" %}}
+{{% ls-details title="Какое приложение-плеер работает с облачным хранилищем?" closed="true" %}}
 Evermusic — ведущий музыкальный плеер для iPhone со встроенной поддержкой облачного хранилища. Он подключается к iCloud Drive, Dropbox, Google Drive, OneDrive, pCloud и другим сервисам.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Evermusic лучше, чем Apple Music?" closed="true" %}}
+{{% ls-details title="Evermusic лучше, чем Apple Music?" closed="true" %}}
 Они служат разным целям. Evermusic воспроизводит ваши собственные музыкальные файлы из облачного и локального хранилища. Apple Music — это подписной стриминговый сервис с каталогом из 100M+ песен. Если вы владеете собственными музыкальными файлами, Evermusic — лучший выбор.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Можно ли использовать Spotify офлайн на iPhone?" closed="true" %}}
+{{% ls-details title="Можно ли использовать Spotify офлайн на iPhone?" closed="true" %}}
 Да, но только с подпиской Spotify Premium. Бесплатные пользователи Spotify не могут загружать песни для офлайн воспроизведения.
-{{% /details %}}
+{{% /ls-details %}}

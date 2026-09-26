@@ -7,7 +7,7 @@ tags: ["mp3", "Editor", "iPhone", "Tags", "Metadaten", "id3"]
 readingTime: 2
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **Zusammenfassung:** Verwenden Sie den integrierten Tag-Editor in Evermusic oder Flacbox, um ID3-Tags auf iPhone oder Mac zu bearbeiten -- sowohl für Cloud- als auch lokale Dateien. Benötigen Sie Stapelbearbeitung oder 120+ Tag-Felder? Verwenden Sie stattdessen [Evertag](https://apps.apple.com/app/apple-store/id1450763230?pt=95781850&ct=everappzcom&mt=8).
@@ -21,8 +21,8 @@ Wenn Sie Songs in Ihre Musikbibliothek importieren, werden sie intelligent nach 
 Während viele Desktop-Apps Metadaten-Bearbeitung anbieten, bringen Evermusic und Flacbox die Einfachheit auf die nächste Stufe, indem sie einen ID3-Tag-Editor enthalten. Jetzt können Sie eine App verwenden, um Ihre Musikbibliothek aufzubauen, Ihre Titel zu genießen und Audio-Tags zu korrigieren.
 
 {{< cards cols="2">}}
-{{< card link="https://apps.apple.com/app/apple-store/id885367198?pt=95781850&ct=everappzcom&mt=8" title="Evermusic herunterladen" icon="download" tag="Free" >}}
-{{< card link="https://apps.apple.com/app/apple-store/id1097564256?pt=95781850&ct=everappzcom&mt=8" title="Flacbox herunterladen" icon="download" tag="Free" >}}
+{{< ls-card link="https://apps.apple.com/app/apple-store/id885367198?pt=95781850&ct=everappzcom&mt=8" title="Evermusic herunterladen" icon="download" tag="Free" >}}
+{{< ls-card link="https://apps.apple.com/app/apple-store/id1097564256?pt=95781850&ct=everappzcom&mt=8" title="Flacbox herunterladen" icon="download" tag="Free" >}}
 {{< /cards >}}
 
 ## Professioneller Editor
@@ -30,7 +30,7 @@ Während viele Desktop-Apps Metadaten-Bearbeitung anbieten, bringen Evermusic un
 Bevor Sie beginnen, schauen Sie sich die **Evertag**-App an — sie unterstützt **120+ Audio-Tags**, **30+ Audioformate** und bietet leistungsstarke **Stapelbearbeitung**. Wenn Sie ein voll ausgestattetes Tag-Verwaltungswerkzeug suchen, ist Evertag die richtige Wahl. Wenn Sie jedoch nur einen **einfachen Tag-Editor** benötigen, fahren Sie mit dieser Anleitung fort.
 
 {{< cards >}}
-{{< card link="https://apps.apple.com/app/apple-store/id1450763230?pt=95781850&ct=everappzcom&mt=8" title="Evertag herunterladen" icon="download" tag="Free" >}}
+{{< ls-card link="https://apps.apple.com/app/apple-store/id1450763230?pt=95781850&ct=everappzcom&mt=8" title="Evertag herunterladen" icon="download" tag="Free" >}}
 {{< /cards >}}
 
 
@@ -38,21 +38,21 @@ Bevor Sie beginnen, schauen Sie sich die **Evertag**-App an — sie unterstützt
 Verknüpfen Sie Ihr bevorzugtes Cloud-Konto in der App.
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Cloud-Server verbinden" image="/docs/howto/how-to-edit-id3-tags-on-iphone/connect_cloud_server.webp" >}}
+{{< ls-card title="" subtitle="Cloud-Server verbinden" image="/docs/howto/how-to-edit-id3-tags-on-iphone/connect_cloud_server.webp" >}}
 {{< /cards >}}
 
 ## Navigieren Sie zu Ihren Audiodateien  
 Öffnen Sie den Ordner mit Ihren Audiodateien im verbundenen Cloud-Konto.
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Cloud-Ordner" image="/docs/howto/how-to-edit-id3-tags-on-iphone/cloud_server_folders.webp" >}}
+{{< ls-card title="" subtitle="Cloud-Ordner" image="/docs/howto/how-to-edit-id3-tags-on-iphone/cloud_server_folders.webp" >}}
 {{< /cards >}}
 
 ## Dateioptionen aufrufen  
 Tippen Sie auf die Schaltfläche 'Mehr' ('...') neben der Datei, die Sie bearbeiten möchten.
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Weitere Aktionen" image="/docs/howto/how-to-edit-id3-tags-on-iphone/cloud_server_audio_more_actions.webp" >}}
+{{< ls-card title="" subtitle="Weitere Aktionen" image="/docs/howto/how-to-edit-id3-tags-on-iphone/cloud_server_audio_more_actions.webp" >}}
 {{< /cards >}}
 
 ## Wählen Sie 'Audio-Tags bearbeiten'  
@@ -70,7 +70,7 @@ Auf dem Bildschirm 'Tag-Editor' ändern Sie Metadatenfelder wie Titel, Interpret
 Wenn Sie mit der Bearbeitung fertig sind, tippen Sie auf die Schaltfläche 'Speichern', um Ihre Änderungen zu speichern.
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Tag-Editor" image="/docs/howto/how-to-edit-id3-tags-on-iphone/tags_editor.webp" >}}
+{{< ls-card title="" subtitle="Tag-Editor" image="/docs/howto/how-to-edit-id3-tags-on-iphone/tags_editor.webp" >}}
 {{< /cards >}}
 
 ## Intelligente Autovervollständigung  
@@ -88,7 +88,7 @@ Sie können Audio-Tags für Dateien bearbeiten, die **direkt auf Ihrem Gerät** 
 - **Gehen Sie zum Abschnitt "Lokale Dateien"**, scrollen Sie dann nach unten zu **"Dateien auf diesem Gerät."**
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Dateien auf diesem Gerät" image="/docs/howto/how-to-edit-id3-tags-on-iphone/local_files.webp" >}}
+{{< ls-card title="" subtitle="Dateien auf diesem Gerät" image="/docs/howto/how-to-edit-id3-tags-on-iphone/local_files.webp" >}}
 {{< /cards >}}
 
 - Tippen Sie auf **"Ordner verbinden"**.
@@ -96,25 +96,25 @@ Sie können Audio-Tags für Dateien bearbeiten, die **direkt auf Ihrem Gerät** 
 - Wählen Sie im Ordner-Auswahldialog das Verzeichnis, auf das Sie zugreifen möchten, und tippen Sie auf **"Öffnen"** zur Bestätigung.
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Externen Ordner verbinden" image="/docs/howto/how-to-edit-id3-tags-on-iphone/connect_external_folder.webp" >}}
+{{< ls-card title="" subtitle="Externen Ordner verbinden" image="/docs/howto/how-to-edit-id3-tags-on-iphone/connect_external_folder.webp" >}}
 {{< /cards >}}
 
 - Nach dem Hinzufügen des Ordners tippen Sie darauf, um die darin enthaltenen Dateien anzuzeigen.
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Inhalt des externen Ordners" image="/docs/howto/how-to-edit-id3-tags-on-iphone/connected_external_folder.webp" >}}
+{{< ls-card title="" subtitle="Inhalt des externen Ordners" image="/docs/howto/how-to-edit-id3-tags-on-iphone/connected_external_folder.webp" >}}
 {{< /cards >}}
 
 - Genau wie bei Cloud-Dateien tippen Sie auf die Schaltfläche **"Weitere Aktionen"** neben einer Audiodatei und wählen **"Audio-Tags bearbeiten".**
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Weitere Aktionen - Lokale Datei" image="/docs/howto/how-to-edit-id3-tags-on-iphone/more_actions_local_file.webp" >}}
+{{< ls-card title="" subtitle="Weitere Aktionen - Lokale Datei" image="/docs/howto/how-to-edit-id3-tags-on-iphone/more_actions_local_file.webp" >}}
 {{< /cards >}}
 
 - Der Tag-Editor wird geöffnet. Nehmen Sie Ihre Änderungen vor und tippen Sie auf **"Speichern"**. Das war's! Ihre Bearbeitungen werden direkt auf die Datei angewendet — kein Kopieren oder Verschieben nötig.
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Tag-Editor - Lokale Datei" image="/docs/howto/how-to-edit-id3-tags-on-iphone/tag_editor_local_file.webp" >}}
+{{< ls-card title="" subtitle="Tag-Editor - Lokale Datei" image="/docs/howto/how-to-edit-id3-tags-on-iphone/tag_editor_local_file.webp" >}}
 {{< /cards >}}
 
 ## Albumcover bearbeiten
@@ -126,7 +126,7 @@ So ändern Sie ein Albumcover:
 3. Wählen Sie ein Bild als Cover-Art aus.
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Bild auswählen" image="/docs/howto/how-to-edit-id3-tags-on-iphone/tags_editor_choose_image.webp" >}}
+{{< ls-card title="" subtitle="Bild auswählen" image="/docs/howto/how-to-edit-id3-tags-on-iphone/tags_editor_choose_image.webp" >}}
 {{< /cards >}}
 
 ## Weitere Aktionen im Tag-Editor
@@ -134,7 +134,7 @@ So ändern Sie ein Albumcover:
 Zusätzliche Bearbeitungsoptionen sind über die Werkzeugleiste unter der Artwork-Ansicht verfügbar.
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Menü Weitere Aktionen" image="/docs/howto/how-to-edit-id3-tags-on-iphone/tags_edito_more_actions.webp" >}}
+{{< ls-card title="" subtitle="Menü Weitere Aktionen" image="/docs/howto/how-to-edit-id3-tags-on-iphone/tags_edito_more_actions.webp" >}}
 {{< /cards >}}
 
 ### Audio-Tags automatisch suchen
@@ -195,22 +195,22 @@ Vereinfachen Sie Ihre Musikbibliotheksverwaltung und Tag-Bearbeitung mit Evermus
 
 ## FAQ
 
-{{% details title="Welche Audioformate kann ich bearbeiten?" closed="true" %}}
+{{% ls-details title="Welche Audioformate kann ich bearbeiten?" closed="true" %}}
 Evermusic und Flacbox unterstützen die Tag-Bearbeitung für MP3, FLAC, AAC, OGG und andere gängige Audioformate. Evertag unterstützt 30+ Formate einschließlich WAV, AIFF, WMA und APE.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Kann ich Tags für in Cloud-Diensten gespeicherte Dateien bearbeiten?" closed="true" %}}
+{{% ls-details title="Kann ich Tags für in Cloud-Diensten gespeicherte Dateien bearbeiten?" closed="true" %}}
 Ja. Verbinden Sie Ihr Dropbox-, Google Drive-, OneDrive- oder anderes Cloud-Konto. Die App lädt die Datei herunter, lässt Sie Tags bearbeiten und lädt die geänderte Datei automatisch zurück in die Cloud hoch.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Was ist der Unterschied zwischen Evermusic/Flacbox und Evertag?" closed="true" %}}
+{{% ls-details title="Was ist der Unterschied zwischen Evermusic/Flacbox und Evertag?" closed="true" %}}
 Evermusic und Flacbox sind Musikplayer mit einem integrierten einfachen Tag-Editor. Evertag ist ein dedizierter Tag-Editor, der 120+ Audio-Tags, Stapelbearbeitung und 30+ Formate unterstützt -- ideal für die Verwaltung großer Bibliotheken.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Benötigt die Auto-Suche-Funktion eine Internetverbindung?" closed="true" %}}
+{{% ls-details title="Benötigt die Auto-Suche-Funktion eine Internetverbindung?" closed="true" %}}
 Ja. Die Funktion 'Audio-Tags automatisch suchen' fragt die MusicBrainz-Online-Datenbank ab, um Metadaten zu finden und auszufüllen. Eine aktive Internetverbindung ist für diese Funktion erforderlich.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Verändert das Bearbeiten von Tags meine Audioqualität?" closed="true" %}}
+{{% ls-details title="Verändert das Bearbeiten von Tags meine Audioqualität?" closed="true" %}}
 Nein. Die Tag-Bearbeitung ändert nur die in der Datei eingebetteten Metadaten. Die Audiodaten selbst bleiben unberührt -- es findet keine Neukodierung statt.
-{{% /details %}}
+{{% /ls-details %}}

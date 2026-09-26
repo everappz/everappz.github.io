@@ -74,18 +74,18 @@ Evervideo משתמש ב-SDK רשמיים וכניסות מבוססות OAuth מ�
 
 {{< cards cols="2">}}
 
-{{< card icon="map" link="/docs/guide/evervideo/evervideo-guide-navigation" title="ניווט" subtitle="סרגל כרטיסיות ב-iPhone, תפריט שמאל ב-iPad ו-Mac, נגן מדיה קומפקטי תמידי על המסך." >}}
+{{< ls-card icon="map" link="/docs/guide/evervideo/evervideo-guide-navigation" title="ניווט" subtitle="סרגל כרטיסיות ב-iPhone, תפריט שמאל ב-iPad ו-Mac, נגן מדיה קומפקטי תמידי על המסך." >}}
 
-{{< card icon="folder" link="/docs/guide/evervideo/evervideo-guide-files" title="קבצים" subtitle="כרטיסיה מאוחדת אחת לענן, NAS, שידורי RTSP, קבצים מקומיים, כוננים USB ותור ההעברות." >}}
+{{< ls-card icon="folder" link="/docs/guide/evervideo/evervideo-guide-files" title="קבצים" subtitle="כרטיסיה מאוחדת אחת לענן, NAS, שידורי RTSP, קבצים מקומיים, כוננים USB ותור ההעברות." >}}
 
-{{< card icon="collection" link="/docs/guide/evervideo/evervideo-guide-video-library" title="ספריית מדיה" subtitle="עיון לפי אלבומים, ז'אנרים, אחרונים, מועדפים — פלוס ספריית iOS Photos וספריית Apple Music." >}}
+{{< ls-card icon="collection" link="/docs/guide/evervideo/evervideo-guide-video-library" title="ספריית מדיה" subtitle="עיון לפי אלבומים, ז'אנרים, אחרונים, מועדפים — פלוס ספריית iOS Photos וספריית Apple Music." >}}
 
-{{< card icon="music-note" link="/docs/guide/evervideo/evervideo-guide-playlists" title="רשימות השמעה" subtitle="בנו רשימות השמעה מהענן, קבצים מקומיים, Photos או ספריית המוזיקה, ייבוא M3U / M3U8 / CUE." >}}
+{{< ls-card icon="music-note" link="/docs/guide/evervideo/evervideo-guide-playlists" title="רשימות השמעה" subtitle="בנו רשימות השמעה מהענן, קבצים מקומיים, Photos או ספריית המוזיקה, ייבוא M3U / M3U8 / CUE." >}}
 
-{{< card icon="play" link="/docs/guide/evervideo/evervideo-guide-player" title="נגן מדיה" subtitle="Picture-in-Picture, מסלולי שמע ווידאו, כתוביות, אקוולייזרים שמע + וידאו, AirPlay, Chromecast." >}}
+{{< ls-card icon="play" link="/docs/guide/evervideo/evervideo-guide-player" title="נגן מדיה" subtitle="Picture-in-Picture, מסלולי שמע ווידאו, כתוביות, אקוולייזרים שמע + וידאו, AirPlay, Chromecast." >}}
 
-{{< card icon="adjustments" link="/docs/guide/evervideo/evervideo-guide-settings" title="הגדרות" subtitle="מנוע שמע, מפענח וידאו, כתוביות, ספרייה, מנהל קבצים, widgets, התאמה אישית, שפה, גיבוי." >}}
+{{< ls-card icon="adjustments" link="/docs/guide/evervideo/evervideo-guide-settings" title="הגדרות" subtitle="מנוע שמע, מפענח וידאו, כתוביות, ספרייה, מנהל קבצים, widgets, התאמה אישית, שפה, גיבוי." >}}
 
-{{< card icon="question-mark-circle" link="/docs/faq/evervideo" title="שאלות נפוצות" subtitle="מצאו תשובות לשאלות הנפוצות ביותר על Evervideo." >}}
+{{< ls-card icon="question-mark-circle" link="/docs/faq/evervideo" title="שאלות נפוצות" subtitle="מצאו תשובות לשאלות הנפוצות ביותר על Evervideo." >}}
 
 {{< /cards >}}

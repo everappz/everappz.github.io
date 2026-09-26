@@ -7,7 +7,7 @@ tags: ["carplay", "אייפון", "מוזיקה מקומית", "השמעה לא 
 readingTime: 5
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **בקצרה:** השתמש ב-[Evermusic](https://apps.apple.com/app/apple-store/id885367198?pt=95781850&ct=everappzcom&mt=8) או ב-[Flacbox](https://apps.apple.com/app/apple-store/id1097564256?pt=95781850&ct=everappzcom&mt=8) כדי להשמיע קבצי MP3, FLAC או קבצי שמע אחרים באייפון דרך Apple CarPlay. הוסף מוזיקה מאחסון ענן, USB או העברת Wi-Fi, ולאחר מכן עיין בספרייה, ברשימות השמעה ובתיקיות ישירות על מסך הרכב שלך.
@@ -17,7 +17,7 @@ readingTime: 5
 רוצה להשמיע מוזיקה משלך ברכב באמצעות Apple CarPlay? בין אם השירים שלך מאוחסנים באייפון, באחסון ענן או לא מקוון, אפליקציות כמו **Evermusic** ו-**Flacbox** מאפשרות לך להאזין לאוסף המוזיקה האישי שלך בקלות בזמן נהיגה.
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="תור ההשמעה הבא ב-CarPlay" image="/docs/howto/how-to-play-your-own-music-on-iphone-using-carplay/carplay-nowplaying-5.webp" imageStyle="border-radius: clamp(14px, 2vw, 28px);" >}}
+{{< ls-card title="" subtitle="תור ההשמעה הבא ב-CarPlay" image="/docs/howto/how-to-play-your-own-music-on-iphone-using-carplay/carplay-nowplaying-5.webp" imageStyle="border-radius: clamp(14px, 2vw, 28px);" >}}
 {{< /cards >}}
 
 במדריך זה, נראה לך כיצד להכין את קבצי המוזיקה שלך ל-CarPlay, לארגן אותם עם עטיפות אלבום ומידע על רצועות מדויק, ולהשמיע אותם בבטחה מהאייפון שלך. עם Evermusic או Flacbox, תוכל ליצור רשימות השמעה, ולהזרים או להוריד שירים משירותים כמו **Google Drive**, **Dropbox**, **OneDrive**, **NAS**, או מהמחשב הביתי שלך.
@@ -25,8 +25,8 @@ readingTime: 5
 אפליקציות אלו מושלמות לכל מי שרוצה שליטה מלאה על ספריית המוזיקה שלו.
 
 {{< cards cols="2">}}
-{{< card link="https://apps.apple.com/app/apple-store/id885367198?pt=95781850&ct=everappzcom&mt=8" title="הורד את Evermusic" icon="download" tag="Free" >}}
-{{< card link="https://apps.apple.com/app/apple-store/id1097564256?pt=95781850&ct=everappzcom&mt=8" title="הורד את Flacbox" icon="download" tag="Free" >}}
+{{< ls-card link="https://apps.apple.com/app/apple-store/id885367198?pt=95781850&ct=everappzcom&mt=8" title="הורד את Evermusic" icon="download" tag="Free" >}}
+{{< ls-card link="https://apps.apple.com/app/apple-store/id1097564256?pt=95781850&ct=everappzcom&mt=8" title="הורד את Flacbox" icon="download" tag="Free" >}}
 {{< /cards >}}
 
 ## הוספת קבצים לאפליקציה
@@ -106,7 +106,7 @@ readingTime: 5
 לאחר שהפעלת את האפליקציות שלנו Evermusic או Flacbox עם מצב CarPlay, תראה את הממשק הראשי המחולק ל-4 לשוניות עיקריות: ספרייה, חיבורים, קבצים מקומיים, הגדרות.
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="תפריט ראשי של CarPlay" image="/docs/howto/how-to-play-your-own-music-on-iphone-using-carplay/library-with-images.webp" imageStyle="border-radius: clamp(14px, 2vw, 28px);" >}}
+{{< ls-card title="" subtitle="תפריט ראשי של CarPlay" image="/docs/howto/how-to-play-your-own-music-on-iphone-using-carplay/library-with-images.webp" imageStyle="border-radius: clamp(14px, 2vw, 28px);" >}}
 {{< /cards >}}
 
 ## ספרייה
@@ -116,7 +116,7 @@ readingTime: 5
 מסך זה מאפשר לך גישה מהירה למועדפים, לאחרונים, לרשימות השמעה, לסימניות ולכל הרצועות שנוספו. תוכל גם להמשיך השמעה מהפעם האחרונה, לצפות בשירים שלא הושמעו, ולחקור מוזיקה לפי תגיות או סוג מקור.
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="ספרייה" image="/docs/howto/how-to-play-your-own-music-on-iphone-using-carplay/library-with-images-3.webp" imageStyle="border-radius: clamp(14px, 2vw, 28px);" >}}
+{{< ls-card title="" subtitle="ספרייה" image="/docs/howto/how-to-play-your-own-music-on-iphone-using-carplay/library-with-images-3.webp" imageStyle="border-radius: clamp(14px, 2vw, 28px);" >}}
 {{< /cards >}}
 
 קטע **הספרייה** מכיל את הקטגוריות הבאות:
@@ -139,7 +139,7 @@ readingTime: 5
 - **קבצים מקוונים** – מוזיקה המוזרמת ישירות משירותי ענן
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="תצוגת אלבומים" image="/docs/howto/how-to-play-your-own-music-on-iphone-using-carplay/albums.webp" imageStyle="border-radius: clamp(14px, 2vw, 28px);" >}}
+{{< ls-card title="" subtitle="תצוגת אלבומים" image="/docs/howto/how-to-play-your-own-music-on-iphone-using-carplay/albums.webp" imageStyle="border-radius: clamp(14px, 2vw, 28px);" >}}
 {{< /cards >}}
 
 תוכל לפתוח כל תפריט משנה וללחוץ על רצועה כדי להתחיל השמעה באופן מיידי. לפרטים נוספים, עיין ב[מדריך ספריית המוזיקה](/docs/guide/evermusic/evermusic-guide-music-library/) המלא.
@@ -150,7 +150,7 @@ readingTime: 5
 לשונית **חיבורים** היא המרכז שלך לגישה וניהול כל שירותי אחסון הענן המחוברים והתקני הרשת המקומית.
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="חיבורים" image="/docs/howto/how-to-play-your-own-music-on-iphone-using-carplay/connections-with-images-3.webp" imageStyle="border-radius: clamp(14px, 2vw, 28px);" >}}
+{{< ls-card title="" subtitle="חיבורים" image="/docs/howto/how-to-play-your-own-music-on-iphone-using-carplay/connections-with-images-3.webp" imageStyle="border-radius: clamp(14px, 2vw, 28px);" >}}
 {{< /cards >}}
 
 מכאן, תוכל להתחבר לפלטפורמות ענן פופולריות כמו Dropbox, Google Drive, OneDrive, MEGA, iCloud Drive, ואפילו לכוננים ברשת כמו SMB, DLNA ו-WebDAV. לאחר ההתחברות, תוכל לעיין, להזרים, להוריד ולנהל קבצים ישירות מתוך האפליקציה.
@@ -172,7 +172,7 @@ readingTime: 5
 קטע **קבצים מקומיים** הוא המרכז שלך לניהול קבצי שמע המאוחסנים ישירות במכשיר שלך או בתוך ספריית ה-**מסמכים** של אפליקציית Evermusic. הוא גם כולל קבצים לא מקוונים שהורדו מאחסון ענן, קבצי מטמון של נגן השמע ותיקיות שהנגשת להשמעה לא מקוונת. קטע זה מבטיח שתוכל ליהנות מספריית המוזיקה שלך גם ללא חיבור לאינטרנט.
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="קבצים מקומיים" image="/docs/howto/how-to-play-your-own-music-on-iphone-using-carplay/local-files-with-images.webp" imageStyle="border-radius: clamp(14px, 2vw, 28px);" >}}
+{{< ls-card title="" subtitle="קבצים מקומיים" image="/docs/howto/how-to-play-your-own-music-on-iphone-using-carplay/local-files-with-images.webp" imageStyle="border-radius: clamp(14px, 2vw, 28px);" >}}
 {{< /cards >}}
 
 מסך **קבצים מקומיים** מאורגן בסעיפים הבאים:
@@ -186,7 +186,7 @@ readingTime: 5
 - **נגן שמע** – תיקיית מטמון המשמשת לאופטימיזציה של קרוספייד וביצועים. ניתן להשבית או לנקות בהגדרות.
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="תיקיות מכשיר בקבצים מקומיים" image="/docs/howto/how-to-play-your-own-music-on-iphone-using-carplay/local-files-device-folders.webp" imageStyle="border-radius: clamp(14px, 2vw, 28px);" >}}
+{{< ls-card title="" subtitle="תיקיות מכשיר בקבצים מקומיים" image="/docs/howto/how-to-play-your-own-music-on-iphone-using-carplay/local-files-device-folders.webp" imageStyle="border-radius: clamp(14px, 2vw, 28px);" >}}
 {{< /cards >}}
 
 תוכל ללמוד עוד ב[מדריך קבצים מקומיים](/docs/guide/evermusic/evermusic-guide-local-files/) המלא.
@@ -194,7 +194,7 @@ readingTime: 5
 ## תצוגת תיקייה
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="תיקייה מקומית עם עטיפות" image="/docs/howto/how-to-play-your-own-music-on-iphone-using-carplay/local-folder-with-images-2.webp" imageStyle="border-radius: clamp(14px, 2vw, 28px);" >}}
+{{< ls-card title="" subtitle="תיקייה מקומית עם עטיפות" image="/docs/howto/how-to-play-your-own-music-on-iphone-using-carplay/local-folder-with-images-2.webp" imageStyle="border-radius: clamp(14px, 2vw, 28px);" >}}
 {{< /cards >}}
 
 כשאתה פותח תיקייה, תמצא סט של פעולות שימושיות בחלק העליון:
@@ -206,7 +206,7 @@ readingTime: 5
 ## מגבלת עומק תוכן
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="מגבלת עומק תוכן" image="/docs/howto/how-to-play-your-own-music-on-iphone-using-carplay/content-depth-limit.webp" imageStyle="border-radius: clamp(14px, 2vw, 28px);" >}}
+{{< ls-card title="" subtitle="מגבלת עומק תוכן" image="/docs/howto/how-to-play-your-own-music-on-iphone-using-carplay/content-depth-limit.webp" imageStyle="border-radius: clamp(14px, 2vw, 28px);" >}}
 {{< /cards >}}
 
 בעת שימוש ב-CarPlay, ייתכן שתיתקל בשגיאת **"מגבלת עומק תוכן"** — במיוחד אם לספריית המוזיקה שלך יש תיקיות מקוננות רבות.
@@ -227,7 +227,7 @@ readingTime: 5
 ## מסך מושמע עכשיו
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="כניסה למושמע עכשיו ב-CarPlay" image="/docs/howto/how-to-play-your-own-music-on-iphone-using-carplay/carplay-nowplaying.webp" imageStyle="border-radius: clamp(14px, 2vw, 28px);" >}}
+{{< ls-card title="" subtitle="כניסה למושמע עכשיו ב-CarPlay" image="/docs/howto/how-to-play-your-own-music-on-iphone-using-carplay/carplay-nowplaying.webp" imageStyle="border-radius: clamp(14px, 2vw, 28px);" >}}
 {{< /cards >}}
 
 לאחר לחיצה על כל קובץ שמע, הוא מתווסף אוטומטית ל**תור הנגן**.
@@ -244,7 +244,7 @@ readingTime: 5
 ## הגדרות
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="תפריט הגדרות" image="/docs/howto/how-to-play-your-own-music-on-iphone-using-carplay/settings-2.webp" imageStyle="border-radius: clamp(14px, 2vw, 28px);" >}}
+{{< ls-card title="" subtitle="תפריט הגדרות" image="/docs/howto/how-to-play-your-own-music-on-iphone-using-carplay/settings-2.webp" imageStyle="border-radius: clamp(14px, 2vw, 28px);" >}}
 {{< /cards >}}
 
 קטע **הגדרות** בממשק CarPlay מאפשר לך להתאים את אופן הפעולה של האפליקציה בזמן נהיגה. הגדרות אלו עוזרות לשפר את הביצועים, להפחית הסחות דעת ולספק חוויית האזנה חלקה יותר.
@@ -260,7 +260,7 @@ readingTime: 5
 - **מיון** – התאם כיצד תוכן ממוין בתפריטי CarPlay כגון קבצים, ספריית מוזיקה וחיבורים.
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="תפריט אפשרויות מיון" image="/docs/howto/how-to-play-your-own-music-on-iphone-using-carplay/settings-sort.webp" imageStyle="border-radius: clamp(14px, 2vw, 28px);" >}}
+{{< ls-card title="" subtitle="תפריט אפשרויות מיון" image="/docs/howto/how-to-play-your-own-music-on-iphone-using-carplay/settings-sort.webp" imageStyle="border-radius: clamp(14px, 2vw, 28px);" >}}
 {{< /cards >}}
 
 - **מגבלת טעינת תוכן** – הגדר כמה פריטים יופיעו בכל מסך. מגבלות נמוכות משפרות את מהירות הטעינה ומפחיתות את מאמץ הגלילה.
@@ -271,19 +271,19 @@ readingTime: 5
 - **אקולייזר שמע**
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="לוח תצורת אקולייזר" image="/docs/howto/how-to-play-your-own-music-on-iphone-using-carplay/settings-eq-configuration.webp" imageStyle="border-radius: clamp(14px, 2vw, 28px);" >}}
+{{< ls-card title="" subtitle="לוח תצורת אקולייזר" image="/docs/howto/how-to-play-your-own-music-on-iphone-using-carplay/settings-eq-configuration.webp" imageStyle="border-radius: clamp(14px, 2vw, 28px);" >}}
 {{< /cards >}}
 
 הפעל את האקולייזר המובנה, התאם פסי תדר ובחר מתוך הגדרות מוגדרות מראש לחוויית שמע מותאמת אישית.
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="רשימת הגדרות מוגדרות מראש של אקולייזר" image="/docs/howto/how-to-play-your-own-music-on-iphone-using-carplay/settings-equalizer.webp" imageStyle="border-radius: clamp(14px, 2vw, 28px);" >}}
+{{< ls-card title="" subtitle="רשימת הגדרות מוגדרות מראש של אקולייזר" image="/docs/howto/how-to-play-your-own-music-on-iphone-using-carplay/settings-equalizer.webp" imageStyle="border-radius: clamp(14px, 2vw, 28px);" >}}
 {{< /cards >}}
 
 - **השמעת קרוספייד**
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="השמעת קרוספייד" image="/docs/howto/how-to-play-your-own-music-on-iphone-using-carplay/settings-crossfade-playback.webp" imageStyle="border-radius: clamp(14px, 2vw, 28px);" >}}
+{{< ls-card title="" subtitle="השמעת קרוספייד" image="/docs/howto/how-to-play-your-own-music-on-iphone-using-carplay/settings-crossfade-playback.webp" imageStyle="border-radius: clamp(14px, 2vw, 28px);" >}}
 {{< /cards >}}
 
 צור מעברים חלקים בין שירים על ידי חפיפה של סוף רצועה אחת עם תחילת הרצועה הבאה. ניתן להתאים את משך הקרוספייד.
@@ -291,7 +291,7 @@ readingTime: 5
 - **השמעה ללא הפסקות**
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="השמעה ללא הפסקות" image="/docs/howto/how-to-play-your-own-music-on-iphone-using-carplay/settings-gapless-playback.webp" imageStyle="border-radius: clamp(14px, 2vw, 28px);" >}}
+{{< ls-card title="" subtitle="השמעה ללא הפסקות" image="/docs/howto/how-to-play-your-own-music-on-iphone-using-carplay/settings-gapless-playback.webp" imageStyle="border-radius: clamp(14px, 2vw, 28px);" >}}
 {{< /cards >}}
 
 השמע רצועות בצורה חלקה ללא הפסקות — אידיאלי להקלטות חיות, מיקסים של DJ ואלבומי קונספט.
@@ -307,7 +307,7 @@ readingTime: 5
 עם **Evermusic** ו-**Flacbox**, השמעת מוזיקה משלך ברכב באמצעות Apple CarPlay הופכת לפשוטה, גמישה ואמינה. בין אם אתה מזרים מאחסון ענן, ניגש לקבצים מקומיים או משמיע רצועות שהורדו לא מקוון — אפליקציות אלו נבנו כדי לתת לך שליטה מלאה על חוויית ההאזנה שלך בזמן נהיגה.
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="מסך מושמע עכשיו ב-CarPlay" image="/docs/howto/how-to-play-your-own-music-on-iphone-using-carplay/carplay-nowplaying-2.webp" imageStyle="border-radius: clamp(14px, 2vw, 28px);" >}}
+{{< ls-card title="" subtitle="מסך מושמע עכשיו ב-CarPlay" image="/docs/howto/how-to-play-your-own-music-on-iphone-using-carplay/carplay-nowplaying-2.webp" imageStyle="border-radius: clamp(14px, 2vw, 28px);" >}}
 {{< /cards >}}
 
 משילוב ענן חלק ועד סנכרון תיקיות לא מקוון, מארגון ספריית מוזיקה מעמיק ועד השמעה מותאמת אישית עם אקולייזרים וקרוספייד — תכונות אלו הופכות את Evermusic ו-Flacbox ליותר מסתם נגני שמע. הם מלווי CarPlay חכמים שתוכננו לחובבי מוזיקה, נוסעים ומשתמשים יומיומיים כאחד.
@@ -325,22 +325,22 @@ readingTime: 5
 
 ## שאלות נפוצות
 
-{{% details title="אילו פורמטים של קבצי מוזיקה עובדים עם CarPlay ב-Evermusic ו-Flacbox?" closed="true" %}}
+{{% ls-details title="אילו פורמטים של קבצי מוזיקה עובדים עם CarPlay ב-Evermusic ו-Flacbox?" closed="true" %}}
 Evermusic ו-Flacbox תומכים במגוון רחב של פורמטי שמע כולל MP3, FLAC, AAC, WAV, AIFF, OGG, WMA ועוד. כל הפורמטים הנתמכים עובדים דרך CarPlay ללא צורך בהמרה.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="האם אני יכול להשמיע מוזיקה מ-Google Drive או Dropbox ב-CarPlay?" closed="true" %}}
+{{% ls-details title="האם אני יכול להשמיע מוזיקה מ-Google Drive או Dropbox ב-CarPlay?" closed="true" %}}
 כן. גם Evermusic וגם Flacbox מאפשרים לך להתחבר לשירותי אחסון ענן כמו Google Drive, Dropbox, OneDrive, MEGA ואחרים. תוכל להזרים מוזיקה ישירות או להוריד אותה להשמעה לא מקוונת ב-CarPlay.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="האם אני צריך חיבור אינטרנט כדי להשמיע מוזיקה ב-CarPlay?" closed="true" %}}
+{{% ls-details title="האם אני צריך חיבור אינטרנט כדי להשמיע מוזיקה ב-CarPlay?" closed="true" %}}
 לא. תוכל להוריד מוזיקה מאחסון ענן להשמעה לא מקוונת. לאחר שהקבצים מאוחסנים מקומית באייפון שלך, הם מושמעים דרך CarPlay ללא כל חיבור אינטרנט.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="למה אני רואה שגיאת מגבלת עומק תוכן ב-CarPlay?" closed="true" %}}
+{{% ls-details title="למה אני רואה שגיאת מגבלת עומק תוכן ב-CarPlay?" closed="true" %}}
 CarPlay מגביל כמה רמות תיקיות ניתן להציג. אם המוזיקה שלך בתיקיות מקוננות עמוק, הוסף תיקיות אלו למועדפים כדי שתוכל לגשת אליהן ישירות מתפריט המועדפים ב-CarPlay.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="האם Evermusic או Flacbox חינמיים לשימוש עם CarPlay?" closed="true" %}}
+{{% ls-details title="האם Evermusic או Flacbox חינמיים לשימוש עם CarPlay?" closed="true" %}}
 שתי האפליקציות חינמיות להורדה עם תמיכה מלאה ב-CarPlay, אקולייזר ותכונות השמעה. לגרסאות החינמיות יש מגבלות על חיבורי ענן (3), רשימות השמעה (10) ותיקיות לא מקוונות (1). הפרימיום מסיר את כל המגבלות.
-{{% /details %}}
+{{% /ls-details %}}

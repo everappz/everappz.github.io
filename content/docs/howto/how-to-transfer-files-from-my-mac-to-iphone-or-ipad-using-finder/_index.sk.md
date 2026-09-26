@@ -17,7 +17,7 @@ keywords: [
 readingTime: 3
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **Zhrnutie:** Pripojte iPhone alebo iPad k Macu (alebo PC) pomocou USB kábla. Na macOS Catalina a novších verziách použite Finder. Na starších verziách macOS alebo Windows použite iTunes. Presuňte súbory do aplikácie ako Evermusic, Flacbox alebo Evertag na okamžitý prenos.
@@ -117,26 +117,26 @@ So zdieľaním súborov iTunes môžete jednoducho spravovať súbory medzi poč
 
 ## Často kladené otázky
 
-{{% details title="Potrebujem na prenos súborov cez USB pripojenie na internet?" closed="true" %}}
+{{% ls-details title="Potrebujem na prenos súborov cez USB pripojenie na internet?" closed="true" %}}
 Nie. Zdieľanie súborov funguje výlučne cez USB káblové pripojenie medzi počítačom a zariadením iOS. Internet nie je potrebný.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Aké formáty súborov môžem preniesť do Evermusic alebo Flacbox?" closed="true" %}}
+{{% ls-details title="Aké formáty súborov môžem preniesť do Evermusic alebo Flacbox?" closed="true" %}}
 Obe aplikácie podporujú širokú škálu zvukových formátov vrátane MP3, FLAC, AAC, WAV, AIFF, OGG, WMA a ďalších. Úplný zoznam podporovaných formátov nájdete v dokumentácii aplikácie.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Prečo nevidím kartu Súbory vo Finderi?" closed="true" %}}
+{{% ls-details title="Prečo nevidím kartu Súbory vo Finderi?" closed="true" %}}
 Karta Súbory sa zobrazí len vtedy, keď má zariadenie nainštalovanú aspoň jednu aplikáciu podporujúcu zdieľanie súborov. Nainštalujte Evermusic, Flacbox alebo Evertag a potom znova pripojte zariadenie.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Môžem prenášať súbory bezdrôtovo namiesto použitia USB kábla?" closed="true" %}}
+{{% ls-details title="Môžem prenášať súbory bezdrôtovo namiesto použitia USB kábla?" closed="true" %}}
 Áno. Evermusic a Flacbox podporujú aj služby cloudového úložiska a Wi-Fi prenos. Zdieľanie súborov cez USB pomocou Findera alebo iTunes je však zvyčajne rýchlejšie pre veľké hudobné knižnice.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Prepíše prenos súborov cez Finder existujúce súbory na mojom zariadení?" closed="true" %}}
+{{% ls-details title="Prepíše prenos súborov cez Finder existujúce súbory na mojom zariadení?" closed="true" %}}
 Nie. Nové súbory sa pridajú vedľa existujúcich. Ak súbor s rovnakým názvom už existuje, macOS môže nový súbor automaticky premenovať.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Funguje táto metóda s počítačmi s Windows?" closed="true" %}}
+{{% ls-details title="Funguje táto metóda s počítačmi s Windows?" closed="true" %}}
 Áno. V systéme Windows použite na prenos súborov iTunes. Postup je rovnaký ako v sekcii iTunes vyššie. Nainštalujte iTunes z Microsoft Store alebo z webovej stránky Apple.
-{{% /details %}}
+{{% /ls-details %}}

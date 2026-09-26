@@ -21,7 +21,7 @@ readingTime: 16
 設定画面はFlacboxのコントロールセンターです。ここからプレミアムへのアップグレード、オーディオエンジン（システムコーデックまたはFFmpeg）の設定、音楽ライブラリの管理、ファイルマネージャーのセットアップ、オーディオタグエディターのカスタマイズ、ホーム画面ウィジェットとApple CarPlayの有効化、データのバックアップ、ヘルプや法的情報へのアクセスができます。
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox設定メイン画面" image="/docs/guide/flacbox/img/settings-main.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox設定メイン画面" image="/docs/guide/flacbox/img/settings-main.webp" >}}
 {{< /cards >}}
 
 ## プレミアムへのアップグレード
@@ -29,13 +29,13 @@ readingTime: 16
 すべての制限を解除するためにアプリをプレミアムバージョンにアップグレードします。アプリの無料バージョンでは、すべての制限を解除してプレミアムにアップグレードするための1回限りの生涯アプリ内購入と2つのサブスクリプションオプション（1ヶ月と1年）を提供しています。
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacboxプレミアムへのアップグレード" image="/docs/guide/flacbox/img/upgrade-to-premium.webp" >}}
+  {{< ls-card title="" subtitle="Flacboxプレミアムへのアップグレード" image="/docs/guide/flacbox/img/upgrade-to-premium.webp" >}}
 {{< /cards >}}
 
 **ファミリー共有**はすべての購入とプランで有効になっているため、追加費用なしで最大5人の家族とプレミアムバージョンを共有できます。
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacboxプレミアムプランの選択" image="/docs/guide/flacbox/img/select-premium-plan.webp" >}}
+  {{< ls-card title="" subtitle="Flacboxプレミアムプランの選択" image="/docs/guide/flacbox/img/select-premium-plan.webp" >}}
 {{< /cards >}}
 
 購入とプレミアムバージョンについての詳細は[FlacboxとFlacbox Premiumの違い](/docs/faq/flacbox/what-is-the-difference-between-flacbox-and-flacbox-premium/)をご覧ください。

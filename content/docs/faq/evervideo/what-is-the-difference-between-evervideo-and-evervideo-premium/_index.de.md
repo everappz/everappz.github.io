@@ -11,7 +11,7 @@ readingTime: 3
 Evervideo bietet sowohl eine kostenlose Version mit bestimmten Nutzungsbeschränkungen als auch eine Premium-Version mit zusätzlichen Funktionen, die durch In-App-Käufe freigeschaltet werden können.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Upgrade-Standardplan-Bildschirm" image="/docs/faq/evervideo/what-is-the-difference-between-evervideo-and-evervideo-premium/upgrade-default.webp" >}}
+  {{< ls-card title="" subtitle="Upgrade-Standardplan-Bildschirm" image="/docs/faq/evervideo/what-is-the-difference-between-evervideo-and-evervideo-premium/upgrade-default.webp" >}}
 {{< /cards >}}
 
 ## Wählen Sie Ihren Premium-Plan
@@ -19,7 +19,7 @@ Evervideo bietet sowohl eine kostenlose Version mit bestimmten Nutzungsbeschrän
 Die kostenlose Version der Anwendung bietet einen einmaligen Lifetime-In-App-Kauf und zwei Abonnementoptionen (1 Monat und 1 Jahr), um alle Einschränkungen aufzuheben und auf die Premium-Version upzugraden, sodass Sie den besten und optimalsten Preis für sich wählen können. Die Preise können je nach Land oder Region variieren. Bitte beachten Sie außerdem, dass **Family Sharing** für alle Käufe und Pläne aktiviert ist, sodass Sie die Premium-Version mit Ihren Familienmitgliedern teilen können.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evervideo-Planauswahl-Bildschirm" image="/docs/faq/evervideo/what-is-the-difference-between-evervideo-and-evervideo-premium/plan-select.webp" >}}
+  {{< ls-card title="" subtitle="Evervideo-Planauswahl-Bildschirm" image="/docs/faq/evervideo/what-is-the-difference-between-evervideo-and-evervideo-premium/plan-select.webp" >}}
 {{< /cards >}}
 
 ## Käufe zwischen iOS und Mac teilen
@@ -31,13 +31,13 @@ Sie können auch versuchen, die Schaltfläche 'Käufe wiederherstellen' in den A
 Um Ihren Kauf auf dem neuen Gerät wiederherzustellen, verwenden Sie einfach das Menü 'Käufe wiederherstellen'. Sie sehen die Liste Ihrer Käufe. Wenn nicht alle Ihre Käufe angezeigt werden, prüfen Sie bitte, ob das Gerät mit demselben iTunes-Konto verbunden ist, das für den Kauf verwendet wurde, und stellen Sie sicher, dass iCloud aktiviert ist.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Kauf-wiederhergestellt-Bildschirm" image="/docs/faq/evervideo/what-is-the-difference-between-evervideo-and-evervideo-premium/purchase-restored.webp" >}}
+  {{< ls-card title="" subtitle="Kauf-wiederhergestellt-Bildschirm" image="/docs/faq/evervideo/what-is-the-difference-between-evervideo-and-evervideo-premium/purchase-restored.webp" >}}
 {{< /cards >}}
 
 Sobald Sie Ihre App aktualisieren, sehen Sie den Premium-Statusbildschirm mit Details zu Ihren aktuellen Käufen.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Sie-verwenden-Premium-Bildschirm" image="/docs/faq/evervideo/what-is-the-difference-between-evervideo-and-evervideo-premium/you-are-using-premium.webp" >}}
+  {{< ls-card title="" subtitle="Sie-verwenden-Premium-Bildschirm" image="/docs/faq/evervideo/what-is-the-difference-between-evervideo-and-evervideo-premium/you-are-using-premium.webp" >}}
 {{< /cards >}}
 
 ## Premium kostenlos testen
@@ -45,7 +45,7 @@ Sobald Sie Ihre App aktualisieren, sehen Sie den Premium-Statusbildschirm mit De
 Darüber hinaus gibt es eine zeitlich begrenzte Möglichkeit, '**Premium kostenlos zu testen**'. Sie können auf diese Funktion über das Menü 'Premium kostenlos testen' zugreifen. Indem Sie einfach eine Werbung ansehen oder Ihren Freunden von der App erzählen, können Sie die Premium-Version während dieses Aktionszeitraums kostenlos freischalten. Dies gibt Ihnen die Möglichkeit, die Premium-Funktionen ohne finanzielle Verpflichtung zu erleben.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Premium-kostenlos-testen-Bildschirm" image="/docs/faq/evervideo/what-is-the-difference-between-evervideo-and-evervideo-premium/premium-for-free.webp" >}}
+  {{< ls-card title="" subtitle="Premium-kostenlos-testen-Bildschirm" image="/docs/faq/evervideo/what-is-the-difference-between-evervideo-and-evervideo-premium/premium-for-free.webp" >}}
 {{< /cards >}}
 
 ## Evervideo Free
@@ -62,7 +62,7 @@ Darüber hinaus gibt es eine zeitlich begrenzte Möglichkeit, '**Premium kostenl
 - Keine Anpassungs- oder Personalisierungsoptionen.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Upgrade-Cloud-Speicher-Bildschirm" image="/docs/faq/evervideo/what-is-the-difference-between-evervideo-and-evervideo-premium/upgrade-cloud-storage.webp" >}}
+  {{< ls-card title="" subtitle="Upgrade-Cloud-Speicher-Bildschirm" image="/docs/faq/evervideo/what-is-the-difference-between-evervideo-and-evervideo-premium/upgrade-cloud-storage.webp" >}}
 {{< /cards >}}
 
 ## Evervideo Premium
@@ -106,7 +106,7 @@ Wenn Sie gerade erst anfangen oder nur grundlegende Videowiedergabefunktionen be
 Andererseits schaltet **Evervideo Premium** das vollständige Erlebnis frei. Sie genießen eine werbefreie Benutzeroberfläche, unbegrenzten Wiedergabelisten- und Warteschlangenunterstützung, vollständige Offline-Funktionalität, Cloud-Flexibilität und erweiterte Export- und Personalisierungsoptionen. Es ist die beste Option für Benutzer mit großen Videobibliotheken, diejenigen, die Inhalte aus mehreren Quellen ansehen, oder alle, die einen professionelleren und nahtloseren Mediaplayer suchen.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Sie-haben-Premium-erworben-Bildschirm" image="/docs/faq/evervideo/what-is-the-difference-between-evervideo-and-evervideo-premium/you-have-purchased-premium.webp" >}}
+  {{< ls-card title="" subtitle="Sie-haben-Premium-erworben-Bildschirm" image="/docs/faq/evervideo/what-is-the-difference-between-evervideo-and-evervideo-premium/you-have-purchased-premium.webp" >}}
 {{< /cards >}}
 
 Wenn Sie Flexibilität suchen, probieren Sie den **monatlichen Plan**. Für langfristigen Wert entscheiden Sie sich für das **jährliche** oder **Lifetime**-Upgrade — beide bieten vollständigen Zugang zu einem besseren Preis.

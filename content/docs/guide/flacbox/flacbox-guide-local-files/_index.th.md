@@ -19,7 +19,7 @@ readingTime: 8
 ตัวจัดการไฟล์ในตัวนี้ช่วยให้คุณแก้ไขไฟล์ (เปลี่ยนชื่อ, ย้าย, คัดลอก, อัปโหลด, ลบ), ตรวจสอบการถ่ายโอน และมีวิธีการหลายอย่างในการนำเข้าไฟล์เสียงเข้าสู่แอป — การดาวน์โหลดโดยตรงจากคลาวด์, การซิงค์โหมดออฟไลน์, ไดรฟ์ USB, Wi-Fi Drive และ Finder File Sharing
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="หน้าจอไฟล์ในเครื่อง Flacbox" image="/docs/guide/flacbox/img/local-files.webp" >}}
+  {{< ls-card title="" subtitle="หน้าจอไฟล์ในเครื่อง Flacbox" image="/docs/guide/flacbox/img/local-files.webp" >}}
 {{< /cards >}}
 
 ## ดาวน์โหลดไฟล์จากคลาวด์สตอเรจ
@@ -102,7 +102,7 @@ readingTime: 8
 แสดงไฟล์ที่อยู่บนอุปกรณ์ของคุณแต่อยู่ในแอปพลิเคชันอื่น คุณสามารถนำเข้าไฟล์เหล่านั้นเข้าสู่แอปพลิเคชันนี้โดยใช้ตัวเลือกไฟล์ของระบบ ในการเปิดตัวเลือก ให้เลือก **เปิดไฟล์…** เพื่อเลือกไฟล์หรือ **เปิดโฟลเดอร์…** เพื่อเลือกโฟลเดอร์ คำแนะนำโดยละเอียดเกี่ยวกับวิธีนำเข้าเพลงในเครื่องที่เก็บไว้บน iPhone หรือ Mac มีอยู่ [ที่นี่](/docs/howto/how-to-play-local-music-stored-on-your-iphone-or-mac)
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="โฟลเดอร์อุปกรณ์ที่เชื่อมต่อของ Flacbox" image="/docs/guide/flacbox/img/connected-device-folders.webp" >}}
+  {{< ls-card title="" subtitle="โฟลเดอร์อุปกรณ์ที่เชื่อมต่อของ Flacbox" image="/docs/guide/flacbox/img/connected-device-folders.webp" >}}
 {{< /cards >}}
 
 คุณยังสามารถเชื่อมต่อโฟลเดอร์ที่อยู่บนอุปกรณ์ของคุณและเข้าถึงเนื้อหาได้อย่างรวดเร็ว ใช้รายการเมนู **เชื่อมต่อโฟลเดอร์** และเลือกโฟลเดอร์ที่อยู่บนอุปกรณ์ของคุณ แตะ **เสร็จสิ้น** และแอปจะสร้างลิงก์ไปยังโฟลเดอร์นั้นพร้อมสิทธิ์อ่าน / เขียน ช่วยให้คุณจัดการไฟล์โดยตรงจากแอปนี้ ในการตัดการเชื่อมต่อโฟลเดอร์ที่อยู่บนอุปกรณ์ของคุณ ให้แตะปุ่ม **การดำเนินการเพิ่มเติม** และเลือก **ตัดการเชื่อมต่อ**
@@ -137,7 +137,7 @@ readingTime: 8
 - **ลบ** — ลบไฟล์หรือโฟลเดอร์ที่เลือกออกจากอุปกรณ์ **การดำเนินการนี้ไม่สามารถยกเลิกได้**
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="โหมดการเลือกไฟล์ในเครื่องของ Flacbox" image="/docs/guide/flacbox/img/local-files-selection-mode.webp" >}}
+  {{< ls-card title="" subtitle="โหมดการเลือกไฟล์ในเครื่องของ Flacbox" image="/docs/guide/flacbox/img/local-files-selection-mode.webp" >}}
 {{< /cards >}}
 
 ## เมนูตัวเลือก
@@ -161,7 +161,7 @@ readingTime: 8
 - **ลบ** — ลบไฟล์หรือโฟลเดอร์จากอุปกรณ์ **การดำเนินการนี้ไม่สามารถยกเลิกได้** และคุณไม่สามารถกู้คืนไฟล์ที่ลบแล้วได้
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox การดำเนินการเพิ่มเติมสำหรับไฟล์ในเครื่อง" image="/docs/guide/flacbox/img/local-files-more-actions-for-file.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox การดำเนินการเพิ่มเติมสำหรับไฟล์ในเครื่อง" image="/docs/guide/flacbox/img/local-files-more-actions-for-file.webp" >}}
 {{< /cards >}}
 
 ## โฟลเดอร์ออฟไลน์

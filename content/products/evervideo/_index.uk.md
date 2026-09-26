@@ -16,16 +16,16 @@ screenshots:
   - "https://everappz.com/products/evervideo/screenshots/2880x1800/6.png"
 ---
 
-{{% sr-only %}}
+{{% ls-sr-only %}}
 Evervideo — це безкоштовний HD-відеоплеєр для iPhone і Mac, розроблений компанією Everappz, іспанською компанією-розробником програмного забезпечення. Evervideo відтворює практично будь-який формат відео, включаючи MKV, AVI, MP4, MOV, FLV, WMV, WEBM, M4V, TS та 3GP без необхідності конвертації. Додаток підтримує відтворення 360-градусного та VR-відео, режим «Картинка в картинці», відео- та аудіоеквалайзер з понад 50 пресетами, субтитри у форматах SRT, SSA та ASS, а також регулювання швидкості відтворення. Evervideo підключається до хмарних сховищ, включаючи iCloud Drive, Google Drive, Dropbox, OneDrive та MEGA, дозволяючи користувачам транслювати відео безпосередньо з хмари або завантажувати їх для перегляду офлайн. Додаток також підтримує потокове передавання по локальній мережі через протоколи SMB, WebDAV та DLNA, відтворення з USB-накопичувачів через адаптери Lightning або USB-C та передачу файлів через Wi-Fi з комп'ютера. Додаткові функції включають медіатеку з плейлистами, трансляцію через AirPlay та Chromecast, а також вбудований файловий менеджер. Evervideo доступний для безкоштовного завантаження в App Store з додатковими покупками в додатку, що включають щомісячну підписку за $2.99, річну підписку за $14.99 або одноразову покупку довічного доступу за $29.99.
-{{% /sr-only %}}
+{{% /ls-sr-only %}}
 
 
 
 <!-- force dark theme for this page -->
-{{< force-dark >}}
+{{< ls-force-dark >}}
 
-{{< hextra/hero-container
+{{< ls-hero-container
   image="/products/evervideo/heroimage/hero_1600.png"
   imageWidth="800"
   imageCard="true"
@@ -33,38 +33,38 @@ Evervideo — це безкоштовний HD-відеоплеєр для iPhon
 
 <div class="hx:w-full hx:text-center">
 
-{{< downloads-badge >}}
+{{< ls-downloads-badge >}}
 
 <div class="hx:mt-6 hx:mb-6">
 <div class="hx:flex hx:gap-4 hx:items-center hx:justify-center">
-{{< app-icon src="/images/app_icons/png/Evervideo_Icon-App-1024x1024.png" alt="Evervideo Icon" class="hero-headline-icon" size="80" >}}
-{{< hextra/hero-headline >}}
+{{< ls-app-icon src="/images/app_icons/png/Evervideo_Icon-App-1024x1024.png" alt="Evervideo Icon" class="hero-headline-icon" size="80" >}}
+{{< ls-hero-headline >}}
 Evervideo
-{{< /hextra/hero-headline >}}
+{{< /ls-hero-headline >}}
 </div>
 </div>
 
 <div class="hx:mb-12">
-{{< hextra/hero-centered-subtitle >}}
+{{< ls-hero-centered-subtitle >}}
 <strong>HD Відеоплеєр і Стрімер Для Вашого iPhone і MAC</strong>
-{{< /hextra/hero-centered-subtitle >}}
+{{< /ls-hero-centered-subtitle >}}
 </div>
 
 
 <div class="hx:mb-6">
-{{< hextra/hero-paragraph >}}
+{{< ls-hero-paragraph >}}
 • Дивіться 360° та відео високої чіткості у всіх форматах<br>
 • Транслюйте з iCloud, Google Drive, Dropbox, NAS або вашого комп'ютера<br>
 • Завантажуйте відео для перегляду офлайн будь-коли і будь-де<br>
 • Вмикайте субтитри, використовуйте відеоеквалайзер та організовуйте відео за допомогою плейлистів
-{{< /hextra/hero-paragraph >}}
+{{< /ls-hero-paragraph >}}
 </div>
 
-{{< app-store-badges products="evervideo:ios, evervideo:macos" >}}
+{{< ls-app-store-badges products="evervideo:ios, evervideo:macos" >}}
 
 </div>
 
-{{< /hextra/hero-container >}}
+{{< /ls-hero-container >}}
 
 <div class="hx:mt-6"></div>
 
@@ -72,42 +72,42 @@ Evervideo
 
 {{< hextra/feature-grid >}}
 
-  {{< hextra/feature-card
+  {{< ls-glass-feature-card
     title="Відтворення всіх відео та аудіо форматів"
     subtitle=`Дивіться відео та слухайте музику без конвертації файлів. Підтримує MP4, MOV, MKV, AVI, FLV, WMV, WEBM, M4V, MP3, FLAC, AAC, ALAC, OGG, OPUS, WAV, WMA та багато іншого.`
     icon="film"
     style="background: radial-gradient(circle at 50% 80%, rgba(255,99,71,0.15), rgba(17,24,39,0));"  
   >}}
 
-  {{< hextra/feature-card
+  {{< ls-glass-feature-card
     title="Медіатека та плейлисти"
     subtitle=`Організовуйте медіатеку з треками, згрупованими за альбомом, жанром або тривалістю. Автоматична синхронізація зі змінами в хмарі. Створюйте, редагуйте та експортуйте плейлисти M3U з користувацьким сортуванням.`
     icon="collection"
     style="background: radial-gradient(circle at 50% 80%, rgba(255,165,0,0.15), rgba(17,24,39,0));"  
   >}}
 
-  {{< hextra/feature-card
+  {{< ls-glass-feature-card
     title="Аудіо та відео еквалайзер"
     subtitle=`Налаштуйте вигляд і звучання ваших відео, регулюючи бас, висоту тону, яскравість, гаму, насиченість, контрастність та багато іншого, з більш ніж 50 відеопресетами та 20+ аудіопресетами або можливістю створити власні.`
     icon="adjustments"
     style="background: radial-gradient(circle at 50% 80%, rgba(255,255,0,0.15), rgba(17,24,39,0));" 
   >}}
 
-  {{< hextra/feature-card
+  {{< ls-glass-feature-card
     title="Картинка в картинці"
     subtitle=`Картинка в картинці (PiP) дозволяє продовжувати перегляд відео в маленькому плаваючому вікні під час використання інших додатків, з повною підтримкою всіх основних форматів, таких як MKV, AVI, MP4 та MOV, безперервними переходами відео в черзі, автоматичними оновленнями відтворення та завжди видимими активними субтитрами.`
     icon="duplicate"
     style="background: radial-gradient(circle at 50% 80%, rgba(0,128,0,0.15), rgba(17,24,39,0));" 
   >}}
 
-  {{< hextra/feature-card
+  {{< ls-glass-feature-card
     title="360° Відео та VR режим"
     subtitle=`Відчуйте 360° та VR відео як ніколи раніше — рухайте телефон, щоб досліджувати кожен кут, або повністю зануртеся з VR-гарнітурою для повного занурення. Миттєво відтворюйте 360° відео з камер Insta360 та подібних пристроїв з плавним, легким відтворенням без налаштування.`
     icon="video-camera"
     style="background: radial-gradient(circle at 50% 80%, rgba(0,191,255,0.15), rgba(17,24,39,0));"  
   >}}
 
-  {{< hextra/feature-card
+  {{< ls-glass-feature-card
     title="Безперебійна трансляція та хмарне підключення"
     subtitle=`Транслюйте відео безпосередньо з вашого Mac, ПК, NAS, USB-флешки або хмарного сховища та передавайте медіафайли за допомогою Wi-Fi Drive або iTunes File Sharing. Насолоджуйтесь повним доступом до всієї вашої відеотеки будь-де, навіть віддалено, через Synology Drive, WD My Cloud Home та подібні NAS-пристрої.`
     icon="cloud"
@@ -120,9 +120,9 @@ Evervideo
 
 <div class="hx:mt-6"></div>
 
-{{< hextra/section-headline >}}
+{{< ls-section-headline >}}
 Усі функції
-{{< /hextra/section-headline >}}
+{{< /ls-section-headline >}}
 
 <div class="hx:mt-6"></div>
 
@@ -130,35 +130,35 @@ Evervideo
 
 {{< cards >}}
 
-{{< feature-card title="Відтворення всіх відео та аудіо форматів" subtitle="Дивіться медіа без конвертації файлів. Evervideo підтримує всі основні формати, включаючи MKV, AVI, MP4, MOV, FLAC, MP3, AAC, OGG, WAV, WMV та багато іншого." icon="film">}}
+{{< ls-feature-card title="Відтворення всіх відео та аудіо форматів" subtitle="Дивіться медіа без конвертації файлів. Evervideo підтримує всі основні формати, включаючи MKV, AVI, MP4, MOV, FLAC, MP3, AAC, OGG, WAV, WMV та багато іншого." icon="film">}}
 
-{{< feature-card title="Офлайн режим" subtitle="Завантажуйте відео, альбоми та плейлисти для перегляду без підключення до інтернету. Беріть усю свою відеоколекцію куди завгодно." icon="download">}}
+{{< ls-feature-card title="Офлайн режим" subtitle="Завантажуйте відео, альбоми та плейлисти для перегляду без підключення до інтернету. Беріть усю свою відеоколекцію куди завгодно." icon="download">}}
 
-{{< feature-card title="360° Відео та VR режим" subtitle="Дивіться 360° та VR відео весело та легко. Рухайте телефон, щоб дивитися в будь-якому напрямку, або вставте його в VR-гарнітуру, щоб відчути себе всередині відео." icon="video-camera">}}
+{{< ls-feature-card title="360° Відео та VR режим" subtitle="Дивіться 360° та VR відео весело та легко. Рухайте телефон, щоб дивитися в будь-якому напрямку, або вставте його в VR-гарнітуру, щоб відчути себе всередині відео." icon="video-camera">}}
 
-{{< feature-card title="Картинка в картинці" subtitle="Продовжуйте дивитися відео в маленькому плаваючому вікні, використовуючи інші додатки. Керуйте відтворенням та бачте субтитри одночасно — ідеально для багатозадачності." icon="duplicate">}}
+{{< ls-feature-card title="Картинка в картинці" subtitle="Продовжуйте дивитися відео в маленькому плаваючому вікні, використовуючи інші додатки. Керуйте відтворенням та бачте субтитри одночасно — ідеально для багатозадачності." icon="duplicate">}}
 
-{{< feature-card title="Відео та аудіо еквалайзер" subtitle="Налаштуйте вигляд і звучання ваших відео. Регулюйте бас, висоту тону, яскравість, гаму, насиченість, контрастність та багато іншого. Вибирайте з 50+ відеопресетів та 20+ аудіопресетів або створюйте власні." icon="adjustments">}}
+{{< ls-feature-card title="Відео та аудіо еквалайзер" subtitle="Налаштуйте вигляд і звучання ваших відео. Регулюйте бас, висоту тону, яскравість, гаму, насиченість, контрастність та багато іншого. Вибирайте з 50+ відеопресетів та 20+ аудіопресетів або створюйте власні." icon="adjustments">}}
 
-{{< feature-card title="Субтитри" subtitle="Переглядайте вбудовані субтитри, обирайте номер доріжки субтитрів та насолоджуйтесь повною підтримкою субтитрів навіть у режимі Картинка в картинці." icon="annotation" >}}
+{{< ls-feature-card title="Субтитри" subtitle="Переглядайте вбудовані субтитри, обирайте номер доріжки субтитрів та насолоджуйтесь повною підтримкою субтитрів навіть у режимі Картинка в картинці." icon="annotation" >}}
 
-{{< feature-card title="Відтворення безпосередньо з хмари" subtitle="Дивіться відео безпосередньо з хмарного сховища без використання місця на пристрої. Підтримує iCloud Drive, Google Drive, Dropbox, OneDrive, MEGA, Synology Drive, pCloud та багато іншого." icon="cloud">}}
+{{< ls-feature-card title="Відтворення безпосередньо з хмари" subtitle="Дивіться відео безпосередньо з хмарного сховища без використання місця на пристрої. Підтримує iCloud Drive, Google Drive, Dropbox, OneDrive, MEGA, Synology Drive, pCloud та багато іншого." icon="cloud">}}
 
-{{< feature-card title="Підключення комп'ютера / NAS" subtitle="Легко підключайте NAS, Mac або ПК через домашню мережу за допомогою SMB, WebDAV або DLNA. Підтримується віддалений доступ для Synology Drive та WD MyCloud Home. Передавайте медіафайли на пристрій через Wi-Fi або iTunes File Sharing." icon="desktop-computer">}}
+{{< ls-feature-card title="Підключення комп'ютера / NAS" subtitle="Легко підключайте NAS, Mac або ПК через домашню мережу за допомогою SMB, WebDAV або DLNA. Підтримується віддалений доступ для Synology Drive та WD MyCloud Home. Передавайте медіафайли на пристрій через Wi-Fi або iTunes File Sharing." icon="desktop-computer">}}
 
-{{< feature-card title="Медіатека" subtitle="Організовуйте за альбомом, жанром або тривалістю. Автоматична синхронізація зі змінами в хмарі. Створюйте, редагуйте та експортуйте плейлисти M3U з користувацьким сортуванням." icon="library" >}}
+{{< ls-feature-card title="Медіатека" subtitle="Організовуйте за альбомом, жанром або тривалістю. Автоматична синхронізація зі змінами в хмарі. Створюйте, редагуйте та експортуйте плейлисти M3U з користувацьким сортуванням." icon="library" >}}
 
-{{< feature-card title="Закладки та збереження позиції відтворення" subtitle="Зберігайте своє місце в будь-якому відео за допомогою закладок та продовжуйте відтворення з того місця, де зупинилися. Налаштовуйте швидкість відтворення, відзначайте обрані та сортуйте відео за найчастіше відтворюваними для легкого доступу." icon="book-open">}}
+{{< ls-feature-card title="Закладки та збереження позиції відтворення" subtitle="Зберігайте своє місце в будь-якому відео за допомогою закладок та продовжуйте відтворення з того місця, де зупинилися. Налаштовуйте швидкість відтворення, відзначайте обрані та сортуйте відео за найчастіше відтворюваними для легкого доступу." icon="book-open">}}
 
-{{< feature-card title="AirPlay та Chromecast" subtitle="Відтворюйте відео на більшому екрані, транслюючи на Apple TV, Chromecast або будь-який сумісний зовнішній дисплей." icon="device-mobile">}}
+{{< ls-feature-card title="AirPlay та Chromecast" subtitle="Відтворюйте відео на більшому екрані, транслюючи на Apple TV, Chromecast або будь-який сумісний зовнішній дисплей." icon="device-mobile">}}
 
-{{< feature-card title="Імпорт з Файлів та бібліотек" subtitle="Імпортуйте відео безпосередньо з додатку Файли, Фото або вашої бібліотеки iTunes. Отримайте доступ до всього вашого локального та хмарного контенту в одній організованій медіатеці." icon="database">}}
+{{< ls-feature-card title="Імпорт з Файлів та бібліотек" subtitle="Імпортуйте відео безпосередньо з додатку Файли, Фото або вашої бібліотеки iTunes. Отримайте доступ до всього вашого локального та хмарного контенту в одній організованій медіатеці." icon="database">}}
 
-{{< feature-card title="Файловий менеджер" subtitle="Переміщуйте, перейменовуйте, видаляйте та організовуйте файли безпосередньо в додатку." icon="folder">}}
+{{< ls-feature-card title="Файловий менеджер" subtitle="Переміщуйте, перейменовуйте, видаляйте та організовуйте файли безпосередньо в додатку." icon="folder">}}
 
-{{< feature-card title="Персоналізація" subtitle="Налаштуйте додаток відповідно до ваших уподобань. Обирайте теми, показуйте або приховуйте функції та налаштовуйте інтерфейс під ваші потреби." icon="sun">}}
+{{< ls-feature-card title="Персоналізація" subtitle="Налаштуйте додаток відповідно до ваших уподобань. Обирайте теми, показуйте або приховуйте функції та налаштовуйте інтерфейс під ваші потреби." icon="sun">}}
 
-{{< feature-card title="Розумний пошук" subtitle="Швидко знаходьте відео, альбоми або плейлисти у вашій медіатеці за допомогою ключових слів або фільтрів." icon="search" >}}
+{{< ls-feature-card title="Розумний пошук" subtitle="Швидко знаходьте відео, альбоми або плейлисти у вашій медіатеці за допомогою ключових слів або фільтрів." icon="search" >}}
 
 
 
@@ -168,9 +168,9 @@ Evervideo
 
 <div class="hx:mt-6"></div>
 
-{{< hextra/section-headline >}}
+{{< ls-section-headline >}}
 Інтуїтивний дизайн
-{{< /hextra/section-headline >}}
+{{< /ls-section-headline >}}
 
 <div class="hx:mt-6"></div>
 
@@ -178,7 +178,7 @@ Evervideo
 
 {{< cards cols="4">}}
 
-  {{< design-feature-card 
+  {{< ls-design-feature-card 
     image="/products/evervideo/screenshots/2880x1800/1.png" 
     title="Відеоплеєр" 
     method="Fill"
@@ -187,7 +187,7 @@ Evervideo
     icon="play"
   >}}
 
-  {{< design-feature-card 
+  {{< ls-design-feature-card 
     image="/products/evervideo/screenshots/2880x1800/3.png" 
     title="Аудіо та відео еквалайзер" 
     method="Fill"
@@ -196,7 +196,7 @@ Evervideo
     icon="adjustments"
   >}}
 
-  {{< design-feature-card 
+  {{< ls-design-feature-card 
     image="/products/evervideo/screenshots/2880x1800/6.png" 
     title="Менеджер плейлистів" 
     method="Fill"
@@ -205,7 +205,7 @@ Evervideo
     icon="collection"
   >}}
 
-  {{< design-feature-card 
+  {{< ls-design-feature-card 
     image="/products/evervideo/screenshots/2880x1800/5.png" 
     title="Медіатека" 
     method="Fill"
@@ -214,7 +214,7 @@ Evervideo
     icon="library"
   >}}
 
-  {{< design-feature-card 
+  {{< ls-design-feature-card 
     image="/products/evervideo/screenshots/2880x1800/7.png"  
     title="Хмарне сховище" 
     method="Fill"
@@ -223,7 +223,7 @@ Evervideo
     icon="cloud"
   >}}
 
-  {{< design-feature-card 
+  {{< ls-design-feature-card 
     image="/products/evervideo/screenshots/2880x1800/9.png"  
     title="Файловий менеджер" 
     method="Fill"
@@ -241,49 +241,49 @@ Evervideo
 <div class="hx:mt-6"></div>
 
 <div class="hx:w-full">
-{{< appstore-reviews apps="6602897336,6743504109" stars="5,4"  app="Evervideo" >}}
+{{< ls-appstore-reviews apps="6602897336,6743504109" stars="5,4"  app="Evervideo" >}}
 </div>
 
 
 <div class="hx:mt-6"></div>
 
-{{< hextra/section-headline >}}
+{{< ls-section-headline >}}
    Тарифні плани
-{{< /hextra/section-headline >}}
+{{< /ls-section-headline >}}
 
 <div class="hx:mt-6"></div>
 
 <div class="hx:w-full">
 
-{{< pricing-plans >}}
+{{< ls-pricing-plans >}}
 
 </div>
 
 <div class="hx:mt-6"></div>
 
 <div class="hx:w-full hx:mx-auto hx:flex hx:flex-col hx:items-center">
-  {{< hextra/info-paragraph border="true" >}}
+  {{< ls-info-paragraph border="true" >}}
    <strong>Сімейний доступ</strong>: Усі покупки та підписки підтримують Сімейний доступ, що дозволяє ділитися Premium доступом із вашою родиною.<br><strong>Універсальний доступ</strong>: Довічні та підписні плани спільні між пристроями iOS та Mac за допомогою синхронізації iCloud.<br><strong>Ціноутворення</strong>: Ціни вказані в доларах США для Сполучених Штатів. Остаточна ціна може відрізнятися залежно від вашого регіону.  
-  {{< /hextra/info-paragraph >}}
+  {{< /ls-info-paragraph >}}
 </div>
 
 <div class="hx:mt-6"></div>
 
 <div class="hx:w-full">
-{{< app-details heading="true" >}}
+{{< ls-app-details heading="true" >}}
 </div>
 
 <div class="hx:mt-6"></div>
 
-{{< hextra/section-headline >}}
+{{< ls-section-headline >}}
    Поширені запитання
-{{< /hextra/section-headline >}}
+{{< /ls-section-headline >}}
 
 <div class="hx:mt-6"></div>
 
 <div class="hx:w-full">
 
-{{% details title="Як працює Evervideo?" closed="true" %}}
+{{% ls-details title="Як працює Evervideo?" closed="true" %}}
 Evervideo — це HD відеоплеєр, який дозволяє керувати відеотреками як звичайними файлами.<br>
 Ви можете завантажити всю свою відеоколекцію в хмарні сервіси, такі як Dropbox, OneDrive, iCloud або персональний NAS, і відтворювати відео безпосередньо з хмари з повним контролем.<br><br>
 Синхронізація iTunes не потрібна — просто завантажуйте з ПК або Mac, як ви робите з будь-яким файлом.<br>
@@ -293,9 +293,9 @@ Evervideo — це HD відеоплеєр, який дозволяє керув
 - [Посібник Evervideo](/docs/guide/evervideo/)<br>
 - [Як бездротово передати файли з комп'ютера на iPhone за допомогою Wi-Fi Drive.](/docs/howto/how-to-transfer-files-wirelessly-from-a-computer-to-an-iphone-using-wifi-drive)<br>
 
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Evervideo безкоштовний?" closed="true" %}}
+{{% ls-details title="Evervideo безкоштовний?" closed="true" %}}
 Evervideo безкоштовний для використання з деякими обмеженнями, які можна зняти, оновивши до версії Premium.<br>
 Ви можете вибрати між одноразовою довічною покупкою або двома варіантами підписки (щомісячна або щорічна). Ціни можуть відрізнятися залежно від вашого регіону.<br><br>
 
@@ -304,9 +304,9 @@ Evervideo безкоштовний для використання з деяки
 Покупки та підписки Premium діляться між iOS та Mac через iCloud. Щоб синхронізувати вашу покупку, переконайтеся, що iCloud увімкнено, відкрийте додаток на пристрої iOS та зачекайте хвилину для завершення синхронізації.<br><br>
 
 [Дізнайтеся більше про відмінності між Evervideo та Evervideo Premium](/docs/faq/evervideo/what-is-the-difference-between-evervideo-and-evervideo-premium/)
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Як користуватися Evervideo?" closed="true" %}}
+{{% ls-details title="Як користуватися Evervideo?" closed="true" %}}
 
 **Встановіть Evervideo**<br>
 Завантажте та встановіть додаток Evervideo з магазину додатків вашого пристрою. Він доступний для пристроїв iOS та Mac.<br><br>
@@ -355,9 +355,9 @@ Evervideo безкоштовний для використання з деяки
 **Насолоджуйтесь відео**<br>
 Коли ваше відео організовано, використовуйте верхню панель інструментів для швидких дій, таких як **Пошук**, **Відтворити все**, **Перемішати** та **Продовжити відтворення**.<br><br>
 
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Evervideo безпечний?" closed="true" %}}
+{{% ls-details title="Evervideo безпечний?" closed="true" %}}
 Evervideo використовує лише офіційний SDK та захищені з'єднання для взаємодії з підключеними хмарними сервісами. Ваш логін та пароль недоступні для додатку. Усі запити від додатку до хмарного сервісу зашифровані.<br>
 Коли ви вводите логін та пароль, додаток показує вам офіційну сторінку авторизації, яка надається провайдером хмарного сервісу, і весь процес авторизації відбувається поза додатком. Провайдер хмарного сервісу надсилає токен авторизації додатку після успішної авторизації, і цей токен використовується для виконання API-запитів.<br><br>
 
@@ -368,22 +368,22 @@ Evervideo використовує лише офіційний SDK та захи
 
 Ви також можете відключити підключені хмарні облікові записи в додатку, і токен авторизації також буде видалений з вашого пристрою. Якщо ви видалите додаток з пристрою, усі завантажені дані та токени доступу також будуть видалені.<br><br>
 
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Як створити плейлист в Evervideo?" closed="true" %}}
+{{% ls-details title="Як створити плейлист в Evervideo?" closed="true" %}}
 - Відкрийте розділ Плейлисти.<br>
 - Натисніть кнопку "+" або кнопку "..." у правому верхньому куті та виберіть "Новий плейлист".<br>
 - Введіть назву плейлиста та натисніть "Зберегти". З'явиться діалогове вікно "Додати медіафайли".<br>
 - Виберіть треки, які хочете додати до плейлиста.<br><br>
 
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Які хмарні сервіси підтримує Evervideo?" closed="true" %}}
+{{% ls-details title="Які хмарні сервіси підтримує Evervideo?" closed="true" %}}
 Наразі додаток підтримує найпопулярніші хмарні сервіси: iCloud Drive, Google Drive, Dropbox, OneDrive, Box, MEGA, Yandex.Disk, DLNA, MediaFire, WebDAV, SMB, pCloud, Cloud Mail.ru, Put.io.<br><br>
 
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Як увімкнути офлайн режим в Evervideo?" closed="true" %}}
+{{% ls-details title="Як увімкнути офлайн режим в Evervideo?" closed="true" %}}
 - Підключіться до хмарного сховища:<br>
  • Перейдіть на вкладку "Файли".<br>
  • Виберіть "Підключити хмарне сховище" та дотримуйтесь інструкцій для підключення потрібного сервісу.<br><br>
@@ -408,9 +408,9 @@ Evervideo використовує лише офіційний SDK та захи
  • Для ручної синхронізації перейдіть до "Налаштування" > "Файловий менеджер" > "Офлайн папки" > "Синхронізовані офлайн папки".<br>
  • Натисніть "Додаткові дії" та виберіть "Почати синхронізацію".<br><br>
 
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Як відтворювати локально завантажені відео на iPhone?" closed="true" %}}
+{{% ls-details title="Як відтворювати локально завантажені відео на iPhone?" closed="true" %}}
 Після встановлення додатку відкрийте екран "Файли" та прокрутіть вниз до розділу "Файли на цьому iPhone". Звідти виберіть "Відкрити файли...", якщо вам потрібно вибрати кілька файлів, або "Відкрити папку...", якщо ви хочете вибрати медіапапку. Додаток просканує вміст папки, і всі знайдені медіафайли будуть вибрані. Перейдіть до вашої медіапапки, натисніть "Відкрити", щоб підтвердити вибір, і файли будуть додані до черги програвача. Ці файли будуть відтворюватися безпосередньо з вибраного місця без копіювання в пакет додатку.<br><br>
 
 **Додавання папки до обраного для швидкого доступу**<br>
@@ -422,13 +422,13 @@ Evervideo використовує лише офіційний SDK та захи
 **Додавання локальних файлів до плейлиста**<br>
 Щоб додати локальні файли до плейлиста, відкрийте екран "Плейлисти" та натисніть кнопку "більше" у правому верхньому куті. Виберіть "+ Новий плейлист", введіть назву для нового плейлиста, а на наступному екрані виберіть опцію "Файли на цьому пристрої" та натисніть "Відкрити файли...". Виберіть медіафайли, які хочете додати, та натисніть "Відкрити" для підтвердження. Файли будуть додані до вашого плейлиста, де ви можете змінити порядок треків та виконати інші дії за допомогою кнопки "більше".<br><br>
 
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Як відновити відтворення плейлиста з того місця, де я зупинився?" closed="true" %}}
+{{% ls-details title="Як відновити відтворення плейлиста з того місця, де я зупинився?" closed="true" %}}
 Спочатку переконайтеся, що "Зберегти стан медіаплеєра" увімкнено в Налаштування > Медіаплеєр > Загальні. Коли ви переключитеся на інший плейлист та повернетеся, ви побачите чотири дії на верхній панелі інструментів під обкладинкою альбому: "Пошук", "Продовжити відтворення", "Відтворити все" та "Перемішати все". Натисніть "Продовжити відтворення", щоб відновити плейлист з останнього збереженого стану та позиції медіа.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Як передати відео в Evervideo з мого комп'ютера?" closed="true" %}}
+{{% ls-details title="Як передати відео в Evervideo з мого комп'ютера?" closed="true" %}}
 Ви можете підключити комп'ютер або персональний NAS за допомогою протоколів SMB, WebDAV або DLNA. Альтернативно, використовуйте iTunes File Sharing для передачі медіафайлів.<br><br>
 
 Щоб підключити комп'ютер за допомогою протоколу SMB, натисніть "Файли" "Підключити хмарне сховище" → SMB. Введіть IP-адресу комп'ютера та назву спільної папки в поле URL у форматі smb://ip-адреса-комп'ютера/назва-спільної-папки, введіть логін та пароль і натисніть "Готово". Якщо підключення успішне, ви побачите підключене сховище в розділі "Хмарне сховище".<br><br>
@@ -447,9 +447,9 @@ iTunes File Sharing — це ще одна технологія, яка дозв
 Детальна інструкція доступна тут:<br>
 [Як відтворювати локальні файли (файли iTunes) на моєму iPhone](/docs/howto/how-to-play-local-itunes-files-on-my-iphone)<br><br>
 
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Як завантажити відео?" closed="true" %}}
+{{% ls-details title="Як завантажити відео?" closed="true" %}}
 Перш ніж завантажити відео та дивитися його офлайн, вам потрібно підключити хмарне сховище.<br>
 Просто відкрийте екран "Файли" та підключіть хмарне сховище.<br>
 Після додавання ви можете завантажити відео з хмари.<br><br>
@@ -465,14 +465,14 @@ iTunes File Sharing — це ще одна технологія, яка дозв
 – Натисніть прапорець "Офлайн режим"<br>
 – Офлайн Виконавець/Альбом/Плейлист з'явиться в розділі "Файли" -> "Офлайн папки".<br><br>
 
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Які аудіоформати підтримує Evervideo?" closed="true" %}}
+{{% ls-details title="Які аудіоформати підтримує Evervideo?" closed="true" %}}
 Цей додаток підтримує стандартні **системні аудіокодеки** та додаткові **програмні кодеки ffmpeg**:<br><br>
 3g2, 3gp, 3gp2, 3gpp, 8svx, aa, aac, aax, ac3, act, adt, adts, aif, aifc, aiff, alac, amr, amv, ape, asf, au, avi, awb, caf, cavs, cdda, cue, dct, dff, drc, dsf, dss, dvf, "dvr-ms", ec3, f4a, f4b, f4p, f4v, flac, flv, gif, gifv, gsm, gxf, h261, h263, h264, ifv, iklax, ivf, ivs, l16, latm, loas, m2t, m2ts, m2v, m3u, m3u8, m4a, m4b, m4p, m4r, m4v, mka, mkv, mmf, mng, mod, mogg, mov, mp1, mp2, mp3, mp4, mp4v, mpa, mpc, mpe, mpeg, mpg, mpv, msv, mts, mxf, nsf, nsv, nut, oga, ogg, ogv, opus, pcm, pls, qt, ra, raw, rm, rmvb, roq, rv, sln, snd, svi, tod, tta, vob, voc, vox, vtt, w64, wav, wave, webm, wma, wmv, wv, xhe, xmv, y4m, yuv.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Чи працює Evervideo з NAS-пристроями?" closed="true" %}}
+{{% ls-details title="Чи працює Evervideo з NAS-пристроями?" closed="true" %}}
 
 Так, Evervideo підтримує з'єднання з NAS за допомогою протоколів **SMB**, **WebDAV** та **DLNA**.<br><br>
 
@@ -496,9 +496,9 @@ iTunes File Sharing — це ще одна технологія, яка дозв
 • Показує всі виявлені NAS-пристрої у вашій локальній мережі.<br>
 • Натисніть на назву пристрою, щоб підключитися, потім введіть облікові дані за потреби.<br><br>
 
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Як використовувати функцію Wi-Fi Drive в Evervideo?" closed="true" %}}
+{{% ls-details title="Як використовувати функцію Wi-Fi Drive в Evervideo?" closed="true" %}}
 
 **Бездротова передача за допомогою настільного браузера**<br>
 1. Запустіть додаток: Відкрийте Evervideo.<br>
@@ -523,39 +523,39 @@ iTunes File Sharing — це ще одна технологія, яка дозв
 
 [Дізнатися більше](/docs/howto/how-to-transfer-files-wirelessly-from-a-computer-to-an-iphone-using-wifi-drive)
 
-{{% /details %}}
+{{% /ls-details %}}
 
 </div>
 
 
 <div class="hx:mt-6"></div>
 
-{{< hextra/section-headline >}}
+{{< ls-section-headline >}}
   Посібник користувача
-{{< /hextra/section-headline >}}
+{{< /ls-section-headline >}}
 
 <div class="hx:mt-6"></div>
 
 <div class="hx:w-full">
 
 <div class="hx:w-full hx:mx-auto hx:flex hx:flex-col hx:items-center hx:text-center">
-  {{< hextra/info-paragraph border="false" >}}
+  {{< ls-info-paragraph border="false" >}}
   Цей посібник допоможе вам отримати максимум від Evervideo на iPhone, iPad або Mac. Дізнайтеся, як транслювати відео з хмарних сховищ і NAS, користуватися режимом «Картинка в картинці», керувати субтитрами та налаштовувати аудіо- й відеоеквалайзери. Evervideo дає повний контроль над усією вашою колекцією відео — з будь-якого джерела — в одному простому додатку.
-  {{< /hextra/info-paragraph >}}
+  {{< /ls-info-paragraph >}}
 </div>
 
 {{< cards >}}
-  {{< feature-card icon="location-marker" title="Навігація" subtitle="Дізнайтеся, як орієнтуватися в Evervideo за допомогою панелі вкладок на iPhone або лівого меню на iPad і Mac, а також компактного відеоплеєра, що завжди видно на екрані." link="/docs/guide/evervideo/evervideo-guide-navigation" >}}
+  {{< ls-feature-card icon="location-marker" title="Навігація" subtitle="Дізнайтеся, як орієнтуватися в Evervideo за допомогою панелі вкладок на iPhone або лівого меню на iPad і Mac, а також компактного відеоплеєра, що завжди видно на екрані." link="/docs/guide/evervideo/evervideo-guide-navigation" >}}
 
-  {{< feature-card icon="folder" title="Файли" subtitle="Підключайте хмарні облікові записи, спільні папки NAS, медіасервери (Plex, Jellyfin, Emby, Subsonic, Navidrome), потоки RTSP та локальні файли в одній об'єднаній вкладці." link="/docs/guide/evervideo/evervideo-guide-files" >}}
+  {{< ls-feature-card icon="folder" title="Файли" subtitle="Підключайте хмарні облікові записи, спільні папки NAS, медіасервери (Plex, Jellyfin, Emby, Subsonic, Navidrome), потоки RTSP та локальні файли в одній об'єднаній вкладці." link="/docs/guide/evervideo/evervideo-guide-files" >}}
 
-  {{< feature-card icon="library" title="Медіатека" subtitle="Упорядковуйте та переглядайте відео й музику за альбомами, жанрами, нещодавніми та обраними — а також бібліотеку «Фотографії» iOS і медіатеку Apple Music." link="/docs/guide/evervideo/evervideo-guide-video-library" >}}
+  {{< ls-feature-card icon="library" title="Медіатека" subtitle="Упорядковуйте та переглядайте відео й музику за альбомами, жанрами, нещодавніми та обраними — а також бібліотеку «Фотографії» iOS і медіатеку Apple Music." link="/docs/guide/evervideo/evervideo-guide-video-library" >}}
 
-  {{< feature-card icon="collection" title="Списки відтворення" subtitle="Створюйте та впорядковуйте списки для відео, музики, серіалів або курсів та імпортуйте файли M3U / M3U8 / CUE." link="/docs/guide/evervideo/evervideo-guide-playlists" >}}
+  {{< ls-feature-card icon="collection" title="Списки відтворення" subtitle="Створюйте та впорядковуйте списки для відео, музики, серіалів або курсів та імпортуйте файли M3U / M3U8 / CUE." link="/docs/guide/evervideo/evervideo-guide-playlists" >}}
 
-  {{< feature-card icon="play" title="Медіаплеєр" subtitle="Керуйте відтворенням, чергою, режимом «Картинка в картинці», аудіо- й відеодоріжками, основними та додатковими субтитрами, а також аудіо- й відеоеквалайзерами." link="/docs/guide/evervideo/evervideo-guide-player" >}}
+  {{< ls-feature-card icon="play" title="Медіаплеєр" subtitle="Керуйте відтворенням, чергою, режимом «Картинка в картинці», аудіо- й відеодоріжками, основними та додатковими субтитрами, а також аудіо- й відеоеквалайзерами." link="/docs/guide/evervideo/evervideo-guide-player" >}}
 
-  {{< feature-card icon="adjustments" title="Налаштування" subtitle="Налаштуйте зовнішній вигляд, декодер, еквалайзери, субтитри, віджети, мову, код-пароль, резервне копіювання та параметри продуктивності Evervideo." link="/docs/guide/evervideo/evervideo-guide-settings" >}}
+  {{< ls-feature-card icon="adjustments" title="Налаштування" subtitle="Налаштуйте зовнішній вигляд, декодер, еквалайзери, субтитри, віджети, мову, код-пароль, резервне копіювання та параметри продуктивності Evervideo." link="/docs/guide/evervideo/evervideo-guide-settings" >}}
 
 {{< /cards >}}
 

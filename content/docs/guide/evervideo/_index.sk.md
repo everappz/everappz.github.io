@@ -74,18 +74,18 @@ Tento sprievodca vás prevedie každou časťou Evervideo na iPhone, iPad a Mac 
 
 {{< cards cols="2">}}
 
-{{< card icon="map" link="/docs/guide/evervideo/evervideo-guide-navigation" title="Navigácia" subtitle="Panel kariet na iPhone, ľavé menu na iPad a Mac, kompaktný mediálny prehrávač vždy na obrazovke." >}}
+{{< ls-card icon="map" link="/docs/guide/evervideo/evervideo-guide-navigation" title="Navigácia" subtitle="Panel kariet na iPhone, ľavé menu na iPad a Mac, kompaktný mediálny prehrávač vždy na obrazovke." >}}
 
-{{< card icon="folder" link="/docs/guide/evervideo/evervideo-guide-files" title="Súbory" subtitle="Jednotná karta pre cloud, NAS, RTSP streamy, miestne súbory, USB disky a frontu prenosov." >}}
+{{< ls-card icon="folder" link="/docs/guide/evervideo/evervideo-guide-files" title="Súbory" subtitle="Jednotná karta pre cloud, NAS, RTSP streamy, miestne súbory, USB disky a frontu prenosov." >}}
 
-{{< card icon="collection" link="/docs/guide/evervideo/evervideo-guide-video-library" title="Mediálna knižnica" subtitle="Prehliadajte podľa albumov, žánrov, posledných, obľúbených — plus knižnica iOS Photos a Apple Music." >}}
+{{< ls-card icon="collection" link="/docs/guide/evervideo/evervideo-guide-video-library" title="Mediálna knižnica" subtitle="Prehliadajte podľa albumov, žánrov, posledných, obľúbených — plus knižnica iOS Photos a Apple Music." >}}
 
-{{< card icon="music-note" link="/docs/guide/evervideo/evervideo-guide-playlists" title="Playlisty" subtitle="Vytvárajte playlisty z cloudu, miestnych súborov, Photos alebo Music knižnice, importujte M3U / M3U8 / CUE." >}}
+{{< ls-card icon="music-note" link="/docs/guide/evervideo/evervideo-guide-playlists" title="Playlisty" subtitle="Vytvárajte playlisty z cloudu, miestnych súborov, Photos alebo Music knižnice, importujte M3U / M3U8 / CUE." >}}
 
-{{< card icon="play" link="/docs/guide/evervideo/evervideo-guide-player" title="Mediálny prehrávač" subtitle="Picture-in-Picture, audio a video stopy, titulky, audio + video ekvalizéry, AirPlay, Chromecast." >}}
+{{< ls-card icon="play" link="/docs/guide/evervideo/evervideo-guide-player" title="Mediálny prehrávač" subtitle="Picture-in-Picture, audio a video stopy, titulky, audio + video ekvalizéry, AirPlay, Chromecast." >}}
 
-{{< card icon="adjustments" link="/docs/guide/evervideo/evervideo-guide-settings" title="Nastavenia" subtitle="Audio jadro, video dekodér, titulky, knižnica, správca súborov, widgety, personalizácia, jazyk, záloha." >}}
+{{< ls-card icon="adjustments" link="/docs/guide/evervideo/evervideo-guide-settings" title="Nastavenia" subtitle="Audio jadro, video dekodér, titulky, knižnica, správca súborov, widgety, personalizácia, jazyk, záloha." >}}
 
-{{< card icon="question-mark-circle" link="/docs/faq/evervideo" title="FAQ" subtitle="Nájdite odpovede na najčastejšie otázky o Evervideo." >}}
+{{< ls-card icon="question-mark-circle" link="/docs/faq/evervideo" title="FAQ" subtitle="Nájdite odpovede na najčastejšie otázky o Evervideo." >}}
 
 {{< /cards >}}

@@ -12,7 +12,7 @@ authors:
     image: "/images/about/artem-meleshko-founder-everappz.webp"
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 ## 3 Millionen Downloads
 
@@ -98,22 +98,22 @@ Evermusic ist kostenlos im App Store mit optionalen Premium-Funktionen.
 
 ## Häufig gestellte Fragen
 
-{{% details title="Ist Evermusic kostenlos?" closed="true" %}}
+{{% ls-details title="Ist Evermusic kostenlos?" closed="true" %}}
 Ja. Evermusic ist kostenlos herunterladbar, wobei die Kernfunktionen ohne Kosten verfügbar sind. Premium-Funktionen wie der Equalizer und erweiterte Cloud-Optionen sind über ein optionales Upgrade erhältlich.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Kann Evermusic Hörbücher abspielen?" closed="true" %}}
+{{% ls-details title="Kann Evermusic Hörbücher abspielen?" closed="true" %}}
 Ja. Evermusic speichert Ihre Wiedergabeposition, unterstützt Lesezeichen, einstellbare Wiedergabegeschwindigkeit (0,5x bis 2,0x) und Schlaf-Timer — ideal für Hörbücher und Podcasts.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Mit welchen Cloud-Diensten verbindet sich Evermusic?" closed="true" %}}
+{{% ls-details title="Mit welchen Cloud-Diensten verbindet sich Evermusic?" closed="true" %}}
 Dropbox, Google Drive, OneDrive, Box, MEGA, Yandex.Disk, MyDrive, pCloud, HiDrive, SMB-Dateifreigaben und WebDAV-Server.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Kann ich eine SD-Karte mit Evermusic verwenden?" closed="true" %}}
+{{% ls-details title="Kann ich eine SD-Karte mit Evermusic verwenden?" closed="true" %}}
 Ja. Schließen Sie einen Lightning- oder USB-C-SD-Kartenleser an Ihr iPhone oder iPad an und streamen Sie Musik direkt von der Karte über Evermusic.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Funktioniert Evermusic auf dem Mac?" closed="true" %}}
+{{% ls-details title="Funktioniert Evermusic auf dem Mac?" closed="true" %}}
 Ja. Evermusic ist sowohl für iOS als auch macOS verfügbar, mit Cloud-Streaming und Offline-Wiedergabe auf allen Plattformen.
-{{% /details %}}
+{{% /ls-details %}}

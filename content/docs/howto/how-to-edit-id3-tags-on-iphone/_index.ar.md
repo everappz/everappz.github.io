@@ -7,7 +7,7 @@ tags: ["mp3", "محرر", "iPhone", "علامات", "بيانات وصفية", "
 readingTime: 2
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **ملخص:** استخدم محرر العلامات المدمج في Evermusic أو Flacbox لتعديل علامات ID3 على iPhone أو Mac -- للملفات السحابية والمحلية. هل تحتاج إلى تحرير دفعي أو أكثر من 120 حقل علامة؟ استخدم [Evertag](https://apps.apple.com/app/apple-store/id1450763230?pt=95781850&ct=everappzcom&mt=8) بدلاً من ذلك.
@@ -21,8 +21,8 @@ readingTime: 2
 بينما تقدم العديد من تطبيقات سطح المكتب تحرير البيانات الوصفية، يأخذ Evermusic و Flacbox البساطة إلى المستوى التالي من خلال تضمين محرر علامات ID3. الآن، يمكنك استخدام تطبيق واحد لبناء مكتبة الموسيقى الخاصة بك والاستمتاع بمساراتك وإصلاح علامات الصوت.
 
 {{< cards cols="2">}}
-{{< card link="https://apps.apple.com/app/apple-store/id885367198?pt=95781850&ct=everappzcom&mt=8" title="تنزيل Evermusic" icon="download" tag="Free" >}}
-{{< card link="https://apps.apple.com/app/apple-store/id1097564256?pt=95781850&ct=everappzcom&mt=8" title="تنزيل Flacbox" icon="download" tag="Free" >}}
+{{< ls-card link="https://apps.apple.com/app/apple-store/id885367198?pt=95781850&ct=everappzcom&mt=8" title="تنزيل Evermusic" icon="download" tag="Free" >}}
+{{< ls-card link="https://apps.apple.com/app/apple-store/id1097564256?pt=95781850&ct=everappzcom&mt=8" title="تنزيل Flacbox" icon="download" tag="Free" >}}
 {{< /cards >}}
 
 ## محرر احترافي
@@ -30,7 +30,7 @@ readingTime: 2
 ولكن قبل أن تبدأ، تحقق من تطبيق **Evertag** — فهو يدعم **أكثر من 120 علامة صوتية** و**أكثر من 30 تنسيقاً صوتياً** ويوفر **تحريراً دفعياً** قوياً. إذا كنت تبحث عن أداة إدارة علامات كاملة الميزات، فإن Evertag هو الخيار الأمثل. ومع ذلك، إذا كنت تحتاج فقط إلى **محرر علامات بسيط**، فلا تتردد في متابعة هذا الدليل.
 
 {{< cards >}}
-{{< card link="https://apps.apple.com/app/apple-store/id1450763230?pt=95781850&ct=everappzcom&mt=8" title="تنزيل Evertag" icon="download" tag="Free" >}}
+{{< ls-card link="https://apps.apple.com/app/apple-store/id1450763230?pt=95781850&ct=everappzcom&mt=8" title="تنزيل Evertag" icon="download" tag="Free" >}}
 {{< /cards >}}
 
 
@@ -38,21 +38,21 @@ readingTime: 2
 اربط حسابك السحابي المفضل داخل التطبيق.
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="ربط الخادم السحابي" image="/docs/howto/how-to-edit-id3-tags-on-iphone/connect_cloud_server.webp" >}}
+{{< ls-card title="" subtitle="ربط الخادم السحابي" image="/docs/howto/how-to-edit-id3-tags-on-iphone/connect_cloud_server.webp" >}}
 {{< /cards >}}
 
 ## انتقل إلى ملفاتك الصوتية  
 افتح المجلد الذي يحتوي على ملفاتك الصوتية في الحساب السحابي المتصل.
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="المجلدات السحابية" image="/docs/howto/how-to-edit-id3-tags-on-iphone/cloud_server_folders.webp" >}}
+{{< ls-card title="" subtitle="المجلدات السحابية" image="/docs/howto/how-to-edit-id3-tags-on-iphone/cloud_server_folders.webp" >}}
 {{< /cards >}}
 
 ## الوصول إلى خيارات الملف  
 اضغط على زر "المزيد" ('...') بجوار الملف الذي تريد تعديله.
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="المزيد من الإجراءات" image="/docs/howto/how-to-edit-id3-tags-on-iphone/cloud_server_audio_more_actions.webp" >}}
+{{< ls-card title="" subtitle="المزيد من الإجراءات" image="/docs/howto/how-to-edit-id3-tags-on-iphone/cloud_server_audio_more_actions.webp" >}}
 {{< /cards >}}
 
 ## اختر "تحرير علامات الصوت"  
@@ -70,7 +70,7 @@ readingTime: 2
 بمجرد الانتهاء من التحرير، اضغط على زر "حفظ" لحفظ تغييراتك.
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="محرر العلامات" image="/docs/howto/how-to-edit-id3-tags-on-iphone/tags_editor.webp" >}}
+{{< ls-card title="" subtitle="محرر العلامات" image="/docs/howto/how-to-edit-id3-tags-on-iphone/tags_editor.webp" >}}
 {{< /cards >}}
 
 ## الإكمال التلقائي الذكي  
@@ -88,7 +88,7 @@ readingTime: 2
 - **انتقل إلى قسم "الملفات المحلية"**، ثم مرر لأسفل إلى **"الملفات على هذا الجهاز."**
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="الملفات على هذا الجهاز" image="/docs/howto/how-to-edit-id3-tags-on-iphone/local_files.webp" >}}
+{{< ls-card title="" subtitle="الملفات على هذا الجهاز" image="/docs/howto/how-to-edit-id3-tags-on-iphone/local_files.webp" >}}
 {{< /cards >}}
 
 - اضغط على **"ربط مجلد"**.
@@ -96,25 +96,25 @@ readingTime: 2
 - في منتقي المجلدات، اختر الدليل الذي تريد الوصول إليه واضغط على **"فتح"** للتأكيد.
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="ربط مجلد خارجي" image="/docs/howto/how-to-edit-id3-tags-on-iphone/connect_external_folder.webp" >}}
+{{< ls-card title="" subtitle="ربط مجلد خارجي" image="/docs/howto/how-to-edit-id3-tags-on-iphone/connect_external_folder.webp" >}}
 {{< /cards >}}
 
 - بعد إضافة المجلد، اضغط عليه لعرض الملفات بداخله.
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="محتوى المجلد الخارجي" image="/docs/howto/how-to-edit-id3-tags-on-iphone/connected_external_folder.webp" >}}
+{{< ls-card title="" subtitle="محتوى المجلد الخارجي" image="/docs/howto/how-to-edit-id3-tags-on-iphone/connected_external_folder.webp" >}}
 {{< /cards >}}
 
 - تماماً كما هو الحال مع الملفات السحابية، اضغط على زر **"المزيد من الإجراءات"** بجوار ملف صوتي وحدد **"تحرير علامات الصوت".**
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="المزيد من الإجراءات - ملف محلي" image="/docs/howto/how-to-edit-id3-tags-on-iphone/more_actions_local_file.webp" >}}
+{{< ls-card title="" subtitle="المزيد من الإجراءات - ملف محلي" image="/docs/howto/how-to-edit-id3-tags-on-iphone/more_actions_local_file.webp" >}}
 {{< /cards >}}
 
 - سيفتح محرر العلامات. أجرِ تغييراتك واضغط على **"حفظ"**. هذا كل شيء! يتم تطبيق تعديلاتك مباشرة على الملف — لا حاجة لنسخه أو نقله.
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="محرر العلامات - ملف محلي" image="/docs/howto/how-to-edit-id3-tags-on-iphone/tag_editor_local_file.webp" >}}
+{{< ls-card title="" subtitle="محرر العلامات - ملف محلي" image="/docs/howto/how-to-edit-id3-tags-on-iphone/tag_editor_local_file.webp" >}}
 {{< /cards >}}
 
 ## تحرير غلاف الألبوم
@@ -126,7 +126,7 @@ readingTime: 2
 3. حدد صورة لتطبيقها كغلاف للألبوم.
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="اختيار صورة" image="/docs/howto/how-to-edit-id3-tags-on-iphone/tags_editor_choose_image.webp" >}}
+{{< ls-card title="" subtitle="اختيار صورة" image="/docs/howto/how-to-edit-id3-tags-on-iphone/tags_editor_choose_image.webp" >}}
 {{< /cards >}}
 
 ## المزيد من الإجراءات في محرر العلامات
@@ -134,7 +134,7 @@ readingTime: 2
 خيارات تحرير إضافية متاحة عبر شريط الأدوات أسفل عرض العمل الفني.
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="قائمة المزيد من الإجراءات" image="/docs/howto/how-to-edit-id3-tags-on-iphone/tags_edito_more_actions.webp" >}}
+{{< ls-card title="" subtitle="قائمة المزيد من الإجراءات" image="/docs/howto/how-to-edit-id3-tags-on-iphone/tags_edito_more_actions.webp" >}}
 {{< /cards >}}
 
 ### البحث التلقائي عن علامات الصوت
@@ -195,22 +195,22 @@ readingTime: 2
 
 ## الأسئلة الشائعة
 
-{{% details title="ما هي تنسيقات الصوت التي يمكنني تحرير علاماتها؟" closed="true" %}}
+{{% ls-details title="ما هي تنسيقات الصوت التي يمكنني تحرير علاماتها؟" closed="true" %}}
 يدعم Evermusic و Flacbox تحرير العلامات لتنسيقات MP3 و FLAC و AAC و OGG وتنسيقات صوتية شائعة أخرى. يدعم Evertag أكثر من 30 تنسيقاً بما في ذلك WAV و AIFF و WMA و APE.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="هل يمكنني تحرير العلامات للملفات المخزنة في الخدمات السحابية؟" closed="true" %}}
+{{% ls-details title="هل يمكنني تحرير العلامات للملفات المخزنة في الخدمات السحابية؟" closed="true" %}}
 نعم. اربط حسابك على Dropbox أو Google Drive أو OneDrive أو أي حساب سحابي آخر. يقوم التطبيق بتنزيل الملف ويتيح لك تحرير العلامات ويرفع الملف المعدل تلقائياً مرة أخرى إلى السحابة.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="ما الفرق بين Evermusic/Flacbox و Evertag؟" closed="true" %}}
+{{% ls-details title="ما الفرق بين Evermusic/Flacbox و Evertag؟" closed="true" %}}
 Evermusic و Flacbox هما مشغلا موسيقى مع محرر علامات أساسي مدمج. Evertag هو محرر علامات مخصص يدعم أكثر من 120 علامة صوتية وتحريراً دفعياً وأكثر من 30 تنسيقاً -- مثالي لإدارة المكتبات الكبيرة.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="هل تتطلب ميزة البحث التلقائي اتصالاً بالإنترنت؟" closed="true" %}}
+{{% ls-details title="هل تتطلب ميزة البحث التلقائي اتصالاً بالإنترنت؟" closed="true" %}}
 نعم. تستعلم ميزة البحث التلقائي عن علامات الصوت من قاعدة بيانات MusicBrainz عبر الإنترنت للعثور على البيانات الوصفية وملئها. يلزم اتصال إنترنت نشط لهذه الميزة.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="هل سيغير تحرير العلامات جودة الصوت؟" closed="true" %}}
+{{% ls-details title="هل سيغير تحرير العلامات جودة الصوت؟" closed="true" %}}
 لا. يعدل تحرير العلامات فقط البيانات الوصفية المضمنة في الملف. تبقى بيانات الصوت نفسها دون تغيير -- لا يحدث إعادة ترميز.
-{{% /details %}}
+{{% /ls-details %}}

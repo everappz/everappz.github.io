@@ -25,7 +25,7 @@ Evermusicの機能は、「ミュージックライブラリ」と「プレイ�
 iPhone、iPad、またはMacのコンパクトモードを使用している場合でも、すべてのアプリ機能は画面下部のタブバーを通して簡単にアクセスできます。iPadおよびMacのユーザーは、画面の左側に同じメニューがあります。この整然とした構成により、すべてのアプリ機能がアクセスしやすいセクションに分類され、ユーザーフレンドリーで効率的な体験が保証されます。
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="iPadとMacのEvermusicの左サイドバー" image="/docs/guide/evermusic/evermusic-guide-navigation/img/navigation-left-sidebar.webp" >}}
+  {{< ls-card title="" subtitle="iPadとMacのEvermusicの左サイドバー" image="/docs/guide/evermusic/evermusic-guide-navigation/img/navigation-left-sidebar.webp" >}}
 {{< /cards >}}
 
 **接続:** この画面では、Google Drive、MEGA、OneDrive、Dropboxなどのクラウドストレージサービスやコンピューター、個人用NASに簡単に接続できます。
@@ -47,7 +47,7 @@ iPhone、iPad、またはMacのコンパクトモードを使用している場�
 ミニプレーヤーアイコンをタップしてフルスクリーンプレーヤーを起動し、下にスワイプするジェスチャーで非表示にできます。iPadおよびMacでは、ミニプレーヤー画面は画面の上部にあり、メインメニューからフルスクリーンプレーヤーを開くときに非表示にできます。
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="iPhoneタブバー" image="/docs/guide/evermusic/evermusic-guide-navigation/img/navigation-bottom-tabbar.webp" >}}
+  {{< ls-card title="" subtitle="iPhoneタブバー" image="/docs/guide/evermusic/evermusic-guide-navigation/img/navigation-bottom-tabbar.webp" >}}
 {{< /cards >}}
 
 ## ミニプレーヤーウィンドウ（Mac専用）
@@ -55,7 +55,7 @@ iPhone、iPad、またはMacのコンパクトモードを使用している場�
 Macでミニプレーヤーウィンドウにアクセスするには、アプリウィンドウの右下端にカーソルを移動し、可能な限り小さいサイズにリサイズします。次に、折りたたみボタン（下向き矢印で表示）をタップしてミニプレーヤーウィンドウを起動します。ミニプレーヤーウィンドウを常に他のウィンドウの上に表示するには、Macの上部メニューバーに移動し、「ウィンドウ」を選択してから「ウィンドウを常に前面に表示」を選びます。この機能は、中断なしに音声講座を聴くときに便利です。
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Macミニプレーヤーウィンドウ" image="/docs/guide/evermusic/evermusic-guide-navigation/img/navigation-mac-exclusive-miniplayer.webp" >}}
+  {{< ls-card title="" subtitle="Macミニプレーヤーウィンドウ" image="/docs/guide/evermusic/evermusic-guide-navigation/img/navigation-mac-exclusive-miniplayer.webp" >}}
 {{< /cards >}}
 
 ## その他のアクション
@@ -63,7 +63,7 @@ Macでミニプレーヤーウィンドウにアクセスするには、アプ�
 画面上のほぼすべてのコンテンツアイテムには「その他のアクション」ボタンがあります。タップすると使用可能なすべてのアクションにアクセスできます。
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="その他のアクションコンテキストメニュー" image="/docs/guide/evermusic/evermusic-guide-navigation/img/navigation-more-actions.webp" >}}
+  {{< ls-card title="" subtitle="その他のアクションコンテキストメニュー" image="/docs/guide/evermusic/evermusic-guide-navigation/img/navigation-more-actions.webp" >}}
 {{< /cards >}}
 
 ## 上部ツールバー
@@ -77,7 +77,7 @@ Macでミニプレーヤーウィンドウにアクセスするには、アプ�
 - **すべてシャッフル:** 現在のページのすべてのトラックをオーディオプレーヤーキューに追加し、追加前にシャッフルして楽しい試聴体験を提供します。
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="検索、すべて再生、すべてシャッフルを備えた上部ツールバー" image="/docs/guide/evermusic/evermusic-guide-navigation/img/navigation-top-toolbar.webp" >}}
+  {{< ls-card title="" subtitle="検索、すべて再生、すべてシャッフルを備えた上部ツールバー" image="/docs/guide/evermusic/evermusic-guide-navigation/img/navigation-top-toolbar.webp" >}}
 {{< /cards >}}
 
 ## コンテキストメニュー
@@ -91,7 +91,7 @@ Macでミニプレーヤーウィンドウにアクセスするには、アプ�
 **右クリック:** セル、ミニプレーヤー、またはコンパクトプレーヤーを右クリックしてコンテキストメニューを表示します。
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="macOSのコンテキストメニュー" image="/docs/guide/evermusic/evermusic-guide-navigation/img/navigation-context-menu-macos.webp" >}}
+  {{< ls-card title="" subtitle="macOSのコンテキストメニュー" image="/docs/guide/evermusic/evermusic-guide-navigation/img/navigation-context-menu-macos.webp" >}}
 {{< /cards >}}
 
 ## アクセシビリティ
@@ -125,7 +125,7 @@ Evermusicには、すべてのAppleプラットフォームでアプリの主要
 4つのウィジェットはすべて、小、中、大のサイズで利用可能なので、画面に合ったレイアウトを選べます。
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evermusicウィジェットの追加" image="/docs/guide/evermusic/evermusic-guide-navigation/img/navigation-add-widgets.webp" >}}
+  {{< ls-card title="" subtitle="Evermusicウィジェットの追加" image="/docs/guide/evermusic/evermusic-guide-navigation/img/navigation-add-widgets.webp" >}}
 {{< /cards >}}
 
 ### iPhoneにウィジェットを追加する（ホーム画面）
@@ -175,7 +175,7 @@ CarPlayウィジェットは音楽の変化に合わせてライブで更新さ�
 Evermusicには、車のディスプレイ向けに最適化された完全機能の**Apple CarPlay**インターフェース（iOSのみ）が含まれています。iPhoneがUSBまたはワイヤレスで互換性のあるCarPlayヘッドユニットに接続されると、EvermusicはApple MusicやSpotifyの隣にCarPlayアプリグリッドに表示され、道路上でクラウドライブラリをストリーミングする準備が整います。
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="CarPlay画面のEvermusic" image="/docs/guide/evermusic/evermusic-guide-navigation/img/navigation-carplay-menu.webp" >}}
+  {{< ls-card title="" subtitle="CarPlay画面のEvermusic" image="/docs/guide/evermusic/evermusic-guide-navigation/img/navigation-carplay-menu.webp" >}}
 {{< /cards >}}
 
 ### CarPlayで得られるもの

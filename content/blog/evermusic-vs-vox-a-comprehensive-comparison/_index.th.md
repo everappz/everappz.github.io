@@ -14,7 +14,7 @@ authors:
     image: "/images/about/artem-meleshko-founder-everappz.webp"
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 **สรุป:** Evermusic ชนะใน 5 จาก 8 หมวดหมู่ โดยเสมอ 3 หมวด รองรับที่เก็บข้อมูลคลาวด์ที่กว้างกว่า (12+ บริการ เทียบกับ VOX Cloud เท่านั้น) มีฟีเจอร์หนังสือเสียงในตัว โปรแกรมแก้ไขแท็ก ID3 และการถ่ายโอนไฟล์แบบไร้สาย VOX เหมาะสำหรับผู้ใช้ที่ชื่นชอบคลาวด์เฉพาะของตัวเองและการออกแบบที่เรียบง่าย
 
@@ -34,8 +34,8 @@ authors:
 | การเข้าถึง (VoiceOver) | ใช่ | ใช่ | เสมอ |
 
 {{< cards >}}
-  {{< card link="https://apps.apple.com/us/app/evermusic-cloud-music-player/id885367198" title="ดาวน์โหลด Evermusic" icon="download" tag="ฟรี" >}}
-  {{< card link="https://apps.apple.com/us/app/vox-mp3-flac-music-player/id916215494" title="ดาวน์โหลด VOX" icon="download" tag="ฟรี" >}}
+  {{< ls-card link="https://apps.apple.com/us/app/evermusic-cloud-music-player/id885367198" title="ดาวน์โหลด Evermusic" icon="download" tag="ฟรี" >}}
+  {{< ls-card link="https://apps.apple.com/us/app/vox-mp3-flac-music-player/id916215494" title="ดาวน์โหลด VOX" icon="download" tag="ฟรี" >}}
 {{< /cards >}}
 
 ## รองรับที่เก็บข้อมูลคลาวด์
@@ -107,18 +107,18 @@ Evermusic มีโหมด **Wi-Fi Drive** ที่ให้คุณอั�
 
 ## คำถามที่พบบ่อย
 
-{{% details title="Evermusic เป็นทางเลือกที่ดีแทน VOX หรือไม่?" closed="true" %}}
+{{% ls-details title="Evermusic เป็นทางเลือกที่ดีแทน VOX หรือไม่?" closed="true" %}}
 ใช่ Evermusic รองรับ 12+ บริการที่เก็บข้อมูลคลาวด์ เทียบกับคลาวด์เฉพาะของ VOX นอกจากนี้ยังมีฟีเจอร์หนังสือเสียง การแก้ไขแท็ก ID3 และการถ่ายโอนไฟล์ผ่าน Wi-Fi ที่ VOX ไม่มี Evermusic ดาวน์โหลดฟรีพร้อมอัปเกรด Premium แบบจ่ายครั้งเดียว
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="VOX รองรับ Dropbox หรือ Google Drive หรือไม่?" closed="true" %}}
+{{% ls-details title="VOX รองรับ Dropbox หรือ Google Drive หรือไม่?" closed="true" %}}
 ไม่ VOX ใช้ที่เก็บข้อมูลคลาวด์เฉพาะของตัวเอง VOX Cloud ไม่เชื่อมต่อกับบริการของบุคคลที่สามเช่น Dropbox, Google Drive หรือ OneDrive Evermusic รองรับทั้งหมดนี้และมากกว่า
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="แอปไหนดีกว่าสำหรับหนังสือเสียง: Evermusic หรือ VOX?" closed="true" %}}
+{{% ls-details title="แอปไหนดีกว่าสำหรับหนังสือเสียง: Evermusic หรือ VOX?" closed="true" %}}
 Evermusic ดีกว่ามากสำหรับหนังสือเสียง มีการควบคุมความเร็วการเล่น การบันทึกตำแหน่งอัตโนมัติ และรองรับบุ๊กมาร์ก VOX ไม่มีฟีเจอร์หนังสือเสียงเฉพาะ
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="ฉันสามารถแก้ไขแท็กเพลงบน iPhone ด้วย Evermusic ได้หรือไม่?" closed="true" %}}
+{{% ls-details title="ฉันสามารถแก้ไขแท็กเพลงบน iPhone ด้วย Evermusic ได้หรือไม่?" closed="true" %}}
 ได้ Evermusic มีโปรแกรมแก้ไขแท็ก ID3 ในตัวที่ให้คุณแก้ไขชื่อเพลง ชื่อศิลปิน ข้อมูลอัลบั้ม และข้อมูลเมตาอื่นๆ โดยตรงบน iPhone หรือ iPad ของคุณ
-{{% /details %}}
+{{% /ls-details %}}

@@ -7,7 +7,7 @@ tags: ["uživatelská příručka", "výukový program aplikace", "evermusic", "
 ---
 
 
-{{< lottie src="/images/juicy-json/juicy-woman-with-graph-chart.json" width="75%" >}}
+{{< ls-lottie src="/images/juicy-json/juicy-woman-with-graph-chart.json" width="75%" >}}
 
 ## Naučte se používat naše aplikace
 
@@ -19,4 +19,4 @@ Vyberte níže aplikaci a začněte.
 
 ## Vyberte si produkt
 
-{{< product-doc-cards section="guide" >}}
+{{< ls-product-doc-cards section="guide" >}}

@@ -6,7 +6,7 @@ tags: ["yerel muzik", "cevrimdisi muzik", "muzik caalar", "iPhone", "Mac", "Ever
 keywords: ["iPhone'da yerel muzik nasil oynatilir", "cihaz depolamasindan muzik oynatma", "cevrimdisi muzik caalar iOS", "Evermusic uygulama rehberi", "Flacbox FLAC caalar", "iOS yerel dosya oynatma", "Mac muzik kutuphanesi", "yerel dosyalar icin muzik uygulamasi", "iPhone indirilen sarkilari oynatma", "Evermusic'i yerel dosyalarla nasil kullanilir"]
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **Ozet:** [Evermusic](/products/evermusic) (MP3/WAV) veya [Flacbox](/products/flacbox) (FLAC/DSD) yukleyin, herhangi bir yerel ses dosyasini veya klasoru acin ve oynatmaya baslayin. Hizli erisim icin klasorleri **Favoriler**'e ekleyin, parcalari Muzik Kutuphanenize aktarin veya **Calma Listeleri** olusturun.
@@ -24,10 +24,10 @@ Apple cihazlarinizda yerel muziginizi sorunsuz bir sekilde oynatmak icin yontem 
 iPhone ve Mac'inizde yerel muzik dunyasina yolculugunuza baslamak icin Evermusic (mp3 ve wav gibi standart ses formatlari icin) veya Flacbox (dsd ve flac'da kayipsiz muzik icin) yukleyerek baslayin. Her iki uygulama da iOS ve MacOS icin mevcuttur ve ucretsiz olarak indirebilirsiniz.
 
 {{< cards >}}
-  {{< card link="https://apps.apple.com/us/app/evermusic-cloud-music-player/id885367198?pt=95781850&ct=everappzcom&mt=8" title="iOS icin Evermusic'i Indirin" tag="iOS" >}}
-  {{< card link="https://apps.apple.com/us/app/flacbox-hi-res-equalizer/id1097564256?pt=95781850&ct=everappzcom&mt=8" title="iOS icin Flacbox'i Indirin" tag="iOS" >}}
-  {{< card link="https://apps.apple.com/us/app/evermusic-hi-res-music-player/id1564384601?pt=95781850&ct=everappzcom&mt=8" title="Mac icin Evermusic'i Indirin" tag="macOS" >}}
-  {{< card link="https://apps.apple.com/us/app/flacbox-hi-res-music-player/id1594027432?pt=95781850&ct=everappzcom&mt=8" title="Mac icin Flacbox'i Indirin" tag="macOS" >}}
+  {{< ls-card link="https://apps.apple.com/us/app/evermusic-cloud-music-player/id885367198?pt=95781850&ct=everappzcom&mt=8" title="iOS icin Evermusic'i Indirin" tag="iOS" >}}
+  {{< ls-card link="https://apps.apple.com/us/app/flacbox-hi-res-equalizer/id1097564256?pt=95781850&ct=everappzcom&mt=8" title="iOS icin Flacbox'i Indirin" tag="iOS" >}}
+  {{< ls-card link="https://apps.apple.com/us/app/evermusic-hi-res-music-player/id1564384601?pt=95781850&ct=everappzcom&mt=8" title="Mac icin Evermusic'i Indirin" tag="macOS" >}}
+  {{< ls-card link="https://apps.apple.com/us/app/flacbox-hi-res-music-player/id1594027432?pt=95781850&ct=everappzcom&mt=8" title="Mac icin Flacbox'i Indirin" tag="macOS" >}}
 {{< /cards >}}
 
 
@@ -135,22 +135,22 @@ Bu basit adimlarla, degerli yerel muzik koleksiyonunuzun keyfini cikarmak icin i
 
 ## FAQ
 
-{{% details title="Evermusic ve Flacbox hangi ses formatlarini oynatabilir?" closed="true" %}}
+{{% ls-details title="Evermusic ve Flacbox hangi ses formatlarini oynatabilir?" closed="true" %}}
 Evermusic MP3, WAV, AAC, M4A ve diger standart formatlari oynatir. Flacbox, FLAC, DSD, OGG, OPUS, APE, WMA ve ALAC destegi ekler.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Bu uygulamalar dosyalari uygulama deposuna kopyalar mi?" closed="true" %}}
+{{% ls-details title="Bu uygulamalar dosyalari uygulama deposuna kopyalar mi?" closed="true" %}}
 Varsayilan olarak, dosyalar kopyalanmadan orijinal konumlarindan oynatilir. Bu davranisi degistirmek icin **Ayarlar** > File manager'da "Always copy files during opening"i etkinlestirin.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Yerel muzigi sanatci ve albume gore duzenleyebilir miyim?" closed="true" %}}
+{{% ls-details title="Yerel muzigi sanatci ve albume gore duzenleyebilir miyim?" closed="true" %}}
 Evet. Dosyalari Muzik Kutuphanesine aktarin (Adim 4) ve uygulama parcalari Sanatci, Album, Tur ve Besteci'ye gore gruplamak icin meta verileri okur.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Bilgisayarimdan iPhone'a muzik nasil aktaririm?" closed="true" %}}
+{{% ls-details title="Bilgisayarimdan iPhone'a muzik nasil aktaririm?" closed="true" %}}
 iTunes File Sharing (USB), WiFi Drive (kablosuz) veya SMB (streaming) kullanin. Ayrintili kilavuzumuza bakin: [iPhone'da Yerel Dosyalari Aktarma ve Oynatma](/docs/howto/how-to-play-local-itunes-files-on-my-iphone/).
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Evermusic ve Flacbox ucretsiz mi?" closed="true" %}}
+{{% ls-details title="Evermusic ve Flacbox ucretsiz mi?" closed="true" %}}
 Evet, her iki uygulama da oynatma, ekolayzer ve bulut streaming dahil temel ozelliklerle ucretsiz olarak indirilebilir. Ucretsiz surumler bazi sinirlamalara sahiptir (**Calma Listeleri** sayisi, bulut hesaplari, cevrimdisi klasorler). Premium'a yukseltme bu sinirlamalari kaldirir.
-{{% /details %}}
+{{% /ls-details %}}

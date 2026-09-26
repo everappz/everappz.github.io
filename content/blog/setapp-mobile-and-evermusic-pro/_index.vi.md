@@ -12,7 +12,7 @@ authors:
     image: "/images/about/artem-meleshko-founder-everappz.webp"
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 ![](/blog/setapp-mobile-and-evermusic-pro/21260c_766c4fbc81e6433cb8fc21b9c2862ce0~mv2.png)
 
@@ -59,27 +59,27 @@ Kết nối với **NAS, SMB** và **WebDAV** để phát từ xa.
 Sẵn sàng thử? Nhận Evermusic Pro qua Setapp Mobile và bắt đầu phát thư viện nhạc đám mây hôm nay.
 
 {{< cards cols="1" >}}
-  {{< card link="https://go.setapp.com/stp435?_target=https://www.setapp.com/setapp-mobile&stc=mobile" title="Tải Evermusic Pro với Setapp Mobile" icon="download" >}}
+  {{< ls-card link="https://go.setapp.com/stp435?_target=https://www.setapp.com/setapp-mobile&stc=mobile" title="Tải Evermusic Pro với Setapp Mobile" icon="download" >}}
 {{< /cards >}}
 
 ## Câu hỏi thường gặp
 
-{{% details title="Evermusic Pro miễn phí với Setapp Mobile không?" closed="true" %}}
+{{% ls-details title="Evermusic Pro miễn phí với Setapp Mobile không?" closed="true" %}}
 Có. Evermusic Pro được bao gồm trong đăng ký Setapp Mobile không tốn thêm chi phí.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Evermusic Pro hỗ trợ dịch vụ đám mây nào?" closed="true" %}}
+{{% ls-details title="Evermusic Pro hỗ trợ dịch vụ đám mây nào?" closed="true" %}}
 Evermusic Pro kết nối Google Drive, Dropbox, OneDrive, iCloud, Box, MEGA, Yandex.Disk, pCloud, HiDrive và WebDAV. Cũng hỗ trợ SMB và NAS.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Tôi có thể nghe ngoại tuyến với Evermusic Pro không?" closed="true" %}}
+{{% ls-details title="Tôi có thể nghe ngoại tuyến với Evermusic Pro không?" closed="true" %}}
 Có. Bạn có thể tải track, album, nghệ sĩ hoặc danh sách phát để phát ngoại tuyến.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Evermusic Pro phát định dạng âm thanh nào?" closed="true" %}}
+{{% ls-details title="Evermusic Pro phát định dạng âm thanh nào?" closed="true" %}}
 Evermusic Pro hỗ trợ FLAC, MP3, AAC, WAV, ALAC, AIFF, OPUS, OGG và nhiều định dạng khác.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Tôi cần đăng ký Setapp riêng cho iPhone không?" closed="true" %}}
+{{% ls-details title="Tôi cần đăng ký Setapp riêng cho iPhone không?" closed="true" %}}
 Setapp Mobile có sẵn như một phần của gói đăng ký Setapp bao gồm ứng dụng iOS. Kiểm tra trang web Setapp để biết giá hiện tại.
-{{% /details %}}
+{{% /ls-details %}}

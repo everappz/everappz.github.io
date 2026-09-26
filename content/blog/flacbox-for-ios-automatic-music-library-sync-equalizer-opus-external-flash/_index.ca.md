@@ -12,7 +12,7 @@ authors:
     image: "/images/about/artem-meleshko-founder-everappz.webp"
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 **Flacbox 1.6** incorpora noves funcions importants al reproductor de música FLAC per a iPhone i iPad.
 
@@ -68,18 +68,18 @@ Tens comentaris o sol·licituds de funcions? Contacta'ns -- construïm Flacbox b
 
 ## Preguntes freqüents
 
-{{% details title="Quins formats d'àudio suporta Flacbox?" closed="true" %}}
+{{% ls-details title="Quins formats d'àudio suporta Flacbox?" closed="true" %}}
 Flacbox suporta FLAC, ALAC, MP3, AAC, OGG, OPUS, WAV, AIFF, DSD i altres formats d'àudio populars. Tots els formats funcionen amb l'equalitzador integrat.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Puc reproduir música des d'una targeta SD al meu iPhone?" closed="true" %}}
+{{% ls-details title="Puc reproduir música des d'una targeta SD al meu iPhone?" closed="true" %}}
 Sí. Connecta una targeta SD o microSD amb un Lightning to SD Card Camera Reader Adapter. Flacbox detecta la targeta automàticament i et permet navegar i reproduir arxius directament des de l'emmagatzematge extern.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Flacbox sincronitza amb l'emmagatzematge al núvol automàticament?" closed="true" %}}
+{{% ls-details title="Flacbox sincronitza amb l'emmagatzematge al núvol automàticament?" closed="true" %}}
 Sí. A partir de la versió 1.6, Flacbox pot sincronitzar automàticament la teva biblioteca musical des de carpetes al núvol. Activa la sincronització automàtica a la configuració i selecciona les carpetes que vols monitoritzar.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="L'equalitzador de Flacbox és personalitzable?" closed="true" %}}
+{{% ls-details title="L'equalitzador de Flacbox és personalitzable?" closed="true" %}}
 Sí. L'equalitzador de 10 bandes et permet ajustar els nivells de freqüència individuals entre -12 dB i +12 dB. Pots utilitzar preajustos integrats o desar les teves pròpies configuracions personalitzades.
-{{% /details %}}
+{{% /ls-details %}}

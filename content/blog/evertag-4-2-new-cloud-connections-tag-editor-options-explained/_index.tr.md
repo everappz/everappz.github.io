@@ -12,7 +12,7 @@ authors:
     image: "/images/about/artem-meleshko-founder-everappz.webp"
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 **Özet:** [Evertag 4.2](/products/evertag), iPhone, iPad ve Mac için ses etiket düzenleyicisinde büyük bir güncellemedir. Etiket düzenlemedeki temel hataları gidermek ve 6'dan fazla yeni bulut ve sunucu bağlantısı eklemek için çalıştık — **Internxt**, **Proton Drive**, **QNAP**, **Nextcloud**, **Amazon S3** ile birlikte **FTP**, **SFTP** ve **NFS** protokolleri. Wi-Fi Drive yenilenmiş bir arayüz, çoklu seçim modu, daha akıllı yükleme kuyruğu ve daha hızlı aktarımlar kazandı. Tüm uygulama **Liquid Glass** tasarımı için ayarlandı. Bu yazı ayrıca Evertag'in etiket düzenleyici ayarlarına derinlemesine iniyor — **ID3v2.4 vs ID3v2.3**, **albüm kapağı ölçeklendirme**, **etiket çoğaltma**, **bulut yükleme modları**, **indirilen dosyayı silme** ve **Spotify**, **Apple Music**, **Plex**, **Jellyfin** veya başka bir akış hizmeti için ses hazırlıyorsanız tam olarak hangi seçenekleri seçeceğinizi açıklıyor.
 
@@ -229,50 +229,50 @@ Uygulamayı beğeniyorsanız, lütfen App Store'da bir puan bırakın — bu ger
 
 ## Sıkça Sorulan Sorular
 
-{{% details title="Evertag 4.2'nin yenilikleri neler?" closed="true" %}}
+{{% ls-details title="Evertag 4.2'nin yenilikleri neler?" closed="true" %}}
 Evertag 4.2, 6'dan fazla yeni bulut ve sunucu bağlantısı (Internxt, Proton Drive, QNAP, Nextcloud, Amazon S3, FTP, SFTP, NFS), çoklu seçim ve daha akıllı yükleme kuyruğu ile yenilenmiş bir Wi-Fi Drive, Liquid Glass UI güncellemeleri, güncellenmiş bağlantı kütüphaneleri, kritik etiket düzenleme hata düzeltmeleri ve çeviri iyileştirmeleri ekler.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Evertag'de ID3v2.4 mü ID3v2.3 mü kullanmalıyım?" closed="true" %}}
+{{% ls-details title="Evertag'de ID3v2.4 mü ID3v2.3 mü kullanmalıyım?" closed="true" %}}
 Modern oynatıcılar (Evermusic, Plex, Jellyfin, Apple Music, foobar2000, VLC, modern Android uygulamaları) ve Latin olmayan karakterler içeren kütüphaneler için **ID3v2.4** kullanın — UTF-8 desteği Çince, Korece, Japonca, Rusça, Arapça ve İbranice etiketleri daha temiz hale getirir. Etiketleriniz bazı uygulamalarda yanlış görüntüleniyorsa, eski araç stereolarını hedefliyorsanız veya bir akış dağıtımcı boru hattı v2.4'ü reddediyorsa **ID3v2.3** kullanın. Her zaman geçiş yapıp yeniden kaydedebilirsiniz.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Düzenlemeden sonra Spotify'da etiketlerim neden yanlış?" closed="true" %}}
+{{% ls-details title="Düzenlemeden sonra Spotify'da etiketlerim neden yanlış?" closed="true" %}}
 Spotify çoğunlukla kendi kataloğundan meta veri görüntüler — yerel etiketleriniz yalnızca «Local Files» için veya sanatçı olarak yüklediğiniz içerik için kullanılır. Spotify Local Files için dosya etiketlemiyor ve doğru görüntülenmiyorsa, Evertag'de ID3v2.4'ü devre dışı bırakıp ID3v2.3 olarak kaydetmeyi deneyin — Spotify'ın ayrıştırıcısı tarihsel olarak v2.4 konusunda muhafazakar olmuştur.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Evertag'de hangi albüm kapağı boyutunu seçmeliyim?" closed="true" %}}
+{{% ls-details title="Evertag'de hangi albüm kapağı boyutunu seçmeliyim?" closed="true" %}}
 Çoğu kullanıcı için: **Büyük**. Telefonlar, iPad'ler, Mac'ler ve modern araç ekranlarında harika görünür ve dosyaları çok şişirmez. Büyük bir kütüphaneniz varsa ve disk tasarrufu istiyorsanız **Orta** kullanın. Yalnızca arşiv master'ları için veya gerçekten maksimum kalite gerektiğinde **Orijinal** (ölçeklendirme yok) kullanın — ancak bazı eski oynatıcıların çok büyük gömülü sanatlarla zorlandığını unutmayın. **Orijinal** Evertag premium kişiselleştirme yükseltmesinin parçasıdır.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Daha büyük albüm kapakları dosyalarımı büyütür mü?" closed="true" %}}
+{{% ls-details title="Daha büyük albüm kapakları dosyalarımı büyütür mü?" closed="true" %}}
 Evet. 3.000 × 3.000 px sanat eseri gömmek tek bir ses dosyasına birkaç megabayt ekleyebilir. 1.000 parçalık bir kütüphanede gigabaytlara ulaşır. Depolama dar ise Orta veya Büyük kullanın; boyutun önemli olmadığı bir NAS'tan yayın yapıyorsanız Çok büyük veya Orijinal uygundur.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Etiket çoğaltma nedir ve etkinleştirmeli miyim?" closed="true" %}}
+{{% ls-details title="Etiket çoğaltma nedir ve etkinleştirmeli miyim?" closed="true" %}}
 Etiket çoğaltma, temel meta verileri dosyanın hem ID3v1 (eski 128 bayt) hem de ID3v2 (modern) bölümlerine yazar. Yalnızca çok eski oynatıcıları veya ID3v1'i okuyan donanımı hedefliyorsanız etkinleştirin. Modern her şey (akıllı telefonlar, bilgisayarlar, son araç stereoları) için kapalı bırakın.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Evertag bulut dosyalarındaki etiketleri doğrudan düzenler mi?" closed="true" %}}
+{{% ls-details title="Evertag bulut dosyalarındaki etiketleri doğrudan düzenler mi?" closed="true" %}}
 Evet. Bulutunuza (Google Drive, Dropbox, OneDrive, iCloud Drive, Internxt, Proton Drive, QNAP, Nextcloud, Amazon S3 vb.) veya FTP/SFTP/NFS aracılığıyla bağlanın, bir dosya açın ve yerelmiş gibi etiketleri düzenleyin. Evertag dosyayı indirir, düzenlemelerinizi uygular ve güncellenmiş sürümü geri yükler. Ayarlarda «Her zaman sor», «Otomatik yükle» veya «Yükleme» modları arasında seçim yapabilirsiniz.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="iPhone'da Evertag ile FLAC etiketlerini düzenleyebilir miyim?" closed="true" %}}
+{{% ls-details title="iPhone'da Evertag ile FLAC etiketlerini düzenleyebilir miyim?" closed="true" %}}
 Evet. Evertag, gömülü sanat dahil tam okuma/yazma etiket desteği ile FLAC, MP3, M4A/MP4, AIFF, WAV, OGG, APE ve diğer önemli formatları destekler.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Ev sunucumda SFTP ile etiketleri nasıl güvenli düzenlerim?" closed="true" %}}
+{{% ls-details title="Ev sunucumda SFTP ile etiketleri nasıl güvenli düzenlerim?" closed="true" %}}
 Evertag'i açın, Bağlantılar'a gidin, SFTP'yi seçin ve sunucunuzun ana bilgisayar adı veya IP'sini, bağlantı noktasını (genellikle 22), kullanıcı adınızı ve bir parolayı veya bir SSH özel anahtarını girin. Evertag uzaktaki klasörlerinize göz atacak ve SSH üzerinden uçtan uca şifrelemeyle etiketleri doğrudan düzenleyecektir.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Aynı anda birden fazla dosyanın etiketlerini düzenleyebilir miyim?" closed="true" %}}
+{{% ls-details title="Aynı anda birden fazla dosyanın etiketlerini düzenleyebilir miyim?" closed="true" %}}
 Evet. Ayarlarda **Dosyaları aynı anda düzenle**'yi etkinleştirin. Birden fazla dosya seçin, etiket düzenleyiciyi açın ve değiştirdiğiniz herhangi bir alan tüm seçili dosyalara uygulanır. Tüm bir albüm için aynı album artist, yıl veya tür ayarlamanın en hızlı yolu.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Evertag 4.2 güncellemesi ücretsiz mi?" closed="true" %}}
+{{% ls-details title="Evertag 4.2 güncellemesi ücretsiz mi?" closed="true" %}}
 Evet. Evertag App Store'da ücretsiz indirilebilir ve 4.2 mevcut tüm kullanıcılar için ücretsiz bir güncellemedir. Yeni bulut entegrasyonları, Wi-Fi Drive iyileştirmeleri ve Liquid Glass UI temel güncellemenin parçasıdır.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Evertag 4.2 hangi cihazlarda mevcut?" closed="true" %}}
+{{% ls-details title="Evertag 4.2 hangi cihazlarda mevcut?" closed="true" %}}
 Evertag 4.2 iPhone, iPad ve Mac'te çalışır. iCloud Drive senkronizasyonu, etiket düzenleyici ayarlarınızı cihazlar arasında tutarlı tutar.
-{{% /details %}}
+{{% /ls-details %}}

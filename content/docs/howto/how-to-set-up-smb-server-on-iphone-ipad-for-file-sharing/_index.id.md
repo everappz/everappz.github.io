@@ -7,7 +7,7 @@ keywords: ["server SMB iPhone", "server SMB iPad", "cara menyiapkan SMB di iPhon
 readingTime: 10
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 SMB adalah fitur berbagi file yang tertanam di macOS, Windows, dan Linux, serta di hampir setiap network drive (NAS). Saat Anda menyambung ke folder bersama di komputer lain dan folder itu terbuka seperti disk biasa di Finder atau File Explorer, itulah SMB yang bekerja. Dengan [Everdisk](/products/everdisk) Anda bisa menempatkan berbagi SMB di iPhone atau iPad Anda, sehingga ponsel itu sendiri muncul sebagai network drive yang bisa dijelajahi, disalin darinya, dan disalin ke dalamnya oleh perangkat lain.
 
@@ -136,45 +136,45 @@ Sakelar **Pengeditan Berkas** di Pengaturan, Berbagi, Akses mengendalikan ini un
 
 ## Pertanyaan yang Sering Diajukan
 
-{{% details title="Berapa alamat dan port SMB untuk iPhone saya?" closed="true" %}}
+{{% ls-details title="Berapa alamat dan port SMB untuk iPhone saya?" closed="true" %}}
 Setelah Anda mulai berbagi, Everdisk menampilkan alamatnya di layar Berbagi. Tampilannya seperti smb://192.168.1.20:4455/Share. Angka 4455 adalah port yang dipakai Everdisk untuk SMB, dan Share adalah nama folder yang dibagikan. Bagian pertama adalah alamat iPhone Anda di Wi-Fi, jadi milik Anda akan berbeda.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Bisakah saya menyambung ke berbagi SMB iPhone dari Windows?" closed="true" %}}
+{{% ls-details title="Bisakah saya menyambung ke berbagi SMB iPhone dari Windows?" closed="true" %}}
 Windows File Explorer hanya menyambung ke SMB pada port standar dan tidak menerima port kustom di jalurnya, sedangkan Everdisk memakai port 4455. Jadi rute Map network drive polos sering kali tidak menjangkaunya. Gunakan pengelola file yang mengizinkan Anda mengatur port kustom, atau sambung dari Windows dengan WebDAV, FTP, atau tautan browser sebagai gantinya. Semua itu berfungsi dari Windows tanpa masalah port.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Bagaimana cara berbagi file antara dua iPhone dengan SMB?" closed="true" %}}
+{{% ls-details title="Bagaimana cara berbagi file antara dua iPhone dengan SMB?" closed="true" %}}
 Mulai server SMB di iPhone pertama di Everdisk. Di iPhone kedua, buka aplikasi Files, ketuk tombol more, pilih Connect to Server, dan masukkan alamat smb yang ditampilkan di Everdisk (misalnya smb://192.168.1.20:4455/Share). Sambung sebagai Guest atau dengan login Anda, dan berbaginya muncul di Files. Anda juga bisa memakai tab Perangkat milik Everdisk di ponsel kedua.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Apakah iPhone saya muncul di bilah samping Mac Finder secara otomatis?" closed="true" %}}
+{{% ls-details title="Apakah iPhone saya muncul di bilah samping Mac Finder secara otomatis?" closed="true" %}}
 Biasanya ya. Everdisk mengumumkan berbagi SMB di Wi-Fi Anda, jadi iPhone Anda sering muncul di bawah Locations atau Network di bilah samping Finder. Klik dan pilih Connect As, lalu Guest atau login Anda. Jika tidak muncul, sambung secara manual dengan Go, Connect to Server dan alamat smb lengkap.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Apakah saya perlu kata sandi untuk memakai SMB?" closed="true" %}}
+{{% ls-details title="Apakah saya perlu kata sandi untuk memakai SMB?" closed="true" %}}
 Tidak, login bersifat opsional. Biarkan Info Masuk dan Kata Sandi kosong di Pengaturan, Berbagi, Akses untuk mengizinkan akses tamu. Atur keduanya jika Anda ingin koneksi masuk terlebih dahulu. Info masuk dan kata sandi hanya diperlukan jika Anda mengaktifkan Wajibkan enkripsi SMB, karena koneksi terenkripsi tidak bisa anonim.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Apakah koneksi SMB terenkripsi?" closed="true" %}}
+{{% ls-details title="Apakah koneksi SMB terenkripsi?" closed="true" %}}
 Bisa. SMB adalah satu-satunya koneksi Everdisk yang mendukung enkripsi. Atur info masuk dan kata sandi, lalu aktifkan Wajibkan enkripsi SMB di Pengaturan, Berbagi. Setiap transfer kemudian dilindungi dengan SMB3 (AES). Perangkat lain perlu mendukung SMB3, yang dimiliki Mac modern dan Windows 10 atau yang lebih baru. Enkripsi adalah fitur Premium.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Bisakah orang mengubah atau menghapus file saya lewat SMB?" closed="true" %}}
+{{% ls-details title="Bisakah orang mengubah atau menghapus file saya lewat SMB?" closed="true" %}}
 Hanya jika Anda mengizinkannya. Sakelar Pengeditan Berkas di Pengaturan, Berbagi, Akses mengendalikan ini. Dengan aktif, perangkat yang terhubung bisa mengunggah, mengganti nama, dan menghapus. Dengan mati, berbaginya hanya-baca dan orang lain bisa menjelajah serta menyalin file dari ponsel Anda tetapi tidak bisa mengubah apa pun.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Mengapa koneksi SMB saya terputus?" closed="true" %}}
+{{% ls-details title="Mengapa koneksi SMB saya terputus?" closed="true" %}}
 iPhone Anda adalah server, dan iOS menjeda aplikasi yang terlalu lama berada di latar belakang. Biarkan Everdisk tetap terbuka di layar saat sebuah perangkat terhubung, dan colokkan ponsel ke sumber daya selama transfer yang panjang. Pastikan juga kedua perangkat tetap berada di Wi-Fi yang sama.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="SMB, WebDAV, atau FTP, mana yang harus saya pakai?" closed="true" %}}
+{{% ls-details title="SMB, WebDAV, atau FTP, mana yang harus saya pakai?" closed="true" %}}
 Gunakan SMB saat Anda ingin ponsel berperilaku seperti network drive sungguhan di Mac, iPhone lain, Linux, atau NAS, dan saat Anda menginginkan enkripsi. Gunakan WebDAV saat Anda ingin network drive yang juga berfungsi baik dari Windows. Gunakan FTP untuk kompatibilitas terluas dengan perangkat dan aplikasi lawas. Everdisk bisa menjalankan semuanya sekaligus, jadi Anda tidak terkunci pada satu pilihan.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Apakah Everdisk gratis?" closed="true" %}}
+{{% ls-details title="Apakah Everdisk gratis?" closed="true" %}}
 Ya, Everdisk gratis diunduh dan server SMB sudah termasuk. Pembelian Premium sekali bayar opsional menambahkan enkripsi SMB, port kustom, dan beberapa ekstra lain. Anda bisa menyiapkan SMB dan berbagi file tanpa membayar.
-{{% /details %}}
+{{% /ls-details %}}
 
 Siap mencobanya? [Unduh Everdisk dari App Store](https://apps.apple.com/app/apple-store/id6751851132?pt=95781850&ct=everappzcom&mt=8) dan buka iPhone Anda di Finder dalam waktu sekitar satu menit. Ada pertanyaan atau masukan? Kirim email ke **support@everappz.com**.
 </content>

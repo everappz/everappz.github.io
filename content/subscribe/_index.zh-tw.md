@@ -15,10 +15,6 @@ keywords: [
 tags: [
   "訂閱", "電子報", "應用程式更新", "everappz","應用程式優惠", "搶先體驗"
 ]
-footer:
-  enable: false
-navbar:
-  enable: false
 hidden: true
 layout: hextra-home
 breadcrumbs: false
@@ -29,7 +25,7 @@ sidebar:
 ---
 
 <div class="lottie-wrapper hx:w-full hx:text-center">
-  {{< lottie src="/images/juicy-json/juicy-envelope.json" width="100%" >}}
+  {{< ls-lottie src="/images/juicy-json/juicy-envelope.json" width="100%" >}}
 </div>
 
 <style>
@@ -47,19 +43,19 @@ sidebar:
 
 <div class="hx:mt-6"></div>
 
-{{< hextra/section-headline >}}
+{{< ls-section-headline >}}
 訂閱
-{{< /hextra/section-headline >}}
+{{< /ls-section-headline >}}
 
 <div class="hx:mt-6"></div>
 
 <div class="hx:w-full hx:text-center">
 
-{{< hextra/hero-paragraph >}}
+{{< ls-hero-paragraph >}}
 加入那些從 Everappz 團隊獲取最新消息和獨家優惠的人們。  
 別忘了在社群媒體上追蹤我們，取得應用程式的最新消息和更新。  
 訂閱即表示您同意我們的[隱私權政策](/legal/privacy-policy)並接受[條款與條件](/legal/terms-and-conditions/)。
-{{< /hextra/hero-paragraph >}}
+{{< /ls-hero-paragraph >}}
 
 </div>
 
@@ -67,7 +63,7 @@ sidebar:
 
 <div class="hx:w-full hx:text-center">
 
-{{< rawhtml >}}
+{{< ls-rawhtml >}}
 
 <form action="https://everappz.us10.list-manage.com/subscribe/post?u=f758cdf6a38df2a75513ac5f1&amp;id=2373740226" 
 method="post" 
@@ -107,14 +103,14 @@ style="position: absolute; width: 0; height: 0; overflow: hidden;" aria-hidden="
 class="not-prose hx:font-bold hx:cursor-pointer hx:px-6 hx:py-3 hx:rounded-full hx:text-center hx:text-white hx:inline-flex hx:items-center hx:gap-2 hx:bg-primary-600 hx:hover:bg-primary-700 hx:focus:outline-hidden hx:focus:ring-4 hx:focus:ring-primary-300 hx:dark:bg-primary-600 hx:dark:hover:bg-primary-700 hx:dark:focus:ring-primary-800 hx:transition-all hx:ease-in hx:duration-200" 
 style="outline: none; box-shadow: none;">訂閱</button>
 
-{{< /rawhtml >}}
+{{< /ls-rawhtml >}}
 
 </div>
 
 <div class="hx:mt-6"></div>
 
 <div class="hx:w-full hx:text-center">
-{{< social >}}
+{{< ls-social >}}
 </div>
 
 <div class="hx:mt-6"></div>

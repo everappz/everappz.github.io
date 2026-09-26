@@ -15,7 +15,7 @@ readingTime: 11
 Η διαχείριση της μουσικής σας βιβλιοθήκης είναι εύκολη με το Evermusic, όπου μπορείτε να οργανώσετε όλα τα tracks σας αβίαστα. Έχετε δύο επιλογές για τη δημιουργία της μουσικής σας βιβλιοθήκης: χειροκίνητη προσθήκη ή αυτόματος συγχρονισμός.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Οθόνη Μουσικής Βιβλιοθήκης Evermusic" image="/docs/guide/evermusic/evermusic-guide-music-library/img/music-library-main.webp" >}}
+  {{< ls-card title="" subtitle="Οθόνη Μουσικής Βιβλιοθήκης Evermusic" image="/docs/guide/evermusic/evermusic-guide-music-library/img/music-library-main.webp" >}}
 {{< /cards >}}
 
 ## Χειροκίνητη Προσθήκη
@@ -23,7 +23,7 @@ readingTime: 11
 Για να προσθέσετε tracks χειροκίνητα, πατήστε 'Προσθήκη μουσικής' και επιλέξτε φακέλους/αρχεία από τη συνδεδεμένη υπηρεσία cloud storage ή αρχεία στη συσκευή σας. Όταν προσθέτετε tracks στη βιβλιοθήκη, δημιουργούνται μόνο σύνδεσμοι προς αυτά τα tracks, διατηρώντας τα πραγματικά αρχεία στις αρχικές τους τοποθεσίες για εξοικονόμηση χώρου δίσκου. Αν θέλετε να κάνετε tracks διαθέσιμα offline, μπορείτε να χρησιμοποιήσετε την ενέργεια λήψης από το μενού επιλογών ή να ενεργοποιήσετε τη λειτουργία εκτός σύνδεσης για λίστες αναπαραγωγής και συλλογές tracks.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Προσθήκη Τραγουδιών στη Μουσική Βιβλιοθήκη" image="/docs/guide/evermusic/evermusic-guide-music-library/img/music-library-add-songs.webp" >}}
+  {{< ls-card title="" subtitle="Προσθήκη Τραγουδιών στη Μουσική Βιβλιοθήκη" image="/docs/guide/evermusic/evermusic-guide-music-library/img/music-library-add-songs.webp" >}}
 {{< /cards >}}
 
 ## Γρήγορη Πρόσβαση
@@ -75,7 +75,7 @@ readingTime: 11
 Ακριβώς κάτω από τη γραμμή πλοήγησης, η επάνω γραμμή εργαλείων προσφέρει αρκετές βολικές ενέργειες: 'Αναζήτηση', 'Αναπαραγωγή όλων', 'Ανακάτεμα όλων' και 'Συνέχεια αναπαραγωγής'. Μπορείτε να αποκαλύψετε ή να αποκρύψετε αυτή τη γραμμή εργαλείων με απλή χειρονομία σάρωσης προς τα κάτω.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Προβολή Άλμπουμ — Ομαδοποιημένη κατά Music Tags" image="/docs/guide/evermusic/evermusic-guide-music-library/img/music-library-albums.webp" >}}
+  {{< ls-card title="" subtitle="Προβολή Άλμπουμ — Ομαδοποιημένη κατά Music Tags" image="/docs/guide/evermusic/evermusic-guide-music-library/img/music-library-albums.webp" >}}
 {{< /cards >}}
 
 ## Αναζήτηση
@@ -83,7 +83,7 @@ readingTime: 11
 Η λειτουργία αναζήτησης σας επιτρέπει να εντοπίσετε ένα συγκεκριμένο track, καλλιτέχνη, άλμπουμ ή είδος στη μουσική βιβλιοθήκη σας. Στην 'Οθόνη αναζήτησης' έχετε πρόσβαση στις ακόλουθες ενέργειες: 'Ταξινόμηση', 'Φίλτρο', 'Πλέγμα/Λίστα'.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Αποτελέσματα Αναζήτησης Μουσικής Βιβλιοθήκης" image="/docs/guide/evermusic/evermusic-guide-music-library/img/music-library-search.webp" >}}
+  {{< ls-card title="" subtitle="Αποτελέσματα Αναζήτησης Μουσικής Βιβλιοθήκης" image="/docs/guide/evermusic/evermusic-guide-music-library/img/music-library-search.webp" >}}
 {{< /cards >}}
 
 ## Μενού Επιλογών
@@ -91,7 +91,7 @@ readingTime: 11
 Κάθε τραγούδι στη μουσική βιβλιοθήκη σας διαθέτει μενού με περισσότερες ενέργειες, προσβάσιμο πατώντας το κουμπί τριών τελειών κοντά στον τίτλο τραγουδιού.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Περισσότερες Ενέργειες για Στοιχείο Βιβλιοθήκης" image="/docs/guide/evermusic/evermusic-guide-music-library/img/music-library-item-more-actions.webp" >}}
+  {{< ls-card title="" subtitle="Περισσότερες Ενέργειες για Στοιχείο Βιβλιοθήκης" image="/docs/guide/evermusic/evermusic-guide-music-library/img/music-library-item-more-actions.webp" >}}
 {{< /cards >}}
 
 ### Για Μεμονωμένα Τραγούδια
@@ -125,7 +125,7 @@ readingTime: 11
 Μπορείτε να ενεργοποιήσετε τη λειτουργία επιλογής χρησιμοποιώντας το κουμπί Περισσότερες Ενέργειες στην επάνω δεξιά γωνία.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Λειτουργία Επιλογής στη Μουσική Βιβλιοθήκη" image="/docs/guide/evermusic/evermusic-guide-music-library/img/music-library-selection-mode.webp" >}}
+  {{< ls-card title="" subtitle="Λειτουργία Επιλογής στη Μουσική Βιβλιοθήκη" image="/docs/guide/evermusic/evermusic-guide-music-library/img/music-library-selection-mode.webp" >}}
 {{< /cards >}}
 
 ## Ομαδοποίηση Tags
@@ -145,7 +145,7 @@ readingTime: 11
 Όταν ανοίγετε τις ενότητες Καλλιτέχνης, Καλλιτέχνης Άλμπουμ ή Συνθέτης, μπορείτε να δείτε ένα διακόπτη για Τραγούδια/Όλα τα Άλμπουμ/Αποκλειστικά Άλμπουμ/Solo Άλμπουμ.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Λεπτομέρεια Άλμπουμ με Διακόπτη Τραγούδια / Όλα / Αποκλειστικά / Solo" image="/docs/guide/evermusic/evermusic-guide-music-library/img/music-library-album-details.webp" >}}
+  {{< ls-card title="" subtitle="Λεπτομέρεια Άλμπουμ με Διακόπτη Τραγούδια / Όλα / Αποκλειστικά / Solo" image="/docs/guide/evermusic/evermusic-guide-music-library/img/music-library-album-details.webp" >}}
 {{< /cards >}}
 
 - **Τραγούδια**: Εμφανίζει όλα τα τραγούδια όπου αυτός ο Καλλιτέχνης/Καλλιτέχνης Άλμπουμ/Συνθέτης έχει οριστεί στα audio tags.
@@ -166,7 +166,7 @@ readingTime: 11
 Πατήστε 'Ρυθμίσεις' για να διαμορφώσετε τις προτιμήσεις μουσικής βιβλιοθήκης σας.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Ρυθμίσεις Μουσικής Βιβλιοθήκης" image="/docs/guide/evermusic/evermusic-guide-music-library/img/music-library-settings.webp" >}}
+  {{< ls-card title="" subtitle="Ρυθμίσεις Μουσικής Βιβλιοθήκης" image="/docs/guide/evermusic/evermusic-guide-music-library/img/music-library-settings.webp" >}}
 {{< /cards >}}
 
 #### Ανάγνωση Μεταδεδομένων

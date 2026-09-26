@@ -7,7 +7,7 @@ keywords: ["iPhone में वायरलेस फ़ाइल ट्रा�
 readingTime: 2
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **संक्षेप में:** Wi-Fi Drive आपको किसी भी कंप्यूटर से अपने iPhone या iPad में Wi-Fi के माध्यम से फ़ाइलें ट्रांसफर करने देता है -- बिना iTunes या केबल के। वेब ब्राउज़र, Mac Finder या Windows File Explorer का उपयोग करें। दोनों डिवाइस एक ही Wi-Fi नेटवर्क पर होने चाहिए।
@@ -18,7 +18,7 @@ Wi-Fi Drive बिना iTunes के कंप्यूटर से iPhone �
 
 आप [**TECHGUYPH**](https://www.youtube.com/channel/UCgpf09gGFE_c_3pPTtTpnzg) का वीडियो ट्यूटोरियल देख सकते हैं या नीचे टेक्स्ट संस्करण पढ़ सकते हैं।
 <br><br>
-{{< youtubecard id="CqdqrQ0ge70" title="Can We Wirelessly Put Offline Music on iPhones?" >}}
+{{< ls-youtubecard id="CqdqrQ0ge70" title="Can We Wirelessly Put Offline Music on iPhones?" >}}
 
 ## डेस्कटॉप वेब ब्राउज़र के साथ कंप्यूटर से वायरलेस तरीके से फ़ाइलें ट्रांसफर करें
 
@@ -90,26 +90,26 @@ iTunes की कोई आवश्यकता नहीं!
 
 ## अक्सर पूछे जाने वाले प्रश्न
 
-{{% details title="क्या मुझे अपने iPhone में फ़ाइलें ट्रांसफर करने के लिए iTunes की आवश्यकता है?" closed="true" %}}
+{{% ls-details title="क्या मुझे अपने iPhone में फ़ाइलें ट्रांसफर करने के लिए iTunes की आवश्यकता है?" closed="true" %}}
 नहीं। Wi-Fi Drive आपके स्थानीय Wi-Fi नेटवर्क के माध्यम से सीधे फ़ाइलें ट्रांसफर करता है। iTunes की आवश्यकता नहीं है।
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="कौन से ऐप Wi-Fi Drive का समर्थन करते हैं?" closed="true" %}}
+{{% ls-details title="कौन से ऐप Wi-Fi Drive का समर्थन करते हैं?" closed="true" %}}
 Wi-Fi Drive iOS के लिए Evermusic, Flacbox, Evertag और Evervideo में उपलब्ध है।
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="क्या दोनों डिवाइस को एक ही Wi-Fi नेटवर्क पर होना चाहिए?" closed="true" %}}
+{{% ls-details title="क्या दोनों डिवाइस को एक ही Wi-Fi नेटवर्क पर होना चाहिए?" closed="true" %}}
 हां। Wi-Fi Drive काम करने के लिए आपके कंप्यूटर और iPhone या iPad को एक ही स्थानीय Wi-Fi नेटवर्क से जुड़ा होना चाहिए।
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="क्या मैं केवल व्यक्तिगत फ़ाइलों के बजाय पूरे फ़ोल्डर ट्रांसफर कर सकता हूं?" closed="true" %}}
+{{% ls-details title="क्या मैं केवल व्यक्तिगत फ़ाइलों के बजाय पूरे फ़ोल्डर ट्रांसफर कर सकता हूं?" closed="true" %}}
 हां। Wi-Fi Drive वेब ब्राउज़र इंटरफ़ेस के माध्यम से पूरे फ़ोल्डरों को अपलोड और डाउनलोड करने का समर्थन करता है।
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="क्या Wi-Fi Drive Windows के साथ काम करता है?" closed="true" %}}
+{{% ls-details title="क्या Wi-Fi Drive Windows के साथ काम करता है?" closed="true" %}}
 हां। आप Windows पर किसी भी वेब ब्राउज़र का उपयोग कर सकते हैं या WebDAV प्रोटोकॉल का उपयोग करके Windows File Explorer के माध्यम से कनेक्ट कर सकते हैं।
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="क्या मैं ट्रांसफर को तेज़ करने के लिए USB केबल का उपयोग कर सकता हूं?" closed="true" %}}
+{{% ls-details title="क्या मैं ट्रांसफर को तेज़ करने के लिए USB केबल का उपयोग कर सकता हूं?" closed="true" %}}
 हां। यदि Wi-Fi Drive चलने के दौरान आपका iPhone USB के माध्यम से आपके Mac से जुड़ा है, तो ट्रांसफर तेज़ स्पीड के लिए केबल कनेक्शन का उपयोग करेगा।
-{{% /details %}}
+{{% /ls-details %}}

@@ -15,7 +15,7 @@ readingTime: 5
 **Penyunting Tag** adalah skrin utama aplikasi Evertag di mana anda boleh melihat dan menyunting metadata fail audio. Buka skrin ini dengan mengetik fail dari bahagian **Fail Tempatan** atau dari mana-mana akaun **storan awan** yang disambungkan.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Skrin Penyunting Tag Evertag" image="/docs/guide/evertag/img/tag-editor.webp" >}}
+  {{< ls-card title="" subtitle="Skrin Penyunting Tag Evertag" image="/docs/guide/evertag/img/tag-editor.webp" >}}
 {{< /cards >}}
 
 ## Mod Pengeditan
@@ -38,7 +38,7 @@ Secara lalai, aplikasi membuka penyunting tag dalam mod fail tunggal dengan hany
 Untuk mengakses semua tag yang tersedia, tatal ke bawah skrin dan ketik pilihan **Tunjukkan Tag Lanjutan**. Ini akan menukar penyunting ke mod lanjutan, membolehkan anda menyunting lebih daripada **120 medan metadata**, termasuk **Tag MusicBrainz**, **Lirik**, **Penilaian Penasihat**, nilai replay-gain, susunan isih, metadata podcast, dan banyak lagi. Gunakan **Tetapan → Penyunting tag audio → Butang pada skrin utama** untuk sentiasa menghidupkan Tunjukkan Tag Lanjutan secara kekal.
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Panel Tindakan Bawah" image="/docs/guide/evertag/img/tag-editor-bottom-actions.webp" >}}
+{{< ls-card title="" subtitle="Panel Tindakan Bawah" image="/docs/guide/evertag/img/tag-editor-bottom-actions.webp" >}}
 {{< /cards >}}
 
 ## Mod Kelompok
@@ -53,7 +53,7 @@ Anda boleh memasuki pengeditan kelompok dengan dua cara:
    - Buka mana-mana fail, tatal ke bawah, dan ketik **Sunting fail secara serentak** untuk memuatkan semua fail dari folder yang sama.
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Mod Pengeditan Kelompok" image="/docs/guide/evertag/img/tag-editor-batch-editing.webp" >}}
+{{< ls-card title="" subtitle="Mod Pengeditan Kelompok" image="/docs/guide/evertag/img/tag-editor-batch-editing.webp" >}}
 {{< /cards >}}
 
 Selepas menyunting, ketik **Simpan** untuk menerapkan perubahan.
@@ -72,19 +72,19 @@ Anda tidak perlu menaip lirik dari awal. Penyunting menyertakan pintasan carian 
 Setiap pintasan hanya muncul apabila perkhidmatan yang sepadan boleh dicapai dari peranti anda. Ketik perkhidmatan, salin lirik (atau timestamp LRC) yang anda mahukan, kembali ke Evertag, dan tampalnya ke dalam medan teks — kemudian **Simpan** untuk menulis lirik kembali ke dalam tag fail audio.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Halaman Lirik" image="/docs/guide/evertag/img/tag-editor-lyrics-pages.webp" >}}
+  {{< ls-card title="" subtitle="Halaman Lirik" image="/docs/guide/evertag/img/tag-editor-lyrics-pages.webp" >}}
 {{< /cards >}}
 
 Pilih bahasa dari pemilih:
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Pemilih Bahasa Lirik" image="/docs/guide/evertag/img/tag-editor-lyrics-language-select.webp" >}}
+  {{< ls-card title="" subtitle="Pemilih Bahasa Lirik" image="/docs/guide/evertag/img/tag-editor-lyrics-language-select.webp" >}}
 {{< /cards >}}
 
 Kemudian tampal atau taip teks lirik. Evertag menyokong kedua-dua teks biasa dan lirik bertimestamp (disegerakkan) — ruang letak menunjukkan contoh format gaya LRC, yang merupakan tepat apa yang Lrclib dan Lyricsify kembalikan untuk keputusan yang disegerakkan.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Penyunting Teks Lirik" image="/docs/guide/evertag/img/tag-editor-lyrics-text.webp" >}}
+  {{< ls-card title="" subtitle="Penyunting Teks Lirik" image="/docs/guide/evertag/img/tag-editor-lyrics-text.webp" >}}
 {{< /cards >}}
 
 ## Tetapkan Penilaian dan Penilaian Penasihat
@@ -96,7 +96,7 @@ Penyunting lanjutan menawarkan kawalan **Penilaian** bintang bersama kawalan ber
 Gunakan medan **Penilaian** untuk memberi lagu skor peribadi dari satu hingga lima bintang. Nilai ditulis ke dalam tag penilaian standard fail (POPM untuk ID3, `rate` untuk MP4, `RATING` untuk Vorbis/APE, dll.), jadi aplikasi lain yang membaca tag ini — termasuk aplikasi Muzik, Plex, Roon, dan kebanyakan penyunting tag desktop — akan mengenali skor anda dengan segera.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Penilaian" image="/docs/guide/evertag/img/tag-editor-rating.webp" >}}
+  {{< ls-card title="" subtitle="Penilaian" image="/docs/guide/evertag/img/tag-editor-rating.webp" >}}
 {{< /cards >}}
 
 ### Penilaian Penasihat
@@ -117,7 +117,7 @@ Anda perlu menetapkan atau membetulkan medan ini apabila:
 Nilai disimpan dalam medan penilaian penasihat standard untuk format fail (`rtng` untuk MP4, `TXXX:ITUNESADVISORY` untuk ID3, `ITUNESADVISORY` untuk Vorbis), jadi pemain mana-mana yang membaca metadata penasihat ibu bapa akan melihat kemas kini anda.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Penilaian Penasihat Lirik" image="/docs/guide/evertag/img/lyrics-advisory-rating.webp" >}}
+  {{< ls-card title="" subtitle="Penilaian Penasihat Lirik" image="/docs/guide/evertag/img/lyrics-advisory-rating.webp" >}}
 {{< /cards >}}
 
 ## Sunting Kulit Album
@@ -129,7 +129,7 @@ Untuk menukar kulit album:
 3. Pilih imej untuk diterapkan sebagai seni kulit.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Pilih Imej" image="/docs/guide/evertag/img/select-image.webp" >}}
+  {{< ls-card title="" subtitle="Pilih Imej" image="/docs/guide/evertag/img/select-image.webp" >}}
 {{< /cards >}}
 
 ## Lebih Banyak Tindakan dalam Penyunting Tag
@@ -137,7 +137,7 @@ Untuk menukar kulit album:
 Pilihan pengeditan tambahan tersedia melalui bar alat di bawah paparan karya seni.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Menu Lebih Banyak Tindakan" image="/docs/guide/evertag/img/tag-editor-more-actions.webp" >}}
+  {{< ls-card title="" subtitle="Menu Lebih Banyak Tindakan" image="/docs/guide/evertag/img/tag-editor-more-actions.webp" >}}
 {{< /cards >}}
 
 ### Carian Automatik Tag Audio
@@ -150,13 +150,13 @@ Aplikasi menggunakan pangkalan data MusicBrainz — salah satu pangkalan data ta
 Gunakan metadata untuk mencari karya seni album yang betul di web.  
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Cari Kulit Album" image="/docs/guide/evertag/img/search-album-cover.webp" >}}
+  {{< ls-card title="" subtitle="Cari Kulit Album" image="/docs/guide/evertag/img/search-album-cover.webp" >}}
 {{< /cards >}}
 
 Setelah dijumpai, simpan imej ke **Foto** menggunakan menu konteks sistem.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Tambah Imej ke Foto" image="/docs/guide/evertag/img/add-image-to-photos.webp" >}}
+  {{< ls-card title="" subtitle="Tambah Imej ke Foto" image="/docs/guide/evertag/img/add-image-to-photos.webp" >}}
 {{< /cards >}}
 
 Selepas itu, kembali ke penyunting tag, ketik ikon Kamera, pergi ke **Perpustakaan Foto**, dan pilih imej yang disimpan. Aplikasi akan menetapkannya sebagai kulit untuk fail audio anda.
@@ -178,19 +178,19 @@ Cari metadata album secara manual menggunakan pangkalan data MusicBrainz.
 - Pilih album  
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Pilih Album" image="/docs/guide/evertag/img/select-album-results.webp" >}}
+  {{< ls-card title="" subtitle="Pilih Album" image="/docs/guide/evertag/img/select-album-results.webp" >}}
 {{< /cards >}}
 
 - Pilih lagu yang betul  
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Pilih Lagu" image="/docs/guide/evertag/img/select-a-song.webp" >}}
+  {{< ls-card title="" subtitle="Pilih Lagu" image="/docs/guide/evertag/img/select-a-song.webp" >}}
 {{< /cards >}}
 
 - Pilih tag yang hendak diterapkan  
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Pilih Tag Audio" image="/docs/guide/evertag/img/select-audio-tags.webp" >}}
+  {{< ls-card title="" subtitle="Pilih Tag Audio" image="/docs/guide/evertag/img/select-audio-tags.webp" >}}
 {{< /cards >}}
 
 Ketik **Selesai** untuk menerapkan metadata yang dipilih ke lagu anda.

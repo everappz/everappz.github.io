@@ -7,7 +7,7 @@ tags: ["cloud", "streaming", "computer", "mp3", "file", "downloader", "manager",
 keywords: ["نقل الملفات إلى iPhone عبر SMB", "بث موسيقى الكمبيوتر على iPhone", "توصيل Mac بـ iPhone عبر SMB", "إعداد Evermusic SMB", "الوصول إلى ملفات الكمبيوتر من iPhone", "مشاركة موسيقى Windows مع iOS", "نقل ملفات SMB مع Evermusic"]
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **ملخص:** استخدم Evermusic على iPhone أو iPad للوصول إلى الملفات المخزنة على Mac أو Windows PC عبر شبكتك المحلية من خلال SMB. لا حاجة لكابلات أو iTunes أو رفع إلى السحابة. قم بتفعيل مشاركة الملفات على جهاز الكمبيوتر، واتصل من التطبيق، وتصفح ملفاتك أو شغّلها لاسلكياً.
@@ -142,26 +142,26 @@ keywords: ["نقل الملفات إلى iPhone عبر SMB", "بث موسيقى 
 
 ## الأسئلة الشائعة
 
-{{% details title="هل يمكنني الوصول إلى ملفات الكمبيوتر من iPhone بدون iTunes؟" closed="true" %}}
+{{% ls-details title="هل يمكنني الوصول إلى ملفات الكمبيوتر من iPhone بدون iTunes؟" closed="true" %}}
 نعم. يتصل Evermusic بجهاز الكمبيوتر عبر SMB على شبكة Wi-Fi المحلية. لا حاجة لمزامنة iTunes أو Finder. قم بتفعيل مشاركة الملفات على الكمبيوتر واتصل مباشرة من التطبيق.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="هل يعمل الوصول عبر SMB عبر الإنترنت؟" closed="true" %}}
+{{% ls-details title="هل يعمل الوصول عبر SMB عبر الإنترنت؟" closed="true" %}}
 لا. SMB هو بروتوكول شبكة محلية. يجب أن يكون iPhone والكمبيوتر على نفس شبكة Wi-Fi. للوصول عن بُعد، ارفع الملفات إلى خدمة سحابية مثل Google Drive أو Dropbox واتصل بها في Evermusic.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="ما أنواع الملفات التي يمكنني الوصول إليها عبر SMB؟" closed="true" %}}
+{{% ls-details title="ما أنواع الملفات التي يمكنني الوصول إليها عبر SMB؟" closed="true" %}}
 يدعم Evermusic صيغ MP3 وFLAC وAAC وWAV وAIFF وOGG وWMA وALAC وغيرها من صيغ الصوت. يمكنك أيضاً تصفح وإدارة الملفات غير الصوتية باستخدام مدير الملفات المدمج.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="هل يمكنني نقل الملفات من NAS إلى iPhone باستخدام SMB؟" closed="true" %}}
+{{% ls-details title="هل يمكنني نقل الملفات من NAS إلى iPhone باستخدام SMB؟" closed="true" %}}
 نعم. معظم أجهزة NAS (Synology وQNAP وWD My Cloud وغيرها) تدعم SMB. اتصل بجهاز NAS باستخدام نفس الخطوات في هذا الدليل.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="هل أحتاج إلى نسخ الملفات إلى iPhone لتشغيلها؟" closed="true" %}}
+{{% ls-details title="هل أحتاج إلى نسخ الملفات إلى iPhone لتشغيلها؟" closed="true" %}}
 لا. يقوم Evermusic ببث الملفات مباشرة من جهاز الكمبيوتر أو NAS عبر الشبكة. لا يتم نسخ الملفات إلى iPhone إلا إذا اخترت تنزيلها للتشغيل بدون اتصال.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="هل مشاركة ملفات SMB آمنة؟" closed="true" %}}
+{{% ls-details title="هل مشاركة ملفات SMB آمنة؟" closed="true" %}}
 تعمل مشاركة ملفات SMB فقط على شبكتك المحلية. لا يمكن للأجهزة الأخرى على شبكات مختلفة الوصول إلى مجلداتك المشتركة. لمزيد من الأمان، استخدم اسم مستخدم وكلمة مرور بدلاً من الوصول المجهول (الجميع).
-{{% /details %}}
+{{% /ls-details %}}

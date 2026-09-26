@@ -12,7 +12,7 @@ authors:
     image: "/images/about/artem-meleshko-founder-everappz.webp"
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 ![](/blog/evermusic-sync-your-music-library-save-playback-position-correct-music-tags/21260c_641f376e779e47d4927b43c210d3c87f~mv2.jpeg)
 
@@ -67,22 +67,22 @@ Evermusic erkennt und korrigiert ungültige oder unvollständige ID3-Tags mithil
 
 ## Häufig gestellte Fragen
 
-{{% details title="Funktioniert die automatische Synchronisierung von Evermusic mit allen Cloud-Diensten?" closed="true" %}}
+{{% ls-details title="Funktioniert die automatische Synchronisierung von Evermusic mit allen Cloud-Diensten?" closed="true" %}}
 Ja. Die automatische Synchronisierung funktioniert mit Dropbox, Google Drive, OneDrive, MEGA, WebDAV und SMB. Wählen Sie die Ordner aus, die überwacht werden sollen, und Evermusic hält Ihre Bibliothek aktuell.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Kann Evermusic meine Hörbuchposition speichern?" closed="true" %}}
+{{% ls-details title="Kann Evermusic meine Hörbuchposition speichern?" closed="true" %}}
 Ja. Aktivieren Sie das Speichern der Wiedergabeposition in den Audio-Einstellungen. Evermusic merkt sich, wo Sie bei jeder Datei aufgehört haben, sodass Sie ohne manuelle Lesezeichen fortsetzen können.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Wie funktioniert die Hintergrund-Metadatenlesung?" closed="true" %}}
+{{% ls-details title="Wie funktioniert die Hintergrund-Metadatenlesung?" closed="true" %}}
 Evermusic liest ID3-Tags und Dateimetadaten im Hintergrund, während Sie andere Funktionen nutzen. Es organisiert Ihre Bibliothek automatisch nach Interpret, Album und Genre.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Wird Evermusic meine beschädigten Musik-Tags reparieren?" closed="true" %}}
+{{% ls-details title="Wird Evermusic meine beschädigten Musik-Tags reparieren?" closed="true" %}}
 Ja. Die automatische Tag-Korrekturfunktion überprüft Ihre Dateien anhand von Online-Datenbanken und behebt ungültige, unvollständige oder fehlende ID3-Metadaten.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Ist Evermusic kostenlos zum Herunterladen?" closed="true" %}}
+{{% ls-details title="Ist Evermusic kostenlos zum Herunterladen?" closed="true" %}}
 Evermusic ist kostenlos zum Herunterladen mit optionalen Premium-Funktionen, die über In-App-Käufe verfügbar sind.
-{{% /details %}}
+{{% /ls-details %}}

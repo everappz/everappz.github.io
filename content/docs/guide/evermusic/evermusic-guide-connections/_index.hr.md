@@ -17,7 +17,7 @@ Na zaslonu Povezivanja možete spojiti svaki izvor koji drži vašu glazbu — p
 Zaslon je podijeljen na jasno označene odjeljke tako da skalira od jednog iCloud Drive računa do biblioteke raširene na više oblaka i NAS uređaja: Brzi pristup na vrhu (vaše omiljene oblak mape), Pohrana u oblaku (dodani računi), Lokalna mreža (Bonjour-otkriveni uređaji), Računalo (Wi-Fi Drive, iTunes File Sharing, SMB), Vanjski dodaci (spojeni USB flash pogoni) i Ostale usluge (Last.fm i slično).
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Zaslon Evermusic Povezivanja" image="/docs/guide/evermusic/evermusic-guide-connections/img/connect-main.webp" >}}
+  {{< ls-card title="" subtitle="Zaslon Evermusic Povezivanja" image="/docs/guide/evermusic/evermusic-guide-connections/img/connect-main.webp" >}}
 {{< /cards >}}
 
 ## Spoji se na pohranu u oblaku
@@ -29,7 +29,7 @@ Zaslon je podijeljen na jasno označene odjeljke tako da skalira od jednog iClou
 - Dodirnite Završeno.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Odabir pružatelja pohrane u oblaku" image="/docs/guide/evermusic/evermusic-guide-connections/img/connect-add-storage.webp" >}}
+  {{< ls-card title="" subtitle="Odabir pružatelja pohrane u oblaku" image="/docs/guide/evermusic/evermusic-guide-connections/img/connect-add-storage.webp" >}}
 {{< /cards >}}
 
 Ako naiđete na probleme, provjerite internetsku vezu i vjerodajnice za prijavu te provjerite je li dvofaktorska autentifikacija ispravno konfigurirana za tu uslugu.
@@ -70,7 +70,7 @@ Možete i odspojiti spojene oblak račune u aplikaciji i auth token će biti ukl
   - **Odspojiti**: ako želite potpuno prekinuti vezu između aplikacije i oblak usluge, odaberite 'Odspoji'. Imajte na umu da će odabirom ove opcije sve pjesme vezane uz ovu oblak uslugu biti uklonjene iz glazbene biblioteke aplikacije, ali ostat će na poslužitelju.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Izbornik više radnji spojene pohrane u oblaku" image="/docs/guide/evermusic/evermusic-guide-connections/img/connect-storage-more-actions.webp" >}}
+  {{< ls-card title="" subtitle="Izbornik više radnji spojene pohrane u oblaku" image="/docs/guide/evermusic/evermusic-guide-connections/img/connect-storage-more-actions.webp" >}}
 {{< /cards >}}
 
 ## Spoji se na računalo ili NAS
@@ -89,7 +89,7 @@ Ako je veza uspješna, vidjet ćete spojenu pohranu u odjeljku "Pohrana u oblaku
 Potpuni vodič o tome kako spojiti MAC ili PC koristeći SMB dostupan je [ovdje](/docs/howto/stream-your-music-from-mac-or-pc-to-iphone-using-smb/).
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Postavke SMB veze" image="/docs/guide/evermusic/evermusic-guide-connections/img/connect-smb-settings.webp" >}}
+  {{< ls-card title="" subtitle="Postavke SMB veze" image="/docs/guide/evermusic/evermusic-guide-connections/img/connect-smb-settings.webp" >}}
 {{< /cards >}}
 
 ## Spoji se na NAS koristeći WebDAV
@@ -99,7 +99,7 @@ URL treba biti u formatu http://server-name, ili https://server-name ako posluž
 Potpuni vodič o tome kako spojiti NAS koristeći WebDAV protokol dostupan je [ovdje](/docs/howto/how-to-connect-nas-storage-using-webdav-and-listen-to-music-on-your-iphone-or-mac).
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Postavke WebDAV veze" image="/docs/guide/evermusic/evermusic-guide-connections/img/connect-webdav-settings.webp" >}}
+  {{< ls-card title="" subtitle="Postavke WebDAV veze" image="/docs/guide/evermusic/evermusic-guide-connections/img/connect-webdav-settings.webp" >}}
 {{< /cards >}}
 
 ## Spoji se na računalo ili NAS koristeći DLNA
@@ -107,7 +107,7 @@ Potpuni vodič o tome kako spojiti NAS koristeći WebDAV protokol dostupan je [o
 Možete i dijeliti glazbenu biblioteku smještenu na vašem Windows PC-u ili osobnom NAS-u koristeći DLNA protokol i pristupiti toj biblioteci u aplikaciji kao što je opisano [ovdje](/docs/howto/how-to-enable-dlna-media-server-on-windows-10-and-play-your-music-on-iphone). DLNA je popularan i široko korišten protokol, ali vam omogućuje samo reprodukciju ili preuzimanje glazbe. Ne možete uploadati datoteke ili kreirati nove mape na poslužitelju.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Postavke DLNA veze" image="/docs/guide/evermusic/evermusic-guide-connections/img/connect-dlna-settings.webp" >}}
+  {{< ls-card title="" subtitle="Postavke DLNA veze" image="/docs/guide/evermusic/evermusic-guide-connections/img/connect-dlna-settings.webp" >}}
 {{< /cards >}}
 
 ## Dostupni uređaji
@@ -120,7 +120,7 @@ Za uspostavljanje veze s uređajem, slijedite ove korake:
 - Ako je potrebno, unesite podatke za prijavu za dovršetak veze.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Dostupni uređaji na lokalnoj mreži" image="/docs/guide/evermusic/evermusic-guide-connections/img/connect-available-devices.webp" >}}
+  {{< ls-card title="" subtitle="Dostupni uređaji na lokalnoj mreži" image="/docs/guide/evermusic/evermusic-guide-connections/img/connect-available-devices.webp" >}}
 {{< /cards >}}
 
 ## Wi-Fi Drive
@@ -146,7 +146,7 @@ Kada se web stranica koja odgovara vašem iOS uređaju otvori u pregledniku, mo�
 Datoteke koje povučete i ispustite počet će se prenositi na vaš iOS uređaj i bit će dostupne unutar aplikacije.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Postavke Wi-Fi Drive poslužitelja" image="/docs/guide/evermusic/evermusic-guide-connections/img/connect-wifidrive-settings.webp" >}}
+  {{< ls-card title="" subtitle="Postavke Wi-Fi Drive poslužitelja" image="/docs/guide/evermusic/evermusic-guide-connections/img/connect-wifidrive-settings.webp" >}}
 {{< /cards >}}
 
 Detaljne upute o bežičnom prijenosu datoteka koristeći WiFi-Drive dostupne su [ovdje](/docs/howto/how-to-transfer-files-wirelessly-from-a-computer-to-an-iphone-using-wifi-drive).
@@ -162,7 +162,7 @@ iTunes File Sharing je druga tehnologija koja vam omogućuje prijenos datoteka s
 Detaljne upute o korištenju iTunes file sharinga dostupne su [ovdje](/docs/howto/how-to-play-local-itunes-files-on-my-iphone/).
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="iTunes / Finder File Sharing na Macu" image="/docs/guide/evermusic/evermusic-guide-connections/img/connect-itunes-file-sharing.webp" >}}
+  {{< ls-card title="" subtitle="iTunes / Finder File Sharing na Macu" image="/docs/guide/evermusic/evermusic-guide-connections/img/connect-itunes-file-sharing.webp" >}}
 {{< /cards >}}
 
 ## Spojite USB flash karticu
@@ -183,7 +183,7 @@ Gornja alatna traka, smještena ispod navigacijske trake, nudi nekoliko korisnih
 - **Izmiješaj sve**: Slično "Reproduciraj sve", ova radnja skenira trenutnu mapu i njene podmape ali miješa datoteke prije dodavanja u red audio reproduktora. Odličan je način za uživanje u glazbi slučajnim redoslijedom.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Gornja alatna traka unutar oblak mape" image="/docs/guide/evermusic/evermusic-guide-connections/img/connect-top-toolbar.webp" >}}
+  {{< ls-card title="" subtitle="Gornja alatna traka unutar oblak mape" image="/docs/guide/evermusic/evermusic-guide-connections/img/connect-top-toolbar.webp" >}}
 {{< /cards >}}
 
 ## Opcije mape
@@ -200,7 +200,7 @@ Evo pregleda tih radnji:
 - **Prikaz mreže/popisa**: Prebacujte između dva načina prikaza: tablični prikaz i prikaz minijatura. Tablični prikaz prikazuje datoteke u popisu, dok prikaz minijatura prikazuje vizualne prikaze datoteka, što olakšava prepoznavanje sadržaja na prvi pogled.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Izbornik više radnji trenutne mape" image="/docs/guide/evermusic/evermusic-guide-connections/img/connect-folder-options.webp" >}}
+  {{< ls-card title="" subtitle="Izbornik više radnji trenutne mape" image="/docs/guide/evermusic/evermusic-guide-connections/img/connect-folder-options.webp" >}}
 {{< /cards >}}
 
 ## Uredite online datoteke
@@ -212,7 +212,7 @@ Kada trebate upravljati više datotekama unutar pohrane u oblaku na Evermusicu, 
 - **Izvršite različite radnje**: Kada odaberete datoteke ili mape kojima želite upravljati, imat ćete pristup nekoliko radnji prilagođenih vašim potrebama:
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Način odabira za online datoteke" image="/docs/guide/evermusic/evermusic-guide-connections/img/connect-selection-mode.webp" >}}
+  {{< ls-card title="" subtitle="Način odabira za online datoteke" image="/docs/guide/evermusic/evermusic-guide-connections/img/connect-selection-mode.webp" >}}
 {{< /cards >}}
 
 ## Radnje datoteke
@@ -233,7 +233,7 @@ Dodirnite ga za prikaz popisa dostupnih radnji:
 - **Izbrisati**: Budite oprezni s ovom radnjom, jer trajno uklanja datoteku iz pohrane u oblaku. Ovo brisanje se ne može poništiti.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Izbornik više radnji za jednu datoteku" image="/docs/guide/evermusic/evermusic-guide-connections/img/connect-single-folder-more-options.webp" >}}
+  {{< ls-card title="" subtitle="Izbornik više radnji za jednu datoteku" image="/docs/guide/evermusic/evermusic-guide-connections/img/connect-single-folder-more-options.webp" >}}
 {{< /cards >}}
 
 Ako popis radnji premašuje dostupni prostor na zaslonu, jednostavno se pomaknite prema dolje unutar izbornika radnji za pristup dodatnim opcijama.

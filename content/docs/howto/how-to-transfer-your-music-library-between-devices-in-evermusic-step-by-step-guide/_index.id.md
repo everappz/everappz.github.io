@@ -7,7 +7,7 @@ keywords: ["transfer perpustakaan musik Evermusic", "pencadangan dan pemulihan d
 readingTime: 3
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **Ringkasan:** Untuk mentransfer perpustakaan Evermusic Anda ke perangkat baru, buat cadangan di perangkat sumber, mulai Wi-Fi Drive, hubungkan perangkat kedua melalui jaringan yang sama, unduh cadangan dan file musik, lalu pulihkan dari cadangan. Seluruh proses memakan waktu sekitar 10 menit tergantung ukuran perpustakaan.
@@ -144,22 +144,22 @@ Dengan mengikuti langkah-langkah ini, Anda akan berhasil mentransfer perpustakaa
 
 ## Pertanyaan yang Sering Diajukan
 
-{{% details title="Bisakah saya mentransfer perpustakaan Evermusic saya tanpa Wi-Fi?" closed="true" %}}
+{{% ls-details title="Bisakah saya mentransfer perpustakaan Evermusic saya tanpa Wi-Fi?" closed="true" %}}
 Wi-Fi Drive mengharuskan kedua perangkat berada di jaringan Wi-Fi yang sama. Saat ini tidak ada opsi transfer Bluetooth atau seluler. Anda dapat menggunakan AirDrop atau aplikasi File sebagai alternatif untuk memindahkan file cadangan dan folder musik secara manual antar perangkat.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Apakah koneksi layanan cloud saya akan ditransfer bersama cadangan?" closed="true" %}}
+{{% ls-details title="Apakah koneksi layanan cloud saya akan ditransfer bersama cadangan?" closed="true" %}}
 Cadangan mencakup database, daftar putar, sampul album, dan pengaturan Anda. Kredensial login layanan cloud tidak disertakan karena alasan keamanan. Anda perlu menghubungkan kembali akun cloud Anda di perangkat baru setelah pemulihan.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Apa yang terjadi pada perpustakaan saya yang ada di perangkat kedua?" closed="true" %}}
+{{% ls-details title="Apa yang terjadi pada perpustakaan saya yang ada di perangkat kedua?" closed="true" %}}
 Memulihkan cadangan menggantikan semua data perpustakaan musik yang ada, daftar putar, pengaturan, dan sampul album di perangkat kedua. Buat cadangan terpisah dari perangkat kedua terlebih dahulu jika Anda ingin menyimpan datanya.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Apakah proses ini berfungsi antara iPhone dan Mac?" closed="true" %}}
+{{% ls-details title="Apakah proses ini berfungsi antara iPhone dan Mac?" closed="true" %}}
 Ya. Evermusic mendukung transfer Wi-Fi Drive antara kombinasi apa pun dari iPhone, iPad, dan Mac. Kedua perangkat hanya perlu berada di jaringan Wi-Fi yang sama.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Berapa lama waktu transfer?" closed="true" %}}
+{{% ls-details title="Berapa lama waktu transfer?" closed="true" %}}
 Waktu transfer tergantung pada ukuran perpustakaan musik Anda dan kecepatan Wi-Fi Anda. Perpustakaan tipikal beberapa gigabyte ditransfer dalam 5-15 menit melalui jaringan rumah standar.
-{{% /details %}}
+{{% /ls-details %}}

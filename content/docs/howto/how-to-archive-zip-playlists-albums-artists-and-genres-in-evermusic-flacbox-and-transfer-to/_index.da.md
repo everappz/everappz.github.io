@@ -7,7 +7,7 @@ tags: ["evermusic", "flacbox", "arkiv", "sikkerhedskopi", "eksport", "afspilning
 readingTime: 2
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **Resumé:** Evermusic og Flacbox kan arkivere enhver afspilningsliste, album, kunstner eller genre i en ZIP-fil med en M3U-afspilningsliste, albumcover og alle lydfiler. Overfør ZIP-filen til en anden enhed, pak den ud og importér M3U for at genopbygge afspilningslisten øjeblikkeligt.
@@ -104,22 +104,22 @@ Ved at følge denne guide kan du effektivt arkivere og overføre dine afspilning
 
 ## Ofte stillede spørgsmål
 
-{{% details title="Hvad er inkluderet i ZIP-arkivet?" closed="true" %}}
+{{% ls-details title="Hvad er inkluderet i ZIP-arkivet?" closed="true" %}}
 Arkivet indeholder alle lydfiler, en M3U-afspilningslistefil, der bevarer nummerrækkefølgen, og afspilningslistens albumcover gemt som en separat billedfil.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Fungerer arkivering med cloud-filer?" closed="true" %}}
+{{% ls-details title="Fungerer arkivering med cloud-filer?" closed="true" %}}
 Ja. Appen downloader automatisk alle cloud-lagrede filer, før de tilføjes til arkivet. Du kan overvåge download-fremskridtet i sektionen for filoverførsler.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Kan jeg også arkivere album, kunstnere og genrer?" closed="true" %}}
+{{% ls-details title="Kan jeg også arkivere album, kunstnere og genrer?" closed="true" %}}
 Ja. Muligheden «Tilføj til arkiv» er tilgængelig for afspilningslister, album, kunstnere og genrer. Processen er identisk for dem alle.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Hvordan overfører jeg arkivet til en anden enhed?" closed="true" %}}
+{{% ls-details title="Hvordan overfører jeg arkivet til en anden enhed?" closed="true" %}}
 Du kan uploade ZIP-filen til cloud-lagring (Google Drive, Dropbox osv.), bruge AirDrop eller overføre trådløst via den indbyggede Wi-Fi Drive-funktion i Evermusic og Flacbox.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Bliver afspilningslistens struktur bevaret efter overførsel?" closed="true" %}}
+{{% ls-details title="Bliver afspilningslistens struktur bevaret efter overførsel?" closed="true" %}}
 Ja. M3U-filen gemmer afspilningslistens struktur med relative stier. Efter udpakning på den nye enhed importeres M3U-filen for at genopbygge afspilningslisten med alle numre i den originale rækkefølge.
-{{% /details %}}
+{{% /ls-details %}}

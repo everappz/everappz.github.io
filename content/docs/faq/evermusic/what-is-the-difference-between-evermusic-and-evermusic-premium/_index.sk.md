@@ -62,7 +62,7 @@ Medzi modrou a červenou sa líši **spôsob, akým sú zabalené v App Store**,
 
 ### Stiahnuť z App Store
 
-{{< app-details ids="885367198, 905746421, 1564384601" >}}
+{{< ls-app-details ids="885367198, 905746421, 1564384601" >}}
 
 ### Balenie v App Store
 
@@ -142,7 +142,7 @@ Bezplatná verzia je skvelá pre bežných poslucháčov, zatiaľ čo Premium a 
 
 ## Často kladené otázky
 
-{{% details title="Zakúpil som si Evermusic Pro (alebo Premium) so starým Apple účtom. Môžem ho preniesť na nový Apple účet?" closed="true" %}}
+{{% ls-details title="Zakúpil som si Evermusic Pro (alebo Premium) so starým Apple účtom. Môžem ho preniesť na nový Apple účet?" closed="true" %}}
 Podľa oficiálnej dokumentácie spoločnosti Apple možno nákupy z iného Apple účtu zdieľať prostredníctvom Rodinného zdieľania / Zdieľania nákupov za predpokladu, že sú účty vhodne nakonfigurované v rámci tej istej skupiny Rodinného zdieľania.
 
 Ak bol Evermusic Pro zakúpený pomocou vášho starého Apple účtu, Apple poskytuje možnosť použiť tento účet ako sekundárny Apple účet na Zdieľanie nákupov.
@@ -202,30 +202,30 @@ Preto, ak je konfigurácia Apple Rodinného zdieľania so starým účtom nepoho
 Upozorňujeme, že Apple Rodinné zdieľanie, Zdieľanie nákupov, Apple účty a história nákupov v App Store sú úplne spravované spoločnosťou Apple. Nemáme prístup k Apple účtom používateľov a nemôžeme z našej strany prenášať nákupy z App Store z jedného Apple účtu na druhý.
 
 Ak sa vyskytnú akékoľvek problémy špecificky s Rodinným zdieľaním alebo s prístupom k nákupu uskutočnenému so starým Apple účtom, konfiguráciu účtov by musela skontrolovať podpora Apple.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Už som vylepšil Evermusic Free (modrá) na Premium. Potrebujem aj Evermusic Pro (červená)?" closed="true" %}}
+{{% ls-details title="Už som vylepšil Evermusic Free (modrá) na Premium. Potrebujem aj Evermusic Pro (červená)?" closed="true" %}}
 Nie. Evermusic Pro (červená ikona) je tá istá aplikácia ako Evermusic Free (modrá ikona) s už odomknutým Premium. Ak ste už vylepšili modrú aplikáciu na Premium, máte všetko, čo Pro ponúka, takže nie je potrebné inštalovať ani kupovať červenú aplikáciu.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Je podporované Rodinné zdieľanie a koľko ľudí môže používať môj nákup?" closed="true" %}}
+{{% ls-details title="Je podporované Rodinné zdieľanie a koľko ľudí môže používať môj nákup?" closed="true" %}}
 Áno. Rodinné zdieľanie funguje so všetkými nákupmi a predplatnými Evermusic, takže Premium môžete zdieľať až s piatimi členmi rodiny. Zapnite Zdieľanie nákupov v časti Nastavenia → Rodina na svojom zariadení. Každý člen rodiny si stiahne aplikáciu so svojím vlastným Apple účtom a automaticky získa Premium.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Vylepšil som na Premium na svojom iPhone, ale môj Mac stále zobrazuje bezplatnú verziu. Ako to opravím?" closed="true" %}}
+{{% ls-details title="Vylepšil som na Premium na svojom iPhone, ale môj Mac stále zobrazuje bezplatnú verziu. Ako to opravím?" closed="true" %}}
 Premium sa zdieľa medzi iPhone a Macom prostredníctvom iCloudu. Najprv sa uistite, že obe zariadenia používajú rovnaký Apple účet a majú zapnutý iCloud. Na svojom iPhone otvorte najnovšiu verziu Evermusic a počkajte približne minútu, kým sa váš nákup nahrá do iCloudu. Môžete tiež ťuknúť na Obnoviť nákupy v Nastaveniach. Potom otvorte najnovšiu verziu na svojom Macu, pripojte sa k internetu a počkajte približne minútu. Premium by sa malo zapnúť samo.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Ako obnovím svoj nákup na novom zariadení?" closed="true" %}}
+{{% ls-details title="Ako obnovím svoj nákup na novom zariadení?" closed="true" %}}
 Otvorte Nastavenia v aplikácii a ťuknite na Obnoviť nákupy. Zobrazia sa vám vaše nákupy a Premium sa opäť zapne. Ak nejaký nákup chýba, uistite sa, že zariadenie používa rovnaký Apple účet, s ktorým ste nakúpili, a že je zapnutý iCloud.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Ak nainštalujem Evermusic Pro (červená), odomkne to Premium v Evermusic Free (modrá)?" closed="true" %}}
+{{% ls-details title="Ak nainštalujem Evermusic Pro (červená), odomkne to Premium v Evermusic Free (modrá)?" closed="true" %}}
 Áno. Ak na zariadenie nainštalujete červený Evermusic Pro, modrý Evermusic Free na tom istom zariadení ho rozpozná a automaticky zapne Premium. Premium už nemusíte v modrej aplikácii kupovať znova. Stačí len ponechať červenú aplikáciu nainštalovanú.
 
 Naopak to nefunguje. Zakúpenie Premium v modrej aplikácii nespraví červený Evermusic Pro zadarmo, pretože ide o samostatné aplikácie v App Store. Nákupy v modrých aplikáciách sa synchronizujú prostredníctvom iCloudu medzi modrou aplikáciou pre iPhone a modrou aplikáciou pre Mac.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Môžem používať Premium na Intel Macu?" closed="true" %}}
+{{% ls-details title="Môžem používať Premium na Intel Macu?" closed="true" %}}
 Áno. Použite modrú aplikáciu Evermusic Free a vylepšite na Premium. Modrá aplikácia pre Mac beží na oboch typoch Macov — Apple Silicon aj Intel. Červený Evermusic Pro beží iba na Apple Silicon Macoch (M1 a novších) a nemožno ho nainštalovať na Intel Macy.
-{{% /details %}}
+{{% /ls-details %}}

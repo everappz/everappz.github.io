@@ -7,7 +7,7 @@ tags: ["musique", "fichiers", "usb", "flash", "externe", "ixpand", "lecture", "c
 readingTime: 2
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **Résumé:** Connectez une clé USB ou une carte SD à votre iPhone à l'aide d'un adaptateur Apple ou d'un lecteur SanDisk iXpand, puis utilisez Evermusic, Flacbox ou Evertag pour parcourir, lire et gérer vos fichiers audio directement depuis le stockage externe.
@@ -72,18 +72,18 @@ Profitez de la liberté d'accéder et de gérer votre musique sans effort avec c
 
 ## FAQ
 
-{{% details title="Quels adaptateurs USB fonctionnent avec l'iPhone pour la lecture de musique?" closed="true" %}}
+{{% ls-details title="Quels adaptateurs USB fonctionnent avec l'iPhone pour la lecture de musique?" closed="true" %}}
 Le Lightning to SD Card Camera Reader et le Lightning to USB 3 Camera Adapter d'Apple fonctionnent tous les deux. Les adaptateurs USB-C fonctionnent sur les iPhones plus récents avec des ports USB-C. Les lecteurs SanDisk iXpand Flash (V1-V7) sont également pris en charge nativement par Evermusic, Flacbox et Evertag.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Puis-je lire de la musique directement depuis la clé USB sans copier les fichiers?" closed="true" %}}
+{{% ls-details title="Puis-je lire de la musique directement depuis la clé USB sans copier les fichiers?" closed="true" %}}
 Oui. Avec les lecteurs SanDisk iXpand, vous pouvez lire de la musique directement depuis le lecteur sans copier les fichiers sur votre iPhone. Lorsque vous utilisez des adaptateurs Apple, les fichiers sont importés mais vous pouvez choisir de les copier ou non dans le stockage local.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Quels formats audio sont pris en charge depuis les clés USB?" closed="true" %}}
+{{% ls-details title="Quels formats audio sont pris en charge depuis les clés USB?" closed="true" %}}
 Evermusic et Flacbox prennent en charge une large gamme de formats, notamment FLAC, MP3, AAC, WAV, ALAC, OGG, WMA et plus encore. Tous les formats pris en charge fonctionnent lors de la lecture depuis un stockage USB.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Mon SanDisk iXpand affiche une erreur 'occupé'. Que dois-je faire?" closed="true" %}}
+{{% ls-details title="Mon SanDisk iXpand affiche une erreur 'occupé'. Que dois-je faire?" closed="true" %}}
 Une autre application peut accéder au lecteur. Fermez toutes les autres applications qui pourraient utiliser la clé USB, ou débranchez-la et réinsérez-la. Puis rouvrez Evermusic, Flacbox ou Evertag.
-{{% /details %}}
+{{% /ls-details %}}

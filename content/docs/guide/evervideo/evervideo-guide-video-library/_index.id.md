@@ -21,7 +21,7 @@ readingTime: 8
 Anda memiliki dua cara untuk menambahkan media ke perpustakaan: **penambahan manual** (Anda memilih dengan tepat apa yang ditambahkan) atau **sinkronisasi otomatis** (Evervideo memindai folder cloud yang ditentukan dan menambahkan file baru secara otomatis saat muncul).
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Perpustakaan Media Evervideo" image="/docs/guide/evervideo/img/evervideo-genres-in-media-library.webp" >}}
+  {{< ls-card title="" subtitle="Perpustakaan Media Evervideo" image="/docs/guide/evervideo/img/evervideo-genres-in-media-library.webp" >}}
 {{< /cards >}}
 
 ## Penambahan Manual
@@ -92,7 +92,7 @@ Jika Anda tidak melihat semua judul, pastikan aplikasi telah memindai setiap fil
 Bagian ini menampilkan semua video yang baru saja diputar beserta posisi pemutaran terakhirnya, sehingga Anda dapat melanjutkan salah satunya dengan satu ketukan. Anda dapat mengubah berapa banyak entri yang disimpan daftar di Pengaturan → Perpustakaan Media → Terbaru → Ubah Ukuran Daftar, dan mengekspor daftar ke M3U / CSV / TXT untuk mencadangkan riwayat tontonan Anda.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evervideo Terbaru — Video yang Baru Ditonton" image="/docs/guide/evervideo/img/evervideo-recents.webp" >}}
+  {{< ls-card title="" subtitle="Evervideo Terbaru — Video yang Baru Ditonton" image="/docs/guide/evervideo/img/evervideo-recents.webp" >}}
 {{< /cards >}}
 
 ## Favorit
@@ -104,7 +104,7 @@ Tandai video sebagai favorit di layar pemutar atau melalui menu opsi. Favorit mu
 Evervideo melacak posisi pemutaran setiap video yang Anda tonton. Setiap video dalam daftar apa pun — Terbaru, Favorit, album, genre, daftar putar, folder — menampilkan bilah progres kecil sehingga Anda dapat melihat sekilas berapa banyak yang telah Anda tonton. Ini membuat musim serial TV panjang, daftar putar kursus, dan malam maraton sangat mudah dikelola.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Detail Genre Evervideo dengan Progres Menonton Per File" image="/docs/guide/evervideo/img/evervideo-genre-detail-with-playback-progress-for-watched-files.webp" >}}
+  {{< ls-card title="" subtitle="Detail Genre Evervideo dengan Progres Menonton Per File" image="/docs/guide/evervideo/img/evervideo-genre-detail-with-playback-progress-for-watched-files.webp" >}}
 {{< /cards >}}
 
 ## Toolbar Atas
@@ -116,7 +116,7 @@ Terletak tepat di bawah bilah navigasi, toolbar atas menawarkan beberapa tindaka
 Fitur pencarian memungkinkan Anda menemukan judul, album, genre, atau daftar putar tertentu dalam perpustakaan media Anda. Dalam layar Pencarian, Anda memiliki akses ke tindakan Urutkan, Filter, dan tampilan Grid / Daftar. Pencarian berjalan secara lokal terhadap database perpustakaan media, sehingga berfungsi sepenuhnya offline dan menampilkan hasil saat Anda mengetik.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Pencarian Perpustakaan Media Evervideo" image="/docs/guide/evervideo/img/evervideo-library-search.webp" >}}
+  {{< ls-card title="" subtitle="Pencarian Perpustakaan Media Evervideo" image="/docs/guide/evervideo/img/evervideo-library-search.webp" >}}
 {{< /cards >}}
 
 ## Menu Opsi

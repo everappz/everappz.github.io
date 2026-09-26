@@ -15,7 +15,7 @@ readingTime: 5
 **टैग एडिटर** Evertag ऐप की मुख्य स्क्रीन है जहाँ आप ऑडियो फ़ाइल मेटाडेटा देख और संपादित कर सकते हैं। **स्थानीय फ़ाइलें** अनुभाग से या किसी भी कनेक्टेड **cloud storage** account से फ़ाइल टैप करके यह स्क्रीन खोलें।
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evertag टैग एडिटर स्क्रीन" image="/docs/guide/evertag/img/tag-editor.webp" >}}
+  {{< ls-card title="" subtitle="Evertag टैग एडिटर स्क्रीन" image="/docs/guide/evertag/img/tag-editor.webp" >}}
 {{< /cards >}}
 
 ## संपादन मोड
@@ -38,7 +38,7 @@ Evertag दो संपादन मोड प्रदान करता ह�
 सभी उपलब्ध टैग एक्सेस करने के लिए, स्क्रीन के नीचे scroll करें और **Show Extended Tags** विकल्प टैप करें। यह एडिटर को extended mode में switch करेगा, जिससे आप **120 से अधिक metadata fields** संपादित कर सकते हैं, जिसमें **MusicBrainz Tags**, **Lyrics**, **Advisory Ratings**, replay-gain values, sort orders, podcast metadata और अधिक शामिल हैं। **सेटिंग्स → ऑडियो टैग एडिटर → मुख्य स्क्रीन पर बटन** का उपयोग करके Show Extended Tags को permanently toggle करें ताकि यह हमेशा on रहे।
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Bottom Actions Panel" image="/docs/guide/evertag/img/tag-editor-bottom-actions.webp" >}}
+{{< ls-card title="" subtitle="Bottom Actions Panel" image="/docs/guide/evertag/img/tag-editor-bottom-actions.webp" >}}
 {{< /cards >}}
 
 ## Batch मोड
@@ -53,7 +53,7 @@ Evertag दो संपादन मोड प्रदान करता ह�
    - कोई भी फ़ाइल खोलें, नीचे scroll करें, और उसी folder की सभी फ़ाइलें load करने के लिए **एक साथ फ़ाइलें संपादित करें** टैप करें।
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Batch Editing मोड" image="/docs/guide/evertag/img/tag-editor-batch-editing.webp" >}}
+{{< ls-card title="" subtitle="Batch Editing मोड" image="/docs/guide/evertag/img/tag-editor-batch-editing.webp" >}}
 {{< /cards >}}
 
 संपादन के बाद, changes लागू करने के लिए **सेव करें** टैप करें।
@@ -72,19 +72,19 @@ extended editor **Lyrics** field दिखाता है। गीत सू�
 प्रत्येक shortcut तभी दिखाई देता है जब corresponding service आपके डिवाइस से reachable हो। एक service टैप करें, जो lyrics (या LRC timestamps) चाहते हों copy करें, Evertag पर वापस आएँ, और उन्हें text field में paste करें — फिर lyrics को ऑडियो फ़ाइल के टैग में write करने के लिए **सेव करें**।
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Lyrics Pages" image="/docs/guide/evertag/img/tag-editor-lyrics-pages.webp" >}}
+  {{< ls-card title="" subtitle="Lyrics Pages" image="/docs/guide/evertag/img/tag-editor-lyrics-pages.webp" >}}
 {{< /cards >}}
 
 picker से एक भाषा चुनें:
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Lyrics Language Selector" image="/docs/guide/evertag/img/tag-editor-lyrics-language-select.webp" >}}
+  {{< ls-card title="" subtitle="Lyrics Language Selector" image="/docs/guide/evertag/img/tag-editor-lyrics-language-select.webp" >}}
 {{< /cards >}}
 
 फिर lyrics text paste करें या टाइप करें। Evertag plain text और timestamped (synced) lyrics दोनों का समर्थन करता है — placeholder LRC-style format का एक उदाहरण दिखाता है, जो कि synced results के लिए Lrclib और Lyricsify return करते हैं।
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Lyrics Text Editor" image="/docs/guide/evertag/img/tag-editor-lyrics-text.webp" >}}
+  {{< ls-card title="" subtitle="Lyrics Text Editor" image="/docs/guide/evertag/img/tag-editor-lyrics-text.webp" >}}
 {{< /cards >}}
 
 ## Rating और Advisory Rating सेट करें
@@ -96,7 +96,7 @@ extended editor एक star **Rating** control और एक **Advisory Rating**
 किसी track को एक से पाँच stars का personal score देने के लिए **Rating** field का उपयोग करें। मान फ़ाइल के standard rating tag में लिखा जाता है (ID3 के लिए POPM, MP4 के लिए `rate`, Vorbis/APE के लिए `RATING`, आदि), इसलिए अन्य ऐप जो यह टैग पढ़ते हैं — जिसमें Music app, Plex, Roon और अधिकांश desktop tag editors शामिल हैं — आपके scores तुरंत उठाएँगे।
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Rating" image="/docs/guide/evertag/img/tag-editor-rating.webp" >}}
+  {{< ls-card title="" subtitle="Rating" image="/docs/guide/evertag/img/tag-editor-rating.webp" >}}
 {{< /cards >}}
 
 ### Advisory Rating
@@ -117,7 +117,7 @@ extended editor एक star **Rating** control और एक **Advisory Rating**
 मान file format के लिए standard advisory-rating field में संग्रहीत होता है (MP4 के लिए `rtng`, ID3 के लिए `TXXX:ITUNESADVISORY`, Vorbis के लिए `ITUNESADVISORY`), इसलिए कोई भी player जो parental-advisory metadata पढ़ता है आपका update देखेगा।
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Lyrics Advisory Rating" image="/docs/guide/evertag/img/lyrics-advisory-rating.webp" >}}
+  {{< ls-card title="" subtitle="Lyrics Advisory Rating" image="/docs/guide/evertag/img/lyrics-advisory-rating.webp" >}}
 {{< /cards >}}
 
 ## एल्बम कवर संपादित करें
@@ -129,7 +129,7 @@ extended editor एक star **Rating** control और एक **Advisory Rating**
 3. cover art के रूप में लागू करने के लिए एक image चुनें।
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Image चुनें" image="/docs/guide/evertag/img/select-image.webp" >}}
+  {{< ls-card title="" subtitle="Image चुनें" image="/docs/guide/evertag/img/select-image.webp" >}}
 {{< /cards >}}
 
 ## टैग एडिटर में अधिक क्रियाएँ
@@ -137,7 +137,7 @@ extended editor एक star **Rating** control और एक **Advisory Rating**
 artwork view के नीचे toolbar के माध्यम से अतिरिक्त संपादन विकल्प उपलब्ध हैं।
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="More Actions मेनू" image="/docs/guide/evertag/img/tag-editor-more-actions.webp" >}}
+  {{< ls-card title="" subtitle="More Actions मेनू" image="/docs/guide/evertag/img/tag-editor-more-actions.webp" >}}
 {{< /cards >}}
 
 ### ऑडियो टैग Auto-Search
@@ -150,13 +150,13 @@ artwork view के नीचे toolbar के माध्यम से अत
 सही album artwork के लिए web पर खोजने के लिए metadata का उपयोग करें।
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="एल्बम कवर खोजें" image="/docs/guide/evertag/img/search-album-cover.webp" >}}
+  {{< ls-card title="" subtitle="एल्बम कवर खोजें" image="/docs/guide/evertag/img/search-album-cover.webp" >}}
 {{< /cards >}}
 
 मिलने के बाद, system context menu का उपयोग करके image अपने **Photos** में सेव करें।
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Photos में Image जोड़ें" image="/docs/guide/evertag/img/add-image-to-photos.webp" >}}
+  {{< ls-card title="" subtitle="Photos में Image जोड़ें" image="/docs/guide/evertag/img/add-image-to-photos.webp" >}}
 {{< /cards >}}
 
 उसके बाद, टैग एडिटर पर वापस आएँ, Camera icon टैप करें, **Photos Library** पर जाएँ, और सेव की गई image चुनें। ऐप इसे आपकी ऑडियो फ़ाइल के cover के रूप में सेट करेगा।
@@ -178,19 +178,19 @@ MusicBrainz database का उपयोग करके album metadata मै�
 - album चुनें
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Album चुनें" image="/docs/guide/evertag/img/select-album-results.webp" >}}
+  {{< ls-card title="" subtitle="Album चुनें" image="/docs/guide/evertag/img/select-album-results.webp" >}}
 {{< /cards >}}
 
 - सही song चुनें
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Song चुनें" image="/docs/guide/evertag/img/select-a-song.webp" >}}
+  {{< ls-card title="" subtitle="Song चुनें" image="/docs/guide/evertag/img/select-a-song.webp" >}}
 {{< /cards >}}
 
 - कौन-से टैग लागू करने हैं चुनें
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="ऑडियो टैग चुनें" image="/docs/guide/evertag/img/select-audio-tags.webp" >}}
+  {{< ls-card title="" subtitle="ऑडियो टैग चुनें" image="/docs/guide/evertag/img/select-audio-tags.webp" >}}
 {{< /cards >}}
 
 अपने track पर चुना हुआ metadata लागू करने के लिए **पूर्ण करना** टैप करें।

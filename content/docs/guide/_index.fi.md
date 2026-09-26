@@ -7,7 +7,7 @@ tags: ["käyttöopas", "sovelluksen opas", "evermusic", "flacbox", "evervideo", 
 ---
 
 
-{{< lottie src="/images/juicy-json/juicy-woman-with-graph-chart.json" width="75%" >}}
+{{< ls-lottie src="/images/juicy-json/juicy-woman-with-graph-chart.json" width="75%" >}}
 
 ## Opi käyttämään sovelluksiamme
 
@@ -19,4 +19,4 @@ Valitse alla oleva sovellus aloittaaksesi.
 
 ## Valitse tuotteesi
 
-{{< product-doc-cards section="guide" >}}
+{{< ls-product-doc-cards section="guide" >}}

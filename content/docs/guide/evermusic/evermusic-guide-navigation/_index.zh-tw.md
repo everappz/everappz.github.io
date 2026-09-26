@@ -25,7 +25,7 @@ Evermusic 的功能被精心劃分為兩個獨立元件：音樂庫（通過「�
 無論您使用的是 iPhone、iPad 還是 Mac 上的緊湊模式，所有應用程式功能都可透過畫面底部的標籤列輕鬆存取。對於 iPad 和 Mac 使用者，相同的選單位於畫面左側。這種周到的組織方式將所有應用程式功能分類到易於存取的分區中，確保友善且高效的使用體驗。
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="iPad 和 Mac 上的 Evermusic 左側邊欄" image="/docs/guide/evermusic/evermusic-guide-navigation/img/navigation-left-sidebar.webp" >}}
+  {{< ls-card title="" subtitle="iPad 和 Mac 上的 Evermusic 左側邊欄" image="/docs/guide/evermusic/evermusic-guide-navigation/img/navigation-left-sidebar.webp" >}}
 {{< /cards >}}
 
 **連接：** 您可以在此畫面上輕鬆連接 Google Drive、MEGA、OneDrive 和 Dropbox 等雲端儲存服務，以及您的電腦和個人 NAS。
@@ -47,7 +47,7 @@ Evermusic 的功能被精心劃分為兩個獨立元件：音樂庫（通過「�
 點選迷你播放器圖示並使用向下滑動手勢將其隱藏，以啟動全螢幕播放器。在 iPad 和 Mac 上，迷你播放器畫面位於畫面頂部，可在透過主選單開啟全螢幕播放器時隱藏。
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="iPhone 標籤列" image="/docs/guide/evermusic/evermusic-guide-navigation/img/navigation-bottom-tabbar.webp" >}}
+  {{< ls-card title="" subtitle="iPhone 標籤列" image="/docs/guide/evermusic/evermusic-guide-navigation/img/navigation-bottom-tabbar.webp" >}}
 {{< /cards >}}
 
 ## 迷你播放器視窗（Mac 專屬）
@@ -55,7 +55,7 @@ Evermusic 的功能被精心劃分為兩個獨立元件：音樂庫（通過「�
 若要在 Mac 上存取迷你播放器視窗，只需將游標移動到應用程式視窗的右下角並將其調整到最小尺寸。然後，點選摺疊按鈕（顯示為向下箭頭）以啟動迷你播放器視窗。若要使迷你播放器視窗始終置於其他視窗之上，請導航到 Mac 頂部選單列，選擇「視窗」，然後選擇「始終在頂部顯示視窗」。此功能對於不間斷收聽音訊講座非常有用。
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Mac 迷你播放器視窗" image="/docs/guide/evermusic/evermusic-guide-navigation/img/navigation-mac-exclusive-miniplayer.webp" >}}
+  {{< ls-card title="" subtitle="Mac 迷你播放器視窗" image="/docs/guide/evermusic/evermusic-guide-navigation/img/navigation-mac-exclusive-miniplayer.webp" >}}
 {{< /cards >}}
 
 ## 更多動作
@@ -63,7 +63,7 @@ Evermusic 的功能被精心劃分為兩個獨立元件：音樂庫（通過「�
 畫面上幾乎每個內容項目都有「更多動作」按鈕。點選它可存取所有可用動作。
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="更多動作上下文選單" image="/docs/guide/evermusic/evermusic-guide-navigation/img/navigation-more-actions.webp" >}}
+  {{< ls-card title="" subtitle="更多動作上下文選單" image="/docs/guide/evermusic/evermusic-guide-navigation/img/navigation-more-actions.webp" >}}
 {{< /cards >}}
 
 ## 頂部工具列
@@ -77,7 +77,7 @@ Evermusic 的功能被精心劃分為兩個獨立元件：音樂庫（通過「�
 - **隨機播放：** 將目前頁面的所有曲目新增到音訊播放器佇列，在新增前對其進行隨機排序，帶來愉悅的聆聽體驗。
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="包含搜尋、全部播放和隨機播放的頂部工具列" image="/docs/guide/evermusic/evermusic-guide-navigation/img/navigation-top-toolbar.webp" >}}
+  {{< ls-card title="" subtitle="包含搜尋、全部播放和隨機播放的頂部工具列" image="/docs/guide/evermusic/evermusic-guide-navigation/img/navigation-top-toolbar.webp" >}}
 {{< /cards >}}
 
 ## 上下文選單
@@ -91,7 +91,7 @@ Evermusic 的功能被精心劃分為兩個獨立元件：音樂庫（通過「�
 **滑鼠右鍵：** 右鍵單擊儲存格、迷你播放器或緊湊播放器以顯示上下文選單。
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="macOS 上的上下文選單" image="/docs/guide/evermusic/evermusic-guide-navigation/img/navigation-context-menu-macos.webp" >}}
+  {{< ls-card title="" subtitle="macOS 上的上下文選單" image="/docs/guide/evermusic/evermusic-guide-navigation/img/navigation-context-menu-macos.webp" >}}
 {{< /cards >}}
 
 ## 輔助功能
@@ -125,7 +125,7 @@ Evermusic 附帶四個主畫面/鎖定畫面小工具，在所有 Apple 平台�
 所有四個小工具均提供小型、中型和大型尺寸，您可以選擇適合您畫面的版面配置。
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="新增 Evermusic 小工具" image="/docs/guide/evermusic/evermusic-guide-navigation/img/navigation-add-widgets.webp" >}}
+  {{< ls-card title="" subtitle="新增 Evermusic 小工具" image="/docs/guide/evermusic/evermusic-guide-navigation/img/navigation-add-widgets.webp" >}}
 {{< /cards >}}
 
 ### 在 iPhone 上新增小工具（主畫面）
@@ -175,7 +175,7 @@ CarPlay 小工具隨著音樂變化即時更新，並且對大手指友好，因
 Evermusic 包含完整功能的 **Apple CarPlay** 介面（僅限 iOS），針對車載顯示螢幕進行了最佳化。一旦您的 iPhone 透過 USB 或無線方式連接到相容的 CarPlay 主機，Evermusic 就會與 Apple Music 和 Spotify 一起出現在 CarPlay 應用程式格線中，隨時準備在路途中串流您的雲端音樂庫。
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="CarPlay 畫面上的 Evermusic" image="/docs/guide/evermusic/evermusic-guide-navigation/img/navigation-carplay-menu.webp" >}}
+  {{< ls-card title="" subtitle="CarPlay 畫面上的 Evermusic" image="/docs/guide/evermusic/evermusic-guide-navigation/img/navigation-carplay-menu.webp" >}}
 {{< /cards >}}
 
 ### CarPlay 中的功能

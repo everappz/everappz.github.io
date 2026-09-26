@@ -12,7 +12,7 @@ authors:
     image: "/images/about/artem-meleshko-founder-everappz.webp"
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 **Özet:** [Evervideo 1.7](/products/evervideo), iPhone, iPad ve Mac HD video oynatıcısı için büyük bir güncellemedir. Bu sürüm 10'dan fazla yeni bulut, NAS ve medya sunucusu bağlantısı ekler — **Internxt**, **Proton Drive**, **QNAP**, **Nextcloud**, **Amazon S3** ile en popüler medya sunucuları **Plex**, **Subsonic**, **Navidrome**, **Jellyfin** ve **Emby** ve üç ağ protokolü: **FTP**, **SFTP** ve **NFS**. Yeni **oynatma hareketleri**, ileri veya geri atlamak için çift dokunmanıza, 2x hızda çalıştırmak için dokunup tutmanıza ve kontrolleri açıp kapatmak için tek dokunmanıza olanak tanır — tüm bunlar tam ekrandan ayrılmadan. Wi-Fi Drive, seçim modu ve daha akıllı bir yükleme kuyruğuyla yenilenmiş bir arayüze sahip olur. Uygulamanın tamamı Apple'ın yeni **Liquid Glass** tasarımı için ayarlanmıştır.
 
@@ -147,58 +147,58 @@ Uygulamayı beğeniyorsanız, lütfen App Store'a bir değerlendirme bırakın �
 
 ## Sıkça Sorulan Sorular
 
-{{% details title="Evervideo 1.7'de yenilikler nelerdir?" closed="true" %}}
+{{% ls-details title="Evervideo 1.7'de yenilikler nelerdir?" closed="true" %}}
 Evervideo 1.7, 10'dan fazla yeni bağlantı (Plex, Jellyfin, Emby, Subsonic, Navidrome, Internxt, Proton Drive, QNAP, Nextcloud, Amazon S3, FTP, SFTP, NFS), yeni oynatma hareketleri (atlamak için çift dokunma, 2x hız için dokun ve tut, kontrolleri açıp kapatmak için tek dokunma), seçim modu ve daha akıllı yükleme kuyruğuyla yeniden tasarlanmış bir Wi-Fi Drive, Liquid Glass tasarım güncellemeleri, güncellenmiş bağlantı kütüphaneleri ve birçok hata düzeltmesi için destek sunar.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Evervideo, Plex ile çalışır mı?" closed="true" %}}
+{{% ls-details title="Evervideo, Plex ile çalışır mı?" closed="true" %}}
 Evet. Evervideo 1.7'den itibaren bir Plex Media Server'a bağlanabilir ve tam video kitaplığınızı — filmler, TV şovları ve ev videoları — akıtabilirsiniz. Plex Media Server çalıştırmak ücretsizdir; Plex Pass isteğe bağlıdır. Evervideo, MKV, MP4, AVI, MOV ve diğer formatların yeniden kodlamadan doğrudan oynatılması da dahil olmak üzere hem ücretsiz hem de Plex Pass kurulumlarını destekler.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Evervideo'da Jellyfin veya Navidrome destekleniyor mu?" closed="true" %}}
+{{% ls-details title="Evervideo'da Jellyfin veya Navidrome destekleniyor mu?" closed="true" %}}
 Evet. Hem Jellyfin hem de Navidrome, Evervideo 1.7'de tam olarak desteklenir. Jellyfin, video ve sesi işleyen ücretsiz, açık kaynaklı bir medya sunucusudur. Navidrome, Subsonic API'sini uygulayan ücretsiz, açık kaynaklı bir sunucudur. Evervideo her ikisine de yerel olarak bağlanır.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Plex, Jellyfin, Emby, Navidrome ve Subsonic ücretsiz mi?" closed="true" %}}
+{{% ls-details title="Plex, Jellyfin, Emby, Navidrome ve Subsonic ücretsiz mi?" closed="true" %}}
 - **Plex** — sunucu ücretsizdir; Plex Pass isteğe bağlı ücretli bir yükseltmedir.
 - **Jellyfin** — tamamen ücretsiz ve açık kaynaklı.
 - **Emby** — sunucu ücretsizdir; Emby Premiere ücretlidir ve mobil senkronizasyon ile çevrimdışı modu açar.
 - **Navidrome** — tamamen ücretsiz ve açık kaynaklı.
 - **Subsonic** — resmi sunucu 30 günlük denemeden sonra aylık 1 $ tutar, ancak API'si açıktır ve birçok ücretsiz sunucu (Navidrome dahil) bunu uygular.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Ev NAS'ımdan SFTP, FTP veya NFS üzerinden akış yapabilir miyim?" closed="true" %}}
+{{% ls-details title="Ev NAS'ımdan SFTP, FTP veya NFS üzerinden akış yapabilir miyim?" closed="true" %}}
 Evet. Evervideo 1.7, SFTP, FTP ve NFS'yi yerel bağlantı türleri olarak ekler. SFTP, tüm trafik SSH üzerinden şifrelendiği için herkese açık internet üzerinden kendi sunucunuzdan akış yapmak için önerilen seçimdir. FTP ve NFS, en iyi yerel ağınızın içinde veya bir VPN'in arkasında kullanılır.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Evervideo'yu SFTP kullanarak özel bir sunucuya nasıl bağlarım?" closed="true" %}}
+{{% ls-details title="Evervideo'yu SFTP kullanarak özel bir sunucuya nasıl bağlarım?" closed="true" %}}
 Evervideo'yu açın, Bağlantılar sekmesine gidin, SFTP'yi seçin ve sunucunuzun ana bilgisayar adını veya IP'sini, bağlantı noktasını (genellikle 22), kullanıcı adını ve ya bir parolayı ya da bir SSH özel anahtarını girin. Evervideo, uzak klasörlerinize göz atacak ve video dosyalarını uçtan uca şifreleme ile doğrudan akıtacaktır.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Evervideo, Internxt ve Proton Drive'ı destekliyor mu?" closed="true" %}}
+{{% ls-details title="Evervideo, Internxt ve Proton Drive'ı destekliyor mu?" closed="true" %}}
 Evet. Her iki gizlilik odaklı bulut da Evervideo 1.7 itibarıyla desteklenmektedir. Uygulamada zaten bulunan MEGA ve diğer gizlilik öncelikli hizmetlere katılırlar.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Yeni oynatma hareketleri nasıl çalışır?" closed="true" %}}
+{{% ls-details title="Yeni oynatma hareketleri nasıl çalışır?" closed="true" %}}
 Tam ekran video oynatmada, yapılandırılabilir bir aralıkta (varsayılan 10 saniye — Ayarlar'da değiştirebilirsiniz) ileri atlamak için **sağ tarafa çift dokunun** ve geri atlamak için **sol tarafa çift dokunun**. Geçici olarak 2x'e hızlandırmak için ekranın herhangi bir yerinde **dokunup tutun**; normale dönmek için bırakın. Oynatma kontrollerini açmak veya kapatmak için herhangi bir yere **tek dokunun** (göster veya gizle).
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Çift dokunma atlama aralığını değiştirebilir miyim?" closed="true" %}}
+{{% ls-details title="Çift dokunma atlama aralığını değiştirebilir miyim?" closed="true" %}}
 Evet. **Ayarlar → Oynatma → Hareket Atlama Aralığı** bölümüne gidin ve 5 ile 60 saniye arasında bir değer seçin. Çoğu kullanıcı bunu 10 veya 15 saniyede tutar.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Evervideo'daki Wi-Fi Drive nedir?" closed="true" %}}
+{{% ls-details title="Evervideo'daki Wi-Fi Drive nedir?" closed="true" %}}
 Wi-Fi Drive, Evervideo'nun yerleşik kablosuz dosya aktarım özelliğidir. Videoları yerel Wi-Fi ağınız üzerinden bilgisayarınızdan iPhone'unuza veya iPad'inize yüklemenize olanak tanır — iTunes yok, kablo yok, bulut hesabı yok. Herhangi bir masaüstü tarayıcıyı veya Mac Finder veya Windows Dosya Gezgini gibi bir WebDAV istemcisini kullanabilirsiniz. [Tam Wi-Fi Drive kılavuzuna](/docs/howto/how-to-transfer-files-wirelessly-from-a-computer-to-an-iphone-using-wifi-drive/) bakın.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Evervideo, Plex veya Jellyfin'den MKV, AVI ve diğer formatları oynatır mı?" closed="true" %}}
+{{% ls-details title="Evervideo, Plex veya Jellyfin'den MKV, AVI ve diğer formatları oynatır mı?" closed="true" %}}
 Evet. Evervideo neredeyse her video formatını oynatır — MKV, AVI, MP4, MOV, FLV, WMV, WEBM, M4V, TS, 3GP — ve bunları çoğu codec için transkodlama gerektirmeden doğrudan Plex, Jellyfin, Emby ve diğer medya sunucularından akıtır. Bu, sunucunuzda daha düşük CPU yükü ve daha hızlı başlatma süreleri anlamına gelir.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Evervideo 1.7'ye güncelleme ücretsiz mi?" closed="true" %}}
+{{% ls-details title="Evervideo 1.7'ye güncelleme ücretsiz mi?" closed="true" %}}
 Evet. Evervideo, App Store'dan ücretsiz bir indirmedir ve 1.7, tüm mevcut kullanıcılar için ücretsiz bir güncellemedir. Yeni bulut entegrasyonları, medya sunucusu desteği, oynatma hareketleri, Wi-Fi Drive iyileştirmeleri ve Liquid Glass UI, temel güncellemenin bir parçasıdır.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Evervideo 1.7 hangi cihazlarda mevcut?" closed="true" %}}
+{{% ls-details title="Evervideo 1.7 hangi cihazlarda mevcut?" closed="true" %}}
 Evervideo 1.7, iPhone, iPad ve Mac'te çalışır. AirPlay ve Chromecast, oynatmayı daha büyük bir ekrana yayınlamanıza olanak tanır. iCloud Drive senkronizasyonu, kitaplığınızı ve ayarlarınızı cihazlar arasında tutarlı tutar.
-{{% /details %}}
+{{% /ls-details %}}

@@ -19,7 +19,7 @@ readingTime: 11
 Quản lý thư viện nhạc trong Flacbox rất dễ dàng — bạn có thể tổ chức tất cả các bản nhạc ở định dạng FLAC, ALAC, DSD, MP3, M4A, OGG, WMA, APE và hàng chục định dạng khác vào một bộ sưu tập có thể tìm kiếm duy nhất. Bạn có hai lựa chọn để xây dựng thư viện nhạc: thêm thủ công (bạn chọn chính xác những gì được thêm) hoặc đồng bộ tự động (Flacbox quét các thư mục đám mây được chỉ định và tự động thêm file mới khi chúng xuất hiện).
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox Thư viện Nhạc Chế độ xem Album" image="/docs/guide/flacbox/img/media-library-albums.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox Thư viện Nhạc Chế độ xem Album" image="/docs/guide/flacbox/img/media-library-albums.webp" >}}
 {{< /cards >}}
 
 ## Thêm Thủ công
@@ -27,7 +27,7 @@ Quản lý thư viện nhạc trong Flacbox rất dễ dàng — bạn có thể
 Để thêm bản nhạc thủ công, nhấn biểu tượng **Thêm Nhạc** ở góc trên bên trái và chọn thư mục hoặc file từ dịch vụ lưu trữ đám mây đã kết nối hoặc file trên thiết bị. Khi bạn thêm bản nhạc vào thư viện, chỉ có liên kết đến các bản nhạc đó được tạo — các file thực tế vẫn ở vị trí ban đầu để tiết kiệm dung lượng.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox Thêm Bài hát vào Thư viện Nhạc" image="/docs/guide/flacbox/img/library-add-songs.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox Thêm Bài hát vào Thư viện Nhạc" image="/docs/guide/flacbox/img/library-add-songs.webp" >}}
 {{< /cards >}}
 
 Bạn cũng có thể kéo và thả file vào thư viện trên phiên bản Mac, hoặc sử dụng **Mở File…** / **Mở Thư mục…** từ bộ chọn file hệ thống trên iPhone và iPad.
@@ -89,7 +89,7 @@ Nằm ngay bên dưới thanh điều hướng, thanh công cụ trên cùng cun
 Tính năng tìm kiếm cho phép tìm bản nhạc, nghệ sĩ, album hoặc thể loại cụ thể trong thư viện nhạc.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox Tìm kiếm Thư viện Nhạc" image="/docs/guide/flacbox/img/media-library-search.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox Tìm kiếm Thư viện Nhạc" image="/docs/guide/flacbox/img/media-library-search.webp" >}}
 {{< /cards >}}
 
 ## Menu Tùy chọn
@@ -138,7 +138,7 @@ Khi bạn mở phần Nghệ sĩ, Nghệ sĩ Album hoặc Nhạc sĩ, bạn có 
 - **Album Độc lập** — hiển thị album chỉ có bản nhạc của nghệ sĩ được chỉ định.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox Màn hình Chi tiết Album" image="/docs/guide/flacbox/img/media-library-album-details-screen.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox Màn hình Chi tiết Album" image="/docs/guide/flacbox/img/media-library-album-details-screen.webp" >}}
 {{< /cards >}}
 
 ## Cài đặt

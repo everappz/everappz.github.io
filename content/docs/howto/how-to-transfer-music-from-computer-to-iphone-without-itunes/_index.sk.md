@@ -7,14 +7,14 @@ keywords: ["prenos hudby bez iTunes", "wifi drive iphone", "bezdrôtové kopíro
 readingTime: 2
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **Zhrnutie:** Použite Wi-Fi Drive v Evermusic, Flacbox alebo Evertag na prenos hudby z počítača na iPhone alebo iPad. Bez iTunes. Obe zariadenia musia byť v rovnakej Wi-Fi sieti. Prenášajte cez webový prehliadač alebo WebDAV (Mac Finder / Windows Prieskumník súborov).
 
 Môžete si pozrieť video návod od [**TECHGUYPH**](https://www.youtube.com/channel/UCgpf09gGFE_c_3pPTtTpnzg) alebo si prečítať textovú verziu nižšie.
 <br><br>
-{{< youtubecard id="CqdqrQ0ge70" title="Can We Wirelessly Put Offline Music on iPhones?" >}}
+{{< ls-youtubecard id="CqdqrQ0ge70" title="Can We Wirelessly Put Offline Music on iPhones?" >}}
 
 Wi-Fi Drive je najlepšie riešenie na bezproblémový prenos vašej hudobnej zbierky z počítača na iPhone alebo iPad bez potreby iTunes. Táto bezproblémová metóda vám umožní jednoducho sťahovať alebo nahrávať viaceré zvukové súbory a dokonca celé priečinky pomocou lokálneho Wi-Fi pripojenia. Počítač aj iOS zariadenie by mali byť pripojené k rovnakej Wi-Fi sieti, aby všetko fungovalo bezchybne.
 
@@ -84,22 +84,22 @@ S Wi-Fi Drive sú dni bojov s iTunes minulosťou. Užite si bezproblémový a ef
 
 ## Často kladené otázky
 
-{{% details title="Aké zvukové formáty môžem prenášať cez Wi-Fi Drive?" closed="true" %}}
+{{% ls-details title="Aké zvukové formáty môžem prenášať cez Wi-Fi Drive?" closed="true" %}}
 Wi-Fi Drive prenáša akýkoľvek typ súboru. Evermusic a Flacbox podporujú prehrávanie MP3, FLAC, AAC, WAV, AIFF, OGG, WMA a mnohých ďalších zvukových formátov.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Potrebujem iTunes na pridanie hudby na iPhone?" closed="true" %}}
+{{% ls-details title="Potrebujem iTunes na pridanie hudby na iPhone?" closed="true" %}}
 Nie. Wi-Fi Drive prenáša hudbu priamo cez lokálnu Wi-Fi sieť. iTunes nie je potrebný.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Môžem preniesť celé hudobné priečinky naraz?" closed="true" %}}
+{{% ls-details title="Môžem preniesť celé hudobné priečinky naraz?" closed="true" %}}
 Áno. Metóda webového prehliadača podporuje nahrávanie celých priečinkov vrátane vnorených podpriečinkov.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Je prenos hudby bezpečný?" closed="true" %}}
+{{% ls-details title="Je prenos hudby bezpečný?" closed="true" %}}
 Wi-Fi Drive beží iba vo vašej lokálnej sieti. Môžete tiež nastaviť meno používateľa a heslo pre dodatočnú bezpečnosť.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Ktoré aplikácie podporujú Wi-Fi Drive pre hudbu?" closed="true" %}}
+{{% ls-details title="Ktoré aplikácie podporujú Wi-Fi Drive pre hudbu?" closed="true" %}}
 Evermusic, Flacbox a Evertag — všetky obsahujú Wi-Fi Drive na prenos zvukových súborov z počítača.
-{{% /details %}}
+{{% /ls-details %}}

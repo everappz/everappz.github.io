@@ -18,7 +18,7 @@ La sección Archivos Locales sirve como centro para gestionar los archivos ubica
 Este gestor de archivos integrado te permite editar archivos y ofrece varios métodos para importar archivos de audio a la app. Los archivos que has abierto recientemente aparecen automáticamente en la pestaña **Recientes** y los elementos que marcas con una estrella aparecen en **Favoritos**, para que puedas ir directamente a los archivos con los que más trabajas sin volver a esta pantalla.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evertag Downloads Screen" image="/docs/guide/evertag/img/downloads.webp" >}}
+  {{< ls-card title="" subtitle="Evertag Downloads Screen" image="/docs/guide/evertag/img/downloads.webp" >}}
 {{< /cards >}}
 
 ## Descargar archivos desde almacenamiento en la nube
@@ -74,7 +74,7 @@ Muestra archivos y carpetas almacenados en el directorio Documents de la app y e
 Muestra archivos ubicados en tu dispositivo pero en diferentes aplicaciones. Puedes importarlos a esta aplicación usando el selector de archivos del sistema. Para activar el selector, elige «Abrir archivos...» para seleccionar archivos u «Abrir carpetas...» para seleccionar carpetas. Las instrucciones detalladas sobre cómo importar música local almacenada en tu iPhone o Mac están disponibles [aquí](/docs/howto/how-to-play-local-music-stored-on-your-iphone-or-mac). También puedes conectar una carpeta ubicada en tu dispositivo y tener acceso rápido al contenido de la carpeta. Usa el elemento de menú «Conectar una carpeta» y elige una carpeta ubicada en tu dispositivo. Toca «Hecho» y la app creará un enlace a esa carpeta con acceso de lectura/escritura, lo que te permite gestionar archivos directamente desde esta app. Para desconectar una carpeta ubicada en tu dispositivo, toca el botón «Más Acciones» y elige «Desconectar».
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evertag Import Files From My Device" image="/docs/guide/evertag/img/open-files.webp" >}}
+  {{< ls-card title="" subtitle="Evertag Import Files From My Device" image="/docs/guide/evertag/img/open-files.webp" >}}
 {{< /cards >}}
 
 ## Importar Archivos en Tarjetas USB Flash Conectadas
@@ -86,7 +86,7 @@ Las instrucciones detalladas sobre cómo conectar una tarjeta USB flash a tu iPh
 El menú Más Acciones para la carpeta actualmente abierta se encuentra en la esquina superior derecha y proporciona acceso a varias acciones.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evertag Import Files From My Device" image="/docs/guide/evertag/img/downloads-current-folder-actions.webp" >}}
+  {{< ls-card title="" subtitle="Evertag Import Files From My Device" image="/docs/guide/evertag/img/downloads-current-folder-actions.webp" >}}
 {{< /cards >}}
 
 - **Seleccionar:** Cambia al modo de selección para archivos y carpetas.

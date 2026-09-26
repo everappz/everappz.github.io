@@ -16,7 +16,7 @@ readingTime: 3
 Evertag має інтуїтивно зрозумілий інтерфейс. Його відмінністю від багатьох популярних додатків є вбудований файловий менеджер, що надає користувачам можливість редагувати аудіофайли та безперешкодно передавати їх у хмарне сховище і назад.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evertag Screen" image="/docs/guide/evertag/img/tag-editor.webp" >}}
+  {{< ls-card title="" subtitle="Evertag Screen" image="/docs/guide/evertag/img/tag-editor.webp" >}}
 {{< /cards >}}
 
 ## Розділи
@@ -42,7 +42,7 @@ Evertag має інтуїтивно зрозумілий інтерфейс. Й�
 Практично кожен елемент вмісту на екрані має кнопку «Більше дій». Натисніть її, щоб отримати доступ до всіх доступних дій.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evertag More Actions" image="/docs/guide/evertag/img/downloads-file-actions.webp" >}}
+  {{< ls-card title="" subtitle="Evertag More Actions" image="/docs/guide/evertag/img/downloads-file-actions.webp" >}}
 {{< /cards >}}
 
 ## Верхня панель інструментів

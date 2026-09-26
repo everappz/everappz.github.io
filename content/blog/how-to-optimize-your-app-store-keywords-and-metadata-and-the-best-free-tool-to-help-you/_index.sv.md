@@ -14,7 +14,7 @@ authors:
     image: "/images/about/artem-meleshko-founder-everappz.webp"
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 ## Varför App Store-nyckelord avgör dina nedladdningssiffror
 
@@ -104,29 +104,29 @@ Prova nu — din nästa användare är en sökning bort.
 Verktyget är öppen källkod. Felrapporter, funktionsförslag och pull requests är välkomna.
 
 {{< cards cols="1" >}}
-  {{< card link="https://github.com/everappz/app-store-keyword-optimizer/tree/main" title="appkeywords.pro på GitHub" icon="github" tag= "open source" >}}
+  {{< ls-card link="https://github.com/everappz/app-store-keyword-optimizer/tree/main" title="appkeywords.pro på GitHub" icon="github" tag= "open source" >}}
 {{< /cards >}}
 
 ---
 
 ## Vanliga frågor
 
-{{% details title="Är AppKeywords.pro verkligen gratis?" closed="true" %}}
+{{% ls-details title="Är AppKeywords.pro verkligen gratis?" closed="true" %}}
 Ja. Det är ett helt öppen källkod, webbläsarbaserat verktyg utan registrering, inga annonser och ingen datainsamling. Din metadata lämnar aldrig din enhet.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Fungerar detta verktyg för flera App Store-lokaliseringar?" closed="true" %}}
+{{% ls-details title="Fungerar detta verktyg för flera App Store-lokaliseringar?" closed="true" %}}
 Ja. Du kan lägga till metadata för varje lokal oberoende, och exporten inkluderar alla språk i en enda JSON-fil kompatibel med Fastlane.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Ska jag upprepa mina titelnyckelord i nyckelordsfältet?" closed="true" %}}
+{{% ls-details title="Ska jag upprepa mina titelnyckelord i nyckelordsfältet?" closed="true" %}}
 Nej. Apple indexerar redan ord från din titel och undertext. Att upprepa dem i nyckelordsfältet slösar tecken.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Hur ofta bör jag uppdatera mina App Store-nyckelord?" closed="true" %}}
+{{% ls-details title="Hur ofta bör jag uppdatera mina App Store-nyckelord?" closed="true" %}}
 Granska och uppdatera dina nyckelord minst en gång per kvartal. Justera tidigare om du märker rankingfall eller säsongsförändringar i sökbeteende.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Kan jag använda detta verktyg med Fastlane?" closed="true" %}}
+{{% ls-details title="Kan jag använda detta verktyg med Fastlane?" closed="true" %}}
 Ja. GitHub-repot inkluderar shell-skript för att konvertera mellan Fastlanes metadatamappstruktur och JSON-formatet som används av AppKeywords.pro.
-{{% /details %}}
+{{% /ls-details %}}

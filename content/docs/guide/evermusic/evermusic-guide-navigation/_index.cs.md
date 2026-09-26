@@ -25,7 +25,7 @@ Funkce Evermusic je promyšleně rozdělena do dvou odlišných komponent: Hudeb
 Ať už používáte iPhone, iPad nebo kompaktní režim na Macu, všechny funkce aplikace jsou snadno dostupné přes lištu karet ve spodní části obrazovky. Pro uživatele iPadu a Macu lze stejné menu najít na levé straně obrazovky. Toto promyšlené uspořádání kategorizuje všechny funkce aplikace do snadno dostupných sekcí, čímž zajišťuje uživatelsky přívětivý a efektivní zážitek.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Levý postranní panel Evermusic na iPad a Mac" image="/docs/guide/evermusic/evermusic-guide-navigation/img/navigation-left-sidebar.webp" >}}
+  {{< ls-card title="" subtitle="Levý postranní panel Evermusic na iPad a Mac" image="/docs/guide/evermusic/evermusic-guide-navigation/img/navigation-left-sidebar.webp" >}}
 {{< /cards >}}
 
 **Připojení:** Na této obrazovce můžete bez námahy připojit cloudové úložné služby jako Google Drive, MEGA, OneDrive a Dropbox, stejně jako váš počítač a osobní NAS.
@@ -47,7 +47,7 @@ Sekce lokálních souborů je rozdělena do dvou kategorií: Soubory v této apl
 Aktivujte přehrávač na celou obrazovku klepnutím na ikonu mini přehrávače a použijte gesto přejetí dolů pro jeho skrytí. Na iPad a Mac se obrazovka mini přehrávače nachází v horní části obrazovky a lze ji skrýt při otevření přehrávače na celou obrazovku přes hlavní nabídku.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Lišta karet iPhone" image="/docs/guide/evermusic/evermusic-guide-navigation/img/navigation-bottom-tabbar.webp" >}}
+  {{< ls-card title="" subtitle="Lišta karet iPhone" image="/docs/guide/evermusic/evermusic-guide-navigation/img/navigation-bottom-tabbar.webp" >}}
 {{< /cards >}}
 
 ## Okno mini přehrávače (exkluzivně pro Mac)
@@ -55,7 +55,7 @@ Aktivujte přehrávač na celou obrazovku klepnutím na ikonu mini přehrávače
 Pro přístup k oknu mini přehrávače na Macu jednoduše přesuňte kurzor na pravý dolní okraj okna aplikace a změňte jeho velikost na nejmenší možnou. Poté klepněte na tlačítko sbalení (zobrazeno jako šipka dolů) pro aktivaci okna mini přehrávače. Chcete-li udržet okno mini přehrávače vždy nahoře nad ostatními okny, přejděte do horní nabídky Macu, vyberte "Okno" a zvolte "Zobrazit okno vždy nahoře". Tato funkce je užitečná pro poslech zvukových přednášek bez přerušení.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Okno mini přehrávače Mac" image="/docs/guide/evermusic/evermusic-guide-navigation/img/navigation-mac-exclusive-miniplayer.webp" >}}
+  {{< ls-card title="" subtitle="Okno mini přehrávače Mac" image="/docs/guide/evermusic/evermusic-guide-navigation/img/navigation-mac-exclusive-miniplayer.webp" >}}
 {{< /cards >}}
 
 ## Další akce
@@ -63,7 +63,7 @@ Pro přístup k oknu mini přehrávače na Macu jednoduše přesuňte kurzor na 
 Prakticky každá položka obsahu na obrazovce má tlačítko "Další akce". Klepnutím na něj získáte přístup ke všem dostupným akcím.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Kontextová nabídka Další akce" image="/docs/guide/evermusic/evermusic-guide-navigation/img/navigation-more-actions.webp" >}}
+  {{< ls-card title="" subtitle="Kontextová nabídka Další akce" image="/docs/guide/evermusic/evermusic-guide-navigation/img/navigation-more-actions.webp" >}}
 {{< /cards >}}
 
 ## Horní panel nástrojů
@@ -77,7 +77,7 @@ Tento panel nástrojů můžete snadno zobrazit nebo skrýt jednoduchým gestem 
 - **Zamíchat vše:** Přidejte všechny stopy z aktuální stránky do fronty přehrávače zvuku, přičemž je před přidáním zamíchejte pro příjemný zážitek z poslechu.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Horní panel nástrojů s Hledat, Přehrát vše a Zamíchat vše" image="/docs/guide/evermusic/evermusic-guide-navigation/img/navigation-top-toolbar.webp" >}}
+  {{< ls-card title="" subtitle="Horní panel nástrojů s Hledat, Přehrát vše a Zamíchat vše" image="/docs/guide/evermusic/evermusic-guide-navigation/img/navigation-top-toolbar.webp" >}}
 {{< /cards >}}
 
 ## Kontextová nabídka
@@ -91,7 +91,7 @@ Kontextová nabídka poskytuje rychlý přístup k dalším možnostem a akcím 
 **Kliknutí pravým tlačítkem:** Klikněte pravým tlačítkem na buňky, mini přehrávač nebo kompaktní přehrávač pro zobrazení kontextové nabídky.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Kontextová nabídka na macOS" image="/docs/guide/evermusic/evermusic-guide-navigation/img/navigation-context-menu-macos.webp" >}}
+  {{< ls-card title="" subtitle="Kontextová nabídka na macOS" image="/docs/guide/evermusic/evermusic-guide-navigation/img/navigation-context-menu-macos.webp" >}}
 {{< /cards >}}
 
 ## Přístupnost
@@ -125,7 +125,7 @@ Evermusic obsahuje čtyři widgety pro domovskou obrazovku / zamykací obrazovku
 Všechny čtyři widgety jsou k dispozici ve velikostech Malý, Střední a Velký, takže si můžete vybrat rozložení, které se hodí na vaši obrazovku.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Přidávání widgetů Evermusic" image="/docs/guide/evermusic/evermusic-guide-navigation/img/navigation-add-widgets.webp" >}}
+  {{< ls-card title="" subtitle="Přidávání widgetů Evermusic" image="/docs/guide/evermusic/evermusic-guide-navigation/img/navigation-add-widgets.webp" >}}
 {{< /cards >}}
 
 ### Přidání widgetu na iPhone (domovská obrazovka)
@@ -175,7 +175,7 @@ Widget CarPlay se aktualizuje živě při změně hudby a je přizpůsoben pro o
 Evermusic obsahuje plně vybavené rozhraní **Apple CarPlay** (pouze iOS) optimalizované pro displej auta. Jakmile je váš iPhone připojen ke kompatibilní hlavní jednotce CarPlay — přes USB nebo bezdrátově — Evermusic se zobrazí spolu s Apple Music a Spotify v mřížce aplikací CarPlay, připraven streamovat vaši cloudovou knihovnu na cestách.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evermusic na obrazovce CarPlay" image="/docs/guide/evermusic/evermusic-guide-navigation/img/navigation-carplay-menu.webp" >}}
+  {{< ls-card title="" subtitle="Evermusic na obrazovce CarPlay" image="/docs/guide/evermusic/evermusic-guide-navigation/img/navigation-carplay-menu.webp" >}}
 {{< /cards >}}
 
 ### Co získáte v CarPlay

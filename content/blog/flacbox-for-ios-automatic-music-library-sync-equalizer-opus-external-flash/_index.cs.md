@@ -12,7 +12,7 @@ authors:
     image: "/images/about/artem-meleshko-founder-everappz.webp"
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 **Flacbox 1.6** přináší hlavní nové funkce do přehrávače FLAC pro iPhone a iPad.
 
@@ -68,18 +68,18 @@ Máte zpětnou vazbu nebo požadavky na funkce? Ozvěte se -- Flacbox stavíme n
 
 ## Často kladené otázky
 
-{{% details title="Jaké audio formáty Flacbox podporuje?" closed="true" %}}
+{{% ls-details title="Jaké audio formáty Flacbox podporuje?" closed="true" %}}
 Flacbox podporuje FLAC, ALAC, MP3, AAC, OGG, OPUS, WAV, AIFF, DSD a další populární audio formáty. Všechny formáty fungují s vestavěným ekvalizérem.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Mohu přehrávat hudbu z SD karty na iPhone?" closed="true" %}}
+{{% ls-details title="Mohu přehrávat hudbu z SD karty na iPhone?" closed="true" %}}
 Ano. Připojte SD nebo microSD kartu pomocí Lightning to SD Card Camera Reader Adapteru. Flacbox detekuje kartu automaticky a umožní vám procházet a přehrávat soubory přímo z externího úložiště.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Synchronizuje Flacbox s cloudovým úložištěm automaticky?" closed="true" %}}
+{{% ls-details title="Synchronizuje Flacbox s cloudovým úložištěm automaticky?" closed="true" %}}
 Ano. Od verze 1.6 může Flacbox automaticky synchronizovat vaši hudební knihovnu z cloudových složek. Povolte automatickou synchronizaci v nastavení a vyberte složky, které chcete sledovat.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Je ekvalizér Flacboxu přizpůsobitelný?" closed="true" %}}
+{{% ls-details title="Je ekvalizér Flacboxu přizpůsobitelný?" closed="true" %}}
 Ano. 10pásmový ekvalizér vám umožňuje upravovat jednotlivé úrovně frekvencí mezi -12 dB a +12 dB. Můžete používat vestavěné předvolby nebo uložit vlastní nastavení.
-{{% /details %}}
+{{% /ls-details %}}

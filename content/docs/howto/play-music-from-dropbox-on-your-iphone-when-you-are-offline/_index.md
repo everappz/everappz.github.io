@@ -10,7 +10,7 @@ aliases:
   - /single-post/Play-music-from-Dropbox-on-your-iPhone-when-you-are-offline/
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **TL;DR:** Upload your music to Dropbox, install the free Evermusic app on your iPhone, connect your Dropbox account, and play or download your tracks for offline listening. Evermusic supports MP3, FLAC, WAV, AAC, and more. It includes a 10-band equalizer, playlists, and file management.
@@ -38,7 +38,7 @@ Evermusic is absolutely free and available for both iPhone and iPad, compatible 
 
 {{< cards cols="1">}}
 
-  {{< card title="Download Evermusic" subtitle="Offline music player and cloud drive streamer for iPhone and iPad." icon="download" link="https://itunes.apple.com/us/app/evermusic-offline-music/id885367198?mt=8" >}}
+  {{< ls-card title="Download Evermusic" subtitle="Offline music player and cloud drive streamer for iPhone and iPad." icon="download" link="https://itunes.apple.com/us/app/evermusic-offline-music/id885367198?mt=8" >}}
 
 {{< /cards >}}
 
@@ -70,26 +70,26 @@ Evermusic is also a full-featured file manager supporting basic operations: rena
 
 ## FAQ
 
-{{% details title="Can I play Dropbox music offline on my iPhone?" closed="true" %}}
+{{% ls-details title="Can I play Dropbox music offline on my iPhone?" closed="true" %}}
 Yes. Use Evermusic to connect your Dropbox, then download any track or playlist for offline listening. Downloaded files are stored on your device and play without an internet connection.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Is Evermusic free?" closed="true" %}}
+{{% ls-details title="Is Evermusic free?" closed="true" %}}
 Evermusic is free to download with core features including the equalizer, cloud streaming, and offline playback. The free version supports up to 3 cloud connections and 10 playlists. Upgrading to Premium removes all limits.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="What audio formats does Evermusic support from Dropbox?" closed="true" %}}
+{{% ls-details title="What audio formats does Evermusic support from Dropbox?" closed="true" %}}
 Evermusic plays MP3, FLAC, WAV, AAC, AIFF, OGG, WMA, and many other formats directly from Dropbox.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Can I connect multiple cloud services?" closed="true" %}}
+{{% ls-details title="Can I connect multiple cloud services?" closed="true" %}}
 Yes. Evermusic supports Dropbox, Google Drive, OneDrive, Box, WebDAV, SMB, MEGA, and more. You can connect unlimited accounts and browse them all in one library.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Does Evermusic sync playlists across devices?" closed="true" %}}
+{{% ls-details title="Does Evermusic sync playlists across devices?" closed="true" %}}
 Playlists created in Evermusic are stored locally on your device. Your Dropbox files remain synced across all devices through Dropbox itself.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="How do I free up iPhone storage with Dropbox music?" closed="true" %}}
+{{% ls-details title="How do I free up iPhone storage with Dropbox music?" closed="true" %}}
 Move your music files to Dropbox and stream them through Evermusic instead of storing them on your iPhone. Download only the tracks you need for offline listening.
-{{% /details %}}
+{{% /ls-details %}}

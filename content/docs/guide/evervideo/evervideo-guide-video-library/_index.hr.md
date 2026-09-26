@@ -21,7 +21,7 @@ readingTime: 8
 Imate dva načina dodavanja medija u biblioteku: **ručno dodavanje** (vi birate što se dodaje) ili **automatska sinkronizacija** (Evervideo skenira određene mape u oblaku i automatski dodaje nove datoteke kako se pojavljuju).
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evervideo Medijska biblioteka" image="/docs/guide/evervideo/img/evervideo-genres-in-media-library.webp" >}}
+  {{< ls-card title="" subtitle="Evervideo Medijska biblioteka" image="/docs/guide/evervideo/img/evervideo-genres-in-media-library.webp" >}}
 {{< /cards >}}
 
 ## Ručno dodavanje
@@ -92,7 +92,7 @@ Ako ne vidite sve naslove, osigurajte da je aplikacija skenirala svaku datoteku.
 Ovaj odjeljak prikazuje sva nedavno reproducirana videa s njihovom posljednjom pozicijom reprodukcije, tako da možete nastaviti s bilo kojim od njih jednim dodirom. Možete promijeniti koliko stavki lista čuva u Postavke → Medijska biblioteka → Nedavni → Promijeni veličinu liste, i izvesti listu u M3U / CSV / TXT za sigurnosno kopiranje povijesti gledanja.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evervideo Nedavni — Nedavno gledana videa" image="/docs/guide/evervideo/img/evervideo-recents.webp" >}}
+  {{< ls-card title="" subtitle="Evervideo Nedavni — Nedavno gledana videa" image="/docs/guide/evervideo/img/evervideo-recents.webp" >}}
 {{< /cards >}}
 
 ## Omiljeni
@@ -104,7 +104,7 @@ Označite videa kao omiljene na zaslonu playera ili putem izbornika opcija. Omil
 Evervideo prati poziciju reprodukcije svakog videa koje gledate. Svaki video na bilo kojem popisu — Nedavni, Omiljeni, album, žanr, popis pjesama, mapa — prikazuje mali indikator napretka kako biste mogli na prvi pogled vidjeti koliko ste već pogledali. To čini upravljanje dugim sezonama TV serija, tečajnim popisima i noćima gledanja jednim dahom bez napora.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evervideo Detalji žanra s napretkom gledanja po datoteci" image="/docs/guide/evervideo/img/evervideo-genre-detail-with-playback-progress-for-watched-files.webp" >}}
+  {{< ls-card title="" subtitle="Evervideo Detalji žanra s napretkom gledanja po datoteci" image="/docs/guide/evervideo/img/evervideo-genre-detail-with-playback-progress-for-watched-files.webp" >}}
 {{< /cards >}}
 
 ## Gornja alatna traka
@@ -116,7 +116,7 @@ Smještena tik ispod navigacijske trake, gornja alatna traka nudi nekoliko prakt
 Funkcija pretraživanja omogućuje vam lociranje određenog naslova, albuma, žanra ili popisa pjesama unutar medijske biblioteke. Na zaslonu za pretraživanje imate pristup akcijama Sortiraj, Filtriraj i pogled Rešetka / Lista. Pretraživanje se izvodi lokalno u bazi podataka medijske biblioteke, tako da radi u potpunosti offline i vraća rezultate dok tipkate.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evervideo Pretraživanje medijske biblioteke" image="/docs/guide/evervideo/img/evervideo-library-search.webp" >}}
+  {{< ls-card title="" subtitle="Evervideo Pretraživanje medijske biblioteke" image="/docs/guide/evervideo/img/evervideo-library-search.webp" >}}
 {{< /cards >}}
 
 ## Izbornik opcija

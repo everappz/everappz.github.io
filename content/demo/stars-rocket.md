@@ -10,15 +10,15 @@ sitemap:
   disable: true
 ---
 
-{{< stars-background >}}
+{{< ls-stars-background >}}
 
-{{< force-dark >}}
+{{< ls-force-dark >}}
 
-{{< rocket-animation >}}
+{{< ls-rocket-animation >}}
 
 <div class="rocket-anim hx:w-full">
 
-{{< hextra/hero-container 
+{{< ls-hero-container 
   lottie="/images/juicy-json/juicy-rocket.json" 
   lottieWidth="35%"
 >}}
@@ -34,9 +34,9 @@ sitemap:
 {{< /hextra/hero-badge >}}
 
 <div class="hx:mt-6 hx:mb-6">
-{{< hextra/hero-headline >}}
+{{< ls-hero-headline >}}
  Tap the Rocket
-{{< /hextra/hero-headline >}}
+{{< /ls-hero-headline >}}
 </div>
 
 <div>
@@ -47,6 +47,6 @@ sitemap:
 
 </div>
 
-{{< /hextra/hero-container >}}
+{{< /ls-hero-container >}}
 
 </div>

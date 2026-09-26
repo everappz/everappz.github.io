@@ -6,7 +6,7 @@ keywords: ["evermusic export", "flacbox export", "exportera till m3u", "exporter
 tags: ["evermusic", "senaste", "favoriter", "export", "m3u", "spellista", "csv", "txt", "album"]
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **Sammanfattning:** Evermusic och Flacbox låter dig exportera valfri spårsamling (senaste, favoriter, spellistor, album) till CSV-, TXT- eller M3U-filer. Använd dessa exporter för att scrobbla till Last.fm, säkerhetskopiera ditt bibliotek eller spela dina spellistor på andra enheter.
@@ -157,22 +157,22 @@ Att exportera dina spår från Evermusic och Flacbox ger dig fullständig kontro
 
 ## Vanliga frågor
 
-{{% details title="Vilket exportformat ska jag använda för Last.fm-scrobbling?" closed="true" %}}
+{{% ls-details title="Vilket exportformat ska jag använda för Last.fm-scrobbling?" closed="true" %}}
 Använd CSV. Det innehåller tidsstämplar och fullständig metadata som krävs av scrobblingsverktyg som Last.fm-Scrubbler-WPF.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Kan jag exportera vilken spårsamling som helst, inte bara spellistor?" closed="true" %}}
+{{% ls-details title="Kan jag exportera vilken spårsamling som helst, inte bara spellistor?" closed="true" %}}
 Ja. Du kan exportera senaste, favoriter, album, spellistor och alla andra spårsamlingar i appen med samma steg.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Kommer min M3U-spellista att fungera på andra enheter?" closed="true" %}}
+{{% ls-details title="Kommer min M3U-spellista att fungera på andra enheter?" closed="true" %}}
 Om du väljer alternativet Absolut URL under exporten kan M3U-filen spelas på vilken enhet som helst som stöder M3U-spellistor. Observera att vissa moln-URL:er kan upphöra att gälla med tiden.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Är exportfunktionen gratis?" closed="true" %}}
+{{% ls-details title="Är exportfunktionen gratis?" closed="true" %}}
 Ja. Export av spårsamlingar till M3U, CSV och TXT är tillgänglig i både gratis- och premiumversionerna av Evermusic och Flacbox.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Vilka molntjänster stöder export med absolut URL?" closed="true" %}}
+{{% ls-details title="Vilka molntjänster stöder export med absolut URL?" closed="true" %}}
 Export med absolut URL stöds för iCloud Drive, pCloud, PanBaidu, MyCloudHome, DLNA, MediaFire, OneDrive, Box, Dropbox, Google Drive och WebDAV (gästläge).
-{{% /details %}}
+{{% /ls-details %}}

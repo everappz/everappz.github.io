@@ -7,7 +7,7 @@ tags: ["Evermusic", "Ljudeffekter", "Guide", "Efterklang", "Delay", "Distorsion"
 readingTime: 8
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 **Sammanfattning:** Evermusic innehåller sex ljudeffekter i realtid — **volymnormalisering, kompressor, efterklang, crossfeed, delay och distorsion**. Öppna dem från spelarens **⋯ (Mer)-meny > Ljudeffekter**, eller från **Inställningar > Ljuduppspelare > Ljudeffekter**. Tryck på en effekt, slå på dess reglage till **PÅ** (uppe till höger), välj ett **förval** och öppna vid behov **Avancerat läge** för att finjustera reglagen. Varje effekt fungerar oberoende och tillämpas i realtid på allt du spelar — lokala filer, molnströmmar och internetradio — utan omkodning.
 
@@ -162,38 +162,38 @@ De fungerar också tillsammans med Evermusics **10-bands grafiska equalizer** oc
 
 ## Vanliga frågor
 
-{{% details title="Hur lägger jag till efterklang, delay eller andra effekter på min musik i Evermusic?" closed="true" %}}
+{{% ls-details title="Hur lägger jag till efterklang, delay eller andra effekter på min musik i Evermusic?" closed="true" %}}
 Öppna spelaren, tryck på ⋯ (Mer)-knappen och välj Ljudeffekter (eller gå till Inställningar > Ljuduppspelare > Ljudeffekter). Tryck på den effekt du vill ha, slå på dess reglage till PÅ uppe till höger och välj ett förval. Öppna Avancerat läge för att finjustera reglagen. Effekten tillämpas omedelbart på det som spelas.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Vilka ljudeffekter har Evermusic?" closed="true" %}}
+{{% ls-details title="Vilka ljudeffekter har Evermusic?" closed="true" %}}
 Sex effekter i realtid: volymnormalisering (EBU R128-ljudstyrkenivellering), kompressor (dynamik), efterklang (rum och ekosvans), crossfeed (naturlig hörlursbild), delay (eko) och distorsion (lo-fi-grus). Var och en är oberoende och kan användas ensam eller kombinerad.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Ändrar eller skadar effekterna mina ljudfiler?" closed="true" %}}
+{{% ls-details title="Ändrar eller skadar effekterna mina ljudfiler?" closed="true" %}}
 Nej. Alla effekter tillämpas i realtid endast under uppspelning. De ändrar eller kodar aldrig om dina filer. Stäng av en effekt så återkommer ditt ursprungliga ljud direkt.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Kan jag använda mer än en effekt samtidigt?" closed="true" %}}
+{{% ls-details title="Kan jag använda mer än en effekt samtidigt?" closed="true" %}}
 Ja. Varje effekt är oberoende — det finns ingen huvudströmbrytare — så du kan aktivera vilken kombination som helst. Till exempel volymnormalisering plus kompressor för jämn, bekväm lyssning, eller efterklang plus crossfeed i hörlurar.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Vad är crossfeed och bör jag använda det?" closed="true" %}}
+{{% ls-details title="Vad är crossfeed och bör jag använda det?" closed="true" %}}
 Crossfeed blandar in en liten, filtrerad mängd av varje stereokanal i den andra så att hörlurar låter mer som riktiga högtalare, vilket minskar "inuti-huvudet"-känslan hos hårt panorerade mixar. Det är en hörlurseffekt (lämna den avstängd för högtalare). Den är byggd på algoritmen Bauer stereophonic-to-binaural (bs2b) och innehåller förval som Chu Moy och Jan Meier.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Vad är volymnormalisering och hur skiljer det sig från ReplayGain?" closed="true" %}}
+{{% ls-details title="Vad är volymnormalisering och hur skiljer det sig från ReplayGain?" closed="true" %}}
 Volymnormalisering håller varje spår på en jämn ljudstyrka genom att mäta upplevd ljudstyrka med EBU R128-standarden och nivellera mot ett mål. Till skillnad från ReplayGain behöver det inga ljudstyrketaggar i dina filer och ändrar inte ljudet — det fungerar live på vilken källa som helst, inklusive molnströmmar och internetradio. Förval: Light, Standard, Strong och Night.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Vad är skillnaden mellan Enkelt och Avancerat läge?" closed="true" %}}
+{{% ls-details title="Vad är skillnaden mellan Enkelt och Avancerat läge?" closed="true" %}}
 Enkelt läge visar en lista med förval med enkla beskrivningar, så att du kan få ett bra ljud med ett tryck. Avancerat läge lägger till parameterreglagen (till exempel Mix för efterklang, eller de sju kompressorkontrollerna) för exakt finjustering. Växla mellan dem med lägesknappen uppe till höger i varje effekteditor.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Varför är effektkontrollerna gråtonade?" closed="true" %}}
+{{% ls-details title="Varför är effektkontrollerna gråtonade?" closed="true" %}}
 Effekten är avstängd. Slå på effektens reglage uppe till höger i dess editor för att aktivera kontrollerna. Varje effekt är avstängd som standard.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Fungerar effekterna med strömning och CarPlay?" closed="true" %}}
+{{% ls-details title="Fungerar effekterna med strömning och CarPlay?" closed="true" %}}
 Ja. Effekterna körs inuti uppspelningsmotorn, så de tillämpas på lokala filer, molnenheter, mediaservrar och internetradio, och de fortsätter att fungera under CarPlay-uppspelning.
-{{% /details %}}
+{{% /ls-details %}}

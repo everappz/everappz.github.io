@@ -7,7 +7,7 @@ tags: ["evermusic", "เพลง", "คลาวด์", "iphone", "พื้�
 readingTime: 2
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **สรุป:** Windows 10 มีเซิร์ฟเวอร์ DLNA ในตัว เปิดใช้งานในการตั้งค่าเครือข่ายและการแชร์ จากนั้นใช้แอป **Evermusic** ฟรีบน iPhone เพื่อสตรีมคลังเพลงทั้งหมดผ่าน Wi-Fi ไม่ต้องใช้ซอฟต์แวร์เซิร์ฟเวอร์จากบุคคลที่สาม
@@ -96,22 +96,22 @@ DLNA (Digital Living Network Alliance) เป็นเครื่องมื�
 
 ## คำถามที่พบบ่อย
 
-{{% details title="ฉันต้องติดตั้งซอฟต์แวร์เซิร์ฟเวอร์บน Windows 10 หรือไม่?" closed="true" %}}
+{{% ls-details title="ฉันต้องติดตั้งซอฟต์แวร์เซิร์ฟเวอร์บน Windows 10 หรือไม่?" closed="true" %}}
 ไม่ Windows 10 มีเซิร์ฟเวอร์มีเดีย DLNA ในตัว คุณเพียงแค่ต้องเปิดใช้งานการสตรีมมีเดียในการตั้งค่า Network and Sharing Center ไม่ต้องใช้ซอฟต์แวร์จากบุคคลที่สาม
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="iPhone ต้องอยู่ในเครือข่าย Wi-Fi เดียวกันหรือไม่?" closed="true" %}}
+{{% ls-details title="iPhone ต้องอยู่ในเครือข่าย Wi-Fi เดียวกันหรือไม่?" closed="true" %}}
 ใช่ การสตรีม DLNA ทำงานผ่านเครือข่ายท้องถิ่นของคุณ ทั้ง PC Windows 10 และ iPhone ต้องเชื่อมต่อกับเครือข่าย Wi-Fi เดียวกันเพื่อให้ Evermusic ค้นพบเซิร์ฟเวอร์ DLNA
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="ฉันสามารถสตรีมรูปแบบเสียงอะไรได้บ้างผ่าน DLNA?" closed="true" %}}
+{{% ls-details title="ฉันสามารถสตรีมรูปแบบเสียงอะไรได้บ้างผ่าน DLNA?" closed="true" %}}
 เซิร์ฟเวอร์ Windows DLNA แชร์ไฟล์จากโฟลเดอร์เพลงโดยไม่คำนึงถึงรูปแบบ Evermusic รองรับ MP3, FLAC, AAC, WAV, OGG, AIFF และรูปแบบอื่นๆ อีกมากมาย ดังนั้นคุณสามารถเล่นไฟล์เสียงเกือบทุกชนิดจากเซิร์ฟเวอร์ได้
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="ฉันสามารถใช้ Flacbox แทน Evermusic ได้หรือไม่?" closed="true" %}}
+{{% ls-details title="ฉันสามารถใช้ Flacbox แทน Evermusic ได้หรือไม่?" closed="true" %}}
 ได้ Flacbox ยังรองรับการเรียกดูและเล่น DLNA/UPnP คุณสามารถใช้แอปใดแอปหนึ่งเพื่อค้นหาและเล่นเพลงจากเซิร์ฟเวอร์ Windows DLNA ของคุณ
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="การสตรีม DLNA ใช้ข้อมูลมือถือหรือไม่?" closed="true" %}}
+{{% ls-details title="การสตรีม DLNA ใช้ข้อมูลมือถือหรือไม่?" closed="true" %}}
 ไม่ DLNA ทำงานบนเครือข่าย Wi-Fi ท้องถิ่นเท่านั้น ไม่ใช้ข้อมูลมือถือ อย่างไรก็ตาม อุปกรณ์ทั้งสองต้องเชื่อมต่อกับเครือข่ายเดียวกันระหว่างการเล่น
-{{% /details %}}
+{{% /ls-details %}}

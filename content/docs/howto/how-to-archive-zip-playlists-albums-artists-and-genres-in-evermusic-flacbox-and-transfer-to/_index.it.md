@@ -7,7 +7,7 @@ tags: ["evermusic", "flacbox", "archivio", "backup", "esportare", "playlist", "m
 readingTime: 2
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **Riepilogo:** Evermusic e Flacbox possono archiviare qualsiasi playlist, album, artista o genere in un file ZIP con una playlist M3U, la copertina dell'album e tutti i file audio. Trasferisci lo ZIP su un altro dispositivo, estrailo e importa l'M3U per ricostruire la playlist istantaneamente.
@@ -104,22 +104,22 @@ Seguendo questa guida, puoi archiviare e trasferire in modo efficiente le tue pl
 
 ## Domande frequenti
 
-{{% details title="Cosa è incluso nell'archivio ZIP?" closed="true" %}}
+{{% ls-details title="Cosa è incluso nell'archivio ZIP?" closed="true" %}}
 L'archivio contiene tutti i file audio, un file playlist M3U che preserva l'ordine dei brani e la copertina dell'album della playlist salvata come file immagine separato.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="L'archiviazione funziona con i file cloud?" closed="true" %}}
+{{% ls-details title="L'archiviazione funziona con i file cloud?" closed="true" %}}
 Sì. L'app scarica automaticamente tutti i file archiviati nel cloud prima di aggiungerli all'archivio. Puoi monitorare l'avanzamento del download nella sezione trasferimenti file.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Posso archiviare anche album, artisti e generi?" closed="true" %}}
+{{% ls-details title="Posso archiviare anche album, artisti e generi?" closed="true" %}}
 Sì. L'opzione «Aggiungi all'archivio» è disponibile per playlist, album, artisti e generi. Il processo è identico per tutti.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Come trasferisco l'archivio su un altro dispositivo?" closed="true" %}}
+{{% ls-details title="Come trasferisco l'archivio su un altro dispositivo?" closed="true" %}}
 Puoi caricare lo ZIP su un servizio di archiviazione cloud (Google Drive, Dropbox, ecc.), utilizzare AirDrop o trasferire in modalità wireless tramite la funzione integrata Wi-Fi Drive in Evermusic e Flacbox.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="La struttura della playlist verrà preservata dopo il trasferimento?" closed="true" %}}
+{{% ls-details title="La struttura della playlist verrà preservata dopo il trasferimento?" closed="true" %}}
 Sì. Il file M3U memorizza la struttura della playlist con percorsi relativi. Dopo l'estrazione sul nuovo dispositivo, importa il file M3U per ricostruire la playlist con tutti i brani nell'ordine originale.
-{{% /details %}}
+{{% /ls-details %}}

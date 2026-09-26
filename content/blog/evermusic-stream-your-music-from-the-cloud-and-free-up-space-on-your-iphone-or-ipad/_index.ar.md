@@ -12,7 +12,7 @@ authors:
     image: "/images/about/artem-meleshko-founder-everappz.webp"
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 ![](/blog/evermusic-stream-your-music-from-the-cloud-and-free-up-space-on-your-iphone-or-ipad/21260c_00c5356db3a24db6a6a37e353b774d56~mv2.jpg)
 
@@ -82,22 +82,22 @@ authors:
 
 ## الأسئلة الشائعة
 
-{{% details title="هل Evermusic مجاني؟" closed="true" %}}
+{{% ls-details title="هل Evermusic مجاني؟" closed="true" %}}
 Evermusic مجاني للتنزيل مع ميزات مميزة اختيارية. البث السحابي الأساسي والتشغيل بدون اتصال متاحان في النسخة المجانية.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="ما الخدمات السحابية التي يدعمها Evermusic؟" closed="true" %}}
+{{% ls-details title="ما الخدمات السحابية التي يدعمها Evermusic؟" closed="true" %}}
 Google Drive وDropbox وBox وOneDrive وMediaFire وMEGA وYandex.Disk وpCloud وHiDrive وMyDrive ومشاركات ملفات SMB وخوادم WebDAV.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="هل يمكنني الاستماع للموسيقى بدون اتصال مع Evermusic؟" closed="true" %}}
+{{% ls-details title="هل يمكنني الاستماع للموسيقى بدون اتصال مع Evermusic؟" closed="true" %}}
 نعم. حمّل أي ألبوم أو فنان أو قائمة تشغيل أو مقطع فردي للتشغيل بدون اتصال مباشرة من داخل التطبيق.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="ما صيغ الصوت التي يشغلها Evermusic؟" closed="true" %}}
+{{% ls-details title="ما صيغ الصوت التي يشغلها Evermusic؟" closed="true" %}}
 يدعم Evermusic صيغ MP3 وFLAC وAAC وWAV وALAC وAIFF وOPUS وOGG والعديد من الصيغ الأخرى.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="هل ما زلت بحاجة إلى iTunes لنقل الموسيقى؟" closed="true" %}}
+{{% ls-details title="هل ما زلت بحاجة إلى iTunes لنقل الموسيقى؟" closed="true" %}}
 لا. ارفع موسيقاك إلى أي خدمة سحابية مدعومة من حاسوبك، ثم ابثها أو حمّلها عبر Evermusic على iPhone أو iPad.
-{{% /details %}}
+{{% /ls-details %}}

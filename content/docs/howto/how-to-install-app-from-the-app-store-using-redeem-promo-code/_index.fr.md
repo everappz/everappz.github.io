@@ -7,7 +7,7 @@ tags: ["promo", "appstore", "installer", "utiliser", "code", "gratuit"]
 readingTime: 2
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **En bref :** Un code promotionnel vous permet de télécharger une application payante gratuitement ou de débloquer des achats intégrés. Sur iOS : App Store > Icône du compte > Utiliser une carte cadeau ou un code > saisir le code. Sur Mac : App Store > Compte > Utiliser une carte cadeau > saisir le code. Ensuite, ouvrez l'application et restaurez les achats si nécessaire.
@@ -94,22 +94,22 @@ Profitez de votre application gratuite ou de votre mise à niveau intégrée !
 
 ## Questions fréquemment posées
 
-{{% details title="Où puis-je obtenir un code promotionnel ?" closed="true" %}}
+{{% ls-details title="Où puis-je obtenir un code promotionnel ?" closed="true" %}}
 Les codes promotionnels sont fournis par les développeurs d'applications pour des évaluations, des concours ou des promotions. Contactez directement le développeur pour en demander un.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Les codes promotionnels expirent-ils ?" closed="true" %}}
+{{% ls-details title="Les codes promotionnels expirent-ils ?" closed="true" %}}
 Oui. Les codes promotionnels de l'App Store expirent 28 jours après leur génération et ne peuvent être utilisés qu'une seule fois.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Puis-je utiliser un code promotionnel dans n'importe quel pays ?" closed="true" %}}
+{{% ls-details title="Puis-je utiliser un code promotionnel dans n'importe quel pays ?" closed="true" %}}
 Les codes promotionnels sont spécifiques à une région. Le code doit correspondre au pays de l'App Store de votre Apple ID.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Comment activer les achats intégrés avec un code promotionnel ?" closed="true" %}}
+{{% ls-details title="Comment activer les achats intégrés avec un code promotionnel ?" closed="true" %}}
 Après avoir utilisé le code dans l'App Store, ouvrez l'application et accédez à Paramètres > Restaurer les achats. Le contenu premium sera débloqué automatiquement.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Le code promotionnel indique qu'il a déjà été utilisé. Que dois-je faire ?" closed="true" %}}
+{{% ls-details title="Le code promotionnel indique qu'il a déjà été utilisé. Que dois-je faire ?" closed="true" %}}
 Chaque code promotionnel ne peut être utilisé qu'une seule fois. Contactez le développeur pour demander un nouveau code.
-{{% /details %}}
+{{% /ls-details %}}

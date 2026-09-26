@@ -20,7 +20,7 @@ Trong phần Danh sách phát, bạn sẽ tìm thấy các công cụ hữu ích
 Danh sách phát trong Flacbox có thể chứa hỗn hợp bản nhạc trực tuyến từ đám mây, file đã tải xuống ngoại tuyến và file cục bộ từ thiết bị của bạn — tất cả trong một danh sách phát — và phát liền mạch với nhau.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Màn hình chính Danh sách phát Flacbox" image="/docs/guide/flacbox/img/playlists-main.webp" >}}
+  {{< ls-card title="" subtitle="Màn hình chính Danh sách phát Flacbox" image="/docs/guide/flacbox/img/playlists-main.webp" >}}
 {{< /cards >}}
 
 ## Tạo Danh sách phát
@@ -63,7 +63,7 @@ Khi bạn mở danh sách phát, màn hình Chi tiết Danh sách phát xuất h
 - **Chế độ Ngoại tuyến** — tải xuống tất cả bản nhạc từ danh sách phát này vào file cục bộ. Mọi mục mới được thêm vào danh sách phát cũng được tải xuống tự động.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Màn hình Chi tiết Danh sách phát Flacbox" image="/docs/guide/flacbox/img/playlist-details-screen.webp" >}}
+  {{< ls-card title="" subtitle="Màn hình Chi tiết Danh sách phát Flacbox" image="/docs/guide/flacbox/img/playlist-details-screen.webp" >}}
 {{< /cards >}}
 
 ## Thêm Hành động cho Danh sách phát trên Màn hình Danh sách phát
@@ -82,7 +82,7 @@ Bạn có thể truy cập các hành động cho danh sách phát bằng cách 
 - **Xóa Danh sách phát** — xóa danh sách phát khỏi thư viện nhạc. **Hành động này không thể hoàn tác.**
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Thêm Hành động cho Danh sách phát trên Màn hình chính Danh sách phát Flacbox" image="/docs/guide/flacbox/img/more-actions-for-playlist-in-playlists-main-screen.webp" >}}
+  {{< ls-card title="" subtitle="Thêm Hành động cho Danh sách phát trên Màn hình chính Danh sách phát Flacbox" image="/docs/guide/flacbox/img/more-actions-for-playlist-in-playlists-main-screen.webp" >}}
 {{< /cards >}}
 
 ## Thêm Hành động cho Danh sách phát trên Màn hình Chi tiết Danh sách phát
@@ -110,7 +110,7 @@ Bạn có thể truy cập các hành động cho danh sách phát bằng cách 
 Để làm việc đơn giản hơn trên các danh sách phát dài, chọn Thêm Hành động → Sắp xếp lại Bài hát để vào chế độ sắp xếp lại kéo và thả chuyên dụng.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Sắp xếp lại Bài hát trong Danh sách phát Flacbox" image="/docs/guide/flacbox/img/playlist-details-rearange-songs.webp" >}}
+  {{< ls-card title="" subtitle="Sắp xếp lại Bài hát trong Danh sách phát Flacbox" image="/docs/guide/flacbox/img/playlist-details-rearange-songs.webp" >}}
 {{< /cards >}}
 
 ## Thay đổi Ảnh bìa Danh sách phát
@@ -126,7 +126,7 @@ Mở danh sách phát và nhấn nút **«...»** ở góc trên bên phải, sa
 Mở danh sách phát, nhấn nút **«...»** ở góc trên bên phải và chọn **Chọn** để vào chế độ chọn. Chọn các bản nhạc bạn muốn xóa và nhấn **Xóa khỏi Danh sách phát** ở cuối màn hình. Xác nhận bằng cách nhấn **Xong**.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Chế độ Chọn trong Màn hình Chi tiết Danh sách phát Flacbox" image="/docs/guide/flacbox/img/selection-mode-playlist-details-screen.webp" >}}
+  {{< ls-card title="" subtitle="Chế độ Chọn trong Màn hình Chi tiết Danh sách phát Flacbox" image="/docs/guide/flacbox/img/selection-mode-playlist-details-screen.webp" >}}
 {{< /cards >}}
 
 ## Tùy chọn Bản nhạc

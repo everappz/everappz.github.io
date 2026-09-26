@@ -21,7 +21,7 @@ readingTime: 14
 - **Правові аспекти та конфіденційність** — Умови, Політика конфіденційності, Правові повідомлення, Аналітика та збір даних
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evertag Settings Screen" image="/docs/guide/evertag/img/settings.webp" >}}
+  {{< ls-card title="" subtitle="Evertag Settings Screen" image="/docs/guide/evertag/img/settings.webp" >}}
 {{< /cards >}}
 
 ## Оновлення до Преміум
@@ -63,7 +63,7 @@ readingTime: 14
 Файловий менеджер підтримує доступ до підключених хмарних сховищ і пропонує пакетні операції для швидкого керування кількома файлами.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evertag Settings File Manager Screen" image="/docs/guide/evertag/img/settings-file-manager.webp" >}}
+  {{< ls-card title="" subtitle="Evertag Settings File Manager Screen" image="/docs/guide/evertag/img/settings-file-manager.webp" >}}
 {{< /cards >}}
 
 ### Передача файлів
@@ -103,7 +103,7 @@ readingTime: 14
 У цьому розділі можна налаштувати вбудований редактор аудіотегів.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evertag Settings Tag Editor Screen" image="/docs/guide/evertag/img/settings-tag-editor.webp" >}}
+  {{< ls-card title="" subtitle="Evertag Settings Tag Editor Screen" image="/docs/guide/evertag/img/settings-tag-editor.webp" >}}
 {{< /cards >}}
 
 ### Масштабування обкладинки альбому
@@ -136,7 +136,7 @@ readingTime: 14
 У цьому розділі можна налаштувати параметри інтерфейсу відповідно до своїх уподобань.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evertag Settings Personalization Screen" image="/docs/guide/evertag/img/settings-personalization.webp" >}}
+  {{< ls-card title="" subtitle="Evertag Settings Personalization Screen" image="/docs/guide/evertag/img/settings-personalization.webp" >}}
 {{< /cards >}}
 
 ### Іконка додатка

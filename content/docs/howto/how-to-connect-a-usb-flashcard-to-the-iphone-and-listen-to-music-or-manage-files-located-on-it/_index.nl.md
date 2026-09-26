@@ -7,7 +7,7 @@ tags: ["muziek", "bestanden", "usb", "flash", "extern", "ixpand", "afspelen", "k
 readingTime: 2
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **Samenvatting:** Sluit een USB-stick of SD-kaart aan op je iPhone met een Apple-adapter of SanDisk iXpand-drive en gebruik vervolgens Evermusic, Flacbox of Evertag om je audiobestanden rechtstreeks vanaf de externe opslag te bladeren, af te spelen en te beheren.
@@ -72,18 +72,18 @@ Geniet van de vrijheid om je muziek moeiteloos te openen en te beheren met deze 
 
 ## Veelgestelde vragen
 
-{{% details title="Welke USB-adapters werken met iPhone voor het afspelen van muziek?" closed="true" %}}
+{{% ls-details title="Welke USB-adapters werken met iPhone voor het afspelen van muziek?" closed="true" %}}
 Zowel de Lightning to SD Card Camera Reader als de Lightning to USB 3 Camera Adapter van Apple werken. USB-C-adapters werken op nieuwere iPhones met USB-C-poorten. SanDisk iXpand Flash-drives (V1-V7) worden ook native ondersteund door Evermusic, Flacbox en Evertag.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Kan ik muziek rechtstreeks vanaf de USB-drive afspelen zonder bestanden te kopiëren?" closed="true" %}}
+{{% ls-details title="Kan ik muziek rechtstreeks vanaf de USB-drive afspelen zonder bestanden te kopiëren?" closed="true" %}}
 Ja. Met SanDisk iXpand-drives kun je muziek rechtstreeks vanaf de drive afspelen zonder bestanden naar je iPhone te kopiëren. Bij gebruik van Apple-adapters worden bestanden geïmporteerd, maar je kunt kiezen of je ze naar lokale opslag wilt kopiëren.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Welke audioformaten worden ondersteund vanaf USB-drives?" closed="true" %}}
+{{% ls-details title="Welke audioformaten worden ondersteund vanaf USB-drives?" closed="true" %}}
 Evermusic en Flacbox ondersteunen een breed scala aan formaten, waaronder FLAC, MP3, AAC, WAV, ALAC, OGG, WMA en meer. Alle ondersteunde formaten werken bij het afspelen vanaf USB-opslag.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Mijn SanDisk iXpand toont een 'bezet'-fout. Wat moet ik doen?" closed="true" %}}
+{{% ls-details title="Mijn SanDisk iXpand toont een 'bezet'-fout. Wat moet ik doen?" closed="true" %}}
 Een andere app heeft mogelijk toegang tot de drive. Sluit alle andere apps die de USB-stick mogelijk gebruiken, of koppel deze los en sluit opnieuw aan. Open vervolgens Evermusic, Flacbox of Evertag opnieuw.
-{{% /details %}}
+{{% /ls-details %}}

@@ -19,7 +19,7 @@ readingTime: 11
 Det er nemt at administrere dit musikbibliotek med Flacbox, hvor du ubesværet kan organisere alle dine numre — lokale FLAC, ALAC, DSD, MP3, M4A, OGG, WMA, APE og snesevis af andre formater — i én søgbar samling. Du har to muligheder for at bygge dit musikbibliotek: manuel tilføjelse (du vælger præcis, hvad der tilføjes) eller automatisk synkronisering (Flacbox scanner udpegede cloud-mapper og tilføjer nye filer automatisk, efterhånden som de vises).
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox Musikbibliotek Album-visning" image="/docs/guide/flacbox/img/media-library-albums.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox Musikbibliotek Album-visning" image="/docs/guide/flacbox/img/media-library-albums.webp" >}}
 {{< /cards >}}
 
 ## Manuel Tilføjelse
@@ -27,7 +27,7 @@ Det er nemt at administrere dit musikbibliotek med Flacbox, hvor du ubesværet k
 For manuelt at tilføje numre skal du trykke på ikonet **Tilføj musik** i øverste venstre hjørne og vælge mapper eller filer fra en tilsluttet cloud-lagringstjeneste eller filer på din enhed. Når du tilføjer numre til biblioteket, oprettes der kun links til disse numre — de faktiske filer forbliver på deres originale placeringer for at spare værdifuld diskplads. Hvis du ønsker at gøre numre tilgængelige offline, kan du bruge handlingen Download fra indstillingsmenuen eller aktivere Offline-tilstand for afspilningslister og nummers samlinger.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox Tilføj sange til musikbiblioteket" image="/docs/guide/flacbox/img/library-add-songs.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox Tilføj sange til musikbiblioteket" image="/docs/guide/flacbox/img/library-add-songs.webp" >}}
 {{< /cards >}}
 
 Du kan også trække og slippe filer til biblioteket på Mac-versionen eller bruge **Åbn filer…** / **Åbn mappe…** fra systemfilvælgeren på iPhone og iPad.
@@ -89,7 +89,7 @@ Den øverste værktøjslinje, der er placeret lige under navigationslinjen, tilb
 Søgefunktionen giver dig mulighed for at finde et bestemt nummer, kunstner, album eller genre i dit musikbibliotek. På søgeskærmen har du adgang til handlingerne Sortér, Filtrer og Gitter / Listevisning. Søgningen kører lokalt mod musikbibliotekets database, så den fungerer fuldt offline og returnerer resultater, efterhånden som du skriver.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox Musikbibliotek-søgning" image="/docs/guide/flacbox/img/media-library-search.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox Musikbibliotek-søgning" image="/docs/guide/flacbox/img/media-library-search.webp" >}}
 {{< /cards >}}
 
 ## Indstillingsmenu
@@ -140,7 +140,7 @@ Når du åbner sektionerne Kunstner, Albumkunstner eller Komponist, kan du se en
 Dette er særligt nyttigt til at rydde op i rodede 'Diverse artister'-kompilationer i store biblioteker.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox Albumdetalje-skærm" image="/docs/guide/flacbox/img/media-library-album-details-screen.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox Albumdetalje-skærm" image="/docs/guide/flacbox/img/media-library-album-details-screen.webp" >}}
 {{< /cards >}}
 
 ## Indstillinger

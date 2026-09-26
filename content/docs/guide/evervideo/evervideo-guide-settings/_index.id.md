@@ -23,7 +23,7 @@ readingTime: 16
 Layar Pengaturan adalah pusat kendali Evervideo. Dari sini Anda dapat meningkatkan ke Premium, mengonfigurasi mesin video dan audio (codec sistem atau FFmpeg), mengelola Gambar dalam Gambar, menyiapkan subtitle (primer, sekunder, libass, file eksternal, font), mengatur perpustakaan media, menyiapkan pengelola file, mengaktifkan widget Layar Utama, mencadangkan data Anda, dan mengakses bantuan serta informasi hukum. Bagian dikelompokkan di bawah header: Pembelian & Pembaruan, Preferensi aplikasi, Bantuan, Hukum & Privasi.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Layar Utama Pengaturan Evervideo" image="/docs/guide/evervideo/img/evervideo-settings.webp" >}}
+  {{< ls-card title="" subtitle="Layar Utama Pengaturan Evervideo" image="/docs/guide/evervideo/img/evervideo-settings.webp" >}}
 {{< /cards >}}
 
 ## Tingkatkan ke Premium
@@ -31,13 +31,13 @@ Layar Pengaturan adalah pusat kendali Evervideo. Dari sini Anda dapat meningkatk
 Tingkatkan aplikasi ke versi Premium untuk menghapus semua batasan. Versi gratis aplikasi menawarkan pembelian dalam aplikasi seumur hidup satu kali dan dua opsi langganan (1 bulan dan 1 tahun) untuk menghapus semua pembatasan dan meningkatkan ke Premium.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evervideo Tingkatkan ke Premium" image="/docs/guide/evervideo/img/evervideo-upgrade-to-premium.webp" >}}
+  {{< ls-card title="" subtitle="Evervideo Tingkatkan ke Premium" image="/docs/guide/evervideo/img/evervideo-upgrade-to-premium.webp" >}}
 {{< /cards >}}
 
 **Berbagi Keluarga** diaktifkan untuk semua pembelian dan paket, sehingga Anda dapat berbagi versi Premium dengan hingga lima anggota keluarga Anda tanpa biaya tambahan.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evervideo Pilih Paket Premium" image="/docs/guide/evervideo/img/evervideo-select-premium-plan.webp" >}}
+  {{< ls-card title="" subtitle="Evervideo Pilih Paket Premium" image="/docs/guide/evervideo/img/evervideo-select-premium-plan.webp" >}}
 {{< /cards >}}
 
 ## Berbagi Pembelian Antara iOS dan Mac
@@ -51,7 +51,7 @@ Anda juga dapat mengetuk tombol **Pulihkan Pembelian** di pengaturan aplikasi. P
 Untuk memulihkan pembelian Anda di perangkat baru, gunakan menu **Pembelian → Pulihkan Pembelian**. Anda akan melihat daftar pembelian Anda. Jika Anda tidak melihat semuanya, konfirmasikan bahwa perangkat terhubung ke Apple ID yang sama yang digunakan untuk melakukan pembelian, dan pastikan iCloud diaktifkan.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Menu Pembelian Evervideo di Pengaturan" image="/docs/guide/evervideo/img/evervideo-purhases-menu-in-settings.webp" >}}
+  {{< ls-card title="" subtitle="Menu Pembelian Evervideo di Pengaturan" image="/docs/guide/evervideo/img/evervideo-purhases-menu-in-settings.webp" >}}
 {{< /cards >}}
 
 ## Coba Premium Gratis

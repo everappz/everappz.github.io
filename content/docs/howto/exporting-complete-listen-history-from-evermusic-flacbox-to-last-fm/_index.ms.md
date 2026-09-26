@@ -7,7 +7,7 @@ tags: ["evermusic", "flacbox", "terkini", "lastfm", "eksport", "scrobbler"]
 readingTime: 5
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **Ringkasan:** Eksport sejarah pendengaran anda dari Evermusic atau Flacbox sebagai fail CSV, kemudian muat naik ke Last.fm menggunakan alat percuma Last.fm-Scrubbler-WPF pada Windows. Scrobbling automatik juga tersedia secara asli dalam kedua-dua aplikasi.
@@ -134,22 +134,22 @@ Kini anda boleh membuka profil anda di halaman [Last.fm](http://Last.fm) dan men
 
 ## Soalan Lazim
 
-{{% details title="Bolehkah saya scrobble secara automatik tanpa mengeksport fail CSV?" closed="true" %}}
+{{% ls-details title="Bolehkah saya scrobble secara automatik tanpa mengeksport fail CSV?" closed="true" %}}
 Ya. Kedua-dua Evermusic dan Flacbox kini menyokong scrobbling automatik ke Last.fm. Lihat panduan: [Cara Scrobble ke Last.fm](/docs/howto/how-to-scrobble-your-music-history-from-evermusic-or-flacbox-to-last-fm).
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Bagaimana jika CSV saya mempunyai trek yang lebih lama daripada 14 hari?" closed="true" %}}
+{{% ls-details title="Bagaimana jika CSV saya mempunyai trek yang lebih lama daripada 14 hari?" closed="true" %}}
 Gunakan Mod Import dalam Last.fm-Scrubbler-WPF. Ia mengira semula cap masa dari Finish Time, membolehkan anda scrobble trek tanpa mengira tarikh asalnya.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Saya tidak mempunyai komputer Windows. Bolehkah saya masih menggunakan Last.fm-Scrubbler?" closed="true" %}}
+{{% ls-details title="Saya tidak mempunyai komputer Windows. Bolehkah saya masih menggunakan Last.fm-Scrubbler?" closed="true" %}}
 Ya. Pasang VirtualBox pada Mac anda dan muat turun imej Persekitaran Pembangunan Windows percuma dari Microsoft. Jalankan Last.fm-Scrubbler-WPF di dalam mesin maya.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Mengapa sesetengah scrobble tidak dihuraikan?" closed="true" %}}
+{{% ls-details title="Mengapa sesetengah scrobble tidak dihuraikan?" closed="true" %}}
 Trek yang tiada metadata penting (seperti nama artis) tidak boleh dihuraikan. Ini dijangka dan tidak menjejaskan trek lain dalam fail.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Adakah had scrobble harian?" closed="true" %}}
+{{% ls-details title="Adakah had scrobble harian?" closed="true" %}}
 Ya. Last.fm-Scrubbler-WPF membenarkan sehingga 2,800 scrobble sehari. Jika anda perlu scrobble lebih banyak, bahagikan proses merentasi beberapa hari.
-{{% /details %}}
+{{% /ls-details %}}

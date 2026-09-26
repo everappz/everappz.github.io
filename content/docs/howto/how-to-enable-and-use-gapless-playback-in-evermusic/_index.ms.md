@@ -7,7 +7,7 @@ tags: ["Evermusic", "Main Balik Tanpa Jeda", "Panduan", "Audio", "Main Balik", "
 readingTime: 4
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 **Ringkasan:** Buka **Tetapan > Pemain audio > Main balik tanpa jeda** dan hidupkan suisnya. Selepas itu, lagu dimainkan tanpa jeda, klik, atau bunyi tik antaranya. Evermusic pra-menimbal dan menyahkod trek seterusnya sementara trek semasa masih dimainkan, kemudian menyerahkan antara sampel audio pada penimbal berterusan, jadi peralihannya benar-benar lancar. Ia adalah main balik tanpa jeda yang sebenar dan tepat pada peringkat sampel, bukan crossfade.
 
@@ -73,30 +73,30 @@ Hasilnya ialah album langsung, set DJ yang dipadankan rentak, atau rakaman konse
 
 ## Soalan Lazim
 
-{{% details title="Bagaimana saya menghidupkan main balik tanpa jeda dalam Evermusic?" closed="true" %}}
+{{% ls-details title="Bagaimana saya menghidupkan main balik tanpa jeda dalam Evermusic?" closed="true" %}}
 Buka Evermusic, pergi ke Tetapan > Pemain audio > Main balik tanpa jeda, dan hidupkan suisnya. Ia dimatikan secara lalai. Setelah diaktifkan, ia digunakan pada segala yang anda mainkan dan kekal hidup sehingga anda mematikannya.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Adakah main balik tanpa jeda Evermusic itu tanpa jeda sebenar atau hanya crossfade?" closed="true" %}}
+{{% ls-details title="Adakah main balik tanpa jeda Evermusic itu tanpa jeda sebenar atau hanya crossfade?" closed="true" %}}
 Ia adalah main balik tanpa jeda yang sebenar dan tepat pada peringkat sampel. Evermusic menyahkod dan pra-menimbal trek seterusnya sementara trek semasa dimainkan, kemudian menyerahkan antara sampel audio pada penimbal berterusan, jadi tiada kesunyian, klik, atau pelapik disisipkan dan tiada jeda mula semula penyahkod berlaku. Crossfade ialah ciri berasingan yang berbeza yang menindih dan mengadun trek; tanpa jeda mengekalkan audio dengan tepat seperti dimaster dan hanya membuang jeda.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Mengapa saya masih mendengar jeda antara sesetengah trek?" closed="true" %}}
+{{% ls-details title="Mengapa saya masih mendengar jeda antara sesetengah trek?" closed="true" %}}
 Pastikan main balik tanpa jeda dihidupkan dalam Tetapan > Pemain audio > Main balik tanpa jeda. Jika jeda masih kekal, ia mungkin terbina dalam rakaman itu sendiri (sesetengah fail mengandungi beberapa saat kesunyian sebenar pada permulaan atau hujung trek). Tanpa jeda membuang jeda yang biasanya ditambah oleh pemain antara trek; ia tidak dapat membuang kesunyian yang menjadi sebahagian daripada fail audio.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Adakah main balik tanpa jeda berfungsi dengan FLAC dan fail lossless lain?" closed="true" %}}
+{{% ls-details title="Adakah main balik tanpa jeda berfungsi dengan FLAC dan fail lossless lain?" closed="true" %}}
 Ya. Main balik tanpa jeda berfungsi dengan FLAC, Apple Lossless (ALAC), dan format lossy seperti MP3 dan AAC, sama ada fail disimpan secara tempatan, dalam awan, atau pada pelayan media.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Bolehkah saya menggunakan main balik tanpa jeda dan crossfade pada masa yang sama?" closed="true" %}}
+{{% ls-details title="Bolehkah saya menggunakan main balik tanpa jeda dan crossfade pada masa yang sama?" closed="true" %}}
 Tidak. Kedua-duanya melakukan perkara yang bertentangan, jadi menghidupkan main balik tanpa jeda secara automatik mematikan crossfade. Gunakan tanpa jeda untuk album langsung, campuran DJ, dan rakaman konsep di mana audio patut dikekalkan dengan tepat; gunakan crossfade jika anda mahu lagu pudar ke satu sama lain.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Adakah main balik tanpa jeda berfungsi apabila menstrim daripada awan?" closed="true" %}}
+{{% ls-details title="Adakah main balik tanpa jeda berfungsi apabila menstrim daripada awan?" closed="true" %}}
 Ya. Evermusic mula menimbal dan menyahkod trek seterusnya lebih awal, termasuk untuk pemacu awan dan pelayan media, jadi penyerahan kekal lancar. Pada sambungan yang lebih perlahan, ia hanya mula menyediakan trek seterusnya sedikit lebih awal.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Adakah main balik tanpa jeda mengurangkan kualiti audio?" closed="true" %}}
+{{% ls-details title="Adakah main balik tanpa jeda mengurangkan kualiti audio?" closed="true" %}}
 Tidak. Main balik tanpa jeda tidak mengekod semula atau memproses audio anda. Ia hanya mengubah cara trek dijadualkan dan ditimbal supaya tiada jeda antaranya. Setiap sampel dimainkan tepat seperti yang ada dalam fail.
-{{% /details %}}
+{{% /ls-details %}}

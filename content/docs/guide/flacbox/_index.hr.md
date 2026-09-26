@@ -71,20 +71,20 @@ Ovaj vodič provodi vas kroz svaki dio Flacboxa na iPhoneu, iPadu i Macu — od 
 
 {{< cards cols="2">}}
 
-{{< card icon="map" link="/docs/guide/flacbox/flacbox-guide-navigation" title="Navigacija" subtitle="Traka kartica na iPhoneu, lijevi izbornik na iPadu i Macu, mini player, widgeti, CarPlay." >}}
+{{< ls-card icon="map" link="/docs/guide/flacbox/flacbox-guide-navigation" title="Navigacija" subtitle="Traka kartica na iPhoneu, lijevi izbornik na iPadu i Macu, mini player, widgeti, CarPlay." >}}
 
-{{< card icon="cloud" link="/docs/guide/flacbox/flacbox-guide-connections" title="Povezivanja" subtitle="iCloud, Google Drive, Dropbox, OneDrive, NAS, WebDAV, SMB, DLNA." >}}
+{{< ls-card icon="cloud" link="/docs/guide/flacbox/flacbox-guide-connections" title="Povezivanja" subtitle="iCloud, Google Drive, Dropbox, OneDrive, NAS, WebDAV, SMB, DLNA." >}}
 
-{{< card icon="collection" link="/docs/guide/flacbox/flacbox-guide-music-library" title="Glazbena biblioteka" subtitle="Pjesme, albumi, izvođači, žanrovi, skladatelji — sinkronizacija, pretraga, uređivanje metapodataka." >}}
+{{< ls-card icon="collection" link="/docs/guide/flacbox/flacbox-guide-music-library" title="Glazbena biblioteka" subtitle="Pjesme, albumi, izvođači, žanrovi, skladatelji — sinkronizacija, pretraga, uređivanje metapodataka." >}}
 
-{{< card icon="music-note" link="/docs/guide/flacbox/flacbox-guide-playlists" title="Popisi pjesama" subtitle="Izgradite, uvezite M3U / M3U8 / CUE, promijenite redoslijed i izvezite u M3U / CSV / TXT." >}}
+{{< ls-card icon="music-note" link="/docs/guide/flacbox/flacbox-guide-playlists" title="Popisi pjesama" subtitle="Izgradite, uvezite M3U / M3U8 / CUE, promijenite redoslijed i izvezite u M3U / CSV / TXT." >}}
 
-{{< card icon="folder" link="/docs/guide/flacbox/flacbox-guide-local-files" title="Lokalne datoteke" subtitle="Offline glazba, USB diskovi, Wi-Fi Drive, upravitelj datoteka, offline mape." >}}
+{{< ls-card icon="folder" link="/docs/guide/flacbox/flacbox-guide-local-files" title="Lokalne datoteke" subtitle="Offline glazba, USB diskovi, Wi-Fi Drive, upravitelj datoteka, offline mape." >}}
 
-{{< card icon="play" link="/docs/guide/flacbox/flacbox-guide-player" title="Audio player" subtitle="Hi-res izlaz, ekvilajzer, visina tona, oznake, AirPlay, Chromecast, brzina, tajmer spavanja." >}}
+{{< ls-card icon="play" link="/docs/guide/flacbox/flacbox-guide-player" title="Audio player" subtitle="Hi-res izlaz, ekvilajzer, visina tona, oznake, AirPlay, Chromecast, brzina, tajmer spavanja." >}}
 
-{{< card icon="adjustments" link="/docs/guide/flacbox/flacbox-guide-settings" title="Postavke" subtitle="Audio motor, biblioteka, upravitelj datoteka, CarPlay, widgeti, personalizacija, jezik, sigurnosna kopija." >}}
+{{< ls-card icon="adjustments" link="/docs/guide/flacbox/flacbox-guide-settings" title="Postavke" subtitle="Audio motor, biblioteka, upravitelj datoteka, CarPlay, widgeti, personalizacija, jezik, sigurnosna kopija." >}}
 
-{{< card icon="question-mark-circle" link="/docs/faq/flacbox" title="Česta pitanja" subtitle="Pronađite odgovore na 50 najčešćih pitanja o Flacboxu." >}}
+{{< ls-card icon="question-mark-circle" link="/docs/faq/flacbox" title="Česta pitanja" subtitle="Pronađite odgovore na 50 najčešćih pitanja o Flacboxu." >}}
 
 {{< /cards >}}

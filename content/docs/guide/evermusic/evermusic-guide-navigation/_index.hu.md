@@ -25,7 +25,7 @@ Az Evermusic funkciói két különálló komponensre vannak felosztva: a Zenei 
 Akár iPhone-t, iPadet vagy Macon a kompakt módot használod, az összes alkalmazás funkció könnyen elérhető a képernyő alján lévő tab bar-on keresztül. iPad és Mac felhasználók számára ugyanez a menü a képernyő bal oldalán található. Ez az átgondolt szervezés az összes alkalmazás funkciót könnyen elérhető szakaszokba kategorizálja, biztosítva a felhasználóbarát és hatékony élményt.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evermusic bal oldalsáv iPaden és Macon" image="/docs/guide/evermusic/evermusic-guide-navigation/img/navigation-left-sidebar.webp" >}}
+  {{< ls-card title="" subtitle="Evermusic bal oldalsáv iPaden és Macon" image="/docs/guide/evermusic/evermusic-guide-navigation/img/navigation-left-sidebar.webp" >}}
 {{< /cards >}}
 
 **Kapcsolatok:** Ezen a képernyőn könnyedén csatlakoztathatsz felhőtárhely-szolgáltatásokat, például Google Drive-ot, MEGA-t, OneDrive-ot és Dropboxot, valamint a számítógépedet és személyes NAS-odat.
@@ -47,7 +47,7 @@ A helyi fájlok szakasz két kategóriára van osztva: Fájlok ebben az alkalmaz
 Aktiválj egy teljes képernyős lejátszót a mini lejátszó ikonra koppintva, és lefelé húzó mozdulattal rejtheted el. iPaden és Macon a mini lejátszó képernyője a képernyő tetején található, és elrejthető, amikor megnyitod a teljes képernyős lejátszót a főmenün keresztül.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="iPhone Tab Bar" image="/docs/guide/evermusic/evermusic-guide-navigation/img/navigation-bottom-tabbar.webp" >}}
+  {{< ls-card title="" subtitle="iPhone Tab Bar" image="/docs/guide/evermusic/evermusic-guide-navigation/img/navigation-bottom-tabbar.webp" >}}
 {{< /cards >}}
 
 ## Mini lejátszó ablak (csak Mac)
@@ -55,7 +55,7 @@ Aktiválj egy teljes képernyős lejátszót a mini lejátszó ikonra koppintva,
 A mini lejátszó ablak eléréséhez Macon egyszerűen mozgasd a kurzort az alkalmazásablak jobb alsó szélére, és méretezd a lehető legkisebb méretre. Ezután koppints az összecsukó gombra (lefele mutató nyíl jelzi), hogy aktiváld a mini lejátszó ablakot. Ha a mini lejátszó ablakot mindig más ablakok felett szeretnéd tartani, navigálj a Mac felső menüsorába, válaszd az „Ablak" lehetőséget, majd a „Mindig felső ablak megjelenítése" opciót. Ez a funkció hasznos hangos előadások hallgatásakor megszakítások nélkül.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Mac Mini lejátszó ablak" image="/docs/guide/evermusic/evermusic-guide-navigation/img/navigation-mac-exclusive-miniplayer.webp" >}}
+  {{< ls-card title="" subtitle="Mac Mini lejátszó ablak" image="/docs/guide/evermusic/evermusic-guide-navigation/img/navigation-mac-exclusive-miniplayer.webp" >}}
 {{< /cards >}}
 
 ## További műveletek
@@ -63,7 +63,7 @@ A mini lejátszó ablak eléréséhez Macon egyszerűen mozgasd a kurzort az alk
 A képernyőn szinte minden tartalomelemen van egy „További műveletek" gomb. Koppints rá az összes elérhető művelet eléréséhez.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="További műveletek kontextus menü" image="/docs/guide/evermusic/evermusic-guide-navigation/img/navigation-more-actions.webp" >}}
+  {{< ls-card title="" subtitle="További műveletek kontextus menü" image="/docs/guide/evermusic/evermusic-guide-navigation/img/navigation-more-actions.webp" >}}
 {{< /cards >}}
 
 ## Felső eszköztár
@@ -77,7 +77,7 @@ Ezt az eszköztárat egyszerű lefelé húzó mozdulattal könnyen megjeleníthe
 - **Összes keverése:** Az aktuális oldal összes számának hozzáadása a hanglejátszó várólistájához, megkeverve azokat előtt a kellemes hallgatási élmény érdekében.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Felső eszköztár keresési, összes lejátszása és összes keverése funkciókkal" image="/docs/guide/evermusic/evermusic-guide-navigation/img/navigation-top-toolbar.webp" >}}
+  {{< ls-card title="" subtitle="Felső eszköztár keresési, összes lejátszása és összes keverése funkciókkal" image="/docs/guide/evermusic/evermusic-guide-navigation/img/navigation-top-toolbar.webp" >}}
 {{< /cards >}}
 
 ## Kontextus menü
@@ -91,7 +91,7 @@ A kontextus menü gyors hozzáférést biztosít a kiegészítő lehetőségekhe
 **Jobb egérkattintás:** Kattints jobb gombbal a cellákra, a mini lejátszóra vagy a kompakt lejátszóra a kontextus menü megjelenítéséhez.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Kontextus menü macOS rendszeren" image="/docs/guide/evermusic/evermusic-guide-navigation/img/navigation-context-menu-macos.webp" >}}
+  {{< ls-card title="" subtitle="Kontextus menü macOS rendszeren" image="/docs/guide/evermusic/evermusic-guide-navigation/img/navigation-context-menu-macos.webp" >}}
 {{< /cards >}}
 
 ## Akadálymentesség
@@ -125,7 +125,7 @@ Az Evermusic négy Kezdőképernyő / Lezárási képernyő widgettel érkezik, 
 Mind a négy widget Kicsi, Közepes és Nagy méretben elérhető, így kiválaszthatod a képernyődhöz legjobban illő elrendezést.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evermusic widgetek hozzáadása" image="/docs/guide/evermusic/evermusic-guide-navigation/img/navigation-add-widgets.webp" >}}
+  {{< ls-card title="" subtitle="Evermusic widgetek hozzáadása" image="/docs/guide/evermusic/evermusic-guide-navigation/img/navigation-add-widgets.webp" >}}
 {{< /cards >}}
 
 ### Widget hozzáadása iPhone-on (Kezdőképernyő)
@@ -175,7 +175,7 @@ A CarPlay widget élőben frissül a zeneváltással, és nagy ujjbegyek számá
 Az Evermusic tartalmaz egy teljesen funkcionális **Apple CarPlay** felületet (csak iOS), amelyet az autós kijelzőre optimalizáltak. Amint iPhone-od csatlakoztatja egy kompatibilis CarPlay fejegységhez — USB-n vagy wireless-en — az Evermusic megjelenik az Apple Music és Spotify mellett a CarPlay alkalmazásrácsban, készen arra, hogy az úton streameld a felhőkönyvtáradat.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evermusic a CarPlay képernyőn" image="/docs/guide/evermusic/evermusic-guide-navigation/img/navigation-carplay-menu.webp" >}}
+  {{< ls-card title="" subtitle="Evermusic a CarPlay képernyőn" image="/docs/guide/evermusic/evermusic-guide-navigation/img/navigation-carplay-menu.webp" >}}
 {{< /cards >}}
 
 ### Mit kapsz CarPlay-ben

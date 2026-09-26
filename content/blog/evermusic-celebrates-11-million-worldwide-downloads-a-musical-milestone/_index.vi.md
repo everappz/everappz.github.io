@@ -12,7 +12,7 @@ authors:
     image: "/images/about/artem-meleshko-founder-everappz.webp"
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 **TL;DR:** Evermusic đã vượt qua 11 triệu lượt tải trên toàn thế giới. Các tính năng chính bao gồm bộ cân bằng 10 dải, phát offline, phát trực tuyến từ iCloud Drive, hỗ trợ hơn 10 dịch vụ đám mây, đồng bộ đa thiết bị và trình chỉnh sửa thẻ ID3 tích hợp.
 
@@ -70,22 +70,22 @@ Evermusic được xây dựng cho bất kỳ ai lưu trữ nhạc trên đám m
 
 ## FAQ
 
-{{% details title="Evermusic hỗ trợ những định dạng âm thanh nào?" closed="true" %}}
+{{% ls-details title="Evermusic hỗ trợ những định dạng âm thanh nào?" closed="true" %}}
 Evermusic phát MP3, FLAC, WAV, AAC, M4A, AIFF, OGG, WMA và các định dạng âm thanh phổ biến khác.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Tôi có thể sử dụng Evermusic mà không cần kết nối internet không?" closed="true" %}}
+{{% ls-details title="Tôi có thể sử dụng Evermusic mà không cần kết nối internet không?" closed="true" %}}
 Có. Tải bài hát từ bộ nhớ đám mây để phát offline. Sau khi tải, không cần internet.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Evermusic có hoạt động trên Mac không?" closed="true" %}}
+{{% ls-details title="Evermusic có hoạt động trên Mac không?" closed="true" %}}
 Có. Evermusic có sẵn trên cả iOS (iPhone/iPad) và macOS, với đồng bộ thư viện trên tất cả thiết bị.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Evermusic có miễn phí tải về không?" closed="true" %}}
+{{% ls-details title="Evermusic có miễn phí tải về không?" closed="true" %}}
 Có. Evermusic miễn phí tải về với các tính năng cao cấp tùy chọn có sẵn qua mua hàng trong ứng dụng.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Phát trực tuyến từ iCloud Drive trong Evermusic hoạt động như thế nào?" closed="true" %}}
+{{% ls-details title="Phát trực tuyến từ iCloud Drive trong Evermusic hoạt động như thế nào?" closed="true" %}}
 Kết nối tài khoản iCloud Drive trong ứng dụng, duyệt tệp nhạc và nhấn để phát. Bài hát phát trực tiếp mà không cần tải xuống trước.
-{{% /details %}}
+{{% /ls-details %}}

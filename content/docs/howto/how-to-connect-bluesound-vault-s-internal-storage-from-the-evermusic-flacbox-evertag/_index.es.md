@@ -7,7 +7,7 @@ tags: ["evermusic", "conectar", "bluesound vault"]
 readingTime: 1
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **Resumen:** Conéctese al almacenamiento interno de su Bluesound VAULT a través de SMB usando Evermusic, Flacbox o Evertag. Encuentre la dirección IP del VAULT en la aplicación BluOS, ingrésela como conexión SMB con acceso de invitado y comience a reproducir o gestionar sus archivos de música.
@@ -58,18 +58,18 @@ Con estos sencillos pasos, puede acceder fácilmente al disco duro interno de su
 
 ## Preguntas frecuentes
 
-{{% details title="¿Necesito un nombre de usuario y contraseña para conectarme al Bluesound VAULT?" closed="true" %}}
+{{% ls-details title="¿Necesito un nombre de usuario y contraseña para conectarme al Bluesound VAULT?" closed="true" %}}
 No. El Bluesound VAULT admite acceso de invitado (anónimo) a través de SMB. Deje los campos de Inicio de sesión y Contraseña en blanco al configurar la conexión.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="¿Puedo editar etiquetas de música en el Bluesound VAULT?" closed="true" %}}
+{{% ls-details title="¿Puedo editar etiquetas de música en el Bluesound VAULT?" closed="true" %}}
 Sí. Usando Evertag, puede editar etiquetas de metadatos (título, artista, álbum, etc.) de archivos de audio almacenados directamente en el disco duro interno del VAULT.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="¿Qué protocolos admite el Bluesound VAULT?" closed="true" %}}
+{{% ls-details title="¿Qué protocolos admite el Bluesound VAULT?" closed="true" %}}
 El Bluesound VAULT expone su almacenamiento interno a través de SMB (Server Message Block). Evermusic, Flacbox y Evertag admiten conexiones SMB, lo que facilita la conexión.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="¿Puedo transmitir música desde el VAULT sin copiar archivos a mi iPhone?" closed="true" %}}
+{{% ls-details title="¿Puedo transmitir música desde el VAULT sin copiar archivos a mi iPhone?" closed="true" %}}
 Sí. Una vez conectado a través de SMB, puede transmitir archivos de audio directamente desde la unidad interna del VAULT sin copiarlos a su dispositivo.
-{{% /details %}}
+{{% /ls-details %}}

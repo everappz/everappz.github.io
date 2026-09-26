@@ -12,7 +12,7 @@ authors:
     image: "/images/about/artem-meleshko-founder-everappz.webp"
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 **Resumo:** Flacbox ultrapassou 1 milhão de downloads em todo o mundo. Suporta FLAC, ALAC, APE, DSD e outros formatos lossless com equalizador de 10 bandas, playlists M3U/CUE, reprodução offline e sincronização entre dispositivos no iPhone, iPad e Mac.
 
@@ -78,26 +78,26 @@ O desenvolvimento futuro foca em:
 
 ## Perguntas Frequentes
 
-{{% details title="Quais formatos de áudio o Flacbox suporta?" closed="true" %}}
+{{% ls-details title="Quais formatos de áudio o Flacbox suporta?" closed="true" %}}
 Flacbox reproduz FLAC, ALAC, APE, DSD, WavPack, TTA, RealAudio, MP3, AAC, OGG e muitos outros formatos. É projetado principalmente para áudio lossless e hi-res.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="O Flacbox tem equalizador?" closed="true" %}}
+{{% ls-details title="O Flacbox tem equalizador?" closed="true" %}}
 Sim. Flacbox inclui um equalizador de 10 bandas com predefinições de gênero e ajuste manual de frequência.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Posso ouvir música offline com o Flacbox?" closed="true" %}}
+{{% ls-details title="Posso ouvir música offline com o Flacbox?" closed="true" %}}
 Sim. Baixe arquivos do armazenamento em nuvem ou transfira-os diretamente para o aplicativo para reprodução offline sem conexão com a internet.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="O Flacbox funciona no Mac?" closed="true" %}}
+{{% ls-details title="O Flacbox funciona no Mac?" closed="true" %}}
 Sim. Flacbox funciona no iPhone, iPad e Mac com bibliotecas sincronizadas e histórico de reprodução em todos os dispositivos.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="O que é suporte a folhas CUE?" closed="true" %}}
+{{% ls-details title="O que é suporte a folhas CUE?" closed="true" %}}
 Folhas CUE definem os limites das faixas dentro de um único arquivo de áudio. Flacbox lê arquivos CUE para dividir cópias de álbuns em faixas individuais com metadados adequados.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="O Flacbox é gratuito?" closed="true" %}}
+{{% ls-details title="O Flacbox é gratuito?" closed="true" %}}
 Flacbox é gratuito para download com recursos premium opcionais disponíveis através de compra no aplicativo.
-{{% /details %}}
+{{% /ls-details %}}

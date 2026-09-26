@@ -7,7 +7,7 @@ keywords: ["iPhone SMB 서버", "iPad SMB 서버", "iPhone에서 SMB 설정하�
 readingTime: 10
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 SMB는 macOS, Windows, Linux, 그리고 거의 모든 네트워크 드라이브(NAS)에 내장된 파일 공유 방식입니다. 다른 컴퓨터의 공유 폴더에 연결했을 때 Finder나 파일 탐색기에서 일반 디스크처럼 열린다면, 그것이 바로 SMB가 하는 일입니다. [Everdisk](/products/everdisk)로 iPhone이나 iPad에 SMB 공유를 올려 두면, 휴대폰 자체가 네트워크 드라이브로 나타나 다른 기기가 둘러보고, 복사해 오고, 복사해 넣을 수 있습니다.
 
@@ -136,44 +136,44 @@ SMB는 모든 전송을 암호화할 수 있는 유일한 Everdisk 연결이며,
 
 ## 자주 묻는 질문
 
-{{% details title="내 iPhone의 SMB 주소와 포트는 무엇인가요?" closed="true" %}}
+{{% ls-details title="내 iPhone의 SMB 주소와 포트는 무엇인가요?" closed="true" %}}
 공유를 시작하면 Everdisk가 공유 화면에 주소를 표시합니다. smb://192.168.1.20:4455/Share처럼 생겼습니다. 4455는 Everdisk가 SMB에 사용하는 포트이고, Share는 공유 폴더의 이름입니다. 앞부분은 Wi-Fi에서 iPhone의 주소이므로 여러분의 것은 다릅니다.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Windows에서 내 iPhone SMB 공유에 연결할 수 있나요?" closed="true" %}}
+{{% ls-details title="Windows에서 내 iPhone SMB 공유에 연결할 수 있나요?" closed="true" %}}
 Windows 파일 탐색기는 표준 포트에서만 SMB에 연결하며 경로에 사용자 지정 포트를 받아들이지 않는데, Everdisk는 포트 4455를 사용합니다. 그래서 일반적인 네트워크 드라이브 연결 방식으로는 종종 닿지 못합니다. 사용자 지정 포트를 설정할 수 있는 파일 관리자를 사용하거나, WebDAV, FTP 또는 브라우저 링크로 Windows에서 연결하세요. 그것들은 모두 포트 문제 없이 Windows에서 작동합니다.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="SMB로 두 iPhone 사이에서 파일을 어떻게 공유하나요?" closed="true" %}}
+{{% ls-details title="SMB로 두 iPhone 사이에서 파일을 어떻게 공유하나요?" closed="true" %}}
 첫 번째 iPhone의 Everdisk에서 SMB 서버를 시작하세요. 두 번째 iPhone에서 파일 앱을 열고 더 보기 버튼을 탭한 뒤 서버에 연결을 선택하고 Everdisk에 표시된 smb 주소를 입력하세요(예: smb://192.168.1.20:4455/Share). 게스트나 로그인으로 연결하면 파일에 공유가 나타납니다. 두 번째 휴대폰에서 Everdisk 자체의 기기 탭을 사용할 수도 있습니다.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="내 iPhone이 Mac Finder 사이드바에 자동으로 나타나나요?" closed="true" %}}
+{{% ls-details title="내 iPhone이 Mac Finder 사이드바에 자동으로 나타나나요?" closed="true" %}}
 보통은 그렇습니다. Everdisk가 Wi-Fi에서 SMB 공유를 알리므로 iPhone이 종종 Finder 사이드바의 위치나 네트워크 아래에 나타납니다. 클릭한 뒤 다른 이름으로 연결을 선택하고 게스트나 로그인을 고르세요. 나타나지 않으면 이동, 서버에 연결과 전체 smb 주소로 직접 연결하세요.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="SMB를 쓰려면 비밀번호가 필요한가요?" closed="true" %}}
+{{% ls-details title="SMB를 쓰려면 비밀번호가 필요한가요?" closed="true" %}}
 아니요, 로그인은 선택 사항입니다. 게스트 접근을 허용하려면 설정, 공유, 접근 권한에서 로그인과 비밀번호를 비워 두세요. 연결 시 로그인하게 하려면 설정하세요. 로그인과 비밀번호는 SMB 암호화 요구를 켤 때만 필요한데, 암호화된 연결은 익명일 수 없기 때문입니다.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="SMB 연결은 암호화되나요?" closed="true" %}}
+{{% ls-details title="SMB 연결은 암호화되나요?" closed="true" %}}
 그럴 수 있습니다. SMB는 암호화를 지원하는 유일한 Everdisk 연결입니다. 로그인과 비밀번호를 설정한 뒤 설정, 공유에서 SMB 암호화 요구를 켜세요. 그러면 모든 전송이 SMB3(AES)로 보호됩니다. 상대 기기가 SMB3를 지원해야 하며, 최신 Mac과 Windows 10 이상이 지원합니다. 암호화는 Premium 기능입니다.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="다른 사람이 SMB로 내 파일을 바꾸거나 삭제할 수 있나요?" closed="true" %}}
+{{% ls-details title="다른 사람이 SMB로 내 파일을 바꾸거나 삭제할 수 있나요?" closed="true" %}}
 허용할 때만 그렇습니다. 설정, 공유, 접근 권한의 파일 편집 스위치가 이를 제어합니다. 켜면 연결된 기기가 업로드하고, 이름을 바꾸고, 삭제할 수 있습니다. 끄면 공유가 읽기 전용이 되어 다른 사람은 둘러보고 휴대폰에서 파일을 복사해 갈 수는 있어도 아무것도 바꿀 수 없습니다.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="SMB 연결이 왜 끊겼나요?" closed="true" %}}
+{{% ls-details title="SMB 연결이 왜 끊겼나요?" closed="true" %}}
 iPhone이 서버이고, iOS는 백그라운드에 너무 오래 있는 앱을 일시정지합니다. 기기가 연결되어 있는 동안 Everdisk를 화면에 열어 두고, 긴 전송 중에는 휴대폰을 전원에 연결하세요. 두 기기가 계속 같은 Wi-Fi에 있었는지도 확인하세요.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="SMB, WebDAV, FTP 중 무엇을 써야 하나요?" closed="true" %}}
+{{% ls-details title="SMB, WebDAV, FTP 중 무엇을 써야 하나요?" closed="true" %}}
 Mac, 다른 iPhone, Linux 또는 NAS에서 휴대폰을 진짜 네트워크 드라이브처럼 다루고 싶고 암호화를 원할 때는 SMB를 쓰세요. Windows에서도 잘 되는 네트워크 드라이브를 원할 때는 WebDAV를 쓰세요. 오래된 기기와 앱과의 가장 넓은 호환성을 원할 때는 FTP를 쓰세요. Everdisk는 이 모두를 동시에 실행할 수 있으므로 하나에 묶이지 않습니다.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Everdisk는 무료인가요?" closed="true" %}}
+{{% ls-details title="Everdisk는 무료인가요?" closed="true" %}}
 네, Everdisk는 무료로 내려받을 수 있으며 SMB 서버가 포함되어 있습니다. 선택 사항인 일회성 Premium 구매는 SMB 암호화, 사용자 지정 포트, 그 밖의 몇 가지 추가 기능을 더합니다. 결제 없이 SMB를 설정하고 파일을 공유할 수 있습니다.
-{{% /details %}}
+{{% /ls-details %}}
 
 한번 써 보시겠어요? [App Store에서 Everdisk를 다운로드](https://apps.apple.com/app/apple-store/id6751851132?pt=95781850&ct=everappzcom&mt=8)하고 약 1분 만에 Finder에서 iPhone을 열어 보세요. 궁금한 점이나 의견이 있으신가요? **support@everappz.com**으로 이메일을 보내 주세요.

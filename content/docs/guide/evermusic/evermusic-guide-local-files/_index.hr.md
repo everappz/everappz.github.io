@@ -20,7 +20,7 @@ Odjeljak Lokalne datoteke služi kao čvorište za upravljanje datotekama smješ
 Ovaj ugrađeni upravitelj datoteka vam omogućuje uređivanje datoteka i nudi različite metode za uvoz audio datoteka u aplikaciju.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Zaslon Evermusic Lokalne datoteke" image="/docs/guide/evermusic/evermusic-guide-local-files/img/local-files-main.webp" >}}
+  {{< ls-card title="" subtitle="Zaslon Evermusic Lokalne datoteke" image="/docs/guide/evermusic/evermusic-guide-local-files/img/local-files-main.webp" >}}
 {{< /cards >}}
 
 ## Preuzmite datoteke iz pohrane u oblaku
@@ -40,7 +40,7 @@ Lako uvozite datoteke s uređaja kao što je opisano [ovdje](/docs/howto/how-to-
 Prenesite datoteke koristeći kabelsku vezu kao što je opisano [ovdje](/docs/howto/how-to-transfer-files-from-my-mac-to-iphone-or-ipad-using-finder).
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="iTunes / Finder File Sharing" image="/docs/guide/evermusic/evermusic-guide-local-files/img/local-files-itunes-file-sharing.webp" >}}
+  {{< ls-card title="" subtitle="iTunes / Finder File Sharing" image="/docs/guide/evermusic/evermusic-guide-local-files/img/local-files-itunes-file-sharing.webp" >}}
 {{< /cards >}}
 
 ## Wi-Fi Drive
@@ -48,7 +48,7 @@ Prenesite datoteke koristeći kabelsku vezu kao što je opisano [ovdje](/docs/ho
 Bežično prenosite datoteke kao što je opisano [ovdje](/docs/howto/how-to-transfer-files-wirelessly-from-a-computer-to-an-iphone-using-wifi-drive).
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Postavke Wi-Fi Drive poslužitelja" image="/docs/guide/evermusic/evermusic-guide-local-files/img/local-files-wifidrive-settings.webp" >}}
+  {{< ls-card title="" subtitle="Postavke Wi-Fi Drive poslužitelja" image="/docs/guide/evermusic/evermusic-guide-local-files/img/local-files-wifidrive-settings.webp" >}}
 {{< /cards >}}
 
 ## Red prijenosa
@@ -56,7 +56,7 @@ Bežično prenosite datoteke kao što je opisano [ovdje](/docs/howto/how-to-tran
 U gornjem lijevom kutu navigacijske trake pronaći ćete gumb 'Prijenosi'. Dodirnite ga za pristup redu prijenosa, gdje možete pratiti i upravljati svim preuzimanjima i uploadima. Uz to, imate fleksibilnost za podešavanje brzine reda prijenosa i vrste mreže u postavkama aplikacije.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Red prijenosa datoteka" image="/docs/guide/evermusic/evermusic-guide-local-files/img/local-files-file-transfers.webp" >}}
+  {{< ls-card title="" subtitle="Red prijenosa datoteka" image="/docs/guide/evermusic/evermusic-guide-local-files/img/local-files-file-transfers.webp" >}}
 {{< /cards >}}
 
 ## Odjeljak brzog pristupa
@@ -68,7 +68,7 @@ Na vrhu zaslona, odjeljak brzog pristupa pruža prikladne veze do nedavnih i omi
 Ovaj odjeljak prikazuje sve nedavno otvorene datoteke ili mape.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Nedavno otvorene datoteke i mape" image="/docs/guide/evermusic/evermusic-guide-local-files/img/local-files-recents.webp" >}}
+  {{< ls-card title="" subtitle="Nedavno otvorene datoteke i mape" image="/docs/guide/evermusic/evermusic-guide-local-files/img/local-files-recents.webp" >}}
 {{< /cards >}}
 
 ## Omiljeni
@@ -76,7 +76,7 @@ Ovaj odjeljak prikazuje sve nedavno otvorene datoteke ili mape.
 Možete označiti datoteke ili mape kao omiljene i pristupiti im u ovom odjeljku. Nadalje, možete dodati mapu smještenu na uređaju u omiljene. Da biste to učinili, otvorite odjeljak omiljenih, dodirnite tri točke u gornjem desnom kutu i odaberite stavku izbornika "Dodaj mapu". Slijedite upute za dodavanje mape s uređaja u omiljene za brz pristup.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Omiljeni — Dodajte mapu s uređaja" image="/docs/guide/evermusic/evermusic-guide-local-files/img/local-files-favorites.webp" >}}
+  {{< ls-card title="" subtitle="Omiljeni — Dodajte mapu s uređaja" image="/docs/guide/evermusic/evermusic-guide-local-files/img/local-files-favorites.webp" >}}
 {{< /cards >}}
 
 ## Gornja alatna traka
@@ -91,7 +91,7 @@ Gornja alatna traka, smještena ispod navigacijske trake, nudi nekoliko radnji:
 Gornju alatnu traku možete prikazati ili sakriti gestom povlačenja prema dolje.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Gornja alatna traka za trenutnu mapu" image="/docs/guide/evermusic/evermusic-guide-local-files/img/local-files-top-toolbar.webp" >}}
+  {{< ls-card title="" subtitle="Gornja alatna traka za trenutnu mapu" image="/docs/guide/evermusic/evermusic-guide-local-files/img/local-files-top-toolbar.webp" >}}
 {{< /cards >}}
 
 ## Posebne mape
@@ -128,7 +128,7 @@ Prikazuje datoteke i mape pohranjene u direktoriju Documents aplikacije i iCloud
 Prikazuje datoteke smještene na uređaju, ali u različitim aplikacijama. Možete ih uvesti u ovu aplikaciju koristeći sistemski birač datoteka. Za aktiviranje birača, odaberite "Otvori datoteke..." za odabir datoteka ili "Otvori mape..." za odabir mapa. Detaljne upute o uvazu lokalne glazbe pohranjene na iPhoneu ili Macu dostupne su [ovdje](/docs/howto/how-to-play-local-music-stored-on-your-iphone-or-mac). Možete i spojiti mapu smještenu na uređaju i imati brz pristup sadržaju mape. Koristite stavku izbornika "Spoji mapu" i odaberite mapu smještenu na uređaju. Dodirnite "Završeno" i aplikacija će kreirati vezu na tu mapu s pristupom za čitanje/pisanje i možete upravljati datotekama izravno iz ove aplikacije. Za odspajanje mape smještene na uređaju dodirnite gumb "Više radnji" i odaberite "Odspoji".
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Datoteke na ovom iPhoneu / iPadu / Macu" image="/docs/guide/evermusic/evermusic-guide-local-files/img/local-files-on-this-device.webp" >}}
+  {{< ls-card title="" subtitle="Datoteke na ovom iPhoneu / iPadu / Macu" image="/docs/guide/evermusic/evermusic-guide-local-files/img/local-files-on-this-device.webp" >}}
 {{< /cards >}}
 
 ## Uvoz datoteka s priključenih USB flash kartica
@@ -151,7 +151,7 @@ Izbornik više radnji za trenutno otvorenu mapu smješten je u gornjem desnom ku
 Ako trebate urediti nekoliko datoteka, aktivirajte način odabira dodirivanjem gumba više radnji "..." na navigacijskoj traci u gornjem desnom kutu, a zatim odaberite stavku izbornika "Odaberi". Time će se prikazati potvrdni okviri pored svake datoteke. Odaberite željene datoteke dodirivanjem njihovih potvrdnih okvira. Možete izvesti sljedeće radnje na odabranim datotekama.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Radnje načina odabira za lokalne datoteke" image="/docs/guide/evermusic/evermusic-guide-local-files/img/local-files-selection-mode.webp" >}}
+  {{< ls-card title="" subtitle="Radnje načina odabira za lokalne datoteke" image="/docs/guide/evermusic/evermusic-guide-local-files/img/local-files-selection-mode.webp" >}}
 {{< /cards >}}
 
 - **Reproduciraj sljedeće:** Dodajte odabrane datoteke ili mape na vrh reda reproduktora s trenutnim redoslijedom sortiranja.
@@ -186,7 +186,7 @@ Za svaku datoteku ili mapu u aplikaciji dostupno je nekoliko radnji, kojima se p
 ## Offline mape
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Izbornik više radnji offline mape" image="/docs/guide/evermusic/evermusic-guide-local-files/img/local-files-offline-folders.webp" >}}
+  {{< ls-card title="" subtitle="Izbornik više radnji offline mape" image="/docs/guide/evermusic/evermusic-guide-local-files/img/local-files-offline-folders.webp" >}}
 {{< /cards >}}
 
 Offline način rada je zgodna značajka koja vam omogućuje pristup omiljenoj glazbi čak i kada niste spojeni na internet. Kada omogućite offline način rada za bilo koji album, izvođača, popis pjesama, žanr ili udaljenu mapu, sve datoteke unutar te kolekcije automatski će biti preuzete na vaš uređaj za offline reprodukciju. Možete prikladno pristupiti tim datotekama u odjeljku "Offline mape" aplikacije.
@@ -204,7 +204,7 @@ Detaljne upute o tome kako reproducirati offline glazbu u Evermusicu i Flacboxu:
 Gotovo svako ponašanje zaslona Lokalnih datoteka — od mrežne propusnosti do mjesta gdje preuzimanja završavaju do predmemoriranja minijatura — može se konfigurirati pod **Postavke → Upravitelj datoteka**. Otvorite ga kad god želite fino podesiti brzinu prijenosa, uštedjeti prostor za pohranu ili ograničiti aplikaciju samo na Wi-Fi.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Zaslon postavki upravitelja datoteka" image="/docs/guide/evermusic/evermusic-guide-local-files/img/local-files-file-manager-settings.webp" >}}
+  {{< ls-card title="" subtitle="Zaslon postavki upravitelja datoteka" image="/docs/guide/evermusic/evermusic-guide-local-files/img/local-files-file-manager-settings.webp" >}}
 {{< /cards >}}
 
 Zaslon prikazuje svaku opciju grupiranu u jasno označene odjeljke:

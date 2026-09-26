@@ -7,14 +7,14 @@ keywords: ["перенос музыки без iTunes", "wifi drive iphone", "б
 readingTime: 2
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **Кратко:** Используйте Wi-Fi Drive в Evermusic, Flacbox или Evertag для переноса музыки с компьютера на iPhone или iPad. iTunes не нужен. Оба устройства должны быть подключены к одной сети Wi-Fi. Передавайте файлы через веб-браузер или WebDAV (Mac Finder / Проводник Windows).
 
 Вы можете посмотреть видеоурок от [**TECHGUYPH**](https://www.youtube.com/channel/UCgpf09gGFE_c_3pPTtTpnzg) или прочитать текстовую версию ниже.
 <br><br>
-{{< youtubecard id="CqdqrQ0ge70" title="Can We Wirelessly Put Offline Music on iPhones?" >}}
+{{< ls-youtubecard id="CqdqrQ0ge70" title="Can We Wirelessly Put Offline Music on iPhones?" >}}
 
 Wi-Fi Drive — это лучшее решение для беспрепятственного переноса вашей музыкальной коллекции с компьютера на iPhone или iPad без необходимости в iTunes. Этот простой метод позволяет легко загружать или выгружать множество аудиофайлов и даже целые папки через локальное Wi-Fi-соединение. Для корректной работы компьютер и iOS-устройство должны быть подключены к одной сети Wi-Fi.
 
@@ -84,22 +84,22 @@ Wi-Fi Drive — это лучшее решение для беспрепятст
 
 ## Часто задаваемые вопросы
 
-{{% details title="Какие аудиоформаты можно передавать через Wi-Fi Drive?" closed="true" %}}
+{{% ls-details title="Какие аудиоформаты можно передавать через Wi-Fi Drive?" closed="true" %}}
 Wi-Fi Drive передаёт файлы любого типа. Evermusic и Flacbox поддерживают воспроизведение MP3, FLAC, AAC, WAV, AIFF, OGG, WMA и многих других аудиоформатов.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Нужен ли iTunes для загрузки музыки на iPhone?" closed="true" %}}
+{{% ls-details title="Нужен ли iTunes для загрузки музыки на iPhone?" closed="true" %}}
 Нет. Wi-Fi Drive передаёт музыку напрямую через локальную сеть Wi-Fi. iTunes не требуется.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Можно ли передать целые папки с музыкой за раз?" closed="true" %}}
+{{% ls-details title="Можно ли передать целые папки с музыкой за раз?" closed="true" %}}
 Да. Метод через веб-браузер поддерживает загрузку целых папок, включая вложенные подпапки.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Безопасна ли передача музыки?" closed="true" %}}
+{{% ls-details title="Безопасна ли передача музыки?" closed="true" %}}
 Wi-Fi Drive работает только в вашей локальной сети. Вы также можете установить имя пользователя и пароль для дополнительной безопасности.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Какие приложения поддерживают Wi-Fi Drive для музыки?" closed="true" %}}
+{{% ls-details title="Какие приложения поддерживают Wi-Fi Drive для музыки?" closed="true" %}}
 Evermusic, Flacbox и Evertag — все они включают Wi-Fi Drive для передачи аудиофайлов с компьютера.
-{{% /details %}}
+{{% /ls-details %}}

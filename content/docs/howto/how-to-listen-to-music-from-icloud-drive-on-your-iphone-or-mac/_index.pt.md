@@ -7,7 +7,7 @@ tags: ["música", "nuvem", "streaming", "reprodutor", "drive", "icloud"]
 readingTime: 5
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **Resumo:** Envie música para o iCloud Drive, instale o [Evermusic](/products/evermusic) (para MP3/WAV) ou [Flacbox](/products/flacbox) (para FLAC/DSD), conecte sua pasta do iCloud Drive e transmita diretamente sem usar o armazenamento do dispositivo.
@@ -29,8 +29,8 @@ Antes de começar a aproveitar sua música do iCloud Drive no iPhone ou Mac, voc
 1. Vá até a App Store e baixe o **Evermusic** se sua música estiver armazenada em formatos de áudio padrão como mp3 ou wav. Se você tem música sem perdas em dsd ou flac, opte pelo **Flacbox**. Ambos os aplicativos estão disponíveis para iOS e MacOS.
 
 {{< cards >}}
-  {{< card link="https://apps.apple.com/us/app/evermusic-cloud-music-player/id885367198" title="Baixar Evermusic para iOS" icon="download" tag="Grátis" >}}
-  {{< card link="https://apps.apple.com/us/app/flacbox-flac-player-equalizer/id1097564256" title="Baixar Flacbox para iOS" icon="download" tag="Grátis" >}}
+  {{< ls-card link="https://apps.apple.com/us/app/evermusic-cloud-music-player/id885367198" title="Baixar Evermusic para iOS" icon="download" tag="Grátis" >}}
+  {{< ls-card link="https://apps.apple.com/us/app/flacbox-flac-player-equalizer/id1097564256" title="Baixar Flacbox para iOS" icon="download" tag="Grátis" >}}
 {{< /cards >}}
 
 - Para MacOS:
@@ -38,8 +38,8 @@ Antes de começar a aproveitar sua música do iCloud Drive no iPhone ou Mac, voc
 1. Visite a App Store no seu Mac e instale o **Evermusic** ou **Flacbox** com base nas suas preferências de formato de música.
 
 {{< cards >}}
-  {{< card link="https://apps.apple.com/us/app/evermusic-cloud-music-player/id1564384601" title="Baixar Evermusic para Mac" icon="download" tag="Grátis" >}}
-  {{< card link="https://apps.apple.com/us/app/flacbox-hires-music-player/id1594027432" title="Baixar Flacbox para Mac" icon="download" tag="Grátis" >}}
+  {{< ls-card link="https://apps.apple.com/us/app/evermusic-cloud-music-player/id1564384601" title="Baixar Evermusic para Mac" icon="download" tag="Grátis" >}}
+  {{< ls-card link="https://apps.apple.com/us/app/flacbox-hires-music-player/id1594027432" title="Baixar Flacbox para Mac" icon="download" tag="Grátis" >}}
 {{< /cards >}}
 
 Depois de instalar o aplicativo no seu iPhone ou Mac, você está pronto para prosseguir.
@@ -215,22 +215,22 @@ Agora, vá em frente, comece a transmitir e deixe a música tocar!
 
 ## FAQ
 
-{{% details title="Quais formatos de áudio posso transmitir do iCloud Drive?" closed="true" %}}
+{{% ls-details title="Quais formatos de áudio posso transmitir do iCloud Drive?" closed="true" %}}
 Evermusic suporta MP3, WAV, AAC e outros formatos padrão. Flacbox adiciona suporte para FLAC, DSD, OGG e OPUS. Escolha o aplicativo que corresponde à sua coleção de música.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Transmitir do iCloud Drive usa armazenamento do dispositivo?" closed="true" %}}
+{{% ls-details title="Transmitir do iCloud Drive usa armazenamento do dispositivo?" closed="true" %}}
 Não. Tanto o Evermusic quanto o Flacbox transmitem áudio diretamente do iCloud Drive sem baixar arquivos para o seu dispositivo. Você pode opcionalmente baixar faixas individuais para ouvir offline.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Posso usar música do iCloud Drive offline?" closed="true" %}}
+{{% ls-details title="Posso usar música do iCloud Drive offline?" closed="true" %}}
 Sim. Toque no menu de três pontos em qualquer faixa e escolha a opção de download. O arquivo será salvo localmente para reprodução offline.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Por que minha música para ou fica em buffer durante a reprodução?" closed="true" %}}
+{{% ls-details title="Por que minha música para ou fica em buffer durante a reprodução?" closed="true" %}}
 Isso geralmente é causado por uma conexão de internet lenta ou instável. Ative o cache do reprodutor de áudio nas Configurações para pré-baixar as próximas faixas e evitar interrupções.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="O streaming de música do iCloud Drive é gratuito?" closed="true" %}}
+{{% ls-details title="O streaming de música do iCloud Drive é gratuito?" closed="true" %}}
 Tanto o Evermusic quanto o Flacbox são gratuitos para download. O iCloud Drive oferece 5 GB de armazenamento gratuito. Você pode atualizar seu plano de armazenamento iCloud pela Apple se precisar de mais espaço.
-{{% /details %}}
+{{% /ls-details %}}

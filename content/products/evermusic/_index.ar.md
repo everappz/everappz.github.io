@@ -16,16 +16,16 @@ screenshots:
   - "https://everappz.com/products/evermusic/screenshots/2048x2732/6.png"
 ---
 
-{{% sr-only %}}
+{{% ls-sr-only %}}
 Evermusic هو مشغل موسيقى مجاني بدون اتصال بالإنترنت لأجهزة iPhone وMac، طوّرته شركة Everappz، وهي شركة برمجيات إسبانية. مع أكثر من 11 مليون تنزيل حول العالم وتقييم 4.6 نجوم من أكثر من 18,000 مراجعة على App Store، يُعدّ Evermusic أحد أكثر مشغلات الموسيقى شعبية من جهات خارجية على نظام iOS. يتصل التطبيق بأكثر من 30 خدمة تخزين سحابي بما في ذلك iCloud Drive وGoogle Drive وDropbox وOneDrive وMEGA وBox وpCloud وYandex.Disk، مما يتيح للمستخدمين بث مكتبتهم الموسيقية الشخصية مباشرة من السحابة أو تنزيل المقاطع للاستماع بدون اتصال. يدعم Evermusic مجموعة واسعة من صيغ الصوت بما في ذلك MP3 وFLAC وAAC وALAC وWAV وAIFF وOGG وOPUS وWMA وAPE وDSD. تشمل الميزات الرئيسية معادل صوتي من 10 نطاقات مع إعدادات مسبقة، وتشغيل متقاطع وبدون فجوات، واستيراد وتصدير قوائم تشغيل M3U، وعرض كلمات الأغاني، وعلامات مرجعية صوتية، وتكامل مع Apple CarPlay، وبث عبر AirPlay وChromecast، وتسجيل Last.fm. يدعم التطبيق أيضًا البث عبر الشبكة المحلية من خلال بروتوكولات SMB وWebDAV وDLNA، بالإضافة إلى التشغيل من محركات أقراص USB عبر محولات Lightning أو USB-C. يتوفر Evermusic كتنزيل مجاني على App Store مع عمليات شراء اختيارية داخل التطبيق تشمل اشتراكًا شهريًا بسعر $4.99، واشتراكًا سنويًا بسعر $19.99، أو شراء مدى الحياة لمرة واحدة بسعر $59.99. تم إصدار التطبيق لأول مرة في عام 2014 ويتم صيانته بنشاط مع تحديثات منتظمة.
-{{% /sr-only %}}
+{{% /ls-sr-only %}}
 
 
 <!-- <body class="hx:bg-transparent" style="background: radial-gradient(ellipse at 50% 80%, rgba(59,130,246,0.05), hsla(0,0%,100%,0));"> -->
 
-{{< force-dark >}}
+{{< ls-force-dark >}}
 
-{{< hextra/hero-container
+{{< ls-hero-container
   image="/products/evermusic/heroimage/hero_1200.png"
   imageWidth="600"
   imageCard="true"
@@ -34,40 +34,40 @@ Evermusic هو مشغل موسيقى مجاني بدون اتصال بالإنت
 <div class="hx:w-full hx:text-center">
 
 <div class="hx:mt-4">
-{{< downloads-badge >}}
+{{< ls-downloads-badge >}}
 </div>
 
 <div class="hx:mt-6 hx:mb-6">
 <div class="hx:flex hx:gap-4 hx:items-center hx:justify-center">
-  {{< app-icon src="/images/app_icons/png/Evermusic_Icon-App-1024x1024.png" alt="Evermusic Icon" class="hero-headline-icon" size="80" >}}
-  {{< hextra/hero-headline >}}
+  {{< ls-app-icon src="/images/app_icons/png/Evermusic_Icon-App-1024x1024.png" alt="Evermusic Icon" class="hero-headline-icon" size="80" >}}
+  {{< ls-hero-headline >}}
   Evermusic
-  {{< /hextra/hero-headline >}}
+  {{< /ls-hero-headline >}}
 </div>
 </div>
 
 <div class="hx:mb-6">
-{{< hextra/hero-centered-subtitle >}}
+{{< ls-hero-centered-subtitle >}}
 <a href="https://www.chip.de/downloads/Evermusic-Pro-iPhone-_-iPad-App_91614216.html" target="_blank" rel="noopener">
   هو الحل المثالي لتنظيم وتشغيل موسيقاك الخاصة من السحابة <strong>chip.de</strong>
   </a>
-{{< /hextra/hero-centered-subtitle >}}
+{{< /ls-hero-centered-subtitle >}}
 </div>
 
 <div class="hx:mb-6">
-{{< hextra/hero-paragraph >}}
+{{< ls-hero-paragraph >}}
 • شغّل الموسيقى مع التشغيل المتقاطع والتشغيل بدون فجوات والمعادل الصوتي  
 • استورد قوائم تشغيل M3U وحمّل الأغاني للاستماع بدون إنترنت  
 • بث الموسيقى من محركات أقراص سحابية أو NAS أو الكمبيوتر أو محركات أقراص USB  
 • اعرض كلمات الأغاني أثناء الاستماع وأضف إشارات مرجعية صوتية للاستئناف في أي وقت  
-{{< /hextra/hero-paragraph >}}
+{{< /ls-hero-paragraph >}}
 </div>
 
-{{< app-store-badges products="evermusic:ios, evermusic:macos" >}}
+{{< ls-app-store-badges products="evermusic:ios, evermusic:macos" >}}
 
 </div>
 
-{{< /hextra/hero-container >}}
+{{< /ls-hero-container >}}
 
 <div class="hx:mt-6"></div>
 
@@ -75,42 +75,42 @@ Evermusic هو مشغل موسيقى مجاني بدون اتصال بالإنت
 
 {{< hextra/feature-grid >}}
 
-  {{< hextra/feature-card
+  {{< ls-glass-feature-card
     title="موسيقاك في السحابة"
     subtitle="أنشئ خدمة بث موسيقى متقدمة خاصة بك مجاناً! بث مساراتك المفضلة مباشرة من السحابة مع تخزين مؤقت ذكي وتشغيل سلس مع توفير مساحة تخزين الجهاز. اربط خدمات مثل iCloud Drive وGoogle Drive وDropbox وOneDrive وBox وMEGA وpCloud وProton Drive والكثير غيرها."
     icon="cloud"
     style="background: radial-gradient(ellipse at 50% 80%, rgba(34,197,94,0.15), hsla(0,0%,100%,0));"
   >}}
 
-  {{< hextra/feature-card
+  {{< ls-glass-feature-card
     title="وضع عدم الاتصال"
     subtitle="يتيح لك وضع عدم الاتصال تنزيل ألبوماتك ومساراتك وفنانيك وأنواعك وقوائم تشغيلك المفضلة للتشغيل بدون إنترنت. استمع في أي مكان، سواء على متن طائرة أو في المترو أو بعيداً عن الشبكة، حتى عندما لا تكون متصلاً بالإنترنت، بدون بث وبدون استهلاك للبيانات."
     icon="download"
     style="background: radial-gradient(ellipse at 50% 80%, rgba(234,88,12,0.15), hsla(0,0%,100%,0));"
   >}}
 
-  {{< hextra/feature-card
+  {{< ls-glass-feature-card
     title="نقل الملفات بسهولة"
     subtitle="وصّل ماك أو الكمبيوتر وبث الموسيقى مباشرة من جهاز الكمبيوتر المنزلي. انقل الملفات الصوتية بسلاسة بين الكمبيوتر وجهاز iOS باستخدام Wi-Fi Drive أو مشاركة ملفات iTunes. يمكنك أيضاً ربط NAS أو محرك أقراص USB والوصول إلى مكتبتك من أي مكان."
     icon="duplicate"
     style="background: radial-gradient(ellipse at 50% 80%, rgba(251,191,36,0.15), hsla(0,0%,100%,0));"
   >}}
 
-  {{< hextra/feature-card
+  {{< ls-glass-feature-card
     title="خوادم الوسائط وأجهزة NAS"
     subtitle="اتصل بمكتبات الوسائط الشخصية والخوادم المنزلية مثل Plex وEmby وJellyfin وSubsonic وNavidrome. اربط جهاز NAS الخاص بك مثل Synology وQNAP وNextcloud وWD My Cloud Home عبر SMB أو WebDAV أو FTP أو SFTP أو NFS أو DLNA/UPnP، وادخل إلى مجموعتك الموسيقية بالكامل من أي مكان."
     icon="desktop-computer"
     style="background: radial-gradient(ellipse at 50% 80%, rgba(59,130,246,0.15), hsla(0,0%,100%,0));"
   >}}
 
-  {{< hextra/feature-card
+  {{< ls-glass-feature-card
     title="محرك صوت احترافي"
     subtitle="استمتع بتشغيل حقيقي بدون فجوات وتشغيل متقاطع سلس بين المسارات. اضبط صوتك بمعادل من 10 نطاقات وإعدادات مسبقة مخصصة وكسب تضخيم مسبق، وسرعة تشغيل وطبقة صوت قابلتين للتعديل، بالإضافة إلى مجموعة كاملة من تأثيرات الاستوديو مثل الصدى والترجيع والكورس والفلانجر وتعزيز الجهير والتغذية المتقاطعة وتطبيع مستوى الصوت."
     icon="adjustments"
     style="background: radial-gradient(ellipse at 50% 80%, rgba(192,38,211,0.15), hsla(0,0%,100%,0));"
   >}}
 
-  {{< hextra/feature-card
+  {{< ls-glass-feature-card
     title="كلمات الأغاني والودجت وCarPlay"
     subtitle="اقرأ كلمات الأغاني المضمنة والمتزامنة بتنسيق LRC التي تتمرر مع إيقاع الموسيقى، حتى على شاشة القفل وفي ودجت الشاشة الرئيسية وعلى Apple CarPlay. أضف ودجت التشغيل الآن وكلمات الأغاني والمفضلة والمشغلة مؤخراً لتبقى موسيقاك في متناول يدك دائماً ومتزامنة."
     icon="annotation"
@@ -123,9 +123,9 @@ Evermusic هو مشغل موسيقى مجاني بدون اتصال بالإنت
 
 <div class="hx:mt-6"></div>
 
-{{< hextra/section-headline >}}
+{{< ls-section-headline >}}
   تصميم نظيف وبسيط
-{{< /hextra/section-headline >}}
+{{< /ls-section-headline >}}
 
 <div class="hx:mt-6"></div>
 
@@ -133,7 +133,7 @@ Evermusic هو مشغل موسيقى مجاني بدون اتصال بالإنت
 
 {{< cards cols="4">}}
 
-  {{< design-feature-card 
+  {{< ls-design-feature-card 
     icon="adjustments"
     image="/products/evermusic/screenshots/2048x2732/3.png" 
     title="معادل صوتي" 
@@ -142,7 +142,7 @@ Evermusic هو مشغل موسيقى مجاني بدون اتصال بالإنت
     subtitle="اضبط صوتك بدقة مع معادل صوتي على طراز iPod وإعدادات مسبقة قابلة للتخصيص ومكبر مسبق للحصول على أفضل تجربة استماع." 
   >}}
 
-  {{< design-feature-card 
+  {{< ls-design-feature-card 
     icon="annotation"
     image="/products/evermusic/screenshots/2048x2732/4.png"  
     title="عارض كلمات الأغاني" 
@@ -151,7 +151,7 @@ Evermusic هو مشغل موسيقى مجاني بدون اتصال بالإنت
     subtitle="اقرأ كلمات الأغاني المضمنة وتعليقات المسارات أثناء الاستماع. استمتع بكلمات الأغاني المتزامنة لتجربة موسيقية أكثر غمراً." 
   >}}
 
-  {{< design-feature-card 
+  {{< ls-design-feature-card 
     icon="collection"
     image="/products/evermusic/screenshots/2048x2732/5.png"  
     title="مدير قوائم التشغيل" 
@@ -160,7 +160,7 @@ Evermusic هو مشغل موسيقى مجاني بدون اتصال بالإنت
     subtitle="أنشئ ونظّم قوائم تشغيل مخصصة، وأعد ترتيب الأغاني، وصدّر إلى M3U، أو أرشفها كملفات ZIP للمشاركة أو النسخ الاحتياطي بسهولة." 
   >}}
 
-  {{< design-feature-card 
+  {{< ls-design-feature-card 
     icon="cloud"
     image="/products/evermusic/screenshots/2048x2732/6.png"  
     title="بث الموسيقى السحابي" 
@@ -169,7 +169,7 @@ Evermusic هو مشغل موسيقى مجاني بدون اتصال بالإنت
     subtitle="اربط أفضل منصات التخزين السحابي مثل Google Drive وDropbox وOneDrive لبث مجموعتك الموسيقية في أي وقت وأي مكان." 
   >}}
 
-  {{< design-feature-card 
+  {{< ls-design-feature-card 
     icon="duplicate"
     image="/products/evermusic/screenshots/2048x2732/9.png"  
     title="مدير الملفات" 
@@ -178,7 +178,7 @@ Evermusic هو مشغل موسيقى مجاني بدون اتصال بالإنت
     subtitle="أدر ملفاتك الصوتية بسهولة — أعد تسمية المسارات، ونظّم المجلدات، وانقل الموسيقى بين الأجهزة باستخدام الأدوات المدمجة." 
   >}} 
 
-  {{< design-feature-card 
+  {{< ls-design-feature-card 
     icon="sun"
     image="/products/evermusic/screenshots/2048x2732/10.png"  
     title="تخصيص التطبيق" 
@@ -193,9 +193,9 @@ Evermusic هو مشغل موسيقى مجاني بدون اتصال بالإنت
 
 <div class="hx:mt-6"></div>
 
-{{< hextra/section-headline >}}
+{{< ls-section-headline >}}
   مجموعة الميزات الكاملة
-{{< /hextra/section-headline >}}
+{{< /ls-section-headline >}}
 
 <div class="hx:mt-6"></div>
 
@@ -203,47 +203,47 @@ Evermusic هو مشغل موسيقى مجاني بدون اتصال بالإنت
 
 {{< cards >}}
 
-  {{< feature-card title="تشغيل جميع صيغ الصوت" subtitle="يشغّل Evermusic أشهر صيغ الصوت، بما في ذلك MP3 وAAC وM4A وWAV وAIFF وALAC وM4B، حتى تكون مجموعتك الموسيقية بالكامل جاهزة للتشغيل على أي جهاز." icon="music-note" >}}
+  {{< ls-feature-card title="تشغيل جميع صيغ الصوت" subtitle="يشغّل Evermusic أشهر صيغ الصوت، بما في ذلك MP3 وAAC وM4A وWAV وAIFF وALAC وM4B، حتى تكون مجموعتك الموسيقية بالكامل جاهزة للتشغيل على أي جهاز." icon="music-note" >}}
 
-  {{< feature-card title="اربط سحابتك" subtitle="أنشئ خدمة البث الخاصة بك بنقل مكتبتك إلى السحابة وتحرير مساحة أيفون. اربط iCloud وGoogle Drive وDropbox وOneDrive وMEGA وInternxt وProton Drive." icon="cloud" >}}
+  {{< ls-feature-card title="اربط سحابتك" subtitle="أنشئ خدمة البث الخاصة بك بنقل مكتبتك إلى السحابة وتحرير مساحة أيفون. اربط iCloud وGoogle Drive وDropbox وOneDrive وMEGA وInternxt وProton Drive." icon="cloud" >}}
 
-  {{< feature-card title="اربط خوادم الوسائط" subtitle="اربط خوادم الوسائط الشخصية مباشرة بمكتبتك، بما في ذلك Plex وSubsonic وNavidrome وJellyfin وEmby، وبث كل ما تملكه من المنزل بسهولة." icon="server" >}}
+  {{< ls-feature-card title="اربط خوادم الوسائط" subtitle="اربط خوادم الوسائط الشخصية مباشرة بمكتبتك، بما في ذلك Plex وSubsonic وNavidrome وJellyfin وEmby، وبث كل ما تملكه من المنزل بسهولة." icon="server" >}}
 
-  {{< feature-card title="اربط الكمبيوتر أو NAS" subtitle="اربط الكمبيوتر أو جهاز NAS عبر SMB وWebDAV وDLNA وFTP وSFTP وNFS، مع واجهات برمجية أصلية لـ QNAP وSynology وNextcloud وWD My Cloud Home، أو انقل الملفات عبر Wi-Fi." icon="desktop-computer" >}}
+  {{< ls-feature-card title="اربط الكمبيوتر أو NAS" subtitle="اربط الكمبيوتر أو جهاز NAS عبر SMB وWebDAV وDLNA وFTP وSFTP وNFS، مع واجهات برمجية أصلية لـ QNAP وSynology وNextcloud وWD My Cloud Home، أو انقل الملفات عبر Wi-Fi." icon="desktop-computer" >}}
 
-  {{< feature-card title="موسيقى بدون إنترنت" subtitle="حمّل أغانيك وألبوماتك وفنانيك المفضلين للاستمتاع بهم بدون إنترنت في أي وقت. فعّل التخزين المؤقت لمشغل الصوت لحفظ المسارات المشغلة مؤخراً تلقائياً للاستماع بدون إنترنت." icon="download" >}}
+  {{< ls-feature-card title="موسيقى بدون إنترنت" subtitle="حمّل أغانيك وألبوماتك وفنانيك المفضلين للاستمتاع بهم بدون إنترنت في أي وقت. فعّل التخزين المؤقت لمشغل الصوت لحفظ المسارات المشغلة مؤخراً تلقائياً للاستماع بدون إنترنت." icon="download" >}}
 
-  {{< feature-card title="معادل صوتي" subtitle="اضبط صوتك مع المعادل المدمج، الذي يتميز بإعدادات مسبقة جاهزة لأنواع الموسيقى الشائعة بالإضافة إلى تحكم يدوي لضبط وتضخيم كل مسار تماماً كما تريد." icon="adjustments" >}}
+  {{< ls-feature-card title="معادل صوتي" subtitle="اضبط صوتك مع المعادل المدمج، الذي يتميز بإعدادات مسبقة جاهزة لأنواع الموسيقى الشائعة بالإضافة إلى تحكم يدوي لضبط وتضخيم كل مسار تماماً كما تريد." icon="adjustments" >}}
 
-  {{< feature-card title="التشغيل بدون فجوات" subtitle="استمتع بتشغيل سلس وغير منقطع بلا توقف بين الأغاني، مثالي للتسجيلات الحية والألبومات المفاهيمية وميكسات الدي جي والموسيقى الكلاسيكية من البداية إلى النهاية." icon="volume-up" >}}
+  {{< ls-feature-card title="التشغيل بدون فجوات" subtitle="استمتع بتشغيل سلس وغير منقطع بلا توقف بين الأغاني، مثالي للتسجيلات الحية والألبومات المفاهيمية وميكسات الدي جي والموسيقى الكلاسيكية من البداية إلى النهاية." icon="volume-up" >}}
 
-  {{< feature-card title="التشغيل المتقاطع" subtitle="حافظ على تدفق الموسيقى مع التشغيل المتقاطع، حيث تبدأ كل أغنية جديدة بلطف قبل انتهاء الحالية لتشغيل سلس ومتواصل بدون أي فترات صمت." icon="switch-horizontal" >}}
+  {{< ls-feature-card title="التشغيل المتقاطع" subtitle="حافظ على تدفق الموسيقى مع التشغيل المتقاطع، حيث تبدأ كل أغنية جديدة بلطف قبل انتهاء الحالية لتشغيل سلس ومتواصل بدون أي فترات صمت." icon="switch-horizontal" >}}
 
-  {{< feature-card title="التأثيرات الصوتية" subtitle="اضبط صوتك مع التأثيرات الصوتية المدمجة. فعّل تطبيع مستوى الصوت لإبقاء كل مسار على نفس مستوى الجهارة، وأضف الصدى والتأخير والتشويه والصوت المكاني حسب ذوقك." icon="chip" >}}
+  {{< ls-feature-card title="التأثيرات الصوتية" subtitle="اضبط صوتك مع التأثيرات الصوتية المدمجة. فعّل تطبيع مستوى الصوت لإبقاء كل مسار على نفس مستوى الجهارة، وأضف الصدى والتأخير والتشويه والصوت المكاني حسب ذوقك." icon="chip" >}}
 
-  {{< feature-card title="مُصوِّر الموسيقى" subtitle="شاهد مؤثرات بصرية متحركة بملء الشاشة تتفاعل حياً مع موسيقاك في الوقت الفعلي. اختر من مكتبة كبيرة من الإعدادات المسبقة أو دعها تتبدل تلقائياً أثناء الاستماع." icon="sparkles" >}}
+  {{< ls-feature-card title="مُصوِّر الموسيقى" subtitle="شاهد مؤثرات بصرية متحركة بملء الشاشة تتفاعل حياً مع موسيقاك في الوقت الفعلي. اختر من مكتبة كبيرة من الإعدادات المسبقة أو دعها تتبدل تلقائياً أثناء الاستماع." icon="sparkles" >}}
 
-  {{< feature-card title="كلمات الأغاني والتعليقات" subtitle="اعرض كلمات الأغاني المؤقتة والتعليقات المضمنة لمساراتك الصوتية أثناء تشغيلها، وأضف ودجت كلمات الأغاني إلى الشاشة الرئيسية للوصول السريع في أي وقت." icon="annotation" >}}
+  {{< ls-feature-card title="كلمات الأغاني والتعليقات" subtitle="اعرض كلمات الأغاني المؤقتة والتعليقات المضمنة لمساراتك الصوتية أثناء تشغيلها، وأضف ودجت كلمات الأغاني إلى الشاشة الرئيسية للوصول السريع في أي وقت." icon="annotation" >}}
 
-  {{< feature-card title="AirPlay وChromecast" subtitle="بث موسيقاك لاسلكياً إلى Apple TV والسماعات الذكية والأجهزة الأخرى مع دعم مدمج لـ AirPlay وGoogle Chromecast للاستماع في كل أنحاء المنزل بلا عناء." icon="device-mobile" >}}
+  {{< ls-feature-card title="AirPlay وChromecast" subtitle="بث موسيقاك لاسلكياً إلى Apple TV والسماعات الذكية والأجهزة الأخرى مع دعم مدمج لـ AirPlay وGoogle Chromecast للاستماع في كل أنحاء المنزل بلا عناء." icon="device-mobile" >}}
 
-  {{< feature-card title="Apple CarPlay" subtitle="قد واستمع بأمان مع واجهة Apple CarPlay مخصصة تضع موسيقاك وقوائم تشغيلك وعناصر التحكم في التشغيل مباشرة على شاشة لوحة قيادة سيارتك." icon="truck" >}}
+  {{< ls-feature-card title="Apple CarPlay" subtitle="قد واستمع بأمان مع واجهة Apple CarPlay مخصصة تضع موسيقاك وقوائم تشغيلك وعناصر التحكم في التشغيل مباشرة على شاشة لوحة قيادة سيارتك." icon="truck" >}}
 
-  {{< feature-card title="الودجت" subtitle="فعّل ودجت الشاشة الرئيسية التفاعلية للوصول السريع إلى طابور التشغيل، وتابع من حيث توقفت من آخر موضع محفوظ بلمسة واحدة." icon="view-grid" >}}
+  {{< ls-feature-card title="الودجت" subtitle="فعّل ودجت الشاشة الرئيسية التفاعلية للوصول السريع إلى طابور التشغيل، وتابع من حيث توقفت من آخر موضع محفوظ بلمسة واحدة." icon="view-grid" >}}
 
-  {{< feature-card title="الكتب الصوتية" subtitle="حوّل التطبيق إلى مشغل كتب صوتية كامل مع إشارات مرجعية صوتية والتحكم في سرعة التشغيل ومواضع الوسائط المحفوظة، بالإضافة إلى قراءة التفاصيل النصية المخزنة في البيانات الوصفية لملفاتك." icon="book-open" >}}
+  {{< ls-feature-card title="الكتب الصوتية" subtitle="حوّل التطبيق إلى مشغل كتب صوتية كامل مع إشارات مرجعية صوتية والتحكم في سرعة التشغيل ومواضع الوسائط المحفوظة، بالإضافة إلى قراءة التفاصيل النصية المخزنة في البيانات الوصفية لملفاتك." icon="book-open" >}}
 
-  {{< feature-card title="مزامنة تلقائية" subtitle="تتزامن مكتبتك الموسيقية تلقائياً بين السحابة وجهازك، مع تجميع كل أغنية بدقة حسب الفنان والألبوم والنوع حتى تبقى مجموعتك منظمة دائماً." icon="refresh" >}}
+  {{< ls-feature-card title="مزامنة تلقائية" subtitle="تتزامن مكتبتك الموسيقية تلقائياً بين السحابة وجهازك، مع تجميع كل أغنية بدقة حسب الفنان والألبوم والنوع حتى تبقى مجموعتك منظمة دائماً." icon="refresh" >}}
 
-  {{< feature-card title="مدير قوائم التشغيل" subtitle="أنشئ وأدر قوائم التشغيل، وأعد ترتيب الأغاني، واجعل أي قائمة تشغيل متاحة بدون إنترنت. رتّب مساراتك حسب الاسم أو الحجم أو رقم الأغنية أو الألبوم لإبقاء كل شيء في نظامه." icon="collection" >}}
+  {{< ls-feature-card title="مدير قوائم التشغيل" subtitle="أنشئ وأدر قوائم التشغيل، وأعد ترتيب الأغاني، واجعل أي قائمة تشغيل متاحة بدون إنترنت. رتّب مساراتك حسب الاسم أو الحجم أو رقم الأغنية أو الألبوم لإبقاء كل شيء في نظامه." icon="collection" >}}
 
-  {{< feature-card title="محرر علامات ID3" subtitle="أصلح البيانات الوصفية التالفة أو المفقودة مع محرر علامات ID3 المدمج، محدّثاً العناوين والفنانين والألبومات والمزيد حتى تبقى مكتبتك الموسيقية نظيفة ومنظمة جيداً." icon="pencil-alt" >}}
+  {{< ls-feature-card title="محرر علامات ID3" subtitle="أصلح البيانات الوصفية التالفة أو المفقودة مع محرر علامات ID3 المدمج، محدّثاً العناوين والفنانين والألبومات والمزيد حتى تبقى مكتبتك الموسيقية نظيفة ومنظمة جيداً." icon="pencil-alt" >}}
 
-  {{< feature-card title="مدير الملفات" subtitle="نظّم موسيقاك مع مدير الملفات المدمج، الذي يتعامل مع العمليات اليومية مثل النسخ والنقل وإعادة التسمية والحذف لإبقاء جميع ملفاتك الصوتية في نظامها بدقة." icon="folder" >}}
+  {{< ls-feature-card title="مدير الملفات" subtitle="نظّم موسيقاك مع مدير الملفات المدمج، الذي يتعامل مع العمليات اليومية مثل النسخ والنقل وإعادة التسمية والحذف لإبقاء جميع ملفاتك الصوتية في نظامها بدقة." icon="folder" >}}
 
-  {{< feature-card title="بحث متقدم" subtitle="اعثر على أي شيء في ثوانٍ مع محرك البحث الذكي، مع تحديد سريع لألبوماتك وفنانيك وأغانيك المفضلة في أي مكان عبر مكتبتك الموسيقية بالكامل." icon="search" >}}
+  {{< ls-feature-card title="بحث متقدم" subtitle="اعثر على أي شيء في ثوانٍ مع محرك البحث الذكي، مع تحديد سريع لألبوماتك وفنانيك وأغانيك المفضلة في أي مكان عبر مكتبتك الموسيقية بالكامل." icon="search" >}}
 
-  {{< feature-card title="بطاقات ذاكرة USB" subtitle="اربط قارئات بطاقات خارجية مثل SanDisk iXpand واستمع إلى موسيقاك مباشرة من بطاقة SD أو محرك أقراص USB، بدون أي مزامنة أو تنزيلات إضافية." icon="inbox" >}}
+  {{< ls-feature-card title="بطاقات ذاكرة USB" subtitle="اربط قارئات بطاقات خارجية مثل SanDisk iXpand واستمع إلى موسيقاك مباشرة من بطاقة SD أو محرك أقراص USB، بدون أي مزامنة أو تنزيلات إضافية." icon="inbox" >}}
   
 {{< /cards >}}
 
@@ -254,55 +254,55 @@ Evermusic هو مشغل موسيقى مجاني بدون اتصال بالإنت
 <div class="hx:mt-6"></div>
 
 <div class="hx:w-full">
-{{< appstore-reviews apps="885367198,1564384601" stars="5,4"  app="Evermusic" >}}
+{{< ls-appstore-reviews apps="885367198,1564384601" stars="5,4"  app="Evermusic" >}}
 </div>
 
 <div class="hx:mt-6"></div>
 
-{{< hextra/section-headline >}}
+{{< ls-section-headline >}}
   خطط الأسعار
-{{< /hextra/section-headline >}}
+{{< /ls-section-headline >}}
 
 <div class="hx:mt-6"></div>
 
 <div class="hx:w-full">
-{{< pricing-plans >}}
+{{< ls-pricing-plans >}}
 
 </div>
 
 <div class="hx:mt-6"></div>
 
 <div class="hx:w-full hx:mx-auto hx:flex hx:flex-col hx:items-center">
-  {{< hextra/info-paragraph border="true" >}}
+  {{< ls-info-paragraph border="true" >}}
    <strong>المشاركة العائلية</strong>: جميع عمليات الشراء والاشتراكات تدعم المشاركة العائلية، مما يتيح لك مشاركة الوصول المميز مع عائلتك.<br><strong>الوصول الشامل</strong>: يتم مشاركة خطط مدى الحياة والاشتراكات بين أجهزة iOS وMac باستخدام مزامنة iCloud.<br><strong>الأسعار</strong>: تُعرض الأسعار بالدولار الأمريكي للولايات المتحدة. قد يختلف السعر النهائي بناءً على منطقتك.  
-  {{< /hextra/info-paragraph >}}
+  {{< /ls-info-paragraph >}}
 </div>
 
 <div class="hx:mt-6"></div>
 
 <div class="hx:w-full">
-{{< app-details heading="true" >}}
+{{< ls-app-details heading="true" >}}
 </div>
 
 <div class="hx:mt-6"></div>
 
-{{< hextra/section-headline >}}
+{{< ls-section-headline >}}
   الأسئلة الشائعة
-{{< /hextra/section-headline >}}
+{{< /ls-section-headline >}}
 
 <div class="hx:mt-6"></div>
 
 <div class="hx:w-full">
-{{% details title="ما هو Evermusic؟" closed="true" %}}
+{{% ls-details title="ما هو Evermusic؟" closed="true" %}}
 Evermusic هو تطبيق مشغل موسيقى يساعدك على الاستماع إلى أغانيك المفضلة من خدمات التخزين السحابي المختلفة.<br>
 يمكنك بسهولة تنزيل الموسيقى للتشغيل بدون إنترنت، وإنشاء وإدارة قوائم التشغيل، واستخدام معادل صوتي مدمج لتحسين تجربة الاستماع.<br>
 يعمل مع خدمات مثل Google Drive وDropbox وOneDrive والمزيد، حتى تتمكن من الاحتفاظ بجميع موسيقاك في مكان واحد والوصول إليها من أي جهاز.<br><br>
 يدعم التطبيق أيضاً صيغ صوتية متنوعة ويتيح لك تنظيم مكتبتك الموسيقية حسب الفنان والألبوم والنوع والمؤلف.<br>
 يمكنك مزامنة مكتبتك بين التخزين السحابي وجهازك، لضمان توفر أغانيك المفضلة دائماً.<br>
 بالإضافة إلى ذلك، مع ميزات مثل التشغيل بدون فجوات والتشغيل المتقاطع والقدرة على بث الموسيقى إلى أجهزة Chromecast وAirPlay، يقدم Evermusic حلاً كاملاً لجميع احتياجاتك الموسيقية.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="كيف يعمل Evermusic؟" closed="true" %}}
+{{% ls-details title="كيف يعمل Evermusic؟" closed="true" %}}
 يعمل Evermusic من خلال الاتصال بخدمات التخزين السحابي المختلفة، مثل Google Drive وDropbox وOneDrive وغيرها، مما يتيح لك الوصول إلى مكتبتك الموسيقية من أي جهاز.<br>
 بمجرد الاتصال، يمكنك تصفح وبث موسيقاك مباشرة من السحابة، أو تنزيل أغانيك وألبوماتك وقوائم تشغيلك المفضلة للتشغيل بدون إنترنت.<br>
 يدعم التطبيق صيغ صوتية متعددة، مما يسهل تشغيل أي ملف موسيقي مخزن لديك.<br><br>
@@ -322,15 +322,15 @@ Evermusic هو تطبيق مشغل موسيقى يساعدك على الاستم
 - [كيفية نقل الملفات لاسلكياً من الكمبيوتر إلى أيفون باستخدام WiFi-Drive.](/docs/howto/how-to-transfer-files-wirelessly-from-a-computer-to-an-iphone-using-wifi-drive)<br>
 - [كيفية توصيل بطاقة ذاكرة USB بأيفون والاستماع إلى الموسيقى أو إدارة الملفات الموجودة عليها.](/docs/howto/how-to-connect-a-usb-flashcard-to-the-iphone-and-listen-to-music-or-manage-files-located-on-it)<br>
 - [كيفية تشغيل الموسيقى على أيفون من WD My Cloud Home.](/docs/howto/how-to-play-music-on-iphone-from-wd-my-cloud-home)
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="هل Evermusic مجاني؟" closed="true" %}}
+{{% ls-details title="هل Evermusic مجاني؟" closed="true" %}}
 Evermusic هو تطبيق مجاني مع بعض القيود التي يمكنك إزالتها بعد الترقية إلى النسخة المميزة. يقدم التطبيق شراء لمرة واحدة مدى الحياة وخيارين للاشتراك (شهر واحد وسنة واحدة) لإزالة جميع القيود، مما يتيح لك اختيار أفضل سعر وأكثره ملاءمة لك. قد تختلف الأسعار حسب بلدك أو منطقتك. كما يرجى ملاحظة أن المشاركة العائلية مفعلة لجميع عمليات الشراء والخطط، حتى تتمكن من مشاركة النسخة المميزة مع أفراد عائلتك.<br><br>
 عمليات الشراء مدى الحياة والاشتراكات مشتركة بين iOS وMac، باستخدام iCloud لمزامنة هذه المعلومات. إذا كانت لديك النسخة المميزة على جهاز iOS، يرجى التأكد من تثبيت أحدث إصدار وتفعيل iCloud. ابدأ التطبيق على iOS وانتظر دقيقة واحدة لرفع معلومات الشراء إلى iCloud.<br><br>
 [اقرأ المزيد](/docs/faq/evermusic/what-is-the-difference-between-evermusic-and-evermusic-premium/)
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="ما الفرق بين Evermusic المجاني وEvermusic Premium؟" closed="true" %}}
+{{% ls-details title="ما الفرق بين Evermusic المجاني وEvermusic Premium؟" closed="true" %}}
 **Evermusic المجاني**<br>
 • يحتوي على إعلانات: تعرض النسخة المجانية إعلانات لتوليد الإيرادات، مما قد يقاطع استماعك للموسيقى أحياناً.<br>
 • قوائم تشغيل محدودة: يمكنك إنشاء ما يصل إلى (10) قوائم تشغيل في النسخة المجانية.<br>
@@ -357,10 +357,10 @@ Evermusic هو تطبيق مجاني مع بعض القيود التي يمكن�
 • تخصيص كامل: يوفر خيارات تخصيص كاملة، بما في ذلك القدرة على تغيير أيقونة التطبيق.<br><br>
 
 [اقرأ المزيد](/docs/faq/evermusic/what-is-the-difference-between-evermusic-and-evermusic-premium/)
-{{% /details %}}
+{{% /ls-details %}}
 
 
-{{% details title="هل Evermusic آمن؟" closed="true" %}}
+{{% ls-details title="هل Evermusic آمن؟" closed="true" %}}
 يستخدم Evermusic فقط SDK رسمي واتصالات آمنة للتفاعل مع الخدمات السحابية المتصلة. اسم المستخدم وكلمة المرور غير متاحين للتطبيق. جميع الطلبات من التطبيق إلى الخدمة السحابية مشفرة.<br>
 عند إدخال اسم المستخدم وكلمة المرور، يعرض لك التطبيق صفحة التفويض الرسمية المقدمة من مزود الخدمة السحابية وتتم عملية التفويض بالكامل خارج التطبيق. يرسل مزود الخدمة السحابية رمز تفويض إلى التطبيق بعد التفويض الناجح ويُستخدم هذا الرمز لإجراء استدعاءات API.<br><br>
 
@@ -372,24 +372,24 @@ Evermusic هو تطبيق مجاني مع بعض القيود التي يمكن�
 يمكنك أيضاً فصل الحسابات السحابية المتصلة في التطبيق وسيتم أيضاً إزالة رمز التفويض من جهازك. إذا أزلت التطبيق من جهازك، فستتم إزالة جميع البيانات المنزلة ورموز الوصول أيضاً.<br><br>
 
 [اقرأ المزيد](/docs/guide/evermusic/evermusic-guide-connections/)
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="كيف أنشئ قائمة تشغيل في Evermusic؟" closed="true" %}}
+{{% ls-details title="كيف أنشئ قائمة تشغيل في Evermusic؟" closed="true" %}}
 - افتح قسم قوائم التشغيل.<br>
 - اضغط على زر "+" أو زر "..." في الزاوية العلوية اليمنى واختر "قائمة تشغيل جديدة".<br>
 - أدخل اسماً لقائمة التشغيل واضغط "حفظ". ستظهر نافذة "إضافة أغاني".<br>
 - اختر المسارات التي تريد إضافتها إلى قائمة التشغيل.<br><br>
 
 [اقرأ المزيد](/docs/guide/evermusic/evermusic-guide-playlists/)
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="ما هي خدمات السحابة التي يدعمها Evermusic؟" closed="true" %}}
+{{% ls-details title="ما هي خدمات السحابة التي يدعمها Evermusic؟" closed="true" %}}
 حالياً، يدعم التطبيق أكثر خدمات السحابة شعبية: iCloud Drive وGoogle Drive وDropbox وOneDrive وBox وMEGA وYandex.Disk وWD MyCloud Home وDLNA وMediaFire وWebDAV وSMB وpCloud وHiDrive و百度网盘 وMy Cloud Home وInfiniCLOUD وCloud Mail.ru وPut.io وMyDrive.<br><br>
 
 [اقرأ المزيد](/docs/guide/evermusic/evermusic-guide-connections/)
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="كيف يمكنني استخدام المعادل الصوتي؟" closed="true" %}}
+{{% ls-details title="كيف يمكنني استخدام المعادل الصوتي؟" closed="true" %}}
 - افتح شاشة مشغل الصوت.<br>
 - اضغط على أيقونة "المعادل" أسفل الشاشة.<br>
 - قم بتشغيل مفتاح التحكم في الزاوية العلوية اليمنى على شاشة المعادل لتفعيل المعادل.<br>
@@ -397,9 +397,9 @@ Evermusic هو تطبيق مجاني مع بعض القيود التي يمكن�
 
 الدليل الكامل متاح هنا:<br>
 [كيفية استخدام المعادل الصوتي على أيفون وآيباد وماك مع Evermusic وFlacbox](/docs/howto/how-to-use-the-audio-equalizer-on-your-iphone-ipad-mac-with-evermusic-and-flacbox)
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="كيف أفعّل وضع عدم الاتصال في Evermusic؟" closed="true" %}}
+{{% ls-details title="كيف أفعّل وضع عدم الاتصال في Evermusic؟" closed="true" %}}
 - اتصل بخدمة سحابية:<br>
  • انتقل إلى علامة تبويب "الاتصالات".<br>
  • اختر "اتصل بتخزين سحابي" واتبع التعليمات لتوصيل الخدمة المطلوبة.<br><br>
@@ -423,9 +423,9 @@ Evermusic هو تطبيق مجاني مع بعض القيود التي يمكن�
  • اضغط على "المزيد من الإجراءات" واختر "بدء المزامنة".<br><br>
 
 [اقرأ المزيد](/docs/howto/play-offline-music-in-evermusic-flacbox-download-sync-from-cloud-to-local-files/)
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="كيف تشغل الموسيقى المحملة محلياً على أيفون؟" closed="true" %}}
+{{% ls-details title="كيف تشغل الموسيقى المحملة محلياً على أيفون؟" closed="true" %}}
 بمجرد تثبيت التطبيق، افتح شاشة "الملفات المحلية" وانتقل لأسفل إلى قسم "الملفات على هذا الأيفون".<br>
 من هناك، اختر "فتح ملفات..." إذا كنت بحاجة لاختيار عدة ملفات صوتية أو "فتح مجلد..." إذا كنت تريد اختيار مجلد موسيقى.<br>
 سيقوم التطبيق بمسح محتويات المجلد، وسيتم تحديد جميع الملفات الصوتية الموجودة.<br>
@@ -456,15 +456,15 @@ Evermusic هو تطبيق مجاني مع بعض القيود التي يمكن�
 بهذه الخطوات البسيطة، يمكنك إطلاق العنان للإمكانيات الكاملة لأيفون وماك كمنصتين مثاليتين للاستمتاع بمجموعتك الموسيقية المحلية العزيزة.<br><br>
 
 [اقرأ المزيد](/docs/howto/how-to-play-local-music-stored-on-your-iphone-or-mac)
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="كيف يمكنني استئناف قائمة تشغيل من حيث توقفت؟" closed="true" %}}
+{{% ls-details title="كيف يمكنني استئناف قائمة تشغيل من حيث توقفت؟" closed="true" %}}
 أولاً، تأكد من تفعيل "حفظ حالة مشغل الصوت" في الإعدادات > مشغل الصوت > عام.<br>
 عند التبديل إلى قائمة تشغيل أخرى والعودة، سترى أربعة إجراءات على شريط الأدوات العلوي أسفل غلاف الألبوم: "بحث" و"متابعة التشغيل" و"تشغيل الكل" و"تشغيل عشوائي".<br>
 اضغط "متابعة التشغيل" لاستئناف قائمة التشغيل من آخر حالة محفوظة وموضع الوسائط.<br>
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="كيف تعرض كلمات الأغاني في Evermusic؟" closed="true" %}}
+{{% ls-details title="كيف تعرض كلمات الأغاني في Evermusic؟" closed="true" %}}
 يمكنك عرض كلمات الأغاني المضمنة للمسارات في تطبيق Evermusic باتباع هذه الخطوات:<br>
 1. ابدأ تشغيل ملف صوتي بالضغط عليه.<br>
 2. افتح مشغل الصوت بملء الشاشة.<br>
@@ -478,9 +478,9 @@ Evermusic هو تطبيق مجاني مع بعض القيود التي يمكن�
 3. "وضع ملف LRC": بدلاً من تحرير الملفات الصوتية، يمكنك وضع ملف LRC في نفس المجلد مع الملف الصوتي الأصلي. يجب أن يكون لكلا الملفين نفس الاسم ولكن بامتدادات مختلفة. عند التمرير إلى الصفحة الثالثة على شاشة التعليقات، سيبحث التطبيق عن ملف LRC في نفس الدليل ويعرض محتواه.<br><br>
 
 [اقرأ المزيد](/docs/howto/how-to-add-and-view-comments-to-your-audio-tracks-on-iphone-ipad-and-mac-with-evermusic-and-flacbox)
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="كيف أنقل الموسيقى إلى Evermusic من جهاز الكمبيوتر؟" closed="true" %}}
+{{% ls-details title="كيف أنقل الموسيقى إلى Evermusic من جهاز الكمبيوتر؟" closed="true" %}}
 يمكنك توصيل جهاز الكمبيوتر أو NAS الشخصي باستخدام بروتوكولات SMB أو WebDAV أو DLNA. بدلاً من ذلك، استخدم مشاركة ملفات iTunes لنقل الموسيقى.<br><br>
 
 لتوصيل كمبيوتر باستخدام بروتوكول **SMB** اضغط "اتصل بخدمة سحابية" → SMB.<br>
@@ -517,9 +517,9 @@ Evermusic هو تطبيق مجاني مع بعض القيود التي يمكن�
 
 مع **DLNA** يمكنك أيضاً إعداد خادم وسائط DLNA وبث موسيقاك من كمبيوتر Windows كما هو موضح هنا:<br>
 [كيفية تمكين خادم وسائط DLNA على Windows 10 وتشغيل موسيقاك على أيفون](/docs/howto/how-to-enable-dlna-media-server-on-windows-10-and-play-your-music-on-iphone)
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="كيف تحمّل الموسيقى؟" closed="true" %}}
+{{% ls-details title="كيف تحمّل الموسيقى؟" closed="true" %}}
 قبل أن تتمكن من تنزيل الموسيقى والاستماع إلى موسيقاك بدون اتصال، يجب عليك توصيل حساب شبكة.<br>
 فقط افتح شاشة "الاتصالات" وأضف حسابك.<br>
 بمجرد إضافة حساب شبكة، يمكنك تنزيل موسيقاك من السحابة.<br><br>
@@ -540,9 +540,9 @@ Evermusic هو تطبيق مجاني مع بعض القيود التي يمكن�
 
 خيار آخر متاح هو تنزيل الموسيقى من YouTube واستيرادها في Evermusic كما هو موضح هنا:<br>
 [كيفية تنزيل الموسيقى من YouTube والاستماع إلى الموسيقى بدون اتصال على أيفون](/docs/howto/how-to-download-music-from-youtube-and-listen-to-offline-music-on-iphone)
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="هل يدعم Evermusic Apple CarPlay؟" closed="true" %}}
+{{% ls-details title="هل يدعم Evermusic Apple CarPlay؟" closed="true" %}}
 نعم، **يدعم Evermusic Apple CarPlay بالكامل**. يمكنك تصفح مكتبتك الموسيقية وتشغيل الملفات المحلية أو بدون اتصال والاتصال بالتخزين السحابي والتحكم في التشغيل مباشرة من شاشة المعلومات والترفيه في سيارتك.
 
 تتضمن واجهة CarPlay علامات تبويب مخصصة لـ **المكتبة** و**الاتصالات** و**الملفات المحلية** و**الإعدادات**، مما يمنحك التحكم الكامل في موسيقاك أثناء القيادة. عناصر التحكم في التشغيل والتشغيل العشوائي والتكرار وإدارة الطابور متاحة أيضاً.
@@ -550,9 +550,9 @@ Evermusic هو تطبيق مجاني مع بعض القيود التي يمكن�
 لاستخدام CarPlay، تأكد من تفعيل Siri وأن أيفون متصل عبر USB أو لاسلكياً.
 
 [اقرأ الدليل الكامل](/docs/howto/how-to-play-your-own-music-on-iphone-using-carplay/)
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="ما هي صيغ الصوت التي يدعمها Evermusic؟" closed="true" %}}
+{{% ls-details title="ما هي صيغ الصوت التي يدعمها Evermusic؟" closed="true" %}}
 إليك القائمة الكاملة لصيغ الصوت المدعومة وامتدادات الملفات المقابلة لها:<br><br>
 
 **صيغ الصوت المدعومة:**<br>
@@ -570,40 +570,40 @@ Evermusic هو تطبيق مجاني مع بعض القيود التي يمكن�
 mpeg, aifc, 3gp, avi, aif, latm, 3gpp, m4a, loas, cdda, aac, m4p, m4b, ac3, pls, mp4v, m3u, m4r, aiff, xhe, mp1, snd, mp2, wav, qt, wave, m3u8, m4v, mp3, 3g2, caf, mp4, flac, au, w64, ec3, adts, amr, vtt, mpa, aa<br><br>
 
 مع هذا النطاق الواسع من الصيغ وامتدادات الملفات المدعومة، يمكنك الاستمتاع بموسيقاك بالصيغة التي تختارها.
-{{% /details %}}
+{{% /ls-details %}}
 
 </div>
 
 <div class="hx:mt-6"></div>
 
-{{< hextra/section-headline >}}
+{{< ls-section-headline >}}
   دليل المستخدم
-{{< /hextra/section-headline >}}
+{{< /ls-section-headline >}}
 
 <div class="hx:mt-6"></div>
 
 <div class="hx:w-full">
 
 <div class="hx:w-full hx:mx-auto hx:flex hx:flex-col hx:items-center hx:text-center">
-  {{< hextra/info-paragraph border="false" >}}
+  {{< ls-info-paragraph border="false" >}}
   سيساعدك هذا الدليل على الحصول على أفضل تجربة من Evermusic على أيفون أو آيباد أو ماك. تعلم كيفية بث الموسيقى من السحابة وإدارة كتبك الصوتية ونقل الموسيقى بين الأجهزة. يمنحك Evermusic التحكم الكامل في مجموعتك الموسيقية في تطبيق واحد سهل.
-  {{< /hextra/info-paragraph >}}
+  {{< /ls-info-paragraph >}}
 </div>
 
 {{< cards >}}
-  {{< feature-card icon="location-marker" title="التنقل" subtitle="تعلم كيفية التنقل في Evermusic باستخدام شريط علامات التبويب على أيفون أو القائمة اليسرى على آيباد وماك." link="/docs/guide/evermusic/evermusic-guide-navigation" >}}
+  {{< ls-feature-card icon="location-marker" title="التنقل" subtitle="تعلم كيفية التنقل في Evermusic باستخدام شريط علامات التبويب على أيفون أو القائمة اليسرى على آيباد وماك." link="/docs/guide/evermusic/evermusic-guide-navigation" >}}
 
-  {{< feature-card icon="cloud" title="الاتصالات" subtitle="اربط حساباتك السحابية وأدر الملفات عبر الإنترنت باستخدام مدير الملفات المدمج." link="/docs/guide/evermusic/evermusic-guide-connections" >}}
+  {{< ls-feature-card icon="cloud" title="الاتصالات" subtitle="اربط حساباتك السحابية وأدر الملفات عبر الإنترنت باستخدام مدير الملفات المدمج." link="/docs/guide/evermusic/evermusic-guide-connections" >}}
 
-  {{< feature-card icon="library" title="مكتبة الموسيقى" subtitle="نظّم واستكشف مساراتك وألبوماتك وفنانيك في مكتبة الموسيقى." link="/docs/guide/evermusic/evermusic-guide-music-library" >}}
+  {{< ls-feature-card icon="library" title="مكتبة الموسيقى" subtitle="نظّم واستكشف مساراتك وألبوماتك وفنانيك في مكتبة الموسيقى." link="/docs/guide/evermusic/evermusic-guide-music-library" >}}
 
-  {{< feature-card icon="collection" title="قوائم التشغيل" subtitle="أنشئ ورتّب قوائم التشغيل لتناسب مزاجك أو مناسبتك." link="/docs/guide/evermusic/evermusic-guide-playlists" >}}
+  {{< ls-feature-card icon="collection" title="قوائم التشغيل" subtitle="أنشئ ورتّب قوائم التشغيل لتناسب مزاجك أو مناسبتك." link="/docs/guide/evermusic/evermusic-guide-playlists" >}}
 
-  {{< feature-card icon="folder" title="الملفات المحلية" subtitle="الوصول وإدارة الموسيقى بدون اتصال من خلال قسم الملفات المحلية." link="/docs/guide/evermusic/evermusic-guide-local-files" >}}
+  {{< ls-feature-card icon="folder" title="الملفات المحلية" subtitle="الوصول وإدارة الموسيقى بدون اتصال من خلال قسم الملفات المحلية." link="/docs/guide/evermusic/evermusic-guide-local-files" >}}
 
-  {{< feature-card icon="play" title="مشغل الصوت" subtitle="تحكم في التشغيل والطابور وإعدادات الصوت مثل المعادل ومؤقت النوم." link="/docs/guide/evermusic/evermusic-guide-player" >}}
+  {{< ls-feature-card icon="play" title="مشغل الصوت" subtitle="تحكم في التشغيل والطابور وإعدادات الصوت مثل المعادل ومؤقت النوم." link="/docs/guide/evermusic/evermusic-guide-player" >}}
 
-  {{< feature-card icon="adjustments" title="الإعدادات" subtitle="خصّص مظهر Evermusic وميزاته وإعدادات الأداء." link="/docs/guide/evermusic/evermusic-guide-settings" >}}
+  {{< ls-feature-card icon="adjustments" title="الإعدادات" subtitle="خصّص مظهر Evermusic وميزاته وإعدادات الأداء." link="/docs/guide/evermusic/evermusic-guide-settings" >}}
 
 {{< /cards >}}
 

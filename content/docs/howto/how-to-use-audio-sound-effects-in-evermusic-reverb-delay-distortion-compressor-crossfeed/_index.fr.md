@@ -7,7 +7,7 @@ tags: ["Evermusic", "Effets audio", "Guide pratique", "Réverbération", "Delay"
 readingTime: 8
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 **En bref :** Evermusic comprend six effets audio en temps réel — **Normalisation du volume, Compresseur, Réverbération, Crossfeed, Delay et Distorsion**. Ouvrez-les depuis le menu **⋯ (Plus) du lecteur > Effets audio**, ou depuis **Réglages > Lecteur audio > Effets audio**. Touchez un effet, mettez son interrupteur sur **ACTIVÉ** (en haut à droite), choisissez un **préréglage** et, si vous le souhaitez, ouvrez le **mode Avancé** pour affiner les curseurs. Chaque effet fonctionne indépendamment et s'applique en temps réel à tout ce que vous lisez — fichiers locaux, flux cloud et radio Internet — sans réencodage.
 
@@ -162,38 +162,38 @@ Ils fonctionnent aussi de concert avec l'**égaliseur graphique à 10 bandes** d
 
 ## FAQ
 
-{{% details title="Comment ajouter de la réverbération, du delay ou d'autres effets à ma musique dans Evermusic ?" closed="true" %}}
+{{% ls-details title="Comment ajouter de la réverbération, du delay ou d'autres effets à ma musique dans Evermusic ?" closed="true" %}}
 Ouvrez le lecteur, touchez le bouton ⋯ (Plus) et choisissez Effets audio (ou allez dans Réglages > Lecteur audio > Effets audio). Touchez l'effet voulu, mettez son interrupteur sur ACTIVÉ en haut à droite et choisissez un préréglage. Ouvrez le mode Avancé pour affiner les curseurs. L'effet s'applique immédiatement à ce qui est en cours de lecture.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Quels effets audio Evermusic propose-t-il ?" closed="true" %}}
+{{% ls-details title="Quels effets audio Evermusic propose-t-il ?" closed="true" %}}
 Six effets en temps réel : Normalisation du volume (nivellement du niveau sonore EBU R128), Compresseur (dynamique), Réverbération (espace et traîne d'écho), Crossfeed (image sonore naturelle au casque), Delay (écho) et Distorsion (grain lo-fi). Chacun est indépendant et peut être utilisé seul ou combiné.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Les effets modifient-ils ou endommagent-ils mes fichiers audio ?" closed="true" %}}
+{{% ls-details title="Les effets modifient-ils ou endommagent-ils mes fichiers audio ?" closed="true" %}}
 Non. Tous les effets sont appliqués en temps réel uniquement pendant la lecture. Ils ne modifient ni ne réencodent jamais vos fichiers. Désactivez un effet et votre son d'origine revient instantanément.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Puis-je utiliser plusieurs effets en même temps ?" closed="true" %}}
+{{% ls-details title="Puis-je utiliser plusieurs effets en même temps ?" closed="true" %}}
 Oui. Chaque effet est indépendant — il n'y a pas d'interrupteur principal — vous pouvez donc activer n'importe quelle combinaison. Par exemple, Normalisation du volume plus Compresseur pour une écoute régulière et facile, ou Réverbération plus Crossfeed au casque.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Qu'est-ce que le Crossfeed et dois-je l'utiliser ?" closed="true" %}}
+{{% ls-details title="Qu'est-ce que le Crossfeed et dois-je l'utiliser ?" closed="true" %}}
 Le Crossfeed mélange une petite quantité filtrée de chaque canal stéréo dans l'autre pour que le casque sonne davantage comme de vrais haut-parleurs, réduisant la sensation d'un son « dans la tête » des mixages fortement panoramiqués. C'est un effet pour casque (laissez-le désactivé pour les haut-parleurs). Il est construit sur l'algorithme Bauer stereophonic-to-binaural (bs2b) et comprend des préréglages comme Chu Moy et Jan Meier.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Qu'est-ce que la Normalisation du volume et en quoi diffère-t-elle de ReplayGain ?" closed="true" %}}
+{{% ls-details title="Qu'est-ce que la Normalisation du volume et en quoi diffère-t-elle de ReplayGain ?" closed="true" %}}
 La Normalisation du volume maintient chaque morceau à un niveau sonore constant en mesurant le niveau sonore perçu avec le standard EBU R128 et en l'ajustant vers une cible. Contrairement à ReplayGain, elle n'a pas besoin de tags de niveau sonore dans vos fichiers et n'altère pas l'audio — elle fonctionne en direct sur n'importe quelle source, y compris les flux cloud et la radio Internet. Préréglages : Léger, Standard, Fort et Nuit.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Quelle est la différence entre le mode Simple et le mode Avancé ?" closed="true" %}}
+{{% ls-details title="Quelle est la différence entre le mode Simple et le mode Avancé ?" closed="true" %}}
 Le mode Simple affiche une liste de préréglages avec des descriptions claires, pour obtenir un bon son en une touche. Le mode Avancé ajoute les curseurs de paramètres (par exemple, le Mix pour la Réverbération, ou les sept commandes du Compresseur) pour un réglage fin précis. Basculez entre les deux avec le bouton de mode en haut à droite de chaque éditeur d'effet.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Pourquoi les commandes de l'effet sont-elles grisées ?" closed="true" %}}
+{{% ls-details title="Pourquoi les commandes de l'effet sont-elles grisées ?" closed="true" %}}
 L'effet est désactivé. Activez l'interrupteur de l'effet en haut à droite de son éditeur pour activer les commandes. Chaque effet est désactivé par défaut.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Les effets fonctionnent-ils avec le streaming et CarPlay ?" closed="true" %}}
+{{% ls-details title="Les effets fonctionnent-ils avec le streaming et CarPlay ?" closed="true" %}}
 Oui. Les effets s'exécutent au sein du moteur de lecture, ils s'appliquent donc aux fichiers locaux, aux espaces cloud, aux serveurs multimédias et à la radio Internet, et ils continuent de fonctionner pendant la lecture avec CarPlay.
-{{% /details %}}
+{{% /ls-details %}}

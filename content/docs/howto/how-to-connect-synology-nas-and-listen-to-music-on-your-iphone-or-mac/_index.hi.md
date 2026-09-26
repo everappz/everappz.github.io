@@ -7,7 +7,7 @@ tags: ["संगीत", "स्ट्रीमिंग", "nas", "synology", "
 readingTime: 4
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **सारांश:** अपने Synology NAS को Evermusic या Flacbox से Synology के नेटिव API का उपयोग करके कनेक्ट करें -- या तो IP पते के माध्यम से मैन्युअल रूप से या QuickConnect ID के माध्यम से स्वचालित रूप से। QuickConnect आपको पोर्ट फॉरवर्डिंग के बिना दूर से संगीत स्ट्रीम करने की अनुमति देता है। दोनों ऐप्स FLAC, MP3, WAV और अन्य हाई-रेस फॉर्मेट का समर्थन करते हैं।
@@ -140,22 +140,22 @@ QuickConnect के माध्यम से सुरक्षित रिम
 
 ## अक्सर पूछे जाने वाले प्रश्न
 
-{{% details title="मैन्युअल कनेक्शन और QuickConnect में क्या अंतर है?" closed="true" %}}
+{{% ls-details title="मैन्युअल कनेक्शन और QuickConnect में क्या अंतर है?" closed="true" %}}
 मैन्युअल कनेक्शन NAS IP पता और पोर्ट का उपयोग करता है, जो आपके स्थानीय नेटवर्क पर काम करता है। QuickConnect पोर्ट फॉरवर्डिंग के बिना इंटरनेट पर कहीं से भी कनेक्शन स्थापित करने के लिए Synology की रिले सेवा का उपयोग करता है।
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="क्या मैं अपने होम नेटवर्क के बाहर Synology NAS से संगीत स्ट्रीम कर सकता हूं?" closed="true" %}}
+{{% ls-details title="क्या मैं अपने होम नेटवर्क के बाहर Synology NAS से संगीत स्ट्रीम कर सकता हूं?" closed="true" %}}
 हां। अपने Synology NAS पर QuickConnect सक्षम करें और इंटरनेट कनेक्शन के साथ कहीं से भी संगीत स्ट्रीम करने के लिए Evermusic या Flacbox में QuickConnect ID का उपयोग करें।
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Synology NAS से स्ट्रीमिंग करते समय कौन से ऑडियो फॉर्मेट समर्थित हैं?" closed="true" %}}
+{{% ls-details title="Synology NAS से स्ट्रीमिंग करते समय कौन से ऑडियो फॉर्मेट समर्थित हैं?" closed="true" %}}
 Evermusic और Flacbox FLAC, MP3, AAC, WAV, ALAC, OGG, WMA, DSD और कई अन्य फॉर्मेट का समर्थन करते हैं। Synology NAS से स्ट्रीमिंग करते समय सभी समर्थित फॉर्मेट काम करते हैं।
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="क्या मुझे कनेक्ट करने के लिए दो-कारक प्रमाणीकरण की आवश्यकता है?" closed="true" %}}
+{{% ls-details title="क्या मुझे कनेक्ट करने के लिए दो-कारक प्रमाणीकरण की आवश्यकता है?" closed="true" %}}
 नहीं, दो-कारक प्रमाणीकरण वैकल्पिक है। हालांकि, यदि आपने अपने Synology DSM पर 2-चरणीय सत्यापन सक्षम किया है, तो ऐप लॉगिन के दौरान वन-टाइम पासवर्ड मांगेगा। सत्र समाप्त होने पर आपको पुन: अधिकृत करने की आवश्यकता होगी।
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="क्या मुझे कनेक्ट करने के लिए Synology नेटिव API, WebDAV या SMB का उपयोग करना चाहिए?" closed="true" %}}
+{{% ls-details title="क्या मुझे कनेक्ट करने के लिए Synology नेटिव API, WebDAV या SMB का उपयोग करना चाहिए?" closed="true" %}}
 QuickConnect के साथ Synology नेटिव API रिमोट एक्सेस के लिए सबसे अच्छा विकल्प है। स्थानीय नेटवर्क उपयोग के लिए, SMB आमतौर पर सबसे तेज़ विकल्प है। WebDAV स्थानीय और रिमोट दोनों एक्सेस के लिए अच्छा काम करता है। Evermusic और Flacbox तीनों प्रोटोकॉल का समर्थन करते हैं।
-{{% /details %}}
+{{% /ls-details %}}

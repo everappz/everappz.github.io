@@ -15,7 +15,7 @@ tags: [
 ---
 
 
-{{< lottie src="/images/juicy-json/juicy-woman-focused-on-online-learning.json" width="85%" >}}
+{{< ls-lottie src="/images/juicy-json/juicy-woman-focused-on-online-learning.json" width="85%" >}}
 
 ## Naučte se používat naše aplikace
 
@@ -27,7 +27,7 @@ Prohlédněte si níže FAQ pro svou aplikaci a začněte, nebo procházejte bě
 
 ## Vyberte svou aplikaci
 
-{{< product-doc-cards section="faq" >}}
+{{< ls-product-doc-cards section="faq" >}}
 
 ## Běžné problémy a odpovědi
 
@@ -35,7 +35,7 @@ Prohlédněte si níže FAQ pro svou aplikaci a začněte, nebo procházejte bě
 
 <div class="hx:w-full">
 
-{{% details title="Proč se nemohu přihlásit do pCloud na starší verzi iOS (15.8.4)?" closed="true" %}}
+{{% ls-details title="Proč se nemohu přihlásit do pCloud na starší verzi iOS (15.8.4)?" closed="true" %}}
 Přihlašovací webová stránka pCloud se nemusí správně zobrazovat na starších verzích iOS, například 15.8.4, což znemožňuje zadání e-mailu a hesla na obrazovce připojení ke cloudu.<br><br>
 
 Jako alternativní řešení můžete použít protokol **WebDAV**, který pCloud podporuje a spolehlivě funguje na všech verzích iOS.
@@ -49,9 +49,9 @@ Jako alternativní řešení můžete použít protokol **WebDAV**, který pClou
 Otevřete aplikaci → Připojení → Připojit ke cloudovému úložišti → Zvolte **WebDAV** → Zadejte přihlašovací údaje a URL serveru.
 
 Tato metoda vám umožní připojit se k vašemu úložišti pCloud a přistupovat k souborům bez problémů na starších zařízeních.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Jak přehrávat hudbu přes AirPlay z Macu (macOS)?" closed="true" %}}
+{{% ls-details title="Jak přehrávat hudbu přes AirPlay z Macu (macOS)?" closed="true" %}}
 Verze aplikace pro macOS neobsahuje vestavěná tlačítka pro AirPlay, Chromecast ani Bluetooth jako iOS.<br><br>
 
 Chcete-li na svém MacBook Pro použít **AirPlay**, postupujte takto:
@@ -62,9 +62,9 @@ Chcete-li na svém MacBook Pro použít **AirPlay**, postupujte takto:
 4. Vyberte požadované zařízení a začněte streamovat hudbu.  
 
 Tím bude veškerý zvuk systému (včetně zvuku z Evermusic nebo Flacbox) přesměrován na zvolené zařízení AirPlay.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Proč se moje zakoupené Premium na Macu neaktivovalo, pokud jsem ho koupil/a na iPhonu?" closed="true" %}}
+{{% ls-details title="Proč se moje zakoupené Premium na Macu neaktivovalo, pokud jsem ho koupil/a na iPhonu?" closed="true" %}}
 Doživotní nákupy a předplatná se synchronizují mezi iOS a Macem prostřednictvím **iCloud**.<br><br>
 
 Chcete-li aktivovat Premium na Macu:<br>
@@ -76,9 +76,9 @@ Chcete-li aktivovat Premium na Macu:<br>
 - Alternativně klepněte na **Obnovit nákupy** v nastavení aplikace na obou zařízeních<br><br>
 
 Funkce Premium by se pak na Macu měly automaticky aktivovat.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Jak mohu automaticky synchronizovat seznamy přehrávání mezi zařízeními?" closed="true" %}}
+{{% ls-details title="Jak mohu automaticky synchronizovat seznamy přehrávání mezi zařízeními?" closed="true" %}}
 Momentálně **neexistuje automatická synchronizace** pro seznamy přehrávání.<br><br>
 
 Můžete použít jednu z následujících možností:<br>
@@ -88,9 +88,9 @@ Můžete použít jednu z následujících možností:<br>
   - [Jak importovat seznamy přehrávání](/docs/howto/how-to-import-m3u-playlist-to-evermusic-and-flacbox/)<br>
 - **Archivace seznamu přehrávání nebo alb** a přenos přes ZIP:<br>
   - [Průvodce archivací seznamů přehrávání](/docs/howto/how-to-archive-zip-playlists-albums-artists-and-genres-in-evermusic-flacbox-and-transfer-to/)
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Je bezpečné používat vaše aplikace? Mohu zakázat analytiku?" closed="true" %}}
+{{% ls-details title="Je bezpečné používat vaše aplikace? Mohu zakázat analytiku?" closed="true" %}}
 Ano, vaše soukromí je naší nejvyšší prioritou.<br><br>
 
 - Veškerá data — hudební soubory, nastavení, přihlašovací údaje ke cloudu — zůstávají na vašem zařízení<br>
@@ -104,18 +104,18 @@ Více informací:<br>
 
 Při použití personalizovaných reklam vyžaduje Google Mobile Ads zobrazení nastavení souhlasu.<br>
 Uživatelé Premium nevidí žádné reklamy a reklamní SDK je zcela zakázáno.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Podporují vaše aplikace Rodinné sdílení?" closed="true" %}}
+{{% ls-details title="Podporují vaše aplikace Rodinné sdílení?" closed="true" %}}
 Ano, Rodinné sdílení je podporováno.<br><br>
 
 Sdílení nákupů v aplikaci:<br>
 - Ujistěte se, že je nákup nastaven ke sdílení s vaší rodinnou skupinou<br>
 - Na zařízení člena rodiny přejděte do **Nastavení > Nákupy > Obnovit nákupy**<br>
 - Tím se vyžádají data o nákupu ze serverů Apple a aktivují se na jejich zařízení
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Jak urychlit synchronizaci metadat a cloudu?" closed="true" %}}
+{{% ls-details title="Jak urychlit synchronizaci metadat a cloudu?" closed="true" %}}
 Pro zlepšení rychlosti synchronizace povolte úlohy na pozadí:<br><br>
 
 - **Nastavení → Hudební knihovna → Čtení metadat → Čtení metadat na pozadí**<br>
@@ -123,14 +123,14 @@ Pro zlepšení rychlosti synchronizace povolte úlohy na pozadí:<br><br>
 
 Také na macOS zvyšte rychlost čtení metadat přes **Nastavení → Hudební knihovna**.<br>
 Pokud je přehrávač aktivní (hraje zvuk), iOS aplikaci nepozastaví, což umožňuje nepřetržitou synchronizaci.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Jak mohu zrušit své předplatné?" closed="true" %}}
+{{% ls-details title="Jak mohu zrušit své předplatné?" closed="true" %}}
 Předplatné můžete zrušit podle oficiálních pokynů Apple:<br>
 👉 [Jak zrušit předplatné](https://support.apple.com/en-us/118428)
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Jak se mohu připojit a streamovat zvuk z WD MyCloud EX2 Ultra?" closed="true" %}}
+{{% ls-details title="Jak se mohu připojit a streamovat zvuk z WD MyCloud EX2 Ultra?" closed="true" %}}
 
 Když přidáte připojení v aplikaci přes **Připojení > Připojit ke cloudovému úložišti > My Cloud Home**, je to oficiálně navrženo pro podporu zařízení **WD MyCloud Home**.<br>
 WD MyCloud EX2 Ultra používá omezený přístup pro aplikace.<br><br>
@@ -144,16 +144,16 @@ Pokud jste se však úspěšně připojili k **WD MyCloud EX2 Ultra**, **WD MyCl
 5. Nyní je můžete streamovat nebo stahovat přímo<br><br>
 
 ⚠️ Ze zařízení NAS budou přístupné pouze složky vytvořené prostřednictvím aplikace.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Jak se připojím ke Koofr.eu?" closed="true" %}}
+{{% ls-details title="Jak se připojím ke Koofr.eu?" closed="true" %}}
 Koofr se můžete připojit pomocí **WebDAV**.<br><br>
 
 - Průvodce nastavením WebDAV pro Koofr: [blog koofr.eu](https://koofr.eu/blog/posts/3-ways-to-map-koofr-as-a-network-drive-explained)<br>
 - Průvodce WebDAV pro Evermusic/Flacbox: [Jak připojit NAS úložiště pomocí WebDAV a poslouchat hudbu na iPhone nebo Macu](/docs/howto/how-to-connect-nas-storage-using-webdav-and-listen-to-music-on-your-iphone-or-mac/)
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Jaká jsou URL schémata aplikace?" closed="true" %}}
+{{% ls-details title="Jaká jsou URL schémata aplikace?" closed="true" %}}
 Zde jsou podporovaná schémata:<br><br>
 
 **Evermusic**<br>
@@ -172,35 +172,35 @@ Zde jsou podporovaná schémata:<br><br>
 **Evervideo**<br>
 - iOS: `lsevervideo://`<br>
 - macOS: `lsevervideomac://`
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Hudba se přestane přehrávat, když je aplikace na pozadí — jak to opravit?" closed="true" %}}
+{{% ls-details title="Hudba se přestane přehrávat, když je aplikace na pozadí — jak to opravit?" closed="true" %}}
 Pokud aplikace havaruje nebo se pozastaví na pozadí:<br>
 - Přejděte do **Nastavení > Hudební knihovna > Online synchronizace hudby > Synchronizace na pozadí → Zakázat**<br>
 - **Nastavení > Hudební knihovna > Čtení metadat > Čtení metadat na pozadí → Zakázat**<br>
 - **Nastavení > Správce souborů > Přenosy na pozadí → Zakázat**
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Přehrávání bez mezer nefunguje — jak to opravit?" closed="true" %}}
+{{% ls-details title="Přehrávání bez mezer nefunguje — jak to opravit?" closed="true" %}}
 Přehrávání bez mezer závisí na verzi iOS a zvukovém engine.<br>
 Zkuste přepnout zvukový engine:<br>
 - Přejděte do **Nastavení → Přehrávač zvuku → Obecné → Zvukový procesor**<br>
 - Vyberte **Core Audio** pro lepší podporu přehrávání bez mezer
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Proč aplikace zobrazuje v seznamu pouze 100 položek?" closed="true" %}}
+{{% ls-details title="Proč aplikace zobrazuje v seznamu pouze 100 položek?" closed="true" %}}
 Aplikace používá stránkování pro výkon.<br>
 Pro jeho zakázání:<br>
 - Přejděte do **Nastavení → Přizpůsobení → Limit načítání obsahu → Deaktivováno**<br>
 Nyní se najednou načtou všechny položky.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Proč jsou v metadatech podivné znaky?" closed="true" %}}
+{{% ls-details title="Proč jsou v metadatech podivné znaky?" closed="true" %}}
 Zkuste povolit normalizaci metadat:<br>
 - **Nastavení → Hudební knihovna → Čtení metadat → Normalizovat kódování metadat**
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Proč aplikace nemůže číst názvy složek se speciálními znaky?" closed="true" %}}
+{{% ls-details title="Proč aplikace nemůže číst názvy složek se speciálními znaky?" closed="true" %}}
 Jde o známý problém s **protokolem SMB2**.<br><br>
 
 Zkuste následující řešení:<br>
@@ -210,9 +210,9 @@ Zkuste následující řešení:<br>
   - Vyberte složky/soubory pomocí nativní nabídky Apple<br><br>
 
 Alternativně se připojte pomocí **WebDAV** nebo **DLNA**, pokud je váš NAS podporuje.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Jak nahrát a spravovat hudbu v iCloudu?" closed="true" %}}
+{{% ls-details title="Jak nahrát a spravovat hudbu v iCloudu?" closed="true" %}}
 – **Jak nahrám hudbu do iCloudu?**  <br>
 Přejděte na [https://www.icloud.com](https://www.icloud.com) v prohlížeči, vytvořte složku a nahrajte hudební soubory přímo z Macu nebo PC.<br>
 
@@ -225,9 +225,9 @@ Máte dvě možnosti:  <br>
 
 Více informací zde: [Jak streamovat hudbu z iCloud Drive na iPhone nebo Mac](/docs/howto/how-to-listen-to-music-from-icloud-drive-on-your-iphone-or-mac/)
 
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Jak mohu přenést 10GB hudební knihovnu z Windows 11 do iPhonu pro offline přehrávání?" closed="true" %}}
+{{% ls-details title="Jak mohu přenést 10GB hudební knihovnu z Windows 11 do iPhonu pro offline přehrávání?" closed="true" %}}
 
 Máte několik spolehlivých možností, jak přesunout hudební knihovnu z PC s Windows 11 do iPhonu a používat ji offline v aplikaci. Zvolte metodu, která vám nejlépe vyhovuje:
 
@@ -253,6 +253,6 @@ Máte několik spolehlivých možností, jak přesunout hudební knihovnu z PC s
 
 ⚠️ Při přenosu velkých knihoven (10 GB a více) je kabelový přenos přes USB obvykle nejrychlejší a nejstabilnější možností.
 
-{{% /details %}}
+{{% /ls-details %}}
 
 </div>

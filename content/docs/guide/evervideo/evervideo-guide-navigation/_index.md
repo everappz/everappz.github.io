@@ -22,7 +22,7 @@ Evervideo offers a clean, intuitive interface that feels familiar to anyone who 
 Unlike most media apps, Evervideo merges your cloud accounts, NAS shares, media servers, and local files into a single, unified Files tab — so you don't bounce between separate screens. That makes moving a video from a Plex server, to an iCloud Drive folder, to your iPhone's Documents folder a one-screen, one-tap operation.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evervideo Main Screen" image="/docs/guide/evervideo/img/evervideo-main.webp" >}}
+  {{< ls-card title="" subtitle="Evervideo Main Screen" image="/docs/guide/evervideo/img/evervideo-main.webp" >}}
 {{< /cards >}}
 
 ## Tabs
@@ -56,7 +56,7 @@ PiP works with all video formats Evervideo plays, including cloud-streamed files
 Virtually every content item on the screen has a More Actions button (the "⋯" three-dots icon). Tap it to open a context-sensitive menu with every action available for that item — play next, play later, add to playlist, add to favorites, edit tags, download, share, rename, move, and so on. Long lists scroll vertically so you can reach less-common actions without crowding the main UI.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evervideo Favorites More Actions Menu" image="/docs/guide/evervideo/img/evervideo-favorites-more-actions.webp" >}}
+  {{< ls-card title="" subtitle="Evervideo Favorites More Actions Menu" image="/docs/guide/evervideo/img/evervideo-favorites-more-actions.webp" >}}
 {{< /cards >}}
 
 ## Top Toolbar

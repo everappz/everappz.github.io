@@ -72,19 +72,19 @@ Diese Anleitung hilft dir, das Beste aus Evermusic auf deinem iPhone, iPad oder 
 
 
 {{< cards >}}
-  {{< card icon="location-marker" title="Navigation" subtitle="Erfahre, wie du Evermusic mit der Tab-Leiste auf dem iPhone oder dem linken Menü auf iPad und Mac navigierst." link="/docs/guide/evermusic/evermusic-guide-navigation" >}}
+  {{< ls-card icon="location-marker" title="Navigation" subtitle="Erfahre, wie du Evermusic mit der Tab-Leiste auf dem iPhone oder dem linken Menü auf iPad und Mac navigierst." link="/docs/guide/evermusic/evermusic-guide-navigation" >}}
 
-  {{< card icon="cloud" title="Verbindungen" subtitle="Verbinde deine Cloud-Konten und verwalte Online-Dateien mit dem integrierten Dateimanager." link="/docs/guide/evermusic/evermusic-guide-connections" >}}
+  {{< ls-card icon="cloud" title="Verbindungen" subtitle="Verbinde deine Cloud-Konten und verwalte Online-Dateien mit dem integrierten Dateimanager." link="/docs/guide/evermusic/evermusic-guide-connections" >}}
 
-  {{< card icon="collection" title="Musikbibliothek" subtitle="Organisiere und entdecke deine Tracks, Alben und Künstler in der Musikbibliothek." link="/docs/guide/evermusic/evermusic-guide-music-library" >}}
+  {{< ls-card icon="collection" title="Musikbibliothek" subtitle="Organisiere und entdecke deine Tracks, Alben und Künstler in der Musikbibliothek." link="/docs/guide/evermusic/evermusic-guide-music-library" >}}
 
-  {{< card icon="music-note" title="Wiedergabelisten" subtitle="Erstelle und arrangiere Wiedergabelisten passend zu deiner Stimmung oder dem Anlass." link="/docs/guide/evermusic/evermusic-guide-playlists" >}}
+  {{< ls-card icon="music-note" title="Wiedergabelisten" subtitle="Erstelle und arrangiere Wiedergabelisten passend zu deiner Stimmung oder dem Anlass." link="/docs/guide/evermusic/evermusic-guide-playlists" >}}
 
-  {{< card icon="folder" title="Lokale Dateien" subtitle="Greife auf Offline-Musik im Bereich 'Lokale Dateien' zu und verwalte sie." link="/docs/guide/evermusic/evermusic-guide-local-files" >}}
+  {{< ls-card icon="folder" title="Lokale Dateien" subtitle="Greife auf Offline-Musik im Bereich 'Lokale Dateien' zu und verwalte sie." link="/docs/guide/evermusic/evermusic-guide-local-files" >}}
 
-  {{< card icon="play" title="Audio-Player" subtitle="Steuere deine Wiedergabe, Warteschlange und Audio-Einstellungen wie Equalizer und Sleeptimer." link="/docs/guide/evermusic/evermusic-guide-player" >}}
+  {{< ls-card icon="play" title="Audio-Player" subtitle="Steuere deine Wiedergabe, Warteschlange und Audio-Einstellungen wie Equalizer und Sleeptimer." link="/docs/guide/evermusic/evermusic-guide-player" >}}
 
-  {{< card icon="adjustments" title="Einstellungen" subtitle="Passe das Aussehen, die Funktionen und die Leistungseinstellungen von Evermusic an." link="/docs/guide/evermusic/evermusic-guide-settings" >}}
+  {{< ls-card icon="adjustments" title="Einstellungen" subtitle="Passe das Aussehen, die Funktionen und die Leistungseinstellungen von Evermusic an." link="/docs/guide/evermusic/evermusic-guide-settings" >}}
 
-  {{< card icon="question-mark-circle" title="FAQ" subtitle="Finde schnelle Antworten auf häufige Fragen in unserem FAQ-Bereich." link="/docs/faq/evermusic" >}}
+  {{< ls-card icon="question-mark-circle" title="FAQ" subtitle="Finde schnelle Antworten auf häufige Fragen in unserem FAQ-Bereich." link="/docs/faq/evermusic" >}}
 {{< /cards >}}

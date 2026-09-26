@@ -28,19 +28,19 @@ Táto príručka vám krok za krokom vysvetlí každú časť aplikácie. Vybert
 
 
 {{< cards >}}
-  {{< card icon="play" title="Zdieľanie" subtitle="Ťuknite na Start, vyberte, čo chcete zdieľať, a spustite všetkých päť serverov naraz. Spoznajte obrazovku Zdieľanie od začiatku do konca." link="/docs/guide/everdisk/everdisk-guide-sharing" >}}
+  {{< ls-card icon="play" title="Zdieľanie" subtitle="Ťuknite na Start, vyberte, čo chcete zdieľať, a spustite všetkých päť serverov naraz. Spoznajte obrazovku Zdieľanie od začiatku do konca." link="/docs/guide/everdisk/everdisk-guide-sharing" >}}
 
-  {{< card icon="desktop-computer" title="Pripojenie vašich zariadení" subtitle="Ako sa k vašim zdieľaným súborom pripojí TV, Mac alebo PC, webový prehliadač, iný telefón či USB kábel." link="/docs/guide/everdisk/everdisk-guide-connect" >}}
+  {{< ls-card icon="desktop-computer" title="Pripojenie vašich zariadení" subtitle="Ako sa k vašim zdieľaným súborom pripojí TV, Mac alebo PC, webový prehliadač, iný telefón či USB kábel." link="/docs/guide/everdisk/everdisk-guide-connect" >}}
 
-  {{< card icon="server" title="Pripojenie k serverom" subtitle="Dostaňte sa k ďalším serverom DLNA, WebDAV, FTP, SFTP a SMB a diskom NAS vo vašej sieti, aby ste ich súbory prehliadali, streamovali a sťahovali." link="/docs/guide/everdisk/everdisk-guide-devices" >}}
+  {{< ls-card icon="server" title="Pripojenie k serverom" subtitle="Dostaňte sa k ďalším serverom DLNA, WebDAV, FTP, SFTP a SMB a diskom NAS vo vašej sieti, aby ste ich súbory prehliadali, streamovali a sťahovali." link="/docs/guide/everdisk/everdisk-guide-devices" >}}
 
-  {{< card icon="folder" title="Súbory a dokumenty" subtitle="Prehliadajte, vytvárajte priečinky, premenovávajte, presúvajte, kopírujte a mažte, komprimujte a rozbaľujte, pripájajte externé priečinky a skenujte do PDF." link="/docs/guide/everdisk/everdisk-guide-files" >}}
+  {{< ls-card icon="folder" title="Súbory a dokumenty" subtitle="Prehliadajte, vytvárajte priečinky, premenovávajte, presúvajte, kopírujte a mažte, komprimujte a rozbaľujte, pripájajte externé priečinky a skenujte do PDF." link="/docs/guide/everdisk/everdisk-guide-files" >}}
 
-  {{< card icon="music-note" title="Fotografie, hudba a video" subtitle="Zdieľajte celú svoju knižnicu fotografií a hudby, prehrávajte zvuk v mini prehrávači a sledujte video na celej obrazovke." link="/docs/guide/everdisk/everdisk-guide-media" >}}
+  {{< ls-card icon="music-note" title="Fotografie, hudba a video" subtitle="Zdieľajte celú svoju knižnicu fotografií a hudby, prehrávajte zvuk v mini prehrávači a sledujte video na celej obrazovke." link="/docs/guide/everdisk/everdisk-guide-media" >}}
 
-  {{< card icon="lock-closed" title="Prístup a súkromie" subtitle="Chráňte zdieľanie prihlásením a heslom, povoľte alebo zakážte úpravy, blokujte zariadenia a udržte všetko lokálne." link="/docs/guide/everdisk/everdisk-guide-access" >}}
+  {{< ls-card icon="lock-closed" title="Prístup a súkromie" subtitle="Chráňte zdieľanie prihlásením a heslom, povoľte alebo zakážte úpravy, blokujte zariadenia a udržte všetko lokálne." link="/docs/guide/everdisk/everdisk-guide-access" >}}
 
-  {{< card icon="adjustments" title="Nastavenia" subtitle="Vysvetlenie každého nastavenia: profil zariadenia, pripojenia, kvalita fotografií a videa, porty, prenosy a ďalšie." link="/docs/guide/everdisk/everdisk-guide-settings" >}}
+  {{< ls-card icon="adjustments" title="Nastavenia" subtitle="Vysvetlenie každého nastavenia: profil zariadenia, pripojenia, kvalita fotografií a videa, porty, prenosy a ďalšie." link="/docs/guide/everdisk/everdisk-guide-settings" >}}
 
-  {{< card icon="question-mark-circle" title="Časté otázky" subtitle="Rýchle odpovede na najčastejšie otázky a scenáre z reálneho života." link="/docs/faq/everdisk" >}}
+  {{< ls-card icon="question-mark-circle" title="Časté otázky" subtitle="Rýchle odpovede na najčastejšie otázky a scenáre z reálneho života." link="/docs/faq/everdisk" >}}
 {{< /cards >}}

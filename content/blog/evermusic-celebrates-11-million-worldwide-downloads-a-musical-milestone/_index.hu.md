@@ -12,7 +12,7 @@ authors:
     image: "/images/about/artem-meleshko-founder-everappz.webp"
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 **Röviden:** Az Evermusic átlépte a 11 millió letöltést világszerte. A kulcsfontosságú funkciók közé tartozik a 10 sávos hangszínszabályzó, az offline lejátszás, az iCloud Drive streaming, a 10+ felhőszolgáltatás támogatása, az eszközök közötti szinkronizálás és a beépített ID3 címkeszerkesztő.
 
@@ -70,22 +70,22 @@ Az Evermusic mindenkinek készült, aki felhőben vagy helyi tárolón tárolja 
 
 ## FAQ
 
-{{% details title="Milyen hangformátumokat támogat az Evermusic?" closed="true" %}}
+{{% ls-details title="Milyen hangformátumokat támogat az Evermusic?" closed="true" %}}
 Az Evermusic lejátssza a MP3, FLAC, WAV, AAC, M4A, AIFF, OGG, WMA és más népszerű hangformátumokat.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Használhatom az Evermusic-ot internetkapcsolat nélkül?" closed="true" %}}
+{{% ls-details title="Használhatom az Evermusic-ot internetkapcsolat nélkül?" closed="true" %}}
 Igen. Tölts le számokat a felhőtárolódból offline lejátszáshoz. Letöltés után nincs szükség internetre.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Működik az Evermusic Macen?" closed="true" %}}
+{{% ls-details title="Működik az Evermusic Macen?" closed="true" %}}
 Igen. Az Evermusic elérhető iOS-en (iPhone/iPad) és macOS-en is, könyvtárszinkronizálással minden eszközön.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Ingyenesen letölthető az Evermusic?" closed="true" %}}
+{{% ls-details title="Ingyenesen letölthető az Evermusic?" closed="true" %}}
 Igen. Az Evermusic ingyenesen letölthető, opcionális prémium funkciókkal, amelyek alkalmazáson belüli vásárlással érhetők el.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Hogyan működik az iCloud Drive streaming az Evermusic-ban?" closed="true" %}}
+{{% ls-details title="Hogyan működik az iCloud Drive streaming az Evermusic-ban?" closed="true" %}}
 Csatlakoztasd az iCloud Drive fiókodat az alkalmazásban, böngészd a zenefájljaidat és koppints a lejátszáshoz. A számok közvetlenül streamelődnek, előzetes letöltés nélkül.
-{{% /details %}}
+{{% /ls-details %}}

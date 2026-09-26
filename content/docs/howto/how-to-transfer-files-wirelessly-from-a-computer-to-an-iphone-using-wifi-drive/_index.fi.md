@@ -7,7 +7,7 @@ keywords: ["tiedostojen langaton siirto iPhoneen", "wifi drive tiedostosiirto", 
 readingTime: 2
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **Tiivistelmä:** Wi-Fi Drive mahdollistaa tiedostojen siirron mistä tahansa tietokoneesta iPhoneen tai iPadiin Wi-Fin kautta -- ilman iTunesia tai kaapeleita. Käytä verkkoselainta, Mac Finderia tai Windows File Exploreria. Molempien laitteiden on oltava samassa Wi-Fi-verkossa.
@@ -18,7 +18,7 @@ Voit siirtää tiedostoja langattomasti käyttämällä työpöydän verkkoselai
 
 Voit katsoa video-oppaan käyttäjältä [**TECHGUYPH**](https://www.youtube.com/channel/UCgpf09gGFE_c_3pPTtTpnzg) tai lukea tekstiversion alla.
 <br><br>
-{{< youtubecard id="CqdqrQ0ge70" title="Can We Wirelessly Put Offline Music on iPhones?" >}}
+{{< ls-youtubecard id="CqdqrQ0ge70" title="Can We Wirelessly Put Offline Music on iPhones?" >}}
 
 ## Tiedostojen siirtäminen tietokoneelta langattomasti työpöydän verkkoselaimen avulla
 
@@ -90,26 +90,26 @@ iTunesia ei tarvita!
 
 ## Usein kysytyt kysymykset
 
-{{% details title="Tarvitsenko iTunesin tiedostojen siirtämiseen iPhoneeni?" closed="true" %}}
+{{% ls-details title="Tarvitsenko iTunesin tiedostojen siirtämiseen iPhoneeni?" closed="true" %}}
 Ei. Wi-Fi Drive siirtää tiedostot suoraan paikallisen Wi-Fi-verkon kautta. iTunesia ei tarvita.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Mitkä sovellukset tukevat Wi-Fi Drivea?" closed="true" %}}
+{{% ls-details title="Mitkä sovellukset tukevat Wi-Fi Drivea?" closed="true" %}}
 Wi-Fi Drive on saatavilla Evermusicissa, Flacboxissa, Evertagissa ja Evervideossa iOS:lle.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Pitääkö molempien laitteiden olla samassa Wi-Fi-verkossa?" closed="true" %}}
+{{% ls-details title="Pitääkö molempien laitteiden olla samassa Wi-Fi-verkossa?" closed="true" %}}
 Kyllä. Tietokoneesi ja iPhonen tai iPadin on oltava yhteydessä samaan paikalliseen Wi-Fi-verkkoon, jotta Wi-Fi Drive toimii.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Voinko siirtää kokonaisia kansioita, ei vain yksittäisiä tiedostoja?" closed="true" %}}
+{{% ls-details title="Voinko siirtää kokonaisia kansioita, ei vain yksittäisiä tiedostoja?" closed="true" %}}
 Kyllä. Wi-Fi Drive tukee kokonaisten kansioiden lähettämistä ja lataamista verkkoselaimen käyttöliittymän kautta.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Toimiiko Wi-Fi Drive Windowsin kanssa?" closed="true" %}}
+{{% ls-details title="Toimiiko Wi-Fi Drive Windowsin kanssa?" closed="true" %}}
 Kyllä. Voit käyttää mitä tahansa verkkoselainta Windowsissa tai yhdistää Windows File Explorerin kautta WebDAV-protokollalla.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Voinko käyttää USB-kaapelia siirron nopeuttamiseen?" closed="true" %}}
+{{% ls-details title="Voinko käyttää USB-kaapelia siirron nopeuttamiseen?" closed="true" %}}
 Kyllä. Jos iPhonesi on yhdistetty Maciin USB:n kautta Wi-Fi Driven ollessa käynnissä, siirto käyttää kaapeliyhteyttä nopeampiin siirtonopeuksiin.
-{{% /details %}}
+{{% /ls-details %}}

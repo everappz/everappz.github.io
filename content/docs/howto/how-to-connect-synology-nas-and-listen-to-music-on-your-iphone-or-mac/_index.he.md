@@ -7,7 +7,7 @@ tags: ["מוזיקה", "הזרמה", "nas", "synology", "quickconnect"]
 readingTime: 4
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **תקציר:** חבר את ה-Synology NAS שלך ל-Evermusic או Flacbox באמצעות ה-API המקורי של Synology -- באופן ידני דרך כתובת IP או באופן אוטומטי דרך מזהה QuickConnect. QuickConnect מאפשר לך להזרים מוזיקה מרחוק ללא העברת פורטים. שתי האפליקציות תומכות ב-FLAC, MP3, WAV ופורמטים נוספים באיכות גבוהה.
@@ -140,22 +140,22 @@ Synology DSM משתמש בפורטים המוגדרים כברירת מחדל ה
 
 ## שאלות נפוצות
 
-{{% details title="מה ההבדל בין חיבור ידני ל-QuickConnect?" closed="true" %}}
+{{% ls-details title="מה ההבדל בין חיבור ידני ל-QuickConnect?" closed="true" %}}
 חיבור ידני משתמש בכתובת ה-IP והפורט של ה-NAS, שעובד ברשת המקומית שלך. QuickConnect משתמש בשירות הממסר של Synology ליצירת חיבור מכל מקום דרך האינטרנט, ללא העברת פורטים.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="האם אוכל להזרים מוזיקה מ-Synology NAS מחוץ לרשת הביתית שלי?" closed="true" %}}
+{{% ls-details title="האם אוכל להזרים מוזיקה מ-Synology NAS מחוץ לרשת הביתית שלי?" closed="true" %}}
 כן. הפעל QuickConnect ב-Synology NAS שלך והשתמש במזהה QuickConnect ב-Evermusic או Flacbox כדי להזרים מוזיקה מכל מקום עם חיבור לאינטרנט.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="אילו פורמטי שמע נתמכים בהזרמה מ-Synology NAS?" closed="true" %}}
+{{% ls-details title="אילו פורמטי שמע נתמכים בהזרמה מ-Synology NAS?" closed="true" %}}
 Evermusic ו-Flacbox תומכים ב-FLAC, MP3, AAC, WAV, ALAC, OGG, WMA, DSD ופורמטים רבים נוספים. כל הפורמטים הנתמכים עובדים בהזרמה מ-Synology NAS.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="האם אני צריך אימות דו-שלבי כדי להתחבר?" closed="true" %}}
+{{% ls-details title="האם אני צריך אימות דו-שלבי כדי להתחבר?" closed="true" %}}
 לא, אימות דו-שלבי הוא אופציונלי. עם זאת, אם הפעלת אימות דו-שלבי ב-Synology DSM שלך, האפליקציה תבקש סיסמה חד-פעמית בעת ההתחברות. תצטרך לאשר מחדש כאשר ההפעלה פגה.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="האם עלי להשתמש ב-API המקורי של Synology, WebDAV או SMB כדי להתחבר?" closed="true" %}}
+{{% ls-details title="האם עלי להשתמש ב-API המקורי של Synology, WebDAV או SMB כדי להתחבר?" closed="true" %}}
 ה-API המקורי של Synology עם QuickConnect הוא הבחירה הטובה ביותר לגישה מרחוק. לשימוש ברשת מקומית, SMB הוא בדרך כלל האפשרות המהירה ביותר. WebDAV עובד היטב לגישה מקומית ומרחוק. Evermusic ו-Flacbox תומכים בשלושת הפרוטוקולים.
-{{% /details %}}
+{{% /ls-details %}}

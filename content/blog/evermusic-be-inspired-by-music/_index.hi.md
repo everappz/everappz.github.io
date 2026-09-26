@@ -14,7 +14,7 @@ authors:
     image: "/images/about/artem-meleshko-founder-everappz.webp"
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 **संक्षेप में:** iPhone और Mac पर क्लाउड म्यूजिक स्ट्रीमिंग, ऑफलाइन प्लेबैक और ऑडियो कस्टमाइज़ेशन को एक्शन में देखने के लिए आधिकारिक Evermusic प्रोमो वीडियो देखें।
 
@@ -24,7 +24,7 @@ authors:
 
 Evermusic को एक्शन में देखें — क्लाउड से म्यूजिक स्ट्रीमिंग, प्लेलिस्ट मैनेजमेंट और iPhone पर हाई-क्वालिटी ऑडियो:
 
-{{< youtubecard id="6mm3LVT4rtA" title="Evermusic Promo Video" >}}
+{{< ls-youtubecard id="6mm3LVT4rtA" title="Evermusic Promo Video" >}}
 
 ## आप वीडियो में क्या देखेंगे
 
@@ -41,14 +41,14 @@ Evermusic iPhone, iPad और Mac के लिए उपलब्ध है। 
 
 ## FAQ
 
-{{% details title="Evermusic क्या है?" closed="true" %}}
+{{% ls-details title="Evermusic क्या है?" closed="true" %}}
 Evermusic iOS और macOS के लिए एक म्यूजिक प्लेयर है जो Dropbox, Google Drive, OneDrive और iCloud Drive जैसी क्लाउड सर्विसेज से ऑडियो स्ट्रीम करता है। यह ऑफलाइन प्लेबैक भी सपोर्ट करता है और इसमें बिल्ट-इन इक्वलाइज़र शामिल है।
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Evermusic किन क्लाउड सर्विसेज को सपोर्ट करता है?" closed="true" %}}
+{{% ls-details title="Evermusic किन क्लाउड सर्विसेज को सपोर्ट करता है?" closed="true" %}}
 Evermusic Dropbox, Google Drive, OneDrive, iCloud Drive, pCloud, Yandex.Disk और कई अन्य क्लाउड स्टोरेज प्रोवाइडर्स से कनेक्ट होता है।
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="क्या Evermusic मुफ़्त है?" closed="true" %}}
+{{% ls-details title="क्या Evermusic मुफ़्त है?" closed="true" %}}
 Evermusic इन-ऐप पर्चेस के माध्यम से उपलब्ध ऑप्शनल प्रीमियम फीचर्स के साथ मुफ़्त डाउनलोड है।
-{{% /details %}}
+{{% /ls-details %}}

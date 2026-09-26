@@ -12,7 +12,7 @@ authors:
     image: "/images/about/artem-meleshko-founder-everappz.webp"
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 **Yhteenveto:** Flacbox on ylittänyt 1 miljoonan latauksen maailmanlaajuisesti. Se tukee FLAC-, ALAC-, APE-, DSD- ja muita häviöttömiä formaatteja 10-kaistan taajuuskorjaimella, M3U/CUE-soittolistoilla, offline-toistolla ja laitteiden välisellä synkronoinnilla iPhonessa, iPadissa ja Macissa.
 
@@ -78,26 +78,26 @@ Tuleva kehitys keskittyy:
 
 ## Usein kysytyt kysymykset
 
-{{% details title="Mitä äänimuotoja Flacbox tukee?" closed="true" %}}
+{{% ls-details title="Mitä äänimuotoja Flacbox tukee?" closed="true" %}}
 Flacbox toistaa FLAC-, ALAC-, APE-, DSD-, WavPack-, TTA-, RealAudio-, MP3-, AAC-, OGG- ja monia muita formaatteja. Se on suunniteltu ensisijaisesti häviöttömälle ja hi-res-äänelle.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Onko Flacboxissa taajuuskorjain?" closed="true" %}}
+{{% ls-details title="Onko Flacboxissa taajuuskorjain?" closed="true" %}}
 Kyllä. Flacbox sisältää 10-kaistan taajuuskorjaimen lajikohtaisilla esiasetuksilla ja manuaalisella taajuussäädöllä.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Voinko kuunnella musiikkia offline Flacboxilla?" closed="true" %}}
+{{% ls-details title="Voinko kuunnella musiikkia offline Flacboxilla?" closed="true" %}}
 Kyllä. Lataa tiedostoja pilvitallennuksesta tai siirrä ne suoraan sovellukseen offline-toistoa varten ilman internet-yhteyttä.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Toimiiko Flacbox Macilla?" closed="true" %}}
+{{% ls-details title="Toimiiko Flacbox Macilla?" closed="true" %}}
 Kyllä. Flacbox toimii iPhonessa, iPadissa ja Macissa synkronoiduilla kirjastoilla ja toistohistorialla kaikissa laitteissa.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Mikä on CUE-tiedostojen tuki?" closed="true" %}}
+{{% ls-details title="Mikä on CUE-tiedostojen tuki?" closed="true" %}}
 CUE-tiedostot määrittävät kappalerajat yhden äänitiedoston sisällä. Flacbox lukee CUE-tiedostoja jakaakseen albumitallenteet yksittäisiksi kappaleiksi oikeilla metatiedoilla.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Onko Flacbox ilmainen?" closed="true" %}}
+{{% ls-details title="Onko Flacbox ilmainen?" closed="true" %}}
 Flacbox on ilmainen ladata valinnaisilla premium-ominaisuuksilla, jotka ovat saatavilla sovelluksen sisäisenä ostona.
-{{% /details %}}
+{{% /ls-details %}}

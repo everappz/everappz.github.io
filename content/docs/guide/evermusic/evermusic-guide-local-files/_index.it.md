@@ -20,7 +20,7 @@ La sezione File locali funge da hub per la gestione dei file nella cartella "Doc
 Questo gestore file integrato consente di modificare i file e offre vari metodi per importare file audio nell'app.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Schermata File locali di Evermusic" image="/docs/guide/evermusic/evermusic-guide-local-files/img/local-files-main.webp" >}}
+  {{< ls-card title="" subtitle="Schermata File locali di Evermusic" image="/docs/guide/evermusic/evermusic-guide-local-files/img/local-files-main.webp" >}}
 {{< /cards >}}
 
 ## Scarica file dallo storage cloud
@@ -40,7 +40,7 @@ Importa facilmente file dal tuo dispositivo come descritto [qui](/docs/howto/how
 Trasferisci file tramite una connessione via cavo come descritto [qui](/docs/howto/how-to-transfer-files-from-my-mac-to-iphone-or-ipad-using-finder).
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="iTunes / Finder File Sharing" image="/docs/guide/evermusic/evermusic-guide-local-files/img/local-files-itunes-file-sharing.webp" >}}
+  {{< ls-card title="" subtitle="iTunes / Finder File Sharing" image="/docs/guide/evermusic/evermusic-guide-local-files/img/local-files-itunes-file-sharing.webp" >}}
 {{< /cards >}}
 
 ## Wi-Fi Drive
@@ -48,7 +48,7 @@ Trasferisci file tramite una connessione via cavo come descritto [qui](/docs/how
 Trasferisci file in modalità wireless come descritto [qui](/docs/howto/how-to-transfer-files-wirelessly-from-a-computer-to-an-iphone-using-wifi-drive).
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Impostazioni Server Wi-Fi Drive" image="/docs/guide/evermusic/evermusic-guide-local-files/img/local-files-wifidrive-settings.webp" >}}
+  {{< ls-card title="" subtitle="Impostazioni Server Wi-Fi Drive" image="/docs/guide/evermusic/evermusic-guide-local-files/img/local-files-wifidrive-settings.webp" >}}
 {{< /cards >}}
 
 ## Coda Trasferimenti
@@ -56,7 +56,7 @@ Trasferisci file in modalità wireless come descritto [qui](/docs/howto/how-to-t
 Nell'angolo in alto a sinistra della barra di navigazione, troverai un pulsante 'Trasferimenti'. Toccalo per accedere alla coda di trasferimento, dove puoi monitorare e gestire tutti i tuoi download e upload. Inoltre, hai la flessibilità di regolare la velocità della coda di trasferimento e il tipo di rete nelle impostazioni dell'app.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Coda Trasferimenti File" image="/docs/guide/evermusic/evermusic-guide-local-files/img/local-files-file-transfers.webp" >}}
+  {{< ls-card title="" subtitle="Coda Trasferimenti File" image="/docs/guide/evermusic/evermusic-guide-local-files/img/local-files-file-transfers.webp" >}}
 {{< /cards >}}
 
 ## Sezione Accesso Rapido
@@ -68,7 +68,7 @@ Nella parte superiore della schermata, una sezione di accesso rapido fornisce co
 Questa sezione mostra tutti i file o le cartelle aperti di recente.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="File e Cartelle Aperti di Recente" image="/docs/guide/evermusic/evermusic-guide-local-files/img/local-files-recents.webp" >}}
+  {{< ls-card title="" subtitle="File e Cartelle Aperti di Recente" image="/docs/guide/evermusic/evermusic-guide-local-files/img/local-files-recents.webp" >}}
 {{< /cards >}}
 
 ## Preferiti
@@ -76,7 +76,7 @@ Questa sezione mostra tutti i file o le cartelle aperti di recente.
 Puoi contrassegnare file o cartelle come preferiti e accedervi in questa sezione. Inoltre, puoi aggiungere una cartella situata sul tuo dispositivo ai preferiti. Per farlo, apri la sezione preferiti, tocca i tre punti nell'angolo in alto a destra e scegli la voce di menu "Aggiungi cartella". Segui le istruzioni per aggiungere una cartella dal tuo dispositivo ai preferiti per un accesso rapido.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Preferiti — Aggiungi Cartella Dal Tuo Dispositivo" image="/docs/guide/evermusic/evermusic-guide-local-files/img/local-files-favorites.webp" >}}
+  {{< ls-card title="" subtitle="Preferiti — Aggiungi Cartella Dal Tuo Dispositivo" image="/docs/guide/evermusic/evermusic-guide-local-files/img/local-files-favorites.webp" >}}
 {{< /cards >}}
 
 ## Barra degli strumenti superiore
@@ -91,7 +91,7 @@ La barra degli strumenti superiore, situata sotto la barra di navigazione, offre
 Puoi mostrare o nascondere la barra degli strumenti superiore usando un gesto di scorrimento verso il basso.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Barra degli Strumenti Superiore per la Cartella Corrente" image="/docs/guide/evermusic/evermusic-guide-local-files/img/local-files-top-toolbar.webp" >}}
+  {{< ls-card title="" subtitle="Barra degli Strumenti Superiore per la Cartella Corrente" image="/docs/guide/evermusic/evermusic-guide-local-files/img/local-files-top-toolbar.webp" >}}
 {{< /cards >}}
 
 ## Cartelle Speciali
@@ -128,7 +128,7 @@ Mostra file e cartelle archiviati nella directory Documents dell'app e in iCloud
 Mostra file situati sul tuo dispositivo ma in applicazioni diverse. Puoi importarli in questa applicazione usando il selettore di file di sistema. Per attivare il selettore, scegli "Apri file..." per selezionare file o "Apri cartelle..." per selezionare cartelle. Istruzioni dettagliate su come importare musica locale archiviata sul tuo iPhone o Mac sono disponibili [qui](/docs/howto/how-to-play-local-music-stored-on-your-iphone-or-mac). Puoi anche connettere una cartella situata sul tuo dispositivo e avere accesso rapido al contenuto della cartella. Usa la voce di menu "Connetti una cartella" e scegli una cartella situata sul tuo dispositivo. Tocca "Fine" e l'app creerà un collegamento a quella cartella con accesso in lettura/scrittura e potrai gestire i file direttamente da questa app. Per disconnettere la cartella situata sul tuo dispositivo tocca il pulsante "Altre azioni" e scegli "Disconnetti".
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="File su questo iPhone / iPad / Mac" image="/docs/guide/evermusic/evermusic-guide-local-files/img/local-files-on-this-device.webp" >}}
+  {{< ls-card title="" subtitle="File su questo iPhone / iPad / Mac" image="/docs/guide/evermusic/evermusic-guide-local-files/img/local-files-on-this-device.webp" >}}
 {{< /cards >}}
 
 ## Importa File Situati su Flash Drive USB Collegati
@@ -151,7 +151,7 @@ Il menu altre azioni per la cartella attualmente aperta si trova nell'angolo in 
 Se devi modificare più file, attiva la modalità di selezione toccando il pulsante altre azioni "..." nella barra di navigazione nell'angolo in alto a destra e poi scegli la voce di menu "Seleziona". Questo mostrerà caselle di controllo vicino a ogni file. Seleziona i file desiderati toccando le loro caselle di controllo. Puoi eseguire le seguenti azioni sui file selezionati.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Azioni Modalità Selezione per File Locali" image="/docs/guide/evermusic/evermusic-guide-local-files/img/local-files-selection-mode.webp" >}}
+  {{< ls-card title="" subtitle="Azioni Modalità Selezione per File Locali" image="/docs/guide/evermusic/evermusic-guide-local-files/img/local-files-selection-mode.webp" >}}
 {{< /cards >}}
 
 - **Riproduci successivo:** Aggiungi i file o le cartelle selezionati in cima alla coda del lettore con l'ordine di ordinamento corrente.
@@ -186,7 +186,7 @@ Per ogni file o cartella nell'app, sono disponibili diverse azioni, accessibili 
 ## Cartelle Offline
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Menu Altre Azioni Cartella Offline" image="/docs/guide/evermusic/evermusic-guide-local-files/img/local-files-offline-folders.webp" >}}
+  {{< ls-card title="" subtitle="Menu Altre Azioni Cartella Offline" image="/docs/guide/evermusic/evermusic-guide-local-files/img/local-files-offline-folders.webp" >}}
 {{< /cards >}}
 
 La modalità offline è una funzione pratica che ti permette di accedere alla tua musica preferita anche quando non sei connesso a internet. Quando abiliti la modalità offline per un album, un artista, una playlist, un genere o una cartella remota, tutti i file all'interno di quella raccolta verranno scaricati automaticamente sul tuo dispositivo per la riproduzione offline. Puoi accedere comodamente a questi file nella sezione "Cartelle Offline" dell'app.
@@ -204,7 +204,7 @@ Istruzioni dettagliate su Come Riprodurre Musica Offline in Evermusic & Flacbox:
 Quasi ogni comportamento della schermata File Locali — dalla larghezza di banda della rete a dove finiscono i download a come vengono memorizzate nella cache le miniature — è configurabile in **Impostazioni → Gestore file**. Aprilo quando vuoi ottimizzare la velocità di trasferimento, risparmiare spazio di archiviazione o limitare l'app solo al Wi-Fi.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Schermata Impostazioni Gestore File" image="/docs/guide/evermusic/evermusic-guide-local-files/img/local-files-file-manager-settings.webp" >}}
+  {{< ls-card title="" subtitle="Schermata Impostazioni Gestore File" image="/docs/guide/evermusic/evermusic-guide-local-files/img/local-files-file-manager-settings.webp" >}}
 {{< /cards >}}
 
 La schermata espone ogni opzione raggruppata in sezioni chiaramente etichettate:

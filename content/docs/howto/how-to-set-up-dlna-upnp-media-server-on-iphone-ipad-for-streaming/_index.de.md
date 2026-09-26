@@ -7,7 +7,7 @@ keywords: ["DLNA Server iPhone", "UPnP Server iPad", "DLNA auf iPhone einrichten
 readingTime: 9
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 DLNA (auch UPnP AV genannt) ist das stille Arbeitspferd hinter den meisten Smart-TVs. Es ist eine gemeinsame Sprache, die es einem TV oder Medienplayer erlaubt, eine Mediathek im selben Wi-Fi zu finden und daraus abzuspielen, ganz ohne etwas auf dem TV zu installieren. Wenn dein iPhone oder iPad als diese Mediathek fungieren kann, erscheinen deine Fotos, Videos und Musik von selbst auf dem grossen Bildschirm.
 
@@ -127,45 +127,45 @@ DLNA gibt die Datei so, wie sie ist, an den TV weiter, und der TV muss sie dekod
 
 ## Haufig gestellte Fragen
 
-{{% details title="Was ist der Unterschied zwischen DLNA und UPnP?" closed="true" %}}
+{{% ls-details title="Was ist der Unterschied zwischen DLNA und UPnP?" closed="true" %}}
 Sie sind eng verwandt. UPnP ist der zugrunde liegende Netzwerkstandard und DLNA ist das darauf aufbauende Medienprofil, das TVs und Player nutzen, um Fotos, Videos und Musik zu teilen und abzuspielen. Im Alltag werden die Begriffe synonym verwendet. Wenn du TV & Media Center in Everdisk einschaltest, wird dein Gerat zu einem DLNA/UPnP-Medienserver, den jeder DLNA-Client durchsuchen kann.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Muss ich etwas auf meinem TV installieren?" closed="true" %}}
+{{% ls-details title="Muss ich etwas auf meinem TV installieren?" closed="true" %}}
 Nein. Wenn dein TV DLNA unterstutzt, hat er bereits einen Medienplayer, der dein Gerat im Wi-Fi finden kann. Du installierst Everdisk nur auf dem iPhone oder iPad, das die Inhalte enthalt. Wenn dein TV DLNA nicht unterstutzt, installiere einen Player wie VLC oder Kodi auf einem damit verbundenen Gerat.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Warum erscheint mein iPhone nicht auf dem TV?" closed="true" %}}
+{{% ls-details title="Warum erscheint mein iPhone nicht auf dem TV?" closed="true" %}}
 Prufe, ob beide Gerate im selben Wi-Fi-Netzwerk sind. Gastnetzwerke und manche Buro- oder Hotelnetzwerke verhindern, dass sich Gerate gegenseitig sehen, was DLNA stoppt. Bestatige dann, dass Everdisk offen und das Teilen gestartet ist und dass TV & Media Center in Einstellungen, Teilen, Verbindungen aktiviert ist. Wenn der TV es immer noch nicht findet, fuge den Server von Hand mit der Gerätebeschreibungsadresse hinzu, die auf /device-desc.xml endet.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Braucht DLNA-Streaming ein Passwort?" closed="true" %}}
+{{% ls-details title="Braucht DLNA-Streaming ein Passwort?" closed="true" %}}
 Nein. DLNA ist, solange es aktiv ist, immer fur jeden im selben Wi-Fi offen, weshalb es auf der TV-Seite kein Login gibt. In einem Heimnetzwerk, dem du vertraust, ist das in Ordnung. In einem Netzwerk, dem du nicht vertraust, schalte TV & Media Center aus, wenn du fertig bist, oder nutze stattdessen den SMB-Server mit Verschlusselung.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Kann ich auf einen Chromecast oder Roku streamen?" closed="true" %}}
+{{% ls-details title="Kann ich auf einen Chromecast oder Roku streamen?" closed="true" %}}
 Chromecast und Roku fungieren von Haus aus nicht als DLNA-Player, daher finden sie dein Gerat nicht direkt. Die Losung ist, eine DLNA-App zu installieren, die casten kann, etwa VLC oder BubbleUPnP auf einem Handy, und die Wiedergabe von dort an den Chromecast oder Roku weiterzureichen. Auf den meisten anderen Smart-TVs funktioniert DLNA ohne all das.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Ein Video spielt ohne Ton oder offnet sich nicht. Was kann ich tun?" closed="true" %}}
+{{% ls-details title="Ein Video spielt ohne Ton oder offnet sich nicht. Was kann ich tun?" closed="true" %}}
 Das ist ein Format, das der TV nicht dekodieren kann. Offne Einstellungen, Teilen, Videos in Everdisk und verringere die Qualität, sodass die App das Video beim Streamen in ein kompatibleres Format konvertiert. Du kannst dieselbe Datei auch uber den Browser-Link offnen, der mehr Formate verarbeitet.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Kann ich Musik streamen, nicht nur Video?" closed="true" %}}
+{{% ls-details title="Kann ich Musik streamen, nicht nur Video?" closed="true" %}}
 Ja. Aktiviere Zugriff auf die gesamte Musikmediathek erlauben oder fuge bestimmte Titel hinzu, dann starte das Teilen. Deine Titel erscheinen auf jedem DLNA-Lautsprecher, AV-Receiver oder TV, mit Cover und Titeldetails. Musik wird immer in Originalqualitat geteilt.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Muss die App offen bleiben, wahrend ich zusehe?" closed="true" %}}
+{{% ls-details title="Muss die App offen bleiben, wahrend ich zusehe?" closed="true" %}}
 Ja. Dein iPhone fungiert als Server, und iOS pausiert Apps, die lange vollstandig in den Hintergrund geschoben werden. Halte Everdisk beim Streamen auf dem Bildschirm und schliesse fur lange Sitzungen den Strom an.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Wie streame ich von einem iPhone auf ein anderes iPad?" closed="true" %}}
+{{% ls-details title="Wie streame ich von einem iPhone auf ein anderes iPad?" closed="true" %}}
 Starte das Teilen auf dem iPhone, offne dann Everdisk auf dem iPad und gehe zum Tab Geräte. Das iPhone erscheint unter Verfügbare Geräte als Medienserver. Tippe darauf, um zu durchsuchen und abzuspielen. Everdisk funktioniert als DLNA-Client und Server, du brauchst also keine weitere App.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Ist Everdisk kostenlos?" closed="true" %}}
+{{% ls-details title="Ist Everdisk kostenlos?" closed="true" %}}
 Ja, Everdisk ist ein kostenloser Download und der DLNA-Medienserver ist enthalten. Ein optionaler einmaliger Premium-Lifetime-Kauf fugt Extras hinzu, etwa Foto- und Videokonvertierung fur altere TVs, individuelle Ports und mehr. Du kannst DLNA-Streaming einrichten und nutzen, ohne zu zahlen.
-{{% /details %}}
+{{% /ls-details %}}
 
 Bereit, es auszuprobieren? [Lade Everdisk aus dem App Store](https://apps.apple.com/app/apple-store/id6751851132?pt=95781850&ct=everappzcom&mt=8) und streame dein erstes Album in wenigen Minuten auf den TV. Fragen oder Feedback? Schreib uns an **support@everappz.com**.
 </content>

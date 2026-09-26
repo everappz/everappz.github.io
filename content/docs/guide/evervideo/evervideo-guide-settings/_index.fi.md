@@ -23,7 +23,7 @@ readingTime: 16
 Asetukset-näyttö on Evervideo-ohjauksen keskus. Täältä voit päivittää Premiumiin, määrittää video- ja äänimoottoreita (järjestelmäkoodekot tai FFmpeg), hallita Kuva kuvassa -toimintoa, määrittää tekstitykset (ensisijainen, toissijainen, libass, ulkoiset tiedostot, fontit), järjestää mediakirjaston, määrittää tiedostonhallinnan, ottaa käyttöön aloitusnäytön widgetit, varmuuskopioida tietosi ja käyttää ohjeita ja oikeudellisia tietoja. Osiot on ryhmitelty otsikoiden alle: Ostokset ja päivitykset, Sovelluksen asetukset, Ohje, Oikeudelliset ja tietosuoja.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evervideo Asetukset-päänäyttö" image="/docs/guide/evervideo/img/evervideo-settings.webp" >}}
+  {{< ls-card title="" subtitle="Evervideo Asetukset-päänäyttö" image="/docs/guide/evervideo/img/evervideo-settings.webp" >}}
 {{< /cards >}}
 
 ## Päivitä Premiumiin
@@ -31,13 +31,13 @@ Asetukset-näyttö on Evervideo-ohjauksen keskus. Täältä voit päivittää Pr
 Päivitä sovellus Premium-versioon poistaaksesi kaikki rajoitukset. Sovelluksen ilmaisversio tarjoaa kertaluonteisen elinikäisen sovellussisäisen oston ja kaksi tilausvaihtoehtoa (1 kuukausi ja 1 vuosi) kaikkien rajoitusten poistamiseksi ja Premiumiin päivittämiseksi.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evervideo Päivitä Premiumiin" image="/docs/guide/evervideo/img/evervideo-upgrade-to-premium.webp" >}}
+  {{< ls-card title="" subtitle="Evervideo Päivitä Premiumiin" image="/docs/guide/evervideo/img/evervideo-upgrade-to-premium.webp" >}}
 {{< /cards >}}
 
 **Perhejako** on käytössä kaikille ostoille ja suunnitelmille, joten voit jakaa Premium-version jopa viiden perheenjäsenesi kanssa ilman lisäkustannuksia.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evervideo Valitse Premium-suunnitelma" image="/docs/guide/evervideo/img/evervideo-select-premium-plan.webp" >}}
+  {{< ls-card title="" subtitle="Evervideo Valitse Premium-suunnitelma" image="/docs/guide/evervideo/img/evervideo-select-premium-plan.webp" >}}
 {{< /cards >}}
 
 ## Ostojen jakaminen iOS:n ja Macin välillä
@@ -51,7 +51,7 @@ Voit myös napauttaa **Palauta ostokset** -painiketta sovelluksen asetuksissa. V
 Palauttaaksesi ostoksesi uudelle laitteelle käytä valikkoa **Ostokset → Palauta ostokset**. Näet ostoslistasi. Jos et näe kaikkia niistä, vahvista, että laite on yhdistetty samaan Apple ID:hen, jota käytettiin ostoihin, ja varmista, että iCloud on käytössä.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evervideo Ostokset-valikko Asetuksissa" image="/docs/guide/evervideo/img/evervideo-purhases-menu-in-settings.webp" >}}
+  {{< ls-card title="" subtitle="Evervideo Ostokset-valikko Asetuksissa" image="/docs/guide/evervideo/img/evervideo-purhases-menu-in-settings.webp" >}}
 {{< /cards >}}
 
 ## Kokeile Premiumia ilmaiseksi

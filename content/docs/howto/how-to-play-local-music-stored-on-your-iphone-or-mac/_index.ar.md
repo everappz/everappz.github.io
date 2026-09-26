@@ -6,7 +6,7 @@ tags: ["موسيقى محلية", "موسيقى بدون إنترنت", "مشغ�
 keywords: ["كيفية تشغيل الموسيقى المحلية على iPhone", "تشغيل الموسيقى من تخزين الجهاز", "مشغل موسيقى بدون إنترنت iOS", "دليل تطبيق Evermusic", "مشغل FLAC Flacbox", "تشغيل الملفات المحلية iOS", "مكتبة موسيقى Mac", "تطبيق موسيقى للملفات المحلية", "تشغيل الأغاني المحملة على iPhone", "كيفية استخدام Evermusic مع الملفات المحلية"]
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **ملخص:** قم بتثبيت [Evermusic](/products/evermusic) (MP3/WAV) أو [Flacbox](/products/flacbox) (FLAC/DSD)، افتح أي ملف صوتي محلي أو مجلد، وابدأ التشغيل. أضف المجلدات إلى **المفضلات** للوصول السريع، أو استورد المقاطع إلى مكتبة الموسيقى، أو أنشئ قوائم تشغيل.
@@ -24,10 +24,10 @@ keywords: ["كيفية تشغيل الموسيقى المحلية على iPhone"
 لبدء رحلتك في عالم الموسيقى المحلية على iPhone وMac، ابدأ بتثبيت إما Evermusic (لصيغ الصوت القياسية مثل mp3 وwav) أو Flacbox (للموسيقى عالية الجودة بصيغ dsd وflac). كلا التطبيقين متاحان لنظامي iOS وmacOS، ويمكنك تحميلهما مجاناً.
 
 {{< cards >}}
-  {{< card link="https://apps.apple.com/us/app/evermusic-cloud-music-player/id885367198?pt=95781850&ct=everappzcom&mt=8" title="تحميل Evermusic لنظام iOS" tag="iOS" >}}
-  {{< card link="https://apps.apple.com/us/app/flacbox-hi-res-equalizer/id1097564256?pt=95781850&ct=everappzcom&mt=8" title="تحميل Flacbox لنظام iOS" tag="iOS" >}}
-  {{< card link="https://apps.apple.com/us/app/evermusic-hi-res-music-player/id1564384601?pt=95781850&ct=everappzcom&mt=8" title="تحميل Evermusic لنظام Mac" tag="macOS" >}}
-  {{< card link="https://apps.apple.com/us/app/flacbox-hi-res-music-player/id1594027432?pt=95781850&ct=everappzcom&mt=8" title="تحميل Flacbox لنظام Mac" tag="macOS" >}}
+  {{< ls-card link="https://apps.apple.com/us/app/evermusic-cloud-music-player/id885367198?pt=95781850&ct=everappzcom&mt=8" title="تحميل Evermusic لنظام iOS" tag="iOS" >}}
+  {{< ls-card link="https://apps.apple.com/us/app/flacbox-hi-res-equalizer/id1097564256?pt=95781850&ct=everappzcom&mt=8" title="تحميل Flacbox لنظام iOS" tag="iOS" >}}
+  {{< ls-card link="https://apps.apple.com/us/app/evermusic-hi-res-music-player/id1564384601?pt=95781850&ct=everappzcom&mt=8" title="تحميل Evermusic لنظام Mac" tag="macOS" >}}
+  {{< ls-card link="https://apps.apple.com/us/app/flacbox-hi-res-music-player/id1594027432?pt=95781850&ct=everappzcom&mt=8" title="تحميل Flacbox لنظام Mac" tag="macOS" >}}
 {{< /cards >}}
 
 
@@ -135,22 +135,22 @@ keywords: ["كيفية تشغيل الموسيقى المحلية على iPhone"
 
 ## الأسئلة الشائعة
 
-{{% details title="ما هي صيغ الصوت التي يمكن لـ Evermusic وFlacbox تشغيلها؟" closed="true" %}}
+{{% ls-details title="ما هي صيغ الصوت التي يمكن لـ Evermusic وFlacbox تشغيلها؟" closed="true" %}}
 يشغل Evermusic صيغ MP3 وWAV وAAC وM4A وصيغ قياسية أخرى. يضيف Flacbox دعماً لصيغ FLAC وDSD وOGG وOPUS وAPE وWMA وALAC.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="هل تنسخ هذه التطبيقات الملفات إلى تخزين التطبيق؟" closed="true" %}}
+{{% ls-details title="هل تنسخ هذه التطبيقات الملفات إلى تخزين التطبيق؟" closed="true" %}}
 بشكل افتراضي، يتم تشغيل الملفات من موقعها الأصلي دون نسخها. لتغيير هذا السلوك، قم بتفعيل "نسخ الملفات دائماً أثناء الفتح" في **الإعدادات** > مدير الملفات.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="هل يمكنني تنظيم الموسيقى المحلية حسب الفنان والألبوم؟" closed="true" %}}
+{{% ls-details title="هل يمكنني تنظيم الموسيقى المحلية حسب الفنان والألبوم؟" closed="true" %}}
 نعم. قم باستيراد الملفات إلى مكتبة الموسيقى (الخطوة 4) وسيقرأ التطبيق البيانات الوصفية لتجميع المقاطع حسب الفنان والألبوم والنوع والملحن.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="كيف أنقل الموسيقى من جهاز الكمبيوتر إلى iPhone؟" closed="true" %}}
+{{% ls-details title="كيف أنقل الموسيقى من جهاز الكمبيوتر إلى iPhone؟" closed="true" %}}
 استخدم مشاركة ملفات iTunes (USB) أو WiFi Drive (لاسلكياً) أو SMB (البث). راجع دليلنا المفصل: [نقل وتشغيل الملفات المحلية على iPhone](/docs/howto/how-to-play-local-itunes-files-on-my-iphone/).
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="هل Evermusic وFlacbox مجانيان؟" closed="true" %}}
+{{% ls-details title="هل Evermusic وFlacbox مجانيان؟" closed="true" %}}
 نعم، كلا التطبيقين مجانيان للتحميل مع ميزات أساسية تشمل التشغيل والمعادل الصوتي والبث السحابي. تحتوي الإصدارات المجانية على بعض القيود (عدد قوائم التشغيل والحسابات السحابية والمجلدات غير المتصلة). الترقية إلى Premium تزيل هذه القيود.
-{{% /details %}}
+{{% /ls-details %}}

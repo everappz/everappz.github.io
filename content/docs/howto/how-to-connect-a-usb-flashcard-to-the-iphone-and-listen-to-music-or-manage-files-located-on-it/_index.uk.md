@@ -7,7 +7,7 @@ tags: ["музика", "файли", "usb", "флеш", "зовнішній", "i
 readingTime: 2
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **Короткий зміст:** Підключіть USB-флешку або SD-картку до вашого iPhone за допомогою адаптера Apple або накопичувача SanDisk iXpand, а потім використовуйте Evermusic, Flacbox або Evertag для перегляду, відтворення та керування вашими аудіофайлами безпосередньо із зовнішнього сховища.
@@ -72,18 +72,18 @@ readingTime: 2
 
 ## Поширені запитання
 
-{{% details title="Які USB-адаптери працюють з iPhone для відтворення музики?" closed="true" %}}
+{{% ls-details title="Які USB-адаптери працюють з iPhone для відтворення музики?" closed="true" %}}
 Працюють як Lightning to SD Card Camera Reader, так і Lightning to USB 3 Camera Adapter від Apple. USB-C адаптери працюють на нових iPhone з портами USB-C. Накопичувачі SanDisk iXpand Flash (V1-V7) також нативно підтримуються Evermusic, Flacbox та Evertag.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Чи можу я відтворювати музику безпосередньо з USB-накопичувача без копіювання файлів?" closed="true" %}}
+{{% ls-details title="Чи можу я відтворювати музику безпосередньо з USB-накопичувача без копіювання файлів?" closed="true" %}}
 Так. З накопичувачами SanDisk iXpand ви можете відтворювати музику безпосередньо з накопичувача без копіювання файлів на iPhone. При використанні адаптерів Apple файли імпортуються, але ви можете вибрати, чи копіювати їх у локальне сховище.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Які аудіоформати підтримуються з USB-накопичувачів?" closed="true" %}}
+{{% ls-details title="Які аудіоформати підтримуються з USB-накопичувачів?" closed="true" %}}
 Evermusic та Flacbox підтримують широкий спектр форматів, включаючи FLAC, MP3, AAC, WAV, ALAC, OGG, WMA та інші. Усі підтримувані формати працюють при відтворенні з USB-сховища.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Мій SanDisk iXpand показує помилку «зайнятий». Що робити?" closed="true" %}}
+{{% ls-details title="Мій SanDisk iXpand показує помилку «зайнятий». Що робити?" closed="true" %}}
 Інший додаток може звертатися до накопичувача. Закрийте всі інші додатки, які можуть використовувати флешку, або від'єднайте її та вставте знову. Потім повторно відкрийте Evermusic, Flacbox або Evertag.
-{{% /details %}}
+{{% /ls-details %}}

@@ -12,7 +12,7 @@ authors:
     image: "/images/about/artem-meleshko-founder-everappz.webp"
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 ## Evermusic 3.1: מה השתנה ולמה זה חשוב
 
@@ -89,22 +89,22 @@ authors:
 
 ## שאלות נפוצות
 
-{{% details title="מהי השמעת מעבר חלק ב-Evermusic?" closed="true" %}}
+{{% ls-details title="מהי השמעת מעבר חלק ב-Evermusic?" closed="true" %}}
 השמעת מעבר חלק ממזגת את סוף רצועה אחת עם תחילת הרצועה הבאה, ויוצרת מעברים חלקים. תוכלו להגדיר את המשך בין 3 ל-15 שניות ב-Settings → Audio Player → Crossfade Playback.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="האם אפשר לגבות את רשימות ההשמעה של Evermusic לאחסון ענן?" closed="true" %}}
+{{% ls-details title="האם אפשר לגבות את רשימות ההשמעה של Evermusic לאחסון ענן?" closed="true" %}}
 כן. Evermusic 3.1 מאפשר לכם לגבות את כל הספרייה — כולל רשימות השמעה, מטא-נתונים, עטיפות והגדרות — לכל שירות ענן מחובר כקובץ אחד.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="האם Evermusic תומך בדפדוף בספריית iPod?" closed="true" %}}
+{{% ls-details title="האם Evermusic תומך בדפדוף בספריית iPod?" closed="true" %}}
 כן. תוכלו לדפדף בספריית ה-iPod שלכם לפי רשימות השמעה, אלבומים, אמנים וז'אנרים ישירות ממסך הבית של Evermusic ולהוסיף רצועות לתור שלכם.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="איך מתקנים תגיות שירים שגויות ב-Evermusic?" closed="true" %}}
+{{% ls-details title="איך מתקנים תגיות שירים שגויות ב-Evermusic?" closed="true" %}}
 השתמשו בעורך התגיות המובנה ולחצו על פעולת זיהוי. Evermusic סורק את שמות הקבצים שלכם ומעדכן תגיות ID3 עם מטא-נתונים מתוקנים אוטומטית.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="אילו שירותי ענן Evermusic תומך?" closed="true" %}}
+{{% ls-details title="אילו שירותי ענן Evermusic תומך?" closed="true" %}}
 Evermusic עובד עם Dropbox, Google Drive, OneDrive, MEGA, Box, Yandex.Disk, WebDAV, SMB/CIFS ושרתי FTP.
-{{% /details %}}
+{{% /ls-details %}}

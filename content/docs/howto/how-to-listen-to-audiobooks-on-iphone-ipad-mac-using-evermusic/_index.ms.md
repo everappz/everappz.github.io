@@ -7,7 +7,7 @@ tags: ["buku audio", "main balik", "luar talian", "evermusic", "penanda buku"]
 readingTime: 5
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **Ringkasan:** Evermusic juga berfungsi sebagai pemain buku audio lengkap di iOS dan macOS. Pindahkan buku audio melalui iTunes, WiFi, atau storan awan, kemudian gunakan kawalan kelajuan main balik, butang langkau masa, penanda buku audio, teruskan main balik, dan muat turun luar talian untuk pengalaman mendengar yang lancar.
@@ -151,26 +151,26 @@ Selamat mendengar!
 
 ## Soalan Lazim
 
-{{% details title="Apakah format buku audio yang disokong Evermusic?" closed="true" %}}
+{{% ls-details title="Apakah format buku audio yang disokong Evermusic?" closed="true" %}}
 Evermusic menyokong MP3, M4A, M4B, FLAC, WAV, AIFF, OGG, dan format audio biasa yang lain. Sebarang fail audio yang boleh dimainkan dalam Evermusic berfungsi sebagai buku audio.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Bolehkah saya mendengar buku audio dari storan awan?" closed="true" %}}
+{{% ls-details title="Bolehkah saya mendengar buku audio dari storan awan?" closed="true" %}}
 Ya. Evermusic bersambung ke iCloud Drive, Google Drive, Dropbox, OneDrive, Box, dan pelayan WebDAV. Anda boleh menstrim buku audio secara langsung atau memuat turunnya untuk pendengaran luar talian.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Adakah penanda buku saya akan dipindahkan ke peranti baharu?" closed="true" %}}
+{{% ls-details title="Adakah penanda buku saya akan dipindahkan ke peranti baharu?" closed="true" %}}
 Ya. Evermusic menyimpan penanda buku audio dalam metadata fail, jadi ia dipindahkan secara automatik apabila anda memindahkan fail ke peranti baharu.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Adakah Evermusic mengingati di mana saya berhenti mendengar?" closed="true" %}}
+{{% ls-details title="Adakah Evermusic mengingati di mana saya berhenti mendengar?" closed="true" %}}
 Ya. Aktifkan "Simpan Kedudukan Main Balik" dan "Simpan Keadaan Pemain Audio" dalam Tetapan > Pemain Audio > Umum. Aplikasi menyimpan dan memulihkan kedudukan tepat anda antara sesi.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Bolehkah saya melaraskan kelajuan main balik buku audio?" closed="true" %}}
+{{% ls-details title="Bolehkah saya melaraskan kelajuan main balik buku audio?" closed="true" %}}
 Ya. Pergi ke Tetapan > Pemain Audio > Kelajuan Main Balik untuk menetapkan kelajuan pilihan anda. Anda boleh mempercepatkan atau memperlahankan narasi untuk disesuaikan dengan pilihan mendengar anda.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Bagaimana cara memindahkan buku audio ke Evermusic?" closed="true" %}}
+{{% ls-details title="Bagaimana cara memindahkan buku audio ke Evermusic?" closed="true" %}}
 Anda boleh memindahkan fail melalui perkongsian fail iTunes/Finder, WiFi Drive (terbina dalam aplikasi), atau dengan menyambungkan akaun storan awan dalam Evermusic.
-{{% /details %}}
+{{% /ls-details %}}

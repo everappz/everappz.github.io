@@ -7,7 +7,7 @@ tags: ["موسيقى", "بث", "nas", "synology", "quickconnect"]
 readingTime: 4
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **ملخص:** قم بتوصيل Synology NAS بتطبيق Evermusic أو Flacbox باستخدام واجهة برمجة التطبيقات الأصلية من Synology -- إما يدويًا عبر عنوان IP أو تلقائيًا عبر معرف QuickConnect. يتيح لك QuickConnect بث الموسيقى عن بُعد دون الحاجة إلى إعادة توجيه المنافذ. يدعم كلا التطبيقين تنسيقات FLAC و MP3 و WAV وتنسيقات عالية الدقة الأخرى.
@@ -140,22 +140,22 @@ readingTime: 4
 
 ## الأسئلة الشائعة
 
-{{% details title="ما الفرق بين الاتصال اليدوي و QuickConnect؟" closed="true" %}}
+{{% ls-details title="ما الفرق بين الاتصال اليدوي و QuickConnect؟" closed="true" %}}
 يستخدم الاتصال اليدوي عنوان IP للـ NAS والمنفذ، وهو يعمل على شبكتك المحلية. يستخدم QuickConnect خدمة الترحيل من Synology لإنشاء اتصال من أي مكان عبر الإنترنت، دون إعادة توجيه المنافذ.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="هل يمكنني بث الموسيقى من Synology NAS خارج شبكتي المنزلية؟" closed="true" %}}
+{{% ls-details title="هل يمكنني بث الموسيقى من Synology NAS خارج شبكتي المنزلية؟" closed="true" %}}
 نعم. قم بتمكين QuickConnect على Synology NAS واستخدم معرف QuickConnect في Evermusic أو Flacbox لبث الموسيقى من أي مكان مع اتصال بالإنترنت.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="ما تنسيقات الصوت المدعومة عند البث من Synology NAS؟" closed="true" %}}
+{{% ls-details title="ما تنسيقات الصوت المدعومة عند البث من Synology NAS؟" closed="true" %}}
 يدعم Evermusic و Flacbox تنسيقات FLAC و MP3 و AAC و WAV و ALAC و OGG و WMA و DSD والعديد من التنسيقات الأخرى. تعمل جميع التنسيقات المدعومة عند البث من Synology NAS.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="هل أحتاج إلى المصادقة الثنائية للاتصال؟" closed="true" %}}
+{{% ls-details title="هل أحتاج إلى المصادقة الثنائية للاتصال؟" closed="true" %}}
 لا، المصادقة الثنائية اختيارية. ومع ذلك، إذا قمت بتمكين التحقق بخطوتين على Synology DSM، سيطلب التطبيق كلمة مرور لمرة واحدة أثناء تسجيل الدخول. ستحتاج إلى إعادة التفويض عند انتهاء صلاحية الجلسة.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="هل يجب أن أستخدم واجهة برمجة التطبيقات الأصلية من Synology أو WebDAV أو SMB للاتصال؟" closed="true" %}}
+{{% ls-details title="هل يجب أن أستخدم واجهة برمجة التطبيقات الأصلية من Synology أو WebDAV أو SMB للاتصال؟" closed="true" %}}
 واجهة برمجة التطبيقات الأصلية من Synology مع QuickConnect هي الخيار الأفضل للوصول عن بُعد. لاستخدام الشبكة المحلية، عادة ما يكون SMB الخيار الأسرع. يعمل WebDAV بشكل جيد للوصول المحلي والبعيد. يدعم Evermusic و Flacbox جميع البروتوكولات الثلاثة.
-{{% /details %}}
+{{% /ls-details %}}

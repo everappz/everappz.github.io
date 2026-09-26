@@ -12,7 +12,7 @@ authors:
     image: "/images/about/artem-meleshko-founder-everappz.webp"
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 ## Evermusic 3.1: Co se změnilo a proč na tom záleží
 
@@ -89,22 +89,22 @@ Upravte přihlašovací údaje pro jakoukoli připojenou cloudovou službu bez o
 
 ## Často kladené dotazy
 
-{{% details title="Co je crossfade přehrávání v Evermusic?" closed="true" %}}
+{{% ls-details title="Co je crossfade přehrávání v Evermusic?" closed="true" %}}
 Crossfade přehrávání míchá konec jedné stopy se začátkem další, čímž vytváří plynulé přechody. Dobu můžete nastavit mezi 3 a 15 sekundami v Settings → Audio Player → Crossfade Playback.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Mohu zálohovat playlisty Evermusic do cloudového úložiště?" closed="true" %}}
+{{% ls-details title="Mohu zálohovat playlisty Evermusic do cloudového úložiště?" closed="true" %}}
 Ano. Evermusic 3.1 vám umožňuje zálohovat celou knihovnu — včetně playlistů, metadat, obalů alb a nastavení — do jakékoli připojené cloudové služby jako jeden soubor.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Podporuje Evermusic procházení knihovny iPod?" closed="true" %}}
+{{% ls-details title="Podporuje Evermusic procházení knihovny iPod?" closed="true" %}}
 Ano. Můžete procházet knihovnu iPodu podle playlistů, alb, interpretů a žánrů přímo z domovské obrazovky Evermusic a přidávat stopy do fronty.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Jak opravím nesprávné tagy skladeb v Evermusic?" closed="true" %}}
+{{% ls-details title="Jak opravím nesprávné tagy skladeb v Evermusic?" closed="true" %}}
 Použijte vestavěný Editor tagů a klepněte na akci Identifikovat. Evermusic naskenuje názvy vašich souborů a automaticky aktualizuje ID3 tagy s opravenými metadaty.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Které cloudové služby Evermusic podporuje?" closed="true" %}}
+{{% ls-details title="Které cloudové služby Evermusic podporuje?" closed="true" %}}
 Evermusic funguje s Dropbox, Google Drive, OneDrive, MEGA, Box, Yandex.Disk, WebDAV, SMB/CIFS a FTP servery.
-{{% /details %}}
+{{% /ls-details %}}

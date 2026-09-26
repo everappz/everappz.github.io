@@ -18,7 +18,7 @@ readingTime: 6
 Цей вбудований файловий менеджер дозволяє редагувати файли та пропонує різні методи імпорту аудіофайлів у додаток. Файли, нещодавно відкриті вами, автоматично з'являються у вкладці **Нещодавні**, а елементи, позначені зіркою, відображаються в розділі **Улюблені**, щоб ви могли одразу перейти до файлів, з якими найчастіше працюєте.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evertag Downloads Screen" image="/docs/guide/evertag/img/downloads.webp" >}}
+  {{< ls-card title="" subtitle="Evertag Downloads Screen" image="/docs/guide/evertag/img/downloads.webp" >}}
 {{< /cards >}}
 
 ## Завантаження файлів із хмарного сховища
@@ -74,7 +74,7 @@ readingTime: 6
 Відображає файли, що знаходяться на вашому пристрої, але в інших додатках. Ви можете імпортувати їх у цей додаток за допомогою системного файлового вибірника. Щоб активувати вибірник, оберіть «Відкрити файли...» для вибору файлів або «Відкрити папки...» для вибору папок. Детальні інструкції з імпорту локальної музики з iPhone або Mac доступні [тут](/docs/howto/how-to-play-local-music-stored-on-your-iphone-or-mac). Також можна підключити папку на вашому пристрої та мати швидкий доступ до її вмісту. Скористайтеся пунктом меню «Підключити папку» і виберіть папку на пристрої. Натисніть «Готово», і додаток створить посилання на цю папку з правами читання/запису, дозволяючи керувати файлами безпосередньо з цього додатка. Щоб відключити папку на вашому пристрої, натисніть кнопку «Більше дій» і оберіть «Відключити».
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evertag Import Files From My Device" image="/docs/guide/evertag/img/open-files.webp" >}}
+  {{< ls-card title="" subtitle="Evertag Import Files From My Device" image="/docs/guide/evertag/img/open-files.webp" >}}
 {{< /cards >}}
 
 ## Імпорт файлів із підключених USB-флешок
@@ -86,7 +86,7 @@ readingTime: 6
 Меню «Більше дій» для поточної відкритої папки знаходиться у верхньому правому куті та надає доступ до різних дій.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evertag Import Files From My Device" image="/docs/guide/evertag/img/downloads-current-folder-actions.webp" >}}
+  {{< ls-card title="" subtitle="Evertag Import Files From My Device" image="/docs/guide/evertag/img/downloads-current-folder-actions.webp" >}}
 {{< /cards >}}
 
 - **Вибрати:** перейти в режим вибору файлів і папок.  

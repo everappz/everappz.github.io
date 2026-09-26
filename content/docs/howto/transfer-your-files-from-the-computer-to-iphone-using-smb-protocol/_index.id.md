@@ -7,7 +7,7 @@ tags: ["cloud", "streaming", "computer", "mp3", "file", "downloader", "manager",
 keywords: ["transfer file ke iPhone SMB", "streaming musik PC di iPhone", "menghubungkan Mac ke iPhone SMB", "pengaturan Evermusic SMB", "akses file komputer iPhone", "berbagi musik Windows iOS", "transfer file SMB Evermusic"]
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **Ringkasan:** Gunakan Evermusic di iPhone atau iPad Anda untuk mengakses file yang tersimpan di Mac atau PC Windows melalui jaringan lokal via SMB. Tanpa kabel, tanpa iTunes, tanpa perlu upload ke cloud. Aktifkan berbagi file di komputer Anda, hubungkan di aplikasi, dan jelajahi atau putar file Anda secara nirkabel.
@@ -142,26 +142,26 @@ Dengan langkah-langkah ini, Anda dapat dengan mudah mengakses koleksi file yang 
 
 ## Pertanyaan yang Sering Diajukan
 
-{{% details title="Bisakah saya mengakses file di PC dari iPhone tanpa iTunes?" closed="true" %}}
+{{% ls-details title="Bisakah saya mengakses file di PC dari iPhone tanpa iTunes?" closed="true" %}}
 Ya. Evermusic terhubung ke komputer Anda melalui SMB di jaringan Wi-Fi lokal. Tidak perlu sinkronisasi iTunes atau Finder. Aktifkan berbagi file di PC Anda dan hubungkan langsung dari aplikasi.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Apakah akses file SMB berfungsi melalui internet?" closed="true" %}}
+{{% ls-details title="Apakah akses file SMB berfungsi melalui internet?" closed="true" %}}
 Tidak. SMB adalah protokol jaringan lokal. iPhone dan komputer Anda harus berada di jaringan Wi-Fi yang sama. Untuk akses jarak jauh, unggah file ke layanan cloud seperti Google Drive atau Dropbox dan hubungkan ke sana di Evermusic.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Jenis file apa yang bisa saya akses melalui SMB?" closed="true" %}}
+{{% ls-details title="Jenis file apa yang bisa saya akses melalui SMB?" closed="true" %}}
 Evermusic mendukung MP3, FLAC, AAC, WAV, AIFF, OGG, WMA, ALAC, dan format audio lainnya. Anda juga dapat menjelajahi dan mengelola file non-audio menggunakan manajer file bawaan.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Bisakah saya mentransfer file dari NAS ke iPhone menggunakan SMB?" closed="true" %}}
+{{% ls-details title="Bisakah saya mentransfer file dari NAS ke iPhone menggunakan SMB?" closed="true" %}}
 Ya. Sebagian besar perangkat NAS (Synology, QNAP, WD My Cloud, dan lainnya) mendukung SMB. Hubungkan ke NAS Anda menggunakan langkah yang sama dalam panduan ini.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Apakah saya perlu menyalin file ke iPhone untuk memutarnya?" closed="true" %}}
+{{% ls-details title="Apakah saya perlu menyalin file ke iPhone untuk memutarnya?" closed="true" %}}
 Tidak. Evermusic melakukan streaming file langsung dari komputer atau NAS Anda melalui jaringan. File tidak disalin ke iPhone kecuali Anda memilih untuk mengunduhnya untuk pemutaran offline.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Apakah berbagi file SMB aman?" closed="true" %}}
+{{% ls-details title="Apakah berbagi file SMB aman?" closed="true" %}}
 Berbagi file SMB hanya berfungsi di jaringan lokal Anda. Perangkat lain di jaringan yang berbeda tidak dapat mengakses folder bersama Anda. Untuk keamanan tambahan, gunakan login dan password daripada akses anonim (Semua Orang).
-{{% /details %}}
+{{% /ls-details %}}

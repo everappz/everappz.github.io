@@ -15,7 +15,7 @@ readingTime: 5
 O **Editor de Tags** é o ecrã principal da aplicação Evertag onde pode ver e editar metadados de ficheiros de áudio. Abra este ecrã tocando num ficheiro da secção **Ficheiros Locais** ou de qualquer conta de **armazenamento na nuvem** ligada.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evertag Tag Editor Screen" image="/docs/guide/evertag/img/tag-editor.webp" >}}
+  {{< ls-card title="" subtitle="Evertag Tag Editor Screen" image="/docs/guide/evertag/img/tag-editor.webp" >}}
 {{< /cards >}}
 
 ## Modos de Edição
@@ -38,7 +38,7 @@ Por predefinição, a aplicação abre o editor de tags no modo de ficheiro úni
 Para aceder a todas as tags disponíveis, desloque-se para o fundo do ecrã e toque na opção **Mostrar Tags Avançadas**. Isto mudará o editor para o modo avançado, permitindo-lhe editar mais de **120 campos de metadados**, incluindo **Tags MusicBrainz**, **Letras**, **Classificações de Aviso**, valores de replay-gain, ordens de ordenação, metadados de podcast e muito mais. Use **Configurações → Editor de tags de áudio → Botões no ecrã principal** para ativar permanentemente Mostrar Tags Avançadas para que esteja sempre ativo.
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Bottom Actions Panel" image="/docs/guide/evertag/img/tag-editor-bottom-actions.webp" >}}
+{{< ls-card title="" subtitle="Bottom Actions Panel" image="/docs/guide/evertag/img/tag-editor-bottom-actions.webp" >}}
 {{< /cards >}}
 
 ## Modo em Lote
@@ -53,7 +53,7 @@ Pode entrar na edição em lote de duas formas:
    - Abra qualquer ficheiro, desloque-se para o fundo e toque em **Editar ficheiros simultaneamente** para carregar todos os ficheiros da mesma pasta.
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Batch Editing Mode" image="/docs/guide/evertag/img/tag-editor-batch-editing.webp" >}}
+{{< ls-card title="" subtitle="Batch Editing Mode" image="/docs/guide/evertag/img/tag-editor-batch-editing.webp" >}}
 {{< /cards >}}
 
 Após editar, toque em **Salvar** para aplicar as alterações.
@@ -72,19 +72,19 @@ Não tem de escrever as letras do zero. O editor inclui atalhos de pesquisa com 
 Cada atalho só aparece quando o serviço correspondente é acessível a partir do seu dispositivo. Toque num serviço, copie as letras (ou as marcas temporais LRC) que quer, regresse ao Evertag e cole-as no campo de texto — depois **Salvar** para escrever as letras de volta nas tags do ficheiro de áudio.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Lyrics Pages" image="/docs/guide/evertag/img/tag-editor-lyrics-pages.webp" >}}
+  {{< ls-card title="" subtitle="Lyrics Pages" image="/docs/guide/evertag/img/tag-editor-lyrics-pages.webp" >}}
 {{< /cards >}}
 
 Escolha um idioma no seletor:
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Lyrics Language Selector" image="/docs/guide/evertag/img/tag-editor-lyrics-language-select.webp" >}}
+  {{< ls-card title="" subtitle="Lyrics Language Selector" image="/docs/guide/evertag/img/tag-editor-lyrics-language-select.webp" >}}
 {{< /cards >}}
 
 Depois cole ou escreva o texto das letras. O Evertag suporta texto simples e letras sincronizadas — o placeholder mostra um exemplo do formato LRC, que é exatamente o que Lrclib e Lyricsify devolvem para resultados sincronizados.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Lyrics Text Editor" image="/docs/guide/evertag/img/tag-editor-lyrics-text.webp" >}}
+  {{< ls-card title="" subtitle="Lyrics Text Editor" image="/docs/guide/evertag/img/tag-editor-lyrics-text.webp" >}}
 {{< /cards >}}
 
 ## Definir uma Classificação e Classificação de Aviso
@@ -96,7 +96,7 @@ O editor avançado oferece um controlo de estrelas **Classificação** juntament
 Use o campo **Classificação** para dar a uma faixa uma pontuação pessoal de uma a cinco estrelas. O valor é escrito na tag de classificação padrão do ficheiro (POPM para ID3, `rate` para MP4, `RATING` para Vorbis/APE, etc.), portanto outras aplicações que leem esta tag — incluindo a aplicação Music, Plex, Roon e a maioria dos editores de tags de desktop — verão imediatamente as suas pontuações.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Rating" image="/docs/guide/evertag/img/tag-editor-rating.webp" >}}
+  {{< ls-card title="" subtitle="Rating" image="/docs/guide/evertag/img/tag-editor-rating.webp" >}}
 {{< /cards >}}
 
 ### Classificação de Aviso
@@ -117,7 +117,7 @@ Deverá definir ou corrigir este campo quando:
 O valor é armazenado no campo de classificação de aviso padrão para o formato do ficheiro (`rtng` para MP4, `TXXX:ITUNESADVISORY` para ID3, `ITUNESADVISORY` para Vorbis), portanto qualquer leitor que lê metadados de aviso parental verá a sua atualização.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Lyrics Advisory Rating" image="/docs/guide/evertag/img/lyrics-advisory-rating.webp" >}}
+  {{< ls-card title="" subtitle="Lyrics Advisory Rating" image="/docs/guide/evertag/img/lyrics-advisory-rating.webp" >}}
 {{< /cards >}}
 
 ## Editar Capa de Álbum
@@ -129,7 +129,7 @@ Para alterar uma capa de álbum:
 3. Selecione uma imagem para aplicar como arte da capa.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Select Image" image="/docs/guide/evertag/img/select-image.webp" >}}
+  {{< ls-card title="" subtitle="Select Image" image="/docs/guide/evertag/img/select-image.webp" >}}
 {{< /cards >}}
 
 ## Mais Ações no Editor de Tags
@@ -137,7 +137,7 @@ Para alterar uma capa de álbum:
 Opções de edição extra estão disponíveis através da barra de ferramentas abaixo da vista de capas.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="More Actions Menu" image="/docs/guide/evertag/img/tag-editor-more-actions.webp" >}}
+  {{< ls-card title="" subtitle="More Actions Menu" image="/docs/guide/evertag/img/tag-editor-more-actions.webp" >}}
 {{< /cards >}}
 
 ### Pesquisa Automática de Tags de Áudio
@@ -150,13 +150,13 @@ A aplicação usa a base de dados MusicBrainz — uma das bases de dados de tags
 Use metadados para pesquisar na web a arte do álbum correta.  
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Search Album Cover" image="/docs/guide/evertag/img/search-album-cover.webp" >}}
+  {{< ls-card title="" subtitle="Search Album Cover" image="/docs/guide/evertag/img/search-album-cover.webp" >}}
 {{< /cards >}}
 
 Depois de encontrada, guarde a imagem nas suas **Fotografias** usando o menu de contexto do sistema.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Add Image to Photos" image="/docs/guide/evertag/img/add-image-to-photos.webp" >}}
+  {{< ls-card title="" subtitle="Add Image to Photos" image="/docs/guide/evertag/img/add-image-to-photos.webp" >}}
 {{< /cards >}}
 
 Depois disso, regresse ao editor de tags, toque no ícone da Câmara, vá para **Biblioteca de Fotografias** e selecione a imagem guardada. A aplicação vai defini-la como a capa do seu ficheiro de áudio.
@@ -178,19 +178,19 @@ Pesquise metadados de álbuns manualmente usando a base de dados MusicBrainz.
 - Selecione o álbum  
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Select Album" image="/docs/guide/evertag/img/select-album-results.webp" >}}
+  {{< ls-card title="" subtitle="Select Album" image="/docs/guide/evertag/img/select-album-results.webp" >}}
 {{< /cards >}}
 
 - Escolha a música correta  
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Select Song" image="/docs/guide/evertag/img/select-a-song.webp" >}}
+  {{< ls-card title="" subtitle="Select Song" image="/docs/guide/evertag/img/select-a-song.webp" >}}
 {{< /cards >}}
 
 - Escolha quais tags aplicar  
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Select Audio Tags" image="/docs/guide/evertag/img/select-audio-tags.webp" >}}
+  {{< ls-card title="" subtitle="Select Audio Tags" image="/docs/guide/evertag/img/select-audio-tags.webp" >}}
 {{< /cards >}}
 
 Toque em **Concluído** para aplicar os metadados selecionados à sua faixa.

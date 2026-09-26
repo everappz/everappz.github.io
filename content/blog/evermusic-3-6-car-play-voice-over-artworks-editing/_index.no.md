@@ -12,7 +12,7 @@ authors:
     image: "/images/about/artem-meleshko-founder-everappz.webp"
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 **Sammendrag:** Evermusic 3.6 legger til Apple CarPlay-integrasjon, full VoiceOver-tilgjengelighet, blandet lydutgang, automatisk gjenopptaking av avspilling, redigering av albumomslag og tagger for FLAC/MP3/AIFF, og iCloud Drive-filimport.
 
@@ -78,18 +78,18 @@ Importer musikkfiler direkte fra iCloud Drive og andre apper:
 
 ## FAQ
 
-{{% details title="Fungerer Evermusic med CarPlay?" closed="true" %}}
+{{% ls-details title="Fungerer Evermusic med CarPlay?" closed="true" %}}
 Ja. Fra og med versjon 3.6 støtter Evermusic Apple CarPlay fullt ut. Du kan bla gjennom og spille musikkbiblioteket ditt fra bilens innebygde skjerm.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Er Evermusic tilgjengelig for blinde eller svaksynte brukere?" closed="true" %}}
+{{% ls-details title="Er Evermusic tilgjengelig for blinde eller svaksynte brukere?" closed="true" %}}
 Ja. Evermusic 3.6 inkluderer full VoiceOver-støtte med beskrivende etiketter, tips og en forenklet grensesnittmodus.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Kan jeg redigere FLAC-tagger på iPhone med Evermusic?" closed="true" %}}
+{{% ls-details title="Kan jeg redigere FLAC-tagger på iPhone med Evermusic?" closed="true" %}}
 Ja. Evermusic inkluderer en innebygd tag-editor som fungerer med FLAC-, MP3- og AIFF-filer. Du kan redigere titler, artister, album og albumomslag.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Husker Evermusic hvor jeg stoppet å lytte?" closed="true" %}}
+{{% ls-details title="Husker Evermusic hvor jeg stoppet å lytte?" closed="true" %}}
 Ja. Når "Save Audio Player State" er aktivert, gjenoppretter Evermusic køen, gjeldende spor og nøyaktig avspillingsposisjon når du åpner appen på nytt.
-{{% /details %}}
+{{% /ls-details %}}

@@ -20,7 +20,7 @@ readingTime: 8
 מנהל הקבצים המובנה מאפשר לך לערוך קבצים ומציע שיטות שונות לייבוא קבצי שמע לאפליקציה.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="מסך הקבצים המקומיים של Evermusic" image="/docs/guide/evermusic/evermusic-guide-local-files/img/local-files-main.webp" >}}
+  {{< ls-card title="" subtitle="מסך הקבצים המקומיים של Evermusic" image="/docs/guide/evermusic/evermusic-guide-local-files/img/local-files-main.webp" >}}
 {{< /cards >}}
 
 ## הורדת קבצים מאחסון ענן
@@ -40,7 +40,7 @@ readingTime: 8
 העבר קבצים באמצעות חיבור כבל כמתואר [כאן](/docs/howto/how-to-transfer-files-from-my-mac-to-iphone-or-ipad-using-finder).
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="iTunes / Finder File Sharing" image="/docs/guide/evermusic/evermusic-guide-local-files/img/local-files-itunes-file-sharing.webp" >}}
+  {{< ls-card title="" subtitle="iTunes / Finder File Sharing" image="/docs/guide/evermusic/evermusic-guide-local-files/img/local-files-itunes-file-sharing.webp" >}}
 {{< /cards >}}
 
 ## Wi-Fi Drive
@@ -48,7 +48,7 @@ readingTime: 8
 העבר קבצים באופן אלחוטי כמתואר [כאן](/docs/howto/how-to-transfer-files-wirelessly-from-a-computer-to-an-iphone-using-wifi-drive).
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="הגדרות שרת Wi-Fi Drive" image="/docs/guide/evermusic/evermusic-guide-local-files/img/local-files-wifidrive-settings.webp" >}}
+  {{< ls-card title="" subtitle="הגדרות שרת Wi-Fi Drive" image="/docs/guide/evermusic/evermusic-guide-local-files/img/local-files-wifidrive-settings.webp" >}}
 {{< /cards >}}
 
 ## תור העברות
@@ -56,7 +56,7 @@ readingTime: 8
 בפינה השמאלית העליונה של סרגל הניווט, תמצא כפתור 'העברות'. הקש עליו כדי לגשת לתור ההעברות, שם תוכל לעקוב ולנהל את כל ההורדות וההעלאות שלך. בנוסף, יש לך גמישות לכוונן את מהירות תור ההעברה וסוג הרשת בהגדרות האפליקציה.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="תור העברת קבצים" image="/docs/guide/evermusic/evermusic-guide-local-files/img/local-files-file-transfers.webp" >}}
+  {{< ls-card title="" subtitle="תור העברת קבצים" image="/docs/guide/evermusic/evermusic-guide-local-files/img/local-files-file-transfers.webp" >}}
 {{< /cards >}}
 
 ## סעיף גישה מהירה
@@ -68,7 +68,7 @@ readingTime: 8
 סעיף זה מציג את כל הקבצים או התיקיות שנפתחו לאחרונה.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="קבצים ותיקיות שנפתחו לאחרונה" image="/docs/guide/evermusic/evermusic-guide-local-files/img/local-files-recents.webp" >}}
+  {{< ls-card title="" subtitle="קבצים ותיקיות שנפתחו לאחרונה" image="/docs/guide/evermusic/evermusic-guide-local-files/img/local-files-recents.webp" >}}
 {{< /cards >}}
 
 ## מועדפים
@@ -76,7 +76,7 @@ readingTime: 8
 אתה יכול לסמן קבצים או תיקיות כמועדפים ולגשת אליהם בסעיף זה. יתר על כן, אתה יכול להוסיף תיקייה הנמצאת במכשיר שלך למועדפים שלך. לשם כך, פתח את סעיף המועדפים, הקש על שלוש הנקודות בפינה הימנית העליונה, ובחר בפריט התפריט "הוסף תיקייה". עקוב אחר ההנחיות להוספת תיקייה מהמכשיר שלך למועדפים שלך לגישה מהירה.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="מועדפים — הוסף תיקייה מהמכשיר שלך" image="/docs/guide/evermusic/evermusic-guide-local-files/img/local-files-favorites.webp" >}}
+  {{< ls-card title="" subtitle="מועדפים — הוסף תיקייה מהמכשיר שלך" image="/docs/guide/evermusic/evermusic-guide-local-files/img/local-files-favorites.webp" >}}
 {{< /cards >}}
 
 ## סרגל הכלים העליון
@@ -91,7 +91,7 @@ readingTime: 8
 אתה יכול להציג או להסתיר את סרגל הכלים העליון באמצעות תנועת החלקה כלפי מטה.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="סרגל הכלים העליון עבור התיקייה הנוכחית" image="/docs/guide/evermusic/evermusic-guide-local-files/img/local-files-top-toolbar.webp" >}}
+  {{< ls-card title="" subtitle="סרגל הכלים העליון עבור התיקייה הנוכחית" image="/docs/guide/evermusic/evermusic-guide-local-files/img/local-files-top-toolbar.webp" >}}
 {{< /cards >}}
 
 ## תיקיות מיוחדות
@@ -128,7 +128,7 @@ readingTime: 8
 מציג קבצים הנמצאים במכשיר שלך אך באפליקציות שונות. אתה יכול לייבא אותם לאפליקציה זו באמצעות בורר הקבצים של המערכת. כדי להפעיל את הבורר, בחר "פתח קבצים..." לבחירת קבצים או "פתח תיקיות..." לבחירת תיקיות. הוראות מפורטות על כיצד לייבא מוזיקה מקומית המאוחסנת ב-iPhone או Mac שלך זמינות [כאן](/docs/howto/how-to-play-local-music-stored-on-your-iphone-or-mac). אתה יכול גם לחבר תיקייה הנמצאת במכשיר שלך ולקבל גישה מהירה לתוכן התיקייה. השתמש בפריט התפריט "חבר תיקייה" ובחר תיקייה הנמצאת במכשיר שלך. הקש "בוצע" והאפליקציה תיצור קישור לתיקייה זו עם גישת קריאה/כתיבה ותוכל לנהל קבצים ישירות מאפליקציה זו. לניתוק תיקייה הנמצאת במכשיר שלך הקש על כפתור "עוד פעולות" ובחר "לנתק".
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="קבצים ב-iPhone / iPad / Mac זה" image="/docs/guide/evermusic/evermusic-guide-local-files/img/local-files-on-this-device.webp" >}}
+  {{< ls-card title="" subtitle="קבצים ב-iPhone / iPad / Mac זה" image="/docs/guide/evermusic/evermusic-guide-local-files/img/local-files-on-this-device.webp" >}}
 {{< /cards >}}
 
 ## ייבוא קבצים הנמצאים על כוננוני USB מחוברים
@@ -151,7 +151,7 @@ readingTime: 8
 אם אתה צריך לערוך מספר קבצים, הפעל מצב בחירה על ידי הקשה על כפתור עוד פעולות "..." בסרגל הניווט בפינה הימנית העליונה ולאחר מכן בחר את פריט התפריט "בחר". זה יציג תיבות סימון ליד כל קובץ. בחר את הקבצים הרצויים על ידי הקשה על תיבות הסימון שלהם. אתה יכול לבצע את הפעולות הבאות על הקבצים שנבחרו.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="פעולות מצב בחירה עבור קבצים מקומיים" image="/docs/guide/evermusic/evermusic-guide-local-files/img/local-files-selection-mode.webp" >}}
+  {{< ls-card title="" subtitle="פעולות מצב בחירה עבור קבצים מקומיים" image="/docs/guide/evermusic/evermusic-guide-local-files/img/local-files-selection-mode.webp" >}}
 {{< /cards >}}
 
 - **נגן הבא:** הוסף קבצים או תיקיות שנבחרו לראש תור הנגן עם סדר המיון הנוכחי.
@@ -186,7 +186,7 @@ readingTime: 8
 ## תיקיות לא מקוונות
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="תפריט עוד פעולות של תיקייה לא מקוונת" image="/docs/guide/evermusic/evermusic-guide-local-files/img/local-files-offline-folders.webp" >}}
+  {{< ls-card title="" subtitle="תפריט עוד פעולות של תיקייה לא מקוונת" image="/docs/guide/evermusic/evermusic-guide-local-files/img/local-files-offline-folders.webp" >}}
 {{< /cards >}}
 
 מצב לא מקוון הוא תכונה שימושית המאפשרת לגשת למוזיקה המועדפת שלך אפילו כשאינך מחובר לאינטרנט. כאשר אתה מפעיל מצב לא מקוון עבור אלבום, אמן, רשימת השמעה, ז'אנר או תיקייה מרוחקת, כל הקבצים באוסף זה יורדו אוטומטית למכשיר שלך לניגון לא מקוון. אתה יכול לגשת בנוחות לקבצים אלה בסעיף "תיקיות לא מקוונות" של האפליקציה.
@@ -204,7 +204,7 @@ readingTime: 8
 כמעט כל התנהגות של מסך הקבצים המקומיים — מרוחב פס רשת ועד מיקום הורדות ועד אופן שמירת ממוזערות — ניתן להגדרה תחת **הגדרות → מנהל קבצים**. פתח אותו בכל פעם שתרצה לכוונן את מהירות ההעברה, לחסוך בשטח אחסון, או להגביל את האפליקציה ל-Wi-Fi בלבד.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="מסך הגדרות מנהל הקבצים" image="/docs/guide/evermusic/evermusic-guide-local-files/img/local-files-file-manager-settings.webp" >}}
+  {{< ls-card title="" subtitle="מסך הגדרות מנהל הקבצים" image="/docs/guide/evermusic/evermusic-guide-local-files/img/local-files-file-manager-settings.webp" >}}
 {{< /cards >}}
 
 המסך חושף כל אפשרות מקובצת בסעיפים ממותגים בבירור:

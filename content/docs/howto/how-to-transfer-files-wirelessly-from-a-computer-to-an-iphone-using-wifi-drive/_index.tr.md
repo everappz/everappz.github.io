@@ -7,7 +7,7 @@ keywords: ["iPhone'a kablosuz dosya aktarımı", "Wi-Fi Drive dosya aktarımı",
 readingTime: 2
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **Özet:** Wi-Fi Drive, herhangi bir bilgisayardan iPhone veya iPad'inize Wi-Fi üzerinden dosya aktarmanızı sağlar -- iTunes veya kablo gerekmez. Bir web tarayıcısı, Mac Finder veya Windows File Explorer kullanın. Her iki cihaz da aynı Wi-Fi ağında olmalıdır.
@@ -18,7 +18,7 @@ Masaüstü web tarayıcısı veya Mac Finder ya da Windows File Explorer gibi bi
 
 [**TECHGUYPH**](https://www.youtube.com/channel/UCgpf09gGFE_c_3pPTtTpnzg) kanalından video eğitimini izleyebilir veya aşağıdaki metin sürümünü okuyabilirsiniz.
 <br><br>
-{{< youtubecard id="CqdqrQ0ge70" title="Can We Wirelessly Put Offline Music on iPhones?" >}}
+{{< ls-youtubecard id="CqdqrQ0ge70" title="Can We Wirelessly Put Offline Music on iPhones?" >}}
 
 ## Masaüstü web tarayıcısı ile bilgisayardan kablosuz dosya aktarımı
 
@@ -90,26 +90,26 @@ iTunes gerekmez!
 
 ## Sık Sorulan Sorular
 
-{{% details title="iPhone'uma dosya aktarmak için iTunes'a ihtiyacım var mı?" closed="true" %}}
+{{% ls-details title="iPhone'uma dosya aktarmak için iTunes'a ihtiyacım var mı?" closed="true" %}}
 Hayır. Wi-Fi Drive, dosyaları doğrudan yerel Wi-Fi ağınız üzerinden aktarır. iTunes gerekmez.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Hangi uygulamalar Wi-Fi Drive'ı destekliyor?" closed="true" %}}
+{{% ls-details title="Hangi uygulamalar Wi-Fi Drive'ı destekliyor?" closed="true" %}}
 Wi-Fi Drive, iOS için Evermusic, Flacbox, Evertag ve Evervideo uygulamalarında kullanılabilir.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Her iki cihazın da aynı Wi-Fi ağında olması gerekiyor mu?" closed="true" %}}
+{{% ls-details title="Her iki cihazın da aynı Wi-Fi ağında olması gerekiyor mu?" closed="true" %}}
 Evet. Wi-Fi Drive'ın çalışması için bilgisayarınız ve iPhone veya iPad'iniz aynı yerel Wi-Fi ağına bağlı olmalıdır.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Sadece tek tek dosyalar değil, tüm klasörleri aktarabilir miyim?" closed="true" %}}
+{{% ls-details title="Sadece tek tek dosyalar değil, tüm klasörleri aktarabilir miyim?" closed="true" %}}
 Evet. Wi-Fi Drive, web tarayıcısı arayüzü üzerinden tüm klasörlerin yüklenmesini ve indirilmesini destekler.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Wi-Fi Drive Windows ile çalışıyor mu?" closed="true" %}}
+{{% ls-details title="Wi-Fi Drive Windows ile çalışıyor mu?" closed="true" %}}
 Evet. Windows'ta herhangi bir web tarayıcısı kullanabilir veya WebDAV protokolünü kullanarak Windows File Explorer üzerinden bağlanabilirsiniz.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Aktarımı hızlandırmak için USB kablosu kullanabilir miyim?" closed="true" %}}
+{{% ls-details title="Aktarımı hızlandırmak için USB kablosu kullanabilir miyim?" closed="true" %}}
 Evet. Wi-Fi Drive çalışırken iPhone'unuz USB ile Mac'inize bağlıysa, aktarım daha hızlı hızlar için kablo bağlantısını kullanacaktır.
-{{% /details %}}
+{{% /ls-details %}}

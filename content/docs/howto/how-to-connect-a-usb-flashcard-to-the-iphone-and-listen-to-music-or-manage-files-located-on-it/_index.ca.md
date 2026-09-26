@@ -7,7 +7,7 @@ tags: ["música", "fitxers", "usb", "flash", "extern", "ixpand", "reproduir", "t
 readingTime: 2
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **Resum:** Connecta una memòria USB o una targeta SD al teu iPhone mitjançant un adaptador Apple o una unitat SanDisk iXpand, i després utilitza Evermusic, Flacbox o Evertag per explorar, reproduir i gestionar els teus fitxers d'àudio directament des de l'emmagatzematge extern.
@@ -72,18 +72,18 @@ Gaudeix de la llibertat d'accedir i gestionar la teva música sense esforç amb 
 
 ## Preguntes freqüents
 
-{{% details title="Quins adaptadors USB funcionen amb l'iPhone per a la reproducció de música?" closed="true" %}}
+{{% ls-details title="Quins adaptadors USB funcionen amb l'iPhone per a la reproducció de música?" closed="true" %}}
 Tant el Lightning to SD Card Camera Reader com el Lightning to USB 3 Camera Adapter d'Apple funcionen. Els adaptadors USB-C funcionen en els iPhones més nous amb ports USB-C. Les unitats SanDisk iXpand Flash (V1-V7) també són compatibles de manera nativa amb Evermusic, Flacbox i Evertag.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Puc reproduir música directament des de la unitat USB sense copiar fitxers?" closed="true" %}}
+{{% ls-details title="Puc reproduir música directament des de la unitat USB sense copiar fitxers?" closed="true" %}}
 Sí. Amb les unitats SanDisk iXpand, pots reproduir música directament des de la unitat sense copiar fitxers al teu iPhone. Quan utilitzes adaptadors Apple, els fitxers s'importen però pots triar si vols copiar-los a l'emmagatzematge local.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Quins formats d'àudio són compatibles des de les unitats USB?" closed="true" %}}
+{{% ls-details title="Quins formats d'àudio són compatibles des de les unitats USB?" closed="true" %}}
 Evermusic i Flacbox suporten una àmplia gamma de formats incloent FLAC, MP3, AAC, WAV, ALAC, OGG, WMA i més. Tots els formats compatibles funcionen quan es reprodueixen des de l'emmagatzematge USB.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="El meu SanDisk iXpand mostra un error 'ocupat'. Què hauria de fer?" closed="true" %}}
+{{% ls-details title="El meu SanDisk iXpand mostra un error 'ocupat'. Què hauria de fer?" closed="true" %}}
 Una altra aplicació podria estar accedint a la unitat. Tanca totes les altres aplicacions que puguin estar utilitzant la unitat flash, o desconnecta-la i torna-la a inserir. Després torna a obrir Evermusic, Flacbox o Evertag.
-{{% /details %}}
+{{% /ls-details %}}

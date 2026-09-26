@@ -11,7 +11,7 @@ Evermusic och Flacbox är två avancerade musikspelare från Everappz för iPhon
 
 **Kort svar:** välj **Evermusic** om du vill ha det smidigaste allroundlyssnandet, sömlösa luckfria övergångar och övertoningar samt tillgång till ditt Apple Music-bibliotek. Välj **Flacbox** om du är entusiast och vill ha djupgående ljudformning (ett effektställ och en DSP-kedja), en valbar professionell ljudmotor och maximal täckning av hi-res- och förlustfria format, inklusive DSD, APE och WavPack.
 
-{{< app-details ids="885367198, 1097564256" >}}
+{{< ls-app-details ids="885367198, 1097564256" >}}
 
 ## Jämförelsetabell över funktioner
 
@@ -129,38 +129,38 @@ Båda är gratis att ladda ner med valfria Premium-uppgraderingar, och båda ans
 
 ## Vanliga frågor
 
-{{% details title="Vad är den huvudsakliga skillnaden mellan Evermusic och Flacbox?" closed="true" %}}
+{{% ls-details title="Vad är den huvudsakliga skillnaden mellan Evermusic och Flacbox?" closed="true" %}}
 De delar samma plattform och anslutningar, men ljudsidan skiljer sig åt. Evermusic körs på Apples AVPlayer och Core Audio och är den breda vardagsspelaren med stöd för många format, med äkta luckfri uppspelning, övertoning, rumsligt ljud och import av Apple Music-biblioteket. Flacbox lägger till en professionell BASS™-ljudmotor och FFmpeg-avkodning, vilket ger en DSP-kedja med 14 filter, fler realtidseffekter, uppspelning av tracker/MOD och det bredaste stödet för hi-res- och förlustfria format, inklusive DSD, APE och WavPack.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Är Evermusic eller Flacbox bättre?" closed="true" %}}
+{{% ls-details title="Är Evermusic eller Flacbox bättre?" closed="true" %}}
 Ingen är strikt bättre; de är optimerade för olika lyssnare. Evermusic är bättre för smidigt vardagslyssnande och för dem som även använder sitt Apple Music-bibliotek, tack vare luckfri uppspelning, övertoning och rumsligt ljud. Flacbox är bättre för entusiaster som vill ha djupgående ljudformning, en valbar professionell ljudmotor och maximal täckning av hi-res- och förlustfria format.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Använder Evermusic FFmpeg?" closed="true" %}}
+{{% ls-details title="Använder Evermusic FFmpeg?" closed="true" %}}
 Nej. Evermusic spelar helt och hållet via Apples inbyggda ljudstack, AVPlayer och Core Audio, där Core Audio sköter dess effekter och bearbetning. FFmpeg-avkodning är en Flacbox-funktion, vid sidan av Flacbox valbara BASS-motor.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Har Flacbox luckfri uppspelning eller övertoning?" closed="true" %}}
+{{% ls-details title="Har Flacbox luckfri uppspelning eller övertoning?" closed="true" %}}
 Nej. Äkta luckfri uppspelning och övertoning (1 till 30 sekunder) är Evermusic-funktioner. Flacbox fokuserar istället på högupplöst uppspelning, en professionell BASS-motor, ett effektställ och en DSP-kedja.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Vilken app är bättre för FLAC, DSD och APE?" closed="true" %}}
+{{% ls-details title="Vilken app är bättre för FLAC, DSD och APE?" closed="true" %}}
 Flacbox. Båda apparna spelar FLAC, men Flacbox är specialisten på högupplöst och förlustfritt ljud, med inbyggt stöd för FLAC, ALAC, DSD (DSF/DFF), APE, WavPack (WV), TTA, OPUS med mera via FFmpeg och dess BASS™-motor. Den erbjuder även finare utgångskontroll för kritiskt lyssnande.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Vilken app har fler ljudeffekter och en DSP-kedja?" closed="true" %}}
+{{% ls-details title="Vilken app har fler ljudeffekter och en DSP-kedja?" closed="true" %}}
 Flacbox. Evermusic har 6 effekter (Efterklang, Delay, Distorsion, Kompressor, Crossfeed och Volymnormalisering). Flacbox har 11 effekter (lägger till Chorus, Flanger, Phaser, Auto-Wah, Stereorotation och ett Multi-tap-eko) plus en egen DSP-kedja med 14 filter. DSP-kedjan är exklusiv för Flacbox.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Stöder båda apparna samma molntjänster, mediaservrar och CarPlay?" closed="true" %}}
+{{% ls-details title="Stöder båda apparna samma molntjänster, mediaservrar och CarPlay?" closed="true" %}}
 Ja. Evermusic och Flacbox ansluter till samma molnlagring (iCloud Drive, Google Drive, Dropbox, OneDrive, MEGA, pCloud, Internxt, Proton Drive med flera), samma mediaservrar (Plex, Subsonic, Navidrome, Jellyfin, Emby) och samma dator- och NAS-protokoll (SMB, WebDAV, FTP, SFTP, NFS, DLNA), med inbyggt stöd för QNAP, Synology, Nextcloud och WD My Cloud Home. Båda stöder även Apple CarPlay, AirPlay och Google Chromecast.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Kan Evermusic spela mitt Apple Music- eller iTunes-bibliotek?" closed="true" %}}
+{{% ls-details title="Kan Evermusic spela mitt Apple Music- eller iTunes-bibliotek?" closed="true" %}}
 Ja. Evermusic kan importera och spela musik från ditt Apple Music-/iTunes-bibliotek utöver moln- och nätverkskällor. Flacbox är utformad för dina egna filer från moln, NAS och lokal lagring och importerar inte Apple Music-biblioteket.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Kan jag använda både Evermusic och Flacbox tillsammans?" closed="true" %}}
+{{% ls-details title="Kan jag använda både Evermusic och Flacbox tillsammans?" closed="true" %}}
 Ja, och det gör många. En vanlig uppsättning är Evermusic för daglig, sömlös uppspelning och tillgång till Apple Music-biblioteket, och Flacbox för kritiskt, högupplöst lyssnande med BASS-motorn, effekterna och DSP-kedjan. Båda läser från samma moln- och NAS-källor, så ditt bibliotek är tillgängligt i endera appen. Båda är gratis att ladda ner med valfria Premium-uppgraderingar i appen.
-{{% /details %}}
+{{% /ls-details %}}

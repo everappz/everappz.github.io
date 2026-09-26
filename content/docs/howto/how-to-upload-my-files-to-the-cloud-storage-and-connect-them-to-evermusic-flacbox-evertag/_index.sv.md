@@ -7,7 +7,7 @@ tags: ["evermusic", "flacbox", "moln", "fil", "konto", "hanterare", "anslut", "n
 keywords: ["anslut molntjänst till Evermusic", "ladda upp filer till Google Drive", "Flacbox molnintegration", "använda OneDrive med Evermusic", "Evertag moln filåtkomst", "anslut Dropbox till iOS musikspelare", "filhanterare för molntjänster"]
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **Sammanfattning:** Ladda upp dina musik- eller mediefiler till valfri molntjänst som stöds (Google Drive, Dropbox, OneDrive med mera) och anslut sedan tjänsten i Evermusic, Flacbox eller Evertag för att strömma eller ladda ner dina filer direkt på iPhone, iPad eller Mac.
@@ -76,38 +76,38 @@ Säg adjö till lagringsbegränsningar och hej till bekvämlighet!
 
 ## Vanliga frågor
 
-{{% details title="Vilka molntjänster stöds?" closed="true" %}}
+{{% ls-details title="Vilka molntjänster stöds?" closed="true" %}}
 Evermusic, Flacbox och Evertag stöder Google Drive, Dropbox, OneDrive, Box, MediaFire, Yandex.Disk, MEGA, MyDrive, pCloud och andra molnleverantörer. Du kan också ansluta anpassade WebDAV-, SMB- och FTP-servrar.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Kan jag strömma musik direkt från molnet utan att ladda ner?" closed="true" %}}
+{{% ls-details title="Kan jag strömma musik direkt från molnet utan att ladda ner?" closed="true" %}}
 Ja. Alla tre apparna stöder strömning av ljudfiler direkt från din anslutna molnlagring. Du kan också ladda ner filer för offline-uppspelning när du inte har internetåtkomst.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Finns det en filstorlek- eller lagringsgräns i appen?" closed="true" %}}
+{{% ls-details title="Finns det en filstorlek- eller lagringsgräns i appen?" closed="true" %}}
 Apparna har inga egna filstorlek- eller lagringsbegränsningar. Din tillgängliga lagring beror på ditt molntjänstplan och enhetens lokala lagring för nedladdade filer.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Kan jag ansluta flera molnkonton samtidigt?" closed="true" %}}
+{{% ls-details title="Kan jag ansluta flera molnkonton samtidigt?" closed="true" %}}
 Ja. Du kan ansluta flera molntjänster och flera konton från samma leverantör samtidigt. Alla anslutna konton visas i fliken Anslutningar för enkel växling.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Behöver jag ladda upp filer igen om jag byter till en annan app?" closed="true" %}}
+{{% ls-details title="Behöver jag ladda upp filer igen om jag byter till en annan app?" closed="true" %}}
 Nej. Eftersom dina filer lagras i molnet kan du ansluta samma molnkonto till Evermusic, Flacbox eller Evertag utan att ladda upp något igen. Varje app kommer åt samma filer från din molnlagring.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Är mina molnkontodata säkra?" closed="true" %}}
+{{% ls-details title="Är mina molnkontodata säkra?" closed="true" %}}
 Ja. Appen använder bara officiella SDK:er och krypterade anslutningar för att kommunicera med molntjänster. Dina inloggningsuppgifter och lösenord lagras aldrig av appen. När du loggar in visar appen den officiella auktoriseringssidan från molntjänsten. Efter lyckad auktorisering skickar molnleverantören en auktoriseringstoken till appen, som lagras säkert i enhetens nyckelring. Denna token används för alla API-förfrågningar.<br><br>
 Appen delar ingen information från ditt molnkonto. Du kan återkalla åtkomsten när som helst från inställningssidan för ditt molnkonto i en webbläsare, eller koppla bort kontot i appen.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Hur kopplar jag bort en molntjänst eller ändrar dess konfiguration?" closed="true" %}}
+{{% ls-details title="Hur kopplar jag bort en molntjänst eller ändrar dess konfiguration?" closed="true" %}}
 Hitta molnlagringen i appens flik Anslutningar och tryck på knappen **...** bredvid den. Du ser dessa alternativ:<br>
 - **Byt namn** -- ändra visningsnamnet för molntjänsten<br>
 - **Inställningar** -- ändra konfiguration eller auktorisera igen om token har gått ut<br>
 - **Koppla bort** -- ta bort anslutningen helt. Detta tar bort alla låtar från denna molntjänst från appens musikbibliotek, men filerna finns kvar på servern
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Hur återkallar jag appens åtkomst till mitt molnkonto?" closed="true" %}}
+{{% ls-details title="Hur återkallar jag appens åtkomst till mitt molnkonto?" closed="true" %}}
 Logga in på ditt molnkonto i en webbläsare och öppna kontoinställningarna eller säkerhetssidan. Hitta listan över anslutna tredjepartsappar och ta bort den app du inte längre vill auktorisera. Du kan också koppla bort molnkontot i appen -- detta tar bort auktoriseringstoken från din enhet. Om du tar bort appen helt raderas alla nedladdade data och åtkomsttoken automatiskt.
-{{% /details %}}
+{{% /ls-details %}}

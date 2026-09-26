@@ -17,7 +17,7 @@ readingTime: 8
 La sección Archivos Locales sirve como centro para gestionar archivos ubicados en la carpeta Documentos de la aplicación, así como archivos añadidos desde tu dispositivo disponibles para reproducción offline.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Pantalla de Archivos Locales de Flacbox" image="/docs/guide/flacbox/img/local-files.webp" >}}
+  {{< ls-card title="" subtitle="Pantalla de Archivos Locales de Flacbox" image="/docs/guide/flacbox/img/local-files.webp" >}}
 {{< /cards >}}
 
 ## Descargar Archivos desde el Almacenamiento en la Nube
@@ -98,7 +98,7 @@ Muestra archivos y carpetas almacenados en el directorio Documentos de la app y 
 Muestra archivos ubicados en tu dispositivo pero en diferentes aplicaciones. Puedes importarlos usando el selector de archivos del sistema con **Abrir Archivos…** para archivos u **Abrir Carpetas…** para carpetas. Instrucciones detalladas disponibles [aquí](/docs/howto/how-to-play-local-music-stored-on-your-iphone-or-mac).
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox Carpetas del Dispositivo Conectado" image="/docs/guide/flacbox/img/connected-device-folders.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox Carpetas del Dispositivo Conectado" image="/docs/guide/flacbox/img/connected-device-folders.webp" >}}
 {{< /cards >}}
 
 También puedes conectar una carpeta de tu dispositivo. Usa el elemento de menú **Conectar una Carpeta** y elige una carpeta. Pulsa **Hecho** y la app crea un enlace con acceso de lectura / escritura. Para desconectar, pulsa **Más Acciones** y elige **Desconectar**.
@@ -133,7 +133,7 @@ Para editar varios archivos, activa el modo de selección pulsando el botón **M
 - **Eliminar** — eliminar del dispositivo. **Esta acción es irreversible.**
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox Modo de Selección en Archivos Locales" image="/docs/guide/flacbox/img/local-files-selection-mode.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox Modo de Selección en Archivos Locales" image="/docs/guide/flacbox/img/local-files-selection-mode.webp" >}}
 {{< /cards >}}
 
 ## Menú de Opciones
@@ -157,7 +157,7 @@ Para cada archivo o carpeta, pulsa el botón **Más Acciones** **"..."**:
 - **Eliminar** — eliminar del dispositivo. **Esta acción es irreversible** y no puedes restaurar archivos eliminados.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox Más Acciones para un Archivo Local" image="/docs/guide/flacbox/img/local-files-more-actions-for-file.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox Más Acciones para un Archivo Local" image="/docs/guide/flacbox/img/local-files-more-actions-for-file.webp" >}}
 {{< /cards >}}
 
 ## Carpetas Sin Conexión

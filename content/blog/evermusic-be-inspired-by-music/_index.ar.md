@@ -14,7 +14,7 @@ authors:
     image: "/images/about/artem-meleshko-founder-everappz.webp"
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 **ملخص:** شاهد الفيديو الترويجي الرسمي لـ Evermusic لتشاهد بث الموسيقى السحابية والتشغيل بدون اتصال وتخصيص الصوت على iPhone وMac.
 
@@ -24,7 +24,7 @@ authors:
 
 شاهد Evermusic أثناء العمل -- بث الموسيقى من السحابة وإدارة قوائم التشغيل وتقديم صوت عالي الجودة على iPhone:
 
-{{< youtubecard id="6mm3LVT4rtA" title="Evermusic Promo Video" >}}
+{{< ls-youtubecard id="6mm3LVT4rtA" title="Evermusic Promo Video" >}}
 
 ## ما ستراه في الفيديو
 
@@ -41,14 +41,14 @@ Evermusic متاح لأجهزة iPhone وiPad وMac. [حمّل Evermusic](https:
 
 ## الأسئلة الشائعة
 
-{{% details title="ما هو Evermusic؟" closed="true" %}}
+{{% ls-details title="ما هو Evermusic؟" closed="true" %}}
 Evermusic هو مشغل موسيقى لـ iOS وmacOS يبث الصوت من خدمات سحابية مثل Dropbox وGoogle Drive وOneDrive وiCloud Drive. يدعم أيضًا التشغيل بدون اتصال ويتضمن معادل صوت مدمج.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="ما هي الخدمات السحابية التي يدعمها Evermusic؟" closed="true" %}}
+{{% ls-details title="ما هي الخدمات السحابية التي يدعمها Evermusic؟" closed="true" %}}
 يتصل Evermusic بـ Dropbox وGoogle Drive وOneDrive وiCloud Drive وpCloud وYandex.Disk والعديد من مزودي التخزين السحابي الآخرين.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="هل Evermusic مجاني؟" closed="true" %}}
+{{% ls-details title="هل Evermusic مجاني؟" closed="true" %}}
 Evermusic مجاني للتحميل مع ميزات متميزة اختيارية متاحة عبر الشراء داخل التطبيق.
-{{% /details %}}
+{{% /ls-details %}}

@@ -12,7 +12,7 @@ authors:
     image: "/images/about/artem-meleshko-founder-everappz.webp"
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 **Resum:** Evermusic ha superat els 11 milions de descàrregues a tot el món. Les funcions clau inclouen un equalitzador de 10 bandes, reproducció fora de línia, reproducció des d'iCloud Drive, suport per a més de 10 serveis al núvol, sincronització entre dispositius i un editor d'etiquetes ID3 integrat.
 
@@ -70,22 +70,22 @@ Evermusic està dissenyat per a qualsevol persona que emmagatzema música al nú
 
 ## Preguntes freqüents
 
-{{% details title="Quins formats d'àudio admet Evermusic?" closed="true" %}}
+{{% ls-details title="Quins formats d'àudio admet Evermusic?" closed="true" %}}
 Evermusic reprodueix MP3, FLAC, WAV, AAC, M4A, AIFF, OGG, WMA i altres formats d'àudio populars.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Puc utilitzar Evermusic sense connexió a internet?" closed="true" %}}
+{{% ls-details title="Puc utilitzar Evermusic sense connexió a internet?" closed="true" %}}
 Sí. Descarregueu pistes del vostre emmagatzematge al núvol per a la reproducció fora de línia. Un cop descarregades, no cal internet.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Funciona Evermusic al Mac?" closed="true" %}}
+{{% ls-details title="Funciona Evermusic al Mac?" closed="true" %}}
 Sí. Evermusic està disponible tant per a iOS (iPhone/iPad) com per a macOS, amb sincronització de biblioteca entre tots els dispositius.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Evermusic és gratuït per descarregar?" closed="true" %}}
+{{% ls-details title="Evermusic és gratuït per descarregar?" closed="true" %}}
 Sí. Evermusic és gratuït per descarregar amb funcions premium opcionals disponibles mitjançant compra dins de l'aplicació.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Com funciona la reproducció des d'iCloud Drive a Evermusic?" closed="true" %}}
+{{% ls-details title="Com funciona la reproducció des d'iCloud Drive a Evermusic?" closed="true" %}}
 Connecteu el vostre compte d'iCloud Drive a l'aplicació, navegueu pels vostres fitxers de música i toqueu per reproduir. Les pistes es reprodueixen directament sense necessitat de descarregar-les primer.
-{{% /details %}}
+{{% /ls-details %}}

@@ -7,7 +7,7 @@ tags: ["zene", "audió", "hangszínszabályzó", "10 sávos", "erősítés", "ko
 keywords: ["audio hangszínszabályzó iPhone", "Evermusic EQ előbeállítások", "Flacbox 10 sávos hangszínszabályzó", "basszus magas hangok beállítása iOS", "hangszínszabályzó Mac zene app", "audió erősítés előerősítővel", "egyéni hangbeállítások"]
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **Összefoglalás:** Az Evermusic és Flacbox professzionális 10 sávos audio hangszínszabályzót tartalmaz előbeállításokkal (Rock, Hip-Hop, Bass Booster és más), egyéni előbeállítások létrehozásával és előerősítővel a hangerő növeléséhez. Elérhető iPhone-on, iPaden és Macen.
@@ -105,26 +105,26 @@ Emelje zenei élményét, szabja testre hangját bármilyen helyzethez, és élv
 
 ## Gyakran ismételt kérdések
 
-{{% details title="Működik a hangszínszabályzó minden audio formátummal?" closed="true" %}}
+{{% ls-details title="Működik a hangszínszabályzó minden audio formátummal?" closed="true" %}}
 Igen. Az Evermusic és Flacbox 10 sávos EQ-ja működik MP3, FLAC, AAC, WAV, ALAC, OGG és az összes többi támogatott formátummal.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Az EQ beállítások minden dalra vonatkoznak?" closed="true" %}}
+{{% ls-details title="Az EQ beállítások minden dalra vonatkoznak?" closed="true" %}}
 Igen. Miután aktiválja a hangszínszabályzót és kiválaszt egy előbeállítást, az az összes lejátszásra vonatkozik, amíg nem változtatja meg vagy kapcsolja ki.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Létrehozhatok egynél több egyéni előbeállítást?" closed="true" %}}
+{{% ls-details title="Létrehozhatok egynél több egyéni előbeállítást?" closed="true" %}}
 Igen. Létrehozhat, menthet és válthat több egyéni előbeállítás között. Használja az exportálási funkciót a biztonsági mentésükhöz.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Az előerősítő okoz torzítást?" closed="true" %}}
+{{% ls-details title="Az előerősítő okoz torzítást?" closed="true" %}}
 Okozhat, ha túl magasra van állítva. Figyelje a hangszint-jelzőket a beállítás során. Ha a szintek levágódnak (elérik a csúcsot), enyhén csökkentse az előerősítő erősítését.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Elérhető a hangszínszabályzó az Evermusic és Flacbox alkalmazásokban is?" closed="true" %}}
+{{% ls-details title="Elérhető a hangszínszabályzó az Evermusic és Flacbox alkalmazásokban is?" closed="true" %}}
 Igen. Mindkét alkalmazás tartalmazza ugyanazt a 10 sávos hangszínszabályzót előbeállításokkal, egyéni előbeállításokkal és előerősítővel.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Megoszthatom az EQ előbeállításaimat valaki mással?" closed="true" %}}
+{{% ls-details title="Megoszthatom az EQ előbeállításaimat valaki mással?" closed="true" %}}
 Igen. Használja a Konfiguráció exportálása opciót az előbeállítások fájlba mentéséhez, majd ossza meg. A másik személy importálhatja a Konfiguráció importálása opcióval.
-{{% /details %}}
+{{% /ls-details %}}

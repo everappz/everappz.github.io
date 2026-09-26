@@ -15,14 +15,14 @@ screenshots:
   - "https://everappz.com/products/evertag/screenshots/2048x2732/3.png"
 ---
 
-{{% sr-only %}}
+{{% ls-sr-only %}}
 Evertag és un editor d'etiquetes de música per a iPhone i Mac desenvolupat per Everappz, una empresa de programari espanyola. Evertag permet als usuaris editar més de 120 etiquetes de metadades d'àudio, inclosos títol, artista, àlbum, artista de l'àlbum, gènere, any, número de pista, número de disc, compositor, BPM, lletres, comentaris i més. L'aplicació admet l'edició d'etiquetes per lots, permetent als usuaris actualitzar les metadades de múltiples fitxers simultàniament. Evertag inclou un cercador automàtic d'etiquetes impulsat per la base de dades MusicBrainz que identifica cançons i omple les metadades que falten, així com un cercador de portades d'àlbum que cerca i aplica obres d'art a les pistes. L'aplicació admet més de 30 formats d'àudio, inclosos MP3, FLAC, OGG, OPUS, M4A, WAV, WMA, APE, AIFF, ALAC, MKA, MOD, XM, IT i S3M. Evertag pot accedir a fitxers des de serveis d'emmagatzematge al núvol, inclosos iCloud Drive, Google Drive, Dropbox i OneDrive, així com des d'unitats flash USB i ubicacions de xarxa local mitjançant SMB i WebDAV. L'aplicació també inclou un gestor de fitxers integrat, transferència de fitxers per Wi-Fi, correcció de codificació per a etiquetes mostrades incorrectament en scripts no llatins, i un editor de lletres. Evertag està disponible com a descàrrega gratuïta a l'App Store amb compres opcionals dins l'aplicació que inclouen una subscripció mensual a $2.99, una subscripció anual a $9.99 o una compra única de per vida a $29.99.
-{{% /sr-only %}}
+{{% /ls-sr-only %}}
 
 
-{{< force-dark >}}
+{{< ls-force-dark >}}
 
-{{< hextra/hero-container
+{{< ls-hero-container
   image="/products/evertag/heroimage/evertag_mac_600_345.png"
   imageWidth="600"
 >}}
@@ -30,37 +30,37 @@ Evertag és un editor d'etiquetes de música per a iPhone i Mac desenvolupat per
 <div class="hx:w-full hx:text-center">
 
 <div class="hx:mt-4">
-{{< downloads-badge >}}
+{{< ls-downloads-badge >}}
 </div>
 
 <div class="hx:mt-6 hx:mb-6">
 <div class="hx:flex hx:gap-4 hx:items-center hx:justify-center">
-  {{< app-icon src="/images/app_icons/png/Evertag_Icon-App-1024x1024.png" alt="Evertag Icon" class="hero-headline-icon" size="80" >}}
-  {{< hextra/hero-headline >}}
+  {{< ls-app-icon src="/images/app_icons/png/Evertag_Icon-App-1024x1024.png" alt="Evertag Icon" class="hero-headline-icon" size="80" >}}
+  {{< ls-hero-headline >}}
   Evertag
-  {{< /hextra/hero-headline >}}
+  {{< /ls-hero-headline >}}
 </div>
 </div>
 
 <div class="hx:mb-6">
-{{< hextra/hero-centered-subtitle >}}
+{{< ls-hero-centered-subtitle >}}
 <strong>Mantingues la teva biblioteca musical organitzada</strong>
-{{< /hextra/hero-centered-subtitle >}}
+{{< /ls-hero-centered-subtitle >}}
 </div>
 
 <div class="hx:mb-6">
-{{< hextra/hero-paragraph >}}
+{{< ls-hero-paragraph >}}
 • Afegeix o actualitza portades d'àlbum  
 • Edita etiquetes per lots per a moltes cançons alhora  
 • Corregeix la codificació trencada i omple automàticament les etiquetes que falten  
-{{< /hextra/hero-paragraph >}}
+{{< /ls-hero-paragraph >}}
 </div>
 
-{{< app-store-badges products="evertag:ios, evertag:macos" >}}
+{{< ls-app-store-badges products="evertag:ios, evertag:macos" >}}
 
 </div>
 
-{{< /hextra/hero-container >}}
+{{< /ls-hero-container >}}
 
 <div class="hx:mt-6"></div>
 
@@ -68,63 +68,63 @@ Evertag és un editor d'etiquetes de música per a iPhone i Mac desenvolupat per
 
 {{< hextra/feature-grid >}}
 
-  {{< hextra/feature-card
+  {{< ls-glass-feature-card
     title="Edita més de 120 etiquetes"
     subtitle="Edita ràpidament etiquetes de música com Títol, Artista, Àlbum, Artista de l'àlbum, BPM, Comentari, Compositor, Número de disc, Gènere, Lletres, Valoració, Número de pista, Any i molt més."
     icon="pencil"
     style="background: radial-gradient(ellipse at 50% 80%, rgba(59,130,246,0.15), hsla(0,0%,100%,0));"
   >}}
 
-  {{< hextra/feature-card
+  {{< ls-glass-feature-card
     title="Edició d'etiquetes per lots"
     subtitle="Actualitza les metadades de múltiples fitxers alhora. Estalvia temps i mantingues la teva biblioteca musical ben organitzada amb uns quants tocs."
     icon="database"
     style="background: radial-gradient(ellipse at 50% 80%, rgba(192,38,211,0.15), hsla(0,0%,100%,0));"
   >}}
 
-  {{< hextra/feature-card
+  {{< ls-glass-feature-card
     title="Troba portades d'àlbum"
     subtitle="Troba i afegeix automàticament les il·lustracions d'àlbum que falten a les teves cançons. Fes que la teva col·lecció de música sigui visualment completa."
     icon="camera"
     style="background: radial-gradient(ellipse at 50% 80%, rgba(234,88,12,0.15), hsla(0,0%,100%,0));"
   >}}
 
-  {{< hextra/feature-card
+  {{< ls-glass-feature-card
     title="Funciona amb més de 30 formats"
     subtitle="Compatible amb MP3, FLAC, OGG, OPUS, M4A, WAV, WMA, APE, AIFF, MOD, XM, IT i molt més."
     icon="music-note"
     style="background: radial-gradient(ellipse at 50% 80%, rgba(236,72,153,0.15), hsla(0,0%,100%,0));"
   >}}
 
-  {{< hextra/feature-card
+  {{< ls-glass-feature-card
     title="Cercador automàtic d'etiquetes"
     subtitle="Detecta la informació que falta a les cançons i omple-la automàticament amb la base de dades MusicBrainz. Tria revisar els canvis o aplicar-los a l'instant."
     icon="search"
     style="background: radial-gradient(ellipse at 50% 80%, rgba(34,197,94,0.15), hsla(0,0%,100%,0));"
   >}}
 
-  {{< hextra/feature-card
+  {{< ls-glass-feature-card
     title="Corregeix problemes de codificació"
     subtitle="Repara caràcters trencats o il·legibles a les teves metadades. Evertag manté les teves etiquetes netes i clares en qualsevol idioma."
     icon="translate"
     style="background: radial-gradient(ellipse at 50% 80%, rgba(251,191,36,0.15), hsla(0,0%,100%,0));"
   >}}
 
-  {{< hextra/feature-card
+  {{< ls-glass-feature-card
     title="Accés al núvol i USB"
     subtitle="Edita música directament des d'iCloud Drive, Google Drive, Dropbox, OneDrive, unitats flash USB o carpetes compartides, sense necessitat de copiar."
     icon="cloud"
     style="background: radial-gradient(ellipse at 50% 80%, rgba(6,182,212,0.15), hsla(0,0%,100%,0));"
   >}}
 
-  {{< hextra/feature-card
+  {{< ls-glass-feature-card
     title="Transferència de música per Wi-Fi"
     subtitle="Puja música fàcilment al teu iPhone o iPad des del teu ordinador mitjançant una connexió Wi-Fi. Sense cables."
     icon="wifi"
     style="background: radial-gradient(ellipse at 50% 80%, rgba(245,158,11,0.15), hsla(0,0%,100%,0));"
   >}}
 
-  {{< hextra/feature-card
+  {{< ls-glass-feature-card
     title="Gestor de fitxers integrat"
     subtitle="Organitza els teus fitxers de música amb eines integrades. Reanomena, Mou, Elimina, Marca com a Favorits i Visualitza l'activitat recent, tot en una sola app."
     icon="folder-open"
@@ -139,47 +139,47 @@ Evertag és un editor d'etiquetes de música per a iPhone i Mac desenvolupat per
 <div class="hx:mt-6"></div>
 
 <div class="hx:w-full">
-{{< appstore-reviews apps="1450763230,1594027661" stars="5,4"  app="Evertag" >}}
+{{< ls-appstore-reviews apps="1450763230,1594027661" stars="5,4"  app="Evertag" >}}
 </div>
 
 <div class="hx:mt-6"></div>
 
-{{< hextra/section-headline >}}
+{{< ls-section-headline >}}
   Plans de preus
-{{< /hextra/section-headline >}}
+{{< /ls-section-headline >}}
 
 <div class="hx:mt-6"></div>
 
 <div class="hx:w-full">
 
-{{< pricing-plans >}}
+{{< ls-pricing-plans >}}
 
 </div>
 
 <div class="hx:mt-6"></div>
 
 <div class="hx:w-full hx:mx-auto hx:flex hx:flex-col hx:items-center">
-  {{< hextra/info-paragraph border="true" >}}
+  {{< ls-info-paragraph border="true" >}}
    <strong>Compartir en família</strong>: Totes les compres i subscripcions admeten Compartir en família, permetent-te compartir l'accés Premium amb la teva família.<br><strong>Accés universal</strong>: Els plans de per vida i de subscripció es comparteixen entre dispositius iOS i Mac mitjançant la sincronització d'iCloud.<br><strong>Preus</strong>: Els preus es mostren en dòlars americans per als Estats Units. El preu final pot variar segons la teva regió.  
-  {{< /hextra/info-paragraph >}}
+  {{< /ls-info-paragraph >}}
 </div>
 
 <div class="hx:mt-6"></div>
 
 <div class="hx:w-full">
-{{< app-details heading="true" >}}
+{{< ls-app-details heading="true" >}}
 </div>
 
 <div class="hx:mt-6"></div>
 
-{{< hextra/section-headline >}}
+{{< ls-section-headline >}}
   Preguntes freqüents
-{{< /hextra/section-headline >}}
+{{< /ls-section-headline >}}
 
 <div class="hx:mt-6"></div>
 
 <div class="hx:w-full">
-{{% details title="Què és Evertag?" closed="true" %}}
+{{% ls-details title="Què és Evertag?" closed="true" %}}
 Evertag és un potent editor de metadades musicals i gestor d'il·lustracions d'àlbum dissenyat per a iOS i macOS. Et proporciona les eines per organitzar la teva col·lecció de música com un professional, tant si els teus fitxers estan emmagatzemats localment com al núvol. Amb una interfície neta i funcions d'edició avançades, Evertag facilita la correcció d'etiquetes que falten, l'addició de portades d'alta qualitat i la garantia que la teva biblioteca musical tingui un aspecte fantàstic i es mantingui consistent.<br><br>
 
 L'aplicació és compatible amb una àmplia gamma de formats d'àudio populars, incloent MP3, FLAC, WAV, M4A, WMA, OGG i molts més. Et permet editar etiquetes comunes com títol, artista, àlbum, gènere, any, número de pista, i també camps ampliats com BPM, número de disc, lletres, IDs de MusicBrainz i molt més. Pots treballar amb un fitxer alhora o canviar al mode per lots per editar múltiples pistes simultàniament, perfecte per organitzar àlbums o llistes de reproducció sencers.<br><br>
@@ -187,14 +187,14 @@ L'aplicació és compatible amb una àmplia gamma de formats d'àudio populars, 
 Una de les funcions destacades d'Evertag és la seva capacitat de cercar portades d'àlbum que falten directament des d'internet o permetre't afegir-les manualment. També pots utilitzar l'editor de lletres per afegir lletres no sincronitzades a les teves cançons, millorant la reproducció en reproductors compatibles. L'aplicació admet l'edició en el lloc, de manera que pots modificar les etiquetes d'àudio sense necessitat de copiar o moure els teus fitxers.<br><br>
 
 Tant si gestiones música al teu dispositiu com al núvol amb Dropbox, OneDrive, MEGA o altres serveis, Evertag ofereix accés i edició de fitxers sense interrupcions. És la solució perfecta per a músics, DJs i col·leccionistes que volen mantenir una biblioteca musical neta i ben organitzada a l'iPhone, iPad sense necessitat d'un ordinador d'escriptori.<br><br>
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Evertag és gratuït?" closed="true" %}}
+{{% ls-details title="Evertag és gratuït?" closed="true" %}}
 Evertag és una aplicació gratuïta amb algunes limitacions que pots eliminar actualitzant a la versió Premium. L'aplicació ofereix una compra de per vida dins l'app i dues opcions de subscripció (1 mes i 1 any) per eliminar totes les restriccions, permetent-te triar el millor preu per a tu. Els preus poden variar segons el teu país o territori. A més, tingues en compte que Compartir en família està activat per a totes les compres i plans, de manera que pots compartir la versió Premium amb els membres de la teva família.<br><br>
 Les compres de per vida i les subscripcions es comparteixen entre iOS i Mac, utilitzant iCloud per sincronitzar aquesta informació. Si tens la versió Premium al teu dispositiu iOS, assegura't de tenir la darrera versió instal·lada i que iCloud estigui activat. Inicia l'aplicació a iOS i espera un minut perquè la informació de compra es pugui pujar a iCloud.<br><br>
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Quina és la diferència entre Evertag Free i Evertag Premium?" closed="true" %}}
+{{% ls-details title="Quina és la diferència entre Evertag Free i Evertag Premium?" closed="true" %}}
 
 **Evertag Free**  <br>
 Evertag Free et dóna accés a potents funcions d'edició de metadades musicals amb algunes limitacions funcionals. Inclou anuncis i permet l'ús bàsic de l'editor d'etiquetes, l'editor de portades d'àlbum i l'edició per lots. Pots corregir problemes de codificació, connectar 1 compte d'emmagatzematge al núvol i marcar fins a 10 fitxers com a favorits. A més, pots realitzar 20 cerques automàtiques d'etiquetes i 20 cerques de portades d'àlbum per dia.<br><br>
@@ -213,9 +213,9 @@ Els usuaris Premium també obtenen accés a la configuració de personalització
 
 Cada opció premium inclou el mateix conjunt de funcions, de manera que pots triar el pla que s'adapti a les teves necessitats i pressupost.<br><br>
 
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Evertag és segur?" closed="true" %}}
+{{% ls-details title="Evertag és segur?" closed="true" %}}
 Evertag utilitza únicament SDK oficials i connexions segures per interactuar amb els serveis al núvol connectats. El teu nom d'usuari i contrasenya no estan disponibles per a l'aplicació. Totes les sol·licituds de l'aplicació al servei al núvol estan xifrades.<br>
 Quan introdueixes el nom d'usuari i la contrasenya, l'aplicació et mostra la pàgina d'autorització oficial proporcionada pel proveïdor del servei al núvol i tot el procés d'autorització es realitza fora de l'aplicació. El proveïdor del servei al núvol envia un token d'autenticació a l'aplicació després d'una autorització exitosa i aquest token s'utilitza per fer crides a l'API.<br><br>
 
@@ -226,9 +226,9 @@ Per rebutjar el token d'autenticació, inicia sessió al teu compte al navegador
 
 També pots desconnectar els comptes al núvol connectats a l'aplicació i el token d'autenticació també s'eliminarà del teu dispositiu. Si elimines l'aplicació del teu dispositiu, totes les dades descarregades i els tokens d'accés també s'eliminaran.<br><br>
 
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Com editar les metadades dels fitxers de música descarregats localment a l'iPhone?" closed="true" %}}
+{{% ls-details title="Com editar les metadades dels fitxers de música descarregats localment a l'iPhone?" closed="true" %}}
 Un cop hagis instal·lat l'aplicació, obre la pantalla "Fitxers locals" i desplaça't cap avall fins a la secció "Fitxers en aquest iPhone".<br>
 Des d'allà, tria "Obrir fitxers..." si necessites seleccionar diversos fitxers d'àudio o "Obrir carpeta..." si vols triar una carpeta de música.<br>
 L'aplicació escanejarà el contingut de la carpeta i tots els fitxers d'àudio trobats seran seleccionats.<br>
@@ -242,9 +242,9 @@ Obre la pantalla "Fitxers locals".<br>
 Desplaça't cap avall fins a la secció "Fitxers en aquest dispositiu" i toca "Connectar una carpeta".<br>
 Selecciona una carpeta ubicada al teu dispositiu i toca "Obrir" per confirmar la selecció.<br>
 La teva carpeta s'afegirà a la secció "Fitxers en aquest iPhone" proporcionant accés ràpid als teus fitxers d'àudio.<br><br>
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Com afegir lletres a les cançons a Evertag?" closed="true" %}}
+{{% ls-details title="Com afegir lletres a les cançons a Evertag?" closed="true" %}}
 Pots afegir lletres incrustades a les teves pistes a l'aplicació Evertag seguint aquests passos:<br><br>
 * Comença a editar un fitxer d'àudio tocant-lo.<br>
 * Toca "Mostrar etiquetes ampliades" per canviar l'editor d'etiquetes al mode avançat.<br>
@@ -258,9 +258,9 @@ Pots afegir lletres incrustades a les teves pistes a l'aplicació Evertag seguin
 Tutorial més detallat disponible aquí:<br>
 [Com editar lletres per a fitxers d'àudio a l'iPhone o MAC](/docs/howto/how-to-edit-lyrics-for-audio-files-on-iphone-mac/)<br><br>
 
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Com transfereixo música a Evertag des del meu ordinador?" closed="true" %}}
+{{% ls-details title="Com transfereixo música a Evertag des del meu ordinador?" closed="true" %}}
 Pots connectar el teu ordinador o NAS personal mitjançant SMB, WebDAV. Alternativament, utilitza la compartició de fitxers d'iTunes per transferir música.<br><br>
 
 Per connectar un ordinador mitjançant el protocol **SMB** toca "Connectar a emmagatzematge al núvol" → SMB.<br>
@@ -295,23 +295,23 @@ Copia els fitxers de l'ordinador a la carpeta compartida del dispositiu.<br><br>
 Instrucció detallada disponible aquí:<br>
 [Com reproduir fitxers locals (fitxers d'iTunes) al meu iPhone](/docs/howto/how-to-play-local-itunes-files-on-my-iphone)<br><br>
 
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Quins formats d'àudio admet Evertag?" closed="true" %}}
+{{% ls-details title="Quins formats d'àudio admet Evertag?" closed="true" %}}
 Aquí tens la llista completa de formats d'àudio compatibles i les seves extensions de fitxer corresponents:<br><br>
 
 MP3, OGG, OGA, FLAC, MPC, WV, SPX, OPUS, TTA, M4A, M4R, M4B, M4P, MP4, 3G2, M4V, WMA, ASF, AIF, AIFF, AFC, AIFC, WAV, APE, MOD, MODULE, NTS, WOW, S3M, IT, XM.<br>
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Quines etiquetes d'àudio admet Evertag?" closed="true" %}}
+{{% ls-details title="Quines etiquetes d'àudio admet Evertag?" closed="true" %}}
 Aquí tens la llista completa d'etiquetes d'àudio compatibles:<br><br>
 
 ASIN, AcoustID: Fingerprint, AcoustID: Identifier, Album, Album Artist, Album Artist Sort Order, Album Cover, Album Sort Order, Arranger, Artist, Artist Sort Order, Artists, Barcode, Beats Per Minute, Catalog Number, Comment, Compilation, Composer, Composer Sort Order, Conductor, Content Group, Copyright, Description, Director, Disk Number, Disk Subtitle, Disk Total, Encoded By, Encoder Settings, Encoding Time, Engineer, File Owner, File Type, Genre, Grouping, ISRC, Initial Key, Involved People, Language, Length, License, Lyricist, Lyrics Advisory Rating, Lyrics Unsynced, Media Type, Mix DJ, Mixer, Mood, Movement Name, Movement Number, Movement Total, MusicBrainz: Album Artist ID, MusicBrainz: Album ID, MusicBrainz: Album Release Country, MusicBrainz: Album Status, MusicBrainz: Album Type, MusicBrainz: Artist ID, MusicBrainz: Disc ID, MusicBrainz: Original Album ID, MusicBrainz: Original Artist ID, MusicBrainz: Release Group ID, MusicBrainz: Release Track ID, MusicBrainz: TRM ID, MusicBrainz: Track ID, MusicBrainz: Work ID, MusicIP: Fingerprint, MusicIP: PUID, Musician Credits, Narrator, Net Radio Owner, Net Radio Station, Original Album, Original Artist, Original File Name, Original Lyricist, Original Release Date, Original Release Year, Performer, Podcast, Podcast Category, Podcast Description, Podcast ID, Podcast Keywords, Podcast URL, Producer, Publisher, Rating, Record Label, Release Country, Release Status, Release Type, Remixed By, Replay Gain: Album Gain, Replay Gain: Album Peak, Replay Gain: Album Range, Replay Gain: Reference Loudness, Replay Gain: Track Gain, Replay Gain: Track Peak, Replay Gain: Track Range, Script, Show Movement, Show Name, Show Name Sort Order, Subtitle, Track Number, Track Title, Track Title Sort Order, Track Total, WWW, WWW: Artist, WWW: Audio File, WWW: Audio Source, WWW: Commercial Info, WWW: Copyright, WWW: Payment, WWW: Publisher, WWW: Radio Page, Website, Work Title, Writer, Year<br><br>
 
 [Llegeix més](/docs/guide/evertag/evertag-tag-field-mappings/)
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Com descarregar fitxers?" closed="true" %}}
+{{% ls-details title="Com descarregar fitxers?" closed="true" %}}
 Abans de poder descarregar fitxers d'àudio i editar etiquetes d'àudio, has de connectar un servei d'emmagatzematge al núvol.<br>
 Obre la pantalla "Connexions" i afegeix el teu proveïdor d'emmagatzematge al núvol.<br>
 Un cop afegit, pots començar a descarregar fitxers a l'aplicació.<br><br>
@@ -321,10 +321,10 @@ Per descarregar fitxers del núvol:<br>
 – Navega fins a la carpeta que vols descarregar.<br>
 – Toca el botó "Més accions" ("...") a la cantonada superior dreta i selecciona l'element de menú "Seleccionar".<br>
 – Tria els fitxers o carpetes que vols descarregar i toca l'acció "Descarregar".<br>
-{{% /details %}}
+{{% /ls-details %}}
 
 
-{{% details title="Quins serveis al núvol són compatibles?" closed="true" %}}
+{{% ls-details title="Quins serveis al núvol són compatibles?" closed="true" %}}
 Si la teva biblioteca musical està emmagatzemada al núvol, pots connectar els serveis al núvol més populars directament a l'aplicació:<br>
 Dropbox, OneDrive, Box, MEGA, Yandex.Disk, MediaFire, pCloud, HiDrive.<br><br>
 
@@ -332,9 +332,9 @@ Pots navegar i gestionar els teus fitxers amb el gestor de fitxers integrat. L'a
 
 També pots editar fitxers d'àudio emmagatzemats localment al teu dispositiu amb la funció d'edició en el lloc. No cal copiar-los des d'altres aplicacions: simplement obre'ls i edita'ls directament.<br><br>
 
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Com actualitzar automàticament les metadades d'un fitxer en un servei al núvol?" closed="true" %}}
+{{% ls-details title="Com actualitzar automàticament les metadades d'un fitxer en un servei al núvol?" closed="true" %}}
 Un cop hagis acabat d'editar les metadades, toca el botó "Desar" a la cantonada superior dreta per aplicar els canvis als fitxers seleccionats.<br><br>
 
 Si estàs editant un fitxer emmagatzemat al núvol, l'aplicació et dóna diverses opcions per actualitzar les metadades del fitxer. Aquests comportaments es poden personalitzar a la configuració:<br><br>
@@ -344,10 +344,10 @@ Si estàs editant un fitxer emmagatzemat al núvol, l'aplicació et dóna divers
 • **No actualitzar les metadades del fitxer** – Quan està activat, l'aplicació ometrà l'actualització de les metadades del fitxer al núvol després de l'edició.<br><br>
 
 Pots trobar i modificar aquestes opcions a la configuració d'Evertag a la secció de preferències d'actualització de metadades.
-{{% /details %}}
+{{% /ls-details %}}
 
 
-{{% details title="Com afegir un nou compte?" closed="true" %}}
+{{% ls-details title="Com afegir un nou compte?" closed="true" %}}
 Per connectar un servei al núvol, obre la pestanya "Connexions" → selecciona l'element de menú "Connectar a emmagatzematge al núvol" → tria un servei d'emmagatzematge al núvol de la llista → introdueix les teves credencials i toca "Fet".<br><br>
 
 Si tens problemes, assegura't que la teva connexió a Internet estigui activa i comprova el teu nom d'usuari i contrasenya.<br><br>
@@ -355,9 +355,9 @@ Si tens problemes, assegura't que la teva connexió a Internet estigui activa i 
 Els serveis compatibles actualment inclouen: Dropbox, OneDrive, Box, MEGA, Yandex.Disk, Media Fire, PCloud i HiDrive.<br><br>
 
 A la versió Premium de l'aplicació, pots afegir un nombre il·limitat de comptes al núvol.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Com gestionar els meus fitxers a l'emmagatzematge de xarxa?" closed="true" %}}
+{{% ls-details title="Com gestionar els meus fitxers a l'emmagatzematge de xarxa?" closed="true" %}}
 Si necessites editar diversos fitxers ubicats al teu emmagatzematge al núvol, activa el mode de selecció tocant el botó "..." a la cantonada superior dreta.<br><br>
 
 Un cop activat, apareixeran caselles de selecció al costat de cada fitxer. Aleshores pots realitzar accions sobre fitxers individuals o seleccionar múltiples fitxers per aplicar accions massives.<br><br>
@@ -371,10 +371,10 @@ Accions disponibles per als fitxers seleccionats:<br>
 • <strong>Graella/Llista</strong> – Canviar entre la vista de taula i la vista de miniatures.<br><br>
 
 Si no hi ha prou espai per mostrar totes les opcions, apareixerà un botó "Més accions". Toca'l per accedir a la llista completa d'accions disponibles.
-{{% /details %}}
+{{% /ls-details %}}
 
 
-{{% details title="Com editar diversos fitxers com un sol fitxer?" closed="true" %}}
+{{% ls-details title="Com editar diversos fitxers com un sol fitxer?" closed="true" %}}
 Amb el "mode per lots", pots editar múltiples fitxers alhora i aplicar canvis de metadades compartides de manera ràpida i eficient.<br><br>
 
 Per activar el mode per lots:<br>
@@ -382,38 +382,38 @@ Per activar el mode per lots:<br>
 • Toca el botó "Editar diversos fitxers simultàniament".<br><br>
 
 Aquest mode és especialment útil quan necessites aplicar el mateix nom d'àlbum, artista, gènere o altres camps de metadades a múltiples fitxers d'àudio.
-{{% /details %}}
+{{% /ls-details %}}
 
 </div>
 
 <div class="hx:mt-6"></div>
 
-{{< hextra/section-headline >}}
+{{< ls-section-headline >}}
   Guia d'usuari
-{{< /hextra/section-headline >}}
+{{< /ls-section-headline >}}
 
 <div class="hx:mt-6"></div>
 
 <div class="hx:w-full">
 
 <div class="hx:w-full hx:mx-auto hx:flex hx:flex-col hx:items-center hx:text-center">
-  {{< hextra/info-paragraph border="false" >}}
+  {{< ls-info-paragraph border="false" >}}
   En aquesta guia, descobriràs com aprofitar el poder d'Evertag al teu iPhone, iPad i Mac, fent que la teva experiència de gestió musical sigui fluida i agradable.
-  {{< /hextra/info-paragraph >}}
+  {{< /ls-info-paragraph >}}
 </div>
 
 {{< cards >}}
-  {{< feature-card icon="location-marker" title="Navegació" subtitle="Aprèn a navegar sense esforç per la nostra app utilitzant la barra de pestanyes (per a usuaris d'iPhone) o el menú esquerre (per a usuaris d'iPad i Mac) per accedir i explorar totes les funcions de l'app." link="/docs/guide/evertag/evertag-guide-navigation" >}}
+  {{< ls-feature-card icon="location-marker" title="Navegació" subtitle="Aprèn a navegar sense esforç per la nostra app utilitzant la barra de pestanyes (per a usuaris d'iPhone) o el menú esquerre (per a usuaris d'iPad i Mac) per accedir i explorar totes les funcions de l'app." link="/docs/guide/evertag/evertag-guide-navigation" >}}
 
-  {{< feature-card icon="cloud" title="Connexions" subtitle="Vincula sense esforç tots els teus comptes al núvol disponibles amb els teus preciosos fitxers d'àudio. Fins i tot pots editar els teus fitxers en línia fàcilment amb el nostre gestor de fitxers integrat." link="/docs/guide/evertag/evertag-guide-connections" >}}
+  {{< ls-feature-card icon="cloud" title="Connexions" subtitle="Vincula sense esforç tots els teus comptes al núvol disponibles amb els teus preciosos fitxers d'àudio. Fins i tot pots editar els teus fitxers en línia fàcilment amb el nostre gestor de fitxers integrat." link="/docs/guide/evertag/evertag-guide-connections" >}}
 
-  {{< feature-card icon="folder" title="Fitxers locals" subtitle="Visualitza i organitza els fitxers emmagatzemats a la carpeta Documents de l'app o al teu dispositiu. Utilitza el gestor de fitxers integrat per editar i gestionar els teus fitxers d'àudio amb facilitat." link="/docs/guide/evertag/evertag-guide-local-files" >}}
+  {{< ls-feature-card icon="folder" title="Fitxers locals" subtitle="Visualitza i organitza els fitxers emmagatzemats a la carpeta Documents de l'app o al teu dispositiu. Utilitza el gestor de fitxers integrat per editar i gestionar els teus fitxers d'àudio amb facilitat." link="/docs/guide/evertag/evertag-guide-local-files" >}}
 
-  {{< feature-card icon="pencil-alt" title="Editor d'etiquetes" subtitle="Domina l'art de la manipulació de metadades de fitxers d'àudio. Descobreix com editar metadades, transformar portades d'àlbum i gestionar múltiples fitxers simultàniament sense problemes." link="/docs/guide/evertag/evertag-guide-tag-editor" >}}
+  {{< ls-feature-card icon="pencil-alt" title="Editor d'etiquetes" subtitle="Domina l'art de la manipulació de metadades de fitxers d'àudio. Descobreix com editar metadades, transformar portades d'àlbum i gestionar múltiples fitxers simultàniament sense problemes." link="/docs/guide/evertag/evertag-guide-tag-editor" >}}
 
-  {{< feature-card icon="code" title="Mapeig de camps d'etiquetes" subtitle="Explora la llista completa de camps d'etiquetes d'àudio compatibles amb l'app Evertag, incloent noms de camps interns i mapejos entre els principals formats de metadades." link="/docs/guide/evertag/evertag-tag-field-mappings" >}}
+  {{< ls-feature-card icon="code" title="Mapeig de camps d'etiquetes" subtitle="Explora la llista completa de camps d'etiquetes d'àudio compatibles amb l'app Evertag, incloent noms de camps interns i mapejos entre els principals formats de metadades." link="/docs/guide/evertag/evertag-tag-field-mappings" >}}
 
-  {{< feature-card icon="adjustments" title="Configuració" subtitle="Descobreix com personalitzar la teva experiència amb l'app, ajustar el rendiment, gestionar l'ús de dades i adaptar les preferències d'idioma i interfície d'usuari al teu gust." link="/docs/guide/evertag/evertag-guide-settings" >}}
+  {{< ls-feature-card icon="adjustments" title="Configuració" subtitle="Descobreix com personalitzar la teva experiència amb l'app, ajustar el rendiment, gestionar l'ús de dades i adaptar les preferències d'idioma i interfície d'usuari al teu gust." link="/docs/guide/evertag/evertag-guide-settings" >}}
 
 {{< /cards >}}
 

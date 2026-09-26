@@ -31,7 +31,7 @@ Puteți ajunge la playerul pe tot ecranul din bara playerului compact. Pe iPhone
 Playerul compact rămâne vizibil în timp ce navigați în bibliotecă, managerul de fișiere sau setări, astfel niciodată nu pierdeți videoclipul în timp ce căutați pe următor.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Playerul Media pe Tot Ecranul Evervideo" image="/docs/guide/evervideo/img/evervideo-media-player-fullscreen.webp" >}}
+  {{< ls-card title="" subtitle="Playerul Media pe Tot Ecranul Evervideo" image="/docs/guide/evervideo/img/evervideo-media-player-fullscreen.webp" >}}
 {{< /cards >}}
 
 ## Formate Video și Audio Suportate
@@ -72,7 +72,7 @@ PiP funcționează cu fiecare format video pe care îl redă Evervideo, inclusiv
 Playerul compact este un mini-player persistent care rămâne vizibil în partea de sus a fiecărui ecran din aplicație în timp ce navigați în bibliotecă, managerul de fișiere sau setări. Atingeți-l pentru a extinde la playerul pe tot ecranul; glisați în jos pentru a-l restrânge din nou.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Setări Video din Vizualizarea Playerului Compact pe Ecranul Principal Evervideo" image="/docs/guide/evervideo/img/evervideo-video-settings-from-compact-player-view-on-the-main-screen.webp" >}}
+  {{< ls-card title="" subtitle="Setări Video din Vizualizarea Playerului Compact pe Ecranul Principal Evervideo" image="/docs/guide/evervideo/img/evervideo-video-settings-from-compact-player-view-on-the-main-screen.webp" >}}
 {{< /cards >}}
 
 ## AirPlay 2
@@ -115,7 +115,7 @@ Evervideo include un egalizator audio complet pentru a acorda benzile sonore vid
 Pentru reglarea imaginii, Evervideo oferă un egalizator video dedicat — reglați luminozitatea, contrastul, saturația și nuanța în timp real în timpul redării. Ca și egalizatorul audio, preset-urile video personalizate pot fi exportate și importate pentru partajare sau backup. Folosiți-l pentru a lumina o scenă întunecată într-o zi însorită, a crește saturația conținutului decolorat sau a încălzi o nuanță de culoare rece.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Egalizatorul Video Evervideo" image="/docs/guide/evervideo/img/evervideo-video-equalizer.webp" >}}
+  {{< ls-card title="" subtitle="Egalizatorul Video Evervideo" image="/docs/guide/evervideo/img/evervideo-video-equalizer.webp" >}}
 {{< /cards >}}
 
 ## Mod Scalare Video
@@ -144,7 +144,7 @@ Evervideo include un viewport VR / 360° pentru fișiere video sferice. Când re
 Atingeți controlul Viteză pe bara de instrumente a playerului pentru a schimba viteza de redare — încetiniți pentru analiză (0,25× sau 0,5×) sau accelerați pentru tutoriale și prelegeri (1,25×, 1,5×, 2× și până la 3×). Atingeți pictograma de configurare din colțul din dreapta sus al ecranului Viteză pentru a comuta la modul precis cu ajustări mai fine. Corecția de tonalitate per pistă este de asemenea disponibilă.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Viteza de Redare pe Bara Principală de Instrumente Evervideo" image="/docs/guide/evervideo/img/evervideo-media-player-playback-speed-on-main-toolbar.webp" >}}
+  {{< ls-card title="" subtitle="Viteza de Redare pe Bara Principală de Instrumente Evervideo" image="/docs/guide/evervideo/img/evervideo-media-player-playback-speed-on-main-toolbar.webp" >}}
 {{< /cards >}}
 
 ## Coada Playerului
@@ -152,7 +152,7 @@ Atingeți controlul Viteză pe bara de instrumente a playerului pentru a schimba
 Pentru a vedea coada playerului, atingeți butonul de coadă pe player. Fiecare videoclip din coadă are mai multe acțiuni — atingeți cele trei puncte pentru a le vedea. Pentru a reordona un videoclip în coadă, folosiți indicatorul de reordonare lângă titlu și trageți-l într-o nouă poziție.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Coada de Redare Evervideo" image="/docs/guide/evervideo/img/evervideo-playback-queue.webp" >}}
+  {{< ls-card title="" subtitle="Coada de Redare Evervideo" image="/docs/guide/evervideo/img/evervideo-playback-queue.webp" >}}
 {{< /cards >}}
 
 ## Temporizator de Repaus
@@ -189,7 +189,7 @@ Atingeți butonul **Mai Multe Acțiuni "..."** pe player pentru a accesa funcți
 - **Ajutor** — deschideți ghidul.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Ecranul Mai Multe Acțiuni al Playerului Evervideo" image="/docs/guide/evervideo/img/evervideo-media-player-more-actions.webp" >}}
+  {{< ls-card title="" subtitle="Ecranul Mai Multe Acțiuni al Playerului Evervideo" image="/docs/guide/evervideo/img/evervideo-media-player-more-actions.webp" >}}
 {{< /cards >}}
 
 ## Setările Playerului

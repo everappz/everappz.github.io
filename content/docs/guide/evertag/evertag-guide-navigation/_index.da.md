@@ -16,7 +16,7 @@ readingTime: 3
 Evertag tilbyder en intuitiv brugergrænseflade. Det, der adskiller den fra mange populære apps, er dens indbyggede filhåndtering, der giver brugerne mulighed for at redigere lydfiler og problemfrit overføre dem til og fra cloudlager.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evertag-skærm" image="/docs/guide/evertag/img/tag-editor.webp" >}}
+  {{< ls-card title="" subtitle="Evertag-skærm" image="/docs/guide/evertag/img/tag-editor.webp" >}}
 {{< /cards >}}
 
 ## Sektioner
@@ -42,7 +42,7 @@ Sektionen Lokale filer er opdelt i to kategorier: **Filer i denne app**, der vis
 Næsten alle indholdselementer på skærmen har en knap "Flere handlinger". Tryk på den for at få adgang til alle tilgængelige handlinger.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evertag Flere handlinger" image="/docs/guide/evertag/img/downloads-file-actions.webp" >}}
+  {{< ls-card title="" subtitle="Evertag Flere handlinger" image="/docs/guide/evertag/img/downloads-file-actions.webp" >}}
 {{< /cards >}}
 
 ## Øverste værktøjslinje

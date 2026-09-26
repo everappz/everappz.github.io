@@ -23,7 +23,7 @@ Az Audiojátszó az alkalmazás fő képernyője, ahol vezérli a zenét és a l
 A teljes képernyős lejátszóhoz a mini lejátszó sávból juthat. iPhone-on a mini lejátszó a főképernyő alján található. iPaden és Macon a bal oldalon. A mini lejátszó iPhone-on való elrejtéséhez koppintson egyszer és húzza le. A teljes képernyős lejátszó teljes bezárásához koppintson a bezárás gombra a jobb alsó sarokban.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox Audiojátszó főképernyő" image="/docs/guide/flacbox/img/audio-player-main-screen.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox Audiojátszó főképernyő" image="/docs/guide/flacbox/img/audio-player-main-screen.webp" >}}
 {{< /cards >}}
 
 ## Támogatott hangformátumok
@@ -64,7 +64,7 @@ Az AirPlay esetén keresse az **AirPlay** gombot a lejátszó alján. Koppintson
 A Flacbox tartalmaz egy **10 sávos equalizert** iPod-stílusú előbeállításokkal. Koppintson az Equalizer lehetőségre a hangerő nézeten, majd kapcsolja be a jobb felső sarokban. Használhat előbeállításokat, mint az Akusztikus és Bass Booster, vagy állítsa be az egyes frekvenciasávokat csúszkákkal. Készítse el saját előbeállításait, mentse azokat bármilyen névvel, és növelje az általános hangerőt a preamplifikátorral. Részletesebb útmutató az equalizer használatáról [itt](/docs/howto/how-to-use-the-audio-equalizer-on-your-iphone-ipad-mac-with-evermusic-and-flacbox) érhető el.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox Audiojátszó Equalizer" image="/docs/guide/flacbox/img/audio-player-equalizer.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox Audiojátszó Equalizer" image="/docs/guide/flacbox/img/audio-player-equalizer.webp" >}}
 {{< /cards >}}
 
 ## Lejátszó mód eszköztár
@@ -80,7 +80,7 @@ Néhány lejátszó stílusnál van egy dedikált eszköztár a teljes képerny�
 A lejátszási sor megtekintéséhez koppintson az aktuális dal jobb oldalán lévő sor gombra. A sorban lévő minden dalhoz elérhető további műveletek — koppintson a három pontra a megtekintésükhez. Egy dal sorban való átrendezéséhez használja a cím melletti átrendezés jelzőt és húzza új pozícióba.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox Lejátszási sor" image="/docs/guide/flacbox/img/playback_queue.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox Lejátszási sor" image="/docs/guide/flacbox/img/playback_queue.webp" >}}
 {{< /cards >}}
 
 ## Megjegyzések / Dalszövegek
@@ -96,7 +96,7 @@ A szám megjegyzéseinek, beágyazott dalszövegek és LRC fájlok megtekintés�
 Ezt követően koppintson a képernyő alján lévő lejátszási sor gombra többször a borítókép / sor nézet és a megjegyzések nézet közötti váltáshoz. Részletes útmutató [itt](/docs/howto/how-to-add-and-view-comments-to-your-audio-tracks-on-iphone-ipad-and-mac-with-evermusic-and-flacbox) érhető el.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox Dalszövegek és megjegyzések képernyő" image="/docs/guide/flacbox/img/lyrics-screen.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox Dalszövegek és megjegyzések képernyő" image="/docs/guide/flacbox/img/lyrics-screen.webp" >}}
 {{< /cards >}}
 
 ## Beállítások menü
@@ -117,7 +117,7 @@ A lejátszási sorban lévő minden dalhoz tartozik egy menü a dal neve mellett
 - **Törlés a zenetárból** — törli a dalt a zenetárból, miközben a fájl a tárhelyen marad.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox Beállítások a lejátszási sorban lévő elemhez" image="/docs/guide/flacbox/img/options-for-item-in-playback-queue.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox Beállítások a lejátszási sorban lévő elemhez" image="/docs/guide/flacbox/img/options-for-item-in-playback-queue.webp" >}}
 {{< /cards >}}
 
 ## További lejátszó műveletek
@@ -139,7 +139,7 @@ Koppintson az aktuálisan lejátszott dal nevének bal oldalán lévő **Tovább
 - **Súgó** — segítséget és útmutatást kap.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox Audiojátszó További műveletek képernyő" image="/docs/guide/flacbox/img/audio-player-more-actions-screen.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox Audiojátszó További műveletek képernyő" image="/docs/guide/flacbox/img/audio-player-more-actions-screen.webp" >}}
 {{< /cards >}}
 
 ## Audio könyvjelzők
@@ -155,7 +155,7 @@ Ez a funkció lehetővé teszi, hogy több könyvjelzőt hozzon létre a zenetá
 - Válassza ki a könyvjelző idejét és koppintson a **Kész** gombra a jobb felső sarokban.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox Audio könyvjelzők képernyő" image="/docs/guide/flacbox/img/audio-bookmarks.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox Audio könyvjelzők képernyő" image="/docs/guide/flacbox/img/audio-bookmarks.webp" >}}
 {{< /cards >}}
 
 ## Legutóbbiak és kedvencek
@@ -169,7 +169,7 @@ Csatlakoztassa iPhone-ját autójához USB vagy vezeték nélküli Apple CarPlay
 [Olvassa el a teljes CarPlay útmutatót](/docs/howto/how-to-play-your-own-music-on-iphone-using-carplay/).
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox Apple CarPlay-en" image="/docs/guide/flacbox/img/carplay-main.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox Apple CarPlay-en" image="/docs/guide/flacbox/img/carplay-main.webp" >}}
 {{< /cards >}}
 
 ## Kezdőképernyő widgetek (iPhone & iPad)
@@ -223,7 +223,7 @@ Konfigurálja a 10 sávos audio equalizert. Részletes útmutató [itt](/docs/ho
 Állítsa be a lejátszási sebességet **0,02×-tól 3,00×-ig**.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox Lejátszási sebesség képernyő" image="/docs/guide/flacbox/img/playback-speed.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox Lejátszási sebesség képernyő" image="/docs/guide/flacbox/img/playback-speed.webp" >}}
 {{< /cards >}}
 
 ### Hangmagasság-korrekció

@@ -7,7 +7,7 @@ tags: ["carplay", "iphone", "muzik tempatan", "main balik luar talian", "evermus
 readingTime: 5
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **Ringkasan:** Gunakan [Evermusic](https://apps.apple.com/app/apple-store/id885367198?pt=95781850&ct=everappzcom&mt=8) atau [Flacbox](https://apps.apple.com/app/apple-store/id1097564256?pt=95781850&ct=everappzcom&mt=8) untuk memainkan fail MP3, FLAC, atau audio lain di iPhone melalui Apple CarPlay. Tambah muzik daripada storan awan, USB, atau pemindahan Wi-Fi, kemudian layari pustaka, senarai main dan folder anda terus di skrin kereta anda.
@@ -17,7 +17,7 @@ readingTime: 5
 Ingin memainkan muzik anda sendiri di kereta menggunakan Apple CarPlay? Sama ada lagu anda disimpan di iPhone, dalam storan awan, atau luar talian, aplikasi seperti **Evermusic** dan **Flacbox** memudahkan anda mendengar koleksi muzik peribadi semasa memandu.
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Baris Giliran CarPlay Seterusnya" image="/docs/howto/how-to-play-your-own-music-on-iphone-using-carplay/carplay-nowplaying-5.webp" imageStyle="border-radius: clamp(14px, 2vw, 28px);" >}}
+{{< ls-card title="" subtitle="Baris Giliran CarPlay Seterusnya" image="/docs/howto/how-to-play-your-own-music-on-iphone-using-carplay/carplay-nowplaying-5.webp" imageStyle="border-radius: clamp(14px, 2vw, 28px);" >}}
 {{< /cards >}}
 
 Dalam panduan ini, kami akan menunjukkan cara menyediakan fail muzik anda untuk CarPlay, menyusunnya dengan kulit album dan maklumat trek yang betul, serta memainkannya dengan selamat dari iPhone anda. Dengan Evermusic atau Flacbox, anda boleh mencipta senarai main, dan menstrim atau memuat turun lagu daripada perkhidmatan seperti **Google Drive**, **Dropbox**, **OneDrive**, **NAS**, atau komputer rumah anda.
@@ -25,8 +25,8 @@ Dalam panduan ini, kami akan menunjukkan cara menyediakan fail muzik anda untuk 
 Aplikasi ini sesuai untuk sesiapa yang mahukan kawalan penuh ke atas pustaka muzik mereka.
 
 {{< cards cols="2">}}
-{{< card link="https://apps.apple.com/app/apple-store/id885367198?pt=95781850&ct=everappzcom&mt=8" title="Muat Turun Evermusic" icon="download" tag="Free" >}}
-{{< card link="https://apps.apple.com/app/apple-store/id1097564256?pt=95781850&ct=everappzcom&mt=8" title="Muat Turun Flacbox" icon="download" tag="Free" >}}
+{{< ls-card link="https://apps.apple.com/app/apple-store/id885367198?pt=95781850&ct=everappzcom&mt=8" title="Muat Turun Evermusic" icon="download" tag="Free" >}}
+{{< ls-card link="https://apps.apple.com/app/apple-store/id1097564256?pt=95781850&ct=everappzcom&mt=8" title="Muat Turun Flacbox" icon="download" tag="Free" >}}
 {{< /cards >}}
 
 ## Masukkan Fail ke dalam Aplikasi
@@ -106,7 +106,7 @@ Pindahkan fail secara wayarles seperti yang diterangkan [di sini](/docs/howto/ho
 Setelah anda melancarkan aplikasi Evermusic atau Flacbox dalam mod CarPlay, anda akan melihat antara muka utama yang dibahagikan kepada 4 tab utama: Pustaka, Sambungan, Fail Tempatan, Tetapan. 
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Menu Utama CarPlay" image="/docs/howto/how-to-play-your-own-music-on-iphone-using-carplay/library-with-images.webp" imageStyle="border-radius: clamp(14px, 2vw, 28px);" >}}
+{{< ls-card title="" subtitle="Menu Utama CarPlay" image="/docs/howto/how-to-play-your-own-music-on-iphone-using-carplay/library-with-images.webp" imageStyle="border-radius: clamp(14px, 2vw, 28px);" >}}
 {{< /cards >}}
 
 ## Pustaka
@@ -116,7 +116,7 @@ Tab **Pustaka** dalam Evermusic ialah hab pusat di mana semua muzik anda disusun
 Skrin ini memberi anda akses pantas ke kegemaran, terkini, senarai main, penanda buku dan semua trek yang ditambah. Anda juga boleh meneruskan main balik daripada sesi terakhir anda, melihat lagu yang belum dimainkan, dan meneroka muzik mengikut tag atau jenis sumber.
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Pustaka" image="/docs/howto/how-to-play-your-own-music-on-iphone-using-carplay/library-with-images-3.webp" imageStyle="border-radius: clamp(14px, 2vw, 28px);" >}}
+{{< ls-card title="" subtitle="Pustaka" image="/docs/howto/how-to-play-your-own-music-on-iphone-using-carplay/library-with-images-3.webp" imageStyle="border-radius: clamp(14px, 2vw, 28px);" >}}
 {{< /cards >}}
 
 Bahagian **Pustaka** mengandungi kategori berikut:
@@ -139,7 +139,7 @@ Bahagian **Pustaka** mengandungi kategori berikut:
 - **Fail Dalam Talian** – Muzik yang distrim terus daripada perkhidmatan awan
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Paparan Album" image="/docs/howto/how-to-play-your-own-music-on-iphone-using-carplay/albums.webp" imageStyle="border-radius: clamp(14px, 2vw, 28px);" >}}
+{{< ls-card title="" subtitle="Paparan Album" image="/docs/howto/how-to-play-your-own-music-on-iphone-using-carplay/albums.webp" imageStyle="border-radius: clamp(14px, 2vw, 28px);" >}}
 {{< /cards >}}
 
 Anda boleh membuka mana-mana submenu dan mengetik trek untuk memulakan main balik serta-merta. Untuk butiran lanjut, lihat [Panduan Pustaka Muzik](/docs/guide/evermusic/evermusic-guide-music-library/) penuh.
@@ -150,7 +150,7 @@ Anda boleh membuka mana-mana submenu dan mengetik trek untuk memulakan main bali
 Tab **Sambungan** ialah hab pusat anda untuk mengakses dan mengurus semua perkhidmatan storan awan dan peranti rangkaian tempatan yang disambungkan.
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Sambungan" image="/docs/howto/how-to-play-your-own-music-on-iphone-using-carplay/connections-with-images-3.webp" imageStyle="border-radius: clamp(14px, 2vw, 28px);" >}}
+{{< ls-card title="" subtitle="Sambungan" image="/docs/howto/how-to-play-your-own-music-on-iphone-using-carplay/connections-with-images-3.webp" imageStyle="border-radius: clamp(14px, 2vw, 28px);" >}}
 {{< /cards >}}
 
 Dari sini, anda boleh menyambung ke platform awan popular seperti Dropbox, Google Drive, OneDrive, MEGA, iCloud Drive, dan juga pemacu rangkaian seperti SMB, DLNA, dan WebDAV. Setelah disambungkan, anda boleh melayari, menstrim, memuat turun, dan mengurus fail terus dari dalam aplikasi.
@@ -172,7 +172,7 @@ Untuk mengetahui lebih lanjut tentang semua cara untuk menyambung dan mengurus p
 Bahagian **Fail Tempatan** ialah hab pusat anda untuk mengurus fail audio yang disimpan terus pada peranti anda atau di dalam direktori **Dokumen** aplikasi Evermusic. Ia juga termasuk fail luar talian yang dimuat turun daripada storan awan, fail cache pemain audio, dan folder yang telah anda sediakan untuk main balik luar talian. Bahagian ini memastikan anda boleh menikmati pustaka muzik anda walaupun tanpa sambungan internet.
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Fail Tempatan" image="/docs/howto/how-to-play-your-own-music-on-iphone-using-carplay/local-files-with-images.webp" imageStyle="border-radius: clamp(14px, 2vw, 28px);" >}}
+{{< ls-card title="" subtitle="Fail Tempatan" image="/docs/howto/how-to-play-your-own-music-on-iphone-using-carplay/local-files-with-images.webp" imageStyle="border-radius: clamp(14px, 2vw, 28px);" >}}
 {{< /cards >}}
 
 Skrin **Fail Tempatan** disusun ke dalam bahagian utama berikut:
@@ -186,7 +186,7 @@ Skrin **Fail Tempatan** disusun ke dalam bahagian utama berikut:
 - **Pemain Audio** – Folder cache yang digunakan untuk pengoptimuman crossfade dan prestasi. Boleh dilumpuhkan atau dikosongkan dalam tetapan.
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Folder Peranti dalam Fail Tempatan" image="/docs/howto/how-to-play-your-own-music-on-iphone-using-carplay/local-files-device-folders.webp" imageStyle="border-radius: clamp(14px, 2vw, 28px);" >}}
+{{< ls-card title="" subtitle="Folder Peranti dalam Fail Tempatan" image="/docs/howto/how-to-play-your-own-music-on-iphone-using-carplay/local-files-device-folders.webp" imageStyle="border-radius: clamp(14px, 2vw, 28px);" >}}
 {{< /cards >}}
 
 Anda boleh mengetahui lebih lanjut dalam [Panduan Fail Tempatan](/docs/guide/evermusic/evermusic-guide-local-files/) penuh.
@@ -194,7 +194,7 @@ Anda boleh mengetahui lebih lanjut dalam [Panduan Fail Tempatan](/docs/guide/eve
 ## Paparan Folder
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Folder Tempatan dengan Kulit" image="/docs/howto/how-to-play-your-own-music-on-iphone-using-carplay/local-folder-with-images-2.webp" imageStyle="border-radius: clamp(14px, 2vw, 28px);" >}}
+{{< ls-card title="" subtitle="Folder Tempatan dengan Kulit" image="/docs/howto/how-to-play-your-own-music-on-iphone-using-carplay/local-folder-with-images-2.webp" imageStyle="border-radius: clamp(14px, 2vw, 28px);" >}}
 {{< /cards >}}
 
 Apabila anda membuka folder, anda akan menemui satu set tindakan berguna di bahagian atas:
@@ -206,7 +206,7 @@ Apabila anda membuka folder, anda akan menemui satu set tindakan berguna di baha
 ## Had Kedalaman Kandungan
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Had Kedalaman Kandungan" image="/docs/howto/how-to-play-your-own-music-on-iphone-using-carplay/content-depth-limit.webp" imageStyle="border-radius: clamp(14px, 2vw, 28px);" >}}
+{{< ls-card title="" subtitle="Had Kedalaman Kandungan" image="/docs/howto/how-to-play-your-own-music-on-iphone-using-carplay/content-depth-limit.webp" imageStyle="border-radius: clamp(14px, 2vw, 28px);" >}}
 {{< /cards >}}
 
 Apabila menggunakan CarPlay, anda mungkin menemui ralat **"Had Kedalaman Kandungan"** — terutamanya jika pustaka muzik anda mempunyai banyak folder bersarang yang dalam.  
@@ -227,7 +227,7 @@ Penyelesaian ini memastikan pengalaman yang lancar apabila melayari muzik anda d
 ## Skrin Sedang Dimainkan
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Entri CarPlay Sedang Dimainkan" image="/docs/howto/how-to-play-your-own-music-on-iphone-using-carplay/carplay-nowplaying.webp" imageStyle="border-radius: clamp(14px, 2vw, 28px);" >}}
+{{< ls-card title="" subtitle="Entri CarPlay Sedang Dimainkan" image="/docs/howto/how-to-play-your-own-music-on-iphone-using-carplay/carplay-nowplaying.webp" imageStyle="border-radius: clamp(14px, 2vw, 28px);" >}}
 {{< /cards >}}
 
 Selepas mengetik mana-mana fail audio, ia akan ditambah secara automatik ke **baris giliran pemain**.  
@@ -244,7 +244,7 @@ Skrin ini membolehkan anda kekal mengawal pengalaman mendengar anda semasa meman
 ## Tetapan
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Menu Tetapan" image="/docs/howto/how-to-play-your-own-music-on-iphone-using-carplay/settings-2.webp" imageStyle="border-radius: clamp(14px, 2vw, 28px);" >}}
+{{< ls-card title="" subtitle="Menu Tetapan" image="/docs/howto/how-to-play-your-own-music-on-iphone-using-carplay/settings-2.webp" imageStyle="border-radius: clamp(14px, 2vw, 28px);" >}}
 {{< /cards >}}
 
 Bahagian **Tetapan** dalam antara muka CarPlay membolehkan anda menyesuaikan cara aplikasi berfungsi semasa anda memandu. Tetapan ini membantu meningkatkan prestasi, mengurangkan gangguan, dan memberikan pengalaman mendengar yang lebih lancar.
@@ -260,7 +260,7 @@ Bahagian **Tetapan** dalam antara muka CarPlay membolehkan anda menyesuaikan car
 - **Isih** – Laraskan cara kandungan diisih dalam menu CarPlay seperti fail, pustaka muzik, dan sambungan.
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Menu Pilihan Isih" image="/docs/howto/how-to-play-your-own-music-on-iphone-using-carplay/settings-sort.webp" imageStyle="border-radius: clamp(14px, 2vw, 28px);" >}}
+{{< ls-card title="" subtitle="Menu Pilihan Isih" image="/docs/howto/how-to-play-your-own-music-on-iphone-using-carplay/settings-sort.webp" imageStyle="border-radius: clamp(14px, 2vw, 28px);" >}}
 {{< /cards >}}
 
 - **Had Pemuatan Kandungan** – Tetapkan berapa banyak item yang perlu muncul setiap skrin. Had yang lebih rendah meningkatkan kelajuan pemuatan dan mengurangkan usaha menatal.
@@ -271,19 +271,19 @@ Bahagian **Tetapan** dalam antara muka CarPlay membolehkan anda menyesuaikan car
 - **Penyama Audio**
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Panel Konfigurasi Penyama" image="/docs/howto/how-to-play-your-own-music-on-iphone-using-carplay/settings-eq-configuration.webp" imageStyle="border-radius: clamp(14px, 2vw, 28px);" >}}
+{{< ls-card title="" subtitle="Panel Konfigurasi Penyama" image="/docs/howto/how-to-play-your-own-music-on-iphone-using-carplay/settings-eq-configuration.webp" imageStyle="border-radius: clamp(14px, 2vw, 28px);" >}}
 {{< /cards >}}
 
 Aktifkan penyama audio terbina dalam, laraskan jalur frekuensi, dan pilih daripada praset yang dikonfigurasikan untuk pengalaman bunyi yang diperibadikan.
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Senarai Praset Penyama" image="/docs/howto/how-to-play-your-own-music-on-iphone-using-carplay/settings-equalizer.webp" imageStyle="border-radius: clamp(14px, 2vw, 28px);" >}}
+{{< ls-card title="" subtitle="Senarai Praset Penyama" image="/docs/howto/how-to-play-your-own-music-on-iphone-using-carplay/settings-equalizer.webp" imageStyle="border-radius: clamp(14px, 2vw, 28px);" >}}
 {{< /cards >}}
 
 - **Main Balik Crossfade**
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Main Balik Crossfade" image="/docs/howto/how-to-play-your-own-music-on-iphone-using-carplay/settings-crossfade-playback.webp" imageStyle="border-radius: clamp(14px, 2vw, 28px);" >}}
+{{< ls-card title="" subtitle="Main Balik Crossfade" image="/docs/howto/how-to-play-your-own-music-on-iphone-using-carplay/settings-crossfade-playback.webp" imageStyle="border-radius: clamp(14px, 2vw, 28px);" >}}
 {{< /cards >}}
 
 Cipta peralihan yang lancar antara lagu dengan bertindih pengakhiran satu trek dengan permulaan trek seterusnya. Tempoh crossfade boleh disesuaikan.
@@ -291,7 +291,7 @@ Cipta peralihan yang lancar antara lagu dengan bertindih pengakhiran satu trek d
 - **Main Balik Tanpa Jeda**
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Main Balik Tanpa Jeda" image="/docs/howto/how-to-play-your-own-music-on-iphone-using-carplay/settings-gapless-playback.webp" imageStyle="border-radius: clamp(14px, 2vw, 28px);" >}}
+{{< ls-card title="" subtitle="Main Balik Tanpa Jeda" image="/docs/howto/how-to-play-your-own-music-on-iphone-using-carplay/settings-gapless-playback.webp" imageStyle="border-radius: clamp(14px, 2vw, 28px);" >}}
 {{< /cards >}}
 
 Mainkan trek dengan lancar tanpa jeda — sesuai untuk rakaman langsung, campuran DJ, dan album konsep.
@@ -307,7 +307,7 @@ Untuk mengetahui lebih lanjut, baca [Panduan Tetapan](/docs/guide/evermusic/ever
 Dengan **Evermusic** dan **Flacbox**, memainkan muzik anda sendiri di kereta menggunakan Apple CarPlay menjadi mudah, fleksibel, dan boleh dipercayai. Sama ada anda menstrim daripada storan awan, mengakses fail tempatan, atau memainkan trek yang dimuat turun secara luar talian — aplikasi ini dibina untuk memberi anda kawalan penuh ke atas pengalaman mendengar anda semasa memandu.
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Skrin CarPlay Sedang Dimainkan" image="/docs/howto/how-to-play-your-own-music-on-iphone-using-carplay/carplay-nowplaying-2.webp" imageStyle="border-radius: clamp(14px, 2vw, 28px);" >}}
+{{< ls-card title="" subtitle="Skrin CarPlay Sedang Dimainkan" image="/docs/howto/how-to-play-your-own-music-on-iphone-using-carplay/carplay-nowplaying-2.webp" imageStyle="border-radius: clamp(14px, 2vw, 28px);" >}}
 {{< /cards >}}
 
 Daripada integrasi awan yang lancar hingga penyegerakan folder luar talian, daripada organisasi pustaka muzik yang mendalam hingga main balik yang boleh disesuaikan dengan penyama dan crossfade — ciri-ciri ini menjadikan Evermusic dan Flacbox lebih daripada sekadar pemain audio. Mereka adalah teman CarPlay pintar yang direka untuk audiofil, pengguna harian, dan penumpang tetap.
@@ -325,22 +325,22 @@ Terokai lebih banyak ciri, tetapan, dan panduan cara dalam [Panduan Pengguna Eve
 
 ## Soalan Lazim
 
-{{% details title="Apakah format fail muzik yang berfungsi dengan CarPlay dalam Evermusic dan Flacbox?" closed="true" %}}
+{{% ls-details title="Apakah format fail muzik yang berfungsi dengan CarPlay dalam Evermusic dan Flacbox?" closed="true" %}}
 Evermusic dan Flacbox menyokong pelbagai format audio termasuk MP3, FLAC, AAC, WAV, AIFF, OGG, WMA, dan banyak lagi. Semua format yang disokong berfungsi melalui CarPlay tanpa sebarang penukaran diperlukan.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Bolehkah saya memainkan muzik dari Google Drive atau Dropbox di CarPlay?" closed="true" %}}
+{{% ls-details title="Bolehkah saya memainkan muzik dari Google Drive atau Dropbox di CarPlay?" closed="true" %}}
 Ya. Kedua-dua Evermusic dan Flacbox membolehkan anda menyambung ke perkhidmatan storan awan seperti Google Drive, Dropbox, OneDrive, MEGA, dan lain-lain. Anda boleh menstrim muzik secara langsung atau memuat turunnya untuk main balik CarPlay luar talian.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Adakah saya memerlukan sambungan internet untuk memainkan muzik di CarPlay?" closed="true" %}}
+{{% ls-details title="Adakah saya memerlukan sambungan internet untuk memainkan muzik di CarPlay?" closed="true" %}}
 Tidak. Anda boleh memuat turun muzik daripada storan awan untuk main balik luar talian. Setelah fail disimpan secara tempatan pada iPhone anda, ia boleh dimainkan melalui CarPlay tanpa sebarang sambungan internet.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Mengapa saya melihat ralat Had Kedalaman Kandungan di CarPlay?" closed="true" %}}
+{{% ls-details title="Mengapa saya melihat ralat Had Kedalaman Kandungan di CarPlay?" closed="true" %}}
 CarPlay menyekat berapa banyak tahap folder yang boleh dipaparkan. Jika muzik anda berada dalam folder bersarang yang dalam, tambah folder tersebut ke Kegemaran supaya anda boleh mengaksesnya terus daripada menu Kegemaran dalam CarPlay.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Adakah Evermusic atau Flacbox percuma untuk digunakan dengan CarPlay?" closed="true" %}}
+{{% ls-details title="Adakah Evermusic atau Flacbox percuma untuk digunakan dengan CarPlay?" closed="true" %}}
 Kedua-dua aplikasi percuma untuk dimuat turun dengan sokongan CarPlay penuh, penyama, dan ciri main balik. Versi percuma mempunyai had pada sambungan awan (3), senarai main (10), dan folder luar talian (1). Premium menghapuskan semua had.
-{{% /details %}}
+{{% /ls-details %}}

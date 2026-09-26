@@ -74,18 +74,18 @@ Ten poradnik przeprowadza Cię przez każdą część Evervideo na iPhone, iPad 
 
 {{< cards cols="2">}}
 
-{{< card icon="map" link="/docs/guide/evervideo/evervideo-guide-navigation" title="Nawigacja" subtitle="Pasek kart na iPhone, lewe menu na iPad i Mac, kompaktowy odtwarzacz zawsze na ekranie." >}}
+{{< ls-card icon="map" link="/docs/guide/evervideo/evervideo-guide-navigation" title="Nawigacja" subtitle="Pasek kart na iPhone, lewe menu na iPad i Mac, kompaktowy odtwarzacz zawsze na ekranie." >}}
 
-{{< card icon="folder" link="/docs/guide/evervideo/evervideo-guide-files" title="Pliki" subtitle="Jedna ujednolicona karta dla chmury, NAS, strumieni RTSP, plików lokalnych, dysków USB i kolejki transferów." >}}
+{{< ls-card icon="folder" link="/docs/guide/evervideo/evervideo-guide-files" title="Pliki" subtitle="Jedna ujednolicona karta dla chmury, NAS, strumieni RTSP, plików lokalnych, dysków USB i kolejki transferów." >}}
 
-{{< card icon="collection" link="/docs/guide/evervideo/evervideo-guide-video-library" title="Biblioteka multimediów" subtitle="Przeglądaj według Albumów, Gatunków, Ostatnich, Ulubionych — a także biblioteki Zdjęć iOS i Apple Music." >}}
+{{< ls-card icon="collection" link="/docs/guide/evervideo/evervideo-guide-video-library" title="Biblioteka multimediów" subtitle="Przeglądaj według Albumów, Gatunków, Ostatnich, Ulubionych — a także biblioteki Zdjęć iOS i Apple Music." >}}
 
-{{< card icon="music-note" link="/docs/guide/evervideo/evervideo-guide-playlists" title="Listy odtwarzania" subtitle="Twórz listy odtwarzania z chmury, plików lokalnych, Zdjęć lub biblioteki Muzyka, importuj M3U / M3U8 / CUE." >}}
+{{< ls-card icon="music-note" link="/docs/guide/evervideo/evervideo-guide-playlists" title="Listy odtwarzania" subtitle="Twórz listy odtwarzania z chmury, plików lokalnych, Zdjęć lub biblioteki Muzyka, importuj M3U / M3U8 / CUE." >}}
 
-{{< card icon="play" link="/docs/guide/evervideo/evervideo-guide-player" title="Odtwarzacz multimediów" subtitle="Obraz w obrazie, ścieżki audio i wideo, napisy, korektory audio i wideo, AirPlay, Chromecast." >}}
+{{< ls-card icon="play" link="/docs/guide/evervideo/evervideo-guide-player" title="Odtwarzacz multimediów" subtitle="Obraz w obrazie, ścieżki audio i wideo, napisy, korektory audio i wideo, AirPlay, Chromecast." >}}
 
-{{< card icon="adjustments" link="/docs/guide/evervideo/evervideo-guide-settings" title="Ustawienia" subtitle="Silnik audio, dekoder wideo, napisy, biblioteka, menedżer plików, widżety, personalizacja, język, kopia zapasowa." >}}
+{{< ls-card icon="adjustments" link="/docs/guide/evervideo/evervideo-guide-settings" title="Ustawienia" subtitle="Silnik audio, dekoder wideo, napisy, biblioteka, menedżer plików, widżety, personalizacja, język, kopia zapasowa." >}}
 
-{{< card icon="question-mark-circle" link="/docs/faq/evervideo" title="FAQ" subtitle="Znajdź odpowiedzi na najczęstsze pytania dotyczące Evervideo." >}}
+{{< ls-card icon="question-mark-circle" link="/docs/faq/evervideo" title="FAQ" subtitle="Znajdź odpowiedzi na najczęstsze pytania dotyczące Evervideo." >}}
 
 {{< /cards >}}

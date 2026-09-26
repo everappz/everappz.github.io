@@ -12,7 +12,7 @@ authors:
     image: "/images/about/artem-meleshko-founder-everappz.webp"
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 **요약:** Evermusic는 Dropbox, Google Drive, OneDrive 및 9개 이상의 다른 클라우드 서비스에 연결하는 iPhone 및 iPad용 클라우드 음악 플레이어입니다. FLAC, MP3, WAV 및 기타 형식을 재생하고, 오프라인 다운로드를 지원하며, 이퀄라이저와 ID3 태그 편집기를 포함합니다. 무료 다운로드 가능하며 일회성 프리미엄 업그레이드 제공. 1,100만 회 이상 다운로드, App Store 평점 4.6점.
 
@@ -20,7 +20,7 @@ authors:
 
 [@Massi_Media](https://www.youtube.com/@Massi_Media)의 전체 동영상 리뷰 시청:
 
-{{< youtubecard id="pKUZmHy9dxc" >}}
+{{< ls-youtubecard id="pKUZmHy9dxc" >}}
 
 ## iPhone을 위한 최고의 클라우드 음악 플레이어는?
 
@@ -67,18 +67,18 @@ Evermusic는 이미 보유한 파일과 이미 비용을 지불하는 스토리�
 
 ## 자주 묻는 질문
 
-{{% details title="Evermusic는 정말 무료로 사용할 수 있나요?" closed="true" %}}
+{{% ls-details title="Evermusic는 정말 무료로 사용할 수 있나요?" closed="true" %}}
 예, Evermusic는 클라우드 연결, 스트리밍, 오프라인 다운로드를 포함하는 무료 티어를 제공합니다. 무료 버전은 기본 재생 기능과 제한된 수의 클라우드 계정 연결을 지원합니다. 일회성 구매 또는 구독으로 제공되는 Evermusic Pro는 전체 이퀄라이저, 크로스페이드, 추가 클라우드 계정 및 기타 고급 기능을 잠금 해제합니다. 자신의 음악 파일에 접근하기 위해 구독이 필요하지 않습니다.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="인터넷 연결 없이 Evermusic를 사용할 수 있나요?" closed="true" %}}
+{{% ls-details title="인터넷 연결 없이 Evermusic를 사용할 수 있나요?" closed="true" %}}
 물론입니다. Evermusic는 연결된 클라우드 서비스에서 트랙을 오프라인 재생을 위해 기기에 직접 다운로드할 수 있습니다. 다운로드가 완료되면 파일은 로컬에 저장되고 Wi-Fi나 셀룰러 데이터 없이도 사용 가능합니다. 이로 인해 Evermusic는 비행기, 터널 통근 또는 연결이 불안정한 상황에 이상적입니다.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Evermusic는 FLAC과 같은 무손실 오디오 형식을 지원하나요?" closed="true" %}}
+{{% ls-details title="Evermusic는 FLAC과 같은 무손실 오디오 형식을 지원하나요?" closed="true" %}}
 예. Evermusic는 FLAC, ALAC, WAV, AIFF, OGG, MP3, AAC, M4A를 포함한 광범위한 오디오 형식을 지원합니다. 앱은 재인코딩 없이 원본 품질로 무손실 파일을 재생하므로 오디오파일은 의도한 대로 정확히 고해상도 컬렉션을 즐길 수 있습니다.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="NAS 또는 홈 서버를 Evermusic에 어떻게 연결하나요?" closed="true" %}}
+{{% ls-details title="NAS 또는 홈 서버를 Evermusic에 어떻게 연결하나요?" closed="true" %}}
 NAS 또는 홈 서버가 WebDAV 또는 SMB 프로토콜을 지원하는 경우, 앱의 클라우드 연결 설정에서 서버 주소, 포트, 자격 증명을 입력하여 Evermusic에 연결할 수 있습니다. Synology, QNAS, Western Digital MyCloud를 포함한 대부분의 인기 있는 NAS 브랜드는 기본적으로 이러한 프로토콜을 지원합니다. 연결되면 Evermusic는 다른 클라우드 소스와 마찬가지로 음악 파일을 스캔하고 색인화합니다.
-{{% /details %}}
+{{% /ls-details %}}

@@ -12,7 +12,7 @@ authors:
     image: "/images/about/artem-meleshko-founder-everappz.webp"
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 **Tiivistelmä:** Evermusic 3.6 tuo Apple CarPlay -integraation, täyden VoiceOver-saavutettavuuden, sekoitetun äänilähdön, automaattisen toiston jatkamisen, kansikuvien ja tunnisteiden muokkauksen FLAC/MP3/AIFF-tiedostoille sekä tiedostojen tuonnin iCloud Drivesta.
 
@@ -78,18 +78,18 @@ Tuo musiikkitiedostoja suoraan iCloud Drivesta ja muista sovelluksista:
 
 ## Usein kysytyt kysymykset
 
-{{% details title="Toimiiko Evermusic CarPlayn kanssa?" closed="true" %}}
+{{% ls-details title="Toimiiko Evermusic CarPlayn kanssa?" closed="true" %}}
 Kyllä. Versiosta 3.6 alkaen Evermusic tukee täysin Apple CarPlaytä. Voit selata ja toistaa musiikkikirjastoasi autosi sisäänrakennetulta näytöltä.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Onko Evermusic saavutettava sokeille tai heikkonäköisille käyttäjille?" closed="true" %}}
+{{% ls-details title="Onko Evermusic saavutettava sokeille tai heikkonäköisille käyttäjille?" closed="true" %}}
 Kyllä. Evermusic 3.6 sisältää täyden VoiceOver-tuen kuvaavilla tunnisteilla, vihjeillä ja yksinkertaistetulla käyttöliittymätilalla.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Voinko muokata FLAC-tunnisteita iPhonella Evermusicilla?" closed="true" %}}
+{{% ls-details title="Voinko muokata FLAC-tunnisteita iPhonella Evermusicilla?" closed="true" %}}
 Kyllä. Evermusic sisältää sisäänrakennetun tunniste-editorin, joka toimii FLAC-, MP3- ja AIFF-tiedostojen kanssa. Voit muokata otsikoita, esittäjiä, albumeita ja kansikuvia.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Muistaako Evermusic, mihin lopetin kuuntelun?" closed="true" %}}
+{{% ls-details title="Muistaako Evermusic, mihin lopetin kuuntelun?" closed="true" %}}
 Kyllä. Kun "Tallenna äänisoittimen tila" on käytössä, Evermusic palauttaa jonosi, nykyisen kappaleen ja tarkan toistopaikan, kun avaat sovelluksen uudelleen.
-{{% /details %}}
+{{% /ls-details %}}

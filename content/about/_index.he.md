@@ -1,10 +1,11 @@
 ---
+excludeSearch: true
 date: '2025-06-12T17:00:00+00:00'
 title: 'אודות'
 description: 'Everappz S.L. היא חברת תוכנה ספרדית המפתחת אפליקציות iOS ו-macOS לאודיו ווידאו. יוצרי Evermusic (11 מיליון הורדות), Flacbox, EverTag, EverVideo — מעל 14 מיליון הורדות ברחבי העולם.'
 ---
 
-{{< lottie src="/images/juicy-json/juicy-girl-and-guy-preparing-start-up-rocket-to-launch-with-ideas.json" width="65%" >}}
+{{< ls-lottie src="/images/juicy-json/juicy-girl-and-guy-preparing-start-up-rocket-to-launch-with-ideas.json" width="65%" >}}
 
 ## מי אנחנו
 
@@ -35,7 +36,7 @@ Everappz S.L. היא חברת תוכנה עצמאית הממוקמת בספרד.
 ### Artem Meleshko
 
 {{< cards cols="1" >}}
-  {{< card
+  {{< ls-card
     link="https://www.linkedin.com/in/artem-meleshko-s/"
     title="Artem Meleshko"
     tag="מייסד ומהנדס"
@@ -60,7 +61,7 @@ Artem Meleshko הוא מהנדס בכיר ומייסד של Everappz, סטודי
 ### Anna Kosenko
 
 {{< cards cols="1" >}}
-  {{< card
+  {{< ls-card
     link="https://www.linkedin.com/in/anna-kosenko-kosenko/"
     title="Anna Kosenko"
     tag="מנהלת"
@@ -86,4 +87,4 @@ Anna סיימה בהצטיינות יתרה (Matrícula de Honor) את לימו�
 
 הירשמו אלינו ברשתות החברתיות כדי לקבל את החדשות העדכניות ביותר, עדכוני אפליקציות, טיפים ומידע שימושי:
 
-{{< social-cards >}}
+{{< ls-social-cards >}}

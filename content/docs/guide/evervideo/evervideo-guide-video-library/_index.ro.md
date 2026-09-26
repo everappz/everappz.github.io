@@ -21,7 +21,7 @@ readingTime: 8
 Aveți două moduri de a adăuga media în biblioteca dvs.: **adăugare manuală** (alegeți exact ce se adaugă) sau **sincronizare automată** (Evervideo scanează folderele cloud desemnate și adaugă automat fișiere noi pe măsură ce apar).
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Biblioteca Media Evervideo" image="/docs/guide/evervideo/img/evervideo-genres-in-media-library.webp" >}}
+  {{< ls-card title="" subtitle="Biblioteca Media Evervideo" image="/docs/guide/evervideo/img/evervideo-genres-in-media-library.webp" >}}
 {{< /cards >}}
 
 ## Adăugare Manuală
@@ -92,7 +92,7 @@ Dacă nu vedeți toate titlurile dvs., asigurați-vă că aplicația a scanat fi
 Această secțiune afișează toate videoclipurile redate recent cu ultima lor poziție de redare, astfel încât să puteți relua oricare dintre ele cu o singură atingere. Puteți modifica câte intrări păstrează lista în Setări → Bibliotecă Media → Recente → Modificare Dimensiune Listă, și exporta lista în M3U / CSV / TXT pentru a face o copie de rezervă a istoricului de vizionare.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Recente Evervideo — Videoclipuri Vizionate Recent" image="/docs/guide/evervideo/img/evervideo-recents.webp" >}}
+  {{< ls-card title="" subtitle="Recente Evervideo — Videoclipuri Vizionate Recent" image="/docs/guide/evervideo/img/evervideo-recents.webp" >}}
 {{< /cards >}}
 
 ## Favorite
@@ -104,7 +104,7 @@ Marcați videoclipurile ca favorite pe ecranul playerului sau prin meniul de op�
 Evervideo urmărește poziția de redare a fiecărui videoclip pe care îl vizionați. Fiecare videoclip din orice listă — Recente, Favorite, un album, un gen, o listă de redare, un folder — afișează o mică bară de progres astfel încât să puteți vedea dintr-o privire cât ați vizionat deja. Acest lucru face deosebit de ușor de gestionat sezoanele lungi de seriale TV, listele de redare ale cursurilor și serile de maraton.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Detaliu Gen Evervideo cu Progres Vizionare per Fișier" image="/docs/guide/evervideo/img/evervideo-genre-detail-with-playback-progress-for-watched-files.webp" >}}
+  {{< ls-card title="" subtitle="Detaliu Gen Evervideo cu Progres Vizionare per Fișier" image="/docs/guide/evervideo/img/evervideo-genre-detail-with-playback-progress-for-watched-files.webp" >}}
 {{< /cards >}}
 
 ## Bara de Instrumente Superioară
@@ -116,7 +116,7 @@ Situată imediat sub bara de navigare, bara de instrumente superioară oferă ma
 Funcția de căutare vă permite să localizați un titlu, album, gen sau listă de redare specifice din biblioteca dvs. media. Pe ecranul de Căutare, aveți acces la acțiunile Sortare, Filtrare și vedere Grilă / Listă. Căutarea se execută local față de baza de date a bibliotecii media, deci funcționează complet offline și returnează rezultate pe măsură ce tastați.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Căutare în Biblioteca Media Evervideo" image="/docs/guide/evervideo/img/evervideo-library-search.webp" >}}
+  {{< ls-card title="" subtitle="Căutare în Biblioteca Media Evervideo" image="/docs/guide/evervideo/img/evervideo-library-search.webp" >}}
 {{< /cards >}}
 
 ## Meniu Opțiuni

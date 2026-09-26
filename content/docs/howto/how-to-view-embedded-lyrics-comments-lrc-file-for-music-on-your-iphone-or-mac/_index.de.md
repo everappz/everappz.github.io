@@ -7,7 +7,7 @@ tags: ["Audio", "iPhone", "MP3", "Songtexte", "LRC", "eingebettet", "anzeigen", 
 keywords: ["eingebettete Songtexte iPhone anzeigen", "Evermusic Songtexte anzeigen", "LRC-Datei Evermusic", "Kommentar-Tag Audio", "Songtexte Anzeige Flacbox", "Songtexte iOS Musik-App", "Audio-Player Songtexte anzeigen"]
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **Zusammenfassung:** Evermusic für iPhone und Mac zeigt eingebettete Songtexte, Kommentar-Tags und externe .lrc-Dateien für jeden Audiotitel an. Öffnen Sie den Player, tippen Sie auf Weitere Aktionen und wählen Sie dann Kommentare, um Songtexte in drei Modi anzuzeigen: Kommentare, Eingebettete Songtexte und LRC-Datei.
@@ -68,22 +68,22 @@ Das Anzeigen von eingebetteten Songtexten, Kommentaren oder synchronisierten `.l
 
 ## Häufig gestellte Fragen
 
-{{% details title="Wie zeige ich eingebettete Songtexte auf meinem iPhone an?" closed="true" %}}
+{{% ls-details title="Wie zeige ich eingebettete Songtexte auf meinem iPhone an?" closed="true" %}}
 Öffnen Sie Evermusic, spielen Sie einen Song ab, tippen Sie im Vollbild-Player auf Weitere Aktionen und wählen Sie Kommentare. Wischen Sie zur Registerkarte Eingebettete Songtexte, um die in den Tags der Audiodatei gespeicherten Songtexte zu sehen.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Was ist eine LRC-Datei und wie funktioniert sie?" closed="true" %}}
+{{% ls-details title="Was ist eine LRC-Datei und wie funktioniert sie?" closed="true" %}}
 Eine LRC-Datei ist eine Textdatei mit zeitgestempelten Songtexten. Wenn sie im selben Ordner wie eine Audiodatei mit dem gleichen Dateinamen platziert wird, liest Evermusic sie und zeigt synchronisierte Songtexte an, die während der Wiedergabe scrollen.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Kann ich Songtexte zu meinen Musikdateien auf dem iPhone hinzufügen?" closed="true" %}}
+{{% ls-details title="Kann ich Songtexte zu meinen Musikdateien auf dem iPhone hinzufügen?" closed="true" %}}
 Ja. Verwenden Sie die Evertag-App, um ID3-Tags zu bearbeiten und eingebettete Songtexte direkt auf Ihrem iPhone hinzuzufügen oder zu aktualisieren. Sie können zeitgesteuerten Text im LRC-Format für synchronisierte Songtexte einfügen.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Unterstützt Evermusic synchronisierte (zeitgesteuerte) Songtexte?" closed="true" %}}
+{{% ls-details title="Unterstützt Evermusic synchronisierte (zeitgesteuerte) Songtexte?" closed="true" %}}
 Ja. Evermusic unterstützt zeitgesteuerte Songtexte im LRC-Format, sowohl wenn sie in Audio-Tags eingebettet sind als auch wenn sie als separate `.lrc`-Datei bereitgestellt werden.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Welche Audioformate unterstützen eingebettete Songtexte?" closed="true" %}}
+{{% ls-details title="Welche Audioformate unterstützen eingebettete Songtexte?" closed="true" %}}
 MP3, FLAC, AAC, M4A, OGG und die meisten anderen gängigen Formate unterstützen eingebettete Songtexte über ihre jeweiligen Tag-Standards.
-{{% /details %}}
+{{% /ls-details %}}

@@ -24,7 +24,7 @@ aliases:
 The Settings screen is the control center of Flacbox. From here you can upgrade to Premium, configure the audio engine (system codecs or FFmpeg), manage your music library, set up the file manager, customize the audio tags editor, enable Home Screen widgets and Apple CarPlay, back up your data, and access help and legal information. Sections are grouped under headers: Purchases & Updates, App Preferences, Help, and Legal & Privacy.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox Settings Main Screen" image="/docs/guide/flacbox/img/settings-main.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox Settings Main Screen" image="/docs/guide/flacbox/img/settings-main.webp" >}}
 {{< /cards >}}
 
 ## Upgrade to Premium
@@ -32,13 +32,13 @@ The Settings screen is the control center of Flacbox. From here you can upgrade 
 Upgrade the application to the Premium version to remove all limits. The free version of the application offers a one-time lifetime in-app purchase and two subscription options (1 month and 1 year) to remove all restrictions and upgrade to Premium.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox Upgrade to Premium" image="/docs/guide/flacbox/img/upgrade-to-premium.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox Upgrade to Premium" image="/docs/guide/flacbox/img/upgrade-to-premium.webp" >}}
 {{< /cards >}}
 
 **Family Sharing** is enabled for all purchases and plans, so you can share the Premium version with up to five members of your family at no extra cost.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox Select a Premium Plan" image="/docs/guide/flacbox/img/select-premium-plan.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox Select a Premium Plan" image="/docs/guide/flacbox/img/select-premium-plan.webp" >}}
 {{< /cards >}}
 
 You can read more about purchases and the Premium version here: [What is the difference between Flacbox and Flacbox Premium](/docs/faq/flacbox/what-is-the-difference-between-flacbox-and-flacbox-premium/).

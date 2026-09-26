@@ -7,14 +7,14 @@ keywords: ["overfør musik uden iTunes", "wifi drive iphone", "trådløs kopieri
 readingTime: 2
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **Resumé:** Brug Wi-Fi Drive i Evermusic, Flacbox eller Evertag til at overføre musik fra din computer til din iPhone eller iPad. Ingen iTunes nødvendig. Begge enheder skal være på det samme Wi-Fi-netværk. Overfør via en webbrowser eller WebDAV (Mac Finder / Windows Stifinder).
 
 Du kan se en videovejledning fra [**TECHGUYPH**](https://www.youtube.com/channel/UCgpf09gGFE_c_3pPTtTpnzg) eller læse tekstversionen nedenfor.
 <br><br>
-{{< youtubecard id="CqdqrQ0ge70" title="Can We Wirelessly Put Offline Music on iPhones?" >}}
+{{< ls-youtubecard id="CqdqrQ0ge70" title="Can We Wirelessly Put Offline Music on iPhones?" >}}
 
 Wi-Fi Drive er den ultimative løsning til problemfri overførsel af din musiksamling fra din computer til din iPhone eller iPad uden behov for iTunes. Denne ubesværede metode giver dig mulighed for nemt at downloade eller uploade flere lydfiler og endda hele mapper ved hjælp af din lokale Wi-Fi-forbindelse. Både din computer og iOS-enhed skal være forbundet til det samme Wi-Fi-netværk for at dette fungerer perfekt.
 
@@ -84,22 +84,22 @@ Med Wi-Fi Drive er dagene med at kæmpe med iTunes forbi. Nyd en problemfri og e
 
 ## Ofte stillede spørgsmål
 
-{{% details title="Hvilke lydformater kan jeg overføre med Wi-Fi Drive?" closed="true" %}}
+{{% ls-details title="Hvilke lydformater kan jeg overføre med Wi-Fi Drive?" closed="true" %}}
 Wi-Fi Drive overfører enhver filtype. Evermusic og Flacbox understøtter afspilning af MP3, FLAC, AAC, WAV, AIFF, OGG, WMA og mange andre lydformater.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Har jeg brug for iTunes til at lægge musik på min iPhone?" closed="true" %}}
+{{% ls-details title="Har jeg brug for iTunes til at lægge musik på min iPhone?" closed="true" %}}
 Nej. Wi-Fi Drive overfører musik direkte via dit lokale Wi-Fi-netværk. iTunes er ikke nødvendig.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Kan jeg overføre hele musikmapper på én gang?" closed="true" %}}
+{{% ls-details title="Kan jeg overføre hele musikmapper på én gang?" closed="true" %}}
 Ja. Webbrowser-metoden understøtter upload af hele mapper, inklusive indlejrede undermapper.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Er min musikoverførsel sikker?" closed="true" %}}
+{{% ls-details title="Er min musikoverførsel sikker?" closed="true" %}}
 Wi-Fi Drive kører kun på dit lokale netværk. Du kan også angive et brugernavn og en adgangskode for ekstra sikkerhed.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Hvilke apps understøtter Wi-Fi Drive til musik?" closed="true" %}}
+{{% ls-details title="Hvilke apps understøtter Wi-Fi Drive til musik?" closed="true" %}}
 Evermusic, Flacbox og Evertag inkluderer alle Wi-Fi Drive til overførsel af lydfiler fra din computer.
-{{% /details %}}
+{{% /ls-details %}}

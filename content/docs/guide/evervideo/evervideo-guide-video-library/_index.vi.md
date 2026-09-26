@@ -21,7 +21,7 @@ readingTime: 8
 Bạn có hai cách để thêm phương tiện vào thư viện: **thêm thủ công** (bạn chọn chính xác những gì được thêm) hoặc **đồng bộ tự động** (Evervideo quét các thư mục đám mây được chỉ định và tự động thêm các tệp mới khi chúng xuất hiện).
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Thư viện phương tiện Evervideo" image="/docs/guide/evervideo/img/evervideo-genres-in-media-library.webp" >}}
+  {{< ls-card title="" subtitle="Thư viện phương tiện Evervideo" image="/docs/guide/evervideo/img/evervideo-genres-in-media-library.webp" >}}
 {{< /cards >}}
 
 ## Thêm thủ công
@@ -92,7 +92,7 @@ Nếu bạn không thấy tất cả tiêu đề, hãy đảm bảo ứng dụng
 Phần này hiển thị tất cả video đã xem gần đây với vị trí phát lại lần cuối, để bạn có thể tiếp tục bất kỳ video nào với một lần nhấn. Bạn có thể thay đổi số lượng mục danh sách giữ trong Cài đặt → Thư viện phương tiện → Gần đây → Thay đổi kích thước danh sách, và xuất danh sách sang M3U / CSV / TXT để sao lưu lịch sử xem của bạn.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Gần đây Evervideo — Video đã xem gần đây" image="/docs/guide/evervideo/img/evervideo-recents.webp" >}}
+  {{< ls-card title="" subtitle="Gần đây Evervideo — Video đã xem gần đây" image="/docs/guide/evervideo/img/evervideo-recents.webp" >}}
 {{< /cards >}}
 
 ## Yêu thích
@@ -104,7 +104,7 @@ Phần này hiển thị tất cả video đã xem gần đây với vị trí p
 Evervideo theo dõi vị trí phát lại của mọi video bạn xem. Mỗi video trong bất kỳ danh sách nào — Gần đây, Yêu thích, album, thể loại, danh sách phát, thư mục — hiển thị một thanh tiến trình nhỏ để bạn có thể thấy ngay bạn đã xem bao nhiêu. Điều này giúp quản lý các mùa phim truyền hình dài, danh sách phát khóa học và đêm xem marathon trở nên dễ dàng.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Chi tiết thể loại Evervideo với tiến trình xem cho từng tệp" image="/docs/guide/evervideo/img/evervideo-genre-detail-with-playback-progress-for-watched-files.webp" >}}
+  {{< ls-card title="" subtitle="Chi tiết thể loại Evervideo với tiến trình xem cho từng tệp" image="/docs/guide/evervideo/img/evervideo-genre-detail-with-playback-progress-for-watched-files.webp" >}}
 {{< /cards >}}
 
 ## Thanh công cụ trên cùng
@@ -116,7 +116,7 @@ Nằm ngay bên dưới thanh điều hướng, thanh công cụ trên cùng cun
 Tính năng tìm kiếm cho phép bạn tìm một tiêu đề, album, thể loại hoặc danh sách phát cụ thể trong thư viện phương tiện của bạn. Trong màn hình Tìm kiếm, bạn có quyền truy cập vào hành động Sắp xếp, Lọc và Lưới / Danh sách. Tìm kiếm chạy cục bộ trên cơ sở dữ liệu thư viện phương tiện, vì vậy nó hoạt động hoàn toàn ngoại tuyến và trả về kết quả khi bạn gõ.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Tìm kiếm thư viện phương tiện Evervideo" image="/docs/guide/evervideo/img/evervideo-library-search.webp" >}}
+  {{< ls-card title="" subtitle="Tìm kiếm thư viện phương tiện Evervideo" image="/docs/guide/evervideo/img/evervideo-library-search.webp" >}}
 {{< /cards >}}
 
 ## Menu tùy chọn

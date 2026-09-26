@@ -7,7 +7,7 @@ tags: ["spotify", "omot albuma", "mp3", "metapodaci", "uređivač glazbe", "loka
 readingTime: 3
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **Ukratko:** Spotify vam ne dopušta mijenjati omote albuma za streamane pjesme, ali možete ažurirati omote za lokalne datoteke. Omogućite značajku Lokalnih datoteka u Spotifyju, kopirajte glazbu u Spotify mapu, zatim koristite besplatnu aplikaciju Evertag za uređivanje omota albuma i metapodataka. Promjene se pojavljuju u Spotifyju nakon ponovnog pokretanja.
@@ -25,8 +25,8 @@ Kako bismo olakšali stvari, pokazat ćemo kako urediti omote albuma koristeći 
 Započnite preuzimanjem aplikacije **Evertag** iz App Storea. Besplatna je za korištenje i dostupna na **iOS** i **macOS**.
 
 {{< cards cols="2">}}
-{{< card link="https://apps.apple.com/app/apple-store/id1450763230?pt=95781850&ct=everappzcom&mt=8" title="Evertag za iOS" icon="download" tag="Free" >}}
-{{< card link="https://apps.apple.com/app/apple-store/id1594027661?pt=95781850&ct=everappzcom&mt=8" title="Evertag za macOS" icon="download" tag="Free" >}}
+{{< ls-card link="https://apps.apple.com/app/apple-store/id1450763230?pt=95781850&ct=everappzcom&mt=8" title="Evertag za iOS" icon="download" tag="Free" >}}
+{{< ls-card link="https://apps.apple.com/app/apple-store/id1594027661?pt=95781850&ct=everappzcom&mt=8" title="Evertag za macOS" icon="download" tag="Free" >}}
 {{< /cards >}}
 
 ## Aktivirajte lokalnu knjižnicu u Spotifyju
@@ -36,7 +36,7 @@ Prema zadanim postavkama, **Knjižnica lokalnih datoteka** je onemogućena u Spo
 ### Otvorite Spotify aplikaciju
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Glavno sučelje Spotify aplikacije" image="/docs/howto/how-to-change-album-covers-for-local-tracks-on-spotify-step-by-step-guide-mobile-desktop/spotify-main.webp" >}}
+{{< ls-card title="" subtitle="Glavno sučelje Spotify aplikacije" image="/docs/howto/how-to-change-album-covers-for-local-tracks-on-spotify-step-by-step-guide-mobile-desktop/spotify-main.webp" >}}
 {{< /cards >}}
 
 ### Dodirnite ikonu svog profila
@@ -44,7 +44,7 @@ Prema zadanim postavkama, **Knjižnica lokalnih datoteka** je onemogućena u Spo
 Pogledajte u gornji lijevi kut Spotify početnog zaslona i dodirnite svoju profilnu sliku za otvaranje izbornika.
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Spotify avatar i opcije" image="/docs/howto/how-to-change-album-covers-for-local-tracks-on-spotify-step-by-step-guide-mobile-desktop/spotify-avatar-options.webp" >}}
+{{< ls-card title="" subtitle="Spotify avatar i opcije" image="/docs/howto/how-to-change-album-covers-for-local-tracks-on-spotify-step-by-step-guide-mobile-desktop/spotify-avatar-options.webp" >}}
 {{< /cards >}}
 
 ### Odaberite «Postavke i privatnost»
@@ -52,7 +52,7 @@ Pogledajte u gornji lijevi kut Spotify početnog zaslona i dodirnite svoju profi
 Pomaknite se prema dolje u izborniku i odaberite **Postavke i privatnost** za otvaranje potpunog popisa opcija.
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Spotify izbornik postavki" image="/docs/howto/how-to-change-album-covers-for-local-tracks-on-spotify-step-by-step-guide-mobile-desktop/spotify-settings.webp" >}}
+{{< ls-card title="" subtitle="Spotify izbornik postavki" image="/docs/howto/how-to-change-album-covers-for-local-tracks-on-spotify-step-by-step-guide-mobile-desktop/spotify-settings.webp" >}}
 {{< /cards >}}
 
 ### Odaberite «Aplikacije i uređaji»
@@ -60,7 +60,7 @@ Pomaknite se prema dolje u izborniku i odaberite **Postavke i privatnost** za ot
 Pronađite i dodirnite stavku izbornika **Aplikacije i uređaji** za prikaz postavki integracije uređaja.
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Spotify aplikacije i uređaji" image="/docs/howto/how-to-change-album-covers-for-local-tracks-on-spotify-step-by-step-guide-mobile-desktop/spotify-apps-and-devices.webp" >}}
+{{< ls-card title="" subtitle="Spotify aplikacije i uređaji" image="/docs/howto/how-to-change-album-covers-for-local-tracks-on-spotify-step-by-step-guide-mobile-desktop/spotify-apps-and-devices.webp" >}}
 {{< /cards >}}
 
 ### Uključite «Lokalne audio datoteke»
@@ -68,7 +68,7 @@ Pronađite i dodirnite stavku izbornika **Aplikacije i uređaji** za prikaz post
 Uključite prekidač za **Lokalne audio datoteke**. Kada se to zatraži, dajte Spotifyju dopuštenje za pristup vašim glazbenim datotekama.
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Dajte Spotifyju pristup glazbenim datotekama" image="/docs/howto/how-to-change-album-covers-for-local-tracks-on-spotify-step-by-step-guide-mobile-desktop/spotify-access-to-music.webp" >}}
+{{< ls-card title="" subtitle="Dajte Spotifyju pristup glazbenim datotekama" image="/docs/howto/how-to-change-album-covers-for-local-tracks-on-spotify-step-by-step-guide-mobile-desktop/spotify-access-to-music.webp" >}}
 {{< /cards >}}
 
 ### Provjerite Spotify mapu
@@ -76,7 +76,7 @@ Uključite prekidač za **Lokalne audio datoteke**. Kada se to zatraži, dajte S
 Nakon što je dopuštenje dodijeljeno, otvorite aplikaciju **Datoteke**, idite na **Lokacije > Na mom iPhoneu/iPadu** i pronađite **Spotify** mapu. Ovdje treba postaviti lokalne glazbene datoteke.
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Spotify glazbene datoteke" image="/docs/howto/how-to-change-album-covers-for-local-tracks-on-spotify-step-by-step-guide-mobile-desktop/files-app-spotify-folder.webp" >}}
+{{< ls-card title="" subtitle="Spotify glazbene datoteke" image="/docs/howto/how-to-change-album-covers-for-local-tracks-on-spotify-step-by-step-guide-mobile-desktop/files-app-spotify-folder.webp" >}}
 {{< /cards >}}
 
 ## Stavite glazbene datoteke u Spotifyjevu mapu lokalne knjižnice
@@ -90,7 +90,7 @@ U nastavku su upute korištenjem metode aplikacije **Datoteke**.
 ### Otvorite aplikaciju Datoteke – Lokacije – Na ovom uređaju
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Spotify mapa" image="/docs/howto/how-to-change-album-covers-for-local-tracks-on-spotify-step-by-step-guide-mobile-desktop/files-app-spotify-folder.webp" >}}
+{{< ls-card title="" subtitle="Spotify mapa" image="/docs/howto/how-to-change-album-covers-for-local-tracks-on-spotify-step-by-step-guide-mobile-desktop/files-app-spotify-folder.webp" >}}
 {{< /cards >}}
 
 ### Kopirajte glazbenu mapu
@@ -98,7 +98,7 @@ U nastavku su upute korištenjem metode aplikacije **Datoteke**.
 Navigirajte do svoje **Glazba** mape. Dodirnite i zadržite za otvaranje kontekstnog izbornika, zatim odaberite **Kopiraj**.
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Pristup opcijama mape u aplikaciji Datoteke" image="/docs/howto/how-to-change-album-covers-for-local-tracks-on-spotify-step-by-step-guide-mobile-desktop/files-app-folder-options.webp" >}}
+{{< ls-card title="" subtitle="Pristup opcijama mape u aplikaciji Datoteke" image="/docs/howto/how-to-change-album-covers-for-local-tracks-on-spotify-step-by-step-guide-mobile-desktop/files-app-folder-options.webp" >}}
 {{< /cards >}}
 
 ### Zalijepite glazbenu mapu
@@ -106,7 +106,7 @@ Navigirajte do svoje **Glazba** mape. Dodirnite i zadržite za otvaranje konteks
 Navigirajte do **Spotify** mape, dodirnite i zadržite na praznom području i odaberite **Zalijepi** iz kontekstnog izbornika.
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Zalijepite mapu na odredišnu lokaciju" image="/docs/howto/how-to-change-album-covers-for-local-tracks-on-spotify-step-by-step-guide-mobile-desktop/files-app-paste-folder.webp" >}}
+{{< ls-card title="" subtitle="Zalijepite mapu na odredišnu lokaciju" image="/docs/howto/how-to-change-album-covers-for-local-tracks-on-spotify-step-by-step-guide-mobile-desktop/files-app-paste-folder.webp" >}}
 {{< /cards >}}
 
 ### Pričekajte proces kopiranja
@@ -114,7 +114,7 @@ Navigirajte do **Spotify** mape, dodirnite i zadržite na praznom području i od
 Pričekajte dok sustav ne završi kopiranje vaše glazbene mape u Spotifyjev lokalni direktorij.
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Kopiranje glazbenih datoteka pomoću aplikacije Datoteke" image="/docs/howto/how-to-change-album-covers-for-local-tracks-on-spotify-step-by-step-guide-mobile-desktop/files-app-copying-music.webp" >}}
+{{< ls-card title="" subtitle="Kopiranje glazbenih datoteka pomoću aplikacije Datoteke" image="/docs/howto/how-to-change-album-covers-for-local-tracks-on-spotify-step-by-step-guide-mobile-desktop/files-app-copying-music.webp" >}}
 {{< /cards >}}
 
 ### Otvorite Spotifyjevu lokalnu knjižnicu
@@ -122,7 +122,7 @@ Pričekajte dok sustav ne završi kopiranje vaše glazbene mape u Spotifyjev lok
 Sada se vratite u Spotify aplikaciju. Dodirnite **Vaša knjižnica > Lokalne datoteke** i vidjet ćete glazbene datoteke koje ste upravo kopirali.
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Spotify prikazuje lokalnu glazbenu knjižnicu" image="/docs/howto/how-to-change-album-covers-for-local-tracks-on-spotify-step-by-step-guide-mobile-desktop/spotify-local-music-library.webp" >}}
+{{< ls-card title="" subtitle="Spotify prikazuje lokalnu glazbenu knjižnicu" image="/docs/howto/how-to-change-album-covers-for-local-tracks-on-spotify-step-by-step-guide-mobile-desktop/spotify-local-music-library.webp" >}}
 {{< /cards >}}
 
 ## Povežite Spotify mapu u aplikaciji Evertag
@@ -149,26 +149,26 @@ Možete uređivati metapodatke izravno iz mapa bez uvoza datoteka.
 - Pomaknite se do **Datoteke na ovom uređaju** u bočnoj traci
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Prikaz svih mapa uređaja u Evertagu" image="/docs/howto/how-to-change-album-covers-for-local-tracks-on-spotify-step-by-step-guide-mobile-desktop/evertag-all-device-folders.webp" >}}
+{{< ls-card title="" subtitle="Prikaz svih mapa uređaja u Evertagu" image="/docs/howto/how-to-change-album-covers-for-local-tracks-on-spotify-step-by-step-guide-mobile-desktop/evertag-all-device-folders.webp" >}}
 {{< /cards >}}
 
 - Dodirnite **Sve mape uređaja**
 - Dodirnite **Poveži mapu**
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Povezivanje mape pomoću birača datoteka" image="/docs/howto/how-to-change-album-covers-for-local-tracks-on-spotify-step-by-step-guide-mobile-desktop/evertag-connect-folder-files-picker.webp" >}}
+{{< ls-card title="" subtitle="Povezivanje mape pomoću birača datoteka" image="/docs/howto/how-to-change-album-covers-for-local-tracks-on-spotify-step-by-step-guide-mobile-desktop/evertag-connect-folder-files-picker.webp" >}}
 {{< /cards >}}
 
 - Odaberite **Spotify** mapu i dodirnite **Otvori** za potvrdu
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Povezivanje mape sa Spotify lokalnim datotekama" image="/docs/howto/how-to-change-album-covers-for-local-tracks-on-spotify-step-by-step-guide-mobile-desktop/evertag-connect-folder-spotify-local.webp" >}}
+{{< ls-card title="" subtitle="Povezivanje mape sa Spotify lokalnim datotekama" image="/docs/howto/how-to-change-album-covers-for-local-tracks-on-spotify-step-by-step-guide-mobile-desktop/evertag-connect-folder-spotify-local.webp" >}}
 {{< /cards >}}
 
 - Dodirnite povezanu mapu za prikaz i uređivanje njenog sadržaja
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Mapa uspješno povezana u Evertagu" image="/docs/howto/how-to-change-album-covers-for-local-tracks-on-spotify-step-by-step-guide-mobile-desktop/evertag-connected-folder.webp" >}}
+{{< ls-card title="" subtitle="Mapa uspješno povezana u Evertagu" image="/docs/howto/how-to-change-album-covers-for-local-tracks-on-spotify-step-by-step-guide-mobile-desktop/evertag-connected-folder.webp" >}}
 {{< /cards >}}
 
 ## Uređivač oznaka
@@ -176,7 +176,7 @@ Možete uređivati metapodatke izravno iz mapa bez uvoza datoteka.
 **Uređivač oznaka** je glavni radni prostor gdje pregledavate i mijenjate metapodatke svojih audio datoteka.
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Pregledajte sadržaj povezane mape" image="/docs/howto/how-to-change-album-covers-for-local-tracks-on-spotify-step-by-step-guide-mobile-desktop/evertag-connected-folder-content.webp" >}}
+{{< ls-card title="" subtitle="Pregledajte sadržaj povezane mape" image="/docs/howto/how-to-change-album-covers-for-local-tracks-on-spotify-step-by-step-guide-mobile-desktop/evertag-connected-folder-content.webp" >}}
 {{< /cards >}}
 
 ## Načini uređivanja
@@ -221,25 +221,25 @@ Za zamjenu ili dodavanje novog omota albuma:
 1. Dodirnite **ikonu kamere** na karuselu omota
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Odaberite prilagođenu fotografiju omota albuma" image="/docs/howto/how-to-change-album-covers-for-local-tracks-on-spotify-step-by-step-guide-mobile-desktop/evertag-choose-photo.webp" >}}
+{{< ls-card title="" subtitle="Odaberite prilagođenu fotografiju omota albuma" image="/docs/howto/how-to-change-album-covers-for-local-tracks-on-spotify-step-by-step-guide-mobile-desktop/evertag-choose-photo.webp" >}}
 {{< /cards >}}
 
 2. Odaberite izvor slike (Fototeka, Lokalne datoteke, Cloud)
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Pristup fototeci za odabir omota" image="/docs/howto/how-to-change-album-covers-for-local-tracks-on-spotify-step-by-step-guide-mobile-desktop/evertag-photo-library.webp" >}}
+{{< ls-card title="" subtitle="Pristup fototeci za odabir omota" image="/docs/howto/how-to-change-album-covers-for-local-tracks-on-spotify-step-by-step-guide-mobile-desktop/evertag-photo-library.webp" >}}
 {{< /cards >}}
 
 3. Odaberite sliku za korištenje kao omot
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Pregled uređenog omota albuma" image="/docs/howto/how-to-change-album-covers-for-local-tracks-on-spotify-step-by-step-guide-mobile-desktop/evertag-edited-album-cover.webp" >}}
+{{< ls-card title="" subtitle="Pregled uređenog omota albuma" image="/docs/howto/how-to-change-album-covers-for-local-tracks-on-spotify-step-by-step-guide-mobile-desktop/evertag-edited-album-cover.webp" >}}
 {{< /cards >}}
 
 4. Dodirnite **Spremi** za primjenu promjena
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Spremi ažurirane audio oznake" image="/docs/howto/how-to-change-album-covers-for-local-tracks-on-spotify-step-by-step-guide-mobile-desktop/evertag-save-tags.webp" >}}
+{{< ls-card title="" subtitle="Spremi ažurirane audio oznake" image="/docs/howto/how-to-change-album-covers-for-local-tracks-on-spotify-step-by-step-guide-mobile-desktop/evertag-save-tags.webp" >}}
 {{< /cards >}}
 
 ## Ažurirajte Spotify knjižnicu
@@ -247,7 +247,7 @@ Za zamjenu ili dodavanje novog omota albuma:
 Nakon spremanja oznaka, vratite se u Spotify aplikaciju.
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Pregledajte Spotify glazbenu knjižnicu" image="/docs/howto/how-to-change-album-covers-for-local-tracks-on-spotify-step-by-step-guide-mobile-desktop/spotify-library.webp" >}}
+{{< ls-card title="" subtitle="Pregledajte Spotify glazbenu knjižnicu" image="/docs/howto/how-to-change-album-covers-for-local-tracks-on-spotify-step-by-step-guide-mobile-desktop/spotify-library.webp" >}}
 {{< /cards >}}
 
 Otvorite ponovno odjeljak **Lokalne datoteke**. Sada biste trebali vidjeti ažurirane omote i oznake za svoje lokalne pjesme.
@@ -255,7 +255,7 @@ Otvorite ponovno odjeljak **Lokalne datoteke**. Sada biste trebali vidjeti ažur
 > Ako se ažuriranja ne prikazuju odmah, **prisilno zatvorite Spotify** i ponovno ga otvorite. To pokreće osvježavanje metapodataka.
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Reprodukcija pjesme s uređenom oznakom" image="/docs/howto/how-to-change-album-covers-for-local-tracks-on-spotify-step-by-step-guide-mobile-desktop/spotify-playing-edited-tag.webp" >}}
+{{< ls-card title="" subtitle="Reprodukcija pjesme s uređenom oznakom" image="/docs/howto/how-to-change-album-covers-for-local-tracks-on-spotify-step-by-step-guide-mobile-desktop/spotify-playing-edited-tag.webp" >}}
 {{< /cards >}}
 
 ## Zaključak
@@ -268,26 +268,26 @@ Trebate pomoć s označavanjem FLAC, MP3 ili drugih visokokvalitetnih formata? [
 
 ## Često postavljana pitanja
 
-{{% details title="Mogu li promijeniti omote albuma za Spotify streaming pjesme?" closed="true" %}}
+{{% ls-details title="Mogu li promijeniti omote albuma za Spotify streaming pjesme?" closed="true" %}}
 Ne. Spotify ne dopušta mijenjanje omota za pjesme u svom streaming katalogu. Možete uređivati omote albuma samo za lokalne datoteke dodane u vašu Spotify knjižnicu.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Je li Evertag besplatan?" closed="true" %}}
+{{% ls-details title="Je li Evertag besplatan?" closed="true" %}}
 Da. Evertag je besplatan za preuzimanje i korištenje na iOS i macOS. Podržava preko 120 audio oznaka i 30+ formata datoteka.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Koje audio formate Evertag podržava?" closed="true" %}}
+{{% ls-details title="Koje audio formate Evertag podržava?" closed="true" %}}
 Evertag podržava 30+ formata uključujući MP3, FLAC, AAC, ALAC, WAV, AIFF, OGG, WMA i druge.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Zašto Spotify ne prikazuje moj ažurirani omot albuma?" closed="true" %}}
+{{% ls-details title="Zašto Spotify ne prikazuje moj ažurirani omot albuma?" closed="true" %}}
 Prisilno zatvorite Spotify aplikaciju i ponovno je otvorite. Spotify sprema metapodatke u predmemoriju i treba ponovno pokretanje da bi prepoznao promjene u lokalnim datotekama.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Mogu li uređivati oznake za više datoteka odjednom?" closed="true" %}}
+{{% ls-details title="Mogu li uređivati oznake za više datoteka odjednom?" closed="true" %}}
 Da. Evertag podržava skupno uređivanje. Odaberite više datoteka i dodirnite «Uredi nekoliko datoteka istovremeno» za ažuriranje oznaka i omota za sve odabrane pjesme odjednom.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Trebam li kopirati datoteke u Spotify mapu?" closed="true" %}}
+{{% ls-details title="Trebam li kopirati datoteke u Spotify mapu?" closed="true" %}}
 Da. Spotify čita lokalne datoteke samo iz svoje namjenske mape. Kopirajte ili premjestite svoje glazbene datoteke u Spotify mapu na svom uređaju, zatim omogućite prekidač Lokalnih audio datoteka u Spotify postavkama.
-{{% /details %}}
+{{% /ls-details %}}

@@ -14,7 +14,7 @@ authors:
     image: "/images/about/artem-meleshko-founder-everappz.webp"
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 ## Por qué las palabras clave de App Store determinan tus descargas
 
@@ -100,29 +100,29 @@ La optimización de App Store no requiere herramientas costosas. Con planificaci
 La herramienta es de código abierto.
 
 {{< cards cols="1" >}}
-  {{< card link="https://github.com/everappz/app-store-keyword-optimizer/tree/main" title="appkeywords.pro en GitHub" icon="github" tag= "open source" >}}
+  {{< ls-card link="https://github.com/everappz/app-store-keyword-optimizer/tree/main" title="appkeywords.pro en GitHub" icon="github" tag= "open source" >}}
 {{< /cards >}}
 
 ---
 
 ## Preguntas frecuentes
 
-{{% details title="¿Es AppKeywords.pro realmente gratuito?" closed="true" %}}
+{{% ls-details title="¿Es AppKeywords.pro realmente gratuito?" closed="true" %}}
 Sí. Es una herramienta de código abierto basada en navegador sin registro, sin anuncios y sin recopilación de datos.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="¿Funciona para múltiples localizaciones de App Store?" closed="true" %}}
+{{% ls-details title="¿Funciona para múltiples localizaciones de App Store?" closed="true" %}}
 Sí. Puedes añadir metadatos por idioma y la exportación incluye todos los idiomas en un JSON compatible con Fastlane.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="¿Debo repetir las palabras clave del título en el campo de palabras clave?" closed="true" %}}
+{{% ls-details title="¿Debo repetir las palabras clave del título en el campo de palabras clave?" closed="true" %}}
 No. Apple ya indexa palabras del título y subtítulo. Repetirlas desperdicia caracteres.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="¿Con qué frecuencia debo actualizar las palabras clave?" closed="true" %}}
+{{% ls-details title="¿Con qué frecuencia debo actualizar las palabras clave?" closed="true" %}}
 Al menos una vez por trimestre.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="¿Puedo usar esta herramienta con Fastlane?" closed="true" %}}
+{{% ls-details title="¿Puedo usar esta herramienta con Fastlane?" closed="true" %}}
 Sí. El repositorio GitHub incluye scripts shell para convertir entre la estructura de Fastlane y el formato JSON de AppKeywords.pro.
-{{% /details %}}
+{{% /ls-details %}}

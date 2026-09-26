@@ -7,7 +7,7 @@ tags: ["evermusic", "audio", "editor", "tag", "komentar"]
 readingTime: 4
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **Ringkasan:** Evermusic dan Flacbox memungkinkan Anda menambahkan komentar teks dengan penanda waktu ke trek audio apa pun, lalu menampilkannya secara sinkron selama pemutaran. Anda juga dapat melihat lirik yang disematkan dan file LRC. Fitur komentar dan lirik gratis di kedua aplikasi.
@@ -97,22 +97,22 @@ Penambahan komentar ke trek audio di Evermusic dan Flacbox menandai lompatan sig
 
 ## FAQ
 
-{{% details title="Apakah fitur komentar gratis di Evermusic dan Flacbox?" closed="true" %}}
+{{% ls-details title="Apakah fitur komentar gratis di Evermusic dan Flacbox?" closed="true" %}}
 Ya. Menambahkan, mengedit, dan melihat komentar dan lirik adalah fitur gratis di Evermusic dan Flacbox.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Format apa yang harus saya gunakan untuk komentar berwaktu?" closed="true" %}}
+{{% ls-details title="Format apa yang harus saya gunakan untuk komentar berwaktu?" closed="true" %}}
 Gunakan format penanda waktu LRC: `[MM:SS.SS]` diikuti teks Anda. Contoh: `[01:23.45]Ini komentar saya`. Anda dapat menetapkan beberapa stempel waktu ke satu baris.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Bisakah saya melihat lirik dan file LRC di layar yang sama?" closed="true" %}}
+{{% ls-details title="Bisakah saya melihat lirik dan file LRC di layar yang sama?" closed="true" %}}
 Ya. Layar Komentar mendukung tiga mode yang dapat Anda geser: Komentar, Lirik Tersemat, dan File LRC.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Di mana saya bisa menemukan file lirik LRC?" closed="true" %}}
+{{% ls-details title="Di mana saya bisa menemukan file lirik LRC?" closed="true" %}}
 Lirik LRC gratis tersedia di situs web seperti Lyricsify.com. Anda dapat menyematkannya di tag lirik file audio Anda atau menempatkan file `.lrc` terpisah di samping file audio Anda.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Apakah saya memerlukan aplikasi terpisah untuk mengedit tag lirik?" closed="true" %}}
+{{% ls-details title="Apakah saya memerlukan aplikasi terpisah untuk mengedit tag lirik?" closed="true" %}}
 Anda dapat mengedit komentar langsung di Evermusic dan Flacbox. Untuk mengedit tag lirik secara khusus, gunakan Evertag, editor metadata audio gratis untuk iOS dan macOS.
-{{% /details %}}
+{{% /ls-details %}}

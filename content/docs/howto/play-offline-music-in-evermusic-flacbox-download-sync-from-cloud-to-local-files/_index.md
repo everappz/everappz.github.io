@@ -9,7 +9,7 @@ aliases:
   - /post/play-offline-music-in-evermusic-flacbox-download-sync-from-cloud-to-local-files/
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **TL;DR:** Evermusic and Flacbox let you download music from cloud storage (Google Drive, Dropbox, OneDrive, and more) to your iPhone or iPad for offline playback. You can use three methods: direct download, offline mode with automatic sync, or audio player cache. This guide covers all three approaches step by step.
@@ -142,26 +142,26 @@ By following these detailed steps, you can seamlessly manage and play your local
 
 ## Frequently Asked Questions
 
-{{% details title="What cloud services do Evermusic and Flacbox support?" closed="true" %}}
+{{% ls-details title="What cloud services do Evermusic and Flacbox support?" closed="true" %}}
 Both apps support Google Drive, Dropbox, OneDrive, Box, MEGA, Yandex.Disk, and other major cloud storage providers. You can connect multiple services at once.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Can I sync music automatically from cloud storage to my iPhone?" closed="true" %}}
+{{% ls-details title="Can I sync music automatically from cloud storage to my iPhone?" closed="true" %}}
 Yes. Enable Offline Mode for any folder, playlist, album, or artist. The app performs a one-way sync from cloud to device on a configurable interval (default: once per day).
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Does offline mode use a lot of storage on my device?" closed="true" %}}
+{{% ls-details title="Does offline mode use a lot of storage on my device?" closed="true" %}}
 Storage usage depends on your music collection size and file formats. You can control this by choosing specific folders to sync, setting cache size limits, and monitoring storage in the app settings.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="What audio formats are supported for offline playback?" closed="true" %}}
+{{% ls-details title="What audio formats are supported for offline playback?" closed="true" %}}
 Evermusic and Flacbox support MP3, FLAC, AAC, ALAC, WAV, AIFF, OGG, WMA, and many other formats. Flacbox is optimized for lossless formats like FLAC and ALAC.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Will my offline music keep playing if I close the app?" closed="true" %}}
+{{% ls-details title="Will my offline music keep playing if I close the app?" closed="true" %}}
 Yes. Downloaded files are stored locally on your device and play through the app’s audio player regardless of internet connectivity. Background playback is fully supported.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="How do I free up space taken by offline music?" closed="true" %}}
+{{% ls-details title="How do I free up space taken by offline music?" closed="true" %}}
 Disable Offline Mode for specific folders in Settings > File Manager > Synchronized Offline Folders. This removes local copies from your device. You can also clear the audio player cache or delete downloaded files manually.
-{{% /details %}}
+{{% /ls-details %}}

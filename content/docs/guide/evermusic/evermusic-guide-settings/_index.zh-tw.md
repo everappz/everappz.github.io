@@ -18,7 +18,7 @@ readingTime: 16
 設定畫面是 Evermusic 的控制中心。從這裡您可以升級到 Premium、設定音訊播放器、管理音樂庫、設定檔案管理員、自訂介面、啟用小工具和 CarPlay、備份資料，以及存取說明和法律資訊。各部分按標題分組：**購買與更新**、應用程式偏好設定、**說明**和**法律與隱私**。
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evermusic 設定畫面" image="/docs/guide/evermusic/evermusic-guide-settings/img/settings-main-screen.webp" >}}
+  {{< ls-card title="" subtitle="Evermusic 設定畫面" image="/docs/guide/evermusic/evermusic-guide-settings/img/settings-main-screen.webp" >}}
 {{< /cards >}}
 
 ## 購買與更新

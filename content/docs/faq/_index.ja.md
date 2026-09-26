@@ -15,7 +15,7 @@ tags: [
 ---
 
 
-{{< lottie src="/images/juicy-json/juicy-woman-focused-on-online-learning.json" width="85%" >}}
+{{< ls-lottie src="/images/juicy-json/juicy-woman-focused-on-online-learning.json" width="85%" >}}
 
 ## アプリの使い方を学びましょう
 
@@ -27,7 +27,7 @@ FAQ ページでは、クラウドストレージの接続、音楽やビデオ�
 
 ## アプリを選択してください
 
-{{< product-doc-cards section="faq" >}}
+{{< ls-product-doc-cards section="faq" >}}
 
 ## よくある問題と回答
 
@@ -35,7 +35,7 @@ FAQ ページでは、クラウドストレージの接続、音楽やビデオ�
 
 <div class="hx:w-full">
 
-{{% details title="古い iOS バージョン (15.8.4) で pCloud にログインできないのはなぜですか？" closed="true" %}}
+{{% ls-details title="古い iOS バージョン (15.8.4) で pCloud にログインできないのはなぜですか？" closed="true" %}}
 pCloud のウェブログインページは、15.8.4 などの古い iOS バージョンでは正しく表示されないことがあり、クラウド接続画面でメールアドレスとパスワードを入力できない場合があります。<br><br>
 
 回避策として、pCloud でサポートされており、すべての iOS バージョンで確実に動作する **WebDAV** プロトコルを使用できます。
@@ -49,9 +49,9 @@ pCloud のウェブログインページは、15.8.4 などの古い iOS バー�
 アプリを開く → 接続 → クラウドストレージに接続 → **WebDAV** を選択 → 認証情報とサーバー URL を入力。
 
 この方法を使用すると、古いデバイスでも問題なく pCloud ストレージに接続してファイルにアクセスできます。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Mac (macOS) から AirPlay で音楽を再生するには？" closed="true" %}}
+{{% ls-details title="Mac (macOS) から AirPlay で音楽を再生するには？" closed="true" %}}
 アプリの macOS 版には、iOS のような AirPlay、Chromecast、Bluetooth の接続ボタンが内蔵されていません。<br><br>
 
 MacBook Pro で **AirPlay** を使用するには、次の手順に従ってください：
@@ -62,9 +62,9 @@ MacBook Pro で **AirPlay** を使用するには、次の手順に従ってく�
 4. 音楽のストリーミングを開始するために希望のデバイスを選択します。  
 
 これにより、すべてのシステムオーディオ（Evermusic または Flacbox からのものを含む）が選択した AirPlay デバイスにルーティングされます。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="iPhone で購入した場合、Mac で Premium が有効化されないのはなぜですか？" closed="true" %}}
+{{% ls-details title="iPhone で購入した場合、Mac で Premium が有効化されないのはなぜですか？" closed="true" %}}
 永続購入とサブスクリプションは **iCloud** を通じて iOS と Mac 間で同期されます。<br><br>
 
 Mac で Premium を有効化するには：<br>
@@ -76,9 +76,9 @@ Mac で Premium を有効化するには：<br>
 - または、両方のデバイスのアプリ設定で**購入を復元**をタップしてください<br><br>
 
 その後、Premium 機能が Mac で自動的に有効化されます。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="デバイス間でプレイリストを自動同期するには？" closed="true" %}}
+{{% ls-details title="デバイス間でプレイリストを自動同期するには？" closed="true" %}}
 現在、プレイリストの**自動同期はありません**。<br><br>
 
 次のいずれかの方法を使用できます：<br>
@@ -88,9 +88,9 @@ Mac で Premium を有効化するには：<br>
   - [プレイリストのインポート方法](/docs/howto/how-to-import-m3u-playlist-to-evermusic-and-flacbox/)<br>
 - **プレイリストやアルバムをアーカイブ**して ZIP で転送：<br>
   - [プレイリストアーカイブガイド](/docs/howto/how-to-archive-zip-playlists-albums-artists-and-genres-in-evermusic-flacbox-and-transfer-to/)
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="アプリの使用は安全ですか？分析を無効にできますか？" closed="true" %}}
+{{% ls-details title="アプリの使用は安全ですか？分析を無効にできますか？" closed="true" %}}
 はい、お客様のプライバシーが私たちの最優先事項です。<br><br>
 
 - 音楽ファイル、設定、クラウドログインなど、すべてのデータはデバイス上に保管されます<br>
@@ -104,18 +104,18 @@ Mac で Premium を有効化するには：<br>
 
 パーソナライズされた広告を使用する場合、Google Mobile Ads は同意設定の表示を必要とします。<br>
 Premium ユーザーには広告が表示されず、広告 SDK は完全に無効化されています。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="アプリはファミリー共有をサポートしていますか？" closed="true" %}}
+{{% ls-details title="アプリはファミリー共有をサポートしていますか？" closed="true" %}}
 はい、ファミリー共有はサポートされています。<br><br>
 
 アプリ内購入を共有するには：<br>
 - 購入がファミリーグループと共有するように設定されていることを確認してください<br>
 - ファミリーメンバーのデバイスで、**設定 > 購入 > 購入を復元**に移動してください<br>
 - これにより Apple のサーバーから購入データが要求され、そのデバイスで有効化されます
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="メタデータとクラウドの同期を高速化するには？" closed="true" %}}
+{{% ls-details title="メタデータとクラウドの同期を高速化するには？" closed="true" %}}
 同期速度を向上させるには、バックグラウンドタスクを有効にしてください：<br><br>
 
 - **設定 → 音楽ライブラリ → メタデータ読み取り → バックグラウンドでのメタデータ読み取り**<br>
@@ -123,14 +123,14 @@ Premium ユーザーには広告が表示されず、広告 SDK は完全に無�
 
 また、macOS では **設定 → 音楽ライブラリ**からメタデータの読み取り速度を上げることができます。<br>
 プレーヤーがアクティブな場合（オーディオ再生中）、iOS はアプリをサスペンドしないため、継続的な同期が可能です。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="サブスクリプションをキャンセルするには？" closed="true" %}}
+{{% ls-details title="サブスクリプションをキャンセルするには？" closed="true" %}}
 Apple の公式手順に従ってサブスクリプションをキャンセルできます：<br>
 👉 [サブスクリプションのキャンセル方法](https://support.apple.com/en-us/118428)
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="WD MyCloud EX2 Ultra から音声を接続してストリーミングするには？" closed="true" %}}
+{{% ls-details title="WD MyCloud EX2 Ultra から音声を接続してストリーミングするには？" closed="true" %}}
 
 アプリで **接続 > クラウドストレージに接続 > My Cloud Home** を通じて接続を追加すると、これは公式に **WD MyCloud Home** デバイスをサポートするように設計されています。<br>
 WD MyCloud EX2 Ultra はアプリに対して制限されたアクセスを使用します。<br><br>
@@ -144,16 +144,16 @@ WD MyCloud EX2 Ultra はアプリに対して制限されたアクセスを使�
 5. 直接ストリーミングまたはダウンロードできるようになります<br><br>
 
 ⚠️ アプリを通じて作成されたフォルダのみが NAS からアクセス可能です。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Koofr.eu に接続するには？" closed="true" %}}
+{{% ls-details title="Koofr.eu に接続するには？" closed="true" %}}
 **WebDAV** を使用して Koofr を接続できます。<br><br>
 
 - Koofr WebDAV 設定ガイド: [koofr.eu blog](https://koofr.eu/blog/posts/3-ways-to-map-koofr-as-a-network-drive-explained)<br>
 - Evermusic/Flacbox WebDAV ガイド: [WebDAV を使用して NAS ストレージに接続し iPhone または Mac で音楽を聴く方法](/docs/howto/how-to-connect-nas-storage-using-webdav-and-listen-to-music-on-your-iphone-or-mac/)
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="アプリの URL スキームは何ですか？" closed="true" %}}
+{{% ls-details title="アプリの URL スキームは何ですか？" closed="true" %}}
 サポートされているスキームは次のとおりです：<br><br>
 
 **Evermusic**<br>
@@ -172,35 +172,35 @@ WD MyCloud EX2 Ultra はアプリに対して制限されたアクセスを使�
 **Evervideo**<br>
 - iOS: `lsevervideo://`<br>
 - macOS: `lsevervideomac://`
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="アプリがバックグラウンドにあるとき音楽が止まる — 修正方法は？" closed="true" %}}
+{{% ls-details title="アプリがバックグラウンドにあるとき音楽が止まる — 修正方法は？" closed="true" %}}
 アプリがバックグラウンドでクラッシュまたは一時停止する場合：<br>
 - **設定 > 音楽ライブラリ > オンライン音楽同期 > バックグラウンド同期 → 無効**に移動する<br>
 - **設定 > 音楽ライブラリ > メタデータ読み取り > バックグラウンドでのメタデータ読み取り → 無効**<br>
 - **設定 > ファイルマネージャー > バックグラウンド転送 → 無効**
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="ギャップレス再生が機能しない — 修正方法は？" closed="true" %}}
+{{% ls-details title="ギャップレス再生が機能しない — 修正方法は？" closed="true" %}}
 ギャップレス再生は iOS バージョンとオーディオエンジンによって異なります。<br>
 オーディオエンジンを切り替えてみてください：<br>
 - **設定 → オーディオプレーヤー → 一般 → オーディオプロセッサ**に移動する<br>
 - より良いギャップレスサポートのために **Core Audio** を選択する
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="アプリがリストに 100 個しか表示されないのはなぜですか？" closed="true" %}}
+{{% ls-details title="アプリがリストに 100 個しか表示されないのはなぜですか？" closed="true" %}}
 アプリはパフォーマンスのためにページネーションを使用しています。<br>
 無効にするには：<br>
 - **設定 → カスタマイズ → コンテンツ読み込み制限 → 無効**に移動する<br>
 これですべてのアイテムが一度に読み込まれます。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="メタデータに奇妙な文字があるのはなぜですか？" closed="true" %}}
+{{% ls-details title="メタデータに奇妙な文字があるのはなぜですか？" closed="true" %}}
 メタデータの正規化を有効にしてみてください：<br>
 - **設定 → 音楽ライブラリ → メタデータ読み取り → メタデータエンコーディングの正規化**
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="アプリが特殊文字を含むフォルダ名を読み取れないのはなぜですか？" closed="true" %}}
+{{% ls-details title="アプリが特殊文字を含むフォルダ名を読み取れないのはなぜですか？" closed="true" %}}
 これは **SMB2 プロトコル**の既知の問題です。<br><br>
 
 次の解決策を試してください：<br>
@@ -210,9 +210,9 @@ WD MyCloud EX2 Ultra はアプリに対して制限されたアクセスを使�
   - Apple のネイティブメニューを使用してフォルダ/ファイルを選択する<br><br>
 
 または、NAS がサポートしている場合は **WebDAV** または **DLNA** を使用して接続してください。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="iCloud で音楽をアップロードして管理するには？" closed="true" %}}
+{{% ls-details title="iCloud で音楽をアップロードして管理するには？" closed="true" %}}
 – **iCloud に音楽をアップロードするには？**  <br>
 ブラウザで [https://www.icloud.com](https://www.icloud.com) にアクセスし、フォルダを作成して、Mac または PC から直接音楽ファイルをアップロードします。<br>
 
@@ -225,9 +225,9 @@ WD MyCloud EX2 Ultra はアプリに対して制限されたアクセスを使�
 
 詳細はこちら: [iPhone または Mac で iCloud Drive から音楽をストリーミングする方法](/docs/howto/how-to-listen-to-music-from-icloud-drive-on-your-iphone-or-mac/)
 
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Windows 11 から iPhone に 10GB の音楽ライブラリをオフライン再生のために転送するには？" closed="true" %}}
+{{% ls-details title="Windows 11 から iPhone に 10GB の音楽ライブラリをオフライン再生のために転送するには？" closed="true" %}}
 
 Windows 11 PC から iPhone に音楽ライブラリを移動し、アプリでオフラインで使用するための信頼性の高いいくつかのオプションがあります。最適な方法を選択してください：
 
@@ -253,6 +253,6 @@ Windows 11 PC から iPhone に音楽ライブラリを移動し、アプリで�
 
 ⚠️ 大きなライブラリ（10GB 以上）を転送する場合、有線 USB 転送が通常最も速く安定したオプションです。
 
-{{% /details %}}
+{{% /ls-details %}}
 
 </div>

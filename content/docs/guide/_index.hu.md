@@ -7,7 +7,7 @@ tags: ["felhasználói kézikönyv", "alkalmazás-útmutató", "evermusic", "fla
 ---
 
 
-{{< lottie src="/images/juicy-json/juicy-woman-with-graph-chart.json" width="75%" >}}
+{{< ls-lottie src="/images/juicy-json/juicy-woman-with-graph-chart.json" width="75%" >}}
 
 ## Ismerje meg alkalmazásainkat
 
@@ -19,4 +19,4 @@ Válasszon egy alkalmazást alább a kezdéshez.
 
 ## Válassza ki termékét
 
-{{< product-doc-cards section="guide" >}}
+{{< ls-product-doc-cards section="guide" >}}

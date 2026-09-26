@@ -7,7 +7,7 @@ tags: ["evermusic", "impor", "daftar putar", "m3u", "cue"]
 readingTime: 3
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **Ringkasan:** Evermusic dan Flacbox mendukung pengimporan file daftar putar M3U, M3U8, dan CUE dari penyimpanan cloud, file aplikasi lokal, atau perangkat Anda. Buka Daftar Putar > Lainnya > Impor Daftar Putar, pilih sumber, pilih file Anda, dan aplikasi akan membuat daftar putar secara otomatis.
@@ -84,22 +84,22 @@ Selain itu, Anda dapat mengimpor beberapa daftar putar sekaligus dengan mengetuk
 
 ## Pertanyaan yang Sering Diajukan
 
-{{% details title="Format daftar putar apa yang didukung Evermusic dan Flacbox?" closed="true" %}}
+{{% ls-details title="Format daftar putar apa yang didukung Evermusic dan Flacbox?" closed="true" %}}
 Kedua aplikasi mendukung format file daftar putar M3U, M3U8, dan CUE. Format ini mencakup standar daftar putar paling umum yang digunakan oleh pemutar musik dan perangkat lunak media.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Bisakah saya mengimpor daftar putar dari penyimpanan cloud?" closed="true" %}}
+{{% ls-details title="Bisakah saya mengimpor daftar putar dari penyimpanan cloud?" closed="true" %}}
 Ya. Anda dapat mengimpor file daftar putar dari layanan penyimpanan cloud yang terhubung termasuk Google Drive, Dropbox, OneDrive, dan server WebDAV.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Mengapa beberapa trek hilang setelah impor?" closed="true" %}}
+{{% ls-details title="Mengapa beberapa trek hilang setelah impor?" closed="true" %}}
 File daftar putar harus berisi jalur yang benar ke file media Anda, dan file-file tersebut harus ada di lokasi yang ditentukan di penyimpanan Anda. Periksa kembali bahwa jalur file di file M3U atau CUE Anda sesuai dengan lokasi file yang sebenarnya.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Bisakah saya mengimpor beberapa daftar putar sekaligus?" closed="true" %}}
+{{% ls-details title="Bisakah saya mengimpor beberapa daftar putar sekaligus?" closed="true" %}}
 Ya. Gunakan tombol Lebih banyak tindakan dan pilih "Impor Daftar Putar dari Folder." Aplikasi memindai folder untuk semua file daftar putar yang didukung dan mengimpornya dalam satu langkah.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Apakah saya perlu membuat daftar putar secara manual?" closed="true" %}}
+{{% ls-details title="Apakah saya perlu membuat daftar putar secara manual?" closed="true" %}}
 Tidak. Fitur impor menghilangkan pembuatan daftar putar manual. Cukup arahkan aplikasi ke file M3U, M3U8, atau CUE Anda yang sudah ada dan aplikasi akan membuat daftar putar secara otomatis.
-{{% /details %}}
+{{% /ls-details %}}

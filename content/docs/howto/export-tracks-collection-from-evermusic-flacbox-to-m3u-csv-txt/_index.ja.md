@@ -6,7 +6,7 @@ keywords: ["evermusic エクスポート", "flacbox エクスポート", "m3uに
 tags: ["evermusic", "最近の項目", "お気に入り", "エクスポート", "m3u", "プレイリスト", "csv", "txt", "アルバム"]
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **要約:** Evermusic・Flacboxでは、あらゆるトラックコレクション（最近の項目、お気に入り、プレイリスト、アルバム）をCSV、TXT、またはM3Uファイルにエクスポートできます。これらのエクスポートを使用して、Last.fmへのスクロブル、ライブラリのバックアップ、他のデバイスでのプレイリスト再生が可能です。
@@ -157,22 +157,22 @@ Evermusic・Flacboxからトラックをエクスポートすることで、音�
 
 ## FAQ
 
-{{% details title="Last.fmのスクロブルにはどのエクスポート形式を使用すべきですか？" closed="true" %}}
+{{% ls-details title="Last.fmのスクロブルにはどのエクスポート形式を使用すべきですか？" closed="true" %}}
 CSVを使用してください。Last.fm-Scrubbler-WPFなどのスクロブルツールに必要なタイムスタンプと完全なメタデータが含まれています。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="プレイリスト以外のトラックコレクションもエクスポートできますか？" closed="true" %}}
+{{% ls-details title="プレイリスト以外のトラックコレクションもエクスポートできますか？" closed="true" %}}
 はい。同じ手順で、最近の項目、お気に入り、アルバム、プレイリスト、その他アプリ内のあらゆるトラックコレクションをエクスポートできます。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="M3Uプレイリストは他のデバイスで動作しますか？" closed="true" %}}
+{{% ls-details title="M3Uプレイリストは他のデバイスで動作しますか？" closed="true" %}}
 エクスポート時に絶対URLオプションを選択した場合、M3UファイルはM3Uプレイリストをサポートするあらゆるデバイスで再生できます。ただし、一部のクラウドURLは時間の経過とともに期限切れになる場合があります。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="エクスポート機能は無料ですか？" closed="true" %}}
+{{% ls-details title="エクスポート機能は無料ですか？" closed="true" %}}
 はい。M3U、CSV、TXTへのトラックコレクションのエクスポートは、Evermusic・Flacboxの無料版とプレミアム版の両方で利用できます。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="絶対URLエクスポートをサポートしているクラウドサービスは？" closed="true" %}}
+{{% ls-details title="絶対URLエクスポートをサポートしているクラウドサービスは？" closed="true" %}}
 絶対URLエクスポートは、iCloud Drive、pCloud、PanBaidu、MyCloudHome、DLNA、MediaFire、OneDrive、Box、Dropbox、Google Drive、WebDAV（ゲストモード）でサポートされています。
-{{% /details %}}
+{{% /ls-details %}}

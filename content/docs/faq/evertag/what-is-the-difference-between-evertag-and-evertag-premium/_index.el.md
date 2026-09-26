@@ -11,7 +11,7 @@ tags: ["Evertag", "Premium", "Διαφορά", "Pro", "Δωρεάν vs Επί Π
 Το Evertag και το Evertag Premium είναι δύο εκδόσεις της ίδιας ισχυρής εφαρμογής επεξεργασίας ετικετών. Ενώ το Evertag Free σάς δίνει πρόσβαση σε βασικά εργαλεία επεξεργασίας μεταδεδομένων, το Evertag Premium ξεκλειδώνει την πλήρη εμπειρία — χωρίς διαφημίσεις, απεριόριστη και προσαρμόσιμη.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evertag Upgrade To Premium Screen" image="/docs/faq/evertag/what-is-the-difference-between-evertag-and-evertag-premium/upgrade-to-premium.webp" >}}
+  {{< ls-card title="" subtitle="Evertag Upgrade To Premium Screen" image="/docs/faq/evertag/what-is-the-difference-between-evertag-and-evertag-premium/upgrade-to-premium.webp" >}}
 {{< /cards >}}
 
 ## Επιλέξτε το Premium Πλάνο σας
@@ -19,7 +19,7 @@ tags: ["Evertag", "Premium", "Διαφορά", "Pro", "Δωρεάν vs Επί Π
 Η δωρεάν έκδοση της εφαρμογής προσφέρει αγορά εφ' άπαξ για όλη τη ζωή και δύο επιλογές συνδρομής (1 μήνας και 1 χρόνος) για να καταργηθούν όλοι οι περιορισμοί και να αναβαθμιστείτε στην Premium έκδοση, επιτρέποντάς σας να επιλέξετε την καλύτερη και πιο βέλτιστη τιμή για εσάς. Οι τιμές ενδέχεται να διαφέρουν ανάλογα με τη χώρα ή την περιοχή σας. Επίσης, λάβετε υπόψη ότι η **Οικογενειακή Κοινή Χρήση** είναι **ενεργοποιημένη** για όλες τις αγορές και τα πλάνα, ώστε να μπορείτε να μοιράζεστε την Premium έκδοση με τα μέλη της οικογένειάς σας.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evertag Select Your Premium Plan Screen" image="/docs/faq/evertag/what-is-the-difference-between-evertag-and-evertag-premium/select-your-plan.webp" >}}
+  {{< ls-card title="" subtitle="Evertag Select Your Premium Plan Screen" image="/docs/faq/evertag/what-is-the-difference-between-evertag-and-evertag-premium/select-your-plan.webp" >}}
 {{< /cards >}}
 
 ## Κοινή Χρήση Αγορών Μεταξύ iOS και Mac
@@ -79,7 +79,7 @@ tags: ["Evertag", "Premium", "Διαφορά", "Pro", "Δωρεάν vs Επί Π
 Μπορείτε να αναβαθμίσετε στην Premium έκδοση δωρεάν αλλά μόνο για περιορισμένο χρόνο χρησιμοποιώντας το μενού 'Δοκιμή premium δωρεάν'. Απλά παρακολουθήστε μια διαφήμιση ή πείτε στους φίλους σας για αυτήν την εφαρμογή για να αποκτήσετε την Premium έκδοση δωρεάν.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evertag Try Premium For Free Screen" image="/docs/faq/evertag/what-is-the-difference-between-evertag-and-evertag-premium/try-premium-for-free.webp" >}}
+  {{< ls-card title="" subtitle="Evertag Try Premium For Free Screen" image="/docs/faq/evertag/what-is-the-difference-between-evertag-and-evertag-premium/try-premium-for-free.webp" >}}
 {{< /cards >}}
 
 ## Τι να Επιλέξετε;

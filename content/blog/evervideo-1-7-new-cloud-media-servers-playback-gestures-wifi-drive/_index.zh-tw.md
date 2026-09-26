@@ -12,7 +12,7 @@ authors:
     image: "/images/about/artem-meleshko-founder-everappz.webp"
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 **重點:** [Evervideo 1.7](/products/evervideo) 是 iPhone、iPad 與 Mac 上 HD 影片播放器的一次重大更新。此版本新增了 10 項以上的雲端、NAS 與媒體伺服器連線 — **Internxt**、**Proton Drive**、**QNAP**、**Nextcloud**、**Amazon S3**,以及最受歡迎的媒體伺服器 **Plex**、**Subsonic**、**Navidrome**、**Jellyfin** 與 **Emby**,還有三種網路通訊協定:**FTP**、**SFTP** 與 **NFS**。全新的 **播放手勢** 讓你能雙擊向前或向後跳轉、長按以 2 倍速播放,以及單擊切換控制列 — 一切都不必離開全螢幕模式。Wi-Fi Drive 擁有煥然一新的介面、多選模式與更聰明的上傳佇列。整個應用程式都已為 Apple 全新的 **Liquid Glass** 設計進行調整。
 
@@ -147,58 +147,58 @@ Evervideo 1.7 圍繞三個理念打造:
 
 ## 常見問題
 
-{{% details title="Evervideo 1.7 有什麼新功能?" closed="true" %}}
+{{% ls-details title="Evervideo 1.7 有什麼新功能?" closed="true" %}}
 Evervideo 1.7 引入對 10 項以上新連線的支援(Plex、Jellyfin、Emby、Subsonic、Navidrome、Internxt、Proton Drive、QNAP、Nextcloud、Amazon S3、FTP、SFTP、NFS)、全新的播放手勢(雙擊快轉/倒轉、長按 2 倍速、單擊切換控制列)、重新設計的 Wi-Fi Drive(具備選擇模式與更聰明的上傳佇列)、Liquid Glass 設計更新、連線函式庫更新,以及大量錯誤修正。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Evervideo 能搭配 Plex 使用嗎?" closed="true" %}}
+{{% ls-details title="Evervideo 能搭配 Plex 使用嗎?" closed="true" %}}
 可以。自 Evervideo 1.7 起,你可以連線到 Plex Media Server 並串流完整的影片資料庫 — 電影、電視劇與家庭影片。Plex Media Server 免費執行;Plex Pass 為可選項。Evervideo 同時支援免費與 Plex Pass 設定,包括直接播放 MKV、MP4、AVI、MOV 等格式而無需重新編碼。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Evervideo 支援 Jellyfin 或 Navidrome 嗎?" closed="true" %}}
+{{% ls-details title="Evervideo 支援 Jellyfin 或 Navidrome 嗎?" closed="true" %}}
 是的。Jellyfin 與 Navidrome 都在 Evervideo 1.7 中獲得完整支援。Jellyfin 是處理影片與音訊的免費開源媒體伺服器。Navidrome 是實作 Subsonic API 的免費開源伺服器。Evervideo 原生連線到兩者。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Plex、Jellyfin、Emby、Navidrome 與 Subsonic 都是免費的嗎?" closed="true" %}}
+{{% ls-details title="Plex、Jellyfin、Emby、Navidrome 與 Subsonic 都是免費的嗎?" closed="true" %}}
 - **Plex** — 伺服器免費;Plex Pass 是可選的付費升級。
 - **Jellyfin** — 完全免費且開源。
 - **Emby** — 伺服器免費;Emby Premiere 付費,可解鎖行動同步與離線功能。
 - **Navidrome** — 完全免費且開源。
 - **Subsonic** — 官方伺服器在 30 天試用後每月 1 美元,但其 API 開放,許多免費伺服器(包括 Navidrome)都已實作。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="我可以透過 SFTP、FTP 或 NFS 從家中的 NAS 串流嗎?" closed="true" %}}
+{{% ls-details title="我可以透過 SFTP、FTP 或 NFS 從家中的 NAS 串流嗎?" closed="true" %}}
 可以。Evervideo 1.7 新增 SFTP、FTP 與 NFS 作為原生連線類型。SFTP 是透過公開網際網路從你自己的伺服器串流的建議選擇,因為所有流量都會透過 SSH 加密。FTP 與 NFS 最好在區域網路內使用,或在 VPN 後使用。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="如何用 SFTP 把 Evervideo 連到自訂伺服器?" closed="true" %}}
+{{% ls-details title="如何用 SFTP 把 Evervideo 連到自訂伺服器?" closed="true" %}}
 開啟 Evervideo,前往「連接」分頁,選擇 SFTP,然後輸入伺服器的主機名稱或 IP、連接埠(通常為 22)、使用者名稱,以及密碼或 SSH 私密金鑰。Evervideo 會瀏覽你的遠端資料夾,並以端對端加密直接串流影片檔。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Evervideo 支援 Internxt 與 Proton Drive 嗎?" closed="true" %}}
+{{% ls-details title="Evervideo 支援 Internxt 與 Proton Drive 嗎?" closed="true" %}}
 支援。這兩種重視隱私的雲端服務從 Evervideo 1.7 起獲得支援。它們加入 MEGA 與應用程式中已有的其他重視隱私的服務。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="全新的播放手勢如何使用?" closed="true" %}}
+{{% ls-details title="全新的播放手勢如何使用?" closed="true" %}}
 在全螢幕影片播放中,**雙擊右側** 可快轉,**雙擊左側** 可倒轉一個可設定的間隔(預設 10 秒 — 可在「設定」中修改)。**長按** 螢幕任意位置可暫時加速至 2 倍;放開後恢復一般速度。**單擊** 螢幕任意位置可切換播放控制(顯示或隱藏)。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="我可以變更雙擊的跳轉間隔嗎?" closed="true" %}}
+{{% ls-details title="我可以變更雙擊的跳轉間隔嗎?" closed="true" %}}
 可以。前往 **設定 → 播放 → 手勢跳轉間隔**,選擇介於 5 與 60 秒之間的值。大多數使用者保持 10 或 15 秒。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Evervideo 中的 Wi-Fi Drive 是什麼?" closed="true" %}}
+{{% ls-details title="Evervideo 中的 Wi-Fi Drive 是什麼?" closed="true" %}}
 Wi-Fi Drive 是 Evervideo 內建的無線檔案傳輸功能。它讓你能透過本機 Wi-Fi 網路從電腦上傳影片到 iPhone 或 iPad — 不需要 iTunes、不需要傳輸線、不需要雲端帳號。你可以使用任何桌面瀏覽器,或像 Mac Finder 或 Windows 檔案總管這類 WebDAV 用戶端。請參閱 [完整的 Wi-Fi Drive 指南](/docs/howto/how-to-transfer-files-wirelessly-from-a-computer-to-an-iphone-using-wifi-drive/)。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Evervideo 能從 Plex 或 Jellyfin 播放 MKV、AVI 與其他格式嗎?" closed="true" %}}
+{{% ls-details title="Evervideo 能從 Plex 或 Jellyfin 播放 MKV、AVI 與其他格式嗎?" closed="true" %}}
 可以。Evervideo 播放幾乎所有影片格式 — MKV、AVI、MP4、MOV、FLV、WMV、WEBM、M4V、TS、3GP — 並直接從 Plex、Jellyfin、Emby 與其他媒體伺服器串流它們,多數轉碼器無需轉碼。這代表你的伺服器 CPU 負載更低、啟動時間更快。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="升級到 Evervideo 1.7 免費嗎?" closed="true" %}}
+{{% ls-details title="升級到 Evervideo 1.7 免費嗎?" closed="true" %}}
 是的。Evervideo 為 App Store 中的免費下載,1.7 則是所有現有使用者的免費更新。新的雲端整合、媒體伺服器支援、播放手勢、Wi-Fi Drive 改進與 Liquid Glass UI 都屬於基本更新。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Evervideo 1.7 支援哪些裝置?" closed="true" %}}
+{{% ls-details title="Evervideo 1.7 支援哪些裝置?" closed="true" %}}
 Evervideo 1.7 在 iPhone、iPad 與 Mac 上執行。AirPlay 與 Chromecast 讓你可以把播放投到更大的螢幕。iCloud Drive 同步可在不同裝置間維持資料庫與設定一致。
-{{% /details %}}
+{{% /ls-details %}}

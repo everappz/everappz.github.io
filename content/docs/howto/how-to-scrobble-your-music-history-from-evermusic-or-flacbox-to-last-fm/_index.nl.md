@@ -17,7 +17,7 @@ keywords: [
 readingTime: 2
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **Samenvatting:** Zowel Evermusic als Flacbox hebben ingebouwde Last.fm scrobbling. Verbind je account in het gedeelte **Verbindingen**, en elk nummer dat je afspeelt wordt automatisch gelogd -- zelfs als je offline bent. De instelling duurt minder dan een minuut.
@@ -66,22 +66,22 @@ Het scrobbelen van je muziekgeschiedenis van Evermusic of Flacbox naar [Last.fm]
 
 ## Veelgestelde vragen
 
-{{% details title="Is Last.fm scrobbling gratis?" closed="true" %}}
+{{% ls-details title="Is Last.fm scrobbling gratis?" closed="true" %}}
 Ja. Last.fm biedt een gratis account met volledige scrobbling, luistergeschiedenis en basisaanbevelingen. Een betaald Last.fm Pro abonnement voegt extra functies toe op de Last.fm website, maar is niet vereist voor scrobbling vanuit Evermusic of Flacbox.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Werkt scrobbling als ik offline ben?" closed="true" %}}
+{{% ls-details title="Werkt scrobbling als ik offline ben?" closed="true" %}}
 Ja. Zowel Evermusic als Flacbox slaan je afspeelgeschiedenis lokaal op. Wanneer je weer online gaat, uploaden de apps automatisch de wachtende scrobbles naar Last.fm.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Worden mijn Last.fm inloggegevens opgeslagen door de app?" closed="true" %}}
+{{% ls-details title="Worden mijn Last.fm inloggegevens opgeslagen door de app?" closed="true" %}}
 Nee. De app slaat alleen een beveiligd toegangstoken op in de sleutelhanger van je apparaat. Je gebruikersnaam en wachtwoord worden niet opgeslagen.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Kan ik scrobbelen vanaf zowel iPhone als Mac?" closed="true" %}}
+{{% ls-details title="Kan ik scrobbelen vanaf zowel iPhone als Mac?" closed="true" %}}
 Ja. Evermusic en Flacbox ondersteunen Last.fm scrobbling op iPhone, iPad en Mac. Verbind je account op elk apparaat waarop je afspeelactiviteiten wilt bijhouden.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Hoe stop ik scrobbling zonder mijn Last.fm account te verwijderen?" closed="true" %}}
+{{% ls-details title="Hoe stop ik scrobbling zonder mijn Last.fm account te verwijderen?" closed="true" %}}
 Open het gedeelte **Verbindingen** in Evermusic of Flacbox en tik op **Ontkoppelen** naast Last.fm. Dit verwijdert het toegangstoken en stopt scrobbling terwijl je Last.fm account en geschiedenis intact blijven.
-{{% /details %}}
+{{% /ls-details %}}

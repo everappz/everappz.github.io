@@ -7,7 +7,7 @@ tags: ["מוזיקה", "ענן", "הזרמה", "נגן", "drive", "icloud"]
 readingTime: 5
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **בקצרה:** העלו מוזיקה ל-iCloud Drive, התקינו את [Evermusic](/products/evermusic) (עבור MP3/WAV) או [Flacbox](/products/flacbox) (עבור FLAC/DSD), חברו את תיקיית ה-iCloud Drive שלכם והזרימו ישירות מבלי להשתמש באחסון המכשיר.
@@ -29,8 +29,8 @@ readingTime: 5
 1. גשו ל-App Store והורידו את **Evermusic** אם המוזיקה שלכם מאוחסנת בפורמטים סטנדרטיים כמו mp3 או wav. אם יש לכם מוזיקה ללא אובדן ב-dsd או flac, בחרו ב-**Flacbox**. שתי האפליקציות זמינות ל-iOS ול-MacOS.
 
 {{< cards >}}
-  {{< card link="https://apps.apple.com/us/app/evermusic-cloud-music-player/id885367198" title="הורדת Evermusic ל-iOS" icon="download" tag="חינם" >}}
-  {{< card link="https://apps.apple.com/us/app/flacbox-flac-player-equalizer/id1097564256" title="הורדת Flacbox ל-iOS" icon="download" tag="חינם" >}}
+  {{< ls-card link="https://apps.apple.com/us/app/evermusic-cloud-music-player/id885367198" title="הורדת Evermusic ל-iOS" icon="download" tag="חינם" >}}
+  {{< ls-card link="https://apps.apple.com/us/app/flacbox-flac-player-equalizer/id1097564256" title="הורדת Flacbox ל-iOS" icon="download" tag="חינם" >}}
 {{< /cards >}}
 
 - עבור MacOS:
@@ -38,8 +38,8 @@ readingTime: 5
 1. בקרו ב-App Store במק שלכם והתקינו את **Evermusic** או **Flacbox** בהתאם להעדפות הפורמט המוזיקלי שלכם.
 
 {{< cards >}}
-  {{< card link="https://apps.apple.com/us/app/evermusic-cloud-music-player/id1564384601" title="הורדת Evermusic למק" icon="download" tag="חינם" >}}
-  {{< card link="https://apps.apple.com/us/app/flacbox-hires-music-player/id1594027432" title="הורדת Flacbox למק" icon="download" tag="חינם" >}}
+  {{< ls-card link="https://apps.apple.com/us/app/evermusic-cloud-music-player/id1564384601" title="הורדת Evermusic למק" icon="download" tag="חינם" >}}
+  {{< ls-card link="https://apps.apple.com/us/app/flacbox-hires-music-player/id1594027432" title="הורדת Flacbox למק" icon="download" tag="חינם" >}}
 {{< /cards >}}
 
 לאחר שהתקנתם את האפליקציה באייפון או במק שלכם, אתם מוכנים להמשיך.
@@ -215,22 +215,22 @@ readingTime: 5
 
 ## שאלות נפוצות
 
-{{% details title="אילו פורמטי אודיו אני יכול להזרים מ-iCloud Drive?" closed="true" %}}
+{{% ls-details title="אילו פורמטי אודיו אני יכול להזרים מ-iCloud Drive?" closed="true" %}}
 Evermusic תומך ב-MP3, WAV, AAC ופורמטים סטנדרטיים נוספים. Flacbox מוסיף תמיכה ב-FLAC, DSD, OGG ו-OPUS. בחרו את האפליקציה המתאימה לאוסף המוזיקה שלכם.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="האם הזרמה מ-iCloud Drive משתמשת באחסון המכשיר?" closed="true" %}}
+{{% ls-details title="האם הזרמה מ-iCloud Drive משתמשת באחסון המכשיר?" closed="true" %}}
 לא. גם Evermusic וגם Flacbox מזרימים אודיו ישירות מ-iCloud Drive שלכם מבלי להוריד קבצים למכשיר. תוכלו לבחור להוריד רצועות בודדות להאזנה לא מקוונת.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="האם אני יכול להשתמש במוזיקת iCloud Drive במצב לא מקוון?" closed="true" %}}
+{{% ls-details title="האם אני יכול להשתמש במוזיקת iCloud Drive במצב לא מקוון?" closed="true" %}}
 כן. הקישו על תפריט שלוש הנקודות בכל רצועה ובחרו באפשרות ההורדה. הקובץ יישמר מקומית להשמעה לא מקוונת.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="למה המוזיקה שלי נעצרת או מאגרת במהלך ההשמעה?" closed="true" %}}
+{{% ls-details title="למה המוזיקה שלי נעצרת או מאגרת במהלך ההשמעה?" closed="true" %}}
 זה נגרם בדרך כלל על ידי חיבור אינטרנט איטי או לא יציב. הפעילו את מטמון נגן האודיו בהגדרות כדי להוריד מראש רצועות קרובות ולמנוע הפרעות.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="האם הזרמת מוזיקה מ-iCloud Drive היא בחינם?" closed="true" %}}
+{{% ls-details title="האם הזרמת מוזיקה מ-iCloud Drive היא בחינם?" closed="true" %}}
 גם Evermusic וגם Flacbox ניתנים להורדה בחינם. iCloud Drive מציע 5 GB של אחסון חינמי. תוכלו לשדרג את תוכנית האחסון שלכם ב-iCloud דרך Apple אם אתם צריכים יותר מקום.
-{{% /details %}}
+{{% /ls-details %}}

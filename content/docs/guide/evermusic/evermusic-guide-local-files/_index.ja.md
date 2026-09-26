@@ -20,7 +20,7 @@ readingTime: 8
 この組み込みファイルマネージャーを使用すると、ファイルを編集したり、アプリにオーディオファイルをインポートするさまざまな方法を利用できます。
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evermusic ローカルファイル画面" image="/docs/guide/evermusic/evermusic-guide-local-files/img/local-files-main.webp" >}}
+  {{< ls-card title="" subtitle="Evermusic ローカルファイル画面" image="/docs/guide/evermusic/evermusic-guide-local-files/img/local-files-main.webp" >}}
 {{< /cards >}}
 
 ## クラウドストレージからファイルをダウンロードする
@@ -40,7 +40,7 @@ readingTime: 8
 [こちら](/docs/howto/how-to-transfer-files-from-my-mac-to-iphone-or-ipad-using-finder)で説明されているように、ケーブル接続を使用してファイルを転送します。
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="iTunes / Finder ファイル共有" image="/docs/guide/evermusic/evermusic-guide-local-files/img/local-files-itunes-file-sharing.webp" >}}
+  {{< ls-card title="" subtitle="iTunes / Finder ファイル共有" image="/docs/guide/evermusic/evermusic-guide-local-files/img/local-files-itunes-file-sharing.webp" >}}
 {{< /cards >}}
 
 ## Wi-Fi Drive
@@ -48,7 +48,7 @@ readingTime: 8
 [こちら](/docs/howto/how-to-transfer-files-wirelessly-from-a-computer-to-an-iphone-using-wifi-drive)で説明されているように、ワイヤレスでファイルを転送します。
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Wi-Fi Driveサーバー設定" image="/docs/guide/evermusic/evermusic-guide-local-files/img/local-files-wifidrive-settings.webp" >}}
+  {{< ls-card title="" subtitle="Wi-Fi Driveサーバー設定" image="/docs/guide/evermusic/evermusic-guide-local-files/img/local-files-wifidrive-settings.webp" >}}
 {{< /cards >}}
 
 ## 転送キュー
@@ -56,7 +56,7 @@ readingTime: 8
 ナビゲーションバーの左上隅に「転送」ボタンがあります。タップして転送キューにアクセスし、すべてのダウンロードとアップロードを監視・管理できます。また、アプリ設定で転送キューの速度とネットワークタイプを柔軟に調整できます。
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="ファイル転送キュー" image="/docs/guide/evermusic/evermusic-guide-local-files/img/local-files-file-transfers.webp" >}}
+  {{< ls-card title="" subtitle="ファイル転送キュー" image="/docs/guide/evermusic/evermusic-guide-local-files/img/local-files-file-transfers.webp" >}}
 {{< /cards >}}
 
 ## クイックアクセスセクション
@@ -68,7 +68,7 @@ readingTime: 8
 このセクションには最近開いたすべてのファイルまたはフォルダーが表示されます。
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="最近開いたファイルとフォルダー" image="/docs/guide/evermusic/evermusic-guide-local-files/img/local-files-recents.webp" >}}
+  {{< ls-card title="" subtitle="最近開いたファイルとフォルダー" image="/docs/guide/evermusic/evermusic-guide-local-files/img/local-files-recents.webp" >}}
 {{< /cards >}}
 
 ## お気に入り
@@ -76,7 +76,7 @@ readingTime: 8
 ファイルまたはフォルダーをお気に入りとしてマークして、このセクションでアクセスできます。また、デバイスにあるフォルダーをお気に入りに追加することもできます。これを行うには、お気に入りセクションを開き、右上隅の三点をタップして、「フォルダーを追加」メニュー項目を選択します。プロンプトに従って、デバイスからフォルダーをお気に入りに追加してクイックアクセスを設定します。
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="お気に入り — デバイスからフォルダーを追加" image="/docs/guide/evermusic/evermusic-guide-local-files/img/local-files-favorites.webp" >}}
+  {{< ls-card title="" subtitle="お気に入り — デバイスからフォルダーを追加" image="/docs/guide/evermusic/evermusic-guide-local-files/img/local-files-favorites.webp" >}}
 {{< /cards >}}
 
 ## 上部ツールバー
@@ -91,7 +91,7 @@ readingTime: 8
 上部ツールバーは下にスワイプするジェスチャーで表示または非表示にできます。
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="現在のフォルダーの上部ツールバー" image="/docs/guide/evermusic/evermusic-guide-local-files/img/local-files-top-toolbar.webp" >}}
+  {{< ls-card title="" subtitle="現在のフォルダーの上部ツールバー" image="/docs/guide/evermusic/evermusic-guide-local-files/img/local-files-top-toolbar.webp" >}}
 {{< /cards >}}
 
 ## 特殊フォルダー
@@ -128,7 +128,7 @@ readingTime: 8
 デバイスにあるが別のアプリケーションにあるファイルを表示します。システムファイルピッカーを使用してこのアプリケーションにインポートできます。ピッカーを有効にするには、ファイルを選択するには「ファイルを開く...」を選択し、フォルダーを選択するには「フォルダーを開く...」を選択します。iPhoneまたはMacに保存されているローカル音楽をインポートする方法の詳細な手順は[こちら](/docs/howto/how-to-play-local-music-stored-on-your-iphone-or-mac)でご確認いただけます。デバイスにあるフォルダーを接続して、フォルダーのコンテンツへのクイックアクセスを持つこともできます。「フォルダーを接続する」メニュー項目を使用して、デバイスにあるフォルダーを選択します。「完了」をタップすると、アプリはそのフォルダーへの読み取り/書き込みアクセスを持つリンクを作成し、このアプリから直接ファイルを管理できます。デバイスにあるフォルダーを切断するには、「その他のアクション」ボタンをタップして「切断する」を選択します。
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="このiPhone / iPad / Mac上のファイル" image="/docs/guide/evermusic/evermusic-guide-local-files/img/local-files-on-this-device.webp" >}}
+  {{< ls-card title="" subtitle="このiPhone / iPad / Mac上のファイル" image="/docs/guide/evermusic/evermusic-guide-local-files/img/local-files-on-this-device.webp" >}}
 {{< /cards >}}
 
 ## 接続されたUSBフラッシュカードにあるファイルをインポートする
@@ -151,7 +151,7 @@ iPhoneにUSBフラッシュカードを接続して音楽を聴いたり、そ�
 複数のファイルを編集する必要がある場合は、右上隅のナビゲーションバーにある「...」その他のアクションボタンをタップして「選択する」メニュー項目を選択して選択モードを有効にします。これにより各ファイルの近くにチェックボックスが表示されます。チェックボックスをタップして目的のファイルを選択します。選択したファイルに対して以下のアクションを実行できます。
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="ローカルファイルの選択モードアクション" image="/docs/guide/evermusic/evermusic-guide-local-files/img/local-files-selection-mode.webp" >}}
+  {{< ls-card title="" subtitle="ローカルファイルの選択モードアクション" image="/docs/guide/evermusic/evermusic-guide-local-files/img/local-files-selection-mode.webp" >}}
 {{< /cards >}}
 
 - **次に再生：** 選択したファイルまたはフォルダーを現在の並べ替え順序でプレーヤーキューの先頭に追加します。
@@ -186,7 +186,7 @@ iPhoneにUSBフラッシュカードを接続して音楽を聴いたり、そ�
 ## オフラインフォルダー
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="オフラインフォルダーのその他のアクションメニュー" image="/docs/guide/evermusic/evermusic-guide-local-files/img/local-files-offline-folders.webp" >}}
+  {{< ls-card title="" subtitle="オフラインフォルダーのその他のアクションメニュー" image="/docs/guide/evermusic/evermusic-guide-local-files/img/local-files-offline-folders.webp" >}}
 {{< /cards >}}
 
 オフラインモードは、インターネットに接続されていないときでもお気に入りの音楽にアクセスできる便利な機能です。アルバム、アーティスト、プレイリスト、ジャンル、またはリモートフォルダーに対してオフラインモードを有効にすると、そのコレクション内のすべてのファイルがオフライン再生のためにデバイスに自動的にダウンロードされます。これらのファイルにはアプリの「オフラインフォルダー」セクションから便利にアクセスできます。
@@ -204,7 +204,7 @@ Evermusic & FlacboxでのオフラインMusicの再生方法：クラウドか�
 ローカルファイル画面のほぼすべての動作 — ネットワーク帯域幅からダウンロードの保存先、サムネイルのキャッシュ方法まで — は**設定 → ファイルマネージャー**で設定できます。転送速度を微調整したり、ストレージスペースを節約したり、アプリをWi-Fiのみに制限したいときに開きます。
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="ファイルマネージャー設定画面" image="/docs/guide/evermusic/evermusic-guide-local-files/img/local-files-file-manager-settings.webp" >}}
+  {{< ls-card title="" subtitle="ファイルマネージャー設定画面" image="/docs/guide/evermusic/evermusic-guide-local-files/img/local-files-file-manager-settings.webp" >}}
 {{< /cards >}}
 
 画面では、明確にラベル付けされたセクションにグループ化されたすべてのオプションが表示されます：

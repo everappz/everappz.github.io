@@ -7,7 +7,7 @@ tags: ["cloud", "streaming", "computer", "mp3", "file", "downloader", "manager",
 keywords: ["streaming musik dari Mac ke iPhone", "SMB audio streaming iOS", "pengaturan Evermusic SMB", "menghubungkan musik PC iPhone", "berbagi musik Mac iOS", "SMB Windows streaming file", "akses Evermusic folder PC"]
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **Ringkasan:** Gunakan aplikasi Evermusic untuk iPhone atau iPad untuk streaming musik dari Mac atau Windows PC Anda melalui jaringan lokal menggunakan SMB. Tanpa sinkronisasi, tanpa menyalin -- cukup aktifkan berbagi file di komputer Anda, hubungkan di aplikasi, dan putar. Pengaturan membutuhkan waktu kurang dari 5 menit.
@@ -102,26 +102,26 @@ P.S. Anda juga dapat mentransfer file audio dari MAC/PC ke iPhone menggunakan iT
 
 ## Pertanyaan yang Sering Diajukan
 
-{{% details title="Bisakah saya streaming musik dari PC ke iPhone tanpa iTunes?" closed="true" %}}
+{{% ls-details title="Bisakah saya streaming musik dari PC ke iPhone tanpa iTunes?" closed="true" %}}
 Ya. Evermusic terhubung ke PC Anda melalui SMB di jaringan Wi-Fi lokal Anda. iTunes tidak diperlukan. Cukup aktifkan berbagi file di PC Anda dan hubungkan di aplikasi.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Apakah streaming SMB menggunakan data seluler?" closed="true" %}}
+{{% ls-details title="Apakah streaming SMB menggunakan data seluler?" closed="true" %}}
 Tidak. SMB bekerja melalui jaringan Wi-Fi lokal Anda. Tidak diperlukan koneksi internet atau data seluler.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Format audio apa yang didukung Evermusic melalui SMB?" closed="true" %}}
+{{% ls-details title="Format audio apa yang didukung Evermusic melalui SMB?" closed="true" %}}
 Evermusic mendukung MP3, FLAC, AAC, WAV, AIFF, OGG, WMA, ALAC, dan format audio umum lainnya. File diputar langsung dari share SMB.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Bisakah saya streaming musik dari NAS ke iPhone?" closed="true" %}}
+{{% ls-details title="Bisakah saya streaming musik dari NAS ke iPhone?" closed="true" %}}
 Ya. Jika NAS Anda mendukung SMB (kebanyakan mendukung, termasuk Synology, QNAP, dan WD My Cloud), Anda dapat menghubungkannya menggunakan langkah-langkah yang sama di panduan ini.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Apakah saya perlu menjaga komputer tetap menyala saat streaming?" closed="true" %}}
+{{% ls-details title="Apakah saya perlu menjaga komputer tetap menyala saat streaming?" closed="true" %}}
 Ya. Karena Evermusic streaming file langsung dari komputer Anda, komputer harus menyala dan terhubung ke jaringan yang sama dengan iPhone Anda.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Apakah ada batas ukuran file untuk streaming SMB?" closed="true" %}}
+{{% ls-details title="Apakah ada batas ukuran file untuk streaming SMB?" closed="true" %}}
 Tidak. Evermusic streaming file dengan ukuran berapa pun melalui SMB. File lossless besar (FLAC, WAV) bekerja tanpa masalah.
-{{% /details %}}
+{{% /ls-details %}}

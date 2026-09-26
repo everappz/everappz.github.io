@@ -1,11 +1,12 @@
 ---
+excludeSearch: true
 date: '2025-06-12T17:00:00+00:00'
 title: 'Contact Us'
 aliases:
   - /contact-us/
 ---
 
-{{< lottie src="/images/juicy-json/juicy-girl-typing-on-phone.json" width="60%" >}}
+{{< ls-lottie src="/images/juicy-json/juicy-girl-typing-on-phone.json" width="60%" >}}
 
 ## Postal Address
 
@@ -29,4 +30,4 @@ By sending an email, you confirm that you have read and agree to our [Privacy Po
 
 Subscribe to us on social networks to get the most up-to-date news, app updates, tips, and useful information:
 
-{{< social-cards >}}
+{{< ls-social-cards >}}

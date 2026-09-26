@@ -3,7 +3,9 @@ date: '2025-06-12T17:00:00+00:00'
 title: 'सहायता'
 ---
 
-{{< lottie src="/images/juicy-json/juicy-girl-is-working-on-laptop-at-a-remote-job.json" width="80%" >}}
+{{< ls-lottie src="/images/juicy-json/juicy-girl-is-working-on-laptop-at-a-remote-job.json" width="80%" >}}
+
+{{< ls-docs-search >}}
 
 ## मदद चाहिए? हम आपके लिए यहाँ हैं
 
@@ -19,9 +21,9 @@ title: 'सहायता'
 समय बचाने और तुरंत उत्तर पाने के लिए, कृपया हमारे सबसे उपयोगी संसाधन देखें। कई सामान्य प्रश्नों के उत्तर पहले से उपलब्ध हैं:
 
 {{< cards >}}
-  {{< card icon="book-open" link="/docs/guide" title="उपयोगकर्ता गाइड" >}}
-  {{< card icon="question-mark-circle" link="/docs/faq" title="अक्सर पूछे जाने वाले प्रश्न" >}}
-  {{< card icon="light-bulb" link="/docs/howto" title="कैसे करें" >}}
+  {{< ls-card icon="book-open" link="/docs/guide" title="उपयोगकर्ता गाइड" >}}
+  {{< ls-card icon="question-mark-circle" link="/docs/faq" title="अक्सर पूछे जाने वाले प्रश्न" >}}
+  {{< ls-card icon="light-bulb" link="/docs/howto" title="कैसे करें" >}}
 {{< /cards >}}
 
 ये गाइड हमारे ऐप्स का अधिकतम लाभ उठाने में आपकी मदद के लिए डिज़ाइन किए गए हैं — सेटअप से लेकर उन्नत सुविधाओं तक।

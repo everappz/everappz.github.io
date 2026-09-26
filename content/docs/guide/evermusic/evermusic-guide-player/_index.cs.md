@@ -17,7 +17,7 @@ Přehrávač je hlavní obrazovka aplikace, kde můžete ovládat frontu přehr�
 ## Přístup k přehrávači
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Obrazovka přehrávače zvuku Evermusic" image="/docs/guide/evermusic/evermusic-guide-player/img/player-main.webp" >}}
+  {{< ls-card title="" subtitle="Obrazovka přehrávače zvuku Evermusic" image="/docs/guide/evermusic/evermusic-guide-player/img/player-main.webp" >}}
 {{< /cards >}}
 
 K přehrávači na celou obrazovku se dostanete z pohledu mini přehrávače. Na iPhone najdete mini přehrávač nad lištou karet na hlavní obrazovce. Na iPad nebo Mac je dostupný z levého menu. Pro schování mini přehrávače klepněte na jeho ikonu a přejeďte dolů. Pro úplné skrytí přehrávače na celou obrazovku jednoduše klepněte na tlačítko zavřít umístěné v pravém dolním rohu.
@@ -44,7 +44,7 @@ Pokud máte chuť na trochu náhody, možnost "Náhodné přehrávání" je vaš
 ## Ovládání hlasitosti
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Ovládání hlasitosti s AirPlay a Google Cast" image="/docs/guide/evermusic/evermusic-guide-player/img/player-volume-control.webp" >}}
+  {{< ls-card title="" subtitle="Ovládání hlasitosti s AirPlay a Google Cast" image="/docs/guide/evermusic/evermusic-guide-player/img/player-volume-control.webp" >}}
 {{< /cards >}}
 
 Posuvník hlasitosti najdete na obrazovce Nastavení zvuku klepnutím na ikonu zvuku pod ovládacími prvky přehrávání. Hlasitost můžete změnit pomocí tohoto posuvníku nebo standardních tlačítek hlasitosti na zařízení. Navíc najdete několik praktických streamovacích tlačítek:
@@ -63,7 +63,7 @@ Na druhou stranu, pokud preferujete AirPlay, hledejte tlačítko AirPlay ve spod
 ## Zvukový ekvalizér
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="10pásmový zvukový ekvalizér" image="/docs/guide/evermusic/evermusic-guide-player/img/player-equalizer.webp" >}}
+  {{< ls-card title="" subtitle="10pásmový zvukový ekvalizér" image="/docs/guide/evermusic/evermusic-guide-player/img/player-equalizer.webp" >}}
 {{< /cards >}}
 
 Evermusic je vybaven 10pásmovým ekvalizérem, kompletním s předvolbami ve stylu iPod, předzesilovačem a ručním nastavením ekvalizéru. Pro aktivaci ekvalizéru jednoduše klepněte na tlačítko "Ekvalizér" na spodním panelu nástrojů a přepněte ovládací prvek v pravém horním rohu. Můžete si vybrat z řady předdefinovaných předvoleb ekvalizéru jako "Acoustic", "Bass Booster", "Classical" a dalších. Pokud jste nadšencem zvuku, oceníte možnost jemně doladit každé frekvenční pásmo pomocí posuvníků. Vytvářejte a ukládejte vlastní předvolby zvukového ekvalizéru. Pokud stopa není dostatečně hlasitá, můžete také upravit zesílení předzesilovače. Podrobnější instrukce o používání ekvalizéru najdete [zde](/docs/howto/how-to-use-the-audio-equalizer-on-your-iphone-ipad-mac-with-evermusic-and-flacbox).
@@ -71,7 +71,7 @@ Evermusic je vybaven 10pásmovým ekvalizérem, kompletním s předvolbami ve st
 ## Panel nástrojů režimu přehrávače
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Horní panel nástrojů přehrávače s vyhledáváním a rychlostí" image="/docs/guide/evermusic/evermusic-guide-player/img/player-top-toolbar.webp" >}}
+  {{< ls-card title="" subtitle="Horní panel nástrojů přehrávače s vyhledáváním a rychlostí" image="/docs/guide/evermusic/evermusic-guide-player/img/player-top-toolbar.webp" >}}
 {{< /cards >}}
 
 Pro vybrané styly obrazovky přehrávače najdete panel nástrojů režimu přehrávače v horní části obrazovky přehrávače, těsně pod navigační lištou. Tento praktický panel nástrojů obsahuje tři tlačítka.
@@ -82,7 +82,7 @@ Pro vybrané styly obrazovky přehrávače najdete panel nástrojů režimu pře
 ## Zvukové záložky
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Zvukové záložky pro audioknihy a přednášky" image="/docs/guide/evermusic/evermusic-guide-player/img/player-bookmarks.webp" >}}
+  {{< ls-card title="" subtitle="Zvukové záložky pro audioknihy a přednášky" image="/docs/guide/evermusic/evermusic-guide-player/img/player-bookmarks.webp" >}}
 {{< /cards >}}
 
 Zde můžete vytvářet více záložek pro stopy ve vaší hudební knihovně. Kompletní instrukce o používání záložek najdete [zde](/docs/howto/how-to-listen-to-audiobooks-on-iphone-ipad-mac-using-evermusic).
@@ -90,7 +90,7 @@ Zde můžete vytvářet více záložek pro stopy ve vaší hudební knihovně. 
 ## Fronta přehrávače
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Fronta přehrávače" image="/docs/guide/evermusic/evermusic-guide-player/img/player-queue.webp" >}}
+  {{< ls-card title="" subtitle="Fronta přehrávače" image="/docs/guide/evermusic/evermusic-guide-player/img/player-queue.webp" >}}
 {{< /cards >}}
 
 Pro přístup k frontě přehrávače jednoduše klepněte na tlačítko fronty přehrávače umístěné na spodním panelu nástrojů. Pro přesun skladby ve frontě použijte indikátor přeřazení vedle názvu.
@@ -98,7 +98,7 @@ Pro přístup k frontě přehrávače jednoduše klepněte na tlačítko fronty 
 ## Komentáře / Texty
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Komentáře, vložené texty a soubory LRC" image="/docs/guide/evermusic/evermusic-guide-player/img/player-lyrics.webp" >}}
+  {{< ls-card title="" subtitle="Komentáře, vložené texty a soubory LRC" image="/docs/guide/evermusic/evermusic-guide-player/img/player-lyrics.webp" >}}
 {{< /cards >}}
 
 Pro zobrazení komentářů stop a vložených textů, stejně jako souborů LRC, postupujte takto:
@@ -114,7 +114,7 @@ Kompletní instrukce o zobrazení textů najdete [zde](/docs/howto/how-to-view-e
 ## Nabídka možností
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Nabídka možností pro položku fronty" image="/docs/guide/evermusic/evermusic-guide-player/img/player-queue-item-options-menu.webp" >}}
+  {{< ls-card title="" subtitle="Nabídka možností pro položku fronty" image="/docs/guide/evermusic/evermusic-guide-player/img/player-queue-item-options-menu.webp" >}}
 {{< /cards >}}
 
 Každá skladba ve frontě přehrávače zvuku má nabídku s dalšími akcemi, ke které se dostanete klepnutím na tlačítko tří teček vedle názvu skladby. Dostupné akce jsou:
@@ -153,7 +153,7 @@ Klepněte na tlačítko dalších akcí "..." na levé straně názvu aktuálně
 ## Nedávné a Oblíbené
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Naposledy přehrávané skladby z přehrávače" image="/docs/guide/evermusic/evermusic-guide-player/img/player-recents.webp" >}}
+  {{< ls-card title="" subtitle="Naposledy přehrávané skladby z přehrávače" image="/docs/guide/evermusic/evermusic-guide-player/img/player-recents.webp" >}}
 {{< /cards >}}
 
 Na obrazovce přehrávače můžete přistupovat k sekcím "Nedávné" a "Oblíbené" klepnutím na tlačítko Další akce "…" a výběrem příslušné položky nabídky. V obou sekcích můžete vyhledávat skladby, přehrávat všechny stopy, zamíchat všechny stopy, exportovat seznam a smazat seznam. Podrobné instrukce o exportu seznamů skladeb najdete [zde](/docs/howto/export-tracks-collection-from-evermusic-flacbox-to-m3u-csv-txt/).
@@ -161,7 +161,7 @@ Na obrazovce přehrávače můžete přistupovat k sekcím "Nedávné" a "Oblíb
 ## Okno mini přehrávače (exkluzivně pro Mac)
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Okno mini přehrávače Mac" image="/docs/guide/evermusic/evermusic-guide-player/img/player-mini-mac.webp" >}}
+  {{< ls-card title="" subtitle="Okno mini přehrávače Mac" image="/docs/guide/evermusic/evermusic-guide-player/img/player-mini-mac.webp" >}}
 {{< /cards >}}
 
 Pro uživatele Mac je k dispozici praktické okno mini přehrávače. Pro přístup k němu jednoduše přesuňte kurzor na pravý dolní okraj okna aplikace a změňte jeho velikost na nejmenší možnou. Poté klepněte na tlačítko sbalení (zobrazeno jako šipka dolů) pro aktivaci okna mini přehrávače. Pokud ho chcete udržet nad ostatními okny, přejděte do horní nabídky Macu, vyberte "Okno" a zvolte "Zobrazit okno vždy nahoře". Tato funkce je zvláště praktická při poslechu zvukových přednášek, kdy nechcete žádná přerušení.
@@ -169,7 +169,7 @@ Pro uživatele Mac je k dispozici praktické okno mini přehrávače. Pro přís
 ## Klávesové zkratky (exkluzivně pro Mac)
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Nabídka přehrávání v stavovém řádku Mac s klávesovými zkratkami" image="/docs/guide/evermusic/evermusic-guide-player/img/player-mac-shortcuts.webp" >}}
+  {{< ls-card title="" subtitle="Nabídka přehrávání v stavovém řádku Mac s klávesovými zkratkami" image="/docs/guide/evermusic/evermusic-guide-player/img/player-mac-shortcuts.webp" >}}
 {{< /cards >}}
 
 Pro uživatele Mac je na stavovém řádku k dispozici systémová nabídka přehrávání s klávesovými zkratkami. Například pro Přehrát/Pozastavit stačí klepnout na mezerník na klávesnici. Zkratky pro Zastavit, Další skladba, Předchozí skladba, Přeskočit čas, Opakování, Náhodné přehrávání a Rychlost přehrávání jsou dostupné, jak je znázorněno na snímku obrazovky.
@@ -177,7 +177,7 @@ Pro uživatele Mac je na stavovém řádku k dispozici systémová nabídka pře
 ## Nastavení přehrávače zvuku
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Nastavení přehrávače zvuku" image="/docs/guide/evermusic/evermusic-guide-player/img/player-settings.webp" >}}
+  {{< ls-card title="" subtitle="Nastavení přehrávače zvuku" image="/docs/guide/evermusic/evermusic-guide-player/img/player-settings.webp" >}}
 {{< /cards >}}
 
 Pro přístup k nastavení přehrávače zvuku klepněte na tlačítko Více na obrazovce přehrávače zvuku a z rozevírací nabídky vyberte "Nastavení". Zde najdete různé sekce seskupené podle funkčnosti:

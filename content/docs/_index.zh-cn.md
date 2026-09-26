@@ -4,7 +4,9 @@ title: '文档'
 ---
 
 
-{{< lottie src="/images/juicy-json/juicy-girl-and-boy-searching-for-the-right-files.json" width="90%" >}}
+{{< ls-lottie src="/images/juicy-json/juicy-girl-and-boy-searching-for-the-right-files.json" width="90%" >}}
+
+{{< ls-docs-search >}}
 
 本节包含所有 Everappz 应用的实用文档——包括安装说明、功能介绍和高级技巧。
 
@@ -13,9 +15,9 @@ title: '文档'
 ## 开始
 
 {{< cards >}}
-  {{< card icon="book-open" link="/docs/guide" title="用户指南" >}}
-  {{< card icon="question-mark-circle" link="/docs/faq" title="常见问题解答" >}}
-  {{< card icon="light-bulb" link="/docs/howto" title="使用教程" >}}
+  {{< ls-card icon="book-open" link="/docs/guide" title="用户指南" >}}
+  {{< ls-card icon="question-mark-circle" link="/docs/faq" title="常见问题解答" >}}
+  {{< ls-card icon="light-bulb" link="/docs/howto" title="使用教程" >}}
 {{< /cards >}}
 
 - **用户指南**帮助您安装、配置并充分利用我们的应用。
@@ -31,5 +33,5 @@ title: '文档'
 有关我们服务的法律政策、数据处理实践和用户协议，请参阅以下法律文件：
 
 {{< cards >}}
-  {{< card icon="document-text" link="/legal" title="法律中心" >}}
+  {{< ls-card icon="document-text" link="/legal" title="法律中心" >}}
 {{< /cards >}}

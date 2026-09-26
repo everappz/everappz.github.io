@@ -9,7 +9,7 @@ aliases:
   - /post/how-to-use-audio-sound-effects-in-evermusic-reverb-delay-distortion-compressor-crossfeed/
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 **TL;DR:** Evermusic includes six real-time audio effects — **Volume Normalization, Compressor, Reverb, Crossfeed, Delay, and Distortion**. Open them from the player's **⋯ (More) menu > Audio effects**, or from **Settings > Audio player > Audio effects**. Tap an effect, turn its switch **ON** (top-right), pick a **preset**, and optionally open **Advanced mode** to fine-tune the sliders. Each effect works independently and applies in real time to everything you play — local files, cloud streams, and internet radio — with no re-encoding.
 
@@ -164,38 +164,38 @@ They also work alongside Evermusic's **10-band graphic equalizer** and its **gap
 
 ## FAQ
 
-{{% details title="How do I add reverb, delay, or other effects to my music in Evermusic?" closed="true" %}}
+{{% ls-details title="How do I add reverb, delay, or other effects to my music in Evermusic?" closed="true" %}}
 Open the player, tap the ⋯ (More) button, and choose Audio effects (or go to Settings > Audio player > Audio effects). Tap the effect you want, turn its switch ON at the top-right, and pick a preset. Open Advanced mode to fine-tune the sliders. The effect applies immediately to whatever is playing.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="What audio effects does Evermusic have?" closed="true" %}}
+{{% ls-details title="What audio effects does Evermusic have?" closed="true" %}}
 Six real-time effects: Volume Normalization (EBU R128 loudness leveling), Compressor (dynamics), Reverb (space and echo tail), Crossfeed (natural headphone imaging), Delay (echo), and Distortion (lo-fi grit). Each is independent and can be used alone or combined.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Do the effects change or damage my audio files?" closed="true" %}}
+{{% ls-details title="Do the effects change or damage my audio files?" closed="true" %}}
 No. All effects are applied in real time during playback only. They never modify or re-encode your files. Turn an effect off and your original sound returns instantly.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Can I use more than one effect at the same time?" closed="true" %}}
+{{% ls-details title="Can I use more than one effect at the same time?" closed="true" %}}
 Yes. Every effect is independent — there is no master switch — so you can enable any combination. For example, Volume Normalization plus Compressor for consistent, easy listening, or Reverb plus Crossfeed on headphones.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="What is Crossfeed and should I use it?" closed="true" %}}
+{{% ls-details title="What is Crossfeed and should I use it?" closed="true" %}}
 Crossfeed blends a small, filtered amount of each stereo channel into the other so headphones sound more like real speakers, reducing the "in-your-head" feeling of hard-panned mixes. It is a headphone effect (leave it off for speakers). It is built on the Bauer stereophonic-to-binaural (bs2b) algorithm and includes presets like Chu Moy and Jan Meier.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="What is Volume Normalization and how is it different from ReplayGain?" closed="true" %}}
+{{% ls-details title="What is Volume Normalization and how is it different from ReplayGain?" closed="true" %}}
 Volume Normalization keeps every track at a consistent loudness by measuring perceived loudness with the EBU R128 standard and leveling toward a target. Unlike ReplayGain, it does not need loudness tags in your files and does not alter the audio — it works live on any source, including cloud streams and internet radio. Presets: Light, Standard, Strong, and Night.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="What is the difference between Simple and Advanced mode?" closed="true" %}}
+{{% ls-details title="What is the difference between Simple and Advanced mode?" closed="true" %}}
 Simple mode shows a list of presets with plain descriptions, so you can get a good sound in one tap. Advanced mode adds the parameter sliders (for example, Mix for Reverb, or the seven Compressor controls) for precise fine-tuning. Toggle between them with the mode button at the top-right of each effect editor.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Why are the effect controls greyed out?" closed="true" %}}
+{{% ls-details title="Why are the effect controls greyed out?" closed="true" %}}
 The effect is turned off. Turn on the effect's switch at the top-right of its editor to activate the controls. Every effect is off by default.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Do the effects work with streaming and CarPlay?" closed="true" %}}
+{{% ls-details title="Do the effects work with streaming and CarPlay?" closed="true" %}}
 Yes. The effects run inside the playback engine, so they apply to local files, cloud drives, media servers, and internet radio, and they keep working during CarPlay playback.
-{{% /details %}}
+{{% /ls-details %}}

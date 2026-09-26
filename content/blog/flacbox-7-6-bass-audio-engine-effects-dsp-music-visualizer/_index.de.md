@@ -12,7 +12,7 @@ authors:
     image: "/images/about/artem-meleshko-founder-everappz.webp"
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 **Kurzfassung:** [Flacbox 7.6](/products/flacbox) ist unser bisher größtes Update für den Hi-Res-Audioplayer auf iPhone, iPad und Mac, und es dreht sich rund um eine brandneue **BASS™-Audio-Engine** für verlustfreies und hochauflösendes Hören. Sie können die BASS™-Engine als alternativen Wiedergabekern auswählen und damit eine komplette Kette von **Echtzeit-Audioeffekten**, einen **DSP-Prozessor mit 14 Filtern**, einen **Live-Vollbild-Musik-Visualizer** und die Wiedergabe klassischer **Tracker- und MOD-Musik** (MOD, XM, IT, S3M, MTM, UMX, MO3) freischalten. Das Update bringt außerdem eine **automatische lautheitsbasierte Lautstärkeangleichung**, eine **Studio-Suite mit elf Effekten** (Reverb, Delay, Multi-Tap-Echo, Chorus, Flanger, Phaser, Auto-Wah, Distortion, Kompressor, Stereo-Rotation und Crossfeed), ein **überarbeitetes Effekt- und Equalizer-Design** mit modernen Glas-Reglern sowie **CarPlay-Verbesserungen** – darunter DSP-Einstellungen im Auto und genauere Sperrbildschirm-, Watch- und Autosteuerungen. Unter der Haube: ein zuverlässigeres Streaming-Fundament, eine bessere Handhabung von Dateitypen, breitere Lokalisierung sowie viele Stabilitäts- und Leistungsverbesserungen.
 
@@ -139,50 +139,50 @@ Vielen Dank, dass Sie Flacbox nutzen. Ihre Musik klingt jetzt großartig und sie
 
 ## Häufig gestellte Fragen
 
-{{% details title="Was ist neu in Flacbox 7.6?" closed="true" %}}
+{{% ls-details title="Was ist neu in Flacbox 7.6?" closed="true" %}}
 Flacbox 7.6 bringt eine neue professionelle **BASS™-Audio-Engine**, die Sie als alternativen Wiedergabekern auswählen können, eine **automatische lautheitsbasierte Lautstärkeangleichung**, eine **Studio-Suite mit elf Effekten** (Reverb, Delay, Multi-Tap-Echo, Chorus, Flanger, Phaser, Auto-Wah, Distortion, Kompressor, Stereo-Rotation und Crossfeed), einen **Echtzeit-DSP-Prozessor mit 14 Filtern**, einen **Vollbild-Echtzeit-Musik-Visualizer**, native **Tracker- und MOD**-Wiedergabe (MOD, XM, IT, S3M, MTM, UMX, MO3), ein **überarbeitetes Effekt- und Equalizer-Design** sowie **CarPlay-Verbesserungen**. Außerdem enthält es ein zuverlässigeres Streaming-Fundament, eine bessere Handhabung von Dateitypen, breitere Lokalisierung sowie viele Stabilitäts- und Leistungsverbesserungen.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Was ist die neue BASS™-Audio-Engine in Flacbox?" closed="true" %}}
+{{% ls-details title="Was ist die neue BASS™-Audio-Engine in Flacbox?" closed="true" %}}
 Die [BASS™](https://www.un4seen.com)-Audio-Engine, die auf der BASS™-Audiobibliothek von un4seen Developments basiert, ist ein professioneller Wiedergabekern, den Sie als **Alternative zur bestehenden Engine von Flacbox** wählen können. Nach der Auswahl schaltet sie eine komplette Kette von Echtzeit-Audioeffekten, einen DSP-Prozessor und Live-Visualisierung frei und ergänzt die Wiedergabe klassischer Tracker- und MOD-Musik. Sie gibt Ihre bestehende verlustfreie und Hi-Res-Bibliothek (FLAC, DSD, ALAC, APE und mehr) mit **hochwertigem Resampling** und **präziser Tonhöhen- und Temposteuerung** wieder. Sie können jederzeit zur klassischen Engine zurückwechseln.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Welche Audioformate und Tracker/MOD-Typen spielt Flacbox 7.6 ab?" closed="true" %}}
+{{% ls-details title="Welche Audioformate und Tracker/MOD-Typen spielt Flacbox 7.6 ab?" closed="true" %}}
 Flacbox bleibt ein Hi-Res- und verlustfreier Player und verarbeitet **FLAC, DSD, APE, ALAC, WAV, AIFF, MP3, AAC, Opus** und mehr. Neu in 7.6: Die BASS™-Engine spielt außerdem klassische **Tracker- und Modulmusik** ab: **MOD, XM, IT, S3M, MTM, UMX und MO3** – die Pattern-und-Sample-Formate aus Chiptune- und Demoscene-Musik, die die meisten iPhone-Player nicht öffnen können.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Wie funktioniert die automatische Lautstärkeangleichung in Flacbox?" closed="true" %}}
+{{% ls-details title="Wie funktioniert die automatische Lautstärkeangleichung in Flacbox?" closed="true" %}}
 Flacbox 7.6 nutzt die **EBU R128-Lautheitsmessung** (den ITU-R BS.1770-Standard), um Titel aus verschiedenen Alben auf einer einheitlichen wahrgenommenen Lautstärke zu halten, sodass Sie die Lautstärke nicht zwischen den Songs anpassen müssen. Für **lokale Dateien wird Ihre Bibliothek vorab gescannt**, sodass die Wiedergabe bereits angeglichen startet – es gibt keine Verzögerung, während die App nach dem Start eines Titels die Lautheit misst. Vier Voreinstellungen stehen zur Verfügung – **Leicht** (−20 LUFS), **Standard** (−16 LUFS), **Stark** (−14 LUFS) und **Nacht** (−23 LUFS) – und sie funktionieren über gemischte Bibliotheken, Compilations und Shuffle-Sessions hinweg.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Welche Audioeffekte enthält Flacbox 7.6?" closed="true" %}}
+{{% ls-details title="Welche Audioeffekte enthält Flacbox 7.6?" closed="true" %}}
 Elf Echtzeit-Effekte, die Sie während der Wiedergabe stapeln und feinjustieren können: **Reverb, Delay, Multi-Tap-Echo, Chorus, Flanger, Phaser, Auto-Wah, Distortion, Kompressor, Stereo-Rotation und Crossfeed**. Jeder Effekt hat **seinen eigenen Bildschirm, eine Bibliothek mit Voreinstellungen und einen sofortigen Ein/Aus-Schalter**, und Flacbox merkt sich Ihre Einstellungen zwischen den Sessions. Crossfeed sorgt insbesondere dafür, dass hart gepannte Aufnahmen auf Kopfhörern natürlicher klingen.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Was ist der DSP-Prozessor und welche Filter enthält er?" closed="true" %}}
+{{% ls-details title="Was ist der DSP-Prozessor und welche Filter enthält er?" closed="true" %}}
 Der DSP-Prozessor lässt Sie **Ihre eigene Echtzeit-Signalkette aus 14 Filtern bauen**: Gain, Tiefpass-, Hochpass-, Bandpass- und Notch-Filter, Peaking-EQ, Low-Shelf- und High-Shelf-EQ, Soft-Clip-Sättigung, Bit Crusher, Tremolo, Delay, Ringmodulator und Stereo-Breite. Jeder Filter hat **Voreinstellungen und einen sofortigen Ein/Aus-Schalter**, sodass Sie einen Raum korrigieren, harsche Aufnahmen zähmen oder einen völlig eigenen Klang gestalten können.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Was ist Crossfeed und warum sollte ich es auf Kopfhörern nutzen?" closed="true" %}}
+{{% ls-details title="Was ist Crossfeed und warum sollte ich es auf Kopfhörern nutzen?" closed="true" %}}
 Crossfeed mischt einen kleinen, gefilterten Anteil jedes Stereokanals in den anderen – so, wie Ihre Ohren echte Lautsprecher in einem Raum natürlich wahrnehmen. Auf Kopfhörern verringert dies die übertriebene, „im-Kopf“ empfundene Trennung hart gepannter Aufnahmen und macht langes Hören angenehmer. Besonders wirkungsvoll ist es bei älteren Stereomischungen aus den 1960er- und 1970er-Jahren.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Funktioniert der Flacbox-Musik-Visualizer auf allen Geräten?" closed="true" %}}
+{{% ls-details title="Funktioniert der Flacbox-Musik-Visualizer auf allen Geräten?" closed="true" %}}
 Ja. Der **Echtzeit-Musik-Visualizer** zeigt animierte Vollbild-Visuals, die live auf Ihre Musik reagieren, mit einer großen Bibliothek an Voreinstellungen, aus denen Sie wählen oder die automatisch durchlaufen können. Er ist **über alle Wiedergabe-Engines auf all Ihren Geräten** verfügbar, und ein eingebauter **Bildschirmschlaf-Verhinderer** hält das Display wach, sodass die Visuals während eines Songs nicht abbrechen.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Kann ich Tonhöhe und Tempo unabhängig voneinander ändern?" closed="true" %}}
+{{% ls-details title="Kann ich Tonhöhe und Tempo unabhängig voneinander ändern?" closed="true" %}}
 Ja. Wenn Sie die neue BASS™-Engine verwenden, bietet Flacbox 7.6 eine **präzise, unabhängige Tonhöhen- und Temposteuerung** – ändern Sie die Geschwindigkeit eines Titels, ohne seine Tonart zu ändern, oder verschieben Sie die Tonart, ohne die Geschwindigkeit zu ändern. Das ist nützlich zum Üben, Transkribieren und für DJ-Style-Hören.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Was wurde bei CarPlay in Flacbox 7.6 verbessert?" closed="true" %}}
+{{% ls-details title="Was wurde bei CarPlay in Flacbox 7.6 verbessert?" closed="true" %}}
 CarPlay enthält jetzt **DSP-Einstellungen**, sodass Sie Ihre Konfiguration vom Auto aus erreichen, eine **korrigierte Darstellung von Albumcover und „Sie hören“-Ansicht** sowie **genauere Sperrbildschirm-, Apple Watch- und Autosteuerungen**, die mit der Wiedergabe synchron bleiben. In Kombination mit dem zuverlässigeren Streaming-Fundament wird das Hören Ihrer verlustfreien Bibliothek unterwegs geschmeidiger.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Funktionieren die Effekte, DSP und der Equalizer mit Cloud-Streaming?" closed="true" %}}
+{{% ls-details title="Funktionieren die Effekte, DSP und der Equalizer mit Cloud-Streaming?" closed="true" %}}
 Ja. Die Effekte, DSP-Filter, der Equalizer und die Lautstärkeangleichung laufen in Echtzeit innerhalb der BASS™-Wiedergabe-Engine, sodass sie auf alles angewendet werden, was Flacbox abspielt – **lokale Dateien, Cloud-Laufwerke (iCloud Drive, Google Drive, Dropbox, OneDrive und mehr), Medienserver und Netzwerkfreigaben** – ohne Neukodierung Ihrer Dateien.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Ist Flacbox 7.6 ein kostenloses Update, und welche Geräte werden unterstützt?" closed="true" %}}
+{{% ls-details title="Ist Flacbox 7.6 ein kostenloses Update, und welche Geräte werden unterstützt?" closed="true" %}}
 Ja. Flacbox ist ein **kostenloser Download** im App Store, und 7.6 ist ein **kostenloses Update** für bestehende Nutzer, mit optionalen In-App-Upgrades für erweiterte Funktionen. Es läuft auf **iPhone, iPad und Mac**. CarPlay erfordert ein CarPlay-kompatibles Fahrzeug oder Autoradio.
-{{% /details %}}
+{{% /ls-details %}}

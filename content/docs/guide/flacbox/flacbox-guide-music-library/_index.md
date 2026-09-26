@@ -22,7 +22,7 @@ readingTime: 11
 Managing your music library is a breeze with Flacbox, where you can effortlessly organize all your tracks — local FLAC, ALAC, DSD, MP3, M4A, OGG, WMA, APE, and dozens of other formats — into a single, searchable collection. You have two options for building your music library: manual addition (you pick exactly what gets added) or automatic synchronization (Flacbox scans designated cloud folders and adds new files automatically as they appear).
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox Music Library Albums View" image="/docs/guide/flacbox/img/media-library-albums.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox Music Library Albums View" image="/docs/guide/flacbox/img/media-library-albums.webp" >}}
 {{< /cards >}}
 
 ## Manual Addition
@@ -30,7 +30,7 @@ Managing your music library is a breeze with Flacbox, where you can effortlessly
 To manually add tracks, tap the **Add Music** icon located in the top-left corner and pick folders or files from a connected cloud storage service or files located on your device. When you add tracks to the library, only links to those tracks are created — the actual files stay in their original locations to save valuable disk space. If you want to make tracks available offline, you can use the Download action from the options menu or enable Offline Mode for playlists and track collections.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox Add Songs to the Music Library" image="/docs/guide/flacbox/img/library-add-songs.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox Add Songs to the Music Library" image="/docs/guide/flacbox/img/library-add-songs.webp" >}}
 {{< /cards >}}
 
 You can also drag-and-drop files into the library on the Mac version, or use **Open Files…** / **Open Folder…** from the system file picker on iPhone and iPad.
@@ -92,7 +92,7 @@ Located just beneath the navigation bar, the top toolbar offers several convenie
 The search feature empowers you to locate a specific track, artist, album, or genre within your music library. Within the Search screen, you have access to Sort, Filter, and Grid / List view actions. Search runs locally against the music library database, so it works fully offline and returns results as you type.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox Music Library Search" image="/docs/guide/flacbox/img/media-library-search.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox Music Library Search" image="/docs/guide/flacbox/img/media-library-search.webp" >}}
 {{< /cards >}}
 
 ## Options Menu
@@ -143,7 +143,7 @@ When you open the Artist, Album Artist, or Composer sections, you can see a swit
 This is especially useful for cleaning up cluttered “Various Artists” compilations in large libraries.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox Album Detail Screen" image="/docs/guide/flacbox/img/media-library-album-details-screen.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox Album Detail Screen" image="/docs/guide/flacbox/img/media-library-album-details-screen.webp" >}}
 {{< /cards >}}
 
 ## Settings

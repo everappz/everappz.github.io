@@ -7,7 +7,7 @@ tags: ["音樂", "音訊", "播放器", "iphone", "播放", "離線", "下載", 
 readingTime: 5
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **摘要：** 使用瀏覽器轉換器或免費的 ClipGrab 桌面應用程式將 YouTube 影片轉換為 MP3。然後將音訊檔案匯入 iPhone 或 Mac 上的 Evermusic 進行離線播放——無需網路連線。
@@ -221,30 +221,30 @@ Evermusic 允許您即使在離線狀態下也能播放 YouTube 歌曲。此功�
 
 P.S. YouTube 上還有一些**影片教學**：
 <br><br>
-{{< youtubecard id="TlVpbRvAiwA" title="Descargar Música Gratis Para IOS" >}}
+{{< ls-youtubecard id="TlVpbRvAiwA" title="Descargar Música Gratis Para IOS" >}}
 <br><br>
-{{< youtubecard id="jSDuNguZZNE" title="Evermusic: Free Offline Music Player for iOS (iPhone/iPod/iPad) | Music Files Organization" >}}
+{{< ls-youtubecard id="jSDuNguZZNE" title="Evermusic: Free Offline Music Player for iOS (iPhone/iPod/iPad) | Music Files Organization" >}}
 <br><br>
-{{< youtubecard id="-kY48ktbo2M" title="テクノロジー塾】おすすめiPhone 音楽アプリ「ever music」ストック型篇" >}}
+{{< ls-youtubecard id="-kY48ktbo2M" title="テクノロジー塾】おすすめiPhone 音楽アプリ「ever music」ストック型篇" >}}
 
 ## 常見問題
 
-{{% details title="從 YouTube 下載音樂合法嗎？" closed="true" %}}
+{{% ls-details title="從 YouTube 下載音樂合法嗎？" closed="true" %}}
 這取決於內容的版權狀態。免版稅和 Creative Commons 內容通常可以下載供個人使用。受版權保護的音樂需要適當的授權或許可。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Evermusic 支援哪些音訊格式？" closed="true" %}}
+{{% ls-details title="Evermusic 支援哪些音訊格式？" closed="true" %}}
 Evermusic 支援 MP3、FLAC、AAC、WAV、OGG、AIFF 和許多其他音訊格式。您幾乎可以播放任何下載的音訊檔案。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="沒有網路連線可以使用 Evermusic 嗎？" closed="true" %}}
+{{% ls-details title="沒有網路連線可以使用 Evermusic 嗎？" closed="true" %}}
 可以。音訊檔案匯入 Evermusic 後，您可以完全離線播放——無需網路連線。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="ClipGrab 是免費的嗎？" closed="true" %}}
+{{% ls-details title="ClipGrab 是免費的嗎？" closed="true" %}}
 是的。ClipGrab 是免費的，適用於 Mac 和 Windows。它使用開源 youtube-dlp 函式庫進行下載。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="如何將下載的音樂從 Mac 傳輸到 iPhone？" closed="true" %}}
+{{% ls-details title="如何將下載的音樂從 Mac 傳輸到 iPhone？" closed="true" %}}
 您可以使用 AirDrop、iTunes 檔案共享或 Evermusic 內建的 Wi-Fi Drive 功能將音訊檔案從 Mac 傳輸到 iPhone。
-{{% /details %}}
+{{% /ls-details %}}

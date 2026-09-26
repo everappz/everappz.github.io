@@ -12,7 +12,7 @@ authors:
     image: "/images/about/artem-meleshko-founder-everappz.webp"
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 **要点:** [Evertag 4.2](/products/evertag) はiPhone、iPad、Mac向けのオーディオ・タグエディタの大型アップデートです。タグ編集の主要な不具合を修正し、6件以上の新規クラウド/サーバー接続(**Internxt**、**Proton Drive**、**QNAP**、**Nextcloud**、**Amazon S3**)に加えて **FTP**、**SFTP**、**NFS** プロトコルを追加しました。Wi-Fi Driveは刷新されたUI、複数選択モード、賢くなったアップロードキュー、より高速な転送を備えます。アプリ全体は **Liquid Glass** デザインに合わせて整えられました。本記事ではEvertagのタグエディタ設定にも深く踏み込みます — **ID3v2.4とID3v2.3**、**アルバムアートのスケーリング**、**タグの重複**、**クラウドアップロードモード**、**ダウンロードしたファイルの削除**、そして **Spotify**、**Apple Music**、**Plex**、**Jellyfin** ほかストリーミングサービス向けにオーディオを準備する際の最適な選び方を詳しく解説します。
 
@@ -229,50 +229,50 @@ App Storeのレビューや support@everappz.com へのメールに基づく多�
 
 ## よくある質問
 
-{{% details title="Evertag 4.2 の新機能は?" closed="true" %}}
+{{% ls-details title="Evertag 4.2 の新機能は?" closed="true" %}}
 Evertag 4.2は、6件以上の新規クラウド/サーバー接続(Internxt、Proton Drive、QNAP、Nextcloud、Amazon S3、FTP、SFTP、NFS)、複数選択と賢くなったアップロードキューを持つ刷新されたWi-Fi Drive、Liquid GlassのUI更新、接続ライブラリの更新、タグ編集の主要バグ修正、翻訳の改善を導入します。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="EvertagでID3v2.4とID3v2.3のどちらを使うべき?" closed="true" %}}
+{{% ls-details title="EvertagでID3v2.4とID3v2.3のどちらを使うべき?" closed="true" %}}
 Evermusic、Plex、Jellyfin、Apple Music、foobar2000、VLC、最近のAndroidアプリのような **モダンなプレーヤー** や、非ラテン文字を含むライブラリには **ID3v2.4** を使ってください — UTF-8対応により中国語、韓国語、日本語、ロシア語、アラビア語、ヘブライ語のタグがよりきれいになります。一部アプリでタグが正しく表示されない、古い車載ステレオを対象にしている、ストリーミングのディストリビューターのパイプラインがv2.4を拒否する、といった場合は **ID3v2.3** を使ってください。いつでも切り替えて再保存できます。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="編集後にSpotifyでタグが間違って表示されるのはなぜ?" closed="true" %}}
+{{% ls-details title="編集後にSpotifyでタグが間違って表示されるのはなぜ?" closed="true" %}}
 Spotifyはほとんどの場合、自社カタログのメタデータを表示します — ローカルのタグは「Local Files」やアーティストとしてアップロードしたコンテンツでのみ使われます。Spotify Local Files向けにファイルをタグ付けして正しく表示されないなら、EvertagでID3v2.4をオフにしてID3v2.3として保存してみてください — Spotifyのパーサーは歴史的にv2.4に対して保守的です。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Evertagでアルバムアートのサイズはどれを選べばいい?" closed="true" %}}
+{{% ls-details title="Evertagでアルバムアートのサイズはどれを選べばいい?" closed="true" %}}
 ほとんどのユーザーには **大** がおすすめです。スマホ、iPad、Mac、最新の車載ディスプレイで美しく見え、ファイルサイズの肥大も抑えられます。巨大なライブラリでディスクを節約したいなら **中** を、アーカイブ用マスターや本当に最大画質が必要なときだけ **オリジナル**(スケーリングなし)を選んでください。一部の古いプレーヤーは非常に大きな埋め込みアートワークが苦手です。**オリジナル** はEvertagのプレミアムパーソナライゼーションのアップグレードに含まれます。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="アルバムアートを大きくするとファイルも大きくなりますか?" closed="true" %}}
+{{% ls-details title="アルバムアートを大きくするとファイルも大きくなりますか?" closed="true" %}}
 はい。3,000 × 3,000 px のアートワークを埋め込むと、1つのオーディオファイルにメガバイト単位のサイズが加わります。1,000曲のライブラリ全体ではギガバイトに達します。ストレージが厳しいなら 中 または 大 を、サイズを気にしなくてよいNASからストリーミングするなら 特大 または オリジナル でも問題ありません。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="タグの重複とは何で、有効化すべきですか?" closed="true" %}}
+{{% ls-details title="タグの重複とは何で、有効化すべきですか?" closed="true" %}}
 タグの重複は、ファイルのID3v1(レガシーの128バイト)とID3v2(モダン)の両セクションにコアメタデータを書き込みます。ID3v1を読む非常に古いプレーヤーやハードウェアを対象にする場合のみ有効化してください。モダンな機器(スマホ、PC、最近の車載ステレオ)が中心なら無効のままにします。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Evertagはクラウド上のファイルのタグを直接編集しますか?" closed="true" %}}
+{{% ls-details title="Evertagはクラウド上のファイルのタグを直接編集しますか?" closed="true" %}}
 はい。クラウド(Google Drive、Dropbox、OneDrive、iCloud Drive、Internxt、Proton Drive、QNAP、Nextcloud、Amazon S3など)やFTP/SFTP/NFS経由で接続し、ファイルを開いてローカルのときと同じようにタグを編集できます。Evertagがファイルをダウンロードし、編集を適用し、更新したバージョンをアップロードして戻します。設定で「常に確認」「自動アップロード」「アップロードしない」のいずれかを選べます。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="iPhone上のEvertagでFLACタグを編集できますか?" closed="true" %}}
+{{% ls-details title="iPhone上のEvertagでFLACタグを編集できますか?" closed="true" %}}
 はい。EvertagはFLAC、MP3、M4A/MP4、AIFF、WAV、OGG、APEなどの主要フォーマットで、埋め込みアートワークを含むタグの完全な読み書きをサポートします。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="自宅サーバーにSFTPで安全にタグを編集する方法は?" closed="true" %}}
+{{% ls-details title="自宅サーバーにSFTPで安全にタグを編集する方法は?" closed="true" %}}
 Evertagを開き、「接続」へ移動して SFTP を選び、サーバーのホスト名またはIP、ポート(通常は22)、ユーザー名、そしてパスワードまたはSSH秘密鍵を入力します。Evertagがリモートのフォルダを表示し、SSH越しのエンドツーエンド暗号化でオーディオファイルのタグを直接編集します。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="複数のファイルのタグを一度に編集できますか?" closed="true" %}}
+{{% ls-details title="複数のファイルのタグを一度に編集できますか?" closed="true" %}}
 はい。設定で **ファイルを同時に編集** を有効にしてください。複数のファイルを選択してタグエディタを開き、変更したフィールドが選択中の全ファイルに適用されます。アルバム全体に同じアルバムアーティスト、年、ジャンルを設定する最速の方法です。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Evertag 4.2 のアップデートは無料ですか?" closed="true" %}}
+{{% ls-details title="Evertag 4.2 のアップデートは無料ですか?" closed="true" %}}
 はい。EvertagはApp Storeから無料でダウンロードでき、4.2は既存の全ユーザー向けの無料アップデートです。新しいクラウド連携、Wi-Fi Driveの改良、Liquid GlassのUIはベースアップデートに含まれます。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Evertag 4.2 が利用できる端末は?" closed="true" %}}
+{{% ls-details title="Evertag 4.2 が利用できる端末は?" closed="true" %}}
 Evertag 4.2はiPhone、iPad、Macで動作します。iCloud Drive同期によってタグエディタの設定がデバイス間で一貫します。
-{{% /details %}}
+{{% /ls-details %}}

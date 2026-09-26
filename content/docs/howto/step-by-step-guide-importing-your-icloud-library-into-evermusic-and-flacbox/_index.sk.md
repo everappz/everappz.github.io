@@ -7,7 +7,7 @@ tags: ["hudba", "cloud", "streamovanie", "synchronizácia", "icloud", "knižnica
 keywords: ["import hudby iCloud Evermusic", "Flacbox iCloud synchronizácia", "Evermusic streamovanie z iCloud", "hudobná knižnica iOS aplikácia", "Flacbox čítačka metadát", "streamovanie hudby iCloud iPhone"]
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **Zhrnutie:** Môžete streamovať svoju hudobnú knižnicu iCloud Drive v Evermusic a Flacbox bez sťahovania súborov do zariadenia. Pripojte iCloud Drive v aplikácii, povoľte Online synchronizáciu hudby na vytvorenie knižnice, nakonfigurujte čítačku metadát na organizáciu podľa interpreta/albumu/žánru a voliteľne povoľte Offline režim na stiahnutie albumov na počúvanie bez internetu. Tieto kroky fungujú aj s Google Drive, Dropbox, OneDrive a ďalšími podporovanými cloudovými službami.
@@ -75,26 +75,26 @@ To je na dnes všetko! Dúfame, že tento sprievodca vám pomôže nakonfigurova
 
 ## FAQ
 
-{{% details title="Môžem streamovať hudbu z iCloudu bez sťahovania súborov na iPhone?" closed="true" %}}
+{{% ls-details title="Môžem streamovať hudbu z iCloudu bez sťahovania súborov na iPhone?" closed="true" %}}
 Áno. Pripojte iCloud Drive v Evermusic alebo Flacbox a použite Online synchronizáciu hudby. Súbory sa nesťahujú, pokiaľ explicitne nepovolíte Offline režim.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Prečo je import hudby z iCloudu pomalý?" closed="true" %}}
+{{% ls-details title="Prečo je import hudby z iCloudu pomalý?" closed="true" %}}
 Pomalý import je zvyčajne spôsobený čítaním metadát veľkej knižnice cez mobilné pripojenie. Povoľte synchronizáciu na pozadí a zvážte použitie Mac verzie.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Funguje tento sprievodca s inými cloudovými službami?" closed="true" %}}
+{{% ls-details title="Funguje tento sprievodca s inými cloudovými službami?" closed="true" %}}
 Áno. Rovnaké kroky platia pre Google Drive, Dropbox, OneDrive, SMB, WebDAV a všetky ostatné podporované cloudové služby.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Ako prenesiem hudobnú knižnicu z Macu na iPhone?" closed="true" %}}
+{{% ls-details title="Ako prenesiem hudobnú knižnicu z Macu na iPhone?" closed="true" %}}
 Použite funkciu zálohovania/obnovenia v nastaveniach aplikácie. Synchronizujte metadáta na Mac verzii, vytvorte zálohu a obnovte ju na iOS verzii.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Zmení čítačka metadát moje pôvodné audio súbory?" closed="true" %}}
+{{% ls-details title="Zmení čítačka metadát moje pôvodné audio súbory?" closed="true" %}}
 Nie. Čítačka metadát aktualizuje len zobrazované informácie v hudobnej knižnici. Pre úpravu tagov použite vstavaný editor tagov.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Ako sprístupním albumy offline?" closed="true" %}}
+{{% ls-details title="Ako sprístupním albumy offline?" closed="true" %}}
 Klepnite na **Viac akcií** na cloudovom priečinku a vyberte **Povoliť offline režim**. Aplikácia stiahne všetky súbory a automaticky ich udržiava synchronizované.
-{{% /details %}}
+{{% /ls-details %}}

@@ -12,7 +12,7 @@ authors:
     image: "/images/about/artem-meleshko-founder-everappz.webp"
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 **Sammanfattning:** Evermusic 6.8 lägger till Aliyun Drive och Synology NAS-integration (med QuickConnect), sex nya scrolleffekter för albumomslag, en minimal helskärmsspelare, dra-och-släpp-filhantering och snabbare laddning av albumkonst. Tillgängligt nu för iOS och macOS.
 
@@ -77,18 +77,18 @@ Evermusic 6.8 fokuserar på tre områden: bredare molnkompatibilitet (Aliyun Dri
 
 ## Vanliga frågor
 
-{{% details title="Hur ansluter jag Synology NAS till Evermusic?" closed="true" %}}
+{{% ls-details title="Hur ansluter jag Synology NAS till Evermusic?" closed="true" %}}
 Gå till fliken Anslutningar, välj Synology och ange ditt QuickConnectID. Evermusic ansluter direkt utan att kräva IP-adresser eller VPN-konfiguration.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Är Aliyun Drive gratis att använda med Evermusic?" closed="true" %}}
+{{% ls-details title="Är Aliyun Drive gratis att använda med Evermusic?" closed="true" %}}
 Ja. Om du har ett Aliyun Drive-konto kan du ansluta det till Evermusic utan extra kostnad. Lagringsgränser beror på din Aliyun Drive-plan.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Kan jag anpassa scrollstilen för albumomslag?" closed="true" %}}
+{{% ls-details title="Kan jag anpassa scrollstilen för albumomslag?" closed="true" %}}
 Ja. Gå till Settings > Audio Player > Personalization > Album Covers Scrolling Style och välj bland sex alternativ: MacDoc, Linear, Rotary, Inverted Rotary, Cylinder eller CoverFlow.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Fungerar den minimala spelarskärmen på alla enheter?" closed="true" %}}
+{{% ls-details title="Fungerar den minimala spelarskärmen på alla enheter?" closed="true" %}}
 Ja. Helskärmsstilen för albumomslag är tillgänglig på alla iPhones, iPads och Macar som stöds och kör Evermusic 6.8 eller senare.
-{{% /details %}}
+{{% /ls-details %}}

@@ -9,7 +9,7 @@ aliases:
   - /post/how-to-import-m3u-playlist-to-evermusic-and-flacbox/
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **TL;DR:** Evermusic and Flacbox support importing M3U, M3U8, and CUE playlist files from cloud storage, local app files, or your device. Go to Playlists > More > Import Playlist, select a source, pick your file, and the app builds your playlist automatically.
@@ -86,22 +86,22 @@ Additionally, you can import multiple playlists at once by tapping the "More Act
 
 ## Frequently Asked Questions
 
-{{% details title="What playlist formats do Evermusic and Flacbox support?" closed="true" %}}
+{{% ls-details title="What playlist formats do Evermusic and Flacbox support?" closed="true" %}}
 Both apps support M3U, M3U8, and CUE playlist file formats. These cover the most common playlist standards used by music players and media software.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Can I import playlists from cloud storage?" closed="true" %}}
+{{% ls-details title="Can I import playlists from cloud storage?" closed="true" %}}
 Yes. You can import playlist files from any connected cloud storage service including Google Drive, Dropbox, OneDrive, and WebDAV servers.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Why are some tracks missing after import?" closed="true" %}}
+{{% ls-details title="Why are some tracks missing after import?" closed="true" %}}
 The playlist file must contain correct paths to your media files, and those files must exist at the specified locations on your storage. Double-check that file paths in your M3U or CUE file match the actual file locations.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Can I import multiple playlists at once?" closed="true" %}}
+{{% ls-details title="Can I import multiple playlists at once?" closed="true" %}}
 Yes. Use the More Actions button and select "Import Playlists from a Folder." The app scans the folder for all supported playlist files and imports them in one step.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Do I need to manually create playlists?" closed="true" %}}
+{{% ls-details title="Do I need to manually create playlists?" closed="true" %}}
 No. The import feature eliminates manual playlist creation. Just point the app to your existing M3U, M3U8, or CUE file and it builds the playlist automatically.
-{{% /details %}}
+{{% /ls-details %}}

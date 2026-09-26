@@ -18,7 +18,7 @@ readingTime: 16
 Η οθόνη Ρυθμίσεων είναι το κέντρο ελέγχου του Evermusic. Από εδώ μπορείτε να αναβαθμίσετε σε Premium, να ρυθμίσετε τον audio player, να διαχειριστείτε τη βιβλιοθήκη μουσικής σας, να ρυθμίσετε τον διαχειριστή αρχείων, να προσαρμόσετε τη διεπαφή, να ενεργοποιήσετε widgets και CarPlay, να δημιουργήσετε backup των δεδομένων σας και να αποκτήσετε πρόσβαση σε βοήθεια και νομικές πληροφορίες. Ενότητες ομαδοποιούνται κάτω από κεφαλίδες: **Αγορές & ενημερώσεις**, προτιμήσεις εφαρμογής, **Βοήθεια** και **Νομικά & απόρρητο**.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Οθόνη Ρυθμίσεων Evermusic" image="/docs/guide/evermusic/evermusic-guide-settings/img/settings-main-screen.webp" >}}
+  {{< ls-card title="" subtitle="Οθόνη Ρυθμίσεων Evermusic" image="/docs/guide/evermusic/evermusic-guide-settings/img/settings-main-screen.webp" >}}
 {{< /cards >}}
 
 ## Αγορές & Ενημερώσεις

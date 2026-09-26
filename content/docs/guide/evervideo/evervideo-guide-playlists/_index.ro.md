@@ -19,7 +19,7 @@ readingTime: 5
 Listele de redare în Evervideo pot conține o combinație de videoclipuri online din cloud, fișiere descărcate offline, fișiere locale, videoclipuri din biblioteca Fotografii și videoclipuri din biblioteca iOS Muzică — toate într-o singură listă — și se redau fără întrerupere împreună.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Liste de Redare Evervideo în Biblioteca Media" image="/docs/guide/evervideo/img/evervideo-playlists-in-media-library.webp" >}}
+  {{< ls-card title="" subtitle="Liste de Redare Evervideo în Biblioteca Media" image="/docs/guide/evervideo/img/evervideo-playlists-in-media-library.webp" >}}
 {{< /cards >}}
 
 ## Crearea unei Liste de Redare

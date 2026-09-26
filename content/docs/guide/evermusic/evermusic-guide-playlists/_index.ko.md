@@ -17,7 +17,7 @@ readingTime: 6
 재생 목록 섹션은 트랙을 목록으로 정리하는 도구를 제공합니다. 만든 모든 플레이리스트를 표시하는 콘텐츠 보기, 다양한 플레이리스트 관련 작업을 제공하는 탐색 바의 "..." 버튼, 그리고 "검색", "모두 재생", "모두 셔플" 버튼이 있는 탐색 도구 모음이 포함됩니다. 또한 각 개별 플레이리스트에는 플레이리스트 제목 옆에 해당 플레이리스트에 특정한 다양한 작업을 제공하는 "..." 버튼이 있습니다.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evermusic 재생 목록 화면" image="/docs/guide/evermusic/evermusic-guide-playlists/img/playlists-main.webp" >}}
+  {{< ls-card title="" subtitle="Evermusic 재생 목록 화면" image="/docs/guide/evermusic/evermusic-guide-playlists/img/playlists-main.webp" >}}
 {{< /cards >}}
 
 ## 플레이리스트 만들기
@@ -25,7 +25,7 @@ readingTime: 6
 새 플레이리스트를 만들려면 "+" 버튼 또는 탐색 바의 오른쪽 상단 모서리에 있는 "..." 버튼을 탭하고 "새 플레이리스트"를 선택한 다음 플레이리스트에 이름을 지정합니다. 이름을 지정한 후 "저장하다"를 탭합니다.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="새 플레이리스트 만들기" image="/docs/guide/evermusic/evermusic-guide-playlists/img/playlists-add-new.webp" >}}
+  {{< ls-card title="" subtitle="새 플레이리스트 만들기" image="/docs/guide/evermusic/evermusic-guide-playlists/img/playlists-add-new.webp" >}}
 {{< /cards >}}
 
 이렇게 하면 새 플레이리스트에 추가할 트랙을 선택할 수 있는 "노래 추가" 대화 상자가 표시됩니다. 트랙은 소스 유형별로 분류되며 여러 옵션이 있습니다:
@@ -42,7 +42,7 @@ readingTime: 6
 Evermusic에는 M3U 파일 가져오기 기능이 추가되어 플레이리스트를 수동으로 만들 필요가 없습니다.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="파일 소스에서 플레이리스트 가져오기" image="/docs/guide/evermusic/evermusic-guide-playlists/img/playlists-import-from-files.webp" >}}
+  {{< ls-card title="" subtitle="파일 소스에서 플레이리스트 가져오기" image="/docs/guide/evermusic/evermusic-guide-playlists/img/playlists-import-from-files.webp" >}}
 {{< /cards >}}
 
 먼저 '재생 목록' 섹션으로 이동합니다. 그런 다음 오른쪽 상단 모서리의 '추가' 버튼을 탭합니다. 표시되는 메뉴에서 '플레이리스트 가져오기' 옵션을 선택합니다.
@@ -62,7 +62,7 @@ Evermusic에는 M3U 파일 가져오기 기능이 추가되어 플레이리스�
 플레이리스트를 열면 "플레이리스트 상세 화면"이 나타납니다. 이 화면에서 플레이리스트 옵션이 있는 오른쪽 상단 모서리의 "..." 버튼과 아트워크 이미지 아래에 "검색", "재생 계속", "모두 재생", "모두 셔플" 세 개의 버튼을 찾을 수 있습니다. 또한 "오프라인 모드" 체크박스가 있습니다.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="플레이리스트 상세 화면" image="/docs/guide/evermusic/evermusic-guide-playlists/img/playlists-detail-screen.webp" >}}
+  {{< ls-card title="" subtitle="플레이리스트 상세 화면" image="/docs/guide/evermusic/evermusic-guide-playlists/img/playlists-detail-screen.webp" >}}
 {{< /cards >}}
 
 - **재생 계속**: 이 플레이리스트의 재생 위치를 복원합니다.
@@ -87,7 +87,7 @@ Evermusic에는 M3U 파일 가져오기 기능이 추가되어 플레이리스�
 - **플레이리스트 삭제:** 음악 라이브러리에서 플레이리스트를 삭제합니다. 이 작업은 취소할 수 없습니다.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="플레이리스트에 대한 추가 작업 메뉴" image="/docs/guide/evermusic/evermusic-guide-playlists/img/playlists-more-actions-for-separate-playlist.webp" >}}
+  {{< ls-card title="" subtitle="플레이리스트에 대한 추가 작업 메뉴" image="/docs/guide/evermusic/evermusic-guide-playlists/img/playlists-more-actions-for-separate-playlist.webp" >}}
 {{< /cards >}}
 
 ## 플레이리스트 상세 화면에서 플레이리스트에 대한 추가 작업
@@ -113,7 +113,7 @@ Evermusic에는 M3U 파일 가져오기 기능이 추가되어 플레이리스�
 플레이리스트에서 노래 순서를 변경하려면 오른쪽 상단 모서리의 "..." 버튼을 탭하고 "선택하다"를 선택하여 선택 모드로 진입합니다. 각 트랙 옆의 재정렬 컨트롤과 드래그 앤 드롭 제스처를 사용하여 위 또는 아래로 이동합니다. 재정렬 컨트롤을 탭하면 트랙이 목록 상단으로 이동합니다. 선택 모드를 종료하고 변경 사항을 적용하려면 "완료됨"을 탭합니다.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="플레이리스트에서 노래 순서 변경" image="/docs/guide/evermusic/evermusic-guide-playlists/img/playlists-change-songs-order.webp" >}}
+  {{< ls-card title="" subtitle="플레이리스트에서 노래 순서 변경" image="/docs/guide/evermusic/evermusic-guide-playlists/img/playlists-change-songs-order.webp" >}}
 {{< /cards >}}
 
 ## 플레이리스트 커버 이미지 변경
@@ -129,7 +129,7 @@ Evermusic에는 M3U 파일 가져오기 기능이 추가되어 플레이리스�
 플레이리스트를 열고 오른쪽 상단 모서리의 "..." 버튼을 탭한 다음 "선택하다"를 선택하여 선택 모드로 진입합니다. 삭제하려는 트랙을 선택하고 화면 하단의 "플레이리스트에서 삭제" 버튼을 탭합니다. "완료됨"을 탭하여 변경 사항을 확인합니다.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="플레이리스트 내부의 선택 모드" image="/docs/guide/evermusic/evermusic-guide-playlists/img/playlists-selection-mode-in-playlist-details-screen.webp" >}}
+  {{< ls-card title="" subtitle="플레이리스트 내부의 선택 모드" image="/docs/guide/evermusic/evermusic-guide-playlists/img/playlists-selection-mode-in-playlist-details-screen.webp" >}}
 {{< /cards >}}
 
 ## 트랙 옵션
@@ -137,7 +137,7 @@ Evermusic에는 M3U 파일 가져오기 기능이 추가되어 플레이리스�
 플레이리스트의 각 트랙에는 "..." 버튼을 탭하여 접근할 수 있는 작업 목록이 있습니다. 모든 작업이 표시되지 않으면 아래로 스크롤하여 확인하세요. 플레이리스트에서 트랙을 삭제하고, 다운로드하고, 오디오 태그를 편집하는 등의 작업을 할 수 있습니다.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="플레이리스트의 트랙 옵션 메뉴" image="/docs/guide/evermusic/evermusic-guide-playlists/img/playlists-track-options.webp" >}}
+  {{< ls-card title="" subtitle="플레이리스트의 트랙 옵션 메뉴" image="/docs/guide/evermusic/evermusic-guide-playlists/img/playlists-track-options.webp" >}}
 {{< /cards >}}
 
 - **다음에 재생:** 트랙을 플레이어 대기열의 상단에 추가합니다.

@@ -12,7 +12,7 @@ authors:
     image: "/images/about/artem-meleshko-founder-everappz.webp"
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 ## Evermusic 3.1: क्या बदला और यह क्यों मायने रखता है
 
@@ -89,22 +89,22 @@ Evermusic होम स्क्रीन से सीधे अपनी iPod 
 
 ## अक्सर पूछे जाने वाले प्रश्न
 
-{{% details title="Evermusic में क्रॉसफ़ेड प्लेबैक क्या है?" closed="true" %}}
+{{% ls-details title="Evermusic में क्रॉसफ़ेड प्लेबैक क्या है?" closed="true" %}}
 क्रॉसफ़ेड प्लेबैक एक ट्रैक के अंत को अगले ट्रैक की शुरुआत में मिलाता है, जिससे सीमलेस ट्रांज़िशन बनते हैं। आप Settings → Audio Player → Crossfade Playback में 3 से 15 सेकंड के बीच अवधि सेट कर सकते हैं।
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="क्या मैं अपनी Evermusic प्लेलिस्ट को क्लाउड स्टोरेज में बैकअप कर सकता हूँ?" closed="true" %}}
+{{% ls-details title="क्या मैं अपनी Evermusic प्लेलिस्ट को क्लाउड स्टोरेज में बैकअप कर सकता हूँ?" closed="true" %}}
 हाँ। Evermusic 3.1 आपको अपनी पूरी लाइब्रेरी — प्लेलिस्ट, मेटाडेटा, कवर आर्ट और सेटिंग्स सहित — किसी भी कनेक्टेड क्लाउड सर्विस में एक फ़ाइल के रूप में बैकअप करने देता है।
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="क्या Evermusic iPod लाइब्रेरी ब्राउज़िंग सपोर्ट करता है?" closed="true" %}}
+{{% ls-details title="क्या Evermusic iPod लाइब्रेरी ब्राउज़िंग सपोर्ट करता है?" closed="true" %}}
 हाँ। आप Evermusic होम स्क्रीन से सीधे प्लेलिस्ट, एल्बम, आर्टिस्ट और जॉनर के अनुसार अपनी iPod लाइब्रेरी ब्राउज़ कर सकते हैं और अपनी क्यू में ट्रैक्स जोड़ सकते हैं।
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Evermusic में गलत गाने के टैग्स कैसे ठीक करें?" closed="true" %}}
+{{% ls-details title="Evermusic में गलत गाने के टैग्स कैसे ठीक करें?" closed="true" %}}
 बिल्ट-इन टैग्स एडिटर का उपयोग करें और Identify एक्शन पर टैप करें। Evermusic आपके फ़ाइल नामों को स्कैन करता है और ऑटोमैटिक करेक्टेड मेटाडेटा के साथ ID3 टैग्स अपडेट करता है।
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Evermusic कौन सी क्लाउड सर्विसेज सपोर्ट करता है?" closed="true" %}}
+{{% ls-details title="Evermusic कौन सी क्लाउड सर्विसेज सपोर्ट करता है?" closed="true" %}}
 Evermusic Dropbox, Google Drive, OneDrive, MEGA, Box, Yandex.Disk, WebDAV, SMB/CIFS और FTP सर्वर के साथ काम करता है।
-{{% /details %}}
+{{% /ls-details %}}

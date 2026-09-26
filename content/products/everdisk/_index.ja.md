@@ -16,15 +16,15 @@ screenshots:
   - "https://everappz.com/products/everdisk/screenshots/photo_gallery.png"
 ---
 
-{{% sr-only %}}
+{{% ls-sr-only %}}
 Everdisk は、Everappz が開発した iPhone・iPad 向けのワイヤレスドライブアプリです。お使いのデバイスをハブに変えて、ファイル・写真・動画・音楽を同じローカルネットワーク上のあらゆる機器と共有できます。アカウントもクラウドも不要で、相手側に追加のアプリをインストールする必要もありません。アプリは 5 つのサーバーを同時に動かします。スマート TV やメディアプレーヤー向けの DLNA、あらゆる Web ブラウザ向けの HTTP、Finder・Windows・Linux 向けの WebDAV、Mac・Windows・Linux でネットワークドライブになる SMB (任意で SMB3 暗号化)、そしてファイルアプリやパワーユーザー向けの FTP です。これにより、どのデバイスも自分に合った方法で接続できます。写真・動画・音楽をプレビューサムネイル付きで DLNA からスマート TV へ直接ストリーミングしたり、ブラウザで開けるシンプルなリンクを共有してファイルを閲覧・ダウンロードしてもらったり、デバイスをネットワークドライブとしてマウントして双方向にファイルをドラッグしたりできます。SMB でマウントすることもできます。これは Mac・Windows・Linux 向けのネットワークドライブで、Mac では Finder のサイドバーに独立して表示され、SMB3 暗号化 (AES) をオンにすると、同じネットワーク上の他の人があなたの転送を読めなくなります。Wi-Fi がないときは、USB ケーブルで Mac に接続すれば Wi-Fi より速くファイルを移動でき、飛行機の中やロックされたネットワークでも使えます。Everdisk はネットワーク上の DLNA、WebDAV、FTP、SFTP、SMB サーバー (Mac、Windows PC、Linux マシン、NAS ドライブを含む) にも接続して、それらのファイルを閲覧・ストリーミング・ダウンロードできます。内蔵のファイルマネージャーでは、リスト表示やグリッド表示での閲覧、フォルダーの作成、名前の変更、移動、コピー、zip 圧縮と解凍、削除ができます。紙の書類をきれいな PDF にスキャンしたり、PDF や写真を開いて内蔵エディターで書き込み (描画、ハイライト、テキストや署名の追加。変更はファイルに保存されます) をしたり、充実した PDF ツールでファイルの圧縮、テキスト認識 (OCR) による検索可能な PDF への変換、オープンパスワードの追加や削除、権限の確認、書類メタデータの編集、注釈やフォームフィールドのフラット化ができます。ミニプレーヤーで音声を再生したり、動画を全画面で視聴したりでき、写真と音楽のライブラリをまるごとネットワークで、オリジナル画質またはより互換性の高い形式で共有できます。すべてがローカルネットワーク内で完結し、インターネットには一切送信されません。ログインとパスワードでアクセスを保護でき、どのデバイスもワンタップでブロックできます。Everdisk は App Store から無料でダウンロードでき、任意で買い切りの Premium Lifetime を購入できます。
-{{% /sr-only %}}
+{{% /ls-sr-only %}}
 
 <!-- <body class="hx:bg-transparent" style="background: radial-gradient(ellipse at 50% 80%, rgba(59,130,246,0.05), hsla(0,0%,100%,0));"> -->
 
-{{< force-dark >}}
+{{< ls-force-dark >}}
 
-{{< hextra/hero-container
+{{< ls-hero-container
   image="/products/everdisk/heroimage/hero_1600.png"
   imageWidth="800"
   imageCard="true"
@@ -33,38 +33,38 @@ Everdisk は、Everappz が開発した iPhone・iPad 向けのワイヤレス�
 <div class="hx:w-full hx:text-center">
 
 <div class="hx:mt-4">
-{{< downloads-badge >}}
+{{< ls-downloads-badge >}}
 </div>
 
 <div class="hx:mt-6 hx:mb-6">
 <div class="hx:flex hx:gap-4 hx:items-center hx:justify-center">
-  {{< app-icon src="/images/app_icons/png/Everdisk_Icon-App-1024x1024.png" alt="Everdisk Icon" class="hero-headline-icon" size="80" >}}
-  {{< hextra/hero-headline >}}
+  {{< ls-app-icon src="/images/app_icons/png/Everdisk_Icon-App-1024x1024.png" alt="Everdisk Icon" class="hero-headline-icon" size="80" >}}
+  {{< ls-hero-headline >}}
   Everdisk
-  {{< /hextra/hero-headline >}}
+  {{< /ls-hero-headline >}}
 </div>
 </div>
 
 <div class="hx:mb-6">
-{{< hextra/hero-centered-subtitle >}}
+{{< ls-hero-centered-subtitle >}}
 iPhone や iPad をワイヤレスドライブに変えて <strong>ネットワーク上のあらゆるデバイス</strong>とファイルを共有
-{{< /hextra/hero-centered-subtitle >}}
+{{< /ls-hero-centered-subtitle >}}
 </div>
 
 <div class="hx:mb-6">
-{{< hextra/hero-paragraph >}}
+{{< ls-hero-paragraph >}}
 • スタートをタップするだけで 5 通りに同時共有: DLNA、HTTP、WebDAV、SMB、FTP  
 • 写真・動画・音楽を DLNA でスマート TV へ直接ストリーミング  
 • Finder、Windows、Linux でネットワークドライブとしてマウント - 任意で SMB 暗号化付き  
 • Wi-Fi がない? USB ケーブルでワイヤレスより速くファイルを移動  
-{{< /hextra/hero-paragraph >}}
+{{< /ls-hero-paragraph >}}
 </div>
 
-{{< app-store-badges products="everdisk:ios" >}}
+{{< ls-app-store-badges products="everdisk:ios" >}}
 
 </div>
 
-{{< /hextra/hero-container >}}
+{{< /ls-hero-container >}}
 
 <div class="hx:mt-6"></div>
 
@@ -72,42 +72,42 @@ iPhone や iPad をワイヤレスドライブに変えて <strong>ネットワ�
 
 {{< hextra/feature-grid >}}
 
-  {{< hextra/feature-card
+  {{< ls-glass-feature-card
     title="デバイスがドライブに変わる"
     subtitle="スタートをタップすれば、iPhone や iPad がワイヤレスドライブに早変わり。Everdisk は DLNA、HTTP、WebDAV、SMB、FTP の 5 つのサーバーを同時に動かすので、スマート TV、パソコン、Web ブラウザ、ファイルアプリがそれぞれ自分に合った方法で接続できます。アカウントもクラウドも不要で、相手側に追加でインストールするものもありません。"
     icon="server"
     style="background: radial-gradient(ellipse at 50% 80%, rgba(34,197,94,0.15), hsla(0,0%,100%,0));"
   >}}
 
-  {{< hextra/feature-card
+  {{< ls-glass-feature-card
     title="テレビで楽しむ"
     subtitle="写真・動画・音楽を DLNA でスマート TV やメディアプレーヤーへ直接ストリーミング。ライブラリはプレビューサムネイル付きで自動的にテレビに表示されるので、ケーブルも追加アプリもなく大画面で楽しめます。"
     icon="desktop-computer"
     style="background: radial-gradient(ellipse at 50% 80%, rgba(234,88,12,0.15), hsla(0,0%,100%,0));"
   >}}
 
-  {{< hextra/feature-card
+  {{< ls-glass-feature-card
     title="どんな Web ブラウザでも開ける"
     subtitle="シンプルなリンクを共有すれば、相手はブラウザで開くだけ。きれいなグリッドやリストでファイルを閲覧し、写真を全画面ギャラリーで見て、内蔵プレーヤーで音楽を再生し、何でもダウンロードできます。相手側にインストールするものは何もありません。"
     icon="globe-alt"
     style="background: radial-gradient(ellipse at 50% 80%, rgba(251,191,36,0.15), hsla(0,0%,100%,0));"
   >}}
 
-  {{< hextra/feature-card
+  {{< ls-glass-feature-card
     title="ネットワークドライブとして使う"
     subtitle="Mac の Finder、Windows、Linux から WebDAV で接続すれば、デバイスが普通のネットワークディスクのように表示されます。双方向にファイルをドラッグ&amp;ドロップできるほか、代わりに SMB でマウントして SMB3 (AES) 暗号化を使うこともできます。"
     icon="folder"
     style="background: radial-gradient(ellipse at 50% 80%, rgba(59,130,246,0.15), hsla(0,0%,100%,0));"
   >}}
 
-  {{< hextra/feature-card
+  {{< ls-glass-feature-card
     title="Wi-Fi がない? ケーブルを使おう"
     subtitle="充電に使っているのと同じ USB ケーブルでデバイスを Mac に接続。ファイルはケーブルを通って直接、Wi-Fi より速く転送されます。飛行機の中でも、ホテルでも、Wi-Fi がブロックされているロックされたネットワークでも使えます。"
     icon="lightning-bolt"
     style="background: radial-gradient(ellipse at 50% 80%, rgba(192,38,211,0.15), hsla(0,0%,100%,0));"
   >}}
 
-  {{< hextra/feature-card
+  {{< ls-glass-feature-card
     title="他のデバイスへ接続"
     subtitle="ネットワーク上の DLNA、WebDAV、FTP、SFTP、SMB サーバーを見つけて接続 - Mac、Windows PC、Linux マシン、NAS ドライブが対象です。フォルダーを閲覧し、音声や動画をストリーミングし、ファイルをダウンロードできます。サーバーが許可していれば、フォルダーの作成、アップロード、名前の変更、移動、削除も可能です。"
     icon="cloud-download"
@@ -120,9 +120,9 @@ iPhone や iPad をワイヤレスドライブに変えて <strong>ネットワ�
 
 <div class="hx:mt-6"></div>
 
-{{< hextra/section-headline >}}
+{{< ls-section-headline >}}
   すっきりシンプルなデザイン
-{{< /hextra/section-headline >}}
+{{< /ls-section-headline >}}
 
 <div class="hx:mt-6"></div>
 
@@ -130,7 +130,7 @@ iPhone や iPad をワイヤレスドライブに変えて <strong>ネットワ�
 
 {{< cards cols="4">}}
 
-  {{< design-feature-card 
+  {{< ls-design-feature-card 
     icon="globe-alt"
     image="/products/everdisk/screenshots/browser_access.png" 
     title="ブラウザアクセス" 
@@ -139,7 +139,7 @@ iPhone や iPad をワイヤレスドライブに変えて <strong>ネットワ�
     subtitle="リンクを共有すれば、誰でもどの Web ブラウザからでもファイルを閲覧・プレビュー・ダウンロードできます。相手側にインストールするものはありません。" 
   >}}
 
-  {{< design-feature-card 
+  {{< ls-design-feature-card 
     icon="server"
     image="/products/everdisk/screenshots/connect_to_servers.png"  
     title="サーバーへ接続" 
@@ -148,7 +148,7 @@ iPhone や iPad をワイヤレスドライブに変えて <strong>ネットワ�
     subtitle="ネットワーク上の DLNA、WebDAV、FTP、SFTP、SMB サーバーを見つけて接続し、それらのファイルを閲覧・ストリーミング・ダウンロードできます。" 
   >}}
 
-  {{< design-feature-card 
+  {{< ls-design-feature-card 
     icon="folder"
     image="/products/everdisk/screenshots/file_manager.png"  
     title="ファイルマネージャー" 
@@ -157,7 +157,7 @@ iPhone や iPad をワイヤレスドライブに変えて <strong>ネットワ�
     subtitle="デバイス上のすべてを管理。リストやグリッドで閲覧し、フォルダーの作成、名前の変更、移動、コピー、zip 圧縮と解凍、削除ができます。" 
   >}}
 
-  {{< design-feature-card 
+  {{< ls-design-feature-card 
     icon="play"
     image="/products/everdisk/screenshots/play_in_the_app.png"  
     title="アプリ内で再生" 
@@ -166,7 +166,7 @@ iPhone や iPad をワイヤレスドライブに変えて <strong>ネットワ�
     subtitle="ローカルの曲を聴いたり、接続したデバイスからストリーミングしたり。ミニプレーヤーのキューと全画面動画再生に対応しています。" 
   >}}
 
-  {{< design-feature-card 
+  {{< ls-design-feature-card 
     icon="music-note"
     image="/products/everdisk/screenshots/share_your_library.png"  
     title="ライブラリを共有" 
@@ -175,7 +175,7 @@ iPhone や iPad をワイヤレスドライブに変えて <strong>ネットワ�
     subtitle="写真と音楽のライブラリをまるごとオンにすれば、すべてのアルバムと曲がオリジナル画質でネットワーク越しに利用できるようになります。" 
   >}} 
 
-  {{< design-feature-card 
+  {{< ls-design-feature-card 
     icon="photograph"
     image="/products/everdisk/screenshots/photo_gallery.png"  
     title="フォトギャラリー" 
@@ -190,9 +190,9 @@ iPhone や iPad をワイヤレスドライブに変えて <strong>ネットワ�
 
 <div class="hx:mt-6"></div>
 
-{{< hextra/section-headline >}}
+{{< ls-section-headline >}}
   充実の全機能
-{{< /hextra/section-headline >}}
+{{< /ls-section-headline >}}
 
 <div class="hx:mt-6"></div>
 
@@ -200,53 +200,53 @@ iPhone や iPad をワイヤレスドライブに変えて <strong>ネットワ�
 
 {{< cards >}}
 
-  {{< feature-card title="5 つのサーバーを同時に" subtitle="スタートをタップすれば、5 通りの方法でファイルを同時に共有。TV やメディアプレーヤー向けの DLNA、あらゆる Web ブラウザ向けの HTTP、Finder・Windows・Linux 向けの WebDAV、Mac・Windows・Linux でネットワークドライブになる SMB、ファイルアプリやパワーユーザー向けの FTP です。" icon="wifi" >}}
+  {{< ls-feature-card title="5 つのサーバーを同時に" subtitle="スタートをタップすれば、5 通りの方法でファイルを同時に共有。TV やメディアプレーヤー向けの DLNA、あらゆる Web ブラウザ向けの HTTP、Finder・Windows・Linux 向けの WebDAV、Mac・Windows・Linux でネットワークドライブになる SMB、ファイルアプリやパワーユーザー向けの FTP です。" icon="wifi" >}}
 
-  {{< feature-card title="スマート TV へストリーミング" subtitle="写真・動画・音楽を DLNA でスマート TV やメディアプレーヤーへ直接送信。ライブラリはプレビューサムネイル付きで自動的にテレビに表示され、大画面ですぐに楽しめます。" icon="desktop-computer" >}}
+  {{< ls-feature-card title="スマート TV へストリーミング" subtitle="写真・動画・音楽を DLNA でスマート TV やメディアプレーヤーへ直接送信。ライブラリはプレビューサムネイル付きで自動的にテレビに表示され、大画面ですぐに楽しめます。" icon="desktop-computer" >}}
 
-  {{< feature-card title="Web ブラウザ共有" subtitle="リンクを共有すれば、相手はブラウザで開くだけ。グリッドやリストでファイルを閲覧し、写真を全画面で見て、音楽を再生し、何でもダウンロードできます。インストールは不要です。" icon="globe-alt" >}}
+  {{< ls-feature-card title="Web ブラウザ共有" subtitle="リンクを共有すれば、相手はブラウザで開くだけ。グリッドやリストでファイルを閲覧し、写真を全画面で見て、音楽を再生し、何でもダウンロードできます。インストールは不要です。" icon="globe-alt" >}}
 
-  {{< feature-card title="WebDAV ネットワークドライブ" subtitle="Mac の Finder、Windows、Linux から WebDAV で接続すれば、デバイスが普通のネットワークディスクのように表示されます。ファイルを双方向にドラッグ&amp;ドロップできます。" icon="folder" >}}
+  {{< ls-feature-card title="WebDAV ネットワークドライブ" subtitle="Mac の Finder、Windows、Linux から WebDAV で接続すれば、デバイスが普通のネットワークディスクのように表示されます。ファイルを双方向にドラッグ&amp;ドロップできます。" icon="folder" >}}
 
-  {{< feature-card title="暗号化された SMB ドライブ" subtitle="デバイスを SMB でマウントすれば、Mac・Windows・Linux 向けのネットワークドライブになります。Mac では Finder のサイドバーに独立して表示されます。暗号化できる唯一の接続で、ログインとパスワードを設定して SMB3 暗号化 (AES) をオンにすれば、すべての転送をプライベートに保てます。" icon="lock-closed" >}}
+  {{< ls-feature-card title="暗号化された SMB ドライブ" subtitle="デバイスを SMB でマウントすれば、Mac・Windows・Linux 向けのネットワークドライブになります。Mac では Finder のサイドバーに独立して表示されます。暗号化できる唯一の接続で、ログインとパスワードを設定して SMB3 暗号化 (AES) をオンにすれば、すべての転送をプライベートに保てます。" icon="lock-closed" >}}
 
-  {{< feature-card title="USB で転送" subtitle="充電ケーブルで Mac に接続すれば、ファイルはケーブルを通って直接、Wi-Fi より速く転送されます。飛行機の中でも、ホテルでも、ロックされたネットワークでも使えます。" icon="lightning-bolt" >}}
+  {{< ls-feature-card title="USB で転送" subtitle="充電ケーブルで Mac に接続すれば、ファイルはケーブルを通って直接、Wi-Fi より速く転送されます。飛行機の中でも、ホテルでも、ロックされたネットワークでも使えます。" icon="lightning-bolt" >}}
 
-  {{< feature-card title="DLNA、WebDAV、FTP、SFTP、SMB へ接続" subtitle="ネットワーク上のサーバーや NAS ドライブを見つけて接続し、フォルダーを閲覧し、音声や動画をストリーミングし、ファイルをダウンロード。許可されていれば作成、アップロード、名前の変更、移動、削除もできます。" icon="server" >}}
+  {{< ls-feature-card title="DLNA、WebDAV、FTP、SFTP、SMB へ接続" subtitle="ネットワーク上のサーバーや NAS ドライブを見つけて接続し、フォルダーを閲覧し、音声や動画をストリーミングし、ファイルをダウンロード。許可されていれば作成、アップロード、名前の変更、移動、削除もできます。" icon="server" >}}
 
-  {{< feature-card title="内蔵ファイルマネージャー" subtitle="デバイス上のすべてを扱える本格的なファイルマネージャー。リストやグリッドで閲覧し、フォルダーの作成、名前の変更、移動、コピー、削除ができ、デバイス上のどこからでもフォルダーを接続できます。" icon="view-grid" >}}
+  {{< ls-feature-card title="内蔵ファイルマネージャー" subtitle="デバイス上のすべてを扱える本格的なファイルマネージャー。リストやグリッドで閲覧し、フォルダーの作成、名前の変更、移動、コピー、削除ができ、デバイス上のどこからでもフォルダーを接続できます。" icon="view-grid" >}}
 
-  {{< feature-card title="zip 圧縮と解凍" subtitle="ファイルやフォルダーを 1 つのアーカイブに圧縮して共有・保存したり、受け取ったアーカイブを追加ツールなしでデバイス上でそのまま解凍したりできます。" icon="document-duplicate" >}}
+  {{< ls-feature-card title="zip 圧縮と解凍" subtitle="ファイルやフォルダーを 1 つのアーカイブに圧縮して共有・保存したり、受け取ったアーカイブを追加ツールなしでデバイス上でそのまま解凍したりできます。" icon="document-duplicate" >}}
 
-  {{< feature-card title="書類を PDF にスキャン" subtitle="カメラで紙の書類をスキャン。Everdisk が自動的に端を検出して各ページをまっすぐに補正し、きれいな PDF として保存。すぐに共有・保存できます。" icon="document-text" >}}
+  {{< ls-feature-card title="書類を PDF にスキャン" subtitle="カメラで紙の書類をスキャン。Everdisk が自動的に端を検出して各ページをまっすぐに補正し、きれいな PDF として保存。すぐに共有・保存できます。" icon="document-text" >}}
 
-  {{< feature-card title="PDF に書き込み・署名" subtitle="PDF や写真を開いて、アプリ内でそのまま書き込み。描画、ハイライト、テキストや図形の追加、指での署名ができます。変更はファイルに直接保存されます。" icon="pencil-alt" >}}
+  {{< ls-feature-card title="PDF に書き込み・署名" subtitle="PDF や写真を開いて、アプリ内でそのまま書き込み。描画、ハイライト、テキストや図形の追加、指での署名ができます。変更はファイルに直接保存されます。" icon="pencil-alt" >}}
 
-  {{< feature-card title="PDF ツール" subtitle="本格的な PDF ツールキットを内蔵。ファイルの圧縮、テキスト認識 (OCR) による検索可能な PDF への変換、オープンパスワードの設定や削除、権限の確認、書類メタデータの編集、注釈やフォームフィールドのフラット化ができます。" icon="document-report" >}}
+  {{< ls-feature-card title="PDF ツール" subtitle="本格的な PDF ツールキットを内蔵。ファイルの圧縮、テキスト認識 (OCR) による検索可能な PDF への変換、オープンパスワードの設定や削除、権限の確認、書類メタデータの編集、注釈やフォームフィールドのフラット化ができます。" icon="document-report" >}}
 
-  {{< feature-card title="フォトギャラリー" subtitle="テレビでもブラウザでも本物のプレビューサムネイルを表示。スワイプとズームに対応した全画面フォトギャラリーで、いつも写真そのものが見られます。ただのアイコンではありません。" icon="photograph" >}}
+  {{< ls-feature-card title="フォトギャラリー" subtitle="テレビでもブラウザでも本物のプレビューサムネイルを表示。スワイプとズームに対応した全画面フォトギャラリーで、いつも写真そのものが見られます。ただのアイコンではありません。" icon="photograph" >}}
 
-  {{< feature-card title="オーディオミニプレーヤー" subtitle="キュー、シャッフル、リピート、ロック画面操作に対応したミニプレーヤーで音声を楽しめます。写真と音楽のライブラリもアプリ内でそのまま再生できます。" icon="music-note" >}}
+  {{< ls-feature-card title="オーディオミニプレーヤー" subtitle="キュー、シャッフル、リピート、ロック画面操作に対応したミニプレーヤーで音声を楽しめます。写真と音楽のライブラリもアプリ内でそのまま再生できます。" icon="music-note" >}}
 
-  {{< feature-card title="全画面動画" subtitle="動画を全画面で視聴。ローカルファイルから再生したり、接続したデバイスから直接ストリーミングしたりでき、シンプルで馴染みのある再生操作が使えます。" icon="film" >}}
+  {{< ls-feature-card title="全画面動画" subtitle="動画を全画面で視聴。ローカルファイルから再生したり、接続したデバイスから直接ストリーミングしたりでき、シンプルで馴染みのある再生操作が使えます。" icon="film" >}}
 
-  {{< feature-card title="ライブラリをまるごと共有" subtitle="写真と音楽のライブラリをまるごとオンにすれば、すべてのアルバムと曲がオリジナル画質、または互換性のために変換された形式でネットワーク越しに利用できます。" icon="share" >}}
+  {{< ls-feature-card title="ライブラリをまるごと共有" subtitle="写真と音楽のライブラリをまるごとオンにすれば、すべてのアルバムと曲がオリジナル画質、または互換性のために変換された形式でネットワーク越しに利用できます。" icon="share" >}}
 
-  {{< feature-card title="ファイルを送り返す" subtitle="やり取りは双方向。どのパソコンからでも写真や書類をデバイスへ直接アップロードでき、フォルダーごとまとめて追加することもできます。すべて同じ接続で完結します。" icon="upload" >}}
+  {{< ls-feature-card title="ファイルを送り返す" subtitle="やり取りは双方向。どのパソコンからでも写真や書類をデバイスへ直接アップロードでき、フォルダーごとまとめて追加することもできます。すべて同じ接続で完結します。" icon="upload" >}}
 
-  {{< feature-card title="パスワード保護" subtitle="ログインとパスワードで共有コンテンツを不正アクセスから守ります。接続するデバイスは同じ情報を入力しないとファイルを見られません。" icon="lock-closed" >}}
+  {{< ls-feature-card title="パスワード保護" subtitle="ログインとパスワードで共有コンテンツを不正アクセスから守ります。接続するデバイスは同じ情報を入力しないとファイルを見られません。" icon="lock-closed" >}}
 
-  {{< feature-card title="デバイスをブロック" subtitle="誰が接続するかをしっかり管理。ネットワーク上のどのデバイスもワンタップでブロックでき、共有中のコンテンツにアクセスできなくなります。" icon="shield-check" >}}
+  {{< ls-feature-card title="デバイスをブロック" subtitle="誰が接続するかをしっかり管理。ネットワーク上のどのデバイスもワンタップでブロックでき、共有中のコンテンツにアクセスできなくなります。" icon="shield-check" >}}
 
-  {{< feature-card title="プライベートでローカル完結" subtitle="すべてがローカルネットワーク内で完結し、インターネットには一切送信されません。ファイルが家の外に出ることはなく、アカウントもクラウドも間に入りません。" icon="eye" >}}
+  {{< ls-feature-card title="プライベートでローカル完結" subtitle="すべてがローカルネットワーク内で完結し、インターネットには一切送信されません。ファイルが家の外に出ることはなく、アカウントもクラウドも間に入りません。" icon="eye" >}}
 
-  {{< feature-card title="オリジナルまたは変換" subtitle="写真や動画をオリジナル画質のまま保つことも、TV やブラウザなど相手のデバイスに合わせてより互換性の高い形式に変換することもできます。" icon="switch-horizontal" >}}
+  {{< ls-feature-card title="オリジナルまたは変換" subtitle="写真や動画をオリジナル画質のまま保つことも、TV やブラウザなど相手のデバイスに合わせてより互換性の高い形式に変換することもできます。" icon="switch-horizontal" >}}
 
-  {{< feature-card title="外部フォルダーを接続" subtitle="デバイス上のどこにあるフォルダーでも接続して、アプリ内でそのまま扱えます。他のすべてと一緒にネットワークで共有することもできます。" icon="collection" >}}
+  {{< ls-feature-card title="外部フォルダーを接続" subtitle="デバイス上のどこにあるフォルダーでも接続して、アプリ内でそのまま扱えます。他のすべてと一緒にネットワークで共有することもできます。" icon="collection" >}}
 
-  {{< feature-card title="バックグラウンド転送" subtitle="ダウンロードやアップロードは、アプリ内を移動している間も動き続けます。ファイル転送パネルを開けば進行状況を確認でき、どのタスクも一時停止・再開・再試行・キャンセルできます。" icon="download" >}}
+  {{< ls-feature-card title="バックグラウンド転送" subtitle="ダウンロードやアップロードは、アプリ内を移動している間も動き続けます。ファイル転送パネルを開けば進行状況を確認でき、どのタスクも一時停止・再開・再試行・キャンセルできます。" icon="download" >}}
 
-  {{< feature-card title="ゴミ箱で安全に削除" subtitle="削除したファイルは復元可能なゴミ箱に移動するので、気が変わったときに元に戻せます。完全に消したいときは、設定でファイルを完全に削除をオンにしてください。" icon="trash" >}}
+  {{< ls-feature-card title="ゴミ箱で安全に削除" subtitle="削除したファイルは復元可能なゴミ箱に移動するので、気が変わったときに元に戻せます。完全に消したいときは、設定でファイルを完全に削除をオンにしてください。" icon="trash" >}}
 
 {{< /cards >}}
 
@@ -259,55 +259,55 @@ iPhone や iPad をワイヤレスドライブに変えて <strong>ネットワ�
 <div class="hx:mt-6"></div>
 
 <div class="hx:w-full">
-{{< appstore-reviews apps="6751851132" stars="5,4"  app="Everdisk" >}}
+{{< ls-appstore-reviews apps="6751851132" stars="5,4"  app="Everdisk" >}}
 </div>
 
 <div class="hx:mt-6"></div>
 -->
 
-{{< hextra/section-headline >}}
+{{< ls-section-headline >}}
   料金プラン
-{{< /hextra/section-headline >}}
+{{< /ls-section-headline >}}
 
 <div class="hx:mt-6"></div>
 
 <div class="hx:w-full">
-{{< pricing-plans >}}
+{{< ls-pricing-plans >}}
 
 </div>
 
 <div class="hx:mt-6"></div>
 
 <div class="hx:w-full hx:mx-auto hx:flex hx:flex-col hx:items-center">
-  {{< hextra/info-paragraph border="true" >}}
+  {{< ls-info-paragraph border="true" >}}
    <strong>料金について</strong>: 価格はアメリカ合衆国向けに米ドルで表示しています。最終的な価格はお住まいの地域によって異なる場合があります。  
-  {{< /hextra/info-paragraph >}}
+  {{< /ls-info-paragraph >}}
 </div>
 
 <div class="hx:mt-6"></div>
 
 <div class="hx:w-full">
-{{< app-details heading="true" >}}
+{{< ls-app-details heading="true" >}}
 </div>
 
 <div class="hx:mt-6"></div>
 
-{{< hextra/section-headline >}}
+{{< ls-section-headline >}}
   よくある質問
-{{< /hextra/section-headline >}}
+{{< /ls-section-headline >}}
 
 <div class="hx:mt-6"></div>
 
 <div class="hx:w-full">
-{{% details title="Everdisk とは何ですか?" closed="true" %}}
+{{% ls-details title="Everdisk とは何ですか?" closed="true" %}}
 Everdisk は、iPhone や iPad をワイヤレスドライブに変え、さらに他のデバイスにも接続できるハブにするアプリです。<br>
 ファイル・写真・動画・音楽をネットワーク上のあらゆる機器と共有し、他のサーバーを閲覧・ストリーミングし、すべてをデバイス上で管理できます。<br>
 アカウントもクラウドも不要で、相手側に追加のアプリをインストールする必要もありません。スタートをタップするだけで準備完了です。<br><br>
 
 アプリは 5 つのサーバーを同時に動かすので、どのデバイスも自分に合った方法で接続できます。スマート TV は DLNA、パソコンや Web ブラウザは HTTP、Finder・Windows・Linux は WebDAV、ネットワークドライブは SMB (任意で暗号化)、ファイルアプリは FTP です。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Everdisk はどのように動きますか?" closed="true" %}}
+{{% ls-details title="Everdisk はどのように動きますか?" closed="true" %}}
 スタートをタップすると、Everdisk は選択したコンテンツの共有を開始し、5 つのサーバーを同時に動かして、さまざまなデバイスがそれぞれ好みの方法で接続できるようにします。<br><br>
 
 - <strong>DLNA</strong> により、スマート TV やメディアプレーヤーが写真・動画・音楽を自動的に見つけ、プレビューサムネイル付きで表示します。<br>
@@ -317,15 +317,15 @@ Everdisk は、iPhone や iPad をワイヤレスドライブに変え、さら�
 - <strong>FTP</strong> は、ファイルアプリやパワーユーザー向けです。<br><br>
 
 Everdisk は逆方向にも接続でき、ネットワーク上の DLNA、WebDAV、FTP、SFTP、SMB サーバー (Mac、Windows PC、Linux マシン、NAS ドライブを含む) のフォルダーを閲覧し、音声や動画をストリーミングし、サーバーが許可していればファイルのダウンロードや管理ができます。すべてがローカルネットワーク内で完結し、インターネットには一切送信されません。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Everdisk は無料ですか?" closed="true" %}}
+{{% ls-details title="Everdisk は無料ですか?" closed="true" %}}
 はい。Everdisk は無料でダウンロードでき、デバイスをワイヤレスドライブに変えて 5 通りにファイルを共有し、他のサーバーに接続し、内蔵のファイルマネージャーを使うところまで、すべて無料でご利用いただけます。<br><br>
 
 任意で買い切りの <strong>Premium Lifetime</strong> を購入できます。サブスクリプションではなく一度きりの支払いで、共有フォルダーと保存できる接続の無制限化、写真・動画の変換、SMB3 暗号化 (AES)、カスタムポート、自動共有開始、デバイスのカスタマイズが解除されます。購入は Apple ID に紐づくため、購入の復元を使って他のデバイスでも解除できます。価格はお住まいの国や地域によって異なる場合があります。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="パソコンからはどうやって接続しますか?" closed="true" %}}
+{{% ls-details title="パソコンからはどうやって接続しますか?" closed="true" %}}
 Everdisk は WebDAV でデバイスを普通のネットワークドライブとして表示します。<br><br>
 
 - <strong>Mac</strong> では、Finder を開いて <em>移動 → サーバへ接続</em> を選び、アプリに表示された WebDAV アドレスを入力します。<br>
@@ -333,39 +333,39 @@ Everdisk は WebDAV でデバイスを普通のネットワークドライブと
 - <strong>Linux</strong> では、ファイルマネージャーから WebDAV アドレスに接続します。<br><br>
 
 接続できたら、双方向にドラッグ&amp;ドロップできます。パソコンからデバイスへファイルをコピーしたり、逆に取り出したりできます。ドライブをマウントしたくない場合は、どの Web ブラウザでも HTTP リンクを開けます。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="SMB を使って接続を暗号化できますか?" closed="true" %}}
+{{% ls-details title="SMB を使って接続を暗号化できますか?" closed="true" %}}
 はい。Everdisk は WebDAV に加えて <strong>SMB</strong> でも共有できます。これは Mac・Windows・Linux 向けのネットワークドライブで (アプリでは <strong>コンピュータ（詳細）</strong> 接続として表示されます)。Mac では Finder のサイドバーの「場所」に独立して表示され、Windows ではアプリに表示された <code>smb://</code> アドレスを使ってエクスプローラーで開きます。<br><br>
 
 SMB は <strong>暗号化</strong> できる唯一の接続でもあります。ログインとパスワードを設定してから、設定で <strong>SMB 暗号化を必須にする</strong> をオンにすると、すべての転送が <strong>SMB3 暗号化 (AES)</strong> で保護され、同じネットワーク上の他の人があなたのファイルを読めなくなります。暗号化された接続は匿名にできないため、ログインとパスワードが必要で、SMB3 に対応したクライアント (最新の Mac の Finder、または Windows 10 以降) も必要です。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="テレビへはどうやってストリーミングしますか?" closed="true" %}}
+{{% ls-details title="テレビへはどうやってストリーミングしますか?" closed="true" %}}
 テレビやメディアプレーヤーとデバイスが同じ Wi-Fi ネットワークに接続されていることを確認し、写真・動画・音楽を共有した状態で Everdisk のスタートをタップします。<br><br>
 
 デバイスがプレビューサムネイル付きで、テレビのメディアサーバー一覧に自動的に表示されます。テレビ側でそれを開けば、大画面でライブラリを楽しめます。ケーブルも追加アプリも必要ありません。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Web ブラウザでファイルを開くにはどうしますか?" closed="true" %}}
+{{% ls-details title="Web ブラウザでファイルを開くにはどうしますか?" closed="true" %}}
 スタートをタップすると、Everdisk が HTTP サーバー用のシンプルな Web アドレスを表示します。<br><br>
 
 そのリンクを同じネットワーク上の相手と共有してください。相手はどの Web ブラウザでも開いて、きれいなグリッドやリストでファイルを閲覧し、写真を全画面ギャラリーで見て、内蔵プレーヤーで音楽を再生し、何でもダウンロードできます。相手側にインストールするものは何もないので、別のスマホやパソコンにファイルを渡す一番手軽な方法です。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Everdisk は Wi-Fi なしでも使えますか?" closed="true" %}}
+{{% ls-details title="Everdisk は Wi-Fi なしでも使えますか?" closed="true" %}}
 はい。充電に使っているのと同じ USB ケーブルでデバイスを Mac に接続すれば、ファイルはケーブルを通って直接、Wi-Fi より速く転送されます。<br><br>
 
 無線ネットワークに依存しないため、飛行機の中でも、ホテルでも、Wi-Fi 共有がブロックされているロックされたネットワークや公共のネットワークでも使えます。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Everdisk では何に接続できますか?" closed="true" %}}
+{{% ls-details title="Everdisk では何に接続できますか?" closed="true" %}}
 Everdisk はネットワーク上の他のデバイスのクライアントにもなります。<strong>DLNA</strong>、<strong>WebDAV</strong>、<strong>FTP</strong>、<strong>SFTP</strong>、<strong>SMB</strong> サーバーを見つけて接続でき、Mac、Windows PC、Linux マシン、NAS デバイス、メディアサーバーも対象です。<br><br>
 
 接続できたら、フォルダーを閲覧し、音声や動画をストリーミングし、ファイルをダウンロードできます。サーバーが許可していれば、フォルダーの作成、アップロード、名前の変更、移動、削除も可能です。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="書類のスキャンや PDF の操作はできますか?" closed="true" %}}
+{{% ls-details title="書類のスキャンや PDF の操作はできますか?" closed="true" %}}
 はい。Everdisk はカメラで紙の書類をスキャンできます。自動的に端を検出して各ページをまっすぐに補正し、きれいな複数ページの PDF としてデバイス上に保存します。<br><br>
 
 また、PDF (または写真) を開いて、内蔵ビューアでそのまま <strong>書き込み</strong> ができます。描画、ハイライト、テキストや図形の追加、指での署名ができ、変更はファイルに保存されます。<br><br>
@@ -377,74 +377,74 @@ Everdisk はネットワーク上の他のデバイスのクライアントに�
 • <strong>権限</strong> - PDF が何を許可しているか (印刷、コピーなど) を確認します。<br>
 • <strong>メタデータを編集</strong> - タイトル、作成者、キーワードなどの書類情報を変更・消去します。<br>
 • <strong>統合</strong> - 注釈やフォーム入力をページに焼き込んで変更できないようにします。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Everdisk はプライベートで安全ですか?" closed="true" %}}
+{{% ls-details title="Everdisk はプライベートで安全ですか?" closed="true" %}}
 すべてがローカルネットワーク内で完結し、インターネットには一切送信されないため、ファイルが家の外に出ることはありません。アカウントもクラウドも間に入りません。<br><br>
 
 ログインとパスワードでアクセスを保護でき、接続するデバイスは同じ情報を入力しないとファイルを見られません。また、ネットワーク上のどのデバイスもワンタップでブロックできます。プライバシーを最大限に保つには、よく知っていて信頼できる Wi-Fi ネットワークに接続しているときだけ共有をオンにしてください。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="ファイルマネージャーでは何ができますか?" closed="true" %}}
+{{% ls-details title="ファイルマネージャーでは何ができますか?" closed="true" %}}
 Everdisk にはデバイス上のすべてを扱える本格的なファイルマネージャーが備わっています。<br><br>
 
 リストやグリッドで閲覧し、フォルダーの作成、名前の変更、移動、コピー、zip 圧縮と解凍、削除ができます。また、デバイス上のどこにあるフォルダーでも接続してアプリ内でそのまま扱い、他のすべてと一緒にネットワークで共有できます。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="アプリ内で音楽を再生できますか?" closed="true" %}}
+{{% ls-details title="アプリ内で音楽を再生できますか?" closed="true" %}}
 はい。オーディオファイルをタップすると、画面下部に表示されるミニプレーヤーで再生され、そのまま閲覧を続けられます。<br><br>
 
 ミニプレーヤーにはシャッフルとリピート (オフ、すべて、1 曲) 付きの完全なキューがあり、ロック画面やメディアキーの操作では実際のタイトル、アーティスト、アルバムが表示されます。タップまたは上にスワイプするとフルプレーヤーが開き、下にスワイプすると音声を再生したまま縮小できます。フォルダー内の 1 曲をタップすると、そのフォルダー全体がキューとして再生されます。<br><br>
 
 音声はローカルファイル、接続したフォルダー、音楽ライブラリ、そしてデバイスタブで接続したサーバーから再生できます。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="アプリ内で動画を視聴できますか?" closed="true" %}}
+{{% ls-details title="アプリ内で動画を視聴できますか?" closed="true" %}}
 はい。動画をタップすると全画面で再生されます。Everdisk はシステム内蔵の動画プレーヤーを使うので、AirPlay、Picture in Picture、再生速度など馴染みのある操作が使えます。<br><br>
 
 動画はローカルファイルや接続したフォルダーから再生でき、デバイスタブで接続したデバイスから直接ストリーミングもできるので、ファイル全体を先にダウンロードする必要はありません。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="写真はどうやって見ますか?" closed="true" %}}
+{{% ls-details title="写真はどうやって見ますか?" closed="true" %}}
 ドキュメントタブを開いて写真モードに切り替えると、写真と動画を閲覧できます。写真をタップすると全画面で開き、ズーム、写真間のスワイプ、共有ができます。<br><br>
 
 写真は DLNA でテレビに、また Web ブラウザにも本物のプレビューサムネイルが表示され、スワイプ、ピンチでのズーム、スライドショーに対応した全画面ギャラリーで開けます。位置情報のある写真や動画は、情報画面にピン付きの地図が表示されます。
-{{% /details %}}
+{{% /ls-details %}}
 
 </div>
 
 <div class="hx:mt-6"></div>
 
-{{< hextra/section-headline >}}
+{{< ls-section-headline >}}
   ユーザーガイド
-{{< /hextra/section-headline >}}
+{{< /ls-section-headline >}}
 
 <div class="hx:mt-6"></div>
 
 <div class="hx:w-full">
 
 <div class="hx:w-full hx:mx-auto hx:flex hx:flex-col hx:items-center hx:text-center">
-  {{< hextra/info-paragraph border="false" >}}
+  {{< ls-info-paragraph border="false" >}}
   このガイドは、iPhone や iPad で Everdisk を最大限に活用するのに役立ちます。デバイスをワイヤレスドライブに変える方法、テレビ・パソコン・ブラウザの接続方法、自分のサーバーへのアクセス、ファイルの管理と再生、そしてローカルネットワーク内ですべてをプライベートに保つ方法を学べます。
-  {{< /hextra/info-paragraph >}}
+  {{< /ls-info-paragraph >}}
 </div>
 
 {{< cards >}}
-  {{< feature-card icon="play" title="共有" subtitle="スタートをタップし、共有するものを選び、5 つのサーバーを同時に動かします。" link="/docs/guide/everdisk/everdisk-guide-sharing" >}}
+  {{< ls-feature-card icon="play" title="共有" subtitle="スタートをタップし、共有するものを選び、5 つのサーバーを同時に動かします。" link="/docs/guide/everdisk/everdisk-guide-sharing" >}}
 
-  {{< feature-card icon="desktop-computer" title="デバイスを接続する" subtitle="テレビ、Mac や PC、ブラウザ、別のスマホ、USB ケーブルがファイルに接続する方法。" link="/docs/guide/everdisk/everdisk-guide-connect" >}}
+  {{< ls-feature-card icon="desktop-computer" title="デバイスを接続する" subtitle="テレビ、Mac や PC、ブラウザ、別のスマホ、USB ケーブルがファイルに接続する方法。" link="/docs/guide/everdisk/everdisk-guide-connect" >}}
 
-  {{< feature-card icon="server" title="サーバーへ接続する" subtitle="DLNA、WebDAV、FTP、SFTP、SMB サーバーや NAS ドライブにアクセスして閲覧・ストリーミング・ダウンロードします。" link="/docs/guide/everdisk/everdisk-guide-devices" >}}
+  {{< ls-feature-card icon="server" title="サーバーへ接続する" subtitle="DLNA、WebDAV、FTP、SFTP、SMB サーバーや NAS ドライブにアクセスして閲覧・ストリーミング・ダウンロードします。" link="/docs/guide/everdisk/everdisk-guide-devices" >}}
 
-  {{< feature-card icon="folder" title="ファイルと書類" subtitle="閲覧、整理、zip 圧縮と解凍、外部フォルダーの接続、書類の PDF へのスキャンができます。" link="/docs/guide/everdisk/everdisk-guide-files" >}}
+  {{< ls-feature-card icon="folder" title="ファイルと書類" subtitle="閲覧、整理、zip 圧縮と解凍、外部フォルダーの接続、書類の PDF へのスキャンができます。" link="/docs/guide/everdisk/everdisk-guide-files" >}}
 
-  {{< feature-card icon="music-note" title="写真・音楽・動画" subtitle="ライブラリをまるごと共有し、ミニプレーヤーで音声を再生し、動画を全画面で視聴します。" link="/docs/guide/everdisk/everdisk-guide-media" >}}
+  {{< ls-feature-card icon="music-note" title="写真・音楽・動画" subtitle="ライブラリをまるごと共有し、ミニプレーヤーで音声を再生し、動画を全画面で視聴します。" link="/docs/guide/everdisk/everdisk-guide-media" >}}
 
-  {{< feature-card icon="lock-closed" title="アクセスとプライバシー" subtitle="パスワードの追加、編集の制御、デバイスのブロック、すべてをネットワーク内に保つ方法。" link="/docs/guide/everdisk/everdisk-guide-access" >}}
+  {{< ls-feature-card icon="lock-closed" title="アクセスとプライバシー" subtitle="パスワードの追加、編集の制御、デバイスのブロック、すべてをネットワーク内に保つ方法。" link="/docs/guide/everdisk/everdisk-guide-access" >}}
 
-  {{< feature-card icon="adjustments" title="設定" subtitle="デバイスプロファイルやポートから画質や転送まで、すべての設定を解説します。" link="/docs/guide/everdisk/everdisk-guide-settings" >}}
+  {{< ls-feature-card icon="adjustments" title="設定" subtitle="デバイスプロファイルやポートから画質や転送まで、すべての設定を解説します。" link="/docs/guide/everdisk/everdisk-guide-settings" >}}
 
-  {{< feature-card icon="question-mark-circle" title="FAQ" subtitle="よくある質問と実際のシーンへの手早い回答。" link="/docs/faq/everdisk" >}}
+  {{< ls-feature-card icon="question-mark-circle" title="FAQ" subtitle="よくある質問と実際のシーンへの手早い回答。" link="/docs/faq/everdisk" >}}
 
 {{< /cards >}}
 

@@ -23,7 +23,7 @@ readingTime: 16
 Màn hình Cài đặt là trung tâm điều khiển của Evervideo. Từ đây bạn có thể nâng cấp lên Premium, cấu hình công cụ video và âm thanh (codec hệ thống hoặc FFmpeg), quản lý Hình trong hình, thiết lập phụ đề (chính, phụ, libass, tệp ngoài, phông chữ), tổ chức thư viện phương tiện, thiết lập trình quản lý tệp, bật widget Màn hình chính, sao lưu dữ liệu và truy cập thông tin trợ giúp và pháp lý. Các mục được nhóm theo tiêu đề: Mua hàng & Cập nhật, Tùy chọn ứng dụng, Trợ giúp, Pháp lý & Quyền riêng tư.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Màn hình chính Cài đặt Evervideo" image="/docs/guide/evervideo/img/evervideo-settings.webp" >}}
+  {{< ls-card title="" subtitle="Màn hình chính Cài đặt Evervideo" image="/docs/guide/evervideo/img/evervideo-settings.webp" >}}
 {{< /cards >}}
 
 ## Nâng cấp lên Premium
@@ -31,13 +31,13 @@ Màn hình Cài đặt là trung tâm điều khiển của Evervideo. Từ đâ
 Nâng cấp ứng dụng lên phiên bản Premium để xóa tất cả giới hạn. Phiên bản miễn phí của ứng dụng cung cấp mua hàng trọn đời một lần trong ứng dụng và hai tùy chọn đăng ký (1 tháng và 1 năm) để xóa tất cả hạn chế và nâng cấp lên Premium.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Nâng cấp lên Premium Evervideo" image="/docs/guide/evervideo/img/evervideo-upgrade-to-premium.webp" >}}
+  {{< ls-card title="" subtitle="Nâng cấp lên Premium Evervideo" image="/docs/guide/evervideo/img/evervideo-upgrade-to-premium.webp" >}}
 {{< /cards >}}
 
 **Chia sẻ gia đình** được bật cho tất cả các giao dịch mua và gói, vì vậy bạn có thể chia sẻ phiên bản Premium với tối đa năm thành viên trong gia đình mà không mất thêm chi phí.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Chọn gói Premium Evervideo" image="/docs/guide/evervideo/img/evervideo-select-premium-plan.webp" >}}
+  {{< ls-card title="" subtitle="Chọn gói Premium Evervideo" image="/docs/guide/evervideo/img/evervideo-select-premium-plan.webp" >}}
 {{< /cards >}}
 
 ## Chia sẻ giao dịch mua giữa iOS và Mac
@@ -51,7 +51,7 @@ Bạn cũng có thể nhấn nút **Khôi phục giao dịch mua** trong cài đ
 Để khôi phục giao dịch mua trên thiết bị mới, sử dụng menu **Mua hàng → Khôi phục giao dịch mua**. Bạn sẽ thấy danh sách các giao dịch mua của mình. Nếu bạn không thấy tất cả, hãy xác nhận thiết bị được kết nối với cùng Apple ID được sử dụng để thực hiện các giao dịch mua, và đảm bảo iCloud đã được bật.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Menu Mua hàng Evervideo trong Cài đặt" image="/docs/guide/evervideo/img/evervideo-purhases-menu-in-settings.webp" >}}
+  {{< ls-card title="" subtitle="Menu Mua hàng Evervideo trong Cài đặt" image="/docs/guide/evervideo/img/evervideo-purhases-menu-in-settings.webp" >}}
 {{< /cards >}}
 
 ## Dùng thử Premium miễn phí

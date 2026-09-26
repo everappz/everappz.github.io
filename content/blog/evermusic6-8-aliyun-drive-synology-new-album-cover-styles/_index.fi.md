@@ -12,7 +12,7 @@ authors:
     image: "/images/about/artem-meleshko-founder-everappz.webp"
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 **Yhteenveto:** Evermusic 6.8 lisää Aliyun Drive- ja Synology NAS -integraation (QuickConnect-tuella), kuusi uutta albumin kansikuvien vieritysefektiä, minimaalisen koko näytön soittimen, raahaa ja pudota -tiedostonhallinnan sekä nopeamman kansikuvien latauksen. Saatavilla nyt iOS:lle ja macOS:lle.
 
@@ -77,18 +77,18 @@ Evermusic 6.8 keskittyy kolmeen alueeseen: laajempaan pilviyhteensopivuuteen (Al
 
 ## Usein kysytyt kysymykset
 
-{{% details title="Miten yhdistän Synology NAS:n Evermusiciin?" closed="true" %}}
+{{% ls-details title="Miten yhdistän Synology NAS:n Evermusiciin?" closed="true" %}}
 Siirry Yhteydet-välilehdelle, valitse Synology ja syötä QuickConnectID. Evermusic yhdistää suoraan ilman IP-osoitteita tai VPN-asetuksia.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Onko Aliyun Drive ilmainen Evermusicin kanssa?" closed="true" %}}
+{{% ls-details title="Onko Aliyun Drive ilmainen Evermusicin kanssa?" closed="true" %}}
 Kyllä. Jos sinulla on Aliyun Drive -tili, voit yhdistää sen Evermusiciin ilman lisäkustannuksia. Tallennusrajat riippuvat Aliyun Drive -suunnitelmastasi.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Voinko mukauttaa albumin kansikuvien vieritystyyliä?" closed="true" %}}
+{{% ls-details title="Voinko mukauttaa albumin kansikuvien vieritystyyliä?" closed="true" %}}
 Kyllä. Siirry kohtaan Settings > Audio Player > Personalization > Album Covers Scrolling Style ja valitse kuudesta vaihtoehdosta: MacDoc, Linear, Rotary, Inverted Rotary, Cylinder tai CoverFlow.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Toimiiko minimaalinen soittimen näyttö kaikilla laitteilla?" closed="true" %}}
+{{% ls-details title="Toimiiko minimaalinen soittimen näyttö kaikilla laitteilla?" closed="true" %}}
 Kyllä. Koko näytön albumin kansikuvatyyli on saatavilla kaikilla tuetuilla iPhone-, iPad- ja Mac-laitteilla, joissa on Evermusic 6.8 tai uudempi.
-{{% /details %}}
+{{% /ls-details %}}

@@ -18,7 +18,7 @@ readingTime: 16
 设置屏幕是 Evermusic 的控制中心。从这里您可以升级到 Premium、配置音频播放器、管理音乐库、设置文件管理器、自定义界面、启用小组件和 CarPlay、备份数据，以及访问帮助和法律信息。各部分按标题分组：**购买与更新**、应用偏好设置、**帮助**和**法律与隐私**。
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evermusic 设置屏幕" image="/docs/guide/evermusic/evermusic-guide-settings/img/settings-main-screen.webp" >}}
+  {{< ls-card title="" subtitle="Evermusic 设置屏幕" image="/docs/guide/evermusic/evermusic-guide-settings/img/settings-main-screen.webp" >}}
 {{< /cards >}}
 
 ## 购买与更新

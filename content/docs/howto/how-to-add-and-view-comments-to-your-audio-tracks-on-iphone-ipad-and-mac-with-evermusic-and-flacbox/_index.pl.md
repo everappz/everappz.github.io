@@ -7,7 +7,7 @@ tags: ["evermusic", "audio", "edytor", "tagi", "komentarze"]
 readingTime: 4
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **Podsumowanie:** Evermusic i Flacbox pozwalają dodawać komentarze tekstowe ze znacznikami czasu do dowolnej ścieżki audio, a następnie wyświetlać je synchronicznie podczas odtwarzania. Możesz również przeglądać osadzone teksty piosenek i pliki LRC. Funkcje komentarzy i tekstów piosenek są bezpłatne w obu aplikacjach.
@@ -97,22 +97,22 @@ Dodanie komentarzy do ścieżek audio w Evermusic i Flacbox oznacza znaczący sk
 
 ## Najczęściej zadawane pytania
 
-{{% details title="Czy funkcja komentarzy jest bezpłatna w Evermusic i Flacbox?" closed="true" %}}
+{{% ls-details title="Czy funkcja komentarzy jest bezpłatna w Evermusic i Flacbox?" closed="true" %}}
 Tak. Dodawanie, edytowanie i przeglądanie komentarzy i tekstów piosenek to bezpłatna funkcja zarówno w Evermusic, jak i Flacbox.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Jakiego formatu powinienem użyć do komentarzy ze znacznikami czasu?" closed="true" %}}
+{{% ls-details title="Jakiego formatu powinienem użyć do komentarzy ze znacznikami czasu?" closed="true" %}}
 Użyj formatu znacznika czasu LRC: `[MM:SS.SS]`, a po nim twój tekst. Na przykład: `[01:23.45]To jest mój komentarz`. Możesz przypisać wiele znaczników czasu do jednej linii.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Czy mogę przeglądać teksty piosenek i pliki LRC na tym samym ekranie?" closed="true" %}}
+{{% ls-details title="Czy mogę przeglądać teksty piosenek i pliki LRC na tym samym ekranie?" closed="true" %}}
 Tak. Ekran Komentarze obsługuje trzy tryby, między którymi możesz przesuwać: Komentarze, Osadzone teksty piosenek i Plik LRC.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Gdzie mogę znaleźć pliki tekstów piosenek LRC?" closed="true" %}}
+{{% ls-details title="Gdzie mogę znaleźć pliki tekstów piosenek LRC?" closed="true" %}}
 Bezpłatne teksty piosenek LRC są dostępne na stronach takich jak Lyricsify.com. Możesz je osadzić w tagu tekstów piosenek swojego pliku audio lub umieścić osobny plik `.lrc` obok pliku audio.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Czy potrzebuję osobnej aplikacji do edycji tagów tekstów piosenek?" closed="true" %}}
+{{% ls-details title="Czy potrzebuję osobnej aplikacji do edycji tagów tekstów piosenek?" closed="true" %}}
 Komentarze możesz edytować bezpośrednio w Evermusic i Flacbox. Do edycji konkretnie tagu tekstów piosenek użyj Evertag, bezpłatnego edytora metadanych audio dla iOS i macOS.
-{{% /details %}}
+{{% /ls-details %}}

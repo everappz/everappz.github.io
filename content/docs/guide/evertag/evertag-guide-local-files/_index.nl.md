@@ -18,7 +18,7 @@ Het gedeelte Lokale bestanden dient als hub voor het beheren van bestanden in de
 Met deze ingebouwde bestandsbeheerder kun je bestanden bewerken en biedt het verschillende methoden om audiobestanden in de app te importeren. Bestanden die je recentelijk hebt geopend, verschijnen automatisch op het tabblad **Recenties** en items die je met een ster markeert, verschijnen onder **Favorieten**, zodat je direct naar de bestanden kunt gaan waarmee je het meest werkt zonder naar dit scherm terug te bladeren.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evertag Downloads Scherm" image="/docs/guide/evertag/img/downloads.webp" >}}
+  {{< ls-card title="" subtitle="Evertag Downloads Scherm" image="/docs/guide/evertag/img/downloads.webp" >}}
 {{< /cards >}}
 
 ## Bestanden downloaden van cloudopslag
@@ -74,7 +74,7 @@ Toont bestanden en mappen die zijn opgeslagen in de map Documenten van de app en
 Toont bestanden die zich op je apparaat bevinden maar in andere applicaties. Je kunt ze importeren in deze applicatie via de systeembestandskiezer. Om de kiezer te activeren, kies je "Bestanden openen..." om bestanden te selecteren of "Mappen openen..." om mappen te selecteren. Gedetailleerde instructies voor het importeren van lokale muziek op je iPhone of Mac zijn [hier](/docs/howto/how-to-play-local-music-stored-on-your-iphone-or-mac) beschikbaar. Je kunt ook een map op je apparaat verbinden en snel toegang hebben tot de inhoud van de map. Gebruik het menu-item "Een map verbinden" en kies een map op je apparaat. Tik op "Voltooid" en de app maakt een koppeling naar die map met lees-/schrijftoegang, zodat je bestanden rechtstreeks vanuit deze app kunt beheren. Om een map op je apparaat te verbreken, tik je op de knop "Meer acties" en kies je "Ontkoppelen."
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evertag Bestanden importeren van mijn apparaat" image="/docs/guide/evertag/img/open-files.webp" >}}
+  {{< ls-card title="" subtitle="Evertag Bestanden importeren van mijn apparaat" image="/docs/guide/evertag/img/open-files.webp" >}}
 {{< /cards >}}
 
 ## Bestanden importeren van verbonden USB-flashkaarten
@@ -86,7 +86,7 @@ Gedetailleerde instructies voor het verbinden van een USB-flashkaart met je iPho
 Het menu Meer acties voor de momenteel geopende map bevindt zich in de rechterbovenhoek en biedt toegang tot verschillende acties.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evertag Bestanden importeren van mijn apparaat" image="/docs/guide/evertag/img/downloads-current-folder-actions.webp" >}}
+  {{< ls-card title="" subtitle="Evertag Bestanden importeren van mijn apparaat" image="/docs/guide/evertag/img/downloads-current-folder-actions.webp" >}}
 {{< /cards >}}
 
 - **Selecteren:** Schakel over naar de selectiemodus voor bestanden en mappen.  

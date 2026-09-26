@@ -19,7 +19,7 @@ readingTime: 5
 Evervideo 中的播放清單可以包含線上雲端視訊、離線下載檔案、本機檔案、Photos 資料庫視訊和 iOS Music 資料庫視訊的混合——全部在一個播放清單中——並無縫一起播放。
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evervideo 媒體資料庫中的播放清單" image="/docs/guide/evervideo/img/evervideo-playlists-in-media-library.webp" >}}
+  {{< ls-card title="" subtitle="Evervideo 媒體資料庫中的播放清單" image="/docs/guide/evervideo/img/evervideo-playlists-in-media-library.webp" >}}
 {{< /cards >}}
 
 ## 建立播放清單

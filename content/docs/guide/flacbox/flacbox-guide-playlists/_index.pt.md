@@ -20,7 +20,7 @@ Na secção de Listas de Reprodução, encontrará ferramentas úteis para gerir
 As listas de reprodução no Flacbox podem conter uma mistura de faixas online da nuvem, ficheiros descarregados offline e ficheiros locais do seu dispositivo — tudo numa lista — e reproduzem-se perfeitamente em conjunto.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox Playlists Main Screen" image="/docs/guide/flacbox/img/playlists-main.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox Playlists Main Screen" image="/docs/guide/flacbox/img/playlists-main.webp" >}}
 {{< /cards >}}
 
 ## Criar uma Lista de Reprodução
@@ -63,7 +63,7 @@ Quando abre uma lista de reprodução, aparece o ecrã de Detalhes da Lista. Enc
 - **Modo Offline** — descarregar todas as faixas desta lista para ficheiros locais. Quaisquer novos itens adicionados à lista também são descarregados automaticamente.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox Playlist Detail Screen" image="/docs/guide/flacbox/img/playlist-details-screen.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox Playlist Detail Screen" image="/docs/guide/flacbox/img/playlist-details-screen.webp" >}}
 {{< /cards >}}
 
 ## Mais Ações para uma Lista de Reprodução no Ecrã de Listas
@@ -82,7 +82,7 @@ Pode aceder a ações para uma lista de reprodução tocando no botão **«...»
 - **Eliminar Lista de Reprodução** — eliminar a lista de reprodução da biblioteca musical. **Esta ação não pode ser desfeita.**
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox More Actions for a Playlist on the Playlists Main Screen" image="/docs/guide/flacbox/img/more-actions-for-playlist-in-playlists-main-screen.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox More Actions for a Playlist on the Playlists Main Screen" image="/docs/guide/flacbox/img/more-actions-for-playlist-in-playlists-main-screen.webp" >}}
 {{< /cards >}}
 
 ## Mais Ações para uma Lista de Reprodução no Ecrã de Detalhes
@@ -110,7 +110,7 @@ Para alterar a ordem das músicas numa lista de reprodução, toque no botão **
 Para um fluxo de trabalho ainda mais simples em listas de reprodução longas, escolha Mais Ações → Reorganizar Músicas para entrar no modo dedicado de reordenação por arrastar e largar.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox Rearrange Songs in a Playlist" image="/docs/guide/flacbox/img/playlist-details-rearange-songs.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox Rearrange Songs in a Playlist" image="/docs/guide/flacbox/img/playlist-details-rearange-songs.webp" >}}
 {{< /cards >}}
 
 ## Alterar a Imagem de Capa da Lista de Reprodução
@@ -126,7 +126,7 @@ Abra a lista de reprodução e toque no botão **«...»** no canto superior dir
 Abra a lista de reprodução, toque no botão **«...»** no canto superior direito e selecione **Selecionar** para entrar no modo de seleção. Escolha as faixas que quer eliminar e toque em **Eliminar da Lista de Reprodução** na parte inferior do ecrã. Confirme tocando em **Concluído**.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox Selection Mode in the Playlist Detail Screen" image="/docs/guide/flacbox/img/selection-mode-playlist-details-screen.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox Selection Mode in the Playlist Detail Screen" image="/docs/guide/flacbox/img/selection-mode-playlist-details-screen.webp" >}}
 {{< /cards >}}
 
 ## Opções da Faixa

@@ -11,7 +11,7 @@ readingTime: 3
 Evervideo는 일정한 사용 제한이 있는 무료 버전과 인앱 구매를 통해 잠금 해제할 수 있는 추가 기능이 있는 프리미엄 버전을 모두 제공합니다.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="기본 플랜 업그레이드 화면" image="/docs/faq/evervideo/what-is-the-difference-between-evervideo-and-evervideo-premium/upgrade-default.webp" >}}
+  {{< ls-card title="" subtitle="기본 플랜 업그레이드 화면" image="/docs/faq/evervideo/what-is-the-difference-between-evervideo-and-evervideo-premium/upgrade-default.webp" >}}
 {{< /cards >}}
 
 ## 프리미엄 플랜 선택
@@ -19,7 +19,7 @@ Evervideo는 일정한 사용 제한이 있는 무료 버전과 인앱 구매를
 앱의 무료 버전은 모든 제한을 없애고 프리미엄 버전으로 업그레이드하기 위한 일회성 평생 인앱 구매와 두 가지 구독 옵션(1개월 및 1년)을 제공하여 최적의 가격을 선택할 수 있습니다. 가격은 국가 또는 지역에 따라 다를 수 있습니다. 또한 **Family Sharing**은 모든 구매 및 플랜에서 활성화되어 있으므로 가족 구성원과 프리미엄 버전을 공유할 수 있습니다.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evervideo 플랜 선택 화면" image="/docs/faq/evervideo/what-is-the-difference-between-evervideo-and-evervideo-premium/plan-select.webp" >}}
+  {{< ls-card title="" subtitle="Evervideo 플랜 선택 화면" image="/docs/faq/evervideo/what-is-the-difference-between-evervideo-and-evervideo-premium/plan-select.webp" >}}
 {{< /cards >}}
 
 ## iOS와 Mac 간 구매 공유
@@ -31,13 +31,13 @@ Evervideo는 일정한 사용 제한이 있는 무료 버전과 인앱 구매를
 새 기기에서 구매를 복원하려면 「구매 복원」 메뉴를 사용하면 됩니다. 구매 목록이 표시됩니다. 모든 구매가 보이지 않는 경우 기기가 구매할 때 사용한 iTunes 계정과 동일한 계정에 연결되어 있는지 확인하고 iCloud가 활성화되어 있는지 확인하세요.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="구매 복원 화면" image="/docs/faq/evervideo/what-is-the-difference-between-evervideo-and-evervideo-premium/purchase-restored.webp" >}}
+  {{< ls-card title="" subtitle="구매 복원 화면" image="/docs/faq/evervideo/what-is-the-difference-between-evervideo-and-evervideo-premium/purchase-restored.webp" >}}
 {{< /cards >}}
 
 앱을 업그레이드하면 현재 구매 내역이 담긴 Premium 상태 화면이 표시됩니다.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Premium 사용 중 화면" image="/docs/faq/evervideo/what-is-the-difference-between-evervideo-and-evervideo-premium/you-are-using-premium.webp" >}}
+  {{< ls-card title="" subtitle="Premium 사용 중 화면" image="/docs/faq/evervideo/what-is-the-difference-between-evervideo-and-evervideo-premium/you-are-using-premium.webp" >}}
 {{< /cards >}}
 
 ## 무료로 Premium 체험
@@ -45,7 +45,7 @@ Evervideo는 일정한 사용 제한이 있는 무료 버전과 인앱 구매를
 또한 「**무료로 Premium 체험**」의 기간 한정 기회가 있습니다. 「무료로 Premium 체험」 메뉴를 통해 이 기능에 접근할 수 있습니다. 광고를 시청하거나 친구들에게 앱을 알리면 이 프로모션 기간 동안 무료로 Premium 버전을 잠금 해제할 수 있습니다. 이를 통해 재정적 부담 없이 프리미엄 기능을 경험할 수 있습니다.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="무료로 Premium 체험 화면" image="/docs/faq/evervideo/what-is-the-difference-between-evervideo-and-evervideo-premium/premium-for-free.webp" >}}
+  {{< ls-card title="" subtitle="무료로 Premium 체험 화면" image="/docs/faq/evervideo/what-is-the-difference-between-evervideo-and-evervideo-premium/premium-for-free.webp" >}}
 {{< /cards >}}
 
 ## Evervideo Free
@@ -62,7 +62,7 @@ Evervideo는 일정한 사용 제한이 있는 무료 버전과 인앱 구매를
 - 사용자 정의 또는 개인화 옵션 없음.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="클라우드 스토리지 업그레이드 화면" image="/docs/faq/evervideo/what-is-the-difference-between-evervideo-and-evervideo-premium/upgrade-cloud-storage.webp" >}}
+  {{< ls-card title="" subtitle="클라우드 스토리지 업그레이드 화면" image="/docs/faq/evervideo/what-is-the-difference-between-evervideo-and-evervideo-premium/upgrade-cloud-storage.webp" >}}
 {{< /cards >}}
 
 ## Evervideo Premium
@@ -106,7 +106,7 @@ Evervideo는 일정한 사용 제한이 있는 무료 버전과 인앱 구매를
 반면에 **Evervideo Premium**은 전체 경험을 잠금 해제합니다. 광고 없는 인터페이스, 무제한 재생 목록 및 큐 지원, 전체 오프라인 기능, 클라우드 유연성, 고급 내보내기 및 개인화 옵션을 즐길 수 있습니다. 대형 동영상 라이브러리를 가진 사용자, 여러 소스에서 콘텐츠를 시청하는 사람, 또는 더 전문적이고 원활한 미디어 플레이어를 원하는 모든 사람에게 최적의 옵션입니다.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Premium 구매 완료 화면" image="/docs/faq/evervideo/what-is-the-difference-between-evervideo-and-evervideo-premium/you-have-purchased-premium.webp" >}}
+  {{< ls-card title="" subtitle="Premium 구매 완료 화면" image="/docs/faq/evervideo/what-is-the-difference-between-evervideo-and-evervideo-premium/you-have-purchased-premium.webp" >}}
 {{< /cards >}}
 
 유연성을 원한다면 **월간 플랜**을 선택하세요. 장기적인 가치를 원한다면 더 나은 가격으로 전체 액세스를 제공하는 **연간** 또는 **평생** 업그레이드를 선택하세요.

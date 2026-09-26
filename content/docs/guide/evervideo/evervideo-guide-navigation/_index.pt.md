@@ -19,7 +19,7 @@ O Evervideo oferece uma interface limpa e intuitiva que é familiar para qualque
 Ao contrário da maioria das aplicações de multimédia, o Evervideo combina as suas contas de nuvem, partilhas NAS, servidores de multimédia e ficheiros locais num único separador Ficheiros unificado — para não andar a saltar entre ecrãs separados. Mover um vídeo de um servidor Plex, para uma pasta iCloud Drive, para a pasta Documentos do iPhone é uma operação de um ecrã e um toque.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Ecrã Principal do Evervideo" image="/docs/guide/evervideo/img/evervideo-main.webp" >}}
+  {{< ls-card title="" subtitle="Ecrã Principal do Evervideo" image="/docs/guide/evervideo/img/evervideo-main.webp" >}}
 {{< /cards >}}
 
 ## Separadores
@@ -53,7 +53,7 @@ O PiP funciona com todos os formatos de vídeo que o Evervideo reproduz, incluin
 Praticamente cada item de conteúdo no ecrã tem um botão **Mais ações** (o ícone "⋯" de três pontos). Toque para abrir um menu sensível ao contexto com cada ação disponível para esse item — reproduzir a seguir, reproduzir mais tarde, adicionar à lista de reprodução, adicionar aos favoritos, editar etiquetas, descarregar, partilhar, renomear, mover e assim por diante. As listas longas rolam verticalmente para que possa alcançar ações menos comuns sem sobrecarregar a interface principal.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Menu Mais Ações dos Favoritos do Evervideo" image="/docs/guide/evervideo/img/evervideo-favorites-more-actions.webp" >}}
+  {{< ls-card title="" subtitle="Menu Mais Ações dos Favoritos do Evervideo" image="/docs/guide/evervideo/img/evervideo-favorites-more-actions.webp" >}}
 {{< /cards >}}
 
 ## Barra de Ferramentas Superior

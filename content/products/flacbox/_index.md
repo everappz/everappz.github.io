@@ -18,14 +18,14 @@ screenshots:
   - "https://everappz.com/products/flacbox/screenshots/2048x2732/6.png"
 ---
 
-{{% sr-only %}}
+{{% ls-sr-only %}}
 Flacbox is a hi-res audio player for iPhone and Mac developed by Everappz, a Spanish software company. With over 1 million downloads worldwide, Flacbox is designed for audiophiles and music enthusiasts who want to play lossless and high-resolution audio files on their Apple devices without converting formats. The app natively supports over 120 audio formats including FLAC, DSD (DSD64, DSD128, DSD256), ALAC, APE, WAV, AIFF, OGG, OPUS, WMA, MKA, MP3, AAC, and more. Flacbox connects to over 30 cloud storage services including iCloud Drive, Google Drive, Dropbox, OneDrive, MEGA, Box, and pCloud, enabling users to stream their hi-res music collection directly from the cloud or download files for offline playback. Key features include a 10-band audio equalizer with customizable presets, crossfade and gapless playback, pitch and speed control, bass boost, M3U playlist import and export, lyrics display, audio bookmarks, a built-in metadata tag editor, Apple CarPlay integration, AirPlay and Chromecast streaming, and Last.fm scrobbling. The app supports local network streaming via SMB, WebDAV, and DLNA protocols, USB flash drive playback, and Wi-Fi file transfer. Flacbox is available as a free download on the App Store with optional in-app purchases including a monthly subscription at $4.99, an annual subscription at $19.99, or a one-time lifetime purchase at $59.99. The app was first released in 2016 and is actively maintained with regular updates.
-{{% /sr-only %}}
+{{% /ls-sr-only %}}
 
 <!-- force dark theme for this page -->
-{{< force-dark >}}
+{{< ls-force-dark >}}
 
-{{< hextra/hero-container
+{{< ls-hero-container
   image="/products/flacbox/heroimage/hero_1600.png"
   imageWidth="800"
   imageCard="true"
@@ -33,36 +33,36 @@ Flacbox is a hi-res audio player for iPhone and Mac developed by Everappz, a Spa
 
 <div class="hx:w-full hx:text-center">
 
-{{< downloads-badge >}}
+{{< ls-downloads-badge >}}
 
 <div class="hx:mt-6 hx:mb-6">
 <div class="hx:flex hx:gap-4 hx:items-center hx:justify-center">
-{{< app-icon src="/images/app_icons/png/Flacbox_Icon-App-1024x1024.png" alt="Flacbox Icon" class="hero-headline-icon" size="80" >}}
-{{< hextra/hero-headline >}}
+{{< ls-app-icon src="/images/app_icons/png/Flacbox_Icon-App-1024x1024.png" alt="Flacbox Icon" class="hero-headline-icon" size="80" >}}
+{{< ls-hero-headline >}}
 Flacbox
-{{< /hextra/hero-headline >}}
+{{< /ls-hero-headline >}}
 </div>
 </div>
 
 <div class="hx:mb-12">
-{{< hextra/hero-centered-subtitle >}}
+{{< ls-hero-centered-subtitle >}}
 <strong>Hi-Res Audio Player and Streamer for iPhone and MAC</strong>
-{{< /hextra/hero-centered-subtitle >}}
+{{< /ls-hero-centered-subtitle >}}
 </div>
 
 <div class="hx:mb-6">
-{{< hextra/hero-paragraph >}}
+{{< ls-hero-paragraph >}}
 • Play FLAC, ALAC, APE, DSD and more with lossless quality  
 • Download music and listen offline with full control  
 • Stream from Google Drive, Dropbox, NAS, or computer   
-{{< /hextra/hero-paragraph >}}
+{{< /ls-hero-paragraph >}}
 </div>
 
-{{< app-store-badges products="flacbox:ios, flacbox:macos" >}}
+{{< ls-app-store-badges products="flacbox:ios, flacbox:macos" >}}
 
 </div>
 
-{{< /hextra/hero-container >}}
+{{< /ls-hero-container >}}
 
 <div class="hx:mt-6"></div>
 
@@ -70,7 +70,7 @@ Flacbox
 
 {{< hextra/feature-grid >}}
 
-  {{< hextra/feature-card
+  {{< ls-glass-feature-card
     title="Stream Lossless Music"
     subtitle=`Enjoy lossless music on iPhone, iPad, and Mac without subscriptions.<br><br>
 Connect your cloud storage to stream FLAC, ALAC, MKA and more for free. Easily cast to Chromecast and AirPlay devices.<br><br>
@@ -79,7 +79,7 @@ Build your music library, organize tracks by album, artist, and genre. Enhance a
     style="background: radial-gradient(circle at 50% 80%, rgba(99,102,241,0.15), transparent);"
   >}}
 
-  {{< hextra/feature-card
+  {{< ls-glass-feature-card
     title="Play High-Res Audio"
     subtitle=`Enjoy studio-quality sound with support for over 120 audio formats, including FLAC, ALAC, WAV, AIFF, and DSD.<br><br>
 Flacbox also plays MP3, AAC, OGG, APE, MOD, MKA, and advanced containers like MKV, MP4, and MOV.<br><br>
@@ -88,7 +88,7 @@ With wide codec compatibility, your entire collection is accessible no conversio
     style="background: radial-gradient(circle at 50% 80%, rgba(236,72,153,0.15), transparent);"
   >}}
 
-  {{< hextra/feature-card
+  {{< ls-glass-feature-card
     title="Download & Listen Offline"
     subtitle=`Stay connected to your music even when you're offline.<br><br>
 Download entire albums, genres, playlists, and tracks to your device. Use Wi-Fi Drive or iTunes File Sharing to transfer audio from Mac or PC.<br><br>
@@ -103,9 +103,9 @@ Stream from USB flash drives or network storage (NAS) and enjoy your full music 
 
 <div class="hx:mt-6"></div>
 
-{{< hextra/section-headline >}}
+{{< ls-section-headline >}}
 All-Inclusive Features
-{{< /hextra/section-headline >}}
+{{< /ls-section-headline >}}
 
 <div class="hx:mt-6"></div>
 
@@ -113,41 +113,41 @@ All-Inclusive Features
 
 {{< cards >}}
 
-  {{< feature-card title="Audio Quality" subtitle="Enjoy high-fidelity output with sample rates from 8 kHz to 384 kHz, default or mixed output modes, and support for 1 to 7 audio channels." icon="volume-up" >}}
-  {{< feature-card title="Lossless & Hi-Res Audio" subtitle="Play lossless and hi-res formats like FLAC, ALAC, WAV, AIFF, APE, WV, and DSF (DSD), plus MP3, AAC, OGG, and OPUS, at sample rates up to 384 kHz." icon="music-note" >}}
-  {{< feature-card title="Tracker & MOD Music" subtitle="Play classic tracker and module music natively, including MOD, XM, IT, and S3M formats from the chiptune and demoscene scene that most players cannot open." icon="table" >}}
+  {{< ls-feature-card title="Audio Quality" subtitle="Enjoy high-fidelity output with sample rates from 8 kHz to 384 kHz, default or mixed output modes, and support for 1 to 7 audio channels." icon="volume-up" >}}
+  {{< ls-feature-card title="Lossless & Hi-Res Audio" subtitle="Play lossless and hi-res formats like FLAC, ALAC, WAV, AIFF, APE, WV, and DSF (DSD), plus MP3, AAC, OGG, and OPUS, at sample rates up to 384 kHz." icon="music-note" >}}
+  {{< ls-feature-card title="Tracker & MOD Music" subtitle="Play classic tracker and module music natively, including MOD, XM, IT, and S3M formats from the chiptune and demoscene scene that most players cannot open." icon="table" >}}
 
-  {{< feature-card title="Audio Engines" subtitle="Choose from three playback engines: the standard system engine, a versatile FFmpeg engine, and the professional BASS™ engine that unlocks effects, DSP, and visuals." icon="switch-horizontal" >}}
-  {{< feature-card title="Audio Effects" subtitle="Shape your sound in real time with reverb, delay, echo, chorus, flanger, phaser, auto-wah, distortion, a compressor, and natural headphone crossfeed." icon="lightning-bolt" >}}
-  {{< feature-card title="DSP Chain" subtitle="Build your own real-time signal chain from professional filters and EQ bands, saturation and a bit crusher, plus creative processors like tremolo and stereo width." icon="chip" >}}
+  {{< ls-feature-card title="Audio Engines" subtitle="Choose from three playback engines: the standard system engine, a versatile FFmpeg engine, and the professional BASS™ engine that unlocks effects, DSP, and visuals." icon="switch-horizontal" >}}
+  {{< ls-feature-card title="Audio Effects" subtitle="Shape your sound in real time with reverb, delay, echo, chorus, flanger, phaser, auto-wah, distortion, a compressor, and natural headphone crossfeed." icon="lightning-bolt" >}}
+  {{< ls-feature-card title="DSP Chain" subtitle="Build your own real-time signal chain from professional filters and EQ bands, saturation and a bit crusher, plus creative processors like tremolo and stereo width." icon="chip" >}}
 
-  {{< feature-card title="Audio Equalizer" subtitle="Fine-tune your sound with a multi-band equalizer, ready-made genre presets, manual control, and preamp gain to boost quiet tracks without clipping." icon="adjustments" >}}
-  {{< feature-card title="Music Visualizer" subtitle="Watch full-screen animated visuals that react live to your music, choosing from a large library of presets or letting them cycle automatically." icon="sparkles" >}}
-  {{< feature-card title="Playback Controls" subtitle="Adjust playback speed without changing pitch, save and restore your queue and position, and use a sleep timer, shuffle, repeat, and background play." icon="play" >}}
+  {{< ls-feature-card title="Audio Equalizer" subtitle="Fine-tune your sound with a multi-band equalizer, ready-made genre presets, manual control, and preamp gain to boost quiet tracks without clipping." icon="adjustments" >}}
+  {{< ls-feature-card title="Music Visualizer" subtitle="Watch full-screen animated visuals that react live to your music, choosing from a large library of presets or letting them cycle automatically." icon="sparkles" >}}
+  {{< ls-feature-card title="Playback Controls" subtitle="Adjust playback speed without changing pitch, save and restore your queue and position, and use a sleep timer, shuffle, repeat, and background play." icon="play" >}}
 
-  {{< feature-card title="Cloud Streaming" subtitle="Stream directly from iCloud Drive, Google Drive, Dropbox, OneDrive, Box, MEGA, and pCloud, plus privacy-focused clouds like Internxt and Proton Drive." icon="cloud" >}}
-  {{< feature-card title="Media Servers" subtitle="Connect your personal media servers, including Plex, Subsonic, Navidrome, Jellyfin, and Emby, to open and stream your entire music library." icon="server" >}}
-  {{< feature-card title="Computer & NAS" subtitle="Connect a computer or NAS over SMB, WebDAV, DLNA, FTP, SFTP, or NFS, with native support for QNAP, Synology, Nextcloud, and WD My Cloud Home." icon="desktop-computer" >}}
+  {{< ls-feature-card title="Cloud Streaming" subtitle="Stream directly from iCloud Drive, Google Drive, Dropbox, OneDrive, Box, MEGA, and pCloud, plus privacy-focused clouds like Internxt and Proton Drive." icon="cloud" >}}
+  {{< ls-feature-card title="Media Servers" subtitle="Connect your personal media servers, including Plex, Subsonic, Navidrome, Jellyfin, and Emby, to open and stream your entire music library." icon="server" >}}
+  {{< ls-feature-card title="Computer & NAS" subtitle="Connect a computer or NAS over SMB, WebDAV, DLNA, FTP, SFTP, or NFS, with native support for QNAP, Synology, Nextcloud, and WD My Cloud Home." icon="desktop-computer" >}}
 
-  {{< feature-card title="USB Flash Cards" subtitle="Play music straight from SD cards and USB flash drives using external readers like the SanDisk iXpand, with no importing or syncing required." icon="inbox" >}}
-  {{< feature-card title="AirPlay & Chromecast" subtitle="Send your music wirelessly to Apple TV, HomePod, smart speakers, and more with built-in AirPlay, AirPlay 2, and Google Chromecast support." icon="device-mobile" >}}
-  {{< feature-card title="Apple CarPlay" subtitle="Drive and listen safely with a simple, dedicated Apple CarPlay screen for choosing and controlling music from cloud, local, and offline sources." icon="map" >}}
+  {{< ls-feature-card title="USB Flash Cards" subtitle="Play music straight from SD cards and USB flash drives using external readers like the SanDisk iXpand, with no importing or syncing required." icon="inbox" >}}
+  {{< ls-feature-card title="AirPlay & Chromecast" subtitle="Send your music wirelessly to Apple TV, HomePod, smart speakers, and more with built-in AirPlay, AirPlay 2, and Google Chromecast support." icon="device-mobile" >}}
+  {{< ls-feature-card title="Apple CarPlay" subtitle="Drive and listen safely with a simple, dedicated Apple CarPlay screen for choosing and controlling music from cloud, local, and offline sources." icon="map" >}}
 
-  {{< feature-card title="Offline Listening" subtitle="Download songs, albums, and full artists to listen without internet, or turn on the audio cache to save recently played tracks automatically." icon="download" >}}
-  {{< feature-card title="Automatic Sync" subtitle="Keep your library in sync automatically between your cloud storage and local folders, so newly added files show up without any manual work." icon="refresh" >}}
-  {{< feature-card title="Media Library" subtitle="Add your music and organize it automatically by album, artist, album artist, genre, and composer using the tags embedded in your files." icon="library" >}}
+  {{< ls-feature-card title="Offline Listening" subtitle="Download songs, albums, and full artists to listen without internet, or turn on the audio cache to save recently played tracks automatically." icon="download" >}}
+  {{< ls-feature-card title="Automatic Sync" subtitle="Keep your library in sync automatically between your cloud storage and local folders, so newly added files show up without any manual work." icon="refresh" >}}
+  {{< ls-feature-card title="Media Library" subtitle="Add your music and organize it automatically by album, artist, album artist, genre, and composer using the tags embedded in your files." icon="library" >}}
 
-  {{< feature-card title="Custom Playlists" subtitle="Create, edit, and reorder your own playlists, make them available offline, and import or export them in M3U, M3U8, and CUE formats." icon="collection" >}}
-  {{< feature-card title="File Manager" subtitle="Manage your music with the built-in file manager, handling everyday operations like copy, move, rename, and delete to keep files in order." icon="folder" >}}
-  {{< feature-card title="ID3 Tag Editor" subtitle="Fix incorrect or missing metadata with the built-in ID3 tag editor, updating the title, artist, album, genre, and more in just a few taps." icon="pencil-alt" >}}
+  {{< ls-feature-card title="Custom Playlists" subtitle="Create, edit, and reorder your own playlists, make them available offline, and import or export them in M3U, M3U8, and CUE formats." icon="collection" >}}
+  {{< ls-feature-card title="File Manager" subtitle="Manage your music with the built-in file manager, handling everyday operations like copy, move, rename, and delete to keep files in order." icon="folder" >}}
+  {{< ls-feature-card title="ID3 Tag Editor" subtitle="Fix incorrect or missing metadata with the built-in ID3 tag editor, updating the title, artist, album, genre, and more in just a few taps." icon="pencil-alt" >}}
 
-  {{< feature-card title="Advanced Search" subtitle="Quickly find any song, artist, or album across your whole collection with a smart, fast search built for very large music libraries." icon="search" >}}
-  {{< feature-card title="Quick Access" subtitle="Jump straight back to what matters with Recently Played, Favorites, and Bookmarks, keeping your go-to tracks always just one tap away." icon="clock" >}}
-  {{< feature-card title="Lyrics & Comments" subtitle="View timed lyrics and song notes inside each track as it plays, and add the Lyrics widget to your Home Screen for quick, at-a-glance access." icon="annotation" >}}
+  {{< ls-feature-card title="Advanced Search" subtitle="Quickly find any song, artist, or album across your whole collection with a smart, fast search built for very large music libraries." icon="search" >}}
+  {{< ls-feature-card title="Quick Access" subtitle="Jump straight back to what matters with Recently Played, Favorites, and Bookmarks, keeping your go-to tracks always just one tap away." icon="clock" >}}
+  {{< ls-feature-card title="Lyrics & Comments" subtitle="View timed lyrics and song notes inside each track as it plays, and add the Lyrics widget to your Home Screen for quick, at-a-glance access." icon="annotation" >}}
 
-  {{< feature-card title="Widgets" subtitle="Add Home Screen widgets that show your playback queue and let you jump right back in, continuing from exactly where you last left off." icon="view-grid" >}}
-  {{< feature-card title="Audiobook Support" subtitle="Listen to audiobooks with bookmarks, a sleep timer, adjustable speed, and resume playback that picks up right where you last stopped." icon="book-open" >}}
-  {{< feature-card title="Last.fm Integration" subtitle="Connect your Last.fm account to scrobble tracks, follow your listening stats, and get personalized music recommendations over time." icon="chart-bar" >}}
+  {{< ls-feature-card title="Widgets" subtitle="Add Home Screen widgets that show your playback queue and let you jump right back in, continuing from exactly where you last left off." icon="view-grid" >}}
+  {{< ls-feature-card title="Audiobook Support" subtitle="Listen to audiobooks with bookmarks, a sleep timer, adjustable speed, and resume playback that picks up right where you last stopped." icon="book-open" >}}
+  {{< ls-feature-card title="Last.fm Integration" subtitle="Connect your Last.fm account to scrobble tracks, follow your listening stats, and get personalized music recommendations over time." icon="chart-bar" >}}
 
 {{< /cards >}}
 
@@ -155,9 +155,9 @@ All-Inclusive Features
 
 <div class="hx:mt-6"></div>
 
-{{< hextra/section-headline >}}
+{{< ls-section-headline >}}
 Intuitive Design
-{{< /hextra/section-headline >}}
+{{< /ls-section-headline >}}
 
 <div class="hx:mt-6"></div>
 
@@ -165,7 +165,7 @@ Intuitive Design
 
 {{< cards cols="4">}}
 
-  {{< design-feature-card 
+  {{< ls-design-feature-card 
     image="/products/flacbox/screenshots/2048x2732/1.png" 
     title="Audio Player" 
     method="Fill"
@@ -174,7 +174,7 @@ Intuitive Design
     icon="play"
   >}}
 
-  {{< design-feature-card 
+  {{< ls-design-feature-card 
     image="/products/flacbox/screenshots/2048x2732/2.png"  
     title="Audio Equalizer" 
     method="Fill"
@@ -183,7 +183,7 @@ Intuitive Design
     icon="adjustments"
   >}}
 
-  {{< design-feature-card 
+  {{< ls-design-feature-card 
     image="/products/flacbox/screenshots/2048x2732/3.png"  
     title="Playlists Manager" 
     method="Fill"
@@ -192,7 +192,7 @@ Intuitive Design
     icon="collection"
   >}}
 
-  {{< design-feature-card 
+  {{< ls-design-feature-card 
     image="/products/flacbox/screenshots/2048x2732/5.png"  
     title="Media Library" 
     method="Fill"
@@ -201,7 +201,7 @@ Intuitive Design
     icon="library"
   >}}
 
-  {{< design-feature-card 
+  {{< ls-design-feature-card 
     image="/products/flacbox/screenshots/2048x2732/7.png"  
     title="Cloud Storage" 
     method="Fill"
@@ -210,7 +210,7 @@ Intuitive Design
     icon="cloud"
   >}}
 
-  {{< design-feature-card 
+  {{< ls-design-feature-card 
     image="/products/flacbox/screenshots/2048x2732/8.png"  
     title="iCloud Drive" 
     method="Fill"
@@ -228,48 +228,48 @@ Intuitive Design
 <div class="hx:mt-6"></div>
 
 <div class="hx:w-full">
-{{< appstore-reviews apps="1097564256,1594027432" stars="5,4"  app="Flacbox" >}}
+{{< ls-appstore-reviews apps="1097564256,1594027432" stars="5,4"  app="Flacbox" >}}
 </div>
 
 <div class="hx:mt-6"></div>
 
-{{< hextra/section-headline >}}
+{{< ls-section-headline >}}
    Pricing Plans
-{{< /hextra/section-headline >}}
+{{< /ls-section-headline >}}
 
 <div class="hx:mt-6"></div>
 
 <div class="hx:w-full">
 
-{{< pricing-plans >}}
+{{< ls-pricing-plans >}}
 
 </div>
 
 <div class="hx:mt-6"></div>
 
 <div class="hx:w-full hx:mx-auto hx:flex hx:flex-col hx:items-center">
-  {{< hextra/info-paragraph border="true" >}}
+  {{< ls-info-paragraph border="true" >}}
    <strong>Family Sharing</strong>: All purchases and subscriptions support Family Sharing, allowing you to share Premium access with your family.<br><strong>Universal Access</strong>: Lifetime and subscription plans are shared between iOS and Mac devices using iCloud synchronization.<br><strong>Pricing</strong>: Prices are shown in US dollars for the United States. Final pricing may vary based on your region.  
-  {{< /hextra/info-paragraph >}}
+  {{< /ls-info-paragraph >}}
 </div>
 
 <div class="hx:mt-6"></div>
 
 <div class="hx:w-full">
-{{< app-details heading="true" >}}
+{{< ls-app-details heading="true" >}}
 </div>
 
 <div class="hx:mt-6"></div>
 
-{{< hextra/section-headline >}}
+{{< ls-section-headline >}}
    Frequently Asked Questions
-{{< /hextra/section-headline >}}
+{{< /ls-section-headline >}}
 
 <div class="hx:mt-6"></div>
 
 <div class="hx:w-full">
 
-{{% details title="How does Flacbox work?" closed="true" %}}
+{{% ls-details title="How does Flacbox work?" closed="true" %}}
 Flacbox is a hi-res music player that lets you manage audio tracks like regular files.<br>
 You can upload your entire music collection to cloud services like Dropbox, Google Drive, or a personal NAS and play music directly from the cloud with full control.<br><br>
 No iTunes sync is needed, just upload from your PC or Mac like you do with any file.<br>
@@ -283,9 +283,9 @@ Explore our how-to guides for more details:<br>
 - [How to transfer files wirelessly from a computer to an iPhone using WiFi-Drive.](/docs/howto/how-to-transfer-files-wirelessly-from-a-computer-to-an-iphone-using-wifi-drive)<br>
 - [How to connect a USB flashcard to the iPhone and listen to music or manage files located on it.](/docs/howto/how-to-connect-a-usb-flashcard-to-the-iphone-and-listen-to-music-or-manage-files-located-on-it)<br>
 - [How to play music on iPhone from WD My Cloud Home.](/docs/howto/how-to-play-music-on-iphone-from-wd-my-cloud-home)
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Is Flacbox Free?" closed="true" %}}
+{{% ls-details title="Is Flacbox Free?" closed="true" %}}
 Flacbox is free to use with some limitations, which can be removed by upgrading to the Premium version.<br>
 You can choose between a one-time lifetime purchase or two subscription options (monthly or yearly). Prices may vary based on your region.<br><br>
 
@@ -294,10 +294,10 @@ Family Sharing is enabled for all plans, so you can share the Premium version wi
 Premium purchases and subscriptions are shared across iOS and Mac via iCloud. To sync your purchase, make sure iCloud is enabled, open the app on your iOS device, and wait a minute for sync to complete.<br><br>
 
 [Read more about the differences between Flacbox and Flacbox Premium](/docs/faq/flacbox/what-is-the-difference-between-flacbox-and-flacbox-premium/)
-{{% /details %}}
+{{% /ls-details %}}
 
 
-{{% details title="What is the difference between Flacbox and Evermusic?" closed="true" %}}
+{{% ls-details title="What is the difference between Flacbox and Evermusic?" closed="true" %}}
 **Flacbox** is built to support all default iOS audio formats along with many additional formats not natively supported on iPhone, such as WMA, OGG, M4A, DSD, and more.<br>
 It uses a custom audio engine to handle nearly all formats and offers features like adjustable audio output sample rate and pitch correction.<br><br>
 
@@ -307,9 +307,9 @@ If you mainly use MP3, ALAC, or FLAC, **Evermusic** may be the better option for
 If you need broad compatibility with various audio file types, **Flacbox** is the right choice.<br><br>
 
 [Learn more about the differences between Flacbox and Evermusic](/docs/faq/evermusic/what-is-the-difference-between-evermusic-and-flacbox/)
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="How do I sync Flacbox?" closed="true" %}}
+{{% ls-details title="How do I sync Flacbox?" closed="true" %}}
 
 **Metadata Synchronization**  
 When you add tracks to your library, a background metadata reader scans your files and organizes them by Artist, Album, Genre, and Composer.<br>
@@ -346,10 +346,10 @@ You can also customize **sync timeout intervals** in settings for more control o
 
 [Read more](/docs/guide/flacbox/flacbox-guide-music-library)
 
-{{% /details %}}
+{{% /ls-details %}}
 
 
-{{% details title="How do I use Flacbox?" closed="true" %}}
+{{% ls-details title="How do I use Flacbox?" closed="true" %}}
 
 **Install Flacbox**<br>
 Download and install the Flacbox app from your device’s app store. It’s available for both iOS and Mac devices.<br><br>
@@ -409,10 +409,10 @@ Explore in-app tutorials or visit these guides:<br><br>
 • [Connect USB Flashcard](/docs/howto/how-to-connect-a-usb-flashcard-to-the-iphone-and-listen-to-music-or-manage-files-located-on-it)<br>
 • [WiFi-Drive Wireless Transfer](/docs/howto/how-to-transfer-files-wirelessly-from-a-computer-to-an-iphone-using-wifi-drive)
 
-{{% /details %}}
+{{% /ls-details %}}
 
 
-{{% details title="Is Flacbox Safe?" closed="true" %}}
+{{% ls-details title="Is Flacbox Safe?" closed="true" %}}
 Flacbox uses only official SDK and secure connections to interact with connected cloud services. Your login and password are not available for the application. All requests from the application to the cloud service are encrypted.<br>
 When you enter login and password the application shows you the official authorization page that is provided by the cloud service provider and all authorization process is made outside the application. The cloud service provider sends an auth-token to the application after successful authorization and that token is used to make API calls.<br><br>
 
@@ -424,24 +424,24 @@ To reject auth-token login to your account on the web browser and navigate to th
 You can also disconnect the connected cloud accounts in the application and auth-token will be also removed from your device. If you remove the application from your device all downloaded data and access tokens will be also removed.<br><br>
 
 [Read more](/docs/guide/flacbox/flacbox-guide-connections)
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="How do I make a playlist on Flacbox?" closed="true" %}}
+{{% ls-details title="How do I make a playlist on Flacbox?" closed="true" %}}
 - Open the Playlists section.<br>
 - Tap the "+" button or the "..." button in the top right corner and select "New Playlist."<br>
 - Enter a name for the playlist and tap "Save." The "Add Songs" dialog will appear.<br>
 - Select the tracks you want to add to the playlist.<br><br>
 
 [Read more](/docs/guide/flacbox/flacbox-guide-playlists)
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="What cloud services does Flacbox support?" closed="true" %}}
+{{% ls-details title="What cloud services does Flacbox support?" closed="true" %}}
 Currently, the application supports the most popular cloud services: iCloud Drive, Google Drive, Dropbox, OneDrive, Box, MEGA, Yandex.Disk, WD MyCloud Home, DLNA, MediaFire, WebDAV, SMB, pCloud, HiDrive, My Cloud Home, InfiniCLOUD, Cloud Mail.ru, Put.io, MyDrive.<br><br>
 
 [Read more](/docs/guide/flacbox/flacbox-guide-connections)
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="How can I use an equalizer?" closed="true" %}}
+{{% ls-details title="How can I use an equalizer?" closed="true" %}}
 - Open the Audio Player Screen.<br>
 - Tap on the "Equalizer" icon on the bottom of the screen.<br>
 - Toggle switch control in the top right corner on the equalizer screen to activate the equalizer.<br>
@@ -449,9 +449,9 @@ Currently, the application supports the most popular cloud services: iCloud Driv
 
 Full tutorial available here:<br>
 [How to use the audio equalizer on your iPhone, iPad, Mac with Evermusic and Flacbox](/docs/howto/how-to-use-the-audio-equalizer-on-your-iphone-ipad-mac-with-evermusic-and-flacbox)
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="How do I enable offline mode in Flacbox?" closed="true" %}}
+{{% ls-details title="How do I enable offline mode in Flacbox?" closed="true" %}}
 - Connect a Cloud Service:<br>
  • Go to the “Connections” tab.<br>
  • Select “Connect a cloud service” and follow the prompts to connect your desired service.<br><br>
@@ -477,9 +477,9 @@ Full tutorial available here:<br>
  • Tap “More actions” and select “Start synchronization.”<br><br>
 
 [Read more](/docs/howto/play-offline-music-in-evermusic-flacbox-download-sync-from-cloud-to-local-files/)
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="How to play locally Downloaded music on iPhone?" closed="true" %}}
+{{% ls-details title="How to play locally Downloaded music on iPhone?" closed="true" %}}
 Once you've installed the application, open the "Local Files" screen and scroll down to the "Files on this iPhone" section. From there, choose "Open files..." if you need to select several audio files or "Open folder..." if you want to pick a music folder. The app will scan the folder's content, and all found audio files will be selected. Navigate to your music folder, tap "Open" to confirm your selection, and the files will be added to the player queue. These files will be played directly from the selected location without being copied to the application bundle.<br><br>
 
 **Adding a Folder to Favorites for Quick Access**<br>
@@ -494,13 +494,13 @@ To add local files to a playlist, open the "Playlists" screen and tap the more b
 With these simple steps, you can unlock the full potential of your iPhone and Mac as the ultimate platforms for enjoying your cherished local music collection.<br><br>
 
 [Read more](/docs/howto/how-to-play-local-music-stored-on-your-iphone-or-mac)
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="How can I resume a playlist from where I left off?" closed="true" %}}
+{{% ls-details title="How can I resume a playlist from where I left off?" closed="true" %}}
 First, ensure "Save Audio Player State" is enabled in Settings > Audio Player > General. When you switch to another playlist and return, you will see four actions on the top toolbar under the album artwork: "Search," "Continue Playback," "Play All," and "Shuffle All." Tap "Continue Playback" to resume the playlist from the last saved state and media position.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="How to view lyrics for songs in Flacbox?" closed="true" %}}
+{{% ls-details title="How to view lyrics for songs in Flacbox?" closed="true" %}}
 You can view embedded lyrics for tracks in the app by **following these steps**:<br>
 1. Start playing an audio file by tapping on it.<br>
 2. Open the full-screen audio player.<br>
@@ -514,9 +514,9 @@ You can view embedded lyrics for tracks in the app by **following these steps**:
 3. LRC File Mode: Instead of editing audio files, you can place an LRC file in the same folder as the original audio file. Both files should have the same name but different extensions. When you swipe to the third page on the Comments screen, the app will search for the LRC file in the same directory and display its content.<br><br>
 
 [Read more](/docs/howto/how-to-add-and-view-comments-to-your-audio-tracks-on-iphone-ipad-and-mac-with-evermusic-and-flacbox)
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="How do I transfer music to Flacbox from my computer?" closed="true" %}}
+{{% ls-details title="How do I transfer music to Flacbox from my computer?" closed="true" %}}
 You can connect your computer or personal NAS using SMB, WebDAV, or DLNA protocols. Alternatively, use iTunes File Sharing to transfer music.<br><br>
 
 To connect a computer using SMB protocol tap "Connect a cloud service" → SMB. Enter computer IP address and shared folder name in URL field using format smb://computer-ip-address/shared-folder-name, enter login and password and tap "Done". If your connection is successful you will see connected storage in the "Cloud services" section.<br><br>
@@ -537,9 +537,9 @@ Detailed instruction available here:<br>
 
 DLNA You can also setup DLNA media server and stream your music from Window PC as described here:<br>
 [How To Enable DLNA Media Server on Windows 10 and Play Your Music on iPhone](/docs/howto/how-to-enable-dlna-media-server-on-windows-10-and-play-your-music-on-iphone)
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="How to download music?" closed="true" %}}
+{{% ls-details title="How to download music?" closed="true" %}}
 Before you can download music and listen to your music offline you should connect network account.<br>
 Just open the "Connections" screen and add your account.<br>
 Once you added a network account you can download your music from the cloud.<br><br>
@@ -560,15 +560,15 @@ More detailed instruction about offline mode available here:<br>
 
 Another available option is download music from cloud services and import it in Evermusic as described here:<br>
 [How to Download Music From YouTube and Listen to Offline Music on iPhone](/docs/howto/how-to-download-music-from-youtube-and-listen-to-offline-music-on-iphone)
-{{% /details %}}
+{{% /ls-details %}}
 
 
-{{% details title="What audio formats does Flacbox support?" closed="true" %}}
+{{% ls-details title="What audio formats does Flacbox support?" closed="true" %}}
 This app supports default **system audio codecs** and additional **ffmpeg software codecs**:<br><br>
 3g2, 3gp, 3gp2, 3gpp, 8svx, aa, aac, aax, ac3, act, adt, adts, aif, aifc, aiff, alac, amr, amv, ape, asf, au, avi, awb, caf, cavs, cdda, cue, dct, dff, drc, dsf, dss, dvf, "dvr-ms", ec3, f4a, f4b, f4p, f4v, flac, flv, gif, gifv, gsm, gxf, h261, h263, h264, ifv, iklax, ivf, ivs, l16, latm, loas, m2t, m2ts, m2v, m3u, m3u8, m4a, m4b, m4p, m4r, m4v, mka, mkv, mmf, mng, mod, mogg, mov, mp1, mp2, mp3, mp4, mp4v, mpa, mpc, mpe, mpeg, mpg, mpv, msv, mts, mxf, nsf, nsv, nut, oga, ogg, ogv, opus, pcm, pls, qt, ra, raw, rm, rmvb, roq, rv, sln, snd, svi, tod, tta, vob, voc, vox, vtt, w64, wav, wave, webm, wma, wmv, wv, xhe, xmv, y4m, yuv.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Can I use Flacbox to play audiobooks?" closed="true" %}}
+{{% ls-details title="Can I use Flacbox to play audiobooks?" closed="true" %}}
 
 Yes, Flacbox can be used as a powerful audiobook player.<br><br>
 
@@ -591,11 +591,11 @@ Flacbox provides a full-featured solution for audiobook lovers on iPhone, iPad, 
 
 [Read more](/docs/howto/how-to-listen-to-audiobooks-on-iphone-ipad-mac-using-evermusic)
 
-{{% /details %}}
+{{% /ls-details %}}
 
 
 
-{{% details title="Does Flacbox work with NAS devices?" closed="true" %}}
+{{% ls-details title="Does Flacbox work with NAS devices?" closed="true" %}}
 
 Yes, Flacbox supports NAS connections using **SMB**, **WebDAV**, and **DLNA** protocols.<br><br>
 
@@ -626,10 +626,10 @@ If the connection is successful, you’ll see your NAS in the **Cloud services**
 • [Connect Bluesound Vault storage](/docs/howto/how-to-connect-bluesound-vault-s-internal-storage-from-the-evermusic-flacbox-evertag)<br>
 • [Connect NAS Storage Using WebDAV](/docs/howto/how-to-connect-nas-storage-using-webdav-and-listen-to-music-on-your-iphone-or-mac)
 
-{{% /details %}}
+{{% /ls-details %}}
 
 
-{{% details title="How do I import music to Flacbox?" closed="true" %}}
+{{% ls-details title="How do I import music to Flacbox?" closed="true" %}}
 
 **Connect Your Cloud Service**<br>
 • Open the **Connections** tab.<br>
@@ -675,10 +675,10 @@ Explore these tutorials for more help:<br><br>
 • [Transfer Files Wirelessly Using WiFi-Drive](/docs/howto/how-to-transfer-files-wirelessly-from-a-computer-to-an-iphone-using-wifi-drive)<br>
 • [Transfer Files Using SMB Protocol](/docs/howto/transfer-your-files-from-the-computer-to-iphone-using-smb-protocol/)
 
-{{% /details %}}
+{{% /ls-details %}}
 
 
-{{% details title="How do I use the Wi-Fi Drive feature in Flacbox?" closed="true" %}}
+{{% ls-details title="How do I use the Wi-Fi Drive feature in Flacbox?" closed="true" %}}
 
 **Wireless transfer using a desktop browser**<br>
 1. Launch the app: Open Flacbox.<br>
@@ -703,9 +703,9 @@ Note: Ensure JavaScript is enabled and you're using the latest browser version f
 
 [Read more](/docs/howto/how-to-transfer-files-wirelessly-from-a-computer-to-an-iphone-using-wifi-drive)
 
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Does Flacbox support Apple CarPlay?" closed="true" %}}
+{{% ls-details title="Does Flacbox support Apple CarPlay?" closed="true" %}}
 Yes, **Flacbox fully supports Apple CarPlay**. You can browse your music library, play local or offline files, connect to cloud storage, and control playback directly from your car’s infotainment screen.
 
 The CarPlay interface includes dedicated tabs for **Library**, **Connections**, **Local Files**, and **Settings**, giving you full control over your music on the road. Playback controls, shuffle, repeat, and queue management are also available.
@@ -713,42 +713,42 @@ The CarPlay interface includes dedicated tabs for **Library**, **Connections**, 
 To use CarPlay, make sure Siri is enabled and your iPhone is connected via USB or wireless.
 
 [Read the full guide](/docs/howto/how-to-play-your-own-music-on-iphone-using-carplay/)
-{{% /details %}}
+{{% /ls-details %}}
 
 </div>
 
 
 <div class="hx:mt-6"></div>
 
-{{< hextra/section-headline >}}
+{{< ls-section-headline >}}
   User Guide
-{{< /hextra/section-headline >}}
+{{< /ls-section-headline >}}
 
 <div class="hx:mt-6"></div>
 
 <div class="hx:w-full">
 
 <div class="hx:w-full hx:mx-auto hx:flex hx:flex-col hx:items-center hx:text-center">
-  {{< hextra/info-paragraph border="false" >}}
+  {{< ls-info-paragraph border="false" >}}
   This guide will help you get the most out of Flacbox on your iPhone, iPad, or Mac. Learn how to stream high-resolution music from the cloud, organize your library, manage audiobooks, and transfer music between devices.
-  {{< /hextra/info-paragraph >}}
+  {{< /ls-info-paragraph >}}
 </div>
 
 {{< cards >}}
 
-{{< feature-card icon="map" link="/docs/guide/flacbox/flacbox-guide-navigation" title="Navigation" subtitle="Use the Tab Bar on iPhone or Left Menu on iPad & Mac." >}}
+{{< ls-feature-card icon="map" link="/docs/guide/flacbox/flacbox-guide-navigation" title="Navigation" subtitle="Use the Tab Bar on iPhone or Left Menu on iPad & Mac." >}}
 
-{{< feature-card icon="cloud" link="/docs/guide/flacbox/flacbox-guide-connections" title="Connections" subtitle="Connect Dropbox, Google Drive, iCloud, or your NAS." >}}
+{{< ls-feature-card icon="cloud" link="/docs/guide/flacbox/flacbox-guide-connections" title="Connections" subtitle="Connect Dropbox, Google Drive, iCloud, or your NAS." >}}
 
-{{< feature-card icon="collection" link="/docs/guide/flacbox/flacbox-guide-music-library" title="Music Library" subtitle="Manage and search tracks by artist, album, or genre." >}}
+{{< ls-feature-card icon="collection" link="/docs/guide/flacbox/flacbox-guide-music-library" title="Music Library" subtitle="Manage and search tracks by artist, album, or genre." >}}
 
-{{< feature-card icon="music-note" link="/docs/guide/flacbox/flacbox-guide-playlists" title="Playlists" subtitle="Create and organize playlists for any mood or occasion." >}}
+{{< ls-feature-card icon="music-note" link="/docs/guide/flacbox/flacbox-guide-playlists" title="Playlists" subtitle="Create and organize playlists for any mood or occasion." >}}
 
-{{< feature-card icon="folder" link="/docs/guide/flacbox/flacbox-guide-local-files" title="Local Files" subtitle="Edit and play offline music with the built-in file manager." >}}
+{{< ls-feature-card icon="folder" link="/docs/guide/flacbox/flacbox-guide-local-files" title="Local Files" subtitle="Edit and play offline music with the built-in file manager." >}}
 
-{{< feature-card icon="play" link="/docs/guide/flacbox/flacbox-guide-player" title="Audio Player" subtitle="Control playback, adjust speed, set bookmarks, and more." >}}
+{{< ls-feature-card icon="play" link="/docs/guide/flacbox/flacbox-guide-player" title="Audio Player" subtitle="Control playback, adjust speed, set bookmarks, and more." >}}
 
-{{< feature-card icon="adjustments" link="/docs/guide/flacbox/flacbox-guide-settings" title="Settings" subtitle="Customize equalizer, appearance, and app behavior." >}}
+{{< ls-feature-card icon="adjustments" link="/docs/guide/flacbox/flacbox-guide-settings" title="Settings" subtitle="Customize equalizer, appearance, and app behavior." >}}
 
 {{< /cards >}}
 

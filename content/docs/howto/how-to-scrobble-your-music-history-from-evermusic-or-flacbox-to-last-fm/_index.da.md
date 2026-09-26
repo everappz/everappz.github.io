@@ -17,7 +17,7 @@ keywords: [
 readingTime: 2
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **Kort sagt:** Både Evermusic og Flacbox har indbygget Last.fm-scrobbling. Forbind din konto i sektionen **Forbindelser**, og hvert nummer du afspiller logges automatisk -- selv når du er offline. Opsætningen tager mindre end et minut.
@@ -66,22 +66,22 @@ At scrobble din musikhistorik fra Evermusic eller Flacbox til [Last.fm](http://L
 
 ## Ofte stillede spørgsmål
 
-{{% details title="Er Last.fm-scrobbling gratis?" closed="true" %}}
+{{% ls-details title="Er Last.fm-scrobbling gratis?" closed="true" %}}
 Ja. Last.fm tilbyder en gratis konto, der inkluderer fuld scrobbling, lyttehistorik og grundlæggende anbefalinger. Et betalt Last.fm Pro-abonnement tilføjer ekstra funktioner på Last.fm-hjemmesiden, men er ikke påkrævet for scrobbling fra Evermusic eller Flacbox.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Fungerer scrobbling, når jeg er offline?" closed="true" %}}
+{{% ls-details title="Fungerer scrobbling, når jeg er offline?" closed="true" %}}
 Ja. Både Evermusic og Flacbox gemmer din afspilningshistorik lokalt. Når du er online igen, uploader apps automatisk de ventende scrobbles til Last.fm.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Gemmer appen mine Last.fm-loginoplysninger?" closed="true" %}}
+{{% ls-details title="Gemmer appen mine Last.fm-loginoplysninger?" closed="true" %}}
 Nej. Appen gemmer kun et sikkert adgangstoken i din enheds nøglering. Dit brugernavn og adgangskode gemmes ikke.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Kan jeg scrobble fra både iPhone og Mac?" closed="true" %}}
+{{% ls-details title="Kan jeg scrobble fra både iPhone og Mac?" closed="true" %}}
 Ja. Evermusic og Flacbox understøtter Last.fm-scrobbling på iPhone, iPad og Mac. Forbind din konto på hver enhed, hvor du vil spore afspilninger.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Hvordan stopper jeg scrobbling uden at slette min Last.fm-konto?" closed="true" %}}
+{{% ls-details title="Hvordan stopper jeg scrobbling uden at slette min Last.fm-konto?" closed="true" %}}
 Åbn sektionen Forbindelser i Evermusic eller Flacbox og tryk på Frakoble ved siden af Last.fm. Dette fjerner adgangstokenet og stopper scrobbling, mens din Last.fm-konto og historik forbliver intakte.
-{{% /details %}}
+{{% /ls-details %}}

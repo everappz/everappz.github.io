@@ -7,7 +7,7 @@ tags: ["musikk", "sky", "strømming", "synkronisering", "icloud", "bibliotek"]
 keywords: ["importere iCloud-musikk Evermusic", "Flacbox iCloud-synkronisering", "Evermusic strømme fra iCloud", "musikkbibliotek iOS-app", "Flacbox metadataleser", "iCloud musikkstrømming iPhone"]
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **Sammendrag:** Du kan strømme iCloud Drive-musikkbiblioteket ditt i Evermusic og Flacbox uten å laste ned filer til enheten din. Koble til iCloud Drive i appen, aktiver Online musikksynkronisering for å bygge biblioteket ditt, konfigurer metadataleseren for å organisere etter artist/album/sjanger, og eventuelt aktiver Offline-modus for å laste ned album for lytting uten internett. Disse trinnene fungerer også med Google Drive, Dropbox, OneDrive og andre støttede skytjenester.
@@ -148,26 +148,26 @@ Det er alt for i dag! Vi håper denne guiden hjelper deg med å konfigurere synk
 
 ## FAQ
 
-{{% details title="Kan jeg strømme iCloud-musikk uten å laste ned filer til iPhone?" closed="true" %}}
+{{% ls-details title="Kan jeg strømme iCloud-musikk uten å laste ned filer til iPhone?" closed="true" %}}
 Ja. Når du kobler til iCloud Drive i Evermusic eller Flacbox og bruker Online musikksynkronisering, oppretter appen lenker til skyfilene dine og strømmer dem på forespørsel. Filer lastes ikke ned med mindre du eksplisitt aktiverer Offline-modus.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Hvorfor er iCloud-musikkimport treg i Flacbox eller Evermusic?" closed="true" %}}
+{{% ls-details title="Hvorfor er iCloud-musikkimport treg i Flacbox eller Evermusic?" closed="true" %}}
 Treg import skyldes vanligvis metadatalesing på et stort bibliotek over en mobilforbindelse. Aktiver Bakgrunnssynkronisering, start lydavspilling for å holde appen aktiv, og vurder å bruke Mac-versjonen for den innledende synkroniseringen av store samlinger.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Fungerer denne guiden med andre skytjenester enn iCloud?" closed="true" %}}
+{{% ls-details title="Fungerer denne guiden med andre skytjenester enn iCloud?" closed="true" %}}
 Ja. De samme trinnene gjelder for Google Drive, Dropbox, OneDrive, SMB, WebDAV og alle andre skytjenester som støttes av Evermusic og Flacbox.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Hvordan overfører jeg musikkbiblioteket mitt fra Mac til iPhone?" closed="true" %}}
+{{% ls-details title="Hvordan overfører jeg musikkbiblioteket mitt fra Mac til iPhone?" closed="true" %}}
 Bruk funksjonen for sikkerhetskopiering/gjenoppretting i appinnstillingene. Synkroniser og les metadata på Mac-versjonen først, opprett en sikkerhetskopi, og gjenopprett den deretter på iOS-versjonen. Dette er den raskeste måten å sette opp et stort bibliotek på iPhone.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Vil metadataleseren endre de originale lydfilene mine?" closed="true" %}}
+{{% ls-details title="Vil metadataleseren endre de originale lydfilene mine?" closed="true" %}}
 Nei. Metadataleseren oppdaterer kun visningsinformasjonen i musikkbiblioteket ditt. Den endrer ikke filer lagret i skykontoen eller på enheten din. For å redigere filtagger, bruk den innebygde taggeditoren.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Hvordan gjør jeg album tilgjengelige offline?" closed="true" %}}
+{{% ls-details title="Hvordan gjør jeg album tilgjengelige offline?" closed="true" %}}
 Bruk Offline-modus-funksjonen. Trykk **Flere handlinger** på en hvilken som helst skymappe og velg **Aktivere offline-modus**. Appen laster ned alle filer og holder dem automatisk synkronisert med skyversjonen.
-{{% /details %}}
+{{% /ls-details %}}

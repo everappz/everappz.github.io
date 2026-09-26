@@ -7,7 +7,7 @@ tags: ["evermusic", "musikk", "sky", "iphone", "lagring", "lokal", "nas", "windo
 readingTime: 2
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **Kort fortalt:** Windows 10 har en innebygd DLNA-server. Aktiver den i Nettverks- og delingsinnstillinger, og bruk deretter den gratis **Evermusic**-appen på iPhone for å strømme hele musikkbiblioteket ditt over Wi-Fi. Ingen tredjeparts serverprogramvare nødvendig.
@@ -96,22 +96,22 @@ Med DLNA Media Server på Windows 10 og Evermusic på iPhone kan du nyte sømlø
 
 ## Vanlige spørsmål
 
-{{% details title="Trenger jeg å installere serverprogramvare på Windows 10?" closed="true" %}}
+{{% ls-details title="Trenger jeg å installere serverprogramvare på Windows 10?" closed="true" %}}
 Nei. Windows 10 inkluderer en innebygd DLNA-medieserver. Du trenger bare å aktivere mediestrømming i Nettverks- og delingssenter-innstillingene. Ingen tredjeparts programvare nødvendig.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Må iPhonen min være på samme Wi-Fi-nettverk?" closed="true" %}}
+{{% ls-details title="Må iPhonen min være på samme Wi-Fi-nettverk?" closed="true" %}}
 Ja. DLNA-strømming fungerer over ditt lokale nettverk. Både Windows 10-PCen og iPhonen din må være koblet til samme Wi-Fi-nettverk for at Evermusic skal oppdage DLNA-serveren.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Hvilke lydformater kan jeg strømme via DLNA?" closed="true" %}}
+{{% ls-details title="Hvilke lydformater kan jeg strømme via DLNA?" closed="true" %}}
 Windows DLNA-serveren deler filer fra Musikk-mappen uavhengig av format. Evermusic støtter MP3, FLAC, AAC, WAV, OGG, AIFF og mange andre formater, slik at du kan spille av praktisk talt alle lydfiler fra serveren.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Kan jeg bruke Flacbox i stedet for Evermusic?" closed="true" %}}
+{{% ls-details title="Kan jeg bruke Flacbox i stedet for Evermusic?" closed="true" %}}
 Ja. Flacbox støtter også DLNA/UPnP-surfing og avspilling. Du kan bruke begge appene til å oppdage og spille musikk fra Windows DLNA-serveren din.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Bruker DLNA-strømming mobildata?" closed="true" %}}
+{{% ls-details title="Bruker DLNA-strømming mobildata?" closed="true" %}}
 Nei. DLNA opererer utelukkende på ditt lokale Wi-Fi-nettverk. Det bruker ingen mobildata. Begge enhetene må imidlertid forbli koblet til samme nettverk under avspilling.
-{{% /details %}}
+{{% /ls-details %}}

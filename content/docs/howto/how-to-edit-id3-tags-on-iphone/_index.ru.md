@@ -7,7 +7,7 @@ tags: ["mp3", "редактор", "iPhone", "теги", "метаданные", 
 readingTime: 2
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **Коротко:** Используйте встроенный редактор тегов в Evermusic или Flacbox для редактирования ID3-тегов на iPhone или Mac -- как для облачных, так и для локальных файлов. Нужна пакетная обработка или более 120 полей тегов? Используйте [Evertag](https://apps.apple.com/app/apple-store/id1450763230?pt=95781850&ct=everappzcom&mt=8).
@@ -21,8 +21,8 @@ readingTime: 2
 В то время как многие настольные приложения предлагают редактирование метаданных, Evermusic и Flacbox выводят простоту на новый уровень, включая редактор ID3-тегов. Теперь вы можете использовать одно приложение для создания музыкальной библиотеки, прослушивания треков и исправления аудио-тегов.
 
 {{< cards cols="2">}}
-{{< card link="https://apps.apple.com/app/apple-store/id885367198?pt=95781850&ct=everappzcom&mt=8" title="Скачать Evermusic" icon="download" tag="Free" >}}
-{{< card link="https://apps.apple.com/app/apple-store/id1097564256?pt=95781850&ct=everappzcom&mt=8" title="Скачать Flacbox" icon="download" tag="Free" >}}
+{{< ls-card link="https://apps.apple.com/app/apple-store/id885367198?pt=95781850&ct=everappzcom&mt=8" title="Скачать Evermusic" icon="download" tag="Free" >}}
+{{< ls-card link="https://apps.apple.com/app/apple-store/id1097564256?pt=95781850&ct=everappzcom&mt=8" title="Скачать Flacbox" icon="download" tag="Free" >}}
 {{< /cards >}}
 
 ## Профессиональный редактор
@@ -30,7 +30,7 @@ readingTime: 2
 Но перед началом обратите внимание на приложение **Evertag** — оно поддерживает **более 120 аудио-тегов**, **более 30 аудио-форматов** и предлагает мощное **пакетное редактирование**. Если вы ищете полнофункциональный инструмент управления тегами, Evertag — лучший выбор. Однако, если вам нужен только **простой редактор тегов**, продолжайте с этим руководством.
 
 {{< cards >}}
-{{< card link="https://apps.apple.com/app/apple-store/id1450763230?pt=95781850&ct=everappzcom&mt=8" title="Скачать Evertag" icon="download" tag="Free" >}}
+{{< ls-card link="https://apps.apple.com/app/apple-store/id1450763230?pt=95781850&ct=everappzcom&mt=8" title="Скачать Evertag" icon="download" tag="Free" >}}
 {{< /cards >}}
 
 
@@ -38,21 +38,21 @@ readingTime: 2
 Свяжите предпочитаемый облачный аккаунт в приложении.
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Подключение облачного сервера" image="/docs/howto/how-to-edit-id3-tags-on-iphone/connect_cloud_server.webp" >}}
+{{< ls-card title="" subtitle="Подключение облачного сервера" image="/docs/howto/how-to-edit-id3-tags-on-iphone/connect_cloud_server.webp" >}}
 {{< /cards >}}
 
 ## Перейдите к аудиофайлам  
 Откройте папку с аудиофайлами в подключённом облачном аккаунте.
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Облачные папки" image="/docs/howto/how-to-edit-id3-tags-on-iphone/cloud_server_folders.webp" >}}
+{{< ls-card title="" subtitle="Облачные папки" image="/docs/howto/how-to-edit-id3-tags-on-iphone/cloud_server_folders.webp" >}}
 {{< /cards >}}
 
 ## Доступ к параметрам файла  
 Нажмите кнопку «Ещё» ('...') рядом с файлом, который хотите отредактировать.
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Дополнительные действия" image="/docs/howto/how-to-edit-id3-tags-on-iphone/cloud_server_audio_more_actions.webp" >}}
+{{< ls-card title="" subtitle="Дополнительные действия" image="/docs/howto/how-to-edit-id3-tags-on-iphone/cloud_server_audio_more_actions.webp" >}}
 {{< /cards >}}
 
 ## Выберите «Редактировать аудио-теги»  
@@ -70,7 +70,7 @@ readingTime: 2
 После завершения редактирования нажмите кнопку «Сохранить», чтобы сохранить изменения.
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Редактор тегов" image="/docs/howto/how-to-edit-id3-tags-on-iphone/tags_editor.webp" >}}
+{{< ls-card title="" subtitle="Редактор тегов" image="/docs/howto/how-to-edit-id3-tags-on-iphone/tags_editor.webp" >}}
 {{< /cards >}}
 
 ## Умное автозаполнение  
@@ -88,7 +88,7 @@ readingTime: 2
 - **Перейдите в раздел «Локальные файлы»**, затем прокрутите вниз до **«Файлы на этом устройстве».**
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Файлы на этом устройстве" image="/docs/howto/how-to-edit-id3-tags-on-iphone/local_files.webp" >}}
+{{< ls-card title="" subtitle="Файлы на этом устройстве" image="/docs/howto/how-to-edit-id3-tags-on-iphone/local_files.webp" >}}
 {{< /cards >}}
 
 - Нажмите **«Подключить папку»**.
@@ -96,25 +96,25 @@ readingTime: 2
 - В выборе папок выберите каталог, к которому хотите получить доступ, и нажмите **«Открыть»** для подтверждения.
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Подключение внешней папки" image="/docs/howto/how-to-edit-id3-tags-on-iphone/connect_external_folder.webp" >}}
+{{< ls-card title="" subtitle="Подключение внешней папки" image="/docs/howto/how-to-edit-id3-tags-on-iphone/connect_external_folder.webp" >}}
 {{< /cards >}}
 
 - После добавления папки нажмите на неё, чтобы просмотреть файлы внутри.
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Содержимое внешней папки" image="/docs/howto/how-to-edit-id3-tags-on-iphone/connected_external_folder.webp" >}}
+{{< ls-card title="" subtitle="Содержимое внешней папки" image="/docs/howto/how-to-edit-id3-tags-on-iphone/connected_external_folder.webp" >}}
 {{< /cards >}}
 
 - Как и с облачными файлами, нажмите кнопку **«Дополнительные действия»** рядом с аудиофайлом и выберите **«Редактировать аудио-теги».**
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Дополнительные действия - Локальный файл" image="/docs/howto/how-to-edit-id3-tags-on-iphone/more_actions_local_file.webp" >}}
+{{< ls-card title="" subtitle="Дополнительные действия - Локальный файл" image="/docs/howto/how-to-edit-id3-tags-on-iphone/more_actions_local_file.webp" >}}
 {{< /cards >}}
 
 - Откроется редактор тегов. Внесите изменения и нажмите **«Сохранить»**. Готово! Ваши правки применяются непосредственно к файлу — не нужно ничего копировать или перемещать.
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Редактор тегов - Локальный файл" image="/docs/howto/how-to-edit-id3-tags-on-iphone/tag_editor_local_file.webp" >}}
+{{< ls-card title="" subtitle="Редактор тегов - Локальный файл" image="/docs/howto/how-to-edit-id3-tags-on-iphone/tag_editor_local_file.webp" >}}
 {{< /cards >}}
 
 ## Редактирование обложки альбома
@@ -126,7 +126,7 @@ readingTime: 2
 3. Выберите изображение для применения в качестве обложки.
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Выбор изображения" image="/docs/howto/how-to-edit-id3-tags-on-iphone/tags_editor_choose_image.webp" >}}
+{{< ls-card title="" subtitle="Выбор изображения" image="/docs/howto/how-to-edit-id3-tags-on-iphone/tags_editor_choose_image.webp" >}}
 {{< /cards >}}
 
 ## Дополнительные действия в редакторе тегов
@@ -134,7 +134,7 @@ readingTime: 2
 Дополнительные параметры редактирования доступны через панель инструментов под просмотром обложки.
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Меню дополнительных действий" image="/docs/howto/how-to-edit-id3-tags-on-iphone/tags_edito_more_actions.webp" >}}
+{{< ls-card title="" subtitle="Меню дополнительных действий" image="/docs/howto/how-to-edit-id3-tags-on-iphone/tags_edito_more_actions.webp" >}}
 {{< /cards >}}
 
 ### Автопоиск аудио-тегов
@@ -195,22 +195,22 @@ readingTime: 2
 
 ## Часто задаваемые вопросы
 
-{{% details title="Какие аудиоформаты я могу редактировать?" closed="true" %}}
+{{% ls-details title="Какие аудиоформаты я могу редактировать?" closed="true" %}}
 Evermusic и Flacbox поддерживают редактирование тегов для MP3, FLAC, AAC, OGG и других распространённых аудиоформатов. Evertag поддерживает более 30 форматов, включая WAV, AIFF, WMA и APE.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Могу ли я редактировать теги файлов, хранящихся в облачных сервисах?" closed="true" %}}
+{{% ls-details title="Могу ли я редактировать теги файлов, хранящихся в облачных сервисах?" closed="true" %}}
 Да. Подключите свой аккаунт Dropbox, Google Drive, OneDrive или другой облачный аккаунт. Приложение загружает файл, позволяет редактировать теги и автоматически загружает изменённый файл обратно в облако.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="В чём разница между Evermusic/Flacbox и Evertag?" closed="true" %}}
+{{% ls-details title="В чём разница между Evermusic/Flacbox и Evertag?" closed="true" %}}
 Evermusic и Flacbox — это музыкальные проигрыватели со встроенным базовым редактором тегов. Evertag — это специализированный редактор тегов, поддерживающий более 120 аудио-тегов, пакетное редактирование и более 30 форматов -- идеален для управления большими библиотеками.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Требует ли функция автопоиска подключение к интернету?" closed="true" %}}
+{{% ls-details title="Требует ли функция автопоиска подключение к интернету?" closed="true" %}}
 Да. Функция автопоиска аудио-тегов обращается к онлайн-базе данных MusicBrainz для поиска и заполнения метаданных. Для этой функции требуется активное интернет-соединение.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Изменит ли редактирование тегов качество звука?" closed="true" %}}
+{{% ls-details title="Изменит ли редактирование тегов качество звука?" closed="true" %}}
 Нет. Редактирование тегов изменяет только метаданные, встроенные в файл. Аудиоданные остаются нетронутыми — повторная кодировка не производится.
-{{% /details %}}
+{{% /ls-details %}}

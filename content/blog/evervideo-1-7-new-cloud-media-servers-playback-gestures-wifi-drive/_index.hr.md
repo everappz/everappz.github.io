@@ -12,7 +12,7 @@ authors:
     image: "/images/about/artem-meleshko-founder-everappz.webp"
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 **Ukratko:** [Evervideo 1.7](/products/evervideo) je veliko ažuriranje HD video playera za iPhone, iPad i Mac. Ova verzija dodaje više od 10 novih veza s oblakom, NAS-om i medijskim poslužiteljima — **Internxt**, **Proton Drive**, **QNAP**, **Nextcloud**, **Amazon S3**, plus najpopularnije medijske poslužitelje **Plex**, **Subsonic**, **Navidrome**, **Jellyfin** i **Emby**, te tri mrežna protokola: **FTP**, **SFTP** i **NFS**. Nove **geste reprodukcije** omogućuju vam dvostruki dodir za skok naprijed ili natrag, dodir i držanje za rad na 2x, i jedan dodir za prebacivanje kontrola — sve bez izlaska iz cijelog zaslona. Wi-Fi Drive dobiva osvježeno sučelje s načinom odabira i pametnijim redom učitavanja. Cijela aplikacija prilagođena je novom Appleovom dizajnu **Liquid Glass**.
 
@@ -147,58 +147,58 @@ Ako uživate u aplikaciji, ostavite recenziju na App Storeu — to stvarno poma�
 
 ## Često postavljana pitanja
 
-{{% details title="Što je novo u Evervideu 1.7?" closed="true" %}}
+{{% ls-details title="Što je novo u Evervideu 1.7?" closed="true" %}}
 Evervideo 1.7 uvodi podršku za više od 10 novih veza (Plex, Jellyfin, Emby, Subsonic, Navidrome, Internxt, Proton Drive, QNAP, Nextcloud, Amazon S3, FTP, SFTP, NFS), nove geste reprodukcije (dvostruki dodir za traženje, dodir i držanje za brzinu 2x, jedan dodir za prebacivanje kontrola), preuređeni Wi-Fi Drive s načinom odabira i pametnijim redom učitavanja, ažuriranja dizajna Liquid Glass, ažurirane biblioteke veza i mnoge ispravke grešaka.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Radi li Evervideo s Plexom?" closed="true" %}}
+{{% ls-details title="Radi li Evervideo s Plexom?" closed="true" %}}
 Da. Počevši s Evervideom 1.7 možete se povezati s Plex Media Serverom i streamati cijelu svoju video biblioteku — filmove, TV serije i kućne videozapise. Plex Media Server je besplatan za pokretanje; Plex Pass je opcionalan. Evervideo podržava i besplatne i Plex Pass postavke, uključujući izravnu reprodukciju MKV, MP4, AVI, MOV i drugih formata bez ponovnog kodiranja.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Jesu li Jellyfin ili Navidrome podržani u Evervideu?" closed="true" %}}
+{{% ls-details title="Jesu li Jellyfin ili Navidrome podržani u Evervideu?" closed="true" %}}
 Da. I Jellyfin i Navidrome u potpunosti su podržani u Evervideu 1.7. Jellyfin je besplatan, open source medijski poslužitelj koji rukuje videom i audiom. Navidrome je besplatan, open source poslužitelj koji implementira Subsonic API. Evervideo se izvorno povezuje s oba.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Jesu li Plex, Jellyfin, Emby, Navidrome i Subsonic besplatni?" closed="true" %}}
+{{% ls-details title="Jesu li Plex, Jellyfin, Emby, Navidrome i Subsonic besplatni?" closed="true" %}}
 - **Plex** — poslužitelj je besplatan; Plex Pass je opcionalna plaćena nadogradnja.
 - **Jellyfin** — potpuno besplatan i open source.
 - **Emby** — poslužitelj je besplatan; Emby Premiere je plaćen i otključava mobilnu sinkronizaciju i offline rad.
 - **Navidrome** — potpuno besplatan i open source.
 - **Subsonic** — službeni poslužitelj košta 1 $/mjesec nakon 30-dnevne probne verzije, ali je njegov API otvoren i mnogi besplatni poslužitelji (uključujući Navidrome) ga implementiraju.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Mogu li streamati s kućnog NAS-a preko SFTP-a, FTP-a ili NFS-a?" closed="true" %}}
+{{% ls-details title="Mogu li streamati s kućnog NAS-a preko SFTP-a, FTP-a ili NFS-a?" closed="true" %}}
 Da. Evervideo 1.7 dodaje SFTP, FTP i NFS kao izvorne vrste veza. SFTP je preporučen izbor za streaming s vlastitog poslužitelja preko javnog interneta jer je sav promet enkriptiran putem SSH-a. FTP i NFS najbolje koristiti unutar lokalne mreže ili iza VPN-a.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Kako povezati Evervideo s prilagođenim poslužiteljem koristeći SFTP?" closed="true" %}}
+{{% ls-details title="Kako povezati Evervideo s prilagođenim poslužiteljem koristeći SFTP?" closed="true" %}}
 Otvorite Evervideo, idite na karticu Povezivanja, odaberite SFTP i unesite naziv hosta ili IP poslužitelja, port (obično 22), korisničko ime i lozinku ili privatni SSH ključ. Evervideo će pregledavati vaše udaljene mape i streamati video datoteke izravno s end-to-end enkripcijom.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Podržava li Evervideo Internxt i Proton Drive?" closed="true" %}}
+{{% ls-details title="Podržava li Evervideo Internxt i Proton Drive?" closed="true" %}}
 Da. Oba oblaka usmjerena na privatnost podržana su od Evervidea 1.7. Pridružuju se MEGA-i i drugim uslugama usmjerenima na privatnost koje su već dostupne u aplikaciji.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Kako rade nove geste reprodukcije?" closed="true" %}}
+{{% ls-details title="Kako rade nove geste reprodukcije?" closed="true" %}}
 U reprodukciji videa u cijelom zaslonu, **dvaput dodirnite desnu stranu** za skok naprijed i **dvaput dodirnite lijevu stranu** za skok natrag za konfigurabilan interval (zadano 10 sekundi — promijenite u Postavkama). **Dodirnite i držite** bilo gdje na zaslonu da privremeno ubrzate na 2x; pustite za povratak na normalno. **Jedan dodir** bilo gdje prebacuje kontrole reprodukcije (prikaži ili sakrij).
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Mogu li promijeniti interval skoka pri dvostrukom dodiru?" closed="true" %}}
+{{% ls-details title="Mogu li promijeniti interval skoka pri dvostrukom dodiru?" closed="true" %}}
 Da. Idite na **Postavke → Reprodukcija → Interval skoka gestom** i odaberite vrijednost između 5 i 60 sekundi. Većina korisnika ga drži na 10 ili 15 sekundi.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Što je Wi-Fi Drive u Evervideu?" closed="true" %}}
+{{% ls-details title="Što je Wi-Fi Drive u Evervideu?" closed="true" %}}
 Wi-Fi Drive je ugrađena značajka bežičnog prijenosa datoteka u Evervideu. Omogućuje vam učitavanje videozapisa s računala na iPhone ili iPad preko lokalne Wi-Fi mreže — bez iTunesa, bez kabela, bez računa za oblak. Možete koristiti bilo koji stolni preglednik ili WebDAV klijent poput Mac Findera ili Windows File Explorera. Pogledajte [potpuni vodič za Wi-Fi Drive](/docs/howto/how-to-transfer-files-wirelessly-from-a-computer-to-an-iphone-using-wifi-drive/).
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Reproducira li Evervideo MKV, AVI i druge formate s Plexa ili Jellyfina?" closed="true" %}}
+{{% ls-details title="Reproducira li Evervideo MKV, AVI i druge formate s Plexa ili Jellyfina?" closed="true" %}}
 Da. Evervideo reproducira gotovo svaki video format — MKV, AVI, MP4, MOV, FLV, WMV, WEBM, M4V, TS, 3GP — i streama ih izravno s Plexa, Jellyfina, Embyja i drugih medijskih poslužitelja bez potrebe za transkodiranjem za većinu kodeka. To znači manje opterećenja CPU-a na vašem poslužitelju i brže vrijeme pokretanja.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Je li ažuriranje na Evervideo 1.7 besplatno?" closed="true" %}}
+{{% ls-details title="Je li ažuriranje na Evervideo 1.7 besplatno?" closed="true" %}}
 Da. Evervideo je besplatno preuzimanje s App Storea, a 1.7 je besplatno ažuriranje za sve postojeće korisnike. Nove integracije s oblakom, podrška za medijske poslužitelje, geste reprodukcije, poboljšanja Wi-Fi Drivea i Liquid Glass UI dio su osnovnog ažuriranja.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Na kojim uređajima je dostupan Evervideo 1.7?" closed="true" %}}
+{{% ls-details title="Na kojim uređajima je dostupan Evervideo 1.7?" closed="true" %}}
 Evervideo 1.7 radi na iPhoneu, iPadu i Macu. AirPlay i Chromecast omogućuju vam slanje reprodukcije na veći zaslon. Sinkronizacija preko iCloud Drivea održava vašu biblioteku i postavke dosljednim između uređaja.
-{{% /details %}}
+{{% /ls-details %}}

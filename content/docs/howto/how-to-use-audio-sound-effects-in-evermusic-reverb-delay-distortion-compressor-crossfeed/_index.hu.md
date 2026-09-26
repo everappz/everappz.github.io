@@ -7,7 +7,7 @@ tags: ["Evermusic", "Hangeffektek", "Útmutató", "Zengetés", "Visszhang", "Tor
 readingTime: 8
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 **Röviden:** Az Evermusic hat valós idejű hangeffektet tartalmaz: **hangerő-normalizálás, kompresszor, zengetés, keresztátfedés, visszhang és torzítás**. Ezeket a lejátszó **⋯ (Továbbiak) menü > Hangeffektek** pontjából, vagy a **Beállítások > Audiolejátszó > Hangeffektek** menüből nyithatod meg. Koppints egy effektre, kapcsold a kapcsolóját **BE** állásba (jobb felül), válassz egy **előbeállítást**, és opcionálisan nyisd meg a **Speciális módot** a csúszkák finomhangolásához. Minden effekt önállóan működik, és valós időben alkalmazódik mindenre, amit lejátszol: helyi fájlokra, felhőalapú streamekre és internetes rádióra, újrakódolás nélkül.
 
@@ -162,38 +162,38 @@ Az Evermusic **10 sávos grafikus hangszínszabályzójával** és a **szünetme
 
 ## GYIK
 
-{{% details title="Hogyan adjak zengetést, visszhangot vagy más effekteket a zenémhez az Evermusicban?" closed="true" %}}
+{{% ls-details title="Hogyan adjak zengetést, visszhangot vagy más effekteket a zenémhez az Evermusicban?" closed="true" %}}
 Nyisd meg a lejátszót, koppints a ⋯ (Továbbiak) gombra, és válaszd a Hangeffekteket (vagy lépj a Beállítások > Audiolejátszó > Hangeffektek menüpontra). Koppints a kívánt effektre, kapcsold a kapcsolóját BE állásba jobb felül, és válassz egy előbeállítást. Nyisd meg a Speciális módot a csúszkák finomhangolásához. Az effekt azonnal alkalmazódik arra, ami éppen szól.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Milyen hangeffektjei vannak az Evermusicnak?" closed="true" %}}
+{{% ls-details title="Milyen hangeffektjei vannak az Evermusicnak?" closed="true" %}}
 Hat valós idejű effekt: hangerő-normalizálás (EBU R128 hangosság-kiegyenlítés), kompresszor (dinamika), zengetés (tér és visszhang-lecsengés), keresztátfedés (természetes fejhallgatós hangkép), visszhang (echo) és torzítás (lo-fi érdesség). Mindegyik önálló, és önmagában vagy kombinálva is használható.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Megváltoztatják vagy károsítják az effektek a hangfájljaimat?" closed="true" %}}
+{{% ls-details title="Megváltoztatják vagy károsítják az effektek a hangfájljaimat?" closed="true" %}}
 Nem. Minden effekt kizárólag valós időben, lejátszás közben alkalmazódik. Soha nem módosítják vagy kódolják újra a fájljaidat. Kapcsolj ki egy effektet, és az eredeti hangzás azonnal visszatér.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Használhatok egyszerre több effektet?" closed="true" %}}
+{{% ls-details title="Használhatok egyszerre több effektet?" closed="true" %}}
 Igen. Minden effekt önálló — nincs főkapcsoló — így bármilyen kombinációt engedélyezhetsz. Például hangerő-normalizálás plusz kompresszor a következetes, kényelmes hallgatáshoz, vagy zengetés plusz keresztátfedés fejhallgatón.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Mi a keresztátfedés, és használjam-e?" closed="true" %}}
+{{% ls-details title="Mi a keresztátfedés, és használjam-e?" closed="true" %}}
 A keresztátfedés mindkét sztereó csatornából egy kis, szűrt mennyiséget kever a másikba, így a fejhallgató valódi hangszórókhoz szól hasonlóbban, csökkentve a szétpanorámázott keverékek „fejben lévő" érzetét. Ez egy fejhallgatós effekt (hangszóróknál hagyd kikapcsolva). A Bauer stereophonic-to-binaural (bs2b) algoritmusra épül, és olyan előbeállításokat tartalmaz, mint a Chu Moy és a Jan Meier.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Mi a hangerő-normalizálás, és miben különbözik a ReplayGaintől?" closed="true" %}}
+{{% ls-details title="Mi a hangerő-normalizálás, és miben különbözik a ReplayGaintől?" closed="true" %}}
 A hangerő-normalizálás minden számot állandó hangosságon tart azáltal, hogy az EBU R128 szabvánnyal méri az észlelt hangosságot, és egy célérték felé igazít. A ReplayGaintől eltérően nincs szüksége hangosságcímkékre a fájljaidban, és nem módosítja a hangot: élőben működik bármilyen forráson, beleértve a felhőalapú streameket és az internetes rádiót. Előbeállítások: Enyhe, Normál, Erős és Éjszakai.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Mi a különbség az Egyszerű és a Speciális mód között?" closed="true" %}}
+{{% ls-details title="Mi a különbség az Egyszerű és a Speciális mód között?" closed="true" %}}
 Az Egyszerű mód egy előbeállítás-listát mutat közérthető leírásokkal, így egyetlen koppintással jó hangzást érhetsz el. A Speciális mód a paraméter-csúszkákkal egészül ki (például Keverés a zengetéshez, vagy a kompresszor hét vezérlője) a precíz finomhangoláshoz. Válts közöttük a mód gombbal minden effektszerkesztő jobb felső részén.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Miért szürkék az effekt vezérlői?" closed="true" %}}
+{{% ls-details title="Miért szürkék az effekt vezérlői?" closed="true" %}}
 Az effekt ki van kapcsolva. Kapcsold be az effekt kapcsolóját a szerkesztőjének jobb felső részén a vezérlők aktiválásához. Minden effekt alapértelmezés szerint ki van kapcsolva.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Működnek az effektek streameléssel és CarPlay-jel?" closed="true" %}}
+{{% ls-details title="Működnek az effektek streameléssel és CarPlay-jel?" closed="true" %}}
 Igen. Az effektek a lejátszómotoron belül futnak, így helyi fájlokra, felhőmeghajtókra, médiaszerverekre és internetes rádióra is alkalmazódnak, és CarPlay-lejátszás közben is működnek.
-{{% /details %}}
+{{% /ls-details %}}

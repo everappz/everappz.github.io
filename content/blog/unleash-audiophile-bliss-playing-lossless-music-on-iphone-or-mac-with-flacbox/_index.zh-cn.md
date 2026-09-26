@@ -12,7 +12,7 @@ authors:
     image: "/images/about/artem-meleshko-founder-everappz.webp"
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 **摘要：** 从 [App Store 安装 Flacbox](https://apps.apple.com/us/app/flacbox-flac-player-music/id1097564256?mt=8) 在 iPhone 和 Mac 上播放 FLAC、DSD、ALAC 和 120+ 种其他音频格式。通过 iTunes 文件共享、Wi-Fi Drive 或云存储导入文件。无需文件转换。Flacbox 原生解码无损格式，实现完整录音棚品质播放。
 
@@ -59,26 +59,26 @@ Apple 内置音乐应用不支持 FLAC。Flacbox 提供原生 FLAC 解码器。
 
 ## 常见问题
 
-{{< details title="Flacbox 需要订阅才能播放无损文件吗？" closed="true" >}}
+{{< ls-details title="Flacbox 需要订阅才能播放无损文件吗？" closed="true" >}}
 Flacbox 提供无需订阅的基本播放功能。您可以在下载后立即导入和播放 FLAC、DSD、ALAC 和其他无损格式。
-{{< /details >}}
+{{< /ls-details >}}
 
-{{< details title="Flacbox 能否在不转换为 PCM 的情况下播放 DSD 文件？" closed="true" >}}
+{{< ls-details title="Flacbox 能否在不转换为 PCM 的情况下播放 DSD 文件？" closed="true" >}}
 能，Flacbox 支持原生 DSD 播放，包括 DSD64、DSD128 和 DSD256。
-{{< /details >}}
+{{< /ls-details >}}
 
-{{< details title="如何将大型无损音乐收藏传输到 iPhone？" closed="true" >}}
+{{< ls-details title="如何将大型无损音乐收藏传输到 iPhone？" closed="true" >}}
 Flacbox 提供多种传输选项：Wi-Fi Drive、iTunes 文件共享、云存储服务或通过 Lightning/USB-C 适配器连接外部驱动器。
-{{< /details >}}
+{{< /ls-details >}}
 
-{{< details title="Flacbox 中 FLAC 和 ALAC 的音质有区别吗？" closed="true" >}}
+{{< ls-details title="Flacbox 中 FLAC 和 ALAC 的音质有区别吗？" closed="true" >}}
 两者都是无损编解码器，产生相同的音频输出。Flacbox 以同等保真度处理两者。
-{{< /details >}}
+{{< /ls-details >}}
 
-{{< details title="在 iPhone 上播放 FLAC 文件的最佳方式是什么？" closed="true" >}}
+{{< ls-details title="在 iPhone 上播放 FLAC 文件的最佳方式是什么？" closed="true" >}}
 从 App Store 安装 Flacbox，然后通过 iTunes 文件共享、Wi-Fi Drive、云存储或外部驱动器导入 FLAC 文件。Flacbox 原生解码 FLAC，支持高达 32-bit/384 kHz。
-{{< /details >}}
+{{< /ls-details >}}
 
-{{< details title="Flacbox 能与 NAS 和家庭服务器配合使用吗？" closed="true" >}}
+{{< ls-details title="Flacbox 能与 NAS 和家庭服务器配合使用吗？" closed="true" >}}
 能。Flacbox 通过 SMB、WebDAV 和 DLNA 协议连接 NAS 设备和家庭服务器。
-{{< /details >}}
+{{< /ls-details >}}

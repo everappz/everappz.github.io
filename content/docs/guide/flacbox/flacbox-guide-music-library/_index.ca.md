@@ -19,7 +19,7 @@ readingTime: 11
 Gestionar la teva biblioteca musical és molt fàcil amb Flacbox, on pots organitzar sense esforç totes les teves pistes — FLAC, ALAC, DSD, MP3, M4A, OGG, WMA, APE locals i desenes d'altres formats — en una sola col·lecció cercable. Tens dues opcions per construir la teva biblioteca musical: addició manual (tries exactament el que s'afegeix) o sincronització automàtica (Flacbox escaneja carpetes al núvol designades i afegeix nous fitxers automàticament quan apareixen).
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Vista d'àlbums de la biblioteca musical de Flacbox" image="/docs/guide/flacbox/img/media-library-albums.webp" >}}
+  {{< ls-card title="" subtitle="Vista d'àlbums de la biblioteca musical de Flacbox" image="/docs/guide/flacbox/img/media-library-albums.webp" >}}
 {{< /cards >}}
 
 ## Addició Manual
@@ -27,7 +27,7 @@ Gestionar la teva biblioteca musical és molt fàcil amb Flacbox, on pots organi
 Per afegir pistes manualment, toca la icona **Afegir música** a la cantonada superior esquerra i tria carpetes o fitxers d'un servei d'emmagatzematge al núvol connectat o fitxers del teu dispositiu. Quan afegeixes pistes a la biblioteca, només es creen enllaços a aquelles pistes — els fitxers reals romanen a les seves ubicacions originals per estalviar espai de disc valuable. Si vols tenir pistes disponibles offline, pots usar l'acció Descarregar del menú d'opcions o activar el Mode offline per a llistes de reproducció i col·leccions de pistes.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox Afegir cançons a la biblioteca musical" image="/docs/guide/flacbox/img/library-add-songs.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox Afegir cançons a la biblioteca musical" image="/docs/guide/flacbox/img/library-add-songs.webp" >}}
 {{< /cards >}}
 
 També pots arrossegar i deixar anar fitxers a la biblioteca a la versió Mac, o usar **Obrir fitxers…** / **Obrir carpeta…** del selector de fitxers del sistema a iPhone i iPad.
@@ -89,7 +89,7 @@ Situada just per sota de la barra de navegació, la barra d'eines superior ofere
 La funció de cerca et permet localitzar una pista, artista, àlbum o gènere específics dins de la teva biblioteca musical. Dins de la pantalla de Cerca, tens accés a les accions Ordenar, Filtre i vista de Quadrícula / Llista. La cerca s'executa localment contra la base de dades de la biblioteca musical, de manera que funciona completament offline i retorna resultats mentre escrius.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Cerca de la biblioteca musical de Flacbox" image="/docs/guide/flacbox/img/media-library-search.webp" >}}
+  {{< ls-card title="" subtitle="Cerca de la biblioteca musical de Flacbox" image="/docs/guide/flacbox/img/media-library-search.webp" >}}
 {{< /cards >}}
 
 ## Menú d'Opcions
@@ -140,7 +140,7 @@ Quan obres les seccions Artista, Artista d'àlbum o Compositor, pots veure un co
 Això és especialment útil per netejar les compilacions 'Artistes diversos' desordenades en biblioteques grans.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Pantalla de detall d'àlbum de Flacbox" image="/docs/guide/flacbox/img/media-library-album-details-screen.webp" >}}
+  {{< ls-card title="" subtitle="Pantalla de detall d'àlbum de Flacbox" image="/docs/guide/flacbox/img/media-library-album-details-screen.webp" >}}
 {{< /cards >}}
 
 ## Configuració

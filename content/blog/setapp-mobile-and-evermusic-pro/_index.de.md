@@ -12,7 +12,7 @@ authors:
     image: "/images/about/artem-meleshko-founder-everappz.webp"
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 ![](/blog/setapp-mobile-and-evermusic-pro/21260c_766c4fbc81e6433cb8fc21b9c2862ce0~mv2.png)
 
@@ -49,27 +49,27 @@ Laden Sie Alben, Künstler oder Playlists für die Offline-Nutzung herunter.
 Verbinden Sie sich mit **NAS, SMB-Freigaben** und **WebDAV-Servern**.
 
 {{< cards cols="1" >}}
-  {{< card link="https://go.setapp.com/stp435?_target=https://www.setapp.com/setapp-mobile&stc=mobile" title="Evermusic Pro mit Setapp Mobile herunterladen" icon="download" >}}
+  {{< ls-card link="https://go.setapp.com/stp435?_target=https://www.setapp.com/setapp-mobile&stc=mobile" title="Evermusic Pro mit Setapp Mobile herunterladen" icon="download" >}}
 {{< /cards >}}
 
 ## Häufig gestellte Fragen
 
-{{% details title="Ist Evermusic Pro kostenlos mit Setapp Mobile?" closed="true" %}}
+{{% ls-details title="Ist Evermusic Pro kostenlos mit Setapp Mobile?" closed="true" %}}
 Ja. Evermusic Pro ist im Setapp Mobile-Abonnement ohne zusätzliche Kosten enthalten.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Welche Cloud-Dienste unterstützt Evermusic Pro?" closed="true" %}}
+{{% ls-details title="Welche Cloud-Dienste unterstützt Evermusic Pro?" closed="true" %}}
 Google Drive, Dropbox, OneDrive, iCloud, Box, MEGA, Yandex.Disk, pCloud, HiDrive und WebDAV-Server. Auch SMB und NAS.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Kann ich offline mit Evermusic Pro hören?" closed="true" %}}
+{{% ls-details title="Kann ich offline mit Evermusic Pro hören?" closed="true" %}}
 Ja. Sie können einzelne Titel, Alben, Künstler oder ganze Playlists für die Offline-Wiedergabe herunterladen.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Welche Audioformate spielt Evermusic Pro?" closed="true" %}}
+{{% ls-details title="Welche Audioformate spielt Evermusic Pro?" closed="true" %}}
 FLAC, MP3, AAC, WAV, ALAC, AIFF, OPUS, OGG und viele weitere Formate.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Brauche ich ein separates Setapp-Abonnement für iPhone?" closed="true" %}}
+{{% ls-details title="Brauche ich ein separates Setapp-Abonnement für iPhone?" closed="true" %}}
 Setapp Mobile ist als Teil des Setapp-Abonnementplans verfügbar, der iOS-Apps enthält.
-{{% /details %}}
+{{% /ls-details %}}

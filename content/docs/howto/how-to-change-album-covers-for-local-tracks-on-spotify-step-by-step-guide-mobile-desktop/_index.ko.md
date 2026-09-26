@@ -7,7 +7,7 @@ tags: ["spotify", "앨범 커버", "mp3", "메타데이터", "음악 편집기",
 readingTime: 3
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **요약:** Spotify는 스트리밍 트랙의 앨범 커버를 변경할 수 없지만, 로컬 파일의 아트워크는 업데이트할 수 있습니다. Spotify의 로컬 파일 기능을 활성화하고, 음악을 Spotify 폴더에 복사한 다음, 무료 Evertag 앱을 사용하여 앨범 커버와 메타데이터를 편집하세요. 변경 사항은 Spotify를 다시 시작한 후 표시됩니다.
@@ -25,8 +25,8 @@ readingTime: 3
 App Store에서 **Evertag** 앱을 다운로드하여 시작하세요. 무료이며 **iOS**와 **macOS** 모두에서 사용할 수 있습니다.
 
 {{< cards cols="2">}}
-{{< card link="https://apps.apple.com/app/apple-store/id1450763230?pt=95781850&ct=everappzcom&mt=8" title="Evertag iOS용" icon="download" tag="Free" >}}
-{{< card link="https://apps.apple.com/app/apple-store/id1594027661?pt=95781850&ct=everappzcom&mt=8" title="Evertag macOS용" icon="download" tag="Free" >}}
+{{< ls-card link="https://apps.apple.com/app/apple-store/id1450763230?pt=95781850&ct=everappzcom&mt=8" title="Evertag iOS용" icon="download" tag="Free" >}}
+{{< ls-card link="https://apps.apple.com/app/apple-store/id1594027661?pt=95781850&ct=everappzcom&mt=8" title="Evertag macOS용" icon="download" tag="Free" >}}
 {{< /cards >}}
 
 ## Spotify에서 로컬 라이브러리 활성화
@@ -36,7 +36,7 @@ App Store에서 **Evertag** 앱을 다운로드하여 시작하세요. 무료이
 ### Spotify 앱 열기
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Spotify 앱 메인 인터페이스" image="/docs/howto/how-to-change-album-covers-for-local-tracks-on-spotify-step-by-step-guide-mobile-desktop/spotify-main.webp" >}}
+{{< ls-card title="" subtitle="Spotify 앱 메인 인터페이스" image="/docs/howto/how-to-change-album-covers-for-local-tracks-on-spotify-step-by-step-guide-mobile-desktop/spotify-main.webp" >}}
 {{< /cards >}}
 
 ### 프로필 아이콘 탭하기
@@ -44,7 +44,7 @@ App Store에서 **Evertag** 앱을 다운로드하여 시작하세요. 무료이
 Spotify 홈 화면의 왼쪽 상단 모서리를 보고 프로필 사진을 탭하여 메뉴를 엽니다.
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Spotify 아바타 및 옵션" image="/docs/howto/how-to-change-album-covers-for-local-tracks-on-spotify-step-by-step-guide-mobile-desktop/spotify-avatar-options.webp" >}}
+{{< ls-card title="" subtitle="Spotify 아바타 및 옵션" image="/docs/howto/how-to-change-album-covers-for-local-tracks-on-spotify-step-by-step-guide-mobile-desktop/spotify-avatar-options.webp" >}}
 {{< /cards >}}
 
 ### 「설정 및 개인정보」 선택
@@ -52,7 +52,7 @@ Spotify 홈 화면의 왼쪽 상단 모서리를 보고 프로필 사진을 탭�
 메뉴를 아래로 스크롤하여 **설정 및 개인정보**를 선택하여 전체 옵션 목록을 엽니다.
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Spotify 설정 메뉴" image="/docs/howto/how-to-change-album-covers-for-local-tracks-on-spotify-step-by-step-guide-mobile-desktop/spotify-settings.webp" >}}
+{{< ls-card title="" subtitle="Spotify 설정 메뉴" image="/docs/howto/how-to-change-album-covers-for-local-tracks-on-spotify-step-by-step-guide-mobile-desktop/spotify-settings.webp" >}}
 {{< /cards >}}
 
 ### 「앱 및 기기」 선택
@@ -60,7 +60,7 @@ Spotify 홈 화면의 왼쪽 상단 모서리를 보고 프로필 사진을 탭�
 **앱 및 기기** 메뉴 항목을 찾아 탭하여 기기 통합 설정을 봅니다.
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Spotify 앱 및 기기" image="/docs/howto/how-to-change-album-covers-for-local-tracks-on-spotify-step-by-step-guide-mobile-desktop/spotify-apps-and-devices.webp" >}}
+{{< ls-card title="" subtitle="Spotify 앱 및 기기" image="/docs/howto/how-to-change-album-covers-for-local-tracks-on-spotify-step-by-step-guide-mobile-desktop/spotify-apps-and-devices.webp" >}}
 {{< /cards >}}
 
 ### 「로컬 오디오 파일」 켜기
@@ -68,7 +68,7 @@ Spotify 홈 화면의 왼쪽 상단 모서리를 보고 프로필 사진을 탭�
 **로컬 오디오 파일** 스위치를 켭니다. 메시지가 표시되면 Spotify에 음악 파일에 대한 접근 권한을 부여합니다.
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Spotify에 음악 파일 접근 권한 부여" image="/docs/howto/how-to-change-album-covers-for-local-tracks-on-spotify-step-by-step-guide-mobile-desktop/spotify-access-to-music.webp" >}}
+{{< ls-card title="" subtitle="Spotify에 음악 파일 접근 권한 부여" image="/docs/howto/how-to-change-album-covers-for-local-tracks-on-spotify-step-by-step-guide-mobile-desktop/spotify-access-to-music.webp" >}}
 {{< /cards >}}
 
 ### Spotify 폴더 확인
@@ -76,7 +76,7 @@ Spotify 홈 화면의 왼쪽 상단 모서리를 보고 프로필 사진을 탭�
 권한이 부여되면 **파일** 앱을 열고 **위치 > 나의 iPhone/iPad**로 이동하여 **Spotify** 폴더를 찾습니다. 여기에 로컬 음악 파일을 넣어야 합니다.
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Spotify 음악 파일" image="/docs/howto/how-to-change-album-covers-for-local-tracks-on-spotify-step-by-step-guide-mobile-desktop/files-app-spotify-folder.webp" >}}
+{{< ls-card title="" subtitle="Spotify 음악 파일" image="/docs/howto/how-to-change-album-covers-for-local-tracks-on-spotify-step-by-step-guide-mobile-desktop/files-app-spotify-folder.webp" >}}
 {{< /cards >}}
 
 ## Spotify의 로컬 라이브러리 폴더에 음악 파일 넣기
@@ -90,7 +90,7 @@ Spotify의 로컬 라이브러리를 활성화했으므로 두 가지 방법으�
 ### 파일 앱 열기 – 위치 – 이 기기에서
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Spotify 폴더" image="/docs/howto/how-to-change-album-covers-for-local-tracks-on-spotify-step-by-step-guide-mobile-desktop/files-app-spotify-folder.webp" >}}
+{{< ls-card title="" subtitle="Spotify 폴더" image="/docs/howto/how-to-change-album-covers-for-local-tracks-on-spotify-step-by-step-guide-mobile-desktop/files-app-spotify-folder.webp" >}}
 {{< /cards >}}
 
 ### 음악 폴더 복사
@@ -98,7 +98,7 @@ Spotify의 로컬 라이브러리를 활성화했으므로 두 가지 방법으�
 **음악** 폴더로 이동합니다. 길게 탭하여 컨텍스트 메뉴를 열고 **복사**를 선택합니다.
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="파일 앱에서 폴더 옵션 접근" image="/docs/howto/how-to-change-album-covers-for-local-tracks-on-spotify-step-by-step-guide-mobile-desktop/files-app-folder-options.webp" >}}
+{{< ls-card title="" subtitle="파일 앱에서 폴더 옵션 접근" image="/docs/howto/how-to-change-album-covers-for-local-tracks-on-spotify-step-by-step-guide-mobile-desktop/files-app-folder-options.webp" >}}
 {{< /cards >}}
 
 ### 음악 폴더 붙여넣기
@@ -106,7 +106,7 @@ Spotify의 로컬 라이브러리를 활성화했으므로 두 가지 방법으�
 **Spotify** 폴더로 이동하고, 빈 영역을 길게 탭한 후 컨텍스트 메뉴에서 **붙여넣기**를 선택합니다.
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="대상 위치에 폴더 붙여넣기" image="/docs/howto/how-to-change-album-covers-for-local-tracks-on-spotify-step-by-step-guide-mobile-desktop/files-app-paste-folder.webp" >}}
+{{< ls-card title="" subtitle="대상 위치에 폴더 붙여넣기" image="/docs/howto/how-to-change-album-covers-for-local-tracks-on-spotify-step-by-step-guide-mobile-desktop/files-app-paste-folder.webp" >}}
 {{< /cards >}}
 
 ### 복사 프로세스 대기
@@ -114,7 +114,7 @@ Spotify의 로컬 라이브러리를 활성화했으므로 두 가지 방법으�
 시스템이 음악 폴더를 Spotify 로컬 디렉토리에 복사할 때까지 기다립니다.
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="파일 앱으로 음악 파일 복사 중" image="/docs/howto/how-to-change-album-covers-for-local-tracks-on-spotify-step-by-step-guide-mobile-desktop/files-app-copying-music.webp" >}}
+{{< ls-card title="" subtitle="파일 앱으로 음악 파일 복사 중" image="/docs/howto/how-to-change-album-covers-for-local-tracks-on-spotify-step-by-step-guide-mobile-desktop/files-app-copying-music.webp" >}}
 {{< /cards >}}
 
 ### Spotify 로컬 라이브러리 열기
@@ -122,7 +122,7 @@ Spotify의 로컬 라이브러리를 활성화했으므로 두 가지 방법으�
 이제 Spotify 앱으로 돌아갑니다. **라이브러리 > 로컬 파일**을 탭하면 방금 복사한 음악 파일이 표시됩니다.
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Spotify가 로컬 음악 라이브러리를 표시" image="/docs/howto/how-to-change-album-covers-for-local-tracks-on-spotify-step-by-step-guide-mobile-desktop/spotify-local-music-library.webp" >}}
+{{< ls-card title="" subtitle="Spotify가 로컬 음악 라이브러리를 표시" image="/docs/howto/how-to-change-album-covers-for-local-tracks-on-spotify-step-by-step-guide-mobile-desktop/spotify-local-music-library.webp" >}}
 {{< /cards >}}
 
 ## Evertag 앱에서 Spotify 폴더 연결
@@ -149,26 +149,26 @@ Evertag로 다음의 오디오 메타데이터를 관리할 수 있습니다:
 - 사이드바에서 **이 기기의 파일**로 스크롤
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Evertag에서 모든 기기 폴더 보기" image="/docs/howto/how-to-change-album-covers-for-local-tracks-on-spotify-step-by-step-guide-mobile-desktop/evertag-all-device-folders.webp" >}}
+{{< ls-card title="" subtitle="Evertag에서 모든 기기 폴더 보기" image="/docs/howto/how-to-change-album-covers-for-local-tracks-on-spotify-step-by-step-guide-mobile-desktop/evertag-all-device-folders.webp" >}}
 {{< /cards >}}
 
 - **모든 기기 폴더**를 탭
 - **폴더 연결**을 탭
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="파일 선택기로 폴더 연결" image="/docs/howto/how-to-change-album-covers-for-local-tracks-on-spotify-step-by-step-guide-mobile-desktop/evertag-connect-folder-files-picker.webp" >}}
+{{< ls-card title="" subtitle="파일 선택기로 폴더 연결" image="/docs/howto/how-to-change-album-covers-for-local-tracks-on-spotify-step-by-step-guide-mobile-desktop/evertag-connect-folder-files-picker.webp" >}}
 {{< /cards >}}
 
 - **Spotify** 폴더를 선택하고 **열기**를 탭하여 확인
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Spotify 로컬 파일과 폴더 연결" image="/docs/howto/how-to-change-album-covers-for-local-tracks-on-spotify-step-by-step-guide-mobile-desktop/evertag-connect-folder-spotify-local.webp" >}}
+{{< ls-card title="" subtitle="Spotify 로컬 파일과 폴더 연결" image="/docs/howto/how-to-change-album-covers-for-local-tracks-on-spotify-step-by-step-guide-mobile-desktop/evertag-connect-folder-spotify-local.webp" >}}
 {{< /cards >}}
 
 - 연결된 폴더를 탭하여 내용을 보고 편집
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Evertag에서 폴더가 성공적으로 연결됨" image="/docs/howto/how-to-change-album-covers-for-local-tracks-on-spotify-step-by-step-guide-mobile-desktop/evertag-connected-folder.webp" >}}
+{{< ls-card title="" subtitle="Evertag에서 폴더가 성공적으로 연결됨" image="/docs/howto/how-to-change-album-covers-for-local-tracks-on-spotify-step-by-step-guide-mobile-desktop/evertag-connected-folder.webp" >}}
 {{< /cards >}}
 
 ## 태그 편집기
@@ -176,7 +176,7 @@ Evertag로 다음의 오디오 메타데이터를 관리할 수 있습니다:
 **태그 편집기**는 오디오 파일의 메타데이터를 보고 수정하는 주요 작업 공간입니다.
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="연결된 폴더 내용 찾아보기" image="/docs/howto/how-to-change-album-covers-for-local-tracks-on-spotify-step-by-step-guide-mobile-desktop/evertag-connected-folder-content.webp" >}}
+{{< ls-card title="" subtitle="연결된 폴더 내용 찾아보기" image="/docs/howto/how-to-change-album-covers-for-local-tracks-on-spotify-step-by-step-guide-mobile-desktop/evertag-connected-folder-content.webp" >}}
 {{< /cards >}}
 
 ## 편집 모드
@@ -221,25 +221,25 @@ Evertag는 두 가지 편집 모드를 지원합니다:
 1. 아트워크 캐러셀의 **카메라 아이콘**을 탭
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="맞춤 앨범 커버 사진 선택" image="/docs/howto/how-to-change-album-covers-for-local-tracks-on-spotify-step-by-step-guide-mobile-desktop/evertag-choose-photo.webp" >}}
+{{< ls-card title="" subtitle="맞춤 앨범 커버 사진 선택" image="/docs/howto/how-to-change-album-covers-for-local-tracks-on-spotify-step-by-step-guide-mobile-desktop/evertag-choose-photo.webp" >}}
 {{< /cards >}}
 
 2. 이미지 소스 선택 (사진 라이브러리, 로컬 파일, 클라우드)
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="사진 라이브러리에서 아트워크 선택" image="/docs/howto/how-to-change-album-covers-for-local-tracks-on-spotify-step-by-step-guide-mobile-desktop/evertag-photo-library.webp" >}}
+{{< ls-card title="" subtitle="사진 라이브러리에서 아트워크 선택" image="/docs/howto/how-to-change-album-covers-for-local-tracks-on-spotify-step-by-step-guide-mobile-desktop/evertag-photo-library.webp" >}}
 {{< /cards >}}
 
 3. 커버로 사용할 이미지 선택
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="편집된 앨범 커버 미리보기" image="/docs/howto/how-to-change-album-covers-for-local-tracks-on-spotify-step-by-step-guide-mobile-desktop/evertag-edited-album-cover.webp" >}}
+{{< ls-card title="" subtitle="편집된 앨범 커버 미리보기" image="/docs/howto/how-to-change-album-covers-for-local-tracks-on-spotify-step-by-step-guide-mobile-desktop/evertag-edited-album-cover.webp" >}}
 {{< /cards >}}
 
 4. **저장**을 탭하여 변경 사항 적용
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="업데이트된 오디오 태그 저장" image="/docs/howto/how-to-change-album-covers-for-local-tracks-on-spotify-step-by-step-guide-mobile-desktop/evertag-save-tags.webp" >}}
+{{< ls-card title="" subtitle="업데이트된 오디오 태그 저장" image="/docs/howto/how-to-change-album-covers-for-local-tracks-on-spotify-step-by-step-guide-mobile-desktop/evertag-save-tags.webp" >}}
 {{< /cards >}}
 
 ## Spotify 라이브러리 업데이트
@@ -247,7 +247,7 @@ Evertag는 두 가지 편집 모드를 지원합니다:
 태그를 저장한 후 Spotify 앱으로 돌아갑니다.
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Spotify 음악 라이브러리 찾아보기" image="/docs/howto/how-to-change-album-covers-for-local-tracks-on-spotify-step-by-step-guide-mobile-desktop/spotify-library.webp" >}}
+{{< ls-card title="" subtitle="Spotify 음악 라이브러리 찾아보기" image="/docs/howto/how-to-change-album-covers-for-local-tracks-on-spotify-step-by-step-guide-mobile-desktop/spotify-library.webp" >}}
 {{< /cards >}}
 
 **로컬 파일** 섹션을 다시 엽니다. 이제 로컬 트랙에 대한 업데이트된 아트워크와 태그가 표시됩니다.
@@ -255,7 +255,7 @@ Evertag는 두 가지 편집 모드를 지원합니다:
 > 업데이트가 즉시 표시되지 않으면 **Spotify를 강제 종료**하고 다시 엽니다. 이렇게 하면 메타데이터 새로고침이 트리거됩니다.
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="편집된 태그로 재생 중인 트랙" image="/docs/howto/how-to-change-album-covers-for-local-tracks-on-spotify-step-by-step-guide-mobile-desktop/spotify-playing-edited-tag.webp" >}}
+{{< ls-card title="" subtitle="편집된 태그로 재생 중인 트랙" image="/docs/howto/how-to-change-album-covers-for-local-tracks-on-spotify-step-by-step-guide-mobile-desktop/spotify-playing-edited-tag.webp" >}}
 {{< /cards >}}
 
 ## 결론
@@ -268,26 +268,26 @@ FLAC, MP3 또는 기타 고품질 형식의 태그 지정에 도움이 필요하
 
 ## FAQ
 
-{{% details title="Spotify 스트리밍 트랙의 앨범 커버를 변경할 수 있나요?" closed="true" %}}
+{{% ls-details title="Spotify 스트리밍 트랙의 앨범 커버를 변경할 수 있나요?" closed="true" %}}
 아니요. Spotify는 스트리밍 카탈로그의 트랙에 대한 아트워크 변경을 허용하지 않습니다. Spotify 라이브러리에 추가된 로컬 파일의 앨범 커버만 편집할 수 있습니다.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Evertag는 무료인가요?" closed="true" %}}
+{{% ls-details title="Evertag는 무료인가요?" closed="true" %}}
 네. Evertag는 iOS와 macOS 모두에서 무료로 다운로드하고 사용할 수 있습니다. 120개 이상의 오디오 태그와 30개 이상의 파일 형식을 지원합니다.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Evertag는 어떤 오디오 형식을 지원하나요?" closed="true" %}}
+{{% ls-details title="Evertag는 어떤 오디오 형식을 지원하나요?" closed="true" %}}
 Evertag는 MP3, FLAC, AAC, ALAC, WAV, AIFF, OGG, WMA 등 30개 이상의 형식을 지원합니다.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Spotify에서 업데이트된 앨범 커버가 표시되지 않는 이유는 무엇인가요?" closed="true" %}}
+{{% ls-details title="Spotify에서 업데이트된 앨범 커버가 표시되지 않는 이유는 무엇인가요?" closed="true" %}}
 Spotify 앱을 강제 종료하고 다시 엽니다. Spotify는 메타데이터를 캐시하며 로컬 파일의 변경 사항을 감지하려면 다시 시작해야 합니다.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="여러 파일의 태그를 한 번에 편집할 수 있나요?" closed="true" %}}
+{{% ls-details title="여러 파일의 태그를 한 번에 편집할 수 있나요?" closed="true" %}}
 네. Evertag는 일괄 편집을 지원합니다. 여러 파일을 선택하고 「여러 파일 동시 편집」을 탭하여 선택한 모든 트랙의 태그와 아트워크를 한 번에 업데이트하세요.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Spotify 폴더에 파일을 복사해야 하나요?" closed="true" %}}
+{{% ls-details title="Spotify 폴더에 파일을 복사해야 하나요?" closed="true" %}}
 네. Spotify는 전용 폴더에서만 로컬 파일을 읽습니다. 기기의 Spotify 폴더에 음악 파일을 복사하거나 이동한 다음 Spotify 설정에서 로컬 오디오 파일 토글을 활성화하세요.
-{{% /details %}}
+{{% /ls-details %}}

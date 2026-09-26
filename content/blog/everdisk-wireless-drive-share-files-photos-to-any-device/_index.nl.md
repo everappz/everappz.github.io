@@ -12,7 +12,7 @@ authors:
     image: "/images/about/artem-meleshko-founder-everappz.webp"
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 **Samengevat:** [Everdisk](/products/everdisk) is onze nieuwe app die **je iPhone of iPad verandert in een draadloze schijf**, en een hub die ook verbinding maakt met je andere apparaten. Tik op **Start** en Everdisk draait **vier servers tegelijk**: **DLNA** voor smart-tv's en mediaspelers, **HTTP** voor elke webbrowser, **WebDAV** voor Finder, Windows en Linux, en **FTP** voor bestands-apps. Elk apparaat maakt verbinding op de manier die het prettig vindt. Deel je bestanden, foto's, video's en muziek met alles op je netwerk, stream naar een tv zonder kabels, koppel je apparaat als netwerkschijf, of verplaats bestanden via een **USB-kabel** als er geen wifi is. Everdisk maakt ook verbinding met **DLNA-, WebDAV-, FTP- en SFTP-servers**, heeft een ingebouwde **bestandsbeheerder** met in- en uitpakken, en kan **documenten scannen naar PDF**, **PDF's van markeringen voorzien en ondertekenen**, en een volledige **PDF-toolkit** draaien. Geen accounts, geen cloud en geen extra app om op het andere apparaat te installeren. Alles blijft op je lokale netwerk. Gratis te downloaden, met een optionele eenmalige Premium Lifetime-aankoop.
 
@@ -133,46 +133,46 @@ Als je de app leuk vindt, laat dan een beoordeling achter in de App Store. Dat h
 
 ## Veelgestelde vragen
 
-{{% details title="Wat is Everdisk?" closed="true" %}}
+{{% ls-details title="Wat is Everdisk?" closed="true" %}}
 Everdisk is een nieuwe app die je iPhone of iPad verandert in een draadloze schijf en een hub die ook verbinding maakt met je andere apparaten. Je kunt je bestanden, foto's, video's en muziek delen met alles op je netwerk, bladeren en streamen vanaf andere servers, en alles direct op je apparaat beheren. Geen accounts, geen cloud en geen extra app om op het andere apparaat te installeren. Je tikt gewoon op Start en je bent klaar. De app draait vier servers tegelijk: DLNA voor smart-tv's en mediaspelers, HTTP voor elke webbrowser, WebDAV voor Finder, Windows en Linux, en FTP voor bestands-apps en gevorderde gebruikers.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Hoeveel kost Everdisk?" closed="true" %}}
+{{% ls-details title="Hoeveel kost Everdisk?" closed="true" %}}
 Everdisk is een gratis download. Je kunt je apparaat veranderen in een draadloze schijf, je bestanden op vier manieren delen, streamen naar een tv, een netwerkschijf koppelen, overdragen via USB, verbinden met andere servers, de bestandsbeheerder gebruiken, documenten scannen en de PDF-tools gebruiken, kosteloos. Er is een optionele eenmalige Premium Lifetime-aankoop, een enkele betaling zonder abonnement, die onbeperkt gedeelde mappen en opgeslagen verbindingen, foto- en videoconversie, aangepaste poorten, automatisch delen bij het starten, en apparaataanpassing ontgrendelt. Prijzen kunnen per regio verschillen.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Moet ik iets op het andere apparaat installeren?" closed="true" %}}
+{{% ls-details title="Moet ik iets op het andere apparaat installeren?" closed="true" %}}
 Nee. Dat is nou juist het idee. Het andere apparaat maakt verbinding met tools die het al heeft. Een smart-tv vindt je bibliotheek zelf via DLNA, elke computer of telefoon opent een link in een webbrowser, en Mac Finder, Windows en Linux koppelen je apparaat als netwerkschijf via WebDAV. Niets om aan de andere kant te installeren.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Hoe stream ik foto's en video's naar mijn tv?" closed="true" %}}
+{{% ls-details title="Hoe stream ik foto's en video's naar mijn tv?" closed="true" %}}
 Zet je tv of mediaspeler en je apparaat op hetzelfde wifinetwerk, en tik dan op Start in Everdisk met je foto's, video's of muziek gedeeld. Je apparaat verschijnt vanzelf in de lijst met mediaservers van de tv, met voorbeeldminiaturen. Open het op de tv en geniet van je bibliotheek op het grote scherm. Geen kabels en geen extra apps.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Hoe verbind ik Everdisk vanaf mijn Mac of pc?" closed="true" %}}
+{{% ls-details title="Hoe verbind ik Everdisk vanaf mijn Mac of pc?" closed="true" %}}
 Everdisk laat je apparaat verschijnen als een gewone netwerkschijf via WebDAV. Open op een Mac Finder en kies Ga, dan Verbind met server, en voer het WebDAV-adres in dat in de app wordt getoond. Koppel op Windows een netwerkschijf met hetzelfde adres. Verbind op Linux met het WebDAV-adres vanuit je bestandsbeheerder. Zodra je verbonden bent, kun je beide kanten op slepen. Wil je liever geen schijf koppelen, open dan gewoon de HTTP-link in een webbrowser.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Kan ik bestanden overzetten zonder wifi?" closed="true" %}}
+{{% ls-details title="Kan ik bestanden overzetten zonder wifi?" closed="true" %}}
 Ja. Sluit je apparaat aan op een Mac met dezelfde USB-kabel die je gebruikt om op te laden, en bestanden gaan rechtstreeks door de kabel, sneller dan wifi. Omdat het geen draadloos netwerk nodig heeft, blijft dit werken in een vliegtuig, in een hotel of op elk vergrendeld of openbaar netwerk waar wifi-delen is geblokkeerd.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Kan ik bestanden van de ene iPhone naar de andere sturen?" closed="true" %}}
+{{% ls-details title="Kan ik bestanden van de ene iPhone naar de andere sturen?" closed="true" %}}
 Ja. Start delen op het ene apparaat en open de link in een webbrowser op het andere, of maak verbinding via WebDAV of FTP. Je kunt beide kanten op bladeren, streamen en downloaden, en zelfs foto's, documenten en hele mappen terug uploaden naar het delende apparaat.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Waarmee kan Everdisk verbinding maken?" closed="true" %}}
+{{% ls-details title="Waarmee kan Everdisk verbinding maken?" closed="true" %}}
 Everdisk is ook een client voor andere apparaten op je netwerk. Je kunt DLNA-, WebDAV-, FTP- en SFTP-servers vinden en ermee verbinden, waaronder NAS-apparaten en mediaservers. Zodra je verbonden bent, kun je door hun mappen bladeren, audio en video streamen, bestanden downloaden, en mappen aanmaken, uploaden, hernoemen, verplaatsen of verwijderen wanneer de server dat toestaat.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Kan ik documenten scannen en PDF's bewerken in Everdisk?" closed="true" %}}
+{{% ls-details title="Kan ik documenten scannen en PDF's bewerken in Everdisk?" closed="true" %}}
 Ja. Everdisk kan papieren documenten scannen met je camera. Het vindt de randen zelf, trekt elke pagina recht, en slaat ze op als een nette PDF met meerdere pagina's. Je kunt ook een PDF of foto openen en van markeringen voorzien (tekenen, markeren, tekst en vormen toevoegen, en ondertekenen met je vinger), waarbij de wijzigingen weer in het bestand worden opgeslagen. Een volledige PDF-toolkit voegt compressie toe, tekstherkenning (OCR) naar een doorzoekbare PDF, wachtwoordbeveiliging, rechtencontrole, metadatabewerking, en afvlakken.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Is Everdisk privé en veilig?" closed="true" %}}
+{{% ls-details title="Is Everdisk privé en veilig?" closed="true" %}}
 Ja. Alles blijft op je lokale netwerk en raakt nooit het internet, dus je bestanden verlaten nooit je huis. Geen accounts en geen cloud ertussen. Je kunt de toegang beschermen met een login en wachtwoord zodat verbonden apparaten dezelfde gegevens moeten invoeren voordat ze je bestanden kunnen zien, en je kunt elk apparaat met één tik blokkeren. Voor de beste privacy zet je delen alleen aan terwijl je verbonden bent met een wifinetwerk dat je kent en vertrouwt.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Op welke apparaten draait Everdisk?" closed="true" %}}
+{{% ls-details title="Op welke apparaten draait Everdisk?" closed="true" %}}
 Everdisk draait op iPhone en iPad. Het deelt met, en verbindt met, smart-tv's, mediaspelers, Mac-, Windows- en Linux-computers, webbrowsers, andere telefoons en tablets, NAS-schijven, en elke DLNA-, WebDAV-, FTP- of SFTP-server op je netwerk.
-{{% /details %}}
+{{% /ls-details %}}

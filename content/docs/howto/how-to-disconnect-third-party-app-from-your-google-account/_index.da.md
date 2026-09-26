@@ -7,7 +7,7 @@ tags: ["google", "sikkerhed", "privatliv", "apps", "konto", "adgang"]
 readingTime: 2
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **Kort sagt:** Gå til [myaccount.google.com](https://myaccount.google.com/) > Sikkerhed > Tredjepartsapps og -tjenester. Klik på den app, du vil fjerne, og vælg derefter "Fjern adgang" eller "Slet alle forbindelser." Gentag for hver app.
@@ -75,18 +75,18 @@ Husk, at selvom tredjepartsapps kan forbedre din digitale oplevelse, er det afg�
 
 ## FAQ
 
-{{% details title="Vil afbrydelse af en app slette mine data fra den app?" closed="true" %}}
+{{% ls-details title="Vil afbrydelse af en app slette mine data fra den app?" closed="true" %}}
 Nej. Fjernelse af adgang stopper kun appen fra at tilgå din Google-konto fremover. Data, der allerede er delt med appen, kan stadig eksistere på deres servere. Tjek appens egne privatlivsindstillinger for at slette disse data.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Kan jeg genforbinde en app efter at have afbrudt den?" closed="true" %}}
+{{% ls-details title="Kan jeg genforbinde en app efter at have afbrudt den?" closed="true" %}}
 Ja. Hvis du har brug for appen igen, skal du blot logge ind med Google, når du bliver bedt om det. Appen vil anmode om tilladelser igen, og du kan gennemgå dem, før du giver adgang.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Hvor ofte bør jeg gennemgå tredjepartsapps adgang?" closed="true" %}}
+{{% ls-details title="Hvor ofte bør jeg gennemgå tredjepartsapps adgang?" closed="true" %}}
 Gennemgå dine forbundne apps hver 3.-6. måned, eller umiddelbart efter du holder op med at bruge en tjeneste. Regelmæssige gennemgange hjælper med at holde din konto sikker.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Påvirker dette apps som Evermusic, der forbinder til Google Drive?" closed="true" %}}
+{{% ls-details title="Påvirker dette apps som Evermusic, der forbinder til Google Drive?" closed="true" %}}
 Ja. Hvis du afbryder en app som Evermusic eller Flacbox fra din Google-konto, mister den adgang til dine Google Drive-filer. Du kan genforbinde når som helst inde fra appen.
-{{% /details %}}
+{{% /ls-details %}}

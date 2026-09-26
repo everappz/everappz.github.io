@@ -15,7 +15,7 @@ readingTime: 11
 Gestionar la teva biblioteca de música és fàcil amb Evermusic, on pots organitzar sense esforç totes les teves cançons. Tens dues opcions per construir la teva biblioteca de música: addició manual o sincronització automàtica.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Pantalla de la Biblioteca de música d'Evermusic" image="/docs/guide/evermusic/evermusic-guide-music-library/img/music-library-main.webp" >}}
+  {{< ls-card title="" subtitle="Pantalla de la Biblioteca de música d'Evermusic" image="/docs/guide/evermusic/evermusic-guide-music-library/img/music-library-main.webp" >}}
 {{< /cards >}}
 
 ## Addició manual
@@ -23,7 +23,7 @@ Gestionar la teva biblioteca de música és fàcil amb Evermusic, on pots organi
 Per afegir cançons manualment, toca l'element de menú "Afegir música" i selecciona carpetes/fitxers del servei d'emmagatzematge al núvol connectat o fitxers ubicats al teu dispositiu. Quan afegeixes cançons a la biblioteca, només es creen enllaços a aquelles cançons, preservant els fitxers reals a les seves ubicacions originals per estalviar un valuós espai de disc. Si vols fer que les cançons estiguin disponibles sense connexió, pots usar l'acció de descàrrega del menú d'opcions o activar el mode sense connexió per a llistes de reproducció i col·leccions de cançons.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Afegir cançons a la Biblioteca de música" image="/docs/guide/evermusic/evermusic-guide-music-library/img/music-library-add-songs.webp" >}}
+  {{< ls-card title="" subtitle="Afegir cançons a la Biblioteca de música" image="/docs/guide/evermusic/evermusic-guide-music-library/img/music-library-add-songs.webp" >}}
 {{< /cards >}}
 
 ## Accés ràpid
@@ -75,7 +75,7 @@ Quan afegeixes cançons a la teva biblioteca de música, l'app llegeix automàti
 Ubicada just sota la barra de navegació, la barra d'eines superior ofereix diverses accions convenients: "Cerca", "Reproduir tot", "Reproduir aleatòriament" i "Continuar reproducció". Pots revelar o ocultar aquesta barra d'eines amb un simple gest de lliscar cap avall.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Vista d'àlbums — Agrupada per etiquetes de música" image="/docs/guide/evermusic/evermusic-guide-music-library/img/music-library-albums.webp" >}}
+  {{< ls-card title="" subtitle="Vista d'àlbums — Agrupada per etiquetes de música" image="/docs/guide/evermusic/evermusic-guide-music-library/img/music-library-albums.webp" >}}
 {{< /cards >}}
 
 ## Cerca
@@ -83,7 +83,7 @@ Ubicada just sota la barra de navegació, la barra d'eines superior ofereix dive
 La funció de cerca et permet localitzar una cançó, artista, àlbum o gènere específics dins de la teva biblioteca de música. Dins de la "pantalla de cerca", tens accés a les accions següents: "Ordenar", "Filtrar", "Graella/Llista".
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Resultats de cerca de la Biblioteca de música" image="/docs/guide/evermusic/evermusic-guide-music-library/img/music-library-search.webp" >}}
+  {{< ls-card title="" subtitle="Resultats de cerca de la Biblioteca de música" image="/docs/guide/evermusic/evermusic-guide-music-library/img/music-library-search.webp" >}}
 {{< /cards >}}
 
 ## Menú d'opcions
@@ -91,7 +91,7 @@ La funció de cerca et permet localitzar una cançó, artista, àlbum o gènere 
 Cada cançó de la teva biblioteca de música disposa d'un menú amb més accions, accessible tocant el botó de tres punts al costat del títol de la cançó. Aquestes accions varien depenent de si és una sola cançó o part d'una col·lecció.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Més accions per a un element de la biblioteca" image="/docs/guide/evermusic/evermusic-guide-music-library/img/music-library-item-more-actions.webp" >}}
+  {{< ls-card title="" subtitle="Més accions per a un element de la biblioteca" image="/docs/guide/evermusic/evermusic-guide-music-library/img/music-library-item-more-actions.webp" >}}
 {{< /cards >}}
 
 ### Per a cançons individuals
@@ -126,7 +126,7 @@ Per a col·leccions de cançons com Àlbums, Artistes, Gèneres o Compositors, e
 Pots activar el mode de selecció usant el botó de Més accions a la cantonada superior dreta. En aquest mode, pots seleccionar múltiples cançons i realitzar diverses accions.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Mode de selecció a la Biblioteca de música" image="/docs/guide/evermusic/evermusic-guide-music-library/img/music-library-selection-mode.webp" >}}
+  {{< ls-card title="" subtitle="Mode de selecció a la Biblioteca de música" image="/docs/guide/evermusic/evermusic-guide-music-library/img/music-library-selection-mode.webp" >}}
 {{< /cards >}}
 
 ## Agrupació per etiquetes
@@ -146,7 +146,7 @@ Aquestes categories t'ajuden a organitzar les teves cançons per etiquetes de m�
 Quan obres les seccions d'Artista, Artista d'àlbum o Compositor, pots veure un commutador per a Cançons/Tots els àlbums/Àlbums exclusius/Àlbums en solitari.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Detall d'àlbum amb el commutador Cançons / Tots / Exclusius / En solitari" image="/docs/guide/evermusic/evermusic-guide-music-library/img/music-library-album-details.webp" >}}
+  {{< ls-card title="" subtitle="Detall d'àlbum amb el commutador Cançons / Tots / Exclusius / En solitari" image="/docs/guide/evermusic/evermusic-guide-music-library/img/music-library-album-details.webp" >}}
 {{< /cards >}}
 
 - **Cançons**: Mostra totes les cançons on aquest Artista/Artista d'àlbum/Compositor apareix a les etiquetes d'àudio.
@@ -167,7 +167,7 @@ Pots usar aquesta funció per trobar ràpidament qualsevol cançó, artista, àl
 Toca l'element de menú "Configuració" per configurar les teves preferències de la biblioteca de música.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Configuració de la Biblioteca de música" image="/docs/guide/evermusic/evermusic-guide-music-library/img/music-library-settings.webp" >}}
+  {{< ls-card title="" subtitle="Configuració de la Biblioteca de música" image="/docs/guide/evermusic/evermusic-guide-music-library/img/music-library-settings.webp" >}}
 {{< /cards >}}
 
 #### Lectura de metadades

@@ -16,7 +16,7 @@ readingTime: 3
 Evertag sezgisel bir kullanıcı arayüzü sunar. Onu pek çok popüler uygulamadan ayıran şey, kullanıcılara ses dosyalarını düzenleme ve bulut depolamadan dosya aktarma gücü veren yerleşik dosya yöneticisidir.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evertag Ekranı" image="/docs/guide/evertag/img/tag-editor.webp" >}}
+  {{< ls-card title="" subtitle="Evertag Ekranı" image="/docs/guide/evertag/img/tag-editor.webp" >}}
 {{< /cards >}}
 
 ## Bölümler
@@ -42,7 +42,7 @@ Yerel Dosyalar bölümü iki kategoriye ayrılmıştır: Uygulamanın Belgeler d
 Ekrandaki hemen hemen her içerik öğesi bir "Daha Fazla Eylem" düğmesine sahiptir. Mevcut tüm eylemlere erişmek için dokunun.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evertag Daha Fazla Eylem" image="/docs/guide/evertag/img/downloads-file-actions.webp" >}}
+  {{< ls-card title="" subtitle="Evertag Daha Fazla Eylem" image="/docs/guide/evertag/img/downloads-file-actions.webp" >}}
 {{< /cards >}}
 
 ## Üst Araç Çubuğu

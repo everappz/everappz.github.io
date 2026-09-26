@@ -7,14 +7,14 @@ keywords: ["muziek overzetten zonder iTunes", "wifi drive iphone", "draadloos mu
 readingTime: 2
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **Samenvatting:** Gebruik Wi-Fi Drive in Evermusic, Flacbox of Evertag om muziek van uw computer naar uw iPhone of iPad over te zetten. Geen iTunes nodig. Beide apparaten moeten op hetzelfde Wi-Fi-netwerk zijn aangesloten. Zet bestanden over via een webbrowser of WebDAV (Mac Finder / Windows Verkenner).
 
 U kunt een videotutorial van [**TECHGUYPH**](https://www.youtube.com/channel/UCgpf09gGFE_c_3pPTtTpnzg) bekijken of de tekstversie hieronder lezen.
 <br><br>
-{{< youtubecard id="CqdqrQ0ge70" title="Can We Wirelessly Put Offline Music on iPhones?" >}}
+{{< ls-youtubecard id="CqdqrQ0ge70" title="Can We Wirelessly Put Offline Music on iPhones?" >}}
 
 Wi-Fi Drive is de ultieme oplossing om uw muziekcollectie naadloos van uw computer naar uw iPhone of iPad over te zetten zonder iTunes nodig te hebben. Met deze probleemloze methode kunt u moeiteloos meerdere audiobestanden en zelfs complete mappen downloaden of uploaden via uw lokale Wi-Fi-verbinding. Zowel uw computer als iOS-apparaat moeten verbonden zijn met hetzelfde Wi-Fi-netwerk om dit vlekkeloos te laten werken.
 
@@ -84,22 +84,22 @@ Met Wi-Fi Drive zijn de dagen van worstelen met iTunes voorbij. Geniet van een n
 
 ## Veelgestelde vragen
 
-{{% details title="Welke audioformaten kan ik overzetten met Wi-Fi Drive?" closed="true" %}}
+{{% ls-details title="Welke audioformaten kan ik overzetten met Wi-Fi Drive?" closed="true" %}}
 Wi-Fi Drive zet elk bestandstype over. Evermusic en Flacbox ondersteunen MP3, FLAC, AAC, WAV, AIFF, OGG, WMA en vele andere audioformaten voor afspelen.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Heb ik iTunes nodig om muziek op mijn iPhone te zetten?" closed="true" %}}
+{{% ls-details title="Heb ik iTunes nodig om muziek op mijn iPhone te zetten?" closed="true" %}}
 Nee. Wi-Fi Drive zet muziek rechtstreeks over via uw lokale Wi-Fi-netwerk. iTunes is niet nodig.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Kan ik hele muziekmappen tegelijk overzetten?" closed="true" %}}
+{{% ls-details title="Kan ik hele muziekmappen tegelijk overzetten?" closed="true" %}}
 Ja. De webbrowsermethode ondersteunt het uploaden van hele mappen, inclusief geneste submappen.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Is mijn muziekoverdracht veilig?" closed="true" %}}
+{{% ls-details title="Is mijn muziekoverdracht veilig?" closed="true" %}}
 Wi-Fi Drive werkt alleen op uw lokale netwerk. U kunt ook een gebruikersnaam en wachtwoord instellen voor extra beveiliging.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Welke apps ondersteunen Wi-Fi Drive voor muziek?" closed="true" %}}
+{{% ls-details title="Welke apps ondersteunen Wi-Fi Drive voor muziek?" closed="true" %}}
 Evermusic, Flacbox en Evertag bevatten allemaal Wi-Fi Drive voor het overzetten van audiobestanden van uw computer.
-{{% /details %}}
+{{% /ls-details %}}

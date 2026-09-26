@@ -7,7 +7,7 @@ tags: ["음악", "스트리밍", "nas", "synology", "quickconnect"]
 readingTime: 4
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **요약:** Synology의 네이티브 API를 사용하여 Synology NAS를 Evermusic 또는 Flacbox에 연결하세요 -- IP 주소를 통한 수동 연결 또는 QuickConnect ID를 통한 자동 연결이 가능합니다. QuickConnect를 사용하면 포트 포워딩 없이 원격으로 음악을 스트리밍할 수 있습니다. 두 앱 모두 FLAC, MP3, WAV 및 기타 고해상도 형식을 지원합니다.
@@ -140,22 +140,22 @@ QuickConnect를 통한 안전한 원격 액세스와 다양한 오디오 형식 
 
 ## FAQ
 
-{{% details title="수동 연결과 QuickConnect의 차이점은 무엇인가요?" closed="true" %}}
+{{% ls-details title="수동 연결과 QuickConnect의 차이점은 무엇인가요?" closed="true" %}}
 수동 연결은 NAS IP 주소와 포트를 사용하며 로컬 네트워크에서 작동합니다. QuickConnect는 Synology의 릴레이 서비스를 사용하여 포트 포워딩 없이 인터넷을 통해 어디서든 연결을 설정합니다.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="홈 네트워크 외부에서 Synology NAS의 음악을 스트리밍할 수 있나요?" closed="true" %}}
+{{% ls-details title="홈 네트워크 외부에서 Synology NAS의 음악을 스트리밍할 수 있나요?" closed="true" %}}
 예. Synology NAS에서 QuickConnect를 활성화하고 Evermusic 또는 Flacbox에서 QuickConnect ID를 사용하면 인터넷 연결이 있는 곳이면 어디서든 음악을 스트리밍할 수 있습니다.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Synology NAS에서 스트리밍할 때 어떤 오디오 형식이 지원되나요?" closed="true" %}}
+{{% ls-details title="Synology NAS에서 스트리밍할 때 어떤 오디오 형식이 지원되나요?" closed="true" %}}
 Evermusic 및 Flacbox는 FLAC, MP3, AAC, WAV, ALAC, OGG, WMA, DSD 및 기타 많은 형식을 지원합니다. Synology NAS에서 스트리밍할 때 모든 지원 형식이 작동합니다.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="연결하려면 2단계 인증이 필요한가요?" closed="true" %}}
+{{% ls-details title="연결하려면 2단계 인증이 필요한가요?" closed="true" %}}
 아니요, 2단계 인증은 선택 사항입니다. 그러나 Synology DSM에서 2단계 인증을 활성화한 경우 앱에서 로그인 시 일회용 비밀번호를 요청합니다. 세션이 만료되면 재인증이 필요합니다.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="연결에 Synology 네이티브 API, WebDAV 또는 SMB 중 무엇을 사용해야 하나요?" closed="true" %}}
+{{% ls-details title="연결에 Synology 네이티브 API, WebDAV 또는 SMB 중 무엇을 사용해야 하나요?" closed="true" %}}
 QuickConnect가 포함된 Synology 네이티브 API가 원격 액세스에 가장 좋은 선택입니다. 로컬 네트워크 사용의 경우 SMB가 일반적으로 가장 빠른 옵션입니다. WebDAV는 로컬 및 원격 액세스 모두에 잘 작동합니다. Evermusic 및 Flacbox는 세 가지 프로토콜을 모두 지원합니다.
-{{% /details %}}
+{{% /ls-details %}}

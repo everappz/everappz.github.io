@@ -14,7 +14,7 @@ authors:
     image: "/images/about/artem-meleshko-founder-everappz.webp"
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 ## لماذا تحدد كلمات App Store المفتاحية أرقام تحميلاتك
 
@@ -104,29 +104,29 @@ json_dict_to_meta.sh       # Converts JSON back into Fastlane folders
 الأداة مفتوحة المصدر. تقارير الأخطاء واقتراحات الميزات وطلبات السحب مرحب بها.
 
 {{< cards cols="1" >}}
-  {{< card link="https://github.com/everappz/app-store-keyword-optimizer/tree/main" title="appkeywords.pro على GitHub" icon="github" tag= "open source" >}}
+  {{< ls-card link="https://github.com/everappz/app-store-keyword-optimizer/tree/main" title="appkeywords.pro على GitHub" icon="github" tag= "open source" >}}
 {{< /cards >}}
 
 ---
 
 ## الأسئلة الشائعة
 
-{{% details title="هل AppKeywords.pro مجاني حقاً؟" closed="true" %}}
+{{% ls-details title="هل AppKeywords.pro مجاني حقاً؟" closed="true" %}}
 نعم. هو أداة مفتوحة المصدر بالكامل تعمل بالمتصفح بدون تسجيل ولا إعلانات ولا جمع بيانات. بياناتك الوصفية لا تغادر جهازك أبداً.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="هل تعمل هذه الأداة مع لغات متعددة في App Store؟" closed="true" %}}
+{{% ls-details title="هل تعمل هذه الأداة مع لغات متعددة في App Store؟" closed="true" %}}
 نعم. يمكنك إضافة بيانات وصفية لكل لغة بشكل مستقل، ويتضمن التصدير جميع اللغات في ملف JSON واحد متوافق مع Fastlane.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="هل يجب أن أكرر كلمات العنوان في حقل الكلمات المفتاحية؟" closed="true" %}}
+{{% ls-details title="هل يجب أن أكرر كلمات العنوان في حقل الكلمات المفتاحية؟" closed="true" %}}
 لا. Apple تفهرس الكلمات من العنوان والعنوان الفرعي بالفعل. تكرارها في حقل الكلمات المفتاحية يهدر الأحرف.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="كم مرة يجب تحديث كلمات App Store المفتاحية؟" closed="true" %}}
+{{% ls-details title="كم مرة يجب تحديث كلمات App Store المفتاحية؟" closed="true" %}}
 راجع وحدّث كلماتك المفتاحية مرة واحدة على الأقل كل ربع. عدّل أسرع إذا لاحظت انخفاضاً في الترتيب أو تغيرات موسمية في سلوك البحث.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="هل يمكنني استخدام هذه الأداة مع Fastlane؟" closed="true" %}}
+{{% ls-details title="هل يمكنني استخدام هذه الأداة مع Fastlane؟" closed="true" %}}
 نعم. يتضمن مستودع GitHub نصوص shell لتحويل بين بنية مجلدات بيانات Fastlane الوصفية وتنسيق JSON المستخدم بواسطة AppKeywords.pro.
-{{% /details %}}
+{{% /ls-details %}}

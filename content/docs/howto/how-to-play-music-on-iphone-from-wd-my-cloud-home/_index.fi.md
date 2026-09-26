@@ -7,7 +7,7 @@ tags: ["evermusic", "musiikki", "pilvi", "iphone", "tallennustila", "nas", "kuun
 readingTime: 4
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **Tiivistelmä:** Käytä Evermusicia suoratoistaaksesi tai ladataksesi musiikkia WD My Cloud Home NAS -laitteesta suoraan iPhonellesi. Pääset käsiksi jopa 8 TB musiikkiin, toista offline ja käytä sisäänrakennettua taajuuskorjainta -- kaikki ilman kuukausittaisia tilauksia.
@@ -87,26 +87,26 @@ Kiitos tämän oppaan tutkimisesta -- sukella nyt henkilökohtaiseen musiikkikok
 
 ## Usein kysytyt kysymykset
 
-{{% details title="Onko Evermusic ilmainen käyttää WD My Cloud Homen kanssa?" closed="true" %}}
+{{% ls-details title="Onko Evermusic ilmainen käyttää WD My Cloud Homen kanssa?" closed="true" %}}
 Evermusic on ilmainen ladata perusominaisuuksilla mukaan lukien taajuuskorjain, pilvisuoratoisto ja offline-toisto. Ilmainen versio tukee enintään 3 pilviyhteyttä. Premium-päivitys poistaa rajoitukset pilvitileistä, soittolistoista ja offline-kansioista.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Voinko kuunnella musiikkia offline NAS-laitteestani?" closed="true" %}}
+{{% ls-details title="Voinko kuunnella musiikkia offline NAS-laitteestani?" closed="true" %}}
 Kyllä. Evermusic antaa sinun ladata kappaleita WD My Cloud Homesta iPhonellesi offline-toistoa varten. Tämä on hyödyllistä matkustaessasi tai kun internetyhteys on rajallinen.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Tukeeko Evermusic häviöttömiä äänimuotoja WD My Cloudista?" closed="true" %}}
+{{% ls-details title="Tukeeko Evermusic häviöttömiä äänimuotoja WD My Cloudista?" closed="true" %}}
 Kyllä. Evermusic tukee FLAC-, ALAC-, WAV-, AIFF- ja muita häviöttömiä muotoja. Voit suoratoistaa tai ladata korkealaatuisia äänitiedostoja NAS-laitteestasi ilman muodon muuntamista.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Voinko käyttää WD MyCloud EX2 Ultraa Evermusicin kanssa?" closed="true" %}}
+{{% ls-details title="Voinko käyttää WD MyCloud EX2 Ultraa Evermusicin kanssa?" closed="true" %}}
 Kyllä, vaihtoehtoisen ratkaisun avulla. Yhdistä My Cloud Home -vaihtoehdon kautta, luo kansio Evermusicin tiedostonhallinnalla ja lataa musiikkitiedostosi sinne. Sandbox-tilan vuoksi vain sovelluksen luomissa kansioissa olevat tiedostot ovat käytettävissä.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Kuinka paljon musiikkia WD My Cloud Homeen mahtuu?" closed="true" %}}
+{{% ls-details title="Kuinka paljon musiikkia WD My Cloud Homeen mahtuu?" closed="true" %}}
 WD My Cloud Home tukee enintään 8 TB tallennustilaa. Tyypillisillä bittinopeuksilla se voi sisältää satoja tuhansia kappaleita, mukaan lukien suuria häviöttömiä musiikkikirjastoja.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Onko yhteys Evermusicin ja WD My Cloud Homen välillä turvallinen?" closed="true" %}}
+{{% ls-details title="Onko yhteys Evermusicin ja WD My Cloud Homen välillä turvallinen?" closed="true" %}}
 Kyllä. Evermusic käyttää suojattua yhteyttä ja Western Digitalin virallista rajapintaa päästäkseen NAS-laitteeseesi. Tietosi ja kirjautumistietosi ovat suojattuja siirron aikana.
-{{% /details %}}
+{{% /ls-details %}}

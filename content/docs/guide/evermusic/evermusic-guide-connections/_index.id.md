@@ -17,7 +17,7 @@ Di layar Koneksi Anda dapat menghubungkan setiap sumber yang menyimpan musik And
 Layar dibagi menjadi bagian-bagian yang diberi label jelas sehingga dapat diskalakan dari satu akun iCloud Drive hingga perpustakaan yang tersebar di beberapa cloud dan perangkat NAS: Akses Cepat di bagian atas (folder cloud favorit Anda), Penyimpanan cloud (akun yang telah Anda tambahkan), Jaringan lokal (perangkat yang ditemukan Bonjour), Komputer (Wi-Fi Drive, iTunes File Sharing, SMB), Aksesori eksternal (flash drive USB yang terhubung), dan Layanan lain (Last.fm dan sejenisnya).
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Layar Koneksi Evermusic" image="/docs/guide/evermusic/evermusic-guide-connections/img/connect-main.webp" >}}
+  {{< ls-card title="" subtitle="Layar Koneksi Evermusic" image="/docs/guide/evermusic/evermusic-guide-connections/img/connect-main.webp" >}}
 {{< /cards >}}
 
 ## Hubungkan ke penyimpanan cloud
@@ -29,7 +29,7 @@ Layar dibagi menjadi bagian-bagian yang diberi label jelas sehingga dapat diskal
 - Ketuk Selesai.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Pemilih Penyedia Penyimpanan Cloud" image="/docs/guide/evermusic/evermusic-guide-connections/img/connect-add-storage.webp" >}}
+  {{< ls-card title="" subtitle="Pemilih Penyedia Penyimpanan Cloud" image="/docs/guide/evermusic/evermusic-guide-connections/img/connect-add-storage.webp" >}}
 {{< /cards >}}
 
 Jika Anda mengalami masalah, periksa kembali koneksi internet dan kredensial login Anda, dan pastikan autentikasi dua faktor dikonfigurasi dengan benar untuk layanan tersebut.  
@@ -70,7 +70,7 @@ Anda juga dapat memutuskan koneksi akun cloud yang terhubung di aplikasi dan tok
   - **Putuskan Koneksi**: jika Anda ingin benar-benar memutuskan koneksi antara aplikasi dan layanan cloud, pilih 'Putuskan Koneksi.' Ketahuilah bahwa memilih opsi ini akan menghapus semua lagu yang terkait dengan layanan cloud ini dari perpustakaan musik aplikasi Anda, tetapi lagu-lagu tersebut akan tetap ada di server.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Menu Lebih Banyak Tindakan Penyimpanan Cloud yang Terhubung" image="/docs/guide/evermusic/evermusic-guide-connections/img/connect-storage-more-actions.webp" >}}
+  {{< ls-card title="" subtitle="Menu Lebih Banyak Tindakan Penyimpanan Cloud yang Terhubung" image="/docs/guide/evermusic/evermusic-guide-connections/img/connect-storage-more-actions.webp" >}}
 {{< /cards >}}
 
 ## Hubungkan ke Komputer atau NAS
@@ -89,7 +89,7 @@ Jika koneksi berhasil, Anda akan melihat penyimpanan yang terhubung di bagian "P
 Tutorial lengkap tentang cara menghubungkan MAC atau PC menggunakan SMB tersedia [di sini](/docs/howto/stream-your-music-from-mac-or-pc-to-iphone-using-smb/).
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Pengaturan Koneksi SMB" image="/docs/guide/evermusic/evermusic-guide-connections/img/connect-smb-settings.webp" >}}
+  {{< ls-card title="" subtitle="Pengaturan Koneksi SMB" image="/docs/guide/evermusic/evermusic-guide-connections/img/connect-smb-settings.webp" >}}
 {{< /cards >}}
 
 ## Hubungkan ke NAS menggunakan WebDAV
@@ -99,7 +99,7 @@ URL harus dalam format http://server-name, atau https://server-name jika server 
 Tutorial lengkap tentang cara menghubungkan NAS menggunakan protokol WebDAV tersedia [di sini](/docs/howto/how-to-connect-nas-storage-using-webdav-and-listen-to-music-on-your-iphone-or-mac).
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Pengaturan Koneksi WebDAV" image="/docs/guide/evermusic/evermusic-guide-connections/img/connect-webdav-settings.webp" >}}
+  {{< ls-card title="" subtitle="Pengaturan Koneksi WebDAV" image="/docs/guide/evermusic/evermusic-guide-connections/img/connect-webdav-settings.webp" >}}
 {{< /cards >}}
 
 ## Hubungkan ke Komputer atau NAS menggunakan DLNA
@@ -107,7 +107,7 @@ Tutorial lengkap tentang cara menghubungkan NAS menggunakan protokol WebDAV ters
 Anda juga dapat berbagi perpustakaan musik yang terletak di PC Windows atau NAS pribadi menggunakan protokol DLNA dan mengakses perpustakaan tersebut di aplikasi seperti yang dijelaskan [di sini](/docs/howto/how-to-enable-dlna-media-server-on-windows-10-and-play-your-music-on-iphone). DLNA adalah protokol yang populer dan banyak digunakan, tetapi hanya memungkinkan Anda memutar atau mengunduh musik. Anda tidak dapat mengunggah file atau membuat folder baru di server.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Pengaturan Koneksi DLNA" image="/docs/guide/evermusic/evermusic-guide-connections/img/connect-dlna-settings.webp" >}}
+  {{< ls-card title="" subtitle="Pengaturan Koneksi DLNA" image="/docs/guide/evermusic/evermusic-guide-connections/img/connect-dlna-settings.webp" >}}
 {{< /cards >}}
 
 ## Perangkat yang Tersedia
@@ -120,7 +120,7 @@ Untuk membuat koneksi dengan perangkat, ikuti langkah-langkah berikut:
 - Jika diperlukan, masukkan detail login Anda untuk menyelesaikan koneksi.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Perangkat yang Tersedia di Jaringan Lokal" image="/docs/guide/evermusic/evermusic-guide-connections/img/connect-available-devices.webp" >}}
+  {{< ls-card title="" subtitle="Perangkat yang Tersedia di Jaringan Lokal" image="/docs/guide/evermusic/evermusic-guide-connections/img/connect-available-devices.webp" >}}
 {{< /cards >}}
 
 ## Wi-Fi Drive
@@ -146,7 +146,7 @@ Setelah halaman web yang sesuai dengan perangkat iOS Anda terbuka di browser, An
 File yang Anda seret dan lepas akan mulai ditransfer ke perangkat iOS Anda dan akan dapat diakses di dalam aplikasi.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Pengaturan Server Wi-Fi Drive" image="/docs/guide/evermusic/evermusic-guide-connections/img/connect-wifidrive-settings.webp" >}}
+  {{< ls-card title="" subtitle="Pengaturan Server Wi-Fi Drive" image="/docs/guide/evermusic/evermusic-guide-connections/img/connect-wifidrive-settings.webp" >}}
 {{< /cards >}}
 
 Instruksi terperinci tentang cara mentransfer file secara nirkabel menggunakan WiFi-Drive tersedia [di sini](/docs/howto/how-to-transfer-files-wirelessly-from-a-computer-to-an-iphone-using-wifi-drive).
@@ -162,7 +162,7 @@ iTunes File Sharing adalah teknologi lain yang memungkinkan Anda mentransfer fil
 Instruksi terperinci tentang cara menggunakan iTunes file sharing tersedia [di sini](/docs/howto/how-to-play-local-itunes-files-on-my-iphone/).
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="iTunes / Finder File Sharing di Mac" image="/docs/guide/evermusic/evermusic-guide-connections/img/connect-itunes-file-sharing.webp" >}}
+  {{< ls-card title="" subtitle="iTunes / Finder File Sharing di Mac" image="/docs/guide/evermusic/evermusic-guide-connections/img/connect-itunes-file-sharing.webp" >}}
 {{< /cards >}}
 
 ## Hubungkan flash drive USB
@@ -183,7 +183,7 @@ Toolbar atas, yang terletak di bawah bilah navigasi, menawarkan beberapa tindaka
 - **Acak Semua**: mirip dengan "Putar Semua," tindakan ini memindai folder saat ini dan sub-foldernya tetapi mengacak file sebelum menambahkannya ke antrean pemutar audio. Ini adalah cara yang bagus untuk menikmati musik Anda dalam urutan acak untuk sedikit variasi.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Toolbar Atas di Dalam Folder Cloud" image="/docs/guide/evermusic/evermusic-guide-connections/img/connect-top-toolbar.webp" >}}
+  {{< ls-card title="" subtitle="Toolbar Atas di Dalam Folder Cloud" image="/docs/guide/evermusic/evermusic-guide-connections/img/connect-top-toolbar.webp" >}}
 {{< /cards >}}
 
 ## Opsi Folder
@@ -200,7 +200,7 @@ Berikut uraian tindakan-tindakan tersebut:
 - **Tampilan Grid/Daftar**: beralih antara dua mode tampilan: tampilan tabel dan tampilan gambar mini. Tampilan tabel menyajikan file dalam daftar, sementara tampilan gambar mini menampilkan representasi visual dari file, sehingga lebih mudah mengidentifikasi konten sekilas.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Menu Lebih Banyak Tindakan Folder Saat Ini" image="/docs/guide/evermusic/evermusic-guide-connections/img/connect-folder-options.webp" >}}
+  {{< ls-card title="" subtitle="Menu Lebih Banyak Tindakan Folder Saat Ini" image="/docs/guide/evermusic/evermusic-guide-connections/img/connect-folder-options.webp" >}}
 {{< /cards >}}
 
 ## Edit File Online
@@ -212,7 +212,7 @@ Ketika Anda perlu mengelola beberapa file dalam penyimpanan cloud Anda di Evermu
 - **Lakukan Berbagai Tindakan**: setelah Anda memilih file atau folder yang ingin dikelola, Anda akan memiliki akses ke beberapa tindakan yang disesuaikan dengan kebutuhan Anda.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Mode Pemilihan untuk File Online" image="/docs/guide/evermusic/evermusic-guide-connections/img/connect-selection-mode.webp" >}}
+  {{< ls-card title="" subtitle="Mode Pemilihan untuk File Online" image="/docs/guide/evermusic/evermusic-guide-connections/img/connect-selection-mode.webp" >}}
 {{< /cards >}}
 
 ## Tindakan file
@@ -233,7 +233,7 @@ Ketuk untuk memperlihatkan daftar tindakan yang tersedia:
 - **Hapus**: berhati-hatilah dengan tindakan ini, karena tindakan ini menghapus file dari penyimpanan cloud Anda secara permanen. Penghapusan ini tidak dapat dibatalkan.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Menu Lebih Banyak Tindakan untuk Satu File" image="/docs/guide/evermusic/evermusic-guide-connections/img/connect-single-folder-more-options.webp" >}}
+  {{< ls-card title="" subtitle="Menu Lebih Banyak Tindakan untuk Satu File" image="/docs/guide/evermusic/evermusic-guide-connections/img/connect-single-folder-more-options.webp" >}}
 {{< /cards >}}
 
 Jika daftar tindakan melebihi ruang layar yang tersedia, gulir ke bawah di dalam menu tindakan untuk mengakses opsi tambahan.

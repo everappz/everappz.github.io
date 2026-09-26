@@ -15,7 +15,7 @@ tags: [
 ---
 
 
-{{< lottie src="/images/juicy-json/juicy-woman-focused-on-online-learning.json" width="85%" >}}
+{{< ls-lottie src="/images/juicy-json/juicy-woman-focused-on-online-learning.json" width="85%" >}}
 
 ## Opi käyttämään sovelluksiamme
 
@@ -27,7 +27,7 @@ Tutustu sovelluksesi UKK:hon alla aloittaaksesi, tai selaa yleisiä kysymyksiä 
 
 ## Valitse sovelluksesi
 
-{{< product-doc-cards section="faq" >}}
+{{< ls-product-doc-cards section="faq" >}}
 
 ## Yleiset ongelmat ja vastaukset
 
@@ -35,7 +35,7 @@ Tutustu sovelluksesi UKK:hon alla aloittaaksesi, tai selaa yleisiä kysymyksiä 
 
 <div class="hx:w-full">
 
-{{% details title="Miksi en pysty kirjautumaan pCloudiin vanhemmalla iOS-versiolla (15.8.4)?" closed="true" %}}
+{{% ls-details title="Miksi en pysty kirjautumaan pCloudiin vanhemmalla iOS-versiolla (15.8.4)?" closed="true" %}}
 pCloudin verkkokirjautumissivu ei välttämättä näy oikein vanhemmilla iOS-versioilla, kuten 15.8.4, mikä estää sähköpostin ja salasanan syöttämisen pilviyhteysruudulla.<br><br>
 
 Vaihtoehtoisena ratkaisuna voit käyttää **WebDAV**-protokollaa, jota pCloud tukee ja joka toimii luotettavasti kaikilla iOS-versioilla.
@@ -49,9 +49,9 @@ Vaihtoehtoisena ratkaisuna voit käyttää **WebDAV**-protokollaa, jota pCloud t
 Avaa sovellus → Yhteydet → Yhdistä pilvitallennustilaan → Valitse **WebDAV** → Syötä tunnistetietosi ja palvelimen URL.
 
 Tällä tavalla voit yhdistää pCloud-tallennustilaan ja käyttää tiedostojasi ongelmitta vanhemmilla laitteilla.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Kuinka soitan musiikkia AirPlayn kautta Macilta (macOS)?" closed="true" %}}
+{{% ls-details title="Kuinka soitan musiikkia AirPlayn kautta Macilta (macOS)?" closed="true" %}}
 Sovelluksen macOS-versio ei sisällä sisäänrakennettuja AirPlay-, Chromecast- tai Bluetooth-yhteyspainikeita kuten iOS.<br><br>
 
 Käytä **AirPlayta** MacBook Prossa seuraavilla vaiheilla:
@@ -62,9 +62,9 @@ Käytä **AirPlayta** MacBook Prossa seuraavilla vaiheilla:
 4. Valitse haluamasi laite aloittaaksesi musiikin suoratoiston.  
 
 Tämä ohjaa kaiken järjestelmääänen (mukaan lukien Evermusicista tai Flacboxista) valitsemaasi AirPlay-laitteeseen.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Miksi Premium-ostokseni ei aktivoitunut Macilla, vaikka ostin sen iPhonella?" closed="true" %}}
+{{% ls-details title="Miksi Premium-ostokseni ei aktivoitunut Macilla, vaikka ostin sen iPhonella?" closed="true" %}}
 Elinikäiset ostokset ja tilaukset synkronoidaan iOS:n ja Macin välillä **iCloudin** kautta.<br><br>
 
 Premiumin aktivoiminen Macilla:<br>
@@ -76,9 +76,9 @@ Premiumin aktivoiminen Macilla:<br>
 - Vaihtoehtoisesti napauta **Palauta ostokset** sovelluksen asetuksissa molemmilla laitteilla<br><br>
 
 Premium-ominaisuuksien pitäisi aktivoitua automaattisesti Macilla.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Kuinka voin synkronoida soittolistat automaattisesti laitteiden välillä?" closed="true" %}}
+{{% ls-details title="Kuinka voin synkronoida soittolistat automaattisesti laitteiden välillä?" closed="true" %}}
 Tällä hetkellä **automaattista synkronointia** ei ole soittolistoille.<br><br>
 
 Voit käyttää yhtä seuraavista vaihtoehdoista:<br>
@@ -88,9 +88,9 @@ Voit käyttää yhtä seuraavista vaihtoehdoista:<br>
   - [Soittolistojen tuominen](/docs/howto/how-to-import-m3u-playlist-to-evermusic-and-flacbox/)<br>
 - **Arkistoi soittolista tai albumit** ja siirrä ZIP-tiedostona:<br>
   - [Soittolistojen arkistointiopas](/docs/howto/how-to-archive-zip-playlists-albums-artists-and-genres-in-evermusic-flacbox-and-transfer-to/)
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Onko sovellusten käyttö turvallista? Voinko poistaa analytiikan käytöstä?" closed="true" %}}
+{{% ls-details title="Onko sovellusten käyttö turvallista? Voinko poistaa analytiikan käytöstä?" closed="true" %}}
 Kyllä, yksityisyytesi on korkein prioriteettimme.<br><br>
 
 - Kaikki tiedot — musiikkitiedostot, asetukset, pilvikirjautumiset — pysyvät laitteellasi<br>
@@ -104,18 +104,18 @@ Lisätietoja:<br>
 
 Käytettäessä personoituja mainoksia Google Mobile Ads edellyttää suostumusasetusten näyttämistä.<br>
 Premium-käyttäjät eivät näe mainoksia ja mainos-SDK on täysin poistettu käytöstä.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Tukevatko sovelluksenne perhejakamista?" closed="true" %}}
+{{% ls-details title="Tukevatko sovelluksenne perhejakamista?" closed="true" %}}
 Kyllä, perhejakaminen on tuettu.<br><br>
 
 Sovelluksen sisäisten ostojen jakaminen:<br>
 - Varmista, että ostos on asetettu jaettavaksi perheryhmäsi kanssa<br>
 - Perheenjäsenen laitteella siirry kohtaan **Asetukset > Ostokset > Palauta ostokset**<br>
 - Tämä pyytää ostotiedot Applen palvelimilta ja aktivoi ne laitteella
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Kuinka nopeuttaa metatietojen ja pilven synkronointia?" closed="true" %}}
+{{% ls-details title="Kuinka nopeuttaa metatietojen ja pilven synkronointia?" closed="true" %}}
 Synkronointinopeuden parantamiseksi ota käyttöön taustatyöt:<br><br>
 
 - **Asetukset → Musiikkikirjasto → Metatietojen luku → Metatietojen luku taustalla**<br>
@@ -123,14 +123,14 @@ Synkronointinopeuden parantamiseksi ota käyttöön taustatyöt:<br><br>
 
 Lisäksi macOS:llä lisää metatietojen lukunopeutta kohdassa **Asetukset → Musiikkikirjasto**.<br>
 Jos soitin on aktiivinen (ääni toistuu), iOS ei keskeytä sovellusta, mikä mahdollistaa jatkuvan synkronoinnin.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Kuinka voin peruuttaa tilaukseni?" closed="true" %}}
+{{% ls-details title="Kuinka voin peruuttaa tilaukseni?" closed="true" %}}
 Voit peruuttaa tilauksesi Applen virallisten ohjeiden mukaisesti:<br>
 👉 [Tilauksen peruuttaminen](https://support.apple.com/en-us/118428)
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Kuinka yhdistän ja suoratoistan ääntä WD MyCloud EX2 Ultrasta?" closed="true" %}}
+{{% ls-details title="Kuinka yhdistän ja suoratoistan ääntä WD MyCloud EX2 Ultrasta?" closed="true" %}}
 
 Kun lisäät yhteyden sovellukseen kohdassa **Yhteydet > Yhdistä pilvitallennustilaan > My Cloud Home**, se on virallisesti suunniteltu tukemaan **WD MyCloud Home** -laitteita.<br>
 WD MyCloud EX2 Ultra käyttää sovelluksille rajoitettua käyttöoikeutta.<br><br>
@@ -144,16 +144,16 @@ Jos olet kuitenkin onnistuneesti yhdistänyt **WD MyCloud EX2 Ultraan**, **WD My
 5. Voit nyt suoratoistaa tai ladata ne suoraan<br><br>
 
 ⚠️ Vain sovelluksen kautta luodut kansiot ovat käytettävissä NAS-laitteelta.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Kuinka yhdistän Koofr.eu:hun?" closed="true" %}}
+{{% ls-details title="Kuinka yhdistän Koofr.eu:hun?" closed="true" %}}
 Voit yhdistää Koofrin käyttämällä **WebDAViä**.<br><br>
 
 - Koofrin WebDAV-asennusopas: [koofr.eu-blogi](https://koofr.eu/blog/posts/3-ways-to-map-koofr-as-a-network-drive-explained)<br>
 - Evermusic/Flacbox WebDAV-opas: [NAS-tallennustilan yhdistäminen WebDAVin avulla ja musiikin kuuntelu iPhonella tai Macilla](/docs/howto/how-to-connect-nas-storage-using-webdav-and-listen-to-music-on-your-iphone-or-mac/)
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Mitkä ovat sovelluksen URL-kaavat?" closed="true" %}}
+{{% ls-details title="Mitkä ovat sovelluksen URL-kaavat?" closed="true" %}}
 Tuetut kaavat:<br><br>
 
 **Evermusic**<br>
@@ -172,35 +172,35 @@ Tuetut kaavat:<br><br>
 **Evervideo**<br>
 - iOS: `lsevervideo://`<br>
 - macOS: `lsevervideomac://`
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Musiikki lakkaa soimasta, kun sovellus on taustalla — miten korjaan sen?" closed="true" %}}
+{{% ls-details title="Musiikki lakkaa soimasta, kun sovellus on taustalla — miten korjaan sen?" closed="true" %}}
 Jos sovellus kaatuu tai pysähtyy taustalla:<br>
 - Siirry kohtaan **Asetukset > Musiikkikirjasto > Online-musiikkisynkronointi > Taustasynkronointi → Poista käytöstä**<br>
 - **Asetukset > Musiikkikirjasto > Metatietojen luku > Metatietojen luku taustalla → Poista käytöstä**<br>
 - **Asetukset > Tiedostonhallinta > Taustasiirrot → Poista käytöstä**
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Taukoton toisto ei toimi — miten korjaan sen?" closed="true" %}}
+{{% ls-details title="Taukoton toisto ei toimi — miten korjaan sen?" closed="true" %}}
 Taukoton toisto riippuu iOS-versiosta ja äänimoottorista.<br>
 Kokeile vaihtaa äänimoottoria:<br>
 - Siirry kohtaan **Asetukset → Äänisoistin → Yleiset → Ääniprosessori**<br>
 - Valitse **Core Audio** paremman taukottoman toiston tuen saamiseksi
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Miksi sovellus näyttää vain 100 kohdetta luettelossa?" closed="true" %}}
+{{% ls-details title="Miksi sovellus näyttää vain 100 kohdetta luettelossa?" closed="true" %}}
 Sovellus käyttää sivutusta suorituskyvyn parantamiseksi.<br>
 Sen poistaminen käytöstä:<br>
 - Siirry kohtaan **Asetukset → Personointi → Sisällön latausraja → Poistettu käytöstä**<br>
 Nyt kaikki kohteet ladataan kerralla.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Miksi metatiedoissa on outoja merkkejä?" closed="true" %}}
+{{% ls-details title="Miksi metatiedoissa on outoja merkkejä?" closed="true" %}}
 Kokeile ottaa metatietojen normalisointi käyttöön:<br>
 - **Asetukset → Musiikkikirjasto → Metatietojen luku → Normalisoi metatietojen koodaus**
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Miksi sovellus ei pysty lukemaan erikoismerkkejä sisältäviä kansioiden nimiä?" closed="true" %}}
+{{% ls-details title="Miksi sovellus ei pysty lukemaan erikoismerkkejä sisältäviä kansioiden nimiä?" closed="true" %}}
 Tämä on tunnettu ongelma **SMB2-protokollan** kanssa.<br><br>
 
 Kokeile seuraavia ratkaisuja:<br>
@@ -210,9 +210,9 @@ Kokeile seuraavia ratkaisuja:<br>
   - Valitse kansiot/tiedostot Applen natiivivalikon avulla<br><br>
 
 Vaihtoehtoisesti yhdistä käyttäen **WebDAViä** tai **DLNAa**, jos NAS-laitteesi tukee niitä.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Kuinka lataan ja hallinnoin musiikkia iCloudissa?" closed="true" %}}
+{{% ls-details title="Kuinka lataan ja hallinnoin musiikkia iCloudissa?" closed="true" %}}
 – **Kuinka lataan musiikkia iCloudiin?**  <br>
 Siirry selaimessa osoitteeseen [https://www.icloud.com](https://www.icloud.com), luo kansio ja lataa musiikkitiedostosi suoraan Macilta tai PC:ltä.<br>
 
@@ -225,9 +225,9 @@ Sinulla on kaksi vaihtoehtoa:  <br>
 
 Lue lisää täältä: [Musiikin suoratoistaminen iCloud Drivesta iPhonella tai Macilla](/docs/howto/how-to-listen-to-music-from-icloud-drive-on-your-iphone-or-mac/)
 
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Kuinka voin siirtää 10 Gt:n musiikkikirjastoni Windows 11:stä iPhonelleni offline-toistoa varten?" closed="true" %}}
+{{% ls-details title="Kuinka voin siirtää 10 Gt:n musiikkikirjastoni Windows 11:stä iPhonelleni offline-toistoa varten?" closed="true" %}}
 
 Sinulla on useita luotettavia vaihtoehtoja musiikkikirjastosi siirtämiseksi Windows 11 -tietokoneeltasi iPhonellesi ja sen käyttämiseksi offline-tilassa sovelluksessa. Valitse sinulle parhaiten sopiva menetelmä:
 
@@ -253,6 +253,6 @@ Sinulla on useita luotettavia vaihtoehtoja musiikkikirjastosi siirtämiseksi Win
 
 ⚠️ Siirrettäessä suuria kirjastoja (10 Gt+), langallinen USB-siirto on yleensä nopein ja vakain vaihtoehto.
 
-{{% /details %}}
+{{% /ls-details %}}
 
 </div>

@@ -25,7 +25,7 @@ Evermusic의 기능은 두 가지 구별된 구성 요소로 나뉩니다: "음�
 iPhone을 사용하든, iPad를 사용하든, Mac의 컴팩트 모드를 사용하든 모든 앱 기능은 화면 하단의 탭 바를 통해 쉽게 접근할 수 있습니다. iPad 및 Mac 사용자를 위해 화면 왼쪽에 동일한 메뉴가 있습니다. 이 신중한 구성은 모든 앱 기능을 쉽게 접근 가능한 섹션으로 분류하여 사용자 친화적이고 효율적인 경험을 보장합니다.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="iPad 및 Mac의 Evermusic 왼쪽 사이드바" image="/docs/guide/evermusic/evermusic-guide-navigation/img/navigation-left-sidebar.webp" >}}
+  {{< ls-card title="" subtitle="iPad 및 Mac의 Evermusic 왼쪽 사이드바" image="/docs/guide/evermusic/evermusic-guide-navigation/img/navigation-left-sidebar.webp" >}}
 {{< /cards >}}
 
 **연결하기:** 이 화면에서 Google Drive, MEGA, OneDrive, Dropbox와 같은 클라우드 스토리지 서비스는 물론 컴퓨터와 개인 NAS를 손쉽게 연결할 수 있습니다.
@@ -47,7 +47,7 @@ iPhone을 사용하든, iPad를 사용하든, Mac의 컴팩트 모드를 사용�
 미니 플레이어 아이콘을 탭하여 전체 화면 플레이어를 활성화하고 아래로 스와이프하는 제스처를 사용하여 숨깁니다. iPad 및 Mac에서 미니 플레이어 화면은 화면 상단에 있으며 메인 메뉴를 통해 전체 화면 플레이어를 열 때 숨길 수 있습니다.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="iPhone 탭 바" image="/docs/guide/evermusic/evermusic-guide-navigation/img/navigation-bottom-tabbar.webp" >}}
+  {{< ls-card title="" subtitle="iPhone 탭 바" image="/docs/guide/evermusic/evermusic-guide-navigation/img/navigation-bottom-tabbar.webp" >}}
 {{< /cards >}}
 
 ## 미니 플레이어 창 (Mac 전용)
@@ -55,7 +55,7 @@ iPhone을 사용하든, iPad를 사용하든, Mac의 컴팩트 모드를 사용�
 Mac에서 미니 플레이어 창에 접근하려면 앱 창의 오른쪽 하단 모서리로 커서를 이동하고 가능한 가장 작은 크기로 조정합니다. 그런 다음 접기 버튼(아래 화살표로 표시됨)을 탭하여 미니 플레이어 창을 활성화합니다. 미니 플레이어 창을 항상 다른 창 위에 표시하려면 Mac의 상단 메뉴 바로 이동하여 '창'을 선택한 다음 '창을 항상 위에 표시'를 선택합니다. 이 기능은 중단 없이 오디오 강의를 듣는 데 유용합니다.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Mac 미니 플레이어 창" image="/docs/guide/evermusic/evermusic-guide-navigation/img/navigation-mac-exclusive-miniplayer.webp" >}}
+  {{< ls-card title="" subtitle="Mac 미니 플레이어 창" image="/docs/guide/evermusic/evermusic-guide-navigation/img/navigation-mac-exclusive-miniplayer.webp" >}}
 {{< /cards >}}
 
 ## 추가 작업
@@ -63,7 +63,7 @@ Mac에서 미니 플레이어 창에 접근하려면 앱 창의 오른쪽 하단
 화면의 거의 모든 콘텐츠 항목에는 "추가 작업" 버튼이 있습니다. 탭하면 모든 사용 가능한 작업에 접근할 수 있습니다.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="추가 작업 컨텍스트 메뉴" image="/docs/guide/evermusic/evermusic-guide-navigation/img/navigation-more-actions.webp" >}}
+  {{< ls-card title="" subtitle="추가 작업 컨텍스트 메뉴" image="/docs/guide/evermusic/evermusic-guide-navigation/img/navigation-more-actions.webp" >}}
 {{< /cards >}}
 
 ## 상단 도구 모음
@@ -77,7 +77,7 @@ Mac에서 미니 플레이어 창에 접근하려면 앱 창의 오른쪽 하단
 - **모두 셔플:** 즐거운 청취 경험을 위해 추가하기 전에 셔플하여 현재 페이지의 모든 트랙을 오디오 플레이어 대기열에 추가합니다.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="검색, 모두 재생, 모두 셔플이 있는 상단 도구 모음" image="/docs/guide/evermusic/evermusic-guide-navigation/img/navigation-top-toolbar.webp" >}}
+  {{< ls-card title="" subtitle="검색, 모두 재생, 모두 셔플이 있는 상단 도구 모음" image="/docs/guide/evermusic/evermusic-guide-navigation/img/navigation-top-toolbar.webp" >}}
 {{< /cards >}}
 
 ## 컨텍스트 메뉴
@@ -91,7 +91,7 @@ Mac에서 미니 플레이어 창에 접근하려면 앱 창의 오른쪽 하단
 **마우스 오른쪽 버튼 클릭:** 셀, 미니 플레이어, 또는 컴팩트 플레이어를 마우스 오른쪽 버튼으로 클릭하여 컨텍스트 메뉴를 표시합니다.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="macOS의 컨텍스트 메뉴" image="/docs/guide/evermusic/evermusic-guide-navigation/img/navigation-context-menu-macos.webp" >}}
+  {{< ls-card title="" subtitle="macOS의 컨텍스트 메뉴" image="/docs/guide/evermusic/evermusic-guide-navigation/img/navigation-context-menu-macos.webp" >}}
 {{< /cards >}}
 
 ## 접근성
@@ -125,7 +125,7 @@ Evermusic에는 모든 Apple 플랫폼에서 앱의 주요 부분을 표시하�
 네 가지 위젯 모두 소형, 중형, 대형 크기로 제공되어 화면에 맞는 레이아웃을 선택할 수 있습니다.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evermusic 위젯 추가" image="/docs/guide/evermusic/evermusic-guide-navigation/img/navigation-add-widgets.webp" >}}
+  {{< ls-card title="" subtitle="Evermusic 위젯 추가" image="/docs/guide/evermusic/evermusic-guide-navigation/img/navigation-add-widgets.webp" >}}
 {{< /cards >}}
 
 ### iPhone에서 위젯 추가 (홈 화면)
@@ -175,7 +175,7 @@ CarPlay 위젯은 음악이 변경되면 실시간으로 업데이트되며 운�
 Evermusic에는 차량 디스플레이에 최적화된 완전한 기능의 **Apple CarPlay** 인터페이스(iOS 전용)가 포함되어 있습니다. iPhone이 USB 또는 무선으로 호환되는 CarPlay 헤드 유닛에 연결되면 Evermusic가 Apple Music 및 Spotify와 함께 CarPlay 앱 격자에 나타나 도로에서 클라우드 라이브러리를 스트리밍할 준비가 됩니다.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="CarPlay 화면의 Evermusic" image="/docs/guide/evermusic/evermusic-guide-navigation/img/navigation-carplay-menu.webp" >}}
+  {{< ls-card title="" subtitle="CarPlay 화면의 Evermusic" image="/docs/guide/evermusic/evermusic-guide-navigation/img/navigation-carplay-menu.webp" >}}
 {{< /cards >}}
 
 ### CarPlay에서 제공하는 기능

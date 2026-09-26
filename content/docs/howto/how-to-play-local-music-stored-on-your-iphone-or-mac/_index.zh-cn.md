@@ -6,7 +6,7 @@ tags: ["本地音乐", "离线音乐", "音乐播放器", "iPhone", "Mac", "Ever
 keywords: ["如何在iPhone上播放本地音乐", "从设备存储播放音乐", "iOS离线音乐播放器", "Evermusic应用教程", "Flacbox FLAC播放器", "iOS本地文件播放", "Mac音乐库", "本地文件音乐应用", "iPhone播放已下载歌曲", "如何使用Evermusic播放本地文件"]
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **摘要：** 安装 [Evermusic](/products/evermusic)（MP3/WAV）或 [Flacbox](/products/flacbox)（FLAC/DSD），打开任何本地音频文件或文件夹，即可开始播放。将文件夹添加到**收藏夹**以快速访问，将曲目导入到音乐库，或创建**播放列表**。
@@ -24,10 +24,10 @@ keywords: ["如何在iPhone上播放本地音乐", "从设备存储播放音乐"
 要开始在iPhone和Mac上探索本地音乐世界，首先安装Evermusic（用于mp3和wav等标准音频格式）或Flacbox（用于dsd和flac无损音乐）。这两款应用均适用于iOS和MacOS，您可以免费下载。
 
 {{< cards >}}
-  {{< card link="https://apps.apple.com/us/app/evermusic-cloud-music-player/id885367198?pt=95781850&ct=everappzcom&mt=8" title="下载iOS版Evermusic" tag="iOS" >}}
-  {{< card link="https://apps.apple.com/us/app/flacbox-hi-res-equalizer/id1097564256?pt=95781850&ct=everappzcom&mt=8" title="下载iOS版Flacbox" tag="iOS" >}}
-  {{< card link="https://apps.apple.com/us/app/evermusic-hi-res-music-player/id1564384601?pt=95781850&ct=everappzcom&mt=8" title="下载Mac版Evermusic" tag="macOS" >}}
-  {{< card link="https://apps.apple.com/us/app/flacbox-hi-res-music-player/id1594027432?pt=95781850&ct=everappzcom&mt=8" title="下载Mac版Flacbox" tag="macOS" >}}
+  {{< ls-card link="https://apps.apple.com/us/app/evermusic-cloud-music-player/id885367198?pt=95781850&ct=everappzcom&mt=8" title="下载iOS版Evermusic" tag="iOS" >}}
+  {{< ls-card link="https://apps.apple.com/us/app/flacbox-hi-res-equalizer/id1097564256?pt=95781850&ct=everappzcom&mt=8" title="下载iOS版Flacbox" tag="iOS" >}}
+  {{< ls-card link="https://apps.apple.com/us/app/evermusic-hi-res-music-player/id1564384601?pt=95781850&ct=everappzcom&mt=8" title="下载Mac版Evermusic" tag="macOS" >}}
+  {{< ls-card link="https://apps.apple.com/us/app/flacbox-hi-res-music-player/id1594027432?pt=95781850&ct=everappzcom&mt=8" title="下载Mac版Flacbox" tag="macOS" >}}
 {{< /cards >}}
 
 
@@ -135,22 +135,22 @@ keywords: ["如何在iPhone上播放本地音乐", "从设备存储播放音乐"
 
 ## 常见问题
 
-{{% details title="Evermusic和Flacbox可以播放哪些音频格式？" closed="true" %}}
+{{% ls-details title="Evermusic和Flacbox可以播放哪些音频格式？" closed="true" %}}
 Evermusic可播放MP3、WAV、AAC、M4A和其他标准格式。Flacbox增加了对FLAC、DSD、OGG、OPUS、APE、WMA和ALAC的支持。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="这些应用会将文件复制到应用存储中吗？" closed="true" %}}
+{{% ls-details title="这些应用会将文件复制到应用存储中吗？" closed="true" %}}
 默认情况下，文件从其原始位置播放而不会被复制。要更改此行为，请在**设置** > File manager中启用"Always copy files during opening"。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="我可以按艺术家和专辑整理本地音乐吗？" closed="true" %}}
+{{% ls-details title="我可以按艺术家和专辑整理本地音乐吗？" closed="true" %}}
 可以。将文件导入到音乐库（第4步），应用程序将读取元数据，按艺术家、专辑、流派和作曲家对曲目进行分组。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="如何将音乐从电脑传输到iPhone？" closed="true" %}}
+{{% ls-details title="如何将音乐从电脑传输到iPhone？" closed="true" %}}
 使用iTunes文件共享（USB）、WiFi Drive（无线）或SMB（流媒体）。请参阅我们的详细指南：[在iPhone上传输和播放本地文件](/docs/howto/how-to-play-local-itunes-files-on-my-iphone/)。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Evermusic和Flacbox是免费的吗？" closed="true" %}}
+{{% ls-details title="Evermusic和Flacbox是免费的吗？" closed="true" %}}
 是的，两款应用均可免费下载，核心功能包括播放、均衡器和云端流媒体。免费版本有一些限制（**播放列表**数量、云账户、离线文件夹）。升级到高级版可解除这些限制。
-{{% /details %}}
+{{% /ls-details %}}

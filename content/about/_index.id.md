@@ -1,10 +1,11 @@
 ---
+excludeSearch: true
 date: '2025-06-12T17:00:00+00:00'
 title: 'Tentang Kami'
 description: 'Everappz S.L. adalah perusahaan perangkat lunak Spanyol yang mengembangkan aplikasi iOS dan macOS untuk audio dan video. Pembuat Evermusic (11 juta unduhan), Flacbox, EverTag, EverVideo — lebih dari 14 juta unduhan di seluruh dunia.'
 ---
 
-{{< lottie src="/images/juicy-json/juicy-girl-and-guy-preparing-start-up-rocket-to-launch-with-ideas.json" width="65%" >}}
+{{< ls-lottie src="/images/juicy-json/juicy-girl-and-guy-preparing-start-up-rocket-to-launch-with-ideas.json" width="65%" >}}
 
 ## Siapa Kami
 
@@ -35,7 +36,7 @@ Kami di sini untuk terus membangun perangkat lunak yang lebih baik — satu pemb
 ### Artem Meleshko
 
 {{< cards cols="1" >}}
-  {{< card
+  {{< ls-card
     link="https://www.linkedin.com/in/artem-meleshko-s/"
     title="Artem Meleshko"
     tag="Pendiri & Engineer"
@@ -60,7 +61,7 @@ Dia belajar di Universitas Nasional Pembuatan Kapal Admiral Makarov, kontributor
 ### Anna Kosenko
 
 {{< cards cols="1" >}}
-  {{< card
+  {{< ls-card
     link="https://www.linkedin.com/in/anna-kosenko-kosenko/"
     title="Anna Kosenko"
     tag="Direktur"
@@ -86,4 +87,4 @@ Terima kasih telah menggunakan aplikasi kami dan mendukung pengembangan independ
 
 Berlangganan kami di jejaring sosial untuk mendapatkan berita terbaru, pembaruan aplikasi, tips, dan informasi berguna:
 
-{{< social-cards >}}
+{{< ls-social-cards >}}

@@ -7,7 +7,7 @@ tags: ["evermusic", "flacbox", "cloud", "soubor", "účet", "správce", "připoj
 keywords: ["připojit cloudovou službu k Evermusic", "nahrát soubory na Google Drive", "cloudová integrace Flacbox", "použít OneDrive s Evermusic", "cloudový přístup k souborům Evertag", "připojit Dropbox k iOS hudebnímu přehrávači", "správce souborů pro cloudové služby"]
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **Shrnutí:** Nahrajte své hudební nebo mediální soubory do jakékoli podporované cloudové služby (Google Drive, Dropbox, OneDrive a další), poté tuto službu připojte v Evermusic, Flacbox nebo Evertag pro streamování nebo stahování souborů přímo na iPhone, iPad nebo Mac.
@@ -76,38 +76,38 @@ Rozlučte se s omezeními úložiště a přivítejte pohodlí!
 
 ## Často kladené otázky
 
-{{% details title="Které cloudové služby jsou podporovány?" closed="true" %}}
+{{% ls-details title="Které cloudové služby jsou podporovány?" closed="true" %}}
 Evermusic, Flacbox a Evertag podporují Google Drive, Dropbox, OneDrive, Box, MediaFire, Yandex.Disk, MEGA, MyDrive, pCloud a další poskytovatele cloudových služeb. Můžete také připojit vlastní servery WebDAV, SMB a FTP.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Mohu streamovat hudbu přímo z cloudu bez stahování?" closed="true" %}}
+{{% ls-details title="Mohu streamovat hudbu přímo z cloudu bez stahování?" closed="true" %}}
 Ano. Všechny tři aplikace podporují streamování zvukových souborů přímo z připojeného cloudového úložiště. Soubory si také můžete stáhnout pro offline přehrávání, když nemáte přístup k internetu.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Existuje v aplikaci omezení velikosti souboru nebo úložiště?" closed="true" %}}
+{{% ls-details title="Existuje v aplikaci omezení velikosti souboru nebo úložiště?" closed="true" %}}
 Aplikace neukládají vlastní omezení velikosti souborů ani úložiště. Dostupné úložiště závisí na vašem plánu cloudové služby a lokálním úložišti vašeho zařízení pro stažené soubory.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Mohu připojit více cloudových účtů současně?" closed="true" %}}
+{{% ls-details title="Mohu připojit více cloudových účtů současně?" closed="true" %}}
 Ano. Můžete připojit více cloudových služeb a více účtů od stejného poskytovatele současně. Všechny připojené účty se zobrazují na záložce Připojení pro snadné přepínání.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Musím soubory znovu nahrát, pokud přejdu na jinou aplikaci?" closed="true" %}}
+{{% ls-details title="Musím soubory znovu nahrát, pokud přejdu na jinou aplikaci?" closed="true" %}}
 Ne. Protože jsou vaše soubory uloženy v cloudu, můžete stejný cloudový účet připojit k Evermusic, Flacbox nebo Evertag bez opětovného nahrávání. Každá aplikace přistupuje ke stejným souborům z vašeho cloudového úložiště.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Jsou data mého cloudového účtu v bezpečí?" closed="true" %}}
+{{% ls-details title="Jsou data mého cloudového účtu v bezpečí?" closed="true" %}}
 Ano. Aplikace používá pouze oficiální SDK a šifrovaná připojení pro interakci s cloudovými službami. Vaše přihlašovací jméno a heslo nejsou aplikací nikdy ukládány. Při přihlášení aplikace zobrazí oficiální autorizační stránku poskytovanou cloudovou službou. Po úspěšné autorizaci cloudový poskytovatel odešle autorizační token aplikaci, který je bezpečně uložen v Keychain zařízení. Tento token se používá pro všechny API požadavky.<br><br>
 Aplikace nesdílí žádné informace z vašeho cloudového účtu. Přístup můžete kdykoli odvolat ze stránky nastavení vašeho cloudového účtu ve webovém prohlížeči nebo odpojit účet uvnitř aplikace.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Jak odpojím cloudovou službu nebo změním její konfiguraci?" closed="true" %}}
+{{% ls-details title="Jak odpojím cloudovou službu nebo změním její konfiguraci?" closed="true" %}}
 Najděte cloudové úložiště na záložce **Připojení** v aplikaci a klepněte na tlačítko **...** vedle něj. Zobrazí se tyto možnosti:<br>
 - **Přejmenovat** -- změna zobrazovaného názvu cloudové služby<br>
 - **Nastavení** -- úprava konfigurace nebo opětovná autorizace, pokud token vypršel<br>
 - **Odpojit** -- úplné odebrání připojení. Tím se odstraní všechny skladby z této cloudové služby z hudební knihovny aplikace, ale soubory zůstanou na serveru
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Jak odvolám přístup aplikace k mému cloudovému účtu?" closed="true" %}}
+{{% ls-details title="Jak odvolám přístup aplikace k mému cloudovému účtu?" closed="true" %}}
 Přihlaste se ke svému cloudovému účtu ve webovém prohlížeči a otevřete stránku nastavení účtu nebo zabezpečení. Najděte seznam připojených aplikací třetích stran a odeberte aplikaci, kterou již nechcete autorizovat. Cloudový účet můžete také odpojit uvnitř aplikace -- tím se odstraní autorizační token z vašeho zařízení. Pokud aplikaci úplně smažete, všechna stažená data a přístupové tokeny budou automaticky odstraněny.
-{{% /details %}}
+{{% /ls-details %}}

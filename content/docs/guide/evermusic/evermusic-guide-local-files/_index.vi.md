@@ -20,7 +20,7 @@ Phần Tệp cục bộ đóng vai trò là trung tâm quản lý các tệp n�
 Trình quản lý tệp tích hợp này cho phép bạn chỉnh sửa tệp và cung cấp nhiều phương pháp nhập tệp âm thanh vào ứng dụng.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Màn hình Tệp cục bộ Evermusic" image="/docs/guide/evermusic/evermusic-guide-local-files/img/local-files-main.webp" >}}
+  {{< ls-card title="" subtitle="Màn hình Tệp cục bộ Evermusic" image="/docs/guide/evermusic/evermusic-guide-local-files/img/local-files-main.webp" >}}
 {{< /cards >}}
 
 ## Tải xuống tệp từ lưu trữ đám mây
@@ -40,7 +40,7 @@ Dễ dàng nhập tệp từ thiết bị của bạn như được mô tả [t�
 Truyền tệp bằng kết nối cáp như được mô tả [tại đây](/docs/howto/how-to-transfer-files-from-my-mac-to-iphone-or-ipad-using-finder).
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="iTunes / Finder File Sharing" image="/docs/guide/evermusic/evermusic-guide-local-files/img/local-files-itunes-file-sharing.webp" >}}
+  {{< ls-card title="" subtitle="iTunes / Finder File Sharing" image="/docs/guide/evermusic/evermusic-guide-local-files/img/local-files-itunes-file-sharing.webp" >}}
 {{< /cards >}}
 
 ## Wi-Fi Drive
@@ -48,7 +48,7 @@ Truyền tệp bằng kết nối cáp như được mô tả [tại đây](/doc
 Truyền tệp không dây như được mô tả [tại đây](/docs/howto/how-to-transfer-files-wirelessly-from-a-computer-to-an-iphone-using-wifi-drive).
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Cài đặt máy chủ Wi-Fi Drive" image="/docs/guide/evermusic/evermusic-guide-local-files/img/local-files-wifidrive-settings.webp" >}}
+  {{< ls-card title="" subtitle="Cài đặt máy chủ Wi-Fi Drive" image="/docs/guide/evermusic/evermusic-guide-local-files/img/local-files-wifidrive-settings.webp" >}}
 {{< /cards >}}
 
 ## Hàng đợi truyền
@@ -56,7 +56,7 @@ Truyền tệp không dây như được mô tả [tại đây](/docs/howto/how-
 Ở góc trên bên trái của thanh điều hướng, bạn sẽ tìm thấy nút «Truyền». Nhấn vào đó để truy cập hàng đợi truyền, nơi bạn có thể theo dõi và quản lý tất cả các lần tải xuống và tải lên. Ngoài ra, bạn có thể điều chỉnh tốc độ hàng đợi truyền và loại mạng trong cài đặt ứng dụng.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Hàng đợi truyền tệp" image="/docs/guide/evermusic/evermusic-guide-local-files/img/local-files-file-transfers.webp" >}}
+  {{< ls-card title="" subtitle="Hàng đợi truyền tệp" image="/docs/guide/evermusic/evermusic-guide-local-files/img/local-files-file-transfers.webp" >}}
 {{< /cards >}}
 
 ## Phần Truy cập nhanh
@@ -68,7 +68,7 @@ Truyền tệp không dây như được mô tả [tại đây](/docs/howto/how-
 Phần này hiển thị tất cả các tệp hoặc thư mục đã mở gần đây.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Tệp và thư mục đã mở gần đây" image="/docs/guide/evermusic/evermusic-guide-local-files/img/local-files-recents.webp" >}}
+  {{< ls-card title="" subtitle="Tệp và thư mục đã mở gần đây" image="/docs/guide/evermusic/evermusic-guide-local-files/img/local-files-recents.webp" >}}
 {{< /cards >}}
 
 ## Yêu thích
@@ -76,7 +76,7 @@ Phần này hiển thị tất cả các tệp hoặc thư mục đã mở gần
 Bạn có thể đánh dấu tệp hoặc thư mục là yêu thích và truy cập chúng trong phần này. Hơn nữa, bạn có thể thêm thư mục nằm trên thiết bị của bạn vào mục yêu thích. Để làm điều này, mở phần yêu thích, nhấn vào ba chấm ở góc trên bên phải và chọn mục menu «Thêm thư mục». Làm theo hướng dẫn để thêm thư mục từ thiết bị của bạn vào mục yêu thích để truy cập nhanh.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Yêu thích — Thêm thư mục từ thiết bị của bạn" image="/docs/guide/evermusic/evermusic-guide-local-files/img/local-files-favorites.webp" >}}
+  {{< ls-card title="" subtitle="Yêu thích — Thêm thư mục từ thiết bị của bạn" image="/docs/guide/evermusic/evermusic-guide-local-files/img/local-files-favorites.webp" >}}
 {{< /cards >}}
 
 ## Thanh công cụ trên cùng
@@ -91,7 +91,7 @@ Thanh công cụ trên cùng, nằm dưới thanh điều hướng, cung cấp m
 Bạn có thể hiện hoặc ẩn thanh công cụ trên cùng bằng cử chỉ vuốt xuống.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Thanh công cụ trên cùng cho thư mục hiện tại" image="/docs/guide/evermusic/evermusic-guide-local-files/img/local-files-top-toolbar.webp" >}}
+  {{< ls-card title="" subtitle="Thanh công cụ trên cùng cho thư mục hiện tại" image="/docs/guide/evermusic/evermusic-guide-local-files/img/local-files-top-toolbar.webp" >}}
 {{< /cards >}}
 
 ## Thư mục đặc biệt
@@ -128,7 +128,7 @@ Hiển thị các tệp và thư mục được lưu trữ trong thư mục Docu
 Hiển thị các tệp nằm trên thiết bị của bạn nhưng trong các ứng dụng khác. Bạn có thể nhập chúng vào ứng dụng này bằng bộ chọn tệp hệ thống. Để kích hoạt bộ chọn, chọn «Mở tệp...» để chọn tệp hoặc «Mở thư mục...» để chọn thư mục. Hướng dẫn chi tiết về cách nhập nhạc cục bộ được lưu trữ trên iPhone hoặc Mac của bạn có tại [đây](/docs/howto/how-to-play-local-music-stored-on-your-iphone-or-mac). Bạn cũng có thể kết nối thư mục nằm trên thiết bị của bạn và có quyền truy cập nhanh vào nội dung thư mục. Sử dụng mục menu «Kết nối thư mục» và chọn thư mục trên thiết bị của bạn. Nhấn «Hoàn tất» và ứng dụng sẽ tạo liên kết đến thư mục đó với quyền đọc/ghi và bạn có thể quản lý tệp trực tiếp từ ứng dụng này. Để ngắt kết nối thư mục nằm trên thiết bị của bạn, nhấn nút «Thêm hành động» và chọn «Ngắt kết nối».
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Tệp trên iPhone / iPad / Mac này" image="/docs/guide/evermusic/evermusic-guide-local-files/img/local-files-on-this-device.webp" >}}
+  {{< ls-card title="" subtitle="Tệp trên iPhone / iPad / Mac này" image="/docs/guide/evermusic/evermusic-guide-local-files/img/local-files-on-this-device.webp" >}}
 {{< /cards >}}
 
 ## Nhập tệp từ USB flash drive đã kết nối
@@ -151,7 +151,7 @@ Menu thêm hành động cho thư mục đang mở hiện tại nằm ở góc t
 Nếu bạn cần chỉnh sửa nhiều tệp, hãy kích hoạt chế độ chọn bằng cách nhấn nút thêm hành động «...» trên thanh điều hướng ở góc trên bên phải rồi chọn mục menu «Chọn». Điều này sẽ hiển thị hộp kiểm gần mỗi tệp. Chọn các tệp mong muốn bằng cách nhấn vào hộp kiểm của chúng. Bạn có thể thực hiện các hành động sau trên các tệp đã chọn.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Hành động chế độ chọn cho tệp cục bộ" image="/docs/guide/evermusic/evermusic-guide-local-files/img/local-files-selection-mode.webp" >}}
+  {{< ls-card title="" subtitle="Hành động chế độ chọn cho tệp cục bộ" image="/docs/guide/evermusic/evermusic-guide-local-files/img/local-files-selection-mode.webp" >}}
 {{< /cards >}}
 
 - **Phát tiếp theo:** thêm tệp hoặc thư mục đã chọn lên đầu hàng đợi trình phát theo thứ tự sắp xếp hiện tại.
@@ -186,7 +186,7 @@ Nếu bạn cần chỉnh sửa nhiều tệp, hãy kích hoạt chế độ ch�
 ## Thư mục ngoại tuyến
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Menu Thêm hành động cho thư mục ngoại tuyến" image="/docs/guide/evermusic/evermusic-guide-local-files/img/local-files-offline-folders.webp" >}}
+  {{< ls-card title="" subtitle="Menu Thêm hành động cho thư mục ngoại tuyến" image="/docs/guide/evermusic/evermusic-guide-local-files/img/local-files-offline-folders.webp" >}}
 {{< /cards >}}
 
 Chế độ ngoại tuyến là tính năng tiện dụng cho phép bạn truy cập nhạc yêu thích ngay cả khi không kết nối internet. Khi bạn bật chế độ ngoại tuyến cho bất kỳ album, nghệ sĩ, danh sách phát, thể loại hoặc thư mục từ xa nào, tất cả các tệp trong bộ sưu tập đó sẽ tự động được tải xuống thiết bị của bạn để phát ngoại tuyến. Bạn có thể truy cập thuận tiện các tệp này trong phần «Thư mục ngoại tuyến» của ứng dụng.
@@ -204,7 +204,7 @@ Hướng dẫn chi tiết về Cách phát nhạc ngoại tuyến trong Evermusi
 Hầu hết mọi hành vi của màn hình Tệp cục bộ — từ băng thông mạng đến nơi tải xuống đến cách hình thu nhỏ được lưu cache — đều có thể cấu hình trong **Cài đặt → Trình quản lý tệp**. Mở nó bất cứ khi nào bạn muốn tinh chỉnh tốc độ truyền, tiết kiệm dung lượng lưu trữ hoặc hạn chế ứng dụng chỉ dùng Wi-Fi.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Màn hình Cài đặt trình quản lý tệp" image="/docs/guide/evermusic/evermusic-guide-local-files/img/local-files-file-manager-settings.webp" >}}
+  {{< ls-card title="" subtitle="Màn hình Cài đặt trình quản lý tệp" image="/docs/guide/evermusic/evermusic-guide-local-files/img/local-files-file-manager-settings.webp" >}}
 {{< /cards >}}
 
 Màn hình hiển thị mọi tùy chọn được nhóm thành các phần có nhãn rõ ràng:

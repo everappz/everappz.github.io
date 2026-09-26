@@ -12,7 +12,7 @@ authors:
     image: "/images/about/artem-meleshko-founder-everappz.webp"
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 ## Evermusic: el reproductor de música al núvol per a iPhone i iPad
 
@@ -22,7 +22,7 @@ Evermusic és un reproductor de música al núvol que es connecta al teu emmagat
 
 ## Mira el vídeo promocional
 
-{{< youtubecard id="BwD0XLgdzEE" title="Evermusic Promo Video" >}}
+{{< ls-youtubecard id="BwD0XLgdzEE" title="Evermusic Promo Video" >}}
 
 ## Funcions clau mostrades al vídeo
 
@@ -36,14 +36,14 @@ Evermusic és un reproductor de música al núvol que es connecta al teu emmagat
 
 ## Preguntes freqüents
 
-{{% details title="Què és Evermusic?" closed="true" %}}
+{{% ls-details title="Què és Evermusic?" closed="true" %}}
 Evermusic és un reproductor de música al núvol per a iPhone i iPad. Es connecta a serveis d'emmagatzematge al núvol com Dropbox, Google Drive i OneDrive, permetent-te reproduir i descarregar els teus propis fitxers de música. Admet FLAC, MP3, AAC, WAV i altres formats d'àudio.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Evermusic és gratuït per descarregar?" closed="true" %}}
+{{% ls-details title="Evermusic és gratuït per descarregar?" closed="true" %}}
 Sí. Evermusic és gratuït per descarregar amb funcions bàsiques. Una actualització Premium única desbloqueja l'equalitzador, el crossfade i connexions de comptes al núvol addicionals.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Quins serveis al núvol admet Evermusic?" closed="true" %}}
+{{% ls-details title="Quins serveis al núvol admet Evermusic?" closed="true" %}}
 Evermusic admet més de 12 plataformes al núvol incloent iCloud Drive, Dropbox, Google Drive, OneDrive, Box, MEGA, Yandex.Disk, pCloud i qualsevol servidor amb protocols WebDAV o SMB.
-{{% /details %}}
+{{% /ls-details %}}

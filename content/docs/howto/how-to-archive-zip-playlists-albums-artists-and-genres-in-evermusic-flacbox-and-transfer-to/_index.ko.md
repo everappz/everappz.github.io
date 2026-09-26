@@ -7,7 +7,7 @@ tags: ["evermusic", "flacbox", "아카이브", "백업", "내보내기", "재생
 readingTime: 2
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **요약:** Evermusic과 Flacbox는 모든 재생 목록, 앨범, 아티스트 또는 장르를 M3U 재생 목록, 앨범 아트워크 및 모든 오디오 파일과 함께 ZIP 파일로 아카이브할 수 있습니다. ZIP을 다른 기기로 전송하고, 압축을 풀고, M3U를 가져와서 재생 목록을 즉시 재구축하세요.
@@ -104,22 +104,22 @@ readingTime: 2
 
 ## 자주 묻는 질문
 
-{{% details title="ZIP 아카이브에는 무엇이 포함되나요?" closed="true" %}}
+{{% ls-details title="ZIP 아카이브에는 무엇이 포함되나요?" closed="true" %}}
 아카이브에는 모든 오디오 파일, 트랙 순서를 유지하는 M3U 재생 목록 파일, 별도의 이미지 파일로 저장된 재생 목록의 앨범 아트워크가 포함됩니다.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="클라우드 파일에서도 아카이브가 작동하나요?" closed="true" %}}
+{{% ls-details title="클라우드 파일에서도 아카이브가 작동하나요?" closed="true" %}}
 예. 앱은 아카이브에 추가하기 전에 클라우드에 저장된 모든 파일을 자동으로 다운로드합니다. 파일 전송 섹션에서 다운로드 진행 상황을 모니터링할 수 있습니다.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="앨범, 아티스트, 장르도 아카이브할 수 있나요?" closed="true" %}}
+{{% ls-details title="앨범, 아티스트, 장르도 아카이브할 수 있나요?" closed="true" %}}
 예. '아카이브에 추가' 옵션은 재생 목록, 앨범, 아티스트, 장르에서 사용할 수 있습니다. 모든 항목에 대해 프로세스가 동일합니다.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="아카이브를 다른 기기로 어떻게 전송하나요?" closed="true" %}}
+{{% ls-details title="아카이브를 다른 기기로 어떻게 전송하나요?" closed="true" %}}
 ZIP을 클라우드 스토리지(Google Drive, Dropbox 등)에 업로드하거나, AirDrop을 사용하거나, Evermusic 및 Flacbox의 내장 Wi-Fi Drive 기능을 통해 무선으로 전송할 수 있습니다.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="전송 후에도 재생 목록 구조가 유지되나요?" closed="true" %}}
+{{% ls-details title="전송 후에도 재생 목록 구조가 유지되나요?" closed="true" %}}
 예. M3U 파일은 상대 경로와 함께 재생 목록 구조를 저장합니다. 새 기기에서 압축 해제 후 M3U 파일을 가져와서 원래 순서의 모든 트랙으로 재생 목록을 재구축할 수 있습니다.
-{{% /details %}}
+{{% /ls-details %}}

@@ -15,7 +15,7 @@ readingTime: 5
 **Editor tagů** je hlavní obrazovka aplikace Evertag, kde můžete zobrazovat a upravovat metadata audio souborů. Tuto obrazovku otevřete klepnutím na soubor ze sekce **Místní soubory** nebo z libovolného připojeného účtu **cloudového úložiště**.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Obrazovka Editoru tagů Evertag" image="/docs/guide/evertag/img/tag-editor.webp" >}}
+  {{< ls-card title="" subtitle="Obrazovka Editoru tagů Evertag" image="/docs/guide/evertag/img/tag-editor.webp" >}}
 {{< /cards >}}
 
 ## Režimy úprav
@@ -38,7 +38,7 @@ Ve výchozím nastavení aplikace otevírá editor tagů v režimu jednoho soubo
 Pro přístup ke všem dostupným tagům se posuňte dolů na obrazovce a klepněte na možnost **Zobrazit rozšířené tagy**. Tím se editor přepne do rozšířeného režimu, který umožňuje upravovat více než **120 polí metadat**, včetně **MusicBrainz tagů**, **Textů**, **Poradních hodnocení**, hodnot replay-gain, pořadí řazení, metadat podcastů a dalšího. Použijte **Nastavení → Editor audio tagů → Tlačítka na hlavní obrazovce** pro trvalé přepnutí Zobrazit rozšířené tagy, aby bylo vždy zapnuté.
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Panel akcí na spodní části" image="/docs/guide/evertag/img/tag-editor-bottom-actions.webp" >}}
+{{< ls-card title="" subtitle="Panel akcí na spodní části" image="/docs/guide/evertag/img/tag-editor-bottom-actions.webp" >}}
 {{< /cards >}}
 
 ## Hromadný režim
@@ -53,7 +53,7 @@ Do hromadných úprav lze vstoupit dvěma způsoby:
    - Otevřete libovolný soubor, posuňte se dolů a klepněte na **Upravit soubory současně** pro načtení všech souborů ze stejné složky.
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Hromadný režim úprav" image="/docs/guide/evertag/img/tag-editor-batch-editing.webp" >}}
+{{< ls-card title="" subtitle="Hromadný režim úprav" image="/docs/guide/evertag/img/tag-editor-batch-editing.webp" >}}
 {{< /cards >}}
 
 Po úpravách klepněte na **Uložit** pro použití změn.
@@ -72,19 +72,19 @@ Texty nemusíte psát od nuly. Editor obsahuje zkratky pro vyhledávání jední
 Každá zkratka se zobrazí pouze tehdy, když je příslušná služba dostupná z vašeho zařízení. Klepněte na službu, zkopírujte texty (nebo LRC časové značky), které chcete, vraťte se do Evertag a vložte je do textového pole — poté **Uložit** pro zápis textů zpět do tagů audio souboru.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Stránky textů" image="/docs/guide/evertag/img/tag-editor-lyrics-pages.webp" >}}
+  {{< ls-card title="" subtitle="Stránky textů" image="/docs/guide/evertag/img/tag-editor-lyrics-pages.webp" >}}
 {{< /cards >}}
 
 Vyberte jazyk z výběru:
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Výběr jazyka textů" image="/docs/guide/evertag/img/tag-editor-lyrics-language-select.webp" >}}
+  {{< ls-card title="" subtitle="Výběr jazyka textů" image="/docs/guide/evertag/img/tag-editor-lyrics-language-select.webp" >}}
 {{< /cards >}}
 
 Poté vložte nebo napište text textů. Evertag podporuje prostý text i časované (synchronizované) texty — zástupný text zobrazuje příklad formátu LRC, který je přesně to, co Lrclib a Lyricsify vrací pro synchronizované výsledky.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Editor textu textů" image="/docs/guide/evertag/img/tag-editor-lyrics-text.webp" >}}
+  {{< ls-card title="" subtitle="Editor textu textů" image="/docs/guide/evertag/img/tag-editor-lyrics-text.webp" >}}
 {{< /cards >}}
 
 ## Nastavení hodnocení a poradního hodnocení
@@ -96,7 +96,7 @@ Rozšířený editor nabízí hvězdičkový ovládací prvek **Hodnocení** spo
 Použijte pole **Hodnocení** pro přiřazení osobního skóre od jedné do pěti hvězdiček. Hodnota se zapíše do standardního tagu hodnocení souboru (POPM pro ID3, `rate` pro MP4, `RATING` pro Vorbis/APE atd.), takže ostatní aplikace, které čtou tento tag — včetně aplikace Music, Plex, Roon a většiny desktopových editorů tagů — ihned zachytí vaše hodnocení.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Hodnocení" image="/docs/guide/evertag/img/tag-editor-rating.webp" >}}
+  {{< ls-card title="" subtitle="Hodnocení" image="/docs/guide/evertag/img/tag-editor-rating.webp" >}}
 {{< /cards >}}
 
 ### Poradní hodnocení
@@ -117,7 +117,7 @@ Toto pole budete chtít nastavit nebo opravit, když:
 Hodnota je uložena ve standardním poli poradního hodnocení pro formát souboru (`rtng` pro MP4, `TXXX:ITUNESADVISORY` pro ID3, `ITUNESADVISORY` pro Vorbis), takže jakýkoli přehrávač, který čte metadata rodičovské kontroly, uvidí vaši aktualizaci.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Poradní hodnocení textů" image="/docs/guide/evertag/img/lyrics-advisory-rating.webp" >}}
+  {{< ls-card title="" subtitle="Poradní hodnocení textů" image="/docs/guide/evertag/img/lyrics-advisory-rating.webp" >}}
 {{< /cards >}}
 
 ## Úprava obalu alba
@@ -129,7 +129,7 @@ Pro změnu obalu alba:
 3. Vyberte obrázek pro použití jako obal.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Výběr obrázku" image="/docs/guide/evertag/img/select-image.webp" >}}
+  {{< ls-card title="" subtitle="Výběr obrázku" image="/docs/guide/evertag/img/select-image.webp" >}}
 {{< /cards >}}
 
 ## Další akce v Editoru tagů
@@ -137,7 +137,7 @@ Pro změnu obalu alba:
 Další možnosti úprav jsou dostupné prostřednictvím panelu nástrojů pod zobrazením obalů.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Nabídka Dalších akcí" image="/docs/guide/evertag/img/tag-editor-more-actions.webp" >}}
+  {{< ls-card title="" subtitle="Nabídka Dalších akcí" image="/docs/guide/evertag/img/tag-editor-more-actions.webp" >}}
 {{< /cards >}}
 
 ### Automatické vyhledávání audio tagů
@@ -150,13 +150,13 @@ Aplikace používá databázi MusicBrainz — jednu z nejkomplexnějších datab
 Použijte metadata pro vyhledávání správného obalu alba na webu.  
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Vyhledávání obalu alba" image="/docs/guide/evertag/img/search-album-cover.webp" >}}
+  {{< ls-card title="" subtitle="Vyhledávání obalu alba" image="/docs/guide/evertag/img/search-album-cover.webp" >}}
 {{< /cards >}}
 
 Po nalezení uložte obrázek do **Fotek** pomocí systémové kontextové nabídky.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Přidat obrázek do Fotek" image="/docs/guide/evertag/img/add-image-to-photos.webp" >}}
+  {{< ls-card title="" subtitle="Přidat obrázek do Fotek" image="/docs/guide/evertag/img/add-image-to-photos.webp" >}}
 {{< /cards >}}
 
 Poté se vraťte do editoru tagů, klepněte na ikonu fotoaparátu, přejděte do **Knihovny fotek** a vyberte uložený obrázek. Aplikace jej nastaví jako obal vašeho audio souboru.
@@ -178,19 +178,19 @@ Ručně vyhledejte metadata alba pomocí databáze MusicBrainz.
 - Vyberte album  
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Výběr alba" image="/docs/guide/evertag/img/select-album-results.webp" >}}
+  {{< ls-card title="" subtitle="Výběr alba" image="/docs/guide/evertag/img/select-album-results.webp" >}}
 {{< /cards >}}
 
 - Vyberte správnou píseň  
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Výběr písně" image="/docs/guide/evertag/img/select-a-song.webp" >}}
+  {{< ls-card title="" subtitle="Výběr písně" image="/docs/guide/evertag/img/select-a-song.webp" >}}
 {{< /cards >}}
 
 - Zvolte, které tagy použít  
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Výběr audio tagů" image="/docs/guide/evertag/img/select-audio-tags.webp" >}}
+  {{< ls-card title="" subtitle="Výběr audio tagů" image="/docs/guide/evertag/img/select-audio-tags.webp" >}}
 {{< /cards >}}
 
 Klepnutím na **Hotovo** použijte vybraná metadata na skladbu.

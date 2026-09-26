@@ -74,18 +74,18 @@ Evervideoはすべてのクラウドプロバイダーから公式SDKとOAuthベ
 
 {{< cards cols="2">}}
 
-{{< card icon="map" link="/docs/guide/evervideo/evervideo-guide-navigation" title="ナビゲーション" subtitle="iPhoneのタブバー、iPadとMacの左メニュー、常時表示のコンパクトメディアプレーヤー。" >}}
+{{< ls-card icon="map" link="/docs/guide/evervideo/evervideo-guide-navigation" title="ナビゲーション" subtitle="iPhoneのタブバー、iPadとMacの左メニュー、常時表示のコンパクトメディアプレーヤー。" >}}
 
-{{< card icon="folder" link="/docs/guide/evervideo/evervideo-guide-files" title="ファイル" subtitle="クラウド、NAS、RTSPストリーム、ローカルファイル、USBドライブ、転送キュー用の統合タブ。" >}}
+{{< ls-card icon="folder" link="/docs/guide/evervideo/evervideo-guide-files" title="ファイル" subtitle="クラウド、NAS、RTSPストリーム、ローカルファイル、USBドライブ、転送キュー用の統合タブ。" >}}
 
-{{< card icon="collection" link="/docs/guide/evervideo/evervideo-guide-video-library" title="メディアライブラリ" subtitle="アルバム、ジャンル、最近の項目、お気に入りで閲覧 — iOS写真ライブラリとApple Musicライブラリも対応。" >}}
+{{< ls-card icon="collection" link="/docs/guide/evervideo/evervideo-guide-video-library" title="メディアライブラリ" subtitle="アルバム、ジャンル、最近の項目、お気に入りで閲覧 — iOS写真ライブラリとApple Musicライブラリも対応。" >}}
 
-{{< card icon="music-note" link="/docs/guide/evervideo/evervideo-guide-playlists" title="プレイリスト" subtitle="クラウド、ローカル、写真、またはMusicライブラリからプレイリストを作成し、M3U / M3U8 / CUEをインポート。" >}}
+{{< ls-card icon="music-note" link="/docs/guide/evervideo/evervideo-guide-playlists" title="プレイリスト" subtitle="クラウド、ローカル、写真、またはMusicライブラリからプレイリストを作成し、M3U / M3U8 / CUEをインポート。" >}}
 
-{{< card icon="play" link="/docs/guide/evervideo/evervideo-guide-player" title="メディアプレーヤー" subtitle="ピクチャーインピクチャー、オーディオ・ビデオトラック、字幕、オーディオ・ビデオイコライザー、AirPlay、Chromecast。" >}}
+{{< ls-card icon="play" link="/docs/guide/evervideo/evervideo-guide-player" title="メディアプレーヤー" subtitle="ピクチャーインピクチャー、オーディオ・ビデオトラック、字幕、オーディオ・ビデオイコライザー、AirPlay、Chromecast。" >}}
 
-{{< card icon="adjustments" link="/docs/guide/evervideo/evervideo-guide-settings" title="設定" subtitle="オーディオエンジン、ビデオデコーダー、字幕、ライブラリ、ファイルマネージャー、ウィジェット、パーソナライズ、言語、バックアップ。" >}}
+{{< ls-card icon="adjustments" link="/docs/guide/evervideo/evervideo-guide-settings" title="設定" subtitle="オーディオエンジン、ビデオデコーダー、字幕、ライブラリ、ファイルマネージャー、ウィジェット、パーソナライズ、言語、バックアップ。" >}}
 
-{{< card icon="question-mark-circle" link="/docs/faq/evervideo" title="FAQ" subtitle="Evervideoに関する最も一般的な質問への回答を見つけてください。" >}}
+{{< ls-card icon="question-mark-circle" link="/docs/faq/evervideo" title="FAQ" subtitle="Evervideoに関する最も一般的な質問への回答を見つけてください。" >}}
 
 {{< /cards >}}

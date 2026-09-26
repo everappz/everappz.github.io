@@ -7,7 +7,7 @@ tags: ["spotify", "עטיפת אלבום", "mp3", "מטא-נתונים", "עור
 readingTime: 3
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **בקצרה:** Spotify לא מאפשר לכם לשנות עטיפות אלבומים לשירים בסטרימינג, אבל אפשר לעדכן עטיפות לקבצים מקומיים. הפעילו את תכונת הקבצים המקומיים של Spotify, העתיקו את המוזיקה לתיקיית Spotify ואז השתמשו באפליקציית Evertag החינמית לעריכת עטיפות אלבומים ומטא-נתונים. השינויים יופיעו ב-Spotify לאחר הפעלה מחדש.
@@ -25,8 +25,8 @@ readingTime: 3
 התחילו בהורדת אפליקציית **Evertag** מה-App Store. היא חינמית וזמינה גם ל-**iOS** וגם ל-**macOS**.
 
 {{< cards cols="2">}}
-{{< card link="https://apps.apple.com/app/apple-store/id1450763230?pt=95781850&ct=everappzcom&mt=8" title="Evertag ל-iOS" icon="download" tag="Free" >}}
-{{< card link="https://apps.apple.com/app/apple-store/id1594027661?pt=95781850&ct=everappzcom&mt=8" title="Evertag ל-macOS" icon="download" tag="Free" >}}
+{{< ls-card link="https://apps.apple.com/app/apple-store/id1450763230?pt=95781850&ct=everappzcom&mt=8" title="Evertag ל-iOS" icon="download" tag="Free" >}}
+{{< ls-card link="https://apps.apple.com/app/apple-store/id1594027661?pt=95781850&ct=everappzcom&mt=8" title="Evertag ל-macOS" icon="download" tag="Free" >}}
 {{< /cards >}}
 
 ## הפעלת ספריה מקומית ב-Spotify
@@ -36,7 +36,7 @@ readingTime: 3
 ### פתחו את אפליקציית Spotify
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="ממשק אפליקציית Spotify הראשי" image="/docs/howto/how-to-change-album-covers-for-local-tracks-on-spotify-step-by-step-guide-mobile-desktop/spotify-main.webp" >}}
+{{< ls-card title="" subtitle="ממשק אפליקציית Spotify הראשי" image="/docs/howto/how-to-change-album-covers-for-local-tracks-on-spotify-step-by-step-guide-mobile-desktop/spotify-main.webp" >}}
 {{< /cards >}}
 
 ### הקישו על סמל הפרופיל שלכם
@@ -44,7 +44,7 @@ readingTime: 3
 חפשו בפינה השמאלית העליונה של מסך הבית של Spotify והקישו על תמונת הפרופיל שלכם כדי לפתוח את התפריט.
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="אווטאר ואפשרויות Spotify" image="/docs/howto/how-to-change-album-covers-for-local-tracks-on-spotify-step-by-step-guide-mobile-desktop/spotify-avatar-options.webp" >}}
+{{< ls-card title="" subtitle="אווטאר ואפשרויות Spotify" image="/docs/howto/how-to-change-album-covers-for-local-tracks-on-spotify-step-by-step-guide-mobile-desktop/spotify-avatar-options.webp" >}}
 {{< /cards >}}
 
 ### בחרו «הגדרות ופרטיות»
@@ -52,7 +52,7 @@ readingTime: 3
 גללו למטה בתפריט ובחרו **הגדרות ופרטיות** כדי לפתוח את רשימת האפשרויות המלאה.
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="תפריט הגדרות Spotify" image="/docs/howto/how-to-change-album-covers-for-local-tracks-on-spotify-step-by-step-guide-mobile-desktop/spotify-settings.webp" >}}
+{{< ls-card title="" subtitle="תפריט הגדרות Spotify" image="/docs/howto/how-to-change-album-covers-for-local-tracks-on-spotify-step-by-step-guide-mobile-desktop/spotify-settings.webp" >}}
 {{< /cards >}}
 
 ### בחרו «אפליקציות ומכשירים»
@@ -60,7 +60,7 @@ readingTime: 3
 מצאו והקישו על פריט התפריט **אפליקציות ומכשירים** כדי לראות את הגדרות שילוב המכשירים.
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="אפליקציות ומכשירים Spotify" image="/docs/howto/how-to-change-album-covers-for-local-tracks-on-spotify-step-by-step-guide-mobile-desktop/spotify-apps-and-devices.webp" >}}
+{{< ls-card title="" subtitle="אפליקציות ומכשירים Spotify" image="/docs/howto/how-to-change-album-covers-for-local-tracks-on-spotify-step-by-step-guide-mobile-desktop/spotify-apps-and-devices.webp" >}}
 {{< /cards >}}
 
 ### הפעילו «קבצי אודיו מקומיים»
@@ -68,7 +68,7 @@ readingTime: 3
 הפעילו את המתג של **קבצי אודיו מקומיים**. כשתתבקשו, תנו ל-Spotify הרשאה לגשת לקבצי המוזיקה שלכם.
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="מתן הרשאת גישה ל-Spotify לקבצי מוזיקה" image="/docs/howto/how-to-change-album-covers-for-local-tracks-on-spotify-step-by-step-guide-mobile-desktop/spotify-access-to-music.webp" >}}
+{{< ls-card title="" subtitle="מתן הרשאת גישה ל-Spotify לקבצי מוזיקה" image="/docs/howto/how-to-change-album-covers-for-local-tracks-on-spotify-step-by-step-guide-mobile-desktop/spotify-access-to-music.webp" >}}
 {{< /cards >}}
 
 ### בדקו את תיקיית Spotify
@@ -76,7 +76,7 @@ readingTime: 3
 לאחר מתן ההרשאה, פתחו את אפליקציית **קבצים**, עברו ל**מיקומים > באייפון/אייפד שלי** ומצאו את תיקיית **Spotify**. כאן יש למקם את קבצי המוזיקה המקומיים.
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="קבצי מוזיקה של Spotify" image="/docs/howto/how-to-change-album-covers-for-local-tracks-on-spotify-step-by-step-guide-mobile-desktop/files-app-spotify-folder.webp" >}}
+{{< ls-card title="" subtitle="קבצי מוזיקה של Spotify" image="/docs/howto/how-to-change-album-covers-for-local-tracks-on-spotify-step-by-step-guide-mobile-desktop/files-app-spotify-folder.webp" >}}
 {{< /cards >}}
 
 ## הכנסת קבצי מוזיקה לתיקיית הספריה המקומית של Spotify
@@ -90,7 +90,7 @@ readingTime: 3
 ### פתחו את אפליקציית קבצים – מיקומים – במכשיר זה
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="תיקיית Spotify" image="/docs/howto/how-to-change-album-covers-for-local-tracks-on-spotify-step-by-step-guide-mobile-desktop/files-app-spotify-folder.webp" >}}
+{{< ls-card title="" subtitle="תיקיית Spotify" image="/docs/howto/how-to-change-album-covers-for-local-tracks-on-spotify-step-by-step-guide-mobile-desktop/files-app-spotify-folder.webp" >}}
 {{< /cards >}}
 
 ### העתיקו את תיקיית המוזיקה
@@ -98,7 +98,7 @@ readingTime: 3
 נווטו לתיקיית **המוזיקה** שלכם. הקישו והחזיקו כדי לפתוח את תפריט ההקשר ובחרו **העתק**.
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="גישה לאפשרויות תיקייה באפליקציית קבצים" image="/docs/howto/how-to-change-album-covers-for-local-tracks-on-spotify-step-by-step-guide-mobile-desktop/files-app-folder-options.webp" >}}
+{{< ls-card title="" subtitle="גישה לאפשרויות תיקייה באפליקציית קבצים" image="/docs/howto/how-to-change-album-covers-for-local-tracks-on-spotify-step-by-step-guide-mobile-desktop/files-app-folder-options.webp" >}}
 {{< /cards >}}
 
 ### הדביקו את תיקיית המוזיקה
@@ -106,7 +106,7 @@ readingTime: 3
 נווטו לתיקיית **Spotify**, הקישו והחזיקו על אזור ריק ובחרו **הדבק** מתפריט ההקשר.
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="הדבקת תיקייה למיקום היעד" image="/docs/howto/how-to-change-album-covers-for-local-tracks-on-spotify-step-by-step-guide-mobile-desktop/files-app-paste-folder.webp" >}}
+{{< ls-card title="" subtitle="הדבקת תיקייה למיקום היעד" image="/docs/howto/how-to-change-album-covers-for-local-tracks-on-spotify-step-by-step-guide-mobile-desktop/files-app-paste-folder.webp" >}}
 {{< /cards >}}
 
 ### המתינו לתהליך ההעתקה
@@ -114,7 +114,7 @@ readingTime: 3
 המתינו עד שהמערכת תסיים להעתיק את תיקיית המוזיקה לספריה המקומית של Spotify.
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="העתקת קבצי מוזיקה באמצעות אפליקציית קבצים" image="/docs/howto/how-to-change-album-covers-for-local-tracks-on-spotify-step-by-step-guide-mobile-desktop/files-app-copying-music.webp" >}}
+{{< ls-card title="" subtitle="העתקת קבצי מוזיקה באמצעות אפליקציית קבצים" image="/docs/howto/how-to-change-album-covers-for-local-tracks-on-spotify-step-by-step-guide-mobile-desktop/files-app-copying-music.webp" >}}
 {{< /cards >}}
 
 ### פתחו את הספריה המקומית של Spotify
@@ -122,7 +122,7 @@ readingTime: 3
 עכשיו חזרו לאפליקציית Spotify. הקישו על **הספריה שלך > קבצים מקומיים** ותראו את קבצי המוזיקה שהעתקתם.
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Spotify מציג את ספריית המוזיקה המקומית" image="/docs/howto/how-to-change-album-covers-for-local-tracks-on-spotify-step-by-step-guide-mobile-desktop/spotify-local-music-library.webp" >}}
+{{< ls-card title="" subtitle="Spotify מציג את ספריית המוזיקה המקומית" image="/docs/howto/how-to-change-album-covers-for-local-tracks-on-spotify-step-by-step-guide-mobile-desktop/spotify-local-music-library.webp" >}}
 {{< /cards >}}
 
 ## חיבור תיקיית Spotify באפליקציית Evertag
@@ -149,26 +149,26 @@ readingTime: 3
 - גללו ל**קבצים במכשיר זה** בסרגל הצד
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="צפייה בכל תיקיות המכשיר ב-Evertag" image="/docs/howto/how-to-change-album-covers-for-local-tracks-on-spotify-step-by-step-guide-mobile-desktop/evertag-all-device-folders.webp" >}}
+{{< ls-card title="" subtitle="צפייה בכל תיקיות המכשיר ב-Evertag" image="/docs/howto/how-to-change-album-covers-for-local-tracks-on-spotify-step-by-step-guide-mobile-desktop/evertag-all-device-folders.webp" >}}
 {{< /cards >}}
 
 - הקישו על **כל תיקיות המכשיר**
 - הקישו על **חבר תיקייה**
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="חיבור תיקייה באמצעות בורר הקבצים" image="/docs/howto/how-to-change-album-covers-for-local-tracks-on-spotify-step-by-step-guide-mobile-desktop/evertag-connect-folder-files-picker.webp" >}}
+{{< ls-card title="" subtitle="חיבור תיקייה באמצעות בורר הקבצים" image="/docs/howto/how-to-change-album-covers-for-local-tracks-on-spotify-step-by-step-guide-mobile-desktop/evertag-connect-folder-files-picker.webp" >}}
 {{< /cards >}}
 
 - בחרו את תיקיית **Spotify** והקישו **פתח** לאישור
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="חיבור תיקייה עם קבצים מקומיים של Spotify" image="/docs/howto/how-to-change-album-covers-for-local-tracks-on-spotify-step-by-step-guide-mobile-desktop/evertag-connect-folder-spotify-local.webp" >}}
+{{< ls-card title="" subtitle="חיבור תיקייה עם קבצים מקומיים של Spotify" image="/docs/howto/how-to-change-album-covers-for-local-tracks-on-spotify-step-by-step-guide-mobile-desktop/evertag-connect-folder-spotify-local.webp" >}}
 {{< /cards >}}
 
 - הקישו על התיקייה המחוברת כדי לצפות ולערוך את תוכנה
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="תיקייה חוברה בהצלחה ב-Evertag" image="/docs/howto/how-to-change-album-covers-for-local-tracks-on-spotify-step-by-step-guide-mobile-desktop/evertag-connected-folder.webp" >}}
+{{< ls-card title="" subtitle="תיקייה חוברה בהצלחה ב-Evertag" image="/docs/howto/how-to-change-album-covers-for-local-tracks-on-spotify-step-by-step-guide-mobile-desktop/evertag-connected-folder.webp" >}}
 {{< /cards >}}
 
 ## עורך תגיות
@@ -176,7 +176,7 @@ readingTime: 3
 **עורך התגיות** הוא סביבת העבודה הראשית שבה אתם צופים ומשנים מטא-נתונים של קבצי האודיו שלכם.
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="עיון בתוכן התיקייה המחוברת" image="/docs/howto/how-to-change-album-covers-for-local-tracks-on-spotify-step-by-step-guide-mobile-desktop/evertag-connected-folder-content.webp" >}}
+{{< ls-card title="" subtitle="עיון בתוכן התיקייה המחוברת" image="/docs/howto/how-to-change-album-covers-for-local-tracks-on-spotify-step-by-step-guide-mobile-desktop/evertag-connected-folder-content.webp" >}}
 {{< /cards >}}
 
 ## מצבי עריכה
@@ -221,25 +221,25 @@ Evertag תומך בשני מצבי עריכה:
 1. הקישו על **סמל המצלמה** בקרוסלת העטיפות
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="בחירת תמונת עטיפת אלבום מותאמת" image="/docs/howto/how-to-change-album-covers-for-local-tracks-on-spotify-step-by-step-guide-mobile-desktop/evertag-choose-photo.webp" >}}
+{{< ls-card title="" subtitle="בחירת תמונת עטיפת אלבום מותאמת" image="/docs/howto/how-to-change-album-covers-for-local-tracks-on-spotify-step-by-step-guide-mobile-desktop/evertag-choose-photo.webp" >}}
 {{< /cards >}}
 
 2. בחרו מקור תמונה (ספריית תמונות, קבצים מקומיים, ענן)
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="גישה לספריית התמונות לבחירת עטיפה" image="/docs/howto/how-to-change-album-covers-for-local-tracks-on-spotify-step-by-step-guide-mobile-desktop/evertag-photo-library.webp" >}}
+{{< ls-card title="" subtitle="גישה לספריית התמונות לבחירת עטיפה" image="/docs/howto/how-to-change-album-covers-for-local-tracks-on-spotify-step-by-step-guide-mobile-desktop/evertag-photo-library.webp" >}}
 {{< /cards >}}
 
 3. בחרו את התמונה לשימוש כעטיפה
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="תצוגה מקדימה של עטיפת אלבום ערוכה" image="/docs/howto/how-to-change-album-covers-for-local-tracks-on-spotify-step-by-step-guide-mobile-desktop/evertag-edited-album-cover.webp" >}}
+{{< ls-card title="" subtitle="תצוגה מקדימה של עטיפת אלבום ערוכה" image="/docs/howto/how-to-change-album-covers-for-local-tracks-on-spotify-step-by-step-guide-mobile-desktop/evertag-edited-album-cover.webp" >}}
 {{< /cards >}}
 
 4. הקישו **שמור** כדי להחיל את השינויים
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="שמירת תגיות אודיו מעודכנות" image="/docs/howto/how-to-change-album-covers-for-local-tracks-on-spotify-step-by-step-guide-mobile-desktop/evertag-save-tags.webp" >}}
+{{< ls-card title="" subtitle="שמירת תגיות אודיו מעודכנות" image="/docs/howto/how-to-change-album-covers-for-local-tracks-on-spotify-step-by-step-guide-mobile-desktop/evertag-save-tags.webp" >}}
 {{< /cards >}}
 
 ## עדכון ספריית Spotify
@@ -247,7 +247,7 @@ Evertag תומך בשני מצבי עריכה:
 לאחר שמירת התגיות, חזרו לאפליקציית Spotify.
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="עיון בספריית המוזיקה של Spotify" image="/docs/howto/how-to-change-album-covers-for-local-tracks-on-spotify-step-by-step-guide-mobile-desktop/spotify-library.webp" >}}
+{{< ls-card title="" subtitle="עיון בספריית המוזיקה של Spotify" image="/docs/howto/how-to-change-album-covers-for-local-tracks-on-spotify-step-by-step-guide-mobile-desktop/spotify-library.webp" >}}
 {{< /cards >}}
 
 פתחו שוב את סעיף **קבצים מקומיים**. כעת אתם אמורים לראות עטיפות ותגיות מעודכנות לשירים המקומיים שלכם.
@@ -255,7 +255,7 @@ Evertag תומך בשני מצבי עריכה:
 > אם העדכונים לא מופיעים מיד, **סגרו בכוח את Spotify** ופתחו אותו מחדש. זה מפעיל רענון של המטא-נתונים.
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="שיר מתנגן עם תגית ערוכה" image="/docs/howto/how-to-change-album-covers-for-local-tracks-on-spotify-step-by-step-guide-mobile-desktop/spotify-playing-edited-tag.webp" >}}
+{{< ls-card title="" subtitle="שיר מתנגן עם תגית ערוכה" image="/docs/howto/how-to-change-album-covers-for-local-tracks-on-spotify-step-by-step-guide-mobile-desktop/spotify-playing-edited-tag.webp" >}}
 {{< /cards >}}
 
 ## סיכום
@@ -268,26 +268,26 @@ Evertag תומך בשני מצבי עריכה:
 
 ## שאלות נפוצות
 
-{{% details title="האם אפשר לשנות עטיפות אלבומים לשירים בסטרימינג של Spotify?" closed="true" %}}
+{{% ls-details title="האם אפשר לשנות עטיפות אלבומים לשירים בסטרימינג של Spotify?" closed="true" %}}
 לא. Spotify לא מאפשר לשנות עטיפות לשירים בקטלוג הסטרימינג שלו. אפשר לערוך עטיפות אלבומים רק לקבצים מקומיים שנוספו לספריית Spotify שלכם.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="האם Evertag חינמי?" closed="true" %}}
+{{% ls-details title="האם Evertag חינמי?" closed="true" %}}
 כן. Evertag חינמי להורדה ולשימוש גם ב-iOS וגם ב-macOS. הוא תומך ביותר מ-120 תגיות אודיו ויותר מ-30 פורמטים של קבצים.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="באילו פורמטי אודיו Evertag תומך?" closed="true" %}}
+{{% ls-details title="באילו פורמטי אודיו Evertag תומך?" closed="true" %}}
 Evertag תומך ביותר מ-30 פורמטים כולל MP3, FLAC, AAC, ALAC, WAV, AIFF, OGG, WMA ועוד.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="למה Spotify לא מציג את עטיפת האלבום המעודכנת שלי?" closed="true" %}}
+{{% ls-details title="למה Spotify לא מציג את עטיפת האלבום המעודכנת שלי?" closed="true" %}}
 סגרו בכוח את אפליקציית Spotify ופתחו אותה מחדש. Spotify שומר מטא-נתונים במטמון וצריך הפעלה מחדש כדי לזהות שינויים בקבצים מקומיים.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="האם אפשר לערוך תגיות למספר קבצים בבת אחת?" closed="true" %}}
+{{% ls-details title="האם אפשר לערוך תגיות למספר קבצים בבת אחת?" closed="true" %}}
 כן. Evertag תומך בעריכה באצווה. בחרו מספר קבצים והקישו על «עריכת מספר קבצים בו-זמנית» כדי לעדכן תגיות ועטיפות לכל השירים הנבחרים בבת אחת.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="האם אני צריך להעתיק קבצים לתיקיית Spotify?" closed="true" %}}
+{{% ls-details title="האם אני צריך להעתיק קבצים לתיקיית Spotify?" closed="true" %}}
 כן. Spotify קורא קבצים מקומיים רק מהתיקייה הייעודית שלו. העתיקו או העבירו את קבצי המוזיקה שלכם לתיקיית Spotify במכשיר שלכם ואז הפעילו את מתג קבצי האודיו המקומיים בהגדרות Spotify.
-{{% /details %}}
+{{% /ls-details %}}

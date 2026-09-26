@@ -7,7 +7,7 @@ keywords: ["server SMB iPhone", "server SMB iPad", "cum configurez SMB pe iPhone
 readingTime: 10
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 SMB este sistemul de partajare a fișierelor integrat în macOS, Windows și Linux și în aproape orice disc de rețea (NAS). Când te conectezi la un folder partajat de pe un alt computer și acesta se deschide ca un disc obișnuit în Finder sau File Explorer, SMB este cel care face treaba. Cu [Everdisk](/products/everdisk) poți pune o partajare SMB pe iPhone-ul sau iPad-ul tău, astfel încât telefonul însuși apare ca un disc de rețea pe care alte dispozitive îl răsfoiesc, din care copiază și în care copiază.
 
@@ -136,44 +136,44 @@ Comutatorul **Editarea fișierelor** din Setări, Partajare, Acces controlează 
 
 ## Întrebări frecvente
 
-{{% details title="Care este adresa și portul SMB pentru iPhone-ul meu?" closed="true" %}}
+{{% ls-details title="Care este adresa și portul SMB pentru iPhone-ul meu?" closed="true" %}}
 După ce începi partajarea, Everdisk afișează adresa pe ecranul Partajare. Arată ca smb://192.168.1.20:4455/Share. 4455 este portul pe care Everdisk îl folosește pentru SMB, iar Share este numele folderului partajat. Prima parte este adresa iPhone-ului tău în rețeaua Wi-Fi, așa că a ta va fi diferită.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Mă pot conecta la partajarea SMB a iPhone-ului meu de pe Windows?" closed="true" %}}
+{{% ls-details title="Mă pot conecta la partajarea SMB a iPhone-ului meu de pe Windows?" closed="true" %}}
 Windows File Explorer se conectează la SMB doar pe portul standard și nu acceptă un port personalizat în cale, în timp ce Everdisk folosește portul 4455. Așa că ruta simplă Map network drive adesea nu îl va ajunge. Folosește un manager de fișiere care îți permite să setezi un port personalizat sau conectează-te de pe Windows cu WebDAV, FTP sau link-ul de browser. Toate acestea funcționează de pe Windows fără nicio problemă de port.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Cum partajez fișiere între două iPhone-uri cu SMB?" closed="true" %}}
+{{% ls-details title="Cum partajez fișiere între două iPhone-uri cu SMB?" closed="true" %}}
 Pornește serverul SMB pe primul iPhone în Everdisk. Pe al doilea iPhone, deschide aplicația Files, apasă butonul more, alege Connect to Server și introdu adresa smb afișată în Everdisk (de exemplu smb://192.168.1.20:4455/Share). Conectează-te ca Guest sau cu autentificarea ta, iar partajarea apare în Files. Poți folosi și fila proprie Dispozitive din Everdisk de pe al doilea telefon.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Apare iPhone-ul meu automat în bara laterală Finder de pe Mac?" closed="true" %}}
+{{% ls-details title="Apare iPhone-ul meu automat în bara laterală Finder de pe Mac?" closed="true" %}}
 De obicei da. Everdisk anunță partajarea SMB în rețeaua ta Wi-Fi, așa că iPhone-ul tău apare adesea sub Locations sau Network în bara laterală Finder. Fă clic pe el și alege Connect As, apoi Guest sau autentificarea ta. Dacă nu apare, conectează-te manual cu Go, Connect to Server și adresa smb completă.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Am nevoie de o parolă pentru a folosi SMB?" closed="true" %}}
+{{% ls-details title="Am nevoie de o parolă pentru a folosi SMB?" closed="true" %}}
 Nu, autentificarea este opțională. Lasă Utilizator și Parolă goale în Setări, Partajare, Acces pentru a permite accesul ca invitat. Setează-le dacă vrei ca conexiunile să se autentifice. Un utilizator și o parolă sunt obligatorii doar dacă activezi Solicită criptare SMB, pentru că conexiunile criptate nu pot fi anonime.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Conexiunea SMB este criptată?" closed="true" %}}
+{{% ls-details title="Conexiunea SMB este criptată?" closed="true" %}}
 Poate fi. SMB este singura conexiune Everdisk care acceptă criptare. Setează un utilizator și o parolă, apoi activează Solicită criptare SMB în Setări, Partajare. Fiecare transfer este apoi protejat cu SMB3 (AES). Celălalt dispozitiv trebuie să accepte SMB3, ceea ce Mac-urile moderne și Windows 10 sau versiunile ulterioare fac. Criptarea este o funcție Premium.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Pot oamenii să-mi modifice sau șteargă fișierele prin SMB?" closed="true" %}}
+{{% ls-details title="Pot oamenii să-mi modifice sau șteargă fișierele prin SMB?" closed="true" %}}
 Doar dacă permiți asta. Comutatorul Editarea fișierelor din Setări, Partajare, Acces controlează acest lucru. Cu el activat, dispozitivele conectate pot încărca, redenumi și șterge. Cu el dezactivat, partajarea este doar pentru citire, iar ceilalți pot răsfoi și copia fișiere de pe telefonul tău, dar nu pot modifica nimic.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="De ce s-a întrerupt conexiunea mea SMB?" closed="true" %}}
+{{% ls-details title="De ce s-a întrerupt conexiunea mea SMB?" closed="true" %}}
 iPhone-ul tău este serverul, iar iOS pune pe pauză aplicațiile care stau prea mult în fundal. Ține Everdisk deschis pe ecran cât timp un dispozitiv este conectat și conectează telefonul la sursa de alimentare în timpul transferurilor lungi. De asemenea, asigură-te că ambele dispozitive au rămas în aceeași rețea Wi-Fi.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="SMB, WebDAV sau FTP, pe care ar trebui să îl folosesc?" closed="true" %}}
+{{% ls-details title="SMB, WebDAV sau FTP, pe care ar trebui să îl folosesc?" closed="true" %}}
 Folosește SMB când vrei ca telefonul să se comporte ca un disc de rețea adevărat pe un Mac, un alt iPhone, Linux sau un NAS și când vrei criptare. Folosește WebDAV când vrei un disc de rețea care funcționează bine și de pe Windows. Folosește FTP pentru cea mai largă compatibilitate cu dispozitive și aplicații mai vechi. Everdisk le poate rula pe toate deodată, așa că nu ești blocat într-una singură.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Everdisk este gratuit?" closed="true" %}}
+{{% ls-details title="Everdisk este gratuit?" closed="true" %}}
 Da, Everdisk se descarcă gratuit, iar serverul SMB este inclus. Achiziția opțională unică Premium adaugă criptare SMB, porturi personalizate și câteva alte suplimente. Poți configura SMB și partaja fișiere fără să plătești.
-{{% /details %}}
+{{% /ls-details %}}
 
 Gata să încerci? [Descarcă Everdisk din App Store](https://apps.apple.com/app/apple-store/id6751851132?pt=95781850&ct=everappzcom&mt=8) și deschide-ți iPhone-ul în Finder în aproximativ un minut. Întrebări sau feedback? Scrie-ne la **support@everappz.com**.

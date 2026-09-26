@@ -7,9 +7,9 @@ tags: ["Flacbox", "オーディオエフェクト", "使い方", "BASS", "イコ
 readingTime: 30
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
-{{< full-width-tables >}}
+{{< ls-full-width-tables >}}
 
 **簡単な答え:** Flacboxでは、**設定 > オーディオプレーヤー**で1つの**再生エンジン**を選びます。**Standard**（Appleのシステムエンジン）、**Universal**（FFmpegエンジン）、**Sound FX**（**BASS™エンジン**）です。選ぶエンジンによって再生できるファイル形式が決まるので、この選択は重要です。**Sound FX**エンジンは、ほとんどのiPhoneアプリが飛ばす追加フォーマット（FLAC、DSD、WavPack、APE、Musepack、TrueAudio、Opus、そしてMOD、XM、IT、S3Mのような古い**MODやトラッカーミュージック**）を再生し、サウンドツールを動かす唯一のエンジンでもあります。**10バンドイコライザー**、**音量ノーマライゼーション**、**Compressor**、**Freeverb**、**Auto Wah**、**Phaser**、**Flanger**、**Echo**、**Chorus**、**Distortion**、**Rotate**、**Crossfeed**、そして自分で作る**DSPチェーン**です。ですので、このガイドのエフェクトを使うには、まず再生エンジンを**Sound FX**に設定してください。各ツールには出来合いの**プリセット**があります。**設定 > オーディオプレーヤー**（オーディオエフェクト、オーディオイコライザー、シグナルプロセッシング）で開くか、プレーヤーの**⋯（その他）**ボタンをタップして**オーディオエフェクト**を選びます。ここで行うことがファイルを変えることは決してありません。
 
@@ -657,93 +657,93 @@ Crossfeedは、各チャンネルの小さくフィルタリングされた量�
 
 ## FAQ
 
-{{% details title="Flacboxはどのサウンドエンジンを使いますか？" closed="true" %}}
+{{% ls-details title="Flacboxはどのサウンドエンジンを使いますか？" closed="true" %}}
 設定 > オーディオプレーヤーで1つの再生エンジンを選びます。Standard（Appleのシステムエンジン）、Universal（FFmpegエンジン）、Sound FX（Un4seen DevelopmentsのBASS™エンジン、un4seen.com）です。選ぶエンジンによって再生できるファイル形式が決まります。Sound FXは、FLAC、DSD、WavPack、APE、Musepack、TrueAudio、Opus、MODやトラッカーミュージックのような追加フォーマットを再生するもので、ライブエフェクト、10バンドイコライザー、DSPチェーンを提供する唯一のエンジンです。エフェクトを使うには、再生エンジンをSound FXに設定してください。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="FlacboxはMOD、XM、IT、その他のトラッカーやモジュールミュージックを再生できますか？" closed="true" %}}
+{{% ls-details title="FlacboxはMOD、XM、IT、その他のトラッカーやモジュールミュージックを再生できますか？" closed="true" %}}
 はい。BASS™エンジンには内蔵のモジュールプレーヤーがあり、MOD、XM、IT、S3M、MTM、UMX、MO3のファイルを読み込み、そのパターンと楽器の音から曲をライブで再構築します。トラッカーミュージックが本来演奏されるはずの方法です。通常のiPhoneプレーヤーはこれができません。エフェクトとイコライザーはモジュールミュージックでも動作します。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="FlacboxはDSDと高解像度ファイルに対応していますか？" closed="true" %}}
+{{% ls-details title="FlacboxはDSDと高解像度ファイルに対応していますか？" closed="true" %}}
 はい。FlacboxはDSDファイル（DSFとDFF）を、通常の出力ハードウェアで動作するようDSD over PCMを使ってBASS™エンジン経由で再生します。さらにロスレス再生のためにFLAC、WavPack、Monkey's Audio（APE）、Musepack、TrueAudioにも対応しています。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Flacboxにはどんなサウンドエフェクトがありますか？" closed="true" %}}
+{{% ls-details title="Flacboxにはどんなサウンドエフェクトがありますか？" closed="true" %}}
 10バンドイコライザー、音量ノーマライゼーション、Compressor、Freeverb、Auto Wah、Phaser、Flanger、Echo、Chorus、Distortion、Rotate、Crossfeed、そしてフィルター、シェルフ、ゲイン、ソフトクリップ、ビットクラッシャー、リングモジュレーター、トレモロ、ディレイ、ステレオ幅を備えた自分で作るDSPチェーンです。それぞれが独立しており、他のものと組み合わせられます。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="プリセットとは何ですか？" closed="true" %}}
+{{% ls-details title="プリセットとは何ですか？" closed="true" %}}
 プリセットは、エフェクトの出来合いの設定です。自分でスライダーを動かす代わりに、プリセットをタップするとサウンドがそれに合わせて変わります。Flacboxのすべてのエフェクトにはいくつかのプリセットがあり、このガイドはそれぞれが何をするかを一覧にしています。プリセットを選んだ後にスライダーを動かすと、エフェクトは今あなた自身の値を使っていることを伝えるために「Manual」と表示します。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Flacboxでオーディオエフェクトを開くには？" closed="true" %}}
+{{% ls-details title="Flacboxでオーディオエフェクトを開くには？" closed="true" %}}
 再生中プレーヤーを開き、⋯（その他）ボタンをタップして、オーディオエフェクトを選びます。または設定 > オーディオプレーヤー > オーディオエフェクトへ進みます。エフェクトをタップし、そのスイッチをオンにして、プリセットを選ぶか、スライダーを開いて微調整します。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="イコライザーはどこにあり、最適な設定は何ですか？" closed="true" %}}
+{{% ls-details title="イコライザーはどこにあり、最適な設定は何ですか？" closed="true" %}}
 設定 > オーディオプレーヤー > オーディオイコライザーへ進みます。32 Hzから16 kHzまでの10バンドがあり、各バンドは-12〜+12 dB、さらに-24〜+24 dBのプリアンプと22のプリセットがあります。もっと低音にはBass Boosterを使います。よりクリアな声にはVocal BoosterまたはPopを使います。より明るいサウンドにはTreble Boosterを使います。その後、好みに合わせて単一のバンドを調整します。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Flacboxで低音をブーストするには？" closed="true" %}}
+{{% ls-details title="Flacboxで低音をブーストするには？" closed="true" %}}
 簡単な方法が2つあります。オーディオイコライザーで、Bass Boosterを選びます（または32 Hzと64 Hzのバンドを数dB上げます）。あるいは、シグナルプロセッシングで、Bass Boostに設定したLow Shelfブロックを追加します。どちらの場合も、低音がクリーンなまま歪まないように、プリアンプを下げるかGainブロックを1〜2 dB追加します。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="私の音楽にはどのイコライザープリセットが最適ですか？" closed="true" %}}
+{{% ls-details title="私の音楽にはどのイコライザープリセットが最適ですか？" closed="true" %}}
 RockとElectronicは、強い低音と高音でエネルギーを加えます。Acoustic、Jazz、Classicalは、温かく自然なままです。PopとVocal Boosterは、声を前に押し出します。Bass BoosterとHip-Hopは、重みを加えます。DeepとLoudnessは、低音量でよりフルに聞こえます。ジャンルに合うものから始めて、微調整しましょう。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="音量ノーマライゼーションとは何で、ReplayGainとどう違いますか？" closed="true" %}}
+{{% ls-details title="音量ノーマライゼーションとは何で、ReplayGainとどう違いますか？" closed="true" %}}
 すべてのトラックをほぼ同じラウドネスで再生させます。EBU R128標準（ストリーミングサービスのようにLUFSで）を使って実際のラウドネスを測定し、最大ブーストの上限とともに各トラックをあなたのターゲットに向けて調整します。ReplayGainとは違い、ファイルにタグは不要で、オーディオを変えずにあらゆるソースでライブに動作します。プリセット: Light、Standard、Strong、Night。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Crossfeedとは何で、使うべきですか？" closed="true" %}}
+{{% ls-details title="Crossfeedとは何で、使うべきですか？" closed="true" %}}
 Crossfeedは左右のチャンネルを少し混ぜ合わせて、ヘッドフォンが実際のスピーカーのように感じられ、サウンドが頭の中に張り付いているようには感じられないようにします。ヘッドフォン専用なので、スピーカーではオフにしましょう。Flacboxはbs2b（Bauer）方式を使い、Chu MoyやJan Meierのようなプリセットがあります。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Compressorと音量ノーマライゼーションの違いは何ですか？" closed="true" %}}
+{{% ls-details title="Compressorと音量ノーマライゼーションの違いは何ですか？" closed="true" %}}
 音量ノーマライゼーションは、異なる曲間のラウドネスを合わせます。Compressorは、1つの曲の内側で大きい部分と小さい部分をならします。これらは異なる問題を解決し、特に車の中や騒がしい場所でうまく組み合わさります。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="シグナルプロセッシング（DSP）チェーンとは何ですか？" closed="true" %}}
+{{% ls-details title="シグナルプロセッシング（DSP）チェーンとは何ですか？" closed="true" %}}
 設定 > オーディオプレーヤー > シグナルプロセッシングにある、自分で作るラックです。フィルター、シェルフ、ゲイン、ソフトクリップ、ビットクラッシャー、リングモジュレーター、トレモロ、ディレイ、ステレオ幅のようなブロックを追加し、任意の順序に並べ、それぞれをオンまたはオフにし、チェーンをすべてのチャンネル、左、右に向けます。順序が重要なので、欲しいサウンドを正確に設計できます。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="イコライザー、エフェクト、DSPチェーンの違いは何ですか？" closed="true" %}}
+{{% ls-details title="イコライザー、エフェクト、DSPチェーンの違いは何ですか？" closed="true" %}}
 イコライザーはシンプルな10バンドの音色コントロールです。オーディオエフェクトは、プリセット付きの出来合いのツール（コンプレッサー、リバーブ、エコーなど）です。DSPチェーンは、個々のブロックから自分のエフェクトの順序を作る場所です。3つすべてを同時に動かせます。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="エフェクトは私の音楽ファイルを変更したり損傷したりしますか？" closed="true" %}}
+{{% ls-details title="エフェクトは私の音楽ファイルを変更したり損傷したりしますか？" closed="true" %}}
 いいえ。すべては音楽の再生中にライブで適用されます。ファイルは決して変更されたり再保存されたりしません。エフェクトをオフにすると、元のサウンドがすぐに戻ります。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="複数のエフェクトを同時に使えますか？" closed="true" %}}
+{{% ls-details title="複数のエフェクトを同時に使えますか？" closed="true" %}}
 はい。各エフェクトには専用のスイッチがあり、マスタースイッチはないので、どんな組み合わせでも機能します。たとえば、均一なリスニングのために音量ノーマライゼーションとCompressor、またはヘッドフォンでFreeverbとCrossfeed、その上にイコライザーです。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="エフェクトのコントロールがグレーアウトしているのはなぜですか？" closed="true" %}}
+{{% ls-details title="エフェクトのコントロールがグレーアウトしているのはなぜですか？" closed="true" %}}
 エフェクトがオフになっています。コントロールを使うには、エディターの上部でそのスイッチをオンにしてください。すべてのエフェクトはデフォルトでオフです。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Manualのラベルはどういう意味ですか？" closed="true" %}}
+{{% ls-details title="Manualのラベルはどういう意味ですか？" closed="true" %}}
 プリセットからスライダーを動かしたので、エフェクトが名前付きのプリセットの代わりにあなた自身のカスタム値を使っているという意味です。各スライダーにはリセットボタンがあり、再びプリセットを選ぶとあなたのManualの値が置き換えられます。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="イコライザーのプリセットを保存して共有できますか？" closed="true" %}}
+{{% ls-details title="イコライザーのプリセットを保存して共有できますか？" closed="true" %}}
 はい。22の内蔵プリセットに加えて、自分のものを作り、並べ替え、設定を別のデバイスに移すためにエクスポートまたはインポートできます。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="エフェクトはCarPlay、ストリーミング、バックグラウンド再生で動作しますか？" closed="true" %}}
+{{% ls-details title="エフェクトはCarPlay、ストリーミング、バックグラウンド再生で動作しますか？" closed="true" %}}
 はい。エフェクトはBASS™エンジン内で動作するので、ローカルファイル、クラウドドライブ、メディアサーバー、ストリーム、モジュールミュージックに適用され、CarPlayやバックグラウンド再生の間も動作し続けます。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="オーディオ出力の品質を変更できますか？" closed="true" %}}
+{{% ls-details title="オーディオ出力の品質を変更できますか？" closed="true" %}}
 はい。設定 > オーディオプレーヤーで、ヘッドフォン、スピーカー、DACに合わせて、出力サンプルレート、チャンネル数、バッファサイズを設定できます。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="ヘッドフォンに最適な初期設定は何ですか？" closed="true" %}}
+{{% ls-details title="ヘッドフォンに最適な初期設定は何ですか？" closed="true" %}}
 音量ノーマライゼーション（Standard）をオンにし、軽いCompressor（Soft）を追加し、好きなイコライザープリセットを選び、Crossfeed（Chu MoyまたはJan Meier）をオンにします。創造的なサウンドが欲しくない限り、リバーブ、エコー、ディストーションはオフにしておきましょう。
-{{% /details %}}
+{{% /ls-details %}}
 
 ---
 

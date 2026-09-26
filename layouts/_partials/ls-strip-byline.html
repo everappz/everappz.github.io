@@ -1,0 +1,21 @@
+{{- /*
+  ls-strip-byline — removes the ls-author-byline text (author name + title) from a
+  search-fragment data dict, so authors don't pollute search results.
+
+  Input:  a dict of { fragmentKey: fragmentText }
+  Output: the same dict with the byline strings stripped from each value.
+
+  Keep this list in sync with the names/titles in _shortcodes/ls-author-byline.html.
+*/ -}}
+{{- $data := . -}}
+{{- $strip := slice "Founder & Engineer at Everappz" "Director at Everappz" "Artem Meleshko" "Anna Kosenko" -}}
+{{- $cleaned := dict -}}
+{{- range $k, $v := $data -}}
+  {{- $vv := $v -}}
+  {{- range $s := $strip -}}
+    {{- $vv = replace $vv $s "" -}}
+  {{- end -}}
+  {{- $vv = $vv | replaceRE `\s{2,}` " " | strings.TrimSpace -}}
+  {{- $cleaned = merge $cleaned (dict $k $vv) -}}
+{{- end -}}
+{{- return $cleaned -}}

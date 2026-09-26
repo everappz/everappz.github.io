@@ -71,20 +71,20 @@ Flacbox 仅使用每家云提供商的官方 SDK 和 OAuth 登录——您的密
 
 {{< cards cols="2">}}
 
-{{< card icon="map" link="/docs/guide/flacbox/flacbox-guide-navigation" title="导航" subtitle="iPhone 的标签栏，iPad 和 Mac 的左侧菜单，迷你播放器，小组件，CarPlay。" >}}
+{{< ls-card icon="map" link="/docs/guide/flacbox/flacbox-guide-navigation" title="导航" subtitle="iPhone 的标签栏，iPad 和 Mac 的左侧菜单，迷你播放器，小组件，CarPlay。" >}}
 
-{{< card icon="cloud" link="/docs/guide/flacbox/flacbox-guide-connections" title="连接" subtitle="iCloud、Google Drive、Dropbox、OneDrive、NAS、WebDAV、SMB、DLNA。" >}}
+{{< ls-card icon="cloud" link="/docs/guide/flacbox/flacbox-guide-connections" title="连接" subtitle="iCloud、Google Drive、Dropbox、OneDrive、NAS、WebDAV、SMB、DLNA。" >}}
 
-{{< card icon="collection" link="/docs/guide/flacbox/flacbox-guide-music-library" title="音乐库" subtitle="歌曲、专辑、艺术家、流派、作曲家——同步、搜索、编辑元数据。" >}}
+{{< ls-card icon="collection" link="/docs/guide/flacbox/flacbox-guide-music-library" title="音乐库" subtitle="歌曲、专辑、艺术家、流派、作曲家——同步、搜索、编辑元数据。" >}}
 
-{{< card icon="music-note" link="/docs/guide/flacbox/flacbox-guide-playlists" title="播放列表" subtitle="创建、导入 M3U / M3U8 / CUE，重新排序，并导出为 M3U / CSV / TXT。" >}}
+{{< ls-card icon="music-note" link="/docs/guide/flacbox/flacbox-guide-playlists" title="播放列表" subtitle="创建、导入 M3U / M3U8 / CUE，重新排序，并导出为 M3U / CSV / TXT。" >}}
 
-{{< card icon="folder" link="/docs/guide/flacbox/flacbox-guide-local-files" title="本地文件" subtitle="离线音乐、USB 驱动器、Wi-Fi Drive、文件管理器、离线文件夹。" >}}
+{{< ls-card icon="folder" link="/docs/guide/flacbox/flacbox-guide-local-files" title="本地文件" subtitle="离线音乐、USB 驱动器、Wi-Fi Drive、文件管理器、离线文件夹。" >}}
 
-{{< card icon="play" link="/docs/guide/flacbox/flacbox-guide-player" title="音频播放器" subtitle="高分辨率输出、均衡器、音调、书签、AirPlay、Chromecast、速度、睡眠定时器。" >}}
+{{< ls-card icon="play" link="/docs/guide/flacbox/flacbox-guide-player" title="音频播放器" subtitle="高分辨率输出、均衡器、音调、书签、AirPlay、Chromecast、速度、睡眠定时器。" >}}
 
-{{< card icon="adjustments" link="/docs/guide/flacbox/flacbox-guide-settings" title="设置" subtitle="音频引擎、音乐库、文件管理器、CarPlay、小组件、个性化、语言、备份。" >}}
+{{< ls-card icon="adjustments" link="/docs/guide/flacbox/flacbox-guide-settings" title="设置" subtitle="音频引擎、音乐库、文件管理器、CarPlay、小组件、个性化、语言、备份。" >}}
 
-{{< card icon="question-mark-circle" link="/docs/faq/flacbox" title="常见问题" subtitle="查找有关 Flacbox 的 50 个最常见问题的答案。" >}}
+{{< ls-card icon="question-mark-circle" link="/docs/faq/flacbox" title="常见问题" subtitle="查找有关 Flacbox 的 50 个最常见问题的答案。" >}}
 
 {{< /cards >}}

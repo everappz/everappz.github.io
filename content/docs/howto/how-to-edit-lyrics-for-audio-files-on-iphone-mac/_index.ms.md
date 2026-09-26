@@ -7,7 +7,7 @@ tags: ["lyrics", "mp3", "id3", "metadata", "iphone", "audio editing"]
 readingTime: 2
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **Ringkasan:** Gunakan aplikasi **Evertag** percuma untuk mengedit lirik tidak disegerakkan, penilaian kandungan dan 120+ tag audio di iPhone atau Mac. Berfungsi dengan fail tempatan dan yang disimpan di awan, menyokong pengeditan kelompok dan menyimpan lirik yang boleh dilihat di Evermusic, Flacbox dan pemain lain.
@@ -23,8 +23,8 @@ Untuk demonstrasi, kami akan menggunakan aplikasi **Evertag**. Ia menyokong **12
 Mulakan dengan memuat turun aplikasi **Evertag** dari App Store. Ia tersedia untuk **iOS** dan **macOS**, dan percuma untuk digunakan.
 
 {{< cards cols="2">}}
-{{< card link="https://apps.apple.com/app/apple-store/id1450763230?pt=95781850&ct=everappzcom&mt=8" title="Evertag untuk iOS" icon="download" tag="Free" >}}
-{{< card link="https://apps.apple.com/app/apple-store/id1594027661?pt=95781850&ct=everappzcom&mt=8" title="Evertag untuk macOS" icon="download" tag="Free" >}}
+{{< ls-card link="https://apps.apple.com/app/apple-store/id1450763230?pt=95781850&ct=everappzcom&mt=8" title="Evertag untuk iOS" icon="download" tag="Free" >}}
+{{< ls-card link="https://apps.apple.com/app/apple-store/id1594027661?pt=95781850&ct=everappzcom&mt=8" title="Evertag untuk macOS" icon="download" tag="Free" >}}
 {{< /cards >}}
 
 ## Sambungkan Akaun Awan Anda
@@ -38,13 +38,13 @@ Untuk menyambung perkhidmatan storan awan:
 - Ketik **Sambung ke Storan Awan**
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Sambung ke Storan Awan" image="/docs/howto/how-to-edit-lyrics-for-audio-files-on-iphone-mac/connect-to-cloud-storage.webp" >}}
+{{< ls-card title="" subtitle="Sambung ke Storan Awan" image="/docs/howto/how-to-edit-lyrics-for-audio-files-on-iphone-mac/connect-to-cloud-storage.webp" >}}
 {{< /cards >}}
 
 - Pilih pembekal yang disokong, masukkan kelayakan anda dan ketik **Selesai**
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Sambung ke Storan Awan" image="/docs/howto/how-to-edit-lyrics-for-audio-files-on-iphone-mac/connect-to-cloud-storage.webp" >}}
+{{< ls-card title="" subtitle="Sambung ke Storan Awan" image="/docs/howto/how-to-edit-lyrics-for-audio-files-on-iphone-mac/connect-to-cloud-storage.webp" >}}
 {{< /cards >}}
 
 - Setelah disambungkan, storan awan anda akan muncul di bahagian **Storan Awan** aplikasi.
@@ -52,7 +52,7 @@ Untuk menyambung perkhidmatan storan awan:
 - Ketik storan awan yang disambungkan untuk melayari dan memuatkan kandungan foldernya.
   
 {{< cards cols="1">}}
-{{< card title="" subtitle="Senarai Fail Storan Awan" image="/docs/howto/how-to-edit-lyrics-for-audio-files-on-iphone-mac/cloud-storage-list-audio-files.webp" >}}
+{{< ls-card title="" subtitle="Senarai Fail Storan Awan" image="/docs/howto/how-to-edit-lyrics-for-audio-files-on-iphone-mac/cloud-storage-list-audio-files.webp" >}}
 {{< /cards >}}
 
 ## Sambungkan Folder Tempatan
@@ -74,7 +74,7 @@ Anda boleh mengedit tag audio untuk fail yang disimpan terus di peranti anda tan
 - Tatal ke bawah ke **Fail di Peranti Ini** di menu bar sisi
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Folder Peranti" image="/docs/howto/how-to-edit-lyrics-for-audio-files-on-iphone-mac/device-folders.webp" >}}
+{{< ls-card title="" subtitle="Folder Peranti" image="/docs/howto/how-to-edit-lyrics-for-audio-files-on-iphone-mac/device-folders.webp" >}}
 {{< /cards >}}
   
 - Ketik item menu **Semua folder peranti**
@@ -91,7 +91,7 @@ Anda boleh mengedit tag audio untuk fail yang disimpan terus di peranti anda tan
 **Editor Tag** ialah skrin utama aplikasi Evertag di mana anda boleh melihat dan mengedit metadata fail audio. Buka skrin ini dengan mengetik fail dari bahagian **Fail Tempatan** atau dari mana-mana akaun **storan awan** yang disambungkan.
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Skrin Editor Tag Evertag" image="/docs/howto/how-to-edit-lyrics-for-audio-files-on-iphone-mac/cloud-storage-audio-file-tag-editor.webp" >}}
+{{< ls-card title="" subtitle="Skrin Editor Tag Evertag" image="/docs/howto/how-to-edit-lyrics-for-audio-files-on-iphone-mac/cloud-storage-audio-file-tag-editor.webp" >}}
 {{< /cards >}}
 
 ## Mod Pengeditan
@@ -112,7 +112,7 @@ Secara lalai, aplikasi membuka editor tag dalam mod fail tunggal dengan hanya pi
 Untuk mengakses semua tag yang tersedia, tatal ke bahagian bawah skrin dan ketik pilihan **Tunjukkan Tag Lanjutan**. Ini akan menukar editor ke mod lanjutan, membolehkan anda mengedit lebih daripada **120 medan metadata**, termasuk **tag MusicBrainz**, **lirik**, **penilaian kandungan** dan banyak lagi.
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Panel Tindakan Bawah" image="/docs/howto/how-to-edit-lyrics-for-audio-files-on-iphone-mac/show-extended-tags.webp" >}}
+{{< ls-card title="" subtitle="Panel Tindakan Bawah" image="/docs/howto/how-to-edit-lyrics-for-audio-files-on-iphone-mac/show-extended-tags.webp" >}}
 {{< /cards >}}
 
 ## Mod Kelompok
@@ -137,7 +137,7 @@ Berikut cara menambah atau mengemas kini **Lirik Tidak Disegerakkan** yang terta
 Dalam mod **Tag Lanjutan**, tatal ke bawah dan ketik medan teks **Lirik Tidak Disegerakkan**.
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Medan Teks Lirik Tidak Disegerakkan" image="/docs/howto/how-to-edit-lyrics-for-audio-files-on-iphone-mac/advisory-rating-2.webp" >}}
+{{< ls-card title="" subtitle="Medan Teks Lirik Tidak Disegerakkan" image="/docs/howto/how-to-edit-lyrics-for-audio-files-on-iphone-mac/advisory-rating-2.webp" >}}
 {{< /cards >}}
 
 > Fail audio yang menyokong **tag ID3** (seperti `.mp3` atau `.wav`) membolehkan anda menambah lirik dalam berbilang bahasa. Jika anda mengedit fail bertag ID3, Evertag mengaktifkan sokongan berbilang bahasa penuh.  
@@ -148,7 +148,7 @@ Dalam mod **Tag Lanjutan**, tatal ke bawah dan ketik medan teks **Lirik Tidak Di
 Jika anda mengedit tag ID3, skrin seterusnya akan menunjukkan butang **Tambah Halaman Baru**. Ketik untuk mula menambah entri lirik baru.
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Tambah Halaman Lirik Baru" image="/docs/howto/how-to-edit-lyrics-for-audio-files-on-iphone-mac/add-new-page.webp" >}}
+{{< ls-card title="" subtitle="Tambah Halaman Lirik Baru" image="/docs/howto/how-to-edit-lyrics-for-audio-files-on-iphone-mac/add-new-page.webp" >}}
 {{< /cards >}}
 
 ### Pilih Bahasa, Komen dan Kandungan Lirik
@@ -159,7 +159,7 @@ Di skrin entri lirik, anda akan dapat:
 - Memasukkan **teks lirik** sebenar
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Pilih Bahasa" image="/docs/howto/how-to-edit-lyrics-for-audio-files-on-iphone-mac/choose-language.webp" >}}
+{{< ls-card title="" subtitle="Pilih Bahasa" image="/docs/howto/how-to-edit-lyrics-for-audio-files-on-iphone-mac/choose-language.webp" >}}
 {{< /cards >}}
 
 ### Masukkan Lirik
@@ -169,7 +169,7 @@ Taip atau tampal kandungan lirik anda. Evertag menyokong lirik gaya LRC dengan c
 > Petua: Mencari lirik berkualiti tinggi? Layari [lyricsify.com](https://www.lyricsify.com) untuk mencari lirik dalam format LRC untuk beribu-ribu trek.
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Lirik yang Ditambah" image="/docs/howto/how-to-edit-lyrics-for-audio-files-on-iphone-mac/added-lyrics.webp" >}}
+{{< ls-card title="" subtitle="Lirik yang Ditambah" image="/docs/howto/how-to-edit-lyrics-for-audio-files-on-iphone-mac/added-lyrics.webp" >}}
 {{< /cards >}}
 
 ### Ketik "Selesai" untuk Mengesahkan
@@ -177,7 +177,7 @@ Taip atau tampal kandungan lirik anda. Evertag menyokong lirik gaya LRC dengan c
 Selepas memasukkan lirik anda, ketik **Selesai** di halaman lirik. Kemudian ketik **Selesai** sekali lagi di skrin sebelumnya untuk mengesahkan perubahan anda.
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Lirik yang Disimpan" image="/docs/howto/how-to-edit-lyrics-for-audio-files-on-iphone-mac/saved-lyrics.webp" >}}
+{{< ls-card title="" subtitle="Lirik yang Disimpan" image="/docs/howto/how-to-edit-lyrics-for-audio-files-on-iphone-mac/saved-lyrics.webp" >}}
 {{< /cards >}}
 
 ### Simpan Perubahan Tag
@@ -185,7 +185,7 @@ Selepas memasukkan lirik anda, ketik **Selesai** di halaman lirik. Kemudian keti
 Akhirnya, di skrin **Editor Tag**, ketik **Simpan** untuk menulis tag yang dikemas kini — termasuk lirik baru anda — kembali ke fail.
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Editor Tag dengan Lirik" image="/docs/howto/how-to-edit-lyrics-for-audio-files-on-iphone-mac/tags-editor-with-lyrics.webp" >}}
+{{< ls-card title="" subtitle="Editor Tag dengan Lirik" image="/docs/howto/how-to-edit-lyrics-for-audio-files-on-iphone-mac/tags-editor-with-lyrics.webp" >}}
 {{< /cards >}}
 
 ### Tetapkan Penilaian Kandungan Lirik
@@ -204,22 +204,22 @@ Dengan mengikuti langkah-langkah ini, lirik anda akan tertanam dengan betul dala
 
 ## Soalan Lazim
 
-{{% details title="Apakah format audio yang disokong Evertag untuk pengeditan lirik?" closed="true" %}}
+{{% ls-details title="Apakah format audio yang disokong Evertag untuk pengeditan lirik?" closed="true" %}}
 Evertag menyokong lebih daripada 30 format audio, termasuk MP3, FLAC, WAV, M4A, OGG, AIFF dan banyak lagi. Anda boleh mengedit lirik dan tag metadata lain dalam mana-mana format ini.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Bolehkah saya menambah lirik dalam berbilang bahasa?" closed="true" %}}
+{{% ls-details title="Bolehkah saya menambah lirik dalam berbilang bahasa?" closed="true" %}}
 Ya, tetapi hanya untuk fail audio yang menggunakan tag ID3 (seperti MP3 dan WAV). Untuk format lain seperti FLAC atau M4A, hanya satu entri lirik yang disokong.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Adakah Evertag menyokong pengeditan lirik kelompok?" closed="true" %}}
+{{% ls-details title="Adakah Evertag menyokong pengeditan lirik kelompok?" closed="true" %}}
 Ya. Anda boleh memasuki mod kelompok untuk mengedit metadata berbilang fail sekaligus. Ini berguna untuk menggunakan penilaian kandungan lirik yang sama atau tag dikongsi lain pada keseluruhan album.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Adakah lirik yang diedit akan muncul di Apple Music atau Spotify?" closed="true" %}}
+{{% ls-details title="Adakah lirik yang diedit akan muncul di Apple Music atau Spotify?" closed="true" %}}
 Lirik yang diedit dengan Evertag tertanam dalam metadata fail audio. Ia akan muncul dalam mana-mana pemain muzik yang membaca tag lirik tertanam, seperti Evermusic, Flacbox, VLC dan foobar2000. Aplikasi penstriman seperti Spotify dan Apple Music menggunakan pangkalan data lirik mereka sendiri dan tidak membaca tag tertanam.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Bolehkah saya mengedit tag untuk fail yang disimpan di storan awan?" closed="true" %}}
+{{% ls-details title="Bolehkah saya mengedit tag untuk fail yang disimpan di storan awan?" closed="true" %}}
 Ya. Evertag menyokong penyambungan ke perkhidmatan storan awan. Aplikasi memuat turun fail, membenarkan anda mengedit tag dan memuat naik fail yang dikemas kini kembali ke awan secara automatik.
-{{% /details %}}
+{{% /ls-details %}}

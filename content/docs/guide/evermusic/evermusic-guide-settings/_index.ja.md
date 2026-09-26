@@ -18,7 +18,7 @@ readingTime: 16
 設定画面はEvermusicのコントロールセンターです。ここからプレミアムにアップグレードしたり、オーディオプレーヤーを設定したり、音楽ライブラリを管理したり、ファイルマネージャーを設定したり、インターフェースをカスタマイズしたり、ウィジェットとCarPlayを有効にしたり、データをバックアップしたり、ヘルプと法的情報にアクセスしたりできます。セクションは以下のヘッダーの下にグループ化されています：**購入とアップデート**、アプリ設定、**ヘルプ**、**法的情報とプライバシー**。
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evermusic設定画面" image="/docs/guide/evermusic/evermusic-guide-settings/img/settings-main-screen.webp" >}}
+  {{< ls-card title="" subtitle="Evermusic設定画面" image="/docs/guide/evermusic/evermusic-guide-settings/img/settings-main-screen.webp" >}}
 {{< /cards >}}
 
 ## 購入とアップデート

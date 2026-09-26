@@ -7,7 +7,7 @@ tags: ["widget", "ios17", "dinamico", "in riproduzione", "schermata home", "sono
 keywords: ["widget Evermusic", "widget Flacbox", "widget In riproduzione iOS", "widget scrivania macOS Sonoma", "segnalibri audio iPhone", "widget musica Evermusic", "controllo riproduzione schermata home", "widget dinamici iOS 17"]
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **In breve:** Evermusic e Flacbox offrono widget interattivi In riproduzione su iOS 17+ e macOS 14 Sonoma+. Puoi controllare la riproduzione, saltare tracce, aggiungere preferiti e creare segnalibri audio direttamente dalla schermata Home del tuo iPhone o dalla scrivania del Mac — senza bisogno di aprire l'app.
@@ -78,22 +78,22 @@ Goditi l'aggiornamento e buon ascolto!
 
 ## Domande frequenti
 
-{{% details title="I widget funzionano senza aprire l'app?" closed="true" %}}
+{{% ls-details title="I widget funzionano senza aprire l'app?" closed="true" %}}
 Sì. Su iOS 17 e macOS 14 Sonoma, i pulsanti dei widget sono interattivi e controllano la riproduzione direttamente. L'app non deve essere in primo piano.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Quale dimensione di widget dovrei scegliere?" closed="true" %}}
+{{% ls-details title="Quale dimensione di widget dovrei scegliere?" closed="true" %}}
 Scegli Piccolo per riproduzione/pausa di base e preferiti. Scegli Medio se vuoi i pulsanti di salto. Scegli Grande se vuoi anche i segnalibri audio.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Posso usare il widget per riprendere un audiolibro?" closed="true" %}}
+{{% ls-details title="Posso usare il widget per riprendere un audiolibro?" closed="true" %}}
 Sì. Abilita "Salva stato del lettore audio" nelle Impostazioni, e il widget riprenderà la riproduzione dalla tua ultima posizione anche dopo la chiusura dell'app.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="I widget sono disponibili su iPad?" closed="true" %}}
+{{% ls-details title="I widget sono disponibili su iPad?" closed="true" %}}
 Sì. iPadOS 17 supporta gli stessi widget interattivi di iPhone.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Sia Evermusic che Flacbox hanno questi widget?" closed="true" %}}
+{{% ls-details title="Sia Evermusic che Flacbox hanno questi widget?" closed="true" %}}
 Sì. Il widget In riproduzione è disponibile sia in Evermusic che in Flacbox con funzionalità identiche.
-{{% /details %}}
+{{% /ls-details %}}

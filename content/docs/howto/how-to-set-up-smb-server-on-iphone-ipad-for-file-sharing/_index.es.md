@@ -7,7 +7,7 @@ keywords: ["servidor SMB iPhone", "servidor SMB iPad", "cómo configurar SMB en 
 readingTime: 10
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 SMB es la compartición de archivos integrada en macOS, Windows y Linux, y en casi todas las unidades de red (NAS). Cuando te conectas a una carpeta compartida de otro ordenador y se abre como un disco normal en Finder o el Explorador de archivos, eso es SMB haciendo el trabajo. Con [Everdisk](/products/everdisk) puedes poner un recurso compartido SMB en tu iPhone o iPad, de modo que el propio teléfono aparece como una unidad de red que otros dispositivos exploran, de la que copian y a la que copian.
 
@@ -136,44 +136,44 @@ El interruptor **Edición de archivos** en Ajustes, Compartir, Acceso controla e
 
 ## Preguntas frecuentes
 
-{{% details title="¿Cuál es la dirección y el puerto SMB de mi iPhone?" closed="true" %}}
+{{% ls-details title="¿Cuál es la dirección y el puerto SMB de mi iPhone?" closed="true" %}}
 Después de empezar a compartir, Everdisk muestra la dirección en la pantalla Compartir. Tiene el aspecto smb://192.168.1.20:4455/Share. El 4455 es el puerto que Everdisk usa para SMB, y Share es el nombre de la carpeta compartida. La primera parte es la dirección de tu iPhone en la Wi-Fi, así que la tuya será distinta.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="¿Puedo conectarme a mi recurso compartido SMB del iPhone desde Windows?" closed="true" %}}
+{{% ls-details title="¿Puedo conectarme a mi recurso compartido SMB del iPhone desde Windows?" closed="true" %}}
 El Explorador de archivos de Windows solo se conecta a SMB en el puerto estándar y no acepta un puerto personalizado en la ruta, mientras que Everdisk usa el puerto 4455. Así que la ruta simple de Conectar a unidad de red a menudo no llegará a él. Usa un gestor de archivos que te permita fijar un puerto personalizado, o conéctate desde Windows con WebDAV, FTP o el enlace de navegador en su lugar. Todas esas opciones funcionan desde Windows sin problemas de puerto.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="¿Cómo comparto archivos entre dos iPhones con SMB?" closed="true" %}}
+{{% ls-details title="¿Cómo comparto archivos entre dos iPhones con SMB?" closed="true" %}}
 Inicia el servidor SMB en el primer iPhone en Everdisk. En el segundo iPhone, abre la app Archivos, toca el botón más, elige Conectarse al servidor e introduce la dirección smb que se muestra en Everdisk (por ejemplo smb://192.168.1.20:4455/Share). Conéctate como Invitado o con tu inicio de sesión, y el recurso compartido aparece en Archivos. También puedes usar la propia pestaña Dispositivos de Everdisk en el segundo teléfono.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="¿Mi iPhone aparece automáticamente en la barra lateral del Finder del Mac?" closed="true" %}}
+{{% ls-details title="¿Mi iPhone aparece automáticamente en la barra lateral del Finder del Mac?" closed="true" %}}
 Normalmente sí. Everdisk anuncia el recurso compartido SMB en tu Wi-Fi, así que tu iPhone suele aparecer bajo Ubicaciones o Red en la barra lateral del Finder. Haz clic en él y elige Conectar como, luego Invitado o tu inicio de sesión. Si no aparece, conéctate a mano con Ir, Conectarse al servidor y la dirección smb completa.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="¿Necesito una contraseña para usar SMB?" closed="true" %}}
+{{% ls-details title="¿Necesito una contraseña para usar SMB?" closed="true" %}}
 No, el inicio de sesión es opcional. Deja el Usuario y la Contraseña vacíos en Ajustes, Compartir, Acceso para permitir el acceso de invitado. Establécelos si quieres que las conexiones inicien sesión. Un usuario y una contraseña solo son obligatorios si activas Requerir cifrado SMB, porque las conexiones cifradas no pueden ser anónimas.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="¿La conexión SMB está cifrada?" closed="true" %}}
+{{% ls-details title="¿La conexión SMB está cifrada?" closed="true" %}}
 Puede estarlo. SMB es la única conexión de Everdisk que admite cifrado. Establece un usuario y una contraseña, y luego activa Requerir cifrado SMB en Ajustes, Compartir. Cada transferencia queda entonces protegida con SMB3 (AES). El otro dispositivo necesita admitir SMB3, cosa que hacen los Mac modernos y Windows 10 o posterior. El cifrado es una función Premium.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="¿La gente puede cambiar o eliminar mis archivos por SMB?" closed="true" %}}
+{{% ls-details title="¿La gente puede cambiar o eliminar mis archivos por SMB?" closed="true" %}}
 Solo si lo permites. El interruptor Edición de archivos en Ajustes, Compartir, Acceso controla esto. Con él activado, los dispositivos conectados pueden subir, renombrar y eliminar. Con él desactivado, el recurso compartido es de solo lectura y los demás pueden explorar y copiar archivos desde tu teléfono, pero no cambiar nada.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="¿Por qué se cayó mi conexión SMB?" closed="true" %}}
+{{% ls-details title="¿Por qué se cayó mi conexión SMB?" closed="true" %}}
 Tu iPhone es el servidor, e iOS pausa las apps que permanecen demasiado tiempo en segundo plano. Mantén Everdisk abierto en pantalla mientras haya un dispositivo conectado, y conecta el teléfono a la corriente durante las transferencias largas. Asegúrate también de que ambos dispositivos siguen en la misma Wi-Fi.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="SMB, WebDAV o FTP, ¿cuál debería usar?" closed="true" %}}
+{{% ls-details title="SMB, WebDAV o FTP, ¿cuál debería usar?" closed="true" %}}
 Usa SMB cuando quieras que el teléfono se comporte como una unidad de red de verdad en un Mac, otro iPhone, Linux o un NAS, y cuando quieras cifrado. Usa WebDAV cuando quieras una unidad de red que también funcione bien desde Windows. Usa FTP para la mayor compatibilidad con dispositivos y apps antiguos. Everdisk puede ejecutarlos todos a la vez, así que no te quedas atado a uno solo.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="¿Everdisk es gratis?" closed="true" %}}
+{{% ls-details title="¿Everdisk es gratis?" closed="true" %}}
 Sí, Everdisk se descarga gratis y el servidor SMB está incluido. La compra opcional única Premium añade cifrado SMB, puertos personalizados y algunos otros extras. Puedes configurar SMB y compartir archivos sin pagar.
-{{% /details %}}
+{{% /ls-details %}}
 
 ¿Listo para probarlo? [Descarga Everdisk en la App Store](https://apps.apple.com/app/apple-store/id6751851132?pt=95781850&ct=everappzcom&mt=8) y abre tu iPhone en el Finder en aproximadamente un minuto. ¿Preguntas o comentarios? Escríbenos a **support@everappz.com**.

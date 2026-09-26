@@ -14,7 +14,7 @@ authors:
     image: "/images/about/artem-meleshko-founder-everappz.webp"
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 **Ringkasan:** Tonton video promo resmi Evermusic untuk melihat streaming musik cloud, pemutaran offline, dan kustomisasi audio beraksi di iPhone dan Mac.
 
@@ -24,7 +24,7 @@ Kami dengan senang hati membagikan video promosi resmi Evermusic, dibuat dengan 
 
 Tonton Evermusic beraksi — streaming musik dari cloud, mengelola daftar putar, dan menghadirkan audio berkualitas tinggi di iPhone:
 
-{{< youtubecard id="6mm3LVT4rtA" title="Evermusic Promo Video" >}}
+{{< ls-youtubecard id="6mm3LVT4rtA" title="Evermusic Promo Video" >}}
 
 ## Yang Akan Anda Lihat di Video
 
@@ -41,14 +41,14 @@ Jika Anda menikmati video ini, bagikan dengan teman dan sesama pecinta musik.
 
 ## FAQ
 
-{{% details title="Apa itu Evermusic?" closed="true" %}}
+{{% ls-details title="Apa itu Evermusic?" closed="true" %}}
 Evermusic adalah pemutar musik untuk iOS dan macOS yang melakukan streaming audio dari layanan cloud seperti Dropbox, Google Drive, OneDrive, dan iCloud Drive. Ia juga mendukung pemutaran offline dan menyertakan equalizer bawaan.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Layanan cloud apa yang didukung Evermusic?" closed="true" %}}
+{{% ls-details title="Layanan cloud apa yang didukung Evermusic?" closed="true" %}}
 Evermusic terhubung ke Dropbox, Google Drive, OneDrive, iCloud Drive, pCloud, Yandex.Disk, dan beberapa penyedia penyimpanan cloud lainnya.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Apakah Evermusic gratis?" closed="true" %}}
+{{% ls-details title="Apakah Evermusic gratis?" closed="true" %}}
 Evermusic gratis diunduh dengan fitur premium opsional yang tersedia melalui pembelian dalam aplikasi.
-{{% /details %}}
+{{% /ls-details %}}

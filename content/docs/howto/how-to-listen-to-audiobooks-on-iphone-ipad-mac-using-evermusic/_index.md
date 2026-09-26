@@ -9,7 +9,7 @@ aliases:
   - /post/how-to-listen-to-audiobooks-on-iphone-ipad-mac-using-evermusic/
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **TL;DR:** Evermusic doubles as a full-featured audiobook player on iOS and macOS. Transfer audiobooks via iTunes, WiFi, or cloud storage, then use playback speed control, skip-time buttons, audio bookmarks, continue-playback, and offline downloads for a seamless listening experience.
@@ -153,26 +153,26 @@ Happy listening!
 
 ## Frequently Asked Questions
 
-{{% details title="What audiobook formats does Evermusic support?" closed="true" %}}
+{{% ls-details title="What audiobook formats does Evermusic support?" closed="true" %}}
 Evermusic supports MP3, M4A, M4B, FLAC, WAV, AIFF, OGG, and other common audio formats. Any audio file that plays in Evermusic works as an audiobook.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Can I listen to audiobooks from cloud storage?" closed="true" %}}
+{{% ls-details title="Can I listen to audiobooks from cloud storage?" closed="true" %}}
 Yes. Evermusic connects to iCloud Drive, Google Drive, Dropbox, OneDrive, Box, and WebDAV servers. You can stream audiobooks directly or download them for offline listening.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Will my bookmarks transfer to a new device?" closed="true" %}}
+{{% ls-details title="Will my bookmarks transfer to a new device?" closed="true" %}}
 Yes. Evermusic saves audio bookmarks in the file's metadata, so they transfer automatically when you move files to a new device.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Does Evermusic remember where I stopped listening?" closed="true" %}}
+{{% ls-details title="Does Evermusic remember where I stopped listening?" closed="true" %}}
 Yes. Enable "Save Playback Position" and "Save Audio Player State" in Settings > Audio Player > General. The app saves and restores your exact position between sessions.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Can I adjust audiobook playback speed?" closed="true" %}}
+{{% ls-details title="Can I adjust audiobook playback speed?" closed="true" %}}
 Yes. Go to Settings > Audio Player > Playback Speed to set your preferred speed. You can speed up or slow down narration to match your listening preference.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="How do I transfer audiobooks to Evermusic?" closed="true" %}}
+{{% ls-details title="How do I transfer audiobooks to Evermusic?" closed="true" %}}
 You can transfer files via iTunes/Finder file sharing, WiFi Drive (built into the app), or by connecting a cloud storage account within Evermusic.
-{{% /details %}}
+{{% /ls-details %}}

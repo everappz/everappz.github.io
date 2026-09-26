@@ -12,7 +12,7 @@ authors:
     image: "/images/about/artem-meleshko-founder-everappz.webp"
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 ## Evermusic: ο αναπαραγωγέας μουσικής cloud για iPhone και iPad
 
@@ -22,7 +22,7 @@ authors:
 
 ## Δείτε το βίντεο προώθησης
 
-{{< youtubecard id="BwD0XLgdzEE" title="Evermusic Promo Video" >}}
+{{< ls-youtubecard id="BwD0XLgdzEE" title="Evermusic Promo Video" >}}
 
 ## Βασικά χαρακτηριστικά που εμφανίζονται στο βίντεο
 
@@ -36,14 +36,14 @@ authors:
 
 ## Συχνές ερωτήσεις
 
-{{% details title="Τι είναι το Evermusic;" closed="true" %}}
+{{% ls-details title="Τι είναι το Evermusic;" closed="true" %}}
 Το Evermusic είναι ένας αναπαραγωγέας μουσικής cloud για iPhone και iPad. Συνδέεται σε υπηρεσίες αποθήκευσης cloud όπως Dropbox, Google Drive και OneDrive, επιτρέποντάς σας να κάνετε ροή και λήψη των δικών σας αρχείων μουσικής. Υποστηρίζει FLAC, MP3, AAC, WAV και άλλες μορφές ήχου.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Είναι δωρεάν η λήψη του Evermusic;" closed="true" %}}
+{{% ls-details title="Είναι δωρεάν η λήψη του Evermusic;" closed="true" %}}
 Ναι. Το Evermusic είναι δωρεάν για λήψη με βασικά χαρακτηριστικά. Μια εφάπαξ αναβάθμιση Premium ξεκλειδώνει τον ισοσταθμιστή, το crossfade και πρόσθετες συνδέσεις λογαριασμών cloud.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Ποιες υπηρεσίες cloud υποστηρίζει το Evermusic;" closed="true" %}}
+{{% ls-details title="Ποιες υπηρεσίες cloud υποστηρίζει το Evermusic;" closed="true" %}}
 Το Evermusic υποστηρίζει πάνω από 12 πλατφόρμες cloud, συμπεριλαμβανομένων iCloud Drive, Dropbox, Google Drive, OneDrive, Box, MEGA, Yandex.Disk, pCloud και οποιονδήποτε διακομιστή με πρωτόκολλα WebDAV ή SMB.
-{{% /details %}}
+{{% /ls-details %}}

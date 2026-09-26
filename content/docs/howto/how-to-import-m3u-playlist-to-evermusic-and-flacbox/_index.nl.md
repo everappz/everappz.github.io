@@ -7,7 +7,7 @@ tags: ["evermusic", "importeren", "afspeellijsten", "m3u", "cue"]
 readingTime: 3
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **Samenvatting:** Evermusic en Flacbox ondersteunen het importeren van M3U-, M3U8- en CUE-afspeellijstbestanden vanuit cloudopslag, lokale app-bestanden of uw apparaat. Ga naar Afspeellijsten > Meer > Afspeellijst importeren, selecteer een bron, kies uw bestand en de app bouwt automatisch uw afspeellijst.
@@ -84,22 +84,22 @@ Daarnaast kunt u meerdere afspeellijsten tegelijk importeren door op de knop "Me
 
 ## Veelgestelde vragen
 
-{{% details title="Welke afspeellijstformaten ondersteunen Evermusic en Flacbox?" closed="true" %}}
+{{% ls-details title="Welke afspeellijstformaten ondersteunen Evermusic en Flacbox?" closed="true" %}}
 Beide apps ondersteunen M3U-, M3U8- en CUE-afspeellijstbestandsformaten. Deze dekken de meest voorkomende afspeellijststandaarden die worden gebruikt door muziekspelers en mediasoftware.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Kan ik afspeellijsten importeren vanuit cloudopslag?" closed="true" %}}
+{{% ls-details title="Kan ik afspeellijsten importeren vanuit cloudopslag?" closed="true" %}}
 Ja. U kunt afspeellijstbestanden importeren vanuit elke verbonden cloudopslagdienst, waaronder Google Drive, Dropbox, OneDrive en WebDAV-servers.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Waarom ontbreken er nummers na het importeren?" closed="true" %}}
+{{% ls-details title="Waarom ontbreken er nummers na het importeren?" closed="true" %}}
 Het afspeellijstbestand moet correcte paden naar uw mediabestanden bevatten en die bestanden moeten bestaan op de opgegeven locaties op uw opslag. Controleer nogmaals of de bestandspaden in uw M3U- of CUE-bestand overeenkomen met de werkelijke bestandslocaties.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Kan ik meerdere afspeellijsten tegelijk importeren?" closed="true" %}}
+{{% ls-details title="Kan ik meerdere afspeellijsten tegelijk importeren?" closed="true" %}}
 Ja. Gebruik de knop Meer acties en selecteer "Afspeellijsten importeren vanuit een map." De app scant de map op alle ondersteunde afspeellijstbestanden en importeert ze in één stap.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Moet ik handmatig afspeellijsten aanmaken?" closed="true" %}}
+{{% ls-details title="Moet ik handmatig afspeellijsten aanmaken?" closed="true" %}}
 Nee. De importfunctie maakt handmatig afspeellijsten aanmaken overbodig. Wijs de app gewoon naar uw bestaande M3U-, M3U8- of CUE-bestand en de afspeellijst wordt automatisch opgebouwd.
-{{% /details %}}
+{{% /ls-details %}}

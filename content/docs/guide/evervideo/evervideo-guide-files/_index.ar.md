@@ -33,7 +33,7 @@ readingTime: 14
 في الزاوية العلوية اليمنى من شاشة الملفات يوجد زر النقل (أيقونة أسهم دوارة). انقر عليه لفتح قائمة انتظار النقل حيث تراقب كل تنزيل ورفع عبر جميع مصادرك.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="ملفات Evervideo عبر التخزينات المتصلة" image="/docs/guide/evervideo/img/evervideo-files-connected-storages.webp" >}}
+  {{< ls-card title="" subtitle="ملفات Evervideo عبر التخزينات المتصلة" image="/docs/guide/evervideo/img/evervideo-files-connected-storages.webp" >}}
 {{< /cards >}}
 
 ## الاتصال بالتخزين السحابي
@@ -41,7 +41,7 @@ readingTime: 14
 قسم التخزين السحابي في تبويب الملفات هو المكان الذي يوجد فيه كل حساب متصل وNAS وخادم وسائط وتدفق — جنباً إلى جنب، في قائمة واحدة قابلة للتمرير.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="قسم التخزين السحابي في تبويب الملفات في Evervideo" image="/docs/guide/evervideo/img/evervideo-connections.webp" >}}
+  {{< ls-card title="" subtitle="قسم التخزين السحابي في تبويب الملفات في Evervideo" image="/docs/guide/evervideo/img/evervideo-connections.webp" >}}
 {{< /cards >}}
 
 - افتح تبويب **الملفات**.
@@ -51,7 +51,7 @@ readingTime: 14
 - أدخل بيانات اعتمادك في صفحة التفويض الرسمية المقدمة من مزود السحابة، ثم انقر **تم**.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="ربط خدمة تخزين سحابي في Evervideo" image="/docs/guide/evervideo/img/evervideo-connect-cloud-storage.webp" >}}
+  {{< ls-card title="" subtitle="ربط خدمة تخزين سحابي في Evervideo" image="/docs/guide/evervideo/img/evervideo-connect-cloud-storage.webp" >}}
 {{< /cards >}}
 
 إذا واجهت أي مشاكل، تحقق من اتصالك بالإنترنت وبيانات الدخول الخاصة بك. في الإصدار Premium من التطبيق، يمكنك إضافة عدد غير محدود من الخدمات؛ الإصدار المجاني يدعم ما يصل إلى ثلاث خدمات.
@@ -161,7 +161,7 @@ readingTime: 14
 - إذا لزم الأمر، أدخل بيانات الدخول الخاصة بك لإكمال الاتصال.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="الأجهزة المتاحة على الشبكة المحلية في Evervideo" image="/docs/guide/evervideo/img/evervideo-available-devices.webp" >}}
+  {{< ls-card title="" subtitle="الأجهزة المتاحة على الشبكة المحلية في Evervideo" image="/docs/guide/evervideo/img/evervideo-available-devices.webp" >}}
 {{< /cards >}}
 
 ## Wi-Fi Drive
@@ -169,7 +169,7 @@ readingTime: 14
 يتيح لك Wi-Fi Drive نقل الملفات لاسلكياً من جهاز الكمبيوتر إلى جهاز iOS عبر أي متصفح سطح مكتب أو Finder أو File Explorer. يجب أن يكون جهازك وجهاز الكمبيوتر على نفس شبكة Wi-Fi.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Wi-Fi Drive في Evervideo" image="/docs/guide/evervideo/img/evervideo-wifi-drive.webp" >}}
+  {{< ls-card title="" subtitle="Wi-Fi Drive في Evervideo" image="/docs/guide/evervideo/img/evervideo-wifi-drive.webp" >}}
 {{< /cards >}}
 
 ### تفعيل Wi-Fi Drive
@@ -201,7 +201,7 @@ readingTime: 14
 انقر على أي خدمة سحابية متصلة لفتح متصفح الملفات الخاص بها. تعرض المجلدات صور مصغّرة للفيديو عند توفرها، والنقر على فيديو يبدأ التشغيل فوراً مع الاستمرار في بث بقية الملف في الخلفية.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="تصفح المجلدات في التخزينات المتصلة في Evervideo" image="/docs/guide/evervideo/img/evervideo-all-connected-device-folders.webp" >}}
+  {{< ls-card title="" subtitle="تصفح المجلدات في التخزينات المتصلة في Evervideo" image="/docs/guide/evervideo/img/evervideo-all-connected-device-folders.webp" >}}
 {{< /cards >}}
 
 ## الوصول السريع
@@ -209,7 +209,7 @@ readingTime: 14
 يوجد قسم الوصول السريع في أعلى تبويب الملفات. يمنحك وصولاً سريعاً إلى الملفات والمجلدات المفضلة والمفتوحة مؤخراً — سواء من الخدمات السحابية أو من التخزين المحلي. كلما فتحت ملفاً أو مجلداً من السحابة، يُضاف إلى قائمة المفتوحة مؤخراً. يمكنك وضع علامة على المجلدات المتداخلة بعمق كمفضلة للوصول إليها بسرعة دون التنقل عبر هيكل الدليل.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="الروابط الإلكترونية والوصول السريع في Evervideo" image="/docs/guide/evervideo/img/evervideo-connections-online-links.webp" >}}
+  {{< ls-card title="" subtitle="الروابط الإلكترونية والوصول السريع في Evervideo" image="/docs/guide/evervideo/img/evervideo-connections-online-links.webp" >}}
 {{< /cards >}}
 
 ## الملفات في هذا التطبيق
@@ -217,7 +217,7 @@ readingTime: 14
 يعرض هذا القسم الملفات والمجلدات المخزنة في دليل المستندات المحاط بالحماية في Evervideo — كل ما نزّلته من السحابة أو نقلته عبر Wi-Fi Drive أو نسخته من خلال مشاركة ملفات Finder أو استوردته من تطبيق آخر.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="الملفات في هذا التطبيق في Evervideo" image="/docs/guide/evervideo/img/evervideo-files-in-this-application.webp" >}}
+  {{< ls-card title="" subtitle="الملفات في هذا التطبيق في Evervideo" image="/docs/guide/evervideo/img/evervideo-files-in-this-application.webp" >}}
 {{< /cards >}}
 
 ### مجلد المستندات
@@ -225,7 +225,7 @@ readingTime: 14
 مجلد المستندات هو جذر كل شيء داخل الملفات في هذا التطبيق. يمكنك إنشاء مجلدات فرعية وإعادة تسمية الملفات ونقلها وتنظيمها كما تشاء.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="الملفات المحلية في Evervideo — مجلد المستندات" image="/docs/guide/evervideo/img/evervideo-local-files-documents.webp" >}}
+  {{< ls-card title="" subtitle="الملفات المحلية في Evervideo — مجلد المستندات" image="/docs/guide/evervideo/img/evervideo-local-files-documents.webp" >}}
 {{< /cards >}}
 
 ## الملفات على iPhone/iPad/Mac هذا
@@ -238,7 +238,7 @@ readingTime: 14
 يمكنك أيضاً استخدام ربط مجلد لإنشاء رابط لمجلد على جهازك بصلاحيات القراءة/الكتابة — مثالي للعمل مع مجلد على iCloud Drive أو محرك USB مرفق دون نسخ أي شيء.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="الملفات على هذا الجهاز في Evervideo" image="/docs/guide/evervideo/img/evervideo-files-on-this-device.webp" >}}
+  {{< ls-card title="" subtitle="الملفات على هذا الجهاز في Evervideo" image="/docs/guide/evervideo/img/evervideo-files-on-this-device.webp" >}}
 {{< /cards >}}
 
 ## المجلدات الخاصة
@@ -276,7 +276,7 @@ readingTime: 14
 انقر على **"..."** في الزاوية العلوية اليمنى واختر **اختيار** للدخول إلى وضع الاختيار. تظهر مربعات اختيار بجانب كل ملف ومجلد. انقر لاختيار عنصر أو عدة عناصر، ثم قم بإجراءات مجمّعة: تشغيل التالي، تشغيل لاحقاً، إضافة إلى المكتبة، إضافة إلى قائمة تشغيل، نسخ، رفع، نقل، إعادة تسمية، أو حذف.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="وضع الاختيار في مدير الملفات في Evervideo" image="/docs/guide/evervideo/img/evervideo-selection-mode-in-files.webp" >}}
+  {{< ls-card title="" subtitle="وضع الاختيار في مدير الملفات في Evervideo" image="/docs/guide/evervideo/img/evervideo-selection-mode-in-files.webp" >}}
 {{< /cards >}}
 
 إذا كنت تفضّل التعامل مع التخزين السحابي المتصل للقراءة فقط (لمنع الحذف العرضي)، فعّل الإعدادات ← مدير الملفات ← تحرير الملفات الإلكترونية ← إيقاف لإخفاء جميع العمليات المدمِّرة من واجهة المستخدم.
@@ -318,13 +318,13 @@ readingTime: 14
 في الزاوية العلوية اليمنى من تبويب الملفات يوجد زر **النقل** (أيقونة أسهم دوارة). انقر عليه لفتح قائمة انتظار النقل — قائمة بكل تنزيل ورفع نشط عبر جميع مصادرك، مع التقدم في الوقت الفعلي والسرعة والوقت المتوقع للإتمام لكل ملف.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="قائمة انتظار نقل الملفات في Evervideo" image="/docs/guide/evervideo/img/evervideo-file-transfers.webp" >}}
+  {{< ls-card title="" subtitle="قائمة انتظار نقل الملفات في Evervideo" image="/docs/guide/evervideo/img/evervideo-file-transfers.webp" >}}
 {{< /cards >}}
 
 يمكنك إيقاف التنزيلات مؤقتاً أو استئنافها أو إعادة محاولة النقل الفاشل أو إعادة ترتيب العناصر لإعطاء الأولوية لتنزيلات محددة، أو إلغاؤها بشكل فردي. يمكنك أيضاً ضبط سرعة قائمة انتظار النقل (الحد الأقصى للمهام المتوازية) ونوع الشبكة (Wi-Fi فقط أو Wi-Fi + شبكة خلوية) والنقل في الخلفية في الإعدادات ← مدير الملفات.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="الإجراءات على قائمة انتظار نقل الملفات في Evervideo" image="/docs/guide/evervideo/img/evervideo-file-transfers-actions.webp" >}}
+  {{< ls-card title="" subtitle="الإجراءات على قائمة انتظار نقل الملفات في Evervideo" image="/docs/guide/evervideo/img/evervideo-file-transfers-actions.webp" >}}
 {{< /cards >}}
 
 ## وضع عدم الاتصال والمجلدات غير المتصلة المتزامنة

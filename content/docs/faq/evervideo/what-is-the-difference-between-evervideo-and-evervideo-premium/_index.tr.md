@@ -11,7 +11,7 @@ readingTime: 3
 Evervideo, hem belirli kullanım sınırlamalarına sahip ücretsiz bir sürüm hem de uygulama içi satın alımlar aracılığıyla açılabilen ek özelliklerle bir premium sürüm sunar.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Varsayılan Plan Yükseltme Ekranı" image="/docs/faq/evervideo/what-is-the-difference-between-evervideo-and-evervideo-premium/upgrade-default.webp" >}}
+  {{< ls-card title="" subtitle="Varsayılan Plan Yükseltme Ekranı" image="/docs/faq/evervideo/what-is-the-difference-between-evervideo-and-evervideo-premium/upgrade-default.webp" >}}
 {{< /cards >}}
 
 ## Premium Planınızı Seçin
@@ -19,7 +19,7 @@ Evervideo, hem belirli kullanım sınırlamalarına sahip ücretsiz bir sürüm 
 Uygulamanın ücretsiz sürümü, tüm kısıtlamaları kaldırmak ve Premium sürüme yükseltmek için tek seferlik ömür boyu uygulama içi satın alma ve iki abonelik seçeneği (1 ay ve 1 yıl) sunarak size en iyi ve en uygun fiyatı seçme imkânı tanır. Fiyatlar ülkenize veya bölgenize göre değişebilir. Ayrıca, **Family Sharing** tüm satın almalar ve planlar için etkinleştirildiğinden, premium sürümü aile üyelerinizle paylaşabileceğinizi unutmayın.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evervideo Plan Seçim Ekranı" image="/docs/faq/evervideo/what-is-the-difference-between-evervideo-and-evervideo-premium/plan-select.webp" >}}
+  {{< ls-card title="" subtitle="Evervideo Plan Seçim Ekranı" image="/docs/faq/evervideo/what-is-the-difference-between-evervideo-and-evervideo-premium/plan-select.webp" >}}
 {{< /cards >}}
 
 ## iOS ve Mac Arasında Satın Almaları Paylaşma
@@ -31,13 +31,13 @@ Uygulama ayarlarındaki "Satın Almaları Geri Yükle" düğmesine basmayı da d
 Yeni cihazda satın alımınızı geri yüklemek için "Satın almaları geri yükle" menüsünü kullanın. Satın almalarınızın listesini göreceksiniz. Tüm satın almalarınızı göremiyorsanız, cihazın satın almaları yapmak için kullanılan iTunes hesabına bağlı olup olmadığını kontrol edin ve iCloud'un etkin olduğundan emin olun.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Satın Alma Geri Yüklendi Ekranı" image="/docs/faq/evervideo/what-is-the-difference-between-evervideo-and-evervideo-premium/purchase-restored.webp" >}}
+  {{< ls-card title="" subtitle="Satın Alma Geri Yüklendi Ekranı" image="/docs/faq/evervideo/what-is-the-difference-between-evervideo-and-evervideo-premium/purchase-restored.webp" >}}
 {{< /cards >}}
 
 Uygulamanızı yükselttikten sonra, mevcut satın almalarınızın ayrıntılarını içeren Premium durum ekranını göreceksiniz.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Premium Kullanıyorsunuz Ekranı" image="/docs/faq/evervideo/what-is-the-difference-between-evervideo-and-evervideo-premium/you-are-using-premium.webp" >}}
+  {{< ls-card title="" subtitle="Premium Kullanıyorsunuz Ekranı" image="/docs/faq/evervideo/what-is-the-difference-between-evervideo-and-evervideo-premium/you-are-using-premium.webp" >}}
 {{< /cards >}}
 
 ## Premium'u Ücretsiz Deneyin
@@ -45,7 +45,7 @@ Uygulamanızı yükselttikten sonra, mevcut satın almalarınızın ayrıntılar
 Ayrıca, "**Premium'u Ücretsiz Deneyin**" için sınırlı süreli bir fırsat var. Bu özelliğe "Premium'u Ücretsiz Deneyin" menüsünden erişebilirsiniz. Sadece bir reklam izleyerek veya uygulamayı arkadaşlarınıza anlatarak, bu promosyon döneminde premium sürümü ücretsiz olarak açabilirsiniz. Bu, herhangi bir mali taahhüt olmaksızın premium özellikleri deneyimleme fırsatı sunar.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Premium'u Ücretsiz Deneyin Ekranı" image="/docs/faq/evervideo/what-is-the-difference-between-evervideo-and-evervideo-premium/premium-for-free.webp" >}}
+  {{< ls-card title="" subtitle="Premium'u Ücretsiz Deneyin Ekranı" image="/docs/faq/evervideo/what-is-the-difference-between-evervideo-and-evervideo-premium/premium-for-free.webp" >}}
 {{< /cards >}}
 
 ## Evervideo Ücretsiz
@@ -62,7 +62,7 @@ Ayrıca, "**Premium'u Ücretsiz Deneyin**" için sınırlı süreli bir fırsat 
 - Özelleştirme veya kişiselleştirme seçenekleri yok.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Bulut Depolama Yükseltme Ekranı" image="/docs/faq/evervideo/what-is-the-difference-between-evervideo-and-evervideo-premium/upgrade-cloud-storage.webp" >}}
+  {{< ls-card title="" subtitle="Bulut Depolama Yükseltme Ekranı" image="/docs/faq/evervideo/what-is-the-difference-between-evervideo-and-evervideo-premium/upgrade-cloud-storage.webp" >}}
 {{< /cards >}}
 
 ## Evervideo Premium
@@ -106,7 +106,7 @@ Yeni başlıyorsanız veya yalnızca temel video oynatma özelliklerine ihtiyac�
 Öte yandan, **Evervideo Premium** tam deneyimin kilidini açar. Reklamsız arayüz, sınırsız oynatma listesi ve kuyruk desteği, tam çevrimdışı işlevsellik, bulut esnekliği ve gelişmiş dışa aktarma ve kişiselleştirme seçeneklerinin keyfini çıkarırsınız. Büyük video kitaplıklarına sahip kullanıcılar, birden fazla kaynaktan içerik izleyenler veya daha profesyonel ve sorunsuz bir medya oynatıcısı arayanlar için en iyi seçenektir.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Premium Satın Aldınız Ekranı" image="/docs/faq/evervideo/what-is-the-difference-between-evervideo-and-evervideo-premium/you-have-purchased-premium.webp" >}}
+  {{< ls-card title="" subtitle="Premium Satın Aldınız Ekranı" image="/docs/faq/evervideo/what-is-the-difference-between-evervideo-and-evervideo-premium/you-have-purchased-premium.webp" >}}
 {{< /cards >}}
 
 Esneklik arıyorsanız **aylık planı** deneyin. Uzun vadeli değer için **yıllık** veya **ömür boyu** yükseltmeye gidin — her ikisi de daha iyi bir fiyatla tam erişim sunar.

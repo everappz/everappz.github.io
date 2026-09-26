@@ -15,7 +15,7 @@ tags: [
 ---
 
 
-{{< lottie src="/images/juicy-json/juicy-woman-focused-on-online-learning.json" width="85%" >}}
+{{< ls-lottie src="/images/juicy-json/juicy-woman-focused-on-online-learning.json" width="85%" >}}
 
 ## تعلّم كيفية استخدام تطبيقاتنا
 
@@ -27,7 +27,7 @@ tags: [
 
 ## اختر تطبيقك
 
-{{< product-doc-cards section="faq" >}}
+{{< ls-product-doc-cards section="faq" >}}
 
 ## المشكلات الشائعة والإجابات
 
@@ -35,7 +35,7 @@ tags: [
 
 <div class="hx:w-full">
 
-{{% details title="لماذا لا أستطيع تسجيل الدخول إلى pCloud على إصدار iOS أقدم (15.8.4)؟" closed="true" %}}
+{{% ls-details title="لماذا لا أستطيع تسجيل الدخول إلى pCloud على إصدار iOS أقدم (15.8.4)؟" closed="true" %}}
 قد لا تعرض صفحة تسجيل الدخول على الويب الخاصة بـ pCloud بشكل صحيح على إصدارات iOS الأقدم مثل 15.8.4، مما يمنع إدخال بريدك الإلكتروني وكلمة مرورك داخل شاشة توصيل السحابة.<br><br>
 
 كحل بديل، يمكنك استخدام بروتوكول **WebDAV**، المدعوم من pCloud ويعمل بشكل موثوق عبر جميع إصدارات iOS.
@@ -49,9 +49,9 @@ tags: [
 افتح التطبيق ← الاتصالات ← الاتصال بالتخزين السحابي ← اختر **WebDAV** ← أدخل بياناتك الاعتمادية وعنوان URL للخادم.
 
 ستتيح لك هذه الطريقة الاتصال بتخزين pCloud والوصول إلى ملفاتك دون مشاكل على الأجهزة القديمة.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="كيف أشغّل الموسيقى عبر AirPlay من Mac (macOS)؟" closed="true" %}}
+{{% ls-details title="كيف أشغّل الموسيقى عبر AirPlay من Mac (macOS)؟" closed="true" %}}
 لا تتضمن نسخة macOS من التطبيق أزرار اتصال AirPlay أو Chromecast أو Bluetooth مدمجة كما في iOS.<br><br>
 
 لاستخدام **AirPlay** على MacBook Pro الخاص بك، اتبع الخطوات التالية:
@@ -62,9 +62,9 @@ tags: [
 4. حدد الجهاز المطلوب لبدء بث موسيقاك.  
 
 سيوجه هذا جميع صوت النظام (بما في ذلك من Evermusic أو Flacbox) إلى جهاز AirPlay الذي اخترته.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="لماذا لم يتم تفعيل اشتراكي Premium على Mac إذا اشتريته على iPhone؟" closed="true" %}}
+{{% ls-details title="لماذا لم يتم تفعيل اشتراكي Premium على Mac إذا اشتريته على iPhone؟" closed="true" %}}
 تتم مزامنة مشتريات مدى الحياة والاشتراكات بين iOS وMac عبر **iCloud**.<br><br>
 
 لتفعيل Premium على Mac:<br>
@@ -76,9 +76,9 @@ tags: [
 - أو اضغط على **استعادة المشتريات** في إعدادات التطبيق على كلا الجهازين<br><br>
 
 يجب أن تُفعَّل ميزات Premium على Mac تلقائيًا بعد ذلك.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="كيف يمكنني مزامنة قوائم التشغيل تلقائيًا بين الأجهزة؟" closed="true" %}}
+{{% ls-details title="كيف يمكنني مزامنة قوائم التشغيل تلقائيًا بين الأجهزة؟" closed="true" %}}
 لا توجد حاليًا **مزامنة تلقائية** لقوائم التشغيل.<br><br>
 
 يمكنك استخدام أحد الخيارات التالية:<br>
@@ -88,9 +88,9 @@ tags: [
   - [كيفية استيراد قوائم التشغيل](/docs/howto/how-to-import-m3u-playlist-to-evermusic-and-flacbox/)<br>
 - **أرشفة قائمة التشغيل أو الألبومات** ونقلها عبر ZIP:<br>
   - [دليل أرشفة قوائم التشغيل](/docs/howto/how-to-archive-zip-playlists-albums-artists-and-genres-in-evermusic-flacbox-and-transfer-to/)
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="هل تطبيقاتكم آمنة؟ هل يمكنني تعطيل التحليلات؟" closed="true" %}}
+{{% ls-details title="هل تطبيقاتكم آمنة؟ هل يمكنني تعطيل التحليلات؟" closed="true" %}}
 نعم، خصوصيتك هي أولويتنا القصوى.<br><br>
 
 - تبقى جميع البيانات — ملفات الموسيقى والإعدادات وتسجيلات الدخول السحابية — على جهازك<br>
@@ -104,18 +104,18 @@ tags: [
 
 عند استخدام الإعلانات المخصصة، تتطلب Google Mobile Ads عرض إعدادات الموافقة.<br>
 المستخدمون المميزون لا يرون أي إعلانات وحزمة SDK للإعلانات معطّلة تمامًا.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="هل تدعم تطبيقاتكم مشاركة العائلة؟" closed="true" %}}
+{{% ls-details title="هل تدعم تطبيقاتكم مشاركة العائلة؟" closed="true" %}}
 نعم، مشاركة العائلة مدعومة.<br><br>
 
 لمشاركة المشتريات داخل التطبيق:<br>
 - تأكد من إعداد الشراء للمشاركة مع مجموعة عائلتك<br>
 - على جهاز أحد أفراد العائلة، انتقل إلى **الإعدادات > المشتريات > استعادة المشتريات**<br>
 - سيطلب هذا بيانات الشراء من خوادم Apple ويفعّلها على جهازه
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="كيف أسرّع مزامنة البيانات الوصفية والسحابة؟" closed="true" %}}
+{{% ls-details title="كيف أسرّع مزامنة البيانات الوصفية والسحابة؟" closed="true" %}}
 لتحسين سرعة المزامنة، فعّل المهام في الخلفية:<br><br>
 
 - **الإعدادات ← مكتبة الموسيقى ← قراءة البيانات الوصفية ← قراءة البيانات الوصفية في الخلفية**<br>
@@ -123,14 +123,14 @@ tags: [
 
 أيضًا، على macOS، زد سرعة قراءة البيانات الوصفية عبر **الإعدادات ← مكتبة الموسيقى**.<br>
 إذا كان المشغّل نشطًا (يعزف صوتًا)، فلن يوقف iOS التطبيق، مما يتيح مزامنة مستمرة.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="كيف يمكنني إلغاء اشتراكي؟" closed="true" %}}
+{{% ls-details title="كيف يمكنني إلغاء اشتراكي؟" closed="true" %}}
 يمكنك إلغاء اشتراكك من خلال التعليمات الرسمية من Apple:<br>
 👉 [كيفية إلغاء الاشتراك](https://support.apple.com/en-us/118428)
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="كيف يمكنني توصيل WD MyCloud EX2 Ultra وبث الصوت منه؟" closed="true" %}}
+{{% ls-details title="كيف يمكنني توصيل WD MyCloud EX2 Ultra وبث الصوت منه؟" closed="true" %}}
 
 عند إضافة اتصال في التطبيق عبر **الاتصالات > الاتصال بالتخزين السحابي > My Cloud Home**، فهو مصمم رسميًا لدعم أجهزة **WD MyCloud Home**.<br>
 يستخدم WD MyCloud EX2 Ultra وصولاً مقيّدًا للتطبيقات.<br><br>
@@ -144,16 +144,16 @@ tags: [
 5. يمكنك الآن بثّها أو تنزيلها مباشرةً<br><br>
 
 ⚠️ فقط المجلدات التي تم إنشاؤها عبر التطبيق ستكون متاحة من NAS.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="كيف أتصل بـ Koofr.eu؟" closed="true" %}}
+{{% ls-details title="كيف أتصل بـ Koofr.eu؟" closed="true" %}}
 يمكنك توصيل Koofr باستخدام **WebDAV**.<br><br>
 
 - دليل إعداد WebDAV لـ Koofr: [مدونة koofr.eu](https://koofr.eu/blog/posts/3-ways-to-map-koofr-as-a-network-drive-explained)<br>
 - دليل WebDAV لـ Evermusic/Flacbox: [كيفية توصيل تخزين NAS باستخدام WebDAV والاستماع إلى الموسيقى على iPhone أو Mac](/docs/howto/how-to-connect-nas-storage-using-webdav-and-listen-to-music-on-your-iphone-or-mac/)
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="ما هي مخططات URL للتطبيق؟" closed="true" %}}
+{{% ls-details title="ما هي مخططات URL للتطبيق؟" closed="true" %}}
 إليك المخططات المدعومة:<br><br>
 
 **Evermusic**<br>
@@ -172,35 +172,35 @@ tags: [
 **Evervideo**<br>
 - iOS: `lsevervideo://`<br>
 - macOS: `lsevervideomac://`
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="تتوقف الموسيقى عن التشغيل عند وجود التطبيق في الخلفية — كيف أحل المشكلة؟" closed="true" %}}
+{{% ls-details title="تتوقف الموسيقى عن التشغيل عند وجود التطبيق في الخلفية — كيف أحل المشكلة؟" closed="true" %}}
 إذا تعطّل التطبيق أو توقف في الخلفية:<br>
 - انتقل إلى **الإعدادات > مكتبة الموسيقى > مزامنة الموسيقى عبر الإنترنت > المزامنة في الخلفية ← تعطيل**<br>
 - **الإعدادات > مكتبة الموسيقى > قراءة البيانات الوصفية > قراءة البيانات الوصفية في الخلفية ← تعطيل**<br>
 - **الإعدادات > مدير الملفات > النقل في الخلفية ← تعطيل**
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="التشغيل بلا فجوات لا يعمل — كيف أحل المشكلة؟" closed="true" %}}
+{{% ls-details title="التشغيل بلا فجوات لا يعمل — كيف أحل المشكلة؟" closed="true" %}}
 يعتمد التشغيل بلا فجوات على إصدار iOS ومحرك الصوت.<br>
 جرّب تبديل محرك الصوت:<br>
 - انتقل إلى **الإعدادات ← مشغّل الصوت ← عام ← معالج الصوت**<br>
 - اختر **Core Audio** للحصول على دعم أفضل للتشغيل بلا فجوات
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="لماذا يعرض التطبيق 100 عنصر فقط في القائمة؟" closed="true" %}}
+{{% ls-details title="لماذا يعرض التطبيق 100 عنصر فقط في القائمة؟" closed="true" %}}
 يستخدم التطبيق الترقيم الصفحي لتحسين الأداء.<br>
 لتعطيله:<br>
 - انتقل إلى **الإعدادات ← التخصيص ← حد تحميل المحتوى ← معطّل**<br>
 ستُحمَّل جميع العناصر دفعة واحدة الآن.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="لماذا توجد أحرف غريبة في البيانات الوصفية؟" closed="true" %}}
+{{% ls-details title="لماذا توجد أحرف غريبة في البيانات الوصفية؟" closed="true" %}}
 جرّب تفعيل تطبيع البيانات الوصفية:<br>
 - **الإعدادات ← مكتبة الموسيقى ← قراءة البيانات الوصفية ← تطبيع ترميز البيانات الوصفية**
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="لماذا لا يستطيع التطبيق قراءة أسماء المجلدات ذات الأحرف الخاصة؟" closed="true" %}}
+{{% ls-details title="لماذا لا يستطيع التطبيق قراءة أسماء المجلدات ذات الأحرف الخاصة؟" closed="true" %}}
 هذه مشكلة معروفة مع **بروتوكول SMB2**.<br><br>
 
 جرّب الحلول التالية:<br>
@@ -210,9 +210,9 @@ tags: [
   - حدد المجلدات/الملفات باستخدام قائمة Apple الأصلية<br><br>
 
 بدلاً من ذلك، اتصل باستخدام **WebDAV** أو **DLNA** إذا كان NAS الخاص بك يدعمهما.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="كيف أرفع الموسيقى وأديرها في iCloud؟" closed="true" %}}
+{{% ls-details title="كيف أرفع الموسيقى وأديرها في iCloud؟" closed="true" %}}
 – **كيف أرفع الموسيقى إلى iCloud؟**  <br>
 انتقل إلى [https://www.icloud.com](https://www.icloud.com) في متصفحك، وأنشئ مجلدًا، وارفع ملفات الموسيقى مباشرةً من Mac أو PC.<br>
 
@@ -225,9 +225,9 @@ tags: [
 
 اعرف المزيد هنا: [كيفية بث الموسيقى من iCloud Drive على iPhone أو Mac](/docs/howto/how-to-listen-to-music-from-icloud-drive-on-your-iphone-or-mac/)
 
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="كيف يمكنني نقل مكتبة موسيقى بحجم 10 جيجابايت من Windows 11 إلى iPhone للتشغيل دون اتصال؟" closed="true" %}}
+{{% ls-details title="كيف يمكنني نقل مكتبة موسيقى بحجم 10 جيجابايت من Windows 11 إلى iPhone للتشغيل دون اتصال؟" closed="true" %}}
 
 لديك عدة خيارات موثوقة لنقل مكتبة الموسيقى من PC بنظام Windows 11 إلى iPhone واستخدامها دون اتصال في التطبيق. اختر الطريقة الأنسب لك:
 
@@ -253,6 +253,6 @@ tags: [
 
 ⚠️ عند نقل مكتبات كبيرة (10 جيجابايت فأكثر)، يكون النقل السلكي عبر USB عادةً الأسرع والأكثر استقرارًا.
 
-{{% /details %}}
+{{% /ls-details %}}
 
 </div>

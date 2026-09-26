@@ -12,7 +12,7 @@ authors:
     image: "/images/about/artem-meleshko-founder-everappz.webp"
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 **摘要：**[Everdisk](/products/everdisk) 是我们的全新应用，它能把你的 **iPhone 或 iPad 变成一块无线硬盘**，同时也是连接你其他设备的枢纽。点一下 **Start**，Everdisk 就会**同时运行四个服务器**：**DLNA** 面向智能电视和媒体播放器，**HTTP** 面向任何网页浏览器，**WebDAV** 面向 Finder、Windows 和 Linux，**FTP** 面向文件类应用。每台设备都按自己喜欢的方式连接。把你的文件、照片、视频和音乐分享给网络中的任何设备，不用连线就能投屏到电视，把你的设备挂载为网络驱动器，或者在没有 Wi-Fi 时通过 **USB 数据线**传输文件。Everdisk 还能反向连接到 **DLNA、WebDAV、FTP 和 SFTP** 服务器，内置支持压缩和解压的**文件管理器**，还能**把文档扫描为 PDF**、**批注和签署 PDF**，并提供一整套 **PDF 工具**。无需账户、无需云端，另一端也无需安装额外应用。所有内容都留在你的局域网内。免费下载，可选一次性购买 Premium Lifetime。
 
@@ -133,46 +133,46 @@ Everdisk 围绕三个简单的理念打造：
 
 ## 常见问题
 
-{{% details title="Everdisk 是什么？" closed="true" %}}
+{{% ls-details title="Everdisk 是什么？" closed="true" %}}
 Everdisk 是一款全新应用，能把你的 iPhone 或 iPad 变成一块无线硬盘，也是连接你其他设备的枢纽。你可以把文件、照片、视频和音乐分享给网络中的任何设备，从其他服务器浏览和串流，并在设备上直接管理一切。无需账户、无需云端，另一端也无需安装额外应用。你只需点一下 Start，一切就绪。这款应用同时运行四个服务器：DLNA 面向智能电视和媒体播放器，HTTP 面向任何网页浏览器，WebDAV 面向 Finder、Windows 和 Linux，FTP 面向文件类应用和进阶用户。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Everdisk 多少钱？" closed="true" %}}
+{{% ls-details title="Everdisk 多少钱？" closed="true" %}}
 Everdisk 免费下载。你可以免费把设备变成无线硬盘、用四种方式分享文件、投屏到电视、挂载网络驱动器、通过 USB 传输、连接其他服务器、使用文件管理器、扫描文档以及使用 PDF 工具。另有一次性 Premium Lifetime 购买选项，一次付费无订阅，可解锁无限的共享文件夹和已保存连接、照片和视频转换、自定义端口、自动开启分享，以及设备个性化。价格可能因地区而异。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="我需要在另一台设备上安装任何东西吗？" closed="true" %}}
+{{% ls-details title="我需要在另一台设备上安装任何东西吗？" closed="true" %}}
 不需要。这正是重点所在。另一台设备用它自己已有的工具就能连接。智能电视通过 DLNA 自行找到你的媒体库，任何电脑或手机在网页浏览器中打开一个链接即可，而 Mac Finder、Windows 和 Linux 则通过 WebDAV 把你的设备挂载为网络驱动器。另一端无需安装任何东西。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="我如何把照片和视频串流到电视？" closed="true" %}}
+{{% ls-details title="我如何把照片和视频串流到电视？" closed="true" %}}
 把你的电视或媒体播放器和你的设备接入同一张 Wi-Fi 网络，然后在 Everdisk 中点一下 Start，并分享你的照片、视频或音乐。你的设备会自行出现在电视的媒体服务器列表里，并带有预览缩略图。在电视上打开它，就能在大屏幕上尽享你的媒体库。无需连线，也无需额外应用。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="我如何从 Mac 或 PC 连接 Everdisk？" closed="true" %}}
+{{% ls-details title="我如何从 Mac 或 PC 连接 Everdisk？" closed="true" %}}
 Everdisk 通过 WebDAV 让你的设备显示为一块普通网络驱动器。在 Mac 上，打开 Finder 并选择 Go，然后 Connect to Server，输入应用中显示的 WebDAV 地址。在 Windows 上，用同一个地址映射一块网络驱动器。在 Linux 上，从你的文件管理器连接到该 WebDAV 地址。连接之后，你就可以双向拖放。如果你不想挂载驱动器，只需在任意网页浏览器中打开 HTTP 链接即可。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="没有 Wi-Fi 也能传文件吗？" closed="true" %}}
+{{% ls-details title="没有 Wi-Fi 也能传文件吗？" closed="true" %}}
 可以。用你平时充电用的那根 USB 数据线把设备连到 Mac，文件就会直接通过数据线传输，比 Wi-Fi 更快。因为它不需要无线网络，所以在飞机上、酒店里，或任何禁止 Wi-Fi 共享的锁定网络或公共网络中都能照常工作。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="我能把文件从一台 iPhone 发到另一台吗？" closed="true" %}}
+{{% ls-details title="我能把文件从一台 iPhone 发到另一台吗？" closed="true" %}}
 可以。在一台设备上开始分享，然后在另一台设备的网页浏览器中打开链接，或者通过 WebDAV 或 FTP 连接。你可以双向浏览、串流和下载，甚至把照片、文档和整个文件夹上传回正在分享的那台设备。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Everdisk 能连接到哪些设备？" closed="true" %}}
+{{% ls-details title="Everdisk 能连接到哪些设备？" closed="true" %}}
 Everdisk 也是你网络中其他设备的客户端。你可以查找并连接 DLNA、WebDAV、FTP 和 SFTP 服务器，包括 NAS 设备和媒体服务器。连接之后，你可以浏览它们的文件夹，串流音频和视频，下载文件，并在服务器允许时创建文件夹、上传、重命名、移动或删除。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="我能在 Everdisk 中扫描文档和编辑 PDF 吗？" closed="true" %}}
+{{% ls-details title="我能在 Everdisk 中扫描文档和编辑 PDF 吗？" closed="true" %}}
 可以。Everdisk 能用相机扫描纸质文档。它会自行识别边缘，把每一页拉正，并保存为一份整洁的多页 PDF。你还可以打开一份 PDF 或照片进行标注（涂画、高亮、添加文字和形状，以及用手指签名），改动会保存回文件。一整套 PDF 工具还提供压缩、把内容识别 (OCR) 成可搜索的 PDF、密码保护、权限查看、元数据编辑，以及展平。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Everdisk 私密又安全吗？" closed="true" %}}
+{{% ls-details title="Everdisk 私密又安全吗？" closed="true" %}}
 是的。一切都留在你的局域网内，从不接触互联网，所以你的文件永远不会离开家。中间没有账户也没有云端。你可以用登录名和密码保护访问，让连接的设备必须输入相同的信息才能看到你的文件，而且你可以一键屏蔽任何设备。为了获得最佳隐私，只在你连着熟悉且信任的 Wi-Fi 网络时才开启分享。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Everdisk 能在哪些设备上运行？" closed="true" %}}
+{{% ls-details title="Everdisk 能在哪些设备上运行？" closed="true" %}}
 Everdisk 在 iPhone 和 iPad 上运行。它可以与智能电视、媒体播放器，Mac、Windows 和 Linux 电脑，网页浏览器，其他手机和平板，NAS 硬盘，以及你网络中任何 DLNA、WebDAV、FTP 或 SFTP 服务器共享并连接。
-{{% /details %}}
+{{% /ls-details %}}

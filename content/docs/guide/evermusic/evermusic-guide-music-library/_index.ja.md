@@ -15,7 +15,7 @@ readingTime: 11
 音楽ライブラリの管理はEvermusicで簡単に行え、すべてのトラックを楽々と整理できます。音楽ライブラリを構築するには2つのオプションがあります：手動追加または自動同期。
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evermusic 音楽ライブラリ画面" image="/docs/guide/evermusic/evermusic-guide-music-library/img/music-library-main.webp" >}}
+  {{< ls-card title="" subtitle="Evermusic 音楽ライブラリ画面" image="/docs/guide/evermusic/evermusic-guide-music-library/img/music-library-main.webp" >}}
 {{< /cards >}}
 
 ## 手動追加
@@ -23,7 +23,7 @@ readingTime: 11
 トラックを手動で追加するには、「音楽を追加」メニュー項目をタップし、接続されたクラウドストレージサービスからフォルダー/ファイルを選択するか、デバイスにあるファイルを選択します。トラックをライブラリに追加すると、それらのトラックへのリンクのみが作成され、実際のファイルは貴重なディスク容量を節約するために元の場所に保存されます。トラックをオフラインで利用できるようにしたい場合は、オプションメニューのダウンロードアクションを使用するか、プレイリストやトラックコレクションのオフラインモードを有効にします。
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="音楽ライブラリに曲を追加" image="/docs/guide/evermusic/evermusic-guide-music-library/img/music-library-add-songs.webp" >}}
+  {{< ls-card title="" subtitle="音楽ライブラリに曲を追加" image="/docs/guide/evermusic/evermusic-guide-music-library/img/music-library-add-songs.webp" >}}
 {{< /cards >}}
 
 ## クイックアクセス
@@ -75,7 +75,7 @@ readingTime: 11
 ナビゲーションバーのすぐ下にある上部ツールバーは、「検索」、「すべて再生」、「シャッフル再生」、「再生を続ける」などの便利なアクションを提供します。このツールバーは下にスワイプするジェスチャーで表示または非表示にできます。
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="アルバムビュー — 音楽タグでグループ化" image="/docs/guide/evermusic/evermusic-guide-music-library/img/music-library-albums.webp" >}}
+  {{< ls-card title="" subtitle="アルバムビュー — 音楽タグでグループ化" image="/docs/guide/evermusic/evermusic-guide-music-library/img/music-library-albums.webp" >}}
 {{< /cards >}}
 
 ## 検索
@@ -83,7 +83,7 @@ readingTime: 11
 検索機能を使用すると、音楽ライブラリ内の特定のトラック、アーティスト、アルバム、またはジャンルを見つけることができます。「検索画面」では、「並べ替え」、「フィルター」、「グリッド/リスト」のアクションにアクセスできます。
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="音楽ライブラリ検索結果" image="/docs/guide/evermusic/evermusic-guide-music-library/img/music-library-search.webp" >}}
+  {{< ls-card title="" subtitle="音楽ライブラリ検索結果" image="/docs/guide/evermusic/evermusic-guide-music-library/img/music-library-search.webp" >}}
 {{< /cards >}}
 
 ## オプションメニュー
@@ -91,7 +91,7 @@ readingTime: 11
 音楽ライブラリの各曲には、曲タイトルの近くにある三点ボタンをタップしてアクセスできる追加アクションのメニューがあります。これらのアクションは、単一の曲かコレクションの一部かによって異なります。
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="ライブラリアイテムのその他のアクション" image="/docs/guide/evermusic/evermusic-guide-music-library/img/music-library-item-more-actions.webp" >}}
+  {{< ls-card title="" subtitle="ライブラリアイテムのその他のアクション" image="/docs/guide/evermusic/evermusic-guide-music-library/img/music-library-item-more-actions.webp" >}}
 {{< /cards >}}
 
 ### 個別の曲の場合
@@ -125,7 +125,7 @@ readingTime: 11
 右上隅のその他のアクションボタンを使用して選択モードを有効にできます。このモードでは、複数のトラックを選択してさまざまなアクションを実行できます。
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="音楽ライブラリの選択モード" image="/docs/guide/evermusic/evermusic-guide-music-library/img/music-library-selection-mode.webp" >}}
+  {{< ls-card title="" subtitle="音楽ライブラリの選択モード" image="/docs/guide/evermusic/evermusic-guide-music-library/img/music-library-selection-mode.webp" >}}
 {{< /cards >}}
 
 ## タグのグループ化
@@ -145,7 +145,7 @@ readingTime: 11
 アーティスト、アルバムアーティスト、または作曲家セクションを開くと、曲/すべてのアルバム/エクスクルーシブアルバム/ソロアルバムの切り替えスイッチを確認できます。
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="曲 / すべて / エクスクルーシブ / ソロ切り替え付きアルバム詳細" image="/docs/guide/evermusic/evermusic-guide-music-library/img/music-library-album-details.webp" >}}
+  {{< ls-card title="" subtitle="曲 / すべて / エクスクルーシブ / ソロ切り替え付きアルバム詳細" image="/docs/guide/evermusic/evermusic-guide-music-library/img/music-library-album-details.webp" >}}
 {{< /cards >}}
 
 - **曲**：オーディオタグにこのアーティスト/アルバムアーティスト/作曲家が設定されているすべての曲を表示します。
@@ -166,7 +166,7 @@ readingTime: 11
 「設定」メニュー項目をタップして音楽ライブラリの設定を構成します。
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="音楽ライブラリ設定" image="/docs/guide/evermusic/evermusic-guide-music-library/img/music-library-settings.webp" >}}
+  {{< ls-card title="" subtitle="音楽ライブラリ設定" image="/docs/guide/evermusic/evermusic-guide-music-library/img/music-library-settings.webp" >}}
 {{< /cards >}}
 
 #### メタデータ読み取り

@@ -31,7 +31,7 @@ Na prehrávač na celú obrazovku sa dostanete z kompaktného panela prehrávač
 Kompaktný prehrávač zostáva viditeľný pri prehliadaní knižnice, správcu súborov alebo nastavení, takže nikdy nestratíte video pri hľadaní ďalšieho.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evervideo mediálny prehrávač na celú obrazovku" image="/docs/guide/evervideo/img/evervideo-media-player-fullscreen.webp" >}}
+  {{< ls-card title="" subtitle="Evervideo mediálny prehrávač na celú obrazovku" image="/docs/guide/evervideo/img/evervideo-media-player-fullscreen.webp" >}}
 {{< /cards >}}
 
 ## Podporované video a audio formáty
@@ -72,7 +72,7 @@ PiP funguje s každým formátom videa, ktorý Evervideo prehráva, vrátane clo
 Kompaktný prehrávač je trvalý mini prehrávač, ktorý zostáva viditeľný v hornej časti každej obrazovky aplikácie pri prehliadaní knižnice, správcu súborov alebo nastavení. Klepnite naň na rozbalenie do prehrávača na celú obrazovku; potiahnite nadol na jeho opätovné zbalenie.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Nastavenia videa Evervideo z kompaktného prehrávača na hlavnej obrazovke" image="/docs/guide/evervideo/img/evervideo-video-settings-from-compact-player-view-on-the-main-screen.webp" >}}
+  {{< ls-card title="" subtitle="Nastavenia videa Evervideo z kompaktného prehrávača na hlavnej obrazovke" image="/docs/guide/evervideo/img/evervideo-video-settings-from-compact-player-view-on-the-main-screen.webp" >}}
 {{< /cards >}}
 
 ## AirPlay 2
@@ -115,7 +115,7 @@ Evervideo obsahuje plnohodnotný audio ekvalizér na ladenie zvukovej stopy vide
 Na ladenie obrazu Evervideo poskytuje dedikovaný video ekvalizér — upravte jas, kontrast, sýtosť a odtieň v reálnom čase počas prehrávania. Podobne ako audio ekvalizér, vlastné video presety môžu byť exportované a importované pre zdieľanie alebo zálohu. Použite ho na rozjasnenie tmavej scény za slnečného dňa, zvýšenie sýtosti na vyblednutom obsahu alebo zahriatie studeného farebného posunu.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Video ekvalizér Evervideo" image="/docs/guide/evervideo/img/evervideo-video-equalizer.webp" >}}
+  {{< ls-card title="" subtitle="Video ekvalizér Evervideo" image="/docs/guide/evervideo/img/evervideo-video-equalizer.webp" >}}
 {{< /cards >}}
 
 ## Režim škálovania videa
@@ -144,7 +144,7 @@ Evervideo obsahuje VR / 360° pohľad pre sférické video súbory. Pri prehráv
 Klepnutím na ovládanie Rýchlosť na paneli nástrojov prehrávača zmeňte rýchlosť prehrávania — spomaľte ho na analýzu (0,25× alebo 0,5×) alebo zrýchlite ho pre tutoriály a prednášky (1,25×, 1,5×, 2× a až 3×). Klepnite na ikonu konfigurácie v pravom hornom rohu obrazovky Rýchlosť na prepnutie do presného režimu s jemnejšími úpravami. K dispozícii je aj korekcia výšky tónu pre každú stopu.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Rýchlosť prehrávania Evervideo na hlavnom paneli nástrojov" image="/docs/guide/evervideo/img/evervideo-media-player-playback-speed-on-main-toolbar.webp" >}}
+  {{< ls-card title="" subtitle="Rýchlosť prehrávania Evervideo na hlavnom paneli nástrojov" image="/docs/guide/evervideo/img/evervideo-media-player-playback-speed-on-main-toolbar.webp" >}}
 {{< /cards >}}
 
 ## Fronta prehrávača
@@ -152,7 +152,7 @@ Klepnutím na ovládanie Rýchlosť na paneli nástrojov prehrávača zmeňte r�
 Ak chcete zobraziť frontu prehrávača, klepnite na tlačidlo fronty na prehrávači. Každé video vo fronte má viac akcií — klepnite na tri bodky na ich zobrazenie. Na zmenu poradia videa vo fronte použite indikátor poradenia pri názve a potiahnite ho na novú pozíciu.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Fronta prehrávania Evervideo" image="/docs/guide/evervideo/img/evervideo-playback-queue.webp" >}}
+  {{< ls-card title="" subtitle="Fronta prehrávania Evervideo" image="/docs/guide/evervideo/img/evervideo-playback-queue.webp" >}}
 {{< /cards >}}
 
 ## Časovač spánku
@@ -189,7 +189,7 @@ Klepnite na tlačidlo **Viac akcií "..."** na prehrávači pre prístup k ďal�
 - **Pomoc** — otvoriť poradenstvo.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evervideo prehrávač obrazovka Viac akcií" image="/docs/guide/evervideo/img/evervideo-media-player-more-actions.webp" >}}
+  {{< ls-card title="" subtitle="Evervideo prehrávač obrazovka Viac akcií" image="/docs/guide/evervideo/img/evervideo-media-player-more-actions.webp" >}}
 {{< /cards >}}
 
 ## Nastavenia prehrávača

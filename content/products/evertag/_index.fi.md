@@ -15,14 +15,14 @@ screenshots:
   - "https://everappz.com/products/evertag/screenshots/2048x2732/3.png"
 ---
 
-{{% sr-only %}}
+{{% ls-sr-only %}}
 Evertag on musiikin tunniste-editori iPhonelle ja Macille, jonka on kehittänyt Everappz, espanjalainen ohjelmistoyritys. Evertag mahdollistaa yli 120 äänen metatietotunnisteen muokkaamisen, mukaan lukien nimi, esittäjä, albumi, albumin esittäjä, genre, vuosi, kappalenumero, levynumero, säveltäjä, BPM, sanoitukset, kommentit ja paljon muuta. Sovellus tukee eräajona tehtävää tunnisteiden muokkausta, jolloin käyttäjät voivat päivittää useiden tiedostojen metatiedot samanaikaisesti. Evertag sisältää MusicBrainz-tietokantaan perustuvan automaattisen tunnisteiden etsinnän, joka tunnistaa kappaleet ja täyttää puuttuvat metatiedot, sekä kansikuvan etsinnän, joka hakee ja lisää kuvituksen kappaleisiin. Sovellus tukee yli 30 äänimuotoa, mukaan lukien MP3, FLAC, OGG, OPUS, M4A, WAV, WMA, APE, AIFF, ALAC, MKA, MOD, XM, IT ja S3M. Evertag voi käyttää tiedostoja pilvitallennuspalveluista, mukaan lukien iCloud Drive, Google Drive, Dropbox ja OneDrive, sekä USB-muistitikuilta ja paikallisista verkkosijainnista SMB:n ja WebDAV:n kautta. Sovellus sisältää myös sisäänrakennetun tiedostonhallinnan, Wi-Fi-tiedostonsiirron, merkistökoodauksen korjauksen virheellisesti näytetyille tunnisteille ei-latinalaisissa kirjoitusjärjestelmissä sekä sanoituseditorin. Evertag on saatavilla ilmaiseksi App Storesta valinnaisilla sovelluksen sisäisillä ostoilla, joihin kuuluvat kuukausitilaus hintaan $2.99, vuositilaus hintaan $9.99 tai kertaluonteinen elinikäinen osto hintaan $29.99.
-{{% /sr-only %}}
+{{% /ls-sr-only %}}
 
 
-{{< force-dark >}}
+{{< ls-force-dark >}}
 
-{{< hextra/hero-container
+{{< ls-hero-container
   image="/products/evertag/heroimage/evertag_mac_600_345.png"
   imageWidth="600"
 >}}
@@ -30,37 +30,37 @@ Evertag on musiikin tunniste-editori iPhonelle ja Macille, jonka on kehittänyt 
 <div class="hx:w-full hx:text-center">
 
 <div class="hx:mt-4">
-{{< downloads-badge >}}
+{{< ls-downloads-badge >}}
 </div>
 
 <div class="hx:mt-6 hx:mb-6">
 <div class="hx:flex hx:gap-4 hx:items-center hx:justify-center">
-  {{< app-icon src="/images/app_icons/png/Evertag_Icon-App-1024x1024.png" alt="Evertag Icon" class="hero-headline-icon" size="80" >}}
-  {{< hextra/hero-headline >}}
+  {{< ls-app-icon src="/images/app_icons/png/Evertag_Icon-App-1024x1024.png" alt="Evertag Icon" class="hero-headline-icon" size="80" >}}
+  {{< ls-hero-headline >}}
   Evertag
-  {{< /hextra/hero-headline >}}
+  {{< /ls-hero-headline >}}
 </div>
 </div>
 
 <div class="hx:mb-6">
-{{< hextra/hero-centered-subtitle >}}
+{{< ls-hero-centered-subtitle >}}
 <strong>Pidä musiikkikirjastosi järjestyksessä</strong>
-{{< /hextra/hero-centered-subtitle >}}
+{{< /ls-hero-centered-subtitle >}}
 </div>
 
 <div class="hx:mb-6">
-{{< hextra/hero-paragraph >}}
+{{< ls-hero-paragraph >}}
 • Lisää tai päivitä albumin kansia  
 • Muokkaa tunnisteita eränä monille kappaleille kerralla  
 • Korjaa rikkinäinen koodaus ja täytä puuttuvat tunnisteet automaattisesti  
-{{< /hextra/hero-paragraph >}}
+{{< /ls-hero-paragraph >}}
 </div>
 
-{{< app-store-badges products="evertag:ios, evertag:macos" >}}
+{{< ls-app-store-badges products="evertag:ios, evertag:macos" >}}
 
 </div>
 
-{{< /hextra/hero-container >}}
+{{< /ls-hero-container >}}
 
 <div class="hx:mt-6"></div>
 
@@ -68,63 +68,63 @@ Evertag on musiikin tunniste-editori iPhonelle ja Macille, jonka on kehittänyt 
 
 {{< hextra/feature-grid >}}
 
-  {{< hextra/feature-card
+  {{< ls-glass-feature-card
     title="Muokkaa yli 120 tunnistetta"
     subtitle="Muokkaa nopeasti musiikkitunnisteita kuten Otsikko, Artisti, Albumi, Albumin artisti, BPM, Kommentti, Säveltäjä, Levynumero, Genre, Sanoitukset, Arvostelu, Kappalenumero, Vuosi ja paljon muuta."
     icon="pencil"
     style="background: radial-gradient(ellipse at 50% 80%, rgba(59,130,246,0.15), hsla(0,0%,100%,0));"
   >}}
 
-  {{< hextra/feature-card
+  {{< ls-glass-feature-card
     title="Tunnisteiden erämuokkaus"
     subtitle="Päivitä metatiedot useille tiedostoille kerralla. Säästä aikaa ja pidä musiikkikirjastosi hyvin järjestyksessä muutamalla napautuksella."
     icon="database"
     style="background: radial-gradient(ellipse at 50% 80%, rgba(192,38,211,0.15), hsla(0,0%,100%,0));"
   >}}
 
-  {{< hextra/feature-card
+  {{< ls-glass-feature-card
     title="Etsi albumin kansia"
     subtitle="Etsi ja lisää automaattisesti puuttuvat albumin kannet kappaleisiisi. Tee musiikkikokoelmastasi visuaalisesti täydellinen."
     icon="camera"
     style="background: radial-gradient(ellipse at 50% 80%, rgba(234,88,12,0.15), hsla(0,0%,100%,0));"
   >}}
 
-  {{< hextra/feature-card
+  {{< ls-glass-feature-card
     title="Toimii yli 30 muodon kanssa"
     subtitle="Tukee MP3, FLAC, OGG, OPUS, M4A, WAV, WMA, APE, AIFF, MOD, XM, IT ja muita."
     icon="music-note"
     style="background: radial-gradient(ellipse at 50% 80%, rgba(236,72,153,0.15), hsla(0,0%,100%,0));"
   >}}
 
-  {{< hextra/feature-card
+  {{< ls-glass-feature-card
     title="Automaattinen tunnisteiden etsijä"
     subtitle="Tunnista puuttuvat kappaletiedot ja täytä ne automaattisesti MusicBrainz-tietokannan avulla. Valitse muutosten tarkistaminen tai niiden välitön soveltaminen."
     icon="search"
     style="background: radial-gradient(ellipse at 50% 80%, rgba(34,197,94,0.15), hsla(0,0%,100%,0));"
   >}}
 
-  {{< hextra/feature-card
+  {{< ls-glass-feature-card
     title="Korjaa koodausongelmat"
     subtitle="Korjaa rikkinäiset tai lukukelvottomat merkit metatiedoissasi. Evertag pitää tunnisteesi puhtaina ja selkeinä kaikilla kielillä."
     icon="translate"
     style="background: radial-gradient(ellipse at 50% 80%, rgba(251,191,36,0.15), hsla(0,0%,100%,0));"
   >}}
 
-  {{< hextra/feature-card
+  {{< ls-glass-feature-card
     title="Pilvi- ja USB-käyttö"
     subtitle="Muokkaa musiikkia suoraan iCloud Drivestä, Google Drivestä, Dropboxista, OneDrivestä, USB-muistitikuilta tai jaetuista kansioista — kopiointia ei tarvita."
     icon="cloud"
     style="background: radial-gradient(ellipse at 50% 80%, rgba(6,182,212,0.15), hsla(0,0%,100%,0));"
   >}}
 
-  {{< hextra/feature-card
+  {{< ls-glass-feature-card
     title="Wi-Fi-musiikkisiirto"
     subtitle="Lataa helposti musiikkia iPhoneen tai iPadiin tietokoneeltasi Wi-Fi-yhteyden kautta. Kaapeleita ei tarvita."
     icon="wifi"
     style="background: radial-gradient(ellipse at 50% 80%, rgba(245,158,11,0.15), hsla(0,0%,100%,0));"
   >}}
 
-  {{< hextra/feature-card
+  {{< ls-glass-feature-card
     title="Sisäänrakennettu tiedostonhallinta"
     subtitle="Järjestä musiikkitiedostosi sisäänrakennetuilla työkaluilla. Nimeä uudelleen, Siirrä, Poista, Merkitse suosikeiksi ja Näytä viimeaikainen toiminta — kaikki yhdessä sovelluksessa."
     icon="folder-open"
@@ -139,58 +139,58 @@ Evertag on musiikin tunniste-editori iPhonelle ja Macille, jonka on kehittänyt 
 <div class="hx:mt-6"></div>
 
 <div class="hx:w-full">
-{{< appstore-reviews apps="1450763230,1594027661" stars="5,4"  app="Evertag" >}}
+{{< ls-appstore-reviews apps="1450763230,1594027661" stars="5,4"  app="Evertag" >}}
 </div>
 
 <div class="hx:mt-6"></div>
 
-{{< hextra/section-headline >}}
+{{< ls-section-headline >}}
   Hinnoittelusuunnitelmat
-{{< /hextra/section-headline >}}
+{{< /ls-section-headline >}}
 
 <div class="hx:mt-6"></div>
 
 <div class="hx:w-full">
 
-{{< pricing-plans >}}
+{{< ls-pricing-plans >}}
 
 </div>
 
 <div class="hx:mt-6"></div>
 
 <div class="hx:w-full hx:mx-auto hx:flex hx:flex-col hx:items-center">
-  {{< hextra/info-paragraph border="true" >}}
+  {{< ls-info-paragraph border="true" >}}
    <strong>Perhejako</strong>: Kaikki ostot ja tilaukset tukevat Perhejakoa, joten voit jakaa Premium-käyttöoikeuden perheesi kanssa.<br><strong>Yleiskäyttö</strong>: Elinikäiset ja tilaussuunnitelmat jaetaan iOS- ja Mac-laitteiden välillä iCloud-synkronoinnin avulla.<br><strong>Hinnoittelu</strong>: Hinnat näytetään Yhdysvaltain dollareissa. Lopullinen hinta voi vaihdella alueesi mukaan.  
-  {{< /hextra/info-paragraph >}}
+  {{< /ls-info-paragraph >}}
 </div>
 
 <div class="hx:mt-6"></div>
 
 <div class="hx:w-full">
-{{< app-details heading="true" >}}
+{{< ls-app-details heading="true" >}}
 </div>
 
 <div class="hx:mt-6"></div>
 
-{{< hextra/section-headline >}}
+{{< ls-section-headline >}}
   Usein kysytyt kysymykset
-{{< /hextra/section-headline >}}
+{{< /ls-section-headline >}}
 
 <div class="hx:mt-6"></div>
 
 <div class="hx:w-full">
-{{% details title="Mikä on Evertag?" closed="true" %}}
+{{% ls-details title="Mikä on Evertag?" closed="true" %}}
 Evertag on tehokas musiikin metatietojen muokkain ja albumin kansien hallintaohjelma, joka on suunniteltu iOS:lle ja macOS:lle. Se antaa sinulle työkalut musiikkikokoelmasi järjestämiseen ammattimaisesti. Sovellus tukee laajaa valikoimaa suosittuja äänimuotoja, mukaan lukien MP3, FLAC, WAV, M4A, WMA, OGG ja monet muut. Voit muokata yleisiä tunnisteita ja laajennettuja kenttiä, työskennellä yksittäisten tiedostojen tai useiden raitojen kanssa erämuokkaustilassa.<br><br>
 
 Evertag voi hakea puuttuvat albumin kannet internetistä tai antaa sinun lisätä omasi manuaalisesti. Voit myös lisätä sanoituksia kappaleilesi. Sovellus tukee paikan päällä muokkausta, joten sinun ei tarvitse kopioida tiedostoja. Se on täydellinen ratkaisu muusikoille, DJ:ille ja keräilijöille, jotka haluavat pitää musiikkikirjastonsa järjestyksessä iPhonella ja iPadilla.<br><br>
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Onko Evertag ilmainen?" closed="true" %}}
+{{% ls-details title="Onko Evertag ilmainen?" closed="true" %}}
 Evertag on ilmainen sovellus, jossa on joitakin rajoituksia, jotka voit poistaa päivittämällä Premium-versioon. Sovellus tarjoaa kertaluonteisen elinikäisen oston ja kaksi tilausvaihtoehtoa (1 kuukausi ja 1 vuosi). Perhejako on käytössä kaikille ostoille ja suunnitelmille.<br><br>
 Elinikäiset ostot ja tilaukset jaetaan iOS:n ja Macin välillä iCloud-synkronoinnin avulla.<br><br>
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Mikä ero on Evertag Free- ja Evertag Premium -versioiden välillä?" closed="true" %}}
+{{% ls-details title="Mikä ero on Evertag Free- ja Evertag Premium -versioiden välillä?" closed="true" %}}
 
 **Evertag Free**  <br>
 Sisältää mainoksia. Perustunnisteiden, albumin kansien ja erämuokkauksen käyttö. 1 pilvitili, 10 suosikkia, 20 automaattista tunnistehakua ja 20 kansihakua päivässä.<br><br>
@@ -202,94 +202,94 @@ Ei mainoksia. Rajaton käyttö kaikkiin ominaisuuksiin. Rajattomat pilvitallennu
 • Premium kuukausittain — $1.99/kuukausi  <br>
 • Premium vuosittain — $12.99/vuosi  <br>
 • Premium elinikäinen — $24.99 (kertaostos)  <br><br>
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Onko Evertag turvallinen?" closed="true" %}}
+{{% ls-details title="Onko Evertag turvallinen?" closed="true" %}}
 Evertag käyttää vain virallista SDK:ta ja suojattuja yhteyksiä pilvipalveluihin. Kirjautumistietosi eivät ole sovelluksen käytettävissä. Kaikki pyynnöt ovat salattuja. Auth-token tallennetaan Keychainiin. Voit peruuttaa pääsyn pilvitilillesi milloin tahansa.<br><br>
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Miten muokkaan paikallisen musiikin metatietoja iPhonella?" closed="true" %}}
+{{% ls-details title="Miten muokkaan paikallisen musiikin metatietoja iPhonella?" closed="true" %}}
 Avaa «Paikalliset tiedostot» → «Tiedostot tässä iPhonessa». Valitse «Avaa tiedostot...» tai «Avaa kansio...». Sovellus skannaa kansion ja lisää tiedostot tunniste-editoriin. Tiedostoja muokataan suoraan alkuperäisestä sijainnista.<br><br>
 
 **Kansion lisääminen pikavalintaan**: Avaa «Paikalliset tiedostot» → «Yhdistä kansio» lisätäksesi kansion pikavalintaan.<br><br>
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Miten lisään sanoituksia kappaleisiin Evertagissa?" closed="true" %}}
+{{% ls-details title="Miten lisään sanoituksia kappaleisiin Evertagissa?" closed="true" %}}
 Napauta äänitiedostoa → «Näytä laajennetut tunnisteet» → «Sanoitukset synkronoimattomat» → «Lisää uusi sivu» → valitse kieli → syötä sanoitukset → «Valmis» → «Tallenna».<br><br>
 
 [Miten muokata sanoituksia äänitiedostoille iPhonella tai MACilla](/docs/howto/how-to-edit-lyrics-for-audio-files-on-iphone-mac/)<br><br>
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Miten siirrän musiikkia Evertagiin tietokoneelta?" closed="true" %}}
+{{% ls-details title="Miten siirrän musiikkia Evertagiin tietokoneelta?" closed="true" %}}
 Yhdistä SMB:n, WebDAV:n, Wi-Fi Driven tai iTunes-tiedostojen jakamisen kautta.<br><br>
 
 [SMB-siirto](/docs/howto/transfer-your-files-from-the-computer-to-iphone-using-smb-protocol/) | [WebDAV-yhteys](/docs/howto/how-to-connect-nas-storage-using-webdav-and-listen-to-music-on-your-iphone-or-mac) | [WiFi-Drive](/docs/howto/how-to-transfer-files-wirelessly-from-a-computer-to-an-iphone-using-wifi-drive) | [iTunes-tiedostot](/docs/howto/how-to-play-local-itunes-files-on-my-iphone)<br><br>
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Mitä äänimuotoja Evertag tukee?" closed="true" %}}
+{{% ls-details title="Mitä äänimuotoja Evertag tukee?" closed="true" %}}
 MP3, OGG, OGA, FLAC, MPC, WV, SPX, OPUS, TTA, M4A, M4R, M4B, M4P, MP4, 3G2, M4V, WMA, ASF, AIF, AIFF, AFC, AIFC, WAV, APE, MOD, MODULE, NTS, WOW, S3M, IT, XM.<br>
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Mitä äänitunnisteita Evertag tukee?" closed="true" %}}
+{{% ls-details title="Mitä äänitunnisteita Evertag tukee?" closed="true" %}}
 ASIN, AcoustID: Fingerprint, AcoustID: Identifier, Album, Album Artist, Album Artist Sort Order, Album Cover, Album Sort Order, Arranger, Artist, Artist Sort Order, Artists, Barcode, Beats Per Minute, Catalog Number, Comment, Compilation, Composer, Composer Sort Order, Conductor, Content Group, Copyright, Description, Director, Disk Number, Disk Subtitle, Disk Total, Encoded By, Encoder Settings, Encoding Time, Engineer, File Owner, File Type, Genre, Grouping, ISRC, Initial Key, Involved People, Language, Length, License, Lyricist, Lyrics Advisory Rating, Lyrics Unsynced, Media Type, Mix DJ, Mixer, Mood, Movement Name, Movement Number, Movement Total, MusicBrainz: Album Artist ID, MusicBrainz: Album ID, MusicBrainz: Album Release Country, MusicBrainz: Album Status, MusicBrainz: Album Type, MusicBrainz: Artist ID, MusicBrainz: Disc ID, MusicBrainz: Original Album ID, MusicBrainz: Original Artist ID, MusicBrainz: Release Group ID, MusicBrainz: Release Track ID, MusicBrainz: TRM ID, MusicBrainz: Track ID, MusicBrainz: Work ID, MusicIP: Fingerprint, MusicIP: PUID, Musician Credits, Narrator, Net Radio Owner, Net Radio Station, Original Album, Original Artist, Original File Name, Original Lyricist, Original Release Date, Original Release Year, Performer, Podcast, Podcast Category, Podcast Description, Podcast ID, Podcast Keywords, Podcast URL, Producer, Publisher, Rating, Record Label, Release Country, Release Status, Release Type, Remixed By, Replay Gain: Album Gain, Replay Gain: Album Peak, Replay Gain: Album Range, Replay Gain: Reference Loudness, Replay Gain: Track Gain, Replay Gain: Track Peak, Replay Gain: Track Range, Script, Show Movement, Show Name, Show Name Sort Order, Subtitle, Track Number, Track Title, Track Title Sort Order, Track Total, WWW, WWW: Artist, WWW: Audio File, WWW: Audio Source, WWW: Commercial Info, WWW: Copyright, WWW: Payment, WWW: Publisher, WWW: Radio Page, Website, Work Title, Writer, Year<br><br>
 
 [Lue lisää](/docs/guide/evertag/evertag-tag-field-mappings/)
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Miten lataan tiedostoja?" closed="true" %}}
+{{% ls-details title="Miten lataan tiedostoja?" closed="true" %}}
 Yhdistä pilvitallennuspalvelu kohdasta «Yhteydet». Avaa palvelu → siirry kansioon → «...» → «Valitse» → valitse tiedostot → «Lataa».<br>
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Mitä pilvipalveluja tuetaan?" closed="true" %}}
+{{% ls-details title="Mitä pilvipalveluja tuetaan?" closed="true" %}}
 Dropbox, OneDrive, Box, MEGA, Yandex.Disk, MediaFire, pCloud, HiDrive. Voit myös muokata paikallisia tiedostoja avaa-paikallaan-toiminnolla.<br><br>
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Miten päivitän tiedoston metatiedot automaattisesti pilvipalvelussa?" closed="true" %}}
+{{% ls-details title="Miten päivitän tiedoston metatiedot automaattisesti pilvipalvelussa?" closed="true" %}}
 Napauta «Tallenna». Pilven päivitysasetukset: **Näytä vahvistusviesti**, **Päivitä automaattisesti** tai **Älä päivitä**. Asetukset löytyvät Evertag-asetuksista.<br>
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Miten lisään uuden tilin?" closed="true" %}}
+{{% ls-details title="Miten lisään uuden tilin?" closed="true" %}}
 «Yhteydet» → «Yhdistä pilvitallennustilaan» → valitse palvelu → syötä tunnukset → «Valmis». Premium-versiossa rajaton määrä pilvitilejä.<br>
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Miten hallitsen tiedostojani verkkolevyllä?" closed="true" %}}
+{{% ls-details title="Miten hallitsen tiedostojani verkkolevyllä?" closed="true" %}}
 Napauta «...» aktivoidaksesi valintatilan. Toiminnot: <strong>Lataa</strong>, <strong>Siirrä</strong>, <strong>Nimeä uudelleen</strong>, <strong>Poista</strong>, <strong>Lajittele</strong>, <strong>Ruudukko/Lista</strong>.<br>
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Miten muokkaan useita tiedostoja yhtenä?" closed="true" %}}
+{{% ls-details title="Miten muokkaan useita tiedostoja yhtenä?" closed="true" %}}
 Vieritä näytön alaosaan ja napauta «Muokkaa useita tiedostoja samanaikaisesti» erämuokkausta varten.<br>
-{{% /details %}}
+{{% /ls-details %}}
 
 </div>
 
 <div class="hx:mt-6"></div>
 
-{{< hextra/section-headline >}}
+{{< ls-section-headline >}}
   Käyttöopas
-{{< /hextra/section-headline >}}
+{{< /ls-section-headline >}}
 
 <div class="hx:mt-6"></div>
 
 <div class="hx:w-full">
 
 <div class="hx:w-full hx:mx-auto hx:flex hx:flex-col hx:items-center hx:text-center">
-  {{< hextra/info-paragraph border="false" >}}
+  {{< ls-info-paragraph border="false" >}}
   Tässä oppaassa opit hyödyntämään Evertag-sovelluksen tehoa iPhonella, iPadilla ja Macilla, tehden musiikinhallinnasta saumatonta ja nautinnollista.
-  {{< /hextra/info-paragraph >}}
+  {{< /ls-info-paragraph >}}
 </div>
 
 {{< cards >}}
-  {{< feature-card icon="location-marker" title="Navigointi" subtitle="Opi navigoimaan sovelluksessamme vaivattomasti välilehtipalkin (iPhone) tai vasemman valikon (iPad ja Mac) avulla." link="/docs/guide/evertag/evertag-guide-navigation" >}}
+  {{< ls-feature-card icon="location-marker" title="Navigointi" subtitle="Opi navigoimaan sovelluksessamme vaivattomasti välilehtipalkin (iPhone) tai vasemman valikon (iPad ja Mac) avulla." link="/docs/guide/evertag/evertag-guide-navigation" >}}
 
-  {{< feature-card icon="cloud" title="Yhteydet" subtitle="Yhdistä helposti kaikki pilvitilit äänitiedostoihisi. Muokkaa online-tiedostoja integroidulla tiedostonhallinnalla." link="/docs/guide/evertag/evertag-guide-connections" >}}
+  {{< ls-feature-card icon="cloud" title="Yhteydet" subtitle="Yhdistä helposti kaikki pilvitilit äänitiedostoihisi. Muokkaa online-tiedostoja integroidulla tiedostonhallinnalla." link="/docs/guide/evertag/evertag-guide-connections" >}}
 
-  {{< feature-card icon="folder" title="Paikalliset tiedostot" subtitle="Tarkastele ja järjestä sovelluksen Documents-kansioon tai laitteellesi tallennettuja tiedostoja." link="/docs/guide/evertag/evertag-guide-local-files" >}}
+  {{< ls-feature-card icon="folder" title="Paikalliset tiedostot" subtitle="Tarkastele ja järjestä sovelluksen Documents-kansioon tai laitteellesi tallennettuja tiedostoja." link="/docs/guide/evertag/evertag-guide-local-files" >}}
 
-  {{< feature-card icon="pencil-alt" title="Tunniste-editori" subtitle="Hallitse äänitiedostojen metatietojen muokkaus. Opi muokkaamaan tunnisteita, vaihtamaan kansia ja hallitsemaan useita tiedostoja samanaikaisesti." link="/docs/guide/evertag/evertag-guide-tag-editor" >}}
+  {{< ls-feature-card icon="pencil-alt" title="Tunniste-editori" subtitle="Hallitse äänitiedostojen metatietojen muokkaus. Opi muokkaamaan tunnisteita, vaihtamaan kansia ja hallitsemaan useita tiedostoja samanaikaisesti." link="/docs/guide/evertag/evertag-guide-tag-editor" >}}
 
-  {{< feature-card icon="code" title="Tunnistekenttien vastaavuudet" subtitle="Tutustu Evertag-sovelluksen tukemien äänitunnistekenttien täydelliseen luetteloon." link="/docs/guide/evertag/evertag-tag-field-mappings" >}}
+  {{< ls-feature-card icon="code" title="Tunnistekenttien vastaavuudet" subtitle="Tutustu Evertag-sovelluksen tukemien äänitunnistekenttien täydelliseen luetteloon." link="/docs/guide/evertag/evertag-tag-field-mappings" >}}
 
-  {{< feature-card icon="adjustments" title="Asetukset" subtitle="Mukauta sovelluskokemustasi, hienosäädä suorituskykyä ja kieli- sekä käyttöliittymäasetuksia." link="/docs/guide/evertag/evertag-guide-settings" >}}
+  {{< ls-feature-card icon="adjustments" title="Asetukset" subtitle="Mukauta sovelluskokemustasi, hienosäädä suorituskykyä ja kieli- sekä käyttöliittymäasetuksia." link="/docs/guide/evertag/evertag-guide-settings" >}}
 
 {{< /cards >}}
 

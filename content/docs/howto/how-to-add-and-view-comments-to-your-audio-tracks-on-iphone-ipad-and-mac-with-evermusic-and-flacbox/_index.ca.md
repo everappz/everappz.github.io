@@ -7,7 +7,7 @@ tags: ["evermusic", "àudio", "editor", "etiquetes", "comentaris"]
 readingTime: 4
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **Resum:** Evermusic i Flacbox et permeten afegir comentaris de text amb marcadors de temps a qualsevol pista d'àudio i mostrar-los sincronitzats durant la reproducció. També pots veure les lletres incrustades i els fitxers LRC. Les funcions de comentaris i lletres són gratuïtes en ambdues aplicacions.
@@ -97,22 +97,22 @@ L'addició de comentaris a les pistes d'àudio a Evermusic i Flacbox marca un sa
 
 ## PMF
 
-{{% details title="La funció de comentaris és gratuïta a Evermusic i Flacbox?" closed="true" %}}
+{{% ls-details title="La funció de comentaris és gratuïta a Evermusic i Flacbox?" closed="true" %}}
 Sí. Afegir, editar i veure comentaris i lletres és una funció gratuïta tant a Evermusic com a Flacbox.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Quin format he d'utilitzar per als comentaris temporitzats?" closed="true" %}}
+{{% ls-details title="Quin format he d'utilitzar per als comentaris temporitzats?" closed="true" %}}
 Utilitza el format de marcador de temps LRC: `[MM:SS.SS]` seguit del teu text. Per exemple: `[01:23.45]Aquest és el meu comentari`. Pots assignar múltiples marques de temps a una sola línia.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Puc veure lletres i fitxers LRC a la mateixa pantalla?" closed="true" %}}
+{{% ls-details title="Puc veure lletres i fitxers LRC a la mateixa pantalla?" closed="true" %}}
 Sí. La pantalla de Comentaris admet tres modes entre els quals pots lliscar: Comentaris, Lletres incrustades i Fitxer LRC.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="On puc trobar fitxers de lletres LRC?" closed="true" %}}
+{{% ls-details title="On puc trobar fitxers de lletres LRC?" closed="true" %}}
 Les lletres LRC gratuïtes estan disponibles a llocs web com Lyricsify.com. Pots incrustar-les a l'etiqueta de lletres del teu fitxer d'àudio o col·locar un fitxer `.lrc` separat al costat del teu fitxer d'àudio.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Necessito una aplicació separada per editar etiquetes de lletres?" closed="true" %}}
+{{% ls-details title="Necessito una aplicació separada per editar etiquetes de lletres?" closed="true" %}}
 Pots editar comentaris directament a Evermusic i Flacbox. Per editar específicament l'etiqueta de lletres, utilitza Evertag, un editor de metadades d'àudio gratuït per a iOS i macOS.
-{{% /details %}}
+{{% /ls-details %}}

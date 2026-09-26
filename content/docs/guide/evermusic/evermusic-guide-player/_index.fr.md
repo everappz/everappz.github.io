@@ -17,7 +17,7 @@ Le Lecteur est l'écran principal de l'application où vous pouvez contrôler la
 ## Accéder au lecteur
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Écran du lecteur audio d'Evermusic" image="/docs/guide/evermusic/evermusic-guide-player/img/player-main.webp" >}}
+  {{< ls-card title="" subtitle="Écran du lecteur audio d'Evermusic" image="/docs/guide/evermusic/evermusic-guide-player/img/player-main.webp" >}}
 {{< /cards >}}
 
 Vous pouvez accéder au lecteur plein écran depuis la vue du mini lecteur. Sur votre iPhone, vous trouverez le mini lecteur au-dessus de la barre d'onglets sur l'écran principal. Sur votre iPad ou Mac, il est accessible depuis le menu de gauche. Pour ranger le mini lecteur, appuyez sur son icône et faites glisser vers le bas. Pour masquer complètement le lecteur plein écran, appuyez simplement sur le bouton de fermeture situé dans le coin inférieur droit.
@@ -44,7 +44,7 @@ Si vous êtes d'humeur à un peu d'aléatoire, l'option « Lecture aléatoire »
 ## Contrôle du volume
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Contrôle du volume avec AirPlay et Google Cast" image="/docs/guide/evermusic/evermusic-guide-player/img/player-volume-control.webp" >}}
+  {{< ls-card title="" subtitle="Contrôle du volume avec AirPlay et Google Cast" image="/docs/guide/evermusic/evermusic-guide-player/img/player-volume-control.webp" >}}
 {{< /cards >}}
 
 Trouvez le curseur de volume sur l'écran des Paramètres audio en appuyant sur l'icône de son sous les contrôles de lecture. Vous pouvez changer le volume à l'aide de ce curseur ou des boutons de volume standard de votre appareil. De plus, vous trouverez des boutons de streaming pratiques :
@@ -63,7 +63,7 @@ D'autre part, si vous préférez AirPlay, recherchez le bouton AirPlay en bas de
 ## Égaliseur audio
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Égaliseur audio 10 bandes" image="/docs/guide/evermusic/evermusic-guide-player/img/player-equalizer.webp" >}}
+  {{< ls-card title="" subtitle="Égaliseur audio 10 bandes" image="/docs/guide/evermusic/evermusic-guide-player/img/player-equalizer.webp" >}}
 {{< /cards >}}
 
 Evermusic est livré avec un égaliseur 10 bandes, complet avec des préréglages de style iPod, un préamplificateur et des paramètres d'égaliseur manuels. Pour activer l'égaliseur, appuyez simplement sur le bouton « Égaliseur » dans la barre d'outils inférieure et activez le commutateur dans le coin supérieur droit. Vous pouvez sélectionner parmi une gamme de préréglages d'égaliseur prédéfinis comme « Acoustique », « Amplificateur de basses », « Classique » et plus encore. Si vous êtes un passionné du son, vous apprécierez la possibilité d'affiner chaque bande de fréquence en utilisant des curseurs. N'hésitez pas à créer et sauvegarder vos propres préréglages d'égaliseur audio. Si une piste n'est pas assez forte, vous pouvez également ajuster le gain du préamplificateur. Nous avons des instructions plus détaillées sur la façon d'utiliser l'égaliseur [ici](/docs/howto/how-to-use-the-audio-equalizer-on-your-iphone-ipad-mac-with-evermusic-and-flacbox).
@@ -71,7 +71,7 @@ Evermusic est livré avec un égaliseur 10 bandes, complet avec des préréglage
 ## Barre d'outils du mode lecteur
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Barre d'outils supérieure du lecteur avec Rechercher et Vitesse" image="/docs/guide/evermusic/evermusic-guide-player/img/player-top-toolbar.webp" >}}
+  {{< ls-card title="" subtitle="Barre d'outils supérieure du lecteur avec Rechercher et Vitesse" image="/docs/guide/evermusic/evermusic-guide-player/img/player-top-toolbar.webp" >}}
 {{< /cards >}}
 
 Pour quelques styles d'écran de lecteur sélectionnés, vous trouverez une barre d'outils du mode lecteur en haut de l'écran du lecteur, juste sous la barre de navigation. Cette barre d'outils pratique abrite trois boutons.
@@ -82,7 +82,7 @@ Pour quelques styles d'écran de lecteur sélectionnés, vous trouverez une barr
 ## Signets audio
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Signets audio pour les livres audio et les conférences" image="/docs/guide/evermusic/evermusic-guide-player/img/player-bookmarks.webp" >}}
+  {{< ls-card title="" subtitle="Signets audio pour les livres audio et les conférences" image="/docs/guide/evermusic/evermusic-guide-player/img/player-bookmarks.webp" >}}
 {{< /cards >}}
 
 Voici où vous pouvez créer plusieurs signets pour les pistes dans votre bibliothèque musicale. Nous avons une instruction complète sur la façon d'utiliser les signets [ici](/docs/howto/how-to-listen-to-audiobooks-on-iphone-ipad-mac-using-evermusic).
@@ -90,7 +90,7 @@ Voici où vous pouvez créer plusieurs signets pour les pistes dans votre biblio
 ## File d'attente du lecteur
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="File d'attente du lecteur" image="/docs/guide/evermusic/evermusic-guide-player/img/player-queue.webp" >}}
+  {{< ls-card title="" subtitle="File d'attente du lecteur" image="/docs/guide/evermusic/evermusic-guide-player/img/player-queue.webp" >}}
 {{< /cards >}}
 
 Pour accéder à votre file d'attente du lecteur, appuyez simplement sur le bouton de file d'attente du lecteur situé dans la barre d'outils inférieure. Pour déplacer une chanson dans la file d'attente, utilisez l'indicateur de réorganisation près du titre.
@@ -98,7 +98,7 @@ Pour accéder à votre file d'attente du lecteur, appuyez simplement sur le bout
 ## Commentaires / Paroles
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Commentaires, paroles intégrées et fichiers LRC" image="/docs/guide/evermusic/evermusic-guide-player/img/player-lyrics.webp" >}}
+  {{< ls-card title="" subtitle="Commentaires, paroles intégrées et fichiers LRC" image="/docs/guide/evermusic/evermusic-guide-player/img/player-lyrics.webp" >}}
 {{< /cards >}}
 
 Pour afficher les commentaires de piste et les paroles intégrées, ainsi que les fichiers LRC, suivez ces étapes :
@@ -114,7 +114,7 @@ Nous avons une instruction complète sur la façon d'afficher les paroles [ici](
 ## Menu Options
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Menu Options pour un élément de la file d'attente" image="/docs/guide/evermusic/evermusic-guide-player/img/player-queue-item-options-menu.webp" >}}
+  {{< ls-card title="" subtitle="Menu Options pour un élément de la file d'attente" image="/docs/guide/evermusic/evermusic-guide-player/img/player-queue-item-options-menu.webp" >}}
 {{< /cards >}}
 
 Chaque chanson dans votre file d'attente du lecteur audio dispose d'un menu avec plus d'actions, auquel vous pouvez accéder en appuyant sur le bouton à trois points près du titre de la chanson. Les actions disponibles sont :
@@ -153,7 +153,7 @@ Appuyez sur le bouton Plus d'actions « ... » sur le côté gauche du titre de 
 ## Récents et Favoris
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Chansons récemment lues depuis le lecteur" image="/docs/guide/evermusic/evermusic-guide-player/img/player-recents.webp" >}}
+  {{< ls-card title="" subtitle="Chansons récemment lues depuis le lecteur" image="/docs/guide/evermusic/evermusic-guide-player/img/player-recents.webp" >}}
 {{< /cards >}}
 
 Sur l'écran du lecteur, vous pouvez accéder aux sections « Récents » et « Favoris » en appuyant sur le bouton Plus d'actions « … » et en sélectionnant l'élément de menu respectif. Dans les deux sections, vous pouvez rechercher des chansons, lire toutes les pistes, mélanger toutes les pistes, exporter la liste et supprimer la liste. Nous avons des instructions détaillées sur la façon d'exporter des listes de chansons [ici](/docs/howto/export-tracks-collection-from-evermusic-flacbox-to-m3u-csv-txt/).
@@ -161,7 +161,7 @@ Sur l'écran du lecteur, vous pouvez accéder aux sections « Récents » et « 
 ## Fenêtre mini lecteur (exclusivité Mac)
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Fenêtre mini lecteur Mac" image="/docs/guide/evermusic/evermusic-guide-player/img/player-mini-mac.webp" >}}
+  {{< ls-card title="" subtitle="Fenêtre mini lecteur Mac" image="/docs/guide/evermusic/evermusic-guide-player/img/player-mini-mac.webp" >}}
 {{< /cards >}}
 
 Pour les utilisateurs Mac, il y a une fenêtre de mini lecteur pratique. Pour y accéder, déplacez simplement votre curseur vers le bord inférieur droit de la fenêtre de l'application et redimensionnez-la à la taille la plus petite possible. Ensuite, appuyez sur le bouton de réduction (représenté par une flèche vers le bas) pour activer la fenêtre du mini lecteur. Si vous souhaitez la garder au-dessus des autres fenêtres, accédez à la barre de menu supérieure de votre Mac, sélectionnez « Fenêtre » et choisissez « Toujours afficher la fenêtre au-dessus ». Cette fonctionnalité est particulièrement pratique lorsque vous écoutez des conférences audio et ne souhaitez pas d'interruptions.
@@ -169,7 +169,7 @@ Pour les utilisateurs Mac, il y a une fenêtre de mini lecteur pratique. Pour y 
 ## Raccourcis clavier (exclusivité Mac)
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Menu de lecture de la barre d'état Mac avec raccourcis clavier" image="/docs/guide/evermusic/evermusic-guide-player/img/player-mac-shortcuts.webp" >}}
+  {{< ls-card title="" subtitle="Menu de lecture de la barre d'état Mac avec raccourcis clavier" image="/docs/guide/evermusic/evermusic-guide-player/img/player-mac-shortcuts.webp" >}}
 {{< /cards >}}
 
 Pour les utilisateurs Mac, il y a un menu de lecture système disponible dans la barre d'état avec des raccourcis clavier. Par exemple, pour lire/mettre en pause, appuyez simplement sur la barre d'espace de votre clavier. Les raccourcis pour Arrêter, Chanson suivante, Chanson précédente, Passer du temps, Répéter, Lecture aléatoire et Vitesse de lecture sont disponibles comme indiqué dans la capture d'écran.
@@ -177,7 +177,7 @@ Pour les utilisateurs Mac, il y a un menu de lecture système disponible dans la
 ## Paramètres du lecteur audio
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Paramètres du lecteur audio" image="/docs/guide/evermusic/evermusic-guide-player/img/player-settings.webp" >}}
+  {{< ls-card title="" subtitle="Paramètres du lecteur audio" image="/docs/guide/evermusic/evermusic-guide-player/img/player-settings.webp" >}}
 {{< /cards >}}
 
 Pour accéder aux paramètres du lecteur audio, appuyez sur le bouton Plus dans l'écran du lecteur audio et sélectionnez « Paramètres » dans le menu déroulant. Vous trouverez ici diverses sections regroupées par fonctionnalité :

@@ -4,7 +4,9 @@ title: 'दस्तावेज़ीकरण'
 ---
 
 
-{{< lottie src="/images/juicy-json/juicy-girl-and-boy-searching-for-the-right-files.json" width="90%" >}}
+{{< ls-lottie src="/images/juicy-json/juicy-girl-and-boy-searching-for-the-right-files.json" width="90%" >}}
+
+{{< ls-docs-search >}}
 
 इस अनुभाग में सभी Everappz ऐप्स के लिए उपयोगी दस्तावेज़ीकरण शामिल है — जिसमें सेटअप निर्देश, सुविधाओं का विवरण और उन्नत टिप्स शामिल हैं।
 
@@ -13,9 +15,9 @@ title: 'दस्तावेज़ीकरण'
 ## शुरू करें
 
 {{< cards >}}
-  {{< card icon="book-open" link="/docs/guide" title="उपयोगकर्ता गाइड" >}}
-  {{< card icon="question-mark-circle" link="/docs/faq" title="अक्सर पूछे जाने वाले प्रश्न" >}}
-  {{< card icon="light-bulb" link="/docs/howto" title="कैसे करें" >}}
+  {{< ls-card icon="book-open" link="/docs/guide" title="उपयोगकर्ता गाइड" >}}
+  {{< ls-card icon="question-mark-circle" link="/docs/faq" title="अक्सर पूछे जाने वाले प्रश्न" >}}
+  {{< ls-card icon="light-bulb" link="/docs/howto" title="कैसे करें" >}}
 {{< /cards >}}
 
 - **उपयोगकर्ता गाइड** आपको हमारे ऐप्स को इंस्टॉल करने, कॉन्फ़िगर करने और अधिकतम लाभ उठाने में मदद करती है।
@@ -31,5 +33,5 @@ title: 'दस्तावेज़ीकरण'
 हमारी सेवाओं से संबंधित कानूनी नीतियों, डेटा प्रबंधन प्रथाओं और उपयोगकर्ता समझौतों के लिए, नीचे दिए गए कानूनी दस्तावेज़ देखें:
 
 {{< cards >}}
-  {{< card icon="document-text" link="/legal" title="कानूनी केंद्र" >}}
+  {{< ls-card icon="document-text" link="/legal" title="कानूनी केंद्र" >}}
 {{< /cards >}}

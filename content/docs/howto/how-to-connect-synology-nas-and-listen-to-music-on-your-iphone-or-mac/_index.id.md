@@ -7,7 +7,7 @@ tags: ["musik", "streaming", "nas", "synology", "quickconnect"]
 readingTime: 4
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **Ringkasan:** Hubungkan Synology NAS Anda ke Evermusic atau Flacbox menggunakan API native Synology -- baik secara manual melalui alamat IP atau secara otomatis melalui QuickConnect ID. QuickConnect memungkinkan Anda streaming musik dari jarak jauh tanpa port forwarding. Kedua aplikasi mendukung FLAC, MP3, WAV, dan format hi-res lainnya.
@@ -140,22 +140,22 @@ Dengan akses jarak jauh yang aman melalui QuickConnect dan dukungan untuk berbag
 
 ## FAQ
 
-{{% details title="Apa perbedaan antara koneksi manual dan QuickConnect?" closed="true" %}}
+{{% ls-details title="Apa perbedaan antara koneksi manual dan QuickConnect?" closed="true" %}}
 Koneksi manual menggunakan alamat IP dan port NAS, yang berfungsi di jaringan lokal Anda. QuickConnect menggunakan layanan relay Synology untuk membuat koneksi dari mana saja melalui internet, tanpa port forwarding.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Bisakah saya streaming musik dari Synology NAS di luar jaringan rumah?" closed="true" %}}
+{{% ls-details title="Bisakah saya streaming musik dari Synology NAS di luar jaringan rumah?" closed="true" %}}
 Ya. Aktifkan QuickConnect di Synology NAS Anda dan gunakan QuickConnect ID di Evermusic atau Flacbox untuk streaming musik dari mana saja dengan koneksi internet.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Format audio apa yang didukung saat streaming dari Synology NAS?" closed="true" %}}
+{{% ls-details title="Format audio apa yang didukung saat streaming dari Synology NAS?" closed="true" %}}
 Evermusic dan Flacbox mendukung FLAC, MP3, AAC, WAV, ALAC, OGG, WMA, DSD, dan banyak format lainnya. Semua format yang didukung berfungsi saat streaming dari Synology NAS.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Apakah saya memerlukan autentikasi dua faktor untuk terhubung?" closed="true" %}}
+{{% ls-details title="Apakah saya memerlukan autentikasi dua faktor untuk terhubung?" closed="true" %}}
 Tidak, autentikasi dua faktor bersifat opsional. Namun, jika Anda telah mengaktifkan verifikasi 2 langkah di Synology DSM Anda, aplikasi akan meminta kata sandi sekali pakai saat login. Anda perlu mengotorisasi ulang saat sesi berakhir.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Haruskah saya menggunakan API native Synology, WebDAV, atau SMB untuk terhubung?" closed="true" %}}
+{{% ls-details title="Haruskah saya menggunakan API native Synology, WebDAV, atau SMB untuk terhubung?" closed="true" %}}
 API native Synology dengan QuickConnect adalah pilihan terbaik untuk akses jarak jauh. Untuk penggunaan jaringan lokal, SMB biasanya opsi tercepat. WebDAV berfungsi baik untuk akses lokal dan jarak jauh. Evermusic dan Flacbox mendukung ketiga protokol tersebut.
-{{% /details %}}
+{{% /ls-details %}}

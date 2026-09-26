@@ -18,7 +18,7 @@ readingTime: 16
 شاشة الإعدادات هي مركز التحكم في Evermusic. من هنا يمكنك الترقية إلى Premium وتكوين مشغل الصوت وإدارة مكتبة الموسيقى وإعداد مدير الملفات وتخصيص الواجهة وتفعيل الأدوات وCarPlay ونسخ بياناتك احتياطيًا والوصول إلى المساعدة والمعلومات القانونية. تُجمَّع الأقسام تحت رؤوس: **المشتريات والتحديثات** وتفضيلات التطبيق و**المساعدة** و**القانوني والخصوصية**.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="شاشة إعدادات Evermusic" image="/docs/guide/evermusic/evermusic-guide-settings/img/settings-main-screen.webp" >}}
+  {{< ls-card title="" subtitle="شاشة إعدادات Evermusic" image="/docs/guide/evermusic/evermusic-guide-settings/img/settings-main-screen.webp" >}}
 {{< /cards >}}
 
 ## المشتريات والتحديثات

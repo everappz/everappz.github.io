@@ -3,7 +3,9 @@ date: '2025-06-12T17:00:00+00:00'
 title: 'Ondersteuning'
 ---
 
-{{< lottie src="/images/juicy-json/juicy-girl-is-working-on-laptop-at-a-remote-job.json" width="80%" >}}
+{{< ls-lottie src="/images/juicy-json/juicy-girl-is-working-on-laptop-at-a-remote-job.json" width="80%" >}}
+
+{{< ls-docs-search >}}
 
 ## Hulp nodig? Wij staan voor u klaar
 
@@ -19,9 +21,9 @@ Door contact met ons op te nemen, bevestigt u dat u ons [Privacybeleid](../legal
 Om tijd te besparen en direct antwoorden te krijgen, bekijk onze meest nuttige bronnen. Veel veelgestelde vragen zijn al beantwoord:
 
 {{< cards >}}
-  {{< card icon="book-open" link="/docs/guide" title="Gebruikershandleiding" >}}
-  {{< card icon="question-mark-circle" link="/docs/faq" title="Veelgestelde vragen" >}}
-  {{< card icon="light-bulb" link="/docs/howto" title="Handleidingen" >}}
+  {{< ls-card icon="book-open" link="/docs/guide" title="Gebruikershandleiding" >}}
+  {{< ls-card icon="question-mark-circle" link="/docs/faq" title="Veelgestelde vragen" >}}
+  {{< ls-card icon="light-bulb" link="/docs/howto" title="Handleidingen" >}}
 {{< /cards >}}
 
 Deze handleidingen zijn ontworpen om u te helpen het meeste uit onze apps te halen — van installatie tot geavanceerde functies.

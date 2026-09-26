@@ -7,7 +7,7 @@ tags: ["evermusic", "hang", "szerkesztő", "címkék", "megjegyzések"]
 readingTime: 4
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **Összefoglaló:** Az Evermusic és Flacbox lehetővé teszi szöveges megjegyzések időjelölőkkel való hozzáadását bármely hangsávhoz, majd szinkronban jeleníti meg azokat lejátszás közben. Megtekintheti a beágyazott dalszövegeket és LRC fájlokat is. A megjegyzések és dalszövegek funkciók mindkét alkalmazásban ingyenesek.
@@ -97,22 +97,22 @@ A megjegyzések hozzáadása a hangsávokhoz az Evermusic és Flacbox alkalmazá
 
 ## Gyakran ismételt kérdések
 
-{{% details title="Ingyenes a megjegyzések funkció az Evermusic és Flacbox alkalmazásokban?" closed="true" %}}
+{{% ls-details title="Ingyenes a megjegyzések funkció az Evermusic és Flacbox alkalmazásokban?" closed="true" %}}
 Igen. A megjegyzések és dalszövegek hozzáadása, szerkesztése és megtekintése ingyenes funkció mind az Evermusic, mind a Flacbox alkalmazásban.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Milyen formátumot használjak az időzített megjegyzésekhez?" closed="true" %}}
+{{% ls-details title="Milyen formátumot használjak az időzített megjegyzésekhez?" closed="true" %}}
 Használja az LRC időjelölő formátumot: `[MM:SS.SS]` szöveggel követve. Például: `[01:23.45]Ez az én megjegyzésem`. Több időbélyeget is hozzárendelhet egyetlen sorhoz.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Megtekinthetek dalszövegeket és LRC fájlokat ugyanazon a képernyőn?" closed="true" %}}
+{{% ls-details title="Megtekinthetek dalszövegeket és LRC fájlokat ugyanazon a képernyőn?" closed="true" %}}
 Igen. A Megjegyzések képernyő három módot támogat, amelyek között húzással válthat: Megjegyzések, Beágyazott dalszövegek és LRC fájl.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Hol találhatok LRC dalszövegfájlokat?" closed="true" %}}
+{{% ls-details title="Hol találhatok LRC dalszövegfájlokat?" closed="true" %}}
 Ingyenes LRC dalszövegek elérhetők olyan weboldalakon, mint a Lyricsify.com. Beágyazhatja őket a hangfájl dalszöveg címkéjébe, vagy elhelyezhet egy különálló `.lrc` fájlt a hangfájl mellett.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Szükségem van külön alkalmazásra a dalszöveg címkék szerkesztéséhez?" closed="true" %}}
+{{% ls-details title="Szükségem van külön alkalmazásra a dalszöveg címkék szerkesztéséhez?" closed="true" %}}
 A megjegyzéseket közvetlenül szerkesztheti az Evermusic és Flacbox alkalmazásban. A dalszöveg címke kifejezett szerkesztéséhez használja az Evertag alkalmazást, amely egy ingyenes hang metaadat-szerkesztő iOS és macOS rendszerekre.
-{{% /details %}}
+{{% /ls-details %}}

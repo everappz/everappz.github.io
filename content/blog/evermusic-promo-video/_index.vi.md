@@ -12,7 +12,7 @@ authors:
     image: "/images/about/artem-meleshko-founder-everappz.webp"
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 ## Evermusic: Trình phát nhạc đám mây cho iPhone và iPad
 
@@ -22,7 +22,7 @@ Evermusic là trình phát nhạc đám mây kết nối với bộ nhớ đám 
 
 ## Xem video quảng cáo
 
-{{< youtubecard id="BwD0XLgdzEE" title="Evermusic Promo Video" >}}
+{{< ls-youtubecard id="BwD0XLgdzEE" title="Evermusic Promo Video" >}}
 
 ## Các tính năng chính được hiển thị trong video
 
@@ -36,14 +36,14 @@ Evermusic là trình phát nhạc đám mây kết nối với bộ nhớ đám 
 
 ## Câu hỏi thường gặp
 
-{{% details title="Evermusic là gì?" closed="true" %}}
+{{% ls-details title="Evermusic là gì?" closed="true" %}}
 Evermusic là trình phát nhạc đám mây cho iPhone và iPad. Nó kết nối với các dịch vụ lưu trữ đám mây như Dropbox, Google Drive và OneDrive, cho phép bạn phát trực tuyến và tải các tệp nhạc của riêng mình. Hỗ trợ FLAC, MP3, AAC, WAV và các định dạng âm thanh khác.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Evermusic có miễn phí tải về không?" closed="true" %}}
+{{% ls-details title="Evermusic có miễn phí tải về không?" closed="true" %}}
 Có. Evermusic miễn phí tải về với các tính năng cơ bản. Nâng cấp Premium một lần mở khóa bộ cân bằng, crossfade và kết nối tài khoản đám mây bổ sung.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Evermusic hỗ trợ những dịch vụ đám mây nào?" closed="true" %}}
+{{% ls-details title="Evermusic hỗ trợ những dịch vụ đám mây nào?" closed="true" %}}
 Evermusic hỗ trợ hơn 12 nền tảng đám mây bao gồm iCloud Drive, Dropbox, Google Drive, OneDrive, Box, MEGA, Yandex.Disk, pCloud và bất kỳ máy chủ nào chạy giao thức WebDAV hoặc SMB.
-{{% /details %}}
+{{% /ls-details %}}

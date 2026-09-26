@@ -12,7 +12,7 @@ authors:
     image: "/images/about/artem-meleshko-founder-everappz.webp"
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 **En bref :** [Everdisk](/products/everdisk) est notre nouvelle app qui transforme votre **iPhone ou iPad en disque sans fil**, et en hub qui se connecte aussi à vos autres appareils. Touchez **Démarrer** et Everdisk lance **quatre serveurs à la fois** : **DLNA** pour les téléviseurs connectés et lecteurs multimédias, **HTTP** pour n'importe quel navigateur web, **WebDAV** pour Finder, Windows et Linux, et **FTP** pour les apps de fichiers. Chaque appareil se connecte comme il le préfère. Partagez vos fichiers, photos, vidéos et musique avec tout ce qui se trouve sur votre réseau, diffusez vers une TV sans câble, montez votre appareil comme lecteur réseau, ou déplacez des fichiers via un **câble USB** quand il n'y a pas de Wi-Fi. Everdisk se connecte aussi vers des serveurs **DLNA, WebDAV, FTP et SFTP**, dispose d'un **gestionnaire de fichiers** intégré avec compression et décompression, et peut **numériser des documents en PDF**, **annoter et signer des PDF**, et proposer une **boîte à outils PDF** complète. Sans comptes, sans cloud et sans app supplémentaire à installer de l'autre côté. Tout reste sur votre réseau local. Téléchargement gratuit, avec un achat Premium à vie facultatif et unique.
 
@@ -133,46 +133,46 @@ Si vous aimez l'app, laissez une note sur l'App Store. Cela aide vraiment. Un co
 
 ## Foire aux questions
 
-{{% details title="Qu'est-ce qu'Everdisk ?" closed="true" %}}
+{{% ls-details title="Qu'est-ce qu'Everdisk ?" closed="true" %}}
 Everdisk est une nouvelle app qui transforme votre iPhone ou iPad en disque sans fil et en hub qui se connecte aussi à vos autres appareils. Vous pouvez partager vos fichiers, photos, vidéos et musique avec tout ce qui se trouve sur votre réseau, parcourir et diffuser depuis d'autres serveurs, et gérer tout directement sur votre appareil. Sans comptes, sans cloud et sans app supplémentaire à installer de l'autre côté. Il suffit de toucher Démarrer et vous êtes prêt. L'app exécute quatre serveurs en même temps : DLNA pour les téléviseurs connectés et lecteurs multimédias, HTTP pour n'importe quel navigateur web, WebDAV pour Finder, Windows et Linux, et FTP pour les apps de fichiers et utilisateurs avancés.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Combien coûte Everdisk ?" closed="true" %}}
+{{% ls-details title="Combien coûte Everdisk ?" closed="true" %}}
 Everdisk est un téléchargement gratuit. Vous pouvez transformer votre appareil en disque sans fil, partager vos fichiers de quatre façons, diffuser vers une TV, monter un lecteur réseau, transférer en USB, vous connecter à d'autres serveurs, utiliser le gestionnaire de fichiers, numériser des documents et utiliser les outils PDF gratuitement. Il existe un achat Premium à vie facultatif et unique, un paiement unique sans abonnement, qui débloque un nombre illimité de dossiers partagés et de connexions enregistrées, la conversion photo et vidéo, les ports personnalisés, le démarrage automatique du partage et la personnalisation de l'appareil. Les prix peuvent varier selon la région.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Dois-je installer quelque chose sur l'autre appareil ?" closed="true" %}}
+{{% ls-details title="Dois-je installer quelque chose sur l'autre appareil ?" closed="true" %}}
 Non. C'est justement tout l'intérêt. L'autre appareil se connecte avec les outils qu'il possède déjà. Un téléviseur connecté trouve tout seul votre bibliothèque via DLNA, n'importe quel ordinateur ou téléphone ouvre un lien dans un navigateur web, et le Finder du Mac, Windows et Linux montent votre appareil comme lecteur réseau via WebDAV. Rien à installer de l'autre côté.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Comment diffuser photos et vidéos vers ma TV ?" closed="true" %}}
+{{% ls-details title="Comment diffuser photos et vidéos vers ma TV ?" closed="true" %}}
 Placez votre TV ou lecteur multimédia et votre appareil sur le même réseau Wi-Fi, puis touchez Démarrer dans Everdisk avec vos photos, vidéos ou musique partagées. Votre appareil apparaît tout seul dans la liste des serveurs multimédias de la TV, avec des vignettes d'aperçu. Ouvrez-le sur la TV et profitez de votre bibliothèque sur grand écran. Sans câble et sans app supplémentaire.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Comment connecter Everdisk depuis mon Mac ou mon PC ?" closed="true" %}}
+{{% ls-details title="Comment connecter Everdisk depuis mon Mac ou mon PC ?" closed="true" %}}
 Everdisk fait apparaître votre appareil comme un lecteur réseau normal via WebDAV. Sur un Mac, ouvrez le Finder et choisissez Aller, puis Se connecter au serveur, et saisissez l'adresse WebDAV affichée dans l'app. Sur Windows, connectez un lecteur réseau avec la même adresse. Sur Linux, connectez-vous à l'adresse WebDAV depuis votre gestionnaire de fichiers. Une fois connecté, vous pouvez glisser-déposer dans les deux sens. Si vous préférez ne pas monter de lecteur, ouvrez simplement le lien HTTP dans n'importe quel navigateur web.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Puis-je transférer des fichiers sans Wi-Fi ?" closed="true" %}}
+{{% ls-details title="Puis-je transférer des fichiers sans Wi-Fi ?" closed="true" %}}
 Oui. Connectez votre appareil à un Mac avec le même câble USB que vous utilisez pour le charger, et les fichiers passent directement par le câble, plus vite qu'en Wi-Fi. Comme cela ne nécessite pas de réseau sans fil, cela continue de fonctionner dans un avion, dans un hôtel, ou sur n'importe quel réseau verrouillé ou public où le partage Wi-Fi est bloqué.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Puis-je envoyer des fichiers d'un iPhone à un autre ?" closed="true" %}}
+{{% ls-details title="Puis-je envoyer des fichiers d'un iPhone à un autre ?" closed="true" %}}
 Oui. Démarrez le partage sur un appareil et ouvrez le lien dans un navigateur web sur l'autre, ou connectez-vous via WebDAV ou FTP. Vous pouvez parcourir, diffuser et télécharger dans les deux sens, et même renvoyer photos, documents et dossiers entiers vers l'appareil qui partage.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="À quoi Everdisk peut-il se connecter ?" closed="true" %}}
+{{% ls-details title="À quoi Everdisk peut-il se connecter ?" closed="true" %}}
 Everdisk est aussi un client pour les autres appareils de votre réseau. Vous pouvez trouver et vous connecter à des serveurs DLNA, WebDAV, FTP et SFTP, y compris les NAS et serveurs multimédias. Une fois connecté, vous pouvez parcourir leurs dossiers, diffuser de l'audio et de la vidéo, télécharger des fichiers, et créer des dossiers, envoyer, renommer, déplacer ou supprimer quand le serveur l'autorise.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Puis-je numériser des documents et modifier des PDF dans Everdisk ?" closed="true" %}}
+{{% ls-details title="Puis-je numériser des documents et modifier des PDF dans Everdisk ?" closed="true" %}}
 Oui. Everdisk peut numériser des documents papier avec votre appareil photo. Il détecte les bords tout seul, redresse chaque page, et les enregistre sous forme de PDF multipage soigné. Vous pouvez aussi ouvrir un PDF ou une photo et l'annoter (dessiner, surligner, ajouter du texte et des formes, et signer avec votre doigt), les modifications étant enregistrées dans le fichier. Une boîte à outils PDF complète ajoute la compression, la reconnaissance de texte (OCR) en PDF interrogeable, la protection par mot de passe, la vérification des autorisations, la modification des métadonnées et l'aplatissement.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Everdisk est-il privé et sûr ?" closed="true" %}}
+{{% ls-details title="Everdisk est-il privé et sûr ?" closed="true" %}}
 Oui. Tout reste sur votre réseau local et ne touche jamais internet, vos fichiers ne quittent donc jamais la maison. Sans comptes et sans cloud au milieu. Vous pouvez protéger l'accès avec un identifiant et un mot de passe pour que les appareils connectés doivent saisir les mêmes informations avant de pouvoir voir vos fichiers, et vous pouvez bloquer n'importe quel appareil d'une seule touche. Pour une meilleure confidentialité, n'activez le partage que lorsque vous êtes connecté à un réseau Wi-Fi que vous connaissez et en qui vous avez confiance.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Sur quels appareils Everdisk fonctionne-t-il ?" closed="true" %}}
+{{% ls-details title="Sur quels appareils Everdisk fonctionne-t-il ?" closed="true" %}}
 Everdisk fonctionne sur iPhone et iPad. Il partage avec, et se connecte à, des téléviseurs connectés, des lecteurs multimédias, des ordinateurs Mac, Windows et Linux, des navigateurs web, d'autres téléphones et tablettes, des NAS, et tout serveur DLNA, WebDAV, FTP ou SFTP de votre réseau.
-{{% /details %}}
+{{% /ls-details %}}

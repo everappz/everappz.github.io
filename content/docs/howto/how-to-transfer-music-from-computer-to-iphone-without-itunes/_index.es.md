@@ -7,14 +7,14 @@ keywords: ["transferir música sin iTunes", "wifi drive iphone", "copiar música
 readingTime: 2
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **Resumen:** Usa Wi-Fi Drive en Evermusic, Flacbox o Evertag para transferir música desde tu ordenador a tu iPhone o iPad. No se necesita iTunes. Ambos dispositivos deben estar en la misma red Wi-Fi. Transfiere a través de un navegador web o WebDAV (Mac Finder / Windows Explorador de archivos).
 
 Puedes ver un video tutorial de [**TECHGUYPH**](https://www.youtube.com/channel/UCgpf09gGFE_c_3pPTtTpnzg) o leer la versión de texto a continuación.
 <br><br>
-{{< youtubecard id="CqdqrQ0ge70" title="Can We Wirelessly Put Offline Music on iPhones?" >}}
+{{< ls-youtubecard id="CqdqrQ0ge70" title="Can We Wirelessly Put Offline Music on iPhones?" >}}
 
 Wi-Fi Drive es la solución definitiva para transferir sin problemas tu colección de música desde tu ordenador a tu iPhone o iPad sin necesidad de iTunes. Este método sencillo te permite descargar o subir múltiples archivos de audio e incluso carpetas enteras usando tu conexión Wi-Fi local. Tanto tu ordenador como tu dispositivo iOS deben estar conectados a la misma red Wi-Fi para que funcione perfectamente.
 
@@ -84,22 +84,22 @@ Con Wi-Fi Drive, los días de luchar con iTunes se han terminado. Disfruta de un
 
 ## Preguntas frecuentes
 
-{{% details title="¿Qué formatos de audio puedo transferir con Wi-Fi Drive?" closed="true" %}}
+{{% ls-details title="¿Qué formatos de audio puedo transferir con Wi-Fi Drive?" closed="true" %}}
 Wi-Fi Drive transfiere cualquier tipo de archivo. Evermusic y Flacbox soportan la reproducción de MP3, FLAC, AAC, WAV, AIFF, OGG, WMA y muchos otros formatos de audio.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="¿Necesito iTunes para poner música en mi iPhone?" closed="true" %}}
+{{% ls-details title="¿Necesito iTunes para poner música en mi iPhone?" closed="true" %}}
 No. Wi-Fi Drive transfiere música directamente a través de tu red Wi-Fi local. No se necesita iTunes.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="¿Puedo transferir carpetas de música enteras de una vez?" closed="true" %}}
+{{% ls-details title="¿Puedo transferir carpetas de música enteras de una vez?" closed="true" %}}
 Sí. El método del navegador web soporta la subida de carpetas enteras, incluyendo subcarpetas anidadas.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="¿Es segura la transferencia de música?" closed="true" %}}
+{{% ls-details title="¿Es segura la transferencia de música?" closed="true" %}}
 Wi-Fi Drive funciona solo en tu red local. También puedes establecer un nombre de usuario y contraseña para mayor seguridad.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="¿Qué aplicaciones soportan Wi-Fi Drive para música?" closed="true" %}}
+{{% ls-details title="¿Qué aplicaciones soportan Wi-Fi Drive para música?" closed="true" %}}
 Evermusic, Flacbox y Evertag incluyen Wi-Fi Drive para transferir archivos de audio desde tu ordenador.
-{{% /details %}}
+{{% /ls-details %}}

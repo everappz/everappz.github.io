@@ -7,7 +7,7 @@ tags: ["kampanja", "appstore", "asenna", "lunasta", "koodi", "ilmainen"]
 readingTime: 2
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **Lyhyesti:** Kampanjakoodi mahdollistaa maksullisen sovelluksen lataamisen ilmaiseksi tai sovelluksen sisäisten ostojen avaamisen. iOS:llä: App Store > Tili-kuvake > Lunasta lahjakortti tai koodi > syötä koodi. Macilla: App Store > Tili > Lunasta lahjakortti > syötä koodi. Avaa sitten sovellus ja palauta ostot tarvittaessa.
@@ -94,22 +94,22 @@ Nauti ilmaisesta sovelluksestasi tai sovelluksen sisäisestä päivityksestä!
 
 ## Usein kysytyt kysymykset
 
-{{% details title="Mistä saan kampanjakoodin?" closed="true" %}}
+{{% ls-details title="Mistä saan kampanjakoodin?" closed="true" %}}
 Kampanjakoodeja tarjoavat sovelluskehittäjät arvosteluihin, arvontoihin tai kampanjoihin. Ota suoraan yhteyttä kehittäjään pyytääksesi sellaisen.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Vanhenevatko kampanjakoodit?" closed="true" %}}
+{{% ls-details title="Vanhenevatko kampanjakoodit?" closed="true" %}}
 Kyllä. Apple App Storen kampanjakoodit vanhenevat 28 päivää niiden luomisen jälkeen, ja ne voidaan lunastaa vain kerran.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Voinko käyttää kampanjakoodia missä tahansa maassa?" closed="true" %}}
+{{% ls-details title="Voinko käyttää kampanjakoodia missä tahansa maassa?" closed="true" %}}
 Kampanjakoodit ovat aluekohtaisia. Koodin on vastattava Apple ID:si App Store -maata.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Kuinka aktivoin sovelluksen sisäiset ostot kampanjakoodilla?" closed="true" %}}
+{{% ls-details title="Kuinka aktivoin sovelluksen sisäiset ostot kampanjakoodilla?" closed="true" %}}
 Koodin lunastamisen jälkeen App Storessa avaa sovellus ja siirry kohtaan Asetukset > Palauta ostot. Premium-sisältö avautuu automaattisesti.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Kampanjakoodi sanoo, että se on jo lunastettu. Mitä minun pitäisi tehdä?" closed="true" %}}
+{{% ls-details title="Kampanjakoodi sanoo, että se on jo lunastettu. Mitä minun pitäisi tehdä?" closed="true" %}}
 Jokainen kampanjakoodi voidaan käyttää vain kerran. Ota yhteyttä kehittäjään pyytääksesi uuden koodin.
-{{% /details %}}
+{{% /ls-details %}}

@@ -12,7 +12,7 @@ authors:
     image: "/images/about/artem-meleshko-founder-everappz.webp"
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 **TL;DR：** Evermusic 3.6 新增 Apple CarPlay 集成、完整 VoiceOver 无障碍功能、混合音频输出、自动恢复播放、FLAC/MP3/AIFF 封面和标签编辑以及 iCloud Drive 文件导入。
 
@@ -78,18 +78,18 @@ Evermusic 自动保存您的收听位置。当您重新打开应用时：
 
 ## FAQ
 
-{{% details title="Evermusic 支持 CarPlay 吗？" closed="true" %}}
+{{% ls-details title="Evermusic 支持 CarPlay 吗？" closed="true" %}}
 是的。从 3.6 版本开始，Evermusic 完全支持 Apple CarPlay。您可以从汽车内置显示屏浏览和播放音乐库。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Evermusic 对盲人或低视力用户是否无障碍？" closed="true" %}}
+{{% ls-details title="Evermusic 对盲人或低视力用户是否无障碍？" closed="true" %}}
 是的。Evermusic 3.6 包含完整的 VoiceOver 支持，提供描述性标签、提示和简化界面模式。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="我可以在 iPhone 上用 Evermusic 编辑 FLAC 标签吗？" closed="true" %}}
+{{% ls-details title="我可以在 iPhone 上用 Evermusic 编辑 FLAC 标签吗？" closed="true" %}}
 可以。Evermusic 内置标签编辑器，支持 FLAC、MP3 和 AIFF 文件。您可以编辑标题、艺术家、专辑和封面。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Evermusic 会记住我上次听到哪里吗？" closed="true" %}}
+{{% ls-details title="Evermusic 会记住我上次听到哪里吗？" closed="true" %}}
 会的。启用"Save Audio Player State"后，Evermusic 会在您重新打开应用时恢复队列、当前曲目和精确的播放位置。
-{{% /details %}}
+{{% /ls-details %}}

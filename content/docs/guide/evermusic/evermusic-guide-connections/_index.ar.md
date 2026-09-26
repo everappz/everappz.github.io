@@ -17,7 +17,7 @@ readingTime: 11
 الشاشة مقسمة إلى أقسام ذات تسميات واضحة حتى تتوسع من حساب iCloud Drive واحد إلى مكتبة منتشرة عبر سحابات متعددة وأجهزة NAS: الوصول السريع في الأعلى (مجلداتك السحابية المفضلة)، التخزين السحابي (الحسابات التي أضفتها)، الشبكة المحلية (الأجهزة المكتشفة عبر Bonjour)، الكمبيوتر (Wi-Fi Drive ومشاركة ملفات iTunes وSMB)، الملحقات الخارجية (محركات أقراص USB المتصلة)، والخدمات الأخرى (Last.fm وما شابه).
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="شاشة الاتصالات في Evermusic" image="/docs/guide/evermusic/evermusic-guide-connections/img/connect-main.webp" >}}
+  {{< ls-card title="" subtitle="شاشة الاتصالات في Evermusic" image="/docs/guide/evermusic/evermusic-guide-connections/img/connect-main.webp" >}}
 {{< /cards >}}
 
 ## الربط بالتخزين السحابي
@@ -29,7 +29,7 @@ readingTime: 11
 - انقر على تم.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="منتقي مزوّد التخزين السحابي" image="/docs/guide/evermusic/evermusic-guide-connections/img/connect-add-storage.webp" >}}
+  {{< ls-card title="" subtitle="منتقي مزوّد التخزين السحابي" image="/docs/guide/evermusic/evermusic-guide-connections/img/connect-add-storage.webp" >}}
 {{< /cards >}}
 
 إذا واجهت أي مشكلات، تحقق مرة أخرى من اتصالك بالإنترنت وبيانات تسجيل الدخول، وتأكد من تكوين المصادقة الثنائية بشكل صحيح لتلك الخدمة.  
@@ -70,7 +70,7 @@ readingTime: 11
   - **فصل الاتصال**: إذا أردت قطع الاتصال بالكامل بين التطبيق والخدمة السحابية، اختر 'فصل الاتصال.' انتبه إلى أن اختيار هذا الخيار سيزيل جميع الأغاني المرتبطة بهذه الخدمة السحابية من مكتبة الموسيقى في التطبيق، لكنها ستبقى على الخادم.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="قائمة المزيد من الإجراءات للتخزين السحابي المتصل" image="/docs/guide/evermusic/evermusic-guide-connections/img/connect-storage-more-actions.webp" >}}
+  {{< ls-card title="" subtitle="قائمة المزيد من الإجراءات للتخزين السحابي المتصل" image="/docs/guide/evermusic/evermusic-guide-connections/img/connect-storage-more-actions.webp" >}}
 {{< /cards >}}
 
 ## الربط بالكمبيوتر أو NAS
@@ -89,7 +89,7 @@ readingTime: 11
 دليل كامل حول كيفية ربط جهاز MAC أو PC باستخدام SMB متاح [هنا](/docs/howto/stream-your-music-from-mac-or-pc-to-iphone-using-smb/).
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="إعدادات اتصال SMB" image="/docs/guide/evermusic/evermusic-guide-connections/img/connect-smb-settings.webp" >}}
+  {{< ls-card title="" subtitle="إعدادات اتصال SMB" image="/docs/guide/evermusic/evermusic-guide-connections/img/connect-smb-settings.webp" >}}
 {{< /cards >}}
 
 ## الربط بـ NAS باستخدام WebDAV
@@ -99,7 +99,7 @@ readingTime: 11
 دليل كامل حول كيفية ربط NAS باستخدام بروتوكول WebDAV متاح [هنا](/docs/howto/how-to-connect-nas-storage-using-webdav-and-listen-to-music-on-your-iphone-or-mac).
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="إعدادات اتصال WebDAV" image="/docs/guide/evermusic/evermusic-guide-connections/img/connect-webdav-settings.webp" >}}
+  {{< ls-card title="" subtitle="إعدادات اتصال WebDAV" image="/docs/guide/evermusic/evermusic-guide-connections/img/connect-webdav-settings.webp" >}}
 {{< /cards >}}
 
 ## الربط بالكمبيوتر أو NAS باستخدام DLNA
@@ -107,7 +107,7 @@ readingTime: 11
 يمكنك أيضًا مشاركة مكتبة الموسيقى الموجودة على جهاز Windows PC أو NAS الشخصي باستخدام بروتوكول DLNA والوصول إلى تلك المكتبة في التطبيق كما هو موضح [هنا](/docs/howto/how-to-enable-dlna-media-server-on-windows-10-and-play-your-music-on-iphone). DLNA بروتوكول شائع ومستخدم على نطاق واسع، لكنه يسمح لك فقط بتشغيل الموسيقى أو تنزيلها. لا يمكنك رفع الملفات أو إنشاء مجلدات جديدة على الخادم.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="إعدادات اتصال DLNA" image="/docs/guide/evermusic/evermusic-guide-connections/img/connect-dlna-settings.webp" >}}
+  {{< ls-card title="" subtitle="إعدادات اتصال DLNA" image="/docs/guide/evermusic/evermusic-guide-connections/img/connect-dlna-settings.webp" >}}
 {{< /cards >}}
 
 ## الأجهزة المتاحة
@@ -120,7 +120,7 @@ readingTime: 11
 - إذا لزم الأمر، أدخل بيانات تسجيل الدخول الخاصة بك لإكمال الاتصال.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="الأجهزة المتاحة على الشبكة المحلية" image="/docs/guide/evermusic/evermusic-guide-connections/img/connect-available-devices.webp" >}}
+  {{< ls-card title="" subtitle="الأجهزة المتاحة على الشبكة المحلية" image="/docs/guide/evermusic/evermusic-guide-connections/img/connect-available-devices.webp" >}}
 {{< /cards >}}
 
 ## Wi-Fi Drive 
@@ -146,7 +146,7 @@ Wi-Fi Drive تقنية مريحة تتيح نقل الملفات لاسلكيً�
 الملفات التي تسحبها وتفلتها ستبدأ في الانتقال إلى جهاز iOS وستكون متاحة داخل التطبيق.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="إعدادات خادم Wi-Fi Drive" image="/docs/guide/evermusic/evermusic-guide-connections/img/connect-wifidrive-settings.webp" >}}
+  {{< ls-card title="" subtitle="إعدادات خادم Wi-Fi Drive" image="/docs/guide/evermusic/evermusic-guide-connections/img/connect-wifidrive-settings.webp" >}}
 {{< /cards >}}
 
 التعليمات التفصيلية حول كيفية نقل الملفات لاسلكيًا باستخدام WiFi-Drive متاحة [هنا](/docs/howto/how-to-transfer-files-wirelessly-from-a-computer-to-an-iphone-using-wifi-drive).
@@ -162,7 +162,7 @@ Wi-Fi Drive تقنية مريحة تتيح نقل الملفات لاسلكيً�
 التعليمات التفصيلية حول كيفية استخدام مشاركة ملفات iTunes متاحة [هنا](/docs/howto/how-to-play-local-itunes-files-on-my-iphone/).
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="مشاركة ملفات iTunes / Finder على Mac" image="/docs/guide/evermusic/evermusic-guide-connections/img/connect-itunes-file-sharing.webp" >}}
+  {{< ls-card title="" subtitle="مشاركة ملفات iTunes / Finder على Mac" image="/docs/guide/evermusic/evermusic-guide-connections/img/connect-itunes-file-sharing.webp" >}}
 {{< /cards >}}
 
 ## توصيل بطاقة USB
@@ -183,7 +183,7 @@ Wi-Fi Drive تقنية مريحة تتيح نقل الملفات لاسلكيً�
 - **خلط الكل**: مشابه لـ "تشغيل الكل"، لكن هذا الإجراء يمسح المجلد الحالي ومجلداته الفرعية لكنه يخلط الملفات قبل إضافتها إلى قائمة انتظار مشغل الصوت. إنها طريقة رائعة للاستمتاع بموسيقاك بترتيب عشوائي لبعض التنوع.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="شريط الأدوات العلوي داخل مجلد سحابي" image="/docs/guide/evermusic/evermusic-guide-connections/img/connect-top-toolbar.webp" >}}
+  {{< ls-card title="" subtitle="شريط الأدوات العلوي داخل مجلد سحابي" image="/docs/guide/evermusic/evermusic-guide-connections/img/connect-top-toolbar.webp" >}}
 {{< /cards >}}
 
 ## خيارات المجلد
@@ -200,7 +200,7 @@ Wi-Fi Drive تقنية مريحة تتيح نقل الملفات لاسلكيً�
 - **عرض الشبكة/القائمة**: التبديل بين وضعي العرض: عرض الجدول وعرض الصور المصغرة. يعرض عرض الجدول الملفات في قائمة، بينما يعرض عرض الصور المصغرة تمثيلات بصرية للملفات، مما يسهّل التعرف على المحتوى بنظرة واحدة.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="قائمة المزيد من الإجراءات للمجلد الحالي" image="/docs/guide/evermusic/evermusic-guide-connections/img/connect-folder-options.webp" >}}
+  {{< ls-card title="" subtitle="قائمة المزيد من الإجراءات للمجلد الحالي" image="/docs/guide/evermusic/evermusic-guide-connections/img/connect-folder-options.webp" >}}
 {{< /cards >}}
 
 ## تعديل الملفات عبر الإنترنت
@@ -212,7 +212,7 @@ Wi-Fi Drive تقنية مريحة تتيح نقل الملفات لاسلكيً�
 - **نفّذ إجراءات متنوعة**: بمجرد تحديد الملفات أو المجلدات التي تريد إدارتها، ستتاح لك عدة إجراءات مخصصة لاحتياجاتك:
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="وضع الاختيار للملفات الإلكترونية" image="/docs/guide/evermusic/evermusic-guide-connections/img/connect-selection-mode.webp" >}}
+  {{< ls-card title="" subtitle="وضع الاختيار للملفات الإلكترونية" image="/docs/guide/evermusic/evermusic-guide-connections/img/connect-selection-mode.webp" >}}
 {{< /cards >}}
 
 ## إجراءات الملف
@@ -233,7 +233,7 @@ Wi-Fi Drive تقنية مريحة تتيح نقل الملفات لاسلكيً�
 - **حذف**: توخَّ الحذر مع هذا الإجراء، إذ يزيل الملف نهائيًا من التخزين السحابي. لا يمكن التراجع عن هذا الحذف.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="قائمة المزيد من الإجراءات لملف واحد" image="/docs/guide/evermusic/evermusic-guide-connections/img/connect-single-folder-more-options.webp" >}}
+  {{< ls-card title="" subtitle="قائمة المزيد من الإجراءات لملف واحد" image="/docs/guide/evermusic/evermusic-guide-connections/img/connect-single-folder-more-options.webp" >}}
 {{< /cards >}}
 
 إذا تجاوزت قائمة الإجراءات المساحة المتاحة على الشاشة، فقط قم بالتمرير لأسفل داخل قائمة الإجراءات للوصول إلى الخيارات الإضافية.

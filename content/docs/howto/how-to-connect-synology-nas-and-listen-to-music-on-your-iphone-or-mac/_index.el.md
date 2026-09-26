@@ -7,7 +7,7 @@ tags: ["μουσική", "streaming", "nas", "synology", "quickconnect"]
 readingTime: 4
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **Περίληψη:** Συνδέστε το Synology NAS σας στο Evermusic ή Flacbox χρησιμοποιώντας το εγγενές API της Synology -- είτε χειροκίνητα μέσω διεύθυνσης IP είτε αυτόματα μέσω QuickConnect ID. Το QuickConnect σας επιτρέπει να κάνετε streaming μουσικής εξ αποστάσεως χωρίς προώθηση θυρών. Και οι δύο εφαρμογές υποστηρίζουν FLAC, MP3, WAV και άλλα hi-res formats.
@@ -140,22 +140,22 @@ readingTime: 4
 
 ## Συχνές ερωτήσεις
 
-{{% details title="Ποια είναι η διαφορά μεταξύ χειροκίνητης σύνδεσης και QuickConnect;" closed="true" %}}
+{{% ls-details title="Ποια είναι η διαφορά μεταξύ χειροκίνητης σύνδεσης και QuickConnect;" closed="true" %}}
 Η χειροκίνητη σύνδεση χρησιμοποιεί τη διεύθυνση IP και τη θύρα του NAS, που λειτουργεί στο τοπικό σας δίκτυο. Το QuickConnect χρησιμοποιεί την υπηρεσία αναμετάδοσης της Synology για να δημιουργήσει μια σύνδεση από οπουδήποτε μέσω του διαδικτύου, χωρίς προώθηση θυρών.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Μπορώ να κάνω streaming μουσικής από το Synology NAS εκτός του οικιακού μου δικτύου;" closed="true" %}}
+{{% ls-details title="Μπορώ να κάνω streaming μουσικής από το Synology NAS εκτός του οικιακού μου δικτύου;" closed="true" %}}
 Ναι. Ενεργοποιήστε το QuickConnect στο Synology NAS σας και χρησιμοποιήστε το QuickConnect ID στο Evermusic ή Flacbox για να κάνετε streaming μουσικής από οπουδήποτε με σύνδεση στο διαδίκτυο.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Ποιες μορφές ήχου υποστηρίζονται κατά το streaming από το Synology NAS;" closed="true" %}}
+{{% ls-details title="Ποιες μορφές ήχου υποστηρίζονται κατά το streaming από το Synology NAS;" closed="true" %}}
 Τα Evermusic και Flacbox υποστηρίζουν FLAC, MP3, AAC, WAV, ALAC, OGG, WMA, DSD και πολλές άλλες μορφές. Όλες οι υποστηριζόμενες μορφές λειτουργούν κατά το streaming από το Synology NAS.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Χρειάζομαι έλεγχο ταυτότητας δύο παραγόντων για τη σύνδεση;" closed="true" %}}
+{{% ls-details title="Χρειάζομαι έλεγχο ταυτότητας δύο παραγόντων για τη σύνδεση;" closed="true" %}}
 Όχι, ο έλεγχος ταυτότητας δύο παραγόντων είναι προαιρετικός. Ωστόσο, αν έχετε ενεργοποιήσει την επαλήθευση σε 2 βήματα στο Synology DSM σας, η εφαρμογή θα ζητήσει κωδικό μίας χρήσης κατά τη σύνδεση. Θα χρειαστεί εκ νέου εξουσιοδότηση όταν λήξει η συνεδρία.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Πρέπει να χρησιμοποιήσω το εγγενές API Synology, WebDAV ή SMB για σύνδεση;" closed="true" %}}
+{{% ls-details title="Πρέπει να χρησιμοποιήσω το εγγενές API Synology, WebDAV ή SMB για σύνδεση;" closed="true" %}}
 Το εγγενές API Synology με QuickConnect είναι η καλύτερη επιλογή για απομακρυσμένη πρόσβαση. Για χρήση σε τοπικό δίκτυο, το SMB είναι συνήθως η ταχύτερη επιλογή. Το WebDAV λειτουργεί καλά τόσο για τοπική όσο και για απομακρυσμένη πρόσβαση. Τα Evermusic και Flacbox υποστηρίζουν και τα τρία πρωτόκολλα.
-{{% /details %}}
+{{% /ls-details %}}

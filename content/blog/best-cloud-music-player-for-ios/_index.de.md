@@ -12,7 +12,7 @@ authors:
     image: "/images/about/artem-meleshko-founder-everappz.webp"
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 **Kurzfassung:** Evermusic ist ein Cloud-Musikplayer für iPhone und iPad, der sich mit Dropbox, Google Drive, OneDrive und mehr als 9 anderen Cloud-Diensten verbindet. Er spielt FLAC, MP3, WAV und andere Formate ab, unterstützt Offline-Downloads und enthält einen Equalizer und einen ID3-Tag-Editor. Kostenloser Download mit einmaliger Premium-Erweiterung. Über 11 Millionen Downloads, 4,6-Sterne-Bewertung im App Store.
 
@@ -20,7 +20,7 @@ authors:
 
 Sehen Sie sich die vollständige Videokritik von [@Massi_Media](https://www.youtube.com/@Massi_Media) an:
 
-{{< youtubecard id="pKUZmHy9dxc" >}}
+{{< ls-youtubecard id="pKUZmHy9dxc" >}}
 
 ## Was ist der beste Cloud-Musikplayer für das iPhone?
 
@@ -67,18 +67,18 @@ Da Evermusic mit Dateien funktioniert, die Sie bereits haben, und Speicher, für
 
 ## Häufig gestellte Fragen
 
-{{% details title="Ist Evermusic wirklich kostenlos nutzbar?" closed="true" %}}
+{{% ls-details title="Ist Evermusic wirklich kostenlos nutzbar?" closed="true" %}}
 Ja, Evermusic bietet eine kostenlose Version an, die Cloud-Konnektivität, Streaming und Offline-Downloads umfasst. Die kostenlose Version unterstützt grundlegende Wiedergabefunktionen und eine begrenzte Anzahl von Cloud-Kontoverbindungen. Evermusic Pro, erhältlich als Einmalkauf oder Abonnement, schaltet den vollständigen Equalizer, Crossfade, zusätzliche Cloud-Konten und andere erweiterte Funktionen frei. Für den Zugriff auf Ihre eigenen Musikdateien ist kein Abonnement erforderlich.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Kann ich Evermusic ohne Internetverbindung nutzen?" closed="true" %}}
+{{% ls-details title="Kann ich Evermusic ohne Internetverbindung nutzen?" closed="true" %}}
 Absolut. Evermusic ermöglicht es Ihnen, Tracks von jedem verbundenen Cloud-Dienst direkt auf Ihr Gerät für die Offline-Wiedergabe herunterzuladen. Nach dem Herunterladen werden die Dateien lokal gespeichert und bleiben auch ohne WLAN oder mobile Daten verfügbar. Dies macht Evermusic ideal für Flüge, Pendelfahrten durch Tunnel oder jede Situation, in der die Verbindung unzuverlässig ist.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Unterstützt Evermusic verlustfreie Audioformate wie FLAC?" closed="true" %}}
+{{% ls-details title="Unterstützt Evermusic verlustfreie Audioformate wie FLAC?" closed="true" %}}
 Ja. Evermusic unterstützt eine breite Palette von Audioformaten, darunter FLAC, ALAC, WAV, AIFF, OGG, MP3, AAC und M4A. Die App spielt verlustfreie Dateien in ihrer nativen Qualität ohne Neu-Encodierung ab, sodass Audiophile ihre hochauflösenden Sammlungen genau wie beabsichtigt genießen können.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Wie verbinde ich mein NAS oder meinen Heimserver mit Evermusic?" closed="true" %}}
+{{% ls-details title="Wie verbinde ich mein NAS oder meinen Heimserver mit Evermusic?" closed="true" %}}
 Wenn Ihr NAS oder Heimserver WebDAV- oder SMB-Protokolle unterstützt, können Sie ihn mit Evermusic verbinden, indem Sie Ihre Serveradresse, Port und Anmeldeinformationen in den Cloud-Verbindungseinstellungen der App eingeben. Die meisten gängigen NAS-Marken, darunter Synology, QNAS und Western Digital MyCloud, unterstützen diese Protokolle von Haus aus. Nach der Verbindung scannt und indiziert Evermusic Ihre Musikdateien genau wie jede andere Cloud-Quelle.
-{{% /details %}}
+{{% /ls-details %}}

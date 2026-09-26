@@ -7,7 +7,7 @@ tags: ["spotify", "okładka albumu", "mp3", "metadane", "edytor muzyki", "lokaln
 readingTime: 3
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **W skrócie:** Spotify nie pozwala zmieniać okładek albumów dla strumieniowanych utworów, ale możesz aktualizować okładki plików lokalnych. Włącz funkcję Plików lokalnych w Spotify, skopiuj muzykę do folderu Spotify, a następnie użyj bezpłatnej aplikacji Evertag do edycji okładek albumów i metadanych. Zmiany pojawią się w Spotify po ponownym uruchomieniu.
@@ -25,8 +25,8 @@ Aby ułatwić sprawę, pokażemy, jak edytować okładki albumów za pomocą apl
 Zacznij od pobrania aplikacji **Evertag** z App Store. Jest bezpłatna i dostępna na **iOS** i **macOS**.
 
 {{< cards cols="2">}}
-{{< card link="https://apps.apple.com/app/apple-store/id1450763230?pt=95781850&ct=everappzcom&mt=8" title="Evertag na iOS" icon="download" tag="Free" >}}
-{{< card link="https://apps.apple.com/app/apple-store/id1594027661?pt=95781850&ct=everappzcom&mt=8" title="Evertag na macOS" icon="download" tag="Free" >}}
+{{< ls-card link="https://apps.apple.com/app/apple-store/id1450763230?pt=95781850&ct=everappzcom&mt=8" title="Evertag na iOS" icon="download" tag="Free" >}}
+{{< ls-card link="https://apps.apple.com/app/apple-store/id1594027661?pt=95781850&ct=everappzcom&mt=8" title="Evertag na macOS" icon="download" tag="Free" >}}
 {{< /cards >}}
 
 ## Aktywuj bibliotekę lokalną w Spotify
@@ -36,7 +36,7 @@ Domyślnie **Biblioteka plików lokalnych** jest wyłączona w aplikacji Spotify
 ### Otwórz aplikację Spotify
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Główny interfejs aplikacji Spotify" image="/docs/howto/how-to-change-album-covers-for-local-tracks-on-spotify-step-by-step-guide-mobile-desktop/spotify-main.webp" >}}
+{{< ls-card title="" subtitle="Główny interfejs aplikacji Spotify" image="/docs/howto/how-to-change-album-covers-for-local-tracks-on-spotify-step-by-step-guide-mobile-desktop/spotify-main.webp" >}}
 {{< /cards >}}
 
 ### Dotknij ikony swojego profilu
@@ -44,7 +44,7 @@ Domyślnie **Biblioteka plików lokalnych** jest wyłączona w aplikacji Spotify
 Spójrz w lewy górny róg ekranu głównego Spotify i dotknij zdjęcia profilowego, aby otworzyć menu.
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Awatar i opcje Spotify" image="/docs/howto/how-to-change-album-covers-for-local-tracks-on-spotify-step-by-step-guide-mobile-desktop/spotify-avatar-options.webp" >}}
+{{< ls-card title="" subtitle="Awatar i opcje Spotify" image="/docs/howto/how-to-change-album-covers-for-local-tracks-on-spotify-step-by-step-guide-mobile-desktop/spotify-avatar-options.webp" >}}
 {{< /cards >}}
 
 ### Wybierz «Ustawienia i prywatność»
@@ -52,7 +52,7 @@ Spójrz w lewy górny róg ekranu głównego Spotify i dotknij zdjęcia profilow
 Przewiń menu w dół i wybierz **Ustawienia i prywatność**, aby otworzyć pełną listę opcji.
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Menu ustawień Spotify" image="/docs/howto/how-to-change-album-covers-for-local-tracks-on-spotify-step-by-step-guide-mobile-desktop/spotify-settings.webp" >}}
+{{< ls-card title="" subtitle="Menu ustawień Spotify" image="/docs/howto/how-to-change-album-covers-for-local-tracks-on-spotify-step-by-step-guide-mobile-desktop/spotify-settings.webp" >}}
 {{< /cards >}}
 
 ### Wybierz «Aplikacje i urządzenia»
@@ -60,7 +60,7 @@ Przewiń menu w dół i wybierz **Ustawienia i prywatność**, aby otworzyć pe�
 Znajdź i dotknij elementu menu **Aplikacje i urządzenia**, aby wyświetlić ustawienia integracji urządzeń.
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Aplikacje i urządzenia Spotify" image="/docs/howto/how-to-change-album-covers-for-local-tracks-on-spotify-step-by-step-guide-mobile-desktop/spotify-apps-and-devices.webp" >}}
+{{< ls-card title="" subtitle="Aplikacje i urządzenia Spotify" image="/docs/howto/how-to-change-album-covers-for-local-tracks-on-spotify-step-by-step-guide-mobile-desktop/spotify-apps-and-devices.webp" >}}
 {{< /cards >}}
 
 ### Włącz «Lokalne pliki audio»
@@ -68,7 +68,7 @@ Znajdź i dotknij elementu menu **Aplikacje i urządzenia**, aby wyświetlić us
 Włącz przełącznik **Lokalne pliki audio**. Gdy zostaniesz poproszony, udziel Spotify uprawnień dostępu do plików muzycznych.
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Udziel Spotify dostępu do plików muzycznych" image="/docs/howto/how-to-change-album-covers-for-local-tracks-on-spotify-step-by-step-guide-mobile-desktop/spotify-access-to-music.webp" >}}
+{{< ls-card title="" subtitle="Udziel Spotify dostępu do plików muzycznych" image="/docs/howto/how-to-change-album-covers-for-local-tracks-on-spotify-step-by-step-guide-mobile-desktop/spotify-access-to-music.webp" >}}
 {{< /cards >}}
 
 ### Sprawdź folder Spotify
@@ -76,7 +76,7 @@ Włącz przełącznik **Lokalne pliki audio**. Gdy zostaniesz poproszony, udziel
 Po udzieleniu uprawnień otwórz aplikację **Pliki**, przejdź do **Lokalizacje > Na moim iPhone/iPad** i znajdź folder **Spotify**. Tutaj należy umieścić lokalne pliki muzyczne.
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Pliki muzyczne Spotify" image="/docs/howto/how-to-change-album-covers-for-local-tracks-on-spotify-step-by-step-guide-mobile-desktop/files-app-spotify-folder.webp" >}}
+{{< ls-card title="" subtitle="Pliki muzyczne Spotify" image="/docs/howto/how-to-change-album-covers-for-local-tracks-on-spotify-step-by-step-guide-mobile-desktop/files-app-spotify-folder.webp" >}}
 {{< /cards >}}
 
 ## Umieść pliki muzyczne w folderze biblioteki lokalnej Spotify
@@ -90,7 +90,7 @@ Poniżej znajdują się instrukcje za pomocą metody aplikacji **Pliki**.
 ### Otwórz aplikację Pliki – Lokalizacje – Na tym urządzeniu
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Folder Spotify" image="/docs/howto/how-to-change-album-covers-for-local-tracks-on-spotify-step-by-step-guide-mobile-desktop/files-app-spotify-folder.webp" >}}
+{{< ls-card title="" subtitle="Folder Spotify" image="/docs/howto/how-to-change-album-covers-for-local-tracks-on-spotify-step-by-step-guide-mobile-desktop/files-app-spotify-folder.webp" >}}
 {{< /cards >}}
 
 ### Skopiuj folder muzyczny
@@ -98,7 +98,7 @@ Poniżej znajdują się instrukcje za pomocą metody aplikacji **Pliki**.
 Przejdź do folderu **Muzyka**. Dotknij i przytrzymaj, aby otworzyć menu kontekstowe, a następnie wybierz **Kopiuj**.
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Dostęp do opcji folderu w aplikacji Pliki" image="/docs/howto/how-to-change-album-covers-for-local-tracks-on-spotify-step-by-step-guide-mobile-desktop/files-app-folder-options.webp" >}}
+{{< ls-card title="" subtitle="Dostęp do opcji folderu w aplikacji Pliki" image="/docs/howto/how-to-change-album-covers-for-local-tracks-on-spotify-step-by-step-guide-mobile-desktop/files-app-folder-options.webp" >}}
 {{< /cards >}}
 
 ### Wklej folder muzyczny
@@ -106,7 +106,7 @@ Przejdź do folderu **Muzyka**. Dotknij i przytrzymaj, aby otworzyć menu kontek
 Przejdź do folderu **Spotify**, dotknij i przytrzymaj na pustym obszarze, a następnie wybierz **Wklej** z menu kontekstowego.
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Wklejanie folderu w lokalizacji docelowej" image="/docs/howto/how-to-change-album-covers-for-local-tracks-on-spotify-step-by-step-guide-mobile-desktop/files-app-paste-folder.webp" >}}
+{{< ls-card title="" subtitle="Wklejanie folderu w lokalizacji docelowej" image="/docs/howto/how-to-change-album-covers-for-local-tracks-on-spotify-step-by-step-guide-mobile-desktop/files-app-paste-folder.webp" >}}
 {{< /cards >}}
 
 ### Poczekaj na proces kopiowania
@@ -114,7 +114,7 @@ Przejdź do folderu **Spotify**, dotknij i przytrzymaj na pustym obszarze, a nas
 Poczekaj, aż system zakończy kopiowanie folderu muzycznego do lokalnego katalogu Spotify.
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Kopiowanie plików muzycznych za pomocą aplikacji Pliki" image="/docs/howto/how-to-change-album-covers-for-local-tracks-on-spotify-step-by-step-guide-mobile-desktop/files-app-copying-music.webp" >}}
+{{< ls-card title="" subtitle="Kopiowanie plików muzycznych za pomocą aplikacji Pliki" image="/docs/howto/how-to-change-album-covers-for-local-tracks-on-spotify-step-by-step-guide-mobile-desktop/files-app-copying-music.webp" >}}
 {{< /cards >}}
 
 ### Otwórz lokalną bibliotekę Spotify
@@ -122,7 +122,7 @@ Poczekaj, aż system zakończy kopiowanie folderu muzycznego do lokalnego katalo
 Teraz wróć do aplikacji Spotify. Dotknij **Twoja biblioteka > Lokalne pliki** i zobaczysz pliki muzyczne, które właśnie skopiowałeś.
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Spotify wyświetla lokalną bibliotekę muzyczną" image="/docs/howto/how-to-change-album-covers-for-local-tracks-on-spotify-step-by-step-guide-mobile-desktop/spotify-local-music-library.webp" >}}
+{{< ls-card title="" subtitle="Spotify wyświetla lokalną bibliotekę muzyczną" image="/docs/howto/how-to-change-album-covers-for-local-tracks-on-spotify-step-by-step-guide-mobile-desktop/spotify-local-music-library.webp" >}}
 {{< /cards >}}
 
 ## Podłącz folder Spotify w aplikacji Evertag
@@ -149,26 +149,26 @@ Możesz edytować metadane bezpośrednio z folderów bez importowania plików.
 - Przewiń do **Pliki na tym urządzeniu** na pasku bocznym
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Wyświetl wszystkie foldery urządzenia w Evertag" image="/docs/howto/how-to-change-album-covers-for-local-tracks-on-spotify-step-by-step-guide-mobile-desktop/evertag-all-device-folders.webp" >}}
+{{< ls-card title="" subtitle="Wyświetl wszystkie foldery urządzenia w Evertag" image="/docs/howto/how-to-change-album-covers-for-local-tracks-on-spotify-step-by-step-guide-mobile-desktop/evertag-all-device-folders.webp" >}}
 {{< /cards >}}
 
 - Dotknij **Wszystkie foldery urządzenia**
 - Dotknij **Podłącz folder**
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Podłącz folder za pomocą selektora plików" image="/docs/howto/how-to-change-album-covers-for-local-tracks-on-spotify-step-by-step-guide-mobile-desktop/evertag-connect-folder-files-picker.webp" >}}
+{{< ls-card title="" subtitle="Podłącz folder za pomocą selektora plików" image="/docs/howto/how-to-change-album-covers-for-local-tracks-on-spotify-step-by-step-guide-mobile-desktop/evertag-connect-folder-files-picker.webp" >}}
 {{< /cards >}}
 
 - Wybierz folder **Spotify** i dotknij **Otwórz**, aby potwierdzić
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Podłącz folder z lokalnymi plikami Spotify" image="/docs/howto/how-to-change-album-covers-for-local-tracks-on-spotify-step-by-step-guide-mobile-desktop/evertag-connect-folder-spotify-local.webp" >}}
+{{< ls-card title="" subtitle="Podłącz folder z lokalnymi plikami Spotify" image="/docs/howto/how-to-change-album-covers-for-local-tracks-on-spotify-step-by-step-guide-mobile-desktop/evertag-connect-folder-spotify-local.webp" >}}
 {{< /cards >}}
 
 - Dotknij podłączonego folderu, aby wyświetlić i edytować jego zawartość
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Folder pomyślnie podłączony w Evertag" image="/docs/howto/how-to-change-album-covers-for-local-tracks-on-spotify-step-by-step-guide-mobile-desktop/evertag-connected-folder.webp" >}}
+{{< ls-card title="" subtitle="Folder pomyślnie podłączony w Evertag" image="/docs/howto/how-to-change-album-covers-for-local-tracks-on-spotify-step-by-step-guide-mobile-desktop/evertag-connected-folder.webp" >}}
 {{< /cards >}}
 
 ## Edytor tagów
@@ -176,7 +176,7 @@ Możesz edytować metadane bezpośrednio z folderów bez importowania plików.
 **Edytor tagów** to główna przestrzeń robocza, w której przeglądasz i modyfikujesz metadane plików audio.
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Przeglądaj zawartość podłączonego folderu" image="/docs/howto/how-to-change-album-covers-for-local-tracks-on-spotify-step-by-step-guide-mobile-desktop/evertag-connected-folder-content.webp" >}}
+{{< ls-card title="" subtitle="Przeglądaj zawartość podłączonego folderu" image="/docs/howto/how-to-change-album-covers-for-local-tracks-on-spotify-step-by-step-guide-mobile-desktop/evertag-connected-folder-content.webp" >}}
 {{< /cards >}}
 
 ## Tryby edycji
@@ -221,25 +221,25 @@ Aby zastąpić lub dodać nową okładkę albumu:
 1. Dotknij **ikony aparatu** w karuzeli okładek
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Wybierz niestandardowe zdjęcie okładki albumu" image="/docs/howto/how-to-change-album-covers-for-local-tracks-on-spotify-step-by-step-guide-mobile-desktop/evertag-choose-photo.webp" >}}
+{{< ls-card title="" subtitle="Wybierz niestandardowe zdjęcie okładki albumu" image="/docs/howto/how-to-change-album-covers-for-local-tracks-on-spotify-step-by-step-guide-mobile-desktop/evertag-choose-photo.webp" >}}
 {{< /cards >}}
 
 2. Wybierz źródło obrazu (Biblioteka zdjęć, Pliki lokalne, Chmura)
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Dostęp do biblioteki zdjęć w celu wyboru okładki" image="/docs/howto/how-to-change-album-covers-for-local-tracks-on-spotify-step-by-step-guide-mobile-desktop/evertag-photo-library.webp" >}}
+{{< ls-card title="" subtitle="Dostęp do biblioteki zdjęć w celu wyboru okładki" image="/docs/howto/how-to-change-album-covers-for-local-tracks-on-spotify-step-by-step-guide-mobile-desktop/evertag-photo-library.webp" >}}
 {{< /cards >}}
 
 3. Wybierz obraz do użycia jako okładkę
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Podgląd edytowanej okładki albumu" image="/docs/howto/how-to-change-album-covers-for-local-tracks-on-spotify-step-by-step-guide-mobile-desktop/evertag-edited-album-cover.webp" >}}
+{{< ls-card title="" subtitle="Podgląd edytowanej okładki albumu" image="/docs/howto/how-to-change-album-covers-for-local-tracks-on-spotify-step-by-step-guide-mobile-desktop/evertag-edited-album-cover.webp" >}}
 {{< /cards >}}
 
 4. Dotknij **Zapisz**, aby zastosować zmiany
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Zapisz zaktualizowane tagi audio" image="/docs/howto/how-to-change-album-covers-for-local-tracks-on-spotify-step-by-step-guide-mobile-desktop/evertag-save-tags.webp" >}}
+{{< ls-card title="" subtitle="Zapisz zaktualizowane tagi audio" image="/docs/howto/how-to-change-album-covers-for-local-tracks-on-spotify-step-by-step-guide-mobile-desktop/evertag-save-tags.webp" >}}
 {{< /cards >}}
 
 ## Zaktualizuj bibliotekę Spotify
@@ -247,7 +247,7 @@ Aby zastąpić lub dodać nową okładkę albumu:
 Po zapisaniu tagów wróć do aplikacji Spotify.
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Przeglądaj bibliotekę muzyczną Spotify" image="/docs/howto/how-to-change-album-covers-for-local-tracks-on-spotify-step-by-step-guide-mobile-desktop/spotify-library.webp" >}}
+{{< ls-card title="" subtitle="Przeglądaj bibliotekę muzyczną Spotify" image="/docs/howto/how-to-change-album-covers-for-local-tracks-on-spotify-step-by-step-guide-mobile-desktop/spotify-library.webp" >}}
 {{< /cards >}}
 
 Otwórz ponownie sekcję **Lokalne pliki**. Powinieneś teraz zobaczyć zaktualizowane okładki i tagi dla swoich lokalnych utworów.
@@ -255,7 +255,7 @@ Otwórz ponownie sekcję **Lokalne pliki**. Powinieneś teraz zobaczyć zaktuali
 > Jeśli aktualizacje nie pojawiają się natychmiast, **wymuś zamknięcie Spotify** i otwórz go ponownie. To wyzwala odświeżenie metadanych.
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Odtwarzany utwór z edytowanym tagiem" image="/docs/howto/how-to-change-album-covers-for-local-tracks-on-spotify-step-by-step-guide-mobile-desktop/spotify-playing-edited-tag.webp" >}}
+{{< ls-card title="" subtitle="Odtwarzany utwór z edytowanym tagiem" image="/docs/howto/how-to-change-album-covers-for-local-tracks-on-spotify-step-by-step-guide-mobile-desktop/spotify-playing-edited-tag.webp" >}}
 {{< /cards >}}
 
 ## Podsumowanie
@@ -268,26 +268,26 @@ Potrzebujesz pomocy z tagowaniem plików FLAC, MP3 lub innych formatów wysokiej
 
 ## Najczęściej zadawane pytania
 
-{{% details title="Czy mogę zmienić okładki albumów dla strumieniowanych utworów Spotify?" closed="true" %}}
+{{% ls-details title="Czy mogę zmienić okładki albumów dla strumieniowanych utworów Spotify?" closed="true" %}}
 Nie. Spotify nie pozwala na zmianę okładek utworów w katalogu strumieniowym. Możesz edytować okładki albumów tylko dla plików lokalnych dodanych do biblioteki Spotify.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Czy Evertag jest bezpłatny?" closed="true" %}}
+{{% ls-details title="Czy Evertag jest bezpłatny?" closed="true" %}}
 Tak. Evertag jest bezpłatny do pobrania i użytkowania na iOS i macOS. Obsługuje ponad 120 tagów audio i ponad 30 formatów plików.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Jakie formaty audio obsługuje Evertag?" closed="true" %}}
+{{% ls-details title="Jakie formaty audio obsługuje Evertag?" closed="true" %}}
 Evertag obsługuje ponad 30 formatów, w tym MP3, FLAC, AAC, ALAC, WAV, AIFF, OGG, WMA i inne.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Dlaczego Spotify nie wyświetla mojej zaktualizowanej okładki albumu?" closed="true" %}}
+{{% ls-details title="Dlaczego Spotify nie wyświetla mojej zaktualizowanej okładki albumu?" closed="true" %}}
 Wymuś zamknięcie aplikacji Spotify i otwórz ją ponownie. Spotify buforuje metadane i wymaga ponownego uruchomienia, aby wykryć zmiany w plikach lokalnych.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Czy mogę edytować tagi dla wielu plików jednocześnie?" closed="true" %}}
+{{% ls-details title="Czy mogę edytować tagi dla wielu plików jednocześnie?" closed="true" %}}
 Tak. Evertag obsługuje edycję wsadową. Zaznacz wiele plików i dotknij «Edytuj kilka plików jednocześnie», aby zaktualizować tagi i okładki dla wszystkich zaznaczonych utworów naraz.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Czy muszę kopiować pliki do folderu Spotify?" closed="true" %}}
+{{% ls-details title="Czy muszę kopiować pliki do folderu Spotify?" closed="true" %}}
 Tak. Spotify czyta lokalne pliki tylko z dedykowanego folderu. Skopiuj lub przenieś pliki muzyczne do folderu Spotify na swoim urządzeniu, a następnie włącz przełącznik Lokalne pliki audio w ustawieniach Spotify.
-{{% /details %}}
+{{% /ls-details %}}

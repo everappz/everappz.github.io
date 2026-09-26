@@ -12,7 +12,7 @@ authors:
     image: "/images/about/artem-meleshko-founder-everappz.webp"
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 ## Evermusic 3.1: Apa yang Berubah dan Mengapa Penting
 
@@ -89,22 +89,22 @@ Edit kredensial login untuk layanan cloud yang terhubung tanpa menghapus dan men
 
 ## Pertanyaan yang Sering Diajukan
 
-{{% details title="Apa itu pemutaran crossfade di Evermusic?" closed="true" %}}
+{{% ls-details title="Apa itu pemutaran crossfade di Evermusic?" closed="true" %}}
 Pemutaran crossfade memadukan akhir satu trek ke awal trek berikutnya, menciptakan transisi yang mulus. Anda dapat mengatur durasi antara 3 dan 15 detik di Settings → Audio Player → Crossfade Playback.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Bisakah saya mencadangkan daftar putar Evermusic ke penyimpanan cloud?" closed="true" %}}
+{{% ls-details title="Bisakah saya mencadangkan daftar putar Evermusic ke penyimpanan cloud?" closed="true" %}}
 Ya. Evermusic 3.1 memungkinkan Anda mencadangkan seluruh perpustakaan — termasuk daftar putar, metadata, sampul, dan pengaturan — ke layanan cloud yang terhubung sebagai satu file.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Apakah Evermusic mendukung penjelajahan perpustakaan iPod?" closed="true" %}}
+{{% ls-details title="Apakah Evermusic mendukung penjelajahan perpustakaan iPod?" closed="true" %}}
 Ya. Anda dapat menjelajahi perpustakaan iPod berdasarkan daftar putar, album, artis, dan genre langsung dari layar utama Evermusic dan menambahkan trek ke antrean Anda.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Bagaimana cara memperbaiki tag lagu yang salah di Evermusic?" closed="true" %}}
+{{% ls-details title="Bagaimana cara memperbaiki tag lagu yang salah di Evermusic?" closed="true" %}}
 Gunakan Editor Tag bawaan dan ketuk aksi Identifikasi. Evermusic memindai nama file Anda dan memperbarui tag ID3 dengan metadata yang diperbaiki secara otomatis.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Layanan cloud apa yang didukung Evermusic?" closed="true" %}}
+{{% ls-details title="Layanan cloud apa yang didukung Evermusic?" closed="true" %}}
 Evermusic bekerja dengan Dropbox, Google Drive, OneDrive, MEGA, Box, Yandex.Disk, WebDAV, SMB/CIFS, dan server FTP.
-{{% /details %}}
+{{% /ls-details %}}

@@ -15,7 +15,7 @@ readingTime: 5
 **Editorul de Etichete** este ecranul principal al aplicației Evertag unde puteți vizualiza și edita metadatele fișierelor audio. Deschideți acest ecran apăsând pe un fișier din secțiunea **Fișiere Locale** sau din orice cont de **stocare în cloud** conectat.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evertag Tag Editor Screen" image="/docs/guide/evertag/img/tag-editor.webp" >}}
+  {{< ls-card title="" subtitle="Evertag Tag Editor Screen" image="/docs/guide/evertag/img/tag-editor.webp" >}}
 {{< /cards >}}
 
 ## Moduri de Editare
@@ -38,7 +38,7 @@ Evertag oferă două moduri de editare:
 Pentru a accesa toate etichetele disponibile, derulați în jos pe ecran și apăsați opțiunea **Afișați Etichete Extinse**. Aceasta va comuta editorul în modul extins, permițându-vă să editați peste **120 de câmpuri de metadate**, inclusiv **Etichete MusicBrainz**, **Versuri**, **Clasificări de Avertisment**, valori replay-gain, ordini de sortare, metadate podcast și altele. Utilizați **Setări → Editor etichete audio → Butoane pe ecranul principal** pentru a activa permanent Afișați Etichete Extinse astfel încât să fie întotdeauna activat.
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Bottom Actions Panel" image="/docs/guide/evertag/img/tag-editor-bottom-actions.webp" >}}
+{{< ls-card title="" subtitle="Bottom Actions Panel" image="/docs/guide/evertag/img/tag-editor-bottom-actions.webp" >}}
 {{< /cards >}}
 
 ## Modul Lot
@@ -53,7 +53,7 @@ Puteți intra în editarea în lot în două moduri:
    - Deschideți orice fișier, derulați în jos și apăsați **Editați fișierele simultan** pentru a încărca toate fișierele din același folder.
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Batch Editing Mode" image="/docs/guide/evertag/img/tag-editor-batch-editing.webp" >}}
+{{< ls-card title="" subtitle="Batch Editing Mode" image="/docs/guide/evertag/img/tag-editor-batch-editing.webp" >}}
 {{< /cards >}}
 
 După editare, apăsați **Salvați** pentru a aplica modificările.
@@ -72,19 +72,19 @@ Nu trebuie să tastați versurile de la zero. Editorul include comenzi rapide de
 Fiecare comandă rapidă apare doar când serviciul corespunzător este accesibil de pe dispozitivul dvs. Apăsați un serviciu, copiați versurile (sau marcajele temporale LRC) pe care le doriți, reveniți la Evertag și lipiți-le în câmpul de text — apoi **Salvați** pentru a scrie versurile înapoi în etichetele fișierului audio.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Lyrics Pages" image="/docs/guide/evertag/img/tag-editor-lyrics-pages.webp" >}}
+  {{< ls-card title="" subtitle="Lyrics Pages" image="/docs/guide/evertag/img/tag-editor-lyrics-pages.webp" >}}
 {{< /cards >}}
 
 Alegeți o limbă din selector:
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Lyrics Language Selector" image="/docs/guide/evertag/img/tag-editor-lyrics-language-select.webp" >}}
+  {{< ls-card title="" subtitle="Lyrics Language Selector" image="/docs/guide/evertag/img/tag-editor-lyrics-language-select.webp" >}}
 {{< /cards >}}
 
 Apoi lipiți sau tastați textul versurilor. Evertag suportă atât text simplu cât și versuri sincronizate — placeholder-ul arată un exemplu al formatului LRC, care este exact ceea ce Lrclib și Lyricsify returnează pentru rezultate sincronizate.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Lyrics Text Editor" image="/docs/guide/evertag/img/tag-editor-lyrics-text.webp" >}}
+  {{< ls-card title="" subtitle="Lyrics Text Editor" image="/docs/guide/evertag/img/tag-editor-lyrics-text.webp" >}}
 {{< /cards >}}
 
 ## Setați o Clasificare și Clasificare de Avertisment
@@ -96,7 +96,7 @@ Editorul extins oferă un control de stele **Clasificare** alături de un contro
 Utilizați câmpul **Clasificare** pentru a da unei piese un scor personal de la una la cinci stele. Valoarea este scrisă în câmpul standard de clasificare al fișierului (POPM pentru ID3, `rate` pentru MP4, `RATING` pentru Vorbis/APE, etc.), astfel că alte aplicații care citesc această etichetă — inclusiv aplicația Music, Plex, Roon și majoritatea editorelor de etichete de desktop — vor prelua imediat scorurile dvs.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Rating" image="/docs/guide/evertag/img/tag-editor-rating.webp" >}}
+  {{< ls-card title="" subtitle="Rating" image="/docs/guide/evertag/img/tag-editor-rating.webp" >}}
 {{< /cards >}}
 
 ### Clasificare de Avertisment
@@ -117,7 +117,7 @@ Va trebui să setați sau să corectați acest câmp când:
 Valoarea este stocată în câmpul standard de clasificare de avertisment pentru formatul fișierului (`rtng` pentru MP4, `TXXX:ITUNESADVISORY` pentru ID3, `ITUNESADVISORY` pentru Vorbis), astfel că orice player care citește metadate de aviz parental va vedea actualizarea dvs.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Lyrics Advisory Rating" image="/docs/guide/evertag/img/lyrics-advisory-rating.webp" >}}
+  {{< ls-card title="" subtitle="Lyrics Advisory Rating" image="/docs/guide/evertag/img/lyrics-advisory-rating.webp" >}}
 {{< /cards >}}
 
 ## Editați Coperta Albumului
@@ -129,7 +129,7 @@ Pentru a schimba o copertă de album:
 3. Selectați o imagine pentru a aplica ca artă de copertă.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Select Image" image="/docs/guide/evertag/img/select-image.webp" >}}
+  {{< ls-card title="" subtitle="Select Image" image="/docs/guide/evertag/img/select-image.webp" >}}
 {{< /cards >}}
 
 ## Mai Multe Acțiuni în Editorul de Etichete
@@ -137,7 +137,7 @@ Pentru a schimba o copertă de album:
 Opțiuni de editare suplimentare sunt disponibile prin bara de instrumente de sub vizualizarea coperților.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="More Actions Menu" image="/docs/guide/evertag/img/tag-editor-more-actions.webp" >}}
+  {{< ls-card title="" subtitle="More Actions Menu" image="/docs/guide/evertag/img/tag-editor-more-actions.webp" >}}
 {{< /cards >}}
 
 ### Căutare Automată Etichete Audio
@@ -150,13 +150,13 @@ Aplicația folosește baza de date MusicBrainz — una dintre cele mai cuprinză
 Folosiți metadate pentru a căuta pe web arta corectă a albumului.  
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Search Album Cover" image="/docs/guide/evertag/img/search-album-cover.webp" >}}
+  {{< ls-card title="" subtitle="Search Album Cover" image="/docs/guide/evertag/img/search-album-cover.webp" >}}
 {{< /cards >}}
 
 Odată găsită, salvați imaginea în **Fotografii** folosind meniul contextual al sistemului.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Add Image to Photos" image="/docs/guide/evertag/img/add-image-to-photos.webp" >}}
+  {{< ls-card title="" subtitle="Add Image to Photos" image="/docs/guide/evertag/img/add-image-to-photos.webp" >}}
 {{< /cards >}}
 
 După aceea, reveniți la editorul de etichete, apăsați pictograma Cameră, mergeți la **Biblioteca de Fotografii** și selectați imaginea salvată. Aplicația o va seta ca coperta fișierului dvs. audio.
@@ -178,19 +178,19 @@ Căutați manual metadate de album folosind baza de date MusicBrainz.
 - Selectați albumul  
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Select Album" image="/docs/guide/evertag/img/select-album-results.webp" >}}
+  {{< ls-card title="" subtitle="Select Album" image="/docs/guide/evertag/img/select-album-results.webp" >}}
 {{< /cards >}}
 
 - Alegeți piesa corectă  
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Select Song" image="/docs/guide/evertag/img/select-a-song.webp" >}}
+  {{< ls-card title="" subtitle="Select Song" image="/docs/guide/evertag/img/select-a-song.webp" >}}
 {{< /cards >}}
 
 - Alegeți ce etichete să aplicați  
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Select Audio Tags" image="/docs/guide/evertag/img/select-audio-tags.webp" >}}
+  {{< ls-card title="" subtitle="Select Audio Tags" image="/docs/guide/evertag/img/select-audio-tags.webp" >}}
 {{< /cards >}}
 
 Apăsați **Finalizat** pentru a aplica metadatele selectate piesei dvs.

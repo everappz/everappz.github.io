@@ -8,7 +8,7 @@ tags: ["เพลง", "คลาวด์", "เครื่องเล่น"
 readingTime: 8
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **สรุป:** ในการเล่น FLAC บน iPhone คุณต้องมีเครื่องเล่นจากผู้พัฒนาภายนอก เพราะแอปเพลงของ Apple ไม่รองรับ FLAC ติดตั้ง [Flacbox](/products/flacbox) (ฟรี) แล้วโอนไฟล์ของคุณผ่าน Wi-Fi Drive หรือ USB หรือเชื่อมต่อพื้นที่จัดเก็บบนคลาวด์หรือ NAS ของคุณ คลังเพลง FLAC ของคุณจะเล่นด้วยคุณภาพเต็มที่ สูงสุด 384 kHz และ 32-bit ผ่าน USB DAC Flacbox ยังเล่นได้มากกว่า 120 รูปแบบ รวมถึง FLAC, DSD, ALAC, APE, WAV, OGG และ OPUS และเพิ่มอีควอไลเซอร์ 10 แบนด์ เอนจินเสียง BASS ระดับมืออาชีพพร้อมเอฟเฟกต์แบบเรียลไทม์ โปรเซสเซอร์ DSP และเครื่องแสดงภาพเพลงแบบเต็มจอ
@@ -34,7 +34,7 @@ Flacbox เป็นเครื่องเล่นเพลงความล
 
 Flacbox ดาวน์โหลดได้ฟรีและทำงานบน iPhone, iPad และ Mac
 
-{{< app-details product="flacbox" >}}
+{{< ls-app-details product="flacbox" >}}
 
 ### ขั้นตอนที่ 2. นำไฟล์ FLAC ของคุณเข้ามา
 
@@ -82,7 +82,7 @@ Flacbox ถูกสร้างขึ้นสำหรับผู้ที่
 Flacbox มีอีควอไลเซอร์กราฟิก 10 แบนด์พร้อมพรีเซ็ตสไตล์ iPod อย่าง Acoustic, Bass Booster, Rock, Pop, Jazz, Classical และ Dance มีปรีแอมปลิฟายเออร์เพื่อยกระดับแทร็กที่เบาโดยไม่เกิดการตัดสัญญาณ และคุณสามารถบันทึกพรีเซ็ตของคุณเองได้ ปรับแต่งสำหรับหูฟังอินเอียร์ HomePod หรือเครื่องเสียงในรถยนต์ สำหรับคำแนะนำโดยละเอียด ดู [คู่มืออีควอไลเซอร์](/docs/howto/how-to-use-the-audio-equalizer-on-your-iphone-ipad-mac-with-evermusic-and-flacbox)
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="อีควอไลเซอร์เครื่องเล่นเสียง Flacbox" image="/docs/guide/flacbox/img/audio-player-equalizer.webp" >}}
+  {{< ls-card title="" subtitle="อีควอไลเซอร์เครื่องเล่นเสียง Flacbox" image="/docs/guide/flacbox/img/audio-player-equalizer.webp" >}}
 {{< /cards >}}
 
 ## เอฟเฟกต์เสียงแบบเรียลไทม์
@@ -106,7 +106,7 @@ Flacbox ยังมีการปรับระดับความดัง
 Flacbox มีเครื่องแสดงภาพเพลงในตัวที่วาดภาพเคลื่อนไหวสีสันสดใสไปตามจังหวะเพลงของคุณ มันใช้เอนจิน Milkdrop (projectM) ที่เป็นที่รู้จักกันดี พร้อม 500 พรีเซ็ต วาดด้วย OpenGL บน iPhone, iPad และ Mac เปิดจากเครื่องเล่นโดยแตะปุ่มดำเนินการเพิ่มเติม จากนั้นการแสดงภาพ เลือกพรีเซ็ต หรือใช้โหมด Auto เพื่อสลับไปมาทุกๆ 30 วินาที ด้วยการค่อยๆ ผสานอย่างนุ่มนวล สำหรับความช่วยเหลือทีละขั้นตอน ดูคู่มือเรื่อง [วิธีเปิดเครื่องแสดงภาพเพลง](/docs/howto/how-to-turn-on-a-music-visualizer-while-playing-music-on-iphone-ipad-mac)
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="เครื่องแสดงภาพเพลง Flacbox (Milkdrop และ projectM)" image="/docs/howto/how-to-turn-on-a-music-visualizer-while-playing-music-on-iphone-ipad-mac/music-visualizer-starfield-sectors-preset.webp" >}}
+  {{< ls-card title="" subtitle="เครื่องแสดงภาพเพลง Flacbox (Milkdrop และ projectM)" image="/docs/howto/how-to-turn-on-a-music-visualizer-while-playing-music-on-iphone-ipad-mac/music-visualizer-starfield-sectors-preset.webp" >}}
 {{< /cards >}}
 
 ## คลาวด์ NAS และการเล่นแบบออฟไลน์
@@ -127,7 +127,7 @@ Flacbox มีเครื่องแสดงภาพเพลงในตั
 
 Flacbox ดาวน์โหลดได้ฟรี Premium จะลบข้อจำกัดของเวอร์ชันฟรีเกี่ยวกับบัญชีคลาวด์ เพลย์ลิสต์ และโฟลเดอร์ออฟไลน์ และมีให้เลือกเป็นการซื้อครั้งเดียวแบบตลอดชีพ หรือการสมัครสมาชิกรายเดือนหรือรายปี พร้อมการแชร์กันในครอบครัว
 
-{{< app-details product="flacbox" >}}
+{{< ls-app-details product="flacbox" >}}
 
 ## ตัวเลือกที่ 2: แปลง FLAC เป็น ALAC สำหรับแอปเพลง
 
@@ -141,34 +141,34 @@ Flacbox ดาวน์โหลดได้ฟรี Premium จะลบข้
 
 ## คำถามที่พบบ่อย
 
-{{% details title="iPhone เล่นไฟล์ FLAC โดยกำเนิดได้ไหม?" closed="true" %}}
+{{% ls-details title="iPhone เล่นไฟล์ FLAC โดยกำเนิดได้ไหม?" closed="true" %}}
 ได้เพียงในระดับจำกัด แอปไฟล์สามารถแสดงตัวอย่างไฟล์ FLAC เพียงไฟล์เดียวได้ตั้งแต่ iOS 11 แต่ไม่มีคลังเพลง เพลย์ลิสต์ คิว อีควอไลเซอร์ หรือการสตรีมจากคลาวด์ สำหรับการฟังจริง ให้ใช้แอปเครื่องเล่นอย่าง Flacbox
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="ฉันเล่น FLAC แบบ 24-bit หรือ 96kHz (หรือสูงกว่า) บน iPhone ได้ไหม?" closed="true" %}}
+{{% ls-details title="ฉันเล่น FLAC แบบ 24-bit หรือ 96kHz (หรือสูงกว่า) บน iPhone ได้ไหม?" closed="true" %}}
 ได้ Flacbox รองรับเอาต์พุตความละเอียดสูงสูงสุด 384 kHz ในการเล่นสูงกว่า 48 kHz ที่ความละเอียดจริง ให้เชื่อมต่อ USB DAC ภายนอก เพราะเอาต์พุตในตัวของ iPhone จะสุ่มตัวอย่างเสียงใหม่สำหรับทุกแอป
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Flacbox แปลง FLAC เป็นรูปแบบอื่นหรือไม่?" closed="true" %}}
+{{% ls-details title="Flacbox แปลง FLAC เป็นรูปแบบอื่นหรือไม่?" closed="true" %}}
 ไม่ Flacbox เล่น FLAC ในคุณภาพไร้การสูญเสียดั้งเดิมโดยไม่มีการแปลง เอฟเฟกต์และ DSP จะถูกใช้แบบสดในระหว่างการเล่นเท่านั้น และไม่เคยเปลี่ยนแปลงไฟล์ของคุณ
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="ฉันจะสูญเสียคุณภาพเมื่อแปลง FLAC เป็น ALAC หรือไม่?" closed="true" %}}
+{{% ls-details title="ฉันจะสูญเสียคุณภาพเมื่อแปลง FLAC เป็น ALAC หรือไม่?" closed="true" %}}
 ไม่ ทั้ง FLAC และ ALAC ต่างก็ไร้การสูญเสีย ดังนั้นการแปลงจึงเป็นแบบ bit-perfect คุณเพียงเสียเวลาและสละความสะดวก เนื่องจากคุณจะมีคลังเพลงสองชุดที่ต้องดูแล และต้องซิงค์ใหม่หลังจากแก้ไข
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Flacbox รองรับรูปแบบเสียงใดบ้าง?" closed="true" %}}
+{{% ls-details title="Flacbox รองรับรูปแบบเสียงใดบ้าง?" closed="true" %}}
 มากกว่า 120 รูปแบบ รวมถึง FLAC, DSD (DSF และ DFF), ALAC, APE, WAV, AIFF, WV, OGG, OPUS, MP3, AAC, M4A, WMA และแม้แต่เพลงแบบ tracker และ MOD อย่าง MOD, XM, IT และ S3M
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Flacbox มีอีควอไลเซอร์ เอฟเฟกต์ และเครื่องแสดงภาพหรือไม่?" closed="true" %}}
+{{% ls-details title="Flacbox มีอีควอไลเซอร์ เอฟเฟกต์ และเครื่องแสดงภาพหรือไม่?" closed="true" %}}
 มี มันมีอีควอไลเซอร์ 10 แบนด์พร้อมพรีเซ็ตและปรีแอมป์ นอกจากนี้ยังมีเอนจิน BASS ระดับมืออาชีพพร้อมเอฟเฟกต์แบบเรียลไทม์สิบเอ็ดตัว (reverb, delay, multi-tap echo, crossfeed, compressor, chorus, flanger, phaser, auto-wah, distortion และ stereo rotation) พร้อมการปรับระดับความดัง EBU R128 โปรเซสเซอร์ DSP 14 ฟิลเตอร์ และเครื่องแสดงภาพ Milkdrop แบบเต็มจอพร้อม 500 พรีเซ็ต
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="ฉันสตรีม FLAC จาก NAS หรือคลาวด์ของฉันได้ไหม?" closed="true" %}}
+{{% ls-details title="ฉันสตรีม FLAC จาก NAS หรือคลาวด์ของฉันได้ไหม?" closed="true" %}}
 ได้ Flacbox เชื่อมต่อกับบริการคลาวด์มากกว่า 30 บริการ และกับ NAS หรือคอมพิวเตอร์ผ่าน SMB, WebDAV, DLNA, FTP, SFTP และ NFS คลังเพลงทั้งหมดของคุณพร้อมใช้งานโดยไม่ต้องคัดลอกไฟล์ไปยัง iPhone ของคุณ และคุณสามารถดาวน์โหลดแทร็กเพื่อเล่นแบบออฟไลน์ได้ทุกเมื่อ
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Flacbox ฟรีจริงหรือ?" closed="true" %}}
+{{% ls-details title="Flacbox ฟรีจริงหรือ?" closed="true" %}}
 Flacbox ดาวน์โหลดได้ฟรี พร้อมคุณสมบัติหลักอย่างอีควอไลเซอร์ การสตรีมจากคลาวด์ และการเล่นแบบออฟไลน์ Premium จะลบข้อจำกัดของเวอร์ชันฟรีเกี่ยวกับบัญชีคลาวด์ เพลย์ลิสต์ และโฟลเดอร์ออฟไลน์ และมาในรูปแบบการซื้อครั้งเดียวแบบตลอดชีพ หรือการสมัครสมาชิกรายเดือนหรือรายปี พร้อมการแชร์กันในครอบครัว
-{{% /details %}}
+{{% /ls-details %}}

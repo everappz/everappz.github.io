@@ -7,7 +7,7 @@ tags: ["muziek", "cloud", "streaming", "synchronisatie", "icloud", "bibliotheek"
 keywords: ["iCloud muziek importeren Evermusic", "Flacbox iCloud synchronisatie", "Evermusic streamen vanuit iCloud", "muziekbibliotheek iOS app", "Flacbox metadata lezer", "iCloud muziek streaming iPhone"]
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **Samenvatting:** U kunt uw iCloud Drive-muziekbibliotheek streamen in Evermusic en Flacbox zonder bestanden naar uw apparaat te downloaden. Verbind iCloud Drive in de app, schakel Online Muzieksynchronisatie in om uw bibliotheek op te bouwen, configureer de metadata-lezer om te organiseren op artiest/album/genre, en schakel optioneel de Offline Modus in om albums te downloaden voor luisteren zonder internet. Deze stappen werken ook met Google Drive, Dropbox, OneDrive en andere ondersteunde cloudservices.
@@ -148,26 +148,26 @@ Dat is alles voor vandaag! We hopen dat deze handleiding u helpt bij het configu
 
 ## Veelgestelde vragen
 
-{{% details title="Kan ik iCloud-muziek streamen zonder bestanden naar mijn iPhone te downloaden?" closed="true" %}}
+{{% ls-details title="Kan ik iCloud-muziek streamen zonder bestanden naar mijn iPhone te downloaden?" closed="true" %}}
 Ja. Wanneer u iCloud Drive verbindt in Evermusic of Flacbox en Online Muzieksynchronisatie gebruikt, maakt de app koppelingen naar uw cloudbestanden en streamt ze op aanvraag. Bestanden worden niet gedownload tenzij u expliciet de Offline Modus inschakelt.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Waarom is het importeren van iCloud-muziek traag in Flacbox of Evermusic?" closed="true" %}}
+{{% ls-details title="Waarom is het importeren van iCloud-muziek traag in Flacbox of Evermusic?" closed="true" %}}
 Traag importeren wordt meestal veroorzaakt door het lezen van metadata van een grote bibliotheek via een mobiele verbinding. Schakel Achtergrondsynchronisatie in, start audioweergave om de app actief te houden en overweeg de Mac-versie te gebruiken voor de eerste synchronisatie van grote collecties.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Werkt deze handleiding met andere cloudservices dan iCloud?" closed="true" %}}
+{{% ls-details title="Werkt deze handleiding met andere cloudservices dan iCloud?" closed="true" %}}
 Ja. Dezelfde stappen zijn van toepassing op Google Drive, Dropbox, OneDrive, SMB, WebDAV en alle andere cloudservices die door Evermusic en Flacbox worden ondersteund.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Hoe draag ik mijn muziekbibliotheek over van Mac naar iPhone?" closed="true" %}}
+{{% ls-details title="Hoe draag ik mijn muziekbibliotheek over van Mac naar iPhone?" closed="true" %}}
 Gebruik de functie voor gegevensback-up/herstel in de app-instellingen. Synchroniseer en lees eerst metadata op de Mac-versie, maak een back-up en herstel deze vervolgens op de iOS-versie. Dit is de snelste manier om een grote bibliotheek op iPhone in te stellen.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Zal de metadata-lezer mijn originele audiobestanden wijzigen?" closed="true" %}}
+{{% ls-details title="Zal de metadata-lezer mijn originele audiobestanden wijzigen?" closed="true" %}}
 Nee. De metadata-lezer werkt alleen de weergave-informatie in uw muziekbibliotheek bij. Het wijzigt geen bestanden die zijn opgeslagen in uw cloudaccount of op uw apparaat. Om bestandstags te bewerken, gebruikt u de ingebouwde tag-editor.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Hoe maak ik albums offline beschikbaar?" closed="true" %}}
+{{% ls-details title="Hoe maak ik albums offline beschikbaar?" closed="true" %}}
 Gebruik de Offline Modus-functie. Tik op **Meer acties** op een willekeurige cloudmap en selecteer **Offline-modus inschakelen**. De app downloadt alle bestanden en houdt ze automatisch gesynchroniseerd met de cloudversie.
-{{% /details %}}
+{{% /ls-details %}}

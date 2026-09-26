@@ -12,7 +12,7 @@ authors:
     image: "/images/about/artem-meleshko-founder-everappz.webp"
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 **Resumo:** Instale o [Flacbox da App Store](https://apps.apple.com/us/app/flacbox-flac-player-music/id1097564256?mt=8) para reproduzir FLAC, DSD, ALAC e mais de 120 outros formatos de áudio no iPhone e Mac. Importe arquivos via iTunes File Sharing, Wi-Fi Drive ou armazenamento em nuvem. Sem necessidade de conversão de arquivos. Flacbox decodifica formatos lossless nativamente para reprodução com qualidade de estúdio completa.
 
@@ -114,26 +114,26 @@ Baixe Flacbox da Mac App Store. A versão macOS oferece a mesma qualidade de rep
 
 ## Perguntas Frequentes
 
-{{< details title="O Flacbox requer assinatura para reproduzir arquivos lossless?" closed="true" >}}
+{{< ls-details title="O Flacbox requer assinatura para reproduzir arquivos lossless?" closed="true" >}}
 Flacbox oferece funcionalidade básica de reprodução sem assinatura. Você pode importar e reproduzir FLAC, DSD, ALAC e outros formatos lossless logo após baixar o app. Alguns recursos avançados como streaming em nuvem e opções adicionais de personalização podem requerer upgrade premium, mas a reprodução lossless básica está disponível imediatamente.
-{{< /details >}}
+{{< /ls-details >}}
 
-{{< details title="O Flacbox pode reproduzir arquivos DSD sem convertê-los para PCM primeiro?" closed="true" >}}
+{{< ls-details title="O Flacbox pode reproduzir arquivos DSD sem convertê-los para PCM primeiro?" closed="true" >}}
 Sim, Flacbox suporta reprodução DSD nativa incluindo formatos DSD64, DSD128 e DSD256. O app decodifica streams DSD diretamente, preservando as características sonoras únicas do formato. Para melhores resultados, combine seu dispositivo com um DAC externo compatível com DSD.
-{{< /details >}}
+{{< /ls-details >}}
 
-{{< details title="Como transfiro grandes coleções de música lossless para meu iPhone?" closed="true" >}}
+{{< ls-details title="Como transfiro grandes coleções de música lossless para meu iPhone?" closed="true" >}}
 Flacbox oferece várias opções de transferência para grandes bibliotecas. Wi-Fi Drive permite fazer upload de arquivos de qualquer navegador na rede local. Você também pode usar iTunes File Sharing pelo Finder no Mac ou conectar serviços de armazenamento em nuvem como Google Drive ou Dropbox. Para a transferência mais rápida de coleções muito grandes, conecte um drive externo diretamente usando um adaptador Lightning ou USB-C.
-{{< /details >}}
+{{< /ls-details >}}
 
-{{< details title="Há diferença na qualidade sonora entre FLAC e ALAC no Flacbox?" closed="true" >}}
+{{< ls-details title="Há diferença na qualidade sonora entre FLAC e ALAC no Flacbox?" closed="true" >}}
 Tanto FLAC quanto ALAC são codecs lossless, significando que produzem saída de áudio idêntica quando decodificados. A diferença está na compatibilidade e eficiência de compressão. FLAC é mais amplamente usado entre plataformas e geralmente alcança taxas de compressão ligeiramente melhores, enquanto ALAC é o formato lossless nativo da Apple. Flacbox lida com ambos com fidelidade igual.
-{{< /details >}}
+{{< /ls-details >}}
 
-{{< details title="Qual é a melhor maneira de reproduzir arquivos FLAC no iPhone?" closed="true" >}}
+{{< ls-details title="Qual é a melhor maneira de reproduzir arquivos FLAC no iPhone?" closed="true" >}}
 Instale Flacbox da App Store, depois importe seus arquivos FLAC usando iTunes File Sharing, Wi-Fi Drive, armazenamento em nuvem ou um drive externo USB/Lightning. Flacbox decodifica FLAC nativamente sem conversão, suportando resoluções até 32-bit/384 kHz. Para a melhor qualidade de áudio, combine seu iPhone com um DAC USB-C ou Lightning dedicado.
-{{< /details >}}
+{{< /ls-details >}}
 
-{{< details title="O Flacbox funciona com NAS e servidores domésticos?" closed="true" >}}
+{{< ls-details title="O Flacbox funciona com NAS e servidores domésticos?" closed="true" >}}
 Sim. Flacbox conecta-se a dispositivos NAS e servidores domésticos via protocolos SMB, WebDAV e DLNA. No Mac, você pode adicionar locais de rede diretamente. No iOS, conecte pelo menu de fontes nuvem/rede. Isso permite transmitir sua biblioteca lossless sem copiar arquivos para seu dispositivo.
-{{< /details >}}
+{{< /ls-details >}}

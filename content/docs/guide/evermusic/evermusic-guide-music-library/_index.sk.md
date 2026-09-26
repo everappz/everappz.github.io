@@ -15,7 +15,7 @@ readingTime: 11
 Správa hudobnej knižnice je s Evermusic jednoduchá — môžete bez námahy organizovať všetky svoje skladby. Na vytvorenie hudobnej knižnice máte dve možnosti: manuálne pridávanie alebo automatická synchronizácia.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evermusic Music Library Screen" image="/docs/guide/evermusic/evermusic-guide-music-library/img/music-library-main.webp" >}}
+  {{< ls-card title="" subtitle="Evermusic Music Library Screen" image="/docs/guide/evermusic/evermusic-guide-music-library/img/music-library-main.webp" >}}
 {{< /cards >}}
 
 ## Manuálne pridávanie
@@ -23,7 +23,7 @@ Správa hudobnej knižnice je s Evermusic jednoduchá — môžete bez námahy o
 Na manuálne pridávanie skladieb klepnite na položku menu „Pridať hudbu" a vyberte priečinky/súbory z pripojenej cloudovej úložnej služby alebo súborov umiestnených na vašom zariadení. Keď pridáte skladby do knižnice, vytvoria sa len odkazy na tieto skladby, pričom skutočné súbory zostanú na pôvodných miestach, čím sa ušetrí cenný miestorný priestor. Ak chcete sprístupniť skladby offline, môžete použiť akciu stiahnutia z menu možností alebo povoliť offline režim pre playlisty a zbierky skladieb.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Add Songs to the Music Library" image="/docs/guide/evermusic/evermusic-guide-music-library/img/music-library-add-songs.webp" >}}
+  {{< ls-card title="" subtitle="Add Songs to the Music Library" image="/docs/guide/evermusic/evermusic-guide-music-library/img/music-library-add-songs.webp" >}}
 {{< /cards >}}
 
 ## Rýchly prístup
@@ -75,7 +75,7 @@ Keď pridáte skladby do hudobnej knižnice, aplikácia automaticky prečíta ic
 Nachádzajúci sa tesne pod navigačnou lištou, horný panel nástrojov ponúka niekoľko pohodlných akcií: „Hľadať", „Prehrať všetko", „Náhodne prehrať všetko" a „Pokračovať v prehrávaní". Tento panel nástrojov môžete zobraziť alebo skryť jednoduchým gestom potiahnutia nadol.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Albums View — Grouped by Music Tags" image="/docs/guide/evermusic/evermusic-guide-music-library/img/music-library-albums.webp" >}}
+  {{< ls-card title="" subtitle="Albums View — Grouped by Music Tags" image="/docs/guide/evermusic/evermusic-guide-music-library/img/music-library-albums.webp" >}}
 {{< /cards >}}
 
 ## Hľadať
@@ -83,7 +83,7 @@ Nachádzajúci sa tesne pod navigačnou lištou, horný panel nástrojov ponúka
 Funkcia vyhľadávania vám umožňuje nájsť konkrétnu skladbu, interpreta, album alebo žáner v hudobnej knižnici. Na „obrazovke vyhľadávania" máte prístup k nasledujúcim akciám: „Zoradiť", „Filtrovať", „Mriežka/Zoznam".
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Music Library Search Results" image="/docs/guide/evermusic/evermusic-guide-music-library/img/music-library-search.webp" >}}
+  {{< ls-card title="" subtitle="Music Library Search Results" image="/docs/guide/evermusic/evermusic-guide-music-library/img/music-library-search.webp" >}}
 {{< /cards >}}
 
 ## Menu možností
@@ -91,7 +91,7 @@ Funkcia vyhľadávania vám umožňuje nájsť konkrétnu skladbu, interpreta, a
 Každá skladba vo vašej hudobnej knižnici má menu s viac akciami, prístupné klepnutím na tlačidlo s tromi bodkami pri názve skladby. Tieto akcie sa líšia v závislosti od toho, či ide o jednotlivú skladbu alebo časť zbierky.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="More Actions for a Library Item" image="/docs/guide/evermusic/evermusic-guide-music-library/img/music-library-item-more-actions.webp" >}}
+  {{< ls-card title="" subtitle="More Actions for a Library Item" image="/docs/guide/evermusic/evermusic-guide-music-library/img/music-library-item-more-actions.webp" >}}
 {{< /cards >}}
 
 ### Pre jednotlivé skladby
@@ -125,7 +125,7 @@ Pre zbierky skladieb ako Albumy, Interpreti, Žánre alebo Skladatelia, menu mo�
 Režim výberu môžete aktivovať pomocou tlačidla Viac akcií v pravom hornom rohu. V tomto režime môžete vybrať viacero skladieb a vykonávať rôzne akcie.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Selection Mode in the Music Library" image="/docs/guide/evermusic/evermusic-guide-music-library/img/music-library-selection-mode.webp" >}}
+  {{< ls-card title="" subtitle="Selection Mode in the Music Library" image="/docs/guide/evermusic/evermusic-guide-music-library/img/music-library-selection-mode.webp" >}}
 {{< /cards >}}
 
 ## Zoskupovanie tagov
@@ -145,7 +145,7 @@ Tieto kategórie vám pomáhajú organizovať skladby podľa hudobných tagov: S
 Keď otvoríte sekcie Interpreti, Albumoví interpreti alebo Skladatelia, môžete vidieť prepínač pre Skladby/Všetky albumy/Exkluzívne albumy/Sólové albumy.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Album Detail with Songs / All / Exclusive / Solo Switcher" image="/docs/guide/evermusic/evermusic-guide-music-library/img/music-library-album-details.webp" >}}
+  {{< ls-card title="" subtitle="Album Detail with Songs / All / Exclusive / Solo Switcher" image="/docs/guide/evermusic/evermusic-guide-music-library/img/music-library-album-details.webp" >}}
 {{< /cards >}}
 
 - **Skladby**: Zobrazuje všetky skladby, kde je v audio tagoch nastavený tento Interpret/Albumový interpret/Skladateľ.
@@ -166,7 +166,7 @@ Túto funkciu môžete použiť na rýchle nájdenie akejkoľvek skladby, interp
 Klepnutím na položku menu „Nastavenia" nakonfigurujte predvoľby hudobnej knižnice.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Music Library Settings" image="/docs/guide/evermusic/evermusic-guide-music-library/img/music-library-settings.webp" >}}
+  {{< ls-card title="" subtitle="Music Library Settings" image="/docs/guide/evermusic/evermusic-guide-music-library/img/music-library-settings.webp" >}}
 {{< /cards >}}
 
 #### Čítanie metadát

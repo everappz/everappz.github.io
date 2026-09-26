@@ -7,7 +7,7 @@ tags: ["evermusic", "接続", "bluesound vault"]
 readingTime: 1
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **概要：** Evermusic、Flacbox、またはEvertagを使用して、SMB経由でBluesound VAULTの内部ストレージに接続します。BluOSアプリでVAULTのIPアドレスを確認し、ゲストアクセスでSMB接続として入力し、音楽ファイルの再生や管理を開始しましょう。
@@ -58,18 +58,18 @@ Bluesound VAULTには内蔵ハードドライブがあり、ネットワーク�
 
 ## よくある質問
 
-{{% details title="Bluesound VAULTに接続するためにユーザー名とパスワードが必要ですか？" closed="true" %}}
+{{% ls-details title="Bluesound VAULTに接続するためにユーザー名とパスワードが必要ですか？" closed="true" %}}
 いいえ。Bluesound VAULTはSMB経由でゲスト（匿名）アクセスをサポートしています。接続の設定時にログインとパスワードのフィールドは空白のままにしてください。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Bluesound VAULTで音楽タグを編集できますか？" closed="true" %}}
+{{% ls-details title="Bluesound VAULTで音楽タグを編集できますか？" closed="true" %}}
 はい。Evertagを使用して、VAULTの内蔵ハードドライブに直接保存されているオーディオファイルのメタデータタグ（タイトル、アーティスト、アルバムなど）を編集できます。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Bluesound VAULTはどのプロトコルをサポートしていますか？" closed="true" %}}
+{{% ls-details title="Bluesound VAULTはどのプロトコルをサポートしていますか？" closed="true" %}}
 Bluesound VAULTはSMB（Server Message Block）を介して内部ストレージを公開しています。Evermusic、Flacbox、EvertagはすべてSMB接続をサポートしており、簡単に接続できます。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="iPhoneにファイルをコピーせずにVAULTから音楽をストリーミングできますか？" closed="true" %}}
+{{% ls-details title="iPhoneにファイルをコピーせずにVAULTから音楽をストリーミングできますか？" closed="true" %}}
 はい。SMB経由で接続すると、VAULTの内蔵ドライブからデバイスにコピーすることなく、直接オーディオファイルをストリーミングできます。
-{{% /details %}}
+{{% /ls-details %}}

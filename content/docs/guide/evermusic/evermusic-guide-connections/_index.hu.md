@@ -17,7 +17,7 @@ A Kapcsolatok képernyőn csatlakoztathatod az összes zenétárhelyed — néps
 A képernyő egyértelműen jelölt szakaszokra van felosztva, így akár egyetlen iCloud Drive fióktól egészen több felhő- és NAS-eszközre kiterjedő könyvtárig skálázható: Gyors hozzáférés a tetején (kedvenc felhőmappáid), Felhőtárhely (hozzáadott fiókok), Helyi hálózat (Bonjour-felderített eszközök), Számítógép (Wi-Fi Drive, iTunes File Sharing, SMB), Külső kiegészítők (csatlakoztatott USB flash meghajtók) és Egyéb szolgáltatások (Last.fm és hasonlók).
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evermusic Kapcsolatok képernyő" image="/docs/guide/evermusic/evermusic-guide-connections/img/connect-main.webp" >}}
+  {{< ls-card title="" subtitle="Evermusic Kapcsolatok képernyő" image="/docs/guide/evermusic/evermusic-guide-connections/img/connect-main.webp" >}}
 {{< /cards >}}
 
 ## Csatlakozás felhőtárhelyhez
@@ -29,7 +29,7 @@ A képernyő egyértelműen jelölt szakaszokra van felosztva, így akár egyetl
 - Koppints a Kész gombra.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Felhőtárhely-szolgáltató kiválasztó" image="/docs/guide/evermusic/evermusic-guide-connections/img/connect-add-storage.webp" >}}
+  {{< ls-card title="" subtitle="Felhőtárhely-szolgáltató kiválasztó" image="/docs/guide/evermusic/evermusic-guide-connections/img/connect-add-storage.webp" >}}
 {{< /cards >}}
 
 Ha bármilyen problémába ütközöl, ellenőrizd az internetkapcsolatot és a bejelentkezési adatokat, és győződj meg arról, hogy a kétfaktoros hitelesítés megfelelően van konfigurálva az adott szolgáltatásnál.  
@@ -70,7 +70,7 @@ A csatlakoztatott felhőfiókokat az alkalmazásban is leválaszthatod, és az a
   - **Leválasztás**: ha teljesen meg szeretnéd szüntetni az alkalmazás és a felhőszolgáltatás közötti kapcsolatot, válaszd a „Leválasztás" lehetőséget. Figyelem: ez a lehetőség eltávolítja az ehhez a felhőszolgáltatáshoz tartozó összes dalt az alkalmazás zenei könyvtárából, de a szerveren megmaradnak.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Csatlakoztatott felhőtárhely további műveletek menüje" image="/docs/guide/evermusic/evermusic-guide-connections/img/connect-storage-more-actions.webp" >}}
+  {{< ls-card title="" subtitle="Csatlakoztatott felhőtárhely további műveletek menüje" image="/docs/guide/evermusic/evermusic-guide-connections/img/connect-storage-more-actions.webp" >}}
 {{< /cards >}}
 
 ## Csatlakozás számítógéphez vagy NAS-hoz
@@ -89,7 +89,7 @@ Ha a kapcsolat sikeres, a csatlakoztatott tárhely megjelenik a „Felhőtárhel
 A Mac vagy PC SMB-n keresztüli csatlakoztatásáról szóló teljes oktatóanyag [itt](/docs/howto/stream-your-music-from-mac-or-pc-to-iphone-using-smb/) érhető el.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="SMB kapcsolat beállításai" image="/docs/guide/evermusic/evermusic-guide-connections/img/connect-smb-settings.webp" >}}
+  {{< ls-card title="" subtitle="SMB kapcsolat beállításai" image="/docs/guide/evermusic/evermusic-guide-connections/img/connect-smb-settings.webp" >}}
 {{< /cards >}}
 
 ## Csatlakozás NAS-hoz WebDAV-on keresztül
@@ -99,7 +99,7 @@ Az URL formátuma http://server-name legyen, vagy https://server-name, ha a szer
 A NAS WebDAV protokollon keresztüli csatlakoztatásáról szóló teljes oktatóanyag [itt](/docs/howto/how-to-connect-nas-storage-using-webdav-and-listen-to-music-on-your-iphone-or-mac) érhető el.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="WebDAV kapcsolat beállításai" image="/docs/guide/evermusic/evermusic-guide-connections/img/connect-webdav-settings.webp" >}}
+  {{< ls-card title="" subtitle="WebDAV kapcsolat beállításai" image="/docs/guide/evermusic/evermusic-guide-connections/img/connect-webdav-settings.webp" >}}
 {{< /cards >}}
 
 ## Csatlakozás számítógéphez vagy NAS-hoz DLNA-n keresztül
@@ -107,7 +107,7 @@ A NAS WebDAV protokollon keresztüli csatlakoztatásáról szóló teljes oktat�
 Megoszthatod a Windows PC-den vagy személyes NAS-odon lévő zenei könyvtárat a DLNA protokoll segítségével, és az alkalmazásban elérheted azt a [itt](/docs/howto/how-to-enable-dlna-media-server-on-windows-10-and-play-your-music-on-iphone) leírtak szerint. A DLNA népszerű és széles körben használt protokoll, de csak a zene lejátszását vagy letöltését teszi lehetővé. Nem tölthetsz fel fájlokat és nem hozhatsz létre új mappákat a szerveren.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="DLNA kapcsolat beállításai" image="/docs/guide/evermusic/evermusic-guide-connections/img/connect-dlna-settings.webp" >}}
+  {{< ls-card title="" subtitle="DLNA kapcsolat beállításai" image="/docs/guide/evermusic/evermusic-guide-connections/img/connect-dlna-settings.webp" >}}
 {{< /cards >}}
 
 ## Elérhető eszközök
@@ -120,7 +120,7 @@ Eszközhöz való csatlakozáshoz kövesd ezeket a lépéseket:
 - Ha szükséges, add meg a bejelentkezési adatokat a kapcsolat befejezéséhez.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Elérhető eszközök a helyi hálózaton" image="/docs/guide/evermusic/evermusic-guide-connections/img/connect-available-devices.webp" >}}
+  {{< ls-card title="" subtitle="Elérhető eszközök a helyi hálózaton" image="/docs/guide/evermusic/evermusic-guide-connections/img/connect-available-devices.webp" >}}
 {{< /cards >}}
 
 ## Wi-Fi Drive
@@ -146,7 +146,7 @@ Amint az iOS-eszközödhöz tartozó weboldal megnyílik a böngészőben, egysz
 A drag-and-drop-pal áthelyezett fájlok megkezdik az átvitelt az iOS-eszközre, és elérhetővé válnak az alkalmazáson belül.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Wi-Fi Drive szerver beállításai" image="/docs/guide/evermusic/evermusic-guide-connections/img/connect-wifidrive-settings.webp" >}}
+  {{< ls-card title="" subtitle="Wi-Fi Drive szerver beállításai" image="/docs/guide/evermusic/evermusic-guide-connections/img/connect-wifidrive-settings.webp" >}}
 {{< /cards >}}
 
 Részletes utasítások arról, hogyan lehet fájlokat vezeték nélkül átvinni a WiFi-Drive segítségével, [itt](/docs/howto/how-to-transfer-files-wirelessly-from-a-computer-to-an-iphone-using-wifi-drive) érhetők el.
@@ -162,7 +162,7 @@ Az iTunes File Sharing egy másik technológia, amely lehetővé teszi fájlok �
 Részletes utasítások az iTunes file sharing használatáról [itt](/docs/howto/how-to-play-local-itunes-files-on-my-iphone/) érhetők el.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="iTunes / Finder File Sharing Macon" image="/docs/guide/evermusic/evermusic-guide-connections/img/connect-itunes-file-sharing.webp" >}}
+  {{< ls-card title="" subtitle="iTunes / Finder File Sharing Macon" image="/docs/guide/evermusic/evermusic-guide-connections/img/connect-itunes-file-sharing.webp" >}}
 {{< /cards >}}
 
 ## USB flash meghajtó csatlakoztatása
@@ -183,7 +183,7 @@ A felső eszköztár a navigációs sáv alatt található, és számos hasznos 
 - **Összes keverése**: hasonló az „Összes lejátszása" funkcióhoz, de a fájlokat megkeveri, mielőtt hozzáadja őket a hanglejátszó várólistájához. Ez egy remek módja a zene véletlen sorrendben való élvezetének.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Felső eszköztár egy felhőmappán belül" image="/docs/guide/evermusic/evermusic-guide-connections/img/connect-top-toolbar.webp" >}}
+  {{< ls-card title="" subtitle="Felső eszköztár egy felhőmappán belül" image="/docs/guide/evermusic/evermusic-guide-connections/img/connect-top-toolbar.webp" >}}
 {{< /cards >}}
 
 ## Mappabeállítások
@@ -200,7 +200,7 @@ Amikor megnyitsz egy mappát az alkalmazásban, a képernyő jobb felső sarkáb
 - **Rács/lista nézet**: váltás a két nézeti mód között: táblázatos nézet és bélyegkép nézet. A táblázatos nézet listában jeleníti meg a fájlokat, míg a bélyegkép nézet vizuális ábrázolásokat mutat, megkönnyítve a tartalom azonosítását egy pillantással.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Aktuális mappa további műveletek menüje" image="/docs/guide/evermusic/evermusic-guide-connections/img/connect-folder-options.webp" >}}
+  {{< ls-card title="" subtitle="Aktuális mappa további műveletek menüje" image="/docs/guide/evermusic/evermusic-guide-connections/img/connect-folder-options.webp" >}}
 {{< /cards >}}
 
 ## Online fájlok szerkesztése
@@ -212,7 +212,7 @@ Amikor több fájlt kell kezelned az Evermusicban lévő felhőtárhelyeden, a k
 - **Különböző műveletek végrehajtása**: miután kiválasztottad a kezelni kívánt fájlokat vagy mappákat, hozzáférhetsz az igényeidnek megfelelő számos művelethez.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Kijelölési mód online fájlokhoz" image="/docs/guide/evermusic/evermusic-guide-connections/img/connect-selection-mode.webp" >}}
+  {{< ls-card title="" subtitle="Kijelölési mód online fájlokhoz" image="/docs/guide/evermusic/evermusic-guide-connections/img/connect-selection-mode.webp" >}}
 {{< /cards >}}
 
 ## Fájlműveletek
@@ -233,7 +233,7 @@ Koppints rá az elérhető műveletek listájának megjelenítéséhez:
 - **Törlés**: légy óvatos ezzel a művelettel, mivel véglegesen eltávolítja a fájlt a felhőtárhelyről. Ez a törlés nem vonható vissza.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Egyetlen fájl további műveletek menüje" image="/docs/guide/evermusic/evermusic-guide-connections/img/connect-single-folder-more-options.webp" >}}
+  {{< ls-card title="" subtitle="Egyetlen fájl további műveletek menüje" image="/docs/guide/evermusic/evermusic-guide-connections/img/connect-single-folder-more-options.webp" >}}
 {{< /cards >}}
 
 Ha a műveletek listája meghaladja a rendelkezésre álló képernyőterületet, görgess le a műveletek menüjén belül a további lehetőségek eléréséhez.

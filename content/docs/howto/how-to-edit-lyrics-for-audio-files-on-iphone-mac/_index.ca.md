@@ -7,7 +7,7 @@ tags: ["lyrics", "mp3", "id3", "metadata", "iphone", "audio editing"]
 readingTime: 2
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **Resum:** Utilitzeu l'aplicació gratuïta **Evertag** per editar lletres no sincronitzades, classificacions de contingut i més de 120 etiquetes d'àudio a iPhone o Mac. Funciona amb fitxers locals i emmagatzemats al núvol, admet edició per lots i desa lletres visibles a Evermusic, Flacbox i altres reproductors.
@@ -23,8 +23,8 @@ Per a la demostració, utilitzarem l'aplicació **Evertag**. Admet **més de 120
 Comenceu descarregant l'aplicació **Evertag** des de l'App Store. Està disponible per a **iOS** i **macOS**, i és gratuïta.
 
 {{< cards cols="2">}}
-{{< card link="https://apps.apple.com/app/apple-store/id1450763230?pt=95781850&ct=everappzcom&mt=8" title="Evertag per a iOS" icon="download" tag="Free" >}}
-{{< card link="https://apps.apple.com/app/apple-store/id1594027661?pt=95781850&ct=everappzcom&mt=8" title="Evertag per a macOS" icon="download" tag="Free" >}}
+{{< ls-card link="https://apps.apple.com/app/apple-store/id1450763230?pt=95781850&ct=everappzcom&mt=8" title="Evertag per a iOS" icon="download" tag="Free" >}}
+{{< ls-card link="https://apps.apple.com/app/apple-store/id1594027661?pt=95781850&ct=everappzcom&mt=8" title="Evertag per a macOS" icon="download" tag="Free" >}}
 {{< /cards >}}
 
 ## Connectar el vostre compte al núvol
@@ -38,13 +38,13 @@ Per connectar un servei d'emmagatzematge al núvol:
 - Toqueu **Connectar a l'emmagatzematge al núvol**
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Connectar a l'emmagatzematge al núvol" image="/docs/howto/how-to-edit-lyrics-for-audio-files-on-iphone-mac/connect-to-cloud-storage.webp" >}}
+{{< ls-card title="" subtitle="Connectar a l'emmagatzematge al núvol" image="/docs/howto/how-to-edit-lyrics-for-audio-files-on-iphone-mac/connect-to-cloud-storage.webp" >}}
 {{< /cards >}}
 
 - Seleccioneu un proveïdor compatible, introduïu les vostres credencials i toqueu **Fet**
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Connectar a l'emmagatzematge al núvol" image="/docs/howto/how-to-edit-lyrics-for-audio-files-on-iphone-mac/connect-to-cloud-storage.webp" >}}
+{{< ls-card title="" subtitle="Connectar a l'emmagatzematge al núvol" image="/docs/howto/how-to-edit-lyrics-for-audio-files-on-iphone-mac/connect-to-cloud-storage.webp" >}}
 {{< /cards >}}
 
 - Un cop connectat, el vostre emmagatzematge al núvol apareixerà a la secció **Emmagatzematge al núvol** de l'aplicació.
@@ -52,7 +52,7 @@ Per connectar un servei d'emmagatzematge al núvol:
 - Toqueu el vostre emmagatzematge al núvol connectat per explorar i carregar el contingut de les seves carpetes.
   
 {{< cards cols="1">}}
-{{< card title="" subtitle="Llista de fitxers de l'emmagatzematge al núvol" image="/docs/howto/how-to-edit-lyrics-for-audio-files-on-iphone-mac/cloud-storage-list-audio-files.webp" >}}
+{{< ls-card title="" subtitle="Llista de fitxers de l'emmagatzematge al núvol" image="/docs/howto/how-to-edit-lyrics-for-audio-files-on-iphone-mac/cloud-storage-list-audio-files.webp" >}}
 {{< /cards >}}
 
 ## Connectar carpeta local
@@ -74,7 +74,7 @@ Podeu editar etiquetes d'àudio per a fitxers emmagatzemats directament al vostr
 - Desplaceu-vos cap avall fins a **Fitxers en aquest dispositiu** al menú de la barra lateral
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Carpetes del dispositiu" image="/docs/howto/how-to-edit-lyrics-for-audio-files-on-iphone-mac/device-folders.webp" >}}
+{{< ls-card title="" subtitle="Carpetes del dispositiu" image="/docs/howto/how-to-edit-lyrics-for-audio-files-on-iphone-mac/device-folders.webp" >}}
 {{< /cards >}}
   
 - Toqueu l'element del menú **Totes les carpetes del dispositiu**
@@ -91,7 +91,7 @@ Podeu editar etiquetes d'àudio per a fitxers emmagatzemats directament al vostr
 L'**Editor d'etiquetes** és la pantalla principal de l'aplicació Evertag on podeu veure i editar les metadades dels fitxers d'àudio. Obriu aquesta pantalla tocant un fitxer de la secció **Fitxers locals** o de qualsevol compte d'**emmagatzematge al núvol** connectat.
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Pantalla de l'editor d'etiquetes d'Evertag" image="/docs/howto/how-to-edit-lyrics-for-audio-files-on-iphone-mac/cloud-storage-audio-file-tag-editor.webp" >}}
+{{< ls-card title="" subtitle="Pantalla de l'editor d'etiquetes d'Evertag" image="/docs/howto/how-to-edit-lyrics-for-audio-files-on-iphone-mac/cloud-storage-audio-file-tag-editor.webp" >}}
 {{< /cards >}}
 
 ## Modes d'edició
@@ -112,7 +112,7 @@ Per defecte, l'aplicació obre l'editor d'etiquetes en mode de fitxer únic amb 
 Per accedir a totes les etiquetes disponibles, desplaceu-vos fins a la part inferior de la pantalla i toqueu l'opció **Mostrar etiquetes esteses**. Això canviarà l'editor al mode estès, permetent-vos editar més de **120 camps de metadades**, incloent **etiquetes MusicBrainz**, **lletres**, **classificacions de contingut** i més.
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Panell d'accions inferior" image="/docs/howto/how-to-edit-lyrics-for-audio-files-on-iphone-mac/show-extended-tags.webp" >}}
+{{< ls-card title="" subtitle="Panell d'accions inferior" image="/docs/howto/how-to-edit-lyrics-for-audio-files-on-iphone-mac/show-extended-tags.webp" >}}
 {{< /cards >}}
 
 ## Mode per lots
@@ -137,7 +137,7 @@ Aquí teniu com afegir o actualitzar **lletres no sincronitzades** incrustades a
 En mode **Etiquetes esteses**, desplaceu-vos cap avall i toqueu el camp de text **Lletres no sincronitzades**.
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Camp de text de lletres no sincronitzades" image="/docs/howto/how-to-edit-lyrics-for-audio-files-on-iphone-mac/advisory-rating-2.webp" >}}
+{{< ls-card title="" subtitle="Camp de text de lletres no sincronitzades" image="/docs/howto/how-to-edit-lyrics-for-audio-files-on-iphone-mac/advisory-rating-2.webp" >}}
 {{< /cards >}}
 
 > Els fitxers d'àudio que admeten **etiquetes ID3** (com `.mp3` o `.wav`) us permeten afegir lletres en múltiples idiomes. Si esteu editant un fitxer amb etiquetes ID3, Evertag habilita el suport multiidioma complet.  
@@ -148,7 +148,7 @@ En mode **Etiquetes esteses**, desplaceu-vos cap avall i toqueu el camp de text 
 Si esteu editant etiquetes ID3, la pantalla següent mostrarà un botó **Afegir nova pàgina**. Toqueu-lo per començar a afegir una nova entrada de lletres.
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Afegir nova pàgina de lletres" image="/docs/howto/how-to-edit-lyrics-for-audio-files-on-iphone-mac/add-new-page.webp" >}}
+{{< ls-card title="" subtitle="Afegir nova pàgina de lletres" image="/docs/howto/how-to-edit-lyrics-for-audio-files-on-iphone-mac/add-new-page.webp" >}}
 {{< /cards >}}
 
 ### Triar idioma, comentari i contingut de les lletres
@@ -159,7 +159,7 @@ A la pantalla d'entrada de lletres, podreu:
 - Introduir el **text de les lletres** real
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Seleccionar idioma" image="/docs/howto/how-to-edit-lyrics-for-audio-files-on-iphone-mac/choose-language.webp" >}}
+{{< ls-card title="" subtitle="Seleccionar idioma" image="/docs/howto/how-to-edit-lyrics-for-audio-files-on-iphone-mac/choose-language.webp" >}}
 {{< /cards >}}
 
 ### Introduir les lletres
@@ -169,7 +169,7 @@ Escriviu o enganxeu el contingut de les vostres lletres. Evertag admet lletres e
 > Consell: Busqueu lletres d'alta qualitat? Visiteu [lyricsify.com](https://www.lyricsify.com) per trobar lletres en format LRC per a milers de pistes.
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Lletres afegides" image="/docs/howto/how-to-edit-lyrics-for-audio-files-on-iphone-mac/added-lyrics.webp" >}}
+{{< ls-card title="" subtitle="Lletres afegides" image="/docs/howto/how-to-edit-lyrics-for-audio-files-on-iphone-mac/added-lyrics.webp" >}}
 {{< /cards >}}
 
 ### Toqueu "Fet" per confirmar
@@ -177,7 +177,7 @@ Escriviu o enganxeu el contingut de les vostres lletres. Evertag admet lletres e
 Després d'introduir les vostres lletres, toqueu **Fet** a la pàgina de lletres. Després toqueu **Fet** de nou a la pantalla anterior per confirmar els vostres canvis.
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Lletres desades" image="/docs/howto/how-to-edit-lyrics-for-audio-files-on-iphone-mac/saved-lyrics.webp" >}}
+{{< ls-card title="" subtitle="Lletres desades" image="/docs/howto/how-to-edit-lyrics-for-audio-files-on-iphone-mac/saved-lyrics.webp" >}}
 {{< /cards >}}
 
 ### Desar els canvis d'etiquetes
@@ -185,7 +185,7 @@ Després d'introduir les vostres lletres, toqueu **Fet** a la pàgina de lletres
 Finalment, a la pantalla de l'**Editor d'etiquetes**, toqueu **Desar** per escriure les etiquetes actualitzades — incloent les vostres noves lletres — de tornada al fitxer.
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Editor d'etiquetes amb lletres" image="/docs/howto/how-to-edit-lyrics-for-audio-files-on-iphone-mac/tags-editor-with-lyrics.webp" >}}
+{{< ls-card title="" subtitle="Editor d'etiquetes amb lletres" image="/docs/howto/how-to-edit-lyrics-for-audio-files-on-iphone-mac/tags-editor-with-lyrics.webp" >}}
 {{< /cards >}}
 
 ### Establir la classificació de contingut de les lletres
@@ -204,22 +204,22 @@ Seguint aquests passos, les vostres lletres estaran correctament incrustades a l
 
 ## Preguntes freqüents
 
-{{% details title="Quins formats d'àudio admet Evertag per a l'edició de lletres?" closed="true" %}}
+{{% ls-details title="Quins formats d'àudio admet Evertag per a l'edició de lletres?" closed="true" %}}
 Evertag admet més de 30 formats d'àudio, incloent MP3, FLAC, WAV, M4A, OGG, AIFF i més. Podeu editar lletres i altres etiquetes de metadades en qualsevol d'aquests formats.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Puc afegir lletres en múltiples idiomes?" closed="true" %}}
+{{% ls-details title="Puc afegir lletres en múltiples idiomes?" closed="true" %}}
 Sí, però només per a fitxers d'àudio que utilitzen etiquetes ID3 (com MP3 i WAV). Per a altres formats com FLAC o M4A, només s'admet una única entrada de lletres.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Evertag admet l'edició per lots de lletres?" closed="true" %}}
+{{% ls-details title="Evertag admet l'edició per lots de lletres?" closed="true" %}}
 Sí. Podeu entrar al mode per lots per editar metadades de múltiples fitxers alhora. Això és útil per aplicar la mateixa classificació de contingut o altres etiquetes compartides a un àlbum sencer.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Les lletres editades apareixeran a Apple Music o Spotify?" closed="true" %}}
+{{% ls-details title="Les lletres editades apareixeran a Apple Music o Spotify?" closed="true" %}}
 Les lletres editades amb Evertag estan incrustades a les metadades del fitxer d'àudio. Apareixeran en qualsevol reproductor de música que llegeixi etiquetes de lletres incrustades, com Evermusic, Flacbox, VLC i foobar2000. Les aplicacions de streaming com Spotify i Apple Music utilitzen les seves pròpies bases de dades de lletres i no llegeixen etiquetes incrustades.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Puc editar etiquetes per a fitxers emmagatzemats al núvol?" closed="true" %}}
+{{% ls-details title="Puc editar etiquetes per a fitxers emmagatzemats al núvol?" closed="true" %}}
 Sí. Evertag admet la connexió a serveis d'emmagatzematge al núvol. L'aplicació descarrega el fitxer, us permet editar les etiquetes i puja automàticament el fitxer actualitzat de tornada al núvol.
-{{% /details %}}
+{{% /ls-details %}}

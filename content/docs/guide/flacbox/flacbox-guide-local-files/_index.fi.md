@@ -17,7 +17,7 @@ readingTime: 8
 Paikalliset Tiedostot -osio toimii keskuksena sovelluksen Documents-kansiossa sijaitsevien tiedostojen hallinnointiin sekä laitteeltasi lisättyjen offline-toistoon saatavilla olevien tiedostojen hallintaan.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox Paikalliset Tiedostot -näyttö" image="/docs/guide/flacbox/img/local-files.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox Paikalliset Tiedostot -näyttö" image="/docs/guide/flacbox/img/local-files.webp" >}}
 {{< /cards >}}
 
 ## Tiedostojen Lataaminen Pilvivarastosta
@@ -98,7 +98,7 @@ Näyttää sovelluksen Documents-hakemistossa ja iCloud Drivessa tallennetut tie
 Näyttää laitteellasi mutta eri sovelluksissa sijaitsevat tiedostot. Voit tuoda ne järjestelmän tiedostovalitsimen avulla käyttäen **Avaa tiedostoja…** tiedostoille tai **Avaa kansioita…** kansioille. Yksityiskohtaiset ohjeet ovat saatavilla [täällä](/docs/howto/how-to-play-local-music-stored-on-your-iphone-or-mac).
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox Yhdistetyn Laitteen Kansiot" image="/docs/guide/flacbox/img/connected-device-folders.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox Yhdistetyn Laitteen Kansiot" image="/docs/guide/flacbox/img/connected-device-folders.webp" >}}
 {{< /cards >}}
 
 Voit myös yhdistää kansion laitteeltasi. Käytä **Yhdistä kansio** -valikkoa ja valitse kansio. Napauta **Valmis**, ja sovellus luo linkin luku-/kirjoitusoikeudella. Kansion irrottamiseksi napauta **Lisää toimintoja** ja valitse **Irrottaa**.
@@ -133,7 +133,7 @@ Useiden tiedostojen muokkaamista varten aktivoi valintatila napauttamalla **Lis�
 - **Poistaa** — poista laitteelta. **Tämä toiminto on peruuttamaton.**
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox Paikallisten Tiedostojen Valintatila" image="/docs/guide/flacbox/img/local-files-selection-mode.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox Paikallisten Tiedostojen Valintatila" image="/docs/guide/flacbox/img/local-files-selection-mode.webp" >}}
 {{< /cards >}}
 
 ## Asetusvalikko
@@ -157,7 +157,7 @@ Jokaiselle tiedostolle tai kansiolle napauta **Lisää toimintoja** **"..."** -p
 - **Poistaa** — poista laitteelta. **Tämä toiminto on peruuttamaton** eikä poistettuja tiedostoja voi palauttaa.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox Lisää Toimintoja Paikalliselle Tiedostolle" image="/docs/guide/flacbox/img/local-files-more-actions-for-file.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox Lisää Toimintoja Paikalliselle Tiedostolle" image="/docs/guide/flacbox/img/local-files-more-actions-for-file.webp" >}}
 {{< /cards >}}
 
 ## Offline-kansiot

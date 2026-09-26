@@ -17,7 +17,7 @@ readingTime: 6
 Sekcia Prehrávače vám poskytuje nástroje na organizovanie vašich skladieb do zoznamov. Zahŕňa zobrazenie obsahu zobrazujúce všetky vaše vytvorené prehrávače, tlačidlo "..." v navigačnej lište ponúkajúce rôzne akcie súvisiace s prehrávačmi, a navigačnú lištu nástrojov s tlačidlami "Hľadať", "Prehrať všetko" a "Zamiešať všetko". Navyše každý jednotlivý prehrávač sám obsahuje tlačidlo "..." pri názve prehrávača, ponúkajúce rad akcií špecifických pre daný prehrávač.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Obrazovka Prehrávačov Evermusic" image="/docs/guide/evermusic/evermusic-guide-playlists/img/playlists-main.webp" >}}
+  {{< ls-card title="" subtitle="Obrazovka Prehrávačov Evermusic" image="/docs/guide/evermusic/evermusic-guide-playlists/img/playlists-main.webp" >}}
 {{< /cards >}}
 
 ## Vytvorenie Prehrávača
@@ -25,7 +25,7 @@ Sekcia Prehrávače vám poskytuje nástroje na organizovanie vašich skladieb d
 Ak chcete vytvoriť nový prehrávač, klepnite na tlačidlo "+" alebo tlačidlo "..." v pravom hornom rohu navigačnej lišty, vyberte "Nový prehrávač" a priraďte mu názov. Po pomenovaní klepnite na "Uložiť".
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Vytvorenie nového prehrávača" image="/docs/guide/evermusic/evermusic-guide-playlists/img/playlists-add-new.webp" >}}
+  {{< ls-card title="" subtitle="Vytvorenie nového prehrávača" image="/docs/guide/evermusic/evermusic-guide-playlists/img/playlists-add-new.webp" >}}
 {{< /cards >}}
 
 Tým sa zobrazí dialóg "Pridať skladby", kde môžete vybrať, ktoré skladby pridať do nového prehrávača. Skladby sú kategorizované podľa typu zdroja a máte niekoľko možností:
@@ -42,7 +42,7 @@ Tým sa zobrazí dialóg "Pridať skladby", kde môžete vybrať, ktoré skladby
 V Evermusic sme pridali funkciu importu súborov M3U, takže nemusíte vytvárať prehrávače manuálne.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Import prehrávača zo zdroja súborov" image="/docs/guide/evermusic/evermusic-guide-playlists/img/playlists-import-from-files.webp" >}}
+  {{< ls-card title="" subtitle="Import prehrávača zo zdroja súborov" image="/docs/guide/evermusic/evermusic-guide-playlists/img/playlists-import-from-files.webp" >}}
 {{< /cards >}}
 
 Najprv prejdite do sekcie 'Prehrávače'. Potom klepnite na tlačidlo 'Viac' v pravom hornom rohu. Z ponuky, ktorá sa zobrazí, vyberte možnosť 'Importovať prehrávač'.
@@ -62,7 +62,7 @@ Aplikácia analyzuje súbor prehrávača, vytvorí zoznam skladieb a vyhľadá t
 Keď otvoríte prehrávač, zobrazí sa "Obrazovka detailu prehrávača". Na tejto obrazovke nájdete tlačidlo "..." v pravom hornom rohu s možnosťami prehrávača a tri tlačidlá pod obrázkom artwork: "Hľadať", "Pokračovať v prehrávaní", "Prehrať všetko" a "Zamiešať všetko". Okrem toho je tu zaškrtávacie políčko "Offline režim".
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Obrazovka detailu prehrávača" image="/docs/guide/evermusic/evermusic-guide-playlists/img/playlists-detail-screen.webp" >}}
+  {{< ls-card title="" subtitle="Obrazovka detailu prehrávača" image="/docs/guide/evermusic/evermusic-guide-playlists/img/playlists-detail-screen.webp" >}}
 {{< /cards >}}
 
 - **Pokračovať v prehrávaní**: Obnovte pozíciu prehrávania pre tento prehrávač.
@@ -87,7 +87,7 @@ K akciám prehrávača môžete pristupovať klepnutím na tlačidlo "..." pri n
 - **Odstrániť prehrávač:** Odstráňte prehrávač z Hudobnej knižnice. Upozorňujeme, že túto akciu nemožno vrátiť späť.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Ponuka Ďalšie akcie pre prehrávač" image="/docs/guide/evermusic/evermusic-guide-playlists/img/playlists-more-actions-for-separate-playlist.webp" >}}
+  {{< ls-card title="" subtitle="Ponuka Ďalšie akcie pre prehrávač" image="/docs/guide/evermusic/evermusic-guide-playlists/img/playlists-more-actions-for-separate-playlist.webp" >}}
 {{< /cards >}}
 
 ## Ďalšie Akcie pre Prehrávač na Obrazovke Detailu Prehrávača
@@ -113,7 +113,7 @@ K akciám prehrávača môžete pristupovať klepnutím na tlačidlo "..." v pra
 Ak chcete zmeniť poradie skladieb v prehrávači, klepnite na tlačidlo "..." v pravom hornom rohu a vyberte "Vybrať" na vstup do režimu výberu. Na presun nahor alebo nadol použite ovládací prvok preusporiadania a gestá ťahania a ukladania pri každej skladbe. Klepnutie na ovládací prvok preusporiadania presunie skladbu na začiatok zoznamu. Ak chcete opustiť režim výberu a použiť zmeny, klepnite na "Hotovo".
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Zmena poradia skladieb v prehrávači" image="/docs/guide/evermusic/evermusic-guide-playlists/img/playlists-change-songs-order.webp" >}}
+  {{< ls-card title="" subtitle="Zmena poradia skladieb v prehrávači" image="/docs/guide/evermusic/evermusic-guide-playlists/img/playlists-change-songs-order.webp" >}}
 {{< /cards >}}
 
 ## Zmena Obrázku Obalu Prehrávača
@@ -129,7 +129,7 @@ Otvorte prehrávač a klepnite na tlačidlo "..." v pravom hornom rohu, potom vy
 Otvorte prehrávač, klepnite na tlačidlo "..." v pravom hornom rohu a vyberte "Vybrať" na vstup do režimu výberu. Vyberte skladby, ktoré chcete odstrániť, a klepnite na tlačidlo "Odstrániť z prehrávača" v spodnej časti obrazovky. Potvrďte zmeny klepnutím na "Hotovo".
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Režim výberu vo vnútri prehrávača" image="/docs/guide/evermusic/evermusic-guide-playlists/img/playlists-selection-mode-in-playlist-details-screen.webp" >}}
+  {{< ls-card title="" subtitle="Režim výberu vo vnútri prehrávača" image="/docs/guide/evermusic/evermusic-guide-playlists/img/playlists-selection-mode-in-playlist-details-screen.webp" >}}
 {{< /cards >}}
 
 ## Možnosti Skladby
@@ -137,7 +137,7 @@ Otvorte prehrávač, klepnite na tlačidlo "..." v pravom hornom rohu a vyberte 
 Každá skladba v prehrávači má zoznam akcií prístupných klepnutím na tlačidlo "...". Ak nevidíte všetky akcie, posuňte sa nadol pre ich zobrazenie. Môžete odstrániť skladbu z prehrávača, stiahnuť ju, upraviť zvukové tagy a ďalšie.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Ponuka možností skladby v prehrávači" image="/docs/guide/evermusic/evermusic-guide-playlists/img/playlists-track-options.webp" >}}
+  {{< ls-card title="" subtitle="Ponuka možností skladby v prehrávači" image="/docs/guide/evermusic/evermusic-guide-playlists/img/playlists-track-options.webp" >}}
 {{< /cards >}}
 
 - **Prehrať ďalej:** Pridá skladbu na vrchol fronty prehrávača.

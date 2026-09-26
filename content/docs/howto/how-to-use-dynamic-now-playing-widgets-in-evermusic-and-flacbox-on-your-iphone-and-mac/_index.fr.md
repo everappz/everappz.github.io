@@ -7,7 +7,7 @@ tags: ["widgets", "ios17", "dynamique", "en cours de lecture", "écran d'accueil
 keywords: ["widget Evermusic", "widget Flacbox", "widget En cours de lecture iOS", "widget bureau macOS Sonoma", "signets audio iPhone", "widget musique Evermusic", "contrôle lecture écran d'accueil", "widgets dynamiques iOS 17"]
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **En bref :** Evermusic et Flacbox proposent des widgets interactifs En cours de lecture sur iOS 17+ et macOS 14 Sonoma+. Vous pouvez contrôler la lecture, passer des pistes, ajouter des favoris et créer des signets audio directement depuis l'écran d'accueil de votre iPhone ou le bureau de votre Mac — sans avoir besoin d'ouvrir l'application.
@@ -78,22 +78,22 @@ Profitez de la mise à jour et bonne écoute !
 
 ## Questions fréquemment posées
 
-{{% details title="Les widgets fonctionnent-ils sans ouvrir l'application ?" closed="true" %}}
+{{% ls-details title="Les widgets fonctionnent-ils sans ouvrir l'application ?" closed="true" %}}
 Oui. Sur iOS 17 et macOS 14 Sonoma, les boutons des widgets sont interactifs et contrôlent la lecture directement. L'application n'a pas besoin d'être au premier plan.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Quelle taille de widget dois-je choisir ?" closed="true" %}}
+{{% ls-details title="Quelle taille de widget dois-je choisir ?" closed="true" %}}
 Choisissez Petit pour la lecture/pause de base et les favoris. Choisissez Moyen si vous voulez des boutons de saut. Choisissez Grand si vous voulez aussi les signets audio.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Puis-je utiliser le widget pour reprendre un livre audio ?" closed="true" %}}
+{{% ls-details title="Puis-je utiliser le widget pour reprendre un livre audio ?" closed="true" %}}
 Oui. Activez « Sauvegarder l'état du lecteur audio » dans les Paramètres, et le widget reprendra la lecture à partir de votre dernière position même après la fermeture de l'application.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Les widgets sont-ils disponibles sur iPad ?" closed="true" %}}
+{{% ls-details title="Les widgets sont-ils disponibles sur iPad ?" closed="true" %}}
 Oui. iPadOS 17 prend en charge les mêmes widgets interactifs que l'iPhone.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Evermusic et Flacbox ont-ils tous les deux ces widgets ?" closed="true" %}}
+{{% ls-details title="Evermusic et Flacbox ont-ils tous les deux ces widgets ?" closed="true" %}}
 Oui. Le widget En cours de lecture est disponible dans Evermusic et Flacbox avec des fonctionnalités identiques.
-{{% /details %}}
+{{% /ls-details %}}

@@ -12,7 +12,7 @@ authors:
     image: "/images/about/artem-meleshko-founder-everappz.webp"
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 **Ringkasan:** [Evertag 4.2](/products/evertag) ialah kemas kini besar untuk editor tag audio pada iPhone, iPad dan Mac. Kami menyelesaikan pepijat utama dalam penyuntingan tag dan menambah lebih daripada 6 sambungan awan dan pelayan baharu — **Internxt**, **Proton Drive**, **QNAP**, **Nextcloud**, **Amazon S3**, serta protokol **FTP**, **SFTP** dan **NFS**. Wi-Fi Drive memperoleh antara muka segar, mod pemilihan berbilang, baris gilir muat naik yang lebih bijak dan pemindahan yang lebih pantas. Keseluruhan aplikasi telah diselaraskan untuk reka bentuk **Liquid Glass**. Catatan ini juga mendalami tetapan editor tag Evertag — menerangkan **ID3v2.4 vs ID3v2.3**, **penskalaan kulit album**, **penduaan tag**, **mod muat naik awan**, **memadam fail yang dimuat turun**, dan tepatnya pilihan mana yang patut anda pilih jika sedang menyediakan audio untuk **Spotify**, **Apple Music**, **Plex**, **Jellyfin** atau mana-mana perkhidmatan penstriman lain.
 
@@ -229,50 +229,50 @@ Jika anda menyukai aplikasi ini, sila tinggalkan penilaian di App Store — ia b
 
 ## Soalan Lazim
 
-{{% details title="Apa yang baru dalam Evertag 4.2?" closed="true" %}}
+{{% ls-details title="Apa yang baru dalam Evertag 4.2?" closed="true" %}}
 Evertag 4.2 menambah lebih daripada 6 sambungan awan dan pelayan baharu (Internxt, Proton Drive, QNAP, Nextcloud, Amazon S3, FTP, SFTP, NFS), Wi-Fi Drive yang disegarkan dengan pemilihan berbilang dan baris gilir muat naik yang lebih bijak, kemas kini UI Liquid Glass, pustaka sambungan dikemas kini, pembetulan pepijat utama dalam penyuntingan tag dan penambahbaikan terjemahan.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Saya patut gunakan ID3v2.4 atau ID3v2.3 dalam Evertag?" closed="true" %}}
+{{% ls-details title="Saya patut gunakan ID3v2.4 atau ID3v2.3 dalam Evertag?" closed="true" %}}
 Gunakan **ID3v2.4** untuk pemain moden (Evermusic, Plex, Jellyfin, Apple Music, foobar2000, VLC, aplikasi Android moden) dan untuk perpustakaan dengan aksara bukan-Latin — sokongan UTF-8 bermaksud tag Cina, Korea, Jepun, Rusia, Arab dan Ibrani lebih bersih. Gunakan **ID3v2.3** jika tag anda dipaparkan dengan salah dalam sesetengah aplikasi, jika anda menyasarkan stereo kereta lebih lama, atau jika saluran paip pengedar penstriman menolak v2.4. Anda boleh sentiasa beralih dan simpan semula.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Mengapa tag saya salah dalam Spotify selepas penyuntingan?" closed="true" %}}
+{{% ls-details title="Mengapa tag saya salah dalam Spotify selepas penyuntingan?" closed="true" %}}
 Spotify kebanyakannya memaparkan metadata daripada katalog mereka sendiri — tag tempatan anda hanya digunakan untuk «Local Files» atau kandungan yang anda muat naik sebagai artis. Jika anda menandai fail untuk Spotify Local Files dan ia tidak dipaparkan dengan betul, cuba lumpuhkan ID3v2.4 dalam Evertag dan simpan sebagai ID3v2.3 — penghurai Spotify secara sejarah konservatif terhadap v2.4.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Saiz kulit album mana yang patut saya pilih dalam Evertag?" closed="true" %}}
+{{% ls-details title="Saiz kulit album mana yang patut saya pilih dalam Evertag?" closed="true" %}}
 Untuk kebanyakan pengguna: **Besar**. Kelihatan hebat pada telefon, iPad, Mac dan paparan kereta moden tanpa membengkakkan fail terlalu banyak. Gunakan **Sederhana** jika anda mempunyai perpustakaan yang besar dan mahu menjimatkan cakera. Gunakan **Asli** (tanpa penskalaan) hanya untuk master arkib atau apabila anda benar-benar memerlukan kualiti maksimum — tetapi ambil maklum bahawa sesetengah pemain lebih lama bergelut dengan kulit terbenam yang sangat besar. **Asli** adalah sebahagian daripada peningkatan personalisasi premium Evertag.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Adakah kulit album yang lebih besar menjadikan fail saya lebih besar?" closed="true" %}}
+{{% ls-details title="Adakah kulit album yang lebih besar menjadikan fail saya lebih besar?" closed="true" %}}
 Ya. Membenamkan kulit 3,000 × 3,000 piks boleh menambah beberapa megabait pada satu fail audio. Pada perpustakaan 1,000 trek, ia mencapai gigabait. Jika storan terhad, gunakan Sederhana atau Besar; jika anda menstrim daripada NAS yang saiznya tidak penting, Ekstra besar atau Asli boleh.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Apakah Penduaan tag dan patutkah saya mengaktifkannya?" closed="true" %}}
+{{% ls-details title="Apakah Penduaan tag dan patutkah saya mengaktifkannya?" closed="true" %}}
 Penduaan tag menulis metadata teras pada bahagian ID3v1 (warisan 128-bait) dan ID3v2 (moden) fail. Aktifkan hanya jika anda menyasarkan pemain yang sangat lama atau perkakasan yang membaca ID3v1. Untuk semua yang moden (telefon pintar, komputer, stereo kereta terkini), biarkan dimatikan.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Adakah Evertag menyunting tag terus pada fail awan?" closed="true" %}}
+{{% ls-details title="Adakah Evertag menyunting tag terus pada fail awan?" closed="true" %}}
 Ya. Sambung ke awan anda (Google Drive, Dropbox, OneDrive, iCloud Drive, Internxt, Proton Drive, QNAP, Nextcloud, Amazon S3, dll.) atau melalui FTP/SFTP/NFS, kemudian buka fail dan sunting tag seolah-olah ia tempatan. Evertag memuat turun fail, menggunakan suntingan anda dan memuat naik versi dikemas kini semula. Anda boleh memilih antara mod «Sentiasa tanya», «Auto-muat naik» atau «Jangan muat naik» dalam tetapan.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Bolehkah saya menyunting tag FLAC pada iPhone dengan Evertag?" closed="true" %}}
+{{% ls-details title="Bolehkah saya menyunting tag FLAC pada iPhone dengan Evertag?" closed="true" %}}
 Boleh. Evertag menyokong FLAC, MP3, M4A/MP4, AIFF, WAV, OGG, APE dan format penting lain dengan sokongan baca/tulis tag penuh termasuk kulit terbenam.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Bagaimana saya menyunting tag dengan selamat pada pelayan rumah saya dengan SFTP?" closed="true" %}}
+{{% ls-details title="Bagaimana saya menyunting tag dengan selamat pada pelayan rumah saya dengan SFTP?" closed="true" %}}
 Buka Evertag, pergi ke Connections, pilih SFTP dan masukkan nama hos atau IP pelayan, port (biasanya 22), nama pengguna dan kata laluan atau kunci peribadi SSH. Evertag akan menyemak imbas folder jauh anda dan menyunting tag terus dengan penyulitan hujung ke hujung melalui SSH.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Bolehkah saya menyunting tag pada beberapa fail sekali gus?" closed="true" %}}
+{{% ls-details title="Bolehkah saya menyunting tag pada beberapa fail sekali gus?" closed="true" %}}
 Boleh. Aktifkan **Sunting fail serentak** dalam tetapan. Pilih beberapa fail, buka editor tag dan sebarang medan yang anda ubah akan dikenakan pada semua fail terpilih. Inilah cara terpantas menetapkan album artist, tahun atau genre yang sama merentasi seluruh album.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Adakah kemas kini ke Evertag 4.2 percuma?" closed="true" %}}
+{{% ls-details title="Adakah kemas kini ke Evertag 4.2 percuma?" closed="true" %}}
 Ya. Evertag ialah muat turun percuma dari App Store dan 4.2 ialah kemas kini percuma untuk semua pengguna sedia ada. Integrasi awan baharu, penambahbaikan Wi-Fi Drive dan UI Liquid Glass adalah sebahagian daripada kemas kini asas.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Pada peranti apa Evertag 4.2 tersedia?" closed="true" %}}
+{{% ls-details title="Pada peranti apa Evertag 4.2 tersedia?" closed="true" %}}
 Evertag 4.2 berjalan pada iPhone, iPad dan Mac. Penyegerakan iCloud Drive memastikan tetapan editor tag anda kekal konsisten merentasi peranti.
-{{% /details %}}
+{{% /ls-details %}}

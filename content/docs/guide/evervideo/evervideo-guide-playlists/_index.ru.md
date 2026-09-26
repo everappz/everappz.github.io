@@ -19,7 +19,7 @@ readingTime: 5
 Плейлисты в Evervideo могут содержать смесь онлайн-видео из облака, скачанных офлайн-файлов, локальных файлов, видео из библиотеки «Фото» и видео из библиотеки iOS «Музыка» — всё в одном плейлисте — и воспроизводиться без прерываний.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Плейлисты Evervideo в медиатеке" image="/docs/guide/evervideo/img/evervideo-playlists-in-media-library.webp" >}}
+  {{< ls-card title="" subtitle="Плейлисты Evervideo в медиатеке" image="/docs/guide/evervideo/img/evervideo-playlists-in-media-library.webp" >}}
 {{< /cards >}}
 
 ## Создание плейлиста

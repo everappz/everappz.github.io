@@ -12,7 +12,7 @@ authors:
     image: "/images/about/artem-meleshko-founder-everappz.webp"
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 **W skrócie:** [Evermusic 8.7](/products/evermusic) to wydanie skupione na jakości dźwięku dla iPhone, iPad i Mac. Zawiera **prawdziwe odtwarzanie bez przerw** (bez pauz, kliknięć czy trzasków między utworami), pełny zestaw **studyjnych efektów audio** — pogłos, opóźnienie, przester, kompresor i crossfeed — oraz **normalizację głośności EBU R128**, która utrzymuje spójną głośność od utworu do utworu bez znaczników ReplayGain. **10-pasmowy korektor** został przeprojektowany z nowymi suwakami, szybszym przełączaniem presetów, własnymi presetami, które można importować i eksportować, oraz lepszym układem w orientacji poziomej i na iPad. Od środka **przebudowany silnik strumieniowania AVAudioEngine** poprawia niezawodność i obsługę formatów, w tym **FLAC** i **Ogg Vorbis**. **CarPlay** i **Teraz odtwarzane** są szybsze i dokładniejsze na ekranie blokady, w samochodzie i z pilotów w słuchawkach.
 
@@ -129,50 +129,50 @@ Jeśli podoba Ci się aplikacja, zostaw ocenę w App Store — to naprawdę poma
 
 ## Najczęściej zadawane pytania
 
-{{% details title="Co nowego w Evermusic 8.7?" closed="true" %}}
+{{% ls-details title="Co nowego w Evermusic 8.7?" closed="true" %}}
 Evermusic 8.7 dodaje prawdziwe odtwarzanie bez przerw, pięć studyjnych efektów audio (pogłos, opóźnienie, przester, kompresor i crossfeed), normalizację głośności EBU R128, przeprojektowany 10-pasmowy korektor z własnymi presetami oraz importem/eksportem, przebudowany silnik strumieniowania AVAudioEngine z ulepszoną obsługą formatów (w tym FLAC i Ogg Vorbis), szybsze i dokładniejsze CarPlay oraz Teraz odtwarzane, aktualizacje designu Liquid Glass, odświeżone widżety na ekran główny oraz poprawki błędów i lokalizacji.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Czy Evermusic ma prawdziwe odtwarzanie bez przerw?" closed="true" %}}
+{{% ls-details title="Czy Evermusic ma prawdziwe odtwarzanie bez przerw?" closed="true" %}}
 Tak. Począwszy od Evermusic 8.7 odtwarzanie jest naprawdę bez przerw: nie ma pauzy, kliknięcia ani trzasku między utworami. Silnik wstępnie buforuje i dekoduje następny utwór, gdy bieżący gra, i przełącza się między próbkami audio na ciągłym buforze pierścieniowym, więc przejście jest niesłyszalne. Działa z plikami lokalnymi, strumieniami z chmury i serwerami multimediów i jest idealne do albumów koncertowych, miksów DJ i albumów koncepcyjnych.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Jakie efekty audio zawiera Evermusic 8.7?" closed="true" %}}
+{{% ls-details title="Jakie efekty audio zawiera Evermusic 8.7?" closed="true" %}}
 Pięć efektów działających w czasie rzeczywistym: **pogłos** (13 presetów pomieszczeń, miks wet/dry), **opóźnienie/echo** (10 presetów z czasem opóźnienia, sprzężeniem zwrotnym, filtrem dolnoprzepustowym i miksem), **przester** (22 presety charakterystyczne z wzmocnieniem wstępnym i miksem), **kompresor** (pełny procesor dynamiki z progiem, współczynnikiem, atakiem, zwolnieniem, ekspansją i wzmocnieniem wyrównawczym plus 10 presetów) oraz **crossfeed** (crossfeed słuchawkowy Bauer bs2b ze sterowaniem poziomem i częstotliwością odcięcia oraz 6 presetami). Każdy efekt jest dostarczany z wyselekcjonowanymi presetami, a Twoje własne ustawienia są zapamiętywane między sesjami.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Czym jest crossfeed i dlaczego miałbym go używać?" closed="true" %}}
+{{% ls-details title="Czym jest crossfeed i dlaczego miałbym go używać?" closed="true" %}}
 Crossfeed miesza niewielką, przefiltrowaną część każdego kanału stereo z drugim, tak jak Twoje uszy naturalnie słyszą prawdziwe głośniki w pomieszczeniu. W słuchawkach redukuje to przesadną separację „w głowie" mocno rozpanoramowanych nagrań i sprawia, że długie słuchanie jest wygodniejsze. Evermusic wykorzystuje znany algorytm Bauer stereophonic-to-binaural (bs2b) i zawiera presety takie jak Chu Moy i Jan Meier. Jest szczególnie skuteczny przy starszych miksach stereo z lat 60. i 70.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Jak działa normalizacja głośności w Evermusic?" closed="true" %}}
+{{% ls-details title="Jak działa normalizacja głośności w Evermusic?" closed="true" %}}
 Evermusic 8.7 mierzy postrzeganą głośność każdego utworu za pomocą standardu EBU R128 (ITU-R BS.1770) w czasie rzeczywistym i delikatnie dostosowuje poziom do spójnego celu, aby utwory nie skakały w głośności. Nie wymaga znaczników ReplayGain i nie zmienia Twoich plików. Dostępne są cztery presety — Lekki (−20 LUFS), Standardowy (−16 LUFS), Mocny (−14 LUFS) i Nocny (−23 LUFS) — a normalizacja resetuje się czysto, gdy przewijasz lub zmieniasz utwory.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Czy normalizacja głośności w Evermusic to to samo co ReplayGain?" closed="true" %}}
+{{% ls-details title="Czy normalizacja głośności w Evermusic to to samo co ReplayGain?" closed="true" %}}
 Osiąga ten sam cel — spójną głośność między utworami — ale działa inaczej. ReplayGain polega na znacznikach głośności zapisanych w plikach. Normalizator Evermusic mierzy głośność na żywo za pomocą EBU R128, więc działa na dowolnym źródle, w tym strumieniach z chmury i radiu internetowym, nawet gdy pliki w ogóle nie mają znaczników.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Ile pasm ma korektor Evermusic i czy mogę tworzyć własne presety?" closed="true" %}}
+{{% ls-details title="Ile pasm ma korektor Evermusic i czy mogę tworzyć własne presety?" closed="true" %}}
 Korektor Evermusic to 10-pasmowy korektor graficzny pokrywający od 32 Hz do 16 kHz, z każdym pasmem regulowanym od −12 dB do +12 dB w krokach 0,1 dB i przedwzmacniaczem od −24 dB do +24 dB. Zawiera wbudowane presety, pozwala tworzyć i zapisywać własne presety oraz obsługuje importowanie i eksportowanie presetów jako plików .eqp, dzięki czemu możesz je przenosić lub udostępniać między urządzeniami.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Co się zmieniło w korektorze Evermusic 8.7?" closed="true" %}}
+{{% ls-details title="Co się zmieniło w korektorze Evermusic 8.7?" closed="true" %}}
 Korektor został przeprojektowany z nowymi, bardziej precyzyjnymi suwakami, które przyjmują wygląd systemowego suwaka iOS 26 i Liquid Glass, szybszym i płynniejszym przełączaniem presetów oraz lepszym układem w orientacji poziomej i na iPad (poziomy pasek presetów w orientacji pionowej i pionowa kolumna presetów w poziomej). Obsługiwane są własne presety oraz import/eksport .eqp.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Czy Evermusic 8.7 obsługuje FLAC i Ogg Vorbis?" closed="true" %}}
+{{% ls-details title="Czy Evermusic 8.7 obsługuje FLAC i Ogg Vorbis?" closed="true" %}}
 Tak. Przebudowany silnik odtwarza FLAC (przez Core Audio) i Ogg Vorbis (przez libvorbisfile), wraz z MP3, AAC, Apple Lossless (ALAC), WAV, AIFF, AC-3, CAF i innymi, z plików lokalnych, dysków w chmurze i serwerów multimediów.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Co poprawiono w CarPlay i na ekranie blokady?" closed="true" %}}
+{{% ls-details title="Co poprawiono w CarPlay i na ekranie blokady?" closed="true" %}}
 Okładki albumów CarPlay ładują się kilka razy szybciej na długich listach i pojawiają się teraz w kompaktowych wierszach listy iOS 26, które wcześniej ich nie pokazywały. Informacje Teraz odtwarzane na ekranie blokady i w CarPlay są dokładniejsze — tytuł, czas, który upłynął, czas trwania oraz stan odtwarzania/pauzy są przechwytywane razem, więc nie mogą być sprzeczne, a stany buforowania są raportowane poprawnie. Sterowanie zdalne (odtwarzanie, pauza, następny, poprzedni, przewijanie, tryb losowy, powtarzanie, tempo) reaguje niezawodnie ze słuchawek i z samochodu, a sortowanie CarPlay na dużych bibliotekach jest szybsze.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Czy efekty audio i korektor działają ze strumieniowaniem z chmury i CarPlay?" closed="true" %}}
+{{% ls-details title="Czy efekty audio i korektor działają ze strumieniowaniem z chmury i CarPlay?" closed="true" %}}
 Tak. Efekty, korektor i normalizacja głośności działają natywnie wewnątrz silnika odtwarzania, więc stosują się do wszystkiego, co Evermusic odtwarza — plików lokalnych, dysków w chmurze, serwerów multimediów i radia internetowego — i działają dalej podczas odtwarzania przez CarPlay oraz, tam gdzie jest to obsługiwane, przez AirPlay i Chromecast.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Czy aktualizacja Evermusic 8.7 jest darmowa i które urządzenia obsługuje?" closed="true" %}}
+{{% ls-details title="Czy aktualizacja Evermusic 8.7 jest darmowa i które urządzenia obsługuje?" closed="true" %}}
 Tak. Evermusic jest darmowy do pobrania z App Store, a 8.7 to darmowa aktualizacja dla istniejących użytkowników, z opcjonalnymi ulepszeniami w aplikacji dla zaawansowanych funkcji. Działa na iPhone, iPad i Mac. CarPlay wymaga pojazdu lub zestawu głównego zgodnego z CarPlay.
-{{% /details %}}
+{{% /ls-details %}}

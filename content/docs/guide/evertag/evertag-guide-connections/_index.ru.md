@@ -15,7 +15,7 @@ readingTime: 11
 На этом экране можно подключить различные источники, содержащие аудиофайлы. Вы можете интегрировать популярные облачные сервисы, такие как Google Drive, Dropbox, OneDrive, iCloud и другие, а также подключить Mac или PC. Кроме того, можно редактировать аудиофайлы, расположенные в Apple Time Capsule, WD Cloud Home или любом NAS с поддержкой SMB или WebDAV.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evertag Connections Screen" image="/docs/guide/evertag/img/connections.webp" >}}
+  {{< ls-card title="" subtitle="Evertag Connections Screen" image="/docs/guide/evertag/img/connections.webp" >}}
 {{< /cards >}}
 
 ## Быстрый доступ
@@ -151,7 +151,7 @@ iTunes File Sharing — ещё одна технология, позволяющ
 - **Сетка/Список**: переключение между двумя режимами просмотра: таблицей и миниатюрами. Таблица показывает файлы в виде списка, а режим миниатюр отображает визуальные представления файлов.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evertag Cloud Folder Sort" image="/docs/guide/evertag/img/cloud-storage-sort.webp" >}}
+  {{< ls-card title="" subtitle="Evertag Cloud Folder Sort" image="/docs/guide/evertag/img/cloud-storage-sort.webp" >}}
 {{< /cards >}}
 
 ## Редактирование онлайн-файлов
@@ -163,7 +163,7 @@ iTunes File Sharing — ещё одна технология, позволяющ
 - **Выполнение различных действий**: после выбора файлов или папок для управления станут доступны несколько действий:
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evertag File Select" image="/docs/guide/evertag/img/cloud-storage-file-select.webp" >}}
+  {{< ls-card title="" subtitle="Evertag File Select" image="/docs/guide/evertag/img/cloud-storage-file-select.webp" >}}
 {{< /cards >}}
 
 ## Действия с файлом
@@ -180,7 +180,7 @@ iTunes File Sharing — ещё одна технология, позволяющ
 - **Удалить**: будьте осторожны с этим действием — оно безвозвратно удаляет файл из облачного хранилища. **Это удаление нельзя отменить**.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evertag File Options" image="/docs/guide/evertag/img/cloud-storage-file-options.webp" >}}
+  {{< ls-card title="" subtitle="Evertag File Options" image="/docs/guide/evertag/img/cloud-storage-file-options.webp" >}}
 {{< /cards >}}
 
 Если список действий не помещается на экране, просто прокрутите вниз в меню действий для доступа к дополнительным параметрам.
@@ -196,5 +196,5 @@ iTunes File Sharing — ещё одна технология, позволяющ
 - **Удалить**: будьте осторожны с этим действием — оно безвозвратно удаляет папку и её содержимое из облачного хранилища. **Это действие нельзя отменить**.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evertag Folder Options" image="/docs/guide/evertag/img/cloud-storage-folder-options.webp" >}}
+  {{< ls-card title="" subtitle="Evertag Folder Options" image="/docs/guide/evertag/img/cloud-storage-folder-options.webp" >}}
 {{< /cards >}}

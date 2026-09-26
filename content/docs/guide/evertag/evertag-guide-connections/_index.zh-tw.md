@@ -15,7 +15,7 @@ readingTime: 11
 在此畫面上，您可以連接各種包含音訊檔案的來源。您可以整合 Google Drive、Dropbox、OneDrive、iCloud 等熱門雲端服務，以及連接您的 Mac 或 PC。此外，您還可以選擇編輯存放在 Apple Time Capsule、WD Cloud Home 或任何支援 SMB 或 WebDAV 的 NAS 上的音訊檔案。
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evertag Connections Screen" image="/docs/guide/evertag/img/connections.webp" >}}
+  {{< ls-card title="" subtitle="Evertag Connections Screen" image="/docs/guide/evertag/img/connections.webp" >}}
 {{< /cards >}}
 
 ## 快速存取
@@ -151,7 +151,7 @@ iTunes File Sharing 是另一種技術，允許您使用 Mac 上的 Finder 應�
 - **格狀/清單檢視**：在表格檢視和縮圖檢視之間切換。
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evertag Cloud Folder Sort" image="/docs/guide/evertag/img/cloud-storage-sort.webp" >}}
+  {{< ls-card title="" subtitle="Evertag Cloud Folder Sort" image="/docs/guide/evertag/img/cloud-storage-sort.webp" >}}
 {{< /cards >}}
 
 ## 編輯線上檔案
@@ -163,7 +163,7 @@ iTunes File Sharing 是另一種技術，允許您使用 Mac 上的 Finder 應�
 - **執行各種操作**：選擇檔案或資料夾後，您將可以存取針對您需求量身定制的多種操作。
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evertag File Select" image="/docs/guide/evertag/img/cloud-storage-file-select.webp" >}}
+  {{< ls-card title="" subtitle="Evertag File Select" image="/docs/guide/evertag/img/cloud-storage-file-select.webp" >}}
 {{< /cards >}}
 
 ## 檔案操作
@@ -180,7 +180,7 @@ iTunes File Sharing 是另一種技術，允許您使用 Mac 上的 Finder 應�
 - **刪除**：此操作會從雲端儲存中永久刪除檔案。**此刪除操作無法復原**。
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evertag File Options" image="/docs/guide/evertag/img/cloud-storage-file-options.webp" >}}
+  {{< ls-card title="" subtitle="Evertag File Options" image="/docs/guide/evertag/img/cloud-storage-file-options.webp" >}}
 {{< /cards >}}
 
 如果操作清單超出畫面可用空間，只需在操作選單中向下捲動即可存取更多選項。
@@ -196,5 +196,5 @@ iTunes File Sharing 是另一種技術，允許您使用 Mac 上的 Finder 應�
 - **刪除**：此操作會從雲端儲存中永久刪除資料夾及其內容。**此操作無法復原**。
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evertag Folder Options" image="/docs/guide/evertag/img/cloud-storage-folder-options.webp" >}}
+  {{< ls-card title="" subtitle="Evertag Folder Options" image="/docs/guide/evertag/img/cloud-storage-folder-options.webp" >}}
 {{< /cards >}}

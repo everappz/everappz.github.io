@@ -12,7 +12,7 @@ authors:
     image: "/images/about/artem-meleshko-founder-everappz.webp"
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 ## Evermusic：iPhone 和 iPad 雲端音樂播放器
 
@@ -22,7 +22,7 @@ Evermusic 是一款雲端音樂播放器，連接您的個人雲端儲存並將�
 
 ## 觀看宣傳影片
 
-{{< youtubecard id="BwD0XLgdzEE" title="Evermusic Promo Video" >}}
+{{< ls-youtubecard id="BwD0XLgdzEE" title="Evermusic Promo Video" >}}
 
 ## 影片中展示的關鍵功能
 
@@ -36,14 +36,14 @@ Evermusic 是一款雲端音樂播放器，連接您的個人雲端儲存並將�
 
 ## 常見問題
 
-{{% details title="什麼是 Evermusic？" closed="true" %}}
+{{% ls-details title="什麼是 Evermusic？" closed="true" %}}
 Evermusic 是一款適用於 iPhone 和 iPad 的雲端音樂播放器。它連接到 Dropbox、Google Drive 和 OneDrive 等雲端儲存服務，讓您串流和下載自己的音樂檔案。支援 FLAC、MP3、AAC、WAV 和其他音訊格式。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Evermusic 可以免費下載嗎？" closed="true" %}}
+{{% ls-details title="Evermusic 可以免費下載嗎？" closed="true" %}}
 可以。Evermusic 提供基本功能免費下載。一次性 Premium 升級可解鎖等化器、交叉淡入淡出和額外的雲端帳戶連線。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Evermusic 支援哪些雲端服務？" closed="true" %}}
+{{% ls-details title="Evermusic 支援哪些雲端服務？" closed="true" %}}
 Evermusic 支援超過 12 個雲端平台，包括 iCloud Drive、Dropbox、Google Drive、OneDrive、Box、MEGA、Yandex.Disk、pCloud 以及任何執行 WebDAV 或 SMB 協定的伺服器。
-{{% /details %}}
+{{% /ls-details %}}

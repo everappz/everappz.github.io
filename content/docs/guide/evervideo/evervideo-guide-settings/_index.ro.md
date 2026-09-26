@@ -23,7 +23,7 @@ readingTime: 16
 Ecranul Setări este centrul de control al Evervideo. De aici puteți face upgrade la Premium, configura motoarele video și audio (codecuri de sistem sau FFmpeg), gestiona Picture-in-Picture, configura subtitrări (primare, secundare, libass, fișiere externe, fonturi), organiza biblioteca media, configura managerul de fișiere, activa widget-uri pe ecranul principal, face backup datelor și accesa ajutor și informații legale. Secțiunile sunt grupate sub anteturi: Achiziții și Actualizări, Preferințe aplicație, Ajutor, Legal și Confidențialitate.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Ecranul Principal Setări Evervideo" image="/docs/guide/evervideo/img/evervideo-settings.webp" >}}
+  {{< ls-card title="" subtitle="Ecranul Principal Setări Evervideo" image="/docs/guide/evervideo/img/evervideo-settings.webp" >}}
 {{< /cards >}}
 
 ## Upgrade la Premium
@@ -31,13 +31,13 @@ Ecranul Setări este centrul de control al Evervideo. De aici puteți face upgra
 Faceți upgrade la versiunea Premium pentru a elimina toate limitele. Versiunea gratuită a aplicației oferă o achiziție unică pe viață și două opțiuni de abonament (1 lună și 1 an) pentru a elimina toate restricțiile și a face upgrade la Premium.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evervideo — Upgrade la Premium" image="/docs/guide/evervideo/img/evervideo-upgrade-to-premium.webp" >}}
+  {{< ls-card title="" subtitle="Evervideo — Upgrade la Premium" image="/docs/guide/evervideo/img/evervideo-upgrade-to-premium.webp" >}}
 {{< /cards >}}
 
 **Family Sharing** este activat pentru toate achizițiile și planurile, astfel puteți partaja versiunea Premium cu până la cinci membri ai familiei fără costuri suplimentare.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evervideo — Selectare Plan Premium" image="/docs/guide/evervideo/img/evervideo-select-premium-plan.webp" >}}
+  {{< ls-card title="" subtitle="Evervideo — Selectare Plan Premium" image="/docs/guide/evervideo/img/evervideo-select-premium-plan.webp" >}}
 {{< /cards >}}
 
 ## Partajarea Achizițiilor între iOS și Mac
@@ -51,7 +51,7 @@ Puteți toca și butonul **Restaurare Achiziții** în setările aplicației. As
 Pentru a restaura achiziția pe un dispozitiv nou, folosiți meniul **Achiziții → Restaurare Achiziții**. Veți vedea lista achizițiilor dvs. Dacă nu le vedeți pe toate, confirmați că dispozitivul este conectat la același Apple ID care a fost folosit pentru achiziții și asigurați-vă că iCloud este activat.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Meniul Achiziții în Setările Evervideo" image="/docs/guide/evervideo/img/evervideo-purhases-menu-in-settings.webp" >}}
+  {{< ls-card title="" subtitle="Meniul Achiziții în Setările Evervideo" image="/docs/guide/evervideo/img/evervideo-purhases-menu-in-settings.webp" >}}
 {{< /cards >}}
 
 ## Încercați Premium Gratuit

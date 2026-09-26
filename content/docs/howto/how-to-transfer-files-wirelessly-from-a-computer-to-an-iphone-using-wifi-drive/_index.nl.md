@@ -7,7 +7,7 @@ keywords: ["draadloos bestanden overzetten naar iPhone", "Wi-Fi Drive bestandsov
 readingTime: 2
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **TL;DR:** Wi-Fi Drive laat u bestanden overzetten van elke computer naar uw iPhone of iPad via Wi-Fi -- geen iTunes of kabels nodig. Gebruik een webbrowser, Mac Finder of Windows File Explorer. Beide apparaten moeten op hetzelfde Wi-Fi-netwerk zijn aangesloten.
@@ -18,7 +18,7 @@ U kunt bestanden draadloos overzetten met een desktop webbrowser of een WebDAV-c
 
 U kunt een videotutorial bekijken van [**TECHGUYPH**](https://www.youtube.com/channel/UCgpf09gGFE_c_3pPTtTpnzg) of de tekstversie hieronder lezen.
 <br><br>
-{{< youtubecard id="CqdqrQ0ge70" title="Can We Wirelessly Put Offline Music on iPhones?" >}}
+{{< ls-youtubecard id="CqdqrQ0ge70" title="Can We Wirelessly Put Offline Music on iPhones?" >}}
 
 ## Bestanden draadloos overzetten van de computer met een desktop webbrowser
 
@@ -90,26 +90,26 @@ Geen iTunes nodig!
 
 ## Veelgestelde vragen
 
-{{% details title="Heb ik iTunes nodig om bestanden naar mijn iPhone over te zetten?" closed="true" %}}
+{{% ls-details title="Heb ik iTunes nodig om bestanden naar mijn iPhone over te zetten?" closed="true" %}}
 Nee. Wi-Fi Drive zet bestanden rechtstreeks over via uw lokale Wi-Fi-netwerk. iTunes is niet vereist.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Welke apps ondersteunen Wi-Fi Drive?" closed="true" %}}
+{{% ls-details title="Welke apps ondersteunen Wi-Fi Drive?" closed="true" %}}
 Wi-Fi Drive is beschikbaar in Evermusic, Flacbox, Evertag en Evervideo voor iOS.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Moeten beide apparaten op hetzelfde Wi-Fi-netwerk zitten?" closed="true" %}}
+{{% ls-details title="Moeten beide apparaten op hetzelfde Wi-Fi-netwerk zitten?" closed="true" %}}
 Ja. Uw computer en iPhone of iPad moeten verbonden zijn met hetzelfde lokale Wi-Fi-netwerk om Wi-Fi Drive te laten werken.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Kan ik hele mappen overzetten, niet alleen individuele bestanden?" closed="true" %}}
+{{% ls-details title="Kan ik hele mappen overzetten, niet alleen individuele bestanden?" closed="true" %}}
 Ja. Wi-Fi Drive ondersteunt het uploaden en downloaden van hele mappen via de webbrowserinterface.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Werkt Wi-Fi Drive met Windows?" closed="true" %}}
+{{% ls-details title="Werkt Wi-Fi Drive met Windows?" closed="true" %}}
 Ja. U kunt elke webbrowser op Windows gebruiken of verbinding maken via Windows File Explorer met het WebDAV-protocol.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Kan ik een USB-kabel gebruiken om de overdracht te versnellen?" closed="true" %}}
+{{% ls-details title="Kan ik een USB-kabel gebruiken om de overdracht te versnellen?" closed="true" %}}
 Ja. Als uw iPhone via USB met uw Mac is verbonden terwijl Wi-Fi Drive actief is, zal de overdracht de kabelverbinding gebruiken voor snellere snelheden.
-{{% /details %}}
+{{% /ls-details %}}

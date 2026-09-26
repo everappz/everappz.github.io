@@ -15,7 +15,7 @@ readingTime: 11
 إدارة مكتبة الموسيقى أمر سهل مع Evermusic، حيث يمكنك تنظيم جميع مقطوعاتك بسهولة. لديك خياران لبناء مكتبة الموسيقى: الإضافة اليدوية أو المزامنة التلقائية.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="شاشة مكتبة الموسيقى في Evermusic" image="/docs/guide/evermusic/evermusic-guide-music-library/img/music-library-main.webp" >}}
+  {{< ls-card title="" subtitle="شاشة مكتبة الموسيقى في Evermusic" image="/docs/guide/evermusic/evermusic-guide-music-library/img/music-library-main.webp" >}}
 {{< /cards >}}
 
 ## الإضافة اليدوية
@@ -23,7 +23,7 @@ readingTime: 11
 لإضافة مقطوعات يدويًا، انقر على عنصر القائمة "إضافة موسيقى" وحدد المجلدات/الملفات من خدمة التخزين السحابي المتصلة أو الملفات الموجودة على جهازك. عند إضافة مقطوعات إلى المكتبة، تُنشأ فقط روابط لتلك المقطوعات، مع الحفاظ على الملفات الفعلية في مواقعها الأصلية لتوفير مساحة القرص الثمينة. إذا أردت جعل المقطوعات متاحة بدون اتصال، يمكنك استخدام إجراء التنزيل من قائمة الخيارات أو تفعيل وضع عدم الاتصال لقوائم التشغيل ومجموعات المقطوعات.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="إضافة أغانٍ إلى مكتبة الموسيقى" image="/docs/guide/evermusic/evermusic-guide-music-library/img/music-library-add-songs.webp" >}}
+  {{< ls-card title="" subtitle="إضافة أغانٍ إلى مكتبة الموسيقى" image="/docs/guide/evermusic/evermusic-guide-music-library/img/music-library-add-songs.webp" >}}
 {{< /cards >}}
 
 ## الوصول السريع
@@ -75,7 +75,7 @@ readingTime: 11
 يقع أسفل شريط التنقل مباشرة، ويوفر شريط الأدوات العلوي عدة إجراءات مريحة: "بحث" و"تشغيل الكل" و"خلط الكل" و"متابعة التشغيل". يمكنك الكشف عن هذا الشريط أو إخفاؤه بإيماءة السحب لأسفل بسيطة.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="عرض الألبومات — مجمّع حسب علامات الموسيقى" image="/docs/guide/evermusic/evermusic-guide-music-library/img/music-library-albums.webp" >}}
+  {{< ls-card title="" subtitle="عرض الألبومات — مجمّع حسب علامات الموسيقى" image="/docs/guide/evermusic/evermusic-guide-music-library/img/music-library-albums.webp" >}}
 {{< /cards >}}
 
 ## البحث
@@ -83,7 +83,7 @@ readingTime: 11
 تمكّنك ميزة البحث من تحديد مقطوعة أو فنان أو ألبوم أو نوع محدد داخل مكتبة الموسيقى. ضمن "شاشة البحث"، يتوفر لديك الوصول إلى الإجراءات التالية: "ترتيب" و"تصفية" و"شبكة/قائمة".
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="نتائج بحث مكتبة الموسيقى" image="/docs/guide/evermusic/evermusic-guide-music-library/img/music-library-search.webp" >}}
+  {{< ls-card title="" subtitle="نتائج بحث مكتبة الموسيقى" image="/docs/guide/evermusic/evermusic-guide-music-library/img/music-library-search.webp" >}}
 {{< /cards >}}
 
 ## قائمة الخيارات
@@ -91,7 +91,7 @@ readingTime: 11
 كل أغنية في مكتبة الموسيقى لديها قائمة بمزيد من الإجراءات، يمكن الوصول إليها بالنقر على زر النقاط الثلاث بجانب عنوان الأغنية. تختلف هذه الإجراءات حسب ما إذا كانت أغنية واحدة أو جزءًا من مجموعة.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="المزيد من الإجراءات لعنصر في المكتبة" image="/docs/guide/evermusic/evermusic-guide-music-library/img/music-library-item-more-actions.webp" >}}
+  {{< ls-card title="" subtitle="المزيد من الإجراءات لعنصر في المكتبة" image="/docs/guide/evermusic/evermusic-guide-music-library/img/music-library-item-more-actions.webp" >}}
 {{< /cards >}}
 
 ### للأغاني الفردية
@@ -126,7 +126,7 @@ readingTime: 11
 يمكنك تفعيل وضع الاختيار باستخدام زر المزيد من الإجراءات في الزاوية العلوية اليمنى. في هذا الوضع، يمكنك تحديد مقطوعات متعددة وتنفيذ إجراءات متنوعة.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="وضع الاختيار في مكتبة الموسيقى" image="/docs/guide/evermusic/evermusic-guide-music-library/img/music-library-selection-mode.webp" >}}
+  {{< ls-card title="" subtitle="وضع الاختيار في مكتبة الموسيقى" image="/docs/guide/evermusic/evermusic-guide-music-library/img/music-library-selection-mode.webp" >}}
 {{< /cards >}}
 
 ## تجميع العلامات
@@ -146,7 +146,7 @@ readingTime: 11
 عند فتح أقسام الفنان أو فنان الألبوم أو الملحن، يمكنك رؤية محوّل للأغاني/جميع الألبومات/الألبومات الحصرية/الألبومات المنفردة.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="تفاصيل الألبوم مع محوّل الأغاني / الكل / الحصرية / المنفردة" image="/docs/guide/evermusic/evermusic-guide-music-library/img/music-library-album-details.webp" >}}
+  {{< ls-card title="" subtitle="تفاصيل الألبوم مع محوّل الأغاني / الكل / الحصرية / المنفردة" image="/docs/guide/evermusic/evermusic-guide-music-library/img/music-library-album-details.webp" >}}
 {{< /cards >}}
 
 - **الأغاني**: يعرض جميع الأغاني التي تم تعيين هذا الفنان/فنان الألبوم/الملحن في علامات الصوت الخاصة بها.
@@ -167,7 +167,7 @@ readingTime: 11
 انقر على عنصر القائمة "الإعدادات" لتكوين تفضيلات مكتبة الموسيقى.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="إعدادات مكتبة الموسيقى" image="/docs/guide/evermusic/evermusic-guide-music-library/img/music-library-settings.webp" >}}
+  {{< ls-card title="" subtitle="إعدادات مكتبة الموسيقى" image="/docs/guide/evermusic/evermusic-guide-music-library/img/music-library-settings.webp" >}}
 {{< /cards >}}
 
 #### قراءة البيانات الوصفية

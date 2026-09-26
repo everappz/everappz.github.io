@@ -18,7 +18,7 @@ readingTime: 8
 Αυτός ο ενσωματωμένος διαχειριστής αρχείων σας επιτρέπει να επεξεργαστείτε αρχεία και προσφέρει διάφορες μεθόδους για την εισαγωγή αρχείων ήχου στην εφαρμογή.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Οθόνη Τοπικών Αρχείων Evermusic" image="/docs/guide/evermusic/evermusic-guide-local-files/img/local-files-main.webp" >}}
+  {{< ls-card title="" subtitle="Οθόνη Τοπικών Αρχείων Evermusic" image="/docs/guide/evermusic/evermusic-guide-local-files/img/local-files-main.webp" >}}
 {{< /cards >}}
 
 ## Λήψη αρχείων από cloud storage
@@ -38,7 +38,7 @@ readingTime: 8
 Μεταφορά αρχείων μέσω σύνδεσης καλωδίου όπως περιγράφεται [εδώ](/docs/howto/how-to-transfer-files-from-my-mac-to-iphone-or-ipad-using-finder).
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Κοινή Χρήση Αρχείων iTunes / Finder" image="/docs/guide/evermusic/evermusic-guide-local-files/img/local-files-itunes-file-sharing.webp" >}}
+  {{< ls-card title="" subtitle="Κοινή Χρήση Αρχείων iTunes / Finder" image="/docs/guide/evermusic/evermusic-guide-local-files/img/local-files-itunes-file-sharing.webp" >}}
 {{< /cards >}}
 
 ## Wi-Fi Drive
@@ -46,7 +46,7 @@ readingTime: 8
 Ασύρματη μεταφορά αρχείων όπως περιγράφεται [εδώ](/docs/howto/how-to-transfer-files-wirelessly-from-a-computer-to-an-iphone-using-wifi-drive).
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Ρυθμίσεις Server Wi-Fi Drive" image="/docs/guide/evermusic/evermusic-guide-local-files/img/local-files-wifidrive-settings.webp" >}}
+  {{< ls-card title="" subtitle="Ρυθμίσεις Server Wi-Fi Drive" image="/docs/guide/evermusic/evermusic-guide-local-files/img/local-files-wifidrive-settings.webp" >}}
 {{< /cards >}}
 
 ## Ουρά Μεταφορών
@@ -54,7 +54,7 @@ readingTime: 8
 Στην επάνω αριστερή γωνία της γραμμής πλοήγησης θα βρείτε ένα κουμπί 'Μεταφορές'. Πατήστε το για πρόσβαση στην ουρά μεταφορών, όπου μπορείτε να παρακολουθείτε και να διαχειρίζεστε όλες τις λήψεις και μεταφορτώσεις σας. Επιπλέον, έχετε τη δυνατότητα να ρυθμίσετε την ταχύτητα της ουράς μεταφοράς και τον τύπο δικτύου στις ρυθμίσεις εφαρμογής.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Ουρά Μεταφοράς Αρχείων" image="/docs/guide/evermusic/evermusic-guide-local-files/img/local-files-file-transfers.webp" >}}
+  {{< ls-card title="" subtitle="Ουρά Μεταφοράς Αρχείων" image="/docs/guide/evermusic/evermusic-guide-local-files/img/local-files-file-transfers.webp" >}}
 {{< /cards >}}
 
 ## Ενότητα Γρήγορης Πρόσβασης
@@ -66,7 +66,7 @@ readingTime: 8
 Αυτή η ενότητα εμφανίζει όλα τα πρόσφατα ανοιγμένα αρχεία ή φακέλους.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Πρόσφατα Ανοιγμένα Αρχεία και Φάκελοι" image="/docs/guide/evermusic/evermusic-guide-local-files/img/local-files-recents.webp" >}}
+  {{< ls-card title="" subtitle="Πρόσφατα Ανοιγμένα Αρχεία και Φάκελοι" image="/docs/guide/evermusic/evermusic-guide-local-files/img/local-files-recents.webp" >}}
 {{< /cards >}}
 
 ## Αγαπημένα
@@ -74,7 +74,7 @@ readingTime: 8
 Μπορείτε να σημειώσετε αρχεία ή φακέλους ως αγαπημένα και να αποκτήσετε πρόσβαση σε αυτά σε αυτή την ενότητα. Επίσης, μπορείτε να προσθέσετε έναν φάκελο που βρίσκεται στη συσκευή σας στα αγαπημένα σας. Για να το κάνετε αυτό, ανοίξτε την ενότητα αγαπημένων, πατήστε τις τρεις τελείες στην επάνω δεξιά γωνία και επιλέξτε 'Προσθήκη φακέλου'.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Αγαπημένα — Προσθήκη Φακέλου από Τη Συσκευή Σας" image="/docs/guide/evermusic/evermusic-guide-local-files/img/local-files-favorites.webp" >}}
+  {{< ls-card title="" subtitle="Αγαπημένα — Προσθήκη Φακέλου από Τη Συσκευή Σας" image="/docs/guide/evermusic/evermusic-guide-local-files/img/local-files-favorites.webp" >}}
 {{< /cards >}}
 
 ## Επάνω Γραμμή Εργαλείων
@@ -89,7 +89,7 @@ readingTime: 8
 Μπορείτε να εμφανίσετε ή να αποκρύψετε την επάνω γραμμή εργαλείων με χειρονομία σάρωσης προς τα κάτω.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Επάνω Γραμμή Εργαλείων για τον Τρέχοντα Φάκελο" image="/docs/guide/evermusic/evermusic-guide-local-files/img/local-files-top-toolbar.webp" >}}
+  {{< ls-card title="" subtitle="Επάνω Γραμμή Εργαλείων για τον Τρέχοντα Φάκελο" image="/docs/guide/evermusic/evermusic-guide-local-files/img/local-files-top-toolbar.webp" >}}
 {{< /cards >}}
 
 ## Ειδικοί Φάκελοι
@@ -126,7 +126,7 @@ readingTime: 8
 Εμφανίζει αρχεία που βρίσκονται στη συσκευή σας αλλά σε διαφορετικές εφαρμογές. Μπορείτε να τα εισάγετε σε αυτή την εφαρμογή χρησιμοποιώντας το πρόγραμμα επιλογής αρχείων συστήματος. Ενεργοποιήστε το επιλέγοντας 'Άνοιγμα αρχείων...' για αρχεία ή 'Άνοιγμα φακέλων...' για φακέλους. Λεπτομερείς οδηγίες για εισαγωγή τοπικής μουσικής είναι διαθέσιμες [εδώ](/docs/howto/how-to-play-local-music-stored-on-your-iphone-or-mac). Μπορείτε επίσης να συνδέσετε έναν φάκελο στη συσκευή σας χρησιμοποιώντας 'Σύνδεση φακέλου'. Για αποσύνδεση, πατήστε 'Περισσότερες ενέργειες' και επιλέξτε 'Αποσύνδεση'.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Αρχεία σε Αυτό το iPhone / iPad / Mac" image="/docs/guide/evermusic/evermusic-guide-local-files/img/local-files-on-this-device.webp" >}}
+  {{< ls-card title="" subtitle="Αρχεία σε Αυτό το iPhone / iPad / Mac" image="/docs/guide/evermusic/evermusic-guide-local-files/img/local-files-on-this-device.webp" >}}
 {{< /cards >}}
 
 ## Εισαγωγή Αρχείων από Συνδεδεμένες USB Flashcards
@@ -149,7 +149,7 @@ readingTime: 8
 Αν χρειαστεί να επεξεργαστείτε αρκετά αρχεία, ενεργοποιήστε τη λειτουργία επιλογής πατώντας το κουμπί περισσότερων ενεργειών '...' στη γραμμή πλοήγησης και επιλέγοντας 'Επιλογή'. Αυτό θα εμφανίσει πλαίσια ελέγχου κοντά σε κάθε αρχείο. Επιλέξτε τα επιθυμητά αρχεία πατώντας τα πλαίσιά τους. Μπορείτε να εκτελέσετε τις ακόλουθες ενέργειες στα επιλεγμένα αρχεία.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Ενέργειες Λειτουργίας Επιλογής για Τοπικά Αρχεία" image="/docs/guide/evermusic/evermusic-guide-local-files/img/local-files-selection-mode.webp" >}}
+  {{< ls-card title="" subtitle="Ενέργειες Λειτουργίας Επιλογής για Τοπικά Αρχεία" image="/docs/guide/evermusic/evermusic-guide-local-files/img/local-files-selection-mode.webp" >}}
 {{< /cards >}}
 
 - **Αναπαραγωγή επόμενου:** Προσθέστε επιλεγμένα αρχεία ή φακέλους στην κορυφή της ουράς player.
@@ -184,7 +184,7 @@ readingTime: 8
 ## Εκτός σύνδεσης φάκελοι
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Μενού Περισσότερες Ενέργειες Offline Φακέλου" image="/docs/guide/evermusic/evermusic-guide-local-files/img/local-files-offline-folders.webp" >}}
+  {{< ls-card title="" subtitle="Μενού Περισσότερες Ενέργειες Offline Φακέλου" image="/docs/guide/evermusic/evermusic-guide-local-files/img/local-files-offline-folders.webp" >}}
 {{< /cards >}}
 
 Η λειτουργία εκτός σύνδεσης είναι μια βολική δυνατότητα που σας επιτρέπει να έχετε πρόσβαση στη αγαπημένη σας μουσική ακόμα και όταν δεν είστε συνδεδεμένοι στο διαδίκτυο. Όταν ενεργοποιείτε τη λειτουργία εκτός σύνδεσης για οποιοδήποτε άλμπουμ, καλλιτέχνη, λίστα αναπαραγωγής, είδος ή απομακρυσμένο φάκελο, όλα τα αρχεία θα ληφθούν αυτόματα στη συσκευή σας. Μπορείτε να αποκτήσετε εύκολα πρόσβαση σε αυτά στην ενότητα 'Εκτός σύνδεσης φακέλοι' της εφαρμογής.
@@ -198,7 +198,7 @@ readingTime: 8
 Σχεδόν κάθε συμπεριφορά της οθόνης Τοπικά Αρχεία είναι διαμορφώσιμη στις **Ρυθμίσεις → Διαχειριστής αρχείων**.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Οθόνη Ρυθμίσεων Διαχειριστή Αρχείων" image="/docs/guide/evermusic/evermusic-guide-local-files/img/local-files-file-manager-settings.webp" >}}
+  {{< ls-card title="" subtitle="Οθόνη Ρυθμίσεων Διαχειριστή Αρχείων" image="/docs/guide/evermusic/evermusic-guide-local-files/img/local-files-file-manager-settings.webp" >}}
 {{< /cards >}}
 
 ### Μεταφορές αρχείων (τύπος δικτύου)

@@ -15,7 +15,7 @@ readingTime: 11
 Å administrere musikkbiblioteket er enkelt med Evermusic, der du enkelt kan organisere alle låtene dine. Du har to alternativer for å bygge musikkbiblioteket ditt: manuell tillegging eller automatisk synkronisering.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evermusic musikkbibliotek-skjerm" image="/docs/guide/evermusic/evermusic-guide-music-library/img/music-library-main.webp" >}}
+  {{< ls-card title="" subtitle="Evermusic musikkbibliotek-skjerm" image="/docs/guide/evermusic/evermusic-guide-music-library/img/music-library-main.webp" >}}
 {{< /cards >}}
 
 ## Manuell tillegging
@@ -23,7 +23,7 @@ readingTime: 11
 For å legge til låter manuelt, trykk på menyelementet "Legg til musikk" og velg mapper/filer fra den tilkoblede skylagringstjenesten eller filer på enheten din. Når du legger til låter i biblioteket, opprettes bare lenker til disse låtene, noe som bevarer de faktiske filene på de opprinnelige stedene for å spare verdifull diskplass. Hvis du vil gjøre låter tilgjengelige offline, kan du bruke nedlastingshandlingen fra alternativmenyen eller aktivere offline-modus for spillelister og låtsamlinger.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Legg til sanger i musikkbiblioteket" image="/docs/guide/evermusic/evermusic-guide-music-library/img/music-library-add-songs.webp" >}}
+  {{< ls-card title="" subtitle="Legg til sanger i musikkbiblioteket" image="/docs/guide/evermusic/evermusic-guide-music-library/img/music-library-add-songs.webp" >}}
 {{< /cards >}}
 
 ## Hurtig tilgang
@@ -75,7 +75,7 @@ Når du legger til låter i musikkbiblioteket, leser appen automatisk lydtaggern
 Rett under navigasjonsbjelken tilbyr den øverste verktøylinjen flere praktiske handlinger: "Søk", "Spill alle", "Bland alle" og "Fortsett avspilling". Du kan vise eller skjule denne verktøylinjen med en enkel sveipebevegelse nedover.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Albumvisning — Gruppert etter musikktagger" image="/docs/guide/evermusic/evermusic-guide-music-library/img/music-library-albums.webp" >}}
+  {{< ls-card title="" subtitle="Albumvisning — Gruppert etter musikktagger" image="/docs/guide/evermusic/evermusic-guide-music-library/img/music-library-albums.webp" >}}
 {{< /cards >}}
 
 ## Søk
@@ -83,7 +83,7 @@ Rett under navigasjonsbjelken tilbyr den øverste verktøylinjen flere praktiske
 Søkefunksjonen gir deg muligheten til å finne en bestemt låt, artist, album eller sjanger i musikkbiblioteket ditt. På "Søkeskjermen" har du tilgang til følgende handlinger: "Sorter", "Filter", "Rutenett/Liste".
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Søkeresultater i musikkbibliotek" image="/docs/guide/evermusic/evermusic-guide-music-library/img/music-library-search.webp" >}}
+  {{< ls-card title="" subtitle="Søkeresultater i musikkbibliotek" image="/docs/guide/evermusic/evermusic-guide-music-library/img/music-library-search.webp" >}}
 {{< /cards >}}
 
 ## Alternativer-meny
@@ -91,7 +91,7 @@ Søkefunksjonen gir deg muligheten til å finne en bestemt låt, artist, album e
 Hver sang i musikkbiblioteket ditt har en meny med flere handlinger, tilgjengelig ved å trykke på tre-prikkersknappen ved siden av sangtittelen. Disse handlingene varierer avhengig av om det er en enkelt sang eller del av en samling.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flere handlinger for et bibliotekelement" image="/docs/guide/evermusic/evermusic-guide-music-library/img/music-library-item-more-actions.webp" >}}
+  {{< ls-card title="" subtitle="Flere handlinger for et bibliotekelement" image="/docs/guide/evermusic/evermusic-guide-music-library/img/music-library-item-more-actions.webp" >}}
 {{< /cards >}}
 
 ### For individuelle sanger
@@ -126,7 +126,7 @@ For sangsamlinger som Album, Artister, Sjangre eller Komponister inkluderer alte
 Du kan aktivere valgmodus ved hjelp av Flere handlinger-knappen øverst til høyre. I denne modusen kan du velge flere låter og utføre ulike handlinger.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Valgmodus i musikkbiblioteket" image="/docs/guide/evermusic/evermusic-guide-music-library/img/music-library-selection-mode.webp" >}}
+  {{< ls-card title="" subtitle="Valgmodus i musikkbiblioteket" image="/docs/guide/evermusic/evermusic-guide-music-library/img/music-library-selection-mode.webp" >}}
 {{< /cards >}}
 
 ## Taggergruppering
@@ -146,7 +146,7 @@ Disse kategoriene hjelper deg med å organisere låtene etter musikktagger: Sang
 Når du åpner seksjonene Artist, Albumartist eller Komponist, kan du se en bryter for Sanger/Alle album/Eksklusive album/Solo-album.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Albumdetaljer med Sanger / Alle / Eksklusive / Solo-bryter" image="/docs/guide/evermusic/evermusic-guide-music-library/img/music-library-album-details.webp" >}}
+  {{< ls-card title="" subtitle="Albumdetaljer med Sanger / Alle / Eksklusive / Solo-bryter" image="/docs/guide/evermusic/evermusic-guide-music-library/img/music-library-album-details.webp" >}}
 {{< /cards >}}
 
 - **Sanger**: Viser alle sanger der denne Artist/Albumartist/Komponist er angitt i lydtaggerne.
@@ -167,7 +167,7 @@ Du kan bruke denne funksjonen for å raskt finne en sang, artist, album eller sj
 Trykk på menyelementet "Innstillinger" for å konfigurere preferansene for musikkbiblioteket.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Innstillinger for musikkbibliotek" image="/docs/guide/evermusic/evermusic-guide-music-library/img/music-library-settings.webp" >}}
+  {{< ls-card title="" subtitle="Innstillinger for musikkbibliotek" image="/docs/guide/evermusic/evermusic-guide-music-library/img/music-library-settings.webp" >}}
 {{< /cards >}}
 
 #### Lese metadata

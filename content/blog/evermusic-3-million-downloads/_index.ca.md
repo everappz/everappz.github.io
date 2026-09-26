@@ -12,7 +12,7 @@ authors:
     image: "/images/about/artem-meleshko-founder-everappz.webp"
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 ## 3 milions de descàrregues
 
@@ -98,22 +98,22 @@ Evermusic és gratuït a l'App Store amb funcions premium opcionals.
 
 ## Preguntes freqüents
 
-{{% details title="Evermusic és gratuït?" closed="true" %}}
+{{% ls-details title="Evermusic és gratuït?" closed="true" %}}
 Sí. Evermusic és gratuït per descarregar amb les funcions bàsiques disponibles sense cost. Les funcions premium com l'equalitzador i les opcions avançades al núvol estan disponibles mitjançant una actualització opcional.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Pot Evermusic reproduir audiollibres?" closed="true" %}}
+{{% ls-details title="Pot Evermusic reproduir audiollibres?" closed="true" %}}
 Sí. Evermusic desa la posició de reproducció, admet marcadors, velocitat de reproducció ajustable (0.5x a 2.0x) i temporitzadors de son, fent-lo adequat per a audiollibres i podcasts.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="A quins serveis al núvol es connecta Evermusic?" closed="true" %}}
+{{% ls-details title="A quins serveis al núvol es connecta Evermusic?" closed="true" %}}
 Dropbox, Google Drive, OneDrive, Box, MEGA, Yandex.Disk, MyDrive, pCloud, HiDrive, comparticions de fitxers SMB i servidors WebDAV.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Puc utilitzar una targeta SD amb Evermusic?" closed="true" %}}
+{{% ls-details title="Puc utilitzar una targeta SD amb Evermusic?" closed="true" %}}
 Sí. Connecta un lector de targetes SD Lightning o USB-C al teu iPhone o iPad i reprodueix música directament des de la targeta a través d'Evermusic.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Funciona Evermusic al Mac?" closed="true" %}}
+{{% ls-details title="Funciona Evermusic al Mac?" closed="true" %}}
 Sí. Evermusic està disponible tant per a iOS com per a macOS, amb reproducció al núvol i reproducció fora de línia a totes les plataformes.
-{{% /details %}}
+{{% /ls-details %}}

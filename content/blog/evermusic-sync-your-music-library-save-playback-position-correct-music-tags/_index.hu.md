@@ -12,7 +12,7 @@ authors:
     image: "/images/about/artem-meleshko-founder-everappz.webp"
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 ![](/blog/evermusic-sync-your-music-library-save-playback-position-correct-music-tags/21260c_641f376e779e47d4927b43c210d3c87f~mv2.jpeg)
 
@@ -67,22 +67,22 @@ Az Evermusic online adatbázisok segítségével felismeri és kijavítja az ér
 
 ## Gyakran ismételt kérdések
 
-{{% details title="Az Evermusic automatikus szinkronizálása minden felhőszolgáltatással működik?" closed="true" %}}
+{{% ls-details title="Az Evermusic automatikus szinkronizálása minden felhőszolgáltatással működik?" closed="true" %}}
 Igen. Az automatikus szinkronizálás működik a Dropbox-szal, Google Drive-val, OneDrive-val, MEGA-val, WebDAV-val és SMB-vel. Válaszd ki a figyelni kívánt mappákat, és az Evermusic naprakészen tartja a könyvtáradat.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Az Evermusic elmentheti a hangoskönyv pozíciómat?" closed="true" %}}
+{{% ls-details title="Az Evermusic elmentheti a hangoskönyv pozíciómat?" closed="true" %}}
 Igen. Engedélyezd a lejátszási pozíció mentését a hangbeállításokban. Az Evermusic megjegyzi, hol álltál meg minden fájlnál, így manuális könyvjelzők nélkül folytathatod.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Hogyan működik a háttérben futó metaadat-olvasás?" closed="true" %}}
+{{% ls-details title="Hogyan működik a háttérben futó metaadat-olvasás?" closed="true" %}}
 Az Evermusic a háttérben olvassa az ID3 címkéket és fájl metaadatokat, miközben te más funkciókat használsz. Automatikusan rendezi a könyvtáradat Előadó, Album és Műfaj szerint.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Az Evermusic kijavítja a hibás zenei címkéimet?" closed="true" %}}
+{{% ls-details title="Az Evermusic kijavítja a hibás zenei címkéimet?" closed="true" %}}
 Igen. Az automatikus címkejavító funkció online adatbázisokkal ellenőrzi a fájljaidat, és kijavítja az érvénytelen, hiányos vagy hiányzó ID3 metaadatokat.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Ingyenesen letölthető az Evermusic?" closed="true" %}}
+{{% ls-details title="Ingyenesen letölthető az Evermusic?" closed="true" %}}
 Az Evermusic ingyenesen letölthető, opcionális prémium funkciókkal, amelyek alkalmazáson belüli vásárlással érhetők el.
-{{% /details %}}
+{{% /ls-details %}}

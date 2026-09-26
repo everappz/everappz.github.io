@@ -6,7 +6,7 @@ excludeSearch: true
 ---
 
 
-{{< lottie src="/images/juicy-json/juicy-team-analyzes-graphs-and-diagrams.json" width="85%" >}}
+{{< ls-lottie src="/images/juicy-json/juicy-team-analyzes-graphs-and-diagrams.json" width="85%" >}}
 
 Αυτή η ενότητα προσφέρει πρακτικούς οδηγούς, εύκολους να ακολουθηθούν, για τη χρήση των εφαρμογών Everappz.
 
@@ -14,4 +14,4 @@ excludeSearch: true
 
 Εξερευνήστε τα εκπαιδευτικά μας για να επιλύσετε προβλήματα, να μάθετε νέα κόλπα και να αξιοποιήσετε στο μέγιστο την εμπειρία σας με την εφαρμογή.
 
-{{< posts-list path="/docs/howto" >}}
+{{< ls-posts-list path="/docs/howto" >}}

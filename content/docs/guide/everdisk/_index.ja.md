@@ -28,19 +28,19 @@ Everdisk は無料でダウンロードでき、必要に応じて買い切り�
 
 
 {{< cards >}}
-  {{< card icon="play" title="共有" subtitle="スタート をタップし、共有するものを選んで、5 つのサーバーを一度に動かしましょう。共有画面のすべてを最初から最後まで解説します。" link="/docs/guide/everdisk/everdisk-guide-sharing" >}}
+  {{< ls-card icon="play" title="共有" subtitle="スタート をタップし、共有するものを選んで、5 つのサーバーを一度に動かしましょう。共有画面のすべてを最初から最後まで解説します。" link="/docs/guide/everdisk/everdisk-guide-sharing" >}}
 
-  {{< card icon="desktop-computer" title="デバイスを接続する" subtitle="テレビ、Mac や PC、Web ブラウザ、別のスマートフォン、USB ケーブルから共有ファイルに接続する方法。" link="/docs/guide/everdisk/everdisk-guide-connect" >}}
+  {{< ls-card icon="desktop-computer" title="デバイスを接続する" subtitle="テレビ、Mac や PC、Web ブラウザ、別のスマートフォン、USB ケーブルから共有ファイルに接続する方法。" link="/docs/guide/everdisk/everdisk-guide-connect" >}}
 
-  {{< card icon="server" title="サーバーに接続する" subtitle="ネットワーク上の他の DLNA、WebDAV、FTP、SFTP、SMB サーバーや NAS ドライブにアクセスして、閲覧、再生、ダウンロードします。" link="/docs/guide/everdisk/everdisk-guide-devices" >}}
+  {{< ls-card icon="server" title="サーバーに接続する" subtitle="ネットワーク上の他の DLNA、WebDAV、FTP、SFTP、SMB サーバーや NAS ドライブにアクセスして、閲覧、再生、ダウンロードします。" link="/docs/guide/everdisk/everdisk-guide-devices" >}}
 
-  {{< card icon="folder" title="ファイルと書類" subtitle="閲覧、フォルダー作成、名前の変更、移動、コピー、削除、圧縮と解凍、外部フォルダーの接続、そして PDF へのスキャンができます。" link="/docs/guide/everdisk/everdisk-guide-files" >}}
+  {{< ls-card icon="folder" title="ファイルと書類" subtitle="閲覧、フォルダー作成、名前の変更、移動、コピー、削除、圧縮と解凍、外部フォルダーの接続、そして PDF へのスキャンができます。" link="/docs/guide/everdisk/everdisk-guide-files" >}}
 
-  {{< card icon="music-note" title="写真、音楽、動画" subtitle="写真と音楽のライブラリをまるごと共有し、ミニプレーヤーで音声を再生、動画を全画面で視聴できます。" link="/docs/guide/everdisk/everdisk-guide-media" >}}
+  {{< ls-card icon="music-note" title="写真、音楽、動画" subtitle="写真と音楽のライブラリをまるごと共有し、ミニプレーヤーで音声を再生、動画を全画面で視聴できます。" link="/docs/guide/everdisk/everdisk-guide-media" >}}
 
-  {{< card icon="lock-closed" title="アクセスとプライバシー" subtitle="ログインとパスワードで共有を保護し、編集を許可またはブロックし、デバイスをブロックして、すべてをローカルに保ちます。" link="/docs/guide/everdisk/everdisk-guide-access" >}}
+  {{< ls-card icon="lock-closed" title="アクセスとプライバシー" subtitle="ログインとパスワードで共有を保護し、編集を許可またはブロックし、デバイスをブロックして、すべてをローカルに保ちます。" link="/docs/guide/everdisk/everdisk-guide-access" >}}
 
-  {{< card icon="adjustments" title="設定" subtitle="デバイスプロファイル、接続、写真と動画の画質、ポート、転送など、すべての設定を解説します。" link="/docs/guide/everdisk/everdisk-guide-settings" >}}
+  {{< ls-card icon="adjustments" title="設定" subtitle="デバイスプロファイル、接続、写真と動画の画質、ポート、転送など、すべての設定を解説します。" link="/docs/guide/everdisk/everdisk-guide-settings" >}}
 
-  {{< card icon="question-mark-circle" title="FAQ" subtitle="よくある質問と実際の利用シーンに対する手早い回答をまとめました。" link="/docs/faq/everdisk" >}}
+  {{< ls-card icon="question-mark-circle" title="FAQ" subtitle="よくある質問と実際の利用シーンに対する手早い回答をまとめました。" link="/docs/faq/everdisk" >}}
 {{< /cards >}}

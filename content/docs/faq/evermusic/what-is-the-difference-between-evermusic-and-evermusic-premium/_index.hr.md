@@ -62,7 +62,7 @@ Ono što se razlikuje između plave i crvene verzije jest **kako su pakirane u A
 
 ### Preuzmite u App Storeu
 
-{{< app-details ids="885367198, 905746421, 1564384601" >}}
+{{< ls-app-details ids="885367198, 905746421, 1564384601" >}}
 
 ### Pakiranje u App Storeu
 
@@ -142,7 +142,7 @@ Besplatna verzija odlična je za povremene slušatelje, dok su Premium i Pro nam
 
 ## Često postavljana pitanja
 
-{{% details title="Kupio sam Evermusic Pro (ili Premium) sa starim Apple računom. Mogu li ga prenijeti na novi Apple račun?" closed="true" %}}
+{{% ls-details title="Kupio sam Evermusic Pro (ili Premium) sa starim Apple računom. Mogu li ga prenijeti na novi Apple račun?" closed="true" %}}
 Prema Appleovoj službenoj dokumentaciji, kupnje s drugog Apple računa mogu se dijeliti putem obiteljskog dijeljenja / dijeljenja kupnji, pod uvjetom da su računi ispravno postavljeni unutar iste grupe obiteljskog dijeljenja.
 
 Ako je Evermusic Pro kupljen pomoću vašeg starog Apple računa, Apple nudi opciju korištenja tog računa kao sekundarnog Apple računa za dijeljenje kupnji.
@@ -202,30 +202,30 @@ Stoga, ako je postavljanje Appleovog obiteljskog dijeljenja sa starim računom n
 Imajte na umu da Appleovim obiteljskim dijeljenjem, dijeljenjem kupnji, Apple računima i poviješću kupnji u App Storeu u potpunosti upravlja Apple. Mi nemamo pristup Apple računima korisnika i ne možemo prenositi kupnje iz App Storea s jednog Apple računa na drugi s naše strane.
 
 Ako se susretnete s bilo kakvim problemima posebno vezanim uz obiteljsko dijeljenje ili pristup kupnji izvršenoj vašim starim Apple računom, Appleova podrška trebala bi provjeriti konfiguraciju računa.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Već sam nadogradio Evermusic Free (plavi) na Premium. Trebam li i Evermusic Pro (crveni)?" closed="true" %}}
+{{% ls-details title="Već sam nadogradio Evermusic Free (plavi) na Premium. Trebam li i Evermusic Pro (crveni)?" closed="true" %}}
 Ne. Evermusic Pro (crvena ikona) ista je aplikacija kao Evermusic Free (plava ikona) s već otključanim Premiumom. Ako ste već nadogradili plavu aplikaciju na Premium, imate sve što Pro nudi, pa nema potrebe instalirati ili kupovati crvenu aplikaciju.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Je li podržano obiteljsko dijeljenje i koliko osoba može koristiti moju kupnju?" closed="true" %}}
+{{% ls-details title="Je li podržano obiteljsko dijeljenje i koliko osoba može koristiti moju kupnju?" closed="true" %}}
 Da. Obiteljsko dijeljenje radi sa svim Evermusic kupnjama i pretplatama, pa možete dijeliti Premium s do pet članova obitelji. Uključite dijeljenje kupnji u Postavke → Obitelj na svom uređaju. Svaki član obitelji preuzima aplikaciju sa svojim vlastitim Apple računom i automatski dobiva Premium.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Nadogradio sam na Premium na svom iPhoneu, ali moj Mac i dalje prikazuje besplatnu verziju. Kako to popraviti?" closed="true" %}}
+{{% ls-details title="Nadogradio sam na Premium na svom iPhoneu, ali moj Mac i dalje prikazuje besplatnu verziju. Kako to popraviti?" closed="true" %}}
 Premium se dijeli između iPhonea i Maca putem iClouda. Prvo provjerite koriste li oba uređaja isti Apple račun i imaju li uključen iCloud. Na svom iPhoneu otvorite najnoviju verziju Evermusica i pričekajte otprilike minutu kako bi se vaša kupnja prenijela na iCloud. Također možete dotaknuti Vraćanje kupnji u postavkama. Zatim otvorite najnoviju verziju na svom Macu, povežite se na internet i pričekajte otprilike minutu. Premium bi se trebao sam uključiti.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Kako mogu vratiti svoju kupnju na novom uređaju?" closed="true" %}}
+{{% ls-details title="Kako mogu vratiti svoju kupnju na novom uređaju?" closed="true" %}}
 Otvorite Postavke u aplikaciji i dotaknite Vraćanje kupnji. Vidjet ćete svoje kupnje i Premium će se ponovno uključiti. Ako neka kupnja nedostaje, provjerite koristi li uređaj isti Apple račun s kojim ste kupovali i je li iCloud uključen.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Ako instaliram Evermusic Pro (crveni), otključava li to Premium u Evermusic Free (plavom)?" closed="true" %}}
+{{% ls-details title="Ako instaliram Evermusic Pro (crveni), otključava li to Premium u Evermusic Free (plavom)?" closed="true" %}}
 Da. Ako instalirate crveni Evermusic Pro na uređaj, plavi Evermusic Free na istom uređaju to otkriva i automatski uključuje Premium. Ne morate ponovno kupovati Premium u plavoj aplikaciji. Trebate samo zadržati crvenu aplikaciju instaliranom.
 
 Obrnuto ne radi. Kupnja Premiuma unutar plave aplikacije ne čini crveni Evermusic Pro besplatnim, jer su to zasebne aplikacije u App Storeu. Kupnje u plavim aplikacijama sinkroniziraju se putem iClouda između plave iPhone aplikacije i plave Mac aplikacije.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Mogu li koristiti Premium na Intel Macu?" closed="true" %}}
+{{% ls-details title="Mogu li koristiti Premium na Intel Macu?" closed="true" %}}
 Da. Koristite plavu Evermusic Free aplikaciju i nadogradite na Premium. Plava Mac aplikacija radi na oba tipa: Apple Silicon i Intel Macovima. Crveni Evermusic Pro radi samo na Apple Silicon Macovima (M1 i noviji) i ne može se instalirati na Intel Macove.
-{{% /details %}}
+{{% /ls-details %}}

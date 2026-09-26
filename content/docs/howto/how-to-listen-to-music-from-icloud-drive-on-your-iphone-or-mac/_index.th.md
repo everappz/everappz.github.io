@@ -7,7 +7,7 @@ tags: ["เพลง", "คลาวด์", "สตรีมมิ่ง", "เ
 readingTime: 5
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **สรุป:** อัปโหลดเพลงไปยัง iCloud Drive ติดตั้ง [Evermusic](/products/evermusic) (สำหรับ MP3/WAV) หรือ [Flacbox](/products/flacbox) (สำหรับ FLAC/DSD) เชื่อมต่อโฟลเดอร์ iCloud Drive ของคุณ และสตรีมโดยตรงโดยไม่ต้องใช้พื้นที่จัดเก็บของอุปกรณ์
@@ -29,8 +29,8 @@ iPhone ของคุณสามารถเข้าถึงไลบรา�
 1. ไปที่ App Store และดาวน์โหลด **Evermusic** หากเพลงของคุณจัดเก็บในรูปแบบเสียงมาตรฐานเช่น mp3 หรือ wav หากคุณมีเพลงแบบ lossless ในรูปแบบ dsd หรือ flac ให้เลือก **Flacbox** ทั้งสองแอปมีให้บริการทั้งบน iOS และ MacOS
 
 {{< cards >}}
-  {{< card link="https://apps.apple.com/us/app/evermusic-cloud-music-player/id885367198" title="ดาวน์โหลด Evermusic สำหรับ iOS" icon="download" tag="ฟรี" >}}
-  {{< card link="https://apps.apple.com/us/app/flacbox-flac-player-equalizer/id1097564256" title="ดาวน์โหลด Flacbox สำหรับ iOS" icon="download" tag="ฟรี" >}}
+  {{< ls-card link="https://apps.apple.com/us/app/evermusic-cloud-music-player/id885367198" title="ดาวน์โหลด Evermusic สำหรับ iOS" icon="download" tag="ฟรี" >}}
+  {{< ls-card link="https://apps.apple.com/us/app/flacbox-flac-player-equalizer/id1097564256" title="ดาวน์โหลด Flacbox สำหรับ iOS" icon="download" tag="ฟรี" >}}
 {{< /cards >}}
 
 - สำหรับ MacOS:
@@ -38,8 +38,8 @@ iPhone ของคุณสามารถเข้าถึงไลบรา�
 1. เข้าไปที่ App Store บน Mac ของคุณและติดตั้ง **Evermusic** หรือ **Flacbox** ตามรูปแบบเพลงที่คุณต้องการ
 
 {{< cards >}}
-  {{< card link="https://apps.apple.com/us/app/evermusic-cloud-music-player/id1564384601" title="ดาวน์โหลด Evermusic สำหรับ Mac" icon="download" tag="ฟรี" >}}
-  {{< card link="https://apps.apple.com/us/app/flacbox-hires-music-player/id1594027432" title="ดาวน์โหลด Flacbox สำหรับ Mac" icon="download" tag="ฟรี" >}}
+  {{< ls-card link="https://apps.apple.com/us/app/evermusic-cloud-music-player/id1564384601" title="ดาวน์โหลด Evermusic สำหรับ Mac" icon="download" tag="ฟรี" >}}
+  {{< ls-card link="https://apps.apple.com/us/app/flacbox-hires-music-player/id1594027432" title="ดาวน์โหลด Flacbox สำหรับ Mac" icon="download" tag="ฟรี" >}}
 {{< /cards >}}
 
 เมื่อคุณติดตั้งแอปบน iPhone หรือ Mac แล้ว คุณก็พร้อมดำเนินการต่อ
@@ -215,22 +215,22 @@ iPhone ของคุณสามารถเข้าถึงไลบรา�
 
 ## คำถามที่พบบ่อย
 
-{{% details title="ฉันสามารถสตรีมรูปแบบเสียงใดจาก iCloud Drive ได้บ้าง?" closed="true" %}}
+{{% ls-details title="ฉันสามารถสตรีมรูปแบบเสียงใดจาก iCloud Drive ได้บ้าง?" closed="true" %}}
 Evermusic รองรับ MP3, WAV, AAC และรูปแบบมาตรฐานอื่น ๆ Flacbox เพิ่มการรองรับ FLAC, DSD, OGG และ OPUS เลือกแอปที่ตรงกับคอลเลกชันเพลงของคุณ
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="การสตรีมจาก iCloud Drive ใช้พื้นที่จัดเก็บของอุปกรณ์หรือไม่?" closed="true" %}}
+{{% ls-details title="การสตรีมจาก iCloud Drive ใช้พื้นที่จัดเก็บของอุปกรณ์หรือไม่?" closed="true" %}}
 ไม่ ทั้ง Evermusic และ Flacbox สตรีมเสียงโดยตรงจาก iCloud Drive โดยไม่ต้องดาวน์โหลดไฟล์ลงอุปกรณ์ คุณสามารถเลือกดาวน์โหลดแทร็กแต่ละรายการสำหรับการฟังแบบออฟไลน์ได้
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="ฉันสามารถใช้เพลงจาก iCloud Drive แบบออฟไลน์ได้หรือไม่?" closed="true" %}}
+{{% ls-details title="ฉันสามารถใช้เพลงจาก iCloud Drive แบบออฟไลน์ได้หรือไม่?" closed="true" %}}
 ได้ แตะเมนูจุดสามจุดบนแทร็กใด ๆ และเลือกตัวเลือกดาวน์โหลด ไฟล์จะถูกบันทึกลงเครื่องสำหรับการเล่นแบบออฟไลน์
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="ทำไมเพลงของฉันหยุดหรือบัฟเฟอร์ระหว่างการเล่น?" closed="true" %}}
+{{% ls-details title="ทำไมเพลงของฉันหยุดหรือบัฟเฟอร์ระหว่างการเล่น?" closed="true" %}}
 สาเหตุมักเกิดจากการเชื่อมต่ออินเทอร์เน็ตที่ช้าหรือไม่เสถียร เปิดใช้งานแคชเครื่องเล่นเสียงในการตั้งค่าเพื่อดาวน์โหลดแทร็กถัดไปล่วงหน้าและป้องกันการหยุดชะงัก
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="การสตรีมเพลงจาก iCloud Drive ฟรีหรือไม่?" closed="true" %}}
+{{% ls-details title="การสตรีมเพลงจาก iCloud Drive ฟรีหรือไม่?" closed="true" %}}
 ทั้ง Evermusic และ Flacbox ดาวน์โหลดฟรี iCloud Drive มีพื้นที่จัดเก็บฟรี 5 GB คุณสามารถอัปเกรดแผนพื้นที่จัดเก็บ iCloud ผ่าน Apple หากต้องการพื้นที่เพิ่มเติม
-{{% /details %}}
+{{% /ls-details %}}

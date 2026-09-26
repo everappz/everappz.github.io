@@ -74,18 +74,18 @@ Evervideo هو مشغل وسائط سحابي متكامل لأجهزة iPhone �
 
 {{< cards cols="2">}}
 
-{{< card icon="map" link="/docs/guide/evervideo/evervideo-guide-navigation" title="التنقل" subtitle="شريط التبويب على iPhone، القائمة الجانبية على iPad وMac، مشغل وسائط مدمج دائم الظهور." >}}
+{{< ls-card icon="map" link="/docs/guide/evervideo/evervideo-guide-navigation" title="التنقل" subtitle="شريط التبويب على iPhone، القائمة الجانبية على iPad وMac، مشغل وسائط مدمج دائم الظهور." >}}
 
-{{< card icon="folder" link="/docs/guide/evervideo/evervideo-guide-files" title="الملفات" subtitle="تبويب موحد للسحابة وNAS وتدفقات RTSP والملفات المحلية ومحركات USB وقائمة انتظار النقل." >}}
+{{< ls-card icon="folder" link="/docs/guide/evervideo/evervideo-guide-files" title="الملفات" subtitle="تبويب موحد للسحابة وNAS وتدفقات RTSP والملفات المحلية ومحركات USB وقائمة انتظار النقل." >}}
 
-{{< card icon="collection" link="/docs/guide/evervideo/evervideo-guide-video-library" title="مكتبة الوسائط" subtitle="تصفح حسب الألبومات والأنواع والأخيرة والمفضلات — بالإضافة إلى مكتبة الصور iOS ومكتبة Apple Music." >}}
+{{< ls-card icon="collection" link="/docs/guide/evervideo/evervideo-guide-video-library" title="مكتبة الوسائط" subtitle="تصفح حسب الألبومات والأنواع والأخيرة والمفضلات — بالإضافة إلى مكتبة الصور iOS ومكتبة Apple Music." >}}
 
-{{< card icon="music-note" link="/docs/guide/evervideo/evervideo-guide-playlists" title="قوائم التشغيل" subtitle="أنشئ قوائم تشغيل من السحابة أو المحلية أو الصور أو مكتبة الموسيقى، واستورد M3U/M3U8/CUE." >}}
+{{< ls-card icon="music-note" link="/docs/guide/evervideo/evervideo-guide-playlists" title="قوائم التشغيل" subtitle="أنشئ قوائم تشغيل من السحابة أو المحلية أو الصور أو مكتبة الموسيقى، واستورد M3U/M3U8/CUE." >}}
 
-{{< card icon="play" link="/docs/guide/evervideo/evervideo-guide-player" title="مشغل الوسائط" subtitle="صورة داخل صورة، مسارات الصوت والفيديو، الترجمات، معادلات الصوت والفيديو، AirPlay، Chromecast." >}}
+{{< ls-card icon="play" link="/docs/guide/evervideo/evervideo-guide-player" title="مشغل الوسائط" subtitle="صورة داخل صورة، مسارات الصوت والفيديو، الترجمات، معادلات الصوت والفيديو، AirPlay، Chromecast." >}}
 
-{{< card icon="adjustments" link="/docs/guide/evervideo/evervideo-guide-settings" title="الإعدادات" subtitle="محرك الصوت، مفكك ترميز الفيديو، الترجمات، المكتبة، مدير الملفات، الودجات، التخصيص، اللغة، النسخ الاحتياطي." >}}
+{{< ls-card icon="adjustments" link="/docs/guide/evervideo/evervideo-guide-settings" title="الإعدادات" subtitle="محرك الصوت، مفكك ترميز الفيديو، الترجمات، المكتبة، مدير الملفات، الودجات، التخصيص، اللغة، النسخ الاحتياطي." >}}
 
-{{< card icon="question-mark-circle" link="/docs/faq/evervideo" title="الأسئلة الشائعة" subtitle="اعثر على إجابات لأكثر الأسئلة شيوعاً حول Evervideo." >}}
+{{< ls-card icon="question-mark-circle" link="/docs/faq/evervideo" title="الأسئلة الشائعة" subtitle="اعثر على إجابات لأكثر الأسئلة شيوعاً حول Evervideo." >}}
 
 {{< /cards >}}

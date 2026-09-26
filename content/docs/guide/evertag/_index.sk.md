@@ -55,17 +55,17 @@ Buďte pokojní, vaše dáta sú v bezpečí. Evertag vám umožňuje nastaviť 
 V tomto návode zistíte, ako využiť silu Evertag na vašom iPhone, iPad a Mac, čo vám umožní plynulý a príjemný zážitok zo správy hudby.
 
 {{< cards >}}
-  {{< card icon="location-marker" title="Navigácia" subtitle="Naučte sa, ako sa bez námahy orientovať v našej aplikácii pomocou Tab Baru (pre používateľov iPhone) alebo Ľavého menu (pre používateľov iPad a Mac) pre prístup ku všetkým funkciám aplikácie a ich preskúmanie." link="/docs/guide/evertag/evertag-guide-navigation" >}}
+  {{< ls-card icon="location-marker" title="Navigácia" subtitle="Naučte sa, ako sa bez námahy orientovať v našej aplikácii pomocou Tab Baru (pre používateľov iPhone) alebo Ľavého menu (pre používateľov iPad a Mac) pre prístup ku všetkým funkciám aplikácie a ich preskúmanie." link="/docs/guide/evertag/evertag-guide-navigation" >}}
 
-  {{< card icon="cloud" title="Pripojenia" subtitle="Bez námahy prepojte všetky dostupné cloudové účty s vašimi cennými audio súbormi. Môžete dokonca bez námahy upravovať online súbory pomocou nášho integrovaného správcu súborov." link="/docs/guide/evertag/evertag-guide-connections" >}}
+  {{< ls-card icon="cloud" title="Pripojenia" subtitle="Bez námahy prepojte všetky dostupné cloudové účty s vašimi cennými audio súbormi. Môžete dokonca bez námahy upravovať online súbory pomocou nášho integrovaného správcu súborov." link="/docs/guide/evertag/evertag-guide-connections" >}}
 
-  {{< card icon="folder" title="Lokálne súbory" subtitle="Prezerajte a organizujte súbory uložené v priečinku Dokumenty aplikácie alebo na vašom zariadení. Použite vstavaný správca súborov na úpravu a správu audio súborov s ľahkosťou." link="/docs/guide/evertag/evertag-guide-local-files" >}}
+  {{< ls-card icon="folder" title="Lokálne súbory" subtitle="Prezerajte a organizujte súbory uložené v priečinku Dokumenty aplikácie alebo na vašom zariadení. Použite vstavaný správca súborov na úpravu a správu audio súborov s ľahkosťou." link="/docs/guide/evertag/evertag-guide-local-files" >}}
 
-  {{< card icon="pencil-alt" title="Editor tagov" subtitle="Ovládnite umenie manipulácie s metadátami audio súborov. Zistite, ako upravovať metadáta, transformovať obaly albumov a bezproblémovo spravovať viacero súborov súčasne." link="/docs/guide/evertag/evertag-guide-tag-editor" >}}
+  {{< ls-card icon="pencil-alt" title="Editor tagov" subtitle="Ovládnite umenie manipulácie s metadátami audio súborov. Zistite, ako upravovať metadáta, transformovať obaly albumov a bezproblémovo spravovať viacero súborov súčasne." link="/docs/guide/evertag/evertag-guide-tag-editor" >}}
 
-  {{< card icon="code" title="Mapovanie polí tagov" subtitle="Preskúmajte úplný zoznam polí audio tagov podporovaných aplikáciou Evertag, vrátane interných názvov polí a mapovaní naprieč hlavnými formátmi metadát." link="/docs/guide/evertag/evertag-tag-field-mappings" >}}
+  {{< ls-card icon="code" title="Mapovanie polí tagov" subtitle="Preskúmajte úplný zoznam polí audio tagov podporovaných aplikáciou Evertag, vrátane interných názvov polí a mapovaní naprieč hlavnými formátmi metadát." link="/docs/guide/evertag/evertag-tag-field-mappings" >}}
 
-  {{< card icon="adjustments" title="Nastavenia" subtitle="Zistite, ako prispôsobiť zážitok z aplikácie, doladiť výkon, spravovať využitie dát a prispôsobiť jazykové a používateľské rozhranie podľa vašich predstáv." link="/docs/guide/evertag/evertag-guide-settings" >}}
+  {{< ls-card icon="adjustments" title="Nastavenia" subtitle="Zistite, ako prispôsobiť zážitok z aplikácie, doladiť výkon, spravovať využitie dát a prispôsobiť jazykové a používateľské rozhranie podľa vašich predstáv." link="/docs/guide/evertag/evertag-guide-settings" >}}
 
-  {{< card icon="question-mark-circle" title="FAQ" subtitle="Nájdite rýchle odpovede na bežné otázky v našej sekcii FAQ." link="/docs/faq/evertag" >}}
+  {{< ls-card icon="question-mark-circle" title="FAQ" subtitle="Nájdite rýchle odpovede na bežné otázky v našej sekcii FAQ." link="/docs/faq/evertag" >}}
 {{< /cards >}}

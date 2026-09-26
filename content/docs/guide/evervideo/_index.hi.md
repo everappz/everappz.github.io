@@ -74,18 +74,18 @@ Evervideo प्रत्येक क्लाउड प्रदाता स�
 
 {{< cards cols="2">}}
 
-{{< card icon="map" link="/docs/guide/evervideo/evervideo-guide-navigation" title="नेविगेशन" subtitle="iPhone पर टैब बार, iPad और Mac पर बायां मेनू, कॉम्पैक्ट हमेशा-स्क्रीन-पर मीडिया प्लेयर।" >}}
+{{< ls-card icon="map" link="/docs/guide/evervideo/evervideo-guide-navigation" title="नेविगेशन" subtitle="iPhone पर टैब बार, iPad और Mac पर बायां मेनू, कॉम्पैक्ट हमेशा-स्क्रीन-पर मीडिया प्लेयर।" >}}
 
-{{< card icon="folder" link="/docs/guide/evervideo/evervideo-guide-files" title="फाइलें" subtitle="क्लाउड, NAS, RTSP स्ट्रीम, लोकल फाइलें, USB ड्राइव और ट्रांसफर कतार के लिए एक एकीकृत टैब।" >}}
+{{< ls-card icon="folder" link="/docs/guide/evervideo/evervideo-guide-files" title="फाइलें" subtitle="क्लाउड, NAS, RTSP स्ट्रीम, लोकल फाइलें, USB ड्राइव और ट्रांसफर कतार के लिए एक एकीकृत टैब।" >}}
 
-{{< card icon="collection" link="/docs/guide/evervideo/evervideo-guide-video-library" title="मीडिया लाइब्रेरी" subtitle="एल्बम, जेनर, हाल के, पसंदीदा द्वारा ब्राउज़ करें — साथ ही iOS Photos लाइब्रेरी और Apple Music लाइब्रेरी।" >}}
+{{< ls-card icon="collection" link="/docs/guide/evervideo/evervideo-guide-video-library" title="मीडिया लाइब्रेरी" subtitle="एल्बम, जेनर, हाल के, पसंदीदा द्वारा ब्राउज़ करें — साथ ही iOS Photos लाइब्रेरी और Apple Music लाइब्रेरी।" >}}
 
-{{< card icon="music-note" link="/docs/guide/evervideo/evervideo-guide-playlists" title="प्लेलिस्ट" subtitle="क्लाउड, लोकल, Photos या Music लाइब्रेरी से प्लेलिस्ट बनाएं, M3U / M3U8 / CUE इम्पोर्ट करें।" >}}
+{{< ls-card icon="music-note" link="/docs/guide/evervideo/evervideo-guide-playlists" title="प्लेलिस्ट" subtitle="क्लाउड, लोकल, Photos या Music लाइब्रेरी से प्लेलिस्ट बनाएं, M3U / M3U8 / CUE इम्पोर्ट करें।" >}}
 
-{{< card icon="play" link="/docs/guide/evervideo/evervideo-guide-player" title="मीडिया प्लेयर" subtitle="Picture-in-Picture, ऑडियो और वीडियो ट्रैक, सबटाइटल, ऑडियो + वीडियो इक्वलाइज़र, AirPlay, Chromecast।" >}}
+{{< ls-card icon="play" link="/docs/guide/evervideo/evervideo-guide-player" title="मीडिया प्लेयर" subtitle="Picture-in-Picture, ऑडियो और वीडियो ट्रैक, सबटाइटल, ऑडियो + वीडियो इक्वलाइज़र, AirPlay, Chromecast।" >}}
 
-{{< card icon="adjustments" link="/docs/guide/evervideo/evervideo-guide-settings" title="सेटिंग्स" subtitle="ऑडियो इंजन, वीडियो डिकोडर, सबटाइटल, लाइब्रेरी, फाइल मैनेजर, widgets, व्यक्तिगतकरण, भाषा, बैकअप।" >}}
+{{< ls-card icon="adjustments" link="/docs/guide/evervideo/evervideo-guide-settings" title="सेटिंग्स" subtitle="ऑडियो इंजन, वीडियो डिकोडर, सबटाइटल, लाइब्रेरी, फाइल मैनेजर, widgets, व्यक्तिगतकरण, भाषा, बैकअप।" >}}
 
-{{< card icon="question-mark-circle" link="/docs/faq/evervideo" title="FAQ" subtitle="Evervideo के बारे में सबसे सामान्य सवालों के जवाब खोजें।" >}}
+{{< ls-card icon="question-mark-circle" link="/docs/faq/evervideo" title="FAQ" subtitle="Evervideo के बारे में सबसे सामान्य सवालों के जवाब खोजें।" >}}
 
 {{< /cards >}}

@@ -7,7 +7,7 @@ tags: ["Evermusic", "Reproducció sense pauses", "Com fer-ho", "Àudio", "Reprod
 readingTime: 4
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 **En resum:** Obre **Configuració > Reproductor d'àudio > Reproducció sense pauses** i posa l'interruptor en **ACTIVAT**. A partir d'aleshores, les cançons es reprodueixen sense cap pausa, clic ni tic entre elles. Evermusic emmagatzema i descodifica per endavant la pista següent mentre l'actual encara sona, i després fa el traspàs entre mostres d'àudio en una memòria intermèdia contínua, de manera que la transició és realment fluida. És una reproducció sense pauses real i precisa a nivell de mostra, no un encadenat.
 
@@ -73,30 +73,30 @@ El resultat és que un àlbum en directe, un set de DJ al ritme o un disc concep
 
 ## Preguntes freqüents
 
-{{% details title="Com activo la reproducció sense pauses a Evermusic?" closed="true" %}}
+{{% ls-details title="Com activo la reproducció sense pauses a Evermusic?" closed="true" %}}
 Obre Evermusic, ves a Configuració > Reproductor d'àudio > Reproducció sense pauses i posa l'interruptor en ACTIVAT. Està desactivada per defecte. Un cop activada, s'aplica a tot el que reprodueixis i queda activada fins que la desactivis.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="La reproducció sense pauses d'Evermusic és real o només un encadenat?" closed="true" %}}
+{{% ls-details title="La reproducció sense pauses d'Evermusic és real o només un encadenat?" closed="true" %}}
 És una reproducció sense pauses real i precisa a nivell de mostra. Evermusic descodifica i emmagatzema per endavant la pista següent mentre l'actual sona, i després fa el traspàs entre mostres d'àudio en una memòria intermèdia contínua, de manera que no s'insereix cap silenci, clic ni farciment ni es produeix cap buit de reinici del descodificador. L'encadenat és una funció separada i diferent que superposa i barreja pistes; la reproducció sense pauses conserva l'àudio exactament com es va masteritzar i només n'elimina el buit.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Per què encara sento un buit entre algunes pistes?" closed="true" %}}
+{{% ls-details title="Per què encara sento un buit entre algunes pistes?" closed="true" %}}
 Assegura't que la reproducció sense pauses estigui ACTIVADA a Configuració > Reproductor d'àudio > Reproducció sense pauses. Si encara hi ha un buit, pot ser que estigui integrat al mateix enregistrament (alguns fitxers inclouen uns quants segons de silenci real a l'inici o al final d'una pista). La reproducció sense pauses elimina el buit que el reproductor normalment afegiria entre pistes; no pot eliminar el silenci que forma part del fitxer d'àudio.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="La reproducció sense pauses funciona amb FLAC i altres fitxers sense pèrdua?" closed="true" %}}
+{{% ls-details title="La reproducció sense pauses funciona amb FLAC i altres fitxers sense pèrdua?" closed="true" %}}
 Sí. La reproducció sense pauses funciona amb FLAC, Apple Lossless (ALAC) i formats amb pèrdua com MP3 i AAC, tant si els fitxers estan desats localment, al núvol o en un servidor multimèdia.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Puc utilitzar la reproducció sense pauses i l'encadenat alhora?" closed="true" %}}
+{{% ls-details title="Puc utilitzar la reproducció sense pauses i l'encadenat alhora?" closed="true" %}}
 No. Fan coses oposades, així que activar la reproducció sense pauses desactiva automàticament l'encadenat. Fes servir la reproducció sense pauses per a àlbums en directe, sessions de DJ i discs conceptuals on l'àudio s'ha de conservar exactament; fes servir l'encadenat si vols que les cançons es fonguin l'una amb l'altra.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="La reproducció sense pauses funciona quan es transmet des del núvol?" closed="true" %}}
+{{% ls-details title="La reproducció sense pauses funciona quan es transmet des del núvol?" closed="true" %}}
 Sí. Evermusic comença a emmagatzemar i descodificar aviat la pista següent, també per a discs al núvol i servidors multimèdia, de manera que el traspàs es manté fluid. En connexions més lentes, simplement comença a preparar la pista següent una mica abans.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="La reproducció sense pauses redueix la qualitat de l'àudio?" closed="true" %}}
+{{% ls-details title="La reproducció sense pauses redueix la qualitat de l'àudio?" closed="true" %}}
 No. La reproducció sense pauses no recodifica ni processa el teu àudio. Només canvia com es planifiquen i s'emmagatzemen les pistes perquè no hi hagi buit entre elles. Cada mostra es reprodueix exactament com és al fitxer.
-{{% /details %}}
+{{% /ls-details %}}

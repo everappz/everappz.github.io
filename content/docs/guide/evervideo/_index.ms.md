@@ -74,18 +74,18 @@ Panduan ini membawa anda melalui setiap bahagian Evervideo di iPhone, iPad, dan 
 
 {{< cards cols="2">}}
 
-{{< card icon="map" link="/docs/guide/evervideo/evervideo-guide-navigation" title="Navigasi" subtitle="Bar Tab di iPhone, Menu Kiri di iPad dan Mac, pemain media kompak yang sentiasa berada di skrin." >}}
+{{< ls-card icon="map" link="/docs/guide/evervideo/evervideo-guide-navigation" title="Navigasi" subtitle="Bar Tab di iPhone, Menu Kiri di iPad dan Mac, pemain media kompak yang sentiasa berada di skrin." >}}
 
-{{< card icon="folder" link="/docs/guide/evervideo/evervideo-guide-files" title="Fail" subtitle="Satu tab bersatu untuk awan, NAS, strim RTSP, fail tempatan, pemacu USB, dan baris gilir pemindahan." >}}
+{{< ls-card icon="folder" link="/docs/guide/evervideo/evervideo-guide-files" title="Fail" subtitle="Satu tab bersatu untuk awan, NAS, strim RTSP, fail tempatan, pemacu USB, dan baris gilir pemindahan." >}}
 
-{{< card icon="collection" link="/docs/guide/evervideo/evervideo-guide-video-library" title="Perpustakaan Media" subtitle="Layari mengikut Album, Genre, Terkini, Kegemaran — serta perpustakaan Foto iOS dan perpustakaan Apple Music." >}}
+{{< ls-card icon="collection" link="/docs/guide/evervideo/evervideo-guide-video-library" title="Perpustakaan Media" subtitle="Layari mengikut Album, Genre, Terkini, Kegemaran — serta perpustakaan Foto iOS dan perpustakaan Apple Music." >}}
 
-{{< card icon="music-note" link="/docs/guide/evervideo/evervideo-guide-playlists" title="Senarai Main" subtitle="Bina senarai main dari awan, tempatan, Foto, atau perpustakaan Muzik, import M3U / M3U8 / CUE." >}}
+{{< ls-card icon="music-note" link="/docs/guide/evervideo/evervideo-guide-playlists" title="Senarai Main" subtitle="Bina senarai main dari awan, tempatan, Foto, atau perpustakaan Muzik, import M3U / M3U8 / CUE." >}}
 
-{{< card icon="play" link="/docs/guide/evervideo/evervideo-guide-player" title="Pemain Media" subtitle="Picture-in-Picture, trek audio dan video, sarikata, penyama audio + video, AirPlay, Chromecast." >}}
+{{< ls-card icon="play" link="/docs/guide/evervideo/evervideo-guide-player" title="Pemain Media" subtitle="Picture-in-Picture, trek audio dan video, sarikata, penyama audio + video, AirPlay, Chromecast." >}}
 
-{{< card icon="adjustments" link="/docs/guide/evervideo/evervideo-guide-settings" title="Tetapan" subtitle="Enjin audio, penyahkod video, sarikata, perpustakaan, pengurus fail, widget, peribadi, bahasa, sandaran." >}}
+{{< ls-card icon="adjustments" link="/docs/guide/evervideo/evervideo-guide-settings" title="Tetapan" subtitle="Enjin audio, penyahkod video, sarikata, perpustakaan, pengurus fail, widget, peribadi, bahasa, sandaran." >}}
 
-{{< card icon="question-mark-circle" link="/docs/faq/evervideo" title="Soalan Lazim" subtitle="Cari jawapan kepada soalan paling biasa tentang Evervideo." >}}
+{{< ls-card icon="question-mark-circle" link="/docs/faq/evervideo" title="Soalan Lazim" subtitle="Cari jawapan kepada soalan paling biasa tentang Evervideo." >}}
 
 {{< /cards >}}

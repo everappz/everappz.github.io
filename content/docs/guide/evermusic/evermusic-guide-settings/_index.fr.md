@@ -18,7 +18,7 @@ readingTime: 16
 L'écran Paramètres est le centre de contrôle d'Evermusic. Depuis ici, vous pouvez mettre à niveau vers Premium, configurer le lecteur audio, gérer votre bibliothèque musicale, configurer le gestionnaire de fichiers, personnaliser l'interface, activer les widgets et CarPlay, sauvegarder vos données et accéder à l'aide et aux informations légales. Les sections sont regroupées sous des en-têtes : **Achats et mises à jour**, préférences de l'application, **Aide** et **Légal et confidentialité**.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Écran Paramètres d'Evermusic" image="/docs/guide/evermusic/evermusic-guide-settings/img/settings-main-screen.webp" >}}
+  {{< ls-card title="" subtitle="Écran Paramètres d'Evermusic" image="/docs/guide/evermusic/evermusic-guide-settings/img/settings-main-screen.webp" >}}
 {{< /cards >}}
 
 ## Achats et mises à jour

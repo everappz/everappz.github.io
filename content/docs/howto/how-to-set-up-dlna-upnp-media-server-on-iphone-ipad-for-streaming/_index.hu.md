@@ -7,7 +7,7 @@ keywords: ["DLNA szerver iPhone", "UPnP szerver iPad", "hogyan állíts be DLNA-
 readingTime: 9
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 A DLNA (más néven UPnP AV) a legtöbb smart TV mögötti csendes igásló. Ez egy közös nyelv, amely lehetővé teszi, hogy egy TV vagy médialejátszó megtaláljon egy médiatárat ugyanazon a Wi-Fi hálózaton és lejátsszon róla, anélkül hogy bármit telepíteni kellene a TV-re. Ha az iPhone-od vagy iPad-ed képes ellátni ennek a tárnak a szerepét, a fényképeid, videóid és zenéd maguktól megjelennek a nagy képernyőn.
 
@@ -127,44 +127,44 @@ A DLNA úgy adja át a fájlt a TV-nek, ahogy van, és a TV-nek képesnek kell l
 
 ## Gyakran ismételt kérdések
 
-{{% details title="Mi a különbség a DLNA és az UPnP között?" closed="true" %}}
+{{% ls-details title="Mi a különbség a DLNA és az UPnP között?" closed="true" %}}
 Szorosan összefüggnek. Az UPnP a mögöttes hálózati szabvány, a DLNA pedig a rá épülő médiaprofil, amelyet a TV-k és a lejátszók használnak a fényképek, videók és zene megosztására és lejátszására. A hétköznapi használatban a két szó felcserélhető. Amikor bekapcsolod a TV és médiaközpontot az Everdiskben, a készüléked DLNA/UPnP médiaszerverré válik, amelyet bármely DLNA-kliens böngészhet.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Kell bármit telepítenem a TV-mre?" closed="true" %}}
+{{% ls-details title="Kell bármit telepítenem a TV-mre?" closed="true" %}}
 Nem. Ha a TV-d támogatja a DLNA-t, akkor már van egy médialejátszója, amely megtalálja a készülékedet a Wi-Fi hálózaton. Csak az Everdisket telepíted arra az iPhone-ra vagy iPad-re, amely a tartalmat tárolja. Ha a TV-d nem támogatja a DLNA-t, telepíts egy lejátszót, mint a VLC vagy a Kodi, egy hozzá csatlakoztatott eszközre.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Miért nem jelenik meg az iPhone-om a TV-n?" closed="true" %}}
+{{% ls-details title="Miért nem jelenik meg az iPhone-om a TV-n?" closed="true" %}}
 Ellenőrizd, hogy mindkét eszköz ugyanazon a Wi-Fi hálózaton van-e. A vendéghálózatok és néhány irodai vagy szállodai hálózat blokkolja, hogy az eszközök lássák egymást, ami megakadályozza a DLNA-t. Ezután győződj meg róla, hogy az Everdisk nyitva van elindított megosztással, és hogy a TV és médiaközpont be van kapcsolva a Beállítások, Megosztás, Kapcsolatok menüben. Ha a TV még mindig nem találja, add hozzá a szervert kézzel a /device-desc.xml-re végződő eszközleíró-cím segítségével.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Kell jelszó a DLNA-streameléshez?" closed="true" %}}
+{{% ls-details title="Kell jelszó a DLNA-streameléshez?" closed="true" %}}
 Nem. A DLNA mindig nyitva van bárki számára ugyanazon a Wi-Fi hálózaton, amíg be van kapcsolva, ezért nincs bejelentkezés a TV oldalán. Ez rendben van egy megbízható otthoni hálózaton. Egy nem megbízható hálózaton kapcsold ki a TV és médiaközpontot, amikor végeztél, vagy használd inkább az SMB szervert titkosítással.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Streamelhetek Chromecastra vagy Rokura?" closed="true" %}}
+{{% ls-details title="Streamelhetek Chromecastra vagy Rokura?" closed="true" %}}
 A Chromecast és a Roku alapból nem működik DLNA-lejátszóként, így nem találják meg közvetlenül a készülékedet. A megoldás az, hogy telepítesz egy castolni képes DLNA-alkalmazást, mint a VLC vagy a BubbleUPnP egy telefonra, és onnan küldöd át a lejátszást a Chromecastra vagy a Rokura. A legtöbb más smart TV-n a DLNA mindezek nélkül működik.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Egy videó hang nélkül játszódik le vagy nem nyílik meg. Mit tehetek?" closed="true" %}}
+{{% ls-details title="Egy videó hang nélkül játszódik le vagy nem nyílik meg. Mit tehetek?" closed="true" %}}
 Ez egy olyan formátum, amelyet a TV nem tud dekódolni. Nyisd meg a Beállítások, Megosztás, Videók menüt az Everdiskben és csökkentsd a Minőséget, hogy az alkalmazás streamelés közben átalakítsa a videót egy kompatibilisebb formátumba. Ugyanazt a fájlt megnyithatod a böngészőlinken keresztül is, amely több formátumot kezel.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Streamelhetek zenét, nem csak videót?" closed="true" %}}
+{{% ls-details title="Streamelhetek zenét, nem csak videót?" closed="true" %}}
 Igen. Kapcsold be a Hozzáférés a teljes zenei könyvtárhoz lehetőséget, vagy adj hozzá bizonyos számokat, majd indítsd el a megosztást. A számaid megjelennek bármely DLNA-hangszórón, AV-vevőn vagy TV-n, borítóval és számadatokkal. A zene mindig eredeti minőségben van megosztva.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Nyitva kell maradnia az alkalmazásnak, amíg nézek?" closed="true" %}}
+{{% ls-details title="Nyitva kell maradnia az alkalmazásnak, amíg nézek?" closed="true" %}}
 Igen. Az iPhone-od szerverként működik, és az iOS szünetelteti azokat az alkalmazásokat, amelyeket hosszú időre teljesen a háttérbe küldenek. Tartsd az Everdisket a képernyőn, amíg streamelsz, és csatlakoztasd a hálózathoz a hosszú szakaszokhoz.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Hogyan streamelek egyik iPhone-ról egy másik iPad-re?" closed="true" %}}
+{{% ls-details title="Hogyan streamelek egyik iPhone-ról egy másik iPad-re?" closed="true" %}}
 Indítsd el a megosztást az iPhone-on, majd nyisd meg az Everdisket az iPaden és lépj az Eszközök fülre. Az iPhone médiaszerverként jelenik meg az Elérhető eszközök alatt. Érintsd meg a böngészéshez és a lejátszáshoz. Az Everdisk DLNA-kliensként és szerverként is működik, így nincs szükséged másik alkalmazásra.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Ingyenes az Everdisk?" closed="true" %}}
+{{% ls-details title="Ingyenes az Everdisk?" closed="true" %}}
 Igen, az Everdisk ingyenesen letölthető és a DLNA médiaszerver benne van. Egy opcionális egyszeri Premium Lifetime vásárlás olyan extrákat ad hozzá, mint a fénykép- és videóátalakítás régebbi TV-khez, az egyéni portok és több. A DLNA-streamelést fizetés nélkül beállíthatod és használhatod.
-{{% /details %}}
+{{% /ls-details %}}
 
 Készen állsz kipróbálni? [Töltsd le az Everdisket az App Store-ból](https://apps.apple.com/app/apple-store/id6751851132?pt=95781850&ct=everappzcom&mt=8) és pár perc alatt streameld az első albumodat a TV-re. Kérdés vagy visszajelzés? Írj nekünk a **support@everappz.com** címre.

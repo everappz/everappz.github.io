@@ -12,7 +12,7 @@ authors:
     image: "/images/about/artem-meleshko-founder-everappz.webp"
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 **Flacbox 1.6** membawa fitur baru utama ke pemutar musik FLAC untuk iPhone dan iPad.
 
@@ -68,18 +68,18 @@ Punya umpan balik atau permintaan fitur? Hubungi kami -- kami membangun Flacbox 
 
 ## Pertanyaan yang Sering Diajukan
 
-{{% details title="Format audio apa yang didukung Flacbox?" closed="true" %}}
+{{% ls-details title="Format audio apa yang didukung Flacbox?" closed="true" %}}
 Flacbox mendukung FLAC, ALAC, MP3, AAC, OGG, OPUS, WAV, AIFF, DSD, dan format audio populer lainnya. Semua format berfungsi dengan equalizer bawaan.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Bisakah saya memutar musik dari kartu SD di iPhone saya?" closed="true" %}}
+{{% ls-details title="Bisakah saya memutar musik dari kartu SD di iPhone saya?" closed="true" %}}
 Ya. Hubungkan kartu SD atau microSD menggunakan Lightning to SD Card Camera Reader Adapter. Flacbox mendeteksi kartu secara otomatis dan memungkinkan Anda menjelajahi dan memutar file langsung dari penyimpanan eksternal.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Apakah Flacbox disinkronkan dengan penyimpanan cloud secara otomatis?" closed="true" %}}
+{{% ls-details title="Apakah Flacbox disinkronkan dengan penyimpanan cloud secara otomatis?" closed="true" %}}
 Ya. Mulai versi 1.6, Flacbox dapat secara otomatis menyinkronkan perpustakaan musik Anda dari folder cloud. Aktifkan Sinkronisasi Otomatis di Pengaturan dan pilih folder yang ingin Anda pantau.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Apakah equalizer Flacbox dapat disesuaikan?" closed="true" %}}
+{{% ls-details title="Apakah equalizer Flacbox dapat disesuaikan?" closed="true" %}}
 Ya. Equalizer 10-band memungkinkan Anda menyesuaikan level frekuensi individual antara -12 dB dan +12 dB. Anda dapat menggunakan preset bawaan atau menyimpan pengaturan kustom Anda sendiri.
-{{% /details %}}
+{{% /ls-details %}}

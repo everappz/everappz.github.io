@@ -14,7 +14,7 @@ authors:
     image: "/images/about/artem-meleshko-founder-everappz.webp"
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 ## Hvorfor App Store Søkeord Bestemmer Nedlastingstallene Dine
 
@@ -104,29 +104,29 @@ Prøv det nå — din neste bruker er bare ett søk unna.
 Verktøyet er åpen kildekode. Feilrapporter, funksjonsforslag og pull requests er velkomne.
 
 {{< cards cols="1" >}}
-  {{< card link="https://github.com/everappz/app-store-keyword-optimizer/tree/main" title="appkeywords.pro on GitHub" icon="github" tag= "open source" >}}
+  {{< ls-card link="https://github.com/everappz/app-store-keyword-optimizer/tree/main" title="appkeywords.pro on GitHub" icon="github" tag= "open source" >}}
 {{< /cards >}}
 
 ---
 
 ## Ofte Stilte Spørsmål
 
-{{% details title="Er AppKeywords.pro virkelig gratis?" closed="true" %}}
+{{% ls-details title="Er AppKeywords.pro virkelig gratis?" closed="true" %}}
 Ja. Det er et fullstendig åpen kildekode, nettleserbasert verktøy uten registrering, uten annonser og uten datainnsamling. Metadata forlater aldri enheten din.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Fungerer dette verktøyet for flere App Store-lokaliseringer?" closed="true" %}}
+{{% ls-details title="Fungerer dette verktøyet for flere App Store-lokaliseringer?" closed="true" %}}
 Ja. Du kan legge til metadata for hver lokale uavhengig, og eksporten inkluderer alle språk i en enkelt JSON-fil kompatibel med Fastlane.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Bør jeg gjenta tittelsøkeordene mine i søkeordfeltet?" closed="true" %}}
+{{% ls-details title="Bør jeg gjenta tittelsøkeordene mine i søkeordfeltet?" closed="true" %}}
 Nei. Apple indekserer allerede ord fra tittelen og underteksten din. Å gjenta dem i søkeordfeltet sløser med tegn.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Hvor ofte bør jeg oppdatere App Store søkeordene mine?" closed="true" %}}
+{{% ls-details title="Hvor ofte bør jeg oppdatere App Store søkeordene mine?" closed="true" %}}
 Gjennomgå og oppdater søkeordene dine minst en gang per kvartal. Juster tidligere hvis du merker rangeringsdrop eller sesongbaserte endringer i søkeadferd.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Kan jeg bruke dette verktøyet med Fastlane?" closed="true" %}}
+{{% ls-details title="Kan jeg bruke dette verktøyet med Fastlane?" closed="true" %}}
 Ja. GitHub-repoen inkluderer shell-skript for å konvertere mellom Fastlanes metadata-mappestruktur og JSON-formatet brukt av AppKeywords.pro.
-{{% /details %}}
+{{% /ls-details %}}

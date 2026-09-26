@@ -12,7 +12,7 @@ authors:
     image: "/images/about/artem-meleshko-founder-everappz.webp"
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 **简要:** [Evertag 4.2](/products/evertag) 是 iPhone、iPad 和 Mac 上音频标签编辑器的一次重大更新。我们解决了关键的标签编辑 bug,并新增 6 项以上的云端和服务器连接 — **Internxt**、**Proton Drive**、**QNAP**、**Nextcloud**、**Amazon S3**,以及 **FTP**、**SFTP** 和 **NFS** 协议。Wi-Fi Drive 拥有焕然一新的界面、多选模式、更聪明的上传队列和更快的传输速度。整个应用都已按 **Liquid Glass** 设计调校。本文还深入解读 Evertag 的标签编辑器设置 — 讲清 **ID3v2.4 与 ID3v2.3**、**专辑封面缩放**、**标签复制**、**云端上传模式**、**已下载文件删除**,以及在为 **Spotify**、**Apple Music**、**Plex**、**Jellyfin** 或其他流媒体服务准备音频时,究竟该选哪个选项。
 
@@ -229,50 +229,50 @@ Evertag 4.2 的整个应用界面已针对 Apple 全新的 **Liquid Glass** 材�
 
 ## 常见问题
 
-{{% details title="Evertag 4.2 有哪些新功能?" closed="true" %}}
+{{% ls-details title="Evertag 4.2 有哪些新功能?" closed="true" %}}
 Evertag 4.2 新增 6 项以上的云端和服务器连接(Internxt、Proton Drive、QNAP、Nextcloud、Amazon S3、FTP、SFTP、NFS),带多选和更聪明的上传队列的全新 Wi-Fi Drive、Liquid Glass UI 更新、更新的连接库、关键的标签编辑 bug 修复以及翻译改进。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="在 Evertag 中应使用 ID3v2.4 还是 ID3v2.3?" closed="true" %}}
+{{% ls-details title="在 Evertag 中应使用 ID3v2.4 还是 ID3v2.3?" closed="true" %}}
 对现代播放器(Evermusic、Plex、Jellyfin、Apple Music、foobar2000、VLC、现代 Android 应用)以及包含非拉丁字符的库,使用 **ID3v2.4** — UTF-8 支持意味着中文、韩文、日文、俄文、阿拉伯文和希伯来文标签更干净。如果你的标签在某些应用中显示错误、面向较旧的车载音响,或某条流媒体分销商管线拒绝 v2.4,使用 **ID3v2.3**。你随时可以切换并重新保存。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="为什么编辑后我的标签在 Spotify 显示错误?" closed="true" %}}
+{{% ls-details title="为什么编辑后我的标签在 Spotify 显示错误?" closed="true" %}}
 Spotify 大多显示其自家目录的元数据 — 你的本地标签仅用于「Local Files」或你作为艺术家上传的内容。如果你为 Spotify Local Files 打标签后未正确显示,尝试在 Evertag 中关闭 ID3v2.4 并保存为 ID3v2.3 — Spotify 的解析器对 v2.4 历来较保守。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="在 Evertag 中应选择什么尺寸的专辑封面?" closed="true" %}}
+{{% ls-details title="在 Evertag 中应选择什么尺寸的专辑封面?" closed="true" %}}
 对大多数用户:**大**。在手机、iPad、Mac 和现代车载显示器上看起来都很棒,且不会过度增大文件。库非常大、想节省磁盘的话用 **中**。仅当需要存档级母带或确实需要最高质量时使用 **原始**(无缩放) — 但要注意一些较旧播放器对超大嵌入封面会有困难。**原始** 属于 Evertag 高级个性化升级的一部分。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="较大的专辑封面会让我的文件更大吗?" closed="true" %}}
+{{% ls-details title="较大的专辑封面会让我的文件更大吗?" closed="true" %}}
 会。嵌入一张 3,000 × 3,000 px 的封面可为单个音频文件增加几 MB。以 1,000 首曲目的库计算,总量可达 GB。如果存储紧张,使用 中 或 大;如果你从 NAS 流播放、不在意大小,特大 或 原始 也可以。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="什么是标签复制,我应该启用吗?" closed="true" %}}
+{{% ls-details title="什么是标签复制,我应该启用吗?" closed="true" %}}
 标签复制把核心元数据同时写入文件的 ID3v1(传统 128 字节)和 ID3v2(现代)两个区段。仅当你面向非常老旧的播放器或读取 ID3v1 的硬件时启用。对所有现代场景(智能手机、电脑、近期车载音响),保持关闭即可。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Evertag 是直接编辑云端文件中的标签吗?" closed="true" %}}
+{{% ls-details title="Evertag 是直接编辑云端文件中的标签吗?" closed="true" %}}
 是。连接到你的云端(Google Drive、Dropbox、OneDrive、iCloud Drive、Internxt、Proton Drive、QNAP、Nextcloud、Amazon S3 等)或通过 FTP/SFTP/NFS,然后打开文件并像本地文件一样编辑标签。Evertag 会下载文件,应用你的修改,并把更新后的版本上传回去。你可以在设置中选择「始终询问」、「自动上传」或「不上传」模式。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="可以在 iPhone 上用 Evertag 编辑 FLAC 标签吗?" closed="true" %}}
+{{% ls-details title="可以在 iPhone 上用 Evertag 编辑 FLAC 标签吗?" closed="true" %}}
 可以。Evertag 支持 FLAC、MP3、M4A/MP4、AIFF、WAV、OGG、APE 及其他主要格式,并提供完整的标签读写支持,含嵌入封面。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="如何用 SFTP 安全地在我的家庭服务器上编辑标签?" closed="true" %}}
+{{% ls-details title="如何用 SFTP 安全地在我的家庭服务器上编辑标签?" closed="true" %}}
 打开 Evertag,进入连接选项卡,选择 SFTP,然后输入服务器的主机名或 IP、端口(通常为 22)、用户名,以及密码或 SSH 私钥。Evertag 会浏览你的远程文件夹,并通过 SSH 上的端到端加密直接编辑标签。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="可以一次编辑多个文件的标签吗?" closed="true" %}}
+{{% ls-details title="可以一次编辑多个文件的标签吗?" closed="true" %}}
 可以。在设置中启用 **同时编辑文件**。选择多个文件,打开标签编辑器,你修改的任何字段都会应用到所有所选文件。这是为整张专辑设置相同的 album artist、年份或类型的最快方法。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Evertag 4.2 是免费更新吗?" closed="true" %}}
+{{% ls-details title="Evertag 4.2 是免费更新吗?" closed="true" %}}
 是的。Evertag 在 App Store 上免费下载,4.2 也是面向所有现有用户的免费更新。新的云端集成、Wi-Fi Drive 改进和 Liquid Glass UI 都包含在基础更新中。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Evertag 4.2 在哪些设备上可用?" closed="true" %}}
+{{% ls-details title="Evertag 4.2 在哪些设备上可用?" closed="true" %}}
 Evertag 4.2 在 iPhone、iPad 和 Mac 上运行。iCloud Drive 同步会让你的标签编辑器设置在不同设备间保持一致。
-{{% /details %}}
+{{% /ls-details %}}

@@ -7,7 +7,7 @@ tags: ["hudba", "zvuk", "prehrávač", "offline", "režim", "sťahovanie", "prie
 keywords: ["offline hudba iPhone", "synchronizácia hudby z cloudu", "Evermusic offline", "Flacbox synchronizácia hudby", "prehrávanie hudby bez internetu", "stiahnutie zvuku z cloudu", "prehrávanie lokálnych súborov iOS"]
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **TL;DR:** Evermusic a Flacbox vám umožňujú sťahovať hudbu z cloudového úložiska (Google Drive, Dropbox, OneDrive a ďalších) do vášho iPhonu alebo iPadu na offline prehrávanie. Môžete použiť tri metódy: priame stiahnutie, offline režim s automatickou synchronizáciou alebo vyrovnávaciu pamäť audio prehrávača. Tento sprievodca pokrýva všetky tri prístupy krok za krokom.
@@ -140,26 +140,26 @@ Podľa týchto podrobných krokov môžete bezproblémovo spravovať a prehráva
 
 ## Často kladené otázky
 
-{{% details title="Aké cloudové služby podporujú Evermusic a Flacbox?" closed="true" %}}
+{{% ls-details title="Aké cloudové služby podporujú Evermusic a Flacbox?" closed="true" %}}
 Obe aplikácie podporujú Google Drive, Dropbox, OneDrive, Box, MEGA, Yandex.Disk a ďalších hlavných poskytovateľov cloudového úložiska. Môžete pripojiť viacero služieb súčasne.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Môžem automaticky synchronizovať hudbu z cloudového úložiska do môjho iPhonu?" closed="true" %}}
+{{% ls-details title="Môžem automaticky synchronizovať hudbu z cloudového úložiska do môjho iPhonu?" closed="true" %}}
 Áno. Povoľte offline režim pre ľubovoľný priečinok, zoznam skladieb, album alebo interpreta. Aplikácia vykonáva jednosmernú synchronizáciu z cloudu do zariadenia v konfigurovateľnom intervale (predvolene: raz denne).
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Zaberá offline režim veľa úložného priestoru na mojom zariadení?" closed="true" %}}
+{{% ls-details title="Zaberá offline režim veľa úložného priestoru na mojom zariadení?" closed="true" %}}
 Využitie úložiska závisí od veľkosti vašej hudobnej zbierky a formátov súborov. Môžete to ovládať výberom konkrétnych priečinkov na synchronizáciu, nastavením limitov veľkosti vyrovnávacej pamäte a monitorovaním úložiska v nastaveniach aplikácie.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Aké zvukové formáty sú podporované pre offline prehrávanie?" closed="true" %}}
+{{% ls-details title="Aké zvukové formáty sú podporované pre offline prehrávanie?" closed="true" %}}
 Evermusic a Flacbox podporujú MP3, FLAC, AAC, ALAC, WAV, AIFF, OGG, WMA a mnoho ďalších formátov. Flacbox je optimalizovaný pre bezstratové formáty ako FLAC a ALAC.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Bude moja offline hudba pokračovať v prehrávaní, ak zatvorím aplikáciu?" closed="true" %}}
+{{% ls-details title="Bude moja offline hudba pokračovať v prehrávaní, ak zatvorím aplikáciu?" closed="true" %}}
 Áno. Stiahnuté súbory sú uložené lokálne na vašom zariadení a prehrávajú sa cez audio prehrávač aplikácie bez ohľadu na pripojenie na internet. Prehrávanie na pozadí je plne podporované.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Ako uvoľním miesto zaberané offline hudbou?" closed="true" %}}
+{{% ls-details title="Ako uvoľním miesto zaberané offline hudbou?" closed="true" %}}
 Zakážte offline režim pre konkrétne priečinky v Nastavenia > Správca súborov > Synchronizované offline priečinky. Tým sa z vášho zariadenia odstránia lokálne kópie. Môžete tiež vymazať vyrovnávaciu pamäť audio prehrávača alebo manuálne odstrániť stiahnuté súbory.
-{{% /details %}}
+{{% /ls-details %}}

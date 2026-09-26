@@ -11,7 +11,7 @@ readingTime: 3
 Az Evervideo ingyenes verziót és prémium verziót is kínál, amelyek meghatározott használati korlátozásokkal rendelkeznek, és az alkalmazáson belüli vásárlásokkal oldhatók fel.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Alapértelmezett Terv Frissítési Képernyő" image="/docs/faq/evervideo/what-is-the-difference-between-evervideo-and-evervideo-premium/upgrade-default.webp" >}}
+  {{< ls-card title="" subtitle="Alapértelmezett Terv Frissítési Képernyő" image="/docs/faq/evervideo/what-is-the-difference-between-evervideo-and-evervideo-premium/upgrade-default.webp" >}}
 {{< /cards >}}
 
 ## Válassza ki a Prémium Tervét
@@ -19,7 +19,7 @@ Az Evervideo ingyenes verziót és prémium verziót is kínál, amelyek meghat�
 Az alkalmazás ingyenes verziója egyszeri élettartamú alkalmazáson belüli vásárlást és két előfizetési lehetőséget (1 hónap és 1 év) kínál az összes korlátozás eltávolításához és a Prémium verzióra való frissítéshez, lehetővé téve az Ön számára a legjobb és legoptimálisabb ár kiválasztását. Az árak az Ön országától vagy területétől függően eltérhetnek. Azt is tartsa szem előtt, hogy a **Family Sharing** minden vásárlásnál és terveknél engedélyezve van, így megoszthatja a Prémium verziót a család tagjaival.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evervideo Terv Kiválasztási Képernyő" image="/docs/faq/evervideo/what-is-the-difference-between-evervideo-and-evervideo-premium/plan-select.webp" >}}
+  {{< ls-card title="" subtitle="Evervideo Terv Kiválasztási Képernyő" image="/docs/faq/evervideo/what-is-the-difference-between-evervideo-and-evervideo-premium/plan-select.webp" >}}
 {{< /cards >}}
 
 ## Vásárlások Megosztása iOS és Mac Között
@@ -31,13 +31,13 @@ Megpróbálhatja megnyomni a "Vásárlások visszaállítása" gombot az alkalma
 Ha az új eszközön szeretné visszaállítani a vásárlást, egyszerűen használja a "Vásárlások visszaállítása" menüt. Megjelenik a vásárlásainak listája. Ha nem látja az összes vásárlását, ellenőrizze, hogy az eszköz ugyanahhoz az iTunes-fiókhoz van-e csatlakoztatva, amelyet a vásárlásokhoz használt, és győződjön meg arról, hogy az iCloud engedélyezve van.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Vásárlás Visszaállítva Képernyő" image="/docs/faq/evervideo/what-is-the-difference-between-evervideo-and-evervideo-premium/purchase-restored.webp" >}}
+  {{< ls-card title="" subtitle="Vásárlás Visszaállítva Képernyő" image="/docs/faq/evervideo/what-is-the-difference-between-evervideo-and-evervideo-premium/purchase-restored.webp" >}}
 {{< /cards >}}
 
 Miután frissítette az alkalmazást, megjelenik a Prémium állapotképernyő az aktuális vásárlások részleteivel.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Prémiumot Használ Képernyő" image="/docs/faq/evervideo/what-is-the-difference-between-evervideo-and-evervideo-premium/you-are-using-premium.webp" >}}
+  {{< ls-card title="" subtitle="Prémiumot Használ Képernyő" image="/docs/faq/evervideo/what-is-the-difference-between-evervideo-and-evervideo-premium/you-are-using-premium.webp" >}}
 {{< /cards >}}
 
 ## Prémium Ingyenes Kipróbálása
@@ -45,7 +45,7 @@ Miután frissítette az alkalmazást, megjelenik a Prémium állapotképernyő a
 Ezenkívül van egy korlátozott idejű lehetőség a "**Prémium Ingyenes Kipróbálása**" funkcióra. Ezt a funkciót a "Prémium Ingyenes Kipróbálása" menün keresztül érheti el. Hirdetés megtekintésével vagy az alkalmazás barátaival való megosztásával ingyenesen feloldhatja a Prémium verziót ebben a promóciós időszakban. Ez lehetőséget biztosít a prémium funkciók kipróbálására anyagi kötelezettség nélkül.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Prémium Ingyenes Kipróbálása Képernyő" image="/docs/faq/evervideo/what-is-the-difference-between-evervideo-and-evervideo-premium/premium-for-free.webp" >}}
+  {{< ls-card title="" subtitle="Prémium Ingyenes Kipróbálása Képernyő" image="/docs/faq/evervideo/what-is-the-difference-between-evervideo-and-evervideo-premium/premium-for-free.webp" >}}
 {{< /cards >}}
 
 ## Evervideo Ingyenes
@@ -62,7 +62,7 @@ Ezenkívül van egy korlátozott idejű lehetőség a "**Prémium Ingyenes Kipr�
 - Nincsenek testreszabási vagy személyre szabási lehetőségek.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Felhőtárhely Frissítési Képernyő" image="/docs/faq/evervideo/what-is-the-difference-between-evervideo-and-evervideo-premium/upgrade-cloud-storage.webp" >}}
+  {{< ls-card title="" subtitle="Felhőtárhely Frissítési Képernyő" image="/docs/faq/evervideo/what-is-the-difference-between-evervideo-and-evervideo-premium/upgrade-cloud-storage.webp" >}}
 {{< /cards >}}
 
 ## Evervideo Prémium
@@ -106,7 +106,7 @@ Ha most kezdi, vagy csak alapvető videólejátszási funkciókra van szüksége
 Másrészt az **Evervideo Prémium** feloldja a teljes élményt. Reklámtól mentes felületet, korlátlan lejátszási lista és sor támogatást, teljes offline funkcionalitást, felhőrugalmasságot, valamint fejlett exportálási és személyre szabási lehetőségeket élvezhet. Ez a legjobb lehetőség a nagy videókönyvtárakkal rendelkező felhasználóknak, azoknak, akik több forrásból néznek tartalmat, vagy mindenkinek, aki professzionálisabb és zökkenőmentesebb médialejátszót keres.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Megvásárolta a Prémiumot Képernyő" image="/docs/faq/evervideo/what-is-the-difference-between-evervideo-and-evervideo-premium/you-have-purchased-premium.webp" >}}
+  {{< ls-card title="" subtitle="Megvásárolta a Prémiumot Képernyő" image="/docs/faq/evervideo/what-is-the-difference-between-evervideo-and-evervideo-premium/you-have-purchased-premium.webp" >}}
 {{< /cards >}}
 
 Ha rugalmasságot keres, próbálja ki a **havi tervet**. A hosszú távú értékért válassza az **éves** vagy **élettartamú** frissítést – mindkettő teljes hozzáférést kínál jobb áron.

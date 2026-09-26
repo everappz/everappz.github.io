@@ -72,19 +72,19 @@ Hướng dẫn này sẽ giúp bạn tận dụng tối đa Evermusic trên iPho
 
 
 {{< cards >}}
-  {{< card icon="location-marker" title="Điều hướng" subtitle="Tìm hiểu cách điều hướng Evermusic bằng thanh tab trên iPhone hoặc menu bên trái trên iPad và Mac." link="/docs/guide/evermusic/evermusic-guide-navigation" >}}
+  {{< ls-card icon="location-marker" title="Điều hướng" subtitle="Tìm hiểu cách điều hướng Evermusic bằng thanh tab trên iPhone hoặc menu bên trái trên iPad và Mac." link="/docs/guide/evermusic/evermusic-guide-navigation" >}}
 
-  {{< card icon="cloud" title="Kết nối" subtitle="Kết nối tài khoản đám mây và quản lý tệp trực tuyến bằng trình quản lý tệp tích hợp." link="/docs/guide/evermusic/evermusic-guide-connections" >}}
+  {{< ls-card icon="cloud" title="Kết nối" subtitle="Kết nối tài khoản đám mây và quản lý tệp trực tuyến bằng trình quản lý tệp tích hợp." link="/docs/guide/evermusic/evermusic-guide-connections" >}}
 
-  {{< card icon="collection" title="Thư viện nhạc" subtitle="Tổ chức và khám phá bài hát, album và nghệ sĩ trong Thư viện nhạc." link="/docs/guide/evermusic/evermusic-guide-music-library" >}}
+  {{< ls-card icon="collection" title="Thư viện nhạc" subtitle="Tổ chức và khám phá bài hát, album và nghệ sĩ trong Thư viện nhạc." link="/docs/guide/evermusic/evermusic-guide-music-library" >}}
 
-  {{< card icon="music-note" title="Danh sách phát" subtitle="Tạo và sắp xếp danh sách phát phù hợp với tâm trạng hoặc dịp của bạn." link="/docs/guide/evermusic/evermusic-guide-playlists" >}}
+  {{< ls-card icon="music-note" title="Danh sách phát" subtitle="Tạo và sắp xếp danh sách phát phù hợp với tâm trạng hoặc dịp của bạn." link="/docs/guide/evermusic/evermusic-guide-playlists" >}}
 
-  {{< card icon="folder" title="Tệp cục bộ" subtitle="Truy cập và quản lý nhạc ngoại tuyến qua phần Tệp cục bộ." link="/docs/guide/evermusic/evermusic-guide-local-files" >}}
+  {{< ls-card icon="folder" title="Tệp cục bộ" subtitle="Truy cập và quản lý nhạc ngoại tuyến qua phần Tệp cục bộ." link="/docs/guide/evermusic/evermusic-guide-local-files" >}}
 
-  {{< card icon="play" title="Trình phát âm thanh" subtitle="Điều khiển phát nhạc, hàng đợi và cài đặt âm thanh như bộ chỉnh âm và hẹn giờ ngủ." link="/docs/guide/evermusic/evermusic-guide-player" >}}
+  {{< ls-card icon="play" title="Trình phát âm thanh" subtitle="Điều khiển phát nhạc, hàng đợi và cài đặt âm thanh như bộ chỉnh âm và hẹn giờ ngủ." link="/docs/guide/evermusic/evermusic-guide-player" >}}
 
-  {{< card icon="adjustments" title="Cài đặt" subtitle="Tùy chỉnh giao diện, tính năng và cài đặt hiệu suất của Evermusic." link="/docs/guide/evermusic/evermusic-guide-settings" >}}
+  {{< ls-card icon="adjustments" title="Cài đặt" subtitle="Tùy chỉnh giao diện, tính năng và cài đặt hiệu suất của Evermusic." link="/docs/guide/evermusic/evermusic-guide-settings" >}}
 
-  {{< card icon="question-mark-circle" title="FAQ" subtitle="Tìm câu trả lời nhanh cho các câu hỏi thường gặp trong phần FAQ của chúng tôi." link="/docs/faq/evermusic" >}}
+  {{< ls-card icon="question-mark-circle" title="FAQ" subtitle="Tìm câu trả lời nhanh cho các câu hỏi thường gặp trong phần FAQ của chúng tôi." link="/docs/faq/evermusic" >}}
 {{< /cards >}}

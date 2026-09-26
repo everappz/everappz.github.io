@@ -12,7 +12,7 @@ authors:
     image: "/images/about/artem-meleshko-founder-everappz.webp"
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 **概要：** 最佳iPhone音乐播放器取决于您的需求。**Evermusic**非常适合云存储播放和格式灵活性。**Apple Music**适合深度融入Apple生态系统的用户。**Spotify**擅长音乐发现。**VLC**免费处理所有文件格式。**Amazon Music**与Alexa和Prime配合良好。
 
@@ -128,22 +128,22 @@ Amazon Music与Amazon生态系统集成，通过Alexa提供语音控制，并为
 
 ## 常见问题
 
-{{% details title="iPhone上最好的免费音乐播放器是什么？" closed="true" %}}
+{{% ls-details title="iPhone上最好的免费音乐播放器是什么？" closed="true" %}}
 对于播放您自己的文件，Evermusic和VLC都是免费选择。Evermusic增加了云存储集成，而VLC支持最广泛的文件格式。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="我可以在iPhone上播放FLAC文件吗？" closed="true" %}}
+{{% ls-details title="我可以在iPhone上播放FLAC文件吗？" closed="true" %}}
 可以。Evermusic和VLC都支持在iPhone上播放FLAC。Apple Music和Spotify不能直接播放FLAC文件。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="哪款音乐播放器应用支持云存储？" closed="true" %}}
+{{% ls-details title="哪款音乐播放器应用支持云存储？" closed="true" %}}
 Evermusic是领先的iPhone音乐播放器，内置云存储支持。它可连接iCloud Drive、Dropbox、Google Drive、OneDrive、pCloud和其他服务。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Evermusic比Apple Music好吗？" closed="true" %}}
+{{% ls-details title="Evermusic比Apple Music好吗？" closed="true" %}}
 它们服务于不同的目的。Evermusic播放您自己在云存储和本地存储中的音乐文件。Apple Music是拥有1亿+歌曲目录的订阅流媒体服务。如果您拥有自己的音乐文件，Evermusic是更好的选择。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="我可以在iPhone上离线使用Spotify吗？" closed="true" %}}
+{{% ls-details title="我可以在iPhone上离线使用Spotify吗？" closed="true" %}}
 可以，但仅限Spotify Premium订阅。免费Spotify用户无法下载歌曲进行离线播放。
-{{% /details %}}
+{{% /ls-details %}}

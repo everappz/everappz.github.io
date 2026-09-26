@@ -14,7 +14,7 @@ authors:
     image: "/images/about/artem-meleshko-founder-everappz.webp"
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 ![](/blog/setapp-mobile-and-evermusic-pro/21260c_766c4fbc81e6433cb8fc21b9c2862ce0~mv2.png)
 
@@ -72,27 +72,27 @@ Whether you manage a large FLAC library or need a simple cloud streaming app tha
 Ready to try it? Get Evermusic Pro through Setapp Mobile and start streaming your cloud music library today.
 
 {{< cards cols="1" >}}
-  {{< card link="https://go.setapp.com/stp435?_target=https://www.setapp.com/setapp-mobile&stc=mobile" title="Download Evermusic Pro with Setapp Mobile" icon="download" >}}
+  {{< ls-card link="https://go.setapp.com/stp435?_target=https://www.setapp.com/setapp-mobile&stc=mobile" title="Download Evermusic Pro with Setapp Mobile" icon="download" >}}
 {{< /cards >}}
 
 ## Frequently Asked Questions
 
-{{% details title="Is Evermusic Pro free with Setapp Mobile?" closed="true" %}}
+{{% ls-details title="Is Evermusic Pro free with Setapp Mobile?" closed="true" %}}
 Yes. Evermusic Pro is included in the Setapp Mobile subscription at no additional cost. You get the full premium version with all features unlocked.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="What cloud services does Evermusic Pro support?" closed="true" %}}
+{{% ls-details title="What cloud services does Evermusic Pro support?" closed="true" %}}
 Evermusic Pro connects to Google Drive, Dropbox, OneDrive, iCloud, Box, MEGA, Yandex.Disk, pCloud, HiDrive, and WebDAV servers. It also supports SMB file shares and NAS devices.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Can I listen offline with Evermusic Pro?" closed="true" %}}
+{{% ls-details title="Can I listen offline with Evermusic Pro?" closed="true" %}}
 Yes. You can download individual tracks, albums, artists, or entire playlists for offline playback directly within the app.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="What audio formats does Evermusic Pro play?" closed="true" %}}
+{{% ls-details title="What audio formats does Evermusic Pro play?" closed="true" %}}
 Evermusic Pro supports FLAC, MP3, AAC, WAV, ALAC, AIFF, OPUS, OGG, and many other formats. It handles both lossless and lossy audio files.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Do I need a separate Setapp subscription for iPhone?" closed="true" %}}
+{{% ls-details title="Do I need a separate Setapp subscription for iPhone?" closed="true" %}}
 Setapp Mobile is available as part of the Setapp subscription plan that includes iOS apps. Check the Setapp website for current pricing and plan options.
-{{% /details %}}
+{{% /ls-details %}}

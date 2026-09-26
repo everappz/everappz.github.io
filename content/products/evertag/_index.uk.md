@@ -15,14 +15,14 @@ screenshots:
   - "https://everappz.com/products/evertag/screenshots/2048x2732/3.png"
 ---
 
-{{% sr-only %}}
+{{% ls-sr-only %}}
 Evertag — це редактор музичних тегів для iPhone і Mac, розроблений компанією Everappz, іспанською компанією-розробником програмного забезпечення. Evertag дозволяє користувачам редагувати понад 120 тегів аудіометаданих, включаючи назву, виконавця, альбом, виконавця альбому, жанр, рік, номер треку, номер диска, композитора, BPM, тексти пісень, коментарі та інше. Додаток підтримує пакетне редагування тегів, дозволяючи оновлювати метадані кількох файлів одночасно. Evertag включає автоматичний пошук тегів на основі бази даних MusicBrainz, який ідентифікує пісні та заповнює відсутні метадані, а також пошук обкладинок альбомів, який знаходить та застосовує обкладинки до треків. Додаток підтримує понад 30 аудіоформатів, включаючи MP3, FLAC, OGG, OPUS, M4A, WAV, WMA, APE, AIFF, ALAC, MKA, MOD, XM, IT та S3M. Evertag може отримувати доступ до файлів із хмарних сховищ, включаючи iCloud Drive, Google Drive, Dropbox та OneDrive, а також з USB-накопичувачів та мережевих розташувань через SMB та WebDAV. Додаток також має вбудований файловий менеджер, передачу файлів через Wi-Fi, виправлення кодування для некоректно відображених тегів у нелатинських шрифтах та редактор текстів пісень. Evertag доступний для безкоштовного завантаження в App Store з додатковими покупками в додатку, що включають щомісячну підписку за $2.99, річну підписку за $9.99 або одноразову покупку довічного доступу за $29.99.
-{{% /sr-only %}}
+{{% /ls-sr-only %}}
 
 
-{{< force-dark >}}
+{{< ls-force-dark >}}
 
-{{< hextra/hero-container
+{{< ls-hero-container
   image="/products/evertag/heroimage/evertag_mac_600_345.png"
   imageWidth="600"
 >}}
@@ -30,37 +30,37 @@ Evertag — це редактор музичних тегів для iPhone і M
 <div class="hx:w-full hx:text-center">
 
 <div class="hx:mt-4">
-{{< downloads-badge >}}
+{{< ls-downloads-badge >}}
 </div>
 
 <div class="hx:mt-6 hx:mb-6">
 <div class="hx:flex hx:gap-4 hx:items-center hx:justify-center">
-  {{< app-icon src="/images/app_icons/png/Evertag_Icon-App-1024x1024.png" alt="Evertag Icon" class="hero-headline-icon" size="80" >}}
-  {{< hextra/hero-headline >}}
+  {{< ls-app-icon src="/images/app_icons/png/Evertag_Icon-App-1024x1024.png" alt="Evertag Icon" class="hero-headline-icon" size="80" >}}
+  {{< ls-hero-headline >}}
   Evertag
-  {{< /hextra/hero-headline >}}
+  {{< /ls-hero-headline >}}
 </div>
 </div>
 
 <div class="hx:mb-6">
-{{< hextra/hero-centered-subtitle >}}
+{{< ls-hero-centered-subtitle >}}
 <strong>Тримайте свою музичну бібліотеку впорядкованою</strong>
-{{< /hextra/hero-centered-subtitle >}}
+{{< /ls-hero-centered-subtitle >}}
 </div>
 
 <div class="hx:mb-6">
-{{< hextra/hero-paragraph >}}
+{{< ls-hero-paragraph >}}
 • Додавайте або оновлюйте обкладинки альбомів  
 • Пакетне редагування тегів для багатьох пісень одночасно  
 • Виправляйте зламане кодування та автоматично заповнюйте відсутні теги  
-{{< /hextra/hero-paragraph >}}
+{{< /ls-hero-paragraph >}}
 </div>
 
-{{< app-store-badges products="evertag:ios, evertag:macos" >}}
+{{< ls-app-store-badges products="evertag:ios, evertag:macos" >}}
 
 </div>
 
-{{< /hextra/hero-container >}}
+{{< /ls-hero-container >}}
 
 <div class="hx:mt-6"></div>
 
@@ -68,63 +68,63 @@ Evertag — це редактор музичних тегів для iPhone і M
 
 {{< hextra/feature-grid >}}
 
-  {{< hextra/feature-card
+  {{< ls-glass-feature-card
     title="Редагуйте понад 120+ тегів"
     subtitle="Швидко редагуйте музичні теги, такі як Назва, Виконавець, Альбом, Виконавець альбому, BPM, Коментар, Композитор, Номер диска, Жанр, Текст пісні, Рейтинг, Номер треку, Рік та інші."
     icon="pencil"
     style="background: radial-gradient(ellipse at 50% 80%, rgba(59,130,246,0.15), hsla(0,0%,100%,0));"
   >}}
 
-  {{< hextra/feature-card
+  {{< ls-glass-feature-card
     title="Пакетне редагування тегів"
     subtitle="Оновлюйте метадані для кількох файлів одночасно. Економте час і тримайте свою музичну бібліотеку добре організованою лише кількома дотиками."
     icon="database"
     style="background: radial-gradient(ellipse at 50% 80%, rgba(192,38,211,0.15), hsla(0,0%,100%,0));"
   >}}
 
-  {{< hextra/feature-card
+  {{< ls-glass-feature-card
     title="Пошук обкладинок альбомів"
     subtitle="Автоматично знаходьте та додавайте відсутні обкладинки альбомів до ваших пісень. Зробіть свою музичну колекцію візуально завершеною."
     icon="camera"
     style="background: radial-gradient(ellipse at 50% 80%, rgba(234,88,12,0.15), hsla(0,0%,100%,0));"
   >}}
 
-  {{< hextra/feature-card
+  {{< ls-glass-feature-card
     title="Працює з 30+ форматами"
     subtitle="Підтримує MP3, FLAC, OGG, OPUS, M4A, WAV, WMA, APE, AIFF, MOD, XM, IT та інші."
     icon="music-note"
     style="background: radial-gradient(ellipse at 50% 80%, rgba(236,72,153,0.15), hsla(0,0%,100%,0));"
   >}}
 
-  {{< hextra/feature-card
+  {{< ls-glass-feature-card
     title="Автоматичний пошук тегів"
     subtitle="Виявляйте відсутню інформацію про пісню та автоматично заповнюйте її за допомогою бази даних MusicBrainz. Обирайте перегляд змін або миттєве застосування."
     icon="search"
     style="background: radial-gradient(ellipse at 50% 80%, rgba(34,197,94,0.15), hsla(0,0%,100%,0));"
   >}}
 
-  {{< hextra/feature-card
+  {{< ls-glass-feature-card
     title="Виправлення проблем кодування"
     subtitle="Відновлюйте зламані або нечитабельні символи у ваших метаданих. Evertag тримає ваші теги чистими та зрозумілими будь-якою мовою."
     icon="translate"
     style="background: radial-gradient(ellipse at 50% 80%, rgba(251,191,36,0.15), hsla(0,0%,100%,0));"
   >}}
 
-  {{< hextra/feature-card
+  {{< ls-glass-feature-card
     title="Доступ до хмари та USB"
     subtitle="Редагуйте музику безпосередньо з iCloud Drive, Google Drive, Dropbox, OneDrive, USB-накопичувачів або спільних папок — без копіювання."
     icon="cloud"
     style="background: radial-gradient(ellipse at 50% 80%, rgba(6,182,212,0.15), hsla(0,0%,100%,0));"
   >}}
 
-  {{< hextra/feature-card
+  {{< ls-glass-feature-card
     title="Передача музики через Wi-Fi"
     subtitle="Легко завантажуйте музику на свій iPhone або iPad з комп'ютера через Wi-Fi з'єднання. Кабелі не потрібні."
     icon="wifi"
     style="background: radial-gradient(ellipse at 50% 80%, rgba(245,158,11,0.15), hsla(0,0%,100%,0));"
   >}}
 
-  {{< hextra/feature-card
+  {{< ls-glass-feature-card
     title="Вбудований файловий менеджер"
     subtitle="Організовуйте свої музичні файли за допомогою вбудованих інструментів. Перейменування, Переміщення, Видалення, Позначення обраних та Перегляд останньої активності — все в одному додатку."
     icon="folder-open"
@@ -139,47 +139,47 @@ Evertag — це редактор музичних тегів для iPhone і M
 <div class="hx:mt-6"></div>
 
 <div class="hx:w-full">
-{{< appstore-reviews apps="1450763230,1594027661" stars="5,4"  app="Evertag" >}}
+{{< ls-appstore-reviews apps="1450763230,1594027661" stars="5,4"  app="Evertag" >}}
 </div>
 
 <div class="hx:mt-6"></div>
 
-{{< hextra/section-headline >}}
+{{< ls-section-headline >}}
   Тарифні плани
-{{< /hextra/section-headline >}}
+{{< /ls-section-headline >}}
 
 <div class="hx:mt-6"></div>
 
 <div class="hx:w-full">
 
-{{< pricing-plans >}}
+{{< ls-pricing-plans >}}
 
 </div>
 
 <div class="hx:mt-6"></div>
 
 <div class="hx:w-full hx:mx-auto hx:flex hx:flex-col hx:items-center">
-  {{< hextra/info-paragraph border="true" >}}
+  {{< ls-info-paragraph border="true" >}}
    <strong>Сімейний доступ</strong>: Усі покупки та підписки підтримують Сімейний доступ, що дозволяє вам ділитися Преміум-доступом з вашою родиною.<br><strong>Універсальний доступ</strong>: Плани на все життя та підписки спільні між пристроями iOS та Mac за допомогою синхронізації iCloud.<br><strong>Ціни</strong>: Ціни вказані в доларах США для Сполучених Штатів. Остаточна ціна може відрізнятися залежно від вашого регіону.  
-  {{< /hextra/info-paragraph >}}
+  {{< /ls-info-paragraph >}}
 </div>
 
 <div class="hx:mt-6"></div>
 
 <div class="hx:w-full">
-{{< app-details heading="true" >}}
+{{< ls-app-details heading="true" >}}
 </div>
 
 <div class="hx:mt-6"></div>
 
-{{< hextra/section-headline >}}
+{{< ls-section-headline >}}
   Часті запитання
-{{< /hextra/section-headline >}}
+{{< /ls-section-headline >}}
 
 <div class="hx:mt-6"></div>
 
 <div class="hx:w-full">
-{{% details title="Що таке Evertag?" closed="true" %}}
+{{% ls-details title="Що таке Evertag?" closed="true" %}}
 Evertag — це потужний редактор музичних метаданих та менеджер обкладинок альбомів, розроблений для iOS та macOS. Він надає вам інструменти для організації вашої музичної колекції як професіонал, незалежно від того, чи ваші файли зберігаються локально або в хмарі. З чистим інтерфейсом та розширеними функціями редагування Evertag спрощує виправлення відсутніх тегів, додавання високоякісних обкладинок та забезпечення того, щоб ваша музична бібліотека виглядала чудово та залишалася послідовною.<br><br>
 
 Додаток підтримує широкий спектр популярних аудіо форматів, включаючи MP3, FLAC, WAV, M4A, WMA, OGG та багато інших. Він дозволяє редагувати звичайні теги, такі як назва, виконавець, альбом, жанр, рік, номер треку, а також розширені поля, такі як BPM, номер диска, тексти пісень, ідентифікатори MusicBrainz та інші. Ви можете працювати з одним файлом або переключитися в пакетний режим для одночасного редагування кількох треків — ідеально для організації цілих альбомів або плейлистів.<br><br>
@@ -187,14 +187,14 @@ Evertag — це потужний редактор музичних метада
 Одна з визначних функцій Evertag — це можливість отримувати відсутні обкладинки альбомів безпосередньо з інтернету або дозволяти вам додавати власні вручну. Ви також можете використовувати редактор текстів пісень для додавання несинхронізованих текстів до ваших пісень, покращуючи відтворення в сумісних програвачах. Додаток підтримує редагування на місці, тому ви можете змінювати аудіо теги без необхідності копіювати або переміщувати файли.<br><br>
 
 Незалежно від того, чи ви керуєте музикою на своєму пристрої або в хмарі, використовуючи Dropbox, OneDrive, MEGA або інші сервіси, Evertag пропонує безперешкодний доступ до файлів та редагування. Це ідеальне рішення для музикантів, діджеїв та колекціонерів, які хочуть підтримувати чисту, добре організовану музичну бібліотеку на iPhone, iPad без потреби в настільному комп'ютері.<br><br>
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Чи є Evertag безкоштовним?" closed="true" %}}
+{{% ls-details title="Чи є Evertag безкоштовним?" closed="true" %}}
 Evertag — це безкоштовний додаток з деякими обмеженнями, які ви можете зняти після оновлення до Преміум-версії. Додаток пропонує одноразову покупку на все життя та два варіанти підписки (1 місяць та 1 рік) для зняття всіх обмежень, дозволяючи вам обрати найкращу та найоптимальнішу ціну для вас. Ціни можуть відрізнятися залежно від вашої країни або території. Також, будь ласка, майте на увазі, що Сімейний доступ увімкнено для всіх покупок та планів, тож ви можете ділитися Преміум-версією з членами вашої родини.<br><br>
 Покупки на все життя та підписки спільні між iOS та Mac, використовуючи iCloud для синхронізації цієї інформації. Якщо у вас є Преміум-версія на вашому пристрої iOS, будь ласка, переконайтеся, що у вас встановлена остання версія та що iCloud увімкнено. Запустіть додаток на iOS та зачекайте одну хвилину, поки ваша інформація про покупку завантажиться в iCloud.<br><br>
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="У чому різниця між Evertag Free та Evertag Premium?" closed="true" %}}
+{{% ls-details title="У чому різниця між Evertag Free та Evertag Premium?" closed="true" %}}
 
 **Evertag Free**  <br>
 Evertag Free надає вам доступ до потужних функцій редагування музичних метаданих з деякими функціональними обмеженнями. Він містить рекламу та дозволяє базове використання редактора тегів, редактора обкладинок альбомів та пакетного редагування. Ви можете виправляти проблеми з кодуванням, підключити 1 обліковий запис хмарного сховища та позначити до 10 файлів як обрані. Крім того, ви можете виконувати 20 автоматичних пошуків тегів та 20 пошуків обкладинок альбомів на день.<br><br>
@@ -213,9 +213,9 @@ Evertag Free надає вам доступ до потужних функцій
 
 Кожен преміум-варіант включає однаковий набір функцій, тому ви можете обрати план, який відповідає вашим потребам та бюджету.<br><br>
 
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Чи безпечний Evertag?" closed="true" %}}
+{{% ls-details title="Чи безпечний Evertag?" closed="true" %}}
 Evertag використовує лише офіційний SDK та безпечні з'єднання для взаємодії з підключеними хмарними сервісами. Ваш логін та пароль недоступні для додатку. Усі запити від додатку до хмарного сервісу зашифровані.<br>
 Коли ви вводите логін та пароль, додаток показує вам офіційну сторінку авторизації, яку надає постачальник хмарного сервісу, і весь процес авторизації відбувається поза додатком. Постачальник хмарного сервісу надсилає токен авторизації додатку після успішної авторизації, і цей токен використовується для здійснення API-викликів.<br><br>
 
@@ -226,9 +226,9 @@ Evertag використовує лише офіційний SDK та безпе
 
 Ви також можете від'єднати підключені хмарні облікові записи в додатку, і токен авторизації також буде видалено з вашого пристрою. Якщо ви видалите додаток зі свого пристрою, всі завантажені дані та токени доступу також будуть видалені.<br><br>
 
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Як редагувати метадані для локально завантаженої музики на iPhone?" closed="true" %}}
+{{% ls-details title="Як редагувати метадані для локально завантаженої музики на iPhone?" closed="true" %}}
 Після встановлення додатку відкрийте екран "Локальні файли" та прокрутіть вниз до розділу "Файли на цьому iPhone".<br>
 Звідти оберіть "Відкрити файли...", якщо вам потрібно вибрати кілька аудіо файлів, або "Відкрити папку...", якщо ви хочете вибрати музичну папку.<br>
 Додаток просканує вміст папки, і всі знайдені аудіо файли будуть вибрані.<br>
@@ -242,9 +242,9 @@ Evertag використовує лише офіційний SDK та безпе
 Прокрутіть вниз до розділу "Файли на цьому пристрої" та натисніть "Підключити папку".<br>
 Виберіть папку на вашому пристрої та натисніть "Відкрити" для підтвердження вибору.<br>
 Ваша папка буде додана до розділу "Файли на цьому iPhone", що забезпечить швидкий доступ до ваших аудіо файлів.<br><br>
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Як додати тексти пісень в Evertag?" closed="true" %}}
+{{% ls-details title="Як додати тексти пісень в Evertag?" closed="true" %}}
 Ви можете додати вбудовані тексти пісень до ваших треків у додатку Evertag, виконавши ці кроки:<br><br>
 * Почніть редагування аудіо файлу, натиснувши на нього.<br>
 * Натисніть "Показати розширені теги", щоб переключити редактор тегів у розширений режим.<br>
@@ -258,9 +258,9 @@ Evertag використовує лише офіційний SDK та безпе
 Більш детальний посібник доступний тут:<br>
 [Як редагувати тексти пісень для аудіо файлів на iPhone або MAC](/docs/howto/how-to-edit-lyrics-for-audio-files-on-iphone-mac/)<br><br>
 
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Як перенести музику з комп'ютера в Evertag?" closed="true" %}}
+{{% ls-details title="Як перенести музику з комп'ютера в Evertag?" closed="true" %}}
 Ви можете підключити свій комп'ютер або персональний NAS за допомогою SMB, WebDAV. Альтернативно, використовуйте iTunes File Sharing для передачі музики.<br><br>
 
 Щоб підключити комп'ютер за допомогою протоколу **SMB**, натисніть "Підключитися до хмарного сховища" → SMB.<br>
@@ -295,23 +295,23 @@ URL повинен бути у форматі http://ім'я-сервера аб
 Детальна інструкція доступна тут:<br>
 [Як відтворювати локальні файли (файли iTunes) на моєму iPhone](/docs/howto/how-to-play-local-itunes-files-on-my-iphone)<br><br>
 
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Які аудіо формати підтримує Evertag?" closed="true" %}}
+{{% ls-details title="Які аудіо формати підтримує Evertag?" closed="true" %}}
 Ось повний список підтримуваних аудіо форматів та відповідних розширень файлів:<br><br>
 
 MP3, OGG, OGA, FLAC, MPC, WV, SPX, OPUS, TTA, M4A, M4R, M4B, M4P, MP4, 3G2, M4V, WMA, ASF, AIF, AIFF, AFC, AIFC, WAV, APE, MOD, MODULE, NTS, WOW, S3M, IT, XM.<br>
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Які аудіо теги підтримує Evertag?" closed="true" %}}
+{{% ls-details title="Які аудіо теги підтримує Evertag?" closed="true" %}}
 Ось повний список підтримуваних аудіо тегів:<br><br>
 
 ASIN, AcoustID: Fingerprint, AcoustID: Identifier, Album, Album Artist, Album Artist Sort Order, Album Cover, Album Sort Order, Arranger, Artist, Artist Sort Order, Artists, Barcode, Beats Per Minute, Catalog Number, Comment, Compilation, Composer, Composer Sort Order, Conductor, Content Group, Copyright, Description, Director, Disk Number, Disk Subtitle, Disk Total, Encoded By, Encoder Settings, Encoding Time, Engineer, File Owner, File Type, Genre, Grouping, ISRC, Initial Key, Involved People, Language, Length, License, Lyricist, Lyrics Advisory Rating, Lyrics Unsynced, Media Type, Mix DJ, Mixer, Mood, Movement Name, Movement Number, Movement Total, MusicBrainz: Album Artist ID, MusicBrainz: Album ID, MusicBrainz: Album Release Country, MusicBrainz: Album Status, MusicBrainz: Album Type, MusicBrainz: Artist ID, MusicBrainz: Disc ID, MusicBrainz: Original Album ID, MusicBrainz: Original Artist ID, MusicBrainz: Release Group ID, MusicBrainz: Release Track ID, MusicBrainz: TRM ID, MusicBrainz: Track ID, MusicBrainz: Work ID, MusicIP: Fingerprint, MusicIP: PUID, Musician Credits, Narrator, Net Radio Owner, Net Radio Station, Original Album, Original Artist, Original File Name, Original Lyricist, Original Release Date, Original Release Year, Performer, Podcast, Podcast Category, Podcast Description, Podcast ID, Podcast Keywords, Podcast URL, Producer, Publisher, Rating, Record Label, Release Country, Release Status, Release Type, Remixed By, Replay Gain: Album Gain, Replay Gain: Album Peak, Replay Gain: Album Range, Replay Gain: Reference Loudness, Replay Gain: Track Gain, Replay Gain: Track Peak, Replay Gain: Track Range, Script, Show Movement, Show Name, Show Name Sort Order, Subtitle, Track Number, Track Title, Track Title Sort Order, Track Total, WWW, WWW: Artist, WWW: Audio File, WWW: Audio Source, WWW: Commercial Info, WWW: Copyright, WWW: Payment, WWW: Publisher, WWW: Radio Page, Website, Work Title, Writer, Year<br><br>
 
 [Дізнатися більше](/docs/guide/evertag/evertag-tag-field-mappings/)
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Як завантажити файли?" closed="true" %}}
+{{% ls-details title="Як завантажити файли?" closed="true" %}}
 Перш ніж ви зможете завантажити аудіо файли та редагувати аудіо теги, вам потрібно підключити хмарний сервіс зберігання.<br>
 Відкрийте екран "Підключення" та додайте вашого постачальника хмарного сховища.<br>
 Після додавання ви можете почати завантажувати файли в додаток.<br><br>
@@ -321,10 +321,10 @@ ASIN, AcoustID: Fingerprint, AcoustID: Identifier, Album, Album Artist, Album Ar
 – Перейдіть до папки, яку ви хочете завантажити.<br>
 – Натисніть кнопку "Більше дій" ("...") у верхньому правому куті та виберіть пункт меню "Вибрати".<br>
 – Виберіть файли або папки, які ви хочете завантажити, та натисніть на дію "Завантажити".<br>
-{{% /details %}}
+{{% /ls-details %}}
 
 
-{{% details title="Які хмарні сервіси підтримуються?" closed="true" %}}
+{{% ls-details title="Які хмарні сервіси підтримуються?" closed="true" %}}
 Якщо ваша музична бібліотека зберігається в хмарі, ви можете підключити найпопулярніші хмарні сервіси безпосередньо в додатку:<br>
 Dropbox, OneDrive, Box, MEGA, Yandex.Disk, MediaFire, pCloud, HiDrive.<br><br>
 
@@ -332,9 +332,9 @@ Dropbox, OneDrive, Box, MEGA, Yandex.Disk, MediaFire, pCloud, HiDrive.<br><br>
 
 Ви також можете редагувати аудіо файли, збережені локально на вашому пристрої, використовуючи функцію відкриття на місці. Не потрібно копіювати їх з інших додатків — просто відкрийте та редагуйте безпосередньо.<br><br>
 
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Як автоматично оновити метадані файлу в хмарному сервісі?" closed="true" %}}
+{{% ls-details title="Як автоматично оновити метадані файлу в хмарному сервісі?" closed="true" %}}
 Після завершення редагування метаданих натисніть кнопку "Зберегти" у верхньому правому куті, щоб застосувати зміни до вибраних файлів.<br><br>
 
 Якщо ви редагуєте файл, збережений у хмарі, додаток надає кілька варіантів оновлення метаданих файлу. Ці поведінки можна налаштувати в параметрах:<br><br>
@@ -344,10 +344,10 @@ Dropbox, OneDrive, Box, MEGA, Yandex.Disk, MediaFire, pCloud, HiDrive.<br><br>
 • **Не оновлювати метадані файлу** – Коли увімкнено, додаток пропустить оновлення метаданих хмарного файлу після редагування.<br><br>
 
 Ви можете знайти та змінити ці параметри в налаштуваннях Evertag у розділі налаштувань оновлення метаданих.
-{{% /details %}}
+{{% /ls-details %}}
 
 
-{{% details title="Як додати новий обліковий запис?" closed="true" %}}
+{{% ls-details title="Як додати новий обліковий запис?" closed="true" %}}
 Щоб підключити хмарний сервіс, відкрийте вкладку "Підключення" → виберіть пункт меню "Підключитися до хмарного сховища" → оберіть хмарний сервіс зберігання зі списку → введіть свої облікові дані та натисніть "Готово".<br><br>
 
 Якщо у вас виникли проблеми, переконайтеся, що ваше інтернет-з'єднання активне, і перевірте логін та пароль ще раз.<br><br>
@@ -355,9 +355,9 @@ Dropbox, OneDrive, Box, MEGA, Yandex.Disk, MediaFire, pCloud, HiDrive.<br><br>
 Наразі підтримуються такі сервіси: Dropbox, OneDrive, Box, MEGA, Yandex.Disk, Media Fire, PCloud та HiDrive.<br><br>
 
 У Преміум-версії додатку ви можете додати необмежену кількість хмарних облікових записів.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Як керувати моїми файлами в мережевому сховищі?" closed="true" %}}
+{{% ls-details title="Як керувати моїми файлами в мережевому сховищі?" closed="true" %}}
 Якщо вам потрібно редагувати кілька файлів у вашому хмарному сховищі, активуйте режим вибору, натиснувши кнопку "..." у верхньому правому куті.<br><br>
 
 Після активації поруч з кожним файлом з'являться прапорці. Потім ви можете виконувати дії над окремими файлами або вибрати кілька файлів для застосування масових дій.<br><br>
@@ -371,10 +371,10 @@ Dropbox, OneDrive, Box, MEGA, Yandex.Disk, MediaFire, pCloud, HiDrive.<br><br>
 • <strong>Сітка/Список</strong> – Перемикання між табличним та мініатюрним режимами перегляду.<br><br>
 
 Якщо недостатньо місця для відображення всіх опцій, з'явиться кнопка "Більше дій". Натисніть на неї, щоб отримати доступ до повного списку доступних дій.
-{{% /details %}}
+{{% /ls-details %}}
 
 
-{{% details title="Як редагувати кілька файлів як один файл?" closed="true" %}}
+{{% ls-details title="Як редагувати кілька файлів як один файл?" closed="true" %}}
 За допомогою "пакетного режиму" ви можете редагувати кілька файлів одночасно та швидко й ефективно застосовувати спільні зміни метаданих.<br><br>
 
 Щоб активувати пакетний режим:<br>
@@ -382,38 +382,38 @@ Dropbox, OneDrive, Box, MEGA, Yandex.Disk, MediaFire, pCloud, HiDrive.<br><br>
 • Натисніть кнопку "Редагувати кілька файлів одночасно".<br><br>
 
 Цей режим особливо корисний, коли вам потрібно застосувати однакову назву альбому, виконавця, жанр або інші поля метаданих до кількох аудіо файлів.
-{{% /details %}}
+{{% /ls-details %}}
 
 </div>
 
 <div class="hx:mt-6"></div>
 
-{{< hextra/section-headline >}}
+{{< ls-section-headline >}}
   Посібник користувача
-{{< /hextra/section-headline >}}
+{{< /ls-section-headline >}}
 
 <div class="hx:mt-6"></div>
 
 <div class="hx:w-full">
 
 <div class="hx:w-full hx:mx-auto hx:flex hx:flex-col hx:items-center hx:text-center">
-  {{< hextra/info-paragraph border="false" >}}
+  {{< ls-info-paragraph border="false" >}}
   У цьому посібнику ви дізнаєтесь, як використовувати можливості Evertag на вашому iPhone, iPad та Mac, роблячи ваш досвід управління музикою зручним та приємним.
-  {{< /hextra/info-paragraph >}}
+  {{< /ls-info-paragraph >}}
 </div>
 
 {{< cards >}}
-  {{< feature-card icon="location-marker" title="Навігація" subtitle="Дізнайтесь, як легко переміщуватися по нашому додатку за допомогою Панелі вкладок (для користувачів iPhone) або Лівого меню (для користувачів iPad та Mac) для доступу та вивчення всіх функцій додатку." link="/docs/guide/evertag/evertag-guide-navigation" >}}
+  {{< ls-feature-card icon="location-marker" title="Навігація" subtitle="Дізнайтесь, як легко переміщуватися по нашому додатку за допомогою Панелі вкладок (для користувачів iPhone) або Лівого меню (для користувачів iPad та Mac) для доступу та вивчення всіх функцій додатку." link="/docs/guide/evertag/evertag-guide-navigation" >}}
 
-  {{< feature-card icon="cloud" title="Підключення" subtitle="Легко пов'яжіть усі ваші доступні хмарні облікові записи з вашими цінними аудіо файлами. Ви навіть можете редагувати свої онлайн-файли без зусиль за допомогою нашого інтегрованого файлового менеджера." link="/docs/guide/evertag/evertag-guide-connections" >}}
+  {{< ls-feature-card icon="cloud" title="Підключення" subtitle="Легко пов'яжіть усі ваші доступні хмарні облікові записи з вашими цінними аудіо файлами. Ви навіть можете редагувати свої онлайн-файли без зусиль за допомогою нашого інтегрованого файлового менеджера." link="/docs/guide/evertag/evertag-guide-connections" >}}
 
-  {{< feature-card icon="folder" title="Локальні файли" subtitle="Переглядайте та організовуйте файли, збережені в папці Документи додатку або на вашому пристрої. Використовуйте вбудований файловий менеджер для редагування та управління вашими аудіо файлами з легкістю." link="/docs/guide/evertag/evertag-guide-local-files" >}}
+  {{< ls-feature-card icon="folder" title="Локальні файли" subtitle="Переглядайте та організовуйте файли, збережені в папці Документи додатку або на вашому пристрої. Використовуйте вбудований файловий менеджер для редагування та управління вашими аудіо файлами з легкістю." link="/docs/guide/evertag/evertag-guide-local-files" >}}
 
-  {{< feature-card icon="pencil-alt" title="Редактор тегів" subtitle="Опануйте мистецтво маніпулювання метаданими аудіо файлів. Дізнайтесь, як редагувати метадані, змінювати обкладинки альбомів та безперешкодно керувати кількома файлами одночасно." link="/docs/guide/evertag/evertag-guide-tag-editor" >}}
+  {{< ls-feature-card icon="pencil-alt" title="Редактор тегів" subtitle="Опануйте мистецтво маніпулювання метаданими аудіо файлів. Дізнайтесь, як редагувати метадані, змінювати обкладинки альбомів та безперешкодно керувати кількома файлами одночасно." link="/docs/guide/evertag/evertag-guide-tag-editor" >}}
 
-  {{< feature-card icon="code" title="Зіставлення полів тегів" subtitle="Досліджуйте повний список полів аудіо тегів, які підтримуються додатком Evertag, включаючи внутрішні назви полів та зіставлення між основними форматами метаданих." link="/docs/guide/evertag/evertag-tag-field-mappings" >}}
+  {{< ls-feature-card icon="code" title="Зіставлення полів тегів" subtitle="Досліджуйте повний список полів аудіо тегів, які підтримуються додатком Evertag, включаючи внутрішні назви полів та зіставлення між основними форматами метаданих." link="/docs/guide/evertag/evertag-tag-field-mappings" >}}
 
-  {{< feature-card icon="adjustments" title="Налаштування" subtitle="Дізнайтесь, як налаштувати ваш досвід роботи з додатком, тонко налаштувати продуктивність, керувати використанням даних та адаптувати мовні та інтерфейсні уподобання на ваш смак." link="/docs/guide/evertag/evertag-guide-settings" >}}
+  {{< ls-feature-card icon="adjustments" title="Налаштування" subtitle="Дізнайтесь, як налаштувати ваш досвід роботи з додатком, тонко налаштувати продуктивність, керувати використанням даних та адаптувати мовні та інтерфейсні уподобання на ваш смак." link="/docs/guide/evertag/evertag-guide-settings" >}}
 
 {{< /cards >}}
 

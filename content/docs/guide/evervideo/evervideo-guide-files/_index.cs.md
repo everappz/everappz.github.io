@@ -33,7 +33,7 @@ Záložka Soubory je rozdělena do přehledných sekcí, které se zobrazují v 
 V pravém horním rohu obrazovky Soubory je tlačítko Přenosy (ikona točících se šipek). Klepněte na něj a otevřete frontu přenosů, kde sledujete každé stahování a nahrávání ze všech zdrojů.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Soubory Evervideo přes připojená úložiště" image="/docs/guide/evervideo/img/evervideo-files-connected-storages.webp" >}}
+  {{< ls-card title="" subtitle="Soubory Evervideo přes připojená úložiště" image="/docs/guide/evervideo/img/evervideo-files-connected-storages.webp" >}}
 {{< /cards >}}
 
 ## Připojení k cloudovému úložišti
@@ -41,7 +41,7 @@ V pravém horním rohu obrazovky Soubory je tlačítko Přenosy (ikona točící
 Sekce Cloudové úložiště záložky Soubory je místo, kde žije každý připojený účet, NAS, mediální server a stream — vedle sebe, v jednom rolovatelném seznamu.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Sekce Cloudové úložiště v záložce Soubory Evervideo" image="/docs/guide/evervideo/img/evervideo-connections.webp" >}}
+  {{< ls-card title="" subtitle="Sekce Cloudové úložiště v záložce Soubory Evervideo" image="/docs/guide/evervideo/img/evervideo-connections.webp" >}}
 {{< /cards >}}
 
 - Otevřete záložku **Soubory**.
@@ -51,7 +51,7 @@ Sekce Cloudové úložiště záložky Soubory je místo, kde žije každý při
 - Zadejte přihlašovací údaje na oficiální autorizační stránce poskytovatele cloudu a klepněte na **Hotovo**.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Připojení cloudové služby v Evervideo" image="/docs/guide/evervideo/img/evervideo-connect-cloud-storage.webp" >}}
+  {{< ls-card title="" subtitle="Připojení cloudové služby v Evervideo" image="/docs/guide/evervideo/img/evervideo-connect-cloud-storage.webp" >}}
 {{< /cards >}}
 
 Pokud narazíte na problémy, zkontrolujte připojení k internetu a přihlašovací údaje. V prémiové verzi aplikace můžete přidat neomezený počet služeb; bezplatná verze podporuje až tři.
@@ -161,7 +161,7 @@ Tato sekce zobrazuje každé zařízení ve vaší místní síti, ke kterému s
 - V případě potřeby zadejte přihlašovací údaje pro dokončení připojení.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Dostupná zařízení v místní síti v Evervideo" image="/docs/guide/evervideo/img/evervideo-available-devices.webp" >}}
+  {{< ls-card title="" subtitle="Dostupná zařízení v místní síti v Evervideo" image="/docs/guide/evervideo/img/evervideo-available-devices.webp" >}}
 {{< /cards >}}
 
 ## Wi-Fi Drive
@@ -169,7 +169,7 @@ Tato sekce zobrazuje každé zařízení ve vaší místní síti, ke kterému s
 Wi-Fi Drive umožňuje bezdrátový přenos souborů z počítače do iOS zařízení přes libovolný prohlížeč, Finder nebo Průzkumník souborů. Zařízení a počítač musí být ve stejné Wi-Fi síti.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Wi-Fi Drive v Evervideo" image="/docs/guide/evervideo/img/evervideo-wifi-drive.webp" >}}
+  {{< ls-card title="" subtitle="Wi-Fi Drive v Evervideo" image="/docs/guide/evervideo/img/evervideo-wifi-drive.webp" >}}
 {{< /cards >}}
 
 ### Aktivace Wi-Fi Drive
@@ -201,7 +201,7 @@ Připojte USB disk nebo SD kartu k iPhone, iPad nebo Mac přes adaptér Lightnin
 Klepněte na libovolnou připojenou cloudovou službu pro otevření prohlížeče souborů. Složky zobrazují náhledy videí, jsou-li dostupné, a klepnutím na video se okamžitě spustí přehrávání, zatímco zbytek souboru se nadále streamuje na pozadí.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Procházení složek v připojených úložištích v Evervideo" image="/docs/guide/evervideo/img/evervideo-all-connected-device-folders.webp" >}}
+  {{< ls-card title="" subtitle="Procházení složek v připojených úložištích v Evervideo" image="/docs/guide/evervideo/img/evervideo-all-connected-device-folders.webp" >}}
 {{< /cards >}}
 
 ## Rychlý přístup
@@ -209,7 +209,7 @@ Klepněte na libovolnou připojenou cloudovou službu pro otevření prohlíže�
 Sekce Rychlý přístup se nachází v horní části záložky Soubory. Poskytuje rychlý přístup k oblíbeným a naposledy otevřeným souborům a složkám — jak z cloudových služeb, tak z místního úložiště. Vždy když otevřete soubor nebo složku z cloudu, přidá se do seznamu Naposledy otevřených. Hluboce vnořené složky lze označit jako Oblíbené pro rychlý přístup bez procházení struktury adresářů.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Online odkazy a rychlý přístup v Evervideo" image="/docs/guide/evervideo/img/evervideo-connections-online-links.webp" >}}
+  {{< ls-card title="" subtitle="Online odkazy a rychlý přístup v Evervideo" image="/docs/guide/evervideo/img/evervideo-connections-online-links.webp" >}}
 {{< /cards >}}
 
 ## Soubory v této aplikaci
@@ -217,7 +217,7 @@ Sekce Rychlý přístup se nachází v horní části záložky Soubory. Poskytu
 Tato sekce zobrazuje soubory a složky uložené v sandboxovaném adresáři Dokumenty Evervideo — vše, co jste stáhli z cloudu, přenesli přes Wi-Fi Drive, zkopírovali přes Sdílení souborů Finder nebo importovali z jiné aplikace.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Soubory v této aplikaci v Evervideo" image="/docs/guide/evervideo/img/evervideo-files-in-this-application.webp" >}}
+  {{< ls-card title="" subtitle="Soubory v této aplikaci v Evervideo" image="/docs/guide/evervideo/img/evervideo-files-in-this-application.webp" >}}
 {{< /cards >}}
 
 ### Složka Dokumenty
@@ -225,7 +225,7 @@ Tato sekce zobrazuje soubory a složky uložené v sandboxovaném adresáři Dok
 Složka Dokumenty je kořenem všeho uvnitř sekce Soubory v této aplikaci. Můžete vytvářet podsložky, přejmenovávat soubory, přesouvat je a organizovat je jak chcete.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Místní soubory Evervideo — složka Dokumenty" image="/docs/guide/evervideo/img/evervideo-local-files-documents.webp" >}}
+  {{< ls-card title="" subtitle="Místní soubory Evervideo — složka Dokumenty" image="/docs/guide/evervideo/img/evervideo-local-files-documents.webp" >}}
 {{< /cards >}}
 
 ## Soubory v tomto iPhone/iPad/Mac
@@ -238,7 +238,7 @@ Tato sekce zobrazuje videa umístěná ve vašem zařízení, ale v různých ap
 Můžete také použít Připojit složku pro vytvoření odkazu na složku ve vašem zařízení s přístupem pro čtení/zápis — ideální pro práci se složkou na iCloud Drive nebo připojeném USB disku bez kopírování čehokoli.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Soubory v tomto zařízení v Evervideo" image="/docs/guide/evervideo/img/evervideo-files-on-this-device.webp" >}}
+  {{< ls-card title="" subtitle="Soubory v tomto zařízení v Evervideo" image="/docs/guide/evervideo/img/evervideo-files-on-this-device.webp" >}}
 {{< /cards >}}
 
 ## Speciální složky
@@ -276,7 +276,7 @@ Když otevřete složku, klepněte na tlačítko **"..."** v pravém horním roh
 Klepněte na **"..."** v pravém horním rohu a zvolte **Vybrat** pro vstup do režimu výběru. Vedle každého souboru a složky se zobrazí zaškrtávací políčka. Klepnutím vyberte jednu nebo více položek a poté proveďte hromadné akce: Přehrát jako další, Přehrát později, Přidat do knihovny médií, Přidat do playlistu, Kopírovat, Nahrát, Přesunout, Přejmenovat nebo Smazat.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Režim výběru ve správci souborů Evervideo" image="/docs/guide/evervideo/img/evervideo-selection-mode-in-files.webp" >}}
+  {{< ls-card title="" subtitle="Režim výběru ve správci souborů Evervideo" image="/docs/guide/evervideo/img/evervideo-selection-mode-in-files.webp" >}}
 {{< /cards >}}
 
 Pokud chcete zacházet s připojeným cloudovým úložištěm jako s pouze pro čtení (abyste zabránili náhodnému mazání), povolte Nastavení → Správce souborů → Upravit online soubory → Vypnout, čímž skryjete všechny destruktivní operace z uživatelského rozhraní.
@@ -318,13 +318,13 @@ Pro každou složku v cloudovém úložišti máte k dispozici mnoho akcí klepn
 V pravém horním rohu záložky Soubory je tlačítko **Přenosy** (ikona točících se šipek). Klepněte na něj pro otevření fronty přenosů — seznam každého aktivního stahování a nahrávání ze všech zdrojů s průběhem v reálném čase, rychlostí a odhadovaným časem dokončení pro každý soubor.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Fronta přenosů souborů v Evervideo" image="/docs/guide/evervideo/img/evervideo-file-transfers.webp" >}}
+  {{< ls-card title="" subtitle="Fronta přenosů souborů v Evervideo" image="/docs/guide/evervideo/img/evervideo-file-transfers.webp" >}}
 {{< /cards >}}
 
 Přenosy můžete pozastavit, obnovit, opakovat neúspěšné přenosy, přeuspořádat položky pro upřednostnění konkrétních stahování nebo je individuálně zrušit. Rychlost fronty přenosů (maximální počet paralelních úloh), typ sítě (pouze Wi-Fi nebo Wi-Fi + Mobilní data) a přenosy na pozadí lze nastavit v Nastavení → Správce souborů.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Akce ve frontě přenosů souborů v Evervideo" image="/docs/guide/evervideo/img/evervideo-file-transfers-actions.webp" >}}
+  {{< ls-card title="" subtitle="Akce ve frontě přenosů souborů v Evervideo" image="/docs/guide/evervideo/img/evervideo-file-transfers-actions.webp" >}}
 {{< /cards >}}
 
 ## Offline režim a synchronizované offline složky

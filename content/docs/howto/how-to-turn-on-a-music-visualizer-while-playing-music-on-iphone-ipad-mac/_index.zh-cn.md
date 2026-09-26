@@ -7,12 +7,12 @@ tags: ["Evermusic", "Flacbox", "可视化", "操作指南", "Milkdrop", "project
 readingTime: 9
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 **简短回答：** [Evermusic](/products/evermusic) 和 [Flacbox](/products/flacbox) 都内置一个全屏**音乐可视化**功能，随着你的音乐绘制出律动的彩色画面。从**正在播放**播放器（**⋯ 更多 > 可视化**）打开它，或从**设置 > 可视化**打开，然后选择一个预设或**自动**，并点按**开始可视化**。在可视化画面上，轻点一次可显示或隐藏控件，使用**上一个**和**下一个**箭头来切换画面。它采用著名的 **Milkdrop（projectM）**引擎，带有 **500 个预设**，通过 **OpenGL** 渲染，并可在 **iPhone、iPad 和 Mac** 上运行。两个应用中的操作步骤完全相同。完整步骤见下文。
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="音乐可视化：Starfield Sectors 预设" image="/docs/howto/how-to-turn-on-a-music-visualizer-while-playing-music-on-iphone-ipad-mac/music-visualizer-starfield-sectors-preset.webp" imageStyle="border-radius: clamp(14px, 2vw, 28px);" >}}
+{{< ls-card title="" subtitle="音乐可视化：Starfield Sectors 预设" image="/docs/howto/how-to-turn-on-a-music-visualizer-while-playing-music-on-iphone-ipad-mac/music-visualizer-starfield-sectors-preset.webp" imageStyle="border-radius: clamp(14px, 2vw, 28px);" >}}
 {{< /cards >}}
 
 ## 什么是可视化效果？
@@ -85,50 +85,50 @@ readingTime: 9
 
 ## 常见问题
 
-{{% details title="如何在 Evermusic 或 Flacbox 中开启可视化效果？" closed="true" %}}
+{{% ls-details title="如何在 Evermusic 或 Flacbox 中开启可视化效果？" closed="true" %}}
 打开正在播放播放器，点按 ⋯（更多）按钮，然后选择可视化。你也可以从设置 > 可视化打开它。然后选择一个预设（或自动）并点按开始可视化。两个应用中的步骤相同。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="可视化效果基于什么？" closed="true" %}}
+{{% ls-details title="可视化效果基于什么？" closed="true" %}}
 它使用开源的 projectM 引擎，播放 Milkdrop 风格的预设。这些是许多人从桌面音乐播放器中熟知的、随音乐反应的动画画面。Evermusic 和 Flacbox 都包含 500 个预设，并通过 OpenGL 绘制它们。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="一共有多少个可视化预设？" closed="true" %}}
+{{% ls-details title="一共有多少个可视化预设？" closed="true" %}}
 500 个预设。每一个都是一个不同的动画场景，你可以用下一个和上一个箭头在它们之间切换，或让自动模式为你在它们之间循环。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="可视化效果会对音乐作出反应吗？" closed="true" %}}
+{{% ls-details title="可视化效果会对音乐作出反应吗？" closed="true" %}}
 会的。画面会实时响应你正在播放的音频，所以形状、颜色和运动会随曲目的节拍和能量变化。它适用于本地文件、云盘、媒体服务器和网络电台。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="如何切换可视化预设？" closed="true" %}}
+{{% ls-details title="如何切换可视化预设？" closed="true" %}}
 轻点屏幕一次以显示控件，然后使用底部的上一个和下一个箭头在预设之间切换。顶部的名称和计数器（例如 429 / 500）会随你的切换而更新。你也可以以自动模式启动，让应用自动切换预设。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="什么是自动模式？" closed="true" %}}
+{{% ls-details title="什么是自动模式？" closed="true" %}}
 自动模式从预设选择器中选择，会自行在各预设之间切换，每 30 秒平滑交叉淡入淡出地换到一个新预设。这是无需触碰屏幕即可享受这场秀的最简单方式。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="如何隐藏屏幕上的控件？" closed="true" %}}
+{{% ls-details title="如何隐藏屏幕上的控件？" closed="true" %}}
 轻点屏幕一次以隐藏控件，获得干净的全屏视图，再次轻点将其调回。控件也会在几秒后自行隐藏。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="可视化效果能在 Mac 上运行吗？" closed="true" %}}
+{{% ls-details title="可视化效果能在 Mac 上运行吗？" closed="true" %}}
 可以。在 Mac 上，Evermusic 和 Flacbox 都会在其自己的窗口中打开可视化效果，并通过原生的桌面 OpenGL 绘制它，让你在大屏幕上获得同样随音乐反应的 Milkdrop 画面。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="可视化效果能在 iPhone 和 iPad 上运行吗？" closed="true" %}}
+{{% ls-details title="可视化效果能在 iPhone 和 iPad 上运行吗？" closed="true" %}}
 可以。在 iPhone 和 iPad 上它以全屏运行，通过 OpenGL ES 绘制，在 Retina 显示屏上实现流畅动画。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="可视化效果运行时我的屏幕会变暗或锁定吗？" closed="true" %}}
+{{% ls-details title="可视化效果运行时我的屏幕会变暗或锁定吗？" closed="true" %}}
 不会。可视化效果开启时应用会让屏幕保持唤醒，所以这场秀不会因显示屏变暗或锁定而被打断。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="应用会记住我选择的预设吗？" closed="true" %}}
+{{% ls-details title="应用会记住我选择的预设吗？" closed="true" %}}
 会的。你选择的最后一个预设会被保存并在预设选择器中高亮，所以很容易回到你喜欢的那个。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="当前预设名称显示在哪里？" closed="true" %}}
+{{% ls-details title="当前预设名称显示在哪里？" closed="true" %}}
 在可视化画面的顶部居中位置，同时带有一个计数器，例如 429 / 500，显示你在整套预设中处于第几个。在示例截图中，预设是 Starfield Sectors。
-{{% /details %}}
+{{% /ls-details %}}

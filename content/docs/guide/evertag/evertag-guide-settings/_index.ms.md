@@ -21,7 +21,7 @@ Pada skrin ini, anda boleh mengakses tetapan aplikasi dan menaik tarafnya ke ver
 - **Undang-undang & privasi** — Terma, Dasar Privasi, Notis Undang-undang, Analitik & pengumpulan data
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Skrin Tetapan Evertag" image="/docs/guide/evertag/img/settings.webp" >}}
+  {{< ls-card title="" subtitle="Skrin Tetapan Evertag" image="/docs/guide/evertag/img/settings.webp" >}}
 {{< /cards >}}
 
 ## Naik Taraf ke Premium
@@ -63,7 +63,7 @@ Mengaktifkan skrin perlindungan kata laluan jika anda ingin melindungi data apli
 Pengurus fail menyokong akses ke akaun storan awan yang disambungkan dan menawarkan operasi kelompok untuk pengurusan cepat berbilang fail.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Skrin Pengurus Fail Tetapan Evertag" image="/docs/guide/evertag/img/settings-file-manager.webp" >}}
+  {{< ls-card title="" subtitle="Skrin Pengurus Fail Tetapan Evertag" image="/docs/guide/evertag/img/settings-file-manager.webp" >}}
 {{< /cards >}}
 
 ### Pemindahan fail
@@ -103,7 +103,7 @@ Kosongkan folder cache aplikasi untuk mendapatkan kembali ruang storan.
 Dalam bahagian ini, anda boleh mengkonfigurasi penyunting tag audio terbina dalam.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Skrin Penyunting Tag Tetapan Evertag" image="/docs/guide/evertag/img/settings-tag-editor.webp" >}}
+  {{< ls-card title="" subtitle="Skrin Penyunting Tag Tetapan Evertag" image="/docs/guide/evertag/img/settings-tag-editor.webp" >}}
 {{< /cards >}}
 
 ### Penskalaan kulit album
@@ -136,7 +136,7 @@ Dalam bahagian ini, anda boleh mengaktifkan ciri WiFi Drive, yang membolehkan an
 Dalam bahagian ini, anda boleh menyesuaikan tetapan antara muka pengguna mengikut keutamaan anda.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Skrin Personalisasi Tetapan Evertag" image="/docs/guide/evertag/img/settings-personalization.webp" >}}
+  {{< ls-card title="" subtitle="Skrin Personalisasi Tetapan Evertag" image="/docs/guide/evertag/img/settings-personalization.webp" >}}
 {{< /cards >}}
 
 ### Ikon aplikasi

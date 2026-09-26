@@ -14,7 +14,7 @@ authors:
     image: "/images/about/artem-meleshko-founder-everappz.webp"
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 **ملخص:** يفوز Evermusic في 5 من أصل 8 فئات، مع 3 تعادلات. يقدم دعماً أوسع للتخزين السحابي (أكثر من 12 خدمة مقابل VOX Cloud فقط)، وميزات كتب صوتية مدمجة، ومحرر علامات ID3، ونقل الملفات لاسلكياً. يجذب VOX المستخدمين الذين يفضلون السحابة الخاصة به والتصميم البسيط.
 
@@ -34,8 +34,8 @@ authors:
 | إمكانية الوصول (VoiceOver) | نعم | نعم | تعادل |
 
 {{< cards >}}
-  {{< card link="https://apps.apple.com/us/app/evermusic-cloud-music-player/id885367198" title="تحميل Evermusic" icon="download" tag="مجاني" >}}
-  {{< card link="https://apps.apple.com/us/app/vox-mp3-flac-music-player/id916215494" title="تحميل VOX" icon="download" tag="مجاني" >}}
+  {{< ls-card link="https://apps.apple.com/us/app/evermusic-cloud-music-player/id885367198" title="تحميل Evermusic" icon="download" tag="مجاني" >}}
+  {{< ls-card link="https://apps.apple.com/us/app/vox-mp3-flac-music-player/id916215494" title="تحميل VOX" icon="download" tag="مجاني" >}}
 {{< /cards >}}
 
 ## دعم التخزين السحابي
@@ -107,18 +107,18 @@ authors:
 
 ## الأسئلة الشائعة
 
-{{% details title="هل Evermusic بديل جيد لـ VOX؟" closed="true" %}}
+{{% ls-details title="هل Evermusic بديل جيد لـ VOX؟" closed="true" %}}
 نعم. يدعم Evermusic أكثر من 12 خدمة تخزين سحابي مقارنة بسحابة VOX الخاصة فقط. كما يوفر ميزات الكتب الصوتية وتحرير علامات ID3 ونقل الملفات عبر Wi-Fi التي يفتقر إليها VOX. يمكن تحميل Evermusic مجاناً مع ترقية Premium بدفعة واحدة.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="هل يدعم VOX خدمة Dropbox أو Google Drive؟" closed="true" %}}
+{{% ls-details title="هل يدعم VOX خدمة Dropbox أو Google Drive؟" closed="true" %}}
 لا. يستخدم VOX تخزينه السحابي الخاص VOX Cloud. لا يتصل بخدمات الطرف الثالث مثل Dropbox أو Google Drive أو OneDrive. يدعم Evermusic كل هذه الخدمات والمزيد.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="أي تطبيق أفضل للكتب الصوتية: Evermusic أم VOX؟" closed="true" %}}
+{{% ls-details title="أي تطبيق أفضل للكتب الصوتية: Evermusic أم VOX؟" closed="true" %}}
 Evermusic أفضل بشكل كبير للكتب الصوتية. يتضمن التحكم بسرعة التشغيل وحفظ تلقائي للموضع ودعم الإشارات المرجعية. لا يملك VOX ميزات مخصصة للكتب الصوتية.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="هل يمكنني تحرير علامات الموسيقى على iPhone مع Evermusic؟" closed="true" %}}
+{{% ls-details title="هل يمكنني تحرير علامات الموسيقى على iPhone مع Evermusic؟" closed="true" %}}
 نعم. يتضمن Evermusic محرر علامات ID3 مدمجاً يتيح لك إصلاح عناوين المسارات وأسماء الفنانين ومعلومات الألبوم والبيانات الوصفية الأخرى مباشرة على iPhone أو iPad.
-{{% /details %}}
+{{% /ls-details %}}

@@ -16,7 +16,7 @@ readingTime: 3
 Evertag menawarkan antara muka pengguna yang intuitif. Yang membezakannya dari banyak aplikasi popular ialah pengurus fail terbina dalam, yang memberi pengguna kemampuan untuk menyunting fail audio dan memindahkannya ke dan dari storan awan dengan lancar.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Skrin Evertag" image="/docs/guide/evertag/img/tag-editor.webp" >}}
+  {{< ls-card title="" subtitle="Skrin Evertag" image="/docs/guide/evertag/img/tag-editor.webp" >}}
 {{< /cards >}}
 
 ## Bahagian
@@ -42,7 +42,7 @@ Bahagian Fail Tempatan dibahagikan kepada dua kategori: **Fail dalam aplikasi in
 Hampir setiap item kandungan pada skrin mempunyai butang "Lebih Banyak Tindakan". Ketik untuk mengakses semua tindakan yang tersedia.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evertag Lebih Banyak Tindakan" image="/docs/guide/evertag/img/downloads-file-actions.webp" >}}
+  {{< ls-card title="" subtitle="Evertag Lebih Banyak Tindakan" image="/docs/guide/evertag/img/downloads-file-actions.webp" >}}
 {{< /cards >}}
 
 ## Bar Alat Atas

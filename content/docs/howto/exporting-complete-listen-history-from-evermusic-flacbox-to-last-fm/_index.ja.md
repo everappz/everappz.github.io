@@ -7,7 +7,7 @@ tags: ["evermusic", "flacbox", "最近の項目", "lastfm", "エクスポート"
 readingTime: 5
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **要約:** EvermusciまたはFlacboxからリスニング履歴をCSVファイルとしてエクスポートし、Windows上の無料ツールLast.fm-Scrubbler-WPFを使用してLast.fmにアップロードします。自動スクロブリングも両方のアプリでネイティブに利用できます。
@@ -134,22 +134,22 @@ Evermusciアプリから以前に生成されたCSVファイルを「File:」フ
 
 ## よくある質問
 
-{{% details title="CSVファイルをエクスポートせずに自動的にスクロブルできますか？" closed="true" %}}
+{{% ls-details title="CSVファイルをエクスポートせずに自動的にスクロブルできますか？" closed="true" %}}
 はい。EvermusciとFlacboxの両方が、Last.fmへの自動スクロブリングをサポートしています。ガイドをご覧ください：[Last.fmへのスクロブル方法](/docs/howto/how-to-scrobble-your-music-history-from-evermusic-or-flacbox-to-last-fm)。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="CSVに14日以上前のトラックがある場合はどうなりますか？" closed="true" %}}
+{{% ls-details title="CSVに14日以上前のトラックがある場合はどうなりますか？" closed="true" %}}
 Last.fm-Scrubbler-WPFのインポートモードを使用してください。終了時間からタイムスタンプを再計算し、元の日付に関係なくトラックをスクロブルできます。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Windowsコンピューターを持っていません。Last.fm-Scrubblerを使用できますか？" closed="true" %}}
+{{% ls-details title="Windowsコンピューターを持っていません。Last.fm-Scrubblerを使用できますか？" closed="true" %}}
 はい。MacにVirtualBoxをインストールし、Microsoftから無料のWindows開発環境イメージをダウンロードしてください。仮想マシン内でLast.fm-Scrubbler-WPFを実行してください。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="一部のスクロブルが解析されないのはなぜですか？" closed="true" %}}
+{{% ls-details title="一部のスクロブルが解析されないのはなぜですか？" closed="true" %}}
 アーティスト名などの重要なメタデータが不足しているトラックは解析できません。これは想定内であり、ファイル内の他のトラックには影響しません。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="1日のスクロブル制限はありますか？" closed="true" %}}
+{{% ls-details title="1日のスクロブル制限はありますか？" closed="true" %}}
 はい。Last.fm-Scrubbler-WPFは1日あたり最大2,800スクロブルを許可しています。それ以上必要な場合は、プロセスを複数日に分けてください。
-{{% /details %}}
+{{% /ls-details %}}

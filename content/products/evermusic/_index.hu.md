@@ -16,16 +16,16 @@ screenshots:
   - "https://everappz.com/products/evermusic/screenshots/2048x2732/6.png"
 ---
 
-{{% sr-only %}}
+{{% ls-sr-only %}}
 Az Evermusic egy ingyenes offline zenelejátszó iPhone-ra és Macre, amelyet az Everappz, egy spanyol szoftvercég fejlesztett. Világszerte több mint 11 millió letöltéssel és 4,6 csillagos értékeléssel több mint 18 000 App Store-vélemény alapján az Evermusic az egyik legnépszerűbb harmadik féltől származó zenelejátszó iOS-en. Az alkalmazás több mint 30 felhőalapú tárolószolgáltatáshoz csatlakozik, beleértve az iCloud Drive-ot, Google Drive-ot, Dropboxot, OneDrive-ot, MEGA-t, Boxot, pCloudot és a Yandex.Disk-et, lehetővé téve a felhasználóknak, hogy személyes zenei könyvtárukat közvetlenül a felhőből streameljék, vagy számokat töltsenek le offline hallgatáshoz. Az Evermusic az audioformátumok széles skáláját támogatja, beleértve az MP3, FLAC, AAC, ALAC, WAV, AIFF, OGG, OPUS, WMA, APE és DSD formátumokat. A legfontosabb funkciók közé tartozik a 10 sávos audio equalizer előbeállításokkal, crossfade és szünetmentes lejátszás, M3U lejátszási listák importálása és exportálása, dalszöveg megjelenítés, hangkönyvjelzők, Apple CarPlay integráció, AirPlay és Chromecast streaming, valamint Last.fm scrobbling. Az alkalmazás támogatja a helyi hálózati streaminget SMB, WebDAV és DLNA protokollokon keresztül, valamint az USB flash meghajtóról történő lejátszást Lightning vagy USB-C adaptereken keresztül. Az Evermusic ingyenesen letölthető az App Store-ból opcionális alkalmazáson belüli vásárlásokkal, amelyek havi előfizetést tartalmaznak $4.99-ért, éves előfizetést $19.99-ért, vagy egyszeri élethosszig tartó vásárlást $59.99-ért. Az alkalmazás először 2014-ben jelent meg, és rendszeres frissítésekkel aktívan karbantartják.
-{{% /sr-only %}}
+{{% /ls-sr-only %}}
 
 
 <!-- <body class="hx:bg-transparent" style="background: radial-gradient(ellipse at 50% 80%, rgba(59,130,246,0.05), hsla(0,0%,100%,0));"> -->
 
-{{< force-dark >}}
+{{< ls-force-dark >}}
 
-{{< hextra/hero-container
+{{< ls-hero-container
   image="/products/evermusic/heroimage/hero_1200.png"
   imageWidth="600"
   imageCard="true"
@@ -34,40 +34,40 @@ Az Evermusic egy ingyenes offline zenelejátszó iPhone-ra és Macre, amelyet az
 <div class="hx:w-full hx:text-center">
 
 <div class="hx:mt-4">
-{{< downloads-badge >}}
+{{< ls-downloads-badge >}}
 </div>
 
 <div class="hx:mt-6 hx:mb-6">
 <div class="hx:flex hx:gap-4 hx:items-center hx:justify-center">
-  {{< app-icon src="/images/app_icons/png/Evermusic_Icon-App-1024x1024.png" alt="Evermusic Icon" class="hero-headline-icon" size="80" >}}
-  {{< hextra/hero-headline >}}
+  {{< ls-app-icon src="/images/app_icons/png/Evermusic_Icon-App-1024x1024.png" alt="Evermusic Icon" class="hero-headline-icon" size="80" >}}
+  {{< ls-hero-headline >}}
   Evermusic
-  {{< /hextra/hero-headline >}}
+  {{< /ls-hero-headline >}}
 </div>
 </div>
 
 <div class="hx:mb-6">
-{{< hextra/hero-centered-subtitle >}}
+{{< ls-hero-centered-subtitle >}}
 <a href="https://www.chip.de/downloads/Evermusic-Pro-iPhone-_-iPad-App_91614216.html" target="_blank" rel="noopener">
   A tökéletes megoldás saját zenéd rendszerezésére és lejátszására a felhőből <strong>chip.de</strong>
   </a>
-{{< /hextra/hero-centered-subtitle >}}
+{{< /ls-hero-centered-subtitle >}}
 </div>
 
 <div class="hx:mb-6">
-{{< hextra/hero-paragraph >}}
+{{< ls-hero-paragraph >}}
 • Zenehallgatás crossfade-del, szünetmentes lejátszással és hangszínszabályzóval  
 • M3U lejátszási listák importálása és dalok letöltése offline hallgatáshoz  
 • Zene streamelése felhő tárhelyekről, NAS-ról, számítógépről vagy USB flash meghajtóról  
 • Dalszövegek megtekintése hallgatás közben és audio könyvjelzők hozzáadása a folytatáshoz  
-{{< /hextra/hero-paragraph >}}
+{{< /ls-hero-paragraph >}}
 </div>
 
-{{< app-store-badges products="evermusic:ios, evermusic:macos" >}}
+{{< ls-app-store-badges products="evermusic:ios, evermusic:macos" >}}
 
 </div>
 
-{{< /hextra/hero-container >}}
+{{< /ls-hero-container >}}
 
 <div class="hx:mt-6"></div>
 
@@ -75,42 +75,42 @@ Az Evermusic egy ingyenes offline zenelejátszó iPhone-ra és Macre, amelyet az
 
 {{< hextra/feature-grid >}}
 
-  {{< hextra/feature-card
+  {{< ls-glass-feature-card
     title="A zenéd a felhőben"
     subtitle="Hozd létre saját fejlett zenei streaming szolgáltatásodat ingyen! Streameld kedvenc számaidat közvetlenül a felhőből intelligens puffereléssel és zökkenőmentes lejátszással, miközben megtakarítod az eszköz tárhelyét. Csatlakoztass olyan szolgáltatásokat, mint az iCloud Drive, Google Drive, Dropbox, OneDrive, Box, MEGA, pCloud, Proton Drive és még sok más."
     icon="cloud"
     style="background: radial-gradient(ellipse at 50% 80%, rgba(34,197,94,0.15), hsla(0,0%,100%,0));"
   >}}
 
-  {{< hextra/feature-card
+  {{< ls-glass-feature-card
     title="Offline mód"
     subtitle="Az offline mód lehetővé teszi, hogy letöltsd kedvenc albumaidat, számaidat, előadóidat, műfajaidat és lejátszási listáidat offline lejátszásra. Hallgasd bárhol, akár repülőn, a metrón vagy a hálózaton kívül, még akkor is, amikor nincs internetkapcsolatod, streaming és adatforgalom nélkül."
     icon="download"
     style="background: radial-gradient(ellipse at 50% 80%, rgba(234,88,12,0.15), hsla(0,0%,100%,0));"
   >}}
 
-  {{< hextra/feature-card
+  {{< ls-glass-feature-card
     title="Egyszerű fájlátvitel"
     subtitle="Csatlakoztasd a Mac-edet vagy PC-det, és streameld a zenét közvetlenül az otthoni számítógépedről. Vidd át az audiofájlokat zökkenőmentesen a számítógéped és iOS eszközöd között Wi-Fi Drive vagy iTunes File Sharing segítségével. NAS-t vagy USB flash meghajtót is csatlakoztathatsz, és bárhonnan hozzáférhetsz a könyvtáradhoz."
     icon="duplicate"
     style="background: radial-gradient(ellipse at 50% 80%, rgba(251,191,36,0.15), hsla(0,0%,100%,0));"
   >}}
 
-  {{< hextra/feature-card
+  {{< ls-glass-feature-card
     title="Médiakiszolgálók és NAS"
     subtitle="Csatlakozz személyes médiakönyvtáraidhoz és otthoni kiszolgálóidhoz, mint a Plex, Emby, Jellyfin, Subsonic és Navidrome. Kapcsold össze NAS-odat, például a Synology, QNAP, Nextcloud és WD My Cloud Home eszközöket SMB, WebDAV, FTP, SFTP, NFS vagy DLNA/UPnP protokollon keresztül, és férj hozzá a teljes zenegyűjteményedhez bárhonnan."
     icon="desktop-computer"
     style="background: radial-gradient(ellipse at 50% 80%, rgba(59,130,246,0.15), hsla(0,0%,100%,0));"
   >}}
 
-  {{< hextra/feature-card
+  {{< ls-glass-feature-card
     title="Professzionális audiomotor"
     subtitle="Élvezd az igazán szünetmentes lejátszást és a sima crossfade átmenetet a számok között. Formáld a hangzást 10 sávos hangszínszabályzóval, egyéni előbeállításokkal és előerősítéssel, állítható lejátszási sebességgel és hangmagassággal, valamint stúdióeffektek teljes választékával, mint a reverb, echo, chorus, flanger, mélyhang-kiemelés, crossfeed és hangerő-normalizálás."
     icon="adjustments"
     style="background: radial-gradient(ellipse at 50% 80%, rgba(192,38,211,0.15), hsla(0,0%,100%,0));"
   >}}
 
-  {{< hextra/feature-card
+  {{< ls-glass-feature-card
     title="Dalszövegek, widgetek és CarPlay"
     subtitle="Olvasd a beágyazott és szinkronizált LRC dalszövegeket, amelyek a zenével együtt görögnek, akár a zárolt képernyőn, a kezdőképernyő widgetjeiben és az Apple CarPlay felületén is. Adj hozzá Most játszott, Dalszövegek, Kedvencek és Nemrég játszott widgeteket, hogy a zenéd mindig kéznél és szinkronban legyen."
     icon="annotation"
@@ -123,9 +123,9 @@ Az Evermusic egy ingyenes offline zenelejátszó iPhone-ra és Macre, amelyet az
 
 <div class="hx:mt-6"></div>
 
-{{< hextra/section-headline >}}
+{{< ls-section-headline >}}
   Letisztult és egyszerű dizájn
-{{< /hextra/section-headline >}}
+{{< /ls-section-headline >}}
 
 <div class="hx:mt-6"></div>
 
@@ -133,7 +133,7 @@ Az Evermusic egy ingyenes offline zenelejátszó iPhone-ra és Macre, amelyet az
 
 {{< cards cols="4">}}
 
-  {{< design-feature-card 
+  {{< ls-design-feature-card 
     icon="adjustments"
     image="/products/evermusic/screenshots/2048x2732/3.png" 
     title="Audio hangszínszabályzó" 
@@ -142,7 +142,7 @@ Az Evermusic egy ingyenes offline zenelejátszó iPhone-ra és Macre, amelyet az
     subtitle="Finomhangold a hangzást iPod-stílusú hangszínszabályzóval, testreszabható előbeállításokkal és előerősítő szabályzóval a legjobb hallgatási élményért." 
   >}}
 
-  {{< design-feature-card 
+  {{< ls-design-feature-card 
     icon="annotation"
     image="/products/evermusic/screenshots/2048x2732/4.png"  
     title="Dalszöveg megjelenítő" 
@@ -151,7 +151,7 @@ Az Evermusic egy ingyenes offline zenelejátszó iPhone-ra és Macre, amelyet az
     subtitle="Olvasd a beágyazott dalszövegeket és szám megjegyzéseket hallgatás közben. Élvezd a szinkronizált dalszövegeket a magával ragadóbb zenei élményért." 
   >}}
 
-  {{< design-feature-card 
+  {{< ls-design-feature-card 
     icon="collection"
     image="/products/evermusic/screenshots/2048x2732/5.png"  
     title="Lejátszási lista kezelő" 
@@ -160,7 +160,7 @@ Az Evermusic egy ingyenes offline zenelejátszó iPhone-ra és Macre, amelyet az
     subtitle="Hozz létre és rendezz egyéni lejátszási listákat, rendezd át a dalokat, exportáld M3U formátumba, vagy archiváld ZIP fájlként az egyszerű megosztáshoz vagy mentéshez." 
   >}}
 
-  {{< design-feature-card 
+  {{< ls-design-feature-card 
     icon="cloud"
     image="/products/evermusic/screenshots/2048x2732/6.png"  
     title="Felhő zenei streaming" 
@@ -169,7 +169,7 @@ Az Evermusic egy ingyenes offline zenelejátszó iPhone-ra és Macre, amelyet az
     subtitle="Kapcsold össze a legnépszerűbb felhő tárhelyeket, mint a Google Drive, Dropbox és OneDrive, hogy bármikor, bárhol streameld a zenegyűjteményedet." 
   >}}
 
-  {{< design-feature-card 
+  {{< ls-design-feature-card 
     icon="duplicate"
     image="/products/evermusic/screenshots/2048x2732/9.png"  
     title="Fájlkezelő" 
@@ -178,7 +178,7 @@ Az Evermusic egy ingyenes offline zenelejátszó iPhone-ra és Macre, amelyet az
     subtitle="Könnyedén kezeld az audiofájljaidat – nevezd át a számokat, rendezd a mappákat, és vidd át a zenét eszközök között a beépített eszközökkel." 
   >}} 
 
-  {{< design-feature-card 
+  {{< ls-design-feature-card 
     icon="sun"
     image="/products/evermusic/screenshots/2048x2732/10.png"  
     title="Alkalmazás testreszabás" 
@@ -193,9 +193,9 @@ Az Evermusic egy ingyenes offline zenelejátszó iPhone-ra és Macre, amelyet az
 
 <div class="hx:mt-6"></div>
 
-{{< hextra/section-headline >}}
+{{< ls-section-headline >}}
   Teljes funkciókészlet
-{{< /hextra/section-headline >}}
+{{< /ls-section-headline >}}
 
 <div class="hx:mt-6"></div>
 
@@ -203,47 +203,47 @@ Az Evermusic egy ingyenes offline zenelejátszó iPhone-ra és Macre, amelyet az
 
 {{< cards >}}
 
-  {{< feature-card title="Minden audioformátum lejátszása" subtitle="Az Evermusic lejátssza a legnépszerűbb audioformátumokat, köztük az MP3, AAC, M4A, WAV, AIFF, ALAC és M4B formátumokat, így a teljes zenegyűjteményed készen áll a lejátszásra bármely eszközön." icon="music-note" >}}
+  {{< ls-feature-card title="Minden audioformátum lejátszása" subtitle="Az Evermusic lejátssza a legnépszerűbb audioformátumokat, köztük az MP3, AAC, M4A, WAV, AIFF, ALAC és M4B formátumokat, így a teljes zenegyűjteményed készen áll a lejátszásra bármely eszközön." icon="music-note" >}}
 
-  {{< feature-card title="Csatlakoztasd a felhődet" subtitle="Építsd meg saját streaming szolgáltatásodat azzal, hogy a könyvtáradat a felhőbe helyezed és felszabadítod az iPhone tárhelyét. Csatlakoztasd az iCloud, Google Drive, Dropbox, OneDrive, MEGA, Internxt és Proton Drive szolgáltatásokat." icon="cloud" >}}
+  {{< ls-feature-card title="Csatlakoztasd a felhődet" subtitle="Építsd meg saját streaming szolgáltatásodat azzal, hogy a könyvtáradat a felhőbe helyezed és felszabadítod az iPhone tárhelyét. Csatlakoztasd az iCloud, Google Drive, Dropbox, OneDrive, MEGA, Internxt és Proton Drive szolgáltatásokat." icon="cloud" >}}
 
-  {{< feature-card title="Csatlakoztasd a médiakiszolgálóidat" subtitle="Csatlakoztasd személyes médiakiszolgálóidat közvetlenül a könyvtáradhoz, köztük a Plex, Subsonic, Navidrome, Jellyfin és Emby szolgáltatásokat, és streameld könnyedén mindent, amivel otthon rendelkezel." icon="server" >}}
+  {{< ls-feature-card title="Csatlakoztasd a médiakiszolgálóidat" subtitle="Csatlakoztasd személyes médiakiszolgálóidat közvetlenül a könyvtáradhoz, köztük a Plex, Subsonic, Navidrome, Jellyfin és Emby szolgáltatásokat, és streameld könnyedén mindent, amivel otthon rendelkezel." icon="server" >}}
 
-  {{< feature-card title="Csatlakoztasd a számítógéped vagy NAS-od" subtitle="Csatlakoztasd a számítógéped vagy NAS-od SMB, WebDAV, DLNA, FTP, SFTP és NFS protokollon keresztül, natív API-kkal a QNAP, Synology, Nextcloud és WD My Cloud Home eszközökhöz, vagy vidd át a fájlokat Wi-Fi-n." icon="desktop-computer" >}}
+  {{< ls-feature-card title="Csatlakoztasd a számítógéped vagy NAS-od" subtitle="Csatlakoztasd a számítógéped vagy NAS-od SMB, WebDAV, DLNA, FTP, SFTP és NFS protokollon keresztül, natív API-kkal a QNAP, Synology, Nextcloud és WD My Cloud Home eszközökhöz, vagy vidd át a fájlokat Wi-Fi-n." icon="desktop-computer" >}}
 
-  {{< feature-card title="Offline zene" subtitle="Töltsd le kedvenc dalaidat, albumaidat és előadóidat, hogy bármikor offline élvezhesd őket. Engedélyezd az audiolejátszó gyorsítótárát, hogy automatikusan mentse a nemrég lejátszott számokat offline hallgatáshoz." icon="download" >}}
+  {{< ls-feature-card title="Offline zene" subtitle="Töltsd le kedvenc dalaidat, albumaidat és előadóidat, hogy bármikor offline élvezhesd őket. Engedélyezd az audiolejátszó gyorsítótárát, hogy automatikusan mentse a nemrég lejátszott számokat offline hallgatáshoz." icon="download" >}}
 
-  {{< feature-card title="Audio hangszínszabályzó" subtitle="Formáld a hangzást a beépített hangszínszabályzóval, amely kész előbeállításokat kínál a népszerű zenei műfajokhoz, valamint kézi vezérlőket minden szám pontosan olyan finomhangolásához és felerősítéséhez, ahogy szereted." icon="adjustments" >}}
+  {{< ls-feature-card title="Audio hangszínszabályzó" subtitle="Formáld a hangzást a beépített hangszínszabályzóval, amely kész előbeállításokat kínál a népszerű zenei műfajokhoz, valamint kézi vezérlőket minden szám pontosan olyan finomhangolásához és felerősítéséhez, ahogy szereted." icon="adjustments" >}}
 
-  {{< feature-card title="Szünetmentes lejátszás" subtitle="Élvezd a sima, megszakítás nélküli lejátszást a dalok közötti szünetek nélkül, ami tökéletes élő felvételekhez, konceptalbumokhoz, DJ mixekhez és klasszikus zenéhez az elejétől a végéig." icon="volume-up" >}}
+  {{< ls-feature-card title="Szünetmentes lejátszás" subtitle="Élvezd a sima, megszakítás nélküli lejátszást a dalok közötti szünetek nélkül, ami tökéletes élő felvételekhez, konceptalbumokhoz, DJ mixekhez és klasszikus zenéhez az elejétől a végéig." icon="volume-up" >}}
 
-  {{< feature-card title="Crossfade lejátszás" subtitle="Tartsd folyamatosan a zenét a crossfade-del, ahol minden új dal finoman elkezdődik, mielőtt az aktuális véget ér, a zökkenőmentes, folyamatos lejátszásért, néma szünetek nélkül." icon="switch-horizontal" >}}
+  {{< ls-feature-card title="Crossfade lejátszás" subtitle="Tartsd folyamatosan a zenét a crossfade-del, ahol minden új dal finoman elkezdődik, mielőtt az aktuális véget ér, a zökkenőmentes, folyamatos lejátszásért, néma szünetek nélkül." icon="switch-horizontal" >}}
 
-  {{< feature-card title="Audioeffektek" subtitle="Formáld a hangzást a beépített audioeffektekkel. Kapcsold be a hangerő-normalizálást, hogy minden szám azonos hangerőn szóljon, és ízlés szerint adj hozzá reverb, delay, distortion és térbeli hangzás effekteket." icon="chip" >}}
+  {{< ls-feature-card title="Audioeffektek" subtitle="Formáld a hangzást a beépített audioeffektekkel. Kapcsold be a hangerő-normalizálást, hogy minden szám azonos hangerőn szóljon, és ízlés szerint adj hozzá reverb, delay, distortion és térbeli hangzás effekteket." icon="chip" >}}
 
-  {{< feature-card title="Zenevizualizáció" subtitle="Nézd a teljes képernyős animált vizuális elemeket, amelyek valós időben reagálnak a zenédre. Válassz a nagy előbeállítás-könyvtárból, vagy hagyd, hogy automatikusan váltakozzanak hallgatás közben." icon="sparkles" >}}
+  {{< ls-feature-card title="Zenevizualizáció" subtitle="Nézd a teljes képernyős animált vizuális elemeket, amelyek valós időben reagálnak a zenédre. Válassz a nagy előbeállítás-könyvtárból, vagy hagyd, hogy automatikusan váltakozzanak hallgatás közben." icon="sparkles" >}}
 
-  {{< feature-card title="Dalszövegek és megjegyzések" subtitle="Tekintsd meg a beágyazott, időzített dalszövegeket és megjegyzéseket az audiószámaidhoz lejátszás közben, és add hozzá a dalszöveg widgetet a kezdőképernyődhöz a gyors, egy pillantással történő eléréshez bármikor." icon="annotation" >}}
+  {{< ls-feature-card title="Dalszövegek és megjegyzések" subtitle="Tekintsd meg a beágyazott, időzített dalszövegeket és megjegyzéseket az audiószámaidhoz lejátszás közben, és add hozzá a dalszöveg widgetet a kezdőképernyődhöz a gyors, egy pillantással történő eléréshez bármikor." icon="annotation" >}}
 
-  {{< feature-card title="AirPlay és Chromecast" subtitle="Streameld a zenédet vezeték nélkül az Apple TV-re, okoshangszórókra és más eszközökre a beépített AirPlay és Google Chromecast támogatással a könnyed, egész otthonra kiterjedő hallgatásért." icon="device-mobile" >}}
+  {{< ls-feature-card title="AirPlay és Chromecast" subtitle="Streameld a zenédet vezeték nélkül az Apple TV-re, okoshangszórókra és más eszközökre a beépített AirPlay és Google Chromecast támogatással a könnyed, egész otthonra kiterjedő hallgatásért." icon="device-mobile" >}}
 
-  {{< feature-card title="Apple CarPlay" subtitle="Vezess és hallgass biztonságosan egy dedikált Apple CarPlay felülettel, amely a zenédet, lejátszási listáidat és lejátszásvezérlőidet közvetlenül az autód műszerfali kijelzőjére helyezi." icon="truck" >}}
+  {{< ls-feature-card title="Apple CarPlay" subtitle="Vezess és hallgass biztonságosan egy dedikált Apple CarPlay felülettel, amely a zenédet, lejátszási listáidat és lejátszásvezérlőidet közvetlenül az autód műszerfali kijelzőjére helyezi." icon="truck" >}}
 
-  {{< feature-card title="Widgetek" subtitle="Aktiváld az interaktív kezdőképernyő widgeteket a lejátszási sorod gyors eléréséhez, és folytasd pontosan onnan, ahol abbahagytad, az utolsó mentett pozíciótól egyetlen érintéssel." icon="view-grid" >}}
+  {{< ls-feature-card title="Widgetek" subtitle="Aktiváld az interaktív kezdőképernyő widgeteket a lejátszási sorod gyors eléréséhez, és folytasd pontosan onnan, ahol abbahagytad, az utolsó mentett pozíciótól egyetlen érintéssel." icon="view-grid" >}}
 
-  {{< feature-card title="Hangoskönyvek" subtitle="Alakítsd az alkalmazást teljes értékű hangoskönyv-lejátszóvá audio könyvjelzőkkel, lejátszási sebesség szabályozással és mentett médiapozíciókkal, valamint olvasd a fájljaid metaadataiban tárolt szöveges részleteket." icon="book-open" >}}
+  {{< ls-feature-card title="Hangoskönyvek" subtitle="Alakítsd az alkalmazást teljes értékű hangoskönyv-lejátszóvá audio könyvjelzőkkel, lejátszási sebesség szabályozással és mentett médiapozíciókkal, valamint olvasd a fájljaid metaadataiban tárolt szöveges részleteket." icon="book-open" >}}
 
-  {{< feature-card title="Automatikus szinkronizálás" subtitle="A zenei könyvtárad automatikusan szinkronizálódik a felhő és az eszközöd között, minden dalt szépen előadó, album és műfaj szerint csoportosítva, így a gyűjteményed mindig rendezett marad." icon="refresh" >}}
+  {{< ls-feature-card title="Automatikus szinkronizálás" subtitle="A zenei könyvtárad automatikusan szinkronizálódik a felhő és az eszközöd között, minden dalt szépen előadó, album és műfaj szerint csoportosítva, így a gyűjteményed mindig rendezett marad." icon="refresh" >}}
 
-  {{< feature-card title="Lejátszásilista-kezelő" subtitle="Hozz létre és kezelj lejátszási listákat, rendezd át a dalokat, és tedd bármelyik lejátszási listát offline elérhetővé. Rendezd a számaidat név, méret, dalszám vagy album szerint, hogy minden a helyén legyen." icon="collection" >}}
+  {{< ls-feature-card title="Lejátszásilista-kezelő" subtitle="Hozz létre és kezelj lejátszási listákat, rendezd át a dalokat, és tedd bármelyik lejátszási listát offline elérhetővé. Rendezd a számaidat név, méret, dalszám vagy album szerint, hogy minden a helyén legyen." icon="collection" >}}
 
-  {{< feature-card title="ID3 címkeszerkesztő" subtitle="Javítsd a sérült vagy hiányzó metaadatokat a beépített ID3 címkeszerkesztővel, frissítve a címeket, előadókat, albumokat és még sok mást, hogy a zenei könyvtárad tiszta és jól rendezett maradjon." icon="pencil-alt" >}}
+  {{< ls-feature-card title="ID3 címkeszerkesztő" subtitle="Javítsd a sérült vagy hiányzó metaadatokat a beépített ID3 címkeszerkesztővel, frissítve a címeket, előadókat, albumokat és még sok mást, hogy a zenei könyvtárad tiszta és jól rendezett maradjon." icon="pencil-alt" >}}
 
-  {{< feature-card title="Fájlkezelő" subtitle="Rendezd a zenédet az integrált fájlkezelővel, amely olyan hétköznapi műveleteket kezel, mint a másolás, áthelyezés, átnevezés és törlés, hogy minden audiofájlod szépen rendben legyen." icon="folder" >}}
+  {{< ls-feature-card title="Fájlkezelő" subtitle="Rendezd a zenédet az integrált fájlkezelővel, amely olyan hétköznapi műveleteket kezel, mint a másolás, áthelyezés, átnevezés és törlés, hogy minden audiofájlod szépen rendben legyen." icon="folder" >}}
 
-  {{< feature-card title="Speciális keresés" subtitle="Találj meg bármit másodpercek alatt az intelligens keresőmotorral, gyorsan megtalálva kedvenc albumaidat, előadóidat és dalaidat bárhol a teljes zenei könyvtáradban." icon="search" >}}
+  {{< ls-feature-card title="Speciális keresés" subtitle="Találj meg bármit másodpercek alatt az intelligens keresőmotorral, gyorsan megtalálva kedvenc albumaidat, előadóidat és dalaidat bárhol a teljes zenei könyvtáradban." icon="search" >}}
 
-  {{< feature-card title="USB flash kártyák" subtitle="Csatlakoztass külső kártyaolvasókat, mint a SanDisk iXpand, és hallgasd a zenédet közvetlenül SD kártyáról vagy USB flash meghajtóról, extra szinkronizálás vagy letöltés nélkül." icon="inbox" >}}
+  {{< ls-feature-card title="USB flash kártyák" subtitle="Csatlakoztass külső kártyaolvasókat, mint a SanDisk iXpand, és hallgasd a zenédet közvetlenül SD kártyáról vagy USB flash meghajtóról, extra szinkronizálás vagy letöltés nélkül." icon="inbox" >}}
   
 {{< /cards >}}
 
@@ -254,55 +254,55 @@ Az Evermusic egy ingyenes offline zenelejátszó iPhone-ra és Macre, amelyet az
 <div class="hx:mt-6"></div>
 
 <div class="hx:w-full">
-{{< appstore-reviews apps="885367198,1564384601" stars="5,4"  app="Evermusic" >}}
+{{< ls-appstore-reviews apps="885367198,1564384601" stars="5,4"  app="Evermusic" >}}
 </div>
 
 <div class="hx:mt-6"></div>
 
-{{< hextra/section-headline >}}
+{{< ls-section-headline >}}
   Árazási csomagok
-{{< /hextra/section-headline >}}
+{{< /ls-section-headline >}}
 
 <div class="hx:mt-6"></div>
 
 <div class="hx:w-full">
-{{< pricing-plans >}}
+{{< ls-pricing-plans >}}
 
 </div>
 
 <div class="hx:mt-6"></div>
 
 <div class="hx:w-full hx:mx-auto hx:flex hx:flex-col hx:items-center">
-  {{< hextra/info-paragraph border="true" >}}
+  {{< ls-info-paragraph border="true" >}}
    <strong>Családi megosztás</strong>: Minden vásárlás és előfizetés támogatja a Családi megosztást, lehetővé téve a Prémium hozzáférés megosztását a családoddal.<br><strong>Univerzális hozzáférés</strong>: Az élethosszig tartó és előfizetéses csomagok megosztottak az iOS és Mac eszközök között iCloud szinkronizálással.<br><strong>Árazás</strong>: Az árak amerikai dollárban vannak feltüntetve az Egyesült Államok számára. A végső árak régiónként eltérhetnek.  
-  {{< /hextra/info-paragraph >}}
+  {{< /ls-info-paragraph >}}
 </div>
 
 <div class="hx:mt-6"></div>
 
 <div class="hx:w-full">
-{{< app-details heading="true" >}}
+{{< ls-app-details heading="true" >}}
 </div>
 
 <div class="hx:mt-6"></div>
 
-{{< hextra/section-headline >}}
+{{< ls-section-headline >}}
   Gyakran ismételt kérdések
-{{< /hextra/section-headline >}}
+{{< /ls-section-headline >}}
 
 <div class="hx:mt-6"></div>
 
 <div class="hx:w-full">
-{{% details title="Mi az Evermusic?" closed="true" %}}
+{{% ls-details title="Mi az Evermusic?" closed="true" %}}
 Az Evermusic egy zenelejátszó alkalmazás, amely segít kedvenc dalaid hallgatásában különböző felhő tárhely szolgáltatásokról.<br>
 Könnyedén letölthetsz zenét offline lejátszáshoz, lejátszási listákat hozhatsz létre és kezelhetsz, és beépített hangszínszabályzóval javíthatod a hallgatási élményed.<br>
 Olyan szolgáltatásokkal működik, mint a Google Drive, Dropbox, OneDrive és még sok más, így az összes zenédet egy helyen tarthatod és bármely eszközről elérheted.<br><br>
 Az alkalmazás különféle audio formátumokat is támogat, és lehetővé teszi a zenei könyvtárad rendezését előadó, album, műfaj és zeneszerző szerint.<br>
 Szinkronizálhatod a könyvtáradat a felhő tárhelyed és az eszközöd között, biztosítva, hogy kedvenc dalaid mindig elérhetőek legyenek.<br>
 Ráadásul olyan funkciókkal, mint a szünetmentes lejátszás, crossfade, és a Chromecast és AirPlay eszközökre történő streaming, az Evermusic teljes megoldást kínál minden zenei igényedre.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Hogyan működik az Evermusic?" closed="true" %}}
+{{% ls-details title="Hogyan működik az Evermusic?" closed="true" %}}
 Az Evermusic különböző felhő tárhely szolgáltatásokhoz csatlakozik, mint a Google Drive, Dropbox, OneDrive és mások, lehetővé téve a zenei könyvtárad elérését bármely eszközről.<br>
 A csatlakozás után böngészheted és streamelheted a zenédet közvetlenül a felhőből, vagy letöltheted kedvenc dalaidat, albumaidat és lejátszási listáidat offline lejátszáshoz.<br>
 Az alkalmazás több audio formátumot is támogat, megkönnyítve bármely tárolt zenefájl lejátszását.<br><br>
@@ -322,15 +322,15 @@ Fedezd fel útmutatóinkat további részletekért:<br>
 - [Hogyan vihetek át fájlokat vezeték nélkül számítógépről iPhone-ra WiFi-Drive segítségével.](/docs/howto/how-to-transfer-files-wirelessly-from-a-computer-to-an-iphone-using-wifi-drive)<br>
 - [Hogyan csatlakoztathatok USB flash kártyát az iPhone-hoz és hallgathatok zenét vagy kezelhetem a rajta lévő fájlokat.](/docs/howto/how-to-connect-a-usb-flashcard-to-the-iphone-and-listen-to-music-or-manage-files-located-on-it)<br>
 - [Hogyan játszhatok zenét iPhone-on WD My Cloud Home-ról.](/docs/howto/how-to-play-music-on-iphone-from-wd-my-cloud-home)
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Ingyenes az Evermusic?" closed="true" %}}
+{{% ls-details title="Ingyenes az Evermusic?" closed="true" %}}
 Az Evermusic egy ingyenes alkalmazás néhány korlátozással, amelyeket a Prémium verzióra való frissítéssel eltávolíthatsz. Az alkalmazás egyszeri élethosszig tartó alkalmazáson belüli vásárlást és két előfizetési lehetőséget kínál (1 hónap és 1 év) az összes korlátozás eltávolításához, lehetővé téve a legjobb és legoptimálisabb ár kiválasztását. Az árak országonként vagy területenként eltérhetnek. Továbbá vedd figyelembe, hogy a Családi megosztás engedélyezve van minden vásárláshoz és csomaghoz, így megoszthatod a Prémium verziót a családod tagjaival.<br><br>
 Az élethosszig tartó vásárlások és előfizetések megosztottak az iOS és Mac között, iCloud-ot használva az információ szinkronizálásához. Ha rendelkezel Prémium verzióval iOS eszközödön, győződj meg róla, hogy a legújabb verzió van telepítve és az iCloud engedélyezve van. Indítsd el az alkalmazást iOS-en és várj egy percet, amíg a vásárlási információd feltöltődik az iCloudba.<br><br>
 [Bővebben](/docs/faq/evermusic/what-is-the-difference-between-evermusic-and-evermusic-premium/)
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Mi a különbség az ingyenes Evermusic és az Evermusic Premium között?" closed="true" %}}
+{{% ls-details title="Mi a különbség az ingyenes Evermusic és az Evermusic Premium között?" closed="true" %}}
 **Evermusic ingyenes**<br>
 • Tartalmaz hirdetéseket: Az ingyenes verzió hirdetéseket jelenít meg, amelyek alkalmanként megzavarhatják a zenehallgatást.<br>
 • Korlátozott lejátszási listák: Az ingyenes verzióban legfeljebb (10) lejátszási listát hozhatsz létre.<br>
@@ -357,10 +357,10 @@ Az élethosszig tartó vásárlások és előfizetések megosztottak az iOS és 
 • Teljes személyre szabás: Teljes személyre szabási lehetőségek, beleértve az alkalmazásikon megváltoztatásának lehetőségét.<br><br>
 
 [Bővebben](/docs/faq/evermusic/what-is-the-difference-between-evermusic-and-evermusic-premium/)
-{{% /details %}}
+{{% /ls-details %}}
 
 
-{{% details title="Biztonságos az Evermusic?" closed="true" %}}
+{{% ls-details title="Biztonságos az Evermusic?" closed="true" %}}
 Az Evermusic kizárólag hivatalos SDK-t és biztonságos kapcsolatokat használ a csatlakoztatott felhőszolgáltatásokkal való interakcióhoz. A bejelentkezési neved és jelszavad nem érhető el az alkalmazás számára. Az alkalmazásból a felhőszolgáltatás felé irányuló minden kérés titkosított.<br>
 Amikor megadod a bejelentkezési neved és jelszavad, az alkalmazás a felhőszolgáltató által biztosított hivatalos engedélyezési oldalt jeleníti meg, és az egész engedélyezési folyamat az alkalmazáson kívül történik. A felhőszolgáltató sikeres engedélyezés után egy auth-tokent küld az alkalmazásnak, amelyet az API hívásokhoz használ.<br><br>
 
@@ -372,24 +372,24 @@ Az auth-token visszavonásához jelentkezz be a fiókodba a böngészőben és n
 A csatlakoztatott felhő fiókokat az alkalmazásban is leválaszthatod, és az auth-token szintén eltávolításra kerül az eszközödről. Ha eltávolítod az alkalmazást az eszközödről, az összes letöltött adat és hozzáférési token is eltávolításra kerül.<br><br>
 
 [Bővebben](/docs/guide/evermusic/evermusic-guide-connections/)
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Hogyan hozhatok létre lejátszási listát az Evermusic-ban?" closed="true" %}}
+{{% ls-details title="Hogyan hozhatok létre lejátszási listát az Evermusic-ban?" closed="true" %}}
 - Nyisd meg a Lejátszási listák részt.<br>
 - Érintsd meg a „+" gombot vagy a „..." gombot a jobb felső sarokban, és válaszd az „Új lejátszási lista" lehetőséget.<br>
 - Add meg a lejátszási lista nevét és érintsd meg a „Mentés" gombot. Megjelenik a „Dalok hozzáadása" párbeszédablak.<br>
 - Válaszd ki a lejátszási listához hozzáadni kívánt számokat.<br><br>
 
 [Bővebben](/docs/guide/evermusic/evermusic-guide-playlists/)
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Milyen felhőszolgáltatásokat támogat az Evermusic?" closed="true" %}}
+{{% ls-details title="Milyen felhőszolgáltatásokat támogat az Evermusic?" closed="true" %}}
 Jelenleg az alkalmazás a legnépszerűbb felhőszolgáltatásokat támogatja: iCloud Drive, Google Drive, Dropbox, OneDrive, Box, MEGA, Yandex.Disk, WD MyCloud Home, DLNA, MediaFire, WebDAV, SMB, pCloud, HiDrive, 百度网盘, My Cloud Home, InfiniCLOUD, Cloud Mail.ru, Put.io, MyDrive.<br><br>
 
 [Bővebben](/docs/guide/evermusic/evermusic-guide-connections/)
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Hogyan használhatom a hangszínszabályzót?" closed="true" %}}
+{{% ls-details title="Hogyan használhatom a hangszínszabályzót?" closed="true" %}}
 - Nyisd meg az Audio lejátszó képernyőt.<br>
 - Érintsd meg a „Hangszínszabályzó" ikont a képernyő alján.<br>
 - Kapcsold be a kapcsolót a hangszínszabályzó képernyő jobb felső sarkában a hangszínszabályzó aktiválásához.<br>
@@ -397,9 +397,9 @@ Jelenleg az alkalmazás a legnépszerűbb felhőszolgáltatásokat támogatja: i
 
 Teljes útmutató itt érhető el:<br>
 [Hogyan használd az audio hangszínszabályzót iPhone-on, iPaden, Macen az Evermusic és Flacbox alkalmazásokkal](/docs/howto/how-to-use-the-audio-equalizer-on-your-iphone-ipad-mac-with-evermusic-and-flacbox)
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Hogyan engedélyezhetem az offline módot az Evermusic-ban?" closed="true" %}}
+{{% ls-details title="Hogyan engedélyezhetem az offline módot az Evermusic-ban?" closed="true" %}}
 - Felhőszolgáltatás csatlakoztatása:<br>
  • Menj a „Kapcsolatok" fülre.<br>
  • Válaszd a „Felhő tárhely csatlakoztatása" lehetőséget és kövesd az utasításokat a kívánt szolgáltatás csatlakoztatásához.<br><br>
@@ -423,9 +423,9 @@ Teljes útmutató itt érhető el:<br>
  • Érintsd meg a „További műveletek" gombot és válaszd a „Szinkronizálás indítása" lehetőséget.<br><br>
 
 [Bővebben](/docs/howto/play-offline-music-in-evermusic-flacbox-download-sync-from-cloud-to-local-files/)
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Hogyan játszhatok le helyben letöltött zenét iPhone-on?" closed="true" %}}
+{{% ls-details title="Hogyan játszhatok le helyben letöltött zenét iPhone-on?" closed="true" %}}
 Az alkalmazás telepítése után nyisd meg a „Helyi fájlok" képernyőt és görgets le a „Fájlok ezen az iPhone-on" részhez.<br>
 Onnan válaszd a „Fájlok megnyitása..." lehetőséget, ha több audiofájlt szeretnél kiválasztani, vagy a „Mappa megnyitása..." lehetőséget, ha egy zenei mappát szeretnél kiválasztani.<br>
 Az alkalmazás átvizsgálja a mappa tartalmát, és az összes talált audiofájl kiválasztásra kerül.<br>
@@ -456,15 +456,15 @@ A fájlok hozzáadódnak a lejátszási listádhoz, ahol megváltoztathatod a da
 Ezekkel az egyszerű lépésekkel kiaknázhatod az iPhone-od és Maced teljes potenciálját, mint a tökéletes platformokat kedvenc helyi zenegyűjteményed élvezetéhez.<br><br>
 
 [Bővebben](/docs/howto/how-to-play-local-music-stored-on-your-iphone-or-mac)
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Hogyan folytathatom a lejátszási listát onnan, ahol abbahagytam?" closed="true" %}}
+{{% ls-details title="Hogyan folytathatom a lejátszási listát onnan, ahol abbahagytam?" closed="true" %}}
 Először győződj meg róla, hogy az „Audio lejátszó állapotának mentése" engedélyezve van a Beállítások > Audio lejátszó > Általános menüben.<br>
 Amikor másik lejátszási listára váltasz és visszatérsz, négy műveletet látsz a felső eszköztáron az albumborító alatt: „Keresés", „Lejátszás folytatása", „Összes lejátszása" és „Összes keverése".<br>
 Érintsd meg a „Lejátszás folytatása" gombot a lejátszási lista folytatásához az utolsó mentett állapotból és médiapozícióból.<br>
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Hogyan tekinthetek meg dalszövegeket az Evermusic-ban?" closed="true" %}}
+{{% ls-details title="Hogyan tekinthetek meg dalszövegeket az Evermusic-ban?" closed="true" %}}
 A beágyazott dalszövegeket az Evermusic alkalmazásban az alábbi lépésekkel tekintheted meg:<br>
 1. Indítsd el egy audiofájl lejátszását az érintésével.<br>
 2. Nyisd meg a teljes képernyős audio lejátszót.<br>
@@ -478,9 +478,9 @@ A beágyazott dalszövegeket az Evermusic alkalmazásban az alábbi lépésekkel
 3. „LRC fájl mód": Az audiofájlok szerkesztése helyett LRC fájlt helyezhetsz el az eredeti audiofájllal azonos mappában. Mindkét fájlnak azonos névvel, de eltérő kiterjesztéssel kell rendelkeznie. Amikor a Megjegyzések képernyőn a harmadik oldalra lapsz, az alkalmazás megkeresi az LRC fájlt ugyanabban a könyvtárban és megjeleníti a tartalmát.<br><br>
 
 [Bővebben](/docs/howto/how-to-add-and-view-comments-to-your-audio-tracks-on-iphone-ipad-and-mac-with-evermusic-and-flacbox)
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Hogyan vihetek át zenét az Evermusic-ba a számítógépemről?" closed="true" %}}
+{{% ls-details title="Hogyan vihetek át zenét az Evermusic-ba a számítógépemről?" closed="true" %}}
 Csatlakoztathatod a számítógéped vagy személyes NAS-odat SMB, WebDAV vagy DLNA protokollok használatával. Alternatívaként használd az iTunes fájlmegosztást a zene átviteléhez.<br><br>
 
 A számítógép **SMB** protokollal történő csatlakoztatásához érintsd meg a „Felhőszolgáltatás csatlakoztatása" → SMB lehetőséget.<br>
@@ -517,9 +517,9 @@ Részletes útmutató itt érhető el:<br>
 
 **DLNA** segítségével DLNA médiakiszolgálót is beállíthatsz és streamelheted a zenédet Windows PC-ről az itt leírtak szerint:<br>
 [Hogyan engedélyezd a DLNA médiakiszolgálót Windows 10-en és játszd le a zenédet iPhone-on](/docs/howto/how-to-enable-dlna-media-server-on-windows-10-and-play-your-music-on-iphone)
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Hogyan tölthetek le zenét?" closed="true" %}}
+{{% ls-details title="Hogyan tölthetek le zenét?" closed="true" %}}
 Mielőtt letölthetnél zenét és offline hallgathatnád, csatlakoztatnod kell egy hálózati fiókot.<br>
 Csak nyisd meg a „Kapcsolatok" képernyőt és add hozzá a fiókodat.<br>
 Miután hozzáadtad a hálózati fiókot, letöltheted a zenédet a felhőből.<br><br>
@@ -540,9 +540,9 @@ Részletesebb útmutató az offline módról itt érhető el:<br>
 
 Egy másik lehetőség a zene letöltése a YouTube-ról és importálása az Evermusic-ba az itt leírtak szerint:<br>
 [Hogyan tölthetsz le zenét a YouTube-ról és hallgathatsz offline zenét iPhone-on](/docs/howto/how-to-download-music-from-youtube-and-listen-to-offline-music-on-iphone)
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Támogatja az Evermusic az Apple CarPlay-t?" closed="true" %}}
+{{% ls-details title="Támogatja az Evermusic az Apple CarPlay-t?" closed="true" %}}
 Igen, **az Evermusic teljes mértékben támogatja az Apple CarPlay-t**. Böngészheted a zenei könyvtáradat, lejátszhatsz helyi vagy offline fájlokat, csatlakozhatsz felhő tárhelyhez, és közvetlenül az autód infotainment képernyőjéről vezérelheted a lejátszást.
 
 A CarPlay felület dedikált füleket tartalmaz a **Könyvtár**, **Kapcsolatok**, **Helyi fájlok** és **Beállítások** számára, teljes kontrollt biztosítva a zenéd felett útközben. Lejátszás vezérlők, keverés, ismétlés és sor kezelés szintén elérhető.
@@ -550,9 +550,9 @@ A CarPlay felület dedikált füleket tartalmaz a **Könyvtár**, **Kapcsolatok*
 A CarPlay használatához győződj meg róla, hogy a Siri engedélyezve van és az iPhone USB-vel vagy vezeték nélkül csatlakozik.
 
 [Olvasd el a teljes útmutatót](/docs/howto/how-to-play-your-own-music-on-iphone-using-carplay/)
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Milyen audio formátumokat támogat az Evermusic?" closed="true" %}}
+{{% ls-details title="Milyen audio formátumokat támogat az Evermusic?" closed="true" %}}
 Íme a támogatott audio formátumok és a hozzájuk tartozó fájlkiterjesztések teljes listája:<br><br>
 
 **Támogatott audio formátumok:**<br>
@@ -570,40 +570,40 @@ A CarPlay használatához győződj meg róla, hogy a Siri engedélyezve van és
 mpeg, aifc, 3gp, avi, aif, latm, 3gpp, m4a, loas, cdda, aac, m4p, m4b, ac3, pls, mp4v, m3u, m4r, aiff, xhe, mp1, snd, mp2, wav, qt, wave, m3u8, m4v, mp3, 3g2, caf, mp4, flac, au, w64, ec3, adts, amr, vtt, mpa, aa<br><br>
 
 Ezzel a támogatott formátumok és fájlkiterjesztések széles választékával a választásod szerinti formátumban élvezheted a zenédet.
-{{% /details %}}
+{{% /ls-details %}}
 
 </div>
 
 <div class="hx:mt-6"></div>
 
-{{< hextra/section-headline >}}
+{{< ls-section-headline >}}
   Felhasználói útmutató
-{{< /hextra/section-headline >}}
+{{< /ls-section-headline >}}
 
 <div class="hx:mt-6"></div>
 
 <div class="hx:w-full">
 
 <div class="hx:w-full hx:mx-auto hx:flex hx:flex-col hx:items-center hx:text-center">
-  {{< hextra/info-paragraph border="false" >}}
+  {{< ls-info-paragraph border="false" >}}
   Ez az útmutató segít a legtöbbet kihozni az Evermusic alkalmazásból iPhone-on, iPaden vagy Macen. Ismerd meg, hogyan streamelhetsz zenét a felhőből, kezelheted a hangoskönyveidet és mozgathatod a zenét eszközök között. Az Evermusic teljes kontrollt biztosít a zenegyűjteményed felett egyetlen egyszerű alkalmazásban.
-  {{< /hextra/info-paragraph >}}
+  {{< /ls-info-paragraph >}}
 </div>
 
 {{< cards >}}
-  {{< feature-card icon="location-marker" title="Navigáció" subtitle="Ismerd meg az Evermusic navigálását a fülsor használatával iPhone-on vagy a bal oldali menüvel iPaden és Macen." link="/docs/guide/evermusic/evermusic-guide-navigation" >}}
+  {{< ls-feature-card icon="location-marker" title="Navigáció" subtitle="Ismerd meg az Evermusic navigálását a fülsor használatával iPhone-on vagy a bal oldali menüvel iPaden és Macen." link="/docs/guide/evermusic/evermusic-guide-navigation" >}}
 
-  {{< feature-card icon="cloud" title="Kapcsolatok" subtitle="Csatlakoztasd felhő fiókjaidat és kezeld az online fájlokat a beépített fájlkezelővel." link="/docs/guide/evermusic/evermusic-guide-connections" >}}
+  {{< ls-feature-card icon="cloud" title="Kapcsolatok" subtitle="Csatlakoztasd felhő fiókjaidat és kezeld az online fájlokat a beépített fájlkezelővel." link="/docs/guide/evermusic/evermusic-guide-connections" >}}
 
-  {{< feature-card icon="library" title="Zenei könyvtár" subtitle="Rendezd és fedezd fel a számaidat, albumaidat és előadóidat a Zenei könyvtárban." link="/docs/guide/evermusic/evermusic-guide-music-library" >}}
+  {{< ls-feature-card icon="library" title="Zenei könyvtár" subtitle="Rendezd és fedezd fel a számaidat, albumaidat és előadóidat a Zenei könyvtárban." link="/docs/guide/evermusic/evermusic-guide-music-library" >}}
 
-  {{< feature-card icon="collection" title="Lejátszási listák" subtitle="Hozz létre és rendezz lejátszási listákat a hangulatodhoz vagy az alkalomhoz igazítva." link="/docs/guide/evermusic/evermusic-guide-playlists" >}}
+  {{< ls-feature-card icon="collection" title="Lejátszási listák" subtitle="Hozz létre és rendezz lejátszási listákat a hangulatodhoz vagy az alkalomhoz igazítva." link="/docs/guide/evermusic/evermusic-guide-playlists" >}}
 
-  {{< feature-card icon="folder" title="Helyi fájlok" subtitle="Érd el és kezeld az offline zenét a Helyi fájlok részen keresztül." link="/docs/guide/evermusic/evermusic-guide-local-files" >}}
+  {{< ls-feature-card icon="folder" title="Helyi fájlok" subtitle="Érd el és kezeld az offline zenét a Helyi fájlok részen keresztül." link="/docs/guide/evermusic/evermusic-guide-local-files" >}}
 
-  {{< feature-card icon="play" title="Audio lejátszó" subtitle="Vezéreld a lejátszást, a sort és az audio beállításokat, mint a hangszínszabályzó és az elalváskapcsoló." link="/docs/guide/evermusic/evermusic-guide-player" >}}
+  {{< ls-feature-card icon="play" title="Audio lejátszó" subtitle="Vezéreld a lejátszást, a sort és az audio beállításokat, mint a hangszínszabályzó és az elalváskapcsoló." link="/docs/guide/evermusic/evermusic-guide-player" >}}
 
-  {{< feature-card icon="adjustments" title="Beállítások" subtitle="Szabd testre az Evermusic megjelenését, funkcióit és teljesítménybeállításait." link="/docs/guide/evermusic/evermusic-guide-settings" >}}
+  {{< ls-feature-card icon="adjustments" title="Beállítások" subtitle="Szabd testre az Evermusic megjelenését, funkcióit és teljesítménybeállításait." link="/docs/guide/evermusic/evermusic-guide-settings" >}}
 
 {{< /cards >}}
 

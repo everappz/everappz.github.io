@@ -12,7 +12,7 @@ authors:
     image: "/images/about/artem-meleshko-founder-everappz.webp"
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 **Samenvatting:** Flacbox heeft wereldwijd meer dan 1 miljoen downloads bereikt. Het ondersteunt FLAC, ALAC, APE, DSD en andere lossless formaten met een 10-bands equalizer, M3U/CUE-afspeellijsten, offline afspelen en synchronisatie tussen iPhone, iPad en Mac.
 
@@ -78,26 +78,26 @@ Aankomende ontwikkeling richt zich op:
 
 ## Veelgestelde Vragen
 
-{{% details title="Welke audioformaten ondersteunt Flacbox?" closed="true" %}}
+{{% ls-details title="Welke audioformaten ondersteunt Flacbox?" closed="true" %}}
 Flacbox speelt FLAC, ALAC, APE, DSD, WavPack, TTA, RealAudio, MP3, AAC, OGG en vele andere formaten. Het is voornamelijk ontworpen voor lossless en hi-res audio.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Heeft Flacbox een equalizer?" closed="true" %}}
+{{% ls-details title="Heeft Flacbox een equalizer?" closed="true" %}}
 Ja. Flacbox bevat een 10-bands equalizer met genrepresets en handmatige frequentieaanpassing.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Kan ik offline muziek luisteren met Flacbox?" closed="true" %}}
+{{% ls-details title="Kan ik offline muziek luisteren met Flacbox?" closed="true" %}}
 Ja. Download bestanden van cloudopslag of breng ze rechtstreeks over naar de app voor offline afspelen zonder internetverbinding.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Werkt Flacbox op Mac?" closed="true" %}}
+{{% ls-details title="Werkt Flacbox op Mac?" closed="true" %}}
 Ja. Flacbox draait op iPhone, iPad en Mac met gesynchroniseerde bibliotheken en afspeelgeschiedenis op alle apparaten.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Wat is CUE-sheet ondersteuning?" closed="true" %}}
+{{% ls-details title="Wat is CUE-sheet ondersteuning?" closed="true" %}}
 CUE-sheets definiëren trackgrenzen binnen een enkel audiobestand. Flacbox leest CUE-bestanden om albumrips op te splitsen in individuele tracks met correcte metadata.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Is Flacbox gratis?" closed="true" %}}
+{{% ls-details title="Is Flacbox gratis?" closed="true" %}}
 Flacbox is gratis te downloaden met optionele premiumfuncties beschikbaar via in-app aankoop.
-{{% /details %}}
+{{% /ls-details %}}

@@ -7,7 +7,7 @@ tags: ["promó", "appstore", "telepítés", "beváltás", "kód", "ingyenes"]
 readingTime: 2
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **Röviden:** Egy promóciós kóddal ingyenesen letölthet egy fizetős alkalmazást, vagy feloldhatja az alkalmazáson belüli vásárlásokat. iOS-en: App Store > Fiók ikon > Ajándékkártya vagy kód beváltása > kód megadása. Macen: App Store > Fiók > Ajándékkártya beváltása > kód megadása. Ezután nyissa meg az alkalmazást, és szükség esetén állítsa vissza a vásárlásokat.
@@ -94,22 +94,22 @@ Kövesse a fenti lépéseket a kód beváltásához. Ezután nyissa meg az alkal
 
 ## Gyakran ismételt kérdések
 
-{{% details title="Hol szerezhetek promóciós kódot?" closed="true" %}}
+{{% ls-details title="Hol szerezhetek promóciós kódot?" closed="true" %}}
 A promóciós kódokat az alkalmazásfejlesztők biztosítják vélemények, nyereményjátékok vagy promóciók céljából. Közvetlenül lépjen kapcsolatba a fejlesztővel, hogy kérjen egyet.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Lejárnak a promóciós kódok?" closed="true" %}}
+{{% ls-details title="Lejárnak a promóciós kódok?" closed="true" %}}
 Igen. Az Apple App Store promóciós kódok a létrehozásuktól számított 28 nap után lejárnak, és csak egyszer válthatók be.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Használhatok promóciós kódot bármely országban?" closed="true" %}}
+{{% ls-details title="Használhatok promóciós kódot bármely országban?" closed="true" %}}
 A promóciós kódok régióspecifikusak. A kódnak meg kell egyeznie az Apple ID-jához tartozó App Store országával.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Hogyan aktiválom az alkalmazáson belüli vásárlásokat promóciós kóddal?" closed="true" %}}
+{{% ls-details title="Hogyan aktiválom az alkalmazáson belüli vásárlásokat promóciós kóddal?" closed="true" %}}
 A kód beváltása után az App Store-ban nyissa meg az alkalmazást, és lépjen a Beállítások > Vásárlások visszaállítása menüpontra. A prémium tartalom automatikusan feloldásra kerül.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="A promóciós kód azt jelzi, hogy már be lett váltva. Mit tegyek?" closed="true" %}}
+{{% ls-details title="A promóciós kód azt jelzi, hogy már be lett váltva. Mit tegyek?" closed="true" %}}
 Minden promóciós kód csak egyszer használható. Lépjen kapcsolatba a fejlesztővel, hogy új kódot kérjen.
-{{% /details %}}
+{{% /ls-details %}}

@@ -12,7 +12,7 @@ authors:
     image: "/images/about/artem-meleshko-founder-everappz.webp"
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 ![](/blog/setapp-mobile-and-evermusic-pro/21260c_766c4fbc81e6433cb8fc21b9c2862ce0~mv2.png)
 
@@ -49,27 +49,27 @@ Equalizer 10 ζωνών και ενισχυτής μπάσων.
 Σύνδεση σε **NAS, SMB** και **WebDAV**.
 
 {{< cards cols="1" >}}
-  {{< card link="https://go.setapp.com/stp435?_target=https://www.setapp.com/setapp-mobile&stc=mobile" title="Λήψη Evermusic Pro με Setapp Mobile" icon="download" >}}
+  {{< ls-card link="https://go.setapp.com/stp435?_target=https://www.setapp.com/setapp-mobile&stc=mobile" title="Λήψη Evermusic Pro με Setapp Mobile" icon="download" >}}
 {{< /cards >}}
 
 ## Συχνές ερωτήσεις
 
-{{% details title="Είναι δωρεάν το Evermusic Pro με Setapp Mobile;" closed="true" %}}
+{{% ls-details title="Είναι δωρεάν το Evermusic Pro με Setapp Mobile;" closed="true" %}}
 Ναι. Περιλαμβάνεται στη συνδρομή Setapp Mobile χωρίς επιπλέον κόστος.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Ποιες υπηρεσίες cloud υποστηρίζει;" closed="true" %}}
+{{% ls-details title="Ποιες υπηρεσίες cloud υποστηρίζει;" closed="true" %}}
 Google Drive, Dropbox, OneDrive, iCloud, Box, MEGA, Yandex.Disk, pCloud, HiDrive, WebDAV, SMB και NAS.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Μπορώ να ακούσω εκτός σύνδεσης;" closed="true" %}}
+{{% ls-details title="Μπορώ να ακούσω εκτός σύνδεσης;" closed="true" %}}
 Ναι. Κατεβάστε κομμάτια, άλμπουμ ή λίστες αναπαραγωγής.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Ποιες μορφές ήχου υποστηρίζει;" closed="true" %}}
+{{% ls-details title="Ποιες μορφές ήχου υποστηρίζει;" closed="true" %}}
 FLAC, MP3, AAC, WAV, ALAC, AIFF, OPUS, OGG και πολλές άλλες.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Χρειάζομαι ξεχωριστή συνδρομή Setapp για iPhone;" closed="true" %}}
+{{% ls-details title="Χρειάζομαι ξεχωριστή συνδρομή Setapp για iPhone;" closed="true" %}}
 Το Setapp Mobile είναι διαθέσιμο ως μέρος του πλάνου Setapp που περιλαμβάνει εφαρμογές iOS.
-{{% /details %}}
+{{% /ls-details %}}

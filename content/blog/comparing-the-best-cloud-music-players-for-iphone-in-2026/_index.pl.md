@@ -12,7 +12,7 @@ authors:
     image: "/images/about/artem-meleshko-founder-everappz.webp"
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 ## Który Chmurowy Odtwarzacz Muzyki Jest Najlepszy dla iPhone?
 
@@ -91,22 +91,22 @@ Dla audiofilów i każdego, kto utrzymuje osobistą kolekcję muzyczną w chmurz
 
 ## Często Zadawane Pytania
 
-{{% details title="Czy mogę odtwarzać pliki FLAC na iPhone bez ich konwertowania?" closed="true" %}}
+{{% ls-details title="Czy mogę odtwarzać pliki FLAC na iPhone bez ich konwertowania?" closed="true" %}}
 Tak. Evermusic odtwarza FLAC, DSD, WAV, ALAC i inne bezstratne formaty natywnie na iPhone. Konwersja plików nie jest potrzebna. Wystarczy połączyć konto chmurowego przechowywania i strumieniować lub pobierać pliki FLAC bezpośrednio.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Który chmurowy odtwarzacz muzyki obsługuje Dropbox i Google Drive?" closed="true" %}}
+{{% ls-details title="Który chmurowy odtwarzacz muzyki obsługuje Dropbox i Google Drive?" closed="true" %}}
 Evermusic obsługuje Dropbox, Google Drive, OneDrive, Box, MEGA, pCloud, WebDAV, SMB i inne -- łącznie ponad 12 usług chmurowych. Większość popularnych aplikacji streamingowych, takich jak Spotify i Apple Music, nie łączy się z zewnętrznymi usługami chmurowymi.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Czy potrzebuję subskrypcji, aby korzystać z chmurowego odtwarzacza muzyki?" closed="true" %}}
+{{% ls-details title="Czy potrzebuję subskrypcji, aby korzystać z chmurowego odtwarzacza muzyki?" closed="true" %}}
 Zależy od aplikacji. Spotify, Apple Music i Deezer wymagają miesięcznych subskrypcji. Evermusic oferuje bezpłatny poziom i jednorazowy zakup Premium bez cyklicznych opłat. Używasz własnego chmurowego przechowywania do hostowania plików muzycznych.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Jaki jest najlepszy odtwarzacz muzyki do słuchania offline na iPhone?" closed="true" %}}
+{{% ls-details title="Jaki jest najlepszy odtwarzacz muzyki do słuchania offline na iPhone?" closed="true" %}}
 Wszystkie główne odtwarzacze obsługują pobieranie offline, ale podejście jest różne. Spotify i Apple Music pozwalają pobierać utwory z ich katalogów. Evermusic pozwala pobierać własne pliki z chmurowego przechowywania do odtwarzania offline -- idealne na loty, dojazdy do pracy lub obszary bez łączności.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Czy mogę korzystać z chmurowego odtwarzacza muzyki z moim NAS lub serwerem domowym?" closed="true" %}}
+{{% ls-details title="Czy mogę korzystać z chmurowego odtwarzacza muzyki z moim NAS lub serwerem domowym?" closed="true" %}}
 Tak. Evermusic obsługuje protokoły WebDAV i SMB, co oznacza, że może połączyć się z większością urządzeń NAS od Synology, QNAP i Western Digital. To zamienia Twój iPhone w zdalny odtwarzacz dla całej domowej biblioteki muzycznej.
-{{% /details %}}
+{{% /ls-details %}}

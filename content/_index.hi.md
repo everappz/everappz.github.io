@@ -20,16 +20,16 @@ headless: false
 ---
 
 <!-- force dark theme for this page -->
-{{< force-dark >}}
+{{< ls-force-dark >}}
 
-{{< dark-gradient-bg >}}
+{{< ls-dark-gradient-bg >}}
 
-{{< home-hero-banner >}}
+{{< ls-home-hero-banner >}}
 
 <div class="hx:mt-12"></div>
 
 <div class="hx:w-full">
-{{< hero-slideshow >}}
+{{< ls-hero-slideshow >}}
 </div>
 
 <div class="hx:mt-16"></div>
@@ -38,21 +38,21 @@ headless: false
 
 {{< hextra/feature-grid >}}
 
-  {{< hextra/feature-card
+  {{< ls-glass-feature-card
     title="आपके लिए बनाया। आपके द्वारा बेहतर बनाया।"
     subtitle=`हम सभी समीक्षाएं पढ़ते हैं और हर अपडेट को बेहतर बनाने के लिए आपकी प्रतिक्रिया का उपयोग करते हैं।`
     icon="code"
     style="background: radial-gradient(circle at 50% 80%, rgba(99,102,241,0.15), transparent);"
   >}}
 
-  {{< hextra/feature-card
+  {{< ls-glass-feature-card
     title="प्रदर्शन उद्देश्य से मिलता है।"
     subtitle=`कोई अनावश्यक सामग्री नहीं। बस स्वच्छ, स्थिर ऐप्स जिनमें महत्वपूर्ण सुविधाएं हैं।`
     icon="presentation-chart-line"
     style="background: radial-gradient(circle at 50% 80%, rgba(236,72,153,0.15), transparent);"
   >}}
 
-  {{< hextra/feature-card
+  {{< ls-glass-feature-card
     title="गोपनीयता। सुलभता। सरलता।"
     subtitle=`उपयोग में आसान, पूरी तरह से सुलभ और आपकी गोपनीयता को ध्यान में रखकर बनाए गए।`
     icon="shield-check"
@@ -66,20 +66,20 @@ headless: false
 <div class="hx:mt-12"></div>
 
 <div class="hx:w-full">
-{{< press-carousel >}}
+{{< ls-press-carousel >}}
 </div>
 
 <div class="hx:mt-12"></div>
 
-{{< hextra/section-headline >}}
+{{< ls-section-headline >}}
 हमारे उत्पाद
-{{< /hextra/section-headline >}}
+{{< /ls-section-headline >}}
 
 <div class="hx:mt-6"></div>
 
 <div class="hx:w-full">
 
-{{< product-cards >}}
+{{< ls-product-cards >}}
 
 </div>
 
@@ -88,38 +88,38 @@ headless: false
 <div class="hx:mt-6"></div>
 
 <div class="hx:w-full">
-{{< appstore-reviews apps="1097564256,1594027432,885367198,1564384601,1450763230,1594027661" stars="5,4" >}}
+{{< ls-appstore-reviews apps="1097564256,1594027432,885367198,1564384601,1450763230,1594027661" stars="5,4" >}}
 </div>
 
 <div class="hx:mt-6"></div>
 
-{{< hextra/section-headline >}}
+{{< ls-section-headline >}}
 ताज़ा ख़बरें
-{{< /hextra/section-headline >}}
+{{< /ls-section-headline >}}
 
 <div class="hx:mt-6"></div>
 
 <div class="hx:w-full">
 
-{{< blog-cards >}}
+{{< ls-blog-cards >}}
 
 </div>
 
 <div class="hx:mt-6"></div>
 
-{{< hextra/section-headline >}}
+{{< ls-section-headline >}}
 सदस्यता लें
-{{< /hextra/section-headline >}}
+{{< /ls-section-headline >}}
 
 <div class="hx:mt-6"></div>
 
 <div class="hx:w-full hx:text-center">
 
-{{< hextra/hero-paragraph >}}
+{{< ls-hero-paragraph >}}
 उन लोगों से जुड़ें जो Everappz टीम से नवीनतम समाचार और विशेष ऑफ़र प्राप्त करते हैं।  
 ऐप के बारे में नवीनतम समाचार और अपडेट के लिए सोशल मीडिया पर हमें फ़ॉलो करना न भूलें।  
 सदस्यता लेकर, आप हमारी [गोपनीयता नीति](/legal/privacy-policy) से सहमत होते हैं और [नियम और शर्तें](/legal/terms-and-conditions/) स्वीकार करते हैं।
-{{< /hextra/hero-paragraph >}}
+{{< /ls-hero-paragraph >}}
 
 </div>
 
@@ -127,7 +127,7 @@ headless: false
 
 <div class="hx:w-full hx:text-center">
 
-{{< rawhtml >}}
+{{< ls-rawhtml >}}
 
 <form action="https://everappz.us10.list-manage.com/subscribe/post?u=f758cdf6a38df2a75513ac5f1&amp;id=2373740226" 
 method="post" 
@@ -167,7 +167,7 @@ style="position: absolute; width: 0; height: 0; overflow: hidden;" aria-hidden="
 class="not-prose hx:font-bold hx:cursor-pointer hx:px-6 hx:py-3 hx:rounded-full hx:text-center hx:text-white hx:inline-flex hx:items-center hx:gap-2 hx:bg-primary-600 hx:hover:bg-primary-700 hx:focus:outline-hidden hx:focus:ring-4 hx:focus:ring-primary-300 hx:dark:bg-primary-600 hx:dark:hover:bg-primary-700 hx:dark:focus:ring-primary-800 hx:transition-all hx:ease-in hx:duration-200" 
 style="outline: none; box-shadow: none;">सदस्यता लें</button>
 
-{{< /rawhtml >}}
+{{< /ls-rawhtml >}}
 
 </div>
 

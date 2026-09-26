@@ -7,7 +7,7 @@ tags: ["lyd", "afspiller", "computer", "filer", "fil", "pc", "mac", "deling", "i
 keywords: ["itunes fildeling", "afspil lokal musik", "overfør musik til iphone", "kopier filer til ios", "lyd fra mac til iphone", "lokale filer på iphone", "evermusic", "flacbox", "musikafspiller", "fildeling", "wifi drive", "smb musikstreaming", "iphone musikapp", "importer musik til ios"]
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **Kort sagt:** Overfør musik fra din computer til iPhone ved hjælp af en af tre metoder: **iTunes/Finder fildeling** (USB-kabel), **[WiFi Drive](/docs/howto/how-to-transfer-music-from-computer-to-iphone-without-itunes)** (trådløst, intet kabel nødvendigt), eller **[SMB](/docs/howto/stream-your-music-from-mac-or-pc-to-iphone-using-smb/)** (stream direkte uden kopiering). Afspil derefter med [Evermusic](/products/evermusic) eller [Flacbox](/products/flacbox).
@@ -134,22 +134,22 @@ Du kan også forbinde din computer ved hjælp af SMB-protokollen for at streame 
 
 ## FAQ
 
-{{% details title="Hvad er den hurtigste måde at overføre musik til iPhone?" closed="true" %}}
+{{% ls-details title="Hvad er den hurtigste måde at overføre musik til iPhone?" closed="true" %}}
 iTunes/Finder fildeling over USB er den hurtigste metode til store musikbiblioteker. Til mindre overførsler er WiFi Drive mere bekvemt, da det ikke kræver et kabel.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Kan jeg overføre FLAC-filer til min iPhone?" closed="true" %}}
+{{% ls-details title="Kan jeg overføre FLAC-filer til min iPhone?" closed="true" %}}
 Ja. Både Evermusic og Flacbox accepterer FLAC-filer via iTunes fildeling, WiFi Drive eller SMB. Flacbox anbefales til tabsfrie formater.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Har jeg brug for iTunes på macOS Catalina eller nyere?" closed="true" %}}
+{{% ls-details title="Har jeg brug for iTunes på macOS Catalina eller nyere?" closed="true" %}}
 Nej. Apple erstattede iTunes med Finder til enhedshåndtering fra macOS Catalina. Brug Finders fane Filer til fildeling.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Kan jeg streame musik uden at kopiere filer til min iPhone?" closed="true" %}}
+{{% ls-details title="Kan jeg streame musik uden at kopiere filer til min iPhone?" closed="true" %}}
 Ja. Brug SMB-protokollen til at streame musik direkte fra din Mac eller PC. Dette sparer enhedslagring og holder dit bibliotek på din computer.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Hvilken app skal jeg bruge -- Evermusic eller Flacbox?" closed="true" %}}
+{{% ls-details title="Hvilken app skal jeg bruge -- Evermusic eller Flacbox?" closed="true" %}}
 Brug Evermusic til standardformater som MP3, WAV og AAC. Vælg Flacbox, hvis dit bibliotek indeholder tabsfrie formater som FLAC, DSD eller OGG.
-{{% /details %}}
+{{% /ls-details %}}

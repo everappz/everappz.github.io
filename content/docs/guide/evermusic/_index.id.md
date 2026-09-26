@@ -72,19 +72,19 @@ Panduan ini akan membantu Anda mendapatkan yang terbaik dari Evermusic di iPhone
 
 
 {{< cards >}}
-  {{< card icon="location-marker" title="Navigasi" subtitle="Pelajari cara navigasi Evermusic menggunakan Tab Bar di iPhone atau Menu Kiri di iPad dan Mac." link="/docs/guide/evermusic/evermusic-guide-navigation" >}}
+  {{< ls-card icon="location-marker" title="Navigasi" subtitle="Pelajari cara navigasi Evermusic menggunakan Tab Bar di iPhone atau Menu Kiri di iPad dan Mac." link="/docs/guide/evermusic/evermusic-guide-navigation" >}}
 
-  {{< card icon="cloud" title="Koneksi" subtitle="Hubungkan akun cloud Anda dan kelola file online menggunakan manajer file bawaan." link="/docs/guide/evermusic/evermusic-guide-connections" >}}
+  {{< ls-card icon="cloud" title="Koneksi" subtitle="Hubungkan akun cloud Anda dan kelola file online menggunakan manajer file bawaan." link="/docs/guide/evermusic/evermusic-guide-connections" >}}
 
-  {{< card icon="collection" title="Perpustakaan Musik" subtitle="Atur dan jelajahi trek, album, dan artis Anda di Perpustakaan Musik." link="/docs/guide/evermusic/evermusic-guide-music-library" >}}
+  {{< ls-card icon="collection" title="Perpustakaan Musik" subtitle="Atur dan jelajahi trek, album, dan artis Anda di Perpustakaan Musik." link="/docs/guide/evermusic/evermusic-guide-music-library" >}}
 
-  {{< card icon="music-note" title="Daftar Putar" subtitle="Buat dan atur daftar putar sesuai suasana hati atau kesempatan Anda." link="/docs/guide/evermusic/evermusic-guide-playlists" >}}
+  {{< ls-card icon="music-note" title="Daftar Putar" subtitle="Buat dan atur daftar putar sesuai suasana hati atau kesempatan Anda." link="/docs/guide/evermusic/evermusic-guide-playlists" >}}
 
-  {{< card icon="folder" title="File Lokal" subtitle="Akses dan kelola musik offline melalui bagian File Lokal." link="/docs/guide/evermusic/evermusic-guide-local-files" >}}
+  {{< ls-card icon="folder" title="File Lokal" subtitle="Akses dan kelola musik offline melalui bagian File Lokal." link="/docs/guide/evermusic/evermusic-guide-local-files" >}}
 
-  {{< card icon="play" title="Pemutar Audio" subtitle="Kendalikan pemutaran, antrean, dan pengaturan audio seperti equalizer dan sleep timer." link="/docs/guide/evermusic/evermusic-guide-player" >}}
+  {{< ls-card icon="play" title="Pemutar Audio" subtitle="Kendalikan pemutaran, antrean, dan pengaturan audio seperti equalizer dan sleep timer." link="/docs/guide/evermusic/evermusic-guide-player" >}}
 
-  {{< card icon="adjustments" title="Pengaturan" subtitle="Sesuaikan tampilan, fitur, dan pengaturan kinerja Evermusic." link="/docs/guide/evermusic/evermusic-guide-settings" >}}
+  {{< ls-card icon="adjustments" title="Pengaturan" subtitle="Sesuaikan tampilan, fitur, dan pengaturan kinerja Evermusic." link="/docs/guide/evermusic/evermusic-guide-settings" >}}
 
-  {{< card icon="question-mark-circle" title="FAQ" subtitle="Temukan jawaban cepat untuk pertanyaan umum di bagian FAQ kami." link="/docs/faq/evermusic" >}}
+  {{< ls-card icon="question-mark-circle" title="FAQ" subtitle="Temukan jawaban cepat untuk pertanyaan umum di bagian FAQ kami." link="/docs/faq/evermusic" >}}
 {{< /cards >}}

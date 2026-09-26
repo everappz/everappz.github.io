@@ -20,22 +20,22 @@ tags: [
 ]
 ---
 
-{{< force-dark >}}
+{{< ls-force-dark >}}
 
-{{< lottie src="/images/juicy-json/juicy-website-designer-making-landing-page-at-laptop.json" width="85%" >}}
+{{< ls-lottie src="/images/juicy-json/juicy-website-designer-making-landing-page-at-laptop.json" width="85%" >}}
 
 <div class="hx:mb-6 hx:text-center">
-{{< hextra/hero-paragraph >}}
+{{< ls-hero-paragraph >}}
 Upptäck hela utbudet av Everappz-applikationer designade för att förbättra din medieupplevelse.  
 Varje produkt erbjuder kraftfulla funktioner och sömlös integration med iOS och macOS.  
-{{< /hextra/hero-paragraph >}}
+{{< /ls-hero-paragraph >}}
 </div>
 
 <div class="hx:mt-6"></div>
 
 <div class="hx:w-full">
 
-{{< app-details ids="885367198, 905746421, 1564384601, 1097564256, 1594027432, 6602897336, 6743504109, 1450763230, 1594027661, 6751851132" >}}
+{{< ls-app-details ids="885367198, 905746421, 1564384601, 1097564256, 1594027432, 6602897336, 6743504109, 1450763230, 1594027661, 6751851132" >}}
 
 </div>
 
@@ -45,5 +45,5 @@ Varje produkt erbjuder kraftfulla funktioner och sömlös integration med iOS oc
 <div class="hx:mt-6"></div>
 
 <div class="hx:w-full">
-{{< appstore-reviews apps="1097564256,1594027432,885367198,1564384601,1450763230,1594027661" stars="5,4" >}}
+{{< ls-appstore-reviews apps="1097564256,1594027432,885367198,1564384601,1450763230,1594027661" stars="5,4" >}}
 </div>

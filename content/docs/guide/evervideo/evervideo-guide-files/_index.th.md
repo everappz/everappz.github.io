@@ -33,7 +33,7 @@ readingTime: 14
 ที่มุมขวาบนของหน้าจอไฟล์มีปุ่มการถ่ายโอน (ไอคอนลูกศรหมุน) แตะเพื่อเปิดคิวการถ่ายโอน ซึ่งคุณสามารถตรวจสอบการดาวน์โหลดและอัปโหลดทุกรายการจากแหล่งทั้งหมดของคุณ
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="ไฟล์ Evervideo ข้ามที่เก็บข้อมูลที่เชื่อมต่อ" image="/docs/guide/evervideo/img/evervideo-files-connected-storages.webp" >}}
+  {{< ls-card title="" subtitle="ไฟล์ Evervideo ข้ามที่เก็บข้อมูลที่เชื่อมต่อ" image="/docs/guide/evervideo/img/evervideo-files-connected-storages.webp" >}}
 {{< /cards >}}
 
 ## เชื่อมต่อกับที่เก็บข้อมูลคลาวด์
@@ -41,7 +41,7 @@ readingTime: 14
 ส่วนที่เก็บข้อมูลคลาวด์ของแท็บไฟล์คือที่ที่บัญชีที่เชื่อมต่อ, NAS, มีเดียเซิร์ฟเวอร์ และสตรีมทุกรายการอยู่ — เคียงข้างกัน ในรายการเลื่อนเดียว
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="ส่วนที่เก็บข้อมูลคลาวด์ของ Evervideo ในแท็บไฟล์" image="/docs/guide/evervideo/img/evervideo-connections.webp" >}}
+  {{< ls-card title="" subtitle="ส่วนที่เก็บข้อมูลคลาวด์ของ Evervideo ในแท็บไฟล์" image="/docs/guide/evervideo/img/evervideo-connections.webp" >}}
 {{< /cards >}}
 
 - เปิดแท็บ **ไฟล์**
@@ -51,7 +51,7 @@ readingTime: 14
 - ป้อนข้อมูลประจำตัวของคุณบนหน้าการอนุญาตอย่างเป็นทางการที่ผู้ให้บริการคลาวด์ให้มา จากนั้นแตะ **เสร็จสิ้น**
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evervideo เชื่อมต่อบริการที่เก็บข้อมูลคลาวด์" image="/docs/guide/evervideo/img/evervideo-connect-cloud-storage.webp" >}}
+  {{< ls-card title="" subtitle="Evervideo เชื่อมต่อบริการที่เก็บข้อมูลคลาวด์" image="/docs/guide/evervideo/img/evervideo-connect-cloud-storage.webp" >}}
 {{< /cards >}}
 
 หากพบปัญหา ให้ตรวจสอบการเชื่อมต่ออินเทอร์เน็ตและชื่อผู้ใช้ / รหัสผ่านของคุณ ในเวอร์ชัน Premium ของแอป คุณสามารถเพิ่มบริการได้ไม่จำกัดจำนวน เวอร์ชันฟรีรองรับสูงสุดสาม
@@ -161,7 +161,7 @@ Evervideo รองรับ RTSP แบบเนทีฟ เพื่อให
 - ถ้าจำเป็น ป้อนข้อมูลล็อกอินเพื่อสร้างการเชื่อมต่อ
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evervideo อุปกรณ์ที่มีให้บริการบนเครือข่ายท้องถิ่น" image="/docs/guide/evervideo/img/evervideo-available-devices.webp" >}}
+  {{< ls-card title="" subtitle="Evervideo อุปกรณ์ที่มีให้บริการบนเครือข่ายท้องถิ่น" image="/docs/guide/evervideo/img/evervideo-available-devices.webp" >}}
 {{< /cards >}}
 
 ## Wi-Fi Drive
@@ -169,7 +169,7 @@ Evervideo รองรับ RTSP แบบเนทีฟ เพื่อให
 Wi-Fi Drive ให้คุณถ่ายโอนไฟล์แบบไร้สายจากคอมพิวเตอร์ไปยังอุปกรณ์ iOS ผ่านเว็บเบราว์เซอร์บนเดสก์ท็อป, Finder หรือ File Explorer อุปกรณ์และคอมพิวเตอร์ของคุณต้องอยู่ในเครือข่าย Wi-Fi เดียวกัน
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evervideo Wi-Fi Drive" image="/docs/guide/evervideo/img/evervideo-wifi-drive.webp" >}}
+  {{< ls-card title="" subtitle="Evervideo Wi-Fi Drive" image="/docs/guide/evervideo/img/evervideo-wifi-drive.webp" >}}
 {{< /cards >}}
 
 ### เปิดใช้งาน Wi-Fi Drive
@@ -201,7 +201,7 @@ iTunes File Sharing (ปัจจุบันคือ Finder File Sharing บ�
 แตะบริการคลาวด์ที่เชื่อมต่อใดๆ เพื่อเปิดตัวเรียกดูไฟล์ โฟลเดอร์จะแสดงภาพขนาดเล็กของวิดีโอเมื่อมี และการแตะวิดีโอจะเริ่มการเล่นทันทีในขณะที่ยังคงสตรีมไฟล์ที่เหลือในพื้นหลัง
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evervideo เรียกดูโฟลเดอร์ในที่เก็บข้อมูลที่เชื่อมต่อ" image="/docs/guide/evervideo/img/evervideo-all-connected-device-folders.webp" >}}
+  {{< ls-card title="" subtitle="Evervideo เรียกดูโฟลเดอร์ในที่เก็บข้อมูลที่เชื่อมต่อ" image="/docs/guide/evervideo/img/evervideo-all-connected-device-folders.webp" >}}
 {{< /cards >}}
 
 ## การเข้าถึงด่วน
@@ -209,7 +209,7 @@ iTunes File Sharing (ปัจจุบันคือ Finder File Sharing บ�
 ส่วนการเข้าถึงด่วนอยู่ที่ด้านบนของแท็บไฟล์ มันให้การเข้าถึงอย่างรวดเร็วไปยังไฟล์และโฟลเดอร์ที่ชื่นชอบและเพิ่งเปิด — ทั้งจากบริการคลาวด์และจากที่เก็บข้อมูลบนอุปกรณ์ เมื่อใดก็ตามที่คุณเปิดไฟล์หรือโฟลเดอร์จากคลาวด์ ไฟล์นั้นจะถูกเพิ่มในรายการเปิดล่าสุด คุณสามารถทำเครื่องหมายโฟลเดอร์ที่ซ้อนกันอยู่ลึกเป็นรายการโปรดเพื่อเข้าถึงอย่างรวดเร็วโดยไม่ต้องขุดค้นโครงสร้างไดเรกทอรี
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evervideo ลิงก์ออนไลน์และการเข้าถึงด่วน" image="/docs/guide/evervideo/img/evervideo-connections-online-links.webp" >}}
+  {{< ls-card title="" subtitle="Evervideo ลิงก์ออนไลน์และการเข้าถึงด่วน" image="/docs/guide/evervideo/img/evervideo-connections-online-links.webp" >}}
 {{< /cards >}}
 
 ## ไฟล์ในแอปพลิเคชันนี้
@@ -217,7 +217,7 @@ iTunes File Sharing (ปัจจุบันคือ Finder File Sharing บ�
 ส่วนนี้แสดงไฟล์และโฟลเดอร์ที่เก็บไว้ในไดเรกทอรี Documents แบบ sandbox ของ Evervideo — ทุกอย่างที่คุณดาวน์โหลดจากคลาวด์, ถ่ายโอนผ่าน Wi-Fi Drive, คัดลอกผ่าน Finder File Sharing หรือนำเข้าจากแอปอื่น
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evervideo ไฟล์ในแอปพลิเคชันนี้" image="/docs/guide/evervideo/img/evervideo-files-in-this-application.webp" >}}
+  {{< ls-card title="" subtitle="Evervideo ไฟล์ในแอปพลิเคชันนี้" image="/docs/guide/evervideo/img/evervideo-files-in-this-application.webp" >}}
 {{< /cards >}}
 
 ### โฟลเดอร์ Documents
@@ -225,7 +225,7 @@ iTunes File Sharing (ปัจจุบันคือ Finder File Sharing บ�
 โฟลเดอร์ Documents คือรากฐานของทุกอย่างในไฟล์ในแอปพลิเคชันนี้ คุณสามารถสร้างโฟลเดอร์ย่อย, เปลี่ยนชื่อไฟล์, ย้าย และจัดกลุ่มตามต้องการ
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="ไฟล์ในเครื่อง Evervideo — โฟลเดอร์ Documents" image="/docs/guide/evervideo/img/evervideo-local-files-documents.webp" >}}
+  {{< ls-card title="" subtitle="ไฟล์ในเครื่อง Evervideo — โฟลเดอร์ Documents" image="/docs/guide/evervideo/img/evervideo-local-files-documents.webp" >}}
 {{< /cards >}}
 
 ## ไฟล์บน iPhone / iPad / Mac นี้
@@ -238,7 +238,7 @@ iTunes File Sharing (ปัจจุบันคือ Finder File Sharing บ�
 คุณยังสามารถใช้ เชื่อมต่อโฟลเดอร์ เพื่อสร้างลิงก์ไปยังโฟลเดอร์บนอุปกรณ์ของคุณด้วยสิทธิ์การอ่าน / เขียน — เหมาะสำหรับการทำงานกับโฟลเดอร์บน iCloud Drive หรือ USB drive ที่ติดอยู่โดยไม่ต้องคัดลอกอะไร
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="ไฟล์ Evervideo บนอุปกรณ์นี้" image="/docs/guide/evervideo/img/evervideo-files-on-this-device.webp" >}}
+  {{< ls-card title="" subtitle="ไฟล์ Evervideo บนอุปกรณ์นี้" image="/docs/guide/evervideo/img/evervideo-files-on-this-device.webp" >}}
 {{< /cards >}}
 
 ## โฟลเดอร์พิเศษ
@@ -276,7 +276,7 @@ iTunes File Sharing (ปัจจุบันคือ Finder File Sharing บ�
 แตะ **"..."** ที่มุมขวาบนและเลือก **เลือก** เพื่อเข้าสู่โหมดการเลือก กล่องกาเครื่องหมายจะปรากฏถัดจากไฟล์และโฟลเดอร์ทุกรายการ แตะเพื่อเลือกหนึ่งหรือหลายรายการ จากนั้นดำเนินการแบบกลุ่ม: เล่นถัดไป, เล่นทีหลัง, เพิ่มในคลังมีเดีย, เพิ่มในเพลย์ลิสต์, คัดลอก, อัปโหลด, ย้าย, เปลี่ยนชื่อ หรือลบ
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evervideo โหมดการเลือกในตัวจัดการไฟล์" image="/docs/guide/evervideo/img/evervideo-selection-mode-in-files.webp" >}}
+  {{< ls-card title="" subtitle="Evervideo โหมดการเลือกในตัวจัดการไฟล์" image="/docs/guide/evervideo/img/evervideo-selection-mode-in-files.webp" >}}
 {{< /cards >}}
 
 หากคุณต้องการให้ที่เก็บข้อมูลคลาวด์ที่เชื่อมต่อเป็นแบบอ่านอย่างเดียว (เพื่อป้องกันการลบโดยไม่ตั้งใจ) ให้เปิดใช้งาน การตั้งค่า → ตัวจัดการไฟล์ → แก้ไขไฟล์ออนไลน์ → ปิด เพื่อซ่อนการดำเนินการที่ทำลายล้างทั้งหมดจาก UI
@@ -318,13 +318,13 @@ iTunes File Sharing (ปัจจุบันคือ Finder File Sharing บ�
 ที่มุมขวาบนของแท็บไฟล์มีปุ่ม **การถ่ายโอน** (ไอคอนลูกศรหมุน) แตะเพื่อเปิดคิวการถ่ายโอน — รายการการดาวน์โหลดและอัปโหลดที่ใช้งานทุกรายการจากแหล่งทั้งหมดของคุณ พร้อมความคืบหน้าแบบเรียลไทม์, ความเร็ว และ ETA ต่อไฟล์
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evervideo คิวการถ่ายโอนไฟล์" image="/docs/guide/evervideo/img/evervideo-file-transfers.webp" >}}
+  {{< ls-card title="" subtitle="Evervideo คิวการถ่ายโอนไฟล์" image="/docs/guide/evervideo/img/evervideo-file-transfers.webp" >}}
 {{< /cards >}}
 
 คุณสามารถหยุดชั่วคราว, ดำเนินการต่อ, ลองใหม่สำหรับการถ่ายโอนที่ล้มเหลว, จัดเรียงรายการใหม่เพื่อจัดลำดับความสำคัญการดาวน์โหลดเฉพาะ หรือยกเลิกทีละรายการ คุณยังสามารถปรับความเร็วคิวการถ่ายโอน (งานขนานสูงสุด), ประเภทเครือข่าย (Wi-Fi เท่านั้น หรือ Wi-Fi + Cellular) และการถ่ายโอนในพื้นหลังใน การตั้งค่า → ตัวจัดการไฟล์
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evervideo การดำเนินการในคิวการถ่ายโอนไฟล์" image="/docs/guide/evervideo/img/evervideo-file-transfers-actions.webp" >}}
+  {{< ls-card title="" subtitle="Evervideo การดำเนินการในคิวการถ่ายโอนไฟล์" image="/docs/guide/evervideo/img/evervideo-file-transfers-actions.webp" >}}
 {{< /cards >}}
 
 ## โหมดออฟไลน์และโฟลเดอร์ออฟไลน์ที่ซิงโครไนซ์

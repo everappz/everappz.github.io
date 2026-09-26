@@ -7,7 +7,7 @@ tags: ["evermusic", "connectar", "bluesound vault"]
 readingTime: 1
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **Resum:** Connecteu-vos a l'emmagatzematge intern del Bluesound VAULT via SMB utilitzant Evermusic, Flacbox o Evertag. Trobeu l'adreça IP del VAULT a l'aplicació BluOS, introduïu-la com a connexió SMB amb accés de convidat i comenceu a reproduir o gestionar els vostres fitxers de música.
@@ -58,18 +58,18 @@ Amb aquests senzills passos, podeu accedir fàcilment al disc dur intern del Blu
 
 ## PMF
 
-{{% details title="Necessito un nom d'usuari i una contrasenya per connectar-me al Bluesound VAULT?" closed="true" %}}
+{{% ls-details title="Necessito un nom d'usuari i una contrasenya per connectar-me al Bluesound VAULT?" closed="true" %}}
 No. El Bluesound VAULT admet l'accés de convidat (anònim) via SMB. Deixeu els camps d'Inici de sessió i Contrasenya en blanc quan configureu la connexió.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Puc editar les etiquetes de música al Bluesound VAULT?" closed="true" %}}
+{{% ls-details title="Puc editar les etiquetes de música al Bluesound VAULT?" closed="true" %}}
 Sí. Utilitzant Evertag, podeu editar les etiquetes de metadades (títol, artista, àlbum, etc.) dels fitxers d'àudio emmagatzemats directament al disc dur intern del VAULT.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Quins protocols admet el Bluesound VAULT?" closed="true" %}}
+{{% ls-details title="Quins protocols admet el Bluesound VAULT?" closed="true" %}}
 El Bluesound VAULT exposa el seu emmagatzematge intern via SMB (Server Message Block). Evermusic, Flacbox i Evertag admeten connexions SMB, cosa que fa que connectar-s'hi sigui senzill.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Puc reproduir música en streaming des del VAULT sense copiar fitxers al meu iPhone?" closed="true" %}}
+{{% ls-details title="Puc reproduir música en streaming des del VAULT sense copiar fitxers al meu iPhone?" closed="true" %}}
 Sí. Un cop connectat via SMB, podeu reproduir fitxers d'àudio en streaming directament des de la unitat interna del VAULT sense copiar-los al vostre dispositiu.
-{{% /details %}}
+{{% /ls-details %}}

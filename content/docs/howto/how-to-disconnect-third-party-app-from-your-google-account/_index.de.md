@@ -7,7 +7,7 @@ tags: ["Google", "Sicherheit", "Datenschutz", "Apps", "Konto", "Zugriff"]
 readingTime: 2
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **Kurzfassung:** Gehen Sie zu [myaccount.google.com](https://myaccount.google.com/) > Sicherheit > Drittanbieter-Apps und -Dienste. Klicken Sie auf die App, die Sie entfernen möchten, und wählen Sie dann „Zugriff entfernen" oder „Alle Verbindungen löschen." Wiederholen Sie dies für jede App.
@@ -75,18 +75,18 @@ Denken Sie daran, dass Drittanbieter-Apps zwar Ihre digitale Erfahrung verbesser
 
 ## FAQ
 
-{{% details title="Werden meine Daten aus der App gelöscht, wenn ich sie trenne?" closed="true" %}}
+{{% ls-details title="Werden meine Daten aus der App gelöscht, wenn ich sie trenne?" closed="true" %}}
 Nein. Das Entfernen des Zugriffs verhindert nur, dass die App in Zukunft auf Ihr Google-Konto zugreift. Bereits mit der App geteilte Daten können weiterhin auf deren Servern existieren. Überprüfen Sie die eigenen Datenschutzeinstellungen der App, um diese Daten zu löschen.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Kann ich eine App nach dem Trennen wieder verbinden?" closed="true" %}}
+{{% ls-details title="Kann ich eine App nach dem Trennen wieder verbinden?" closed="true" %}}
 Ja. Wenn Sie die App erneut benötigen, melden Sie sich einfach mit Google an, wenn Sie dazu aufgefordert werden. Die App wird erneut um Berechtigungen bitten, und Sie können diese überprüfen, bevor Sie den Zugriff gewähren.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Wie oft sollte ich den Zugriff von Drittanbieter-Apps überprüfen?" closed="true" %}}
+{{% ls-details title="Wie oft sollte ich den Zugriff von Drittanbieter-Apps überprüfen?" closed="true" %}}
 Überprüfen Sie Ihre verbundenen Apps alle 3–6 Monate oder sofort, nachdem Sie einen Dienst nicht mehr nutzen. Regelmäßige Überprüfungen helfen, Ihr Konto sicher zu halten.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Betrifft dies Apps wie Evermusic, die sich mit Google Drive verbinden?" closed="true" %}}
+{{% ls-details title="Betrifft dies Apps wie Evermusic, die sich mit Google Drive verbinden?" closed="true" %}}
 Ja. Wenn Sie eine App wie Evermusic oder Flacbox von Ihrem Google-Konto trennen, verliert sie den Zugriff auf Ihre Google Drive-Dateien. Sie können sich jederzeit innerhalb der App erneut verbinden.
-{{% /details %}}
+{{% /ls-details %}}

@@ -16,7 +16,7 @@ readingTime: 3
 Evertag는 직관적인 사용자 인터페이스를 제공합니다. 많은 인기 앱과 차별화되는 점은 내장 파일 관리자로, 사용자에게 오디오 파일을 편집하고 클라우드 스토리지와 원활하게 전송할 수 있는 기능을 제공합니다.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evertag 화면" image="/docs/guide/evertag/img/tag-editor.webp" >}}
+  {{< ls-card title="" subtitle="Evertag 화면" image="/docs/guide/evertag/img/tag-editor.webp" >}}
 {{< /cards >}}
 
 ## 섹션
@@ -42,7 +42,7 @@ iPhone, iPad 또는 Mac의 압축 모드를 사용하든, 모든 앱 기능은 �
 화면의 거의 모든 콘텐츠 항목에는 "추가 작업" 버튼이 있습니다. 탭하여 모든 사용 가능한 작업에 액세스하세요.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evertag 추가 작업" image="/docs/guide/evertag/img/downloads-file-actions.webp" >}}
+  {{< ls-card title="" subtitle="Evertag 추가 작업" image="/docs/guide/evertag/img/downloads-file-actions.webp" >}}
 {{< /cards >}}
 
 ## 상단 도구 모음

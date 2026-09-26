@@ -18,7 +18,7 @@ readingTime: 16
 מסך ההגדרות הוא מרכז השליטה של Evermusic. מכאן תוכל לשדרג לפרימיום, להגדיר את נגן השמע, לנהל את ספריית המוזיקה שלך, להגדיר את מנהל הקבצים, להתאים אישית את הממשק, להפעיל ווידג'טים ו-CarPlay, לגבות את הנתונים שלך, ולגשת לעזרה ומידע משפטי. הסעיפים מקובצים תחת כותרות: **רכישות ועדכונים**, העדפות אפליקציה, **עזרה**, ו-**חוק ופרטיות**.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="מסך הגדרות Evermusic" image="/docs/guide/evermusic/evermusic-guide-settings/img/settings-main-screen.webp" >}}
+  {{< ls-card title="" subtitle="מסך הגדרות Evermusic" image="/docs/guide/evermusic/evermusic-guide-settings/img/settings-main-screen.webp" >}}
 {{< /cards >}}
 
 ## רכישות ועדכונים

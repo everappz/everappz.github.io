@@ -7,7 +7,7 @@ tags: ["audio", "iphone", "mp3", "texty", "lrc", "vložené", "zobraziť", "zobr
 keywords: ["zobraziť vložené texty iPhone", "Evermusic zobraziť texty", "súbor LRC Evermusic", "tag komentára audio", "zobrazenie textov Flacbox", "texty iOS hudobná aplikácia", "audio prehrávač zobraziť texty"]
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **TL;DR:** Evermusic pre iPhone a Mac zobrazuje vložené texty piesní, tagy komentárov a externé súbory .lrc pre akúkoľvek zvukovú stopu. Otvorte prehrávač, ťuknite na **Viac akcií** a vyberte **Komentáre** na zobrazenie textov v troch režimoch: Komentáre, Vložené texty a Súbor LRC.
@@ -68,22 +68,22 @@ Zobrazenie vložených textov piesní, komentárov alebo synchronizovaných súb
 
 ## Často kladené otázky
 
-{{% details title="Ako zobrazím vložené texty piesní na mojom iPhone?" closed="true" %}}
+{{% ls-details title="Ako zobrazím vložené texty piesní na mojom iPhone?" closed="true" %}}
 Otvorte Evermusic, prehrajte pieseň, ťuknite na Viac akcií v celoobrazovkovom prehrávači a vyberte Komentáre. Potiahnite na kartu Vložené texty na zobrazenie textov uložených v tagoch zvukového súboru.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Čo je súbor LRC a ako funguje?" closed="true" %}}
+{{% ls-details title="Čo je súbor LRC a ako funguje?" closed="true" %}}
 Súbor LRC je textový súbor obsahujúci časované texty piesní. Keď je umiestnený v rovnakom priečinku ako zvukový súbor s rovnakým názvom, Evermusic ho prečíta a zobrazí synchronizované texty, ktoré sa posúvajú počas prehrávania.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Môžem pridať texty do mojich hudobných súborov na iPhone?" closed="true" %}}
+{{% ls-details title="Môžem pridať texty do mojich hudobných súborov na iPhone?" closed="true" %}}
 Áno. Použite aplikáciu Evertag na úpravu tagov ID3 a pridanie alebo aktualizáciu vložených textov priamo na vašom iPhone. Môžete vložiť časovaný text vo formáte LRC pre synchronizované texty.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Podporuje Evermusic synchronizované (časované) texty?" closed="true" %}}
+{{% ls-details title="Podporuje Evermusic synchronizované (časované) texty?" closed="true" %}}
 Áno. Evermusic podporuje časované texty vo formáte LRC, a to ako vložené v zvukových tagoch, tak aj poskytnuté ako samostatný súbor `.lrc`.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Aké zvukové formáty podporujú vložené texty?" closed="true" %}}
+{{% ls-details title="Aké zvukové formáty podporujú vložené texty?" closed="true" %}}
 MP3, FLAC, AAC, M4A, OGG a väčšina ostatných bežných formátov podporuje vložené texty prostredníctvom ich príslušných štandardov tagov.
-{{% /details %}}
+{{% /ls-details %}}

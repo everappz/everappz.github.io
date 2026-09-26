@@ -7,9 +7,9 @@ tags: ["Flacbox", "音效", "操作指南", "BASS", "均衡器", "低音增强",
 readingTime: 30
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
-{{< full-width-tables >}}
+{{< ls-full-width-tables >}}
 
 **简短回答：** 在 Flacbox 中，你在**设置 > 音频播放器**里选择一个**播放引擎**：**标准**（Apple 的系统引擎）、**通用**（FFmpeg 引擎）或**音效**（**BASS™ 引擎**）。你选择的引擎决定了哪些文件格式可以播放，所以这个选择很重要。**音效**引擎能播放大多数 iPhone 应用跳过的额外格式（FLAC、DSD、WavPack、APE、Musepack、TrueAudio、Opus，以及像 MOD、XM、IT 和 S3M 这样的老式 **MOD 和 tracker 音乐**），而且它是唯一为这些声音工具提供支持的引擎：一个 **10 段均衡器**、**音量标准化**、**压缩器**、**Freeverb**、**自动哇音**、**移相器**、**镶边器**、**回声**、**合唱**、**失真**、**旋转**、**交叉馈送**，以及一个自建的 **DSP 链**。所以要使用本指南中的效果，请先将你的播放引擎设为**音效**。每个工具都有现成的**预设**。在**设置 > 音频播放器**中打开它们（音频效果、音频均衡器、信号处理），或点按播放器上的 **⋯（更多）**按钮并选择**音频效果**。你在这里所做的一切都不会改动你的文件。
 
@@ -657,93 +657,93 @@ Flacbox 把它的声音工具放在三个地方，全都在音频播放器设置
 
 ## 常见问题
 
-{{% details title="Flacbox 使用什么声音引擎？" closed="true" %}}
+{{% ls-details title="Flacbox 使用什么声音引擎？" closed="true" %}}
 你在设置 > 音频播放器里选择一个播放引擎：标准（Apple 的系统引擎）、通用（FFmpeg 引擎）或音效（来自 Un4seen Developments 的 BASS™ 引擎，un4seen.com）。你选择的引擎决定了哪些文件格式可以播放。音效是那个能播放额外格式如 FLAC、DSD、WavPack、APE、Musepack、TrueAudio、Opus 以及 MOD 或 tracker 音乐的引擎，而且它是唯一提供实时效果、10 段均衡器和 DSP 链的引擎。要使用这些效果，请将播放引擎设为音效。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Flacbox 能播放 MOD、XM、IT 以及其他 tracker 或模块音乐吗？" closed="true" %}}
+{{% ls-details title="Flacbox 能播放 MOD、XM、IT 以及其他 tracker 或模块音乐吗？" closed="true" %}}
 可以。BASS™ 引擎有一个内置的模块播放器，能加载 MOD、XM、IT、S3M、MTM、UMX 和 MO3 文件，并根据其模式和乐器音色实时重建这首歌，正如 tracker 音乐本应有的播放方式。普通 iPhone 播放器做不到这一点。效果和均衡器对模块音乐也有效。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Flacbox 支持 DSD 和高解析度文件吗？" closed="true" %}}
+{{% ls-details title="Flacbox 支持 DSD 和高解析度文件吗？" closed="true" %}}
 可以。Flacbox 通过 BASS™ 引擎使用 DSD over PCM 播放 DSD 文件（DSF 和 DFF），因此它们能在普通输出硬件上工作，此外还有用于无损播放的 FLAC、WavPack、Monkey's Audio (APE)、Musepack 和 TrueAudio。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Flacbox 有哪些音效？" closed="true" %}}
+{{% ls-details title="Flacbox 有哪些音效？" closed="true" %}}
 一个 10 段均衡器、音量标准化、压缩器、Freeverb、自动哇音、移相器、镶边器、回声、合唱、失真、旋转和交叉馈送，还有一个自建的 DSP 链，带有滤波器、架式、增益、软削波、位压碎、环形调制器、颤音、延迟和立体声宽度。每一个都是独立的，可以与其他的组合。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="什么是预设？" closed="true" %}}
+{{% ls-details title="什么是预设？" closed="true" %}}
 预设是一个效果的现成设置。你无需自己移动滑块，只需点按一个预设，声音就会随之变化。Flacbox 中的每个效果都有若干预设，本指南列出了每一个的作用。如果你在选择一个预设之后移动滑块，效果会显示「手动」，告诉你它现在使用的是你自己的数值。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="如何在 Flacbox 中打开音频效果？" closed="true" %}}
+{{% ls-details title="如何在 Flacbox 中打开音频效果？" closed="true" %}}
 打开正在播放播放器，点按 ⋯（更多）按钮，然后选择音频效果。或前往设置 > 音频播放器 > 音频效果。点按一个效果，打开它的开关，选择一个预设，或打开滑块进行微调。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="均衡器在哪里，什么是最佳设置？" closed="true" %}}
+{{% ls-details title="均衡器在哪里，什么是最佳设置？" closed="true" %}}
 前往设置 > 音频播放器 > 音频均衡器。它有从 32 Hz 到 16 kHz 的 10 个频段，每个从 -12 到 +12 dB，加上一个 -24 到 +24 dB 的前置放大器和 22 个预设。想要更多低音，使用 Bass Booster。想要更清晰的人声，使用 Vocal Booster 或 Pop。想要更明亮的声音，使用 Treble Booster。然后按喜好调整单个频段。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="如何在 Flacbox 中增强低音？" closed="true" %}}
+{{% ls-details title="如何在 Flacbox 中增强低音？" closed="true" %}}
 两种简便方法。在音频均衡器中，选择 Bass Booster（或把 32 Hz 和 64 Hz 频段提升几 dB）。或者，在信号处理中，添加一个设为 Bass Boost 的低架模块。在这两种情况下，都把前置放大器降低或添加一个增益模块 1 到 2 dB，让低音保持干净且不失真。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="哪个均衡器预设最适合我的音乐？" closed="true" %}}
+{{% ls-details title="哪个均衡器预设最适合我的音乐？" closed="true" %}}
 Rock 和 Electronic 以强劲的低音和高音增添能量。Acoustic、Jazz 和 Classical 保持温暖自然。Pop 和 Vocal Booster 把人声往前推。Bass Booster 和 Hip-Hop 增添分量。Deep 和 Loudness 在低音量下听起来更饱满。从与你的曲风相符的那个开始，然后微调。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="什么是音量标准化，它与 ReplayGain 有何不同？" closed="true" %}}
+{{% ls-details title="什么是音量标准化，它与 ReplayGain 有何不同？" closed="true" %}}
 它让每首曲目以大约相同的响度播放。它使用 EBU R128 标准（以 LUFS，就像流媒体服务那样）衡量真实响度，并把每首曲目朝你的目标调整，带有一个最大提升限制。与 ReplayGain 不同，它不需要你文件中有任何标签，并对任何来源实时工作，且不改动音频。预设：Light、Standard、Strong 和 Night。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="什么是交叉馈送，我应该使用它吗？" closed="true" %}}
+{{% ls-details title="什么是交叉馈送，我应该使用它吗？" closed="true" %}}
 交叉馈送把左右声道的一点混合在一起，让耳机感觉更像真实的扬声器，而不像声音卡在你脑袋里。它只用于耳机，所以在扬声器上请关闭它。Flacbox 使用 bs2b（Bauer）方法，带有像 Chu Moy 和 Jan Meier 这样的预设。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="压缩器和音量标准化之间有什么区别？" closed="true" %}}
+{{% ls-details title="压缩器和音量标准化之间有什么区别？" closed="true" %}}
 音量标准化匹配不同歌曲之间的响度。压缩器均衡单首歌内部的响与轻的部分。它们解决不同的问题，并配合得很好，尤其是在车里或嘈杂的地方。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="什么是信号处理（DSP）链？" closed="true" %}}
+{{% ls-details title="什么是信号处理（DSP）链？" closed="true" %}}
 它是设置 > 音频播放器 > 信号处理中一个自建的机架。添加像滤波器、架式、增益、软削波、位压碎、环形调制器、颤音、延迟和立体声宽度这样的模块，以任意顺序排列它们，打开或关闭每一个，并把链指向所有声道、左或右。由于顺序很重要，你可以精确设计出你想要的声音。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="均衡器、效果和 DSP 链之间有什么区别？" closed="true" %}}
+{{% ls-details title="均衡器、效果和 DSP 链之间有什么区别？" closed="true" %}}
 均衡器是一个简单的 10 段音色控制。音频效果是带有预设的现成工具（压缩器、混响、回声等等）。DSP 链是你从单个模块构建自己效果顺序的地方。你可以同时运行这三者。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="这些效果会改动或损坏我的音乐文件吗？" closed="true" %}}
+{{% ls-details title="这些效果会改动或损坏我的音乐文件吗？" closed="true" %}}
 不会。一切都在音乐播放时实时应用。你的文件永远不会被改动或重新保存。关闭一个效果，原始声音会立即返回。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="我可以同时使用多个效果吗？" closed="true" %}}
+{{% ls-details title="我可以同时使用多个效果吗？" closed="true" %}}
 可以。每个效果都有自己的开关，而且没有总开关，所以任何组合都可行。例如，音量标准化加压缩器以获得均匀的聆听，或在耳机上使用 Freeverb 加交叉馈送，再叠加均衡器。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="为什么效果控件是灰色的？" closed="true" %}}
+{{% ls-details title="为什么效果控件是灰色的？" closed="true" %}}
 该效果已关闭。打开编辑器顶部的开关即可使用这些控件。每个效果默认都是关闭的。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="手动标签是什么意思？" closed="true" %}}
+{{% ls-details title="手动标签是什么意思？" closed="true" %}}
 它意味着你把某个滑块从预设移开了，所以效果现在使用的是你自己的自定义数值而非某个具名预设。每个滑块都有一个重置按钮，再次选择一个预设会替换你的手动数值。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="我可以保存和分享我的均衡器预设吗？" closed="true" %}}
+{{% ls-details title="我可以保存和分享我的均衡器预设吗？" closed="true" %}}
 可以。除了 22 个内置预设之外，你还可以制作自己的、重新排序它们，并导出或导入它们，把你的设置转移到另一台设备。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="这些效果在 CarPlay、流媒体和后台播放中有效吗？" closed="true" %}}
+{{% ls-details title="这些效果在 CarPlay、流媒体和后台播放中有效吗？" closed="true" %}}
 有效。这些效果在 BASS™ 引擎内运行，所以它们适用于本地文件、云盘、媒体服务器、流和模块音乐，并且在 CarPlay 和后台播放期间持续工作。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="我可以更改音频输出质量吗？" closed="true" %}}
+{{% ls-details title="我可以更改音频输出质量吗？" closed="true" %}}
 可以。在设置 > 音频播放器中，你可以设置输出采样率、声道数和缓冲区大小，以匹配你的耳机、扬声器或 DAC。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="耳机的一个好的起始设置是什么？" closed="true" %}}
+{{% ls-details title="耳机的一个好的起始设置是什么？" closed="true" %}}
 打开音量标准化（Standard），添加一个轻度压缩器（Soft），选择一个你喜欢的均衡器预设，并打开交叉馈送（Chu Moy 或 Jan Meier）。让混响、回声和失真保持关闭，除非你想要一种创意声音。
-{{% /details %}}
+{{% /ls-details %}}
 
 ---
 

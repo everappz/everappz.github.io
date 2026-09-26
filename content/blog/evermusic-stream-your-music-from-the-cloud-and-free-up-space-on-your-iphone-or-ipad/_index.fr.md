@@ -12,7 +12,7 @@ authors:
     image: "/images/about/artem-meleshko-founder-everappz.webp"
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 ![](/blog/evermusic-stream-your-music-from-the-cloud-and-free-up-space-on-your-iphone-or-ipad/21260c_00c5356db3a24db6a6a37e353b774d56~mv2.jpg)
 
@@ -82,22 +82,22 @@ Parcourez votre compte cloud connecté, ouvrez un dossier de musique et appuyez 
 
 ## Questions fréquemment posées
 
-{{% details title="Evermusic est-il gratuit ?" closed="true" %}}
+{{% ls-details title="Evermusic est-il gratuit ?" closed="true" %}}
 Evermusic est gratuit à télécharger avec des fonctionnalités premium optionnelles. Le streaming cloud de base et la lecture hors ligne sont disponibles dans la version gratuite.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Quels services cloud Evermusic prend-il en charge ?" closed="true" %}}
+{{% ls-details title="Quels services cloud Evermusic prend-il en charge ?" closed="true" %}}
 Google Drive, Dropbox, Box, OneDrive, MediaFire, MEGA, Yandex.Disk, pCloud, HiDrive, MyDrive, les partages de fichiers SMB et les serveurs WebDAV.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Puis-je écouter de la musique hors ligne avec Evermusic ?" closed="true" %}}
+{{% ls-details title="Puis-je écouter de la musique hors ligne avec Evermusic ?" closed="true" %}}
 Oui. Téléchargez n'importe quel album, artiste, playlist ou morceau individuel pour une lecture hors ligne directement dans l'application.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Quels formats audio Evermusic lit-il ?" closed="true" %}}
+{{% ls-details title="Quels formats audio Evermusic lit-il ?" closed="true" %}}
 Evermusic prend en charge MP3, FLAC, AAC, WAV, ALAC, AIFF, OPUS, OGG et de nombreux autres formats.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Ai-je encore besoin d'iTunes pour transférer de la musique ?" closed="true" %}}
+{{% ls-details title="Ai-je encore besoin d'iTunes pour transférer de la musique ?" closed="true" %}}
 Non. Uploadez votre musique vers n'importe quel service cloud pris en charge depuis votre ordinateur, puis streamez-la ou téléchargez-la via Evermusic sur votre iPhone ou iPad.
-{{% /details %}}
+{{% /ls-details %}}

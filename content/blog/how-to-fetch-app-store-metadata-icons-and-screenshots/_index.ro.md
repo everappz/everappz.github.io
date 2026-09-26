@@ -23,7 +23,7 @@ authors:
     image: "/images/about/artem-meleshko-founder-everappz.webp"
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 ## Obține date App Store în câteva secunde
 
@@ -134,53 +134,53 @@ Nu ai nevoie de o cheie API, un cont de dezvoltator sau un plan plătit pentru a
 AppLookup.pro este open source. Rapoartele de erori, adăugările de țări și pull request-urile sunt binevenite.
 
 {{< cards cols="1" >}}
-  {{< card link="https://github.com/everappz/AppStoreLookup" title="AppLookup.pro pe GitHub" icon="github" tag="open source" >}}
+  {{< ls-card link="https://github.com/everappz/AppStoreLookup" title="AppLookup.pro pe GitHub" icon="github" tag="open source" >}}
 {{< /cards >}}
 
 ---
 
 ## Întrebări frecvente
 
-{{% details title="AppLookup.pro este cu adevărat gratuit?" closed="true" %}}
+{{% ls-details title="AppLookup.pro este cu adevărat gratuit?" closed="true" %}}
 Da. AppLookup.pro este 100 la sută gratuit și open source. Rulează în browserul tău. Nu există înregistrare, nivel plătit sau plafon de utilizare dincolo de propriile limite iTunes Search API ale Apple.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="De unde provin datele?" closed="true" %}}
+{{% ls-details title="De unde provin datele?" closed="true" %}}
 Fiecare rezultat este preluat în timp real din [iTunes Search API](https://developer.apple.com/library/archive/documentation/AudioVideo/Conceptual/iTuneSearchAPI/index.html) oficial de la Apple. Instrumentul nu face scraping pe paginile App Store și nu memorează răspunsurile în cache pe niciun server.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Pot descărca pictograma aplicației în rezoluție înaltă?" closed="true" %}}
+{{% ls-details title="Pot descărca pictograma aplicației în rezoluție înaltă?" closed="true" %}}
 Da. Secțiunea **App Icon** afișează fiecare URL de pictogramă pe care Apple îl returnează. Fiecare card are un Direct Link și un buton Download, iar un buton Download All Icons ZIP le împachetează într-o singură arhivă.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Pot descărca toate capturile de ecran App Store deodată?" closed="true" %}}
+{{% ls-details title="Pot descărca toate capturile de ecran App Store deodată?" closed="true" %}}
 Da. Fiecare secțiune de capturi de ecran (iPhone, iPad, macOS și Apple TV) are un buton **Download All (ZIP)** care grupează fiecare captură de ecran la rezoluție completă.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Cum văd cum arată o aplicație într-o altă țară?" closed="true" %}}
+{{% ls-details title="Cum văd cum arată o aplicație într-o altă țară?" closed="true" %}}
 Alege o țară din meniul derulant din partea de sus a paginii. Sunt acceptate peste 40 de magazine. Apasă **Lookup** din nou și instrumentul va relua preluarea aplicației pentru acea țară, afișând titlul, descrierea, capturile de ecran, noutățile și prețul localizate.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Pot copia câmpuri individuale precum bundle ID sau data lansării?" closed="true" %}}
+{{% ls-details title="Pot copia câmpuri individuale precum bundle ID sau data lansării?" closed="true" %}}
 Da. Fiecare câmp de text din rezultat are propriul buton Copy: numele aplicației, dezvoltator, descriere, noutăți, bundle ID, versiune, preț, dimensiune fișier, OS minim, dată lansare, rating de conținut, limbi, dispozitive acceptate și JSON brut.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="AppLookup.pro funcționează pentru orice aplicație iOS?" closed="true" %}}
+{{% ls-details title="AppLookup.pro funcționează pentru orice aplicație iOS?" closed="true" %}}
 Funcționează pentru orice aplicație care este listată public în cel puțin o țară App Store și returnată de iTunes Search API. Aplicațiile nelistate, eliminate sau distribuite în întreprindere nu vor apărea.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Acceptă aplicații macOS și Apple TV?" closed="true" %}}
+{{% ls-details title="Acceptă aplicații macOS și Apple TV?" closed="true" %}}
 Da. Dacă aplicația are capturi de ecran macOS sau Apple TV în răspunsul iTunes Search API, AppLookup.pro le afișează în propriul panou derulabil cu butoane de descărcare.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Pot folosi JSON-ul brut în propriul cod?" closed="true" %}}
+{{% ls-details title="Pot folosi JSON-ul brut în propriul cod?" closed="true" %}}
 Da. Secțiunea Raw API Response afișează JSON-ul exact pe care îl returnează Apple. Copiază-l în Postman, un test unitar sau un pipeline backend. Te rugăm să respecți termenii API Apple și limitele de rată rezonabile.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Este sigur să lipești URL-uri App Store în instrument?" closed="true" %}}
+{{% ls-details title="Este sigur să lipești URL-uri App Store în instrument?" closed="true" %}}
 Da. URL-ul este analizat în browserul tău. Singurul apel de rețea de ieșire este căutarea către iTunes Search API de la Apple.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Care este diferența dintre AppLookup.pro și AppKeywords.pro?" closed="true" %}}
+{{% ls-details title="Care este diferența dintre AppLookup.pro și AppKeywords.pro?" closed="true" %}}
 [AppLookup.pro](https://applookup.pro) este pentru citirea metadatelor App Store din orice aplicație publicată: cercetarea concurenței, descărcarea resurselor, verificările de localizare. [AppKeywords.pro](https://appkeywords.pro) este pentru scrierea metadatelor App Store pentru propria ta aplicație: optimizarea titlului, subtitlului și cuvintelor cheie cu suport Fastlane. Cele două instrumente funcționează bine împreună.
-{{% /details %}}
+{{% /ls-details %}}

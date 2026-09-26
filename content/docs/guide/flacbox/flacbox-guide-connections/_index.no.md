@@ -19,7 +19,7 @@ readingTime: 12
 På dette skjermbildet kan du koble til alle kilder som inneholder musikken din. Du kan integrere populære skytjenester som Dropbox, Google Drive, iCloud Drive, OneDrive, MEGA, Box, pCloud, Yandex Disk, Synology Drive og mange flere, samt din Mac, PC eller NAS via standard protokoller. Enten samlingen din ligger på en strømmevennlig tjeneste som Dropbox eller på en personlig NAS som Synology, QNAP, Buffalo, Apple Time Capsule eller WD My Cloud Home, kobler Flacbox til dem alle fra ett enkelt skjermbilde.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox Tilkoblinger-skjerm" image="/docs/guide/flacbox/img/connections-main.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox Tilkoblinger-skjerm" image="/docs/guide/flacbox/img/connections-main.webp" >}}
 {{< /cards >}}
 
 ## Koble til Skylagring
@@ -30,7 +30,7 @@ På dette skjermbildet kan du koble til alle kilder som inneholder musikken din.
 - Skriv inn påloggingsinformasjonen din på den offisielle autorisasjonssiden som skyleverandøren gir, og trykk deretter på **Ferdig**.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox Legg til en Skylagringstjeneste" image="/docs/guide/flacbox/img/add-cloud-storage.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox Legg til en Skylagringstjeneste" image="/docs/guide/flacbox/img/add-cloud-storage.webp" >}}
 {{< /cards >}}
 
 Hvis du opplever problemer, sjekk internettforbindelsen og brukernavnet / passordet ditt. I Premium-versjonen av appen kan du legge til et ubegrenset antall tjenester; gratisversjonen støtter opptil tre.
@@ -132,7 +132,7 @@ Denne seksjonen viser alle enheter på det lokale nettverket ditt som du kan kob
 - Skriv om nødvendig inn påloggingsinformasjonen din for å fullføre tilkoblingen.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox Tilgjengelige Enheter på Lokalt Nettverk" image="/docs/guide/flacbox/img/available-devies.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox Tilgjengelige Enheter på Lokalt Nettverk" image="/docs/guide/flacbox/img/available-devies.webp" >}}
 {{< /cards >}}
 
 ## Wi-Fi Drive
@@ -147,7 +147,7 @@ Wi-Fi Drive er en praktisk teknologi som muliggjør trådløs filoverføring fra
 - Trykk på **Start Wi-Fi Drive** for å aktivere Wi-Fi Drive.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox Wi-Fi Drive" image="/docs/guide/flacbox/img/wifi-drive.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox Wi-Fi Drive" image="/docs/guide/flacbox/img/wifi-drive.webp" >}}
 {{< /cards >}}
 
 ### Tilgang til Wi-Fi Drive på Datamaskinen din
@@ -230,7 +230,7 @@ Trykk på **"..."**-ikonet nær filens tittel for å åpne handlingsmenyen:
 - **Slette** — fjern filen permanent fra skylagringen din. **Denne handlingen kan ikke angres.**
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox Flere handlinger for en fil i tilkoblet skylagring" image="/docs/guide/flacbox/img/more-actions-for-file-in-connected-cloud-storage.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox Flere handlinger for en fil i tilkoblet skylagring" image="/docs/guide/flacbox/img/more-actions-for-file-in-connected-cloud-storage.webp" >}}
 {{< /cards >}}
 
 ## Mappehandlinger
@@ -255,7 +255,7 @@ For hver mappe i skylagringen din er et bredt utvalg av handlinger tilgjengelig 
 Hurtigtilgang-seksjonen er plassert øverst på skjermen. Den gir deg rask tilgang til favoritt- og nylig åpnede filer fra tilkoblede skytjenester.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox Online lenker og Hurtigtilgang" image="/docs/guide/flacbox/img/online-links.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox Online lenker og Hurtigtilgang" image="/docs/guide/flacbox/img/online-links.webp" >}}
 {{< /cards >}}
 
 ## Andre Tjenester
@@ -263,5 +263,5 @@ Hurtigtilgang-seksjonen er plassert øverst på skjermen. Den gir deg rask tilga
 Denne seksjonen viser ekstra funksjoner som forbedrer opplevelsen din. For øyeblikket støtter appen **Last.fm**-scrobbling — når tilkoblet sendes avspillingsstatistikken din automatisk til Last.fm-kontoen din. Detaljerte oppsettinstruksjoner er tilgjengelige [her](/docs/howto/how-to-scrobble-your-music-history-from-evermusic-or-flacbox-to-last-fm).
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox Last.fm Tilkobling" image="/docs/guide/flacbox/img/last-fm-connect.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox Last.fm Tilkobling" image="/docs/guide/flacbox/img/last-fm-connect.webp" >}}
 {{< /cards >}}

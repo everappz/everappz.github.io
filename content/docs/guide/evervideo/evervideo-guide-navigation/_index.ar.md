@@ -19,7 +19,7 @@ readingTime: 4
 على عكس معظم تطبيقات الوسائط، يدمج Evervideo حساباتك السحابية ومشاركات NAS وخوادم الوسائط والملفات المحلية في تبويب ملفات واحد موحّد — لذلك لن تتنقل بين شاشات منفصلة. هذا يجعل نقل فيديو من خادم Plex إلى مجلد iCloud Drive إلى مجلد المستندات على iPhone عملية على شاشة واحدة بنقرة واحدة.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="الشاشة الرئيسية لـ Evervideo" image="/docs/guide/evervideo/img/evervideo-main.webp" >}}
+  {{< ls-card title="" subtitle="الشاشة الرئيسية لـ Evervideo" image="/docs/guide/evervideo/img/evervideo-main.webp" >}}
 {{< /cards >}}
 
 ## التبويبات
@@ -53,7 +53,7 @@ readingTime: 4
 تقريباً كل عنصر محتوى على الشاشة لديه زر المزيد من الإجراءات (أيقونة النقاط الثلاث "⋯"). انقر عليه لفتح قائمة حسّاسة للسياق بكل إجراء متاح لذلك العنصر — تشغيل التالي، تشغيل لاحقاً، إضافة إلى قائمة تشغيل، إضافة إلى المفضلة، تحرير العلامات، تنزيل، مشاركة، إعادة تسمية، نقل، وما إلى ذلك. القوائم الطويلة تتمرر عمودياً حتى تتمكن من الوصول إلى الإجراءات الأقل شيوعاً دون ازدحام واجهة المستخدم الرئيسية.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="قائمة المزيد من الإجراءات للمفضلة في Evervideo" image="/docs/guide/evervideo/img/evervideo-favorites-more-actions.webp" >}}
+  {{< ls-card title="" subtitle="قائمة المزيد من الإجراءات للمفضلة في Evervideo" image="/docs/guide/evervideo/img/evervideo-favorites-more-actions.webp" >}}
 {{< /cards >}}
 
 ## شريط الأدوات العلوي

@@ -12,7 +12,7 @@ authors:
     image: "/images/about/artem-meleshko-founder-everappz.webp"
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 **संक्षेप में:** [Evervideo 1.7](/products/evervideo) iPhone, iPad और Mac के लिए HD वीडियो प्लेयर का एक बड़ा अपडेट है। यह रिलीज़ 10+ नए क्लाउड, NAS और मीडिया-सर्वर कनेक्शन जोड़ती है — **Internxt**, **Proton Drive**, **QNAP**, **Nextcloud**, **Amazon S3**, साथ ही सबसे लोकप्रिय मीडिया सर्वर **Plex**, **Subsonic**, **Navidrome**, **Jellyfin** और **Emby**, और तीन नेटवर्क प्रोटोकॉल: **FTP**, **SFTP** और **NFS**। नए **प्लेबैक जेस्चर** आपको आगे या पीछे जाने के लिए डबल टैप करने, 2x पर चलाने के लिए टैप और होल्ड करने, और कंट्रोल टॉगल करने के लिए सिंगल टैप करने देते हैं — सब कुछ बिना फ़ुल-स्क्रीन से बाहर निकले। Wi-Fi Drive को सिलेक्शन मोड और एक स्मार्ट अपलोड क्यू के साथ रिफ़्रेश्ड UI मिला। पूरा ऐप Apple के नए **Liquid Glass** डिज़ाइन के लिए ट्यून किया गया है।
 
@@ -147,58 +147,58 @@ Evervideo 1.7 तीन विचारों पर बना है:
 
 ## अक्सर पूछे जाने वाले प्रश्न
 
-{{% details title="Evervideo 1.7 में क्या नया है?" closed="true" %}}
+{{% ls-details title="Evervideo 1.7 में क्या नया है?" closed="true" %}}
 Evervideo 1.7 10+ नए कनेक्शनों (Plex, Jellyfin, Emby, Subsonic, Navidrome, Internxt, Proton Drive, QNAP, Nextcloud, Amazon S3, FTP, SFTP, NFS) के लिए समर्थन, नए प्लेबैक जेस्चर (सीक के लिए डबल टैप, 2x गति के लिए टैप और होल्ड, कंट्रोल टॉगल करने के लिए सिंगल टैप), चयन मोड और एक स्मार्ट अपलोड क्यू के साथ पुनः डिज़ाइन किया गया Wi-Fi Drive, Liquid Glass डिज़ाइन अपडेट, अपडेटेड कनेक्शन लाइब्रेरीज़ और कई बग फ़िक्स पेश करता है।
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="क्या Evervideo Plex के साथ काम करता है?" closed="true" %}}
+{{% ls-details title="क्या Evervideo Plex के साथ काम करता है?" closed="true" %}}
 हाँ। Evervideo 1.7 से शुरू होकर, आप Plex Media Server से कनेक्ट कर सकते हैं और अपनी पूरी वीडियो लाइब्रेरी स्ट्रीम कर सकते हैं — फ़िल्में, TV शो और होम वीडियो। Plex Media Server चलाने के लिए मुफ़्त है; Plex Pass वैकल्पिक है। Evervideo मुफ़्त और Plex Pass दोनों सेटअप का समर्थन करता है, जिसमें री-एनकोडिंग के बिना MKV, MP4, AVI, MOV और अन्य फ़ॉर्मेट्स का डायरेक्ट प्ले शामिल है।
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="क्या Evervideo में Jellyfin या Navidrome समर्थित हैं?" closed="true" %}}
+{{% ls-details title="क्या Evervideo में Jellyfin या Navidrome समर्थित हैं?" closed="true" %}}
 हाँ। Evervideo 1.7 में Jellyfin और Navidrome दोनों पूरी तरह समर्थित हैं। Jellyfin एक मुफ़्त, ओपन-सोर्स मीडिया सर्वर है जो वीडियो और ऑडियो को संभालता है। Navidrome एक मुफ़्त, ओपन-सोर्स सर्वर है जो Subsonic API लागू करता है। Evervideo दोनों से नेटिव रूप से जुड़ता है।
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="क्या Plex, Jellyfin, Emby, Navidrome और Subsonic मुफ़्त हैं?" closed="true" %}}
+{{% ls-details title="क्या Plex, Jellyfin, Emby, Navidrome और Subsonic मुफ़्त हैं?" closed="true" %}}
 - **Plex** — सर्वर मुफ़्त है; Plex Pass एक वैकल्पिक पेड अपग्रेड है।
 - **Jellyfin** — पूरी तरह से मुफ़्त और ओपन-सोर्स।
 - **Emby** — सर्वर मुफ़्त है; Emby Premiere पेड है और मोबाइल सिंक तथा ऑफ़लाइन अनलॉक करता है।
 - **Navidrome** — पूरी तरह से मुफ़्त और ओपन-सोर्स।
 - **Subsonic** — आधिकारिक सर्वर 30 दिनों के परीक्षण के बाद 1 $/माह की लागत लेता है, लेकिन इसका API खुला है और कई मुफ़्त सर्वर (जिसमें Navidrome शामिल है) इसे लागू करते हैं।
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="क्या मैं SFTP, FTP या NFS पर अपने होम NAS से स्ट्रीम कर सकता हूँ?" closed="true" %}}
+{{% ls-details title="क्या मैं SFTP, FTP या NFS पर अपने होम NAS से स्ट्रीम कर सकता हूँ?" closed="true" %}}
 हाँ। Evervideo 1.7 SFTP, FTP और NFS को नेटिव कनेक्शन प्रकार के रूप में जोड़ता है। सार्वजनिक इंटरनेट पर अपने सर्वर से स्ट्रीमिंग के लिए SFTP अनुशंसित विकल्प है क्योंकि सभी ट्रैफ़िक SSH के माध्यम से एन्क्रिप्टेड होता है। FTP और NFS स्थानीय नेटवर्क के अंदर या VPN के पीछे सबसे अच्छे उपयोग किए जाते हैं।
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="मैं SFTP का उपयोग करके Evervideo को कस्टम सर्वर से कैसे कनेक्ट करूँ?" closed="true" %}}
+{{% ls-details title="मैं SFTP का उपयोग करके Evervideo को कस्टम सर्वर से कैसे कनेक्ट करूँ?" closed="true" %}}
 Evervideo खोलें, संपर्क टैब पर जाएँ, SFTP चुनें, और अपने सर्वर का होस्टनेम या IP, पोर्ट (आमतौर पर 22), उपयोगकर्ता नाम, और पासवर्ड या SSH निजी कुंजी डालें। Evervideo आपके दूरस्थ फ़ोल्डरों को ब्राउज़ करेगा और एंड-टू-एंड एन्क्रिप्शन के साथ सीधे वीडियो फ़ाइलें स्ट्रीम करेगा।
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="क्या Evervideo Internxt और Proton Drive का समर्थन करता है?" closed="true" %}}
+{{% ls-details title="क्या Evervideo Internxt और Proton Drive का समर्थन करता है?" closed="true" %}}
 हाँ। दोनों प्राइवेसी-केंद्रित क्लाउड Evervideo 1.7 से समर्थित हैं। वे MEGA और ऐप में पहले से उपलब्ध अन्य प्राइवेसी-फ़र्स्ट सेवाओं में शामिल हो जाते हैं।
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="नए प्लेबैक जेस्चर कैसे काम करते हैं?" closed="true" %}}
+{{% ls-details title="नए प्लेबैक जेस्चर कैसे काम करते हैं?" closed="true" %}}
 फ़ुल-स्क्रीन वीडियो प्लेबैक में, आगे जाने के लिए **दाईं ओर डबल टैप करें** और कॉन्फ़िगर करने योग्य अंतराल (डिफ़ॉल्ट 10 सेकंड — सेटिंग्स में बदलें) से पीछे जाने के लिए **बाईं ओर डबल टैप करें**। अस्थायी रूप से 2x तक तेज़ करने के लिए स्क्रीन पर कहीं भी **टैप करके होल्ड करें**; सामान्य पर लौटने के लिए छोड़ें। प्लेबैक कंट्रोल टॉगल करने (दिखाएँ या छिपाएँ) के लिए कहीं भी **सिंगल टैप करें**।
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="क्या मैं डबल-टैप स्किप अंतराल बदल सकता हूँ?" closed="true" %}}
+{{% ls-details title="क्या मैं डबल-टैप स्किप अंतराल बदल सकता हूँ?" closed="true" %}}
 हाँ। **सेटिंग्स → प्लेबैक → जेस्चर स्किप इंटरवल** पर जाएँ और 5 से 60 सेकंड के बीच मान चुनें। अधिकांश उपयोगकर्ता इसे 10 या 15 सेकंड पर रखते हैं।
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Evervideo में Wi-Fi Drive क्या है?" closed="true" %}}
+{{% ls-details title="Evervideo में Wi-Fi Drive क्या है?" closed="true" %}}
 Wi-Fi Drive Evervideo की अंतर्निहित वायरलेस फ़ाइल ट्रांसफ़र सुविधा है। यह आपको अपने स्थानीय Wi-Fi नेटवर्क पर अपने कंप्यूटर से iPhone या iPad पर वीडियो अपलोड करने देती है — कोई iTunes नहीं, कोई केबल नहीं, कोई क्लाउड अकाउंट नहीं। आप किसी भी डेस्कटॉप ब्राउज़र या Mac Finder या Windows File Explorer जैसे WebDAV क्लाइंट का उपयोग कर सकते हैं। [पूरी Wi-Fi Drive गाइड](/docs/howto/how-to-transfer-files-wirelessly-from-a-computer-to-an-iphone-using-wifi-drive/) देखें।
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="क्या Evervideo Plex या Jellyfin से MKV, AVI और अन्य फ़ॉर्मेट चलाता है?" closed="true" %}}
+{{% ls-details title="क्या Evervideo Plex या Jellyfin से MKV, AVI और अन्य फ़ॉर्मेट चलाता है?" closed="true" %}}
 हाँ। Evervideo लगभग हर वीडियो फ़ॉर्मेट चलाता है — MKV, AVI, MP4, MOV, FLV, WMV, WEBM, M4V, TS, 3GP — और उन्हें Plex, Jellyfin, Emby और अन्य मीडिया सर्वरों से सीधे स्ट्रीम करता है, अधिकांश कोडेक्स के लिए ट्रांसकोडिंग की आवश्यकता के बिना। इसका मतलब है आपके सर्वर पर कम CPU लोड और तेज़ स्टार्ट टाइम्स।
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="क्या Evervideo 1.7 का अपडेट मुफ़्त है?" closed="true" %}}
+{{% ls-details title="क्या Evervideo 1.7 का अपडेट मुफ़्त है?" closed="true" %}}
 हाँ। Evervideo App Store से मुफ़्त डाउनलोड है, और 1.7 सभी मौजूदा उपयोगकर्ताओं के लिए मुफ़्त अपडेट है। नए क्लाउड एकीकरण, मीडिया-सर्वर समर्थन, प्लेबैक जेस्चर, Wi-Fi Drive सुधार और Liquid Glass UI बेस अपडेट का हिस्सा हैं।
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Evervideo 1.7 किन डिवाइसों पर उपलब्ध है?" closed="true" %}}
+{{% ls-details title="Evervideo 1.7 किन डिवाइसों पर उपलब्ध है?" closed="true" %}}
 Evervideo 1.7 iPhone, iPad और Mac पर चलता है। AirPlay और Chromecast आपको प्लेबैक को बड़े स्क्रीन पर कास्ट करने देते हैं। iCloud Drive सिंक आपकी लाइब्रेरी और सेटिंग्स को डिवाइसों के बीच सुसंगत रखता है।
-{{% /details %}}
+{{% /ls-details %}}

@@ -19,7 +19,7 @@ readingTime: 11
 Správa hudobnej knižnice je s Flacbox hračka — všetky vaše skladby v lokálnych formátoch FLAC, ALAC, DSD, MP3, M4A, OGG, WMA, APE a desiatky ďalších formátov môžete bez námahy organizovať do jednej prehľadateľnej zbierky. Na budovanie hudobnej knižnice máte dve možnosti: manuálne pridávanie (sami si vyberáte, čo sa pridá) alebo automatická synchronizácia (Flacbox prehľadáva určené cloudové priečinky a automaticky pridáva nové súbory, keď sa objavia).
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox — zobrazenie albumov v hudobnej knižnici" image="/docs/guide/flacbox/img/media-library-albums.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox — zobrazenie albumov v hudobnej knižnici" image="/docs/guide/flacbox/img/media-library-albums.webp" >}}
 {{< /cards >}}
 
 ## Manuálne pridávanie
@@ -27,7 +27,7 @@ Správa hudobnej knižnice je s Flacbox hračka — všetky vaše skladby v lok�
 Ak chcete manuálne pridávať skladby, klepnite na ikonu **Pridať hudbu** v ľavom hornom rohu a vyberte priečinky alebo súbory z pripojenej cloudovej úložnej služby alebo súbory nachádzajúce sa na zariadení. Keď pridáte skladby do knižnice, vytvárajú sa iba prepojenia na tieto skladby — skutočné súbory zostávajú na pôvodných miestach, aby sa ušetril cenný diskový priestor. Ak chcete mať skladby dostupné offline, môžete použiť akciu Stiahnuť z ponuky možností alebo povoliť Offline režim pre prehrávače a zbierky skladieb.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox — pridanie skladieb do hudobnej knižnice" image="/docs/guide/flacbox/img/library-add-songs.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox — pridanie skladieb do hudobnej knižnice" image="/docs/guide/flacbox/img/library-add-songs.webp" >}}
 {{< /cards >}}
 
 Na verzii Mac môžete tiež pretiahnuť súbory do knižnice, alebo použiť **Otvoriť súbory…** / **Otvoriť priečinok…** zo systémového výberu súborov na iPhone a iPad.
@@ -89,7 +89,7 @@ Nachádza sa tesne pod navigačnou lištou a ponúka niekoľko pohodlných akci�
 Funkcia vyhľadávania vám umožňuje nájsť konkrétnu skladbu, interpreta, album alebo žáner v hudobnej knižnici. Na obrazovke Hľadať máte prístup k akciám Zoradiť, Filtrovať a zobrazeniu Mriežka / Zoznam. Vyhľadávanie prebieha lokálne v databáze hudobnej knižnice, takže funguje plne offline a vracia výsledky pri písaní.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox — vyhľadávanie v hudobnej knižnici" image="/docs/guide/flacbox/img/media-library-search.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox — vyhľadávanie v hudobnej knižnici" image="/docs/guide/flacbox/img/media-library-search.webp" >}}
 {{< /cards >}}
 
 ## Ponuka možností
@@ -140,7 +140,7 @@ Keď otvoríte sekcie Interpret, Albumový interpret alebo Skladateľ, zobrazí 
 Je to obzvlášť užitočné na čistenie zanedbaných kompilácií „Rôzni interpreti" vo veľkých knižniciach.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox — obrazovka detailu albumu" image="/docs/guide/flacbox/img/media-library-album-details-screen.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox — obrazovka detailu albumu" image="/docs/guide/flacbox/img/media-library-album-details-screen.webp" >}}
 {{< /cards >}}
 
 ## Nastavenia

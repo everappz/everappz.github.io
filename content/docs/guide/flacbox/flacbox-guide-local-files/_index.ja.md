@@ -19,7 +19,7 @@ readingTime: 8
 この組み込みのファイルマネージャーを使用すると、ファイルの編集（名前変更、移動、コピー、アップロード、削除）、転送の監視、およびアプリへのオーディオファイルのインポート方法（クラウドからの直接ダウンロード、オフラインモード同期、USBフラッシュドライブ、Wi-Fi Drive、Finderファイル共有）を実行できます。
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox ローカルファイル画面" image="/docs/guide/flacbox/img/local-files.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox ローカルファイル画面" image="/docs/guide/flacbox/img/local-files.webp" >}}
 {{< /cards >}}
 
 ## クラウドストレージからファイルをダウンロード
@@ -102,7 +102,7 @@ readingTime: 8
 デバイス上にあるが異なるアプリケーションのファイルを表示します。システムファイルピッカーを使用してこのアプリにインポートできます。ピッカーを有効にするには、ファイルを選択するために**ファイルを開く…**を選択するか、フォルダーを選択するために**フォルダーを開く…**を選択します。iPhoneまたはMacに保存されているローカル音楽のインポート方法の詳細な手順は[こちら](/docs/howto/how-to-play-local-music-stored-on-your-iphone-or-mac)で確認できます。
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox 接続されたデバイスのフォルダー" image="/docs/guide/flacbox/img/connected-device-folders.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox 接続されたデバイスのフォルダー" image="/docs/guide/flacbox/img/connected-device-folders.webp" >}}
 {{< /cards >}}
 
 デバイス上にあるフォルダーを接続してそのコンテンツにすばやくアクセスすることもできます。**フォルダーを接続**メニュー項目を使用して、デバイス上にあるフォルダーを選択します。**完了**をタップすると、アプリは読み取り / 書き込みアクセスでそのフォルダーへのリンクを作成し、このアプリから直接ファイルを管理できるようになります。デバイス上にあるフォルダーの接続を解除するには、**その他のアクション**ボタンをタップして**切断する**を選択します。
@@ -137,7 +137,7 @@ iPhoneにUSBフラッシュドライブを接続して音楽を聴いたりフ�
 - **削除する** — 選択したファイルまたはフォルダーをデバイスから削除します。**この操作は元に戻せません。**
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox ローカルファイル選択モード" image="/docs/guide/flacbox/img/local-files-selection-mode.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox ローカルファイル選択モード" image="/docs/guide/flacbox/img/local-files-selection-mode.webp" >}}
 {{< /cards >}}
 
 ## オプションメニュー
@@ -161,7 +161,7 @@ iPhoneにUSBフラッシュドライブを接続して音楽を聴いたりフ�
 - **削除する** — デバイスからファイルまたはフォルダーを削除します。**この操作は元に戻せず**、削除されたファイルを復元することはできません。
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox ローカルファイルのその他のアクション" image="/docs/guide/flacbox/img/local-files-more-actions-for-file.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox ローカルファイルのその他のアクション" image="/docs/guide/flacbox/img/local-files-more-actions-for-file.webp" >}}
 {{< /cards >}}
 
 ## オフラインフォルダー

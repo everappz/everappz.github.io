@@ -15,7 +15,7 @@ readingTime: 11
 במסך זה, ניתן לחבר מקורות שונים המכילים את קבצי האודיו שלכם. ניתן לשלב שירותי ענן פופולריים כמו Google Drive, Dropbox, OneDrive, iCloud ואחרים, וכן לחבר את ה-Mac או PC שלכם. בנוסף, יש לכם אפשרות לערוך קבצי אודיו הנמצאים ב-Apple Time Capsule, WD Cloud Home, או כל NAS התומך ב-SMB או WebDAV.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="מסך חיבורים Evertag" image="/docs/guide/evertag/img/connections.webp" >}}
+  {{< ls-card title="" subtitle="מסך חיבורים Evertag" image="/docs/guide/evertag/img/connections.webp" >}}
 {{< /cards >}}
 
 ## גישה מהירה
@@ -151,7 +151,7 @@ iTunes File Sharing היא טכנולוגיה נוספת המאפשרת להעב
 - **תצוגת רשת/רשימה**: עברו בין שני מצבי צפייה: תצוגת טבלה ותצוגת תמונות ממוזערות. תצוגת הטבלה מציגה קבצים ברשימה, בעוד שתצוגת התמונות הממוזערות מציגה ייצוגים חזותיים של הקבצים, מה שמקל על זיהוי תוכן במבט חד.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="מיון תיקיית ענן Evertag" image="/docs/guide/evertag/img/cloud-storage-sort.webp" >}}
+  {{< ls-card title="" subtitle="מיון תיקיית ענן Evertag" image="/docs/guide/evertag/img/cloud-storage-sort.webp" >}}
 {{< /cards >}}
 
 ## עריכת קבצים מקוונים
@@ -163,7 +163,7 @@ iTunes File Sharing היא טכנולוגיה נוספת המאפשרת להעב
 - **ביצוע פעולות שונות**: לאחר שבחרתם את הקבצים או התיקיות שברצונכם לנהל, תהיה לכם גישה למספר פעולות המותאמות לצרכיכם:
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="בחירת קובץ Evertag" image="/docs/guide/evertag/img/cloud-storage-file-select.webp" >}}
+  {{< ls-card title="" subtitle="בחירת קובץ Evertag" image="/docs/guide/evertag/img/cloud-storage-file-select.webp" >}}
 {{< /cards >}}
 
 ## פעולות על קבצים
@@ -180,7 +180,7 @@ iTunes File Sharing היא טכנולוגיה נוספת המאפשרת להעב
 - **למחוק**: היזהרו עם פעולה זו, שכן היא מסירה את הקובץ לצמיתות מאחסון הענן שלכם. **לא ניתן לבטל מחיקה זו**.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="אפשרויות קובץ Evertag" image="/docs/guide/evertag/img/cloud-storage-file-options.webp" >}}
+  {{< ls-card title="" subtitle="אפשרויות קובץ Evertag" image="/docs/guide/evertag/img/cloud-storage-file-options.webp" >}}
 {{< /cards >}}
 
 אם רשימת הפעולות חורגת משטח המסך הזמין, פשוט גללו למטה בתוך תפריט הפעולות כדי לגשת לאפשרויות נוספות.
@@ -196,5 +196,5 @@ iTunes File Sharing היא טכנולוגיה נוספת המאפשרת להעב
 - **למחוק**: היזהרו עם פעולה זו, שכן היא מסירה לצמיתות את התיקייה ותוכנה מאחסון הענן שלכם. **לא ניתן לבטל פעולה זו**.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="אפשרויות תיקייה Evertag" image="/docs/guide/evertag/img/cloud-storage-folder-options.webp" >}}
+  {{< ls-card title="" subtitle="אפשרויות תיקייה Evertag" image="/docs/guide/evertag/img/cloud-storage-folder-options.webp" >}}
 {{< /cards >}}

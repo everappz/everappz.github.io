@@ -21,7 +21,7 @@ Tässä näytössä voit käyttää sovelluksen asetuksia ja päivittää sen Pr
 - **Lakiasiat ja yksityisyys** — Käyttöehdot, Tietosuojakäytäntö, Lakihuomautukset, Analytiikka ja tiedonkeruu
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evertag Settings Screen" image="/docs/guide/evertag/img/settings.webp" >}}
+  {{< ls-card title="" subtitle="Evertag Settings Screen" image="/docs/guide/evertag/img/settings.webp" >}}
 {{< /cards >}}
 
 ## Päivitä Premiumiin
@@ -63,7 +63,7 @@ Aktivoi salasanasuojausnäytön, jos haluat suojata sovelluksesi tiedot.
 Tiedostonhallinta tukee pääsyä yhdistettyihin pilvipalvelutileihin ja tarjoaa eräkäsittelytoiminnot useiden tiedostojen nopeaan hallintaan.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evertag Settings File Manager Screen" image="/docs/guide/evertag/img/settings-file-manager.webp" >}}
+  {{< ls-card title="" subtitle="Evertag Settings File Manager Screen" image="/docs/guide/evertag/img/settings-file-manager.webp" >}}
 {{< /cards >}}
 
 ### Tiedostojen siirrot
@@ -103,7 +103,7 @@ Tyhjennä sovelluksen välimuistikansio tallennustilan vapauttamiseksi.
 Tässä osiossa voit konfiguroida sisäänrakennetun äänitunnistemuokkaimen.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evertag Settings Tag Editor Screen" image="/docs/guide/evertag/img/settings-tag-editor.webp" >}}
+  {{< ls-card title="" subtitle="Evertag Settings Tag Editor Screen" image="/docs/guide/evertag/img/settings-tag-editor.webp" >}}
 {{< /cards >}}
 
 ### Albumin kansikuvan skaalaus
@@ -136,7 +136,7 @@ Tässä osiossa voit aktivoida WiFi Drive -ominaisuuden, jonka avulla voit siirt
 Tässä osiossa voit mukauttaa käyttöliittymäasetuksia mieltymystesi mukaan.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evertag Settings Personalization Screen" image="/docs/guide/evertag/img/settings-personalization.webp" >}}
+  {{< ls-card title="" subtitle="Evertag Settings Personalization Screen" image="/docs/guide/evertag/img/settings-personalization.webp" >}}
 {{< /cards >}}
 
 ### Sovelluksen kuvake

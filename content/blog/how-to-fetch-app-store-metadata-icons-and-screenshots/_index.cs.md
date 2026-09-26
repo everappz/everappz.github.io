@@ -23,7 +23,7 @@ authors:
     image: "/images/about/artem-meleshko-founder-everappz.webp"
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 ## Získejte data App Store za pár sekund
 
@@ -134,53 +134,53 @@ Nepotřebujete klíč API, vývojářský účet ani placený plán k prozkoumá
 AppLookup.pro je open source. Hlášení chyb, přidávání zemí a pull requesty jsou vítány.
 
 {{< cards cols="1" >}}
-  {{< card link="https://github.com/everappz/AppStoreLookup" title="AppLookup.pro na GitHubu" icon="github" tag="open source" >}}
+  {{< ls-card link="https://github.com/everappz/AppStoreLookup" title="AppLookup.pro na GitHubu" icon="github" tag="open source" >}}
 {{< /cards >}}
 
 ---
 
 ## Často kladené otázky
 
-{{% details title="Je AppLookup.pro opravdu zdarma?" closed="true" %}}
+{{% ls-details title="Je AppLookup.pro opravdu zdarma?" closed="true" %}}
 Ano. AppLookup.pro je 100 procent zdarma a open source. Běží ve vašem prohlížeči. Není zde registrace, placená úroveň ani limit používání nad rámec vlastních limitů iTunes Search API od Apple.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Odkud pocházejí data?" closed="true" %}}
+{{% ls-details title="Odkud pocházejí data?" closed="true" %}}
 Každý výsledek je získáván v reálném čase z oficiálního [iTunes Search API](https://developer.apple.com/library/archive/documentation/AudioVideo/Conceptual/iTuneSearchAPI/index.html) od Apple. Nástroj nescrapuje stránky App Store a neukládá odpovědi do mezipaměti na žádném serveru.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Mohu stáhnout ikonu aplikace ve vysokém rozlišení?" closed="true" %}}
+{{% ls-details title="Mohu stáhnout ikonu aplikace ve vysokém rozlišení?" closed="true" %}}
 Ano. Sekce **App Icon** zobrazuje každou URL ikony, kterou Apple vrací. Každá karta má Direct Link a tlačítko Download a tlačítko Download All Icons ZIP je zabalí do jednoho archivu.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Mohu stáhnout všechny snímky obrazovky App Store najednou?" closed="true" %}}
+{{% ls-details title="Mohu stáhnout všechny snímky obrazovky App Store najednou?" closed="true" %}}
 Ano. Každá sekce snímků obrazovky (iPhone, iPad, macOS a Apple TV) má tlačítko **Download All (ZIP)**, které sbalí každý snímek obrazovky v plném rozlišení.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Jak vidím, jak aplikace vypadá v jiné zemi?" closed="true" %}}
+{{% ls-details title="Jak vidím, jak aplikace vypadá v jiné zemi?" closed="true" %}}
 Vyberte zemi v rozbalovacím menu v horní části stránky. Je podporováno více než 40 obchodů. Klikněte znovu na **Lookup** a nástroj znovu načte aplikaci pro tuto zemi, zobrazí lokalizovaný název, popis, snímky obrazovky, novinky a cenu.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Mohu kopírovat jednotlivá pole, jako je bundle ID nebo datum vydání?" closed="true" %}}
+{{% ls-details title="Mohu kopírovat jednotlivá pole, jako je bundle ID nebo datum vydání?" closed="true" %}}
 Ano. Každé textové pole ve výsledku má vlastní tlačítko Copy: název aplikace, vývojář, popis, novinky, bundle ID, verze, cena, velikost souboru, minimální OS, datum vydání, věkové hodnocení, jazyky, podporovaná zařízení a surový JSON.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Funguje AppLookup.pro pro jakoukoli iOS aplikaci?" closed="true" %}}
+{{% ls-details title="Funguje AppLookup.pro pro jakoukoli iOS aplikaci?" closed="true" %}}
 Funguje pro jakoukoli aplikaci, která je veřejně uvedena alespoň v jedné zemi App Store a vrácena iTunes Search API. Nezařazené, odstraněné nebo podnikově distribuované aplikace se nezobrazí.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Podporuje aplikace macOS a Apple TV?" closed="true" %}}
+{{% ls-details title="Podporuje aplikace macOS a Apple TV?" closed="true" %}}
 Ano. Pokud má aplikace snímky obrazovky macOS nebo Apple TV v odpovědi iTunes Search API, AppLookup.pro je zobrazí ve vlastním posuvném panelu s tlačítky pro stahování.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Mohu použít surový JSON ve vlastním kódu?" closed="true" %}}
+{{% ls-details title="Mohu použít surový JSON ve vlastním kódu?" closed="true" %}}
 Ano. Sekce Raw API Response zobrazuje přesný JSON, který Apple vrací. Zkopírujte jej do Postmana, jednotkového testu nebo backend pipeline. Respektujte prosím podmínky API Apple a rozumné limity rychlosti.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Je bezpečné vkládat URL App Store do nástroje?" closed="true" %}}
+{{% ls-details title="Je bezpečné vkládat URL App Store do nástroje?" closed="true" %}}
 Ano. URL je analyzována ve vašem prohlížeči. Jediné odchozí síťové volání je vyhledávání v iTunes Search API od Apple.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Jaký je rozdíl mezi AppLookup.pro a AppKeywords.pro?" closed="true" %}}
+{{% ls-details title="Jaký je rozdíl mezi AppLookup.pro a AppKeywords.pro?" closed="true" %}}
 [AppLookup.pro](https://applookup.pro) slouží ke čtení metadat App Store z jakékoli zveřejněné aplikace: analýza konkurence, stahování materiálů, kontroly lokalizace. [AppKeywords.pro](https://appkeywords.pro) slouží k psaní metadat App Store pro vaši vlastní aplikaci: optimalizace názvu, podtitulu a klíčových slov s podporou Fastlane. Tyto dva nástroje spolu dobře fungují.
-{{% /details %}}
+{{% /ls-details %}}

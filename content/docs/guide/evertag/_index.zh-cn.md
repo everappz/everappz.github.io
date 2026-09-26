@@ -55,17 +55,17 @@ Evertag 内置文件管理器，支持所有基本文件操作。您还可以使
 在本指南中，您将了解如何在 iPhone、iPad 和 Mac 上充分利用 Evertag 的强大功能，让音乐管理体验变得顺畅愉快。
 
 {{< cards >}}
-  {{< card icon="location-marker" title="导航" subtitle="了解如何使用底部标签栏（适用于 iPhone 用户）或左侧菜单（适用于 iPad 和 Mac 用户）轻松导航应用，访问和探索所有应用功能。" link="/docs/guide/evertag/evertag-guide-navigation" >}}
+  {{< ls-card icon="location-marker" title="导航" subtitle="了解如何使用底部标签栏（适用于 iPhone 用户）或左侧菜单（适用于 iPad 和 Mac 用户）轻松导航应用，访问和探索所有应用功能。" link="/docs/guide/evertag/evertag-guide-navigation" >}}
 
-  {{< card icon="cloud" title="连接" subtitle="轻松将所有可用的云账户与您珍贵的音频文件关联。您甚至可以使用集成文件管理器轻松编辑在线文件。" link="/docs/guide/evertag/evertag-guide-connections" >}}
+  {{< ls-card icon="cloud" title="连接" subtitle="轻松将所有可用的云账户与您珍贵的音频文件关联。您甚至可以使用集成文件管理器轻松编辑在线文件。" link="/docs/guide/evertag/evertag-guide-connections" >}}
 
-  {{< card icon="folder" title="本地文件" subtitle="查看和整理存储在应用文档文件夹或设备上的文件。使用内置文件管理器轻松编辑和管理音频文件。" link="/docs/guide/evertag/evertag-guide-local-files" >}}
+  {{< ls-card icon="folder" title="本地文件" subtitle="查看和整理存储在应用文档文件夹或设备上的文件。使用内置文件管理器轻松编辑和管理音频文件。" link="/docs/guide/evertag/evertag-guide-local-files" >}}
 
-  {{< card icon="pencil-alt" title="标签编辑器" subtitle="掌握音频文件元数据操作的艺术。了解如何编辑元数据、更改专辑封面以及同时管理多个文件。" link="/docs/guide/evertag/evertag-guide-tag-editor" >}}
+  {{< ls-card icon="pencil-alt" title="标签编辑器" subtitle="掌握音频文件元数据操作的艺术。了解如何编辑元数据、更改专辑封面以及同时管理多个文件。" link="/docs/guide/evertag/evertag-guide-tag-editor" >}}
 
-  {{< card icon="code" title="标签字段映射" subtitle="探索 Evertag 应用支持的完整音频标签字段列表，包括内部字段名称以及跨主要元数据格式的映射关系。" link="/docs/guide/evertag/evertag-tag-field-mappings" >}}
+  {{< ls-card icon="code" title="标签字段映射" subtitle="探索 Evertag 应用支持的完整音频标签字段列表，包括内部字段名称以及跨主要元数据格式的映射关系。" link="/docs/guide/evertag/evertag-tag-field-mappings" >}}
 
-  {{< card icon="adjustments" title="设置" subtitle="了解如何自定义应用体验、微调性能、管理数据使用情况，以及根据您的喜好调整语言和用户界面偏好。" link="/docs/guide/evertag/evertag-guide-settings" >}}
+  {{< ls-card icon="adjustments" title="设置" subtitle="了解如何自定义应用体验、微调性能、管理数据使用情况，以及根据您的喜好调整语言和用户界面偏好。" link="/docs/guide/evertag/evertag-guide-settings" >}}
 
-  {{< card icon="question-mark-circle" title="常见问题" subtitle="在我们的常见问题部分找到常见问题的快速解答。" link="/docs/faq/evertag" >}}
+  {{< ls-card icon="question-mark-circle" title="常见问题" subtitle="在我们的常见问题部分找到常见问题的快速解答。" link="/docs/faq/evertag" >}}
 {{< /cards >}}

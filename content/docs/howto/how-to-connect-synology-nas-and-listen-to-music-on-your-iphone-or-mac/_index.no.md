@@ -7,7 +7,7 @@ tags: ["musikk", "strømming", "nas", "synology", "quickconnect"]
 readingTime: 4
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **Sammendrag:** Koble Synology NAS til Evermusic eller Flacbox ved hjelp av Synologys native API -- enten manuelt via IP-adresse eller automatisk via QuickConnect ID. QuickConnect lar deg strømme musikk eksternt uten portvideresending. Begge appene støtter FLAC, MP3, WAV og andre hi-res formater.
@@ -140,22 +140,22 @@ Med sikker ekstern tilgang gjennom QuickConnect og støtte for et bredt spekter 
 
 ## FAQ
 
-{{% details title="Hva er forskjellen mellom manuell tilkobling og QuickConnect?" closed="true" %}}
+{{% ls-details title="Hva er forskjellen mellom manuell tilkobling og QuickConnect?" closed="true" %}}
 Manuell tilkobling bruker NAS IP-adresse og port, som fungerer på ditt lokale nettverk. QuickConnect bruker Synologys relétjeneste for å opprette en tilkobling fra hvor som helst over internett, uten portvideresending.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Kan jeg strømme musikk fra Synology NAS utenfor hjemmenettverket mitt?" closed="true" %}}
+{{% ls-details title="Kan jeg strømme musikk fra Synology NAS utenfor hjemmenettverket mitt?" closed="true" %}}
 Ja. Aktiver QuickConnect på Synology NAS og bruk QuickConnect ID i Evermusic eller Flacbox for å strømme musikk fra hvor som helst med internettforbindelse.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Hvilke lydformater støttes ved strømming fra Synology NAS?" closed="true" %}}
+{{% ls-details title="Hvilke lydformater støttes ved strømming fra Synology NAS?" closed="true" %}}
 Evermusic og Flacbox støtter FLAC, MP3, AAC, WAV, ALAC, OGG, WMA, DSD og mange andre formater. Alle støttede formater fungerer ved strømming fra Synology NAS.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Trenger jeg tofaktorautentisering for å koble til?" closed="true" %}}
+{{% ls-details title="Trenger jeg tofaktorautentisering for å koble til?" closed="true" %}}
 Nei, 2FA er valgfritt. Hvis du har aktivert totrinnsverifisering på Synology DSM, vil appen be om et engangspassord under innlogging. Du må autorisere på nytt når økten utløper.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Bør jeg bruke Synology native API, WebDAV eller SMB for å koble til?" closed="true" %}}
+{{% ls-details title="Bør jeg bruke Synology native API, WebDAV eller SMB for å koble til?" closed="true" %}}
 Synology native API med QuickConnect er det beste valget for ekstern tilgang. For bruk på lokalt nettverk er SMB vanligvis det raskeste alternativet. WebDAV fungerer bra for både lokal og ekstern tilgang. Evermusic og Flacbox støtter alle tre protokollene.
-{{% /details %}}
+{{% /ls-details %}}

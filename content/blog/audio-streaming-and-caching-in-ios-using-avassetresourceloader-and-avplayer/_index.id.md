@@ -12,7 +12,7 @@ authors:
     image: "/images/about/artem-meleshko-founder-everappz.webp"
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 ![](/blog/audio-streaming-and-caching-in-ios-using-avassetresourceloader-and-avplayer/diagram.png)
 
@@ -134,18 +134,18 @@ Pendekatan ini mendukung mesin streaming audio di [Evermusic](https://apps.apple
 
 ## Pertanyaan yang Sering Diajukan
 
-{{% details title="Kapan sebaiknya menggunakan AVAssetResourceLoaderDelegate daripada URL langsung?" closed="true" %}}
+{{% ls-details title="Kapan sebaiknya menggunakan AVAssetResourceLoaderDelegate daripada URL langsung?" closed="true" %}}
 Gunakan ketika layanan cloud memerlukan header otorisasi kustom, ketika Anda membutuhkan cache disk untuk audio yang di-stream, atau ketika Anda menginginkan kontrol mendetail atas cara data dimuat dan di-buffer.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Apakah pendekatan ini bekerja dengan Swift?" closed="true" %}}
+{{% ls-details title="Apakah pendekatan ini bekerja dengan Swift?" closed="true" %}}
 Ya. Protokol `AVAssetResourceLoaderDelegate` bekerja dengan cara yang sama di Swift. Contoh Objective-C di sini dapat diterjemahkan secara langsung.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Bisakah ini digunakan untuk streaming video juga?" closed="true" %}}
+{{% ls-details title="Bisakah ini digunakan untuk streaming video juga?" closed="true" %}}
 Ya. `AVAssetResourceLoaderDelegate` bekerja dengan semua jenis media yang didukung AVPlayer, termasuk video. Pendekatan skema kustom yang sama berlaku.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Apakah ini mendukung pemutaran audio di latar belakang?" closed="true" %}}
+{{% ls-details title="Apakah ini mendukung pemutaran audio di latar belakang?" closed="true" %}}
 Ya, selama Anda mengaktifkan mode latar belakang "Audio, AirPlay, and Picture in Picture" di kemampuan aplikasi Anda dan mengonfigurasi `AVAudioSession` dengan benar.
-{{% /details %}}
+{{% /ls-details %}}

@@ -71,20 +71,20 @@ Flacbox משתמש אך ורק ב-SDK רשמיים ובהתחברויות מבו
 
 {{< cards cols="2">}}
 
-{{< card icon="map" link="/docs/guide/flacbox/flacbox-guide-navigation" title="ניווט" subtitle="סרגל לשוניות ב-iPhone, תפריט שמאלי ב-iPad וב-Mac, מיני נגן, ווידג'טים, CarPlay." >}}
+{{< ls-card icon="map" link="/docs/guide/flacbox/flacbox-guide-navigation" title="ניווט" subtitle="סרגל לשוניות ב-iPhone, תפריט שמאלי ב-iPad וב-Mac, מיני נגן, ווידג'טים, CarPlay." >}}
 
-{{< card icon="cloud" link="/docs/guide/flacbox/flacbox-guide-connections" title="חיבורים" subtitle="iCloud, Google Drive, Dropbox, OneDrive, NAS, WebDAV, SMB, DLNA." >}}
+{{< ls-card icon="cloud" link="/docs/guide/flacbox/flacbox-guide-connections" title="חיבורים" subtitle="iCloud, Google Drive, Dropbox, OneDrive, NAS, WebDAV, SMB, DLNA." >}}
 
-{{< card icon="collection" link="/docs/guide/flacbox/flacbox-guide-music-library" title="ספריית מוזיקה" subtitle="שירים, אלבומים, אמנים, ז'אנרים, מלחינים — סנכרון, חיפוש, עריכת מטאדטה." >}}
+{{< ls-card icon="collection" link="/docs/guide/flacbox/flacbox-guide-music-library" title="ספריית מוזיקה" subtitle="שירים, אלבומים, אמנים, ז'אנרים, מלחינים — סנכרון, חיפוש, עריכת מטאדטה." >}}
 
-{{< card icon="music-note" link="/docs/guide/flacbox/flacbox-guide-playlists" title="רשימות השמעה" subtitle="בנו, ייבאו M3U / M3U8 / CUE, סדרו מחדש וייצאו ל-M3U / CSV / TXT." >}}
+{{< ls-card icon="music-note" link="/docs/guide/flacbox/flacbox-guide-playlists" title="רשימות השמעה" subtitle="בנו, ייבאו M3U / M3U8 / CUE, סדרו מחדש וייצאו ל-M3U / CSV / TXT." >}}
 
-{{< card icon="folder" link="/docs/guide/flacbox/flacbox-guide-local-files" title="קבצים מקומיים" subtitle="מוזיקה אופלין, כוננים USB, Wi-Fi Drive, מנהל קבצים, תיקיות אופלין." >}}
+{{< ls-card icon="folder" link="/docs/guide/flacbox/flacbox-guide-local-files" title="קבצים מקומיים" subtitle="מוזיקה אופלין, כוננים USB, Wi-Fi Drive, מנהל קבצים, תיקיות אופלין." >}}
 
-{{< card icon="play" link="/docs/guide/flacbox/flacbox-guide-player" title="נגן אודיו" subtitle="פלט ברזולוציה גבוהה, איקולייזר, גובה צליל, סימניות, AirPlay, Chromecast, מהירות, מעצר שינה." >}}
+{{< ls-card icon="play" link="/docs/guide/flacbox/flacbox-guide-player" title="נגן אודיו" subtitle="פלט ברזולוציה גבוהה, איקולייזר, גובה צליל, סימניות, AirPlay, Chromecast, מהירות, מעצר שינה." >}}
 
-{{< card icon="adjustments" link="/docs/guide/flacbox/flacbox-guide-settings" title="הגדרות" subtitle="מנוע אודיו, ספרייה, מנהל קבצים, CarPlay, ווידג'טים, התאמה אישית, שפה, גיבוי." >}}
+{{< ls-card icon="adjustments" link="/docs/guide/flacbox/flacbox-guide-settings" title="הגדרות" subtitle="מנוע אודיו, ספרייה, מנהל קבצים, CarPlay, ווידג'טים, התאמה אישית, שפה, גיבוי." >}}
 
-{{< card icon="question-mark-circle" link="/docs/faq/flacbox" title="שאלות נפוצות" subtitle="מצאו תשובות ל-50 השאלות הנפוצות ביותר על Flacbox." >}}
+{{< ls-card icon="question-mark-circle" link="/docs/faq/flacbox" title="שאלות נפוצות" subtitle="מצאו תשובות ל-50 השאלות הנפוצות ביותר על Flacbox." >}}
 
 {{< /cards >}}

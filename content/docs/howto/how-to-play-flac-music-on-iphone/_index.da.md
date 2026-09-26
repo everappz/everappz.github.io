@@ -8,7 +8,7 @@ tags: ["musik", "sky", "afspiller", "downloader", "equalizer", "tabsfri", "hi-re
 readingTime: 8
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **Kort sagt:** For at afspille FLAC på en iPhone har du brug for en tredjepartsafspiller, fordi Apples Musik-app ikke understøtter FLAC. Installer [Flacbox](/products/flacbox) (det er gratis), og overfør derefter enten dine filer via Wi-Fi Drive eller USB, eller tilslut dit skylager eller NAS. Dit FLAC-bibliotek afspilles i fuld kvalitet, op til 384 kHz og 32-bit via en USB DAC. Flacbox afspiller også mere end 120 formater, herunder FLAC, DSD, ALAC, APE, WAV, OGG og OPUS, og den tilføjer en 10-bånds equalizer, den professionelle BASS-lydmotor med effekter i realtid, en DSP-processor og en musikvisualizer i fuld skærm.
@@ -34,7 +34,7 @@ Flacbox er en hi-res-musikafspiller til iPhone, iPad og Mac. Den forvandler dit 
 
 Flacbox er en gratis download og kører på iPhone, iPad og Mac.
 
-{{< app-details product="flacbox" >}}
+{{< ls-app-details product="flacbox" >}}
 
 ### Trin 2. Få dine FLAC-filer ind
 
@@ -82,7 +82,7 @@ Du kan vælge afspilningsmotoren i Indstillinger, derefter Audio Player, derefte
 Flacbox indeholder en 10-bånds grafisk equalizer med forudindstillinger i iPod-stil som Acoustic, Bass Booster, Rock, Pop, Jazz, Classical og Dance. Der er en forforstærker til at løfte stille numre uden clipping, og du kan gemme dine egne forudindstillinger. Tilpas den til in-ear-monitorer, en HomePod eller et bilstereoanlæg. For en fuld gennemgang, se [equalizer-guiden](/docs/howto/how-to-use-the-audio-equalizer-on-your-iphone-ipad-mac-with-evermusic-and-flacbox).
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox Audio Player equalizer" image="/docs/guide/flacbox/img/audio-player-equalizer.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox Audio Player equalizer" image="/docs/guide/flacbox/img/audio-player-equalizer.webp" >}}
 {{< /cards >}}
 
 ## Lydeffekter i realtid
@@ -106,7 +106,7 @@ Ud over effekterne giver Flacbox dig en 14-filter DSP-processor i realtid, som d
 Flacbox har en indbygget musikvisualizer, der maler bevægelige, farverige visuals i takt med din musik. Den bruger den velkendte Milkdrop-motor (projectM) med 500 forudindstillinger, tegnet med OpenGL på iPhone, iPad og Mac. Åbn den fra afspilleren ved at trykke på knappen Flere handlinger og derefter Personalisering. Vælg en forudindstilling, eller brug Auto-tilstand til at skifte imellem dem hvert 30 sekunder med en jævn crossfade. For trinvis hjælp, se guiden om [hvordan man tænder musikvisualizeren](/docs/howto/how-to-turn-on-a-music-visualizer-while-playing-music-on-iphone-ipad-mac).
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox musikvisualizer (Milkdrop and projectM)" image="/docs/howto/how-to-turn-on-a-music-visualizer-while-playing-music-on-iphone-ipad-mac/music-visualizer-starfield-sectors-preset.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox musikvisualizer (Milkdrop and projectM)" image="/docs/howto/how-to-turn-on-a-music-visualizer-while-playing-music-on-iphone-ipad-mac/music-visualizer-starfield-sectors-preset.webp" >}}
 {{< /cards >}}
 
 ## Sky, NAS og offline afspilning
@@ -127,7 +127,7 @@ Når du vil have din musik med dig, gemmer den indbyggede downloadmanager hele p
 
 Flacbox er gratis at downloade. Premium fjerner gratisversionens begrænsninger på skykonti, playlister og offline-mapper, og den fås som et engangskøb for livet eller et månedligt eller årligt abonnement, med Deling i familie.
 
-{{< app-details product="flacbox" >}}
+{{< ls-app-details product="flacbox" >}}
 
 ## Mulighed 2: Konverter FLAC til ALAC til Musik-appen
 
@@ -141,34 +141,34 @@ Afvejningerne er reelle. Du beholder nu to kopier af dit bibliotek, hver metadat
 
 ## Ofte stillede spørgsmål
 
-{{% details title="Kan iPhone afspille FLAC-filer indbygget?" closed="true" %}}
+{{% ls-details title="Kan iPhone afspille FLAC-filer indbygget?" closed="true" %}}
 Kun på en begrænset måde. Filer-appen kan forhåndsvise en enkelt FLAC-fil siden iOS 11, men der er intet bibliotek, playlister, kø, equalizer eller skystreaming. Til rigtig lytning skal du bruge en afspiller-app som Flacbox.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Kan jeg afspille 24-bit eller 96kHz (eller højere) FLAC på iPhone?" closed="true" %}}
+{{% ls-details title="Kan jeg afspille 24-bit eller 96kHz (eller højere) FLAC på iPhone?" closed="true" %}}
 Ja. Flacbox understøtter hi-res-output op til 384 kHz. For at afspille over 48 kHz i sand opløsning skal du tilslutte en ekstern USB DAC, fordi iPhones indbyggede output resampler lyden for hver app.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Konverterer Flacbox FLAC til et andet format?" closed="true" %}}
+{{% ls-details title="Konverterer Flacbox FLAC til et andet format?" closed="true" %}}
 Nej. Flacbox afspiller FLAC i dens oprindelige tabsfrie kvalitet uden konvertering. Effekter og DSP anvendes kun live under afspilning, og de ændrer aldrig dine filer.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Mister jeg kvalitet ved at konvertere FLAC til ALAC?" closed="true" %}}
+{{% ls-details title="Mister jeg kvalitet ved at konvertere FLAC til ALAC?" closed="true" %}}
 Nej. FLAC og ALAC er begge tabsfri, så konverteringen er bit-perfekt. Du bruger kun tid og giver afkald på bekvemmelighed, da du ender med to biblioteker at vedligeholde og skal synkronisere igen efter redigeringer.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Hvilke lydformater understøtter Flacbox?" closed="true" %}}
+{{% ls-details title="Hvilke lydformater understøtter Flacbox?" closed="true" %}}
 Mere end 120 formater, herunder FLAC, DSD (DSF og DFF), ALAC, APE, WAV, AIFF, WV, OGG, OPUS, MP3, AAC, M4A, WMA, og endda tracker- og MOD-musik som MOD, XM, IT og S3M.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Har Flacbox en equalizer, effekter og en visualizer?" closed="true" %}}
+{{% ls-details title="Har Flacbox en equalizer, effekter og en visualizer?" closed="true" %}}
 Ja. Den har en 10-bånds equalizer med forudindstillinger og en forforstærker. Den har også en professionel BASS-motor med elleve effekter i realtid (reverb, delay, multi-tap-ekko, crossfeed, compressor, chorus, flanger, phaser, auto-wah, distortion og stereo rotation), plus EBU R128-lydstyrkeudjævning, en 14-filter DSP-processor og en Milkdrop-visualizer i fuld skærm med 500 forudindstillinger.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Kan jeg streame FLAC fra min NAS eller sky?" closed="true" %}}
+{{% ls-details title="Kan jeg streame FLAC fra min NAS eller sky?" closed="true" %}}
 Ja. Flacbox opretter forbindelse til mere end 30 skytjenester og til en NAS eller computer via SMB, WebDAV, DLNA, FTP, SFTP og NFS. Hele dit bibliotek er tilgængeligt uden at kopiere filer til din iPhone, og du kan downloade numre til offline afspilning når som helst.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Er Flacbox virkelig gratis?" closed="true" %}}
+{{% ls-details title="Er Flacbox virkelig gratis?" closed="true" %}}
 Flacbox er gratis at downloade, med kernefunktioner som equalizeren, skystreaming og offline afspilning. Premium fjerner gratisversionens begrænsninger på skykonti, playlister og offline-mapper, og den kommer som et engangskøb for livet eller et månedligt eller årligt abonnement, med Deling i familie.
-{{% /details %}}
+{{% /ls-details %}}

@@ -7,7 +7,7 @@ tags: ["evermusic", "موسيقى", "سحابة", "iphone", "تخزين", "مح�
 readingTime: 2
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **ملخص:** يحتوي Windows 10 على خادم DLNA مدمج. قم بتفعيله من إعدادات الشبكة والمشاركة، ثم استخدم تطبيق **Evermusic** المجاني على iPhone لبث مكتبة الموسيقى بالكامل عبر Wi-Fi. لا حاجة لبرامج خادم خارجية.
@@ -96,22 +96,22 @@ DLNA (تحالف الشبكات الرقمية للمعيشة) هو أداة ق�
 
 ## الأسئلة الشائعة
 
-{{% details title="هل أحتاج إلى تثبيت أي برنامج خادم على Windows 10؟" closed="true" %}}
+{{% ls-details title="هل أحتاج إلى تثبيت أي برنامج خادم على Windows 10؟" closed="true" %}}
 لا. يتضمن Windows 10 خادم وسائط DLNA مدمجاً. تحتاج فقط إلى تفعيل بث الوسائط في إعدادات مركز الشبكة والمشاركة. لا حاجة لبرامج خارجية.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="هل يجب أن يكون iPhone على نفس شبكة Wi-Fi؟" closed="true" %}}
+{{% ls-details title="هل يجب أن يكون iPhone على نفس شبكة Wi-Fi؟" closed="true" %}}
 نعم. يعمل بث DLNA عبر شبكتك المحلية. يجب أن يكون كل من جهاز Windows 10 و iPhone متصلين بنفس شبكة Wi-Fi حتى يتمكن Evermusic من اكتشاف خادم DLNA.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="ما صيغ الصوت التي يمكنني بثها عبر DLNA؟" closed="true" %}}
+{{% ls-details title="ما صيغ الصوت التي يمكنني بثها عبر DLNA؟" closed="true" %}}
 يشارك خادم Windows DLNA الملفات من مجلد الموسيقى بغض النظر عن الصيغة. يدعم Evermusic صيغ MP3 و FLAC و AAC و WAV و OGG و AIFF والعديد من الصيغ الأخرى، لذا يمكنك تشغيل أي ملف صوتي تقريباً من الخادم.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="هل يمكنني استخدام Flacbox بدلاً من Evermusic؟" closed="true" %}}
+{{% ls-details title="هل يمكنني استخدام Flacbox بدلاً من Evermusic؟" closed="true" %}}
 نعم. يدعم Flacbox أيضاً تصفح وتشغيل DLNA/UPnP. يمكنك استخدام أي من التطبيقين لاكتشاف وتشغيل الموسيقى من خادم Windows DLNA.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="هل سيستخدم بث DLNA بيانات الهاتف المحمول؟" closed="true" %}}
+{{% ls-details title="هل سيستخدم بث DLNA بيانات الهاتف المحمول؟" closed="true" %}}
 لا. يعمل DLNA بالكامل على شبكة Wi-Fi المحلية. لا يستخدم أي بيانات هاتف محمول. ومع ذلك، يجب أن يبقى كلا الجهازين متصلين بنفس الشبكة أثناء التشغيل.
-{{% /details %}}
+{{% /ls-details %}}

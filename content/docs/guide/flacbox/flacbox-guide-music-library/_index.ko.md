@@ -19,7 +19,7 @@ readingTime: 11
 Flacbox로 음악 라이브러리를 관리하는 것은 간편합니다. 로컬 FLAC, ALAC, DSD, MP3, M4A, OGG, WMA, APE 및 수십 가지 다른 형식의 모든 트랙을 단일하고 검색 가능한 컬렉션으로 쉽게 구성할 수 있습니다. 음악 라이브러리를 구성하는 방법에는 두 가지가 있습니다: 수동 추가(추가될 항목을 직접 선택) 또는 자동 동기화(Flacbox가 지정된 클라우드 폴더를 스캔하여 새 파일이 나타나면 자동으로 추가).
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox 음악 라이브러리 앨범 보기" image="/docs/guide/flacbox/img/media-library-albums.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox 음악 라이브러리 앨범 보기" image="/docs/guide/flacbox/img/media-library-albums.webp" >}}
 {{< /cards >}}
 
 ## 수동 추가
@@ -27,7 +27,7 @@ Flacbox로 음악 라이브러리를 관리하는 것은 간편합니다. 로컬
 트랙을 수동으로 추가하려면 왼쪽 상단 모서리에 있는 **음악 추가** 아이콘을 탭하고 연결된 클라우드 스토리지 서비스나 기기에 있는 파일에서 폴더나 파일을 선택합니다. 트랙을 라이브러리에 추가하면 해당 트랙에 대한 링크만 생성됩니다 — 실제 파일은 원래 위치에 그대로 저장되어 소중한 디스크 공간을 절약합니다. 트랙을 오프라인에서 사용할 수 있도록 하려면 옵션 메뉴에서 다운로드 작업을 사용하거나 재생 목록 및 트랙 컬렉션에 대해 오프라인 모드를 활성화할 수 있습니다.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox 음악 라이브러리에 곡 추가" image="/docs/guide/flacbox/img/library-add-songs.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox 음악 라이브러리에 곡 추가" image="/docs/guide/flacbox/img/library-add-songs.webp" >}}
 {{< /cards >}}
 
 Mac 버전에서는 파일을 라이브러리로 드래그 앤 드롭하거나, iPhone 및 iPad에서는 시스템 파일 선택기의 **파일 열기…** / **폴더 열기…**를 사용할 수도 있습니다.
@@ -89,7 +89,7 @@ Mac 버전에서는 파일을 라이브러리로 드래그 앤 드롭하거나, 
 검색 기능을 사용하면 음악 라이브러리에서 특정 트랙, 아티스트, 앨범 또는 장르를 찾을 수 있습니다. 검색 화면에서 정렬, 필터 및 그리드 / 목록 보기 작업에 액세스할 수 있습니다. 검색은 음악 라이브러리 데이터베이스에 대해 로컬로 실행되므로 완전히 오프라인으로 작동하고 입력하는 동안 결과를 반환합니다.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox 음악 라이브러리 검색" image="/docs/guide/flacbox/img/media-library-search.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox 음악 라이브러리 검색" image="/docs/guide/flacbox/img/media-library-search.webp" >}}
 {{< /cards >}}
 
 ## 옵션 메뉴
@@ -140,7 +140,7 @@ Mac 버전에서는 파일을 라이브러리로 드래그 앤 드롭하거나, 
 이것은 대형 라이브러리에서 혼잡한 '다양한 아티스트' 컴필레이션을 정리하는 데 특히 유용합니다.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox 앨범 세부 정보 화면" image="/docs/guide/flacbox/img/media-library-album-details-screen.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox 앨범 세부 정보 화면" image="/docs/guide/flacbox/img/media-library-album-details-screen.webp" >}}
 {{< /cards >}}
 
 ## 설정

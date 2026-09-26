@@ -12,7 +12,7 @@ authors:
     image: "/images/about/artem-meleshko-founder-everappz.webp"
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 **Ukratko:** [Flacbox 7.6](/products/flacbox) naše je dosad najveće ažuriranje za hi-res audio player na iPhoneu, iPadu i Macu, a izgrađeno je oko potpuno novog **BASS™ audio pogona** za lossless i visokorezolucijsko slušanje. BASS™ pogon možete odabrati kao alternativnu jezgru reprodukcije i tako otključati cijeli lanac **audio efekata u stvarnom vremenu**, **DSP procesor sa 14 filtara**, **live glazbeni vizualizator preko cijelog zaslona** te reprodukciju klasične **tracker i MOD glazbe** (MOD, XM, IT, S3M, MTM, UMX, MO3). Ažuriranje također donosi **automatsko izjednačavanje glasnoće temeljeno na loudnessu**, **studijski paket s jedanaest efekata** (reverb, delay, multi-tap echo, chorus, flanger, phaser, auto-wah, distorziju, kompresor, stereo rotaciju i crossfeed), **osvježeni dizajn efekata i ekvilizatora** s modernim klizačima u staklenom stilu te **poboljšanja za CarPlay**, uključujući DSP postavke u autu i točnije kontrole na zaključanom zaslonu, satu i u autu. Ispod haube: pouzdaniji temelji za streaming, bolje rukovanje vrstama datoteka, šira lokalizacija te brojni popravci stabilnosti i performansi.
 
@@ -139,50 +139,50 @@ Hvala što koristite Flacbox. Vaša glazba sada zvuči sjajno i izgleda sjajno, 
 
 ## Često postavljana pitanja
 
-{{% details title="Što je novo u Flacboxu 7.6?" closed="true" %}}
+{{% ls-details title="Što je novo u Flacboxu 7.6?" closed="true" %}}
 Flacbox 7.6 dodaje novi profesionalni **BASS™ audio pogon** koji možete odabrati kao alternativnu jezgru reprodukcije, **automatsko izjednačavanje glasnoće temeljeno na loudnessu**, **studijski paket s jedanaest efekata** (reverb, delay, multi-tap echo, chorus, flanger, phaser, auto-wah, distorziju, kompresor, stereo rotaciju i crossfeed), **DSP procesor sa 14 filtara u stvarnom vremenu**, **glazbeni vizualizator preko cijelog zaslona u stvarnom vremenu**, izvornu reprodukciju **tracker i MOD** glazbe (MOD, XM, IT, S3M, MTM, UMX, MO3), **osvježeni dizajn efekata i ekvilizatora** te **poboljšanja za CarPlay**. Također uključuje pouzdanije temelje za streaming, bolje rukovanje vrstama datoteka, širu lokalizaciju te brojne popravke stabilnosti i performansi.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Što je novi BASS™ audio pogon u Flacboxu?" closed="true" %}}
+{{% ls-details title="Što je novi BASS™ audio pogon u Flacboxu?" closed="true" %}}
 [BASS™](https://www.un4seen.com) audio pogon, izgrađen na BASS™ audio biblioteci tvrtke un4seen Developments, profesionalna je jezgra reprodukcije koju možete odabrati kao **alternativu Flacboxovom postojećem pogonu**. Njegovim odabirom otključavate cijeli lanac audio efekata u stvarnom vremenu, DSP procesor i live vizualizaciju, a dodaje se i reprodukcija klasične tracker i MOD glazbe. Reproducira vašu postojeću lossless i hi-res biblioteku (FLAC, DSD, ALAC, APE i još mnogo toga) uz **visokokvalitetno resampliranje** i **preciznu kontrolu visine i tempa**. U svakom se trenutku možete vratiti na klasični pogon.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Koje audio formate i tracker/MOD vrste Flacbox 7.6 reproducira?" closed="true" %}}
+{{% ls-details title="Koje audio formate i tracker/MOD vrste Flacbox 7.6 reproducira?" closed="true" %}}
 Flacbox ostaje hi-res i lossless player, koji obrađuje **FLAC, DSD, APE, ALAC, WAV, AIFF, MP3, AAC, Opus** i još mnogo toga. Novost u 7.6, BASS™ pogon također svira klasičnu **tracker i modularnu glazbu**: **MOD, XM, IT, S3M, MTM, UMX i MO3** — formate obrazaca i uzoraka koji se koriste u chiptune i demoscene glazbi, a koje većina iPhone playera ne može otvoriti.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Kako automatsko izjednačavanje glasnoće radi u Flacboxu?" closed="true" %}}
+{{% ls-details title="Kako automatsko izjednačavanje glasnoće radi u Flacboxu?" closed="true" %}}
 Flacbox 7.6 koristi **mjerenje loudnessa EBU R128** (standard ITU-R BS.1770) kako bi pjesme s različitih albuma zadržao na dosljednoj percipiranoj glasnoći, tako da ne morate podešavati glasnoću između pjesama. Za **lokalne datoteke vaša se biblioteka unaprijed skenira** pa se reprodukcija otvara već izjednačena — nema odgode dok aplikacija mjeri loudness nakon što pjesma počne. Dostupna su četiri predloška — **Blago** (−20 LUFS), **Standardno** (−16 LUFS), **Snažno** (−14 LUFS) i **Noćno** (−23 LUFS) — i radi kroz miješane biblioteke, kompilacije i nasumične sesije.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Koji su audio efekti u Flacboxu 7.6?" closed="true" %}}
+{{% ls-details title="Koji su audio efekti u Flacboxu 7.6?" closed="true" %}}
 Jedanaest efekata u stvarnom vremenu koje možete slagati i podešavati dok glazba svira: **reverb, delay, multi-tap echo, chorus, flanger, phaser, auto-wah, distorzija, kompresor, stereo rotacija i crossfeed**. Svaki efekt ima **vlastiti zaslon, knjižnicu predložaka i trenutačni prekidač za uključivanje/isključivanje**, a Flacbox pamti vaše postavke između sesija. Crossfeed posebno čini da snimke s naglašenim panoramiranjem zvuče prirodnije na slušalicama.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Što je DSP procesor i koje filtre uključuje?" closed="true" %}}
+{{% ls-details title="Što je DSP procesor i koje filtre uključuje?" closed="true" %}}
 DSP procesor omogućuje vam da **izgradite vlastiti signalni lanac u stvarnom vremenu od 14 filtara**: gain, niskopropusni, visokopropusni, pojasnopropusni i notch filtri, peaking EQ, low-shelf i high-shelf EQ, soft-clip saturacija, bit crusher, tremolo, delay, ring modulator i stereo širina. Svaki filtar ima **predloške i trenutačni prekidač za uključivanje/isključivanje**, tako da možete korigirati prostoriju, ublažiti oštre snimke ili osmisliti potpuno prilagođen ton.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Što je crossfeed i zašto bih ga koristio na slušalicama?" closed="true" %}}
+{{% ls-details title="Što je crossfeed i zašto bih ga koristio na slušalicama?" closed="true" %}}
 Crossfeed miješa malu, filtriranu količinu svakog stereo kanala u onaj drugi, onako kako vaše uši prirodno čuju prave zvučnike u prostoriji. Na slušalicama to smanjuje pretjeranu odvojenost snimki s naglašenim panoramiranjem, onu „u glavi”, i čini dugo slušanje ugodnijim. Osobito je učinkovit na starijim stereo miksevima iz 1960-ih i 1970-ih.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Radi li Flacboxov glazbeni vizualizator na svim uređajima?" closed="true" %}}
+{{% ls-details title="Radi li Flacboxov glazbeni vizualizator na svim uređajima?" closed="true" %}}
 Da. **Glazbeni vizualizator u stvarnom vremenu** prikazuje animirane vizuale preko cijelog zaslona koji uživo reagiraju na vašu glazbu, uz veliku knjižnicu predložaka koje možete birati ili pustiti da se automatski izmjenjuju. Dostupan je **na svim pogonima reprodukcije na svim vašim uređajima**, a ugrađeni **sprječivač uspavljivanja zaslona** drži zaslon budnim, tako da se vizuali ne prekidaju tijekom pjesme.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Mogu li promijeniti visinu i tempo bez utjecaja na ono drugo?" closed="true" %}}
+{{% ls-details title="Mogu li promijeniti visinu i tempo bez utjecaja na ono drugo?" closed="true" %}}
 Da. Kad koristite novi BASS™ pogon, Flacbox 7.6 nudi **preciznu, neovisnu kontrolu visine i tempa** — promijenite brzinu pjesme bez mijenjanja tonaliteta ili pomaknite tonalitet bez mijenjanja brzine. Korisno je za vježbanje, transkripciju i DJ-stilsko slušanje.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Što je poboljšano u CarPlayu u Flacboxu 7.6?" closed="true" %}}
+{{% ls-details title="Što je poboljšano u CarPlayu u Flacboxu 7.6?" closed="true" %}}
 CarPlay sada uključuje **DSP postavke** tako da svojoj konfiguraciji možete pristupiti iz auta, **ispravljen prikaz omota albuma i Now Playing** te **točnije kontrole na zaključanom zaslonu, Apple Watchu i u autu** koje ostaju usklađene s reprodukcijom. U kombinaciji s pouzdanijim temeljima za streaming, slušanje vaše lossless biblioteke na putu glatkije je.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Rade li efekti, DSP i ekvilizator s cloud streamingom?" closed="true" %}}
+{{% ls-details title="Rade li efekti, DSP i ekvilizator s cloud streamingom?" closed="true" %}}
 Da. Efekti, DSP filtri, ekvilizator i izjednačavanje glasnoće rade u stvarnom vremenu unutar BASS™ pogona reprodukcije, pa se primjenjuju na sve što Flacbox svira — **lokalne datoteke, cloud diskove (iCloud Drive, Google Drive, Dropbox, OneDrive i još mnogo toga), medijske poslužitelje i mrežna dijeljenja** — bez ponovnog kodiranja vaših datoteka.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Je li Flacbox 7.6 besplatno ažuriranje i koje uređaje podržava?" closed="true" %}}
+{{% ls-details title="Je li Flacbox 7.6 besplatno ažuriranje i koje uređaje podržava?" closed="true" %}}
 Da. Flacbox je **besplatan za preuzimanje** iz App Storea, a 7.6 je **besplatno ažuriranje** za postojeće korisnike, uz opcionalne nadogradnje unutar aplikacije za napredne značajke. Radi na **iPhoneu, iPadu i Macu**. CarPlay zahtijeva vozilo ili glavnu jedinicu kompatibilnu s CarPlayem.
-{{% /details %}}
+{{% /ls-details %}}

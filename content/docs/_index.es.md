@@ -4,7 +4,9 @@ title: 'Documentación'
 ---
 
 
-{{< lottie src="/images/juicy-json/juicy-girl-and-boy-searching-for-the-right-files.json" width="90%" >}}
+{{< ls-lottie src="/images/juicy-json/juicy-girl-and-boy-searching-for-the-right-files.json" width="90%" >}}
+
+{{< ls-docs-search >}}
 
 Esta sección incluye documentación útil para todas las aplicaciones de Everappz — incluyendo instrucciones de configuración, descripciones de funciones y consejos avanzados.
 
@@ -13,9 +15,9 @@ Si eres nuevo o quieres aprender más, nuestras guías y preguntas frecuentes so
 ## Comenzar
 
 {{< cards >}}
-  {{< card icon="book-open" link="/docs/guide" title="Guía del usuario" >}}
-  {{< card icon="question-mark-circle" link="/docs/faq" title="Preguntas frecuentes" >}}
-  {{< card icon="light-bulb" link="/docs/howto" title="Cómo hacerlo" >}}
+  {{< ls-card icon="book-open" link="/docs/guide" title="Guía del usuario" >}}
+  {{< ls-card icon="question-mark-circle" link="/docs/faq" title="Preguntas frecuentes" >}}
+  {{< ls-card icon="light-bulb" link="/docs/howto" title="Cómo hacerlo" >}}
 {{< /cards >}}
 
 - La **Guía del usuario** te ayuda a instalar, configurar y aprovechar al máximo nuestras aplicaciones.
@@ -31,5 +33,5 @@ Si tu pregunta no está respondida en la documentación, visita nuestra página 
 Para conocer las políticas legales, las prácticas de manejo de datos y los acuerdos de usuario relacionados con nuestros servicios, consulta los documentos legales a continuación:
 
 {{< cards >}}
-  {{< card icon="document-text" link="/legal" title="Centro legal" >}}
+  {{< ls-card icon="document-text" link="/legal" title="Centro legal" >}}
 {{< /cards >}}

@@ -12,7 +12,7 @@ authors:
     image: "/images/about/artem-meleshko-founder-everappz.webp"
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 ## Evermusic: iPhone और iPad के लिए क्लाउड म्यूजिक प्लेयर
 
@@ -22,7 +22,7 @@ Evermusic एक क्लाउड म्यूजिक प्लेयर ह
 
 ## प्रोमो वीडियो देखें
 
-{{< youtubecard id="BwD0XLgdzEE" title="Evermusic Promo Video" >}}
+{{< ls-youtubecard id="BwD0XLgdzEE" title="Evermusic Promo Video" >}}
 
 ## वीडियो में दिखाए गए मुख्य फीचर्स
 
@@ -36,14 +36,14 @@ Evermusic एक क्लाउड म्यूजिक प्लेयर ह
 
 ## अक्सर पूछे जाने वाले प्रश्न
 
-{{% details title="Evermusic क्या है?" closed="true" %}}
+{{% ls-details title="Evermusic क्या है?" closed="true" %}}
 Evermusic iPhone और iPad के लिए एक क्लाउड म्यूजिक प्लेयर है। यह Dropbox, Google Drive और OneDrive जैसी क्लाउड स्टोरेज सर्विसेज से कनेक्ट होता है, जिससे आप अपनी म्यूजिक फ़ाइलें स्ट्रीम और डाउनलोड कर सकते हैं। यह FLAC, MP3, AAC, WAV और अन्य ऑडियो फ़ॉर्मेट सपोर्ट करता है।
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="क्या Evermusic मुफ़्त डाउनलोड है?" closed="true" %}}
+{{% ls-details title="क्या Evermusic मुफ़्त डाउनलोड है?" closed="true" %}}
 हाँ। Evermusic बेसिक फीचर्स के साथ मुफ़्त डाउनलोड है। वन-टाइम Premium अपग्रेड इक्वलाइज़र, क्रॉसफ़ेड और अतिरिक्त क्लाउड अकाउंट कनेक्शन अनलॉक करता है।
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Evermusic कौन सी क्लाउड सर्विसेज सपोर्ट करता है?" closed="true" %}}
+{{% ls-details title="Evermusic कौन सी क्लाउड सर्विसेज सपोर्ट करता है?" closed="true" %}}
 Evermusic iCloud Drive, Dropbox, Google Drive, OneDrive, Box, MEGA, Yandex.Disk, pCloud और WebDAV या SMB प्रोटोकॉल चलाने वाले किसी भी सर्वर सहित 12+ क्लाउड प्लेटफ़ॉर्म सपोर्ट करता है।
-{{% /details %}}
+{{% /ls-details %}}

@@ -20,7 +20,7 @@ V sekci Seznamy skladeb najdete užitečné nástroje pro správu vašich hudebn
 Seznamy skladeb ve Flacboxu mohou obsahovat kombinaci online cloudových skladeb, offline stažených souborů a místních souborů z vašeho zařízení — vše v jednom seznamu — a přehrávají se plynule dohromady.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Hlavní obrazovka seznamů skladeb Flacbox" image="/docs/guide/flacbox/img/playlists-main.webp" >}}
+  {{< ls-card title="" subtitle="Hlavní obrazovka seznamů skladeb Flacbox" image="/docs/guide/flacbox/img/playlists-main.webp" >}}
 {{< /cards >}}
 
 ## Vytvoření seznamu skladeb
@@ -63,7 +63,7 @@ Když otevřete seznam skladeb, zobrazí se obrazovka detailů. V pravém horní
 - **Offline režim** — stáhne všechny skladby z tohoto seznamu do místních souborů. Nové položky přidané do seznamu se také stahují automaticky.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Obrazovka detailů seznamu skladeb Flacbox" image="/docs/guide/flacbox/img/playlist-details-screen.webp" >}}
+  {{< ls-card title="" subtitle="Obrazovka detailů seznamu skladeb Flacbox" image="/docs/guide/flacbox/img/playlist-details-screen.webp" >}}
 {{< /cards >}}
 
 ## Další akce pro seznam skladeb na hlavní obrazovce
@@ -82,7 +82,7 @@ Akce pro seznam skladeb lze přistupovat klepnutím na tlačítko **"..."** u n�
 - **Smazat seznam** — smaže seznam z hudební knihovny. **Tuto akci nelze vrátit zpět.**
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Další akce Flacbox pro seznam na hlavní obrazovce" image="/docs/guide/flacbox/img/more-actions-for-playlist-in-playlists-main-screen.webp" >}}
+  {{< ls-card title="" subtitle="Další akce Flacbox pro seznam na hlavní obrazovce" image="/docs/guide/flacbox/img/more-actions-for-playlist-in-playlists-main-screen.webp" >}}
 {{< /cards >}}
 
 ## Další akce pro seznam skladeb na obrazovce detailů
@@ -110,7 +110,7 @@ Chcete-li změnit pořadí skladeb v seznamu, klepněte na tlačítko **"..."** 
 Pro ještě jednodušší práci s dlouhými seznamy zvolte Další akce → Přeřadit skladby pro přechod do dedikovaného režimu přeřazení přetahováním.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Přeřazení skladeb v seznamu Flacbox" image="/docs/guide/flacbox/img/playlist-details-rearange-songs.webp" >}}
+  {{< ls-card title="" subtitle="Přeřazení skladeb v seznamu Flacbox" image="/docs/guide/flacbox/img/playlist-details-rearange-songs.webp" >}}
 {{< /cards >}}
 
 ## Změna obrázku obalu seznamu
@@ -126,7 +126,7 @@ Otevřete seznam a klepněte na tlačítko **"..."** v pravém horním rohu, pot
 Otevřete seznam, klepněte na tlačítko **"..."** v pravém horním rohu a vyberte **Vybrat** pro přechod do režimu výběru. Zvolte skladby, které chcete smazat, a klepněte na **Smazat ze seznamu** v dolní části obrazovky. Potvrďte klepnutím na **Hotovo**.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Režim výběru na obrazovce detailů seznamu Flacbox" image="/docs/guide/flacbox/img/selection-mode-playlist-details-screen.webp" >}}
+  {{< ls-card title="" subtitle="Režim výběru na obrazovce detailů seznamu Flacbox" image="/docs/guide/flacbox/img/selection-mode-playlist-details-screen.webp" >}}
 {{< /cards >}}
 
 ## Možnosti skladby

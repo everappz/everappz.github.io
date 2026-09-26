@@ -7,7 +7,7 @@ keywords: ["SMB poslužitelj iPhone", "SMB poslužitelj iPad", "kako postaviti S
 readingTime: 10
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 SMB je dijeljenje datoteka ugrađeno u macOS, Windows i Linux te u gotovo svaki mrežni disk (NAS). Kada se povežete na dijeljenu mapu na drugom računalu i ona se otvori poput običnog diska u Finderu ili File Exploreru, to SMB obavlja posao. Uz [Everdisk](/products/everdisk) možete postaviti SMB dijeljenje na svoj iPhone ili iPad, pa se sam telefon pojavljuje kao mrežni disk koji drugi uređaji pregledavaju, s kojeg kopiraju i na koji kopiraju.
 
@@ -136,44 +136,44 @@ Preklopnik **Uređivanje datoteka** u Postavke, Dijeljenje, Pristup kontrolira o
 
 ## Često postavljana pitanja
 
-{{% details title="Koja je SMB adresa i port za moj iPhone?" closed="true" %}}
+{{% ls-details title="Koja je SMB adresa i port za moj iPhone?" closed="true" %}}
 Nakon što pokrenete dijeljenje, Everdisk prikazuje adresu na zaslonu Dijeljenje. Izgleda kao smb://192.168.1.20:4455/Share. Broj 4455 je port koji Everdisk koristi za SMB, a Share je naziv dijeljene mape. Prvi dio je adresa vašeg iPhonea na Wi-Fi mreži, pa će vaša biti drugačija.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Mogu li se povezati na SMB dijeljenje svog iPhonea s Windowsa?" closed="true" %}}
+{{% ls-details title="Mogu li se povezati na SMB dijeljenje svog iPhonea s Windowsa?" closed="true" %}}
 Windows File Explorer povezuje se sa SMB-om samo na standardnom portu i ne prihvaća prilagođeni port u putanji, dok Everdisk koristi port 4455. Zbog toga obični put Map network drive često do njega neće doći. Koristite upravitelj datoteka koji dopušta postavljanje prilagođenog porta ili se s Windowsa povežite putem WebDAV-a, FTP-a ili poveznice za preglednik. Sve to radi s Windowsa bez ikakvih problema s portom.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Kako dijeliti datoteke između dva iPhonea putem SMB-a?" closed="true" %}}
+{{% ls-details title="Kako dijeliti datoteke između dva iPhonea putem SMB-a?" closed="true" %}}
 Pokrenite SMB poslužitelj na prvom iPhoneu u Everdisku. Na drugom iPhoneu otvorite aplikaciju Datoteke, dodirnite gumb više, odaberite Connect to Server i unesite smb adresu prikazanu u Everdisku (na primjer smb://192.168.1.20:4455/Share). Povežite se kao Guest ili sa svojom prijavom i dijeljeni se resurs pojavljuje u aplikaciji Datoteke. Možete koristiti i Everdiskovu vlastitu karticu Uređaji na drugom telefonu.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Pojavljuje li se moj iPhone u bočnoj traci Mac Findera automatski?" closed="true" %}}
+{{% ls-details title="Pojavljuje li se moj iPhone u bočnoj traci Mac Findera automatski?" closed="true" %}}
 Obično da. Everdisk najavljuje SMB dijeljenje na vašoj Wi-Fi mreži, pa se vaš iPhone često pojavljuje pod Locations ili Network u bočnoj traci Findera. Kliknite na njega i odaberite Connect As, zatim Guest ili svoju prijavu. Ako se ne pojavi, povežite se ručno pomoću Go, Connect to Server i pune smb adrese.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Trebam li lozinku za korištenje SMB-a?" closed="true" %}}
+{{% ls-details title="Trebam li lozinku za korištenje SMB-a?" closed="true" %}}
 Ne, prijava je neobvezna. Ostavite Prijava i Lozinka prazne u Postavke, Dijeljenje, Pristup kako biste dopustili gostujući pristup. Postavite ih ako želite da se veze prijavljuju. Prijava i lozinka obavezne su samo ako uključite Zahtijevaj SMB šifriranje jer šifrirane veze ne mogu biti anonimne.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Je li SMB veza šifrirana?" closed="true" %}}
+{{% ls-details title="Je li SMB veza šifrirana?" closed="true" %}}
 Može biti. SMB je jedina Everdisk veza koja podržava šifriranje. Postavite prijavu i lozinku, zatim uključite Zahtijevaj SMB šifriranje u Postavke, Dijeljenje. Svaki je prijenos tada zaštićen SMB3 (AES). Drugi uređaj mora podržavati SMB3, što moderni Macovi i Windows 10 ili noviji podržavaju. Šifriranje je Premium značajka.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Mogu li ljudi mijenjati ili brisati moje datoteke putem SMB-a?" closed="true" %}}
+{{% ls-details title="Mogu li ljudi mijenjati ili brisati moje datoteke putem SMB-a?" closed="true" %}}
 Samo ako to dopustite. Preklopnik Uređivanje datoteka u Postavke, Dijeljenje, Pristup kontrolira ovo. Kad je uključeno, povezani uređaji mogu prenositi, preimenovati i brisati. Kad je isključeno, dijeljenje je samo za čitanje i drugi mogu pregledavati i kopirati datoteke s vašeg telefona, ali ništa ne mogu mijenjati.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Zašto mi je SMB veza prekinuta?" closed="true" %}}
+{{% ls-details title="Zašto mi je SMB veza prekinuta?" closed="true" %}}
 Vaš je iPhone poslužitelj, a iOS pauzira aplikacije koje predugo ostaju u pozadini. Dok je uređaj povezan, držite Everdisk otvorenim na zaslonu i priključite telefon na napajanje tijekom dugih prijenosa. Provjerite i jesu li oba uređaja ostala na istoj Wi-Fi mreži.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="SMB, WebDAV ili FTP, koji odabrati?" closed="true" %}}
+{{% ls-details title="SMB, WebDAV ili FTP, koji odabrati?" closed="true" %}}
 Koristite SMB kad želite da se telefon ponaša kao pravi mrežni disk na Macu, drugom iPhoneu, Linuxu ili NAS-u te kad želite šifriranje. Koristite WebDAV kad želite mrežni disk koji dobro radi i s Windowsa. Koristite FTP za najširu kompatibilnost sa starijim uređajima i aplikacijama. Everdisk može pokretati sve njih odjednom, pa niste ograničeni na jedan.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Je li Everdisk besplatan?" closed="true" %}}
+{{% ls-details title="Je li Everdisk besplatan?" closed="true" %}}
 Da, Everdisk je besplatan za preuzimanje, a SMB poslužitelj je uključen. Neobvezna jednokratna Premium kupnja dodaje SMB šifriranje, prilagođene portove i još nekoliko dodataka. SMB možete postaviti i dijeliti datoteke bez plaćanja.
-{{% /details %}}
+{{% /ls-details %}}
 
 Spremni za isprobati? [Preuzmite Everdisk s App Storea](https://apps.apple.com/app/apple-store/id6751851132?pt=95781850&ct=everappzcom&mt=8) i otvorite svoj iPhone u Finderu za otprilike minutu. Pitanja ili povratne informacije? Pišite nam na **support@everappz.com**.

@@ -19,7 +19,7 @@ Sektionen Lokale filer fungerer som et center for håndtering af filer i applika
 Denne indbyggede filmanager giver dig mulighed for at redigere filer (omdøbe, flytte, kopiere, uploade, slette), overvåge overførsler og tilbyder adskillige metoder til at importere lydfiler til appen — direkte downloads fra skyen, offline-tilstands-synkronisering, USB-flashdrev, Wi-Fi Drive og Finder-fildeling.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox Lokale filer-skærm" image="/docs/guide/flacbox/img/local-files.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox Lokale filer-skærm" image="/docs/guide/flacbox/img/local-files.webp" >}}
 {{< /cards >}}
 
 ## Download Filer fra Cloud-lager
@@ -102,7 +102,7 @@ Viser filer og mapper gemt i appens Documents-mappe og iCloud Drive.
 Viser filer på din enhed, men i andre applikationer. Du kan importere dem til denne applikation ved hjælp af systemfilvælgeren. For at aktivere vælgeren skal du vælge **Åbn filer…** for at vælge filer eller **Åbn mapper…** for at vælge mapper. Detaljerede instruktioner om, hvordan du importerer lokal musik gemt på din iPhone eller Mac, er tilgængelige [her](/docs/howto/how-to-play-local-music-stored-on-your-iphone-or-mac).
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox Tilsluttede enhedsmapper" image="/docs/guide/flacbox/img/connected-device-folders.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox Tilsluttede enhedsmapper" image="/docs/guide/flacbox/img/connected-device-folders.webp" >}}
 {{< /cards >}}
 
 Du kan også forbinde en mappe på din enhed og have hurtig adgang til dens indhold. Brug menupunktet **Opret forbindelse til en mappe** og vælg en mappe på din enhed. Tryk på **Færdig**, og appen opretter et link til den pågældende mappe med læse / skrive-adgang, så du kan administrere filer direkte fra denne app. For at frakoble en mappe på din enhed skal du trykke på knappen **Flere handlinger** og vælge **Frakoble**.
@@ -137,7 +137,7 @@ Hvis du har brug for at redigere flere filer, skal du aktivere markeringstilstan
 - **Slette** — fjern den valgte fil eller mappe fra enheden. **Denne handling er irreversibel.**
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox Lokale filer markeringstilstand" image="/docs/guide/flacbox/img/local-files-selection-mode.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox Lokale filer markeringstilstand" image="/docs/guide/flacbox/img/local-files-selection-mode.webp" >}}
 {{< /cards >}}
 
 ## Indstillingsmenu
@@ -161,7 +161,7 @@ For hver fil eller mappe i appen er der adskillige handlinger tilgængelige ved 
 - **Slette** — slet filen eller mappen fra enheden. **Denne handling er irreversibel**, og du kan ikke gendanne slettede filer.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox Flere handlinger for en lokal fil" image="/docs/guide/flacbox/img/local-files-more-actions-for-file.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox Flere handlinger for en lokal fil" image="/docs/guide/flacbox/img/local-files-more-actions-for-file.webp" >}}
 {{< /cards >}}
 
 ## Offline mapper

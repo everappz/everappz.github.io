@@ -37,19 +37,19 @@ This guide explains every part of the app step by step. Pick a section below to 
 
 
 {{< cards >}}
-  {{< card icon="play" title="Sharing" subtitle="Tap Start, choose what to share, and run all five servers at once. Learn the Sharing screen end to end." link="/docs/guide/everdisk/everdisk-guide-sharing" >}}
+  {{< ls-card icon="play" title="Sharing" subtitle="Tap Start, choose what to share, and run all five servers at once. Learn the Sharing screen end to end." link="/docs/guide/everdisk/everdisk-guide-sharing" >}}
 
-  {{< card icon="desktop-computer" title="Connect Your Devices" subtitle="How a TV, a Mac or PC, a web browser, another phone, or a USB cable connects to your shared files." link="/docs/guide/everdisk/everdisk-guide-connect" >}}
+  {{< ls-card icon="desktop-computer" title="Connect Your Devices" subtitle="How a TV, a Mac or PC, a web browser, another phone, or a USB cable connects to your shared files." link="/docs/guide/everdisk/everdisk-guide-connect" >}}
 
-  {{< card icon="server" title="Connect to Servers" subtitle="Reach other DLNA, WebDAV, FTP, SFTP and SMB servers and NAS drives on your network to browse, stream and download." link="/docs/guide/everdisk/everdisk-guide-devices" >}}
+  {{< ls-card icon="server" title="Connect to Servers" subtitle="Reach other DLNA, WebDAV, FTP, SFTP and SMB servers and NAS drives on your network to browse, stream and download." link="/docs/guide/everdisk/everdisk-guide-devices" >}}
 
-  {{< card icon="folder" title="Files & Documents" subtitle="Browse, create folders, rename, move, copy and delete, zip and unzip, connect external folders, and scan to PDF." link="/docs/guide/everdisk/everdisk-guide-files" >}}
+  {{< ls-card icon="folder" title="Files & Documents" subtitle="Browse, create folders, rename, move, copy and delete, zip and unzip, connect external folders, and scan to PDF." link="/docs/guide/everdisk/everdisk-guide-files" >}}
 
-  {{< card icon="music-note" title="Photos, Music & Video" subtitle="Share your whole photo and music library, play audio in the mini player, and watch video full screen." link="/docs/guide/everdisk/everdisk-guide-media" >}}
+  {{< ls-card icon="music-note" title="Photos, Music & Video" subtitle="Share your whole photo and music library, play audio in the mini player, and watch video full screen." link="/docs/guide/everdisk/everdisk-guide-media" >}}
 
-  {{< card icon="lock-closed" title="Access & Privacy" subtitle="Protect sharing with a login and password, allow or block editing, block devices, and keep everything local." link="/docs/guide/everdisk/everdisk-guide-access" >}}
+  {{< ls-card icon="lock-closed" title="Access & Privacy" subtitle="Protect sharing with a login and password, allow or block editing, block devices, and keep everything local." link="/docs/guide/everdisk/everdisk-guide-access" >}}
 
-  {{< card icon="adjustments" title="Settings" subtitle="Every setting explained: device profile, connections, photo and video quality, ports, transfers, and more." link="/docs/guide/everdisk/everdisk-guide-settings" >}}
+  {{< ls-card icon="adjustments" title="Settings" subtitle="Every setting explained: device profile, connections, photo and video quality, ports, transfers, and more." link="/docs/guide/everdisk/everdisk-guide-settings" >}}
 
-  {{< card icon="question-mark-circle" title="FAQ" subtitle="Quick answers to the most common questions and real-world scenarios." link="/docs/faq/everdisk" >}}
+  {{< ls-card icon="question-mark-circle" title="FAQ" subtitle="Quick answers to the most common questions and real-world scenarios." link="/docs/faq/everdisk" >}}
 {{< /cards >}}

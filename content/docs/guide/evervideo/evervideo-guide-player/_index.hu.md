@@ -31,7 +31,7 @@ A teljes képernyős lejátszóhoz a kompakt lejátszósávból juthat el. iPhon
 A kompakt lejátszó látható marad, miközben böngészi a könyvtárat, a fájlkezelőt vagy a beállításokat, így soha nem veszíti el a videóját, miközben a következőt keresi.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evervideo teljes képernyős médialejátszó" image="/docs/guide/evervideo/img/evervideo-media-player-fullscreen.webp" >}}
+  {{< ls-card title="" subtitle="Evervideo teljes képernyős médialejátszó" image="/docs/guide/evervideo/img/evervideo-media-player-fullscreen.webp" >}}
 {{< /cards >}}
 
 ## Támogatott videó- és hangformátumok
@@ -72,7 +72,7 @@ A PiP az Evervideo által lejátszott minden videoformátummal működik, beleé
 A kompakt lejátszó egy állandó mini lejátszó, amely az alkalmazás minden képernyőjének tetején látható, miközben böngészi a könyvtárat, a fájlkezelőt vagy a beállításokat. Érintse meg a teljes képernyős lejátszóba való kibontáshoz; húzza le a visszazáráshoz.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evervideo videóbeállítások a kompakt lejátszóból a főképernyőn" image="/docs/guide/evervideo/img/evervideo-video-settings-from-compact-player-view-on-the-main-screen.webp" >}}
+  {{< ls-card title="" subtitle="Evervideo videóbeállítások a kompakt lejátszóból a főképernyőn" image="/docs/guide/evervideo/img/evervideo-video-settings-from-compact-player-view-on-the-main-screen.webp" >}}
 {{< /cards >}}
 
 ## AirPlay 2
@@ -115,7 +115,7 @@ Az Evervideo teljes hangegyenlítőt tartalmaz a videó hangsávok headfones, ha
 A kép hangolásához az Evervideo egy dedikált videóegyenlítőt biztosít — állítsa be valós időben a fényerőt, kontrasztot, telítettséget és árnyalatot lejátszás közben. A hangegyenlítőhöz hasonlóan az egyéni videóelőbeállítások exportálhatók és importálhatók megosztáshoz vagy biztonsági mentéshez. Használja napos napon egy sötét jelenet megvilágításához, kimosott tartalom telítettségének fokozásához vagy hideg szín árnyalatának melegítéséhez.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evervideo videóegyenlítő" image="/docs/guide/evervideo/img/evervideo-video-equalizer.webp" >}}
+  {{< ls-card title="" subtitle="Evervideo videóegyenlítő" image="/docs/guide/evervideo/img/evervideo-video-equalizer.webp" >}}
 {{< /cards >}}
 
 ## Videó méretezési mód
@@ -144,7 +144,7 @@ Az Evervideo VR / 360°-os nézőpontot tartalmaz gömbös videofájlokhoz. Egy 
 Érintse meg a Sebesség vezérlőt a lejátszó eszköztáron a lejátszási sebesség megváltoztatásához — lassítsa le elemzéshez (0,25× vagy 0,5×) vagy gyorsítsa fel oktatóanyagokhoz és előadásokhoz (1,25×, 1,5×, 2× és egészen 3×-ig). Érintse meg a konfigurációs ikont a Sebesség képernyő jobb felső sarkában a pontos mód finomabb beállításaihoz való átváltáshoz. Sávonkénti hangmagasság-korrekció is elérhető.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evervideo lejátszási sebesség a fő eszköztáron" image="/docs/guide/evervideo/img/evervideo-media-player-playback-speed-on-main-toolbar.webp" >}}
+  {{< ls-card title="" subtitle="Evervideo lejátszási sebesség a fő eszköztáron" image="/docs/guide/evervideo/img/evervideo-media-player-playback-speed-on-main-toolbar.webp" >}}
 {{< /cards >}}
 
 ## Lejátszási sor
@@ -152,7 +152,7 @@ Az Evervideo VR / 360°-os nézőpontot tartalmaz gömbös videofájlokhoz. Egy 
 A lejátszási sor megtekintéséhez érintse meg a sor gombot a lejátszón. A sorban lévő minden videónak van több művelete — érintse meg a három pontot azok megtekintéséhez. A videók sorban való átrendezéséhez használja az átrendezési jelzőt a cím közelében, és húzza az új pozícióba.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evervideo lejátszási sor" image="/docs/guide/evervideo/img/evervideo-playback-queue.webp" >}}
+  {{< ls-card title="" subtitle="Evervideo lejátszási sor" image="/docs/guide/evervideo/img/evervideo-playback-queue.webp" >}}
 {{< /cards >}}
 
 ## Elalvásidőzítő
@@ -189,7 +189,7 @@ Mentse el helyét hosszú videókban — előadások, video-hangoskönyvek, okta
 - **Súgó** — útmutató megnyitása.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evervideo lejátszó Több műveletek képernyő" image="/docs/guide/evervideo/img/evervideo-media-player-more-actions.webp" >}}
+  {{< ls-card title="" subtitle="Evervideo lejátszó Több műveletek képernyő" image="/docs/guide/evervideo/img/evervideo-media-player-more-actions.webp" >}}
 {{< /cards >}}
 
 ## Lejátszóbeállítások

@@ -17,7 +17,7 @@ keywords: [
 readingTime: 2
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **요약:** Evermusic과 Flacbox 모두 Last.fm 스크로블 기능이 내장되어 있습니다. **연결하기** 섹션에서 계정을 연결하면 오프라인 상태에서도 재생하는 모든 트랙이 자동으로 기록됩니다. 설정은 1분도 걸리지 않습니다.
@@ -66,22 +66,22 @@ Evermusic 또는 Flacbox에서 [Last.fm](http://Last.fm)으로 음악 기록을 
 
 ## 자주 묻는 질문
 
-{{% details title="Last.fm 스크로블은 무료인가요?" closed="true" %}}
+{{% ls-details title="Last.fm 스크로블은 무료인가요?" closed="true" %}}
 네. Last.fm은 전체 스크로블, 청취 기록 및 기본 추천이 포함된 무료 계정을 제공합니다. 유료 Last.fm Pro 구독은 Last.fm 웹사이트에서 추가 기능을 제공하지만 Evermusic 또는 Flacbox에서 스크로블하는 데는 필요하지 않습니다.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="오프라인에서도 스크로블이 작동하나요?" closed="true" %}}
+{{% ls-details title="오프라인에서도 스크로블이 작동하나요?" closed="true" %}}
 네. Evermusic과 Flacbox 모두 재생 기록을 로컬에 저장합니다. 온라인으로 돌아오면 앱이 대기 중인 스크로블을 자동으로 Last.fm에 업로드합니다.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="앱에서 Last.fm 자격 증명을 저장하나요?" closed="true" %}}
+{{% ls-details title="앱에서 Last.fm 자격 증명을 저장하나요?" closed="true" %}}
 아니요. 앱은 기기 키체인에 보안 액세스 토큰만 저장합니다. 사용자 이름과 비밀번호는 저장되지 않습니다.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="iPhone과 Mac 모두에서 스크로블할 수 있나요?" closed="true" %}}
+{{% ls-details title="iPhone과 Mac 모두에서 스크로블할 수 있나요?" closed="true" %}}
 네. Evermusic과 Flacbox는 iPhone, iPad 및 Mac에서 Last.fm 스크로블을 지원합니다. 재생을 추적하려는 각 기기에서 계정을 연결하세요.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Last.fm 계정을 삭제하지 않고 스크로블을 중지하려면 어떻게 하나요?" closed="true" %}}
+{{% ls-details title="Last.fm 계정을 삭제하지 않고 스크로블을 중지하려면 어떻게 하나요?" closed="true" %}}
 Evermusic 또는 Flacbox에서 **연결하기** 섹션을 열고 Last.fm 옆의 **연결 끊기**를 탭합니다. 이렇게 하면 액세스 토큰이 제거되고 스크로블이 중지되며 Last.fm 계정과 기록은 그대로 유지됩니다.
-{{% /details %}}
+{{% /ls-details %}}

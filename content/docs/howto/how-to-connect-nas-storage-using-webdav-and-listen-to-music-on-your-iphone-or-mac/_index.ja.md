@@ -7,7 +7,7 @@ tags: ["音楽", "ストリーミング", "ストレージ", "nas", "接続", "w
 readingTime: 2
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **要約：** Synology NASにWebDAVをインストールして有効にし、共有フォルダのアクセス権を設定し、NASのIPアドレスとWebDAVポート（デフォルト5005/5006）を使用してEvermusicまたはFlacboxから接続します。デバイスにファイルをコピーすることなく、音楽ライブラリ全体をストリーミングして管理できます。
@@ -87,22 +87,22 @@ WebDAVを使用してNASストレージに接続し、音楽ライブラリをiP
 
 ## よくある質問
 
-{{% details title="どのNASデバイスがWebDAVをサポートしていますか？" closed="true" %}}
+{{% ls-details title="どのNASデバイスがWebDAVをサポートしていますか？" closed="true" %}}
 Synology、QNAP、TrueNAS、Western Digitalなど、ほとんどの人気NASブランドがWebDAVをサポートしています。WebDAVのセットアップ手順については、NASメーカーのドキュメントを確認してください。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="NAS音楽ストリーミングにおけるWebDAVとSMBの違いは何ですか？" closed="true" %}}
+{{% ls-details title="NAS音楽ストリーミングにおけるWebDAVとSMBの違いは何ですか？" closed="true" %}}
 WebDAVはHTTP/HTTPSで動作し、インターネット経由のリモートアクセスに適しています。SMBはローカルネットワークでは通常より高速です。EvermusicとFlacboxは両方のプロトコルをサポートしているので、ローカルアクセスかリモートアクセスかに基づいて選択してください。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="SynologyのWebDAVにユーザー名とパスワードは必要ですか？" closed="true" %}}
+{{% ls-details title="SynologyのWebDAVにユーザー名とパスワードは必要ですか？" closed="true" %}}
 匿名WebDAVアクセスを有効にし、共有フォルダのゲスト権限を設定すれば不要です。セキュリティを強化するには、Synologyの認証情報を使用できます。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="WebDAV経由でNASからFLACやその他のハイレゾフォーマットをストリーミングできますか？" closed="true" %}}
+{{% ls-details title="WebDAV経由でNASからFLACやその他のハイレゾフォーマットをストリーミングできますか？" closed="true" %}}
 はい。EvermusicとFlacboxは、WebDAV経由でNASストレージからストリーミングする際に、FLAC、ALAC、WAV、DSD、その他のハイレゾフォーマットをサポートしています。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="利用可能なデバイスにNASが表示されないのはなぜですか？" closed="true" %}}
+{{% ls-details title="利用可能なデバイスにNASが表示されないのはなぜですか？" closed="true" %}}
 iPhone/MacとNASが同じWi-Fiネットワーク上にあることを確認してください。自動検出が機能しない場合は、手動接続オプションを使用して、NASのIPアドレスとWebDAVポートを直接入力してください。
-{{% /details %}}
+{{% /ls-details %}}

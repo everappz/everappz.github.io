@@ -31,7 +31,7 @@ Do odtwarzacza pełnoekranowego możesz dotrzeć z paska kompaktowego odtwarzacz
 Kompaktowy odtwarzacz pozostaje widoczny podczas przeglądania biblioteki, menedżera plików lub ustawień, dzięki czemu nigdy nie tracisz wideo podczas szukania następnego.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Odtwarzacz multimediów pełnoekranowy Evervideo" image="/docs/guide/evervideo/img/evervideo-media-player-fullscreen.webp" >}}
+  {{< ls-card title="" subtitle="Odtwarzacz multimediów pełnoekranowy Evervideo" image="/docs/guide/evervideo/img/evervideo-media-player-fullscreen.webp" >}}
 {{< /cards >}}
 
 ## Obsługiwane formaty wideo i audio
@@ -72,7 +72,7 @@ PiP działa ze wszystkimi formatami wideo odtwarzanymi przez Evervideo, w tym z 
 Kompaktowy odtwarzacz to trwały mini-odtwarzacz, który pozostaje widoczny na górze każdego ekranu w aplikacji podczas przeglądania biblioteki, menedżera plików lub ustawień. Dotknij, aby rozwinąć do odtwarzacza pełnoekranowego; przesuń w dół, aby go ponownie zwinąć.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Ustawienia wideo z widoku kompaktowego odtwarzacza na głównym ekranie Evervideo" image="/docs/guide/evervideo/img/evervideo-video-settings-from-compact-player-view-on-the-main-screen.webp" >}}
+  {{< ls-card title="" subtitle="Ustawienia wideo z widoku kompaktowego odtwarzacza na głównym ekranie Evervideo" image="/docs/guide/evervideo/img/evervideo-video-settings-from-compact-player-view-on-the-main-screen.webp" >}}
 {{< /cards >}}
 
 ## AirPlay 2
@@ -115,7 +115,7 @@ Evervideo zawiera pełny korektor audio do dostrojenia ścieżek dźwiękowych w
 Do dostrajania obrazu Evervideo udostępnia dedykowany korektor wideo — reguluj jasność, kontrast, nasycenie i odcień w czasie rzeczywistym podczas odtwarzania. Podobnie jak korektor audio, niestandardowe presety wideo można eksportować i importować do udostępniania lub kopii zapasowych. Użyj go, aby rozjaśnić ciemną scenę w słoneczny dzień, zwiększyć nasycenie wyblakłych treści lub ocieplić zimny odcień koloru.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Korektor wideo Evervideo" image="/docs/guide/evervideo/img/evervideo-video-equalizer.webp" >}}
+  {{< ls-card title="" subtitle="Korektor wideo Evervideo" image="/docs/guide/evervideo/img/evervideo-video-equalizer.webp" >}}
 {{< /cards >}}
 
 ## Tryb skalowania wideo
@@ -144,7 +144,7 @@ Evervideo zawiera viewport VR / 360° do sferycznych plików wideo. Podczas odtw
 Dotknij kontrolki Prędkość na pasku narzędzi odtwarzacza, aby zmienić prędkość odtwarzania — zwolnij do analizy (0,25× lub 0,5×) lub przyspiesz do tutoriali i wykładów (1,25×, 1,5×, 2× i do 3×). Dotknij ikony konfiguracji w prawym górnym rogu ekranu Prędkości, aby przełączyć się na tryb precyzyjny z dokładniejszymi regulacjami. Dostępna jest również korekcja tonacji na ścieżkę.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Prędkość odtwarzania na głównym pasku narzędzi Evervideo" image="/docs/guide/evervideo/img/evervideo-media-player-playback-speed-on-main-toolbar.webp" >}}
+  {{< ls-card title="" subtitle="Prędkość odtwarzania na głównym pasku narzędzi Evervideo" image="/docs/guide/evervideo/img/evervideo-media-player-playback-speed-on-main-toolbar.webp" >}}
 {{< /cards >}}
 
 ## Kolejka odtwarzacza
@@ -152,7 +152,7 @@ Dotknij kontrolki Prędkość na pasku narzędzi odtwarzacza, aby zmienić pręd
 Aby zobaczyć kolejkę odtwarzacza, dotknij przycisku kolejki na odtwarzaczu. Każde wideo w kolejce ma więcej akcji — dotknij trzy kropki, aby je zobaczyć. Aby zmienić kolejność wideo w kolejce, użyj wskaźnika zmiany kolejności obok tytułu i przeciągnij go na nową pozycję.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Kolejka odtwarzania Evervideo" image="/docs/guide/evervideo/img/evervideo-playback-queue.webp" >}}
+  {{< ls-card title="" subtitle="Kolejka odtwarzania Evervideo" image="/docs/guide/evervideo/img/evervideo-playback-queue.webp" >}}
 {{< /cards >}}
 
 ## Timer uśpienia
@@ -189,7 +189,7 @@ Dotknij przycisku **Więcej akcji „..."** na odtwarzaczu, aby uzyskać dostęp
 - **Pomoc** — otwórz wskazówki.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Ekran Więcej akcji odtwarzacza Evervideo" image="/docs/guide/evervideo/img/evervideo-media-player-more-actions.webp" >}}
+  {{< ls-card title="" subtitle="Ekran Więcej akcji odtwarzacza Evervideo" image="/docs/guide/evervideo/img/evervideo-media-player-more-actions.webp" >}}
 {{< /cards >}}
 
 ## Ustawienia odtwarzacza

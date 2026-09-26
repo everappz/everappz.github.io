@@ -23,7 +23,7 @@ Trình phát Âm thanh là màn hình chính của ứng dụng, nơi bạn đi�
 Bạn có thể vào trình phát toàn màn hình từ thanh mini player. Trên iPhone, mini player nằm ở cuối màn hình chính. Trên iPad và Mac, nó ở bên trái. Để ẩn mini player trên iPhone, nhấn một lần vào nó rồi vuốt xuống. Để đóng hoàn toàn trình phát toàn màn hình, nhấn nút đóng ở góc dưới bên phải.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Màn hình chính Trình phát Âm thanh Flacbox" image="/docs/guide/flacbox/img/audio-player-main-screen.webp" >}}
+  {{< ls-card title="" subtitle="Màn hình chính Trình phát Âm thanh Flacbox" image="/docs/guide/flacbox/img/audio-player-main-screen.webp" >}}
 {{< /cards >}}
 
 ## Định dạng Âm thanh Được hỗ trợ
@@ -66,7 +66,7 @@ Mở màn hình Cài đặt Âm thanh bằng cách nhấn biểu tượng âm th
 Flacbox bao gồm **bộ chỉnh âm 10 dải** với các preset theo phong cách iPod. Nhấn Bộ chỉnh âm trên chế độ xem âm lượng, sau đó bật nó ở góc trên bên phải. Bạn có thể sử dụng các preset như Acoustic và Bass Booster, hoặc điều chỉnh từng dải tần số bằng thanh trượt. Tạo preset của riêng bạn, lưu chúng với bất kỳ tên nào, và tăng âm lượng tổng thể bằng bộ khuếch đại. Chúng tôi có hướng dẫn chi tiết hơn về cách sử dụng bộ chỉnh âm [tại đây](/docs/howto/how-to-use-the-audio-equalizer-on-your-iphone-ipad-mac-with-evermusic-and-flacbox).
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Bộ Chỉnh Âm Trình phát Âm thanh Flacbox" image="/docs/guide/flacbox/img/audio-player-equalizer.webp" >}}
+  {{< ls-card title="" subtitle="Bộ Chỉnh Âm Trình phát Âm thanh Flacbox" image="/docs/guide/flacbox/img/audio-player-equalizer.webp" >}}
 {{< /cards >}}
 
 ## Thanh Công cụ Chế độ Trình phát
@@ -82,7 +82,7 @@ Flacbox bao gồm **bộ chỉnh âm 10 dải** với các preset theo phong cá
 Để xem hàng đợi trình phát, nhấn nút hàng đợi ở bên phải của bài nhạc hiện tại. Mỗi bài nhạc trong hàng đợi có thêm hành động — nhấn ba chấm để xem chúng. Để sắp xếp lại bài nhạc trong hàng đợi, sử dụng chỉ báo sắp xếp lại gần tiêu đề và kéo nó đến vị trí mới.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Hàng đợi Phát lại Flacbox" image="/docs/guide/flacbox/img/playback_queue.webp" >}}
+  {{< ls-card title="" subtitle="Hàng đợi Phát lại Flacbox" image="/docs/guide/flacbox/img/playback_queue.webp" >}}
 {{< /cards >}}
 
 ## Bình luận / Lời bài hát
@@ -98,7 +98,7 @@ Flacbox bao gồm **bộ chỉnh âm 10 dải** với các preset theo phong cá
 Sau đó, nhấn nút hàng đợi trình phát ở cuối màn hình nhiều lần để chuyển từ chế độ xem artwork / hàng đợi sang chế độ xem bình luận. Trên màn hình Bình luận, vuốt phải để chuyển đổi giữa **Bình luận**, **Lời bài hát Nhúng** và **File LRC**. Hướng dẫn đầy đủ có sẵn [tại đây](/docs/howto/how-to-add-and-view-comments-to-your-audio-tracks-on-iphone-ipad-and-mac-with-evermusic-and-flacbox).
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Màn hình Lời bài hát và Bình luận Flacbox" image="/docs/guide/flacbox/img/lyrics-screen.webp" >}}
+  {{< ls-card title="" subtitle="Màn hình Lời bài hát và Bình luận Flacbox" image="/docs/guide/flacbox/img/lyrics-screen.webp" >}}
 {{< /cards >}}
 
 ## Menu Tùy chọn
@@ -121,7 +121,7 @@ Mỗi bài nhạc trong hàng đợi trình phát âm thanh có menu với nhi�
 Các tùy chọn tương tự có sẵn cho mục đang phát trong hàng đợi trình phát âm thanh, mà bạn có thể truy cập bằng cách nhấn biểu tượng **Thêm Hành động** gần tiêu đề bài nhạc.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Tùy chọn Flacbox cho Mục trong Hàng đợi Phát lại" image="/docs/guide/flacbox/img/options-for-item-in-playback-queue.webp" >}}
+  {{< ls-card title="" subtitle="Tùy chọn Flacbox cho Mục trong Hàng đợi Phát lại" image="/docs/guide/flacbox/img/options-for-item-in-playback-queue.webp" >}}
 {{< /cards >}}
 
 ## Hành động Trình phát Bổ sung
@@ -143,7 +143,7 @@ Nhấn nút **Thêm Hành động** "..." ở bên trái tiêu đề bài nhạc
 - **Trợ giúp** — tìm hỗ trợ và hướng dẫn.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Màn hình Thêm Hành động Trình phát Âm thanh Flacbox" image="/docs/guide/flacbox/img/audio-player-more-actions-screen.webp" >}}
+  {{< ls-card title="" subtitle="Màn hình Thêm Hành động Trình phát Âm thanh Flacbox" image="/docs/guide/flacbox/img/audio-player-more-actions-screen.webp" >}}
 {{< /cards >}}
 
 ## Dấu trang Âm thanh
@@ -161,7 +161,7 @@ Tính năng này cho phép bạn tạo nhiều dấu trang cho các bài nhạc 
 Chỉnh sửa dấu trang cho bài nhạc hiện tại rất dễ: nhấn Chỉnh sửa ở góc trên bên phải để vào chế độ chỉnh sửa. Trong chế độ này, bạn có thể sắp xếp lại dấu trang, xóa chúng, điều chỉnh thời gian dấu trang và thay đổi tiêu đề dấu trang. Hướng dẫn chi tiết hơn về dấu trang âm thanh có sẵn [tại đây](/docs/howto/how-to-listen-to-audiobooks-on-iphone-ipad-mac-using-evermusic).
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Màn hình Dấu trang Âm thanh Flacbox" image="/docs/guide/flacbox/img/audio-bookmarks.webp" >}}
+  {{< ls-card title="" subtitle="Màn hình Dấu trang Âm thanh Flacbox" image="/docs/guide/flacbox/img/audio-bookmarks.webp" >}}
 {{< /cards >}}
 
 ## Gần đây và Yêu thích
@@ -175,7 +175,7 @@ Kết nối iPhone với xe qua USB hoặc Apple CarPlay không dây và Flacbox
 [Đọc hướng dẫn CarPlay đầy đủ](/docs/howto/how-to-play-your-own-music-on-iphone-using-carplay/).
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox trên Apple CarPlay" image="/docs/guide/flacbox/img/carplay-main.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox trên Apple CarPlay" image="/docs/guide/flacbox/img/carplay-main.webp" >}}
 {{< /cards >}}
 
 ## Widget Màn hình chính (iPhone & iPad)
@@ -243,7 +243,7 @@ Tùy chỉnh cài đặt bộ chỉnh âm. Bạn có thể đọc thêm về c�
 Điều chỉnh tốc độ phát lại của trình phát âm thanh từ **0,02× đến 3,00×**. Nhấn biểu tượng cấu hình ở góc trên bên phải để chuyển sang **chế độ chính xác** để điều chỉnh tinh tế hơn.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Màn hình Tốc độ Phát lại Flacbox" image="/docs/guide/flacbox/img/playback-speed.webp" >}}
+  {{< ls-card title="" subtitle="Màn hình Tốc độ Phát lại Flacbox" image="/docs/guide/flacbox/img/playback-speed.webp" >}}
 {{< /cards >}}
 
 ### Chỉnh sửa Cao độ

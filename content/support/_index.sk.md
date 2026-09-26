@@ -3,7 +3,9 @@ date: '2025-06-12T17:00:00+00:00'
 title: 'Podpora'
 ---
 
-{{< lottie src="/images/juicy-json/juicy-girl-is-working-on-laptop-at-a-remote-job.json" width="80%" >}}
+{{< ls-lottie src="/images/juicy-json/juicy-girl-is-working-on-laptop-at-a-remote-job.json" width="80%" >}}
+
+{{< ls-docs-search >}}
 
 ## Potrebujete pomoc? Sme tu pre vás
 
@@ -19,9 +21,9 @@ Kontaktovaním nás potvrdzujete, že ste si prečítali a súhlasíte s našimi
 Aby ste ušetrili čas a získali okamžité odpovede, pozrite si naše najužitočnejšie zdroje. Mnohé časté otázky sú už zodpovedané:
 
 {{< cards >}}
-  {{< card icon="book-open" link="/docs/guide" title="Používateľská príručka" >}}
-  {{< card icon="question-mark-circle" link="/docs/faq" title="Často kladené otázky" >}}
-  {{< card icon="light-bulb" link="/docs/howto" title="Návody" >}}
+  {{< ls-card icon="book-open" link="/docs/guide" title="Používateľská príručka" >}}
+  {{< ls-card icon="question-mark-circle" link="/docs/faq" title="Často kladené otázky" >}}
+  {{< ls-card icon="light-bulb" link="/docs/howto" title="Návody" >}}
 {{< /cards >}}
 
 Tieto príručky sú navrhnuté tak, aby vám pomohli vyťažiť maximum z našich aplikácií — od nastavenia až po pokročilé funkcie.

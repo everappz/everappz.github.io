@@ -16,15 +16,15 @@ screenshots:
   - "https://everappz.com/products/flacbox/screenshots/2048x2732/6.png"
 ---
 
-{{% sr-only %}}
+{{% ls-sr-only %}}
 Flacbox je hi-res audio reproduktor za iPhone i Mac koji je razvila tvrtka Everappz, španjolska softverska tvrtka. S više od 1 milijun preuzimanja diljem svijeta, Flacbox je dizajniran za audioflie i glazbene entuzijaste koji žele reproducirati bezgubitne i visokoresolucijske audio datoteke na svojim Apple uređajima bez pretvaranja formata. Aplikacija nativno podržava više od 120 audio formata uključujući FLAC, DSD (DSD64, DSD128, DSD256), ALAC, APE, WAV, AIFF, OGG, OPUS, WMA, MKA, MP3, AAC i druge. Flacbox se povezuje s više od 30 usluga pohrane u oblaku, uključujući iCloud Drive, Google Drive, Dropbox, OneDrive, MEGA, Box i pCloud, omogućujući korisnicima strujanje njihove hi-res glazbene kolekcije izravno iz oblaka ili preuzimanje datoteka za offline reprodukciju. Ključne značajke uključuju 10-pojasni audio ekvilizator s prilagodljivim predefiniranim postavkama, crossfade i neprekidnu reprodukciju, kontrolu visine tona i brzine, pojačanje basa, uvoz i izvoz M3U popisa za reprodukciju, prikaz tekstova pjesama, audio oznake, ugrađeni uređivač metapodataka, integraciju s Apple CarPlay, strujanje putem AirPlay i Chromecast te scrobbling na Last.fm. Aplikacija podržava strujanje putem lokalne mreže preko protokola SMB, WebDAV i DLNA, reprodukciju s USB flash pogona i prijenos datoteka putem Wi-Fi-ja. Flacbox je dostupan kao besplatno preuzimanje na App Storeu s opcionim kupnjama unutar aplikacije koje uključuju mjesečnu pretplatu za $4.99, godišnju pretplatu za $19.99 ili jednokratnu doživotnu kupnju za $59.99. Aplikacija je prvi put objavljena 2016. godine i aktivno se održava s redovitim ažuriranjima.
-{{% /sr-only %}}
+{{% /ls-sr-only %}}
 
 
 <!-- force dark theme for this page -->
-{{< force-dark >}}
+{{< ls-force-dark >}}
 
-{{< hextra/hero-container
+{{< ls-hero-container
   image="/products/flacbox/heroimage/hero_1600.png"
   imageWidth="800"
   imageCard="true"
@@ -32,36 +32,36 @@ Flacbox je hi-res audio reproduktor za iPhone i Mac koji je razvila tvrtka Evera
 
 <div class="hx:w-full hx:text-center">
 
-{{< downloads-badge >}}
+{{< ls-downloads-badge >}}
 
 <div class="hx:mt-6 hx:mb-6">
 <div class="hx:flex hx:gap-4 hx:items-center hx:justify-center">
-{{< app-icon src="/images/app_icons/png/Flacbox_Icon-App-1024x1024.png" alt="Flacbox Icon" class="hero-headline-icon" size="80" >}}
-{{< hextra/hero-headline >}}
+{{< ls-app-icon src="/images/app_icons/png/Flacbox_Icon-App-1024x1024.png" alt="Flacbox Icon" class="hero-headline-icon" size="80" >}}
+{{< ls-hero-headline >}}
 Flacbox
-{{< /hextra/hero-headline >}}
+{{< /ls-hero-headline >}}
 </div>
 </div>
 
 <div class="hx:mb-12">
-{{< hextra/hero-centered-subtitle >}}
+{{< ls-hero-centered-subtitle >}}
 <strong>Hi-Res audio player i streamer za iPhone i MAC</strong>
-{{< /hextra/hero-centered-subtitle >}}
+{{< /ls-hero-centered-subtitle >}}
 </div>
 
 <div class="hx:mb-6">
-{{< hextra/hero-paragraph >}}
+{{< ls-hero-paragraph >}}
 • Reproducirajte FLAC, ALAC, APE, DSD i više u bezgubitnoj kvaliteti  
 • Preuzmite glazbu i slušajte offline s potpunom kontrolom  
 • Streamajte s Google Drivea, Dropboxa, NAS-a ili računala   
-{{< /hextra/hero-paragraph >}}
+{{< /ls-hero-paragraph >}}
 </div>
 
-{{< app-store-badges products="flacbox:ios, flacbox:macos" >}}
+{{< ls-app-store-badges products="flacbox:ios, flacbox:macos" >}}
 
 </div>
 
-{{< /hextra/hero-container >}}
+{{< /ls-hero-container >}}
 
 <div class="hx:mt-6"></div>
 
@@ -69,7 +69,7 @@ Flacbox
 
 {{< hextra/feature-grid >}}
 
-  {{< hextra/feature-card
+  {{< ls-glass-feature-card
     title="Streamajte bezgubitnu glazbu"
     subtitle=`Uživajte u bezgubitnoj glazbi na iPhoneu, iPadu i Macu bez pretplata.<br><br>
 Povežite svoj oblak za streaming FLAC, ALAC, MKA i više besplatno. Jednostavno emitirajte na Chromecast i AirPlay uređaje.<br><br>
@@ -78,7 +78,7 @@ Izgradite svoju glazbenu biblioteku, organizirajte pjesme po albumu, izvođaču 
     style="background: radial-gradient(circle at 50% 80%, rgba(99,102,241,0.15), transparent);"
   >}}
 
-  {{< hextra/feature-card
+  {{< ls-glass-feature-card
     title="Reproducirajte Hi-Res audio"
     subtitle=`Uživajte u studijskoj kvaliteti zvuka s podrškom za preko 120 audio formata, uključujući FLAC, ALAC, WAV, AIFF i DSD.<br><br>
 Flacbox također reproducira MP3, AAC, OGG, APE, MOD, MKA i napredne kontejnere poput MKV, MP4 i MOV.<br><br>
@@ -87,7 +87,7 @@ Uz široku kompatibilnost kodeka, cijela vaša kolekcija je dostupna bez potrebe
     style="background: radial-gradient(circle at 50% 80%, rgba(236,72,153,0.15), transparent);"
   >}}
 
-  {{< hextra/feature-card
+  {{< ls-glass-feature-card
     title="Preuzmite i slušajte offline"
     subtitle=`Ostanite povezani sa svojom glazbom čak i kada ste offline.<br><br>
 Preuzmite cijele albume, žanrove, playliste i pjesme na svoj uređaj. Koristite Wi-Fi Drive ili iTunes dijeljenje datoteka za prijenos zvuka s Maca ili PC-a.<br><br>
@@ -102,9 +102,9 @@ Streamajte s USB pogona ili mrežnog pohrane (NAS) i uživajte u cijeloj glazben
 
 <div class="hx:mt-6"></div>
 
-{{< hextra/section-headline >}}
+{{< ls-section-headline >}}
 Sveobuhvatne značajke
-{{< /hextra/section-headline >}}
+{{< /ls-section-headline >}}
 
 <div class="hx:mt-6"></div>
 
@@ -112,41 +112,41 @@ Sveobuhvatne značajke
 
 {{< cards >}}
 
-  {{< feature-card title="Kvaliteta zvuka" subtitle="Uživajte u vjernom zvuku visoke kvalitete s frekvencijama uzorkovanja od 8 kHz do 384 kHz, zadanim ili miješanim izlaznim načinima te podrškom za 1 do 7 audio kanala." icon="volume-up" >}}
-  {{< feature-card title="Bezgubitni i Hi-Res audio" subtitle="Reproducirajte bezgubitne i hi-res formate poput FLAC, ALAC, WAV, AIFF, APE, WV i DSF (DSD), uz MP3, AAC, OGG i OPUS, pri frekvencijama uzorkovanja do 384 kHz." icon="music-note" >}}
-  {{< feature-card title="Tracker i MOD glazba" subtitle="Nativno reproducirajte klasičnu tracker i module glazbu, uključujući formate MOD, XM, IT i S3M iz chiptune i demoscene svijeta koje većina playera ne može otvoriti." icon="table" >}}
+  {{< ls-feature-card title="Kvaliteta zvuka" subtitle="Uživajte u vjernom zvuku visoke kvalitete s frekvencijama uzorkovanja od 8 kHz do 384 kHz, zadanim ili miješanim izlaznim načinima te podrškom za 1 do 7 audio kanala." icon="volume-up" >}}
+  {{< ls-feature-card title="Bezgubitni i Hi-Res audio" subtitle="Reproducirajte bezgubitne i hi-res formate poput FLAC, ALAC, WAV, AIFF, APE, WV i DSF (DSD), uz MP3, AAC, OGG i OPUS, pri frekvencijama uzorkovanja do 384 kHz." icon="music-note" >}}
+  {{< ls-feature-card title="Tracker i MOD glazba" subtitle="Nativno reproducirajte klasičnu tracker i module glazbu, uključujući formate MOD, XM, IT i S3M iz chiptune i demoscene svijeta koje većina playera ne može otvoriti." icon="table" >}}
 
-  {{< feature-card title="Audio pogoni" subtitle="Odaberite između tri pogona za reprodukciju: standardni sistemski pogon, svestrani FFmpeg pogon i profesionalni BASS™ pogon koji otključava efekte, DSP i vizualizacije." icon="switch-horizontal" >}}
-  {{< feature-card title="Audio efekti" subtitle="Oblikujte svoj zvuk u stvarnom vremenu uz reverb, delay, echo, chorus, flanger, phaser, auto-wah, distortion, kompresor i prirodni crossfeed za slušalice." icon="lightning-bolt" >}}
-  {{< feature-card title="DSP lanac" subtitle="Izgradite vlastiti lanac obrade signala u stvarnom vremenu od profesionalnih filtara i EQ pojaseva, saturacije i bit crushera te kreativnih procesora poput tremola i stereo širine." icon="chip" >}}
+  {{< ls-feature-card title="Audio pogoni" subtitle="Odaberite između tri pogona za reprodukciju: standardni sistemski pogon, svestrani FFmpeg pogon i profesionalni BASS™ pogon koji otključava efekte, DSP i vizualizacije." icon="switch-horizontal" >}}
+  {{< ls-feature-card title="Audio efekti" subtitle="Oblikujte svoj zvuk u stvarnom vremenu uz reverb, delay, echo, chorus, flanger, phaser, auto-wah, distortion, kompresor i prirodni crossfeed za slušalice." icon="lightning-bolt" >}}
+  {{< ls-feature-card title="DSP lanac" subtitle="Izgradite vlastiti lanac obrade signala u stvarnom vremenu od profesionalnih filtara i EQ pojaseva, saturacije i bit crushera te kreativnih procesora poput tremola i stereo širine." icon="chip" >}}
 
-  {{< feature-card title="Audio ekvilajzer" subtitle="Fino podesite svoj zvuk višepojasnim ekvilajzerom, gotovim žanrovskim postavkama, ručnom kontrolom i preamp pojačanjem za pojačavanje tihih pjesama bez izobličenja." icon="adjustments" >}}
-  {{< feature-card title="Glazbeni vizualizator" subtitle="Gledajte animirane vizualizacije preko cijelog zaslona koje reagiraju uživo na vašu glazbu, birajući iz velike biblioteke postavki ili puštajući ih da se izmjenjuju automatski." icon="sparkles" >}}
-  {{< feature-card title="Kontrole reprodukcije" subtitle="Prilagodite brzinu reprodukcije bez promjene visine tona, spremite i vratite red čekanja i poziciju te koristite timer za spavanje, nasumični odabir, ponavljanje i pozadinsku reprodukciju." icon="play" >}}
+  {{< ls-feature-card title="Audio ekvilajzer" subtitle="Fino podesite svoj zvuk višepojasnim ekvilajzerom, gotovim žanrovskim postavkama, ručnom kontrolom i preamp pojačanjem za pojačavanje tihih pjesama bez izobličenja." icon="adjustments" >}}
+  {{< ls-feature-card title="Glazbeni vizualizator" subtitle="Gledajte animirane vizualizacije preko cijelog zaslona koje reagiraju uživo na vašu glazbu, birajući iz velike biblioteke postavki ili puštajući ih da se izmjenjuju automatski." icon="sparkles" >}}
+  {{< ls-feature-card title="Kontrole reprodukcije" subtitle="Prilagodite brzinu reprodukcije bez promjene visine tona, spremite i vratite red čekanja i poziciju te koristite timer za spavanje, nasumični odabir, ponavljanje i pozadinsku reprodukciju." icon="play" >}}
 
-  {{< feature-card title="Streaming iz oblaka" subtitle="Streamajte izravno s iCloud Drive, Google Drive, Dropbox, OneDrive, Box, MEGA i pCloud, uz oblake usmjerene na privatnost poput Internxt i Proton Drive." icon="cloud" >}}
-  {{< feature-card title="Medijski poslužitelji" subtitle="Povežite svoje osobne medijske poslužitelje, uključujući Plex, Subsonic, Navidrome, Jellyfin i Emby, za otvaranje i streamanje cijele glazbene biblioteke." icon="server" >}}
-  {{< feature-card title="Računalo i NAS" subtitle="Povežite računalo ili NAS putem SMB, WebDAV, DLNA, FTP, SFTP ili NFS, uz nativnu podršku za QNAP, Synology, Nextcloud i WD My Cloud Home." icon="desktop-computer" >}}
+  {{< ls-feature-card title="Streaming iz oblaka" subtitle="Streamajte izravno s iCloud Drive, Google Drive, Dropbox, OneDrive, Box, MEGA i pCloud, uz oblake usmjerene na privatnost poput Internxt i Proton Drive." icon="cloud" >}}
+  {{< ls-feature-card title="Medijski poslužitelji" subtitle="Povežite svoje osobne medijske poslužitelje, uključujući Plex, Subsonic, Navidrome, Jellyfin i Emby, za otvaranje i streamanje cijele glazbene biblioteke." icon="server" >}}
+  {{< ls-feature-card title="Računalo i NAS" subtitle="Povežite računalo ili NAS putem SMB, WebDAV, DLNA, FTP, SFTP ili NFS, uz nativnu podršku za QNAP, Synology, Nextcloud i WD My Cloud Home." icon="desktop-computer" >}}
 
-  {{< feature-card title="USB flash kartice" subtitle="Reproducirajte glazbu izravno sa SD kartica i USB flash pogona pomoću vanjskih čitača poput SanDisk iXpand, bez potrebe za uvozom ili sinkronizacijom." icon="inbox" >}}
-  {{< feature-card title="AirPlay i Chromecast" subtitle="Šaljite svoju glazbu bežično na Apple TV, HomePod, pametne zvučnike i više uz ugrađenu podršku za AirPlay, AirPlay 2 i Google Chromecast." icon="device-mobile" >}}
-  {{< feature-card title="Apple CarPlay" subtitle="Vozite i slušajte sigurno uz jednostavan, posvećen Apple CarPlay zaslon za odabir i kontrolu glazbe iz oblaka, lokalnih i offline izvora." icon="map" >}}
+  {{< ls-feature-card title="USB flash kartice" subtitle="Reproducirajte glazbu izravno sa SD kartica i USB flash pogona pomoću vanjskih čitača poput SanDisk iXpand, bez potrebe za uvozom ili sinkronizacijom." icon="inbox" >}}
+  {{< ls-feature-card title="AirPlay i Chromecast" subtitle="Šaljite svoju glazbu bežično na Apple TV, HomePod, pametne zvučnike i više uz ugrađenu podršku za AirPlay, AirPlay 2 i Google Chromecast." icon="device-mobile" >}}
+  {{< ls-feature-card title="Apple CarPlay" subtitle="Vozite i slušajte sigurno uz jednostavan, posvećen Apple CarPlay zaslon za odabir i kontrolu glazbe iz oblaka, lokalnih i offline izvora." icon="map" >}}
 
-  {{< feature-card title="Offline slušanje" subtitle="Preuzmite pjesme, albume i cijele izvođače za slušanje bez interneta ili uključite audio predmemoriju za automatsko spremanje nedavno reproduciranih pjesama." icon="download" >}}
-  {{< feature-card title="Automatska sinkronizacija" subtitle="Automatski održavajte biblioteku sinkroniziranom između pohrane u oblaku i lokalnih mapa, tako da se novo dodane datoteke pojavljuju bez ikakvog ručnog rada." icon="refresh" >}}
-  {{< feature-card title="Medijska biblioteka" subtitle="Dodajte svoju glazbu i organizirajte je automatski po albumu, izvođaču, izvođaču albuma, žanru i skladatelju pomoću oznaka ugrađenih u vaše datoteke." icon="library" >}}
+  {{< ls-feature-card title="Offline slušanje" subtitle="Preuzmite pjesme, albume i cijele izvođače za slušanje bez interneta ili uključite audio predmemoriju za automatsko spremanje nedavno reproduciranih pjesama." icon="download" >}}
+  {{< ls-feature-card title="Automatska sinkronizacija" subtitle="Automatski održavajte biblioteku sinkroniziranom između pohrane u oblaku i lokalnih mapa, tako da se novo dodane datoteke pojavljuju bez ikakvog ručnog rada." icon="refresh" >}}
+  {{< ls-feature-card title="Medijska biblioteka" subtitle="Dodajte svoju glazbu i organizirajte je automatski po albumu, izvođaču, izvođaču albuma, žanru i skladatelju pomoću oznaka ugrađenih u vaše datoteke." icon="library" >}}
 
-  {{< feature-card title="Prilagođene playliste" subtitle="Stvarajte, uređujte i preuređujte vlastite playliste, učinite ih dostupnima offline te ih uvozite ili izvozite u formatima M3U, M3U8 i CUE." icon="collection" >}}
-  {{< feature-card title="Upravitelj datoteka" subtitle="Upravljajte svojom glazbom pomoću ugrađenog upravitelja datoteka, obavljajući svakodnevne radnje poput kopiranja, premještanja, preimenovanja i brisanja kako biste datoteke održali urednima." icon="folder" >}}
-  {{< feature-card title="ID3 uređivač oznaka" subtitle="Popravite netočne ili nedostajuće metapodatke pomoću ugrađenog ID3 uređivača oznaka, ažurirajući naslov, izvođača, album, žanr i više u samo nekoliko dodira." icon="pencil-alt" >}}
+  {{< ls-feature-card title="Prilagođene playliste" subtitle="Stvarajte, uređujte i preuređujte vlastite playliste, učinite ih dostupnima offline te ih uvozite ili izvozite u formatima M3U, M3U8 i CUE." icon="collection" >}}
+  {{< ls-feature-card title="Upravitelj datoteka" subtitle="Upravljajte svojom glazbom pomoću ugrađenog upravitelja datoteka, obavljajući svakodnevne radnje poput kopiranja, premještanja, preimenovanja i brisanja kako biste datoteke održali urednima." icon="folder" >}}
+  {{< ls-feature-card title="ID3 uređivač oznaka" subtitle="Popravite netočne ili nedostajuće metapodatke pomoću ugrađenog ID3 uređivača oznaka, ažurirajući naslov, izvođača, album, žanr i više u samo nekoliko dodira." icon="pencil-alt" >}}
 
-  {{< feature-card title="Napredno pretraživanje" subtitle="Brzo pronađite bilo koju pjesmu, izvođača ili album u cijeloj svojoj kolekciji uz pametno, brzo pretraživanje osmišljeno za vrlo velike glazbene biblioteke." icon="search" >}}
-  {{< feature-card title="Brzi pristup" subtitle="Vratite se izravno na ono što je važno uz Nedavno reproducirano, Favorite i Knjižne oznake, držeći svoje omiljene pjesme uvijek na samo jedan dodir." icon="clock" >}}
-  {{< feature-card title="Tekstovi i komentari" subtitle="Pregledajte vremenski usklađene tekstove i bilješke o pjesmi unutar svake pjesme dok svira te dodajte widget Tekstovi na početni zaslon za brzi pristup na prvi pogled." icon="annotation" >}}
+  {{< ls-feature-card title="Napredno pretraživanje" subtitle="Brzo pronađite bilo koju pjesmu, izvođača ili album u cijeloj svojoj kolekciji uz pametno, brzo pretraživanje osmišljeno za vrlo velike glazbene biblioteke." icon="search" >}}
+  {{< ls-feature-card title="Brzi pristup" subtitle="Vratite se izravno na ono što je važno uz Nedavno reproducirano, Favorite i Knjižne oznake, držeći svoje omiljene pjesme uvijek na samo jedan dodir." icon="clock" >}}
+  {{< ls-feature-card title="Tekstovi i komentari" subtitle="Pregledajte vremenski usklađene tekstove i bilješke o pjesmi unutar svake pjesme dok svira te dodajte widget Tekstovi na početni zaslon za brzi pristup na prvi pogled." icon="annotation" >}}
 
-  {{< feature-card title="Widgeti" subtitle="Dodajte widgete na početni zaslon koji prikazuju red čekanja za reprodukciju i omogućuju vam da nastavite točno tamo gdje ste zadnji put stali." icon="view-grid" >}}
-  {{< feature-card title="Podrška za audioknjige" subtitle="Slušajte audioknjige uz knjižne oznake, timer za spavanje, podesivu brzinu i nastavak reprodukcije koji se nastavlja točno tamo gdje ste zadnji put stali." icon="book-open" >}}
-  {{< feature-card title="Last.fm integracija" subtitle="Povežite svoj Last.fm račun za scrobbling pjesama, praćenje statistike slušanja i dobivanje personaliziranih glazbenih preporuka tijekom vremena." icon="chart-bar" >}}
+  {{< ls-feature-card title="Widgeti" subtitle="Dodajte widgete na početni zaslon koji prikazuju red čekanja za reprodukciju i omogućuju vam da nastavite točno tamo gdje ste zadnji put stali." icon="view-grid" >}}
+  {{< ls-feature-card title="Podrška za audioknjige" subtitle="Slušajte audioknjige uz knjižne oznake, timer za spavanje, podesivu brzinu i nastavak reprodukcije koji se nastavlja točno tamo gdje ste zadnji put stali." icon="book-open" >}}
+  {{< ls-feature-card title="Last.fm integracija" subtitle="Povežite svoj Last.fm račun za scrobbling pjesama, praćenje statistike slušanja i dobivanje personaliziranih glazbenih preporuka tijekom vremena." icon="chart-bar" >}}
 
 {{< /cards >}}
 
@@ -154,9 +154,9 @@ Sveobuhvatne značajke
 
 <div class="hx:mt-6"></div>
 
-{{< hextra/section-headline >}}
+{{< ls-section-headline >}}
 Intuitivan dizajn
-{{< /hextra/section-headline >}}
+{{< /ls-section-headline >}}
 
 <div class="hx:mt-6"></div>
 
@@ -164,7 +164,7 @@ Intuitivan dizajn
 
 {{< cards cols="4">}}
 
-  {{< design-feature-card 
+  {{< ls-design-feature-card 
     image="/products/flacbox/screenshots/2048x2732/1.png" 
     title="Audio player" 
     method="Fill"
@@ -173,7 +173,7 @@ Intuitivan dizajn
     icon="play"
   >}}
 
-  {{< design-feature-card 
+  {{< ls-design-feature-card 
     image="/products/flacbox/screenshots/2048x2732/2.png"  
     title="Audio ekvilajzer" 
     method="Fill"
@@ -182,7 +182,7 @@ Intuitivan dizajn
     icon="adjustments"
   >}}
 
-  {{< design-feature-card 
+  {{< ls-design-feature-card 
     image="/products/flacbox/screenshots/2048x2732/3.png"  
     title="Upravitelj playlista" 
     method="Fill"
@@ -191,7 +191,7 @@ Intuitivan dizajn
     icon="collection"
   >}}
 
-  {{< design-feature-card 
+  {{< ls-design-feature-card 
     image="/products/flacbox/screenshots/2048x2732/5.png"  
     title="Medijska biblioteka" 
     method="Fill"
@@ -200,7 +200,7 @@ Intuitivan dizajn
     icon="library"
   >}}
 
-  {{< design-feature-card 
+  {{< ls-design-feature-card 
     image="/products/flacbox/screenshots/2048x2732/7.png"  
     title="Pohrana u oblaku" 
     method="Fill"
@@ -209,7 +209,7 @@ Intuitivan dizajn
     icon="cloud"
   >}}
 
-  {{< design-feature-card 
+  {{< ls-design-feature-card 
     image="/products/flacbox/screenshots/2048x2732/8.png"  
     title="iCloud Drive" 
     method="Fill"
@@ -227,48 +227,48 @@ Intuitivan dizajn
 <div class="hx:mt-6"></div>
 
 <div class="hx:w-full">
-{{< appstore-reviews apps="1097564256,1594027432" stars="5,4"  app="Flacbox" >}}
+{{< ls-appstore-reviews apps="1097564256,1594027432" stars="5,4"  app="Flacbox" >}}
 </div>
 
 <div class="hx:mt-6"></div>
 
-{{< hextra/section-headline >}}
+{{< ls-section-headline >}}
    Cjenovni planovi
-{{< /hextra/section-headline >}}
+{{< /ls-section-headline >}}
 
 <div class="hx:mt-6"></div>
 
 <div class="hx:w-full">
 
-{{< pricing-plans >}}
+{{< ls-pricing-plans >}}
 
 </div>
 
 <div class="hx:mt-6"></div>
 
 <div class="hx:w-full hx:mx-auto hx:flex hx:flex-col hx:items-center">
-  {{< hextra/info-paragraph border="true" >}}
+  {{< ls-info-paragraph border="true" >}}
    <strong>Obiteljsko dijeljenje</strong>: Sve kupnje i pretplate podržavaju Obiteljsko dijeljenje, omogućujući vam dijeljenje Premium pristupa s obitelji.<br><strong>Univerzalni pristup</strong>: Doživotni i pretplatnički planovi dijele se između iOS i Mac uređaja putem iCloud sinkronizacije.<br><strong>Cijene</strong>: Cijene su prikazane u američkim dolarima za Sjedinjene Države. Konačna cijena može varirati ovisno o vašoj regiji.  
-  {{< /hextra/info-paragraph >}}
+  {{< /ls-info-paragraph >}}
 </div>
 
 <div class="hx:mt-6"></div>
 
 <div class="hx:w-full">
-{{< app-details heading="true" >}}
+{{< ls-app-details heading="true" >}}
 </div>
 
 <div class="hx:mt-6"></div>
 
-{{< hextra/section-headline >}}
+{{< ls-section-headline >}}
    Često postavljana pitanja
-{{< /hextra/section-headline >}}
+{{< /ls-section-headline >}}
 
 <div class="hx:mt-6"></div>
 
 <div class="hx:w-full">
 
-{{% details title="Kako Flacbox radi?" closed="true" %}}
+{{% ls-details title="Kako Flacbox radi?" closed="true" %}}
 Flacbox je hi-res glazbeni player koji vam omogućuje upravljanje audio datotekama kao običnim datotekama.<br>
 Možete prenijeti cijelu glazbenu kolekciju na usluge u oblaku poput Dropboxa, Google Drivea ili osobnog NAS-a i reproducirati glazbu izravno iz oblaka s potpunom kontrolom.<br><br>
 Nije potrebna iTunes sinkronizacija—samo prenesite s PC-a ili Maca kao što činite s bilo kojom datotekom.<br>
@@ -282,9 +282,9 @@ Istražite naše vodiče za više detalja:<br>
 - [Kako bežično prenijeti datoteke s računala na iPhone pomoću WiFi-Drive.](/docs/howto/how-to-transfer-files-wirelessly-from-a-computer-to-an-iphone-using-wifi-drive)<br>
 - [Kako spojiti USB flash karticu na iPhone i slušati glazbu ili upravljati datotekama na njoj.](/docs/howto/how-to-connect-a-usb-flashcard-to-the-iphone-and-listen-to-music-or-manage-files-located-on-it)<br>
 - [Kako reproducirati glazbu na iPhoneu s WD My Cloud Home.](/docs/howto/how-to-play-music-on-iphone-from-wd-my-cloud-home)
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Je li Flacbox besplatan?" closed="true" %}}
+{{% ls-details title="Je li Flacbox besplatan?" closed="true" %}}
 Flacbox je besplatan za korištenje s nekim ograničenjima, koja se mogu ukloniti nadogradnjom na Premium verziju.<br>
 Možete birati između jednokratne doživotne kupnje ili dvije opcije pretplate (mjesečna ili godišnja). Cijene mogu varirati ovisno o vašoj regiji.<br><br>
 
@@ -293,10 +293,10 @@ Obiteljsko dijeljenje je omogućeno za sve planove, tako da možete dijeliti Pre
 Premium kupnje i pretplate dijele se između iOS i Mac uređaja putem iClouda. Za sinkronizaciju kupnje, provjerite je li iCloud omogućen, otvorite aplikaciju na iOS uređaju i pričekajte minutu da se sinkronizacija završi.<br><br>
 
 [Saznajte više o razlikama između Flacbox i Flacbox Premium](/docs/faq/flacbox/what-is-the-difference-between-flacbox-and-flacbox-premium/)
-{{% /details %}}
+{{% /ls-details %}}
 
 
-{{% details title="Koja je razlika između Flacbox i Evermusic?" closed="true" %}}
+{{% ls-details title="Koja je razlika između Flacbox i Evermusic?" closed="true" %}}
 **Flacbox** je napravljen za podršku svih zadanih iOS audio formata zajedno s mnogim dodatnim formatima koji nisu izvorno podržani na iPhoneu, kao što su WMA, OGG, M4A, DSD i više.<br>
 Koristi prilagođeni audio engine za obradu gotovo svih formata i nudi značajke poput podesive izlazne sample rate i korekcije visine tona.<br><br>
 
@@ -306,9 +306,9 @@ Ako uglavnom koristite MP3, ALAC ili FLAC, **Evermusic** može biti bolja opcija
 Ako trebate široku kompatibilnost s raznim vrstama audio datoteka, **Flacbox** je pravi izbor.<br><br>
 
 [Saznajte više o razlikama između Flacbox i Evermusic](/docs/faq/evermusic/what-is-the-difference-between-evermusic-and-flacbox/)
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Kako sinkronizirati Flacbox?" closed="true" %}}
+{{% ls-details title="Kako sinkronizirati Flacbox?" closed="true" %}}
 
 **Sinkronizacija metapodataka**  
 Kada dodate pjesme u svoju biblioteku, pozadinski čitač metapodataka skenira vaše datoteke i organizira ih po izvođaču, albumu, žanru i skladatelju.<br>
@@ -345,10 +345,10 @@ Također možete prilagoditi **intervale isteka vremena sinkronizacije** u posta
 
 [Saznajte više](/docs/guide/flacbox/flacbox-guide-music-library)
 
-{{% /details %}}
+{{% /ls-details %}}
 
 
-{{% details title="Kako koristiti Flacbox?" closed="true" %}}
+{{% ls-details title="Kako koristiti Flacbox?" closed="true" %}}
 
 **Instalirajte Flacbox**<br>
 Preuzmite i instalirajte aplikaciju Flacbox iz trgovine aplikacija vašeg uređaja. Dostupna je za iOS i Mac uređaje.<br><br>
@@ -408,10 +408,10 @@ Istražite vodiče unutar aplikacije ili posjetite ove vodiče:<br><br>
 • [Spojite USB flash karticu](/docs/howto/how-to-connect-a-usb-flashcard-to-the-iphone-and-listen-to-music-or-manage-files-located-on-it)<br>
 • [Bežični prijenos WiFi-Drive](/docs/howto/how-to-transfer-files-wirelessly-from-a-computer-to-an-iphone-using-wifi-drive)
 
-{{% /details %}}
+{{% /ls-details %}}
 
 
-{{% details title="Je li Flacbox siguran?" closed="true" %}}
+{{% ls-details title="Je li Flacbox siguran?" closed="true" %}}
 Flacbox koristi samo službeni SDK i sigurne veze za interakciju s povezanim uslugama u oblaku. Vaše korisničko ime i lozinka nisu dostupni aplikaciji. Svi zahtjevi iz aplikacije prema usluzi u oblaku su šifrirani.<br>
 Kada unesete korisničko ime i lozinku, aplikacija vam prikazuje službenu stranicu za autorizaciju koju pruža pružatelj usluge u oblaku i cijeli proces autorizacije odvija se izvan aplikacije. Pružatelj usluge u oblaku šalje auth-token aplikaciji nakon uspješne autorizacije i taj se token koristi za API pozive.<br><br>
 
@@ -423,24 +423,24 @@ Za odbijanje auth-tokena prijavite se na svoj račun u web pregledniku i navigir
 Također možete odspojiti povezane račune u oblaku u aplikaciji i auth-token će također biti uklonjen s vašeg uređaja. Ako uklonite aplikaciju s uređaja, svi preuzeti podaci i pristupni tokeni također će biti uklonjeni.<br><br>
 
 [Saznajte više](/docs/guide/flacbox/flacbox-guide-connections)
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Kako napraviti playlistu u Flacboxu?" closed="true" %}}
+{{% ls-details title="Kako napraviti playlistu u Flacboxu?" closed="true" %}}
 - Otvorite odjeljak Playliste.<br>
 - Dodirnite gumb "+" ili gumb "..." u gornjem desnom kutu i odaberite "Nova playlista."<br>
 - Unesite naziv playliste i dodirnite "Spremi." Pojavit će se dijaloški okvir "Dodaj pjesme."<br>
 - Odaberite pjesme koje želite dodati u playlistu.<br><br>
 
 [Saznajte više](/docs/guide/flacbox/flacbox-guide-playlists)
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Koje usluge u oblaku Flacbox podržava?" closed="true" %}}
+{{% ls-details title="Koje usluge u oblaku Flacbox podržava?" closed="true" %}}
 Trenutno aplikacija podržava najpopularnije usluge u oblaku: iCloud Drive, Google Drive, Dropbox, OneDrive, Box, MEGA, Yandex.Disk, WD MyCloud Home, DLNA, MediaFire, WebDAV, SMB, pCloud, HiDrive, My Cloud Home, InfiniCLOUD, Cloud Mail.ru, Put.io, MyDrive.<br><br>
 
 [Saznajte više](/docs/guide/flacbox/flacbox-guide-connections)
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Kako mogu koristiti ekvilajzer?" closed="true" %}}
+{{% ls-details title="Kako mogu koristiti ekvilajzer?" closed="true" %}}
 - Otvorite zaslon audio playera.<br>
 - Dodirnite ikonu "Ekvilajzer" na dnu zaslona.<br>
 - Uključite prekidač u gornjem desnom kutu zaslona ekvilajzera za aktivaciju ekvilajzera.<br>
@@ -448,9 +448,9 @@ Trenutno aplikacija podržava najpopularnije usluge u oblaku: iCloud Drive, Goog
 
 Potpuni vodič dostupan ovdje:<br>
 [Kako koristiti audio ekvilajzer na iPhoneu, iPadu, Macu s Evermusic i Flacbox](/docs/howto/how-to-use-the-audio-equalizer-on-your-iphone-ipad-mac-with-evermusic-and-flacbox)
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Kako omogućiti offline način u Flacboxu?" closed="true" %}}
+{{% ls-details title="Kako omogućiti offline način u Flacboxu?" closed="true" %}}
 - Povežite uslugu u oblaku:<br>
  • Idite na karticu "Veze".<br>
  • Odaberite "Poveži uslugu u oblaku" i slijedite upute za povezivanje željene usluge.<br><br>
@@ -476,9 +476,9 @@ Potpuni vodič dostupan ovdje:<br>
  • Dodirnite "Više radnji" i odaberite "Pokreni sinkronizaciju."<br><br>
 
 [Saznajte više](/docs/howto/play-offline-music-in-evermusic-flacbox-download-sync-from-cloud-to-local-files/)
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Kako reproducirati lokalno preuzetu glazbu na iPhoneu?" closed="true" %}}
+{{% ls-details title="Kako reproducirati lokalno preuzetu glazbu na iPhoneu?" closed="true" %}}
 Nakon što instalirate aplikaciju, otvorite zaslon "Lokalne datoteke" i pomaknite se do odjeljka "Datoteke na ovom iPhoneu". Odatle odaberite "Otvori datoteke..." ako trebate odabrati nekoliko audio datoteka ili "Otvori mapu..." ako želite odabrati mapu s glazbom. Aplikacija će skenirati sadržaj mape i sve pronađene audio datoteke bit će odabrane. Navigirajte do mape s glazbom, dodirnite "Otvori" za potvrdu odabira i datoteke će biti dodane u red čekanja playera. Te datoteke reproducirat će se izravno s odabrane lokacije bez kopiranja u aplikacijski paket.<br><br>
 
 **Dodavanje mape u favorite za brzi pristup**<br>
@@ -493,13 +493,13 @@ Za dodavanje lokalnih datoteka u playlistu, otvorite zaslon "Playliste" i dodirn
 Ovim jednostavnim koracima možete otključati puni potencijal svog iPhonea i Maca kao ultimativne platforme za uživanje u svojoj dragocjenoj lokalnoj glazbenoj kolekciji.<br><br>
 
 [Saznajte više](/docs/howto/how-to-play-local-music-stored-on-your-iphone-or-mac)
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Kako mogu nastaviti playlistu od mjesta gdje sam stao?" closed="true" %}}
+{{% ls-details title="Kako mogu nastaviti playlistu od mjesta gdje sam stao?" closed="true" %}}
 Prvo provjerite je li "Spremi stanje audio playera" omogućeno u Postavke > Audio player > Općenito. Kada se prebacite na drugu playlistu i vratite se, vidjet ćete četiri radnje na gornjoj alatnoj traci ispod omota albuma: "Pretraživanje," "Nastavi reprodukciju," "Reproduciraj sve" i "Nasumični odabir." Dodirnite "Nastavi reprodukciju" za nastavak playliste od posljednjeg spremljenog stanja i medijske pozicije.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Kako pregledati tekstove pjesama u Flacboxu?" closed="true" %}}
+{{% ls-details title="Kako pregledati tekstove pjesama u Flacboxu?" closed="true" %}}
 Možete pregledati ugrađene tekstove pjesama u aplikaciji **slijedeći ove korake**:<br>
 1. Počnite reproducirati audio datoteku dodirom na nju.<br>
 2. Otvorite audio player na cijelom zaslonu.<br>
@@ -513,9 +513,9 @@ Možete pregledati ugrađene tekstove pjesama u aplikaciji **slijedeći ove kora
 3. Način LRC datoteke: Umjesto uređivanja audio datoteka, možete staviti LRC datoteku u istu mapu kao i originalnu audio datoteku. Obje datoteke trebaju imati isti naziv ali različite ekstenzije. Kada prijeđete na treću stranicu na zaslonu Komentari, aplikacija će pretražiti LRC datoteku u istom direktoriju i prikazati njezin sadržaj.<br><br>
 
 [Saznajte više](/docs/howto/how-to-add-and-view-comments-to-your-audio-tracks-on-iphone-ipad-and-mac-with-evermusic-and-flacbox)
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Kako prenijeti glazbu u Flacbox s računala?" closed="true" %}}
+{{% ls-details title="Kako prenijeti glazbu u Flacbox s računala?" closed="true" %}}
 Možete spojiti računalo ili osobni NAS koristeći SMB, WebDAV ili DLNA protokole. Alternativno, koristite iTunes dijeljenje datoteka za prijenos glazbe.<br><br>
 
 Za povezivanje računala koristeći SMB protokol dodirnite "Poveži uslugu u oblaku" → SMB. Unesite IP adresu računala i naziv dijeljene mape u URL polje koristeći format smb://ip-adresa-računala/naziv-dijeljene-mape, unesite korisničko ime i lozinku i dodirnite "Gotovo". Ako je veza uspješna, vidjet ćete povezanu pohranu u odjeljku "Usluge u oblaku".<br><br>
@@ -536,9 +536,9 @@ Detaljne upute dostupne ovdje:<br>
 
 DLNA Također možete postaviti DLNA media server i streamati glazbu s Windows PC-a kako je opisano ovdje:<br>
 [Kako omogućiti DLNA Media Server na Windowsu 10 i reproducirati glazbu na iPhoneu](/docs/howto/how-to-enable-dlna-media-server-on-windows-10-and-play-your-music-on-iphone)
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Kako preuzeti glazbu?" closed="true" %}}
+{{% ls-details title="Kako preuzeti glazbu?" closed="true" %}}
 Prije nego što možete preuzeti glazbu i slušati offline trebate povezati mrežni račun.<br>
 Samo otvorite zaslon "Veze" i dodajte svoj račun.<br>
 Nakon što dodate mrežni račun, možete preuzeti glazbu iz oblaka.<br><br>
@@ -559,15 +559,15 @@ Detaljnije upute o offline načinu dostupne ovdje:<br>
 
 Još jedna dostupna opcija je preuzimanje glazbe s usluga u oblaku i uvoz u Evermusic kako je opisano ovdje:<br>
 [Kako preuzeti glazbu s YouTubea i slušati offline glazbu na iPhoneu](/docs/howto/how-to-download-music-from-youtube-and-listen-to-offline-music-on-iphone)
-{{% /details %}}
+{{% /ls-details %}}
 
 
-{{% details title="Koje audio formate Flacbox podržava?" closed="true" %}}
+{{% ls-details title="Koje audio formate Flacbox podržava?" closed="true" %}}
 Ova aplikacija podržava zadane **sustavske audio kodeke** i dodatne **ffmpeg softverske kodeke**:<br><br>
 3g2, 3gp, 3gp2, 3gpp, 8svx, aa, aac, aax, ac3, act, adt, adts, aif, aifc, aiff, alac, amr, amv, ape, asf, au, avi, awb, caf, cavs, cdda, cue, dct, dff, drc, dsf, dss, dvf, "dvr-ms", ec3, f4a, f4b, f4p, f4v, flac, flv, gif, gifv, gsm, gxf, h261, h263, h264, ifv, iklax, ivf, ivs, l16, latm, loas, m2t, m2ts, m2v, m3u, m3u8, m4a, m4b, m4p, m4r, m4v, mka, mkv, mmf, mng, mod, mogg, mov, mp1, mp2, mp3, mp4, mp4v, mpa, mpc, mpe, mpeg, mpg, mpv, msv, mts, mxf, nsf, nsv, nut, oga, ogg, ogv, opus, pcm, pls, qt, ra, raw, rm, rmvb, roq, rv, sln, snd, svi, tod, tta, vob, voc, vox, vtt, w64, wav, wave, webm, wma, wmv, wv, xhe, xmv, y4m, yuv.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Mogu li koristiti Flacbox za reprodukciju audioknjiga?" closed="true" %}}
+{{% ls-details title="Mogu li koristiti Flacbox za reprodukciju audioknjiga?" closed="true" %}}
 
 Da, Flacbox se može koristiti kao moćan player za audioknjige.<br><br>
 
@@ -590,11 +590,11 @@ Flacbox pruža potpuno opremljeno rješenje za ljubitelje audioknjiga na iPhoneu
 
 [Saznajte više](/docs/howto/how-to-listen-to-audiobooks-on-iphone-ipad-mac-using-evermusic)
 
-{{% /details %}}
+{{% /ls-details %}}
 
 
 
-{{% details title="Radi li Flacbox s NAS uređajima?" closed="true" %}}
+{{% ls-details title="Radi li Flacbox s NAS uređajima?" closed="true" %}}
 
 Da, Flacbox podržava NAS veze koristeći **SMB**, **WebDAV** i **DLNA** protokole.<br><br>
 
@@ -625,10 +625,10 @@ Ako je veza uspješna, vidjet ćete svoj NAS u odjeljku **Usluge u oblaku**.<br>
 • [Spojite Bluesound Vault pohranu](/docs/howto/how-to-connect-bluesound-vault-s-internal-storage-from-the-evermusic-flacbox-evertag)<br>
 • [Spojite NAS pohranu koristeći WebDAV](/docs/howto/how-to-connect-nas-storage-using-webdav-and-listen-to-music-on-your-iphone-or-mac)
 
-{{% /details %}}
+{{% /ls-details %}}
 
 
-{{% details title="Kako uvesti glazbu u Flacbox?" closed="true" %}}
+{{% ls-details title="Kako uvesti glazbu u Flacbox?" closed="true" %}}
 
 **Povežite svoju uslugu u oblaku**<br>
 • Otvorite karticu **Veze**.<br>
@@ -674,10 +674,10 @@ Istražite ove vodiče za dodatnu pomoć:<br><br>
 • [Bežični prijenos datoteka koristeći WiFi-Drive](/docs/howto/how-to-transfer-files-wirelessly-from-a-computer-to-an-iphone-using-wifi-drive)<br>
 • [Prenesite datoteke koristeći SMB protokol](/docs/howto/transfer-your-files-from-the-computer-to-iphone-using-smb-protocol/)
 
-{{% /details %}}
+{{% /ls-details %}}
 
 
-{{% details title="Kako koristiti Wi-Fi Drive značajku u Flacboxu?" closed="true" %}}
+{{% ls-details title="Kako koristiti Wi-Fi Drive značajku u Flacboxu?" closed="true" %}}
 
 **Bežični prijenos koristeći desktop preglednik**<br>
 1. Pokrenite aplikaciju: Otvorite Flacbox.<br>
@@ -702,9 +702,9 @@ Napomena: Provjerite je li JavaScript omogućen i koristite najnoviju verziju pr
 
 [Saznajte više](/docs/howto/how-to-transfer-files-wirelessly-from-a-computer-to-an-iphone-using-wifi-drive)
 
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Podržava li Flacbox Apple CarPlay?" closed="true" %}}
+{{% ls-details title="Podržava li Flacbox Apple CarPlay?" closed="true" %}}
 Da, **Flacbox u potpunosti podržava Apple CarPlay**. Možete pregledavati glazbenu biblioteku, reproducirati lokalne ili offline datoteke, povezati se s pohranom u oblaku i kontrolirati reprodukciju izravno sa zaslona infotainment sustava automobila.
 
 CarPlay sučelje uključuje posvećene kartice za **Biblioteku**, **Veze**, **Lokalne datoteke** i **Postavke**, pružajući vam potpunu kontrolu nad glazbom na cesti. Kontrole reprodukcije, nasumični odabir, ponavljanje i upravljanje redom čekanja također su dostupni.
@@ -712,42 +712,42 @@ CarPlay sučelje uključuje posvećene kartice za **Biblioteku**, **Veze**, **Lo
 Za korištenje CarPlaya provjerite je li Siri omogućena i je li vaš iPhone spojen putem USB-a ili bežično.
 
 [Pročitajte potpuni vodič](/docs/howto/how-to-play-your-own-music-on-iphone-using-carplay/)
-{{% /details %}}
+{{% /ls-details %}}
 
 </div>
 
 
 <div class="hx:mt-6"></div>
 
-{{< hextra/section-headline >}}
+{{< ls-section-headline >}}
   Korisnički vodič
-{{< /hextra/section-headline >}}
+{{< /ls-section-headline >}}
 
 <div class="hx:mt-6"></div>
 
 <div class="hx:w-full">
 
 <div class="hx:w-full hx:mx-auto hx:flex hx:flex-col hx:items-center hx:text-center">
-  {{< hextra/info-paragraph border="false" >}}
+  {{< ls-info-paragraph border="false" >}}
   Ovaj vodič pomoći će vam da izvučete maksimum iz Flacboxa na svom iPhoneu, iPadu ili Macu. Naučite kako streamati glazbu visoke rezolucije iz oblaka, organizirati biblioteku, upravljati audioknjigama i prenositi glazbu između uređaja.
-  {{< /hextra/info-paragraph >}}
+  {{< /ls-info-paragraph >}}
 </div>
 
 {{< cards >}}
 
-{{< feature-card icon="map" link="/docs/guide/flacbox/flacbox-guide-navigation" title="Navigacija" subtitle="Koristite traku kartica na iPhoneu ili lijevi izbornik na iPadu i Macu." >}}
+{{< ls-feature-card icon="map" link="/docs/guide/flacbox/flacbox-guide-navigation" title="Navigacija" subtitle="Koristite traku kartica na iPhoneu ili lijevi izbornik na iPadu i Macu." >}}
 
-{{< feature-card icon="cloud" link="/docs/guide/flacbox/flacbox-guide-connections" title="Veze" subtitle="Povežite Dropbox, Google Drive, iCloud ili svoj NAS." >}}
+{{< ls-feature-card icon="cloud" link="/docs/guide/flacbox/flacbox-guide-connections" title="Veze" subtitle="Povežite Dropbox, Google Drive, iCloud ili svoj NAS." >}}
 
-{{< feature-card icon="collection" link="/docs/guide/flacbox/flacbox-guide-music-library" title="Glazbena biblioteka" subtitle="Upravljajte i pretražujte pjesme po izvođaču, albumu ili žanru." >}}
+{{< ls-feature-card icon="collection" link="/docs/guide/flacbox/flacbox-guide-music-library" title="Glazbena biblioteka" subtitle="Upravljajte i pretražujte pjesme po izvođaču, albumu ili žanru." >}}
 
-{{< feature-card icon="music-note" link="/docs/guide/flacbox/flacbox-guide-playlists" title="Playliste" subtitle="Stvarajte i organizirajte playliste za svako raspoloženje ili priliku." >}}
+{{< ls-feature-card icon="music-note" link="/docs/guide/flacbox/flacbox-guide-playlists" title="Playliste" subtitle="Stvarajte i organizirajte playliste za svako raspoloženje ili priliku." >}}
 
-{{< feature-card icon="folder" link="/docs/guide/flacbox/flacbox-guide-local-files" title="Lokalne datoteke" subtitle="Uređujte i reproducirajte offline glazbu ugrađenim upraviteljem datoteka." >}}
+{{< ls-feature-card icon="folder" link="/docs/guide/flacbox/flacbox-guide-local-files" title="Lokalne datoteke" subtitle="Uređujte i reproducirajte offline glazbu ugrađenim upraviteljem datoteka." >}}
 
-{{< feature-card icon="play" link="/docs/guide/flacbox/flacbox-guide-player" title="Audio player" subtitle="Kontrolirajte reprodukciju, prilagodite brzinu, postavite oznake i više." >}}
+{{< ls-feature-card icon="play" link="/docs/guide/flacbox/flacbox-guide-player" title="Audio player" subtitle="Kontrolirajte reprodukciju, prilagodite brzinu, postavite oznake i više." >}}
 
-{{< feature-card icon="adjustments" link="/docs/guide/flacbox/flacbox-guide-settings" title="Postavke" subtitle="Prilagodite ekvilajzer, izgled i ponašanje aplikacije." >}}
+{{< ls-feature-card icon="adjustments" link="/docs/guide/flacbox/flacbox-guide-settings" title="Postavke" subtitle="Prilagodite ekvilajzer, izgled i ponašanje aplikacije." >}}
 
 {{< /cards >}}
 

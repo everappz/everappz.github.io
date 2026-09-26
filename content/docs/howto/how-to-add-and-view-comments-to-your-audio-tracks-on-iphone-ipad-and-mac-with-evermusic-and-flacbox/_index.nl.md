@@ -7,7 +7,7 @@ tags: ["evermusic", "audio", "editor", "tags", "opmerkingen"]
 readingTime: 4
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **Samenvatting:** Evermusic en Flacbox stellen je in staat om tekstopmerkingen met tijdmarkeringen toe te voegen aan elke audiotrack en deze vervolgens gesynchroniseerd weer te geven tijdens het afspelen. Je kunt ook ingebedde songteksten en LRC-bestanden bekijken. De opmerkingen- en songtekstfuncties zijn gratis in beide apps.
@@ -97,22 +97,22 @@ De toevoeging van opmerkingen aan audiotracks in Evermusic en Flacbox markeert e
 
 ## Veelgestelde vragen
 
-{{% details title="Is de opmerkingenfunctie gratis in Evermusic en Flacbox?" closed="true" %}}
+{{% ls-details title="Is de opmerkingenfunctie gratis in Evermusic en Flacbox?" closed="true" %}}
 Ja. Het toevoegen, bewerken en bekijken van opmerkingen en songteksten is een gratis functie in zowel Evermusic als Flacbox.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Welk formaat moet ik gebruiken voor getimede opmerkingen?" closed="true" %}}
+{{% ls-details title="Welk formaat moet ik gebruiken voor getimede opmerkingen?" closed="true" %}}
 Gebruik het LRC-tijdmarkeringsformaat: `[MM:SS.SS]` gevolgd door je tekst. Bijvoorbeeld: `[01:23.45]Dit is mijn opmerking`. Je kunt meerdere tijdstempels aan één regel toewijzen.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Kan ik songteksten en LRC-bestanden op hetzelfde scherm bekijken?" closed="true" %}}
+{{% ls-details title="Kan ik songteksten en LRC-bestanden op hetzelfde scherm bekijken?" closed="true" %}}
 Ja. Het Opmerkingenscherm ondersteunt drie modi waartussen je kunt vegen: Opmerkingen, Ingebedde songteksten en LRC-bestand.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Waar kan ik LRC-songtekstbestanden vinden?" closed="true" %}}
+{{% ls-details title="Waar kan ik LRC-songtekstbestanden vinden?" closed="true" %}}
 Gratis LRC-songteksten zijn beschikbaar op websites zoals Lyricsify.com. Je kunt ze insluiten in de songteksttag van je audiobestand of een apart `.lrc`-bestand naast je audiobestand plaatsen.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Heb ik een aparte app nodig om songteksttags te bewerken?" closed="true" %}}
+{{% ls-details title="Heb ik een aparte app nodig om songteksttags te bewerken?" closed="true" %}}
 Je kunt opmerkingen rechtstreeks bewerken in Evermusic en Flacbox. Voor het specifiek bewerken van de songteksttag gebruik je Evertag, een gratis audiometadata-editor voor iOS en macOS.
-{{% /details %}}
+{{% /ls-details %}}

@@ -21,7 +21,7 @@ readingTime: 14
 - **Νομικά & απόρρητο** — Όροι, Πολιτική Απορρήτου, Νομικές Ειδοποιήσεις, Αναλυτικά στοιχεία & συλλογή δεδομένων
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evertag Settings Screen" image="/docs/guide/evertag/img/settings.webp" >}}
+  {{< ls-card title="" subtitle="Evertag Settings Screen" image="/docs/guide/evertag/img/settings.webp" >}}
 {{< /cards >}}
 
 ## Αναβάθμιση σε Premium
@@ -63,7 +63,7 @@ readingTime: 14
 Ο διαχειριστής αρχείων υποστηρίζει πρόσβαση σε συνδεδεμένους λογαριασμούς αποθήκευσης cloud και προσφέρει λειτουργίες παρτίδας για γρήγορη διαχείριση πολλαπλών αρχείων.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evertag Settings File Manager Screen" image="/docs/guide/evertag/img/settings-file-manager.webp" >}}
+  {{< ls-card title="" subtitle="Evertag Settings File Manager Screen" image="/docs/guide/evertag/img/settings-file-manager.webp" >}}
 {{< /cards >}}
 
 ### Μεταφορές αρχείων
@@ -103,7 +103,7 @@ readingTime: 14
 Σε αυτή την ενότητα, μπορείτε να διαμορφώσετε τον ενσωματωμένο επεξεργαστή ετικετών ήχου.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evertag Settings Tag Editor Screen" image="/docs/guide/evertag/img/settings-tag-editor.webp" >}}
+  {{< ls-card title="" subtitle="Evertag Settings Tag Editor Screen" image="/docs/guide/evertag/img/settings-tag-editor.webp" >}}
 {{< /cards >}}
 
 ### Κλιμάκωση εξωφύλλου άλμπουμ
@@ -136,7 +136,7 @@ readingTime: 14
 Σε αυτή την ενότητα, μπορείτε να προσαρμόσετε τις ρυθμίσεις διεπαφής χρήστη σύμφωνα με τις προτιμήσεις σας.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evertag Settings Personalization Screen" image="/docs/guide/evertag/img/settings-personalization.webp" >}}
+  {{< ls-card title="" subtitle="Evertag Settings Personalization Screen" image="/docs/guide/evertag/img/settings-personalization.webp" >}}
 {{< /cards >}}
 
 ### Εικονίδιο εφαρμογής

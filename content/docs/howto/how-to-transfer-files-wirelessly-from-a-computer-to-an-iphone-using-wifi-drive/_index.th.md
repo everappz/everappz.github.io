@@ -7,7 +7,7 @@ keywords: ["ถ่ายโอนไฟล์ไร้สายไปยัง i
 readingTime: 2
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **สรุป:** Wi-Fi Drive ช่วยให้คุณถ่ายโอนไฟล์จากคอมพิวเตอร์เครื่องใดก็ได้ไปยัง iPhone หรือ iPad ผ่าน Wi-Fi -- ไม่ต้องใช้ iTunes หรือสาย ใช้เว็บเบราว์เซอร์, Mac Finder หรือ Windows File Explorer อุปกรณ์ทั้งสองต้องอยู่ในเครือข่าย Wi-Fi เดียวกัน
@@ -18,7 +18,7 @@ Wi-Fi Drive เป็นวิธีที่ง่ายที่สุดใ�
 
 คุณสามารถดูวิดีโอสอนจาก [**TECHGUYPH**](https://www.youtube.com/channel/UCgpf09gGFE_c_3pPTtTpnzg) หรืออ่านเวอร์ชันข้อความด้านล่าง
 <br><br>
-{{< youtubecard id="CqdqrQ0ge70" title="Can We Wirelessly Put Offline Music on iPhones?" >}}
+{{< ls-youtubecard id="CqdqrQ0ge70" title="Can We Wirelessly Put Offline Music on iPhones?" >}}
 
 ## ถ่ายโอนไฟล์จากคอมพิวเตอร์แบบไร้สายด้วยเว็บเบราว์เซอร์บนเดสก์ท็อป
 
@@ -90,26 +90,26 @@ Wi-Fi Drive เป็นวิธีที่ง่ายที่สุดใ�
 
 ## คำถามที่พบบ่อย
 
-{{% details title="ฉันต้องใช้ iTunes เพื่อถ่ายโอนไฟล์ไปยัง iPhone หรือไม่?" closed="true" %}}
+{{% ls-details title="ฉันต้องใช้ iTunes เพื่อถ่ายโอนไฟล์ไปยัง iPhone หรือไม่?" closed="true" %}}
 ไม่ Wi-Fi Drive ถ่ายโอนไฟล์โดยตรงผ่านเครือข่าย Wi-Fi ในเครื่องของคุณ ไม่ต้องใช้ iTunes
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="แอปใดรองรับ Wi-Fi Drive?" closed="true" %}}
+{{% ls-details title="แอปใดรองรับ Wi-Fi Drive?" closed="true" %}}
 Wi-Fi Drive มีให้ใช้งานใน Evermusic, Flacbox, Evertag และ Evervideo สำหรับ iOS
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="อุปกรณ์ทั้งสองต้องอยู่ในเครือข่าย Wi-Fi เดียวกันหรือไม่?" closed="true" %}}
+{{% ls-details title="อุปกรณ์ทั้งสองต้องอยู่ในเครือข่าย Wi-Fi เดียวกันหรือไม่?" closed="true" %}}
 ใช่ คอมพิวเตอร์และ iPhone หรือ iPad ของคุณต้องเชื่อมต่อกับเครือข่าย Wi-Fi ในเครื่องเดียวกันเพื่อให้ Wi-Fi Drive ทำงานได้
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="ฉันสามารถถ่ายโอนทั้งโฟลเดอร์ ไม่ใช่แค่ไฟล์เดี่ยวได้หรือไม่?" closed="true" %}}
+{{% ls-details title="ฉันสามารถถ่ายโอนทั้งโฟลเดอร์ ไม่ใช่แค่ไฟล์เดี่ยวได้หรือไม่?" closed="true" %}}
 ได้ Wi-Fi Drive รองรับการอัปโหลดและดาวน์โหลดทั้งโฟลเดอร์ผ่านอินเทอร์เฟซเว็บเบราว์เซอร์
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Wi-Fi Drive ใช้ได้กับ Windows หรือไม่?" closed="true" %}}
+{{% ls-details title="Wi-Fi Drive ใช้ได้กับ Windows หรือไม่?" closed="true" %}}
 ได้ คุณสามารถใช้เว็บเบราว์เซอร์ใดก็ได้บน Windows หรือเชื่อมต่อผ่าน Windows File Explorer โดยใช้โปรโตคอล WebDAV
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="ฉันสามารถใช้สาย USB เพื่อเพิ่มความเร็วในการถ่ายโอนได้หรือไม่?" closed="true" %}}
+{{% ls-details title="ฉันสามารถใช้สาย USB เพื่อเพิ่มความเร็วในการถ่ายโอนได้หรือไม่?" closed="true" %}}
 ได้ หาก iPhone ของคุณเชื่อมต่อกับ Mac ผ่าน USB ขณะที่ Wi-Fi Drive ทำงานอยู่ การถ่ายโอนจะใช้การเชื่อมต่อสายเพื่อความเร็วที่เร็วขึ้น
-{{% /details %}}
+{{% /ls-details %}}

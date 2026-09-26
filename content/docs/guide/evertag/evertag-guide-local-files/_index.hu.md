@@ -18,7 +18,7 @@ A Helyi fájlok szakasz az alkalmazás "Documents" mappájában elhelyezkedő, v
 Ez a beépített fájlkezelő lehetővé teszi a fájlok szerkesztését, és különböző módszereket kínál audio fájlok importálásához az alkalmazásba. A nemrégiben megnyitott fájlok automatikusan megjelennek a **Legutóbbiak** lapon, a csillaggal jelölt elemek pedig a **Kedvencek** alatt, így a leggyakrabban használt fájlokhoz azonnal hozzáférhet anélkül, hogy vissza kellene böngésznie erre a képernyőre.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evertag Letöltések képernyő" image="/docs/guide/evertag/img/downloads.webp" >}}
+  {{< ls-card title="" subtitle="Evertag Letöltések képernyő" image="/docs/guide/evertag/img/downloads.webp" >}}
 {{< /cards >}}
 
 ## Fájlok letöltése felhőtárolóból
@@ -74,7 +74,7 @@ Az alkalmazás Documents könyvtárában és az iCloud Drive-on tárolt fájloka
 Az eszközön, de különböző alkalmazásokban lévő fájlokat jeleníti meg. A rendszer fájlválasztóval importálhatja őket ebbe az alkalmazásba. A választó aktiválásához válassza a "Fájlok megnyitása..." lehetőséget fájlok kiválasztásához, vagy a "Mappák megnyitása..." lehetőséget mappák kiválasztásához. A részletes utasítások az iPhone-on vagy Macen tárolt helyi zenék importálásáról [itt](/docs/howto/how-to-play-local-music-stored-on-your-iphone-or-mac) érhetők el. Csatlakoztathat az eszközén lévő mappát is, és gyors hozzáférést kaphat a mappa tartalmához. Használja a "Mappa csatlakoztatása" menüpontot, és válasszon egy mappát az eszközön. Koppintson a "Kész" gombra, és az alkalmazás létrehoz egy hivatkozást arra a mappára olvasási/írási hozzáféréssel, amely lehetővé teszi a fájlok kezelését közvetlenül ebből az alkalmazásból. Az eszközén lévő mappa leválasztásához koppintson a "További műveletek" gombra, és válassza a "Leválasztás" lehetőséget.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evertag fájlok importálása eszközről" image="/docs/guide/evertag/img/open-files.webp" >}}
+  {{< ls-card title="" subtitle="Evertag fájlok importálása eszközről" image="/docs/guide/evertag/img/open-files.webp" >}}
 {{< /cards >}}
 
 ## Csatlakoztatott USB flash meghajtón lévő fájlok importálása
@@ -86,7 +86,7 @@ A részletes utasítások arról, hogyan csatlakoztasson USB flash meghajtót iP
 Az aktuálisan megnyitott mappa További műveletek menüje a jobb felső sarokban található, és különböző műveletekhez biztosít hozzáférést.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evertag fájlok importálása eszközről" image="/docs/guide/evertag/img/downloads-current-folder-actions.webp" >}}
+  {{< ls-card title="" subtitle="Evertag fájlok importálása eszközről" image="/docs/guide/evertag/img/downloads-current-folder-actions.webp" >}}
 {{< /cards >}}
 
 - **Kiválasztás:** Váltás kiválasztási módra fájlok és mappák esetén.  

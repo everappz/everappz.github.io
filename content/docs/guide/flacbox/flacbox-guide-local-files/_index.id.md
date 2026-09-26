@@ -19,7 +19,7 @@ Bagian File Lokal berfungsi sebagai pusat untuk mengelola file yang terletak di 
 Manajer file bawaan ini memungkinkan Anda mengedit file (ganti nama, pindah, salin, unggah, hapus), memantau transfer, dan menawarkan beberapa metode untuk mengimpor file audio ke aplikasi — unduhan langsung dari cloud, sinkronisasi mode offline, drive flash USB, Wi-Fi Drive, dan Finder File Sharing.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Layar File Lokal Flacbox" image="/docs/guide/flacbox/img/local-files.webp" >}}
+  {{< ls-card title="" subtitle="Layar File Lokal Flacbox" image="/docs/guide/flacbox/img/local-files.webp" >}}
 {{< /cards >}}
 
 ## Mengunduh File dari Cloud Storage
@@ -102,7 +102,7 @@ Menampilkan file dan folder yang disimpan di direktori Dokumen aplikasi dan iClo
 Menampilkan file yang terletak di perangkat Anda tetapi di aplikasi yang berbeda. Anda dapat mengimpornya ke aplikasi ini menggunakan pemilih file sistem. Untuk mengaktifkan pemilih, pilih **Buka File…** untuk memilih file atau **Buka Folder…** untuk memilih folder. Instruksi terperinci tentang cara mengimpor musik lokal yang tersimpan di iPhone atau Mac Anda tersedia [di sini](/docs/howto/how-to-play-local-music-stored-on-your-iphone-or-mac).
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox Folder Perangkat yang Terhubung" image="/docs/guide/flacbox/img/connected-device-folders.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox Folder Perangkat yang Terhubung" image="/docs/guide/flacbox/img/connected-device-folders.webp" >}}
 {{< /cards >}}
 
 Anda juga dapat menghubungkan folder yang terletak di perangkat Anda dan memiliki akses cepat ke kontennya. Gunakan item menu **Hubungkan Folder** dan pilih folder yang terletak di perangkat Anda. Ketuk **Selesai**, dan aplikasi membuat tautan ke folder tersebut dengan akses baca / tulis, memungkinkan Anda mengelola file langsung dari aplikasi ini. Untuk memutuskan koneksi folder yang terletak di perangkat Anda, ketuk tombol **Lebih banyak tindakan** dan pilih **Putuskan Koneksi**.
@@ -137,7 +137,7 @@ Jika Anda perlu mengedit beberapa file, aktifkan mode pemilihan dengan mengetuk 
 - **Hapus** — hapus file atau folder yang dipilih dari perangkat. **Tindakan ini tidak dapat dibalik.**
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox Mode Pemilihan File Lokal" image="/docs/guide/flacbox/img/local-files-selection-mode.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox Mode Pemilihan File Lokal" image="/docs/guide/flacbox/img/local-files-selection-mode.webp" >}}
 {{< /cards >}}
 
 ## Menu Opsi
@@ -161,7 +161,7 @@ Untuk setiap file atau folder di aplikasi, beberapa tindakan tersedia, dapat dia
 - **Hapus** — hapus file atau folder dari perangkat. **Tindakan ini tidak dapat dibalik** dan Anda tidak dapat memulihkan file yang dihapus.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox Lebih Banyak Tindakan untuk File Lokal" image="/docs/guide/flacbox/img/local-files-more-actions-for-file.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox Lebih Banyak Tindakan untuk File Lokal" image="/docs/guide/flacbox/img/local-files-more-actions-for-file.webp" >}}
 {{< /cards >}}
 
 ## Folder Offline

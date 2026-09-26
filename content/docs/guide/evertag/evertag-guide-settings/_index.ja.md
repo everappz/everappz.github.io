@@ -21,7 +21,7 @@ readingTime: 14
 - **法律とプライバシー** — 利用規約、プライバシーポリシー、法的通知、分析とデータ収集
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evertag設定画面" image="/docs/guide/evertag/img/settings.webp" >}}
+  {{< ls-card title="" subtitle="Evertag設定画面" image="/docs/guide/evertag/img/settings.webp" >}}
 {{< /cards >}}
 
 ## プレミアムへアップグレード
@@ -63,7 +63,7 @@ readingTime: 14
 ファイルマネージャーは接続されたクラウドストレージアカウントへのアクセスをサポートし、複数ファイルの迅速な管理のためのバッチ操作を提供します。
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evertag設定ファイルマネージャー画面" image="/docs/guide/evertag/img/settings-file-manager.webp" >}}
+  {{< ls-card title="" subtitle="Evertag設定ファイルマネージャー画面" image="/docs/guide/evertag/img/settings-file-manager.webp" >}}
 {{< /cards >}}
 
 ### ファイル転送
@@ -103,7 +103,7 @@ readingTime: 14
 このセクションでは、組み込みのオーディオタグエディタを設定できます。
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evertag設定タグエディタ画面" image="/docs/guide/evertag/img/settings-tag-editor.webp" >}}
+  {{< ls-card title="" subtitle="Evertag設定タグエディタ画面" image="/docs/guide/evertag/img/settings-tag-editor.webp" >}}
 {{< /cards >}}
 
 ### アルバムカバースケーリング
@@ -136,7 +136,7 @@ readingTime: 14
 このセクションでは、好みに合わせてユーザーインターフェースの設定をカスタマイズできます。
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evertag設定パーソナライズ画面" image="/docs/guide/evertag/img/settings-personalization.webp" >}}
+  {{< ls-card title="" subtitle="Evertag設定パーソナライズ画面" image="/docs/guide/evertag/img/settings-personalization.webp" >}}
 {{< /cards >}}
 
 ### アプリアイコン

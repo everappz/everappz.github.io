@@ -7,7 +7,7 @@ tags: ["muzică", "fișiere", "usb", "flash", "extern", "ixpand", "redare", "car
 readingTime: 2
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **Rezumat:** Conectați un stick USB sau un card SD la iPhone folosind un adaptor Apple sau o unitate SanDisk iXpand, apoi utilizați Evermusic, Flacbox sau Evertag pentru a naviga, reda și gestiona fișierele audio direct de pe stocarea externă.
@@ -72,18 +72,18 @@ Bucurați-vă de libertatea de a accesa și gestiona muzica fără efort cu ace�
 
 ## Întrebări frecvente
 
-{{% details title="Ce adaptoare USB funcționează cu iPhone pentru redarea muzicii?" closed="true" %}}
+{{% ls-details title="Ce adaptoare USB funcționează cu iPhone pentru redarea muzicii?" closed="true" %}}
 Atât Lightning to SD Card Camera Reader, cât și Lightning to USB 3 Camera Adapter de la Apple funcționează. Adaptoarele USB-C funcționează pe iPhone-urile mai noi cu porturi USB-C. Unitățile SanDisk iXpand Flash (V1-V7) sunt, de asemenea, suportate nativ de Evermusic, Flacbox și Evertag.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Pot reda muzica direct de pe unitatea USB fără a copia fișierele?" closed="true" %}}
+{{% ls-details title="Pot reda muzica direct de pe unitatea USB fără a copia fișierele?" closed="true" %}}
 Da. Cu unitățile SanDisk iXpand, puteți reda muzica direct de pe unitate fără a copia fișierele pe iPhone. Când folosiți adaptoare Apple, fișierele sunt importate, dar puteți alege dacă le copiați în stocarea locală.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Ce formate audio sunt suportate de pe unitățile USB?" closed="true" %}}
+{{% ls-details title="Ce formate audio sunt suportate de pe unitățile USB?" closed="true" %}}
 Evermusic și Flacbox suportă o gamă largă de formate, inclusiv FLAC, MP3, AAC, WAV, ALAC, OGG, WMA și altele. Toate formatele suportate funcționează la redarea de pe stocarea USB.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="SanDisk iXpand-ul meu afișează o eroare 'ocupat'. Ce ar trebui să fac?" closed="true" %}}
+{{% ls-details title="SanDisk iXpand-ul meu afișează o eroare 'ocupat'. Ce ar trebui să fac?" closed="true" %}}
 O altă aplicație poate accesa unitatea. Închideți toate celelalte aplicații care ar putea folosi stick-ul sau deconectați-l și reintroduceți-l. Apoi redeschideți Evermusic, Flacbox sau Evertag.
-{{% /details %}}
+{{% /ls-details %}}

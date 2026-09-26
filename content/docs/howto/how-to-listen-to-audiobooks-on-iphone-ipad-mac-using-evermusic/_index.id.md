@@ -7,7 +7,7 @@ tags: ["buku audio", "pemutaran", "offline", "evermusic", "penanda halaman"]
 readingTime: 5
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **Ringkasan:** Evermusic juga berfungsi sebagai pemutar buku audio berfitur lengkap di iOS dan macOS. Transfer buku audio melalui iTunes, WiFi, atau penyimpanan cloud, lalu gunakan kontrol kecepatan pemutaran, tombol lompat waktu, penanda audio, lanjutkan pemutaran, dan unduhan offline untuk pengalaman mendengarkan yang mulus.
@@ -151,26 +151,26 @@ Selamat mendengarkan!
 
 ## Pertanyaan yang Sering Diajukan
 
-{{% details title="Format buku audio apa yang didukung Evermusic?" closed="true" %}}
+{{% ls-details title="Format buku audio apa yang didukung Evermusic?" closed="true" %}}
 Evermusic mendukung MP3, M4A, M4B, FLAC, WAV, AIFF, OGG, dan format audio umum lainnya. File audio apa pun yang dapat diputar di Evermusic berfungsi sebagai buku audio.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Bisakah saya mendengarkan buku audio dari penyimpanan cloud?" closed="true" %}}
+{{% ls-details title="Bisakah saya mendengarkan buku audio dari penyimpanan cloud?" closed="true" %}}
 Ya. Evermusic terhubung ke iCloud Drive, Google Drive, Dropbox, OneDrive, Box, dan server WebDAV. Anda dapat streaming buku audio secara langsung atau mengunduhnya untuk mendengarkan offline.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Apakah penanda saya akan ditransfer ke perangkat baru?" closed="true" %}}
+{{% ls-details title="Apakah penanda saya akan ditransfer ke perangkat baru?" closed="true" %}}
 Ya. Evermusic menyimpan penanda audio di metadata file, sehingga ditransfer secara otomatis saat Anda memindahkan file ke perangkat baru.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Apakah Evermusic mengingat di mana saya berhenti mendengarkan?" closed="true" %}}
+{{% ls-details title="Apakah Evermusic mengingat di mana saya berhenti mendengarkan?" closed="true" %}}
 Ya. Aktifkan "Simpan Posisi Pemutaran" dan "Simpan Status Pemutar Audio" di Pengaturan > Pemutar Audio > Umum. Aplikasi menyimpan dan memulihkan posisi tepat Anda di antara sesi.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Bisakah saya menyesuaikan kecepatan pemutaran buku audio?" closed="true" %}}
+{{% ls-details title="Bisakah saya menyesuaikan kecepatan pemutaran buku audio?" closed="true" %}}
 Ya. Pergi ke Pengaturan > Pemutar Audio > Kecepatan Pemutaran untuk mengatur kecepatan yang Anda sukai. Anda dapat mempercepat atau memperlambat narasi sesuai preferensi mendengarkan Anda.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Bagaimana cara mentransfer buku audio ke Evermusic?" closed="true" %}}
+{{% ls-details title="Bagaimana cara mentransfer buku audio ke Evermusic?" closed="true" %}}
 Anda dapat mentransfer file melalui berbagi file iTunes/Finder, WiFi Drive (bawaan aplikasi), atau dengan menghubungkan akun penyimpanan cloud di dalam Evermusic.
-{{% /details %}}
+{{% /ls-details %}}

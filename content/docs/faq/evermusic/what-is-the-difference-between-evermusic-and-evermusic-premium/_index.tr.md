@@ -62,7 +62,7 @@ Mavi ile kırmızı arasındaki fark **App Store'da nasıl paketlendikleri**, he
 
 ### App Store'dan İndirin
 
-{{< app-details ids="885367198, 905746421, 1564384601" >}}
+{{< ls-app-details ids="885367198, 905746421, 1564384601" >}}
 
 ### App Store paketlemesi
 
@@ -142,7 +142,7 @@ Mavi ile kırmızı arasındaki fark **App Store'da nasıl paketlendikleri**, he
 
 ## Sıkça Sorulan Sorular
 
-{{% details title="Evermusic Pro'yu (veya Premium'u) eski bir Apple Hesabıyla satın aldım. Bunu yeni bir Apple Hesabına aktarabilir miyim?" closed="true" %}}
+{{% ls-details title="Evermusic Pro'yu (veya Premium'u) eski bir Apple Hesabıyla satın aldım. Bunu yeni bir Apple Hesabına aktarabilir miyim?" closed="true" %}}
 Apple'ın resmi belgelerine göre, başka bir Apple Hesabından yapılan satın almalar, hesapların aynı Aile Paylaşımı grubu içinde uygun şekilde yapılandırılmış olması koşuluyla Aile Paylaşımı / Satın Alma Paylaşımı aracılığıyla paylaşılabilir.
 
 Evermusic Pro, eski Apple Hesabınız kullanılarak satın alındıysa, Apple bu hesabı Satın Alma Paylaşımı için ikincil bir Apple Hesabı olarak kullanma seçeneği sunar.
@@ -202,30 +202,30 @@ Bu nedenle, Apple Aile Paylaşımı'nı eski hesapla yapılandırmak zahmetliyse
 Apple Aile Paylaşımı, Satın Alma Paylaşımı, Apple Hesapları ve App Store satın alma geçmişinin tamamen Apple tarafından yönetildiğini lütfen unutmayın. Kullanıcıların Apple Hesaplarına erişimimiz yoktur ve App Store satın almalarını bir Apple Hesabından diğerine kendi tarafımızdan aktaramayız.
 
 Özellikle Aile Paylaşımı ile veya eski Apple Hesabınızla yapılan satın almaya erişme konusunda herhangi bir sorun yaşarsanız, Apple Destek'in hesapların yapılandırmasını kontrol etmesi gerekecektir.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Evermusic Free'yi (mavi) zaten Premium'a yükselttim. Ayrıca Evermusic Pro'ya (kırmızı) da ihtiyacım var mı?" closed="true" %}}
+{{% ls-details title="Evermusic Free'yi (mavi) zaten Premium'a yükselttim. Ayrıca Evermusic Pro'ya (kırmızı) da ihtiyacım var mı?" closed="true" %}}
 Hayır. Evermusic Pro (kırmızı simge), Premium'un zaten açıldığı Evermusic Free (mavi simge) ile aynı uygulamadır. Mavi uygulamayı zaten Premium'a yükselttiyseniz, Pro'nun sunduğu her şeye sahipsiniz, bu nedenle kırmızı uygulamayı yüklemenize veya satın almanıza gerek yoktur.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Aile Paylaşımı destekleniyor mu ve satın almamı kaç kişi kullanabilir?" closed="true" %}}
+{{% ls-details title="Aile Paylaşımı destekleniyor mu ve satın almamı kaç kişi kullanabilir?" closed="true" %}}
 Evet. Aile Paylaşımı, tüm Evermusic satın almaları ve abonelikleriyle çalışır; böylece Premium'u en fazla beş aile üyesiyle paylaşabilirsiniz. Aygıtınızda Ayarlar → Aile bölümünden Satın Alma Paylaşımı'nı açın. Her aile üyesi uygulamayı kendi Apple Hesabıyla indirir ve otomatik olarak Premium'u alır.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="iPhone'umda Premium'a yükselttim, ancak Mac'im hâlâ ücretsiz sürümü gösteriyor. Bunu nasıl düzeltebilirim?" closed="true" %}}
+{{% ls-details title="iPhone'umda Premium'a yükselttim, ancak Mac'im hâlâ ücretsiz sürümü gösteriyor. Bunu nasıl düzeltebilirim?" closed="true" %}}
 Premium, iCloud aracılığıyla iPhone ve Mac arasında paylaşılır. Öncelikle, her iki aygıtın da aynı Apple Hesabını kullandığından ve iCloud'un açık olduğundan emin olun. iPhone'unuzda Evermusic'in en son sürümünü açın ve satın almanızın iCloud'a yüklenmesi için yaklaşık bir dakika bekleyin. Ayrıca Ayarlar bölümünden Satın Almaları Geri Yükle'ye dokunabilirsiniz. Ardından Mac'inizde en son sürümü açın, internete bağlanın ve yaklaşık bir dakika bekleyin. Premium kendiliğinden açılmalıdır.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Yeni bir aygıtta satın almamı nasıl geri yüklerim?" closed="true" %}}
+{{% ls-details title="Yeni bir aygıtta satın almamı nasıl geri yüklerim?" closed="true" %}}
 Uygulamada Ayarlar'ı açın ve Satın Almaları Geri Yükle'ye dokunun. Satın almalarınızı göreceksiniz ve Premium yeniden açılacaktır. Bir satın alma eksikse, aygıtın satın aldığınız aynı Apple Hesabını kullandığından ve iCloud'un açık olduğundan emin olun.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Evermusic Pro'yu (kırmızı) yüklersem, Evermusic Free'de (mavi) Premium'u açar mı?" closed="true" %}}
+{{% ls-details title="Evermusic Pro'yu (kırmızı) yüklersem, Evermusic Free'de (mavi) Premium'u açar mı?" closed="true" %}}
 Evet. Bir aygıta kırmızı Evermusic Pro'yu yüklerseniz, aynı aygıttaki mavi Evermusic Free bunu algılar ve Premium'u otomatik olarak açar. Mavi uygulamada Premium'u tekrar satın almanız gerekmez. Yalnızca kırmızı uygulamayı yüklü tutmanız yeterlidir.
 
 Bunun tersi geçerli değildir. Mavi uygulama içinde Premium satın almak, kırmızı Evermusic Pro'yu ücretsiz yapmaz, çünkü bunlar App Store'da ayrı uygulamalardır. Mavi uygulamalardaki satın almalar, mavi iPhone uygulaması ile mavi Mac uygulaması arasında iCloud aracılığıyla senkronize edilir.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Premium'u bir Intel Mac'te kullanabilir miyim?" closed="true" %}}
+{{% ls-details title="Premium'u bir Intel Mac'te kullanabilir miyim?" closed="true" %}}
 Evet. Mavi Evermusic Free uygulamasını kullanın ve Premium'a yükseltin. Mavi Mac uygulaması hem Apple Silicon hem de Intel Mac'lerde çalışır. Kırmızı Evermusic Pro yalnızca Apple Silicon Mac'lerde (M1 ve sonrası) çalışır ve Intel Mac'lere yüklenemez.
-{{% /details %}}
+{{% /ls-details %}}

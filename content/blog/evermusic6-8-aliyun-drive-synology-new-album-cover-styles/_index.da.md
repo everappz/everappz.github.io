@@ -12,7 +12,7 @@ authors:
     image: "/images/about/artem-meleshko-founder-everappz.webp"
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 **Resumé:** Evermusic 6.8 tilføjer Aliyun Drive og Synology NAS integration (med QuickConnect), seks nye album cover scroll-effekter, en minimal fuldskærmsafspiller, drag-and-drop filhåndtering og hurtigere indlæsning af albumkunst. Tilgængelig nu til iOS og macOS.
 
@@ -77,18 +77,18 @@ Evermusic 6.8 fokuserer på tre områder: bredere cloud-kompatibilitet (Aliyun D
 
 ## Ofte stillede spørgsmål
 
-{{% details title="Hvordan forbinder jeg Synology NAS til Evermusic?" closed="true" %}}
+{{% ls-details title="Hvordan forbinder jeg Synology NAS til Evermusic?" closed="true" %}}
 Gå til fanen Forbindelser, vælg Synology, og indtast dit QuickConnectID. Evermusic forbinder direkte uden behov for IP-adresser eller VPN-opsætning.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Er Aliyun Drive gratis at bruge med Evermusic?" closed="true" %}}
+{{% ls-details title="Er Aliyun Drive gratis at bruge med Evermusic?" closed="true" %}}
 Ja. Hvis du har en Aliyun Drive konto, kan du forbinde den til Evermusic uden yderligere omkostninger. Lagringsgrænser afhænger af dit Aliyun Drive abonnement.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Kan jeg tilpasse album cover scroll-stilen?" closed="true" %}}
+{{% ls-details title="Kan jeg tilpasse album cover scroll-stilen?" closed="true" %}}
 Ja. Gå til Settings > Audio Player > Personalization > Album Covers Scrolling Style og vælg mellem seks muligheder: MacDoc, Linear, Rotary, Inverted Rotary, Cylinder eller CoverFlow.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Fungerer den minimale afspillerskærm med alle enheder?" closed="true" %}}
+{{% ls-details title="Fungerer den minimale afspillerskærm med alle enheder?" closed="true" %}}
 Ja. Fuldskærms album cover stilen er tilgængelig på alle understøttede iPhones, iPads og Macs med Evermusic 6.8 eller nyere.
-{{% /details %}}
+{{% /ls-details %}}

@@ -11,7 +11,7 @@ readingTime: 3
 Evervideo tarjoaa sekä ilmaisversion tietyillä käyttörajoituksilla että premium-version lisäominaisuuksilla, jotka voidaan avata sovelluksen sisäisten ostojen kautta.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Päivitä oletussuunnitelmaa -näyttö" image="/docs/faq/evervideo/what-is-the-difference-between-evervideo-and-evervideo-premium/upgrade-default.webp" >}}
+  {{< ls-card title="" subtitle="Päivitä oletussuunnitelmaa -näyttö" image="/docs/faq/evervideo/what-is-the-difference-between-evervideo-and-evervideo-premium/upgrade-default.webp" >}}
 {{< /cards >}}
 
 ## Valitse Premium-suunnitelmasi
@@ -19,7 +19,7 @@ Evervideo tarjoaa sekä ilmaisversion tietyillä käyttörajoituksilla että pre
 Sovelluksen ilmaisversiossa on kertamaksullinen elinikäinen sovelluksen sisäinen osto ja kaksi tilausvaihtoehtoa (1 kuukausi ja 1 vuosi) kaikkien rajoitusten poistamiseksi ja Premium-versioon päivittämiseksi, jolloin voit valita itsellesi parhaan ja optimaalisimman hinnan. Hinnat voivat vaihdella maasi tai alueesi mukaan. Muista myös, että **Family Sharing** on käytössä kaikissa ostoissa ja suunnitelmissa, joten voit jakaa Premium-version perheenjäsentesi kanssa.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evervideo-suunnitelman valintanäyttö" image="/docs/faq/evervideo/what-is-the-difference-between-evervideo-and-evervideo-premium/plan-select.webp" >}}
+  {{< ls-card title="" subtitle="Evervideo-suunnitelman valintanäyttö" image="/docs/faq/evervideo/what-is-the-difference-between-evervideo-and-evervideo-premium/plan-select.webp" >}}
 {{< /cards >}}
 
 ## Ostojen jakaminen iOS:n ja Macin välillä
@@ -31,13 +31,13 @@ Voit myös yrittää painaa 'Palauta ostot' -painiketta sovelluksen asetuksissa.
 Palauttaaksesi ostoksesi uudella laitteella käytä vain 'Palauta ostot' -valikkoa. Näet luettelon ostoksistasi. Jos et näe kaikkia ostoksiasi, tarkista onko laite yhdistetty samaan iTunes-tiliin, jota käytettiin ostoihin, ja varmista, että iCloud on käytössä.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Ostos palautettu -näyttö" image="/docs/faq/evervideo/what-is-the-difference-between-evervideo-and-evervideo-premium/purchase-restored.webp" >}}
+  {{< ls-card title="" subtitle="Ostos palautettu -näyttö" image="/docs/faq/evervideo/what-is-the-difference-between-evervideo-and-evervideo-premium/purchase-restored.webp" >}}
 {{< /cards >}}
 
 Kun päivität sovelluksesi, näet Premium-tilanäytön nykyisten ostostesi yksityiskohdilla.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Käytät Premiumia -näyttö" image="/docs/faq/evervideo/what-is-the-difference-between-evervideo-and-evervideo-premium/you-are-using-premium.webp" >}}
+  {{< ls-card title="" subtitle="Käytät Premiumia -näyttö" image="/docs/faq/evervideo/what-is-the-difference-between-evervideo-and-evervideo-premium/you-are-using-premium.webp" >}}
 {{< /cards >}}
 
 ## Kokeile Premiumia ilmaiseksi
@@ -45,7 +45,7 @@ Kun päivität sovelluksesi, näet Premium-tilanäytön nykyisten ostostesi yksi
 Lisäksi on rajoitetun ajan mahdollisuus '**Kokeilla Premiumia ilmaiseksi**'. Voit käyttää tätä ominaisuutta 'Kokeile Premiumia ilmaiseksi' -valikon kautta. Katsomalla mainoksen tai kertomalla sovelluksesta ystävillesi voit avata Premium-version ilmaiseksi tämän kampanja-ajan. Tämä antaa sinulle mahdollisuuden kokea premium-ominaisuuksia ilman taloudellista sitoutumista.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Kokeile Premiumia ilmaiseksi -näyttö" image="/docs/faq/evervideo/what-is-the-difference-between-evervideo-and-evervideo-premium/premium-for-free.webp" >}}
+  {{< ls-card title="" subtitle="Kokeile Premiumia ilmaiseksi -näyttö" image="/docs/faq/evervideo/what-is-the-difference-between-evervideo-and-evervideo-premium/premium-for-free.webp" >}}
 {{< /cards >}}
 
 ## Evervideo Free
@@ -62,7 +62,7 @@ Lisäksi on rajoitetun ajan mahdollisuus '**Kokeilla Premiumia ilmaiseksi**'. Vo
 - Ei mukauttamis- tai personointivaihtoehtoja.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Päivitä pilvisäilytys -näyttö" image="/docs/faq/evervideo/what-is-the-difference-between-evervideo-and-evervideo-premium/upgrade-cloud-storage.webp" >}}
+  {{< ls-card title="" subtitle="Päivitä pilvisäilytys -näyttö" image="/docs/faq/evervideo/what-is-the-difference-between-evervideo-and-evervideo-premium/upgrade-cloud-storage.webp" >}}
 {{< /cards >}}
 
 ## Evervideo Premium
@@ -106,7 +106,7 @@ Jos olet juuri aloittamassa tai tarvitset vain perustason videotoisto-ominaisuuk
 Toisaalta **Evervideo Premium** avaa täyden kokemuksen. Nautit mainoksettomasta käyttöliittymästä, rajattomasta soittolista- ja jonotuesta, täydestä offline-toiminnallisuudesta, pilvifleksibilisyydestä ja edistyneistä vienti- ja personointivaihtoehdoista. Se on paras vaihtoehto käyttäjille, joilla on suuria videokirjastoja, niille, jotka katsovat sisältöä useista lähteistä tai kaikille, jotka etsivät ammatillisempaa ja sujuvampaa mediasoitinta.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Olet ostanut Premiumin -näyttö" image="/docs/faq/evervideo/what-is-the-difference-between-evervideo-and-evervideo-premium/you-have-purchased-premium.webp" >}}
+  {{< ls-card title="" subtitle="Olet ostanut Premiumin -näyttö" image="/docs/faq/evervideo/what-is-the-difference-between-evervideo-and-evervideo-premium/you-have-purchased-premium.webp" >}}
 {{< /cards >}}
 
 Jos etsit joustavuutta, kokeile **kuukausittaista suunnitelmaa**. Pitkän aikavälin arvon saavuttamiseksi valitse **vuosittainen** tai **elinikäinen** päivitys — molemmat tarjoavat täyden pääsyn parempaan hintaan.

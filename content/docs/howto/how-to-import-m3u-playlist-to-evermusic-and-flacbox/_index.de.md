@@ -7,7 +7,7 @@ tags: ["evermusic", "importieren", "Wiedergabelisten", "m3u", "cue"]
 readingTime: 3
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **Zusammenfassung:** Evermusic und Flacbox unterstützen den Import von M3U-, M3U8- und CUE-Wiedergabelistendateien aus Cloud-Speicher, lokalen App-Dateien oder Ihrem Gerät. Gehen Sie zu Wiedergabelisten > Mehr > Wiedergabeliste importieren, wählen Sie eine Quelle, wählen Sie Ihre Datei, und die App erstellt Ihre Wiedergabeliste automatisch.
@@ -84,22 +84,22 @@ Außerdem können Sie mehrere Wiedergabelisten gleichzeitig importieren, indem S
 
 ## Häufig gestellte Fragen
 
-{{% details title="Welche Wiedergabelistenformate unterstützen Evermusic und Flacbox?" closed="true" %}}
+{{% ls-details title="Welche Wiedergabelistenformate unterstützen Evermusic und Flacbox?" closed="true" %}}
 Beide Apps unterstützen die Dateiformate M3U, M3U8 und CUE für Wiedergabelisten. Diese decken die gängigsten Wiedergabelistenstandards ab, die von Musikplayern und Mediensoftware verwendet werden.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Kann ich Wiedergabelisten aus Cloud-Speicher importieren?" closed="true" %}}
+{{% ls-details title="Kann ich Wiedergabelisten aus Cloud-Speicher importieren?" closed="true" %}}
 Ja. Sie können Wiedergabelistendateien von jedem verbundenen Cloud-Speicherdienst importieren, einschließlich Google Drive, Dropbox, OneDrive und WebDAV-Server.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Warum fehlen nach dem Import einige Titel?" closed="true" %}}
+{{% ls-details title="Warum fehlen nach dem Import einige Titel?" closed="true" %}}
 Die Wiedergabelistendatei muss korrekte Pfade zu Ihren Mediendateien enthalten, und diese Dateien müssen an den angegebenen Speicherorten in Ihrem Speicher vorhanden sein. Überprüfen Sie, ob die Dateipfade in Ihrer M3U- oder CUE-Datei mit den tatsächlichen Dateispeicherorten übereinstimmen.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Kann ich mehrere Wiedergabelisten gleichzeitig importieren?" closed="true" %}}
+{{% ls-details title="Kann ich mehrere Wiedergabelisten gleichzeitig importieren?" closed="true" %}}
 Ja. Verwenden Sie die Schaltfläche Weitere Aktionen und wählen Sie "Wiedergabelisten aus einem Ordner importieren". Die App durchsucht den Ordner nach allen unterstützten Wiedergabelistendateien und importiert sie in einem Schritt.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Muss ich Wiedergabelisten manuell erstellen?" closed="true" %}}
+{{% ls-details title="Muss ich Wiedergabelisten manuell erstellen?" closed="true" %}}
 Nein. Die Importfunktion macht das manuelle Erstellen von Wiedergabelisten überflüssig. Verweisen Sie die App einfach auf Ihre vorhandene M3U-, M3U8- oder CUE-Datei, und sie erstellt die Wiedergabeliste automatisch.
-{{% /details %}}
+{{% /ls-details %}}

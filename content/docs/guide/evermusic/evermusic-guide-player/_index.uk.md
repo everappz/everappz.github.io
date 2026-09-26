@@ -17,7 +17,7 @@ readingTime: 11
 ## Доступ до плеєра
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Екран аудіоплеєра Evermusic" image="/docs/guide/evermusic/evermusic-guide-player/img/player-main.webp" >}}
+  {{< ls-card title="" subtitle="Екран аудіоплеєра Evermusic" image="/docs/guide/evermusic/evermusic-guide-player/img/player-main.webp" >}}
 {{< /cards >}}
 
 Ви можете отримати доступ до повноекранного плеєра з міні-плеєра. На iPhone міні-плеєр знаходиться над панеллю вкладок на головному екрані. На iPad або Mac він доступний з лівого меню. Щоб сховати міні-плеєр, торкніться його значка та проведіть пальцем донизу. Щоб повністю приховати повноекранний плеєр, просто торкніться кнопки закриття в правому нижньому куті.
@@ -44,7 +44,7 @@ readingTime: 11
 ## Керування гучністю
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Керування гучністю з AirPlay та Google Cast" image="/docs/guide/evermusic/evermusic-guide-player/img/player-volume-control.webp" >}}
+  {{< ls-card title="" subtitle="Керування гучністю з AirPlay та Google Cast" image="/docs/guide/evermusic/evermusic-guide-player/img/player-volume-control.webp" >}}
 {{< /cards >}}
 
 Знайдіть повзунок гучності на екрані налаштувань звуку, торкнувшись значка звуку під елементами керування відтворенням. Ви можете змінювати гучність за допомогою цього повзунка або стандартних кнопок гучності на пристрої. Крім того, ви знайдете зручні кнопки потокового передавання:
@@ -63,7 +63,7 @@ readingTime: 11
 ## Аудіоеквалайзер
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="10-смуговий аудіоеквалайзер" image="/docs/guide/evermusic/evermusic-guide-player/img/player-equalizer.webp" >}}
+  {{< ls-card title="" subtitle="10-смуговий аудіоеквалайзер" image="/docs/guide/evermusic/evermusic-guide-player/img/player-equalizer.webp" >}}
 {{< /cards >}}
 
 Evermusic оснащений 10-смуговим еквалайзером з пресетами у стилі iPod, попереднім підсилювачем та ручними налаштуваннями еквалайзера. Щоб активувати еквалайзер, просто торкніться кнопки «Еквалайзер» на нижній панелі інструментів і перемкніть вимикач у правому верхньому куті. Ви можете вибирати з ряду попередньо визначених пресетів еквалайзера, таких як «Акустика», «Підсилення басів», «Класика» та інших. Якщо ви цінитель звуку, ви оціните можливість тонкого налаштування кожної частотної смуги за допомогою повзунків. Ви можете створювати та зберігати власні пресети аудіоеквалайзера. Якщо доріжка недостатньо гучна, ви також можете відрегулювати підсилення попереднього підсилювача. Детальні інструкції щодо використання еквалайзера доступні [тут](/docs/howto/how-to-use-the-audio-equalizer-on-your-iphone-ipad-mac-with-evermusic-and-flacbox).
@@ -71,7 +71,7 @@ Evermusic оснащений 10-смуговим еквалайзером з п�
 ## Панель інструментів режиму плеєра
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Верхня панель інструментів плеєра з пошуком і швидкістю" image="/docs/guide/evermusic/evermusic-guide-player/img/player-top-toolbar.webp" >}}
+  {{< ls-card title="" subtitle="Верхня панель інструментів плеєра з пошуком і швидкістю" image="/docs/guide/evermusic/evermusic-guide-player/img/player-top-toolbar.webp" >}}
 {{< /cards >}}
 
 Для деяких стилів екрана плеєра ви знайдете панель інструментів режиму плеєра у верхній частині екрана плеєра, прямо під навігаційною панеллю. Ця зручна панель інструментів містить три кнопки.
@@ -82,7 +82,7 @@ Evermusic оснащений 10-смуговим еквалайзером з п�
 ## Аудіозакладки
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Аудіозакладки для аудіокниг і лекцій" image="/docs/guide/evermusic/evermusic-guide-player/img/player-bookmarks.webp" >}}
+  {{< ls-card title="" subtitle="Аудіозакладки для аудіокниг і лекцій" image="/docs/guide/evermusic/evermusic-guide-player/img/player-bookmarks.webp" >}}
 {{< /cards >}}
 
 Тут ви можете створювати кілька закладок для доріжок у своїй музичній бібліотеці. Повна інструкція щодо використання закладок доступна [тут](/docs/howto/how-to-listen-to-audiobooks-on-iphone-ipad-mac-using-evermusic).
@@ -90,7 +90,7 @@ Evermusic оснащений 10-смуговим еквалайзером з п�
 ## Черга плеєра
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Черга плеєра" image="/docs/guide/evermusic/evermusic-guide-player/img/player-queue.webp" >}}
+  {{< ls-card title="" subtitle="Черга плеєра" image="/docs/guide/evermusic/evermusic-guide-player/img/player-queue.webp" >}}
 {{< /cards >}}
 
 Щоб отримати доступ до черги плеєра, просто торкніться кнопки черги плеєра на нижній панелі інструментів. Щоб перемістити пісню в черзі, використовуйте індикатор зміни порядку біля назви.
@@ -98,7 +98,7 @@ Evermusic оснащений 10-смуговим еквалайзером з п�
 ## Коментарі / Тексти пісень
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Коментарі, вбудовані тексти пісень і файли LRC" image="/docs/guide/evermusic/evermusic-guide-player/img/player-lyrics.webp" >}}
+  {{< ls-card title="" subtitle="Коментарі, вбудовані тексти пісень і файли LRC" image="/docs/guide/evermusic/evermusic-guide-player/img/player-lyrics.webp" >}}
 {{< /cards >}}
 
 Щоб переглядати коментарі до доріжок, вбудовані тексти пісень та файли LRC, виконайте такі кроки:
@@ -114,7 +114,7 @@ Evermusic оснащений 10-смуговим еквалайзером з п�
 ## Меню параметрів
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Меню параметрів для елемента черги" image="/docs/guide/evermusic/evermusic-guide-player/img/player-queue-item-options-menu.webp" >}}
+  {{< ls-card title="" subtitle="Меню параметрів для елемента черги" image="/docs/guide/evermusic/evermusic-guide-player/img/player-queue-item-options-menu.webp" >}}
 {{< /cards >}}
 
 Кожна пісня у вашій черзі аудіоплеєра має меню з додатковими діями, доступними через торкання кнопки з трьома крапками біля назви пісні. Доступні дії:
@@ -153,7 +153,7 @@ Evermusic оснащений 10-смуговим еквалайзером з п�
 ## Нещодавні та Улюблені
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Нещодавно відтворені пісні з плеєра" image="/docs/guide/evermusic/evermusic-guide-player/img/player-recents.webp" >}}
+  {{< ls-card title="" subtitle="Нещодавно відтворені пісні з плеєра" image="/docs/guide/evermusic/evermusic-guide-player/img/player-recents.webp" >}}
 {{< /cards >}}
 
 На екрані плеєра ви можете отримати доступ до розділів «Нещодавні» та «Улюблені», торкнувшись кнопки «Більше дій» «…» та вибравши відповідний пункт меню. В обох розділах ви можете шукати пісні, відтворювати всі доріжки, перемішувати всі доріжки, експортувати список та видалити список. Детальні інструкції щодо експорту списків пісень доступні [тут](/docs/howto/export-tracks-collection-from-evermusic-flacbox-to-m3u-csv-txt/).
@@ -161,7 +161,7 @@ Evermusic оснащений 10-смуговим еквалайзером з п�
 ## Вікно міні-плеєра (лише для Mac)
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Вікно міні-плеєра Mac" image="/docs/guide/evermusic/evermusic-guide-player/img/player-mini-mac.webp" >}}
+  {{< ls-card title="" subtitle="Вікно міні-плеєра Mac" image="/docs/guide/evermusic/evermusic-guide-player/img/player-mini-mac.webp" >}}
 {{< /cards >}}
 
 Для користувачів Mac є зручне вікно міні-плеєра. Щоб отримати до нього доступ, просто перемістіть курсор у правий нижній кут вікна програми та змініть розмір до мінімально можливого. Потім торкніться кнопки згортання (зображена як стрілка вниз), щоб активувати вікно міні-плеєра. Якщо ви хочете, щоб воно завжди знаходилося поверх інших вікон, перейдіть у верхнє меню вашого Mac, виберіть «Вікно» та оберіть «Завжди показувати вікно зверху». Ця функція особливо зручна, коли ви слухаєте аудіолекції та не хочете жодних перебоїв.
@@ -169,7 +169,7 @@ Evermusic оснащений 10-смуговим еквалайзером з п�
 ## Клавіатурні скорочення (лише для Mac)
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Меню відтворення в рядку стану Mac із клавіатурними скороченнями" image="/docs/guide/evermusic/evermusic-guide-player/img/player-mac-shortcuts.webp" >}}
+  {{< ls-card title="" subtitle="Меню відтворення в рядку стану Mac із клавіатурними скороченнями" image="/docs/guide/evermusic/evermusic-guide-player/img/player-mac-shortcuts.webp" >}}
 {{< /cards >}}
 
 Для користувачів Mac у рядку стану є системне меню відтворення з клавіатурними скороченнями. Наприклад, щоб відтворити/поставити на паузу, просто натисніть пробіл на клавіатурі. Також доступні скорочення для зупинки, наступної пісні, попередньої пісні, пропуску часу, повтору, перемішування та швидкості відтворення, як показано на скріншоті.
@@ -177,7 +177,7 @@ Evermusic оснащений 10-смуговим еквалайзером з п�
 ## Налаштування аудіоплеєра
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Налаштування аудіоплеєра" image="/docs/guide/evermusic/evermusic-guide-player/img/player-settings.webp" >}}
+  {{< ls-card title="" subtitle="Налаштування аудіоплеєра" image="/docs/guide/evermusic/evermusic-guide-player/img/player-settings.webp" >}}
 {{< /cards >}}
 
 Щоб отримати доступ до налаштувань аудіоплеєра, торкніться кнопки «Більше» на екрані аудіоплеєра та виберіть «Налаштування» з розкривного меню. Тут ви знайдете різні розділи, згруповані за функціональністю:

@@ -7,7 +7,7 @@ tags: ["google", "安全", "隱私", "應用程式", "帳戶", "存取"]
 readingTime: 2
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **摘要：** 前往 [myaccount.google.com](https://myaccount.google.com/) > 安全性 > 第三方應用程式和服務。點擊要移除的應用程式，然後選擇「移除存取權」或「刪除所有連結」。為每個應用程式重複此操作。
@@ -75,18 +75,18 @@ readingTime: 2
 
 ## 常見問題
 
-{{% details title="中斷應用程式連結會刪除我在該應用程式中的資料嗎？" closed="true" %}}
+{{% ls-details title="中斷應用程式連結會刪除我在該應用程式中的資料嗎？" closed="true" %}}
 不會。移除存取權只會阻止該應用程式今後存取您的Google帳戶。已與該應用程式共享的資料可能仍然存在於其伺服器上。請查看該應用程式自身的隱私設定以刪除這些資料。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="中斷連結後我可以重新連結應用程式嗎？" closed="true" %}}
+{{% ls-details title="中斷連結後我可以重新連結應用程式嗎？" closed="true" %}}
 可以。如果您再次需要該應用程式，只需在出現提示時使用Google登入即可。該應用程式將再次要求權限，您可以在授予存取權之前檢視這些權限。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="我應該多久檢視一次第三方應用程式的存取權？" closed="true" %}}
+{{% ls-details title="我應該多久檢視一次第三方應用程式的存取權？" closed="true" %}}
 每3-6個月檢視一次已連結的應用程式，或在停止使用某項服務後立即檢視。定期審查有助於保持帳戶安全。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="這會影響像Evermusic這樣連結到Google Drive的應用程式嗎？" closed="true" %}}
+{{% ls-details title="這會影響像Evermusic這樣連結到Google Drive的應用程式嗎？" closed="true" %}}
 會的。如果您將Evermusic或Flacbox等應用程式從Google帳戶中斷連結，它將失去對您Google Drive檔案的存取權。您可以隨時從應用程式內重新連結。
-{{% /details %}}
+{{% /ls-details %}}

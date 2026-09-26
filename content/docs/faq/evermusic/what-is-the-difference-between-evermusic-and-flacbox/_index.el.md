@@ -11,7 +11,7 @@ readingTime: 6
 
 **Σύντομη απάντηση:** επιλέξτε το **Evermusic** αν θέλετε την πιο ομαλή ακρόαση για κάθε χρήση, απρόσκοπτες μεταβάσεις με αναπαραγωγή χωρίς κενά και crossfade, και πρόσβαση στη βιβλιοθήκη Apple Music σας. Επιλέξτε το **Flacbox** αν είστε audiophile που θέλει βαθιά διαμόρφωση του ήχου (μια συστοιχία εφέ και μια αλυσίδα DSP), μια επιλέξιμη επαγγελματική μηχανή ήχου και μέγιστη κάλυψη μορφών υψηλής ανάλυσης και lossless, συμπεριλαμβανομένων των DSD, APE και WavPack.
 
-{{< app-details ids="885367198, 1097564256" >}}
+{{< ls-app-details ids="885367198, 1097564256" >}}
 
 ## Πίνακας Σύγκρισης Χαρακτηριστικών
 
@@ -129,38 +129,38 @@ readingTime: 6
 
 ## Συχνές Ερωτήσεις
 
-{{% details title="Ποια είναι η κύρια διαφορά μεταξύ του Evermusic και του Flacbox;" closed="true" %}}
+{{% ls-details title="Ποια είναι η κύρια διαφορά μεταξύ του Evermusic και του Flacbox;" closed="true" %}}
 Μοιράζονται την ίδια πλατφόρμα και τις ίδιες συνδέσεις, αλλά η πλευρά του ήχου διαφέρει. Το Evermusic λειτουργεί στο AVPlayer και το Core Audio της Apple και είναι το καθημερινό πρόγραμμα αναπαραγωγής με ευρεία υποστήριξη μορφών, με πραγματική αναπαραγωγή χωρίς κενά, crossfade, χωρικό ήχο και εισαγωγή βιβλιοθήκης Apple Music. Το Flacbox προσθέτει μια επαγγελματική μηχανή ήχου BASS™ και αποκωδικοποίηση FFmpeg, τα οποία φέρνουν μια αλυσίδα DSP 14 φίλτρων, περισσότερα εφέ σε πραγματικό χρόνο, αναπαραγωγή tracker/MOD και την ευρύτερη υποστήριξη μορφών υψηλής ανάλυσης και lossless, συμπεριλαμβανομένων των DSD, APE και WavPack.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Ποιο είναι καλύτερο, το Evermusic ή το Flacbox;" closed="true" %}}
+{{% ls-details title="Ποιο είναι καλύτερο, το Evermusic ή το Flacbox;" closed="true" %}}
 Κανένα δεν είναι απόλυτα καλύτερο· είναι ρυθμισμένα για διαφορετικούς ακροατές. Το Evermusic είναι καλύτερο για ομαλή, καθημερινή ακρόαση και για ανθρώπους που χρησιμοποιούν επίσης τη βιβλιοθήκη Apple Music τους, χάρη στην αναπαραγωγή χωρίς κενά, το crossfade και τον χωρικό ήχο. Το Flacbox είναι καλύτερο για audiophiles που θέλουν βαθιά διαμόρφωση του ήχου, μια επιλέξιμη επαγγελματική μηχανή ήχου και μέγιστη κάλυψη μορφών υψηλής ανάλυσης και lossless.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Χρησιμοποιεί το Evermusic το FFmpeg;" closed="true" %}}
+{{% ls-details title="Χρησιμοποιεί το Evermusic το FFmpeg;" closed="true" %}}
 Όχι. Το Evermusic αναπαράγει εξ ολοκλήρου μέσω της εγγενούς στοίβας ήχου της Apple, του AVPlayer και του Core Audio, με το Core Audio να χειρίζεται τα εφέ και την επεξεργασία του. Η αποκωδικοποίηση FFmpeg είναι χαρακτηριστικό του Flacbox, μαζί με την επιλέξιμη μηχανή BASS του Flacbox.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Διαθέτει το Flacbox αναπαραγωγή χωρίς κενά ή crossfade;" closed="true" %}}
+{{% ls-details title="Διαθέτει το Flacbox αναπαραγωγή χωρίς κενά ή crossfade;" closed="true" %}}
 Όχι. Η πραγματική αναπαραγωγή χωρίς κενά και το crossfade (1 έως 30 δευτερόλεπτα) είναι χαρακτηριστικά του Evermusic. Το Flacbox επικεντρώνεται αντ' αυτού στην αναπαραγωγή υψηλής ανάλυσης, σε μια επαγγελματική μηχανή BASS, σε μια συστοιχία εφέ και σε μια αλυσίδα DSP.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Ποια εφαρμογή είναι καλύτερη για FLAC, DSD και APE;" closed="true" %}}
+{{% ls-details title="Ποια εφαρμογή είναι καλύτερη για FLAC, DSD και APE;" closed="true" %}}
 Το Flacbox. Και οι δύο εφαρμογές αναπαράγουν FLAC, αλλά το Flacbox είναι ο ειδικός για υψηλή ανάλυση και lossless, με εγγενή υποστήριξη για FLAC, ALAC, DSD (DSF/DFF), APE, WavPack (WV), TTA, OPUS και άλλα μέσω του FFmpeg και της μηχανής BASS™. Προσφέρει επίσης πιο λεπτομερή έλεγχο εξόδου για κριτική ακρόαση.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Ποια εφαρμογή έχει περισσότερα εφέ ήχου και μια αλυσίδα DSP;" closed="true" %}}
+{{% ls-details title="Ποια εφαρμογή έχει περισσότερα εφέ ήχου και μια αλυσίδα DSP;" closed="true" %}}
 Το Flacbox. Το Evermusic έχει 6 εφέ (Reverb, Delay, Distortion, Compressor, Crossfeed και Κανονικοποίηση έντασης). Το Flacbox έχει 11 εφέ (προσθέτοντας Chorus, Flanger, Phaser, Auto-Wah, Stereo rotation και ένα Multi-tap echo) καθώς και μια αλυσίδα DSP 14 φίλτρων που φτιάχνετε μόνοι σας. Η αλυσίδα DSP είναι αποκλειστική του Flacbox.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Υποστηρίζουν και οι δύο εφαρμογές τις ίδιες υπηρεσίες cloud, διακομιστές πολυμέσων και CarPlay;" closed="true" %}}
+{{% ls-details title="Υποστηρίζουν και οι δύο εφαρμογές τις ίδιες υπηρεσίες cloud, διακομιστές πολυμέσων και CarPlay;" closed="true" %}}
 Ναι. Το Evermusic και το Flacbox συνδέονται με την ίδια αποθήκευση cloud (iCloud Drive, Google Drive, Dropbox, OneDrive, MEGA, pCloud, Internxt, Proton Drive και άλλα), τους ίδιους διακομιστές πολυμέσων (Plex, Subsonic, Navidrome, Jellyfin, Emby) και τα ίδια πρωτόκολλα υπολογιστή και NAS (SMB, WebDAV, FTP, SFTP, NFS, DLNA), με εγγενή υποστήριξη για QNAP, Synology, Nextcloud και WD My Cloud Home. Και τα δύο υποστηρίζουν επίσης Apple CarPlay, AirPlay και Google Chromecast.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Μπορεί το Evermusic να αναπαραγάγει τη βιβλιοθήκη Apple Music ή iTunes μου;" closed="true" %}}
+{{% ls-details title="Μπορεί το Evermusic να αναπαραγάγει τη βιβλιοθήκη Apple Music ή iTunes μου;" closed="true" %}}
 Ναι. Το Evermusic μπορεί να εισαγάγει και να αναπαραγάγει μουσική από τη βιβλιοθήκη Apple Music / iTunes σας, επιπλέον των πηγών cloud και δικτύου. Το Flacbox είναι σχεδιασμένο για τα δικά σας αρχεία από cloud, NAS και τοπική αποθήκευση, και δεν εισάγει τη βιβλιοθήκη Apple Music.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Μπορώ να χρησιμοποιήσω το Evermusic και το Flacbox μαζί;" closed="true" %}}
+{{% ls-details title="Μπορώ να χρησιμοποιήσω το Evermusic και το Flacbox μαζί;" closed="true" %}}
 Ναι, και πολλοί το κάνουν. Μια συνηθισμένη διαμόρφωση είναι το Evermusic για καθημερινή, απρόσκοπτη αναπαραγωγή και πρόσβαση στη βιβλιοθήκη Apple Music, και το Flacbox για κριτική ακρόαση υψηλής ανάλυσης με τη μηχανή BASS, τα εφέ και την αλυσίδα DSP. Και τα δύο διαβάζουν από τις ίδιες πηγές cloud και NAS, οπότε η βιβλιοθήκη σας είναι διαθέσιμη σε οποιαδήποτε από τις δύο εφαρμογές. Και τα δύο διατίθενται δωρεάν για λήψη με προαιρετικές αναβαθμίσεις Premium εντός της εφαρμογής.
-{{% /details %}}
+{{% /ls-details %}}

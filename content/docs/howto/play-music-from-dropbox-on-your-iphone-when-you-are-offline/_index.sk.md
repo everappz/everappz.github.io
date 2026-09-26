@@ -7,7 +7,7 @@ tags: ["cloud", "streamovanie", "iphone", "mp3", "úložisko", "dropbox"]
 keywords: ["prehrávanie hudby Dropbox iPhone", "offline hudba Dropbox iOS", "Evermusic Dropbox", "mp3 prehrávač cloud", "stream Dropbox audio", "správca súborov Evermusic", "Dropbox iOS audio"]
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **Zhrnutie:** Nahrajte hudbu do Dropboxu, nainštalujte bezplatnú aplikáciu Evermusic na iPhone, pripojte účet Dropbox a prehrávajte alebo sťahujte skladby na počúvanie offline. Evermusic podporuje MP3, FLAC, WAV, AAC a ďalšie formáty. Obsahuje 10-pásmový ekvalizér, prehrávače a správu súborov.
@@ -35,7 +35,7 @@ Evermusic je úplne zadarmo a dostupný pre iPhone aj iPad, kompatibilný so zar
 
 {{< cards cols="1">}}
 
-  {{< card title="Stiahnuť Evermusic" subtitle="Offline hudobný prehrávač a cloudový streamer pre iPhone a iPad." icon="download" link="https://itunes.apple.com/us/app/evermusic-offline-music/id885367198?mt=8" >}}
+  {{< ls-card title="Stiahnuť Evermusic" subtitle="Offline hudobný prehrávač a cloudový streamer pre iPhone a iPad." icon="download" link="https://itunes.apple.com/us/app/evermusic-offline-music/id885367198?mt=8" >}}
 
 {{< /cards >}}
 
@@ -67,26 +67,26 @@ Evermusic je tiež plnohodnotný správca súborov podporujúci základné oper�
 
 ## FAQ
 
-{{% details title="Môžem prehrávať hudbu z Dropboxu offline na iPhone?" closed="true" %}}
+{{% ls-details title="Môžem prehrávať hudbu z Dropboxu offline na iPhone?" closed="true" %}}
 Áno. Použite Evermusic na pripojenie Dropboxu a potom si stiahnite akúkoľvek skladbu alebo prehrávač na počúvanie offline. Stiahnuté súbory sú uložené na zariadení a prehrávajú sa bez pripojenia k internetu.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Je Evermusic zadarmo?" closed="true" %}}
+{{% ls-details title="Je Evermusic zadarmo?" closed="true" %}}
 Evermusic je zadarmo na stiahnutie so základnými funkciami vrátane ekvalizéra, cloudového streamovania a offline prehrávania. Bezplatná verzia podporuje až 3 cloudové pripojenia a 10 prehrávačov. Upgrade na Premium odstráni všetky obmedzenia.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Aké audio formáty podporuje Evermusic z Dropboxu?" closed="true" %}}
+{{% ls-details title="Aké audio formáty podporuje Evermusic z Dropboxu?" closed="true" %}}
 Evermusic prehráva MP3, FLAC, WAV, AAC, AIFF, OGG, WMA a mnoho ďalších formátov priamo z Dropboxu.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Môžem pripojiť viacero cloudových služieb?" closed="true" %}}
+{{% ls-details title="Môžem pripojiť viacero cloudových služieb?" closed="true" %}}
 Áno. Evermusic podporuje Dropbox, Google Drive, OneDrive, Box, WebDAV, SMB, MEGA a ďalšie. Môžete pripojiť neobmedzený počet účtov a prehliadať ich všetky v jednej knižnici.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Synchronizuje Evermusic prehrávače medzi zariadeniami?" closed="true" %}}
+{{% ls-details title="Synchronizuje Evermusic prehrávače medzi zariadeniami?" closed="true" %}}
 Prehrávače vytvorené v Evermusic sú uložené lokálne na zariadení. Vaše súbory na Dropboxe zostávajú synchronizované na všetkých zariadeniach prostredníctvom samotného Dropboxu.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Ako uvoľním úložisko iPhone pomocou hudby z Dropboxu?" closed="true" %}}
+{{% ls-details title="Ako uvoľním úložisko iPhone pomocou hudby z Dropboxu?" closed="true" %}}
 Presuňte hudobné súbory do Dropboxu a streamujte ich cez Evermusic namiesto ich ukladania na iPhone. Stiahnite iba skladby, ktoré potrebujete na počúvanie offline.
-{{% /details %}}
+{{% /ls-details %}}

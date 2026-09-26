@@ -23,7 +23,7 @@ readingTime: 16
 설정 화면은 Evervideo의 제어 센터입니다. 여기서 Premium으로 업그레이드하고, 비디오 및 오디오 엔진 (시스템 코덱 또는 FFmpeg)을 구성하고, 화면 속 화면을 관리하고, 자막 (기본, 보조, libass, 외부 파일, 폰트)을 설정하고, 미디어 라이브러리를 구성하고, 파일 관리자를 설정하고, 홈 화면 위젯을 활성화하고, 데이터를 백업하고, 도움말 및 법률 정보에 접근할 수 있습니다. 섹션은 구매 및 업데이트, 앱 기본 설정, 도움말, 법률 및 개인정보 보호 헤더로 그룹화됩니다.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evervideo 설정 메인 화면" image="/docs/guide/evervideo/img/evervideo-settings.webp" >}}
+  {{< ls-card title="" subtitle="Evervideo 설정 메인 화면" image="/docs/guide/evervideo/img/evervideo-settings.webp" >}}
 {{< /cards >}}
 
 ## Premium으로 업그레이드
@@ -31,13 +31,13 @@ readingTime: 16
 모든 제한을 제거하기 위해 애플리케이션을 Premium 버전으로 업그레이드하세요. 애플리케이션의 무료 버전은 모든 제한을 제거하고 Premium으로 업그레이드하기 위한 일회성 평생 인앱 구매와 두 가지 구독 옵션 (1개월 및 1년)을 제공합니다.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evervideo Premium으로 업그레이드" image="/docs/guide/evervideo/img/evervideo-upgrade-to-premium.webp" >}}
+  {{< ls-card title="" subtitle="Evervideo Premium으로 업그레이드" image="/docs/guide/evervideo/img/evervideo-upgrade-to-premium.webp" >}}
 {{< /cards >}}
 
 **Family Sharing**은 모든 구매 및 플랜에서 활성화되어 있어 최대 5명의 가족 구성원과 추가 비용 없이 Premium 버전을 공유할 수 있습니다.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evervideo Premium 플랜 선택" image="/docs/guide/evervideo/img/evervideo-select-premium-plan.webp" >}}
+  {{< ls-card title="" subtitle="Evervideo Premium 플랜 선택" image="/docs/guide/evervideo/img/evervideo-select-premium-plan.webp" >}}
 {{< /cards >}}
 
 ## iOS와 Mac 간 구매 공유
@@ -51,7 +51,7 @@ readingTime: 16
 새 기기에서 구매를 복원하려면 **구매 → 구매 복원** 메뉴를 사용하세요. 구매 목록이 표시됩니다. 모두 표시되지 않으면 기기가 구매에 사용된 것과 동일한 Apple ID에 연결되어 있는지 확인하고 iCloud가 활성화되어 있는지 확인하세요.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="설정에서 Evervideo 구매 메뉴" image="/docs/guide/evervideo/img/evervideo-purhases-menu-in-settings.webp" >}}
+  {{< ls-card title="" subtitle="설정에서 Evervideo 구매 메뉴" image="/docs/guide/evervideo/img/evervideo-purhases-menu-in-settings.webp" >}}
 {{< /cards >}}
 
 ## 무료로 Premium 체험

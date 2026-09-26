@@ -4,7 +4,9 @@ title: '文件'
 ---
 
 
-{{< lottie src="/images/juicy-json/juicy-girl-and-boy-searching-for-the-right-files.json" width="90%" >}}
+{{< ls-lottie src="/images/juicy-json/juicy-girl-and-boy-searching-for-the-right-files.json" width="90%" >}}
+
+{{< ls-docs-search >}}
 
 本節包含所有 Everappz 應用程式的實用文件——包括安裝說明、功能介紹和進階技巧。
 
@@ -13,9 +15,9 @@ title: '文件'
 ## 開始
 
 {{< cards >}}
-  {{< card icon="book-open" link="/docs/guide" title="使用者指南" >}}
-  {{< card icon="question-mark-circle" link="/docs/faq" title="常見問題解答" >}}
-  {{< card icon="light-bulb" link="/docs/howto" title="使用教學" >}}
+  {{< ls-card icon="book-open" link="/docs/guide" title="使用者指南" >}}
+  {{< ls-card icon="question-mark-circle" link="/docs/faq" title="常見問題解答" >}}
+  {{< ls-card icon="light-bulb" link="/docs/howto" title="使用教學" >}}
 {{< /cards >}}
 
 - **使用者指南**幫助您安裝、設定並充分利用我們的應用程式。
@@ -31,5 +33,5 @@ title: '文件'
 有關我們服務的法律政策、資料處理實務和使用者協議，請參閱以下法律文件：
 
 {{< cards >}}
-  {{< card icon="document-text" link="/legal" title="法律中心" >}}
+  {{< ls-card icon="document-text" link="/legal" title="法律中心" >}}
 {{< /cards >}}

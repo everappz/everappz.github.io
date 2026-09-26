@@ -7,7 +7,7 @@ tags: ["google", "güvenlik", "gizlilik", "uygulamalar", "hesap", "erişim"]
 readingTime: 2
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **Özet:** [myaccount.google.com](https://myaccount.google.com/) > Güvenlik > Üçüncü taraf uygulamalar ve hizmetler bölümüne gidin. Kaldırmak istediğiniz uygulamaya tıklayın, ardından "Erişimi Kaldır" veya "Tüm bağlantıları sil" seçeneğini belirleyin. Her uygulama için tekrarlayın.
@@ -75,18 +75,18 @@ Günümüzün dijital ortamında çevrimiçi güvenliğiniz ve gizliliğiniz üz
 
 ## SSS
 
-{{% details title="Bir uygulamanın bağlantısını kesmek verilerimi o uygulamadan siler mi?" closed="true" %}}
+{{% ls-details title="Bir uygulamanın bağlantısını kesmek verilerimi o uygulamadan siler mi?" closed="true" %}}
 Hayır. Erişimi kaldırmak yalnızca uygulamanın bundan sonra Google hesabınıza erişmesini engeller. Uygulamayla zaten paylaşılmış veriler sunucularında hâlâ mevcut olabilir. Bu verileri silmek için uygulamanın kendi gizlilik ayarlarını kontrol edin.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Bağlantısını kestikten sonra bir uygulamayı yeniden bağlayabilir miyim?" closed="true" %}}
+{{% ls-details title="Bağlantısını kestikten sonra bir uygulamayı yeniden bağlayabilir miyim?" closed="true" %}}
 Evet. Uygulamaya tekrar ihtiyaç duyarsanız, istendiğinde Google ile oturum açmanız yeterlidir. Uygulama tekrar izin isteyecektir ve erişim vermeden önce bunları inceleyebilirsiniz.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Üçüncü taraf uygulama erişimini ne sıklıkla kontrol etmeliyim?" closed="true" %}}
+{{% ls-details title="Üçüncü taraf uygulama erişimini ne sıklıkla kontrol etmeliyim?" closed="true" %}}
 Bağlı uygulamalarınızı her 3-6 ayda bir veya bir hizmeti kullanmayı bıraktıktan hemen sonra gözden geçirin. Düzenli denetimler hesabınızı güvende tutmaya yardımcı olur.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Bu, Google Drive'a bağlanan Evermusic gibi uygulamaları etkiler mi?" closed="true" %}}
+{{% ls-details title="Bu, Google Drive'a bağlanan Evermusic gibi uygulamaları etkiler mi?" closed="true" %}}
 Evet. Evermusic veya Flacbox gibi bir uygulamanın Google hesabınızdan bağlantısını keserseniz, Google Drive dosyalarınıza erişimini kaybeder. Uygulama içinden istediğiniz zaman yeniden bağlanabilirsiniz.
-{{% /details %}}
+{{% /ls-details %}}

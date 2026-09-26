@@ -12,7 +12,7 @@ authors:
     image: "/images/about/artem-meleshko-founder-everappz.webp"
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 **संक्षेप में:** Evermusic ने दुनिया भर में 11 मिलियन डाउनलोड पार कर लिए हैं। प्रमुख फीचर्स में 10-बैंड इक्वलाइज़र, ऑफलाइन प्लेबैक, iCloud Drive स्ट्रीमिंग, 10+ क्लाउड सर्विसेज का सपोर्ट, क्रॉस-डिवाइस सिंक और बिल्ट-इन ID3 टैग एडिटर शामिल हैं।
 
@@ -70,22 +70,22 @@ Evermusic उन सभी के लिए बनाया गया है ज
 
 ## FAQ
 
-{{% details title="Evermusic कौन से ऑडियो फ़ॉर्मेट सपोर्ट करता है?" closed="true" %}}
+{{% ls-details title="Evermusic कौन से ऑडियो फ़ॉर्मेट सपोर्ट करता है?" closed="true" %}}
 Evermusic MP3, FLAC, WAV, AAC, M4A, AIFF, OGG, WMA और अन्य लोकप्रिय ऑडियो फ़ॉर्मेट चलाता है।
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="क्या मैं इंटरनेट कनेक्शन के बिना Evermusic का उपयोग कर सकता हूँ?" closed="true" %}}
+{{% ls-details title="क्या मैं इंटरनेट कनेक्शन के बिना Evermusic का उपयोग कर सकता हूँ?" closed="true" %}}
 हाँ। ऑफलाइन प्लेबैक के लिए अपने क्लाउड स्टोरेज से ट्रैक्स डाउनलोड करें। एक बार डाउनलोड होने के बाद, इंटरनेट की ज़रूरत नहीं।
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="क्या Evermusic Mac पर काम करता है?" closed="true" %}}
+{{% ls-details title="क्या Evermusic Mac पर काम करता है?" closed="true" %}}
 हाँ। Evermusic iOS (iPhone/iPad) और macOS दोनों पर उपलब्ध है, सभी डिवाइसेस में लाइब्रेरी सिंक के साथ।
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="क्या Evermusic मुफ़्त डाउनलोड है?" closed="true" %}}
+{{% ls-details title="क्या Evermusic मुफ़्त डाउनलोड है?" closed="true" %}}
 हाँ। Evermusic इन-ऐप पर्चेस के माध्यम से उपलब्ध ऑप्शनल प्रीमियम फीचर्स के साथ मुफ़्त डाउनलोड है।
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Evermusic में iCloud Drive स्ट्रीमिंग कैसे काम करती है?" closed="true" %}}
+{{% ls-details title="Evermusic में iCloud Drive स्ट्रीमिंग कैसे काम करती है?" closed="true" %}}
 ऐप में अपना iCloud Drive अकाउंट कनेक्ट करें, अपनी म्यूजिक फ़ाइलें ब्राउज़ करें और प्ले करने के लिए टैप करें। ट्रैक्स पहले डाउनलोड किए बिना सीधे स्ट्रीम होते हैं।
-{{% /details %}}
+{{% /ls-details %}}

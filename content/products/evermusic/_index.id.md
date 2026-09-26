@@ -16,16 +16,16 @@ screenshots:
   - "https://everappz.com/products/evermusic/screenshots/2048x2732/6.png"
 ---
 
-{{% sr-only %}}
+{{% ls-sr-only %}}
 Evermusic adalah pemutar musik offline gratis untuk iPhone dan Mac yang dikembangkan oleh Everappz, sebuah perusahaan perangkat lunak Spanyol. Dengan lebih dari 11 juta unduhan di seluruh dunia dan rating 4,6 bintang dari lebih dari 18.000 ulasan di App Store, Evermusic merupakan salah satu pemutar musik pihak ketiga paling populer di iOS. Aplikasi ini terhubung ke lebih dari 30 layanan penyimpanan cloud termasuk iCloud Drive, Google Drive, Dropbox, OneDrive, MEGA, Box, pCloud, dan Yandex.Disk, memungkinkan pengguna untuk streaming koleksi musik pribadi mereka langsung dari cloud atau mengunduh lagu untuk didengarkan secara offline. Evermusic mendukung berbagai format audio termasuk MP3, FLAC, AAC, ALAC, WAV, AIFF, OGG, OPUS, WMA, APE, dan DSD. Fitur utama meliputi equalizer audio 10-band dengan preset, crossfade dan pemutaran tanpa jeda, impor dan ekspor playlist M3U, tampilan lirik, penanda audio, integrasi Apple CarPlay, streaming AirPlay dan Chromecast, serta scrobbling Last.fm. Aplikasi ini juga mendukung streaming jaringan lokal melalui protokol SMB, WebDAV, dan DLNA, serta pemutaran dari flash drive USB melalui adaptor Lightning atau USB-C. Evermusic tersedia sebagai unduhan gratis di App Store dengan pembelian dalam aplikasi opsional termasuk langganan bulanan seharga $4.99, langganan tahunan seharga $19.99, atau pembelian seumur hidup sekali bayar seharga $59.99. Aplikasi ini pertama kali dirilis pada tahun 2014 dan terus diperbarui secara aktif.
-{{% /sr-only %}}
+{{% /ls-sr-only %}}
 
 
 <!-- <body class="hx:bg-transparent" style="background: radial-gradient(ellipse at 50% 80%, rgba(59,130,246,0.05), hsla(0,0%,100%,0));"> -->
 
-{{< force-dark >}}
+{{< ls-force-dark >}}
 
-{{< hextra/hero-container
+{{< ls-hero-container
   image="/products/evermusic/heroimage/hero_1200.png"
   imageWidth="600"
   imageCard="true"
@@ -34,40 +34,40 @@ Evermusic adalah pemutar musik offline gratis untuk iPhone dan Mac yang dikemban
 <div class="hx:w-full hx:text-center">
 
 <div class="hx:mt-4">
-{{< downloads-badge >}}
+{{< ls-downloads-badge >}}
 </div>
 
 <div class="hx:mt-6 hx:mb-6">
 <div class="hx:flex hx:gap-4 hx:items-center hx:justify-center">
-  {{< app-icon src="/images/app_icons/png/Evermusic_Icon-App-1024x1024.png" alt="Evermusic Icon" class="hero-headline-icon" size="80" >}}
-  {{< hextra/hero-headline >}}
+  {{< ls-app-icon src="/images/app_icons/png/Evermusic_Icon-App-1024x1024.png" alt="Evermusic Icon" class="hero-headline-icon" size="80" >}}
+  {{< ls-hero-headline >}}
   Evermusic
-  {{< /hextra/hero-headline >}}
+  {{< /ls-hero-headline >}}
 </div>
 </div>
 
 <div class="hx:mb-6">
-{{< hextra/hero-centered-subtitle >}}
+{{< ls-hero-centered-subtitle >}}
 <a href="https://www.chip.de/downloads/Evermusic-Pro-iPhone-_-iPad-App_91614216.html" target="_blank" rel="noopener">
   Adalah solusi sempurna untuk mengatur dan memutar musik Anda sendiri dari cloud <strong>chip.de</strong>
   </a>
-{{< /hextra/hero-centered-subtitle >}}
+{{< /ls-hero-centered-subtitle >}}
 </div>
 
 <div class="hx:mb-6">
-{{< hextra/hero-paragraph >}}
+{{< ls-hero-paragraph >}}
 • Putar musik dengan crossfade, pemutaran tanpa jeda, dan equalizer  
 • Impor playlist M3U dan unduh lagu untuk mendengarkan offline  
 • Streaming musik dari cloud drive, NAS, komputer, atau flash drive USB  
 • Lihat lirik saat mendengarkan dan tambahkan penanda audio untuk melanjutkan kapan saja  
-{{< /hextra/hero-paragraph >}}
+{{< /ls-hero-paragraph >}}
 </div>
 
-{{< app-store-badges products="evermusic:ios, evermusic:macos" >}}
+{{< ls-app-store-badges products="evermusic:ios, evermusic:macos" >}}
 
 </div>
 
-{{< /hextra/hero-container >}}
+{{< /ls-hero-container >}}
 
 <div class="hx:mt-6"></div>
 
@@ -75,42 +75,42 @@ Evermusic adalah pemutar musik offline gratis untuk iPhone dan Mac yang dikemban
 
 {{< hextra/feature-grid >}}
 
-  {{< hextra/feature-card
+  {{< ls-glass-feature-card
     title="Musik Anda di Cloud"
     subtitle="Buat layanan streaming musik canggih Anda sendiri secara gratis! Streaming lagu favorit langsung dari cloud dengan buffering cerdas dan pemutaran mulus sekaligus menghemat penyimpanan perangkat. Hubungkan layanan seperti iCloud Drive, Google Drive, Dropbox, OneDrive, Box, MEGA, pCloud, Proton Drive, dan banyak lagi."
     icon="cloud"
     style="background: radial-gradient(ellipse at 50% 80%, rgba(34,197,94,0.15), hsla(0,0%,100%,0));"
   >}}
 
-  {{< hextra/feature-card
+  {{< ls-glass-feature-card
     title="Mode Offline"
     subtitle="Mode offline memungkinkan Anda mengunduh album, lagu, artis, genre, dan playlist favorit untuk pemutaran offline. Dengarkan di mana saja, baik saat penerbangan, di kereta bawah tanah, atau di luar jangkauan, bahkan ketika tidak terhubung ke Internet, tanpa streaming dan tanpa penggunaan data."
     icon="download"
     style="background: radial-gradient(ellipse at 50% 80%, rgba(234,88,12,0.15), hsla(0,0%,100%,0));"
   >}}
 
-  {{< hextra/feature-card
+  {{< ls-glass-feature-card
     title="Transfer File dengan Mudah"
     subtitle="Hubungkan Mac atau PC Anda dan streaming musik langsung dari komputer rumah. Transfer file audio dengan mulus antara komputer dan perangkat iOS menggunakan Wi-Fi Drive atau iTunes File Sharing. Anda juga dapat menghubungkan NAS atau flash drive USB dan mengakses perpustakaan dari mana saja."
     icon="duplicate"
     style="background: radial-gradient(ellipse at 50% 80%, rgba(251,191,36,0.15), hsla(0,0%,100%,0));"
   >}}
 
-  {{< hextra/feature-card
+  {{< ls-glass-feature-card
     title="Server Media & NAS"
     subtitle="Terhubung ke perpustakaan media pribadi dan server rumah Anda seperti Plex, Emby, Jellyfin, Subsonic, dan Navidrome. Hubungkan NAS Anda seperti Synology, QNAP, Nextcloud, dan WD My Cloud Home melalui SMB, WebDAV, FTP, SFTP, NFS, atau DLNA/UPnP, dan akses seluruh koleksi musik Anda dari mana saja."
     icon="desktop-computer"
     style="background: radial-gradient(ellipse at 50% 80%, rgba(59,130,246,0.15), hsla(0,0%,100%,0));"
   >}}
 
-  {{< hextra/feature-card
+  {{< ls-glass-feature-card
     title="Mesin Audio Pro"
     subtitle="Nikmati pemutaran tanpa jeda yang sesungguhnya dan crossfade halus antar lagu. Bentuk suara Anda dengan equalizer 10-band, preset kustom dan gain preamp, kecepatan pemutaran dan pitch yang dapat disesuaikan, plus rangkaian lengkap efek studio seperti reverb, echo, chorus, flanger, bass boost, crossfeed, dan normalisasi volume."
     icon="adjustments"
     style="background: radial-gradient(ellipse at 50% 80%, rgba(192,38,211,0.15), hsla(0,0%,100%,0));"
   >}}
 
-  {{< hextra/feature-card
+  {{< ls-glass-feature-card
     title="Lirik, Widget & CarPlay"
     subtitle="Baca lirik LRC tertanam dan tersinkronisasi yang bergulir seiring irama musik, bahkan di layar kunci, di widget layar utama, dan di Apple CarPlay. Tambahkan widget Sedang Diputar, Lirik, Favorit, dan Baru Diputar agar musik Anda selalu dalam jangkauan, selalu tersinkron."
     icon="annotation"
@@ -123,9 +123,9 @@ Evermusic adalah pemutar musik offline gratis untuk iPhone dan Mac yang dikemban
 
 <div class="hx:mt-6"></div>
 
-{{< hextra/section-headline >}}
+{{< ls-section-headline >}}
   Desain Bersih & Sederhana
-{{< /hextra/section-headline >}}
+{{< /ls-section-headline >}}
 
 <div class="hx:mt-6"></div>
 
@@ -133,7 +133,7 @@ Evermusic adalah pemutar musik offline gratis untuk iPhone dan Mac yang dikemban
 
 {{< cards cols="4">}}
 
-  {{< design-feature-card 
+  {{< ls-design-feature-card 
     icon="adjustments"
     image="/products/evermusic/screenshots/2048x2732/3.png" 
     title="Equalizer Audio" 
@@ -142,7 +142,7 @@ Evermusic adalah pemutar musik offline gratis untuk iPhone dan Mac yang dikemban
     subtitle="Sesuaikan suara Anda dengan equalizer audio bergaya iPod, preset yang dapat disesuaikan, dan gain preamp untuk pengalaman mendengarkan terbaik." 
   >}}
 
-  {{< design-feature-card 
+  {{< ls-design-feature-card 
     icon="annotation"
     image="/products/evermusic/screenshots/2048x2732/4.png"  
     title="Penampil Lirik" 
@@ -151,7 +151,7 @@ Evermusic adalah pemutar musik offline gratis untuk iPhone dan Mac yang dikemban
     subtitle="Baca lirik tertanam dan komentar lagu saat mendengarkan. Nikmati lirik tersinkronisasi untuk pengalaman musik yang lebih mendalam." 
   >}}
 
-  {{< design-feature-card 
+  {{< ls-design-feature-card 
     icon="collection"
     image="/products/evermusic/screenshots/2048x2732/5.png"  
     title="Manajer Playlist" 
@@ -160,7 +160,7 @@ Evermusic adalah pemutar musik offline gratis untuk iPhone dan Mac yang dikemban
     subtitle="Buat dan atur playlist kustom, urutkan ulang lagu, ekspor ke M3U, atau arsipkan sebagai file ZIP untuk berbagi atau cadangan yang mudah." 
   >}}
 
-  {{< design-feature-card 
+  {{< ls-design-feature-card 
     icon="cloud"
     image="/products/evermusic/screenshots/2048x2732/6.png"  
     title="Streaming Musik Cloud" 
@@ -169,7 +169,7 @@ Evermusic adalah pemutar musik offline gratis untuk iPhone dan Mac yang dikemban
     subtitle="Hubungkan platform penyimpanan cloud teratas seperti Google Drive, Dropbox, dan OneDrive untuk streaming koleksi musik Anda kapan saja, di mana saja." 
   >}}
 
-  {{< design-feature-card 
+  {{< ls-design-feature-card 
     icon="duplicate"
     image="/products/evermusic/screenshots/2048x2732/9.png"  
     title="Manajer File" 
@@ -178,7 +178,7 @@ Evermusic adalah pemutar musik offline gratis untuk iPhone dan Mac yang dikemban
     subtitle="Kelola file audio Anda dengan mudah—ganti nama lagu, atur folder, dan transfer musik antar perangkat menggunakan alat bawaan." 
   >}} 
 
-  {{< design-feature-card 
+  {{< ls-design-feature-card 
     icon="sun"
     image="/products/evermusic/screenshots/2048x2732/10.png"  
     title="Kustomisasi Aplikasi" 
@@ -193,9 +193,9 @@ Evermusic adalah pemutar musik offline gratis untuk iPhone dan Mac yang dikemban
 
 <div class="hx:mt-6"></div>
 
-{{< hextra/section-headline >}}
+{{< ls-section-headline >}}
   Set Fitur Lengkap
-{{< /hextra/section-headline >}}
+{{< /ls-section-headline >}}
 
 <div class="hx:mt-6"></div>
 
@@ -203,47 +203,47 @@ Evermusic adalah pemutar musik offline gratis untuk iPhone dan Mac yang dikemban
 
 {{< cards >}}
 
-  {{< feature-card title="Putar Semua Format Audio" subtitle="Evermusic memutar format audio paling populer, termasuk MP3, AAC, M4A, WAV, AIFF, ALAC, dan M4B, sehingga seluruh koleksi musik Anda siap diputar di perangkat mana pun." icon="music-note" >}}
+  {{< ls-feature-card title="Putar Semua Format Audio" subtitle="Evermusic memutar format audio paling populer, termasuk MP3, AAC, M4A, WAV, AIFF, ALAC, dan M4B, sehingga seluruh koleksi musik Anda siap diputar di perangkat mana pun." icon="music-note" >}}
 
-  {{< feature-card title="Hubungkan Cloud Anda" subtitle="Bangun layanan streaming Anda sendiri dengan memindahkan perpustakaan ke cloud dan membebaskan ruang iPhone. Hubungkan iCloud, Google Drive, Dropbox, OneDrive, MEGA, Internxt, dan Proton Drive." icon="cloud" >}}
+  {{< ls-feature-card title="Hubungkan Cloud Anda" subtitle="Bangun layanan streaming Anda sendiri dengan memindahkan perpustakaan ke cloud dan membebaskan ruang iPhone. Hubungkan iCloud, Google Drive, Dropbox, OneDrive, MEGA, Internxt, dan Proton Drive." icon="cloud" >}}
 
-  {{< feature-card title="Hubungkan Server Media" subtitle="Hubungkan server media pribadi Anda langsung ke perpustakaan, termasuk Plex, Subsonic, Navidrome, Jellyfin, dan Emby, dan streaming semua yang Anda miliki dari rumah dengan mudah." icon="server" >}}
+  {{< ls-feature-card title="Hubungkan Server Media" subtitle="Hubungkan server media pribadi Anda langsung ke perpustakaan, termasuk Plex, Subsonic, Navidrome, Jellyfin, dan Emby, dan streaming semua yang Anda miliki dari rumah dengan mudah." icon="server" >}}
 
-  {{< feature-card title="Hubungkan Komputer atau NAS Anda" subtitle="Hubungkan komputer atau NAS Anda melalui SMB, WebDAV, DLNA, FTP, SFTP, dan NFS, dengan API asli untuk QNAP, Synology, Nextcloud, dan WD My Cloud Home, atau transfer file melalui Wi-Fi." icon="desktop-computer" >}}
+  {{< ls-feature-card title="Hubungkan Komputer atau NAS Anda" subtitle="Hubungkan komputer atau NAS Anda melalui SMB, WebDAV, DLNA, FTP, SFTP, dan NFS, dengan API asli untuk QNAP, Synology, Nextcloud, dan WD My Cloud Home, atau transfer file melalui Wi-Fi." icon="desktop-computer" >}}
 
-  {{< feature-card title="Musik Offline" subtitle="Unduh lagu, album, dan artis favorit Anda untuk dinikmati secara offline kapan saja. Aktifkan cache pemutar audio untuk menyimpan lagu yang baru diputar secara otomatis agar bisa didengarkan offline." icon="download" >}}
+  {{< ls-feature-card title="Musik Offline" subtitle="Unduh lagu, album, dan artis favorit Anda untuk dinikmati secara offline kapan saja. Aktifkan cache pemutar audio untuk menyimpan lagu yang baru diputar secara otomatis agar bisa didengarkan offline." icon="download" >}}
 
-  {{< feature-card title="Equalizer Audio" subtitle="Bentuk suara Anda dengan equalizer bawaan, dilengkapi preset siap pakai untuk genre musik populer plus kontrol manual untuk menyempurnakan dan memperkuat setiap lagu persis seperti yang Anda inginkan." icon="adjustments" >}}
+  {{< ls-feature-card title="Equalizer Audio" subtitle="Bentuk suara Anda dengan equalizer bawaan, dilengkapi preset siap pakai untuk genre musik populer plus kontrol manual untuk menyempurnakan dan memperkuat setiap lagu persis seperti yang Anda inginkan." icon="adjustments" >}}
 
-  {{< feature-card title="Pemutaran Tanpa Jeda" subtitle="Nikmati pemutaran yang mulus dan tanpa gangguan tanpa jeda antar lagu, sempurna untuk rekaman live, album konseptual, DJ mix, dan musik klasik dari awal hingga akhir." icon="volume-up" >}}
+  {{< ls-feature-card title="Pemutaran Tanpa Jeda" subtitle="Nikmati pemutaran yang mulus dan tanpa gangguan tanpa jeda antar lagu, sempurna untuk rekaman live, album konseptual, DJ mix, dan musik klasik dari awal hingga akhir." icon="volume-up" >}}
 
-  {{< feature-card title="Pemutaran Crossfade" subtitle="Jaga musik tetap mengalir dengan crossfade, di mana setiap lagu baru dimulai perlahan sebelum lagu yang sedang diputar berakhir untuk pemutaran yang mulus dan berkelanjutan tanpa jeda hening." icon="switch-horizontal" >}}
+  {{< ls-feature-card title="Pemutaran Crossfade" subtitle="Jaga musik tetap mengalir dengan crossfade, di mana setiap lagu baru dimulai perlahan sebelum lagu yang sedang diputar berakhir untuk pemutaran yang mulus dan berkelanjutan tanpa jeda hening." icon="switch-horizontal" >}}
 
-  {{< feature-card title="Efek Audio" subtitle="Bentuk suara Anda dengan efek audio bawaan. Aktifkan normalisasi volume agar setiap lagu berada pada tingkat kekerasan yang sama, dan tambahkan reverb, delay, distortion, dan spatial audio sesuai selera." icon="chip" >}}
+  {{< ls-feature-card title="Efek Audio" subtitle="Bentuk suara Anda dengan efek audio bawaan. Aktifkan normalisasi volume agar setiap lagu berada pada tingkat kekerasan yang sama, dan tambahkan reverb, delay, distortion, dan spatial audio sesuai selera." icon="chip" >}}
 
-  {{< feature-card title="Visualizer Musik" subtitle="Saksikan visual animasi layar penuh yang bereaksi secara langsung terhadap musik Anda secara real time. Pilih dari pustaka preset yang luas atau biarkan berputar otomatis saat Anda mendengarkan." icon="sparkles" >}}
+  {{< ls-feature-card title="Visualizer Musik" subtitle="Saksikan visual animasi layar penuh yang bereaksi secara langsung terhadap musik Anda secara real time. Pilih dari pustaka preset yang luas atau biarkan berputar otomatis saat Anda mendengarkan." icon="sparkles" >}}
 
-  {{< feature-card title="Lirik dan Komentar" subtitle="Lihat lirik dan komentar berwaktu tertanam untuk lagu audio Anda saat diputar, dan tambahkan widget lirik ke Layar Utama untuk akses cepat sekilas kapan saja." icon="annotation" >}}
+  {{< ls-feature-card title="Lirik dan Komentar" subtitle="Lihat lirik dan komentar berwaktu tertanam untuk lagu audio Anda saat diputar, dan tambahkan widget lirik ke Layar Utama untuk akses cepat sekilas kapan saja." icon="annotation" >}}
 
-  {{< feature-card title="AirPlay & Chromecast" subtitle="Streaming musik Anda secara nirkabel ke Apple TV, speaker pintar, dan perangkat lainnya dengan dukungan AirPlay dan Google Chromecast bawaan untuk mendengarkan di seluruh rumah tanpa repot." icon="device-mobile" >}}
+  {{< ls-feature-card title="AirPlay & Chromecast" subtitle="Streaming musik Anda secara nirkabel ke Apple TV, speaker pintar, dan perangkat lainnya dengan dukungan AirPlay dan Google Chromecast bawaan untuk mendengarkan di seluruh rumah tanpa repot." icon="device-mobile" >}}
 
-  {{< feature-card title="Apple CarPlay" subtitle="Berkendara dan mendengarkan dengan aman melalui antarmuka Apple CarPlay khusus yang menempatkan musik, playlist, dan kontrol pemutaran Anda langsung di layar dasbor mobil." icon="truck" >}}
+  {{< ls-feature-card title="Apple CarPlay" subtitle="Berkendara dan mendengarkan dengan aman melalui antarmuka Apple CarPlay khusus yang menempatkan musik, playlist, dan kontrol pemutaran Anda langsung di layar dasbor mobil." icon="truck" >}}
 
-  {{< feature-card title="Widget" subtitle="Aktifkan widget interaktif di Layar Utama untuk akses cepat ke antrian pemutaran Anda, dan lanjutkan tepat dari tempat Anda berhenti dari posisi terakhir yang tersimpan dengan sekali ketuk." icon="view-grid" >}}
+  {{< ls-feature-card title="Widget" subtitle="Aktifkan widget interaktif di Layar Utama untuk akses cepat ke antrian pemutaran Anda, dan lanjutkan tepat dari tempat Anda berhenti dari posisi terakhir yang tersimpan dengan sekali ketuk." icon="view-grid" >}}
 
-  {{< feature-card title="Buku Audio" subtitle="Ubah aplikasi menjadi pemutar buku audio lengkap dengan penanda audio, kontrol kecepatan pemutaran, dan posisi media tersimpan, plus baca detail teks yang tersimpan di metadata file Anda." icon="book-open" >}}
+  {{< ls-feature-card title="Buku Audio" subtitle="Ubah aplikasi menjadi pemutar buku audio lengkap dengan penanda audio, kontrol kecepatan pemutaran, dan posisi media tersimpan, plus baca detail teks yang tersimpan di metadata file Anda." icon="book-open" >}}
 
-  {{< feature-card title="Sinkronisasi Otomatis" subtitle="Perpustakaan musik Anda tersinkron otomatis antara cloud dan perangkat Anda, mengelompokkan setiap lagu dengan rapi berdasarkan artis, album, dan genre sehingga koleksi Anda selalu tertata." icon="refresh" >}}
+  {{< ls-feature-card title="Sinkronisasi Otomatis" subtitle="Perpustakaan musik Anda tersinkron otomatis antara cloud dan perangkat Anda, mengelompokkan setiap lagu dengan rapi berdasarkan artis, album, dan genre sehingga koleksi Anda selalu tertata." icon="refresh" >}}
 
-  {{< feature-card title="Manajer Playlist" subtitle="Buat dan kelola playlist, urutkan ulang lagu, dan buat playlist mana pun tersedia offline. Urutkan lagu berdasarkan nama, ukuran, nomor lagu, atau album agar semuanya tetap teratur." icon="collection" >}}
+  {{< ls-feature-card title="Manajer Playlist" subtitle="Buat dan kelola playlist, urutkan ulang lagu, dan buat playlist mana pun tersedia offline. Urutkan lagu berdasarkan nama, ukuran, nomor lagu, atau album agar semuanya tetap teratur." icon="collection" >}}
 
-  {{< feature-card title="Editor Tag ID3" subtitle="Perbaiki metadata yang rusak atau hilang dengan editor tag ID3 bawaan, memperbarui judul, artis, album, dan lainnya agar perpustakaan musik Anda tetap bersih dan tertata rapi." icon="pencil-alt" >}}
+  {{< ls-feature-card title="Editor Tag ID3" subtitle="Perbaiki metadata yang rusak atau hilang dengan editor tag ID3 bawaan, memperbarui judul, artis, album, dan lainnya agar perpustakaan musik Anda tetap bersih dan tertata rapi." icon="pencil-alt" >}}
 
-  {{< feature-card title="Manajer File" subtitle="Atur musik Anda dengan manajer file terintegrasi, menangani operasi sehari-hari seperti salin, pindah, ganti nama, dan hapus agar semua file audio Anda tetap tertata rapi." icon="folder" >}}
+  {{< ls-feature-card title="Manajer File" subtitle="Atur musik Anda dengan manajer file terintegrasi, menangani operasi sehari-hari seperti salin, pindah, ganti nama, dan hapus agar semua file audio Anda tetap tertata rapi." icon="folder" >}}
 
-  {{< feature-card title="Pencarian Lanjutan" subtitle="Temukan apa pun dalam hitungan detik dengan mesin pencarian cerdas, menemukan album, artis, dan lagu favorit Anda dengan cepat di seluruh perpustakaan musik Anda." icon="search" >}}
+  {{< ls-feature-card title="Pencarian Lanjutan" subtitle="Temukan apa pun dalam hitungan detik dengan mesin pencarian cerdas, menemukan album, artis, dan lagu favorit Anda dengan cepat di seluruh perpustakaan musik Anda." icon="search" >}}
 
-  {{< feature-card title="Kartu Flash USB" subtitle="Hubungkan pembaca kartu eksternal seperti SanDisk iXpand dan dengarkan musik Anda langsung dari kartu SD atau flash drive USB, tanpa sinkronisasi atau unduhan tambahan." icon="inbox" >}}
+  {{< ls-feature-card title="Kartu Flash USB" subtitle="Hubungkan pembaca kartu eksternal seperti SanDisk iXpand dan dengarkan musik Anda langsung dari kartu SD atau flash drive USB, tanpa sinkronisasi atau unduhan tambahan." icon="inbox" >}}
   
 {{< /cards >}}
 
@@ -254,55 +254,55 @@ Evermusic adalah pemutar musik offline gratis untuk iPhone dan Mac yang dikemban
 <div class="hx:mt-6"></div>
 
 <div class="hx:w-full">
-{{< appstore-reviews apps="885367198,1564384601" stars="5,4"  app="Evermusic" >}}
+{{< ls-appstore-reviews apps="885367198,1564384601" stars="5,4"  app="Evermusic" >}}
 </div>
 
 <div class="hx:mt-6"></div>
 
-{{< hextra/section-headline >}}
+{{< ls-section-headline >}}
   Paket Harga
-{{< /hextra/section-headline >}}
+{{< /ls-section-headline >}}
 
 <div class="hx:mt-6"></div>
 
 <div class="hx:w-full">
-{{< pricing-plans >}}
+{{< ls-pricing-plans >}}
 
 </div>
 
 <div class="hx:mt-6"></div>
 
 <div class="hx:w-full hx:mx-auto hx:flex hx:flex-col hx:items-center">
-  {{< hextra/info-paragraph border="true" >}}
+  {{< ls-info-paragraph border="true" >}}
    <strong>Berbagi Keluarga</strong>: Semua pembelian dan langganan mendukung Berbagi Keluarga, memungkinkan Anda berbagi akses Premium dengan keluarga Anda.<br><strong>Akses Universal</strong>: Paket seumur hidup dan langganan dibagikan antara perangkat iOS dan Mac menggunakan sinkronisasi iCloud.<br><strong>Harga</strong>: Harga ditampilkan dalam dolar AS untuk Amerika Serikat. Harga akhir dapat bervariasi berdasarkan wilayah Anda.  
-  {{< /hextra/info-paragraph >}}
+  {{< /ls-info-paragraph >}}
 </div>
 
 <div class="hx:mt-6"></div>
 
 <div class="hx:w-full">
-{{< app-details heading="true" >}}
+{{< ls-app-details heading="true" >}}
 </div>
 
 <div class="hx:mt-6"></div>
 
-{{< hextra/section-headline >}}
+{{< ls-section-headline >}}
   Pertanyaan yang Sering Diajukan
-{{< /hextra/section-headline >}}
+{{< /ls-section-headline >}}
 
 <div class="hx:mt-6"></div>
 
 <div class="hx:w-full">
-{{% details title="Apa itu Evermusic?" closed="true" %}}
+{{% ls-details title="Apa itu Evermusic?" closed="true" %}}
 Evermusic adalah aplikasi pemutar musik yang membantu Anda mendengarkan lagu favorit dari berbagai layanan penyimpanan cloud.<br>
 Anda dapat dengan mudah mengunduh musik untuk diputar secara offline, membuat dan mengelola playlist, serta menggunakan equalizer bawaan untuk meningkatkan pengalaman mendengarkan Anda.<br>
 Aplikasi ini bekerja dengan layanan seperti Google Drive, Dropbox, OneDrive, dan lainnya, sehingga Anda dapat menyimpan semua musik di satu tempat dan mengaksesnya dari perangkat mana pun.<br><br>
 Aplikasi ini juga mendukung berbagai format audio dan memungkinkan Anda mengorganisir perpustakaan musik berdasarkan artis, album, genre, dan komposer.<br>
 Anda dapat menyinkronkan perpustakaan antara penyimpanan cloud dan perangkat Anda, memastikan lagu favorit selalu tersedia.<br>
 Selain itu, dengan fitur seperti pemutaran tanpa jeda, crossfade, dan kemampuan streaming ke perangkat Chromecast dan AirPlay, Evermusic menawarkan solusi lengkap untuk semua kebutuhan musik Anda.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Bagaimana cara kerja Evermusic?" closed="true" %}}
+{{% ls-details title="Bagaimana cara kerja Evermusic?" closed="true" %}}
 Evermusic bekerja dengan menghubungkan ke berbagai layanan penyimpanan cloud, seperti Google Drive, Dropbox, OneDrive, dan lainnya, memungkinkan Anda mengakses perpustakaan musik dari perangkat mana pun.<br>
 Setelah terhubung, Anda dapat menjelajahi dan streaming musik langsung dari cloud, atau mengunduh lagu, album, dan playlist favorit untuk pemutaran offline.<br>
 Aplikasi ini mendukung berbagai format audio, memudahkan untuk memutar file musik apa pun yang Anda simpan.<br><br>
@@ -322,15 +322,15 @@ Jelajahi panduan cara kami untuk detail lebih lanjut:<br>
 - [Cara mentransfer file secara nirkabel dari komputer ke iPhone menggunakan WiFi-Drive.](/docs/howto/how-to-transfer-files-wirelessly-from-a-computer-to-an-iphone-using-wifi-drive)<br>
 - [Cara menghubungkan kartu flash USB ke iPhone dan mendengarkan musik atau mengelola file di dalamnya.](/docs/howto/how-to-connect-a-usb-flashcard-to-the-iphone-and-listen-to-music-or-manage-files-located-on-it)<br>
 - [Cara memutar musik di iPhone dari WD My Cloud Home.](/docs/howto/how-to-play-music-on-iphone-from-wd-my-cloud-home)
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Apakah Evermusic Gratis?" closed="true" %}}
+{{% ls-details title="Apakah Evermusic Gratis?" closed="true" %}}
 Evermusic adalah aplikasi gratis dengan beberapa batasan yang dapat Anda hapus setelah upgrade ke versi Premium. Aplikasi ini menawarkan pembelian dalam aplikasi seumur hidup sekali bayar dan dua opsi langganan (1 bulan dan 1 tahun) untuk menghapus semua batasan, memungkinkan Anda memilih harga terbaik dan paling optimal. Harga dapat bervariasi tergantung negara atau wilayah Anda. Juga, perlu diingat bahwa Berbagi Keluarga diaktifkan untuk semua pembelian dan paket, sehingga Anda dapat berbagi versi Premium dengan anggota keluarga Anda.<br><br>
 Pembelian seumur hidup dan langganan dibagikan antara iOS dan Mac, menggunakan iCloud untuk menyinkronkan informasi ini. Jika Anda memiliki versi Premium di perangkat iOS, pastikan Anda telah menginstal versi terbaru dan iCloud diaktifkan. Mulai aplikasi di iOS dan tunggu satu menit agar informasi pembelian Anda diunggah ke iCloud.<br><br>
 [Baca selengkapnya](/docs/faq/evermusic/what-is-the-difference-between-evermusic-and-evermusic-premium/)
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Apa perbedaan antara Evermusic gratis dan Evermusic Premium?" closed="true" %}}
+{{% ls-details title="Apa perbedaan antara Evermusic gratis dan Evermusic Premium?" closed="true" %}}
 **Evermusic Gratis**<br>
 • Mengandung Iklan: Versi gratis menampilkan iklan untuk menghasilkan pendapatan, yang kadang dapat mengganggu saat mendengarkan musik.<br>
 • Playlist Terbatas: Anda dapat membuat hingga (10) playlist di versi gratis.<br>
@@ -357,10 +357,10 @@ Pembelian seumur hidup dan langganan dibagikan antara iOS dan Mac, menggunakan i
 • Personalisasi Penuh: Menyediakan opsi personalisasi penuh, termasuk kemampuan mengubah ikon aplikasi.<br><br>
 
 [Baca selengkapnya](/docs/faq/evermusic/what-is-the-difference-between-evermusic-and-evermusic-premium/)
-{{% /details %}}
+{{% /ls-details %}}
 
 
-{{% details title="Apakah Evermusic Aman?" closed="true" %}}
+{{% ls-details title="Apakah Evermusic Aman?" closed="true" %}}
 Evermusic hanya menggunakan SDK resmi dan koneksi aman untuk berinteraksi dengan layanan cloud yang terhubung. Login dan kata sandi Anda tidak tersedia untuk aplikasi. Semua permintaan dari aplikasi ke layanan cloud dienkripsi.<br>
 Saat Anda memasukkan login dan kata sandi, aplikasi menampilkan halaman otorisasi resmi yang disediakan oleh penyedia layanan cloud dan seluruh proses otorisasi dilakukan di luar aplikasi. Penyedia layanan cloud mengirimkan auth-token ke aplikasi setelah otorisasi berhasil dan token tersebut digunakan untuk melakukan panggilan API.<br><br>
 
@@ -372,24 +372,24 @@ Untuk mencabut auth-token, masuk ke akun Anda di browser web dan navigasikan ke 
 Anda juga dapat memutuskan akun cloud yang terhubung di aplikasi dan auth-token juga akan dihapus dari perangkat Anda. Jika Anda menghapus aplikasi dari perangkat, semua data yang diunduh dan token akses juga akan dihapus.<br><br>
 
 [Baca selengkapnya](/docs/guide/evermusic/evermusic-guide-connections/)
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Bagaimana cara membuat playlist di Evermusic?" closed="true" %}}
+{{% ls-details title="Bagaimana cara membuat playlist di Evermusic?" closed="true" %}}
 - Buka bagian Playlist.<br>
 - Ketuk tombol "+" atau tombol "..." di pojok kanan atas dan pilih "Playlist Baru."<br>
 - Masukkan nama untuk playlist dan ketuk "Simpan." Dialog "Tambah Lagu" akan muncul.<br>
 - Pilih lagu yang ingin ditambahkan ke playlist.<br><br>
 
 [Baca selengkapnya](/docs/guide/evermusic/evermusic-guide-playlists/)
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Layanan cloud apa yang didukung Evermusic?" closed="true" %}}
+{{% ls-details title="Layanan cloud apa yang didukung Evermusic?" closed="true" %}}
 Saat ini, aplikasi mendukung layanan cloud paling populer: iCloud Drive, Google Drive, Dropbox, OneDrive, Box, MEGA, Yandex.Disk, WD MyCloud Home, DLNA, MediaFire, WebDAV, SMB, pCloud, HiDrive, 百度网盘, My Cloud Home, InfiniCLOUD, Cloud Mail.ru, Put.io, MyDrive.<br><br>
 
 [Baca selengkapnya](/docs/guide/evermusic/evermusic-guide-connections/)
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Bagaimana cara menggunakan equalizer?" closed="true" %}}
+{{% ls-details title="Bagaimana cara menggunakan equalizer?" closed="true" %}}
 - Buka Layar Pemutar Audio.<br>
 - Ketuk ikon "Equalizer" di bagian bawah layar.<br>
 - Aktifkan sakelar di pojok kanan atas layar equalizer untuk mengaktifkan equalizer.<br>
@@ -397,9 +397,9 @@ Saat ini, aplikasi mendukung layanan cloud paling populer: iCloud Drive, Google 
 
 Tutorial lengkap tersedia di sini:<br>
 [Cara menggunakan equalizer audio di iPhone, iPad, Mac Anda dengan Evermusic dan Flacbox](/docs/howto/how-to-use-the-audio-equalizer-on-your-iphone-ipad-mac-with-evermusic-and-flacbox)
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Bagaimana cara mengaktifkan mode offline di Evermusic?" closed="true" %}}
+{{% ls-details title="Bagaimana cara mengaktifkan mode offline di Evermusic?" closed="true" %}}
 - Hubungkan Layanan Cloud:<br>
  • Buka tab "Koneksi".<br>
  • Pilih "Hubungkan penyimpanan cloud" dan ikuti petunjuk untuk menghubungkan layanan yang diinginkan.<br><br>
@@ -423,9 +423,9 @@ Tutorial lengkap tersedia di sini:<br>
  • Ketuk "Tindakan lainnya" dan pilih "Mulai sinkronisasi."<br><br>
 
 [Baca selengkapnya](/docs/howto/play-offline-music-in-evermusic-flacbox-download-sync-from-cloud-to-local-files/)
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Bagaimana cara memutar musik yang diunduh secara lokal di iPhone?" closed="true" %}}
+{{% ls-details title="Bagaimana cara memutar musik yang diunduh secara lokal di iPhone?" closed="true" %}}
 Setelah menginstal aplikasi, buka layar "File Lokal" dan gulir ke bawah ke bagian "File di iPhone ini".<br>
 Dari sana, pilih "Buka file..." jika Anda perlu memilih beberapa file audio atau "Buka folder..." jika Anda ingin memilih folder musik.<br>
 Aplikasi akan memindai konten folder, dan semua file audio yang ditemukan akan dipilih.<br>
@@ -456,15 +456,15 @@ File akan ditambahkan ke playlist Anda, di mana Anda dapat mengubah urutan lagu 
 Dengan langkah-langkah sederhana ini, Anda dapat membuka potensi penuh iPhone dan Mac Anda sebagai platform terbaik untuk menikmati koleksi musik lokal Anda.<br><br>
 
 [Baca selengkapnya](/docs/howto/how-to-play-local-music-stored-on-your-iphone-or-mac)
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Bagaimana cara melanjutkan playlist dari tempat terakhir?" closed="true" %}}
+{{% ls-details title="Bagaimana cara melanjutkan playlist dari tempat terakhir?" closed="true" %}}
 Pertama, pastikan "Simpan Status Pemutar Audio" diaktifkan di Pengaturan > Pemutar Audio > Umum.<br>
 Saat Anda beralih ke playlist lain dan kembali, Anda akan melihat empat tindakan di toolbar atas di bawah gambar album: "Cari", "Lanjutkan Pemutaran", "Putar Semua", dan "Acak Semua".<br>
 Ketuk "Lanjutkan Pemutaran" untuk melanjutkan playlist dari status dan posisi media terakhir yang disimpan.<br>
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Bagaimana cara melihat lirik lagu di Evermusic?" closed="true" %}}
+{{% ls-details title="Bagaimana cara melihat lirik lagu di Evermusic?" closed="true" %}}
 Anda dapat melihat lirik tertanam untuk lagu di aplikasi Evermusic dengan mengikuti langkah-langkah ini:<br>
 1. Mulai memutar file audio dengan mengetuknya.<br>
 2. Buka pemutar audio layar penuh.<br>
@@ -478,9 +478,9 @@ Anda dapat melihat lirik tertanam untuk lagu di aplikasi Evermusic dengan mengik
 3. "Mode File LRC": Alih-alih mengedit file audio, Anda dapat menempatkan file LRC di folder yang sama dengan file audio asli. Kedua file harus memiliki nama yang sama tetapi ekstensi yang berbeda. Saat Anda menggeser ke halaman ketiga di layar Komentar, aplikasi akan mencari file LRC di direktori yang sama dan menampilkan isinya.<br><br>
 
 [Baca selengkapnya](/docs/howto/how-to-add-and-view-comments-to-your-audio-tracks-on-iphone-ipad-and-mac-with-evermusic-and-flacbox)
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Bagaimana cara mentransfer musik ke Evermusic dari komputer?" closed="true" %}}
+{{% ls-details title="Bagaimana cara mentransfer musik ke Evermusic dari komputer?" closed="true" %}}
 Anda dapat menghubungkan komputer atau NAS pribadi menggunakan protokol SMB, WebDAV, atau DLNA. Atau, gunakan iTunes File Sharing untuk mentransfer musik.<br><br>
 
 Untuk menghubungkan komputer menggunakan protokol **SMB**, ketuk "Hubungkan layanan cloud" → SMB.<br>
@@ -517,9 +517,9 @@ Instruksi detail tersedia di sini:<br>
 
 Dengan **DLNA**, Anda juga dapat mengatur server media DLNA dan streaming musik dari PC Windows seperti yang dijelaskan di sini:<br>
 [Cara Mengaktifkan DLNA Media Server di Windows 10 dan Memutar Musik di iPhone](/docs/howto/how-to-enable-dlna-media-server-on-windows-10-and-play-your-music-on-iphone)
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Bagaimana cara mengunduh musik?" closed="true" %}}
+{{% ls-details title="Bagaimana cara mengunduh musik?" closed="true" %}}
 Sebelum dapat mengunduh musik dan mendengarkan secara offline, Anda harus menghubungkan akun jaringan.<br>
 Cukup buka layar "Koneksi" dan tambahkan akun Anda.<br>
 Setelah menambahkan akun jaringan, Anda dapat mengunduh musik dari cloud.<br><br>
@@ -540,9 +540,9 @@ Instruksi lebih detail tentang mode offline tersedia di sini:<br>
 
 Opsi lain yang tersedia adalah mengunduh musik dari Youtube dan mengimpornya ke Evermusic seperti yang dijelaskan di sini:<br>
 [Cara Mengunduh Musik dari YouTube dan Mendengarkan Musik Offline di iPhone](/docs/howto/how-to-download-music-from-youtube-and-listen-to-offline-music-on-iphone)
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Apakah Evermusic mendukung Apple CarPlay?" closed="true" %}}
+{{% ls-details title="Apakah Evermusic mendukung Apple CarPlay?" closed="true" %}}
 Ya, **Evermusic sepenuhnya mendukung Apple CarPlay**. Anda dapat menjelajahi perpustakaan musik, memutar file lokal atau offline, menghubungkan ke penyimpanan cloud, dan mengontrol pemutaran langsung dari layar infotainment mobil Anda.
 
 Antarmuka CarPlay mencakup tab khusus untuk **Perpustakaan**, **Koneksi**, **File Lokal**, dan **Pengaturan**, memberi Anda kontrol penuh atas musik di perjalanan. Kontrol pemutaran, acak, ulangi, dan manajemen antrian juga tersedia.
@@ -550,9 +550,9 @@ Antarmuka CarPlay mencakup tab khusus untuk **Perpustakaan**, **Koneksi**, **Fil
 Untuk menggunakan CarPlay, pastikan Siri diaktifkan dan iPhone terhubung melalui USB atau nirkabel.
 
 [Baca panduan lengkap](/docs/howto/how-to-play-your-own-music-on-iphone-using-carplay/)
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Format audio apa yang didukung Evermusic?" closed="true" %}}
+{{% ls-details title="Format audio apa yang didukung Evermusic?" closed="true" %}}
 Berikut daftar lengkap format audio yang didukung dan ekstensi file yang sesuai:<br><br>
 
 **Format Audio yang Didukung:**<br>
@@ -570,40 +570,40 @@ Berikut daftar lengkap format audio yang didukung dan ekstensi file yang sesuai:
 mpeg, aifc, 3gp, avi, aif, latm, 3gpp, m4a, loas, cdda, aac, m4p, m4b, ac3, pls, mp4v, m3u, m4r, aiff, xhe, mp1, snd, mp2, wav, qt, wave, m3u8, m4v, mp3, 3g2, caf, mp4, flac, au, w64, ec3, adts, amr, vtt, mpa, aa<br><br>
 
 Dengan beragam format dan ekstensi file yang didukung, Anda dapat menikmati musik dalam format pilihan Anda.
-{{% /details %}}
+{{% /ls-details %}}
 
 </div>
 
 <div class="hx:mt-6"></div>
 
-{{< hextra/section-headline >}}
+{{< ls-section-headline >}}
   Panduan Pengguna
-{{< /hextra/section-headline >}}
+{{< /ls-section-headline >}}
 
 <div class="hx:mt-6"></div>
 
 <div class="hx:w-full">
 
 <div class="hx:w-full hx:mx-auto hx:flex hx:flex-col hx:items-center hx:text-center">
-  {{< hextra/info-paragraph border="false" >}}
+  {{< ls-info-paragraph border="false" >}}
   Panduan ini akan membantu Anda mendapatkan hasil terbaik dari Evermusic di iPhone, iPad, atau Mac. Pelajari cara streaming musik dari cloud, mengelola buku audio, dan memindahkan musik antar perangkat. Evermusic memberi Anda kontrol penuh atas koleksi musik dalam satu aplikasi yang mudah digunakan.
-  {{< /hextra/info-paragraph >}}
+  {{< /ls-info-paragraph >}}
 </div>
 
 {{< cards >}}
-  {{< feature-card icon="location-marker" title="Navigasi" subtitle="Pelajari cara menavigasi Evermusic menggunakan Tab Bar di iPhone atau Menu Kiri di iPad dan Mac." link="/docs/guide/evermusic/evermusic-guide-navigation" >}}
+  {{< ls-feature-card icon="location-marker" title="Navigasi" subtitle="Pelajari cara menavigasi Evermusic menggunakan Tab Bar di iPhone atau Menu Kiri di iPad dan Mac." link="/docs/guide/evermusic/evermusic-guide-navigation" >}}
 
-  {{< feature-card icon="cloud" title="Koneksi" subtitle="Hubungkan akun cloud Anda dan kelola file online menggunakan manajer file bawaan." link="/docs/guide/evermusic/evermusic-guide-connections" >}}
+  {{< ls-feature-card icon="cloud" title="Koneksi" subtitle="Hubungkan akun cloud Anda dan kelola file online menggunakan manajer file bawaan." link="/docs/guide/evermusic/evermusic-guide-connections" >}}
 
-  {{< feature-card icon="library" title="Perpustakaan Musik" subtitle="Organisir dan jelajahi lagu, album, dan artis Anda di Perpustakaan Musik." link="/docs/guide/evermusic/evermusic-guide-music-library" >}}
+  {{< ls-feature-card icon="library" title="Perpustakaan Musik" subtitle="Organisir dan jelajahi lagu, album, dan artis Anda di Perpustakaan Musik." link="/docs/guide/evermusic/evermusic-guide-music-library" >}}
 
-  {{< feature-card icon="collection" title="Playlist" subtitle="Buat dan atur playlist sesuai suasana hati atau acara Anda." link="/docs/guide/evermusic/evermusic-guide-playlists" >}}
+  {{< ls-feature-card icon="collection" title="Playlist" subtitle="Buat dan atur playlist sesuai suasana hati atau acara Anda." link="/docs/guide/evermusic/evermusic-guide-playlists" >}}
 
-  {{< feature-card icon="folder" title="File Lokal" subtitle="Akses dan kelola musik offline melalui bagian File Lokal." link="/docs/guide/evermusic/evermusic-guide-local-files" >}}
+  {{< ls-feature-card icon="folder" title="File Lokal" subtitle="Akses dan kelola musik offline melalui bagian File Lokal." link="/docs/guide/evermusic/evermusic-guide-local-files" >}}
 
-  {{< feature-card icon="play" title="Pemutar Audio" subtitle="Kontrol pemutaran, antrian, dan pengaturan audio seperti equalizer dan timer tidur." link="/docs/guide/evermusic/evermusic-guide-player" >}}
+  {{< ls-feature-card icon="play" title="Pemutar Audio" subtitle="Kontrol pemutaran, antrian, dan pengaturan audio seperti equalizer dan timer tidur." link="/docs/guide/evermusic/evermusic-guide-player" >}}
 
-  {{< feature-card icon="adjustments" title="Pengaturan" subtitle="Sesuaikan tampilan, fitur, dan pengaturan performa Evermusic." link="/docs/guide/evermusic/evermusic-guide-settings" >}}
+  {{< ls-feature-card icon="adjustments" title="Pengaturan" subtitle="Sesuaikan tampilan, fitur, dan pengaturan performa Evermusic." link="/docs/guide/evermusic/evermusic-guide-settings" >}}
 
 {{< /cards >}}
 

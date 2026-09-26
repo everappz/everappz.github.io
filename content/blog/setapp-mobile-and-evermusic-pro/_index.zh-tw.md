@@ -12,7 +12,7 @@ authors:
     image: "/images/about/artem-meleshko-founder-everappz.webp"
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 ![](/blog/setapp-mobile-and-evermusic-pro/21260c_766c4fbc81e6433cb8fc21b9c2862ce0~mv2.png)
 
@@ -59,27 +59,27 @@ Evermusic Pro 包含在 Setapp Mobile 訂閱中。無隱藏費用即可取得完
 準備試用了嗎？透過 Setapp Mobile 取得 Evermusic Pro，立即開始串流您的雲端音樂庫。
 
 {{< cards cols="1" >}}
-  {{< card link="https://go.setapp.com/stp435?_target=https://www.setapp.com/setapp-mobile&stc=mobile" title="透過 Setapp Mobile 下載 Evermusic Pro" icon="download" >}}
+  {{< ls-card link="https://go.setapp.com/stp435?_target=https://www.setapp.com/setapp-mobile&stc=mobile" title="透過 Setapp Mobile 下載 Evermusic Pro" icon="download" >}}
 {{< /cards >}}
 
 ## 常見問題
 
-{{% details title="Evermusic Pro 在 Setapp Mobile 中免費嗎？" closed="true" %}}
+{{% ls-details title="Evermusic Pro 在 Setapp Mobile 中免費嗎？" closed="true" %}}
 是的。Evermusic Pro 包含在 Setapp Mobile 訂閱中，無需額外費用。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Evermusic Pro 支援哪些雲端服務？" closed="true" %}}
+{{% ls-details title="Evermusic Pro 支援哪些雲端服務？" closed="true" %}}
 Evermusic Pro 連接 Google Drive、Dropbox、OneDrive、iCloud、Box、MEGA、Yandex.Disk、pCloud、HiDrive 和 WebDAV 伺服器。還支援 SMB 和 NAS 裝置。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="我可以用 Evermusic Pro 離線聽嗎？" closed="true" %}}
+{{% ls-details title="我可以用 Evermusic Pro 離線聽嗎？" closed="true" %}}
 可以。您可以下載單曲、專輯、藝術家或整個播放清單進行離線播放。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Evermusic Pro 播放哪些音訊格式？" closed="true" %}}
+{{% ls-details title="Evermusic Pro 播放哪些音訊格式？" closed="true" %}}
 Evermusic Pro 支援 FLAC、MP3、AAC、WAV、ALAC、AIFF、OPUS、OGG 等眾多格式。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="我需要單獨的 Setapp iPhone 訂閱嗎？" closed="true" %}}
+{{% ls-details title="我需要單獨的 Setapp iPhone 訂閱嗎？" closed="true" %}}
 Setapp Mobile 作為包含 iOS 應用程式的 Setapp 訂閱方案的一部分提供。請查看 Setapp 網站了解目前定價和方案選項。
-{{% /details %}}
+{{% /ls-details %}}

@@ -7,7 +7,7 @@ tags: ["evermusic", "hubungkan", "bluesound vault"]
 readingTime: 1
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **Ringkasan:** Hubungkan ke penyimpanan internal Bluesound VAULT Anda melalui SMB menggunakan Evermusic, Flacbox, atau Evertag. Temukan alamat IP VAULT di aplikasi BluOS, masukkan sebagai koneksi SMB dengan akses tamu, dan mulai memutar atau mengelola file musik Anda.
@@ -58,18 +58,18 @@ Dengan langkah-langkah sederhana ini, Anda dapat dengan mudah mengakses hard dri
 
 ## FAQ
 
-{{% details title="Apakah saya memerlukan nama pengguna dan kata sandi untuk terhubung ke Bluesound VAULT?" closed="true" %}}
+{{% ls-details title="Apakah saya memerlukan nama pengguna dan kata sandi untuk terhubung ke Bluesound VAULT?" closed="true" %}}
 Tidak. Bluesound VAULT mendukung akses tamu (anonim) melalui SMB. Biarkan kolom Login dan Kata Sandi kosong saat mengonfigurasi koneksi.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Bisakah saya mengedit tag musik di Bluesound VAULT?" closed="true" %}}
+{{% ls-details title="Bisakah saya mengedit tag musik di Bluesound VAULT?" closed="true" %}}
 Ya. Menggunakan Evertag, Anda dapat mengedit tag metadata (judul, artis, album, dll.) untuk file audio yang disimpan langsung di hard drive internal VAULT.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Protokol apa yang didukung Bluesound VAULT?" closed="true" %}}
+{{% ls-details title="Protokol apa yang didukung Bluesound VAULT?" closed="true" %}}
 Bluesound VAULT mengekspos penyimpanan internalnya melalui SMB (Server Message Block). Evermusic, Flacbox, dan Evertag semuanya mendukung koneksi SMB, sehingga memudahkan koneksi.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Bisakah saya streaming musik dari VAULT tanpa menyalin file ke iPhone saya?" closed="true" %}}
+{{% ls-details title="Bisakah saya streaming musik dari VAULT tanpa menyalin file ke iPhone saya?" closed="true" %}}
 Ya. Setelah terhubung melalui SMB, Anda dapat streaming file audio langsung dari drive internal VAULT tanpa menyalinnya ke perangkat Anda.
-{{% /details %}}
+{{% /ls-details %}}

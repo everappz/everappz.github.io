@@ -55,17 +55,17 @@ Lepää rauhassa tietäen, että tietosi ovat turvassa. Evertag mahdollistaa sal
 Tässä oppaassa opit hyödyntämään Evertagin tehoa iPhonessasi, iPadissasi ja Macissasi, tehden musiikinhallintakokemuksestasi sujuvan ja nautinnollisen.
 
 {{< cards >}}
-  {{< card icon="location-marker" title="Navigointi" subtitle="Opi navigoimaan sovelluksessamme vaivattomasti Välilehtipalkilla (iPhone-käyttäjille) tai Vasemmalla valikolla (iPad- ja Mac-käyttäjille) kaikkien sovelluksen ominaisuuksien käyttämiseksi ja tutkimiseksi." link="/docs/guide/evertag/evertag-guide-navigation" >}}
+  {{< ls-card icon="location-marker" title="Navigointi" subtitle="Opi navigoimaan sovelluksessamme vaivattomasti Välilehtipalkilla (iPhone-käyttäjille) tai Vasemmalla valikolla (iPad- ja Mac-käyttäjille) kaikkien sovelluksen ominaisuuksien käyttämiseksi ja tutkimiseksi." link="/docs/guide/evertag/evertag-guide-navigation" >}}
 
-  {{< card icon="cloud" title="Yhteydet" subtitle="Yhdistä vaivattomasti kaikki saatavilla olevat pilvipalvelutilisi arvokkaiden äänitiedostojesi kanssa. Voit jopa muokata verkkotiedostojasi vaivattomasti sisäänrakennetun tiedostonhallinnan avulla." link="/docs/guide/evertag/evertag-guide-connections" >}}
+  {{< ls-card icon="cloud" title="Yhteydet" subtitle="Yhdistä vaivattomasti kaikki saatavilla olevat pilvipalvelutilisi arvokkaiden äänitiedostojesi kanssa. Voit jopa muokata verkkotiedostojasi vaivattomasti sisäänrakennetun tiedostonhallinnan avulla." link="/docs/guide/evertag/evertag-guide-connections" >}}
 
-  {{< card icon="folder" title="Paikalliset Tiedostot" subtitle="Tarkastele ja järjestä sovelluksen Asiakirjat-kansioon tai laitteellesi tallennettuja tiedostoja. Muokkaa ja hallinnoi äänitiedostojasi helposti sisäänrakennetun tiedostonhallinnan avulla." link="/docs/guide/evertag/evertag-guide-local-files" >}}
+  {{< ls-card icon="folder" title="Paikalliset Tiedostot" subtitle="Tarkastele ja järjestä sovelluksen Asiakirjat-kansioon tai laitteellesi tallennettuja tiedostoja. Muokkaa ja hallinnoi äänitiedostojasi helposti sisäänrakennetun tiedostonhallinnan avulla." link="/docs/guide/evertag/evertag-guide-local-files" >}}
 
-  {{< card icon="pencil-alt" title="Tunnistemuokkain" subtitle="Hallitse äänitiedostojen metatietojen käsittelyn taitoa. Opi muokkaamaan metatietoja, muuntamaan albumin kansikuvia ja hallinnoimaan useita tiedostoja samanaikaisesti saumattomasti." link="/docs/guide/evertag/evertag-guide-tag-editor" >}}
+  {{< ls-card icon="pencil-alt" title="Tunnistemuokkain" subtitle="Hallitse äänitiedostojen metatietojen käsittelyn taitoa. Opi muokkaamaan metatietoja, muuntamaan albumin kansikuvia ja hallinnoimaan useita tiedostoja samanaikaisesti saumattomasti." link="/docs/guide/evertag/evertag-guide-tag-editor" >}}
 
-  {{< card icon="code" title="Tunnistekenttien Vastaavuudet" subtitle="Tutustu Evertag-sovelluksen tukemien äänitunnistekenttien täydelliseen luetteloon, mukaan lukien sisäiset kenttänimet ja vastaavuudet eri metatietaformaateissa." link="/docs/guide/evertag/evertag-tag-field-mappings" >}}
+  {{< ls-card icon="code" title="Tunnistekenttien Vastaavuudet" subtitle="Tutustu Evertag-sovelluksen tukemien äänitunnistekenttien täydelliseen luetteloon, mukaan lukien sisäiset kenttänimet ja vastaavuudet eri metatietaformaateissa." link="/docs/guide/evertag/evertag-tag-field-mappings" >}}
 
-  {{< card icon="adjustments" title="Asetukset" subtitle="Tutustu siihen, miten voit mukauttaa sovelluskokemustasi, hienosäätää suorituskykyä, hallita datan käyttöä ja muokata kieli- ja käyttöliittymäasetuksia mieltymystesi mukaan." link="/docs/guide/evertag/evertag-guide-settings" >}}
+  {{< ls-card icon="adjustments" title="Asetukset" subtitle="Tutustu siihen, miten voit mukauttaa sovelluskokemustasi, hienosäätää suorituskykyä, hallita datan käyttöä ja muokata kieli- ja käyttöliittymäasetuksia mieltymystesi mukaan." link="/docs/guide/evertag/evertag-guide-settings" >}}
 
-  {{< card icon="question-mark-circle" title="UKK" subtitle="Löydä nopeita vastauksia yleisiin kysymyksiin UKK-osiostamme." link="/docs/faq/evertag" >}}
+  {{< ls-card icon="question-mark-circle" title="UKK" subtitle="Löydä nopeita vastauksia yleisiin kysymyksiin UKK-osiostamme." link="/docs/faq/evertag" >}}
 {{< /cards >}}

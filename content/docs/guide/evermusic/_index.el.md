@@ -72,19 +72,19 @@ readingTime: 4
 
 
 {{< cards >}}
-  {{< card icon="location-marker" title="Πλοήγηση" subtitle="Μάθετε πώς να πλοηγείστε στο Evermusic χρησιμοποιώντας τη γραμμή καρτελών στο iPhone ή το αριστερό μενού στο iPad και Mac." link="/docs/guide/evermusic/evermusic-guide-navigation" >}}
+  {{< ls-card icon="location-marker" title="Πλοήγηση" subtitle="Μάθετε πώς να πλοηγείστε στο Evermusic χρησιμοποιώντας τη γραμμή καρτελών στο iPhone ή το αριστερό μενού στο iPad και Mac." link="/docs/guide/evermusic/evermusic-guide-navigation" >}}
 
-  {{< card icon="cloud" title="Συνδέσεις" subtitle="Συνδέστε τους cloud λογαριασμούς σας και διαχειριστείτε διαδικτυακά αρχεία με τον ενσωματωμένο διαχειριστή αρχείων." link="/docs/guide/evermusic/evermusic-guide-connections" >}}
+  {{< ls-card icon="cloud" title="Συνδέσεις" subtitle="Συνδέστε τους cloud λογαριασμούς σας και διαχειριστείτε διαδικτυακά αρχεία με τον ενσωματωμένο διαχειριστή αρχείων." link="/docs/guide/evermusic/evermusic-guide-connections" >}}
 
-  {{< card icon="collection" title="Μουσική Βιβλιοθήκη" subtitle="Οργανώστε και εξερευνήστε τα tracks, τα άλμπουμ και τους καλλιτέχνες σας στη Μουσική Βιβλιοθήκη." link="/docs/guide/evermusic/evermusic-guide-music-library" >}}
+  {{< ls-card icon="collection" title="Μουσική Βιβλιοθήκη" subtitle="Οργανώστε και εξερευνήστε τα tracks, τα άλμπουμ και τους καλλιτέχνες σας στη Μουσική Βιβλιοθήκη." link="/docs/guide/evermusic/evermusic-guide-music-library" >}}
 
-  {{< card icon="music-note" title="Λίστες αναπαραγωγής" subtitle="Δημιουργήστε και τακτοποιήστε λίστες αναπαραγωγής ανάλογα με τη διάθεση ή την περίσταση." link="/docs/guide/evermusic/evermusic-guide-playlists" >}}
+  {{< ls-card icon="music-note" title="Λίστες αναπαραγωγής" subtitle="Δημιουργήστε και τακτοποιήστε λίστες αναπαραγωγής ανάλογα με τη διάθεση ή την περίσταση." link="/docs/guide/evermusic/evermusic-guide-playlists" >}}
 
-  {{< card icon="folder" title="Τοπικά Αρχεία" subtitle="Αποκτήστε πρόσβαση και διαχειριστείτε την εκτός σύνδεσης μουσική μέσω της ενότητας Τοπικών Αρχείων." link="/docs/guide/evermusic/evermusic-guide-local-files" >}}
+  {{< ls-card icon="folder" title="Τοπικά Αρχεία" subtitle="Αποκτήστε πρόσβαση και διαχειριστείτε την εκτός σύνδεσης μουσική μέσω της ενότητας Τοπικών Αρχείων." link="/docs/guide/evermusic/evermusic-guide-local-files" >}}
 
-  {{< card icon="play" title="Audio Player" subtitle="Ελέγξτε την αναπαραγωγή, την ουρά και τις ρυθμίσεις ήχου όπως equalizer και χρονοδιακόπτη ύπνου." link="/docs/guide/evermusic/evermusic-guide-player" >}}
+  {{< ls-card icon="play" title="Audio Player" subtitle="Ελέγξτε την αναπαραγωγή, την ουρά και τις ρυθμίσεις ήχου όπως equalizer και χρονοδιακόπτη ύπνου." link="/docs/guide/evermusic/evermusic-guide-player" >}}
 
-  {{< card icon="adjustments" title="Ρυθμίσεις" subtitle="Προσαρμόστε την εμφάνιση, τις λειτουργίες και τις ρυθμίσεις απόδοσης του Evermusic." link="/docs/guide/evermusic/evermusic-guide-settings" >}}
+  {{< ls-card icon="adjustments" title="Ρυθμίσεις" subtitle="Προσαρμόστε την εμφάνιση, τις λειτουργίες και τις ρυθμίσεις απόδοσης του Evermusic." link="/docs/guide/evermusic/evermusic-guide-settings" >}}
 
-  {{< card icon="question-mark-circle" title="FAQ" subtitle="Βρείτε γρήγορες απαντήσεις σε συχνές ερωτήσεις στην ενότητα FAQ." link="/docs/faq/evermusic" >}}
+  {{< ls-card icon="question-mark-circle" title="FAQ" subtitle="Βρείτε γρήγορες απαντήσεις σε συχνές ερωτήσεις στην ενότητα FAQ." link="/docs/faq/evermusic" >}}
 {{< /cards >}}

@@ -28,19 +28,19 @@ Den här guiden förklarar varje del av appen steg för steg. Välj en sektion n
 
 
 {{< cards >}}
-  {{< card icon="play" title="Delning" subtitle="Tryck på Start, välj vad du vill dela och kör alla fem servrar samtidigt. Lär dig delningsskärmen från början till slut." link="/docs/guide/everdisk/everdisk-guide-sharing" >}}
+  {{< ls-card icon="play" title="Delning" subtitle="Tryck på Start, välj vad du vill dela och kör alla fem servrar samtidigt. Lär dig delningsskärmen från början till slut." link="/docs/guide/everdisk/everdisk-guide-sharing" >}}
 
-  {{< card icon="desktop-computer" title="Anslut dina enheter" subtitle="Så ansluter en TV, en Mac eller PC, en webbläsare, en annan telefon eller en USB-kabel till dina delade filer." link="/docs/guide/everdisk/everdisk-guide-connect" >}}
+  {{< ls-card icon="desktop-computer" title="Anslut dina enheter" subtitle="Så ansluter en TV, en Mac eller PC, en webbläsare, en annan telefon eller en USB-kabel till dina delade filer." link="/docs/guide/everdisk/everdisk-guide-connect" >}}
 
-  {{< card icon="server" title="Anslut till servrar" subtitle="Nå andra DLNA-, WebDAV-, FTP-, SFTP- och SMB-servrar och NAS-diskar i ditt nätverk för att bläddra, streama och ladda ner." link="/docs/guide/everdisk/everdisk-guide-devices" >}}
+  {{< ls-card icon="server" title="Anslut till servrar" subtitle="Nå andra DLNA-, WebDAV-, FTP-, SFTP- och SMB-servrar och NAS-diskar i ditt nätverk för att bläddra, streama och ladda ner." link="/docs/guide/everdisk/everdisk-guide-devices" >}}
 
-  {{< card icon="folder" title="Filer och dokument" subtitle="Bläddra, skapa mappar, byt namn, flytta, kopiera och ta bort, zippa och packa upp, anslut externa mappar och skanna till PDF." link="/docs/guide/everdisk/everdisk-guide-files" >}}
+  {{< ls-card icon="folder" title="Filer och dokument" subtitle="Bläddra, skapa mappar, byt namn, flytta, kopiera och ta bort, zippa och packa upp, anslut externa mappar och skanna till PDF." link="/docs/guide/everdisk/everdisk-guide-files" >}}
 
-  {{< card icon="music-note" title="Foton, musik och video" subtitle="Dela hela ditt foto- och musikbibliotek, spela ljud i minispelaren och titta på video i helskärm." link="/docs/guide/everdisk/everdisk-guide-media" >}}
+  {{< ls-card icon="music-note" title="Foton, musik och video" subtitle="Dela hela ditt foto- och musikbibliotek, spela ljud i minispelaren och titta på video i helskärm." link="/docs/guide/everdisk/everdisk-guide-media" >}}
 
-  {{< card icon="lock-closed" title="Åtkomst och integritet" subtitle="Skydda delning med en inloggning och ett lösenord, tillåt eller blockera redigering, blockera enheter och håll allt lokalt." link="/docs/guide/everdisk/everdisk-guide-access" >}}
+  {{< ls-card icon="lock-closed" title="Åtkomst och integritet" subtitle="Skydda delning med en inloggning och ett lösenord, tillåt eller blockera redigering, blockera enheter och håll allt lokalt." link="/docs/guide/everdisk/everdisk-guide-access" >}}
 
-  {{< card icon="adjustments" title="Inställningar" subtitle="Varje inställning förklarad: enhetsprofil, anslutningar, foto- och videokvalitet, portar, överföringar och mer." link="/docs/guide/everdisk/everdisk-guide-settings" >}}
+  {{< ls-card icon="adjustments" title="Inställningar" subtitle="Varje inställning förklarad: enhetsprofil, anslutningar, foto- och videokvalitet, portar, överföringar och mer." link="/docs/guide/everdisk/everdisk-guide-settings" >}}
 
-  {{< card icon="question-mark-circle" title="Vanliga frågor" subtitle="Snabba svar på de vanligaste frågorna och verkliga scenarier." link="/docs/faq/everdisk" >}}
+  {{< ls-card icon="question-mark-circle" title="Vanliga frågor" subtitle="Snabba svar på de vanligaste frågorna och verkliga scenarier." link="/docs/faq/everdisk" >}}
 {{< /cards >}}

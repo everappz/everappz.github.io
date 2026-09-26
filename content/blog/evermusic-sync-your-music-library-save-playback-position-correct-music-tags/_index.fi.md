@@ -12,7 +12,7 @@ authors:
     image: "/images/about/artem-meleshko-founder-everappz.webp"
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 ![](/blog/evermusic-sync-your-music-library-save-playback-position-correct-music-tags/21260c_641f376e779e47d4927b43c210d3c87f~mv2.jpeg)
 
@@ -67,22 +67,22 @@ Evermusic havaitsee ja korjaa virheelliset tai puutteelliset ID3-tunnisteet käy
 
 ## Usein kysytyt kysymykset
 
-{{% details title="Toimiiko Evermusicin automaattinen synkronointi kaikkien pilvipalveluiden kanssa?" closed="true" %}}
+{{% ls-details title="Toimiiko Evermusicin automaattinen synkronointi kaikkien pilvipalveluiden kanssa?" closed="true" %}}
 Kyllä. Automaattinen synkronointi toimii palveluiden Dropbox, Google Drive, OneDrive, MEGA, WebDAV ja SMB kanssa. Valitse seurattavat kansiot ja Evermusic pitää kirjastosi ajan tasalla.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Voiko Evermusic tallentaa äänikirjani sijainnin?" closed="true" %}}
+{{% ls-details title="Voiko Evermusic tallentaa äänikirjani sijainnin?" closed="true" %}}
 Kyllä. Ota toistosijainnin tallennus käyttöön ääniasetuksissa. Evermusic muistaa, mihin pysähdyit jokaisessa tiedostossa, jotta voit jatkaa ilman manuaalisia kirjanmerkkejä.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Miten metatietojen lukeminen taustalla toimii?" closed="true" %}}
+{{% ls-details title="Miten metatietojen lukeminen taustalla toimii?" closed="true" %}}
 Evermusic lukee ID3-tunnisteita ja tiedostojen metatietoja taustalla käyttäessäsi muita ominaisuuksia. Se järjestää kirjastosi Artistin, Albumin ja Genren mukaan automaattisesti.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Korjaako Evermusic rikkinäiset musiikkitunnisteeni?" closed="true" %}}
+{{% ls-details title="Korjaako Evermusic rikkinäiset musiikkitunnisteeni?" closed="true" %}}
 Kyllä. Automaattinen tunnisteiden korjausominaisuus tarkistaa tiedostosi online-tietokannoista ja korjaa virheelliset, puutteelliset tai puuttuvat ID3-metatiedot.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Onko Evermusic ilmainen ladata?" closed="true" %}}
+{{% ls-details title="Onko Evermusic ilmainen ladata?" closed="true" %}}
 Evermusic on ilmainen ladata valinnaisilla premium-ominaisuuksilla, jotka ovat saatavilla sovelluksen sisäisillä ostoilla.
-{{% /details %}}
+{{% /ls-details %}}

@@ -14,7 +14,7 @@ authors:
     image: "/images/about/artem-meleshko-founder-everappz.webp"
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 **요약:** Evermusic은 8개 카테고리 중 5개에서 승리하고 3개는 동점입니다. 더 넓은 클라우드 저장소 지원(12개 이상의 서비스 vs VOX Cloud 전용), 내장 오디오북 기능, ID3 태그 편집기, 무선 파일 전송을 제공합니다. VOX는 자체 클라우드와 미니멀한 디자인을 선호하는 사용자에게 적합합니다.
 
@@ -34,8 +34,8 @@ authors:
 | 접근성 (VoiceOver) | 예 | 예 | 동점 |
 
 {{< cards >}}
-  {{< card link="https://apps.apple.com/us/app/evermusic-cloud-music-player/id885367198" title="Evermusic 다운로드" icon="download" tag="무료" >}}
-  {{< card link="https://apps.apple.com/us/app/vox-mp3-flac-music-player/id916215494" title="VOX 다운로드" icon="download" tag="무료" >}}
+  {{< ls-card link="https://apps.apple.com/us/app/evermusic-cloud-music-player/id885367198" title="Evermusic 다운로드" icon="download" tag="무료" >}}
+  {{< ls-card link="https://apps.apple.com/us/app/vox-mp3-flac-music-player/id916215494" title="VOX 다운로드" icon="download" tag="무료" >}}
 {{< /cards >}}
 
 ## 클라우드 저장소 지원
@@ -107,18 +107,18 @@ Evermusic에는 웹 브라우저를 통해 장치 간에 오디오 파일을 업
 
 ## 자주 묻는 질문
 
-{{% details title="Evermusic은 VOX의 좋은 대안인가요?" closed="true" %}}
+{{% ls-details title="Evermusic은 VOX의 좋은 대안인가요?" closed="true" %}}
 네. Evermusic은 VOX의 자체 클라우드 전용에 비해 12개 이상의 클라우드 저장 서비스를 지원합니다. 또한 VOX에 없는 오디오북 기능, ID3 태그 편집, Wi-Fi 파일 전송을 제공합니다. Evermusic은 무료로 다운로드할 수 있으며 일회성 프리미엄 업그레이드가 가능합니다.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="VOX는 Dropbox 또는 Google Drive를 지원하나요?" closed="true" %}}
+{{% ls-details title="VOX는 Dropbox 또는 Google Drive를 지원하나요?" closed="true" %}}
 아니오. VOX는 자체 VOX Cloud 저장소를 사용합니다. Dropbox, Google Drive 또는 OneDrive와 같은 타사 서비스에 연결되지 않습니다. Evermusic은 이 모든 서비스와 그 이상을 지원합니다.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="오디오북에 어떤 앱이 더 좋나요: Evermusic 또는 VOX?" closed="true" %}}
+{{% ls-details title="오디오북에 어떤 앱이 더 좋나요: Evermusic 또는 VOX?" closed="true" %}}
 Evermusic이 오디오북에 훨씬 더 좋습니다. 재생 속도 조절, 자동 위치 저장, 북마크 지원이 포함되어 있습니다. VOX에는 전용 오디오북 기능이 없습니다.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Evermusic으로 iPhone에서 음악 태그를 편집할 수 있나요?" closed="true" %}}
+{{% ls-details title="Evermusic으로 iPhone에서 음악 태그를 편집할 수 있나요?" closed="true" %}}
 네. Evermusic에는 iPhone 또는 iPad에서 직접 트랙 제목, 아티스트 이름, 앨범 정보 및 기타 메타데이터를 수정할 수 있는 내장 ID3 태그 편집기가 포함되어 있습니다.
-{{% /details %}}
+{{% /ls-details %}}

@@ -186,3 +186,5 @@ everdiskFeatAdvancedServerSettings: "Gelişmiş sunucu ayarları"
 everdiskFeatSMB3Encryption: "SMB3 şifreleme"
 everdiskFeatAutomaticSharing: "Otomatik paylaşım"
 everdiskFeatDevicePersonalization: "Cihaz kişiselleştirme"
+
+searchDocsPlaceholder: "Belgelerde, sıkça sorulan sorularda ve kılavuzlarda ara…"

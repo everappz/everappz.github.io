@@ -12,7 +12,7 @@ authors:
     image: "/images/about/artem-meleshko-founder-everappz.webp"
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 **Підсумок:** Evermusic 6.8 додає інтеграцію Aliyun Drive та Synology NAS (з QuickConnect), шість нових ефектів прокручування обкладинок альбомів, мінімальний повноекранний програвач, керування файлами перетягуванням та швидше завантаження обкладинок. Доступно зараз для iOS та macOS.
 
@@ -77,18 +77,18 @@ Evermusic 6.8 зосереджений на трьох напрямках: ши�
 
 ## Часті запитання
 
-{{% details title="Як підключити Synology NAS до Evermusic?" closed="true" %}}
+{{% ls-details title="Як підключити Synology NAS до Evermusic?" closed="true" %}}
 Перейдіть на вкладку Підключення, виберіть Synology та введіть свій QuickConnectID. Evermusic підключається безпосередньо без необхідності IP-адрес або налаштування VPN.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Aliyun Drive безкоштовний для використання з Evermusic?" closed="true" %}}
+{{% ls-details title="Aliyun Drive безкоштовний для використання з Evermusic?" closed="true" %}}
 Так. Якщо у вас є обліковий запис Aliyun Drive, ви можете підключити його до Evermusic без додаткових витрат. Обмеження сховища залежать від вашого плану Aliyun Drive.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Чи можу я налаштувати стиль прокручування обкладинок альбомів?" closed="true" %}}
+{{% ls-details title="Чи можу я налаштувати стиль прокручування обкладинок альбомів?" closed="true" %}}
 Так. Перейдіть до Settings > Audio Player > Personalization > Album Covers Scrolling Style та виберіть з шести варіантів: MacDoc, Linear, Rotary, Inverted Rotary, Cylinder або CoverFlow.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Чи працює мінімальний екран програвача на всіх пристроях?" closed="true" %}}
+{{% ls-details title="Чи працює мінімальний екран програвача на всіх пристроях?" closed="true" %}}
 Так. Стиль обкладинки альбому на весь екран доступний на всіх підтримуваних iPhone, iPad та Mac з Evermusic 6.8 або новішою версією.
-{{% /details %}}
+{{% /ls-details %}}

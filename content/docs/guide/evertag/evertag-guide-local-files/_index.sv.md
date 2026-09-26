@@ -18,7 +18,7 @@ Avsnittet Lokala filer fungerar som ett nav för att hantera filer som finns i a
 Den här inbyggda filhanteraren låter dig redigera filer och erbjuder olika metoder för att importera ljudfiler till appen. Filer som du nyligen öppnade visas automatiskt i fliken **Senaste** och objekt som du markerar med en stjärna visas under **Favoriter**, så du kan hoppa direkt till de filer du arbetar med mest utan att behöva bläddra tillbaka till den här skärmen.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evertag Nedladdningsskärm" image="/docs/guide/evertag/img/downloads.webp" >}}
+  {{< ls-card title="" subtitle="Evertag Nedladdningsskärm" image="/docs/guide/evertag/img/downloads.webp" >}}
 {{< /cards >}}
 
 ## Ladda ner filer från molnlagring
@@ -74,7 +74,7 @@ Visar filer och mappar lagrade i appens Dokument-katalog och iCloud Drive.
 Visar filer som finns på din enhet men i olika applikationer. Du kan importera dem till den här applikationen med systemets filväljare. För att aktivera väljaren, välj "Öppna filer..." för att välja filer eller "Öppna mappar..." för att välja mappar. Detaljerade instruktioner om hur du importerar lokal musik lagrad på din iPhone eller Mac finns tillgängliga [här](/docs/howto/how-to-play-local-music-stored-on-your-iphone-or-mac). Du kan också ansluta en mapp på din enhet och ha snabb åtkomst till mappens innehåll. Använd menyalternativet "Anslut en mapp" och välj en mapp på din enhet. Tryck på "Färdig" så skapar appen en länk till den mappen med läs-/skrivåtkomst, vilket låter dig hantera filer direkt från den här appen. För att koppla från en mapp på din enhet, tryck på knappen "Fler åtgärder" och välj "Koppla bort."
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evertag Importera filer från min enhet" image="/docs/guide/evertag/img/open-files.webp" >}}
+  {{< ls-card title="" subtitle="Evertag Importera filer från min enhet" image="/docs/guide/evertag/img/open-files.webp" >}}
 {{< /cards >}}
 
 ## Importera filer på anslutna USB-flashkort
@@ -86,7 +86,7 @@ Detaljerade instruktioner om hur du ansluter ett USB-flashkort till din iPhone o
 Menyn Fler åtgärder för den för tillfället öppnade mappen finns i det övre högra hörnet och ger åtkomst till olika åtgärder.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evertag Importera filer från min enhet" image="/docs/guide/evertag/img/downloads-current-folder-actions.webp" >}}
+  {{< ls-card title="" subtitle="Evertag Importera filer från min enhet" image="/docs/guide/evertag/img/downloads-current-folder-actions.webp" >}}
 {{< /cards >}}
 
 - **Välja:** Byt till urvalläge för filer och mappar.

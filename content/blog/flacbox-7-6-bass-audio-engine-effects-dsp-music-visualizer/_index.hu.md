@@ -12,7 +12,7 @@ authors:
     image: "/images/about/artem-meleshko-founder-everappz.webp"
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 **Röviden:** A [Flacbox 7.6](/products/flacbox) az eddigi legnagyobb frissítésünk az iPhone, iPad és Mac hi-res zenelejátszóhoz, és egy vadonatúj **BASS™ hangmotor** köré épül a veszteségmentes és nagy felbontású hallgatáshoz. A BASS™ motort a meglévő lejátszómag alternatívájaként választhatod ki, hogy feloldd a **valós idejű hangeffektek** teljes láncát, a **14 szűrős DSP-processzort**, az **élő, teljes képernyős zenei vizualizációt**, valamint a klasszikus **tracker és MOD zenék** (MOD, XM, IT, S3M, MTM, UMX, MO3) lejátszását. A frissítés emellett **automatikus, hangosság alapú hangerőszint-kiegyenlítést**, **tizenegy effektet tartalmazó stúdiócsomagot** (reverb, delay, multi-tap echo, chorus, flanger, phaser, auto-wah, torzítás, kompresszor, sztereóforgatás és crossfeed), **megújult effekt- és equalizer-felületet** modern, üvegstílusú csúszkákkal, valamint **CarPlay-fejlesztéseket** hoz, köztük a DSP-beállításokat az autóban, illetve pontosabb zárolási képernyős, órás és autós vezérlőket. A háttérben: megbízhatóbb streaming-alapok, jobb fájltípus-kezelés, szélesebb körű lokalizáció, valamint számos stabilitási és teljesítménybeli javítás.
 
@@ -139,50 +139,50 @@ Köszönjük, hogy a Flacboxot használod. A zenéd mostantól nagyszerűen szó
 
 ## Gyakran ismételt kérdések
 
-{{% details title="Mi az újdonság a Flacbox 7.6-ban?" closed="true" %}}
+{{% ls-details title="Mi az újdonság a Flacbox 7.6-ban?" closed="true" %}}
 A Flacbox 7.6 egy új, professzionális **BASS™ hangmotort** ad hozzá, amelyet alternatív lejátszómagként választhatsz, **automatikus, hangosság alapú hangerőszint-kiegyenlítést**, **tizenegy effektet tartalmazó stúdiócsomagot** (reverb, delay, multi-tap echo, chorus, flanger, phaser, auto-wah, torzítás, kompresszor, sztereóforgatás és crossfeed), **14 szűrős valós idejű DSP-processzort**, **teljes képernyős, valós idejű zenei vizualizációt**, natív **tracker és MOD** lejátszást (MOD, XM, IT, S3M, MTM, UMX, MO3), **megújult effekt- és equalizer-felületet**, valamint **CarPlay-fejlesztéseket**. Emellett megbízhatóbb streaming-alapokat, jobb fájltípus-kezelést, szélesebb körű lokalizációt, valamint számos stabilitási és teljesítménybeli javítást is tartalmaz.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Mi az új BASS™ hangmotor a Flacboxban?" closed="true" %}}
+{{% ls-details title="Mi az új BASS™ hangmotor a Flacboxban?" closed="true" %}}
 A [BASS™](https://www.un4seen.com) hangmotor, amely az un4seen Developments BASS™ hangkönyvtárára épül, egy professzionális lejátszómag, amelyet a **Flacbox meglévő motorjának alternatívájaként** választhatsz. Kiválasztásával feloldod a valós idejű hangeffektek teljes láncát, egy DSP-processzort és az élő vizualizációt, és hozzáadja a klasszikus tracker és MOD zenék lejátszását is. A meglévő veszteségmentes és hi-res gyűjteményedet (FLAC, DSD, ALAC, APE és még sok más) **kiváló minőségű újramintavételezéssel** és **precíz hangmagasság- és tempóvezérléssel** játssza le. Bármikor visszaválthatsz a klasszikus motorra.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Milyen hangformátumokat és tracker/MOD típusokat játszik le a Flacbox 7.6?" closed="true" %}}
+{{% ls-details title="Milyen hangformátumokat és tracker/MOD típusokat játszik le a Flacbox 7.6?" closed="true" %}}
 A Flacbox továbbra is hi-res és veszteségmentes lejátszó, amely kezeli a **FLAC-, DSD-, APE-, ALAC-, WAV-, AIFF-, MP3-, AAC-, Opus**-fájlokat és még sok mást. A 7.6-ban újdonság, hogy a BASS™ motor a klasszikus **tracker és modulzenéket** is lejátssza: **MOD, XM, IT, S3M, MTM, UMX és MO3** — a mintázat-és-minta alapú formátumokat, amelyeket a chiptune- és demoscene-zenében használnak, és amelyeket a legtöbb iPhone-lejátszó nem tud megnyitni.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Hogyan működik az automatikus hangerőszint-kiegyenlítés a Flacboxban?" closed="true" %}}
+{{% ls-details title="Hogyan működik az automatikus hangerőszint-kiegyenlítés a Flacboxban?" closed="true" %}}
 A Flacbox 7.6 **EBU R128 hangosságmérést** használ (az ITU-R BS.1770 szabvány), hogy a különböző albumokról származó számokat egységes észlelt hangerőn tartsa, így nem kell a hangerőt állítgatnod a számok között. A **helyi fájlok esetében a gyűjteményedet előre végigpásztázza**, így a lejátszás már kiegyenlítve indul — nincs késleltetés, amíg az alkalmazás egy szám indulása után megméri a hangosságot. Négy előbeállítás érhető el — **Enyhe** (−20 LUFS), **Normál** (−16 LUFS), **Erős** (−14 LUFS) és **Éjszakai** (−23 LUFS) —, és vegyes gyűjteményekben, válogatásokban és véletlenszerű lejátszás közben egyaránt működik.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Milyen hangeffektek vannak a Flacbox 7.6-ban?" closed="true" %}}
+{{% ls-details title="Milyen hangeffektek vannak a Flacbox 7.6-ban?" closed="true" %}}
 Tizenegy valós idejű effekt, amelyeket egymásra fűzhetsz és finomhangolhatsz lejátszás közben: **reverb, delay, multi-tap echo, chorus, flanger, phaser, auto-wah, torzítás, kompresszor, sztereóforgatás és crossfeed**. Minden effektnek **saját képernyője, előbeállítás-könyvtára és azonnali be-/kikapcsoló gombja** van, a Flacbox pedig megjegyzi a beállításaidat a munkamenetek között. A crossfeed különösen természetesebbé teszi az erősen szélre panorámázott felvételeket fejhallgatón.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Mi a DSP-processzor, és milyen szűrőket tartalmaz?" closed="true" %}}
+{{% ls-details title="Mi a DSP-processzor, és milyen szűrőket tartalmaz?" closed="true" %}}
 A DSP-processzor lehetővé teszi, hogy **felépítsd a saját valós idejű jelláncodat 14 szűrőből**: gain, aluláteresztő, felüláteresztő, sáváteresztő és sávzáró szűrők, peaking EQ, low-shelf és high-shelf EQ, soft-clip szaturáció, bit crusher, tremolo, delay, ring modulátor és sztereószélesség. Minden szűrőnek **előbeállításai és azonnali be-/kikapcsoló gombja** van, így korrigálhatsz egy szobát, megszelídíthetsz éles felvételeket, vagy megtervezhetsz egy teljesen egyedi hangzást.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Mi a crossfeed, és miért használnám fejhallgatón?" closed="true" %}}
+{{% ls-details title="Mi a crossfeed, és miért használnám fejhallgatón?" closed="true" %}}
 A crossfeed mindkét sztereócsatornából kis, szűrt mennyiséget kever a másikba, ugyanúgy, ahogyan a füled természetes módon hallja a valódi hangszórókat egy szobában. Fejhallgatón ez csökkenti az erősen szélre panorámázott felvételek eltúlzott, „a fejedben lévő” szétválását, és kényelmesebbé teszi a hosszú hallgatást. Különösen hatékony a régebbi, 1960-as és 1970-es évekbeli sztereófelvételeknél.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="A Flacbox zenei vizualizációja minden eszközön működik?" closed="true" %}}
+{{% ls-details title="A Flacbox zenei vizualizációja minden eszközön működik?" closed="true" %}}
 Igen. A **valós idejű zenei vizualizáció** teljes képernyős, animált látványt jelenít meg, amely élőben reagál a zenédre, az előbeállítások nagy könyvtárával, amelyekből választhatsz, vagy hagyhatod, hogy automatikusan váltogassanak. **Elérhető az összes eszközöd lejátszómotorjain**, egy beépített **képernyőalvás-megelőző** pedig ébren tartja a kijelzőt, így a látvány nem szakad meg egy szám közben.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Módosíthatom a hangmagasságot és a tempót anélkül, hogy a másikat befolyásolnám?" closed="true" %}}
+{{% ls-details title="Módosíthatom a hangmagasságot és a tempót anélkül, hogy a másikat befolyásolnám?" closed="true" %}}
 Igen. Ha az új BASS™ motort használod, a Flacbox 7.6 **precíz, egymástól független hangmagasság- és tempóvezérlést** kínál — módosítsd egy szám sebességét a hangnemének megváltoztatása nélkül, vagy told el a hangnemet a sebesség módosítása nélkül. Hasznos gyakorláshoz, lekottázáshoz és DJ-stílusú hallgatáshoz.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Mi javult a CarPlayben a Flacbox 7.6-ban?" closed="true" %}}
+{{% ls-details title="Mi javult a CarPlayben a Flacbox 7.6-ban?" closed="true" %}}
 A CarPlay mostantól tartalmazza a **DSP-beállításokat**, így elérheted a konfigurációdat az autóból, **javított albumborító- és Éppen játszott** megjelenítést, valamint **pontosabb zárolási képernyős, Apple Watch- és autós vezérlőket**, amelyek szinkronban maradnak a lejátszással. A megbízhatóbb streaming-alapokkal kombinálva gördülékenyebb a veszteségmentes gyűjteményed hallgatása az úton.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Működnek az effektek, a DSP és az equalizer felhős streaminggel?" closed="true" %}}
+{{% ls-details title="Működnek az effektek, a DSP és az equalizer felhős streaminggel?" closed="true" %}}
 Igen. Az effektek, a DSP-szűrők, az equalizer és a hangerőszint-kiegyenlítés valós időben futnak a BASS™ lejátszómotoron belül, így mindenre alkalmazódnak, amit a Flacbox lejátszik — **helyi fájlokra, felhőmeghajtókra (iCloud Drive, Google Drive, Dropbox, OneDrive és még sok más), médiaszerverekre és hálózati megosztásokra** — a fájlok újrakódolása nélkül.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="A Flacbox 7.6 ingyenes frissítés, és mely eszközöket támogatja?" closed="true" %}}
+{{% ls-details title="A Flacbox 7.6 ingyenes frissítés, és mely eszközöket támogatja?" closed="true" %}}
 Igen. A Flacbox **ingyenesen letölthető** az App Store-ból, a 7.6 pedig **ingyenes frissítés** a meglévő felhasználók számára, opcionális, alkalmazáson belüli bővítésekkel a haladó funkciókhoz. iPhone-on, iPaden és Macen fut. A CarPlay CarPlay-kompatibilis járművet vagy fejegységet igényel.
-{{% /details %}}
+{{% /ls-details %}}

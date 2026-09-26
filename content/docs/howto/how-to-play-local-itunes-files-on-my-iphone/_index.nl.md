@@ -7,7 +7,7 @@ tags: ["audio", "speler", "computer", "bestanden", "bestand", "pc", "mac", "dele
 keywords: ["iTunes file sharing", "lokale muziek afspelen", "muziek overzetten naar iPhone", "bestanden kopiëren naar iOS", "mac naar iPhone audio", "lokale bestanden op iPhone", "Evermusic", "Flacbox", "muziekspeler", "bestanden delen", "WiFi Drive", "SMB muziek streamen", "iPhone muziek-app", "muziek importeren naar iOS"]
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **Samenvatting:** Zet muziek over van uw computer naar iPhone met een van drie methoden: **iTunes/Finder File Sharing** (USB-kabel), **[WiFi Drive](/docs/howto/how-to-transfer-music-from-computer-to-iphone-without-itunes)** (draadloos, geen kabel nodig), of **[SMB](/docs/howto/stream-your-music-from-mac-or-pc-to-iphone-using-smb/)** (direct streamen zonder kopiëren). Speel vervolgens af met [Evermusic](/products/evermusic) of [Flacbox](/products/flacbox).
@@ -134,22 +134,22 @@ U kunt uw computer ook verbinden via het SMB-protocol om muziek rechtstreeks te 
 
 ## FAQ
 
-{{% details title="Wat is de snelste manier om muziek naar iPhone over te zetten?" closed="true" %}}
+{{% ls-details title="Wat is de snelste manier om muziek naar iPhone over te zetten?" closed="true" %}}
 iTunes/Finder File Sharing via USB is de snelste methode voor grote muziekbibliotheken. Voor kleinere overdrachten is WiFi Drive handiger omdat er geen kabel nodig is.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Kan ik FLAC-bestanden naar mijn iPhone overzetten?" closed="true" %}}
+{{% ls-details title="Kan ik FLAC-bestanden naar mijn iPhone overzetten?" closed="true" %}}
 Ja. Zowel Evermusic als Flacbox accepteren FLAC-bestanden via iTunes File Sharing, WiFi Drive of SMB. Flacbox wordt aanbevolen voor lossless-formaten.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Heb ik iTunes nodig op macOS Catalina of nieuwer?" closed="true" %}}
+{{% ls-details title="Heb ik iTunes nodig op macOS Catalina of nieuwer?" closed="true" %}}
 Nee. Apple heeft iTunes vervangen door Finder voor apparaatbeheer vanaf macOS Catalina. Gebruik het tabblad Bestanden van de Finder voor het delen van bestanden.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Kan ik muziek streamen zonder bestanden naar mijn iPhone te kopiëren?" closed="true" %}}
+{{% ls-details title="Kan ik muziek streamen zonder bestanden naar mijn iPhone te kopiëren?" closed="true" %}}
 Ja. Gebruik het SMB-protocol om muziek rechtstreeks te streamen van uw Mac of PC. Dit bespaart apparaatopslag en houdt uw bibliotheek op uw computer.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Welke app moet ik gebruiken -- Evermusic of Flacbox?" closed="true" %}}
+{{% ls-details title="Welke app moet ik gebruiken -- Evermusic of Flacbox?" closed="true" %}}
 Gebruik Evermusic voor standaardformaten zoals MP3, WAV en AAC. Kies Flacbox als uw bibliotheek lossless-formaten bevat zoals FLAC, DSD of OGG.
-{{% /details %}}
+{{% /ls-details %}}

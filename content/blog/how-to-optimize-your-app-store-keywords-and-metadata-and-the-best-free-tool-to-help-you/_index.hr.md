@@ -14,7 +14,7 @@ authors:
     image: "/images/about/artem-meleshko-founder-everappz.webp"
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 ## Zašto ključne riječi App Storea određuju vaše preuzimanja
 
@@ -76,29 +76,29 @@ S [AppKeywords.pro](https://appkeywords.pro) možete poboljšati vidljivost apli
 Alat je otvorenog koda.
 
 {{< cards cols="1" >}}
-  {{< card link="https://github.com/everappz/app-store-keyword-optimizer/tree/main" title="appkeywords.pro na GitHubu" icon="github" tag= "open source" >}}
+  {{< ls-card link="https://github.com/everappz/app-store-keyword-optimizer/tree/main" title="appkeywords.pro na GitHubu" icon="github" tag= "open source" >}}
 {{< /cards >}}
 
 ---
 
 ## Često postavljana pitanja
 
-{{% details title="Je li AppKeywords.pro zaista besplatan?" closed="true" %}}
+{{% ls-details title="Je li AppKeywords.pro zaista besplatan?" closed="true" %}}
 Da. To je potpuno open-source, alat temeljen na pregledniku bez prijave, oglasa i prikupljanja podataka.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Radi li ovaj alat za više lokalizacija App Storea?" closed="true" %}}
+{{% ls-details title="Radi li ovaj alat za više lokalizacija App Storea?" closed="true" %}}
 Da. Možete dodati metapodatke za svaki lokal neovisno, a izvoz uključuje sve jezike u jednoj JSON datoteci kompatibilnoj s Fastlane.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Trebam li ponavljati ključne riječi iz naslova u polju ključnih riječi?" closed="true" %}}
+{{% ls-details title="Trebam li ponavljati ključne riječi iz naslova u polju ključnih riječi?" closed="true" %}}
 Ne. Apple već indeksira riječi iz vašeg naslova i podnaslova. Ponavljanje troši znakove.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Koliko često trebam ažurirati ključne riječi App Storea?" closed="true" %}}
+{{% ls-details title="Koliko često trebam ažurirati ključne riječi App Storea?" closed="true" %}}
 Pregledajte i osvježite ključne riječi barem jednom tromjesečno.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Mogu li koristiti ovaj alat s Fastlane?" closed="true" %}}
+{{% ls-details title="Mogu li koristiti ovaj alat s Fastlane?" closed="true" %}}
 Da. GitHub repozitorij uključuje shell skripte za pretvorbu između strukture mapa metapodataka Fastlane i JSON formata AppKeywords.pro.
-{{% /details %}}
+{{% /ls-details %}}

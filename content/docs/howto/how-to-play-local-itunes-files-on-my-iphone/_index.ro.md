@@ -7,7 +7,7 @@ tags: ["audio", "player", "computer", "fișiere", "fișier", "PC", "Mac", "parta
 keywords: ["iTunes file sharing", "redare muzică locală", "transfer muzică pe iPhone", "copiere fișiere pe iOS", "Mac pe iPhone audio", "fișiere locale pe iPhone", "Evermusic", "Flacbox", "player muzical", "partajare fișiere", "WiFi Drive", "streaming muzică SMB", "aplicație muzicală iPhone", "import muzică pe iOS"]
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **Rezumat:** Transferați muzică de pe computer pe iPhone folosind una dintre cele trei metode: **iTunes/Finder File Sharing** (cablu USB), **[WiFi Drive](/docs/howto/how-to-transfer-music-from-computer-to-iphone-without-itunes)** (wireless, fără cablu necesar), sau **[SMB](/docs/howto/stream-your-music-from-mac-or-pc-to-iphone-using-smb/)** (streaming direct fără copiere). Apoi redați cu [Evermusic](/products/evermusic) sau [Flacbox](/products/flacbox).
@@ -134,22 +134,22 @@ Puteți de asemenea să vă conectați computerul folosind protocolul SMB pentru
 
 ## FAQ
 
-{{% details title="Care este cea mai rapidă modalitate de a transfera muzică pe iPhone?" closed="true" %}}
+{{% ls-details title="Care este cea mai rapidă modalitate de a transfera muzică pe iPhone?" closed="true" %}}
 iTunes/Finder File Sharing prin USB este cea mai rapidă metodă pentru biblioteci muzicale mari. Pentru transferuri mai mici, WiFi Drive este mai convenabil deoarece nu necesită cablu.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Pot transfera fișiere FLAC pe iPhone-ul meu?" closed="true" %}}
+{{% ls-details title="Pot transfera fișiere FLAC pe iPhone-ul meu?" closed="true" %}}
 Da. Atât Evermusic cât și Flacbox acceptă fișiere FLAC prin iTunes File Sharing, WiFi Drive sau SMB. Flacbox este recomandat pentru formatele fără pierderi.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Am nevoie de iTunes pe macOS Catalina sau ulterior?" closed="true" %}}
+{{% ls-details title="Am nevoie de iTunes pe macOS Catalina sau ulterior?" closed="true" %}}
 Nu. Apple a înlocuit iTunes cu Finder pentru gestionarea dispozitivelor începând cu macOS Catalina. Folosiți fila Fișiere din Finder pentru partajarea fișierelor.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Pot transmite muzică fără a copia fișiere pe iPhone?" closed="true" %}}
+{{% ls-details title="Pot transmite muzică fără a copia fișiere pe iPhone?" closed="true" %}}
 Da. Folosiți protocolul SMB pentru a transmite muzică direct de pe Mac sau PC. Aceasta economisește spațiul de stocare al dispozitivului și păstrează biblioteca pe computer.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Ce aplicație ar trebui să folosesc -- Evermusic sau Flacbox?" closed="true" %}}
+{{% ls-details title="Ce aplicație ar trebui să folosesc -- Evermusic sau Flacbox?" closed="true" %}}
 Folosiți Evermusic pentru formate standard precum MP3, WAV și AAC. Alegeți Flacbox dacă biblioteca dvs. include formate fără pierderi precum FLAC, DSD sau OGG.
-{{% /details %}}
+{{% /ls-details %}}

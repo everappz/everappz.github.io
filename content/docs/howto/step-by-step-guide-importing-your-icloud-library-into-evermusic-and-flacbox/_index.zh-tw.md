@@ -7,7 +7,7 @@ tags: ["音樂", "雲端", "串流", "同步", "icloud", "資料庫"]
 keywords: ["匯入 iCloud 音樂 Evermusic", "Flacbox iCloud 同步", "Evermusic 從 iCloud 串流", "音樂資料庫 iOS 應用", "Flacbox 元資料讀取器", "iCloud 音樂串流 iPhone"]
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **摘要：** 您可以在 Evermusic 和 Flacbox 中串流 iCloud Drive 音樂資料庫，無需將檔案下載到裝置。在應用程式中連接 iCloud Drive，啟用線上音樂同步來建立資料庫，設定元資料讀取器按藝術家/專輯/類型整理，並可選擇啟用離線模式下載專輯以便在沒有網路的情況下聆聽。這些步驟也適用於 Google Drive、Dropbox、OneDrive 和其他支援的雲端服務。
@@ -75,26 +75,26 @@ keywords: ["匯入 iCloud 音樂 Evermusic", "Flacbox iCloud 同步", "Evermusic
 
 ## 常見問題
 
-{{% details title="我可以不下載檔案到 iPhone 就串流 iCloud 音樂嗎？" closed="true" %}}
+{{% ls-details title="我可以不下載檔案到 iPhone 就串流 iCloud 音樂嗎？" closed="true" %}}
 可以。連接 iCloud Drive 並使用線上音樂同步後，應用程式建立到雲端檔案的連結並按需串流。除非您明確啟用離線模式，否則檔案不會被下載。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="為什麼 iCloud 音樂匯入很慢？" closed="true" %}}
+{{% ls-details title="為什麼 iCloud 音樂匯入很慢？" closed="true" %}}
 匯入慢通常是因為透過行動連線讀取大型資料庫的元資料。啟用背景同步並考慮使用 Mac 版本。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="本指南適用於 iCloud 以外的雲端服務嗎？" closed="true" %}}
+{{% ls-details title="本指南適用於 iCloud 以外的雲端服務嗎？" closed="true" %}}
 適用。相同步驟適用於 Google Drive、Dropbox、OneDrive、SMB、WebDAV 和所有其他支援的雲端服務。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="如何將音樂資料庫從 Mac 傳輸到 iPhone？" closed="true" %}}
+{{% ls-details title="如何將音樂資料庫從 Mac 傳輸到 iPhone？" closed="true" %}}
 使用應用程式設定中的資料備份/還原功能。先在 Mac 版本上同步和讀取元資料，建立備份，然後在 iOS 版本上還原。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="元資料讀取器會變更我的原始音訊檔案嗎？" closed="true" %}}
+{{% ls-details title="元資料讀取器會變更我的原始音訊檔案嗎？" closed="true" %}}
 不會。元資料讀取器僅更新音樂資料庫中的顯示資訊。要編輯檔案標籤，請使用內建標籤編輯器。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="如何使專輯可離線使用？" closed="true" %}}
+{{% ls-details title="如何使專輯可離線使用？" closed="true" %}}
 點擊雲端資料夾上的 **更多操作** 並選擇 **啟用離線模式**。應用程式下載所有檔案並自動保持與雲端版本同步。
-{{% /details %}}
+{{% /ls-details %}}

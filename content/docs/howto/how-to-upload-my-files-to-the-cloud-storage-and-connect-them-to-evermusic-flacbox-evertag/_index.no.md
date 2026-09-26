@@ -7,7 +7,7 @@ tags: ["evermusic", "flacbox", "sky", "fil", "konto", "behandler", "koble", "net
 keywords: ["koble skytjeneste til Evermusic", "laste opp filer til Google Drive", "Flacbox skyintegrasjon", "bruke OneDrive med Evermusic", "Evertag sky filtilgang", "koble Dropbox til iOS musikkspiller", "filbehandler for skytjenester"]
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **Kort fortalt:** Last opp musikk- eller mediefilene dine til en støttet skytjeneste (Google Drive, Dropbox, OneDrive og mer), og koble deretter tjenesten i Evermusic, Flacbox eller Evertag for å strømme eller laste ned filene dine direkte på iPhone, iPad eller Mac.
@@ -76,38 +76,38 @@ Si farvel til lagringsbegrensninger og hei til bekvemmelighet!
 
 ## Ofte stilte spørsmål
 
-{{% details title="Hvilke skytjenester støttes?" closed="true" %}}
+{{% ls-details title="Hvilke skytjenester støttes?" closed="true" %}}
 Evermusic, Flacbox og Evertag støtter Google Drive, Dropbox, OneDrive, Box, MediaFire, Yandex.Disk, MEGA, MyDrive, pCloud og andre skyleverandører. Du kan også koble til egendefinerte WebDAV-, SMB- og FTP-servere.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Kan jeg strømme musikk direkte fra skyen uten å laste ned?" closed="true" %}}
+{{% ls-details title="Kan jeg strømme musikk direkte fra skyen uten å laste ned?" closed="true" %}}
 Ja. Alle tre appene støtter strømming av lydfiler direkte fra den tilkoblede skylagringen. Du kan også laste ned filer for offline avspilling når du ikke har internettilgang.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Er det en filstørrelses- eller lagringsgrense i appen?" closed="true" %}}
+{{% ls-details title="Er det en filstørrelses- eller lagringsgrense i appen?" closed="true" %}}
 Appene pålegger ikke egne filstørrelses- eller lagringsgrenser. Tilgjengelig lagring avhenger av skytjenesteplanen din og enhetens lokale lagring for nedlastede filer.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Kan jeg koble til flere skykontoer samtidig?" closed="true" %}}
+{{% ls-details title="Kan jeg koble til flere skykontoer samtidig?" closed="true" %}}
 Ja. Du kan koble til flere skytjenester og flere kontoer fra samme leverandør samtidig. Alle tilkoblede kontoer vises i fanen Tilkoblinger for enkel veksling.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Må jeg laste opp filer på nytt hvis jeg bytter til en annen app?" closed="true" %}}
+{{% ls-details title="Må jeg laste opp filer på nytt hvis jeg bytter til en annen app?" closed="true" %}}
 Nei. Siden filene dine er lagret i skyen, kan du koble den samme skykontoen til Evermusic, Flacbox eller Evertag uten å laste opp noe på nytt. Hver app får tilgang til de samme filene fra skylagringen din.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Er mine skykontodata sikre?" closed="true" %}}
+{{% ls-details title="Er mine skykontodata sikre?" closed="true" %}}
 Ja. Appen bruker kun offisielle SDK-er og krypterte tilkoblinger for å kommunisere med skytjenester. Påloggingsinformasjonen og passordet ditt lagres aldri av appen. Når du logger inn, viser appen den offisielle autorisasjonssiden fra skytjenesten. Etter vellykket autorisasjon sender skyleverandøren et autorisasjonstoken til appen, som lagres sikkert i enhetens nøkkelring. Dette tokenet brukes for alle API-forespørsler.<br><br>
 Appen deler ingen informasjon fra skykontoen din. Du kan tilbakekalle tilgangen når som helst fra innstillingssiden for skykontoen din i en nettleser, eller koble fra kontoen i appen.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Hvordan kobler jeg fra en skytjeneste eller endrer konfigurasjonen?" closed="true" %}}
+{{% ls-details title="Hvordan kobler jeg fra en skytjeneste eller endrer konfigurasjonen?" closed="true" %}}
 Finn skylagringen i appens Tilkoblinger-fane og trykk på knappen **...** ved siden av den. Du vil se disse alternativene:<br>
 - **Gi nytt navn** -- endre visningsnavnet til skytjenesten<br>
 - **Innstillinger** -- endre konfigurasjon eller autoriser på nytt hvis tokenet har utløpt<br>
 - **Koble fra** -- fjern tilkoblingen helt. Dette fjerner alle sanger fra denne skytjenesten fra appens musikkbibliotek, men filene forblir på serveren
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Hvordan tilbakekaller jeg appens tilgang til skykontoen min?" closed="true" %}}
+{{% ls-details title="Hvordan tilbakekaller jeg appens tilgang til skykontoen min?" closed="true" %}}
 Logg inn på skykontoen din i en nettleser og åpne kontoinnstillingene eller sikkerhetssiden. Finn listen over tilkoblede tredjepartsapper og fjern appen du ikke lenger vil autorisere. Du kan også koble fra skykontoen i appen -- dette fjerner autorisasjonstokenet fra enheten din. Hvis du sletter appen helt, fjernes alle nedlastede data og tilgangstokener automatisk.
-{{% /details %}}
+{{% /ls-details %}}

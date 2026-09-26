@@ -7,7 +7,7 @@ tags: ["lyrics", "mp3", "id3", "metadata", "iphone", "audio editing"]
 readingTime: 2
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **Összefoglalás:** Használja az ingyenes **Evertag** alkalmazást szinkronizálatlan dalszövegek, tartalombesorolások és 120+ hangcímke szerkesztéséhez iPhone-on vagy Mac-en. Működik helyi és felhőben tárolt fájlokkal, támogatja a kötegelt szerkesztést, és elmenti a dalszövegeket, amelyek láthatók az Evermusic, Flacbox és más lejátszókban.
@@ -23,8 +23,8 @@ Bemutatáshoz az **Evertag** alkalmazást használjuk. Támogatja a **120+ hangc
 Kezdje az **Evertag** alkalmazás letöltésével az App Store-ból. Elérhető mind **iOS**-re, mind **macOS**-re, és ingyenes.
 
 {{< cards cols="2">}}
-{{< card link="https://apps.apple.com/app/apple-store/id1450763230?pt=95781850&ct=everappzcom&mt=8" title="Evertag iOS-re" icon="download" tag="Free" >}}
-{{< card link="https://apps.apple.com/app/apple-store/id1594027661?pt=95781850&ct=everappzcom&mt=8" title="Evertag macOS-re" icon="download" tag="Free" >}}
+{{< ls-card link="https://apps.apple.com/app/apple-store/id1450763230?pt=95781850&ct=everappzcom&mt=8" title="Evertag iOS-re" icon="download" tag="Free" >}}
+{{< ls-card link="https://apps.apple.com/app/apple-store/id1594027661?pt=95781850&ct=everappzcom&mt=8" title="Evertag macOS-re" icon="download" tag="Free" >}}
 {{< /cards >}}
 
 ## Felhőfiók csatlakoztatása
@@ -38,13 +38,13 @@ Felhőtárolási szolgáltatás csatlakoztatásához:
 - Érintse meg a **Csatlakozás felhőtárolóhoz** lehetőséget
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Csatlakozás felhőtárolóhoz" image="/docs/howto/how-to-edit-lyrics-for-audio-files-on-iphone-mac/connect-to-cloud-storage.webp" >}}
+{{< ls-card title="" subtitle="Csatlakozás felhőtárolóhoz" image="/docs/howto/how-to-edit-lyrics-for-audio-files-on-iphone-mac/connect-to-cloud-storage.webp" >}}
 {{< /cards >}}
 
 - Válasszon egy támogatott szolgáltatót, adja meg hitelesítő adatait, és érintse meg a **Kész** gombot
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Csatlakozás felhőtárolóhoz" image="/docs/howto/how-to-edit-lyrics-for-audio-files-on-iphone-mac/connect-to-cloud-storage.webp" >}}
+{{< ls-card title="" subtitle="Csatlakozás felhőtárolóhoz" image="/docs/howto/how-to-edit-lyrics-for-audio-files-on-iphone-mac/connect-to-cloud-storage.webp" >}}
 {{< /cards >}}
 
 - A csatlakozás után a felhőtárolója megjelenik az alkalmazás **Felhőtároló** részében.
@@ -52,7 +52,7 @@ Felhőtárolási szolgáltatás csatlakoztatásához:
 - Érintse meg a csatlakoztatott felhőtárolót a mappa tartalmának böngészéséhez és betöltéséhez.
   
 {{< cards cols="1">}}
-{{< card title="" subtitle="Felhőtároló fájllista" image="/docs/howto/how-to-edit-lyrics-for-audio-files-on-iphone-mac/cloud-storage-list-audio-files.webp" >}}
+{{< ls-card title="" subtitle="Felhőtároló fájllista" image="/docs/howto/how-to-edit-lyrics-for-audio-files-on-iphone-mac/cloud-storage-list-audio-files.webp" >}}
 {{< /cards >}}
 
 ## Helyi mappa csatlakoztatása
@@ -74,7 +74,7 @@ Szerkesztheti az eszközén közvetlenül tárolt fájlok hangcímkéit anélkü
 - Görgessen le a **Fájlok ezen az eszközön** elemhez az oldalsáv menüben
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Eszközmappák" image="/docs/howto/how-to-edit-lyrics-for-audio-files-on-iphone-mac/device-folders.webp" >}}
+{{< ls-card title="" subtitle="Eszközmappák" image="/docs/howto/how-to-edit-lyrics-for-audio-files-on-iphone-mac/device-folders.webp" >}}
 {{< /cards >}}
   
 - Érintse meg az **Összes eszközmappa** menüelemet
@@ -91,7 +91,7 @@ Szerkesztheti az eszközén közvetlenül tárolt fájlok hangcímkéit anélkü
 A **Címkeszerkesztő** az Evertag alkalmazás fő képernyője, ahol megtekintheti és szerkesztheti a hangfájlok metaadatait. Nyissa meg ezt a képernyőt egy fájlra koppintva a **Helyi fájlok** részből vagy bármely csatlakoztatott **felhőtároló** fiókból.
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Evertag címkeszerkesztő képernyő" image="/docs/howto/how-to-edit-lyrics-for-audio-files-on-iphone-mac/cloud-storage-audio-file-tag-editor.webp" >}}
+{{< ls-card title="" subtitle="Evertag címkeszerkesztő képernyő" image="/docs/howto/how-to-edit-lyrics-for-audio-files-on-iphone-mac/cloud-storage-audio-file-tag-editor.webp" >}}
 {{< /cards >}}
 
 ## Szerkesztési módok
@@ -112,7 +112,7 @@ Alapértelmezés szerint az alkalmazás egyfájlos módban nyitja meg a címkesz
 Az összes elérhető címke eléréséhez görgessen a képernyő aljára és érintse meg a **Kiterjesztett címkék megjelenítése** lehetőséget. Ez átkapcsolja a szerkesztőt kiterjesztett módba, lehetővé téve több mint **120 metaadat-mező** szerkesztését, beleértve a **MusicBrainz címkéket**, **dalszövegeket**, **tartalombesorolásokat** és még sok mást.
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Alsó műveletpanel" image="/docs/howto/how-to-edit-lyrics-for-audio-files-on-iphone-mac/show-extended-tags.webp" >}}
+{{< ls-card title="" subtitle="Alsó műveletpanel" image="/docs/howto/how-to-edit-lyrics-for-audio-files-on-iphone-mac/show-extended-tags.webp" >}}
 {{< /cards >}}
 
 ## Kötegelt mód
@@ -137,7 +137,7 @@ A szerkesztés után érintse meg a **Mentés** gombot a változtatások alkalma
 A **Kiterjesztett címkék** módban görgessen le és érintse meg a **Szinkronizálatlan dalszövegek** szövegmezőt.
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Szinkronizálatlan dalszövegek szövegmező" image="/docs/howto/how-to-edit-lyrics-for-audio-files-on-iphone-mac/advisory-rating-2.webp" >}}
+{{< ls-card title="" subtitle="Szinkronizálatlan dalszövegek szövegmező" image="/docs/howto/how-to-edit-lyrics-for-audio-files-on-iphone-mac/advisory-rating-2.webp" >}}
 {{< /cards >}}
 
 > Az **ID3 címkéket** támogató hangfájlok (mint `.mp3` vagy `.wav`) lehetővé teszik dalszövegek hozzáadását több nyelven. Ha ID3 címkézett fájlt szerkeszt, az Evertag teljes többnyelvű támogatást engedélyez.  
@@ -148,7 +148,7 @@ A **Kiterjesztett címkék** módban görgessen le és érintse meg a **Szinkron
 Ha ID3 címkéket szerkeszt, a következő képernyő egy **Új oldal hozzáadása** gombot jelenít meg. Érintse meg egy új dalszöveg-bejegyzés hozzáadásának megkezdéséhez.
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Új dalszöveg oldal hozzáadása" image="/docs/howto/how-to-edit-lyrics-for-audio-files-on-iphone-mac/add-new-page.webp" >}}
+{{< ls-card title="" subtitle="Új dalszöveg oldal hozzáadása" image="/docs/howto/how-to-edit-lyrics-for-audio-files-on-iphone-mac/add-new-page.webp" >}}
 {{< /cards >}}
 
 ### Nyelv, megjegyzés és dalszöveg tartalom kiválasztása
@@ -159,7 +159,7 @@ A dalszöveg beviteli képernyőn a következőket teheti:
 - Megadhatja a tényleges **dalszöveget**
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Nyelv kiválasztása" image="/docs/howto/how-to-edit-lyrics-for-audio-files-on-iphone-mac/choose-language.webp" >}}
+{{< ls-card title="" subtitle="Nyelv kiválasztása" image="/docs/howto/how-to-edit-lyrics-for-audio-files-on-iphone-mac/choose-language.webp" >}}
 {{< /cards >}}
 
 ### Dalszövegek megadása
@@ -169,7 +169,7 @@ A dalszöveg beviteli képernyőn a következőket teheti:
 > Tipp: Minőségi dalszövegeket keres? Látogasson el a [lyricsify.com](https://www.lyricsify.com) oldalra, hogy LRC formátumú dalszövegeket találjon ezreknek számokhoz.
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Hozzáadott dalszövegek" image="/docs/howto/how-to-edit-lyrics-for-audio-files-on-iphone-mac/added-lyrics.webp" >}}
+{{< ls-card title="" subtitle="Hozzáadott dalszövegek" image="/docs/howto/how-to-edit-lyrics-for-audio-files-on-iphone-mac/added-lyrics.webp" >}}
 {{< /cards >}}
 
 ### Érintse meg a „Kész" gombot a megerősítéshez
@@ -177,7 +177,7 @@ A dalszöveg beviteli képernyőn a következőket teheti:
 A dalszövegek megadása után érintse meg a **Kész** gombot a dalszöveg oldalon. Ezután érintse meg ismét a **Kész** gombot az előző képernyőn a változtatások megerősítéséhez.
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Mentett dalszövegek" image="/docs/howto/how-to-edit-lyrics-for-audio-files-on-iphone-mac/saved-lyrics.webp" >}}
+{{< ls-card title="" subtitle="Mentett dalszövegek" image="/docs/howto/how-to-edit-lyrics-for-audio-files-on-iphone-mac/saved-lyrics.webp" >}}
 {{< /cards >}}
 
 ### Címkeváltozások mentése
@@ -185,7 +185,7 @@ A dalszövegek megadása után érintse meg a **Kész** gombot a dalszöveg olda
 Végül a **Címkeszerkesztő** képernyőn érintse meg a **Mentés** gombot a frissített címkék — beleértve az új dalszövegeket — visszaírásához a fájlba.
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Címkeszerkesztő dalszövegekkel" image="/docs/howto/how-to-edit-lyrics-for-audio-files-on-iphone-mac/tags-editor-with-lyrics.webp" >}}
+{{< ls-card title="" subtitle="Címkeszerkesztő dalszövegekkel" image="/docs/howto/how-to-edit-lyrics-for-audio-files-on-iphone-mac/tags-editor-with-lyrics.webp" >}}
 {{< /cards >}}
 
 ### Dalszöveg tartalombesorolás beállítása
@@ -204,22 +204,22 @@ Ezeket a lépéseket követve dalszövegei megfelelően be lesznek ágyazva a ha
 
 ## Gyakran ismételt kérdések
 
-{{% details title="Milyen hangformátumokat támogat az Evertag a dalszöveg-szerkesztéshez?" closed="true" %}}
+{{% ls-details title="Milyen hangformátumokat támogat az Evertag a dalszöveg-szerkesztéshez?" closed="true" %}}
 Az Evertag több mint 30 hangformátumot támogat, beleértve az MP3, FLAC, WAV, M4A, OGG, AIFF és más formátumokat. Dalszövegeket és más metaadat-címkéket szerkeszthet bármelyik formátumban.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Hozzáadhatok dalszövegeket több nyelven?" closed="true" %}}
+{{% ls-details title="Hozzáadhatok dalszövegeket több nyelven?" closed="true" %}}
 Igen, de csak ID3 címkéket használó hangfájlokhoz (mint MP3 és WAV). Más formátumokhoz, mint FLAC vagy M4A, csak egyetlen dalszöveg-bejegyzés támogatott.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Támogatja az Evertag a dalszövegek kötegelt szerkesztését?" closed="true" %}}
+{{% ls-details title="Támogatja az Evertag a dalszövegek kötegelt szerkesztését?" closed="true" %}}
 Igen. Beléphet a kötegelt módba több fájl metaadatainak egyidejű szerkesztéséhez. Ez hasznos ugyanazon tartalombesorolás vagy más megosztott címkék alkalmazásához egy teljes albumra.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Megjelennek a szerkesztett dalszövegek az Apple Music-ban vagy a Spotify-ban?" closed="true" %}}
+{{% ls-details title="Megjelennek a szerkesztett dalszövegek az Apple Music-ban vagy a Spotify-ban?" closed="true" %}}
 Az Evertag-gal szerkesztett dalszövegek be vannak ágyazva a hangfájl metaadataiba. Megjelennek bármely zenelejátszóban, amely olvassa a beágyazott dalszöveg-címkéket, mint az Evermusic, Flacbox, VLC és foobar2000. A streaming alkalmazások, mint a Spotify és az Apple Music, saját dalszöveg-adatbázisaikat használják, és nem olvassák a beágyazott címkéket.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Szerkeszthetem a felhőtárolóban tárolt fájlok címkéit?" closed="true" %}}
+{{% ls-details title="Szerkeszthetem a felhőtárolóban tárolt fájlok címkéit?" closed="true" %}}
 Igen. Az Evertag támogatja a felhőtárolási szolgáltatásokhoz való csatlakozást. Az alkalmazás letölti a fájlt, lehetővé teszi a címkék szerkesztését, és automatikusan feltölti a frissített fájlt vissza a felhőbe.
-{{% /details %}}
+{{% /ls-details %}}

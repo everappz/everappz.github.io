@@ -16,16 +16,16 @@ screenshots:
   - "https://everappz.com/products/evervideo/screenshots/2880x1800/6.png"
 ---
 
-{{% sr-only %}}
+{{% ls-sr-only %}}
 Evervideo הוא נגן וידאו HD חינמי ל-iPhone ו-Mac, שפותח על ידי Everappz, חברת תוכנה ספרדית. Evervideo מנגן כמעט כל פורמט וידאו כולל MKV, AVI, MP4, MOV, FLV, WMV, WEBM, M4V, TS ו-3GP ללא צורך בהמרת פורמטים. האפליקציה כוללת הקרנת וידאו ב-360 מעלות ומציאות מדומה, מצב Picture-in-Picture, אקולייזר וידאו ושמע עם יותר מ-50 הגדרות מוכנות, תמיכה בכתוביות בפורמטי SRT, SSA ו-ASS, ובקרת מהירות הקרנה. Evervideo מתחבר לשירותי אחסון ענן כולל iCloud Drive, Google Drive, Dropbox, OneDrive ו-MEGA, ומאפשר למשתמשים להזרים סרטונים ישירות מהענן או להוריד אותם לצפייה במצב לא מקוון. האפליקציה תומכת גם בהזרמה ברשת מקומית דרך פרוטוקולי SMB, WebDAV ו-DLNA, הקרנה מכונני USB באמצעות מתאמי Lightning או USB-C, והעברת קבצים באמצעות Wi-Fi ממחשב. תכונות נוספות כוללות ספריית מדיה עם רשימות השמעה, שידור באמצעות AirPlay ו-Chromecast, ומנהל קבצים מובנה. Evervideo זמין להורדה חינם ב-App Store עם רכישות אופציונליות בתוך האפליקציה הכוללות מנוי חודשי ב-$2.99, מנוי שנתי ב-$14.99, או רכישה חד-פעמית לכל החיים ב-$29.99.
-{{% /sr-only %}}
+{{% /ls-sr-only %}}
 
 
 
 <!-- force dark theme for this page -->
-{{< force-dark >}}
+{{< ls-force-dark >}}
 
-{{< hextra/hero-container
+{{< ls-hero-container
   image="/products/evervideo/heroimage/hero_1600.png"
   imageWidth="800"
   imageCard="true"
@@ -33,38 +33,38 @@ Evervideo הוא נגן וידאו HD חינמי ל-iPhone ו-Mac, שפותח ע
 
 <div class="hx:w-full hx:text-center">
 
-{{< downloads-badge >}}
+{{< ls-downloads-badge >}}
 
 <div class="hx:mt-6 hx:mb-6">
 <div class="hx:flex hx:gap-4 hx:items-center hx:justify-center">
-{{< app-icon src="/images/app_icons/png/Evervideo_Icon-App-1024x1024.png" alt="Evervideo Icon" class="hero-headline-icon" size="80" >}}
-{{< hextra/hero-headline >}}
+{{< ls-app-icon src="/images/app_icons/png/Evervideo_Icon-App-1024x1024.png" alt="Evervideo Icon" class="hero-headline-icon" size="80" >}}
+{{< ls-hero-headline >}}
 Evervideo
-{{< /hextra/hero-headline >}}
+{{< /ls-hero-headline >}}
 </div>
 </div>
 
 <div class="hx:mb-12">
-{{< hextra/hero-centered-subtitle >}}
+{{< ls-hero-centered-subtitle >}}
 <strong>נגן וידאו HD ושדרן לאייפון ולמק שלך</strong>
-{{< /hextra/hero-centered-subtitle >}}
+{{< /ls-hero-centered-subtitle >}}
 </div>
 
 
 <div class="hx:mb-6">
-{{< hextra/hero-paragraph >}}
+{{< ls-hero-paragraph >}}
 • צפה בסרטוני 360 מעלות ובאיכות גבוהה בכל הפורמטים<br>
 • שדר מ-iCloud, Google Drive, Dropbox, NAS או המחשב שלך<br>
 • הורד סרטונים לצפייה לא מקוונת בכל זמן ובכל מקום<br>
 • הפעל כתוביות, השתמש באקולייזר הווידאו וארגן סרטונים עם רשימות השמעה
-{{< /hextra/hero-paragraph >}}
+{{< /ls-hero-paragraph >}}
 </div>
 
-{{< app-store-badges products="evervideo:ios, evervideo:macos" >}}
+{{< ls-app-store-badges products="evervideo:ios, evervideo:macos" >}}
 
 </div>
 
-{{< /hextra/hero-container >}}
+{{< /ls-hero-container >}}
 
 <div class="hx:mt-6"></div>
 
@@ -72,42 +72,42 @@ Evervideo
 
 {{< hextra/feature-grid >}}
 
-  {{< hextra/feature-card
+  {{< ls-glass-feature-card
     title="נגן את כל פורמטי הווידאו והשמע"
     subtitle=`צפה בסרטונים שלך והאזן למוזיקה בלי להמיר קבצים. תומך ב-MP4, MOV, MKV, AVI, FLV, WMV, WEBM, M4V, MP3, FLAC, AAC, ALAC, OGG, OPUS, WAV, WMA ועוד.`
     icon="film"
     style="background: radial-gradient(circle at 50% 80%, rgba(255,99,71,0.15), rgba(17,24,39,0));"  
   >}}
 
-  {{< hextra/feature-card
+  {{< ls-glass-feature-card
     title="ספריית מדיה ורשימות השמעה"
     subtitle=`ארגן את ספריית המדיה עם רצועות מקובצות לפי אלבום, ז'אנר או משך. מסתנכרן אוטומטית עם שינויים בענן. צור, ערוך וייצא רשימות השמעה M3U עם מיון מותאם אישית.`
     icon="collection"
     style="background: radial-gradient(circle at 50% 80%, rgba(255,165,0,0.15), rgba(17,24,39,0));"  
   >}}
 
-  {{< hextra/feature-card
+  {{< ls-glass-feature-card
     title="אקולייזר שמע ווידאו"
     subtitle=`התאם אישית את המראה והצליל של הסרטונים שלך על ידי כוונון באס, גובה צליל, בהירות, גמא, רוויה, ניגודיות ועוד, עם 50+ הגדרות וידאו קבועות מראש ו-20+ הגדרות שמע קבועות מראש או אפשרות ליצור משלך.`
     icon="adjustments"
     style="background: radial-gradient(circle at 50% 80%, rgba(255,255,0,0.15), rgba(17,24,39,0));" 
   >}}
 
-  {{< hextra/feature-card
+  {{< ls-glass-feature-card
     title="תמונה בתמונה"
     subtitle=`תמונה בתמונה (PiP) מאפשרת לך להמשיך לצפות בסרטונים בחלון צף קטן בזמן שימוש באפליקציות אחרות, עם תמיכה מלאה בכל הפורמטים העיקריים כמו MKV, AVI, MP4 ו-MOV, מעברי וידאו חלקים בתור, עדכוני השמעה אוטומטיים וכתוביות פעילות תמיד גלויות.`
     icon="duplicate"
     style="background: radial-gradient(circle at 50% 80%, rgba(0,128,0,0.15), rgba(17,24,39,0));" 
   >}}
 
-  {{< hextra/feature-card
+  {{< ls-glass-feature-card
     title="וידאו 360 מעלות ומצב VR"
     subtitle=`חווה סרטוני 360 מעלות ו-VR כמו שלא חווית מעולם — הזז את הטלפון שלך לחקור כל זווית או שקע לחלוטין עם אוזניות VR לשקיעה מוחלטת. נגן סרטוני 360 מעלות מיידית ממצלמות Insta360 ומכשירים דומים עם השמעה חלקה וללא הגדרות.`
     icon="video-camera"
     style="background: radial-gradient(circle at 50% 80%, rgba(0,191,255,0.15), rgba(17,24,39,0));"  
   >}}
 
-  {{< hextra/feature-card
+  {{< ls-glass-feature-card
     title="שידור חלק וקישוריות ענן"
     subtitle=`שדר סרטונים ישירות מהמק, PC, NAS, כונן USB או אחסון ענן שלך והעבר קבצי מדיה באמצעות Wi-Fi Drive או שיתוף קבצי iTunes. תהנה מגישה מלאה לכל ספריית הווידאו שלך בכל מקום, אפילו מרחוק, דרך Synology Drive, WD My Cloud Home ומכשירי NAS דומים.`
     icon="cloud"
@@ -120,9 +120,9 @@ Evervideo
 
 <div class="hx:mt-6"></div>
 
-{{< hextra/section-headline >}}
+{{< ls-section-headline >}}
 כל התכונות
-{{< /hextra/section-headline >}}
+{{< /ls-section-headline >}}
 
 <div class="hx:mt-6"></div>
 
@@ -130,35 +130,35 @@ Evervideo
 
 {{< cards >}}
 
-{{< feature-card title="נגן את כל פורמטי הווידאו והשמע" subtitle="צפה במדיה שלך בלי להמיר קבצים. Evervideo תומך בכל הפורמטים העיקריים, כולל MKV, AVI, MP4, MOV, FLAC, MP3, AAC, OGG, WAV, WMV ועוד." icon="film">}}
+{{< ls-feature-card title="נגן את כל פורמטי הווידאו והשמע" subtitle="צפה במדיה שלך בלי להמיר קבצים. Evervideo תומך בכל הפורמטים העיקריים, כולל MKV, AVI, MP4, MOV, FLAC, MP3, AAC, OGG, WAV, WMV ועוד." icon="film">}}
 
-{{< feature-card title="מצב לא מקוון" subtitle="הורד סרטונים, אלבומים ורשימות השמעה לצפייה ללא חיבור לאינטרנט. קח את כל אוסף הווידאו שלך לכל מקום." icon="download">}}
+{{< ls-feature-card title="מצב לא מקוון" subtitle="הורד סרטונים, אלבומים ורשימות השמעה לצפייה ללא חיבור לאינטרנט. קח את כל אוסף הווידאו שלך לכל מקום." icon="download">}}
 
-{{< feature-card title="וידאו 360 מעלות ומצב VR" subtitle="צפה בסרטוני 360 מעלות ו-VR בצורה כיפית וקלה. הזז את הטלפון שלך כדי להסתכל לכל כיוון, או שים אותו באוזניות VR כדי להרגיש שאתה בתוך הסרטון." icon="video-camera">}}
+{{< ls-feature-card title="וידאו 360 מעלות ומצב VR" subtitle="צפה בסרטוני 360 מעלות ו-VR בצורה כיפית וקלה. הזז את הטלפון שלך כדי להסתכל לכל כיוון, או שים אותו באוזניות VR כדי להרגיש שאתה בתוך הסרטון." icon="video-camera">}}
 
-{{< feature-card title="תמונה בתמונה" subtitle="המשך לצפות בסרטונים בחלון צף קטן בזמן שימוש באפליקציות אחרות. שלוט בהשמעה וראה כתוביות בו זמנית — מושלם לריבוי משימות." icon="duplicate">}}
+{{< ls-feature-card title="תמונה בתמונה" subtitle="המשך לצפות בסרטונים בחלון צף קטן בזמן שימוש באפליקציות אחרות. שלוט בהשמעה וראה כתוביות בו זמנית — מושלם לריבוי משימות." icon="duplicate">}}
 
-{{< feature-card title="אקולייזר וידאו ושמע" subtitle="התאם אישית את המראה והצליל של הסרטונים שלך. כוונן באס, גובה צליל, בהירות, גמא, רוויה, ניגודיות ועוד. בחר מבין 50+ הגדרות וידאו קבועות מראש ו-20+ הגדרות שמע, או צור משלך." icon="adjustments">}}
+{{< ls-feature-card title="אקולייזר וידאו ושמע" subtitle="התאם אישית את המראה והצליל של הסרטונים שלך. כוונן באס, גובה צליל, בהירות, גמא, רוויה, ניגודיות ועוד. בחר מבין 50+ הגדרות וידאו קבועות מראש ו-20+ הגדרות שמע, או צור משלך." icon="adjustments">}}
 
-{{< feature-card title="כתוביות" subtitle="הצג כתוביות מוטמעות, בחר מספר רצועת כתוביות ותהנה מתמיכה מלאה בכתוביות גם במצב תמונה בתמונה." icon="annotation" >}}
+{{< ls-feature-card title="כתוביות" subtitle="הצג כתוביות מוטמעות, בחר מספר רצועת כתוביות ותהנה מתמיכה מלאה בכתוביות גם במצב תמונה בתמונה." icon="annotation" >}}
 
-{{< feature-card title="נגן ישירות מהענן" subtitle="צפה בסרטונים ישירות מאחסון הענן שלך בלי להשתמש בשטח המכשיר. תומך ב-iCloud Drive, Google Drive, Dropbox, OneDrive, MEGA, Synology Drive, pCloud ועוד." icon="cloud">}}
+{{< ls-feature-card title="נגן ישירות מהענן" subtitle="צפה בסרטונים ישירות מאחסון הענן שלך בלי להשתמש בשטח המכשיר. תומך ב-iCloud Drive, Google Drive, Dropbox, OneDrive, MEGA, Synology Drive, pCloud ועוד." icon="cloud">}}
 
-{{< feature-card title="חבר מחשב / NAS" subtitle="חבר בקלות את ה-NAS, המק או ה-PC שלך דרך הרשת הביתית באמצעות SMB, WebDAV או DLNA. גישה מרחוק נתמכת עבור Synology Drive ו-WD MyCloud Home. העבר קבצי מדיה למכשיר שלך דרך Wi-Fi או שיתוף קבצי iTunes." icon="desktop-computer">}}
+{{< ls-feature-card title="חבר מחשב / NAS" subtitle="חבר בקלות את ה-NAS, המק או ה-PC שלך דרך הרשת הביתית באמצעות SMB, WebDAV או DLNA. גישה מרחוק נתמכת עבור Synology Drive ו-WD MyCloud Home. העבר קבצי מדיה למכשיר שלך דרך Wi-Fi או שיתוף קבצי iTunes." icon="desktop-computer">}}
 
-{{< feature-card title="ספריית מדיה" subtitle="ארגן לפי אלבום, ז'אנר או משך. מסתנכרן אוטומטית עם שינויים בענן. צור, ערוך וייצא רשימות השמעה M3U עם מיון מותאם אישית." icon="library" >}}
+{{< ls-feature-card title="ספריית מדיה" subtitle="ארגן לפי אלבום, ז'אנר או משך. מסתנכרן אוטומטית עם שינויים בענן. צור, ערוך וייצא רשימות השמעה M3U עם מיון מותאם אישית." icon="library" >}}
 
-{{< feature-card title="סימניות ושמירת מיקום השמעה" subtitle="שמור את המקום שלך בכל סרטון עם סימניות וחזור להשמעה מהמקום שבו עצרת. כוונן מהירות השמעה, סמן מועדפים ומיין סרטונים לפי הכי מושמעים לגישה קלה." icon="book-open">}}
+{{< ls-feature-card title="סימניות ושמירת מיקום השמעה" subtitle="שמור את המקום שלך בכל סרטון עם סימניות וחזור להשמעה מהמקום שבו עצרת. כוונן מהירות השמעה, סמן מועדפים ומיין סרטונים לפי הכי מושמעים לגישה קלה." icon="book-open">}}
 
-{{< feature-card title="AirPlay ו-Chromecast" subtitle="נגן סרטונים על מסך גדול יותר על ידי שידור ל-Apple TV, Chromecast או כל מסך חיצוני תואם." icon="device-mobile">}}
+{{< ls-feature-card title="AirPlay ו-Chromecast" subtitle="נגן סרטונים על מסך גדול יותר על ידי שידור ל-Apple TV, Chromecast או כל מסך חיצוני תואם." icon="device-mobile">}}
 
-{{< feature-card title="ייבוא מקבצים וספריות" subtitle="ייבא סרטונים ישירות מאפליקציית הקבצים, תמונות או ספריית iTunes שלך. גישה לכל התוכן המקומי והענן שלך בספריית מדיה מאורגנת אחת." icon="database">}}
+{{< ls-feature-card title="ייבוא מקבצים וספריות" subtitle="ייבא סרטונים ישירות מאפליקציית הקבצים, תמונות או ספריית iTunes שלך. גישה לכל התוכן המקומי והענן שלך בספריית מדיה מאורגנת אחת." icon="database">}}
 
-{{< feature-card title="מנהל קבצים" subtitle="העבר, שנה שם, מחק וארגן קבצים ישירות בתוך האפליקציה." icon="folder">}}
+{{< ls-feature-card title="מנהל קבצים" subtitle="העבר, שנה שם, מחק וארגן קבצים ישירות בתוך האפליקציה." icon="folder">}}
 
-{{< feature-card title="התאמה אישית" subtitle="התאם את האפליקציה להעדפות שלך. בחר ערכות נושא, הצג או הסתר תכונות וכוונן את הממשק לצרכיך." icon="sun">}}
+{{< ls-feature-card title="התאמה אישית" subtitle="התאם את האפליקציה להעדפות שלך. בחר ערכות נושא, הצג או הסתר תכונות וכוונן את הממשק לצרכיך." icon="sun">}}
 
-{{< feature-card title="חיפוש חכם" subtitle="מצא במהירות סרטונים, אלבומים או רשימות השמעה בספריית המדיה שלך באמצעות מילות מפתח או מסננים." icon="search" >}}
+{{< ls-feature-card title="חיפוש חכם" subtitle="מצא במהירות סרטונים, אלבומים או רשימות השמעה בספריית המדיה שלך באמצעות מילות מפתח או מסננים." icon="search" >}}
 
 
 
@@ -168,9 +168,9 @@ Evervideo
 
 <div class="hx:mt-6"></div>
 
-{{< hextra/section-headline >}}
+{{< ls-section-headline >}}
 עיצוב אינטואיטיבי
-{{< /hextra/section-headline >}}
+{{< /ls-section-headline >}}
 
 <div class="hx:mt-6"></div>
 
@@ -178,7 +178,7 @@ Evervideo
 
 {{< cards cols="4">}}
 
-  {{< design-feature-card 
+  {{< ls-design-feature-card 
     image="/products/evervideo/screenshots/2880x1800/1.png" 
     title="נגן וידאו" 
     method="Fill"
@@ -187,7 +187,7 @@ Evervideo
     icon="play"
   >}}
 
-  {{< design-feature-card 
+  {{< ls-design-feature-card 
     image="/products/evervideo/screenshots/2880x1800/3.png" 
     title="אקולייזר שמע ווידאו" 
     method="Fill"
@@ -196,7 +196,7 @@ Evervideo
     icon="adjustments"
   >}}
 
-  {{< design-feature-card 
+  {{< ls-design-feature-card 
     image="/products/evervideo/screenshots/2880x1800/6.png" 
     title="מנהל רשימות השמעה" 
     method="Fill"
@@ -205,7 +205,7 @@ Evervideo
     icon="collection"
   >}}
 
-  {{< design-feature-card 
+  {{< ls-design-feature-card 
     image="/products/evervideo/screenshots/2880x1800/5.png" 
     title="ספריית מדיה" 
     method="Fill"
@@ -214,7 +214,7 @@ Evervideo
     icon="library"
   >}}
 
-  {{< design-feature-card 
+  {{< ls-design-feature-card 
     image="/products/evervideo/screenshots/2880x1800/7.png"  
     title="אחסון ענן" 
     method="Fill"
@@ -223,7 +223,7 @@ Evervideo
     icon="cloud"
   >}}
 
-  {{< design-feature-card 
+  {{< ls-design-feature-card 
     image="/products/evervideo/screenshots/2880x1800/9.png"  
     title="מנהל קבצים" 
     method="Fill"
@@ -241,49 +241,49 @@ Evervideo
 <div class="hx:mt-6"></div>
 
 <div class="hx:w-full">
-{{< appstore-reviews apps="6602897336,6743504109" stars="5,4"  app="Evervideo" >}}
+{{< ls-appstore-reviews apps="6602897336,6743504109" stars="5,4"  app="Evervideo" >}}
 </div>
 
 
 <div class="hx:mt-6"></div>
 
-{{< hextra/section-headline >}}
+{{< ls-section-headline >}}
    תוכניות מחירים
-{{< /hextra/section-headline >}}
+{{< /ls-section-headline >}}
 
 <div class="hx:mt-6"></div>
 
 <div class="hx:w-full">
 
-{{< pricing-plans >}}
+{{< ls-pricing-plans >}}
 
 </div>
 
 <div class="hx:mt-6"></div>
 
 <div class="hx:w-full hx:mx-auto hx:flex hx:flex-col hx:items-center">
-  {{< hextra/info-paragraph border="true" >}}
+  {{< ls-info-paragraph border="true" >}}
    <strong>שיתוף משפחתי</strong>: כל הרכישות והמנויים תומכים בשיתוף משפחתי, ומאפשרים לך לשתף גישת פרימיום עם המשפחה שלך.<br><strong>גישה אוניברסלית</strong>: תוכניות לכל החיים ומנויים משותפים בין מכשירי iOS ומק באמצעות סנכרון iCloud.<br><strong>מחירים</strong>: המחירים מוצגים בדולרים אמריקאיים עבור ארצות הברית. המחירים הסופיים עשויים להשתנות בהתאם לאזור שלך.  
-  {{< /hextra/info-paragraph >}}
+  {{< /ls-info-paragraph >}}
 </div>
 
 <div class="hx:mt-6"></div>
 
 <div class="hx:w-full">
-{{< app-details heading="true" >}}
+{{< ls-app-details heading="true" >}}
 </div>
 
 <div class="hx:mt-6"></div>
 
-{{< hextra/section-headline >}}
+{{< ls-section-headline >}}
    שאלות נפוצות
-{{< /hextra/section-headline >}}
+{{< /ls-section-headline >}}
 
 <div class="hx:mt-6"></div>
 
 <div class="hx:w-full">
 
-{{% details title="איך Evervideo עובד?" closed="true" %}}
+{{% ls-details title="איך Evervideo עובד?" closed="true" %}}
 Evervideo הוא נגן וידאו HD שמאפשר לך לנהל רצועות וידאו כמו קבצים רגילים.<br>
 אתה יכול להעלות את כל אוסף הווידאו שלך לשירותי ענן כמו Dropbox, OneDrive, iCloud או NAS אישי ולנגן וידאו ישירות מהענן עם שליטה מלאה.<br><br>
 אין צורך בסנכרון iTunes — פשוט העלה מהמחשב או מהמק שלך כמו שאתה עושה עם כל קובץ.<br>
@@ -293,9 +293,9 @@ Evervideo הוא נגן וידאו HD שמאפשר לך לנהל רצועות ו
 - [מדריך Evervideo](/docs/guide/evervideo/)<br>
 - [איך להעביר קבצים באופן אלחוטי ממחשב לאייפון באמצעות WiFi-Drive.](/docs/howto/how-to-transfer-files-wirelessly-from-a-computer-to-an-iphone-using-wifi-drive)<br>
 
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="האם Evervideo חינמי?" closed="true" %}}
+{{% ls-details title="האם Evervideo חינמי?" closed="true" %}}
 Evervideo חינמי לשימוש עם מגבלות מסוימות, שניתן להסיר על ידי שדרוג לגרסת הפרימיום.<br>
 אתה יכול לבחור בין רכישה חד-פעמית לכל החיים או שתי אפשרויות מנוי (חודשי או שנתי). המחירים עשויים להשתנות בהתאם לאזור שלך.<br><br>
 
@@ -304,9 +304,9 @@ Evervideo חינמי לשימוש עם מגבלות מסוימות, שניתן �
 רכישות ומנויי פרימיום משותפים בין iOS ומק דרך iCloud. כדי לסנכרן את הרכישה שלך, ודא ש-iCloud מופעל, פתח את האפליקציה במכשיר ה-iOS שלך והמתן דקה להשלמת הסנכרון.<br><br>
 
 [קרא עוד על ההבדלים בין Evervideo ו-Evervideo Premium](/docs/faq/evervideo/what-is-the-difference-between-evervideo-and-evervideo-premium/)
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="איך משתמשים ב-Evervideo?" closed="true" %}}
+{{% ls-details title="איך משתמשים ב-Evervideo?" closed="true" %}}
 
 **התקן את Evervideo**<br>
 הורד והתקן את אפליקציית Evervideo מחנות האפליקציות של המכשיר שלך. זמינה הן למכשירי iOS והן למק.<br><br>
@@ -355,9 +355,9 @@ Evervideo חינמי לשימוש עם מגבלות מסוימות, שניתן �
 **תהנה מהווידאו שלך**<br>
 לאחר שהווידאו שלך מאורגן, השתמש בסרגל הכלים העליון לפעולות מהירות כמו **חיפוש**, **נגן הכל**, **תפזור** ו**המשך השמעה**.<br><br>
 
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="האם Evervideo בטוח?" closed="true" %}}
+{{% ls-details title="האם Evervideo בטוח?" closed="true" %}}
 Evervideo משתמש רק ב-SDK רשמי ובחיבורים מאובטחים לתקשורת עם שירותי ענן מחוברים. שם המשתמש והסיסמה שלך אינם זמינים לאפליקציה. כל הבקשות מהאפליקציה לשירות הענן מוצפנות.<br>
 כשאתה מזין שם משתמש וסיסמה, האפליקציה מציגה לך את דף ההרשאה הרשמי שמסופק על ידי ספק שירות הענן וכל תהליך ההרשאה מתבצע מחוץ לאפליקציה. ספק שירות הענן שולח טוקן הרשאה לאפליקציה לאחר הרשאה מוצלחת וטוקן זה משמש לביצוע קריאות API.<br><br>
 
@@ -368,22 +368,22 @@ Evervideo משתמש רק ב-SDK רשמי ובחיבורים מאובטחים ל
 
 אתה יכול גם לנתק את חשבונות הענן המחוברים באפליקציה וטוקן ההרשאה יוסר גם מהמכשיר שלך. אם תסיר את האפליקציה מהמכשיר, כל הנתונים שהורדו וטוקני הגישה יוסרו גם הם.<br><br>
 
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="איך יוצרים רשימת השמעה ב-Evervideo?" closed="true" %}}
+{{% ls-details title="איך יוצרים רשימת השמעה ב-Evervideo?" closed="true" %}}
 - פתח את מדור רשימות ההשמעה.<br>
 - הקש על כפתור «+» או כפתור «...» בפינה הימנית העליונה ובחר «רשימת השמעה חדשה».<br>
 - הזן שם לרשימת ההשמעה והקש «שמור». תיבת הדו-שיח «הוסף קבצי מדיה» תופיע.<br>
 - בחר את הרצועות שברצונך להוסיף לרשימת ההשמעה.<br><br>
 
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="אילו שירותי ענן Evervideo תומך?" closed="true" %}}
+{{% ls-details title="אילו שירותי ענן Evervideo תומך?" closed="true" %}}
 כעת, האפליקציה תומכת בשירותי הענן הפופולריים ביותר: iCloud Drive, Google Drive, Dropbox, OneDrive, Box, MEGA, Yandex.Disk, DLNA, MediaFire, WebDAV, SMB, pCloud, Cloud Mail.ru, Put.io.<br><br>
 
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="איך מפעילים מצב לא מקוון ב-Evervideo?" closed="true" %}}
+{{% ls-details title="איך מפעילים מצב לא מקוון ב-Evervideo?" closed="true" %}}
 - התחבר לאחסון ענן:<br>
  • עבור ללשונית «קבצים».<br>
  • בחר «התחבר לאחסון ענן» ועקוב אחר ההוראות לחיבור השירות הרצוי.<br><br>
@@ -408,9 +408,9 @@ Evervideo משתמש רק ב-SDK רשמי ובחיבורים מאובטחים ל
  • לסנכרון ידני, עבור ל«הגדרות» > «מנהל קבצים» > «תיקיות לא מקוונות» > «תיקיות מסונכרנות לא מקוונות».<br>
  • הקש «פעולות נוספות» ובחר «התחל סנכרון».<br><br>
 
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="איך לנגן סרטונים שהורדו מקומית באייפון?" closed="true" %}}
+{{% ls-details title="איך לנגן סרטונים שהורדו מקומית באייפון?" closed="true" %}}
 לאחר התקנת האפליקציה, פתח את מסך «קבצים» וגלול למטה למדור «קבצים באייפון זה». משם, בחר «פתח קבצים...» אם אתה צריך לבחור מספר קבצים או «פתח תיקייה...» אם אתה רוצה לבחור תיקיית מדיה. האפליקציה תסרוק את תוכן התיקייה וכל קבצי המדיה שנמצאו ייבחרו. נווט לתיקיית המדיה שלך, הקש «פתח» כדי לאשר את הבחירה שלך, והקבצים יתווספו לתור הנגן. קבצים אלה ינוגנו ישירות מהמיקום הנבחר בלי להיות מועתקים לחבילת האפליקציה.<br><br>
 
 **הוספת תיקייה למועדפים לגישה מהירה**<br>
@@ -422,13 +422,13 @@ Evervideo משתמש רק ב-SDK רשמי ובחיבורים מאובטחים ל
 **הוספת קבצים מקומיים לרשימת השמעה**<br>
 כדי להוסיף קבצים מקומיים לרשימת השמעה, פתח את מסך «רשימות השמעה» והקש על כפתור הנוסף בפינה הימנית העליונה. בחר «+ רשימת השמעה חדשה», הזן שם לרשימת ההשמעה החדשה שלך, ובמסך הבא בחר באפשרות «קבצים במכשיר זה» והקש «פתח קבצים...». בחר את קבצי המדיה שברצונך להוסיף והקש «פתח» לאישור. הקבצים יתווספו לרשימת ההשמעה שלך, שם תוכל לשנות את סדר הרצועות ולבצע פעולות אחרות עם כפתור הנוסף.<br><br>
 
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="איך אני יכול לחזור לרשימת השמעה מהמקום שבו עצרתי?" closed="true" %}}
+{{% ls-details title="איך אני יכול לחזור לרשימת השמעה מהמקום שבו עצרתי?" closed="true" %}}
 קודם כל, ודא ש«שמור מצב נגן מדיה» מופעל בהגדרות > נגן מדיה > כללי. כשתעבור לרשימת השמעה אחרת ותחזור, תראה ארבע פעולות בסרגל הכלים העליון מתחת לעטיפת האלבום: «חיפוש», «המשך השמעה», «נגן הכל» ו«תפזור». הקש «המשך השמעה» כדי לחזור לרשימת ההשמעה מהמצב והמיקום האחרונים שנשמרו.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="איך מעבירים וידאו ל-Evervideo מהמחשב שלי?" closed="true" %}}
+{{% ls-details title="איך מעבירים וידאו ל-Evervideo מהמחשב שלי?" closed="true" %}}
 אתה יכול לחבר את המחשב או ה-NAS האישי שלך באמצעות פרוטוקולי SMB, WebDAV או DLNA. לחלופין, השתמש בשיתוף קבצי iTunes להעברת קבצי מדיה.<br><br>
 
 כדי לחבר מחשב באמצעות פרוטוקול SMB, הקש «קבצים» «התחבר לאחסון ענן» → SMB. הזן את כתובת ה-IP של המחשב ואת שם התיקייה המשותפת בשדה URL בפורמט smb://כתובת-ip-מחשב/שם-תיקייה-משותפת, הזן שם משתמש וסיסמה והקש «סיום». אם החיבור מוצלח, תראה את האחסון המחובר במדור «אחסון ענן».<br><br>
@@ -447,9 +447,9 @@ Wi-Fi Drive היא טכנולוגיה פופולרית שמאפשרת לך לה�
 הוראות מפורטות זמינות כאן:<br>
 [איך לנגן קבצים מקומיים (קבצי iTunes) באייפון שלי](/docs/howto/how-to-play-local-itunes-files-on-my-iphone)<br><br>
 
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="איך להוריד וידאו?" closed="true" %}}
+{{% ls-details title="איך להוריד וידאו?" closed="true" %}}
 לפני שתוכל להוריד וידאו ולצפות בו לא מקוון, עליך לחבר אחסון ענן.<br>
 פשוט פתח את מסך «קבצים» וחבר את אחסון הענן שלך.<br>
 לאחר שהוספת אותו, תוכל להוריד את הווידאו שלך מהענן.<br><br>
@@ -465,14 +465,14 @@ Wi-Fi Drive היא טכנולוגיה פופולרית שמאפשרת לך לה�
 – הקש על תיבת הסימון «מצב לא מקוון»<br>
 – האמן/האלבום/רשימת ההשמעה הלא מקוונים יופיעו במדור «קבצים» -> «תיקיות לא מקוונות».<br><br>
 
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="אילו פורמטי שמע Evervideo תומך?" closed="true" %}}
+{{% ls-details title="אילו פורמטי שמע Evervideo תומך?" closed="true" %}}
 אפליקציה זו תומכת ב**קודקי שמע מערכת** ברירת מחדל וב**קודקי תוכנת ffmpeg** נוספים:<br><br>
 3g2, 3gp, 3gp2, 3gpp, 8svx, aa, aac, aax, ac3, act, adt, adts, aif, aifc, aiff, alac, amr, amv, ape, asf, au, avi, awb, caf, cavs, cdda, cue, dct, dff, drc, dsf, dss, dvf, "dvr-ms", ec3, f4a, f4b, f4p, f4v, flac, flv, gif, gifv, gsm, gxf, h261, h263, h264, ifv, iklax, ivf, ivs, l16, latm, loas, m2t, m2ts, m2v, m3u, m3u8, m4a, m4b, m4p, m4r, m4v, mka, mkv, mmf, mng, mod, mogg, mov, mp1, mp2, mp3, mp4, mp4v, mpa, mpc, mpe, mpeg, mpg, mpv, msv, mts, mxf, nsf, nsv, nut, oga, ogg, ogv, opus, pcm, pls, qt, ra, raw, rm, rmvb, roq, rv, sln, snd, svi, tod, tta, vob, voc, vox, vtt, w64, wav, wave, webm, wma, wmv, wv, xhe, xmv, y4m, yuv.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="האם Evervideo עובד עם מכשירי NAS?" closed="true" %}}
+{{% ls-details title="האם Evervideo עובד עם מכשירי NAS?" closed="true" %}}
 
 כן, Evervideo תומך בחיבורי NAS באמצעות פרוטוקולי **SMB**, **WebDAV** ו-**DLNA**.<br><br>
 
@@ -496,9 +496,9 @@ Wi-Fi Drive היא טכנולוגיה פופולרית שמאפשרת לך לה�
 • מציג את כל מכשירי ה-NAS הניתנים לגילוי ברשת המקומית שלך.<br>
 • הקש על שם מכשיר כדי להתחבר, ואז הזן פרטי התחברות אם נדרש.<br><br>
 
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="איך משתמשים בתכונת Wi-Fi Drive ב-Evervideo?" closed="true" %}}
+{{% ls-details title="איך משתמשים בתכונת Wi-Fi Drive ב-Evervideo?" closed="true" %}}
 
 **העברה אלחוטית באמצעות דפדפן שולחני**<br>
 1. הפעל את האפליקציה: פתח את Evervideo.<br>
@@ -523,39 +523,39 @@ Wi-Fi Drive היא טכנולוגיה פופולרית שמאפשרת לך לה�
 
 [קרא עוד](/docs/howto/how-to-transfer-files-wirelessly-from-a-computer-to-an-iphone-using-wifi-drive)
 
-{{% /details %}}
+{{% /ls-details %}}
 
 </div>
 
 
 <div class="hx:mt-6"></div>
 
-{{< hextra/section-headline >}}
+{{< ls-section-headline >}}
   מדריך למשתמש
-{{< /hextra/section-headline >}}
+{{< /ls-section-headline >}}
 
 <div class="hx:mt-6"></div>
 
 <div class="hx:w-full">
 
 <div class="hx:w-full hx:mx-auto hx:flex hx:flex-col hx:items-center hx:text-center">
-  {{< hextra/info-paragraph border="false" >}}
+  {{< ls-info-paragraph border="false" >}}
   מדריך זה יסייע לך להפיק את המרב מ-Evervideo ב-iPhone, ב-iPad או ב-Mac. למד כיצד להזרים סרטונים מאחסון בענן ומ-NAS, להשתמש במצב תמונה-בתמונה, לנהל כתוביות ולכוונן את אקולייזרי האודיו והווידאו. Evervideo מעניק לך שליטה מלאה על כל אוסף הווידאו שלך, מכל מקור, באפליקציה אחת פשוטה.
-  {{< /hextra/info-paragraph >}}
+  {{< /ls-info-paragraph >}}
 </div>
 
 {{< cards >}}
-  {{< feature-card icon="location-marker" title="ניווט" subtitle="למד כיצד לנווט ב-Evervideo באמצעות סרגל הלשוניות ב-iPhone או התפריט השמאלי ב-iPad וב-Mac, יחד עם נגן הווידאו הקומפקטי שמוצג תמיד על המסך." link="/docs/guide/evervideo/evervideo-guide-navigation" >}}
+  {{< ls-feature-card icon="location-marker" title="ניווט" subtitle="למד כיצד לנווט ב-Evervideo באמצעות סרגל הלשוניות ב-iPhone או התפריט השמאלי ב-iPad וב-Mac, יחד עם נגן הווידאו הקומפקטי שמוצג תמיד על המסך." link="/docs/guide/evervideo/evervideo-guide-navigation" >}}
 
-  {{< feature-card icon="folder" title="קבצים" subtitle="חבר חשבונות ענן, שיתופי NAS, שרתי מדיה (Plex, Jellyfin, Emby, Subsonic, Navidrome), הזרמות RTSP וקבצים מקומיים בכרטיסייה מאוחדת אחת." link="/docs/guide/evervideo/evervideo-guide-files" >}}
+  {{< ls-feature-card icon="folder" title="קבצים" subtitle="חבר חשבונות ענן, שיתופי NAS, שרתי מדיה (Plex, Jellyfin, Emby, Subsonic, Navidrome), הזרמות RTSP וקבצים מקומיים בכרטיסייה מאוחדת אחת." link="/docs/guide/evervideo/evervideo-guide-files" >}}
 
-  {{< feature-card icon="library" title="ספריית מדיה" subtitle="ארגן וחקור את הסרטונים והמוסיקה שלך לפי אלבומים, ז'אנרים, אחרונים ומועדפים, וגם דרך ספריית התמונות של iOS וספריית Apple Music." link="/docs/guide/evervideo/evervideo-guide-video-library" >}}
+  {{< ls-feature-card icon="library" title="ספריית מדיה" subtitle="ארגן וחקור את הסרטונים והמוסיקה שלך לפי אלבומים, ז'אנרים, אחרונים ומועדפים, וגם דרך ספריית התמונות של iOS וספריית Apple Music." link="/docs/guide/evervideo/evervideo-guide-video-library" >}}
 
-  {{< feature-card icon="collection" title="רשימות השמעה" subtitle="צור וארגן רשימות עבור סרטונים, מוסיקה, סדרות או קורסים וייבא קובצי M3U / M3U8 / CUE." link="/docs/guide/evervideo/evervideo-guide-playlists" >}}
+  {{< ls-feature-card icon="collection" title="רשימות השמעה" subtitle="צור וארגן רשימות עבור סרטונים, מוסיקה, סדרות או קורסים וייבא קובצי M3U / M3U8 / CUE." link="/docs/guide/evervideo/evervideo-guide-playlists" >}}
 
-  {{< feature-card icon="play" title="נגן מדיה" subtitle="שלוט בהשמעה, בתור ההפעלה, בתמונה-בתמונה, ברצועות אודיו ווידאו, בכתוביות ראשיות ומשניות ובאקולייזרי האודיו והווידאו." link="/docs/guide/evervideo/evervideo-guide-player" >}}
+  {{< ls-feature-card icon="play" title="נגן מדיה" subtitle="שלוט בהשמעה, בתור ההפעלה, בתמונה-בתמונה, ברצועות אודיו ווידאו, בכתוביות ראשיות ומשניות ובאקולייזרי האודיו והווידאו." link="/docs/guide/evervideo/evervideo-guide-player" >}}
 
-  {{< feature-card icon="adjustments" title="הגדרות" subtitle="התאם אישית את המראה, המפענח, האקולייזרים, הכתוביות, הוויג'טים, השפה, קוד הגישה, הגיבוי והגדרות הביצועים של Evervideo." link="/docs/guide/evervideo/evervideo-guide-settings" >}}
+  {{< ls-feature-card icon="adjustments" title="הגדרות" subtitle="התאם אישית את המראה, המפענח, האקולייזרים, הכתוביות, הוויג'טים, השפה, קוד הגישה, הגיבוי והגדרות הביצועים של Evervideo." link="/docs/guide/evervideo/evervideo-guide-settings" >}}
 
 {{< /cards >}}
 

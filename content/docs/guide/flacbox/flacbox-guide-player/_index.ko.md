@@ -23,7 +23,7 @@ readingTime: 14
 미니 플레이어 바에서 전체 화면 플레이어에 접근할 수 있습니다. iPhone에서는 미니 플레이어가 메인 화면 하단에 있습니다. iPad와 Mac에서는 왼쪽에 있습니다. iPhone에서 미니 플레이어를 숨기려면 한 번 탭하고 아래로 스와이프합니다. 전체 화면 플레이어를 완전히 닫으려면 오른쪽 하단 모서리의 닫기 버튼을 탭합니다.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox 오디오 플레이어 메인 화면" image="/docs/guide/flacbox/img/audio-player-main-screen.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox 오디오 플레이어 메인 화면" image="/docs/guide/flacbox/img/audio-player-main-screen.webp" >}}
 {{< /cards >}}
 
 ## 지원 오디오 형식
@@ -64,7 +64,7 @@ AirPlay의 경우 플레이어 하단에서 **AirPlay** 버튼을 찾으세요. 
 Flacbox에는 iPod 스타일 프리셋이 있는 **10밴드 이퀄라이저**가 포함되어 있습니다. 볼륨 보기에서 이퀄라이저를 탭한 다음 오른쪽 상단 모서리에서 켜세요. Acoustic, Bass Booster와 같은 프리셋을 사용하거나 슬라이더로 각 주파수 대역을 조정할 수 있습니다. 나만의 프리셋을 만들고 어떤 이름으로든 저장하고 프리앰프로 전체 볼륨을 높이세요. 이퀄라이저 사용 방법에 대한 자세한 지침은 [여기](/docs/howto/how-to-use-the-audio-equalizer-on-your-iphone-ipad-mac-with-evermusic-and-flacbox)에서 확인할 수 있습니다.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox 오디오 플레이어 이퀄라이저" image="/docs/guide/flacbox/img/audio-player-equalizer.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox 오디오 플레이어 이퀄라이저" image="/docs/guide/flacbox/img/audio-player-equalizer.webp" >}}
 {{< /cards >}}
 
 ## 플레이어 모드 도구 모음
@@ -80,7 +80,7 @@ Flacbox에는 iPod 스타일 프리셋이 있는 **10밴드 이퀄라이저**가
 플레이어 큐를 보려면 현재 곡의 오른쪽에 있는 큐 버튼을 탭합니다. 큐의 각 곡에는 더 많은 작업이 있습니다 — 점 세 개를 탭하여 봅니다. 큐에서 곡을 재정렬하려면 제목 근처의 재정렬 표시기를 사용하고 새 위치로 드래그합니다.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox 재생 큐" image="/docs/guide/flacbox/img/playback_queue.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox 재생 큐" image="/docs/guide/flacbox/img/playback_queue.webp" >}}
 {{< /cards >}}
 
 ## 댓글 / 가사
@@ -96,7 +96,7 @@ Flacbox에는 iPod 스타일 프리셋이 있는 **10밴드 이퀄라이저**가
 이후 화면 하단의 플레이어 큐 버튼을 여러 번 탭하여 아트워크 / 큐 보기에서 댓글 보기로 전환합니다. 댓글 화면에서 오른쪽으로 스크롤하여 **댓글**, **내장 가사**, **LRC 파일** 사이를 전환합니다. 전체 지침은 [여기](/docs/howto/how-to-add-and-view-comments-to-your-audio-tracks-on-iphone-ipad-and-mac-with-evermusic-and-flacbox)에서 확인할 수 있습니다.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox 가사 및 댓글 화면" image="/docs/guide/flacbox/img/lyrics-screen.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox 가사 및 댓글 화면" image="/docs/guide/flacbox/img/lyrics-screen.webp" >}}
 {{< /cards >}}
 
 ## 옵션 메뉴
@@ -117,7 +117,7 @@ Flacbox에는 iPod 스타일 프리셋이 있는 **10밴드 이퀄라이저**가
 - **음악 라이브러리에서 삭제** — 스토리지의 파일을 유지하면서 음악 라이브러리에서 곡을 삭제합니다.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox 재생 큐 항목 옵션" image="/docs/guide/flacbox/img/options-for-item-in-playback-queue.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox 재생 큐 항목 옵션" image="/docs/guide/flacbox/img/options-for-item-in-playback-queue.webp" >}}
 {{< /cards >}}
 
 ## 추가 플레이어 작업
@@ -139,7 +139,7 @@ Flacbox에는 iPod 스타일 프리셋이 있는 **10밴드 이퀄라이저**가
 - **도움말** — 도움말을 찾습니다.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox 오디오 플레이어 추가 작업 화면" image="/docs/guide/flacbox/img/audio-player-more-actions-screen.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox 오디오 플레이어 추가 작업 화면" image="/docs/guide/flacbox/img/audio-player-more-actions-screen.webp" >}}
 {{< /cards >}}
 
 ## 오디오 북마크
@@ -157,7 +157,7 @@ Flacbox에는 iPod 스타일 프리셋이 있는 **10밴드 이퀄라이저**가
 현재 트랙의 북마크 편집은 쉽습니다: 오른쪽 상단 모서리에서 편집을 탭하여 편집 모드로 전환합니다. 이 모드에서는 북마크를 재정렬하고, 삭제하고, 북마크 시간을 조정하고, 북마크 제목을 변경할 수 있습니다. 오디오 북마크에 대한 자세한 지침은 [여기](/docs/howto/how-to-listen-to-audiobooks-on-iphone-ipad-mac-using-evermusic)에서 확인할 수 있습니다.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox 오디오 북마크 화면" image="/docs/guide/flacbox/img/audio-bookmarks.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox 오디오 북마크 화면" image="/docs/guide/flacbox/img/audio-bookmarks.webp" >}}
 {{< /cards >}}
 
 ## 최근 항목 및 즐겨찾기
@@ -171,7 +171,7 @@ USB 또는 무선 Apple CarPlay를 통해 iPhone을 자동차에 연결하면 Fl
 [전체 CarPlay 가이드 읽기](/docs/howto/how-to-play-your-own-music-on-iphone-using-carplay/).
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Apple CarPlay의 Flacbox" image="/docs/guide/flacbox/img/carplay-main.webp" >}}
+  {{< ls-card title="" subtitle="Apple CarPlay의 Flacbox" image="/docs/guide/flacbox/img/carplay-main.webp" >}}
 {{< /cards >}}
 
 ## 홈 화면 위젯 (iPhone 및 iPad)
@@ -226,7 +226,7 @@ Mac 사용자의 경우 키보드 단축키와 함께 상태 표시줄에서 시
 오디오 플레이어의 재생 속도를 **0.02×에서 3.00×**까지 조정합니다.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox 재생 속도 화면" image="/docs/guide/flacbox/img/playback-speed.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox 재생 속도 화면" image="/docs/guide/flacbox/img/playback-speed.webp" >}}
 {{< /cards >}}
 
 ### 피치 보정

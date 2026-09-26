@@ -12,7 +12,7 @@ authors:
     image: "/images/about/artem-meleshko-founder-everappz.webp"
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 **Resum:** Evermusic és un reproductor de música al núvol per a iPhone i iPad que es connecta a Dropbox, Google Drive, OneDrive i més de 9 altres serveis al núvol. Reprodueix FLAC, MP3, WAV i altres formats, admet descàrregues sense connexió i inclou un equalitzador i un editor de etiquetes ID3. Descàrrega gratuïta amb una actualització Premium de pagament únic. Més de 11 milions de descàrregues, puntuació de 4,6 estrelles a l'App Store.
 
@@ -20,7 +20,7 @@ authors:
 
 Mira la ressenya completa en vídeo de [@Massi_Media](https://www.youtube.com/@Massi_Media):
 
-{{< youtubecard id="pKUZmHy9dxc" >}}
+{{< ls-youtubecard id="pKUZmHy9dxc" >}}
 
 ## Quin és el millor reproductor de música al núvol per a iPhone?
 
@@ -67,18 +67,18 @@ Com que Evermusic funciona amb fitxers que ja tens i emmagatzematge que ja pague
 
 ## Preguntes freqüents
 
-{{% details title="Evermusic és realment gratuït?" closed="true" %}}
+{{% ls-details title="Evermusic és realment gratuït?" closed="true" %}}
 Sí, Evermusic ofereix una versió gratuïta que inclou connectivitat al núvol, streaming i descàrregues sense connexió. La versió gratuïta admet funcions bàsiques de reproducció i un nombre limitat de connexions de comptes al núvol. Evermusic Pro, disponible com a compra única o subscripció, desbloqueja l'equalitzador complet, l'encadenament, comptes addicionals al núvol i altres funcions avançades. No cal cap subscripció per accedir als teus propis fitxers de música.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Puc utilitzar Evermusic sense connexió a Internet?" closed="true" %}}
+{{% ls-details title="Puc utilitzar Evermusic sense connexió a Internet?" closed="true" %}}
 Absolutament. Evermusic et permet descarregar pistes de qualsevol servei al núvol connectat directament al teu dispositiu per reproduir-les sense connexió. Un cop descarregades, els fitxers s'emmagatzemen localment i romanen disponibles fins i tot sense Wi-Fi o dades mòbils. Això fa que Evermusic sigui ideal per a vols, desplaçaments per túnels o qualsevol situació on la connectivitat sigui poc fiable.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Evermusic admet formats d'àudio sense pèrdues com FLAC?" closed="true" %}}
+{{% ls-details title="Evermusic admet formats d'àudio sense pèrdues com FLAC?" closed="true" %}}
 Sí. Evermusic admet una àmplia gamma de formats d'àudio, incloent FLAC, ALAC, WAV, AIFF, OGG, MP3, AAC i M4A. L'aplicació reprodueix fitxers sense pèrdues a la seva qualitat nativa sense recodificació, de manera que els audiòfils poden gaudir de les seves col·leccions d'alta resolució exactament com s'havia previst.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Com connecto el meu NAS o servidor domèstic a Evermusic?" closed="true" %}}
+{{% ls-details title="Com connecto el meu NAS o servidor domèstic a Evermusic?" closed="true" %}}
 Si el teu NAS o servidor domèstic admet protocols WebDAV o SMB, pots connectar-lo a Evermusic introduint l'adreça del servidor, el port i les credencials a la configuració de connexió al núvol de l'aplicació. La majoria de marques populars de NAS, incloent Synology, QNAS i Western Digital MyCloud, admeten aquests protocols de manera predeterminada. Un cop connectat, Evermusic escanejarà i indexarà els teus fitxers de música igual que qualsevol altra font al núvol.
-{{% /details %}}
+{{% /ls-details %}}

@@ -7,7 +7,7 @@ tags: ["evermusic", "ääni", "editori", "tunnisteet", "kommentit"]
 readingTime: 4
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **Tiivistelmä:** Evermusic ja Flacbox mahdollistavat tekstikommenttien lisäämisen aikamerkeillä mihin tahansa ääniraitaan ja niiden synkronoidun näyttämisen toiston aikana. Voit myös tarkastella upotettuja sanoituksia ja LRC-tiedostoja. Kommentti- ja sanoitusominaisuudet ovat ilmaisia molemmissa sovelluksissa.
@@ -97,22 +97,22 @@ Kommenttien lisääminen ääniraitoihin Evermusicissa ja Flacboxissa merkitsee 
 
 ## Usein kysytyt kysymykset
 
-{{% details title="Onko kommenttiominaisuus ilmainen Evermusicissa ja Flacboxissa?" closed="true" %}}
+{{% ls-details title="Onko kommenttiominaisuus ilmainen Evermusicissa ja Flacboxissa?" closed="true" %}}
 Kyllä. Kommenttien ja sanoitusten lisääminen, muokkaaminen ja katseleminen on ilmainen ominaisuus sekä Evermusicissa että Flacboxissa.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Mitä muotoa minun pitäisi käyttää ajastetuille kommenteille?" closed="true" %}}
+{{% ls-details title="Mitä muotoa minun pitäisi käyttää ajastetuille kommenteille?" closed="true" %}}
 Käytä LRC-aikamerkkimuotoa: `[MM:SS.SS]` ja sen jälkeen tekstisi. Esimerkiksi: `[01:23.45]Tämä on kommenttini`. Voit määrittää useita aikaleimoja yhdelle riville.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Voinko tarkastella sanoituksia ja LRC-tiedostoja samalla näytöllä?" closed="true" %}}
+{{% ls-details title="Voinko tarkastella sanoituksia ja LRC-tiedostoja samalla näytöllä?" closed="true" %}}
 Kyllä. Kommentit-näyttö tukee kolmea tilaa, joiden välillä voit pyyhkäistä: Kommentit, Upotetut sanoitukset ja LRC-tiedosto.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Mistä löydän LRC-sanoitustiedostoja?" closed="true" %}}
+{{% ls-details title="Mistä löydän LRC-sanoitustiedostoja?" closed="true" %}}
 Ilmaisia LRC-sanoituksia on saatavilla verkkosivuilla kuten Lyricsify.com. Voit joko upottaa ne äänitiedostosi sanoitustunnisteeseen tai sijoittaa erillisen `.lrc`-tiedoston äänitiedostosi viereen.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Tarvitsenko erillisen sovelluksen sanoitustunnisteiden muokkaamiseen?" closed="true" %}}
+{{% ls-details title="Tarvitsenko erillisen sovelluksen sanoitustunnisteiden muokkaamiseen?" closed="true" %}}
 Voit muokata kommentteja suoraan Evermusicissa ja Flacboxissa. Sanoitustunnisteen muokkaamiseen erityisesti käytä Evertagia, ilmaista äänimetatietojen editoria iOS:lle ja macOS:lle.
-{{% /details %}}
+{{% /ls-details %}}

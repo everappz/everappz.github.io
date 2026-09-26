@@ -23,7 +23,7 @@ authors:
     image: "/images/about/artem-meleshko-founder-everappz.webp"
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 ## Dapatkan Data App Store dalam Hitungan Detik
 
@@ -134,53 +134,53 @@ Anda tidak memerlukan kunci API, akun pengembang, atau paket berbayar untuk meme
 AppLookup.pro adalah sumber terbuka. Laporan bug, penambahan negara, dan pull request dipersilakan.
 
 {{< cards cols="1" >}}
-  {{< card link="https://github.com/everappz/AppStoreLookup" title="AppLookup.pro di GitHub" icon="github" tag="sumber terbuka" >}}
+  {{< ls-card link="https://github.com/everappz/AppStoreLookup" title="AppLookup.pro di GitHub" icon="github" tag="sumber terbuka" >}}
 {{< /cards >}}
 
 ---
 
 ## Pertanyaan yang Sering Diajukan
 
-{{% details title="Apakah AppLookup.pro benar-benar gratis?" closed="true" %}}
+{{% ls-details title="Apakah AppLookup.pro benar-benar gratis?" closed="true" %}}
 Ya. AppLookup.pro 100 persen gratis dan sumber terbuka. Ia berjalan di browser Anda. Tidak ada pendaftaran, tidak ada tingkat berbayar, dan tidak ada batas penggunaan selain batas iTunes Search API milik Apple sendiri.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Dari mana data berasal?" closed="true" %}}
+{{% ls-details title="Dari mana data berasal?" closed="true" %}}
 Setiap hasil diambil secara real-time dari [iTunes Search API](https://developer.apple.com/library/archive/documentation/AudioVideo/Conceptual/iTuneSearchAPI/index.html) resmi Apple. Alat ini tidak melakukan scraping halaman App Store dan tidak menyimpan respons di server mana pun.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Bisakah saya mengunduh ikon aplikasi dalam resolusi tinggi?" closed="true" %}}
+{{% ls-details title="Bisakah saya mengunduh ikon aplikasi dalam resolusi tinggi?" closed="true" %}}
 Ya. Bagian **App Icon** menampilkan setiap URL ikon yang dikembalikan Apple. Setiap kartu memiliki tombol Direct Link dan Download, dan tombol Download All Icons ZIP mengemas semuanya dalam satu arsip.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Bisakah saya mengunduh semua tangkapan layar App Store sekaligus?" closed="true" %}}
+{{% ls-details title="Bisakah saya mengunduh semua tangkapan layar App Store sekaligus?" closed="true" %}}
 Ya. Setiap bagian tangkapan layar (iPhone, iPad, macOS, dan Apple TV) memiliki tombol **Download All (ZIP)** yang menggabungkan setiap tangkapan layar pada resolusi penuh.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Bagaimana cara melihat tampilan aplikasi di negara lain?" closed="true" %}}
+{{% ls-details title="Bagaimana cara melihat tampilan aplikasi di negara lain?" closed="true" %}}
 Pilih negara dari dropdown di bagian atas halaman. Lebih dari 40 toko didukung. Klik **Lookup** lagi dan alat akan mengambil ulang aplikasi untuk negara tersebut, menampilkan judul, deskripsi, tangkapan layar, apa yang baru, dan harga yang dilokalkan.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Bisakah saya menyalin kolom tunggal seperti Bundle ID atau tanggal rilis?" closed="true" %}}
+{{% ls-details title="Bisakah saya menyalin kolom tunggal seperti Bundle ID atau tanggal rilis?" closed="true" %}}
 Ya. Setiap kolom teks dalam hasil memiliki tombol Copy sendiri: nama aplikasi, pengembang, deskripsi, apa yang baru, Bundle ID, versi, harga, ukuran file, OS minimum, tanggal rilis, peringkat konten, bahasa, perangkat yang didukung, dan JSON mentah.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Apakah AppLookup.pro berfungsi untuk semua aplikasi iOS?" closed="true" %}}
+{{% ls-details title="Apakah AppLookup.pro berfungsi untuk semua aplikasi iOS?" closed="true" %}}
 Berfungsi untuk aplikasi apa pun yang terdaftar secara publik di setidaknya satu negara App Store dan dikembalikan oleh iTunes Search API. Aplikasi yang tidak terdaftar, dihapus, atau didistribusikan untuk perusahaan tidak akan muncul.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Apakah mendukung aplikasi macOS dan Apple TV?" closed="true" %}}
+{{% ls-details title="Apakah mendukung aplikasi macOS dan Apple TV?" closed="true" %}}
 Ya. Jika aplikasi memiliki tangkapan layar macOS atau Apple TV dalam respons iTunes Search API, AppLookup.pro menampilkannya di panel yang dapat digulir sendiri dengan tombol unduh.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Bisakah saya menggunakan JSON mentah dalam kode saya sendiri?" closed="true" %}}
+{{% ls-details title="Bisakah saya menggunakan JSON mentah dalam kode saya sendiri?" closed="true" %}}
 Ya. Bagian Raw API Response menampilkan JSON persis yang dikembalikan Apple. Salin ke Postman, unit test, atau pipeline backend. Mohon hormati ketentuan API Apple dan batas tarif yang wajar.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Apakah aman menempelkan URL App Store ke alat?" closed="true" %}}
+{{% ls-details title="Apakah aman menempelkan URL App Store ke alat?" closed="true" %}}
 Ya. URL diuraikan di browser Anda. Satu-satunya panggilan jaringan keluar adalah pencarian ke iTunes Search API Apple.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Apa perbedaan antara AppLookup.pro dan AppKeywords.pro?" closed="true" %}}
+{{% ls-details title="Apa perbedaan antara AppLookup.pro dan AppKeywords.pro?" closed="true" %}}
 [AppLookup.pro](https://applookup.pro) adalah untuk membaca metadata App Store dari aplikasi yang dipublikasikan: riset kompetitor, unduhan aset, pemeriksaan lokalisasi. [AppKeywords.pro](https://appkeywords.pro) adalah untuk menulis metadata App Store untuk aplikasi Anda sendiri: optimasi judul, subjudul, dan kata kunci dengan dukungan Fastlane. Kedua alat ini bekerja sama dengan baik.
-{{% /details %}}
+{{% /ls-details %}}

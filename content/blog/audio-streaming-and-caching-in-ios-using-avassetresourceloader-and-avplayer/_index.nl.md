@@ -12,7 +12,7 @@ authors:
     image: "/images/about/artem-meleshko-founder-everappz.webp"
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 ![](/blog/audio-streaming-and-caching-in-ios-using-avassetresourceloader-and-avplayer/diagram.png)
 
@@ -140,18 +140,18 @@ Deze aanpak drijft de audiostreaming-engine in [Evermusic](https://apps.apple.co
 
 ## Veelgestelde vragen
 
-{{% details title="Wanneer moet ik AVAssetResourceLoaderDelegate gebruiken in plaats van een directe URL?" closed="true" %}}
+{{% ls-details title="Wanneer moet ik AVAssetResourceLoaderDelegate gebruiken in plaats van een directe URL?" closed="true" %}}
 Gebruik het wanneer de cloudservice aangepaste autorisatieheaders vereist, wanneer u schijfcaching nodig heeft voor gestreamde audio, of wanneer u gedetailleerde controle wilt over hoe gegevens worden geladen en gebufferd.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Werkt deze aanpak met Swift?" closed="true" %}}
+{{% ls-details title="Werkt deze aanpak met Swift?" closed="true" %}}
 Ja. Het `AVAssetResourceLoaderDelegate`-protocol werkt op dezelfde manier in Swift. De Objective-C-voorbeelden hier zijn direct te vertalen.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Kan ik dit ook gebruiken voor videostreaming?" closed="true" %}}
+{{% ls-details title="Kan ik dit ook gebruiken voor videostreaming?" closed="true" %}}
 Ja. `AVAssetResourceLoaderDelegate` werkt met elk mediatype dat AVPlayer ondersteunt, inclusief video. Dezelfde aanpak met het aangepaste schema is van toepassing.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Ondersteunt dit achtergrond-audioweergave?" closed="true" %}}
+{{% ls-details title="Ondersteunt dit achtergrond-audioweergave?" closed="true" %}}
 Ja, zolang u de achtergrondmodus "Audio, AirPlay en Picture in Picture" inschakelt in de mogelijkheden van uw app en uw `AVAudioSession` correct configureert.
-{{% /details %}}
+{{% /ls-details %}}

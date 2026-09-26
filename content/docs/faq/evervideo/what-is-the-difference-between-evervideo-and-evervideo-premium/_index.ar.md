@@ -11,7 +11,7 @@ readingTime: 3
 يقدّم Evervideo نسخة مجانية مع بعض قيود الاستخدام ونسخة مدفوعة بميزات إضافية، يمكن فتحها عبر المشتريات داخل التطبيق.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="شاشة ترقية الخطة الافتراضية" image="/docs/faq/evervideo/what-is-the-difference-between-evervideo-and-evervideo-premium/upgrade-default.webp" >}}
+  {{< ls-card title="" subtitle="شاشة ترقية الخطة الافتراضية" image="/docs/faq/evervideo/what-is-the-difference-between-evervideo-and-evervideo-premium/upgrade-default.webp" >}}
 {{< /cards >}}
 
 ## اختر خطة Premium
@@ -19,7 +19,7 @@ readingTime: 3
 تقدّم النسخة المجانية من التطبيق شراءً لمرة واحدة مدى الحياة وخيارَي اشتراك (شهر واحد وسنة واحدة) لإزالة جميع القيود والترقية إلى النسخة المدفوعة، مما يتيح لك اختيار السعر الأفضل والأمثل. قد تختلف الأسعار حسب دولتك أو منطقتك. يُرجى ملاحظة أن **المشاركة العائلية** مفعّلة لجميع المشتريات والخطط، لذا يمكنك مشاركة النسخة المدفوعة مع أفراد عائلتك.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="شاشة اختيار خطة Evervideo" image="/docs/faq/evervideo/what-is-the-difference-between-evervideo-and-evervideo-premium/plan-select.webp" >}}
+  {{< ls-card title="" subtitle="شاشة اختيار خطة Evervideo" image="/docs/faq/evervideo/what-is-the-difference-between-evervideo-and-evervideo-premium/plan-select.webp" >}}
 {{< /cards >}}
 
 ## مشاركة المشتريات بين iOS وMac
@@ -31,13 +31,13 @@ readingTime: 3
 لاستعادة شرائك على الجهاز الجديد، فقط استخدم قائمة 'استعادة المشتريات'. ستجد قائمة بمشترياتك. إذا لم تجد جميع مشترياتك، تحقق من اتصال الجهاز بنفس حساب iTunes المستخدم في الشراء، وتأكد من تفعيل iCloud.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="شاشة استعادة الشراء" image="/docs/faq/evervideo/what-is-the-difference-between-evervideo-and-evervideo-premium/purchase-restored.webp" >}}
+  {{< ls-card title="" subtitle="شاشة استعادة الشراء" image="/docs/faq/evervideo/what-is-the-difference-between-evervideo-and-evervideo-premium/purchase-restored.webp" >}}
 {{< /cards >}}
 
 بمجرد ترقية التطبيق، ستجد شاشة حالة Premium مع تفاصيل مشترياتك الحالية.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="شاشة أنت تستخدم Premium" image="/docs/faq/evervideo/what-is-the-difference-between-evervideo-and-evervideo-premium/you-are-using-premium.webp" >}}
+  {{< ls-card title="" subtitle="شاشة أنت تستخدم Premium" image="/docs/faq/evervideo/what-is-the-difference-between-evervideo-and-evervideo-premium/you-are-using-premium.webp" >}}
 {{< /cards >}}
 
 ## جرّب Premium مجاناً
@@ -45,7 +45,7 @@ readingTime: 3
 بالإضافة إلى ذلك، هناك فرصة محدودة لـ '**تجربة Premium مجاناً**'. يمكنك الوصول إلى هذه الميزة من خلال قائمة 'تجربة Premium مجاناً'. بمشاهدة إعلان أو نشر كلمة عن التطبيق بين أصدقائك، يمكنك فتح النسخة المدفوعة مجاناً خلال هذه الفترة الترويجية. يتيح لك ذلك تجربة ميزات Premium دون أي التزام مالي.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="شاشة تجربة Premium مجاناً" image="/docs/faq/evervideo/what-is-the-difference-between-evervideo-and-evervideo-premium/premium-for-free.webp" >}}
+  {{< ls-card title="" subtitle="شاشة تجربة Premium مجاناً" image="/docs/faq/evervideo/what-is-the-difference-between-evervideo-and-evervideo-premium/premium-for-free.webp" >}}
 {{< /cards >}}
 
 ## Evervideo المجاني
@@ -62,7 +62,7 @@ readingTime: 3
 - لا توجد خيارات تخصيص أو تشخيص.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="شاشة ترقية التخزين السحابي" image="/docs/faq/evervideo/what-is-the-difference-between-evervideo-and-evervideo-premium/upgrade-cloud-storage.webp" >}}
+  {{< ls-card title="" subtitle="شاشة ترقية التخزين السحابي" image="/docs/faq/evervideo/what-is-the-difference-between-evervideo-and-evervideo-premium/upgrade-cloud-storage.webp" >}}
 {{< /cards >}}
 
 ## Evervideo Premium
@@ -106,7 +106,7 @@ readingTime: 3
 من ناحية أخرى، **Evervideo Premium** يفتح التجربة الكاملة. ستستمتع بواجهة خالية من الإعلانات ودعم غير محدود لقوائم التشغيل والطابور ووظائف غير متصلة كاملة ومرونة سحابية وخيارات تصدير وتخصيص متقدمة. إنه الخيار الأفضل للمستخدمين الذين يمتلكون مكتبات فيديو كبيرة، أو الذين يشاهدون محتوى من مصادر متعددة، أو أي شخص يبحث عن مشغّل وسائط أكثر احترافية وسلاسة.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="شاشة لقد اشتريت Premium" image="/docs/faq/evervideo/what-is-the-difference-between-evervideo-and-evervideo-premium/you-have-purchased-premium.webp" >}}
+  {{< ls-card title="" subtitle="شاشة لقد اشتريت Premium" image="/docs/faq/evervideo/what-is-the-difference-between-evervideo-and-evervideo-premium/you-have-purchased-premium.webp" >}}
 {{< /cards >}}
 
 إذا كنت تبحث عن المرونة، جرّب **الخطة الشهرية**. للقيمة على المدى الطويل، اختر **السنوية** أو ترقية **مدى الحياة** — كلاهما يوفّر وصولاً كاملاً بسعر أفضل.

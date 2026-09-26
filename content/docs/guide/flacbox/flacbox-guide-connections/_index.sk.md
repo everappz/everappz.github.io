@@ -19,7 +19,7 @@ readingTime: 12
 Na tejto obrazovke môžete pripojiť každý zdroj, kde sa nachádza vaša hudba. Môžete integrovať populárne cloudové služby ako Dropbox, Google Drive, iCloud Drive, OneDrive, MEGA, Box, pCloud, Yandex Disk, Synology Drive a mnohé ďalšie, ako aj váš Mac, PC alebo NAS cez štandardné protokoly. Bez ohľadu na to, či vaša zbierka žije na streamovacej službe ako Dropbox alebo na osobnom NAS ako Synology, QNAP, Buffalo, Apple Time Capsule alebo WD My Cloud Home, Flacbox sa k nim všetkým pripojí z jednej obrazovky.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox — obrazovka Pripojenia" image="/docs/guide/flacbox/img/connections-main.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox — obrazovka Pripojenia" image="/docs/guide/flacbox/img/connections-main.webp" >}}
 {{< /cards >}}
 
 ## Pripojenie ku cloudovému úložisku
@@ -30,7 +30,7 @@ Na tejto obrazovke môžete pripojiť každý zdroj, kde sa nachádza vaša hudb
 - Na oficiálnej autorizačnej stránke poskytovateľa cloudu zadajte svoje prihlasovacie údaje a klepnite na **Hotovo**.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox — pridanie cloudovej úložnej služby" image="/docs/guide/flacbox/img/add-cloud-storage.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox — pridanie cloudovej úložnej služby" image="/docs/guide/flacbox/img/add-cloud-storage.webp" >}}
 {{< /cards >}}
 
 Ak narazíte na problémy, skontrolujte internetové pripojenie a prihlasovacie meno / heslo. V Premium verzii aplikácie môžete pridať neobmedzený počet služieb; bezplatná verzia podporuje až tri.
@@ -134,7 +134,7 @@ Táto sekcia zobrazuje každé zariadenie vo vašej lokálnej sieti, ku ktorému
 Je to najrýchlejší spôsob objavenia SMB, WebDAV alebo DLNA zdieľania vo vašej domácej sieti bez ručného zadávania IP adries.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox — dostupné zariadenia v lokálnej sieti" image="/docs/guide/flacbox/img/available-devies.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox — dostupné zariadenia v lokálnej sieti" image="/docs/guide/flacbox/img/available-devies.webp" >}}
 {{< /cards >}}
 
 ## Wi-Fi Drive
@@ -149,7 +149,7 @@ Wi-Fi Drive je praktická technológia, ktorá umožňuje bezdrôtový prenos s�
 - Klepnutím na **Spustiť Wi-Fi Drive** aktivujete Wi-Fi Drive.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox Wi-Fi Drive" image="/docs/guide/flacbox/img/wifi-drive.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox Wi-Fi Drive" image="/docs/guide/flacbox/img/wifi-drive.webp" >}}
 {{< /cards >}}
 
 ### Prístup k Wi-Fi Drive na počítači
@@ -234,7 +234,7 @@ Klepnutím na ikonu **„..."** pri názve súboru zobrazíte ponuku akcií:
 - **Vymazať** — natrvalo odstráni súbor z cloudového úložiska. **Túto akciu nie je možné vrátiť späť.**
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox — ďalšie akcie pre súbor v pripojenom cloudovom úložisku" image="/docs/guide/flacbox/img/more-actions-for-file-in-connected-cloud-storage.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox — ďalšie akcie pre súbor v pripojenom cloudovom úložisku" image="/docs/guide/flacbox/img/more-actions-for-file-in-connected-cloud-storage.webp" >}}
 {{< /cards >}}
 
 Ak zoznam akcií presahuje dostupné miesto na obrazovke, jednoducho posuňte nadol v ponuke akcií, aby ste zobrazili ďalšie možnosti.
@@ -261,7 +261,7 @@ Pre každý priečinok v cloudovom úložisku máte k dispozícii širokú šká
 Sekcia Rýchly prístup sa nachádza v hornej časti obrazovky. Poskytuje rýchly prístup k obľúbeným a nedávno otváraným súborom z pripojených cloudových služieb. Vždy, keď otvoríte súbor alebo priečinok z cloudu, pridá sa do zoznamu Nedávno otvorené. Ak chcete zoznam vymazať, otvorte Nedávne, klepnite na tlačidlo Viac akcií a vyberte Vymazať zoznam. Môžete tiež označiť hlboko vnorené priečinky ako Obľúbené, aby ste k nim mali rýchly prístup bez prehľadávania adresárovej štruktúry.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox — online prepojenia a rýchly prístup" image="/docs/guide/flacbox/img/online-links.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox — online prepojenia a rýchly prístup" image="/docs/guide/flacbox/img/online-links.webp" >}}
 {{< /cards >}}
 
 ## Ostatné služby
@@ -269,5 +269,5 @@ Sekcia Rýchly prístup sa nachádza v hornej časti obrazovky. Poskytuje rýchl
 Táto sekcia zobrazuje doplnkové funkcie, ktoré vylepšujú váš zážitok. V súčasnosti aplikácia podporuje scrobbling **Last.fm** — keď je pripojený, štatistiky prehrávania sa automaticky posielajú na váš účet Last.fm. Neskôr môžete navštíviť profil Last.fm a zobraziť analýzy počúvania a získať personalizované odporúčania hudby. Podrobné pokyny na nastavenie sú dostupné [tu](/docs/howto/how-to-scrobble-your-music-history-from-evermusic-or-flacbox-to-last-fm).
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox — pripojenie Last.fm" image="/docs/guide/flacbox/img/last-fm-connect.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox — pripojenie Last.fm" image="/docs/guide/flacbox/img/last-fm-connect.webp" >}}
 {{< /cards >}}

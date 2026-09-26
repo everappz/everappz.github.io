@@ -7,7 +7,7 @@ tags: ["muzik", "usb", "luaran", "ixpand", "sandisk", "iphone", "evermusic"]
 readingTime: 3
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **Ringkasan:** Evermusic membolehkan anda memainkan muzik terus dari SanDisk iXpand Flash Drive pada iPhone atau iPad anda. Sambungkan pemacu, buka Evermusic, dan mula mendengar -- tidak perlu menyalin fail ke peranti anda. Menyokong pengurusan fail, senarai main, penyama dan penstriman AirPlay.
@@ -69,22 +69,22 @@ Dengan Evermusic dan SanDisk iXpand Flash Drive, anda akan mempunyai kebebasan u
 
 ## FAQ
 
-{{% details title="Apakah model iXpand Flash Drive yang disokong oleh Evermusic?" closed="true" %}}
+{{% ls-details title="Apakah model iXpand Flash Drive yang disokong oleh Evermusic?" closed="true" %}}
 Evermusic menyokong SanDisk iXpand Flash Drive dengan protokol V1, V2, V3, V6 dan V7. Anda boleh menyemak keserasian dalam Tetapan iPhone anda di bawah Umum > Perihal > iXpand Flash Drive.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Bolehkah saya memainkan muzik dari pemacu USB tanpa menyalin fail ke iPhone saya?" closed="true" %}}
+{{% ls-details title="Bolehkah saya memainkan muzik dari pemacu USB tanpa menyalin fail ke iPhone saya?" closed="true" %}}
 Ya. Evermusic memainkan fail audio terus dari iXpand Flash Drive. Tidak perlu menyalin apa-apa ke storan dalaman peranti anda.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Apakah format audio yang disokong oleh Evermusic dari pemacu USB?" closed="true" %}}
+{{% ls-details title="Apakah format audio yang disokong oleh Evermusic dari pemacu USB?" closed="true" %}}
 Evermusic menyokong semua format audio utama termasuk MP3, FLAC, AAC, WAV, AIFF, OGG dan banyak lagi. Mana-mana fail audio yang disimpan di pemacu iXpand anda boleh dimainkan secara terus.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Bolehkah saya menstrim muzik dari pemacu iXpand ke pembesar suara AirPlay?" closed="true" %}}
+{{% ls-details title="Bolehkah saya menstrim muzik dari pemacu iXpand ke pembesar suara AirPlay?" closed="true" %}}
 Ya. Semasa memainkan muzik dari pemacu USB, anda boleh menstrim audio ke peranti serasi AirPlay seperti pembesar suara Sonos, Apple TV dan Google Chromecast.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Apa yang perlu saya lakukan jika pemacu iXpand saya tidak dikenali?" closed="true" %}}
+{{% ls-details title="Apa yang perlu saya lakukan jika pemacu iXpand saya tidak dikenali?" closed="true" %}}
 Pastikan tiada aplikasi lain yang menggunakan pemacu tersebut. Cuba cabut dan sambungkan semula. Jika model anda tidak disokong, gunakan penyesuai Apple Lightning to USB untuk menyambungkan pemacu sebagai peranti USB standard.
-{{% /details %}}
+{{% /ls-details %}}

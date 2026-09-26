@@ -7,7 +7,7 @@ keywords: ["SMB Server iPhone", "SMB Server iPad", "SMB auf iPhone einrichten", 
 readingTime: 10
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 SMB ist die Dateifreigabe, die in macOS, Windows und Linux und in fast jedes Netzlaufwerk (NAS) eingebaut ist. Wenn du dich mit einem geteilten Ordner auf einem anderen Computer verbindest und er sich wie eine normale Festplatte im Finder oder Datei-Explorer offnet, ist das SMB bei der Arbeit. Mit [Everdisk](/products/everdisk) kannst du eine SMB-Freigabe auf deinem iPhone oder iPad einrichten, sodass das Handy selbst als Netzlaufwerk erscheint, das andere Gerate durchsuchen, von dem sie kopieren und auf das sie kopieren.
 
@@ -136,45 +136,45 @@ Der Schalter **Dateibearbeitung** in Einstellungen, Teilen, Zugriff steuert das 
 
 ## Haufig gestellte Fragen
 
-{{% details title="Was sind die SMB-Adresse und der Port fur mein iPhone?" closed="true" %}}
+{{% ls-details title="Was sind die SMB-Adresse und der Port fur mein iPhone?" closed="true" %}}
 Nachdem du das Teilen gestartet hast, zeigt Everdisk die Adresse auf dem Teilen-Bildschirm. Sie sieht aus wie smb://192.168.1.20:4455/Share. Die 4455 ist der Port, den Everdisk fur SMB nutzt, und Share ist der Name des geteilten Ordners. Der erste Teil ist die Adresse deines iPhones im Wi-Fi, deiner wird also anders sein.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Kann ich mich mit meiner iPhone-SMB-Freigabe von Windows verbinden?" closed="true" %}}
+{{% ls-details title="Kann ich mich mit meiner iPhone-SMB-Freigabe von Windows verbinden?" closed="true" %}}
 Der Windows-Datei-Explorer verbindet sich nur uber den Standardport mit SMB und akzeptiert keinen individuellen Port im Pfad, wahrend Everdisk Port 4455 nutzt. Daher erreicht der schlichte Weg Netzlaufwerk verbinden ihn oft nicht. Nutze einen Dateimanager, der einen individuellen Port erlaubt, oder verbinde dich von Windows stattdessen mit WebDAV, FTP oder dem Browser-Link. All diese funktionieren von Windows ohne Port-Probleme.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Wie teile ich Dateien zwischen zwei iPhones mit SMB?" closed="true" %}}
+{{% ls-details title="Wie teile ich Dateien zwischen zwei iPhones mit SMB?" closed="true" %}}
 Starte den SMB-Server auf dem ersten iPhone in Everdisk. Offne auf dem zweiten iPhone die App Dateien, tippe auf die Schaltflache Mehr, wahle Mit Server verbinden und gib die in Everdisk angezeigte smb-Adresse ein (zum Beispiel smb://192.168.1.20:4455/Share). Verbinde dich als Gast oder mit deinem Login, und die Freigabe erscheint in Dateien. Du kannst auf dem zweiten Handy auch Everdisks eigenen Tab Geräte nutzen.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Erscheint mein iPhone automatisch in der Mac-Finder-Seitenleiste?" closed="true" %}}
+{{% ls-details title="Erscheint mein iPhone automatisch in der Mac-Finder-Seitenleiste?" closed="true" %}}
 Meistens ja. Everdisk kundigt die SMB-Freigabe in deinem Wi-Fi an, sodass dein iPhone oft unter Orte oder Netzwerk in der Finder-Seitenleiste erscheint. Klicke darauf und wahle Verbinden als, dann Gast oder dein Login. Wenn es nicht erscheint, verbinde dich von Hand mit Gehe zu, Mit Server verbinden und der vollstandigen smb-Adresse.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Brauche ich ein Passwort, um SMB zu nutzen?" closed="true" %}}
+{{% ls-details title="Brauche ich ein Passwort, um SMB zu nutzen?" closed="true" %}}
 Nein, ein Login ist optional. Lass Anmeldename und Passwort in Einstellungen, Teilen, Zugriff leer, um Gastzugriff zu erlauben. Lege sie fest, wenn du willst, dass sich Verbindungen anmelden. Ein Anmeldename und ein Passwort sind nur erforderlich, wenn du SMB-Verschlüsselung anfordern aktivierst, denn verschlusselte Verbindungen konnen nicht anonym sein.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Ist die SMB-Verbindung verschlusselt?" closed="true" %}}
+{{% ls-details title="Ist die SMB-Verbindung verschlusselt?" closed="true" %}}
 Sie kann es sein. SMB ist die einzige Everdisk-Verbindung, die Verschlusselung unterstutzt. Lege einen Anmeldename und ein Passwort fest, aktiviere dann SMB-Verschlüsselung anfordern in Einstellungen, Teilen. Jede Ubertragung ist dann mit SMB3 (AES) geschutzt. Das andere Gerat muss SMB3 unterstutzen, was moderne Macs und Windows 10 oder neuer tun. Die Verschlusselung ist eine Premium-Funktion.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Konnen Leute meine Dateien uber SMB andern oder loschen?" closed="true" %}}
+{{% ls-details title="Konnen Leute meine Dateien uber SMB andern oder loschen?" closed="true" %}}
 Nur wenn du es erlaubst. Der Schalter Dateibearbeitung in Einstellungen, Teilen, Zugriff steuert das. Mit aktivierter Option konnen verbundene Gerate hochladen, umbenennen und loschen. Mit deaktivierter Option ist die Freigabe schreibgeschutzt, und andere konnen Dateien durchsuchen und von deinem Handy kopieren, aber nichts andern.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Warum ist meine SMB-Verbindung abgebrochen?" closed="true" %}}
+{{% ls-details title="Warum ist meine SMB-Verbindung abgebrochen?" closed="true" %}}
 Dein iPhone ist der Server, und iOS pausiert Apps, die zu lange im Hintergrund bleiben. Halte Everdisk auf dem Bildschirm offen, wahrend ein Gerat verbunden ist, und schliesse das Handy bei langen Ubertragungen an den Strom an. Stelle ausserdem sicher, dass beide Gerate im selben Wi-Fi geblieben sind.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="SMB, WebDAV oder FTP, was soll ich nutzen?" closed="true" %}}
+{{% ls-details title="SMB, WebDAV oder FTP, was soll ich nutzen?" closed="true" %}}
 Nutze SMB, wenn sich das Handy wie ein echtes Netzlaufwerk auf einem Mac, einem weiteren iPhone, Linux oder einem NAS verhalten soll und wenn du Verschlusselung willst. Nutze WebDAV, wenn du ein Netzlaufwerk willst, das auch von Windows gut funktioniert. Nutze FTP fur die breiteste Kompatibilitat mit alteren Geraten und Apps. Everdisk kann sie alle gleichzeitig betreiben, du bist also nicht auf eines festgelegt.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Ist Everdisk kostenlos?" closed="true" %}}
+{{% ls-details title="Ist Everdisk kostenlos?" closed="true" %}}
 Ja, Everdisk ist ein kostenloser Download und der SMB-Server ist enthalten. Der optionale einmalige Premium-Kauf fugt SMB-Verschlusselung, individuelle Ports und ein paar weitere Extras hinzu. Du kannst SMB einrichten und Dateien teilen, ohne zu zahlen.
-{{% /details %}}
+{{% /ls-details %}}
 
 Bereit, es auszuprobieren? [Lade Everdisk aus dem App Store](https://apps.apple.com/app/apple-store/id6751851132?pt=95781850&ct=everappzcom&mt=8) und offne dein iPhone in etwa einer Minute im Finder. Fragen oder Feedback? Schreib uns an **support@everappz.com**.
 </content>

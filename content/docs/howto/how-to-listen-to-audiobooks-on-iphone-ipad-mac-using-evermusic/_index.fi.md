@@ -7,7 +7,7 @@ tags: ["äänikirjat", "toisto", "offline", "evermusic", "kirjanmerkki"]
 readingTime: 5
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **Tiivistelmä:** Evermusic toimii täysiominaisuuksisena äänikirjasoittimena iOS:llä ja macOS:llä. Siirrä äänikirjoja iTunesin, WiFin tai pilvitallennuksen kautta ja käytä sitten toistonopeuden säätöä, ajanohituspainikkeita, äänikirjanmerkkejä, toiston jatkamista ja offline-latauksia saumattomaan kuuntelukokemukseen.
@@ -151,26 +151,26 @@ Hyvää kuuntelua!
 
 ## Usein kysytyt kysymykset
 
-{{% details title="Mitä äänikirjaformaatteja Evermusic tukee?" closed="true" %}}
+{{% ls-details title="Mitä äänikirjaformaatteja Evermusic tukee?" closed="true" %}}
 Evermusic tukee MP3-, M4A-, M4B-, FLAC-, WAV-, AIFF-, OGG- ja muita yleisiä äänimuotoja. Mikä tahansa äänitiedosto, joka toistuu Evermusicissa, toimii äänikirjana.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Voinko kuunnella äänikirjoja pilvitallennuksesta?" closed="true" %}}
+{{% ls-details title="Voinko kuunnella äänikirjoja pilvitallennuksesta?" closed="true" %}}
 Kyllä. Evermusic yhdistää iCloud Driveen, Google Driveen, Dropboxiin, OneDriveen, Boxiin ja WebDAV-palvelimiin. Voit suoratoistaa äänikirjoja suoraan tai ladata ne offline-kuuntelua varten.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Siirtyvätkö kirjanmerkkini uuteen laitteeseen?" closed="true" %}}
+{{% ls-details title="Siirtyvätkö kirjanmerkkini uuteen laitteeseen?" closed="true" %}}
 Kyllä. Evermusic tallentaa äänikirjanmerkit tiedoston metatietoihin, joten ne siirtyvät automaattisesti, kun siirrät tiedostoja uuteen laitteeseen.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Muistaako Evermusic, mihin lopetin kuuntelun?" closed="true" %}}
+{{% ls-details title="Muistaako Evermusic, mihin lopetin kuuntelun?" closed="true" %}}
 Kyllä. Ota käyttöön "Tallenna toiston sijainti" ja "Tallenna äänisoittimen tila" kohdassa Asetukset > Äänisoitin > Yleinen. Sovellus tallentaa ja palauttaa tarkan sijaintisi istuntojen välillä.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Voinko säätää äänikirjan toistonopeutta?" closed="true" %}}
+{{% ls-details title="Voinko säätää äänikirjan toistonopeutta?" closed="true" %}}
 Kyllä. Mene kohtaan Asetukset > Äänisoitin > Toistonopeus asettaaksesi haluamasi nopeuden. Voit nopeuttaa tai hidastaa kerrontaa kuuntelutottumuksiisi sopivaksi.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Kuinka siirrän äänikirjoja Evermusiciin?" closed="true" %}}
+{{% ls-details title="Kuinka siirrän äänikirjoja Evermusiciin?" closed="true" %}}
 Voit siirtää tiedostoja iTunesin/Finderin tiedostojen jakamisen, WiFi Driven (sovellukseen sisäänrakennettu) kautta tai yhdistämällä pilvitallennustilin Evermusicissa.
-{{% /details %}}
+{{% /ls-details %}}

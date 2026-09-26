@@ -9,7 +9,7 @@ aliases:
   - /post/how-to-set-up-dlna-upnp-media-server-on-iphone-ipad-for-streaming/
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 DLNA (also called UPnP AV) is the quiet workhorse behind most smart TVs. It is a shared language that lets a TV or media player find a media library on the same Wi-Fi and play from it, with nothing to install on the TV. If your iPhone or iPad can act as that library, your photos, videos and music show up on the big screen on their own.
 
@@ -129,44 +129,44 @@ DLNA hands the file to the TV as it is, and the TV has to be able to decode it. 
 
 ## Frequently Asked Questions
 
-{{% details title="What is the difference between DLNA and UPnP?" closed="true" %}}
+{{% ls-details title="What is the difference between DLNA and UPnP?" closed="true" %}}
 They are closely related. UPnP is the underlying networking standard, and DLNA is the media profile built on top of it that TVs and players use to share and play photos, videos and music. In everyday use the words are interchangeable. When you turn on TV & Media Center in Everdisk, your device becomes a DLNA/UPnP media server that any DLNA client can browse.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Do I need to install anything on my TV?" closed="true" %}}
+{{% ls-details title="Do I need to install anything on my TV?" closed="true" %}}
 No. If your TV supports DLNA, it already has a media player that can find your device on the Wi-Fi. You only install Everdisk on the iPhone or iPad that holds the content. If your TV does not support DLNA, install a player like VLC or Kodi on a device connected to it.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Why does my iPhone not show up on the TV?" closed="true" %}}
+{{% ls-details title="Why does my iPhone not show up on the TV?" closed="true" %}}
 Check that both devices are on the same Wi-Fi network. Guest networks and some office or hotel networks block devices from seeing each other, which stops DLNA. Then confirm Everdisk is open with sharing started, and that TV & Media Center is on in Settings, Sharing, Connections. If the TV still cannot find it, add the server by hand using the device description address that ends in /device-desc.xml.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Does DLNA streaming need a password?" closed="true" %}}
+{{% ls-details title="Does DLNA streaming need a password?" closed="true" %}}
 No. DLNA is always open to anyone on the same Wi-Fi while it is on, which is why there is no login on the TV side. That is fine on a home network you trust. On a network you do not trust, turn TV & Media Center off when you are done, or use the SMB server with encryption instead.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Can I stream to a Chromecast or Roku?" closed="true" %}}
+{{% ls-details title="Can I stream to a Chromecast or Roku?" closed="true" %}}
 Chromecast and Roku do not act as DLNA players out of the box, so they will not find your device directly. The workaround is to install a DLNA app that can cast, such as VLC or BubbleUPnP on a phone, and push playback to the Chromecast or Roku from there. On most other smart TVs, DLNA works without any of this.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="A video plays with no sound or will not open. What can I do?" closed="true" %}}
+{{% ls-details title="A video plays with no sound or will not open. What can I do?" closed="true" %}}
 That is a format the TV cannot decode. Open Settings, Sharing, Videos in Everdisk and lower the Quality so the app converts the video to a more compatible format as it streams. You can also open the same file through the browser link, which handles more formats.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Can I stream music, not just video?" closed="true" %}}
+{{% ls-details title="Can I stream music, not just video?" closed="true" %}}
 Yes. Turn on Allow access to all Music Library, or add specific tracks, then start sharing. Your songs appear on any DLNA speaker, AV receiver or TV, with artwork and track details. Music is always shared in its original quality.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Does the app have to stay open while I watch?" closed="true" %}}
+{{% ls-details title="Does the app have to stay open while I watch?" closed="true" %}}
 Yes. Your iPhone is acting as the server, and iOS pauses apps that are pushed fully into the background for a long time. Keep Everdisk on screen while you stream, and plug into power for long sessions.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="How do I stream from one iPhone to another iPad?" closed="true" %}}
+{{% ls-details title="How do I stream from one iPhone to another iPad?" closed="true" %}}
 Start sharing on the iPhone, then open Everdisk on the iPad and go to the Devices tab. The iPhone appears under Available Devices as a media server. Tap it to browse and play. Everdisk works as a DLNA client and a server, so you do not need another app.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Is Everdisk free?" closed="true" %}}
+{{% ls-details title="Is Everdisk free?" closed="true" %}}
 Yes, Everdisk is free to download and the DLNA media server is included. An optional one-time Premium Lifetime purchase adds extras like photo and video conversion for older TVs, custom ports and more. You can set up and use DLNA streaming without paying.
-{{% /details %}}
+{{% /ls-details %}}
 
 Ready to try it? [Download Everdisk from the App Store](https://apps.apple.com/app/apple-store/id6751851132?pt=95781850&ct=everappzcom&mt=8) and stream your first album to the TV in a couple of minutes. Questions or feedback? Email us at **support@everappz.com**.

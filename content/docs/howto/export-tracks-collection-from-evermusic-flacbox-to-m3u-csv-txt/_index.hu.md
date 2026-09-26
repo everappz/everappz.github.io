@@ -6,7 +6,7 @@ keywords: ["evermusic exportálás", "flacbox exportálás", "exportálás m3u-b
 tags: ["evermusic", "legutóbbiak", "kedvencek", "exportálás", "m3u", "lejátszási lista", "csv", "txt", "album"]
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **Röviden:** Az Evermusic és Flacbox lehetővé teszi bármely zeneszámgyűjtemény (legutóbbiak, kedvencek, lejátszási listák, albumok) exportálását CSV, TXT vagy M3U fájlokba. Használja ezeket az exportokat Last.fm scrobbláláshoz, könyvtára biztonsági mentéséhez, vagy lejátszási listái más eszközökön történő lejátszásához.
@@ -157,22 +157,22 @@ A zeneszámok exportálása az Evermusic és Flacbox alkalmazásokból teljes ko
 
 ## Gyakran ismételt kérdések
 
-{{% details title="Melyik exportálási formátumot használjam a Last.fm scrobbláláshoz?" closed="true" %}}
+{{% ls-details title="Melyik exportálási formátumot használjam a Last.fm scrobbláláshoz?" closed="true" %}}
 Használja a CSV-t. Tartalmazza az időbélyegeket és a scrobblálási eszközök, például a Last.fm-Scrubbler-WPF által igényelt teljes metaadatokat.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Exportálhatok bármilyen zeneszámgyűjteményt, nem csak lejátszási listákat?" closed="true" %}}
+{{% ls-details title="Exportálhatok bármilyen zeneszámgyűjteményt, nem csak lejátszási listákat?" closed="true" %}}
 Igen. Exportálhatja a legutóbbiakat, kedvenceket, albumokat, lejátszási listákat és bármely más zeneszámgyűjteményt az alkalmazásban ugyanezekkel a lépésekkel.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Működik az M3U lejátszási listám más eszközökön?" closed="true" %}}
+{{% ls-details title="Működik az M3U lejátszási listám más eszközökön?" closed="true" %}}
 Ha az exportálás során az Abszolút URL opciót választja, az M3U fájl bármely M3U lejátszási listákat támogató eszközön lejátszható. Vegye figyelembe, hogy egyes felhő URL-ek idővel lejárhatnak.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Ingyenes az exportálási funkció?" closed="true" %}}
+{{% ls-details title="Ingyenes az exportálási funkció?" closed="true" %}}
 Igen. A zeneszámgyűjtemények exportálása M3U, CSV és TXT formátumba az Evermusic és Flacbox ingyenes és prémium verziójában egyaránt elérhető.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Mely felhőszolgáltatások támogatják az Abszolút URL exportálást?" closed="true" %}}
+{{% ls-details title="Mely felhőszolgáltatások támogatják az Abszolút URL exportálást?" closed="true" %}}
 Az Abszolút URL exportálás az iCloud Drive, pCloud, PanBaidu, MyCloudHome, DLNA, MediaFire, OneDrive, Box, Dropbox, Google Drive és WebDAV (vendég mód) szolgáltatásoknál támogatott.
-{{% /details %}}
+{{% /ls-details %}}

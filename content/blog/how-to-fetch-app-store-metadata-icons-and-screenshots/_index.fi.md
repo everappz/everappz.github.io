@@ -23,7 +23,7 @@ authors:
     image: "/images/about/artem-meleshko-founder-everappz.webp"
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 ## Hae App Store-tiedot sekunneissa
 
@@ -134,53 +134,53 @@ Et tarvitse API-avainta, kehittäjätiliä tai maksullista pakettia App Store-ti
 AppLookup.pro on avoimen lähdekoodin sovellus. Vikailmoitukset, maalisäykset ja pull request -pyynnöt ovat tervetulleita.
 
 {{< cards cols="1" >}}
-  {{< card link="https://github.com/everappz/AppStoreLookup" title="AppLookup.pro GitHubissa" icon="github" tag="avoin lähdekoodi" >}}
+  {{< ls-card link="https://github.com/everappz/AppStoreLookup" title="AppLookup.pro GitHubissa" icon="github" tag="avoin lähdekoodi" >}}
 {{< /cards >}}
 
 ---
 
 ## Usein kysytyt kysymykset
 
-{{% details title="Onko AppLookup.pro todella ilmainen?" closed="true" %}}
+{{% ls-details title="Onko AppLookup.pro todella ilmainen?" closed="true" %}}
 Kyllä. AppLookup.pro on 100 prosenttisesti ilmainen ja avoimen lähdekoodin. Se toimii selaimessasi. Ei rekisteröitymistä, ei maksullista tasoa eikä käyttörajoja Applen omien iTunes Search API-rajojen yli.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Mistä tiedot tulevat?" closed="true" %}}
+{{% ls-details title="Mistä tiedot tulevat?" closed="true" %}}
 Jokainen tulos haetaan reaaliajassa Applen virallisesta [iTunes Search API:sta](https://developer.apple.com/library/archive/documentation/AudioVideo/Conceptual/iTuneSearchAPI/index.html). Työkalu ei kaavi App Store-sivuja eikä välimuistissa vastauksia millään palvelimella.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Voinko ladata sovelluskuvakkeen korkearesoluutioisena?" closed="true" %}}
+{{% ls-details title="Voinko ladata sovelluskuvakkeen korkearesoluutioisena?" closed="true" %}}
 Kyllä. **App Icon**-osio näyttää jokaisen kuvakkeen URL:n, jonka Apple palauttaa. Jokaisella kortilla on Direct Link- ja Download-painike, ja Download All Icons ZIP -painike pakkaa ne yhteen arkistoon.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Voinko ladata kaikki App Store-kuvakaappaukset kerralla?" closed="true" %}}
+{{% ls-details title="Voinko ladata kaikki App Store-kuvakaappaukset kerralla?" closed="true" %}}
 Kyllä. Jokaisessa kuvakaappausosiossa (iPhone, iPad, macOS ja Apple TV) on **Download All (ZIP)**-painike, joka niputtaa jokaisen kuvakaappauksen täysresoluutioisena.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Miten näen, miltä sovellus näyttää toisessa maassa?" closed="true" %}}
+{{% ls-details title="Miten näen, miltä sovellus näyttää toisessa maassa?" closed="true" %}}
 Valitse maa sivun yläosan pudotusvalikosta. Yli 40 etusivua on tuettu. Napsauta **Lookup** uudelleen ja työkalu hakee sovelluksen uudelleen kyseiselle maalle näyttäen lokalisoidun otsikon, kuvauksen, kuvakaappaukset, uutuudet ja hinnan.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Voinko kopioida yksittäisiä kenttiä, kuten bundle-tunnuksen tai julkaisupäivän?" closed="true" %}}
+{{% ls-details title="Voinko kopioida yksittäisiä kenttiä, kuten bundle-tunnuksen tai julkaisupäivän?" closed="true" %}}
 Kyllä. Jokaisella tekstikentällä tuloksessa on oma Copy-painikkeensa: sovelluksen nimi, kehittäjä, kuvaus, uutuudet, bundle-tunnus, versio, hinta, tiedostokoko, vähimmäis-OS, julkaisupäivä, sisältöluokitus, kielet, tuetut laitteet ja raaka JSON.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Toimiiko AppLookup.pro mille tahansa iOS-sovellukselle?" closed="true" %}}
+{{% ls-details title="Toimiiko AppLookup.pro mille tahansa iOS-sovellukselle?" closed="true" %}}
 Se toimii mille tahansa sovellukselle, joka on julkisesti listattu vähintään yhdessä App Store-maassa ja jonka iTunes Search API palauttaa. Listaamattomat, poistetut tai yritysjakelussa olevat sovellukset eivät näy.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Tukeeko se macOS- ja Apple TV-sovelluksia?" closed="true" %}}
+{{% ls-details title="Tukeeko se macOS- ja Apple TV-sovelluksia?" closed="true" %}}
 Kyllä. Jos sovelluksella on macOS- tai Apple TV-kuvakaappauksia iTunes Search API-vastauksessa, AppLookup.pro näyttää ne omassa vieritettävässä paneelissaan latauspainikkeineen.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Voinko käyttää raakaa JSON:a omassa koodissani?" closed="true" %}}
+{{% ls-details title="Voinko käyttää raakaa JSON:a omassa koodissani?" closed="true" %}}
 Kyllä. Raw API Response -osio näyttää tarkan JSON:n, jonka Apple palauttaa. Kopioi se Postmaniin, yksikkötestiin tai backend-putkistoon. Kunnioita Applen API-ehtoja ja kohtuullisia rajoitusrajoja.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Onko App Store-URL:ien liittäminen työkaluun turvallista?" closed="true" %}}
+{{% ls-details title="Onko App Store-URL:ien liittäminen työkaluun turvallista?" closed="true" %}}
 Kyllä. URL jäsennetään selaimessasi. Ainoa lähtevä verkkokutsu on haku Applen iTunes Search API:in.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Mikä on ero AppLookup.pro:n ja AppKeywords.pro:n välillä?" closed="true" %}}
+{{% ls-details title="Mikä on ero AppLookup.pro:n ja AppKeywords.pro:n välillä?" closed="true" %}}
 [AppLookup.pro](https://applookup.pro) on tarkoitettu App Store-metatietojen lukemiseen mistä tahansa julkaistusta sovelluksesta: kilpailijatutkimus, aineiston lataus, lokalisoinnin tarkistukset. [AppKeywords.pro](https://appkeywords.pro) on tarkoitettu App Store-metatietojen kirjoittamiseen omalle sovelluksellesi: otsikon, alaotsikon ja avainsanojen optimointi Fastlane-tuella. Nämä kaksi työkalua toimivat hyvin yhdessä.
-{{% /details %}}
+{{% /ls-details %}}

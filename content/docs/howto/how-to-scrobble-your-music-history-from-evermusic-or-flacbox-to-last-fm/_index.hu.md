@@ -17,7 +17,7 @@ keywords: [
 readingTime: 2
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **Röviden:** Az Evermusic és a Flacbox egyaránt rendelkezik beépített Last.fm scrobblinggal. Kapcsold össze a fiókodat a **Kapcsolatok** részben, és minden lejátszott szám automatikusan naplózásra kerül -- még offline módban is. A beállítás kevesebb mint egy percet vesz igénybe.
@@ -66,22 +66,22 @@ A zenei előzmények scrobblolása az Evermusic vagy Flacbox alkalmazásból a [
 
 ## Gyakran ismételt kérdések
 
-{{% details title="Ingyenes a Last.fm scrobbling?" closed="true" %}}
+{{% ls-details title="Ingyenes a Last.fm scrobbling?" closed="true" %}}
 Igen. A Last.fm ingyenes fiókot kínál, amely tartalmazza a teljes scrobblingot, hallgatási előzményeket és alapvető ajánlásokat. A fizetős Last.fm Pro előfizetés extra funkciókat ad a Last.fm weboldalon, de nem szükséges az Evermusic vagy Flacbox alkalmazásból történő scrobblinghoz.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Működik a scrobbling, amikor offline vagyok?" closed="true" %}}
+{{% ls-details title="Működik a scrobbling, amikor offline vagyok?" closed="true" %}}
 Igen. Az Evermusic és a Flacbox egyaránt helyben tárolja a lejátszási előzményeidet. Amikor visszatérsz online állapotba, az alkalmazások automatikusan feltöltik a várakozó scrobble-okat a Last.fm-re.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Tárolja az alkalmazás a Last.fm bejelentkezési adataimat?" closed="true" %}}
+{{% ls-details title="Tárolja az alkalmazás a Last.fm bejelentkezési adataimat?" closed="true" %}}
 Nem. Az alkalmazás csak egy biztonságos hozzáférési tokent ment az eszközöd kulcstárolójába. A felhasználóneved és jelszavad nem kerül tárolásra.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Scrobblolhatok iPhone-ról és Mac-ről is?" closed="true" %}}
+{{% ls-details title="Scrobblolhatok iPhone-ról és Mac-ről is?" closed="true" %}}
 Igen. Az Evermusic és a Flacbox támogatja a Last.fm scrobblingot iPhone-on, iPad-en és Mac-en. Kapcsold össze a fiókodat minden eszközön, ahol nyomon szeretnéd követni a lejátszásokat.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Hogyan állítom le a scrobblingot a Last.fm fiókom törlése nélkül?" closed="true" %}}
+{{% ls-details title="Hogyan állítom le a scrobblingot a Last.fm fiókom törlése nélkül?" closed="true" %}}
 Nyisd meg a Kapcsolatok részt az Evermusic vagy Flacbox alkalmazásban, és koppints a Kibővítés megszüntetése gombra a Last.fm mellett. Ez eltávolítja a hozzáférési tokent és leállítja a scrobblingot, miközben a Last.fm fiókod és előzményeid érintetlenek maradnak.
-{{% /details %}}
+{{% /ls-details %}}

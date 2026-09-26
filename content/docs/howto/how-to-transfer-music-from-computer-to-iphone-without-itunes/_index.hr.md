@@ -7,14 +7,14 @@ keywords: ["prijenos glazbe bez iTunes", "wifi drive iphone", "bežično kopiran
 readingTime: 2
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **Sažetak:** Koristite Wi-Fi Drive u Evermusic, Flacbox ili Evertag za prijenos glazbe s računala na iPhone ili iPad. iTunes nije potreban. Oba uređaja moraju biti na istoj Wi-Fi mreži. Prenesite putem web preglednika ili WebDAV-a (Mac Finder / Windows Preglednik datoteka).
 
 Možete pogledati video vodič od [**TECHGUYPH**](https://www.youtube.com/channel/UCgpf09gGFE_c_3pPTtTpnzg) ili pročitati tekstualnu verziju u nastavku.
 <br><br>
-{{< youtubecard id="CqdqrQ0ge70" title="Can We Wirelessly Put Offline Music on iPhones?" >}}
+{{< ls-youtubecard id="CqdqrQ0ge70" title="Can We Wirelessly Put Offline Music on iPhones?" >}}
 
 Wi-Fi Drive je ultimativno rješenje za besprijekoran prijenos vaše glazbene kolekcije s računala na iPhone ili iPad bez potrebe za iTunes. Ova jednostavna metoda omogućuje vam preuzimanje ili prijenos više audio datoteka, pa čak i cijelih mapa koristeći lokalnu Wi-Fi vezu. Vaše računalo i iOS uređaj moraju biti spojeni na istu Wi-Fi mrežu kako bi ovo savršeno funkcioniralo.
 
@@ -84,22 +84,22 @@ S Wi-Fi Driveom, dani borbe s iTunesom su prošlost. Uživajte u besprijekornom 
 
 ## Često postavljana pitanja
 
-{{% details title="Koje audio formate mogu prenijeti s Wi-Fi Driveom?" closed="true" %}}
+{{% ls-details title="Koje audio formate mogu prenijeti s Wi-Fi Driveom?" closed="true" %}}
 Wi-Fi Drive prenosi bilo koji tip datoteke. Evermusic i Flacbox podržavaju reprodukciju MP3, FLAC, AAC, WAV, AIFF, OGG, WMA i mnogih drugih audio formata.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Trebam li iTunes za stavljanje glazbe na svoj iPhone?" closed="true" %}}
+{{% ls-details title="Trebam li iTunes za stavljanje glazbe na svoj iPhone?" closed="true" %}}
 Ne. Wi-Fi Drive prenosi glazbu izravno putem vaše lokalne Wi-Fi mreže. iTunes nije potreban.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Mogu li prenijeti cijele glazbene mape odjednom?" closed="true" %}}
+{{% ls-details title="Mogu li prenijeti cijele glazbene mape odjednom?" closed="true" %}}
 Da. Metoda putem web preglednika podržava prijenos cijelih mapa, uključujući ugniježđene podmape.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Je li moj prijenos glazbe siguran?" closed="true" %}}
+{{% ls-details title="Je li moj prijenos glazbe siguran?" closed="true" %}}
 Wi-Fi Drive radi samo na vašoj lokalnoj mreži. Također možete postaviti korisničko ime i lozinku za dodatnu sigurnost.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Koje aplikacije podržavaju Wi-Fi Drive za glazbu?" closed="true" %}}
+{{% ls-details title="Koje aplikacije podržavaju Wi-Fi Drive za glazbu?" closed="true" %}}
 Evermusic, Flacbox i Evertag svi uključuju Wi-Fi Drive za prijenos audio datoteka s vašeg računala.
-{{% /details %}}
+{{% /ls-details %}}

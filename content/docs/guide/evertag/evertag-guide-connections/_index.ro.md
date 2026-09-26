@@ -15,7 +15,7 @@ readingTime: 11
 Pe acest ecran, puteți conecta diverse surse care conțin fișierele dvs. audio. Puteți integra servicii cloud populare precum Google Drive, Dropbox, OneDrive, iCloud și altele, precum și conecta Mac-ul sau PC-ul dvs. În plus, aveți opțiunea de a edita fișiere audio localizate în Apple Time Capsule, WD Cloud Home sau orice NAS care utilizează SMB sau WebDAV.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evertag Connections Screen" image="/docs/guide/evertag/img/connections.webp" >}}
+  {{< ls-card title="" subtitle="Evertag Connections Screen" image="/docs/guide/evertag/img/connections.webp" >}}
 {{< /cards >}}
 
 ## Acces rapid
@@ -151,7 +151,7 @@ Iată o prezentare a acestor acțiuni:
 - **Vizualizare Grilă/Listă**: comutați între două moduri de vizualizare: vizualizare tabel și vizualizare miniaturi. Vizualizarea tabel prezintă fișierele într-o listă, în timp ce vizualizarea miniaturi afișează reprezentări vizuale ale fișierelor, facilitând identificarea conținutului.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evertag Cloud Folder Sort" image="/docs/guide/evertag/img/cloud-storage-sort.webp" >}}
+  {{< ls-card title="" subtitle="Evertag Cloud Folder Sort" image="/docs/guide/evertag/img/cloud-storage-sort.webp" >}}
 {{< /cards >}}
 
 ## Editați Fișiere Online
@@ -163,7 +163,7 @@ Când trebuie să gestionați mai multe fișiere din stocarea dvs. cloud în ace
 - **Efectuați Diverse Acțiuni**: odată ce ați selectat fișierele sau folderele pe care doriți să le gestionați, veți avea acces la mai multe acțiuni adaptate nevoilor dvs.:
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evertag File Select" image="/docs/guide/evertag/img/cloud-storage-file-select.webp" >}}
+  {{< ls-card title="" subtitle="Evertag File Select" image="/docs/guide/evertag/img/cloud-storage-file-select.webp" >}}
 {{< /cards >}}
 
 ## Acțiuni fișier
@@ -180,7 +180,7 @@ Apăsați pe el pentru a dezvălui o listă de acțiuni disponibile:
 - **Șterge**: fiți precauți cu această acțiune, deoarece elimină permanent fișierul din stocarea dvs. cloud. **Această ștergere nu poate fi anulată**.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evertag File Options" image="/docs/guide/evertag/img/cloud-storage-file-options.webp" >}}
+  {{< ls-card title="" subtitle="Evertag File Options" image="/docs/guide/evertag/img/cloud-storage-file-options.webp" >}}
 {{< /cards >}}
 
 Dacă lista de acțiuni depășește spațiul disponibil pe ecran, derulați pur și simplu în jos în meniul de acțiuni pentru a accesa opțiuni suplimentare.
@@ -196,5 +196,5 @@ Pentru fiecare folder din stocarea dvs. cloud, aveți diverse acțiuni disponibi
 - **Șterge**: fiți precauți cu această acțiune, deoarece elimină permanent folderul și conținutul său din stocarea dvs. cloud. **Această acțiune nu poate fi anulată**.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evertag Folder Options" image="/docs/guide/evertag/img/cloud-storage-folder-options.webp" >}}
+  {{< ls-card title="" subtitle="Evertag Folder Options" image="/docs/guide/evertag/img/cloud-storage-folder-options.webp" >}}
 {{< /cards >}}

@@ -18,7 +18,7 @@ readingTime: 16
 Het Instellingenscherm is het controlecentrum van Evermusic. Van hieruit kunt u upgraden naar Premium, de audiospeler configureren, uw muziekbibliotheek beheren, de bestandsbeheerder instellen, de interface aanpassen, widgets en CarPlay inschakelen, een back-up van uw gegevens maken en help- en juridische informatie raadplegen. Secties zijn gegroepeerd onder headers: **Aankopen & updates**, app-voorkeuren, **Help** en **Juridisch & privacy**.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evermusic instellingenscherm" image="/docs/guide/evermusic/evermusic-guide-settings/img/settings-main-screen.webp" >}}
+  {{< ls-card title="" subtitle="Evermusic instellingenscherm" image="/docs/guide/evermusic/evermusic-guide-settings/img/settings-main-screen.webp" >}}
 {{< /cards >}}
 
 ## Aankopen & Updates

@@ -15,7 +15,7 @@ readingTime: 11
 In questa schermata puoi connettere varie sorgenti contenenti i tuoi file audio. Puoi integrare servizi cloud popolari come Google Drive, Dropbox, OneDrive, iCloud e altri, nonché connettere il tuo Mac o PC. Inoltre, hai la possibilità di modificare i file audio situati su Apple Time Capsule, WD Cloud Home, o qualsiasi NAS che supporti SMB o WebDAV.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Schermata Connessioni di Evertag" image="/docs/guide/evertag/img/connections.webp" >}}
+  {{< ls-card title="" subtitle="Schermata Connessioni di Evertag" image="/docs/guide/evertag/img/connections.webp" >}}
 {{< /cards >}}
 
 ## Accesso rapido
@@ -151,7 +151,7 @@ Ecco le azioni disponibili:
 - **Vista griglia/elenco**: passa tra due modalità di visualizzazione: vista a tabella e vista a miniature.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Ordinamento cartella cloud Evertag" image="/docs/guide/evertag/img/cloud-storage-sort.webp" >}}
+  {{< ls-card title="" subtitle="Ordinamento cartella cloud Evertag" image="/docs/guide/evertag/img/cloud-storage-sort.webp" >}}
 {{< /cards >}}
 
 ## Modifica file online
@@ -163,7 +163,7 @@ Quando devi gestire più file nell'archiviazione cloud su questa app, puoi usare
 - **Esegui varie azioni**: dopo aver selezionato i file o le cartelle da gestire, avrai accesso a diverse azioni:
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Selezione file Evertag" image="/docs/guide/evertag/img/cloud-storage-file-select.webp" >}}
+  {{< ls-card title="" subtitle="Selezione file Evertag" image="/docs/guide/evertag/img/cloud-storage-file-select.webp" >}}
 {{< /cards >}}
 
 ## Azioni file
@@ -180,7 +180,7 @@ Toccalo per rivelare un elenco di azioni disponibili:
 - **Eliminare**: usa questa azione con cautela, poiché rimuove permanentemente il file dalla tua archiviazione cloud. **Questa eliminazione non può essere annullata**.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Opzioni file Evertag" image="/docs/guide/evertag/img/cloud-storage-file-options.webp" >}}
+  {{< ls-card title="" subtitle="Opzioni file Evertag" image="/docs/guide/evertag/img/cloud-storage-file-options.webp" >}}
 {{< /cards >}}
 
 Se l'elenco delle azioni supera lo spazio disponibile sullo schermo, scorri semplicemente verso il basso nel menu delle azioni per accedere alle opzioni aggiuntive.
@@ -196,5 +196,5 @@ Per ogni cartella nella tua archiviazione cloud, sono disponibili varie azioni. 
 - **Eliminare**: usa questa azione con cautela, poiché rimuove permanentemente la cartella e i suoi contenuti dalla tua archiviazione cloud. **Questa azione non può essere annullata**.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Opzioni cartella Evertag" image="/docs/guide/evertag/img/cloud-storage-folder-options.webp" >}}
+  {{< ls-card title="" subtitle="Opzioni cartella Evertag" image="/docs/guide/evertag/img/cloud-storage-folder-options.webp" >}}
 {{< /cards >}}

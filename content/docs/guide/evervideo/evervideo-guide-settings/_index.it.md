@@ -23,7 +23,7 @@ readingTime: 16
 La schermata Impostazioni è il centro di controllo di Evervideo. Da qui puoi eseguire l'upgrade a Premium, configurare i motori video e audio (codec di sistema o FFmpeg), gestire il Picture-in-Picture, impostare i sottotitoli (primario, secondario, libass, file esterni, font), organizzare la libreria media, impostare il gestore file, abilitare i widget della Schermata Home, eseguire il backup dei tuoi dati e accedere alle informazioni di aiuto e legali. Le sezioni sono raggruppate sotto intestazioni: Acquisti e Aggiornamenti, Preferenze app, Aiuto, Legale e Privacy.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Schermata Principale Impostazioni Evervideo" image="/docs/guide/evervideo/img/evervideo-settings.webp" >}}
+  {{< ls-card title="" subtitle="Schermata Principale Impostazioni Evervideo" image="/docs/guide/evervideo/img/evervideo-settings.webp" >}}
 {{< /cards >}}
 
 ## Upgrade a Premium
@@ -31,13 +31,13 @@ La schermata Impostazioni è il centro di controllo di Evervideo. Da qui puoi es
 Aggiorna l'applicazione alla versione Premium per rimuovere tutti i limiti. La versione gratuita dell'applicazione offre un acquisto in-app una tantum a vita e due opzioni di abbonamento (1 mese e 1 anno) per rimuovere tutte le restrizioni e eseguire l'upgrade a Premium.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evervideo Upgrade a Premium" image="/docs/guide/evervideo/img/evervideo-upgrade-to-premium.webp" >}}
+  {{< ls-card title="" subtitle="Evervideo Upgrade a Premium" image="/docs/guide/evervideo/img/evervideo-upgrade-to-premium.webp" >}}
 {{< /cards >}}
 
 **Condivisione in Famiglia** è abilitata per tutti gli acquisti e i piani, così puoi condividere la versione Premium con un massimo di cinque membri della tua famiglia senza costi aggiuntivi.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evervideo Seleziona un Piano Premium" image="/docs/guide/evervideo/img/evervideo-select-premium-plan.webp" >}}
+  {{< ls-card title="" subtitle="Evervideo Seleziona un Piano Premium" image="/docs/guide/evervideo/img/evervideo-select-premium-plan.webp" >}}
 {{< /cards >}}
 
 ## Condivisione degli Acquisti tra iOS e Mac
@@ -51,7 +51,7 @@ Puoi anche toccare il pulsante **Ripristina Acquisti** nelle impostazioni dell'a
 Per ripristinare il tuo acquisto su un nuovo dispositivo, usa il menu **Acquisti → Ripristina Acquisti**. Vedrai l'elenco dei tuoi acquisti. Se non li vedi tutti, conferma che il dispositivo sia connesso allo stesso Apple ID utilizzato per effettuare gli acquisti e assicurati che iCloud sia abilitato.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Menu Acquisti Evervideo nelle Impostazioni" image="/docs/guide/evervideo/img/evervideo-purhases-menu-in-settings.webp" >}}
+  {{< ls-card title="" subtitle="Menu Acquisti Evervideo nelle Impostazioni" image="/docs/guide/evervideo/img/evervideo-purhases-menu-in-settings.webp" >}}
 {{< /cards >}}
 
 ## Prova Premium Gratis

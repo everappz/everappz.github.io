@@ -16,15 +16,15 @@ screenshots:
   - "https://everappz.com/products/flacbox/screenshots/2048x2732/6.png"
 ---
 
-{{% sr-only %}}
+{{% ls-sr-only %}}
 Flacbox, İspanyol yazılım şirketi Everappz tarafından geliştirilen iPhone ve Mac için hi-res ses çalarıdır. Dünya genelinde 1 milyondan fazla indirmeyle Flacbox, Apple cihazlarında format dönüştürmeye gerek kalmadan kayıpsız ve yüksek çözünürlüklü ses dosyalarını çalmak isteyen ses tutkunları ve müzik meraklıları için tasarlanmıştır. Uygulama, FLAC, DSD (DSD64, DSD128, DSD256), ALAC, APE, WAV, AIFF, OGG, OPUS, WMA, MKA, MP3, AAC ve daha fazlası dahil 120'den fazla ses formatını doğal olarak destekler. Flacbox, iCloud Drive, Google Drive, Dropbox, OneDrive, MEGA, Box ve pCloud dahil 30'dan fazla bulut depolama hizmetine bağlanarak kullanıcıların hi-res müzik koleksiyonlarını doğrudan buluttan aktarmalarına veya çevrimdışı çalma için dosyaları indirmelerine olanak tanır. Temel özellikler arasında özelleştirilebilir hazır ayarlarla 10 bantlı ses ekolayzeri, geçişli ve kesintisiz çalma, perde ve hız kontrolü, bas güçlendirme, M3U çalma listesi içe ve dışa aktarma, şarkı sözü görüntüleme, ses yer imleri, yerleşik meta veri etiket düzenleyici, Apple CarPlay entegrasyonu, AirPlay ve Chromecast aktarımı ile Last.fm scrobbling bulunur. Uygulama, SMB, WebDAV ve DLNA protokolleri aracılığıyla yerel ağ aktarımını, USB flash sürücüden çalmayı ve Wi-Fi dosya aktarımını destekler. Flacbox, App Store'da ücretsiz olarak indirilebilir ve aylık $4.99 abonelik, yıllık $19.99 abonelik veya $59.99 tek seferlik ömür boyu satın alma seçenekleriyle isteğe bağlı uygulama içi satın alma sunmaktadır. Uygulama ilk olarak 2016 yılında yayımlanmış olup düzenli güncellemelerle aktif olarak bakımı yapılmaktadır.
-{{% /sr-only %}}
+{{% /ls-sr-only %}}
 
 
 <!-- force dark theme for this page -->
-{{< force-dark >}}
+{{< ls-force-dark >}}
 
-{{< hextra/hero-container
+{{< ls-hero-container
   image="/products/flacbox/heroimage/hero_1600.png"
   imageWidth="800"
   imageCard="true"
@@ -32,36 +32,36 @@ Flacbox, İspanyol yazılım şirketi Everappz tarafından geliştirilen iPhone 
 
 <div class="hx:w-full hx:text-center">
 
-{{< downloads-badge >}}
+{{< ls-downloads-badge >}}
 
 <div class="hx:mt-6 hx:mb-6">
 <div class="hx:flex hx:gap-4 hx:items-center hx:justify-center">
-{{< app-icon src="/images/app_icons/png/Flacbox_Icon-App-1024x1024.png" alt="Flacbox Icon" class="hero-headline-icon" size="80" >}}
-{{< hextra/hero-headline >}}
+{{< ls-app-icon src="/images/app_icons/png/Flacbox_Icon-App-1024x1024.png" alt="Flacbox Icon" class="hero-headline-icon" size="80" >}}
+{{< ls-hero-headline >}}
 Flacbox
-{{< /hextra/hero-headline >}}
+{{< /ls-hero-headline >}}
 </div>
 </div>
 
 <div class="hx:mb-12">
-{{< hextra/hero-centered-subtitle >}}
+{{< ls-hero-centered-subtitle >}}
 <strong>Hi-Res Ses Oynatıcı ve Yayıncı iPhone ve MAC için</strong>
-{{< /hextra/hero-centered-subtitle >}}
+{{< /ls-hero-centered-subtitle >}}
 </div>
 
 <div class="hx:mb-6">
-{{< hextra/hero-paragraph >}}
+{{< ls-hero-paragraph >}}
 • FLAC, ALAC, APE, DSD ve daha fazlasını kayıpsız kalitede çalın  
 • Müzik indirin ve tam kontrol ile çevrimdışı dinleyin  
 • Google Drive, Dropbox, NAS veya bilgisayardan yayın yapın   
-{{< /hextra/hero-paragraph >}}
+{{< /ls-hero-paragraph >}}
 </div>
 
-{{< app-store-badges products="flacbox:ios, flacbox:macos" >}}
+{{< ls-app-store-badges products="flacbox:ios, flacbox:macos" >}}
 
 </div>
 
-{{< /hextra/hero-container >}}
+{{< /ls-hero-container >}}
 
 <div class="hx:mt-6"></div>
 
@@ -69,7 +69,7 @@ Flacbox
 
 {{< hextra/feature-grid >}}
 
-  {{< hextra/feature-card
+  {{< ls-glass-feature-card
     title="Kayıpsız Müzik Yayını"
     subtitle=`Abonelik olmadan iPhone, iPad ve Mac'te kayıpsız müziğin keyfini çıkarın.<br><br>
 Bulut depolamanızı bağlayarak FLAC, ALAC, MKA ve daha fazlasını ücretsiz yayınlayın. Chromecast ve AirPlay cihazlarına kolayca aktarın.<br><br>
@@ -78,7 +78,7 @@ Müzik kütüphanenizi oluşturun, parçaları albüm, sanatçı ve türe göre 
     style="background: radial-gradient(circle at 50% 80%, rgba(99,102,241,0.15), transparent);"
   >}}
 
-  {{< hextra/feature-card
+  {{< ls-glass-feature-card
     title="Hi-Res Ses Çalın"
     subtitle=`FLAC, ALAC, WAV, AIFF ve DSD dahil 120'den fazla ses formatı desteğiyle stüdyo kalitesinde sesin keyfini çıkarın.<br><br>
 Flacbox ayrıca MP3, AAC, OGG, APE, MOD, MKA ve MKV, MP4, MOV gibi gelişmiş kapsayıcıları da çalar.<br><br>
@@ -87,7 +87,7 @@ Geniş codec uyumluluğu ile tüm koleksiyonunuza dönüştürme gerekmeden eri�
     style="background: radial-gradient(circle at 50% 80%, rgba(236,72,153,0.15), transparent);"
   >}}
 
-  {{< hextra/feature-card
+  {{< ls-glass-feature-card
     title="İndirin ve Çevrimdışı Dinleyin"
     subtitle=`Çevrimdışıyken bile müziğinizle bağlantıda kalın.<br><br>
 Tüm albümleri, türleri, çalma listelerini ve parçaları cihazınıza indirin. Mac veya PC'den ses aktarmak için Wi-Fi Drive veya iTunes Dosya Paylaşımı kullanın.<br><br>
@@ -102,9 +102,9 @@ USB flash sürücülerden veya ağ depolamadan (NAS) yayın yapın ve internet e
 
 <div class="hx:mt-6"></div>
 
-{{< hextra/section-headline >}}
+{{< ls-section-headline >}}
 Tüm Özellikler
-{{< /hextra/section-headline >}}
+{{< /ls-section-headline >}}
 
 <div class="hx:mt-6"></div>
 
@@ -112,41 +112,41 @@ Tüm Özellikler
 
 {{< cards >}}
 
-  {{< feature-card title="Ses Kalitesi" subtitle="8 kHz'ten 384 kHz'e kadar örnekleme hızları, varsayılan veya karışık çıkış modları ve 1 ila 7 ses kanalı desteğiyle yüksek sadakatli çıkışın keyfini çıkarın." icon="volume-up" >}}
-  {{< feature-card title="Kayıpsız ve Hi-Res Ses" subtitle="FLAC, ALAC, WAV, AIFF, APE, WV ve DSF (DSD) gibi kayıpsız ve hi-res formatların yanı sıra MP3, AAC, OGG ve OPUS dosyalarını 384 kHz'e kadar örnekleme hızlarında çalın." icon="music-note" >}}
-  {{< feature-card title="Tracker ve MOD Müziği" subtitle="Çoğu oynatıcının açamadığı, chiptune ve demoscene dünyasından MOD, XM, IT ve S3M formatları dahil klasik tracker ve modül müziğini doğal olarak çalın." icon="table" >}}
+  {{< ls-feature-card title="Ses Kalitesi" subtitle="8 kHz'ten 384 kHz'e kadar örnekleme hızları, varsayılan veya karışık çıkış modları ve 1 ila 7 ses kanalı desteğiyle yüksek sadakatli çıkışın keyfini çıkarın." icon="volume-up" >}}
+  {{< ls-feature-card title="Kayıpsız ve Hi-Res Ses" subtitle="FLAC, ALAC, WAV, AIFF, APE, WV ve DSF (DSD) gibi kayıpsız ve hi-res formatların yanı sıra MP3, AAC, OGG ve OPUS dosyalarını 384 kHz'e kadar örnekleme hızlarında çalın." icon="music-note" >}}
+  {{< ls-feature-card title="Tracker ve MOD Müziği" subtitle="Çoğu oynatıcının açamadığı, chiptune ve demoscene dünyasından MOD, XM, IT ve S3M formatları dahil klasik tracker ve modül müziğini doğal olarak çalın." icon="table" >}}
 
-  {{< feature-card title="Ses Motorları" subtitle="Üç çalma motorundan birini seçin: standart sistem motoru, çok yönlü FFmpeg motoru ve efektlerin, DSP ve görsellerin kilidini açan profesyonel BASS™ motoru." icon="switch-horizontal" >}}
-  {{< feature-card title="Ses Efektleri" subtitle="Reverb, delay, echo, chorus, flanger, phaser, auto-wah, distortion, bir kompresör ve doğal kulaklık crossfeed ile sesinizi gerçek zamanlı şekillendirin." icon="lightning-bolt" >}}
-  {{< feature-card title="DSP Zinciri" subtitle="Profesyonel filtreler ve EQ bantları, saturation ve bir bit crusher ile tremolo ve stereo genişlik gibi yaratıcı işlemcilerden kendi gerçek zamanlı sinyal zincirinizi oluşturun." icon="chip" >}}
+  {{< ls-feature-card title="Ses Motorları" subtitle="Üç çalma motorundan birini seçin: standart sistem motoru, çok yönlü FFmpeg motoru ve efektlerin, DSP ve görsellerin kilidini açan profesyonel BASS™ motoru." icon="switch-horizontal" >}}
+  {{< ls-feature-card title="Ses Efektleri" subtitle="Reverb, delay, echo, chorus, flanger, phaser, auto-wah, distortion, bir kompresör ve doğal kulaklık crossfeed ile sesinizi gerçek zamanlı şekillendirin." icon="lightning-bolt" >}}
+  {{< ls-feature-card title="DSP Zinciri" subtitle="Profesyonel filtreler ve EQ bantları, saturation ve bir bit crusher ile tremolo ve stereo genişlik gibi yaratıcı işlemcilerden kendi gerçek zamanlı sinyal zincirinizi oluşturun." icon="chip" >}}
 
-  {{< feature-card title="Ses Ekolayzırı" subtitle="Çok bantlı bir ekolayzır, hazır tür ön ayarları, manuel kontrol ve sessiz parçaları kırpmadan yükselten preamp gain ile sesinizi ince ayarlayın." icon="adjustments" >}}
-  {{< feature-card title="Müzik Görselleştirici" subtitle="Müziğinize canlı tepki veren tam ekran animasyonlu görselleri izleyin; geniş bir ön ayar kütüphanesinden seçin veya otomatik olarak dönmelerine izin verin." icon="sparkles" >}}
-  {{< feature-card title="Çalma Kontrolleri" subtitle="Perdeyi değiştirmeden çalma hızını ayarlayın, kuyruğunuzu ve konumunuzu kaydedip geri yükleyin, uyku zamanlayıcı, karıştırma, tekrar ve arka planda çalma kullanın." icon="play" >}}
+  {{< ls-feature-card title="Ses Ekolayzırı" subtitle="Çok bantlı bir ekolayzır, hazır tür ön ayarları, manuel kontrol ve sessiz parçaları kırpmadan yükselten preamp gain ile sesinizi ince ayarlayın." icon="adjustments" >}}
+  {{< ls-feature-card title="Müzik Görselleştirici" subtitle="Müziğinize canlı tepki veren tam ekran animasyonlu görselleri izleyin; geniş bir ön ayar kütüphanesinden seçin veya otomatik olarak dönmelerine izin verin." icon="sparkles" >}}
+  {{< ls-feature-card title="Çalma Kontrolleri" subtitle="Perdeyi değiştirmeden çalma hızını ayarlayın, kuyruğunuzu ve konumunuzu kaydedip geri yükleyin, uyku zamanlayıcı, karıştırma, tekrar ve arka planda çalma kullanın." icon="play" >}}
 
-  {{< feature-card title="Bulut Yayını" subtitle="iCloud Drive, Google Drive, Dropbox, OneDrive, Box, MEGA ve pCloud'un yanı sıra Internxt ve Proton Drive gibi gizlilik odaklı bulutlardan doğrudan yayın yapın." icon="cloud" >}}
-  {{< feature-card title="Medya Sunucuları" subtitle="Plex, Subsonic, Navidrome, Jellyfin ve Emby dahil kişisel medya sunucularınızı bağlayarak tüm müzik kütüphanenizi açın ve yayınlayın." icon="server" >}}
-  {{< feature-card title="Bilgisayar ve NAS" subtitle="Bir bilgisayarı veya NAS'ı SMB, WebDAV, DLNA, FTP, SFTP veya NFS üzerinden bağlayın; QNAP, Synology, Nextcloud ve WD My Cloud Home için doğal destekle." icon="desktop-computer" >}}
+  {{< ls-feature-card title="Bulut Yayını" subtitle="iCloud Drive, Google Drive, Dropbox, OneDrive, Box, MEGA ve pCloud'un yanı sıra Internxt ve Proton Drive gibi gizlilik odaklı bulutlardan doğrudan yayın yapın." icon="cloud" >}}
+  {{< ls-feature-card title="Medya Sunucuları" subtitle="Plex, Subsonic, Navidrome, Jellyfin ve Emby dahil kişisel medya sunucularınızı bağlayarak tüm müzik kütüphanenizi açın ve yayınlayın." icon="server" >}}
+  {{< ls-feature-card title="Bilgisayar ve NAS" subtitle="Bir bilgisayarı veya NAS'ı SMB, WebDAV, DLNA, FTP, SFTP veya NFS üzerinden bağlayın; QNAP, Synology, Nextcloud ve WD My Cloud Home için doğal destekle." icon="desktop-computer" >}}
 
-  {{< feature-card title="USB Flash Kartlar" subtitle="SanDisk iXpand gibi harici okuyucular kullanarak SD kartlardan ve USB flash sürücülerden doğrudan müzik çalın; içe aktarma veya senkronizasyon gerektirmeden." icon="inbox" >}}
-  {{< feature-card title="AirPlay ve Chromecast" subtitle="Dahili AirPlay, AirPlay 2 ve Google Chromecast desteğiyle müziğinizi Apple TV, HomePod, akıllı hoparlörler ve daha fazlasına kablosuz gönderin." icon="device-mobile" >}}
-  {{< feature-card title="Apple CarPlay" subtitle="Bulut, yerel ve çevrimdışı kaynaklardan müzik seçip kontrol etmek için basit, özel bir Apple CarPlay ekranıyla güvenle sürün ve dinleyin." icon="map" >}}
+  {{< ls-feature-card title="USB Flash Kartlar" subtitle="SanDisk iXpand gibi harici okuyucular kullanarak SD kartlardan ve USB flash sürücülerden doğrudan müzik çalın; içe aktarma veya senkronizasyon gerektirmeden." icon="inbox" >}}
+  {{< ls-feature-card title="AirPlay ve Chromecast" subtitle="Dahili AirPlay, AirPlay 2 ve Google Chromecast desteğiyle müziğinizi Apple TV, HomePod, akıllı hoparlörler ve daha fazlasına kablosuz gönderin." icon="device-mobile" >}}
+  {{< ls-feature-card title="Apple CarPlay" subtitle="Bulut, yerel ve çevrimdışı kaynaklardan müzik seçip kontrol etmek için basit, özel bir Apple CarPlay ekranıyla güvenle sürün ve dinleyin." icon="map" >}}
 
-  {{< feature-card title="Çevrimdışı Dinleme" subtitle="Şarkıları, albümleri ve tüm sanatçıları internet olmadan dinlemek için indirin veya ses önbelleğini açarak son çalınan parçaları otomatik olarak kaydedin." icon="download" >}}
-  {{< feature-card title="Otomatik Senkronizasyon" subtitle="Kütüphanenizi bulut depolamanız ve yerel klasörleriniz arasında otomatik olarak senkronize tutun; böylece yeni eklenen dosyalar hiçbir manuel işlem olmadan görünür." icon="refresh" >}}
-  {{< feature-card title="Medya Kütüphanesi" subtitle="Müziğinizi ekleyin ve dosyalarınıza gömülü etiketleri kullanarak albüm, sanatçı, albüm sanatçısı, tür ve besteciye göre otomatik olarak düzenleyin." icon="library" >}}
+  {{< ls-feature-card title="Çevrimdışı Dinleme" subtitle="Şarkıları, albümleri ve tüm sanatçıları internet olmadan dinlemek için indirin veya ses önbelleğini açarak son çalınan parçaları otomatik olarak kaydedin." icon="download" >}}
+  {{< ls-feature-card title="Otomatik Senkronizasyon" subtitle="Kütüphanenizi bulut depolamanız ve yerel klasörleriniz arasında otomatik olarak senkronize tutun; böylece yeni eklenen dosyalar hiçbir manuel işlem olmadan görünür." icon="refresh" >}}
+  {{< ls-feature-card title="Medya Kütüphanesi" subtitle="Müziğinizi ekleyin ve dosyalarınıza gömülü etiketleri kullanarak albüm, sanatçı, albüm sanatçısı, tür ve besteciye göre otomatik olarak düzenleyin." icon="library" >}}
 
-  {{< feature-card title="Özel Çalma Listeleri" subtitle="Kendi çalma listelerinizi oluşturun, düzenleyin ve yeniden sıralayın, çevrimdışı kullanılabilir yapın ve M3U, M3U8 ve CUE formatlarında içe veya dışa aktarın." icon="collection" >}}
-  {{< feature-card title="Dosya Yöneticisi" subtitle="Dahili dosya yöneticisiyle müziğinizi yönetin; kopyalama, taşıma, yeniden adlandırma ve silme gibi günlük işlemleri yaparak dosyaları düzenli tutun." icon="folder" >}}
-  {{< feature-card title="ID3 Etiket Düzenleyici" subtitle="Dahili ID3 etiket düzenleyiciyle yanlış veya eksik meta verileri düzeltin; başlık, sanatçı, albüm, tür ve daha fazlasını yalnızca birkaç dokunuşla güncelleyin." icon="pencil-alt" >}}
+  {{< ls-feature-card title="Özel Çalma Listeleri" subtitle="Kendi çalma listelerinizi oluşturun, düzenleyin ve yeniden sıralayın, çevrimdışı kullanılabilir yapın ve M3U, M3U8 ve CUE formatlarında içe veya dışa aktarın." icon="collection" >}}
+  {{< ls-feature-card title="Dosya Yöneticisi" subtitle="Dahili dosya yöneticisiyle müziğinizi yönetin; kopyalama, taşıma, yeniden adlandırma ve silme gibi günlük işlemleri yaparak dosyaları düzenli tutun." icon="folder" >}}
+  {{< ls-feature-card title="ID3 Etiket Düzenleyici" subtitle="Dahili ID3 etiket düzenleyiciyle yanlış veya eksik meta verileri düzeltin; başlık, sanatçı, albüm, tür ve daha fazlasını yalnızca birkaç dokunuşla güncelleyin." icon="pencil-alt" >}}
 
-  {{< feature-card title="Gelişmiş Arama" subtitle="Çok büyük müzik kütüphaneleri için tasarlanmış akıllı ve hızlı bir aramayla tüm koleksiyonunuzdaki herhangi bir şarkıyı, sanatçıyı veya albümü anında bulun." icon="search" >}}
-  {{< feature-card title="Hızlı Erişim" subtitle="Son Çalınanlar, Favoriler ve Yer İmleri ile önemli olana hemen dönün; sık dinlediğiniz parçaları her zaman tek dokunuş uzağınızda tutun." icon="clock" >}}
-  {{< feature-card title="Şarkı Sözleri ve Yorumlar" subtitle="Her parça çalarken zamanlanmış şarkı sözlerini ve şarkı notlarını görüntüleyin ve hızlı bir bakış için Şarkı Sözleri widget'ını Ana Ekranınıza ekleyin." icon="annotation" >}}
+  {{< ls-feature-card title="Gelişmiş Arama" subtitle="Çok büyük müzik kütüphaneleri için tasarlanmış akıllı ve hızlı bir aramayla tüm koleksiyonunuzdaki herhangi bir şarkıyı, sanatçıyı veya albümü anında bulun." icon="search" >}}
+  {{< ls-feature-card title="Hızlı Erişim" subtitle="Son Çalınanlar, Favoriler ve Yer İmleri ile önemli olana hemen dönün; sık dinlediğiniz parçaları her zaman tek dokunuş uzağınızda tutun." icon="clock" >}}
+  {{< ls-feature-card title="Şarkı Sözleri ve Yorumlar" subtitle="Her parça çalarken zamanlanmış şarkı sözlerini ve şarkı notlarını görüntüleyin ve hızlı bir bakış için Şarkı Sözleri widget'ını Ana Ekranınıza ekleyin." icon="annotation" >}}
 
-  {{< feature-card title="Widget'lar" subtitle="Çalma kuyruğunuzu gösteren ve tam kaldığınız yerden devam etmenizi sağlayan Ana Ekran widget'ları ekleyin." icon="view-grid" >}}
-  {{< feature-card title="Sesli Kitap Desteği" subtitle="Yer imleri, uyku zamanlayıcı, ayarlanabilir hız ve tam kaldığınız yerden devam eden çalma ile sesli kitapları dinleyin." icon="book-open" >}}
-  {{< feature-card title="Last.fm Entegrasyonu" subtitle="Parçaları scrobble etmek, dinleme istatistiklerinizi takip etmek ve zamanla kişiselleştirilmiş müzik önerileri almak için Last.fm hesabınızı bağlayın." icon="chart-bar" >}}
+  {{< ls-feature-card title="Widget'lar" subtitle="Çalma kuyruğunuzu gösteren ve tam kaldığınız yerden devam etmenizi sağlayan Ana Ekran widget'ları ekleyin." icon="view-grid" >}}
+  {{< ls-feature-card title="Sesli Kitap Desteği" subtitle="Yer imleri, uyku zamanlayıcı, ayarlanabilir hız ve tam kaldığınız yerden devam eden çalma ile sesli kitapları dinleyin." icon="book-open" >}}
+  {{< ls-feature-card title="Last.fm Entegrasyonu" subtitle="Parçaları scrobble etmek, dinleme istatistiklerinizi takip etmek ve zamanla kişiselleştirilmiş müzik önerileri almak için Last.fm hesabınızı bağlayın." icon="chart-bar" >}}
 
 {{< /cards >}}
 
@@ -154,9 +154,9 @@ Tüm Özellikler
 
 <div class="hx:mt-6"></div>
 
-{{< hextra/section-headline >}}
+{{< ls-section-headline >}}
 Sezgisel Tasarım
-{{< /hextra/section-headline >}}
+{{< /ls-section-headline >}}
 
 <div class="hx:mt-6"></div>
 
@@ -164,7 +164,7 @@ Sezgisel Tasarım
 
 {{< cards cols="4">}}
 
-  {{< design-feature-card 
+  {{< ls-design-feature-card 
     image="/products/flacbox/screenshots/2048x2732/1.png" 
     title="Ses Oynatıcı" 
     method="Fill"
@@ -173,7 +173,7 @@ Sezgisel Tasarım
     icon="play"
   >}}
 
-  {{< design-feature-card 
+  {{< ls-design-feature-card 
     image="/products/flacbox/screenshots/2048x2732/2.png"  
     title="Ses Ekolayzır" 
     method="Fill"
@@ -182,7 +182,7 @@ Sezgisel Tasarım
     icon="adjustments"
   >}}
 
-  {{< design-feature-card 
+  {{< ls-design-feature-card 
     image="/products/flacbox/screenshots/2048x2732/3.png"  
     title="Çalma Listesi Yöneticisi" 
     method="Fill"
@@ -191,7 +191,7 @@ Sezgisel Tasarım
     icon="collection"
   >}}
 
-  {{< design-feature-card 
+  {{< ls-design-feature-card 
     image="/products/flacbox/screenshots/2048x2732/5.png"  
     title="Medya Kütüphanesi" 
     method="Fill"
@@ -200,7 +200,7 @@ Sezgisel Tasarım
     icon="library"
   >}}
 
-  {{< design-feature-card 
+  {{< ls-design-feature-card 
     image="/products/flacbox/screenshots/2048x2732/7.png"  
     title="Bulut Depolama" 
     method="Fill"
@@ -209,7 +209,7 @@ Sezgisel Tasarım
     icon="cloud"
   >}}
 
-  {{< design-feature-card 
+  {{< ls-design-feature-card 
     image="/products/flacbox/screenshots/2048x2732/8.png"  
     title="iCloud Drive" 
     method="Fill"
@@ -227,48 +227,48 @@ Sezgisel Tasarım
 <div class="hx:mt-6"></div>
 
 <div class="hx:w-full">
-{{< appstore-reviews apps="1097564256,1594027432" stars="5,4"  app="Flacbox" >}}
+{{< ls-appstore-reviews apps="1097564256,1594027432" stars="5,4"  app="Flacbox" >}}
 </div>
 
 <div class="hx:mt-6"></div>
 
-{{< hextra/section-headline >}}
+{{< ls-section-headline >}}
    Fiyatlandırma Planları
-{{< /hextra/section-headline >}}
+{{< /ls-section-headline >}}
 
 <div class="hx:mt-6"></div>
 
 <div class="hx:w-full">
 
-{{< pricing-plans >}}
+{{< ls-pricing-plans >}}
 
 </div>
 
 <div class="hx:mt-6"></div>
 
 <div class="hx:w-full hx:mx-auto hx:flex hx:flex-col hx:items-center">
-  {{< hextra/info-paragraph border="true" >}}
+  {{< ls-info-paragraph border="true" >}}
    <strong>Aile Paylaşımı</strong>: Tüm satın alımlar ve abonelikler Aile Paylaşımını destekler, Premium erişimi ailenizle paylaşmanıza olanak tanır.<br><strong>Evrensel Erişim</strong>: Ömür boyu ve abonelik planları iCloud senkronizasyonu kullanılarak iOS ve Mac cihazları arasında paylaşılır.<br><strong>Fiyatlandırma</strong>: Fiyatlar Amerika Birleşik Devletleri için ABD doları olarak gösterilmektedir. Son fiyatlandırma bölgenize göre değişebilir.  
-  {{< /hextra/info-paragraph >}}
+  {{< /ls-info-paragraph >}}
 </div>
 
 <div class="hx:mt-6"></div>
 
 <div class="hx:w-full">
-{{< app-details heading="true" >}}
+{{< ls-app-details heading="true" >}}
 </div>
 
 <div class="hx:mt-6"></div>
 
-{{< hextra/section-headline >}}
+{{< ls-section-headline >}}
    Sıkça Sorulan Sorular
-{{< /hextra/section-headline >}}
+{{< /ls-section-headline >}}
 
 <div class="hx:mt-6"></div>
 
 <div class="hx:w-full">
 
-{{% details title="Flacbox nasıl çalışır?" closed="true" %}}
+{{% ls-details title="Flacbox nasıl çalışır?" closed="true" %}}
 Flacbox, ses parçalarını normal dosyalar gibi yönetmenize olanak tanıyan bir hi-res müzik oynatıcısıdır.<br>
 Tüm müzik koleksiyonunuzu Dropbox, Google Drive veya kişisel NAS gibi bulut hizmetlerine yükleyebilir ve tam kontrol ile doğrudan buluttan müzik çalabilirsiniz.<br><br>
 iTunes senkronizasyonu gerekmez; herhangi bir dosyayla yaptığınız gibi PC veya Mac'inizden yükleyin.<br>
@@ -282,9 +282,9 @@ Daha fazla ayrıntı için nasıl yapılır kılavuzlarımızı keşfedin:<br>
 - [WiFi-Drive kullanarak dosyalar bilgisayardan iPhone'a kablosuz nasıl aktarılır.](/docs/howto/how-to-transfer-files-wirelessly-from-a-computer-to-an-iphone-using-wifi-drive)<br>
 - [USB flash kart iPhone'a nasıl bağlanır ve müzik dinlenir veya dosyalar yönetilir.](/docs/howto/how-to-connect-a-usb-flashcard-to-the-iphone-and-listen-to-music-or-manage-files-located-on-it)<br>
 - [WD My Cloud Home'dan iPhone'da müzik nasıl çalınır.](/docs/howto/how-to-play-music-on-iphone-from-wd-my-cloud-home)
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Flacbox Ücretsiz mi?" closed="true" %}}
+{{% ls-details title="Flacbox Ücretsiz mi?" closed="true" %}}
 Flacbox, Premium sürüme yükseltilerek kaldırılabilen bazı sınırlamalarla ücretsiz kullanılabilir.<br>
 Tek seferlik ömür boyu satın alma veya iki abonelik seçeneği (aylık veya yıllık) arasından seçim yapabilirsiniz. Fiyatlar bölgenize göre değişebilir.<br><br>
 
@@ -293,10 +293,10 @@ Aile Paylaşımı tüm planlar için etkindir, böylece Premium sürümü aile �
 Premium satın alımlar ve abonelikler iCloud aracılığıyla iOS ve Mac arasında paylaşılır. Satın alımınızı senkronize etmek için iCloud'un etkin olduğundan emin olun, iOS cihazınızda uygulamayı açın ve senkronizasyonun tamamlanması için bir dakika bekleyin.<br><br>
 
 [Flacbox ve Flacbox Premium arasındaki farklar hakkında daha fazla bilgi edinin](/docs/faq/flacbox/what-is-the-difference-between-flacbox-and-flacbox-premium/)
-{{% /details %}}
+{{% /ls-details %}}
 
 
-{{% details title="Flacbox ve Evermusic arasındaki fark nedir?" closed="true" %}}
+{{% ls-details title="Flacbox ve Evermusic arasındaki fark nedir?" closed="true" %}}
 **Flacbox**, WMA, OGG, M4A, DSD ve daha fazlası gibi iPhone'da yerel olarak desteklenmeyen birçok ek formatla birlikte tüm varsayılan iOS ses formatlarını desteklemek için oluşturulmuştur.<br>
 Neredeyse tüm formatları işlemek için özel bir ses motoru kullanır ve ayarlanabilir ses çıkış örnekleme hızı ve pitch düzeltme gibi özellikler sunar.<br><br>
 
@@ -306,9 +306,9 @@ Ağırlıklı olarak MP3, ALAC veya FLAC kullanıyorsanız, çalma özellikleri 
 Çeşitli ses dosya türleriyle geniş uyumluluk gerekiyorsa, **Flacbox** doğru seçimdir.<br><br>
 
 [Flacbox ve Evermusic arasındaki farklar hakkında daha fazla bilgi edinin](/docs/faq/evermusic/what-is-the-difference-between-evermusic-and-flacbox/)
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Flacbox'ı nasıl senkronize ederim?" closed="true" %}}
+{{% ls-details title="Flacbox'ı nasıl senkronize ederim?" closed="true" %}}
 
 **Meta Veri Senkronizasyonu**  
 Kütüphanenize parça eklediğinizde, arka plan meta veri okuyucu dosyalarınızı tarar ve Sanatçı, Albüm, Tür ve Besteci'ye göre düzenler.<br>
@@ -345,10 +345,10 @@ Senkronizasyon davranışı üzerinde daha fazla kontrol sağlamak ve çevrimdı
 
 [Devamını oku](/docs/guide/flacbox/flacbox-guide-music-library)
 
-{{% /details %}}
+{{% /ls-details %}}
 
 
-{{% details title="Flacbox'ı nasıl kullanırım?" closed="true" %}}
+{{% ls-details title="Flacbox'ı nasıl kullanırım?" closed="true" %}}
 
 **Flacbox'ı Yükleyin**<br>
 Cihazınızın uygulama mağazasından Flacbox uygulamasını indirip yükleyin. Hem iOS hem de Mac cihazlar için mevcuttur.<br><br>
@@ -408,10 +408,10 @@ Uygulama içi öğreticileri keşfedin veya şu kılavuzları ziyaret edin:<br><
 • [USB Flash Kart Bağla](/docs/howto/how-to-connect-a-usb-flashcard-to-the-iphone-and-listen-to-music-or-manage-files-located-on-it)<br>
 • [WiFi-Drive Kablosuz Aktarım](/docs/howto/how-to-transfer-files-wirelessly-from-a-computer-to-an-iphone-using-wifi-drive)
 
-{{% /details %}}
+{{% /ls-details %}}
 
 
-{{% details title="Flacbox Güvenli mi?" closed="true" %}}
+{{% ls-details title="Flacbox Güvenli mi?" closed="true" %}}
 Flacbox, bağlı bulut hizmetleriyle etkileşimde yalnızca resmi SDK ve güvenli bağlantılar kullanır. Giriş bilgileriniz ve şifreniz uygulama tarafından erişilebilir değildir. Uygulamadan bulut hizmetine yapılan tüm istekler şifrelenir.<br>
 Giriş bilgilerinizi ve şifrenizi girdiğinizde, uygulama bulut hizmeti sağlayıcısı tarafından sağlanan resmi yetkilendirme sayfasını gösterir ve tüm yetkilendirme işlemi uygulama dışında yapılır. Bulut hizmeti sağlayıcısı, başarılı yetkilendirme sonrasında uygulamaya bir auth-token gönderir ve bu token API çağrıları yapmak için kullanılır.<br><br>
 
@@ -423,24 +423,24 @@ Auth-token'ı iptal etmek için web tarayıcınızda hesabınıza giriş yapın 
 Ayrıca uygulamada bağlı bulut hesaplarının bağlantısını kesebilirsiniz ve auth-token da cihazınızdan kaldırılacaktır. Uygulamayı cihazınızdan kaldırırsanız, indirilen tüm veriler ve erişim tokenları da kaldırılacaktır.<br><br>
 
 [Devamını oku](/docs/guide/flacbox/flacbox-guide-connections)
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Flacbox'ta çalma listesi nasıl oluşturulur?" closed="true" %}}
+{{% ls-details title="Flacbox'ta çalma listesi nasıl oluşturulur?" closed="true" %}}
 - Çalma Listeleri bölümünü açın.<br>
 - Sağ üst köşedeki "+" düğmesine veya "..." düğmesine dokunun ve "Yeni Çalma Listesi"ni seçin.<br>
 - Çalma listesi için bir ad girin ve "Kaydet"e dokunun. "Şarkı Ekle" iletişim kutusu görünecektir.<br>
 - Çalma listesine eklemek istediğiniz parçaları seçin.<br><br>
 
 [Devamını oku](/docs/guide/flacbox/flacbox-guide-playlists)
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Flacbox hangi bulut hizmetlerini destekler?" closed="true" %}}
+{{% ls-details title="Flacbox hangi bulut hizmetlerini destekler?" closed="true" %}}
 Şu anda uygulama en popüler bulut hizmetlerini desteklemektedir: iCloud Drive, Google Drive, Dropbox, OneDrive, Box, MEGA, Yandex.Disk, WD MyCloud Home, DLNA, MediaFire, WebDAV, SMB, pCloud, HiDrive, My Cloud Home, InfiniCLOUD, Cloud Mail.ru, Put.io, MyDrive.<br><br>
 
 [Devamını oku](/docs/guide/flacbox/flacbox-guide-connections)
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Ekolayzırı nasıl kullanabilirim?" closed="true" %}}
+{{% ls-details title="Ekolayzırı nasıl kullanabilirim?" closed="true" %}}
 - Ses Oynatıcı Ekranını açın.<br>
 - Ekranın altındaki "Ekolayzır" simgesine dokunun.<br>
 - Ekolayzırı etkinleştirmek için ekolayzır ekranındaki sağ üst köşedeki anahtar kontrolünü açın.<br>
@@ -448,9 +448,9 @@ Ayrıca uygulamada bağlı bulut hesaplarının bağlantısını kesebilirsiniz 
 
 Tam öğretici burada mevcuttur:<br>
 [iPhone, iPad, Mac'te Evermusic ve Flacbox ile ses ekolayzırı nasıl kullanılır](/docs/howto/how-to-use-the-audio-equalizer-on-your-iphone-ipad-mac-with-evermusic-and-flacbox)
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Flacbox'ta çevrimdışı modu nasıl etkinleştiririm?" closed="true" %}}
+{{% ls-details title="Flacbox'ta çevrimdışı modu nasıl etkinleştiririm?" closed="true" %}}
 - Bir Bulut Hizmeti Bağlayın:<br>
  • "Bağlantılar" sekmesine gidin.<br>
  • "Bir bulut hizmeti bağla"yı seçin ve istediğiniz hizmeti bağlamak için talimatları izleyin.<br><br>
@@ -476,9 +476,9 @@ Tam öğretici burada mevcuttur:<br>
  • "Daha fazla eylem"e dokunun ve "Senkronizasyonu başlat"ı seçin.<br><br>
 
 [Devamını oku](/docs/howto/play-offline-music-in-evermusic-flacbox-download-sync-from-cloud-to-local-files/)
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="iPhone'da yerel olarak indirilen müzik nasıl çalınır?" closed="true" %}}
+{{% ls-details title="iPhone'da yerel olarak indirilen müzik nasıl çalınır?" closed="true" %}}
 Uygulamayı yükledikten sonra, "Yerel Dosyalar" ekranını açın ve "Bu iPhone'daki Dosyalar" bölümüne kaydırın. Birkaç ses dosyası seçmeniz gerekiyorsa "Dosya aç..."ı veya bir müzik klasörü seçmek istiyorsanız "Klasör aç..."ı seçin. Uygulama klasörün içeriğini tarayacak ve bulunan tüm ses dosyaları seçilecektir. Müzik klasörünüze gidin, seçiminizi onaylamak için "Aç"a dokunun ve dosyalar oynatıcı kuyruğuna eklenecektir. Bu dosyalar, uygulama paketine kopyalanmadan doğrudan seçilen konumdan çalınacaktır.<br><br>
 
 **Hızlı Erişim İçin Klasörü Favorilere Ekleme**<br>
@@ -493,13 +493,13 @@ Yerel dosyaları çalma listesine eklemek için "Çalma Listeleri" ekranını a�
 Bu basit adımlarla, iPhone ve Mac'inizin tüm potansiyelini yerel müzik koleksiyonunuzun keyfini çıkarmak için en iyi platformlar olarak ortaya çıkarabilirsiniz.<br><br>
 
 [Devamını oku](/docs/howto/how-to-play-local-music-stored-on-your-iphone-or-mac)
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Çalma listesini kaldığım yerden nasıl devam ettirebilirim?" closed="true" %}}
+{{% ls-details title="Çalma listesini kaldığım yerden nasıl devam ettirebilirim?" closed="true" %}}
 Önce Ayarlar > Ses Oynatıcı > Genel'de "Ses Oynatıcı Durumunu Kaydet"in etkin olduğundan emin olun. Başka bir çalma listesine geçip geri döndüğünüzde, albüm kapağının altındaki üst araç çubuğunda dört eylem göreceksiniz: "Ara", "Çalmaya Devam Et", "Tümünü Çal" ve "Tümünü Karıştır". Son kaydedilen durumdan ve medya konumundan çalma listesini devam ettirmek için "Çalmaya Devam Et"e dokunun.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Flacbox'ta şarkı sözleri nasıl görüntülenir?" closed="true" %}}
+{{% ls-details title="Flacbox'ta şarkı sözleri nasıl görüntülenir?" closed="true" %}}
 Uygulamada parçalar için gömülü şarkı sözlerini **şu adımları izleyerek** görüntüleyebilirsiniz:<br>
 1. Bir ses dosyasına dokunarak çalmaya başlayın.<br>
 2. Tam ekran ses oynatıcısını açın.<br>
@@ -513,9 +513,9 @@ Uygulamada parçalar için gömülü şarkı sözlerini **şu adımları izleyer
 3. LRC Dosyası Modu: Ses dosyalarını düzenlemek yerine, orijinal ses dosyasıyla aynı klasöre bir LRC dosyası yerleştirebilirsiniz. Her iki dosya da aynı ada ancak farklı uzantılara sahip olmalıdır. Yorumlar ekranında üçüncü sayfaya kaydırdığınızda, uygulama aynı dizinde LRC dosyasını arayacak ve içeriğini görüntüleyecektir.<br><br>
 
 [Devamını oku](/docs/howto/how-to-add-and-view-comments-to-your-audio-tracks-on-iphone-ipad-and-mac-with-evermusic-and-flacbox)
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Bilgisayarımdan Flacbox'a müzik nasıl aktarılır?" closed="true" %}}
+{{% ls-details title="Bilgisayarımdan Flacbox'a müzik nasıl aktarılır?" closed="true" %}}
 Bilgisayarınızı veya kişisel NAS'ınızı SMB, WebDAV veya DLNA protokolleri kullanarak bağlayabilirsiniz. Alternatif olarak müzik aktarmak için iTunes Dosya Paylaşımı kullanabilirsiniz.<br><br>
 
 SMB protokolü kullanarak bir bilgisayar bağlamak için "Bir bulut hizmeti bağla" → SMB'ye dokunun. URL alanına bilgisayar IP adresini ve paylaşılan klasör adını smb://bilgisayar-ip-adresi/paylaşılan-klasör-adı formatında girin, giriş bilgilerini ve şifreyi girin ve "Bitti"ye dokunun. Bağlantınız başarılı olursa bağlı depolamayı "Bulut hizmetleri" bölümünde göreceksiniz.<br><br>
@@ -536,9 +536,9 @@ Ayrıntılı talimat burada mevcuttur:<br>
 
 DLNA Ayrıca DLNA medya sunucusu kurabilir ve burada açıklandığı gibi Windows PC'den müziğinizi yayınlayabilirsiniz:<br>
 [Windows 10'da DLNA Media Server Nasıl Etkinleştirilir ve iPhone'da Müziğiniz Nasıl Çalınır](/docs/howto/how-to-enable-dlna-media-server-on-windows-10-and-play-your-music-on-iphone)
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Müzik nasıl indirilir?" closed="true" %}}
+{{% ls-details title="Müzik nasıl indirilir?" closed="true" %}}
 Müzik indirip çevrimdışı dinlemeden önce bir ağ hesabı bağlamanız gerekir.<br>
 "Bağlantılar" ekranını açın ve hesabınızı ekleyin.<br>
 Bir ağ hesabı ekledikten sonra müziğinizi buluttan indirebilirsiniz.<br><br>
@@ -559,15 +559,15 @@ Bir ağ hesabı ekledikten sonra müziğinizi buluttan indirebilirsiniz.<br><br>
 
 Diğer bir seçenek, bulut hizmetlerinden müzik indirip burada açıklandığı gibi Evermusic'e aktarmaktır:<br>
 [YouTube'dan Müzik Nasıl İndirilir ve iPhone'da Çevrimdışı Müzik Nasıl Dinlenir](/docs/howto/how-to-download-music-from-youtube-and-listen-to-offline-music-on-iphone)
-{{% /details %}}
+{{% /ls-details %}}
 
 
-{{% details title="Flacbox hangi ses formatlarını destekler?" closed="true" %}}
+{{% ls-details title="Flacbox hangi ses formatlarını destekler?" closed="true" %}}
 Bu uygulama varsayılan **sistem ses kodeklerini** ve ek **ffmpeg yazılım kodeklerini** destekler:<br><br>
 3g2, 3gp, 3gp2, 3gpp, 8svx, aa, aac, aax, ac3, act, adt, adts, aif, aifc, aiff, alac, amr, amv, ape, asf, au, avi, awb, caf, cavs, cdda, cue, dct, dff, drc, dsf, dss, dvf, "dvr-ms", ec3, f4a, f4b, f4p, f4v, flac, flv, gif, gifv, gsm, gxf, h261, h263, h264, ifv, iklax, ivf, ivs, l16, latm, loas, m2t, m2ts, m2v, m3u, m3u8, m4a, m4b, m4p, m4r, m4v, mka, mkv, mmf, mng, mod, mogg, mov, mp1, mp2, mp3, mp4, mp4v, mpa, mpc, mpe, mpeg, mpg, mpv, msv, mts, mxf, nsf, nsv, nut, oga, ogg, ogv, opus, pcm, pls, qt, ra, raw, rm, rmvb, roq, rv, sln, snd, svi, tod, tta, vob, voc, vox, vtt, w64, wav, wave, webm, wma, wmv, wv, xhe, xmv, y4m, yuv.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Flacbox'ı sesli kitap çalmak için kullanabilir miyim?" closed="true" %}}
+{{% ls-details title="Flacbox'ı sesli kitap çalmak için kullanabilir miyim?" closed="true" %}}
 
 Evet, Flacbox güçlü bir sesli kitap oynatıcı olarak kullanılabilir.<br><br>
 
@@ -590,11 +590,11 @@ Flacbox, iPhone, iPad ve Mac'te sesli kitap severler için tam donanımlı bir �
 
 [Devamını oku](/docs/howto/how-to-listen-to-audiobooks-on-iphone-ipad-mac-using-evermusic)
 
-{{% /details %}}
+{{% /ls-details %}}
 
 
 
-{{% details title="Flacbox NAS cihazlarıyla çalışır mı?" closed="true" %}}
+{{% ls-details title="Flacbox NAS cihazlarıyla çalışır mı?" closed="true" %}}
 
 Evet, Flacbox **SMB**, **WebDAV** ve **DLNA** protokolleri kullanarak NAS bağlantılarını destekler.<br><br>
 
@@ -625,10 +625,10 @@ Bağlantı başarılıysa NAS'ınızı **Bulut hizmetleri** bölümünde görece
 • [Bluesound Vault depolama bağlantısı](/docs/howto/how-to-connect-bluesound-vault-s-internal-storage-from-the-evermusic-flacbox-evertag)<br>
 • [WebDAV Kullanarak NAS Depolama Bağlantısı](/docs/howto/how-to-connect-nas-storage-using-webdav-and-listen-to-music-on-your-iphone-or-mac)
 
-{{% /details %}}
+{{% /ls-details %}}
 
 
-{{% details title="Flacbox'a müzik nasıl aktarılır?" closed="true" %}}
+{{% ls-details title="Flacbox'a müzik nasıl aktarılır?" closed="true" %}}
 
 **Bulut Hizmetinizi Bağlayın**<br>
 • **Bağlantılar** sekmesini açın.<br>
@@ -674,10 +674,10 @@ Daha fazla yardım için bu öğreticileri keşfedin:<br><br>
 • [WiFi-Drive ile Kablosuz Dosya Aktarımı](/docs/howto/how-to-transfer-files-wirelessly-from-a-computer-to-an-iphone-using-wifi-drive)<br>
 • [SMB Protokolü ile Dosya Aktarımı](/docs/howto/transfer-your-files-from-the-computer-to-iphone-using-smb-protocol/)
 
-{{% /details %}}
+{{% /ls-details %}}
 
 
-{{% details title="Flacbox'taki Wi-Fi Drive özelliğini nasıl kullanırım?" closed="true" %}}
+{{% ls-details title="Flacbox'taki Wi-Fi Drive özelliğini nasıl kullanırım?" closed="true" %}}
 
 **Masaüstü tarayıcı kullanarak kablosuz aktarım**<br>
 1. Uygulamayı başlatın: Flacbox'ı açın.<br>
@@ -702,9 +702,9 @@ Not: En iyi performans için JavaScript'in etkin olduğundan ve en son tarayıc�
 
 [Devamını oku](/docs/howto/how-to-transfer-files-wirelessly-from-a-computer-to-an-iphone-using-wifi-drive)
 
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Flacbox Apple CarPlay'i destekliyor mu?" closed="true" %}}
+{{% ls-details title="Flacbox Apple CarPlay'i destekliyor mu?" closed="true" %}}
 Evet, **Flacbox Apple CarPlay'i tam olarak destekler**. Müzik kütüphanenize göz atabilir, yerel veya çevrimdışı dosyaları çalabilir, bulut depolamaya bağlanabilir ve çalmayı doğrudan aracınızın bilgi-eğlence ekranından kontrol edebilirsiniz.
 
 CarPlay arayüzü **Kütüphane**, **Bağlantılar**, **Yerel Dosyalar** ve **Ayarlar** için özel sekmeler içerir, yolda müziğiniz üzerinde tam kontrol sağlar. Çalma kontrolleri, karıştırma, tekrar ve kuyruk yönetimi de mevcuttur.
@@ -712,42 +712,42 @@ CarPlay arayüzü **Kütüphane**, **Bağlantılar**, **Yerel Dosyalar** ve **Ay
 CarPlay kullanmak için Siri'nin etkin olduğundan ve iPhone'unuzun USB veya kablosuz olarak bağlı olduğundan emin olun.
 
 [Tam kılavuzu oku](/docs/howto/how-to-play-your-own-music-on-iphone-using-carplay/)
-{{% /details %}}
+{{% /ls-details %}}
 
 </div>
 
 
 <div class="hx:mt-6"></div>
 
-{{< hextra/section-headline >}}
+{{< ls-section-headline >}}
   Kullanım Kılavuzu
-{{< /hextra/section-headline >}}
+{{< /ls-section-headline >}}
 
 <div class="hx:mt-6"></div>
 
 <div class="hx:w-full">
 
 <div class="hx:w-full hx:mx-auto hx:flex hx:flex-col hx:items-center hx:text-center">
-  {{< hextra/info-paragraph border="false" >}}
+  {{< ls-info-paragraph border="false" >}}
   Bu kılavuz, iPhone, iPad veya Mac'inizde Flacbox'tan en iyi şekilde yararlanmanıza yardımcı olacaktır. Buluttan yüksek çözünürlüklü müzik yayınlamayı, kütüphanenizi düzenlemeyi, sesli kitapları yönetmeyi ve cihazlar arasında müzik aktarmayı öğrenin.
-  {{< /hextra/info-paragraph >}}
+  {{< /ls-info-paragraph >}}
 </div>
 
 {{< cards >}}
 
-{{< feature-card icon="map" link="/docs/guide/flacbox/flacbox-guide-navigation" title="Gezinme" subtitle="iPhone'da Sekme Çubuğunu veya iPad ve Mac'te Sol Menüyü kullanın." >}}
+{{< ls-feature-card icon="map" link="/docs/guide/flacbox/flacbox-guide-navigation" title="Gezinme" subtitle="iPhone'da Sekme Çubuğunu veya iPad ve Mac'te Sol Menüyü kullanın." >}}
 
-{{< feature-card icon="cloud" link="/docs/guide/flacbox/flacbox-guide-connections" title="Bağlantılar" subtitle="Dropbox, Google Drive, iCloud veya NAS'ınızı bağlayın." >}}
+{{< ls-feature-card icon="cloud" link="/docs/guide/flacbox/flacbox-guide-connections" title="Bağlantılar" subtitle="Dropbox, Google Drive, iCloud veya NAS'ınızı bağlayın." >}}
 
-{{< feature-card icon="collection" link="/docs/guide/flacbox/flacbox-guide-music-library" title="Müzik Kütüphanesi" subtitle="Parçaları sanatçı, albüm veya türe göre yönetin ve arayın." >}}
+{{< ls-feature-card icon="collection" link="/docs/guide/flacbox/flacbox-guide-music-library" title="Müzik Kütüphanesi" subtitle="Parçaları sanatçı, albüm veya türe göre yönetin ve arayın." >}}
 
-{{< feature-card icon="music-note" link="/docs/guide/flacbox/flacbox-guide-playlists" title="Çalma Listeleri" subtitle="Her ruh hali veya durum için çalma listeleri oluşturun ve düzenleyin." >}}
+{{< ls-feature-card icon="music-note" link="/docs/guide/flacbox/flacbox-guide-playlists" title="Çalma Listeleri" subtitle="Her ruh hali veya durum için çalma listeleri oluşturun ve düzenleyin." >}}
 
-{{< feature-card icon="folder" link="/docs/guide/flacbox/flacbox-guide-local-files" title="Yerel Dosyalar" subtitle="Dahili dosya yöneticisiyle çevrimdışı müziği düzenleyin ve çalın." >}}
+{{< ls-feature-card icon="folder" link="/docs/guide/flacbox/flacbox-guide-local-files" title="Yerel Dosyalar" subtitle="Dahili dosya yöneticisiyle çevrimdışı müziği düzenleyin ve çalın." >}}
 
-{{< feature-card icon="play" link="/docs/guide/flacbox/flacbox-guide-player" title="Ses Oynatıcı" subtitle="Çalmayı kontrol edin, hızı ayarlayın, yer imleri belirleyin ve daha fazlası." >}}
+{{< ls-feature-card icon="play" link="/docs/guide/flacbox/flacbox-guide-player" title="Ses Oynatıcı" subtitle="Çalmayı kontrol edin, hızı ayarlayın, yer imleri belirleyin ve daha fazlası." >}}
 
-{{< feature-card icon="adjustments" link="/docs/guide/flacbox/flacbox-guide-settings" title="Ayarlar" subtitle="Ekolayzır, görünüm ve uygulama davranışını özelleştirin." >}}
+{{< ls-feature-card icon="adjustments" link="/docs/guide/flacbox/flacbox-guide-settings" title="Ayarlar" subtitle="Ekolayzır, görünüm ve uygulama davranışını özelleştirin." >}}
 
 {{< /cards >}}
 

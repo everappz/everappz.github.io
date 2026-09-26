@@ -12,7 +12,7 @@ authors:
     image: "/images/about/artem-meleshko-founder-everappz.webp"
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 **Stručně:** [Evertag 4.2](/products/evertag) je velká aktualizace editoru zvukových tagů pro iPhone, iPad a Mac. Opravili jsme zásadní chyby při úpravě tagů a přidali přes 6 nových cloudových a serverových připojení — **Internxt**, **Proton Drive**, **QNAP**, **Nextcloud**, **Amazon S3** a protokoly **FTP**, **SFTP** a **NFS**. Wi-Fi Drive získal osvěžené rozhraní, režim vícenásobného výběru, chytřejší frontu nahrávání a rychlejší přenosy. Celá aplikace je naladěná na design **Liquid Glass**. Tento příspěvek se také ponoří do nastavení editoru tagů Evertag — vysvětluje **ID3v2.4 vs ID3v2.3**, **škálování obalu alba**, **duplikování tagů**, **režimy nahrávání do cloudu**, **mazání staženého souboru** a přesně to, jaké možnosti zvolit, pokud připravujete zvuk pro **Spotify**, **Apple Music**, **Plex**, **Jellyfin** nebo jakoukoli jinou streamovací službu.
 
@@ -229,50 +229,50 @@ Pokud se vám aplikace líbí, zanechte prosím v App Store hodnocení — hodn�
 
 ## Často kladené otázky
 
-{{% details title="Co je nového v Evertag 4.2?" closed="true" %}}
+{{% ls-details title="Co je nového v Evertag 4.2?" closed="true" %}}
 Evertag 4.2 přidává přes 6 nových cloudových a serverových připojení (Internxt, Proton Drive, QNAP, Nextcloud, Amazon S3, FTP, SFTP, NFS), osvěžený Wi-Fi Drive s vícenásobným výběrem a chytřejší frontou nahrávání, aktualizace UI Liquid Glass, aktualizované knihovny pro připojení, klíčové opravy chyb v editaci tagů a vylepšení překladu.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Mám v Evertagu používat ID3v2.4 nebo ID3v2.3?" closed="true" %}}
+{{% ls-details title="Mám v Evertagu používat ID3v2.4 nebo ID3v2.3?" closed="true" %}}
 Použijte **ID3v2.4** pro moderní přehrávače (Evermusic, Plex, Jellyfin, Apple Music, foobar2000, VLC, moderní Android aplikace) a pro knihovny s nelatinkovými znaky — podpora UTF-8 znamená čistší tagy v čínštině, korejštině, japonštině, ruštině, arabštině a hebrejštině. Použijte **ID3v2.3**, pokud se vaše tagy v některých aplikacích zobrazují špatně, pokud cílíte na starší autorádia, nebo pokud streamovací distributorský pipeline odmítá v2.4. Můžete kdykoliv přepnout a uložit znovu.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Proč jsou moje tagy po úpravě v Spotify špatné?" closed="true" %}}
+{{% ls-details title="Proč jsou moje tagy po úpravě v Spotify špatné?" closed="true" %}}
 Spotify většinou zobrazuje metadata ze svého katalogu — vaše místní tagy se používají pouze pro «Local Files» nebo obsah, který jste nahráli jako interpret. Pokud taggujete soubory pro Spotify Local Files a nezobrazují se správně, zkuste v Evertagu vypnout ID3v2.4 a uložit jako ID3v2.3 — parser Spotify byl historicky konzervativní vůči v2.4.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Jakou velikost obalu alba mám v Evertagu zvolit?" closed="true" %}}
+{{% ls-details title="Jakou velikost obalu alba mám v Evertagu zvolit?" closed="true" %}}
 Pro většinu uživatelů: **Velký**. Vypadá skvěle na telefonech, iPadech, Macích a moderních autodisplejích, aniž by soubory přiliš nafoukl. Použijte **Střední**, pokud máte obrovskou knihovnu a chcete šetřit disk. Použijte **Originál** (bez škálování) pouze pro archivní mastery nebo když opravdu potřebujete maximální kvalitu — ale berte v potaz, že některé starší přehrávače mají s velmi velkými vloženými obaly potíže. **Originál** je součástí prémiového personalizačního upgradu Evertagu.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Zvětší větší obaly alba moje soubory?" closed="true" %}}
+{{% ls-details title="Zvětší větší obaly alba moje soubory?" closed="true" %}}
 Ano. Vložení obalu 3 000 × 3 000 px může přidat několik megabajtů k jednomu zvukovému souboru. Na knihovně 1 000 skladeb se to rovná gigabajtům. Pokud je úložiště omezené, použijte Střední nebo Velký; pokud streamujete z NAS, kde na velikosti nezáleží, Velmi velký nebo Originál jsou v pořádku.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Co je Duplikování tagů a mám ho zapnout?" closed="true" %}}
+{{% ls-details title="Co je Duplikování tagů a mám ho zapnout?" closed="true" %}}
 Duplikování tagů zapisuje základní metadata do obou sekcí ID3v1 (legacy 128 bajtů) a ID3v2 (moderní) v souboru. Zapněte ho jen tehdy, pokud cílíte na velmi staré přehrávače nebo hardware, který čte ID3v1. Pro vše moderní (smartphony, počítače, novější autorádia) ho nechte vypnuté.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Upravuje Evertag tagy přímo v cloudových souborech?" closed="true" %}}
+{{% ls-details title="Upravuje Evertag tagy přímo v cloudových souborech?" closed="true" %}}
 Ano. Připojte se ke svému cloudu (Google Drive, Dropbox, OneDrive, iCloud Drive, Internxt, Proton Drive, QNAP, Nextcloud, Amazon S3 atd.) nebo přes FTP/SFTP/NFS, otevřete soubor a upravujte tagy, jako by byl místní. Evertag stáhne soubor, aplikuje vaše úpravy a aktualizovanou verzi nahraje zpět. V nastavení můžete zvolit režimy «Vždy se ptát», «Auto-upload» nebo «Nenahrávat».
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Můžu na iPhonu upravovat FLAC tagy v Evertagu?" closed="true" %}}
+{{% ls-details title="Můžu na iPhonu upravovat FLAC tagy v Evertagu?" closed="true" %}}
 Ano. Evertag podporuje FLAC, MP3, M4A/MP4, AIFF, WAV, OGG, APE a další významné formáty s plnou podporou čtení/zápisu tagů včetně vloženého obalu.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Jak bezpečně upravím tagy na svém domácím serveru pomocí SFTP?" closed="true" %}}
+{{% ls-details title="Jak bezpečně upravím tagy na svém domácím serveru pomocí SFTP?" closed="true" %}}
 Otevřete Evertag, přejděte do Připojení, vyberte SFTP a zadejte název hostitele nebo IP serveru, port (obvykle 22), uživatelské jméno a buď heslo, nebo soukromý SSH klíč. Evertag projde vaše vzdálené složky a tagy bude upravovat přímo s end-to-end šifrováním přes SSH.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Můžu upravovat tagy u více souborů najednou?" closed="true" %}}
+{{% ls-details title="Můžu upravovat tagy u více souborů najednou?" closed="true" %}}
 Ano. Aktivujte v nastavení **Upravovat soubory současně**. Vyberte více souborů, otevřete editor tagů a jakékoli pole, které změníte, se aplikuje na všechny vybrané soubory. Nejrychlejší způsob, jak nastavit stejného album artist, rok nebo žánr napříč celým albem.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Je aktualizace na Evertag 4.2 zdarma?" closed="true" %}}
+{{% ls-details title="Je aktualizace na Evertag 4.2 zdarma?" closed="true" %}}
 Ano. Evertag je zdarma ke stažení v App Store a 4.2 je bezplatná aktualizace pro všechny stávající uživatele. Nové cloudové integrace, vylepšení Wi-Fi Drive a UI Liquid Glass jsou součástí základní aktualizace.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Na jakých zařízeních je Evertag 4.2 dostupný?" closed="true" %}}
+{{% ls-details title="Na jakých zařízeních je Evertag 4.2 dostupný?" closed="true" %}}
 Evertag 4.2 běží na iPhonu, iPadu a Macu. Synchronizace přes iCloud Drive udržuje vaše nastavení editoru tagů konzistentní napříč zařízeními.
-{{% /details %}}
+{{% /ls-details %}}

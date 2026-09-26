@@ -7,7 +7,7 @@ keywords: ["传输音乐库Evermusic", "备份和恢复播放列表Evermusic", "
 readingTime: 3
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **摘要：** 要将Evermusic库传输到新设备，请在源设备上创建备份，启动Wi-Fi Drive，通过同一网络连接第二台设备，下载备份和音乐文件，然后从备份恢复。整个过程大约需要10分钟，具体取决于库的大小。
@@ -144,22 +144,22 @@ readingTime: 3
 
 ## 常见问题
 
-{{% details title="我可以在没有Wi-Fi的情况下传输Evermusic库吗？" closed="true" %}}
+{{% ls-details title="我可以在没有Wi-Fi的情况下传输Evermusic库吗？" closed="true" %}}
 Wi-Fi Drive要求两台设备在同一Wi-Fi网络上。目前没有蓝牙或蜂窝网络传输选项。您也可以使用AirDrop或文件应用在设备之间手动移动备份文件和音乐文件夹。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="云服务连接会随备份一起传输吗？" closed="true" %}}
+{{% ls-details title="云服务连接会随备份一起传输吗？" closed="true" %}}
 备份包括数据库、播放列表、专辑封面和设置。出于安全原因，不包括云服务登录凭据。恢复后，您需要在新设备上重新连接云账户。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="第二台设备上的现有库会怎样？" closed="true" %}}
+{{% ls-details title="第二台设备上的现有库会怎样？" closed="true" %}}
 恢复备份将替换第二台设备上所有现有的音乐库数据、播放列表、设置和专辑封面。如果您想保留其数据，请先为第二台设备创建单独的备份。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="此过程在iPhone和Mac之间是否有效？" closed="true" %}}
+{{% ls-details title="此过程在iPhone和Mac之间是否有效？" closed="true" %}}
 是的。Evermusic支持在iPhone、iPad和Mac的任意组合之间进行Wi-Fi Drive传输。两台设备只需在同一Wi-Fi网络上即可。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="传输需要多长时间？" closed="true" %}}
+{{% ls-details title="传输需要多长时间？" closed="true" %}}
 传输时间取决于音乐库的大小和Wi-Fi速度。几个GB的典型库通过标准家庭网络传输需要5-15分钟。
-{{% /details %}}
+{{% /ls-details %}}

@@ -23,7 +23,7 @@ El Reproductor de Audio es la pantalla principal de la app donde controlas la m�
 Puedes llegar al reproductor de pantalla completa desde la barra del mini reproductor. En iPhone, el mini reproductor está en la parte inferior de la pantalla principal. En iPad y Mac, está en el lado izquierdo. Para ocultar el mini reproductor en iPhone, tócalo una vez y desliza hacia abajo. Para cerrar completamente el reproductor de pantalla completa, toca el botón de cerrar en la esquina inferior derecha.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Pantalla Principal del Reproductor de Audio de Flacbox" image="/docs/guide/flacbox/img/audio-player-main-screen.webp" >}}
+  {{< ls-card title="" subtitle="Pantalla Principal del Reproductor de Audio de Flacbox" image="/docs/guide/flacbox/img/audio-player-main-screen.webp" >}}
 {{< /cards >}}
 
 ## Formatos de Audio Compatibles
@@ -66,7 +66,7 @@ Para AirPlay, busca el botón **AirPlay** en la parte inferior del reproductor. 
 Flacbox incluye un **ecualizador de 10 bandas** con preajustes estilo iPod. Toca Ecualizador en la vista de volumen, luego actívalo en la esquina superior derecha. Puedes usar preajustes como Acústico y Realzador de Graves, o ajustar cada banda de frecuencia con deslizadores. Crea tus propios preajustes, guárdalos bajo cualquier nombre y aumenta el volumen general con el preamplificador. Tenemos instrucciones más detalladas sobre cómo usar el ecualizador [aquí](/docs/howto/how-to-use-the-audio-equalizer-on-your-iphone-ipad-mac-with-evermusic-and-flacbox).
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Ecualizador del Reproductor de Audio de Flacbox" image="/docs/guide/flacbox/img/audio-player-equalizer.webp" >}}
+  {{< ls-card title="" subtitle="Ecualizador del Reproductor de Audio de Flacbox" image="/docs/guide/flacbox/img/audio-player-equalizer.webp" >}}
 {{< /cards >}}
 
 ## Barra de Herramientas del Modo Reproductor
@@ -82,7 +82,7 @@ Para algunos estilos de reproductor, hay una barra de herramientas dedicada en l
 Para ver tu cola del reproductor, toca el botón de cola en el lado derecho de la canción actual. Cada canción en la cola tiene más acciones — toca los tres puntos para verlas. Para reordenar una canción en la cola, usa el indicador de reordenamiento cerca del título y arrástralo a una nueva posición.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Cola de Reproducción de Flacbox" image="/docs/guide/flacbox/img/playback_queue.webp" >}}
+  {{< ls-card title="" subtitle="Cola de Reproducción de Flacbox" image="/docs/guide/flacbox/img/playback_queue.webp" >}}
 {{< /cards >}}
 
 ## Comentarios / Letras
@@ -98,7 +98,7 @@ Para ver los comentarios de una pista y las letras integradas, así como los arc
 Después de esto, toca el botón de cola del reproductor en la parte inferior de la pantalla varias veces para cambiar de la vista de portada / cola a la vista de comentarios. En la pantalla de Comentarios, desplázate hacia la derecha para cambiar entre **Comentarios**, **Letras Integradas** y el **Archivo LRC**. Las instrucciones completas están disponibles [aquí](/docs/howto/how-to-add-and-view-comments-to-your-audio-tracks-on-iphone-ipad-and-mac-with-evermusic-and-flacbox).
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Pantalla de Letras y Comentarios de Flacbox" image="/docs/guide/flacbox/img/lyrics-screen.webp" >}}
+  {{< ls-card title="" subtitle="Pantalla de Letras y Comentarios de Flacbox" image="/docs/guide/flacbox/img/lyrics-screen.webp" >}}
 {{< /cards >}}
 
 ## Menú de Opciones
@@ -121,7 +121,7 @@ Cada canción en la cola del reproductor de audio tiene un menú con más accion
 Las mismas opciones están disponibles para el elemento que se está reproduciendo actualmente en la cola del reproductor de audio, al que puedes acceder tocando el icono **Más Acciones** cerca del título de la pista.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Opciones de Flacbox para un Elemento en la Cola de Reproducción" image="/docs/guide/flacbox/img/options-for-item-in-playback-queue.webp" >}}
+  {{< ls-card title="" subtitle="Opciones de Flacbox para un Elemento en la Cola de Reproducción" image="/docs/guide/flacbox/img/options-for-item-in-playback-queue.webp" >}}
 {{< /cards >}}
 
 ## Acciones Adicionales del Reproductor
@@ -143,7 +143,7 @@ Toca el botón **Más Acciones** "..." en el lado izquierdo del título de la ca
 - **Ayuda** — encuentra asistencia y orientación.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Pantalla de Más Acciones del Reproductor de Audio de Flacbox" image="/docs/guide/flacbox/img/audio-player-more-actions-screen.webp" >}}
+  {{< ls-card title="" subtitle="Pantalla de Más Acciones del Reproductor de Audio de Flacbox" image="/docs/guide/flacbox/img/audio-player-more-actions-screen.webp" >}}
 {{< /cards >}}
 
 ## Marcadores de Audio
@@ -161,7 +161,7 @@ Para crear un nuevo marcador:
 Editar marcadores para la pista actual es fácil: toca Editar en la esquina superior derecha para entrar en modo de edición. En este modo, puedes reorganizar marcadores, eliminarlos, ajustar el tiempo del marcador y cambiar los títulos de los marcadores. Instrucciones más detalladas sobre marcadores de audio están disponibles [aquí](/docs/howto/how-to-listen-to-audiobooks-on-iphone-ipad-mac-using-evermusic).
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Pantalla de Marcadores de Audio de Flacbox" image="/docs/guide/flacbox/img/audio-bookmarks.webp" >}}
+  {{< ls-card title="" subtitle="Pantalla de Marcadores de Audio de Flacbox" image="/docs/guide/flacbox/img/audio-bookmarks.webp" >}}
 {{< /cards >}}
 
 ## Recientes y Favoritos
@@ -175,7 +175,7 @@ Conecta tu iPhone a tu coche mediante USB o Apple CarPlay inalámbrico y Flacbox
 [Lee la guía completa de CarPlay](/docs/howto/how-to-play-your-own-music-on-iphone-using-carplay/).
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox en Apple CarPlay" image="/docs/guide/flacbox/img/carplay-main.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox en Apple CarPlay" image="/docs/guide/flacbox/img/carplay-main.webp" >}}
 {{< /cards >}}
 
 ## Widgets de Pantalla de Inicio (iPhone y iPad)
@@ -243,7 +243,7 @@ Personaliza los ajustes del ecualizador de audio. Puedes leer más sobre cómo c
 Ajusta la velocidad de reproducción del reproductor de audio desde **0,02× hasta 3,00×**. Toca el icono de configuración en la esquina superior derecha para cambiar al **modo preciso** para ajustes más finos.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Pantalla de Velocidad de Reproducción de Flacbox" image="/docs/guide/flacbox/img/playback-speed.webp" >}}
+  {{< ls-card title="" subtitle="Pantalla de Velocidad de Reproducción de Flacbox" image="/docs/guide/flacbox/img/playback-speed.webp" >}}
 {{< /cards >}}
 
 ### Corrección de Tono

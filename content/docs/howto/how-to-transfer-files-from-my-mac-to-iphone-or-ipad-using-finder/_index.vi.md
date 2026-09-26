@@ -17,7 +17,7 @@ keywords: [
 readingTime: 3
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **Tóm tắt:** Kết nối iPhone hoặc iPad với Mac (hoặc PC) bằng cáp USB. Trên macOS Catalina trở lên, sử dụng Finder. Trên macOS cũ hơn hoặc Windows, sử dụng iTunes. Kéo tệp vào ứng dụng như Evermusic, Flacbox hoặc Evertag để chuyển ngay lập tức.
@@ -117,26 +117,26 @@ Với Chia sẻ tệp iTunes, bạn có thể dễ dàng quản lý tệp giữa
 
 ## Câu hỏi thường gặp
 
-{{% details title="Tôi có cần kết nối internet để chuyển tệp qua USB không?" closed="true" %}}
+{{% ls-details title="Tôi có cần kết nối internet để chuyển tệp qua USB không?" closed="true" %}}
 Không. Chia sẻ tệp hoạt động hoàn toàn qua kết nối cáp USB giữa máy tính và thiết bị iOS. Không cần internet.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Tôi có thể chuyển những định dạng tệp nào sang Evermusic hoặc Flacbox?" closed="true" %}}
+{{% ls-details title="Tôi có thể chuyển những định dạng tệp nào sang Evermusic hoặc Flacbox?" closed="true" %}}
 Cả hai ứng dụng đều hỗ trợ nhiều định dạng âm thanh bao gồm MP3, FLAC, AAC, WAV, AIFF, OGG, WMA và nhiều hơn nữa. Kiểm tra tài liệu của ứng dụng để biết danh sách đầy đủ các định dạng được hỗ trợ.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Tại sao tôi không thấy tab Tệp trong Finder?" closed="true" %}}
+{{% ls-details title="Tại sao tôi không thấy tab Tệp trong Finder?" closed="true" %}}
 Tab Tệp chỉ xuất hiện khi thiết bị của bạn có ít nhất một ứng dụng đã cài đặt hỗ trợ Chia sẻ tệp. Cài đặt Evermusic, Flacbox hoặc Evertag, sau đó kết nối lại thiết bị.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Tôi có thể chuyển tệp không dây thay vì sử dụng cáp USB không?" closed="true" %}}
+{{% ls-details title="Tôi có thể chuyển tệp không dây thay vì sử dụng cáp USB không?" closed="true" %}}
 Có. Evermusic và Flacbox cũng hỗ trợ các dịch vụ lưu trữ đám mây và chuyển Wi-Fi. Tuy nhiên, chia sẻ tệp USB qua Finder hoặc iTunes thường nhanh hơn cho thư viện nhạc lớn.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Chuyển tệp qua Finder có ghi đè tệp hiện có trên thiết bị không?" closed="true" %}}
+{{% ls-details title="Chuyển tệp qua Finder có ghi đè tệp hiện có trên thiết bị không?" closed="true" %}}
 Không. Các tệp mới được thêm cùng với các tệp hiện có. Nếu một tệp có cùng tên đã tồn tại, macOS có thể tự động đổi tên tệp mới.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Phương pháp này có hoạt động với PC Windows không?" closed="true" %}}
+{{% ls-details title="Phương pháp này có hoạt động với PC Windows không?" closed="true" %}}
 Có. Trên Windows, sử dụng iTunes để chuyển tệp. Quy trình giống như mô tả trong phần iTunes ở trên. Cài đặt iTunes từ Microsoft Store hoặc trang web của Apple.
-{{% /details %}}
+{{% /ls-details %}}

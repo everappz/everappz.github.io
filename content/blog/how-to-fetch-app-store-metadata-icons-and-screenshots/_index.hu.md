@@ -23,7 +23,7 @@ authors:
     image: "/images/about/artem-meleshko-founder-everappz.webp"
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 ## App Store adatok másodpercek alatt
 
@@ -134,53 +134,53 @@ Nincs szükséged API kulcsra, fejlesztői fiókra vagy fizetős csomagra ahhoz,
 Az AppLookup.pro nyílt forráskódú. Hibajelentések, országbővítések és pull requestek szívesen láttak.
 
 {{< cards cols="1" >}}
-  {{< card link="https://github.com/everappz/AppStoreLookup" title="AppLookup.pro a GitHubon" icon="github" tag="nyílt forráskódú" >}}
+  {{< ls-card link="https://github.com/everappz/AppStoreLookup" title="AppLookup.pro a GitHubon" icon="github" tag="nyílt forráskódú" >}}
 {{< /cards >}}
 
 ---
 
 ## Gyakran ismételt kérdések
 
-{{% details title="Tényleg ingyenes az AppLookup.pro?" closed="true" %}}
+{{% ls-details title="Tényleg ingyenes az AppLookup.pro?" closed="true" %}}
 Igen. Az AppLookup.pro 100 százalékban ingyenes és nyílt forráskódú. A böngésződben fut. Nincs regisztráció, nincs fizetős csomag és nincs használati korlát az Apple saját iTunes Search API korlátain túl.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Honnan jönnek az adatok?" closed="true" %}}
+{{% ls-details title="Honnan jönnek az adatok?" closed="true" %}}
 Minden eredmény valós időben érkezik az Apple hivatalos [iTunes Search API](https://developer.apple.com/library/archive/documentation/AudioVideo/Conceptual/iTuneSearchAPI/index.html) felületéről. Az eszköz nem scrapel App Store oldalakat, és nem gyorsítótáraz válaszokat semmilyen szerveren.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Letölthetem az alkalmazás ikont nagy felbontásban?" closed="true" %}}
+{{% ls-details title="Letölthetem az alkalmazás ikont nagy felbontásban?" closed="true" %}}
 Igen. Az **App Icon** szekció megjelenít minden ikon URL-t, amit az Apple visszaad. Minden kártyán van Direct Link és Download gomb, plusz egy Download All Icons ZIP gomb mindet egyetlen archívumba csomagolja.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Letölthetem az összes App Store képernyőképet egyszerre?" closed="true" %}}
+{{% ls-details title="Letölthetem az összes App Store képernyőképet egyszerre?" closed="true" %}}
 Igen. Minden képernyőkép szekció (iPhone, iPad, macOS és Apple TV) tartalmaz egy **Download All (ZIP)** gombot, amely minden képernyőképet teljes felbontásban összecsomagol.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Hogyan látom, hogy néz ki egy alkalmazás másik országban?" closed="true" %}}
+{{% ls-details title="Hogyan látom, hogy néz ki egy alkalmazás másik országban?" closed="true" %}}
 Válassz országot az oldal tetején lévő legördülő menüben. Több mint 40 bolt támogatott. Kattints újra a **Lookup** gombra, és az eszköz újra lekéri az alkalmazást abban az országban, megjelenítve a lokalizált címet, leírást, képernyőképeket, újdonságokat és árat.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Másolhatok egyetlen mezőket, mint a bundle ID vagy a kiadási dátum?" closed="true" %}}
+{{% ls-details title="Másolhatok egyetlen mezőket, mint a bundle ID vagy a kiadási dátum?" closed="true" %}}
 Igen. Az eredményben minden szöveges mezőnek saját Copy gombja van: alkalmazás név, fejlesztő, leírás, újdonságok, bundle ID, verzió, ár, fájlméret, minimum OS, kiadási dátum, korhatár besorolás, nyelvek, támogatott eszközök és nyers JSON.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Működik az AppLookup.pro bármely iOS alkalmazáshoz?" closed="true" %}}
+{{% ls-details title="Működik az AppLookup.pro bármely iOS alkalmazáshoz?" closed="true" %}}
 Bármely olyan alkalmazáshoz működik, amely legalább egy App Store országban nyilvánosan elérhető, és amelyet az iTunes Search API visszaad. Nem listázott, eltávolított vagy enterprise terjesztésű alkalmazások nem jelennek meg.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Támogatja a macOS és Apple TV alkalmazásokat?" closed="true" %}}
+{{% ls-details title="Támogatja a macOS és Apple TV alkalmazásokat?" closed="true" %}}
 Igen. Ha az alkalmazás macOS vagy Apple TV képernyőképekkel rendelkezik az iTunes Search API válaszában, az AppLookup.pro megjeleníti őket saját görgethető panelben, letöltő gombokkal.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Felhasználhatom a nyers JSON-t a saját kódomban?" closed="true" %}}
+{{% ls-details title="Felhasználhatom a nyers JSON-t a saját kódomban?" closed="true" %}}
 Igen. A Raw API Response szekció megjeleníti az Apple által visszaadott pontos JSON-t. Másold át Postmanbe, egy unit tesztbe vagy egy backend pipeline-ba. Tartsd tiszteletben az Apple API feltételeit és az ésszerű sebességkorlátokat.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Biztonságos App Store URL-eket beilleszteni az eszközbe?" closed="true" %}}
+{{% ls-details title="Biztonságos App Store URL-eket beilleszteni az eszközbe?" closed="true" %}}
 Igen. Az URL a böngésződben kerül feldolgozásra. Az egyetlen kimenő hálózati hívás az Apple iTunes Search API felé történő lekérés.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Mi a különbség az AppLookup.pro és az AppKeywords.pro között?" closed="true" %}}
+{{% ls-details title="Mi a különbség az AppLookup.pro és az AppKeywords.pro között?" closed="true" %}}
 Az [AppLookup.pro](https://applookup.pro) bármely megjelent alkalmazás App Store metaadatainak olvasására szolgál: versenytárs kutatás, anyagok letöltése, lokalizáció ellenőrzése. Az [AppKeywords.pro](https://appkeywords.pro) a saját alkalmazásod App Store metaadatainak megírására szolgál: cím, alcím és kulcsszó optimalizálás Fastlane támogatással. A két eszköz jól kiegészíti egymást.
-{{% /details %}}
+{{% /ls-details %}}

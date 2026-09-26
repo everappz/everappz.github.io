@@ -21,7 +21,7 @@ readingTime: 8
 Έχετε δύο τρόπους για να προσθέσετε πολυμέσα στη βιβλιοθήκη σας: **Χειροκίνητη προσθήκη** (επιλέγετε ακριβώς τι προστίθεται) ή **Αυτόματη συγχρονισμός** (το Evervideo σαρώνει καθορισμένους φακέλους cloud και προσθέτει νέα αρχεία αυτόματα καθώς εμφανίζονται).
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Μεσοθήκη Evervideo" image="/docs/guide/evervideo/img/evervideo-genres-in-media-library.webp" >}}
+  {{< ls-card title="" subtitle="Μεσοθήκη Evervideo" image="/docs/guide/evervideo/img/evervideo-genres-in-media-library.webp" >}}
 {{< /cards >}}
 
 ## Χειροκίνητη προσθήκη
@@ -92,7 +92,7 @@ readingTime: 8
 Αυτή η ενότητα εμφανίζει όλα τα πρόσφατα αναπαραχθέντα βίντεο με την τελευταία θέση αναπαραγωγής τους, ώστε να μπορείτε να συνεχίσετε οποιοδήποτε από αυτά με ένα πάτημα. Μπορείτε να αλλάξετε πόσες καταχωρίσεις κρατά η λίστα στις Ρυθμίσεις → Μεσοθήκη → Πρόσφατα → Αλλαγή μεγέθους λίστας, και να εξαγάγετε τη λίστα ως M3U / CSV / TXT για να δημιουργήσετε αντίγραφο ασφαλείας του ιστορικού παρακολούθησής σας.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evervideo Πρόσφατα — Πρόσφατα παρακολουθηθέντα βίντεο" image="/docs/guide/evervideo/img/evervideo-recents.webp" >}}
+  {{< ls-card title="" subtitle="Evervideo Πρόσφατα — Πρόσφατα παρακολουθηθέντα βίντεο" image="/docs/guide/evervideo/img/evervideo-recents.webp" >}}
 {{< /cards >}}
 
 ## Αγαπημένα
@@ -104,7 +104,7 @@ readingTime: 8
 Το Evervideo παρακολουθεί τη θέση αναπαραγωγής κάθε βίντεο που παρακολουθείτε. Κάθε βίντεο σε οποιαδήποτε λίστα — Πρόσφατα, Αγαπημένα, ένα άλμπουμ, ένα είδος, μια λίστα αναπαραγωγής, ένας φάκελος — εμφανίζει μια μικρή γραμμή προόδου ώστε να μπορείτε να δείτε με μια ματιά πόσο από αυτό έχετε ήδη παρακολουθήσει. Αυτό κάνει ευκολότερη τη διαχείριση μακρών σεζόν τηλεοπτικών σειρών, λιστών αναπαραγωγής μαθημάτων και νύχτων marathon παρακολούθησης.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Λεπτομέρεια είδους Evervideo με πρόοδο παρακολούθησης ανά αρχείο" image="/docs/guide/evervideo/img/evervideo-genre-detail-with-playback-progress-for-watched-files.webp" >}}
+  {{< ls-card title="" subtitle="Λεπτομέρεια είδους Evervideo με πρόοδο παρακολούθησης ανά αρχείο" image="/docs/guide/evervideo/img/evervideo-genre-detail-with-playback-progress-for-watched-files.webp" >}}
 {{< /cards >}}
 
 ## Επάνω γραμμή εργαλείων
@@ -116,7 +116,7 @@ readingTime: 8
 Η λειτουργία αναζήτησης σας δίνει τη δυνατότητα να εντοπίσετε έναν συγκεκριμένο τίτλο, άλμπουμ, είδος ή λίστα αναπαραγωγής στη μεσοθήκη σας. Στην οθόνη Αναζήτησης έχετε πρόσβαση σε ενέργειες Ταξινόμησης, Φιλτραρίσματος και Πλέγματος/Λίστας. Η αναζήτηση εκτελείται τοπικά στη βάση δεδομένων μεσοθήκης, οπότε λειτουργεί πλήρως εκτός σύνδεσης και επιστρέφει αποτελέσματα καθώς πληκτρολογείτε.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Αναζήτηση μεσοθήκης Evervideo" image="/docs/guide/evervideo/img/evervideo-library-search.webp" >}}
+  {{< ls-card title="" subtitle="Αναζήτηση μεσοθήκης Evervideo" image="/docs/guide/evervideo/img/evervideo-library-search.webp" >}}
 {{< /cards >}}
 
 ## Μενού επιλογών

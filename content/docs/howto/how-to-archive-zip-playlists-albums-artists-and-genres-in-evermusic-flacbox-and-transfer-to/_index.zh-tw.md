@@ -7,7 +7,7 @@ tags: ["evermusic", "flacbox", "封存", "備份", "匯出", "播放列表", "m3
 readingTime: 2
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **摘要：** Evermusic 和 Flacbox 可以將任何播放列表、專輯、藝術家或類型封存為 ZIP 檔案，其中包含 M3U 播放列表、專輯封面和所有音訊檔案。將 ZIP 傳輸到另一台裝置，解壓縮並匯入 M3U 即可立即重建播放列表。
@@ -104,22 +104,22 @@ readingTime: 2
 
 ## 常見問題
 
-{{% details title="ZIP 封存檔中包含什麼？" closed="true" %}}
+{{% ls-details title="ZIP 封存檔中包含什麼？" closed="true" %}}
 封存檔包含所有音訊檔案、保留曲目順序的 M3U 播放列表檔案，以及作為單獨影像檔案儲存的播放列表專輯封面。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="封存是否適用於雲端檔案？" closed="true" %}}
+{{% ls-details title="封存是否適用於雲端檔案？" closed="true" %}}
 是的。應用程式會在將檔案加入封存檔之前自動下載所有雲端儲存的檔案。您可以在檔案傳輸區段監控下載進度。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="我可以封存專輯、藝術家和類型嗎？" closed="true" %}}
+{{% ls-details title="我可以封存專輯、藝術家和類型嗎？" closed="true" %}}
 是的。「加入封存」選項適用於播放列表、專輯、藝術家和類型。所有項目的過程完全相同。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="如何將封存檔傳輸到另一台裝置？" closed="true" %}}
+{{% ls-details title="如何將封存檔傳輸到另一台裝置？" closed="true" %}}
 您可以將 ZIP 上傳到雲端儲存空間（Google Drive、Dropbox 等），使用 AirDrop，或透過 Evermusic 和 Flacbox 內建的 Wi-Fi Drive 功能無線傳輸。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="傳輸後播放列表結構是否會保留？" closed="true" %}}
+{{% ls-details title="傳輸後播放列表結構是否會保留？" closed="true" %}}
 是的。M3U 檔案使用相對路徑儲存播放列表結構。在新裝置上解壓縮後，匯入 M3U 檔案即可以原始順序重建包含所有曲目的播放列表。
-{{% /details %}}
+{{% /ls-details %}}

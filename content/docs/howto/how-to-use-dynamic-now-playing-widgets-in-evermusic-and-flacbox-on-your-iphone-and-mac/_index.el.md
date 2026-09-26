@@ -7,7 +7,7 @@ tags: ["widgets", "ios17", "δυναμικό", "τώρα παίζει", "αρχ�
 keywords: ["widget Evermusic", "widget Flacbox", "widget Τώρα παίζει iOS", "widget επιφάνειας εργασίας macOS Sonoma", "σελιδοδείκτες ήχου iPhone", "widget μουσικής Evermusic", "έλεγχος αναπαραγωγής αρχική οθόνη", "δυναμικά widgets iOS 17"]
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **Περίληψη:** Το Evermusic και το Flacbox προσφέρουν διαδραστικά widgets Τώρα παίζει σε iOS 17+ και macOS 14 Sonoma+. Μπορείτε να ελέγχετε την αναπαραγωγή, να παραλείπετε κομμάτια, να προσθέτετε αγαπημένα και να δημιουργείτε σελιδοδείκτες ήχου απευθείας από την αρχική οθόνη του iPhone ή την επιφάνεια εργασίας του Mac — χωρίς να χρειάζεται να ανοίξετε την εφαρμογή.
@@ -78,22 +78,22 @@ keywords: ["widget Evermusic", "widget Flacbox", "widget Τώρα παίζει i
 
 ## Συχνές ερωτήσεις
 
-{{% details title="Λειτουργούν τα widgets χωρίς να ανοίξετε την εφαρμογή;" closed="true" %}}
+{{% ls-details title="Λειτουργούν τα widgets χωρίς να ανοίξετε την εφαρμογή;" closed="true" %}}
 Ναι. Σε iOS 17 και macOS 14 Sonoma, τα κουμπιά των widgets είναι διαδραστικά και ελέγχουν την αναπαραγωγή απευθείας. Η εφαρμογή δεν χρειάζεται να είναι στο προσκήνιο.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Ποιο μέγεθος widget πρέπει να επιλέξω;" closed="true" %}}
+{{% ls-details title="Ποιο μέγεθος widget πρέπει να επιλέξω;" closed="true" %}}
 Επιλέξτε Μικρό για βασική αναπαραγωγή/παύση και αγαπημένα. Επιλέξτε Μεσαίο αν θέλετε κουμπιά μετάβασης. Επιλέξτε Μεγάλο αν θέλετε επίσης σελιδοδείκτες ήχου.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Μπορώ να χρησιμοποιήσω το widget για να συνεχίσω ένα ηχοβιβλίο;" closed="true" %}}
+{{% ls-details title="Μπορώ να χρησιμοποιήσω το widget για να συνεχίσω ένα ηχοβιβλίο;" closed="true" %}}
 Ναι. Ενεργοποιήστε την "Αποθήκευση κατάστασης αναπαραγωγέα ήχου" στις Ρυθμίσεις και το widget θα συνεχίσει την αναπαραγωγή από την τελευταία σας θέση ακόμα και μετά το κλείσιμο της εφαρμογής.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Είναι τα widgets διαθέσιμα στο iPad;" closed="true" %}}
+{{% ls-details title="Είναι τα widgets διαθέσιμα στο iPad;" closed="true" %}}
 Ναι. Το iPadOS 17 υποστηρίζει τα ίδια διαδραστικά widgets με το iPhone.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Έχουν και το Evermusic και το Flacbox αυτά τα widgets;" closed="true" %}}
+{{% ls-details title="Έχουν και το Evermusic και το Flacbox αυτά τα widgets;" closed="true" %}}
 Ναι. Το widget Τώρα παίζει είναι διαθέσιμο τόσο στο Evermusic όσο και στο Flacbox με πανομοιότυπη λειτουργικότητα.
-{{% /details %}}
+{{% /ls-details %}}

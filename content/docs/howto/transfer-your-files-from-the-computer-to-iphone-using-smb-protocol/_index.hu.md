@@ -7,7 +7,7 @@ tags: ["cloud", "streaming", "computer", "mp3", "file", "downloader", "manager",
 keywords: ["fájlok átvitele iPhone-ra SMB", "PC zene streamelése iPhone-on", "Mac csatlakoztatása iPhone-hoz SMB", "Evermusic SMB beállítás", "számítógépes fájlok elérése iPhone", "Windows zene megosztás iOS", "SMB fájlátvitel Evermusic"]
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **Összefoglaló:** Használja az Evermusic-ot iPhone-ján vagy iPadjén a Mac-en vagy Windows PC-n tárolt fájlok eléréséhez a helyi hálózaton keresztül SMB-vel. Nincs szükség kábelekre, iTunes-ra vagy felhőbe feltöltésre. Engedélyezze a fájlmegosztást a számítógépén, csatlakozzon az alkalmazásban, és böngéssze vagy játssza le fájljait vezeték nélkül.
@@ -142,26 +142,26 @@ Ezekkel a lépésekkel könnyedén elérheti kiterjedt fájlgyűjteményét MAC-
 
 ## Gyakran ismételt kérdések
 
-{{% details title="Elérhetek fájlokat a PC-men az iPhone-omról iTunes nélkül?" closed="true" %}}
+{{% ls-details title="Elérhetek fájlokat a PC-men az iPhone-omról iTunes nélkül?" closed="true" %}}
 Igen. Az Evermusic SMB-n keresztül csatlakozik a számítógépéhez a helyi Wi-Fi hálózaton. Nincs szükség iTunes vagy Finder szinkronizálásra. Engedélyezze a fájlmegosztást a PC-jén, és csatlakozzon közvetlenül az alkalmazásból.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Működik az SMB fájl-hozzáférés az interneten keresztül?" closed="true" %}}
+{{% ls-details title="Működik az SMB fájl-hozzáférés az interneten keresztül?" closed="true" %}}
 Nem. Az SMB helyi hálózati protokoll. Az iPhone-jának és számítógépének ugyanazon a Wi-Fi hálózaton kell lennie. Távoli hozzáféréshez töltse fel fájljait egy felhőszolgáltatásba, mint a Google Drive vagy Dropbox, és csatlakozzon hozzá az Evermusic-ban.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Milyen fájltípusokat érhetek el SMB-n keresztül?" closed="true" %}}
+{{% ls-details title="Milyen fájltípusokat érhetek el SMB-n keresztül?" closed="true" %}}
 Az Evermusic támogatja az MP3, FLAC, AAC, WAV, AIFF, OGG, WMA, ALAC és más hangformátumokat. A beépített fájlkezelővel nem hang fájlokat is böngészhet és kezelhet.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Átvihetek fájlokat NAS-ról iPhone-ra SMB-vel?" closed="true" %}}
+{{% ls-details title="Átvihetek fájlokat NAS-ról iPhone-ra SMB-vel?" closed="true" %}}
 Igen. A legtöbb NAS eszköz (Synology, QNAP, WD My Cloud és mások) támogatja az SMB-t. Csatlakozzon NAS-ához ugyanazokkal a lépésekkel ebben az útmutatóban.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Át kell másolnom a fájlokat az iPhone-ra a lejátszáshoz?" closed="true" %}}
+{{% ls-details title="Át kell másolnom a fájlokat az iPhone-ra a lejátszáshoz?" closed="true" %}}
 Nem. Az Evermusic közvetlenül a számítógépéről vagy NAS-áról streameli a fájlokat a hálózaton keresztül. A fájlok nem másolódnak az iPhone-ra, hacsak nem választja a letöltésüket offline lejátszáshoz.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Biztonságos az SMB fájlmegosztás?" closed="true" %}}
+{{% ls-details title="Biztonságos az SMB fájlmegosztás?" closed="true" %}}
 Az SMB fájlmegosztás csak a helyi hálózatán működik. Más hálózatokon lévő eszközök nem férhetnek hozzá a megosztott mappáihoz. További biztonság érdekében használjon felhasználónevet és jelszót az anonim (Mindenki) hozzáférés helyett.
-{{% /details %}}
+{{% /ls-details %}}

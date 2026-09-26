@@ -23,7 +23,7 @@ authors:
     image: "/images/about/artem-meleshko-founder-everappz.webp"
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 ## Δεδομένα App Store σε δευτερόλεπτα
 
@@ -134,53 +134,53 @@ authors:
 Το AppLookup.pro είναι ανοιχτού κώδικα. Αναφορές σφαλμάτων, προσθήκες χωρών και pull requests είναι ευπρόσδεκτα.
 
 {{< cards cols="1" >}}
-  {{< card link="https://github.com/everappz/AppStoreLookup" title="AppLookup.pro στο GitHub" icon="github" tag="ανοιχτού κώδικα" >}}
+  {{< ls-card link="https://github.com/everappz/AppStoreLookup" title="AppLookup.pro στο GitHub" icon="github" tag="ανοιχτού κώδικα" >}}
 {{< /cards >}}
 
 ---
 
 ## Συχνές ερωτήσεις
 
-{{% details title="Είναι πραγματικά δωρεάν το AppLookup.pro;" closed="true" %}}
+{{% ls-details title="Είναι πραγματικά δωρεάν το AppLookup.pro;" closed="true" %}}
 Ναι. Το AppLookup.pro είναι 100 τοις εκατό δωρεάν και ανοιχτού κώδικα. Τρέχει στο πρόγραμμα περιήγησής σας. Δεν υπάρχει εγγραφή, ούτε επί πληρωμή επίπεδο, ούτε όριο χρήσης πέρα από τα δικά της όρια του iTunes Search API της Apple.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Από πού προέρχονται τα δεδομένα;" closed="true" %}}
+{{% ls-details title="Από πού προέρχονται τα δεδομένα;" closed="true" %}}
 Κάθε αποτέλεσμα ανακτάται σε πραγματικό χρόνο από το επίσημο [iTunes Search API](https://developer.apple.com/library/archive/documentation/AudioVideo/Conceptual/iTuneSearchAPI/index.html) της Apple. Το εργαλείο δεν κάνει scraping σε σελίδες App Store και δεν αποθηκεύει αποκρίσεις σε κανέναν διακομιστή.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Μπορώ να κατεβάσω το εικονίδιο εφαρμογής σε υψηλή ανάλυση;" closed="true" %}}
+{{% ls-details title="Μπορώ να κατεβάσω το εικονίδιο εφαρμογής σε υψηλή ανάλυση;" closed="true" %}}
 Ναι. Η ενότητα **App Icon** εμφανίζει κάθε URL εικονιδίου που επιστρέφει η Apple. Κάθε κάρτα έχει ένα Direct Link και ένα κουμπί Download, ενώ ένα κουμπί Download All Icons ZIP τα συσκευάζει σε ένα αρχείο.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Μπορώ να κατεβάσω όλα τα στιγμιότυπα του App Store ταυτόχρονα;" closed="true" %}}
+{{% ls-details title="Μπορώ να κατεβάσω όλα τα στιγμιότυπα του App Store ταυτόχρονα;" closed="true" %}}
 Ναι. Κάθε ενότητα στιγμιοτύπων (iPhone, iPad, macOS και Apple TV) έχει ένα κουμπί **Download All (ZIP)** που συσκευάζει κάθε στιγμιότυπο σε πλήρη ανάλυση.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Πώς βλέπω πώς εμφανίζεται μια εφαρμογή σε άλλη χώρα;" closed="true" %}}
+{{% ls-details title="Πώς βλέπω πώς εμφανίζεται μια εφαρμογή σε άλλη χώρα;" closed="true" %}}
 Επιλέξτε μια χώρα στο αναπτυσσόμενο μενού στην κορυφή της σελίδας. Υποστηρίζονται πάνω από 40 καταστήματα. Κάντε κλικ ξανά στο **Lookup** και το εργαλείο ξανα-ανακτά την εφαρμογή για εκείνη τη χώρα, εμφανίζοντας τον τοπικό τίτλο, περιγραφή, στιγμιότυπα, νέα έκδοσης και τιμή.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Μπορώ να αντιγράψω μεμονωμένα πεδία όπως bundle ID ή ημερομηνία κυκλοφορίας;" closed="true" %}}
+{{% ls-details title="Μπορώ να αντιγράψω μεμονωμένα πεδία όπως bundle ID ή ημερομηνία κυκλοφορίας;" closed="true" %}}
 Ναι. Κάθε πεδίο κειμένου στο αποτέλεσμα έχει το δικό του κουμπί Copy: όνομα εφαρμογής, προγραμματιστής, περιγραφή, νέα έκδοσης, bundle ID, έκδοση, τιμή, μέγεθος αρχείου, ελάχιστο OS, ημερομηνία κυκλοφορίας, ηλικιακή κατάταξη, γλώσσες, υποστηριζόμενες συσκευές και ακατέργαστο JSON.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Λειτουργεί το AppLookup.pro για οποιαδήποτε εφαρμογή iOS;" closed="true" %}}
+{{% ls-details title="Λειτουργεί το AppLookup.pro για οποιαδήποτε εφαρμογή iOS;" closed="true" %}}
 Λειτουργεί για οποιαδήποτε εφαρμογή που είναι δημόσια καταχωρισμένη τουλάχιστον σε μία χώρα App Store και επιστρέφεται από το iTunes Search API. Μη καταχωρισμένες, αφαιρεμένες ή εφαρμογές enterprise διανομής δεν θα εμφανιστούν.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Υποστηρίζει εφαρμογές macOS και Apple TV;" closed="true" %}}
+{{% ls-details title="Υποστηρίζει εφαρμογές macOS και Apple TV;" closed="true" %}}
 Ναι. Αν η εφαρμογή έχει στιγμιότυπα macOS ή Apple TV στην απόκριση του iTunes Search API, το AppLookup.pro τα εμφανίζει στο δικό τους πίνακα με κύλιση και κουμπιά λήψης.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Μπορώ να χρησιμοποιήσω το ακατέργαστο JSON στον δικό μου κώδικα;" closed="true" %}}
+{{% ls-details title="Μπορώ να χρησιμοποιήσω το ακατέργαστο JSON στον δικό μου κώδικα;" closed="true" %}}
 Ναι. Η ενότητα Raw API Response εμφανίζει το ακριβές JSON που επιστρέφει η Apple. Αντιγράψτε το στο Postman, σε ένα unit test ή σε μια backend διαδικασία. Σεβαστείτε τους όρους API της Apple και τα λογικά όρια ρυθμού.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Είναι ασφαλές να επικολλώ URLs του App Store στο εργαλείο;" closed="true" %}}
+{{% ls-details title="Είναι ασφαλές να επικολλώ URLs του App Store στο εργαλείο;" closed="true" %}}
 Ναι. Το URL αναλύεται στο πρόγραμμα περιήγησής σας. Η μόνη εξερχόμενη κλήση δικτύου είναι η αναζήτηση στο iTunes Search API της Apple.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Ποια είναι η διαφορά μεταξύ AppLookup.pro και AppKeywords.pro;" closed="true" %}}
+{{% ls-details title="Ποια είναι η διαφορά μεταξύ AppLookup.pro και AppKeywords.pro;" closed="true" %}}
 Το [AppLookup.pro](https://applookup.pro) είναι για την ανάγνωση μεταδεδομένων App Store από οποιαδήποτε δημοσιευμένη εφαρμογή: έρευνα ανταγωνιστών, λήψη υλικού, έλεγχοι τοπικής προσαρμογής. Το [AppKeywords.pro](https://appkeywords.pro) είναι για τη συγγραφή μεταδεδομένων App Store για τη δική σας εφαρμογή: βελτιστοποίηση τίτλου, υπότιτλου και λέξεων-κλειδιών με υποστήριξη Fastlane. Τα δύο εργαλεία συνεργάζονται καλά.
-{{% /details %}}
+{{% /ls-details %}}

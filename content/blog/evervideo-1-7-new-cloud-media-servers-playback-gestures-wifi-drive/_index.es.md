@@ -12,7 +12,7 @@ authors:
     image: "/images/about/artem-meleshko-founder-everappz.webp"
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 **Resumen:** [Evervideo 1.7](/products/evervideo) es una gran actualización del reproductor de vídeo HD para iPhone, iPad y Mac. La versión añade más de 10 nuevas conexiones a la nube, NAS y servidores multimedia — **Internxt**, **Proton Drive**, **QNAP**, **Nextcloud**, **Amazon S3**, además de los servidores multimedia más populares **Plex**, **Subsonic**, **Navidrome**, **Jellyfin** y **Emby**, y tres protocolos de red: **FTP**, **SFTP** y **NFS**. Los nuevos **gestos de reproducción** te permiten dar un doble toque para saltar adelante o atrás, mantener pulsado para reproducir a 2x y un solo toque para mostrar u ocultar los controles — todo sin salir de la pantalla completa. Wi-Fi Drive estrena una interfaz renovada con modo de selección y una cola de carga más inteligente. Toda la app está adaptada al nuevo diseño **Liquid Glass** de Apple.
 
@@ -147,58 +147,58 @@ Si disfrutas de la app, deja una valoración en el App Store — realmente ayuda
 
 ## Preguntas frecuentes
 
-{{% details title="¿Qué hay de nuevo en Evervideo 1.7?" closed="true" %}}
+{{% ls-details title="¿Qué hay de nuevo en Evervideo 1.7?" closed="true" %}}
 Evervideo 1.7 introduce soporte para más de 10 nuevas conexiones (Plex, Jellyfin, Emby, Subsonic, Navidrome, Internxt, Proton Drive, QNAP, Nextcloud, Amazon S3, FTP, SFTP, NFS), nuevos gestos de reproducción (doble toque para buscar, mantener pulsado para velocidad 2x, toque sencillo para mostrar/ocultar controles), un Wi-Fi Drive rediseñado con modo de selección y una cola de carga más inteligente, actualizaciones de diseño Liquid Glass, bibliotecas de conexión actualizadas y muchas correcciones de errores.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="¿Funciona Evervideo con Plex?" closed="true" %}}
+{{% ls-details title="¿Funciona Evervideo con Plex?" closed="true" %}}
 Sí. A partir de Evervideo 1.7, puedes conectarte a un Plex Media Server y transmitir toda tu biblioteca de vídeo — películas, series y vídeos caseros. Plex Media Server es gratuito; Plex Pass es opcional. Evervideo es compatible tanto con configuraciones gratuitas como con Plex Pass, incluida la reproducción directa de MKV, MP4, AVI, MOV y otros formatos sin recodificación.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="¿Se soportan Jellyfin o Navidrome en Evervideo?" closed="true" %}}
+{{% ls-details title="¿Se soportan Jellyfin o Navidrome en Evervideo?" closed="true" %}}
 Sí. Tanto Jellyfin como Navidrome son totalmente compatibles con Evervideo 1.7. Jellyfin es un servidor multimedia gratuito y de código abierto que gestiona vídeo y audio. Navidrome es un servidor gratuito y de código abierto que implementa la API de Subsonic. Evervideo se conecta a ambos de forma nativa.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="¿Son gratuitos Plex, Jellyfin, Emby, Navidrome y Subsonic?" closed="true" %}}
+{{% ls-details title="¿Son gratuitos Plex, Jellyfin, Emby, Navidrome y Subsonic?" closed="true" %}}
 - **Plex** — el servidor es gratis; Plex Pass es una mejora opcional de pago.
 - **Jellyfin** — completamente gratis y de código abierto.
 - **Emby** — el servidor es gratis; Emby Premiere es de pago y desbloquea la sincronización móvil y el modo offline.
 - **Navidrome** — completamente gratis y de código abierto.
 - **Subsonic** — el servidor oficial cuesta 1 $/mes tras una prueba de 30 días, pero su API es abierta y muchos servidores gratuitos (incluido Navidrome) la implementan.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="¿Puedo transmitir desde mi NAS doméstico por SFTP, FTP o NFS?" closed="true" %}}
+{{% ls-details title="¿Puedo transmitir desde mi NAS doméstico por SFTP, FTP o NFS?" closed="true" %}}
 Sí. Evervideo 1.7 añade SFTP, FTP y NFS como tipos de conexión nativos. SFTP es la opción recomendada para transmitir desde tu propio servidor por la red pública, ya que todo el tráfico se cifra mediante SSH. FTP y NFS se usan mejor dentro de tu red local o detrás de una VPN.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="¿Cómo conecto Evervideo a un servidor personalizado por SFTP?" closed="true" %}}
+{{% ls-details title="¿Cómo conecto Evervideo a un servidor personalizado por SFTP?" closed="true" %}}
 Abre Evervideo, ve a la pestaña Conexiones, elige SFTP e introduce el nombre de host o IP del servidor, el puerto (normalmente 22), el nombre de usuario y una contraseña o una clave SSH privada. Evervideo examinará tus carpetas remotas y transmitirá los archivos de vídeo directamente con cifrado de extremo a extremo.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="¿Evervideo es compatible con Internxt y Proton Drive?" closed="true" %}}
+{{% ls-details title="¿Evervideo es compatible con Internxt y Proton Drive?" closed="true" %}}
 Sí. Ambas nubes centradas en la privacidad se admiten a partir de Evervideo 1.7. Se suman a MEGA y a otros servicios con prioridad a la privacidad ya disponibles en la app.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="¿Cómo funcionan los nuevos gestos de reproducción?" closed="true" %}}
+{{% ls-details title="¿Cómo funcionan los nuevos gestos de reproducción?" closed="true" %}}
 En la reproducción de vídeo a pantalla completa, **da un doble toque en el lado derecho** para avanzar y **un doble toque en el lado izquierdo** para retroceder un intervalo configurable (por defecto 10 segundos — cámbialo en Ajustes). **Mantén pulsado** en cualquier parte de la pantalla para acelerar temporalmente a 2x; suelta para volver a la normalidad. **Un toque sencillo** en cualquier parte muestra u oculta los controles de reproducción.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="¿Puedo cambiar el intervalo de salto del doble toque?" closed="true" %}}
+{{% ls-details title="¿Puedo cambiar el intervalo de salto del doble toque?" closed="true" %}}
 Sí. Ve a **Ajustes → Reproducción → Intervalo de salto del gesto** y elige un valor entre 5 y 60 segundos. La mayoría de los usuarios lo mantiene en 10 o 15 segundos.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="¿Qué es Wi-Fi Drive en Evervideo?" closed="true" %}}
+{{% ls-details title="¿Qué es Wi-Fi Drive en Evervideo?" closed="true" %}}
 Wi-Fi Drive es la función integrada de transferencia inalámbrica de archivos de Evervideo. Te permite subir vídeos desde tu ordenador a tu iPhone o iPad a través de tu red Wi-Fi local — sin iTunes, sin cables, sin cuenta en la nube. Puedes usar cualquier navegador de escritorio o un cliente WebDAV como el Finder de Mac o el Explorador de archivos de Windows. Consulta la [guía completa de Wi-Fi Drive](/docs/howto/how-to-transfer-files-wirelessly-from-a-computer-to-an-iphone-using-wifi-drive/).
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="¿Reproduce Evervideo MKV, AVI y otros formatos desde Plex o Jellyfin?" closed="true" %}}
+{{% ls-details title="¿Reproduce Evervideo MKV, AVI y otros formatos desde Plex o Jellyfin?" closed="true" %}}
 Sí. Evervideo reproduce prácticamente cualquier formato de vídeo — MKV, AVI, MP4, MOV, FLV, WMV, WEBM, M4V, TS, 3GP — y los transmite directamente desde Plex, Jellyfin, Emby y otros servidores multimedia sin requerir transcodificación para la mayoría de los códecs. Esto significa menos carga de CPU en tu servidor y tiempos de inicio más rápidos.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="¿Es gratis actualizar a Evervideo 1.7?" closed="true" %}}
+{{% ls-details title="¿Es gratis actualizar a Evervideo 1.7?" closed="true" %}}
 Sí. Evervideo es una descarga gratuita del App Store, y 1.7 es una actualización gratuita para todos los usuarios actuales. Las nuevas integraciones en la nube, el soporte para servidores multimedia, los gestos de reproducción, las mejoras de Wi-Fi Drive y la interfaz Liquid Glass forman parte de la actualización base.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="¿En qué dispositivos está disponible Evervideo 1.7?" closed="true" %}}
+{{% ls-details title="¿En qué dispositivos está disponible Evervideo 1.7?" closed="true" %}}
 Evervideo 1.7 funciona en iPhone, iPad y Mac. AirPlay y Chromecast te permiten enviar la reproducción a una pantalla más grande. La sincronización con iCloud Drive mantiene tu biblioteca y ajustes consistentes en todos los dispositivos.
-{{% /details %}}
+{{% /ls-details %}}

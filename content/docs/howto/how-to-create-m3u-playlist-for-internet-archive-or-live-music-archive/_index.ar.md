@@ -29,7 +29,7 @@ tags: [
 readingTime: 3
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **ملخص:** الصق أي رابط Internet Archive في [archivetom3u.com](https://archivetom3u.com)، اختر صيغة الصوت (MP3، FLAC، OGG)، وقم بتنزيل قائمة تشغيل M3U جاهزة للتشغيل -- لا يلزم إنشاء حساب. ثم قم باستيرادها إلى [Evermusic](https://apps.apple.com/app/apple-store/id885367198?pt=95781850&ct=everappzcom&mt=8) على iPhone أو Mac للتشغيل الفوري.
@@ -69,7 +69,7 @@ readingTime: 3
 اذهب إلى [archive.org](https://archive.org)، انقر على **Audio**، واختر **Live Music Archive**. استخدم شريط البحث للعثور على نوع موسيقي أو فنان أو حفلة تريدها.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="البحث عن الموسيقى في Internet Archive" image="/docs/howto/how-to-create-m3u-playlist-for-internet-archive-or-live-music-archive/1.internet-archive-search.webp" >}}
+  {{< ls-card title="" subtitle="البحث عن الموسيقى في Internet Archive" image="/docs/howto/how-to-create-m3u-playlist-for-internet-archive-or-live-music-archive/1.internet-archive-search.webp" >}}
 {{< /cards >}}
 
 ### 2. انسخ رابط العنصر
@@ -77,7 +77,7 @@ readingTime: 3
 انقر على العنصر الذي تريده، وانسخ الرابط من شريط عنوان المتصفح.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="انسخ رابط العنصر من Internet Archive" image="/docs/howto/how-to-create-m3u-playlist-for-internet-archive-or-live-music-archive/2.internet-archive-copy-item-url.webp" >}}
+  {{< ls-card title="" subtitle="انسخ رابط العنصر من Internet Archive" image="/docs/howto/how-to-create-m3u-playlist-for-internet-archive-or-live-music-archive/2.internet-archive-copy-item-url.webp" >}}
 {{< /cards >}}
 
 ### 3. الصق الرابط في المولد
@@ -85,7 +85,7 @@ readingTime: 3
 ارجع إلى [archivetom3u.com](https://archivetom3u.com) والصق الرابط المنسوخ في حقل الإدخال.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="الصق رابط العنصر في مولد M3U" image="/docs/howto/how-to-create-m3u-playlist-for-internet-archive-or-live-music-archive/3.archive-to-m3u-paste-item-url.webp" >}}
+  {{< ls-card title="" subtitle="الصق رابط العنصر في مولد M3U" image="/docs/howto/how-to-create-m3u-playlist-for-internet-archive-or-live-music-archive/3.archive-to-m3u-paste-item-url.webp" >}}
 {{< /cards >}}
 
 ### 4. اختر صيغة الصوت
@@ -93,7 +93,7 @@ readingTime: 3
 اختر الصيغة التي تريدها (MP3، FLAC، إلخ).
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="اختر صيغة الصوت المفضلة لديك" image="/docs/howto/how-to-create-m3u-playlist-for-internet-archive-or-live-music-archive/4.archive-to-m3u-select-format.webp" >}}
+  {{< ls-card title="" subtitle="اختر صيغة الصوت المفضلة لديك" image="/docs/howto/how-to-create-m3u-playlist-for-internet-archive-or-live-music-archive/4.archive-to-m3u-select-format.webp" >}}
 {{< /cards >}}
 
 ### 5. أنشئ قائمة التشغيل
@@ -101,7 +101,7 @@ readingTime: 3
 انقر على **Generate Playlist**. سيتم عرض محتوى `.m3u` أدناه. يمكنك نسخه أو تنزيله.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="يتم إنشاء قائمة تشغيل M3U تلقائيًا" image="/docs/howto/how-to-create-m3u-playlist-for-internet-archive-or-live-music-archive/5.archive-to-m3u-generated-playlist.webp" >}}
+  {{< ls-card title="" subtitle="يتم إنشاء قائمة تشغيل M3U تلقائيًا" image="/docs/howto/how-to-create-m3u-playlist-for-internet-archive-or-live-music-archive/5.archive-to-m3u-generated-playlist.webp" >}}
 {{< /cards >}}
 
 ### 6. معاينة المسارات
@@ -109,7 +109,7 @@ readingTime: 3
 قم بالتمرير لأسفل لمعاينة كل مسار. تأكد من أن كل شيء يعمل بشكل صحيح.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="معاينة جميع المسارات قبل التنزيل" image="/docs/howto/how-to-create-m3u-playlist-for-internet-archive-or-live-music-archive/6.archive-to-m3u-tracks-preview.webp" >}}
+  {{< ls-card title="" subtitle="معاينة جميع المسارات قبل التنزيل" image="/docs/howto/how-to-create-m3u-playlist-for-internet-archive-or-live-music-archive/6.archive-to-m3u-tracks-preview.webp" >}}
 {{< /cards >}}
 
 ### 7. تنزيل قائمة التشغيل
@@ -117,7 +117,7 @@ readingTime: 3
 انقر على **Download Playlist** لحفظ ملف `.m3u` على جهازك. لا يلزم تسجيل الدخول أو إنشاء حساب.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="تنزيل قائمة تشغيل M3U على جهازك" image="/docs/howto/how-to-create-m3u-playlist-for-internet-archive-or-live-music-archive/7.downloaded-m3u-playlist.webp" >}}
+  {{< ls-card title="" subtitle="تنزيل قائمة تشغيل M3U على جهازك" image="/docs/howto/how-to-create-m3u-playlist-for-internet-archive-or-live-music-archive/7.downloaded-m3u-playlist.webp" >}}
 {{< /cards >}}
 
 ## كيفية تشغيل قائمة تشغيل M3U على macOS أو iOS
@@ -125,14 +125,14 @@ readingTime: 3
 لتشغيل ملف `.m3u` الذي تم تنزيله على جهاز Apple الخاص بك، استخدم تطبيق **Evermusic** (تنزيل مجاني):
 
 {{< cards cols="1">}}
-{{< card link="https://apps.apple.com/app/apple-store/id1564384601?pt=95781850&ct=everappzcom&mt=8" title="Evermusic macOS" icon="download" tag="Free" >}}
-{{< card link="https://apps.apple.com/app/apple-store/id885367198?pt=95781850&ct=everappzcom&mt=8" title="Evermusic iOS" icon="download" tag="Free" >}}
+{{< ls-card link="https://apps.apple.com/app/apple-store/id1564384601?pt=95781850&ct=everappzcom&mt=8" title="Evermusic macOS" icon="download" tag="Free" >}}
+{{< ls-card link="https://apps.apple.com/app/apple-store/id885367198?pt=95781850&ct=everappzcom&mt=8" title="Evermusic iOS" icon="download" tag="Free" >}}
 {{< /cards >}}
 
 ### 1. افتح Evermusic واذهب إلى قوائم التشغيل
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="افتح Evermusic واذهب إلى قوائم التشغيل" image="/docs/howto/how-to-create-m3u-playlist-for-internet-archive-or-live-music-archive/8.evermusic-app-playlists.webp" >}}
+  {{< ls-card title="" subtitle="افتح Evermusic واذهب إلى قوائم التشغيل" image="/docs/howto/how-to-create-m3u-playlist-for-internet-archive-or-live-music-archive/8.evermusic-app-playlists.webp" >}}
 {{< /cards >}}
 
 ### 2. استيراد قائمة التشغيل
@@ -140,7 +140,7 @@ readingTime: 3
 انقر على **Add Playlist**، ثم اختر **Import Playlist**.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="انقر على Import Playlist لإضافة M3U الذي تم تنزيله" image="/docs/howto/how-to-create-m3u-playlist-for-internet-archive-or-live-music-archive/9.evermusic-app-import-playlist.webp" >}}
+  {{< ls-card title="" subtitle="انقر على Import Playlist لإضافة M3U الذي تم تنزيله" image="/docs/howto/how-to-create-m3u-playlist-for-internet-archive-or-live-music-archive/9.evermusic-app-import-playlist.webp" >}}
 {{< /cards >}}
 
 ### 3. اختر موقع قائمة التشغيل
@@ -148,7 +148,7 @@ readingTime: 3
 اختر **Files on this Mac** (أو موقع آخر حيث حفظت الملف).
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="اختر موقع الملف الذي تم تنزيله" image="/docs/howto/how-to-create-m3u-playlist-for-internet-archive-or-live-music-archive/10.select-location.webp" >}}
+  {{< ls-card title="" subtitle="اختر موقع الملف الذي تم تنزيله" image="/docs/howto/how-to-create-m3u-playlist-for-internet-archive-or-live-music-archive/10.select-location.webp" >}}
 {{< /cards >}}
 
 ### 4. منح صلاحية الوصول للمجلد
@@ -156,7 +156,7 @@ readingTime: 3
 يمكن لـ Evermusic الوصول إلى الملفات فقط إذا سمحت بالوصول على مستوى المجلد. حدد المجلد الذي يحتوي على ملف `.m3u` الخاص بك **و** ملفات الصوت المرتبطة بداخله.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="قم بتوصيل المجلد الموجود على جهازك" image="/docs/howto/how-to-create-m3u-playlist-for-internet-archive-or-live-music-archive/11.connect-folder-located-on-your-device.webp" >}}
+  {{< ls-card title="" subtitle="قم بتوصيل المجلد الموجود على جهازك" image="/docs/howto/how-to-create-m3u-playlist-for-internet-archive-or-live-music-archive/11.connect-folder-located-on-your-device.webp" >}}
 {{< /cards >}}
 
 ### 5. اختر مجلد التنزيلات
@@ -164,13 +164,13 @@ readingTime: 3
 في معظم الحالات، يتم حفظ قائمة التشغيل في مجلد **Downloads** الخاص بك.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="اختر مجلد التنزيلات" image="/docs/howto/how-to-create-m3u-playlist-for-internet-archive-or-live-music-archive/12.select-downloads-folder.webp" >}}
+  {{< ls-card title="" subtitle="اختر مجلد التنزيلات" image="/docs/howto/how-to-create-m3u-playlist-for-internet-archive-or-live-music-archive/12.select-downloads-folder.webp" >}}
 {{< /cards >}}
 
 انقر على **Open** لتأكيد الاختيار.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="تم توصيل مجلد التنزيلات الآن" image="/docs/howto/how-to-create-m3u-playlist-for-internet-archive-or-live-music-archive/13.downloads-folder-connected.webp" >}}
+  {{< ls-card title="" subtitle="تم توصيل مجلد التنزيلات الآن" image="/docs/howto/how-to-create-m3u-playlist-for-internet-archive-or-live-music-archive/13.downloads-folder-connected.webp" >}}
 {{< /cards >}}
 
 ### 6. حدد ملف قائمة التشغيل
@@ -180,7 +180,7 @@ readingTime: 3
 انقر على **Done** لتأكيد الاختيار.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="حدد ملف قائمة تشغيل M3U من المجلد" image="/docs/howto/how-to-create-m3u-playlist-for-internet-archive-or-live-music-archive/14.m3u-playlist-selected-from-connected-folder.webp" >}}
+  {{< ls-card title="" subtitle="حدد ملف قائمة تشغيل M3U من المجلد" image="/docs/howto/how-to-create-m3u-playlist-for-internet-archive-or-live-music-archive/14.m3u-playlist-selected-from-connected-folder.webp" >}}
 {{< /cards >}}
 
 ### 7. تم استيراد قائمة التشغيل بنجاح
@@ -188,7 +188,7 @@ readingTime: 3
 سيقوم التطبيق بتحليل قائمة التشغيل وإضافتها إلى مكتبتك.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="تم استيراد قائمة التشغيل بنجاح" image="/docs/howto/how-to-create-m3u-playlist-for-internet-archive-or-live-music-archive/15.playlist-imported.webp" >}}
+  {{< ls-card title="" subtitle="تم استيراد قائمة التشغيل بنجاح" image="/docs/howto/how-to-create-m3u-playlist-for-internet-archive-or-live-music-archive/15.playlist-imported.webp" >}}
 {{< /cards >}}
 
 ### 8. افتح قائمة التشغيل وشغلها
@@ -196,13 +196,13 @@ readingTime: 3
 انقر على قائمة التشغيل لرؤية جميع المسارات وبدء التشغيل.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="افتح قائمة التشغيل واعرض قائمة المسارات" image="/docs/howto/how-to-create-m3u-playlist-for-internet-archive-or-live-music-archive/16.playlist-opened.webp" >}}
+  {{< ls-card title="" subtitle="افتح قائمة التشغيل واعرض قائمة المسارات" image="/docs/howto/how-to-create-m3u-playlist-for-internet-archive-or-live-music-archive/16.playlist-opened.webp" >}}
 {{< /cards >}}
 
 بعد بضع ثوانٍ، سيقوم Evermusic بتحميل جميع البيانات الوصفية وتحديث عرض المسارات.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="قائمة التشغيل جاهزة للتشغيل" image="/docs/howto/how-to-create-m3u-playlist-for-internet-archive-or-live-music-archive/17.playlist-opened-2.webp" >}}
+  {{< ls-card title="" subtitle="قائمة التشغيل جاهزة للتشغيل" image="/docs/howto/how-to-create-m3u-playlist-for-internet-archive-or-live-music-archive/17.playlist-opened-2.webp" >}}
 {{< /cards >}}
 
 ## الخصوصية والمصدر المفتوح
@@ -221,22 +221,22 @@ readingTime: 3
 
 ## الأسئلة الشائعة
 
-{{% details title="هل أداة إنشاء M3U مجانية الاستخدام؟" closed="true" %}}
+{{% ls-details title="هل أداة إنشاء M3U مجانية الاستخدام؟" closed="true" %}}
 نعم. الأداة في [archivetom3u.com](https://archivetom3u.com) مجانية تمامًا، ولا تتطلب إنشاء حساب، وتعمل بالكامل في متصفحك.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="ما هي صيغ الصوت التي يمكنني تضمينها في قائمة تشغيل M3U؟" closed="true" %}}
+{{% ls-details title="ما هي صيغ الصوت التي يمكنني تضمينها في قائمة تشغيل M3U؟" closed="true" %}}
 يمكنك اختيار VBR MP3 أو FLAC أو 24-bit FLAC أو OGG Vorbis. ستظهر فقط المسارات المتاحة بالصيغة المحددة في قائمة التشغيل.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="هل يمكنني تشغيل قوائم تشغيل M3U على iPhone أو Mac؟" closed="true" %}}
+{{% ls-details title="هل يمكنني تشغيل قوائم تشغيل M3U على iPhone أو Mac؟" closed="true" %}}
 نعم. قم بتنزيل تطبيق Evermusic المجاني لـ iOS أو macOS، ثم استخدم ميزة Import Playlist لتحميل ملف `.m3u` الخاص بك.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="هل تقوم الأداة بتخزين بياناتي أو استضافة أي موسيقى؟" closed="true" %}}
+{{% ls-details title="هل تقوم الأداة بتخزين بياناتي أو استضافة أي موسيقى؟" closed="true" %}}
 لا. تتم جميع المعالجة محليًا في متصفحك. لا يتم تخزين أي بيانات، وجميع تدفقات الصوت تأتي مباشرة من archive.org.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="هل هذه الأداة تابعة لـ Internet Archive؟" closed="true" %}}
+{{% ls-details title="هل هذه الأداة تابعة لـ Internet Archive؟" closed="true" %}}
 لا. إنها مشروع مستقل مفتوح المصدر تم إنشاؤه للراحة. تستخدم واجهة برمجة تطبيقات البيانات الوصفية الرسمية لـ Internet Archive لإنشاء قوائم التشغيل.
-{{% /details %}}
+{{% /ls-details %}}

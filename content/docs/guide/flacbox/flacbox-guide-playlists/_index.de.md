@@ -20,7 +20,7 @@ Im Bereich Wiedergabelisten findest du hilfreiche Tools zur Verwaltung deiner Mu
 Wiedergabelisten in Flacbox können eine Mischung aus Online-Cloud-Titeln, offline heruntergeladenen Dateien und lokalen Dateien von deinem Gerät enthalten — alles in einer Wiedergabeliste — und nahtlos zusammen abgespielt werden.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox Wiedergabelisten-Hauptbildschirm" image="/docs/guide/flacbox/img/playlists-main.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox Wiedergabelisten-Hauptbildschirm" image="/docs/guide/flacbox/img/playlists-main.webp" >}}
 {{< /cards >}}
 
 ## Eine Wiedergabeliste Erstellen
@@ -63,7 +63,7 @@ Wenn du eine Wiedergabeliste öffnest, erscheint der Wiedergabelisten-Detailbild
 - **Offline-Modus** — lädt alle Titel dieser Wiedergabeliste in lokale Dateien herunter. Neu zur Wiedergabeliste hinzugefügte Elemente werden ebenfalls automatisch heruntergeladen.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox Wiedergabelisten-Detailbildschirm" image="/docs/guide/flacbox/img/playlist-details-screen.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox Wiedergabelisten-Detailbildschirm" image="/docs/guide/flacbox/img/playlist-details-screen.webp" >}}
 {{< /cards >}}
 
 ## Weitere Aktionen für eine Wiedergabeliste im Wiedergabelisten-Bildschirm
@@ -82,7 +82,7 @@ Du kannst auf Aktionen für eine Wiedergabeliste zugreifen, indem du auf die **�
 - **Wiedergabeliste löschen** — löscht die Wiedergabeliste aus der Musikbibliothek. **Diese Aktion kann nicht rückgängig gemacht werden.**
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox Weitere Aktionen für eine Wiedergabeliste im Wiedergabelisten-Hauptbildschirm" image="/docs/guide/flacbox/img/more-actions-for-playlist-in-playlists-main-screen.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox Weitere Aktionen für eine Wiedergabeliste im Wiedergabelisten-Hauptbildschirm" image="/docs/guide/flacbox/img/more-actions-for-playlist-in-playlists-main-screen.webp" >}}
 {{< /cards >}}
 
 ## Weitere Aktionen für eine Wiedergabeliste im Wiedergabelisten-Detailbildschirm
@@ -110,7 +110,7 @@ Um die Reihenfolge der Songs in einer Wiedergabeliste zu ändern, tippe auf die 
 Für einen noch einfacheren Ablauf bei langen Wiedergabelisten, wähle Weitere Aktionen → Songs neu anordnen, um den dedizierten Drag-and-Drop-Neuanordnungsmodus zu aktivieren.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox Songs in einer Wiedergabeliste neu anordnen" image="/docs/guide/flacbox/img/playlist-details-rearange-songs.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox Songs in einer Wiedergabeliste neu anordnen" image="/docs/guide/flacbox/img/playlist-details-rearange-songs.webp" >}}
 {{< /cards >}}
 
 ## Wiedergabelisten-Cover-Bild Ändern
@@ -126,7 +126,7 @@ Um das Cover-Bild einer Wiedergabeliste zu ändern, tippe auf die **„..."**-Sc
 Öffne die Wiedergabeliste, tippe auf die **„..."**-Schaltfläche oben rechts und wähle **Auswählen**, um den Auswahlmodus zu aktivieren. Wähle die Titel aus, die du löschen möchtest, und tippe auf **Aus Wiedergabeliste löschen** unten auf dem Bildschirm. Bestätige mit **Fertig**.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox Auswahlmodus im Wiedergabelisten-Detailbildschirm" image="/docs/guide/flacbox/img/selection-mode-playlist-details-screen.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox Auswahlmodus im Wiedergabelisten-Detailbildschirm" image="/docs/guide/flacbox/img/selection-mode-playlist-details-screen.webp" >}}
 {{< /cards >}}
 
 ## Titeloptionen

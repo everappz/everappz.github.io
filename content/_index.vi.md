@@ -20,16 +20,16 @@ headless: false
 ---
 
 <!-- force dark theme for this page -->
-{{< force-dark >}}
+{{< ls-force-dark >}}
 
-{{< dark-gradient-bg >}}
+{{< ls-dark-gradient-bg >}}
 
-{{< home-hero-banner >}}
+{{< ls-home-hero-banner >}}
 
 <div class="hx:mt-12"></div>
 
 <div class="hx:w-full">
-{{< hero-slideshow >}}
+{{< ls-hero-slideshow >}}
 </div>
 
 <div class="hx:mt-16"></div>
@@ -38,21 +38,21 @@ headless: false
 
 {{< hextra/feature-grid >}}
 
-  {{< hextra/feature-card
+  {{< ls-glass-feature-card
     title="Xây dựng cho bạn. Cải thiện bởi bạn."
     subtitle=`Chúng tôi đọc tất cả đánh giá và sử dụng phản hồi của bạn để cải thiện mỗi bản cập nhật.`
     icon="code"
     style="background: radial-gradient(circle at 50% 80%, rgba(99,102,241,0.15), transparent);"
   >}}
 
-  {{< hextra/feature-card
+  {{< ls-glass-feature-card
     title="Hiệu suất đáp ứng mục đích."
     subtitle=`Không cồng kềnh. Chỉ là các ứng dụng gọn gàng, ổn định với các tính năng quan trọng.`
     icon="presentation-chart-line"
     style="background: radial-gradient(circle at 50% 80%, rgba(236,72,153,0.15), transparent);"
   >}}
 
-  {{< hextra/feature-card
+  {{< ls-glass-feature-card
     title="Quyền riêng tư. Khả năng tiếp cận. Sự đơn giản."
     subtitle=`Dễ sử dụng, hoàn toàn có thể tiếp cận và được xây dựng với sự quan tâm đến quyền riêng tư của bạn.`
     icon="shield-check"
@@ -66,20 +66,20 @@ headless: false
 <div class="hx:mt-12"></div>
 
 <div class="hx:w-full">
-{{< press-carousel >}}
+{{< ls-press-carousel >}}
 </div>
 
 <div class="hx:mt-12"></div>
 
-{{< hextra/section-headline >}}
+{{< ls-section-headline >}}
 Sản phẩm của chúng tôi
-{{< /hextra/section-headline >}}
+{{< /ls-section-headline >}}
 
 <div class="hx:mt-6"></div>
 
 <div class="hx:w-full">
 
-{{< product-cards >}}
+{{< ls-product-cards >}}
 
 </div>
 
@@ -88,38 +88,38 @@ Sản phẩm của chúng tôi
 <div class="hx:mt-6"></div>
 
 <div class="hx:w-full">
-{{< appstore-reviews apps="1097564256,1594027432,885367198,1564384601,1450763230,1594027661" stars="5,4" >}}
+{{< ls-appstore-reviews apps="1097564256,1594027432,885367198,1564384601,1450763230,1594027661" stars="5,4" >}}
 </div>
 
 <div class="hx:mt-6"></div>
 
-{{< hextra/section-headline >}}
+{{< ls-section-headline >}}
 Tin tức mới nhất
-{{< /hextra/section-headline >}}
+{{< /ls-section-headline >}}
 
 <div class="hx:mt-6"></div>
 
 <div class="hx:w-full">
 
-{{< blog-cards >}}
+{{< ls-blog-cards >}}
 
 </div>
 
 <div class="hx:mt-6"></div>
 
-{{< hextra/section-headline >}}
+{{< ls-section-headline >}}
 Đăng ký
-{{< /hextra/section-headline >}}
+{{< /ls-section-headline >}}
 
 <div class="hx:mt-6"></div>
 
 <div class="hx:w-full hx:text-center">
 
-{{< hextra/hero-paragraph >}}
+{{< ls-hero-paragraph >}}
 Tham gia cùng những người nhận tin tức mới nhất và ưu đãi độc quyền từ đội ngũ Everappz.  
 Đừng quên theo dõi chúng tôi trên mạng xã hội để cập nhật tin tức và thông tin mới nhất về ứng dụng.  
 Bằng cách đăng ký, bạn đồng ý với [Chính sách bảo mật](/legal/privacy-policy) và chấp nhận [Điều khoản và Điều kiện](/legal/terms-and-conditions/).
-{{< /hextra/hero-paragraph >}}
+{{< /ls-hero-paragraph >}}
 
 </div>
 
@@ -127,7 +127,7 @@ Bằng cách đăng ký, bạn đồng ý với [Chính sách bảo mật](/lega
 
 <div class="hx:w-full hx:text-center">
 
-{{< rawhtml >}}
+{{< ls-rawhtml >}}
 
 <form action="https://everappz.us10.list-manage.com/subscribe/post?u=f758cdf6a38df2a75513ac5f1&amp;id=2373740226" 
 method="post" 
@@ -167,7 +167,7 @@ style="position: absolute; width: 0; height: 0; overflow: hidden;" aria-hidden="
 class="not-prose hx:font-bold hx:cursor-pointer hx:px-6 hx:py-3 hx:rounded-full hx:text-center hx:text-white hx:inline-flex hx:items-center hx:gap-2 hx:bg-primary-600 hx:hover:bg-primary-700 hx:focus:outline-hidden hx:focus:ring-4 hx:focus:ring-primary-300 hx:dark:bg-primary-600 hx:dark:hover:bg-primary-700 hx:dark:focus:ring-primary-800 hx:transition-all hx:ease-in hx:duration-200" 
 style="outline: none; box-shadow: none;">Đăng ký</button>
 
-{{< /rawhtml >}}
+{{< /ls-rawhtml >}}
 
 </div>
 

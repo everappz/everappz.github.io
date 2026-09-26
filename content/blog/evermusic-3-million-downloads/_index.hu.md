@@ -12,7 +12,7 @@ authors:
     image: "/images/about/artem-meleshko-founder-everappz.webp"
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 ## 3 millió letöltés
 
@@ -98,22 +98,22 @@ Az Evermusic ingyenes az App Store-ban opcionális prémium funkciókkal.
 
 ## Gyakran ismételt kérdések
 
-{{% details title="Ingyenes az Evermusic?" closed="true" %}}
+{{% ls-details title="Ingyenes az Evermusic?" closed="true" %}}
 Igen. Az Evermusic ingyenesen letölthető, az alapfunkciók költségmentesen elérhetők. A prémium funkciók, mint a hangszínszabályzó és a fejlett felhőopciók, opcionális frissítésen keresztül érhetők el.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Le tud játszani az Evermusic hangoskönyveket?" closed="true" %}}
+{{% ls-details title="Le tud játszani az Evermusic hangoskönyveket?" closed="true" %}}
 Igen. Az Evermusic menti a lejátszási pozíciódat, támogatja a könyvjelzőket, az állítható lejátszási sebességet (0,5x-től 2,0x-ig) és az alvásidőzítőket — így alkalmas hangoskönyvekre és podcastokra.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Milyen felhőszolgáltatásokhoz csatlakozik az Evermusic?" closed="true" %}}
+{{% ls-details title="Milyen felhőszolgáltatásokhoz csatlakozik az Evermusic?" closed="true" %}}
 Dropbox, Google Drive, OneDrive, Box, MEGA, Yandex.Disk, MyDrive, pCloud, HiDrive, SMB fájlmegosztások és WebDAV szerverek.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Használhatok SD kártyát az Evermusic-kal?" closed="true" %}}
+{{% ls-details title="Használhatok SD kártyát az Evermusic-kal?" closed="true" %}}
 Igen. Csatlakoztass egy Lightning vagy USB-C SD kártya olvasót az iPhone-odhoz vagy iPadedhez, és streamelj zenét közvetlenül a kártyáról az Evermusic-on keresztül.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Működik az Evermusic Macen?" closed="true" %}}
+{{% ls-details title="Működik az Evermusic Macen?" closed="true" %}}
 Igen. Az Evermusic iOS-re és macOS-re is elérhető, felhő streaminggel és offline lejátszással minden platformon.
-{{% /details %}}
+{{% /ls-details %}}

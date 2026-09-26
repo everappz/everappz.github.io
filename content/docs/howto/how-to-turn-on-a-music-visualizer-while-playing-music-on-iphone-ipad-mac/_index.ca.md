@@ -7,12 +7,12 @@ tags: ["Evermusic", "Flacbox", "Visualitzador", "Com fer-ho", "Milkdrop", "proje
 readingTime: 9
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 **Resposta ràpida:** [Evermusic](/products/evermusic) i [Flacbox](/products/flacbox) tenen tots dos un **visualitzador de música** a pantalla completa que pinta visuals mòbils i acolorits al ritme de la teva música. Obre'l des del reproductor **En reproducció** (**⋯ Més accions > Visualització**) o des de **Configuració > Visualització**, després tria un preajust o **Automàtic** i toca **Iniciar visualització**. A la pantalla del visualitzador, toca una vegada per mostrar o amagar els controls i utilitza les fletxes **Anterior** i **Següent** per canviar l'aspecte. Utilitza el conegut motor **Milkdrop (projectM)** amb **500 preajustos**, renderitza amb **OpenGL** i funciona a l'**iPhone, l'iPad i el Mac**. Els passos són els mateixos a totes dues aplicacions. Els passos complets són a sota.
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Visualitzador de música: preajust Starfield Sectors" image="/docs/howto/how-to-turn-on-a-music-visualizer-while-playing-music-on-iphone-ipad-mac/music-visualizer-starfield-sectors-preset.webp" imageStyle="border-radius: clamp(14px, 2vw, 28px);" >}}
+{{< ls-card title="" subtitle="Visualitzador de música: preajust Starfield Sectors" image="/docs/howto/how-to-turn-on-a-music-visualizer-while-playing-music-on-iphone-ipad-mac/music-visualizer-starfield-sectors-preset.webp" imageStyle="border-radius: clamp(14px, 2vw, 28px);" >}}
 {{< /cards >}}
 
 ## Què és el visualitzador?
@@ -85,50 +85,50 @@ De qualsevol manera, els visuals reaccionen a l'àudio exacte que estàs reprodu
 
 ## Preguntes freqüents
 
-{{% details title="Com activo el visualitzador a Evermusic o Flacbox?" closed="true" %}}
+{{% ls-details title="Com activo el visualitzador a Evermusic o Flacbox?" closed="true" %}}
 Obre el reproductor En reproducció, toca el botó ⋯ (Més accions) i tria Visualització. També pots obrir-lo des de Configuració > Visualització. Després tria un preajust (o Automàtic) i toca Iniciar visualització. Els passos són els mateixos a totes dues aplicacions.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="En què es basa el visualitzador?" closed="true" %}}
+{{% ls-details title="En què es basa el visualitzador?" closed="true" %}}
 Utilitza el motor de codi obert projectM, que reprodueix preajustos d'estil Milkdrop. Aquests són els visuals animats i reactius a la música que molta gent coneix dels reproductors de música d'escriptori. Tant Evermusic com Flacbox inclouen 500 preajustos i els dibuixen amb OpenGL.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Quants preajustos de visualitzador hi ha?" closed="true" %}}
+{{% ls-details title="Quants preajustos de visualitzador hi ha?" closed="true" %}}
 500 preajustos. Cadascun és una escena animada diferent, i pots moure't per ells amb les fletxes Següent i Anterior, o deixar que el mode Automàtic els barregi per tu.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="El visualitzador reacciona a la música?" closed="true" %}}
+{{% ls-details title="El visualitzador reacciona a la música?" closed="true" %}}
 Sí. Els visuals responen a l'àudio que estàs reproduint en temps real, així les formes, els colors i el moviment canvien amb el ritme i l'energia de la pista. Funciona amb fitxers locals, unitats al núvol, servidors multimèdia i ràdio per internet.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Com canvio el preajust del visualitzador?" closed="true" %}}
+{{% ls-details title="Com canvio el preajust del visualitzador?" closed="true" %}}
 Toca la pantalla una vegada per mostrar els controls, després utilitza les fletxes Anterior i Següent de la part inferior per moure't entre preajustos. El nom i el comptador de la part superior (per exemple, 429 / 500) s'actualitzen a mesura que els canvies. També pots iniciar en mode Automàtic perquè l'aplicació canviï els preajustos automàticament.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Què és el mode Automàtic?" closed="true" %}}
+{{% ls-details title="Què és el mode Automàtic?" closed="true" %}}
 El mode Automàtic, triat des del selector de preajustos, barreja els preajustos per si sol, canviant a un de nou cada 30 segons amb un fos encreuat suau. És la manera més fàcil de gaudir de l'espectacle sense tocar la pantalla.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Com amago els controls a la pantalla?" closed="true" %}}
+{{% ls-details title="Com amago els controls a la pantalla?" closed="true" %}}
 Toca la pantalla una vegada per amagar els controls i obtenir una vista neta a pantalla completa, i toca de nou per tornar-los a mostrar. Els controls també s'amaguen sols després d'uns segons.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="El visualitzador funciona al Mac?" closed="true" %}}
+{{% ls-details title="El visualitzador funciona al Mac?" closed="true" %}}
 Sí. Al Mac, tant Evermusic com Flacbox obren el visualitzador a la seva pròpia finestra i el dibuixen amb OpenGL d'escriptori natiu, així obtens els mateixos visuals Milkdrop reactius a la música en una pantalla gran.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="El visualitzador funciona a l'iPhone i l'iPad?" closed="true" %}}
+{{% ls-details title="El visualitzador funciona a l'iPhone i l'iPad?" closed="true" %}}
 Sí. A l'iPhone i l'iPad funciona a pantalla completa, dibuixat amb OpenGL ES per a una animació suau en pantalles Retina.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="La meva pantalla s'atenuarà o es bloquejarà mentre el visualitzador estigui en marxa?" closed="true" %}}
+{{% ls-details title="La meva pantalla s'atenuarà o es bloquejarà mentre el visualitzador estigui en marxa?" closed="true" %}}
 No. L'aplicació manté la pantalla desperta mentre el visualitzador està activat, així que l'espectacle no serà interromput per l'atenuació o el bloqueig de la pantalla.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="L'aplicació recorda el preajust que he triat?" closed="true" %}}
+{{% ls-details title="L'aplicació recorda el preajust que he triat?" closed="true" %}}
 Sí. L'últim preajust que vas seleccionar es desa i es destaca al selector de preajustos, així és fàcil tornar al teu favorit.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="On es mostra el nom del preajust actual?" closed="true" %}}
+{{% ls-details title="On es mostra el nom del preajust actual?" closed="true" %}}
 Al centre superior de la pantalla del visualitzador, juntament amb un comptador com 429 / 500 que mostra en quin preajust estàs del conjunt complet. A la captura de pantalla d'exemple, el preajust és Starfield Sectors.
-{{% /details %}}
+{{% /ls-details %}}

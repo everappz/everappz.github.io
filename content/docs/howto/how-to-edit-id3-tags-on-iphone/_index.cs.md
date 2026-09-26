@@ -7,7 +7,7 @@ tags: ["mp3", "editor", "iPhone", "tagy", "metadata", "id3"]
 readingTime: 2
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **Shrnutí:** Použijte vestavěný editor tagů v Evermusic nebo Flacbox k úpravě ID3 tagů na iPhone nebo Mac -- pro cloudové i lokální soubory. Potřebujete hromadnou úpravu nebo více než 120 polí tagů? Použijte místo toho [Evertag](https://apps.apple.com/app/apple-store/id1450763230?pt=95781850&ct=everappzcom&mt=8).
@@ -21,8 +21,8 @@ Když importujete písně do hudební knihovny, jsou inteligentně seskupeny pod
 Zatímco mnoho desktopových aplikací nabízí úpravu metadat, Evermusic a Flacbox posouvají jednoduchost na další úroveň zahrnutím editoru ID3 tagů. Nyní můžete používat jednu aplikaci k budování hudební knihovny, poslouchání skladeb a opravě audio tagů.
 
 {{< cards cols="2">}}
-{{< card link="https://apps.apple.com/app/apple-store/id885367198?pt=95781850&ct=everappzcom&mt=8" title="Stáhnout Evermusic" icon="download" tag="Free" >}}
-{{< card link="https://apps.apple.com/app/apple-store/id1097564256?pt=95781850&ct=everappzcom&mt=8" title="Stáhnout Flacbox" icon="download" tag="Free" >}}
+{{< ls-card link="https://apps.apple.com/app/apple-store/id885367198?pt=95781850&ct=everappzcom&mt=8" title="Stáhnout Evermusic" icon="download" tag="Free" >}}
+{{< ls-card link="https://apps.apple.com/app/apple-store/id1097564256?pt=95781850&ct=everappzcom&mt=8" title="Stáhnout Flacbox" icon="download" tag="Free" >}}
 {{< /cards >}}
 
 ## Profesionální editor
@@ -30,7 +30,7 @@ Zatímco mnoho desktopových aplikací nabízí úpravu metadat, Evermusic a Fla
 Než začnete, podívejte se na aplikaci **Evertag** — podporuje **120+ audio tagů**, **30+ audio formátů** a nabízí výkonnou **hromadnou úpravu**. Pokud hledáte plně vybavený nástroj pro správu tagů, Evertag je tou správnou volbou. Pokud ale potřebujete pouze **jednoduchý editor tagů**, pokračujte s tímto návodem.
 
 {{< cards >}}
-{{< card link="https://apps.apple.com/app/apple-store/id1450763230?pt=95781850&ct=everappzcom&mt=8" title="Stáhnout Evertag" icon="download" tag="Free" >}}
+{{< ls-card link="https://apps.apple.com/app/apple-store/id1450763230?pt=95781850&ct=everappzcom&mt=8" title="Stáhnout Evertag" icon="download" tag="Free" >}}
 {{< /cards >}}
 
 
@@ -38,21 +38,21 @@ Než začnete, podívejte se na aplikaci **Evertag** — podporuje **120+ audio 
 Propojte svůj preferovaný cloudový účet v aplikaci.
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Připojit cloudový server" image="/docs/howto/how-to-edit-id3-tags-on-iphone/connect_cloud_server.webp" >}}
+{{< ls-card title="" subtitle="Připojit cloudový server" image="/docs/howto/how-to-edit-id3-tags-on-iphone/connect_cloud_server.webp" >}}
 {{< /cards >}}
 
 ## Přejděte k audio souborům  
 Otevřete složku obsahující vaše audio soubory v připojeném cloudovém účtu.
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Cloudové složky" image="/docs/howto/how-to-edit-id3-tags-on-iphone/cloud_server_folders.webp" >}}
+{{< ls-card title="" subtitle="Cloudové složky" image="/docs/howto/how-to-edit-id3-tags-on-iphone/cloud_server_folders.webp" >}}
 {{< /cards >}}
 
 ## Přístup k možnostem souboru  
 Klepněte na tlačítko "Více" ('...') vedle souboru, který chcete upravit.
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Další akce" image="/docs/howto/how-to-edit-id3-tags-on-iphone/cloud_server_audio_more_actions.webp" >}}
+{{< ls-card title="" subtitle="Další akce" image="/docs/howto/how-to-edit-id3-tags-on-iphone/cloud_server_audio_more_actions.webp" >}}
 {{< /cards >}}
 
 ## Zvolte "Upravit audio tagy"  
@@ -70,7 +70,7 @@ Na obrazovce "Editor tagů" upravte pole metadat jako Název, Interpret, Album, 
 Po dokončení úprav klepněte na tlačítko "Uložit" pro uložení změn.
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Editor tagů" image="/docs/howto/how-to-edit-id3-tags-on-iphone/tags_editor.webp" >}}
+{{< ls-card title="" subtitle="Editor tagů" image="/docs/howto/how-to-edit-id3-tags-on-iphone/tags_editor.webp" >}}
 {{< /cards >}}
 
 ## Inteligentní automatické doplňování  
@@ -88,7 +88,7 @@ Můžete upravovat audio tagy souborů uložených **přímo na vašem zařízen
 - **Přejděte do sekce "Místní soubory"**, poté přejděte dolů na **"Soubory na tomto zařízení."**
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Soubory na tomto zařízení" image="/docs/howto/how-to-edit-id3-tags-on-iphone/local_files.webp" >}}
+{{< ls-card title="" subtitle="Soubory na tomto zařízení" image="/docs/howto/how-to-edit-id3-tags-on-iphone/local_files.webp" >}}
 {{< /cards >}}
 
 - Klepněte na **"Připojit složku"**.
@@ -96,25 +96,25 @@ Můžete upravovat audio tagy souborů uložených **přímo na vašem zařízen
 - Ve výběru složek zvolte adresář, ke kterému chcete přistupovat, a klepněte na **"Otevřít"** pro potvrzení.
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Připojit externí složku" image="/docs/howto/how-to-edit-id3-tags-on-iphone/connect_external_folder.webp" >}}
+{{< ls-card title="" subtitle="Připojit externí složku" image="/docs/howto/how-to-edit-id3-tags-on-iphone/connect_external_folder.webp" >}}
 {{< /cards >}}
 
 - Po přidání složky na ni klepněte pro zobrazení souborů uvnitř.
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Obsah externí složky" image="/docs/howto/how-to-edit-id3-tags-on-iphone/connected_external_folder.webp" >}}
+{{< ls-card title="" subtitle="Obsah externí složky" image="/docs/howto/how-to-edit-id3-tags-on-iphone/connected_external_folder.webp" >}}
 {{< /cards >}}
 
 - Stejně jako u cloudových souborů klepněte na tlačítko **"Další akce"** vedle audio souboru a vyberte **"Upravit audio tagy".**
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Další akce - Místní soubor" image="/docs/howto/how-to-edit-id3-tags-on-iphone/more_actions_local_file.webp" >}}
+{{< ls-card title="" subtitle="Další akce - Místní soubor" image="/docs/howto/how-to-edit-id3-tags-on-iphone/more_actions_local_file.webp" >}}
 {{< /cards >}}
 
 - Otevře se editor tagů. Proveďte změny a klepněte na **"Uložit"**. To je vše! Vaše úpravy se aplikují přímo na soubor — není třeba ho kopírovat ani přesouvat.
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Editor tagů - Místní soubor" image="/docs/howto/how-to-edit-id3-tags-on-iphone/tag_editor_local_file.webp" >}}
+{{< ls-card title="" subtitle="Editor tagů - Místní soubor" image="/docs/howto/how-to-edit-id3-tags-on-iphone/tag_editor_local_file.webp" >}}
 {{< /cards >}}
 
 ## Úprava obalu alba
@@ -126,7 +126,7 @@ Pro změnu obalu alba:
 3. Vyberte obrázek, který chcete použít jako obal.
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Vybrat obrázek" image="/docs/howto/how-to-edit-id3-tags-on-iphone/tags_editor_choose_image.webp" >}}
+{{< ls-card title="" subtitle="Vybrat obrázek" image="/docs/howto/how-to-edit-id3-tags-on-iphone/tags_editor_choose_image.webp" >}}
 {{< /cards >}}
 
 ## Další akce v editoru tagů
@@ -134,7 +134,7 @@ Pro změnu obalu alba:
 Další možnosti úprav jsou dostupné přes panel nástrojů pod zobrazením obalů.
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Nabídka dalších akcí" image="/docs/howto/how-to-edit-id3-tags-on-iphone/tags_edito_more_actions.webp" >}}
+{{< ls-card title="" subtitle="Nabídka dalších akcí" image="/docs/howto/how-to-edit-id3-tags-on-iphone/tags_edito_more_actions.webp" >}}
 {{< /cards >}}
 
 ### Automatické vyhledávání audio tagů
@@ -195,22 +195,22 @@ Zjednodušte správu hudební knihovny a úpravu tagů s Evermusic a Flacbox. U�
 
 ## Často kladené otázky
 
-{{% details title="Jaké audio formáty mohu upravovat?" closed="true" %}}
+{{% ls-details title="Jaké audio formáty mohu upravovat?" closed="true" %}}
 Evermusic a Flacbox podporují úpravu tagů pro MP3, FLAC, AAC, OGG a další běžné audio formáty. Evertag podporuje 30+ formátů včetně WAV, AIFF, WMA a APE.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Mohu upravovat tagy souborů uložených v cloudových službách?" closed="true" %}}
+{{% ls-details title="Mohu upravovat tagy souborů uložených v cloudových službách?" closed="true" %}}
 Ano. Připojte svůj účet Dropbox, Google Drive, OneDrive nebo jiný cloudový účet. Aplikace stáhne soubor, umožní vám upravit tagy a automaticky nahraje upravený soubor zpět do cloudu.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Jaký je rozdíl mezi Evermusic/Flacbox a Evertag?" closed="true" %}}
+{{% ls-details title="Jaký je rozdíl mezi Evermusic/Flacbox a Evertag?" closed="true" %}}
 Evermusic a Flacbox jsou hudební přehrávače s vestavěným základním editorem tagů. Evertag je specializovaný editor tagů podporující 120+ audio tagů, hromadnou úpravu a 30+ formátů -- ideální pro správu velkých knihoven.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Vyžaduje funkce automatického vyhledávání připojení k internetu?" closed="true" %}}
+{{% ls-details title="Vyžaduje funkce automatického vyhledávání připojení k internetu?" closed="true" %}}
 Ano. Funkce automatického vyhledávání audio tagů se dotazuje online databáze MusicBrainz pro nalezení a vyplnění metadat. Pro tuto funkci je vyžadováno aktivní připojení k internetu.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Změní úprava tagů kvalitu zvuku?" closed="true" %}}
+{{% ls-details title="Změní úprava tagů kvalitu zvuku?" closed="true" %}}
 Ne. Úprava tagů mění pouze metadata vložená do souboru. Samotná audio data zůstávají nedotčena -- nedochází k žádnému překódování.
-{{% /details %}}
+{{% /ls-details %}}

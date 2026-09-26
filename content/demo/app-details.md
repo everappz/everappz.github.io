@@ -18,7 +18,7 @@ download button on the left, with the full detail sheet on the right.
 ## Usage
 
 ```
-{{</* app-details ids="885367198, 1097564256" */>}}
+{{</* ls-app-details ids="885367198, 1097564256" */>}}
 ```
 
 Pass a comma-separated list of App Store numeric IDs to the `ids` param
@@ -28,4 +28,4 @@ Pass a comma-separated list of App Store numeric IDs to the `ids` param
 
 Evermusic, Flacbox, EverVideo, Evertag and Everdisk — iOS and Mac editions.
 
-{{< app-details ids="885367198, 905746421, 1564384601, 1097564256, 1594027432, 6602897336, 6743504109, 1450763230, 1594027661, 6751851132" >}}
+{{< ls-app-details ids="885367198, 905746421, 1564384601, 1097564256, 1594027432, 6602897336, 6743504109, 1450763230, 1594027661, 6751851132" >}}

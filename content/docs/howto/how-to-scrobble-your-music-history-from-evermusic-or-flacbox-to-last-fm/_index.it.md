@@ -17,7 +17,7 @@ keywords: [
 readingTime: 2
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **In breve:** Sia Evermusic che Flacbox dispongono di scrobbling Last.fm integrato. Collega il tuo account nella sezione **Connessioni**, e ogni brano che riproduci viene registrato automaticamente -- anche quando sei offline. La configurazione richiede meno di un minuto.
@@ -66,22 +66,22 @@ Fare lo scrobbling della cronologia musicale da Evermusic o Flacbox a [Last.fm](
 
 ## Domande frequenti
 
-{{% details title="Lo scrobbling di Last.fm è gratuito?" closed="true" %}}
+{{% ls-details title="Lo scrobbling di Last.fm è gratuito?" closed="true" %}}
 Sì. Last.fm offre un account gratuito che include scrobbling completo, cronologia di ascolto e consigli di base. Un abbonamento a pagamento Last.fm Pro aggiunge funzionalità extra sul sito web di Last.fm ma non è richiesto per lo scrobbling da Evermusic o Flacbox.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Lo scrobbling funziona quando sono offline?" closed="true" %}}
+{{% ls-details title="Lo scrobbling funziona quando sono offline?" closed="true" %}}
 Sì. Sia Evermusic che Flacbox memorizzano la tua cronologia di riproduzione localmente. Quando torni online, le app caricano automaticamente gli scrobble in coda su Last.fm.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Le mie credenziali Last.fm vengono memorizzate dall'app?" closed="true" %}}
+{{% ls-details title="Le mie credenziali Last.fm vengono memorizzate dall'app?" closed="true" %}}
 No. L'app salva solo un token di accesso sicuro nel portachiavi del tuo dispositivo. Il tuo nome utente e la tua password non vengono memorizzati.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Posso fare scrobbling da iPhone e Mac?" closed="true" %}}
+{{% ls-details title="Posso fare scrobbling da iPhone e Mac?" closed="true" %}}
 Sì. Evermusic e Flacbox supportano lo scrobbling Last.fm su iPhone, iPad e Mac. Collega il tuo account su ogni dispositivo dove vuoi tracciare le riproduzioni.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Come fermo lo scrobbling senza eliminare il mio account Last.fm?" closed="true" %}}
+{{% ls-details title="Come fermo lo scrobbling senza eliminare il mio account Last.fm?" closed="true" %}}
 Apri la sezione Connessioni in Evermusic o Flacbox e tocca Disconnettere accanto a Last.fm. Questo rimuove il token di accesso e ferma lo scrobbling mantenendo intatti il tuo account Last.fm e la tua cronologia.
-{{% /details %}}
+{{% /ls-details %}}

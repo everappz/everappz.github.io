@@ -18,7 +18,7 @@ readingTime: 16
 A Beállítások képernyő az Evermusic vezérlőközpontja. Innen frissíthetsz Prémiumra, konfigurálhatod a hanglejátszót, kezelheted a zenei könyvtárat, beállíthatod a fájlkezelőt, testreszabhatod a felületet, engedélyezheted a widgeteket és a CarPlay-t, biztonsági másolatot készíthetsz az adataidról, és elérheted a súgót és jogi információkat. A szakaszok fejlécek alatt vannak csoportosítva: **Vásárlások és frissítések**, alkalmazásbeállítások, **Súgó** és **Jogi és adatvédelem**.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evermusic Beállítások képernyő" image="/docs/guide/evermusic/evermusic-guide-settings/img/settings-main-screen.webp" >}}
+  {{< ls-card title="" subtitle="Evermusic Beállítások képernyő" image="/docs/guide/evermusic/evermusic-guide-settings/img/settings-main-screen.webp" >}}
 {{< /cards >}}
 
 ## Vásárlások és frissítések

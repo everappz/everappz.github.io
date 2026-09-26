@@ -12,7 +12,7 @@ authors:
     image: "/images/about/artem-meleshko-founder-everappz.webp"
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 ![](/blog/audio-streaming-and-caching-in-ios-using-avassetresourceloader-and-avplayer/diagram.png)
 
@@ -140,18 +140,18 @@ Tämä lähestymistapa toimii [Evermusic](https://apps.apple.com/app/evermusic-o
 
 ## Usein Kysytyt Kysymykset
 
-{{% details title="Milloin minun pitäisi käyttää AVAssetResourceLoaderDelegate-protokollaa suoran URL-osoitteen sijaan?" closed="true" %}}
+{{% ls-details title="Milloin minun pitäisi käyttää AVAssetResourceLoaderDelegate-protokollaa suoran URL-osoitteen sijaan?" closed="true" %}}
 Käytä sitä, kun pilvipalvelu vaatii mukautettuja valtuutusotsikoita, kun tarvitset levyvälimuistitusta suoratoistetulle äänelle tai kun haluat tarkan hallinnan siitä, miten data ladataan ja puskuroidaan.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Toimiiko tämä lähestymistapa Swiftin kanssa?" closed="true" %}}
+{{% ls-details title="Toimiiko tämä lähestymistapa Swiftin kanssa?" closed="true" %}}
 Kyllä. `AVAssetResourceLoaderDelegate`-protokolla toimii samalla tavalla Swiftissä. Tämän artikkelin Objective-C-esimerkit kääntyvät suoraan.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Voinko käyttää tätä myös videosuoratoistoon?" closed="true" %}}
+{{% ls-details title="Voinko käyttää tätä myös videosuoratoistoon?" closed="true" %}}
 Kyllä. `AVAssetResourceLoaderDelegate` toimii minkä tahansa AVPlayerin tukeman mediatyypin kanssa, mukaan lukien video. Sama mukautetun skeeman lähestymistapa pätee.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Tukeeko tämä äänen toistoa taustalla?" closed="true" %}}
+{{% ls-details title="Tukeeko tämä äänen toistoa taustalla?" closed="true" %}}
 Kyllä, kunhan otat käyttöön "Audio, AirPlay ja kuva kuvassa" -taustatilan sovelluksesi ominaisuuksissa ja konfiguroit `AVAudioSession`-kohteen oikein.
-{{% /details %}}
+{{% /ls-details %}}

@@ -19,7 +19,7 @@ readingTime: 12
 На этом экране можно подключить каждый источник, хранящий вашу музыку. Вы можете интегрировать популярные облачные сервисы, такие как Dropbox, Google Drive, iCloud Drive, OneDrive, MEGA, Box, pCloud, Yandex Disk, Synology Drive и многие другие, а также Mac, PC или NAS через стандартные протоколы. Независимо от того, хранится ли ваша коллекция в сервисе, удобном для стриминга, например Dropbox, или на персональном NAS, например Synology, QNAP, Buffalo, Apple Time Capsule или WD My Cloud Home, Flacbox подключается ко всем с одного экрана.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Экран подключений Flacbox" image="/docs/guide/flacbox/img/connections-main.webp" >}}
+  {{< ls-card title="" subtitle="Экран подключений Flacbox" image="/docs/guide/flacbox/img/connections-main.webp" >}}
 {{< /cards >}}
 
 ## Подключение к облачному хранилищу
@@ -30,7 +30,7 @@ readingTime: 12
 - Введите учётные данные на официальной странице авторизации, предоставленной облачным провайдером, затем нажмите **Готово**.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox: добавление сервиса облачного хранилища" image="/docs/guide/flacbox/img/add-cloud-storage.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox: добавление сервиса облачного хранилища" image="/docs/guide/flacbox/img/add-cloud-storage.webp" >}}
 {{< /cards >}}
 
 Если возникнут проблемы, проверьте подключение к интернету и логин / пароль. В Premium-версии приложения можно добавить неограниченное количество сервисов; бесплатная версия поддерживает до трёх.
@@ -134,7 +134,7 @@ Flacbox поддерживает API Subsonic, то есть работает с
 Это самый быстрый способ обнаружить общий ресурс SMB, WebDAV, DLNA в домашней сети без ручного ввода IP-адресов.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox: доступные устройства в локальной сети" image="/docs/guide/flacbox/img/available-devies.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox: доступные устройства в локальной сети" image="/docs/guide/flacbox/img/available-devies.webp" >}}
 {{< /cards >}}
 
 ## Wi-Fi Drive
@@ -149,7 +149,7 @@ Wi-Fi Drive — это удобная технология для беспров
 - Нажмите **Запустить Wi-Fi Drive** для включения Wi-Fi Drive.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox Wi-Fi Drive" image="/docs/guide/flacbox/img/wifi-drive.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox Wi-Fi Drive" image="/docs/guide/flacbox/img/wifi-drive.webp" >}}
 {{< /cards >}}
 
 ### Доступ к Wi-Fi Drive на компьютере
@@ -234,7 +234,7 @@ Wi-Fi Drive — это удобная технология для беспров
 - **Удалить** — навсегда удалить файл из облачного хранилища. **Это действие нельзя отменить.**
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox: другие действия для файла в подключённом облачном хранилище" image="/docs/guide/flacbox/img/more-actions-for-file-in-connected-cloud-storage.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox: другие действия для файла в подключённом облачном хранилище" image="/docs/guide/flacbox/img/more-actions-for-file-in-connected-cloud-storage.webp" >}}
 {{< /cards >}}
 
 Если список действий превышает доступное пространство экрана, просто прокрутите вниз в меню действий для доступа к дополнительным параметрам.
@@ -261,7 +261,7 @@ Wi-Fi Drive — это удобная технология для беспров
 Раздел «Быстрый доступ» находится в верхней части экрана. Он обеспечивает быстрый доступ к избранным и недавно открытым файлам из подключённых облачных сервисов. Каждый раз при открытии файла или папки из облака он добавляется в список «Недавно открытые». Для очистки этого списка откройте «Недавние», нажмите кнопку «Другие действия» и выберите «Удалить список». Также можно отметить глубоко вложенные папки как Избранные для быстрого доступа без необходимости навигации по структуре директорий.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox: онлайн-ссылки и быстрый доступ" image="/docs/guide/flacbox/img/online-links.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox: онлайн-ссылки и быстрый доступ" image="/docs/guide/flacbox/img/online-links.webp" >}}
 {{< /cards >}}
 
 ## Другие сервисы
@@ -269,5 +269,5 @@ Wi-Fi Drive — это удобная технология для беспров
 В этом разделе отображаются дополнительные функции, улучшающие взаимодействие. В настоящее время приложение поддерживает скробблинг **Last.fm** — при подключении статистика воспроизведения автоматически отправляется на ваш аккаунт Last.fm. Позже вы можете посетить свой профиль Last.fm для просмотра аналитики прослушивания и получения персонализированных музыкальных рекомендаций. Подробные инструкции по настройке доступны [здесь](/docs/howto/how-to-scrobble-your-music-history-from-evermusic-or-flacbox-to-last-fm).
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox: подключение Last.fm" image="/docs/guide/flacbox/img/last-fm-connect.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox: подключение Last.fm" image="/docs/guide/flacbox/img/last-fm-connect.webp" >}}
 {{< /cards >}}

@@ -12,7 +12,7 @@ authors:
     image: "/images/about/artem-meleshko-founder-everappz.webp"
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 ![](/blog/evermusic-stream-your-music-from-the-cloud-and-free-up-space-on-your-iphone-or-ipad/21260c_00c5356db3a24db6a6a37e353b774d56~mv2.jpg)
 
@@ -82,22 +82,22 @@ Jelajahi akun cloud yang terhubung, buka folder musik, dan ketuk file untuk memu
 
 ## Pertanyaan yang Sering Diajukan
 
-{{% details title="Apakah Evermusic gratis?" closed="true" %}}
+{{% ls-details title="Apakah Evermusic gratis?" closed="true" %}}
 Evermusic gratis untuk diunduh dengan fitur premium opsional. Streaming cloud dasar dan pemutaran offline tersedia di versi gratis.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Layanan cloud apa saja yang didukung Evermusic?" closed="true" %}}
+{{% ls-details title="Layanan cloud apa saja yang didukung Evermusic?" closed="true" %}}
 Google Drive, Dropbox, Box, OneDrive, MediaFire, MEGA, Yandex.Disk, pCloud, HiDrive, MyDrive, berbagi file SMB, dan server WebDAV.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Bisakah saya mendengarkan musik offline dengan Evermusic?" closed="true" %}}
+{{% ls-details title="Bisakah saya mendengarkan musik offline dengan Evermusic?" closed="true" %}}
 Ya. Unduh album, artis, playlist, atau lagu individual apa pun untuk pemutaran offline langsung di dalam aplikasi.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Format audio apa yang bisa diputar Evermusic?" closed="true" %}}
+{{% ls-details title="Format audio apa yang bisa diputar Evermusic?" closed="true" %}}
 Evermusic mendukung MP3, FLAC, AAC, WAV, ALAC, AIFF, OPUS, OGG, dan banyak format lainnya.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Apakah saya masih memerlukan iTunes untuk mentransfer musik?" closed="true" %}}
+{{% ls-details title="Apakah saya masih memerlukan iTunes untuk mentransfer musik?" closed="true" %}}
 Tidak. Unggah musik Anda ke layanan cloud yang didukung dari komputer, lalu streaming atau unduh melalui Evermusic di iPhone atau iPad Anda.
-{{% /details %}}
+{{% /ls-details %}}

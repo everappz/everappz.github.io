@@ -20,7 +20,7 @@ aliases:
 The Playlists section provides you with the tools to organize your tracks into lists. It includes a content view showcasing all your created playlists, a "..." button in the navigation bar offering various playlist-related actions, and a navigation toolbar with "Search," "Play all," and "Shuffle all" buttons. Furthermore, each individual playlist itself features a "..." button near the playlist title, offering a range of actions specific to that playlist.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evermusic Playlists Screen" image="/docs/guide/evermusic/evermusic-guide-playlists/img/playlists-main.webp" >}}
+  {{< ls-card title="" subtitle="Evermusic Playlists Screen" image="/docs/guide/evermusic/evermusic-guide-playlists/img/playlists-main.webp" >}}
 {{< /cards >}}
 
 ## Creating a Playlist
@@ -28,7 +28,7 @@ The Playlists section provides you with the tools to organize your tracks into l
 To create a new playlist, either tap the "+" button or the "..." button in the top right corner of the navigation bar, select "New playlist" and assign a name to your playlist. After naming it, tap "Save."
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Create a New Playlist" image="/docs/guide/evermusic/evermusic-guide-playlists/img/playlists-add-new.webp" >}}
+  {{< ls-card title="" subtitle="Create a New Playlist" image="/docs/guide/evermusic/evermusic-guide-playlists/img/playlists-add-new.webp" >}}
 {{< /cards >}}
 
 This prompts the "Add songs" dialog, where you can choose which tracks to add to the new playlist. Tracks are categorized by source type, and you have several options:
@@ -45,7 +45,7 @@ By default, you can add a track to a playlist only once. To allow duplicated son
 In Evermusic, we’ve added M3U file import functionality, so you don’t have to create playlists manually.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Import Playlist From a File Source" image="/docs/guide/evermusic/evermusic-guide-playlists/img/playlists-import-from-files.webp" >}}
+  {{< ls-card title="" subtitle="Import Playlist From a File Source" image="/docs/guide/evermusic/evermusic-guide-playlists/img/playlists-import-from-files.webp" >}}
 {{< /cards >}}
 
 First, go to the ‘Playlists’ section. Then, tap the ‘More’ button in the top right corner. From the menu that appears, select the ‘Import Playlist’ option.
@@ -65,7 +65,7 @@ The app will parse the playlist file, create a list of tracks, and locate those 
 When you open a playlist, the "Playlist detail screen" appears. On this screen, you'll find a "..." button in the top right corner with playlist options and three buttons under the artwork image: "Search," "Continue playback", "Play all," and "Shuffle all." Additionally, there's an "Offline mode" checkbox.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Playlist Detail Screen" image="/docs/guide/evermusic/evermusic-guide-playlists/img/playlists-detail-screen.webp" >}}
+  {{< ls-card title="" subtitle="Playlist Detail Screen" image="/docs/guide/evermusic/evermusic-guide-playlists/img/playlists-detail-screen.webp" >}}
 {{< /cards >}}
 
 - **Continue playback**: Restore playback position for this playlist.
@@ -90,7 +90,7 @@ You can access actions for a playlist by tapping the "..." button near the playl
 - **Delete playlist:** Delete the playlist from the Music library. Please note that this action cannot be undone.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="More Actions Menu for a Playlist" image="/docs/guide/evermusic/evermusic-guide-playlists/img/playlists-more-actions-for-separate-playlist.webp" >}}
+  {{< ls-card title="" subtitle="More Actions Menu for a Playlist" image="/docs/guide/evermusic/evermusic-guide-playlists/img/playlists-more-actions-for-separate-playlist.webp" >}}
 {{< /cards >}}
 
 ## More Actions for Playlist in the Playlist Detail Screen
@@ -116,7 +116,7 @@ You can access actions for a playlist by tapping the "..." button in the top rig
 To change the order of songs in a playlist, tap the "..." button in the top right corner and select "Select" to enter selection mode. Use the reorder control and drag-and-drop gestures near each track to move them up or down. Tapping on the reorder control will move the track to the top of the list. To exit selection mode and apply changes, tap "Done."
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Change Song Order in a Playlist" image="/docs/guide/evermusic/evermusic-guide-playlists/img/playlists-change-songs-order.webp" >}}
+  {{< ls-card title="" subtitle="Change Song Order in a Playlist" image="/docs/guide/evermusic/evermusic-guide-playlists/img/playlists-change-songs-order.webp" >}}
 {{< /cards >}}
 
 ## Changing Playlist Cover Image
@@ -132,7 +132,7 @@ Open the playlist and tap the "..." button in the top right corner, then select 
 Open the playlist, tap the "..." button in the top right corner, and select "Select" to enter selection mode. Choose the tracks you want to delete and tap the "Delete from playlist" button at the bottom of the screen. Confirm the changes by tapping "Done."
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Selection Mode Inside a Playlist" image="/docs/guide/evermusic/evermusic-guide-playlists/img/playlists-selection-mode-in-playlist-details-screen.webp" >}}
+  {{< ls-card title="" subtitle="Selection Mode Inside a Playlist" image="/docs/guide/evermusic/evermusic-guide-playlists/img/playlists-selection-mode-in-playlist-details-screen.webp" >}}
 {{< /cards >}}
 
 ## Track Options
@@ -140,7 +140,7 @@ Open the playlist, tap the "..." button in the top right corner, and select "Sel
 Each track in a playlist has a list of actions, accessible by tapping the "..." button. If you can't see all actions, scroll down to view them. You can delete the track from the playlist, download it, edit audio tags, and more.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Track Options Menu in a Playlist" image="/docs/guide/evermusic/evermusic-guide-playlists/img/playlists-track-options.webp" >}}
+  {{< ls-card title="" subtitle="Track Options Menu in a Playlist" image="/docs/guide/evermusic/evermusic-guide-playlists/img/playlists-track-options.webp" >}}
 {{< /cards >}}
 
 - **Play next:** Adds the track to the top of the player queue.

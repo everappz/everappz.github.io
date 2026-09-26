@@ -15,7 +15,7 @@ tags: [
 ---
 
 
-{{< lottie src="/images/juicy-json/juicy-woman-focused-on-online-learning.json" width="85%" >}}
+{{< ls-lottie src="/images/juicy-json/juicy-woman-focused-on-online-learning.json" width="85%" >}}
 
 ## Lär dig använda våra appar
 
@@ -27,7 +27,7 @@ Utforska FAQ:n för din app nedan för att komma igång, eller bläddra igenom v
 
 ## Välj din app
 
-{{< product-doc-cards section="faq" >}}
+{{< ls-product-doc-cards section="faq" >}}
 
 ## Vanliga problem och svar
 
@@ -35,7 +35,7 @@ Utforska FAQ:n för din app nedan för att komma igång, eller bläddra igenom v
 
 <div class="hx:w-full">
 
-{{% details title="Varför kan jag inte logga in på pCloud på en äldre iOS-version (15.8.4)?" closed="true" %}}
+{{% ls-details title="Varför kan jag inte logga in på pCloud på en äldre iOS-version (15.8.4)?" closed="true" %}}
 pClouds webbinloggningssida kanske inte visas korrekt på äldre iOS-versioner som 15.8.4, vilket förhindrar att du anger din e-postadress och ditt lösenord på skärmen för molnanslutning.<br><br>
 
 Som en lösning kan du använda **WebDAV**-protokollet, som stöds av pCloud och fungerar tillförlitligt på alla iOS-versioner.
@@ -49,9 +49,9 @@ Som en lösning kan du använda **WebDAV**-protokollet, som stöds av pCloud och
 Öppna appen → Anslutningar → Anslut till molnlagring → Välj **WebDAV** → Ange dina uppgifter och server-URL.
 
 Med den här metoden kan du ansluta till ditt pCloud-lagringsutrymme och komma åt dina filer utan problem på äldre enheter.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Hur spelar man musik via AirPlay från Mac (macOS)?" closed="true" %}}
+{{% ls-details title="Hur spelar man musik via AirPlay från Mac (macOS)?" closed="true" %}}
 macOS-versionen av appen har inte inbyggda AirPlay-, Chromecast- eller Bluetooth-anslutningsknappar som på iOS.<br><br>
 
 Följ dessa steg för att använda **AirPlay** på din MacBook Pro:
@@ -62,9 +62,9 @@ Följ dessa steg för att använda **AirPlay** på din MacBook Pro:
 4. Välj önskad enhet för att börja strömma din musik.  
 
 Det här dirigerar allt systemljud (inklusive från Evermusic eller Flacbox) till din valda AirPlay-enhet.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Varför aktiveras inte mitt Premium-köp på Mac om jag köpte det på iPhone?" closed="true" %}}
+{{% ls-details title="Varför aktiveras inte mitt Premium-köp på Mac om jag köpte det på iPhone?" closed="true" %}}
 Livstidsköp och prenumerationer synkroniseras mellan iOS och Mac via **iCloud**.<br><br>
 
 Aktivera Premium på din Mac:<br>
@@ -76,9 +76,9 @@ Aktivera Premium på din Mac:<br>
 - Alternativt trycker du på **Återställ köp** i appens inställningar på båda enheterna<br><br>
 
 Dina Premium-funktioner ska sedan aktiveras på Mac automatiskt.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Hur kan jag synkronisera spellistor automatiskt mellan enheter?" closed="true" %}}
+{{% ls-details title="Hur kan jag synkronisera spellistor automatiskt mellan enheter?" closed="true" %}}
 Det finns för närvarande **ingen automatisk synkronisering** för spellistor.<br><br>
 
 Du kan använda något av följande alternativ:<br>
@@ -88,9 +88,9 @@ Du kan använda något av följande alternativ:<br>
   - [Importera spellistor](/docs/howto/how-to-import-m3u-playlist-to-evermusic-and-flacbox/)<br>
 - **Arkivera spellista eller album** och överför via ZIP:<br>
   - [Guide för spellistearkiv](/docs/howto/how-to-archive-zip-playlists-albums-artists-and-genres-in-evermusic-flacbox-and-transfer-to/)
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Är det säkert att använda era appar? Kan jag inaktivera analys?" closed="true" %}}
+{{% ls-details title="Är det säkert att använda era appar? Kan jag inaktivera analys?" closed="true" %}}
 Ja, din integritet är vår högsta prioritet.<br><br>
 
 - All data — musikfiler, inställningar, molninloggningar — stannar på din enhet<br>
@@ -104,18 +104,18 @@ Mer info:<br>
 
 Om du använder personanpassade annonser kräver Google Mobile Ads att samtycksinställningar visas.<br>
 Premium-användare ser inga annonser och annons-SDK:n är helt inaktiverad.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Stöder era appar Familjedelning?" closed="true" %}}
+{{% ls-details title="Stöder era appar Familjedelning?" closed="true" %}}
 Ja, Familjedelning stöds.<br><br>
 
 Dela köp i appen:<br>
 - Se till att köpet är inställt på att delas med din familjegrupp<br>
 - På familjemedlemmens enhet, gå till **Inställningar > Köp > Återställ köp**<br>
 - Det här begär köpdata från Apples servrar och aktiverar det på deras enhet
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Hur snabbar man upp metadata och molnsynkronisering?" closed="true" %}}
+{{% ls-details title="Hur snabbar man upp metadata och molnsynkronisering?" closed="true" %}}
 Aktivera bakgrundsuppgifter för att förbättra synkroniseringshastigheten:<br><br>
 
 - **Inställningar → Musikbibliotek → Metadataavläsning → Metadataavläsning i bakgrunden**<br>
@@ -123,14 +123,14 @@ Aktivera bakgrundsuppgifter för att förbättra synkroniseringshastigheten:<br>
 
 Öka också metadataavläsningshastigheten på macOS via **Inställningar → Musikbibliotek**.<br>
 Om spelaren är aktiv (ljud spelas upp) pausar iOS inte appen, vilket möjliggör kontinuerlig synkronisering.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Hur kan jag avbryta min prenumeration?" closed="true" %}}
+{{% ls-details title="Hur kan jag avbryta min prenumeration?" closed="true" %}}
 Du kan avbryta din prenumeration med hjälp av Apples officiella instruktioner:<br>
 👉 [Avbryta en prenumeration](https://support.apple.com/en-us/118428)
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Hur ansluter och streamar man ljud från WD MyCloud EX2 Ultra?" closed="true" %}}
+{{% ls-details title="Hur ansluter och streamar man ljud från WD MyCloud EX2 Ultra?" closed="true" %}}
 
 När du lägger till en anslutning i appen via **Anslutningar > Anslut till molnlagring > My Cloud Home** är den officiellt utformad för att stödja **WD MyCloud Home**-enheter.<br>
 WD MyCloud EX2 Ultra använder begränsad åtkomst för appar.<br><br>
@@ -144,16 +144,16 @@ Men om du har anslutit till en **WD MyCloud EX2 Ultra**, **WD MyCloud Mirror** e
 5. Du kan nu strömma eller ladda ned dem direkt<br><br>
 
 ⚠️ Endast mappar skapade via appen kommer att vara åtkomliga från NAS:en.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Hur ansluter man till Koofr.eu?" closed="true" %}}
+{{% ls-details title="Hur ansluter man till Koofr.eu?" closed="true" %}}
 Du kan ansluta Koofr med hjälp av **WebDAV**.<br><br>
 
 - Guide för Koofr WebDAV-konfiguration: [koofr.eu blogg](https://koofr.eu/blog/posts/3-ways-to-map-koofr-as-a-network-drive-explained)<br>
 - WebDAV-guide för Evermusic/Flacbox: [Ansluta NAS-lagring med WebDAV och lyssna på musik på din iPhone eller Mac](/docs/howto/how-to-connect-nas-storage-using-webdav-and-listen-to-music-on-your-iphone-or-mac/)
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Vilka är appens URL-scheman?" closed="true" %}}
+{{% ls-details title="Vilka är appens URL-scheman?" closed="true" %}}
 Här är de scheman som stöds:<br><br>
 
 **Evermusic**<br>
@@ -172,35 +172,35 @@ Här är de scheman som stöds:<br><br>
 **Evervideo**<br>
 - iOS: `lsevervideo://`<br>
 - macOS: `lsevervideomac://`
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Musiken slutar spela när appen är i bakgrunden — hur åtgärdar man det?" closed="true" %}}
+{{% ls-details title="Musiken slutar spela när appen är i bakgrunden — hur åtgärdar man det?" closed="true" %}}
 Om appen kraschar eller pausar i bakgrunden:<br>
 - Gå till **Inställningar > Musikbibliotek > Onlinemusiksync > Bakgrundssynk → Inaktivera**<br>
 - **Inställningar > Musikbibliotek > Metadataavläsning > Metadataavläsning i bakgrunden → Inaktivera**<br>
 - **Inställningar > Filhanterare > Bakgrundsöverföringar → Inaktivera**
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Gapless uppspelning fungerar inte — hur åtgärdar man det?" closed="true" %}}
+{{% ls-details title="Gapless uppspelning fungerar inte — hur åtgärdar man det?" closed="true" %}}
 Gapless uppspelning beror på iOS-version och ljudmotor.<br>
 Försök att byta ljudmotor:<br>
 - Gå till **Inställningar → Ljud spelare → Allmänt → Ljudprocessor**<br>
 - Välj **Core Audio** för bättre gapless-stöd
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Varför visar appen bara 100 objekt i en lista?" closed="true" %}}
+{{% ls-details title="Varför visar appen bara 100 objekt i en lista?" closed="true" %}}
 Appen använder sidnumrering för prestanda.<br>
 Inaktivera det:<br>
 - Gå till **Inställningar → Anpassning → Gräns för inläsning av innehåll → Inaktiverat**<br>
 Nu laddas alla objekt på en gång.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Varför finns det konstiga tecken i metadata?" closed="true" %}}
+{{% ls-details title="Varför finns det konstiga tecken i metadata?" closed="true" %}}
 Prova att aktivera metadatanormalisering:<br>
 - **Inställningar → Musikbibliotek → Metadataavläsning → Normalisera metadatakodning**
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Varför kan inte appen läsa mappnamn med specialtecken?" closed="true" %}}
+{{% ls-details title="Varför kan inte appen läsa mappnamn med specialtecken?" closed="true" %}}
 Det här är ett känt problem med **SMB2-protokollet**.<br><br>
 
 Prova följande lösningar:<br>
@@ -210,9 +210,9 @@ Prova följande lösningar:<br>
   - Välj mappar/filer med Apples inbyggda meny<br><br>
 
 Alternativt kan du ansluta med **WebDAV** eller **DLNA** om din NAS stöder dem.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Hur laddar man upp och hanterar musik i iCloud?" closed="true" %}}
+{{% ls-details title="Hur laddar man upp och hanterar musik i iCloud?" closed="true" %}}
 – **Hur laddar jag upp musik till iCloud?**  <br>
 Gå till [https://www.icloud.com](https://www.icloud.com) i din webbläsare, skapa en mapp och ladda upp dina musikfiler direkt från din Mac eller PC.<br>
 
@@ -225,9 +225,9 @@ Du har två alternativ:  <br>
 
 Lär dig mer här: [Strömma musik från iCloud Drive på min iPhone eller Mac](/docs/howto/how-to-listen-to-music-from-icloud-drive-on-your-iphone-or-mac/)
 
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Hur överför man ett 10 GB musikbibliotek från Windows 11 till sin iPhone för offlineuppspelning?" closed="true" %}}
+{{% ls-details title="Hur överför man ett 10 GB musikbibliotek från Windows 11 till sin iPhone för offlineuppspelning?" closed="true" %}}
 
 Du har flera tillförlitliga alternativ för att flytta ditt musikbibliotek från din Windows 11-dator till din iPhone och använda det offline i appen. Välj den metod som fungerar bäst för dig:
 
@@ -253,6 +253,6 @@ Du har flera tillförlitliga alternativ för att flytta ditt musikbibliotek frå
 
 ⚠️ Vid överföring av stora bibliotek (10 GB+) är kabelansluten USB-överföring vanligtvis det snabbaste och mest stabila alternativet.
 
-{{% /details %}}
+{{% /ls-details %}}
 
 </div>

@@ -12,7 +12,7 @@ authors:
     image: "/images/about/artem-meleshko-founder-everappz.webp"
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 **TL;DR:** Evermusic ผ่านหลัก 11 ล้านดาวน์โหลดทั่วโลก ฟีเจอร์หลักประกอบด้วยอีควอไลเซอร์ 10 แบนด์ การเล่นออฟไลน์ สตรีมจาก iCloud Drive รองรับบริการคลาวด์มากกว่า 10 แห่ง ซิงค์ข้ามอุปกรณ์ และโปรแกรมแก้ไขแท็ก ID3 ในตัว
 
@@ -70,22 +70,22 @@ Evermusic สร้างขึ้นสำหรับทุกคนที่�
 
 ## FAQ
 
-{{% details title="Evermusic รองรับรูปแบบเสียงใดบ้าง?" closed="true" %}}
+{{% ls-details title="Evermusic รองรับรูปแบบเสียงใดบ้าง?" closed="true" %}}
 Evermusic เล่น MP3, FLAC, WAV, AAC, M4A, AIFF, OGG, WMA และรูปแบบเสียงยอดนิยมอื่นๆ
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="ฉันสามารถใช้ Evermusic โดยไม่ต้องเชื่อมต่ออินเทอร์เน็ตได้หรือไม่?" closed="true" %}}
+{{% ls-details title="ฉันสามารถใช้ Evermusic โดยไม่ต้องเชื่อมต่ออินเทอร์เน็ตได้หรือไม่?" closed="true" %}}
 ได้ ดาวน์โหลดแทร็กจากคลาวด์สตอเรจเพื่อเล่นออฟไลน์ เมื่อดาวน์โหลดแล้วไม่ต้องใช้อินเทอร์เน็ต
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Evermusic ใช้งานได้บน Mac หรือไม่?" closed="true" %}}
+{{% ls-details title="Evermusic ใช้งานได้บน Mac หรือไม่?" closed="true" %}}
 ได้ Evermusic มีให้บริการทั้งบน iOS (iPhone/iPad) และ macOS พร้อมซิงค์คลังข้ามอุปกรณ์ทั้งหมด
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Evermusic ดาวน์โหลดฟรีหรือไม่?" closed="true" %}}
+{{% ls-details title="Evermusic ดาวน์โหลดฟรีหรือไม่?" closed="true" %}}
 ใช่ Evermusic ดาวน์โหลดฟรีพร้อมฟีเจอร์พรีเมียมเสริมที่มีให้ผ่านการซื้อในแอป
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="การสตรีมจาก iCloud Drive ใน Evermusic ทำงานอย่างไร?" closed="true" %}}
+{{% ls-details title="การสตรีมจาก iCloud Drive ใน Evermusic ทำงานอย่างไร?" closed="true" %}}
 เชื่อมต่อบัญชี iCloud Drive ในแอป เรียกดูไฟล์เพลง แล้วแตะเพื่อเล่น แทร็กจะสตรีมโดยตรงโดยไม่ต้องดาวน์โหลดก่อน
-{{% /details %}}
+{{% /ls-details %}}

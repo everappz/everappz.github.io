@@ -7,7 +7,7 @@ tags: ["hudba", "streamování", "nas", "synology", "quickconnect"]
 readingTime: 4
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **Shrnutí:** Připojte svůj Synology NAS k Evermusic nebo Flacbox pomocí nativního API Synology -- buď ručně přes IP adresu, nebo automaticky přes QuickConnect ID. QuickConnect vám umožňuje streamovat hudbu vzdáleně bez přesměrování portů. Obě aplikace podporují FLAC, MP3, WAV a další hi-res formáty.
@@ -140,22 +140,22 @@ S bezpečným vzdáleným přístupem přes QuickConnect a podporou široké šk
 
 ## Často kladené otázky
 
-{{% details title="Jaký je rozdíl mezi ručním připojením a QuickConnect?" closed="true" %}}
+{{% ls-details title="Jaký je rozdíl mezi ručním připojením a QuickConnect?" closed="true" %}}
 Ruční připojení používá IP adresu NAS a port, což funguje na vaší lokální síti. QuickConnect využívá přenosovou službu Synology k navázání připojení odkudkoli přes internet, bez přesměrování portů.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Mohu streamovat hudbu ze Synology NAS mimo domácí síť?" closed="true" %}}
+{{% ls-details title="Mohu streamovat hudbu ze Synology NAS mimo domácí síť?" closed="true" %}}
 Ano. Povolte QuickConnect na Synology NAS a použijte QuickConnect ID v Evermusic nebo Flacbox pro streamování hudby odkudkoli s připojením k internetu.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Které audio formáty jsou podporovány při streamování ze Synology NAS?" closed="true" %}}
+{{% ls-details title="Které audio formáty jsou podporovány při streamování ze Synology NAS?" closed="true" %}}
 Evermusic a Flacbox podporují FLAC, MP3, AAC, WAV, ALAC, OGG, WMA, DSD a mnoho dalších formátů. Všechny podporované formáty fungují při streamování ze Synology NAS.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Potřebuji dvoufaktorové ověřování pro připojení?" closed="true" %}}
+{{% ls-details title="Potřebuji dvoufaktorové ověřování pro připojení?" closed="true" %}}
 Ne, dvoufaktorové ověřování je volitelné. Pokud jste však povolili dvoufázové ověřování na Synology DSM, aplikace vás požádá o jednorázové heslo během přihlašování. Budete muset provést opětovnou autorizaci po vypršení relace.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Mám použít nativní API Synology, WebDAV nebo SMB pro připojení?" closed="true" %}}
+{{% ls-details title="Mám použít nativní API Synology, WebDAV nebo SMB pro připojení?" closed="true" %}}
 Nativní API Synology s QuickConnect je nejlepší volbou pro vzdálený přístup. Pro použití v lokální síti je SMB obvykle nejrychlejší možností. WebDAV funguje dobře pro lokální i vzdálený přístup. Evermusic a Flacbox podporují všechny tři protokoly.
-{{% /details %}}
+{{% /ls-details %}}

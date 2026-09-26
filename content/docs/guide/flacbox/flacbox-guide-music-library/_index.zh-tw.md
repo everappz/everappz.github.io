@@ -19,7 +19,7 @@ readingTime: 11
 在 Flacbox 中管理音樂庫非常輕鬆——您可以輕鬆地將所有 FLAC、ALAC、DSD、MP3、M4A、OGG、WMA、APE 等數十種格式的曲目整理成一個可搜尋的統一收藏。您有兩種建立音樂庫的方式：手動新增（您精確選擇要新增的內容）或自動同步（Flacbox 掃描指定的雲端資料夾並在新檔案出現時自動新增）。
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox 音樂庫專輯視圖" image="/docs/guide/flacbox/img/media-library-albums.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox 音樂庫專輯視圖" image="/docs/guide/flacbox/img/media-library-albums.webp" >}}
 {{< /cards >}}
 
 ## 手動新增
@@ -27,7 +27,7 @@ readingTime: 11
 要手動新增曲目，點擊左上角的**新增音樂**圖示，從已連接的雲端儲存服務或裝置上的檔案中選擇資料夾或檔案。向音樂庫新增曲目時，只會建立指向這些曲目的連結——實際檔案保留在原始位置以節省寶貴的磁碟空間。
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox 向音樂庫新增歌曲" image="/docs/guide/flacbox/img/library-add-songs.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox 向音樂庫新增歌曲" image="/docs/guide/flacbox/img/library-add-songs.webp" >}}
 {{< /cards >}}
 
 在 Mac 版本上，您還可以將檔案拖放到音樂庫，或在 iPhone 和 iPad 上使用系統檔案選取器中的**開啟檔案…** / **開啟資料夾…**。
@@ -89,7 +89,7 @@ readingTime: 11
 搜尋功能讓您可以在音樂庫中找到特定曲目、藝術家、專輯或類型。
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox 音樂庫搜尋" image="/docs/guide/flacbox/img/media-library-search.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox 音樂庫搜尋" image="/docs/guide/flacbox/img/media-library-search.webp" >}}
 {{< /cards >}}
 
 ## 選項選單
@@ -138,7 +138,7 @@ readingTime: 11
 - **獨奏專輯** — 顯示只有指定藝術家曲目出現的專輯。
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox 專輯詳情畫面" image="/docs/guide/flacbox/img/media-library-album-details-screen.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox 專輯詳情畫面" image="/docs/guide/flacbox/img/media-library-album-details-screen.webp" >}}
 {{< /cards >}}
 
 ## 設定

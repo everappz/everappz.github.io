@@ -7,7 +7,7 @@ tags: ["cloud", "streaming", "computer", "mp3", "file", "downloader", "manager",
 keywords: ["Mac'ten iPhone'a müzik akışı", "SMB ses akışı iOS", "Evermusic SMB kurulumu", "PC müzik iPhone bağlantısı", "Mac müzik paylaşımı iOS", "SMB Windows dosya akışı", "Evermusic PC klasör erişimi"]
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **Özet:** Mac veya Windows PC'nizden yerel ağınız üzerinden SMB kullanarak müzik akışı yapmak için iPhone veya iPad için Evermusic uygulamasını kullanın. Senkronizasyon yok, kopyalama yok -- bilgisayarınızda dosya paylaşımını etkinleştirin, uygulamada bağlanın ve çalın. Kurulum 5 dakikadan az sürer.
@@ -102,26 +102,26 @@ Not: iTunes Dosya Paylaşımı'nı kullanarak MAC/PC'nizden iPhone'unuza ses dos
 
 ## Sıkça Sorulan Sorular
 
-{{% details title="iTunes olmadan PC'mden iPhone'uma müzik akışı yapabilir miyim?" closed="true" %}}
+{{% ls-details title="iTunes olmadan PC'mden iPhone'uma müzik akışı yapabilir miyim?" closed="true" %}}
 Evet. Evermusic, yerel Wi-Fi ağınızda SMB üzerinden PC'nize bağlanır. iTunes gerekli değildir. PC'nizde dosya paylaşımını etkinleştirin ve uygulamada bağlanın.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="SMB akışı mobil veri kullanır mı?" closed="true" %}}
+{{% ls-details title="SMB akışı mobil veri kullanır mı?" closed="true" %}}
 Hayır. SMB yerel Wi-Fi ağınız üzerinden çalışır. İnternet bağlantısı veya mobil veri gerekmez.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Evermusic SMB üzerinden hangi ses formatlarını destekler?" closed="true" %}}
+{{% ls-details title="Evermusic SMB üzerinden hangi ses formatlarını destekler?" closed="true" %}}
 Evermusic MP3, FLAC, AAC, WAV, AIFF, OGG, WMA, ALAC ve diğer yaygın ses formatlarını destekler. Dosyalar doğrudan SMB paylaşımından çalınır.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="NAS'tan iPhone'uma müzik akışı yapabilir miyim?" closed="true" %}}
+{{% ls-details title="NAS'tan iPhone'uma müzik akışı yapabilir miyim?" closed="true" %}}
 Evet. NAS'ınız SMB'yi destekliyorsa (çoğu destekler, Synology, QNAP ve WD My Cloud dahil), bu kılavuzdaki aynı adımları kullanarak bağlanabilirsiniz.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Akış sırasında bilgisayarımı açık tutmam gerekiyor mu?" closed="true" %}}
+{{% ls-details title="Akış sırasında bilgisayarımı açık tutmam gerekiyor mu?" closed="true" %}}
 Evet. Evermusic dosyaları doğrudan bilgisayarınızdan aktardığından, bilgisayarın açık olması ve iPhone'unuzla aynı ağa bağlı olması gerekir.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="SMB akışı için dosya boyutu sınırı var mı?" closed="true" %}}
+{{% ls-details title="SMB akışı için dosya boyutu sınırı var mı?" closed="true" %}}
 Hayır. Evermusic SMB üzerinden her boyuttaki dosyayı aktarır. Büyük kayıpsız dosyalar (FLAC, WAV) sorunsuz çalışır.
-{{% /details %}}
+{{% /ls-details %}}

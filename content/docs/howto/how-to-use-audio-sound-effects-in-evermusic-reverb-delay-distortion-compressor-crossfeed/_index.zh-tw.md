@@ -7,7 +7,7 @@ tags: ["Evermusic", "音訊效果", "操作指南", "殘響", "延遲", "破音"
 readingTime: 8
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 **重點速覽：** Evermusic 內建六種即時音訊效果——**音量正規化、壓縮器、殘響、交叉饋送、延遲和破音**。可從播放器的 **⋯（更多）選單 > 音訊效果** 開啟它們，或從 **設定 > 音訊播放器 > 音訊效果** 進入。點按某個效果，將其開關撥到 **開啟**（右上角），選擇一個**預設**，並可選擇性地開啟 **進階模式** 來精細調整滑桿。每種效果都獨立運作，並即時套用於你播放的所有內容——本機檔案、雲端串流和網路電台——且不重新編碼。
 
@@ -162,38 +162,38 @@ Evermusic 的效果執行在一條現代的 **AVAudioEngine** 處理鏈內部。
 
 ## 常見問題
 
-{{% details title="如何在 Evermusic 中為我的音樂加入殘響、延遲或其他效果？" closed="true" %}}
+{{% ls-details title="如何在 Evermusic 中為我的音樂加入殘響、延遲或其他效果？" closed="true" %}}
 開啟播放器，點按 ⋯（更多）按鈕，選擇音訊效果（或前往 設定 > 音訊播放器 > 音訊效果）。點按你想要的效果，在右上角將其開關撥到開啟，然後選擇一個預設。開啟進階模式以精細調整滑桿。效果會立即套用於正在播放的內容。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Evermusic 有哪些音訊效果？" closed="true" %}}
+{{% ls-details title="Evermusic 有哪些音訊效果？" closed="true" %}}
 六種即時效果：音量正規化（EBU R128 響度拉平）、壓縮器（動態）、殘響（空間與回聲尾音）、交叉饋送（自然的耳機聲像）、延遲（回聲）和破音（低傳真顆粒感）。每一種都彼此獨立，可單獨使用或組合使用。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="這些效果會改變或損壞我的音訊檔案嗎？" closed="true" %}}
+{{% ls-details title="這些效果會改變或損壞我的音訊檔案嗎？" closed="true" %}}
 不會。所有效果僅在播放期間即時套用。它們從不修改或重新編碼你的檔案。關閉某個效果，你的原始聲音會立即恢復。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="我能同時使用多種效果嗎？" closed="true" %}}
+{{% ls-details title="我能同時使用多種效果嗎？" closed="true" %}}
 可以。每種效果都彼此獨立——沒有總開關——因此你可以啟用任意組合。例如，音量正規化加壓縮器以獲得一致、易聽的聆聽體驗，或在耳機上使用殘響加交叉饋送。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="什麼是交叉饋送，我應該使用它嗎？" closed="true" %}}
+{{% ls-details title="什麼是交叉饋送，我應該使用它嗎？" closed="true" %}}
 交叉饋送會將每個立體聲聲道經過濾波的一小部分混入另一個聲道，使耳機聽起來更像真實的喇叭，減輕硬聲像混音那種「在腦袋裡」的感覺。它是一種耳機效果（使用喇叭時請關閉它）。它基於 Bauer stereophonic-to-binaural (bs2b) 演算法建構，並包含 Chu Moy 和 Jan Meier 等預設。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="什麼是音量正規化，它與 ReplayGain 有何不同？" closed="true" %}}
+{{% ls-details title="什麼是音量正規化，它與 ReplayGain 有何不同？" closed="true" %}}
 音量正規化透過用 EBU R128 標準測量感知響度並將其拉向一個目標，使每首曲目保持一致的響度。與 ReplayGain 不同，它無需在檔案中包含響度標籤，也不會改動音訊——它對任何來源即時運作，包括雲端串流和網路電台。預設：輕度、標準、強烈和夜間。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="簡單模式和進階模式有什麼區別？" closed="true" %}}
+{{% ls-details title="簡單模式和進階模式有什麼區別？" closed="true" %}}
 簡單模式顯示一列帶淺白說明的預設，讓你一鍵獲得好聲音。進階模式則加入參數滑桿（例如殘響的混合量，或壓縮器的七個控制項），用於精確的精細調整。用每個效果編輯器右上角的模式按鈕在兩者之間切換。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="為什麼效果控制項是灰色的？" closed="true" %}}
+{{% ls-details title="為什麼效果控制項是灰色的？" closed="true" %}}
 該效果處於關閉狀態。在其編輯器右上角開啟該效果的開關，即可啟用控制項。每種效果預設關閉。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="這些效果在串流播放和 CarPlay 下有效嗎？" closed="true" %}}
+{{% ls-details title="這些效果在串流播放和 CarPlay 下有效嗎？" closed="true" %}}
 有效。這些效果執行在播放引擎內部，因此它們適用於本機檔案、雲端硬碟、媒體伺服器和網路電台，並在 CarPlay 播放期間持續運作。
-{{% /details %}}
+{{% /ls-details %}}

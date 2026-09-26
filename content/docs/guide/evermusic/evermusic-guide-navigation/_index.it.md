@@ -25,7 +25,7 @@ Le funzionalità di Evermusic sono divise in due componenti distinti: la Libreri
 Che tu stia usando un iPhone, iPad o la modalità compatta su Mac, tutte le funzioni dell'app sono facilmente accessibili tramite la barra schede nella parte inferiore dello schermo. Per gli utenti iPad e Mac, lo stesso menu si trova sul lato sinistro dello schermo. Questa organizzazione categorizza tutte le funzioni dell'app in sezioni facilmente accessibili, garantendo un'esperienza intuitiva ed efficiente.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Barra laterale sinistra di Evermusic su iPad e Mac" image="/docs/guide/evermusic/evermusic-guide-navigation/img/navigation-left-sidebar.webp" >}}
+  {{< ls-card title="" subtitle="Barra laterale sinistra di Evermusic su iPad e Mac" image="/docs/guide/evermusic/evermusic-guide-navigation/img/navigation-left-sidebar.webp" >}}
 {{< /cards >}}
 
 **Connessioni:** Puoi collegare facilmente servizi di archiviazione cloud come Google Drive, MEGA, OneDrive e Dropbox, oltre al tuo computer e NAS personale in questa schermata.
@@ -47,7 +47,7 @@ La sezione file locali è divisa in due categorie: File in questa applicazione, 
 Attiva un lettore a schermo intero toccando l'icona del mini player e usando un gesto di scorrimento verso il basso per nasconderlo. Su iPad e Mac, la schermata del mini player si trova nella parte superiore dello schermo e può essere nascosta quando si apre il lettore a schermo intero tramite il menu principale.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Barra schede iPhone" image="/docs/guide/evermusic/evermusic-guide-navigation/img/navigation-bottom-tabbar.webp" >}}
+  {{< ls-card title="" subtitle="Barra schede iPhone" image="/docs/guide/evermusic/evermusic-guide-navigation/img/navigation-bottom-tabbar.webp" >}}
 {{< /cards >}}
 
 ## Finestra Mini Player (Solo Mac)
@@ -55,7 +55,7 @@ Attiva un lettore a schermo intero toccando l'icona del mini player e usando un 
 Per accedere alla finestra del mini player sul tuo Mac, sposta semplicemente il cursore sul bordo in basso a destra della finestra dell'app e ridimensionala alla dimensione più piccola possibile. Quindi, tocca il pulsante di riduzione (raffigurato come una freccia verso il basso) per attivare la finestra del mini player. Per mantenere la finestra del mini player sempre sopra le altre finestre, vai alla barra dei menu superiore del Mac, seleziona 'Finestra' e scegli 'Mostra finestra sempre in primo piano'. Questa funzione è utile per ascoltare lezioni audio senza interruzioni.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Finestra Mini Player Mac" image="/docs/guide/evermusic/evermusic-guide-navigation/img/navigation-mac-exclusive-miniplayer.webp" >}}
+  {{< ls-card title="" subtitle="Finestra Mini Player Mac" image="/docs/guide/evermusic/evermusic-guide-navigation/img/navigation-mac-exclusive-miniplayer.webp" >}}
 {{< /cards >}}
 
 ## Altre Azioni
@@ -63,7 +63,7 @@ Per accedere alla finestra del mini player sul tuo Mac, sposta semplicemente il 
 Praticamente ogni elemento di contenuto nella schermata ha un pulsante "Altre Azioni". Toccalo per accedere a tutte le azioni disponibili.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Menu contestuale Altre Azioni" image="/docs/guide/evermusic/evermusic-guide-navigation/img/navigation-more-actions.webp" >}}
+  {{< ls-card title="" subtitle="Menu contestuale Altre Azioni" image="/docs/guide/evermusic/evermusic-guide-navigation/img/navigation-more-actions.webp" >}}
 {{< /cards >}}
 
 ## Barra degli Strumenti Superiore
@@ -77,7 +77,7 @@ Puoi mostrare o nascondere facilmente questa barra degli strumenti con un sempli
 - **Mescola Tutto:** Aggiungi tutti i brani dalla pagina corrente alla coda del lettore audio, mescolandoli prima di aggiungerli per un'esperienza di ascolto piacevole.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Barra degli strumenti superiore con Cerca, Riproduci Tutto e Mescola Tutto" image="/docs/guide/evermusic/evermusic-guide-navigation/img/navigation-top-toolbar.webp" >}}
+  {{< ls-card title="" subtitle="Barra degli strumenti superiore con Cerca, Riproduci Tutto e Mescola Tutto" image="/docs/guide/evermusic/evermusic-guide-navigation/img/navigation-top-toolbar.webp" >}}
 {{< /cards >}}
 
 ## Menu Contestuale
@@ -91,7 +91,7 @@ Il menu contestuale fornisce accesso rapido a opzioni e azioni aggiuntive per un
 **Clic Destro del Mouse:** Fai clic con il pulsante destro sulle celle, il mini player o il lettore compatto per mostrare il menu contestuale.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Menu contestuale su macOS" image="/docs/guide/evermusic/evermusic-guide-navigation/img/navigation-context-menu-macos.webp" >}}
+  {{< ls-card title="" subtitle="Menu contestuale su macOS" image="/docs/guide/evermusic/evermusic-guide-navigation/img/navigation-context-menu-macos.webp" >}}
 {{< /cards >}}
 
 ## Accessibilità
@@ -125,7 +125,7 @@ Evermusic include quattro widget per la schermata Home / schermata di blocco che
 Tutti e quattro i widget sono disponibili nelle dimensioni Piccolo, Medio e Grande così puoi scegliere il layout più adatto al tuo schermo.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Aggiunta di widget Evermusic" image="/docs/guide/evermusic/evermusic-guide-navigation/img/navigation-add-widgets.webp" >}}
+  {{< ls-card title="" subtitle="Aggiunta di widget Evermusic" image="/docs/guide/evermusic/evermusic-guide-navigation/img/navigation-add-widgets.webp" >}}
 {{< /cards >}}
 
 ### Aggiungi un widget su iPhone (Schermata Home)
@@ -175,7 +175,7 @@ Il widget CarPlay si aggiorna in tempo reale con il cambio della musica ed è co
 Evermusic include un'interfaccia **Apple CarPlay** completamente funzionale (solo iOS) ottimizzata per il display dell'auto. Una volta che il tuo iPhone è connesso a un'unità head CarPlay compatibile — tramite USB o wireless — Evermusic appare insieme ad Apple Music e Spotify nella griglia delle app CarPlay, pronto a trasmettere la tua libreria cloud in viaggio.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evermusic nella schermata CarPlay" image="/docs/guide/evermusic/evermusic-guide-navigation/img/navigation-carplay-menu.webp" >}}
+  {{< ls-card title="" subtitle="Evermusic nella schermata CarPlay" image="/docs/guide/evermusic/evermusic-guide-navigation/img/navigation-carplay-menu.webp" >}}
 {{< /cards >}}
 
 ### Cosa ottieni in CarPlay

@@ -7,7 +7,7 @@ tags: ["áudio", "reprodutor", "computador", "arquivos", "arquivo", "PC", "Mac",
 keywords: ["iTunes file sharing", "reproduzir música local", "transferir música para iPhone", "copiar arquivos para iOS", "Mac para iPhone áudio", "arquivos locais no iPhone", "Evermusic", "Flacbox", "reprodutor de música", "compartilhamento de arquivos", "WiFi Drive", "streaming de música SMB", "app de música iPhone", "importar música para iOS"]
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **Resumo:** Transfira música do seu computador para o iPhone usando um dos três métodos: **iTunes/Finder File Sharing** (cabo USB), **[WiFi Drive](/docs/howto/how-to-transfer-music-from-computer-to-iphone-without-itunes)** (sem fio, sem cabo necessário), ou **[SMB](/docs/howto/stream-your-music-from-mac-or-pc-to-iphone-using-smb/)** (transmita diretamente sem copiar). Depois reproduza com [Evermusic](/products/evermusic) ou [Flacbox](/products/flacbox).
@@ -134,22 +134,22 @@ Você também pode conectar seu computador usando o protocolo SMB para transmiti
 
 ## FAQ
 
-{{% details title="Qual é a maneira mais rápida de transferir música para o iPhone?" closed="true" %}}
+{{% ls-details title="Qual é a maneira mais rápida de transferir música para o iPhone?" closed="true" %}}
 iTunes/Finder File Sharing via USB é o método mais rápido para grandes bibliotecas de música. Para transferências menores, o WiFi Drive é mais conveniente, pois não requer cabo.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Posso transferir arquivos FLAC para o meu iPhone?" closed="true" %}}
+{{% ls-details title="Posso transferir arquivos FLAC para o meu iPhone?" closed="true" %}}
 Sim. Tanto o Evermusic quanto o Flacbox aceitam arquivos FLAC via iTunes File Sharing, WiFi Drive ou SMB. O Flacbox é recomendado para formatos sem perdas.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Preciso do iTunes no macOS Catalina ou posterior?" closed="true" %}}
+{{% ls-details title="Preciso do iTunes no macOS Catalina ou posterior?" closed="true" %}}
 Não. A Apple substituiu o iTunes pelo Finder para gerenciamento de dispositivos a partir do macOS Catalina. Use a aba Arquivos do Finder para compartilhamento de arquivos.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Posso transmitir música sem copiar arquivos para o meu iPhone?" closed="true" %}}
+{{% ls-details title="Posso transmitir música sem copiar arquivos para o meu iPhone?" closed="true" %}}
 Sim. Use o protocolo SMB para transmitir música diretamente do Mac ou PC. Isso economiza armazenamento do dispositivo e mantém sua biblioteca no computador.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Qual aplicativo devo usar -- Evermusic ou Flacbox?" closed="true" %}}
+{{% ls-details title="Qual aplicativo devo usar -- Evermusic ou Flacbox?" closed="true" %}}
 Use o Evermusic para formatos padrão como MP3, WAV e AAC. Escolha o Flacbox se sua biblioteca inclui formatos sem perdas como FLAC, DSD ou OGG.
-{{% /details %}}
+{{% /ls-details %}}

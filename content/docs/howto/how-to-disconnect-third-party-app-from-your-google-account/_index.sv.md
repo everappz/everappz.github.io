@@ -7,7 +7,7 @@ tags: ["google", "säkerhet", "integritet", "appar", "konto", "åtkomst"]
 readingTime: 2
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **Sammanfattning:** Gå till [myaccount.google.com](https://myaccount.google.com/) > Säkerhet > Tredjepartsappar och -tjänster. Klicka på appen du vill ta bort och välj sedan "Ta bort åtkomst" eller "Ta bort alla anslutningar." Upprepa för varje app.
@@ -75,18 +75,18 @@ Kom ihåg att även om tredjepartsappar kan förbättra din digitala upplevelse,
 
 ## Vanliga frågor
 
-{{% details title="Kommer bortkoppling av en app att radera mina data från den appen?" closed="true" %}}
+{{% ls-details title="Kommer bortkoppling av en app att radera mina data från den appen?" closed="true" %}}
 Nej. Att ta bort åtkomst hindrar bara appen från att komma åt ditt Google-konto framöver. Data som redan delats med appen kan fortfarande finnas på deras servrar. Kontrollera appens egna integritetsinställningar för att radera dessa data.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Kan jag återansluta en app efter att ha kopplat bort den?" closed="true" %}}
+{{% ls-details title="Kan jag återansluta en app efter att ha kopplat bort den?" closed="true" %}}
 Ja. Om du behöver appen igen, logga bara in med Google när du uppmanas. Appen kommer att begära behörigheter igen, och du kan granska dem innan du ger åtkomst.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Hur ofta bör jag granska åtkomsten för tredjepartsappar?" closed="true" %}}
+{{% ls-details title="Hur ofta bör jag granska åtkomsten för tredjepartsappar?" closed="true" %}}
 Granska dina anslutna appar var 3:e till 6:e månad, eller omedelbart efter att du slutar använda en tjänst. Regelbundna granskningar hjälper till att hålla ditt konto säkert.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Påverkar detta appar som Evermusic som ansluter till Google Drive?" closed="true" %}}
+{{% ls-details title="Påverkar detta appar som Evermusic som ansluter till Google Drive?" closed="true" %}}
 Ja. Om du kopplar bort en app som Evermusic eller Flacbox från ditt Google-konto förlorar den åtkomsten till dina Google Drive-filer. Du kan återansluta när som helst inifrån appen.
-{{% /details %}}
+{{% /ls-details %}}

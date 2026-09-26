@@ -12,7 +12,7 @@ authors:
     image: "/images/about/artem-meleshko-founder-everappz.webp"
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 **Кратко:** Flacbox превысил 1 миллион загрузок по всему миру. Поддерживает FLAC, ALAC, APE, DSD и другие lossless форматы с 10-полосным эквалайзером, плейлистами M3U/CUE, офлайн-воспроизведением и синхронизацией между устройствами на iPhone, iPad и Mac.
 
@@ -78,26 +78,26 @@ Flacbox воспроизводит вашу музыку именно так, к
 
 ## Часто Задаваемые Вопросы
 
-{{% details title="Какие аудиоформаты поддерживает Flacbox?" closed="true" %}}
+{{% ls-details title="Какие аудиоформаты поддерживает Flacbox?" closed="true" %}}
 Flacbox воспроизводит FLAC, ALAC, APE, DSD, WavPack, TTA, RealAudio, MP3, AAC, OGG и многие другие форматы. Он предназначен в первую очередь для безпотерьного аудио и hi-res.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Есть ли у Flacbox эквалайзер?" closed="true" %}}
+{{% ls-details title="Есть ли у Flacbox эквалайзер?" closed="true" %}}
 Да. Flacbox включает 10-полосный эквалайзер с пресетами жанров и ручной настройкой частот.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Могу ли я слушать музыку офлайн с Flacbox?" closed="true" %}}
+{{% ls-details title="Могу ли я слушать музыку офлайн с Flacbox?" closed="true" %}}
 Да. Загрузите файлы из облачного хранилища или перенесите их напрямую в приложение для офлайн-воспроизведения без подключения к интернету.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Работает ли Flacbox на Mac?" closed="true" %}}
+{{% ls-details title="Работает ли Flacbox на Mac?" closed="true" %}}
 Да. Flacbox работает на iPhone, iPad и Mac с синхронизированными библиотеками и историей воспроизведения на всех устройствах.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Что такое поддержка CUE-файлов?" closed="true" %}}
+{{% ls-details title="Что такое поддержка CUE-файлов?" closed="true" %}}
 CUE-файлы определяют границы треков в одном аудиофайле. Flacbox читает CUE-файлы для разделения копий альбомов на отдельные треки с правильными метаданными.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Flacbox бесплатный?" closed="true" %}}
+{{% ls-details title="Flacbox бесплатный?" closed="true" %}}
 Flacbox бесплатен для скачивания с опциональными премиум-функциями, доступными через покупку в приложении.
-{{% /details %}}
+{{% /ls-details %}}

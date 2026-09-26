@@ -12,7 +12,7 @@ authors:
     image: "/images/about/artem-meleshko-founder-everappz.webp"
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 **Özetle:** [Flacbox 7.4](/products/flacbox), iPhone ve Mac için hi-res ses çaların büyük bir güncellemesidir. CarPlay temelden yeniden inşa edildi — hızlı sıralama, birden çok renk teması, yeni bir Şimdi Çalınıyor ekranı, bir bakışta tam çalma kuyruğu ve büyük kütüphaneler için harf dizini. Güncelleme, müziğinize ulaşmak için 10+ yeni yol ekler — gizlilik öncelikli bulutlar **Internxt** ve **Proton Drive**, kişisel sunucular **QNAP**, **Nextcloud** ve **Amazon S3**, akış sunucuları **Plex**, **Subsonic**, **Navidrome**, **Jellyfin** ve **Emby**, ayrıca ağ protokolleri **FTP**, **SFTP** ve **NFS**. Arayüz Apple'ın yeni **Liquid Glass** malzemesi için ayarlandı, alttaki ağ kitaplıkları daha güçlü ve Ana Ekran widget'ları daha güvenilir şekilde yenileniyor.
 
@@ -121,50 +121,50 @@ Uygulama gününüzü daha iyi yapıyorsa, App Store'da bir puan gerçekten yard
 
 ## Sık Sorulan Sorular
 
-{{% details title="Flacbox 7.4'te yenilikler nelerdir?" closed="true" %}}
+{{% ls-details title="Flacbox 7.4'te yenilikler nelerdir?" closed="true" %}}
 Flacbox 7.4, tamamen yeniden inşa edilmiş bir CarPlay deneyimi sunar ve 10+ yeni bağlantı ekler — Plex, Jellyfin, Emby, Subsonic, Navidrome, Internxt, Proton Drive, QNAP, Nextcloud, Amazon S3, FTP, SFTP, NFS. Sürüm ayrıca bir Liquid Glass tasarım yenilemesi, daha güçlü ağ kitaplıkları, daha akıllı yenilemeli yeniden tasarlanmış Ana Ekran widget'ları, bazı sunucularda oynatım düzeltmeleri, çeviri iyileştirmeleri ve birçok küçük cila öğesi getirir.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Flacbox FLAC ve kayıpsız ses için Plex ile çalışır mı?" closed="true" %}}
+{{% ls-details title="Flacbox FLAC ve kayıpsız ses için Plex ile çalışır mı?" closed="true" %}}
 Evet. Flacbox 7.4 ile başlayarak bir Plex Media Server'a bağlanabilir ve tüm hi-res kütüphanenizi akıtabilirsiniz — FLAC, ALAC, WAV, AIFF, OGG, OPUS ve diğer kayıpsız formatlar. Plex Media Server çalıştırmak için ücretsizdir; Plex Pass isteğe bağlıdır. Flacbox hem ücretsiz hem de Plex Pass kurulumlarını destekler.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Jellyfin veya Navidrome Flacbox'ta destekleniyor mu?" closed="true" %}}
+{{% ls-details title="Jellyfin veya Navidrome Flacbox'ta destekleniyor mu?" closed="true" %}}
 Evet. Her ikisi de Flacbox 7.4'te tam olarak desteklenmektedir. Jellyfin ücretsiz, açık kaynaklı bir medya sunucusudur. Navidrome, Subsonic API'sini uygulayan ücretsiz, açık kaynaklı bir müzik sunucusudur. Flacbox her ikisine de yerel olarak bağlanır ve kayıpsız kütüphanenizi tam meta veriler ve kapakla akıtır.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Plex, Jellyfin, Emby, Navidrome ve Subsonic ücretsiz mi?" closed="true" %}}
+{{% ls-details title="Plex, Jellyfin, Emby, Navidrome ve Subsonic ücretsiz mi?" closed="true" %}}
 - **Plex** — sunucu ücretsizdir; Plex Pass isteğe bağlı ücretli bir yükseltmedir.
 - **Jellyfin** — tamamen ücretsiz ve açık kaynak.
 - **Emby** — sunucu ücretsizdir; Emby Premiere ücretlidir ve mobil eşitleme ile çevrimdışı eşitlemenin kilidini açar.
 - **Navidrome** — tamamen ücretsiz ve açık kaynak.
 - **Subsonic** — resmi sunucu 30 günlük denemeden sonra ayda 1 $'dır, ancak API'si açıktır ve birçok ücretsiz sunucu (Navidrome dahil) bunu uygular.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Ev NAS'ımdan SFTP, FTP veya NFS üzerinden FLAC ve DSD akıtabilir miyim?" closed="true" %}}
+{{% ls-details title="Ev NAS'ımdan SFTP, FTP veya NFS üzerinden FLAC ve DSD akıtabilir miyim?" closed="true" %}}
 Evet. Flacbox 7.4, SFTP, FTP ve NFS'yi yerel bağlantı türleri olarak ekler. SFTP, tüm trafik SSH üzerinden şifrelendiği için kendi sunucunuzdan açık internet üzerinden akış yapmak için önerilen seçimdir. FTP ve NFS en iyi yerel ağınızın içinde veya bir VPN arkasında kullanılır.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Flacbox'ı SFTP kullanarak özel bir sunucuya nasıl bağlarım?" closed="true" %}}
+{{% ls-details title="Flacbox'ı SFTP kullanarak özel bir sunucuya nasıl bağlarım?" closed="true" %}}
 Flacbox'ı açın, Connections sekmesine gidin, SFTP'yi seçin ve sunucunuzun ana bilgisayar adını veya IP'sini, bağlantı noktasını (genellikle 22), kullanıcı adını ve bir parolayı veya SSH özel anahtarını girin. Flacbox uzak klasörlerinizde gezinecek ve uçtan uca şifreleme ile ses dosyalarını doğrudan akıtacaktır.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Flacbox Internxt ve Proton Drive'ı destekler mi?" closed="true" %}}
+{{% ls-details title="Flacbox Internxt ve Proton Drive'ı destekler mi?" closed="true" %}}
 Evet. Her iki gizlilik odaklı bulut da Flacbox 7.4 itibarıyla desteklenmektedir. Uygulamada zaten mevcut olan MEGA ve diğer gizlilik öncelikli hizmetlere katılırlar.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Flacbox, Plex, Jellyfin veya bir NAS'tan DSD dosyalarını çalar mı?" closed="true" %}}
+{{% ls-details title="Flacbox, Plex, Jellyfin veya bir NAS'tan DSD dosyalarını çalar mı?" closed="true" %}}
 Evet. Flacbox, Plex, Jellyfin, Emby, Subsonic uyumlu sunucular, QNAP, Nextcloud, Amazon S3 ve SFTP, FTP ve NFS üzerinden akıtılan DSD64, DSD128 ve DSD256 dosyalarını (DSF ve DFF kapları) çalar. USB DAC'lara bit-perfect çıkış iPhone, iPad ve Mac'te desteklenir.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Yeniden tasarlanan CarPlay ekranları nasıl çalışır?" closed="true" %}}
+{{% ls-details title="Yeniden tasarlanan CarPlay ekranları nasıl çalışır?" closed="true" %}}
 Flacbox'un CarPlay arayüzü, albümler, sanatçılar, çalma listeleri ve klasörler arasında hızlı sıralama; farklı araç iç mekanlarıyla eşleşen birden çok renk teması; yeni kontrollere sahip yeni bir Şimdi Çalınıyor ekranı; bir bakışta tam çalma kuyruğu; büyük kütüphaneler arasında atlamak için bir harf dizini; ve büyük klasörlerde ve bulut dizinlerinde daha hızlı yükleme ile yeniden inşa edildi.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Flacbox 7.4 ücretsiz güncelleme mi?" closed="true" %}}
+{{% ls-details title="Flacbox 7.4 ücretsiz güncelleme mi?" closed="true" %}}
 Evet. Flacbox, App Store'dan ücretsiz bir indirmedir ve 7.4 tüm mevcut kullanıcılar için ücretsiz bir güncellemedir. Yeniden inşa edilen CarPlay, tüm yeni bulut ve sunucu bağlantıları, yenilenen Ana Ekran widget'ları ve Liquid Glass arayüzü temel güncellemenin bir parçasıdır.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Flacbox 7.4 hangi cihazlarda mevcut?" closed="true" %}}
+{{% ls-details title="Flacbox 7.4 hangi cihazlarda mevcut?" closed="true" %}}
 Flacbox 7.4 iPhone, iPad ve Mac'te çalışır. CarPlay desteği, CarPlay uyumlu bir araç veya satış sonrası baş ünite gerektirir. AirPlay ve Chromecast, oynatmayı daha büyük bir sisteme aktarmanıza olanak tanır; USB DAC'lar bit-perfect kayıpsız çıkış için desteklenir.
-{{% /details %}}
+{{% /ls-details %}}

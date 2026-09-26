@@ -19,7 +19,7 @@ Evervideo ofereix una interfície neta i intuïtiva que resulta familiar per a q
 A diferència de la majoria d'apps multimèdia, Evervideo fusiona els comptes al núvol, els recursos compartits NAS, els servidors multimèdia i els fitxers locals en una sola pestanya Fitxers unificada — de manera que no cal anar saltant entre pantalles separades. Això fa que moure un vídeo d'un servidor Plex a una carpeta d'iCloud Drive i a la carpeta Documents de l'iPhone sigui una operació d'una sola pantalla i una sola pulsació.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Pantalla principal d'Evervideo" image="/docs/guide/evervideo/img/evervideo-main.webp" >}}
+  {{< ls-card title="" subtitle="Pantalla principal d'Evervideo" image="/docs/guide/evervideo/img/evervideo-main.webp" >}}
 {{< /cards >}}
 
 ## Pestanyes
@@ -53,7 +53,7 @@ PiP funciona amb tots els formats de vídeo que reprodueix Evervideo, incloent f
 Pràcticament cada element de contingut a la pantalla té un botó Més accions (la icona de tres punts "⋯"). Toca'l per obrir un menú sensible al context amb cada acció disponible per a aquell element — reproduir a continuació, reproduir més tard, afegir a la llista de reproducció, afegir als preferits, editar etiquetes, descarregar, compartir, reanomenar, moure, etc. Les llistes llargues es desplacen verticalment perquè puguis accedir a accions menys habituals sense saturar la interfície principal.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Menú Més accions de Preferits a Evervideo" image="/docs/guide/evervideo/img/evervideo-favorites-more-actions.webp" >}}
+  {{< ls-card title="" subtitle="Menú Més accions de Preferits a Evervideo" image="/docs/guide/evervideo/img/evervideo-favorites-more-actions.webp" >}}
 {{< /cards >}}
 
 ## Barra d'eines superior

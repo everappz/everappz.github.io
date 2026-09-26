@@ -14,7 +14,7 @@ authors:
     image: "/images/about/artem-meleshko-founder-everappz.webp"
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 **摘要：** Evermusic在8个类别中赢得5个，3个持平。它提供更广泛的云存储支持（12+服务 vs 仅VOX Cloud）、内置有声书功能、ID3标签编辑器和无线文件传输。VOX吸引偏好其专有云和极简设计的用户。
 
@@ -34,8 +34,8 @@ authors:
 | 无障碍功能（VoiceOver） | 是 | 是 | 持平 |
 
 {{< cards >}}
-  {{< card link="https://apps.apple.com/us/app/evermusic-cloud-music-player/id885367198" title="下载Evermusic" icon="download" tag="免费" >}}
-  {{< card link="https://apps.apple.com/us/app/vox-mp3-flac-music-player/id916215494" title="下载VOX" icon="download" tag="免费" >}}
+  {{< ls-card link="https://apps.apple.com/us/app/evermusic-cloud-music-player/id885367198" title="下载Evermusic" icon="download" tag="免费" >}}
+  {{< ls-card link="https://apps.apple.com/us/app/vox-mp3-flac-music-player/id916215494" title="下载VOX" icon="download" tag="免费" >}}
 {{< /cards >}}
 
 ## 云存储支持
@@ -107,18 +107,18 @@ Evermusic包含**Wi-Fi Drive**模式，让您通过网页浏览器在设备之�
 
 ## 常见问题
 
-{{% details title="Evermusic是VOX的好替代品吗？" closed="true" %}}
+{{% ls-details title="Evermusic是VOX的好替代品吗？" closed="true" %}}
 是的。Evermusic支持12+云存储服务，而VOX只有专有云。它还提供有声书功能、ID3标签编辑和Wi-Fi文件传输，这些是VOX所缺少的。Evermusic免费下载，可选一次性Premium升级。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="VOX支持Dropbox或Google Drive吗？" closed="true" %}}
+{{% ls-details title="VOX支持Dropbox或Google Drive吗？" closed="true" %}}
 不支持。VOX使用其专有云存储VOX Cloud。它不连接Dropbox、Google Drive或OneDrive等第三方服务。Evermusic支持所有这些服务及更多。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="哪款应用更适合有声书：Evermusic还是VOX？" closed="true" %}}
+{{% ls-details title="哪款应用更适合有声书：Evermusic还是VOX？" closed="true" %}}
 Evermusic在有声书方面明显更好。它包含播放速度控制、自动位置保存和书签支持。VOX没有专用的有声书功能。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="我可以用Evermusic在iPhone上编辑音乐标签吗？" closed="true" %}}
+{{% ls-details title="我可以用Evermusic在iPhone上编辑音乐标签吗？" closed="true" %}}
 可以。Evermusic包含内置的ID3标签编辑器，让您直接在iPhone或iPad上修复曲目标题、艺术家名称、专辑信息和其他元数据。
-{{% /details %}}
+{{% /ls-details %}}

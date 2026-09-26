@@ -17,7 +17,7 @@ readingTime: 11
 ## การเข้าถึงเพลเยอร์
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="หน้าจอเครื่องเล่นเสียง Evermusic" image="/docs/guide/evermusic/evermusic-guide-player/img/player-main.webp" >}}
+  {{< ls-card title="" subtitle="หน้าจอเครื่องเล่นเสียง Evermusic" image="/docs/guide/evermusic/evermusic-guide-player/img/player-main.webp" >}}
 {{< /cards >}}
 
 คุณสามารถเข้าถึงเพลเยอร์แบบเต็มหน้าจอได้จากมุมมองมินิเพลเยอร์ บน iPhone คุณจะพบมินิเพลเยอร์เหนือแถบแท็บบนหน้าจอหลัก บน iPad หรือ Mac สามารถเข้าถึงได้จากเมนูซ้าย หากต้องการซ่อนมินิเพลเยอร์ ให้แตะไอคอนและปัดลง หากต้องการซ่อนเพลเยอร์แบบเต็มหน้าจอโดยสมบูรณ์ ให้แตะปุ่มปิดที่มุมขวาล่าง
@@ -44,7 +44,7 @@ readingTime: 11
 ## การควบคุมระดับเสียง
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="การควบคุมระดับเสียงพร้อม AirPlay และ Google Cast" image="/docs/guide/evermusic/evermusic-guide-player/img/player-volume-control.webp" >}}
+  {{< ls-card title="" subtitle="การควบคุมระดับเสียงพร้อม AirPlay และ Google Cast" image="/docs/guide/evermusic/evermusic-guide-player/img/player-volume-control.webp" >}}
 {{< /cards >}}
 
 ค้นหาแถบเลื่อนระดับเสียงบนหน้าจอการตั้งค่าเสียงโดยแตะที่ไอคอนเสียงใต้การควบคุมการเล่น คุณสามารถเปลี่ยนระดับเสียงโดยใช้แถบเลื่อนนี้หรือปุ่มระดับเสียงมาตรฐานบนอุปกรณ์ของคุณ นอกจากนี้คุณยังจะพบปุ่มสตรีมมิ่งที่สะดวก:
@@ -63,7 +63,7 @@ readingTime: 11
 ## อีควอไลเซอร์เสียง
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="อีควอไลเซอร์เสียง 10 แบนด์" image="/docs/guide/evermusic/evermusic-guide-player/img/player-equalizer.webp" >}}
+  {{< ls-card title="" subtitle="อีควอไลเซอร์เสียง 10 แบนด์" image="/docs/guide/evermusic/evermusic-guide-player/img/player-equalizer.webp" >}}
 {{< /cards >}}
 
 Evermusic มาพร้อมอีควอไลเซอร์ 10 แบนด์ พร้อมค่าพรีเซ็ตสไตล์ iPod, พรีแอมพลิฟายเออร์ และการตั้งค่าอีควอไลเซอร์ด้วยตนเอง หากต้องการเปิดใช้งานอีควอไลเซอร์ เพียงแตะปุ่ม "อีควอไลเซอร์" บนแถบเครื่องมือด้านล่างและสลับตัวควบคุมที่มุมขวาบน คุณสามารถเลือกจากค่าพรีเซ็ตอีควอไลเซอร์ที่กำหนดไว้ล่วงหน้าต่างๆ เช่น "อะคูสติก", "บูสต์เบส", "คลาสสิก" และอื่นๆ หากคุณเป็นผู้ที่ชื่นชอบเสียง คุณจะชื่นชมความสามารถในการปรับแต่งแต่ละแบนด์ความถี่อย่างละเอียดโดยใช้แถบเลื่อน อย่าลังเลที่จะสร้างและบันทึกค่าพรีเซ็ตอีควอไลเซอร์เสียงของคุณเอง หากแทร็กไม่ดังพอ คุณยังสามารถปรับเกนพรีแอมพลิฟายเออร์ได้ เรามีคำแนะนำโดยละเอียดเพิ่มเติมเกี่ยวกับวิธีใช้อีควอไลเซอร์ [ที่นี่](/docs/howto/how-to-use-the-audio-equalizer-on-your-iphone-ipad-mac-with-evermusic-and-flacbox)
@@ -71,7 +71,7 @@ Evermusic มาพร้อมอีควอไลเซอร์ 10 แบน
 ## แถบเครื่องมือโหมดเพลเยอร์
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="แถบเครื่องมือด้านบนเพลเยอร์พร้อมค้นหาและความเร็ว" image="/docs/guide/evermusic/evermusic-guide-player/img/player-top-toolbar.webp" >}}
+  {{< ls-card title="" subtitle="แถบเครื่องมือด้านบนเพลเยอร์พร้อมค้นหาและความเร็ว" image="/docs/guide/evermusic/evermusic-guide-player/img/player-top-toolbar.webp" >}}
 {{< /cards >}}
 
 สำหรับสไตล์หน้าจอเพลเยอร์บางส่วน คุณจะพบแถบเครื่องมือโหมดเพลเยอร์ที่ด้านบนของหน้าจอเพลเยอร์ ใต้แถบนำทาง แถบเครื่องมือที่สะดวกนี้มีสามปุ่ม
@@ -82,7 +82,7 @@ Evermusic มาพร้อมอีควอไลเซอร์ 10 แบน
 ## บุ๊คมาร์คเสียง
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="บุ๊คมาร์คเสียงสำหรับหนังสือเสียงและการบรรยาย" image="/docs/guide/evermusic/evermusic-guide-player/img/player-bookmarks.webp" >}}
+  {{< ls-card title="" subtitle="บุ๊คมาร์คเสียงสำหรับหนังสือเสียงและการบรรยาย" image="/docs/guide/evermusic/evermusic-guide-player/img/player-bookmarks.webp" >}}
 {{< /cards >}}
 
 ที่นี่คุณสามารถสร้างบุ๊คมาร์คหลายรายการสำหรับแทร็กในคลังเพลงของคุณ เรามีคำแนะนำฉบับเต็มเกี่ยวกับวิธีใช้บุ๊คมาร์ค [ที่นี่](/docs/howto/how-to-listen-to-audiobooks-on-iphone-ipad-mac-using-evermusic)
@@ -90,7 +90,7 @@ Evermusic มาพร้อมอีควอไลเซอร์ 10 แบน
 ## คิวเพลเยอร์
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="คิวเพลเยอร์" image="/docs/guide/evermusic/evermusic-guide-player/img/player-queue.webp" >}}
+  {{< ls-card title="" subtitle="คิวเพลเยอร์" image="/docs/guide/evermusic/evermusic-guide-player/img/player-queue.webp" >}}
 {{< /cards >}}
 
 หากต้องการเข้าถึงคิวเพลเยอร์ของคุณ เพียงแตะปุ่มคิวเพลเยอร์บนแถบเครื่องมือด้านล่าง ใช้ตัวบ่งชี้การจัดเรียงใหม่ใกล้กับชื่อเพื่อย้ายเพลงในคิว
@@ -98,7 +98,7 @@ Evermusic มาพร้อมอีควอไลเซอร์ 10 แบน
 ## ความคิดเห็น / เนื้อเพลง
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="ความคิดเห็น เนื้อเพลงที่ฝัง และไฟล์ LRC" image="/docs/guide/evermusic/evermusic-guide-player/img/player-lyrics.webp" >}}
+  {{< ls-card title="" subtitle="ความคิดเห็น เนื้อเพลงที่ฝัง และไฟล์ LRC" image="/docs/guide/evermusic/evermusic-guide-player/img/player-lyrics.webp" >}}
 {{< /cards >}}
 
 หากต้องการดูความคิดเห็นแทร็กและเนื้อเพลงที่ฝัง รวมถึงไฟล์ LRC ให้ทำตามขั้นตอนเหล่านี้:
@@ -114,7 +114,7 @@ Evermusic มาพร้อมอีควอไลเซอร์ 10 แบน
 ## เมนูตัวเลือก
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="เมนูตัวเลือกสำหรับรายการในคิว" image="/docs/guide/evermusic/evermusic-guide-player/img/player-queue-item-options-menu.webp" >}}
+  {{< ls-card title="" subtitle="เมนูตัวเลือกสำหรับรายการในคิว" image="/docs/guide/evermusic/evermusic-guide-player/img/player-queue-item-options-menu.webp" >}}
 {{< /cards >}}
 
 แทร็กแต่ละรายการในคิวเครื่องเล่นเสียงมีเมนูพร้อมการดำเนินการเพิ่มเติม ซึ่งคุณสามารถเข้าถึงได้โดยแตะปุ่มสามจุดใกล้ชื่อแทร็ก การดำเนินการที่มีคือ:
@@ -153,7 +153,7 @@ Evermusic มาพร้อมอีควอไลเซอร์ 10 แบน
 ## ล่าสุดและรายการโปรด
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="เพลงที่เล่นล่าสุดจากเพลเยอร์" image="/docs/guide/evermusic/evermusic-guide-player/img/player-recents.webp" >}}
+  {{< ls-card title="" subtitle="เพลงที่เล่นล่าสุดจากเพลเยอร์" image="/docs/guide/evermusic/evermusic-guide-player/img/player-recents.webp" >}}
 {{< /cards >}}
 
 บนหน้าจอเพลเยอร์ คุณสามารถเข้าถึงส่วน 'ล่าสุด' และ 'รายการโปรด' โดยแตะปุ่มดำเนินการเพิ่มเติม '…' และเลือกรายการเมนูที่เกี่ยวข้อง ในทั้งสองส่วน คุณสามารถค้นหาเพลง เล่นทุกแทร็ก สุ่มทุกแทร็ก ส่งออกรายการ และลบรายการ เรามีคำแนะนำโดยละเอียดเกี่ยวกับวิธีส่งออกรายการเพลง [ที่นี่](/docs/howto/export-tracks-collection-from-evermusic-flacbox-to-m3u-csv-txt/)
@@ -161,7 +161,7 @@ Evermusic มาพร้อมอีควอไลเซอร์ 10 แบน
 ## หน้าต่างมินิเพลเยอร์ (เฉพาะ Mac)
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="หน้าต่างมินิเพลเยอร์ Mac" image="/docs/guide/evermusic/evermusic-guide-player/img/player-mini-mac.webp" >}}
+  {{< ls-card title="" subtitle="หน้าต่างมินิเพลเยอร์ Mac" image="/docs/guide/evermusic/evermusic-guide-player/img/player-mini-mac.webp" >}}
 {{< /cards >}}
 
 สำหรับผู้ใช้ Mac มีหน้าต่างมินิเพลเยอร์ที่สะดวก หากต้องการเข้าถึง เพียงย้ายเคอร์เซอร์ไปที่มุมขวาล่างของหน้าต่างแอปและปรับขนาดให้เล็กที่สุดเท่าที่จะเป็นไปได้ จากนั้นแตะปุ่มยุบ (แสดงเป็นลูกศรลง) เพื่อเปิดใช้งานหน้าต่างมินิเพลเยอร์ หากต้องการให้อยู่ด้านบนหน้าต่างอื่น ให้ไปที่แถบเมนูด้านบนของ Mac เลือก 'Window' และเลือก 'Show Window Always On Top' ฟีเจอร์นี้สะดวกเป็นพิเศษเมื่อคุณฟังการบรรยายเสียงและไม่ต้องการการขัดจังหวะใดๆ
@@ -169,7 +169,7 @@ Evermusic มาพร้อมอีควอไลเซอร์ 10 แบน
 ## แป้นพิมพ์ลัด (เฉพาะ Mac)
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="เมนูเล่นแถบสถานะ Mac พร้อมแป้นพิมพ์ลัด" image="/docs/guide/evermusic/evermusic-guide-player/img/player-mac-shortcuts.webp" >}}
+  {{< ls-card title="" subtitle="เมนูเล่นแถบสถานะ Mac พร้อมแป้นพิมพ์ลัด" image="/docs/guide/evermusic/evermusic-guide-player/img/player-mac-shortcuts.webp" >}}
 {{< /cards >}}
 
 สำหรับผู้ใช้ Mac มีเมนูเล่นระบบบนแถบสถานะพร้อมแป้นพิมพ์ลัด ตัวอย่างเช่น เพื่อเล่น/หยุดชั่วคราว เพียงแตะแป้นเว้นวรรคบนแป้นพิมพ์ของคุณ แป้นพิมพ์ลัดสำหรับหยุด, เพลงถัดไป, เพลงก่อนหน้า, ข้ามเวลา, ทำซ้ำ, สุ่ม และความเร็วการเล่นมีให้ใช้งานตามที่แสดงในภาพหน้าจอ
@@ -177,7 +177,7 @@ Evermusic มาพร้อมอีควอไลเซอร์ 10 แบน
 ## การตั้งค่าเครื่องเล่นเสียง
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="การตั้งค่าเครื่องเล่นเสียง" image="/docs/guide/evermusic/evermusic-guide-player/img/player-settings.webp" >}}
+  {{< ls-card title="" subtitle="การตั้งค่าเครื่องเล่นเสียง" image="/docs/guide/evermusic/evermusic-guide-player/img/player-settings.webp" >}}
 {{< /cards >}}
 
 หากต้องการเข้าถึงการตั้งค่าเครื่องเล่นเสียง แตะปุ่มเพิ่มเติมบนหน้าจอเครื่องเล่นเสียงและเลือก "การตั้งค่า" จากเมนูแบบเลื่อนลง ที่นี่คุณจะพบส่วนต่างๆ ที่จัดกลุ่มตามฟังก์ชัน:

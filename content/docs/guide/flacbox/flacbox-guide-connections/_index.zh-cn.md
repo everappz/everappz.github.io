@@ -19,7 +19,7 @@ readingTime: 12
 在此屏幕上，您可以连接存储音乐的所有来源。您可以集成 Dropbox、Google Drive、iCloud Drive、OneDrive、MEGA、Box、pCloud、Yandex Disk、Synology Drive 等热门云服务，以及通过标准协议连接 Mac、PC 或 NAS。无论您的音乐收藏存储在 Dropbox 等云服务还是 Synology、QNAP、Buffalo、Apple Time Capsule、WD My Cloud Home 等个人 NAS 上，Flacbox 都能从单一屏幕连接所有这些来源。
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox 连接屏幕" image="/docs/guide/flacbox/img/connections-main.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox 连接屏幕" image="/docs/guide/flacbox/img/connections-main.webp" >}}
 {{< /cards >}}
 
 ## 连接到云存储
@@ -30,7 +30,7 @@ readingTime: 12
 - 在云服务提供商的官方授权页面上输入您的凭据，然后点击**完成**。
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox 添加云存储服务" image="/docs/guide/flacbox/img/add-cloud-storage.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox 添加云存储服务" image="/docs/guide/flacbox/img/add-cloud-storage.webp" >}}
 {{< /cards >}}
 
 如果遇到问题，请检查网络连接和登录名 / 密码。在 Premium 版本中，您可以添加无限数量的服务；免费版本最多支持三个。
@@ -132,7 +132,7 @@ Flacbox 支持 Subsonic API，即可与 **Subsonic**、**Navidrome** 及每个�
 - 如需要，输入登录信息以完成连接。
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox 本地网络上的可用设备" image="/docs/guide/flacbox/img/available-devies.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox 本地网络上的可用设备" image="/docs/guide/flacbox/img/available-devies.webp" >}}
 {{< /cards >}}
 
 ## Wi-Fi Drive
@@ -147,7 +147,7 @@ Wi-Fi Drive 是一种便捷技术，可通过任何桌面浏览器从电脑无�
 - 点击**启动 Wi-Fi Drive** 以启用 Wi-Fi Drive。
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox Wi-Fi Drive" image="/docs/guide/flacbox/img/wifi-drive.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox Wi-Fi Drive" image="/docs/guide/flacbox/img/wifi-drive.webp" >}}
 {{< /cards >}}
 
 ### 在电脑上访问 Wi-Fi Drive
@@ -230,7 +230,7 @@ iTunes 文件共享（在 macOS Catalina 及更高版本上现为 Finder 文件�
 - **删除** — 从云存储中永久删除文件。**此操作无法撤销。**
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox 已连接云存储中文件的更多操作" image="/docs/guide/flacbox/img/more-actions-for-file-in-connected-cloud-storage.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox 已连接云存储中文件的更多操作" image="/docs/guide/flacbox/img/more-actions-for-file-in-connected-cloud-storage.webp" >}}
 {{< /cards >}}
 
 ## 文件夹操作
@@ -255,7 +255,7 @@ iTunes 文件共享（在 macOS Catalina 及更高版本上现为 Finder 文件�
 快速访问部分位于屏幕顶部。它让您快速访问已连接云服务中的收藏和最近打开的文件。
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox 在线链接和快速访问" image="/docs/guide/flacbox/img/online-links.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox 在线链接和快速访问" image="/docs/guide/flacbox/img/online-links.webp" >}}
 {{< /cards >}}
 
 ## 其他服务
@@ -263,5 +263,5 @@ iTunes 文件共享（在 macOS Catalina 及更高版本上现为 Finder 文件�
 此部分显示增强使用体验的额外功能。目前，应用程序支持 **Last.fm** 报告播放记录——连接后，您的播放统计数据会自动发送到您的 Last.fm 账户。详细设置说明请参阅[此处](/docs/howto/how-to-scrobble-your-music-history-from-evermusic-or-flacbox-to-last-fm)。
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox Last.fm 连接" image="/docs/guide/flacbox/img/last-fm-connect.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox Last.fm 连接" image="/docs/guide/flacbox/img/last-fm-connect.webp" >}}
 {{< /cards >}}

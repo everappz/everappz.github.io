@@ -7,7 +7,7 @@ tags: ["cloud", "streaming", "computer", "mp3", "file", "downloader", "manager",
 keywords: ["iPhone으로 파일 전송 SMB", "PC 음악 iPhone 스트리밍", "Mac을 iPhone에 연결 SMB", "Evermusic SMB 설정", "컴퓨터 파일 iPhone 접근", "Windows 음악 공유 iOS", "SMB 파일 전송 Evermusic"]
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **요약:** iPhone 또는 iPad에서 Evermusic을 사용하여 SMB를 통해 로컬 네트워크에서 Mac 또는 Windows PC에 저장된 파일에 액세스하세요. 케이블 없이, iTunes 없이, 클라우드 업로드 없이 가능합니다. 컴퓨터에서 파일 공유를 활성화하고, 앱에서 연결하고, 무선으로 파일을 탐색하거나 재생하세요.
@@ -142,26 +142,26 @@ SMB2 프로토콜을 사용할 때 특수 문자가 포함된 폴더에서 문�
 
 ## 자주 묻는 질문
 
-{{% details title="iTunes 없이 iPhone에서 PC의 파일에 접근할 수 있나요?" closed="true" %}}
+{{% ls-details title="iTunes 없이 iPhone에서 PC의 파일에 접근할 수 있나요?" closed="true" %}}
 네. Evermusic은 로컬 Wi-Fi 네트워크에서 SMB를 통해 컴퓨터에 연결합니다. iTunes 또는 Finder 동기화가 필요하지 않습니다. PC에서 파일 공유를 활성화하고 앱에서 직접 연결하세요.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="SMB 파일 접근이 인터넷을 통해 작동하나요?" closed="true" %}}
+{{% ls-details title="SMB 파일 접근이 인터넷을 통해 작동하나요?" closed="true" %}}
 아니요. SMB는 로컬 네트워크 프로토콜입니다. iPhone과 컴퓨터가 동일한 Wi-Fi 네트워크에 있어야 합니다. 원격 접근을 위해서는 Google Drive 또는 Dropbox와 같은 클라우드 서비스에 파일을 업로드하고 Evermusic에서 연결하세요.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="SMB를 통해 어떤 파일 유형에 접근할 수 있나요?" closed="true" %}}
+{{% ls-details title="SMB를 통해 어떤 파일 유형에 접근할 수 있나요?" closed="true" %}}
 Evermusic은 MP3, FLAC, AAC, WAV, AIFF, OGG, WMA, ALAC 및 기타 오디오 형식을 지원합니다. 내장 파일 관리자를 사용하여 비오디오 파일도 탐색하고 관리할 수 있습니다.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="SMB를 사용하여 NAS에서 iPhone으로 파일을 전송할 수 있나요?" closed="true" %}}
+{{% ls-details title="SMB를 사용하여 NAS에서 iPhone으로 파일을 전송할 수 있나요?" closed="true" %}}
 네. 대부분의 NAS 장치(Synology, QNAP, WD My Cloud 등)는 SMB를 지원합니다. 이 가이드의 동일한 단계를 사용하여 NAS에 연결하세요.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="파일을 재생하려면 iPhone에 복사해야 하나요?" closed="true" %}}
+{{% ls-details title="파일을 재생하려면 iPhone에 복사해야 하나요?" closed="true" %}}
 아니요. Evermusic은 네트워크를 통해 컴퓨터 또는 NAS에서 직접 파일을 스트리밍합니다. 오프라인 재생을 위해 다운로드하지 않는 한 파일은 iPhone에 복사되지 않습니다.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="SMB 파일 공유는 안전한가요?" closed="true" %}}
+{{% ls-details title="SMB 파일 공유는 안전한가요?" closed="true" %}}
 SMB 파일 공유는 로컬 네트워크에서만 작동합니다. 다른 네트워크의 다른 장치는 공유 폴더에 접근할 수 없습니다. 추가 보안을 위해 익명(모든 사람) 접근 대신 로그인과 비밀번호를 사용하세요.
-{{% /details %}}
+{{% /ls-details %}}

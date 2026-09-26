@@ -21,7 +21,7 @@ readingTime: 16
 Екран «Налаштування» — це центр управління Flacbox. Звідси ви можете оновити до Premium, налаштувати аудіодвигун (системні кодеки або FFmpeg), керувати музичною бібліотекою, налаштувати файловий менеджер, кастомізувати редактор аудіо-тегів, увімкнути віджети головного екрана та Apple CarPlay, зробити резервну копію даних, а також отримати доступ до довідки та правової інформації. Розділи згруповані за заголовками: Покупки та оновлення, Налаштування додатка, Допомога та Правова та конфіденційність.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Головний екран налаштувань Flacbox" image="/docs/guide/flacbox/img/settings-main.webp" >}}
+  {{< ls-card title="" subtitle="Головний екран налаштувань Flacbox" image="/docs/guide/flacbox/img/settings-main.webp" >}}
 {{< /cards >}}
 
 ## Оновлення до Premium
@@ -29,13 +29,13 @@ readingTime: 16
 Оновіть додаток до версії Premium, щоб зняти всі обмеження. Безкоштовна версія пропонує одноразову безстрокову покупку в додатку та два варіанти підписки (1 місяць і 1 рік) для видалення всіх обмежень і оновлення до Premium.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Оновлення Flacbox до Premium" image="/docs/guide/flacbox/img/upgrade-to-premium.webp" >}}
+  {{< ls-card title="" subtitle="Оновлення Flacbox до Premium" image="/docs/guide/flacbox/img/upgrade-to-premium.webp" >}}
 {{< /cards >}}
 
 Для всіх покупок і планів увімкнено **Сімейний доступ**, тому ви можете поділитися версією Premium з до п'ятьма членами своєї сім'ї без додаткових витрат.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Вибір плану Premium Flacbox" image="/docs/guide/flacbox/img/select-premium-plan.webp" >}}
+  {{< ls-card title="" subtitle="Вибір плану Premium Flacbox" image="/docs/guide/flacbox/img/select-premium-plan.webp" >}}
 {{< /cards >}}
 
 Ви можете дізнатися більше про покупки та версію Premium тут: [Яка різниця між Flacbox та Flacbox Premium](/docs/faq/flacbox/what-is-the-difference-between-flacbox-and-flacbox-premium/).

@@ -7,7 +7,7 @@ tags: ["صوت", "مشغل", "كمبيوتر", "ملفات", "ملف", "حاسو
 keywords: ["مشاركة ملفات itunes", "تشغيل الموسيقى المحلية", "نقل الموسيقى إلى iphone", "نسخ الملفات إلى ios", "صوت من ماك إلى iphone", "ملفات محلية على iphone", "evermusic", "flacbox", "مشغل موسيقى", "مشاركة الملفات", "wifi drive", "بث الموسيقى عبر smb", "تطبيق موسيقى iphone", "استيراد الموسيقى إلى ios"]
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **ملخص:** انقل الموسيقى من جهاز الكمبيوتر إلى iPhone باستخدام إحدى الطرق الثلاث: **مشاركة ملفات iTunes/Finder** (كابل USB)، أو **[WiFi Drive](/docs/howto/how-to-transfer-music-from-computer-to-iphone-without-itunes)** (لاسلكي، بدون كابل)، أو **[SMB](/docs/howto/stream-your-music-from-mac-or-pc-to-iphone-using-smb/)** (بث مباشر بدون نسخ). ثم قم بالتشغيل باستخدام [Evermusic](/products/evermusic) أو [Flacbox](/products/flacbox).
@@ -134,22 +134,22 @@ keywords: ["مشاركة ملفات itunes", "تشغيل الموسيقى الم
 
 ## الأسئلة الشائعة
 
-{{% details title="ما هي أسرع طريقة لنقل الموسيقى إلى iPhone؟" closed="true" %}}
+{{% ls-details title="ما هي أسرع طريقة لنقل الموسيقى إلى iPhone؟" closed="true" %}}
 مشاركة ملفات iTunes/Finder عبر USB هي الطريقة الأسرع لمكتبات الموسيقى الكبيرة. للنقل الأصغر، WiFi Drive أكثر ملاءمة لأنه لا يتطلب كابلاً.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="هل يمكنني نقل ملفات FLAC إلى iPhone؟" closed="true" %}}
+{{% ls-details title="هل يمكنني نقل ملفات FLAC إلى iPhone؟" closed="true" %}}
 نعم. يقبل كل من Evermusic وFlacbox ملفات FLAC عبر مشاركة ملفات iTunes أو WiFi Drive أو SMB. يُنصح باستخدام Flacbox للتنسيقات بدون فقدان.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="هل أحتاج إلى iTunes على macOS Catalina أو أحدث؟" closed="true" %}}
+{{% ls-details title="هل أحتاج إلى iTunes على macOS Catalina أو أحدث؟" closed="true" %}}
 لا. استبدلت Apple تطبيق iTunes بـ Finder لإدارة الأجهزة بدءاً من macOS Catalina. استخدم علامة التبويب "الملفات" في Finder لمشاركة الملفات.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="هل يمكنني بث الموسيقى بدون نسخ الملفات إلى iPhone؟" closed="true" %}}
+{{% ls-details title="هل يمكنني بث الموسيقى بدون نسخ الملفات إلى iPhone؟" closed="true" %}}
 نعم. استخدم بروتوكول SMB لبث الموسيقى مباشرة من Mac أو PC. هذا يوفر مساحة تخزين الجهاز ويحافظ على مكتبتك على جهاز الكمبيوتر.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="أي تطبيق يجب أن أستخدم -- Evermusic أم Flacbox؟" closed="true" %}}
+{{% ls-details title="أي تطبيق يجب أن أستخدم -- Evermusic أم Flacbox؟" closed="true" %}}
 استخدم Evermusic للتنسيقات القياسية مثل MP3 وWAV وAAC. اختر Flacbox إذا كانت مكتبتك تتضمن تنسيقات بدون فقدان مثل FLAC وDSD وOGG.
-{{% /details %}}
+{{% /ls-details %}}

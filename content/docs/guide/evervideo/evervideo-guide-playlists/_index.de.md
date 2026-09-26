@@ -19,7 +19,7 @@ Im Bereich Wiedergabelisten finden Sie hilfreiche Tools zur Verwaltung Ihrer Vid
 Wiedergabelisten in Evervideo können eine Mischung aus Online-Cloud-Videos, offline heruntergeladenen Dateien, lokalen Dateien, Fotos-Bibliothek-Videos und iOS-Musik-Bibliothek-Videos enthalten — alles in einer Wiedergabeliste — und nahtlos zusammen abgespielt werden.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evervideo Wiedergabelisten in der Mediathek" image="/docs/guide/evervideo/img/evervideo-playlists-in-media-library.webp" >}}
+  {{< ls-card title="" subtitle="Evervideo Wiedergabelisten in der Mediathek" image="/docs/guide/evervideo/img/evervideo-playlists-in-media-library.webp" >}}
 {{< /cards >}}
 
 ## Eine Wiedergabeliste erstellen

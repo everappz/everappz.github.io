@@ -7,7 +7,7 @@ tags: ["ses", "iphone", "mp3", "şarkı sözleri", "lrc", "gömülü", "görünt
 keywords: ["gömülü şarkı sözleri iPhone görüntüle", "Evermusic şarkı sözleri göster", "LRC dosyası Evermusic", "yorum etiketi ses", "şarkı sözleri gösterimi Flacbox", "şarkı sözleri iOS müzik uygulaması", "ses oynatıcı şarkı sözleri göster"]
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **TL;DR:** iPhone ve Mac için Evermusic, herhangi bir ses parçası için gömülü şarkı sözlerini, yorum etiketlerini ve harici .lrc dosyalarını görüntüler. Oynatıcıyı açın, **Daha fazla eylem** düğmesine dokunun, ardından şarkı sözlerini üç modda görüntülemek için **Yorumlar** öğesini seçin: Yorumlar, Gömülü Şarkı Sözleri ve LRC Dosyası.
@@ -68,22 +68,22 @@ Ana oynatıcıya dönün ve görünümler arasında geçiş yapıp **Yorumlar** 
 
 ## SSS
 
-{{% details title="iPhone'umda gömülü şarkı sözlerini nasıl görüntülerim?" closed="true" %}}
+{{% ls-details title="iPhone'umda gömülü şarkı sözlerini nasıl görüntülerim?" closed="true" %}}
 Evermusic'i açın, bir şarkı çalın, tam ekran oynatıcıda Daha fazla eylem düğmesine dokunun ve Yorumlar'ı seçin. Ses dosyasının etiketlerinde saklanan şarkı sözlerini görmek için Gömülü Şarkı Sözleri sekmesine kaydırın.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="LRC dosyası nedir ve nasıl çalışır?" closed="true" %}}
+{{% ls-details title="LRC dosyası nedir ve nasıl çalışır?" closed="true" %}}
 LRC dosyası, zamanlı şarkı sözleri içeren bir metin dosyasıdır. Aynı dosya adıyla bir ses dosyasıyla aynı klasöre yerleştirildiğinde, Evermusic bunu okur ve çalma sırasında kayan senkronize şarkı sözlerini görüntüler.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="iPhone'umda müzik dosyalarıma şarkı sözleri ekleyebilir miyim?" closed="true" %}}
+{{% ls-details title="iPhone'umda müzik dosyalarıma şarkı sözleri ekleyebilir miyim?" closed="true" %}}
 Evet. ID3 etiketlerini düzenlemek ve gömülü şarkı sözlerini doğrudan iPhone'unuzda eklemek veya güncellemek için Evertag uygulamasını kullanın. Senkronize şarkı sözleri için zamanlı LRC formatında metin yapıştırabilirsiniz.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Evermusic senkronize (zamanlı) şarkı sözlerini destekliyor mu?" closed="true" %}}
+{{% ls-details title="Evermusic senkronize (zamanlı) şarkı sözlerini destekliyor mu?" closed="true" %}}
 Evet. Evermusic, LRC formatında zamanlı şarkı sözlerini hem ses etiketlerine gömülü olarak hem de ayrı bir `.lrc` dosyası olarak sağlandığında destekler.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Hangi ses formatları gömülü şarkı sözlerini destekler?" closed="true" %}}
+{{% ls-details title="Hangi ses formatları gömülü şarkı sözlerini destekler?" closed="true" %}}
 MP3, FLAC, AAC, M4A, OGG ve diğer yaygın formatların çoğu, ilgili etiket standartları aracılığıyla gömülü şarkı sözlerini destekler.
-{{% /details %}}
+{{% /ls-details %}}

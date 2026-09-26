@@ -7,7 +7,7 @@ keywords: ["máy chủ FTP iPhone", "máy chủ FTP iPad", "cách thiết lập 
 readingTime: 9
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 FTP là công cụ truyền tập tin cũ nhưng đáng tin cậy. Nó đã tồn tại hàng chục năm, và đó chính là lý do nó hữu ích đến vậy: gần như mọi thứ có thể nói chuyện với một máy chủ đều hiểu nó. Máy ảnh, smart TV, router, ổ đĩa mạng, công cụ tự động hóa và mọi ứng dụng FTP trên máy tính đều nói FTP. Với [Everdisk](/products/everdisk) bạn có thể chạy một máy chủ FTP trên iPhone hoặc iPad, để chiếc điện thoại trở thành một nơi mà những thiết bị và ứng dụng đó có thể kết nối tới và di chuyển tập tin.
 
@@ -118,44 +118,44 @@ Công tắc **Chỉnh sửa tệp** trong Cài đặt, Chia sẻ, Truy cập ki�
 
 ## Câu hỏi thường gặp
 
-{{% details title="Địa chỉ và cổng FTP cho iPhone của tôi là gì?" closed="true" %}}
+{{% ls-details title="Địa chỉ và cổng FTP cho iPhone của tôi là gì?" closed="true" %}}
 Sau khi bạn bắt đầu chia sẻ, Everdisk hiển thị địa chỉ trên màn hình Chia sẻ. Nó trông như ftp://192.168.1.20:2121. Con số 2121 là cổng Everdisk dùng cho FTP, và phần đầu là địa chỉ của iPhone trên Wi-Fi, nên của bạn sẽ khác.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Làm sao để kết nối FileZilla hoặc Cyberduck tới iPhone?" closed="true" %}}
+{{% ls-details title="Làm sao để kết nối FileZilla hoặc Cyberduck tới iPhone?" closed="true" %}}
 Mở ứng dụng và tạo một kết nối mới. Đặt Host là địa chỉ Wi-Fi của iPhone và Port là 2121. Nhập Tên đăng nhập và Mật khẩu của bạn, hoặc chọn Anonymous nếu bạn không đặt trong Everdisk. Kết nối, và bạn có thể kéo tập tin theo cả hai chiều khi Chỉnh sửa tệp đang bật.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Tôi có thể kết nối tới FTP của iPhone từ Windows không?" closed="true" %}}
+{{% ls-details title="Tôi có thể kết nối tới FTP của iPhone từ Windows không?" closed="true" %}}
 Được. Mở File Explorer, nhấp vào thanh địa chỉ, gõ địa chỉ FTP từ Everdisk (ví dụ ftp://192.168.1.20:2121), và nhấn Enter. Nhập tên đăng nhập nếu bạn đã đặt, hoặc tiếp tục với tư cách khách. Để tải lên và kiểm soát nhiều hơn, hãy dùng một ứng dụng FTP như FileZilla thay thế.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Tôi có cần tên đăng nhập cho FTP không?" closed="true" %}}
+{{% ls-details title="Tôi có cần tên đăng nhập cho FTP không?" closed="true" %}}
 Không, tên đăng nhập là tùy chọn. Để trống Tên đăng nhập và Mật khẩu trong Cài đặt, Chia sẻ, Truy cập, và kết nối với tư cách Anonymous, điều mà hầu hết máy khách FTP đều hỗ trợ. Đặt một tên đăng nhập nếu bạn muốn các kết nối phải đăng nhập trước.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Vì sao tôi chỉ tải xuống được mà không tải lên được qua FTP?" closed="true" %}}
+{{% ls-details title="Vì sao tôi chỉ tải xuống được mà không tải lên được qua FTP?" closed="true" %}}
 Hai lý do thường gặp. Thứ nhất, công tắc Chỉnh sửa tệp trong Cài đặt, Chia sẻ, Truy cập phải bật để cho phép tải lên, đổi tên và xóa. Thứ hai, Finder trên Mac mở FTP ở dạng chỉ đọc, nên hãy dùng một ứng dụng FTP như FileZilla hoặc Cyberduck khi bạn muốn tải lên.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Tôi có thể dùng FTP giữa hai iPhone không?" closed="true" %}}
+{{% ls-details title="Tôi có thể dùng FTP giữa hai iPhone không?" closed="true" %}}
 Được. Bắt đầu máy chủ FTP trên iPhone thứ nhất. Trên chiếc thứ hai, mở Everdisk, vào thẻ Thiết bị, chạm Kết nối mới, chọn FTP, và nhập địa chỉ hiển thị trên điện thoại thứ nhất. Một ứng dụng FTP chuyên dụng cho iOS cũng dùng được, vì ứng dụng Tệp của iOS không có sẵn máy khách FTP.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="FTP có an toàn không?" closed="true" %}}
+{{% ls-details title="FTP có an toàn không?" closed="true" %}}
 FTP thuần không mã hóa lưu lượng của nó, nên hãy xem nó như một công cụ cho các mạng bạn tin tưởng, như Wi-Fi ở nhà. Trên một mạng bạn không kiểm soát, hãy dùng máy chủ SMB với Yêu cầu mã hóa SMB bật lên, vốn bảo vệ mọi lần truyền.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Những thiết bị nào có thể kết nối qua FTP?" closed="true" %}}
+{{% ls-details title="Những thiết bị nào có thể kết nối qua FTP?" closed="true" %}}
 Gần như bất cứ thứ gì có một máy khách FTP. Điều đó bao gồm máy tính Mac, Windows và Linux, các ứng dụng FTP như FileZilla và Cyberduck, các trình quản lý tập tin Android, cùng phần cứng như máy ảnh, smart TV, router, hộp NAS và công cụ tự động hóa. Khả năng chạm tới rộng khắp đó chính là lý do chính để chọn FTP.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Vì sao kết nối FTP của tôi bị rớt?" closed="true" %}}
+{{% ls-details title="Vì sao kết nối FTP của tôi bị rớt?" closed="true" %}}
 iPhone của bạn là máy chủ, và iOS tạm dừng các ứng dụng nằm ở nền quá lâu. Giữ Everdisk mở trên màn hình trong lúc một thiết bị đang kết nối, và cắm nguồn điện cho những lần truyền dài. Cũng hãy đảm bảo cả hai thiết bị vẫn ở cùng mạng Wi-Fi.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Everdisk có miễn phí không?" closed="true" %}}
+{{% ls-details title="Everdisk có miễn phí không?" closed="true" %}}
 Có, Everdisk tải miễn phí và máy chủ FTP được bao gồm sẵn. Một gói mua Premium một lần duy nhất tùy chọn thêm các tính năng bổ sung như cổng tùy chỉnh cùng chuyển đổi ảnh và video. Bạn có thể thiết lập FTP và truyền tập tin mà không phải trả tiền.
-{{% /details %}}
+{{% /ls-details %}}
 
 Sẵn sàng thử chưa? [Tải Everdisk từ App Store](https://apps.apple.com/app/apple-store/id6751851132?pt=95781850&ct=everappzcom&mt=8) và kết nối máy khách FTP đầu tiên chỉ trong vài phút. Có câu hỏi hay góp ý? Gửi email cho chúng tôi tại **support@everappz.com**.

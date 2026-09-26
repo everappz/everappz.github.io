@@ -7,7 +7,7 @@ tags: ["evermusic", "flacbox", "arkib", "sandaran", "eksport", "senarai main", "
 readingTime: 2
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **Ringkasan:** Evermusic dan Flacbox boleh mengarkib mana-mana senarai main, album, artis atau genre ke dalam fail ZIP dengan senarai main M3U, seni muka album dan semua fail audio. Pindahkan ZIP ke peranti lain, nyaharkib dan import M3U untuk membina semula senarai main dengan serta-merta.
@@ -104,22 +104,22 @@ Dengan mengikuti panduan ini, anda boleh mengarkib dan memindahkan senarai main,
 
 ## Soalan Lazim
 
-{{% details title="Apa yang termasuk dalam arkib ZIP?" closed="true" %}}
+{{% ls-details title="Apa yang termasuk dalam arkib ZIP?" closed="true" %}}
 Arkib mengandungi semua fail audio, fail senarai main M3U yang mengekalkan susunan trek, dan seni muka album senarai main yang disimpan sebagai fail imej berasingan.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Adakah pengarkiban berfungsi dengan fail awan?" closed="true" %}}
+{{% ls-details title="Adakah pengarkiban berfungsi dengan fail awan?" closed="true" %}}
 Ya. Aplikasi secara automatik memuat turun semua fail yang disimpan di awan sebelum menambahkannya ke arkib. Anda boleh memantau kemajuan muat turun di bahagian pemindahan fail.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Bolehkah saya mengarkib album, artis dan genre juga?" closed="true" %}}
+{{% ls-details title="Bolehkah saya mengarkib album, artis dan genre juga?" closed="true" %}}
 Ya. Pilihan «Tambah ke Arkib» tersedia untuk senarai main, album, artis dan genre. Prosesnya sama untuk semua.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Bagaimana cara memindahkan arkib ke peranti lain?" closed="true" %}}
+{{% ls-details title="Bagaimana cara memindahkan arkib ke peranti lain?" closed="true" %}}
 Anda boleh memuat naik ZIP ke storan awan (Google Drive, Dropbox, dll.), menggunakan AirDrop, atau memindahkan secara tanpa wayar melalui ciri Wi-Fi Drive terbina dalam Evermusic dan Flacbox.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Adakah struktur senarai main akan terpelihara selepas pemindahan?" closed="true" %}}
+{{% ls-details title="Adakah struktur senarai main akan terpelihara selepas pemindahan?" closed="true" %}}
 Ya. Fail M3U menyimpan struktur senarai main dengan laluan relatif. Selepas menyaharkib pada peranti baharu, import fail M3U untuk membina semula senarai main dengan semua trek dalam susunan asal.
-{{% /details %}}
+{{% /ls-details %}}

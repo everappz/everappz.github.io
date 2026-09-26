@@ -12,7 +12,7 @@ authors:
     image: "/images/about/artem-meleshko-founder-everappz.webp"
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 ## Evermusic 3.1: Mi változott és miért fontos
 
@@ -89,22 +89,22 @@ A **Hang címkeszerkesztő** most megbízhatóbban kezeli a metaadat-javítást:
 
 ## Gyakran ismételt kérdések
 
-{{% details title="Mi a crossfade lejátszás az Evermusic-ban?" closed="true" %}}
+{{% ls-details title="Mi a crossfade lejátszás az Evermusic-ban?" closed="true" %}}
 A crossfade lejátszás egy szám végét a következő elejébe keveri, zökkenőmentes átmeneteket hozva létre. Az időtartamot 3 és 15 másodperc között állíthatod be a Settings → Audio Player → Crossfade Playback menüben.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Készíthetek biztonsági mentést az Evermusic lejátszási listáimról felhőtárolóba?" closed="true" %}}
+{{% ls-details title="Készíthetek biztonsági mentést az Evermusic lejátszási listáimról felhőtárolóba?" closed="true" %}}
 Igen. Az Evermusic 3.1 lehetővé teszi a teljes könyvtárad biztonsági mentését — beleértve a lejátszási listákat, metaadatokat, borítóképeket és beállításokat — bármely csatlakoztatott felhőszolgáltatásba egyetlen fájlként.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Támogatja az Evermusic az iPod könyvtár böngészést?" closed="true" %}}
+{{% ls-details title="Támogatja az Evermusic az iPod könyvtár böngészést?" closed="true" %}}
 Igen. Böngészheted az iPod könyvtáradat lejátszási listák, albumok, előadók és műfajok szerint közvetlenül az Evermusic kezdőképernyőjéről, és számokat adhatsz hozzá a várólistádhoz.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Hogyan javíthatom ki a hibás dalcímkéket az Evermusic-ban?" closed="true" %}}
+{{% ls-details title="Hogyan javíthatom ki a hibás dalcímkéket az Evermusic-ban?" closed="true" %}}
 Használd a beépített címkeszerkesztőt és koppints az Azonosítás műveletre. Az Evermusic átvizsgálja a fájlneveidet és automatikusan javított metaadatokkal frissíti az ID3 címkéket.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Milyen felhőszolgáltatásokat támogat az Evermusic?" closed="true" %}}
+{{% ls-details title="Milyen felhőszolgáltatásokat támogat az Evermusic?" closed="true" %}}
 Az Evermusic működik a Dropbox, Google Drive, OneDrive, MEGA, Box, Yandex.Disk, WebDAV, SMB/CIFS és FTP szerverekkel.
-{{% /details %}}
+{{% /ls-details %}}

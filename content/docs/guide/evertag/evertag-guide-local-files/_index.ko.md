@@ -18,7 +18,7 @@ readingTime: 6
 이 내장 파일 관리자를 사용하면 파일을 편집하고 앱으로 오디오 파일을 가져오는 다양한 방법을 제공합니다. 최근에 연 파일은 **최근 항목** 탭에 자동으로 나타나고 별표로 표시한 항목은 **즐겨찾기** 아래에 표시되므로, 이 화면으로 다시 돌아가지 않고도 가장 자주 작업하는 파일로 바로 이동할 수 있습니다.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evertag 다운로드 화면" image="/docs/guide/evertag/img/downloads.webp" >}}
+  {{< ls-card title="" subtitle="Evertag 다운로드 화면" image="/docs/guide/evertag/img/downloads.webp" >}}
 {{< /cards >}}
 
 ## 클라우드 스토리지에서 파일 다운로드
@@ -74,7 +74,7 @@ readingTime: 6
 기기에 있지만 다른 애플리케이션에 있는 파일을 표시합니다. 시스템 파일 선택기를 사용하여 이 애플리케이션으로 가져올 수 있습니다. 선택기를 활성화하려면 "파일 열기..."를 선택하여 파일을 선택하거나 "폴더 열기..."를 선택하여 폴더를 선택하세요. iPhone 또는 Mac에 저장된 로컬 음악을 가져오는 방법에 대한 자세한 지침은 [여기](/docs/howto/how-to-play-local-music-stored-on-your-iphone-or-mac)에서 확인할 수 있습니다. 기기에 있는 폴더를 연결하여 폴더 내용에 빠르게 액세스할 수도 있습니다. "폴더 연결" 메뉴 항목을 사용하여 기기에 있는 폴더를 선택하세요. "완료됨"을 탭하면 앱이 읽기/쓰기 액세스로 해당 폴더에 대한 링크를 만들어 이 앱에서 직접 파일을 관리할 수 있게 합니다. 기기에 있는 폴더의 연결을 끊으려면 "추가 작업" 버튼을 탭하고 "연결 끊기"를 선택하세요.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evertag 내 기기에서 파일 가져오기" image="/docs/guide/evertag/img/open-files.webp" >}}
+  {{< ls-card title="" subtitle="Evertag 내 기기에서 파일 가져오기" image="/docs/guide/evertag/img/open-files.webp" >}}
 {{< /cards >}}
 
 ## 연결된 USB 플래시카드에 있는 파일 가져오기
@@ -86,7 +86,7 @@ iPhone에 USB 플래시카드를 연결하고 그 위에 있는 파일을 관리
 현재 열린 폴더에 대한 추가 작업 메뉴는 오른쪽 상단에 위치하며 다양한 작업에 대한 액세스를 제공합니다.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evertag 내 기기에서 파일 가져오기" image="/docs/guide/evertag/img/downloads-current-folder-actions.webp" >}}
+  {{< ls-card title="" subtitle="Evertag 내 기기에서 파일 가져오기" image="/docs/guide/evertag/img/downloads-current-folder-actions.webp" >}}
 {{< /cards >}}
 
 - **선택하다:** 파일 및 폴더에 대한 선택 모드로 전환하세요.  

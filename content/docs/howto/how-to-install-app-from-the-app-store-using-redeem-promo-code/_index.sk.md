@@ -7,7 +7,7 @@ tags: ["promo", "appstore", "inštalácia", "uplatnenie", "kód", "zadarmo"]
 readingTime: 2
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **Stručne:** Promo kód vám umožňuje stiahnuť platenú aplikáciu zadarmo alebo odomknúť nákupy v aplikácii. Na iOS: App Store > ikona Účet > Uplatniť darčekovú kartu alebo kód > zadajte kód. Na Mac: App Store > Účet > Uplatniť darčekovú kartu > zadajte kód. Potom otvorte aplikáciu a v prípade potreby obnovte nákupy.
@@ -94,22 +94,22 @@ Užívajte si svoju bezplatnú aplikáciu alebo vylepšenie v aplikácii!
 
 ## Často kladené otázky
 
-{{% details title="Kde získam promo kód?" closed="true" %}}
+{{% ls-details title="Kde získam promo kód?" closed="true" %}}
 Promo kódy poskytujú vývojári aplikácií na recenzie, súťaže alebo propagácie. Kontaktujte vývojára priamo a požiadajte o jeden.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Majú promo kódy dátum expirácie?" closed="true" %}}
+{{% ls-details title="Majú promo kódy dátum expirácie?" closed="true" %}}
 Áno. Promo kódy Apple App Store vypršia 28 dní po ich vygenerovaní a môžu byť uplatnené iba raz.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Môžem použiť promo kód v akejkoľvek krajine?" closed="true" %}}
+{{% ls-details title="Môžem použiť promo kód v akejkoľvek krajine?" closed="true" %}}
 Promo kódy sú regionálne špecifické. Kód musí zodpovedať krajine App Store vášho Apple ID.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Ako aktivujem nákupy v aplikácii pomocou promo kódu?" closed="true" %}}
+{{% ls-details title="Ako aktivujem nákupy v aplikácii pomocou promo kódu?" closed="true" %}}
 Po uplatnení kódu v App Store otvorte aplikáciu a prejdite na Nastavenia > Obnoviť nákupy. Prémiový obsah sa odomkne automaticky.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Promo kód hlási, že už bol uplatnený. Čo mám robiť?" closed="true" %}}
+{{% ls-details title="Promo kód hlási, že už bol uplatnený. Čo mám robiť?" closed="true" %}}
 Každý promo kód je možné použiť iba raz. Kontaktujte vývojára a požiadajte o nový kód.
-{{% /details %}}
+{{% /ls-details %}}

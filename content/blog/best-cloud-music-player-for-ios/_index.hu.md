@@ -12,7 +12,7 @@ authors:
     image: "/images/about/artem-meleshko-founder-everappz.webp"
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 **Röviden:** Az Evermusic egy felhőalapú zenlejátszó iPhone-ra és iPadre, amely Dropboxhoz, Google Drive-hoz, OneDrive-hoz és 9+ más felhőszolgáltatáshoz csatlakozik. FLAC, MP3, WAV és más formátumokat játszik le, támogatja az offline letöltéseket, és tartalmaz egyenlítőt és ID3 tag szerkesztőt. Ingyenes letöltés egyszeri Premium frissítéssel. 11 millió+ letöltés, 4,6 csillagos értékelés az App Store-ban.
 
@@ -20,7 +20,7 @@ authors:
 
 Nézze meg a teljes videóvéleményt a [@Massi_Media](https://www.youtube.com/@Massi_Media) csatornán:
 
-{{< youtubecard id="pKUZmHy9dxc" >}}
+{{< ls-youtubecard id="pKUZmHy9dxc" >}}
 
 ## Mi a legjobb felhőalapú zenlejátszó iPhone-ra?
 
@@ -67,18 +67,18 @@ Mivel az Evermusic olyan fájlokkal működik, amelyek már megvannak, és olyan
 
 ## Gyakran ismételt kérdések
 
-{{% details title="Az Evermusic valóban ingyenesen használható?" closed="true" %}}
+{{% ls-details title="Az Evermusic valóban ingyenesen használható?" closed="true" %}}
 Igen, az Evermusic ingyenes szintet kínál, amely magában foglalja a felhőkapcsolatot, a streamelést és az offline letöltéseket. Az ingyenes verzió az alapvető lejátszási funkciókat és korlátozott számú felhőfiók-kapcsolatot támogat. Az Evermusic Pro, amely egyszeri vásárlásként vagy előfizetésként érhető el, feloldja a teljes egyenlítőt, crossfade-t, további felhőfiókokat és egyéb speciális funkciókat. Nincs szükség előfizetésre a saját zenefájlok eléréséhez.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Használhatom az Evermusicot internetkapcsolat nélkül?" closed="true" %}}
+{{% ls-details title="Használhatom az Evermusicot internetkapcsolat nélkül?" closed="true" %}}
 Természetesen. Az Evermusic lehetővé teszi számok letöltését bármely csatlakoztatott felhőszolgáltatásból közvetlenül az eszközre offline lejátszáshoz. Letöltés után a fájlok helyileg tárolódnak, és Wi-Fi vagy mobiladat nélkül is elérhetők maradnak. Ez az Evermusicot ideálissá teszi repülőutakra, alagutakon átmenő ingázásra vagy bármilyen olyan helyzetre, ahol a kapcsolat megbízhatatlan.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Támogatja az Evermusic a veszteségmentes hangformátumokat, mint a FLAC?" closed="true" %}}
+{{% ls-details title="Támogatja az Evermusic a veszteségmentes hangformátumokat, mint a FLAC?" closed="true" %}}
 Igen. Az Evermusic számos hangformátumot támogat, beleértve a FLAC-ot, ALAC-ot, WAV-t, AIFF-et, OGG-t, MP3-t, AAC-t és M4A-t. Az alkalmazás veszteségmentes fájlokat natív minőségben játszik le újrakódolás nélkül, így az audiofil hallgatók pontosan a tervezett módon élvezhetik nagy felbontású gyűjteményeiket.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Hogyan csatlakoztatom NAS-omat vagy otthoni szerverem az Evermusichoz?" closed="true" %}}
+{{% ls-details title="Hogyan csatlakoztatom NAS-omat vagy otthoni szerverem az Evermusichoz?" closed="true" %}}
 Ha NAS-a vagy otthoni szervere támogatja a WebDAV vagy SMB protokollokat, csatlakoztathatja az Evermusichoz a szervercím, port és hitelesítő adatok megadásával az alkalmazás felhőkapcsolat-beállításaiban. A legtöbb népszerű NAS márka, beleértve a Synology-t, QNAS-t és Western Digital MyCloudot, ezeket a protokollokat közvetlenül a dobozból támogatja. A csatlakozás után az Evermusic átvizsgálja és indexeli zenefájljait, csakúgy, mint bármely más felhőforrást.
-{{% /details %}}
+{{% /ls-details %}}

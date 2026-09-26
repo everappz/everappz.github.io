@@ -19,7 +19,7 @@ Evervideo מציע ממשק נקי ואינטואיטיבי שמרגיש מוכ�
 שלא כמו רוב אפליקציות המדיה, Evervideo ממזג את חשבונות הענן שלכם, שיתופי NAS, שרתי מדיה וקבצים מקומיים לכרטיסיית קבצים אחת מאוחדת — כך שאינכם מקפצים בין מסכים נפרדים. זה הופך את העברת וידאו משרת Plex, לתיקיית iCloud Drive, לתיקיית המסמכים של iPhone שלכם לפעולה במסך אחד ובהקשה אחת.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="מסך ראשי של Evervideo" image="/docs/guide/evervideo/img/evervideo-main.webp" >}}
+  {{< ls-card title="" subtitle="מסך ראשי של Evervideo" image="/docs/guide/evervideo/img/evervideo-main.webp" >}}
 {{< /cards >}}
 
 ## כרטיסיות
@@ -53,7 +53,7 @@ PiP עובד עם כל פורמטי הווידאו ש-Evervideo מנגן, כול
 כמעט כל פריט תוכן על המסך כולל כפתור עוד פעולות (אייקון שלוש נקודות "⋯"). הקישו עליו כדי לפתוח תפריט רגיש להקשר עם כל הפעולות הזמינות לאותו פריט — הפעל הבא, הפעל מאוחר יותר, הוסף לרשימת השמעה, הוסף למועדפים, ערוך תגיות, הורד, שתף, שנה שם, העבר, ועוד. רשימות ארוכות גוללות אנכית כדי שתוכלו להגיע לפעולות פחות נפוצות מבלי לצופף את ממשק המשתמש הראשי.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="תפריט עוד פעולות של מועדפים ב-Evervideo" image="/docs/guide/evervideo/img/evervideo-favorites-more-actions.webp" >}}
+  {{< ls-card title="" subtitle="תפריט עוד פעולות של מועדפים ב-Evervideo" image="/docs/guide/evervideo/img/evervideo-favorites-more-actions.webp" >}}
 {{< /cards >}}
 
 ## סרגל כלים עליון

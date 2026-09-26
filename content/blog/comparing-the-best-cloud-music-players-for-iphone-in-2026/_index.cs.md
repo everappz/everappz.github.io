@@ -12,7 +12,7 @@ authors:
     image: "/images/about/artem-meleshko-founder-everappz.webp"
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 ## Který cloudový hudební přehrávač je nejlepší pro iPhone?
 
@@ -91,22 +91,22 @@ Pro audiofily a každého, kdo udržuje osobní hudební sbírku v cloudovém ú
 
 ## Často kladené otázky
 
-{{% details title="Mohu přehrávat soubory FLAC na iPhonu bez jejich konverze?" closed="true" %}}
+{{% ls-details title="Mohu přehrávat soubory FLAC na iPhonu bez jejich konverze?" closed="true" %}}
 Ano. Evermusic přehrává FLAC, DSD, WAV, ALAC a další bezztrátové formáty nativně na iPhonu. Není potřeba žádná konverze souborů. Jednoduše připojte svůj účet cloudového úložiště a streamujte nebo stahujte soubory FLAC přímo.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Který cloudový hudební přehrávač funguje s Dropboxem a Google Drive?" closed="true" %}}
+{{% ls-details title="Který cloudový hudební přehrávač funguje s Dropboxem a Google Drive?" closed="true" %}}
 Evermusic podporuje Dropbox, Google Drive, OneDrive, Box, MEGA, pCloud, WebDAV, SMB a další -- celkem více než 12 cloudových služeb. Většina hlavních streamovacích aplikací jako Spotify a Apple Music se nepřipojuje k cloudovému úložišti třetích stran.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Potřebuji předplatné pro používání cloudového hudebního přehrávače?" closed="true" %}}
+{{% ls-details title="Potřebuji předplatné pro používání cloudového hudebního přehrávače?" closed="true" %}}
 Záleží na aplikaci. Spotify, Apple Music a Deezer vyžadují měsíční předplatné. Evermusic nabízí bezplatnou úroveň a jednorázový nákup Premium bez opakujících se poplatků. Ke svým hudebním souborům využíváte vlastní cloudové úložiště.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Jaký je nejlepší hudební přehrávač pro offline poslech na iPhonu?" closed="true" %}}
+{{% ls-details title="Jaký je nejlepší hudební přehrávač pro offline poslech na iPhonu?" closed="true" %}}
 Všichni hlavní přehrávači podporují offline stahování, ale přístup se liší. Spotify a Apple Music umožňují stahování skladeb z jejich katalogů. Evermusic vám umožňuje stahovat vlastní soubory z cloudového úložiště pro offline přehrávání -- ideální pro lety, dojíždění nebo oblasti bez připojení.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Mohu používat cloudový hudební přehrávač se svým NAS nebo domácím serverem?" closed="true" %}}
+{{% ls-details title="Mohu používat cloudový hudební přehrávač se svým NAS nebo domácím serverem?" closed="true" %}}
 Ano. Evermusic podporuje protokoly WebDAV a SMB, což znamená, že se může připojit k většině NAS zařízení od Synology, QNAP a Western Digital. To přemění váš iPhone ve vzdálený přehrávač pro celou vaši domácí hudební knihovnu.
-{{% /details %}}
+{{% /ls-details %}}

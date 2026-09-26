@@ -17,7 +17,7 @@ readingTime: 6
 Sekcja List odtwarzania zapewnia narzędzia do organizowania utworów w listy. Zawiera widok treści prezentujący wszystkie utworzone listy odtwarzania, przycisk „..." na pasku nawigacyjnym oferujący różne akcje związane z listami odtwarzania oraz pasek narzędzi nawigacyjny z przyciskami „Szukaj", „Odtwórz wszystko" i „Odtwórz losowo". Co więcej, każda poszczególna lista odtwarzania ma przycisk „..." obok tytułu, oferujący szereg akcji specyficznych dla tej listy.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Ekran list odtwarzania Evermusic" image="/docs/guide/evermusic/evermusic-guide-playlists/img/playlists-main.webp" >}}
+  {{< ls-card title="" subtitle="Ekran list odtwarzania Evermusic" image="/docs/guide/evermusic/evermusic-guide-playlists/img/playlists-main.webp" >}}
 {{< /cards >}}
 
 ## Tworzenie listy odtwarzania
@@ -25,7 +25,7 @@ Sekcja List odtwarzania zapewnia narzędzia do organizowania utworów w listy. Z
 Aby utworzyć nową listę odtwarzania, dotknij przycisku „+" lub przycisku „..." w prawym górnym rogu paska nawigacyjnego, wybierz „Nowa lista odtwarzania" i przypisz jej nazwę. Po nazwaniu dotknij „Zapisz".
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Utwórz nową listę odtwarzania" image="/docs/guide/evermusic/evermusic-guide-playlists/img/playlists-add-new.webp" >}}
+  {{< ls-card title="" subtitle="Utwórz nową listę odtwarzania" image="/docs/guide/evermusic/evermusic-guide-playlists/img/playlists-add-new.webp" >}}
 {{< /cards >}}
 
 Pojawi się okno dialogowe „Dodaj utwory", w którym możesz wybrać, które ścieżki dodać do nowej listy odtwarzania. Ścieżki są podzielone według typu źródła i masz kilka opcji:
@@ -42,7 +42,7 @@ Domyślnie możesz dodać utwór do listy odtwarzania tylko raz. Aby zezwolić n
 W Evermusic dodaliśmy funkcję importowania pliku M3U, dzięki czemu nie musisz ręcznie tworzyć list odtwarzania.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Importuj listę odtwarzania ze źródła pliku" image="/docs/guide/evermusic/evermusic-guide-playlists/img/playlists-import-from-files.webp" >}}
+  {{< ls-card title="" subtitle="Importuj listę odtwarzania ze źródła pliku" image="/docs/guide/evermusic/evermusic-guide-playlists/img/playlists-import-from-files.webp" >}}
 {{< /cards >}}
 
 Najpierw przejdź do sekcji „Listy odtwarzania". Następnie dotknij przycisku „Więcej" w prawym górnym rogu. Z wyświetlonego menu wybierz opcję „Importuj listę odtwarzania".
@@ -62,7 +62,7 @@ Aplikacja przeanalizuje plik listy odtwarzania, stworzy listę ścieżek i zloka
 Po otwarciu listy odtwarzania pojawia się „Ekran szczegółów listy odtwarzania". Na tym ekranie znajdziesz przycisk „..." w prawym górnym rogu z opcjami listy odtwarzania oraz trzy przyciski pod obrazem okładki: „Szukaj", „Kontynuuj odtwarzanie", „Odtwórz wszystko" i „Odtwórz losowo". Ponadto jest pole wyboru „Tryb offline".
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Ekran szczegółów listy odtwarzania" image="/docs/guide/evermusic/evermusic-guide-playlists/img/playlists-detail-screen.webp" >}}
+  {{< ls-card title="" subtitle="Ekran szczegółów listy odtwarzania" image="/docs/guide/evermusic/evermusic-guide-playlists/img/playlists-detail-screen.webp" >}}
 {{< /cards >}}
 
 - **Kontynuuj odtwarzanie**: Przywróć pozycję odtwarzania dla tej listy odtwarzania.
@@ -87,7 +87,7 @@ Możesz uzyskać dostęp do akcji dla listy odtwarzania, dotykając przycisku �
 - **Usuń listę odtwarzania:** Usuń listę odtwarzania z biblioteki muzyki. Pamiętaj, że tej akcji nie można cofnąć.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Menu Więcej Akcji dla listy odtwarzania" image="/docs/guide/evermusic/evermusic-guide-playlists/img/playlists-more-actions-for-separate-playlist.webp" >}}
+  {{< ls-card title="" subtitle="Menu Więcej Akcji dla listy odtwarzania" image="/docs/guide/evermusic/evermusic-guide-playlists/img/playlists-more-actions-for-separate-playlist.webp" >}}
 {{< /cards >}}
 
 ## Więcej akcji dla listy odtwarzania na ekranie szczegółów listy
@@ -113,7 +113,7 @@ Możesz uzyskać dostęp do akcji dla listy odtwarzania, dotykając przycisku �
 Aby zmienić kolejność utworów na liście odtwarzania, dotknij przycisku „..." w prawym górnym rogu i wybierz „Wybrać", aby wejść w tryb wyboru. Użyj kontrolki kolejności i gestów przeciągania i upuszczania przy każdym utworze, aby przenosić je w górę lub w dół. Dotknięcie kontrolki kolejności przeniesie utwór na początek listy. Aby wyjść z trybu wyboru i zastosować zmiany, dotknij „Zrobione".
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Zmień kolejność utworów na liście odtwarzania" image="/docs/guide/evermusic/evermusic-guide-playlists/img/playlists-change-songs-order.webp" >}}
+  {{< ls-card title="" subtitle="Zmień kolejność utworów na liście odtwarzania" image="/docs/guide/evermusic/evermusic-guide-playlists/img/playlists-change-songs-order.webp" >}}
 {{< /cards >}}
 
 ## Zmiana okładki listy odtwarzania
@@ -129,7 +129,7 @@ Otwórz listę odtwarzania i dotknij przycisku „..." w prawym górnym rogu, a 
 Otwórz listę odtwarzania, dotknij przycisku „..." w prawym górnym rogu i wybierz „Wybrać", aby wejść w tryb wyboru. Wybierz ścieżki, które chcesz usunąć i dotknij przycisku „Usuń z listy odtwarzania" na dole ekranu. Potwierdź zmiany, dotykając „Zrobione".
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Tryb wyboru w liście odtwarzania" image="/docs/guide/evermusic/evermusic-guide-playlists/img/playlists-selection-mode-in-playlist-details-screen.webp" >}}
+  {{< ls-card title="" subtitle="Tryb wyboru w liście odtwarzania" image="/docs/guide/evermusic/evermusic-guide-playlists/img/playlists-selection-mode-in-playlist-details-screen.webp" >}}
 {{< /cards >}}
 
 ## Opcje ścieżki
@@ -137,7 +137,7 @@ Otwórz listę odtwarzania, dotknij przycisku „..." w prawym górnym rogu i wy
 Każda ścieżka na liście odtwarzania ma listę akcji, dostępnych po dotknięciu przycisku „...". Jeśli nie widzisz wszystkich akcji, przewiń w dół, aby je zobaczyć. Możesz usunąć ścieżkę z listy odtwarzania, pobrać ją, edytować tagi audio i wiele więcej.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Menu opcji ścieżki na liście odtwarzania" image="/docs/guide/evermusic/evermusic-guide-playlists/img/playlists-track-options.webp" >}}
+  {{< ls-card title="" subtitle="Menu opcji ścieżki na liście odtwarzania" image="/docs/guide/evermusic/evermusic-guide-playlists/img/playlists-track-options.webp" >}}
 {{< /cards >}}
 
 - **Odtwórz jako następny:** Dodaje ścieżkę na początek kolejki odtwarzacza.

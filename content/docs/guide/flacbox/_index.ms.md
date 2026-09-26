@@ -71,20 +71,20 @@ Panduan ini membawa anda melalui setiap bahagian Flacbox pada iPhone, iPad, dan 
 
 {{< cards cols="2">}}
 
-{{< card icon="map" link="/docs/guide/flacbox/flacbox-guide-navigation" title="Navigasi" subtitle="Tab Bar pada iPhone, Menu Kiri pada iPad dan Mac, pemain mini, widget, CarPlay." >}}
+{{< ls-card icon="map" link="/docs/guide/flacbox/flacbox-guide-navigation" title="Navigasi" subtitle="Tab Bar pada iPhone, Menu Kiri pada iPad dan Mac, pemain mini, widget, CarPlay." >}}
 
-{{< card icon="cloud" link="/docs/guide/flacbox/flacbox-guide-connections" title="Sambungan" subtitle="iCloud, Google Drive, Dropbox, OneDrive, NAS, WebDAV, SMB, DLNA." >}}
+{{< ls-card icon="cloud" link="/docs/guide/flacbox/flacbox-guide-connections" title="Sambungan" subtitle="iCloud, Google Drive, Dropbox, OneDrive, NAS, WebDAV, SMB, DLNA." >}}
 
-{{< card icon="collection" link="/docs/guide/flacbox/flacbox-guide-music-library" title="Perpustakaan Muzik" subtitle="Lagu, Album, Artis, Genre, Penggubah — segerak, cari, edit metadata." >}}
+{{< ls-card icon="collection" link="/docs/guide/flacbox/flacbox-guide-music-library" title="Perpustakaan Muzik" subtitle="Lagu, Album, Artis, Genre, Penggubah — segerak, cari, edit metadata." >}}
 
-{{< card icon="music-note" link="/docs/guide/flacbox/flacbox-guide-playlists" title="Senarai Main" subtitle="Bina, import M3U / M3U8 / CUE, susun semula, dan eksport ke M3U / CSV / TXT." >}}
+{{< ls-card icon="music-note" link="/docs/guide/flacbox/flacbox-guide-playlists" title="Senarai Main" subtitle="Bina, import M3U / M3U8 / CUE, susun semula, dan eksport ke M3U / CSV / TXT." >}}
 
-{{< card icon="folder" link="/docs/guide/flacbox/flacbox-guide-local-files" title="Fail Tempatan" subtitle="Muzik luar talian, pemacu USB, Wi-Fi Drive, pengurus fail, folder luar talian." >}}
+{{< ls-card icon="folder" link="/docs/guide/flacbox/flacbox-guide-local-files" title="Fail Tempatan" subtitle="Muzik luar talian, pemacu USB, Wi-Fi Drive, pengurus fail, folder luar talian." >}}
 
-{{< card icon="play" link="/docs/guide/flacbox/flacbox-guide-player" title="Pemain Audio" subtitle="Keluaran hi-res, equalizer, pic, penanda buku, AirPlay, Chromecast, kelajuan, pemasa tidur." >}}
+{{< ls-card icon="play" link="/docs/guide/flacbox/flacbox-guide-player" title="Pemain Audio" subtitle="Keluaran hi-res, equalizer, pic, penanda buku, AirPlay, Chromecast, kelajuan, pemasa tidur." >}}
 
-{{< card icon="adjustments" link="/docs/guide/flacbox/flacbox-guide-settings" title="Tetapan" subtitle="Enjin audio, perpustakaan, pengurus fail, CarPlay, widget, personalisasi, bahasa, sandaran." >}}
+{{< ls-card icon="adjustments" link="/docs/guide/flacbox/flacbox-guide-settings" title="Tetapan" subtitle="Enjin audio, perpustakaan, pengurus fail, CarPlay, widget, personalisasi, bahasa, sandaran." >}}
 
-{{< card icon="question-mark-circle" link="/docs/faq/flacbox" title="Soalan Lazim" subtitle="Cari jawapan kepada 50 soalan paling biasa tentang Flacbox." >}}
+{{< ls-card icon="question-mark-circle" link="/docs/faq/flacbox" title="Soalan Lazim" subtitle="Cari jawapan kepada 50 soalan paling biasa tentang Flacbox." >}}
 
 {{< /cards >}}

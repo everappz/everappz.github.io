@@ -7,7 +7,7 @@ tags: ["musik", "usb", "extern", "ixpand", "sandisk", "iphone", "evermusic"]
 readingTime: 3
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **Zusammenfassung:** Mit Evermusic können Sie Musik direkt von einem SanDisk iXpand Flash Drive auf Ihrem iPhone oder iPad abspielen. Schließen Sie das Laufwerk an, öffnen Sie Evermusic und beginnen Sie mit dem Hören -- keine Notwendigkeit, Dateien auf Ihr Gerät zu kopieren. Unterstützt Dateiverwaltung, Wiedergabelisten, Equalizer und AirPlay-Streaming.
@@ -69,22 +69,22 @@ Mit Evermusic und dem SanDisk iXpand Flash Drive haben Sie die Freiheit, Ihre Mu
 
 ## FAQ
 
-{{% details title="Welche iXpand Flash Drive-Modelle unterstützt Evermusic?" closed="true" %}}
+{{% ls-details title="Welche iXpand Flash Drive-Modelle unterstützt Evermusic?" closed="true" %}}
 Evermusic unterstützt SanDisk iXpand Flash Drives mit den Protokollen V1, V2, V3, V6 und V7. Sie können die Kompatibilität in den Einstellungen Ihres iPhone unter Allgemein > Info > iXpand Flash Drive überprüfen.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Kann ich Musik vom USB-Laufwerk abspielen, ohne Dateien auf mein iPhone zu kopieren?" closed="true" %}}
+{{% ls-details title="Kann ich Musik vom USB-Laufwerk abspielen, ohne Dateien auf mein iPhone zu kopieren?" closed="true" %}}
 Ja. Evermusic spielt Audiodateien direkt vom iXpand Flash Drive ab. Es ist nicht nötig, etwas in den internen Speicher Ihres Geräts zu kopieren.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Welche Audioformate unterstützt Evermusic von USB-Laufwerken?" closed="true" %}}
+{{% ls-details title="Welche Audioformate unterstützt Evermusic von USB-Laufwerken?" closed="true" %}}
 Evermusic unterstützt alle gängigen Audioformate einschließlich MP3, FLAC, AAC, WAV, AIFF, OGG und mehr. Jede Audiodatei, die auf Ihrem iXpand-Laufwerk gespeichert ist, kann direkt abgespielt werden.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Kann ich Musik vom iXpand-Laufwerk an AirPlay-Lautsprecher streamen?" closed="true" %}}
+{{% ls-details title="Kann ich Musik vom iXpand-Laufwerk an AirPlay-Lautsprecher streamen?" closed="true" %}}
 Ja. Während Sie Musik vom USB-Laufwerk abspielen, können Sie Audio an AirPlay-kompatible Geräte wie Sonos-Lautsprecher, Apple TV und Google Chromecast streamen.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Was soll ich tun, wenn mein iXpand-Laufwerk nicht erkannt wird?" closed="true" %}}
+{{% ls-details title="Was soll ich tun, wenn mein iXpand-Laufwerk nicht erkannt wird?" closed="true" %}}
 Stellen Sie sicher, dass keine anderen Apps das Laufwerk verwenden. Versuchen Sie, es zu trennen und wieder anzuschließen. Wenn Ihr Modell nicht unterstützt wird, verwenden Sie einen Apple Lightning-auf-USB-Adapter, um das Laufwerk als Standard-USB-Gerät anzuschließen.
-{{% /details %}}
+{{% /ls-details %}}

@@ -15,7 +15,7 @@ readingTime: 11
 A zenei könyvtár kezelése egyszerű az Evermusicban, ahol könnyedén rendezhetod az összes számodat. Két lehetőséged van a zenei könyvtár felépítéséhez: kézi hozzáadás vagy automatikus szinkronizálás.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evermusic Zenei könyvtár képernyő" image="/docs/guide/evermusic/evermusic-guide-music-library/img/music-library-main.webp" >}}
+  {{< ls-card title="" subtitle="Evermusic Zenei könyvtár képernyő" image="/docs/guide/evermusic/evermusic-guide-music-library/img/music-library-main.webp" >}}
 {{< /cards >}}
 
 ## Kézi hozzáadás
@@ -23,7 +23,7 @@ A zenei könyvtár kezelése egyszerű az Evermusicban, ahol könnyedén rendezh
 Számok kézi hozzáadásához koppints a „Zene hozzáadása" menüpontra, és válassz mappákat/fájlokat a csatlakoztatott felhőtárhely-szolgáltatásból, vagy az eszközödön lévő fájlokból. Amikor számokat adsz a könyvtárhoz, csak hivatkozások jönnek létre azokhoz a számokhoz, az eredeti fájlok eredeti helyükön maradnak a értékes lemezterület megőrzése érdekében. Ha offline elérhetővé szeretnéd tenni a számokat, a beállítások menüben a letöltési művelet segítségével, vagy a lejátszólisták és számgyűjtemények offline módjának engedélyezésével teheted meg.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Számok hozzáadása a zenei könyvtárhoz" image="/docs/guide/evermusic/evermusic-guide-music-library/img/music-library-add-songs.webp" >}}
+  {{< ls-card title="" subtitle="Számok hozzáadása a zenei könyvtárhoz" image="/docs/guide/evermusic/evermusic-guide-music-library/img/music-library-add-songs.webp" >}}
 {{< /cards >}}
 
 ## Gyors hozzáférés
@@ -75,7 +75,7 @@ Amikor számokat adsz hozzá a zenei könyvtáradhoz, az alkalmazás automatikus
 A navigációs sáv alatt elhelyezkedő felső eszköztár számos kényelmes műveletet kínál: „Keresés", „Összes lejátszása", „Összes keverése" és „Lejátszás folytatása". Egyszerű lefelé húzó mozdulattal megjelenítheted vagy elrejtheted ezt az eszköztárat.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Albumok nézet — Zenei tagek szerint csoportosítva" image="/docs/guide/evermusic/evermusic-guide-music-library/img/music-library-albums.webp" >}}
+  {{< ls-card title="" subtitle="Albumok nézet — Zenei tagek szerint csoportosítva" image="/docs/guide/evermusic/evermusic-guide-music-library/img/music-library-albums.webp" >}}
 {{< /cards >}}
 
 ## Keresés
@@ -83,7 +83,7 @@ A navigációs sáv alatt elhelyezkedő felső eszköztár számos kényelmes m�
 A keresési funkció lehetővé teszi, hogy megtalálj egy adott számot, előadót, albumot vagy műfajt a zenei könyvtáradban. A „Keresés képernyőn" a következő műveletek érhetők el: „Rendezés", „Szűrés", „Rács/Lista".
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Zenei könyvtár keresési eredmények" image="/docs/guide/evermusic/evermusic-guide-music-library/img/music-library-search.webp" >}}
+  {{< ls-card title="" subtitle="Zenei könyvtár keresési eredmények" image="/docs/guide/evermusic/evermusic-guide-music-library/img/music-library-search.webp" >}}
 {{< /cards >}}
 
 ## Beállítások menü
@@ -91,7 +91,7 @@ A keresési funkció lehetővé teszi, hogy megtalálj egy adott számot, előad
 A zenei könyvtáradban lévő minden egyes dalnak van egy menüje további műveletekkel, amelyek a szám neve melletti három pontos gombra koppintva érhetők el. Ezek a műveletek attól függően változnak, hogy egyes számról vagy gyűjtemény részéről van szó.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Könyvtárelem további műveletek menüje" image="/docs/guide/evermusic/evermusic-guide-music-library/img/music-library-item-more-actions.webp" >}}
+  {{< ls-card title="" subtitle="Könyvtárelem további műveletek menüje" image="/docs/guide/evermusic/evermusic-guide-music-library/img/music-library-item-more-actions.webp" >}}
 {{< /cards >}}
 
 ### Egyedi számokhoz
@@ -125,7 +125,7 @@ Albumok, Előadók, Műfajok vagy Szerzők számgyűjtemények esetén a beáll�
 A kijelölési módot a jobb felső sarokban lévő További műveletek gomb segítségével aktiválhatod. Ebben a módban több számot is kiválaszthatsz és különféle műveleteket hajthatsz végre.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Kijelölési mód a Zenei könyvtárban" image="/docs/guide/evermusic/evermusic-guide-music-library/img/music-library-selection-mode.webp" >}}
+  {{< ls-card title="" subtitle="Kijelölési mód a Zenei könyvtárban" image="/docs/guide/evermusic/evermusic-guide-music-library/img/music-library-selection-mode.webp" >}}
 {{< /cards >}}
 
 ## Tagek szerinti csoportosítás
@@ -145,7 +145,7 @@ Ezek a kategóriák segítenek zenei tagek szerint rendezni a számaidat: Számo
 Amikor megnyitod az Előadó, Albumbeli előadó vagy Szerző szakaszt, láthatod a Számok/Összes album/Exkluzív albumok/Szóló albumok kapcsolót.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Album részletei Számok / Összes / Exkluzív / Szóló kapcsolóval" image="/docs/guide/evermusic/evermusic-guide-music-library/img/music-library-album-details.webp" >}}
+  {{< ls-card title="" subtitle="Album részletei Számok / Összes / Exkluzív / Szóló kapcsolóval" image="/docs/guide/evermusic/evermusic-guide-music-library/img/music-library-album-details.webp" >}}
 {{< /cards >}}
 
 - **Számok**: Megjeleníti az összes dalt, amelyeknél ez az Előadó/Albumbeli előadó/Szerző be van állítva az audio tagekben.
@@ -166,7 +166,7 @@ Ezzel a funkcióval gyorsan megtalálhatsz bármilyen számot, előadót, albumo
 Koppints a „Beállítások" menüpontra a zenei könyvtár beállításainak konfigurálásához.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Zenei könyvtár beállításai" image="/docs/guide/evermusic/evermusic-guide-music-library/img/music-library-settings.webp" >}}
+  {{< ls-card title="" subtitle="Zenei könyvtár beállításai" image="/docs/guide/evermusic/evermusic-guide-music-library/img/music-library-settings.webp" >}}
 {{< /cards >}}
 
 #### Metaadatok olvasása

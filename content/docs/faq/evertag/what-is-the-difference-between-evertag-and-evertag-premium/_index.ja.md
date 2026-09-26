@@ -11,7 +11,7 @@ tags: ["Evertag", "Premium", "違い", "Pro", "無料vs有料", "タグエディ
 EvertagとEvertag Premiumは、同じ強力なタグ編集アプリの2つのバージョンです。Evertag Freeは基本的なメタデータ編集ツールへのアクセスを提供しますが、Evertag Premiumは完全なエクスペリエンスをアンロックします — 広告なし、無制限、カスタマイズ可能。
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evertag Upgrade To Premium Screen" image="/docs/faq/evertag/what-is-the-difference-between-evertag-and-evertag-premium/upgrade-to-premium.webp" >}}
+  {{< ls-card title="" subtitle="Evertag Upgrade To Premium Screen" image="/docs/faq/evertag/what-is-the-difference-between-evertag-and-evertag-premium/upgrade-to-premium.webp" >}}
 {{< /cards >}}
 
 ## Premiumプランを選択する
@@ -19,7 +19,7 @@ EvertagとEvertag Premiumは、同じ強力なタグ編集アプリの2つのバ
 このアプリの無料版は、すべての制限を解除してPremiumバージョンにアップグレードするために、一回限りの生涯アプリ内購入と2つのサブスクリプションオプション（1ヶ月と1年）を提供しており、最良かつ最適な価格を選択できます。価格は国や地域によって異なる場合があります。また、**ファミリー共有**はすべての購入とプランで**有効**になっており、家族のメンバーとPremiumバージョンを共有できます。
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evertag Select Your Premium Plan Screen" image="/docs/faq/evertag/what-is-the-difference-between-evertag-and-evertag-premium/select-your-plan.webp" >}}
+  {{< ls-card title="" subtitle="Evertag Select Your Premium Plan Screen" image="/docs/faq/evertag/what-is-the-difference-between-evertag-and-evertag-premium/select-your-plan.webp" >}}
 {{< /cards >}}
 
 ## iOSとMac間での購入の共有
@@ -79,7 +79,7 @@ EvertagとEvertag Premiumは、同じ強力なタグ編集アプリの2つのバ
 「Premiumを無料で試す」メニューを使用して、期間限定で無料でPremiumバージョンにアップグレードできます。広告を見るか、このアプリについて友人に話すだけで、Premiumバージョンを無料で手に入れられます。
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evertag Try Premium For Free Screen" image="/docs/faq/evertag/what-is-the-difference-between-evertag-and-evertag-premium/try-premium-for-free.webp" >}}
+  {{< ls-card title="" subtitle="Evertag Try Premium For Free Screen" image="/docs/faq/evertag/what-is-the-difference-between-evertag-and-evertag-premium/try-premium-for-free.webp" >}}
 {{< /cards >}}
 
 ## 何を選ぶべきか？

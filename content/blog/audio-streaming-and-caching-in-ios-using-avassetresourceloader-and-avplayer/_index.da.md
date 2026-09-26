@@ -12,7 +12,7 @@ authors:
     image: "/images/about/artem-meleshko-founder-everappz.webp"
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 ![](/blog/audio-streaming-and-caching-in-ios-using-avassetresourceloader-and-avplayer/diagram.png)
 
@@ -140,18 +140,18 @@ Denne tilgang driver lydstreaming-motoren i [Evermusic](https://apps.apple.com/a
 
 ## Ofte stillede spørgsmål
 
-{{% details title="Hvornår skal jeg bruge AVAssetResourceLoaderDelegate i stedet for en direkte URL?" closed="true" %}}
+{{% ls-details title="Hvornår skal jeg bruge AVAssetResourceLoaderDelegate i stedet for en direkte URL?" closed="true" %}}
 Brug det, når cloudtjenesten kræver brugerdefinerede autorisationsheadere, når du har brug for diskcaching af streamet lyd, eller når du ønsker finkornet kontrol over, hvordan data indlæses og buffres.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Virker denne tilgang med Swift?" closed="true" %}}
+{{% ls-details title="Virker denne tilgang med Swift?" closed="true" %}}
 Ja. Protokollen `AVAssetResourceLoaderDelegate` fungerer på samme måde i Swift. Objective-C-eksemplerne her oversættes direkte.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Kan jeg bruge dette til videostreaming også?" closed="true" %}}
+{{% ls-details title="Kan jeg bruge dette til videostreaming også?" closed="true" %}}
 Ja. `AVAssetResourceLoaderDelegate` fungerer med enhver medietype, som AVPlayer understøtter, herunder video. Den samme brugerdefinerede skematilgang gælder.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Understøtter dette lydafspilning i baggrunden?" closed="true" %}}
+{{% ls-details title="Understøtter dette lydafspilning i baggrunden?" closed="true" %}}
 Ja, så længe du aktiverer baggrundstilstanden "Audio, AirPlay, and Picture in Picture" i din apps funktioner og konfigurerer din `AVAudioSession` korrekt.
-{{% /details %}}
+{{% /ls-details %}}

@@ -12,7 +12,7 @@ authors:
     image: "/images/about/artem-meleshko-founder-everappz.webp"
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 **TL;DR:** [Flacbox 7.6](/products/flacbox) er vores hidtil største opdatering til hi-res-lydafspilleren til iPhone, iPad og Mac, og den er bygget op omkring en helt ny **BASS™-lydmotor** til tabsfri og højopløselig lytning. Du kan vælge BASS™-motoren som en alternativ afspilningskerne for at låse op for en komplet kæde af **lydeffekter i realtid**, en **DSP-processor med 14 filtre**, en **live fuldskærms musikvisualizer** og afspilning af klassisk **tracker- og MOD-musik** (MOD, XM, IT, S3M, MTM, UMX, MO3). Opdateringen tilføjer også **automatisk lydstyrkeudjævning baseret på loudness**, en **effektsuite med elleve studieeffekter** (rumklang, delay, multi-tap-ekko, chorus, flanger, phaser, auto-wah, forvrængning, kompressor, stereorotation og crossfeed), et **fornyet design til effekter og equalizer** med moderne skydere i glasstil samt **CarPlay-forbedringer**, herunder DSP-indstillinger i bilen og mere præcise betjeningselementer på låseskærmen, uret og i bilen. Under motorhjelmen: et mere pålideligt streaming-fundament, bedre håndtering af filtyper, bredere lokalisering og mange forbedringer af stabilitet og ydeevne.
 
@@ -139,50 +139,50 @@ Tak, fordi du bruger Flacbox. Din musik lyder nu fantastisk og ser fantastisk ud
 
 ## Ofte stillede spørgsmål
 
-{{% details title="Hvad er nyt i Flacbox 7.6?" closed="true" %}}
+{{% ls-details title="Hvad er nyt i Flacbox 7.6?" closed="true" %}}
 Flacbox 7.6 tilføjer en ny professionel **BASS™-lydmotor**, som du kan vælge som en alternativ afspilningskerne, **automatisk lydstyrkeudjævning baseret på loudness**, en **effektsuite med elleve studieeffekter** (rumklang, delay, multi-tap-ekko, chorus, flanger, phaser, auto-wah, forvrængning, kompressor, stereorotation og crossfeed), en **DSP-processor i realtid med 14 filtre**, en **fuldskærms musikvisualizer i realtid**, indbygget **tracker- og MOD**-afspilning (MOD, XM, IT, S3M, MTM, UMX, MO3), et **fornyet design til effekter og equalizer** samt **CarPlay-forbedringer**. Den inkluderer også et mere pålideligt streaming-fundament, bedre håndtering af filtyper, bredere lokalisering og mange forbedringer af stabilitet og ydeevne.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Hvad er den nye BASS™-lydmotor i Flacbox?" closed="true" %}}
+{{% ls-details title="Hvad er den nye BASS™-lydmotor i Flacbox?" closed="true" %}}
 [BASS™](https://www.un4seen.com)-lydmotoren, bygget på BASS™-lydbiblioteket fra un4seen Developments, er en professionel afspilningskerne, som du kan vælge som et **alternativ til Flacbox' eksisterende motor**. Når du vælger den, låser du op for en komplet kæde af lydeffekter i realtid, en DSP-processor og live visualisering, og den tilføjer afspilning af klassisk tracker- og MOD-musik. Den afspiller dit eksisterende tabsfri og hi-res-bibliotek (FLAC, DSD, ALAC, APE og mere) med **resampling i høj kvalitet** og **præcis kontrol af toneleje og tempo**. Du kan skifte tilbage til den klassiske motor når som helst.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Hvilke lydformater og tracker-/MOD-typer afspiller Flacbox 7.6?" closed="true" %}}
+{{% ls-details title="Hvilke lydformater og tracker-/MOD-typer afspiller Flacbox 7.6?" closed="true" %}}
 Flacbox er fortsat en hi-res- og tabsfri afspiller, der håndterer **FLAC, DSD, APE, ALAC, WAV, AIFF, MP3, AAC, Opus** og mere. Nyt i 7.6 er, at BASS™-motoren også afspiller klassisk **tracker- og modulmusik**: **MOD, XM, IT, S3M, MTM, UMX og MO3** — mønster-og-sample-formaterne, der bruges i chiptune- og demoscene-musik, som de fleste iPhone-afspillere ikke kan åbne.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Hvordan fungerer automatisk lydstyrkeudjævning i Flacbox?" closed="true" %}}
+{{% ls-details title="Hvordan fungerer automatisk lydstyrkeudjævning i Flacbox?" closed="true" %}}
 Flacbox 7.6 bruger **EBU R128-loudnessmåling** (ITU-R BS.1770-standarden) til at holde spor fra forskellige album på en ensartet oplevet lydstyrke, så du ikke skal justere lydstyrken mellem numrene. For **lokale filer forhåndsscannes dit bibliotek**, så afspilningen starter allerede udjævnet — der er ingen forsinkelse, mens appen måler loudness, efter et spor er startet. Fire forudindstillinger er tilgængelige — **Let** (−20 LUFS), **Standard** (−16 LUFS), **Kraftig** (−14 LUFS) og **Nat** (−23 LUFS) — og det fungerer på tværs af blandede biblioteker, opsamlinger og shuffle-sessioner.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Hvilke lydeffekter findes i Flacbox 7.6?" closed="true" %}}
+{{% ls-details title="Hvilke lydeffekter findes i Flacbox 7.6?" closed="true" %}}
 Elleve effekter i realtid, som du kan stable og justere, mens musikken spiller: **rumklang, delay, multi-tap-ekko, chorus, flanger, phaser, auto-wah, forvrængning, kompressor, stereorotation og crossfeed**. Hver effekt har **sin egen skærm, et bibliotek af forudindstillinger og en øjeblikkelig til/fra-kontakt**, og Flacbox husker dine indstillinger mellem sessionerne. Crossfeed får især hårdt panorerede optagelser til at lyde mere naturligt i hovedtelefoner.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Hvad er DSP-processoren, og hvilke filtre indeholder den?" closed="true" %}}
+{{% ls-details title="Hvad er DSP-processoren, og hvilke filtre indeholder den?" closed="true" %}}
 DSP-processoren lader dig **bygge din egen signalkæde i realtid af 14 filtre**: gain, lavpas, højpas, båndpas- og notch-filtre, peaking-EQ, low-shelf- og high-shelf-EQ, soft-clip-mætning, bit crusher, tremolo, delay, ring modulator og stereobredde. Hvert filter har **forudindstillinger og en øjeblikkelig til/fra-kontakt**, så du kan korrigere et rum, tæmme skarpe optagelser eller designe en helt tilpasset tone.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Hvad er crossfeed, og hvorfor skulle jeg bruge det i hovedtelefoner?" closed="true" %}}
+{{% ls-details title="Hvad er crossfeed, og hvorfor skulle jeg bruge det i hovedtelefoner?" closed="true" %}}
 Crossfeed blander en lille, filtreret mængde af hver stereokanal ind i den anden, på samme måde som dine ører naturligt hører rigtige højttalere i et rum. I hovedtelefoner reducerer det den overdrevne, "inde-i-hovedet"-adskillelse af hårdt panorerede optagelser og gør lange lyttesessioner mere behagelige. Det er især effektivt på ældre stereomix fra 1960'erne og 1970'erne.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Fungerer Flacbox' musikvisualizer på alle enheder?" closed="true" %}}
+{{% ls-details title="Fungerer Flacbox' musikvisualizer på alle enheder?" closed="true" %}}
 Ja. Den **musikvisualizer i realtid** viser animerede fuldskærmsvisualiseringer, der reagerer live på din musik, med et stort bibliotek af forudindstillinger, du kan vælge fra eller lade skifte automatisk. Den er **tilgængelig på tværs af afspilningsmotorerne på alle dine enheder**, og en indbygget **forhindring af skærmdvale** holder skærmen vågen, så visualiseringerne ikke afbrydes under en sang.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Kan jeg ændre toneleje og tempo uden at påvirke det andet?" closed="true" %}}
+{{% ls-details title="Kan jeg ændre toneleje og tempo uden at påvirke det andet?" closed="true" %}}
 Ja. Når du bruger den nye BASS™-motor, tilbyder Flacbox 7.6 **præcis, uafhængig kontrol af toneleje og tempo** — ændr et spors hastighed uden at ændre dets toneleje, eller flyt tonelejet uden at ændre hastigheden. Det er nyttigt til øvelse, transskription og DJ-agtig lytning.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Hvad er forbedret i CarPlay i Flacbox 7.6?" closed="true" %}}
+{{% ls-details title="Hvad er forbedret i CarPlay i Flacbox 7.6?" closed="true" %}}
 CarPlay inkluderer nu **DSP-indstillinger**, så du kan nå din konfiguration fra bilen, **rettet visning af albumcover og Afspilles nu** samt **mere præcise betjeningselementer på låseskærm, Apple Watch og i bil**, der forbliver synkroniseret med afspilningen. Kombineret med det mere pålidelige streaming-fundament bliver det mere gnidningsfrit at lytte til dit tabsfri bibliotek på farten.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Fungerer effekter, DSP og equalizer med cloud-streaming?" closed="true" %}}
+{{% ls-details title="Fungerer effekter, DSP og equalizer med cloud-streaming?" closed="true" %}}
 Ja. Effekterne, DSP-filtrene, equalizeren og lydstyrkeudjævningen kører i realtid inde i BASS™-afspilningsmotoren, så de anvendes på alt, hvad Flacbox afspiller — **lokale filer, clouddrev (iCloud Drive, Google Drive, Dropbox, OneDrive og mere), medieservere og netværksdrev** — uden genkodning af dine filer.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Er Flacbox 7.6 en gratis opdatering, og hvilke enheder understøtter den?" closed="true" %}}
+{{% ls-details title="Er Flacbox 7.6 en gratis opdatering, og hvilke enheder understøtter den?" closed="true" %}}
 Ja. Flacbox er en **gratis download** fra App Store, og 7.6 er en **gratis opdatering** for eksisterende brugere, med valgfrie opgraderinger i appen til avancerede funktioner. Den kører på **iPhone, iPad og Mac**. CarPlay kræver et CarPlay-kompatibelt køretøj eller en CarPlay-kompatibel enhed.
-{{% /details %}}
+{{% /ls-details %}}

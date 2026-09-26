@@ -72,19 +72,19 @@ Ovaj vodič pomoći će vam da izvučete maksimum iz Evermusicana iPhoneu, iPadu
 
 
 {{< cards >}}
-  {{< card icon="location-marker" title="Navigacija" subtitle="Naučite kako navigirati Evermusic koristeći Traku kartica na iPhoneu ili Lijevi izbornik na iPadu i Macu." link="/docs/guide/evermusic/evermusic-guide-navigation" >}}
+  {{< ls-card icon="location-marker" title="Navigacija" subtitle="Naučite kako navigirati Evermusic koristeći Traku kartica na iPhoneu ili Lijevi izbornik na iPadu i Macu." link="/docs/guide/evermusic/evermusic-guide-navigation" >}}
 
-  {{< card icon="cloud" title="Povezivanja" subtitle="Povežite oblak račune i upravljajte online datotekama koristeći ugrađeni upravitelj datoteka." link="/docs/guide/evermusic/evermusic-guide-connections" >}}
+  {{< ls-card icon="cloud" title="Povezivanja" subtitle="Povežite oblak račune i upravljajte online datotekama koristeći ugrađeni upravitelj datoteka." link="/docs/guide/evermusic/evermusic-guide-connections" >}}
 
-  {{< card icon="collection" title="Glazbena biblioteka" subtitle="Organizirajte i istražujte pjesme, albume i izvođače u Glazbenoj biblioteci." link="/docs/guide/evermusic/evermusic-guide-music-library" >}}
+  {{< ls-card icon="collection" title="Glazbena biblioteka" subtitle="Organizirajte i istražujte pjesme, albume i izvođače u Glazbenoj biblioteci." link="/docs/guide/evermusic/evermusic-guide-music-library" >}}
 
-  {{< card icon="music-note" title="Popisi pjesama" subtitle="Kreirajte i aranžirajte popise pjesama prema svom raspoloženju ili prigodi." link="/docs/guide/evermusic/evermusic-guide-playlists" >}}
+  {{< ls-card icon="music-note" title="Popisi pjesama" subtitle="Kreirajte i aranžirajte popise pjesama prema svom raspoloženju ili prigodi." link="/docs/guide/evermusic/evermusic-guide-playlists" >}}
 
-  {{< card icon="folder" title="Lokalne datoteke" subtitle="Pristupite i upravljajte offline glazbom putem odjeljka Lokalnih datoteka." link="/docs/guide/evermusic/evermusic-guide-local-files" >}}
+  {{< ls-card icon="folder" title="Lokalne datoteke" subtitle="Pristupite i upravljajte offline glazbom putem odjeljka Lokalnih datoteka." link="/docs/guide/evermusic/evermusic-guide-local-files" >}}
 
-  {{< card icon="play" title="Audio reproduktor" subtitle="Kontrolirajte reprodukciju, red čekanja i audio postavke poput ekvilajzera i tajmera za spavanje." link="/docs/guide/evermusic/evermusic-guide-player" >}}
+  {{< ls-card icon="play" title="Audio reproduktor" subtitle="Kontrolirajte reprodukciju, red čekanja i audio postavke poput ekvilajzera i tajmera za spavanje." link="/docs/guide/evermusic/evermusic-guide-player" >}}
 
-  {{< card icon="adjustments" title="Postavke" subtitle="Prilagodite izgled, značajke i postavke performansi Evermusicа." link="/docs/guide/evermusic/evermusic-guide-settings" >}}
+  {{< ls-card icon="adjustments" title="Postavke" subtitle="Prilagodite izgled, značajke i postavke performansi Evermusicа." link="/docs/guide/evermusic/evermusic-guide-settings" >}}
 
-  {{< card icon="question-mark-circle" title="FAQ" subtitle="Pronađite brze odgovore na česta pitanja u našem odjeljku FAQ." link="/docs/faq/evermusic" >}}
+  {{< ls-card icon="question-mark-circle" title="FAQ" subtitle="Pronađite brze odgovore na česta pitanja u našem odjeljku FAQ." link="/docs/faq/evermusic" >}}
 {{< /cards >}}

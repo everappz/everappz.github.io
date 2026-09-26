@@ -12,7 +12,7 @@ authors:
     image: "/images/about/artem-meleshko-founder-everappz.webp"
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 ![](/blog/audio-streaming-and-caching-in-ios-using-avassetresourceloader-and-avplayer/diagram.png)
 
@@ -140,18 +140,18 @@ Această abordare alimentează motorul de streaming audio din [Evermusic](https:
 
 ## Întrebări frecvente
 
-{{% details title="Când ar trebui să folosesc AVAssetResourceLoaderDelegate în loc de un URL direct?" closed="true" %}}
+{{% ls-details title="Când ar trebui să folosesc AVAssetResourceLoaderDelegate în loc de un URL direct?" closed="true" %}}
 Utilizați-l atunci când serviciul cloud necesită antete de autorizare personalizate, când aveți nevoie de cache pe disc pentru audio transmis în flux sau când doriți un control detaliat asupra modului în care datele sunt încărcate și memorate în buffer.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Această abordare funcționează cu Swift?" closed="true" %}}
+{{% ls-details title="Această abordare funcționează cu Swift?" closed="true" %}}
 Da. Protocolul `AVAssetResourceLoaderDelegate` funcționează în același mod în Swift. Exemplele din Objective-C se traduc direct.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Pot folosi aceasta și pentru streaming video?" closed="true" %}}
+{{% ls-details title="Pot folosi aceasta și pentru streaming video?" closed="true" %}}
 Da. `AVAssetResourceLoaderDelegate` funcționează cu orice tip de media pe care AVPlayer îl suportă, inclusiv video. Aceeași abordare cu schemă personalizată se aplică.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Aceasta suportă redarea audio în fundal?" closed="true" %}}
+{{% ls-details title="Aceasta suportă redarea audio în fundal?" closed="true" %}}
 Da, atâta timp cât activați modul de fundal „Audio, AirPlay și Picture in Picture" în capabilitățile aplicației dvs. și configurați corect `AVAudioSession`.
-{{% /details %}}
+{{% /ls-details %}}

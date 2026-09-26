@@ -7,7 +7,7 @@ keywords: ["server DLNA iPhone", "server UPnP iPad", "cara menyiapkan DLNA di iP
 readingTime: 9
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 DLNA (disebut juga UPnP AV) adalah mesin senyap di balik sebagian besar smart TV. Ini adalah bahasa bersama yang memungkinkan TV atau pemutar media menemukan koleksi media di Wi-Fi yang sama lalu memutarnya, tanpa perlu memasang apa pun di TV. Jika iPhone atau iPad Anda bisa berperan sebagai koleksi itu, foto, video, dan musik Anda muncul sendiri di layar besar.
 
@@ -127,45 +127,45 @@ DLNA menyerahkan file ke TV apa adanya, dan TV harus mampu mendekodenya. Jika se
 
 ## Pertanyaan yang Sering Diajukan
 
-{{% details title="Apa bedanya DLNA dan UPnP?" closed="true" %}}
+{{% ls-details title="Apa bedanya DLNA dan UPnP?" closed="true" %}}
 Keduanya berkaitan erat. UPnP adalah standar jaringan yang mendasarinya, dan DLNA adalah profil media yang dibangun di atasnya yang dipakai TV dan pemutar untuk berbagi dan memutar foto, video, dan musik. Dalam pemakaian sehari-hari kedua kata itu bisa dipertukarkan. Saat Anda mengaktifkan TV & Media Center di Everdisk, perangkat Anda menjadi media server DLNA/UPnP yang bisa dijelajahi klien DLNA mana pun.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Apakah saya perlu memasang apa pun di TV saya?" closed="true" %}}
+{{% ls-details title="Apakah saya perlu memasang apa pun di TV saya?" closed="true" %}}
 Tidak. Jika TV Anda mendukung DLNA, TV itu sudah memiliki pemutar media yang bisa menemukan perangkat Anda di Wi-Fi. Anda hanya memasang Everdisk di iPhone atau iPad yang menyimpan kontennya. Jika TV Anda tidak mendukung DLNA, pasang pemutar seperti VLC atau Kodi di perangkat yang terhubung ke TV.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Mengapa iPhone saya tidak muncul di TV?" closed="true" %}}
+{{% ls-details title="Mengapa iPhone saya tidak muncul di TV?" closed="true" %}}
 Periksa bahwa kedua perangkat berada di jaringan Wi-Fi yang sama. Jaringan tamu dan beberapa jaringan kantor atau hotel memblokir perangkat agar tidak saling melihat, yang menghentikan DLNA. Lalu pastikan Everdisk terbuka dengan berbagi sudah dimulai, dan TV & Media Center aktif di Pengaturan, Berbagi, Koneksi. Jika TV masih tidak dapat menemukannya, tambahkan server secara manual menggunakan alamat deskripsi perangkat yang berakhiran /device-desc.xml.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Apakah streaming DLNA memerlukan kata sandi?" closed="true" %}}
+{{% ls-details title="Apakah streaming DLNA memerlukan kata sandi?" closed="true" %}}
 Tidak. DLNA selalu terbuka untuk siapa pun di Wi-Fi yang sama selama aktif, itulah sebabnya tidak ada login di sisi TV. Ini baik-baik saja di jaringan rumah yang Anda percayai. Di jaringan yang tidak Anda percayai, matikan TV & Media Center setelah selesai, atau gunakan server SMB dengan enkripsi sebagai gantinya.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Bisakah saya streaming ke Chromecast atau Roku?" closed="true" %}}
+{{% ls-details title="Bisakah saya streaming ke Chromecast atau Roku?" closed="true" %}}
 Chromecast dan Roku tidak berperan sebagai pemutar DLNA secara bawaan, jadi keduanya tidak akan menemukan perangkat Anda secara langsung. Solusinya adalah memasang aplikasi DLNA yang bisa melakukan cast, seperti VLC atau BubbleUPnP di ponsel, dan mengirim pemutaran ke Chromecast atau Roku dari sana. Pada sebagian besar smart TV lainnya, DLNA berfungsi tanpa semua ini.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Video diputar tanpa suara atau tidak mau terbuka. Apa yang bisa saya lakukan?" closed="true" %}}
+{{% ls-details title="Video diputar tanpa suara atau tidak mau terbuka. Apa yang bisa saya lakukan?" closed="true" %}}
 Itu adalah format yang tidak dapat didekode oleh TV. Buka Pengaturan, Berbagi, Video di Everdisk dan turunkan Kualitas agar aplikasi mengonversi video ke format yang lebih kompatibel saat streaming. Anda juga bisa membuka file yang sama lewat tautan browser, yang menangani lebih banyak format.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Bisakah saya streaming musik, bukan hanya video?" closed="true" %}}
+{{% ls-details title="Bisakah saya streaming musik, bukan hanya video?" closed="true" %}}
 Ya. Aktifkan Izinkan akses ke seluruh Pustaka Musik, atau tambahkan lagu tertentu, lalu mulai berbagi. Lagu Anda muncul di speaker DLNA, AV receiver, atau TV mana pun, lengkap dengan sampul dan detail lagu. Musik selalu dibagikan dalam kualitas aslinya.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Apakah aplikasi harus tetap terbuka saat saya menonton?" closed="true" %}}
+{{% ls-details title="Apakah aplikasi harus tetap terbuka saat saya menonton?" closed="true" %}}
 Ya. iPhone Anda berperan sebagai server, dan iOS menjeda aplikasi yang didorong sepenuhnya ke latar belakang dalam waktu lama. Biarkan Everdisk tetap di layar saat Anda streaming, dan colokkan ke sumber daya untuk sesi yang panjang.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Bagaimana cara streaming dari satu iPhone ke iPad lain?" closed="true" %}}
+{{% ls-details title="Bagaimana cara streaming dari satu iPhone ke iPad lain?" closed="true" %}}
 Mulai berbagi di iPhone, lalu buka Everdisk di iPad dan masuk ke tab Perangkat. iPhone muncul di bawah Perangkat Tersedia sebagai media server. Ketuk untuk menjelajah dan memutar. Everdisk berfungsi sebagai klien DLNA sekaligus server, jadi Anda tidak memerlukan aplikasi lain.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Apakah Everdisk gratis?" closed="true" %}}
+{{% ls-details title="Apakah Everdisk gratis?" closed="true" %}}
 Ya, Everdisk gratis diunduh dan media server DLNA sudah termasuk. Opsi pembelian sekali bayar Premium Lifetime menambahkan ekstra seperti konversi foto dan video untuk TV lawas, port kustom, dan lainnya. Anda bisa menyiapkan dan memakai streaming DLNA tanpa membayar.
-{{% /details %}}
+{{% /ls-details %}}
 
 Siap mencobanya? [Unduh Everdisk dari App Store](https://apps.apple.com/app/apple-store/id6751851132?pt=95781850&ct=everappzcom&mt=8) dan streaming album pertama Anda ke TV dalam beberapa menit. Ada pertanyaan atau masukan? Kirim email ke **support@everappz.com**.
 </content>

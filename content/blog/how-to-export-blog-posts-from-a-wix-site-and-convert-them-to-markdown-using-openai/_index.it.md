@@ -12,7 +12,7 @@ authors:
     image: "/images/about/artem-meleshko-founder-everappz.webp"
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 ## Perché esportare i post del blog da Wix?
 
@@ -78,33 +78,33 @@ bash fetch_blog_posts.sh
 Il progetto è open source.
 
 {{< cards cols="1" >}}
-  {{< card link="https://github.com/everappz/wix-blog-export" title="Progetto su GitHub" icon="github" tag="open source" >}}
+  {{< ls-card link="https://github.com/everappz/wix-blog-export" title="Progetto su GitHub" icon="github" tag="open source" >}}
 {{< /cards >}}
 
 ---
 
 ## Domande frequenti
 
-{{% details title="Perché non posso semplicemente usare `requests` per lo scraping dei post Wix?" closed="true" %}}
+{{% ls-details title="Perché non posso semplicemente usare `requests` per lo scraping dei post Wix?" closed="true" %}}
 Wix renderizza il contenuto dinamicamente con JavaScript. Una richiesta HTTP standard restituisce una pagina vuota. Selenium esegue un browser headless per ottenere l'HTML completamente renderizzato.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Funziona con qualsiasi blog Wix?" closed="true" %}}
+{{% ls-details title="Funziona con qualsiasi blog Wix?" closed="true" %}}
 Sì. Lo scraper legge l'XML della sitemap del blog e processa ogni URL. Basta aggiornare la variabile `SITEMAP_URL` in `parse_blog_sitemap.py`.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Quale modello OpenAI viene usato?" closed="true" %}}
+{{% ls-details title="Quale modello OpenAI viene usato?" closed="true" %}}
 Lo script usa GPT-4o per impostazione predefinita. Puoi cambiare la variabile `API_MODEL` in `generate_md.py`.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Posso usare questo per migrare da Wix a Hugo?" closed="true" %}}
+{{% ls-details title="Posso usare questo per migrare da Wix a Hugo?" closed="true" %}}
 Sì. L'output è Markdown standard con percorsi immagine locali, che funziona direttamente con Hugo, Jekyll, Astro e altri generatori di siti statici.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Quanto costa l'API OpenAI per questo?" closed="true" %}}
+{{% ls-details title="Quanto costa l'API OpenAI per questo?" closed="true" %}}
 Il costo dipende dal numero e dalla lunghezza dei tuoi post. Un blog tipico con 50 post di lunghezza media costa pochi dollari di utilizzo API con GPT-4o.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Questo strumento è open source?" closed="true" %}}
+{{% ls-details title="Questo strumento è open source?" closed="true" %}}
 Sì. Il codice sorgente completo è disponibile su [GitHub](https://github.com/everappz/wix-blog-export) con licenza open source.
-{{% /details %}}
+{{% /ls-details %}}

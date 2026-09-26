@@ -12,7 +12,7 @@ authors:
     image: "/images/about/artem-meleshko-founder-everappz.webp"
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 **Zhrnutie:** [Evermusic 8.7](/products/evermusic) je vydanie zamerané na kvalitu zvuku pre iPhone, iPad a Mac. Prináša **skutočné prehrávanie bez medzier** (žiadne pauzy, cvaknutia či kliknutia medzi skladbami), kompletnú sadu **štúdiových zvukových efektov** — reverb, delay, skreslenie, kompresor a crossfeed — a **normalizáciu hlasitosti EBU R128**, ktorá udržiava konzistentnú hlasitosť od skladby ku skladbe bez značiek ReplayGain. **10-pásmový ekvalizér** je prepracovaný s novými posuvníkmi, rýchlejším prepínaním predvolieb, vlastnými predvoľbami, ktoré môžete importovať a exportovať, a lepším rozložením na šírku a na iPade. Pod kapotou **prestavaný streamovací engine AVAudioEngine** zlepšuje spoľahlivosť a podporu formátov, vrátane **FLAC** a **Ogg Vorbis**. **CarPlay** a **Práve hrá** sú rýchlejšie a presnejšie na uzamknutej obrazovke, v aute aj z diaľkových ovládačov slúchadiel.
 
@@ -129,50 +129,50 @@ Ak sa vám aplikácia páči, zanechajte prosím hodnotenie na App Store — nao
 
 ## Často kladené otázky
 
-{{% details title="Čo je nové v Evermusic 8.7?" closed="true" %}}
+{{% ls-details title="Čo je nové v Evermusic 8.7?" closed="true" %}}
 Evermusic 8.7 pridáva skutočné prehrávanie bez medzier, päť štúdiových zvukových efektov (reverb, delay, skreslenie, kompresor a crossfeed), normalizáciu hlasitosti EBU R128, prepracovaný 10-pásmový ekvalizér s vlastnými predvoľbami a importom/exportom, prestavaný streamovací engine AVAudioEngine so zlepšenou podporou formátov (vrátane FLAC a Ogg Vorbis), rýchlejšie a presnejšie CarPlay a Práve hrá, aktualizácie dizajnu Liquid Glass, obnovené widgety na plochu a opravy chýb a lokalizácie.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Má Evermusic skutočné prehrávanie bez medzier?" closed="true" %}}
+{{% ls-details title="Má Evermusic skutočné prehrávanie bez medzier?" closed="true" %}}
 Áno. Počnúc Evermusic 8.7 je prehrávanie skutočne bez medzier: medzi skladbami nie je žiadna pauza, cvaknutie ani kliknutie. Engine vopred bufferuje a dekóduje nasledujúcu skladbu, kým aktuálna hrá, a odovzdá riadenie medzi zvukovými vzorkami na súvislom kruhovom bufferi, takže je prechod nepočuteľný. Funguje pre lokálne súbory, cloudové streamy a mediálne servery a je ideálny pre živé albumy, DJ mixy a koncepčné albumy.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Aké zvukové efekty obsahuje Evermusic 8.7?" closed="true" %}}
+{{% ls-details title="Aké zvukové efekty obsahuje Evermusic 8.7?" closed="true" %}}
 Päť efektov v reálnom čase: **reverb** (13 predvolieb miestností, mix wet/dry), **delay/echo** (10 predvolieb s časom oneskorenia, feedbackom, low-pass a mixom), **skreslenie** (22 charakterových predvolieb s pre-gain a mixom), **kompresor** (plnohodnotný dynamický procesor s thresholdom, ratiom, attackom, releasom, expansiou a makeup gainom, plus 10 predvolieb) a **crossfeed** (crossfeed pre slúchadlá Bauer bs2b s ovládaním úrovne a cutoffu a 6 predvoľbami). Každý efekt sa dodáva s kurátorovanými predvoľbami a vaše vlastné nastavenia sa pamätajú medzi reláciami.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Čo je crossfeed a prečo by som ho použil?" closed="true" %}}
+{{% ls-details title="Čo je crossfeed a prečo by som ho použil?" closed="true" %}}
 Crossfeed mieša malé, filtrované množstvo každého stereo kanálu do toho druhého, tak ako vaše uši prirodzene počujú skutočné reproduktory v miestnosti. Na slúchadlách to znižuje prehnané, „vo vašej hlave“ oddelenie tvrdo panorámovaných nahrávok a robí dlhé počúvanie pohodlnejším. Evermusic používa známy algoritmus Bauer stereophonic-to-binaural (bs2b) a obsahuje predvoľby ako Chu Moy a Jan Meier. Je obzvlášť účinný pri starších stereo mixoch zo 60. a 70. rokov.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Ako funguje normalizácia hlasitosti v Evermusic?" closed="true" %}}
+{{% ls-details title="Ako funguje normalizácia hlasitosti v Evermusic?" closed="true" %}}
 Evermusic 8.7 meria vnímanú hlasitosť každej skladby pomocou štandardu EBU R128 (ITU-R BS.1770) v reálnom čase a jemne prispôsobuje úroveň smerom ku konzistentnému cieľu, takže skladby neskáču v hlasitosti. Nevyžaduje značky ReplayGain a nemení vaše súbory. K dispozícii sú štyri predvoľby — Light (−20 LUFS), Standard (−16 LUFS), Strong (−14 LUFS) a Night (−23 LUFS) — a normalizácia sa čisto resetuje, keď pretáčate alebo meníte skladby.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Je normalizácia hlasitosti Evermusic to isté ako ReplayGain?" closed="true" %}}
+{{% ls-details title="Je normalizácia hlasitosti Evermusic to isté ako ReplayGain?" closed="true" %}}
 Dosahuje rovnaký cieľ — konzistentnú hlasitosť medzi skladbami — ale funguje inak. ReplayGain sa spolieha na značky hlasitosti uložené vnútri vašich súborov. Normalizátor Evermusic meria hlasitosť živo pomocou EBU R128, takže funguje na akomkoľvek zdroji, vrátane cloudových streamov a internetového rádia, aj keď súbory nemajú žiadne značky.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Koľko pásiem má ekvalizér Evermusic a môžem si vytvoriť vlastné predvoľby?" closed="true" %}}
+{{% ls-details title="Koľko pásiem má ekvalizér Evermusic a môžem si vytvoriť vlastné predvoľby?" closed="true" %}}
 Ekvalizér Evermusic je 10-pásmový grafický ekvalizér pokrývajúci 32 Hz až 16 kHz, s každým pásmom nastaviteľným od −12 dB do +12 dB v krokoch po 0,1 dB a predzosilnením od −24 dB do +24 dB. Obsahuje vstavané predvoľby, umožňuje vytvárať a ukladať vlastné predvoľby a podporuje import a export predvolieb ako súbory .eqp, takže ich môžete presúvať alebo zdieľať medzi zariadeniami.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Čo sa zmenilo v ekvalizéri Evermusic 8.7?" closed="true" %}}
+{{% ls-details title="Čo sa zmenilo v ekvalizéri Evermusic 8.7?" closed="true" %}}
 Ekvalizér bol prepracovaný s novými, presnejšími posuvníkmi, ktoré preberajú vzhľad systémového posuvníka iOS 26 a Liquid Glass, rýchlejším a plynulejším prepínaním predvolieb a lepším rozložením na šírku a na iPade (horizontálna lišta predvolieb na výšku a vertikálny stĺpec predvolieb na šírku). Podporované sú vlastné predvoľby a import/export .eqp.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Podporuje Evermusic 8.7 FLAC a Ogg Vorbis?" closed="true" %}}
+{{% ls-details title="Podporuje Evermusic 8.7 FLAC a Ogg Vorbis?" closed="true" %}}
 Áno. Prestavaný engine prehráva FLAC (cez Core Audio) a Ogg Vorbis (cez libvorbisfile), spolu s MP3, AAC, Apple Lossless (ALAC), WAV, AIFF, AC-3, CAF a ďalšími, z lokálnych súborov, cloudových diskov a mediálnych serverov.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Čo sa zlepšilo v CarPlay a na uzamknutej obrazovke?" closed="true" %}}
+{{% ls-details title="Čo sa zlepšilo v CarPlay a na uzamknutej obrazovke?" closed="true" %}}
 Obal albumu v CarPlay sa načítava niekoľkonásobne rýchlejšie v dlhých zoznamoch a teraz sa objavuje aj v kompaktných riadkoch zoznamu iOS 26, ktoré predtým žiadny nezobrazovali. Informácie Práve hrá na uzamknutej obrazovke a v CarPlay sú presnejšie — názov, uplynutý čas, dĺžka a stav prehrávanie/pauza sú zachytené spolu, takže si nemôžu protirečiť, a stavy bufferovania sa hlásia správne. Diaľkové ovládanie (prehrávanie, pauza, ďalej, späť, pretáčanie, náhodné poradie, opakovanie, rýchlosť) reaguje spoľahlivo zo slúchadiel a auta a triedenie CarPlay vo veľkých knižniciach je rýchlejšie.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Fungujú zvukové efekty a ekvalizér s cloudovým streamovaním a CarPlay?" closed="true" %}}
+{{% ls-details title="Fungujú zvukové efekty a ekvalizér s cloudovým streamovaním a CarPlay?" closed="true" %}}
 Áno. Efekty, ekvalizér a normalizácia hlasitosti bežia natívne vnútri prehrávacieho enginu, takže sa uplatňujú na všetko, čo Evermusic prehráva — lokálne súbory, cloudové disky, mediálne servery a internetové rádio — a naďalej fungujú počas prehrávania cez CarPlay a, kde je to podporované, cez AirPlay a Chromecast.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Je Evermusic 8.7 aktualizácia zadarmo a ktoré zariadenia podporuje?" closed="true" %}}
+{{% ls-details title="Je Evermusic 8.7 aktualizácia zadarmo a ktoré zariadenia podporuje?" closed="true" %}}
 Áno. Evermusic je bezplatné stiahnutie z App Store a 8.7 je bezplatná aktualizácia pre existujúcich používateľov, s voliteľnými upgradmi v aplikácii pre pokročilé funkcie. Beží na iPhone, iPad a Mac. CarPlay vyžaduje vozidlo alebo hlavnú jednotku kompatibilnú s CarPlay.
-{{% /details %}}
+{{% /ls-details %}}

@@ -20,7 +20,7 @@ readingTime: 8
 يتيح لك مدير الملفات المدمج هذا تعديل الملفات ويوفر طرقًا متنوعة لاستيراد الملفات الصوتية إلى التطبيق.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="شاشة الملفات المحلية في Evermusic" image="/docs/guide/evermusic/evermusic-guide-local-files/img/local-files-main.webp" >}}
+  {{< ls-card title="" subtitle="شاشة الملفات المحلية في Evermusic" image="/docs/guide/evermusic/evermusic-guide-local-files/img/local-files-main.webp" >}}
 {{< /cards >}}
 
 ## تنزيل الملفات من التخزين السحابي
@@ -40,7 +40,7 @@ readingTime: 8
 انقل الملفات باستخدام اتصال الكابل كما هو موضح [هنا](/docs/howto/how-to-transfer-files-from-my-mac-to-iphone-or-ipad-using-finder).
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="مشاركة ملفات iTunes / Finder" image="/docs/guide/evermusic/evermusic-guide-local-files/img/local-files-itunes-file-sharing.webp" >}}
+  {{< ls-card title="" subtitle="مشاركة ملفات iTunes / Finder" image="/docs/guide/evermusic/evermusic-guide-local-files/img/local-files-itunes-file-sharing.webp" >}}
 {{< /cards >}}
 
 ## Wi-Fi Drive
@@ -48,7 +48,7 @@ readingTime: 8
 انقل الملفات لاسلكيًا كما هو موضح [هنا](/docs/howto/how-to-transfer-files-wirelessly-from-a-computer-to-an-iphone-using-wifi-drive).
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="إعدادات خادم Wi-Fi Drive" image="/docs/guide/evermusic/evermusic-guide-local-files/img/local-files-wifidrive-settings.webp" >}}
+  {{< ls-card title="" subtitle="إعدادات خادم Wi-Fi Drive" image="/docs/guide/evermusic/evermusic-guide-local-files/img/local-files-wifidrive-settings.webp" >}}
 {{< /cards >}}
 
 ## قائمة انتظار النقل
@@ -56,7 +56,7 @@ readingTime: 8
 في الزاوية العلوية اليسرى من شريط التنقل، ستجد زر 'النقل'. انقر عليه للوصول إلى قائمة انتظار النقل، حيث يمكنك مراقبة وإدارة جميع التنزيلات والتحميلات. بالإضافة إلى ذلك، لديك المرونة لضبط سرعة قائمة انتظار النقل ونوع الشبكة في إعدادات التطبيق.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="قائمة انتظار نقل الملفات" image="/docs/guide/evermusic/evermusic-guide-local-files/img/local-files-file-transfers.webp" >}}
+  {{< ls-card title="" subtitle="قائمة انتظار نقل الملفات" image="/docs/guide/evermusic/evermusic-guide-local-files/img/local-files-file-transfers.webp" >}}
 {{< /cards >}}
 
 ## قسم الوصول السريع
@@ -68,7 +68,7 @@ readingTime: 8
 يعرض هذا القسم جميع الملفات أو المجلدات التي فُتحت مؤخرًا.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="الملفات والمجلدات التي فُتحت مؤخرًا" image="/docs/guide/evermusic/evermusic-guide-local-files/img/local-files-recents.webp" >}}
+  {{< ls-card title="" subtitle="الملفات والمجلدات التي فُتحت مؤخرًا" image="/docs/guide/evermusic/evermusic-guide-local-files/img/local-files-recents.webp" >}}
 {{< /cards >}}
 
 ## المفضلات
@@ -76,7 +76,7 @@ readingTime: 8
 يمكنك وضع علامة على الملفات أو المجلدات كمفضلة والوصول إليها في هذا القسم. علاوة على ذلك، يمكنك إضافة مجلد موجود على جهازك إلى مفضلاتك. للقيام بذلك، افتح قسم المفضلات، انقر على النقاط الثلاث في الزاوية العلوية اليمنى، واختر عنصر القائمة "إضافة مجلد". اتبع التعليمات لإضافة مجلد من جهازك إلى مفضلاتك للوصول السريع.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="المفضلات — إضافة مجلد من جهازك" image="/docs/guide/evermusic/evermusic-guide-local-files/img/local-files-favorites.webp" >}}
+  {{< ls-card title="" subtitle="المفضلات — إضافة مجلد من جهازك" image="/docs/guide/evermusic/evermusic-guide-local-files/img/local-files-favorites.webp" >}}
 {{< /cards >}}
 
 ## شريط الأدوات العلوي
@@ -91,7 +91,7 @@ readingTime: 8
 يمكنك إظهار شريط الأدوات العلوي أو إخفاؤه باستخدام إيماءة السحب لأسفل.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="شريط الأدوات العلوي للمجلد الحالي" image="/docs/guide/evermusic/evermusic-guide-local-files/img/local-files-top-toolbar.webp" >}}
+  {{< ls-card title="" subtitle="شريط الأدوات العلوي للمجلد الحالي" image="/docs/guide/evermusic/evermusic-guide-local-files/img/local-files-top-toolbar.webp" >}}
 {{< /cards >}}
 
 ## المجلدات الخاصة
@@ -128,7 +128,7 @@ readingTime: 8
 يعرض الملفات الموجودة على جهازك ولكن في تطبيقات مختلفة. يمكنك استيرادها إلى هذا التطبيق باستخدام منتقي الملفات النظامي. لتفعيل المنتقي، اختر "فتح الملفات..." لتحديد الملفات أو "فتح المجلدات..." لتحديد المجلدات. التعليمات التفصيلية حول كيفية استيراد الموسيقى المحلية المخزنة على iPhone أو Mac متاحة [هنا](/docs/howto/how-to-play-local-music-stored-on-your-iphone-or-mac). يمكنك أيضًا ربط مجلد موجود على جهازك والحصول على وصول سريع لمحتوى المجلد. استخدم عنصر القائمة "ربط مجلد" واختر مجلدًا موجودًا على جهازك. انقر على "تم" وسيقوم التطبيق بإنشاء رابط لذلك المجلد مع صلاحيات القراءة/الكتابة ويمكنك إدارة الملفات مباشرة من هذا التطبيق. لفصل اتصال المجلد الموجود على جهازك انقر على زر "المزيد من الإجراءات" واختر "فصل الاتصال".
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="الملفات على هذا iPhone / iPad / Mac" image="/docs/guide/evermusic/evermusic-guide-local-files/img/local-files-on-this-device.webp" >}}
+  {{< ls-card title="" subtitle="الملفات على هذا iPhone / iPad / Mac" image="/docs/guide/evermusic/evermusic-guide-local-files/img/local-files-on-this-device.webp" >}}
 {{< /cards >}}
 
 ## استيراد الملفات الموجودة على بطاقات USB المتصلة
@@ -151,7 +151,7 @@ readingTime: 8
 إذا كنت بحاجة إلى تعديل عدة ملفات، فعّل وضع الاختيار بالنقر على زر المزيد من الإجراءات "..." في شريط التنقل في الزاوية العلوية اليمنى ثم اختر عنصر القائمة "اختيار". سيعرض هذا مربعات الاختيار بجانب كل ملف. اختر الملفات المرغوبة بالنقر على مربعات الاختيار. يمكنك تنفيذ الإجراءات التالية على الملفات المحددة.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="إجراءات وضع الاختيار للملفات المحلية" image="/docs/guide/evermusic/evermusic-guide-local-files/img/local-files-selection-mode.webp" >}}
+  {{< ls-card title="" subtitle="إجراءات وضع الاختيار للملفات المحلية" image="/docs/guide/evermusic/evermusic-guide-local-files/img/local-files-selection-mode.webp" >}}
 {{< /cards >}}
 
 - **تشغيل التالي:** إضافة الملفات أو المجلدات المحددة إلى أعلى قائمة التشغيل بترتيب الفرز الحالي.
@@ -186,7 +186,7 @@ readingTime: 8
 ## المجلدات بدون اتصال
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="قائمة المزيد من الإجراءات للمجلد بدون اتصال" image="/docs/guide/evermusic/evermusic-guide-local-files/img/local-files-offline-folders.webp" >}}
+  {{< ls-card title="" subtitle="قائمة المزيد من الإجراءات للمجلد بدون اتصال" image="/docs/guide/evermusic/evermusic-guide-local-files/img/local-files-offline-folders.webp" >}}
 {{< /cards >}}
 
 وضع عدم الاتصال ميزة مفيدة تتيح لك الوصول إلى موسيقاك المفضلة حتى عندما لا تكون متصلاً بالإنترنت. عندما تفعّل وضع عدم الاتصال لأي ألبوم أو فنان أو قائمة تشغيل أو نوع أو مجلد بعيد، ستُنزّل جميع الملفات داخل تلك المجموعة تلقائيًا إلى جهازك للتشغيل بدون اتصال. يمكنك الوصول بسهولة إلى هذه الملفات في قسم "المجلدات بدون اتصال" من التطبيق.
@@ -204,7 +204,7 @@ readingTime: 8
 يمكن تكوين كل سلوك تقريبًا لشاشة الملفات المحلية — من عرض النطاق الترددي للشبكة إلى وجهة التنزيلات إلى كيفية تخزين الصور المصغرة مؤقتًا — ضمن **الإعدادات ← مدير الملفات**. افتحه كلما أردت ضبط سرعة النقل أو توفير مساحة التخزين أو تقييد التطبيق على Wi-Fi فقط.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="شاشة إعدادات مدير الملفات" image="/docs/guide/evermusic/evermusic-guide-local-files/img/local-files-file-manager-settings.webp" >}}
+  {{< ls-card title="" subtitle="شاشة إعدادات مدير الملفات" image="/docs/guide/evermusic/evermusic-guide-local-files/img/local-files-file-manager-settings.webp" >}}
 {{< /cards >}}
 
 تعرض الشاشة كل خيار مجمّع في أقسام ذات تسميات واضحة:

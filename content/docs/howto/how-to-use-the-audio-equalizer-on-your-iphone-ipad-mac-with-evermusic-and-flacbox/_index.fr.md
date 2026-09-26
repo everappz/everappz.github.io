@@ -7,7 +7,7 @@ tags: ["musique", "audio", "égaliseur", "10 bandes", "gain", "configuration", "
 keywords: ["égaliseur audio iPhone", "préréglages EQ Evermusic", "égaliseur 10 bandes Flacbox", "régler basses aigus iOS", "égaliseur app musique Mac", "amplifier audio avec préamplificateur", "préréglages sonores personnalisés"]
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **Résumé:** Evermusic et Flacbox incluent un égaliseur audio professionnel à 10 bandes avec des préréglages (Rock, Hip-Hop, Bass Booster et plus), la création de préréglages personnalisés et un préamplificateur pour l'amplification du volume. Disponible sur iPhone, iPad et Mac.
@@ -105,26 +105,26 @@ Vous pouvez utiliser n'importe quel préréglage comme point de départ et ajust
 
 ## Questions fréquemment posées
 
-{{% details title="L'égaliseur fonctionne-t-il avec tous les formats audio ?" closed="true" %}}
+{{% ls-details title="L'égaliseur fonctionne-t-il avec tous les formats audio ?" closed="true" %}}
 Oui. L'EQ à 10 bandes d'Evermusic et Flacbox fonctionne avec MP3, FLAC, AAC, WAV, ALAC, OGG et tous les autres formats pris en charge.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Les réglages EQ s'appliqueront-ils à toutes les chansons ?" closed="true" %}}
+{{% ls-details title="Les réglages EQ s'appliqueront-ils à toutes les chansons ?" closed="true" %}}
 Oui. Une fois que vous activez l'égaliseur et sélectionnez un préréglage, il s'applique à toute la lecture jusqu'à ce que vous le changiez ou le désactiviez.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Puis-je créer plus d'un préréglage personnalisé ?" closed="true" %}}
+{{% ls-details title="Puis-je créer plus d'un préréglage personnalisé ?" closed="true" %}}
 Oui. Vous pouvez créer, enregistrer et basculer entre plusieurs préréglages personnalisés. Utilisez la fonction d'exportation pour les sauvegarder.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Le préamplificateur cause-t-il de la distorsion ?" closed="true" %}}
+{{% ls-details title="Le préamplificateur cause-t-il de la distorsion ?" closed="true" %}}
 Il peut en causer s'il est réglé trop haut. Surveillez les indicateurs de niveau audio pendant le réglage. Si les niveaux écrêtent (atteignent le maximum), réduisez légèrement le gain du préamplificateur.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="L'égaliseur est-il disponible dans Evermusic et Flacbox ?" closed="true" %}}
+{{% ls-details title="L'égaliseur est-il disponible dans Evermusic et Flacbox ?" closed="true" %}}
 Oui. Les deux applications incluent le même égaliseur à 10 bandes avec préréglages, préréglages personnalisés et préamplificateur.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Puis-je partager mes préréglages EQ avec quelqu'un d'autre ?" closed="true" %}}
+{{% ls-details title="Puis-je partager mes préréglages EQ avec quelqu'un d'autre ?" closed="true" %}}
 Oui. Utilisez l'option Exporter la configuration pour enregistrer vos préréglages dans un fichier, puis partagez-le. L'autre personne peut l'importer en utilisant Importer la configuration.
-{{% /details %}}
+{{% /ls-details %}}

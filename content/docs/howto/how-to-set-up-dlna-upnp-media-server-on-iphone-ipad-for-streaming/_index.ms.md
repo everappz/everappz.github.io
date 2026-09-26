@@ -7,7 +7,7 @@ keywords: ["pelayan DLNA iPhone", "pelayan UPnP iPad", "cara menyediakan DLNA pa
 readingTime: 9
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 DLNA (juga dipanggil UPnP AV) ialah kuda kerja senyap di sebalik kebanyakan TV pintar. Ia sebuah bahasa kongsi yang membolehkan TV atau pemain media mencari pustaka media pada Wi-Fi yang sama dan memainkannya, tanpa apa-apa untuk dipasang pada TV. Jika iPhone atau iPad anda boleh bertindak sebagai pustaka itu, foto, video dan muzik anda muncul pada skrin besar dengan sendirinya.
 
@@ -127,44 +127,44 @@ DLNA menyerahkan fail kepada TV sebagaimana adanya, dan TV mesti dapat menyahkod
 
 ## Soalan Lazim
 
-{{% details title="Apakah perbezaan antara DLNA dan UPnP?" closed="true" %}}
+{{% ls-details title="Apakah perbezaan antara DLNA dan UPnP?" closed="true" %}}
 Ia berkait rapat. UPnP ialah piawaian rangkaian asas, dan DLNA ialah profil media yang dibina di atasnya yang digunakan oleh TV dan pemain untuk berkongsi dan memainkan foto, video dan muzik. Dalam penggunaan seharian, kedua-dua perkataan itu boleh saling ganti. Apabila anda menghidupkan TV & Pusat Media dalam Everdisk, peranti anda menjadi pelayan media DLNA/UPnP yang boleh dilayari oleh mana-mana klien DLNA.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Perlukah saya memasang apa-apa pada TV saya?" closed="true" %}}
+{{% ls-details title="Perlukah saya memasang apa-apa pada TV saya?" closed="true" %}}
 Tidak. Jika TV anda menyokong DLNA, ia sudah mempunyai pemain media yang boleh mencari peranti anda pada Wi-Fi. Anda hanya memasang Everdisk pada iPhone atau iPad yang memegang kandungan itu. Jika TV anda tidak menyokong DLNA, pasang pemain seperti VLC atau Kodi pada peranti yang disambung kepadanya.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Mengapa iPhone saya tidak muncul pada TV?" closed="true" %}}
+{{% ls-details title="Mengapa iPhone saya tidak muncul pada TV?" closed="true" %}}
 Semak bahawa kedua-dua peranti berada pada rangkaian Wi-Fi yang sama. Rangkaian tetamu dan sesetengah rangkaian pejabat atau hotel menyekat peranti daripada melihat antara satu sama lain, yang menghentikan DLNA. Kemudian sahkan Everdisk terbuka dengan perkongsian dimulakan, dan TV & Pusat Media dihidupkan dalam Tetapan, Perkongsian, Sambungan. Jika TV masih tidak dapat mencarinya, tambah pelayan secara manual menggunakan alamat penerangan peranti yang berakhir dengan /device-desc.xml.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Adakah penstriman DLNA memerlukan kata laluan?" closed="true" %}}
+{{% ls-details title="Adakah penstriman DLNA memerlukan kata laluan?" closed="true" %}}
 Tidak. DLNA sentiasa terbuka kepada sesiapa sahaja pada Wi-Fi yang sama semasa ia dihidupkan, itulah sebabnya tiada log masuk di pihak TV. Itu tidak mengapa pada rangkaian rumah yang anda percayai. Pada rangkaian yang anda tidak percayai, matikan TV & Pusat Media apabila anda selesai, atau gunakan pelayan SMB dengan penyulitan sebagai ganti.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Boleh saya strim ke Chromecast atau Roku?" closed="true" %}}
+{{% ls-details title="Boleh saya strim ke Chromecast atau Roku?" closed="true" %}}
 Chromecast dan Roku tidak bertindak sebagai pemain DLNA secara lalai, jadi ia tidak akan mencari peranti anda secara terus. Penyelesaiannya ialah memasang aplikasi DLNA yang boleh menghantar (cast), seperti VLC atau BubbleUPnP pada telefon, dan menolak main balik ke Chromecast atau Roku dari situ. Pada kebanyakan TV pintar lain, DLNA berfungsi tanpa semua ini.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Video dimainkan tanpa bunyi atau tidak mahu dibuka. Apa yang boleh saya buat?" closed="true" %}}
+{{% ls-details title="Video dimainkan tanpa bunyi atau tidak mahu dibuka. Apa yang boleh saya buat?" closed="true" %}}
 Itu format yang TV tidak dapat nyahkod. Buka Tetapan, Perkongsian, Video dalam Everdisk dan turunkan Kualiti supaya aplikasi menukar video kepada format yang lebih serasi semasa ia distrim. Anda juga boleh membuka fail yang sama melalui pautan pelayar, yang mengendalikan lebih banyak format.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Boleh saya strim muzik, bukan sekadar video?" closed="true" %}}
+{{% ls-details title="Boleh saya strim muzik, bukan sekadar video?" closed="true" %}}
 Ya. Hidupkan Benarkan akses ke semua Pustaka Muzik, atau tambah trek tertentu, kemudian mula berkongsi. Lagu anda muncul pada mana-mana pembesar suara DLNA, penerima AV atau TV, dengan seni album dan butiran trek. Muzik sentiasa dikongsi dalam kualiti asalnya.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Perlukah aplikasi kekal terbuka semasa saya menonton?" closed="true" %}}
+{{% ls-details title="Perlukah aplikasi kekal terbuka semasa saya menonton?" closed="true" %}}
 Ya. iPhone anda bertindak sebagai pelayan, dan iOS menjeda aplikasi yang ditolak sepenuhnya ke latar belakang untuk masa yang lama. Kekalkan Everdisk pada skrin semasa anda strim, dan palamkan ke sumber kuasa untuk sesi yang panjang.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Bagaimana saya strim dari satu iPhone ke iPad lain?" closed="true" %}}
+{{% ls-details title="Bagaimana saya strim dari satu iPhone ke iPad lain?" closed="true" %}}
 Mula berkongsi pada iPhone, kemudian buka Everdisk pada iPad dan pergi ke tab Peranti. iPhone muncul di bawah Peranti Tersedia sebagai pelayan media. Ketiknya untuk melayari dan memainkannya. Everdisk berfungsi sebagai klien DLNA dan pelayan, jadi anda tidak perlukan aplikasi lain.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Adakah Everdisk percuma?" closed="true" %}}
+{{% ls-details title="Adakah Everdisk percuma?" closed="true" %}}
 Ya, Everdisk percuma untuk dimuat turun dan pelayan media DLNA disertakan. Pembelian Premium Sepanjang Hayat pilihan sekali sahaja menambah tambahan seperti penukaran foto dan video untuk TV lama, port tersuai dan banyak lagi. Anda boleh menyediakan dan menggunakan penstriman DLNA tanpa membayar.
-{{% /details %}}
+{{% /ls-details %}}
 
 Sedia untuk mencuba? [Muat turun Everdisk dari App Store](https://apps.apple.com/app/apple-store/id6751851132?pt=95781850&ct=everappzcom&mt=8) dan strim album pertama anda ke TV dalam masa beberapa minit. Ada soalan atau maklum balas? E-mel kami di **support@everappz.com**.

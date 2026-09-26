@@ -19,7 +19,7 @@ readingTime: 8
 이 내장 파일 관리자를 사용하면 파일을 편집(이름 바꾸기, 이동, 복사, 업로드, 삭제)하고, 전송을 모니터링하며, 클라우드에서 직접 다운로드, 오프라인 모드 동기화, USB 플래시 드라이브, Wi-Fi Drive, Finder 파일 공유 등 여러 방법으로 오디오 파일을 앱으로 가져올 수 있습니다.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox 로컬 파일 화면" image="/docs/guide/flacbox/img/local-files.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox 로컬 파일 화면" image="/docs/guide/flacbox/img/local-files.webp" >}}
 {{< /cards >}}
 
 ## 클라우드 스토리지에서 파일 다운로드
@@ -102,7 +102,7 @@ readingTime: 8
 기기에 있지만 다른 애플리케이션에 있는 파일을 표시합니다. 시스템 파일 선택기를 사용하여 이 애플리케이션으로 가져올 수 있습니다. 선택기를 활성화하려면 파일을 선택하려면 **파일 열기…**를, 폴더를 선택하려면 **폴더 열기…**를 선택하세요. iPhone 또는 Mac에 저장된 로컬 음악을 가져오는 방법에 대한 자세한 지침은 [여기](/docs/howto/how-to-play-local-music-stored-on-your-iphone-or-mac)에서 확인할 수 있습니다.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox 연결된 기기 폴더" image="/docs/guide/flacbox/img/connected-device-folders.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox 연결된 기기 폴더" image="/docs/guide/flacbox/img/connected-device-folders.webp" >}}
 {{< /cards >}}
 
 기기에 있는 폴더에 연결하고 그 내용에 빠르게 액세스할 수도 있습니다. **폴더 연결** 메뉴 항목을 사용하고 기기에 있는 폴더를 선택하세요. **완료됨**을 탭하면 앱이 읽기 / 쓰기 액세스 권한이 있는 해당 폴더에 대한 링크를 만들어 이 앱에서 직접 파일을 관리할 수 있습니다. 기기에 있는 폴더의 연결을 끊으려면 **추가 작업** 버튼을 탭하고 **연결 끊기**를 선택하세요.
@@ -137,7 +137,7 @@ iPhone에 USB 플래시 드라이브를 연결하고 음악을 듣거나 그 안
 - **삭제하기** — 기기에서 선택한 파일이나 폴더를 제거합니다. **이 작업은 되돌릴 수 없습니다.**
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox 로컬 파일 선택 모드" image="/docs/guide/flacbox/img/local-files-selection-mode.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox 로컬 파일 선택 모드" image="/docs/guide/flacbox/img/local-files-selection-mode.webp" >}}
 {{< /cards >}}
 
 ## 옵션 메뉴
@@ -161,7 +161,7 @@ iPhone에 USB 플래시 드라이브를 연결하고 음악을 듣거나 그 안
 - **삭제하기** — 기기에서 파일이나 폴더를 삭제합니다. **이 작업은 되돌릴 수 없으며** 삭제된 파일을 복원할 수 없습니다.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox 로컬 파일에 대한 추가 작업" image="/docs/guide/flacbox/img/local-files-more-actions-for-file.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox 로컬 파일에 대한 추가 작업" image="/docs/guide/flacbox/img/local-files-more-actions-for-file.webp" >}}
 {{< /cards >}}
 
 ## 오프라인 폴더

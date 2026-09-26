@@ -7,7 +7,7 @@ tags: ["muzyka", "chmura", "streamowanie", "odtwarzacz", "dysk", "icloud"]
 readingTime: 5
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **W skrócie:** Prześlij muzykę do iCloud Drive, zainstaluj [Evermusic](/products/evermusic) (dla MP3/WAV) lub [Flacbox](/products/flacbox) (dla FLAC/DSD), połącz folder iCloud Drive i streamuj bezpośrednio bez zajmowania pamięci urządzenia.
@@ -29,8 +29,8 @@ Zanim zaczniesz cieszyć się muzyką z iCloud Drive na iPhonie lub Macu, musisz
 1. Przejdź do App Store i pobierz **Evermusic**, jeśli Twoja muzyka jest przechowywana w standardowych formatach audio, takich jak mp3 lub wav. Jeśli masz bezstratną muzykę w formacie dsd lub flac, wybierz **Flacbox**. Obie aplikacje są dostępne na iOS i MacOS.
 
 {{< cards >}}
-  {{< card link="https://apps.apple.com/us/app/evermusic-cloud-music-player/id885367198" title="Pobierz Evermusic na iOS" icon="download" tag="Za darmo" >}}
-  {{< card link="https://apps.apple.com/us/app/flacbox-flac-player-equalizer/id1097564256" title="Pobierz Flacbox na iOS" icon="download" tag="Za darmo" >}}
+  {{< ls-card link="https://apps.apple.com/us/app/evermusic-cloud-music-player/id885367198" title="Pobierz Evermusic na iOS" icon="download" tag="Za darmo" >}}
+  {{< ls-card link="https://apps.apple.com/us/app/flacbox-flac-player-equalizer/id1097564256" title="Pobierz Flacbox na iOS" icon="download" tag="Za darmo" >}}
 {{< /cards >}}
 
 - Dla MacOS:
@@ -38,8 +38,8 @@ Zanim zaczniesz cieszyć się muzyką z iCloud Drive na iPhonie lub Macu, musisz
 1. Odwiedź App Store na swoim Macu i zainstaluj **Evermusic** lub **Flacbox** w zależności od preferencji formatu muzyki.
 
 {{< cards >}}
-  {{< card link="https://apps.apple.com/us/app/evermusic-cloud-music-player/id1564384601" title="Pobierz Evermusic na Maca" icon="download" tag="Za darmo" >}}
-  {{< card link="https://apps.apple.com/us/app/flacbox-hires-music-player/id1594027432" title="Pobierz Flacbox na Maca" icon="download" tag="Za darmo" >}}
+  {{< ls-card link="https://apps.apple.com/us/app/evermusic-cloud-music-player/id1564384601" title="Pobierz Evermusic na Maca" icon="download" tag="Za darmo" >}}
+  {{< ls-card link="https://apps.apple.com/us/app/flacbox-hires-music-player/id1594027432" title="Pobierz Flacbox na Maca" icon="download" tag="Za darmo" >}}
 {{< /cards >}}
 
 Po zainstalowaniu aplikacji na iPhonie lub Macu jesteś gotowy, aby kontynuować.
@@ -215,22 +215,22 @@ Teraz śmiało, zacznij streamować i pozwól muzyce grać!
 
 ## FAQ
 
-{{% details title="Jakie formaty audio mogę streamować z iCloud Drive?" closed="true" %}}
+{{% ls-details title="Jakie formaty audio mogę streamować z iCloud Drive?" closed="true" %}}
 Evermusic obsługuje MP3, WAV, AAC i inne standardowe formaty. Flacbox dodaje obsługę FLAC, DSD, OGG i OPUS. Wybierz aplikację odpowiadającą Twojej kolekcji muzyki.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Czy streamowanie z iCloud Drive zużywa pamięć urządzenia?" closed="true" %}}
+{{% ls-details title="Czy streamowanie z iCloud Drive zużywa pamięć urządzenia?" closed="true" %}}
 Nie. Zarówno Evermusic, jak i Flacbox streamują audio bezpośrednio z iCloud Drive bez pobierania plików na urządzenie. Możesz opcjonalnie pobrać poszczególne utwory do słuchania offline.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Czy mogę korzystać z muzyki iCloud Drive offline?" closed="true" %}}
+{{% ls-details title="Czy mogę korzystać z muzyki iCloud Drive offline?" closed="true" %}}
 Tak. Dotknij menu trzech kropek przy dowolnym utworze i wybierz opcję pobierania. Plik zostanie zapisany lokalnie do odtwarzania offline.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Dlaczego moja muzyka się zatrzymuje lub buforuje podczas odtwarzania?" closed="true" %}}
+{{% ls-details title="Dlaczego moja muzyka się zatrzymuje lub buforuje podczas odtwarzania?" closed="true" %}}
 Jest to zwykle spowodowane wolnym lub niestabilnym połączeniem internetowym. Włącz pamięć podręczną odtwarzacza audio w Ustawieniach, aby wstępnie pobrać nadchodzące utwory i zapobiec przerwom.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Czy streamowanie muzyki z iCloud Drive jest darmowe?" closed="true" %}}
+{{% ls-details title="Czy streamowanie muzyki z iCloud Drive jest darmowe?" closed="true" %}}
 Zarówno Evermusic, jak i Flacbox są dostępne do pobrania za darmo. iCloud Drive oferuje 5 GB darmowej przestrzeni dyskowej. Możesz uaktualnić plan przestrzeni iCloud przez Apple, jeśli potrzebujesz więcej miejsca.
-{{% /details %}}
+{{% /ls-details %}}

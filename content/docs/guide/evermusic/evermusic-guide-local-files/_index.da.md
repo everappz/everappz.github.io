@@ -20,7 +20,7 @@ Sektionen Lokale filer fungerer som et knudepunkt til administration af filer i 
 Denne indbyggede filmanager giver dig mulighed for at redigere filer og tilbyder forskellige metoder til at importere lydfiler til appen.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evermusic Lokale filer-skærm" image="/docs/guide/evermusic/evermusic-guide-local-files/img/local-files-main.webp" >}}
+  {{< ls-card title="" subtitle="Evermusic Lokale filer-skærm" image="/docs/guide/evermusic/evermusic-guide-local-files/img/local-files-main.webp" >}}
 {{< /cards >}}
 
 ## Download filer fra cloud-lagring
@@ -40,7 +40,7 @@ Importér nemt filer fra din enhed som beskrevet [her](/docs/howto/how-to-play-l
 Overfør filer ved hjælp af en kabelforbindelse som beskrevet [her](/docs/howto/how-to-transfer-files-from-my-mac-to-iphone-or-ipad-using-finder).
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="iTunes / Finder fildeling" image="/docs/guide/evermusic/evermusic-guide-local-files/img/local-files-itunes-file-sharing.webp" >}}
+  {{< ls-card title="" subtitle="iTunes / Finder fildeling" image="/docs/guide/evermusic/evermusic-guide-local-files/img/local-files-itunes-file-sharing.webp" >}}
 {{< /cards >}}
 
 ## Wi-Fi Drive
@@ -48,7 +48,7 @@ Overfør filer ved hjælp af en kabelforbindelse som beskrevet [her](/docs/howto
 Overfør filer trådløst som beskrevet [her](/docs/howto/how-to-transfer-files-wirelessly-from-a-computer-to-an-iphone-using-wifi-drive).
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Wi-Fi Drive serverindstillinger" image="/docs/guide/evermusic/evermusic-guide-local-files/img/local-files-wifidrive-settings.webp" >}}
+  {{< ls-card title="" subtitle="Wi-Fi Drive serverindstillinger" image="/docs/guide/evermusic/evermusic-guide-local-files/img/local-files-wifidrive-settings.webp" >}}
 {{< /cards >}}
 
 ## Overførselskø
@@ -56,7 +56,7 @@ Overfør filer trådløst som beskrevet [her](/docs/howto/how-to-transfer-files-
 I øverste venstre hjørne af navigationslinjen finder du en "Overførsler"-knap. Tryk på den for at få adgang til overførselskøen, hvor du kan overvåge og administrere alle dine downloads og uploads. Derudover har du fleksibiliteten til at justere overførselskøhastighed og netværkstype i appindstillingerne.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Filoverførselskø" image="/docs/guide/evermusic/evermusic-guide-local-files/img/local-files-file-transfers.webp" >}}
+  {{< ls-card title="" subtitle="Filoverførselskø" image="/docs/guide/evermusic/evermusic-guide-local-files/img/local-files-file-transfers.webp" >}}
 {{< /cards >}}
 
 ## Sektionen Hurtig adgang
@@ -68,7 +68,7 @@ I øverste venstre hjørne af navigationslinjen finder du en "Overførsler"-knap
 Denne sektion viser alle senest åbnede filer eller mapper.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Senest åbnede filer og mapper" image="/docs/guide/evermusic/evermusic-guide-local-files/img/local-files-recents.webp" >}}
+  {{< ls-card title="" subtitle="Senest åbnede filer og mapper" image="/docs/guide/evermusic/evermusic-guide-local-files/img/local-files-recents.webp" >}}
 {{< /cards >}}
 
 ## Favoritter
@@ -76,7 +76,7 @@ Denne sektion viser alle senest åbnede filer eller mapper.
 Du kan markere filer eller mapper som favoritter og få adgang til dem i denne sektion. Desuden kan du tilføje en mappe på din enhed til dine favoritter. For at gøre dette skal du åbne sektionen med favoritter, trykke på de tre prikker øverst til højre og vælge menupunktet "Tilføj mappe". Følg vejledningen for at tilføje en mappe fra din enhed til dine favoritter for hurtig adgang.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Favoritter — Tilføj mappe fra din enhed" image="/docs/guide/evermusic/evermusic-guide-local-files/img/local-files-favorites.webp" >}}
+  {{< ls-card title="" subtitle="Favoritter — Tilføj mappe fra din enhed" image="/docs/guide/evermusic/evermusic-guide-local-files/img/local-files-favorites.webp" >}}
 {{< /cards >}}
 
 ## Øverste værktøjslinje
@@ -91,7 +91,7 @@ Den øverste værktøjslinje, der er placeret under navigationslinjen, tilbyder 
 Du kan vise eller skjule den øverste værktøjslinje ved hjælp af en stryg-til-bunden-gestus.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Øverste værktøjslinje for den aktuelle mappe" image="/docs/guide/evermusic/evermusic-guide-local-files/img/local-files-top-toolbar.webp" >}}
+  {{< ls-card title="" subtitle="Øverste værktøjslinje for den aktuelle mappe" image="/docs/guide/evermusic/evermusic-guide-local-files/img/local-files-top-toolbar.webp" >}}
 {{< /cards >}}
 
 ## Specielle mapper
@@ -128,7 +128,7 @@ Viser filer og mapper, der er lagret i appens dokumentmappe og iCloud Drive.
 Viser filer, der er placeret på din enhed, men i forskellige applikationer. Du kan importere dem til denne applikation ved hjælp af systemfilsvælgeren. For at aktivere vælgeren skal du vælge "Åbn filer..." for at vælge filer eller "Åbn mapper..." for at vælge mapper. Detaljerede instruktioner om, hvordan du importerer lokal musik, der er gemt på din iPhone eller Mac, er tilgængelige [her](/docs/howto/how-to-play-local-music-stored-on-your-iphone-or-mac). Du kan også tilslutte en mappe, der er placeret på din enhed, og have hurtig adgang til mappens indhold. Brug menupunktet "Tilslut en mappe" og vælg en mappe, der er placeret på din enhed. Tryk på "Færdig", og appen opretter et link til den mappe med læse/skrive-adgang, og du kan administrere filer direkte fra denne app. For at frakoble mappen på din enhed skal du trykke på knappen "Flere handlinger" og vælge "Frakoble".
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Filer på denne iPhone / iPad / Mac" image="/docs/guide/evermusic/evermusic-guide-local-files/img/local-files-on-this-device.webp" >}}
+  {{< ls-card title="" subtitle="Filer på denne iPhone / iPad / Mac" image="/docs/guide/evermusic/evermusic-guide-local-files/img/local-files-on-this-device.webp" >}}
 {{< /cards >}}
 
 ## Importer filer på tilsluttede USB-flashkort
@@ -151,7 +151,7 @@ Menuen med Flere handlinger for den aktuelt åbnede mappe, der er placeret øver
 Hvis du har brug for at redigere flere filer, skal du aktivere valgstilstand ved at trykke på knappen med Flere handlinger "..." på navigationslinjen øverst til højre og derefter vælge menupunktet "Vælg". Dette vil vise afkrydsningsfelter ved siden af hver fil. Vælg de ønskede filer ved at trykke på deres afkrydsningsfelter. Du kan udføre følgende handlinger på de valgte filer.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Handlinger i valgstilstand for lokale filer" image="/docs/guide/evermusic/evermusic-guide-local-files/img/local-files-selection-mode.webp" >}}
+  {{< ls-card title="" subtitle="Handlinger i valgstilstand for lokale filer" image="/docs/guide/evermusic/evermusic-guide-local-files/img/local-files-selection-mode.webp" >}}
 {{< /cards >}}
 
 - **Afspil næste:** Tilføj valgte filer eller mapper øverst i afspillerkøen med den aktuelle sorteringsrækkefølge.
@@ -186,7 +186,7 @@ For hver fil eller mappe i appen er der flere tilgængelige handlinger, der er t
 ## Offline mapper
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Menu med Flere handlinger for offline-mappe" image="/docs/guide/evermusic/evermusic-guide-local-files/img/local-files-offline-folders.webp" >}}
+  {{< ls-card title="" subtitle="Menu med Flere handlinger for offline-mappe" image="/docs/guide/evermusic/evermusic-guide-local-files/img/local-files-offline-folders.webp" >}}
 {{< /cards >}}
 
 Offline-tilstand er en praktisk funktion, der giver dig adgang til din yndlingsmusik, selv når du ikke er forbundet til internettet. Når du aktiverer offline-tilstand for et album, en kunstner, en afspilningsliste, en genre eller en fjernmappe, downloades alle filer i den samling automatisk til din enhed til offline afspilning. Du kan bekvemt få adgang til disse filer i sektionen "Offline mapper" i appen.
@@ -204,7 +204,7 @@ Detaljerede instruktioner om, hvordan du afspiller offline-musik i Evermusic og 
 Næsten alle adfærd på skærmen Lokale filer — fra netværksbåndbredde til, hvor downloads lander, til hvordan miniaturebilleder cachelagres — kan konfigureres under **Indstillinger → Filmanager**. Åbn den, når du vil finjustere overførselshastighed, spare lagerplads eller begrænse appen til kun Wi-Fi.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Skærm med filmanagerindstillinger" image="/docs/guide/evermusic/evermusic-guide-local-files/img/local-files-file-manager-settings.webp" >}}
+  {{< ls-card title="" subtitle="Skærm med filmanagerindstillinger" image="/docs/guide/evermusic/evermusic-guide-local-files/img/local-files-file-manager-settings.webp" >}}
 {{< /cards >}}
 
 Skærmen viser alle muligheder grupperet i tydeligt mærkede sektioner:

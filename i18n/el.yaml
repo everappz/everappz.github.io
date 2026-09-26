@@ -186,3 +186,5 @@ everdiskFeatAdvancedServerSettings: "Σύνθετες ρυθμίσεις δια�
 everdiskFeatSMB3Encryption: "Κρυπτογράφηση SMB3"
 everdiskFeatAutomaticSharing: "Αυτόματη κοινή χρήση"
 everdiskFeatDevicePersonalization: "Εξατομίκευση συσκευής"
+
+searchDocsPlaceholder: "Αναζήτηση σε τεκμηρίωση, συχνές ερωτήσεις και οδηγούς…"

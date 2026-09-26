@@ -184,3 +184,5 @@ everdiskFeatAdvancedServerSettings: "Setări avansate de server"
 everdiskFeatSMB3Encryption: "Criptare SMB3"
 everdiskFeatAutomaticSharing: "Partajare automată"
 everdiskFeatDevicePersonalization: "Personalizarea dispozitivului"
+
+searchDocsPlaceholder: "Caută în documentație, întrebări frecvente și ghiduri…"

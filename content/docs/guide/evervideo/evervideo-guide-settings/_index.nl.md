@@ -22,7 +22,7 @@ readingTime: 16
 Het Instellingen-scherm is het bedieningscentrum van Evervideo. Van hieruit kunt u upgraden naar Premium, de video- en audio-engines configureren (systeemcodecs of FFmpeg), Picture-in-Picture beheren, ondertitels instellen (primair, secundair, libass, externe bestanden, lettertypen), de mediabibliotheek organiseren, de bestandsbeheerder instellen, Beginscherm-widgets inschakelen, een back-up van uw gegevens maken en hulp- en juridische informatie raadplegen. Secties zijn gegroepeerd onder koppen: Aankopen & Updates, App-voorkeuren, Hulp, Juridisch & Privacy.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evervideo Instellingen Hoofdscherm" image="/docs/guide/evervideo/img/evervideo-settings.webp" >}}
+  {{< ls-card title="" subtitle="Evervideo Instellingen Hoofdscherm" image="/docs/guide/evervideo/img/evervideo-settings.webp" >}}
 {{< /cards >}}
 
 ## Upgraden naar Premium
@@ -30,13 +30,13 @@ Het Instellingen-scherm is het bedieningscentrum van Evervideo. Van hieruit kunt
 Upgrade de applicatie naar de Premium-versie om alle beperkingen te verwijderen. De gratis versie biedt een eenmalige levenslange aankoop in de app en twee abonnementsopties (1 maand en 1 jaar) om alle beperkingen te verwijderen en te upgraden naar Premium.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evervideo Upgraden naar Premium" image="/docs/guide/evervideo/img/evervideo-upgrade-to-premium.webp" >}}
+  {{< ls-card title="" subtitle="Evervideo Upgraden naar Premium" image="/docs/guide/evervideo/img/evervideo-upgrade-to-premium.webp" >}}
 {{< /cards >}}
 
 **Gezinsdeling** is ingeschakeld voor alle aankopen en plannen, zodat u de Premium-versie kunt delen met maximaal vijf gezinsleden zonder extra kosten.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evervideo Selecteer een Premium-abonnement" image="/docs/guide/evervideo/img/evervideo-select-premium-plan.webp" >}}
+  {{< ls-card title="" subtitle="Evervideo Selecteer een Premium-abonnement" image="/docs/guide/evervideo/img/evervideo-select-premium-plan.webp" >}}
 {{< /cards >}}
 
 ## Aankopen Delen Tussen iOS en Mac
@@ -50,7 +50,7 @@ U kunt ook op de knop **Aankopen Herstellen** tikken in de app-instellingen. Zor
 Om uw aankoop op een nieuw apparaat te herstellen, gebruik het menu **Aankopen → Aankopen Herstellen**. U ziet de lijst met uw aankopen. Als u ze niet allemaal ziet, bevestig dan dat het apparaat is verbonden met dezelfde Apple ID die is gebruikt voor de aankopen, en zorg dat iCloud is ingeschakeld.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evervideo Aankopenmenu in Instellingen" image="/docs/guide/evervideo/img/evervideo-purhases-menu-in-settings.webp" >}}
+  {{< ls-card title="" subtitle="Evervideo Aankopenmenu in Instellingen" image="/docs/guide/evervideo/img/evervideo-purhases-menu-in-settings.webp" >}}
 {{< /cards >}}
 
 ## Premium Gratis Uitproberen

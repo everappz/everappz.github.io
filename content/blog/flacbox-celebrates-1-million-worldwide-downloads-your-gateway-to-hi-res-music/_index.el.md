@@ -12,7 +12,7 @@ authors:
     image: "/images/about/artem-meleshko-founder-everappz.webp"
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 **Περίληψη:** Το Flacbox ξεπέρασε 1 εκατομμύριο λήψεις παγκοσμίως. Υποστηρίζει FLAC, ALAC, APE, DSD και άλλες μορφές χωρίς απώλειες με equalizer 10 ζωνών, λίστες M3U/CUE, αναπαραγωγή εκτός σύνδεσης και συγχρονισμό μεταξύ συσκευών σε iPhone, iPad και Mac.
 
@@ -78,26 +78,26 @@ authors:
 
 ## Συχνές ερωτήσεις
 
-{{% details title="Ποιες μορφές ήχου υποστηρίζει το Flacbox;" closed="true" %}}
+{{% ls-details title="Ποιες μορφές ήχου υποστηρίζει το Flacbox;" closed="true" %}}
 Το Flacbox αναπαράγει FLAC, ALAC, APE, DSD, WavPack, TTA, RealAudio, MP3, AAC, OGG και πολλές άλλες μορφές. Είναι σχεδιασμένο κυρίως για ήχο χωρίς απώλειες και υψηλής ανάλυσης.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Έχει το Flacbox equalizer;" closed="true" %}}
+{{% ls-details title="Έχει το Flacbox equalizer;" closed="true" %}}
 Ναι. Το Flacbox περιλαμβάνει equalizer 10 ζωνών με προρυθμίσεις ειδών και χειροκίνητη ρύθμιση συχνότητας.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Μπορώ να ακούσω μουσική εκτός σύνδεσης με το Flacbox;" closed="true" %}}
+{{% ls-details title="Μπορώ να ακούσω μουσική εκτός σύνδεσης με το Flacbox;" closed="true" %}}
 Ναι. Κατεβάστε αρχεία από αποθήκευση cloud ή μεταφέρετέ τα απευθείας στην εφαρμογή για αναπαραγωγή εκτός σύνδεσης χωρίς σύνδεση στο internet.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Λειτουργεί το Flacbox σε Mac;" closed="true" %}}
+{{% ls-details title="Λειτουργεί το Flacbox σε Mac;" closed="true" %}}
 Ναι. Το Flacbox λειτουργεί σε iPhone, iPad και Mac με συγχρονισμένες βιβλιοθήκες και ιστορικό αναπαραγωγής σε όλες τις συσκευές.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Τι είναι η υποστήριξη φύλλων CUE;" closed="true" %}}
+{{% ls-details title="Τι είναι η υποστήριξη φύλλων CUE;" closed="true" %}}
 Τα φύλλα CUE ορίζουν τα όρια κομματιών μέσα σε ένα μόνο αρχείο ήχου. Το Flacbox διαβάζει αρχεία CUE για να χωρίσει ηχογραφήσεις άλμπουμ σε μεμονωμένα κομμάτια με σωστά μεταδεδομένα.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Είναι δωρεάν το Flacbox;" closed="true" %}}
+{{% ls-details title="Είναι δωρεάν το Flacbox;" closed="true" %}}
 Το Flacbox είναι δωρεάν για λήψη με προαιρετικά premium χαρακτηριστικά διαθέσιμα μέσω αγοράς εντός εφαρμογής.
-{{% /details %}}
+{{% /ls-details %}}

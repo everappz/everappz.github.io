@@ -7,7 +7,7 @@ tags: ["音楽", "クラウド", "ストリーミング", "同期", "icloud", "�
 keywords: ["iCloud音楽インポート Evermusic", "Flacbox iCloud同期", "Evermusic iCloudからストリーミング", "音楽ライブラリ iOSアプリ", "Flacbox メタデータリーダー", "iCloud音楽ストリーミング iPhone"]
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **要約：** EvermusicとFlacboxで、デバイスにファイルをダウンロードせずにiCloud Driveの音楽ライブラリをストリーミングできます。アプリでiCloud Driveを接続し、オンライン音楽同期を有効にしてライブラリを構築し、アーティスト/アルバム/ジャンルで整理するようメタデータリーダーを設定し、オプションでオフラインモードを有効にしてインターネットなしで聴くためにアルバムをダウンロードします。これらの手順はGoogle Drive、Dropbox、OneDrive、その他のサポートされているクラウドサービスでも機能します。
@@ -148,26 +148,26 @@ iCloudに広範な音楽ライブラリを持つ多くのユーザーにとっ�
 
 ## よくある質問
 
-{{% details title="iPhoneにファイルをダウンロードせずにiCloud音楽をストリーミングできますか？" closed="true" %}}
+{{% ls-details title="iPhoneにファイルをダウンロードせずにiCloud音楽をストリーミングできますか？" closed="true" %}}
 はい。EvermusicまたはFlacboxでiCloud Driveを接続し、オンライン音楽同期を使用すると、アプリはクラウドファイルへのリンクを作成し、オンデマンドでストリーミングします。オフラインモードを明示的に有効にしない限り、ファイルはダウンロードされません。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="FlacboxやEvermusicでiCloud音楽のインポートが遅いのはなぜですか？" closed="true" %}}
+{{% ls-details title="FlacboxやEvermusicでiCloud音楽のインポートが遅いのはなぜですか？" closed="true" %}}
 インポートが遅い原因は通常、モバイル接続経由での大規模ライブラリのメタデータ読み取りです。バックグラウンド同期を有効にし、オーディオ再生を開始してアプリをアクティブに保ち、大規模コレクションの初期同期にはMac版の使用を検討してください。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="このガイドはiCloud以外のクラウドサービスでも機能しますか？" closed="true" %}}
+{{% ls-details title="このガイドはiCloud以外のクラウドサービスでも機能しますか？" closed="true" %}}
 はい。同じ手順がGoogle Drive、Dropbox、OneDrive、SMB、WebDAV、およびEvermusicとFlacboxがサポートするすべてのクラウドサービスに適用されます。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="音楽ライブラリをMacからiPhoneに転送するにはどうすればいいですか？" closed="true" %}}
+{{% ls-details title="音楽ライブラリをMacからiPhoneに転送するにはどうすればいいですか？" closed="true" %}}
 アプリ設定のデータバックアップ/復元機能を使用します。まずMac版でメタデータを同期・読み取り、バックアップを作成し、iOS版で復元します。これがiPhoneで大規模ライブラリを設定する最も速い方法です。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="メタデータリーダーは元のオーディオファイルを変更しますか？" closed="true" %}}
+{{% ls-details title="メタデータリーダーは元のオーディオファイルを変更しますか？" closed="true" %}}
 いいえ。メタデータリーダーは音楽ライブラリの表示情報のみを更新します。クラウドアカウントやデバイスに保存されたファイルは変更しません。ファイルタグを編集するには、組み込みのタグエディタを使用してください。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="アルバムをオフラインで利用できるようにするにはどうすればいいですか？" closed="true" %}}
+{{% ls-details title="アルバムをオフラインで利用できるようにするにはどうすればいいですか？" closed="true" %}}
 オフラインモード機能を使用します。クラウドフォルダで**その他のアクション**をタップし、**オフラインモードを有効にする**を選択します。アプリはすべてのファイルをダウンロードし、クラウド版と自動的に同期を維持します。
-{{% /details %}}
+{{% /ls-details %}}

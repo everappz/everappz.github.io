@@ -25,7 +25,7 @@ readingTime: 6
 سواء كنت تستخدم iPhone أو iPad أو الوضع المضغوط على Mac، فإن جميع ميزات التطبيق يمكن الوصول إليها بسهولة من خلال شريط التبويب في أسفل الشاشة. بالنسبة لمستخدمي iPad وMac، يمكن العثور على نفس القائمة على الجانب الأيسر من الشاشة. يُصنّف هذا التنظيم المدروس جميع ميزات التطبيق في أقسام يمكن الوصول إليها بسهولة، مما يضمن تجربة سهلة الاستخدام وفعّالة.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="الشريط الجانبي الأيسر لـ Evermusic على iPad وMac" image="/docs/guide/evermusic/evermusic-guide-navigation/img/navigation-left-sidebar.webp" >}}
+  {{< ls-card title="" subtitle="الشريط الجانبي الأيسر لـ Evermusic على iPad وMac" image="/docs/guide/evermusic/evermusic-guide-navigation/img/navigation-left-sidebar.webp" >}}
 {{< /cards >}}
 
 **الاتصالات:** يمكنك ربط خدمات التخزين السحابي مثل Google Drive وMEGA وOneDrive وDropbox، وكذلك جهاز الكمبيوتر وNAS الشخصي على هذه الشاشة.
@@ -47,7 +47,7 @@ readingTime: 6
 فعّل مشغلاً بملء الشاشة بالنقر على أيقونة المشغل المصغر واستخدام إيماءة السحب لأسفل لإخفائه. على iPad وMac، تقع شاشة المشغل المصغر في أعلى الشاشة ويمكن إخفاؤها عند فتح المشغل بملء الشاشة عبر القائمة الرئيسية.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="شريط التبويب السفلي لـ iPhone" image="/docs/guide/evermusic/evermusic-guide-navigation/img/navigation-bottom-tabbar.webp" >}}
+  {{< ls-card title="" subtitle="شريط التبويب السفلي لـ iPhone" image="/docs/guide/evermusic/evermusic-guide-navigation/img/navigation-bottom-tabbar.webp" >}}
 {{< /cards >}}
 
 ## نافذة المشغل المصغر (حصريًا على Mac)
@@ -55,7 +55,7 @@ readingTime: 6
 للوصول إلى نافذة المشغل المصغر على Mac، حرّك المؤشر ببساطة إلى الحافة السفلية اليمنى من نافذة التطبيق وقلّص حجمها إلى أصغر حجم ممكن. ثم انقر على زر الطي (المصوَّر كسهم لأسفل) لتفعيل نافذة المشغل المصغر. للحفاظ على نافذة المشغل المصغر دائمًا فوق النوافذ الأخرى، انتقل إلى شريط القائمة العلوي في Mac وحدد 'نافذة' ثم اختر 'إظهار النافذة دائمًا في الأعلى'. هذه الميزة مفيدة للاستماع إلى المحاضرات الصوتية دون انقطاع.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="نافذة المشغل المصغر على Mac" image="/docs/guide/evermusic/evermusic-guide-navigation/img/navigation-mac-exclusive-miniplayer.webp" >}}
+  {{< ls-card title="" subtitle="نافذة المشغل المصغر على Mac" image="/docs/guide/evermusic/evermusic-guide-navigation/img/navigation-mac-exclusive-miniplayer.webp" >}}
 {{< /cards >}}
 
 ## المزيد من الإجراءات
@@ -63,7 +63,7 @@ readingTime: 6
 تقريبًا كل عنصر محتوى على الشاشة يتضمن زر "المزيد من الإجراءات". انقر عليه للوصول إلى جميع الإجراءات المتاحة.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="قائمة سياق المزيد من الإجراءات" image="/docs/guide/evermusic/evermusic-guide-navigation/img/navigation-more-actions.webp" >}}
+  {{< ls-card title="" subtitle="قائمة سياق المزيد من الإجراءات" image="/docs/guide/evermusic/evermusic-guide-navigation/img/navigation-more-actions.webp" >}}
 {{< /cards >}}
 
 ## شريط الأدوات العلوي
@@ -77,7 +77,7 @@ readingTime: 6
 - **خلط الكل:** إضافة جميع المقطوعات من الصفحة الحالية إلى قائمة انتظار مشغل الصوت وخلطها قبل الإضافة لتجربة استماع ممتعة.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="شريط الأدوات العلوي مع البحث وتشغيل الكل وخلط الكل" image="/docs/guide/evermusic/evermusic-guide-navigation/img/navigation-top-toolbar.webp" >}}
+  {{< ls-card title="" subtitle="شريط الأدوات العلوي مع البحث وتشغيل الكل وخلط الكل" image="/docs/guide/evermusic/evermusic-guide-navigation/img/navigation-top-toolbar.webp" >}}
 {{< /cards >}}
 
 ## قائمة السياق
@@ -91,7 +91,7 @@ readingTime: 6
 **النقر بزر الفأرة الأيمن:** انقر بزر الفأرة الأيمن على الخلايا أو المشغل المصغر أو المشغل المضغوط لإظهار قائمة السياق.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="قائمة السياق على macOS" image="/docs/guide/evermusic/evermusic-guide-navigation/img/navigation-context-menu-macos.webp" >}}
+  {{< ls-card title="" subtitle="قائمة السياق على macOS" image="/docs/guide/evermusic/evermusic-guide-navigation/img/navigation-context-menu-macos.webp" >}}
 {{< /cards >}}
 
 ## إمكانية الوصول
@@ -125,7 +125,7 @@ readingTime: 6
 جميع الأدوات الأربع متاحة بأحجام صغير ومتوسط وكبير حتى تتمكن من اختيار التخطيط الذي يناسب شاشتك.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="إضافة أدوات Evermusic" image="/docs/guide/evermusic/evermusic-guide-navigation/img/navigation-add-widgets.webp" >}}
+  {{< ls-card title="" subtitle="إضافة أدوات Evermusic" image="/docs/guide/evermusic/evermusic-guide-navigation/img/navigation-add-widgets.webp" >}}
 {{< /cards >}}
 
 ### إضافة أداة على iPhone (شاشة الرئيسية)
@@ -175,7 +175,7 @@ readingTime: 6
 يتضمن Evermusic واجهة **Apple CarPlay** كاملة المميزات (لـ iOS فقط) محسّنة لشاشة السيارة. بمجرد توصيل iPhone بوحدة رأس CarPlay متوافقة — عبر USB أو لاسلكيًا — يظهر Evermusic جنبًا إلى جنب مع Apple Music وSpotify في شبكة تطبيق CarPlay، جاهزًا لبث مكتبتك السحابية على الطريق.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evermusic على شاشة CarPlay" image="/docs/guide/evermusic/evermusic-guide-navigation/img/navigation-carplay-menu.webp" >}}
+  {{< ls-card title="" subtitle="Evermusic على شاشة CarPlay" image="/docs/guide/evermusic/evermusic-guide-navigation/img/navigation-carplay-menu.webp" >}}
 {{< /cards >}}
 
 ### ما تحصل عليه في CarPlay

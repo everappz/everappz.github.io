@@ -12,7 +12,7 @@ authors:
     image: "/images/about/artem-meleshko-founder-everappz.webp"
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 ![](/blog/audio-streaming-and-caching-in-ios-using-avassetresourceloader-and-avplayer/diagram.png)
 
@@ -140,18 +140,18 @@ self.player = [AVPlayer playerWithPlayerItem:item];
 
 ## 常见问题
 
-{{% details title="什么时候应该使用 AVAssetResourceLoaderDelegate 而不是直接 URL？" closed="true" %}}
+{{% ls-details title="什么时候应该使用 AVAssetResourceLoaderDelegate 而不是直接 URL？" closed="true" %}}
 当云服务需要自定义授权请求头、需要对流式音频进行磁盘缓存，或希望精细控制数据加载和缓冲方式时，请使用它。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="这种方法适用于 Swift 吗？" closed="true" %}}
+{{% ls-details title="这种方法适用于 Swift 吗？" closed="true" %}}
 是的。`AVAssetResourceLoaderDelegate` 协议在 Swift 中的工作方式完全相同。这里的 Objective-C 示例可以直接转换。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="这可以用于视频流媒体吗？" closed="true" %}}
+{{% ls-details title="这可以用于视频流媒体吗？" closed="true" %}}
 可以。`AVAssetResourceLoaderDelegate` 适用于 AVPlayer 支持的任何媒体类型，包括视频。同样的自定义方案方法同样适用。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="这是否支持后台音频播放？" closed="true" %}}
+{{% ls-details title="这是否支持后台音频播放？" closed="true" %}}
 是的，只要你在应用的功能中启用了"Audio, AirPlay, and Picture in Picture"后台模式，并正确配置了 `AVAudioSession`。
-{{% /details %}}
+{{% /ls-details %}}

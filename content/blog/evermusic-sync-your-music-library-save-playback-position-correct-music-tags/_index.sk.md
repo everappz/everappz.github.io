@@ -12,7 +12,7 @@ authors:
     image: "/images/about/artem-meleshko-founder-everappz.webp"
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 ![](/blog/evermusic-sync-your-music-library-save-playback-position-correct-music-tags/21260c_641f376e779e47d4927b43c210d3c87f~mv2.jpeg)
 
@@ -67,22 +67,22 @@ Evermusic deteguje a opravuje neplatné alebo neúplné ID3 tagy pomocou online 
 
 ## Často kladené otázky
 
-{{% details title="Funguje automatická synchronizácia Evermusic so všetkými cloudovými službami?" closed="true" %}}
+{{% ls-details title="Funguje automatická synchronizácia Evermusic so všetkými cloudovými službami?" closed="true" %}}
 Áno. Automatická synchronizácia funguje s Dropbox, Google Drive, OneDrive, MEGA, WebDAV a SMB. Vyberte priečinky, ktoré chcete monitorovať, a Evermusic udrží vašu knižnicu aktuálnu.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Môže Evermusic uložiť pozíciu mojej audioknihy?" closed="true" %}}
+{{% ls-details title="Môže Evermusic uložiť pozíciu mojej audioknihy?" closed="true" %}}
 Áno. Povoľte ukladanie pozície prehrávania v nastaveniach zvuku. Evermusic si zapamätá, kde ste prestali pri každom súbore, takže môžete pokračovať bez manuálnych záložiek.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Ako funguje čítanie metadát na pozadí?" closed="true" %}}
+{{% ls-details title="Ako funguje čítanie metadát na pozadí?" closed="true" %}}
 Evermusic číta ID3 tagy a metadáta súborov na pozadí, kým používate iné funkcie. Automaticky organizuje vašu knižnicu podľa interpreta, albumu a žánru.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Opraví Evermusic poškodené hudobné tagy?" closed="true" %}}
+{{% ls-details title="Opraví Evermusic poškodené hudobné tagy?" closed="true" %}}
 Áno. Funkcia automatickej opravy tagov kontroluje vaše súbory voči online databázam a opravuje neplatné, neúplné alebo chýbajúce ID3 metadáta.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Je Evermusic zadarmo na stiahnutie?" closed="true" %}}
+{{% ls-details title="Je Evermusic zadarmo na stiahnutie?" closed="true" %}}
 Evermusic je zadarmo na stiahnutie s voliteľnými prémiovými funkciami dostupnými cez nákup v aplikácii.
-{{% /details %}}
+{{% /ls-details %}}

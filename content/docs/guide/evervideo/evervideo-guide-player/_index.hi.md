@@ -31,7 +31,7 @@ readingTime: 14
 कॉम्पैक्ट प्लेयर दिखता रहता है जब आप अपनी लाइब्रेरी, फाइल मैनेजर, या सेटिंग्स ब्राउज़ करते हैं, इसलिए अगली वीडियो खोजते समय आप कभी अपनी वीडियो नहीं खोते।
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evervideo फुल-स्क्रीन मीडिया प्लेयर" image="/docs/guide/evervideo/img/evervideo-media-player-fullscreen.webp" >}}
+  {{< ls-card title="" subtitle="Evervideo फुल-स्क्रीन मीडिया प्लेयर" image="/docs/guide/evervideo/img/evervideo-media-player-fullscreen.webp" >}}
 {{< /cards >}}
 
 ## समर्थित वीडियो और ऑडियो फॉर्मेट
@@ -72,7 +72,7 @@ PiP Evervideo के हर वीडियो फॉर्मेट के स�
 कॉम्पैक्ट प्लेयर एक स्थायी मिनी-प्लेयर है जो ऐप में हर स्क्रीन के शीर्ष पर दिखाई देता रहता है जब आप लाइब्रेरी, फाइल मैनेजर, या सेटिंग्स ब्राउज़ करते हैं। फुल-स्क्रीन प्लेयर में विस्तारित करने के लिए इसे टैप करें; वापस कोलेप्स करने के लिए नीचे स्वाइप करें।
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="मुख्य स्क्रीन पर कॉम्पैक्ट प्लेयर व्यू से Evervideo वीडियो सेटिंग्स" image="/docs/guide/evervideo/img/evervideo-video-settings-from-compact-player-view-on-the-main-screen.webp" >}}
+  {{< ls-card title="" subtitle="मुख्य स्क्रीन पर कॉम्पैक्ट प्लेयर व्यू से Evervideo वीडियो सेटिंग्स" image="/docs/guide/evervideo/img/evervideo-video-settings-from-compact-player-view-on-the-main-screen.webp" >}}
 {{< /cards >}}
 
 ## AirPlay 2
@@ -115,7 +115,7 @@ Evervideo में आपके हेडफोन, स्पीकर, या 
 तस्वीर को ट्यून करने के लिए, Evervideo एक समर्पित वीडियो इक्वलाइज़र प्रदान करता है — प्लेबैक के दौरान रियल-टाइम में चमक, कंट्रास्ट, सेचुरेशन और ह्यू एडजस्ट करें। ऑडियो इक्वलाइज़र की तरह, कस्टम वीडियो प्रीसेट को शेयर करने या बैकअप के लिए एक्सपोर्ट और इम्पोर्ट किया जा सकता है। धूप वाले दिन एक अंधेरे दृश्य को उजागर करने, धुले हुए कंटेंट पर सेचुरेशन बढ़ाने, या ठंडे कलर कास्ट को गर्म करने के लिए इसका उपयोग करें।
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evervideo वीडियो इक्वलाइज़र" image="/docs/guide/evervideo/img/evervideo-video-equalizer.webp" >}}
+  {{< ls-card title="" subtitle="Evervideo वीडियो इक्वलाइज़र" image="/docs/guide/evervideo/img/evervideo-video-equalizer.webp" >}}
 {{< /cards >}}
 
 ## वीडियो स्केलिंग मोड
@@ -144,7 +144,7 @@ Evervideo में स्फेरिकल वीडियो फाइलो�
 प्लेबैक स्पीड बदलने के लिए प्लेयर टूलबार पर स्पीड कंट्रोल टैप करें — विश्लेषण के लिए धीमा करें (0.25× या 0.5×) या ट्यूटोरियल और लेक्चर के लिए तेज़ करें (1.25×, 1.5×, 2×, और 3× तक)। बेहतर एडजस्टमेंट के साथ सटीक मोड पर स्विच करने के लिए स्पीड स्क्रीन के ऊपर-दाएं कोने में कॉन्फिगरेशन आइकन टैप करें। प्रति-ट्रैक पिच करेक्शन भी उपलब्ध है।
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="मुख्य टूलबार पर Evervideo प्लेबैक स्पीड" image="/docs/guide/evervideo/img/evervideo-media-player-playback-speed-on-main-toolbar.webp" >}}
+  {{< ls-card title="" subtitle="मुख्य टूलबार पर Evervideo प्लेबैक स्पीड" image="/docs/guide/evervideo/img/evervideo-media-player-playback-speed-on-main-toolbar.webp" >}}
 {{< /cards >}}
 
 ## प्लेयर कतार
@@ -152,7 +152,7 @@ Evervideo में स्फेरिकल वीडियो फाइलो�
 अपनी प्लेयर कतार देखने के लिए, प्लेयर पर कतार बटन टैप करें। कतार में हर वीडियो में अधिक क्रियाएं हैं — उन्हें देखने के लिए तीन बिंदु टैप करें। कतार में वीडियो को पुनर्व्यवस्थित करने के लिए, शीर्षक के पास रीऑर्डर इंडिकेटर का उपयोग करें और इसे नई स्थिति पर खींचें।
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evervideo प्लेबैक कतार" image="/docs/guide/evervideo/img/evervideo-playback-queue.webp" >}}
+  {{< ls-card title="" subtitle="Evervideo प्लेबैक कतार" image="/docs/guide/evervideo/img/evervideo-playback-queue.webp" >}}
 {{< /cards >}}
 
 ## स्लीप टाइमर
@@ -189,7 +189,7 @@ Evervideo में स्फेरिकल वीडियो फाइलो�
 - **सहायता** — मार्गदर्शन खोलें।
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evervideo प्लेयर अधिक क्रियाएं स्क्रीन" image="/docs/guide/evervideo/img/evervideo-media-player-more-actions.webp" >}}
+  {{< ls-card title="" subtitle="Evervideo प्लेयर अधिक क्रियाएं स्क्रीन" image="/docs/guide/evervideo/img/evervideo-media-player-more-actions.webp" >}}
 {{< /cards >}}
 
 ## प्लेयर सेटिंग्स

@@ -7,7 +7,7 @@ tags: ["музыка", "usb", "внешний", "ixpand", "sandisk", "iphone", "
 readingTime: 3
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **Кратко:** Evermusic позволяет воспроизводить музыку напрямую с SanDisk iXpand Flash Drive на iPhone или iPad. Подключите накопитель, откройте Evermusic и начните слушать -- не нужно копировать файлы на устройство. Поддерживает управление файлами, плейлисты, эквалайзер и потоковую передачу через AirPlay.
@@ -69,22 +69,22 @@ Evermusic работает как файловый менеджер, позво�
 
 ## FAQ
 
-{{% details title="Какие модели iXpand Flash Drive поддерживает Evermusic?" closed="true" %}}
+{{% ls-details title="Какие модели iXpand Flash Drive поддерживает Evermusic?" closed="true" %}}
 Evermusic поддерживает SanDisk iXpand Flash Drive с протоколами V1, V2, V3, V6 и V7. Вы можете проверить совместимость в Настройках iPhone в разделе Общие > Об этом устройстве > iXpand Flash Drive.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Могу ли я воспроизводить музыку с USB-накопителя без копирования файлов на iPhone?" closed="true" %}}
+{{% ls-details title="Могу ли я воспроизводить музыку с USB-накопителя без копирования файлов на iPhone?" closed="true" %}}
 Да. Evermusic воспроизводит аудиофайлы напрямую с iXpand Flash Drive. Не нужно копировать ничего во внутреннюю память устройства.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Какие аудиоформаты поддерживает Evermusic с USB-накопителей?" closed="true" %}}
+{{% ls-details title="Какие аудиоформаты поддерживает Evermusic с USB-накопителей?" closed="true" %}}
 Evermusic поддерживает все основные аудиоформаты, включая MP3, FLAC, AAC, WAV, AIFF, OGG и другие. Любой аудиофайл, хранящийся на вашем iXpand, может быть воспроизведён напрямую.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Могу ли я транслировать музыку с iXpand на колонки AirPlay?" closed="true" %}}
+{{% ls-details title="Могу ли я транслировать музыку с iXpand на колонки AirPlay?" closed="true" %}}
 Да. Во время воспроизведения музыки с USB-накопителя вы можете транслировать аудио на совместимые с AirPlay устройства, такие как колонки Sonos, Apple TV и Google Chromecast.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Что делать, если мой iXpand не распознаётся?" closed="true" %}}
+{{% ls-details title="Что делать, если мой iXpand не распознаётся?" closed="true" %}}
 Убедитесь, что никакие другие приложения не используют накопитель. Попробуйте отключить и снова подключить его. Если ваша модель не поддерживается, используйте адаптер Apple Lightning to USB для подключения накопителя как стандартного USB-устройства.
-{{% /details %}}
+{{% /ls-details %}}

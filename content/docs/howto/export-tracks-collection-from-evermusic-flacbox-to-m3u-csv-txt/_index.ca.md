@@ -6,7 +6,7 @@ keywords: ["exportar evermusic", "exportar flacbox", "exportar a m3u", "exportar
 tags: ["evermusic", "recents", "favorits", "exportar", "m3u", "llista de reproducció", "csv", "txt", "àlbum"]
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **Resum:** Evermusic i Flacbox et permeten exportar qualsevol col·lecció de pistes (recents, favorits, llistes de reproducció, àlbums) a fitxers CSV, TXT o M3U. Utilitza aquestes exportacions per fer scrobbling a Last.fm, fer còpies de seguretat de la teva biblioteca o reproduir les teves llistes de reproducció en altres dispositius.
@@ -157,22 +157,22 @@ Exportar les teves pistes d'Evermusic i Flacbox et dona un control complet sobre
 
 ## Preguntes freqüents
 
-{{% details title="Quin format d'exportació hauria d'utilitzar per al scrobbling de Last.fm?" closed="true" %}}
+{{% ls-details title="Quin format d'exportació hauria d'utilitzar per al scrobbling de Last.fm?" closed="true" %}}
 Utilitza CSV. Inclou marques de temps i metadades completes requerides per eines de scrobbling com Last.fm-Scrubbler-WPF.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Puc exportar qualsevol col·lecció de pistes, no només llistes de reproducció?" closed="true" %}}
+{{% ls-details title="Puc exportar qualsevol col·lecció de pistes, no només llistes de reproducció?" closed="true" %}}
 Sí. Pots exportar recents, favorits, àlbums, llistes de reproducció i qualsevol altra col·lecció de pistes a l'aplicació utilitzant els mateixos passos.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Funcionarà la meva llista de reproducció M3U en altres dispositius?" closed="true" %}}
+{{% ls-details title="Funcionarà la meva llista de reproducció M3U en altres dispositius?" closed="true" %}}
 Si tries l'opció d'URL absolut durant l'exportació, el fitxer M3U es pot reproduir en qualsevol dispositiu que admeti llistes de reproducció M3U. Tingues en compte que algunes URLs al núvol poden caducar amb el temps.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="La funció d'exportació és gratuïta?" closed="true" %}}
+{{% ls-details title="La funció d'exportació és gratuïta?" closed="true" %}}
 Sí. L'exportació de col·leccions de pistes a M3U, CSV i TXT està disponible tant a les versions gratuïtes com premium d'Evermusic i Flacbox.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Quins serveis al núvol admeten l'exportació d'URL absolut?" closed="true" %}}
+{{% ls-details title="Quins serveis al núvol admeten l'exportació d'URL absolut?" closed="true" %}}
 L'exportació d'URL absolut és compatible amb iCloud Drive, pCloud, PanBaidu, MyCloudHome, DLNA, MediaFire, OneDrive, Box, Dropbox, Google Drive i WebDAV (mode convidat).
-{{% /details %}}
+{{% /ls-details %}}

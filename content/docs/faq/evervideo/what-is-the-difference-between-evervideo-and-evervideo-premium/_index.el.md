@@ -11,7 +11,7 @@ readingTime: 3
 Το Evervideo προσφέρει τόσο δωρεάν έκδοση με ορισμένους περιορισμούς χρήσης όσο και premium έκδοση με πρόσθετες λειτουργίες, που μπορούν να ενεργοποιηθούν μέσω αγορών εντός εφαρμογής.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Οθόνη Αναβάθμισης Προεπιλεγμένου Πλάνου" image="/docs/faq/evervideo/what-is-the-difference-between-evervideo-and-evervideo-premium/upgrade-default.webp" >}}
+  {{< ls-card title="" subtitle="Οθόνη Αναβάθμισης Προεπιλεγμένου Πλάνου" image="/docs/faq/evervideo/what-is-the-difference-between-evervideo-and-evervideo-premium/upgrade-default.webp" >}}
 {{< /cards >}}
 
 ## Επιλέξτε το Premium Πλάνο σας
@@ -19,7 +19,7 @@ readingTime: 3
 Η δωρεάν έκδοση της εφαρμογής προσφέρει μια εφάπαξ αγορά εφ' όρου ζωής εντός εφαρμογής και δύο επιλογές συνδρομής (1 μήνα και 1 χρόνο) για την κατάργηση όλων των περιορισμών και την αναβάθμιση στην Premium έκδοση, επιτρέποντάς σας να επιλέξετε την καλύτερη και πιο βέλτιστη τιμή για εσάς. Οι τιμές μπορεί να ποικίλλουν ανάλογα με τη χώρα ή την περιοχή σας. Επίσης, λάβετε υπόψη ότι το **Family Sharing** είναι ενεργοποιημένο για όλες τις αγορές και τα πλάνα, οπότε μπορείτε να μοιραστείτε την Premium έκδοση με μέλη της οικογένειάς σας.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Οθόνη Επιλογής Πλάνου Evervideo" image="/docs/faq/evervideo/what-is-the-difference-between-evervideo-and-evervideo-premium/plan-select.webp" >}}
+  {{< ls-card title="" subtitle="Οθόνη Επιλογής Πλάνου Evervideo" image="/docs/faq/evervideo/what-is-the-difference-between-evervideo-and-evervideo-premium/plan-select.webp" >}}
 {{< /cards >}}
 
 ## Κοινή Χρήση Αγορών Μεταξύ iOS και Mac
@@ -31,13 +31,13 @@ readingTime: 3
 Για να επαναφέρετε την αγορά σας στη νέα συσκευή, απλά χρησιμοποιήστε το μενού 'Επαναφορά αγορών'. Θα δείτε τη λίστα αγορών σας. Αν δεν βλέπετε όλες τις αγορές σας, ελέγξτε αν η συσκευή είναι συνδεδεμένη με τον ίδιο λογαριασμό iTunes που χρησιμοποιήθηκε για τις αγορές, και βεβαιωθείτε ότι το iCloud είναι ενεργοποιημένο.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Οθόνη Επαναφοράς Αγοράς" image="/docs/faq/evervideo/what-is-the-difference-between-evervideo-and-evervideo-premium/purchase-restored.webp" >}}
+  {{< ls-card title="" subtitle="Οθόνη Επαναφοράς Αγοράς" image="/docs/faq/evervideo/what-is-the-difference-between-evervideo-and-evervideo-premium/purchase-restored.webp" >}}
 {{< /cards >}}
 
 Μόλις αναβαθμίσετε την εφαρμογή σας, θα δείτε την οθόνη Premium κατάστασης με λεπτομέρειες των τρεχουσών αγορών σας.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Οθόνη Χρήσης Premium" image="/docs/faq/evervideo/what-is-the-difference-between-evervideo-and-evervideo-premium/you-are-using-premium.webp" >}}
+  {{< ls-card title="" subtitle="Οθόνη Χρήσης Premium" image="/docs/faq/evervideo/what-is-the-difference-between-evervideo-and-evervideo-premium/you-are-using-premium.webp" >}}
 {{< /cards >}}
 
 ## Δοκιμάστε Premium Δωρεάν
@@ -45,7 +45,7 @@ readingTime: 3
 Επιπλέον, υπάρχει μια περιορισμένης χρονικής διάρκειας ευκαιρία να '**Δοκιμάσετε Premium Δωρεάν**'. Μπορείτε να αποκτήσετε πρόσβαση σε αυτή τη λειτουργία μέσω του μενού 'Δοκιμάστε Premium Δωρεάν'. Απλά παρακολουθώντας μια διαφήμιση ή μοιράζοντας την εφαρμογή με τους φίλους σας, μπορείτε να ξεκλειδώσετε την Premium έκδοση δωρεάν κατά τη διάρκεια αυτής της προωθητικής περιόδου. Αυτό σάς δίνει την ευκαιρία να εμπειριστείτε τα premium χαρακτηριστικά χωρίς οικονομική δέσμευση.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Οθόνη Δοκιμής Premium Δωρεάν" image="/docs/faq/evervideo/what-is-the-difference-between-evervideo-and-evervideo-premium/premium-for-free.webp" >}}
+  {{< ls-card title="" subtitle="Οθόνη Δοκιμής Premium Δωρεάν" image="/docs/faq/evervideo/what-is-the-difference-between-evervideo-and-evervideo-premium/premium-for-free.webp" >}}
 {{< /cards >}}
 
 ## Evervideo Free
@@ -62,7 +62,7 @@ readingTime: 3
 - Καμία επιλογή προσαρμογής ή εξατομίκευσης.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Οθόνη Αναβάθμισης Αποθήκευσης Cloud" image="/docs/faq/evervideo/what-is-the-difference-between-evervideo-and-evervideo-premium/upgrade-cloud-storage.webp" >}}
+  {{< ls-card title="" subtitle="Οθόνη Αναβάθμισης Αποθήκευσης Cloud" image="/docs/faq/evervideo/what-is-the-difference-between-evervideo-and-evervideo-premium/upgrade-cloud-storage.webp" >}}
 {{< /cards >}}
 
 ## Evervideo Premium
@@ -106,7 +106,7 @@ readingTime: 3
 Από την άλλη πλευρά, το **Evervideo Premium** ξεκλειδώνει την πλήρη εμπειρία. Θα απολαύσετε διεπαφή χωρίς διαφημίσεις, απεριόριστη υποστήριξη λιστών αναπαραγωγής και ουράς, πλήρη εκτός σύνδεσης λειτουργικότητα, ευελιξία cloud και προηγμένες επιλογές εξαγωγής και εξατομίκευσης. Είναι η καλύτερη επιλογή για χρήστες με μεγάλες βιβλιοθήκες βίντεο, όσους παρακολουθούν περιεχόμενο από πολλαπλές πηγές, ή όποιον αναζητά πιο επαγγελματικό και απρόσκοπτο αναπαραγωγέα πολυμέσων.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Οθόνη Αγοράς Premium" image="/docs/faq/evervideo/what-is-the-difference-between-evervideo-and-evervideo-premium/you-have-purchased-premium.webp" >}}
+  {{< ls-card title="" subtitle="Οθόνη Αγοράς Premium" image="/docs/faq/evervideo/what-is-the-difference-between-evervideo-and-evervideo-premium/you-have-purchased-premium.webp" >}}
 {{< /cards >}}
 
 Αν αναζητάτε ευελιξία, δοκιμάστε το **μηνιαίο πλάνο**. Για μακροπρόθεσμη αξία, επιλέξτε το **ετήσιο** ή **εφ' όρου ζωής** αναβάθμιση — και τα δύο προσφέρουν πλήρη πρόσβαση σε καλύτερη τιμή.

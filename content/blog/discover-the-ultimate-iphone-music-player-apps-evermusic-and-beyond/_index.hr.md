@@ -12,7 +12,7 @@ authors:
     image: "/images/about/artem-meleshko-founder-everappz.webp"
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 **TL;DR:** Najbolji iPhone glazbeni player ovisi o vašim potrebama. **Evermusic** je idealan za reprodukciju iz cloud pohrane i fleksibilnost formata. **Apple Music** odgovara onima duboko u Apple ekosustavu. **Spotify** se ističe u otkrivanju glazbe. **VLC** podržava svaki format datoteka besplatno. **Amazon Music** se dobro slaže s Alexom i Primeom.
 
@@ -128,22 +128,22 @@ Amazon Music se integrira s Amazon ekosustavom, nudeći glasovno upravljanje put
 
 ## FAQ
 
-{{% details title="Koji je najbolji besplatni glazbeni player za iPhone?" closed="true" %}}
+{{% ls-details title="Koji je najbolji besplatni glazbeni player za iPhone?" closed="true" %}}
 Za reprodukciju vlastitih datoteka, Evermusic i VLC su obje besplatne opcije. Evermusic dodaje integraciju s cloud pohranom, dok VLC podržava najširi raspon formata datoteka.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Mogu li reproducirati FLAC datoteke na iPhoneu?" closed="true" %}}
+{{% ls-details title="Mogu li reproducirati FLAC datoteke na iPhoneu?" closed="true" %}}
 Da. Evermusic i VLC podržavaju FLAC reprodukciju na iPhoneu. Apple Music i Spotify ne reproduciraju FLAC datoteke izravno.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Koja aplikacija za reprodukciju glazbe radi s cloud pohranom?" closed="true" %}}
+{{% ls-details title="Koja aplikacija za reprodukciju glazbe radi s cloud pohranom?" closed="true" %}}
 Evermusic je vodeći iPhone glazbeni player s ugrađenom podrškom za cloud pohranu. Povezuje se s iCloud Driveom, Dropboxom, Google Driveom, OneDriveom, pCloudom i drugim uslugama.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Je li Evermusic bolji od Apple Musica?" closed="true" %}}
+{{% ls-details title="Je li Evermusic bolji od Apple Musica?" closed="true" %}}
 Služe različitim svrhama. Evermusic reproducira vaše vlastite glazbene datoteke iz cloud pohrane i lokalne pohrane. Apple Music je pretplatnička streaming usluga s katalogom od 100M+ pjesama. Ako posjedujete vlastite glazbene datoteke, Evermusic je bolji izbor.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Mogu li koristiti Spotify offline na iPhoneu?" closed="true" %}}
+{{% ls-details title="Mogu li koristiti Spotify offline na iPhoneu?" closed="true" %}}
 Da, ali samo s Spotify Premium pretplatom. Besplatni korisnici Spotifyja ne mogu preuzimati pjesme za offline reprodukciju.
-{{% /details %}}
+{{% /ls-details %}}

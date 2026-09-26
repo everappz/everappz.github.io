@@ -17,7 +17,7 @@ keywords: [
 readingTime: 2
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **Ringkasan:** Kedua-dua Evermusic dan Flacbox mempunyai scrobbling Last.fm terbina dalam. Sambungkan akaun anda di bahagian **Sambungan**, dan setiap trek yang anda mainkan akan dilog secara automatik -- walaupun semasa anda di luar talian. Persediaan mengambil masa kurang dari satu minit.
@@ -66,22 +66,22 @@ Scrobbling sejarah muzik anda dari Evermusic atau Flacbox ke [Last.fm](http://La
 
 ## Soalan Lazim
 
-{{% details title="Adakah scrobbling Last.fm percuma?" closed="true" %}}
+{{% ls-details title="Adakah scrobbling Last.fm percuma?" closed="true" %}}
 Ya. Last.fm menawarkan akaun percuma yang merangkumi scrobbling penuh, sejarah pendengaran, dan cadangan asas. Langganan berbayar Last.fm Pro menambah ciri tambahan di laman web Last.fm tetapi tidak diperlukan untuk scrobbling dari Evermusic atau Flacbox.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Adakah scrobbling berfungsi semasa saya di luar talian?" closed="true" %}}
+{{% ls-details title="Adakah scrobbling berfungsi semasa saya di luar talian?" closed="true" %}}
 Ya. Kedua-dua Evermusic dan Flacbox menyimpan sejarah main balik anda secara tempatan. Apabila anda kembali dalam talian, aplikasi memuat naik scrobble yang beratur ke Last.fm secara automatik.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Adakah kelayakan Last.fm saya disimpan oleh aplikasi?" closed="true" %}}
+{{% ls-details title="Adakah kelayakan Last.fm saya disimpan oleh aplikasi?" closed="true" %}}
 Tidak. Aplikasi hanya menyimpan token akses selamat dalam rantai kunci peranti anda. Nama pengguna dan kata laluan anda tidak disimpan.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Bolehkah saya scrobble dari kedua-dua iPhone dan Mac?" closed="true" %}}
+{{% ls-details title="Bolehkah saya scrobble dari kedua-dua iPhone dan Mac?" closed="true" %}}
 Ya. Evermusic dan Flacbox menyokong scrobbling Last.fm pada iPhone, iPad, dan Mac. Sambungkan akaun anda pada setiap peranti yang anda ingin jejaki main balik.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Bagaimana saya menghentikan scrobbling tanpa memadamkan akaun Last.fm saya?" closed="true" %}}
+{{% ls-details title="Bagaimana saya menghentikan scrobbling tanpa memadamkan akaun Last.fm saya?" closed="true" %}}
 Buka bahagian **Sambungan** dalam Evermusic atau Flacbox dan ketik **Putuskan Sambungan** di sebelah Last.fm. Ini mengeluarkan token akses dan menghentikan scrobbling sambil mengekalkan akaun dan sejarah Last.fm anda.
-{{% /details %}}
+{{% /ls-details %}}

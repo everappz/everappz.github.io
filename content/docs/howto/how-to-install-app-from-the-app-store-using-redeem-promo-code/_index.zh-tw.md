@@ -7,7 +7,7 @@ tags: ["促銷", "appstore", "安裝", "兌換", "代碼", "免費"]
 readingTime: 2
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **簡要說明：** 促銷代碼可以讓您免費下載付費應用程式或解鎖應用程式內購買。在 iOS 上：App Store > 帳號圖示 > 兌換禮品卡或代碼 > 輸入代碼。在 Mac 上：App Store > 帳號 > 兌換禮品卡 > 輸入代碼。然後開啟應用程式，如有需要，恢復購買。
@@ -94,22 +94,22 @@ readingTime: 2
 
 ## 常見問題
 
-{{% details title="我在哪裡可以取得促銷代碼？" closed="true" %}}
+{{% ls-details title="我在哪裡可以取得促銷代碼？" closed="true" %}}
 促銷代碼由應用程式開發者提供，用於評測、贈品活動或促銷。直接聯繫開發者即可申請。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="促銷代碼會過期嗎？" closed="true" %}}
+{{% ls-details title="促銷代碼會過期嗎？" closed="true" %}}
 會。Apple App Store 促銷代碼在產生後 28 天內過期，且只能兌換一次。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="我可以在任何國家使用促銷代碼嗎？" closed="true" %}}
+{{% ls-details title="我可以在任何國家使用促銷代碼嗎？" closed="true" %}}
 促銷代碼有地區限制。代碼必須與您 Apple ID 的 App Store 國家/地區相符。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="如何使用促銷代碼啟用應用程式內購買？" closed="true" %}}
+{{% ls-details title="如何使用促銷代碼啟用應用程式內購買？" closed="true" %}}
 在 App Store 中兌換代碼後，開啟應用程式並前往 設定 > 恢復購買。進階內容將自動解鎖。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="促銷代碼顯示已被兌換。我該怎麼辦？" closed="true" %}}
+{{% ls-details title="促銷代碼顯示已被兌換。我該怎麼辦？" closed="true" %}}
 每個促銷代碼只能使用一次。請聯繫開發者申請新代碼。
-{{% /details %}}
+{{% /ls-details %}}

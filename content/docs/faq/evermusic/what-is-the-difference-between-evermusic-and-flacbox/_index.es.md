@@ -11,7 +11,7 @@ Evermusic y Flacbox son dos reproductores de música avanzados de Everappz para 
 
 **Respuesta breve:** elige **Evermusic** si quieres la escucha global más fluida, transiciones sin pausas y con crossfade perfectas, y acceso a tu biblioteca de Apple Music. Elige **Flacbox** si eres un audiófilo que busca un modelado profundo del sonido (un conjunto de efectos y una cadena DSP), un motor de audio profesional seleccionable y la máxima cobertura de formatos de alta resolución y sin pérdida, incluidos DSD, APE y WavPack.
 
-{{< app-details ids="885367198, 1097564256" >}}
+{{< ls-app-details ids="885367198, 1097564256" >}}
 
 ## Tabla comparativa de funciones
 
@@ -129,38 +129,38 @@ Ambas son gratuitas de descargar con mejoras Premium opcionales, y ambas se cone
 
 ## Preguntas frecuentes
 
-{{% details title="¿Cuál es la principal diferencia entre Evermusic y Flacbox?" closed="true" %}}
+{{% ls-details title="¿Cuál es la principal diferencia entre Evermusic y Flacbox?" closed="true" %}}
 Comparten la misma plataforma y conexiones, pero el lado del audio difiere. Evermusic funciona con AVPlayer y Core Audio de Apple y es el reproductor cotidiano de amplia compatibilidad de formatos, con reproducción sin pausas real, crossfade, audio espacial e importación de la biblioteca de Apple Music. Flacbox añade un motor de audio profesional BASS™ y decodificación FFmpeg, que aportan una cadena DSP de 14 filtros, más efectos en tiempo real, reproducción tracker/MOD y la más amplia compatibilidad con formatos de alta resolución y sin pérdida, incluidos DSD, APE y WavPack.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="¿Es mejor Evermusic o Flacbox?" closed="true" %}}
+{{% ls-details title="¿Es mejor Evermusic o Flacbox?" closed="true" %}}
 Ninguna es estrictamente mejor; están optimizadas para oyentes diferentes. Evermusic es mejor para una escucha cotidiana fluida y para quienes también usan su biblioteca de Apple Music, gracias a la reproducción sin pausas, el crossfade y el audio espacial. Flacbox es mejor para los audiófilos que buscan un modelado profundo del sonido, un motor de audio profesional seleccionable y la máxima cobertura de formatos de alta resolución y sin pérdida.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="¿Usa Evermusic FFmpeg?" closed="true" %}}
+{{% ls-details title="¿Usa Evermusic FFmpeg?" closed="true" %}}
 No. Evermusic reproduce todo a través de la pila de audio nativa de Apple, AVPlayer y Core Audio, con Core Audio encargándose de sus efectos y procesamiento. La decodificación FFmpeg es una función de Flacbox, junto con su motor BASS seleccionable.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="¿Tiene Flacbox reproducción sin pausas o crossfade?" closed="true" %}}
+{{% ls-details title="¿Tiene Flacbox reproducción sin pausas o crossfade?" closed="true" %}}
 No. La reproducción sin pausas real y el crossfade (de 1 a 30 segundos) son funciones de Evermusic. Flacbox se centra en la reproducción de alta resolución, un motor profesional BASS, un conjunto de efectos y una cadena DSP.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="¿Qué aplicación es mejor para FLAC, DSD y APE?" closed="true" %}}
+{{% ls-details title="¿Qué aplicación es mejor para FLAC, DSD y APE?" closed="true" %}}
 Flacbox. Ambas aplicaciones reproducen FLAC, pero Flacbox es la especialista en alta resolución y sin pérdida, con compatibilidad nativa con FLAC, ALAC, DSD (DSF/DFF), APE, WavPack (WV), TTA, OPUS y más a través de FFmpeg y su motor BASS™. También ofrece un control de salida más preciso para la escucha crítica.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="¿Qué aplicación tiene más efectos de audio y una cadena DSP?" closed="true" %}}
+{{% ls-details title="¿Qué aplicación tiene más efectos de audio y una cadena DSP?" closed="true" %}}
 Flacbox. Evermusic tiene 6 efectos (Reverb, Delay, Distortion, Compressor, Crossfeed y normalización de volumen). Flacbox tiene 11 efectos (que añaden Chorus, Flanger, Phaser, Auto-Wah, Stereo rotation y un Multi-tap echo) más una cadena DSP de 14 filtros que puedes construir tú mismo. La cadena DSP es exclusiva de Flacbox.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="¿Admiten ambas aplicaciones los mismos servicios en la nube, servidores multimedia y CarPlay?" closed="true" %}}
+{{% ls-details title="¿Admiten ambas aplicaciones los mismos servicios en la nube, servidores multimedia y CarPlay?" closed="true" %}}
 Sí. Evermusic y Flacbox se conectan al mismo almacenamiento en la nube (iCloud Drive, Google Drive, Dropbox, OneDrive, MEGA, pCloud, Internxt, Proton Drive y más), los mismos servidores multimedia (Plex, Subsonic, Navidrome, Jellyfin, Emby) y los mismos protocolos de ordenador y NAS (SMB, WebDAV, FTP, SFTP, NFS, DLNA), con compatibilidad nativa con QNAP, Synology, Nextcloud y WD My Cloud Home. Ambas también admiten Apple CarPlay, AirPlay y Google Chromecast.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="¿Puede Evermusic reproducir mi biblioteca de Apple Music o iTunes?" closed="true" %}}
+{{% ls-details title="¿Puede Evermusic reproducir mi biblioteca de Apple Music o iTunes?" closed="true" %}}
 Sí. Evermusic puede importar y reproducir música de tu biblioteca de Apple Music / iTunes además de las fuentes en la nube y de red. Flacbox está diseñada para tus propios archivos procedentes de la nube, el NAS y el almacenamiento local, y no importa la biblioteca de Apple Music.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="¿Puedo usar Evermusic y Flacbox juntas?" closed="true" %}}
+{{% ls-details title="¿Puedo usar Evermusic y Flacbox juntas?" closed="true" %}}
 Sí, y mucha gente lo hace. Una configuración habitual es Evermusic para la reproducción diaria y sin pausas y el acceso a la biblioteca de Apple Music, y Flacbox para la escucha crítica de alta resolución con el motor BASS, los efectos y la cadena DSP. Ambas leen de las mismas fuentes en la nube y NAS, por lo que tu biblioteca está disponible en cualquiera de las dos aplicaciones. Ambas son gratuitas de descargar con mejoras Premium opcionales dentro de la aplicación.
-{{% /details %}}
+{{% /ls-details %}}

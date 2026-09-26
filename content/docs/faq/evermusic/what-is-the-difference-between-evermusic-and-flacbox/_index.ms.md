@@ -11,7 +11,7 @@ Evermusic dan Flacbox ialah dua pemain muzik termaju daripada Everappz untuk iPh
 
 **Jawapan ringkas:** pilih **Evermusic** jika anda mahukan pendengaran serba boleh yang paling lancar, peralihan gapless dan crossfade yang mulus, serta akses kepada pustaka Apple Music anda. Pilih **Flacbox** jika anda seorang audiofil yang mahukan pembentukan bunyi yang mendalam (rak kesan dan rantaian DSP), enjin audio profesional yang boleh dipilih, dan liputan format hi-res serta lossless yang maksimum, termasuk DSD, APE dan WavPack.
 
-{{< app-details ids="885367198, 1097564256" >}}
+{{< ls-app-details ids="885367198, 1097564256" >}}
 
 ## Jadual Perbandingan Ciri
 
@@ -129,38 +129,38 @@ Kedua-duanya percuma untuk dimuat turun dengan naik taraf Premium pilihan, dan k
 
 ## Soalan Lazim
 
-{{% details title="Apakah perbezaan utama antara Evermusic dan Flacbox?" closed="true" %}}
+{{% ls-details title="Apakah perbezaan utama antara Evermusic dan Flacbox?" closed="true" %}}
 Kedua-duanya berkongsi platform dan sambungan yang sama, tetapi bahagian audio berbeza. Evermusic berjalan pada AVPlayer dan Core Audio Apple serta merupakan pemain harian berformat luas, dengan main balik gapless sebenar, crossfade, audio spatial dan import pustaka Apple Music. Flacbox menambah enjin audio BASS™ profesional dan penyahkodan FFmpeg, yang membawa rantaian DSP 14 penapis, lebih banyak kesan masa nyata, main balik tracker/MOD, dan sokongan format hi-res serta lossless yang paling luas, termasuk DSD, APE dan WavPack.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Adakah Evermusic atau Flacbox lebih baik?" closed="true" %}}
+{{% ls-details title="Adakah Evermusic atau Flacbox lebih baik?" closed="true" %}}
 Tiada yang benar-benar lebih baik; kedua-duanya ditala untuk pendengar yang berbeza. Evermusic lebih baik untuk pendengaran harian yang lancar dan untuk orang yang turut menggunakan pustaka Apple Music mereka, berkat main balik gapless, crossfade dan audio spatial. Flacbox lebih baik untuk audiofil yang mahukan pembentukan bunyi yang mendalam, enjin audio profesional yang boleh dipilih, dan liputan format hi-res serta lossless yang maksimum.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Adakah Evermusic menggunakan FFmpeg?" closed="true" %}}
+{{% ls-details title="Adakah Evermusic menggunakan FFmpeg?" closed="true" %}}
 Tidak. Evermusic memainkan sepenuhnya melalui tindanan audio natif Apple, AVPlayer dan Core Audio, dengan Core Audio mengendalikan kesan dan pemprosesannya. Penyahkodan FFmpeg ialah ciri Flacbox, bersama enjin BASS Flacbox yang boleh dipilih.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Adakah Flacbox mempunyai main balik gapless atau crossfade?" closed="true" %}}
+{{% ls-details title="Adakah Flacbox mempunyai main balik gapless atau crossfade?" closed="true" %}}
 Tidak. Main balik gapless sebenar dan crossfade (1 hingga 30 saat) ialah ciri Evermusic. Flacbox menumpukan pada main balik resolusi tinggi, enjin BASS profesional, rak kesan dan rantaian DSP sebaliknya.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Aplikasi mana yang lebih baik untuk FLAC, DSD dan APE?" closed="true" %}}
+{{% ls-details title="Aplikasi mana yang lebih baik untuk FLAC, DSD dan APE?" closed="true" %}}
 Flacbox. Kedua-dua aplikasi memainkan FLAC, tetapi Flacbox ialah pakar resolusi tinggi dan lossless, dengan sokongan natif untuk FLAC, ALAC, DSD (DSF/DFF), APE, WavPack (WV), TTA, OPUS dan banyak lagi melalui FFmpeg dan enjin BASS™nya. Ia juga menawarkan kawalan output yang lebih halus untuk pendengaran kritikal.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Aplikasi mana yang mempunyai lebih banyak kesan audio dan rantaian DSP?" closed="true" %}}
+{{% ls-details title="Aplikasi mana yang mempunyai lebih banyak kesan audio dan rantaian DSP?" closed="true" %}}
 Flacbox. Evermusic mempunyai 6 kesan (Reverb, Delay, Distortion, Compressor, Crossfeed dan Penormalan volum). Flacbox mempunyai 11 kesan (menambah Chorus, Flanger, Phaser, Auto-Wah, Putaran stereo dan Multi-tap echo) serta rantaian DSP 14 penapis bina-sendiri. Rantaian DSP eksklusif kepada Flacbox.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Adakah kedua-dua aplikasi menyokong perkhidmatan awan, pelayan media dan CarPlay yang sama?" closed="true" %}}
+{{% ls-details title="Adakah kedua-dua aplikasi menyokong perkhidmatan awan, pelayan media dan CarPlay yang sama?" closed="true" %}}
 Ya. Evermusic dan Flacbox menyambung ke storan awan yang sama (iCloud Drive, Google Drive, Dropbox, OneDrive, MEGA, pCloud, Internxt, Proton Drive dan banyak lagi), pelayan media yang sama (Plex, Subsonic, Navidrome, Jellyfin, Emby), dan protokol komputer serta NAS yang sama (SMB, WebDAV, FTP, SFTP, NFS, DLNA), dengan sokongan natif untuk QNAP, Synology, Nextcloud dan WD My Cloud Home. Kedua-duanya juga menyokong Apple CarPlay, AirPlay dan Google Chromecast.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Bolehkah Evermusic memainkan pustaka Apple Music atau iTunes saya?" closed="true" %}}
+{{% ls-details title="Bolehkah Evermusic memainkan pustaka Apple Music atau iTunes saya?" closed="true" %}}
 Ya. Evermusic boleh mengimport dan memainkan muzik daripada pustaka Apple Music / iTunes anda selain sumber awan dan rangkaian. Flacbox direka untuk fail anda sendiri daripada storan awan, NAS dan tempatan, dan tidak mengimport pustaka Apple Music.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Bolehkah saya menggunakan Evermusic dan Flacbox bersama-sama?" closed="true" %}}
+{{% ls-details title="Bolehkah saya menggunakan Evermusic dan Flacbox bersama-sama?" closed="true" %}}
 Ya, dan ramai orang berbuat demikian. Persediaan biasa ialah Evermusic untuk main balik harian yang mulus dan akses pustaka Apple Music, dan Flacbox untuk pendengaran kritikal resolusi tinggi dengan enjin BASS, kesan dan rantaian DSP. Kedua-duanya membaca daripada sumber awan dan NAS yang sama, jadi pustaka anda tersedia dalam mana-mana aplikasi. Kedua-duanya percuma untuk dimuat turun dengan naik taraf Premium dalam aplikasi pilihan.
-{{% /details %}}
+{{% /ls-details %}}

@@ -12,7 +12,7 @@ authors:
     image: "/images/about/artem-meleshko-founder-everappz.webp"
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 ![](/blog/evermusic-sync-your-music-library-save-playback-position-correct-music-tags/21260c_641f376e779e47d4927b43c210d3c87f~mv2.jpeg)
 
@@ -67,22 +67,22 @@ Evermusic otkriva i ispravlja nevažeće ili nepotpune ID3 oznake koristeći onl
 
 ## Često postavljana pitanja
 
-{{% details title="Radi li automatska sinkronizacija Evermusica sa svim cloud servisima?" closed="true" %}}
+{{% ls-details title="Radi li automatska sinkronizacija Evermusica sa svim cloud servisima?" closed="true" %}}
 Da. Automatska sinkronizacija radi s Dropboxom, Google Driveom, OneDriveom, MEGA-om, WebDAV-om i SMB-om. Odaberite mape koje želite nadzirati i Evermusic održava vašu knjižnicu ažurnom.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Može li Evermusic spremiti moju poziciju u audioknjizi?" closed="true" %}}
+{{% ls-details title="Može li Evermusic spremiti moju poziciju u audioknjizi?" closed="true" %}}
 Da. Omogućite spremanje pozicije reprodukcije u postavkama zvuka. Evermusic pamti gdje ste stali za svaku datoteku, tako da možete nastaviti bez ručnih oznaka.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Kako radi čitanje metapodataka u pozadini?" closed="true" %}}
+{{% ls-details title="Kako radi čitanje metapodataka u pozadini?" closed="true" %}}
 Evermusic čita ID3 oznake i metapodatke datoteka u pozadini dok koristite druge značajke. Automatski organizira vašu knjižnicu po Izvođaču, Albumu i Žanru.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Hoće li Evermusic popraviti moje pokvarene glazbene oznake?" closed="true" %}}
+{{% ls-details title="Hoće li Evermusic popraviti moje pokvarene glazbene oznake?" closed="true" %}}
 Da. Značajka automatskog ispravljanja oznaka provjerava vaše datoteke u online bazama podataka i ispravlja nevažeće, nepotpune ili nedostajuće ID3 metapodatke.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Je li Evermusic besplatan za preuzimanje?" closed="true" %}}
+{{% ls-details title="Je li Evermusic besplatan za preuzimanje?" closed="true" %}}
 Evermusic je besplatan za preuzimanje s opcionim premium značajkama dostupnim putem kupnje unutar aplikacije.
-{{% /details %}}
+{{% /ls-details %}}

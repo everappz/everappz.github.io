@@ -16,15 +16,15 @@ screenshots:
   - "https://everappz.com/products/everdisk/screenshots/photo_gallery.png"
 ---
 
-{{% sr-only %}}
+{{% ls-sr-only %}}
 Everdisk je aplikacija za bežični disk za iPhone i iPad koju je razvio Everappz. Pretvara vaš uređaj u središte koje dijeli datoteke, fotografije, videozapise i glazbu sa svime na vašoj lokalnoj mreži, bez računa, bez oblaka i bez dodatne aplikacije koju bi trebalo instalirati na drugoj strani. Aplikacija istovremeno pokreće pet poslužitelja - DLNA za pametne TV-e i medijske reproduktore, HTTP za bilo koji web preglednik, WebDAV za Finder, Windows i Linux, SMB za mrežni disk na Macu, Windowsu i Linuxu (uz neobvezno SMB3 šifriranje) te FTP za aplikacije za datoteke i napredne korisnike - pa se svaki uređaj povezuje na način koji mu odgovara. Fotografije, videozapise i glazbu možete strujati izravno na pametne TV-e putem DLNA s pregledom sličica, podijeliti jednostavnu poveznicu koja se otvara u bilo kojem pregledniku za pregledavanje i preuzimanje datoteka ili povezati svoj uređaj kao mrežni disk i prenositi datoteke u oba smjera. Uređaj možete povezati i putem SMB-a, mrežnog diska za Mac, Windows i Linux koji se na Macu sam pojavljuje u bočnoj traci Findera, te uključiti SMB3 šifriranje (AES) tako da nitko drugi na istoj mreži ne može čitati vaše prijenose. Kad nema Wi-Fi, možete se USB kabelom spojiti na Mac i premještati datoteke brže nego putem Wi-Fi, čak i u avionu ili na zaključanoj mreži. Everdisk se povezuje i na DLNA, WebDAV, FTP, SFTP i SMB poslužitelje na vašoj mreži - uključujući Macove, PC-e s Windowsima, Linux strojeve i NAS diskove - kako biste pregledavali, strujali i preuzimali njihove datoteke. Ugrađeni upravitelj datoteka omogućuje pregledavanje u popisu ili mreži, stvaranje mapa, preimenovanje, premještanje, kopiranje, zip i unzip te brisanje. Papirnate dokumente možete skenirati u čiste PDF-ove, otvoriti PDF ili fotografiju i označiti ih ugrađenim uređivačem - crtati, isticati, dodavati tekst i potpis, s promjenama spremljenima natrag u datoteku - te koristiti cijeli skup PDF alata za kompresiju datoteka, prepoznavanje teksta (OCR) u pretraživi PDF, dodavanje ili uklanjanje lozinke za otvaranje, pregled dopuštenja, uređivanje metapodataka dokumenta te spljoštavanje bilješki i polja obrazaca. Zvuk možete reproducirati u mini reproduktoru i gledati videozapise preko cijelog zaslona te dijeliti cijelu biblioteku fotografija i glazbe putem mreže u izvornoj kvaliteti ili kompatibilnijem formatu. Sve ostaje na vašoj lokalnoj mreži i nikada ne dodiruje internet, a pristup možete zaštititi prijavom i lozinkom te jednim dodirom blokirati bilo koji uređaj. Everdisk je besplatan za preuzimanje na App Storeu uz neobveznu jednokratnu kupnju Premium Lifetime.
-{{% /sr-only %}}
+{{% /ls-sr-only %}}
 
 <!-- <body class="hx:bg-transparent" style="background: radial-gradient(ellipse at 50% 80%, rgba(59,130,246,0.05), hsla(0,0%,100%,0));"> -->
 
-{{< force-dark >}}
+{{< ls-force-dark >}}
 
-{{< hextra/hero-container
+{{< ls-hero-container
   image="/products/everdisk/heroimage/hero_1600.png"
   imageWidth="800"
   imageCard="true"
@@ -33,38 +33,38 @@ Everdisk je aplikacija za bežični disk za iPhone i iPad koju je razvio Everapp
 <div class="hx:w-full hx:text-center">
 
 <div class="hx:mt-4">
-{{< downloads-badge >}}
+{{< ls-downloads-badge >}}
 </div>
 
 <div class="hx:mt-6 hx:mb-6">
 <div class="hx:flex hx:gap-4 hx:items-center hx:justify-center">
-  {{< app-icon src="/images/app_icons/png/Everdisk_Icon-App-1024x1024.png" alt="Everdisk Icon" class="hero-headline-icon" size="80" >}}
-  {{< hextra/hero-headline >}}
+  {{< ls-app-icon src="/images/app_icons/png/Everdisk_Icon-App-1024x1024.png" alt="Everdisk Icon" class="hero-headline-icon" size="80" >}}
+  {{< ls-hero-headline >}}
   Everdisk
-  {{< /hextra/hero-headline >}}
+  {{< /ls-hero-headline >}}
 </div>
 </div>
 
 <div class="hx:mb-6">
-{{< hextra/hero-centered-subtitle >}}
+{{< ls-hero-centered-subtitle >}}
 Pretvorite iPhone ili iPad u bežični disk koji dijeli datoteke sa <strong>svakim uređajem na vašoj mreži</strong>
-{{< /hextra/hero-centered-subtitle >}}
+{{< /ls-hero-centered-subtitle >}}
 </div>
 
 <div class="hx:mb-6">
-{{< hextra/hero-paragraph >}}
+{{< ls-hero-paragraph >}}
 • Dodirnite Start i dijelite na pet načina odjednom: DLNA, HTTP, WebDAV, SMB i FTP  
 • Strujajte fotografije, videozapise i glazbu izravno na pametne TV-e putem DLNA  
 • Povežite uređaj kao mrežni disk u Finderu, Windowsu ili Linuxu - uz neobvezno SMB šifriranje  
 • Nema Wi-Fi? Premještajte datoteke putem USB kabela, brže nego bežično  
-{{< /hextra/hero-paragraph >}}
+{{< /ls-hero-paragraph >}}
 </div>
 
-{{< app-store-badges products="everdisk:ios" >}}
+{{< ls-app-store-badges products="everdisk:ios" >}}
 
 </div>
 
-{{< /hextra/hero-container >}}
+{{< /ls-hero-container >}}
 
 <div class="hx:mt-6"></div>
 
@@ -72,42 +72,42 @@ Pretvorite iPhone ili iPad u bežični disk koji dijeli datoteke sa <strong>svak
 
 {{< hextra/feature-grid >}}
 
-  {{< hextra/feature-card
+  {{< ls-glass-feature-card
     title="Vaš uređaj postaje disk"
     subtitle="Dodirnite Start i vaš iPhone ili iPad pretvara se u bežični disk. Everdisk istovremeno pokreće pet poslužitelja - DLNA, HTTP, WebDAV, SMB i FTP - pa se pametni TV-i, računala, web preglednici i aplikacije za datoteke povezuju na način koji im odgovara. Bez računa, bez oblaka i bez ičega dodatnog za instalirati na drugoj strani."
     icon="server"
     style="background: radial-gradient(ellipse at 50% 80%, rgba(34,197,94,0.15), hsla(0,0%,100%,0));"
   >}}
 
-  {{< hextra/feature-card
+  {{< ls-glass-feature-card
     title="Gledajte na svom TV-u"
     subtitle="Strujajte fotografije, videozapise i glazbu izravno na pametne TV-e i medijske reproduktore putem DLNA. Vaša se biblioteka sama pojavljuje na TV-u, s pregledom sličica, pa u njoj možete uživati na velikom ekranu bez kabela i dodatnih aplikacija."
     icon="desktop-computer"
     style="background: radial-gradient(ellipse at 50% 80%, rgba(234,88,12,0.15), hsla(0,0%,100%,0));"
   >}}
 
-  {{< hextra/feature-card
+  {{< ls-glass-feature-card
     title="Otvorite u bilo kojem web pregledniku"
     subtitle="Podijelite jednostavnu poveznicu i druga je osoba samo otvori u pregledniku. Može pregledavati vaše datoteke u urednoj mreži ili popisu, gledati fotografije u galeriji preko cijelog zaslona, slušati glazbu u ugrađenom reproduktoru i preuzeti bilo što - bez ičega za instalirati na svojoj strani."
     icon="globe-alt"
     style="background: radial-gradient(ellipse at 50% 80%, rgba(251,191,36,0.15), hsla(0,0%,100%,0));"
   >}}
 
-  {{< hextra/feature-card
+  {{< ls-glass-feature-card
     title="Koristite ga kao mrežni disk"
     subtitle="Povežite se iz Findera na Macu, iz Windowsa ili iz Linuxa putem WebDAV i vaš se uređaj pojavljuje kao običan mrežni disk. Povlačite i ispuštajte datoteke u oba smjera ili ga umjesto toga povežite putem SMB-a, uz SMB3 (AES) šifriranje."
     icon="folder"
     style="background: radial-gradient(ellipse at 50% 80%, rgba(59,130,246,0.15), hsla(0,0%,100%,0));"
   >}}
 
-  {{< hextra/feature-card
+  {{< ls-glass-feature-card
     title="Nema Wi-Fi? Iskoristite kabel"
     subtitle="Povežite uređaj s Macom istim USB kabelom kojim ga punite. Datoteke se prenose izravno kroz kabel, brže nego putem Wi-Fi, i nastavlja raditi u avionu, u hotelu ili na bilo kojoj zaključanoj mreži gdje je Wi-Fi blokiran."
     icon="lightning-bolt"
     style="background: radial-gradient(ellipse at 50% 80%, rgba(192,38,211,0.15), hsla(0,0%,100%,0));"
   >}}
 
-  {{< hextra/feature-card
+  {{< ls-glass-feature-card
     title="Povežite se s drugim uređajima"
     subtitle="Pronađite i povežite se s DLNA, WebDAV, FTP, SFTP i SMB poslužiteljima na vašoj mreži - Macovima, PC-ima s Windowsima, Linux strojevima i NAS diskovima. Pregledavajte njihove mape, strujajte zvuk i video, preuzimajte datoteke te stvarajte mape, prenosite, preimenujte, premještajte ili brišite kad poslužitelj to dopušta."
     icon="cloud-download"
@@ -120,9 +120,9 @@ Pretvorite iPhone ili iPad u bežični disk koji dijeli datoteke sa <strong>svak
 
 <div class="hx:mt-6"></div>
 
-{{< hextra/section-headline >}}
+{{< ls-section-headline >}}
   Čist i jednostavan dizajn
-{{< /hextra/section-headline >}}
+{{< /ls-section-headline >}}
 
 <div class="hx:mt-6"></div>
 
@@ -130,7 +130,7 @@ Pretvorite iPhone ili iPad u bežični disk koji dijeli datoteke sa <strong>svak
 
 {{< cards cols="4">}}
 
-  {{< design-feature-card 
+  {{< ls-design-feature-card 
     icon="globe-alt"
     image="/products/everdisk/screenshots/browser_access.png" 
     title="Pristup putem preglednika" 
@@ -139,7 +139,7 @@ Pretvorite iPhone ili iPad u bežični disk koji dijeli datoteke sa <strong>svak
     subtitle="Podijelite poveznicu i dopustite svakome da pregledava, pregledava i preuzima vaše datoteke iz bilo kojeg web preglednika. Ništa za instalirati na drugoj strani." 
   >}}
 
-  {{< design-feature-card 
+  {{< ls-design-feature-card 
     icon="server"
     image="/products/everdisk/screenshots/connect_to_servers.png"  
     title="Povezivanje s poslužiteljima" 
@@ -148,7 +148,7 @@ Pretvorite iPhone ili iPad u bežični disk koji dijeli datoteke sa <strong>svak
     subtitle="Otkrijte i povežite se s DLNA, WebDAV, FTP, SFTP i SMB poslužiteljima na vašoj mreži kako biste pregledavali, strujali i preuzimali njihove datoteke." 
   >}}
 
-  {{< design-feature-card 
+  {{< ls-design-feature-card 
     icon="folder"
     image="/products/everdisk/screenshots/file_manager.png"  
     title="Upravitelj datoteka" 
@@ -157,7 +157,7 @@ Pretvorite iPhone ili iPad u bežični disk koji dijeli datoteke sa <strong>svak
     subtitle="Upravljajte svime na svom uređaju: pregledavajte u popisu ili mreži, stvarajte mape, preimenujte, premještajte, kopirajte, zip i unzip te brišite." 
   >}}
 
-  {{< design-feature-card 
+  {{< ls-design-feature-card 
     icon="play"
     image="/products/everdisk/screenshots/play_in_the_app.png"  
     title="Reproducirajte u aplikaciji" 
@@ -166,7 +166,7 @@ Pretvorite iPhone ili iPad u bežični disk koji dijeli datoteke sa <strong>svak
     subtitle="Slušajte svoje lokalne pjesme ili strujajte s povezanih uređaja, uz red čekanja u mini reproduktoru i reprodukciju videa preko cijelog zaslona." 
   >}}
 
-  {{< design-feature-card 
+  {{< ls-design-feature-card 
     icon="music-note"
     image="/products/everdisk/screenshots/share_your_library.png"  
     title="Podijelite svoju biblioteku" 
@@ -175,7 +175,7 @@ Pretvorite iPhone ili iPad u bežični disk koji dijeli datoteke sa <strong>svak
     subtitle="Uključite cijelu biblioteku fotografija i glazbe i svaki album i pjesma postaju dostupni putem mreže u izvornoj kvaliteti." 
   >}} 
 
-  {{< design-feature-card 
+  {{< ls-design-feature-card 
     icon="photograph"
     image="/products/everdisk/screenshots/photo_gallery.png"  
     title="Galerija fotografija" 
@@ -190,9 +190,9 @@ Pretvorite iPhone ili iPad u bežični disk koji dijeli datoteke sa <strong>svak
 
 <div class="hx:mt-6"></div>
 
-{{< hextra/section-headline >}}
+{{< ls-section-headline >}}
   Potpuni skup značajki
-{{< /hextra/section-headline >}}
+{{< /ls-section-headline >}}
 
 <div class="hx:mt-6"></div>
 
@@ -200,53 +200,53 @@ Pretvorite iPhone ili iPad u bežični disk koji dijeli datoteke sa <strong>svak
 
 {{< cards >}}
 
-  {{< feature-card title="Pet poslužitelja odjednom" subtitle="Dodirnite Start i dijelite datoteke na pet načina istovremeno: DLNA za TV-e i medijske reproduktore, HTTP za bilo koji web preglednik, WebDAV za Finder, Windows i Linux, SMB za mrežni disk na Macu, Windowsu i Linuxu te FTP za aplikacije za datoteke i napredne korisnike." icon="wifi" >}}
+  {{< ls-feature-card title="Pet poslužitelja odjednom" subtitle="Dodirnite Start i dijelite datoteke na pet načina istovremeno: DLNA za TV-e i medijske reproduktore, HTTP za bilo koji web preglednik, WebDAV za Finder, Windows i Linux, SMB za mrežni disk na Macu, Windowsu i Linuxu te FTP za aplikacije za datoteke i napredne korisnike." icon="wifi" >}}
 
-  {{< feature-card title="Strujanje na pametne TV-e" subtitle="Šaljite fotografije, videozapise i glazbu izravno na pametne TV-e i medijske reproduktore putem DLNA. Vaša se biblioteka sama pojavljuje na TV-u, s pregledom sličica, spremna za veliki ekran." icon="desktop-computer" >}}
+  {{< ls-feature-card title="Strujanje na pametne TV-e" subtitle="Šaljite fotografije, videozapise i glazbu izravno na pametne TV-e i medijske reproduktore putem DLNA. Vaša se biblioteka sama pojavljuje na TV-u, s pregledom sličica, spremna za veliki ekran." icon="desktop-computer" >}}
 
-  {{< feature-card title="Dijeljenje putem web preglednika" subtitle="Podijelite poveznicu i druga je strana samo otvori u pregledniku kako bi pregledavala vaše datoteke u mreži ili popisu, gledala fotografije preko cijelog zaslona, slušala glazbu i preuzela bilo što - bez potrebe za instalacijom." icon="globe-alt" >}}
+  {{< ls-feature-card title="Dijeljenje putem web preglednika" subtitle="Podijelite poveznicu i druga je strana samo otvori u pregledniku kako bi pregledavala vaše datoteke u mreži ili popisu, gledala fotografije preko cijelog zaslona, slušala glazbu i preuzela bilo što - bez potrebe za instalacijom." icon="globe-alt" >}}
 
-  {{< feature-card title="WebDAV mrežni disk" subtitle="Povežite se iz Findera na Macu, iz Windowsa ili iz Linuxa putem WebDAV i vaš se uređaj pojavljuje kao običan mrežni disk. Povlačite i ispuštajte datoteke u oba smjera." icon="folder" >}}
+  {{< ls-feature-card title="WebDAV mrežni disk" subtitle="Povežite se iz Findera na Macu, iz Windowsa ili iz Linuxa putem WebDAV i vaš se uređaj pojavljuje kao običan mrežni disk. Povlačite i ispuštajte datoteke u oba smjera." icon="folder" >}}
 
-  {{< feature-card title="Šifrirani SMB disk" subtitle="Povežite uređaj putem SMB-a, mrežnog diska za Mac, Windows i Linux - na Macu se sam pojavljuje u bočnoj traci Findera. To je jedina veza koju se može šifrirati: uključite SMB3 šifriranje (AES) uz prijavu i lozinku kako biste svaki prijenos zadržali privatnim." icon="lock-closed" >}}
+  {{< ls-feature-card title="Šifrirani SMB disk" subtitle="Povežite uređaj putem SMB-a, mrežnog diska za Mac, Windows i Linux - na Macu se sam pojavljuje u bočnoj traci Findera. To je jedina veza koju se može šifrirati: uključite SMB3 šifriranje (AES) uz prijavu i lozinku kako biste svaki prijenos zadržali privatnim." icon="lock-closed" >}}
 
-  {{< feature-card title="Prijenos putem USB-a" subtitle="Spojite se na Mac kabelom za punjenje i premještajte datoteke izravno kroz kabel, brže nego putem Wi-Fi. Nastavlja raditi u avionu, u hotelu ili na bilo kojoj zaključanoj mreži." icon="lightning-bolt" >}}
+  {{< ls-feature-card title="Prijenos putem USB-a" subtitle="Spojite se na Mac kabelom za punjenje i premještajte datoteke izravno kroz kabel, brže nego putem Wi-Fi. Nastavlja raditi u avionu, u hotelu ili na bilo kojoj zaključanoj mreži." icon="lightning-bolt" >}}
 
-  {{< feature-card title="Povezivanje na DLNA, WebDAV, FTP, SFTP i SMB" subtitle="Pronađite i povežite se s poslužiteljima i NAS diskovima na vašoj mreži, pregledavajte njihove mape, strujajte zvuk i video, preuzimajte datoteke te stvarajte, prenosite, preimenujte, premještajte ili brišite kad je dopušteno." icon="server" >}}
+  {{< ls-feature-card title="Povezivanje na DLNA, WebDAV, FTP, SFTP i SMB" subtitle="Pronađite i povežite se s poslužiteljima i NAS diskovima na vašoj mreži, pregledavajte njihove mape, strujajte zvuk i video, preuzimajte datoteke te stvarajte, prenosite, preimenujte, premještajte ili brišite kad je dopušteno." icon="server" >}}
 
-  {{< feature-card title="Ugrađeni upravitelj datoteka" subtitle="Potpuni upravitelj datoteka za sve na vašem uređaju. Pregledavajte u popisu ili mreži, stvarajte mape, preimenujte, premještajte, kopirajte i brišite te povezujte mape s bilo kojeg mjesta na uređaju." icon="view-grid" >}}
+  {{< ls-feature-card title="Ugrađeni upravitelj datoteka" subtitle="Potpuni upravitelj datoteka za sve na vašem uređaju. Pregledavajte u popisu ili mreži, stvarajte mape, preimenujte, premještajte, kopirajte i brišite te povezujte mape s bilo kojeg mjesta na uređaju." icon="view-grid" >}}
 
-  {{< feature-card title="Zip i unzip" subtitle="Komprimirajte datoteke i mape u jednu arhivu za dijeljenje ili pohranu te raspakirajte arhive koje primite izravno na uređaju bez ikakvih dodatnih alata." icon="document-duplicate" >}}
+  {{< ls-feature-card title="Zip i unzip" subtitle="Komprimirajte datoteke i mape u jednu arhivu za dijeljenje ili pohranu te raspakirajte arhive koje primite izravno na uređaju bez ikakvih dodatnih alata." icon="document-duplicate" >}}
 
-  {{< feature-card title="Skeniranje dokumenata u PDF" subtitle="Skenirajte papirnate dokumente kamerom. Everdisk automatski pronalazi rubove, izravnava svaku stranicu i sprema ih kao čist PDF, spreman za dijeljenje ili pohranu." icon="document-text" >}}
+  {{< ls-feature-card title="Skeniranje dokumenata u PDF" subtitle="Skenirajte papirnate dokumente kamerom. Everdisk automatski pronalazi rubove, izravnava svaku stranicu i sprema ih kao čist PDF, spreman za dijeljenje ili pohranu." icon="document-text" >}}
 
-  {{< feature-card title="Označavanje i potpisivanje PDF-ova" subtitle="Otvorite PDF ili fotografiju i označite ih izravno u aplikaciji: crtajte, ističite, dodajte tekst i oblike te potpišite prstom. Vaše se promjene spremaju izravno natrag u datoteku." icon="pencil-alt" >}}
+  {{< ls-feature-card title="Označavanje i potpisivanje PDF-ova" subtitle="Otvorite PDF ili fotografiju i označite ih izravno u aplikaciji: crtajte, ističite, dodajte tekst i oblike te potpišite prstom. Vaše se promjene spremaju izravno natrag u datoteku." icon="pencil-alt" >}}
 
-  {{< feature-card title="PDF alati" subtitle="Potpuni PDF komplet alata ugrađen izravno u aplikaciju: komprimirajte datoteke, prepoznajte tekst (OCR) u pretraživi PDF, postavite ili uklonite lozinku za otvaranje, pregledajte dopuštenja, uredite metapodatke dokumenta te spljoštite bilješke i polja obrazaca." icon="document-report" >}}
+  {{< ls-feature-card title="PDF alati" subtitle="Potpuni PDF komplet alata ugrađen izravno u aplikaciju: komprimirajte datoteke, prepoznajte tekst (OCR) u pretraživi PDF, postavite ili uklonite lozinku za otvaranje, pregledajte dopuštenja, uredite metapodatke dokumenta te spljoštite bilješke i polja obrazaca." icon="document-report" >}}
 
-  {{< feature-card title="Galerija fotografija" subtitle="Prave sličice pregleda na TV-ima i u pregledniku, uz galeriju fotografija preko cijelog zaslona s prevlačenjem i zumiranjem, pa uvijek vidite sliku, a ne običnu ikonu." icon="photograph" >}}
+  {{< ls-feature-card title="Galerija fotografija" subtitle="Prave sličice pregleda na TV-ima i u pregledniku, uz galeriju fotografija preko cijelog zaslona s prevlačenjem i zumiranjem, pa uvijek vidite sliku, a ne običnu ikonu." icon="photograph" >}}
 
-  {{< feature-card title="Audio mini reproduktor" subtitle="Uživajte u zvuku u mini reproduktoru s redom čekanja, nasumičnom reprodukcijom, ponavljanjem i kontrolama na zaključanom zaslonu. Vaše biblioteke fotografija i glazbe reproduciraju se ovdje u aplikaciji." icon="music-note" >}}
+  {{< ls-feature-card title="Audio mini reproduktor" subtitle="Uživajte u zvuku u mini reproduktoru s redom čekanja, nasumičnom reprodukcijom, ponavljanjem i kontrolama na zaključanom zaslonu. Vaše biblioteke fotografija i glazbe reproduciraju se ovdje u aplikaciji." icon="music-note" >}}
 
-  {{< feature-card title="Video preko cijelog zaslona" subtitle="Gledajte svoje videozapise preko cijelog zaslona, reproducirane iz lokalnih datoteka ili strujane izravno s povezanog uređaja, uz jednostavne i poznate kontrole reprodukcije." icon="film" >}}
+  {{< ls-feature-card title="Video preko cijelog zaslona" subtitle="Gledajte svoje videozapise preko cijelog zaslona, reproducirane iz lokalnih datoteka ili strujane izravno s povezanog uređaja, uz jednostavne i poznate kontrole reprodukcije." icon="film" >}}
 
-  {{< feature-card title="Podijelite cijelu biblioteku" subtitle="Uključite cijelu biblioteku fotografija i glazbe i svaki album i pjesma postaju dostupni putem mreže u izvornoj kvaliteti ili pretvoreni radi kompatibilnosti." icon="share" >}}
+  {{< ls-feature-card title="Podijelite cijelu biblioteku" subtitle="Uključite cijelu biblioteku fotografija i glazbe i svaki album i pjesma postaju dostupni putem mreže u izvornoj kvaliteti ili pretvoreni radi kompatibilnosti." icon="share" >}}
 
-  {{< feature-card title="Šaljite datoteke natrag" subtitle="Radi u oba smjera. Prenesite fotografije i dokumente s bilo kojeg računala izravno na svoj uređaj, a možete dodati i cijele mape, sve putem iste veze." icon="upload" >}}
+  {{< ls-feature-card title="Šaljite datoteke natrag" subtitle="Radi u oba smjera. Prenesite fotografije i dokumente s bilo kojeg računala izravno na svoj uređaj, a možete dodati i cijele mape, sve putem iste veze." icon="upload" >}}
 
-  {{< feature-card title="Zaštita lozinkom" subtitle="Zaštitite dijeljeni sadržaj od neovlaštenog pristupa prijavom i lozinkom, pa povezani uređaji moraju unijeti iste podatke prije nego što vide vaše datoteke." icon="lock-closed" >}}
+  {{< ls-feature-card title="Zaštita lozinkom" subtitle="Zaštitite dijeljeni sadržaj od neovlaštenog pristupa prijavom i lozinkom, pa povezani uređaji moraju unijeti iste podatke prije nego što vide vaše datoteke." icon="lock-closed" >}}
 
-  {{< feature-card title="Blokirajte bilo koji uređaj" subtitle="Zadržite kontrolu nad time tko se povezuje. Blokirajte bilo koji uređaj na vašoj mreži jednim dodirom pa više ne može doći do sadržaja koji dijelite." icon="shield-check" >}}
+  {{< ls-feature-card title="Blokirajte bilo koji uređaj" subtitle="Zadržite kontrolu nad time tko se povezuje. Blokirajte bilo koji uređaj na vašoj mreži jednim dodirom pa više ne može doći do sadržaja koji dijelite." icon="shield-check" >}}
 
-  {{< feature-card title="Privatno i samo lokalno" subtitle="Sve ostaje na vašoj lokalnoj mreži i nikada ne dodiruje internet. Vaše datoteke nikada ne napuštaju dom, a nema računa ni oblaka u sredini." icon="eye" >}}
+  {{< ls-feature-card title="Privatno i samo lokalno" subtitle="Sve ostaje na vašoj lokalnoj mreži i nikada ne dodiruje internet. Vaše datoteke nikada ne napuštaju dom, a nema računa ni oblaka u sredini." icon="eye" >}}
 
-  {{< feature-card title="Izvorno ili pretvoreno" subtitle="Zadržite fotografije i videozapise u izvornoj kvaliteti ili ih pretvorite u kompatibilniji format kada je to potrebno TV-u, pregledniku ili drugom uređaju." icon="switch-horizontal" >}}
+  {{< ls-feature-card title="Izvorno ili pretvoreno" subtitle="Zadržite fotografije i videozapise u izvornoj kvaliteti ili ih pretvorite u kompatibilniji format kada je to potrebno TV-u, pregledniku ili drugom uređaju." icon="switch-horizontal" >}}
 
-  {{< feature-card title="Povežite vanjske mape" subtitle="Povežite mape s bilo kojeg mjesta na uređaju i radite s njima izravno u aplikaciji, a zatim ih dijelite putem mreže uz sve ostalo." icon="collection" >}}
+  {{< ls-feature-card title="Povežite vanjske mape" subtitle="Povežite mape s bilo kojeg mjesta na uređaju i radite s njima izravno u aplikaciji, a zatim ih dijelite putem mreže uz sve ostalo." icon="collection" >}}
 
-  {{< feature-card title="Prijenosi u pozadini" subtitle="Preuzimanja i prijenosi nastavljaju se dok se krećete po aplikaciji. Otvorite ploču Prijenosi datoteka da pratite napredak te pauzirate, nastavite, ponovite ili otkažete bilo koji zadatak." icon="download" >}}
+  {{< ls-feature-card title="Prijenosi u pozadini" subtitle="Preuzimanja i prijenosi nastavljaju se dok se krećete po aplikaciji. Otvorite ploču Prijenosi datoteka da pratite napredak te pauzirate, nastavite, ponovite ili otkažete bilo koji zadatak." icon="download" >}}
 
-  {{< feature-card title="Sigurno brisanje uz smeće" subtitle="Izbrisane datoteke odlaze u smeće iz kojeg ih možete vratiti, pa ih možete povratiti ako se predomislite. Želite li ih umjesto toga trajno ukloniti? Uključite Trajno izbriši datoteke u Postavkama." icon="trash" >}}
+  {{< ls-feature-card title="Sigurno brisanje uz smeće" subtitle="Izbrisane datoteke odlaze u smeće iz kojeg ih možete vratiti, pa ih možete povratiti ako se predomislite. Želite li ih umjesto toga trajno ukloniti? Uključite Trajno izbriši datoteke u Postavkama." icon="trash" >}}
 
 {{< /cards >}}
 
@@ -259,55 +259,55 @@ Pretvorite iPhone ili iPad u bežični disk koji dijeli datoteke sa <strong>svak
 <div class="hx:mt-6"></div>
 
 <div class="hx:w-full">
-{{< appstore-reviews apps="6751851132" stars="5,4"  app="Everdisk" >}}
+{{< ls-appstore-reviews apps="6751851132" stars="5,4"  app="Everdisk" >}}
 </div>
 
 <div class="hx:mt-6"></div>
 -->
 
-{{< hextra/section-headline >}}
+{{< ls-section-headline >}}
   Planovi cijena
-{{< /hextra/section-headline >}}
+{{< /ls-section-headline >}}
 
 <div class="hx:mt-6"></div>
 
 <div class="hx:w-full">
-{{< pricing-plans >}}
+{{< ls-pricing-plans >}}
 
 </div>
 
 <div class="hx:mt-6"></div>
 
 <div class="hx:w-full hx:mx-auto hx:flex hx:flex-col hx:items-center">
-  {{< hextra/info-paragraph border="true" >}}
+  {{< ls-info-paragraph border="true" >}}
    <strong>Cijene</strong>: Cijene su prikazane u američkim dolarima za Sjedinjene Američke Države. Konačna cijena može varirati ovisno o vašoj regiji.  
-  {{< /hextra/info-paragraph >}}
+  {{< /ls-info-paragraph >}}
 </div>
 
 <div class="hx:mt-6"></div>
 
 <div class="hx:w-full">
-{{< app-details heading="true" >}}
+{{< ls-app-details heading="true" >}}
 </div>
 
 <div class="hx:mt-6"></div>
 
-{{< hextra/section-headline >}}
+{{< ls-section-headline >}}
   Često postavljana pitanja
-{{< /hextra/section-headline >}}
+{{< /ls-section-headline >}}
 
 <div class="hx:mt-6"></div>
 
 <div class="hx:w-full">
-{{% details title="Što je Everdisk?" closed="true" %}}
+{{% ls-details title="Što je Everdisk?" closed="true" %}}
 Everdisk pretvara vaš iPhone ili iPad u bežični disk i središte koje se povezuje i s vašim drugim uređajima.<br>
 Možete dijeliti svoje datoteke, fotografije, videozapise i glazbu sa svime na vašoj mreži, pregledavati i strujati s drugih poslužitelja te upravljati svime izravno na uređaju.<br>
 Nema računa, nema oblaka i nema dodatne aplikacije za instalirati na drugoj strani - samo dodirnete Start i spremni ste.<br><br>
 
 Aplikacija istovremeno pokreće pet poslužitelja, pa se svaki uređaj povezuje na način koji mu odgovara: pametni TV-i putem DLNA, računala i web preglednici putem HTTP, Finder, Windows i Linux putem WebDAV, mrežni disk putem SMB (uz neobvezno šifriranje) te aplikacije za datoteke putem FTP.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Kako Everdisk radi?" closed="true" %}}
+{{% ls-details title="Kako Everdisk radi?" closed="true" %}}
 Kada dodirnete Start, Everdisk počinje dijeliti sadržaj koji ste odabrali i pokreće pet poslužitelja odjednom kako bi se različiti uređaji mogli povezati na način koji im odgovara.<br><br>
 
 - <strong>DLNA</strong> omogućuje pametnim TV-ima i medijskim reproduktorima da automatski pronađu vaše fotografije, videozapise i glazbu te ih prikažu s pregledom sličica.<br>
@@ -317,15 +317,15 @@ Kada dodirnete Start, Everdisk počinje dijeliti sadržaj koji ste odabrali i po
 - <strong>FTP</strong> radi s aplikacijama za datoteke i naprednim korisnicima.<br><br>
 
 Everdisk se povezuje i u drugom smjeru, na DLNA, WebDAV, FTP, SFTP i SMB poslužitelje na vašoj mreži - uključujući Macove, PC-e s Windowsima, Linux strojeve i NAS diskove - pa možete pregledavati njihove mape, strujati zvuk i video te preuzimati ili upravljati datotekama kad poslužitelj to dopušta. Sve ostaje na vašoj lokalnoj mreži i nikada ne dodiruje internet.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Je li Everdisk besplatan?" closed="true" %}}
+{{% ls-details title="Je li Everdisk besplatan?" closed="true" %}}
 Da. Everdisk je besplatan za preuzimanje i možete pretvoriti uređaj u bežični disk, dijeliti datoteke na pet načina, povezati se s drugim poslužiteljima i koristiti ugrađeni upravitelj datoteka bez ikakvih troškova.<br><br>
 
 Postoji neobvezna jednokratna kupnja <strong>Premium Lifetime</strong> - jedno plaćanje bez pretplate - koja otključava neograničen broj dijeljenih mapa i spremljenih veza, pretvorbu fotografija i videa, SMB3 šifriranje (AES), prilagođene portove, automatsko pokretanje dijeljenja i prilagodbu uređaja. Vezana je uz vaš Apple ID, pa možete koristiti Vrati kupnje da je otključate na svojim drugim uređajima. Cijene mogu varirati ovisno o vašoj zemlji ili regiji.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Kako da se povežem sa svog računala?" closed="true" %}}
+{{% ls-details title="Kako da se povežem sa svog računala?" closed="true" %}}
 Everdisk čini da se vaš uređaj pojavljuje kao običan mrežni disk putem WebDAV.<br><br>
 
 - Na <strong>Macu</strong> otvorite Finder, odaberite <em>Idi → Poveži se s poslužiteljem</em> i unesite WebDAV adresu prikazanu u aplikaciji.<br>
@@ -333,39 +333,39 @@ Everdisk čini da se vaš uređaj pojavljuje kao običan mrežni disk putem WebD
 - Na <strong>Linuxu</strong> povežite se s WebDAV adresom iz svog upravitelja datoteka.<br><br>
 
 Nakon povezivanja možete povlačiti i ispuštati u oba smjera: kopirati datoteke s računala na uređaj ili ih vratiti natrag. Ako radije ne biste povezivali disk, možete i otvoriti HTTP poveznicu u bilo kojem web pregledniku.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Mogu li koristiti SMB i šifrirati vezu?" closed="true" %}}
+{{% ls-details title="Mogu li koristiti SMB i šifrirati vezu?" closed="true" %}}
 Da. Uz WebDAV, Everdisk dijeli i putem <strong>SMB-a</strong> - mrežnog diska za Mac, Windows i Linux (u aplikaciji prikazan kao veza <strong>Računalo (napredno)</strong>). Na Macu se sam pojavljuje u bočnoj traci Findera pod Lokacije; na Windowsu ga otvorite u File Exploreru pomoću <code>smb://</code> adrese prikazane u aplikaciji.<br><br>
 
 SMB je ujedno i jedina veza koju možete <strong>šifrirati</strong>. Postavite prijavu i lozinku, a zatim u Postavkama uključite <strong>Zahtijevaj SMB šifriranje</strong> kako biste svaki prijenos zaštitili <strong>SMB3 šifriranjem (AES)</strong>, tako da nitko drugi na istoj mreži ne može čitati vaše datoteke. Šifrirane veze ne mogu biti anonimne, pa su prijava i lozinka obavezni, a potreban vam je i klijent koji podržava SMB3 - Finder na modernom Macu ili Windows 10 i noviji.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Kako da strujam na svoj TV?" closed="true" %}}
+{{% ls-details title="Kako da strujam na svoj TV?" closed="true" %}}
 Provjerite jesu li vaš TV ili medijski reproduktor i vaš uređaj na istoj Wi-Fi mreži, a zatim dodirnite Start u Everdisku s podijeljenim fotografijama, videozapisima ili glazbom.<br><br>
 
 Vaš će se uređaj sam pojaviti na popisu medijskih poslužitelja na TV-u, zajedno s pregledom sličica. Otvorite ga na TV-u i uživajte u svojoj biblioteci na velikom ekranu - bez kabela i dodatnih aplikacija.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Kako da otvorim svoje datoteke u web pregledniku?" closed="true" %}}
+{{% ls-details title="Kako da otvorim svoje datoteke u web pregledniku?" closed="true" %}}
 Dodirnite Start i Everdisk vam daje jednostavnu web adresu za HTTP poslužitelj.<br><br>
 
 Podijelite tu poveznicu s bilo kime na istoj mreži. Otvore je u bilo kojem web pregledniku kako bi pregledavali vaše datoteke u urednoj mreži ili popisu, gledali fotografije u galeriji preko cijelog zaslona, slušali glazbu u ugrađenom reproduktoru i preuzeli bilo što. Nema ničega za instalirati na njihovoj strani, što je čini najbržim načinom da predate datoteke drugom telefonu ili računalu.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Radi li Everdisk bez Wi-Fi?" closed="true" %}}
+{{% ls-details title="Radi li Everdisk bez Wi-Fi?" closed="true" %}}
 Da. Povežite uređaj s Macom istim USB kabelom kojim ga punite i datoteke se prenose izravno kroz kabel, brže nego putem Wi-Fi.<br><br>
 
 Budući da ne ovisi o bežičnoj mreži, ovo nastavlja raditi u avionu, u hotelu ili na bilo kojoj zaključanoj ili javnoj mreži gdje je Wi-Fi dijeljenje blokirano.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="S čime se sve mogu povezati putem Everdiska?" closed="true" %}}
+{{% ls-details title="S čime se sve mogu povezati putem Everdiska?" closed="true" %}}
 Everdisk je i klijent za druge uređaje na vašoj mreži. Možete pronaći i povezati se s <strong>DLNA</strong>, <strong>WebDAV</strong>, <strong>FTP</strong>, <strong>SFTP</strong> i <strong>SMB</strong> poslužiteljima, uključujući Macove, PC-e s Windowsima, Linux strojeve, NAS uređaje i medijske poslužitelje.<br><br>
 
 Nakon povezivanja možete pregledavati njihove mape, strujati zvuk i video, preuzimati datoteke te stvarati mape, prenositi, preimenovati, premještati ili brisati kad poslužitelj to dopušta.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Mogu li skenirati dokumente i raditi s PDF-ovima?" closed="true" %}}
+{{% ls-details title="Mogu li skenirati dokumente i raditi s PDF-ovima?" closed="true" %}}
 Da. Everdisk može skenirati papirnate dokumente kamerom - automatski pronalazi rubove, izravnava svaku stranicu i sprema ih kao čist višestranični PDF izravno na vašem uređaju.<br><br>
 
 Možete i otvoriti PDF (ili fotografiju) te ih <strong>označiti</strong> izravno u ugrađenom pregledniku - crtati, isticati, dodavati tekst i oblike te dodati potpis prstom - a vaše se promjene spremaju natrag u datoteku.<br><br>
@@ -377,74 +377,74 @@ Uz to, Everdisk uključuje cijeli skup <strong>PDF alata</strong>, koji se otvar
 • <strong>Dopuštenja</strong> - pregledajte što PDF dopušta (ispis, kopiranje i još mnogo toga).<br>
 • <strong>Uređivanje metapodataka</strong> - promijenite ili obrišite naslov, autora, ključne riječi i druge podatke o dokumentu.<br>
 • <strong>Spljoštavanje</strong> - upecite bilješke i unose u obrasce u stranicu tako da se više ne mogu mijenjati.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Je li Everdisk privatan i siguran?" closed="true" %}}
+{{% ls-details title="Je li Everdisk privatan i siguran?" closed="true" %}}
 Sve ostaje na vašoj lokalnoj mreži i nikada ne dodiruje internet, pa vaše datoteke nikada ne napuštaju dom. Nema računa ni oblaka u sredini.<br><br>
 
 Pristup možete zaštititi prijavom i lozinkom pa povezani uređaji moraju unijeti iste podatke prije nego što vide vaše datoteke, a jednim dodirom možete blokirati bilo koji uređaj na vašoj mreži. Za najbolju privatnost, uključite dijeljenje samo dok ste povezani na Wi-Fi mrežu koju poznajete i kojoj vjerujete.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Što mogu raditi s upraviteljem datoteka?" closed="true" %}}
+{{% ls-details title="Što mogu raditi s upraviteljem datoteka?" closed="true" %}}
 Everdisk uključuje potpuni upravitelj datoteka za sve na vašem uređaju.<br><br>
 
 Možete pregledavati u popisu ili mreži, stvarati mape, preimenovati, premještati, kopirati, zip i unzip te brisati. Možete i povezati mape s bilo kojeg mjesta na uređaju i raditi s njima izravno u aplikaciji, a zatim ih dijeliti putem mreže uz sve ostalo.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Mogu li reproducirati glazbu unutar aplikacije?" closed="true" %}}
+{{% ls-details title="Mogu li reproducirati glazbu unutar aplikacije?" closed="true" %}}
 Da. Dodirnite bilo koju audio datoteku i ona se reproducira u mini reproduktoru koji ostaje na dnu zaslona dok nastavljate pregledavati.<br><br>
 
 Mini reproduktor ima potpun red čekanja s nasumičnom reprodukcijom i ponavljanjem (isključeno, sve ili jedno) te kontrole na zaključanom zaslonu i medijskim tipkama koje prikazuju stvarni naslov, izvođača i album. Dodirnite ili prevucite prema gore da otvorite cijeli reproduktor, a prevucite prema dolje da ga smanjite dok se zvuk nastavlja reproducirati. Dodir jedne pjesme u mapi reproducira cijelu mapu kao red čekanja.<br><br>
 
 Zvuk se reproducira iz vaših lokalnih datoteka, povezanih mapa, vaše biblioteke glazbe i poslužitelja s kojima se povezujete na kartici Uređaji.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Mogu li gledati videozapise u aplikaciji?" closed="true" %}}
+{{% ls-details title="Mogu li gledati videozapise u aplikaciji?" closed="true" %}}
 Da. Dodirnite video da ga reproducirate preko cijelog zaslona. Everdisk koristi ugrađeni sistemski video reproduktor, pa dobivate poznate kontrole, uključujući AirPlay, Picture in Picture i brzinu reprodukcije.<br><br>
 
 Videozapisi se reproduciraju iz vaših lokalnih datoteka i povezanih mapa ili se strujaju izravno s uređaja s kojim se povežete na kartici Uređaji, pa ne morate prvo preuzeti cijelu datoteku.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Kako da pregledavam svoje fotografije?" closed="true" %}}
+{{% ls-details title="Kako da pregledavam svoje fotografije?" closed="true" %}}
 Otvorite karticu Dokumenti i prebacite se na način Fotografije za pregledavanje svojih fotografija i videozapisa. Dodirnite fotografiju da je otvorite preko cijelog zaslona, gdje možete zumirati, prelaziti između fotografija i dijeliti.<br><br>
 
 Vaše fotografije prikazuju i prave sličice pregleda na TV-u putem DLNA i u web pregledniku, gdje se otvaraju u galeriji preko cijelog zaslona s prevlačenjem, zumiranjem uz štipanje i dijaprojekcijom. Fotografije i videozapisi koji imaju podatke o lokaciji prikazuju kartu s oznakom na svom zaslonu Informacije.
-{{% /details %}}
+{{% /ls-details %}}
 
 </div>
 
 <div class="hx:mt-6"></div>
 
-{{< hextra/section-headline >}}
+{{< ls-section-headline >}}
   Korisnički vodič
-{{< /hextra/section-headline >}}
+{{< /ls-section-headline >}}
 
 <div class="hx:mt-6"></div>
 
 <div class="hx:w-full">
 
 <div class="hx:w-full hx:mx-auto hx:flex hx:flex-col hx:items-center hx:text-center">
-  {{< hextra/info-paragraph border="false" >}}
+  {{< ls-info-paragraph border="false" >}}
   Ovaj vodič pomoći će vam da izvučete najviše iz Everdiska na svom iPhoneu i iPadu. Naučite kako pretvoriti uređaj u bežični disk, povezati TV, računalo ili preglednik, doći do vlastitih poslužitelja, upravljati i reproducirati datoteke te sve zadržati privatnim na svojoj lokalnoj mreži.
-  {{< /hextra/info-paragraph >}}
+  {{< /ls-info-paragraph >}}
 </div>
 
 {{< cards >}}
-  {{< feature-card icon="play" title="Dijeljenje" subtitle="Dodirnite Start, odaberite što dijeliti i pokrenite svih pet poslužitelja odjednom." link="/docs/guide/everdisk/everdisk-guide-sharing" >}}
+  {{< ls-feature-card icon="play" title="Dijeljenje" subtitle="Dodirnite Start, odaberite što dijeliti i pokrenite svih pet poslužitelja odjednom." link="/docs/guide/everdisk/everdisk-guide-sharing" >}}
 
-  {{< feature-card icon="desktop-computer" title="Povežite svoje uređaje" subtitle="Kako se TV, Mac ili PC, preglednik, drugi telefon ili USB kabel povezuju s vašim datotekama." link="/docs/guide/everdisk/everdisk-guide-connect" >}}
+  {{< ls-feature-card icon="desktop-computer" title="Povežite svoje uređaje" subtitle="Kako se TV, Mac ili PC, preglednik, drugi telefon ili USB kabel povezuju s vašim datotekama." link="/docs/guide/everdisk/everdisk-guide-connect" >}}
 
-  {{< feature-card icon="server" title="Povezivanje s poslužiteljima" subtitle="Dođite do DLNA, WebDAV, FTP, SFTP i SMB poslužitelja i NAS diskova za pregledavanje, strujanje i preuzimanje." link="/docs/guide/everdisk/everdisk-guide-devices" >}}
+  {{< ls-feature-card icon="server" title="Povezivanje s poslužiteljima" subtitle="Dođite do DLNA, WebDAV, FTP, SFTP i SMB poslužitelja i NAS diskova za pregledavanje, strujanje i preuzimanje." link="/docs/guide/everdisk/everdisk-guide-devices" >}}
 
-  {{< feature-card icon="folder" title="Datoteke i dokumenti" subtitle="Pregledavajte, organizirajte, zip i unzip, povezujte vanjske mape i skenirajte dokumente u PDF." link="/docs/guide/everdisk/everdisk-guide-files" >}}
+  {{< ls-feature-card icon="folder" title="Datoteke i dokumenti" subtitle="Pregledavajte, organizirajte, zip i unzip, povezujte vanjske mape i skenirajte dokumente u PDF." link="/docs/guide/everdisk/everdisk-guide-files" >}}
 
-  {{< feature-card icon="music-note" title="Fotografije, glazba i video" subtitle="Dijelite cijelu biblioteku, reproducirajte zvuk u mini reproduktoru i gledajte video preko cijelog zaslona." link="/docs/guide/everdisk/everdisk-guide-media" >}}
+  {{< ls-feature-card icon="music-note" title="Fotografije, glazba i video" subtitle="Dijelite cijelu biblioteku, reproducirajte zvuk u mini reproduktoru i gledajte video preko cijelog zaslona." link="/docs/guide/everdisk/everdisk-guide-media" >}}
 
-  {{< feature-card icon="lock-closed" title="Pristup i privatnost" subtitle="Dodajte lozinku, kontrolirajte uređivanje, blokirajte uređaje i sve zadržite na svojoj mreži." link="/docs/guide/everdisk/everdisk-guide-access" >}}
+  {{< ls-feature-card icon="lock-closed" title="Pristup i privatnost" subtitle="Dodajte lozinku, kontrolirajte uređivanje, blokirajte uređaje i sve zadržite na svojoj mreži." link="/docs/guide/everdisk/everdisk-guide-access" >}}
 
-  {{< feature-card icon="adjustments" title="Postavke" subtitle="Svaka postavka objašnjena, od profila uređaja i portova do kvalitete i prijenosa." link="/docs/guide/everdisk/everdisk-guide-settings" >}}
+  {{< ls-feature-card icon="adjustments" title="Postavke" subtitle="Svaka postavka objašnjena, od profila uređaja i portova do kvalitete i prijenosa." link="/docs/guide/everdisk/everdisk-guide-settings" >}}
 
-  {{< feature-card icon="question-mark-circle" title="Česta pitanja" subtitle="Brzi odgovori na uobičajena pitanja i stvarne situacije." link="/docs/faq/everdisk" >}}
+  {{< ls-feature-card icon="question-mark-circle" title="Česta pitanja" subtitle="Brzi odgovori na uobičajena pitanja i stvarne situacije." link="/docs/faq/everdisk" >}}
 
 {{< /cards >}}
 

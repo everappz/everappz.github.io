@@ -28,19 +28,19 @@ Deze handleiding legt elk onderdeel van de app stap voor stap uit. Kies hieronde
 
 
 {{< cards >}}
-  {{< card icon="play" title="Delen" subtitle="Tik op Start, kies wat je wilt delen en draai alle vijf servers tegelijk. Leer het Delen-scherm van A tot Z kennen." link="/docs/guide/everdisk/everdisk-guide-sharing" >}}
+  {{< ls-card icon="play" title="Delen" subtitle="Tik op Start, kies wat je wilt delen en draai alle vijf servers tegelijk. Leer het Delen-scherm van A tot Z kennen." link="/docs/guide/everdisk/everdisk-guide-sharing" >}}
 
-  {{< card icon="desktop-computer" title="Je apparaten verbinden" subtitle="Hoe een tv, een Mac of pc, een webbrowser, een andere telefoon of een USB-kabel verbinding maakt met je gedeelde bestanden." link="/docs/guide/everdisk/everdisk-guide-connect" >}}
+  {{< ls-card icon="desktop-computer" title="Je apparaten verbinden" subtitle="Hoe een tv, een Mac of pc, een webbrowser, een andere telefoon of een USB-kabel verbinding maakt met je gedeelde bestanden." link="/docs/guide/everdisk/everdisk-guide-connect" >}}
 
-  {{< card icon="server" title="Verbinden met servers" subtitle="Bereik andere DLNA-, WebDAV-, FTP-, SFTP- en SMB-servers en NAS-schijven op je netwerk om te doorbladeren, te streamen en te downloaden." link="/docs/guide/everdisk/everdisk-guide-devices" >}}
+  {{< ls-card icon="server" title="Verbinden met servers" subtitle="Bereik andere DLNA-, WebDAV-, FTP-, SFTP- en SMB-servers en NAS-schijven op je netwerk om te doorbladeren, te streamen en te downloaden." link="/docs/guide/everdisk/everdisk-guide-devices" >}}
 
-  {{< card icon="folder" title="Bestanden en documenten" subtitle="Doorbladeren, mappen maken, hernoemen, verplaatsen, kopiëren en verwijderen, in- en uitpakken, externe mappen koppelen en naar PDF scannen." link="/docs/guide/everdisk/everdisk-guide-files" >}}
+  {{< ls-card icon="folder" title="Bestanden en documenten" subtitle="Doorbladeren, mappen maken, hernoemen, verplaatsen, kopiëren en verwijderen, in- en uitpakken, externe mappen koppelen en naar PDF scannen." link="/docs/guide/everdisk/everdisk-guide-files" >}}
 
-  {{< card icon="music-note" title="Foto's, muziek en video" subtitle="Deel je volledige foto- en muziekbibliotheek, speel audio af in de miniplayer en bekijk video op volledig scherm." link="/docs/guide/everdisk/everdisk-guide-media" >}}
+  {{< ls-card icon="music-note" title="Foto's, muziek en video" subtitle="Deel je volledige foto- en muziekbibliotheek, speel audio af in de miniplayer en bekijk video op volledig scherm." link="/docs/guide/everdisk/everdisk-guide-media" >}}
 
-  {{< card icon="lock-closed" title="Toegang en privacy" subtitle="Bescherm delen met een login en wachtwoord, sta bewerken toe of blokkeer het, blokkeer apparaten en houd alles lokaal." link="/docs/guide/everdisk/everdisk-guide-access" >}}
+  {{< ls-card icon="lock-closed" title="Toegang en privacy" subtitle="Bescherm delen met een login en wachtwoord, sta bewerken toe of blokkeer het, blokkeer apparaten en houd alles lokaal." link="/docs/guide/everdisk/everdisk-guide-access" >}}
 
-  {{< card icon="adjustments" title="Instellingen" subtitle="Elke instelling uitgelegd: apparaatprofiel, verbindingen, foto- en videokwaliteit, poorten, overdrachten en meer." link="/docs/guide/everdisk/everdisk-guide-settings" >}}
+  {{< ls-card icon="adjustments" title="Instellingen" subtitle="Elke instelling uitgelegd: apparaatprofiel, verbindingen, foto- en videokwaliteit, poorten, overdrachten en meer." link="/docs/guide/everdisk/everdisk-guide-settings" >}}
 
-  {{< card icon="question-mark-circle" title="Veelgestelde vragen" subtitle="Snelle antwoorden op de meest gestelde vragen en praktijksituaties." link="/docs/faq/everdisk" >}}
+  {{< ls-card icon="question-mark-circle" title="Veelgestelde vragen" subtitle="Snelle antwoorden op de meest gestelde vragen en praktijksituaties." link="/docs/faq/everdisk" >}}
 {{< /cards >}}

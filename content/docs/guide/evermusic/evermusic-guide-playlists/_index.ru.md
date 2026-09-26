@@ -17,7 +17,7 @@ readingTime: 6
 Раздел Плейлисты предоставляет инструменты для организации треков в списки. Он включает вид контента с показом всех созданных плейлистов, кнопку «...» на панели навигации с различными действиями для плейлистов и панель инструментов навигации с кнопками «Поиск», «Воспроизвести всё» и «Перемешать». Кроме того, у каждого отдельного плейлиста есть кнопка «...» рядом с названием, предлагающая ряд действий, специфичных для этого плейлиста.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Экран плейлистов Evermusic" image="/docs/guide/evermusic/evermusic-guide-playlists/img/playlists-main.webp" >}}
+  {{< ls-card title="" subtitle="Экран плейлистов Evermusic" image="/docs/guide/evermusic/evermusic-guide-playlists/img/playlists-main.webp" >}}
 {{< /cards >}}
 
 ## Создание плейлиста
@@ -25,7 +25,7 @@ readingTime: 6
 Чтобы создать новый плейлист, нажмите кнопку «+» или кнопку «...» в правом верхнем углу панели навигации, выберите «Новый плейлист» и присвойте имя плейлисту. После именования нажмите «Сохранить».
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Создание нового плейлиста" image="/docs/guide/evermusic/evermusic-guide-playlists/img/playlists-add-new.webp" >}}
+  {{< ls-card title="" subtitle="Создание нового плейлиста" image="/docs/guide/evermusic/evermusic-guide-playlists/img/playlists-add-new.webp" >}}
 {{< /cards >}}
 
 Откроется диалог «Добавить треки», где вы можете выбрать, какие треки добавить в новый плейлист. Треки разделены по типу источника, и у вас есть несколько вариантов:
@@ -42,7 +42,7 @@ readingTime: 6
 В Evermusic мы добавили функцию импорта файлов M3U, поэтому вам не нужно создавать плейлисты вручную.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Импорт плейлиста из источника файлов" image="/docs/guide/evermusic/evermusic-guide-playlists/img/playlists-import-from-files.webp" >}}
+  {{< ls-card title="" subtitle="Импорт плейлиста из источника файлов" image="/docs/guide/evermusic/evermusic-guide-playlists/img/playlists-import-from-files.webp" >}}
 {{< /cards >}}
 
 Сначала перейдите в раздел «Плейлисты». Затем нажмите кнопку «Ещё» в правом верхнем углу. В появившемся меню выберите опцию «Импортировать плейлист».
@@ -62,7 +62,7 @@ readingTime: 6
 При открытии плейлиста появляется «Экран деталей плейлиста». На этом экране вы найдёте кнопку «...» в правом верхнем углу с опциями плейлиста и три кнопки под изображением обложки: «Поиск», «Продолжить воспроизведение», «Воспроизвести всё» и «Перемешать». Кроме того, есть флажок «Офлайн-режим».
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Экран деталей плейлиста" image="/docs/guide/evermusic/evermusic-guide-playlists/img/playlists-detail-screen.webp" >}}
+  {{< ls-card title="" subtitle="Экран деталей плейлиста" image="/docs/guide/evermusic/evermusic-guide-playlists/img/playlists-detail-screen.webp" >}}
 {{< /cards >}}
 
 - **Продолжить воспроизведение**: Восстановить позицию воспроизведения для этого плейлиста.
@@ -87,7 +87,7 @@ readingTime: 6
 - **Удалить плейлист:** Удалить плейлист из музыкальной библиотеки. Обратите внимание, что это действие нельзя отменить.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Меню дополнительных действий для плейлиста" image="/docs/guide/evermusic/evermusic-guide-playlists/img/playlists-more-actions-for-separate-playlist.webp" >}}
+  {{< ls-card title="" subtitle="Меню дополнительных действий для плейлиста" image="/docs/guide/evermusic/evermusic-guide-playlists/img/playlists-more-actions-for-separate-playlist.webp" >}}
 {{< /cards >}}
 
 ## Дополнительные действия для плейлиста на экране деталей плейлиста
@@ -113,7 +113,7 @@ readingTime: 6
 Чтобы изменить порядок треков в плейлисте, нажмите кнопку «...» в правом верхнем углу и выберите «Выбрать», чтобы войти в режим выбора. Используйте элемент управления порядком и жесты перетаскивания рядом с каждым треком для перемещения вверх или вниз. Нажатие на элемент управления порядком переместит трек в начало списка. Чтобы выйти из режима выбора и применить изменения, нажмите «Готово».
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Изменение порядка треков в плейлисте" image="/docs/guide/evermusic/evermusic-guide-playlists/img/playlists-change-songs-order.webp" >}}
+  {{< ls-card title="" subtitle="Изменение порядка треков в плейлисте" image="/docs/guide/evermusic/evermusic-guide-playlists/img/playlists-change-songs-order.webp" >}}
 {{< /cards >}}
 
 ## Изменение обложки плейлиста
@@ -129,7 +129,7 @@ readingTime: 6
 Откройте плейлист, нажмите кнопку «...» в правом верхнем углу и выберите «Выбрать», чтобы войти в режим выбора. Выберите треки, которые хотите удалить, и нажмите кнопку «Удалить из плейлиста» в нижней части экрана. Подтвердите изменения, нажав «Готово».
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Режим выбора в плейлисте" image="/docs/guide/evermusic/evermusic-guide-playlists/img/playlists-selection-mode-in-playlist-details-screen.webp" >}}
+  {{< ls-card title="" subtitle="Режим выбора в плейлисте" image="/docs/guide/evermusic/evermusic-guide-playlists/img/playlists-selection-mode-in-playlist-details-screen.webp" >}}
 {{< /cards >}}
 
 ## Параметры трека
@@ -137,7 +137,7 @@ readingTime: 6
 У каждого трека в плейлисте есть список действий, доступный нажатием кнопки «...». Если не видите все действия, прокрутите вниз для их просмотра. Вы можете удалить трек из плейлиста, загрузить его, редактировать аудиотеги и многое другое.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Меню параметров трека в плейлисте" image="/docs/guide/evermusic/evermusic-guide-playlists/img/playlists-track-options.webp" >}}
+  {{< ls-card title="" subtitle="Меню параметров трека в плейлисте" image="/docs/guide/evermusic/evermusic-guide-playlists/img/playlists-track-options.webp" >}}
 {{< /cards >}}
 
 - **Следующий в очереди:** Добавляет трек в начало очереди плеера.

@@ -7,7 +7,7 @@ tags: ["cloud", "streaming", "computer", "mp3", "file", "downloader", "manager",
 keywords: ["بث الموسيقى من Mac إلى iPhone", "بث صوتي SMB iOS", "إعداد Evermusic SMB", "توصيل موسيقى PC بـ iPhone", "مشاركة موسيقى Mac iOS", "بث ملفات SMB Windows", "وصول Evermusic إلى مجلدات PC"]
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **ملخص:** استخدم تطبيق Evermusic لـ iPhone أو iPad لبث الموسيقى من Mac أو Windows PC عبر شبكتك المحلية باستخدام SMB. لا حاجة للمزامنة أو النسخ -- فقط قم بتمكين مشاركة الملفات على جهاز الكمبيوتر، واتصل في التطبيق، وشغّل الموسيقى. الإعداد يستغرق أقل من 5 دقائق.
@@ -102,26 +102,26 @@ keywords: ["بث الموسيقى من Mac إلى iPhone", "بث صوتي SMB iO
 
 ## الأسئلة الشائعة
 
-{{% details title="هل يمكنني بث الموسيقى من PC إلى iPhone بدون iTunes؟" closed="true" %}}
+{{% ls-details title="هل يمكنني بث الموسيقى من PC إلى iPhone بدون iTunes؟" closed="true" %}}
 نعم. يتصل Evermusic بجهاز PC عبر SMB على شبكة Wi-Fi المحلية. لا حاجة لـ iTunes. فقط قم بتمكين مشاركة الملفات على PC واتصل في التطبيق.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="هل يستخدم بث SMB بيانات الهاتف المحمول؟" closed="true" %}}
+{{% ls-details title="هل يستخدم بث SMB بيانات الهاتف المحمول؟" closed="true" %}}
 لا. يعمل SMB عبر شبكة Wi-Fi المحلية. لا حاجة لاتصال بالإنترنت أو بيانات الهاتف المحمول.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="ما هي تنسيقات الصوت التي يدعمها Evermusic عبر SMB؟" closed="true" %}}
+{{% ls-details title="ما هي تنسيقات الصوت التي يدعمها Evermusic عبر SMB؟" closed="true" %}}
 يدعم Evermusic تنسيقات MP3 وFLAC وAAC وWAV وAIFF وOGG وWMA وALAC وتنسيقات صوتية شائعة أخرى. يتم تشغيل الملفات مباشرة من مشاركة SMB.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="هل يمكنني بث الموسيقى من NAS إلى iPhone؟" closed="true" %}}
+{{% ls-details title="هل يمكنني بث الموسيقى من NAS إلى iPhone؟" closed="true" %}}
 نعم. إذا كان NAS الخاص بك يدعم SMB (معظمها يدعمه، بما في ذلك Synology وQNAP وWD My Cloud)، يمكنك الاتصال به باستخدام نفس الخطوات في هذا الدليل.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="هل أحتاج إلى إبقاء جهاز الكمبيوتر مشغلاً أثناء البث؟" closed="true" %}}
+{{% ls-details title="هل أحتاج إلى إبقاء جهاز الكمبيوتر مشغلاً أثناء البث؟" closed="true" %}}
 نعم. بما أن Evermusic يبث الملفات مباشرة من جهاز الكمبيوتر، يجب أن يكون مشغلاً ومتصلاً بنفس الشبكة التي يتصل بها iPhone.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="هل هناك حد لحجم الملف لبث SMB؟" closed="true" %}}
+{{% ls-details title="هل هناك حد لحجم الملف لبث SMB؟" closed="true" %}}
 لا. يبث Evermusic ملفات بأي حجم عبر SMB. تعمل الملفات الكبيرة غير المضغوطة (FLAC وWAV) بدون مشاكل.
-{{% /details %}}
+{{% /ls-details %}}

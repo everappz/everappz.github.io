@@ -7,7 +7,7 @@ tags: ["música", "áudio", "reprodutor", "offline", "modo", "download", "pasta"
 keywords: ["música offline iPhone", "sincronização de música na nuvem", "Evermusic offline", "Flacbox sincronizar música", "reproduzir música sem internet", "baixar áudio da nuvem", "reprodução de arquivos locais iOS"]
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **TL;DR:** Evermusic e Flacbox permitem que você baixe música do armazenamento em nuvem (Google Drive, Dropbox, OneDrive e mais) para o seu iPhone ou iPad para reprodução offline. Você pode usar três métodos: download direto, modo offline com sincronização automática ou cache do reprodutor de áudio. Este guia aborda as três abordagens passo a passo.
@@ -140,26 +140,26 @@ Seguindo esses passos detalhados, você pode gerenciar e reproduzir facilmente s
 
 ## Perguntas frequentes
 
-{{% details title="Quais serviços de nuvem o Evermusic e o Flacbox suportam?" closed="true" %}}
+{{% ls-details title="Quais serviços de nuvem o Evermusic e o Flacbox suportam?" closed="true" %}}
 Ambos os aplicativos suportam Google Drive, Dropbox, OneDrive, Box, MEGA, Yandex.Disk e outros grandes provedores de armazenamento em nuvem. Você pode conectar vários serviços ao mesmo tempo.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Posso sincronizar música automaticamente do armazenamento em nuvem para meu iPhone?" closed="true" %}}
+{{% ls-details title="Posso sincronizar música automaticamente do armazenamento em nuvem para meu iPhone?" closed="true" %}}
 Sim. Ative o Modo offline para qualquer pasta, lista de reprodução, álbum ou artista. O aplicativo realiza uma sincronização unidirecional da nuvem para o dispositivo em um intervalo configurável (padrão: uma vez por dia).
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="O modo offline usa muito armazenamento no meu dispositivo?" closed="true" %}}
+{{% ls-details title="O modo offline usa muito armazenamento no meu dispositivo?" closed="true" %}}
 O uso de armazenamento depende do tamanho da sua coleção de música e dos formatos de arquivo. Você pode controlar isso escolhendo pastas específicas para sincronizar, definindo limites de tamanho de cache e monitorando o armazenamento nas configurações do aplicativo.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Quais formatos de áudio são suportados para reprodução offline?" closed="true" %}}
+{{% ls-details title="Quais formatos de áudio são suportados para reprodução offline?" closed="true" %}}
 Evermusic e Flacbox suportam MP3, FLAC, AAC, ALAC, WAV, AIFF, OGG, WMA e muitos outros formatos. Flacbox é otimizado para formatos sem perda como FLAC e ALAC.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Minha música offline continuará tocando se eu fechar o aplicativo?" closed="true" %}}
+{{% ls-details title="Minha música offline continuará tocando se eu fechar o aplicativo?" closed="true" %}}
 Sim. Os arquivos baixados são armazenados localmente no seu dispositivo e reproduzidos pelo reprodutor de áudio do aplicativo, independentemente da conectividade com a internet. A reprodução em segundo plano é totalmente suportada.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Como libero espaço ocupado pela música offline?" closed="true" %}}
+{{% ls-details title="Como libero espaço ocupado pela música offline?" closed="true" %}}
 Desative o Modo offline para pastas específicas em Configurações > Gerenciador de arquivos > Pastas offline sincronizadas. Isso remove as cópias locais do seu dispositivo. Você também pode limpar o cache do reprodutor de áudio ou excluir arquivos baixados manualmente.
-{{% /details %}}
+{{% /ls-details %}}

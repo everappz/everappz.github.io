@@ -21,7 +21,7 @@ readingTime: 16
 Asetukset-ruutu on Flacboxin hallintakeskus. Täältä voit päivittää Premiumiin, konfiguroida äänimoottoria (järjestelmäkoodekit tai FFmpeg), hallita musiikkikirjastoasi, asettaa tiedostonhallinnan, mukauttaa äänitunnisteiden muokkaustyökalua, ottaa käyttöön aloitusnäytön widgettejä ja Apple CarPlayta, varmuuskopioida tietosi sekä käyttää ohjeita ja oikeudellisia tietoja. Osiot on ryhmitelty otsikoiden alle: Ostokset ja Päivitykset, Sovelluksen Asetukset, Ohje ja Juridiikka ja Yksityisyys.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacboxin Asetusten Pääruutu" image="/docs/guide/flacbox/img/settings-main.webp" >}}
+  {{< ls-card title="" subtitle="Flacboxin Asetusten Pääruutu" image="/docs/guide/flacbox/img/settings-main.webp" >}}
 {{< /cards >}}
 
 ## Päivitä Premiumiin
@@ -29,13 +29,13 @@ Asetukset-ruutu on Flacboxin hallintakeskus. Täältä voit päivittää Premium
 Päivitä sovellus Premium-versioon poistaaksesi kaikki rajoitukset. Sovelluksen ilmaisversio tarjoaa kertaluontoisen eliniän sisäisen oston ja kaksi tilausvaihtoehtoa (1 kuukausi ja 1 vuosi) kaikkien rajoitusten poistamiseksi ja Premiumiin päivittämiseksi.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox Päivitä Premiumiin" image="/docs/guide/flacbox/img/upgrade-to-premium.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox Päivitä Premiumiin" image="/docs/guide/flacbox/img/upgrade-to-premium.webp" >}}
 {{< /cards >}}
 
 **Perhejako** on käytössä kaikille ostoille ja suunnitelmille, joten voit jakaa Premium-version jopa viiden perheenjäsenesi kanssa ilman lisäkustannuksia.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox Valitse Premium-suunnitelma" image="/docs/guide/flacbox/img/select-premium-plan.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox Valitse Premium-suunnitelma" image="/docs/guide/flacbox/img/select-premium-plan.webp" >}}
 {{< /cards >}}
 
 Voit lukea lisää ostoista ja Premium-versiosta täältä: [Mikä on ero Flacboxin ja Flacbox Premiumin välillä](/docs/faq/flacbox/what-is-the-difference-between-flacbox-and-flacbox-premium/).

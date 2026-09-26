@@ -7,7 +7,7 @@ tags: ["evermusic", "müzik", "bulut", "iphone", "depolama", "nas", "dinleme", "
 readingTime: 4
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **Özet:** WD My Cloud Home NAS'ınızdan doğrudan iPhone'unuza müzik akışı yapmak veya indirmek için Evermusic'i kullanın. 8 TB'a kadar müziğe erişin, çevrimdışı çalın ve yerleşik ekolayzırı kullanın -- hepsi aylık abonelik olmadan.
@@ -87,26 +87,26 @@ Bu kılavuzu incelediğiniz için teşekkürler -- şimdi Evermusic ve WD My Clo
 
 ## FAQ
 
-{{% details title="Evermusic, WD My Cloud Home ile ücretsiz kullanılabilir mi?" closed="true" %}}
+{{% ls-details title="Evermusic, WD My Cloud Home ile ücretsiz kullanılabilir mi?" closed="true" %}}
 Evermusic, ekolayzır, bulut akışı ve çevrimdışı çalma dahil temel özelliklerle ücretsiz olarak indirilebilir. Ücretsiz sürüm 3 bulut bağlantısına kadar destekler. Premium'a yükseltme, bulut hesapları, çalma listeleri ve çevrimdışı klasörlerdeki sınırları kaldırır.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="NAS'ımdan çevrimdışı müzik dinleyebilir miyim?" closed="true" %}}
+{{% ls-details title="NAS'ımdan çevrimdışı müzik dinleyebilir miyim?" closed="true" %}}
 Evet. Evermusic, çevrimdışı çalma için WD My Cloud Home'dan iPhone'unuza parça indirmenize olanak tanır. Bu, seyahat ederken veya sınırlı internet erişiminiz olduğunda kullanışlıdır.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Evermusic, WD My Cloud'dan kayıpsız ses formatlarını destekliyor mu?" closed="true" %}}
+{{% ls-details title="Evermusic, WD My Cloud'dan kayıpsız ses formatlarını destekliyor mu?" closed="true" %}}
 Evet. Evermusic, FLAC, ALAC, WAV, AIFF ve diğer kayıpsız formatları destekler. NAS'ınızdan format dönüştürme olmadan yüksek kaliteli ses dosyalarını yayınlayabilir veya indirebilirsiniz.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="WD MyCloud EX2 Ultra'yı Evermusic ile kullanabilir miyim?" closed="true" %}}
+{{% ls-details title="WD MyCloud EX2 Ultra'yı Evermusic ile kullanabilir miyim?" closed="true" %}}
 Evet, bir geçici çözümle. My Cloud Home seçeneği üzerinden bağlanın, Evermusic'in dosya yöneticisini kullanarak bir klasör oluşturun ve müzik dosyalarınızı oraya yükleyin. Korumalı alan modu nedeniyle, yalnızca uygulama tarafından oluşturulan klasörlerdeki dosyalara erişilebilir.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="WD My Cloud Home'da ne kadar müzik depolayabilirim?" closed="true" %}}
+{{% ls-details title="WD My Cloud Home'da ne kadar müzik depolayabilirim?" closed="true" %}}
 WD My Cloud Home, 8 TB'a kadar depolama destekler. Tipik bit hızlarında, bu büyük kayıpsız müzik kitaplıkları dahil yüz binlerce şarkı barındırabilir.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Evermusic ve WD My Cloud Home arasındaki bağlantı güvenli mi?" closed="true" %}}
+{{% ls-details title="Evermusic ve WD My Cloud Home arasındaki bağlantı güvenli mi?" closed="true" %}}
 Evet. Evermusic, NAS'ınıza erişmek için güvenli bir bağlantı ve Western Digital'in resmi API'sini kullanır. Verileriniz ve giriş kimlik bilgileriniz iletim sırasında korunur.
-{{% /details %}}
+{{% /ls-details %}}

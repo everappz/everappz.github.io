@@ -17,7 +17,7 @@ keywords: [
 readingTime: 3
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **Tiivistelmä:** Yhdistä iPhonesi tai iPadisi Maciin (tai PC:hen) USB-kaapelilla. macOS Catalina ja uudemmissa käytä Finderiä. Vanhemmissa macOS-versioissa tai Windowsissa käytä iTunesia. Vedä tiedostot sovellukseen, kuten Evermusic, Flacbox tai Evertag, siirtääksesi ne välittömästi.
@@ -117,26 +117,26 @@ iTunesin tiedostojen jakamisen avulla voit helposti hallita tiedostoja tietokone
 
 ## Usein kysytyt kysymykset
 
-{{% details title="Tarvitsenko internet-yhteyden tiedostojen siirtämiseen USB:n kautta?" closed="true" %}}
+{{% ls-details title="Tarvitsenko internet-yhteyden tiedostojen siirtämiseen USB:n kautta?" closed="true" %}}
 Ei. Tiedostojen jakaminen toimii kokonaan USB-kaapeliyhteyden kautta tietokoneen ja iOS-laitteen välillä. Internetiä ei tarvita.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Mitä tiedostomuotoja voin siirtää Evermusiciin tai Flacboxiin?" closed="true" %}}
+{{% ls-details title="Mitä tiedostomuotoja voin siirtää Evermusiciin tai Flacboxiin?" closed="true" %}}
 Molemmat sovellukset tukevat laajaa valikoimaa äänimuotoja, mukaan lukien MP3, FLAC, AAC, WAV, AIFF, OGG, WMA ja muita. Tarkista sovelluksen dokumentaatio täydellisen luettelon tuetuista muodoista.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Miksi en näe Tiedostot-välilehteä Finderissä?" closed="true" %}}
+{{% ls-details title="Miksi en näe Tiedostot-välilehteä Finderissä?" closed="true" %}}
 Tiedostot-välilehti näkyy vain, kun laitteessasi on asennettuna vähintään yksi sovellus, joka tukee tiedostojen jakamista. Asenna Evermusic, Flacbox tai Evertag ja yhdistä sitten laitteesi uudelleen.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Voinko siirtää tiedostoja langattomasti USB-kaapelin sijaan?" closed="true" %}}
+{{% ls-details title="Voinko siirtää tiedostoja langattomasti USB-kaapelin sijaan?" closed="true" %}}
 Kyllä. Evermusic ja Flacbox tukevat myös pilvipalveluita ja Wi-Fi-siirtoa. USB-tiedostojen jakaminen Finderin tai iTunesin kautta on kuitenkin yleensä nopeampaa suurille musiikkikirjastoille.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Korvaavatko Finderin kautta siirretyt tiedostot olemassa olevat tiedostot laitteellani?" closed="true" %}}
+{{% ls-details title="Korvaavatko Finderin kautta siirretyt tiedostot olemassa olevat tiedostot laitteellani?" closed="true" %}}
 Ei. Uudet tiedostot lisätään olemassa olevien rinnalle. Jos samanniminen tiedosto on jo olemassa, macOS voi nimetä uuden tiedoston automaattisesti uudelleen.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Toimiiko tämä menetelmä Windows-tietokoneilla?" closed="true" %}}
+{{% ls-details title="Toimiiko tämä menetelmä Windows-tietokoneilla?" closed="true" %}}
 Kyllä. Windowsissa käytä iTunesia tiedostojen siirtämiseen. Prosessi on sama kuin yllä iTunesin osiossa kuvattu. Asenna iTunes Microsoft Storesta tai Applen verkkosivustolta.
-{{% /details %}}
+{{% /ls-details %}}

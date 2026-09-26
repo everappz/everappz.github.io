@@ -4,7 +4,9 @@ title: '문서'
 ---
 
 
-{{< lottie src="/images/juicy-json/juicy-girl-and-boy-searching-for-the-right-files.json" width="90%" >}}
+{{< ls-lottie src="/images/juicy-json/juicy-girl-and-boy-searching-for-the-right-files.json" width="90%" >}}
+
+{{< ls-docs-search >}}
 
 이 섹션에는 모든 Everappz 앱에 대한 유용한 문서가 포함되어 있습니다 — 설치 안내, 기능 설명 및 고급 팁을 포함합니다.
 
@@ -13,9 +15,9 @@ title: '문서'
 ## 시작하기
 
 {{< cards >}}
-  {{< card icon="book-open" link="/docs/guide" title="사용자 가이드" >}}
-  {{< card icon="question-mark-circle" link="/docs/faq" title="자주 묻는 질문" >}}
-  {{< card icon="light-bulb" link="/docs/howto" title="사용 방법" >}}
+  {{< ls-card icon="book-open" link="/docs/guide" title="사용자 가이드" >}}
+  {{< ls-card icon="question-mark-circle" link="/docs/faq" title="자주 묻는 질문" >}}
+  {{< ls-card icon="light-bulb" link="/docs/howto" title="사용 방법" >}}
 {{< /cards >}}
 
 - **사용자 가이드**는 앱을 설치하고 구성하며 최대한 활용하는 데 도움을 줍니다.
@@ -31,5 +33,5 @@ title: '문서'
 서비스와 관련된 법적 정책, 데이터 처리 방침 및 사용자 계약은 아래 법적 문서를 참조하세요:
 
 {{< cards >}}
-  {{< card icon="document-text" link="/legal" title="법률 센터" >}}
+  {{< ls-card icon="document-text" link="/legal" title="법률 센터" >}}
 {{< /cards >}}

@@ -7,7 +7,7 @@ tags: ["evermusic", "import", "zoznamy skladieb", "m3u", "cue"]
 readingTime: 3
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **Zhrnutie:** Evermusic a Flacbox podporujú import súborov zoznamov skladieb M3U, M3U8 a CUE z cloudového úložiska, lokálnych súborov aplikácie alebo vášho zariadenia. Prejdite na Prehrávače > Viac > Importovať zoznam skladieb, vyberte zdroj, zvoľte súbor a aplikácia automaticky vytvorí váš zoznam skladieb.
@@ -84,22 +84,22 @@ Okrem toho môžete importovať viacero zoznamov skladieb naraz ťuknutím na tl
 
 ## Často kladené otázky
 
-{{% details title="Aké formáty zoznamov skladieb podporujú Evermusic a Flacbox?" closed="true" %}}
+{{% ls-details title="Aké formáty zoznamov skladieb podporujú Evermusic a Flacbox?" closed="true" %}}
 Obe aplikácie podporujú formáty súborov zoznamov skladieb M3U, M3U8 a CUE. Tieto pokrývajú najbežnejšie štandardy zoznamov skladieb používané hudobnými prehrávačmi a multimediálnym softvérom.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Môžem importovať zoznamy skladieb z cloudového úložiska?" closed="true" %}}
+{{% ls-details title="Môžem importovať zoznamy skladieb z cloudového úložiska?" closed="true" %}}
 Áno. Môžete importovať súbory zoznamov skladieb z akejkoľvek pripojenej cloudovej úložnej služby vrátane Google Drive, Dropbox, OneDrive a serverov WebDAV.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Prečo po importe chýbajú niektoré skladby?" closed="true" %}}
+{{% ls-details title="Prečo po importe chýbajú niektoré skladby?" closed="true" %}}
 Súbor zoznamu skladieb musí obsahovať správne cesty k vašim mediálnym súborom a tieto súbory musia existovať na uvedených umiestneniach vo vašom úložisku. Skontrolujte, či cesty k súborom vo vašom súbore M3U alebo CUE zodpovedajú skutočným umiestneniam súborov.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Môžem importovať viacero zoznamov skladieb naraz?" closed="true" %}}
+{{% ls-details title="Môžem importovať viacero zoznamov skladieb naraz?" closed="true" %}}
 Áno. Použite tlačidlo Viac akcií a vyberte "Importovať zoznamy skladieb z priečinka". Aplikácia prehľadá priečinok a nájde všetky podporované súbory zoznamov skladieb a importuje ich v jednom kroku.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Musím vytvárať zoznamy skladieb manuálne?" closed="true" %}}
+{{% ls-details title="Musím vytvárať zoznamy skladieb manuálne?" closed="true" %}}
 Nie. Funkcia importu eliminuje manuálne vytváranie zoznamov skladieb. Stačí nasmerovať aplikáciu na váš existujúci súbor M3U, M3U8 alebo CUE a automaticky vytvorí zoznam skladieb.
-{{% /details %}}
+{{% /ls-details %}}

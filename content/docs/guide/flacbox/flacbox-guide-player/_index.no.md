@@ -23,7 +23,7 @@ Lydspilleren er appens hovedskjerm der du styrer musikk og de fleste avspillings
 Du kan komme til fullskjermspilleren fra minispillerlinjen. På iPhone sitter minispilleren nederst på hovedskjermen. På iPad og Mac er den på venstre side. For å skjule minispilleren på iPhone, trykk på den én gang og sveip ned. For å lukke fullskjermspilleren fullstendig, trykk på lukkeknappen i nedre høyre hjørne.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox Lydspiller Hovedskjerm" image="/docs/guide/flacbox/img/audio-player-main-screen.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox Lydspiller Hovedskjerm" image="/docs/guide/flacbox/img/audio-player-main-screen.webp" >}}
 {{< /cards >}}
 
 ## Støttede Lydformater
@@ -66,7 +66,7 @@ For AirPlay, se etter **AirPlay**-knappen nederst på spilleren. Trykk på den o
 Flacbox inkluderer en **10-bands equalizer** med iPod-stil-forhåndsinnstillinger. Trykk på Equalizer i volumvisningen, og slå den på i øvre høyre hjørne. Du kan bruke forhåndsinnstillinger som Akustisk og Bassforsterker, eller justere hvert frekvensbånd med glidebryterne. Lag dine egne forhåndsinnstillinger, lagre dem under et hvilket som helst navn, og øk det totale volumet med preamplifikatoren. Vi har mer detaljerte instruksjoner om hvordan du bruker equalizeren [her](/docs/howto/how-to-use-the-audio-equalizer-on-your-iphone-ipad-mac-with-evermusic-and-flacbox).
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox Lydspiller Equalizer" image="/docs/guide/flacbox/img/audio-player-equalizer.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox Lydspiller Equalizer" image="/docs/guide/flacbox/img/audio-player-equalizer.webp" >}}
 {{< /cards >}}
 
 ## Spillermodus Verktøylinje
@@ -82,7 +82,7 @@ For noen spillerstiler er det en dedikert verktøylinje øverst på fullskjermsp
 For å se spillerkøen din, trykk på køknappen på høyre side av gjeldende sang. Hver sang i køen har flere handlinger — trykk på tre prikker for å se dem. For å omorganisere en sang i køen, bruk omorganiserings-indikatoren nær tittelen og dra den til en ny posisjon.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox Avspillingskø" image="/docs/guide/flacbox/img/playback_queue.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox Avspillingskø" image="/docs/guide/flacbox/img/playback_queue.webp" >}}
 {{< /cards >}}
 
 ## Kommentarer / Sangtekster
@@ -98,7 +98,7 @@ For å vise sporkommentarer og innebygde sangtekster, samt LRC-filer, følg diss
 Trykk deretter på spillerkø-knappen nederst på skjermen flere ganger for å bytte fra artwork / kø-visning til kommentarvisning. Rull til høyre på Kommentarer-skjermen for å bytte mellom **Kommentarer**, **Innebygde sangtekster** og **LRC-filen**. Fullstendige instruksjoner er tilgjengelige [her](/docs/howto/how-to-add-and-view-comments-to-your-audio-tracks-on-iphone-ipad-and-mac-with-evermusic-and-flacbox).
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox Sangtekster og Kommentarer Skjerm" image="/docs/guide/flacbox/img/lyrics-screen.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox Sangtekster og Kommentarer Skjerm" image="/docs/guide/flacbox/img/lyrics-screen.webp" >}}
 {{< /cards >}}
 
 ## Alternativer-Meny
@@ -121,7 +121,7 @@ Hver sang i lydspillerkøen har en meny med flere handlinger, tilgjengelig ved �
 De samme alternativene er tilgjengelige for det nå-spillende elementet i lydspillerkøen, som du kan åpne ved å trykke på ikonet **Flere handlinger** nær sporsporertittelen.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox Alternativer for et Element i Avspillingskøen" image="/docs/guide/flacbox/img/options-for-item-in-playback-queue.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox Alternativer for et Element i Avspillingskøen" image="/docs/guide/flacbox/img/options-for-item-in-playback-queue.webp" >}}
 {{< /cards >}}
 
 ## Ytterligere Spillerhandlinger
@@ -143,7 +143,7 @@ Trykk på **Flere handlinger**-knappen "..." på venstre side av den nå-spillen
 - **Hjelp** — finn hjelp og veiledning.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox Lydspiller Flere Handlinger Skjerm" image="/docs/guide/flacbox/img/audio-player-more-actions-screen.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox Lydspiller Flere Handlinger Skjerm" image="/docs/guide/flacbox/img/audio-player-more-actions-screen.webp" >}}
 {{< /cards >}}
 
 ## Lydbokmerker
@@ -161,7 +161,7 @@ For å opprette et nytt bokmerke:
 Redigering av bokmerker for gjeldende spor er enkelt: trykk på Rediger i øvre høyre hjørne for å gå inn i redigeringsmodus. I denne modusen kan du omorganisere bokmerker, slette dem, justere bokmerketid og endre bokmerketitler. Mer detaljerte instruksjoner om lydbokmerker er tilgjengelige [her](/docs/howto/how-to-listen-to-audiobooks-on-iphone-ipad-mac-using-evermusic).
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox Lydbokmerker Skjerm" image="/docs/guide/flacbox/img/audio-bookmarks.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox Lydbokmerker Skjerm" image="/docs/guide/flacbox/img/audio-bookmarks.webp" >}}
 {{< /cards >}}
 
 ## Nylige og Favoritter
@@ -175,7 +175,7 @@ Koble iPhone til bilen via USB eller trådløs Apple CarPlay, og Flacbox vises p
 [Les den fullstendige CarPlay-veiledningen](/docs/howto/how-to-play-your-own-music-on-iphone-using-carplay/).
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox på Apple CarPlay" image="/docs/guide/flacbox/img/carplay-main.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox på Apple CarPlay" image="/docs/guide/flacbox/img/carplay-main.webp" >}}
 {{< /cards >}}
 
 ## Hjemskjerm-Widgets (iPhone & iPad)
@@ -243,7 +243,7 @@ Tilpass lyd-equalizer-innstillingene. Du kan lese mer om å konfigurere lyd-equa
 Juster avspillingshastigheten til lydspilleren fra **0,02× til 3,00×**. Trykk på konfigurasjonikonet i øvre høyre hjørne for å bytte til **presisjonsmodusen** for finere justeringer.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox Avspillingshastighet Skjerm" image="/docs/guide/flacbox/img/playback-speed.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox Avspillingshastighet Skjerm" image="/docs/guide/flacbox/img/playback-speed.webp" >}}
 {{< /cards >}}
 
 ### Tonehøydekorrigering

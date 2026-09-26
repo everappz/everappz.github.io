@@ -18,7 +18,7 @@ readingTime: 6
 この組み込みファイルマネージャーはファイルの編集を可能にし、アプリにオーディオファイルをインポートするさまざまな方法を提供します。最近開いたファイルは自動的に**最近の項目**タブに表示され、星でマークした項目は**お気に入り**の下に表示されるので、この画面に戻ることなく最もよく使うファイルに直接ジャンプできます。
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evertagダウンロード画面" image="/docs/guide/evertag/img/downloads.webp" >}}
+  {{< ls-card title="" subtitle="Evertagダウンロード画面" image="/docs/guide/evertag/img/downloads.webp" >}}
 {{< /cards >}}
 
 ## クラウドストレージからファイルをダウンロード
@@ -74,7 +74,7 @@ readingTime: 6
 デバイス上にあるが、異なるアプリケーション内のファイルを表示します。システムファイルピッカーを使用してこのアプリケーションにインポートできます。ピッカーを有効にするには、ファイルを選択するために「ファイルを開く...」、フォルダーを選択するために「フォルダーを開く...」を選択します。iPhoneまたはMacに保存されているローカル音楽をインポートする方法の詳細な手順は[こちら](/docs/howto/how-to-play-local-music-stored-on-your-iphone-or-mac)で確認できます。デバイス上のフォルダーを接続してフォルダーの内容にクイックアクセスすることもできます。「フォルダーを接続」メニュー項目を使用して、デバイス上のフォルダーを選択します。「完了」をタップすると、アプリはそのフォルダーへの読み取り/書き込みアクセス権を持つリンクを作成し、このアプリから直接ファイルを管理できます。デバイス上のフォルダーを切断するには、「その他のアクション」ボタンをタップして「切断する」を選択します。
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evertagデバイスからファイルをインポート" image="/docs/guide/evertag/img/open-files.webp" >}}
+  {{< ls-card title="" subtitle="Evertagデバイスからファイルをインポート" image="/docs/guide/evertag/img/open-files.webp" >}}
 {{< /cards >}}
 
 ## 接続されたUSBフラッシュカードのファイルをインポート
@@ -86,7 +86,7 @@ iPhoneにUSBフラッシュカードを接続してファイルを管理する�
 現在開いているフォルダーのその他のアクションメニューは右上隅にあり、さまざまなアクションへのアクセスを提供します。
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evertagデバイスからファイルをインポート" image="/docs/guide/evertag/img/downloads-current-folder-actions.webp" >}}
+  {{< ls-card title="" subtitle="Evertagデバイスからファイルをインポート" image="/docs/guide/evertag/img/downloads-current-folder-actions.webp" >}}
 {{< /cards >}}
 
 - **選択する：** ファイルとフォルダーの選択モードに切り替えます。  

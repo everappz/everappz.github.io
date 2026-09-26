@@ -7,7 +7,7 @@ tags: ["evermusic", "nhạc", "đám mây", "iphone", "lưu trữ", "cục bộ"
 readingTime: 2
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **Tóm tắt:** Windows 10 có máy chủ DLNA tích hợp. Bật nó trong cài đặt Mạng và Chia sẻ, sau đó sử dụng ứng dụng miễn phí **Evermusic** trên iPhone để truyền phát toàn bộ thư viện nhạc qua Wi-Fi. Không cần phần mềm máy chủ bên thứ ba.
@@ -96,22 +96,22 @@ Với DLNA Media Server trên Windows 10 và Evermusic trên iPhone, bạn có t
 
 ## Câu hỏi thường gặp
 
-{{% details title="Tôi có cần cài đặt phần mềm máy chủ trên Windows 10 không?" closed="true" %}}
+{{% ls-details title="Tôi có cần cài đặt phần mềm máy chủ trên Windows 10 không?" closed="true" %}}
 Không. Windows 10 đã bao gồm máy chủ phương tiện DLNA tích hợp. Bạn chỉ cần bật truyền phát phương tiện trong cài đặt Network and Sharing Center. Không cần phần mềm bên thứ ba.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="iPhone của tôi có cần ở cùng mạng Wi-Fi không?" closed="true" %}}
+{{% ls-details title="iPhone của tôi có cần ở cùng mạng Wi-Fi không?" closed="true" %}}
 Có. Truyền phát DLNA hoạt động qua mạng cục bộ của bạn. Cả PC Windows 10 và iPhone đều phải kết nối cùng một mạng Wi-Fi để Evermusic có thể phát hiện máy chủ DLNA.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Tôi có thể truyền phát những định dạng âm thanh nào qua DLNA?" closed="true" %}}
+{{% ls-details title="Tôi có thể truyền phát những định dạng âm thanh nào qua DLNA?" closed="true" %}}
 Máy chủ Windows DLNA chia sẻ tệp từ thư mục Nhạc bất kể định dạng. Evermusic hỗ trợ MP3, FLAC, AAC, WAV, OGG, AIFF và nhiều định dạng khác, vì vậy bạn có thể phát hầu như bất kỳ tệp âm thanh nào từ máy chủ.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Tôi có thể sử dụng Flacbox thay vì Evermusic không?" closed="true" %}}
+{{% ls-details title="Tôi có thể sử dụng Flacbox thay vì Evermusic không?" closed="true" %}}
 Có. Flacbox cũng hỗ trợ duyệt và phát DLNA/UPnP. Bạn có thể sử dụng một trong hai ứng dụng để khám phá và phát nhạc từ máy chủ Windows DLNA.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Truyền phát DLNA có sử dụng dữ liệu di động không?" closed="true" %}}
+{{% ls-details title="Truyền phát DLNA có sử dụng dữ liệu di động không?" closed="true" %}}
 Không. DLNA hoạt động hoàn toàn trên mạng Wi-Fi cục bộ. Nó không sử dụng bất kỳ dữ liệu di động nào. Tuy nhiên, cả hai thiết bị phải duy trì kết nối cùng một mạng trong quá trình phát.
-{{% /details %}}
+{{% /ls-details %}}

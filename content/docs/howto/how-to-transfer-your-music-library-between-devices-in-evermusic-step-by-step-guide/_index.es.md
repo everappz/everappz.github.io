@@ -7,7 +7,7 @@ keywords: ["transferir biblioteca musical Evermusic", "copia de seguridad y rest
 readingTime: 3
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **Resumen:** Para transferir tu biblioteca de Evermusic a un nuevo dispositivo, crea una copia de seguridad en el dispositivo de origen, inicia Wi-Fi Drive, conecta el segundo dispositivo a la misma red, descarga la copia de seguridad y los archivos de música, y luego restaura desde la copia de seguridad. Todo el proceso toma aproximadamente 10 minutos dependiendo del tamaño de la biblioteca.
@@ -144,22 +144,22 @@ Siguiendo estos pasos, transferirás con éxito tu biblioteca musical, listas de
 
 ## Preguntas frecuentes
 
-{{% details title="¿Puedo transferir mi biblioteca de Evermusic sin Wi-Fi?" closed="true" %}}
+{{% ls-details title="¿Puedo transferir mi biblioteca de Evermusic sin Wi-Fi?" closed="true" %}}
 Wi-Fi Drive requiere que ambos dispositivos estén en la misma red Wi-Fi. Actualmente no hay opción de transferencia por Bluetooth o datos móviles. Alternativamente, puedes usar AirDrop o la app Archivos para mover manualmente el archivo de copia de seguridad y las carpetas de música entre dispositivos.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="¿Se transferirán las conexiones de servicios en la nube con la copia de seguridad?" closed="true" %}}
+{{% ls-details title="¿Se transferirán las conexiones de servicios en la nube con la copia de seguridad?" closed="true" %}}
 La copia de seguridad incluye tu base de datos, listas de reproducción, carátulas de álbumes y ajustes. Las credenciales de inicio de sesión de servicios en la nube no se incluyen por razones de seguridad. Necesitarás reconectar tus cuentas en la nube en el nuevo dispositivo después de la restauración.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="¿Qué pasa con mi biblioteca existente en el segundo dispositivo?" closed="true" %}}
+{{% ls-details title="¿Qué pasa con mi biblioteca existente en el segundo dispositivo?" closed="true" %}}
 Restaurar una copia de seguridad reemplaza todos los datos existentes de la biblioteca musical, listas de reproducción, ajustes y carátulas de álbumes en el segundo dispositivo. Haz una copia de seguridad separada del segundo dispositivo primero si quieres preservar sus datos.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="¿Funciona este proceso entre iPhone y Mac?" closed="true" %}}
+{{% ls-details title="¿Funciona este proceso entre iPhone y Mac?" closed="true" %}}
 Sí. Evermusic soporta la transferencia Wi-Fi Drive entre cualquier combinación de iPhone, iPad y Mac. Ambos dispositivos solo necesitan estar en la misma red Wi-Fi.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="¿Cuánto tiempo toma la transferencia?" closed="true" %}}
+{{% ls-details title="¿Cuánto tiempo toma la transferencia?" closed="true" %}}
 El tiempo de transferencia depende del tamaño de tu biblioteca musical y tu velocidad de Wi-Fi. Una biblioteca típica de unos pocos gigabytes se transfiere en 5-15 minutos a través de una red doméstica estándar.
-{{% /details %}}
+{{% /ls-details %}}

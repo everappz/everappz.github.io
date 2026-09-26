@@ -21,7 +21,7 @@ readingTime: 8
 Sinulla on kaksi tapaa lisätä mediaa kirjastoosi: **Manuaalinen lisäys** (valitset tarkalleen mitä lisätään) tai **Automaattinen synkronointi** (Evervideo skannaa määritetyt pilvikansiot ja lisää uudet tiedostot automaattisesti niiden ilmestyessä).
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evervideo Mediakirjasto" image="/docs/guide/evervideo/img/evervideo-genres-in-media-library.webp" >}}
+  {{< ls-card title="" subtitle="Evervideo Mediakirjasto" image="/docs/guide/evervideo/img/evervideo-genres-in-media-library.webp" >}}
 {{< /cards >}}
 
 ## Manuaalinen lisäys
@@ -92,7 +92,7 @@ Jos et näe kaikkia nimikkeitäsi, varmista, että sovellus on skannannut jokais
 Tässä osiossa näytetään kaikki äskettäin toistetut videot viimeisellä toistosijallaan, jotta voit jatkaa mitä tahansa niistä yhdellä napautuksella. Voit muuttaa, kuinka monta merkintää lista säilyttää kohdassa Asetukset → Mediakirjasto → Viimeisimmät → Muuta listan kokoa, ja viedä listan M3U / CSV / TXT -muodossa varmuuskopioidaksesi katseluhistoriasi.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evervideo Viimeisimmät — Viimeksi katsotut videot" image="/docs/guide/evervideo/img/evervideo-recents.webp" >}}
+  {{< ls-card title="" subtitle="Evervideo Viimeisimmät — Viimeksi katsotut videot" image="/docs/guide/evervideo/img/evervideo-recents.webp" >}}
 {{< /cards >}}
 
 ## Suosikit
@@ -104,7 +104,7 @@ Merkitse videot suosikeiksi soittimen näytöltä tai valikosta. Suosikit näkyv
 Evervideo seuraa jokaisen katsomasi videon toistokohdan. Jokainen video missä tahansa listassa — Viimeisimmät, Suosikit, albumi, genre, soittolista, kansio — näyttää pienen edistymispalkin, jotta näet yhdellä silmäyksellä, kuinka paljon olet jo katsonut. Tämä tekee pitkien televisiosarjakeräämisten, kurssien soittolistojen ja marathon-katseluöiden hallinnasta helppoa.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evervideo Genre-yksityiskohta tiedostokohtaisella katsomisedistymisellä" image="/docs/guide/evervideo/img/evervideo-genre-detail-with-playback-progress-for-watched-files.webp" >}}
+  {{< ls-card title="" subtitle="Evervideo Genre-yksityiskohta tiedostokohtaisella katsomisedistymisellä" image="/docs/guide/evervideo/img/evervideo-genre-detail-with-playback-progress-for-watched-files.webp" >}}
 {{< /cards >}}
 
 ## Ylätyökalupalkki
@@ -116,7 +116,7 @@ Navigointipalkin alapuolella sijaitseva ylätyökalupalkki tarjoaa useita kätev
 Hakutoiminto mahdollistaa tietyn nimikkeen, albumin, genren tai soittolistan paikallistamisen mediakirjastossasi. Haku-näytöllä sinulla on käytettävissä Lajittele, Suodata ja Ruudukko/Lista-näkymä -toiminnot. Haku suoritetaan paikallisesti mediakirjaston tietokantaa vastaan, joten se toimii täysin offline-tilassa ja palauttaa tuloksia kirjoittaessasi.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evervideo Mediakirjaston haku" image="/docs/guide/evervideo/img/evervideo-library-search.webp" >}}
+  {{< ls-card title="" subtitle="Evervideo Mediakirjaston haku" image="/docs/guide/evervideo/img/evervideo-library-search.webp" >}}
 {{< /cards >}}
 
 ## Asetusvalikko

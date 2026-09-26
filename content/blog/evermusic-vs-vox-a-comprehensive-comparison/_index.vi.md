@@ -14,7 +14,7 @@ authors:
     image: "/images/about/artem-meleshko-founder-everappz.webp"
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 **Tóm tắt:** Evermusic thắng ở 5 trong 8 hạng mục, với 3 kết quả hòa. Nó hỗ trợ lưu trữ đám mây rộng hơn (12+ dịch vụ so với chỉ VOX Cloud), tính năng sách nói tích hợp, trình chỉnh sửa thẻ ID3 và truyền tệp không dây. VOX thu hút người dùng thích đám mây riêng và thiết kế tối giản.
 
@@ -34,8 +34,8 @@ authors:
 | Khả năng tiếp cận (VoiceOver) | Có | Có | Hòa |
 
 {{< cards >}}
-  {{< card link="https://apps.apple.com/us/app/evermusic-cloud-music-player/id885367198" title="Tải Evermusic" icon="download" tag="Miễn phí" >}}
-  {{< card link="https://apps.apple.com/us/app/vox-mp3-flac-music-player/id916215494" title="Tải VOX" icon="download" tag="Miễn phí" >}}
+  {{< ls-card link="https://apps.apple.com/us/app/evermusic-cloud-music-player/id885367198" title="Tải Evermusic" icon="download" tag="Miễn phí" >}}
+  {{< ls-card link="https://apps.apple.com/us/app/vox-mp3-flac-music-player/id916215494" title="Tải VOX" icon="download" tag="Miễn phí" >}}
 {{< /cards >}}
 
 ## Hỗ trợ lưu trữ đám mây
@@ -107,18 +107,18 @@ Với hầu hết người dùng iOS quản lý bộ sưu tập nhạc riêng, E
 
 ## Câu hỏi thường gặp
 
-{{% details title="Evermusic có phải là thay thế tốt cho VOX không?" closed="true" %}}
+{{% ls-details title="Evermusic có phải là thay thế tốt cho VOX không?" closed="true" %}}
 Có. Evermusic hỗ trợ 12+ dịch vụ lưu trữ đám mây so với chỉ đám mây riêng của VOX. Nó cũng cung cấp tính năng sách nói, chỉnh sửa thẻ ID3 và truyền tệp Wi-Fi mà VOX thiếu. Evermusic miễn phí tải về với nâng cấp Premium một lần.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="VOX có hỗ trợ Dropbox hoặc Google Drive không?" closed="true" %}}
+{{% ls-details title="VOX có hỗ trợ Dropbox hoặc Google Drive không?" closed="true" %}}
 Không. VOX sử dụng lưu trữ đám mây riêng VOX Cloud. Nó không kết nối với dịch vụ bên thứ ba như Dropbox, Google Drive hoặc OneDrive. Evermusic hỗ trợ tất cả những dịch vụ này và nhiều hơn nữa.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Ứng dụng nào tốt hơn cho sách nói: Evermusic hay VOX?" closed="true" %}}
+{{% ls-details title="Ứng dụng nào tốt hơn cho sách nói: Evermusic hay VOX?" closed="true" %}}
 Evermusic tốt hơn đáng kể cho sách nói. Nó bao gồm điều chỉnh tốc độ phát, tự động lưu vị trí và hỗ trợ đánh dấu. VOX không có tính năng sách nói chuyên dụng.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Tôi có thể chỉnh sửa thẻ nhạc trên iPhone với Evermusic không?" closed="true" %}}
+{{% ls-details title="Tôi có thể chỉnh sửa thẻ nhạc trên iPhone với Evermusic không?" closed="true" %}}
 Có. Evermusic bao gồm trình chỉnh sửa thẻ ID3 tích hợp cho phép bạn sửa tiêu đề bài hát, tên nghệ sĩ, thông tin album và siêu dữ liệu khác trực tiếp trên iPhone hoặc iPad.
-{{% /details %}}
+{{% /ls-details %}}

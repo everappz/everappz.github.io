@@ -14,7 +14,7 @@ authors:
     image: "/images/about/artem-meleshko-founder-everappz.webp"
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 ## Por Que as Palavras-chave da App Store Determinam Seus Downloads
 
@@ -104,29 +104,29 @@ Experimente agora — seu próximo usuário está a uma busca de distância.
 A ferramenta é open source. Relatórios de bugs, sugestões de recursos e pull requests são bem-vindos.
 
 {{< cards cols="1" >}}
-  {{< card link="https://github.com/everappz/app-store-keyword-optimizer/tree/main" title="appkeywords.pro on GitHub" icon="github" tag= "open source" >}}
+  {{< ls-card link="https://github.com/everappz/app-store-keyword-optimizer/tree/main" title="appkeywords.pro on GitHub" icon="github" tag= "open source" >}}
 {{< /cards >}}
 
 ---
 
 ## Perguntas Frequentes
 
-{{% details title="O AppKeywords.pro é realmente gratuito?" closed="true" %}}
+{{% ls-details title="O AppKeywords.pro é realmente gratuito?" closed="true" %}}
 Sim. É uma ferramenta totalmente open source, baseada em navegador, sem cadastro, sem anúncios e sem coleta de dados. Seus metadados nunca saem do dispositivo.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Esta ferramenta funciona para múltiplas localizações da App Store?" closed="true" %}}
+{{% ls-details title="Esta ferramenta funciona para múltiplas localizações da App Store?" closed="true" %}}
 Sim. Você pode adicionar metadados para cada locale independentemente, e a exportação inclui todos os idiomas em um único arquivo JSON compatível com Fastlane.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Devo repetir palavras-chave do título no campo de palavras-chave?" closed="true" %}}
+{{% ls-details title="Devo repetir palavras-chave do título no campo de palavras-chave?" closed="true" %}}
 Não. Apple já indexa palavras do seu título e subtítulo. Repeti-las no campo de palavras-chave desperdiça caracteres.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Com que frequência devo atualizar as palavras-chave da App Store?" closed="true" %}}
+{{% ls-details title="Com que frequência devo atualizar as palavras-chave da App Store?" closed="true" %}}
 Revise e atualize suas palavras-chave pelo menos uma vez por trimestre. Ajuste antes se notar quedas de ranking ou mudanças sazonais no comportamento de busca.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Posso usar esta ferramenta com Fastlane?" closed="true" %}}
+{{% ls-details title="Posso usar esta ferramenta com Fastlane?" closed="true" %}}
 Sim. O repositório GitHub inclui scripts shell para converter entre a estrutura de pastas de metadados do Fastlane e o formato JSON usado pelo AppKeywords.pro.
-{{% /details %}}
+{{% /ls-details %}}

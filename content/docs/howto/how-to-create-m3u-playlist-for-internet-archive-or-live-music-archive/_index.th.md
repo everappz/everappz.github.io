@@ -29,7 +29,7 @@ tags: [
 readingTime: 3
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **สรุป:** วาง URL ใดก็ได้ของ Internet Archive ลงใน [archivetom3u.com](https://archivetom3u.com) เลือกรูปแบบเสียง (MP3, FLAC, OGG) และดาวน์โหลดเพลย์ลิสต์ M3U ที่พร้อมเล่น -- ไม่ต้องมีบัญชี จากนั้นนำเข้าไปยัง [Evermusic](https://apps.apple.com/app/apple-store/id885367198?pt=95781850&ct=everappzcom&mt=8) บน iPhone หรือ Mac เพื่อเล่นทันที
@@ -69,7 +69,7 @@ readingTime: 3
 ไปที่ [archive.org](https://archive.org) แตะ **Audio** และเลือก **Live Music Archive** ใช้แถบค้นหาเพื่อค้นหาแนวเพลง ศิลปิน หรือคอนเสิร์ตที่คุณต้องการ
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="ค้นหาเพลงบน Internet Archive" image="/docs/howto/how-to-create-m3u-playlist-for-internet-archive-or-live-music-archive/1.internet-archive-search.webp" >}}
+  {{< ls-card title="" subtitle="ค้นหาเพลงบน Internet Archive" image="/docs/howto/how-to-create-m3u-playlist-for-internet-archive-or-live-music-archive/1.internet-archive-search.webp" >}}
 {{< /cards >}}
 
 ### 2. คัดลอก URL ของรายการ
@@ -77,7 +77,7 @@ readingTime: 3
 คลิกที่รายการที่คุณต้องการ และคัดลอก URL จากแถบที่อยู่ของเบราว์เซอร์
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="คัดลอก URL ของรายการจาก Internet Archive" image="/docs/howto/how-to-create-m3u-playlist-for-internet-archive-or-live-music-archive/2.internet-archive-copy-item-url.webp" >}}
+  {{< ls-card title="" subtitle="คัดลอก URL ของรายการจาก Internet Archive" image="/docs/howto/how-to-create-m3u-playlist-for-internet-archive-or-live-music-archive/2.internet-archive-copy-item-url.webp" >}}
 {{< /cards >}}
 
 ### 3. วาง URL ลงในตัวสร้าง
@@ -85,7 +85,7 @@ readingTime: 3
 กลับไปที่ [archivetom3u.com](https://archivetom3u.com) และวาง URL ที่คัดลอกลงในช่องป้อนข้อมูล
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="วาง URL ของรายการลงในตัวสร้าง M3U" image="/docs/howto/how-to-create-m3u-playlist-for-internet-archive-or-live-music-archive/3.archive-to-m3u-paste-item-url.webp" >}}
+  {{< ls-card title="" subtitle="วาง URL ของรายการลงในตัวสร้าง M3U" image="/docs/howto/how-to-create-m3u-playlist-for-internet-archive-or-live-music-archive/3.archive-to-m3u-paste-item-url.webp" >}}
 {{< /cards >}}
 
 ### 4. เลือกรูปแบบเสียง
@@ -93,7 +93,7 @@ readingTime: 3
 เลือกรูปแบบที่คุณต้องการ (MP3, FLAC เป็นต้น)
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="เลือกรูปแบบเสียงที่คุณต้องการ" image="/docs/howto/how-to-create-m3u-playlist-for-internet-archive-or-live-music-archive/4.archive-to-m3u-select-format.webp" >}}
+  {{< ls-card title="" subtitle="เลือกรูปแบบเสียงที่คุณต้องการ" image="/docs/howto/how-to-create-m3u-playlist-for-internet-archive-or-live-music-archive/4.archive-to-m3u-select-format.webp" >}}
 {{< /cards >}}
 
 ### 5. สร้างเพลย์ลิสต์
@@ -101,7 +101,7 @@ readingTime: 3
 คลิก **Generate Playlist** เนื้อหา `.m3u` จะแสดงด้านล่าง คุณสามารถคัดลอกหรือดาวน์โหลดได้
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="เพลย์ลิสต์ M3U ถูกสร้างโดยอัตโนมัติ" image="/docs/howto/how-to-create-m3u-playlist-for-internet-archive-or-live-music-archive/5.archive-to-m3u-generated-playlist.webp" >}}
+  {{< ls-card title="" subtitle="เพลย์ลิสต์ M3U ถูกสร้างโดยอัตโนมัติ" image="/docs/howto/how-to-create-m3u-playlist-for-internet-archive-or-live-music-archive/5.archive-to-m3u-generated-playlist.webp" >}}
 {{< /cards >}}
 
 ### 6. ดูตัวอย่างเพลง
@@ -109,7 +109,7 @@ readingTime: 3
 เลื่อนลงเพื่อดูตัวอย่างแต่ละเพลง ตรวจสอบว่าทุกอย่างเล่นได้อย่างถูกต้อง
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="ดูตัวอย่างเพลงทั้งหมดก่อนดาวน์โหลด" image="/docs/howto/how-to-create-m3u-playlist-for-internet-archive-or-live-music-archive/6.archive-to-m3u-tracks-preview.webp" >}}
+  {{< ls-card title="" subtitle="ดูตัวอย่างเพลงทั้งหมดก่อนดาวน์โหลด" image="/docs/howto/how-to-create-m3u-playlist-for-internet-archive-or-live-music-archive/6.archive-to-m3u-tracks-preview.webp" >}}
 {{< /cards >}}
 
 ### 7. ดาวน์โหลดเพลย์ลิสต์
@@ -117,7 +117,7 @@ readingTime: 3
 คลิก **Download Playlist** เพื่อบันทึกไฟล์ `.m3u` ลงในอุปกรณ์ของคุณ ไม่ต้องเข้าสู่ระบบหรือมีบัญชี
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="ดาวน์โหลดเพลย์ลิสต์ M3U ไปยังอุปกรณ์ของคุณ" image="/docs/howto/how-to-create-m3u-playlist-for-internet-archive-or-live-music-archive/7.downloaded-m3u-playlist.webp" >}}
+  {{< ls-card title="" subtitle="ดาวน์โหลดเพลย์ลิสต์ M3U ไปยังอุปกรณ์ของคุณ" image="/docs/howto/how-to-create-m3u-playlist-for-internet-archive-or-live-music-archive/7.downloaded-m3u-playlist.webp" >}}
 {{< /cards >}}
 
 ## วิธีเล่นเพลย์ลิสต์ M3U บน macOS หรือ iOS
@@ -125,14 +125,14 @@ readingTime: 3
 เพื่อเล่นไฟล์ `.m3u` ที่ดาวน์โหลดบนอุปกรณ์ Apple ของคุณ ใช้แอป **Evermusic** (ดาวน์โหลดฟรี):
 
 {{< cards cols="1">}}
-{{< card link="https://apps.apple.com/app/apple-store/id1564384601?pt=95781850&ct=everappzcom&mt=8" title="Evermusic macOS" icon="download" tag="Free" >}}
-{{< card link="https://apps.apple.com/app/apple-store/id885367198?pt=95781850&ct=everappzcom&mt=8" title="Evermusic iOS" icon="download" tag="Free" >}}
+{{< ls-card link="https://apps.apple.com/app/apple-store/id1564384601?pt=95781850&ct=everappzcom&mt=8" title="Evermusic macOS" icon="download" tag="Free" >}}
+{{< ls-card link="https://apps.apple.com/app/apple-store/id885367198?pt=95781850&ct=everappzcom&mt=8" title="Evermusic iOS" icon="download" tag="Free" >}}
 {{< /cards >}}
 
 ### 1. เปิด Evermusic และไปที่เพลย์ลิสต์
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="เปิด Evermusic และไปที่เพลย์ลิสต์" image="/docs/howto/how-to-create-m3u-playlist-for-internet-archive-or-live-music-archive/8.evermusic-app-playlists.webp" >}}
+  {{< ls-card title="" subtitle="เปิด Evermusic และไปที่เพลย์ลิสต์" image="/docs/howto/how-to-create-m3u-playlist-for-internet-archive-or-live-music-archive/8.evermusic-app-playlists.webp" >}}
 {{< /cards >}}
 
 ### 2. นำเข้าเพลย์ลิสต์
@@ -140,7 +140,7 @@ readingTime: 3
 แตะ **Add Playlist** จากนั้นเลือก **Import Playlist**
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="แตะ Import Playlist เพื่อเพิ่ม M3U ที่ดาวน์โหลด" image="/docs/howto/how-to-create-m3u-playlist-for-internet-archive-or-live-music-archive/9.evermusic-app-import-playlist.webp" >}}
+  {{< ls-card title="" subtitle="แตะ Import Playlist เพื่อเพิ่ม M3U ที่ดาวน์โหลด" image="/docs/howto/how-to-create-m3u-playlist-for-internet-archive-or-live-music-archive/9.evermusic-app-import-playlist.webp" >}}
 {{< /cards >}}
 
 ### 3. เลือกตำแหน่งเพลย์ลิสต์
@@ -148,7 +148,7 @@ readingTime: 3
 เลือก **Files on this Mac** (หรือตำแหน่งอื่นที่คุณบันทึกไฟล์ไว้)
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="เลือกตำแหน่งของไฟล์ที่ดาวน์โหลด" image="/docs/howto/how-to-create-m3u-playlist-for-internet-archive-or-live-music-archive/10.select-location.webp" >}}
+  {{< ls-card title="" subtitle="เลือกตำแหน่งของไฟล์ที่ดาวน์โหลด" image="/docs/howto/how-to-create-m3u-playlist-for-internet-archive-or-live-music-archive/10.select-location.webp" >}}
 {{< /cards >}}
 
 ### 4. ให้สิทธิ์เข้าถึงโฟลเดอร์
@@ -156,7 +156,7 @@ readingTime: 3
 Evermusic สามารถเข้าถึงไฟล์ได้ก็ต่อเมื่อคุณอนุญาตการเข้าถึงระดับโฟลเดอร์ เลือกโฟลเดอร์ที่มีไฟล์ `.m3u` ของคุณ **และ** ไฟล์เสียงที่เชื่อมโยงอยู่ภายใน
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="เชื่อมต่อโฟลเดอร์ที่อยู่ในอุปกรณ์ของคุณ" image="/docs/howto/how-to-create-m3u-playlist-for-internet-archive-or-live-music-archive/11.connect-folder-located-on-your-device.webp" >}}
+  {{< ls-card title="" subtitle="เชื่อมต่อโฟลเดอร์ที่อยู่ในอุปกรณ์ของคุณ" image="/docs/howto/how-to-create-m3u-playlist-for-internet-archive-or-live-music-archive/11.connect-folder-located-on-your-device.webp" >}}
 {{< /cards >}}
 
 ### 5. เลือกโฟลเดอร์ดาวน์โหลด
@@ -164,13 +164,13 @@ Evermusic สามารถเข้าถึงไฟล์ได้ก็ต�
 ในกรณีส่วนใหญ่ เพลย์ลิสต์จะถูกบันทึกในโฟลเดอร์ **Downloads** ของคุณ
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="เลือกโฟลเดอร์ดาวน์โหลด" image="/docs/howto/how-to-create-m3u-playlist-for-internet-archive-or-live-music-archive/12.select-downloads-folder.webp" >}}
+  {{< ls-card title="" subtitle="เลือกโฟลเดอร์ดาวน์โหลด" image="/docs/howto/how-to-create-m3u-playlist-for-internet-archive-or-live-music-archive/12.select-downloads-folder.webp" >}}
 {{< /cards >}}
 
 แตะ **Open** เพื่อยืนยันการเลือก
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="โฟลเดอร์ดาวน์โหลดของคุณเชื่อมต่อแล้ว" image="/docs/howto/how-to-create-m3u-playlist-for-internet-archive-or-live-music-archive/13.downloads-folder-connected.webp" >}}
+  {{< ls-card title="" subtitle="โฟลเดอร์ดาวน์โหลดของคุณเชื่อมต่อแล้ว" image="/docs/howto/how-to-create-m3u-playlist-for-internet-archive-or-live-music-archive/13.downloads-folder-connected.webp" >}}
 {{< /cards >}}
 
 ### 6. เลือกไฟล์เพลย์ลิสต์
@@ -180,7 +180,7 @@ Evermusic สามารถเข้าถึงไฟล์ได้ก็ต�
 แตะ **Done** เพื่อยืนยันการเลือก
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="เลือกไฟล์เพลย์ลิสต์ M3U จากโฟลเดอร์" image="/docs/howto/how-to-create-m3u-playlist-for-internet-archive-or-live-music-archive/14.m3u-playlist-selected-from-connected-folder.webp" >}}
+  {{< ls-card title="" subtitle="เลือกไฟล์เพลย์ลิสต์ M3U จากโฟลเดอร์" image="/docs/howto/how-to-create-m3u-playlist-for-internet-archive-or-live-music-archive/14.m3u-playlist-selected-from-connected-folder.webp" >}}
 {{< /cards >}}
 
 ### 7. นำเข้าเพลย์ลิสต์สำเร็จ
@@ -188,7 +188,7 @@ Evermusic สามารถเข้าถึงไฟล์ได้ก็ต�
 แอปจะวิเคราะห์เพลย์ลิสต์และเพิ่มลงในไลบรารีของคุณ
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="นำเข้าเพลย์ลิสต์สำเร็จแล้ว" image="/docs/howto/how-to-create-m3u-playlist-for-internet-archive-or-live-music-archive/15.playlist-imported.webp" >}}
+  {{< ls-card title="" subtitle="นำเข้าเพลย์ลิสต์สำเร็จแล้ว" image="/docs/howto/how-to-create-m3u-playlist-for-internet-archive-or-live-music-archive/15.playlist-imported.webp" >}}
 {{< /cards >}}
 
 ### 8. เปิดและเล่นเพลย์ลิสต์
@@ -196,13 +196,13 @@ Evermusic สามารถเข้าถึงไฟล์ได้ก็ต�
 แตะที่เพลย์ลิสต์เพื่อดูเพลงทั้งหมดและเริ่มเล่น
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="เปิดเพลย์ลิสต์และดูรายชื่อเพลง" image="/docs/howto/how-to-create-m3u-playlist-for-internet-archive-or-live-music-archive/16.playlist-opened.webp" >}}
+  {{< ls-card title="" subtitle="เปิดเพลย์ลิสต์และดูรายชื่อเพลง" image="/docs/howto/how-to-create-m3u-playlist-for-internet-archive-or-live-music-archive/16.playlist-opened.webp" >}}
 {{< /cards >}}
 
 หลังจากไม่กี่วินาที Evermusic จะโหลดเมตาดาต้าทั้งหมดและอัปเดตมุมมองเพลง
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="เพลย์ลิสต์ของคุณพร้อมเล่นแล้ว" image="/docs/howto/how-to-create-m3u-playlist-for-internet-archive-or-live-music-archive/17.playlist-opened-2.webp" >}}
+  {{< ls-card title="" subtitle="เพลย์ลิสต์ของคุณพร้อมเล่นแล้ว" image="/docs/howto/how-to-create-m3u-playlist-for-internet-archive-or-live-music-archive/17.playlist-opened-2.webp" >}}
 {{< /cards >}}
 
 ## ความเป็นส่วนตัวและโอเพนซอร์ส
@@ -221,22 +221,22 @@ Evermusic สามารถเข้าถึงไฟล์ได้ก็ต�
 
 ## คำถามที่พบบ่อย
 
-{{% details title="เครื่องมือสร้าง M3U ใช้ฟรีหรือไม่?" closed="true" %}}
+{{% ls-details title="เครื่องมือสร้าง M3U ใช้ฟรีหรือไม่?" closed="true" %}}
 ใช่ เครื่องมือที่ [archivetom3u.com](https://archivetom3u.com) ฟรีทั้งหมด ไม่ต้องมีบัญชี และทำงานทั้งหมดในเบราว์เซอร์ของคุณ
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="ฉันสามารถรวมรูปแบบเสียงใดในเพลย์ลิสต์ M3U?" closed="true" %}}
+{{% ls-details title="ฉันสามารถรวมรูปแบบเสียงใดในเพลย์ลิสต์ M3U?" closed="true" %}}
 คุณสามารถเลือก VBR MP3, FLAC, 24-bit FLAC หรือ OGG Vorbis เฉพาะเพลงที่มีในรูปแบบที่เลือกเท่านั้นที่จะปรากฏในเพลย์ลิสต์
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="ฉันสามารถเล่นเพลย์ลิสต์ M3U บน iPhone หรือ Mac ได้หรือไม่?" closed="true" %}}
+{{% ls-details title="ฉันสามารถเล่นเพลย์ลิสต์ M3U บน iPhone หรือ Mac ได้หรือไม่?" closed="true" %}}
 ได้ ดาวน์โหลดแอป Evermusic ฟรีสำหรับ iOS หรือ macOS จากนั้นใช้ฟีเจอร์ Import Playlist เพื่อโหลดไฟล์ `.m3u` ของคุณ
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="เครื่องมือจัดเก็บข้อมูลของฉันหรือโฮสต์เพลงหรือไม่?" closed="true" %}}
+{{% ls-details title="เครื่องมือจัดเก็บข้อมูลของฉันหรือโฮสต์เพลงหรือไม่?" closed="true" %}}
 ไม่ การประมวลผลทั้งหมดเกิดขึ้นในเบราว์เซอร์ของคุณ ไม่มีข้อมูลถูกจัดเก็บ และสตรีมเสียงทั้งหมดมาจาก archive.org โดยตรง
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="เครื่องมือนี้เกี่ยวข้องกับ Internet Archive หรือไม่?" closed="true" %}}
+{{% ls-details title="เครื่องมือนี้เกี่ยวข้องกับ Internet Archive หรือไม่?" closed="true" %}}
 ไม่ เป็นโปรเจกต์โอเพนซอร์สอิสระที่สร้างขึ้นเพื่อความสะดวก ใช้ API เมตาดาต้าอย่างเป็นทางการของ Internet Archive เพื่อสร้างเพลย์ลิสต์
-{{% /details %}}
+{{% /ls-details %}}

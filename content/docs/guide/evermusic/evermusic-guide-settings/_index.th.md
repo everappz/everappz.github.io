@@ -18,7 +18,7 @@ readingTime: 16
 หน้าจอการตั้งค่าคือศูนย์ควบคุมของ Evermusic จากที่นี่คุณสามารถอัปเกรดเป็น Premium กำหนดค่าเครื่องเล่นเสียง จัดการคลังเพลง ตั้งค่าตัวจัดการไฟล์ ปรับแต่งอินเทอร์เฟซ เปิดใช้งานวิดเจ็ตและ CarPlay สำรองข้อมูล และเข้าถึงความช่วยเหลือและข้อมูลทางกฎหมาย ส่วนต่างๆ จัดกลุ่มภายใต้หัวเรื่อง: **การซื้อและการอัปเดต**, การตั้งค่าแอป, **ช่วยเหลือ** และ **กฎหมายและความเป็นส่วนตัว**
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="หน้าจอการตั้งค่า Evermusic" image="/docs/guide/evermusic/evermusic-guide-settings/img/settings-main-screen.webp" >}}
+  {{< ls-card title="" subtitle="หน้าจอการตั้งค่า Evermusic" image="/docs/guide/evermusic/evermusic-guide-settings/img/settings-main-screen.webp" >}}
 {{< /cards >}}
 
 ## การซื้อและการอัปเดต

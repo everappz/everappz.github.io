@@ -1,9 +1,10 @@
 ---
+excludeSearch: true
 date: '2025-06-12T17:00:00+00:00'
 title: 'Neem contact met ons op'
 ---
 
-{{< lottie src="/images/juicy-json/juicy-girl-typing-on-phone.json" width="60%" >}}
+{{< ls-lottie src="/images/juicy-json/juicy-girl-typing-on-phone.json" width="60%" >}}
 
 ## Postadres
 
@@ -27,4 +28,4 @@ Door een e-mail te sturen, bevestigt u dat u ons [Privacybeleid](../legal/privac
 
 Volg ons op sociale netwerken om het laatste nieuws, app-updates, tips en nuttige informatie te ontvangen:
 
-{{< social-cards >}}
+{{< ls-social-cards >}}

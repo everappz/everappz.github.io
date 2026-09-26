@@ -1,9 +1,10 @@
 ---
+excludeSearch: true
 date: '2025-06-12T17:00:00+00:00'
 title: '联系我们'
 ---
 
-{{< lottie src="/images/juicy-json/juicy-girl-typing-on-phone.json" width="60%" >}}
+{{< ls-lottie src="/images/juicy-json/juicy-girl-typing-on-phone.json" width="60%" >}}
 
 ## 邮寄地址
 
@@ -27,4 +28,4 @@ title: '联系我们'
 
 在社交网络上关注我们，获取最新资讯、应用更新、技巧和实用信息：
 
-{{< social-cards >}}
+{{< ls-social-cards >}}

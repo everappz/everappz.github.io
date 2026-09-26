@@ -17,7 +17,7 @@ keywords: [
 readingTime: 3
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **Rezumat:** Conectați iPhone-ul sau iPad-ul la Mac (sau PC) cu un cablu USB. Pe macOS Catalina și versiuni ulterioare, utilizați Finder. Pe versiuni mai vechi de macOS sau Windows, utilizați iTunes. Trageți fișierele într-o aplicație precum Evermusic, Flacbox sau Evertag pentru a le transfera instantaneu.
@@ -117,26 +117,26 @@ Cu Partajarea fișierelor iTunes, puteți gestiona cu ușurință fișierele în
 
 ## Întrebări frecvente
 
-{{% details title="Am nevoie de conexiune la internet pentru a transfera fișiere prin USB?" closed="true" %}}
+{{% ls-details title="Am nevoie de conexiune la internet pentru a transfera fișiere prin USB?" closed="true" %}}
 Nu. Partajarea fișierelor funcționează în întregime prin conexiunea cablului USB dintre computer și dispozitivul iOS. Nu este necesar internet.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Ce formate de fișiere pot transfera în Evermusic sau Flacbox?" closed="true" %}}
+{{% ls-details title="Ce formate de fișiere pot transfera în Evermusic sau Flacbox?" closed="true" %}}
 Ambele aplicații acceptă o gamă largă de formate audio, inclusiv MP3, FLAC, AAC, WAV, AIFF, OGG, WMA și altele. Consultați documentația aplicației pentru lista completă de formate acceptate.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="De ce nu văd fila Fișiere în Finder?" closed="true" %}}
+{{% ls-details title="De ce nu văd fila Fișiere în Finder?" closed="true" %}}
 Fila Fișiere apare doar când dispozitivul are cel puțin o aplicație instalată care acceptă Partajarea fișierelor. Instalați Evermusic, Flacbox sau Evertag, apoi reconectați dispozitivul.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Pot transfera fișiere wireless în loc să folosesc un cablu USB?" closed="true" %}}
+{{% ls-details title="Pot transfera fișiere wireless în loc să folosesc un cablu USB?" closed="true" %}}
 Da. Evermusic și Flacbox acceptă, de asemenea, servicii de stocare în cloud și transfer Wi-Fi. Cu toate acestea, partajarea fișierelor prin USB prin Finder sau iTunes este de obicei mai rapidă pentru bibliotecile muzicale mari.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Transferul fișierelor prin Finder va suprascrie fișierele existente de pe dispozitiv?" closed="true" %}}
+{{% ls-details title="Transferul fișierelor prin Finder va suprascrie fișierele existente de pe dispozitiv?" closed="true" %}}
 Nu. Fișierele noi sunt adăugate alături de cele existente. Dacă un fișier cu același nume există deja, macOS poate redenumi automat noul fișier.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Această metodă funcționează cu PC-uri Windows?" closed="true" %}}
+{{% ls-details title="Această metodă funcționează cu PC-uri Windows?" closed="true" %}}
 Da. Pe Windows, utilizați iTunes pentru a transfera fișiere. Procesul este același cu cel descris în secțiunea iTunes de mai sus. Instalați iTunes din Microsoft Store sau de pe site-ul Apple.
-{{% /details %}}
+{{% /ls-details %}}

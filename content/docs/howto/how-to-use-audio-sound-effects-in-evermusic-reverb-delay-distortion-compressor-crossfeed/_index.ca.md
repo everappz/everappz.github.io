@@ -7,7 +7,7 @@ tags: ["Evermusic", "Efectes d'àudio", "Com fer-ho", "Reverberació", "Retard",
 readingTime: 8
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 **En resum:** Evermusic inclou sis efectes d'àudio en temps real: **normalització de volum, compressor, reverberació, crossfeed, retard i distorsió**. Obre'ls des del menú **⋯ (Més) > Efectes d'àudio** del reproductor, o des de **Configuració > Reproductor d'àudio > Efectes d'àudio**. Toca un efecte, posa'n l'interruptor en **ACTIVAT** (a dalt a la dreta), tria un **predefinit** i, opcionalment, obre el **mode avançat** per afinar els controls lliscants. Cada efecte funciona de manera independent i s'aplica en temps real a tot el que reprodueixes: fitxers locals, transmissions al núvol i ràdio per internet, sense recodificar.
 
@@ -162,38 +162,38 @@ També funcionen juntament amb l'**equalitzador gràfic de 10 bandes** d'Evermus
 
 ## Preguntes freqüents
 
-{{% details title="Com afegeixo reverberació, retard o altres efectes a la meva música a Evermusic?" closed="true" %}}
+{{% ls-details title="Com afegeixo reverberació, retard o altres efectes a la meva música a Evermusic?" closed="true" %}}
 Obre el reproductor, toca el botó ⋯ (Més) i tria Efectes d'àudio (o ves a Configuració > Reproductor d'àudio > Efectes d'àudio). Toca l'efecte que vulguis, posa'n l'interruptor en ACTIVAT a dalt a la dreta i tria un predefinit. Obre el mode avançat per afinar els controls lliscants. L'efecte s'aplica immediatament al que estigui sonant.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Quins efectes d'àudio té Evermusic?" closed="true" %}}
+{{% ls-details title="Quins efectes d'àudio té Evermusic?" closed="true" %}}
 Sis efectes en temps real: normalització de volum (anivellament de sonoritat EBU R128), compressor (dinàmica), reverberació (espai i cua d'eco), crossfeed (imatge natural amb auriculars), retard (eco) i distorsió (aspresa lo-fi). Cadascun és independent i es pot fer servir sol o combinat.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Els efectes canvien o malmeten els meus fitxers d'àudio?" closed="true" %}}
+{{% ls-details title="Els efectes canvien o malmeten els meus fitxers d'àudio?" closed="true" %}}
 No. Tots els efectes s'apliquen en temps real només durant la reproducció. Mai no modifiquen ni recodifiquen els teus fitxers. Desactiva un efecte i el so original torna a l'instant.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Puc utilitzar més d'un efecte alhora?" closed="true" %}}
+{{% ls-details title="Puc utilitzar més d'un efecte alhora?" closed="true" %}}
 Sí. Cada efecte és independent (no hi ha cap interruptor mestre), així que pots activar qualsevol combinació. Per exemple, normalització de volum més compressor per a una escolta constant i còmoda, o reverberació més crossfeed amb auriculars.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Què és el crossfeed i l'hauria de fer servir?" closed="true" %}}
+{{% ls-details title="Què és el crossfeed i l'hauria de fer servir?" closed="true" %}}
 El crossfeed barreja una petita quantitat filtrada de cada canal estèreo amb l'altre perquè els auriculars sonin més com altaveus reals, reduint la sensació "dins del cap" de les mescles amb panoramitzat extrem. És un efecte per a auriculars (deixa'l desactivat per als altaveus). Està construït sobre l'algorisme Bauer stereophonic-to-binaural (bs2b) i inclou predefinits com Chu Moy i Jan Meier.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Què és la normalització de volum i en què es diferencia de ReplayGain?" closed="true" %}}
+{{% ls-details title="Què és la normalització de volum i en què es diferencia de ReplayGain?" closed="true" %}}
 La normalització de volum manté cada pista a una sonoritat constant mesurant la sonoritat percebuda amb l'estàndard EBU R128 i anivellant cap a un objectiu. A diferència de ReplayGain, no necessita etiquetes de sonoritat als teus fitxers i no altera l'àudio: funciona en directe amb qualsevol font, incloses les transmissions al núvol i la ràdio per internet. Predefinits: Suau, Estàndard, Fort i Nit.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Quina diferència hi ha entre el mode Simple i l'Avançat?" closed="true" %}}
+{{% ls-details title="Quina diferència hi ha entre el mode Simple i l'Avançat?" closed="true" %}}
 El mode Simple mostra una llista de predefinits amb descripcions planeres, així pots aconseguir un bon so amb un sol toc. El mode Avançat afegeix els controls lliscants de paràmetres (per exemple, Mescla per a la reverberació, o els set controls del compressor) per a un afinament precís. Commuta entre tots dos amb el botó de mode a dalt a la dreta de cada editor d'efectes.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Per què els controls de l'efecte estan atenuats?" closed="true" %}}
+{{% ls-details title="Per què els controls de l'efecte estan atenuats?" closed="true" %}}
 L'efecte està desactivat. Activa l'interruptor de l'efecte a dalt a la dreta del seu editor per activar els controls. Cada efecte està desactivat per defecte.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Els efectes funcionen amb la transmissió i CarPlay?" closed="true" %}}
+{{% ls-details title="Els efectes funcionen amb la transmissió i CarPlay?" closed="true" %}}
 Sí. Els efectes s'executen dins del motor de reproducció, així que s'apliquen a fitxers locals, discs al núvol, servidors multimèdia i ràdio per internet, i continuen funcionant durant la reproducció amb CarPlay.
-{{% /details %}}
+{{% /ls-details %}}

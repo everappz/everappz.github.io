@@ -20,7 +20,7 @@ A Helyi fájlok szakasz az alkalmazás „Documents" mappájában található f�
 Ez a beépített fájlkezelő lehetővé teszi fájlok szerkesztését, és különféle módszereket kínál hangfájlok importálására az alkalmazásba.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evermusic Helyi fájlok képernyő" image="/docs/guide/evermusic/evermusic-guide-local-files/img/local-files-main.webp" >}}
+  {{< ls-card title="" subtitle="Evermusic Helyi fájlok képernyő" image="/docs/guide/evermusic/evermusic-guide-local-files/img/local-files-main.webp" >}}
 {{< /cards >}}
 
 ## Fájlok letöltése felhőtárhelyről
@@ -40,7 +40,7 @@ Egyszerűen importálj fájlokat az eszközödről ahogy [itt](/docs/howto/how-t
 Fájlok átvitele kábeles kapcsolattal ahogy [itt](/docs/howto/how-to-transfer-files-from-my-mac-to-iphone-or-ipad-using-finder) leírva.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="iTunes / Finder File Sharing" image="/docs/guide/evermusic/evermusic-guide-local-files/img/local-files-itunes-file-sharing.webp" >}}
+  {{< ls-card title="" subtitle="iTunes / Finder File Sharing" image="/docs/guide/evermusic/evermusic-guide-local-files/img/local-files-itunes-file-sharing.webp" >}}
 {{< /cards >}}
 
 ## Wi-Fi Drive
@@ -48,7 +48,7 @@ Fájlok átvitele kábeles kapcsolattal ahogy [itt](/docs/howto/how-to-transfer-
 Fájlok vezeték nélküli átvitele ahogy [itt](/docs/howto/how-to-transfer-files-wirelessly-from-a-computer-to-an-iphone-using-wifi-drive) leírva.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Wi-Fi Drive szerver beállításai" image="/docs/guide/evermusic/evermusic-guide-local-files/img/local-files-wifidrive-settings.webp" >}}
+  {{< ls-card title="" subtitle="Wi-Fi Drive szerver beállításai" image="/docs/guide/evermusic/evermusic-guide-local-files/img/local-files-wifidrive-settings.webp" >}}
 {{< /cards >}}
 
 ## Átviteli várólista
@@ -56,7 +56,7 @@ Fájlok vezeték nélküli átvitele ahogy [itt](/docs/howto/how-to-transfer-fil
 A navigációs sáv bal felső sarkában találsz egy „Átvitelek" gombot. Koppints rá az átviteli várólista eléréséhez, ahol az összes letöltést és feltöltést nyomon követheted és kezelheted. Emellett rugalmasan beállíthatod az átviteli várólista sebességét és hálózati típusát az alkalmazás beállításaiban.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Fájlok átviteli várólistája" image="/docs/guide/evermusic/evermusic-guide-local-files/img/local-files-file-transfers.webp" >}}
+  {{< ls-card title="" subtitle="Fájlok átviteli várólistája" image="/docs/guide/evermusic/evermusic-guide-local-files/img/local-files-file-transfers.webp" >}}
 {{< /cards >}}
 
 ## Gyors hozzáférés szakasz
@@ -68,7 +68,7 @@ A képernyő tetején egy gyors hozzáférés szakasz kényelmes hivatkozásokat
 Ez a szakasz az összes nemrég megnyitott fájlt vagy mappát jeleníti meg.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Nemrég megnyitott fájlok és mappák" image="/docs/guide/evermusic/evermusic-guide-local-files/img/local-files-recents.webp" >}}
+  {{< ls-card title="" subtitle="Nemrég megnyitott fájlok és mappák" image="/docs/guide/evermusic/evermusic-guide-local-files/img/local-files-recents.webp" >}}
 {{< /cards >}}
 
 ## Kedvencek
@@ -76,7 +76,7 @@ Ez a szakasz az összes nemrég megnyitott fájlt vagy mappát jeleníti meg.
 Fájlokat vagy mappákat jelölhetsz kedvencnek és elérheted őket ebben a szakaszban. Emellett hozzáadhatsz az eszközödön lévő mappát a kedvencekhez. Ehhez nyisd meg a kedvencek szakaszt, koppints a jobb felső sarokban lévő három pontra, és válaszd a „Mappa hozzáadása" menüpontot. Kövesd az utasításokat, hogy az eszközödről hozzáadj egy mappát a kedvencekhez a gyors hozzáférés érdekében.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Kedvencek — Mappa hozzáadása az eszközről" image="/docs/guide/evermusic/evermusic-guide-local-files/img/local-files-favorites.webp" >}}
+  {{< ls-card title="" subtitle="Kedvencek — Mappa hozzáadása az eszközről" image="/docs/guide/evermusic/evermusic-guide-local-files/img/local-files-favorites.webp" >}}
 {{< /cards >}}
 
 ## Felső eszköztár
@@ -91,7 +91,7 @@ A navigációs sáv alatt elhelyezkedő felső eszköztár számos műveletet k�
 Az felső eszköztárat lefelé húzó mozdulattal jelenítheted meg vagy rejtheted el.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Felső eszköztár az aktuális mappához" image="/docs/guide/evermusic/evermusic-guide-local-files/img/local-files-top-toolbar.webp" >}}
+  {{< ls-card title="" subtitle="Felső eszköztár az aktuális mappához" image="/docs/guide/evermusic/evermusic-guide-local-files/img/local-files-top-toolbar.webp" >}}
 {{< /cards >}}
 
 ## Speciális mappák
@@ -128,7 +128,7 @@ Megjeleníti az alkalmazás Documents könyvtárában és az iCloud Drive-on tá
 Megjeleníti az eszközödön, de különböző alkalmazásokban tárolt fájlokat. Importálhatod őket ebbe az alkalmazásba a rendszer fájlválasztójával. A választó aktiválásához válaszd a „Fájlok megnyitása..." lehetőséget fájlok kiválasztásához, vagy a „Mappák megnyitása..." lehetőséget mappák kiválasztásához. Részletes utasítások az iPhone-on vagy Macon tárolt helyi zene importálásáról [itt](/docs/howto/how-to-play-local-music-stored-on-your-iphone-or-mac) érhetők el. Az eszközödön lévő mappát is csatlakoztathatod, hogy gyorsan hozzáférhess a mappa tartalmához. Használd a „Mappa csatlakoztatása" menüpontot, és válassz egy mappát az eszközödről. Koppints a „Kész" gombra, és az alkalmazás létrehoz egy hivatkozást arra a mappára olvasási/írási hozzáféréssel, és közvetlenül ebből az alkalmazásból kezelheted a fájlokat. Az eszközödön lévő mappa leválasztásához koppints a „További műveletek" gombra, és válaszd a „Leválasztás" lehetőséget.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Fájlok ezen az iPhone / iPad / Mac eszközön" image="/docs/guide/evermusic/evermusic-guide-local-files/img/local-files-on-this-device.webp" >}}
+  {{< ls-card title="" subtitle="Fájlok ezen az iPhone / iPad / Mac eszközön" image="/docs/guide/evermusic/evermusic-guide-local-files/img/local-files-on-this-device.webp" >}}
 {{< /cards >}}
 
 ## Csatlakoztatott USB flash meghajtókon lévő fájlok importálása
@@ -151,7 +151,7 @@ A jelenleg megnyitott mappa további műveletek menüje a jobb felső sarokban v
 Ha több fájlt kell szerkesztened, aktiváld a kijelölési módot a „..." további műveletek gombra koppintva a jobb felső sarokban, majd válaszd a „Kiválasztás" menüpontot. Ez jelölőnégyzeteket jelenít meg minden fájl mellett. Jelöld ki a kívánt fájlokat jelölőnégyzetük megkoppintásával. A kijelölt fájlokon a következő műveleteket hajthatod végre.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Kijelölési mód műveletek helyi fájlokhoz" image="/docs/guide/evermusic/evermusic-guide-local-files/img/local-files-selection-mode.webp" >}}
+  {{< ls-card title="" subtitle="Kijelölési mód műveletek helyi fájlokhoz" image="/docs/guide/evermusic/evermusic-guide-local-files/img/local-files-selection-mode.webp" >}}
 {{< /cards >}}
 
 - **Lejátszás következőként:** A kijelölt fájlok vagy mappák hozzáadása a lejátszóvárólista tetejéhez az aktuális rendezési sorrendben.
@@ -186,7 +186,7 @@ Az alkalmazásban minden fájlhoz vagy mappához számos művelet érhető el, a
 ## Offline mappák
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Offline mappa további műveletek menüje" image="/docs/guide/evermusic/evermusic-guide-local-files/img/local-files-offline-folders.webp" >}}
+  {{< ls-card title="" subtitle="Offline mappa további műveletek menüje" image="/docs/guide/evermusic/evermusic-guide-local-files/img/local-files-offline-folders.webp" >}}
 {{< /cards >}}
 
 Az offline mód egy praktikus funkció, amely lehetővé teszi, hogy kedvenc zenéidet internet-kapcsolat nélkül is elérd. Amikor bármely album, előadó, lejátszólista, műfaj vagy távoli mappa esetén engedélyezed az offline módot, a gyűjteményen belüli összes fájl automatikusan letöltődik az eszközre offline lejátszás céljából. Ezeket a fájlokat kényelmesen az alkalmazás „Offline mappák" szakaszában érheted el.
@@ -204,7 +204,7 @@ Részletes utasítások arról, hogyan játszhatsz offline zenét az Evermusicba
 A Helyi fájlok képernyő szinte minden viselkedése — a hálózati sávszélességtől a letöltések célhelyéig a bélyegképek gyorsítótárazásáig — a **Beállítások → Fájlkezelő** alatt konfigurálható. Nyisd meg, amikor finomhangolni szeretnéd az átviteli sebességet, tárhelyet akarsz megtakarítani, vagy csak Wi-Fi-ra szeretnéd korlátozni az alkalmazást.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Fájlkezelő beállítások képernyő" image="/docs/guide/evermusic/evermusic-guide-local-files/img/local-files-file-manager-settings.webp" >}}
+  {{< ls-card title="" subtitle="Fájlkezelő beállítások képernyő" image="/docs/guide/evermusic/evermusic-guide-local-files/img/local-files-file-manager-settings.webp" >}}
 {{< /cards >}}
 
 A képernyő minden opciót egyértelműen jelölt szakaszokba csoportosítva mutat be:

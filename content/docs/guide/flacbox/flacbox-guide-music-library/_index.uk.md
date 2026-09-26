@@ -19,7 +19,7 @@ readingTime: 11
 Керування музичною бібліотекою у Flacbox не становить труднощів — можна без зусиль організувати всі треки у форматах FLAC, ALAC, DSD, MP3, M4A, OGG, WMA, APE та десятках інших у єдину пошукову колекцію. Є два варіанти побудови музичної бібліотеки: ручне додавання (ви обираєте, що додати) або автоматична синхронізація (Flacbox сканує зазначені хмарні папки й автоматично додає нові файли).
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox Музична бібліотека — вид альбомів" image="/docs/guide/flacbox/img/media-library-albums.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox Музична бібліотека — вид альбомів" image="/docs/guide/flacbox/img/media-library-albums.webp" >}}
 {{< /cards >}}
 
 ## Ручне додавання
@@ -27,7 +27,7 @@ readingTime: 11
 Для ручного додавання треків натисніть значок **Додати музику** у верхньому лівому куті та виберіть папки або файли з підключеного хмарного сховища або файли на пристрої. Під час додавання треків до бібліотеки створюються лише посилання — самі файли залишаються на своїх місцях для економії місця. Якщо потрібно зробити треки доступними офлайн, скористайтесь дією «Завантажити» або увімкніть офлайн режим.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox — Додати пісні до музичної бібліотеки" image="/docs/guide/flacbox/img/library-add-songs.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox — Додати пісні до музичної бібліотеки" image="/docs/guide/flacbox/img/library-add-songs.webp" >}}
 {{< /cards >}}
 
 На Mac можна також перетягувати файли до бібліотеки або використовувати **Відкрити файли…** / **Відкрити папку…** через системний вибір файлів на iPhone та iPad.
@@ -89,7 +89,7 @@ readingTime: 11
 Функція пошуку дозволяє знайти конкретний трек, виконавця, альбом або жанр у музичній бібліотеці. На екрані пошуку є доступ до дій Сортування, Фільтра та вигляду Сітка / Список.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox — Пошук у музичній бібліотеці" image="/docs/guide/flacbox/img/media-library-search.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox — Пошук у музичній бібліотеці" image="/docs/guide/flacbox/img/media-library-search.webp" >}}
 {{< /cards >}}
 
 ## Меню опцій
@@ -138,7 +138,7 @@ readingTime: 11
 - **Сольні альбоми** — показує альбоми, де є лише треки вказаного виконавця.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox — Екран деталей альбому" image="/docs/guide/flacbox/img/media-library-album-details-screen.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox — Екран деталей альбому" image="/docs/guide/flacbox/img/media-library-album-details-screen.webp" >}}
 {{< /cards >}}
 
 ## Налаштування

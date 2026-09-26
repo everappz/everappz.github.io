@@ -7,7 +7,7 @@ tags: ["cloud", "streaming", "iphone", "mp3", "archiviazione", "dropbox"]
 keywords: ["riprodurre musica Dropbox iPhone", "musica offline Dropbox iOS", "Evermusic Dropbox", "lettore mp3 cloud", "streaming audio Dropbox", "gestore file Evermusic", "Dropbox iOS audio"]
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **In breve:** Carica la tua musica su Dropbox, installa l'app gratuita Evermusic sul tuo iPhone, collega il tuo account Dropbox e riproduci o scarica i tuoi brani per l'ascolto offline. Evermusic supporta MP3, FLAC, WAV, AAC e altro. Include un equalizzatore a 10 bande, playlist e gestione dei file.
@@ -35,7 +35,7 @@ Evermusic è assolutamente gratuito e disponibile sia per iPhone che per iPad, c
 
 {{< cards cols="1">}}
 
-  {{< card title="Scaricare Evermusic" subtitle="Lettore musicale offline e streamer cloud per iPhone e iPad." icon="download" link="https://itunes.apple.com/us/app/evermusic-offline-music/id885367198?mt=8" >}}
+  {{< ls-card title="Scaricare Evermusic" subtitle="Lettore musicale offline e streamer cloud per iPhone e iPad." icon="download" link="https://itunes.apple.com/us/app/evermusic-offline-music/id885367198?mt=8" >}}
 
 {{< /cards >}}
 
@@ -67,26 +67,26 @@ Evermusic è anche un gestore di file completo che supporta operazioni di base: 
 
 ## FAQ
 
-{{% details title="Posso riprodurre la musica di Dropbox offline sul mio iPhone?" closed="true" %}}
+{{% ls-details title="Posso riprodurre la musica di Dropbox offline sul mio iPhone?" closed="true" %}}
 Sì. Usa Evermusic per collegare il tuo Dropbox, poi scarica qualsiasi brano o playlist per l'ascolto offline. I file scaricati vengono archiviati sul tuo dispositivo e si riproducono senza connessione a Internet.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Evermusic è gratuito?" closed="true" %}}
+{{% ls-details title="Evermusic è gratuito?" closed="true" %}}
 Evermusic è gratuito da scaricare con funzionalità di base tra cui equalizzatore, streaming cloud e riproduzione offline. La versione gratuita supporta fino a 3 connessioni cloud e 10 playlist. L'aggiornamento a Premium rimuove tutti i limiti.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Quali formati audio supporta Evermusic da Dropbox?" closed="true" %}}
+{{% ls-details title="Quali formati audio supporta Evermusic da Dropbox?" closed="true" %}}
 Evermusic riproduce MP3, FLAC, WAV, AAC, AIFF, OGG, WMA e molti altri formati direttamente da Dropbox.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Posso collegare più servizi cloud?" closed="true" %}}
+{{% ls-details title="Posso collegare più servizi cloud?" closed="true" %}}
 Sì. Evermusic supporta Dropbox, Google Drive, OneDrive, Box, WebDAV, SMB, MEGA e altro. Puoi collegare account illimitati e sfogliarli tutti in un'unica libreria.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Evermusic sincronizza le playlist tra i dispositivi?" closed="true" %}}
+{{% ls-details title="Evermusic sincronizza le playlist tra i dispositivi?" closed="true" %}}
 Le playlist create in Evermusic vengono archiviate localmente sul tuo dispositivo. I tuoi file Dropbox rimangono sincronizzati su tutti i dispositivi tramite Dropbox stesso.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Come posso liberare spazio di archiviazione sull'iPhone con la musica di Dropbox?" closed="true" %}}
+{{% ls-details title="Come posso liberare spazio di archiviazione sull'iPhone con la musica di Dropbox?" closed="true" %}}
 Sposta i tuoi file musicali su Dropbox e riproducili in streaming tramite Evermusic invece di archiviarli sull'iPhone. Scarica solo i brani di cui hai bisogno per l'ascolto offline.
-{{% /details %}}
+{{% /ls-details %}}

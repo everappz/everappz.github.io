@@ -12,7 +12,7 @@ authors:
     image: "/images/about/artem-meleshko-founder-everappz.webp"
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 **בקצרה:** Evermusic 6.8 מוסיף שילוב עם Aliyun Drive ו-Synology NAS (עם QuickConnect), שישה אפקטי גלילה חדשים לעטיפות אלבומים, נגן מסך מלא מינימלי, ניהול קבצים בגרירה ושחרור וטעינת עטיפות מהירה יותר. זמין כעת ל-iOS ו-macOS.
 
@@ -77,18 +77,18 @@ Evermusic 6.8 מתמקד בשלושה תחומים: תאימות ענן רחבה
 
 ## שאלות נפוצות
 
-{{% details title="כיצד לחבר Synology NAS ל-Evermusic?" closed="true" %}}
+{{% ls-details title="כיצד לחבר Synology NAS ל-Evermusic?" closed="true" %}}
 עבור ללשונית חיבורים, בחר Synology והזן את ה-QuickConnectID שלך. Evermusic מתחבר ישירות ללא צורך בכתובות IP או הגדרת VPN.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="האם השימוש ב-Aliyun Drive עם Evermusic חינמי?" closed="true" %}}
+{{% ls-details title="האם השימוש ב-Aliyun Drive עם Evermusic חינמי?" closed="true" %}}
 כן. אם יש לך חשבון Aliyun Drive, תוכל לחבר אותו ל-Evermusic ללא עלות נוספת. מגבלות האחסון תלויות בתוכנית ה-Aliyun Drive שלך.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="האם ניתן להתאים אישית את סגנון גלילת עטיפות האלבומים?" closed="true" %}}
+{{% ls-details title="האם ניתן להתאים אישית את סגנון גלילת עטיפות האלבומים?" closed="true" %}}
 כן. עבור ל-Settings > Audio Player > Personalization > Album Covers Scrolling Style ובחר מתוך שש אפשרויות: MacDoc, Linear, Rotary, Inverted Rotary, Cylinder או CoverFlow.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="האם מסך הנגן המינימלי עובד עם כל המכשירים?" closed="true" %}}
+{{% ls-details title="האם מסך הנגן המינימלי עובד עם כל המכשירים?" closed="true" %}}
 כן. סגנון עטיפת האלבום במסך מלא זמין בכל מכשירי ה-iPhone, iPad ו-Mac הנתמכים שמריצים Evermusic 6.8 או גרסה מאוחרת יותר.
-{{% /details %}}
+{{% /ls-details %}}

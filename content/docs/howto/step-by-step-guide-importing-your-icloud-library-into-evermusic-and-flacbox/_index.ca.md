@@ -7,7 +7,7 @@ tags: ["música", "núvol", "streaming", "sincronització", "icloud", "bibliotec
 keywords: ["importar música iCloud Evermusic", "sincronització iCloud Flacbox", "Evermusic streaming des d'iCloud", "biblioteca de música app iOS", "lector de metadades Flacbox", "streaming música iCloud iPhone"]
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **Resum:** Pots reproduir en streaming la teva biblioteca de música d'iCloud Drive a Evermusic i Flacbox sense descarregar fitxers al teu dispositiu. Connecta iCloud Drive a l'aplicació, activa la sincronització de música en línia per construir la teva biblioteca, configura el lector de metadades per organitzar per artista/àlbum/gènere, i opcionalment activa el mode fora de línia per descarregar àlbums per escoltar sense internet. Aquests passos també funcionen amb Google Drive, Dropbox, OneDrive i altres serveis al núvol compatibles.
@@ -148,26 +148,26 @@ Això és tot per avui! Esperem que aquesta guia t'ajudi a configurar la sincron
 
 ## Preguntes freqüents
 
-{{% details title="Puc reproduir en streaming música d'iCloud sense descarregar fitxers al meu iPhone?" closed="true" %}}
+{{% ls-details title="Puc reproduir en streaming música d'iCloud sense descarregar fitxers al meu iPhone?" closed="true" %}}
 Sí. Quan connectes iCloud Drive a Evermusic o Flacbox i utilitzes la sincronització de música en línia, l'aplicació crea enllaços als teus fitxers al núvol i els reprodueix en streaming sota demanda. Els fitxers no es descarreguen tret que activis explícitament el mode fora de línia.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Per què és lenta la importació de música d'iCloud a Flacbox o Evermusic?" closed="true" %}}
+{{% ls-details title="Per què és lenta la importació de música d'iCloud a Flacbox o Evermusic?" closed="true" %}}
 La importació lenta sol ser causada per la lectura de metadades d'una biblioteca gran a través d'una connexió mòbil. Activa la sincronització en segon pla, inicia la reproducció d'àudio per mantenir l'aplicació activa, i considera utilitzar la versió de Mac per a la sincronització inicial de col·leccions grans.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Funciona aquesta guia amb serveis al núvol diferents d'iCloud?" closed="true" %}}
+{{% ls-details title="Funciona aquesta guia amb serveis al núvol diferents d'iCloud?" closed="true" %}}
 Sí. Els mateixos passos s'apliquen a Google Drive, Dropbox, OneDrive, SMB, WebDAV i tots els altres serveis al núvol compatibles amb Evermusic i Flacbox.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Com transfereixo la meva biblioteca de música de Mac a iPhone?" closed="true" %}}
+{{% ls-details title="Com transfereixo la meva biblioteca de música de Mac a iPhone?" closed="true" %}}
 Utilitza la funció de còpia de seguretat/restauració a la configuració de l'aplicació. Sincronitza i llegeix les metadades a la versió de Mac primer, crea una còpia de seguretat i després restaura-la a la versió d'iOS. Aquesta és la manera més ràpida de configurar una biblioteca gran a l'iPhone.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="El lector de metadades canviarà els meus fitxers d'àudio originals?" closed="true" %}}
+{{% ls-details title="El lector de metadades canviarà els meus fitxers d'àudio originals?" closed="true" %}}
 No. El lector de metadades només actualitza la informació de visualització a la teva biblioteca de música. No modifica els fitxers emmagatzemats al teu compte al núvol o al teu dispositiu. Per editar les etiquetes dels fitxers, utilitza l'editor d'etiquetes integrat.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Com faig que els àlbums estiguin disponibles fora de línia?" closed="true" %}}
+{{% ls-details title="Com faig que els àlbums estiguin disponibles fora de línia?" closed="true" %}}
 Utilitza la funció de mode fora de línia. Toca **Més accions** a qualsevol carpeta al núvol i selecciona **Activar el mode fora de línia**. L'aplicació descarrega tots els fitxers i els manté sincronitzats amb la versió al núvol automàticament.
-{{% /details %}}
+{{% /ls-details %}}

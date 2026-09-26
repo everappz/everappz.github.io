@@ -16,15 +16,15 @@ screenshots:
   - "https://everappz.com/products/flacbox/screenshots/2048x2732/6.png"
 ---
 
-{{% sr-only %}}
+{{% ls-sr-only %}}
 Flacbox je přehrávač zvuku ve vysokém rozlišení pro iPhone a Mac vyvinutý společností Everappz, španělskou softwarovou firmou. S více než 1 milionem stažení po celém světě je Flacbox navržen pro audiofily a hudební nadšence, kteří chtějí přehrávat bezztrátové a zvukové soubory ve vysokém rozlišení na svých zařízeních Apple bez nutnosti konverze formátů. Aplikace nativně podporuje více než 120 audio formátů včetně FLAC, DSD (DSD64, DSD128, DSD256), ALAC, APE, WAV, AIFF, OGG, OPUS, WMA, MKA, MP3, AAC a dalších. Flacbox se připojuje k více než 30 službám cloudového úložiště včetně iCloud Drive, Google Drive, Dropbox, OneDrive, MEGA, Box a pCloud, což uživatelům umožňuje streamovat jejich sbírku hudby ve vysokém rozlišení přímo z cloudu nebo stahovat soubory pro offline přehrávání. Mezi klíčové funkce patří 10pásmový audio ekvalizér s přizpůsobitelnými předvolbami, prolínání a bezmezerové přehrávání, ovládání výšky tónu a rychlosti, zesílení basů, import a export playlistů M3U, zobrazení textů, audio záložky, vestavěný editor metadat, integrace s Apple CarPlay, streamování přes AirPlay a Chromecast a scrobbling na Last.fm. Aplikace podporuje streamování v místní síti prostřednictvím protokolů SMB, WebDAV a DLNA, přehrávání z USB flash disků a přenos souborů přes Wi-Fi. Flacbox je k dispozici ke stažení zdarma na App Store s volitelnými nákupy v aplikaci zahrnujícími měsíční předplatné za $4.99, roční předplatné za $19.99 nebo jednorázový doživotní nákup za $59.99. Aplikace byla poprvé vydána v roce 2016 a je aktivně udržována s pravidelnými aktualizacemi.
-{{% /sr-only %}}
+{{% /ls-sr-only %}}
 
 
 <!-- force dark theme for this page -->
-{{< force-dark >}}
+{{< ls-force-dark >}}
 
-{{< hextra/hero-container
+{{< ls-hero-container
   image="/products/flacbox/heroimage/hero_1600.png"
   imageWidth="800"
   imageCard="true"
@@ -32,36 +32,36 @@ Flacbox je přehrávač zvuku ve vysokém rozlišení pro iPhone a Mac vyvinutý
 
 <div class="hx:w-full hx:text-center">
 
-{{< downloads-badge >}}
+{{< ls-downloads-badge >}}
 
 <div class="hx:mt-6 hx:mb-6">
 <div class="hx:flex hx:gap-4 hx:items-center hx:justify-center">
-{{< app-icon src="/images/app_icons/png/Flacbox_Icon-App-1024x1024.png" alt="Flacbox Icon" class="hero-headline-icon" size="80" >}}
-{{< hextra/hero-headline >}}
+{{< ls-app-icon src="/images/app_icons/png/Flacbox_Icon-App-1024x1024.png" alt="Flacbox Icon" class="hero-headline-icon" size="80" >}}
+{{< ls-hero-headline >}}
 Flacbox
-{{< /hextra/hero-headline >}}
+{{< /ls-hero-headline >}}
 </div>
 </div>
 
 <div class="hx:mb-12">
-{{< hextra/hero-centered-subtitle >}}
+{{< ls-hero-centered-subtitle >}}
 <strong>Hi-Res audio přehrávač a streamer pro iPhone a MAC</strong>
-{{< /hextra/hero-centered-subtitle >}}
+{{< /ls-hero-centered-subtitle >}}
 </div>
 
 <div class="hx:mb-6">
-{{< hextra/hero-paragraph >}}
+{{< ls-hero-paragraph >}}
 • Přehrávejte FLAC, ALAC, APE, DSD a další v bezeztrátové kvalitě  
 • Stáhněte hudbu a poslouchejte offline s plnou kontrolou  
 • Streamujte z Google Drive, Dropbox, NAS nebo počítače   
-{{< /hextra/hero-paragraph >}}
+{{< /ls-hero-paragraph >}}
 </div>
 
-{{< app-store-badges products="flacbox:ios, flacbox:macos" >}}
+{{< ls-app-store-badges products="flacbox:ios, flacbox:macos" >}}
 
 </div>
 
-{{< /hextra/hero-container >}}
+{{< /ls-hero-container >}}
 
 <div class="hx:mt-6"></div>
 
@@ -69,7 +69,7 @@ Flacbox
 
 {{< hextra/feature-grid >}}
 
-  {{< hextra/feature-card
+  {{< ls-glass-feature-card
     title="Streamujte bezeztrátovou hudbu"
     subtitle=`Užijte si bezeztrátovou hudbu na iPhone, iPad a Mac bez předplatného.<br><br>
 Připojte cloudové úložiště a streamujte FLAC, ALAC, MKA a další zdarma. Snadno přenášejte na zařízení Chromecast a AirPlay.<br><br>
@@ -78,7 +78,7 @@ Vytvořte si hudební knihovnu, organizujte skladby podle alba, interpreta a ž�
     style="background: radial-gradient(circle at 50% 80%, rgba(99,102,241,0.15), transparent);"
   >}}
 
-  {{< hextra/feature-card
+  {{< ls-glass-feature-card
     title="Přehrávejte Hi-Res audio"
     subtitle=`Užijte si studiovou kvalitu zvuku s podporou více než 120 audio formátů, včetně FLAC, ALAC, WAV, AIFF a DSD.<br><br>
 Flacbox také přehrává MP3, AAC, OGG, APE, MOD, MKA a pokročilé kontejnery jako MKV, MP4 a MOV.<br><br>
@@ -87,7 +87,7 @@ S širokou kompatibilitou kodeků je celá vaše sbírka přístupná bez nutnos
     style="background: radial-gradient(circle at 50% 80%, rgba(236,72,153,0.15), transparent);"
   >}}
 
-  {{< hextra/feature-card
+  {{< ls-glass-feature-card
     title="Stáhněte a poslouchejte offline"
     subtitle=`Zůstaňte připojeni ke své hudbě i když jste offline.<br><br>
 Stáhněte celá alba, žánry, playlisty a skladby do svého zařízení. Použijte Wi-Fi Drive nebo iTunes File Sharing k přenosu zvuku z Macu nebo PC.<br><br>
@@ -102,9 +102,9 @@ Streamujte z USB flash disků nebo síťového úložiště (NAS) a užijte si c
 
 <div class="hx:mt-6"></div>
 
-{{< hextra/section-headline >}}
+{{< ls-section-headline >}}
 Kompletní funkce
-{{< /hextra/section-headline >}}
+{{< /ls-section-headline >}}
 
 <div class="hx:mt-6"></div>
 
@@ -112,41 +112,41 @@ Kompletní funkce
 
 {{< cards >}}
 
-  {{< feature-card title="Kvalita zvuku" subtitle="Užijte si výstup ve vysoké věrnosti se vzorkovacími frekvencemi od 8 kHz do 384 kHz, výchozím nebo smíšeným režimem výstupu a podporou 1 až 7 audio kanálů." icon="volume-up" >}}
-  {{< feature-card title="Bezeztrátové a Hi-Res audio" subtitle="Přehrávejte bezeztrátové a hi-res formáty jako FLAC, ALAC, WAV, AIFF, APE, WV a DSF (DSD), plus MP3, AAC, OGG a OPUS se vzorkovací frekvencí až 384 kHz." icon="music-note" >}}
-  {{< feature-card title="Tracker a MOD hudba" subtitle="Přehrávejte nativně klasickou tracker a modulovou hudbu, včetně formátů MOD, XM, IT a S3M z chiptune a demoscéne, které většina přehrávačů neumí otevřít." icon="table" >}}
+  {{< ls-feature-card title="Kvalita zvuku" subtitle="Užijte si výstup ve vysoké věrnosti se vzorkovacími frekvencemi od 8 kHz do 384 kHz, výchozím nebo smíšeným režimem výstupu a podporou 1 až 7 audio kanálů." icon="volume-up" >}}
+  {{< ls-feature-card title="Bezeztrátové a Hi-Res audio" subtitle="Přehrávejte bezeztrátové a hi-res formáty jako FLAC, ALAC, WAV, AIFF, APE, WV a DSF (DSD), plus MP3, AAC, OGG a OPUS se vzorkovací frekvencí až 384 kHz." icon="music-note" >}}
+  {{< ls-feature-card title="Tracker a MOD hudba" subtitle="Přehrávejte nativně klasickou tracker a modulovou hudbu, včetně formátů MOD, XM, IT a S3M z chiptune a demoscéne, které většina přehrávačů neumí otevřít." icon="table" >}}
 
-  {{< feature-card title="Audio enginy" subtitle="Vyberte si ze tří přehrávacích enginů: standardní systémový engine, univerzální engine FFmpeg a profesionální engine BASS™, který odemyká efekty, DSP a vizualizace." icon="switch-horizontal" >}}
-  {{< feature-card title="Audio efekty" subtitle="Tvarujte svůj zvuk v reálném čase pomocí reverbu, delay, echa, chorusu, flangeru, phaseru, auto-wah, zkreslení, kompresoru a přirozeného crossfeedu pro sluchátka." icon="lightning-bolt" >}}
-  {{< feature-card title="DSP řetězec" subtitle="Sestavte si vlastní řetězec zpracování v reálném čase z profesionálních filtrů a pásem EQ, saturace a bit crusheru, plus kreativních procesorů jako tremolo a šířka sterea." icon="chip" >}}
+  {{< ls-feature-card title="Audio enginy" subtitle="Vyberte si ze tří přehrávacích enginů: standardní systémový engine, univerzální engine FFmpeg a profesionální engine BASS™, který odemyká efekty, DSP a vizualizace." icon="switch-horizontal" >}}
+  {{< ls-feature-card title="Audio efekty" subtitle="Tvarujte svůj zvuk v reálném čase pomocí reverbu, delay, echa, chorusu, flangeru, phaseru, auto-wah, zkreslení, kompresoru a přirozeného crossfeedu pro sluchátka." icon="lightning-bolt" >}}
+  {{< ls-feature-card title="DSP řetězec" subtitle="Sestavte si vlastní řetězec zpracování v reálném čase z profesionálních filtrů a pásem EQ, saturace a bit crusheru, plus kreativních procesorů jako tremolo a šířka sterea." icon="chip" >}}
 
-  {{< feature-card title="Audio ekvalizér" subtitle="Dolaďte svůj zvuk vícepásmovým ekvalizérem, hotovými žánrovými presety, ručním ovládáním a předzesílením pro zesílení tichých skladeb bez ořezání." icon="adjustments" >}}
-  {{< feature-card title="Hudební vizualizér" subtitle="Sledujte animované vizualizace na celou obrazovku, které reagují živě na vaši hudbu, s výběrem z velké knihovny presetů nebo jejich automatickým střídáním." icon="sparkles" >}}
-  {{< feature-card title="Ovládání přehrávání" subtitle="Upravte rychlost přehrávání beze změny výšky tónu, ukládejte a obnovujte frontu a pozici a používejte časovač spánku, náhodné přehrávání, opakování a přehrávání na pozadí." icon="play" >}}
+  {{< ls-feature-card title="Audio ekvalizér" subtitle="Dolaďte svůj zvuk vícepásmovým ekvalizérem, hotovými žánrovými presety, ručním ovládáním a předzesílením pro zesílení tichých skladeb bez ořezání." icon="adjustments" >}}
+  {{< ls-feature-card title="Hudební vizualizér" subtitle="Sledujte animované vizualizace na celou obrazovku, které reagují živě na vaši hudbu, s výběrem z velké knihovny presetů nebo jejich automatickým střídáním." icon="sparkles" >}}
+  {{< ls-feature-card title="Ovládání přehrávání" subtitle="Upravte rychlost přehrávání beze změny výšky tónu, ukládejte a obnovujte frontu a pozici a používejte časovač spánku, náhodné přehrávání, opakování a přehrávání na pozadí." icon="play" >}}
 
-  {{< feature-card title="Cloudové streamování" subtitle="Streamujte přímo z iCloud Drive, Google Drive, Dropbox, OneDrive, Box, MEGA a pCloud, plus cloudů zaměřených na soukromí jako Internxt a Proton Drive." icon="cloud" >}}
-  {{< feature-card title="Mediální servery" subtitle="Připojte své osobní mediální servery, včetně Plex, Subsonic, Navidrome, Jellyfin a Emby, a otevřete a streamujte celou svou hudební knihovnu." icon="server" >}}
-  {{< feature-card title="Počítač a NAS" subtitle="Připojte počítač nebo NAS přes SMB, WebDAV, DLNA, FTP, SFTP nebo NFS, s nativní podporou QNAP, Synology, Nextcloud a WD My Cloud Home." icon="desktop-computer" >}}
+  {{< ls-feature-card title="Cloudové streamování" subtitle="Streamujte přímo z iCloud Drive, Google Drive, Dropbox, OneDrive, Box, MEGA a pCloud, plus cloudů zaměřených na soukromí jako Internxt a Proton Drive." icon="cloud" >}}
+  {{< ls-feature-card title="Mediální servery" subtitle="Připojte své osobní mediální servery, včetně Plex, Subsonic, Navidrome, Jellyfin a Emby, a otevřete a streamujte celou svou hudební knihovnu." icon="server" >}}
+  {{< ls-feature-card title="Počítač a NAS" subtitle="Připojte počítač nebo NAS přes SMB, WebDAV, DLNA, FTP, SFTP nebo NFS, s nativní podporou QNAP, Synology, Nextcloud a WD My Cloud Home." icon="desktop-computer" >}}
 
-  {{< feature-card title="USB flash karty" subtitle="Přehrávejte hudbu přímo z SD karet a USB flash disků pomocí externích čteček jako SanDisk iXpand, bez nutnosti importu nebo synchronizace." icon="inbox" >}}
-  {{< feature-card title="AirPlay a Chromecast" subtitle="Odesílejte svou hudbu bezdrátově na Apple TV, HomePod, chytré reproduktory a další s vestavěnou podporou AirPlay, AirPlay 2 a Google Chromecast." icon="device-mobile" >}}
-  {{< feature-card title="Apple CarPlay" subtitle="Jezděte a poslouchejte bezpečně s jednoduchou, vyhrazenou obrazovkou Apple CarPlay pro výběr a ovládání hudby z cloudových, lokálních a offline zdrojů." icon="map" >}}
+  {{< ls-feature-card title="USB flash karty" subtitle="Přehrávejte hudbu přímo z SD karet a USB flash disků pomocí externích čteček jako SanDisk iXpand, bez nutnosti importu nebo synchronizace." icon="inbox" >}}
+  {{< ls-feature-card title="AirPlay a Chromecast" subtitle="Odesílejte svou hudbu bezdrátově na Apple TV, HomePod, chytré reproduktory a další s vestavěnou podporou AirPlay, AirPlay 2 a Google Chromecast." icon="device-mobile" >}}
+  {{< ls-feature-card title="Apple CarPlay" subtitle="Jezděte a poslouchejte bezpečně s jednoduchou, vyhrazenou obrazovkou Apple CarPlay pro výběr a ovládání hudby z cloudových, lokálních a offline zdrojů." icon="map" >}}
 
-  {{< feature-card title="Offline poslech" subtitle="Stáhněte si skladby, alba a celé interprety pro poslech bez internetu, nebo zapněte audio cache pro automatické ukládání naposledy přehraných skladeb." icon="download" >}}
-  {{< feature-card title="Automatická synchronizace" subtitle="Udržujte svou knihovnu automaticky synchronizovanou mezi cloudovým úložištěm a lokálními složkami, takže nově přidané soubory se objeví bez jakékoli ruční práce." icon="refresh" >}}
-  {{< feature-card title="Mediální knihovna" subtitle="Přidejte svou hudbu a organizujte ji automaticky podle alba, interpreta, interpreta alba, žánru a skladatele pomocí tagů vložených ve vašich souborech." icon="library" >}}
+  {{< ls-feature-card title="Offline poslech" subtitle="Stáhněte si skladby, alba a celé interprety pro poslech bez internetu, nebo zapněte audio cache pro automatické ukládání naposledy přehraných skladeb." icon="download" >}}
+  {{< ls-feature-card title="Automatická synchronizace" subtitle="Udržujte svou knihovnu automaticky synchronizovanou mezi cloudovým úložištěm a lokálními složkami, takže nově přidané soubory se objeví bez jakékoli ruční práce." icon="refresh" >}}
+  {{< ls-feature-card title="Mediální knihovna" subtitle="Přidejte svou hudbu a organizujte ji automaticky podle alba, interpreta, interpreta alba, žánru a skladatele pomocí tagů vložených ve vašich souborech." icon="library" >}}
 
-  {{< feature-card title="Vlastní playlisty" subtitle="Vytvářejte, upravujte a přeuspořádávejte vlastní playlisty, zpřístupněte je offline a importujte nebo exportujte je ve formátech M3U, M3U8 a CUE." icon="collection" >}}
-  {{< feature-card title="Správce souborů" subtitle="Spravujte svou hudbu vestavěným správcem souborů, který zvládá běžné operace jako kopírování, přesun, přejmenování a mazání pro udržení pořádku v souborech." icon="folder" >}}
-  {{< feature-card title="Editor ID3 tagů" subtitle="Opravte nesprávná nebo chybějící metadata vestavěným editorem ID3 tagů, aktualizujte název, interpreta, album, žánr a další během několika klepnutí." icon="pencil-alt" >}}
+  {{< ls-feature-card title="Vlastní playlisty" subtitle="Vytvářejte, upravujte a přeuspořádávejte vlastní playlisty, zpřístupněte je offline a importujte nebo exportujte je ve formátech M3U, M3U8 a CUE." icon="collection" >}}
+  {{< ls-feature-card title="Správce souborů" subtitle="Spravujte svou hudbu vestavěným správcem souborů, který zvládá běžné operace jako kopírování, přesun, přejmenování a mazání pro udržení pořádku v souborech." icon="folder" >}}
+  {{< ls-feature-card title="Editor ID3 tagů" subtitle="Opravte nesprávná nebo chybějící metadata vestavěným editorem ID3 tagů, aktualizujte název, interpreta, album, žánr a další během několika klepnutí." icon="pencil-alt" >}}
 
-  {{< feature-card title="Pokročilé vyhledávání" subtitle="Rychle najděte jakoukoli skladbu, interpreta nebo album v celé své sbírce chytrým a rychlým vyhledáváním navrženým pro velmi velké hudební knihovny." icon="search" >}}
-  {{< feature-card title="Rychlý přístup" subtitle="Vraťte se rovnou k tomu, na čem záleží, díky sekcím Naposledy přehrané, Oblíbené a Záložky, takže vaše oblíbené skladby máte vždy na jedno klepnutí." icon="clock" >}}
-  {{< feature-card title="Texty a komentáře" subtitle="Prohlížejte si časované texty a poznámky ke skladbám uvnitř každé stopy při přehrávání a přidejte widget Texty na domovskou obrazovku pro rychlý přehled." icon="annotation" >}}
+  {{< ls-feature-card title="Pokročilé vyhledávání" subtitle="Rychle najděte jakoukoli skladbu, interpreta nebo album v celé své sbírce chytrým a rychlým vyhledáváním navrženým pro velmi velké hudební knihovny." icon="search" >}}
+  {{< ls-feature-card title="Rychlý přístup" subtitle="Vraťte se rovnou k tomu, na čem záleží, díky sekcím Naposledy přehrané, Oblíbené a Záložky, takže vaše oblíbené skladby máte vždy na jedno klepnutí." icon="clock" >}}
+  {{< ls-feature-card title="Texty a komentáře" subtitle="Prohlížejte si časované texty a poznámky ke skladbám uvnitř každé stopy při přehrávání a přidejte widget Texty na domovskou obrazovku pro rychlý přehled." icon="annotation" >}}
 
-  {{< feature-card title="Widgety" subtitle="Přidejte widgety na domovskou obrazovku, které zobrazují vaši frontu přehrávání a umožňují vám rovnou navázat přesně tam, kde jste naposledy skončili." icon="view-grid" >}}
-  {{< feature-card title="Podpora audioknih" subtitle="Poslouchejte audioknihy se záložkami, časovačem spánku, nastavitelnou rychlostí a obnovením přehrávání, které naváže přesně tam, kde jste naposledy přestali." icon="book-open" >}}
-  {{< feature-card title="Integrace Last.fm" subtitle="Připojte svůj účet Last.fm ke scrobblování skladeb, sledování statistik poslechu a získávání personalizovaných hudebních doporučení v průběhu času." icon="chart-bar" >}}
+  {{< ls-feature-card title="Widgety" subtitle="Přidejte widgety na domovskou obrazovku, které zobrazují vaši frontu přehrávání a umožňují vám rovnou navázat přesně tam, kde jste naposledy skončili." icon="view-grid" >}}
+  {{< ls-feature-card title="Podpora audioknih" subtitle="Poslouchejte audioknihy se záložkami, časovačem spánku, nastavitelnou rychlostí a obnovením přehrávání, které naváže přesně tam, kde jste naposledy přestali." icon="book-open" >}}
+  {{< ls-feature-card title="Integrace Last.fm" subtitle="Připojte svůj účet Last.fm ke scrobblování skladeb, sledování statistik poslechu a získávání personalizovaných hudebních doporučení v průběhu času." icon="chart-bar" >}}
 
 {{< /cards >}}
 
@@ -154,9 +154,9 @@ Kompletní funkce
 
 <div class="hx:mt-6"></div>
 
-{{< hextra/section-headline >}}
+{{< ls-section-headline >}}
 Intuitivní design
-{{< /hextra/section-headline >}}
+{{< /ls-section-headline >}}
 
 <div class="hx:mt-6"></div>
 
@@ -164,7 +164,7 @@ Intuitivní design
 
 {{< cards cols="4">}}
 
-  {{< design-feature-card 
+  {{< ls-design-feature-card 
     image="/products/flacbox/screenshots/2048x2732/1.png" 
     title="Audio přehrávač" 
     method="Fill"
@@ -173,7 +173,7 @@ Intuitivní design
     icon="play"
   >}}
 
-  {{< design-feature-card 
+  {{< ls-design-feature-card 
     image="/products/flacbox/screenshots/2048x2732/2.png"  
     title="Audio ekvalizér" 
     method="Fill"
@@ -182,7 +182,7 @@ Intuitivní design
     icon="adjustments"
   >}}
 
-  {{< design-feature-card 
+  {{< ls-design-feature-card 
     image="/products/flacbox/screenshots/2048x2732/3.png"  
     title="Správce playlistů" 
     method="Fill"
@@ -191,7 +191,7 @@ Intuitivní design
     icon="collection"
   >}}
 
-  {{< design-feature-card 
+  {{< ls-design-feature-card 
     image="/products/flacbox/screenshots/2048x2732/5.png"  
     title="Hudební knihovna" 
     method="Fill"
@@ -200,7 +200,7 @@ Intuitivní design
     icon="library"
   >}}
 
-  {{< design-feature-card 
+  {{< ls-design-feature-card 
     image="/products/flacbox/screenshots/2048x2732/7.png"  
     title="Cloudové úložiště" 
     method="Fill"
@@ -209,7 +209,7 @@ Intuitivní design
     icon="cloud"
   >}}
 
-  {{< design-feature-card 
+  {{< ls-design-feature-card 
     image="/products/flacbox/screenshots/2048x2732/8.png"  
     title="iCloud Drive" 
     method="Fill"
@@ -227,48 +227,48 @@ Intuitivní design
 <div class="hx:mt-6"></div>
 
 <div class="hx:w-full">
-{{< appstore-reviews apps="1097564256,1594027432" stars="5,4"  app="Flacbox" >}}
+{{< ls-appstore-reviews apps="1097564256,1594027432" stars="5,4"  app="Flacbox" >}}
 </div>
 
 <div class="hx:mt-6"></div>
 
-{{< hextra/section-headline >}}
+{{< ls-section-headline >}}
    Cenové plány
-{{< /hextra/section-headline >}}
+{{< /ls-section-headline >}}
 
 <div class="hx:mt-6"></div>
 
 <div class="hx:w-full">
 
-{{< pricing-plans >}}
+{{< ls-pricing-plans >}}
 
 </div>
 
 <div class="hx:mt-6"></div>
 
 <div class="hx:w-full hx:mx-auto hx:flex hx:flex-col hx:items-center">
-  {{< hextra/info-paragraph border="true" >}}
+  {{< ls-info-paragraph border="true" >}}
    <strong>Rodinné sdílení</strong>: Všechny nákupy a předplatné podporují Rodinné sdílení, které vám umožňuje sdílet Premium přístup s vaší rodinou.<br><strong>Univerzální přístup</strong>: Doživotní a předplatné plány jsou sdíleny mezi iOS a Mac zařízeními pomocí synchronizace iCloud.<br><strong>Ceny</strong>: Ceny jsou uvedeny v amerických dolarech pro Spojené státy. Konečná cena se může lišit podle vašeho regionu.  
-  {{< /hextra/info-paragraph >}}
+  {{< /ls-info-paragraph >}}
 </div>
 
 <div class="hx:mt-6"></div>
 
 <div class="hx:w-full">
-{{< app-details heading="true" >}}
+{{< ls-app-details heading="true" >}}
 </div>
 
 <div class="hx:mt-6"></div>
 
-{{< hextra/section-headline >}}
+{{< ls-section-headline >}}
    Často kladené otázky
-{{< /hextra/section-headline >}}
+{{< /ls-section-headline >}}
 
 <div class="hx:mt-6"></div>
 
 <div class="hx:w-full">
 
-{{% details title="Jak funguje Flacbox?" closed="true" %}}
+{{% ls-details title="Jak funguje Flacbox?" closed="true" %}}
 Flacbox je hi-res hudební přehrávač, který vám umožňuje spravovat audio stopy jako běžné soubory.<br>
 Můžete nahrát celou svou hudební sbírku do cloudových služeb jako Dropbox, Google Drive nebo osobní NAS a přehrávat hudbu přímo z cloudu s plnou kontrolou.<br><br>
 Není potřeba synchronizace přes iTunes – jednoduše nahrajte z vašeho PC nebo Macu jako jakýkoli jiný soubor.<br>
@@ -282,9 +282,9 @@ Prozkoumejte naše návody pro více podrobností:<br>
 - [Jak bezdrátově přenést soubory z počítače na iPhone pomocí WiFi-Drive.](/docs/howto/how-to-transfer-files-wirelessly-from-a-computer-to-an-iphone-using-wifi-drive)<br>
 - [Jak připojit USB flash kartu k iPhone a poslouchat hudbu nebo spravovat soubory.](/docs/howto/how-to-connect-a-usb-flashcard-to-the-iphone-and-listen-to-music-or-manage-files-located-on-it)<br>
 - [Jak přehrávat hudbu na iPhone z WD My Cloud Home.](/docs/howto/how-to-play-music-on-iphone-from-wd-my-cloud-home)
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Je Flacbox zdarma?" closed="true" %}}
+{{% ls-details title="Je Flacbox zdarma?" closed="true" %}}
 Flacbox je zdarma k použití s některými omezeními, která lze odstranit upgradem na Premium verzi.<br>
 Můžete si vybrat mezi jednorázovým doživotním nákupem nebo dvěma možnostmi předplatného (měsíční nebo roční). Ceny se mohou lišit podle vašeho regionu.<br><br>
 
@@ -293,10 +293,10 @@ Rodinné sdílení je povoleno pro všechny plány, takže můžete sdílet Prem
 Premium nákupy a předplatné jsou sdíleny mezi iOS a Macem přes iCloud. Pro synchronizaci nákupu se ujistěte, že je iCloud povolen, otevřete aplikaci na vašem iOS zařízení a počkejte minutu na dokončení synchronizace.<br><br>
 
 [Přečtěte si více o rozdílech mezi Flacbox a Flacbox Premium](/docs/faq/flacbox/what-is-the-difference-between-flacbox-and-flacbox-premium/)
-{{% /details %}}
+{{% /ls-details %}}
 
 
-{{% details title="Jaký je rozdíl mezi Flacbox a Evermusic?" closed="true" %}}
+{{% ls-details title="Jaký je rozdíl mezi Flacbox a Evermusic?" closed="true" %}}
 **Flacbox** je navržen pro podporu všech výchozích audio formátů iOS spolu s mnoha dalšími formáty, které nejsou na iPhone nativně podporovány, jako WMA, OGG, M4A, DSD a další.<br>
 Používá vlastní audio engine pro zpracování téměř všech formátů a nabízí funkce jako nastavitelná vzorkovací frekvence audio výstupu a korekce výšky tónu.<br><br>
 
@@ -306,9 +306,9 @@ Pokud používáte hlavně MP3, ALAC nebo FLAC, **Evermusic** může být lepš�
 Pokud potřebujete širokou kompatibilitu s různými typy audio souborů, **Flacbox** je správná volba.<br><br>
 
 [Zjistěte více o rozdílech mezi Flacbox a Evermusic](/docs/faq/evermusic/what-is-the-difference-between-evermusic-and-flacbox/)
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Jak synchronizuji Flacbox?" closed="true" %}}
+{{% ls-details title="Jak synchronizuji Flacbox?" closed="true" %}}
 
 **Synchronizace metadat**  
 Když přidáte stopy do své knihovny, čtečka metadat na pozadí prohledá vaše soubory a organizuje je podle Interpreta, Alba, Žánru a Skladatele.<br>
@@ -345,10 +345,10 @@ Můžete také přizpůsobit **intervaly časového limitu synchronizace** v nas
 
 [Přečtěte si více](/docs/guide/flacbox/flacbox-guide-music-library)
 
-{{% /details %}}
+{{% /ls-details %}}
 
 
-{{% details title="Jak používám Flacbox?" closed="true" %}}
+{{% ls-details title="Jak používám Flacbox?" closed="true" %}}
 
 **Nainstalujte Flacbox**<br>
 Stáhněte a nainstalujte aplikaci Flacbox z obchodu aplikací vašeho zařízení. Je k dispozici pro zařízení iOS i Mac.<br><br>
@@ -408,10 +408,10 @@ Prozkoumejte návody v aplikaci nebo navštivte tyto průvodce:<br><br>
 • [Připojit USB flash kartu](/docs/howto/how-to-connect-a-usb-flashcard-to-the-iphone-and-listen-to-music-or-manage-files-located-on-it)<br>
 • [Bezdrátový přenos WiFi-Drive](/docs/howto/how-to-transfer-files-wirelessly-from-a-computer-to-an-iphone-using-wifi-drive)
 
-{{% /details %}}
+{{% /ls-details %}}
 
 
-{{% details title="Je Flacbox bezpečný?" closed="true" %}}
+{{% ls-details title="Je Flacbox bezpečný?" closed="true" %}}
 Flacbox používá pouze oficiální SDK a zabezpečená připojení pro interakci s připojenými cloudovými službami. Vaše přihlašovací jméno a heslo nejsou pro aplikaci dostupné. Všechny požadavky z aplikace na cloudovou službu jsou šifrované.<br>
 Když zadáte přihlašovací jméno a heslo, aplikace vám zobrazí oficiální autorizační stránku poskytovanou poskytovatelem cloudové služby a celý autorizační proces probíhá mimo aplikaci. Poskytovatel cloudové služby odešle autorizační token aplikaci po úspěšné autorizaci a tento token se používá k provádění API volání.<br><br>
 
@@ -423,24 +423,24 @@ Pro odmítnutí autorizačního tokenu se přihlaste ke svému účtu ve webové
 Můžete také odpojit připojené cloudové účty v aplikaci a autorizační token bude také odstraněn z vašeho zařízení. Pokud odstraníte aplikaci ze svého zařízení, všechna stažená data a přístupové tokeny budou také odstraněny.<br><br>
 
 [Přečtěte si více](/docs/guide/flacbox/flacbox-guide-connections)
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Jak vytvořím playlist ve Flacbox?" closed="true" %}}
+{{% ls-details title="Jak vytvořím playlist ve Flacbox?" closed="true" %}}
 - Otevřete sekci Playlisty.<br>
 - Klepněte na tlačítko "+" nebo tlačítko "..." v pravém horním rohu a vyberte "Nový playlist".<br>
 - Zadejte název playlistu a klepněte na "Uložit". Zobrazí se dialog "Přidat skladby".<br>
 - Vyberte stopy, které chcete přidat do playlistu.<br><br>
 
 [Přečtěte si více](/docs/guide/flacbox/flacbox-guide-playlists)
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Jaké cloudové služby Flacbox podporuje?" closed="true" %}}
+{{% ls-details title="Jaké cloudové služby Flacbox podporuje?" closed="true" %}}
 V současnosti aplikace podporuje nejpopulárnější cloudové služby: iCloud Drive, Google Drive, Dropbox, OneDrive, Box, MEGA, Yandex.Disk, WD MyCloud Home, DLNA, MediaFire, WebDAV, SMB, pCloud, HiDrive, My Cloud Home, InfiniCLOUD, Cloud Mail.ru, Put.io, MyDrive.<br><br>
 
 [Přečtěte si více](/docs/guide/flacbox/flacbox-guide-connections)
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Jak mohu použít ekvalizér?" closed="true" %}}
+{{% ls-details title="Jak mohu použít ekvalizér?" closed="true" %}}
 - Otevřete obrazovku Audio přehrávače.<br>
 - Klepněte na ikonu "Ekvalizér" ve spodní části obrazovky.<br>
 - Přepněte přepínač v pravém horním rohu obrazovky ekvalizéru pro jeho aktivaci.<br>
@@ -448,9 +448,9 @@ V současnosti aplikace podporuje nejpopulárnější cloudové služby: iCloud 
 
 Kompletní návod je k dispozici zde:<br>
 [Jak používat audio ekvalizér na vašem iPhone, iPad, Mac s Evermusic a Flacbox](/docs/howto/how-to-use-the-audio-equalizer-on-your-iphone-ipad-mac-with-evermusic-and-flacbox)
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Jak povolím offline režim ve Flacbox?" closed="true" %}}
+{{% ls-details title="Jak povolím offline režim ve Flacbox?" closed="true" %}}
 - Připojte cloudovou službu:<br>
  • Přejděte na záložku "Připojení".<br>
  • Vyberte "Připojit cloudovou službu" a postupujte podle pokynů pro připojení požadované služby.<br><br>
@@ -476,9 +476,9 @@ Kompletní návod je k dispozici zde:<br>
  • Klepněte na "Další akce" a vyberte "Spustit synchronizaci".<br><br>
 
 [Přečtěte si více](/docs/howto/play-offline-music-in-evermusic-flacbox-download-sync-from-cloud-to-local-files/)
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Jak přehrávat lokálně staženou hudbu na iPhone?" closed="true" %}}
+{{% ls-details title="Jak přehrávat lokálně staženou hudbu na iPhone?" closed="true" %}}
 Po instalaci aplikace otevřete obrazovku "Lokální soubory" a posuňte se dolů k sekci "Soubory na tomto iPhone". Odtud zvolte "Otevřít soubory...", pokud potřebujete vybrat několik audio souborů, nebo "Otevřít složku...", pokud chcete vybrat složku s hudbou. Aplikace prohledá obsah složky a všechny nalezené audio soubory budou vybrány. Přejděte do složky s hudbou, klepněte na "Otevřít" pro potvrzení výběru a soubory budou přidány do fronty přehrávače. Tyto soubory budou přehrávány přímo z vybraného umístění bez kopírování do balíčku aplikace.<br><br>
 
 **Přidání složky do oblíbených pro rychlý přístup**<br>
@@ -493,13 +493,13 @@ Pro přidání lokálních souborů do playlistu otevřete obrazovku "Playlisty"
 Těmito jednoduchými kroky můžete odemknout plný potenciál vašeho iPhone a Macu jako dokonalých platforem pro užívání si vaší oblíbené lokální hudební sbírky.<br><br>
 
 [Přečtěte si více](/docs/howto/how-to-play-local-music-stored-on-your-iphone-or-mac)
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Jak mohu pokračovat v playlistu od místa, kde jsem skončil?" closed="true" %}}
+{{% ls-details title="Jak mohu pokračovat v playlistu od místa, kde jsem skončil?" closed="true" %}}
 Nejprve se ujistěte, že je povoleno "Uložit stav audio přehrávače" v Nastavení > Audio přehrávač > Obecné. Když přepnete na jiný playlist a vrátíte se, uvidíte čtyři akce na horním panelu nástrojů pod obalem alba: "Vyhledávání", "Pokračovat v přehrávání", "Přehrát vše" a "Náhodně vše". Klepněte na "Pokračovat v přehrávání" pro obnovení playlistu z posledního uloženého stavu a pozice média.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Jak zobrazit texty písní ve Flacbox?" closed="true" %}}
+{{% ls-details title="Jak zobrazit texty písní ve Flacbox?" closed="true" %}}
 Můžete zobrazit vložené texty pro stopy v aplikaci **následujícími kroky**:<br>
 1. Začněte přehrávat audio soubor klepnutím na něj.<br>
 2. Otevřete audio přehrávač na celou obrazovku.<br>
@@ -513,9 +513,9 @@ Můžete zobrazit vložené texty pro stopy v aplikaci **následujícími kroky*
 3. Režim souboru LRC: Místo úpravy audio souborů můžete umístit soubor LRC do stejné složky jako originální audio soubor. Oba soubory by měly mít stejný název, ale různé přípony. Když přejedete na třetí stránku obrazovky komentářů, aplikace vyhledá soubor LRC ve stejném adresáři a zobrazí jeho obsah.<br><br>
 
 [Přečtěte si více](/docs/howto/how-to-add-and-view-comments-to-your-audio-tracks-on-iphone-ipad-and-mac-with-evermusic-and-flacbox)
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Jak přenesu hudbu do Flacbox z mého počítače?" closed="true" %}}
+{{% ls-details title="Jak přenesu hudbu do Flacbox z mého počítače?" closed="true" %}}
 Můžete připojit svůj počítač nebo osobní NAS pomocí protokolů SMB, WebDAV nebo DLNA. Alternativně použijte iTunes File Sharing k přenosu hudby.<br><br>
 
 Pro připojení počítače pomocí protokolu SMB klepněte na "Připojit cloudovou službu" → SMB. Zadejte IP adresu počítače a název sdílené složky do pole URL ve formátu smb://ip-adresa-počítače/název-sdílené-složky, zadejte přihlašovací jméno a heslo a klepněte na "Hotovo". Pokud je připojení úspěšné, uvidíte připojené úložiště v sekci "Cloudové služby".<br><br>
@@ -536,9 +536,9 @@ Podrobný návod je k dispozici zde:<br>
 
 DLNA Můžete také nastavit DLNA media server a streamovat hudbu z Windows PC jak je popsáno zde:<br>
 [Jak povolit DLNA Media Server na Windows 10 a přehrávat hudbu na iPhone](/docs/howto/how-to-enable-dlna-media-server-on-windows-10-and-play-your-music-on-iphone)
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Jak stáhnout hudbu?" closed="true" %}}
+{{% ls-details title="Jak stáhnout hudbu?" closed="true" %}}
 Než budete moci stahovat hudbu a poslouchat ji offline, musíte připojit síťový účet.<br>
 Jednoduše otevřete obrazovku "Připojení" a přidejte svůj účet.<br>
 Po přidání síťového účtu můžete stahovat hudbu z cloudu.<br><br>
@@ -559,15 +559,15 @@ Podrobnější návod o offline režimu je k dispozici zde:<br>
 
 Další dostupná možnost je stáhnout hudbu z cloudových služeb a importovat ji do Evermusic jak je popsáno zde:<br>
 [Jak stáhnout hudbu z YouTube a poslouchat offline hudbu na iPhone](/docs/howto/how-to-download-music-from-youtube-and-listen-to-offline-music-on-iphone)
-{{% /details %}}
+{{% /ls-details %}}
 
 
-{{% details title="Jaké audio formáty Flacbox podporuje?" closed="true" %}}
+{{% ls-details title="Jaké audio formáty Flacbox podporuje?" closed="true" %}}
 Tato aplikace podporuje výchozí **systémové audio kodeky** a další **ffmpeg softwarové kodeky**:<br><br>
 3g2, 3gp, 3gp2, 3gpp, 8svx, aa, aac, aax, ac3, act, adt, adts, aif, aifc, aiff, alac, amr, amv, ape, asf, au, avi, awb, caf, cavs, cdda, cue, dct, dff, drc, dsf, dss, dvf, "dvr-ms", ec3, f4a, f4b, f4p, f4v, flac, flv, gif, gifv, gsm, gxf, h261, h263, h264, ifv, iklax, ivf, ivs, l16, latm, loas, m2t, m2ts, m2v, m3u, m3u8, m4a, m4b, m4p, m4r, m4v, mka, mkv, mmf, mng, mod, mogg, mov, mp1, mp2, mp3, mp4, mp4v, mpa, mpc, mpe, mpeg, mpg, mpv, msv, mts, mxf, nsf, nsv, nut, oga, ogg, ogv, opus, pcm, pls, qt, ra, raw, rm, rmvb, roq, rv, sln, snd, svi, tod, tta, vob, voc, vox, vtt, w64, wav, wave, webm, wma, wmv, wv, xhe, xmv, y4m, yuv.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Mohu použít Flacbox k přehrávání audioknih?" closed="true" %}}
+{{% ls-details title="Mohu použít Flacbox k přehrávání audioknih?" closed="true" %}}
 
 Ano, Flacbox lze použít jako výkonný přehrávač audioknih.<br><br>
 
@@ -590,11 +590,11 @@ Flacbox poskytuje kompletní řešení pro milovníky audioknih na iPhone, iPad 
 
 [Přečtěte si více](/docs/howto/how-to-listen-to-audiobooks-on-iphone-ipad-mac-using-evermusic)
 
-{{% /details %}}
+{{% /ls-details %}}
 
 
 
-{{% details title="Funguje Flacbox s NAS zařízeními?" closed="true" %}}
+{{% ls-details title="Funguje Flacbox s NAS zařízeními?" closed="true" %}}
 
 Ano, Flacbox podporuje připojení k NAS pomocí protokolů **SMB**, **WebDAV** a **DLNA**.<br><br>
 
@@ -625,10 +625,10 @@ Pokud je připojení úspěšné, uvidíte svůj NAS v sekci **Cloudové služby
 • [Připojení úložiště Bluesound Vault](/docs/howto/how-to-connect-bluesound-vault-s-internal-storage-from-the-evermusic-flacbox-evertag)<br>
 • [Připojení NAS úložiště pomocí WebDAV](/docs/howto/how-to-connect-nas-storage-using-webdav-and-listen-to-music-on-your-iphone-or-mac)
 
-{{% /details %}}
+{{% /ls-details %}}
 
 
-{{% details title="Jak importuji hudbu do Flacbox?" closed="true" %}}
+{{% ls-details title="Jak importuji hudbu do Flacbox?" closed="true" %}}
 
 **Připojte cloudovou službu**<br>
 • Otevřete záložku **Připojení**.<br>
@@ -674,10 +674,10 @@ Prozkoumejte tyto návody pro další pomoc:<br><br>
 • [Bezdrátový přenos souborů pomocí WiFi-Drive](/docs/howto/how-to-transfer-files-wirelessly-from-a-computer-to-an-iphone-using-wifi-drive)<br>
 • [Přenos souborů pomocí protokolu SMB](/docs/howto/transfer-your-files-from-the-computer-to-iphone-using-smb-protocol/)
 
-{{% /details %}}
+{{% /ls-details %}}
 
 
-{{% details title="Jak používám funkci Wi-Fi Drive ve Flacbox?" closed="true" %}}
+{{% ls-details title="Jak používám funkci Wi-Fi Drive ve Flacbox?" closed="true" %}}
 
 **Bezdrátový přenos pomocí desktopového prohlížeče**<br>
 1. Spusťte aplikaci: Otevřete Flacbox.<br>
@@ -702,9 +702,9 @@ Poznámka: Ujistěte se, že je JavaScript povolen a používáte nejnovější 
 
 [Přečtěte si více](/docs/howto/how-to-transfer-files-wirelessly-from-a-computer-to-an-iphone-using-wifi-drive)
 
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Podporuje Flacbox Apple CarPlay?" closed="true" %}}
+{{% ls-details title="Podporuje Flacbox Apple CarPlay?" closed="true" %}}
 Ano, **Flacbox plně podporuje Apple CarPlay**. Můžete procházet svou hudební knihovnu, přehrávat lokální nebo offline soubory, připojit se ke cloudovému úložišti a ovládat přehrávání přímo z infotainment obrazovky vašeho auta.
 
 Rozhraní CarPlay zahrnuje vyhrazené záložky pro **Knihovnu**, **Připojení**, **Lokální soubory** a **Nastavení**, poskytující vám plnou kontrolu nad hudbou na cestách. K dispozici jsou také ovládání přehrávání, náhodné přehrávání, opakování a správa fronty.
@@ -712,42 +712,42 @@ Rozhraní CarPlay zahrnuje vyhrazené záložky pro **Knihovnu**, **Připojení*
 Pro použití CarPlay se ujistěte, že je Siri povolena a váš iPhone je připojen přes USB nebo bezdrátově.
 
 [Přečtěte si kompletního průvodce](/docs/howto/how-to-play-your-own-music-on-iphone-using-carplay/)
-{{% /details %}}
+{{% /ls-details %}}
 
 </div>
 
 
 <div class="hx:mt-6"></div>
 
-{{< hextra/section-headline >}}
+{{< ls-section-headline >}}
   Uživatelský průvodce
-{{< /hextra/section-headline >}}
+{{< /ls-section-headline >}}
 
 <div class="hx:mt-6"></div>
 
 <div class="hx:w-full">
 
 <div class="hx:w-full hx:mx-auto hx:flex hx:flex-col hx:items-center hx:text-center">
-  {{< hextra/info-paragraph border="false" >}}
+  {{< ls-info-paragraph border="false" >}}
   Tento průvodce vám pomůže získat maximum z Flacbox na vašem iPhone, iPad nebo Mac. Naučte se, jak streamovat hudbu ve vysokém rozlišení z cloudu, organizovat svou knihovnu, spravovat audioknihy a přenášet hudbu mezi zařízeními.
-  {{< /hextra/info-paragraph >}}
+  {{< /ls-info-paragraph >}}
 </div>
 
 {{< cards >}}
 
-{{< feature-card icon="map" link="/docs/guide/flacbox/flacbox-guide-navigation" title="Navigace" subtitle="Použijte lištu záložek na iPhone nebo levé menu na iPad a Mac." >}}
+{{< ls-feature-card icon="map" link="/docs/guide/flacbox/flacbox-guide-navigation" title="Navigace" subtitle="Použijte lištu záložek na iPhone nebo levé menu na iPad a Mac." >}}
 
-{{< feature-card icon="cloud" link="/docs/guide/flacbox/flacbox-guide-connections" title="Připojení" subtitle="Připojte Dropbox, Google Drive, iCloud nebo váš NAS." >}}
+{{< ls-feature-card icon="cloud" link="/docs/guide/flacbox/flacbox-guide-connections" title="Připojení" subtitle="Připojte Dropbox, Google Drive, iCloud nebo váš NAS." >}}
 
-{{< feature-card icon="collection" link="/docs/guide/flacbox/flacbox-guide-music-library" title="Hudební knihovna" subtitle="Spravujte a vyhledávejte stopy podle interpreta, alba nebo žánru." >}}
+{{< ls-feature-card icon="collection" link="/docs/guide/flacbox/flacbox-guide-music-library" title="Hudební knihovna" subtitle="Spravujte a vyhledávejte stopy podle interpreta, alba nebo žánru." >}}
 
-{{< feature-card icon="music-note" link="/docs/guide/flacbox/flacbox-guide-playlists" title="Playlisty" subtitle="Vytvářejte a organizujte playlisty pro jakoukoli náladu nebo příležitost." >}}
+{{< ls-feature-card icon="music-note" link="/docs/guide/flacbox/flacbox-guide-playlists" title="Playlisty" subtitle="Vytvářejte a organizujte playlisty pro jakoukoli náladu nebo příležitost." >}}
 
-{{< feature-card icon="folder" link="/docs/guide/flacbox/flacbox-guide-local-files" title="Lokální soubory" subtitle="Upravujte a přehrávejte offline hudbu pomocí vestavěného správce souborů." >}}
+{{< ls-feature-card icon="folder" link="/docs/guide/flacbox/flacbox-guide-local-files" title="Lokální soubory" subtitle="Upravujte a přehrávejte offline hudbu pomocí vestavěného správce souborů." >}}
 
-{{< feature-card icon="play" link="/docs/guide/flacbox/flacbox-guide-player" title="Audio přehrávač" subtitle="Ovládejte přehrávání, nastavte rychlost, vytvořte záložky a další." >}}
+{{< ls-feature-card icon="play" link="/docs/guide/flacbox/flacbox-guide-player" title="Audio přehrávač" subtitle="Ovládejte přehrávání, nastavte rychlost, vytvořte záložky a další." >}}
 
-{{< feature-card icon="adjustments" link="/docs/guide/flacbox/flacbox-guide-settings" title="Nastavení" subtitle="Přizpůsobte ekvalizér, vzhled a chování aplikace." >}}
+{{< ls-feature-card icon="adjustments" link="/docs/guide/flacbox/flacbox-guide-settings" title="Nastavení" subtitle="Přizpůsobte ekvalizér, vzhled a chování aplikace." >}}
 
 {{< /cards >}}
 

@@ -7,9 +7,9 @@ tags: ["Flacbox", "Äänitehosteet", "Kuinka tehdä", "BASS", "Taajuuskorjain", 
 readingTime: 30
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
-{{< full-width-tables >}}
+{{< ls-full-width-tables >}}
 
 **Lyhyt vastaus:** Flacboxissa valitset yhden **toistomoottorin** kohdasta **Asetukset > Äänisoitin**: **Standard** (Applen järjestelmämoottori), **Universal** (FFmpeg-moottori) tai **Sound FX** (**BASS™-moottori**). Valitsemasi moottori määrää, mitkä tiedostomuodot toistuvat, joten valinnalla on väliä. **Sound FX** -moottori toistaa lisäformaatteja, jotka useimmat iPhone-sovellukset ohittavat (FLAC, DSD, WavPack, APE, Musepack, TrueAudio, Opus sekä vanha **MOD- ja trackermusiikki** kuten MOD, XM, IT ja S3M), ja se on ainoa moottori, joka käyttää äänityökaluja: **10-kaistainen taajuuskorjain**, **äänenvoimakkuuden normalisointi**, **kompressori**, **Freeverb**, **Auto Wah**, **Phaser**, **Flanger**, **kaiku**, **Chorus**, **säröytys**, **kierto**, **ristisyöttö** ja itse rakennettava **DSP-ketju**. Jotta voisit siis käyttää tämän oppaan tehosteita, aseta toistomoottoriksi ensin **Sound FX**. Jokaisella työkalulla on valmiit **esiasetukset**. Avaa ne kohdasta **Asetukset > Äänisoitin** (Äänitehosteet, Äänen taajuuskorjain, Signaalinkäsittely), tai napauta soittimen **⋯ (Lisää)** -painiketta ja valitse **Äänitehosteet**. Mikään täällä tekemäsi ei koskaan muuta tiedostojasi.
 
@@ -657,93 +657,93 @@ Koska kaikki tämä ajetaan reaaliajassa musiikin soidessa, tehosteet:
 
 ## UKK
 
-{{% details title="Mitä äänimoottoria Flacbox käyttää?" closed="true" %}}
+{{% ls-details title="Mitä äänimoottoria Flacbox käyttää?" closed="true" %}}
 Valitset yhden toistomoottorin kohdasta Asetukset > Äänisoitin: Standard (Applen järjestelmämoottori), Universal (FFmpeg-moottori) tai Sound FX (BASS™-moottori Un4seen Developmentsilta, un4seen.com). Valitsemasi moottori määrää, mitkä tiedostomuodot toistuvat. Sound FX on se, joka toistaa lisäformaatteja kuten FLAC, DSD, WavPack, APE, Musepack, TrueAudio, Opus sekä MOD- tai trackermusiikkia, ja se on ainoa moottori, joka tarjoaa reaaliaikaiset tehosteet, 10-kaistaisen taajuuskorjaimen ja DSP-ketjun. Käyttääksesi tehosteita, aseta toistomoottoriksi Sound FX.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Voiko Flacbox toistaa MOD-, XM-, IT- ja muuta tracker- tai moduulimusiikkia?" closed="true" %}}
+{{% ls-details title="Voiko Flacbox toistaa MOD-, XM-, IT- ja muuta tracker- tai moduulimusiikkia?" closed="true" %}}
 Kyllä. BASS™-moottorissa on sisäänrakennettu moduulisoitin, joka lataa MOD-, XM-, IT-, S3M-, MTM-, UMX- ja MO3-tiedostoja ja rakentaa kappaleen reaaliajassa uudelleen sen kuvioista ja soitinäänistä, sillä tavalla kuin trackermusiikki on tarkoitettu soitettavaksi. Tavalliset iPhone-soittimet eivät osaa tätä. Tehosteet ja taajuuskorjain toimivat myös moduulimusiikissa.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Tukeeko Flacbox DSD:tä ja korkearesoluutioisia tiedostoja?" closed="true" %}}
+{{% ls-details title="Tukeeko Flacbox DSD:tä ja korkearesoluutioisia tiedostoja?" closed="true" %}}
 Kyllä. Flacbox toistaa DSD-tiedostoja (DSF ja DFF) BASS™-moottorin kautta käyttäen DSD over PCM -menetelmää, jotta ne toimivat tavallisella lähtölaitteistolla, sekä FLAC:n, WavPackin, Monkey's Audion (APE), Musepackin ja TrueAudion häviöttömään toistoon.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Mitä äänitehosteita Flacboxissa on?" closed="true" %}}
+{{% ls-details title="Mitä äänitehosteita Flacboxissa on?" closed="true" %}}
 10-kaistainen taajuuskorjain, äänenvoimakkuuden normalisointi, kompressori, Freeverb, Auto Wah, Phaser, Flanger, kaiku, Chorus, säröytys, kierto ja ristisyöttö, sekä itse rakennettava DSP-ketju suodattimilla, hyllyillä, vahvistuksella, soft clipillä, bit crusherilla, ring modulatorilla, tremololla, viiveellä ja stereoleveydellä. Jokainen on erillinen ja voidaan yhdistää muihin.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Mikä on esiasetus?" closed="true" %}}
+{{% ls-details title="Mikä on esiasetus?" closed="true" %}}
 Esiasetus on valmis asetus tehosteelle. Sen sijaan, että liikuttaisit liukusäätimiä itse, napautat esiasetusta ja ääni muuttuu vastaamaan. Jokaisella Flacboxin tehosteella on useita esiasetuksia, ja tässä oppaassa luetellaan, mitä kukin tekee. Jos liikutat liukusäädintä esiasetuksen valinnan jälkeen, tehoste näyttää «Manual» kertoakseen, että se käyttää nyt omia arvojasi.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Kuinka avaan äänitehosteet Flacboxissa?" closed="true" %}}
+{{% ls-details title="Kuinka avaan äänitehosteet Flacboxissa?" closed="true" %}}
 Avaa Nyt soi -soitin, napauta ⋯ (Lisää) -painiketta ja valitse Äänitehosteet. Tai mene kohtaan Asetukset > Äänisoitin > Äänitehosteet. Napauta tehostetta, kytke sen kytkin päälle ja valitse esiasetus, tai avaa liukusäätimet hienosäätöön.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Missä taajuuskorjain on, ja mitkä ovat parhaat asetukset?" closed="true" %}}
+{{% ls-details title="Missä taajuuskorjain on, ja mitkä ovat parhaat asetukset?" closed="true" %}}
 Mene kohtaan Asetukset > Äänisoitin > Äänen taajuuskorjain. Siinä on 10 kaistaa 32 Hz:stä 16 kHz:iin, jokainen väliltä -12 ja +12 dB, sekä -24 – +24 dB esivahvistin ja 22 esiasetusta. Enemmän bassoa: käytä Bass Boosteria. Selkeämmät äänet: käytä Vocal Boosteria tai Popia. Kirkkaampi ääni: käytä Treble Boosteria. Säädä sitten yksittäisiä kaistoja maun mukaan.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Kuinka korostan bassoa Flacboxissa?" closed="true" %}}
+{{% ls-details title="Kuinka korostan bassoa Flacboxissa?" closed="true" %}}
 Kaksi helppoa tapaa. Äänen taajuuskorjaimessa valitse Bass Booster (tai nosta 32 Hz:n ja 64 Hz:n kaistoja muutama dB). Tai Signaalinkäsittelyssä lisää Low Shelf -lohko asetettuna Bass Boostiin. Kummassakin tapauksessa laske esivahvistinta tai lisää Gain-lohko 1–2 dB, jotta basso pysyy puhtaana eikä säröydy.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Mikä taajuuskorjaimen esiasetus on paras musiikilleni?" closed="true" %}}
+{{% ls-details title="Mikä taajuuskorjaimen esiasetus on paras musiikilleni?" closed="true" %}}
 Rock ja Electronic lisäävät energiaa vahvoilla matalilla ja diskanteilla. Acoustic, Jazz ja Classical pysyvät lämpiminä ja luonnollisina. Pop ja Vocal Booster tuovat äänet esiin. Bass Booster ja Hip-Hop lisäävät painoa. Deep ja Loudness kuulostavat täyteläisemmiltä matalalla äänenvoimakkuudella. Aloita genreesi sopivalla, ja hienosäädä sitten.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Mikä on äänenvoimakkuuden normalisointi, ja miten se eroaa ReplayGainista?" closed="true" %}}
+{{% ls-details title="Mikä on äänenvoimakkuuden normalisointi, ja miten se eroaa ReplayGainista?" closed="true" %}}
 Se saa jokaisen kappaleen soimaan suunnilleen samalla äänekkyydellä. Se mittaa todellisen äänekkyyden käyttäen EBU R128 -standardia (LUFS-yksikössä, kuten suoratoistopalvelut) ja säätää jokaisen kappaleen kohti tavoitettasi max-boost-rajalla. Toisin kuin ReplayGain, se ei tarvitse tunnisteita tiedostoihisi ja toimii missä tahansa lähteessä, reaaliajassa, muuttamatta ääntä. Esiasetukset: Light, Standard, Strong ja Night.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Mikä on ristisyöttö, ja pitäisikö minun käyttää sitä?" closed="true" %}}
+{{% ls-details title="Mikä on ristisyöttö, ja pitäisikö minun käyttää sitä?" closed="true" %}}
 Ristisyöttö sekoittaa hieman vasenta ja oikeaa kanavaa yhteen, jotta kuulokkeet tuntuvat enemmän oikeilta kaiuttimilta ja vähemmän siltä, että ääni on jumissa pääsi sisällä. Se on vain kuulokkeille, joten kytke se pois kaiuttimilta. Flacbox käyttää bs2b (Bauer) -menetelmää esiasetuksilla kuten Chu Moy ja Jan Meier.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Mikä on kompressorin ja äänenvoimakkuuden normalisoinnin ero?" closed="true" %}}
+{{% ls-details title="Mikä on kompressorin ja äänenvoimakkuuden normalisoinnin ero?" closed="true" %}}
 Äänenvoimakkuuden normalisointi sovittaa äänekkyyttä eri kappaleiden välillä. Kompressori tasoittaa kovat ja hiljaiset osat yhden kappaleen sisällä. Ne ratkaisevat eri ongelmia ja toimivat hyvin yhdessä, erityisesti autossa tai meluisassa paikassa.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Mikä on Signaalinkäsittely (DSP) -ketju?" closed="true" %}}
+{{% ls-details title="Mikä on Signaalinkäsittely (DSP) -ketju?" closed="true" %}}
 Se on itse rakennettava telakka kohdassa Asetukset > Äänisoitin > Signaalinkäsittely. Lisää lohkoja kuten suodattimet, hyllyt, vahvistus, soft clip, bit crusher, ring modulator, tremolo, viive ja stereoleveys, laita ne mihin tahansa järjestykseen, kytke jokainen päälle tai pois ja kohdista ketju kaikkiin kanaviin, vasempaan tai oikeaan. Koska järjestyksellä on väliä, voit suunnitella tarkalleen haluamasi äänen.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Mikä on taajuuskorjaimen, tehosteiden ja DSP-ketjun ero?" closed="true" %}}
+{{% ls-details title="Mikä on taajuuskorjaimen, tehosteiden ja DSP-ketjun ero?" closed="true" %}}
 Taajuuskorjain on yksinkertainen 10-kaistainen sävynsäätö. Äänitehosteet ovat valmiita työkaluja (kompressori, kaiku, viivekaiku ja niin edelleen) esiasetuksineen. DSP-ketju on paikka, jossa rakennat oman tehostejärjestyksesi yksittäisistä lohkoista. Voit ajaa kaikkia kolmea samanaikaisesti.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Muuttavatko tai vahingoittavatko tehosteet musiikkitiedostojani?" closed="true" %}}
+{{% ls-details title="Muuttavatko tai vahingoittavatko tehosteet musiikkitiedostojani?" closed="true" %}}
 Ei. Kaikki sovelletaan reaaliajassa musiikin soidessa. Tiedostojasi ei koskaan muuteta tai tallenneta uudelleen. Kytke tehoste pois päältä, ja alkuperäinen ääni palaa heti.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Voinko käyttää useampaa kuin yhtä tehostetta samanaikaisesti?" closed="true" %}}
+{{% ls-details title="Voinko käyttää useampaa kuin yhtä tehostetta samanaikaisesti?" closed="true" %}}
 Kyllä. Jokaisella tehosteella on oma kytkin eikä pääkytkintä ole, joten mikä tahansa yhdistelmä toimii. Esimerkiksi äänenvoimakkuuden normalisointi plus kompressori tasaiseen kuunteluun, tai Freeverb plus ristisyöttö kuulokkeilla, taajuuskorjain päällä.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Miksi tehosteen säätimet ovat harmaana?" closed="true" %}}
+{{% ls-details title="Miksi tehosteen säätimet ovat harmaana?" closed="true" %}}
 Tehoste on kytketty pois päältä. Kytke sen kytkin päälle muokkaimen yläreunassa käyttääksesi säätimiä. Jokainen tehoste on oletuksena pois päältä.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Mitä Manual-merkintä tarkoittaa?" closed="true" %}}
+{{% ls-details title="Mitä Manual-merkintä tarkoittaa?" closed="true" %}}
 Se tarkoittaa, että liikutit liukusäädintä pois esiasetuksesta, joten tehoste käyttää nyt omia mukautettuja arvojasi nimetyn esiasetuksen sijaan. Jokaisella liukusäätimellä on nollauspainike, ja esiasetuksen valitseminen uudelleen korvaa manuaaliset arvosi.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Voinko tallentaa ja jakaa taajuuskorjaimen esiasetuksiani?" closed="true" %}}
+{{% ls-details title="Voinko tallentaa ja jakaa taajuuskorjaimen esiasetuksiani?" closed="true" %}}
 Kyllä. 22 sisäänrakennetun esiasetuksen lisäksi voit tehdä omia, järjestää niitä uudelleen ja viedä tai tuoda niitä siirtääksesi asetuksesi toiseen laitteeseen.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Toimivatko tehosteet CarPlayn, suoratoiston ja taustatoiston kanssa?" closed="true" %}}
+{{% ls-details title="Toimivatko tehosteet CarPlayn, suoratoiston ja taustatoiston kanssa?" closed="true" %}}
 Kyllä. Tehosteet ajetaan BASS™-moottorin sisällä, joten ne pätevät paikallisiin tiedostoihin, pilviasemiin, mediapalvelimiin, suoratoistoihin ja moduulimusiikkiin, ja ne jatkavat toimintaansa CarPlayn ja taustatoiston aikana.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Voinko muuttaa äänen lähtölaatua?" closed="true" %}}
+{{% ls-details title="Voinko muuttaa äänen lähtölaatua?" closed="true" %}}
 Kyllä. Kohdassa Asetukset > Äänisoitin voit asettaa lähdön näytteenottotaajuuden, kanavien määrän ja puskurin koon vastaamaan kuulokkeitasi, kaiuttimiasi tai DAC:tasi.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Mikä on hyvä aloitusasetus kuulokkeille?" closed="true" %}}
+{{% ls-details title="Mikä on hyvä aloitusasetus kuulokkeille?" closed="true" %}}
 Kytke päälle äänenvoimakkuuden normalisointi (Standard), lisää kevyt kompressori (Soft), valitse pitämäsi taajuuskorjaimen esiasetus ja kytke päälle ristisyöttö (Chu Moy tai Jan Meier). Jätä kaiku, kaiku ja säröytys pois päältä, ellet halua luovaa ääntä.
-{{% /details %}}
+{{% /ls-details %}}
 
 ---
 

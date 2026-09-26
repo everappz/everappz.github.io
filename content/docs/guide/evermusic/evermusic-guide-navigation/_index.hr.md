@@ -25,7 +25,7 @@ Funkcionalnost Evermusicа pažljivo je podijeljena u dvije zasebne komponente: 
 Bez obzira koristite li iPhone, iPad ili kompaktni način rada na Macu, sve značajke aplikacije lako su dostupne putem trake kartica na dnu zaslona. Za korisnike iPada i Maca, isti izbornik može se pronaći na lijevoj strani zaslona. Ova promišljena organizacija kategorizira sve značajke aplikacije u lako dostupne odjeljke, osiguravajući korisničko iskustvo.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evermusic lijeva bočna traka na iPadu i Macu" image="/docs/guide/evermusic/evermusic-guide-navigation/img/navigation-left-sidebar.webp" >}}
+  {{< ls-card title="" subtitle="Evermusic lijeva bočna traka na iPadu i Macu" image="/docs/guide/evermusic/evermusic-guide-navigation/img/navigation-left-sidebar.webp" >}}
 {{< /cards >}}
 
 **Povezivanja:** Na ovom zaslonu možete bez napora spojiti usluge pohrane u oblaku kao što su Google Drive, MEGA, OneDrive i Dropbox, kao i računalo i osobni NAS.
@@ -47,7 +47,7 @@ Odjeljak lokalnih datoteka podijeljen je u dvije kategorije: Datoteke u ovoj apl
 Aktivirajte reproduktor na cijelom zaslonu dodirivanjem ikone mini reproduktora i koristite gest povlačenja prema dolje za sakrivanje. Na iPadu i Macu, zaslon mini reproduktora nalazi se na vrhu zaslona i može se sakriti pri otvaranju reproduktora na cijelom zaslonu putem glavnog izbornika.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Traka kartica iPhonea" image="/docs/guide/evermusic/evermusic-guide-navigation/img/navigation-bottom-tabbar.webp" >}}
+  {{< ls-card title="" subtitle="Traka kartica iPhonea" image="/docs/guide/evermusic/evermusic-guide-navigation/img/navigation-bottom-tabbar.webp" >}}
 {{< /cards >}}
 
 ## Prozor mini reproduktora (ekskluzivno za Mac)
@@ -55,7 +55,7 @@ Aktivirajte reproduktor na cijelom zaslonu dodirivanjem ikone mini reproduktora 
 Za pristup prozoru mini reproduktora na Macu, jednostavno pomaknite kursor na donji desni rub prozora aplikacije i promijenite njegovu veličinu na najmanji mogući. Zatim dodirnite gumb za sažimanje (prikazan kao strelica prema dolje) za aktiviranje prozora mini reproduktora. Za zadržavanje prozora mini reproduktora uvijek na vrhu ostalih prozora, idite na gornju traku izbornika Maca, odaberite 'Prozor' i zatim 'Prikaži prozor uvijek na vrhu'. Ova je značajka korisna za slušanje audio predavanja bez prekida.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Prozor Mac mini reproduktora" image="/docs/guide/evermusic/evermusic-guide-navigation/img/navigation-mac-exclusive-miniplayer.webp" >}}
+  {{< ls-card title="" subtitle="Prozor Mac mini reproduktora" image="/docs/guide/evermusic/evermusic-guide-navigation/img/navigation-mac-exclusive-miniplayer.webp" >}}
 {{< /cards >}}
 
 ## Više radnji
@@ -63,7 +63,7 @@ Za pristup prozoru mini reproduktora na Macu, jednostavno pomaknite kursor na do
 Gotovo svaka stavka sadržaja na zaslonu ima gumb "Više radnji". Dodirnite ga za pristup svim dostupnim radnjama.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Kontekstualni izbornik više radnji" image="/docs/guide/evermusic/evermusic-guide-navigation/img/navigation-more-actions.webp" >}}
+  {{< ls-card title="" subtitle="Kontekstualni izbornik više radnji" image="/docs/guide/evermusic/evermusic-guide-navigation/img/navigation-more-actions.webp" >}}
 {{< /cards >}}
 
 ## Gornja alatna traka
@@ -77,7 +77,7 @@ Ovu alatnu traku možete lako otkriti ili sakriti jednostavnim gestom povlačenj
 - **Izmiješaj sve:** Dodajte sve pjesme s trenutne stranice u red audio reproduktora, miješajući ih prije dodavanja za ugodno iskustvo slušanja.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Gornja alatna traka s Pretraži, Reproduciraj sve i Izmiješaj sve" image="/docs/guide/evermusic/evermusic-guide-navigation/img/navigation-top-toolbar.webp" >}}
+  {{< ls-card title="" subtitle="Gornja alatna traka s Pretraži, Reproduciraj sve i Izmiješaj sve" image="/docs/guide/evermusic/evermusic-guide-navigation/img/navigation-top-toolbar.webp" >}}
 {{< /cards >}}
 
 ## Kontekstualni izbornik
@@ -91,7 +91,7 @@ Kontekstualni izbornik pruža brz pristup dodatnim opcijama i radnjama za bespri
 **Desni klik mišem:** Desno kliknite na ćelije, mini reproduktor ili kompaktni reproduktor za prikaz kontekstualnog izbornika.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Kontekstualni izbornik na macOS-u" image="/docs/guide/evermusic/evermusic-guide-navigation/img/navigation-context-menu-macos.webp" >}}
+  {{< ls-card title="" subtitle="Kontekstualni izbornik na macOS-u" image="/docs/guide/evermusic/evermusic-guide-navigation/img/navigation-context-menu-macos.webp" >}}
 {{< /cards >}}
 
 ## Pristupačnost
@@ -125,7 +125,7 @@ Evermusic se isporučuje s četiri widgeta za početni zaslon / zaključani zasl
 Sva četiri widgeta dostupna su u veličinama Small, Medium i Large kako biste mogli odabrati raspored koji odgovara vašem zaslonu.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Dodavanje Evermusic widgeta" image="/docs/guide/evermusic/evermusic-guide-navigation/img/navigation-add-widgets.webp" >}}
+  {{< ls-card title="" subtitle="Dodavanje Evermusic widgeta" image="/docs/guide/evermusic/evermusic-guide-navigation/img/navigation-add-widgets.webp" >}}
 {{< /cards >}}
 
 ### Dodajte widget na iPhone (početni zaslon)
@@ -175,7 +175,7 @@ CarPlay widget ažurira se uživo kako se glazba mijenja i prilagođen je za kru
 Evermusic uključuje potpuno opremljeno **Apple CarPlay** sučelje (samo iOS) optimizirano za zaslon automobila. Kada je iPhone spojen na kompatibilni CarPlay head unit — putem USB-a ili bežično — Evermusic se pojavljuje u mreži CarPlay aplikacija uz Apple Music i Spotify, spreman za strujanje biblioteke oblaka na cesti.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evermusic na CarPlay zaslonu" image="/docs/guide/evermusic/evermusic-guide-navigation/img/navigation-carplay-menu.webp" >}}
+  {{< ls-card title="" subtitle="Evermusic na CarPlay zaslonu" image="/docs/guide/evermusic/evermusic-guide-navigation/img/navigation-carplay-menu.webp" >}}
 {{< /cards >}}
 
 ### Što dobivate u CarPlay

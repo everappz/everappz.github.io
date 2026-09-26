@@ -7,7 +7,7 @@ tags: ["evermusic", "sambung", "bluesound vault"]
 readingTime: 1
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **Ringkasan:** Sambung ke storan dalaman Bluesound VAULT anda melalui SMB menggunakan Evermusic, Flacbox, atau Evertag. Cari alamat IP VAULT dalam aplikasi BluOS, masukkannya sebagai sambungan SMB dengan akses tetamu, dan mula memainkan atau mengurus fail muzik anda.
@@ -58,18 +58,18 @@ Dengan langkah-langkah mudah ini, anda boleh mengakses cakera keras dalaman Blue
 
 ## Soalan Lazim
 
-{{% details title="Adakah saya memerlukan nama pengguna dan kata laluan untuk menyambung ke Bluesound VAULT?" closed="true" %}}
+{{% ls-details title="Adakah saya memerlukan nama pengguna dan kata laluan untuk menyambung ke Bluesound VAULT?" closed="true" %}}
 Tidak. Bluesound VAULT menyokong akses tetamu (tanpa nama) melalui SMB. Biarkan medan Log Masuk dan Kata Laluan kosong semasa mengkonfigurasi sambungan.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Bolehkah saya mengedit tag muzik pada Bluesound VAULT?" closed="true" %}}
+{{% ls-details title="Bolehkah saya mengedit tag muzik pada Bluesound VAULT?" closed="true" %}}
 Ya. Menggunakan Evertag, anda boleh mengedit tag metadata (tajuk, artis, album, dll.) untuk fail audio yang disimpan terus pada cakera keras dalaman VAULT.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Protokol apa yang disokong oleh Bluesound VAULT?" closed="true" %}}
+{{% ls-details title="Protokol apa yang disokong oleh Bluesound VAULT?" closed="true" %}}
 Bluesound VAULT mendedahkan storan dalamannya melalui SMB (Server Message Block). Evermusic, Flacbox, dan Evertag semuanya menyokong sambungan SMB, menjadikan penyambungan mudah.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Bolehkah saya menstrim muzik dari VAULT tanpa menyalin fail ke iPhone saya?" closed="true" %}}
+{{% ls-details title="Bolehkah saya menstrim muzik dari VAULT tanpa menyalin fail ke iPhone saya?" closed="true" %}}
 Ya. Setelah disambungkan melalui SMB, anda boleh menstrim fail audio terus dari pemacu dalaman VAULT tanpa menyalinnya ke peranti anda.
-{{% /details %}}
+{{% /ls-details %}}

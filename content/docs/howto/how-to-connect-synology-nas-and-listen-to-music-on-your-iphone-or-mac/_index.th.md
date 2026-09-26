@@ -7,7 +7,7 @@ tags: ["เพลง", "สตรีมมิ่ง", "nas", "synology", "quickc
 readingTime: 4
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **สรุป:** เชื่อมต่อ Synology NAS ของคุณกับ Evermusic หรือ Flacbox โดยใช้ native API ของ Synology -- ด้วยตนเองผ่านที่อยู่ IP หรือโดยอัตโนมัติผ่าน QuickConnect ID QuickConnect ช่วยให้คุณสตรีมเพลงจากระยะไกลโดยไม่ต้องส่งต่อพอร์ต แอปทั้งสองรองรับ FLAC, MP3, WAV และรูปแบบ hi-res อื่นๆ
@@ -140,22 +140,22 @@ Synology QuickConnect ID คือตัวระบุเฉพาะที่�
 
 ## FAQ
 
-{{% details title="ความแตกต่างระหว่างการเชื่อมต่อด้วยตนเองและ QuickConnect คืออะไร?" closed="true" %}}
+{{% ls-details title="ความแตกต่างระหว่างการเชื่อมต่อด้วยตนเองและ QuickConnect คืออะไร?" closed="true" %}}
 การเชื่อมต่อด้วยตนเองใช้ที่อยู่ IP และพอร์ตของ NAS ซึ่งทำงานบนเครือข่ายท้องถิ่นของคุณ QuickConnect ใช้บริการรีเลย์ของ Synology เพื่อสร้างการเชื่อมต่อจากทุกที่ผ่านอินเทอร์เน็ต โดยไม่ต้องส่งต่อพอร์ต
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="ฉันสามารถสตรีมเพลงจาก Synology NAS นอกเครือข่ายบ้านได้หรือไม่?" closed="true" %}}
+{{% ls-details title="ฉันสามารถสตรีมเพลงจาก Synology NAS นอกเครือข่ายบ้านได้หรือไม่?" closed="true" %}}
 ได้ เปิดใช้งาน QuickConnect บน Synology NAS และใช้ QuickConnect ID ใน Evermusic หรือ Flacbox เพื่อสตรีมเพลงจากทุกที่ที่มีการเชื่อมต่ออินเทอร์เน็ต
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="รูปแบบเสียงใดบ้างที่รองรับเมื่อสตรีมจาก Synology NAS?" closed="true" %}}
+{{% ls-details title="รูปแบบเสียงใดบ้างที่รองรับเมื่อสตรีมจาก Synology NAS?" closed="true" %}}
 Evermusic และ Flacbox รองรับ FLAC, MP3, AAC, WAV, ALAC, OGG, WMA, DSD และรูปแบบอื่นๆ อีกมากมาย รูปแบบที่รองรับทั้งหมดใช้งานได้เมื่อสตรีมจาก Synology NAS
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="ฉันต้องการการยืนยันตัวตนสองปัจจัยเพื่อเชื่อมต่อหรือไม่?" closed="true" %}}
+{{% ls-details title="ฉันต้องการการยืนยันตัวตนสองปัจจัยเพื่อเชื่อมต่อหรือไม่?" closed="true" %}}
 ไม่ 2FA เป็นตัวเลือก อย่างไรก็ตาม หากคุณได้เปิดใช้งานการยืนยันแบบ 2 ขั้นตอนบน Synology DSM แอปจะขอรหัสผ่านแบบใช้ครั้งเดียวระหว่างการเข้าสู่ระบบ คุณจะต้องอนุญาตใหม่เมื่อเซสชันหมดอายุ
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="ฉันควรใช้ Synology native API, WebDAV หรือ SMB ในการเชื่อมต่อ?" closed="true" %}}
+{{% ls-details title="ฉันควรใช้ Synology native API, WebDAV หรือ SMB ในการเชื่อมต่อ?" closed="true" %}}
 Synology native API พร้อม QuickConnect เป็นตัวเลือกที่ดีที่สุดสำหรับการเข้าถึงระยะไกล สำหรับการใช้งานเครือข่ายท้องถิ่น SMB มักจะเป็นตัวเลือกที่เร็วที่สุด WebDAV ทำงานได้ดีสำหรับทั้งการเข้าถึงแบบท้องถิ่นและระยะไกล Evermusic และ Flacbox รองรับโปรโตคอลทั้งสามแบบ
-{{% /details %}}
+{{% /ls-details %}}

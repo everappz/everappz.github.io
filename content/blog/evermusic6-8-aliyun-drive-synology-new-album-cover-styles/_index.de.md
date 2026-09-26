@@ -12,7 +12,7 @@ authors:
     image: "/images/about/artem-meleshko-founder-everappz.webp"
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 **Zusammenfassung:** Evermusic 6.8 fügt die Integration von Aliyun Drive und Synology NAS (mit QuickConnect), sechs neue Album-Cover-Scroll-Effekte, einen minimalen Vollbild-Player, Drag-and-Drop-Dateiverwaltung und schnelleres Laden von Album-Artworks hinzu. Jetzt verfügbar für iOS und macOS.
 
@@ -77,18 +77,18 @@ Evermusic 6.8 konzentriert sich auf drei Bereiche: breitere Cloud-Kompatibilitä
 
 ## Häufig gestellte Fragen
 
-{{% details title="Wie verbinde ich Synology NAS mit Evermusic?" closed="true" %}}
+{{% ls-details title="Wie verbinde ich Synology NAS mit Evermusic?" closed="true" %}}
 Gehen Sie zum Tab Verbindungen, wählen Sie Synology und geben Sie Ihre QuickConnectID ein. Evermusic verbindet sich direkt ohne IP-Adressen oder VPN-Einrichtung.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Ist Aliyun Drive kostenlos mit Evermusic nutzbar?" closed="true" %}}
+{{% ls-details title="Ist Aliyun Drive kostenlos mit Evermusic nutzbar?" closed="true" %}}
 Ja. Wenn Sie ein Aliyun Drive Konto haben, können Sie es ohne zusätzliche Kosten mit Evermusic verbinden. Speicherlimits hängen von Ihrem Aliyun Drive Plan ab.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Kann ich den Album-Cover-Scroll-Stil anpassen?" closed="true" %}}
+{{% ls-details title="Kann ich den Album-Cover-Scroll-Stil anpassen?" closed="true" %}}
 Ja. Gehen Sie zu Settings > Audio Player > Personalization > Album Covers Scrolling Style und wählen Sie aus sechs Optionen: MacDoc, Linear, Rotary, Inverted Rotary, Cylinder oder CoverFlow.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Funktioniert der minimale Player-Bildschirm mit allen Geräten?" closed="true" %}}
+{{% ls-details title="Funktioniert der minimale Player-Bildschirm mit allen Geräten?" closed="true" %}}
 Ja. Der Vollbild-Album-Cover-Stil ist auf allen unterstützten iPhones, iPads und Macs mit Evermusic 6.8 oder neuer verfügbar.
-{{% /details %}}
+{{% /ls-details %}}

@@ -71,20 +71,20 @@ Acest ghid vă îndrumă prin fiecare parte a Flacbox pe iPhone, iPad și Mac �
 
 {{< cards cols="2">}}
 
-{{< card icon="map" link="/docs/guide/flacbox/flacbox-guide-navigation" title="Navigare" subtitle="Bara de file pe iPhone, meniu stânga pe iPad și Mac, mini player, widget-uri, CarPlay." >}}
+{{< ls-card icon="map" link="/docs/guide/flacbox/flacbox-guide-navigation" title="Navigare" subtitle="Bara de file pe iPhone, meniu stânga pe iPad și Mac, mini player, widget-uri, CarPlay." >}}
 
-{{< card icon="cloud" link="/docs/guide/flacbox/flacbox-guide-connections" title="Conexiuni" subtitle="iCloud, Google Drive, Dropbox, OneDrive, NAS, WebDAV, SMB, DLNA." >}}
+{{< ls-card icon="cloud" link="/docs/guide/flacbox/flacbox-guide-connections" title="Conexiuni" subtitle="iCloud, Google Drive, Dropbox, OneDrive, NAS, WebDAV, SMB, DLNA." >}}
 
-{{< card icon="collection" link="/docs/guide/flacbox/flacbox-guide-music-library" title="Bibliotecă Muzicală" subtitle="Cântece, albume, artiști, genuri, compozitori — sincronizare, căutare, editare metadate." >}}
+{{< ls-card icon="collection" link="/docs/guide/flacbox/flacbox-guide-music-library" title="Bibliotecă Muzicală" subtitle="Cântece, albume, artiști, genuri, compozitori — sincronizare, căutare, editare metadate." >}}
 
-{{< card icon="music-note" link="/docs/guide/flacbox/flacbox-guide-playlists" title="Liste de redare" subtitle="Creați, importați M3U / M3U8 / CUE, reordonați și exportați în M3U / CSV / TXT." >}}
+{{< ls-card icon="music-note" link="/docs/guide/flacbox/flacbox-guide-playlists" title="Liste de redare" subtitle="Creați, importați M3U / M3U8 / CUE, reordonați și exportați în M3U / CSV / TXT." >}}
 
-{{< card icon="folder" link="/docs/guide/flacbox/flacbox-guide-local-files" title="Fișiere Locale" subtitle="Muzică offline, unități USB, Wi-Fi Drive, manager fișiere, foldere offline." >}}
+{{< ls-card icon="folder" link="/docs/guide/flacbox/flacbox-guide-local-files" title="Fișiere Locale" subtitle="Muzică offline, unități USB, Wi-Fi Drive, manager fișiere, foldere offline." >}}
 
-{{< card icon="play" link="/docs/guide/flacbox/flacbox-guide-player" title="Player Audio" subtitle="Ieșire hi-res, egalizator, corecție ton, marcaje, AirPlay, Chromecast, viteză, temporizator somn." >}}
+{{< ls-card icon="play" link="/docs/guide/flacbox/flacbox-guide-player" title="Player Audio" subtitle="Ieșire hi-res, egalizator, corecție ton, marcaje, AirPlay, Chromecast, viteză, temporizator somn." >}}
 
-{{< card icon="adjustments" link="/docs/guide/flacbox/flacbox-guide-settings" title="Setări" subtitle="Motor audio, bibliotecă, manager fișiere, CarPlay, widget-uri, personalizare, limbă, copie de rezervă." >}}
+{{< ls-card icon="adjustments" link="/docs/guide/flacbox/flacbox-guide-settings" title="Setări" subtitle="Motor audio, bibliotecă, manager fișiere, CarPlay, widget-uri, personalizare, limbă, copie de rezervă." >}}
 
-{{< card icon="question-mark-circle" link="/docs/faq/flacbox" title="FAQ" subtitle="Găsiți răspunsuri la cele mai frecvente 50 de întrebări despre Flacbox." >}}
+{{< ls-card icon="question-mark-circle" link="/docs/faq/flacbox" title="FAQ" subtitle="Găsiți răspunsuri la cele mai frecvente 50 de întrebări despre Flacbox." >}}
 
 {{< /cards >}}

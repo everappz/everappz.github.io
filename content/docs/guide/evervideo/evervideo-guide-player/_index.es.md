@@ -31,7 +31,7 @@ Puedes llegar al reproductor de pantalla completa desde la barra de reproductor 
 El reproductor compacto permanece visible mientras navegas por tu biblioteca, tu gestor de archivos o tus ajustes, para que nunca pierdas tu video mientras buscas el siguiente.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Reproductor Multimedia de Evervideo a Pantalla Completa" image="/docs/guide/evervideo/img/evervideo-media-player-fullscreen.webp" >}}
+  {{< ls-card title="" subtitle="Reproductor Multimedia de Evervideo a Pantalla Completa" image="/docs/guide/evervideo/img/evervideo-media-player-fullscreen.webp" >}}
 {{< /cards >}}
 
 ## Formatos de Video y Audio Admitidos
@@ -72,7 +72,7 @@ PiP funciona con cada formato de video que Evervideo reproduce, incluyendo archi
 El reproductor compacto es un mini reproductor persistente que permanece visible en la parte superior de cada pantalla de la app mientras navegas por la biblioteca, el gestor de archivos o los ajustes. Tócalo para expandirlo al reproductor de pantalla completa; desliza hacia abajo para contraerlo de nuevo.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Ajustes de Video de Evervideo desde el Reproductor Compacto en la Pantalla Principal" image="/docs/guide/evervideo/img/evervideo-video-settings-from-compact-player-view-on-the-main-screen.webp" >}}
+  {{< ls-card title="" subtitle="Ajustes de Video de Evervideo desde el Reproductor Compacto en la Pantalla Principal" image="/docs/guide/evervideo/img/evervideo-video-settings-from-compact-player-view-on-the-main-screen.webp" >}}
 {{< /cards >}}
 
 ## AirPlay 2
@@ -115,7 +115,7 @@ Evervideo incluye un ecualizador de audio completo para ajustar las bandas sonor
 Para ajustar la imagen, Evervideo proporciona un ecualizador de video dedicado — ajusta brillo, contraste, saturación y matiz en tiempo real durante la reproducción. Al igual que el ecualizador de audio, los presets de video personalizados se pueden exportar e importar para compartir o hacer copias de seguridad. Úsalo para iluminar una escena oscura en un día soleado, aumentar la saturación en contenido desvaído o calentar un tono de color frío.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Ecualizador de Video de Evervideo" image="/docs/guide/evervideo/img/evervideo-video-equalizer.webp" >}}
+  {{< ls-card title="" subtitle="Ecualizador de Video de Evervideo" image="/docs/guide/evervideo/img/evervideo-video-equalizer.webp" >}}
 {{< /cards >}}
 
 ## Modo de Escalado de Video
@@ -144,7 +144,7 @@ Evervideo incluye un viewport VR / 360° para archivos de video esférico. Al re
 Toca el control de Velocidad en la barra de herramientas del reproductor para cambiar la velocidad de reproducción — desacelera para análisis (0,25× o 0,5×) o acelera para tutoriales y conferencias (1,25×, 1,5×, 2× y hasta 3×). Toca el icono de configuración en la esquina superior derecha de la pantalla de Velocidad para cambiar al modo preciso con ajustes más finos. También está disponible la corrección de tono por pista.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Velocidad de Reproducción de Evervideo en la Barra de Herramientas Principal" image="/docs/guide/evervideo/img/evervideo-media-player-playback-speed-on-main-toolbar.webp" >}}
+  {{< ls-card title="" subtitle="Velocidad de Reproducción de Evervideo en la Barra de Herramientas Principal" image="/docs/guide/evervideo/img/evervideo-media-player-playback-speed-on-main-toolbar.webp" >}}
 {{< /cards >}}
 
 ## Cola del Reproductor
@@ -152,7 +152,7 @@ Toca el control de Velocidad en la barra de herramientas del reproductor para ca
 Para ver tu cola del reproductor, toca el botón de cola en el reproductor. Cada video en la cola tiene más acciones — toca los tres puntos para verlas. Para reordenar un video en la cola, usa el indicador de reordenamiento cerca del título y arrástralo a una nueva posición.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Cola de Reproducción de Evervideo" image="/docs/guide/evervideo/img/evervideo-playback-queue.webp" >}}
+  {{< ls-card title="" subtitle="Cola de Reproducción de Evervideo" image="/docs/guide/evervideo/img/evervideo-playback-queue.webp" >}}
 {{< /cards >}}
 
 ## Temporizador de Sueño
@@ -189,7 +189,7 @@ Toca el botón de Más Acciones "..." en el reproductor para acceder a funciones
 - **Ayuda** — abrir la guía.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Pantalla de Más Acciones del Reproductor de Evervideo" image="/docs/guide/evervideo/img/evervideo-media-player-more-actions.webp" >}}
+  {{< ls-card title="" subtitle="Pantalla de Más Acciones del Reproductor de Evervideo" image="/docs/guide/evervideo/img/evervideo-media-player-more-actions.webp" >}}
 {{< /cards >}}
 
 ## Ajustes del Reproductor

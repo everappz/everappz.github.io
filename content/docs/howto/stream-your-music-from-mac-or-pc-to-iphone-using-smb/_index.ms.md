@@ -7,7 +7,7 @@ tags: ["cloud", "streaming", "computer", "mp3", "file", "downloader", "manager",
 keywords: ["strim muzik dari Mac ke iPhone", "SMB audio streaming iOS", "persediaan Evermusic SMB", "sambung muzik PC iPhone", "perkongsian muzik Mac iOS", "SMB Windows penstriman fail", "akses Evermusic folder PC"]
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **Ringkasan:** Gunakan aplikasi Evermusic untuk iPhone atau iPad untuk menstrim muzik dari Mac atau Windows PC anda melalui rangkaian tempatan menggunakan SMB. Tiada penyegerakan, tiada penyalinan -- hanya aktifkan perkongsian fail pada komputer anda, sambung dalam aplikasi dan mainkan. Persediaan mengambil masa kurang daripada 5 minit.
@@ -102,26 +102,26 @@ P.S. Anda juga boleh memindahkan fail audio dari MAC/PC anda ke iPhone anda meng
 
 ## Soalan Lazim
 
-{{% details title="Bolehkah saya menstrim muzik dari PC ke iPhone tanpa iTunes?" closed="true" %}}
+{{% ls-details title="Bolehkah saya menstrim muzik dari PC ke iPhone tanpa iTunes?" closed="true" %}}
 Ya. Evermusic menyambung ke PC anda melalui SMB pada rangkaian Wi-Fi tempatan anda. iTunes tidak diperlukan. Hanya aktifkan perkongsian fail pada PC anda dan sambung dalam aplikasi.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Adakah penstriman SMB menggunakan data mudah alih?" closed="true" %}}
+{{% ls-details title="Adakah penstriman SMB menggunakan data mudah alih?" closed="true" %}}
 Tidak. SMB berfungsi melalui rangkaian Wi-Fi tempatan anda. Tiada sambungan internet atau data mudah alih diperlukan.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Apakah format audio yang disokong Evermusic melalui SMB?" closed="true" %}}
+{{% ls-details title="Apakah format audio yang disokong Evermusic melalui SMB?" closed="true" %}}
 Evermusic menyokong MP3, FLAC, AAC, WAV, AIFF, OGG, WMA, ALAC dan format audio biasa yang lain. Fail dimainkan terus dari perkongsian SMB.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Bolehkah saya menstrim muzik dari NAS ke iPhone?" closed="true" %}}
+{{% ls-details title="Bolehkah saya menstrim muzik dari NAS ke iPhone?" closed="true" %}}
 Ya. Jika NAS anda menyokong SMB (kebanyakan menyokong, termasuk Synology, QNAP dan WD My Cloud), anda boleh menyambung kepadanya menggunakan langkah yang sama dalam panduan ini.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Adakah saya perlu memastikan komputer saya dihidupkan semasa penstriman?" closed="true" %}}
+{{% ls-details title="Adakah saya perlu memastikan komputer saya dihidupkan semasa penstriman?" closed="true" %}}
 Ya. Oleh kerana Evermusic menstrim fail terus dari komputer anda, ia mesti dihidupkan dan disambungkan ke rangkaian yang sama dengan iPhone anda.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Adakah had saiz fail untuk penstriman SMB?" closed="true" %}}
+{{% ls-details title="Adakah had saiz fail untuk penstriman SMB?" closed="true" %}}
 Tidak. Evermusic menstrim fail dalam apa-apa saiz melalui SMB. Fail lossless besar (FLAC, WAV) berfungsi tanpa masalah.
-{{% /details %}}
+{{% /ls-details %}}

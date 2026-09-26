@@ -7,7 +7,7 @@ tags: ["muzică", "audio", "player", "iphone", "redare", "offline", "descărcare
 readingTime: 5
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **Rezumat:** Convertește videoclipuri YouTube în MP3 folosind un convertor bazat pe browser sau aplicația gratuită ClipGrab pentru desktop. Apoi importă fișierele audio în Evermusic pe iPhone sau Mac pentru redare offline -- nu este necesar internet.
@@ -221,30 +221,30 @@ Dacă nu ești sigur de opțiunile tale, ia în considerare să ceri mai multe i
 
 P.S. Există și mai multe **tutoriale video** disponibile pe YouTube:
 <br><br>
-{{< youtubecard id="TlVpbRvAiwA" title="Descargar Música Gratis Para IOS" >}}
+{{< ls-youtubecard id="TlVpbRvAiwA" title="Descargar Música Gratis Para IOS" >}}
 <br><br>
-{{< youtubecard id="jSDuNguZZNE" title="Evermusic: Free Offline Music Player for iOS (iPhone/iPod/iPad) | Music Files Organization" >}}
+{{< ls-youtubecard id="jSDuNguZZNE" title="Evermusic: Free Offline Music Player for iOS (iPhone/iPod/iPad) | Music Files Organization" >}}
 <br><br>
-{{< youtubecard id="-kY48ktbo2M" title="テクノロジー塾】おすすめiPhone 音楽アプリ「ever music」ストック型篇" >}}
+{{< ls-youtubecard id="-kY48ktbo2M" title="テクノロジー塾】おすすめiPhone 音楽アプリ「ever music」ストック型篇" >}}
 
 ## Întrebări frecvente
 
-{{% details title="Este legal să descarci muzică de pe YouTube?" closed="true" %}}
+{{% ls-details title="Este legal să descarci muzică de pe YouTube?" closed="true" %}}
 Depinde de statutul drepturilor de autor ale conținutului. Conținutul fără drepturi de autor și Creative Commons poate fi de obicei descărcat pentru uz personal. Muzica protejată de drepturi de autor necesită licențiere sau permisiune adecvată.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Ce formate audio suportă Evermusic?" closed="true" %}}
+{{% ls-details title="Ce formate audio suportă Evermusic?" closed="true" %}}
 Evermusic suportă MP3, FLAC, AAC, WAV, OGG, AIFF și multe alte formate audio. Poți reda practic orice fișier audio pe care îl descarci.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Pot folosi Evermusic fără conexiune la internet?" closed="true" %}}
+{{% ls-details title="Pot folosi Evermusic fără conexiune la internet?" closed="true" %}}
 Da. Odată ce fișierele audio sunt importate în Evermusic, le poți reda complet offline -- nu este necesară conexiune la internet.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="ClipGrab este gratuit?" closed="true" %}}
+{{% ls-details title="ClipGrab este gratuit?" closed="true" %}}
 Da. ClipGrab este gratuit și disponibil atât pentru Mac cât și pentru Windows. Folosește biblioteca open-source youtube-dlp pentru descărcări.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Cum transfer muzica descărcată de pe Mac pe iPhone?" closed="true" %}}
+{{% ls-details title="Cum transfer muzica descărcată de pe Mac pe iPhone?" closed="true" %}}
 Poți folosi AirDrop, iTunes File Sharing sau funcția Wi-Fi Drive integrată a Evermusic pentru a transfera fișiere audio de pe Mac pe iPhone.
-{{% /details %}}
+{{% /ls-details %}}

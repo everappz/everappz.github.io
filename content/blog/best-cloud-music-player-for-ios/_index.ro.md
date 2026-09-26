@@ -12,7 +12,7 @@ authors:
     image: "/images/about/artem-meleshko-founder-everappz.webp"
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 **Pe scurt:** Evermusic este un player de muzică din cloud pentru iPhone și iPad care se conectează la Dropbox, Google Drive, OneDrive și 9+ alte servicii cloud. Redă FLAC, MP3, WAV și alte formate, suportă descărcări offline și include un egalizator și editor de etichete ID3. Descărcare gratuită cu upgrade Premium unic. Peste 11 milioane de descărcări, rating de 4,6 stele în App Store.
 
@@ -20,7 +20,7 @@ authors:
 
 Urmărește recenzia video completă de la [@Massi_Media](https://www.youtube.com/@Massi_Media):
 
-{{< youtubecard id="pKUZmHy9dxc" >}}
+{{< ls-youtubecard id="pKUZmHy9dxc" >}}
 
 ## Care Este Cel Mai Bun Player de Muzică din Cloud pentru iPhone?
 
@@ -67,18 +67,18 @@ Deoarece Evermusic funcționează cu fișierele pe care le ai deja și stocarea 
 
 ## Întrebări Frecvente
 
-{{% details title="Evermusic este cu adevărat gratuit?" closed="true" %}}
+{{% ls-details title="Evermusic este cu adevărat gratuit?" closed="true" %}}
 Da, Evermusic oferă un nivel gratuit care include conectivitate cloud, streaming și descărcări offline. Versiunea gratuită suportă funcții de bază de redare și un număr limitat de conexiuni de conturi cloud. Evermusic Pro, disponibil ca achiziție unică sau abonament, deblochează egalizatorul complet, crossfade, conturi cloud suplimentare și alte funcții avansate. Nu este necesar niciun abonament pentru a accesa propriile fișiere de muzică.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Pot folosi Evermusic fără conexiune la internet?" closed="true" %}}
+{{% ls-details title="Pot folosi Evermusic fără conexiune la internet?" closed="true" %}}
 Absolut. Evermusic îți permite să descarci piese din orice serviciu cloud conectat direct pe dispozitivul tău pentru redare offline. Odată descărcate, fișierele sunt stocate local și rămân disponibile chiar și fără Wi-Fi sau date celulare. Aceasta face Evermusic ideal pentru zboruri, navete prin tunele sau orice situație în care conectivitatea este nesigură.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Evermusic suportă formate audio fără pierderi precum FLAC?" closed="true" %}}
+{{% ls-details title="Evermusic suportă formate audio fără pierderi precum FLAC?" closed="true" %}}
 Da. Evermusic suportă o gamă largă de formate audio, inclusiv FLAC, ALAC, WAV, AIFF, OGG, MP3, AAC și M4A. Aplicația redă fișierele fără pierderi la calitatea lor nativă fără recodificare, astfel că audiofili pot savura colecțiile lor de înaltă rezoluție exact cum a fost intenționat.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Cum conectez NAS-ul sau serverul meu de acasă la Evermusic?" closed="true" %}}
+{{% ls-details title="Cum conectez NAS-ul sau serverul meu de acasă la Evermusic?" closed="true" %}}
 Dacă NAS-ul sau serverul tău de acasă suportă protocoalele WebDAV sau SMB, îl poți conecta la Evermusic introducând adresa serverului, portul și credențialele în setările de conexiune cloud ale aplicației. Cele mai populare branduri de NAS, inclusiv Synology, QNAS și Western Digital MyCloud, suportă aceste protocoale din fabrică. Odată conectat, Evermusic va scana și indexa fișierele tale de muzică la fel ca orice altă sursă cloud.
-{{% /details %}}
+{{% /ls-details %}}

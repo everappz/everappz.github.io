@@ -17,7 +17,7 @@ readingTime: 6
 Odjeljak Popisi pjesama pruža vam alate za organiziranje pjesama u popise. Uključuje prikaz sadržaja koji prikazuje sve kreirane popise pjesama, gumb "..." u navigacijskoj traci koji nudi različite radnje vezane uz popise pjesama i navigacijsku alatnu traku s gumbima "Pretraži", "Reproduciraj sve" i "Izmiješaj sve". Nadalje, svaki pojedinačni popis pjesama ima gumb "..." pored naslova popisa, koji nudi niz radnji specifičnih za taj popis.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Zaslon Evermusic Popisa pjesama" image="/docs/guide/evermusic/evermusic-guide-playlists/img/playlists-main.webp" >}}
+  {{< ls-card title="" subtitle="Zaslon Evermusic Popisa pjesama" image="/docs/guide/evermusic/evermusic-guide-playlists/img/playlists-main.webp" >}}
 {{< /cards >}}
 
 ## Kreiranje popisa pjesama
@@ -25,7 +25,7 @@ Odjeljak Popisi pjesama pruža vam alate za organiziranje pjesama u popise. Uklj
 Za kreiranje novog popisa pjesama, dodirnite gumb "+" ili gumb "..." u gornjem desnom kutu navigacijske trake, odaberite "Novi popis pjesama" i dodijelite naziv popisu. Nakon imenovanja, dodirnite "Spremi".
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Kreiranje novog popisa pjesama" image="/docs/guide/evermusic/evermusic-guide-playlists/img/playlists-add-new.webp" >}}
+  {{< ls-card title="" subtitle="Kreiranje novog popisa pjesama" image="/docs/guide/evermusic/evermusic-guide-playlists/img/playlists-add-new.webp" >}}
 {{< /cards >}}
 
 Time se otvara dijaloški okvir "Dodaj pjesme", gdje možete odabrati koje pjesme dodati na novi popis. Pjesme su kategorizirane prema vrsti izvora i imate nekoliko opcija:
@@ -42,7 +42,7 @@ Prema zadanim postavkama, možete dodati pjesmu na popis samo jednom. Za dopušt
 U Evermusicu smo dodali funkcionalnost uvoza M3U datoteka kako ne biste morali ručno kreirati popise.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Uvoz popisa pjesama iz izvora datoteke" image="/docs/guide/evermusic/evermusic-guide-playlists/img/playlists-import-from-files.webp" >}}
+  {{< ls-card title="" subtitle="Uvoz popisa pjesama iz izvora datoteke" image="/docs/guide/evermusic/evermusic-guide-playlists/img/playlists-import-from-files.webp" >}}
 {{< /cards >}}
 
 Prvo idite na odjeljak 'Popisi pjesama'. Zatim dodirnite gumb 'Više' u gornjem desnom kutu. Iz izbornika koji se pojavljuje, odaberite opciju 'Uvezi popis pjesama'.
@@ -62,7 +62,7 @@ Aplikacija će analizirati datoteku popisa, kreirati popis pjesama i locirati te
 Kada otvorite popis pjesama, pojavljuje se "Zaslon detalja popisa". Na ovom zaslonu pronaći ćete gumb "..." u gornjem desnom kutu s opcijama popisa i tri gumba ispod slike artwork: "Pretraži", "Nastavi reprodukciju", "Reproduciraj sve" i "Izmiješaj sve". Uz to, postoji potvrdni okvir "Offline način rada".
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Zaslon detalja popisa" image="/docs/guide/evermusic/evermusic-guide-playlists/img/playlists-detail-screen.webp" >}}
+  {{< ls-card title="" subtitle="Zaslon detalja popisa" image="/docs/guide/evermusic/evermusic-guide-playlists/img/playlists-detail-screen.webp" >}}
 {{< /cards >}}
 
 - **Nastavi reprodukciju**: Vraća poziciju reprodukcije za ovaj popis.
@@ -87,7 +87,7 @@ Radnjama za popis možete pristupiti dodirivanjem gumba "..." pored naslova popi
 - **Izbriši popis:** Obrišite popis iz glazbene biblioteke. Napominjemo da se ova radnja ne može poništiti.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Izbornik više radnji za popis" image="/docs/guide/evermusic/evermusic-guide-playlists/img/playlists-more-actions-for-separate-playlist.webp" >}}
+  {{< ls-card title="" subtitle="Izbornik više radnji za popis" image="/docs/guide/evermusic/evermusic-guide-playlists/img/playlists-more-actions-for-separate-playlist.webp" >}}
 {{< /cards >}}
 
 ## Više radnji za popis na zaslonu detalja popisa
@@ -113,7 +113,7 @@ Radnjama za popis možete pristupiti dodirivanjem gumba "..." u gornjem desnom k
 Za promjenu redosljeda pjesama na popisu, dodirnite gumb "..." u gornjem desnom kutu i odaberite "Odaberi" za ulazak u način odabira. Koristite kontrolu za preuređivanje i geste povuci i ispusti pored svake pjesme za premještanje gore ili dolje. Dodirivanjem kontrole za preuređivanje premještate pjesmu na vrh popisa. Za izlazak iz načina odabira i primjenu promjena, dodirnite "Završeno".
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Promjena redosljeda pjesama na popisu" image="/docs/guide/evermusic/evermusic-guide-playlists/img/playlists-change-songs-order.webp" >}}
+  {{< ls-card title="" subtitle="Promjena redosljeda pjesama na popisu" image="/docs/guide/evermusic/evermusic-guide-playlists/img/playlists-change-songs-order.webp" >}}
 {{< /cards >}}
 
 ## Promjena naslovne slike popisa
@@ -129,7 +129,7 @@ Otvorite popis i dodirnite gumb "..." u gornjem desnom kutu, zatim odaberite "Do
 Otvorite popis, dodirnite gumb "..." u gornjem desnom kutu i odaberite "Odaberi" za ulazak u način odabira. Odaberite pjesme koje želite obrisati i dodirnite gumb "Izbriši s popisa" na dnu zaslona. Potvrdite promjene dodirivanjem "Završeno".
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Način odabira unutar popisa" image="/docs/guide/evermusic/evermusic-guide-playlists/img/playlists-selection-mode-in-playlist-details-screen.webp" >}}
+  {{< ls-card title="" subtitle="Način odabira unutar popisa" image="/docs/guide/evermusic/evermusic-guide-playlists/img/playlists-selection-mode-in-playlist-details-screen.webp" >}}
 {{< /cards >}}
 
 ## Opcije pjesme
@@ -137,7 +137,7 @@ Otvorite popis, dodirnite gumb "..." u gornjem desnom kutu i odaberite "Odaberi"
 Svaka pjesma na popisu ima popis radnji, dostupnih dodirivanjem gumba "...". Ako ne vidite sve radnje, pomaknite se prema dolje za prikaz. Možete obrisati pjesmu s popisa, preuzeti je, urediti audio oznake i više.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Izbornik opcija pjesme na popisu" image="/docs/guide/evermusic/evermusic-guide-playlists/img/playlists-track-options.webp" >}}
+  {{< ls-card title="" subtitle="Izbornik opcija pjesme na popisu" image="/docs/guide/evermusic/evermusic-guide-playlists/img/playlists-track-options.webp" >}}
 {{< /cards >}}
 
 - **Reproduciraj sljedeće:** Dodaje pjesmu na vrh reda reproduktora.

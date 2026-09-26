@@ -25,7 +25,7 @@ Evermusic'in işlevselliği iki farklı bileşene ayrılmıştır: "Müzik Küt�
 iPhone, iPad veya Mac'te kompakt mod kullanıyor olun, tüm uygulama özellikleri ekranın altındaki sekme çubuğu aracılığıyla kolayca erişilebilir. iPad ve Mac kullanıcıları için aynı menü ekranın sol tarafında bulunabilir. Bu düşünceli organizasyon, tüm uygulama özelliklerini kolayca erişilebilen bölümlere kategorize ederek kullanıcı dostu ve verimli bir deneyim sağlar.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="iPad ve Mac'te Evermusic Sol Kenar Çubuğu" image="/docs/guide/evermusic/evermusic-guide-navigation/img/navigation-left-sidebar.webp" >}}
+  {{< ls-card title="" subtitle="iPad ve Mac'te Evermusic Sol Kenar Çubuğu" image="/docs/guide/evermusic/evermusic-guide-navigation/img/navigation-left-sidebar.webp" >}}
 {{< /cards >}}
 
 **Bağlantılar:** Bu ekranda Google Drive, MEGA, OneDrive ve Dropbox gibi bulut depolama hizmetlerini ve bilgisayarınızı ve kişisel NAS'ınızı zahmetsizce bağlayabilirsiniz.
@@ -47,7 +47,7 @@ Yerel dosyalar bölümü iki kategoriye ayrılmıştır: Uygulamadaki Dosyalar, 
 Mini oynatıcı simgesine dokunarak ve gizlemek için aşağı kaydırma hareketi kullanarak tam ekran oynatıcıyı etkinleştirin. iPad ve Mac'te mini oynatıcı ekranı, ekranın üst kısmında bulunur ve ana menü aracılığıyla tam ekran oynatıcı açılırken gizlenebilir.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="iPhone Sekme Çubuğu" image="/docs/guide/evermusic/evermusic-guide-navigation/img/navigation-bottom-tabbar.webp" >}}
+  {{< ls-card title="" subtitle="iPhone Sekme Çubuğu" image="/docs/guide/evermusic/evermusic-guide-navigation/img/navigation-bottom-tabbar.webp" >}}
 {{< /cards >}}
 
 ## Mini Oynatıcı Penceresi (Yalnızca Mac)
@@ -55,7 +55,7 @@ Mini oynatıcı simgesine dokunarak ve gizlemek için aşağı kaydırma hareket
 Mac'inizdeki mini oynatıcı penceresine erişmek için imlecinizi uygulama penceresinin sağ alt kenarına taşıyın ve mümkün olan en küçük boyuta yeniden boyutlandırın. Ardından mini oynatıcı penceresini etkinleştirmek için daraltma düğmesine (aşağı ok olarak gösterilir) dokunun. Mini oynatıcı penceresini her zaman diğer pencerelerin üstünde tutmak için Mac'inizin üst menü çubuğuna gidin, 'Window' öğesini seçin ve ardından 'Show Window Always On Top' öğesini seçin. Bu özellik, kesintisiz ses dersleri dinlemek için kullanışlıdır.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Mac Mini Oynatıcı Penceresi" image="/docs/guide/evermusic/evermusic-guide-navigation/img/navigation-mac-exclusive-miniplayer.webp" >}}
+  {{< ls-card title="" subtitle="Mac Mini Oynatıcı Penceresi" image="/docs/guide/evermusic/evermusic-guide-navigation/img/navigation-mac-exclusive-miniplayer.webp" >}}
 {{< /cards >}}
 
 ## Daha Fazla Eylem
@@ -63,7 +63,7 @@ Mac'inizdeki mini oynatıcı penceresine erişmek için imlecinizi uygulama penc
 Ekrandaki neredeyse her içerik öğesinde bir "Daha fazla eylem" düğmesi bulunur. Tüm mevcut eylemlere erişmek için üzerine dokunun.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Daha Fazla Eylem Bağlam Menüsü" image="/docs/guide/evermusic/evermusic-guide-navigation/img/navigation-more-actions.webp" >}}
+  {{< ls-card title="" subtitle="Daha Fazla Eylem Bağlam Menüsü" image="/docs/guide/evermusic/evermusic-guide-navigation/img/navigation-more-actions.webp" >}}
 {{< /cards >}}
 
 ## Üst Araç Çubuğu
@@ -77,7 +77,7 @@ Bu araç çubuğunu basit bir aşağı kaydırma hareketiyle kolayca gösterebil
 - **Tümünü Karıştır:** Geçerli sayfadaki tüm parçaları ses oynatıcı kuyruğuna ekleyin ve keyifli bir dinleme deneyimi için eklemeden önce karıştırın.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Ara, Tümünü Oynat ve Tümünü Karıştır ile Üst Araç Çubuğu" image="/docs/guide/evermusic/evermusic-guide-navigation/img/navigation-top-toolbar.webp" >}}
+  {{< ls-card title="" subtitle="Ara, Tümünü Oynat ve Tümünü Karıştır ile Üst Araç Çubuğu" image="/docs/guide/evermusic/evermusic-guide-navigation/img/navigation-top-toolbar.webp" >}}
 {{< /cards >}}
 
 ## Bağlam menüsü
@@ -91,7 +91,7 @@ Bağlam menüsü, cihazlar arasında sorunsuz etkileşim için ek seçeneklere v
 **Sağ Fare Tıklaması:** Bağlam menüsünü göstermek için hücrelere, mini oynatıcıya veya kompakt oynatıcıya sağ tıklayın.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="macOS'ta Bağlam Menüsü" image="/docs/guide/evermusic/evermusic-guide-navigation/img/navigation-context-menu-macos.webp" >}}
+  {{< ls-card title="" subtitle="macOS'ta Bağlam Menüsü" image="/docs/guide/evermusic/evermusic-guide-navigation/img/navigation-context-menu-macos.webp" >}}
 {{< /cards >}}
 
 ## Erişilebilirlik
@@ -125,7 +125,7 @@ Evermusic, her Apple platformunda uygulamanın temel bölümlerini gösteren dö
 Dört widget'ın tamamı, Küçük, Orta ve Büyük boyutlarda mevcuttur, böylece ekranınıza uyan düzeni seçebilirsiniz.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evermusic Widget'ları Ekleme" image="/docs/guide/evermusic/evermusic-guide-navigation/img/navigation-add-widgets.webp" >}}
+  {{< ls-card title="" subtitle="Evermusic Widget'ları Ekleme" image="/docs/guide/evermusic/evermusic-guide-navigation/img/navigation-add-widgets.webp" >}}
 {{< /cards >}}
 
 ### iPhone'a widget ekleme (Ana Ekran)
@@ -175,7 +175,7 @@ CarPlay widget'ı, müziğiniz değiştikçe canlı olarak güncellenir ve sür�
 Evermusic, araba ekranı için optimize edilmiş tam özellikli bir **Apple CarPlay** arayüzü (yalnızca iOS) içerir. iPhone'unuz uyumlu bir CarPlay ünitesine — USB veya kablosuz olarak — bağlandığında, Evermusic, yolda bulut kütüphanenizi akışa almaya hazır olarak Apple Music ve Spotify ile birlikte CarPlay uygulama ızgarasında görünür.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="CarPlay Ekranında Evermusic" image="/docs/guide/evermusic/evermusic-guide-navigation/img/navigation-carplay-menu.webp" >}}
+  {{< ls-card title="" subtitle="CarPlay Ekranında Evermusic" image="/docs/guide/evermusic/evermusic-guide-navigation/img/navigation-carplay-menu.webp" >}}
 {{< /cards >}}
 
 ### CarPlay'de neler var

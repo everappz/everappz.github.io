@@ -17,7 +17,7 @@ keywords: [
 readingTime: 3
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **Resumo:** Conecte seu iPhone ou iPad ao Mac (ou PC) com um cabo USB. No macOS Catalina e posterior, use o Finder. No macOS mais antigo ou Windows, use o iTunes. Arraste arquivos para um aplicativo como Evermusic, Flacbox ou Evertag para transferi-los instantaneamente.
@@ -117,26 +117,26 @@ Com o Compartilhamento de Arquivos do iTunes, você pode gerenciar facilmente ar
 
 ## Perguntas frequentes
 
-{{% details title="Preciso de conexão com a internet para transferir arquivos via USB?" closed="true" %}}
+{{% ls-details title="Preciso de conexão com a internet para transferir arquivos via USB?" closed="true" %}}
 Não. O Compartilhamento de Arquivos funciona inteiramente pela conexão do cabo USB entre o computador e o dispositivo iOS. Não é necessário internet.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Quais formatos de arquivo posso transferir para o Evermusic ou Flacbox?" closed="true" %}}
+{{% ls-details title="Quais formatos de arquivo posso transferir para o Evermusic ou Flacbox?" closed="true" %}}
 Ambos os aplicativos suportam uma ampla variedade de formatos de áudio, incluindo MP3, FLAC, AAC, WAV, AIFF, OGG, WMA e mais. Consulte a documentação do aplicativo para a lista completa de formatos suportados.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Por que não vejo a aba Arquivos no Finder?" closed="true" %}}
+{{% ls-details title="Por que não vejo a aba Arquivos no Finder?" closed="true" %}}
 A aba Arquivos só aparece quando seu dispositivo tem pelo menos um aplicativo instalado que suporta Compartilhamento de Arquivos. Instale o Evermusic, Flacbox ou Evertag e reconecte seu dispositivo.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Posso transferir arquivos sem fio em vez de usar um cabo USB?" closed="true" %}}
+{{% ls-details title="Posso transferir arquivos sem fio em vez de usar um cabo USB?" closed="true" %}}
 Sim. Evermusic e Flacbox também suportam serviços de armazenamento em nuvem e transferência Wi-Fi. No entanto, o compartilhamento de arquivos via USB pelo Finder ou iTunes é geralmente mais rápido para grandes bibliotecas de música.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="A transferência de arquivos pelo Finder substituirá arquivos existentes no meu dispositivo?" closed="true" %}}
+{{% ls-details title="A transferência de arquivos pelo Finder substituirá arquivos existentes no meu dispositivo?" closed="true" %}}
 Não. Novos arquivos são adicionados junto aos existentes. Se um arquivo com o mesmo nome já existir, o macOS pode renomear o novo arquivo automaticamente.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Este método funciona com PCs Windows?" closed="true" %}}
+{{% ls-details title="Este método funciona com PCs Windows?" closed="true" %}}
 Sim. No Windows, use o iTunes para transferir arquivos. O processo é o mesmo descrito na seção iTunes acima. Instale o iTunes na Microsoft Store ou no site da Apple.
-{{% /details %}}
+{{% /ls-details %}}

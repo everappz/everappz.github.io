@@ -7,7 +7,7 @@ keywords: ["iPhone WebDAV サーバー", "iPad WebDAV サーバー", "iPhone で
 readingTime: 9
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 WebDAV は、フォルダーを、パソコンが通常のファイルマネージャーで開けるネットワークドライブに変えます。ブラウザが使うのと同じ Web プロトコルの上で動くため、特別なドライバーなしで Mac、Windows、Linux をまたいでうまく通ります。[Everdisk](/products/everdisk) を使えば、iPhone や iPad で WebDAV サーバーを動かせるので、スマホが、ほぼどんなパソコンからでも閲覧・コピー元・コピー先として使えるドライブとして表示されます。
 
@@ -104,40 +104,40 @@ iOS のファイルアプリには WebDAV クライアントが含まれてい�
 
 ## よくある質問
 
-{{% details title="iPhone の WebDAV アドレスとポートは何ですか?" closed="true" %}}
+{{% ls-details title="iPhone の WebDAV アドレスとポートは何ですか?" closed="true" %}}
 共有を開始すると、Everdisk が共有画面にアドレスを表示します。http://192.168.1.20:8080 のような形です。8080 は Everdisk が WebDAV に使うポートで、最初の部分は Wi-Fi 上での iPhone のアドレスなので、あなたの場合は異なります。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Windows から iPhone の WebDAV に接続するにはどうしますか?" closed="true" %}}
+{{% ls-details title="Windows から iPhone の WebDAV に接続するにはどうしますか?" closed="true" %}}
 エクスプローラーを開き、PC を右クリックして、ネットワークの場所を追加するまたはネットワークドライブの割り当てを選びます。Everdisk の WebDAV アドレス (例: http://192.168.1.20:8080) を入力し、設定した場合はログインを入力します。Windows が接続できない場合は、WebClient サービスが動いていることを確認して (サービスを検索し、WebClient を見つけて起動します)、もう一度試してください。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="2 台の iPhone の間で WebDAV を使えますか?" closed="true" %}}
+{{% ls-details title="2 台の iPhone の間で WebDAV を使えますか?" closed="true" %}}
 はい。ただし iOS のファイルアプリには WebDAV クライアントがないので、2 台目のデバイスでは Everdisk を使います。デバイスタブを開き、新しい接続をタップして、WebDAV を選び、1 台目のスマホに表示されたアドレスを入力します。Documents by Readdle のような WebDAV アプリでも使えます。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="WebDAV にパスワードは必要ですか?" closed="true" %}}
+{{% ls-details title="WebDAV にパスワードは必要ですか?" closed="true" %}}
 いいえ、ログインは任意です。ゲストアクセスにするには設定、共有、アクセスでログインとパスワードを空のままにし、接続にサインインさせたい場合は設定してください。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="WebDAV 経由で他の人が私のファイルを変更できますか?" closed="true" %}}
+{{% ls-details title="WebDAV 経由で他の人が私のファイルを変更できますか?" closed="true" %}}
 許可した場合のみです。設定、共有、アクセスのファイルの編集スイッチがこれを制御します。オンにすると、接続したデバイスはアップロード・名前の変更・削除ができます。オフにすると、ドライブは読み取り専用になり、相手は表示とコピーはできますが何も変更できません。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="WebDAV と SMB の違いは何ですか?" closed="true" %}}
+{{% ls-details title="WebDAV と SMB の違いは何ですか?" closed="true" %}}
 どちらも iPhone をネットワークドライブとしてマウントします。WebDAV は Web プロトコルの上で動き、Windows のエクスプローラーからきれいに接続できるのが主な強みです。SMB は Mac、Linux、NAS デバイスでのネイティブなファイル共有で、Mac では通常より速く、転送を暗号化できる唯一の Everdisk 接続です。Everdisk は両方を同時に動かせます。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="WebDAV ドライブが切断されるのはなぜですか?" closed="true" %}}
+{{% ls-details title="WebDAV ドライブが切断されるのはなぜですか?" closed="true" %}}
 iPhone がサーバーで、iOS はバックグラウンドに長く留まったアプリを一時停止します。デバイスが接続している間は Everdisk を画面に開いたままにし、長時間の転送中は電源につないでください。また、両方のデバイスが同じ Wi-Fi にとどまっていることも確認してください。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Wi-Fi なしで WebDAV 経由で接続できますか?" closed="true" %}}
+{{% ls-details title="Wi-Fi なしで WebDAV 経由で接続できますか?" closed="true" %}}
 はい。iPhone をケーブルで Mac につなげば可能です。すると Everdisk が、接続した Mac が Finder で開ける追加のケーブル接続アドレスを表示し、Wi-Fi がまったくなくても動きます。ケーブルでは、その Mac だけがデバイスに到達できます。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Everdisk は無料ですか?" closed="true" %}}
+{{% ls-details title="Everdisk は無料ですか?" closed="true" %}}
 はい。Everdisk は無料でダウンロードでき、WebDAV サーバーも含まれています。任意の買い切りの Premium 購入で、カスタムポートや写真・動画の変換などの追加機能が使えます。お支払いなしで WebDAV を設定してファイルを共有できます。
-{{% /details %}}
+{{% /ls-details %}}
 
 試してみませんか? [App Store から Everdisk をダウンロード](https://apps.apple.com/app/apple-store/id6751851132?pt=95781850&ct=everappzcom&mt=8)して、数分で iPhone をドライブとしてマウントしてみましょう。ご質問やご意見は **support@everappz.com** までメールでお寄せください。

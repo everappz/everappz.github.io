@@ -14,7 +14,7 @@ authors:
     image: "/images/about/artem-meleshko-founder-everappz.webp"
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 **TL;DR:** Evermusic 6.8 adds Aliyun Drive and Synology NAS integration (with QuickConnect), six new album cover scroll effects, a minimal fullscreen player, drag-and-drop file management, and faster album art loading. Available now for iOS and macOS.
 
@@ -79,18 +79,18 @@ Evermusic 6.8 focuses on three areas: broader cloud compatibility (Aliyun Drive,
 
 ## Frequently Asked Questions
 
-{{% details title="How do I connect Synology NAS to Evermusic?" closed="true" %}}
+{{% ls-details title="How do I connect Synology NAS to Evermusic?" closed="true" %}}
 Go to the Connections tab, select Synology, and enter your QuickConnectID. Evermusic connects directly without requiring IP addresses or VPN setup.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Is Aliyun Drive free to use with Evermusic?" closed="true" %}}
+{{% ls-details title="Is Aliyun Drive free to use with Evermusic?" closed="true" %}}
 Yes. If you have an Aliyun Drive account, you can connect it to Evermusic at no additional cost. Storage limits depend on your Aliyun Drive plan.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Can I customize the album cover scroll style?" closed="true" %}}
+{{% ls-details title="Can I customize the album cover scroll style?" closed="true" %}}
 Yes. Go to Settings > Audio Player > Personalization > Album Covers Scrolling Style and choose from six options: MacDoc, Linear, Rotary, Inverted Rotary, Cylinder, or CoverFlow.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Does the minimal player screen work with all devices?" closed="true" %}}
+{{% ls-details title="Does the minimal player screen work with all devices?" closed="true" %}}
 Yes. The fullscreen album cover style is available on all supported iPhones, iPads, and Macs running Evermusic 6.8 or later.
-{{% /details %}}
+{{% /ls-details %}}

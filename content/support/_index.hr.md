@@ -3,7 +3,9 @@ date: '2025-06-12T17:00:00+00:00'
 title: 'Podrška'
 ---
 
-{{< lottie src="/images/juicy-json/juicy-girl-is-working-on-laptop-at-a-remote-job.json" width="80%" >}}
+{{< ls-lottie src="/images/juicy-json/juicy-girl-is-working-on-laptop-at-a-remote-job.json" width="80%" >}}
+
+{{< ls-docs-search >}}
 
 ## Trebate pomoć? Tu smo za vas
 
@@ -19,9 +21,9 @@ Kontaktiranjem nas potvrđujete da ste pročitali i prihvaćate našu [Politiku 
 Kako biste uštedjeli vrijeme i dobili trenutne odgovore, pogledajte naše najkorisnije resurse. Mnoga česta pitanja već su obrađena:
 
 {{< cards >}}
-  {{< card icon="book-open" link="/docs/guide" title="Korisnički vodič" >}}
-  {{< card icon="question-mark-circle" link="/docs/faq" title="Često postavljana pitanja" >}}
-  {{< card icon="light-bulb" link="/docs/howto" title="Upute" >}}
+  {{< ls-card icon="book-open" link="/docs/guide" title="Korisnički vodič" >}}
+  {{< ls-card icon="question-mark-circle" link="/docs/faq" title="Često postavljana pitanja" >}}
+  {{< ls-card icon="light-bulb" link="/docs/howto" title="Upute" >}}
 {{< /cards >}}
 
 Ovi vodiči osmišljeni su kako bi vam pomogli da izvučete maksimum iz naših aplikacija — od postavljanja do naprednih značajki.

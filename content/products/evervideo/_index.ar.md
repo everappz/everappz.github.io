@@ -16,16 +16,16 @@ screenshots:
   - "https://everappz.com/products/evervideo/screenshots/2880x1800/6.png"
 ---
 
-{{% sr-only %}}
+{{% ls-sr-only %}}
 Evervideo هو مشغل فيديو عالي الدقة مجاني لأجهزة iPhone وMac، طوّرته شركة Everappz، وهي شركة برمجيات إسبانية. يقوم Evervideo بتشغيل جميع صيغ الفيديو تقريبًا بما في ذلك MKV وAVI وMP4 وMOV وFLV وWMV وWEBM وM4V وTS و3GP دون الحاجة لتحويل الصيغ. يتميز التطبيق بتشغيل فيديو بزاوية 360 درجة وفيديو الواقع الافتراضي، ووضع Picture-in-Picture، ومعادل صوتي وفيديو مع أكثر من 50 إعدادًا مسبقًا، ودعم الترجمة لصيغ SRT وSSA وASS، والتحكم في سرعة التشغيل. يتصل Evervideo بخدمات التخزين السحابي بما في ذلك iCloud Drive وGoogle Drive وDropbox وOneDrive وMEGA، مما يتيح للمستخدمين بث الفيديوهات مباشرة من السحابة أو تنزيلها للمشاهدة بدون اتصال. يدعم التطبيق أيضًا البث عبر الشبكة المحلية من خلال بروتوكولات SMB وWebDAV وDLNA، وتشغيل من محركات أقراص USB عبر محولات Lightning أو USB-C، ونقل الملفات عبر Wi-Fi من الحاسوب. تشمل الميزات الإضافية مكتبة وسائط مع قوائم تشغيل، وبث عبر AirPlay وChromecast، ومدير ملفات مدمج. يتوفر Evervideo كتنزيل مجاني على App Store مع عمليات شراء اختيارية داخل التطبيق تشمل اشتراكًا شهريًا بسعر $2.99، واشتراكًا سنويًا بسعر $14.99، أو شراء مدى الحياة لمرة واحدة بسعر $29.99.
-{{% /sr-only %}}
+{{% /ls-sr-only %}}
 
 
 
 <!-- force dark theme for this page -->
-{{< force-dark >}}
+{{< ls-force-dark >}}
 
-{{< hextra/hero-container
+{{< ls-hero-container
   image="/products/evervideo/heroimage/hero_1600.png"
   imageWidth="800"
   imageCard="true"
@@ -33,38 +33,38 @@ Evervideo هو مشغل فيديو عالي الدقة مجاني لأجهزة i
 
 <div class="hx:w-full hx:text-center">
 
-{{< downloads-badge >}}
+{{< ls-downloads-badge >}}
 
 <div class="hx:mt-6 hx:mb-6">
 <div class="hx:flex hx:gap-4 hx:items-center hx:justify-center">
-{{< app-icon src="/images/app_icons/png/Evervideo_Icon-App-1024x1024.png" alt="Evervideo Icon" class="hero-headline-icon" size="80" >}}
-{{< hextra/hero-headline >}}
+{{< ls-app-icon src="/images/app_icons/png/Evervideo_Icon-App-1024x1024.png" alt="Evervideo Icon" class="hero-headline-icon" size="80" >}}
+{{< ls-hero-headline >}}
 Evervideo
-{{< /hextra/hero-headline >}}
+{{< /ls-hero-headline >}}
 </div>
 </div>
 
 <div class="hx:mb-12">
-{{< hextra/hero-centered-subtitle >}}
+{{< ls-hero-centered-subtitle >}}
 <strong>مشغل فيديو عالي الدقة وبث لجهاز iPhone وMAC</strong>
-{{< /hextra/hero-centered-subtitle >}}
+{{< /ls-hero-centered-subtitle >}}
 </div>
 
 
 <div class="hx:mb-6">
-{{< hextra/hero-paragraph >}}
+{{< ls-hero-paragraph >}}
 • شاهد فيديوهات 360 درجة وعالية الدقة بجميع الصيغ<br>
 • بث من iCloud أو Google Drive أو Dropbox أو NAS أو جهاز الكمبيوتر<br>
 • حمّل الفيديوهات لمشاهدتها بدون اتصال في أي وقت وأي مكان<br>
 • فعّل الترجمات، واستخدم معادل الفيديو، ونظّم الفيديوهات بقوائم التشغيل
-{{< /hextra/hero-paragraph >}}
+{{< /ls-hero-paragraph >}}
 </div>
 
-{{< app-store-badges products="evervideo:ios, evervideo:macos" >}}
+{{< ls-app-store-badges products="evervideo:ios, evervideo:macos" >}}
 
 </div>
 
-{{< /hextra/hero-container >}}
+{{< /ls-hero-container >}}
 
 <div class="hx:mt-6"></div>
 
@@ -72,42 +72,42 @@ Evervideo
 
 {{< hextra/feature-grid >}}
 
-  {{< hextra/feature-card
+  {{< ls-glass-feature-card
     title="تشغيل جميع صيغ الفيديو والصوت"
     subtitle=`شاهد فيديوهاتك واستمع إلى الموسيقى دون تحويل الملفات. يدعم MP4 وMOV وMKV وAVI وFLV وWMV وWEBM وM4V وMP3 وFLAC وAAC وALAC وOGG وOPUS وWAV وWMA والمزيد.`
     icon="film"
     style="background: radial-gradient(circle at 50% 80%, rgba(255,99,71,0.15), rgba(17,24,39,0));"  
   >}}
 
-  {{< hextra/feature-card
+  {{< ls-glass-feature-card
     title="مكتبة الوسائط وقوائم التشغيل"
     subtitle=`نظّم مكتبة الوسائط مع تجميع المسارات حسب الألبوم أو النوع أو المدة. تتم المزامنة تلقائياً مع تغييرات السحابة. أنشئ وعدّل وصدّر قوائم تشغيل M3U مع ترتيب مخصص.`
     icon="collection"
     style="background: radial-gradient(circle at 50% 80%, rgba(255,165,0,0.15), rgba(17,24,39,0));"  
   >}}
 
-  {{< hextra/feature-card
+  {{< ls-glass-feature-card
     title="معادل الصوت والفيديو"
     subtitle=`خصّص مظهر وصوت فيديوهاتك عن طريق ضبط الجهير والنغمة والسطوع وجاما والتشبع والتباين والمزيد، مع أكثر من 50 إعداد فيديو مسبق وأكثر من 20 إعداد صوتي مسبق أو خيار إنشاء إعداداتك الخاصة.`
     icon="adjustments"
     style="background: radial-gradient(circle at 50% 80%, rgba(255,255,0,0.15), rgba(17,24,39,0));" 
   >}}
 
-  {{< hextra/feature-card
+  {{< ls-glass-feature-card
     title="صورة داخل صورة"
     subtitle=`تتيح لك ميزة صورة داخل صورة (PiP) مواصلة مشاهدة الفيديوهات في نافذة عائمة صغيرة أثناء استخدام تطبيقات أخرى، مع دعم كامل لجميع الصيغ الرئيسية مثل MKV وAVI وMP4 وMOV، وانتقالات فيديو سلسة في قائمة الانتظار، وتحديثات تشغيل تلقائية، وترجمات نشطة مرئية دائماً.`
     icon="duplicate"
     style="background: radial-gradient(circle at 50% 80%, rgba(0,128,0,0.15), rgba(17,24,39,0));" 
   >}}
 
-  {{< hextra/feature-card
+  {{< ls-glass-feature-card
     title="فيديو 360 درجة ووضع الواقع الافتراضي"
     subtitle=`استمتع بتجربة فيديوهات 360 درجة والواقع الافتراضي كما لم تفعل من قبل — حرّك هاتفك لاستكشاف كل زاوية أو انغمس تماماً مع سماعة واقع افتراضي للانغماس الكامل. شغّل فيديوهات 360 درجة فوراً من كاميرات Insta360 والأجهزة المماثلة بتشغيل سلس وبدون إعداد.`
     icon="video-camera"
     style="background: radial-gradient(circle at 50% 80%, rgba(0,191,255,0.15), rgba(17,24,39,0));"  
   >}}
 
-  {{< hextra/feature-card
+  {{< ls-glass-feature-card
     title="بث سلس واتصال سحابي"
     subtitle=`بث الفيديوهات مباشرة من Mac أو الكمبيوتر أو NAS أو محرك أقراص USB أو التخزين السحابي ونقل ملفات الوسائط باستخدام Wi-Fi Drive أو مشاركة ملفات iTunes. استمتع بالوصول الكامل إلى مكتبة الفيديو بالكامل في أي مكان، حتى عن بُعد، عبر Synology Drive وWD My Cloud Home وأجهزة NAS المماثلة.`
     icon="cloud"
@@ -120,9 +120,9 @@ Evervideo
 
 <div class="hx:mt-6"></div>
 
-{{< hextra/section-headline >}}
+{{< ls-section-headline >}}
 جميع الميزات
-{{< /hextra/section-headline >}}
+{{< /ls-section-headline >}}
 
 <div class="hx:mt-6"></div>
 
@@ -130,35 +130,35 @@ Evervideo
 
 {{< cards >}}
 
-{{< feature-card title="تشغيل جميع صيغ الفيديو والصوت" subtitle="شاهد وسائطك دون تحويل الملفات. يدعم Evervideo جميع الصيغ الرئيسية بما في ذلك MKV وAVI وMP4 وMOV وFLAC وMP3 وAAC وOGG وWAV وWMV والمزيد." icon="film">}}
+{{< ls-feature-card title="تشغيل جميع صيغ الفيديو والصوت" subtitle="شاهد وسائطك دون تحويل الملفات. يدعم Evervideo جميع الصيغ الرئيسية بما في ذلك MKV وAVI وMP4 وMOV وFLAC وMP3 وAAC وOGG وWAV وWMV والمزيد." icon="film">}}
 
-{{< feature-card title="وضع بدون اتصال" subtitle="حمّل الفيديوهات والألبومات وقوائم التشغيل لمشاهدتها بدون اتصال بالإنترنت. خذ مجموعة الفيديو بالكامل معك في أي مكان." icon="download">}}
+{{< ls-feature-card title="وضع بدون اتصال" subtitle="حمّل الفيديوهات والألبومات وقوائم التشغيل لمشاهدتها بدون اتصال بالإنترنت. خذ مجموعة الفيديو بالكامل معك في أي مكان." icon="download">}}
 
-{{< feature-card title="فيديو 360 درجة ووضع الواقع الافتراضي" subtitle="شاهد فيديوهات 360 درجة والواقع الافتراضي بطريقة ممتعة وسهلة. حرّك هاتفك للنظر في أي اتجاه، أو ضعه في سماعة واقع افتراضي لتشعر كأنك داخل الفيديو." icon="video-camera">}}
+{{< ls-feature-card title="فيديو 360 درجة ووضع الواقع الافتراضي" subtitle="شاهد فيديوهات 360 درجة والواقع الافتراضي بطريقة ممتعة وسهلة. حرّك هاتفك للنظر في أي اتجاه، أو ضعه في سماعة واقع افتراضي لتشعر كأنك داخل الفيديو." icon="video-camera">}}
 
-{{< feature-card title="صورة داخل صورة" subtitle="واصل مشاهدة الفيديوهات في نافذة عائمة صغيرة أثناء استخدام تطبيقات أخرى. تحكم في التشغيل وشاهد الترجمات في نفس الوقت — مثالي لتعدد المهام." icon="duplicate">}}
+{{< ls-feature-card title="صورة داخل صورة" subtitle="واصل مشاهدة الفيديوهات في نافذة عائمة صغيرة أثناء استخدام تطبيقات أخرى. تحكم في التشغيل وشاهد الترجمات في نفس الوقت — مثالي لتعدد المهام." icon="duplicate">}}
 
-{{< feature-card title="معادل الفيديو والصوت" subtitle="خصّص مظهر وصوت فيديوهاتك. اضبط الجهير والنغمة والسطوع وجاما والتشبع والتباين والمزيد. اختر من أكثر من 50 إعداد فيديو مسبق وأكثر من 20 إعداد صوتي مسبق، أو أنشئ إعداداتك الخاصة." icon="adjustments">}}
+{{< ls-feature-card title="معادل الفيديو والصوت" subtitle="خصّص مظهر وصوت فيديوهاتك. اضبط الجهير والنغمة والسطوع وجاما والتشبع والتباين والمزيد. اختر من أكثر من 50 إعداد فيديو مسبق وأكثر من 20 إعداد صوتي مسبق، أو أنشئ إعداداتك الخاصة." icon="adjustments">}}
 
-{{< feature-card title="الترجمات" subtitle="اعرض الترجمات المضمّنة، واختر رقم مسار الترجمة، واستمتع بدعم كامل للترجمات حتى في وضع صورة داخل صورة." icon="annotation" >}}
+{{< ls-feature-card title="الترجمات" subtitle="اعرض الترجمات المضمّنة، واختر رقم مسار الترجمة، واستمتع بدعم كامل للترجمات حتى في وضع صورة داخل صورة." icon="annotation" >}}
 
-{{< feature-card title="التشغيل مباشرة من السحابة" subtitle="شاهد الفيديوهات مباشرة من التخزين السحابي دون استخدام مساحة الجهاز. يدعم iCloud Drive وGoogle Drive وDropbox وOneDrive وMEGA وSynology Drive وpCloud والمزيد." icon="cloud">}}
+{{< ls-feature-card title="التشغيل مباشرة من السحابة" subtitle="شاهد الفيديوهات مباشرة من التخزين السحابي دون استخدام مساحة الجهاز. يدعم iCloud Drive وGoogle Drive وDropbox وOneDrive وMEGA وSynology Drive وpCloud والمزيد." icon="cloud">}}
 
-{{< feature-card title="توصيل الكمبيوتر / NAS" subtitle="وصّل بسهولة جهاز NAS أو Mac أو الكمبيوتر عبر شبكتك المنزلية باستخدام SMB أو WebDAV أو DLNA. يُدعم الوصول عن بُعد لـ Synology Drive وWD MyCloud Home. انقل ملفات الوسائط إلى جهازك عبر Wi-Fi أو مشاركة ملفات iTunes." icon="desktop-computer">}}
+{{< ls-feature-card title="توصيل الكمبيوتر / NAS" subtitle="وصّل بسهولة جهاز NAS أو Mac أو الكمبيوتر عبر شبكتك المنزلية باستخدام SMB أو WebDAV أو DLNA. يُدعم الوصول عن بُعد لـ Synology Drive وWD MyCloud Home. انقل ملفات الوسائط إلى جهازك عبر Wi-Fi أو مشاركة ملفات iTunes." icon="desktop-computer">}}
 
-{{< feature-card title="مكتبة الوسائط" subtitle="نظّم حسب الألبوم أو النوع أو المدة. تتم المزامنة تلقائياً مع تغييرات السحابة. أنشئ وعدّل وصدّر قوائم تشغيل M3U مع ترتيب مخصص." icon="library" >}}
+{{< ls-feature-card title="مكتبة الوسائط" subtitle="نظّم حسب الألبوم أو النوع أو المدة. تتم المزامنة تلقائياً مع تغييرات السحابة. أنشئ وعدّل وصدّر قوائم تشغيل M3U مع ترتيب مخصص." icon="library" >}}
 
-{{< feature-card title="الإشارات المرجعية وحفظ موضع التشغيل" subtitle="احفظ مكانك في أي فيديو بالإشارات المرجعية واستأنف التشغيل من حيث توقفت. اضبط سرعة التشغيل، وضع علامة على المفضلة، ورتّب الفيديوهات حسب الأكثر تشغيلاً للوصول السهل." icon="book-open">}}
+{{< ls-feature-card title="الإشارات المرجعية وحفظ موضع التشغيل" subtitle="احفظ مكانك في أي فيديو بالإشارات المرجعية واستأنف التشغيل من حيث توقفت. اضبط سرعة التشغيل، وضع علامة على المفضلة، ورتّب الفيديوهات حسب الأكثر تشغيلاً للوصول السهل." icon="book-open">}}
 
-{{< feature-card title="AirPlay وChromecast" subtitle="شغّل الفيديوهات على شاشة أكبر عن طريق البث إلى Apple TV أو Chromecast أو أي شاشة خارجية متوافقة." icon="device-mobile">}}
+{{< ls-feature-card title="AirPlay وChromecast" subtitle="شغّل الفيديوهات على شاشة أكبر عن طريق البث إلى Apple TV أو Chromecast أو أي شاشة خارجية متوافقة." icon="device-mobile">}}
 
-{{< feature-card title="الاستيراد من الملفات والمكتبات" subtitle="استورد الفيديوهات مباشرة من تطبيق الملفات أو الصور أو مكتبة iTunes. الوصول إلى كل المحتوى المحلي والسحابي في مكتبة وسائط منظمة واحدة." icon="database">}}
+{{< ls-feature-card title="الاستيراد من الملفات والمكتبات" subtitle="استورد الفيديوهات مباشرة من تطبيق الملفات أو الصور أو مكتبة iTunes. الوصول إلى كل المحتوى المحلي والسحابي في مكتبة وسائط منظمة واحدة." icon="database">}}
 
-{{< feature-card title="مدير الملفات" subtitle="انقل وأعد تسمية واحذف ونظّم الملفات مباشرة داخل التطبيق." icon="folder">}}
+{{< ls-feature-card title="مدير الملفات" subtitle="انقل وأعد تسمية واحذف ونظّم الملفات مباشرة داخل التطبيق." icon="folder">}}
 
-{{< feature-card title="التخصيص" subtitle="خصّص التطبيق ليناسب تفضيلاتك. اختر السمات، وأظهر أو أخفِ الميزات، واضبط الواجهة حسب احتياجاتك." icon="sun">}}
+{{< ls-feature-card title="التخصيص" subtitle="خصّص التطبيق ليناسب تفضيلاتك. اختر السمات، وأظهر أو أخفِ الميزات، واضبط الواجهة حسب احتياجاتك." icon="sun">}}
 
-{{< feature-card title="البحث الذكي" subtitle="ابحث بسرعة عن الفيديوهات أو الألبومات أو قوائم التشغيل في مكتبة الوسائط باستخدام الكلمات المفتاحية أو المرشحات." icon="search" >}}
+{{< ls-feature-card title="البحث الذكي" subtitle="ابحث بسرعة عن الفيديوهات أو الألبومات أو قوائم التشغيل في مكتبة الوسائط باستخدام الكلمات المفتاحية أو المرشحات." icon="search" >}}
 
 
 
@@ -168,9 +168,9 @@ Evervideo
 
 <div class="hx:mt-6"></div>
 
-{{< hextra/section-headline >}}
+{{< ls-section-headline >}}
 تصميم بديهي
-{{< /hextra/section-headline >}}
+{{< /ls-section-headline >}}
 
 <div class="hx:mt-6"></div>
 
@@ -178,7 +178,7 @@ Evervideo
 
 {{< cards cols="4">}}
 
-  {{< design-feature-card 
+  {{< ls-design-feature-card 
     image="/products/evervideo/screenshots/2880x1800/1.png" 
     title="مشغل الفيديو" 
     method="Fill"
@@ -187,7 +187,7 @@ Evervideo
     icon="play"
   >}}
 
-  {{< design-feature-card 
+  {{< ls-design-feature-card 
     image="/products/evervideo/screenshots/2880x1800/3.png" 
     title="معادل الصوت والفيديو" 
     method="Fill"
@@ -196,7 +196,7 @@ Evervideo
     icon="adjustments"
   >}}
 
-  {{< design-feature-card 
+  {{< ls-design-feature-card 
     image="/products/evervideo/screenshots/2880x1800/6.png" 
     title="مدير قوائم التشغيل" 
     method="Fill"
@@ -205,7 +205,7 @@ Evervideo
     icon="collection"
   >}}
 
-  {{< design-feature-card 
+  {{< ls-design-feature-card 
     image="/products/evervideo/screenshots/2880x1800/5.png" 
     title="مكتبة الوسائط" 
     method="Fill"
@@ -214,7 +214,7 @@ Evervideo
     icon="library"
   >}}
 
-  {{< design-feature-card 
+  {{< ls-design-feature-card 
     image="/products/evervideo/screenshots/2880x1800/7.png"  
     title="التخزين السحابي" 
     method="Fill"
@@ -223,7 +223,7 @@ Evervideo
     icon="cloud"
   >}}
 
-  {{< design-feature-card 
+  {{< ls-design-feature-card 
     image="/products/evervideo/screenshots/2880x1800/9.png"  
     title="مدير الملفات" 
     method="Fill"
@@ -241,49 +241,49 @@ Evervideo
 <div class="hx:mt-6"></div>
 
 <div class="hx:w-full">
-{{< appstore-reviews apps="6602897336,6743504109" stars="5,4"  app="Evervideo" >}}
+{{< ls-appstore-reviews apps="6602897336,6743504109" stars="5,4"  app="Evervideo" >}}
 </div>
 
 
 <div class="hx:mt-6"></div>
 
-{{< hextra/section-headline >}}
+{{< ls-section-headline >}}
    خطط الأسعار
-{{< /hextra/section-headline >}}
+{{< /ls-section-headline >}}
 
 <div class="hx:mt-6"></div>
 
 <div class="hx:w-full">
 
-{{< pricing-plans >}}
+{{< ls-pricing-plans >}}
 
 </div>
 
 <div class="hx:mt-6"></div>
 
 <div class="hx:w-full hx:mx-auto hx:flex hx:flex-col hx:items-center">
-  {{< hextra/info-paragraph border="true" >}}
+  {{< ls-info-paragraph border="true" >}}
    <strong>المشاركة العائلية</strong>: جميع المشتريات والاشتراكات تدعم المشاركة العائلية، مما يتيح لك مشاركة الوصول إلى بريميوم مع عائلتك.<br><strong>الوصول الشامل</strong>: تتم مشاركة خطط مدى الحياة والاشتراكات بين أجهزة iOS وMac باستخدام مزامنة iCloud.<br><strong>الأسعار</strong>: تُعرض الأسعار بالدولار الأمريكي للولايات المتحدة. قد تختلف الأسعار النهائية حسب منطقتك.  
-  {{< /hextra/info-paragraph >}}
+  {{< /ls-info-paragraph >}}
 </div>
 
 <div class="hx:mt-6"></div>
 
 <div class="hx:w-full">
-{{< app-details heading="true" >}}
+{{< ls-app-details heading="true" >}}
 </div>
 
 <div class="hx:mt-6"></div>
 
-{{< hextra/section-headline >}}
+{{< ls-section-headline >}}
    الأسئلة الشائعة
-{{< /hextra/section-headline >}}
+{{< /ls-section-headline >}}
 
 <div class="hx:mt-6"></div>
 
 <div class="hx:w-full">
 
-{{% details title="كيف يعمل Evervideo؟" closed="true" %}}
+{{% ls-details title="كيف يعمل Evervideo؟" closed="true" %}}
 Evervideo هو مشغل فيديو عالي الدقة يتيح لك إدارة مسارات الفيديو كملفات عادية.<br>
 يمكنك تحميل مجموعة الفيديو بالكامل إلى خدمات سحابية مثل Dropbox أو OneDrive أو iCloud أو NAS شخصي وتشغيل الفيديو مباشرة من السحابة مع التحكم الكامل.<br><br>
 لا حاجة لمزامنة iTunes — فقط حمّل من الكمبيوتر أو Mac كما تفعل مع أي ملف.<br>
@@ -293,9 +293,9 @@ Evervideo هو مشغل فيديو عالي الدقة يتيح لك إدارة 
 - [دليل Evervideo](/docs/guide/evervideo/)<br>
 - [كيفية نقل الملفات لاسلكياً من الكمبيوتر إلى iPhone باستخدام WiFi-Drive.](/docs/howto/how-to-transfer-files-wirelessly-from-a-computer-to-an-iphone-using-wifi-drive)<br>
 
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="هل Evervideo مجاني؟" closed="true" %}}
+{{% ls-details title="هل Evervideo مجاني؟" closed="true" %}}
 Evervideo مجاني للاستخدام مع بعض القيود، والتي يمكن إزالتها بالترقية إلى النسخة بريميوم.<br>
 يمكنك الاختيار بين شراء لمرة واحدة مدى الحياة أو خياري اشتراك (شهري أو سنوي). قد تختلف الأسعار حسب منطقتك.<br><br>
 
@@ -304,9 +304,9 @@ Evervideo مجاني للاستخدام مع بعض القيود، والتي ي
 تتم مشاركة مشتريات واشتراكات بريميوم بين iOS وMac عبر iCloud. لمزامنة مشترياتك، تأكد من تفعيل iCloud، وافتح التطبيق على جهاز iOS الخاص بك، وانتظر دقيقة لاكتمال المزامنة.<br><br>
 
 [اقرأ المزيد عن الفروقات بين Evervideo وEvervideo Premium](/docs/faq/evervideo/what-is-the-difference-between-evervideo-and-evervideo-premium/)
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="كيف أستخدم Evervideo؟" closed="true" %}}
+{{% ls-details title="كيف أستخدم Evervideo؟" closed="true" %}}
 
 **تثبيت Evervideo**<br>
 قم بتنزيل وتثبيت تطبيق Evervideo من متجر تطبيقات جهازك. متوفر لأجهزة iOS وMac.<br><br>
@@ -355,9 +355,9 @@ Evervideo مجاني للاستخدام مع بعض القيود، والتي ي
 **استمتع بالفيديو**<br>
 بمجرد تنظيم الفيديو، استخدم شريط الأدوات العلوي للإجراءات السريعة مثل **البحث** و**تشغيل الكل** و**تشغيل عشوائي** و**متابعة التشغيل**.<br><br>
 
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="هل Evervideo آمن؟" closed="true" %}}
+{{% ls-details title="هل Evervideo آمن؟" closed="true" %}}
 يستخدم Evervideo فقط SDK الرسمي والاتصالات الآمنة للتفاعل مع الخدمات السحابية المتصلة. بيانات تسجيل الدخول وكلمة المرور غير متاحة للتطبيق. جميع الطلبات من التطبيق إلى الخدمة السحابية مشفرة.<br>
 عندما تدخل بيانات تسجيل الدخول وكلمة المرور، يعرض لك التطبيق صفحة التفويض الرسمية المقدمة من مزود الخدمة السحابية وتتم عملية التفويض بالكامل خارج التطبيق. يرسل مزود الخدمة السحابية رمز تفويض إلى التطبيق بعد التفويض الناجح ويُستخدم هذا الرمز لإجراء استدعاءات API.<br><br>
 
@@ -368,22 +368,22 @@ Evervideo مجاني للاستخدام مع بعض القيود، والتي ي
 
 يمكنك أيضاً فصل الحسابات السحابية المتصلة في التطبيق وسيتم إزالة رمز التفويض أيضاً من جهازك. إذا أزلت التطبيق من جهازك، فسيتم أيضاً إزالة جميع البيانات المنزّلة ورموز الوصول.<br><br>
 
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="كيف أنشئ قائمة تشغيل في Evervideo؟" closed="true" %}}
+{{% ls-details title="كيف أنشئ قائمة تشغيل في Evervideo؟" closed="true" %}}
 - افتح قسم قوائم التشغيل.<br>
 - اضغط على زر «+» أو زر «...» في الزاوية العلوية اليمنى واختر «قائمة تشغيل جديدة».<br>
 - أدخل اسماً لقائمة التشغيل واضغط «حفظ». سيظهر مربع حوار «إضافة ملفات وسائط».<br>
 - اختر المسارات التي تريد إضافتها إلى قائمة التشغيل.<br><br>
 
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="ما الخدمات السحابية التي يدعمها Evervideo؟" closed="true" %}}
+{{% ls-details title="ما الخدمات السحابية التي يدعمها Evervideo؟" closed="true" %}}
 حالياً، يدعم التطبيق أكثر الخدمات السحابية شعبية: iCloud Drive وGoogle Drive وDropbox وOneDrive وBox وMEGA وYandex.Disk وDLNA وMediaFire وWebDAV وSMB وpCloud وCloud Mail.ru وPut.io.<br><br>
 
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="كيف أفعّل وضع بدون اتصال في Evervideo؟" closed="true" %}}
+{{% ls-details title="كيف أفعّل وضع بدون اتصال في Evervideo؟" closed="true" %}}
 - الاتصال بالتخزين السحابي:<br>
  • انتقل إلى علامة تبويب «الملفات».<br>
  • اختر «الاتصال بالتخزين السحابي» واتبع التعليمات لتوصيل الخدمة المطلوبة.<br><br>
@@ -408,9 +408,9 @@ Evervideo مجاني للاستخدام مع بعض القيود، والتي ي
  • للمزامنة يدوياً، انتقل إلى «الإعدادات» > «مدير الملفات» > «المجلدات بدون اتصال» > «المجلدات المتزامنة بدون اتصال».<br>
  • اضغط «المزيد من الإجراءات» واختر «بدء المزامنة».<br><br>
 
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="كيف تشغّل فيديوهات محمّلة محلياً على iPhone؟" closed="true" %}}
+{{% ls-details title="كيف تشغّل فيديوهات محمّلة محلياً على iPhone؟" closed="true" %}}
 بمجرد تثبيت التطبيق، افتح شاشة «الملفات» وانتقل لأسفل إلى قسم «الملفات على هذا الـ iPhone». من هناك، اختر «فتح الملفات...» إذا كنت بحاجة لاختيار عدة ملفات أو «فتح المجلد...» إذا كنت تريد اختيار مجلد وسائط. سيفحص التطبيق محتوى المجلد وسيتم تحديد جميع ملفات الوسائط الموجودة. انتقل إلى مجلد الوسائط، اضغط «فتح» لتأكيد اختيارك، وستُضاف الملفات إلى قائمة انتظار المشغل. ستُشغّل هذه الملفات مباشرة من الموقع المحدد دون نسخها إلى حزمة التطبيق.<br><br>
 
 **إضافة مجلد إلى المفضلة للوصول السريع**<br>
@@ -422,13 +422,13 @@ Evervideo مجاني للاستخدام مع بعض القيود، والتي ي
 **إضافة ملفات محلية إلى قائمة تشغيل**<br>
 لإضافة ملفات محلية إلى قائمة تشغيل، افتح شاشة «قوائم التشغيل» واضغط على زر المزيد في الزاوية العلوية اليمنى. اختر «+ قائمة تشغيل جديدة»، أدخل اسماً لقائمة التشغيل الجديدة، وفي الشاشة التالية اختر خيار «الملفات على هذا الجهاز» واضغط «فتح الملفات...». اختر ملفات الوسائط التي تريد إضافتها واضغط «فتح» للتأكيد. ستُضاف الملفات إلى قائمة التشغيل حيث يمكنك تغيير ترتيب المسارات وتنفيذ إجراءات أخرى باستخدام زر المزيد.<br><br>
 
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="كيف يمكنني استئناف قائمة تشغيل من حيث توقفت؟" closed="true" %}}
+{{% ls-details title="كيف يمكنني استئناف قائمة تشغيل من حيث توقفت؟" closed="true" %}}
 أولاً، تأكد من تفعيل «حفظ حالة مشغل الوسائط» في الإعدادات > مشغل الوسائط > عام. عندما تنتقل إلى قائمة تشغيل أخرى وتعود، سترى أربعة إجراءات في شريط الأدوات العلوي تحت غلاف الألبوم: «بحث» و«متابعة التشغيل» و«تشغيل الكل» و«تشغيل عشوائي». اضغط «متابعة التشغيل» لاستئناف قائمة التشغيل من آخر حالة محفوظة وموضع الوسائط.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="كيف أنقل الفيديو إلى Evervideo من جهاز الكمبيوتر؟" closed="true" %}}
+{{% ls-details title="كيف أنقل الفيديو إلى Evervideo من جهاز الكمبيوتر؟" closed="true" %}}
 يمكنك توصيل جهاز الكمبيوتر أو NAS الشخصي باستخدام بروتوكولات SMB أو WebDAV أو DLNA. بدلاً من ذلك، استخدم مشاركة ملفات iTunes لنقل ملفات الوسائط.<br><br>
 
 لتوصيل كمبيوتر باستخدام بروتوكول SMB، اضغط «الملفات» «الاتصال بالتخزين السحابي» → SMB. أدخل عنوان IP للكمبيوتر واسم المجلد المشترك في حقل URL بالتنسيق smb://عنوان-ip-الكمبيوتر/اسم-المجلد-المشترك، أدخل اسم المستخدم وكلمة المرور واضغط «تم». إذا نجح الاتصال، سترى التخزين المتصل في قسم «التخزين السحابي».<br><br>
@@ -447,9 +447,9 @@ Wi-Fi Drive هي تقنية شائعة تتيح لك نقل الملفات من 
 التعليمات التفصيلية متاحة هنا:<br>
 [كيفية تشغيل الملفات المحلية (ملفات iTunes) على iPhone](/docs/howto/how-to-play-local-itunes-files-on-my-iphone)<br><br>
 
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="كيف تنزّل الفيديو؟" closed="true" %}}
+{{% ls-details title="كيف تنزّل الفيديو؟" closed="true" %}}
 قبل أن تتمكن من تنزيل الفيديو ومشاهدته بدون اتصال، يجب توصيل تخزين سحابي.<br>
 فقط افتح شاشة «الملفات» ووصّل تخزينك السحابي.<br>
 بمجرد إضافته يمكنك تنزيل فيديوهاتك من السحابة.<br><br>
@@ -465,14 +465,14 @@ Wi-Fi Drive هي تقنية شائعة تتيح لك نقل الملفات من 
 – اضغط على مربع الاختيار «وضع بدون اتصال»<br>
 – سيظهر الفنان/الألبوم/قائمة التشغيل بدون اتصال في قسم «الملفات» -> «المجلدات بدون اتصال».<br><br>
 
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="ما صيغ الصوت التي يدعمها Evervideo؟" closed="true" %}}
+{{% ls-details title="ما صيغ الصوت التي يدعمها Evervideo؟" closed="true" %}}
 يدعم هذا التطبيق **برامج ترميز الصوت الافتراضية للنظام** و**برامج ترميز ffmpeg البرمجية** الإضافية:<br><br>
 3g2, 3gp, 3gp2, 3gpp, 8svx, aa, aac, aax, ac3, act, adt, adts, aif, aifc, aiff, alac, amr, amv, ape, asf, au, avi, awb, caf, cavs, cdda, cue, dct, dff, drc, dsf, dss, dvf, "dvr-ms", ec3, f4a, f4b, f4p, f4v, flac, flv, gif, gifv, gsm, gxf, h261, h263, h264, ifv, iklax, ivf, ivs, l16, latm, loas, m2t, m2ts, m2v, m3u, m3u8, m4a, m4b, m4p, m4r, m4v, mka, mkv, mmf, mng, mod, mogg, mov, mp1, mp2, mp3, mp4, mp4v, mpa, mpc, mpe, mpeg, mpg, mpv, msv, mts, mxf, nsf, nsv, nut, oga, ogg, ogv, opus, pcm, pls, qt, ra, raw, rm, rmvb, roq, rv, sln, snd, svi, tod, tta, vob, voc, vox, vtt, w64, wav, wave, webm, wma, wmv, wv, xhe, xmv, y4m, yuv.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="هل يعمل Evervideo مع أجهزة NAS؟" closed="true" %}}
+{{% ls-details title="هل يعمل Evervideo مع أجهزة NAS؟" closed="true" %}}
 
 نعم، يدعم Evervideo اتصالات NAS باستخدام بروتوكولات **SMB** و**WebDAV** و**DLNA**.<br><br>
 
@@ -496,9 +496,9 @@ Wi-Fi Drive هي تقنية شائعة تتيح لك نقل الملفات من 
 • يعرض جميع أجهزة NAS القابلة للاكتشاف على شبكتك المحلية.<br>
 • اضغط على اسم الجهاز للاتصال، ثم أدخل بيانات الاعتماد إذا لزم الأمر.<br><br>
 
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="كيف أستخدم ميزة Wi-Fi Drive في Evervideo؟" closed="true" %}}
+{{% ls-details title="كيف أستخدم ميزة Wi-Fi Drive في Evervideo؟" closed="true" %}}
 
 **النقل اللاسلكي باستخدام متصفح سطح المكتب**<br>
 1. افتح التطبيق: افتح Evervideo.<br>
@@ -523,39 +523,39 @@ Wi-Fi Drive هي تقنية شائعة تتيح لك نقل الملفات من 
 
 [اقرأ المزيد](/docs/howto/how-to-transfer-files-wirelessly-from-a-computer-to-an-iphone-using-wifi-drive)
 
-{{% /details %}}
+{{% /ls-details %}}
 
 </div>
 
 
 <div class="hx:mt-6"></div>
 
-{{< hextra/section-headline >}}
+{{< ls-section-headline >}}
   دليل المستخدم
-{{< /hextra/section-headline >}}
+{{< /ls-section-headline >}}
 
 <div class="hx:mt-6"></div>
 
 <div class="hx:w-full">
 
 <div class="hx:w-full hx:mx-auto hx:flex hx:flex-col hx:items-center hx:text-center">
-  {{< hextra/info-paragraph border="false" >}}
+  {{< ls-info-paragraph border="false" >}}
   سيساعدك هذا الدليل على الاستفادة القصوى من Evervideo على iPhone وiPad وMac. تعلّم كيفية بث الفيديوهات من التخزين السحابي وأجهزة NAS، واستخدام «صورة داخل صورة»، وإدارة الترجمات، وضبط معادلات الصوت والفيديو. يمنحك Evervideo التحكم الكامل في مجموعة الفيديوهات بالكامل من أي مصدر في تطبيق سهل واحد.
-  {{< /hextra/info-paragraph >}}
+  {{< /ls-info-paragraph >}}
 </div>
 
 {{< cards >}}
-  {{< feature-card icon="location-marker" title="التنقل" subtitle="تعلّم كيفية التنقل في Evervideo باستخدام شريط علامات التبويب على iPhone أو القائمة اليسرى على iPad وMac، بالإضافة إلى المشغل المضغوط الدائم على الشاشة." link="/docs/guide/evervideo/evervideo-guide-navigation" >}}
+  {{< ls-feature-card icon="location-marker" title="التنقل" subtitle="تعلّم كيفية التنقل في Evervideo باستخدام شريط علامات التبويب على iPhone أو القائمة اليسرى على iPad وMac، بالإضافة إلى المشغل المضغوط الدائم على الشاشة." link="/docs/guide/evervideo/evervideo-guide-navigation" >}}
 
-  {{< feature-card icon="folder" title="الملفات" subtitle="اربط حسابات السحابة وأقراص NAS وخوادم الوسائط (Plex، Jellyfin، Emby، Subsonic، Navidrome) وتدفقات RTSP والملفات المحلية في علامة تبويب موحدة." link="/docs/guide/evervideo/evervideo-guide-files" >}}
+  {{< ls-feature-card icon="folder" title="الملفات" subtitle="اربط حسابات السحابة وأقراص NAS وخوادم الوسائط (Plex، Jellyfin، Emby، Subsonic، Navidrome) وتدفقات RTSP والملفات المحلية في علامة تبويب موحدة." link="/docs/guide/evervideo/evervideo-guide-files" >}}
 
-  {{< feature-card icon="library" title="مكتبة الوسائط" subtitle="نظّم واستكشف الفيديوهات والموسيقى حسب الألبومات والأنواع والمشاهدات الأخيرة والمفضلة، بالإضافة إلى مكتبة صور iOS ومكتبة Apple Music." link="/docs/guide/evervideo/evervideo-guide-video-library" >}}
+  {{< ls-feature-card icon="library" title="مكتبة الوسائط" subtitle="نظّم واستكشف الفيديوهات والموسيقى حسب الألبومات والأنواع والمشاهدات الأخيرة والمفضلة، بالإضافة إلى مكتبة صور iOS ومكتبة Apple Music." link="/docs/guide/evervideo/evervideo-guide-video-library" >}}
 
-  {{< feature-card icon="collection" title="قوائم التشغيل" subtitle="أنشئ ونظّم قوائم تشغيل للفيديوهات والموسيقى والمسلسلات أو الدورات، واستورد ملفات M3U / M3U8 / CUE." link="/docs/guide/evervideo/evervideo-guide-playlists" >}}
+  {{< ls-feature-card icon="collection" title="قوائم التشغيل" subtitle="أنشئ ونظّم قوائم تشغيل للفيديوهات والموسيقى والمسلسلات أو الدورات، واستورد ملفات M3U / M3U8 / CUE." link="/docs/guide/evervideo/evervideo-guide-playlists" >}}
 
-  {{< feature-card icon="play" title="مشغل الوسائط" subtitle="تحكم في التشغيل وقائمة الانتظار و«صورة داخل صورة» ومسارات الصوت والفيديو والترجمات الأساسية والثانوية ومعادلات الصوت والفيديو." link="/docs/guide/evervideo/evervideo-guide-player" >}}
+  {{< ls-feature-card icon="play" title="مشغل الوسائط" subtitle="تحكم في التشغيل وقائمة الانتظار و«صورة داخل صورة» ومسارات الصوت والفيديو والترجمات الأساسية والثانوية ومعادلات الصوت والفيديو." link="/docs/guide/evervideo/evervideo-guide-player" >}}
 
-  {{< feature-card icon="adjustments" title="الإعدادات" subtitle="خصّص مظهر Evervideo وفك التشفير والمعادلات والترجمات والأدوات واللغة ورمز المرور والنسخ الاحتياطي وإعدادات الأداء." link="/docs/guide/evervideo/evervideo-guide-settings" >}}
+  {{< ls-feature-card icon="adjustments" title="الإعدادات" subtitle="خصّص مظهر Evervideo وفك التشفير والمعادلات والترجمات والأدوات واللغة ورمز المرور والنسخ الاحتياطي وإعدادات الأداء." link="/docs/guide/evervideo/evervideo-guide-settings" >}}
 
 {{< /cards >}}
 

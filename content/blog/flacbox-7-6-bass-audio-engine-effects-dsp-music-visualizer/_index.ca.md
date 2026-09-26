@@ -12,7 +12,7 @@ authors:
     image: "/images/about/artem-meleshko-founder-everappz.webp"
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 **Resum:** [Flacbox 7.6](/products/flacbox) és la nostra actualització més gran fins ara per al reproductor d'àudio d'alta resolució per a iPhone, iPad i Mac, i està construïda al voltant d'un **motor d'àudio BASS™** completament nou per a escoltar sense pèrdues i en alta resolució. Pots seleccionar el motor BASS™ com a nucli de reproducció alternatiu per desbloquejar una cadena completa d'**efectes d'àudio en temps real**, un **processador DSP de 14 filtres**, un **visualitzador de música en directe a pantalla completa** i la reproducció de **música tracker i MOD** clàssica (MOD, XM, IT, S3M, MTM, UMX, MO3). L'actualització també afegeix **anivellament automàtic del volum basat en la sonoritat**, un **conjunt d'estudi d'onze efectes** (reverberació, retard, eco multitap, chorus, flanger, phaser, auto-wah, distorsió, compressor, rotació estèreo i crossfeed), un **disseny renovat d'efectes i equalitzador** amb controls lliscants d'estil vidre moderns, i **millores a CarPlay** que inclouen la configuració DSP al cotxe i controls més precisos a la pantalla de bloqueig, al rellotge i al cotxe. Sota el capó: una base de streaming més fiable, una millor gestió dels tipus de fitxer, una localització més àmplia i moltes correccions d'estabilitat i rendiment.
 
@@ -139,50 +139,50 @@ Gràcies per utilitzar Flacbox. Ara la teva música sona bé i es veu bé, amb u
 
 ## Preguntes freqüents
 
-{{% details title="Quines novetats hi ha a Flacbox 7.6?" closed="true" %}}
+{{% ls-details title="Quines novetats hi ha a Flacbox 7.6?" closed="true" %}}
 Flacbox 7.6 afegeix un nou **motor d'àudio BASS™** professional que pots seleccionar com a nucli de reproducció alternatiu, **anivellament automàtic del volum basat en la sonoritat**, un **conjunt d'estudi d'onze efectes** (reverberació, retard, eco multitap, chorus, flanger, phaser, auto-wah, distorsió, compressor, rotació estèreo i crossfeed), un **processador DSP de 14 filtres en temps real**, un **visualitzador de música en temps real a pantalla completa**, reproducció nativa de **tracker i MOD** (MOD, XM, IT, S3M, MTM, UMX, MO3), un **disseny renovat d'efectes i equalitzador**, i **millores a CarPlay**. També inclou una base de streaming més fiable, una millor gestió dels tipus de fitxer, una localització més àmplia i moltes correccions d'estabilitat i rendiment.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Què és el nou motor d'àudio BASS™ de Flacbox?" closed="true" %}}
+{{% ls-details title="Què és el nou motor d'àudio BASS™ de Flacbox?" closed="true" %}}
 El motor d'àudio [BASS™](https://www.un4seen.com), construït sobre la biblioteca d'àudio BASS™ de un4seen Developments, és un nucli de reproducció professional que pots triar com a **alternativa al motor existent de Flacbox**. Seleccionar-lo desbloqueja una cadena completa d'efectes d'àudio en temps real, un processador DSP i visualització en directe, i afegeix la reproducció de música tracker i MOD clàssica. Reprodueix la teva biblioteca sense pèrdues i d'alta resolució existent (FLAC, DSD, ALAC, APE i més) amb **remostreig d'alta qualitat** i **control precís de to i tempo**. Pots tornar al motor clàssic en qualsevol moment.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Quins formats d'àudio i tipus de tracker/MOD reprodueix Flacbox 7.6?" closed="true" %}}
+{{% ls-details title="Quins formats d'àudio i tipus de tracker/MOD reprodueix Flacbox 7.6?" closed="true" %}}
 Flacbox continua sent un reproductor d'alta resolució i sense pèrdues, que gestiona **FLAC, DSD, APE, ALAC, WAV, AIFF, MP3, AAC, Opus** i més. Novetat a la 7.6, el motor BASS™ també reprodueix música tracker i de mòdul clàssica: **MOD, XM, IT, S3M, MTM, UMX i MO3**, els formats de patrons i mostres utilitzats en la música chiptune i demoscene que la majoria de reproductors d'iPhone no poden obrir.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Com funciona l'anivellament automàtic del volum a Flacbox?" closed="true" %}}
+{{% ls-details title="Com funciona l'anivellament automàtic del volum a Flacbox?" closed="true" %}}
 Flacbox 7.6 utilitza la **mesura de sonoritat EBU R128** (l'estàndard ITU-R BS.1770) per mantenir les pistes d'àlbums diferents a un volum percebut constant, de manera que no hagis d'ajustar el volum entre cançons. Per als **fitxers locals, la teva biblioteca s'escaneja prèviament** perquè la reproducció comenci ja anivellada: no hi ha cap retard mentre l'app mesura la sonoritat després que comenci una pista. Hi ha quatre configuracions predefinides disponibles —**Suau** (−20 LUFS), **Estàndard** (−16 LUFS), **Fort** (−14 LUFS) i **Nit** (−23 LUFS)— i funciona en biblioteques mixtes, recopilacions i sessions aleatòries.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Quins efectes d'àudio hi ha a Flacbox 7.6?" closed="true" %}}
+{{% ls-details title="Quins efectes d'àudio hi ha a Flacbox 7.6?" closed="true" %}}
 Onze efectes en temps real que pots apilar i ajustar mentre sona la música: **reverberació, retard, eco multitap, chorus, flanger, phaser, auto-wah, distorsió, compressor, rotació estèreo i crossfeed**. Cada efecte té la **seva pròpia pantalla, una biblioteca de configuracions predefinides i un interruptor d'activació/desactivació instantani**, i Flacbox recorda la teva configuració entre sessions. El crossfeed en particular fa que les gravacions amb panoramització extrema sonin més naturals amb auriculars.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Què és el processador DSP i quins filtres inclou?" closed="true" %}}
+{{% ls-details title="Què és el processador DSP i quins filtres inclou?" closed="true" %}}
 El processador DSP et permet **crear la teva pròpia cadena de senyal en temps real a partir de 14 filtres**: guany, passabaix, passaalt, filtres passabanda i notch, EQ peaking, EQ low-shelf i high-shelf, saturació soft-clip, bit crusher, trémolo, retard, modulador en anell i amplitud estèreo. Cada filtre té **configuracions predefinides i un interruptor d'activació/desactivació instantani**, de manera que pots corregir una habitació, domar gravacions estridents o dissenyar un to completament personalitzat.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Què és el crossfeed i per què el faria servir amb auriculars?" closed="true" %}}
+{{% ls-details title="Què és el crossfeed i per què el faria servir amb auriculars?" closed="true" %}}
 El crossfeed barreja una quantitat petita i filtrada de cada canal estèreo amb l'altre, de la manera com les teves orelles escolten de forma natural els altaveus reals en una habitació. Amb auriculars, això redueix la separació exagerada i «dins del cap» de les gravacions amb panoramització extrema i fa que les escoltes llargues siguin més còmodes. És especialment eficaç en mescles estèreo antigues dels anys 60 i 70.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="El visualitzador de música de Flacbox funciona a tots els dispositius?" closed="true" %}}
+{{% ls-details title="El visualitzador de música de Flacbox funciona a tots els dispositius?" closed="true" %}}
 Sí. El **visualitzador de música en temps real** mostra visuals animats a pantalla completa que reaccionen en directe a la teva música, amb una gran biblioteca de configuracions predefinides que pots triar o deixar que s'alternin automàticament. Està **disponible a tots els motors de reproducció de tots els teus dispositius**, i un **preventor de repòs de pantalla** integrat manté la pantalla activa perquè els visuals no s'interrompin durant una cançó.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Puc canviar el to i el tempo sense afectar l'altre?" closed="true" %}}
+{{% ls-details title="Puc canviar el to i el tempo sense afectar l'altre?" closed="true" %}}
 Sí. Quan utilitzes el nou motor BASS™, Flacbox 7.6 ofereix un **control precís i independent de to i tempo**: canvia la velocitat d'una pista sense canviar-ne la tonalitat, o desplaça la tonalitat sense canviar-ne la velocitat. És útil per a practicar, transcriure i escoltar a l'estil DJ.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Què s'ha millorat a CarPlay a Flacbox 7.6?" closed="true" %}}
+{{% ls-details title="Què s'ha millorat a CarPlay a Flacbox 7.6?" closed="true" %}}
 Ara CarPlay inclou la **configuració DSP** perquè puguis accedir a la teva configuració des del cotxe, la caràtula de l'àlbum i la pantalla **Reproduint ara corregides**, i **controls més precisos a la pantalla de bloqueig, l'Apple Watch i el cotxe** que es mantenen sincronitzats amb la reproducció. Combinat amb la base de streaming més fiable, escoltar la teva biblioteca sense pèrdues per la carretera és més fluid.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Els efectes, el DSP i l'equalitzador funcionen amb el streaming al núvol?" closed="true" %}}
+{{% ls-details title="Els efectes, el DSP i l'equalitzador funcionen amb el streaming al núvol?" closed="true" %}}
 Sí. Els efectes, els filtres DSP, l'equalitzador i l'anivellament del volum s'executen en temps real dins del motor de reproducció BASS™, de manera que s'apliquen a tot el que reprodueix Flacbox —**fitxers locals, unitats al núvol (iCloud Drive, Google Drive, Dropbox, OneDrive i més), servidors multimèdia i recursos compartits en xarxa**— sense recodificar els teus fitxers.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Flacbox 7.6 és una actualització gratuïta i quins dispositius admet?" closed="true" %}}
+{{% ls-details title="Flacbox 7.6 és una actualització gratuïta i quins dispositius admet?" closed="true" %}}
 Sí. Flacbox és una **descàrrega gratuïta** de l'App Store, i la 7.6 és una **actualització gratuïta** per als usuaris existents, amb millores opcionals dins de l'app per a funcions avançades. Funciona a **iPhone, iPad i Mac**. CarPlay requereix un vehicle o una unitat central compatible amb CarPlay.
-{{% /details %}}
+{{% /ls-details %}}

@@ -7,7 +7,7 @@ tags: ["evermusic", "インポート", "プレイリスト", "m3u", "cue"]
 readingTime: 3
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **概要:** EvermusicとFlacboxは、クラウドストレージ、ローカルアプリファイル、またはデバイスからのM3U、M3U8、CUEプレイリストファイルのインポートをサポートしています。プレイリスト > その他 > プレイリストをインポートに移動し、ソースを選択してファイルを選ぶと、アプリが自動的にプレイリストを作成します。
@@ -84,22 +84,22 @@ http://mywebdavserver.com/music/track3.mp3
 
 ## よくある質問
 
-{{% details title="EvermusicとFlacboxはどのプレイリスト形式をサポートしていますか？" closed="true" %}}
+{{% ls-details title="EvermusicとFlacboxはどのプレイリスト形式をサポートしていますか？" closed="true" %}}
 両方のアプリはM3U、M3U8、CUEプレイリストファイル形式をサポートしています。これらは音楽プレーヤーやメディアソフトウェアで使用される最も一般的なプレイリスト標準をカバーしています。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="クラウドストレージからプレイリストをインポートできますか？" closed="true" %}}
+{{% ls-details title="クラウドストレージからプレイリストをインポートできますか？" closed="true" %}}
 はい。Google Drive、Dropbox、OneDrive、WebDAVサーバーを含む、接続されたクラウドストレージサービスからプレイリストファイルをインポートできます。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="インポート後に一部のトラックが見つからないのはなぜですか？" closed="true" %}}
+{{% ls-details title="インポート後に一部のトラックが見つからないのはなぜですか？" closed="true" %}}
 プレイリストファイルにはメディアファイルへの正しいパスが含まれている必要があり、それらのファイルはストレージ上の指定された場所に存在する必要があります。M3UまたはCUEファイルのファイルパスが実際のファイルの場所と一致しているか再確認してください。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="一度に複数のプレイリストをインポートできますか？" closed="true" %}}
+{{% ls-details title="一度に複数のプレイリストをインポートできますか？" closed="true" %}}
 はい。その他のアクションボタンを使用して「フォルダからプレイリストをインポート」を選択してください。アプリはサポートされているすべてのプレイリストファイルをフォルダからスキャンし、一度にインポートします。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="プレイリストを手動で作成する必要がありますか？" closed="true" %}}
+{{% ls-details title="プレイリストを手動で作成する必要がありますか？" closed="true" %}}
 いいえ。インポート機能により手動でのプレイリスト作成は不要です。既存のM3U、M3U8、またはCUEファイルをアプリに指定するだけで、自動的にプレイリストが作成されます。
-{{% /details %}}
+{{% /ls-details %}}

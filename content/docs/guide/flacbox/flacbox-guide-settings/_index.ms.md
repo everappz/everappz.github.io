@@ -21,7 +21,7 @@ readingTime: 16
 Skrin Tetapan adalah pusat kawalan Flacbox. Dari sini anda boleh naik taraf ke Premium, mengkonfigurasikan enjin audio (kodek sistem atau FFmpeg), mengurus pustaka muzik anda, menyediakan pengurus fail, menyesuaikan editor tag audio, mengaktifkan widget Skrin Utama dan Apple CarPlay, menyandarkan data anda, dan mengakses bantuan dan maklumat undang-undang. Bahagian dikumpulkan di bawah tajuk: Pembelian & Kemas Kini, Keutamaan Aplikasi, Bantuan, dan Undang-Undang & Privasi.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Skrin Utama Tetapan Flacbox" image="/docs/guide/flacbox/img/settings-main.webp" >}}
+  {{< ls-card title="" subtitle="Skrin Utama Tetapan Flacbox" image="/docs/guide/flacbox/img/settings-main.webp" >}}
 {{< /cards >}}
 
 ## Naik Taraf ke Premium
@@ -29,13 +29,13 @@ Skrin Tetapan adalah pusat kawalan Flacbox. Dari sini anda boleh naik taraf ke P
 Naik taraf aplikasi ke versi Premium untuk mengalih keluar semua had. Versi percuma aplikasi menawarkan pembelian dalam aplikasi seumur hidup sekali sahaja dan dua pilihan langganan (1 bulan dan 1 tahun) untuk mengalih keluar semua sekatan dan naik taraf ke Premium.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox Naik Taraf ke Premium" image="/docs/guide/flacbox/img/upgrade-to-premium.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox Naik Taraf ke Premium" image="/docs/guide/flacbox/img/upgrade-to-premium.webp" >}}
 {{< /cards >}}
 
 **Perkongsian Keluarga** diaktifkan untuk semua pembelian dan pelan, jadi anda boleh berkongsi versi Premium dengan sehingga lima ahli keluarga anda tanpa kos tambahan.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox Pilih Pelan Premium" image="/docs/guide/flacbox/img/select-premium-plan.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox Pilih Pelan Premium" image="/docs/guide/flacbox/img/select-premium-plan.webp" >}}
 {{< /cards >}}
 
 Anda boleh membaca lebih lanjut tentang pembelian dan versi Premium di sini: [Apakah perbezaan antara Flacbox dan Flacbox Premium](/docs/faq/flacbox/what-is-the-difference-between-flacbox-and-flacbox-premium/).

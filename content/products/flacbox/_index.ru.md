@@ -16,15 +16,15 @@ screenshots:
   - "https://everappz.com/products/flacbox/screenshots/2048x2732/6.png"
 ---
 
-{{% sr-only %}}
+{{% ls-sr-only %}}
 Flacbox — это аудиоплеер высокого разрешения для iPhone и Mac, разработанный компанией Everappz, испанской компанией-разработчиком программного обеспечения. С более чем 1 миллионом загрузок по всему миру Flacbox создан для аудиофилов и любителей музыки, которые хотят воспроизводить lossless и аудиофайлы высокого разрешения на своих устройствах Apple без конвертации форматов. Приложение нативно поддерживает более 120 аудиоформатов, включая FLAC, DSD (DSD64, DSD128, DSD256), ALAC, APE, WAV, AIFF, OGG, OPUS, WMA, MKA, MP3, AAC и другие. Flacbox подключается к более чем 30 облачным хранилищам, включая iCloud Drive, Google Drive, Dropbox, OneDrive, MEGA, Box и pCloud, позволяя пользователям транслировать свою коллекцию музыки высокого разрешения напрямую из облака или загружать файлы для воспроизведения офлайн. Ключевые функции включают 10-полосный аудиоэквалайзер с настраиваемыми пресетами, кроссфейд и воспроизведение без пауз, регулировку высоты тона и скорости, усиление басов, импорт и экспорт плейлистов M3U, отображение текстов песен, аудиозакладки, встроенный редактор метаданных, интеграцию с Apple CarPlay, потоковую передачу через AirPlay и Chromecast, а также скробблинг Last.fm. Приложение поддерживает потоковую передачу по локальной сети через протоколы SMB, WebDAV и DLNA, воспроизведение с USB-накопителей и передачу файлов по Wi-Fi. Flacbox доступен для бесплатной загрузки в App Store с опциональными встроенными покупками, включающими ежемесячную подписку за $4.99, годовую подписку за $19.99 или единовременную покупку пожизненного доступа за $59.99. Приложение было впервые выпущено в 2016 году и активно поддерживается регулярными обновлениями.
-{{% /sr-only %}}
+{{% /ls-sr-only %}}
 
 
 <!-- force dark theme for this page -->
-{{< force-dark >}}
+{{< ls-force-dark >}}
 
-{{< hextra/hero-container
+{{< ls-hero-container
   image="/products/flacbox/heroimage/hero_1600.png"
   imageWidth="800"
   imageCard="true"
@@ -32,36 +32,36 @@ Flacbox — это аудиоплеер высокого разрешения д
 
 <div class="hx:w-full hx:text-center">
 
-{{< downloads-badge >}}
+{{< ls-downloads-badge >}}
 
 <div class="hx:mt-6 hx:mb-6">
 <div class="hx:flex hx:gap-4 hx:items-center hx:justify-center">
-{{< app-icon src="/images/app_icons/png/Flacbox_Icon-App-1024x1024.png" alt="Flacbox Icon" class="hero-headline-icon" size="80" >}}
-{{< hextra/hero-headline >}}
+{{< ls-app-icon src="/images/app_icons/png/Flacbox_Icon-App-1024x1024.png" alt="Flacbox Icon" class="hero-headline-icon" size="80" >}}
+{{< ls-hero-headline >}}
 Flacbox
-{{< /hextra/hero-headline >}}
+{{< /ls-hero-headline >}}
 </div>
 </div>
 
 <div class="hx:mb-12">
-{{< hextra/hero-centered-subtitle >}}
+{{< ls-hero-centered-subtitle >}}
 <strong>Hi-Res аудиоплеер и стример для iPhone и MAC</strong>
-{{< /hextra/hero-centered-subtitle >}}
+{{< /ls-hero-centered-subtitle >}}
 </div>
 
 <div class="hx:mb-6">
-{{< hextra/hero-paragraph >}}
+{{< ls-hero-paragraph >}}
 • Воспроизводите FLAC, ALAC, APE, DSD и другие форматы без потери качества  
 • Скачивайте музыку и слушайте офлайн с полным контролем  
 • Транслируйте из Google Drive, Dropbox, NAS или компьютера   
-{{< /hextra/hero-paragraph >}}
+{{< /ls-hero-paragraph >}}
 </div>
 
-{{< app-store-badges products="flacbox:ios, flacbox:macos" >}}
+{{< ls-app-store-badges products="flacbox:ios, flacbox:macos" >}}
 
 </div>
 
-{{< /hextra/hero-container >}}
+{{< /ls-hero-container >}}
 
 <div class="hx:mt-6"></div>
 
@@ -69,7 +69,7 @@ Flacbox
 
 {{< hextra/feature-grid >}}
 
-  {{< hextra/feature-card
+  {{< ls-glass-feature-card
     title="Транслируйте музыку без потерь"
     subtitle=`Наслаждайтесь музыкой без потерь на iPhone, iPad и Mac без подписок.<br><br>
 Подключите облачное хранилище для бесплатной трансляции FLAC, ALAC, MKA и других форматов. Легко транслируйте на устройства Chromecast и AirPlay.<br><br>
@@ -78,7 +78,7 @@ Flacbox
     style="background: radial-gradient(circle at 50% 80%, rgba(99,102,241,0.15), transparent);"
   >}}
 
-  {{< hextra/feature-card
+  {{< ls-glass-feature-card
     title="Воспроизводите Hi-Res аудио"
     subtitle=`Наслаждайтесь звуком студийного качества с поддержкой более 120 аудиоформатов, включая FLAC, ALAC, WAV, AIFF и DSD.<br><br>
 Flacbox также воспроизводит MP3, AAC, OGG, APE, MOD, MKA и продвинутые контейнеры, такие как MKV, MP4 и MOV.<br><br>
@@ -87,7 +87,7 @@ Flacbox также воспроизводит MP3, AAC, OGG, APE, MOD, MKA и п
     style="background: radial-gradient(circle at 50% 80%, rgba(236,72,153,0.15), transparent);"
   >}}
 
-  {{< hextra/feature-card
+  {{< ls-glass-feature-card
     title="Скачивайте и слушайте офлайн"
     subtitle=`Оставайтесь на связи с вашей музыкой даже в офлайн-режиме.<br><br>
 Скачивайте целые альбомы, жанры, плейлисты и треки на устройство. Используйте Wi-Fi Drive или iTunes File Sharing для переноса аудио с Mac или ПК.<br><br>
@@ -102,9 +102,9 @@ Flacbox также воспроизводит MP3, AAC, OGG, APE, MOD, MKA и п
 
 <div class="hx:mt-6"></div>
 
-{{< hextra/section-headline >}}
+{{< ls-section-headline >}}
 Полный набор функций
-{{< /hextra/section-headline >}}
+{{< /ls-section-headline >}}
 
 <div class="hx:mt-6"></div>
 
@@ -112,41 +112,41 @@ Flacbox также воспроизводит MP3, AAC, OGG, APE, MOD, MKA и п
 
 {{< cards >}}
 
-  {{< feature-card title="Качество звука" subtitle="Наслаждайтесь высококачественным выходом с частотой дискретизации от 8 kHz до 384 kHz, стандартным или смешанным режимами вывода и поддержкой от 1 до 7 аудиоканалов." icon="volume-up" >}}
-  {{< feature-card title="Аудио без потерь и Hi-Res" subtitle="Воспроизводите форматы без потерь и Hi-Res, такие как FLAC, ALAC, WAV, AIFF, APE, WV и DSF (DSD), а также MP3, AAC, OGG и OPUS с частотой дискретизации до 384 kHz." icon="music-note" >}}
-  {{< feature-card title="Трекерная и MOD-музыка" subtitle="Воспроизводите классическую трекерную и модульную музыку нативно, включая форматы MOD, XM, IT и S3M из мира чиптюна и демосцены, которые не открывает большинство плееров." icon="table" >}}
+  {{< ls-feature-card title="Качество звука" subtitle="Наслаждайтесь высококачественным выходом с частотой дискретизации от 8 kHz до 384 kHz, стандартным или смешанным режимами вывода и поддержкой от 1 до 7 аудиоканалов." icon="volume-up" >}}
+  {{< ls-feature-card title="Аудио без потерь и Hi-Res" subtitle="Воспроизводите форматы без потерь и Hi-Res, такие как FLAC, ALAC, WAV, AIFF, APE, WV и DSF (DSD), а также MP3, AAC, OGG и OPUS с частотой дискретизации до 384 kHz." icon="music-note" >}}
+  {{< ls-feature-card title="Трекерная и MOD-музыка" subtitle="Воспроизводите классическую трекерную и модульную музыку нативно, включая форматы MOD, XM, IT и S3M из мира чиптюна и демосцены, которые не открывает большинство плееров." icon="table" >}}
 
-  {{< feature-card title="Аудиодвижки" subtitle="Выбирайте из трёх движков воспроизведения: стандартного системного, универсального FFmpeg и профессионального BASS™, открывающего эффекты, DSP и визуализацию." icon="switch-horizontal" >}}
-  {{< feature-card title="Аудиоэффекты" subtitle="Формируйте звук в реальном времени с реверберацией, задержкой, эхо, хорусом, флэнжером, фейзером, авто-вау, дисторшном, компрессором и естественным кроссфидом для наушников." icon="lightning-bolt" >}}
-  {{< feature-card title="DSP-цепочка" subtitle="Создайте собственную цепочку обработки сигнала в реальном времени из профессиональных фильтров и полос эквалайзера, сатурации и бит-крашера, а также креативных процессоров, таких как тремоло и расширение стерео." icon="chip" >}}
+  {{< ls-feature-card title="Аудиодвижки" subtitle="Выбирайте из трёх движков воспроизведения: стандартного системного, универсального FFmpeg и профессионального BASS™, открывающего эффекты, DSP и визуализацию." icon="switch-horizontal" >}}
+  {{< ls-feature-card title="Аудиоэффекты" subtitle="Формируйте звук в реальном времени с реверберацией, задержкой, эхо, хорусом, флэнжером, фейзером, авто-вау, дисторшном, компрессором и естественным кроссфидом для наушников." icon="lightning-bolt" >}}
+  {{< ls-feature-card title="DSP-цепочка" subtitle="Создайте собственную цепочку обработки сигнала в реальном времени из профессиональных фильтров и полос эквалайзера, сатурации и бит-крашера, а также креативных процессоров, таких как тремоло и расширение стерео." icon="chip" >}}
 
-  {{< feature-card title="Аудиоэквалайзер" subtitle="Точно настраивайте звук с помощью многополосного эквалайзера, готовых пресетов по жанрам, ручного управления и предусиления для громкости тихих треков без клиппинга." icon="adjustments" >}}
-  {{< feature-card title="Музыкальный визуализатор" subtitle="Смотрите полноэкранные анимированные визуализации, реагирующие на музыку в реальном времени, выбирая из большой библиотеки пресетов или позволяя им сменяться автоматически." icon="sparkles" >}}
-  {{< feature-card title="Управление воспроизведением" subtitle="Меняйте скорость воспроизведения без изменения тона, сохраняйте и восстанавливайте очередь и позицию, используйте таймер сна, перемешивание, повтор и фоновое воспроизведение." icon="play" >}}
+  {{< ls-feature-card title="Аудиоэквалайзер" subtitle="Точно настраивайте звук с помощью многополосного эквалайзера, готовых пресетов по жанрам, ручного управления и предусиления для громкости тихих треков без клиппинга." icon="adjustments" >}}
+  {{< ls-feature-card title="Музыкальный визуализатор" subtitle="Смотрите полноэкранные анимированные визуализации, реагирующие на музыку в реальном времени, выбирая из большой библиотеки пресетов или позволяя им сменяться автоматически." icon="sparkles" >}}
+  {{< ls-feature-card title="Управление воспроизведением" subtitle="Меняйте скорость воспроизведения без изменения тона, сохраняйте и восстанавливайте очередь и позицию, используйте таймер сна, перемешивание, повтор и фоновое воспроизведение." icon="play" >}}
 
-  {{< feature-card title="Облачная трансляция" subtitle="Транслируйте напрямую из iCloud Drive, Google Drive, Dropbox, OneDrive, Box, MEGA и pCloud, а также из ориентированных на приватность облаков Internxt и Proton Drive." icon="cloud" >}}
-  {{< feature-card title="Медиасерверы" subtitle="Подключайте персональные медиасерверы, включая Plex, Subsonic, Navidrome, Jellyfin и Emby, чтобы открывать и транслировать всю вашу музыкальную библиотеку." icon="server" >}}
-  {{< feature-card title="Компьютер и NAS" subtitle="Подключайте компьютер или NAS через SMB, WebDAV, DLNA, FTP, SFTP или NFS с нативной поддержкой QNAP, Synology, Nextcloud и WD My Cloud Home." icon="desktop-computer" >}}
+  {{< ls-feature-card title="Облачная трансляция" subtitle="Транслируйте напрямую из iCloud Drive, Google Drive, Dropbox, OneDrive, Box, MEGA и pCloud, а также из ориентированных на приватность облаков Internxt и Proton Drive." icon="cloud" >}}
+  {{< ls-feature-card title="Медиасерверы" subtitle="Подключайте персональные медиасерверы, включая Plex, Subsonic, Navidrome, Jellyfin и Emby, чтобы открывать и транслировать всю вашу музыкальную библиотеку." icon="server" >}}
+  {{< ls-feature-card title="Компьютер и NAS" subtitle="Подключайте компьютер или NAS через SMB, WebDAV, DLNA, FTP, SFTP или NFS с нативной поддержкой QNAP, Synology, Nextcloud и WD My Cloud Home." icon="desktop-computer" >}}
 
-  {{< feature-card title="USB-накопители" subtitle="Воспроизводите музыку прямо с SD-карт и USB-накопителей через внешние ридеры, такие как SanDisk iXpand, без импорта и синхронизации." icon="inbox" >}}
-  {{< feature-card title="AirPlay и Chromecast" subtitle="Отправляйте музыку по беспроводной сети на Apple TV, HomePod, умные колонки и другие устройства благодаря встроенной поддержке AirPlay, AirPlay 2 и Google Chromecast." icon="device-mobile" >}}
-  {{< feature-card title="Apple CarPlay" subtitle="Управляйте музыкой безопасно за рулём с помощью простого специального экрана Apple CarPlay для выбора треков из облачных, локальных и офлайн-источников." icon="map" >}}
+  {{< ls-feature-card title="USB-накопители" subtitle="Воспроизводите музыку прямо с SD-карт и USB-накопителей через внешние ридеры, такие как SanDisk iXpand, без импорта и синхронизации." icon="inbox" >}}
+  {{< ls-feature-card title="AirPlay и Chromecast" subtitle="Отправляйте музыку по беспроводной сети на Apple TV, HomePod, умные колонки и другие устройства благодаря встроенной поддержке AirPlay, AirPlay 2 и Google Chromecast." icon="device-mobile" >}}
+  {{< ls-feature-card title="Apple CarPlay" subtitle="Управляйте музыкой безопасно за рулём с помощью простого специального экрана Apple CarPlay для выбора треков из облачных, локальных и офлайн-источников." icon="map" >}}
 
-  {{< feature-card title="Прослушивание офлайн" subtitle="Скачивайте песни, альбомы и целых исполнителей для прослушивания без интернета или включите аудиокэш для автоматического сохранения недавно воспроизведённых треков." icon="download" >}}
-  {{< feature-card title="Автоматическая синхронизация" subtitle="Автоматически поддерживайте библиотеку в синхронизации между облачным хранилищем и локальными папками, чтобы новые файлы появлялись без ручной работы." icon="refresh" >}}
-  {{< feature-card title="Медиатека" subtitle="Добавляйте музыку и организуйте её автоматически по альбому, исполнителю, исполнителю альбома, жанру и композитору с помощью тегов из ваших файлов." icon="library" >}}
+  {{< ls-feature-card title="Прослушивание офлайн" subtitle="Скачивайте песни, альбомы и целых исполнителей для прослушивания без интернета или включите аудиокэш для автоматического сохранения недавно воспроизведённых треков." icon="download" >}}
+  {{< ls-feature-card title="Автоматическая синхронизация" subtitle="Автоматически поддерживайте библиотеку в синхронизации между облачным хранилищем и локальными папками, чтобы новые файлы появлялись без ручной работы." icon="refresh" >}}
+  {{< ls-feature-card title="Медиатека" subtitle="Добавляйте музыку и организуйте её автоматически по альбому, исполнителю, исполнителю альбома, жанру и композитору с помощью тегов из ваших файлов." icon="library" >}}
 
-  {{< feature-card title="Пользовательские плейлисты" subtitle="Создавайте, редактируйте и переупорядочивайте собственные плейлисты, делайте их доступными офлайн, а также импортируйте или экспортируйте в форматах M3U, M3U8 и CUE." icon="collection" >}}
-  {{< feature-card title="Файловый менеджер" subtitle="Управляйте музыкой с помощью встроенного файлового менеджера, выполняя повседневные операции копирования, перемещения, переименования и удаления для поддержания порядка." icon="folder" >}}
-  {{< feature-card title="Редактор тегов ID3" subtitle="Исправляйте неверные или отсутствующие метаданные с помощью встроенного редактора тегов ID3, обновляя название, исполнителя, альбом, жанр и другое за несколько касаний." icon="pencil-alt" >}}
+  {{< ls-feature-card title="Пользовательские плейлисты" subtitle="Создавайте, редактируйте и переупорядочивайте собственные плейлисты, делайте их доступными офлайн, а также импортируйте или экспортируйте в форматах M3U, M3U8 и CUE." icon="collection" >}}
+  {{< ls-feature-card title="Файловый менеджер" subtitle="Управляйте музыкой с помощью встроенного файлового менеджера, выполняя повседневные операции копирования, перемещения, переименования и удаления для поддержания порядка." icon="folder" >}}
+  {{< ls-feature-card title="Редактор тегов ID3" subtitle="Исправляйте неверные или отсутствующие метаданные с помощью встроенного редактора тегов ID3, обновляя название, исполнителя, альбом, жанр и другое за несколько касаний." icon="pencil-alt" >}}
 
-  {{< feature-card title="Расширенный поиск" subtitle="Быстро находите любую песню, исполнителя или альбом во всей коллекции с умным и быстрым поиском, созданным для очень больших музыкальных библиотек." icon="search" >}}
-  {{< feature-card title="Быстрый доступ" subtitle="Мгновенно возвращайтесь к главному с разделами «Недавно воспроизведённые», «Избранное» и «Закладки», держа любимые треки всегда в одном касании." icon="clock" >}}
-  {{< feature-card title="Тексты и комментарии" subtitle="Просматривайте синхронизированные тексты и заметки к песням прямо в каждом треке во время воспроизведения и добавьте виджет «Тексты песен» на главный экран для быстрого доступа." icon="annotation" >}}
+  {{< ls-feature-card title="Расширенный поиск" subtitle="Быстро находите любую песню, исполнителя или альбом во всей коллекции с умным и быстрым поиском, созданным для очень больших музыкальных библиотек." icon="search" >}}
+  {{< ls-feature-card title="Быстрый доступ" subtitle="Мгновенно возвращайтесь к главному с разделами «Недавно воспроизведённые», «Избранное» и «Закладки», держа любимые треки всегда в одном касании." icon="clock" >}}
+  {{< ls-feature-card title="Тексты и комментарии" subtitle="Просматривайте синхронизированные тексты и заметки к песням прямо в каждом треке во время воспроизведения и добавьте виджет «Тексты песен» на главный экран для быстрого доступа." icon="annotation" >}}
 
-  {{< feature-card title="Виджеты" subtitle="Добавляйте виджеты на главный экран, которые показывают очередь воспроизведения и позволяют вернуться к ней, продолжив ровно с того места, где вы остановились." icon="view-grid" >}}
-  {{< feature-card title="Поддержка аудиокниг" subtitle="Слушайте аудиокниги с закладками, таймером сна, регулируемой скоростью и возобновлением воспроизведения ровно с того места, где вы остановились." icon="book-open" >}}
-  {{< feature-card title="Интеграция с Last.fm" subtitle="Подключите аккаунт Last.fm, чтобы скробблить треки, следить за статистикой прослушивания и со временем получать персонализированные музыкальные рекомендации." icon="chart-bar" >}}
+  {{< ls-feature-card title="Виджеты" subtitle="Добавляйте виджеты на главный экран, которые показывают очередь воспроизведения и позволяют вернуться к ней, продолжив ровно с того места, где вы остановились." icon="view-grid" >}}
+  {{< ls-feature-card title="Поддержка аудиокниг" subtitle="Слушайте аудиокниги с закладками, таймером сна, регулируемой скоростью и возобновлением воспроизведения ровно с того места, где вы остановились." icon="book-open" >}}
+  {{< ls-feature-card title="Интеграция с Last.fm" subtitle="Подключите аккаунт Last.fm, чтобы скробблить треки, следить за статистикой прослушивания и со временем получать персонализированные музыкальные рекомендации." icon="chart-bar" >}}
 
 {{< /cards >}}
 
@@ -154,9 +154,9 @@ Flacbox также воспроизводит MP3, AAC, OGG, APE, MOD, MKA и п
 
 <div class="hx:mt-6"></div>
 
-{{< hextra/section-headline >}}
+{{< ls-section-headline >}}
 Интуитивный дизайн
-{{< /hextra/section-headline >}}
+{{< /ls-section-headline >}}
 
 <div class="hx:mt-6"></div>
 
@@ -164,7 +164,7 @@ Flacbox также воспроизводит MP3, AAC, OGG, APE, MOD, MKA и п
 
 {{< cards cols="4">}}
 
-  {{< design-feature-card 
+  {{< ls-design-feature-card 
     image="/products/flacbox/screenshots/2048x2732/1.png" 
     title="Аудиоплеер" 
     method="Fill"
@@ -173,7 +173,7 @@ Flacbox также воспроизводит MP3, AAC, OGG, APE, MOD, MKA и п
     icon="play"
   >}}
 
-  {{< design-feature-card 
+  {{< ls-design-feature-card 
     image="/products/flacbox/screenshots/2048x2732/2.png"  
     title="Аудио эквалайзер" 
     method="Fill"
@@ -182,7 +182,7 @@ Flacbox также воспроизводит MP3, AAC, OGG, APE, MOD, MKA и п
     icon="adjustments"
   >}}
 
-  {{< design-feature-card 
+  {{< ls-design-feature-card 
     image="/products/flacbox/screenshots/2048x2732/3.png"  
     title="Менеджер плейлистов" 
     method="Fill"
@@ -191,7 +191,7 @@ Flacbox также воспроизводит MP3, AAC, OGG, APE, MOD, MKA и п
     icon="collection"
   >}}
 
-  {{< design-feature-card 
+  {{< ls-design-feature-card 
     image="/products/flacbox/screenshots/2048x2732/5.png"  
     title="Медиатека" 
     method="Fill"
@@ -200,7 +200,7 @@ Flacbox также воспроизводит MP3, AAC, OGG, APE, MOD, MKA и п
     icon="library"
   >}}
 
-  {{< design-feature-card 
+  {{< ls-design-feature-card 
     image="/products/flacbox/screenshots/2048x2732/7.png"  
     title="Облачное хранилище" 
     method="Fill"
@@ -209,7 +209,7 @@ Flacbox также воспроизводит MP3, AAC, OGG, APE, MOD, MKA и п
     icon="cloud"
   >}}
 
-  {{< design-feature-card 
+  {{< ls-design-feature-card 
     image="/products/flacbox/screenshots/2048x2732/8.png"  
     title="iCloud Drive" 
     method="Fill"
@@ -227,48 +227,48 @@ Flacbox также воспроизводит MP3, AAC, OGG, APE, MOD, MKA и п
 <div class="hx:mt-6"></div>
 
 <div class="hx:w-full">
-{{< appstore-reviews apps="1097564256,1594027432" stars="5,4"  app="Flacbox" >}}
+{{< ls-appstore-reviews apps="1097564256,1594027432" stars="5,4"  app="Flacbox" >}}
 </div>
 
 <div class="hx:mt-6"></div>
 
-{{< hextra/section-headline >}}
+{{< ls-section-headline >}}
    Тарифные планы
-{{< /hextra/section-headline >}}
+{{< /ls-section-headline >}}
 
 <div class="hx:mt-6"></div>
 
 <div class="hx:w-full">
 
-{{< pricing-plans >}}
+{{< ls-pricing-plans >}}
 
 </div>
 
 <div class="hx:mt-6"></div>
 
 <div class="hx:w-full hx:mx-auto hx:flex hx:flex-col hx:items-center">
-  {{< hextra/info-paragraph border="true" >}}
+  {{< ls-info-paragraph border="true" >}}
    <strong>Семейный доступ</strong>: Все покупки и подписки поддерживают Семейный доступ, позволяя вам делиться Premium-доступом с вашей семьёй.<br><strong>Универсальный доступ</strong>: Пожизненные и подписочные планы доступны на устройствах iOS и Mac через синхронизацию iCloud.<br><strong>Цены</strong>: Цены указаны в долларах США для Соединённых Штатов. Итоговая цена может варьироваться в зависимости от вашего региона.  
-  {{< /hextra/info-paragraph >}}
+  {{< /ls-info-paragraph >}}
 </div>
 
 <div class="hx:mt-6"></div>
 
 <div class="hx:w-full">
-{{< app-details heading="true" >}}
+{{< ls-app-details heading="true" >}}
 </div>
 
 <div class="hx:mt-6"></div>
 
-{{< hextra/section-headline >}}
+{{< ls-section-headline >}}
    Часто задаваемые вопросы
-{{< /hextra/section-headline >}}
+{{< /ls-section-headline >}}
 
 <div class="hx:mt-6"></div>
 
 <div class="hx:w-full">
 
-{{% details title="Как работает Flacbox?" closed="true" %}}
+{{% ls-details title="Как работает Flacbox?" closed="true" %}}
 Flacbox — это hi-res музыкальный плеер, который позволяет управлять аудиотреками как обычными файлами.<br>
 Вы можете загрузить всю свою музыкальную коллекцию в облачные сервисы, такие как Dropbox, Google Drive или личный NAS, и воспроизводить музыку прямо из облака с полным контролем.<br><br>
 Синхронизация с iTunes не нужна — просто загрузите с ПК или Mac, как любой файл.<br>
@@ -282,9 +282,9 @@ Flacbox — это hi-res музыкальный плеер, который по
 - [Как передать файлы по беспроводной сети с компьютера на iPhone через WiFi-Drive.](/docs/howto/how-to-transfer-files-wirelessly-from-a-computer-to-an-iphone-using-wifi-drive)<br>
 - [Как подключить USB-накопитель к iPhone и слушать музыку или управлять файлами.](/docs/howto/how-to-connect-a-usb-flashcard-to-the-iphone-and-listen-to-music-or-manage-files-located-on-it)<br>
 - [Как воспроизводить музыку на iPhone с WD My Cloud Home.](/docs/howto/how-to-play-music-on-iphone-from-wd-my-cloud-home)
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Flacbox бесплатный?" closed="true" %}}
+{{% ls-details title="Flacbox бесплатный?" closed="true" %}}
 Flacbox бесплатен с некоторыми ограничениями, которые можно снять, обновившись до Premium-версии.<br>
 Вы можете выбрать между одноразовой пожизненной покупкой или двумя вариантами подписки (ежемесячная или годовая). Цены могут варьироваться в зависимости от вашего региона.<br><br>
 
@@ -293,9 +293,9 @@ Flacbox бесплатен с некоторыми ограничениями, �
 Покупки и подписки Premium доступны на iOS и Mac через iCloud. Чтобы синхронизировать покупку, убедитесь, что iCloud включён, откройте приложение на устройстве iOS и подождите минуту для завершения синхронизации.<br><br>
 
 [Подробнее о различиях между Flacbox и Flacbox Premium](/docs/faq/flacbox/what-is-the-difference-between-flacbox-and-flacbox-premium/)
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="В чём разница между Flacbox и Evermusic?" closed="true" %}}
+{{% ls-details title="В чём разница между Flacbox и Evermusic?" closed="true" %}}
 **Flacbox** создан для поддержки всех стандартных аудиоформатов iOS, а также множества дополнительных форматов, не поддерживаемых iPhone нативно, таких как WMA, OGG, M4A, DSD и другие.<br>
 Он использует собственный аудиодвижок для работы практически со всеми форматами и предлагает функции, такие как настраиваемая частота дискретизации выхода и коррекция тона.<br><br>
 
@@ -305,9 +305,9 @@ Flacbox бесплатен с некоторыми ограничениями, �
 Если вам нужна широкая совместимость с различными типами аудиофайлов, **Flacbox** — правильный выбор.<br><br>
 
 [Узнайте больше о различиях между Flacbox и Evermusic](/docs/faq/evermusic/what-is-the-difference-between-evermusic-and-flacbox/)
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Как синхронизировать Flacbox?" closed="true" %}}
+{{% ls-details title="Как синхронизировать Flacbox?" closed="true" %}}
 
 **Синхронизация метаданных**  
 Когда вы добавляете треки в библиотеку, фоновый считыватель метаданных сканирует ваши файлы и организует их по Исполнителю, Альбому, Жанру и Композитору.<br>
@@ -344,9 +344,9 @@ Flacbox бесплатен с некоторыми ограничениями, �
 
 [Подробнее](/docs/guide/flacbox/flacbox-guide-music-library)
 
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Как пользоваться Flacbox?" closed="true" %}}
+{{% ls-details title="Как пользоваться Flacbox?" closed="true" %}}
 
 **Установите Flacbox**<br>
 Скачайте и установите приложение Flacbox из магазина приложений вашего устройства. Оно доступно для устройств iOS и Mac.<br><br>
@@ -406,9 +406,9 @@ Flacbox бесплатен с некоторыми ограничениями, �
 • [Подключить USB-накопитель](/docs/howto/how-to-connect-a-usb-flashcard-to-the-iphone-and-listen-to-music-or-manage-files-located-on-it)<br>
 • [Беспроводная передача WiFi-Drive](/docs/howto/how-to-transfer-files-wirelessly-from-a-computer-to-an-iphone-using-wifi-drive)
 
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Безопасен ли Flacbox?" closed="true" %}}
+{{% ls-details title="Безопасен ли Flacbox?" closed="true" %}}
 Flacbox использует только официальный SDK и безопасные соединения для взаимодействия с подключёнными облачными сервисами. Ваш логин и пароль недоступны для приложения. Все запросы от приложения к облачному сервису зашифрованы.<br>
 Когда вы вводите логин и пароль, приложение показывает вам официальную страницу авторизации, предоставленную провайдером облачного сервиса, и весь процесс авторизации происходит за пределами приложения. Провайдер облачного сервиса отправляет auth-токен приложению после успешной авторизации, и этот токен используется для выполнения API-запросов.<br><br>
 
@@ -420,24 +420,24 @@ Auth-токен — это цифровой ключ, который позво�
 Вы также можете отключить подключённые облачные аккаунты в приложении, и auth-токен также будет удалён с вашего устройства. Если вы удалите приложение с устройства, все загруженные данные и токены доступа также будут удалены.<br><br>
 
 [Подробнее](/docs/guide/flacbox/flacbox-guide-connections)
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Как создать плейлист в Flacbox?" closed="true" %}}
+{{% ls-details title="Как создать плейлист в Flacbox?" closed="true" %}}
 - Откройте раздел Плейлисты.<br>
 - Нажмите кнопку «+» или кнопку «...» в правом верхнем углу и выберите «Новый плейлист».<br>
 - Введите имя для плейлиста и нажмите «Сохранить». Появится диалог «Добавить песни».<br>
 - Выберите треки, которые хотите добавить в плейлист.<br><br>
 
 [Подробнее](/docs/guide/flacbox/flacbox-guide-playlists)
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Какие облачные сервисы поддерживает Flacbox?" closed="true" %}}
+{{% ls-details title="Какие облачные сервисы поддерживает Flacbox?" closed="true" %}}
 В настоящее время приложение поддерживает самые популярные облачные сервисы: iCloud Drive, Google Drive, Dropbox, OneDrive, Box, MEGA, Yandex.Disk, WD MyCloud Home, DLNA, MediaFire, WebDAV, SMB, pCloud, HiDrive, My Cloud Home, InfiniCLOUD, Cloud Mail.ru, Put.io, MyDrive.<br><br>
 
 [Подробнее](/docs/guide/flacbox/flacbox-guide-connections)
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Как использовать эквалайзер?" closed="true" %}}
+{{% ls-details title="Как использовать эквалайзер?" closed="true" %}}
 - Откройте экран аудиоплеера.<br>
 - Нажмите на значок «Эквалайзер» внизу экрана.<br>
 - Включите переключатель в правом верхнем углу экрана эквалайзера для его активации.<br>
@@ -445,9 +445,9 @@ Auth-токен — это цифровой ключ, который позво�
 
 Полное руководство доступно здесь:<br>
 [Как использовать аудио эквалайзер на iPhone, iPad, Mac с Evermusic и Flacbox](/docs/howto/how-to-use-the-audio-equalizer-on-your-iphone-ipad-mac-with-evermusic-and-flacbox)
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Как включить офлайн-режим в Flacbox?" closed="true" %}}
+{{% ls-details title="Как включить офлайн-режим в Flacbox?" closed="true" %}}
 - Подключите облачный сервис:<br>
  • Перейдите на вкладку «Подключения».<br>
  • Выберите «Подключить облачный сервис» и следуйте инструкциям для подключения нужного сервиса.<br><br>
@@ -473,9 +473,9 @@ Auth-токен — это цифровой ключ, который позво�
  • Нажмите «Дополнительные действия» и выберите «Начать синхронизацию».<br><br>
 
 [Подробнее](/docs/howto/play-offline-music-in-evermusic-flacbox-download-sync-from-cloud-to-local-files/)
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Как воспроизводить локально загруженную музыку на iPhone?" closed="true" %}}
+{{% ls-details title="Как воспроизводить локально загруженную музыку на iPhone?" closed="true" %}}
 После установки приложения откройте экран «Локальные файлы» и прокрутите до раздела «Файлы на этом iPhone». Оттуда выберите «Открыть файлы...», если нужно выбрать несколько аудиофайлов, или «Открыть папку...», если хотите выбрать папку с музыкой. Приложение просканирует содержимое папки, и все найденные аудиофайлы будут выбраны. Перейдите к папке с музыкой, нажмите «Открыть» для подтверждения, и файлы будут добавлены в очередь воспроизведения. Эти файлы будут воспроизводиться прямо из выбранного расположения без копирования в пакет приложения.<br><br>
 
 **Добавление папки в избранное для быстрого доступа**<br>
@@ -490,13 +490,13 @@ Auth-токен — это цифровой ключ, который позво�
 С помощью этих простых шагов вы можете раскрыть весь потенциал вашего iPhone и Mac как идеальных платформ для наслаждения вашей локальной музыкальной коллекцией.<br><br>
 
 [Подробнее](/docs/howto/how-to-play-local-music-stored-on-your-iphone-or-mac)
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Как возобновить плейлист с того места, где я остановился?" closed="true" %}}
+{{% ls-details title="Как возобновить плейлист с того места, где я остановился?" closed="true" %}}
 Сначала убедитесь, что в Настройки > Аудиоплеер > Общие включена опция «Сохранять состояние аудиоплеера». Когда вы переключитесь на другой плейлист и вернётесь, вы увидите четыре действия на верхней панели инструментов под обложкой альбома: «Поиск», «Продолжить воспроизведение», «Воспроизвести всё» и «Перемешать всё». Нажмите «Продолжить воспроизведение», чтобы возобновить плейлист с последнего сохранённого состояния и позиции медиа.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Как просматривать тексты песен в Flacbox?" closed="true" %}}
+{{% ls-details title="Как просматривать тексты песен в Flacbox?" closed="true" %}}
 Вы можете просматривать встроенные тексты песен в приложении, **выполнив следующие шаги**:<br>
 1. Начните воспроизведение аудиофайла, нажав на него.<br>
 2. Откройте полноэкранный аудиоплеер.<br>
@@ -510,9 +510,9 @@ Auth-токен — это цифровой ключ, который позво�
 3. Режим файла LRC: Вместо редактирования аудиофайлов вы можете поместить файл LRC в ту же папку, что и оригинальный аудиофайл. Оба файла должны иметь одинаковое имя, но разные расширения. При прокрутке до третьей страницы на экране комментариев приложение найдёт файл LRC в той же директории и отобразит его содержимое.<br><br>
 
 [Подробнее](/docs/howto/how-to-add-and-view-comments-to-your-audio-tracks-on-iphone-ipad-and-mac-with-evermusic-and-flacbox)
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Как перенести музыку в Flacbox с моего компьютера?" closed="true" %}}
+{{% ls-details title="Как перенести музыку в Flacbox с моего компьютера?" closed="true" %}}
 Вы можете подключить компьютер или персональный NAS через протоколы SMB, WebDAV или DLNA. Также можно использовать iTunes File Sharing для переноса музыки.<br><br>
 
 Чтобы подключить компьютер по протоколу SMB, нажмите «Подключить облачный сервис» → SMB. Введите IP-адрес компьютера и имя общей папки в поле URL в формате smb://ip-адрес-компьютера/имя-общей-папки, введите логин и пароль и нажмите «Готово». При успешном подключении вы увидите подключённое хранилище в разделе «Облачные сервисы».<br><br>
@@ -533,9 +533,9 @@ iTunes File Sharing — ещё одна технология для перено
 
 DLNA Вы также можете настроить DLNA-медиасервер и транслировать музыку с ПК с Windows, как описано здесь:<br>
 [Как включить DLNA-медиасервер в Windows 10 и воспроизводить музыку на iPhone](/docs/howto/how-to-enable-dlna-media-server-on-windows-10-and-play-your-music-on-iphone)
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Как скачать музыку?" closed="true" %}}
+{{% ls-details title="Как скачать музыку?" closed="true" %}}
 Прежде чем скачивать музыку и слушать офлайн, необходимо подключить сетевой аккаунт.<br>
 Просто откройте экран «Подключения» и добавьте аккаунт.<br>
 После добавления сетевого аккаунта вы можете скачивать музыку из облака.<br><br>
@@ -556,14 +556,14 @@ DLNA Вы также можете настроить DLNA-медиасервер
 
 Ещё один вариант — скачать музыку из облачных сервисов и импортировать в Evermusic, как описано здесь:<br>
 [Как скачать музыку с YouTube и слушать офлайн на iPhone](/docs/howto/how-to-download-music-from-youtube-and-listen-to-offline-music-on-iphone)
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Какие аудиоформаты поддерживает Flacbox?" closed="true" %}}
+{{% ls-details title="Какие аудиоформаты поддерживает Flacbox?" closed="true" %}}
 Приложение поддерживает стандартные **системные аудиокодеки** и дополнительные **программные кодеки ffmpeg**:<br><br>
 3g2, 3gp, 3gp2, 3gpp, 8svx, aa, aac, aax, ac3, act, adt, adts, aif, aifc, aiff, alac, amr, amv, ape, asf, au, avi, awb, caf, cavs, cdda, cue, dct, dff, drc, dsf, dss, dvf, "dvr-ms", ec3, f4a, f4b, f4p, f4v, flac, flv, gif, gifv, gsm, gxf, h261, h263, h264, ifv, iklax, ivf, ivs, l16, latm, loas, m2t, m2ts, m2v, m3u, m3u8, m4a, m4b, m4p, m4r, m4v, mka, mkv, mmf, mng, mod, mogg, mov, mp1, mp2, mp3, mp4, mp4v, mpa, mpc, mpe, mpeg, mpg, mpv, msv, mts, mxf, nsf, nsv, nut, oga, ogg, ogv, opus, pcm, pls, qt, ra, raw, rm, rmvb, roq, rv, sln, snd, svi, tod, tta, vob, voc, vox, vtt, w64, wav, wave, webm, wma, wmv, wv, xhe, xmv, y4m, yuv.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Можно ли использовать Flacbox для прослушивания аудиокниг?" closed="true" %}}
+{{% ls-details title="Можно ли использовать Flacbox для прослушивания аудиокниг?" closed="true" %}}
 
 Да, Flacbox можно использовать как мощный плеер для аудиокниг.<br><br>
 
@@ -586,9 +586,9 @@ Flacbox предоставляет полноценное решение для 
 
 [Подробнее](/docs/howto/how-to-listen-to-audiobooks-on-iphone-ipad-mac-using-evermusic)
 
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Работает ли Flacbox с NAS-устройствами?" closed="true" %}}
+{{% ls-details title="Работает ли Flacbox с NAS-устройствами?" closed="true" %}}
 
 Да, Flacbox поддерживает подключение к NAS по протоколам **SMB**, **WebDAV** и **DLNA**.<br><br>
 
@@ -619,9 +619,9 @@ Flacbox предоставляет полноценное решение для 
 • [Подключение хранилища Bluesound Vault](/docs/howto/how-to-connect-bluesound-vault-s-internal-storage-from-the-evermusic-flacbox-evertag)<br>
 • [Подключение NAS-хранилища через WebDAV](/docs/howto/how-to-connect-nas-storage-using-webdav-and-listen-to-music-on-your-iphone-or-mac)
 
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Как импортировать музыку в Flacbox?" closed="true" %}}
+{{% ls-details title="Как импортировать музыку в Flacbox?" closed="true" %}}
 
 **Подключите облачный сервис**<br>
 • Откройте вкладку **Подключения**.<br>
@@ -667,9 +667,9 @@ Flacbox предоставляет полноценное решение для 
 • [Беспроводная передача через WiFi-Drive](/docs/howto/how-to-transfer-files-wirelessly-from-a-computer-to-an-iphone-using-wifi-drive)<br>
 • [Передача файлов по протоколу SMB](/docs/howto/transfer-your-files-from-the-computer-to-iphone-using-smb-protocol/)
 
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Как использовать функцию Wi-Fi Drive в Flacbox?" closed="true" %}}
+{{% ls-details title="Как использовать функцию Wi-Fi Drive в Flacbox?" closed="true" %}}
 
 **Беспроводная передача через настольный браузер**<br>
 1. Запустите приложение: Откройте Flacbox.<br>
@@ -694,9 +694,9 @@ Flacbox предоставляет полноценное решение для 
 
 [Подробнее](/docs/howto/how-to-transfer-files-wirelessly-from-a-computer-to-an-iphone-using-wifi-drive)
 
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Поддерживает ли Flacbox Apple CarPlay?" closed="true" %}}
+{{% ls-details title="Поддерживает ли Flacbox Apple CarPlay?" closed="true" %}}
 Да, **Flacbox полностью поддерживает Apple CarPlay**. Вы можете просматривать музыкальную библиотеку, воспроизводить локальные или офлайн-файлы, подключаться к облачному хранилищу и управлять воспроизведением прямо с экрана информационно-развлекательной системы автомобиля.
 
 Интерфейс CarPlay включает вкладки для **Библиотеки**, **Подключений**, **Локальных файлов** и **Настроек**, предоставляя полный контроль над музыкой в дороге. Управление воспроизведением, перемешивание, повтор и управление очередью также доступны.
@@ -704,42 +704,42 @@ Flacbox предоставляет полноценное решение для 
 Для использования CarPlay убедитесь, что Siri включена и iPhone подключён через USB или беспроводно.
 
 [Прочитать полное руководство](/docs/howto/how-to-play-your-own-music-on-iphone-using-carplay/)
-{{% /details %}}
+{{% /ls-details %}}
 
 </div>
 
 
 <div class="hx:mt-6"></div>
 
-{{< hextra/section-headline >}}
+{{< ls-section-headline >}}
   Руководство пользователя
-{{< /hextra/section-headline >}}
+{{< /ls-section-headline >}}
 
 <div class="hx:mt-6"></div>
 
 <div class="hx:w-full">
 
 <div class="hx:w-full hx:mx-auto hx:flex hx:flex-col hx:items-center hx:text-center">
-  {{< hextra/info-paragraph border="false" >}}
+  {{< ls-info-paragraph border="false" >}}
   Это руководство поможет вам получить максимум от Flacbox на iPhone, iPad или Mac. Узнайте, как транслировать музыку высокого разрешения из облака, организовать библиотеку, управлять аудиокнигами и переносить музыку между устройствами.
-  {{< /hextra/info-paragraph >}}
+  {{< /ls-info-paragraph >}}
 </div>
 
 {{< cards >}}
 
-{{< feature-card icon="map" link="/docs/guide/flacbox/flacbox-guide-navigation" title="Навигация" subtitle="Используйте панель вкладок на iPhone или левое меню на iPad и Mac." >}}
+{{< ls-feature-card icon="map" link="/docs/guide/flacbox/flacbox-guide-navigation" title="Навигация" subtitle="Используйте панель вкладок на iPhone или левое меню на iPad и Mac." >}}
 
-{{< feature-card icon="cloud" link="/docs/guide/flacbox/flacbox-guide-connections" title="Подключения" subtitle="Подключите Dropbox, Google Drive, iCloud или ваш NAS." >}}
+{{< ls-feature-card icon="cloud" link="/docs/guide/flacbox/flacbox-guide-connections" title="Подключения" subtitle="Подключите Dropbox, Google Drive, iCloud или ваш NAS." >}}
 
-{{< feature-card icon="collection" link="/docs/guide/flacbox/flacbox-guide-music-library" title="Музыкальная библиотека" subtitle="Управляйте и ищите треки по исполнителю, альбому или жанру." >}}
+{{< ls-feature-card icon="collection" link="/docs/guide/flacbox/flacbox-guide-music-library" title="Музыкальная библиотека" subtitle="Управляйте и ищите треки по исполнителю, альбому или жанру." >}}
 
-{{< feature-card icon="music-note" link="/docs/guide/flacbox/flacbox-guide-playlists" title="Плейлисты" subtitle="Создавайте и организуйте плейлисты для любого настроения или случая." >}}
+{{< ls-feature-card icon="music-note" link="/docs/guide/flacbox/flacbox-guide-playlists" title="Плейлисты" subtitle="Создавайте и организуйте плейлисты для любого настроения или случая." >}}
 
-{{< feature-card icon="folder" link="/docs/guide/flacbox/flacbox-guide-local-files" title="Локальные файлы" subtitle="Редактируйте и воспроизводите офлайн-музыку с помощью встроенного файлового менеджера." >}}
+{{< ls-feature-card icon="folder" link="/docs/guide/flacbox/flacbox-guide-local-files" title="Локальные файлы" subtitle="Редактируйте и воспроизводите офлайн-музыку с помощью встроенного файлового менеджера." >}}
 
-{{< feature-card icon="play" link="/docs/guide/flacbox/flacbox-guide-player" title="Аудиоплеер" subtitle="Управляйте воспроизведением, настраивайте скорость, устанавливайте закладки и многое другое." >}}
+{{< ls-feature-card icon="play" link="/docs/guide/flacbox/flacbox-guide-player" title="Аудиоплеер" subtitle="Управляйте воспроизведением, настраивайте скорость, устанавливайте закладки и многое другое." >}}
 
-{{< feature-card icon="adjustments" link="/docs/guide/flacbox/flacbox-guide-settings" title="Настройки" subtitle="Настройте эквалайзер, оформление и поведение приложения." >}}
+{{< ls-feature-card icon="adjustments" link="/docs/guide/flacbox/flacbox-guide-settings" title="Настройки" subtitle="Настройте эквалайзер, оформление и поведение приложения." >}}
 
 {{< /cards >}}
 

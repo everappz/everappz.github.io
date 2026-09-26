@@ -7,7 +7,7 @@ tags: ["evermusic", "tuonti", "soittolistat", "m3u", "cue"]
 readingTime: 3
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **Yhteenveto:** Evermusic ja Flacbox tukevat M3U-, M3U8- ja CUE-soittolistatiedostojen tuontia pilvitallennustilasta, sovelluksen paikallisista tiedostoista tai laitteestasi. Siirry kohtaan Soittolistat > Lisää > Tuo soittolista, valitse lähde, valitse tiedostosi, ja sovellus luo soittolistan automaattisesti.
@@ -84,22 +84,22 @@ Lisäksi voit tuoda useita soittolistoja kerralla napauttamalla "Lisää toimint
 
 ## Usein kysytyt kysymykset
 
-{{% details title="Mitä soittolistamuotoja Evermusic ja Flacbox tukevat?" closed="true" %}}
+{{% ls-details title="Mitä soittolistamuotoja Evermusic ja Flacbox tukevat?" closed="true" %}}
 Molemmat sovellukset tukevat M3U-, M3U8- ja CUE-soittolistatiedostomuotoja. Nämä kattavat yleisimmät soittolistastandardit, joita musiikkisoittimet ja mediaohjelmistot käyttävät.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Voinko tuoda soittolistoja pilvitallennustilasta?" closed="true" %}}
+{{% ls-details title="Voinko tuoda soittolistoja pilvitallennustilasta?" closed="true" %}}
 Kyllä. Voit tuoda soittolistatiedostoja mistä tahansa yhdistetystä pilvitallennuspalvelusta, mukaan lukien Google Drive, Dropbox, OneDrive ja WebDAV-palvelimet.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Miksi jotkut kappaleet puuttuvat tuonnin jälkeen?" closed="true" %}}
+{{% ls-details title="Miksi jotkut kappaleet puuttuvat tuonnin jälkeen?" closed="true" %}}
 Soittolistatiedoston on sisällettävä oikeat polut mediatiedostoihisi, ja näiden tiedostojen on oltava olemassa määritetyissä sijainneissa tallennustilassasi. Tarkista, että M3U- tai CUE-tiedostosi tiedostopolut vastaavat todellisia tiedostosijainteja.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Voinko tuoda useita soittolistoja kerralla?" closed="true" %}}
+{{% ls-details title="Voinko tuoda useita soittolistoja kerralla?" closed="true" %}}
 Kyllä. Käytä Lisää toimintoja -painiketta ja valitse "Tuo soittolistat kansiosta". Sovellus skannaa kansion kaikki tuetut soittolistatiedostot ja tuo ne yhdellä kertaa.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Pitääkö soittolistat luoda manuaalisesti?" closed="true" %}}
+{{% ls-details title="Pitääkö soittolistat luoda manuaalisesti?" closed="true" %}}
 Ei. Tuontitoiminto poistaa manuaalisen soittolistojen luomisen tarpeen. Osoita sovellus vain olemassa olevaan M3U-, M3U8- tai CUE-tiedostoosi, ja se luo soittolistan automaattisesti.
-{{% /details %}}
+{{% /ls-details %}}

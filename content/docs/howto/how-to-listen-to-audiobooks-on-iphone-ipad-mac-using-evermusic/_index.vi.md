@@ -7,7 +7,7 @@ tags: ["sách nói", "phát lại", "ngoại tuyến", "evermusic", "đánh dấ
 readingTime: 5
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **Tóm tắt:** Evermusic hoạt động như một trình phát sách nói đầy đủ tính năng trên iOS và macOS. Chuyển sách nói qua iTunes, WiFi hoặc lưu trữ đám mây, sau đó sử dụng điều khiển tốc độ phát, nút tua, đánh dấu trang âm thanh, tiếp tục phát và tải xuống ngoại tuyến để có trải nghiệm nghe liền mạch.
@@ -151,26 +151,26 @@ Chúc nghe vui!
 
 ## Câu Hỏi Thường Gặp
 
-{{% details title="Evermusic hỗ trợ những định dạng sách nói nào?" closed="true" %}}
+{{% ls-details title="Evermusic hỗ trợ những định dạng sách nói nào?" closed="true" %}}
 Evermusic hỗ trợ MP3, M4A, M4B, FLAC, WAV, AIFF, OGG và các định dạng âm thanh phổ biến khác. Bất kỳ tệp âm thanh nào phát được trong Evermusic đều có thể dùng làm sách nói.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Tôi có thể nghe sách nói từ lưu trữ đám mây không?" closed="true" %}}
+{{% ls-details title="Tôi có thể nghe sách nói từ lưu trữ đám mây không?" closed="true" %}}
 Có. Evermusic kết nối với iCloud Drive, Google Drive, Dropbox, OneDrive, Box và máy chủ WebDAV. Bạn có thể phát trực tuyến sách nói hoặc tải xuống để nghe ngoại tuyến.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Đánh dấu trang của tôi có chuyển sang thiết bị mới không?" closed="true" %}}
+{{% ls-details title="Đánh dấu trang của tôi có chuyển sang thiết bị mới không?" closed="true" %}}
 Có. Evermusic lưu đánh dấu trang âm thanh trong siêu dữ liệu của tệp, vì vậy chúng tự động chuyển khi bạn di chuyển tệp sang thiết bị mới.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Evermusic có nhớ nơi tôi dừng nghe không?" closed="true" %}}
+{{% ls-details title="Evermusic có nhớ nơi tôi dừng nghe không?" closed="true" %}}
 Có. Bật "Lưu Vị Trí Phát" và "Lưu Trạng Thái Trình Phát Âm Thanh" trong Cài đặt > Trình Phát Âm Thanh > Chung chung. Ứng dụng lưu và khôi phục vị trí chính xác giữa các phiên.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Tôi có thể điều chỉnh tốc độ phát sách nói không?" closed="true" %}}
+{{% ls-details title="Tôi có thể điều chỉnh tốc độ phát sách nói không?" closed="true" %}}
 Có. Vào Cài đặt > Trình Phát Âm Thanh > Tốc Độ Phát để đặt tốc độ ưa thích. Bạn có thể tăng hoặc giảm tốc độ đọc để phù hợp với sở thích nghe của mình.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Làm cách nào để chuyển sách nói vào Evermusic?" closed="true" %}}
+{{% ls-details title="Làm cách nào để chuyển sách nói vào Evermusic?" closed="true" %}}
 Bạn có thể chuyển tệp qua chia sẻ tệp iTunes/Finder, WiFi Drive (tích hợp trong ứng dụng) hoặc bằng cách kết nối tài khoản lưu trữ đám mây trong Evermusic.
-{{% /details %}}
+{{% /ls-details %}}

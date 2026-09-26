@@ -19,7 +19,7 @@ A Helyi fájlok szakasz az alkalmazás Dokumentumok mappájában található fá
 Ez a beépített fájlkezelő lehetővé teszi a fájlok szerkesztését (átnevezés, áthelyezés, másolás, feltöltés, törlés), az átvitelek figyelését, és számos módszert kínál hangfájlok importálásához az alkalmazásba — közvetlen letöltések a felhőből, offline módú szinkronizálás, USB flash meghajtók, Wi-Fi Drive és Finder fájlmegosztás.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox Helyi fájlok képernyő" image="/docs/guide/flacbox/img/local-files.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox Helyi fájlok képernyő" image="/docs/guide/flacbox/img/local-files.webp" >}}
 {{< /cards >}}
 
 ## Fájlok letöltése felhőtárhelyről
@@ -102,7 +102,7 @@ Az alkalmazás Dokumentumok könyvtárában és az iCloud Drive-ban tárolt fáj
 Az eszközön, de más alkalmazásokban lévő fájlokat jeleníti meg. Importálhatja ezeket az alkalmazásba a rendszer fájlválasztójával. A fájlválasztó aktiválásához válassza a **Fájlok megnyitása…** lehetőséget a fájlok kiválasztásához, vagy a **Mappák megnyitása…** lehetőséget a mappák kiválasztásához. Részletes utasítások az iPhone-on vagy Macon tárolt helyi zene importálásáról [itt](/docs/howto/how-to-play-local-music-stored-on-your-iphone-or-mac) érhetők el.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox Csatlakoztatott eszköz mappái" image="/docs/guide/flacbox/img/connected-device-folders.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox Csatlakoztatott eszköz mappái" image="/docs/guide/flacbox/img/connected-device-folders.webp" >}}
 {{< /cards >}}
 
 Az eszközén lévő mappát is csatlakoztathatja és gyorsan hozzáférhet a tartalmához. Használja a **Mappa csatlakoztatása** menüelemet, és válasszon egy mappát az eszközéről. Koppintson a **Kész** gombra, és az alkalmazás létrehoz egy hivatkozást ahhoz a mappához olvasási / írási hozzáféréssel, lehetővé téve a fájlok közvetlen kezelését ebből az alkalmazásból. Az eszközén lévő mappa lecsatlakoztatásához koppintson a **További műveletek** gombra és válassza a **Kibővítés megszüntetése** lehetőséget.
@@ -137,7 +137,7 @@ Ha több fájlt kell szerkesztenie, aktiválja a kiválasztási módot a navigá
 - **Törlés** — eltávolítja a kiválasztott fájlt vagy mappát az eszközről. **Ez a művelet visszafordíthatatlan.**
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox Helyi fájlok kiválasztási mód" image="/docs/guide/flacbox/img/local-files-selection-mode.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox Helyi fájlok kiválasztási mód" image="/docs/guide/flacbox/img/local-files-selection-mode.webp" >}}
 {{< /cards >}}
 
 ## Beállítások menü
@@ -161,7 +161,7 @@ Az alkalmazásban minden fájlhoz vagy mappához számos művelet érhető el a 
 - **Törlés** — a fájl vagy mappa törlése az eszközről. **Ez a művelet visszafordíthatatlan** és a törölt fájlok nem állíthatók vissza.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox További műveletek helyi fájlhoz" image="/docs/guide/flacbox/img/local-files-more-actions-for-file.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox További műveletek helyi fájlhoz" image="/docs/guide/flacbox/img/local-files-more-actions-for-file.webp" >}}
 {{< /cards >}}
 
 ## Offline mappák

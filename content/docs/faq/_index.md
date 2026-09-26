@@ -15,7 +15,7 @@ tags: [
 ---
 
 
-{{< lottie src="/images/juicy-json/juicy-woman-focused-on-online-learning.json" width="85%" >}}
+{{< ls-lottie src="/images/juicy-json/juicy-woman-focused-on-online-learning.json" width="85%" >}}
 
 ## Learn How to Use Our Apps
 
@@ -27,7 +27,7 @@ Explore the FAQ for your app below to get started, or browse common questions an
 
 ## Choose Your App
 
-{{< product-doc-cards section="faq" >}}
+{{< ls-product-doc-cards section="faq" >}}
 
 ## Common Issues and Answers
 
@@ -35,7 +35,7 @@ Explore the FAQ for your app below to get started, or browse common questions an
 
 <div class="hx:w-full">
 
-{{% details title="Why can't I log in to pCloud on an older iOS version (15.8.4)?" closed="true" %}}
+{{% ls-details title="Why can't I log in to pCloud on an older iOS version (15.8.4)?" closed="true" %}}
 pCloud’s web login page may not display correctly on older iOS versions such as 15.8.4, which prevents entering your email and password inside cloud connection screen.<br><br>
 
 As a workaround, you can use the **WebDAV** protocol, which is supported by pCloud and works reliably across all iOS versions.
@@ -49,9 +49,9 @@ As a workaround, you can use the **WebDAV** protocol, which is supported by pClo
 Open App → Connections → Connect to Cloud Storage → Choose **WebDAV** → Enter your credentials and server URL.
 
 This method will let you connect to your pCloud storage and have access to your files without issues on older devices.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="How to play music on AirPlay from Mac (macOS)?" closed="true" %}}
+{{% ls-details title="How to play music on AirPlay from Mac (macOS)?" closed="true" %}}
 The macOS version of the app doesn’t include built-in AirPlay, Chromecast, or Bluetooth connection buttons like on iOS.<br><br>
 
 To use **AirPlay** on your MacBook Pro, follow these steps:
@@ -62,9 +62,9 @@ To use **AirPlay** on your MacBook Pro, follow these steps:
 4. Select the desired device to begin streaming your music.  
 
 This will route all system audio (including from Evermusic or Flacbox) to your chosen AirPlay device.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Why isn’t my Premium purchase activated on Mac if I bought it on iPhone?" closed="true" %}}
+{{% ls-details title="Why isn’t my Premium purchase activated on Mac if I bought it on iPhone?" closed="true" %}}
 Lifetime purchases and subscriptions are synced between iOS and Mac via **iCloud**.<br><br>
 
 To activate Premium on your Mac:<br>
@@ -76,9 +76,9 @@ To activate Premium on your Mac:<br>
 - Alternatively, tap **Restore Purchases** in the app’s settings on both devices<br><br>
 
 Your Premium features should then activate on Mac automatically.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="How can I sync playlists automatically between devices?" closed="true" %}}
+{{% ls-details title="How can I sync playlists automatically between devices?" closed="true" %}}
 There is currently **no automatic sync** for playlists.<br><br>
 
 You can use one of the following options:<br>
@@ -88,9 +88,9 @@ You can use one of the following options:<br>
   - [How To Import Playlists](/docs/howto/how-to-import-m3u-playlist-to-evermusic-and-flacbox/)<br>
 - **Archive playlist or albums** and transfer via ZIP:<br>
   - [Playlist Archive Guide](/docs/howto/how-to-archive-zip-playlists-albums-artists-and-genres-in-evermusic-flacbox-and-transfer-to/)
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Is it safe to use your apps? Can I disable analytics?" closed="true" %}}
+{{% ls-details title="Is it safe to use your apps? Can I disable analytics?" closed="true" %}}
 Yes, your privacy is our top priority.<br><br>
 
 - All data—music files, settings, cloud logins—stay on your device<br>
@@ -104,18 +104,18 @@ More info:<br>
 
 If using personalized ads, Google Mobile Ads requires consent settings to be shown.<br>
 Premium users see no ads and the ad SDK is completely disabled.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Do your apps support Family Sharing?" closed="true" %}}
+{{% ls-details title="Do your apps support Family Sharing?" closed="true" %}}
 Yes, Family Sharing is supported.<br><br>
 
 To share in-app purchases:<br>
 - Make sure the purchase is set to be shared with your family group<br>
 - On the family member’s device, go to **Settings > Purchases > Restore Purchases**<br>
 - This will request purchase data from Apple’s servers and activate it on their device
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="How to speed up metadata and cloud sync?" closed="true" %}}
+{{% ls-details title="How to speed up metadata and cloud sync?" closed="true" %}}
 To improve sync speed, enable background tasks:<br><br>
 
 - **Settings → Music Library → Metadata Reading → Metadata Reading in Background**<br>
@@ -123,14 +123,14 @@ To improve sync speed, enable background tasks:<br><br>
 
 Also, on macOS, increase metadata read speed via **Settings → Music Library**.<br>
 If the player is active (audio playing), iOS won’t suspend the app, enabling continuous sync.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="How can I cancel my subscription?" closed="true" %}}
+{{% ls-details title="How can I cancel my subscription?" closed="true" %}}
 You can cancel your subscription from Apple’s official instructions:<br>
 👉 [How to cancel a subscription](https://support.apple.com/en-us/118428)
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="How can I connect and stream audio from WD MyCloud EX2 Ultra?" closed="true" %}}
+{{% ls-details title="How can I connect and stream audio from WD MyCloud EX2 Ultra?" closed="true" %}}
 
 When you add a connection in the app via **Connections > Connect to Cloud Storage > My Cloud Home**, it’s officially designed to support **WD MyCloud Home** devices.<br>
 WD MyCloud EX2 Ultra uses restricted access for apps.<br><br>
@@ -144,16 +144,16 @@ However, if you’ve successfully connected to a **WD MyCloud EX2 Ultra**, **WD 
 5. You can now stream or download them directly<br><br>
 
 ⚠️ Only folders created via the app will be accessible from the NAS.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="How do I connect to Koofr.eu?" closed="true" %}}
+{{% ls-details title="How do I connect to Koofr.eu?" closed="true" %}}
 You can connect Koofr using **WebDAV**.<br><br>
 
 - Koofr WebDAV setup guide: [koofr.eu blog](https://koofr.eu/blog/posts/3-ways-to-map-koofr-as-a-network-drive-explained)<br>
 - Evermusic/Flacbox WebDAV guide: [How to Connect NAS Storage Using WebDAV and Listen to Music on Your iPhone or Mac](/docs/howto/how-to-connect-nas-storage-using-webdav-and-listen-to-music-on-your-iphone-or-mac/)
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="What are the app URL schemes?" closed="true" %}}
+{{% ls-details title="What are the app URL schemes?" closed="true" %}}
 Here are the supported schemes:<br><br>
 
 **Evermusic**<br>
@@ -172,35 +172,35 @@ Here are the supported schemes:<br><br>
 **Evervideo**<br>
 - iOS: `lsevervideo://`<br>
 - macOS: `lsevervideomac://`
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Music stops playing when app is in background — how to fix?" closed="true" %}}
+{{% ls-details title="Music stops playing when app is in background — how to fix?" closed="true" %}}
 If the app crashes or pauses in background:<br>
 - Go to **Settings > Music Library > Online Music Sync > Background Sync → Disable**<br>
 - **Settings > Music Library > Metadata Reading > Metadata Reading in the Background → Disable**<br>
 - **Settings > File Manager > Background Transfers → Disable**
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Gapless playback not working — how to fix?" closed="true" %}}
+{{% ls-details title="Gapless playback not working — how to fix?" closed="true" %}}
 Gapless playback depends on iOS version and audio engine.<br>
 Try switching the audio engine:<br>
 - Go to **Settings → Audio Player → General → Audio Processor**<br>
 - Select **Core Audio** for better gapless support
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Why does the app only show 100 items in a list?" closed="true" %}}
+{{% ls-details title="Why does the app only show 100 items in a list?" closed="true" %}}
 The app uses pagination for performance.<br>
 To disable it:<br>
 - Go to **Settings → Personalization → Content Loading Limit → Deactivated**<br>
 Now all items will load at once.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Why are there strange characters in metadata?" closed="true" %}}
+{{% ls-details title="Why are there strange characters in metadata?" closed="true" %}}
 Try enabling metadata normalization:<br>
 - **Settings → Music Library → Metadata Reading → Normalize Metadata Encoding**
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Why can’t the app read folder names with special characters?" closed="true" %}}
+{{% ls-details title="Why can’t the app read folder names with special characters?" closed="true" %}}
 This is a known issue with **SMB2 protocol**.<br><br>
 
 Try the following solutions:<br>
@@ -210,9 +210,9 @@ Try the following solutions:<br>
   - Select folders/files using Apple’s native menu<br><br>
 
 Alternatively, connect using **WebDAV** or **DLNA** if your NAS supports them.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="How do I upload and manage music in iCloud?" closed="true" %}}
+{{% ls-details title="How do I upload and manage music in iCloud?" closed="true" %}}
 – **How do I upload music to iCloud?**  <br>
 Go to [https://www.icloud.com](https://www.icloud.com) in your browser, create a folder, and upload your music files directly from your Mac or PC.<br>
 
@@ -225,9 +225,9 @@ You have two options:  <br>
 
 Learn more here: [How to Stream Music from iCloud Drive on My iPhone or Mac](/docs/howto/how-to-listen-to-music-from-icloud-drive-on-your-iphone-or-mac/)
 
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="How can I transfer my 10GB music library from Windows 11 to my iPhone for offline playback?" closed="true" %}}
+{{% ls-details title="How can I transfer my 10GB music library from Windows 11 to my iPhone for offline playback?" closed="true" %}}
 
 You have several reliable options to move your music library from your Windows 11 PC to your iPhone and use it offline in the app. Choose the method that works best for you:
 
@@ -253,6 +253,6 @@ You have several reliable options to move your music library from your Windows 1
 
 ⚠️ When transferring large libraries (10GB+), a wired USB transfer is usually the fastest and most stable option.
 
-{{% /details %}}
+{{% /ls-details %}}
 
 </div>

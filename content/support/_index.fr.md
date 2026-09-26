@@ -3,7 +3,9 @@ date: '2025-06-12T17:00:00+00:00'
 title: 'Assistance'
 ---
 
-{{< lottie src="/images/juicy-json/juicy-girl-is-working-on-laptop-at-a-remote-job.json" width="80%" >}}
+{{< ls-lottie src="/images/juicy-json/juicy-girl-is-working-on-laptop-at-a-remote-job.json" width="80%" >}}
+
+{{< ls-docs-search >}}
 
 ## Besoin d'aide ? Nous sommes là pour vous
 
@@ -19,9 +21,9 @@ En nous contactant, vous confirmez avoir lu et accepté notre [Politique de conf
 Pour gagner du temps et obtenir des réponses instantanées, consultez nos ressources les plus utiles. De nombreuses questions courantes y sont déjà traitées :
 
 {{< cards >}}
-  {{< card icon="book-open" link="/docs/guide" title="Guide de l'utilisateur" >}}
-  {{< card icon="question-mark-circle" link="/docs/faq" title="Questions fréquentes" >}}
-  {{< card icon="light-bulb" link="/docs/howto" title="Comment faire" >}}
+  {{< ls-card icon="book-open" link="/docs/guide" title="Guide de l'utilisateur" >}}
+  {{< ls-card icon="question-mark-circle" link="/docs/faq" title="Questions fréquentes" >}}
+  {{< ls-card icon="light-bulb" link="/docs/howto" title="Comment faire" >}}
 {{< /cards >}}
 
 Ces guides sont conçus pour vous aider à tirer le meilleur parti de nos applications — de la configuration aux fonctionnalités avancées.

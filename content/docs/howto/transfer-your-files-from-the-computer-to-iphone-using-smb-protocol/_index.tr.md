@@ -7,7 +7,7 @@ tags: ["cloud", "streaming", "computer", "mp3", "file", "downloader", "manager",
 keywords: ["iPhone'a dosya aktarma SMB", "PC müziğini iPhone'da yayınlama", "Mac'i iPhone'a bağlama SMB", "Evermusic SMB kurulumu", "bilgisayar dosyalarına iPhone'dan erişim", "Windows müzik paylaşımı iOS", "SMB dosya aktarımı Evermusic"]
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **Özet:** iPhone veya iPad'inizdeki Evermusic'i kullanarak Mac veya Windows PC'nizde depolanan dosyalara SMB üzerinden yerel ağınız aracılığıyla erişin. Kablo yok, iTunes yok, bulut yüklemesi gerekmiyor. Bilgisayarınızda dosya paylaşımını etkinleştirin, uygulamada bağlanın ve dosyalarınızı kablosuz olarak göz atın veya oynatın.
@@ -142,26 +142,26 @@ Bu adımlarla, uygulamalarımızı kullanarak MAC veya PC'nizdeki geniş dosya k
 
 ## Sık Sorulan Sorular
 
-{{% details title="iTunes olmadan iPhone'dan PC'deki dosyalara erişebilir miyim?" closed="true" %}}
+{{% ls-details title="iTunes olmadan iPhone'dan PC'deki dosyalara erişebilir miyim?" closed="true" %}}
 Evet. Evermusic, yerel Wi-Fi ağınızda SMB üzerinden bilgisayarınıza bağlanır. iTunes veya Finder senkronizasyonu gerekmez. PC'nizde dosya paylaşımını etkinleştirin ve doğrudan uygulamadan bağlanın.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="SMB dosya erişimi internet üzerinden çalışır mı?" closed="true" %}}
+{{% ls-details title="SMB dosya erişimi internet üzerinden çalışır mı?" closed="true" %}}
 Hayır. SMB yerel bir ağ protokolüdür. iPhone'unuz ve bilgisayarınız aynı Wi-Fi ağında olmalıdır. Uzaktan erişim için dosyaları Google Drive veya Dropbox gibi bir bulut hizmetine yükleyin ve Evermusic'te bağlanın.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="SMB üzerinden hangi dosya türlerine erişebilirim?" closed="true" %}}
+{{% ls-details title="SMB üzerinden hangi dosya türlerine erişebilirim?" closed="true" %}}
 Evermusic MP3, FLAC, AAC, WAV, AIFF, OGG, WMA, ALAC ve diğer ses formatlarını destekler. Yerleşik dosya yöneticisini kullanarak ses dışı dosyalara da göz atabilir ve yönetebilirsiniz.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="SMB kullanarak NAS'tan iPhone'a dosya aktarabilir miyim?" closed="true" %}}
+{{% ls-details title="SMB kullanarak NAS'tan iPhone'a dosya aktarabilir miyim?" closed="true" %}}
 Evet. Çoğu NAS cihazı (Synology, QNAP, WD My Cloud ve diğerleri) SMB'yi destekler. Bu kılavuzdaki aynı adımları kullanarak NAS'ınıza bağlanın.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Dosyaları çalmak için iPhone'a kopyalamam gerekir mi?" closed="true" %}}
+{{% ls-details title="Dosyaları çalmak için iPhone'a kopyalamam gerekir mi?" closed="true" %}}
 Hayır. Evermusic dosyaları doğrudan bilgisayarınızdan veya NAS'ınızdan ağ üzerinden yayınlar. Çevrimdışı oynatma için indirmeyi seçmediğiniz sürece dosyalar iPhone'unuza kopyalanmaz.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="SMB dosya paylaşımı güvenli mi?" closed="true" %}}
+{{% ls-details title="SMB dosya paylaşımı güvenli mi?" closed="true" %}}
 SMB dosya paylaşımı yalnızca yerel ağınızda çalışır. Farklı ağlardaki diğer cihazlar paylaşılan klasörlerinize erişemez. Ek güvenlik için anonim (Herkes) erişim yerine kullanıcı adı ve şifre kullanın.
-{{% /details %}}
+{{% /ls-details %}}

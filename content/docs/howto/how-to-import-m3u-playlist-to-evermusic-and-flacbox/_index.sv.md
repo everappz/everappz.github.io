@@ -7,7 +7,7 @@ tags: ["evermusic", "importera", "spellistor", "m3u", "cue"]
 readingTime: 3
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **Sammanfattning:** Evermusic och Flacbox stöder import av M3U-, M3U8- och CUE-spellistefiler från molnlagring, lokala appfiler eller din enhet. Gå till Spellistor > Mer > Importera spellista, välj en källa, välj din fil och appen bygger din spellista automatiskt.
@@ -84,22 +84,22 @@ Dessutom kan du importera flera spellistor samtidigt genom att trycka på knappe
 
 ## Vanliga frågor
 
-{{% details title="Vilka spellisteformat stöder Evermusic och Flacbox?" closed="true" %}}
+{{% ls-details title="Vilka spellisteformat stöder Evermusic och Flacbox?" closed="true" %}}
 Båda apparna stöder filformaten M3U, M3U8 och CUE för spellistor. Dessa täcker de vanligaste spellistestandarderna som används av musikspelare och mediaprogramvara.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Kan jag importera spellistor från molnlagring?" closed="true" %}}
+{{% ls-details title="Kan jag importera spellistor från molnlagring?" closed="true" %}}
 Ja. Du kan importera spellistefiler från alla anslutna molnlagringstjänster inklusive Google Drive, Dropbox, OneDrive och WebDAV-servrar.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Varför saknas vissa spår efter import?" closed="true" %}}
+{{% ls-details title="Varför saknas vissa spår efter import?" closed="true" %}}
 Spellistefilen måste innehålla korrekta sökvägar till dina mediefiler och dessa filer måste finnas på de angivna platserna i din lagring. Dubbelkolla att filsökvägarna i din M3U- eller CUE-fil matchar de faktiska filplatserna.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Kan jag importera flera spellistor samtidigt?" closed="true" %}}
+{{% ls-details title="Kan jag importera flera spellistor samtidigt?" closed="true" %}}
 Ja. Använd knappen Fler åtgärder och välj "Importera spellistor från en mapp." Appen skannar mappen efter alla stödda spellistefiler och importerar dem i ett steg.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Måste jag skapa spellistor manuellt?" closed="true" %}}
+{{% ls-details title="Måste jag skapa spellistor manuellt?" closed="true" %}}
 Nej. Importfunktionen eliminerar manuellt skapande av spellistor. Peka bara appen mot din befintliga M3U-, M3U8- eller CUE-fil och den bygger spellistan automatiskt.
-{{% /details %}}
+{{% /ls-details %}}

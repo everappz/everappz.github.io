@@ -12,7 +12,7 @@ authors:
     image: "/images/about/artem-meleshko-founder-everappz.webp"
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 **Sammendrag:** Evermusic har passert 11 millioner nedlastinger verden over. Nøkkelfunksjoner inkluderer en 10-bånds equalizer, avspilling uten nett, iCloud Drive-strømming, støtte for 10+ skytjenester, synkronisering på tvers av enheter og en innebygd ID3-tag-editor.
 
@@ -70,22 +70,22 @@ Evermusic er bygget for alle som lagrer musikk i skyen eller på lokal lagring. 
 
 ## FAQ
 
-{{% details title="Hvilke lydformater støtter Evermusic?" closed="true" %}}
+{{% ls-details title="Hvilke lydformater støtter Evermusic?" closed="true" %}}
 Evermusic spiller MP3, FLAC, WAV, AAC, M4A, AIFF, OGG, WMA og andre populære lydformater.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Kan jeg bruke Evermusic uten internettforbindelse?" closed="true" %}}
+{{% ls-details title="Kan jeg bruke Evermusic uten internettforbindelse?" closed="true" %}}
 Ja. Last ned spor fra skylagringen din for avspilling uten nett. Når de er lastet ned, kreves ingen internettforbindelse.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Fungerer Evermusic på Mac?" closed="true" %}}
+{{% ls-details title="Fungerer Evermusic på Mac?" closed="true" %}}
 Ja. Evermusic er tilgjengelig på både iOS (iPhone/iPad) og macOS, med biblioteksynkronisering på tvers av alle enheter.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Er Evermusic gratis å laste ned?" closed="true" %}}
+{{% ls-details title="Er Evermusic gratis å laste ned?" closed="true" %}}
 Ja. Evermusic er gratis å laste ned med valgfrie premiumfunksjoner tilgjengelige gjennom kjøp i appen.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Hvordan fungerer iCloud Drive-strømming i Evermusic?" closed="true" %}}
+{{% ls-details title="Hvordan fungerer iCloud Drive-strømming i Evermusic?" closed="true" %}}
 Koble til iCloud Drive-kontoen din i appen, bla gjennom musikkfilene dine og trykk for å spille av. Sporene strømmes direkte uten å måtte lastes ned først.
-{{% /details %}}
+{{% /ls-details %}}

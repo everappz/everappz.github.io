@@ -7,7 +7,7 @@ tags: ["spotify", "portada àlbum", "mp3", "metadades", "editor música", "fitxe
 readingTime: 3
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **Resum ràpid:** Spotify no et permet canviar les portades dels àlbums per a pistes en streaming, però pots actualitzar les il·lustracions dels fitxers locals. Activa la funció de Fitxers locals de Spotify, copia la teva música a la carpeta de Spotify i utilitza l'aplicació gratuïta Evertag per editar portades d'àlbums i metadades. Els canvis apareixeran a Spotify després de reiniciar.
@@ -25,8 +25,8 @@ Per facilitar les coses, mostrarem com editar les il·lustracions dels àlbums u
 Comença descarregant l'aplicació **Evertag** des de l'App Store. És gratuïta i està disponible tant per a **iOS** com per a **macOS**.
 
 {{< cards cols="2">}}
-{{< card link="https://apps.apple.com/app/apple-store/id1450763230?pt=95781850&ct=everappzcom&mt=8" title="Evertag per a iOS" icon="download" tag="Free" >}}
-{{< card link="https://apps.apple.com/app/apple-store/id1594027661?pt=95781850&ct=everappzcom&mt=8" title="Evertag per a macOS" icon="download" tag="Free" >}}
+{{< ls-card link="https://apps.apple.com/app/apple-store/id1450763230?pt=95781850&ct=everappzcom&mt=8" title="Evertag per a iOS" icon="download" tag="Free" >}}
+{{< ls-card link="https://apps.apple.com/app/apple-store/id1594027661?pt=95781850&ct=everappzcom&mt=8" title="Evertag per a macOS" icon="download" tag="Free" >}}
 {{< /cards >}}
 
 ## Activa la biblioteca local a Spotify
@@ -36,7 +36,7 @@ Per defecte, la **Biblioteca de fitxers locals** està desactivada a l'aplicaci�
 ### Obre l'aplicació Spotify
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Interfície principal de l'aplicació Spotify" image="/docs/howto/how-to-change-album-covers-for-local-tracks-on-spotify-step-by-step-guide-mobile-desktop/spotify-main.webp" >}}
+{{< ls-card title="" subtitle="Interfície principal de l'aplicació Spotify" image="/docs/howto/how-to-change-album-covers-for-local-tracks-on-spotify-step-by-step-guide-mobile-desktop/spotify-main.webp" >}}
 {{< /cards >}}
 
 ### Toca la icona del teu perfil
@@ -44,7 +44,7 @@ Per defecte, la **Biblioteca de fitxers locals** està desactivada a l'aplicaci�
 Busca a la cantonada superior esquerra de la pantalla d'inici de Spotify i toca la teva foto de perfil per obrir el menú.
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Avatar i opcions de Spotify" image="/docs/howto/how-to-change-album-covers-for-local-tracks-on-spotify-step-by-step-guide-mobile-desktop/spotify-avatar-options.webp" >}}
+{{< ls-card title="" subtitle="Avatar i opcions de Spotify" image="/docs/howto/how-to-change-album-covers-for-local-tracks-on-spotify-step-by-step-guide-mobile-desktop/spotify-avatar-options.webp" >}}
 {{< /cards >}}
 
 ### Tria «Configuració i privadesa»
@@ -52,7 +52,7 @@ Busca a la cantonada superior esquerra de la pantalla d'inici de Spotify i toca 
 Desplaça't cap avall al menú i selecciona **Configuració i privadesa** per obrir la llista completa d'opcions.
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Menú de configuració de Spotify" image="/docs/howto/how-to-change-album-covers-for-local-tracks-on-spotify-step-by-step-guide-mobile-desktop/spotify-settings.webp" >}}
+{{< ls-card title="" subtitle="Menú de configuració de Spotify" image="/docs/howto/how-to-change-album-covers-for-local-tracks-on-spotify-step-by-step-guide-mobile-desktop/spotify-settings.webp" >}}
 {{< /cards >}}
 
 ### Selecciona «Aplicacions i dispositius»
@@ -60,7 +60,7 @@ Desplaça't cap avall al menú i selecciona **Configuració i privadesa** per ob
 Busca i toca l'element del menú **Aplicacions i dispositius** per veure la configuració d'integració de dispositius.
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Aplicacions i dispositius de Spotify" image="/docs/howto/how-to-change-album-covers-for-local-tracks-on-spotify-step-by-step-guide-mobile-desktop/spotify-apps-and-devices.webp" >}}
+{{< ls-card title="" subtitle="Aplicacions i dispositius de Spotify" image="/docs/howto/how-to-change-album-covers-for-local-tracks-on-spotify-step-by-step-guide-mobile-desktop/spotify-apps-and-devices.webp" >}}
 {{< /cards >}}
 
 ### Activa «Fitxers d'àudio locals»
@@ -68,7 +68,7 @@ Busca i toca l'element del menú **Aplicacions i dispositius** per veure la conf
 Activa l'interruptor de **Fitxers d'àudio locals**. Quan se't demani, concedeix a Spotify permís per accedir als teus fitxers de música.
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Concedir a Spotify accés als fitxers de música" image="/docs/howto/how-to-change-album-covers-for-local-tracks-on-spotify-step-by-step-guide-mobile-desktop/spotify-access-to-music.webp" >}}
+{{< ls-card title="" subtitle="Concedir a Spotify accés als fitxers de música" image="/docs/howto/how-to-change-album-covers-for-local-tracks-on-spotify-step-by-step-guide-mobile-desktop/spotify-access-to-music.webp" >}}
 {{< /cards >}}
 
 ### Comprova la carpeta de Spotify
@@ -76,7 +76,7 @@ Activa l'interruptor de **Fitxers d'àudio locals**. Quan se't demani, concedeix
 Un cop concedit el permís, obre l'aplicació **Fitxers**, ves a **Ubicacions > Al meu iPhone/iPad** i busca la carpeta **Spotify**. Aquí és on s'han de col·locar els fitxers de música locals.
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Fitxers de música de Spotify" image="/docs/howto/how-to-change-album-covers-for-local-tracks-on-spotify-step-by-step-guide-mobile-desktop/files-app-spotify-folder.webp" >}}
+{{< ls-card title="" subtitle="Fitxers de música de Spotify" image="/docs/howto/how-to-change-album-covers-for-local-tracks-on-spotify-step-by-step-guide-mobile-desktop/files-app-spotify-folder.webp" >}}
 {{< /cards >}}
 
 ## Posa fitxers de música a la carpeta de la biblioteca local de Spotify
@@ -90,7 +90,7 @@ A continuació trobaràs les instruccions utilitzant el mètode de l'aplicació 
 ### Obre l'aplicació Fitxers – Ubicacions – En aquest dispositiu
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Carpeta de Spotify" image="/docs/howto/how-to-change-album-covers-for-local-tracks-on-spotify-step-by-step-guide-mobile-desktop/files-app-spotify-folder.webp" >}}
+{{< ls-card title="" subtitle="Carpeta de Spotify" image="/docs/howto/how-to-change-album-covers-for-local-tracks-on-spotify-step-by-step-guide-mobile-desktop/files-app-spotify-folder.webp" >}}
 {{< /cards >}}
 
 ### Copia la carpeta de música
@@ -98,7 +98,7 @@ A continuació trobaràs les instruccions utilitzant el mètode de l'aplicació 
 Navega a la teva carpeta de **Música**. Toca i mantén premut per obrir el menú contextual i tria **Copiar**.
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Accedir a les opcions de carpeta a l'aplicació Fitxers" image="/docs/howto/how-to-change-album-covers-for-local-tracks-on-spotify-step-by-step-guide-mobile-desktop/files-app-folder-options.webp" >}}
+{{< ls-card title="" subtitle="Accedir a les opcions de carpeta a l'aplicació Fitxers" image="/docs/howto/how-to-change-album-covers-for-local-tracks-on-spotify-step-by-step-guide-mobile-desktop/files-app-folder-options.webp" >}}
 {{< /cards >}}
 
 ### Enganxa la carpeta de música
@@ -106,7 +106,7 @@ Navega a la teva carpeta de **Música**. Toca i mantén premut per obrir el men�
 Navega a la carpeta **Spotify**, toca i mantén premut en una àrea buida i tria **Enganxar** del menú contextual.
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Enganxar la carpeta a la ubicació de destinació" image="/docs/howto/how-to-change-album-covers-for-local-tracks-on-spotify-step-by-step-guide-mobile-desktop/files-app-paste-folder.webp" >}}
+{{< ls-card title="" subtitle="Enganxar la carpeta a la ubicació de destinació" image="/docs/howto/how-to-change-album-covers-for-local-tracks-on-spotify-step-by-step-guide-mobile-desktop/files-app-paste-folder.webp" >}}
 {{< /cards >}}
 
 ### Espera el procés de còpia
@@ -114,7 +114,7 @@ Navega a la carpeta **Spotify**, toca i mantén premut en una àrea buida i tria
 Espera fins que el sistema acabi de copiar la carpeta de música al directori local de Spotify.
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Copiant fitxers de música amb l'aplicació Fitxers" image="/docs/howto/how-to-change-album-covers-for-local-tracks-on-spotify-step-by-step-guide-mobile-desktop/files-app-copying-music.webp" >}}
+{{< ls-card title="" subtitle="Copiant fitxers de música amb l'aplicació Fitxers" image="/docs/howto/how-to-change-album-covers-for-local-tracks-on-spotify-step-by-step-guide-mobile-desktop/files-app-copying-music.webp" >}}
 {{< /cards >}}
 
 ### Obre la biblioteca local de Spotify
@@ -122,7 +122,7 @@ Espera fins que el sistema acabi de copiar la carpeta de música al directori lo
 Ara torna a l'aplicació Spotify. Toca **La teva biblioteca > Fitxers locals** i veuràs els fitxers de música que acabes de copiar.
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Spotify mostrant la biblioteca de música local" image="/docs/howto/how-to-change-album-covers-for-local-tracks-on-spotify-step-by-step-guide-mobile-desktop/spotify-local-music-library.webp" >}}
+{{< ls-card title="" subtitle="Spotify mostrant la biblioteca de música local" image="/docs/howto/how-to-change-album-covers-for-local-tracks-on-spotify-step-by-step-guide-mobile-desktop/spotify-local-music-library.webp" >}}
 {{< /cards >}}
 
 ## Connecta la carpeta de Spotify a l'aplicació Evertag
@@ -149,26 +149,26 @@ Pots editar metadades directament des de les carpetes sense importar els fitxers
 - Desplaça't a **Fitxers en aquest dispositiu** a la barra lateral
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Veure totes les carpetes del dispositiu a Evertag" image="/docs/howto/how-to-change-album-covers-for-local-tracks-on-spotify-step-by-step-guide-mobile-desktop/evertag-all-device-folders.webp" >}}
+{{< ls-card title="" subtitle="Veure totes les carpetes del dispositiu a Evertag" image="/docs/howto/how-to-change-album-covers-for-local-tracks-on-spotify-step-by-step-guide-mobile-desktop/evertag-all-device-folders.webp" >}}
 {{< /cards >}}
 
 - Toca **Totes les carpetes del dispositiu**
 - Toca **Connectar una carpeta**
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Connectar carpeta amb el selector de fitxers" image="/docs/howto/how-to-change-album-covers-for-local-tracks-on-spotify-step-by-step-guide-mobile-desktop/evertag-connect-folder-files-picker.webp" >}}
+{{< ls-card title="" subtitle="Connectar carpeta amb el selector de fitxers" image="/docs/howto/how-to-change-album-covers-for-local-tracks-on-spotify-step-by-step-guide-mobile-desktop/evertag-connect-folder-files-picker.webp" >}}
 {{< /cards >}}
 
 - Tria la carpeta **Spotify** i toca **Obrir** per confirmar
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Connectar carpeta amb fitxers locals de Spotify" image="/docs/howto/how-to-change-album-covers-for-local-tracks-on-spotify-step-by-step-guide-mobile-desktop/evertag-connect-folder-spotify-local.webp" >}}
+{{< ls-card title="" subtitle="Connectar carpeta amb fitxers locals de Spotify" image="/docs/howto/how-to-change-album-covers-for-local-tracks-on-spotify-step-by-step-guide-mobile-desktop/evertag-connect-folder-spotify-local.webp" >}}
 {{< /cards >}}
 
 - Toca la carpeta connectada per veure i editar el seu contingut
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Carpeta connectada correctament a Evertag" image="/docs/howto/how-to-change-album-covers-for-local-tracks-on-spotify-step-by-step-guide-mobile-desktop/evertag-connected-folder.webp" >}}
+{{< ls-card title="" subtitle="Carpeta connectada correctament a Evertag" image="/docs/howto/how-to-change-album-covers-for-local-tracks-on-spotify-step-by-step-guide-mobile-desktop/evertag-connected-folder.webp" >}}
 {{< /cards >}}
 
 ## Editor d'etiquetes
@@ -176,7 +176,7 @@ Pots editar metadades directament des de les carpetes sense importar els fitxers
 L'**Editor d'etiquetes** és l'espai de treball principal on visualitzes i modifiques les metadades dels teus fitxers d'àudio.
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Explorar el contingut de la carpeta connectada" image="/docs/howto/how-to-change-album-covers-for-local-tracks-on-spotify-step-by-step-guide-mobile-desktop/evertag-connected-folder-content.webp" >}}
+{{< ls-card title="" subtitle="Explorar el contingut de la carpeta connectada" image="/docs/howto/how-to-change-album-covers-for-local-tracks-on-spotify-step-by-step-guide-mobile-desktop/evertag-connected-folder-content.webp" >}}
 {{< /cards >}}
 
 ## Modes d'edició
@@ -221,25 +221,25 @@ Per substituir o afegir una nova il·lustració d'àlbum:
 1. Toca la **icona de la càmera** al carrusel d'il·lustracions
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Triar una foto personalitzada per a la portada de l'àlbum" image="/docs/howto/how-to-change-album-covers-for-local-tracks-on-spotify-step-by-step-guide-mobile-desktop/evertag-choose-photo.webp" >}}
+{{< ls-card title="" subtitle="Triar una foto personalitzada per a la portada de l'àlbum" image="/docs/howto/how-to-change-album-covers-for-local-tracks-on-spotify-step-by-step-guide-mobile-desktop/evertag-choose-photo.webp" >}}
 {{< /cards >}}
 
 2. Selecciona una font d'imatge (Biblioteca de fotos, Fitxers locals, Núvol)
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Accedir a la biblioteca de fotos per triar il·lustracions" image="/docs/howto/how-to-change-album-covers-for-local-tracks-on-spotify-step-by-step-guide-mobile-desktop/evertag-photo-library.webp" >}}
+{{< ls-card title="" subtitle="Accedir a la biblioteca de fotos per triar il·lustracions" image="/docs/howto/how-to-change-album-covers-for-local-tracks-on-spotify-step-by-step-guide-mobile-desktop/evertag-photo-library.webp" >}}
 {{< /cards >}}
 
 3. Tria la imatge per utilitzar com a portada
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Vista prèvia de la portada de l'àlbum editada" image="/docs/howto/how-to-change-album-covers-for-local-tracks-on-spotify-step-by-step-guide-mobile-desktop/evertag-edited-album-cover.webp" >}}
+{{< ls-card title="" subtitle="Vista prèvia de la portada de l'àlbum editada" image="/docs/howto/how-to-change-album-covers-for-local-tracks-on-spotify-step-by-step-guide-mobile-desktop/evertag-edited-album-cover.webp" >}}
 {{< /cards >}}
 
 4. Toca **Desar** per aplicar els canvis
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Desar les etiquetes d'àudio actualitzades" image="/docs/howto/how-to-change-album-covers-for-local-tracks-on-spotify-step-by-step-guide-mobile-desktop/evertag-save-tags.webp" >}}
+{{< ls-card title="" subtitle="Desar les etiquetes d'àudio actualitzades" image="/docs/howto/how-to-change-album-covers-for-local-tracks-on-spotify-step-by-step-guide-mobile-desktop/evertag-save-tags.webp" >}}
 {{< /cards >}}
 
 ## Actualitza la biblioteca de Spotify
@@ -247,7 +247,7 @@ Per substituir o afegir una nova il·lustració d'àlbum:
 Després de desar les etiquetes, torna a l'aplicació Spotify.
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Explorar la biblioteca de música de Spotify" image="/docs/howto/how-to-change-album-covers-for-local-tracks-on-spotify-step-by-step-guide-mobile-desktop/spotify-library.webp" >}}
+{{< ls-card title="" subtitle="Explorar la biblioteca de música de Spotify" image="/docs/howto/how-to-change-album-covers-for-local-tracks-on-spotify-step-by-step-guide-mobile-desktop/spotify-library.webp" >}}
 {{< /cards >}}
 
 Obre la secció **Fitxers locals** de nou. Ara hauries de veure les il·lustracions i etiquetes actualitzades per a les teves pistes locals.
@@ -255,7 +255,7 @@ Obre la secció **Fitxers locals** de nou. Ara hauries de veure les il·lustraci
 > Si les actualitzacions no es mostren immediatament, **tanca Spotify forçosament** i torna a obrir-lo. Això activa una actualització de metadades.
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Pista en reproducció amb etiqueta editada" image="/docs/howto/how-to-change-album-covers-for-local-tracks-on-spotify-step-by-step-guide-mobile-desktop/spotify-playing-edited-tag.webp" >}}
+{{< ls-card title="" subtitle="Pista en reproducció amb etiqueta editada" image="/docs/howto/how-to-change-album-covers-for-local-tracks-on-spotify-step-by-step-guide-mobile-desktop/spotify-playing-edited-tag.webp" >}}
 {{< /cards >}}
 
 ## Conclusió
@@ -268,26 +268,26 @@ Necessites ajuda per etiquetar fitxers FLAC, MP3 o altres formats d'alta qualita
 
 ## Preguntes freqüents
 
-{{% details title="Puc canviar les portades dels àlbums per a pistes en streaming de Spotify?" closed="true" %}}
+{{% ls-details title="Puc canviar les portades dels àlbums per a pistes en streaming de Spotify?" closed="true" %}}
 No. Spotify no permet canviar les il·lustracions per a pistes del seu catàleg de streaming. Només pots editar les portades dels àlbums per a fitxers locals afegits a la teva biblioteca de Spotify.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Evertag és gratuït?" closed="true" %}}
+{{% ls-details title="Evertag és gratuït?" closed="true" %}}
 Sí. Evertag és gratuït per descarregar i utilitzar tant a iOS com a macOS. Admet més de 120 etiquetes d'àudio i més de 30 formats de fitxer.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Quins formats d'àudio admet Evertag?" closed="true" %}}
+{{% ls-details title="Quins formats d'àudio admet Evertag?" closed="true" %}}
 Evertag admet més de 30 formats incloent MP3, FLAC, AAC, ALAC, WAV, AIFF, OGG, WMA i més.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Per què Spotify no mostra la meva portada d'àlbum actualitzada?" closed="true" %}}
+{{% ls-details title="Per què Spotify no mostra la meva portada d'àlbum actualitzada?" closed="true" %}}
 Tanca l'aplicació Spotify forçosament i torna a obrir-la. Spotify emmagatzema les metadades en memòria cau i necessita un reinici per recollir els canvis als fitxers locals.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Puc editar etiquetes de múltiples fitxers alhora?" closed="true" %}}
+{{% ls-details title="Puc editar etiquetes de múltiples fitxers alhora?" closed="true" %}}
 Sí. Evertag admet l'edició per lots. Selecciona múltiples fitxers i toca «Editar diversos fitxers simultàniament» per actualitzar etiquetes i il·lustracions de totes les pistes seleccionades alhora.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="He de copiar fitxers a la carpeta de Spotify?" closed="true" %}}
+{{% ls-details title="He de copiar fitxers a la carpeta de Spotify?" closed="true" %}}
 Sí. Spotify només llegeix fitxers locals de la seva carpeta dedicada. Copia o mou els teus fitxers de música a la carpeta de Spotify del teu dispositiu i activa l'interruptor de Fitxers d'àudio locals a la configuració de Spotify.
-{{% /details %}}
+{{% /ls-details %}}

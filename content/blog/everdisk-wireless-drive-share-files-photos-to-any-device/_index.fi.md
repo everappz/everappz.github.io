@@ -12,7 +12,7 @@ authors:
     image: "/images/about/artem-meleshko-founder-everappz.webp"
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 **Lyhyesti:** [Everdisk](/products/everdisk) on uusi sovelluksemme, joka muuttaa **iPhonesi tai iPadisi langattomaksi levyksi** ja keskukseksi, joka yhdistyy myös muihin laitteisiisi. Napauta **Käynnistä**, ja Everdisk ajaa **neljää palvelinta yhtä aikaa**: **DLNA** älytelevisioille ja mediasoittimille, **HTTP** mille tahansa verkkoselaimelle, **WebDAV** Finderille, Windowsille ja Linuxille sekä **FTP** tiedostosovelluksille. Jokainen laite yhdistyy haluamallaan tavalla. Jaa tiedostosi, valokuvasi, videosi ja musiikkisi minkä tahansa verkkosi laitteen kanssa, suoratoista televisioon ilman kaapeleita, liitä laitteesi verkkolevyksi tai siirrä tiedostoja **USB-kaapelin** kautta, kun Wi-Fiä ei ole. Everdisk yhdistyy myös ulospäin **DLNA-, WebDAV-, FTP- ja SFTP**-palvelimiin, siinä on sisäänrakennettu **tiedostonhallinta** pakkaamisella ja purkamisella, ja se voi **skannata asiakirjoja PDF:ksi**, **merkitä ja allekirjoittaa PDF-tiedostoja** sekä ajaa täyden **PDF-työkalupakin**. Ei tilejä, ei pilveä eikä ylimääräistä sovellusta asennettavaksi toiselle puolelle. Kaikki pysyy paikallisverkossasi. Ilmainen ladata, valinnaisella kertaostoksella Premium Lifetime.
 
@@ -133,46 +133,46 @@ Jos pidät sovelluksesta, jätä arvostelu App Storeen. Se auttaa todella. Onko 
 
 ## Usein kysytyt kysymykset
 
-{{% details title="Mikä Everdisk on?" closed="true" %}}
+{{% ls-details title="Mikä Everdisk on?" closed="true" %}}
 Everdisk on uusi sovellus, joka muuttaa iPhonesi tai iPadisi langattomaksi levyksi ja keskukseksi, joka yhdistyy myös muihin laitteisiisi. Voit jakaa tiedostosi, valokuvasi, videosi ja musiikkisi minkä tahansa verkkosi laitteen kanssa, selata ja suoratoistaa muilta palvelimilta ja hallita kaikkea suoraan laitteessasi. Ei tilejä, ei pilveä eikä ylimääräistä sovellusta asennettavaksi toiselle puolelle. Napautat vain Käynnistä ja olet valmis. Sovellus ajaa neljää palvelinta samanaikaisesti: DLNA älytelevisioille ja mediasoittimille, HTTP mille tahansa verkkoselaimelle, WebDAV Finderille, Windowsille ja Linuxille sekä FTP tiedostosovelluksille ja tehokäyttäjille.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Paljonko Everdisk maksaa?" closed="true" %}}
+{{% ls-details title="Paljonko Everdisk maksaa?" closed="true" %}}
 Everdisk on ilmainen ladata. Voit muuttaa laitteesi langattomaksi levyksi, jakaa tiedostosi neljällä tavalla, suoratoistaa televisioon, liittää verkkolevyn, siirtää USB:n kautta, yhdistää muihin palvelimiin, käyttää tiedostonhallintaa, skannata asiakirjoja ja käyttää PDF-työkaluja veloituksetta. Saatavilla on valinnainen kertaluonteinen Premium Lifetime -osto, yksi maksu ilman tilausta, joka avaa rajattomat jaetut kansiot ja tallennetut yhteydet, valokuvien ja videoiden muunnoksen, mukautetut portit, jakamisen automaattisen käynnistyksen ja laitteen mukauttamisen. Hinnat voivat vaihdella alueittain.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Pitääkö toiseen laitteeseen asentaa mitään?" closed="true" %}}
+{{% ls-details title="Pitääkö toiseen laitteeseen asentaa mitään?" closed="true" %}}
 Ei. Juuri siitä on kyse. Toinen laite yhdistyy käyttäen työkaluja, jotka sillä jo on. Älytelevisio löytää kirjastosi DLNA:n kautta itse, mikä tahansa tietokone tai puhelin avaa linkin verkkoselaimessa, ja Macin Finder, Windows ja Linux liittävät laitteesi verkkolevyksi WebDAV:n kautta. Mitään ei tarvitse asentaa toiselle puolelle.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Miten suoratoistan valokuvia ja videoita televisiooni?" closed="true" %}}
+{{% ls-details title="Miten suoratoistan valokuvia ja videoita televisiooni?" closed="true" %}}
 Aseta televisiosi tai mediasoittimesi ja laitteesi samaan Wi-Fi-verkkoon, napauta sitten Everdiskissä Käynnistä valokuvasi, videosi tai musiikkisi jaettuna. Laitteesi ilmestyy itsestään television mediapalvelinten luetteloon, esikatselun pikkukuvien kanssa. Avaa se televisiossa ja nauti kirjastostasi isolla ruudulla. Ei kaapeleita eikä lisäsovelluksia.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Miten yhdistän Everdiskin Macistani tai PC:stäni?" closed="true" %}}
+{{% ls-details title="Miten yhdistän Everdiskin Macistani tai PC:stäni?" closed="true" %}}
 Everdisk saa laitteesi näkymään tavallisena verkkolevynä WebDAV:n kautta. Macissa avaa Finder ja valitse Siirry, sitten Yhdistä palvelimeen, ja syötä sovelluksessa näkyvä WebDAV-osoite. Windowsissa yhdistä verkkolevy samalla osoitteella. Linuxissa yhdistä WebDAV-osoitteeseen tiedostonhallinnastasi. Kun yhteys on muodostettu, voit vetää ja pudottaa molempiin suuntiin. Jos et halua liittää levyä, avaa vain HTTP-linkki missä tahansa verkkoselaimessa.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Voinko siirtää tiedostoja ilman Wi-Fiä?" closed="true" %}}
+{{% ls-details title="Voinko siirtää tiedostoja ilman Wi-Fiä?" closed="true" %}}
 Kyllä. Yhdistä laitteesi Maciin samalla USB-kaapelilla, jolla lataat sen, ja tiedostot siirtyvät suoraan kaapelin läpi, nopeammin kuin Wi-Fin kautta. Koska se ei tarvitse langatonta verkkoa, tämä toimii edelleen lentokoneessa, hotellissa tai missä tahansa lukitussa tai julkisessa verkossa, jossa Wi-Fi-jako on estetty.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Voinko lähettää tiedostoja iPhonesta toiseen?" closed="true" %}}
+{{% ls-details title="Voinko lähettää tiedostoja iPhonesta toiseen?" closed="true" %}}
 Kyllä. Aloita jakaminen yhdellä laitteella ja avaa linkki verkkoselaimessa toisella, tai yhdistä WebDAV:n tai FTP:n kautta. Voit selata, suoratoistaa ja ladata molempiin suuntiin sekä jopa ladata valokuvia, asiakirjoja ja kokonaisia kansioita takaisin jakavaan laitteeseen.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Mihin Everdisk voi yhdistyä?" closed="true" %}}
+{{% ls-details title="Mihin Everdisk voi yhdistyä?" closed="true" %}}
 Everdisk on myös asiakas verkkosi muille laitteille. Voit etsiä ja yhdistää DLNA-, WebDAV-, FTP- ja SFTP-palvelimiin, mukaan lukien NAS-laitteet ja mediapalvelimet. Kun yhteys on muodostettu, voit selata niiden kansioita, suoratoistaa ääntä ja videota, ladata tiedostoja sekä luoda kansioita, ladata, nimetä uudelleen, siirtää tai poistaa, kun palvelin sallii sen.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Voinko skannata asiakirjoja ja muokata PDF-tiedostoja Everdiskissä?" closed="true" %}}
+{{% ls-details title="Voinko skannata asiakirjoja ja muokata PDF-tiedostoja Everdiskissä?" closed="true" %}}
 Kyllä. Everdisk voi skannata paperiasiakirjoja kamerallasi. Se löytää reunat itse, oikaisee jokaisen sivun ja tallentaa ne siistinä monisivuisena PDF:nä. Voit myös avata PDF:n tai valokuvan ja merkitä sen (piirtää, korostaa, lisätä tekstiä ja muotoja sekä allekirjoittaa sormellasi), ja muutokset tallentuvat takaisin tiedostoon. Täysi PDF-työkalupakki lisää pakkaamisen, tekstintunnistuksen (OCR) haettavaksi PDF:ksi, salasanasuojauksen, oikeuksien tarkastelun, metatietojen muokkauksen ja litistämisen.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Onko Everdisk yksityinen ja turvallinen?" closed="true" %}}
+{{% ls-details title="Onko Everdisk yksityinen ja turvallinen?" closed="true" %}}
 Kyllä. Kaikki pysyy paikallisverkossasi eikä koskaan kosketa internetiä, joten tiedostosi eivät koskaan lähde kotoa. Ei tilejä eikä pilveä välissä. Voit suojata käytön käyttäjätunnuksella ja salasanalla, jolloin yhdistettyjen laitteiden on syötettävä samat tiedot ennen kuin ne voivat nähdä tiedostosi, ja voit estää minkä tahansa laitteen yhdellä napautuksella. Parhaan yksityisyyden vuoksi ota jakaminen käyttöön vain ollessasi yhteydessä Wi-Fi-verkkoon, jonka tunnet ja johon luotat.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Millä laitteilla Everdisk toimii?" closed="true" %}}
+{{% ls-details title="Millä laitteilla Everdisk toimii?" closed="true" %}}
 Everdisk toimii iPhonella ja iPadilla. Se jakaa ja yhdistyy älytelevisioihin, mediasoittimiin, Mac-, Windows- ja Linux-tietokoneisiin, verkkoselaimiin, muihin puhelimiin ja tabletteihin, NAS-levyihin sekä mihin tahansa DLNA-, WebDAV-, FTP- tai SFTP-palvelimeen verkossasi.
-{{% /details %}}
+{{% /ls-details %}}

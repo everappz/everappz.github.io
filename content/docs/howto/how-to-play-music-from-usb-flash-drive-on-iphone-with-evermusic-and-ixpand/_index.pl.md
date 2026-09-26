@@ -7,7 +7,7 @@ tags: ["muzyka", "usb", "zewnętrzny", "ixpand", "sandisk", "iphone", "evermusic
 readingTime: 3
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **W skrócie:** Evermusic pozwala odtwarzać muzykę bezpośrednio z dysku SanDisk iXpand Flash Drive na iPhonie lub iPadzie. Podłącz dysk, otwórz Evermusic i zacznij słuchać -- nie musisz kopiować plików na urządzenie. Obsługuje zarządzanie plikami, listy odtwarzania, equalizer i strumieniowanie AirPlay.
@@ -69,22 +69,22 @@ Dzięki Evermusic i SanDisk iXpand Flash Drive będziesz mieć swobodę cieszeni
 
 ## FAQ
 
-{{% details title="Jakie modele iXpand Flash Drive obsługuje Evermusic?" closed="true" %}}
+{{% ls-details title="Jakie modele iXpand Flash Drive obsługuje Evermusic?" closed="true" %}}
 Evermusic obsługuje dyski SanDisk iXpand Flash Drive z protokołami V1, V2, V3, V6 i V7. Kompatybilność możesz sprawdzić w Ustawieniach iPhone'a w sekcji Ogólne > To urządzenie > iXpand Flash Drive.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Czy mogę odtwarzać muzykę z dysku USB bez kopiowania plików na iPhone'a?" closed="true" %}}
+{{% ls-details title="Czy mogę odtwarzać muzykę z dysku USB bez kopiowania plików na iPhone'a?" closed="true" %}}
 Tak. Evermusic odtwarza pliki audio bezpośrednio z iXpand Flash Drive. Nie musisz kopiować niczego do wewnętrznej pamięci urządzenia.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Jakie formaty audio obsługuje Evermusic z dysków USB?" closed="true" %}}
+{{% ls-details title="Jakie formaty audio obsługuje Evermusic z dysków USB?" closed="true" %}}
 Evermusic obsługuje wszystkie główne formaty audio, w tym MP3, FLAC, AAC, WAV, AIFF, OGG i inne. Każdy plik audio zapisany na dysku iXpand może być odtwarzany bezpośrednio.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Czy mogę strumieniować muzykę z dysku iXpand na głośniki AirPlay?" closed="true" %}}
+{{% ls-details title="Czy mogę strumieniować muzykę z dysku iXpand na głośniki AirPlay?" closed="true" %}}
 Tak. Podczas odtwarzania muzyki z dysku USB możesz strumieniować dźwięk na urządzenia kompatybilne z AirPlay, takie jak głośniki Sonos, Apple TV i Google Chromecast.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Co powinienem zrobić, jeśli mój dysk iXpand nie jest rozpoznawany?" closed="true" %}}
+{{% ls-details title="Co powinienem zrobić, jeśli mój dysk iXpand nie jest rozpoznawany?" closed="true" %}}
 Upewnij się, że żadne inne aplikacje nie korzystają z dysku. Spróbuj go odłączyć i ponownie podłączyć. Jeśli Twój model nie jest obsługiwany, użyj adaptera Apple Lightning na USB, aby podłączyć dysk jako standardowe urządzenie USB.
-{{% /details %}}
+{{% /ls-details %}}

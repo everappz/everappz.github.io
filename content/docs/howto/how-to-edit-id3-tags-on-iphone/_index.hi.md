@@ -7,7 +7,7 @@ tags: ["mp3", "एडिटर", "iPhone", "टैग", "मेटाडेट�
 readingTime: 2
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **संक्षेप:** iPhone या Mac पर ID3 टैग एडिट करने के लिए Evermusic या Flacbox में बिल्ट-इन टैग एडिटर का उपयोग करें -- क्लाउड और लोकल दोनों फाइलों के लिए। बैच एडिटिंग या 120+ टैग फील्ड चाहिए? इसके बजाय [Evertag](https://apps.apple.com/app/apple-store/id1450763230?pt=95781850&ct=everappzcom&mt=8) का उपयोग करें।
@@ -21,8 +21,8 @@ readingTime: 2
 जबकि कई डेस्कटॉप ऐप्स मेटाडेटा एडिटिंग प्रदान करते हैं, Evermusic और Flacbox एक ID3 टैग एडिटर शामिल करके सरलता को अगले स्तर पर ले जाते हैं। अब, आप एक ही ऐप का उपयोग अपनी म्यूजिक लाइब्रेरी बनाने, अपने ट्रैक्स का आनंद लेने और ऑडियो टैग ठीक करने के लिए कर सकते हैं।
 
 {{< cards cols="2">}}
-{{< card link="https://apps.apple.com/app/apple-store/id885367198?pt=95781850&ct=everappzcom&mt=8" title="Evermusic डाउनलोड करें" icon="download" tag="Free" >}}
-{{< card link="https://apps.apple.com/app/apple-store/id1097564256?pt=95781850&ct=everappzcom&mt=8" title="Flacbox डाउनलोड करें" icon="download" tag="Free" >}}
+{{< ls-card link="https://apps.apple.com/app/apple-store/id885367198?pt=95781850&ct=everappzcom&mt=8" title="Evermusic डाउनलोड करें" icon="download" tag="Free" >}}
+{{< ls-card link="https://apps.apple.com/app/apple-store/id1097564256?pt=95781850&ct=everappzcom&mt=8" title="Flacbox डाउनलोड करें" icon="download" tag="Free" >}}
 {{< /cards >}}
 
 ## प्रो एडिटर
@@ -30,7 +30,7 @@ readingTime: 2
 लेकिन शुरू करने से पहले, **Evertag** ऐप देखें — यह **120+ ऑडियो टैग**, **30+ ऑडियो फॉर्मेट** सपोर्ट करता है, और शक्तिशाली **बैच एडिटिंग** प्रदान करता है। यदि आप एक पूर्ण-विशेषताओं वाला टैग प्रबंधन टूल ढूंढ रहे हैं, तो Evertag सही विकल्प है। हालांकि, यदि आपको बस एक **सरल टैग एडिटर** चाहिए, तो इस गाइड के साथ जारी रखें।
 
 {{< cards >}}
-{{< card link="https://apps.apple.com/app/apple-store/id1450763230?pt=95781850&ct=everappzcom&mt=8" title="Evertag डाउनलोड करें" icon="download" tag="Free" >}}
+{{< ls-card link="https://apps.apple.com/app/apple-store/id1450763230?pt=95781850&ct=everappzcom&mt=8" title="Evertag डाउनलोड करें" icon="download" tag="Free" >}}
 {{< /cards >}}
 
 
@@ -38,21 +38,21 @@ readingTime: 2
 ऐप में अपना पसंदीदा क्लाउड अकाउंट लिंक करें।
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="क्लाउड सर्वर कनेक्ट करें" image="/docs/howto/how-to-edit-id3-tags-on-iphone/connect_cloud_server.webp" >}}
+{{< ls-card title="" subtitle="क्लाउड सर्वर कनेक्ट करें" image="/docs/howto/how-to-edit-id3-tags-on-iphone/connect_cloud_server.webp" >}}
 {{< /cards >}}
 
 ## अपनी ऑडियो फाइलों तक नेविगेट करें  
 कनेक्टेड क्लाउड अकाउंट में अपनी ऑडियो फाइलों वाला फोल्डर खोलें।
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="क्लाउड फोल्डर" image="/docs/howto/how-to-edit-id3-tags-on-iphone/cloud_server_folders.webp" >}}
+{{< ls-card title="" subtitle="क्लाउड फोल्डर" image="/docs/howto/how-to-edit-id3-tags-on-iphone/cloud_server_folders.webp" >}}
 {{< /cards >}}
 
 ## फाइल विकल्प एक्सेस करें  
 जिस फाइल को एडिट करना चाहते हैं उसके पास 'More' बटन ('...') टैप करें।
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="अधिक कार्रवाइयां" image="/docs/howto/how-to-edit-id3-tags-on-iphone/cloud_server_audio_more_actions.webp" >}}
+{{< ls-card title="" subtitle="अधिक कार्रवाइयां" image="/docs/howto/how-to-edit-id3-tags-on-iphone/cloud_server_audio_more_actions.webp" >}}
 {{< /cards >}}
 
 ## 'ऑडियो टैग एडिट करें' चुनें  
@@ -70,7 +70,7 @@ readingTime: 2
 एडिटिंग पूरी होने के बाद, अपने बदलाव सहेजने के लिए 'सेव' बटन टैप करें।
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="टैग एडिटर" image="/docs/howto/how-to-edit-id3-tags-on-iphone/tags_editor.webp" >}}
+{{< ls-card title="" subtitle="टैग एडिटर" image="/docs/howto/how-to-edit-id3-tags-on-iphone/tags_editor.webp" >}}
 {{< /cards >}}
 
 ## स्मार्ट ऑटोकम्प्लीट  
@@ -88,7 +88,7 @@ readingTime: 2
 - **"लोकल फाइल्स" सेक्शन पर जाएं**, फिर **"इस डिवाइस पर फाइलें"** तक नीचे स्क्रॉल करें।
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="इस डिवाइस पर फाइलें" image="/docs/howto/how-to-edit-id3-tags-on-iphone/local_files.webp" >}}
+{{< ls-card title="" subtitle="इस डिवाइस पर फाइलें" image="/docs/howto/how-to-edit-id3-tags-on-iphone/local_files.webp" >}}
 {{< /cards >}}
 
 - **"एक फोल्डर कनेक्ट करें"** टैप करें।
@@ -96,25 +96,25 @@ readingTime: 2
 - फोल्डर पिकर में, वह डायरेक्टरी चुनें जिसे आप एक्सेस करना चाहते हैं और पुष्टि करने के लिए **"खोलें"** टैप करें।
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="बाहरी फोल्डर कनेक्ट करें" image="/docs/howto/how-to-edit-id3-tags-on-iphone/connect_external_folder.webp" >}}
+{{< ls-card title="" subtitle="बाहरी फोल्डर कनेक्ट करें" image="/docs/howto/how-to-edit-id3-tags-on-iphone/connect_external_folder.webp" >}}
 {{< /cards >}}
 
 - फोल्डर जोड़ने के बाद, अंदर की फाइलें देखने के लिए उस पर टैप करें।
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="बाहरी फोल्डर सामग्री" image="/docs/howto/how-to-edit-id3-tags-on-iphone/connected_external_folder.webp" >}}
+{{< ls-card title="" subtitle="बाहरी फोल्डर सामग्री" image="/docs/howto/how-to-edit-id3-tags-on-iphone/connected_external_folder.webp" >}}
 {{< /cards >}}
 
 - क्लाउड फाइलों की तरह ही, एक ऑडियो फाइल के बगल में **"अधिक कार्रवाइयां"** बटन टैप करें और **"ऑडियो टैग एडिट करें"** चुनें।
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="अधिक कार्रवाइयां - लोकल फाइल" image="/docs/howto/how-to-edit-id3-tags-on-iphone/more_actions_local_file.webp" >}}
+{{< ls-card title="" subtitle="अधिक कार्रवाइयां - लोकल फाइल" image="/docs/howto/how-to-edit-id3-tags-on-iphone/more_actions_local_file.webp" >}}
 {{< /cards >}}
 
 - टैग एडिटर खुलेगा। अपने बदलाव करें और **"सेव"** टैप करें। बस इतना ही! आपके एडिट सीधे फाइल पर लागू हो जाते हैं — कॉपी या मूव करने की जरूरत नहीं।
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="टैग एडिटर - लोकल फाइल" image="/docs/howto/how-to-edit-id3-tags-on-iphone/tag_editor_local_file.webp" >}}
+{{< ls-card title="" subtitle="टैग एडिटर - लोकल फाइल" image="/docs/howto/how-to-edit-id3-tags-on-iphone/tag_editor_local_file.webp" >}}
 {{< /cards >}}
 
 ## एल्बम कवर एडिट करें
@@ -126,7 +126,7 @@ readingTime: 2
 3. कवर आर्ट के रूप में लागू करने के लिए एक इमेज चुनें।
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="इमेज चुनें" image="/docs/howto/how-to-edit-id3-tags-on-iphone/tags_editor_choose_image.webp" >}}
+{{< ls-card title="" subtitle="इमेज चुनें" image="/docs/howto/how-to-edit-id3-tags-on-iphone/tags_editor_choose_image.webp" >}}
 {{< /cards >}}
 
 ## टैग एडिटर में अधिक कार्रवाइयां
@@ -134,7 +134,7 @@ readingTime: 2
 आर्टवर्क व्यू के नीचे टूलबार के माध्यम से अतिरिक्त एडिटिंग विकल्प उपलब्ध हैं।
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="अधिक कार्रवाइयां मेनू" image="/docs/howto/how-to-edit-id3-tags-on-iphone/tags_edito_more_actions.webp" >}}
+{{< ls-card title="" subtitle="अधिक कार्रवाइयां मेनू" image="/docs/howto/how-to-edit-id3-tags-on-iphone/tags_edito_more_actions.webp" >}}
 {{< /cards >}}
 
 ### ऑटो-सर्च ऑडियो टैग
@@ -195,22 +195,22 @@ Evermusic और Flacbox के साथ अपनी म्यूजिक ल
 
 ## अक्सर पूछे जाने वाले प्रश्न
 
-{{% details title="मैं किन ऑडियो फॉर्मेट के टैग एडिट कर सकता हूं?" closed="true" %}}
+{{% ls-details title="मैं किन ऑडियो फॉर्मेट के टैग एडिट कर सकता हूं?" closed="true" %}}
 Evermusic और Flacbox MP3, FLAC, AAC, OGG और अन्य सामान्य ऑडियो फॉर्मेट के लिए टैग एडिटिंग सपोर्ट करते हैं। Evertag WAV, AIFF, WMA और APE सहित 30+ फॉर्मेट सपोर्ट करता है।
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="क्या मैं क्लाउड सेवाओं में संग्रहीत फाइलों के टैग एडिट कर सकता हूं?" closed="true" %}}
+{{% ls-details title="क्या मैं क्लाउड सेवाओं में संग्रहीत फाइलों के टैग एडिट कर सकता हूं?" closed="true" %}}
 हां। अपना Dropbox, Google Drive, OneDrive या अन्य क्लाउड अकाउंट कनेक्ट करें। ऐप फाइल डाउनलोड करता है, आपको टैग एडिट करने देता है, और स्वचालित रूप से संशोधित फाइल को वापस क्लाउड पर अपलोड करता है।
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Evermusic/Flacbox और Evertag में क्या अंतर है?" closed="true" %}}
+{{% ls-details title="Evermusic/Flacbox और Evertag में क्या अंतर है?" closed="true" %}}
 Evermusic और Flacbox बिल्ट-इन बेसिक टैग एडिटर वाले म्यूजिक प्लेयर हैं। Evertag एक समर्पित टैग एडिटर है जो 120+ ऑडियो टैग, बैच एडिटिंग और 30+ फॉर्मेट सपोर्ट करता है -- बड़ी लाइब्रेरी प्रबंधित करने के लिए आदर्श।
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="क्या ऑटो-सर्च फीचर के लिए इंटरनेट कनेक्शन आवश्यक है?" closed="true" %}}
+{{% ls-details title="क्या ऑटो-सर्च फीचर के लिए इंटरनेट कनेक्शन आवश्यक है?" closed="true" %}}
 हां। ऑटो-सर्च ऑडियो टैग फीचर मेटाडेटा खोजने और भरने के लिए MusicBrainz ऑनलाइन डेटाबेस से क्वेरी करता है। इस फीचर के लिए एक सक्रिय इंटरनेट कनेक्शन आवश्यक है।
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="क्या टैग एडिट करने से मेरी ऑडियो क्वालिटी बदलेगी?" closed="true" %}}
+{{% ls-details title="क्या टैग एडिट करने से मेरी ऑडियो क्वालिटी बदलेगी?" closed="true" %}}
 नहीं। टैग एडिटिंग केवल फाइल में एम्बेडेड मेटाडेटा को संशोधित करती है। ऑडियो डेटा स्वयं अछूता रहता है -- कोई री-एन्कोडिंग नहीं होती।
-{{% /details %}}
+{{% /ls-details %}}

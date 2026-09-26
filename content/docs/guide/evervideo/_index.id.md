@@ -74,18 +74,18 @@ Panduan ini memandu Anda melalui setiap bagian Evervideo di iPhone, iPad, dan Ma
 
 {{< cards cols="2">}}
 
-{{< card icon="map" link="/docs/guide/evervideo/evervideo-guide-navigation" title="Navigasi" subtitle="Tab Bar di iPhone, Menu Kiri di iPad dan Mac, pemutar media kompak yang selalu aktif di layar." >}}
+{{< ls-card icon="map" link="/docs/guide/evervideo/evervideo-guide-navigation" title="Navigasi" subtitle="Tab Bar di iPhone, Menu Kiri di iPad dan Mac, pemutar media kompak yang selalu aktif di layar." >}}
 
-{{< card icon="folder" link="/docs/guide/evervideo/evervideo-guide-files" title="File" subtitle="Satu tab terpadu untuk cloud, NAS, stream RTSP, file lokal, drive USB, dan antrean transfer." >}}
+{{< ls-card icon="folder" link="/docs/guide/evervideo/evervideo-guide-files" title="File" subtitle="Satu tab terpadu untuk cloud, NAS, stream RTSP, file lokal, drive USB, dan antrean transfer." >}}
 
-{{< card icon="collection" link="/docs/guide/evervideo/evervideo-guide-video-library" title="Perpustakaan Media" subtitle="Jelajahi berdasarkan Album, Genre, Terbaru, Favorit — ditambah perpustakaan Foto iOS dan perpustakaan Apple Music." >}}
+{{< ls-card icon="collection" link="/docs/guide/evervideo/evervideo-guide-video-library" title="Perpustakaan Media" subtitle="Jelajahi berdasarkan Album, Genre, Terbaru, Favorit — ditambah perpustakaan Foto iOS dan perpustakaan Apple Music." >}}
 
-{{< card icon="music-note" link="/docs/guide/evervideo/evervideo-guide-playlists" title="Daftar Putar" subtitle="Buat daftar putar dari cloud, lokal, Foto, atau perpustakaan Music, impor M3U / M3U8 / CUE." >}}
+{{< ls-card icon="music-note" link="/docs/guide/evervideo/evervideo-guide-playlists" title="Daftar Putar" subtitle="Buat daftar putar dari cloud, lokal, Foto, atau perpustakaan Music, impor M3U / M3U8 / CUE." >}}
 
-{{< card icon="play" link="/docs/guide/evervideo/evervideo-guide-player" title="Pemutar Media" subtitle="Picture-in-Picture, trek audio dan video, subtitle, equalizer audio dan video, AirPlay, Chromecast." >}}
+{{< ls-card icon="play" link="/docs/guide/evervideo/evervideo-guide-player" title="Pemutar Media" subtitle="Picture-in-Picture, trek audio dan video, subtitle, equalizer audio dan video, AirPlay, Chromecast." >}}
 
-{{< card icon="adjustments" link="/docs/guide/evervideo/evervideo-guide-settings" title="Pengaturan" subtitle="Mesin audio, dekoder video, subtitle, perpustakaan, manajer file, widget, personalisasi, bahasa, pencadangan." >}}
+{{< ls-card icon="adjustments" link="/docs/guide/evervideo/evervideo-guide-settings" title="Pengaturan" subtitle="Mesin audio, dekoder video, subtitle, perpustakaan, manajer file, widget, personalisasi, bahasa, pencadangan." >}}
 
-{{< card icon="question-mark-circle" link="/docs/faq/evervideo" title="FAQ" subtitle="Temukan jawaban atas pertanyaan paling umum tentang Evervideo." >}}
+{{< ls-card icon="question-mark-circle" link="/docs/faq/evervideo" title="FAQ" subtitle="Temukan jawaban atas pertanyaan paling umum tentang Evervideo." >}}
 
 {{< /cards >}}

@@ -20,7 +20,7 @@ Sekcja Pliki lokalne służy jako centrum zarządzania plikami znajdującymi si�
 Ten wbudowany menedżer plików umożliwia edycję plików i oferuje różne metody importowania plików audio do aplikacji.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Ekran Pliki lokalne w Evermusic" image="/docs/guide/evermusic/evermusic-guide-local-files/img/local-files-main.webp" >}}
+  {{< ls-card title="" subtitle="Ekran Pliki lokalne w Evermusic" image="/docs/guide/evermusic/evermusic-guide-local-files/img/local-files-main.webp" >}}
 {{< /cards >}}
 
 ## Pobierz pliki z pamięci w chmurze
@@ -40,7 +40,7 @@ Automatycznie synchronizuj pliki do odtwarzania offline zgodnie z opisem [tutaj]
 Przesyłaj pliki za pomocą połączenia kablowego zgodnie z opisem [tutaj](/docs/howto/how-to-transfer-files-from-my-mac-to-iphone-or-ipad-using-finder).
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="iTunes / Finder File Sharing" image="/docs/guide/evermusic/evermusic-guide-local-files/img/local-files-itunes-file-sharing.webp" >}}
+  {{< ls-card title="" subtitle="iTunes / Finder File Sharing" image="/docs/guide/evermusic/evermusic-guide-local-files/img/local-files-itunes-file-sharing.webp" >}}
 {{< /cards >}}
 
 ## Wi-Fi Drive
@@ -48,7 +48,7 @@ Przesyłaj pliki za pomocą połączenia kablowego zgodnie z opisem [tutaj](/doc
 Przesyłaj pliki bezprzewodowo zgodnie z opisem [tutaj](/docs/howto/how-to-transfer-files-wirelessly-from-a-computer-to-an-iphone-using-wifi-drive).
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Ustawienia serwera Wi-Fi Drive" image="/docs/guide/evermusic/evermusic-guide-local-files/img/local-files-wifidrive-settings.webp" >}}
+  {{< ls-card title="" subtitle="Ustawienia serwera Wi-Fi Drive" image="/docs/guide/evermusic/evermusic-guide-local-files/img/local-files-wifidrive-settings.webp" >}}
 {{< /cards >}}
 
 ## Kolejka transferów
@@ -56,7 +56,7 @@ Przesyłaj pliki bezprzewodowo zgodnie z opisem [tutaj](/docs/howto/how-to-trans
 W lewym górnym rogu paska nawigacyjnego znajdziesz przycisk „Transfery". Dotknij go, aby uzyskać dostęp do kolejki transferów, gdzie możesz monitorować i zarządzać wszystkimi swoimi pobieraniami i przesyłaniami. Ponadto masz możliwość dostosowania szybkości kolejki transferów i typu sieci w ustawieniach aplikacji.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Kolejka transferów plików" image="/docs/guide/evermusic/evermusic-guide-local-files/img/local-files-file-transfers.webp" >}}
+  {{< ls-card title="" subtitle="Kolejka transferów plików" image="/docs/guide/evermusic/evermusic-guide-local-files/img/local-files-file-transfers.webp" >}}
 {{< /cards >}}
 
 ## Sekcja Szybki dostęp
@@ -68,7 +68,7 @@ U góry ekranu sekcja szybkiego dostępu zapewnia wygodne łącza do ostatnich i
 Ta sekcja wyświetla wszystkie ostatnio otwarte pliki lub foldery.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Ostatnio otwarte pliki i foldery" image="/docs/guide/evermusic/evermusic-guide-local-files/img/local-files-recents.webp" >}}
+  {{< ls-card title="" subtitle="Ostatnio otwarte pliki i foldery" image="/docs/guide/evermusic/evermusic-guide-local-files/img/local-files-recents.webp" >}}
 {{< /cards >}}
 
 ## Ulubione
@@ -76,7 +76,7 @@ Ta sekcja wyświetla wszystkie ostatnio otwarte pliki lub foldery.
 Możesz oznaczać pliki lub foldery jako ulubione i uzyskiwać do nich dostęp w tej sekcji. Możesz również dodać folder znajdujący się na urządzeniu do ulubionych. Aby to zrobić, otwórz sekcję ulubionych, dotknij trzech kropek w prawym górnym rogu i wybierz element menu „Dodaj folder". Postępuj zgodnie z instrukcjami, aby dodać folder z urządzenia do ulubionych dla szybkiego dostępu.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Ulubione — Dodaj folder z urządzenia" image="/docs/guide/evermusic/evermusic-guide-local-files/img/local-files-favorites.webp" >}}
+  {{< ls-card title="" subtitle="Ulubione — Dodaj folder z urządzenia" image="/docs/guide/evermusic/evermusic-guide-local-files/img/local-files-favorites.webp" >}}
 {{< /cards >}}
 
 ## Górny pasek narzędzi
@@ -91,7 +91,7 @@ Górny pasek narzędzi, umieszczony pod paskiem nawigacyjnym, oferuje kilka akcj
 Możesz pokazywać lub ukrywać górny pasek narzędzi za pomocą gestu przesunięcia w dół.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Górny pasek narzędzi dla bieżącego folderu" image="/docs/guide/evermusic/evermusic-guide-local-files/img/local-files-top-toolbar.webp" >}}
+  {{< ls-card title="" subtitle="Górny pasek narzędzi dla bieżącego folderu" image="/docs/guide/evermusic/evermusic-guide-local-files/img/local-files-top-toolbar.webp" >}}
 {{< /cards >}}
 
 ## Foldery specjalne
@@ -128,7 +128,7 @@ Pokazuje pliki i foldery przechowywane w katalogu Dokumenty aplikacji i iCloud D
 Pokazuje pliki znajdujące się na urządzeniu, ale w innych aplikacjach. Możesz je importować do tej aplikacji za pomocą systemowego selektora plików. Aby aktywować selektor, wybierz „Otwórz pliki...", aby wybrać pliki, lub „Otwórz foldery...", aby wybrać foldery. Szczegółowe instrukcje dotyczące importowania lokalnej muzyki przechowywanej na iPhone lub Mac są dostępne [tutaj](/docs/howto/how-to-play-local-music-stored-on-your-iphone-or-mac). Możesz również podłączyć folder znajdujący się na urządzeniu i mieć szybki dostęp do jego zawartości. Użyj elementu menu „Podłącz folder" i wybierz folder na urządzeniu. Dotknij „Zrobione", a aplikacja utworzy link do tego folderu z dostępem do odczytu i zapisu, umożliwiając zarządzanie plikami bezpośrednio z tej aplikacji. Aby odłączyć folder znajdujący się na urządzeniu, dotknij przycisku „Więcej akcji" i wybierz „Rozłączyć".
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Pliki na tym iPhone / iPad / Mac" image="/docs/guide/evermusic/evermusic-guide-local-files/img/local-files-on-this-device.webp" >}}
+  {{< ls-card title="" subtitle="Pliki na tym iPhone / iPad / Mac" image="/docs/guide/evermusic/evermusic-guide-local-files/img/local-files-on-this-device.webp" >}}
 {{< /cards >}}
 
 ## Importowanie plików z podłączonych kart USB
@@ -151,7 +151,7 @@ Menu „więcej akcji" dla aktualnie otwartego folderu, znajdujące się w prawy
 Jeśli chcesz edytować kilka plików, aktywuj tryb wyboru, dotykając przycisku „..." na pasku nawigacyjnym w prawym górnym rogu, a następnie wybierz element menu „Wybrać". Spowoduje to wyświetlenie pól wyboru obok każdego pliku. Wybierz żądane pliki, dotykając ich pól wyboru. Możesz wykonać następujące akcje na wybranych plikach.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Akcje trybu wyboru dla plików lokalnych" image="/docs/guide/evermusic/evermusic-guide-local-files/img/local-files-selection-mode.webp" >}}
+  {{< ls-card title="" subtitle="Akcje trybu wyboru dla plików lokalnych" image="/docs/guide/evermusic/evermusic-guide-local-files/img/local-files-selection-mode.webp" >}}
 {{< /cards >}}
 
 - **Odtwórz następnie:** Dodaj wybrane pliki lub foldery na górę kolejki odtwarzacza z bieżącą kolejnością sortowania.
@@ -186,7 +186,7 @@ Dla każdego pliku lub folderu w aplikacji dostępnych jest kilka akcji, dostęp
 ## Foldery offline
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Menu Więcej Akcji dla folderu offline" image="/docs/guide/evermusic/evermusic-guide-local-files/img/local-files-offline-folders.webp" >}}
+  {{< ls-card title="" subtitle="Menu Więcej Akcji dla folderu offline" image="/docs/guide/evermusic/evermusic-guide-local-files/img/local-files-offline-folders.webp" >}}
 {{< /cards >}}
 
 Tryb offline to przydatna funkcja, która pozwala uzyskiwać dostęp do ulubionej muzyki nawet bez połączenia z internetem. Gdy włączysz tryb offline dla dowolnego albumu, artysty, listy odtwarzania, gatunku lub zdalnego folderu, wszystkie pliki w tej kolekcji zostaną automatycznie pobrane na urządzenie do odtwarzania offline. Możesz wygodnie uzyskiwać dostęp do tych plików w sekcji „Foldery offline" aplikacji.
@@ -204,7 +204,7 @@ Szczegółowe instrukcje dotyczące odtwarzania muzyki offline w Evermusic i Fla
 Prawie każde zachowanie ekranu Pliki lokalne — od przepustowości sieci do miejsca docelowego pobrań i sposobu buforowania miniatur — można konfigurować w **Ustawienia → Menedżer plików**. Otwórz to menu, gdy chcesz dostroić szybkość transferu, zaoszczędzić miejsce na dysku lub ograniczyć aplikację tylko do sieci Wi-Fi.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Ekran ustawień menedżera plików" image="/docs/guide/evermusic/evermusic-guide-local-files/img/local-files-file-manager-settings.webp" >}}
+  {{< ls-card title="" subtitle="Ekran ustawień menedżera plików" image="/docs/guide/evermusic/evermusic-guide-local-files/img/local-files-file-manager-settings.webp" >}}
 {{< /cards >}}
 
 Ekran udostępnia wszystkie opcje pogrupowane w wyraźnie oznaczone sekcje:

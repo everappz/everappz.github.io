@@ -17,7 +17,7 @@ Pada skrin Sambungan anda boleh menyambungkan setiap sumber yang menyimpan muzik
 Skrin dibahagikan kepada bahagian berlabel jelas supaya ia berskala dari satu akaun iCloud Drive ke perpustakaan yang tersebar di beberapa awan dan peranti NAS: Akses Pantas di atas (folder awan kegemaran anda), Storan awan (akaun yang telah anda tambahkan), Rangkaian tempatan (peranti yang ditemui Bonjour), Komputer (Wi-Fi Drive, Perkongsian Fail iTunes, SMB), Aksesori luaran (pemacu kilat USB yang disambungkan), dan Perkhidmatan lain (Last.fm dan seumpamanya).
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Skrin Sambungan Evermusic" image="/docs/guide/evermusic/evermusic-guide-connections/img/connect-main.webp" >}}
+  {{< ls-card title="" subtitle="Skrin Sambungan Evermusic" image="/docs/guide/evermusic/evermusic-guide-connections/img/connect-main.webp" >}}
 {{< /cards >}}
 
 ## Sambung ke storan awan
@@ -29,7 +29,7 @@ Skrin dibahagikan kepada bahagian berlabel jelas supaya ia berskala dari satu ak
 - Ketuk Selesai.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Pemilih Pembekal Storan Awan yang Disambung" image="/docs/guide/evermusic/evermusic-guide-connections/img/connect-add-storage.webp" >}}
+  {{< ls-card title="" subtitle="Pemilih Pembekal Storan Awan yang Disambung" image="/docs/guide/evermusic/evermusic-guide-connections/img/connect-add-storage.webp" >}}
 {{< /cards >}}
 
 Jika anda menghadapi sebarang masalah, semak semula sambungan internet dan kelayakan log masuk anda, dan pastikan pengesahan dua faktor dikonfigurasi dengan betul untuk perkhidmatan tersebut.  
@@ -70,7 +70,7 @@ Anda juga boleh memutuskan sambungan akaun awan yang disambungkan dalam aplikasi
   - **Putuskan Sambungan**: jika anda ingin memutuskan sepenuhnya sambungan antara apl dan perkhidmatan awan, pilih 'Putuskan Sambungan.' Sedar bahawa memilih pilihan ini akan mengalih keluar semua lagu yang berkaitan dengan perkhidmatan awan ini dari perpustakaan muzik apl anda, tetapi ia akan kekal di pelayan.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Menu Lebih banyak tindakan Storan Awan yang Disambung" image="/docs/guide/evermusic/evermusic-guide-connections/img/connect-storage-more-actions.webp" >}}
+  {{< ls-card title="" subtitle="Menu Lebih banyak tindakan Storan Awan yang Disambung" image="/docs/guide/evermusic/evermusic-guide-connections/img/connect-storage-more-actions.webp" >}}
 {{< /cards >}}
 
 ## Sambung ke Komputer atau NAS
@@ -89,7 +89,7 @@ Jika sambungan anda berjaya anda akan melihat storan yang disambungkan dalam bah
 Tutorial penuh tentang cara menyambungkan MAC atau PC anda menggunakan SMB tersedia [di sini](/docs/howto/stream-your-music-from-mac-or-pc-to-iphone-using-smb/).
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Tetapan Sambungan SMB" image="/docs/guide/evermusic/evermusic-guide-connections/img/connect-smb-settings.webp" >}}
+  {{< ls-card title="" subtitle="Tetapan Sambungan SMB" image="/docs/guide/evermusic/evermusic-guide-connections/img/connect-smb-settings.webp" >}}
 {{< /cards >}}
 
 ## Sambung ke NAS menggunakan WebDAV
@@ -99,7 +99,7 @@ URL hendaklah dalam format http://server-name, atau https://server-name jika pel
 Tutorial penuh tentang cara menyambungkan NAS menggunakan protokol WebDAV tersedia [di sini](/docs/howto/how-to-connect-nas-storage-using-webdav-and-listen-to-music-on-your-iphone-or-mac).
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Tetapan Sambungan WebDAV" image="/docs/guide/evermusic/evermusic-guide-connections/img/connect-webdav-settings.webp" >}}
+  {{< ls-card title="" subtitle="Tetapan Sambungan WebDAV" image="/docs/guide/evermusic/evermusic-guide-connections/img/connect-webdav-settings.webp" >}}
 {{< /cards >}}
 
 ## Sambung ke Komputer atau NAS menggunakan DLNA
@@ -107,7 +107,7 @@ Tutorial penuh tentang cara menyambungkan NAS menggunakan protokol WebDAV tersed
 Anda juga boleh berkongsi perpustakaan muzik yang terletak pada PC Windows atau NAS peribadi anda menggunakan protokol DLNA dan mengakses perpustakaan tersebut dalam apl seperti yang diterangkan [di sini](/docs/howto/how-to-enable-dlna-media-server-on-windows-10-and-play-your-music-on-iphone). DLNA ialah protokol yang popular dan digunakan secara meluas, tetapi ia hanya membolehkan anda memainkan atau memuat turun muzik. Anda tidak boleh memuat naik fail atau membuat folder baru pada pelayan.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Tetapan Sambungan DLNA" image="/docs/guide/evermusic/evermusic-guide-connections/img/connect-dlna-settings.webp" >}}
+  {{< ls-card title="" subtitle="Tetapan Sambungan DLNA" image="/docs/guide/evermusic/evermusic-guide-connections/img/connect-dlna-settings.webp" >}}
 {{< /cards >}}
 
 ## Peranti yang tersedia
@@ -120,7 +120,7 @@ Untuk mewujudkan sambungan dengan peranti, ikuti langkah-langkah berikut:
 - Jika diperlukan, masukkan butiran log masuk anda untuk melengkapkan sambungan.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Peranti yang Tersedia di Rangkaian Tempatan" image="/docs/guide/evermusic/evermusic-guide-connections/img/connect-available-devices.webp" >}}
+  {{< ls-card title="" subtitle="Peranti yang Tersedia di Rangkaian Tempatan" image="/docs/guide/evermusic/evermusic-guide-connections/img/connect-available-devices.webp" >}}
 {{< /cards >}}
 
 ## Wi-Fi Drive
@@ -146,7 +146,7 @@ Setelah halaman web yang sepadan dengan peranti iOS anda dibuka dalam pelayar, a
 Fail yang anda seret dan lepas akan mula dipindahkan ke peranti iOS anda dan akan dapat diakses dalam aplikasi.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Tetapan Pelayan Wi-Fi Drive" image="/docs/guide/evermusic/evermusic-guide-connections/img/connect-wifidrive-settings.webp" >}}
+  {{< ls-card title="" subtitle="Tetapan Pelayan Wi-Fi Drive" image="/docs/guide/evermusic/evermusic-guide-connections/img/connect-wifidrive-settings.webp" >}}
 {{< /cards >}}
 
 Arahan terperinci tentang cara memindahkan fail secara tanpa wayar menggunakan WiFi-Drive tersedia [di sini](/docs/howto/how-to-transfer-files-wirelessly-from-a-computer-to-an-iphone-using-wifi-drive).
@@ -162,7 +162,7 @@ Perkongsian Fail iTunes ialah satu lagi teknologi yang membolehkan anda memindah
 Arahan terperinci tentang cara menggunakan perkongsian fail iTunes tersedia [di sini](/docs/howto/how-to-play-local-itunes-files-on-my-iphone/).
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Perkongsian Fail iTunes / Finder pada Mac" image="/docs/guide/evermusic/evermusic-guide-connections/img/connect-itunes-file-sharing.webp" >}}
+  {{< ls-card title="" subtitle="Perkongsian Fail iTunes / Finder pada Mac" image="/docs/guide/evermusic/evermusic-guide-connections/img/connect-itunes-file-sharing.webp" >}}
 {{< /cards >}}
 
 ## Sambungkan kad kilat USB
@@ -183,7 +183,7 @@ Bar alat atas, yang terletak dengan mudah di bawah bar navigasi, menawarkan bebe
 - **Kocok Semua**: Sama seperti "Main Semua," tindakan ini mengimbas folder semasa dan subfoldernya tetapi mengocok fail sebelum menambahkannya ke baris gilir pemain audio. Ia ialah cara yang bagus untuk menikmati muzik anda dalam urutan rawak untuk sedikit variasi.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Bar Alat Atas Dalam Folder Awan" image="/docs/guide/evermusic/evermusic-guide-connections/img/connect-top-toolbar.webp" >}}
+  {{< ls-card title="" subtitle="Bar Alat Atas Dalam Folder Awan" image="/docs/guide/evermusic/evermusic-guide-connections/img/connect-top-toolbar.webp" >}}
 {{< /cards >}}
 
 ## Pilihan Folder
@@ -200,7 +200,7 @@ Berikut ialah pecahan tindakan-tindakan ini:
 - **Paparan Grid/Senarai**: Tukar antara dua mod paparan: paparan jadual dan paparan lakaran kecil. Paparan jadual menyampaikan fail dalam senarai, manakala paparan lakaran kecil memaparkan representasi visual fail, memudahkan untuk mengenal pasti kandungan secara sekilas.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Menu Lebih banyak tindakan Folder Semasa" image="/docs/guide/evermusic/evermusic-guide-connections/img/connect-folder-options.webp" >}}
+  {{< ls-card title="" subtitle="Menu Lebih banyak tindakan Folder Semasa" image="/docs/guide/evermusic/evermusic-guide-connections/img/connect-folder-options.webp" >}}
 {{< /cards >}}
 
 ## Edit Fail Dalam Talian
@@ -212,7 +212,7 @@ Apabila anda perlu mengurus beberapa fail dalam storan awan anda di Evermusic, a
 - **Laksanakan Pelbagai Tindakan**: Setelah anda memilih fail atau folder yang ingin anda urus, anda akan mempunyai akses kepada beberapa tindakan yang disesuaikan dengan keperluan anda:
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Mod Pemilihan untuk Fail Dalam Talian" image="/docs/guide/evermusic/evermusic-guide-connections/img/connect-selection-mode.webp" >}}
+  {{< ls-card title="" subtitle="Mod Pemilihan untuk Fail Dalam Talian" image="/docs/guide/evermusic/evermusic-guide-connections/img/connect-selection-mode.webp" >}}
 {{< /cards >}}
 
 ## Tindakan fail
@@ -233,7 +233,7 @@ Ketuk padanya untuk mendedahkan senarai tindakan yang tersedia:
 - **Padam**: Berhati-hati dengan tindakan ini, kerana ia secara kekal mengalih keluar fail dari storan awan anda. Pemadaman ini tidak boleh dibatalkan.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Menu Lebih banyak tindakan untuk Satu Fail" image="/docs/guide/evermusic/evermusic-guide-connections/img/connect-single-folder-more-options.webp" >}}
+  {{< ls-card title="" subtitle="Menu Lebih banyak tindakan untuk Satu Fail" image="/docs/guide/evermusic/evermusic-guide-connections/img/connect-single-folder-more-options.webp" >}}
 {{< /cards >}}
 
 Jika senarai tindakan melebihi ruang skrin yang tersedia, hanya tatal ke bawah dalam menu tindakan untuk mengakses pilihan tambahan.

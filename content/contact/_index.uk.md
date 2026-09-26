@@ -1,9 +1,10 @@
 ---
+excludeSearch: true
 date: '2025-06-12T17:00:00+00:00'
 title: "Зв'яжіться з нами"
 ---
 
-{{< lottie src="/images/juicy-json/juicy-girl-typing-on-phone.json" width="60%" >}}
+{{< ls-lottie src="/images/juicy-json/juicy-girl-typing-on-phone.json" width="60%" >}}
 
 ## Поштова адреса
 
@@ -27,4 +28,4 @@ title: "Зв'яжіться з нами"
 
 Підписуйтесь на нас у соціальних мережах, щоб отримувати найсвіжіші новини, оновлення додатків, поради та корисну інформацію:
 
-{{< social-cards >}}
+{{< ls-social-cards >}}

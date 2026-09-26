@@ -8,7 +8,7 @@ tags: ["muzică", "cloud", "player", "manager de descărcări", "egalizator", "l
 readingTime: 8
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **Pe scurt:** Ca să redai FLAC pe un iPhone ai nevoie de un player terț, deoarece aplicația Muzică de la Apple nu suportă FLAC. Instalează [Flacbox](/products/flacbox) (este gratuit), apoi fie transferă fișierele prin Wi-Fi Drive sau USB, fie conectează-ți stocarea în cloud sau NAS-ul. Biblioteca ta FLAC se redă la calitate completă, până la 384 kHz și 32-bit printr-un DAC USB. Flacbox redă și peste 120 de formate, inclusiv FLAC, DSD, ALAC, APE, WAV, OGG și OPUS, și adaugă un egalizator cu 10 benzi, motorul audio profesional BASS cu efecte în timp real, un procesor DSP și un vizualizator muzical pe tot ecranul.
@@ -34,7 +34,7 @@ Flacbox este un player muzical hi-res pentru iPhone, iPad și Mac. Îți transfo
 
 Flacbox se descarcă gratuit și rulează pe iPhone, iPad și Mac.
 
-{{< app-details product="flacbox" >}}
+{{< ls-app-details product="flacbox" >}}
 
 ### Pasul 2. Adaugă fișierele tale FLAC
 
@@ -82,7 +82,7 @@ Poți alege motorul de redare în Setări, apoi Player audio, apoi Codec audio:
 Flacbox include un egalizator grafic cu 10 benzi, cu presetări în stil iPod precum Acoustic, Bass Booster, Rock, Pop, Jazz, Classical și Dance. Există un preamplificator care ridică piesele slabe fără distorsiuni, iar tu îți poți salva propriile presetări. Reglează-l pentru căști in-ear, un HomePod sau sistemul audio al mașinii. Pentru un ghid complet, vezi [ghidul egalizatorului](/docs/howto/how-to-use-the-audio-equalizer-on-your-iphone-ipad-mac-with-evermusic-and-flacbox).
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Egalizatorul Player-ului Audio Flacbox" image="/docs/guide/flacbox/img/audio-player-equalizer.webp" >}}
+  {{< ls-card title="" subtitle="Egalizatorul Player-ului Audio Flacbox" image="/docs/guide/flacbox/img/audio-player-equalizer.webp" >}}
 {{< /cards >}}
 
 ## Efecte audio în timp real
@@ -106,7 +106,7 @@ Dincolo de efecte, Flacbox îți oferă un procesor DSP cu 14 filtre în timp re
 Flacbox are un vizualizator muzical încorporat care pictează imagini colorate în mișcare, în ritmul muzicii tale. Folosește binecunoscutul motor Milkdrop (projectM) cu 500 de presetări, desenat cu OpenGL pe iPhone, iPad și Mac. Deschide-l din player atingând butonul Mai multe, apoi Personalizare. Alege o presetare sau folosește modul Auto pentru a le schimba la fiecare 30 de secunde cu o tranziție lină. Pentru ajutor pas cu pas, vezi ghidul despre [cum să activezi vizualizatorul muzical](/docs/howto/how-to-turn-on-a-music-visualizer-while-playing-music-on-iphone-ipad-mac).
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Vizualizatorul Muzical Flacbox (Milkdrop și projectM)" image="/docs/howto/how-to-turn-on-a-music-visualizer-while-playing-music-on-iphone-ipad-mac/music-visualizer-starfield-sectors-preset.webp" >}}
+  {{< ls-card title="" subtitle="Vizualizatorul Muzical Flacbox (Milkdrop și projectM)" image="/docs/howto/how-to-turn-on-a-music-visualizer-while-playing-music-on-iphone-ipad-mac/music-visualizer-starfield-sectors-preset.webp" >}}
 {{< /cards >}}
 
 ## Cloud, NAS și redare offline
@@ -127,7 +127,7 @@ Când vrei să ai muzica la tine, managerul de descărcări încorporat salveaz�
 
 Flacbox se descarcă gratuit. Premium elimină limitele versiunii gratuite privind conturile cloud, listele de redare și folderele offline și este disponibil ca achiziție unică pe viață sau ca abonament lunar sau anual, cu Partajare în familie.
 
-{{< app-details product="flacbox" >}}
+{{< ls-app-details product="flacbox" >}}
 
 ## Opțiunea 2: Convertește FLAC în ALAC pentru aplicația Muzică
 
@@ -141,34 +141,34 @@ Compromisurile sunt reale. Acum păstrezi două copii ale bibliotecii tale, fiec
 
 ## Întrebări frecvente
 
-{{% details title="Poate iPhone-ul să redea fișiere FLAC nativ?" closed="true" %}}
+{{% ls-details title="Poate iPhone-ul să redea fișiere FLAC nativ?" closed="true" %}}
 Doar într-un mod limitat. Aplicația Fișiere poate previzualiza un singur fișier FLAC începând cu iOS 11, dar nu există bibliotecă, liste de redare, coadă, egalizator sau streaming din cloud. Pentru o ascultare adevărată, folosește o aplicație de tip player precum Flacbox.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Pot reda FLAC de 24-bit sau 96kHz (sau mai mult) pe iPhone?" closed="true" %}}
+{{% ls-details title="Pot reda FLAC de 24-bit sau 96kHz (sau mai mult) pe iPhone?" closed="true" %}}
 Da. Flacbox suportă ieșire hi-res până la 384 kHz. Pentru a reda peste 48 kHz la rezoluția reală, conectează un DAC USB extern, deoarece ieșirea încorporată a iPhone-ului reeșantionează sunetul pentru fiecare aplicație.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Convertește Flacbox FLAC în alt format?" closed="true" %}}
+{{% ls-details title="Convertește Flacbox FLAC în alt format?" closed="true" %}}
 Nu. Flacbox redă FLAC la calitatea sa lossless originală, fără conversie. Efectele și DSP-ul se aplică live doar în timpul redării și nu îți modifică niciodată fișierele.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Pierd calitate dacă convertesc FLAC în ALAC?" closed="true" %}}
+{{% ls-details title="Pierd calitate dacă convertesc FLAC în ALAC?" closed="true" %}}
 Nu. FLAC și ALAC sunt ambele lossless, deci conversia este bit-perfect. Pierzi doar timp și renunți la comoditate, deoarece ajungi să întreții două biblioteci și trebuie să resincronizezi după modificări.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Ce formate audio suportă Flacbox?" closed="true" %}}
+{{% ls-details title="Ce formate audio suportă Flacbox?" closed="true" %}}
 Peste 120 de formate, inclusiv FLAC, DSD (DSF și DFF), ALAC, APE, WAV, AIFF, WV, OGG, OPUS, MP3, AAC, M4A, WMA și chiar muzică tracker și MOD precum MOD, XM, IT și S3M.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Are Flacbox egalizator, efecte și vizualizator?" closed="true" %}}
+{{% ls-details title="Are Flacbox egalizator, efecte și vizualizator?" closed="true" %}}
 Da. Are un egalizator cu 10 benzi cu presetări și un preamplificator. Are și un motor BASS profesional cu unsprezece efecte în timp real (reverb, delay, ecou multi-tap, crossfeed, compresor, chorus, flanger, phaser, auto-wah, distortion și stereo rotation), plus nivelare a volumului EBU R128, un procesor DSP cu 14 filtre și un vizualizator Milkdrop pe tot ecranul cu 500 de presetări.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Pot reda în streaming FLAC de pe NAS-ul sau cloudul meu?" closed="true" %}}
+{{% ls-details title="Pot reda în streaming FLAC de pe NAS-ul sau cloudul meu?" closed="true" %}}
 Da. Flacbox se conectează la peste 30 de servicii cloud și la un NAS sau computer prin SMB, WebDAV, DLNA, FTP, SFTP și NFS. Întreaga ta bibliotecă este disponibilă fără să copiezi fișiere pe iPhone și poți descărca piese pentru redare offline oricând.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Este Flacbox chiar gratuit?" closed="true" %}}
+{{% ls-details title="Este Flacbox chiar gratuit?" closed="true" %}}
 Flacbox se descarcă gratuit, cu funcții de bază precum egalizatorul, streamingul din cloud și redarea offline. Premium elimină limitele versiunii gratuite privind conturile cloud, listele de redare și folderele offline și vine ca achiziție unică pe viață sau ca abonament lunar sau anual, cu Partajare în familie.
-{{% /details %}}
+{{% /ls-details %}}

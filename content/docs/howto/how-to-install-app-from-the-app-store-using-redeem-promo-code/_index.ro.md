@@ -7,7 +7,7 @@ tags: ["promoție", "appstore", "instalare", "valorificare", "cod", "gratuit"]
 readingTime: 2
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **Pe scurt:** Un cod promoțional îți permite să descarci o aplicație plătită gratuit sau să deblochezi achizițiile din aplicație. Pe iOS: App Store > pictograma Cont > Valorifică cardul cadou sau codul > introdu codul. Pe Mac: App Store > Cont > Valorifică cardul cadou > introdu codul. Apoi deschide aplicația și restaurează achizițiile dacă este necesar.
@@ -94,22 +94,22 @@ Bucură-te de aplicația ta gratuită sau de upgrade-ul din aplicație!
 
 ## Întrebări frecvente
 
-{{% details title="De unde obțin un cod promoțional?" closed="true" %}}
+{{% ls-details title="De unde obțin un cod promoțional?" closed="true" %}}
 Codurile promoționale sunt furnizate de dezvoltatorii de aplicații pentru recenzii, tombole sau promoții. Contactează direct dezvoltatorul pentru a solicita unul.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Codurile promoționale expiră?" closed="true" %}}
+{{% ls-details title="Codurile promoționale expiră?" closed="true" %}}
 Da. Codurile promoționale Apple App Store expiră la 28 de zile după ce sunt generate și pot fi valorificate o singură dată.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Pot folosi un cod promoțional în orice țară?" closed="true" %}}
+{{% ls-details title="Pot folosi un cod promoțional în orice țară?" closed="true" %}}
 Codurile promoționale sunt specifice regiunii. Codul trebuie să corespundă țării App Store a Apple ID-ului tău.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Cum activez achizițiile din aplicație cu un cod promoțional?" closed="true" %}}
+{{% ls-details title="Cum activez achizițiile din aplicație cu un cod promoțional?" closed="true" %}}
 După valorificarea codului în App Store, deschide aplicația și mergi la Setări > Restaurare achiziții. Conținutul premium va fi deblocat automat.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Codul promoțional spune că a fost deja valorificat. Ce ar trebui să fac?" closed="true" %}}
+{{% ls-details title="Codul promoțional spune că a fost deja valorificat. Ce ar trebui să fac?" closed="true" %}}
 Fiecare cod promoțional poate fi folosit o singură dată. Contactează dezvoltatorul pentru a solicita un cod nou.
-{{% /details %}}
+{{% /ls-details %}}

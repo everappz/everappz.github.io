@@ -18,7 +18,7 @@ readingTime: 16
 Inställningsskärmen är Evermusics kontrollcentral. Härifrån kan du uppgradera till Premium, konfigurera ljudspelaren, hantera ditt musikbibliotek, konfigurera filhanteraren, anpassa gränssnittet, aktivera widgets och CarPlay, säkerhetskopiera dina data och komma åt hjälp och juridisk information. Avsnitt är grupperade under rubrikerna: **Köp och uppdateringar**, appreferenser, **Hjälp** och **Juridiskt och sekretess**.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evermusic Inställningsskärm" image="/docs/guide/evermusic/evermusic-guide-settings/img/settings-main-screen.webp" >}}
+  {{< ls-card title="" subtitle="Evermusic Inställningsskärm" image="/docs/guide/evermusic/evermusic-guide-settings/img/settings-main-screen.webp" >}}
 {{< /cards >}}
 
 ## Köp och Uppdateringar

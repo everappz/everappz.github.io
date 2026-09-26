@@ -7,7 +7,7 @@ keywords: ["nagrywanie wideo podczas odtwarzania muzyki na iPhonie", "jak odtwar
 readingTime: 1
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **W skrócie:** Ustaw wyjście audio Evermusic na "Tryb mieszany," rozpocznij odtwarzanie utworu, a następnie otwórz aplikację Aparat i nagrywaj. Muzyka będzie nadal odtwarzana w tle. Działa z TikTok, Instagram i każdą aplikacją aparatu.
@@ -45,22 +45,22 @@ Ta sztuczka działa na każdym iPhonie.
 
 ## Często zadawane pytania
 
-{{% details title="Czy muzyka w tle jest nagrywana do wideo?" closed="true" %}}
+{{% ls-details title="Czy muzyka w tle jest nagrywana do wideo?" closed="true" %}}
 Muzyka odtwarzana jest przez głośnik iPhone'a, więc mikrofon ją przechwyci wraz z innymi dźwiękami otoczenia. Aby uzyskać czystszy dźwięk, rozważ użycie zewnętrznego głośnika umieszczonego blisko mikrofonu.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Czy to działa z TikTok i Instagram?" closed="true" %}}
+{{% ls-details title="Czy to działa z TikTok i Instagram?" closed="true" %}}
 Tak. Gdy Evermusic jest ustawiony na Tryb mieszany i utwór jest odtwarzany, muzyka kontynuuje po otwarciu TikTok, Instagram lub dowolnej innej aplikacji aparatu czy nagrywania.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Czym jest Tryb mieszany w Evermusic?" closed="true" %}}
+{{% ls-details title="Czym jest Tryb mieszany w Evermusic?" closed="true" %}}
 Tryb mieszany to ustawienie wyjścia audio, które pozwala Evermusic współdzielić sesję audio z innymi aplikacjami. Zapobiega to zatrzymaniu muzyki, gdy inna aplikacja uzyskuje dostęp do mikrofonu lub aparatu.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Czy mogę użyć Flacbox zamiast Evermusic?" closed="true" %}}
+{{% ls-details title="Czy mogę użyć Flacbox zamiast Evermusic?" closed="true" %}}
 Tak. Flacbox również obsługuje mieszany tryb wyjścia audio. Kroki są takie same: włącz Tryb mieszany w Ustawieniach, rozpocznij odtwarzanie i otwórz aplikację aparatu.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Czy mogę grać w grę, gdy muzyka z Evermusic odtwarza się w tle?" closed="true" %}}
+{{% ls-details title="Czy mogę grać w grę, gdy muzyka z Evermusic odtwarza się w tle?" closed="true" %}}
 Tak. Przy włączonym Trybie mieszanym muzyka z Evermusic nadal gra po otwarciu dowolnej gry lub aplikacji. Dźwięk gry i muzyka będą odtwarzane jednocześnie.
-{{% /details %}}
+{{% /ls-details %}}

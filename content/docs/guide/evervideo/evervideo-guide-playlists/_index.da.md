@@ -19,7 +19,7 @@ I sektionen Afspilningslister finder du praktiske værktøjer til at administrer
 Afspilningslister i Evervideo kan indeholde en blanding af online cloud-videoer, offline downloadede filer, lokale filer, Photos-biblioteksvideoer og iOS Musik-biblioteksvideoer — alt i én afspilningsliste — og afspilles problemfrit sammen.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evervideo afspilningslister i mediebiblioteket" image="/docs/guide/evervideo/img/evervideo-playlists-in-media-library.webp" >}}
+  {{< ls-card title="" subtitle="Evervideo afspilningslister i mediebiblioteket" image="/docs/guide/evervideo/img/evervideo-playlists-in-media-library.webp" >}}
 {{< /cards >}}
 
 ## Oprettelse af en afspilningsliste

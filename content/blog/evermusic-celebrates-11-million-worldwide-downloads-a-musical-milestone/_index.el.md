@@ -12,7 +12,7 @@ authors:
     image: "/images/about/artem-meleshko-founder-everappz.webp"
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 **Περίληψη:** Το Evermusic ξεπέρασε τα 11 εκατομμύρια λήψεις παγκοσμίως. Τα βασικά χαρακτηριστικά περιλαμβάνουν ισοσταθμιστή 10 ζωνών, αναπαραγωγή εκτός σύνδεσης, ροή από iCloud Drive, υποστήριξη 10+ υπηρεσιών cloud, συγχρονισμό μεταξύ συσκευών και ενσωματωμένο επεξεργαστή ετικετών ID3.
 
@@ -70,22 +70,22 @@ authors:
 
 ## Συχνές ερωτήσεις
 
-{{% details title="Ποιες μορφές ήχου υποστηρίζει το Evermusic;" closed="true" %}}
+{{% ls-details title="Ποιες μορφές ήχου υποστηρίζει το Evermusic;" closed="true" %}}
 Το Evermusic αναπαράγει MP3, FLAC, WAV, AAC, M4A, AIFF, OGG, WMA και άλλες δημοφιλείς μορφές ήχου.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Μπορώ να χρησιμοποιήσω το Evermusic χωρίς σύνδεση στο διαδίκτυο;" closed="true" %}}
+{{% ls-details title="Μπορώ να χρησιμοποιήσω το Evermusic χωρίς σύνδεση στο διαδίκτυο;" closed="true" %}}
 Ναι. Κατεβάστε κομμάτια από τον αποθηκευτικό χώρο cloud σας για αναπαραγωγή εκτός σύνδεσης. Μετά τη λήψη, δεν απαιτείται διαδίκτυο.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Λειτουργεί το Evermusic σε Mac;" closed="true" %}}
+{{% ls-details title="Λειτουργεί το Evermusic σε Mac;" closed="true" %}}
 Ναι. Το Evermusic είναι διαθέσιμο τόσο σε iOS (iPhone/iPad) όσο και σε macOS, με συγχρονισμό βιβλιοθήκης σε όλες τις συσκευές.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Είναι δωρεάν η λήψη του Evermusic;" closed="true" %}}
+{{% ls-details title="Είναι δωρεάν η λήψη του Evermusic;" closed="true" %}}
 Ναι. Το Evermusic είναι δωρεάν για λήψη με προαιρετικά premium χαρακτηριστικά διαθέσιμα μέσω αγοράς εντός εφαρμογής.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Πώς λειτουργεί η ροή iCloud Drive στο Evermusic;" closed="true" %}}
+{{% ls-details title="Πώς λειτουργεί η ροή iCloud Drive στο Evermusic;" closed="true" %}}
 Συνδέστε τον λογαριασμό σας iCloud Drive στην εφαρμογή, περιηγηθείτε στα αρχεία μουσικής σας και πατήστε για αναπαραγωγή. Τα κομμάτια γίνονται ροή απευθείας χωρίς να χρειάζεται πρώτα λήψη.
-{{% /details %}}
+{{% /ls-details %}}

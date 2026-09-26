@@ -7,7 +7,7 @@ tags: ["evermusic", "importere", "afspilningslister", "m3u", "cue"]
 readingTime: 3
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **Resumé:** Evermusic og Flacbox understøtter import af M3U-, M3U8- og CUE-afspilningslistefiler fra skylagring, lokale app-filer eller din enhed. Gå til Afspilningslister > Mere > Importer afspilningsliste, vælg en kilde, vælg din fil, og appen bygger din afspilningsliste automatisk.
@@ -84,22 +84,22 @@ Derudover kan du importere flere afspilningslister på én gang ved at trykke p�
 
 ## Ofte stillede spørgsmål
 
-{{% details title="Hvilke afspilningslisteformater understøtter Evermusic og Flacbox?" closed="true" %}}
+{{% ls-details title="Hvilke afspilningslisteformater understøtter Evermusic og Flacbox?" closed="true" %}}
 Begge apps understøtter M3U-, M3U8- og CUE-afspilningslistefilformater. Disse dækker de mest almindelige afspilningslistestandarder, der bruges af musikafspillere og mediesoftware.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Kan jeg importere afspilningslister fra skylagring?" closed="true" %}}
+{{% ls-details title="Kan jeg importere afspilningslister fra skylagring?" closed="true" %}}
 Ja. Du kan importere afspilningslistefiler fra enhver forbundet skylagringstjeneste, herunder Google Drive, Dropbox, OneDrive og WebDAV-servere.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Hvorfor mangler nogle numre efter import?" closed="true" %}}
+{{% ls-details title="Hvorfor mangler nogle numre efter import?" closed="true" %}}
 Afspilningslistefilen skal indeholde korrekte stier til dine mediefiler, og disse filer skal eksistere på de angivne placeringer i din lagring. Dobbelttjek at filstierne i din M3U- eller CUE-fil matcher de faktiske filplaceringer.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Kan jeg importere flere afspilningslister på én gang?" closed="true" %}}
+{{% ls-details title="Kan jeg importere flere afspilningslister på én gang?" closed="true" %}}
 Ja. Brug knappen Flere handlinger og vælg "Importer afspilningslister fra en mappe". Appen scanner mappen for alle understøttede afspilningslistefiler og importerer dem i ét trin.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Skal jeg oprette afspilningslister manuelt?" closed="true" %}}
+{{% ls-details title="Skal jeg oprette afspilningslister manuelt?" closed="true" %}}
 Nej. Importfunktionen eliminerer manuel oprettelse af afspilningslister. Peg bare appen mod din eksisterende M3U-, M3U8- eller CUE-fil, og den bygger afspilningslisten automatisk.
-{{% /details %}}
+{{% /ls-details %}}

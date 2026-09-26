@@ -18,7 +18,7 @@ La sezione File locali funge da hub per gestire i file situati nella cartella "D
 Questo gestore file integrato consente di modificare i file e offre vari metodi per importare file audio nell'app. I file aperti di recente appaiono automaticamente nella scheda **Recenti** e gli elementi contrassegnati con una stella compaiono sotto **Preferiti**, così puoi accedere direttamente ai file con cui lavori di più senza dover tornare a questa schermata.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Schermata download di Evertag" image="/docs/guide/evertag/img/downloads.webp" >}}
+  {{< ls-card title="" subtitle="Schermata download di Evertag" image="/docs/guide/evertag/img/downloads.webp" >}}
 {{< /cards >}}
 
 ## Scarica file dall'archiviazione cloud
@@ -74,7 +74,7 @@ Mostra i file e le cartelle archiviati nella directory Documents dell'app e su i
 Mostra i file situati sul dispositivo ma in applicazioni diverse. Puoi importarli in questa applicazione usando il selettore di file di sistema. Per attivare il selettore, scegli "Apri file..." per selezionare i file o "Apri cartelle..." per selezionare le cartelle. Istruzioni dettagliate su come importare la musica locale salvata su iPhone o Mac sono disponibili [qui](/docs/howto/how-to-play-local-music-stored-on-your-iphone-or-mac). Puoi anche connettere una cartella sul dispositivo e avere accesso rapido al contenuto della cartella. Usa la voce di menu "Connetti una cartella" e scegli una cartella sul dispositivo. Tocca "Fatto," e l'app creerà un collegamento a quella cartella con accesso in lettura/scrittura, permettendoti di gestire i file direttamente da questa app. Per disconnettere una cartella sul tuo dispositivo, tocca il pulsante "Altre azioni" e scegli "Disconnettere."
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evertag importa file dal mio dispositivo" image="/docs/guide/evertag/img/open-files.webp" >}}
+  {{< ls-card title="" subtitle="Evertag importa file dal mio dispositivo" image="/docs/guide/evertag/img/open-files.webp" >}}
 {{< /cards >}}
 
 ## Importa file da schede flash USB collegate
@@ -86,7 +86,7 @@ Istruzioni dettagliate su come connettere una scheda flash USB all'iPhone e gest
 Il menu Altre azioni per la cartella attualmente aperta si trova nell'angolo in alto a destra e fornisce accesso a varie azioni.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evertag importa file dal mio dispositivo" image="/docs/guide/evertag/img/downloads-current-folder-actions.webp" >}}
+  {{< ls-card title="" subtitle="Evertag importa file dal mio dispositivo" image="/docs/guide/evertag/img/downloads-current-folder-actions.webp" >}}
 {{< /cards >}}
 
 - **Selezionare:** passa alla modalità di selezione per file e cartelle.  

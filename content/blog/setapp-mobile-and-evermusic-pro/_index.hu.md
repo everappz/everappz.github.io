@@ -12,7 +12,7 @@ authors:
     image: "/images/about/artem-meleshko-founder-everappz.webp"
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 ![](/blog/setapp-mobile-and-evermusic-pro/21260c_766c4fbc81e6433cb8fc21b9c2862ce0~mv2.png)
 
@@ -70,27 +70,27 @@ Akár nagy FLAC könyvtárat kezelsz, akár egy egyszerű felhő streaming alkal
 Készen állsz kipróbálni? Szerezd meg az Evermusic Pro-t a Setapp Mobile-on keresztül és kezdd el streamelni a felhő zenei könyvtáradat még ma.
 
 {{< cards cols="1" >}}
-  {{< card link="https://go.setapp.com/stp435?_target=https://www.setapp.com/setapp-mobile&stc=mobile" title="Evermusic Pro letöltése Setapp Mobile-lal" icon="download" >}}
+  {{< ls-card link="https://go.setapp.com/stp435?_target=https://www.setapp.com/setapp-mobile&stc=mobile" title="Evermusic Pro letöltése Setapp Mobile-lal" icon="download" >}}
 {{< /cards >}}
 
 ## Gyakran ismételt kérdések
 
-{{% details title="Ingyenes az Evermusic Pro a Setapp Mobile-lal?" closed="true" %}}
+{{% ls-details title="Ingyenes az Evermusic Pro a Setapp Mobile-lal?" closed="true" %}}
 Igen. Az Evermusic Pro benne van a Setapp Mobile előfizetésben külön költség nélkül. Megkapod a teljes prémium verziót az összes feloldott funkcióval.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Milyen felhőszolgáltatásokat támogat az Evermusic Pro?" closed="true" %}}
+{{% ls-details title="Milyen felhőszolgáltatásokat támogat az Evermusic Pro?" closed="true" %}}
 Az Evermusic Pro csatlakozik a Google Drive-hoz, Dropbox-hoz, OneDrive-hoz, iCloud-hoz, Box-hoz, MEGA-hoz, Yandex.Disk-hez, pCloud-hoz, HiDrive-hoz és WebDAV szerverekhez. Támogatja az SMB fájlmegosztásokat és NAS eszközöket is.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Hallgathatok offline az Evermusic Pro-val?" closed="true" %}}
+{{% ls-details title="Hallgathatok offline az Evermusic Pro-val?" closed="true" %}}
 Igen. Letölthetsz egyedi számokat, albumokat, előadókat vagy teljes lejátszási listákat offline lejátszáshoz közvetlenül az alkalmazásban.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Milyen audio formátumokat játszik le az Evermusic Pro?" closed="true" %}}
+{{% ls-details title="Milyen audio formátumokat játszik le az Evermusic Pro?" closed="true" %}}
 Az Evermusic Pro támogatja a FLAC, MP3, AAC, WAV, ALAC, AIFF, OPUS, OGG és sok más formátumot. Veszteségmentes és veszteséges audio fájlokat egyaránt kezel.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Kell külön Setapp előfizetés iPhone-hoz?" closed="true" %}}
+{{% ls-details title="Kell külön Setapp előfizetés iPhone-hoz?" closed="true" %}}
 A Setapp Mobile a Setapp előfizetési csomag részeként érhető el, amely iOS alkalmazásokat is tartalmaz. Az aktuális árakért és csomag lehetőségekért látogasd meg a Setapp weboldalt.
-{{% /details %}}
+{{% /ls-details %}}

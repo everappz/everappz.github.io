@@ -7,7 +7,7 @@ tags: ["有聲書", "播放", "離線", "evermusic", "書籤"]
 readingTime: 5
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **摘要：** Evermusic可作為iOS和macOS上功能齊全的有聲書播放器。透過iTunes、WiFi或雲端儲存傳輸有聲書，然後使用播放速度控制、跳轉按鈕、音訊書籤、繼續播放和離線下載功能，獲得無縫的聽書體驗。
@@ -151,26 +151,26 @@ Evermusic在支援離線收聽方面表現出色，讓您無需網路連線即�
 
 ## 常見問題
 
-{{% details title="Evermusic支援哪些有聲書格式？" closed="true" %}}
+{{% ls-details title="Evermusic支援哪些有聲書格式？" closed="true" %}}
 Evermusic支援MP3、M4A、M4B、FLAC、WAV、AIFF、OGG和其他常見音訊格式。任何可以在Evermusic中播放的音訊檔案都可以作為有聲書使用。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="我可以從雲端儲存收聽有聲書嗎？" closed="true" %}}
+{{% ls-details title="我可以從雲端儲存收聽有聲書嗎？" closed="true" %}}
 可以。Evermusic連接到iCloud Drive、Google Drive、Dropbox、OneDrive、Box和WebDAV伺服器。您可以直接串流播放有聲書或下載後離線收聽。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="我的書籤會轉移到新裝置嗎？" closed="true" %}}
+{{% ls-details title="我的書籤會轉移到新裝置嗎？" closed="true" %}}
 會的。Evermusic將音訊書籤儲存在檔案的中繼資料中，因此當您將檔案移至新裝置時，書籤會自動轉移。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Evermusic會記住我停止收聽的位置嗎？" closed="true" %}}
+{{% ls-details title="Evermusic會記住我停止收聽的位置嗎？" closed="true" %}}
 會的。在設定 > 音訊播放器 > 一般中啟用「儲存播放位置」和「儲存音訊播放器狀態」。應用程式會在工作階段之間儲存並還原您的確切位置。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="我可以調整有聲書播放速度嗎？" closed="true" %}}
+{{% ls-details title="我可以調整有聲書播放速度嗎？" closed="true" %}}
 可以。進入設定 > 音訊播放器 > 播放速度來設定您喜歡的速度。您可以加快或減慢朗讀速度以符合您的聽書偏好。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="如何將有聲書傳輸到Evermusic？" closed="true" %}}
+{{% ls-details title="如何將有聲書傳輸到Evermusic？" closed="true" %}}
 您可以透過iTunes/Finder檔案共享、WiFi Drive（應用程式內建）或在Evermusic中連接雲端儲存帳戶來傳輸檔案。
-{{% /details %}}
+{{% /ls-details %}}

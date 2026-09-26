@@ -12,7 +12,7 @@ authors:
     image: "/images/about/artem-meleshko-founder-everappz.webp"
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 ## Evermusic 3.1: Čo sa zmenilo a prečo je to dôležité
 
@@ -89,22 +89,22 @@ Upravte prihlasovacie údaje pre akúkoľvek pripojenú cloudovú službu bez od
 
 ## Často kladené otázky
 
-{{% details title="Čo je crossfade prehrávanie v Evermusic?" closed="true" %}}
+{{% ls-details title="Čo je crossfade prehrávanie v Evermusic?" closed="true" %}}
 Crossfade prehrávanie plynule mieša koniec jednej skladby so začiatkom nasledujúcej, čím vytvára plynulé prechody. Dĺžku môžete nastaviť medzi 3 a 15 sekundami v Settings → Audio Player → Crossfade Playback.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Môžem zálohovať svoje Evermusic playlisty do cloudového úložiska?" closed="true" %}}
+{{% ls-details title="Môžem zálohovať svoje Evermusic playlisty do cloudového úložiska?" closed="true" %}}
 Áno. Evermusic 3.1 vám umožňuje zálohovať celú knižnicu — vrátane playlistov, metadát, obalov a nastavení — do akejkoľvek pripojenej cloudovej služby ako jeden súbor.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Podporuje Evermusic prehliadanie iPod knižnice?" closed="true" %}}
+{{% ls-details title="Podporuje Evermusic prehliadanie iPod knižnice?" closed="true" %}}
 Áno. Svoju iPod knižnicu môžete prehliadať podľa playlistov, albumov, interpretov a žánrov priamo z domovskej obrazovky Evermusic a pridávať skladby do fronty.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Ako opravím nesprávne tagy piesní v Evermusic?" closed="true" %}}
+{{% ls-details title="Ako opravím nesprávne tagy piesní v Evermusic?" closed="true" %}}
 Použite vstavaný Tags Editor a klepnite na akciu Identify. Evermusic skenuje názvy vašich súborov a automaticky aktualizuje ID3 tagy s opravenými metadátami.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Aké cloudové služby Evermusic podporuje?" closed="true" %}}
+{{% ls-details title="Aké cloudové služby Evermusic podporuje?" closed="true" %}}
 Evermusic funguje s Dropbox, Google Drive, OneDrive, MEGA, Box, Yandex.Disk, WebDAV, SMB/CIFS a FTP servermi.
-{{% /details %}}
+{{% /ls-details %}}

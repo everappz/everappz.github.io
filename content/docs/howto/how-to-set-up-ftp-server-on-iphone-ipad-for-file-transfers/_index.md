@@ -9,7 +9,7 @@ aliases:
   - /post/how-to-set-up-ftp-server-on-iphone-ipad-for-file-transfers/
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 FTP is the old reliable of file transfer. It has been around for decades, which is exactly why it is so useful: almost anything that can talk to a server understands it. Cameras, smart TVs, routers, network drives, automation tools and every desktop FTP app speak FTP. With [Everdisk](/products/everdisk) you can run an FTP server on your iPhone or iPad, so the phone becomes a place those devices and apps can connect to and move files.
 
@@ -120,44 +120,44 @@ The **Files Editing** switch in Settings, Sharing, Access controls this. On lets
 
 ## Frequently Asked Questions
 
-{{% details title="What is the FTP address and port for my iPhone?" closed="true" %}}
+{{% ls-details title="What is the FTP address and port for my iPhone?" closed="true" %}}
 After you start sharing, Everdisk shows the address on the Sharing screen. It looks like ftp://192.168.1.20:2121. The 2121 is the port Everdisk uses for FTP, and the first part is your iPhone's address on the Wi-Fi, so yours will be different.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="How do I connect FileZilla or Cyberduck to my iPhone?" closed="true" %}}
+{{% ls-details title="How do I connect FileZilla or Cyberduck to my iPhone?" closed="true" %}}
 Open the app and create a new connection. Set the Host to your iPhone's Wi-Fi address and the Port to 2121. Enter your Login and Password, or choose Anonymous if you did not set one in Everdisk. Connect, and you can drag files in both directions when Files Editing is on.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Can I connect to my iPhone FTP from Windows?" closed="true" %}}
+{{% ls-details title="Can I connect to my iPhone FTP from Windows?" closed="true" %}}
 Yes. Open File Explorer, click the address bar, type the FTP address from Everdisk (for example ftp://192.168.1.20:2121), and press Enter. Enter your login if you set one, or continue as a guest. For uploads and more control, use an FTP app like FileZilla instead.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Do I need a login for FTP?" closed="true" %}}
+{{% ls-details title="Do I need a login for FTP?" closed="true" %}}
 No, a login is optional. Leave the Login and Password empty in Settings, Sharing, Access, and connect as Anonymous, which most FTP clients offer. Set a login if you want connections to sign in first.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Why can I only download and not upload over FTP?" closed="true" %}}
+{{% ls-details title="Why can I only download and not upload over FTP?" closed="true" %}}
 Two reasons are common. First, the Files Editing switch in Settings, Sharing, Access must be on to allow uploads, renames and deletes. Second, Mac Finder opens FTP as read only, so use an FTP app like FileZilla or Cyberduck when you want to upload.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Can I use FTP between two iPhones?" closed="true" %}}
+{{% ls-details title="Can I use FTP between two iPhones?" closed="true" %}}
 Yes. Start the FTP server on the first iPhone. On the second, open Everdisk, go to the Devices tab, tap New Connection, choose FTP, and enter the address shown on the first phone. A dedicated FTP app for iOS works too, since the iOS Files app does not include an FTP client.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Is FTP secure?" closed="true" %}}
+{{% ls-details title="Is FTP secure?" closed="true" %}}
 Plain FTP does not encrypt its traffic, so treat it as a tool for networks you trust, like your home Wi-Fi. On a network you do not control, use the SMB server with Require SMB Encryption turned on, which protects every transfer.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Which devices can connect over FTP?" closed="true" %}}
+{{% ls-details title="Which devices can connect over FTP?" closed="true" %}}
 Almost anything with an FTP client. That includes Mac, Windows and Linux computers, FTP apps like FileZilla and Cyberduck, Android file managers, and hardware such as cameras, smart TVs, routers, NAS boxes and automation tools. That wide reach is the main reason to choose FTP.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Why did my FTP connection drop?" closed="true" %}}
+{{% ls-details title="Why did my FTP connection drop?" closed="true" %}}
 Your iPhone is the server, and iOS pauses apps that stay in the background too long. Keep Everdisk open on screen while a device is connected, and plug into power for long transfers. Also make sure both devices are still on the same Wi-Fi.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Is Everdisk free?" closed="true" %}}
+{{% ls-details title="Is Everdisk free?" closed="true" %}}
 Yes, Everdisk is free to download and the FTP server is included. An optional one-time Premium purchase adds extras like custom ports and photo and video conversion. You can set up FTP and transfer files without paying.
-{{% /details %}}
+{{% /ls-details %}}
 
 Ready to try it? [Download Everdisk from the App Store](https://apps.apple.com/app/apple-store/id6751851132?pt=95781850&ct=everappzcom&mt=8) and connect your first FTP client in a couple of minutes. Questions or feedback? Email us at **support@everappz.com**.

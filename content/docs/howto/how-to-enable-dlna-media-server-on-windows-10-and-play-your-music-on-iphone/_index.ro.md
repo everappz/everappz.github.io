@@ -7,7 +7,7 @@ tags: ["evermusic", "muzică", "cloud", "iphone", "stocare", "local", "nas", "wi
 readingTime: 2
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **Pe scurt:** Windows 10 are un server DLNA integrat. Activează-l în setările Rețea și Partajare, apoi folosește aplicația gratuită **Evermusic** pe iPhone pentru a transmite întreaga ta bibliotecă muzicală prin Wi-Fi. Nu este nevoie de software server terț.
@@ -96,22 +96,22 @@ Cu serverul media DLNA pe Windows 10 și Evermusic pe iPhone, te poți bucura de
 
 ## Întrebări frecvente
 
-{{% details title="Trebuie să instalez software server pe Windows 10?" closed="true" %}}
+{{% ls-details title="Trebuie să instalez software server pe Windows 10?" closed="true" %}}
 Nu. Windows 10 include un server media DLNA integrat. Trebuie doar să activezi streaming-ul media în setările Centrului de rețea și partajare. Nu este necesar software terț.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="iPhone-ul meu trebuie să fie pe aceeași rețea Wi-Fi?" closed="true" %}}
+{{% ls-details title="iPhone-ul meu trebuie să fie pe aceeași rețea Wi-Fi?" closed="true" %}}
 Da. Streaming-ul DLNA funcționează prin rețeaua ta locală. Atât PC-ul cu Windows 10, cât și iPhone-ul trebuie să fie conectate la aceeași rețea Wi-Fi pentru ca Evermusic să descopere serverul DLNA.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Ce formate audio pot transmite prin DLNA?" closed="true" %}}
+{{% ls-details title="Ce formate audio pot transmite prin DLNA?" closed="true" %}}
 Serverul Windows DLNA partajează fișiere din folderul Muzică indiferent de format. Evermusic suportă MP3, FLAC, AAC, WAV, OGG, AIFF și multe alte formate, astfel încât poți reda practic orice fișier audio de pe server.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Pot folosi Flacbox în loc de Evermusic?" closed="true" %}}
+{{% ls-details title="Pot folosi Flacbox în loc de Evermusic?" closed="true" %}}
 Da. Flacbox suportă de asemenea navigarea și redarea DLNA/UPnP. Poți folosi oricare dintre cele două aplicații pentru a descoperi și reda muzică de pe serverul tău Windows DLNA.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Streaming-ul DLNA folosește date mobile?" closed="true" %}}
+{{% ls-details title="Streaming-ul DLNA folosește date mobile?" closed="true" %}}
 Nu. DLNA funcționează exclusiv pe rețeaua ta Wi-Fi locală. Nu folosește date mobile. Cu toate acestea, ambele dispozitive trebuie să rămână conectate la aceeași rețea în timpul redării.
-{{% /details %}}
+{{% /ls-details %}}

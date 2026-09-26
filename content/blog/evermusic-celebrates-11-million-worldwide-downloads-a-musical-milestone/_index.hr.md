@@ -12,7 +12,7 @@ authors:
     image: "/images/about/artem-meleshko-founder-everappz.webp"
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 **Ukratko:** Evermusic je prešao 11 milijuna preuzimanja širom svijeta. Ključne značajke uključuju 10-pojasni ekvilajzer, izvanmrežnu reprodukciju, iCloud Drive streaming, podršku za 10+ usluga u oblaku, sinkronizaciju između uređaja i ugrađeni uređivač ID3 oznaka.
 
@@ -70,22 +70,22 @@ Evermusic je napravljen za svakoga tko pohranjuje glazbu u oblaku ili na lokalno
 
 ## FAQ
 
-{{% details title="Koje audio formate Evermusic podržava?" closed="true" %}}
+{{% ls-details title="Koje audio formate Evermusic podržava?" closed="true" %}}
 Evermusic reproducira MP3, FLAC, WAV, AAC, M4A, AIFF, OGG, WMA i druge popularne audio formate.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Mogu li koristiti Evermusic bez internetske veze?" closed="true" %}}
+{{% ls-details title="Mogu li koristiti Evermusic bez internetske veze?" closed="true" %}}
 Da. Preuzmite pjesme iz svoje pohrane u oblaku za izvanmrežnu reprodukciju. Nakon preuzimanja, internet nije potreban.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Radi li Evermusic na Macu?" closed="true" %}}
+{{% ls-details title="Radi li Evermusic na Macu?" closed="true" %}}
 Da. Evermusic je dostupan na iOS-u (iPhone/iPad) i macOS-u, sa sinkronizacijom biblioteke na svim uređajima.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Je li Evermusic besplatan za preuzimanje?" closed="true" %}}
+{{% ls-details title="Je li Evermusic besplatan za preuzimanje?" closed="true" %}}
 Da. Evermusic je besplatan za preuzimanje s opcionim premium značajkama dostupnim putem kupnje unutar aplikacije.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Kako funkcionira iCloud Drive streaming u Evermusic?" closed="true" %}}
+{{% ls-details title="Kako funkcionira iCloud Drive streaming u Evermusic?" closed="true" %}}
 Povežite svoj iCloud Drive račun u aplikaciji, pregledajte svoje glazbene datoteke i dodirnite za reprodukciju. Pjesme se streamaju izravno bez potrebe za prethodnim preuzimanjem.
-{{% /details %}}
+{{% /ls-details %}}

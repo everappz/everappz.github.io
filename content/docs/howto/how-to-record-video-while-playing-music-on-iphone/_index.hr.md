@@ -7,7 +7,7 @@ keywords: ["snimanje videa dok se reproducira glazba na iPhoneu", "kako reproduc
 readingTime: 1
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **Ukratko:** Postavite audio izlaz Evermusica na "Mješoviti način", pokrenite reprodukciju pjesme, a zatim otvorite aplikaciju Kamera i snimajte. Glazba nastavlja svirati u pozadini. Radi s TikTokom, Instagramom i bilo kojom aplikacijom za kameru.
@@ -45,22 +45,22 @@ Ovaj trik radi na svakom iPhoneu.
 
 ## Često postavljana pitanja
 
-{{% details title="Snima li se pozadinska glazba u video?" closed="true" %}}
+{{% ls-details title="Snima li se pozadinska glazba u video?" closed="true" %}}
 Glazba se reproducira kroz zvučnik iPhonea, pa će je mikrofon uhvatiti zajedno s ostalim zvukovima okoline. Za čišći zvuk razmislite o korištenju vanjskog zvučnika postavljenog blizu mikrofona.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Radi li ovo s TikTokom i Instagramom?" closed="true" %}}
+{{% ls-details title="Radi li ovo s TikTokom i Instagramom?" closed="true" %}}
 Da. Nakon što je Evermusic postavljen na Mješoviti način i pjesma se reproducira, glazba nastavlja kada otvorite TikTok, Instagram ili bilo koju drugu aplikaciju za kameru ili snimanje.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Što je Mješoviti način u Evermusicu?" closed="true" %}}
+{{% ls-details title="Što je Mješoviti način u Evermusicu?" closed="true" %}}
 Mješoviti način je postavka audio izlaza koja omogućuje Evermusicu dijeljenje audio sesije s drugim aplikacijama. To sprječava zaustavljanje glazbe kada druga aplikacija pristupa mikrofonu ili kameri.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Mogu li koristiti Flacbox umjesto Evermusica za ovo?" closed="true" %}}
+{{% ls-details title="Mogu li koristiti Flacbox umjesto Evermusica za ovo?" closed="true" %}}
 Da. Flacbox također podržava mješoviti način audio izlaza. Koraci su isti: omogućite Mješoviti način u Postavkama, pokrenite reprodukciju i otvorite aplikaciju za kameru.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Mogu li igrati igru dok glazba iz Evermusica svira u pozadini?" closed="true" %}}
+{{% ls-details title="Mogu li igrati igru dok glazba iz Evermusica svira u pozadini?" closed="true" %}}
 Da. S omogućenim Mješovitim načinom, glazba iz Evermusica nastavlja svirati kada otvorite bilo koju igru ili aplikaciju. I zvuk igre i vaša glazba svirat će istovremeno.
-{{% /details %}}
+{{% /ls-details %}}

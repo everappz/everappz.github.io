@@ -7,7 +7,7 @@ tags: ["nhạc", "phát trực tuyến", "nas", "synology", "quickconnect"]
 readingTime: 4
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **Tóm tắt:** Kết nối Synology NAS của bạn với Evermusic hoặc Flacbox bằng API gốc của Synology -- thủ công qua địa chỉ IP hoặc tự động qua QuickConnect ID. QuickConnect cho phép bạn phát nhạc từ xa mà không cần chuyển tiếp cổng. Cả hai ứng dụng đều hỗ trợ FLAC, MP3, WAV và các định dạng hi-res khác.
@@ -140,22 +140,22 @@ Với truy cập từ xa an toàn thông qua QuickConnect và hỗ trợ nhiều
 
 ## FAQ
 
-{{% details title="Sự khác biệt giữa kết nối thủ công và QuickConnect là gì?" closed="true" %}}
+{{% ls-details title="Sự khác biệt giữa kết nối thủ công và QuickConnect là gì?" closed="true" %}}
 Kết nối thủ công sử dụng địa chỉ IP và cổng của NAS, hoạt động trên mạng cục bộ. QuickConnect sử dụng dịch vụ chuyển tiếp của Synology để thiết lập kết nối từ bất kỳ đâu qua internet, không cần chuyển tiếp cổng.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Tôi có thể phát nhạc từ Synology NAS bên ngoài mạng gia đình không?" closed="true" %}}
+{{% ls-details title="Tôi có thể phát nhạc từ Synology NAS bên ngoài mạng gia đình không?" closed="true" %}}
 Có. Bật QuickConnect trên Synology NAS và sử dụng QuickConnect ID trong Evermusic hoặc Flacbox để phát nhạc từ bất kỳ đâu có kết nối internet.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Những định dạng âm thanh nào được hỗ trợ khi phát từ Synology NAS?" closed="true" %}}
+{{% ls-details title="Những định dạng âm thanh nào được hỗ trợ khi phát từ Synology NAS?" closed="true" %}}
 Evermusic và Flacbox hỗ trợ FLAC, MP3, AAC, WAV, ALAC, OGG, WMA, DSD và nhiều định dạng khác. Tất cả các định dạng được hỗ trợ đều hoạt động khi phát từ Synology NAS.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Tôi có cần xác thực hai yếu tố để kết nối không?" closed="true" %}}
+{{% ls-details title="Tôi có cần xác thực hai yếu tố để kết nối không?" closed="true" %}}
 Không, 2FA là tùy chọn. Tuy nhiên, nếu bạn đã bật xác minh 2 bước trên Synology DSM, ứng dụng sẽ yêu cầu mật khẩu dùng một lần khi đăng nhập. Bạn sẽ cần cấp phép lại khi phiên hết hạn.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Tôi nên sử dụng API gốc Synology, WebDAV hay SMB để kết nối?" closed="true" %}}
+{{% ls-details title="Tôi nên sử dụng API gốc Synology, WebDAV hay SMB để kết nối?" closed="true" %}}
 API gốc Synology với QuickConnect là lựa chọn tốt nhất cho truy cập từ xa. Đối với sử dụng mạng cục bộ, SMB thường là tùy chọn nhanh nhất. WebDAV hoạt động tốt cho cả truy cập cục bộ và từ xa. Evermusic và Flacbox hỗ trợ cả ba giao thức.
-{{% /details %}}
+{{% /ls-details %}}

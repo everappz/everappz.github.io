@@ -19,7 +19,7 @@ W sekcji Listy odtwarzania znajdziesz przydatne narzędzia do zarządzania kolek
 Listy odtwarzania w Evervideo mogą zawierać mieszankę filmów online z chmury, pobranych plików offline, plików lokalnych, filmów z biblioteki Zdjęć i filmów z biblioteki iOS Muzyka — wszystko w jednej liście — i płynnie razem odtwarzać.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Listy odtwarzania Evervideo w bibliotece multimediów" image="/docs/guide/evervideo/img/evervideo-playlists-in-media-library.webp" >}}
+  {{< ls-card title="" subtitle="Listy odtwarzania Evervideo w bibliotece multimediów" image="/docs/guide/evervideo/img/evervideo-playlists-in-media-library.webp" >}}
 {{< /cards >}}
 
 ## Tworzenie listy odtwarzania

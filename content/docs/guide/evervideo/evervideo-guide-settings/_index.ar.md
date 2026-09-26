@@ -23,7 +23,7 @@ readingTime: 16
 شاشة الإعدادات هي لوحة التحكم في Evervideo. من هنا يمكنك الترقية إلى Premium وإعداد محركي الفيديو والصوت (مشفرات النظام أو FFmpeg) وإدارة صورة داخل صورة وإعداد الترجمات (الأساسية والثانوية وlibass والملفات الخارجية والخطوط) وتنظيم مكتبة الوسائط وإعداد مدير الملفات وتفعيل ودجات الشاشة الرئيسية ونسخ بياناتك احتياطياً والوصول إلى التعليمات والمعلومات القانونية. تُجمَّع الأقسام تحت رؤوس: المشتريات والتحديثات، وتفضيلات التطبيق، والمساعدة، والقانوني والخصوصية.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="الشاشة الرئيسية للإعدادات في Evervideo" image="/docs/guide/evervideo/img/evervideo-settings.webp" >}}
+  {{< ls-card title="" subtitle="الشاشة الرئيسية للإعدادات في Evervideo" image="/docs/guide/evervideo/img/evervideo-settings.webp" >}}
 {{< /cards >}}
 
 ## الترقية إلى Premium
@@ -31,13 +31,13 @@ readingTime: 16
 قم بترقية التطبيق إلى الإصدار Premium لإزالة جميع القيود. يوفر الإصدار المجاني من التطبيق شراءً مرة واحدة مدى الحياة وخيارَي اشتراك (شهر واحد وسنة واحدة) لإزالة جميع القيود والترقية إلى Premium.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="الترقية إلى Premium في Evervideo" image="/docs/guide/evervideo/img/evervideo-upgrade-to-premium.webp" >}}
+  {{< ls-card title="" subtitle="الترقية إلى Premium في Evervideo" image="/docs/guide/evervideo/img/evervideo-upgrade-to-premium.webp" >}}
 {{< /cards >}}
 
 **Family Sharing** مفعّل لجميع المشتريات والخطط، حتى تتمكن من مشاركة الإصدار Premium مع ما يصل إلى خمسة أعضاء من عائلتك دون تكلفة إضافية.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="اختيار خطة Premium في Evervideo" image="/docs/guide/evervideo/img/evervideo-select-premium-plan.webp" >}}
+  {{< ls-card title="" subtitle="اختيار خطة Premium في Evervideo" image="/docs/guide/evervideo/img/evervideo-select-premium-plan.webp" >}}
 {{< /cards >}}
 
 ## مشاركة المشتريات بين iOS وMac
@@ -51,7 +51,7 @@ readingTime: 16
 لاستعادة مشترياتك على جهاز جديد، استخدم قائمة **المشتريات ← استعادة المشتريات**. ستجد قائمة بمشترياتك. إذا لم تجد جميعها، تأكد من اتصال الجهاز بنفس Apple ID المستخدم لإجراء المشتريات، وتأكد من تفعيل iCloud.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="قائمة المشتريات في الإعدادات في Evervideo" image="/docs/guide/evervideo/img/evervideo-purhases-menu-in-settings.webp" >}}
+  {{< ls-card title="" subtitle="قائمة المشتريات في الإعدادات في Evervideo" image="/docs/guide/evervideo/img/evervideo-purhases-menu-in-settings.webp" >}}
 {{< /cards >}}
 
 ## تجربة Premium مجاناً

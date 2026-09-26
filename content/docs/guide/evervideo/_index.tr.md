@@ -74,18 +74,18 @@ Bu rehber, iPhone, iPad ve Mac'te Evervideo'nun her bölümünü size anlatır �
 
 {{< cards cols="2">}}
 
-{{< card icon="map" link="/docs/guide/evervideo/evervideo-guide-navigation" title="Navigasyon" subtitle="iPhone'da Sekme Çubuğu, iPad ve Mac'te Sol Menü, kompakt her zaman görünür medya oynatıcı." >}}
+{{< ls-card icon="map" link="/docs/guide/evervideo/evervideo-guide-navigation" title="Navigasyon" subtitle="iPhone'da Sekme Çubuğu, iPad ve Mac'te Sol Menü, kompakt her zaman görünür medya oynatıcı." >}}
 
-{{< card icon="folder" link="/docs/guide/evervideo/evervideo-guide-files" title="Dosyalar" subtitle="Bulut, NAS, RTSP akışları, yerel dosyalar, USB sürücüler ve aktarım kuyruğu için birleşik sekme." >}}
+{{< ls-card icon="folder" link="/docs/guide/evervideo/evervideo-guide-files" title="Dosyalar" subtitle="Bulut, NAS, RTSP akışları, yerel dosyalar, USB sürücüler ve aktarım kuyruğu için birleşik sekme." >}}
 
-{{< card icon="collection" link="/docs/guide/evervideo/evervideo-guide-video-library" title="Medya Kütüphanesi" subtitle="Albümlere, Türlere, Son Oynatılanlara, Favorilere göre göz atın — ayrıca iOS Photos kütüphanesi ve Apple Music." >}}
+{{< ls-card icon="collection" link="/docs/guide/evervideo/evervideo-guide-video-library" title="Medya Kütüphanesi" subtitle="Albümlere, Türlere, Son Oynatılanlara, Favorilere göre göz atın — ayrıca iOS Photos kütüphanesi ve Apple Music." >}}
 
-{{< card icon="music-note" link="/docs/guide/evervideo/evervideo-guide-playlists" title="Oynatma Listeleri" subtitle="Bulut, yerel, Photos veya Music kütüphanesinden oynatma listeleri oluşturun, M3U / M3U8 / CUE içe aktarın." >}}
+{{< ls-card icon="music-note" link="/docs/guide/evervideo/evervideo-guide-playlists" title="Oynatma Listeleri" subtitle="Bulut, yerel, Photos veya Music kütüphanesinden oynatma listeleri oluşturun, M3U / M3U8 / CUE içe aktarın." >}}
 
-{{< card icon="play" link="/docs/guide/evervideo/evervideo-guide-player" title="Medya Oynatıcı" subtitle="Picture-in-Picture, ses ve video parçaları, altyazılar, ses ve video ekolayzerler, AirPlay, Chromecast." >}}
+{{< ls-card icon="play" link="/docs/guide/evervideo/evervideo-guide-player" title="Medya Oynatıcı" subtitle="Picture-in-Picture, ses ve video parçaları, altyazılar, ses ve video ekolayzerler, AirPlay, Chromecast." >}}
 
-{{< card icon="adjustments" link="/docs/guide/evervideo/evervideo-guide-settings" title="Ayarlar" subtitle="Ses motoru, video kod çözücü, altyazılar, kütüphane, dosya yöneticisi, widget'lar, kişiselleştirme, dil, yedekleme." >}}
+{{< ls-card icon="adjustments" link="/docs/guide/evervideo/evervideo-guide-settings" title="Ayarlar" subtitle="Ses motoru, video kod çözücü, altyazılar, kütüphane, dosya yöneticisi, widget'lar, kişiselleştirme, dil, yedekleme." >}}
 
-{{< card icon="question-mark-circle" link="/docs/faq/evervideo" title="SSS" subtitle="Evervideo hakkındaki en yaygın sorulara cevaplar bulun." >}}
+{{< ls-card icon="question-mark-circle" link="/docs/faq/evervideo" title="SSS" subtitle="Evervideo hakkındaki en yaygın sorulara cevaplar bulun." >}}
 
 {{< /cards >}}

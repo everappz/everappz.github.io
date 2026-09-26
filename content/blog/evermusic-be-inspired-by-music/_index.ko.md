@@ -14,7 +14,7 @@ authors:
     image: "/images/about/artem-meleshko-founder-everappz.webp"
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 **요약:** iPhone과 Mac에서 클라우드 음악 스트리밍, 오프라인 재생, 오디오 커스터마이징을 실제로 보여주는 공식 Evermusic 프로모션 영상을 시청하세요.
 
@@ -24,7 +24,7 @@ authors:
 
 iPhone에서 클라우드 음악 스트리밍, 재생 목록 관리, 고품질 오디오를 제공하는 Evermusic을 실제로 확인하세요:
 
-{{< youtubecard id="6mm3LVT4rtA" title="Evermusic Promo Video" >}}
+{{< ls-youtubecard id="6mm3LVT4rtA" title="Evermusic Promo Video" >}}
 
 ## 영상에서 확인할 수 있는 내용
 
@@ -41,14 +41,14 @@ Evermusic은 iPhone, iPad, Mac에서 사용할 수 있습니다. App Store에서
 
 ## FAQ
 
-{{% details title="Evermusic이란 무엇인가요?" closed="true" %}}
+{{% ls-details title="Evermusic이란 무엇인가요?" closed="true" %}}
 Evermusic은 Dropbox, Google Drive, OneDrive, iCloud Drive와 같은 클라우드 서비스에서 오디오를 스트리밍하는 iOS 및 macOS용 음악 플레이어입니다. 오프라인 재생도 지원하며 내장 이퀄라이저가 포함되어 있습니다.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Evermusic은 어떤 클라우드 서비스를 지원하나요?" closed="true" %}}
+{{% ls-details title="Evermusic은 어떤 클라우드 서비스를 지원하나요?" closed="true" %}}
 Evermusic은 Dropbox, Google Drive, OneDrive, iCloud Drive, pCloud, Yandex.Disk 및 기타 여러 클라우드 스토리지 서비스에 연결됩니다.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Evermusic은 무료인가요?" closed="true" %}}
+{{% ls-details title="Evermusic은 무료인가요?" closed="true" %}}
 Evermusic은 무료로 다운로드할 수 있으며, 인앱 구매를 통해 선택적 프리미엄 기능을 이용할 수 있습니다.
-{{% /details %}}
+{{% /ls-details %}}

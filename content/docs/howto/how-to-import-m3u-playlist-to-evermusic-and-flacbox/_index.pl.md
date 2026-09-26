@@ -7,7 +7,7 @@ tags: ["evermusic", "import", "listy odtwarzania", "m3u", "cue"]
 readingTime: 3
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **Podsumowanie:** Evermusic i Flacbox obsługują import plików list odtwarzania M3U, M3U8 i CUE z pamięci w chmurze, lokalnych plików aplikacji lub urządzenia. Przejdź do Listy odtwarzania > Więcej > Importuj listę odtwarzania, wybierz źródło, wybierz plik, a aplikacja automatycznie utworzy listę odtwarzania.
@@ -84,22 +84,22 @@ Dodatkowo możesz zaimportować wiele list odtwarzania jednocześnie, dotykając
 
 ## Najczęściej zadawane pytania
 
-{{% details title="Jakie formaty list odtwarzania obsługują Evermusic i Flacbox?" closed="true" %}}
+{{% ls-details title="Jakie formaty list odtwarzania obsługują Evermusic i Flacbox?" closed="true" %}}
 Obie aplikacje obsługują formaty plików list odtwarzania M3U, M3U8 i CUE. Obejmują one najczęściej używane standardy list odtwarzania stosowane przez odtwarzacze muzyki i oprogramowanie multimedialne.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Czy mogę importować listy odtwarzania z pamięci w chmurze?" closed="true" %}}
+{{% ls-details title="Czy mogę importować listy odtwarzania z pamięci w chmurze?" closed="true" %}}
 Tak. Możesz importować pliki list odtwarzania z dowolnej połączonej usługi pamięci w chmurze, w tym Google Drive, Dropbox, OneDrive i serwerów WebDAV.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Dlaczego po imporcie brakuje niektórych utworów?" closed="true" %}}
+{{% ls-details title="Dlaczego po imporcie brakuje niektórych utworów?" closed="true" %}}
 Plik listy odtwarzania musi zawierać prawidłowe ścieżki do plików multimedialnych, a pliki te muszą istnieć w określonych lokalizacjach w pamięci. Sprawdź, czy ścieżki plików w pliku M3U lub CUE odpowiadają rzeczywistym lokalizacjom plików.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Czy mogę zaimportować wiele list odtwarzania jednocześnie?" closed="true" %}}
+{{% ls-details title="Czy mogę zaimportować wiele list odtwarzania jednocześnie?" closed="true" %}}
 Tak. Użyj przycisku Więcej akcji i wybierz "Importuj listy odtwarzania z folderu". Aplikacja przeskanuje folder w poszukiwaniu wszystkich obsługiwanych plików list odtwarzania i zaimportuje je w jednym kroku.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Czy muszę ręcznie tworzyć listy odtwarzania?" closed="true" %}}
+{{% ls-details title="Czy muszę ręcznie tworzyć listy odtwarzania?" closed="true" %}}
 Nie. Funkcja importu eliminuje ręczne tworzenie list odtwarzania. Po prostu wskaż aplikacji istniejący plik M3U, M3U8 lub CUE, a automatycznie utworzy listę odtwarzania.
-{{% /details %}}
+{{% /ls-details %}}

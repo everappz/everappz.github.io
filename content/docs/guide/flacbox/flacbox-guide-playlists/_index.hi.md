@@ -20,7 +20,7 @@ Playlists सेक्शन में, आपको अपने म्यू�
 Flacbox में प्लेलिस्ट ऑनलाइन क्लाउड ट्रैक, ऑफलाइन डाउनलोड की गई फाइलें और आपके डिवाइस की लोकल फाइलों का मिश्रण — सभी एक प्लेलिस्ट में — रख सकती हैं और निर्बाध रूप से एक साथ चला सकती हैं।
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox Playlists Main Screen" image="/docs/guide/flacbox/img/playlists-main.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox Playlists Main Screen" image="/docs/guide/flacbox/img/playlists-main.webp" >}}
 {{< /cards >}}
 
 ## प्लेलिस्ट बनाना
@@ -63,7 +63,7 @@ Flacbox में, हमने M3U / M3U8 / CUE फ़ाइल इम्पो
 - **Offline Mode** — इस प्लेलिस्ट के सभी ट्रैक लोकल फाइलों में डाउनलोड करें। प्लेलिस्ट में जोड़े गए कोई भी नए आइटम भी स्वचालित रूप से डाउनलोड होते हैं।
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox Playlist Detail Screen" image="/docs/guide/flacbox/img/playlist-details-screen.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox Playlist Detail Screen" image="/docs/guide/flacbox/img/playlist-details-screen.webp" >}}
 {{< /cards >}}
 
 ## Playlists स्क्रीन में एक प्लेलिस्ट के लिए अधिक क्रियाएं
@@ -82,7 +82,7 @@ Flacbox में, हमने M3U / M3U8 / CUE फ़ाइल इम्पो
 - **Delete Playlist** — म्यूज़िक लाइब्रेरी से प्लेलिस्ट हटाएं। **यह क्रिया पूर्ववत नहीं की जा सकती।**
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox More Actions for a Playlist on the Playlists Main Screen" image="/docs/guide/flacbox/img/more-actions-for-playlist-in-playlists-main-screen.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox More Actions for a Playlist on the Playlists Main Screen" image="/docs/guide/flacbox/img/more-actions-for-playlist-in-playlists-main-screen.webp" >}}
 {{< /cards >}}
 
 ## Playlist Detail Screen में एक प्लेलिस्ट के लिए अधिक क्रियाएं
@@ -110,7 +110,7 @@ Flacbox में, हमने M3U / M3U8 / CUE फ़ाइल इम्पो
 लंबी प्लेलिस्ट पर और भी सरल वर्कफ़्लो के लिए, समर्पित drag-and-drop क्रम मोड में जाने के लिए More Actions → Rearrange Songs चुनें।
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox Rearrange Songs in a Playlist" image="/docs/guide/flacbox/img/playlist-details-rearange-songs.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox Rearrange Songs in a Playlist" image="/docs/guide/flacbox/img/playlist-details-rearange-songs.webp" >}}
 {{< /cards >}}
 
 ## प्लेलिस्ट कवर छवि बदलना
@@ -126,7 +126,7 @@ Flacbox में, हमने M3U / M3U8 / CUE फ़ाइल इम्पो
 प्लेलिस्ट खोलें, ऊपर-दाईं ओर **"..."** बटन टैप करें, और चयन मोड में जाने के लिए **Select** चुनें। वे ट्रैक चुनें जिन्हें आप हटाना चाहते हैं और स्क्रीन के नीचे **Delete from Playlist** टैप करें। **Done** टैप करके पुष्टि करें।
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox Selection Mode in the Playlist Detail Screen" image="/docs/guide/flacbox/img/selection-mode-playlist-details-screen.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox Selection Mode in the Playlist Detail Screen" image="/docs/guide/flacbox/img/selection-mode-playlist-details-screen.webp" >}}
 {{< /cards >}}
 
 ## ट्रैक विकल्प

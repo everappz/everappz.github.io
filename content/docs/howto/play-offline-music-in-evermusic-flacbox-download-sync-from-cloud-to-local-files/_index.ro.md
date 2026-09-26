@@ -7,7 +7,7 @@ tags: ["muzică", "audio", "player", "offline", "mod", "descărcare", "folder", 
 keywords: ["muzică offline iPhone", "sincronizare muzică cloud", "Evermusic offline", "Flacbox sincronizare muzică", "redare muzică fără internet", "descărcare audio din cloud", "redare fișiere locale iOS"]
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **TL;DR:** Evermusic și Flacbox vă permit să descărcați muzică din stocarea în cloud (Google Drive, Dropbox, OneDrive și altele) pe iPhone sau iPad pentru redare offline. Puteți folosi trei metode: descărcare directă, mod offline cu sincronizare automată sau cache-ul playerului audio. Acest ghid acoperă toate cele trei abordări pas cu pas.
@@ -140,26 +140,26 @@ Urmând acești pași detaliați, puteți gestiona și reda fără probleme muzi
 
 ## Întrebări frecvente
 
-{{% details title="Ce servicii cloud suportă Evermusic și Flacbox?" closed="true" %}}
+{{% ls-details title="Ce servicii cloud suportă Evermusic și Flacbox?" closed="true" %}}
 Ambele aplicații suportă Google Drive, Dropbox, OneDrive, Box, MEGA, Yandex.Disk și alți furnizori importanți de stocare în cloud. Puteți conecta mai multe servicii simultan.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Pot sincroniza muzica automat din stocarea în cloud pe iPhone-ul meu?" closed="true" %}}
+{{% ls-details title="Pot sincroniza muzica automat din stocarea în cloud pe iPhone-ul meu?" closed="true" %}}
 Da. Activați Modul offline pentru orice folder, listă de redare, album sau artist. Aplicația efectuează o sincronizare unidirecțională din cloud pe dispozitiv la un interval configurabil (implicit: o dată pe zi).
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Modul offline folosește mult spațiu de stocare pe dispozitivul meu?" closed="true" %}}
+{{% ls-details title="Modul offline folosește mult spațiu de stocare pe dispozitivul meu?" closed="true" %}}
 Utilizarea stocării depinde de dimensiunea colecției dvs. de muzică și de formatele fișierelor. Puteți controla acest lucru alegând foldere specifice pentru sincronizare, setând limite de dimensiune a cache-ului și monitorizând stocarea în setările aplicației.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Ce formate audio sunt suportate pentru redare offline?" closed="true" %}}
+{{% ls-details title="Ce formate audio sunt suportate pentru redare offline?" closed="true" %}}
 Evermusic și Flacbox suportă MP3, FLAC, AAC, ALAC, WAV, AIFF, OGG, WMA și multe alte formate. Flacbox este optimizat pentru formate fără pierderi precum FLAC și ALAC.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Muzica mea offline va continua să fie redată dacă închid aplicația?" closed="true" %}}
+{{% ls-details title="Muzica mea offline va continua să fie redată dacă închid aplicația?" closed="true" %}}
 Da. Fișierele descărcate sunt stocate local pe dispozitivul dvs. și sunt redate prin playerul audio al aplicației indiferent de conectivitatea la internet. Redarea în fundal este pe deplin suportată.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Cum eliberez spațiul ocupat de muzica offline?" closed="true" %}}
+{{% ls-details title="Cum eliberez spațiul ocupat de muzica offline?" closed="true" %}}
 Dezactivați Modul offline pentru foldere specifice în Setări > Manager de fișiere > Foldere offline sincronizate. Aceasta elimină copiile locale de pe dispozitivul dvs. De asemenea, puteți goli cache-ul playerului audio sau șterge manual fișierele descărcate.
-{{% /details %}}
+{{% /ls-details %}}

@@ -6,7 +6,7 @@ tags: ["로컬 음악", "오프라인 음악", "음악 플레이어", "iPhone", 
 keywords: ["iPhone에서 로컬 음악 재생하는 방법", "기기 저장소에서 음악 재생", "iOS 오프라인 음악 플레이어", "Evermusic 앱 튜토리얼", "Flacbox FLAC 플레이어", "iOS 로컬 파일 재생", "Mac 음악 라이브러리", "로컬 파일용 음악 앱", "iPhone 다운로드한 곡 재생", "Evermusic으로 로컬 파일 사용하는 방법"]
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **요약:** [Evermusic](/products/evermusic)(MP3/WAV) 또는 [Flacbox](/products/flacbox)(FLAC/DSD)를 설치하고, 로컬 오디오 파일이나 폴더를 열어 재생을 시작하세요. 빠른 접근을 위해 폴더를 **즐겨찾기**에 추가하거나, 트랙을 음악 라이브러리로 가져오거나, **재생 목록**을 만들 수 있습니다.
@@ -24,10 +24,10 @@ Apple 기기에서 로컬 음악을 원활하게 재생하는 방법과 도구�
 iPhone과 Mac에서 로컬 음악의 세계로 여행을 시작하려면, Evermusic(mp3, wav 같은 표준 오디오 형식용) 또는 Flacbox(dsd, flac의 무손실 음악용)를 설치하세요. 두 앱 모두 iOS와 MacOS에서 사용할 수 있으며, 무료로 다운로드할 수 있습니다.
 
 {{< cards >}}
-  {{< card link="https://apps.apple.com/us/app/evermusic-cloud-music-player/id885367198?pt=95781850&ct=everappzcom&mt=8" title="iOS용 Evermusic 다운로드" tag="iOS" >}}
-  {{< card link="https://apps.apple.com/us/app/flacbox-hi-res-equalizer/id1097564256?pt=95781850&ct=everappzcom&mt=8" title="iOS용 Flacbox 다운로드" tag="iOS" >}}
-  {{< card link="https://apps.apple.com/us/app/evermusic-hi-res-music-player/id1564384601?pt=95781850&ct=everappzcom&mt=8" title="Mac용 Evermusic 다운로드" tag="macOS" >}}
-  {{< card link="https://apps.apple.com/us/app/flacbox-hi-res-music-player/id1594027432?pt=95781850&ct=everappzcom&mt=8" title="Mac용 Flacbox 다운로드" tag="macOS" >}}
+  {{< ls-card link="https://apps.apple.com/us/app/evermusic-cloud-music-player/id885367198?pt=95781850&ct=everappzcom&mt=8" title="iOS용 Evermusic 다운로드" tag="iOS" >}}
+  {{< ls-card link="https://apps.apple.com/us/app/flacbox-hi-res-equalizer/id1097564256?pt=95781850&ct=everappzcom&mt=8" title="iOS용 Flacbox 다운로드" tag="iOS" >}}
+  {{< ls-card link="https://apps.apple.com/us/app/evermusic-hi-res-music-player/id1564384601?pt=95781850&ct=everappzcom&mt=8" title="Mac용 Evermusic 다운로드" tag="macOS" >}}
+  {{< ls-card link="https://apps.apple.com/us/app/flacbox-hi-res-music-player/id1594027432?pt=95781850&ct=everappzcom&mt=8" title="Mac용 Flacbox 다운로드" tag="macOS" >}}
 {{< /cards >}}
 
 
@@ -135,22 +135,22 @@ iPhone 또는 iPad에 있는 오디오 파일을 단순히 재생하는 것 이�
 
 ## FAQ
 
-{{% details title="Evermusic과 Flacbox는 어떤 오디오 형식을 재생할 수 있나요?" closed="true" %}}
+{{% ls-details title="Evermusic과 Flacbox는 어떤 오디오 형식을 재생할 수 있나요?" closed="true" %}}
 Evermusic은 MP3, WAV, AAC, M4A 및 기타 표준 형식을 재생합니다. Flacbox는 FLAC, DSD, OGG, OPUS, APE, WMA, ALAC 지원을 추가합니다.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="이 앱들은 파일을 앱 저장소에 복사하나요?" closed="true" %}}
+{{% ls-details title="이 앱들은 파일을 앱 저장소에 복사하나요?" closed="true" %}}
 기본적으로 파일은 복사되지 않고 원래 위치에서 재생됩니다. 이 동작을 변경하려면 **설정** > File manager에서 "Always copy files during opening"을 활성화하세요.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="로컬 음악을 아티스트와 앨범별로 정리할 수 있나요?" closed="true" %}}
+{{% ls-details title="로컬 음악을 아티스트와 앨범별로 정리할 수 있나요?" closed="true" %}}
 네. 파일을 음악 라이브러리로 가져오면(4단계) 앱이 메타데이터를 읽어 아티스트, 앨범, 장르, 작곡가별로 트랙을 그룹화합니다.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="컴퓨터에서 iPhone으로 음악을 전송하려면 어떻게 하나요?" closed="true" %}}
+{{% ls-details title="컴퓨터에서 iPhone으로 음악을 전송하려면 어떻게 하나요?" closed="true" %}}
 iTunes 파일 공유(USB), WiFi Drive(무선) 또는 SMB(스트리밍)를 사용하세요. 자세한 가이드를 참조하세요: [iPhone에서 로컬 iTunes 파일 재생하기](/docs/howto/how-to-play-local-itunes-files-on-my-iphone/).
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Evermusic과 Flacbox는 무료인가요?" closed="true" %}}
+{{% ls-details title="Evermusic과 Flacbox는 무료인가요?" closed="true" %}}
 네, 두 앱 모두 재생, 이퀄라이저, 클라우드 스트리밍을 포함한 핵심 기능과 함께 무료로 다운로드할 수 있습니다. 무료 버전에는 일부 제한(**재생 목록** 수, 클라우드 계정, 오프라인 폴더)이 있습니다. 프리미엄으로 업그레이드하면 이러한 제한이 해제됩니다.
-{{% /details %}}
+{{% /ls-details %}}

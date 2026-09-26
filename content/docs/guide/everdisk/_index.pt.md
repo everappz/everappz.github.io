@@ -28,19 +28,19 @@ Este guia explica cada parte da aplicação passo a passo. Escolha uma secção 
 
 
 {{< cards >}}
-  {{< card icon="play" title="Partilha" subtitle="Toque em Iniciar, escolha o que partilhar e execute os cinco servidores ao mesmo tempo. Conheça o ecrã de Partilha de uma ponta à outra." link="/docs/guide/everdisk/everdisk-guide-sharing" >}}
+  {{< ls-card icon="play" title="Partilha" subtitle="Toque em Iniciar, escolha o que partilhar e execute os cinco servidores ao mesmo tempo. Conheça o ecrã de Partilha de uma ponta à outra." link="/docs/guide/everdisk/everdisk-guide-sharing" >}}
 
-  {{< card icon="desktop-computer" title="Ligar os Seus Dispositivos" subtitle="Como uma TV, um Mac ou PC, um navegador de Internet, outro telemóvel ou um cabo USB se ligam aos ficheiros que partilha." link="/docs/guide/everdisk/everdisk-guide-connect" >}}
+  {{< ls-card icon="desktop-computer" title="Ligar os Seus Dispositivos" subtitle="Como uma TV, um Mac ou PC, um navegador de Internet, outro telemóvel ou um cabo USB se ligam aos ficheiros que partilha." link="/docs/guide/everdisk/everdisk-guide-connect" >}}
 
-  {{< card icon="server" title="Ligar a Servidores" subtitle="Aceda a outros servidores DLNA, WebDAV, FTP, SFTP e SMB e unidades NAS da sua rede para explorar, transmitir e transferir." link="/docs/guide/everdisk/everdisk-guide-devices" >}}
+  {{< ls-card icon="server" title="Ligar a Servidores" subtitle="Aceda a outros servidores DLNA, WebDAV, FTP, SFTP e SMB e unidades NAS da sua rede para explorar, transmitir e transferir." link="/docs/guide/everdisk/everdisk-guide-devices" >}}
 
-  {{< card icon="folder" title="Ficheiros e Documentos" subtitle="Explore, crie pastas, mude o nome, mova, copie e elimine, comprima e extraia, ligue pastas externas e digitalize para PDF." link="/docs/guide/everdisk/everdisk-guide-files" >}}
+  {{< ls-card icon="folder" title="Ficheiros e Documentos" subtitle="Explore, crie pastas, mude o nome, mova, copie e elimine, comprima e extraia, ligue pastas externas e digitalize para PDF." link="/docs/guide/everdisk/everdisk-guide-files" >}}
 
-  {{< card icon="music-note" title="Fotografias, Música e Vídeo" subtitle="Partilhe toda a sua biblioteca de fotografias e música, reproduza áudio no mini leitor e veja vídeo em ecrã inteiro." link="/docs/guide/everdisk/everdisk-guide-media" >}}
+  {{< ls-card icon="music-note" title="Fotografias, Música e Vídeo" subtitle="Partilhe toda a sua biblioteca de fotografias e música, reproduza áudio no mini leitor e veja vídeo em ecrã inteiro." link="/docs/guide/everdisk/everdisk-guide-media" >}}
 
-  {{< card icon="lock-closed" title="Acesso e Privacidade" subtitle="Proteja a partilha com um início de sessão e palavra-passe, permita ou bloqueie a edição, bloqueie dispositivos e mantenha tudo local." link="/docs/guide/everdisk/everdisk-guide-access" >}}
+  {{< ls-card icon="lock-closed" title="Acesso e Privacidade" subtitle="Proteja a partilha com um início de sessão e palavra-passe, permita ou bloqueie a edição, bloqueie dispositivos e mantenha tudo local." link="/docs/guide/everdisk/everdisk-guide-access" >}}
 
-  {{< card icon="adjustments" title="Definições" subtitle="Todas as definições explicadas: perfil do dispositivo, ligações, qualidade de fotografias e vídeos, portas, transferências e muito mais." link="/docs/guide/everdisk/everdisk-guide-settings" >}}
+  {{< ls-card icon="adjustments" title="Definições" subtitle="Todas as definições explicadas: perfil do dispositivo, ligações, qualidade de fotografias e vídeos, portas, transferências e muito mais." link="/docs/guide/everdisk/everdisk-guide-settings" >}}
 
-  {{< card icon="question-mark-circle" title="FAQ" subtitle="Respostas rápidas às perguntas mais frequentes e a cenários do dia a dia." link="/docs/faq/everdisk" >}}
+  {{< ls-card icon="question-mark-circle" title="FAQ" subtitle="Respostas rápidas às perguntas mais frequentes e a cenários do dia a dia." link="/docs/faq/everdisk" >}}
 {{< /cards >}}

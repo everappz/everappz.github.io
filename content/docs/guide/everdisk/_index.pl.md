@@ -28,19 +28,19 @@ Ten przewodnik krok po kroku wyjaśnia każdą część aplikacji. Wybierz sekcj
 
 
 {{< cards >}}
-  {{< card icon="play" title="Udostępnianie" subtitle="Dotknij Start, wybierz, co udostępnić, i uruchom wszystkie pięć serwerów naraz. Poznaj ekran Udostępniania od podstaw." link="/docs/guide/everdisk/everdisk-guide-sharing" >}}
+  {{< ls-card icon="play" title="Udostępnianie" subtitle="Dotknij Start, wybierz, co udostępnić, i uruchom wszystkie pięć serwerów naraz. Poznaj ekran Udostępniania od podstaw." link="/docs/guide/everdisk/everdisk-guide-sharing" >}}
 
-  {{< card icon="desktop-computer" title="Podłącz swoje urządzenia" subtitle="Jak telewizor, Mac lub PC, przeglądarka, inny telefon albo kabel USB łączą się z udostępnionymi plikami." link="/docs/guide/everdisk/everdisk-guide-connect" >}}
+  {{< ls-card icon="desktop-computer" title="Podłącz swoje urządzenia" subtitle="Jak telewizor, Mac lub PC, przeglądarka, inny telefon albo kabel USB łączą się z udostępnionymi plikami." link="/docs/guide/everdisk/everdisk-guide-connect" >}}
 
-  {{< card icon="server" title="Połącz z serwerami" subtitle="Sięgnij po inne serwery DLNA, WebDAV, FTP, SFTP i SMB oraz dyski NAS w sieci, aby przeglądać, odtwarzać strumieniowo i pobierać." link="/docs/guide/everdisk/everdisk-guide-devices" >}}
+  {{< ls-card icon="server" title="Połącz z serwerami" subtitle="Sięgnij po inne serwery DLNA, WebDAV, FTP, SFTP i SMB oraz dyski NAS w sieci, aby przeglądać, odtwarzać strumieniowo i pobierać." link="/docs/guide/everdisk/everdisk-guide-devices" >}}
 
-  {{< card icon="folder" title="Pliki i dokumenty" subtitle="Przeglądaj, twórz foldery, zmieniaj nazwy, przenoś, kopiuj i usuwaj, pakuj i rozpakowuj, podłączaj foldery zewnętrzne i skanuj do PDF." link="/docs/guide/everdisk/everdisk-guide-files" >}}
+  {{< ls-card icon="folder" title="Pliki i dokumenty" subtitle="Przeglądaj, twórz foldery, zmieniaj nazwy, przenoś, kopiuj i usuwaj, pakuj i rozpakowuj, podłączaj foldery zewnętrzne i skanuj do PDF." link="/docs/guide/everdisk/everdisk-guide-files" >}}
 
-  {{< card icon="music-note" title="Zdjęcia, muzyka i wideo" subtitle="Udostępnij całą bibliotekę zdjęć i muzyki, odtwarzaj dźwięk w miniodtwarzaczu i oglądaj filmy na pełnym ekranie." link="/docs/guide/everdisk/everdisk-guide-media" >}}
+  {{< ls-card icon="music-note" title="Zdjęcia, muzyka i wideo" subtitle="Udostępnij całą bibliotekę zdjęć i muzyki, odtwarzaj dźwięk w miniodtwarzaczu i oglądaj filmy na pełnym ekranie." link="/docs/guide/everdisk/everdisk-guide-media" >}}
 
-  {{< card icon="lock-closed" title="Dostęp i prywatność" subtitle="Zabezpiecz udostępnianie loginem i hasłem, zezwalaj na edycję lub ją blokuj, blokuj urządzenia i trzymaj wszystko lokalnie." link="/docs/guide/everdisk/everdisk-guide-access" >}}
+  {{< ls-card icon="lock-closed" title="Dostęp i prywatność" subtitle="Zabezpiecz udostępnianie loginem i hasłem, zezwalaj na edycję lub ją blokuj, blokuj urządzenia i trzymaj wszystko lokalnie." link="/docs/guide/everdisk/everdisk-guide-access" >}}
 
-  {{< card icon="adjustments" title="Ustawienia" subtitle="Wyjaśnienie każdego ustawienia: profil urządzenia, połączenia, jakość zdjęć i wideo, porty, transfery i więcej." link="/docs/guide/everdisk/everdisk-guide-settings" >}}
+  {{< ls-card icon="adjustments" title="Ustawienia" subtitle="Wyjaśnienie każdego ustawienia: profil urządzenia, połączenia, jakość zdjęć i wideo, porty, transfery i więcej." link="/docs/guide/everdisk/everdisk-guide-settings" >}}
 
-  {{< card icon="question-mark-circle" title="FAQ" subtitle="Szybkie odpowiedzi na najczęstsze pytania i sytuacje z życia wzięte." link="/docs/faq/everdisk" >}}
+  {{< ls-card icon="question-mark-circle" title="FAQ" subtitle="Szybkie odpowiedzi na najczęstsze pytania i sytuacje z życia wzięte." link="/docs/faq/everdisk" >}}
 {{< /cards >}}

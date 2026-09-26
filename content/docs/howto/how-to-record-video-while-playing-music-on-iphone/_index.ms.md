@@ -7,7 +7,7 @@ keywords: ["rakam video sambil mainkan muzik di iPhone", "cara mainkan muzik sem
 readingTime: 1
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **Ringkasan:** Tetapkan output audio Evermusic kepada "Mod Campuran," mulakan memainkan trek, kemudian buka aplikasi Kamera anda dan rakam. Muzik akan terus dimainkan di latar belakang. Berfungsi dengan TikTok, Instagram, dan mana-mana aplikasi kamera.
@@ -45,22 +45,22 @@ Trik ini berfungsi pada setiap iPhone.
 
 ## Soalan Lazim
 
-{{% details title="Adakah muzik latar belakang dirakam ke dalam video?" closed="true" %}}
+{{% ls-details title="Adakah muzik latar belakang dirakam ke dalam video?" closed="true" %}}
 Muzik dimainkan melalui pembesar suara iPhone, jadi mikrofon akan menangkapnya bersama bunyi persekitaran lain. Untuk audio yang lebih bersih, pertimbangkan untuk menggunakan pembesar suara luaran yang diletakkan berhampiran mikrofon.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Adakah ini berfungsi dengan TikTok dan Instagram?" closed="true" %}}
+{{% ls-details title="Adakah ini berfungsi dengan TikTok dan Instagram?" closed="true" %}}
 Ya. Setelah Evermusic ditetapkan kepada Mod Campuran dan trek sedang dimainkan, muzik akan terus dimainkan apabila anda membuka TikTok, Instagram, atau mana-mana aplikasi kamera atau rakaman lain.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Apakah Mod Campuran dalam Evermusic?" closed="true" %}}
+{{% ls-details title="Apakah Mod Campuran dalam Evermusic?" closed="true" %}}
 Mod Campuran ialah tetapan output audio yang membolehkan Evermusic berkongsi sesi audio dengan aplikasi lain. Ini menghalang muzik daripada berhenti apabila aplikasi lain mengakses mikrofon atau kamera.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Bolehkah saya menggunakan Flacbox sebagai ganti Evermusic untuk ini?" closed="true" %}}
+{{% ls-details title="Bolehkah saya menggunakan Flacbox sebagai ganti Evermusic untuk ini?" closed="true" %}}
 Ya. Flacbox juga menyokong mod output audio Campuran. Langkah-langkahnya sama: aktifkan Mod Campuran dalam Tetapan, mulakan main balik, dan buka aplikasi kamera anda.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Bolehkah saya bermain permainan semasa muzik dari Evermusic dimainkan di latar belakang?" closed="true" %}}
+{{% ls-details title="Bolehkah saya bermain permainan semasa muzik dari Evermusic dimainkan di latar belakang?" closed="true" %}}
 Ya. Dengan Mod Campuran diaktifkan, muzik dari Evermusic akan terus dimainkan apabila anda membuka mana-mana permainan atau aplikasi. Audio permainan dan muzik anda akan dimainkan pada masa yang sama.
-{{% /details %}}
+{{% /ls-details %}}

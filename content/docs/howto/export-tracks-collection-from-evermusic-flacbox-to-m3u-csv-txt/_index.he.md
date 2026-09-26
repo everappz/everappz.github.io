@@ -6,7 +6,7 @@ keywords: ["ייצוא evermusic", "ייצוא flacbox", "ייצוא ל-m3u", "�
 tags: ["evermusic", "עדכונים אחרונים", "מועדפים", "ייצוא", "m3u", "רשימת השמעה", "csv", "txt", "אלבום"]
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **בקצרה:** Evermusic ו-Flacbox מאפשרים לכם לייצא כל אוסף שירים (עדכונים אחרונים, מועדפים, רשימות השמעה, אלבומים) לקבצי CSV, TXT או M3U. השתמשו בייצוא אלה כדי לסקרבל ל-Last.fm, לגבות את הספרייה שלכם או להשמיע את רשימות ההשמעה שלכם במכשירים אחרים.
@@ -157,22 +157,22 @@ https://cloud.com/dfgfdguh45tgkbfgr/filecontent
 
 ## שאלות נפוצות
 
-{{% details title="באיזה פורמט ייצוא עלי להשתמש לסקרובלינג ב-Last.fm?" closed="true" %}}
+{{% ls-details title="באיזה פורמט ייצוא עלי להשתמש לסקרובלינג ב-Last.fm?" closed="true" %}}
 השתמשו ב-CSV. הוא כולל חותמות זמן ומטה-דאטה מלאים הנדרשים על ידי כלי סקרובלינג כמו Last.fm-Scrubbler-WPF.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="האם אני יכול לייצא כל אוסף שירים, לא רק רשימות השמעה?" closed="true" %}}
+{{% ls-details title="האם אני יכול לייצא כל אוסף שירים, לא רק רשימות השמעה?" closed="true" %}}
 כן. תוכלו לייצא עדכונים אחרונים, מועדפים, אלבומים, רשימות השמעה וכל אוסף שירים אחר באפליקציה באמצעות אותם שלבים.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="האם רשימת ההשמעה שלי ב-M3U תעבוד במכשירים אחרים?" closed="true" %}}
+{{% ls-details title="האם רשימת ההשמעה שלי ב-M3U תעבוד במכשירים אחרים?" closed="true" %}}
 אם תבחרו באפשרות URL מוחלט בעת הייצוא, ניתן להשמיע את קובץ ה-M3U בכל מכשיר התומך ברשימות השמעה M3U. שימו לב שחלק מכתובות ה-URL של הענן עשויות לפוג עם הזמן.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="האם תכונת הייצוא חינמית?" closed="true" %}}
+{{% ls-details title="האם תכונת הייצוא חינמית?" closed="true" %}}
 כן. ייצוא אוספי שירים ל-M3U, CSV ו-TXT זמין הן בגרסאות החינמיות והן בגרסאות הפרימיום של Evermusic ו-Flacbox.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="אילו שירותי ענן תומכים בייצוא URL מוחלט?" closed="true" %}}
+{{% ls-details title="אילו שירותי ענן תומכים בייצוא URL מוחלט?" closed="true" %}}
 ייצוא URL מוחלט נתמך עבור iCloud Drive, pCloud, PanBaidu, MyCloudHome, DLNA, MediaFire, OneDrive, Box, Dropbox, Google Drive ו-WebDAV (במצב אורח).
-{{% /details %}}
+{{% /ls-details %}}

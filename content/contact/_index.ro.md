@@ -1,9 +1,10 @@
 ---
+excludeSearch: true
 date: '2025-06-12T17:00:00+00:00'
 title: 'Contactați-ne'
 ---
 
-{{< lottie src="/images/juicy-json/juicy-girl-typing-on-phone.json" width="60%" >}}
+{{< ls-lottie src="/images/juicy-json/juicy-girl-typing-on-phone.json" width="60%" >}}
 
 ## Adresă poștală
 
@@ -27,4 +28,4 @@ Prin trimiterea unui e-mail, confirmați că ați citit și sunteți de acord cu
 
 Urmăriți-ne pe rețelele sociale pentru a primi cele mai recente știri, actualizări ale aplicațiilor, sfaturi și informații utile:
 
-{{< social-cards >}}
+{{< ls-social-cards >}}

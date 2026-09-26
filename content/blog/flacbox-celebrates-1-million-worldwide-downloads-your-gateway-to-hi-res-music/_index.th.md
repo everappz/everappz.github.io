@@ -12,7 +12,7 @@ authors:
     image: "/images/about/artem-meleshko-founder-everappz.webp"
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 **สรุป:** Flacbox มียอดดาวน์โหลดเกิน 1 ล้านครั้งทั่วโลก รองรับ FLAC, ALAC, APE, DSD และรูปแบบไร้การสูญเสียอื่นๆ พร้อมอีควอไลเซอร์ 10 แบนด์, เพลย์ลิสต์ M3U/CUE, การเล่นออฟไลน์ และการซิงค์ข้ามอุปกรณ์บน iPhone, iPad และ Mac
 
@@ -78,26 +78,26 @@ Flacbox เล่นเพลงของคุณตรงตามที่บ
 
 ## คำถามที่พบบ่อย
 
-{{% details title="Flacbox รองรับรูปแบบเสียงอะไรบ้าง?" closed="true" %}}
+{{% ls-details title="Flacbox รองรับรูปแบบเสียงอะไรบ้าง?" closed="true" %}}
 Flacbox เล่น FLAC, ALAC, APE, DSD, WavPack, TTA, RealAudio, MP3, AAC, OGG และรูปแบบอื่นๆ อีกมากมาย ออกแบบมาเพื่อเสียงไร้การสูญเสียและ hi-res เป็นหลัก
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Flacbox มีอีควอไลเซอร์หรือไม่?" closed="true" %}}
+{{% ls-details title="Flacbox มีอีควอไลเซอร์หรือไม่?" closed="true" %}}
 มี Flacbox มีอีควอไลเซอร์ 10 แบนด์พร้อมพรีเซ็ตตามแนวเพลงและการปรับความถี่ด้วยตนเอง
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="ฉันสามารถฟังเพลงออฟไลน์ด้วย Flacbox ได้หรือไม่?" closed="true" %}}
+{{% ls-details title="ฉันสามารถฟังเพลงออฟไลน์ด้วย Flacbox ได้หรือไม่?" closed="true" %}}
 ได้ ดาวน์โหลดไฟล์จากที่เก็บข้อมูลคลาวด์หรือโอนโดยตรงไปยังแอปเพื่อเล่นออฟไลน์โดยไม่ต้องเชื่อมต่ออินเทอร์เน็ต
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Flacbox ใช้งานได้บน Mac หรือไม่?" closed="true" %}}
+{{% ls-details title="Flacbox ใช้งานได้บน Mac หรือไม่?" closed="true" %}}
 ได้ Flacbox ทำงานบน iPhone, iPad และ Mac พร้อมไลบรารีที่ซิงค์กันและประวัติการเล่นข้ามอุปกรณ์ทั้งหมด
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="การรองรับ CUE sheet คืออะไร?" closed="true" %}}
+{{% ls-details title="การรองรับ CUE sheet คืออะไร?" closed="true" %}}
 CUE sheet กำหนดขอบเขตแทร็กภายในไฟล์เสียงเดียว Flacbox อ่านไฟล์ CUE เพื่อแบ่งอัลบั้มริปเป็นแทร็กแต่ละเพลงพร้อมข้อมูลเมตาที่ถูกต้อง
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Flacbox ฟรีหรือไม่?" closed="true" %}}
+{{% ls-details title="Flacbox ฟรีหรือไม่?" closed="true" %}}
 Flacbox ดาวน์โหลดฟรีพร้อมฟีเจอร์พรีเมียมเสริมที่สามารถซื้อได้ภายในแอป
-{{% /details %}}
+{{% /ls-details %}}

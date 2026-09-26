@@ -16,7 +16,7 @@ readingTime: 3
 Evertag tilbyr et intuitivt brukergrensesnitt. Det som skiller den fra mange populære apper er den innebygde filbehandleren, som gir brukerne muligheten til å redigere lydfiler og overføre dem sømløst til og fra skylagring.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evertag-skjerm" image="/docs/guide/evertag/img/tag-editor.webp" >}}
+  {{< ls-card title="" subtitle="Evertag-skjerm" image="/docs/guide/evertag/img/tag-editor.webp" >}}
 {{< /cards >}}
 
 ## Seksjoner
@@ -42,7 +42,7 @@ Seksjonen Lokale filer er delt i to kategorier: **Filer i denne applikasjonen**,
 Praktisk talt hvert innholdselement på skjermen har en "Flere handlinger"-knapp. Trykk på den for å få tilgang til alle tilgjengelige handlinger.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evertag Flere handlinger" image="/docs/guide/evertag/img/downloads-file-actions.webp" >}}
+  {{< ls-card title="" subtitle="Evertag Flere handlinger" image="/docs/guide/evertag/img/downloads-file-actions.webp" >}}
 {{< /cards >}}
 
 ## Øverste verktøylinje

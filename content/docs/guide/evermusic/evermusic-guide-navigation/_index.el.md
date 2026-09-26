@@ -25,7 +25,7 @@ readingTime: 6
 Είτε χρησιμοποιείτε iPhone, iPad ή λειτουργία compact σε Mac, όλες οι λειτουργίες της εφαρμογής είναι εύκολα προσβάσιμες μέσω της γραμμής καρτελών στο κάτω μέρος της οθόνης. Για χρήστες iPad και Mac, το ίδιο μενού βρίσκεται στην αριστερή πλευρά της οθόνης. Αυτή η οργάνωση κατηγοριοποιεί όλες τις λειτουργίες της εφαρμογής σε εύκολα προσβάσιμες ενότητες, εξασφαλίζοντας μια φιλική προς τον χρήστη και αποτελεσματική εμπειρία.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Αριστερή πλαϊνή γραμμή Evermusic σε iPad και Mac" image="/docs/guide/evermusic/evermusic-guide-navigation/img/navigation-left-sidebar.webp" >}}
+  {{< ls-card title="" subtitle="Αριστερή πλαϊνή γραμμή Evermusic σε iPad και Mac" image="/docs/guide/evermusic/evermusic-guide-navigation/img/navigation-left-sidebar.webp" >}}
 {{< /cards >}}
 
 **Συνδέσεις:** Μπορείτε εύκολα να συνδέσετε υπηρεσίες αποθήκευσης στο νέφος όπως Google Drive, MEGA, OneDrive και Dropbox, καθώς και τον υπολογιστή σας και προσωπικό NAS σε αυτήν την οθόνη.
@@ -47,7 +47,7 @@ readingTime: 6
 Ενεργοποιήστε έναν player πλήρους οθόνης πατώντας στο εικονίδιο mini player και χρησιμοποιώντας χειρονομία σάρωσης προς τα κάτω για να τον αποκρύψετε. Σε iPad και Mac, η οθόνη mini player βρίσκεται στο επάνω μέρος της οθόνης και μπορεί να αποκρυφτεί κατά το άνοιγμα του player πλήρους οθόνης μέσω του κεντρικού μενού.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Γραμμή καρτελών iPhone" image="/docs/guide/evermusic/evermusic-guide-navigation/img/navigation-bottom-tabbar.webp" >}}
+  {{< ls-card title="" subtitle="Γραμμή καρτελών iPhone" image="/docs/guide/evermusic/evermusic-guide-navigation/img/navigation-bottom-tabbar.webp" >}}
 {{< /cards >}}
 
 ## Παράθυρο Mini Player (Μόνο για Mac)
@@ -55,7 +55,7 @@ readingTime: 6
 Για πρόσβαση στο παράθυρο mini player στο Mac σας, απλά μετακινήστε τον κέρσορά σας στην κάτω δεξιά γωνία του παραθύρου εφαρμογής και αλλάξτε το μέγεθός του στο μικρότερο δυνατό. Στη συνέχεια, πατήστε το κουμπί σύμπτυξης (που απεικονίζεται ως βέλος προς τα κάτω) για να ενεργοποιήσετε το παράθυρο mini player. Για να διατηρείτε το παράθυρο mini player πάντα πάνω από άλλα παράθυρα, πλοηγηθείτε στην επάνω γραμμή μενού του Mac σας, επιλέξτε "Παράθυρο" και στη συνέχεια επιλέξτε "Εμφάνιση παραθύρου πάντα στην κορυφή". Αυτή η λειτουργία είναι χρήσιμη για ακρόαση ηχητικών διαλέξεων χωρίς διακοπές.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Παράθυρο Mac Mini Player" image="/docs/guide/evermusic/evermusic-guide-navigation/img/navigation-mac-exclusive-miniplayer.webp" >}}
+  {{< ls-card title="" subtitle="Παράθυρο Mac Mini Player" image="/docs/guide/evermusic/evermusic-guide-navigation/img/navigation-mac-exclusive-miniplayer.webp" >}}
 {{< /cards >}}
 
 ## Περισσότερες Ενέργειες
@@ -63,7 +63,7 @@ readingTime: 6
 Σχεδόν κάθε στοιχείο περιεχομένου στην οθόνη διαθέτει κουμπί "Περισσότερες ενέργειες". Πατήστε το για πρόσβαση σε όλες τις διαθέσιμες ενέργειες.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Μενού περιβάλλοντος περισσότερων ενεργειών" image="/docs/guide/evermusic/evermusic-guide-navigation/img/navigation-more-actions.webp" >}}
+  {{< ls-card title="" subtitle="Μενού περιβάλλοντος περισσότερων ενεργειών" image="/docs/guide/evermusic/evermusic-guide-navigation/img/navigation-more-actions.webp" >}}
 {{< /cards >}}
 
 ## Επάνω Γραμμή Εργαλείων
@@ -77,7 +77,7 @@ readingTime: 6
 - **Τυχαία αναπαραγωγή όλων:** Προσθέστε όλα τα κομμάτια από την τρέχουσα σελίδα στην ουρά audio player, ανακατεύοντάς τα πριν την προσθήκη για μια απολαυστική ακουστική εμπειρία.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Επάνω γραμμή εργαλείων με Αναζήτηση, Αναπαραγωγή όλων και Τυχαία αναπαραγωγή" image="/docs/guide/evermusic/evermusic-guide-navigation/img/navigation-top-toolbar.webp" >}}
+  {{< ls-card title="" subtitle="Επάνω γραμμή εργαλείων με Αναζήτηση, Αναπαραγωγή όλων και Τυχαία αναπαραγωγή" image="/docs/guide/evermusic/evermusic-guide-navigation/img/navigation-top-toolbar.webp" >}}
 {{< /cards >}}
 
 ## Μενού περιβάλλοντος
@@ -91,7 +91,7 @@ readingTime: 6
 **Δεξί κλικ ποντικιού:** Κάντε δεξί κλικ σε κελιά, τον mini player ή τον compact player για να εμφανίσετε το μενού περιβάλλοντος.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Μενού περιβάλλοντος σε macOS" image="/docs/guide/evermusic/evermusic-guide-navigation/img/navigation-context-menu-macos.webp" >}}
+  {{< ls-card title="" subtitle="Μενού περιβάλλοντος σε macOS" image="/docs/guide/evermusic/evermusic-guide-navigation/img/navigation-context-menu-macos.webp" >}}
 {{< /cards >}}
 
 ## Προσβασιμότητα
@@ -125,7 +125,7 @@ readingTime: 6
 Και τα τέσσερα widgets είναι διαθέσιμα σε μεγέθη Μικρό, Μεσαίο και Μεγάλο ώστε να επιλέξετε τη διάταξη που ταιριάζει στην οθόνη σας.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Προσθήκη widgets Evermusic" image="/docs/guide/evermusic/evermusic-guide-navigation/img/navigation-add-widgets.webp" >}}
+  {{< ls-card title="" subtitle="Προσθήκη widgets Evermusic" image="/docs/guide/evermusic/evermusic-guide-navigation/img/navigation-add-widgets.webp" >}}
 {{< /cards >}}
 
 ### Προσθήκη widget σε iPhone (Αρχική Οθόνη)
@@ -175,7 +175,7 @@ readingTime: 6
 Το Evermusic περιλαμβάνει πλήρως εξοπλισμένη διεπαφή **Apple CarPlay** (μόνο iOS) βελτιστοποιημένη για την οθόνη του αυτοκινήτου. Μόλις το iPhone σας συνδεθεί σε συμβατή κεντρική μονάδα CarPlay — μέσω USB ή ασύρματα — το Evermusic εμφανίζεται μαζί με το Apple Music και το Spotify στο πλέγμα εφαρμογών CarPlay, έτοιμο να μεταδίδει ροή της βιβλιοθήκης νέφους σας στο δρόμο.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evermusic στην οθόνη CarPlay" image="/docs/guide/evermusic/evermusic-guide-navigation/img/navigation-carplay-menu.webp" >}}
+  {{< ls-card title="" subtitle="Evermusic στην οθόνη CarPlay" image="/docs/guide/evermusic/evermusic-guide-navigation/img/navigation-carplay-menu.webp" >}}
 {{< /cards >}}
 
 ### Τι έχετε στο CarPlay

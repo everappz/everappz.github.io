@@ -7,7 +7,7 @@ tags: ["carplay", "iphone", "lokalna muzyka", "odtwarzanie offline", "evermusic"
 readingTime: 5
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **TL;DR:** Użyj [Evermusic](https://apps.apple.com/app/apple-store/id885367198?pt=95781850&ct=everappzcom&mt=8) lub [Flacbox](https://apps.apple.com/app/apple-store/id1097564256?pt=95781850&ct=everappzcom&mt=8), aby odtwarzać własne pliki MP3, FLAC lub inne pliki audio na iPhonie przez Apple CarPlay. Dodaj muzykę z chmury, USB lub przez Wi-Fi, a następnie przeglądaj swoją bibliotekę, listy odtwarzania i foldery bezpośrednio na ekranie samochodu.
@@ -17,7 +17,7 @@ readingTime: 5
 Chcesz odtwarzać własną muzykę w samochodzie za pomocą Apple CarPlay? Niezależnie od tego, czy Twoje utwory są przechowywane na iPhonie, w chmurze czy offline — aplikacje takie jak **Evermusic** i **Flacbox** ułatwiają słuchanie osobistej kolekcji muzycznej podczas jazdy.
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Kolejka CarPlay" image="/docs/howto/how-to-play-your-own-music-on-iphone-using-carplay/carplay-nowplaying-5.webp" imageStyle="border-radius: clamp(14px, 2vw, 28px);" >}}
+{{< ls-card title="" subtitle="Kolejka CarPlay" image="/docs/howto/how-to-play-your-own-music-on-iphone-using-carplay/carplay-nowplaying-5.webp" imageStyle="border-radius: clamp(14px, 2vw, 28px);" >}}
 {{< /cards >}}
 
 W tym przewodniku pokażemy Ci, jak przygotować pliki muzyczne do CarPlay, zorganizować je z poprawnymi okładkami albumów i informacjami o utworach oraz bezpiecznie odtwarzać je z iPhone'a. Dzięki Evermusic lub Flacbox możesz tworzyć listy odtwarzania oraz strumieniować lub pobierać utwory z usług takich jak **Google Drive**, **Dropbox**, **OneDrive**, **NAS** lub Twój domowy komputer.
@@ -25,8 +25,8 @@ W tym przewodniku pokażemy Ci, jak przygotować pliki muzyczne do CarPlay, zorg
 Te aplikacje są idealne dla każdego, kto chce mieć pełną kontrolę nad swoją biblioteką muzyczną.
 
 {{< cards cols="2">}}
-{{< card link="https://apps.apple.com/app/apple-store/id885367198?pt=95781850&ct=everappzcom&mt=8" title="Pobierz Evermusic" icon="download" tag="Free" >}}
-{{< card link="https://apps.apple.com/app/apple-store/id1097564256?pt=95781850&ct=everappzcom&mt=8" title="Pobierz Flacbox" icon="download" tag="Free" >}}
+{{< ls-card link="https://apps.apple.com/app/apple-store/id885367198?pt=95781850&ct=everappzcom&mt=8" title="Pobierz Evermusic" icon="download" tag="Free" >}}
+{{< ls-card link="https://apps.apple.com/app/apple-store/id1097564256?pt=95781850&ct=everappzcom&mt=8" title="Pobierz Flacbox" icon="download" tag="Free" >}}
 {{< /cards >}}
 
 ## Dodaj pliki do aplikacji
@@ -106,7 +106,7 @@ Przenoś pliki bezprzewodowo, jak opisano [tutaj](/docs/howto/how-to-transfer-fi
 Po uruchomieniu naszych aplikacji Evermusic lub Flacbox w trybie CarPlay zobaczysz główny interfejs podzielony na 4 główne zakładki: Biblioteka, **Połączenia**, Pliki lokalne, **Ustawienia**.
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Menu główne CarPlay" image="/docs/howto/how-to-play-your-own-music-on-iphone-using-carplay/library-with-images.webp" imageStyle="border-radius: clamp(14px, 2vw, 28px);" >}}
+{{< ls-card title="" subtitle="Menu główne CarPlay" image="/docs/howto/how-to-play-your-own-music-on-iphone-using-carplay/library-with-images.webp" imageStyle="border-radius: clamp(14px, 2vw, 28px);" >}}
 {{< /cards >}}
 
 ## Biblioteka
@@ -116,7 +116,7 @@ Zakładka **Biblioteka** w Evermusic to centralne miejsce, gdzie cała Twoja muz
 Ten ekran zapewnia szybki dostęp do ulubionych, ostatnich, list odtwarzania, zakładek i wszystkich dodanych utworów. Możesz także kontynuować odtwarzanie z ostatniej sesji, przeglądać nieodtworzone utwory i eksplorować muzykę według tagów lub typu źródła.
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Biblioteka" image="/docs/howto/how-to-play-your-own-music-on-iphone-using-carplay/library-with-images-3.webp" imageStyle="border-radius: clamp(14px, 2vw, 28px);" >}}
+{{< ls-card title="" subtitle="Biblioteka" image="/docs/howto/how-to-play-your-own-music-on-iphone-using-carplay/library-with-images-3.webp" imageStyle="border-radius: clamp(14px, 2vw, 28px);" >}}
 {{< /cards >}}
 
 Sekcja **Biblioteka** zawiera następujące kategorie:
@@ -139,7 +139,7 @@ Sekcja **Biblioteka** zawiera następujące kategorie:
 - **Pliki online** – Muzyka strumieniowana bezpośrednio z usług chmury
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Widok albumów" image="/docs/howto/how-to-play-your-own-music-on-iphone-using-carplay/albums.webp" imageStyle="border-radius: clamp(14px, 2vw, 28px);" >}}
+{{< ls-card title="" subtitle="Widok albumów" image="/docs/howto/how-to-play-your-own-music-on-iphone-using-carplay/albums.webp" imageStyle="border-radius: clamp(14px, 2vw, 28px);" >}}
 {{< /cards >}}
 
 Możesz otworzyć dowolne podmenu i dotknąć utworu, aby natychmiast rozpocząć odtwarzanie. Więcej szczegółów znajdziesz w pełnym [Przewodniku po bibliotece muzycznej](/docs/guide/evermusic/evermusic-guide-music-library/).
@@ -150,7 +150,7 @@ Możesz otworzyć dowolne podmenu i dotknąć utworu, aby natychmiast rozpoczą�
 Zakładka **Połączenia** to Twoje centralne miejsce do uzyskiwania dostępu i zarządzania wszystkimi połączonymi usługami chmury i urządzeniami sieci lokalnej.
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Połączenia" image="/docs/howto/how-to-play-your-own-music-on-iphone-using-carplay/connections-with-images-3.webp" imageStyle="border-radius: clamp(14px, 2vw, 28px);" >}}
+{{< ls-card title="" subtitle="Połączenia" image="/docs/howto/how-to-play-your-own-music-on-iphone-using-carplay/connections-with-images-3.webp" imageStyle="border-radius: clamp(14px, 2vw, 28px);" >}}
 {{< /cards >}}
 
 Stąd możesz połączyć się z popularnymi platformami chmurowymi, takimi jak Dropbox, Google Drive, OneDrive, MEGA, iCloud Drive, a nawet dyskami sieciowymi, takimi jak SMB, DLNA i WebDAV. Po połączeniu możesz przeglądać, strumieniować, pobierać i zarządzać plikami bezpośrednio z aplikacji.
@@ -172,7 +172,7 @@ Aby dowiedzieć się więcej o wszystkich sposobach łączenia i zarządzania bi
 Sekcja **Pliki lokalne** to Twoje centralne miejsce do zarządzania plikami audio przechowywanymi bezpośrednio na urządzeniu lub w katalogu **Dokumenty** aplikacji Evermusic. Zawiera również pliki offline pobrane z chmury, pliki pamięci podręcznej odtwarzacza audio oraz foldery udostępnione do odtwarzania offline. Ta sekcja zapewnia, że możesz cieszyć się biblioteką muzyczną nawet bez połączenia z internetem.
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Pliki lokalne" image="/docs/howto/how-to-play-your-own-music-on-iphone-using-carplay/local-files-with-images.webp" imageStyle="border-radius: clamp(14px, 2vw, 28px);" >}}
+{{< ls-card title="" subtitle="Pliki lokalne" image="/docs/howto/how-to-play-your-own-music-on-iphone-using-carplay/local-files-with-images.webp" imageStyle="border-radius: clamp(14px, 2vw, 28px);" >}}
 {{< /cards >}}
 
 Ekran **Pliki lokalne** jest zorganizowany w następujące kluczowe sekcje:
@@ -186,7 +186,7 @@ Ekran **Pliki lokalne** jest zorganizowany w następujące kluczowe sekcje:
 - **Odtwarzacz audio** – Folder pamięci podręcznej używany do crossfade i optymalizacji wydajności. Można go wyłączyć lub wyczyścić w ustawieniach.
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Foldery urządzenia w Plikach lokalnych" image="/docs/howto/how-to-play-your-own-music-on-iphone-using-carplay/local-files-device-folders.webp" imageStyle="border-radius: clamp(14px, 2vw, 28px);" >}}
+{{< ls-card title="" subtitle="Foldery urządzenia w Plikach lokalnych" image="/docs/howto/how-to-play-your-own-music-on-iphone-using-carplay/local-files-device-folders.webp" imageStyle="border-radius: clamp(14px, 2vw, 28px);" >}}
 {{< /cards >}}
 
 Więcej informacji znajdziesz w pełnym [Przewodniku po plikach lokalnych](/docs/guide/evermusic/evermusic-guide-local-files/).
@@ -194,7 +194,7 @@ Więcej informacji znajdziesz w pełnym [Przewodniku po plikach lokalnych](/docs
 ## Widok folderu
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Folder lokalny z okładkami" image="/docs/howto/how-to-play-your-own-music-on-iphone-using-carplay/local-folder-with-images-2.webp" imageStyle="border-radius: clamp(14px, 2vw, 28px);" >}}
+{{< ls-card title="" subtitle="Folder lokalny z okładkami" image="/docs/howto/how-to-play-your-own-music-on-iphone-using-carplay/local-folder-with-images-2.webp" imageStyle="border-radius: clamp(14px, 2vw, 28px);" >}}
 {{< /cards >}}
 
 Po otwarciu folderu znajdziesz na górze zestaw przydatnych akcji:
@@ -206,7 +206,7 @@ Po otwarciu folderu znajdziesz na górze zestaw przydatnych akcji:
 ## Limit głębokości zawartości
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Limit głębokości zawartości" image="/docs/howto/how-to-play-your-own-music-on-iphone-using-carplay/content-depth-limit.webp" imageStyle="border-radius: clamp(14px, 2vw, 28px);" >}}
+{{< ls-card title="" subtitle="Limit głębokości zawartości" image="/docs/howto/how-to-play-your-own-music-on-iphone-using-carplay/content-depth-limit.webp" imageStyle="border-radius: clamp(14px, 2vw, 28px);" >}}
 {{< /cards >}}
 
 Podczas korzystania z CarPlay możesz napotkać błąd **"Limit głębokości zawartości"** — zwłaszcza jeśli Twoja biblioteka muzyczna ma wiele głęboko zagnieżdżonych folderów.  
@@ -227,7 +227,7 @@ To obejście zapewnia bezproblemowe przeglądanie muzyki w samochodzie.
 ## Teraz odtwarzane
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="CarPlay Teraz odtwarzane" image="/docs/howto/how-to-play-your-own-music-on-iphone-using-carplay/carplay-nowplaying.webp" imageStyle="border-radius: clamp(14px, 2vw, 28px);" >}}
+{{< ls-card title="" subtitle="CarPlay Teraz odtwarzane" image="/docs/howto/how-to-play-your-own-music-on-iphone-using-carplay/carplay-nowplaying.webp" imageStyle="border-radius: clamp(14px, 2vw, 28px);" >}}
 {{< /cards >}}
 
 Po dotknięciu dowolnego pliku audio jest on automatycznie dodawany do **kolejki odtwarzacza**.  
@@ -244,7 +244,7 @@ Ten ekran pozwala zachować kontrolę nad doświadczeniem słuchania podczas jaz
 ## Ustawienia
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Menu Ustawienia" image="/docs/howto/how-to-play-your-own-music-on-iphone-using-carplay/settings-2.webp" imageStyle="border-radius: clamp(14px, 2vw, 28px);" >}}
+{{< ls-card title="" subtitle="Menu Ustawienia" image="/docs/howto/how-to-play-your-own-music-on-iphone-using-carplay/settings-2.webp" imageStyle="border-radius: clamp(14px, 2vw, 28px);" >}}
 {{< /cards >}}
 
 Sekcja **Ustawienia** w interfejsie CarPlay pozwala dostosować zachowanie aplikacji podczas jazdy. Te ustawienia pomagają poprawić wydajność, zmniejszyć rozproszenie uwagi i zapewnić płynniejsze wrażenia ze słuchania.
@@ -260,7 +260,7 @@ Sekcja **Ustawienia** w interfejsie CarPlay pozwala dostosować zachowanie aplik
 - **Sortowanie** – Dostosuj sposób sortowania zawartości w menu CarPlay, takich jak pliki, biblioteka muzyczna i połączenia.
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Menu opcji sortowania" image="/docs/howto/how-to-play-your-own-music-on-iphone-using-carplay/settings-sort.webp" imageStyle="border-radius: clamp(14px, 2vw, 28px);" >}}
+{{< ls-card title="" subtitle="Menu opcji sortowania" image="/docs/howto/how-to-play-your-own-music-on-iphone-using-carplay/settings-sort.webp" imageStyle="border-radius: clamp(14px, 2vw, 28px);" >}}
 {{< /cards >}}
 
 - **Limit ładowania zawartości** – Ustaw liczbę elementów wyświetlanych na ekranie. Niższe limity poprawiają szybkość ładowania i zmniejszają potrzebę przewijania.
@@ -271,19 +271,19 @@ Sekcja **Ustawienia** w interfejsie CarPlay pozwala dostosować zachowanie aplik
 - **Korektor dźwięku**
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Panel konfiguracji korektora" image="/docs/howto/how-to-play-your-own-music-on-iphone-using-carplay/settings-eq-configuration.webp" imageStyle="border-radius: clamp(14px, 2vw, 28px);" >}}
+{{< ls-card title="" subtitle="Panel konfiguracji korektora" image="/docs/howto/how-to-play-your-own-music-on-iphone-using-carplay/settings-eq-configuration.webp" imageStyle="border-radius: clamp(14px, 2vw, 28px);" >}}
 {{< /cards >}}
 
 Włącz wbudowany korektor dźwięku, dostosuj pasma częstotliwości i wybierz spośród wstępnie skonfigurowanych presetów, aby uzyskać spersonalizowane wrażenia dźwiękowe.
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Lista presetów korektora" image="/docs/howto/how-to-play-your-own-music-on-iphone-using-carplay/settings-equalizer.webp" imageStyle="border-radius: clamp(14px, 2vw, 28px);" >}}
+{{< ls-card title="" subtitle="Lista presetów korektora" image="/docs/howto/how-to-play-your-own-music-on-iphone-using-carplay/settings-equalizer.webp" imageStyle="border-radius: clamp(14px, 2vw, 28px);" >}}
 {{< /cards >}}
 
 - **Odtwarzanie z crossfade**
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Odtwarzanie z crossfade" image="/docs/howto/how-to-play-your-own-music-on-iphone-using-carplay/settings-crossfade-playback.webp" imageStyle="border-radius: clamp(14px, 2vw, 28px);" >}}
+{{< ls-card title="" subtitle="Odtwarzanie z crossfade" image="/docs/howto/how-to-play-your-own-music-on-iphone-using-carplay/settings-crossfade-playback.webp" imageStyle="border-radius: clamp(14px, 2vw, 28px);" >}}
 {{< /cards >}}
 
 Twórz płynne przejścia między utworami, nakładając koniec jednego utworu na początek następnego. Czas crossfade można dostosować.
@@ -291,7 +291,7 @@ Twórz płynne przejścia między utworami, nakładając koniec jednego utworu n
 - **Odtwarzanie bezprzerwowe**
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Odtwarzanie bezprzerwowe" image="/docs/howto/how-to-play-your-own-music-on-iphone-using-carplay/settings-gapless-playback.webp" imageStyle="border-radius: clamp(14px, 2vw, 28px);" >}}
+{{< ls-card title="" subtitle="Odtwarzanie bezprzerwowe" image="/docs/howto/how-to-play-your-own-music-on-iphone-using-carplay/settings-gapless-playback.webp" imageStyle="border-radius: clamp(14px, 2vw, 28px);" >}}
 {{< /cards >}}
 
 Odtwarzaj utwory płynnie, bez przerw — idealne do nagrań live, miksów DJ-skich i albumów koncepcyjnych.
@@ -307,7 +307,7 @@ Aby dowiedzieć się więcej, przeczytaj pełny [Przewodnik po ustawieniach](/do
 Dzięki **Evermusic** i **Flacbox** odtwarzanie własnej muzyki w samochodzie za pomocą Apple CarPlay staje się proste, elastyczne i niezawodne. Niezależnie od tego, czy strumieniujesz z chmury, korzystasz z plików lokalnych, czy odtwarzasz pobrane utwory offline — te aplikacje zostały stworzone, aby dać Ci pełną kontrolę nad wrażeniami ze słuchania podczas jazdy.
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Ekran CarPlay Teraz odtwarzane" image="/docs/howto/how-to-play-your-own-music-on-iphone-using-carplay/carplay-nowplaying-2.webp" imageStyle="border-radius: clamp(14px, 2vw, 28px);" >}}
+{{< ls-card title="" subtitle="Ekran CarPlay Teraz odtwarzane" image="/docs/howto/how-to-play-your-own-music-on-iphone-using-carplay/carplay-nowplaying-2.webp" imageStyle="border-radius: clamp(14px, 2vw, 28px);" >}}
 {{< /cards >}}
 
 Od bezproblemowej integracji z chmurą po synchronizację folderów offline, od głębokiej organizacji biblioteki muzycznej po konfigurowalny odtwarzanie z korektorami i crossfade — te funkcje czynią Evermusic i Flacbox czymś więcej niż zwykłymi odtwarzaczami audio. To inteligentni towarzysze CarPlay, zaprojektowani dla audiofilów, dojeżdżających do pracy i codziennych użytkowników.
@@ -325,22 +325,22 @@ Odkryj więcej funkcji, ustawień i poradników w naszym pełnym [Podręczniku u
 
 ## Często zadawane pytania
 
-{{% details title="Jakie formaty plików muzycznych działają z CarPlay w Evermusic i Flacbox?" closed="true" %}}
+{{% ls-details title="Jakie formaty plików muzycznych działają z CarPlay w Evermusic i Flacbox?" closed="true" %}}
 Evermusic i Flacbox obsługują szeroką gamę formatów audio, w tym MP3, FLAC, AAC, WAV, AIFF, OGG, WMA i inne. Wszystkie obsługiwane formaty działają przez CarPlay bez konieczności konwersji.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Czy mogę odtwarzać muzykę z Google Drive lub Dropbox na CarPlay?" closed="true" %}}
+{{% ls-details title="Czy mogę odtwarzać muzykę z Google Drive lub Dropbox na CarPlay?" closed="true" %}}
 Tak. Zarówno Evermusic, jak i Flacbox pozwalają łączyć się z usługami chmury, takimi jak Google Drive, Dropbox, OneDrive, MEGA i innymi. Możesz strumieniować muzykę bezpośrednio lub pobrać ją do odtwarzania offline na CarPlay.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Czy potrzebuję połączenia z internetem, aby odtwarzać muzykę na CarPlay?" closed="true" %}}
+{{% ls-details title="Czy potrzebuję połączenia z internetem, aby odtwarzać muzykę na CarPlay?" closed="true" %}}
 Nie. Możesz pobrać muzykę z chmury do odtwarzania offline. Gdy pliki są przechowywane lokalnie na iPhonie, są odtwarzane przez CarPlay bez połączenia z internetem.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Dlaczego widzę błąd Limit głębokości zawartości na CarPlay?" closed="true" %}}
+{{% ls-details title="Dlaczego widzę błąd Limit głębokości zawartości na CarPlay?" closed="true" %}}
 CarPlay ogranicza liczbę poziomów folderów, które może wyświetlić. Jeśli Twoja muzyka znajduje się w głęboko zagnieżdżonych folderach, dodaj te foldery do Ulubionych, aby mieć do nich bezpośredni dostęp z menu Ulubione w CarPlay.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Czy Evermusic lub Flacbox jest darmowy z CarPlay?" closed="true" %}}
+{{% ls-details title="Czy Evermusic lub Flacbox jest darmowy z CarPlay?" closed="true" %}}
 Obie aplikacje są bezpłatne do pobrania z pełną obsługą CarPlay, korektorem i funkcjami odtwarzania. Bezpłatne wersje mają limity połączeń z chmurą (3), list odtwarzania (10) i folderów offline (1). Premium usuwa wszystkie limity.
-{{% /details %}}
+{{% /ls-details %}}

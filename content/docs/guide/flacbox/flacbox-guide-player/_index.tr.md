@@ -23,7 +23,7 @@ Ses Çalar, müziği kontrol ettiğiniz ve oynatma özelliklerinin çoğunu yön
 Tam ekran oynatıcıya mini oynatıcı çubuğundan ulaşabilirsiniz. iPhone'da mini oynatıcı ana ekranın alt kısmında bulunur. iPad ve Mac'te sol taraftadır. iPhone'da mini oynatıcıyı gizlemek için bir kez dokunun ve aşağı kaydırın. Tam ekran oynatıcıyı tamamen kapatmak için sağ alt köşedeki kapat düğmesine dokunun.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox Ses Çalar Ana Ekranı" image="/docs/guide/flacbox/img/audio-player-main-screen.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox Ses Çalar Ana Ekranı" image="/docs/guide/flacbox/img/audio-player-main-screen.webp" >}}
 {{< /cards >}}
 
 ## Desteklenen Ses Formatları
@@ -66,7 +66,7 @@ AirPlay için oynatıcının alt kısmındaki **AirPlay** düğmesini arayın. A
 Flacbox, iPod tarzı ön ayarlara sahip **10 bantlı bir ekolayzer** içerir. Ses görünümünde Ekolayzer seçeneğine dokunun, ardından sağ üst köşeden açın. Acoustic ve Bass Booster gibi ön ayarları kullanabilir veya her frekans bandını kaydırıcılarla ayarlayabilirsiniz. Kendi ön ayarlarınızı oluşturun, herhangi bir ad altında kaydedin ve ön yükselteç ile genel sesi artırın. Ekolayzerı nasıl kullanacağınıza ilişkin daha ayrıntılı talimatlar [burada](/docs/howto/how-to-use-the-audio-equalizer-on-your-iphone-ipad-mac-with-evermusic-and-flacbox) mevcuttur.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox Ses Çalar Ekolayzerı" image="/docs/guide/flacbox/img/audio-player-equalizer.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox Ses Çalar Ekolayzerı" image="/docs/guide/flacbox/img/audio-player-equalizer.webp" >}}
 {{< /cards >}}
 
 ## Oynatıcı Modu Araç Çubuğu
@@ -82,7 +82,7 @@ Bazı oynatıcı stilleri için, tam ekran oynatıcının üst kısmında özel 
 Oynatıcı kuyruğunuzu görmek için geçerli şarkının sağ tarafındaki kuyruk düğmesine dokunun. Kuyruktaki her şarkının daha fazla eylemi vardır — bunları görüntülemek için üç noktaya dokunun. Kuyruktaki bir şarkıyı yeniden sıralamak için başlığın yakınındaki yeniden sıralama göstergesini kullanın ve yeni bir konuma sürükleyin.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox Oynatma Kuyruğu" image="/docs/guide/flacbox/img/playback_queue.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox Oynatma Kuyruğu" image="/docs/guide/flacbox/img/playback_queue.webp" >}}
 {{< /cards >}}
 
 ## Yorumlar / Şarkı Sözleri
@@ -98,7 +98,7 @@ Parça yorumlarını ve gömülü şarkı sözlerini ve LRC dosyalarını görü
 Bundan sonra, kapak resmi / kuyruk görünümünden yorumlar görünümüne geçmek için ekranın alt kısmındaki oynatıcı kuyruğu düğmesine birkaç kez dokunun. Yorumlar ekranında **Yorumlar**, **Gömülü Şarkı Sözleri** ve **LRC Dosyası** arasında geçiş yapmak için sağa kaydırın. Tam talimatlar [burada](/docs/howto/how-to-add-and-view-comments-to-your-audio-tracks-on-iphone-ipad-and-mac-with-evermusic-and-flacbox) mevcuttur.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox Şarkı Sözleri ve Yorumlar Ekranı" image="/docs/guide/flacbox/img/lyrics-screen.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox Şarkı Sözleri ve Yorumlar Ekranı" image="/docs/guide/flacbox/img/lyrics-screen.webp" >}}
 {{< /cards >}}
 
 ## Seçenekler Menüsü
@@ -121,7 +121,7 @@ Ses çalar kuyruğundaki her şarkının, şarkı başlığının yakınındaki 
 Aynı seçenekler, ses çalar kuyruğundaki şu an çalan öğe için de mevcuttur; parça başlığının yakınındaki **Daha Fazla Eylem** simgesine dokunarak erişebilirsiniz.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox Oynatma Kuyruğundaki Öğe İçin Seçenekler" image="/docs/guide/flacbox/img/options-for-item-in-playback-queue.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox Oynatma Kuyruğundaki Öğe İçin Seçenekler" image="/docs/guide/flacbox/img/options-for-item-in-playback-queue.webp" >}}
 {{< /cards >}}
 
 ## Ek Oynatıcı Eylemleri
@@ -143,7 +143,7 @@ Ek eylemleri görmek için şu anda çalan şarkı başlığının sol tarafınd
 - **Yardım** — yardım ve rehberlik bulun.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox Ses Çalar Daha Fazla Eylem Ekranı" image="/docs/guide/flacbox/img/audio-player-more-actions-screen.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox Ses Çalar Daha Fazla Eylem Ekranı" image="/docs/guide/flacbox/img/audio-player-more-actions-screen.webp" >}}
 {{< /cards >}}
 
 ## Ses Yer İmleri
@@ -161,7 +161,7 @@ Yeni bir yer imi oluşturmak için:
 Geçerli parça için yer imlerini düzenlemek kolaydır: düzenleme moduna girmek için sağ üst köşedeki Düzenle seçeneğine dokunun. Bu modda yer imlerini yeniden düzenleyebilir, silebilir, yer imi zamanını ayarlayabilir ve yer imi başlıklarını değiştirebilirsiniz. Ses yer imleri hakkında daha ayrıntılı talimatlar [burada](/docs/howto/how-to-listen-to-audiobooks-on-iphone-ipad-mac-using-evermusic) mevcuttur.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox Ses Yer İmleri Ekranı" image="/docs/guide/flacbox/img/audio-bookmarks.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox Ses Yer İmleri Ekranı" image="/docs/guide/flacbox/img/audio-bookmarks.webp" >}}
 {{< /cards >}}
 
 ## Son Çalınanlar ve Favoriler
@@ -175,7 +175,7 @@ iPhone'unuzu USB veya kablosuz Apple CarPlay ile arabanıza bağlayın; Flacbox 
 [CarPlay kılavuzunun tamamını okuyun](/docs/howto/how-to-play-your-own-music-on-iphone-using-carplay/).
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox Apple CarPlay'de" image="/docs/guide/flacbox/img/carplay-main.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox Apple CarPlay'de" image="/docs/guide/flacbox/img/carplay-main.webp" >}}
 {{< /cards >}}
 
 ## Ana Ekran Widget'ları (iPhone ve iPad)
@@ -243,7 +243,7 @@ Ses ekolayzerı ayarlarını özelleştirin. Ses ekolayzerını yapılandırma h
 Ses çaların oynatma hızını **0,02× ile 3,00×** arasında ayarlayın. Daha ince ayarlar için **hassas moda** geçmek üzere sağ üst köşedeki yapılandırma simgesine dokunun.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox Oynatma Hızı Ekranı" image="/docs/guide/flacbox/img/playback-speed.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox Oynatma Hızı Ekranı" image="/docs/guide/flacbox/img/playback-speed.webp" >}}
 {{< /cards >}}
 
 ### Ses Tonu Düzeltme

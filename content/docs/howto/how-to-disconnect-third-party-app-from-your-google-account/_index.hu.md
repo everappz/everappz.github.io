@@ -7,7 +7,7 @@ tags: ["google", "biztonság", "adatvédelem", "alkalmazások", "fiók", "hozzá
 readingTime: 2
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **Röviden:** Lépjen a [myaccount.google.com](https://myaccount.google.com/) > Biztonság > Harmadik féltől származó alkalmazások és szolgáltatások menüpontra. Kattintson az eltávolítani kívánt alkalmazásra, majd válassza a „Hozzáférés eltávolítása" vagy az „Összes kapcsolat törlése" lehetőséget. Ismételje meg minden alkalmazásnál.
@@ -75,18 +75,18 @@ Ne feledje, hogy bár a harmadik féltől származó alkalmazások javíthatják
 
 ## GYIK
 
-{{% details title="Az alkalmazás leválasztása törli az adataimat az adott alkalmazásból?" closed="true" %}}
+{{% ls-details title="Az alkalmazás leválasztása törli az adataimat az adott alkalmazásból?" closed="true" %}}
 Nem. A hozzáférés eltávolítása csak azt akadályozza meg, hogy az alkalmazás a jövőben hozzáférjen Google-fiókjához. Az alkalmazással már megosztott adatok továbbra is létezhetnek a szervereiken. Ellenőrizze az alkalmazás saját adatvédelmi beállításait az adatok törléséhez.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Újra csatlakoztathatom az alkalmazást a leválasztás után?" closed="true" %}}
+{{% ls-details title="Újra csatlakoztathatom az alkalmazást a leválasztás után?" closed="true" %}}
 Igen. Ha ismét szüksége van az alkalmazásra, egyszerűen jelentkezzen be a Google-lal, amikor a rendszer kéri. Az alkalmazás újra kérni fogja az engedélyeket, és áttekintheti őket a hozzáférés megadása előtt.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Milyen gyakran kell áttekinteni a harmadik féltől származó alkalmazások hozzáférését?" closed="true" %}}
+{{% ls-details title="Milyen gyakran kell áttekinteni a harmadik féltől származó alkalmazások hozzáférését?" closed="true" %}}
 Tekintse át csatlakoztatott alkalmazásait 3-6 havonta, vagy azonnal, miután abbahagyja egy szolgáltatás használatát. A rendszeres ellenőrzések segítenek fiókja biztonságának fenntartásában.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Ez érinti az olyan alkalmazásokat, mint az Evermusic, amelyek csatlakoznak a Google Drive-hoz?" closed="true" %}}
+{{% ls-details title="Ez érinti az olyan alkalmazásokat, mint az Evermusic, amelyek csatlakoznak a Google Drive-hoz?" closed="true" %}}
 Igen. Ha leválaszt egy alkalmazást, például az Evermusic vagy Flacbox alkalmazást Google-fiókjáról, elveszíti a hozzáférést a Google Drive-fájljaihoz. Bármikor újra csatlakozhat az alkalmazáson belülről.
-{{% /details %}}
+{{% /ls-details %}}

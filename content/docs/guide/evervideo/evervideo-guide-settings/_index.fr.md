@@ -23,7 +23,7 @@ readingTime: 16
 L'écran **Paramètres** est le centre de contrôle d'Evervideo. Depuis cet écran, vous pouvez passer à Premium, configurer les moteurs vidéo et audio (codecs système ou FFmpeg), gérer le Picture-in-Picture, configurer les sous-titres (principal, secondaire, libass, fichiers externes, polices), organiser la médiathèque, configurer le gestionnaire de fichiers, activer les widgets de l'écran d'accueil, sauvegarder vos données et accéder à l'aide et aux informations légales. Les sections sont regroupées sous des en-têtes : Achats et mises à jour, Préférences de l'application, Aide, Mentions légales et confidentialité.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evervideo Écran principal des paramètres" image="/docs/guide/evervideo/img/evervideo-settings.webp" >}}
+  {{< ls-card title="" subtitle="Evervideo Écran principal des paramètres" image="/docs/guide/evervideo/img/evervideo-settings.webp" >}}
 {{< /cards >}}
 
 ## Passer à Premium
@@ -31,13 +31,13 @@ L'écran **Paramètres** est le centre de contrôle d'Evervideo. Depuis cet écr
 Mettez à niveau l'application vers la version Premium pour supprimer toutes les limites. La version gratuite de l'application propose un achat unique à vie et deux options d'abonnement (1 mois et 1 an) pour supprimer toutes les restrictions et passer à Premium.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evervideo Passer à Premium" image="/docs/guide/evervideo/img/evervideo-upgrade-to-premium.webp" >}}
+  {{< ls-card title="" subtitle="Evervideo Passer à Premium" image="/docs/guide/evervideo/img/evervideo-upgrade-to-premium.webp" >}}
 {{< /cards >}}
 
 **Family Sharing** est activé pour tous les achats et abonnements, vous pouvez donc partager la version Premium avec jusqu'à cinq membres de votre famille sans frais supplémentaires.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evervideo Sélectionner un plan Premium" image="/docs/guide/evervideo/img/evervideo-select-premium-plan.webp" >}}
+  {{< ls-card title="" subtitle="Evervideo Sélectionner un plan Premium" image="/docs/guide/evervideo/img/evervideo-select-premium-plan.webp" >}}
 {{< /cards >}}
 
 ## Partage des achats entre iOS et Mac
@@ -51,7 +51,7 @@ Vous pouvez également appuyer sur le bouton **Restaurer les achats** dans les p
 Pour restaurer votre achat sur un nouvel appareil, utilisez le menu **Achats → Restaurer les achats**. Vous verrez la liste de vos achats. Si vous ne les voyez pas tous, confirmez que l'appareil est connecté au même identifiant Apple que celui utilisé pour effectuer les achats, et assurez-vous qu'iCloud est activé.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evervideo Menu Achats dans les paramètres" image="/docs/guide/evervideo/img/evervideo-purhases-menu-in-settings.webp" >}}
+  {{< ls-card title="" subtitle="Evervideo Menu Achats dans les paramètres" image="/docs/guide/evervideo/img/evervideo-purhases-menu-in-settings.webp" >}}
 {{< /cards >}}
 
 ## Essayer Premium gratuitement

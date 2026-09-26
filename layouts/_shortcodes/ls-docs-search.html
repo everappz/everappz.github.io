@@ -1,0 +1,31 @@
+{{- /*
+  ls-docs-search — inline search bar for the docs + support sections.
+
+  Renders a self-contained search box (question-intent detection, section
+  re-ranking, answer cards) backed by a docs/support-only FlexSearch index.
+  Fully independent of the theme's global navbar search.
+
+  Usage (place directly under the hero lottie in a section _index.md):
+    {{< ls-docs-search >}}
+    {{< ls-docs-search placeholder="Search the docs…" >}}
+*/ -}}
+{{- $placeholder := .Get "placeholder" | default (T "searchDocsPlaceholder") | default "Search documentation, frequently asked questions, how-to guides…" -}}
+<div class="ls-docs-search-wrapper">
+  <input
+    class="ls-docs-search-input"
+    type="search"
+    role="combobox"
+    aria-expanded="false"
+    aria-autocomplete="list"
+    autocomplete="off"
+    autocorrect="off"
+    autocapitalize="off"
+    spellcheck="false"
+    placeholder="{{ $placeholder }}"
+    aria-label="{{ $placeholder }}"
+  />
+  <ul class="ls-docs-search-results hx:hidden" data-count="0" role="listbox" aria-label="{{ $placeholder }}"></ul>
+</div>
+{{- /* The search JS + scoped index are loaded from custom/head-end.html (after
+       content is safe to read), NOT here — building the index during content
+       render would recurse on this very page. This shortcode is markup only. */ -}}

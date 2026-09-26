@@ -7,7 +7,7 @@ tags: ["evermusic", "संगीत", "क्लाउड", "iphone", "स्�
 readingTime: 4
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **सारांश:** Evermusic का उपयोग करके अपने WD My Cloud Home NAS से सीधे अपने iPhone पर संगीत स्ट्रीम या डाउनलोड करें। 8 TB तक संगीत तक पहुंचें, ऑफलाइन चलाएं और बिल्ट-इन इक्वलाइज़र का उपयोग करें -- सब कुछ मासिक सब्सक्रिप्शन के बिना।
@@ -87,26 +87,26 @@ Evermusic Western Digital के इंजीनियरों द्वार�
 
 ## अक्सर पूछे जाने वाले प्रश्न
 
-{{% details title="क्या Evermusic WD My Cloud Home के साथ मुफ्त है?" closed="true" %}}
+{{% ls-details title="क्या Evermusic WD My Cloud Home के साथ मुफ्त है?" closed="true" %}}
 Evermusic इक्वलाइज़र, क्लाउड स्ट्रीमिंग और ऑफलाइन प्लेबैक सहित मुख्य सुविधाओं के साथ मुफ्त डाउनलोड है। मुफ्त संस्करण 3 क्लाउड कनेक्शन तक का समर्थन करता है। Premium में अपग्रेड करने से क्लाउड अकाउंट, प्लेलिस्ट और ऑफलाइन फ़ोल्डर की सीमाएं हट जाती हैं।
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="क्या मैं अपने NAS से ऑफलाइन संगीत सुन सकता हूं?" closed="true" %}}
+{{% ls-details title="क्या मैं अपने NAS से ऑफलाइन संगीत सुन सकता हूं?" closed="true" %}}
 हां। Evermusic आपको ऑफलाइन प्लेबैक के लिए अपने WD My Cloud Home से अपने iPhone पर ट्रैक डाउनलोड करने देता है। यह तब उपयोगी है जब आप यात्रा करते हैं या सीमित इंटरनेट एक्सेस होती है।
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="क्या Evermusic WD My Cloud से लॉसलेस ऑडियो फॉर्मेट का समर्थन करता है?" closed="true" %}}
+{{% ls-details title="क्या Evermusic WD My Cloud से लॉसलेस ऑडियो फॉर्मेट का समर्थन करता है?" closed="true" %}}
 हां। Evermusic FLAC, ALAC, WAV, AIFF और अन्य लॉसलेस फॉर्मेट का समर्थन करता है। आप बिना फॉर्मेट रूपांतरण के अपने NAS से उच्च-गुणवत्ता वाली ऑडियो फ़ाइलें स्ट्रीम या डाउनलोड कर सकते हैं।
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="क्या मैं Evermusic के साथ WD MyCloud EX2 Ultra का उपयोग कर सकता हूं?" closed="true" %}}
+{{% ls-details title="क्या मैं Evermusic के साथ WD MyCloud EX2 Ultra का उपयोग कर सकता हूं?" closed="true" %}}
 हां, एक वर्कअराउंड के साथ। My Cloud Home विकल्प के माध्यम से कनेक्ट करें, Evermusic के फ़ाइल मैनेजर का उपयोग करके एक फ़ोल्डर बनाएं और अपनी संगीत फ़ाइलें वहां अपलोड करें। सैंडबॉक्स मोड के कारण, केवल ऐप द्वारा बनाए गए फ़ोल्डर में फ़ाइलें ही सुलभ हैं।
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="WD My Cloud Home पर कितना संगीत संग्रहीत किया जा सकता है?" closed="true" %}}
+{{% ls-details title="WD My Cloud Home पर कितना संगीत संग्रहीत किया जा सकता है?" closed="true" %}}
 WD My Cloud Home 8 TB तक स्टोरेज का समर्थन करता है। सामान्य बिटरेट पर, यह बड़ी लॉसलेस म्यूजिक लाइब्रेरी सहित सैकड़ों हजारों गाने रख सकता है।
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="क्या Evermusic और WD My Cloud Home के बीच कनेक्शन सुरक्षित है?" closed="true" %}}
+{{% ls-details title="क्या Evermusic और WD My Cloud Home के बीच कनेक्शन सुरक्षित है?" closed="true" %}}
 हां। Evermusic आपके NAS तक पहुंचने के लिए सुरक्षित कनेक्शन और Western Digital के आधिकारिक API का उपयोग करता है। आपका डेटा और लॉगिन क्रेडेंशियल ट्रांसमिशन के दौरान सुरक्षित हैं।
-{{% /details %}}
+{{% /ls-details %}}

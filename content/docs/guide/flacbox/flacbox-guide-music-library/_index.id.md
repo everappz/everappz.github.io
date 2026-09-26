@@ -19,7 +19,7 @@ readingTime: 11
 Mengelola perpustakaan musik sangat mudah dengan Flacbox, di mana Anda dapat mengatur semua trek — FLAC lokal, ALAC, DSD, MP3, M4A, OGG, WMA, APE, dan puluhan format lainnya — ke dalam satu koleksi yang dapat dicari. Anda memiliki dua opsi untuk membangun perpustakaan musik: penambahan manual (Anda memilih persis apa yang ditambahkan) atau sinkronisasi otomatis (Flacbox memindai folder cloud yang ditentukan dan menambahkan file baru secara otomatis saat muncul).
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Tampilan Album Perpustakaan Musik Flacbox" image="/docs/guide/flacbox/img/media-library-albums.webp" >}}
+  {{< ls-card title="" subtitle="Tampilan Album Perpustakaan Musik Flacbox" image="/docs/guide/flacbox/img/media-library-albums.webp" >}}
 {{< /cards >}}
 
 ## Penambahan Manual
@@ -27,7 +27,7 @@ Mengelola perpustakaan musik sangat mudah dengan Flacbox, di mana Anda dapat men
 Untuk menambahkan trek secara manual, ketuk ikon **Tambah Musik** di sudut kiri atas dan pilih folder atau file dari layanan cloud storage yang terhubung atau file yang terletak di perangkat Anda. Saat Anda menambahkan trek ke perpustakaan, hanya tautan ke trek tersebut yang dibuat — file sebenarnya tetap di lokasi aslinya untuk menghemat ruang disk.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox Tambahkan Lagu ke Perpustakaan Musik" image="/docs/guide/flacbox/img/library-add-songs.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox Tambahkan Lagu ke Perpustakaan Musik" image="/docs/guide/flacbox/img/library-add-songs.webp" >}}
 {{< /cards >}}
 
 Anda juga dapat menyeret dan menjatuhkan file ke perpustakaan di versi Mac, atau menggunakan **Buka File…** / **Buka Folder…** dari pemilih file sistem di iPhone dan iPad.
@@ -89,7 +89,7 @@ Terletak tepat di bawah bilah navigasi, toolbar atas menawarkan beberapa tindaka
 Fitur pencarian memungkinkan Anda menemukan trek, artis, album, atau genre tertentu dalam perpustakaan musik Anda. Pencarian berjalan secara lokal terhadap database perpustakaan musik, sehingga bekerja sepenuhnya offline dan menampilkan hasil saat Anda mengetik.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Pencarian Perpustakaan Musik Flacbox" image="/docs/guide/flacbox/img/media-library-search.webp" >}}
+  {{< ls-card title="" subtitle="Pencarian Perpustakaan Musik Flacbox" image="/docs/guide/flacbox/img/media-library-search.webp" >}}
 {{< /cards >}}
 
 ## Menu Opsi
@@ -136,7 +136,7 @@ Saat Anda membuka bagian Artis, Album Artis, atau Komposer, Anda dapat melihat p
 - **Album Solo** — menampilkan album di mana hanya trek artis yang ditentukan yang muncul.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Layar Detail Album Flacbox" image="/docs/guide/flacbox/img/media-library-album-details-screen.webp" >}}
+  {{< ls-card title="" subtitle="Layar Detail Album Flacbox" image="/docs/guide/flacbox/img/media-library-album-details-screen.webp" >}}
 {{< /cards >}}
 
 ## Pengaturan

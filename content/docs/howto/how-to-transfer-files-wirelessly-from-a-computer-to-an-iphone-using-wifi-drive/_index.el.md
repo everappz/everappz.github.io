@@ -7,7 +7,7 @@ keywords: ["ασύρματη μεταφορά αρχείων σε iPhone", "με
 readingTime: 2
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **Περίληψη:** Το Wi-Fi Drive σας επιτρέπει να μεταφέρετε αρχεία από οποιονδήποτε υπολογιστή στο iPhone ή iPad σας μέσω Wi-Fi -- χωρίς iTunes ή καλώδια. Χρησιμοποιήστε ένα πρόγραμμα περιήγησης, Mac Finder ή Windows File Explorer. Και οι δύο συσκευές πρέπει να είναι στο ίδιο δίκτυο Wi-Fi.
@@ -18,7 +18,7 @@ readingTime: 2
 
 Μπορείτε να παρακολουθήσετε ένα βίντεο εκμάθησης από το [**TECHGUYPH**](https://www.youtube.com/channel/UCgpf09gGFE_c_3pPTtTpnzg) ή να διαβάσετε την έκδοση κειμένου παρακάτω.
 <br><br>
-{{< youtubecard id="CqdqrQ0ge70" title="Can We Wirelessly Put Offline Music on iPhones?" >}}
+{{< ls-youtubecard id="CqdqrQ0ge70" title="Can We Wirelessly Put Offline Music on iPhones?" >}}
 
 ## Μεταφορά αρχείων από τον υπολογιστή ασύρματα με πρόγραμμα περιήγησης επιφάνειας εργασίας
 
@@ -90,26 +90,26 @@ readingTime: 2
 
 ## Συχνές ερωτήσεις
 
-{{% details title="Χρειάζομαι iTunes για να μεταφέρω αρχεία στο iPhone μου;" closed="true" %}}
+{{% ls-details title="Χρειάζομαι iTunes για να μεταφέρω αρχεία στο iPhone μου;" closed="true" %}}
 Όχι. Το Wi-Fi Drive μεταφέρει αρχεία απευθείας μέσω του τοπικού δικτύου Wi-Fi σας. Δεν απαιτείται iTunes.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Ποιες εφαρμογές υποστηρίζουν το Wi-Fi Drive;" closed="true" %}}
+{{% ls-details title="Ποιες εφαρμογές υποστηρίζουν το Wi-Fi Drive;" closed="true" %}}
 Το Wi-Fi Drive είναι διαθέσιμο στα Evermusic, Flacbox, Evertag και Evervideo για iOS.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Πρέπει και οι δύο συσκευές να είναι στο ίδιο δίκτυο Wi-Fi;" closed="true" %}}
+{{% ls-details title="Πρέπει και οι δύο συσκευές να είναι στο ίδιο δίκτυο Wi-Fi;" closed="true" %}}
 Ναι. Ο υπολογιστής σας και το iPhone ή iPad πρέπει να είναι συνδεδεμένα στο ίδιο τοπικό δίκτυο Wi-Fi για να λειτουργήσει το Wi-Fi Drive.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Μπορώ να μεταφέρω ολόκληρους φακέλους, όχι μόνο μεμονωμένα αρχεία;" closed="true" %}}
+{{% ls-details title="Μπορώ να μεταφέρω ολόκληρους φακέλους, όχι μόνο μεμονωμένα αρχεία;" closed="true" %}}
 Ναι. Το Wi-Fi Drive υποστηρίζει ανέβασμα και κατέβασμα ολόκληρων φακέλων μέσω της διεπαφής του προγράμματος περιήγησης.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Λειτουργεί το Wi-Fi Drive με Windows;" closed="true" %}}
+{{% ls-details title="Λειτουργεί το Wi-Fi Drive με Windows;" closed="true" %}}
 Ναι. Μπορείτε να χρησιμοποιήσετε οποιοδήποτε πρόγραμμα περιήγησης στα Windows ή να συνδεθείτε μέσω Windows File Explorer χρησιμοποιώντας το πρωτόκολλο WebDAV.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Μπορώ να χρησιμοποιήσω καλώδιο USB για να επιταχύνω τη μεταφορά;" closed="true" %}}
+{{% ls-details title="Μπορώ να χρησιμοποιήσω καλώδιο USB για να επιταχύνω τη μεταφορά;" closed="true" %}}
 Ναι. Αν το iPhone σας είναι συνδεδεμένο στο Mac σας μέσω USB ενώ λειτουργεί το Wi-Fi Drive, η μεταφορά θα χρησιμοποιεί τη σύνδεση καλωδίου για ταχύτερες ταχύτητες.
-{{% /details %}}
+{{% /ls-details %}}

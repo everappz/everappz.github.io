@@ -12,7 +12,7 @@ authors:
     image: "/images/about/artem-meleshko-founder-everappz.webp"
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 **TL;DR:** [Evermusic 8.6](/products/evermusic) es una actualización mayor para iPhone, iPad y Mac. CarPlay se ha rediseñado por completo con orden rápido, varios esquemas de color, una pantalla de reproducción rediseñada, vista completa de la cola y un índice alfabético de desplazamiento rápido. La versión añade más de 10 nuevas conexiones — **Plex**, **Jellyfin**, **Emby**, **Subsonic**, **Navidrome**, **Internxt**, **Proton Drive**, **QNAP**, **Nextcloud**, **Amazon S3**, además de los protocolos **FTP**, **SFTP** y **NFS**. Un nuevo **widget de letras sincronizadas para la pantalla de inicio** muestra letras alineadas en el tiempo mientras escuchas. Wi-Fi Drive estrena nueva interfaz, modo de selección y una cola de carga más rápida. Toda la app se actualiza al diseño **Liquid Glass** y la reproducción desde servidores chinos como **Baidu Netdisk (百度网盘)** y **Aliyun Drive (阿里云盘)** es más fiable.
 
@@ -161,54 +161,54 @@ Si te gusta la app, deja una valoración en el App Store — ayuda mucho. ¿Tien
 
 ## Preguntas frecuentes
 
-{{% details title="¿Qué hay de nuevo en Evermusic 8.6?" closed="true" %}}
+{{% ls-details title="¿Qué hay de nuevo en Evermusic 8.6?" closed="true" %}}
 Evermusic 8.6 estrena una experiencia CarPlay totalmente rediseñada, soporte para más de 10 nuevas conexiones (Plex, Jellyfin, Emby, Subsonic, Navidrome, Internxt, Proton Drive, QNAP, Nextcloud, Amazon S3, FTP, SFTP, NFS), un nuevo widget de letras sincronizadas para la pantalla de inicio, mejoras en Wi-Fi Drive con modo de selección, actualizaciones del diseño Liquid Glass, mayor fiabilidad para Baidu Netdisk y Aliyun Drive, y muchas correcciones de errores.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="¿Funciona Evermusic con Plex?" closed="true" %}}
+{{% ls-details title="¿Funciona Evermusic con Plex?" closed="true" %}}
 Sí. A partir de Evermusic 8.6, puedes conectar con un servidor Plex Media y reproducir toda tu biblioteca musical. Plex Media Server es gratuito; Plex Pass es opcional. Evermusic funciona tanto con configuraciones gratuitas como con Plex Pass.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="¿Son compatibles Jellyfin o Navidrome con Evermusic?" closed="true" %}}
+{{% ls-details title="¿Son compatibles Jellyfin o Navidrome con Evermusic?" closed="true" %}}
 Sí. Tanto Jellyfin como Navidrome son totalmente compatibles con Evermusic 8.6. Jellyfin es un servidor multimedia gratuito y de código abierto. Navidrome es un servidor de música gratuito y de código abierto que implementa la API de Subsonic. Evermusic se conecta a ambos de forma nativa.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="¿Plex, Jellyfin, Emby, Navidrome y Subsonic son gratis?" closed="true" %}}
+{{% ls-details title="¿Plex, Jellyfin, Emby, Navidrome y Subsonic son gratis?" closed="true" %}}
 - **Plex** — el servidor es gratuito; Plex Pass es una mejora de pago opcional.
 - **Jellyfin** — totalmente gratuito y de código abierto.
 - **Emby** — el servidor es gratis; Emby Premiere es de pago y desbloquea sincronización móvil y offline.
 - **Navidrome** — totalmente gratuito y de código abierto.
 - **Subsonic** — el servidor oficial cuesta 1 $/mes tras 30 días de prueba, pero su API es abierta y muchos servidores gratuitos (incluido Navidrome) la implementan.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="¿Puedo reproducir desde mi NAS doméstico por SFTP, FTP o NFS?" closed="true" %}}
+{{% ls-details title="¿Puedo reproducir desde mi NAS doméstico por SFTP, FTP o NFS?" closed="true" %}}
 Sí. Evermusic 8.6 añade SFTP, FTP y NFS como tipos de conexión nativos. SFTP es la opción recomendada para reproducir desde tu propio servidor por internet abierto, ya que todo el tráfico va cifrado por SSH. FTP y NFS son mejores dentro de tu red local o detrás de una VPN.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="¿Cómo conecto Evermusic a un servidor propio usando SFTP?" closed="true" %}}
+{{% ls-details title="¿Cómo conecto Evermusic a un servidor propio usando SFTP?" closed="true" %}}
 Abre Evermusic, ve a la pestaña Conexiones, elige SFTP e introduce el nombre de host o la IP del servidor, el puerto (normalmente 22), el usuario y, o bien una contraseña, o una clave SSH privada. Evermusic listará tus carpetas remotas y reproducirá los archivos de audio directamente con cifrado de extremo a extremo.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="¿Evermusic admite Internxt y Proton Drive?" closed="true" %}}
+{{% ls-details title="¿Evermusic admite Internxt y Proton Drive?" closed="true" %}}
 Sí. Ambas nubes centradas en la privacidad son compatibles desde Evermusic 8.6. Se suman a Mega y a otros servicios privados ya disponibles en la app.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="¿Qué es Wi-Fi Drive en Evermusic?" closed="true" %}}
+{{% ls-details title="¿Qué es Wi-Fi Drive en Evermusic?" closed="true" %}}
 Wi-Fi Drive es la función integrada en Evermusic para transferir archivos de forma inalámbrica. Te permite subir música desde tu ordenador al iPhone o iPad por la red Wi-Fi local — sin iTunes, sin cables y sin cuenta en la nube. Puedes usar cualquier navegador de escritorio o un cliente WebDAV como Mac Finder o Windows File Explorer. Consulta la [guía completa de Wi-Fi Drive](/docs/howto/how-to-transfer-files-wirelessly-from-a-computer-to-an-iphone-using-wifi-drive/).
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="¿Cómo funciona el nuevo widget de letras?" closed="true" %}}
+{{% ls-details title="¿Cómo funciona el nuevo widget de letras?" closed="true" %}}
 El widget de letras muestra letras sincronizadas en el tiempo en la pantalla de inicio del iPhone, iPad o Mac para la pista que se está reproduciendo. La línea mostrada avanza automáticamente con la canción. Añádelo manteniendo pulsada la pantalla de inicio, tocando Editar > Añadir widget, buscando Evermusic y eligiendo el widget Letras.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="¿Evermusic 8.6 corrige los problemas de reproducción de Baidu Netdisk y Aliyun Drive?" closed="true" %}}
+{{% ls-details title="¿Evermusic 8.6 corrige los problemas de reproducción de Baidu Netdisk y Aliyun Drive?" closed="true" %}}
 Sí. Hemos hecho mejoras importantes de fiabilidad para 百度网盘 (Baidu Netdisk) y 阿里云盘 (Aliyun Drive), incluyendo listado de directorios más rápido, reintentos más inteligentes con conexiones débiles y mejor reanudación durante sesiones de reproducción largas.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="¿Es gratis actualizar a Evermusic 8.6?" closed="true" %}}
+{{% ls-details title="¿Es gratis actualizar a Evermusic 8.6?" closed="true" %}}
 Sí. Evermusic es una descarga gratuita en el App Store y la 8.6 es una actualización gratis para todos los usuarios actuales. El nuevo CarPlay, el widget de letras y todas las nuevas integraciones de servidor forman parte de la actualización base.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="¿En qué dispositivos está disponible Evermusic 8.6?" closed="true" %}}
+{{% ls-details title="¿En qué dispositivos está disponible Evermusic 8.6?" closed="true" %}}
 Evermusic 8.6 funciona en iPhone, iPad y Mac. El soporte CarPlay requiere un vehículo o unidad principal compatible con CarPlay.
-{{% /details %}}
+{{% /ls-details %}}

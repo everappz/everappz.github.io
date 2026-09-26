@@ -20,7 +20,7 @@ readingTime: 7
 Плейлисти у Flacbox можуть містити суміш онлайн-треків з хмари, завантажених офлайн-файлів і локальних файлів з пристрою — все в одному плейлисті — і відтворюватися без перебоїв.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Головний екран плейлистів Flacbox" image="/docs/guide/flacbox/img/playlists-main.webp" >}}
+  {{< ls-card title="" subtitle="Головний екран плейлистів Flacbox" image="/docs/guide/flacbox/img/playlists-main.webp" >}}
 {{< /cards >}}
 
 ## Створення плейлиста
@@ -63,7 +63,7 @@ readingTime: 7
 - **Офлайн режим** — завантажити всі треки з цього плейлиста до локальних файлів. Будь-які нові елементи, додані до плейлиста, також завантажуються автоматично.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Екран деталей плейлиста Flacbox" image="/docs/guide/flacbox/img/playlist-details-screen.webp" >}}
+  {{< ls-card title="" subtitle="Екран деталей плейлиста Flacbox" image="/docs/guide/flacbox/img/playlist-details-screen.webp" >}}
 {{< /cards >}}
 
 ## Більше дій для плейлиста на екрані плейлистів
@@ -82,7 +82,7 @@ readingTime: 7
 - **Видалити плейлист** — видалити плейлист із музичної бібліотеки. **Цю дію не можна скасувати.**
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Більше дій для плейлиста на головному екрані плейлистів Flacbox" image="/docs/guide/flacbox/img/more-actions-for-playlist-in-playlists-main-screen.webp" >}}
+  {{< ls-card title="" subtitle="Більше дій для плейлиста на головному екрані плейлистів Flacbox" image="/docs/guide/flacbox/img/more-actions-for-playlist-in-playlists-main-screen.webp" >}}
 {{< /cards >}}
 
 ## Більше дій для плейлиста на екрані деталей плейлиста
@@ -110,7 +110,7 @@ readingTime: 7
 Для ще простішого робочого процесу на довгих плейлистах виберіть «Більше дій → Перестановка пісень» для входу в спеціальний режим зміни порядку за допомогою перетягування.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Перестановка пісень у плейлисті Flacbox" image="/docs/guide/flacbox/img/playlist-details-rearange-songs.webp" >}}
+  {{< ls-card title="" subtitle="Перестановка пісень у плейлисті Flacbox" image="/docs/guide/flacbox/img/playlist-details-rearange-songs.webp" >}}
 {{< /cards >}}
 
 ## Зміна обкладинки плейлиста
@@ -126,7 +126,7 @@ readingTime: 7
 Відкрийте плейлист, натисніть кнопку **«...»** у верхньому правому куті та виберіть **Вибрати** для входу в режим вибору. Виберіть треки для видалення та натисніть **Видалити з плейлиста** внизу екрана. Підтвердіть, натиснувши **Готово**.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Режим вибору на екрані деталей плейлиста Flacbox" image="/docs/guide/flacbox/img/selection-mode-playlist-details-screen.webp" >}}
+  {{< ls-card title="" subtitle="Режим вибору на екрані деталей плейлиста Flacbox" image="/docs/guide/flacbox/img/selection-mode-playlist-details-screen.webp" >}}
 {{< /cards >}}
 
 ## Опції треку

@@ -16,16 +16,16 @@ screenshots:
   - "https://everappz.com/products/evermusic/screenshots/2048x2732/6.png"
 ---
 
-{{% sr-only %}}
+{{% ls-sr-only %}}
 Evermusicは、スペインのソフトウェア企業であるEverappzが開発した、iPhone・Mac向けの無料オフライン音楽プレーヤーです。世界中で1,100万回以上ダウンロードされ、App Storeで18,000件以上のレビューから4.6つ星の評価を獲得しており、EvermusicはiOSで最も人気のあるサードパーティ製音楽プレーヤーの一つです。iCloud Drive、Google Drive、Dropbox、OneDrive、MEGA、Box、pCloud、Yandex.Diskを含む30以上のクラウドストレージサービスに接続し、ユーザーはクラウドから直接個人の音楽ライブラリをストリーミングしたり、オフライン再生用にトラックをダウンロードしたりできます。EvermusicはMP3、FLAC、AAC、ALAC、WAV、AIFF、OGG、OPUS、WMA、APE、DSDなど幅広いオーディオフォーマットに対応しています。主な機能には、プリセット付き10バンドオーディオイコライザー、クロスフェードおよびギャップレス再生、M3Uプレイリストのインポート・エクスポート、歌詞表示、オーディオブックマーク、Apple CarPlay連携、AirPlayおよびChromecastストリーミング、Last.fmスクロブリングがあります。また、SMB、WebDAV、DLNAプロトコルによるローカルネットワークストリーミングや、LightningまたはUSB-Cアダプターを介したUSBフラッシュドライブ再生にも対応しています。EvermusicはApp Storeから無料でダウンロードでき、月額$4.99のサブスクリプション、年額$19.99のサブスクリプション、または$59.99の買い切り型を含むオプションのアプリ内課金が用意されています。2014年に初めてリリースされ、定期的なアップデートで積極的にメンテナンスされています。
-{{% /sr-only %}}
+{{% /ls-sr-only %}}
 
 
 <!-- <body class="hx:bg-transparent" style="background: radial-gradient(ellipse at 50% 80%, rgba(59,130,246,0.05), hsla(0,0%,100%,0));"> -->
 
-{{< force-dark >}}
+{{< ls-force-dark >}}
 
-{{< hextra/hero-container
+{{< ls-hero-container
   image="/products/evermusic/heroimage/hero_1200.png"
   imageWidth="600"
   imageCard="true"
@@ -34,40 +34,40 @@ Evermusicは、スペインのソフトウェア企業であるEverappzが開発
 <div class="hx:w-full hx:text-center">
 
 <div class="hx:mt-4">
-{{< downloads-badge >}}
+{{< ls-downloads-badge >}}
 </div>
 
 <div class="hx:mt-6 hx:mb-6">
 <div class="hx:flex hx:gap-4 hx:items-center hx:justify-center">
-  {{< app-icon src="/images/app_icons/png/Evermusic_Icon-App-1024x1024.png" alt="Evermusic Icon" class="hero-headline-icon" size="80" >}}
-  {{< hextra/hero-headline >}}
+  {{< ls-app-icon src="/images/app_icons/png/Evermusic_Icon-App-1024x1024.png" alt="Evermusic Icon" class="hero-headline-icon" size="80" >}}
+  {{< ls-hero-headline >}}
   Evermusic
-  {{< /hextra/hero-headline >}}
+  {{< /ls-hero-headline >}}
 </div>
 </div>
 
 <div class="hx:mb-6">
-{{< hextra/hero-centered-subtitle >}}
+{{< ls-hero-centered-subtitle >}}
 <a href="https://www.chip.de/downloads/Evermusic-Pro-iPhone-_-iPad-App_91614216.html" target="_blank" rel="noopener">
   クラウドから自分の音楽を整理・再生するための 完璧なソリューション <strong>chip.de</strong>
   </a>
-{{< /hextra/hero-centered-subtitle >}}
+{{< /ls-hero-centered-subtitle >}}
 </div>
 
 <div class="hx:mb-6">
-{{< hextra/hero-paragraph >}}
+{{< ls-hero-paragraph >}}
 • クロスフェード、ギャップレス再生、イコライザーで音楽を再生  
 • M3Uプレイリストをインポートし、曲をダウンロードしてオフラインで聴く  
 • クラウドドライブ、NAS、コンピューター、USBフラッシュドライブから音楽をストリーミング  
 • 聴きながら歌詞を表示し、いつでも再開できるオーディオブックマークを追加  
-{{< /hextra/hero-paragraph >}}
+{{< /ls-hero-paragraph >}}
 </div>
 
-{{< app-store-badges products="evermusic:ios, evermusic:macos" >}}
+{{< ls-app-store-badges products="evermusic:ios, evermusic:macos" >}}
 
 </div>
 
-{{< /hextra/hero-container >}}
+{{< /ls-hero-container >}}
 
 <div class="hx:mt-6"></div>
 
@@ -75,42 +75,42 @@ Evermusicは、スペインのソフトウェア企業であるEverappzが開発
 
 {{< hextra/feature-grid >}}
 
-  {{< hextra/feature-card
+  {{< ls-glass-feature-card
     title="クラウドにあなたの音楽を"
     subtitle="自分だけの高度な音楽ストリーミングサービスを無料で作りましょう！スマートバッファリングとシームレスな再生でお気に入りの曲をクラウドから直接ストリーミングし、デバイスのストレージを節約できます。iCloud Drive、Google Drive、Dropbox、OneDrive、Box、MEGA、pCloud、Proton Driveなど、さまざまなサービスに接続できます。"
     icon="cloud"
     style="background: radial-gradient(ellipse at 50% 80%, rgba(34,197,94,0.15), hsla(0,0%,100%,0));"
   >}}
 
-  {{< hextra/feature-card
+  {{< ls-glass-feature-card
     title="オフラインモード"
     subtitle="オフラインモードでは、お気に入りのアルバム、曲、アーティスト、ジャンル、プレイリストをダウンロードしてオフライン再生できます。飛行機の中でも、地下鉄でも、圏外でも、インターネットに接続していないときでも、ストリーミングなし、データ通信なしでどこでも音楽を楽しめます。"
     icon="download"
     style="background: radial-gradient(ellipse at 50% 80%, rgba(234,88,12,0.15), hsla(0,0%,100%,0));"
   >}}
 
-  {{< hextra/feature-card
+  {{< ls-glass-feature-card
     title="簡単ファイル転送"
     subtitle="MacまたはPCを接続して、自宅のコンピューターから直接音楽をストリーミング。Wi-Fi DriveまたはiTunesファイル共有を使用して、コンピューターとiOSデバイス間でオーディオファイルをシームレスに転送できます。NASやUSBフラッシュドライブを接続すれば、どこからでもライブラリにアクセスできます。"
     icon="duplicate"
     style="background: radial-gradient(ellipse at 50% 80%, rgba(251,191,36,0.15), hsla(0,0%,100%,0));"
   >}}
 
-  {{< hextra/feature-card
+  {{< ls-glass-feature-card
     title="メディアサーバー & NAS"
     subtitle="Plex、Emby、Jellyfin、Subsonic、Navidromeなどの個人メディアライブラリやホームサーバーに接続できます。Synology、QNAP、Nextcloud、WD My Cloud HomeなどのNASをSMB、WebDAV、FTP、SFTP、NFS、DLNA/UPnPで接続し、すべての音楽コレクションにどこからでもアクセスできます。"
     icon="desktop-computer"
     style="background: radial-gradient(ellipse at 50% 80%, rgba(59,130,246,0.15), hsla(0,0%,100%,0));"
   >}}
 
-  {{< hextra/feature-card
+  {{< ls-glass-feature-card
     title="プロオーディオエンジン"
     subtitle="真のギャップレス再生と、トラック間のなめらかなクロスフェードをお楽しみください。10バンドイコライザー、カスタムプリセット、プリアンプゲインでサウンドを調整でき、再生速度とピッチの調整に加え、リバーブ、エコー、コーラス、フランジャー、バスブースト、クロスフィード、音量正規化など充実したスタジオエフェクトも利用できます。"
     icon="adjustments"
     style="background: radial-gradient(ellipse at 50% 80%, rgba(192,38,211,0.15), hsla(0,0%,100%,0));"
   >}}
 
-  {{< hextra/feature-card
+  {{< ls-glass-feature-card
     title="歌詞、ウィジェット & CarPlay"
     subtitle="埋め込み歌詞や音楽に合わせてスクロールする同期LRC歌詞を、ロック画面、ホーム画面ウィジェット、Apple CarPlayでも表示できます。再生中、歌詞、お気に入り、最近再生した曲のウィジェットを追加すれば、常に同期された音楽をすぐに手元で楽しめます。"
     icon="annotation"
@@ -123,9 +123,9 @@ Evermusicは、スペインのソフトウェア企業であるEverappzが開発
 
 <div class="hx:mt-6"></div>
 
-{{< hextra/section-headline >}}
+{{< ls-section-headline >}}
   クリーンでシンプルなデザイン
-{{< /hextra/section-headline >}}
+{{< /ls-section-headline >}}
 
 <div class="hx:mt-6"></div>
 
@@ -133,7 +133,7 @@ Evermusicは、スペインのソフトウェア企業であるEverappzが開発
 
 {{< cards cols="4">}}
 
-  {{< design-feature-card 
+  {{< ls-design-feature-card 
     icon="adjustments"
     image="/products/evermusic/screenshots/2048x2732/3.png" 
     title="オーディオイコライザー" 
@@ -142,7 +142,7 @@ Evermusicは、スペインのソフトウェア企業であるEverappzが開発
     subtitle="iPodスタイルのオーディオイコライザー、カスタマイズ可能なプリセット、プリアンプゲインで最高のリスニング体験のためにサウンドを微調整。" 
   >}}
 
-  {{< design-feature-card 
+  {{< ls-design-feature-card 
     icon="annotation"
     image="/products/evermusic/screenshots/2048x2732/4.png"  
     title="歌詞ビューア" 
@@ -151,7 +151,7 @@ Evermusicは、スペインのソフトウェア企業であるEverappzが開発
     subtitle="聴きながら埋め込み歌詞とトラックコメントを読むことができます。同期歌詞でより没入感のある音楽体験を楽しみましょう。" 
   >}}
 
-  {{< design-feature-card 
+  {{< ls-design-feature-card 
     icon="collection"
     image="/products/evermusic/screenshots/2048x2732/5.png"  
     title="プレイリストマネージャー" 
@@ -160,7 +160,7 @@ Evermusicは、スペインのソフトウェア企業であるEverappzが開発
     subtitle="カスタムプレイリストの作成と整理、曲の並べ替え、M3Uへのエクスポート、ZIPファイルとしてアーカイブして簡単に共有やバックアップが可能。" 
   >}}
 
-  {{< design-feature-card 
+  {{< ls-design-feature-card 
     icon="cloud"
     image="/products/evermusic/screenshots/2048x2732/6.png"  
     title="クラウド音楽ストリーミング" 
@@ -169,7 +169,7 @@ Evermusicは、スペインのソフトウェア企業であるEverappzが開発
     subtitle="Google Drive、Dropbox、OneDriveなどのトップクラウドストレージプラットフォームを連携して、いつでもどこでも音楽コレクションをストリーミング。" 
   >}}
 
-  {{< design-feature-card 
+  {{< ls-design-feature-card 
     icon="duplicate"
     image="/products/evermusic/screenshots/2048x2732/9.png"  
     title="ファイルマネージャー" 
@@ -178,7 +178,7 @@ Evermusicは、スペインのソフトウェア企業であるEverappzが開発
     subtitle="オーディオファイルを簡単に管理—トラック名の変更、フォルダの整理、内蔵ツールを使用したデバイス間の音楽転送。" 
   >}} 
 
-  {{< design-feature-card 
+  {{< ls-design-feature-card 
     icon="sun"
     image="/products/evermusic/screenshots/2048x2732/10.png"  
     title="アプリのカスタマイズ" 
@@ -193,9 +193,9 @@ Evermusicは、スペインのソフトウェア企業であるEverappzが開発
 
 <div class="hx:mt-6"></div>
 
-{{< hextra/section-headline >}}
+{{< ls-section-headline >}}
   フル機能セット
-{{< /hextra/section-headline >}}
+{{< /ls-section-headline >}}
 
 <div class="hx:mt-6"></div>
 
@@ -203,47 +203,47 @@ Evermusicは、スペインのソフトウェア企業であるEverappzが開発
 
 {{< cards >}}
 
-  {{< feature-card title="すべてのオーディオフォーマットを再生" subtitle="Evermusicは、MP3、AAC、M4A、WAV、AIFF、ALAC、M4Bなど最も人気のあるオーディオフォーマットを再生できるので、音楽コレクション全体をどのデバイスでもすぐに楽しめます。" icon="music-note" >}}
+  {{< ls-feature-card title="すべてのオーディオフォーマットを再生" subtitle="Evermusicは、MP3、AAC、M4A、WAV、AIFF、ALAC、M4Bなど最も人気のあるオーディオフォーマットを再生できるので、音楽コレクション全体をどのデバイスでもすぐに楽しめます。" icon="music-note" >}}
 
-  {{< feature-card title="クラウドに接続" subtitle="ライブラリをクラウドに移してiPhoneの空き容量を確保し、自分だけのストリーミングサービスを構築しましょう。iCloud、Google Drive、Dropbox、OneDrive、MEGA、Internxt、Proton Driveに接続できます。" icon="cloud" >}}
+  {{< ls-feature-card title="クラウドに接続" subtitle="ライブラリをクラウドに移してiPhoneの空き容量を確保し、自分だけのストリーミングサービスを構築しましょう。iCloud、Google Drive、Dropbox、OneDrive、MEGA、Internxt、Proton Driveに接続できます。" icon="cloud" >}}
 
-  {{< feature-card title="メディアサーバーに接続" subtitle="Plex、Subsonic、Navidrome、Jellyfin、Embyなどの個人メディアサーバーをライブラリに直接接続し、所有するすべての音楽を自宅から手軽にストリーミングできます。" icon="server" >}}
+  {{< ls-feature-card title="メディアサーバーに接続" subtitle="Plex、Subsonic、Navidrome、Jellyfin、Embyなどの個人メディアサーバーをライブラリに直接接続し、所有するすべての音楽を自宅から手軽にストリーミングできます。" icon="server" >}}
 
-  {{< feature-card title="コンピューターまたはNASに接続" subtitle="コンピューターやNASをSMB、WebDAV、DLNA、FTP、SFTP、NFSで接続。QNAP、Synology、Nextcloud、WD My Cloud Home向けのネイティブAPIに対応し、Wi-Fiでのファイル転送も可能です。" icon="desktop-computer" >}}
+  {{< ls-feature-card title="コンピューターまたはNASに接続" subtitle="コンピューターやNASをSMB、WebDAV、DLNA、FTP、SFTP、NFSで接続。QNAP、Synology、Nextcloud、WD My Cloud Home向けのネイティブAPIに対応し、Wi-Fiでのファイル転送も可能です。" icon="desktop-computer" >}}
 
-  {{< feature-card title="オフライン音楽" subtitle="お気に入りの曲、アルバム、アーティストをダウンロードして、いつでもオフラインで楽しめます。オーディオプレーヤーのキャッシュを有効にすれば、最近再生したトラックを自動保存してオフライン再生できます。" icon="download" >}}
+  {{< ls-feature-card title="オフライン音楽" subtitle="お気に入りの曲、アルバム、アーティストをダウンロードして、いつでもオフラインで楽しめます。オーディオプレーヤーのキャッシュを有効にすれば、最近再生したトラックを自動保存してオフライン再生できます。" icon="download" >}}
 
-  {{< feature-card title="オーディオイコライザー" subtitle="内蔵イコライザーでサウンドを調整。人気の音楽ジャンル向けの既製プリセットに加え、手動コントロールで一曲ごとに思いどおりに微調整・増幅できます。" icon="adjustments" >}}
+  {{< ls-feature-card title="オーディオイコライザー" subtitle="内蔵イコライザーでサウンドを調整。人気の音楽ジャンル向けの既製プリセットに加え、手動コントロールで一曲ごとに思いどおりに微調整・増幅できます。" icon="adjustments" >}}
 
-  {{< feature-card title="ギャップレス再生" subtitle="曲間にポーズのないなめらかで途切れのない再生をお楽しみください。ライブ録音、コンセプトアルバム、DJミックス、クラシック音楽を最初から最後まで通して聴くのに最適です。" icon="volume-up" >}}
+  {{< ls-feature-card title="ギャップレス再生" subtitle="曲間にポーズのないなめらかで途切れのない再生をお楽しみください。ライブ録音、コンセプトアルバム、DJミックス、クラシック音楽を最初から最後まで通して聴くのに最適です。" icon="volume-up" >}}
 
-  {{< feature-card title="クロスフェード再生" subtitle="クロスフェードで音楽を途切れさせません。現在の曲が終わる前に次の曲がやさしく始まり、無音の隙間なくシームレスで連続した再生を実現します。" icon="switch-horizontal" >}}
+  {{< ls-feature-card title="クロスフェード再生" subtitle="クロスフェードで音楽を途切れさせません。現在の曲が終わる前に次の曲がやさしく始まり、無音の隙間なくシームレスで連続した再生を実現します。" icon="switch-horizontal" >}}
 
-  {{< feature-card title="オーディオエフェクト" subtitle="内蔵のオーディオエフェクトでサウンドを調整。音量正規化をオンにしてすべてのトラックを同じ音量に保ち、お好みでリバーブ、ディレイ、ディストーション、空間オーディオを加えられます。" icon="chip" >}}
+  {{< ls-feature-card title="オーディオエフェクト" subtitle="内蔵のオーディオエフェクトでサウンドを調整。音量正規化をオンにしてすべてのトラックを同じ音量に保ち、お好みでリバーブ、ディレイ、ディストーション、空間オーディオを加えられます。" icon="chip" >}}
 
-  {{< feature-card title="ミュージックビジュアライザー" subtitle="音楽にリアルタイムで反応するフルスクリーンのアニメーションビジュアルをお楽しみください。豊富なプリセットライブラリから選ぶことも、聴きながら自動で切り替えることもできます。" icon="sparkles" >}}
+  {{< ls-feature-card title="ミュージックビジュアライザー" subtitle="音楽にリアルタイムで反応するフルスクリーンのアニメーションビジュアルをお楽しみください。豊富なプリセットライブラリから選ぶことも、聴きながら自動で切り替えることもできます。" icon="sparkles" >}}
 
-  {{< feature-card title="歌詞とコメント" subtitle="再生中のオーディオトラックの埋め込みタイムド歌詞とコメントを表示。歌詞ウィジェットをホーム画面に追加すれば、いつでもさっと確認できます。" icon="annotation" >}}
+  {{< ls-feature-card title="歌詞とコメント" subtitle="再生中のオーディオトラックの埋め込みタイムド歌詞とコメントを表示。歌詞ウィジェットをホーム画面に追加すれば、いつでもさっと確認できます。" icon="annotation" >}}
 
-  {{< feature-card title="AirPlay & Chromecast" subtitle="内蔵のAirPlayとGoogle Chromecastサポートで、Apple TV、スマートスピーカー、その他のデバイスに音楽をワイヤレスでストリーミングし、家じゅうで手軽に楽しめます。" icon="device-mobile" >}}
+  {{< ls-feature-card title="AirPlay & Chromecast" subtitle="内蔵のAirPlayとGoogle Chromecastサポートで、Apple TV、スマートスピーカー、その他のデバイスに音楽をワイヤレスでストリーミングし、家じゅうで手軽に楽しめます。" icon="device-mobile" >}}
 
-  {{< feature-card title="Apple CarPlay" subtitle="専用のApple CarPlayインターフェースで、音楽、プレイリスト、再生コントロールを車のダッシュボードディスプレイに表示し、安全に運転しながら聴けます。" icon="truck" >}}
+  {{< ls-feature-card title="Apple CarPlay" subtitle="専用のApple CarPlayインターフェースで、音楽、プレイリスト、再生コントロールを車のダッシュボードディスプレイに表示し、安全に運転しながら聴けます。" icon="truck" >}}
 
-  {{< feature-card title="ウィジェット" subtitle="インタラクティブなホーム画面ウィジェットを有効にすれば再生キューにすばやくアクセスでき、最後に保存された位置からワンタップで続きを再生できます。" icon="view-grid" >}}
+  {{< ls-feature-card title="ウィジェット" subtitle="インタラクティブなホーム画面ウィジェットを有効にすれば再生キューにすばやくアクセスでき、最後に保存された位置からワンタップで続きを再生できます。" icon="view-grid" >}}
 
-  {{< feature-card title="オーディオブック" subtitle="オーディオブックマーク、再生速度コントロール、保存されたメディア位置で、アプリを本格的なオーディオブックプレーヤーに変身させます。ファイルのメタデータに保存されたテキスト情報も読めます。" icon="book-open" >}}
+  {{< ls-feature-card title="オーディオブック" subtitle="オーディオブックマーク、再生速度コントロール、保存されたメディア位置で、アプリを本格的なオーディオブックプレーヤーに変身させます。ファイルのメタデータに保存されたテキスト情報も読めます。" icon="book-open" >}}
 
-  {{< feature-card title="自動同期" subtitle="音楽ライブラリがクラウドとデバイス間で自動的に同期され、すべての曲をアーティスト、アルバム、ジャンルごとにきれいに分類するので、コレクションは常に整理された状態に保たれます。" icon="refresh" >}}
+  {{< ls-feature-card title="自動同期" subtitle="音楽ライブラリがクラウドとデバイス間で自動的に同期され、すべての曲をアーティスト、アルバム、ジャンルごとにきれいに分類するので、コレクションは常に整理された状態に保たれます。" icon="refresh" >}}
 
-  {{< feature-card title="プレイリストマネージャー" subtitle="プレイリストを作成・管理し、曲を並べ替え、どのプレイリストもオフラインで利用できます。トラックを名前、サイズ、曲番号、アルバムで並べ替えて、すべてを整理整頓できます。" icon="collection" >}}
+  {{< ls-feature-card title="プレイリストマネージャー" subtitle="プレイリストを作成・管理し、曲を並べ替え、どのプレイリストもオフラインで利用できます。トラックを名前、サイズ、曲番号、アルバムで並べ替えて、すべてを整理整頓できます。" icon="collection" >}}
 
-  {{< feature-card title="ID3タグエディター" subtitle="内蔵のID3タグエディターで破損または欠落したメタデータを修正し、タイトル、アーティスト、アルバムなどを更新して、音楽ライブラリをきれいに整理された状態に保てます。" icon="pencil-alt" >}}
+  {{< ls-feature-card title="ID3タグエディター" subtitle="内蔵のID3タグエディターで破損または欠落したメタデータを修正し、タイトル、アーティスト、アルバムなどを更新して、音楽ライブラリをきれいに整理された状態に保てます。" icon="pencil-alt" >}}
 
-  {{< feature-card title="ファイルマネージャー" subtitle="統合ファイルマネージャーで音楽を整理。コピー、移動、名前変更、削除といった日常的な操作に対応し、すべてのオーディオファイルをきちんと整えておけます。" icon="folder" >}}
+  {{< ls-feature-card title="ファイルマネージャー" subtitle="統合ファイルマネージャーで音楽を整理。コピー、移動、名前変更、削除といった日常的な操作に対応し、すべてのオーディオファイルをきちんと整えておけます。" icon="folder" >}}
 
-  {{< feature-card title="高度な検索" subtitle="スマート検索エンジンで、あらゆるものを数秒で見つけられます。音楽ライブラリ全体から、お気に入りのアルバム、アーティスト、曲をすばやく探し出せます。" icon="search" >}}
+  {{< ls-feature-card title="高度な検索" subtitle="スマート検索エンジンで、あらゆるものを数秒で見つけられます。音楽ライブラリ全体から、お気に入りのアルバム、アーティスト、曲をすばやく探し出せます。" icon="search" >}}
 
-  {{< feature-card title="USBフラッシュカード" subtitle="SanDisk iXpandのような外付けカードリーダーを接続すれば、SDカードやUSBフラッシュドライブから直接音楽を再生でき、追加の同期やダウンロードは不要です。" icon="inbox" >}}
+  {{< ls-feature-card title="USBフラッシュカード" subtitle="SanDisk iXpandのような外付けカードリーダーを接続すれば、SDカードやUSBフラッシュドライブから直接音楽を再生でき、追加の同期やダウンロードは不要です。" icon="inbox" >}}
   
 {{< /cards >}}
 
@@ -254,55 +254,55 @@ Evermusicは、スペインのソフトウェア企業であるEverappzが開発
 <div class="hx:mt-6"></div>
 
 <div class="hx:w-full">
-{{< appstore-reviews apps="885367198,1564384601" stars="5,4"  app="Evermusic" >}}
+{{< ls-appstore-reviews apps="885367198,1564384601" stars="5,4"  app="Evermusic" >}}
 </div>
 
 <div class="hx:mt-6"></div>
 
-{{< hextra/section-headline >}}
+{{< ls-section-headline >}}
   料金プラン
-{{< /hextra/section-headline >}}
+{{< /ls-section-headline >}}
 
 <div class="hx:mt-6"></div>
 
 <div class="hx:w-full">
-{{< pricing-plans >}}
+{{< ls-pricing-plans >}}
 
 </div>
 
 <div class="hx:mt-6"></div>
 
 <div class="hx:w-full hx:mx-auto hx:flex hx:flex-col hx:items-center">
-  {{< hextra/info-paragraph border="true" >}}
+  {{< ls-info-paragraph border="true" >}}
    <strong>ファミリー共有</strong>：すべての購入とサブスクリプションはファミリー共有をサポートしており、ご家族とプレミアムアクセスを共有できます。<br><strong>ユニバーサルアクセス</strong>：永久版とサブスクリプションプランはiCloudの同期を使用してiOSとMacデバイス間で共有されます。<br><strong>価格</strong>：価格は米国向けの米ドルで表示されています。最終価格はお住まいの地域によって異なる場合があります。  
-  {{< /hextra/info-paragraph >}}
+  {{< /ls-info-paragraph >}}
 </div>
 
 <div class="hx:mt-6"></div>
 
 <div class="hx:w-full">
-{{< app-details heading="true" >}}
+{{< ls-app-details heading="true" >}}
 </div>
 
 <div class="hx:mt-6"></div>
 
-{{< hextra/section-headline >}}
+{{< ls-section-headline >}}
   よくある質問
-{{< /hextra/section-headline >}}
+{{< /ls-section-headline >}}
 
 <div class="hx:mt-6"></div>
 
 <div class="hx:w-full">
-{{% details title="Evermusicとは？" closed="true" %}}
+{{% ls-details title="Evermusicとは？" closed="true" %}}
 Evermusicは、さまざまなクラウドストレージサービスからお気に入りの曲を聴くことができる音楽プレーヤーアプリです。<br>
 音楽を簡単にダウンロードしてオフライン再生したり、プレイリストを作成・管理したり、内蔵イコライザーを使用してリスニング体験を向上させることができます。<br>
 Google Drive、Dropbox、OneDriveなどのサービスに対応しているため、すべての音楽を1か所にまとめ、どのデバイスからでもアクセスできます。<br><br>
 アプリはさまざまなオーディオフォーマットもサポートしており、アーティスト、アルバム、ジャンル、作曲者ごとに音楽ライブラリを整理できます。<br>
 クラウドストレージとデバイス間でライブラリを同期し、お気に入りの曲が常に利用可能であることを確認できます。<br>
 さらに、ギャップレス再生、クロスフェード、ChromecastやAirPlayデバイスへのストリーミング機能により、Evermusicはすべての音楽ニーズに対応する完全なソリューションを提供します。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Evermusicはどのように動作しますか？" closed="true" %}}
+{{% ls-details title="Evermusicはどのように動作しますか？" closed="true" %}}
 Evermusicは、Google Drive、Dropbox、OneDriveなどのさまざまなクラウドストレージサービスに接続し、どのデバイスからでも音楽ライブラリにアクセスできるようにします。<br>
 接続後、クラウドから直接音楽をブラウズしてストリーミングしたり、お気に入りの曲、アルバム、プレイリストをダウンロードしてオフライン再生したりできます。<br>
 アプリは複数のオーディオフォーマットをサポートしており、保存されている音楽ファイルを簡単に再生できます。<br><br>
@@ -322,15 +322,15 @@ Evermusicで、すべてのお気に入りのトラックが1つの便利な場�
 - [WiFi-Driveを使用してコンピューターからiPhoneにワイヤレスでファイルを転送する方法。](/docs/howto/how-to-transfer-files-wirelessly-from-a-computer-to-an-iphone-using-wifi-drive)<br>
 - [iPhoneにUSBフラッシュカードを接続して音楽を聴いたりファイルを管理する方法。](/docs/howto/how-to-connect-a-usb-flashcard-to-the-iphone-and-listen-to-music-or-manage-files-located-on-it)<br>
 - [WD My Cloud HomeからiPhoneで音楽を再生する方法。](/docs/howto/how-to-play-music-on-iphone-from-wd-my-cloud-home)
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Evermusicは無料ですか？" closed="true" %}}
+{{% ls-details title="Evermusicは無料ですか？" closed="true" %}}
 Evermusicは、プレミアムバージョンにアップグレードすることで解除できるいくつかの制限がある無料アプリケーションです。アプリケーションは、すべての制限を解除するための1回限りの永久アプリ内課金と2つのサブスクリプションオプション（1か月と1年）を提供しており、最適な価格を選択できます。価格は国や地域によって異なる場合があります。また、すべての購入とプランでファミリー共有が有効になっているため、家族のメンバーとプレミアムバージョンを共有できます。<br><br>
 永久購入とサブスクリプションはiOSとMac間で共有され、iCloudを使用してこの情報を同期します。iOSデバイスにプレミアムバージョンがある場合は、最新バージョンがインストールされていて、iCloudが有効になっていることを確認してください。iOSでアプリを起動し、購入情報がiCloudにアップロードされるまで1分待ちます。<br><br>
 [詳細を読む](/docs/faq/evermusic/what-is-the-difference-between-evermusic-and-evermusic-premium/)
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Evermusic無料版とEvermusic Premiumの違いは？" closed="true" %}}
+{{% ls-details title="Evermusic無料版とEvermusic Premiumの違いは？" closed="true" %}}
 **Evermusic無料版**<br>
 • 広告あり：無料版は収益を得るために広告を表示し、時折音楽のリスニングを妨げる場合があります。<br>
 • プレイリスト制限：無料版では最大(10)個のプレイリストを作成できます。<br>
@@ -357,10 +357,10 @@ Evermusicは、プレミアムバージョンにアップグレードするこ�
 • フルカスタマイズ：アプリアイコンの変更を含む完全なカスタマイズオプションを提供。<br><br>
 
 [詳細を読む](/docs/faq/evermusic/what-is-the-difference-between-evermusic-and-evermusic-premium/)
-{{% /details %}}
+{{% /ls-details %}}
 
 
-{{% details title="Evermusicは安全ですか？" closed="true" %}}
+{{% ls-details title="Evermusicは安全ですか？" closed="true" %}}
 Evermusicは、接続されたクラウドサービスとの通信に公式SDKとセキュアな接続のみを使用しています。ログインとパスワードはアプリケーションにアクセスできません。アプリケーションからクラウドサービスへのすべてのリクエストは暗号化されています。<br>
 ログインとパスワードを入力すると、アプリケーションはクラウドサービスプロバイダーが提供する公式認証ページを表示し、認証プロセス全体がアプリケーションの外部で行われます。クラウドサービスプロバイダーは認証成功後にアプリケーションにauth-tokenを送信し、そのトークンがAPI呼び出しに使用されます。<br><br>
 
@@ -372,24 +372,24 @@ auth-tokenを取り消すには、Webブラウザでアカウントにログイ�
 アプリケーション内で接続されたクラウドアカウントを切断することもでき、auth-tokenもデバイスから削除されます。デバイスからアプリケーションを削除すると、すべてのダウンロードデータとアクセストークンも削除されます。<br><br>
 
 [詳細を読む](/docs/guide/evermusic/evermusic-guide-connections/)
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Evermusicでプレイリストを作成するには？" closed="true" %}}
+{{% ls-details title="Evermusicでプレイリストを作成するには？" closed="true" %}}
 - プレイリストセクションを開きます。<br>
 - 右上隅の「+」ボタンまたは「...」ボタンをタップし、「新しいプレイリスト」を選択します。<br>
 - プレイリストの名前を入力し、「保存」をタップします。「曲を追加」ダイアログが表示されます。<br>
 - プレイリストに追加したい曲を選択します。<br><br>
 
 [詳細を読む](/docs/guide/evermusic/evermusic-guide-playlists/)
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Evermusicはどのクラウドサービスに対応していますか？" closed="true" %}}
+{{% ls-details title="Evermusicはどのクラウドサービスに対応していますか？" closed="true" %}}
 現在、アプリケーションは最も人気のあるクラウドサービスをサポートしています：iCloud Drive、Google Drive、Dropbox、OneDrive、Box、MEGA、Yandex.Disk、WD MyCloud Home、DLNA、MediaFire、WebDAV、SMB、pCloud、HiDrive、百度网盘、My Cloud Home、InfiniCLOUD、Cloud Mail.ru、Put.io、MyDrive。<br><br>
 
 [詳細を読む](/docs/guide/evermusic/evermusic-guide-connections/)
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="イコライザーの使い方は？" closed="true" %}}
+{{% ls-details title="イコライザーの使い方は？" closed="true" %}}
 - オーディオプレーヤー画面を開きます。<br>
 - 画面下部の「イコライザー」アイコンをタップします。<br>
 - イコライザー画面の右上隅のトグルスイッチをオンにしてイコライザーを有効にします。<br>
@@ -397,9 +397,9 @@ auth-tokenを取り消すには、Webブラウザでアカウントにログイ�
 
 フルチュートリアルはこちら：<br>
 [iPhone、iPad、MacでEvermusicとFlacboxのオーディオイコライザーを使用する方法](/docs/howto/how-to-use-the-audio-equalizer-on-your-iphone-ipad-mac-with-evermusic-and-flacbox)
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Evermusicでオフラインモードを有効にするには？" closed="true" %}}
+{{% ls-details title="Evermusicでオフラインモードを有効にするには？" closed="true" %}}
 - クラウドサービスの接続：<br>
  • 「接続」タブに移動します。<br>
  • 「クラウドストレージを接続」を選択し、指示に従って目的のサービスを接続します。<br><br>
@@ -423,9 +423,9 @@ auth-tokenを取り消すには、Webブラウザでアカウントにログイ�
  • 「その他のアクション」をタップし、「同期を開始」を選択します。<br><br>
 
 [詳細を読む](/docs/howto/play-offline-music-in-evermusic-flacbox-download-sync-from-cloud-to-local-files/)
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="iPhoneでローカルにダウンロードした音楽を再生するには？" closed="true" %}}
+{{% ls-details title="iPhoneでローカルにダウンロードした音楽を再生するには？" closed="true" %}}
 アプリケーションをインストールしたら、「ローカルファイル」画面を開き、「このiPhone上のファイル」セクションまでスクロールします。<br>
 そこから、複数のオーディオファイルを選択する場合は「ファイルを開く...」を、音楽フォルダを選択する場合は「フォルダを開く...」を選択します。<br>
 アプリがフォルダの内容をスキャンし、見つかったすべてのオーディオファイルが選択されます。<br>
@@ -456,15 +456,15 @@ auth-tokenを取り消すには、Webブラウザでアカウントにログイ�
 これらのシンプルな手順で、iPhoneとMacの可能性を最大限に活用し、大切なローカル音楽コレクションを楽しむための究極のプラットフォームとしてご利用いただけます。<br><br>
 
 [詳細を読む](/docs/howto/how-to-play-local-music-stored-on-your-iphone-or-mac)
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="プレイリストを中断した場所から再開するには？" closed="true" %}}
+{{% ls-details title="プレイリストを中断した場所から再開するには？" closed="true" %}}
 まず、設定 > オーディオプレーヤー > 一般で「オーディオプレーヤーの状態を保存」が有効になっていることを確認します。<br>
 別のプレイリストに切り替えて戻ると、アルバムアートワークの下の上部ツールバーに4つのアクションが表示されます：「検索」、「再生を再開」、「すべて再生」、「すべてシャッフル」。<br>
 「再生を再開」をタップすると、最後に保存された状態とメディアポジションからプレイリストが再開されます。<br>
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Evermusicで曲の歌詞を表示するには？" closed="true" %}}
+{{% ls-details title="Evermusicで曲の歌詞を表示するには？" closed="true" %}}
 Evermusicアプリで埋め込み歌詞を表示する手順：<br>
 1. オーディオファイルをタップして再生を開始します。<br>
 2. フルスクリーンオーディオプレーヤーを開きます。<br>
@@ -478,9 +478,9 @@ Evermusicアプリで埋め込み歌詞を表示する手順：<br>
 3. 「LRCファイルモード」：オーディオファイルを編集する代わりに、元のオーディオファイルと同じフォルダにLRCファイルを配置できます。両方のファイルは同じ名前で異なる拡張子を持つ必要があります。コメント画面で3ページ目にスワイプすると、アプリは同じディレクトリでLRCファイルを検索してその内容を表示します。<br><br>
 
 [詳細を読む](/docs/howto/how-to-add-and-view-comments-to-your-audio-tracks-on-iphone-ipad-and-mac-with-evermusic-and-flacbox)
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="コンピューターからEvermusicに音楽を転送するには？" closed="true" %}}
+{{% ls-details title="コンピューターからEvermusicに音楽を転送するには？" closed="true" %}}
 SMB、WebDAV、またはDLNAプロトコルを使用してコンピューターまたは個人NASを接続できます。または、iTunesファイル共有を使用して音楽を転送できます。<br><br>
 
 **SMB**プロトコルを使用してコンピューターを接続するには、「クラウドサービスに接続」→ SMBをタップします。<br>
@@ -517,9 +517,9 @@ iTunes →「アプリケーション」セクション → Evermusicを見つ�
 
 **DLNA**を使用して、DLNAメディアサーバーをセットアップし、Windows PCから音楽をストリーミングすることもできます：<br>
 [Windows 10でDLNAメディアサーバーを有効にしてiPhoneで音楽を再生する方法](/docs/howto/how-to-enable-dlna-media-server-on-windows-10-and-play-your-music-on-iphone)
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="音楽をダウンロードするには？" closed="true" %}}
+{{% ls-details title="音楽をダウンロードするには？" closed="true" %}}
 音楽をダウンロードしてオフラインで聴く前に、ネットワークアカウントを接続する必要があります。<br>
 「接続」画面を開いてアカウントを追加するだけです。<br>
 ネットワークアカウントを追加したら、クラウドから音楽をダウンロードできます。<br><br>
@@ -540,9 +540,9 @@ iTunes →「アプリケーション」セクション → Evermusicを見つ�
 
 もう1つのオプションとして、Youtubeから音楽をダウンロードしてEvermusicにインポートすることもできます：<br>
 [YouTubeから音楽をダウンロードしてiPhoneでオフライン音楽を聴く方法](/docs/howto/how-to-download-music-from-youtube-and-listen-to-offline-music-on-iphone)
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="EvermusicはApple CarPlayに対応していますか？" closed="true" %}}
+{{% ls-details title="EvermusicはApple CarPlayに対応していますか？" closed="true" %}}
 はい、**EvermusicはApple CarPlayに完全対応しています**。音楽ライブラリのブラウズ、ローカルまたはオフラインファイルの再生、クラウドストレージへの接続、車のインフォテインメント画面から直接の再生コントロールが可能です。
 
 CarPlayインターフェースには**ライブラリ**、**接続**、**ローカルファイル**、**設定**の専用タブが含まれており、移動中の音楽を完全にコントロールできます。再生コントロール、シャッフル、リピート、キュー管理も利用可能です。
@@ -550,9 +550,9 @@ CarPlayインターフェースには**ライブラリ**、**接続**、**ロー
 CarPlayを使用するには、Siriが有効であり、iPhoneがUSBまたはワイヤレスで接続されていることを確認してください。
 
 [完全ガイドを読む](/docs/howto/how-to-play-your-own-music-on-iphone-using-carplay/)
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Evermusicはどのオーディオフォーマットに対応していますか？" closed="true" %}}
+{{% ls-details title="Evermusicはどのオーディオフォーマットに対応していますか？" closed="true" %}}
 対応しているオーディオフォーマットとファイル拡張子の完全なリストは以下の通りです：<br><br>
 
 **対応オーディオフォーマット：**<br>
@@ -570,40 +570,40 @@ CarPlayを使用するには、Siriが有効であり、iPhoneがUSBまたはワ
 mpeg, aifc, 3gp, avi, aif, latm, 3gpp, m4a, loas, cdda, aac, m4p, m4b, ac3, pls, mp4v, m3u, m4r, aiff, xhe, mp1, snd, mp2, wav, qt, wave, m3u8, m4v, mp3, 3g2, caf, mp4, flac, au, w64, ec3, adts, amr, vtt, mpa, aa<br><br>
 
 この幅広い対応フォーマットとファイル拡張子により、お好みのフォーマットで音楽を楽しむことができます。
-{{% /details %}}
+{{% /ls-details %}}
 
 </div>
 
 <div class="hx:mt-6"></div>
 
-{{< hextra/section-headline >}}
+{{< ls-section-headline >}}
   ユーザーガイド
-{{< /hextra/section-headline >}}
+{{< /ls-section-headline >}}
 
 <div class="hx:mt-6"></div>
 
 <div class="hx:w-full">
 
 <div class="hx:w-full hx:mx-auto hx:flex hx:flex-col hx:items-center hx:text-center">
-  {{< hextra/info-paragraph border="false" >}}
+  {{< ls-info-paragraph border="false" >}}
   このガイドは、iPhone、iPad、またはMacでEvermusicを最大限に活用するのに役立ちます。クラウドからの音楽ストリーミング、オーディオブックの管理、デバイス間での音楽の移動方法を学びましょう。Evermusicは、1つの使いやすいアプリで音楽コレクションを完全にコントロールします。
-  {{< /hextra/info-paragraph >}}
+  {{< /ls-info-paragraph >}}
 </div>
 
 {{< cards >}}
-  {{< feature-card icon="location-marker" title="ナビゲーション" subtitle="iPhoneのタブバーまたはiPad・Macの左メニューを使用したEvermusicのナビゲーション方法を学びましょう。" link="/docs/guide/evermusic/evermusic-guide-navigation" >}}
+  {{< ls-feature-card icon="location-marker" title="ナビゲーション" subtitle="iPhoneのタブバーまたはiPad・Macの左メニューを使用したEvermusicのナビゲーション方法を学びましょう。" link="/docs/guide/evermusic/evermusic-guide-navigation" >}}
 
-  {{< feature-card icon="cloud" title="接続" subtitle="クラウドアカウントを接続し、内蔵ファイルマネージャーを使用してオンラインファイルを管理します。" link="/docs/guide/evermusic/evermusic-guide-connections" >}}
+  {{< ls-feature-card icon="cloud" title="接続" subtitle="クラウドアカウントを接続し、内蔵ファイルマネージャーを使用してオンラインファイルを管理します。" link="/docs/guide/evermusic/evermusic-guide-connections" >}}
 
-  {{< feature-card icon="library" title="音楽ライブラリ" subtitle="音楽ライブラリでトラック、アルバム、アーティストを整理し、探索します。" link="/docs/guide/evermusic/evermusic-guide-music-library" >}}
+  {{< ls-feature-card icon="library" title="音楽ライブラリ" subtitle="音楽ライブラリでトラック、アルバム、アーティストを整理し、探索します。" link="/docs/guide/evermusic/evermusic-guide-music-library" >}}
 
-  {{< feature-card icon="collection" title="プレイリスト" subtitle="気分やシーンに合わせたプレイリストを作成・整理します。" link="/docs/guide/evermusic/evermusic-guide-playlists" >}}
+  {{< ls-feature-card icon="collection" title="プレイリスト" subtitle="気分やシーンに合わせたプレイリストを作成・整理します。" link="/docs/guide/evermusic/evermusic-guide-playlists" >}}
 
-  {{< feature-card icon="folder" title="ローカルファイル" subtitle="ローカルファイルセクションからオフライン音楽にアクセスし管理します。" link="/docs/guide/evermusic/evermusic-guide-local-files" >}}
+  {{< ls-feature-card icon="folder" title="ローカルファイル" subtitle="ローカルファイルセクションからオフライン音楽にアクセスし管理します。" link="/docs/guide/evermusic/evermusic-guide-local-files" >}}
 
-  {{< feature-card icon="play" title="オーディオプレーヤー" subtitle="再生、キュー、イコライザーやスリープタイマーなどのオーディオ設定をコントロール。" link="/docs/guide/evermusic/evermusic-guide-player" >}}
+  {{< ls-feature-card icon="play" title="オーディオプレーヤー" subtitle="再生、キュー、イコライザーやスリープタイマーなどのオーディオ設定をコントロール。" link="/docs/guide/evermusic/evermusic-guide-player" >}}
 
-  {{< feature-card icon="adjustments" title="設定" subtitle="Evermusicの外観、機能、パフォーマンス設定をカスタマイズ。" link="/docs/guide/evermusic/evermusic-guide-settings" >}}
+  {{< ls-feature-card icon="adjustments" title="設定" subtitle="Evermusicの外観、機能、パフォーマンス設定をカスタマイズ。" link="/docs/guide/evermusic/evermusic-guide-settings" >}}
 
 {{< /cards >}}
 

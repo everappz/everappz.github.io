@@ -1,10 +1,11 @@
 ---
+excludeSearch: true
 date: '2025-06-12T17:00:00+00:00'
 title: 'Sobre nosaltres'
 description: 'Everappz S.L. és una empresa de programari espanyola que desenvolupa aplicacions iOS i macOS per a àudio i vídeo. Creadors d''Evermusic (11M de descàrregues), Flacbox, EverTag, EverVideo — més de 14 milions de descàrregues a tot el món.'
 ---
 
-{{< lottie src="/images/juicy-json/juicy-girl-and-guy-preparing-start-up-rocket-to-launch-with-ideas.json" width="65%" >}}
+{{< ls-lottie src="/images/juicy-json/juicy-girl-and-guy-preparing-start-up-rocket-to-launch-with-ideas.json" width="65%" >}}
 
 ## Qui som
 
@@ -35,7 +36,7 @@ Som aquí per continuar creant millor programari — una actualització meditada
 ### Artem Meleshko
 
 {{< cards cols="1" >}}
-  {{< card
+  {{< ls-card
     link="https://www.linkedin.com/in/artem-meleshko-s/"
     title="Artem Meleshko"
     tag="Fundador i Enginyer"
@@ -60,7 +61,7 @@ Va estudiar a la Universitat Nacional de Construcció Naval Admiral Makarov, és
 ### Anna Kosenko
 
 {{< cards cols="1" >}}
-  {{< card
+  {{< ls-card
     link="https://www.linkedin.com/in/anna-kosenko-kosenko/"
     title="Anna Kosenko"
     tag="Directora"
@@ -86,4 +87,4 @@ Gràcies per utilitzar les nostres aplicacions i donar suport al desenvolupament
 
 Subscriviu-vos a les nostres xarxes socials per rebre les últimes notícies, actualitzacions d'aplicacions, consells i informació útil:
 
-{{< social-cards >}}
+{{< ls-social-cards >}}

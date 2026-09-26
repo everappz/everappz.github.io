@@ -7,7 +7,7 @@ tags: ["muzik", "awan", "penstriman", "penyegerakan", "icloud", "perpustakaan"]
 keywords: ["import muzik iCloud Evermusic", "Flacbox penyegerakan iCloud", "Evermusic strim dari iCloud", "perpustakaan muzik aplikasi iOS", "Flacbox pembaca metadata", "penstriman muzik iCloud iPhone"]
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **Ringkasan:** Anda boleh menstrim perpustakaan muzik iCloud Drive anda dalam Evermusic dan Flacbox tanpa memuat turun fail ke peranti anda. Sambungkan iCloud Drive dalam aplikasi, aktifkan Penyegerakan Muzik Dalam Talian untuk membina perpustakaan anda, konfigurasikan pembaca metadata untuk mengatur mengikut artis/album/genre, dan secara pilihan aktifkan Mod Luar Talian untuk memuat turun album untuk mendengar tanpa internet. Langkah-langkah ini juga berfungsi dengan Google Drive, Dropbox, OneDrive dan perkhidmatan awan lain yang disokong.
@@ -148,26 +148,26 @@ Itu sahaja untuk hari ini! Kami berharap panduan ini membantu anda mengkonfigura
 
 ## Soalan Lazim
 
-{{% details title="Bolehkah saya menstrim muzik iCloud tanpa memuat turun fail ke iPhone saya?" closed="true" %}}
+{{% ls-details title="Bolehkah saya menstrim muzik iCloud tanpa memuat turun fail ke iPhone saya?" closed="true" %}}
 Ya. Apabila anda menyambungkan iCloud Drive dalam Evermusic atau Flacbox dan menggunakan Penyegerakan Muzik Dalam Talian, aplikasi mencipta pautan ke fail awan anda dan menstrimnya atas permintaan. Fail tidak dimuat turun melainkan anda secara eksplisit mengaktifkan Mod Luar Talian.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Mengapa import muzik iCloud perlahan dalam Flacbox atau Evermusic?" closed="true" %}}
+{{% ls-details title="Mengapa import muzik iCloud perlahan dalam Flacbox atau Evermusic?" closed="true" %}}
 Import perlahan biasanya disebabkan oleh pembacaan metadata pada perpustakaan besar melalui sambungan mudah alih. Aktifkan Penyegerakan Latar Belakang, mulakan main balik audio untuk memastikan aplikasi kekal aktif, dan pertimbangkan menggunakan versi Mac untuk penyegerakan awal koleksi besar.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Adakah panduan ini berfungsi dengan perkhidmatan awan selain iCloud?" closed="true" %}}
+{{% ls-details title="Adakah panduan ini berfungsi dengan perkhidmatan awan selain iCloud?" closed="true" %}}
 Ya. Langkah yang sama berlaku untuk Google Drive, Dropbox, OneDrive, SMB, WebDAV dan semua perkhidmatan awan lain yang disokong oleh Evermusic dan Flacbox.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Bagaimana cara memindahkan perpustakaan muzik saya dari Mac ke iPhone?" closed="true" %}}
+{{% ls-details title="Bagaimana cara memindahkan perpustakaan muzik saya dari Mac ke iPhone?" closed="true" %}}
 Gunakan ciri sandaran/pemulihan data dalam tetapan aplikasi. Segerakkan dan baca metadata pada versi Mac dahulu, cipta sandaran, kemudian pulihkan pada versi iOS. Ini adalah cara terpantas untuk menyediakan perpustakaan besar pada iPhone.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Adakah pembaca metadata akan mengubah fail audio asal saya?" closed="true" %}}
+{{% ls-details title="Adakah pembaca metadata akan mengubah fail audio asal saya?" closed="true" %}}
 Tidak. Pembaca metadata hanya mengemas kini maklumat paparan dalam perpustakaan muzik anda. Ia tidak mengubah suai fail yang disimpan dalam akaun awan atau pada peranti anda. Untuk mengedit tag fail, gunakan editor tag terbina dalam.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Bagaimana cara menjadikan album tersedia secara luar talian?" closed="true" %}}
+{{% ls-details title="Bagaimana cara menjadikan album tersedia secara luar talian?" closed="true" %}}
 Gunakan ciri Mod Luar Talian. Ketik **Lebih banyak tindakan** pada mana-mana folder awan dan pilih **Mengaktifkan mod luar talian**. Aplikasi memuat turun semua fail dan memastikannya sentiasa disegerakkan dengan versi awan secara automatik.
-{{% /details %}}
+{{% /ls-details %}}

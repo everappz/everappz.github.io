@@ -8,7 +8,7 @@ tags: ["musica", "cloud", "lettore", "downloader", "equalizzatore", "lossless", 
 readingTime: 8
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **In breve:** Per riprodurre FLAC su un iPhone ti serve un lettore di terze parti, perché l'app Musica di Apple non supporta il FLAC. Installa [Flacbox](/products/flacbox) (è gratuito), poi trasferisci i tuoi file tramite Wi-Fi Drive o USB, oppure collega il tuo archivio cloud o il tuo NAS. La tua libreria FLAC viene riprodotta alla massima qualità, fino a 384 kHz e 32-bit tramite un USB DAC. Flacbox riproduce anche più di 120 formati, tra cui FLAC, DSD, ALAC, APE, WAV, OGG e OPUS, e aggiunge un equalizzatore a 10 bande, il motore audio professionale BASS con effetti in tempo reale, un processore DSP e un visualizzatore musicale a schermo intero.
@@ -34,7 +34,7 @@ Flacbox è un lettore musicale hi-res per iPhone, iPad e Mac. Trasforma il tuo a
 
 Flacbox è un download gratuito e funziona su iPhone, iPad e Mac.
 
-{{< app-details product="flacbox" >}}
+{{< ls-app-details product="flacbox" >}}
 
 ### Passo 2. Porta dentro i tuoi file FLAC
 
@@ -82,7 +82,7 @@ Puoi scegliere il motore di riproduzione in Impostazioni, poi Lettore audio, poi
 Flacbox include un equalizzatore grafico a 10 bande con preset in stile iPod come Acoustic, Bass Booster, Rock, Pop, Jazz, Classical e Dance. C'è un preamplificatore per alzare i brani troppo bassi senza clipping, e puoi salvare i tuoi preset. Regolalo per auricolari in-ear, un HomePod o l'impianto stereo dell'auto. Per una guida completa, consulta la [guida all'equalizzatore](/docs/howto/how-to-use-the-audio-equalizer-on-your-iphone-ipad-mac-with-evermusic-and-flacbox).
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Equalizzatore del Lettore audio Flacbox" image="/docs/guide/flacbox/img/audio-player-equalizer.webp" >}}
+  {{< ls-card title="" subtitle="Equalizzatore del Lettore audio Flacbox" image="/docs/guide/flacbox/img/audio-player-equalizer.webp" >}}
 {{< /cards >}}
 
 ## Effetti audio in tempo reale
@@ -106,7 +106,7 @@ Oltre agli effetti, Flacbox ti offre un processore DSP a 14 filtri in tempo real
 Flacbox ha un visualizzatore musicale integrato che dipinge immagini in movimento e piene di colore a tempo con la tua musica. Usa il noto motore Milkdrop (projectM) con 500 preset, disegnati con OpenGL su iPhone, iPad e Mac. Aprilo dal lettore toccando il pulsante Altre azioni e poi Visualizzazione. Scegli un preset, oppure usa la modalità Auto per scorrerli ogni 30 secondi con una dissolvenza fluida. Per un aiuto passo passo, consulta la guida su [come attivare il visualizzatore musicale](/docs/howto/how-to-turn-on-a-music-visualizer-while-playing-music-on-iphone-ipad-mac).
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Visualizzatore musicale Flacbox (Milkdrop e projectM)" image="/docs/howto/how-to-turn-on-a-music-visualizer-while-playing-music-on-iphone-ipad-mac/music-visualizer-starfield-sectors-preset.webp" >}}
+  {{< ls-card title="" subtitle="Visualizzatore musicale Flacbox (Milkdrop e projectM)" image="/docs/howto/how-to-turn-on-a-music-visualizer-while-playing-music-on-iphone-ipad-mac/music-visualizer-starfield-sectors-preset.webp" >}}
 {{< /cards >}}
 
 ## Cloud, NAS e riproduzione offline
@@ -127,7 +127,7 @@ Quando vuoi la tua musica con te, il gestore di download integrato salva intere 
 
 Flacbox è gratuito da scaricare. Premium rimuove i limiti della versione gratuita su account cloud, playlist e cartelle offline, ed è disponibile come acquisto unico a vita oppure come abbonamento mensile o annuale, con In famiglia.
 
-{{< app-details product="flacbox" >}}
+{{< ls-app-details product="flacbox" >}}
 
 ## Opzione 2: convertire il FLAC in ALAC per l'app Musica
 
@@ -141,34 +141,34 @@ I compromessi sono reali. Ora conservi due copie della tua libreria, ogni modifi
 
 ## FAQ
 
-{{% details title="L'iPhone può riprodurre i file FLAC in modo nativo?" closed="true" %}}
+{{% ls-details title="L'iPhone può riprodurre i file FLAC in modo nativo?" closed="true" %}}
 Solo in modo limitato. L'app File può visualizzare l'anteprima di un singolo file FLAC da iOS 11, ma non c'è libreria, né playlist, né coda, né equalizzatore, né streaming dal cloud. Per un ascolto vero e proprio, usa un'app lettore come Flacbox.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Posso riprodurre FLAC a 24-bit o 96kHz (o superiori) su iPhone?" closed="true" %}}
+{{% ls-details title="Posso riprodurre FLAC a 24-bit o 96kHz (o superiori) su iPhone?" closed="true" %}}
 Sì. Flacbox supporta l'uscita hi-res fino a 384 kHz. Per riprodurre oltre i 48 kHz alla vera risoluzione, collega un USB DAC esterno, perché l'uscita integrata dell'iPhone ricampiona l'audio per ogni app.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Flacbox converte il FLAC in un altro formato?" closed="true" %}}
+{{% ls-details title="Flacbox converte il FLAC in un altro formato?" closed="true" %}}
 No. Flacbox riproduce il FLAC nella sua qualità lossless originale senza conversioni. Gli effetti e il DSP vengono applicati dal vivo solo durante la riproduzione, e non modificano mai i tuoi file.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Perdo qualità convertendo il FLAC in ALAC?" closed="true" %}}
+{{% ls-details title="Perdo qualità convertendo il FLAC in ALAC?" closed="true" %}}
 No. FLAC e ALAC sono entrambi lossless, quindi la conversione è bit-perfect. Spendi solo tempo e rinunci alla comodità, dato che finisci con due librerie da mantenere e devi risincronizzare dopo le modifiche.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Quali formati audio supporta Flacbox?" closed="true" %}}
+{{% ls-details title="Quali formati audio supporta Flacbox?" closed="true" %}}
 Più di 120 formati, tra cui FLAC, DSD (DSF e DFF), ALAC, APE, WAV, AIFF, WV, OGG, OPUS, MP3, AAC, M4A, WMA e persino musica tracker e MOD come MOD, XM, IT e S3M.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Flacbox ha un equalizzatore, effetti e un visualizzatore?" closed="true" %}}
+{{% ls-details title="Flacbox ha un equalizzatore, effetti e un visualizzatore?" closed="true" %}}
 Sì. Ha un equalizzatore a 10 bande con preset e un preamplificatore. Ha anche un motore professionale BASS con undici effetti in tempo reale (riverbero, delay, eco multi-tap, crossfeed, compressore, chorus, flanger, phaser, auto-wah, distortion e stereo rotation), oltre al livellamento del volume EBU R128, un processore DSP a 14 filtri e un visualizzatore Milkdrop a schermo intero con 500 preset.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Posso riprodurre FLAC in streaming dal mio NAS o dal cloud?" closed="true" %}}
+{{% ls-details title="Posso riprodurre FLAC in streaming dal mio NAS o dal cloud?" closed="true" %}}
 Sì. Flacbox si collega a più di 30 servizi cloud e a un NAS o computer tramite SMB, WebDAV, DLNA, FTP, SFTP e NFS. L'intera libreria è disponibile senza copiare file sul tuo iPhone, e puoi scaricare brani per la riproduzione offline in qualsiasi momento.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Flacbox è davvero gratuito?" closed="true" %}}
+{{% ls-details title="Flacbox è davvero gratuito?" closed="true" %}}
 Flacbox è gratuito da scaricare, con funzioni fondamentali come l'equalizzatore, lo streaming dal cloud e la riproduzione offline. Premium rimuove i limiti della versione gratuita su account cloud, playlist e cartelle offline, ed è disponibile come acquisto unico a vita oppure come abbonamento mensile o annuale, con In famiglia.
-{{% /details %}}
+{{% /ls-details %}}

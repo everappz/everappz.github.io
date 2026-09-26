@@ -7,7 +7,7 @@ tags: ["carplay", "iphone", "muzică locală", "redare offline", "evermusic", "f
 readingTime: 5
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **TL;DR:** Folosește [Evermusic](https://apps.apple.com/app/apple-store/id885367198?pt=95781850&ct=everappzcom&mt=8) sau [Flacbox](https://apps.apple.com/app/apple-store/id1097564256?pt=95781850&ct=everappzcom&mt=8) pentru a reda propriile fișiere MP3, FLAC sau alte fișiere audio pe iPhone prin Apple CarPlay. Adaugă muzică din stocarea în cloud, USB sau transfer Wi-Fi, apoi navighează prin bibliotecă, liste de redare și foldere direct pe ecranul mașinii tale.
@@ -17,7 +17,7 @@ readingTime: 5
 Vrei să redai propria muzică în mașină folosind Apple CarPlay? Fie că melodiile tale sunt stocate pe iPhone, în cloud sau offline — aplicații precum **Evermusic** și **Flacbox** fac ușoară ascultarea colecției tale personale de muzică în timp ce conduci.
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Coada CarPlay" image="/docs/howto/how-to-play-your-own-music-on-iphone-using-carplay/carplay-nowplaying-5.webp" imageStyle="border-radius: clamp(14px, 2vw, 28px);" >}}
+{{< ls-card title="" subtitle="Coada CarPlay" image="/docs/howto/how-to-play-your-own-music-on-iphone-using-carplay/carplay-nowplaying-5.webp" imageStyle="border-radius: clamp(14px, 2vw, 28px);" >}}
 {{< /cards >}}
 
 În acest ghid, îți vom arăta cum să pregătești fișierele muzicale pentru CarPlay, să le organizezi cu coperți de album și informații despre piese corecte și să le redai în siguranță de pe iPhone. Cu Evermusic sau Flacbox, poți crea liste de redare și transmite sau descărca melodii din servicii precum **Google Drive**, **Dropbox**, **OneDrive**, **NAS** sau computerul tău de acasă.
@@ -25,8 +25,8 @@ Vrei să redai propria muzică în mașină folosind Apple CarPlay? Fie că melo
 Aceste aplicații sunt perfecte pentru oricine dorește control deplin asupra bibliotecii muzicale.
 
 {{< cards cols="2">}}
-{{< card link="https://apps.apple.com/app/apple-store/id885367198?pt=95781850&ct=everappzcom&mt=8" title="Descarcă Evermusic" icon="download" tag="Free" >}}
-{{< card link="https://apps.apple.com/app/apple-store/id1097564256?pt=95781850&ct=everappzcom&mt=8" title="Descarcă Flacbox" icon="download" tag="Free" >}}
+{{< ls-card link="https://apps.apple.com/app/apple-store/id885367198?pt=95781850&ct=everappzcom&mt=8" title="Descarcă Evermusic" icon="download" tag="Free" >}}
+{{< ls-card link="https://apps.apple.com/app/apple-store/id1097564256?pt=95781850&ct=everappzcom&mt=8" title="Descarcă Flacbox" icon="download" tag="Free" >}}
 {{< /cards >}}
 
 ## Adaugă fișiere în aplicație
@@ -106,7 +106,7 @@ Transferă fișiere fără fir, așa cum este descris [aici](/docs/howto/how-to-
 Odată ce ai lansat aplicațiile noastre Evermusic sau Flacbox în modul CarPlay, vei vedea interfața principală împărțită în 4 file principale: Bibliotecă, **Conexiuni**, Fișiere locale, **Setări**.
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Meniul principal CarPlay" image="/docs/howto/how-to-play-your-own-music-on-iphone-using-carplay/library-with-images.webp" imageStyle="border-radius: clamp(14px, 2vw, 28px);" >}}
+{{< ls-card title="" subtitle="Meniul principal CarPlay" image="/docs/howto/how-to-play-your-own-music-on-iphone-using-carplay/library-with-images.webp" imageStyle="border-radius: clamp(14px, 2vw, 28px);" >}}
 {{< /cards >}}
 
 ## Bibliotecă
@@ -116,7 +116,7 @@ Fila **Bibliotecă** din Evermusic este hub-ul central unde toată muzica ta est
 Acest ecran îți oferă acces rapid la preferințe, recente, liste de redare, marcaje și toate piesele adăugate. Poți, de asemenea, relua redarea din ultima sesiune, vizualiza melodiile neredate și explora muzica după etichete sau tip de sursă.
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Bibliotecă" image="/docs/howto/how-to-play-your-own-music-on-iphone-using-carplay/library-with-images-3.webp" imageStyle="border-radius: clamp(14px, 2vw, 28px);" >}}
+{{< ls-card title="" subtitle="Bibliotecă" image="/docs/howto/how-to-play-your-own-music-on-iphone-using-carplay/library-with-images-3.webp" imageStyle="border-radius: clamp(14px, 2vw, 28px);" >}}
 {{< /cards >}}
 
 Secțiunea **Bibliotecă** conține următoarele categorii:
@@ -139,7 +139,7 @@ Secțiunea **Bibliotecă** conține următoarele categorii:
 - **Fișiere online** – Muzică transmisă direct din serviciile cloud
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Vizualizare albume" image="/docs/howto/how-to-play-your-own-music-on-iphone-using-carplay/albums.webp" imageStyle="border-radius: clamp(14px, 2vw, 28px);" >}}
+{{< ls-card title="" subtitle="Vizualizare albume" image="/docs/howto/how-to-play-your-own-music-on-iphone-using-carplay/albums.webp" imageStyle="border-radius: clamp(14px, 2vw, 28px);" >}}
 {{< /cards >}}
 
 Poți deschide orice submeniu și apăsa pe o piesă pentru a începe redarea instantaneu. Pentru mai multe detalii, consultă [Ghidul Bibliotecii Muzicale](/docs/guide/evermusic/evermusic-guide-music-library/) complet.
@@ -150,7 +150,7 @@ Poți deschide orice submeniu și apăsa pe o piesă pentru a începe redarea in
 Fila **Conexiuni** este hub-ul tău central pentru accesarea și gestionarea tuturor serviciilor de stocare în cloud conectate și dispozitivelor din rețeaua locală.
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Conexiuni" image="/docs/howto/how-to-play-your-own-music-on-iphone-using-carplay/connections-with-images-3.webp" imageStyle="border-radius: clamp(14px, 2vw, 28px);" >}}
+{{< ls-card title="" subtitle="Conexiuni" image="/docs/howto/how-to-play-your-own-music-on-iphone-using-carplay/connections-with-images-3.webp" imageStyle="border-radius: clamp(14px, 2vw, 28px);" >}}
 {{< /cards >}}
 
 De aici, te poți conecta la platforme cloud populare precum Dropbox, Google Drive, OneDrive, MEGA, iCloud Drive și chiar unități de rețea precum SMB, DLNA și WebDAV. Odată conectat, poți naviga, transmite, descărca și gestiona fișiere direct din aplicație.
@@ -172,7 +172,7 @@ Pentru a afla mai multe despre toate modalitățile de conectare și gestionare 
 Secțiunea **Fișiere locale** este hub-ul tău central pentru gestionarea fișierelor audio stocate direct pe dispozitiv sau în directorul **Documente** al aplicației Evermusic. Include, de asemenea, fișiere offline descărcate din stocarea în cloud, fișiere cache ale playerului audio și foldere pe care le-ai făcut disponibile pentru redare offline. Această secțiune asigură că te poți bucura de biblioteca muzicală chiar și fără conexiune la internet.
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Fișiere locale" image="/docs/howto/how-to-play-your-own-music-on-iphone-using-carplay/local-files-with-images.webp" imageStyle="border-radius: clamp(14px, 2vw, 28px);" >}}
+{{< ls-card title="" subtitle="Fișiere locale" image="/docs/howto/how-to-play-your-own-music-on-iphone-using-carplay/local-files-with-images.webp" imageStyle="border-radius: clamp(14px, 2vw, 28px);" >}}
 {{< /cards >}}
 
 Ecranul **Fișiere locale** este organizat în următoarele secțiuni cheie:
@@ -186,7 +186,7 @@ Ecranul **Fișiere locale** este organizat în următoarele secțiuni cheie:
 - **Player audio** – Un folder cache utilizat pentru crossfade și optimizarea performanței. Poate fi dezactivat sau golit din setări.
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Foldere dispozitiv în Fișiere locale" image="/docs/howto/how-to-play-your-own-music-on-iphone-using-carplay/local-files-device-folders.webp" imageStyle="border-radius: clamp(14px, 2vw, 28px);" >}}
+{{< ls-card title="" subtitle="Foldere dispozitiv în Fișiere locale" image="/docs/howto/how-to-play-your-own-music-on-iphone-using-carplay/local-files-device-folders.webp" imageStyle="border-radius: clamp(14px, 2vw, 28px);" >}}
 {{< /cards >}}
 
 Poți afla mai multe în [Ghidul Fișierelor Locale](/docs/guide/evermusic/evermusic-guide-local-files/) complet.
@@ -194,7 +194,7 @@ Poți afla mai multe în [Ghidul Fișierelor Locale](/docs/guide/evermusic/everm
 ## Vizualizare folder
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Folder local cu coperți" image="/docs/howto/how-to-play-your-own-music-on-iphone-using-carplay/local-folder-with-images-2.webp" imageStyle="border-radius: clamp(14px, 2vw, 28px);" >}}
+{{< ls-card title="" subtitle="Folder local cu coperți" image="/docs/howto/how-to-play-your-own-music-on-iphone-using-carplay/local-folder-with-images-2.webp" imageStyle="border-radius: clamp(14px, 2vw, 28px);" >}}
 {{< /cards >}}
 
 Când deschizi un folder, vei găsi un set de acțiuni utile în partea de sus:
@@ -206,7 +206,7 @@ Când deschizi un folder, vei găsi un set de acțiuni utile în partea de sus:
 ## Limita de adâncime a conținutului
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Limita de adâncime a conținutului" image="/docs/howto/how-to-play-your-own-music-on-iphone-using-carplay/content-depth-limit.webp" imageStyle="border-radius: clamp(14px, 2vw, 28px);" >}}
+{{< ls-card title="" subtitle="Limita de adâncime a conținutului" image="/docs/howto/how-to-play-your-own-music-on-iphone-using-carplay/content-depth-limit.webp" imageStyle="border-radius: clamp(14px, 2vw, 28px);" >}}
 {{< /cards >}}
 
 Când folosești CarPlay, poți întâmpina o eroare **"Limita de adâncime a conținutului"** — mai ales dacă biblioteca ta muzicală are multe foldere adânc imbricate.  
@@ -227,7 +227,7 @@ Această soluție asigură o experiență fără probleme la navigarea prin muzi
 ## Redare curentă
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="CarPlay Redare curentă" image="/docs/howto/how-to-play-your-own-music-on-iphone-using-carplay/carplay-nowplaying.webp" imageStyle="border-radius: clamp(14px, 2vw, 28px);" >}}
+{{< ls-card title="" subtitle="CarPlay Redare curentă" image="/docs/howto/how-to-play-your-own-music-on-iphone-using-carplay/carplay-nowplaying.webp" imageStyle="border-radius: clamp(14px, 2vw, 28px);" >}}
 {{< /cards >}}
 
 După ce apeși pe orice fișier audio, acesta este adăugat automat în **coada playerului**.  
@@ -244,7 +244,7 @@ Acest ecran îți permite să păstrezi controlul asupra experienței de asculta
 ## Setări
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Meniul Setări" image="/docs/howto/how-to-play-your-own-music-on-iphone-using-carplay/settings-2.webp" imageStyle="border-radius: clamp(14px, 2vw, 28px);" >}}
+{{< ls-card title="" subtitle="Meniul Setări" image="/docs/howto/how-to-play-your-own-music-on-iphone-using-carplay/settings-2.webp" imageStyle="border-radius: clamp(14px, 2vw, 28px);" >}}
 {{< /cards >}}
 
 Secțiunea **Setări** din interfața CarPlay îți permite să personalizezi modul în care aplicația se comportă în timp ce conduci. Aceste setări ajută la îmbunătățirea performanței, reducerea distragerilor și oferirea unei experiențe de ascultare mai fluide.
@@ -260,7 +260,7 @@ Secțiunea **Setări** din interfața CarPlay îți permite să personalizezi mo
 - **Sortare** – Ajustează modul în care conținutul este sortat în meniurile CarPlay precum fișiere, bibliotecă muzicală și conexiuni.
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Meniu opțiuni de sortare" image="/docs/howto/how-to-play-your-own-music-on-iphone-using-carplay/settings-sort.webp" imageStyle="border-radius: clamp(14px, 2vw, 28px);" >}}
+{{< ls-card title="" subtitle="Meniu opțiuni de sortare" image="/docs/howto/how-to-play-your-own-music-on-iphone-using-carplay/settings-sort.webp" imageStyle="border-radius: clamp(14px, 2vw, 28px);" >}}
 {{< /cards >}}
 
 - **Limita de încărcare a conținutului** – Setează câte elemente ar trebui să apară per ecran. Limitele mai mici îmbunătățesc viteza de încărcare și reduc efortul de derulare.
@@ -271,19 +271,19 @@ Secțiunea **Setări** din interfața CarPlay îți permite să personalizezi mo
 - **Egalizator audio**
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Panou de configurare egalizator" image="/docs/howto/how-to-play-your-own-music-on-iphone-using-carplay/settings-eq-configuration.webp" imageStyle="border-radius: clamp(14px, 2vw, 28px);" >}}
+{{< ls-card title="" subtitle="Panou de configurare egalizator" image="/docs/howto/how-to-play-your-own-music-on-iphone-using-carplay/settings-eq-configuration.webp" imageStyle="border-radius: clamp(14px, 2vw, 28px);" >}}
 {{< /cards >}}
 
 Activează egalizatorul audio încorporat, ajustează benzile de frecvență și selectează din presetările preconfigurate pentru o experiență sonoră personalizată.
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Lista presetărilor egalizatorului" image="/docs/howto/how-to-play-your-own-music-on-iphone-using-carplay/settings-equalizer.webp" imageStyle="border-radius: clamp(14px, 2vw, 28px);" >}}
+{{< ls-card title="" subtitle="Lista presetărilor egalizatorului" image="/docs/howto/how-to-play-your-own-music-on-iphone-using-carplay/settings-equalizer.webp" imageStyle="border-radius: clamp(14px, 2vw, 28px);" >}}
 {{< /cards >}}
 
 - **Redare cu crossfade**
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Redare cu crossfade" image="/docs/howto/how-to-play-your-own-music-on-iphone-using-carplay/settings-crossfade-playback.webp" imageStyle="border-radius: clamp(14px, 2vw, 28px);" >}}
+{{< ls-card title="" subtitle="Redare cu crossfade" image="/docs/howto/how-to-play-your-own-music-on-iphone-using-carplay/settings-crossfade-playback.webp" imageStyle="border-radius: clamp(14px, 2vw, 28px);" >}}
 {{< /cards >}}
 
 Creează tranziții line între melodii prin suprapunerea sfârșitului unei piese cu începutul următoarei. Durata crossfade poate fi personalizată.
@@ -291,7 +291,7 @@ Creează tranziții line între melodii prin suprapunerea sfârșitului unei pie
 - **Redare fără pauze**
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Redare fără pauze" image="/docs/howto/how-to-play-your-own-music-on-iphone-using-carplay/settings-gapless-playback.webp" imageStyle="border-radius: clamp(14px, 2vw, 28px);" >}}
+{{< ls-card title="" subtitle="Redare fără pauze" image="/docs/howto/how-to-play-your-own-music-on-iphone-using-carplay/settings-gapless-playback.webp" imageStyle="border-radius: clamp(14px, 2vw, 28px);" >}}
 {{< /cards >}}
 
 Redă piese fără întreruperi — ideal pentru înregistrări live, mixuri DJ și albume concept.
@@ -307,7 +307,7 @@ Pentru a afla mai multe, citește [Ghidul Setărilor](/docs/guide/evermusic/ever
 Cu **Evermusic** și **Flacbox**, redarea propriei muzici în mașină folosind Apple CarPlay devine simplă, flexibilă și fiabilă. Fie că transmiți din stocarea în cloud, accesezi fișiere locale sau redai piese descărcate offline — aceste aplicații sunt construite pentru a-ți oferi control total asupra experienței de ascultare în timp ce conduci.
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Ecran CarPlay Redare curentă" image="/docs/howto/how-to-play-your-own-music-on-iphone-using-carplay/carplay-nowplaying-2.webp" imageStyle="border-radius: clamp(14px, 2vw, 28px);" >}}
+{{< ls-card title="" subtitle="Ecran CarPlay Redare curentă" image="/docs/howto/how-to-play-your-own-music-on-iphone-using-carplay/carplay-nowplaying-2.webp" imageStyle="border-radius: clamp(14px, 2vw, 28px);" >}}
 {{< /cards >}}
 
 De la integrarea perfectă cu cloud-ul la sincronizarea folderelor offline, de la organizarea profundă a bibliotecii muzicale la redarea personalizabilă cu egalizatoare și crossfade — aceste funcții fac din Evermusic și Flacbox mai mult decât simple playere audio. Sunt compani inteligenți pentru CarPlay, proiectați pentru audiofili, navetiști și utilizatori de zi cu zi.
@@ -325,22 +325,22 @@ Explorează mai multe funcții, setări și ghiduri în [Ghidul Utilizatorului E
 
 ## Întrebări frecvente
 
-{{% details title="Ce formate de fișiere muzicale funcționează cu CarPlay în Evermusic și Flacbox?" closed="true" %}}
+{{% ls-details title="Ce formate de fișiere muzicale funcționează cu CarPlay în Evermusic și Flacbox?" closed="true" %}}
 Evermusic și Flacbox acceptă o gamă largă de formate audio, inclusiv MP3, FLAC, AAC, WAV, AIFF, OGG, WMA și altele. Toate formatele acceptate funcționează prin CarPlay fără nicio conversie necesară.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Pot reda muzică de pe Google Drive sau Dropbox pe CarPlay?" closed="true" %}}
+{{% ls-details title="Pot reda muzică de pe Google Drive sau Dropbox pe CarPlay?" closed="true" %}}
 Da. Atât Evermusic, cât și Flacbox îți permit să te conectezi la servicii de stocare în cloud precum Google Drive, Dropbox, OneDrive, MEGA și altele. Poți transmite muzică direct sau o poți descărca pentru redare offline pe CarPlay.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Am nevoie de conexiune la internet pentru a reda muzică pe CarPlay?" closed="true" %}}
+{{% ls-details title="Am nevoie de conexiune la internet pentru a reda muzică pe CarPlay?" closed="true" %}}
 Nu. Poți descărca muzică din stocarea în cloud pentru redare offline. Odată ce fișierele sunt stocate local pe iPhone, se redau prin CarPlay fără nicio conexiune la internet.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="De ce văd o eroare Limita de adâncime a conținutului pe CarPlay?" closed="true" %}}
+{{% ls-details title="De ce văd o eroare Limita de adâncime a conținutului pe CarPlay?" closed="true" %}}
 CarPlay restricționează câte niveluri de foldere poate afișa. Dacă muzica ta se află în foldere adânc imbricate, adaugă acele foldere la Preferințe pentru a le accesa direct din meniul Preferințe din CarPlay.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Este Evermusic sau Flacbox gratuit pentru utilizare cu CarPlay?" closed="true" %}}
+{{% ls-details title="Este Evermusic sau Flacbox gratuit pentru utilizare cu CarPlay?" closed="true" %}}
 Ambele aplicații sunt gratuite pentru descărcare cu suport complet CarPlay, egalizator și funcții de redare. Versiunile gratuite au limite pentru conexiuni cloud (3), liste de redare (10) și foldere offline (1). Premium elimină toate limitele.
-{{% /details %}}
+{{% /ls-details %}}

@@ -72,19 +72,19 @@ Ce guide vous aidera à tirer le meilleur parti d'Evermusic sur votre iPhone, iP
 
 
 {{< cards >}}
-  {{< card icon="location-marker" title="Navigation" subtitle="Apprenez à naviguer dans Evermusic en utilisant la barre d'onglets sur iPhone ou le menu de gauche sur iPad et Mac." link="/docs/guide/evermusic/evermusic-guide-navigation" >}}
+  {{< ls-card icon="location-marker" title="Navigation" subtitle="Apprenez à naviguer dans Evermusic en utilisant la barre d'onglets sur iPhone ou le menu de gauche sur iPad et Mac." link="/docs/guide/evermusic/evermusic-guide-navigation" >}}
 
-  {{< card icon="cloud" title="Connexions" subtitle="Connectez vos comptes cloud et gérez les fichiers en ligne à l'aide du gestionnaire de fichiers intégré." link="/docs/guide/evermusic/evermusic-guide-connections" >}}
+  {{< ls-card icon="cloud" title="Connexions" subtitle="Connectez vos comptes cloud et gérez les fichiers en ligne à l'aide du gestionnaire de fichiers intégré." link="/docs/guide/evermusic/evermusic-guide-connections" >}}
 
-  {{< card icon="collection" title="Bibliothèque musicale" subtitle="Organisez et explorez vos pistes, albums et artistes dans la bibliothèque musicale." link="/docs/guide/evermusic/evermusic-guide-music-library" >}}
+  {{< ls-card icon="collection" title="Bibliothèque musicale" subtitle="Organisez et explorez vos pistes, albums et artistes dans la bibliothèque musicale." link="/docs/guide/evermusic/evermusic-guide-music-library" >}}
 
-  {{< card icon="music-note" title="Listes de lecture" subtitle="Créez et organisez des playlists selon votre humeur ou l'occasion." link="/docs/guide/evermusic/evermusic-guide-playlists" >}}
+  {{< ls-card icon="music-note" title="Listes de lecture" subtitle="Créez et organisez des playlists selon votre humeur ou l'occasion." link="/docs/guide/evermusic/evermusic-guide-playlists" >}}
 
-  {{< card icon="folder" title="Fichiers locaux" subtitle="Accédez et gérez la musique hors ligne via la section Fichiers locaux." link="/docs/guide/evermusic/evermusic-guide-local-files" >}}
+  {{< ls-card icon="folder" title="Fichiers locaux" subtitle="Accédez et gérez la musique hors ligne via la section Fichiers locaux." link="/docs/guide/evermusic/evermusic-guide-local-files" >}}
 
-  {{< card icon="play" title="Lecteur audio" subtitle="Contrôlez la lecture, la file d'attente et les paramètres audio comme l'égaliseur et le minuteur de veille." link="/docs/guide/evermusic/evermusic-guide-player" >}}
+  {{< ls-card icon="play" title="Lecteur audio" subtitle="Contrôlez la lecture, la file d'attente et les paramètres audio comme l'égaliseur et le minuteur de veille." link="/docs/guide/evermusic/evermusic-guide-player" >}}
 
-  {{< card icon="adjustments" title="Paramètres" subtitle="Personnalisez l'apparence, les fonctionnalités et les paramètres de performance d'Evermusic." link="/docs/guide/evermusic/evermusic-guide-settings" >}}
+  {{< ls-card icon="adjustments" title="Paramètres" subtitle="Personnalisez l'apparence, les fonctionnalités et les paramètres de performance d'Evermusic." link="/docs/guide/evermusic/evermusic-guide-settings" >}}
 
-  {{< card icon="question-mark-circle" title="FAQ" subtitle="Trouvez des réponses rapides aux questions fréquentes dans notre section FAQ." link="/docs/faq/evermusic" >}}
+  {{< ls-card icon="question-mark-circle" title="FAQ" subtitle="Trouvez des réponses rapides aux questions fréquentes dans notre section FAQ." link="/docs/faq/evermusic" >}}
 {{< /cards >}}

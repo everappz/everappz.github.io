@@ -11,7 +11,7 @@ readingTime: 3
 Evervideo oferuje zarówno wersję bezpłatną z pewnymi ograniczeniami użytkowania, jak i wersję premium z dodatkowymi funkcjami, które można odblokować za pomocą zakupów w aplikacji.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Ekran ulepszenia domyślnego planu" image="/docs/faq/evervideo/what-is-the-difference-between-evervideo-and-evervideo-premium/upgrade-default.webp" >}}
+  {{< ls-card title="" subtitle="Ekran ulepszenia domyślnego planu" image="/docs/faq/evervideo/what-is-the-difference-between-evervideo-and-evervideo-premium/upgrade-default.webp" >}}
 {{< /cards >}}
 
 ## Wybierz swój plan Premium
@@ -19,7 +19,7 @@ Evervideo oferuje zarówno wersję bezpłatną z pewnymi ograniczeniami użytkow
 Wersja bezpłatna aplikacji oferuje jednorazowy dożywotni zakup w aplikacji oraz dwie opcje subskrypcji (1 miesiąc i 1 rok), aby usunąć wszystkie ograniczenia i ulepszyć do wersji Premium, co pozwala wybrać najlepszą i najbardziej optymalną cenę dla Ciebie. Ceny mogą się różnić w zależności od kraju lub terytorium. Pamiętaj również, że **Udostępnianie rodzinne** jest włączone dla wszystkich zakupów i planów, więc możesz podzielić się wersją Premium z członkami swojej rodziny.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Ekran wyboru planu Evervideo" image="/docs/faq/evervideo/what-is-the-difference-between-evervideo-and-evervideo-premium/plan-select.webp" >}}
+  {{< ls-card title="" subtitle="Ekran wyboru planu Evervideo" image="/docs/faq/evervideo/what-is-the-difference-between-evervideo-and-evervideo-premium/plan-select.webp" >}}
 {{< /cards >}}
 
 ## Udostępnianie zakupów między iOS i Mac
@@ -31,13 +31,13 @@ Możesz również spróbować nacisnąć przycisk „Przywróć zakupy" w ustawi
 Aby przywrócić zakup na nowym urządzeniu, po prostu użyj menu „Przywróć zakupy". Zobaczysz listę swoich zakupów. Jeśli nie widzisz wszystkich zakupów, sprawdź czy urządzenie jest podłączone do tego samego konta iTunes, które zostało użyte do dokonania zakupów, i upewnij się, że iCloud jest włączony.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Ekran przywróconego zakupu" image="/docs/faq/evervideo/what-is-the-difference-between-evervideo-and-evervideo-premium/purchase-restored.webp" >}}
+  {{< ls-card title="" subtitle="Ekran przywróconego zakupu" image="/docs/faq/evervideo/what-is-the-difference-between-evervideo-and-evervideo-premium/purchase-restored.webp" >}}
 {{< /cards >}}
 
 Po ulepszeniu aplikacji zobaczysz ekran statusu Premium ze szczegółami bieżących zakupów.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Ekran 'Używasz Premium'" image="/docs/faq/evervideo/what-is-the-difference-between-evervideo-and-evervideo-premium/you-are-using-premium.webp" >}}
+  {{< ls-card title="" subtitle="Ekran 'Używasz Premium'" image="/docs/faq/evervideo/what-is-the-difference-between-evervideo-and-evervideo-premium/you-are-using-premium.webp" >}}
 {{< /cards >}}
 
 ## Wypróbuj Premium za darmo
@@ -45,7 +45,7 @@ Po ulepszeniu aplikacji zobaczysz ekran statusu Premium ze szczegółami bieżą
 Dodatkowo dostępna jest ograniczona czasowo możliwość „**Wypróbowania Premium za darmo**". Dostęp do tej funkcji można uzyskać przez menu „Wypróbuj Premium za darmo". Wystarczy obejrzeć reklamę lub polecić aplikację znajomym, a możesz odblokować wersję Premium za darmo podczas tego promocyjnego okresu. Daje to możliwość doświadczenia funkcji premium bez żadnych zobowiązań finansowych.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Ekran wypróbowania Premium za darmo" image="/docs/faq/evervideo/what-is-the-difference-between-evervideo-and-evervideo-premium/premium-for-free.webp" >}}
+  {{< ls-card title="" subtitle="Ekran wypróbowania Premium za darmo" image="/docs/faq/evervideo/what-is-the-difference-between-evervideo-and-evervideo-premium/premium-for-free.webp" >}}
 {{< /cards >}}
 
 ## Evervideo Free
@@ -62,7 +62,7 @@ Dodatkowo dostępna jest ograniczona czasowo możliwość „**Wypróbowania Pre
 - Brak opcji personalizacji.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Ekran ulepszenia przestrzeni w chmurze" image="/docs/faq/evervideo/what-is-the-difference-between-evervideo-and-evervideo-premium/upgrade-cloud-storage.webp" >}}
+  {{< ls-card title="" subtitle="Ekran ulepszenia przestrzeni w chmurze" image="/docs/faq/evervideo/what-is-the-difference-between-evervideo-and-evervideo-premium/upgrade-cloud-storage.webp" >}}
 {{< /cards >}}
 
 ## Evervideo Premium
@@ -106,7 +106,7 @@ Jeśli dopiero zaczynasz lub potrzebujesz tylko podstawowych funkcji odtwarzania
 Z drugiej strony **Evervideo Premium** odblokowuje pełne doświadczenie. Możesz cieszyć się interfejsem wolnym od reklam, nieograniczoną obsługą list odtwarzania i kolejki, pełną funkcjonalnością offline, elastycznością chmury oraz zaawansowanymi opcjami eksportu i personalizacji. To najlepsza opcja dla użytkowników z dużymi bibliotekami wideo, tych, którzy oglądają treści z wielu źródeł, lub każdego, kto szuka bardziej profesjonalnego i płynnego odtwarzacza multimediów.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Ekran 'Zakupiłeś Premium'" image="/docs/faq/evervideo/what-is-the-difference-between-evervideo-and-evervideo-premium/you-have-purchased-premium.webp" >}}
+  {{< ls-card title="" subtitle="Ekran 'Zakupiłeś Premium'" image="/docs/faq/evervideo/what-is-the-difference-between-evervideo-and-evervideo-premium/you-have-purchased-premium.webp" >}}
 {{< /cards >}}
 
 Jeśli szukasz elastyczności, wypróbuj **plan miesięczny**. Aby uzyskać długoterminową wartość, wybierz ulepszenie **roczne** lub **dożywotnie** — oba oferują pełny dostęp w lepszej cenie.

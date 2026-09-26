@@ -12,7 +12,7 @@ authors:
     image: "/images/about/artem-meleshko-founder-everappz.webp"
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 ![](/blog/evermusic-stream-your-music-from-the-cloud-and-free-up-space-on-your-iphone-or-ipad/21260c_00c5356db3a24db6a6a37e353b774d56~mv2.jpg)
 
@@ -82,22 +82,22 @@ Bla gjennom den tilkoblede skykontoen din, åpne en musikkmappe og trykk på en 
 
 ## Ofte stilte spørsmål
 
-{{% details title="Er Evermusic gratis?" closed="true" %}}
+{{% ls-details title="Er Evermusic gratis?" closed="true" %}}
 Evermusic er gratis å laste ned med valgfrie premiumfunksjoner. Grunnleggende skystrømming og frakoblet avspilling er tilgjengelig i gratisversjonen.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Hvilke skytjenester støtter Evermusic?" closed="true" %}}
+{{% ls-details title="Hvilke skytjenester støtter Evermusic?" closed="true" %}}
 Google Drive, Dropbox, Box, OneDrive, MediaFire, MEGA, Yandex.Disk, pCloud, HiDrive, MyDrive, SMB-fildelinger og WebDAV-servere.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Kan jeg lytte til musikk frakoblet med Evermusic?" closed="true" %}}
+{{% ls-details title="Kan jeg lytte til musikk frakoblet med Evermusic?" closed="true" %}}
 Ja. Last ned hvilket som helst album, artist, spilleliste eller enkeltspor for frakoblet avspilling direkte i appen.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Hvilke lydformater spiller Evermusic?" closed="true" %}}
+{{% ls-details title="Hvilke lydformater spiller Evermusic?" closed="true" %}}
 Evermusic støtter MP3, FLAC, AAC, WAV, ALAC, AIFF, OPUS, OGG og mange andre formater.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Trenger jeg fortsatt iTunes for å overføre musikk?" closed="true" %}}
+{{% ls-details title="Trenger jeg fortsatt iTunes for å overføre musikk?" closed="true" %}}
 Nei. Last opp musikken din til en hvilken som helst støttet skytjeneste fra datamaskinen, og strøm eller last den ned gjennom Evermusic på iPhonen eller iPaden din.
-{{% /details %}}
+{{% /ls-details %}}

@@ -7,7 +7,7 @@ tags: ["musiikki", "suoratoisto", "tallennustila", "nas", "yhdistä", "webdav"]
 readingTime: 2
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **Tiivistelmä:** Asenna ja ota käyttöön WebDAV Synology NAS:iin, määritä jaetun kansion käyttöoikeudet ja yhdistä sitten Evermusicista tai Flacboxista käyttäen NAS:n IP-osoitetta ja WebDAV-porttia (oletus 5005/5006). Voit suoratoistaa ja hallita koko musiikkikirjastoasi kopioimatta tiedostoja laitteeseesi.
@@ -87,22 +87,22 @@ Näitä ohjeita noudattamalla voit helposti asettaa WebDAV-yhteyden Synology NAS
 
 ## UKK
 
-{{% details title="Mitkä NAS-laitteet tukevat WebDAV:ia?" closed="true" %}}
+{{% ls-details title="Mitkä NAS-laitteet tukevat WebDAV:ia?" closed="true" %}}
 Useimmat suositut NAS-merkit tukevat WebDAV:ia, mukaan lukien Synology, QNAP, TrueNAS ja Western Digital. Tarkista NAS-valmistajasi dokumentaatiosta WebDAV:n asennusohjeet.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Mikä on WebDAV:n ja SMB:n ero NAS-musiikin suoratoistossa?" closed="true" %}}
+{{% ls-details title="Mikä on WebDAV:n ja SMB:n ero NAS-musiikin suoratoistossa?" closed="true" %}}
 WebDAV toimii HTTP/HTTPS-protokollan kautta ja soveltuu paremmin etäkäyttöön Internetin kautta. SMB on tyypillisesti nopeampi paikallisverkoissa. Evermusic ja Flacbox tukevat molempia protokollia, joten valitse sen mukaan, tarvitsetko paikallista vai etäkäyttöä.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Tarvitsenko käyttäjätunnuksen ja salasanan WebDAV:lle Synologyssä?" closed="true" %}}
+{{% ls-details title="Tarvitsenko käyttäjätunnuksen ja salasanan WebDAV:lle Synologyssä?" closed="true" %}}
 Et, jos otat käyttöön anonyymin WebDAV-käytön ja määrität vieraskäyttöoikeudet jaetulle kansiolle. Parempaa turvallisuutta varten voit käyttää Synology-tunnuksiasi.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Voinko suoratoistaa FLAC:ia ja muita korkean resoluution formaatteja NAS:sta WebDAV:n kautta?" closed="true" %}}
+{{% ls-details title="Voinko suoratoistaa FLAC:ia ja muita korkean resoluution formaatteja NAS:sta WebDAV:n kautta?" closed="true" %}}
 Kyllä. Sekä Evermusic että Flacbox tukevat FLAC-, ALAC-, WAV-, DSD- ja muita korkean resoluution formaatteja suoratoistettaessa NAS-tallennustilasta WebDAV:n kautta.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Miksi sovellus ei löydä NAS:iani Saatavilla olevista laitteista?" closed="true" %}}
+{{% ls-details title="Miksi sovellus ei löydä NAS:iani Saatavilla olevista laitteista?" closed="true" %}}
 Varmista, että iPhone/Mac ja NAS ovat samassa Wi-Fi-verkossa. Jos automaattinen löytäminen ei toimi, käytä manuaalista yhteysasetusta ja syötä NAS:n IP-osoite ja WebDAV-portti suoraan.
-{{% /details %}}
+{{% /ls-details %}}

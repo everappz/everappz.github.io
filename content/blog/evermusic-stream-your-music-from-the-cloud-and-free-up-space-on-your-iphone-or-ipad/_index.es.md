@@ -12,7 +12,7 @@ authors:
     image: "/images/about/artem-meleshko-founder-everappz.webp"
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 ![](/blog/evermusic-stream-your-music-from-the-cloud-and-free-up-space-on-your-iphone-or-ipad/21260c_00c5356db3a24db6a6a37e353b774d56~mv2.jpg)
 
@@ -82,22 +82,22 @@ Navega por tu cuenta en la nube conectada, abre una carpeta de música y toca un
 
 ## Preguntas frecuentes
 
-{{% details title="¿Es Evermusic gratuito?" closed="true" %}}
+{{% ls-details title="¿Es Evermusic gratuito?" closed="true" %}}
 Evermusic es gratuito para descargar con funciones premium opcionales. La reproducción básica en la nube y la reproducción sin conexión están disponibles en la versión gratuita.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="¿Qué servicios en la nube admite Evermusic?" closed="true" %}}
+{{% ls-details title="¿Qué servicios en la nube admite Evermusic?" closed="true" %}}
 Google Drive, Dropbox, Box, OneDrive, MediaFire, MEGA, Yandex.Disk, pCloud, HiDrive, MyDrive, recursos compartidos SMB y servidores WebDAV.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="¿Puedo escuchar música sin conexión con Evermusic?" closed="true" %}}
+{{% ls-details title="¿Puedo escuchar música sin conexión con Evermusic?" closed="true" %}}
 Sí. Descarga cualquier álbum, artista, lista de reproducción o pista individual para la reproducción sin conexión directamente desde la aplicación.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="¿Qué formatos de audio reproduce Evermusic?" closed="true" %}}
+{{% ls-details title="¿Qué formatos de audio reproduce Evermusic?" closed="true" %}}
 Evermusic admite MP3, FLAC, AAC, WAV, ALAC, AIFF, OPUS, OGG y muchos otros formatos.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="¿Todavía necesito iTunes para transferir música?" closed="true" %}}
+{{% ls-details title="¿Todavía necesito iTunes para transferir música?" closed="true" %}}
 No. Sube tu música a cualquier servicio en la nube compatible desde tu ordenador, y luego reprodúcela o descárgala con Evermusic en tu iPhone o iPad.
-{{% /details %}}
+{{% /ls-details %}}

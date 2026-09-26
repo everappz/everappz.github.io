@@ -7,7 +7,7 @@ keywords: ["transfer fișiere wireless pe iPhone", "transfer fișiere Wi-Fi Driv
 readingTime: 2
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **TL;DR:** Wi-Fi Drive vă permite să transferați fișiere de pe orice computer pe iPhone sau iPad prin Wi-Fi -- fără iTunes sau cabluri. Utilizați un browser web, Mac Finder sau Windows File Explorer. Ambele dispozitive trebuie să fie pe aceeași rețea Wi-Fi.
@@ -18,7 +18,7 @@ Puteți transfera fișiere wireless folosind un browser web de desktop sau un cl
 
 Puteți viziona un tutorial video de la [**TECHGUYPH**](https://www.youtube.com/channel/UCgpf09gGFE_c_3pPTtTpnzg) sau puteți citi versiunea text de mai jos.
 <br><br>
-{{< youtubecard id="CqdqrQ0ge70" title="Can We Wirelessly Put Offline Music on iPhones?" >}}
+{{< ls-youtubecard id="CqdqrQ0ge70" title="Can We Wirelessly Put Offline Music on iPhones?" >}}
 
 ## Transferați fișiere de pe computer wireless cu un browser web de desktop
 
@@ -90,26 +90,26 @@ iTunes nu este necesar!
 
 ## Întrebări frecvente
 
-{{% details title="Am nevoie de iTunes pentru a transfera fișiere pe iPhone?" closed="true" %}}
+{{% ls-details title="Am nevoie de iTunes pentru a transfera fișiere pe iPhone?" closed="true" %}}
 Nu. Wi-Fi Drive transferă fișierele direct prin rețeaua Wi-Fi locală. iTunes nu este necesar.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Ce aplicații acceptă Wi-Fi Drive?" closed="true" %}}
+{{% ls-details title="Ce aplicații acceptă Wi-Fi Drive?" closed="true" %}}
 Wi-Fi Drive este disponibil în Evermusic, Flacbox, Evertag și Evervideo pentru iOS.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Trebuie ambele dispozitive să fie pe aceeași rețea Wi-Fi?" closed="true" %}}
+{{% ls-details title="Trebuie ambele dispozitive să fie pe aceeași rețea Wi-Fi?" closed="true" %}}
 Da. Computerul și iPhone-ul sau iPad-ul trebuie să fie conectate la aceeași rețea Wi-Fi locală pentru ca Wi-Fi Drive să funcționeze.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Pot transfera foldere întregi, nu doar fișiere individuale?" closed="true" %}}
+{{% ls-details title="Pot transfera foldere întregi, nu doar fișiere individuale?" closed="true" %}}
 Da. Wi-Fi Drive acceptă încărcarea și descărcarea folderelor întregi prin interfața browserului web.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Funcționează Wi-Fi Drive cu Windows?" closed="true" %}}
+{{% ls-details title="Funcționează Wi-Fi Drive cu Windows?" closed="true" %}}
 Da. Puteți utiliza orice browser web pe Windows sau vă puteți conecta prin Windows File Explorer folosind protocolul WebDAV.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Pot folosi un cablu USB pentru a accelera transferul?" closed="true" %}}
+{{% ls-details title="Pot folosi un cablu USB pentru a accelera transferul?" closed="true" %}}
 Da. Dacă iPhone-ul este conectat la Mac prin USB în timp ce Wi-Fi Drive rulează, transferul va utiliza conexiunea prin cablu pentru viteze mai rapide.
-{{% /details %}}
+{{% /ls-details %}}

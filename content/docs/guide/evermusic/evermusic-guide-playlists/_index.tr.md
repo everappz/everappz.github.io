@@ -17,7 +17,7 @@ readingTime: 6
 Çalma Listeleri bölümü, parçalarınızı listelere düzenlemeniz için araçlar sağlar. Oluşturduğunuz tüm çalma listelerini gösteren bir içerik görünümü, çeşitli çalma listesi eylemleri sunan gezinme çubuğundaki bir "..." düğmesi ve "Ara", "Tümünü oynat" ve "Tümünü karıştır" düğmeleri içeren bir gezinme araç çubuğu içerir. Ayrıca her bir çalma listesinin kendisi, çalma listesi başlığının yakınında, o çalma listesine özgü bir dizi eylem sunan bir "..." düğmesine sahiptir.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evermusic Çalma Listeleri Ekranı" image="/docs/guide/evermusic/evermusic-guide-playlists/img/playlists-main.webp" >}}
+  {{< ls-card title="" subtitle="Evermusic Çalma Listeleri Ekranı" image="/docs/guide/evermusic/evermusic-guide-playlists/img/playlists-main.webp" >}}
 {{< /cards >}}
 
 ## Çalma Listesi Oluşturma
@@ -25,7 +25,7 @@ readingTime: 6
 Yeni bir çalma listesi oluşturmak için "+" düğmesine veya gezinme çubuğunun sağ üst köşesindeki "..." düğmesine dokunun, "Yeni çalma listesi" seçeneğini seçin ve çalma listesine bir ad verin. Adlandırdıktan sonra "Kaydet"e dokunun.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Yeni Çalma Listesi Oluşturma" image="/docs/guide/evermusic/evermusic-guide-playlists/img/playlists-add-new.webp" >}}
+  {{< ls-card title="" subtitle="Yeni Çalma Listesi Oluşturma" image="/docs/guide/evermusic/evermusic-guide-playlists/img/playlists-add-new.webp" >}}
 {{< /cards >}}
 
 Bu, yeni çalma listesine hangi parçaları ekleyeceğinizi seçebileceğiniz "Şarkı ekle" iletişim kutusunu açar. Parçalar kaynak türüne göre kategorize edilir ve birkaç seçeneğiniz vardır:
@@ -42,7 +42,7 @@ Varsayılan olarak, bir parçayı çalma listesine yalnızca bir kez ekleyebilir
 Evermusic'e çalma listelerini manuel olarak oluşturmanıza gerek kalmayacak şekilde M3U dosyası içe aktarma işlevi ekledik.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Dosya Kaynağından Çalma Listesi İçe Aktarma" image="/docs/guide/evermusic/evermusic-guide-playlists/img/playlists-import-from-files.webp" >}}
+  {{< ls-card title="" subtitle="Dosya Kaynağından Çalma Listesi İçe Aktarma" image="/docs/guide/evermusic/evermusic-guide-playlists/img/playlists-import-from-files.webp" >}}
 {{< /cards >}}
 
 Önce 'Çalma Listeleri' bölümüne gidin. Ardından sağ üst köşedeki 'Daha Fazla' düğmesine dokunun. Görünen menüden 'Çalma Listesini İçe Aktar' seçeneğini seçin.
@@ -62,7 +62,7 @@ Uygulama çalma listesi dosyasını analiz edecek, parça listesi oluşturacak v
 Bir çalma listesi açtığınızda "Çalma listesi detay ekranı" görünür. Bu ekranda sağ üst köşede çalma listesi seçenekleri içeren bir "..." düğmesi ve kapak resmi altında üç düğme bulacaksınız: "Ara", "Oynatmaya devam et", "Tümünü oynat" ve "Tümünü karıştır". Ayrıca bir "Çevrimdışı mod" onay kutusu da bulunur.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Çalma Listesi Detay Ekranı" image="/docs/guide/evermusic/evermusic-guide-playlists/img/playlists-detail-screen.webp" >}}
+  {{< ls-card title="" subtitle="Çalma Listesi Detay Ekranı" image="/docs/guide/evermusic/evermusic-guide-playlists/img/playlists-detail-screen.webp" >}}
 {{< /cards >}}
 
 - **Oynatmaya devam et**: Bu çalma listesi için oynatma konumunu geri yükleyin.
@@ -87,7 +87,7 @@ Bir çalma listesi açtığınızda "Çalma listesi detay ekranı" görünür. B
 - **Çalma listesini sil:** Çalma listesini Müzik kütüphanesinden silin. Bu işlemin geri alınamayacağını lütfen unutmayın.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Çalma Listesi için Daha Fazla Eylem Menüsü" image="/docs/guide/evermusic/evermusic-guide-playlists/img/playlists-more-actions-for-separate-playlist.webp" >}}
+  {{< ls-card title="" subtitle="Çalma Listesi için Daha Fazla Eylem Menüsü" image="/docs/guide/evermusic/evermusic-guide-playlists/img/playlists-more-actions-for-separate-playlist.webp" >}}
 {{< /cards >}}
 
 ## Çalma Listesi Detay Ekranındaki Çalma Listesi için Daha Fazla Eylem
@@ -113,7 +113,7 @@ Sağ üst köşedeki "..." düğmesine dokunarak bir çalma listesi için eyleml
 Çalma listesindeki şarkıların sırasını değiştirmek için sağ üst köşedeki "..." düğmesine dokunun ve seçim moduna girmek için "Seç" öğesini seçin. Onları yukarı veya aşağı taşımak için her parça yakınındaki sıralama denetimini ve sürükle ve bırak hareketlerini kullanın. Sıralama denetimine dokunmak parçayı listenin en üstüne taşır. Seçim modundan çıkmak ve değişiklikleri uygulamak için "Bitti"ye dokunun.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Çalma Listesinde Şarkı Sırasını Değiştirme" image="/docs/guide/evermusic/evermusic-guide-playlists/img/playlists-change-songs-order.webp" >}}
+  {{< ls-card title="" subtitle="Çalma Listesinde Şarkı Sırasını Değiştirme" image="/docs/guide/evermusic/evermusic-guide-playlists/img/playlists-change-songs-order.webp" >}}
 {{< /cards >}}
 
 ## Çalma Listesi Kapak Resmini Değiştirme
@@ -129,7 +129,7 @@ Sağ üst köşedeki "..." düğmesine dokunarak bir çalma listesi için eyleml
 Çalma listesini açın, sağ üst köşedeki "..." düğmesine dokunun ve seçim moduna girmek için "Seç" öğesini seçin. Silmek istediğiniz parçaları seçin ve ekranın altındaki "Çalma listesinden sil" düğmesine dokunun. "Bitti"ye dokunarak değişiklikleri onaylayın.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Çalma Listesi İçinde Seçim Modu" image="/docs/guide/evermusic/evermusic-guide-playlists/img/playlists-selection-mode-in-playlist-details-screen.webp" >}}
+  {{< ls-card title="" subtitle="Çalma Listesi İçinde Seçim Modu" image="/docs/guide/evermusic/evermusic-guide-playlists/img/playlists-selection-mode-in-playlist-details-screen.webp" >}}
 {{< /cards >}}
 
 ## Parça Seçenekleri
@@ -137,7 +137,7 @@ Sağ üst köşedeki "..." düğmesine dokunarak bir çalma listesi için eyleml
 Bir çalma listesindeki her parçanın "..." düğmesine dokunarak erişilebilen bir eylem listesi vardır. Tüm eylemleri göremiyorsanız bunları görmek için aşağı kaydırın. Parçayı çalma listesinden silebilir, indirebilir, ses etiketlerini düzenleyebilir ve daha fazlasını yapabilirsiniz.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Çalma Listesinde Parça Seçenekleri Menüsü" image="/docs/guide/evermusic/evermusic-guide-playlists/img/playlists-track-options.webp" >}}
+  {{< ls-card title="" subtitle="Çalma Listesinde Parça Seçenekleri Menüsü" image="/docs/guide/evermusic/evermusic-guide-playlists/img/playlists-track-options.webp" >}}
 {{< /cards >}}
 
 - **Sonra oynat:** Parçayı oynatıcı kuyruğunun en üstüne ekler.

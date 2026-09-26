@@ -16,7 +16,7 @@ readingTime: 3
 Evertag מציע ממשק משתמש אינטואיטיבי. מה שמייחד אותו מאפליקציות פופולריות רבות הוא מנהל הקבצים המובנה שלו, המעניק למשתמשים את הכוח לערוך קבצי אודיו ולהעביר אותם מאחסון ענן ואליו.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="מסך Evertag" image="/docs/guide/evertag/img/tag-editor.webp" >}}
+  {{< ls-card title="" subtitle="מסך Evertag" image="/docs/guide/evertag/img/tag-editor.webp" >}}
 {{< /cards >}}
 
 ## סעיפים
@@ -42,7 +42,7 @@ Evertag מציע ממשק משתמש אינטואיטיבי. מה שמייחד �
 כמעט לכל פריט תוכן במסך יש כפתור "עוד פעולות". הקישו עליו כדי לגשת לכל הפעולות הזמינות.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="עוד פעולות Evertag" image="/docs/guide/evertag/img/downloads-file-actions.webp" >}}
+  {{< ls-card title="" subtitle="עוד פעולות Evertag" image="/docs/guide/evertag/img/downloads-file-actions.webp" >}}
 {{< /cards >}}
 
 ## סרגל כלים עליון

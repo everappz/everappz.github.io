@@ -17,7 +17,7 @@ readingTime: 6
 Het gedeelte Afspeellijsten biedt u de hulpmiddelen om uw nummers in lijsten te organiseren. Het bevat een inhoudsweergave met alle gemaakte afspeellijsten, een knop "..." in de navigatiebalk met verschillende afspeellijstgerelateerde acties, en een navigatiewerkbalk met knoppen "Zoeken", "Alles afspelen" en "Alles willekeurig afspelen". Bovendien heeft elke individuele afspeellijst zelf een knop "..." naast de afspeellijsttitel, met een reeks acties die specifiek zijn voor die afspeellijst.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evermusic afspeellijstenscherm" image="/docs/guide/evermusic/evermusic-guide-playlists/img/playlists-main.webp" >}}
+  {{< ls-card title="" subtitle="Evermusic afspeellijstenscherm" image="/docs/guide/evermusic/evermusic-guide-playlists/img/playlists-main.webp" >}}
 {{< /cards >}}
 
 ## Een afspeellijst maken
@@ -25,7 +25,7 @@ Het gedeelte Afspeellijsten biedt u de hulpmiddelen om uw nummers in lijsten te 
 Om een nieuwe afspeellijst te maken, tikt u op de knop "+" of de knop "..." in de rechterbovenhoek van de navigatiebalk, selecteert u "Nieuwe afspeellijst" en wijst u een naam toe aan uw afspeellijst. Na het benoemen tikt u op "Opslaan."
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Een nieuwe afspeellijst maken" image="/docs/guide/evermusic/evermusic-guide-playlists/img/playlists-add-new.webp" >}}
+  {{< ls-card title="" subtitle="Een nieuwe afspeellijst maken" image="/docs/guide/evermusic/evermusic-guide-playlists/img/playlists-add-new.webp" >}}
 {{< /cards >}}
 
 Dit opent het dialoogvenster "Nummers toevoegen", waar u kunt kiezen welke nummers u aan de nieuwe afspeellijst wilt toevoegen. Nummers zijn gecategoriseerd op brontype en u heeft verschillende opties:
@@ -42,7 +42,7 @@ Standaard kunt u een nummer slechts eenmaal aan een afspeellijst toevoegen. Om d
 In Evermusic hebben we M3U-bestandsimportfunctionaliteit toegevoegd, zodat u afspeellijsten niet handmatig hoeft te maken.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Afspeellijst importeren van een bestandsbron" image="/docs/guide/evermusic/evermusic-guide-playlists/img/playlists-import-from-files.webp" >}}
+  {{< ls-card title="" subtitle="Afspeellijst importeren van een bestandsbron" image="/docs/guide/evermusic/evermusic-guide-playlists/img/playlists-import-from-files.webp" >}}
 {{< /cards >}}
 
 Ga eerst naar het gedeelte 'Afspeellijsten'. Tik vervolgens op de knop 'Meer' in de rechterbovenhoek. Selecteer in het menu dat verschijnt de optie 'Afspeellijst importeren'.
@@ -62,7 +62,7 @@ De app parseert het afspeellijstbestand, maakt een lijst met nummers en zoekt di
 Wanneer u een afspeellijst opent, verschijnt het "Gedetailleerde afspeellijstscherm". Op dit scherm vindt u een knop "..." in de rechterbovenhoek met afspeellijstopties en drie knoppen onder de artwork-afbeelding: "Zoeken", "Afspelen hervatten", "Alles afspelen" en "Alles willekeurig afspelen". Bovendien is er een selectievakje "Offline modus".
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Gedetailleerd afspeellijstscherm" image="/docs/guide/evermusic/evermusic-guide-playlists/img/playlists-detail-screen.webp" >}}
+  {{< ls-card title="" subtitle="Gedetailleerd afspeellijstscherm" image="/docs/guide/evermusic/evermusic-guide-playlists/img/playlists-detail-screen.webp" >}}
 {{< /cards >}}
 
 - **Afspelen hervatten**: Herstel de afspeelpositie voor deze afspeellijst.
@@ -87,7 +87,7 @@ U kunt acties voor een afspeellijst openen door op de knop "..." naast de afspee
 - **Afspeellijst verwijderen:** Verwijder de afspeellijst uit de muziekbibliotheek. Let op dat deze actie niet ongedaan kan worden gemaakt.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Menu meer acties voor een afspeellijst" image="/docs/guide/evermusic/evermusic-guide-playlists/img/playlists-more-actions-for-separate-playlist.webp" >}}
+  {{< ls-card title="" subtitle="Menu meer acties voor een afspeellijst" image="/docs/guide/evermusic/evermusic-guide-playlists/img/playlists-more-actions-for-separate-playlist.webp" >}}
 {{< /cards >}}
 
 ## Meer acties voor afspeellijst in het gedetailleerde afspeellijstscherm
@@ -113,7 +113,7 @@ U kunt acties voor een afspeellijst openen door op de knop "..." in de rechterbo
 Om de volgorde van nummers in een afspeellijst te wijzigen, tikt u op de knop "..." in de rechterbovenhoek en selecteert u "Selecteren" om de selectiemodus te activeren. Gebruik het herorderbesturingselement en sleep-en-neerzetgebaren naast elk nummer om ze omhoog of omlaag te verplaatsen. Tikken op het herorderbesturingselement verplaatst het nummer naar de bovenkant van de lijst. Om de selectiemodus te verlaten en wijzigingen toe te passen, tikt u op "Voltooid."
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Nummersvolgorde wijzigen in een afspeellijst" image="/docs/guide/evermusic/evermusic-guide-playlists/img/playlists-change-songs-order.webp" >}}
+  {{< ls-card title="" subtitle="Nummersvolgorde wijzigen in een afspeellijst" image="/docs/guide/evermusic/evermusic-guide-playlists/img/playlists-change-songs-order.webp" >}}
 {{< /cards >}}
 
 ## Hoesafbeelding afspeellijst wijzigen
@@ -129,7 +129,7 @@ Open de afspeellijst en tik op de knop "..." in de rechterbovenhoek, selecteer v
 Open de afspeellijst, tik op de knop "..." in de rechterbovenhoek en selecteer "Selecteren" om de selectiemodus te activeren. Kies de nummers die u wilt verwijderen en tik op de knop "Verwijderen uit afspeellijst" onderaan het scherm. Bevestig de wijzigingen door op "Voltooid" te tikken.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Selectiemodus in een afspeellijst" image="/docs/guide/evermusic/evermusic-guide-playlists/img/playlists-selection-mode-in-playlist-details-screen.webp" >}}
+  {{< ls-card title="" subtitle="Selectiemodus in een afspeellijst" image="/docs/guide/evermusic/evermusic-guide-playlists/img/playlists-selection-mode-in-playlist-details-screen.webp" >}}
 {{< /cards >}}
 
 ## Nummeropties
@@ -137,7 +137,7 @@ Open de afspeellijst, tik op de knop "..." in de rechterbovenhoek en selecteer "
 Elk nummer in een afspeellijst heeft een lijst met acties, toegankelijk door op de knop "..." te tikken. Als u niet alle acties kunt zien, scrollt u naar beneden om ze te bekijken. U kunt het nummer uit de afspeellijst verwijderen, het downloaden, audiotags bewerken en meer.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Nummeroptiesmenu in een afspeellijst" image="/docs/guide/evermusic/evermusic-guide-playlists/img/playlists-track-options.webp" >}}
+  {{< ls-card title="" subtitle="Nummeroptiesmenu in een afspeellijst" image="/docs/guide/evermusic/evermusic-guide-playlists/img/playlists-track-options.webp" >}}
 {{< /cards >}}
 
 - **Volgende afspelen:** Voegt het nummer bovenaan de speler-wachtrij toe.

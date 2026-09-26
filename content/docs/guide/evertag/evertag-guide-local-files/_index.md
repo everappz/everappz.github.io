@@ -20,7 +20,7 @@ The Local Files section serves as a hub for managing files located in the applic
 This built-in file manager allows you to edit files and offers various methods to import audio files into the app. Files you've recently opened automatically appear in the **Recents** tab and the items you mark with a star show up under **Favorites**, so you can jump straight to the files you work with most without browsing back to this screen.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evertag Downloads Screen" image="/docs/guide/evertag/img/downloads.webp" >}}
+  {{< ls-card title="" subtitle="Evertag Downloads Screen" image="/docs/guide/evertag/img/downloads.webp" >}}
 {{< /cards >}}
 
 ## Download files from cloud storage
@@ -76,7 +76,7 @@ Shows files and folders stored in the app’s Documents directory and iCloud Dri
 Shows files located on your device but in different applications. You can import them into this application using the system file picker. To activate the picker, choose "Open files..." to select files or "Open folders..." to select folders. Detailed instructions on how to import local music stored on your iPhone or Mac are available [here](/docs/howto/how-to-play-local-music-stored-on-your-iphone-or-mac). You can also connect a folder located on your device and have quick access to the folder's content. Use the "Connect a folder" menu item and choose a folder located on your device. Tap "Done," and the app will create a link to that folder with read/write access, allowing you to manage files directly from this app. To disconnect a folder located on your device, tap the "More Actions" button and choose "Disconnect."
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evertag Import Files From My Device" image="/docs/guide/evertag/img/open-files.webp" >}}
+  {{< ls-card title="" subtitle="Evertag Import Files From My Device" image="/docs/guide/evertag/img/open-files.webp" >}}
 {{< /cards >}}
 
 ## Import Files Located on Connected USB Flashcards
@@ -88,7 +88,7 @@ Detailed instructions on how to connect a USB flashcard to your iPhone and manag
 The More Actions menu for the currently opened folder is located in the top right corner and provides access to various actions.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evertag Import Files From My Device" image="/docs/guide/evertag/img/downloads-current-folder-actions.webp" >}}
+  {{< ls-card title="" subtitle="Evertag Import Files From My Device" image="/docs/guide/evertag/img/downloads-current-folder-actions.webp" >}}
 {{< /cards >}}
 
 - **Select:** Switch to selection mode for files and folders.  

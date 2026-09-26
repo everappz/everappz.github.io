@@ -12,7 +12,7 @@ authors:
     image: "/images/about/artem-meleshko-founder-everappz.webp"
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 **Ukratko:** Instalirajte [Flacbox s App Storea](https://apps.apple.com/us/app/flacbox-flac-player-music/id1097564256?mt=8) za reprodukciju FLAC, DSD, ALAC i 120+ drugih audio formata na iPhoneu i Macu. Uvezite datoteke putem iTunes File Sharing, Wi-Fi Drive ili pohrane u oblaku. Nije potrebna konverzija. Flacbox izvorno dekodira lossless formate za reprodukciju studijske kvalitete.
 
@@ -110,26 +110,26 @@ Preuzmite Flacbox s Mac App Storea.
 
 ## Često postavljana pitanja
 
-{{< details title="Zahtijeva li Flacbox pretplatu za reprodukciju lossless datoteka?" closed="true" >}}
+{{< ls-details title="Zahtijeva li Flacbox pretplatu za reprodukciju lossless datoteka?" closed="true" >}}
 Flacbox nudi osnovnu funkcionalnost reprodukcije bez pretplate. Možete uvoziti i reproducirati FLAC, DSD, ALAC i druge lossless formate odmah nakon preuzimanja aplikacije. Neke napredne značajke mogu zahtijevati premium nadogradnju, ali osnovna lossless reprodukcija dostupna je odmah.
-{{< /details >}}
+{{< /ls-details >}}
 
-{{< details title="Može li Flacbox reproducirati DSD datoteke bez pretvorbe u PCM?" closed="true" >}}
+{{< ls-details title="Može li Flacbox reproducirati DSD datoteke bez pretvorbe u PCM?" closed="true" >}}
 Da, Flacbox podržava izvornu DSD reprodukciju uključujući DSD64, DSD128 i DSD256 formate. Za najbolje rezultate, uparite svoj uređaj s vanjskim DAC-om kompatibilnim s DSD-om.
-{{< /details >}}
+{{< /ls-details >}}
 
-{{< details title="Kako prenijeti velike lossless glazbene kolekcije na iPhone?" closed="true" >}}
+{{< ls-details title="Kako prenijeti velike lossless glazbene kolekcije na iPhone?" closed="true" >}}
 Flacbox pruža nekoliko opcija prijenosa za velike knjižnice. Wi-Fi Drive omogućuje prijenos datoteka iz bilo kojeg preglednika na lokalnoj mreži. Za najbrži prijenos vrlo velikih kolekcija, povežite vanjski pogon izravno putem Lightning ili USB-C adaptera.
-{{< /details >}}
+{{< /ls-details >}}
 
-{{< details title="Postoji li razlika u kvaliteti zvuka između FLAC-a i ALAC-a u Flacboxu?" closed="true" >}}
+{{< ls-details title="Postoji li razlika u kvaliteti zvuka između FLAC-a i ALAC-a u Flacboxu?" closed="true" >}}
 FLAC i ALAC su oba lossless kodeka, što znači da proizvode identičan audio izlaz kada se dekodiraju. Razlika je u kompatibilnosti i učinkovitosti kompresije. Flacbox oba formata obrađuje s jednakom vjernošću.
-{{< /details >}}
+{{< /ls-details >}}
 
-{{< details title="Koji je najbolji način reprodukcije FLAC datoteka na iPhoneu?" closed="true" >}}
+{{< ls-details title="Koji je najbolji način reprodukcije FLAC datoteka na iPhoneu?" closed="true" >}}
 Instalirajte Flacbox s App Storea, zatim uvezite FLAC datoteke putem iTunes File Sharing, Wi-Fi Drive, pohrane u oblaku ili USB/Lightning vanjskog pogona. Flacbox izvorno dekodira FLAC bez konverzije, podržavajući rezolucije do 32-bit/384 kHz.
-{{< /details >}}
+{{< /ls-details >}}
 
-{{< details title="Radi li Flacbox s NAS-om i kućnim poslužiteljima?" closed="true" >}}
+{{< ls-details title="Radi li Flacbox s NAS-om i kućnim poslužiteljima?" closed="true" >}}
 Da. Flacbox se povezuje s NAS uređajima i kućnim poslužiteljima putem SMB, WebDAV i DLNA protokola. To vam omogućuje streaming lossless knjižnice bez kopiranja datoteka na uređaj.
-{{< /details >}}
+{{< /ls-details >}}

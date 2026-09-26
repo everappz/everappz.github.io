@@ -23,7 +23,7 @@ Le lecteur audio est l'écran principal de l'application où vous contrôlez la 
 Vous pouvez accéder au lecteur plein écran depuis la barre du mini lecteur. Sur iPhone, le mini lecteur se trouve au bas de l'écran principal. Sur iPad et Mac, il est sur le côté gauche. Pour masquer le mini lecteur sur iPhone, appuyez dessus une fois et balayez vers le bas. Pour fermer complètement le lecteur plein écran, appuyez sur le bouton de fermeture dans le coin inférieur droit.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Écran principal du lecteur audio Flacbox" image="/docs/guide/flacbox/img/audio-player-main-screen.webp" >}}
+  {{< ls-card title="" subtitle="Écran principal du lecteur audio Flacbox" image="/docs/guide/flacbox/img/audio-player-main-screen.webp" >}}
 {{< /cards >}}
 
 ## Formats audio pris en charge
@@ -66,7 +66,7 @@ Pour AirPlay, recherchez le bouton **AirPlay** au bas du lecteur. Appuyez dessus
 Flacbox inclut un **égaliseur à 10 bandes** avec des préréglages de style iPod. Appuyez sur Égaliseur dans la vue du volume, puis activez-le dans le coin supérieur droit. Vous pouvez utiliser des préréglages comme Acoustique et Renforcement des basses, ou ajuster chaque bande de fréquence avec des curseurs. Créez vos propres préréglages, enregistrez-les sous n'importe quel nom et augmentez le volume global avec le préamplificateur. Nous avons des instructions plus détaillées sur l'utilisation de l'égaliseur [ici](/docs/howto/how-to-use-the-audio-equalizer-on-your-iphone-ipad-mac-with-evermusic-and-flacbox).
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Égaliseur du lecteur audio Flacbox" image="/docs/guide/flacbox/img/audio-player-equalizer.webp" >}}
+  {{< ls-card title="" subtitle="Égaliseur du lecteur audio Flacbox" image="/docs/guide/flacbox/img/audio-player-equalizer.webp" >}}
 {{< /cards >}}
 
 ## Barre d'outils du mode lecteur
@@ -82,7 +82,7 @@ Pour certains styles de lecteur, il y a une barre d'outils dédiée en haut du l
 Pour voir votre file de lecture, appuyez sur le bouton de file sur le côté droit de la chanson actuelle. Chaque chanson dans la file dispose de plus d'actions — appuyez sur les trois points pour les afficher. Pour réorganiser une chanson dans la file, utilisez l'indicateur de réorganisation près du titre et faites-le glisser vers une nouvelle position.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="File de lecture Flacbox" image="/docs/guide/flacbox/img/playback_queue.webp" >}}
+  {{< ls-card title="" subtitle="File de lecture Flacbox" image="/docs/guide/flacbox/img/playback_queue.webp" >}}
 {{< /cards >}}
 
 ## Commentaires / Paroles
@@ -98,7 +98,7 @@ Pour afficher les commentaires de piste et les paroles intégrées, ainsi que le
 Après cela, appuyez plusieurs fois sur le bouton de file de l'audio player en bas de l'écran pour passer de la vue illustration / file à la vue commentaires. Sur l'écran Commentaires, faites défiler vers la droite pour basculer entre **Commentaires**, **Paroles intégrées** et le **Fichier LRC**. Des instructions complètes sont disponibles [ici](/docs/howto/how-to-add-and-view-comments-to-your-audio-tracks-on-iphone-ipad-and-mac-with-evermusic-and-flacbox).
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Écran paroles et commentaires Flacbox" image="/docs/guide/flacbox/img/lyrics-screen.webp" >}}
+  {{< ls-card title="" subtitle="Écran paroles et commentaires Flacbox" image="/docs/guide/flacbox/img/lyrics-screen.webp" >}}
 {{< /cards >}}
 
 ## Menu Options
@@ -121,7 +121,7 @@ Chaque chanson dans la file de l'audio player dispose d'un menu avec plus d'acti
 Les mêmes options sont disponibles pour l'élément en cours de lecture dans la file de l'audio player, auquel vous pouvez accéder en appuyant sur l'icône **Plus d'actions** près du titre de la piste.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox — Options pour un élément dans la file de lecture" image="/docs/guide/flacbox/img/options-for-item-in-playback-queue.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox — Options pour un élément dans la file de lecture" image="/docs/guide/flacbox/img/options-for-item-in-playback-queue.webp" >}}
 {{< /cards >}}
 
 ## Actions supplémentaires du lecteur
@@ -143,7 +143,7 @@ Appuyez sur le bouton **Plus d'actions** «&nbsp;...&nbsp;» sur le côté gauch
 - **Aide** — trouver de l'assistance et des conseils.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox — Écran Plus d'actions de l'audio player" image="/docs/guide/flacbox/img/audio-player-more-actions-screen.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox — Écran Plus d'actions de l'audio player" image="/docs/guide/flacbox/img/audio-player-more-actions-screen.webp" >}}
 {{< /cards >}}
 
 ## Signets audio
@@ -161,7 +161,7 @@ Pour créer un nouveau signet :
 La modification des signets pour la piste actuelle est facile : appuyez sur Modifier dans le coin supérieur droit pour entrer en mode d'édition. Dans ce mode, vous pouvez réorganiser les signets, les supprimer, ajuster l'heure du signet et modifier les titres des signets. Des instructions plus détaillées sur les signets audio sont disponibles [ici](/docs/howto/how-to-listen-to-audiobooks-on-iphone-ipad-mac-using-evermusic).
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Écran Signets audio Flacbox" image="/docs/guide/flacbox/img/audio-bookmarks.webp" >}}
+  {{< ls-card title="" subtitle="Écran Signets audio Flacbox" image="/docs/guide/flacbox/img/audio-bookmarks.webp" >}}
 {{< /cards >}}
 
 ## Récents et favoris
@@ -175,7 +175,7 @@ Connectez votre iPhone à votre voiture via USB ou Apple CarPlay sans fil et Fla
 [Lire le guide complet CarPlay](/docs/howto/how-to-play-your-own-music-on-iphone-using-carplay/).
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox sur Apple CarPlay" image="/docs/guide/flacbox/img/carplay-main.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox sur Apple CarPlay" image="/docs/guide/flacbox/img/carplay-main.webp" >}}
 {{< /cards >}}
 
 ## Widgets de l'écran d'accueil (iPhone et iPad)
@@ -243,7 +243,7 @@ Personnalisez les paramètres de l'égaliseur audio. Vous pouvez en savoir plus 
 Ajustez la vitesse de lecture de l'audio player de **0,02× à 3,00×**. Appuyez sur l'icône de configuration dans le coin supérieur droit pour passer en **mode précis** pour des ajustements plus fins.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Écran Vitesse de lecture Flacbox" image="/docs/guide/flacbox/img/playback-speed.webp" >}}
+  {{< ls-card title="" subtitle="Écran Vitesse de lecture Flacbox" image="/docs/guide/flacbox/img/playback-speed.webp" >}}
 {{< /cards >}}
 
 ### Correction de hauteur tonale

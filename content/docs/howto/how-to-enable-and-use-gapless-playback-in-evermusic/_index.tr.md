@@ -7,7 +7,7 @@ tags: ["Evermusic", "Boşluksuz Çalma", "Nasıl Yapılır", "Ses", "Çalma", "�
 readingTime: 4
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 **Özet:** **Ayarlar > Ses çalar > Boşluksuz çalma** bölümünü açın ve düğmeyi **AÇIK** konuma getirin. Bundan sonra şarkılar aralarında hiçbir duraklama, tıklama veya tık sesi olmadan çalar. Evermusic, mevcut parça hâlâ çalarken bir sonraki parçayı önceden arabelleğe alıp çözer, ardından sürekli bir arabellek üzerinde ses örnekleri arasında geçiş yapar; böylece geçiş tamamen kesintisiz olur. Bu, çapraz geçiş değil, gerçek, örnek düzeyinde hassas boşluksuz çalmadır.
 
@@ -73,30 +73,30 @@ Sonuç olarak bir canlı albüm, vuruşu uyumlanmış bir DJ set'i veya bir kons
 
 ## Sık Sorulan Sorular
 
-{{% details title="Evermusic'te boşluksuz çalmayı nasıl açarım?" closed="true" %}}
+{{% ls-details title="Evermusic'te boşluksuz çalmayı nasıl açarım?" closed="true" %}}
 Evermusic'i açın, Ayarlar > Ses çalar > Boşluksuz çalma bölümüne gidin ve düğmeyi AÇIK konuma getirin. Varsayılan olarak kapalıdır. Etkinleştirildiğinde çaldığınız her şeye uygulanır ve siz kapatana kadar açık kalır.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Evermusic'in boşluksuz çalması gerçek gapless mi yoksa yalnızca çapraz geçiş mi?" closed="true" %}}
+{{% ls-details title="Evermusic'in boşluksuz çalması gerçek gapless mi yoksa yalnızca çapraz geçiş mi?" closed="true" %}}
 Gerçek, örnek düzeyinde hassas boşluksuz çalmadır. Evermusic, mevcut parça çalarken bir sonraki parçayı çözüp önceden arabelleğe alır, ardından sürekli bir arabellek üzerinde ses örnekleri arasında geçiş yapar; böylece sessizlik, tıklama veya dolgu eklenmez ve çözücü yeniden başlatma boşluğu oluşmaz. Çapraz geçiş, parçaları üst üste bindirip harmanlayan ayrı ve farklı bir özelliktir; boşluksuz çalma sesi tam olarak master'landığı gibi korur ve yalnızca boşluğu kaldırır.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Neden hâlâ bazı parçalar arasında boşluk duyuyorum?" closed="true" %}}
+{{% ls-details title="Neden hâlâ bazı parçalar arasında boşluk duyuyorum?" closed="true" %}}
 Boşluksuz çalmanın Ayarlar > Ses çalar > Boşluksuz çalma bölümünde açık olduğundan emin olun. Boşluk devam ediyorsa, kaydın kendisine gömülü olabilir (bazı dosyalar bir parçanın başında veya sonunda birkaç saniye gerçek sessizlik içerir). Boşluksuz çalma, oynatıcının normalde parçalar arasına ekleyeceği boşluğu kaldırır; ses dosyasının parçası olan sessizliği kaldıramaz.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Boşluksuz çalma FLAC ve diğer kayıpsız dosyalarla çalışır mı?" closed="true" %}}
+{{% ls-details title="Boşluksuz çalma FLAC ve diğer kayıpsız dosyalarla çalışır mı?" closed="true" %}}
 Evet. Boşluksuz çalma; dosyalar ister yerel olarak, ister bulutta, ister bir medya sunucusunda depolansın, FLAC, Apple Lossless (ALAC) ve MP3 ile AAC gibi kayıplı formatlarla çalışır.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Boşluksuz çalma ile çapraz geçişi aynı anda kullanabilir miyim?" closed="true" %}}
+{{% ls-details title="Boşluksuz çalma ile çapraz geçişi aynı anda kullanabilir miyim?" closed="true" %}}
 Hayır. Birbirinin tersi işleri yaptıkları için boşluksuz çalmayı etkinleştirmek çapraz geçişi otomatik olarak devre dışı bırakır. Sesin tam olarak korunması gereken canlı albümler, DJ mix'leri ve konsept plaklar için boşluksuz çalmayı kullanın; şarkıların birbirine geçmesini istiyorsanız çapraz geçişi kullanın.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Boşluksuz çalma buluttan yayın yaparken çalışır mı?" closed="true" %}}
+{{% ls-details title="Boşluksuz çalma buluttan yayın yaparken çalışır mı?" closed="true" %}}
 Evet. Evermusic, bulut sürücüleri ve medya sunucuları dâhil olmak üzere bir sonraki parçayı erkenden arabelleğe almaya ve çözmeye başlar, böylece devir teslim kesintisiz kalır. Daha yavaş bağlantılarda yalnızca bir sonraki parçayı hazırlamaya biraz daha erken başlar.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Boşluksuz çalma ses kalitesini düşürür mü?" closed="true" %}}
+{{% ls-details title="Boşluksuz çalma ses kalitesini düşürür mü?" closed="true" %}}
 Hayır. Boşluksuz çalma sesinizi yeniden kodlamaz veya işlemez. Yalnızca aralarında boşluk olmaması için parçaların nasıl zamanlanıp arabelleğe alındığını değiştirir. Her örnek, dosyadaki hâliyle tam olarak çalınır.
-{{% /details %}}
+{{% /ls-details %}}

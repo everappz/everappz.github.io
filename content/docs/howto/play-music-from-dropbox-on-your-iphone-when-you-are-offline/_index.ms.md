@@ -7,7 +7,7 @@ tags: ["awan", "penstriman", "iphone", "mp3", "storan", "dropbox"]
 keywords: ["main muzik Dropbox iPhone", "muzik luar talian Dropbox iOS", "Evermusic Dropbox", "pemain mp3 awan", "strim audio Dropbox", "pengurus fail Evermusic", "Dropbox iOS audio"]
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **Ringkasan:** Muat naik muzik anda ke Dropbox, pasang aplikasi Evermusic percuma pada iPhone anda, sambungkan akaun Dropbox anda, dan mainkan atau muat turun trek anda untuk mendengar secara luar talian. Evermusic menyokong MP3, FLAC, WAV, AAC dan banyak lagi. Ia termasuk penyama 10 jalur, senarai main dan pengurusan fail.
@@ -35,7 +35,7 @@ Evermusic adalah percuma sepenuhnya dan tersedia untuk kedua-dua iPhone dan iPad
 
 {{< cards cols="1">}}
 
-  {{< card title="Muat Turun Evermusic" subtitle="Pemain muzik luar talian dan penstrim pemacu awan untuk iPhone dan iPad." icon="download" link="https://itunes.apple.com/us/app/evermusic-offline-music/id885367198?mt=8" >}}
+  {{< ls-card title="Muat Turun Evermusic" subtitle="Pemain muzik luar talian dan penstrim pemacu awan untuk iPhone dan iPad." icon="download" link="https://itunes.apple.com/us/app/evermusic-offline-music/id885367198?mt=8" >}}
 
 {{< /cards >}}
 
@@ -67,26 +67,26 @@ Evermusic juga merupakan pengurus fail lengkap yang menyokong operasi asas: nama
 
 ## FAQ
 
-{{% details title="Bolehkah saya memainkan muzik Dropbox secara luar talian pada iPhone saya?" closed="true" %}}
+{{% ls-details title="Bolehkah saya memainkan muzik Dropbox secara luar talian pada iPhone saya?" closed="true" %}}
 Ya. Gunakan Evermusic untuk menyambungkan Dropbox anda, kemudian muat turun mana-mana trek atau senarai main untuk mendengar secara luar talian. Fail yang dimuat turun disimpan pada peranti anda dan dimainkan tanpa sambungan internet.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Adakah Evermusic percuma?" closed="true" %}}
+{{% ls-details title="Adakah Evermusic percuma?" closed="true" %}}
 Evermusic percuma untuk dimuat turun dengan ciri teras termasuk penyama, penstriman awan dan main balik luar talian. Versi percuma menyokong sehingga 3 sambungan awan dan 10 senarai main. Naik taraf ke Premium mengalih keluar semua had.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Apakah format audio yang disokong Evermusic dari Dropbox?" closed="true" %}}
+{{% ls-details title="Apakah format audio yang disokong Evermusic dari Dropbox?" closed="true" %}}
 Evermusic memainkan MP3, FLAC, WAV, AAC, AIFF, OGG, WMA dan banyak format lain terus dari Dropbox.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Bolehkah saya menyambungkan pelbagai perkhidmatan awan?" closed="true" %}}
+{{% ls-details title="Bolehkah saya menyambungkan pelbagai perkhidmatan awan?" closed="true" %}}
 Ya. Evermusic menyokong Dropbox, Google Drive, OneDrive, Box, WebDAV, SMB, MEGA dan banyak lagi. Anda boleh menyambungkan akaun tanpa had dan melayari semuanya dalam satu perpustakaan.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Adakah Evermusic menyegerakkan senarai main merentasi peranti?" closed="true" %}}
+{{% ls-details title="Adakah Evermusic menyegerakkan senarai main merentasi peranti?" closed="true" %}}
 Senarai main yang dibuat dalam Evermusic disimpan secara setempat pada peranti anda. Fail Dropbox anda kekal disegerakkan merentasi semua peranti melalui Dropbox sendiri.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Bagaimana saya membebaskan storan iPhone dengan muzik Dropbox?" closed="true" %}}
+{{% ls-details title="Bagaimana saya membebaskan storan iPhone dengan muzik Dropbox?" closed="true" %}}
 Pindahkan fail muzik anda ke Dropbox dan strimkannya melalui Evermusic dan bukannya menyimpannya di iPhone anda. Muat turun hanya trek yang anda perlukan untuk mendengar secara luar talian.
-{{% /details %}}
+{{% /ls-details %}}

@@ -7,7 +7,7 @@ tags: ["audio", "prehrávač", "počítač", "súbory", "súbor", "PC", "Mac", "
 keywords: ["iTunes file sharing", "prehrávanie lokálnej hudby", "prenos hudby na iPhone", "kopírovanie súborov na iOS", "Mac na iPhone audio", "lokálne súbory na iPhone", "Evermusic", "Flacbox", "hudobný prehrávač", "zdieľanie súborov", "WiFi Drive", "streamovanie hudby SMB", "hudobná aplikácia iPhone", "import hudby na iOS"]
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **Zhrnutie:** Preneste hudbu z počítača do iPhonu pomocou jednej z troch metód: **iTunes/Finder File Sharing** (USB kábel), **[WiFi Drive](/docs/howto/how-to-transfer-music-from-computer-to-iphone-without-itunes)** (bezdrôtovo, bez kábla), alebo **[SMB](/docs/howto/stream-your-music-from-mac-or-pc-to-iphone-using-smb/)** (streamovanie priamo bez kopírovania). Potom prehrávajte pomocou [Evermusic](/products/evermusic) alebo [Flacbox](/products/flacbox).
@@ -134,22 +134,22 @@ Svoj počítač môžete tiež pripojiť pomocou protokolu SMB na priame streamo
 
 ## FAQ
 
-{{% details title="Aký je najrýchlejší spôsob prenosu hudby na iPhone?" closed="true" %}}
+{{% ls-details title="Aký je najrýchlejší spôsob prenosu hudby na iPhone?" closed="true" %}}
 iTunes/Finder File Sharing cez USB je najrýchlejšia metóda pre veľké hudobné knižnice. Pre menšie prenosy je WiFi Drive pohodlnejší, pretože nevyžaduje kábel.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Môžem preniesť súbory FLAC na môj iPhone?" closed="true" %}}
+{{% ls-details title="Môžem preniesť súbory FLAC na môj iPhone?" closed="true" %}}
 Áno. Evermusic aj Flacbox prijímajú súbory FLAC cez iTunes File Sharing, WiFi Drive alebo SMB. Pre bezstratové formáty sa odporúča Flacbox.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Potrebujem iTunes na macOS Catalina alebo novšom?" closed="true" %}}
+{{% ls-details title="Potrebujem iTunes na macOS Catalina alebo novšom?" closed="true" %}}
 Nie. Apple nahradil iTunes Finderom pre správu zariadení od macOS Catalina. Pre zdieľanie súborov použite záložku Súbory vo Finderi.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Môžem streamovať hudbu bez kopírovania súborov na iPhone?" closed="true" %}}
+{{% ls-details title="Môžem streamovať hudbu bez kopírovania súborov na iPhone?" closed="true" %}}
 Áno. Použite protokol SMB na streamovanie hudby priamo z Macu alebo PC. Tým ušetríte úložisko zariadenia a knižnicu si necháte na počítači.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Ktorú aplikáciu by som mal používať -- Evermusic alebo Flacbox?" closed="true" %}}
+{{% ls-details title="Ktorú aplikáciu by som mal používať -- Evermusic alebo Flacbox?" closed="true" %}}
 Používajte Evermusic pre štandardné formáty ako MP3, WAV a AAC. Vyberte Flacbox, ak vaša knižnica obsahuje bezstratové formáty ako FLAC, DSD alebo OGG.
-{{% /details %}}
+{{% /ls-details %}}

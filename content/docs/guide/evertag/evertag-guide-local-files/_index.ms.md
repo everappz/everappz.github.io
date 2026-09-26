@@ -18,7 +18,7 @@ Bahagian Fail Tempatan berfungsi sebagai hab untuk mengurus fail yang terletak d
 Pengurus fail terbina dalam ini membolehkan anda menyunting fail dan menawarkan pelbagai kaedah untuk mengimport fail audio ke dalam aplikasi. Fail yang baru-baru ini anda buka secara automatik muncul dalam tab **Terkini** dan item yang anda tandai dengan bintang muncul di bawah **Kegemaran**, supaya anda boleh terus melompat ke fail yang paling kerap anda gunakan tanpa perlu kembali ke skrin ini.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Skrin Muat Turun Evertag" image="/docs/guide/evertag/img/downloads.webp" >}}
+  {{< ls-card title="" subtitle="Skrin Muat Turun Evertag" image="/docs/guide/evertag/img/downloads.webp" >}}
 {{< /cards >}}
 
 ## Muat turun fail dari storan awan
@@ -74,7 +74,7 @@ Menunjukkan fail dan folder yang disimpan dalam direktori Dokumen aplikasi dan i
 Menunjukkan fail yang terletak pada peranti anda tetapi dalam aplikasi yang berbeza. Anda boleh mengimportnya ke dalam aplikasi ini menggunakan pemilih fail sistem. Untuk mengaktifkan pemilih, pilih "Buka fail..." untuk memilih fail atau "Buka folder..." untuk memilih folder. Arahan terperinci tentang cara mengimport muzik tempatan yang disimpan di iPhone atau Mac anda tersedia [di sini](/docs/howto/how-to-play-local-music-stored-on-your-iphone-or-mac). Anda juga boleh menyambungkan folder yang terletak pada peranti anda dan mempunyai akses pantas ke kandungan folder. Gunakan item menu "Sambungkan folder" dan pilih folder yang terletak pada peranti anda. Ketik "Selesai," dan aplikasi akan mencipta pautan ke folder tersebut dengan akses baca/tulis, membolehkan anda mengurus fail terus dari aplikasi ini. Untuk memutuskan sambungan folder yang terletak pada peranti anda, ketik butang "Lebih banyak tindakan" dan pilih "Putuskan Sambungan."
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evertag Import Fail Dari Peranti Saya" image="/docs/guide/evertag/img/open-files.webp" >}}
+  {{< ls-card title="" subtitle="Evertag Import Fail Dari Peranti Saya" image="/docs/guide/evertag/img/open-files.webp" >}}
 {{< /cards >}}
 
 ## Import Fail yang Terletak pada Kad Kilat USB yang Disambungkan
@@ -86,7 +86,7 @@ Arahan terperinci tentang cara menyambungkan kad kilat USB ke iPhone anda dan me
 Menu Lebih Banyak Tindakan untuk folder yang sedang dibuka terletak di sudut kanan atas dan menyediakan akses ke pelbagai tindakan.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evertag Import Fail Dari Peranti Saya" image="/docs/guide/evertag/img/downloads-current-folder-actions.webp" >}}
+  {{< ls-card title="" subtitle="Evertag Import Fail Dari Peranti Saya" image="/docs/guide/evertag/img/downloads-current-folder-actions.webp" >}}
 {{< /cards >}}
 
 - **Pilih:** Tukar ke mod pemilihan untuk fail dan folder.  

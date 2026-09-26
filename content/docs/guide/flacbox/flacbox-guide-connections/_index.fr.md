@@ -19,7 +19,7 @@ readingTime: 12
 Sur cet écran, vous pouvez connecter toutes les sources contenant votre musique. Vous pouvez intégrer des services cloud populaires tels que Dropbox, Google Drive, iCloud Drive, OneDrive, MEGA, Box, pCloud, Yandex Disk, Synology Drive et bien d'autres, ainsi que votre Mac, PC ou NAS via des protocoles standard. Que votre collection soit hébergée sur un service adapté au streaming comme Dropbox ou sur un NAS personnel comme un Synology, QNAP, Buffalo, Apple Time Capsule ou WD My Cloud Home, Flacbox se connecte à tous depuis un seul écran.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Écran Connexions de Flacbox" image="/docs/guide/flacbox/img/connections-main.webp" >}}
+  {{< ls-card title="" subtitle="Écran Connexions de Flacbox" image="/docs/guide/flacbox/img/connections-main.webp" >}}
 {{< /cards >}}
 
 ## Se connecter au stockage en nuage
@@ -30,7 +30,7 @@ Sur cet écran, vous pouvez connecter toutes les sources contenant votre musique
 - Saisissez vos identifiants sur la page d'autorisation officielle fournie par le fournisseur de nuage, puis appuyez sur **Fait**.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox — Ajouter un service de stockage en nuage" image="/docs/guide/flacbox/img/add-cloud-storage.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox — Ajouter un service de stockage en nuage" image="/docs/guide/flacbox/img/add-cloud-storage.webp" >}}
 {{< /cards >}}
 
 Si vous rencontrez des problèmes, vérifiez votre connexion internet et vos identifiants. Dans la version Premium de l'application, vous pouvez ajouter un nombre illimité de services ; la version gratuite prend en charge jusqu'à trois services.
@@ -134,7 +134,7 @@ Cette section affiche tous les appareils sur votre réseau local auxquels vous p
 C'est la façon la plus rapide de découvrir un partage SMB, WebDAV ou DLNA sur votre réseau domestique sans saisir d'adresses IP manuellement.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox — Appareils disponibles sur le réseau local" image="/docs/guide/flacbox/img/available-devies.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox — Appareils disponibles sur le réseau local" image="/docs/guide/flacbox/img/available-devies.webp" >}}
 {{< /cards >}}
 
 ## Wi-Fi Drive
@@ -149,7 +149,7 @@ Wi-Fi Drive est une technologie pratique qui permet des transferts de fichiers s
 - Appuyez sur **Démarrer Wi-Fi Drive** pour activer Wi-Fi Drive.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox Wi-Fi Drive" image="/docs/guide/flacbox/img/wifi-drive.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox Wi-Fi Drive" image="/docs/guide/flacbox/img/wifi-drive.webp" >}}
 {{< /cards >}}
 
 ### Accéder à Wi-Fi Drive depuis votre ordinateur
@@ -234,7 +234,7 @@ Appuyez sur l'icône **«&nbsp;...&nbsp;»** près du titre d'un fichier pour af
 - **Supprimer** — supprimer définitivement le fichier de votre stockage en nuage. **Cette action est irréversible.**
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox — Plus d'actions pour un fichier dans le stockage en nuage connecté" image="/docs/guide/flacbox/img/more-actions-for-file-in-connected-cloud-storage.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox — Plus d'actions pour un fichier dans le stockage en nuage connecté" image="/docs/guide/flacbox/img/more-actions-for-file-in-connected-cloud-storage.webp" >}}
 {{< /cards >}}
 
 Si la liste des actions dépasse l'espace disponible à l'écran, faites simplement défiler vers le bas dans le menu des actions pour accéder aux options supplémentaires.
@@ -261,7 +261,7 @@ Pour chaque dossier de votre stockage en nuage, de nombreuses actions sont dispo
 La section Accès rapide est située en haut de l'écran. Elle vous donne un accès rapide à vos fichiers favoris et récemment ouverts depuis les services cloud connectés. Chaque fois que vous ouvrez un fichier ou un dossier depuis le nuage, il est ajouté à la liste Récemment ouverts. Pour effacer cette liste, ouvrez Récents, appuyez sur le bouton Plus d'actions et choisissez Supprimer la liste. Vous pouvez également marquer des dossiers profondément imbriqués comme Favoris pour y accéder rapidement sans devoir parcourir l'arborescence.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox — Liens en ligne et accès rapide" image="/docs/guide/flacbox/img/online-links.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox — Liens en ligne et accès rapide" image="/docs/guide/flacbox/img/online-links.webp" >}}
 {{< /cards >}}
 
 ## Autres services
@@ -269,5 +269,5 @@ La section Accès rapide est située en haut de l'écran. Elle vous donne un acc
 Cette section affiche des fonctionnalités supplémentaires qui améliorent votre expérience. Actuellement, l'application prend en charge le scrobbling **Last.fm** — une fois connecté, vos statistiques de lecture sont automatiquement envoyées à votre compte Last.fm. Vous pouvez ensuite visiter votre profil Last.fm pour consulter les analyses d'écoute et obtenir des recommandations musicales personnalisées. Des instructions de configuration détaillées sont disponibles [ici](/docs/howto/how-to-scrobble-your-music-history-from-evermusic-or-flacbox-to-last-fm).
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox — Connexion Last.fm" image="/docs/guide/flacbox/img/last-fm-connect.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox — Connexion Last.fm" image="/docs/guide/flacbox/img/last-fm-connect.webp" >}}
 {{< /cards >}}

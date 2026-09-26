@@ -4,7 +4,9 @@ title: 'Dokumentace'
 ---
 
 
-{{< lottie src="/images/juicy-json/juicy-girl-and-boy-searching-for-the-right-files.json" width="90%" >}}
+{{< ls-lottie src="/images/juicy-json/juicy-girl-and-boy-searching-for-the-right-files.json" width="90%" >}}
+
+{{< ls-docs-search >}}
 
 Tato sekce obsahuje užitečnou dokumentaci pro všechny aplikace Everappz — včetně pokynů k nastavení, přehledu funkcí a pokročilých tipů.
 
@@ -13,9 +15,9 @@ Pokud jste noví nebo se chcete dozvědět více, naše průvodce a časté dota
 ## Začít
 
 {{< cards >}}
-  {{< card icon="book-open" link="/docs/guide" title="Uživatelská příručka" >}}
-  {{< card icon="question-mark-circle" link="/docs/faq" title="Časté dotazy" >}}
-  {{< card icon="light-bulb" link="/docs/howto" title="Návody" >}}
+  {{< ls-card icon="book-open" link="/docs/guide" title="Uživatelská příručka" >}}
+  {{< ls-card icon="question-mark-circle" link="/docs/faq" title="Časté dotazy" >}}
+  {{< ls-card icon="light-bulb" link="/docs/howto" title="Návody" >}}
 {{< /cards >}}
 
 - **Uživatelská příručka** vám pomůže nainstalovat, nakonfigurovat a využít naše aplikace naplno.
@@ -31,5 +33,5 @@ Pokud vaše otázka není zodpovězena v dokumentaci, navštivte naši stránku 
 Právní zásady, postupy zpracování dat a uživatelské smlouvy týkající se našich služeb naleznete v právních dokumentech níže:
 
 {{< cards >}}
-  {{< card icon="document-text" link="/legal" title="Právní centrum" >}}
+  {{< ls-card icon="document-text" link="/legal" title="Právní centrum" >}}
 {{< /cards >}}

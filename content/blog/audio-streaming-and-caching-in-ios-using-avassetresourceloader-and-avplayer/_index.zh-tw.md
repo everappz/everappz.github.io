@@ -12,7 +12,7 @@ authors:
     image: "/images/about/artem-meleshko-founder-everappz.webp"
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 ![](/blog/audio-streaming-and-caching-in-ios-using-avassetresourceloader-and-avplayer/diagram.png)
 
@@ -140,18 +140,18 @@ self.player = [AVPlayer playerWithPlayerItem:item];
 
 ## 常見問題
 
-{{% details title="何時應該使用 AVAssetResourceLoaderDelegate 而不是直接 URL？" closed="true" %}}
+{{% ls-details title="何時應該使用 AVAssetResourceLoaderDelegate 而不是直接 URL？" closed="true" %}}
 當雲端服務需要自訂授權標頭、需要對串流音訊進行磁碟快取，或希望精細控制資料載入和緩衝方式時，請使用它。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="這種方法適用於 Swift 嗎？" closed="true" %}}
+{{% ls-details title="這種方法適用於 Swift 嗎？" closed="true" %}}
 是的。`AVAssetResourceLoaderDelegate` 協定在 Swift 中的運作方式完全相同。這裡的 Objective-C 範例可以直接轉換。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="這可以用於視訊串流嗎？" closed="true" %}}
+{{% ls-details title="這可以用於視訊串流嗎？" closed="true" %}}
 可以。`AVAssetResourceLoaderDelegate` 適用於 AVPlayer 支援的任何媒體類型，包括視訊。同樣的自訂方案方法同樣適用。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="這是否支援背景音訊播放？" closed="true" %}}
+{{% ls-details title="這是否支援背景音訊播放？" closed="true" %}}
 是的，只要你在應用程式的功能中啟用了「Audio, AirPlay, and Picture in Picture」背景模式，並正確設定了 `AVAudioSession`。
-{{% /details %}}
+{{% /ls-details %}}

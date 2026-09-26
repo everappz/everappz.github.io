@@ -17,7 +17,7 @@ De speler is het hoofdscherm van de applicatie waar u de speler-wachtrij en afsp
 ## De speler openen
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evermusic audiospelerscherm" image="/docs/guide/evermusic/evermusic-guide-player/img/player-main.webp" >}}
+  {{< ls-card title="" subtitle="Evermusic audiospelerscherm" image="/docs/guide/evermusic/evermusic-guide-player/img/player-main.webp" >}}
 {{< /cards >}}
 
 U kunt de volledig-scherm speler openen vanuit de minispeler-weergave. Op uw iPhone vindt u de minispeler boven de tabbalk op het hoofdscherm. Op uw iPad of Mac is het toegankelijk vanuit het linkermenu. Om de minispeler te verbergen, tikt u op het pictogram en veegt u naar beneden. Om de volledig-scherm speler volledig te verbergen, tikt u eenvoudig op de sluitknop in de rechterbenedenhoek.
@@ -44,7 +44,7 @@ Als u zin heeft in wat willekeurigheid, is de optie "Willekeurig" uw keuze. Het 
 ## Volumebeheer
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Volumebeheer met AirPlay en Google Cast" image="/docs/guide/evermusic/evermusic-guide-player/img/player-volume-control.webp" >}}
+  {{< ls-card title="" subtitle="Volumebeheer met AirPlay en Google Cast" image="/docs/guide/evermusic/evermusic-guide-player/img/player-volume-control.webp" >}}
 {{< /cards >}}
 
 Vind de volumeschuifregelaar op het scherm Audio-instellingen door op het geluidspictogram onder de afspeelknoppen te tikken. U kunt het volume wijzigen met deze schuifregelaar of de standaard volumeknoppen op uw apparaat. Bovendien vindt u enkele handige streamingknoppen:
@@ -63,7 +63,7 @@ Als u de voorkeur geeft aan AirPlay, zoekt u naar de AirPlay-knop onderaan het a
 ## Audio-equalizer
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="10-bands audio-equalizer" image="/docs/guide/evermusic/evermusic-guide-player/img/player-equalizer.webp" >}}
+  {{< ls-card title="" subtitle="10-bands audio-equalizer" image="/docs/guide/evermusic/evermusic-guide-player/img/player-equalizer.webp" >}}
 {{< /cards >}}
 
 Evermusic wordt geleverd met een 10-bands equalizer, compleet met iPod-stijl presets, een versterker en handmatige equalizer-instellingen. Om de equalizer te activeren, tikt u eenvoudig op de knop "Equalizer" op de onderste werkbalk en zet u het schakelbesturingselement in de rechterbovenhoek aan. U kunt kiezen uit een reeks voorgedefinieerde equalizer-presets zoals "Acoustic", "Bass Booster", "Classical" en meer. Als u een geluidsliefhebber bent, zult u de mogelijkheid waarderen om elke frequentieband handmatig af te stemmen met schuifregelaars. Maak en sla uw eigen audio-equalizer-presets op. Als een nummer niet luid genoeg is, kunt u ook de versterkerversterking aanpassen. We hebben meer gedetailleerde instructies over hoe u de equalizer gebruikt [hier](/docs/howto/how-to-use-the-audio-equalizer-on-your-iphone-ipad-mac-with-evermusic-and-flacbox).
@@ -71,7 +71,7 @@ Evermusic wordt geleverd met een 10-bands equalizer, compleet met iPod-stijl pre
 ## Werkbalk spelermodus
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Bovenste werkbalk speler met Zoeken en Snelheid" image="/docs/guide/evermusic/evermusic-guide-player/img/player-top-toolbar.webp" >}}
+  {{< ls-card title="" subtitle="Bovenste werkbalk speler met Zoeken en Snelheid" image="/docs/guide/evermusic/evermusic-guide-player/img/player-top-toolbar.webp" >}}
 {{< /cards >}}
 
 Voor een select aantal spelerschermstijlen vindt u een werkbalk voor spelermodus bovenaan het spelerscherm, direct onder de navigatiebalk. Deze handige werkbalk bevat drie knoppen.
@@ -82,7 +82,7 @@ Voor een select aantal spelerschermstijlen vindt u een werkbalk voor spelermodus
 ## Audiobladwijzers
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Audiobladwijzers voor audioboeken en lezingen" image="/docs/guide/evermusic/evermusic-guide-player/img/player-bookmarks.webp" >}}
+  {{< ls-card title="" subtitle="Audiobladwijzers voor audioboeken en lezingen" image="/docs/guide/evermusic/evermusic-guide-player/img/player-bookmarks.webp" >}}
 {{< /cards >}}
 
 Hier kunt u meerdere bladwijzers maken voor nummers in uw muziekbibliotheek. We hebben een volledige instructie over het gebruik van bladwijzers [hier](/docs/howto/how-to-listen-to-audiobooks-on-iphone-ipad-mac-using-evermusic).
@@ -90,7 +90,7 @@ Hier kunt u meerdere bladwijzers maken voor nummers in uw muziekbibliotheek. We 
 ## Speler-wachtrij
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Speler-wachtrij" image="/docs/guide/evermusic/evermusic-guide-player/img/player-queue.webp" >}}
+  {{< ls-card title="" subtitle="Speler-wachtrij" image="/docs/guide/evermusic/evermusic-guide-player/img/player-queue.webp" >}}
 {{< /cards >}}
 
 Om toegang te krijgen tot uw speler-wachtrij, tikt u eenvoudig op de knop voor speler-wachtrij op de onderste werkbalk. Om een nummer in de wachtrij te verplaatsen, gebruikt u de herorderindicator naast de titel.
@@ -98,7 +98,7 @@ Om toegang te krijgen tot uw speler-wachtrij, tikt u eenvoudig op de knop voor s
 ## Opmerkingen / Songteksten
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Opmerkingen, ingebedde songteksten en LRC-bestanden" image="/docs/guide/evermusic/evermusic-guide-player/img/player-lyrics.webp" >}}
+  {{< ls-card title="" subtitle="Opmerkingen, ingebedde songteksten en LRC-bestanden" image="/docs/guide/evermusic/evermusic-guide-player/img/player-lyrics.webp" >}}
 {{< /cards >}}
 
 Volg deze stappen om nummeropsmerkingen en ingebedde songteksten, evenals LRC-bestanden, te bekijken:
@@ -114,7 +114,7 @@ We hebben een volledige instructie over het bekijken van songteksten [hier](/doc
 ## Opties-menu
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Opties-menu voor een wachtrij-item" image="/docs/guide/evermusic/evermusic-guide-player/img/player-queue-item-options-menu.webp" >}}
+  {{< ls-card title="" subtitle="Opties-menu voor een wachtrij-item" image="/docs/guide/evermusic/evermusic-guide-player/img/player-queue-item-options-menu.webp" >}}
 {{< /cards >}}
 
 Elk nummer in uw audiospelerwachtrij heeft een menu met meer acties, dat u kunt openen door op de drie-puntjesknop naast de nummertitel te tikken. De beschikbare acties zijn:
@@ -153,7 +153,7 @@ Tik op de knop meer acties "..." aan de linkerkant van de titel van het momentee
 ## Terkini en favorieten
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Recent afgespeelde nummers vanuit de speler" image="/docs/guide/evermusic/evermusic-guide-player/img/player-recents.webp" >}}
+  {{< ls-card title="" subtitle="Recent afgespeelde nummers vanuit de speler" image="/docs/guide/evermusic/evermusic-guide-player/img/player-recents.webp" >}}
 {{< /cards >}}
 
 Op het spelerscherm kunt u de gedeelten 'Terkini' en 'Favorieten' openen door op de knop Meer acties '…' te tikken en het bijbehorende menu-item te selecteren. In beide gedeelten kunt u nummers zoeken, alle nummers afspelen, alle nummers willekeurig afspelen, de lijst exporteren en de lijst verwijderen. We hebben gedetailleerde instructies over het exporteren van nummerlijsten [hier](/docs/howto/export-tracks-collection-from-evermusic-flacbox-to-m3u-csv-txt/).
@@ -161,7 +161,7 @@ Op het spelerscherm kunt u de gedeelten 'Terkini' en 'Favorieten' openen door op
 ## Minispeler-venster (exclusief voor Mac)
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Mac minispeler-venster" image="/docs/guide/evermusic/evermusic-guide-player/img/player-mini-mac.webp" >}}
+  {{< ls-card title="" subtitle="Mac minispeler-venster" image="/docs/guide/evermusic/evermusic-guide-player/img/player-mini-mac.webp" >}}
 {{< /cards >}}
 
 Voor Mac-gebruikers is er een handig minispeler-venster. Voor toegang verplaatst u uw cursor naar de rechterbenedenhoek van het app-venster en verkleint u het tot de kleinst mogelijke grootte. Tik vervolgens op de samenvouwknop (weergegeven als een pijl omlaag) om het minispeler-venster te activeren. Als u het bovenop andere vensters wilt houden, gaat u naar de menubalk bovenaan uw Mac, selecteert u 'Venster' en kiest u 'Venster altijd bovenop tonen'. Deze functie is bijzonder handig wanneer u naar audiolezingen luistert en geen onderbrekingen wilt.
@@ -169,7 +169,7 @@ Voor Mac-gebruikers is er een handig minispeler-venster. Voor toegang verplaatst
 ## Sneltoetsen (exclusief voor Mac)
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Mac statusbalk afspeelmenu met sneltoetsen" image="/docs/guide/evermusic/evermusic-guide-player/img/player-mac-shortcuts.webp" >}}
+  {{< ls-card title="" subtitle="Mac statusbalk afspeelmenu met sneltoetsen" image="/docs/guide/evermusic/evermusic-guide-player/img/player-mac-shortcuts.webp" >}}
 {{< /cards >}}
 
 Voor Mac-gebruikers is er een systeemafspeelmenu beschikbaar op de statusbalk met sneltoetsen. Om bijvoorbeeld Afspelen/Pauzeren te doen, tikt u gewoon op de spatiebalk op uw toetsenbord. Sneltoetsen voor Stoppen, Volgend nummer, Vorig nummer, Tijd overslaan, Herhalen, Willekeurig afspelen en Afspeelsnelheid zijn beschikbaar zoals te zien in de schermafbeelding.
@@ -177,7 +177,7 @@ Voor Mac-gebruikers is er een systeemafspeelmenu beschikbaar op de statusbalk me
 ## Audiospelerinstellingen
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Audiospelerinstellingen" image="/docs/guide/evermusic/evermusic-guide-player/img/player-settings.webp" >}}
+  {{< ls-card title="" subtitle="Audiospelerinstellingen" image="/docs/guide/evermusic/evermusic-guide-player/img/player-settings.webp" >}}
 {{< /cards >}}
 
 Om audiospelerinstellingen te openen, tikt u op de knop Meer op het audiospelerscherm en selecteert u "Instellingen" in het vervolgkeuzemenu. Hier vindt u verschillende secties gegroepeerd op functionaliteit:

@@ -19,7 +19,7 @@ readingTime: 11
 Flacboxで音楽ライブラリを管理するのは簡単です。ローカルのFLAC、ALAC、DSD、MP3、M4A、OGG、WMA、APEなど数十の形式のすべてのトラックを1つの検索可能なコレクションに整理できます。音楽ライブラリを構築する2つのオプションがあります：手動追加（追加するものを正確に選択）または自動同期（Flacboxが指定されたクラウドフォルダーをスキャンし、表示されると新しいファイルを自動的に追加）。
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox 音楽ライブラリ アルバムビュー" image="/docs/guide/flacbox/img/media-library-albums.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox 音楽ライブラリ アルバムビュー" image="/docs/guide/flacbox/img/media-library-albums.webp" >}}
 {{< /cards >}}
 
 ## 手動追加
@@ -27,7 +27,7 @@ Flacboxで音楽ライブラリを管理するのは簡単です。ローカル�
 トラックを手動で追加するには、左上隅の**音楽を追加**アイコンをタップして、接続されたクラウドストレージサービスまたはデバイス上のファイルからフォルダーまたはファイルを選択します。ライブラリにトラックを追加すると、それらのトラックへのリンクのみが作成されます — 実際のファイルは元の場所に残り、貴重なディスク容量を節約します。
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox 音楽ライブラリに曲を追加" image="/docs/guide/flacbox/img/library-add-songs.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox 音楽ライブラリに曲を追加" image="/docs/guide/flacbox/img/library-add-songs.webp" >}}
 {{< /cards >}}
 
 Macバージョンではライブラリにファイルをドラッグアンドドロップすることもでき、iPhoneとiPadではシステムファイルピッカーから**ファイルを開く…** / **フォルダーを開く…**を使用できます。
@@ -89,7 +89,7 @@ Macバージョンではライブラリにファイルをドラッグアンド�
 検索機能を使用すると、音楽ライブラリ内の特定のトラック、アーティスト、アルバム、またはジャンルを見つけることができます。検索は音楽ライブラリデータベースに対してローカルで実行されるため、完全にオフラインで動作し、入力しながら結果を返します。
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox 音楽ライブラリ検索" image="/docs/guide/flacbox/img/media-library-search.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox 音楽ライブラリ検索" image="/docs/guide/flacbox/img/media-library-search.webp" >}}
 {{< /cards >}}
 
 ## オプションメニュー
@@ -136,7 +136,7 @@ Macバージョンではライブラリにファイルをドラッグアンド�
 - **ソロアルバム** — 指定されたアーティストのトラックのみが表示されるアルバムを表示します。
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox アルバム詳細画面" image="/docs/guide/flacbox/img/media-library-album-details-screen.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox アルバム詳細画面" image="/docs/guide/flacbox/img/media-library-album-details-screen.webp" >}}
 {{< /cards >}}
 
 ## 設定

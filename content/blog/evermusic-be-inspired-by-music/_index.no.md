@@ -14,7 +14,7 @@ authors:
     image: "/images/about/artem-meleshko-founder-everappz.webp"
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 **Sammendrag:** Se den offisielle Evermusic-promovideoen for å se skymusikkstrømming, avspilling uten nett og lydtilpasning i aksjon på iPhone og Mac.
 
@@ -24,7 +24,7 @@ Vi er glade for å dele den offisielle Evermusic-promovideoen, laget med lidensk
 
 Se Evermusic i aksjon -- strøm musikk fra skyen, administrer spillelister og lever lyd av høy kvalitet på iPhone:
 
-{{< youtubecard id="6mm3LVT4rtA" title="Evermusic Promo Video" >}}
+{{< ls-youtubecard id="6mm3LVT4rtA" title="Evermusic Promo Video" >}}
 
 ## Hva du vil se i videoen
 
@@ -41,14 +41,14 @@ Hvis du liker videoen, del den med vennene dine og andre musikkentusiaster.
 
 ## FAQ
 
-{{% details title="Hva er Evermusic?" closed="true" %}}
+{{% ls-details title="Hva er Evermusic?" closed="true" %}}
 Evermusic er en musikkspiller for iOS og macOS som strømmer lyd fra skytjenester som Dropbox, Google Drive, OneDrive og iCloud Drive. Den støtter også avspilling uten nett og inkluderer en innebygd equalizer.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Hvilke skytjenester støtter Evermusic?" closed="true" %}}
+{{% ls-details title="Hvilke skytjenester støtter Evermusic?" closed="true" %}}
 Evermusic kobler til Dropbox, Google Drive, OneDrive, iCloud Drive, pCloud, Yandex.Disk og flere andre skylagringstilbydere.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Er Evermusic gratis?" closed="true" %}}
+{{% ls-details title="Er Evermusic gratis?" closed="true" %}}
 Evermusic er gratis å laste ned med valgfrie premiumfunksjoner tilgjengelige via kjøp i appen.
-{{% /details %}}
+{{% /ls-details %}}

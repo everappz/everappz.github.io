@@ -15,7 +15,7 @@ readingTime: 11
 इस स्क्रीन पर, आप अपनी ऑडियो फ़ाइलों वाले विभिन्न स्रोतों को कनेक्ट कर सकते हैं। आप Google Drive, Dropbox, OneDrive, iCloud और अन्य जैसी लोकप्रिय क्लाउड सेवाओं को एकीकृत कर सकते हैं, साथ ही अपना Mac या PC कनेक्ट कर सकते हैं। इसके अलावा, आपके पास Apple Time Capsule, WD Cloud Home, या SMB या WebDAV बोलने वाले किसी भी NAS में स्थित ऑडियो फ़ाइलें संपादित करने का विकल्प है।
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evertag संपर्क स्क्रीन" image="/docs/guide/evertag/img/connections.webp" >}}
+  {{< ls-card title="" subtitle="Evertag संपर्क स्क्रीन" image="/docs/guide/evertag/img/connections.webp" >}}
 {{< /cards >}}
 
 ## त्वरित पहुँच
@@ -151,7 +151,7 @@ iTunes File Sharing का उपयोग करने के विस्त�
 - **Grid/List व्यू**: दो देखने के मोड के बीच स्विच करें: टेबल व्यू और thumbnail व्यू। टेबल व्यू फ़ाइलें सूची में प्रस्तुत करता है, जबकि thumbnail व्यू फ़ाइलों के दृश्य प्रतिनिधित्व दिखाता है।
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evertag क्लाउड फ़ोल्डर सॉर्ट" image="/docs/guide/evertag/img/cloud-storage-sort.webp" >}}
+  {{< ls-card title="" subtitle="Evertag क्लाउड फ़ोल्डर सॉर्ट" image="/docs/guide/evertag/img/cloud-storage-sort.webp" >}}
 {{< /cards >}}
 
 ## ऑनलाइन फ़ाइलें संपादित करें
@@ -163,7 +163,7 @@ iTunes File Sharing का उपयोग करने के विस्त�
 - **विभिन्न क्रियाएँ करें**: एक बार जब आप उन फ़ाइलों या फ़ोल्डर का चयन कर लेते हैं जिन्हें आप प्रबंधित करना चाहते हैं, तो आपके पास कई क्रियाओं तक पहुँच होगी:
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evertag फ़ाइल चुनें" image="/docs/guide/evertag/img/cloud-storage-file-select.webp" >}}
+  {{< ls-card title="" subtitle="Evertag फ़ाइल चुनें" image="/docs/guide/evertag/img/cloud-storage-file-select.webp" >}}
 {{< /cards >}}
 
 ## फ़ाइल क्रियाएँ
@@ -180,7 +180,7 @@ iTunes File Sharing का उपयोग करने के विस्त�
 - **हटाना**: इस क्रिया के साथ सावधान रहें, क्योंकि यह आपके क्लाउड स्टोरेज से फ़ाइल को स्थायी रूप से हटा देती है। **इस deletion को पूर्ववत नहीं किया जा सकता**।
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evertag फ़ाइल विकल्प" image="/docs/guide/evertag/img/cloud-storage-file-options.webp" >}}
+  {{< ls-card title="" subtitle="Evertag फ़ाइल विकल्प" image="/docs/guide/evertag/img/cloud-storage-file-options.webp" >}}
 {{< /cards >}}
 
 यदि क्रियाओं की सूची उपलब्ध स्क्रीन स्थान से अधिक है, तो अतिरिक्त विकल्पों तक पहुँचने के लिए क्रियाएँ मेनू के भीतर नीचे scroll करें।
@@ -196,5 +196,5 @@ iTunes File Sharing का उपयोग करने के विस्त�
 - **हटाना**: इस क्रिया के साथ सावधान रहें, क्योंकि यह आपके क्लाउड स्टोरेज से फ़ोल्डर और उसकी सामग्री को स्थायी रूप से हटा देती है। **इस क्रिया को पूर्ववत नहीं किया जा सकता**।
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evertag फ़ोल्डर विकल्प" image="/docs/guide/evertag/img/cloud-storage-folder-options.webp" >}}
+  {{< ls-card title="" subtitle="Evertag फ़ोल्डर विकल्प" image="/docs/guide/evertag/img/cloud-storage-folder-options.webp" >}}
 {{< /cards >}}

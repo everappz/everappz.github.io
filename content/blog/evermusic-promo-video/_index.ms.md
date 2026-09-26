@@ -12,7 +12,7 @@ authors:
     image: "/images/about/artem-meleshko-founder-everappz.webp"
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 ## Evermusic: Pemain Muzik Awan untuk iPhone dan iPad
 
@@ -22,7 +22,7 @@ Evermusic ialah pemain muzik awan yang menyambung ke storan awan peribadi anda d
 
 ## Tonton Video Promosi
 
-{{< youtubecard id="BwD0XLgdzEE" title="Evermusic Promo Video" >}}
+{{< ls-youtubecard id="BwD0XLgdzEE" title="Evermusic Promo Video" >}}
 
 ## Ciri Utama yang Ditunjukkan dalam Video
 
@@ -36,14 +36,14 @@ Evermusic ialah pemain muzik awan yang menyambung ke storan awan peribadi anda d
 
 ## Soalan Lazim
 
-{{% details title="Apakah Evermusic?" closed="true" %}}
+{{% ls-details title="Apakah Evermusic?" closed="true" %}}
 Evermusic ialah pemain muzik awan untuk iPhone dan iPad. Ia menyambung ke perkhidmatan storan awan seperti Dropbox, Google Drive dan OneDrive, membolehkan anda menstrim dan memuat turun fail muzik anda sendiri. Ia menyokong FLAC, MP3, AAC, WAV dan format audio lain.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Adakah Evermusic percuma untuk dimuat turun?" closed="true" %}}
+{{% ls-details title="Adakah Evermusic percuma untuk dimuat turun?" closed="true" %}}
 Ya. Evermusic percuma untuk dimuat turun dengan ciri asas. Peningkatan Premium sekali bayar membuka penyama, crossfade dan sambungan akaun awan tambahan.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Perkhidmatan awan manakah yang disokong oleh Evermusic?" closed="true" %}}
+{{% ls-details title="Perkhidmatan awan manakah yang disokong oleh Evermusic?" closed="true" %}}
 Evermusic menyokong lebih 12 platform awan termasuk iCloud Drive, Dropbox, Google Drive, OneDrive, Box, MEGA, Yandex.Disk, pCloud dan mana-mana pelayan yang menjalankan protokol WebDAV atau SMB.
-{{% /details %}}
+{{% /ls-details %}}

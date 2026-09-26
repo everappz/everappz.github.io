@@ -7,7 +7,7 @@ keywords: ["خادم WebDAV على iPhone", "خادم WebDAV على iPad", "كي
 readingTime: 9
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 يحوّل WebDAV مجلداً إلى قرص شبكي يستطيع الحاسوب فتحه في مدير الملفات المعتاد لديه. وهو يعمل عبر بروتوكول الويب نفسه الذي يستخدمه متصفحك، ولهذا ينتقل جيداً بين Mac وWindows وLinux من دون تعريفات خاصة. مع [Everdisk](/products/everdisk) يمكنك تشغيل خادم WebDAV على جهاز iPhone أو iPad، فيظهر الهاتف بوصفه قرصاً يمكنك تصفّحه والنسخ منه والنسخ إليه من أي حاسوب تقريباً.
 
@@ -104,40 +104,40 @@ http://192.168.1.20:8080
 
 ## الأسئلة الشائعة
 
-{{% details title="ما عنوان WebDAV والمنفذ لجهاز iPhone لديّ؟" closed="true" %}}
+{{% ls-details title="ما عنوان WebDAV والمنفذ لجهاز iPhone لديّ؟" closed="true" %}}
 بعد أن تبدأ المشاركة، يعرض Everdisk العنوان على شاشة المشاركة. ويبدو هكذا http://192.168.1.20:8080. والرقم 8080 هو المنفذ الذي يستخدمه Everdisk لـ WebDAV، والجزء الأول هو عنوان جهاز iPhone على شبكة Wi-Fi، فسيكون عنوانك مختلفاً.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="كيف أتصل بـ WebDAV على جهاز iPhone من Windows؟" closed="true" %}}
+{{% ls-details title="كيف أتصل بـ WebDAV على جهاز iPhone من Windows؟" closed="true" %}}
 افتح File Explorer، وانقر بزر الفأرة الأيمن على This PC، واختر Add a network location أو Map network drive. أدخِل عنوان WebDAV من Everdisk، مثلاً http://192.168.1.20:8080، ثم أدخِل اسم دخولك إن ضبطته. وإن لم يتصل Windows، فتأكد من أن خدمة WebClient قيد التشغيل (ابحث عن Services، وابحث عن WebClient، وشغّلها) وحاول من جديد.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="هل يمكنني استخدام WebDAV بين جهازَي iPhone؟" closed="true" %}}
+{{% ls-details title="هل يمكنني استخدام WebDAV بين جهازَي iPhone؟" closed="true" %}}
 نعم، لكن تطبيق الملفات على iOS لا يتضمن عميل WebDAV، لذا استخدم Everdisk على الجهاز الثاني. افتح علامة تبويب الأجهزة، واضغط اتصال جديد، واختر WebDAV، وأدخِل العنوان المعروض على الهاتف الأول. يعمل أيضاً تطبيق WebDAV مثل Documents by Readdle.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="هل يحتاج WebDAV إلى كلمة مرور؟" closed="true" %}}
+{{% ls-details title="هل يحتاج WebDAV إلى كلمة مرور؟" closed="true" %}}
 لا، اسم الدخول اختياري. اترك اسم الدخول وكلمة المرور فارغين في الإعدادات، المشاركة، الوصول لوصول الضيف، أو اضبطهما إن أردت أن تسجّل الاتصالات الدخول.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="هل يمكن للآخرين تغيير ملفاتي عبر WebDAV؟" closed="true" %}}
+{{% ls-details title="هل يمكن للآخرين تغيير ملفاتي عبر WebDAV؟" closed="true" %}}
 فقط إذا سمحت بذلك. يتحكم مفتاح تعديل الملفات في الإعدادات، المشاركة، الوصول بهذا. التفعيل يتيح للأجهزة المتصلة الرفع وإعادة التسمية والحذف. والإيقاف يجعل القرص للقراءة فقط، فيستطيع الآخرون العرض والنسخ من دون تغيير أي شيء.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="WebDAV أم SMB، ما الفرق؟" closed="true" %}}
+{{% ls-details title="WebDAV أم SMB، ما الفرق؟" closed="true" %}}
 كلاهما يركّب جهاز iPhone لديك بوصفه قرصاً شبكياً. يعمل WebDAV عبر بروتوكول الويب ويتصل بسلاسة من مستكشف ملفات Windows، وهذه ميزته الرئيسية. أما SMB فهو نظام مشاركة الملفات الأصلي على Mac وLinux وأجهزة NAS، وهو عادةً أسرع على جهاز Mac، وهو اتصال Everdisk الوحيد الذي يمكنه تشفير عمليات النقل. يستطيع Everdisk تشغيل كليهما في آن واحد.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="لماذا ينقطع قرص WebDAV لديّ؟" closed="true" %}}
+{{% ls-details title="لماذا ينقطع قرص WebDAV لديّ؟" closed="true" %}}
 جهاز iPhone لديك هو الخادم، وiOS يوقف التطبيقات التي تبقى في الخلفية مدة طويلة. أبقِ Everdisk مفتوحاً على الشاشة أثناء اتصال جهاز، ووصّله بالطاقة أثناء عمليات النقل الطويلة. وتأكد أيضاً من أن كلا الجهازين ما زالا على شبكة Wi-Fi نفسها.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="هل يمكنني الاتصال عبر WebDAV من دون Wi-Fi؟" closed="true" %}}
+{{% ls-details title="هل يمكنني الاتصال عبر WebDAV من دون Wi-Fi؟" closed="true" %}}
 نعم، إن وصّلت جهاز iPhone بجهاز Mac بكابل. عندها يعرض Everdisk عنوان اتصال كابل إضافي يمكن لجهاز Mac المتصل فتحه في Finder، وهو يعمل حتى من دون أي Wi-Fi إطلاقاً. وعلى الكابل، لا يمكن الوصول إلى الجهاز إلا من ذلك الجهاز Mac.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="هل Everdisk مجاني؟" closed="true" %}}
+{{% ls-details title="هل Everdisk مجاني؟" closed="true" %}}
 نعم، Everdisk متاح للتنزيل مجاناً وخادم WebDAV مضمّن. وتضيف عملية شراء Premium اختيارية لمرة واحدة مزايا إضافية مثل المنافذ المخصصة وتحويل الصور والفيديو. يمكنك إعداد WebDAV ومشاركة الملفات من دون أن تدفع.
-{{% /details %}}
+{{% /ls-details %}}
 
 جاهز للتجربة؟ [حمّل Everdisk من App Store](https://apps.apple.com/app/apple-store/id6751851132?pt=95781850&ct=everappzcom&mt=8) وركّب جهاز iPhone كقرص في دقيقتين. أسئلة أو ملاحظات؟ راسلنا على **support@everappz.com**.

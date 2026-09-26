@@ -7,7 +7,7 @@ tags: ["mp3", "editor", "iPhone", "etiquetas", "metadatos", "id3"]
 readingTime: 2
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **Resumen:** Usa el editor de etiquetas integrado en Evermusic o Flacbox para editar etiquetas ID3 en iPhone o Mac -- tanto para archivos en la nube como locales. ¿Necesitas edición por lotes o más de 120 campos de etiquetas? Usa [Evertag](https://apps.apple.com/app/apple-store/id1450763230?pt=95781850&ct=everappzcom&mt=8) en su lugar.
@@ -21,8 +21,8 @@ Cuando importas canciones a tu biblioteca musical, se agrupan inteligentemente p
 Mientras que muchas apps de escritorio ofrecen edición de metadatos, Evermusic y Flacbox llevan la simplicidad al siguiente nivel al incluir un editor de etiquetas ID3. Ahora, puedes usar una sola app para construir tu biblioteca musical, disfrutar tus pistas y corregir etiquetas de audio.
 
 {{< cards cols="2">}}
-{{< card link="https://apps.apple.com/app/apple-store/id885367198?pt=95781850&ct=everappzcom&mt=8" title="Descargar Evermusic" icon="download" tag="Free" >}}
-{{< card link="https://apps.apple.com/app/apple-store/id1097564256?pt=95781850&ct=everappzcom&mt=8" title="Descargar Flacbox" icon="download" tag="Free" >}}
+{{< ls-card link="https://apps.apple.com/app/apple-store/id885367198?pt=95781850&ct=everappzcom&mt=8" title="Descargar Evermusic" icon="download" tag="Free" >}}
+{{< ls-card link="https://apps.apple.com/app/apple-store/id1097564256?pt=95781850&ct=everappzcom&mt=8" title="Descargar Flacbox" icon="download" tag="Free" >}}
 {{< /cards >}}
 
 ## Editor profesional
@@ -30,7 +30,7 @@ Mientras que muchas apps de escritorio ofrecen edición de metadatos, Evermusic 
 Pero antes de comenzar, echa un vistazo a la app **Evertag** — soporta **más de 120 etiquetas de audio**, **más de 30 formatos de audio** y ofrece una potente **edición por lotes**. Si buscas una herramienta completa de gestión de etiquetas, Evertag es la mejor opción. Sin embargo, si solo necesitas un **editor de etiquetas simple**, continúa con esta guía.
 
 {{< cards >}}
-{{< card link="https://apps.apple.com/app/apple-store/id1450763230?pt=95781850&ct=everappzcom&mt=8" title="Descargar Evertag" icon="download" tag="Free" >}}
+{{< ls-card link="https://apps.apple.com/app/apple-store/id1450763230?pt=95781850&ct=everappzcom&mt=8" title="Descargar Evertag" icon="download" tag="Free" >}}
 {{< /cards >}}
 
 
@@ -38,21 +38,21 @@ Pero antes de comenzar, echa un vistazo a la app **Evertag** — soporta **más 
 Vincula tu cuenta en la nube preferida dentro de la app.
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Conectar servidor en la nube" image="/docs/howto/how-to-edit-id3-tags-on-iphone/connect_cloud_server.webp" >}}
+{{< ls-card title="" subtitle="Conectar servidor en la nube" image="/docs/howto/how-to-edit-id3-tags-on-iphone/connect_cloud_server.webp" >}}
 {{< /cards >}}
 
 ## Navega a tus archivos de audio  
 Abre la carpeta que contiene tus archivos de audio en la cuenta en la nube conectada.
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Carpetas en la nube" image="/docs/howto/how-to-edit-id3-tags-on-iphone/cloud_server_folders.webp" >}}
+{{< ls-card title="" subtitle="Carpetas en la nube" image="/docs/howto/how-to-edit-id3-tags-on-iphone/cloud_server_folders.webp" >}}
 {{< /cards >}}
 
 ## Accede a las opciones del archivo  
 Toca el botón 'Más' ('...') junto al archivo que quieres editar.
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Más acciones" image="/docs/howto/how-to-edit-id3-tags-on-iphone/cloud_server_audio_more_actions.webp" >}}
+{{< ls-card title="" subtitle="Más acciones" image="/docs/howto/how-to-edit-id3-tags-on-iphone/cloud_server_audio_more_actions.webp" >}}
 {{< /cards >}}
 
 ## Elige 'Editar etiquetas de audio'  
@@ -70,7 +70,7 @@ En la pantalla 'Editor de etiquetas', modifica los campos de metadatos como Tít
 Una vez que hayas terminado de editar, toca el botón 'Guardar' para guardar tus cambios.
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Editor de etiquetas" image="/docs/howto/how-to-edit-id3-tags-on-iphone/tags_editor.webp" >}}
+{{< ls-card title="" subtitle="Editor de etiquetas" image="/docs/howto/how-to-edit-id3-tags-on-iphone/tags_editor.webp" >}}
 {{< /cards >}}
 
 ## Autocompletado inteligente  
@@ -88,7 +88,7 @@ Puedes editar etiquetas de audio para archivos almacenados **directamente en tu 
 - **Ve a la sección "Archivos locales"**, luego desplázate hacia abajo hasta **"Archivos en este dispositivo."**
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Archivos en este dispositivo" image="/docs/howto/how-to-edit-id3-tags-on-iphone/local_files.webp" >}}
+{{< ls-card title="" subtitle="Archivos en este dispositivo" image="/docs/howto/how-to-edit-id3-tags-on-iphone/local_files.webp" >}}
 {{< /cards >}}
 
 - Toca **"Conectar una carpeta"**.
@@ -96,25 +96,25 @@ Puedes editar etiquetas de audio para archivos almacenados **directamente en tu 
 - En el selector de carpetas, elige el directorio al que quieres acceder y toca **"Abrir"** para confirmar.
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Conectar carpeta externa" image="/docs/howto/how-to-edit-id3-tags-on-iphone/connect_external_folder.webp" >}}
+{{< ls-card title="" subtitle="Conectar carpeta externa" image="/docs/howto/how-to-edit-id3-tags-on-iphone/connect_external_folder.webp" >}}
 {{< /cards >}}
 
 - Después de agregar la carpeta, tócala para ver los archivos dentro.
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Contenido de carpeta externa" image="/docs/howto/how-to-edit-id3-tags-on-iphone/connected_external_folder.webp" >}}
+{{< ls-card title="" subtitle="Contenido de carpeta externa" image="/docs/howto/how-to-edit-id3-tags-on-iphone/connected_external_folder.webp" >}}
 {{< /cards >}}
 
 - Al igual que con los archivos en la nube, toca el botón **"Más acciones"** junto a un archivo de audio y selecciona **"Editar etiquetas de audio".**
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Más acciones - Archivo local" image="/docs/howto/how-to-edit-id3-tags-on-iphone/more_actions_local_file.webp" >}}
+{{< ls-card title="" subtitle="Más acciones - Archivo local" image="/docs/howto/how-to-edit-id3-tags-on-iphone/more_actions_local_file.webp" >}}
 {{< /cards >}}
 
 - Se abrirá el editor de etiquetas. Haz tus cambios y toca **"Guardar"**. ¡Eso es todo! Tus ediciones se aplican directamente al archivo — no necesitas copiarlo ni moverlo.
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Editor de etiquetas - Archivo local" image="/docs/howto/how-to-edit-id3-tags-on-iphone/tag_editor_local_file.webp" >}}
+{{< ls-card title="" subtitle="Editor de etiquetas - Archivo local" image="/docs/howto/how-to-edit-id3-tags-on-iphone/tag_editor_local_file.webp" >}}
 {{< /cards >}}
 
 ## Editar portada del álbum
@@ -126,7 +126,7 @@ Para cambiar la portada de un álbum:
 3. Selecciona una imagen para aplicar como portada.
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Seleccionar imagen" image="/docs/howto/how-to-edit-id3-tags-on-iphone/tags_editor_choose_image.webp" >}}
+{{< ls-card title="" subtitle="Seleccionar imagen" image="/docs/howto/how-to-edit-id3-tags-on-iphone/tags_editor_choose_image.webp" >}}
 {{< /cards >}}
 
 ## Más acciones en el editor de etiquetas
@@ -134,7 +134,7 @@ Para cambiar la portada de un álbum:
 Opciones de edición adicionales están disponibles a través de la barra de herramientas debajo de la vista de artwork.
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Menú de más acciones" image="/docs/howto/how-to-edit-id3-tags-on-iphone/tags_edito_more_actions.webp" >}}
+{{< ls-card title="" subtitle="Menú de más acciones" image="/docs/howto/how-to-edit-id3-tags-on-iphone/tags_edito_more_actions.webp" >}}
 {{< /cards >}}
 
 ### Búsqueda automática de etiquetas de audio
@@ -195,22 +195,22 @@ Simplifica la gestión de tu biblioteca musical y la edición de etiquetas con E
 
 ## Preguntas frecuentes
 
-{{% details title="¿Qué formatos de audio puedo editar?" closed="true" %}}
+{{% ls-details title="¿Qué formatos de audio puedo editar?" closed="true" %}}
 Evermusic y Flacbox soportan la edición de etiquetas para MP3, FLAC, AAC, OGG y otros formatos de audio comunes. Evertag soporta más de 30 formatos incluyendo WAV, AIFF, WMA y APE.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="¿Puedo editar etiquetas de archivos almacenados en servicios en la nube?" closed="true" %}}
+{{% ls-details title="¿Puedo editar etiquetas de archivos almacenados en servicios en la nube?" closed="true" %}}
 Sí. Conecta tu cuenta de Dropbox, Google Drive, OneDrive u otra nube. La app descarga el archivo, te permite editar las etiquetas y sube automáticamente el archivo modificado de vuelta a la nube.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="¿Cuál es la diferencia entre Evermusic/Flacbox y Evertag?" closed="true" %}}
+{{% ls-details title="¿Cuál es la diferencia entre Evermusic/Flacbox y Evertag?" closed="true" %}}
 Evermusic y Flacbox son reproductores de música con un editor de etiquetas básico integrado. Evertag es un editor de etiquetas dedicado que soporta más de 120 etiquetas de audio, edición por lotes y más de 30 formatos -- ideal para gestionar grandes bibliotecas.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="¿La función de búsqueda automática requiere conexión a internet?" closed="true" %}}
+{{% ls-details title="¿La función de búsqueda automática requiere conexión a internet?" closed="true" %}}
 Sí. La función de búsqueda automática de etiquetas de audio consulta la base de datos en línea de MusicBrainz para encontrar y completar metadatos. Se requiere una conexión a internet activa para esta función.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="¿Editar etiquetas cambiará la calidad de mi audio?" closed="true" %}}
+{{% ls-details title="¿Editar etiquetas cambiará la calidad de mi audio?" closed="true" %}}
 No. La edición de etiquetas solo modifica los metadatos incrustados en el archivo. Los datos de audio en sí permanecen intactos -- no ocurre recodificación.
-{{% /details %}}
+{{% /ls-details %}}

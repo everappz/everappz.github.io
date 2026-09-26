@@ -1,10 +1,11 @@
 ---
+excludeSearch: true
 date: '2025-06-12T17:00:00+00:00'
 title: 'Về chúng tôi'
 description: 'Everappz S.L. là công ty phần mềm Tây Ban Nha phát triển ứng dụng iOS và macOS cho âm thanh và video. Nhà sáng tạo Evermusic (11 triệu lượt tải), Flacbox, EverTag, EverVideo — hơn 14 triệu lượt tải trên toàn thế giới.'
 ---
 
-{{< lottie src="/images/juicy-json/juicy-girl-and-guy-preparing-start-up-rocket-to-launch-with-ideas.json" width="65%" >}}
+{{< ls-lottie src="/images/juicy-json/juicy-girl-and-guy-preparing-start-up-rocket-to-launch-with-ideas.json" width="65%" >}}
 
 ## Chúng tôi là ai
 
@@ -35,7 +36,7 @@ Chúng tôi tiếp tục xây dựng phần mềm tốt hơn — từng bản c�
 ### Artem Meleshko
 
 {{< cards cols="1" >}}
-  {{< card
+  {{< ls-card
     link="https://www.linkedin.com/in/artem-meleshko-s/"
     title="Artem Meleshko"
     tag="Nhà sáng lập & Kỹ sư"
@@ -60,7 +61,7 @@ Anh học tại Đại học Đóng tàu Quốc gia Admiral Makarov, là cộng 
 ### Anna Kosenko
 
 {{< cards cols="1" >}}
-  {{< card
+  {{< ls-card
     link="https://www.linkedin.com/in/anna-kosenko-kosenko/"
     title="Anna Kosenko"
     tag="Giám đốc"
@@ -86,4 +87,4 @@ Cảm ơn bạn đã sử dụng ứng dụng của chúng tôi và ủng hộ v
 
 Đăng ký theo dõi chúng tôi trên các mạng xã hội để nhận tin tức mới nhất, cập nhật ứng dụng, mẹo và thông tin hữu ích:
 
-{{< social-cards >}}
+{{< ls-social-cards >}}

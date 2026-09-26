@@ -23,7 +23,7 @@ authors:
     image: "/images/about/artem-meleshko-founder-everappz.webp"
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 ## احصل على بيانات App Store في ثوانٍ
 
@@ -134,53 +134,53 @@ authors:
 AppLookup.pro مفتوح المصدر. تقارير الأخطاء وإضافات الدول وطلبات السحب مرحب بها.
 
 {{< cards cols="1" >}}
-  {{< card link="https://github.com/everappz/AppStoreLookup" title="AppLookup.pro على GitHub" icon="github" tag="مفتوح المصدر" >}}
+  {{< ls-card link="https://github.com/everappz/AppStoreLookup" title="AppLookup.pro على GitHub" icon="github" tag="مفتوح المصدر" >}}
 {{< /cards >}}
 
 ---
 
 ## الأسئلة المتكررة
 
-{{% details title="هل AppLookup.pro مجاني فعلاً؟" closed="true" %}}
+{{% ls-details title="هل AppLookup.pro مجاني فعلاً؟" closed="true" %}}
 نعم. AppLookup.pro مجاني ومفتوح المصدر بنسبة 100 بالمئة. يعمل في متصفحك. لا يوجد تسجيل ولا فئة مدفوعة ولا حد للاستخدام يتجاوز حدود iTunes Search API الخاصة بـ Apple.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="من أين تأتي البيانات؟" closed="true" %}}
+{{% ls-details title="من أين تأتي البيانات؟" closed="true" %}}
 يتم جلب كل نتيجة في الوقت الفعلي من واجهة [iTunes Search API](https://developer.apple.com/library/archive/documentation/AudioVideo/Conceptual/iTuneSearchAPI/index.html) الرسمية من Apple. لا تقوم الأداة بـ scraping لصفحات App Store ولا تخزن الردود مؤقتاً على أي خادم.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="هل يمكنني تنزيل أيقونة التطبيق بدقة عالية؟" closed="true" %}}
+{{% ls-details title="هل يمكنني تنزيل أيقونة التطبيق بدقة عالية؟" closed="true" %}}
 نعم. يعرض قسم **App Icon** كل رابط أيقونة تعيده Apple. كل بطاقة بها Direct Link وزر Download، وزر Download All Icons ZIP يحزمها في أرشيف واحد.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="هل يمكنني تنزيل جميع لقطات شاشة App Store دفعة واحدة؟" closed="true" %}}
+{{% ls-details title="هل يمكنني تنزيل جميع لقطات شاشة App Store دفعة واحدة؟" closed="true" %}}
 نعم. كل قسم لقطات شاشة (iPhone وiPad وmacOS وApple TV) به زر **Download All (ZIP)** يحزم كل لقطة شاشة بالدقة الكاملة.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="كيف أرى كيف يبدو التطبيق في دولة أخرى؟" closed="true" %}}
+{{% ls-details title="كيف أرى كيف يبدو التطبيق في دولة أخرى؟" closed="true" %}}
 اختر دولة في القائمة المنسدلة في أعلى الصفحة. أكثر من 40 متجر مدعوم. انقر على **Lookup** مرة أخرى وستعيد الأداة جلب التطبيق لتلك الدولة، وتعرض العنوان والوصف ولقطات الشاشة وما الجديد والسعر المحلي.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="هل يمكنني نسخ حقول مفردة مثل bundle ID أو تاريخ الإصدار؟" closed="true" %}}
+{{% ls-details title="هل يمكنني نسخ حقول مفردة مثل bundle ID أو تاريخ الإصدار؟" closed="true" %}}
 نعم. كل حقل نصي في النتيجة له زر Copy خاص به: اسم التطبيق، المطور، الوصف، ما الجديد، bundle ID، الإصدار، السعر، حجم الملف، الحد الأدنى لنظام التشغيل، تاريخ الإصدار، تصنيف المحتوى، اللغات، الأجهزة المدعومة وJSON الخام.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="هل يعمل AppLookup.pro مع أي تطبيق iOS؟" closed="true" %}}
+{{% ls-details title="هل يعمل AppLookup.pro مع أي تطبيق iOS؟" closed="true" %}}
 يعمل مع أي تطبيق مدرج علنياً في دولة App Store واحدة على الأقل ويعيده iTunes Search API. التطبيقات غير المدرجة أو المحذوفة أو الموزعة كمؤسسات لن تظهر.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="هل يدعم تطبيقات macOS وApple TV؟" closed="true" %}}
+{{% ls-details title="هل يدعم تطبيقات macOS وApple TV؟" closed="true" %}}
 نعم. إذا كان للتطبيق لقطات شاشة لـ macOS أو Apple TV في استجابة iTunes Search API، يعرضها AppLookup.pro في لوحة قابلة للتمرير خاصة بها مع أزرار التنزيل.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="هل يمكنني استخدام JSON الخام في الكود الخاص بي؟" closed="true" %}}
+{{% ls-details title="هل يمكنني استخدام JSON الخام في الكود الخاص بي؟" closed="true" %}}
 نعم. يعرض قسم Raw API Response JSON الدقيق الذي تعيده Apple. انسخه إلى Postman أو اختبار وحدة أو خط أنابيب backend. يرجى احترام شروط API الخاصة بـ Apple وحدود المعدل المعقولة.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="هل من الآمن لصق روابط App Store في الأداة؟" closed="true" %}}
+{{% ls-details title="هل من الآمن لصق روابط App Store في الأداة؟" closed="true" %}}
 نعم. يتم تحليل الرابط في متصفحك. الاتصال الشبكي الصادر الوحيد هو البحث في iTunes Search API من Apple.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="ما الفرق بين AppLookup.pro وAppKeywords.pro؟" closed="true" %}}
+{{% ls-details title="ما الفرق بين AppLookup.pro وAppKeywords.pro؟" closed="true" %}}
 [AppLookup.pro](https://applookup.pro) مخصص لقراءة بيانات App Store من أي تطبيق منشور: بحث المنافسين، تنزيل الأصول، فحوصات التوطين. [AppKeywords.pro](https://appkeywords.pro) مخصص لكتابة بيانات App Store لتطبيقك الخاص: تحسين العنوان والعنوان الفرعي والكلمات المفتاحية بدعم Fastlane. تعمل الأداتان معاً بشكل جيد.
-{{% /details %}}
+{{% /ls-details %}}

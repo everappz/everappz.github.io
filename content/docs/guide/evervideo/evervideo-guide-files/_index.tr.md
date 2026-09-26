@@ -33,7 +33,7 @@ Dosyalar sekmesi, ekranınızda bu sırayla görünen net bölümlere ayrılmı�
 Dosyalar ekranının sağ üst köşesinde bir Aktarımlar düğmesi (dönen oklar simgesi) bulunur. Tüm kaynaklarınızdaki her indirmeyi ve yüklemeyi izlediğiniz Aktarım Kuyruğunu açmak için dokunun.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Bağlı depolardaki Evervideo dosyaları" image="/docs/guide/evervideo/img/evervideo-files-connected-storages.webp" >}}
+  {{< ls-card title="" subtitle="Bağlı depolardaki Evervideo dosyaları" image="/docs/guide/evervideo/img/evervideo-files-connected-storages.webp" >}}
 {{< /cards >}}
 
 ## Bulut Depolamaya Bağlan
@@ -41,7 +41,7 @@ Dosyalar ekranının sağ üst köşesinde bir Aktarımlar düğmesi (dönen okl
 Dosyalar sekmesinin Bulut Depolama bölümü, bağlı her hesabın, NAS'ın, medya sunucusunun ve akışın bulunduğu yerdir — yan yana, tek bir kaydırılabilir listede.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Dosyalar Sekmesindeki Evervideo Bulut Depolama Bölümü" image="/docs/guide/evervideo/img/evervideo-connections.webp" >}}
+  {{< ls-card title="" subtitle="Dosyalar Sekmesindeki Evervideo Bulut Depolama Bölümü" image="/docs/guide/evervideo/img/evervideo-connections.webp" >}}
 {{< /cards >}}
 
 - **Dosyalar** sekmesini açın.
@@ -51,7 +51,7 @@ Dosyalar sekmesinin Bulut Depolama bölümü, bağlı her hesabın, NAS'ın, med
 - Bulut sağlayıcısı tarafından sağlanan resmi yetkilendirme sayfasında kimlik bilgilerinizi girin, ardından **Tamamlandı** seçeneğine dokunun.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evervideo Bulut Depolama Hizmeti Bağlama" image="/docs/guide/evervideo/img/evervideo-connect-cloud-storage.webp" >}}
+  {{< ls-card title="" subtitle="Evervideo Bulut Depolama Hizmeti Bağlama" image="/docs/guide/evervideo/img/evervideo-connect-cloud-storage.webp" >}}
 {{< /cards >}}
 
 Sorunlarla karşılaşırsanız internet bağlantınızı ve giriş / şifrenizi kontrol edin. Uygulamanın Premium sürümünde sınırsız sayıda hizmet ekleyebilirsiniz; ücretsiz sürüm en fazla üçü destekler.
@@ -161,7 +161,7 @@ Bu bölüm, yerel ağınızda Bonjour / mDNS keşfi aracılığıyla Evervideo'd
 - Gerekirse bağlantıyı tamamlamak için giriş bilgilerinizi girin.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evervideo yerel ağdaki mevcut cihazlar" image="/docs/guide/evervideo/img/evervideo-available-devices.webp" >}}
+  {{< ls-card title="" subtitle="Evervideo yerel ağdaki mevcut cihazlar" image="/docs/guide/evervideo/img/evervideo-available-devices.webp" >}}
 {{< /cards >}}
 
 ## Wi-Fi Drive
@@ -169,7 +169,7 @@ Bu bölüm, yerel ağınızda Bonjour / mDNS keşfi aracılığıyla Evervideo'd
 Wi-Fi Drive, herhangi bir masaüstü tarayıcı, Finder veya File Explorer aracılığıyla bilgisayarınızdan iOS cihazınıza kablosuz olarak dosya aktarmanızı sağlar. Cihazınızın ve bilgisayarınızın aynı Wi-Fi ağında olması gerekir.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evervideo Wi-Fi Drive" image="/docs/guide/evervideo/img/evervideo-wifi-drive.webp" >}}
+  {{< ls-card title="" subtitle="Evervideo Wi-Fi Drive" image="/docs/guide/evervideo/img/evervideo-wifi-drive.webp" >}}
 {{< /cards >}}
 
 ### Wi-Fi Drive'ı Etkinleştirin
@@ -201,7 +201,7 @@ Lightning-to-USB / USB-C adaptörü veya kart okuyucu aracılığıyla iPhone, i
 Dosya gezginini açmak için herhangi bir bağlı bulut hizmetine dokunun. Klasörler mevcut olduğunda video küçük resimleri gösterir ve bir videoya dokunmak, dosyanın geri kalanı arka planda akışa devam ederken oynatmayı hemen başlatır.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evervideo bağlı depolarda klasörlere göz atma" image="/docs/guide/evervideo/img/evervideo-all-connected-device-folders.webp" >}}
+  {{< ls-card title="" subtitle="Evervideo bağlı depolarda klasörlere göz atma" image="/docs/guide/evervideo/img/evervideo-all-connected-device-folders.webp" >}}
 {{< /cards >}}
 
 ## Hızlı Erişim
@@ -209,7 +209,7 @@ Dosya gezginini açmak için herhangi bir bağlı bulut hizmetine dokunun. Klas�
 Hızlı Erişim bölümü, Dosyalar sekmesinin en üstünde bulunur. Hem bulut hizmetlerinden hem de cihazdaki depolamadan favori ve son açılan dosya ve klasörlerinize hızlı erişim sağlar. Buluttan bir dosya veya klasör her açtığınızda, Son Açılanlara listenize eklenir. Dizin yapısını gezmeden hızlıca erişmek için derine gömülü klasörleri Favoriler olarak işaretleyebilirsiniz.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evervideo çevrimiçi bağlantılar ve hızlı erişim" image="/docs/guide/evervideo/img/evervideo-connections-online-links.webp" >}}
+  {{< ls-card title="" subtitle="Evervideo çevrimiçi bağlantılar ve hızlı erişim" image="/docs/guide/evervideo/img/evervideo-connections-online-links.webp" >}}
 {{< /cards >}}
 
 ## Bu Uygulamadaki Dosyalar
@@ -217,7 +217,7 @@ Hızlı Erişim bölümü, Dosyalar sekmesinin en üstünde bulunur. Hem bulut h
 Bu bölüm, Evervideo'nun korumalı Documents dizininde depolanan dosya ve klasörleri gösterir — buluttan indirdiğiniz, Wi-Fi Drive aracılığıyla aktardığınız, Finder Dosya Paylaşımı ile kopyaladığınız veya başka bir uygulamadan içe aktardığınız her şey.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evervideo bu uygulamadaki dosyalar" image="/docs/guide/evervideo/img/evervideo-files-in-this-application.webp" >}}
+  {{< ls-card title="" subtitle="Evervideo bu uygulamadaki dosyalar" image="/docs/guide/evervideo/img/evervideo-files-in-this-application.webp" >}}
 {{< /cards >}}
 
 ### Documents Klasörü
@@ -225,7 +225,7 @@ Bu bölüm, Evervideo'nun korumalı Documents dizininde depolanan dosya ve klas�
 Documents klasörü, Bu Uygulamadaki Dosyalar içindeki her şeyin köküdür. Alt klasörler oluşturabilir, dosyaları yeniden adlandırabilir, taşıyabilir ve istediğiniz gibi gruplandırabilirsiniz.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evervideo yerel dosyalar — Documents klasörü" image="/docs/guide/evervideo/img/evervideo-local-files-documents.webp" >}}
+  {{< ls-card title="" subtitle="Evervideo yerel dosyalar — Documents klasörü" image="/docs/guide/evervideo/img/evervideo-local-files-documents.webp" >}}
 {{< /cards >}}
 
 ## Bu iPhone / iPad / Mac'teki Dosyalar
@@ -238,7 +238,7 @@ Bu bölüm, farklı uygulamalarda cihazınızda bulunan videoları gösterir. Bu
 Hiçbir şeyi kopyalamadan iCloud Drive veya bağlı USB sürücüsündeki bir klasörle çalışmak için — okuma / yazma erişimiyle cihazınızdaki bir klasöre bağlantı oluşturmak için Klasör Bağla seçeneğini de kullanabilirsiniz.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evervideo bu cihazdaki dosyalar" image="/docs/guide/evervideo/img/evervideo-files-on-this-device.webp" >}}
+  {{< ls-card title="" subtitle="Evervideo bu cihazdaki dosyalar" image="/docs/guide/evervideo/img/evervideo-files-on-this-device.webp" >}}
 {{< /cards >}}
 
 ## Özel Klasörler
@@ -276,7 +276,7 @@ Bir klasör açtığınızda, bu eylemler için sağ üst köşedeki **"..." dü
 Sağ üst köşedeki **"..."** seçeneğine dokunun ve seçim moduna girmek için **Seçmek** seçeneğini seçin. Her dosya ve klasörün yanında onay kutuları görünür. Bir veya birkaç öğe seçmek için dokunun, ardından toplu eylemler gerçekleştirin: Sonra Oynat, Daha Sonra Oynat, Medya Kütüphanesine Ekle, Oynatma Listesine Ekle, Kopyala, Yükle, Taşı, Yeniden Adlandır veya Sil.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evervideo dosya yöneticisinde seçim modu" image="/docs/guide/evervideo/img/evervideo-selection-mode-in-files.webp" >}}
+  {{< ls-card title="" subtitle="Evervideo dosya yöneticisinde seçim modu" image="/docs/guide/evervideo/img/evervideo-selection-mode-in-files.webp" >}}
 {{< /cards >}}
 
 Bağlı bulut depolamayı salt okunur olarak değerlendirmeyi tercih ederseniz (kazara silmeleri önlemek için), tüm yıkıcı işlemleri UI'dan gizlemek için Ayarlar → Dosya Yöneticisi → Çevrimiçi Dosyaları Düzenle → Kapalı seçeneğini etkinleştirin.
@@ -318,13 +318,13 @@ Bulut depolamanızdaki her klasör için, klasör başlığının yanındaki **"
 Dosyalar sekmesinin sağ üst köşesinde bir **Aktarımlar** düğmesi (dönen oklar simgesi) bulunur. Tüm kaynaklarınızdaki her aktif indirme ve yüklemenin gerçek zamanlı ilerleme, hız ve dosya başına ETA ile bulunduğu Aktarım Kuyruğunu açmak için dokunun.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evervideo dosya aktarım kuyruğu" image="/docs/guide/evervideo/img/evervideo-file-transfers.webp" >}}
+  {{< ls-card title="" subtitle="Evervideo dosya aktarım kuyruğu" image="/docs/guide/evervideo/img/evervideo-file-transfers.webp" >}}
 {{< /cards >}}
 
 Başarısız aktarımları duraklatabilir, devam ettirebilir, yeniden deneyebilir, belirli indirmelere öncelik vermek için öğeleri yeniden düzenleyebilir veya tek tek iptal edebilirsiniz. Ayrıca Ayarlar → Dosya Yöneticisi'nden aktarım kuyruğu hızını (maksimum paralel görevler), ağ türünü (yalnızca Wi-Fi veya Wi-Fi + Hücresel) ve arka plan aktarımlarını ayarlayabilirsiniz.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evervideo dosya aktarım kuyruğundaki eylemler" image="/docs/guide/evervideo/img/evervideo-file-transfers-actions.webp" >}}
+  {{< ls-card title="" subtitle="Evervideo dosya aktarım kuyruğundaki eylemler" image="/docs/guide/evervideo/img/evervideo-file-transfers-actions.webp" >}}
 {{< /cards >}}
 
 ## Çevrimdışı Mod ve Senkronize Çevrimdışı Klasörler

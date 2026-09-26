@@ -12,7 +12,7 @@ authors:
     image: "/images/about/artem-meleshko-founder-everappz.webp"
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 ## Evermusic 3.1 : ce qui a changé et pourquoi c'est important
 
@@ -89,22 +89,22 @@ L'**éditeur de tags audio** gère désormais la correction des métadonnées de
 
 ## Questions fréquemment posées
 
-{{% details title="Qu'est-ce que le fondu enchaîné dans Evermusic ?" closed="true" %}}
+{{% ls-details title="Qu'est-ce que le fondu enchaîné dans Evermusic ?" closed="true" %}}
 Le fondu enchaîné mélange la fin d'une piste avec le début de la suivante, créant des transitions fluides. Vous pouvez régler la durée entre 3 et 15 secondes dans Settings → Audio Player → Crossfade Playback.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Puis-je sauvegarder mes playlists Evermusic vers le stockage cloud ?" closed="true" %}}
+{{% ls-details title="Puis-je sauvegarder mes playlists Evermusic vers le stockage cloud ?" closed="true" %}}
 Oui. Evermusic 3.1 vous permet de sauvegarder toute votre bibliothèque — y compris les playlists, les métadonnées, les pochettes et les paramètres — vers n'importe quel service cloud connecté sous forme d'un seul fichier.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Evermusic prend-il en charge la navigation dans la bibliothèque iPod ?" closed="true" %}}
+{{% ls-details title="Evermusic prend-il en charge la navigation dans la bibliothèque iPod ?" closed="true" %}}
 Oui. Vous pouvez parcourir votre bibliothèque iPod par playlists, albums, artistes et genres directement depuis l'écran d'accueil d'Evermusic et ajouter des pistes à votre file d'attente.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Comment corriger les tags de morceaux incorrects dans Evermusic ?" closed="true" %}}
+{{% ls-details title="Comment corriger les tags de morceaux incorrects dans Evermusic ?" closed="true" %}}
 Utilisez l'éditeur de tags intégré et appuyez sur l'action Identifier. Evermusic analyse vos noms de fichiers et met à jour automatiquement les tags ID3 avec les métadonnées corrigées.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Quels services cloud Evermusic prend-il en charge ?" closed="true" %}}
+{{% ls-details title="Quels services cloud Evermusic prend-il en charge ?" closed="true" %}}
 Evermusic fonctionne avec Dropbox, Google Drive, OneDrive, MEGA, Box, Yandex.Disk, WebDAV, SMB/CIFS et les serveurs FTP.
-{{% /details %}}
+{{% /ls-details %}}

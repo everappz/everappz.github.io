@@ -7,7 +7,7 @@ tags: ["evermusic", "음악", "클라우드", "iphone", "스토리지", "nas", "
 readingTime: 4
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **요약:** Evermusic를 사용하여 WD My Cloud Home NAS에서 iPhone으로 직접 음악을 스트리밍하거나 다운로드하세요. 최대 8TB의 음악에 접근하고, 오프라인으로 재생하며, 내장 이퀄라이저를 사용하세요 -- 월간 구독료 없이 모든 것을 이용할 수 있습니다.
@@ -87,26 +87,26 @@ iPhone에서 최대 8TB의 전체 음악 라이브러리를 가지는 것을 꿈
 
 ## FAQ
 
-{{% details title="Evermusic는 WD My Cloud Home에서 무료로 사용할 수 있나요?" closed="true" %}}
+{{% ls-details title="Evermusic는 WD My Cloud Home에서 무료로 사용할 수 있나요?" closed="true" %}}
 Evermusic는 이퀄라이저, 클라우드 스트리밍, 오프라인 재생을 포함한 핵심 기능과 함께 무료로 다운로드할 수 있습니다. 무료 버전은 최대 3개의 클라우드 연결을 지원합니다. 프리미엄으로 업그레이드하면 클라우드 계정, 재생 목록 및 오프라인 폴더의 제한이 해제됩니다.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="NAS에서 오프라인으로 음악을 들을 수 있나요?" closed="true" %}}
+{{% ls-details title="NAS에서 오프라인으로 음악을 들을 수 있나요?" closed="true" %}}
 네. Evermusic를 사용하면 WD My Cloud Home에서 iPhone으로 트랙을 다운로드하여 오프라인으로 재생할 수 있습니다. 여행 중이거나 인터넷 접근이 제한될 때 유용합니다.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Evermusic는 WD My Cloud에서 무손실 오디오 형식을 지원하나요?" closed="true" %}}
+{{% ls-details title="Evermusic는 WD My Cloud에서 무손실 오디오 형식을 지원하나요?" closed="true" %}}
 네. Evermusic는 FLAC, ALAC, WAV, AIFF 및 기타 무손실 형식을 지원합니다. 형식 변환 없이 NAS에서 고품질 오디오 파일을 스트리밍하거나 다운로드할 수 있습니다.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="WD MyCloud EX2 Ultra를 Evermusic와 함께 사용할 수 있나요?" closed="true" %}}
+{{% ls-details title="WD MyCloud EX2 Ultra를 Evermusic와 함께 사용할 수 있나요?" closed="true" %}}
 네, 해결 방법이 있습니다. My Cloud Home 옵션을 통해 연결하고, Evermusic의 파일 관리자를 사용하여 폴더를 만든 다음, 음악 파일을 업로드하세요. 샌드박스 모드로 인해 앱이 만든 폴더의 파일만 접근할 수 있습니다.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="WD My Cloud Home에 얼마나 많은 음악을 저장할 수 있나요?" closed="true" %}}
+{{% ls-details title="WD My Cloud Home에 얼마나 많은 음악을 저장할 수 있나요?" closed="true" %}}
 WD My Cloud Home은 최대 8TB의 저장 공간을 지원합니다. 일반적인 비트레이트에서 대규모 무손실 음악 라이브러리를 포함하여 수십만 곡을 저장할 수 있습니다.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Evermusic와 WD My Cloud Home 간의 연결은 안전한가요?" closed="true" %}}
+{{% ls-details title="Evermusic와 WD My Cloud Home 간의 연결은 안전한가요?" closed="true" %}}
 네. Evermusic는 NAS에 접근하기 위해 보안 연결과 Western Digital의 공식 API를 사용합니다. 전송 중에 데이터와 로그인 자격 증명이 보호됩니다.
-{{% /details %}}
+{{% /ls-details %}}

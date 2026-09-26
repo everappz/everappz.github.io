@@ -12,7 +12,7 @@ authors:
     image: "/images/about/artem-meleshko-founder-everappz.webp"
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 **Ringkasan:** Pasang [Flacbox dari App Store](https://apps.apple.com/us/app/flacbox-flac-player-music/id1097564256?mt=8) untuk memainkan FLAC, DSD, ALAC dan 120+ format audio lain di iPhone dan Mac. Import fail melalui iTunes File Sharing, Wi-Fi Drive atau storan awan. Tiada penukaran fail diperlukan. Flacbox menyahkod format lossless secara natif untuk main balik kualiti studio penuh.
 
@@ -114,26 +114,26 @@ Muat turun Flacbox dari Mac App Store. Versi macOS menawarkan kualiti main balik
 
 ## Soalan Lazim
 
-{{< details title="Adakah Flacbox memerlukan langganan untuk memainkan fail lossless?" closed="true" >}}
+{{< ls-details title="Adakah Flacbox memerlukan langganan untuk memainkan fail lossless?" closed="true" >}}
 Flacbox menawarkan fungsi main balik teras tanpa langganan. Anda boleh mengimport dan memainkan FLAC, DSD, ALAC dan format lossless lain sejurus selepas memuat turun aplikasi. Beberapa ciri lanjutan seperti penstriman awan dan pilihan penyesuaian tambahan mungkin memerlukan naik taraf premium, tetapi main balik lossless asas tersedia dengan segera.
-{{< /details >}}
+{{< /ls-details >}}
 
-{{< details title="Bolehkah Flacbox memainkan fail DSD tanpa menukarnya ke PCM terlebih dahulu?" closed="true" >}}
+{{< ls-details title="Bolehkah Flacbox memainkan fail DSD tanpa menukarnya ke PCM terlebih dahulu?" closed="true" >}}
 Ya, Flacbox menyokong main balik DSD natif termasuk format DSD64, DSD128 dan DSD256. Aplikasi menyahkod strim DSD secara langsung, memelihara ciri sonik unik format tersebut. Untuk hasil terbaik, gandingkan peranti anda dengan DAC luaran serasi DSD.
-{{< /details >}}
+{{< /ls-details >}}
 
-{{< details title="Bagaimana untuk memindahkan koleksi muzik lossless besar ke iPhone saya?" closed="true" >}}
+{{< ls-details title="Bagaimana untuk memindahkan koleksi muzik lossless besar ke iPhone saya?" closed="true" >}}
 Flacbox menyediakan beberapa pilihan pemindahan untuk perpustakaan besar. Wi-Fi Drive membolehkan anda memuat naik fail dari mana-mana pelayar di rangkaian tempatan anda. Anda juga boleh menggunakan iTunes File Sharing melalui Finder di Mac atau menyambung perkhidmatan storan awan seperti Google Drive atau Dropbox. Untuk pemindahan terpantas koleksi sangat besar, sambungkan pemacu luaran terus menggunakan penyesuai Lightning atau USB-C.
-{{< /details >}}
+{{< /ls-details >}}
 
-{{< details title="Adakah perbezaan kualiti bunyi antara FLAC dan ALAC dalam Flacbox?" closed="true" >}}
+{{< ls-details title="Adakah perbezaan kualiti bunyi antara FLAC dan ALAC dalam Flacbox?" closed="true" >}}
 Kedua-dua FLAC dan ALAC adalah kodek lossless, bermakna ia menghasilkan output audio yang sama apabila dinyahkod. Perbezaannya terletak pada keserasian dan kecekapan pemampatan. FLAC lebih meluas digunakan merentas platform dan umumnya mencapai nisbah pemampatan sedikit lebih baik, manakala ALAC ialah format lossless natif Apple. Flacbox mengendalikan kedua-duanya dengan kesetiaan yang sama.
-{{< /details >}}
+{{< /ls-details >}}
 
-{{< details title="Apakah cara terbaik untuk memainkan fail FLAC di iPhone?" closed="true" >}}
+{{< ls-details title="Apakah cara terbaik untuk memainkan fail FLAC di iPhone?" closed="true" >}}
 Pasang Flacbox dari App Store, kemudian import fail FLAC anda menggunakan iTunes File Sharing, Wi-Fi Drive, storan awan atau pemacu luaran USB/Lightning. Flacbox menyahkod FLAC secara natif tanpa penukaran, menyokong resolusi sehingga 32-bit/384 kHz. Untuk kualiti audio terbaik, gandingkan iPhone anda dengan DAC USB-C atau Lightning khusus.
-{{< /details >}}
+{{< /ls-details >}}
 
-{{< details title="Adakah Flacbox berfungsi dengan NAS dan pelayan rumah?" closed="true" >}}
+{{< ls-details title="Adakah Flacbox berfungsi dengan NAS dan pelayan rumah?" closed="true" >}}
 Ya. Flacbox bersambung ke peranti NAS dan pelayan rumah melalui protokol SMB, WebDAV dan DLNA. Di Mac, anda boleh menambah lokasi rangkaian secara langsung. Di iOS, sambung melalui menu sumber awan/rangkaian. Ini membolehkan anda menstrim perpustakaan lossless anda tanpa menyalin fail ke peranti anda.
-{{< /details >}}
+{{< /ls-details >}}

@@ -31,7 +31,7 @@ Pots arribar al reproductor a pantalla completa des de la barra del reproductor 
 El reproductor compacte es manté visible mentre navegues per la biblioteca, el gestor de fitxers o la configuració, de manera que mai perds el vídeo mentre busques el pròxim.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Reproductor multimèdia a pantalla completa d'Evervideo" image="/docs/guide/evervideo/img/evervideo-media-player-fullscreen.webp" >}}
+  {{< ls-card title="" subtitle="Reproductor multimèdia a pantalla completa d'Evervideo" image="/docs/guide/evervideo/img/evervideo-media-player-fullscreen.webp" >}}
 {{< /cards >}}
 
 ## Formats de vídeo i àudio compatibles
@@ -72,7 +72,7 @@ PiP funciona amb tots els formats de vídeo que reprodueix Evervideo, incloent f
 El reproductor compacte és un mini reproductor persistent que es manté visible a la part superior de cada pantalla de l'app mentre navegues per la biblioteca, el gestor de fitxers o la configuració. Toca'l per expandir-lo al reproductor a pantalla completa; llisca cap avall per plegar-lo de nou.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Configuració de vídeo des del reproductor compacte a la pantalla principal d'Evervideo" image="/docs/guide/evervideo/img/evervideo-video-settings-from-compact-player-view-on-the-main-screen.webp" >}}
+  {{< ls-card title="" subtitle="Configuració de vídeo des del reproductor compacte a la pantalla principal d'Evervideo" image="/docs/guide/evervideo/img/evervideo-video-settings-from-compact-player-view-on-the-main-screen.webp" >}}
 {{< /cards >}}
 
 ## AirPlay 2
@@ -115,7 +115,7 @@ Evervideo inclou un equalitzador d'àudio complet per ajustar les bandes sonores
 Per ajustar la imatge, Evervideo proporciona un equalitzador de vídeo dedicat — ajusta la brillantor, el contrast, la saturació i el to en temps real durant la reproducció. Com l'equalitzador d'àudio, els presets de vídeo personalitzats es poden exportar i importar per a compartir o fer còpia de seguretat. Usa'l per aclarir una escena fosca en un dia assolellat, potenciar la saturació de contingut esblaimat o escalfar una dominanta de color freda.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Equalitzador de vídeo d'Evervideo" image="/docs/guide/evervideo/img/evervideo-video-equalizer.webp" >}}
+  {{< ls-card title="" subtitle="Equalitzador de vídeo d'Evervideo" image="/docs/guide/evervideo/img/evervideo-video-equalizer.webp" >}}
 {{< /cards >}}
 
 ## Mode d'escalat de vídeo
@@ -144,7 +144,7 @@ Evervideo inclou una vista VR/360° per a fitxers de vídeo esfèrics. En reprod
 Toca el control de Velocitat a la barra d'eines del reproductor per canviar la velocitat de reproducció — alenteix per a anàlisi (0,25× o 0,5×) o accelera per a tutorials i classes (1,25×, 1,5×, 2× i fins a 3×). Toca la icona de configuració a la cantonada superior dreta de la pantalla de Velocitat per canviar al mode precís amb ajustos més fins. La correcció de to per pista també és disponible.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Velocitat de reproducció d'Evervideo a la barra d'eines principal" image="/docs/guide/evervideo/img/evervideo-media-player-playback-speed-on-main-toolbar.webp" >}}
+  {{< ls-card title="" subtitle="Velocitat de reproducció d'Evervideo a la barra d'eines principal" image="/docs/guide/evervideo/img/evervideo-media-player-playback-speed-on-main-toolbar.webp" >}}
 {{< /cards >}}
 
 ## Cua del reproductor
@@ -152,7 +152,7 @@ Toca el control de Velocitat a la barra d'eines del reproductor per canviar la v
 Per veure la cua del reproductor, toca el botó de cua al reproductor. Cada vídeo a la cua té més accions — toca els tres punts per veure'ls. Per reordenar un vídeo a la cua, usa l'indicador de reordenació a prop del títol i arrossega'l a una nova posició.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Cua de reproducció d'Evervideo" image="/docs/guide/evervideo/img/evervideo-playback-queue.webp" >}}
+  {{< ls-card title="" subtitle="Cua de reproducció d'Evervideo" image="/docs/guide/evervideo/img/evervideo-playback-queue.webp" >}}
 {{< /cards >}}
 
 ## Temporitzador de son
@@ -189,7 +189,7 @@ Toca el botó **Més accions "..."** al reproductor per accedir a funcions addic
 - **Ajuda** — obre l'orientació.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Pantalla Més accions del reproductor d'Evervideo" image="/docs/guide/evervideo/img/evervideo-media-player-more-actions.webp" >}}
+  {{< ls-card title="" subtitle="Pantalla Més accions del reproductor d'Evervideo" image="/docs/guide/evervideo/img/evervideo-media-player-more-actions.webp" >}}
 {{< /cards >}}
 
 ## Configuració del reproductor

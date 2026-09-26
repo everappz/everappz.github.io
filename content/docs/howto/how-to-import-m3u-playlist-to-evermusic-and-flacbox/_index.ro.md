@@ -7,7 +7,7 @@ tags: ["evermusic", "import", "liste de redare", "m3u", "cue"]
 readingTime: 3
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **Rezumat:** Evermusic și Flacbox acceptă importul fișierelor de liste de redare M3U, M3U8 și CUE din stocarea cloud, fișierele locale ale aplicației sau dispozitivul dvs. Accesați Liste de redare > Mai multe > Importare listă de redare, selectați o sursă, alegeți fișierul și aplicația creează automat lista de redare.
@@ -84,22 +84,22 @@ Din cauza politicilor de securitate, aplicația poate accesa doar fișierul pe c
 
 ## Întrebări frecvente
 
-{{% details title="Ce formate de liste de redare acceptă Evermusic și Flacbox?" closed="true" %}}
+{{% ls-details title="Ce formate de liste de redare acceptă Evermusic și Flacbox?" closed="true" %}}
 Ambele aplicații acceptă formatele de fișiere de liste de redare M3U, M3U8 și CUE. Acestea acoperă cele mai comune standarde de liste de redare utilizate de playerele muzicale și software-ul media.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Pot importa liste de redare din stocarea cloud?" closed="true" %}}
+{{% ls-details title="Pot importa liste de redare din stocarea cloud?" closed="true" %}}
 Da. Puteți importa fișiere de liste de redare din orice serviciu de stocare cloud conectat, inclusiv Google Drive, Dropbox, OneDrive și servere WebDAV.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="De ce lipsesc unele piese după import?" closed="true" %}}
+{{% ls-details title="De ce lipsesc unele piese după import?" closed="true" %}}
 Fișierul listei de redare trebuie să conțină căi corecte către fișierele dvs. media, iar acele fișiere trebuie să existe la locațiile specificate în stocarea dvs. Verificați dacă căile fișierelor din fișierul M3U sau CUE corespund locațiilor reale ale fișierelor.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Pot importa mai multe liste de redare simultan?" closed="true" %}}
+{{% ls-details title="Pot importa mai multe liste de redare simultan?" closed="true" %}}
 Da. Folosiți butonul Mai multe acțiuni și selectați "Importare liste de redare dintr-un folder". Aplicația scanează folderul pentru toate fișierele de liste de redare acceptate și le importă într-un singur pas.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Trebuie să creez listele de redare manual?" closed="true" %}}
+{{% ls-details title="Trebuie să creez listele de redare manual?" closed="true" %}}
 Nu. Funcția de import elimină crearea manuală a listelor de redare. Pur și simplu îndreptați aplicația către fișierul M3U, M3U8 sau CUE existent și aceasta creează automat lista de redare.
-{{% /details %}}
+{{% /ls-details %}}

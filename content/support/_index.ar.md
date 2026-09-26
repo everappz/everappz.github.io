@@ -3,7 +3,9 @@ date: '2025-06-12T17:00:00+00:00'
 title: 'الدعم'
 ---
 
-{{< lottie src="/images/juicy-json/juicy-girl-is-working-on-laptop-at-a-remote-job.json" width="80%" >}}
+{{< ls-lottie src="/images/juicy-json/juicy-girl-is-working-on-laptop-at-a-remote-job.json" width="80%" >}}
+
+{{< ls-docs-search >}}
 
 ## هل تحتاج مساعدة؟ نحن هنا من أجلك
 
@@ -19,9 +21,9 @@ title: 'الدعم'
 لتوفير الوقت والحصول على إجابات فورية، يرجى الاطلاع على أكثر مواردنا فائدة. العديد من الأسئلة الشائعة مُغطاة بالفعل:
 
 {{< cards >}}
-  {{< card icon="book-open" link="/docs/guide" title="دليل المستخدم" >}}
-  {{< card icon="question-mark-circle" link="/docs/faq" title="الأسئلة الشائعة" >}}
-  {{< card icon="light-bulb" link="/docs/howto" title="كيفية الاستخدام" >}}
+  {{< ls-card icon="book-open" link="/docs/guide" title="دليل المستخدم" >}}
+  {{< ls-card icon="question-mark-circle" link="/docs/faq" title="الأسئلة الشائعة" >}}
+  {{< ls-card icon="light-bulb" link="/docs/howto" title="كيفية الاستخدام" >}}
 {{< /cards >}}
 
 هذه الأدلة مصممة لمساعدتك على الاستفادة القصوى من تطبيقاتنا — من الإعداد إلى الميزات المتقدمة.

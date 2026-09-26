@@ -7,7 +7,7 @@ tags: ["pilvi", "suoratoisto", "iphone", "mp3", "tallennus", "dropbox"]
 keywords: ["toista musiikkia Dropbox iPhone", "offline-musiikki Dropbox iOS", "Evermusic Dropbox", "mp3-soitin pilvi", "striimaa Dropbox ääni", "Evermusic tiedostonhallinta", "Dropbox iOS ääni"]
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **Lyhyesti:** Lataa musiikkisi Dropboxiin, asenna ilmainen Evermusic-sovellus iPhonellesi, yhdistä Dropbox-tilisi ja toista tai lataa kappaleesi offline-kuuntelua varten. Evermusic tukee MP3-, FLAC-, WAV-, AAC- ja muita formaatteja. Se sisältää 10-kaistaisen taajuuskorjaimen, soittolistat ja tiedostonhallinnan.
@@ -35,7 +35,7 @@ Evermusic on täysin ilmainen ja saatavilla sekä iPhonelle että iPadille, yhte
 
 {{< cards cols="1">}}
 
-  {{< card title="Ladata Evermusic" subtitle="Offline-musiikkisoitin ja pilvisuoratoistopalvelu iPhonelle ja iPadille." icon="download" link="https://itunes.apple.com/us/app/evermusic-offline-music/id885367198?mt=8" >}}
+  {{< ls-card title="Ladata Evermusic" subtitle="Offline-musiikkisoitin ja pilvisuoratoistopalvelu iPhonelle ja iPadille." icon="download" link="https://itunes.apple.com/us/app/evermusic-offline-music/id885367198?mt=8" >}}
 
 {{< /cards >}}
 
@@ -67,26 +67,26 @@ Evermusic on myös täysin varusteltu tiedostonhallinta, joka tukee perustoimint
 
 ## Usein kysytyt kysymykset
 
-{{% details title="Voinko toistaa Dropbox-musiikkia offline-tilassa iPhonellani?" closed="true" %}}
+{{% ls-details title="Voinko toistaa Dropbox-musiikkia offline-tilassa iPhonellani?" closed="true" %}}
 Kyllä. Käytä Evermusicia yhdistääksesi Dropboxisi, lataa sitten mikä tahansa kappale tai soittolista offline-kuuntelua varten. Ladatut tiedostot tallennetaan laitteellesi ja toistuvat ilman internetyhteyttä.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Onko Evermusic ilmainen?" closed="true" %}}
+{{% ls-details title="Onko Evermusic ilmainen?" closed="true" %}}
 Evermusic on ilmainen ladata perustoiminnoilla, mukaan lukien taajuuskorjain, pilvisuoratoisto ja offline-toisto. Ilmainen versio tukee enintään 3 pilviyhteyttä ja 10 soittolistaa. Premium-päivitys poistaa kaikki rajoitukset.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Mitä ääniformaatteja Evermusic tukee Dropboxista?" closed="true" %}}
+{{% ls-details title="Mitä ääniformaatteja Evermusic tukee Dropboxista?" closed="true" %}}
 Evermusic toistaa MP3-, FLAC-, WAV-, AAC-, AIFF-, OGG-, WMA- ja monia muita formaatteja suoraan Dropboxista.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Voinko yhdistää useita pilvipalveluita?" closed="true" %}}
+{{% ls-details title="Voinko yhdistää useita pilvipalveluita?" closed="true" %}}
 Kyllä. Evermusic tukee Dropboxia, Google Drivea, OneDrivea, Boxia, WebDAVia, SMB:tä, MEGAa ja muita. Voit yhdistää rajattoman määrän tilejä ja selata niitä kaikkia yhdessä kirjastossa.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Synkronoiko Evermusic soittolistat laitteiden välillä?" closed="true" %}}
+{{% ls-details title="Synkronoiko Evermusic soittolistat laitteiden välillä?" closed="true" %}}
 Evermusicissa luodut soittolistat tallennetaan paikallisesti laitteellesi. Dropbox-tiedostosi pysyvät synkronoituina kaikilla laitteilla Dropboxin itsensä kautta.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Kuinka vapautan iPhonen tallennustilaa Dropbox-musiikin avulla?" closed="true" %}}
+{{% ls-details title="Kuinka vapautan iPhonen tallennustilaa Dropbox-musiikin avulla?" closed="true" %}}
 Siirrä musiikkitiedostosi Dropboxiin ja suoratoista ne Evermusicin kautta sen sijaan, että tallentaisit ne iPhonellesi. Lataa vain kappaleet, joita tarvitset offline-kuuntelua varten.
-{{% /details %}}
+{{% /ls-details %}}

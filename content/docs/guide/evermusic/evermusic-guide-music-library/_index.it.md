@@ -15,7 +15,7 @@ readingTime: 11
 Gestire la tua libreria musicale è semplicissimo con Evermusic, dove puoi organizzare senza sforzo tutte le tue tracce. Hai due opzioni per costruire la tua libreria musicale: aggiunta manuale o sincronizzazione automatica.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Schermata Libreria musicale di Evermusic" image="/docs/guide/evermusic/evermusic-guide-music-library/img/music-library-main.webp" >}}
+  {{< ls-card title="" subtitle="Schermata Libreria musicale di Evermusic" image="/docs/guide/evermusic/evermusic-guide-music-library/img/music-library-main.webp" >}}
 {{< /cards >}}
 
 ## Aggiunta Manuale
@@ -23,7 +23,7 @@ Gestire la tua libreria musicale è semplicissimo con Evermusic, dove puoi organ
 Per aggiungere tracce manualmente, tocca la voce di menu "Aggiungi musica" e seleziona cartelle/file dal servizio di storage cloud collegato o file situati sul tuo dispositivo. Quando aggiungi tracce alla libreria, vengono creati solo collegamenti a quelle tracce, preservando i file effettivi nelle loro posizioni originali per risparmiare spazio su disco prezioso. Se vuoi rendere le tracce disponibili offline, puoi usare l'azione di download dal menu delle opzioni o abilitare la modalità offline per playlist e collezioni di tracce.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Aggiungi Brani alla Libreria musicale" image="/docs/guide/evermusic/evermusic-guide-music-library/img/music-library-add-songs.webp" >}}
+  {{< ls-card title="" subtitle="Aggiungi Brani alla Libreria musicale" image="/docs/guide/evermusic/evermusic-guide-music-library/img/music-library-add-songs.webp" >}}
 {{< /cards >}}
 
 ## Accesso Rapido
@@ -75,7 +75,7 @@ Quando aggiungi tracce alla tua libreria musicale, l'app legge automaticamente i
 Situata appena sotto la barra di navigazione, la barra degli strumenti superiore offre diverse azioni comode: "Cerca," "Riproduci tutto," "Mescola tutto," e "Continua riproduzione." Puoi rivelare o nascondere questa barra degli strumenti con un semplice gesto di scorrimento verso il basso.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Vista Album — Raggruppata per Tag Musicali" image="/docs/guide/evermusic/evermusic-guide-music-library/img/music-library-albums.webp" >}}
+  {{< ls-card title="" subtitle="Vista Album — Raggruppata per Tag Musicali" image="/docs/guide/evermusic/evermusic-guide-music-library/img/music-library-albums.webp" >}}
 {{< /cards >}}
 
 ## Ricerca
@@ -83,7 +83,7 @@ Situata appena sotto la barra di navigazione, la barra degli strumenti superiore
 La funzione di ricerca ti permette di individuare una traccia, un artista, un album o un genere specifico nella tua libreria musicale. Nella "Schermata di ricerca," hai accesso alle seguenti azioni: "Ordina," "Filtra," "Griglia/Lista."
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Risultati Ricerca Libreria musicale" image="/docs/guide/evermusic/evermusic-guide-music-library/img/music-library-search.webp" >}}
+  {{< ls-card title="" subtitle="Risultati Ricerca Libreria musicale" image="/docs/guide/evermusic/evermusic-guide-music-library/img/music-library-search.webp" >}}
 {{< /cards >}}
 
 ## Menu Opzioni
@@ -91,7 +91,7 @@ La funzione di ricerca ti permette di individuare una traccia, un artista, un al
 Ogni brano nella tua libreria musicale ha un menu con altre azioni, accessibile toccando il pulsante dei tre punti vicino al titolo del brano. Queste azioni variano a seconda che si tratti di un singolo brano o parte di una raccolta.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Altre Azioni per un Elemento della Libreria" image="/docs/guide/evermusic/evermusic-guide-music-library/img/music-library-item-more-actions.webp" >}}
+  {{< ls-card title="" subtitle="Altre Azioni per un Elemento della Libreria" image="/docs/guide/evermusic/evermusic-guide-music-library/img/music-library-item-more-actions.webp" >}}
 {{< /cards >}}
 
 ### Per Brani Singoli
@@ -125,7 +125,7 @@ Per raccolte di brani come Album, Artisti, Generi o Compositori, il menu delle o
 Puoi attivare la modalità selezione usando il pulsante Altre Azioni nell'angolo in alto a destra. In questa modalità, puoi selezionare più tracce ed eseguire varie azioni.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Modalità Selezione nella Libreria musicale" image="/docs/guide/evermusic/evermusic-guide-music-library/img/music-library-selection-mode.webp" >}}
+  {{< ls-card title="" subtitle="Modalità Selezione nella Libreria musicale" image="/docs/guide/evermusic/evermusic-guide-music-library/img/music-library-selection-mode.webp" >}}
 {{< /cards >}}
 
 ## Raggruppamento Tag
@@ -145,7 +145,7 @@ Queste categorie ti aiutano a organizzare le tue tracce per tag musicali: Brani,
 Quando apri le sezioni Artista, Artista Album o Compositore, puoi vedere un selettore per Brani/Tutti gli Album/Album Esclusivi/Album Solo.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Dettaglio Album con Selettore Brani / Tutti / Esclusivi / Solo" image="/docs/guide/evermusic/evermusic-guide-music-library/img/music-library-album-details.webp" >}}
+  {{< ls-card title="" subtitle="Dettaglio Album con Selettore Brani / Tutti / Esclusivi / Solo" image="/docs/guide/evermusic/evermusic-guide-music-library/img/music-library-album-details.webp" >}}
 {{< /cards >}}
 
 - **Brani**: Mostra tutti i brani in cui questo Artista/Artista Album/Compositore è impostato nei tag audio.
@@ -166,7 +166,7 @@ Puoi usare questa funzione per trovare rapidamente qualsiasi brano, artista, alb
 Tocca la voce di menu "Impostazioni" per configurare le preferenze della tua libreria musicale.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Impostazioni Libreria musicale" image="/docs/guide/evermusic/evermusic-guide-music-library/img/music-library-settings.webp" >}}
+  {{< ls-card title="" subtitle="Impostazioni Libreria musicale" image="/docs/guide/evermusic/evermusic-guide-music-library/img/music-library-settings.webp" >}}
 {{< /cards >}}
 
 #### Lettura Metadati

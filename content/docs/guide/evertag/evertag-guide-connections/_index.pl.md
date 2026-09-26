@@ -15,7 +15,7 @@ readingTime: 11
 Na tym ekranie możesz połączyć różne źródła zawierające Twoje pliki audio. Możesz integrować popularne usługi chmurowe, takie jak Google Drive, Dropbox, OneDrive, iCloud i inne, a także połączyć komputer Mac lub PC. Dodatkowo masz możliwość edytowania plików audio znajdujących się w Apple Time Capsule, WD Cloud Home lub dowolnym NAS obsługującym SMB lub WebDAV.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evertag Connections Screen" image="/docs/guide/evertag/img/connections.webp" >}}
+  {{< ls-card title="" subtitle="Evertag Connections Screen" image="/docs/guide/evertag/img/connections.webp" >}}
 {{< /cards >}}
 
 ## Szybki dostęp
@@ -151,7 +151,7 @@ Oto zestawienie tych akcji:
 - **Widok siatki/listy**: przełączaj między dwoma trybami wyświetlania: widok tabeli i widok miniatur. Widok tabeli prezentuje pliki w postaci listy, a widok miniatur wyświetla wizualne reprezentacje plików, ułatwiając identyfikację zawartości.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evertag Cloud Folder Sort" image="/docs/guide/evertag/img/cloud-storage-sort.webp" >}}
+  {{< ls-card title="" subtitle="Evertag Cloud Folder Sort" image="/docs/guide/evertag/img/cloud-storage-sort.webp" >}}
 {{< /cards >}}
 
 ## Edytuj pliki online
@@ -163,7 +163,7 @@ Gdy chcesz zarządzać wieloma plikami w chmurze w tej aplikacji, możesz użyć
 - **Wykonaj różne akcje**: po wybraniu plików lub folderów, którymi chcesz zarządzać, będziesz mieć dostęp do kilku akcji dostosowanych do Twoich potrzeb:
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evertag File Select" image="/docs/guide/evertag/img/cloud-storage-file-select.webp" >}}
+  {{< ls-card title="" subtitle="Evertag File Select" image="/docs/guide/evertag/img/cloud-storage-file-select.webp" >}}
 {{< /cards >}}
 
 ## Akcje pliku
@@ -180,7 +180,7 @@ Naciśnij go, aby wyświetlić listę dostępnych akcji:
 - **Usuń**: zachowaj ostrożność przy tej akcji, ponieważ trwale usuwa plik z chmury. **Tego usunięcia nie można cofnąć**.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evertag File Options" image="/docs/guide/evertag/img/cloud-storage-file-options.webp" >}}
+  {{< ls-card title="" subtitle="Evertag File Options" image="/docs/guide/evertag/img/cloud-storage-file-options.webp" >}}
 {{< /cards >}}
 
 Jeśli lista akcji przekracza dostępne miejsce na ekranie, po prostu przewiń w dół w menu akcji, aby uzyskać dostęp do dodatkowych opcji.
@@ -196,5 +196,5 @@ Dla każdego folderu w chmurze dostępne są różne akcje. Aby uzyskać dostęp
 - **Usuń**: zachowaj ostrożność przy tej akcji, ponieważ trwale usuwa folder i jego zawartość z chmury. **Tej akcji nie można cofnąć**.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evertag Folder Options" image="/docs/guide/evertag/img/cloud-storage-folder-options.webp" >}}
+  {{< ls-card title="" subtitle="Evertag Folder Options" image="/docs/guide/evertag/img/cloud-storage-folder-options.webp" >}}
 {{< /cards >}}

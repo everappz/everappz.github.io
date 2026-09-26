@@ -12,7 +12,7 @@ authors:
     image: "/images/about/artem-meleshko-founder-everappz.webp"
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 **Resumen:** Evermusic 6.8 añade la integración de Aliyun Drive y Synology NAS (con QuickConnect), seis nuevos efectos de desplazamiento de portadas, un reproductor minimal a pantalla completa, gestión de archivos con arrastrar y soltar, y carga más rápida de carátulas. Disponible ahora para iOS y macOS.
 
@@ -77,18 +77,18 @@ Evermusic 6.8 se centra en tres áreas: compatibilidad más amplia con la nube (
 
 ## Preguntas frecuentes
 
-{{% details title="¿Cómo conecto Synology NAS a Evermusic?" closed="true" %}}
+{{% ls-details title="¿Cómo conecto Synology NAS a Evermusic?" closed="true" %}}
 Ve a la pestaña Conexiones, selecciona Synology e introduce tu QuickConnectID. Evermusic se conecta directamente sin necesidad de direcciones IP ni configuración de VPN.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="¿Es gratuito usar Aliyun Drive con Evermusic?" closed="true" %}}
+{{% ls-details title="¿Es gratuito usar Aliyun Drive con Evermusic?" closed="true" %}}
 Sí. Si tienes una cuenta de Aliyun Drive, puedes conectarla a Evermusic sin coste adicional. Los límites de almacenamiento dependen de tu plan de Aliyun Drive.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="¿Puedo personalizar el estilo de desplazamiento de portadas?" closed="true" %}}
+{{% ls-details title="¿Puedo personalizar el estilo de desplazamiento de portadas?" closed="true" %}}
 Sí. Ve a Settings > Audio Player > Personalization > Album Covers Scrolling Style y elige entre seis opciones: MacDoc, Linear, Rotary, Inverted Rotary, Cylinder o CoverFlow.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="¿Funciona la pantalla del reproductor minimal con todos los dispositivos?" closed="true" %}}
+{{% ls-details title="¿Funciona la pantalla del reproductor minimal con todos los dispositivos?" closed="true" %}}
 Sí. El estilo de portada a pantalla completa está disponible en todos los iPhone, iPad y Mac compatibles con Evermusic 6.8 o posterior.
-{{% /details %}}
+{{% /ls-details %}}

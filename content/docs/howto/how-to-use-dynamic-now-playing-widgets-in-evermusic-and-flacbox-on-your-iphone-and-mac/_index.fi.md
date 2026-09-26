@@ -7,7 +7,7 @@ tags: ["widgetit", "ios17", "dynaaminen", "nyt toistetaan", "aloitusnäyttö", "
 keywords: ["Evermusic widget", "Flacbox widget", "Nyt toistetaan widget iOS", "macOS Sonoma työpöytäwidget", "äänikirjanmerkit iPhone", "musiikkiwidget Evermusic", "toiston hallinta aloitusnäyttö", "dynaamiset widgetit iOS 17"]
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **Lyhyesti:** Evermusic ja Flacbox tarjoavat interaktiivisia Nyt toistetaan -widgetejä iOS 17+ ja macOS 14 Sonoma+ -järjestelmissä. Voit hallita toistoa, ohittaa kappaleita, lisätä suosikkeja ja luoda äänikirjanmerkkejä suoraan iPhonen aloitusnäytöltä tai Macin työpöydältä — ilman sovelluksen avaamista.
@@ -78,22 +78,22 @@ Nauti päivityksestä ja mukavia kuunteluhetkiä!
 
 ## Usein kysytyt kysymykset
 
-{{% details title="Toimivatko widgetit ilman sovelluksen avaamista?" closed="true" %}}
+{{% ls-details title="Toimivatko widgetit ilman sovelluksen avaamista?" closed="true" %}}
 Kyllä. iOS 17:ssä ja macOS 14 Sonomassa widgetien painikkeet ovat interaktiivisia ja ohjaavat toistoa suoraan. Sovelluksen ei tarvitse olla etualalla.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Minkä kokoisen widgetin minun pitäisi valita?" closed="true" %}}
+{{% ls-details title="Minkä kokoisen widgetin minun pitäisi valita?" closed="true" %}}
 Valitse Pieni perustoistolle/tauolle ja suosikeille. Valitse Keskikokoinen, jos haluat hyppäyspainikkeet. Valitse Suuri, jos haluat myös äänikirjanmerkit.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Voinko käyttää widgetiä äänikirjan jatkamiseen?" closed="true" %}}
+{{% ls-details title="Voinko käyttää widgetiä äänikirjan jatkamiseen?" closed="true" %}}
 Kyllä. Ota käyttöön "Tallenna äänisoittimen tila" Asetuksissa, ja widget jatkaa toistoa viimeisestä kohdastasi, vaikka sovellus olisi suljettu.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Ovatko widgetit saatavilla iPadilla?" closed="true" %}}
+{{% ls-details title="Ovatko widgetit saatavilla iPadilla?" closed="true" %}}
 Kyllä. iPadOS 17 tukee samoja interaktiivisia widgetejä kuin iPhone.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Onko sekä Evermusicissa että Flacboxissa nämä widgetit?" closed="true" %}}
+{{% ls-details title="Onko sekä Evermusicissa että Flacboxissa nämä widgetit?" closed="true" %}}
 Kyllä. Nyt toistetaan -widget on saatavilla sekä Evermusicissa että Flacboxissa identtisellä toiminnallisuudella.
-{{% /details %}}
+{{% /ls-details %}}

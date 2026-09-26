@@ -19,7 +19,7 @@ Evervideo, iOS'ta bir müzik veya medya oynatıcısı kullanan herkese tanıdık
 Çoğu medya uygulamasının aksine Evervideo, bulut hesaplarınızı, NAS paylaşımlarını, medya sunucularını ve yerel dosyaları tek, birleşik bir Dosyalar sekmesinde birleştirir — bu nedenle ayrı ekranlar arasında geçiş yapmazsınız. Bu, bir Plex sunucusundan iCloud Drive klasörüne ve iPhone'unuzun Documents klasörüne bir video taşımayı tek ekran, tek dokunuşluk bir işlem haline getirir.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evervideo Ana Ekranı" image="/docs/guide/evervideo/img/evervideo-main.webp" >}}
+  {{< ls-card title="" subtitle="Evervideo Ana Ekranı" image="/docs/guide/evervideo/img/evervideo-main.webp" >}}
 {{< /cards >}}
 
 ## Sekmeler
@@ -53,7 +53,7 @@ PiP, Evervideo'nun oynadığı her video formatıyla çalışır; bulut akışl�
 Ekrandaki hemen hemen her içerik öğesinin bir Daha fazla eylem düğmesi vardır (üç noktalı "⋯" simgesi). O öğe için mevcut her eylemi içeren bağlama duyarlı bir menü açmak için dokunun — sonra oynat, daha sonra oynat, oynatma listesine ekle, favorilere ekle, etiketleri düzenle, indir, paylaş, yeniden adlandır, taşı vb. Uzun listeler dikey olarak kaydırılır; böylece ana UI'yı kalabalıklaştırmadan daha az yaygın eylemlere ulaşabilirsiniz.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evervideo Favoriler Daha Fazla Eylem Menüsü" image="/docs/guide/evervideo/img/evervideo-favorites-more-actions.webp" >}}
+  {{< ls-card title="" subtitle="Evervideo Favoriler Daha Fazla Eylem Menüsü" image="/docs/guide/evervideo/img/evervideo-favorites-more-actions.webp" >}}
 {{< /cards >}}
 
 ## Üst Araç Çubuğu

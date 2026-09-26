@@ -12,7 +12,7 @@ authors:
     image: "/images/about/artem-meleshko-founder-everappz.webp"
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 **En bref :** Flacbox a dépassé 1 million de téléchargements dans le monde. Il prend en charge FLAC, ALAC, APE, DSD et d'autres formats lossless avec un égaliseur 10 bandes, les playlists M3U/CUE, la lecture hors ligne et la synchronisation multi-appareils sur iPhone, iPad et Mac.
 
@@ -78,26 +78,26 @@ Le développement à venir se concentre sur :
 
 ## Questions fréquemment posées
 
-{{% details title="Quels formats audio Flacbox prend-il en charge ?" closed="true" %}}
+{{% ls-details title="Quels formats audio Flacbox prend-il en charge ?" closed="true" %}}
 Flacbox lit FLAC, ALAC, APE, DSD, WavPack, TTA, RealAudio, MP3, AAC, OGG et de nombreux autres formats. Il est conçu principalement pour l'audio lossless et hi-res.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Flacbox dispose-t-il d'un égaliseur ?" closed="true" %}}
+{{% ls-details title="Flacbox dispose-t-il d'un égaliseur ?" closed="true" %}}
 Oui. Flacbox inclut un égaliseur 10 bandes avec des préréglages par genre et un réglage manuel des fréquences.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Puis-je écouter de la musique hors ligne avec Flacbox ?" closed="true" %}}
+{{% ls-details title="Puis-je écouter de la musique hors ligne avec Flacbox ?" closed="true" %}}
 Oui. Téléchargez des fichiers depuis le stockage cloud ou transférez-les directement dans l'application pour une lecture hors ligne sans connexion internet.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Flacbox fonctionne-t-il sur Mac ?" closed="true" %}}
+{{% ls-details title="Flacbox fonctionne-t-il sur Mac ?" closed="true" %}}
 Oui. Flacbox fonctionne sur iPhone, iPad et Mac avec des bibliothèques et un historique de lecture synchronisés sur tous les appareils.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Qu'est-ce que la prise en charge des fichiers CUE ?" closed="true" %}}
+{{% ls-details title="Qu'est-ce que la prise en charge des fichiers CUE ?" closed="true" %}}
 Les fichiers CUE définissent les limites des pistes dans un seul fichier audio. Flacbox lit les fichiers CUE pour diviser les rips d'albums en pistes individuelles avec les métadonnées appropriées.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Flacbox est-il gratuit ?" closed="true" %}}
+{{% ls-details title="Flacbox est-il gratuit ?" closed="true" %}}
 Flacbox est gratuit à télécharger avec des fonctionnalités premium optionnelles disponibles via un achat intégré.
-{{% /details %}}
+{{% /ls-details %}}

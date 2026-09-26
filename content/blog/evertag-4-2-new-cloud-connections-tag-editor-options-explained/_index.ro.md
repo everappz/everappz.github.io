@@ -12,7 +12,7 @@ authors:
     image: "/images/about/artem-meleshko-founder-everappz.webp"
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 **Pe scurt:** [Evertag 4.2](/products/evertag) este o actualizare majoră pentru editorul de etichete audio pe iPhone, iPad și Mac. Am rezolvat erorile cheie de editare a etichetelor și am adăugat peste 6 conexiuni noi de cloud și server — **Internxt**, **Proton Drive**, **QNAP**, **Nextcloud**, **Amazon S3** plus protocoalele **FTP**, **SFTP** și **NFS**. Wi-Fi Drive a primit o interfață reîmprospătată, mod de selecție multiplă, o coadă de încărcare mai inteligentă și transferuri mai rapide. Întreaga aplicație este reglată pentru designul **Liquid Glass**. Această postare aprofundează, de asemenea, setările editorului de etichete Evertag — explicând **ID3v2.4 vs ID3v2.3**, **scalarea coperții albumului**, **duplicarea etichetelor**, **modurile de încărcare în cloud**, **ștergerea fișierului descărcat** și exact ce opțiuni să alegi dacă pregătești audio pentru **Spotify**, **Apple Music**, **Plex**, **Jellyfin** sau orice alt serviciu de streaming.
 
@@ -229,50 +229,50 @@ Dacă îți place aplicația, lasă o evaluare în App Store — ne ajută foart
 
 ## Întrebări frecvente
 
-{{% details title="Ce este nou în Evertag 4.2?" closed="true" %}}
+{{% ls-details title="Ce este nou în Evertag 4.2?" closed="true" %}}
 Evertag 4.2 adaugă peste 6 conexiuni noi de cloud și server (Internxt, Proton Drive, QNAP, Nextcloud, Amazon S3, FTP, SFTP, NFS), un Wi-Fi Drive reîmprospătat cu selecție multiplă și coadă de încărcare mai inteligentă, actualizări UI Liquid Glass, biblioteci de conexiune actualizate, corecții cheie ale erorilor de editare a etichetelor și îmbunătățiri ale traducerii.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Ar trebui să folosesc ID3v2.4 sau ID3v2.3 în Evertag?" closed="true" %}}
+{{% ls-details title="Ar trebui să folosesc ID3v2.4 sau ID3v2.3 în Evertag?" closed="true" %}}
 Folosește **ID3v2.4** pentru playere moderne (Evermusic, Plex, Jellyfin, Apple Music, foobar2000, VLC, aplicații Android moderne) și pentru biblioteci cu caractere non-latine — suportul UTF-8 înseamnă etichete mai curate în chineză, coreeană, japoneză, rusă, arabă și ebraică. Folosește **ID3v2.3** dacă etichetele tale se afișează incorect în unele aplicații, dacă țintești sisteme audio auto mai vechi sau dacă un pipeline de distribuitor de streaming respinge v2.4. Poți schimba oricând și salva din nou.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="De ce sunt etichetele mele greșite în Spotify după editare?" closed="true" %}}
+{{% ls-details title="De ce sunt etichetele mele greșite în Spotify după editare?" closed="true" %}}
 Spotify afișează în mare parte metadate din propriul catalog — etichetele tale locale sunt folosite doar pentru «Local Files» sau conținut pe care l-ai încărcat ca artist. Dacă etichetezi fișiere pentru Spotify Local Files și nu se afișează corect, încearcă să dezactivezi ID3v2.4 în Evertag și să salvezi ca ID3v2.3 — parser-ul Spotify a fost istoric conservator în privința v2.4.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Ce dimensiune de copertă a albumului ar trebui să aleg în Evertag?" closed="true" %}}
+{{% ls-details title="Ce dimensiune de copertă a albumului ar trebui să aleg în Evertag?" closed="true" %}}
 Pentru majoritatea utilizatorilor: **Mare**. Arată grozav pe telefoane, iPad-uri, Mac-uri și display-uri auto moderne fără să umfle prea mult fișierele. Folosește **Mediu** dacă ai o bibliotecă uriașă și vrei să economisești spațiu pe disc. Folosește **Original** (fără scalare) doar pentru master-uri de arhivă sau când chiar ai nevoie de calitate maximă — dar fii conștient că unele playere mai vechi se chinuie cu coperți încorporate foarte mari. **Original** face parte din upgrade-ul de personalizare premium Evertag.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Coperțile mai mari îmi vor face fișierele mai mari?" closed="true" %}}
+{{% ls-details title="Coperțile mai mari îmi vor face fișierele mai mari?" closed="true" %}}
 Da. Încorporarea unei coperți de 3.000 × 3.000 px poate adăuga mai mulți megabytes la un singur fișier audio. Pe o bibliotecă de 1.000 de piese, aceasta ajunge la gigabytes. Dacă spațiul de stocare este limitat, folosește Mediu sau Mare; dacă faci streaming dintr-un NAS unde dimensiunea nu contează, Foarte mare sau Original sunt în regulă.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Ce sunt etichetele duplicate și ar trebui să le activez?" closed="true" %}}
+{{% ls-details title="Ce sunt etichetele duplicate și ar trebui să le activez?" closed="true" %}}
 Duplicarea etichetelor scrie metadatele de bază atât în secțiunile ID3v1 (legacy 128 octeți), cât și ID3v2 (modernă) ale fișierului. Activeaz-o doar dacă țintești playere foarte vechi sau hardware care citește ID3v1. Pentru tot ce este modern (smartphone-uri, computere, sisteme audio auto recente), las-o oprită.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Editează Evertag etichetele direct pe fișierele cloud?" closed="true" %}}
+{{% ls-details title="Editează Evertag etichetele direct pe fișierele cloud?" closed="true" %}}
 Da. Conectează-te la cloud-ul tău (Google Drive, Dropbox, OneDrive, iCloud Drive, Internxt, Proton Drive, QNAP, Nextcloud, Amazon S3 etc.) sau prin FTP/SFTP/NFS, deschide un fișier și editează etichetele ca și cum ar fi local. Evertag descarcă fișierul, aplică modificările tale și încarcă versiunea actualizată înapoi. Poți alege între modurile «Întreabă întotdeauna», «Auto-încărcare» sau «Nu încărca» în setări.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Pot edita etichetele FLAC pe iPhone cu Evertag?" closed="true" %}}
+{{% ls-details title="Pot edita etichetele FLAC pe iPhone cu Evertag?" closed="true" %}}
 Da. Evertag suportă FLAC, MP3, M4A/MP4, AIFF, WAV, OGG, APE și alte formate importante cu suport complet de citire/scriere a etichetelor, inclusiv coperta încorporată.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Cum editez etichetele în siguranță pe serverul meu de acasă cu SFTP?" closed="true" %}}
+{{% ls-details title="Cum editez etichetele în siguranță pe serverul meu de acasă cu SFTP?" closed="true" %}}
 Deschide Evertag, mergi la Conexiuni, alege SFTP și introdu numele de gazdă sau IP-ul serverului tău, portul (de obicei 22), numele de utilizator și o parolă sau o cheie SSH privată. Evertag va parcurge folderele tale de la distanță și va edita etichetele direct cu criptare end-to-end peste SSH.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Pot edita etichetele pe mai multe fișiere simultan?" closed="true" %}}
+{{% ls-details title="Pot edita etichetele pe mai multe fișiere simultan?" closed="true" %}}
 Da. Activează **Editare fișiere simultan** în setări. Selectează mai multe fișiere, deschide editorul de etichete și orice câmp pe care îl modifici va fi aplicat tuturor fișierelor selectate. Acesta este cel mai rapid mod de a seta același album artist, an sau gen pentru un întreg album.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Este actualizarea la Evertag 4.2 gratuită?" closed="true" %}}
+{{% ls-details title="Este actualizarea la Evertag 4.2 gratuită?" closed="true" %}}
 Da. Evertag se descarcă gratuit din App Store, iar 4.2 este o actualizare gratuită pentru toți utilizatorii existenți. Noile integrări cloud, îmbunătățirile Wi-Fi Drive și UI-ul Liquid Glass fac parte din actualizarea de bază.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Pe ce dispozitive este disponibil Evertag 4.2?" closed="true" %}}
+{{% ls-details title="Pe ce dispozitive este disponibil Evertag 4.2?" closed="true" %}}
 Evertag 4.2 rulează pe iPhone, iPad și Mac. Sincronizarea iCloud Drive menține setările editorului de etichete consistente între dispozitive.
-{{% /details %}}
+{{% /ls-details %}}

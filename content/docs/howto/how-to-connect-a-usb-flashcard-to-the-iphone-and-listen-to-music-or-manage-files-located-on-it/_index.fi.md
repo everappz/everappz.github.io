@@ -7,7 +7,7 @@ tags: ["musiikki", "tiedostot", "usb", "flash", "ulkoinen", "ixpand", "toista", 
 readingTime: 2
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **Yhteenveto:** Yhdistä USB-muistitikku tai SD-kortti iPhoneen Apple-sovittimen tai SanDisk iXpand -aseman avulla ja käytä sitten Evermusicia, Flacboxia tai Evertagia selaamaan, toistamaan ja hallitsemaan äänitiedostojasi suoraan ulkoisesta tallennustilasta.
@@ -72,18 +72,18 @@ Nauti vapaudesta käyttää ja hallita musiikkiasi vaivattomasti näillä yksink
 
 ## Usein kysytyt kysymykset
 
-{{% details title="Mitkä USB-sovittimet toimivat iPhonen kanssa musiikin toistoon?" closed="true" %}}
+{{% ls-details title="Mitkä USB-sovittimet toimivat iPhonen kanssa musiikin toistoon?" closed="true" %}}
 Sekä Applen Lightning to SD Card Camera Reader että Lightning to USB 3 Camera Adapter toimivat. USB-C-sovittimet toimivat uudemmissa iPhoneissa, joissa on USB-C-portit. SanDisk iXpand Flash -asemat (V1-V7) ovat myös natiivisti tuettuja Evermusicissa, Flacboxissa ja Evertagissa.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Voinko toistaa musiikkia suoraan USB-asemalta kopioimatta tiedostoja?" closed="true" %}}
+{{% ls-details title="Voinko toistaa musiikkia suoraan USB-asemalta kopioimatta tiedostoja?" closed="true" %}}
 Kyllä. SanDisk iXpand -asemilla voit toistaa musiikkia suoraan asemalta kopioimatta tiedostoja iPhoneesi. Apple-sovittimia käytettäessä tiedostot tuodaan, mutta voit valita, kopioitko ne paikalliseen tallennustilaan.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Mitä ääniformaatteja tuetaan USB-asemilta?" closed="true" %}}
+{{% ls-details title="Mitä ääniformaatteja tuetaan USB-asemilta?" closed="true" %}}
 Evermusic ja Flacbox tukevat laajaa valikoimaa formaatteja, mukaan lukien FLAC, MP3, AAC, WAV, ALAC, OGG, WMA ja muita. Kaikki tuetut formaatit toimivat toistettaessa USB-tallennustilasta.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="SanDisk iXpand -asemani näyttää 'varattu'-virheen. Mitä minun pitäisi tehdä?" closed="true" %}}
+{{% ls-details title="SanDisk iXpand -asemani näyttää 'varattu'-virheen. Mitä minun pitäisi tehdä?" closed="true" %}}
 Toinen sovellus saattaa käyttää asemaa. Sulje kaikki muut sovellukset, jotka saattavat käyttää muistitikkua, tai irrota se ja aseta uudelleen. Avaa sitten Evermusic, Flacbox tai Evertag uudelleen.
-{{% /details %}}
+{{% /ls-details %}}

@@ -21,7 +21,7 @@ readingTime: 16
 Экран «Настройки» — это центр управления Flacbox. Отсюда можно обновить до Premium, настроить аудиодвижок (системные кодеки или FFmpeg), управлять музыкальной библиотекой, настроить менеджер файлов, кастомизировать редактор аудиотегов, включить виджеты главного экрана и Apple CarPlay, создать резервную копию данных и получить доступ к справке и юридической информации. Разделы сгруппированы под заголовками: Покупки и обновления, Настройки приложения, Помощь, а также Правовая информация и конфиденциальность.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox Settings Main Screen" image="/docs/guide/flacbox/img/settings-main.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox Settings Main Screen" image="/docs/guide/flacbox/img/settings-main.webp" >}}
 {{< /cards >}}
 
 ## Обновление до Premium
@@ -29,13 +29,13 @@ readingTime: 16
 Обновите приложение до версии Premium, чтобы снять все ограничения. Бесплатная версия приложения предлагает однократную покупку на всю жизнь в приложении и две опции подписки (1 месяц и 1 год) для снятия всех ограничений и обновления до Premium.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox Upgrade to Premium" image="/docs/guide/flacbox/img/upgrade-to-premium.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox Upgrade to Premium" image="/docs/guide/flacbox/img/upgrade-to-premium.webp" >}}
 {{< /cards >}}
 
 **Семейный доступ** включён для всех покупок и планов, поэтому вы можете делиться версией Premium с до пятью членами семьи без дополнительной оплаты.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox Select a Premium Plan" image="/docs/guide/flacbox/img/select-premium-plan.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox Select a Premium Plan" image="/docs/guide/flacbox/img/select-premium-plan.webp" >}}
 {{< /cards >}}
 
 Подробнее о покупках и версии Premium можно прочитать здесь: [В чём разница между Flacbox и Flacbox Premium](/docs/faq/flacbox/what-is-the-difference-between-flacbox-and-flacbox-premium/).

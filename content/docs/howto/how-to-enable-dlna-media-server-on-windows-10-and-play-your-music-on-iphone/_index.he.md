@@ -7,7 +7,7 @@ tags: ["evermusic", "מוזיקה", "ענן", "iphone", "אחסון", "מקומ�
 readingTime: 2
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **בקצרה:** ל-Windows 10 יש שרת DLNA מובנה. הפעל אותו בהגדרות הרשת והשיתוף, ואז השתמש באפליקציית **Evermusic** החינמית ב-iPhone שלך כדי להזרים את כל ספריית המוזיקה שלך דרך Wi-Fi. אין צורך בתוכנת שרת של צד שלישי.
@@ -96,22 +96,22 @@ DLNA (Digital Living Network Alliance) הוא כלי רב-עוצמה המאפש�
 
 ## שאלות נפוצות
 
-{{% details title="האם אני צריך להתקין תוכנת שרת ב-Windows 10?" closed="true" %}}
+{{% ls-details title="האם אני צריך להתקין תוכנת שרת ב-Windows 10?" closed="true" %}}
 לא. Windows 10 כולל שרת מדיה DLNA מובנה. אתה רק צריך להפעיל הזרמת מדיה בהגדרות מרכז הרשת והשיתוף. אין צורך בתוכנת צד שלישי.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="האם ה-iPhone שלי צריך להיות באותה רשת Wi-Fi?" closed="true" %}}
+{{% ls-details title="האם ה-iPhone שלי צריך להיות באותה רשת Wi-Fi?" closed="true" %}}
 כן. הזרמת DLNA פועלת דרך הרשת המקומית שלך. גם מחשב ה-Windows 10 וגם ה-iPhone שלך חייבים להיות מחוברים לאותה רשת Wi-Fi כדי ש-Evermusic יגלה את שרת ה-DLNA.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="אילו פורמטי אודיו אני יכול להזרים דרך DLNA?" closed="true" %}}
+{{% ls-details title="אילו פורמטי אודיו אני יכול להזרים דרך DLNA?" closed="true" %}}
 שרת Windows DLNA משתף קבצים מתיקיית המוזיקה שלך ללא קשר לפורמט. Evermusic תומך ב-MP3, FLAC, AAC, WAV, OGG, AIFF ופורמטים רבים נוספים, כך שתוכל להשמיע כמעט כל קובץ אודיו מהשרת.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="האם אני יכול להשתמש ב-Flacbox במקום Evermusic?" closed="true" %}}
+{{% ls-details title="האם אני יכול להשתמש ב-Flacbox במקום Evermusic?" closed="true" %}}
 כן. Flacbox גם תומך בגלישה והשמעה של DLNA/UPnP. אתה יכול להשתמש בכל אחת משתי האפליקציות כדי לגלות ולהשמיע מוזיקה משרת ה-Windows DLNA שלך.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="האם הזרמת DLNA תשתמש בנתוני סלולר?" closed="true" %}}
+{{% ls-details title="האם הזרמת DLNA תשתמש בנתוני סלולר?" closed="true" %}}
 לא. DLNA פועל לגמרי ברשת ה-Wi-Fi המקומית שלך. הוא לא משתמש בנתוני סלולר כלל. עם זאת, שני המכשירים חייבים להישאר מחוברים לאותה רשת במהלך ההשמעה.
-{{% /details %}}
+{{% /ls-details %}}

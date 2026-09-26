@@ -7,7 +7,7 @@ tags: ["evermusic", "conectar", "bluesound vault"]
 readingTime: 1
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **Resumo:** Conecte-se ao armazenamento interno do seu Bluesound VAULT via SMB usando Evermusic, Flacbox ou Evertag. Encontre o endereço IP do VAULT no aplicativo BluOS, insira-o como uma conexão SMB com acesso de convidado e comece a reproduzir ou gerenciar seus arquivos de música.
@@ -58,18 +58,18 @@ Com esses passos simples, você pode acessar facilmente o disco rígido interno 
 
 ## Perguntas Frequentes
 
-{{% details title="Preciso de um nome de usuário e senha para me conectar ao Bluesound VAULT?" closed="true" %}}
+{{% ls-details title="Preciso de um nome de usuário e senha para me conectar ao Bluesound VAULT?" closed="true" %}}
 Não. O Bluesound VAULT suporta acesso de convidado (anônimo) via SMB. Deixe os campos de Login e Senha em branco ao configurar a conexão.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Posso editar tags de música no Bluesound VAULT?" closed="true" %}}
+{{% ls-details title="Posso editar tags de música no Bluesound VAULT?" closed="true" %}}
 Sim. Usando o Evertag, você pode editar tags de metadados (título, artista, álbum, etc.) de arquivos de áudio armazenados diretamente no disco rígido interno do VAULT.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Quais protocolos o Bluesound VAULT suporta?" closed="true" %}}
+{{% ls-details title="Quais protocolos o Bluesound VAULT suporta?" closed="true" %}}
 O Bluesound VAULT expõe seu armazenamento interno via SMB (Server Message Block). Evermusic, Flacbox e Evertag suportam conexões SMB, tornando a conexão simples.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Posso transmitir música do VAULT sem copiar arquivos para o meu iPhone?" closed="true" %}}
+{{% ls-details title="Posso transmitir música do VAULT sem copiar arquivos para o meu iPhone?" closed="true" %}}
 Sim. Uma vez conectado via SMB, você pode transmitir arquivos de áudio diretamente da unidade interna do VAULT sem copiá-los para o seu dispositivo.
-{{% /details %}}
+{{% /ls-details %}}

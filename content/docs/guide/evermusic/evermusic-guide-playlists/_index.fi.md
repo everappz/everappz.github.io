@@ -17,7 +17,7 @@ readingTime: 6
 Soittolistat-osio tarjoaa sinulle työkalut kappaleiden järjestämiseen listoihin. Se sisältää sisältönäkymän, jossa näkyvät kaikki luomasi soittolistat, "..."-painikkeen navigointipalkissa, joka tarjoaa erilaisia soittolistaan liittyviä toimintoja, sekä navigointityökalupalkin, jossa on "Haku", "Toista kaikki" ja "Sekoita kaikki" -painikkeet. Lisäksi jokaisella yksittäisellä soittolistalla on "..."-painike soittolistan otsikon lähellä, joka tarjoaa valikoiman kyseiselle soittolistalle erityisiä toimintoja.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evermusicin soittolistasnäyttö" image="/docs/guide/evermusic/evermusic-guide-playlists/img/playlists-main.webp" >}}
+  {{< ls-card title="" subtitle="Evermusicin soittolistasnäyttö" image="/docs/guide/evermusic/evermusic-guide-playlists/img/playlists-main.webp" >}}
 {{< /cards >}}
 
 ## Soittolistan luominen
@@ -25,7 +25,7 @@ Soittolistat-osio tarjoaa sinulle työkalut kappaleiden järjestämiseen listoih
 Luodaksesi uuden soittolistan napauta joko "+"-painiketta tai "..."-painiketta navigointipalkin oikeassa yläkulmassa, valitse "Uusi soittolista" ja anna soittolistallesi nimi. Nimettyäsi sen napauta "Tallentaa".
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Luo uusi soittolista" image="/docs/guide/evermusic/evermusic-guide-playlists/img/playlists-add-new.webp" >}}
+  {{< ls-card title="" subtitle="Luo uusi soittolista" image="/docs/guide/evermusic/evermusic-guide-playlists/img/playlists-add-new.webp" >}}
 {{< /cards >}}
 
 Tämä avaa "Lisää kappaleita" -dialogin, jossa voit valita, mitkä kappaleet lisätään uuteen soittolistaan. Kappaleet luokitellaan lähdetyypin mukaan, ja sinulla on useita vaihtoehtoja:
@@ -42,7 +42,7 @@ Oletuksena voit lisätä kappaleen soittolistaan vain kerran. Salliaksesi kaksoi
 Evermusic-sovelluksessa olemme lisänneet M3U-tiedostojen tuontitoiminnallisuuden, joten sinun ei tarvitse luoda soittolistoja manuaalisesti.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Tuo soittolista tiedostolähteestä" image="/docs/guide/evermusic/evermusic-guide-playlists/img/playlists-import-from-files.webp" >}}
+  {{< ls-card title="" subtitle="Tuo soittolista tiedostolähteestä" image="/docs/guide/evermusic/evermusic-guide-playlists/img/playlists-import-from-files.webp" >}}
 {{< /cards >}}
 
 Siirry ensin "Soittolistat"-osioon. Napauta sitten "Lisää"-painiketta oikeassa yläkulmassa. Valitse näkyviin tulevasta valikosta "Tuo soittolista" -vaihtoehto.
@@ -62,7 +62,7 @@ Sovellus jäsentää soittolistatiedoston, luo kappalelistan ja paikallistaa nä
 Kun avaat soittolistan, näkyviin tulee "Soittolistan yksityiskohtanäyttö". Tällä näytöllä löydät "..."-painikkeen oikeassa yläkulmassa soittolistan valinnoilla, ja kolme painiketta artwork-kuvan alla: "Haku", "Jatka toistoa", "Toista kaikki" ja "Sekoita kaikki". Lisäksi on "Offline-tila"-valintaruutu.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Soittolistan yksityiskohtanäyttö" image="/docs/guide/evermusic/evermusic-guide-playlists/img/playlists-detail-screen.webp" >}}
+  {{< ls-card title="" subtitle="Soittolistan yksityiskohtanäyttö" image="/docs/guide/evermusic/evermusic-guide-playlists/img/playlists-detail-screen.webp" >}}
 {{< /cards >}}
 
 - **Jatka toistoa**: Palauta toistosijainti tälle soittolistalle.
@@ -87,7 +87,7 @@ Voit käyttää soittolistan toimintoja napauttamalla "..."-painiketta soittolis
 - **Poista soittolista:** Poista soittolista musiikkikirjastosta. Huomaa, että tätä toimintoa ei voi kumota.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Lisää toimintoja -valikko soittolistalle" image="/docs/guide/evermusic/evermusic-guide-playlists/img/playlists-more-actions-for-separate-playlist.webp" >}}
+  {{< ls-card title="" subtitle="Lisää toimintoja -valikko soittolistalle" image="/docs/guide/evermusic/evermusic-guide-playlists/img/playlists-more-actions-for-separate-playlist.webp" >}}
 {{< /cards >}}
 
 ## Lisää toimintoja soittolistalle yksityiskohtanäytössä
@@ -113,7 +113,7 @@ Voit käyttää soittolistan toimintoja napauttamalla "..."-painiketta oikeassa 
 Muuttaaksesi kappaleiden järjestystä soittolistassa napauta "..."-painiketta oikeassa yläkulmassa ja valitse "Valita" siirtyäksesi valintatilanteen. Käytä järjestyssäätöä ja vedä-ja-pudota-eleitä kunkin kappaleen lähellä siirtääksesi niitä ylös tai alas. Napauttamalla järjestyssäätöä kappale siirtyy listan ylhäälle. Poistuaksesi valintatilanteesta ja soveltaaksesi muutokset napauta "Valmis".
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Kappaleiden järjestyksen muuttaminen soittolistassa" image="/docs/guide/evermusic/evermusic-guide-playlists/img/playlists-change-songs-order.webp" >}}
+  {{< ls-card title="" subtitle="Kappaleiden järjestyksen muuttaminen soittolistassa" image="/docs/guide/evermusic/evermusic-guide-playlists/img/playlists-change-songs-order.webp" >}}
 {{< /cards >}}
 
 ## Soittolistan kansikuvan muuttaminen
@@ -129,7 +129,7 @@ Avaa soittolista ja napauta "..."-painiketta oikeassa yläkulmassa, valitse sitt
 Avaa soittolista, napauta "..."-painiketta oikeassa yläkulmassa ja valitse "Valita" siirtyäksesi valintatilanteen. Valitse poistettavat kappaleet ja napauta "Poista soittolistasta" -painiketta näytön alareunassa. Vahvista muutokset napauttamalla "Valmis".
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Valittatilanne soittolistan sisällä" image="/docs/guide/evermusic/evermusic-guide-playlists/img/playlists-selection-mode-in-playlist-details-screen.webp" >}}
+  {{< ls-card title="" subtitle="Valittatilanne soittolistan sisällä" image="/docs/guide/evermusic/evermusic-guide-playlists/img/playlists-selection-mode-in-playlist-details-screen.webp" >}}
 {{< /cards >}}
 
 ## Kappalevaihtoehdot
@@ -137,7 +137,7 @@ Avaa soittolista, napauta "..."-painiketta oikeassa yläkulmassa ja valitse "Val
 Jokaisella kappaleella soittolistassa on toimintolista, johon pääset napauttamalla "..."-painiketta. Jos et näe kaikkia toimintoja, vieritä alas nähdäksesi ne. Voit poistaa kappaleen soittolistasta, ladata sen, muokata äänitunnisteita ja paljon muuta.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Kappalevaihtoehtovalikko soittolistassa" image="/docs/guide/evermusic/evermusic-guide-playlists/img/playlists-track-options.webp" >}}
+  {{< ls-card title="" subtitle="Kappalevaihtoehtovalikko soittolistassa" image="/docs/guide/evermusic/evermusic-guide-playlists/img/playlists-track-options.webp" >}}
 {{< /cards >}}
 
 - **Toista seuraavaksi:** Lisää kappaleen soittojonon alkuun.

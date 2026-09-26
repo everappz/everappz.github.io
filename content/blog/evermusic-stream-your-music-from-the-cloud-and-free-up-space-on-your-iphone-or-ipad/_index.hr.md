@@ -12,7 +12,7 @@ authors:
     image: "/images/about/artem-meleshko-founder-everappz.webp"
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 ![](/blog/evermusic-stream-your-music-from-the-cloud-and-free-up-space-on-your-iphone-or-ipad/21260c_00c5356db3a24db6a6a37e353b774d56~mv2.jpg)
 
@@ -82,22 +82,22 @@ Pregledajte svoj povezani cloud račun, otvorite mapu s glazbom i dodirnite dato
 
 ## Često postavljana pitanja
 
-{{% details title="Je li Evermusic besplatan?" closed="true" %}}
+{{% ls-details title="Je li Evermusic besplatan?" closed="true" %}}
 Evermusic je besplatan za preuzimanje s opcionim premium značajkama. Osnovno cloud streamanje i offline reprodukcija dostupni su u besplatnoj verziji.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Koje cloud servise Evermusic podržava?" closed="true" %}}
+{{% ls-details title="Koje cloud servise Evermusic podržava?" closed="true" %}}
 Google Drive, Dropbox, Box, OneDrive, MediaFire, MEGA, Yandex.Disk, pCloud, HiDrive, MyDrive, SMB dijeljenje datoteka i WebDAV poslužitelje.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Mogu li slušati glazbu offline s Evermusicom?" closed="true" %}}
+{{% ls-details title="Mogu li slušati glazbu offline s Evermusicom?" closed="true" %}}
 Da. Preuzmite bilo koji album, izvođača, popis za reprodukciju ili pojedinačnu pjesmu za offline reprodukciju izravno unutar aplikacije.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Koje audio formate Evermusic reproducira?" closed="true" %}}
+{{% ls-details title="Koje audio formate Evermusic reproducira?" closed="true" %}}
 Evermusic podržava MP3, FLAC, AAC, WAV, ALAC, AIFF, OPUS, OGG i mnoge druge formate.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Trebam li i dalje iTunes za prijenos glazbe?" closed="true" %}}
+{{% ls-details title="Trebam li i dalje iTunes za prijenos glazbe?" closed="true" %}}
 Ne. Uploadajte svoju glazbu na bilo koji podržani cloud servis s računala, a zatim je streamajte ili preuzmite putem Evermusica na svom iPhoneu ili iPadu.
-{{% /details %}}
+{{% /ls-details %}}

@@ -72,19 +72,19 @@ Tento sprievodca vám pomôže vyťažiť z Evermusic maximum na vašom iPhone, 
 
 
 {{< cards >}}
-  {{< card icon="location-marker" title="Navigácia" subtitle="Naučte sa navigovať v Evermusic pomocou Tab Baru na iPhone alebo ľavého menu na iPad a Mac." link="/docs/guide/evermusic/evermusic-guide-navigation" >}}
+  {{< ls-card icon="location-marker" title="Navigácia" subtitle="Naučte sa navigovať v Evermusic pomocou Tab Baru na iPhone alebo ľavého menu na iPad a Mac." link="/docs/guide/evermusic/evermusic-guide-navigation" >}}
 
-  {{< card icon="cloud" title="Pripojenia" subtitle="Prepojte svoje cloudové účty a spravujte online súbory pomocou vstavaného správcu súborov." link="/docs/guide/evermusic/evermusic-guide-connections" >}}
+  {{< ls-card icon="cloud" title="Pripojenia" subtitle="Prepojte svoje cloudové účty a spravujte online súbory pomocou vstavaného správcu súborov." link="/docs/guide/evermusic/evermusic-guide-connections" >}}
 
-  {{< card icon="collection" title="Hudobná knižnica" subtitle="Organizujte a prezerajte si svoje skladby, albumy a interpretov v Hudobnej knižnici." link="/docs/guide/evermusic/evermusic-guide-music-library" >}}
+  {{< ls-card icon="collection" title="Hudobná knižnica" subtitle="Organizujte a prezerajte si svoje skladby, albumy a interpretov v Hudobnej knižnici." link="/docs/guide/evermusic/evermusic-guide-music-library" >}}
 
-  {{< card icon="music-note" title="Prehrávače" subtitle="Vytvárajte a usporiadajte playlisty podľa svojej nálady alebo príležitosti." link="/docs/guide/evermusic/evermusic-guide-playlists" >}}
+  {{< ls-card icon="music-note" title="Prehrávače" subtitle="Vytvárajte a usporiadajte playlisty podľa svojej nálady alebo príležitosti." link="/docs/guide/evermusic/evermusic-guide-playlists" >}}
 
-  {{< card icon="folder" title="Lokálne súbory" subtitle="Pristupujte a spravujte offline hudbu v sekcii Lokálne súbory." link="/docs/guide/evermusic/evermusic-guide-local-files" >}}
+  {{< ls-card icon="folder" title="Lokálne súbory" subtitle="Pristupujte a spravujte offline hudbu v sekcii Lokálne súbory." link="/docs/guide/evermusic/evermusic-guide-local-files" >}}
 
-  {{< card icon="play" title="Audio prehrávač" subtitle="Ovládajte prehrávanie, front a zvukové nastavenia ako ekvalizér a časovač spánku." link="/docs/guide/evermusic/evermusic-guide-player" >}}
+  {{< ls-card icon="play" title="Audio prehrávač" subtitle="Ovládajte prehrávanie, front a zvukové nastavenia ako ekvalizér a časovač spánku." link="/docs/guide/evermusic/evermusic-guide-player" >}}
 
-  {{< card icon="adjustments" title="Nastavenia" subtitle="Prispôsobte vzhľad, funkcie a výkonnostné nastavenia Evermusic." link="/docs/guide/evermusic/evermusic-guide-settings" >}}
+  {{< ls-card icon="adjustments" title="Nastavenia" subtitle="Prispôsobte vzhľad, funkcie a výkonnostné nastavenia Evermusic." link="/docs/guide/evermusic/evermusic-guide-settings" >}}
 
-  {{< card icon="question-mark-circle" title="FAQ" subtitle="Nájdite rýchle odpovede na bežné otázky v našej sekcii FAQ." link="/docs/faq/evermusic" >}}
+  {{< ls-card icon="question-mark-circle" title="FAQ" subtitle="Nájdite rýchle odpovede na bežné otázky v našej sekcii FAQ." link="/docs/faq/evermusic" >}}
 {{< /cards >}}

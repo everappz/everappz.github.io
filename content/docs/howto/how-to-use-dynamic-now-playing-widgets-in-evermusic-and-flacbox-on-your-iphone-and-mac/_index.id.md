@@ -7,7 +7,7 @@ tags: ["widget", "ios17", "dinamis", "sedang diputar", "layar beranda", "sonoma"
 keywords: ["widget Evermusic", "widget Flacbox", "widget Sedang Diputar iOS", "widget desktop macOS Sonoma", "penanda halaman audio iPhone", "widget musik Evermusic", "kontrol pemutaran layar beranda", "widget dinamis iOS 17"]
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **Ringkasan:** Evermusic dan Flacbox menawarkan widget interaktif Sedang Diputar di iOS 17+ dan macOS 14 Sonoma+. Anda dapat mengontrol pemutaran, melewati trek, menambahkan favorit, dan membuat penanda halaman audio langsung dari layar beranda iPhone atau desktop Mac Anda — tanpa perlu membuka aplikasi.
@@ -78,22 +78,22 @@ Nikmati pembaruannya, dan selamat mendengarkan!
 
 ## Pertanyaan yang Sering Diajukan
 
-{{% details title="Apakah widget bekerja tanpa membuka aplikasi?" closed="true" %}}
+{{% ls-details title="Apakah widget bekerja tanpa membuka aplikasi?" closed="true" %}}
 Ya. Di iOS 17 dan macOS 14 Sonoma, tombol widget bersifat interaktif dan mengontrol pemutaran secara langsung. Aplikasi tidak perlu berada di latar depan.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Ukuran widget mana yang harus saya pilih?" closed="true" %}}
+{{% ls-details title="Ukuran widget mana yang harus saya pilih?" closed="true" %}}
 Pilih Kecil untuk putar/jeda dasar dan favorit. Pilih Sedang jika Anda ingin tombol lewati. Pilih Besar jika Anda juga ingin penanda halaman audio.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Bisakah saya menggunakan widget untuk melanjutkan buku audio?" closed="true" %}}
+{{% ls-details title="Bisakah saya menggunakan widget untuk melanjutkan buku audio?" closed="true" %}}
 Ya. Aktifkan "Simpan Status Pemutar Audio" di Pengaturan, dan widget akan melanjutkan pemutaran dari posisi terakhir Anda bahkan setelah aplikasi ditutup.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Apakah widget tersedia di iPad?" closed="true" %}}
+{{% ls-details title="Apakah widget tersedia di iPad?" closed="true" %}}
 Ya. iPadOS 17 mendukung widget interaktif yang sama seperti iPhone.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Apakah Evermusic dan Flacbox memiliki widget ini?" closed="true" %}}
+{{% ls-details title="Apakah Evermusic dan Flacbox memiliki widget ini?" closed="true" %}}
 Ya. Widget Sedang Diputar tersedia di Evermusic dan Flacbox dengan fungsionalitas yang identik.
-{{% /details %}}
+{{% /ls-details %}}

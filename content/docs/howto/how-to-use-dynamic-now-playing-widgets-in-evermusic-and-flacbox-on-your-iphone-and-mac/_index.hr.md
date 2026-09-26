@@ -7,7 +7,7 @@ tags: ["widgeti", "ios17", "dinamički", "sada se reproducira", "početni zaslon
 keywords: ["Evermusic widget", "Flacbox widget", "Sada se reproducira widget iOS", "macOS Sonoma widget radne površine", "audio zabilješke iPhone", "glazbeni widget Evermusic", "upravljanje reprodukcijom početni zaslon", "dinamički widgeti iOS 17"]
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **Ukratko:** Evermusic i Flacbox nude interaktivne widgete Sada se reproducira na iOS 17+ i macOS 14 Sonoma+. Možete upravljati reprodukcijom, preskakati pjesme, dodavati omiljene i stvarati audio zabilješke izravno s početnog zaslona iPhonea ili radne površine Maca — bez potrebe za otvaranjem aplikacije.
@@ -78,22 +78,22 @@ Uživajte u ažuriranju i sretno slušanje!
 
 ## Često postavljana pitanja
 
-{{% details title="Rade li widgeti bez otvaranja aplikacije?" closed="true" %}}
+{{% ls-details title="Rade li widgeti bez otvaranja aplikacije?" closed="true" %}}
 Da. Na iOS 17 i macOS 14 Sonoma, gumbi widgeta su interaktivni i upravljaju reprodukcijom izravno. Aplikacija ne mora biti u prvom planu.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Koju veličinu widgeta trebam odabrati?" closed="true" %}}
+{{% ls-details title="Koju veličinu widgeta trebam odabrati?" closed="true" %}}
 Odaberite Mali za osnovno reproduciranje/pauziranje i omiljene. Odaberite Srednji ako želite gumbe za preskakanje. Odaberite Veliki ako također želite audio zabilješke.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Mogu li koristiti widget za nastavak audioknjige?" closed="true" %}}
+{{% ls-details title="Mogu li koristiti widget za nastavak audioknjige?" closed="true" %}}
 Da. Omogućite "Spremi stanje audio playera" u Postavke, i widget će nastaviti reprodukciju od vaše zadnje pozicije čak i nakon zatvaranja aplikacije.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Jesu li widgeti dostupni na iPadu?" closed="true" %}}
+{{% ls-details title="Jesu li widgeti dostupni na iPadu?" closed="true" %}}
 Da. iPadOS 17 podržava iste interaktivne widgete kao iPhone.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Imaju li i Evermusic i Flacbox ove widgete?" closed="true" %}}
+{{% ls-details title="Imaju li i Evermusic i Flacbox ove widgete?" closed="true" %}}
 Da. Widget Sada se reproducira dostupan je u Evermusic i Flacbox s identičnom funkcionalnošću.
-{{% /details %}}
+{{% /ls-details %}}

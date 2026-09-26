@@ -55,17 +55,17 @@ Vær trygg på at dataene dine er sikre. Evertag gjør det mulig å angi et pass
 I denne veiledningen vil du oppdage hvordan du kan utnytte kraften til Evertag på iPhone, iPad og Mac, og gjøre musikkhåndteringsopplevelsen din sømløs og hyggelig.
 
 {{< cards >}}
-  {{< card icon="location-marker" title="Navigasjon" subtitle="Lær hvordan du enkelt navigerer i appen vår ved hjelp av fanelinjen (for iPhone-brukere) eller venstremenyen (for iPad- og Mac-brukere) for å få tilgang til og utforske alle appens funksjoner." link="/docs/guide/evertag/evertag-guide-navigation" >}}
+  {{< ls-card icon="location-marker" title="Navigasjon" subtitle="Lær hvordan du enkelt navigerer i appen vår ved hjelp av fanelinjen (for iPhone-brukere) eller venstremenyen (for iPad- og Mac-brukere) for å få tilgang til og utforske alle appens funksjoner." link="/docs/guide/evertag/evertag-guide-navigation" >}}
 
-  {{< card icon="cloud" title="Tilkoblinger" subtitle="Koble enkelt alle tilgjengelige skykontoer til de verdifulle lydfilene dine. Du kan til og med redigere nettfilene dine enkelt ved hjelp av den integrerte filbehandleren vår." link="/docs/guide/evertag/evertag-guide-connections" >}}
+  {{< ls-card icon="cloud" title="Tilkoblinger" subtitle="Koble enkelt alle tilgjengelige skykontoer til de verdifulle lydfilene dine. Du kan til og med redigere nettfilene dine enkelt ved hjelp av den integrerte filbehandleren vår." link="/docs/guide/evertag/evertag-guide-connections" >}}
 
-  {{< card icon="folder" title="Lokale filer" subtitle="Se og organiser filer som er lagret i appens dokumentmappe eller på enheten din. Bruk den innebygde filbehandleren til å redigere og administrere lydfilene dine enkelt." link="/docs/guide/evertag/evertag-guide-local-files" >}}
+  {{< ls-card icon="folder" title="Lokale filer" subtitle="Se og organiser filer som er lagret i appens dokumentmappe eller på enheten din. Bruk den innebygde filbehandleren til å redigere og administrere lydfilene dine enkelt." link="/docs/guide/evertag/evertag-guide-local-files" >}}
 
-  {{< card icon="pencil-alt" title="Tag-editor" subtitle="Mestre kunsten å manipulere lydfilmetadata. Finn ut hvordan du redigerer metadata, transformerer albumomslag og administrerer flere filer samtidig." link="/docs/guide/evertag/evertag-guide-tag-editor" >}}
+  {{< ls-card icon="pencil-alt" title="Tag-editor" subtitle="Mestre kunsten å manipulere lydfilmetadata. Finn ut hvordan du redigerer metadata, transformerer albumomslag og administrerer flere filer samtidig." link="/docs/guide/evertag/evertag-guide-tag-editor" >}}
 
-  {{< card icon="code" title="Tag-felttilordninger" subtitle="Utforsk den fullstendige listen over lyd-tag-felt som støttes av Evertag-appen, inkludert interne feltnavn og tilordninger på tvers av store metadataformater." link="/docs/guide/evertag/evertag-tag-field-mappings" >}}
+  {{< ls-card icon="code" title="Tag-felttilordninger" subtitle="Utforsk den fullstendige listen over lyd-tag-felt som støttes av Evertag-appen, inkludert interne feltnavn og tilordninger på tvers av store metadataformater." link="/docs/guide/evertag/evertag-tag-field-mappings" >}}
 
-  {{< card icon="adjustments" title="Innstillinger" subtitle="Oppdag hvordan du tilpasser appopplevelsen din, finjusterer ytelsen, administrerer databruk og tilpasser språk- og brukergrensesnittinnstillinger etter dine ønsker." link="/docs/guide/evertag/evertag-guide-settings" >}}
+  {{< ls-card icon="adjustments" title="Innstillinger" subtitle="Oppdag hvordan du tilpasser appopplevelsen din, finjusterer ytelsen, administrerer databruk og tilpasser språk- og brukergrensesnittinnstillinger etter dine ønsker." link="/docs/guide/evertag/evertag-guide-settings" >}}
 
-  {{< card icon="question-mark-circle" title="Ofte stilte spørsmål" subtitle="Finn raske svar på vanlige spørsmål i vår FAQ-seksjon." link="/docs/faq/evertag" >}}
+  {{< ls-card icon="question-mark-circle" title="Ofte stilte spørsmål" subtitle="Finn raske svar på vanlige spørsmål i vår FAQ-seksjon." link="/docs/faq/evertag" >}}
 {{< /cards >}}

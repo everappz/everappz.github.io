@@ -17,7 +17,7 @@ keywords: [
 readingTime: 3
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **Ukratko:** Povežite svoj iPhone ili iPad s Macom (ili PC-jem) USB kabelom. Na macOS Catalina i novijim verzijama koristite Finder. Na starijim verzijama macOS-a ili Windowsa koristite iTunes. Povucite datoteke u aplikaciju poput Evermusic, Flacbox ili Evertag za trenutni prijenos.
@@ -117,26 +117,26 @@ S iTunes dijeljenjem datoteka možete lako upravljati datotekama između računa
 
 ## Često postavljana pitanja
 
-{{% details title="Trebam li internetsku vezu za prijenos datoteka putem USB-a?" closed="true" %}}
+{{% ls-details title="Trebam li internetsku vezu za prijenos datoteka putem USB-a?" closed="true" %}}
 Ne. Dijeljenje datoteka radi isključivo putem USB kabelske veze između vašeg računala i iOS uređaja. Internet nije potreban.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Koje formate datoteka mogu prenijeti u Evermusic ili Flacbox?" closed="true" %}}
+{{% ls-details title="Koje formate datoteka mogu prenijeti u Evermusic ili Flacbox?" closed="true" %}}
 Obje aplikacije podržavaju širok raspon audio formata uključujući MP3, FLAC, AAC, WAV, AIFF, OGG, WMA i više. Provjerite dokumentaciju aplikacije za potpuni popis podržanih formata.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Zašto ne vidim karticu Datoteke u Finderu?" closed="true" %}}
+{{% ls-details title="Zašto ne vidim karticu Datoteke u Finderu?" closed="true" %}}
 Kartica Datoteke pojavljuje se samo kada vaš uređaj ima instaliranu barem jednu aplikaciju koja podržava dijeljenje datoteka. Instalirajte Evermusic, Flacbox ili Evertag, a zatim ponovno povežite uređaj.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Mogu li prenijeti datoteke bežično umjesto korištenja USB kabela?" closed="true" %}}
+{{% ls-details title="Mogu li prenijeti datoteke bežično umjesto korištenja USB kabela?" closed="true" %}}
 Da. Evermusic i Flacbox također podržavaju usluge pohrane u oblaku i Wi-Fi prijenos. Međutim, USB dijeljenje datoteka putem Findera ili iTunesa obično je brže za velike glazbene knjižnice.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Hoće li prijenos datoteka putem Findera prebrisati postojeće datoteke na mom uređaju?" closed="true" %}}
+{{% ls-details title="Hoće li prijenos datoteka putem Findera prebrisati postojeće datoteke na mom uređaju?" closed="true" %}}
 Ne. Nove datoteke dodaju se uz postojeće. Ako datoteka s istim imenom već postoji, macOS može automatski preimenovati novu datoteku.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Radi li ova metoda s Windows računalima?" closed="true" %}}
+{{% ls-details title="Radi li ova metoda s Windows računalima?" closed="true" %}}
 Da. Na Windowsima koristite iTunes za prijenos datoteka. Postupak je isti kao što je opisano u odjeljku iTunes iznad. Instalirajte iTunes iz Microsoft Storea ili s Appleove web stranice.
-{{% /details %}}
+{{% /ls-details %}}

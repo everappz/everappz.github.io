@@ -12,7 +12,7 @@ authors:
     image: "/images/about/artem-meleshko-founder-everappz.webp"
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 **요약:** Evermusic 6.8은 Aliyun Drive 및 Synology NAS 통합(QuickConnect 포함), 6가지 새로운 앨범 커버 스크롤 효과, 미니멀 전체 화면 플레이어, 드래그 앤 드롭 파일 관리, 더 빠른 앨범 아트 로딩을 추가합니다. iOS 및 macOS에서 지금 이용 가능합니다.
 
@@ -77,18 +77,18 @@ Evermusic 6.8은 세 가지 영역에 중점을 둡니다: 더 넓은 클라우�
 
 ## 자주 묻는 질문
 
-{{% details title="Synology NAS를 Evermusic에 어떻게 연결하나요?" closed="true" %}}
+{{% ls-details title="Synology NAS를 Evermusic에 어떻게 연결하나요?" closed="true" %}}
 연결 탭으로 이동하여 Synology를 선택하고 QuickConnectID를 입력하세요. Evermusic은 IP 주소나 VPN 설정 없이 직접 연결됩니다.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Aliyun Drive를 Evermusic과 무료로 사용할 수 있나요?" closed="true" %}}
+{{% ls-details title="Aliyun Drive를 Evermusic과 무료로 사용할 수 있나요?" closed="true" %}}
 네. Aliyun Drive 계정이 있으면 추가 비용 없이 Evermusic에 연결할 수 있습니다. 저장소 한도는 Aliyun Drive 플랜에 따라 다릅니다.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="앨범 커버 스크롤 스타일을 사용자 정의할 수 있나요?" closed="true" %}}
+{{% ls-details title="앨범 커버 스크롤 스타일을 사용자 정의할 수 있나요?" closed="true" %}}
 네. Settings > Audio Player > Personalization > Album Covers Scrolling Style로 이동하여 MacDoc, Linear, Rotary, Inverted Rotary, Cylinder 또는 CoverFlow 중에서 선택하세요.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="미니멀 플레이어 화면은 모든 기기에서 작동하나요?" closed="true" %}}
+{{% ls-details title="미니멀 플레이어 화면은 모든 기기에서 작동하나요?" closed="true" %}}
 네. 전체 화면 앨범 커버 스타일은 Evermusic 6.8 이상을 실행하는 모든 지원 iPhone, iPad 및 Mac에서 사용할 수 있습니다.
-{{% /details %}}
+{{% /ls-details %}}

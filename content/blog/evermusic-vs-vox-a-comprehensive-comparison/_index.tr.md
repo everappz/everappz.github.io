@@ -14,7 +14,7 @@ authors:
     image: "/images/about/artem-meleshko-founder-everappz.webp"
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 **Özet:** Evermusic 8 kategorinin 5'inde kazanır, 3'ü berabere. Daha geniş bulut depolama desteği (12+ hizmet, VOX Cloud'a karşı), yerleşik sesli kitap özellikleri, ID3 etiket düzenleyici ve kablosuz dosya aktarımı sunar. VOX, kendi özel bulutunu ve minimalist tasarımını tercih eden kullanıcılara hitap eder.
 
@@ -34,8 +34,8 @@ authors:
 | Erişilebilirlik (VoiceOver) | Evet | Evet | Berabere |
 
 {{< cards >}}
-  {{< card link="https://apps.apple.com/us/app/evermusic-cloud-music-player/id885367198" title="Evermusic İndir" icon="download" tag="Ücretsiz" >}}
-  {{< card link="https://apps.apple.com/us/app/vox-mp3-flac-music-player/id916215494" title="VOX İndir" icon="download" tag="Ücretsiz" >}}
+  {{< ls-card link="https://apps.apple.com/us/app/evermusic-cloud-music-player/id885367198" title="Evermusic İndir" icon="download" tag="Ücretsiz" >}}
+  {{< ls-card link="https://apps.apple.com/us/app/vox-mp3-flac-music-player/id916215494" title="VOX İndir" icon="download" tag="Ücretsiz" >}}
 {{< /cards >}}
 
 ## Bulut Depolama Desteği
@@ -107,18 +107,18 @@ Kendi müzik koleksiyonunu yöneten çoğu iOS kullanıcısı için Evermusic da
 
 ## Sık Sorulan Sorular
 
-{{% details title="Evermusic VOX'a iyi bir alternatif mi?" closed="true" %}}
+{{% ls-details title="Evermusic VOX'a iyi bir alternatif mi?" closed="true" %}}
 Evet. Evermusic, VOX'un yalnızca özel bulutuna kıyasla 12+ bulut depolama hizmetini destekler. Ayrıca VOX'un sahip olmadığı sesli kitap özellikleri, ID3 etiket düzenleme ve Wi-Fi dosya aktarımı sunar. Evermusic ücretsiz indirilir ve tek seferlik Premium yükseltme mevcuttur.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="VOX Dropbox veya Google Drive'ı destekliyor mu?" closed="true" %}}
+{{% ls-details title="VOX Dropbox veya Google Drive'ı destekliyor mu?" closed="true" %}}
 Hayır. VOX kendi özel bulut depolaması VOX Cloud'u kullanır. Dropbox, Google Drive veya OneDrive gibi üçüncü taraf hizmetlere bağlanmaz. Evermusic bunların hepsini ve daha fazlasını destekler.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Sesli kitaplar için hangi uygulama daha iyi: Evermusic mi VOX mu?" closed="true" %}}
+{{% ls-details title="Sesli kitaplar için hangi uygulama daha iyi: Evermusic mi VOX mu?" closed="true" %}}
 Evermusic sesli kitaplar için önemli ölçüde daha iyidir. Oynatma hızı kontrolü, otomatik konum kaydetme ve yer imi desteği içerir. VOX'un özel sesli kitap özellikleri yoktur.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Evermusic ile iPhone'da müzik etiketlerini düzenleyebilir miyim?" closed="true" %}}
+{{% ls-details title="Evermusic ile iPhone'da müzik etiketlerini düzenleyebilir miyim?" closed="true" %}}
 Evet. Evermusic, parça başlıklarını, sanatçı adlarını, albüm bilgilerini ve diğer meta verileri doğrudan iPhone veya iPad'inizde düzeltmenize olanak tanıyan yerleşik bir ID3 etiket düzenleyici içerir.
-{{% /details %}}
+{{% /ls-details %}}

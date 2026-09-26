@@ -7,12 +7,12 @@ tags: ["Evermusic", "Flacbox", "Visualizer", "Handleiding", "Milkdrop", "project
 readingTime: 9
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 **Kort antwoord:** [Evermusic](/products/evermusic) en [Flacbox](/products/flacbox) hebben beide een schermvullende **muziekvisualizer** die bewegende, kleurrijke visuals schildert in de maat van je muziek. Open hem vanuit de **Now Playing**-speler (**⋯ Meer > Visualisatie**) of vanuit **Instellingen > Visualisatie**, kies vervolgens een preset of **Auto** en tik op **Visualisatie starten**. Tik op het visualizerscherm één keer om de bediening te tonen of te verbergen en gebruik de pijlen **Vorige** en **Volgende** om de look te wijzigen. Hij gebruikt de bekende **Milkdrop (projectM)**-engine met **500 presets**, rendert met **OpenGL**, en werkt op **iPhone, iPad en Mac**. De stappen zijn in beide apps hetzelfde. De volledige stappen staan hieronder.
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Muziekvisualizer: Starfield Sectors-preset" image="/docs/howto/how-to-turn-on-a-music-visualizer-while-playing-music-on-iphone-ipad-mac/music-visualizer-starfield-sectors-preset.webp" imageStyle="border-radius: clamp(14px, 2vw, 28px);" >}}
+{{< ls-card title="" subtitle="Muziekvisualizer: Starfield Sectors-preset" image="/docs/howto/how-to-turn-on-a-music-visualizer-while-playing-music-on-iphone-ipad-mac/music-visualizer-starfield-sectors-preset.webp" imageStyle="border-radius: clamp(14px, 2vw, 28px);" >}}
 {{< /cards >}}
 
 ## Wat is de visualizer?
@@ -85,50 +85,50 @@ Hoe dan ook, de visuals reageren op precies de audio die je afspeelt, of dat nu 
 
 ## FAQ
 
-{{% details title="Hoe schakel ik de visualizer in Evermusic of Flacbox in?" closed="true" %}}
+{{% ls-details title="Hoe schakel ik de visualizer in Evermusic of Flacbox in?" closed="true" %}}
 Open de Now Playing-speler, tik op de ⋯ (Meer)-knop en kies Visualisatie. Je kunt hem ook openen vanuit Instellingen > Visualisatie. Kies vervolgens een preset (of Auto) en tik op Visualisatie starten. De stappen zijn in beide apps hetzelfde.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Waarop is de visualizer gebaseerd?" closed="true" %}}
+{{% ls-details title="Waarop is de visualizer gebaseerd?" closed="true" %}}
 Hij gebruikt de open-source projectM-engine, die Milkdrop-achtige presets afspeelt. Dit zijn de geanimeerde, muziekreactieve visuals die veel mensen kennen van desktop-muziekspelers. Zowel Evermusic als Flacbox bevatten 500 presets en tekenen ze met OpenGL.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Hoeveel visualizer-presets zijn er?" closed="true" %}}
+{{% ls-details title="Hoeveel visualizer-presets zijn er?" closed="true" %}}
 500 presets. Elk ervan is een andere geanimeerde scène, en je kunt er doorheen bewegen met de pijlen Volgende en Vorige, of de Auto-modus er voor je doorheen laten shuffelen.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Reageert de visualizer op de muziek?" closed="true" %}}
+{{% ls-details title="Reageert de visualizer op de muziek?" closed="true" %}}
 Ja. De visuals reageren in realtime op de audio die je afspeelt, dus de vormen, kleuren en beweging veranderen met de beat en energie van het nummer. Het werkt met lokale bestanden, cloud drives, mediaservers en internetradio.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Hoe wijzig ik de visualizer-preset?" closed="true" %}}
+{{% ls-details title="Hoe wijzig ik de visualizer-preset?" closed="true" %}}
 Tik één keer op het scherm om de bediening te tonen, en gebruik vervolgens de pijlen Vorige en Volgende onderaan om tussen presets te bewegen. De naam en teller bovenaan (bijvoorbeeld 429 / 500) werken bij terwijl je ze wijzigt. Je kunt ook in de Auto-modus starten om de app automatisch presets te laten overschakelen.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Wat is de Auto-modus?" closed="true" %}}
+{{% ls-details title="Wat is de Auto-modus?" closed="true" %}}
 De Auto-modus, gekozen vanuit de presetkiezer, shuffelt zelf door de presets, waarbij hij elke 30 seconden naar een nieuwe overschakelt met een soepele crossfade. Het is de gemakkelijkste manier om van de show te genieten zonder het scherm aan te raken.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Hoe verberg ik de bediening op het scherm?" closed="true" %}}
+{{% ls-details title="Hoe verberg ik de bediening op het scherm?" closed="true" %}}
 Tik één keer op het scherm om de bediening te verbergen voor een schone, schermvullende weergave, en tik opnieuw om die terug te halen. De bediening verbergt zichzelf ook na een paar seconden.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Werkt de visualizer op Mac?" closed="true" %}}
+{{% ls-details title="Werkt de visualizer op Mac?" closed="true" %}}
 Ja. Op Mac openen zowel Evermusic als Flacbox de visualizer in zijn eigen venster en tekenen hem met native desktop-OpenGL, zodat je dezelfde muziekreactieve Milkdrop-visuals op een groot scherm krijgt.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Werkt de visualizer op iPhone en iPad?" closed="true" %}}
+{{% ls-details title="Werkt de visualizer op iPhone en iPad?" closed="true" %}}
 Ja. Op iPhone en iPad draait hij schermvullend, getekend met OpenGL ES voor soepele animatie op Retina-schermen.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Dimt of vergrendelt mijn scherm terwijl de visualizer draait?" closed="true" %}}
+{{% ls-details title="Dimt of vergrendelt mijn scherm terwijl de visualizer draait?" closed="true" %}}
 Nee. De app houdt het scherm wakker terwijl de visualizer aan staat, zodat de show niet wordt onderbroken door het dimmen of vergrendelen van het scherm.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Onthoudt de app mijn gekozen preset?" closed="true" %}}
+{{% ls-details title="Onthoudt de app mijn gekozen preset?" closed="true" %}}
 Ja. De laatste preset die je hebt geselecteerd wordt opgeslagen en gemarkeerd in de presetkiezer, zodat het gemakkelijk is om terug te keren naar je favoriet.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Waar wordt de naam van de huidige preset getoond?" closed="true" %}}
+{{% ls-details title="Waar wordt de naam van de huidige preset getoond?" closed="true" %}}
 Bovenaan het midden van het visualizerscherm, samen met een teller zoals 429 / 500 die toont op welke preset je zit uit de volledige set. In de voorbeeldschermafbeelding is de preset Starfield Sectors.
-{{% /details %}}
+{{% /ls-details %}}

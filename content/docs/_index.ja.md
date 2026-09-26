@@ -4,7 +4,9 @@ title: 'ドキュメント'
 ---
 
 
-{{< lottie src="/images/juicy-json/juicy-girl-and-boy-searching-for-the-right-files.json" width="90%" >}}
+{{< ls-lottie src="/images/juicy-json/juicy-girl-and-boy-searching-for-the-right-files.json" width="90%" >}}
+
+{{< ls-docs-search >}}
 
 このセクションには、すべての Everappz アプリに関する役立つドキュメントが含まれています — セットアップ手順、機能の説明、高度なヒントなどが含まれます。
 
@@ -13,9 +15,9 @@ title: 'ドキュメント'
 ## 始めましょう
 
 {{< cards >}}
-  {{< card icon="book-open" link="/docs/guide" title="ユーザーガイド" >}}
-  {{< card icon="question-mark-circle" link="/docs/faq" title="よくある質問" >}}
-  {{< card icon="light-bulb" link="/docs/howto" title="使い方" >}}
+  {{< ls-card icon="book-open" link="/docs/guide" title="ユーザーガイド" >}}
+  {{< ls-card icon="question-mark-circle" link="/docs/faq" title="よくある質問" >}}
+  {{< ls-card icon="light-bulb" link="/docs/howto" title="使い方" >}}
 {{< /cards >}}
 
 - **ユーザーガイド** は、アプリのインストール、設定、最大限の活用をサポートします。
@@ -31,5 +33,5 @@ title: 'ドキュメント'
 サービスに関連する法的ポリシー、データ取り扱い方針、ユーザー契約については、以下の法的文書をご参照ください：
 
 {{< cards >}}
-  {{< card icon="document-text" link="/legal" title="法的センター" >}}
+  {{< ls-card icon="document-text" link="/legal" title="法的センター" >}}
 {{< /cards >}}

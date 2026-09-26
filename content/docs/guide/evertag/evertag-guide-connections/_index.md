@@ -17,7 +17,7 @@ readingTime: 11
 On this screen, you can connect various sources containing your audio files. You can integrate popular cloud services like Google Drive, Dropbox, OneDrive, iCloud, and others, as well as connect your Mac or PC. Additionally, you have the option to edit audio files located in Apple Time Capsule, WD Cloud Home, or any NAS that speaks SMB or WebDAV.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evertag Connections Screen" image="/docs/guide/evertag/img/connections.webp" >}}
+  {{< ls-card title="" subtitle="Evertag Connections Screen" image="/docs/guide/evertag/img/connections.webp" >}}
 {{< /cards >}}
 
 ## Quick access
@@ -153,7 +153,7 @@ Here's a breakdown of these actions:
 - **Grid/List View**: Switch between two viewing modes: table view and thumbnail view. The table view presents files in a list, while the thumbnail view displays visual representations of the files, making it easier to identify content at a glance.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evertag Cloud Folder Sort" image="/docs/guide/evertag/img/cloud-storage-sort.webp" >}}
+  {{< ls-card title="" subtitle="Evertag Cloud Folder Sort" image="/docs/guide/evertag/img/cloud-storage-sort.webp" >}}
 {{< /cards >}}
 
 ## Edit Online Files
@@ -165,7 +165,7 @@ When you need to manage multiple files within your cloud storage on this app, yo
 - **Perform Various Actions**: Once you've selected the files or folders you want to manage, you'll have access to several actions tailored to your needs:
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evertag File Select" image="/docs/guide/evertag/img/cloud-storage-file-select.webp" >}}
+  {{< ls-card title="" subtitle="Evertag File Select" image="/docs/guide/evertag/img/cloud-storage-file-select.webp" >}}
 {{< /cards >}}
 
 ## File actions
@@ -182,7 +182,7 @@ Tap on it to reveal a list of available actions:
 - **Delete**: Exercise caution with this action, as it permanently removes the file from your cloud storage. **This deletion cannot be undone**.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evertag File Options" image="/docs/guide/evertag/img/cloud-storage-file-options.webp" >}}
+  {{< ls-card title="" subtitle="Evertag File Options" image="/docs/guide/evertag/img/cloud-storage-file-options.webp" >}}
 {{< /cards >}}
 
 If the list of actions exceeds the available screen space, simply scroll down within the actions menu to access additional options.
@@ -198,5 +198,5 @@ For each folder in your cloud storage, you have various actions available. To ac
 - **Delete**: Be cautious with this action, as it permanently removes the folder and its contents from your cloud storage. **This action cannot be undone**.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evertag Folder Options" image="/docs/guide/evertag/img/cloud-storage-folder-options.webp" >}}
+  {{< ls-card title="" subtitle="Evertag Folder Options" image="/docs/guide/evertag/img/cloud-storage-folder-options.webp" >}}
 {{< /cards >}}

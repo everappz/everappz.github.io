@@ -12,7 +12,7 @@ authors:
     image: "/images/about/artem-meleshko-founder-everappz.webp"
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 **Flacbox 1.6** apporte de nouvelles fonctionnalités majeures au lecteur de musique FLAC pour iPhone et iPad.
 
@@ -68,18 +68,18 @@ Vous avez des retours ou des demandes de fonctionnalités ? Contactez-nous -- no
 
 ## Questions fréquemment posées
 
-{{% details title="Quels formats audio Flacbox prend-il en charge ?" closed="true" %}}
+{{% ls-details title="Quels formats audio Flacbox prend-il en charge ?" closed="true" %}}
 Flacbox prend en charge FLAC, ALAC, MP3, AAC, OGG, OPUS, WAV, AIFF, DSD et d'autres formats audio populaires. Tous les formats fonctionnent avec l'égaliseur intégré.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Puis-je lire de la musique depuis une carte SD sur mon iPhone ?" closed="true" %}}
+{{% ls-details title="Puis-je lire de la musique depuis une carte SD sur mon iPhone ?" closed="true" %}}
 Oui. Connectez une carte SD ou microSD à l'aide d'un adaptateur Lightning vers lecteur de carte SD. Flacbox détecte la carte automatiquement et vous permet de parcourir et lire les fichiers directement depuis le stockage externe.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Flacbox se synchronise-t-il automatiquement avec le stockage cloud ?" closed="true" %}}
+{{% ls-details title="Flacbox se synchronise-t-il automatiquement avec le stockage cloud ?" closed="true" %}}
 Oui. À partir de la version 1.6, Flacbox peut synchroniser automatiquement votre bibliothèque musicale depuis les dossiers cloud. Activez la synchronisation automatique dans les réglages et sélectionnez les dossiers à surveiller.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="L'égaliseur de Flacbox est-il personnalisable ?" closed="true" %}}
+{{% ls-details title="L'égaliseur de Flacbox est-il personnalisable ?" closed="true" %}}
 Oui. L'égaliseur 10 bandes vous permet d'ajuster les niveaux de fréquence individuels entre -12 dB et +12 dB. Vous pouvez utiliser les préréglages intégrés ou enregistrer vos propres paramètres personnalisés.
-{{% /details %}}
+{{% /ls-details %}}

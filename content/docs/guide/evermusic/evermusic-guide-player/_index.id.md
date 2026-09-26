@@ -17,7 +17,7 @@ Pemutar adalah layar aplikasi utama di mana Anda dapat mengontrol antrean pemuta
 ## Mengakses Pemutar
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Layar Pemutar Audio Evermusic" image="/docs/guide/evermusic/evermusic-guide-player/img/player-main.webp" >}}
+  {{< ls-card title="" subtitle="Layar Pemutar Audio Evermusic" image="/docs/guide/evermusic/evermusic-guide-player/img/player-main.webp" >}}
 {{< /cards >}}
 
 Anda dapat mengakses pemutar layar penuh dari tampilan mini-player. Di iPhone, Anda akan menemukan mini player di atas tab bar di layar utama. Di iPad atau Mac, dapat diakses dari menu kiri. Untuk menyembunyikan mini player, ketuk ikonnya dan geser ke bawah. Untuk menyembunyikan sepenuhnya pemutar layar penuh, cukup ketuk tombol tutup yang terletak di sudut kanan bawah.
@@ -44,7 +44,7 @@ Jika Anda ingin keacakan, opsi "Acak" adalah pilihan Anda. Ini mengacak urutan t
 ## Kontrol Volume
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Kontrol Volume dengan AirPlay dan Google Cast" image="/docs/guide/evermusic/evermusic-guide-player/img/player-volume-control.webp" >}}
+  {{< ls-card title="" subtitle="Kontrol Volume dengan AirPlay dan Google Cast" image="/docs/guide/evermusic/evermusic-guide-player/img/player-volume-control.webp" >}}
 {{< /cards >}}
 
 Temukan slider volume di layar Pengaturan Audio dengan mengetuk ikon suara di bawah kontrol pemutaran. Anda dapat mengubah volume menggunakan slider ini atau tombol volume standar di perangkat Anda. Selain itu, Anda akan menemukan beberapa tombol streaming yang berguna:
@@ -63,7 +63,7 @@ Di sisi lain, jika Anda lebih suka AirPlay, cari tombol AirPlay di bagian bawah 
 ## Equalizer Audio
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Equalizer Audio 10-Band" image="/docs/guide/evermusic/evermusic-guide-player/img/player-equalizer.webp" >}}
+  {{< ls-card title="" subtitle="Equalizer Audio 10-Band" image="/docs/guide/evermusic/evermusic-guide-player/img/player-equalizer.webp" >}}
 {{< /cards >}}
 
 Evermusic hadir dengan equalizer 10-band, lengkap dengan preset bergaya iPod, preamplifier, dan pengaturan equalizer manual. Untuk mengaktifkan equalizer, cukup ketuk tombol "Equalizer" di toolbar bawah dan aktifkan kontrol sakelar di sudut kanan atas. Anda dapat memilih dari berbagai preset equalizer yang telah ditentukan seperti "Akustik", "Bass Booster", "Klasik", dan lainnya. Jika Anda penggemar suara, Anda akan menghargai kemampuan untuk menyempurnakan setiap band frekuensi menggunakan slider. Silakan buat dan simpan preset equalizer audio Anda sendiri. Jika sebuah trek tidak cukup keras, Anda juga dapat menyesuaikan gain preamplifier. Kami memiliki petunjuk lebih rinci tentang cara menggunakan equalizer [di sini](/docs/howto/how-to-use-the-audio-equalizer-on-your-iphone-ipad-mac-with-evermusic-and-flacbox).
@@ -71,7 +71,7 @@ Evermusic hadir dengan equalizer 10-band, lengkap dengan preset bergaya iPod, pr
 ## Toolbar Mode Pemutar
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Toolbar Atas Pemutar dengan Pencarian dan Kecepatan" image="/docs/guide/evermusic/evermusic-guide-player/img/player-top-toolbar.webp" >}}
+  {{< ls-card title="" subtitle="Toolbar Atas Pemutar dengan Pencarian dan Kecepatan" image="/docs/guide/evermusic/evermusic-guide-player/img/player-top-toolbar.webp" >}}
 {{< /cards >}}
 
 Untuk beberapa gaya layar pemutar tertentu, Anda akan menemukan toolbar mode pemutar di bagian atas layar pemutar, tepat di bawah bilah navigasi. Toolbar yang berguna ini memiliki tiga tombol.
@@ -82,7 +82,7 @@ Untuk beberapa gaya layar pemutar tertentu, Anda akan menemukan toolbar mode pem
 ## Penanda Audio
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Penanda Audio untuk Buku Audio dan Kuliah" image="/docs/guide/evermusic/evermusic-guide-player/img/player-bookmarks.webp" >}}
+  {{< ls-card title="" subtitle="Penanda Audio untuk Buku Audio dan Kuliah" image="/docs/guide/evermusic/evermusic-guide-player/img/player-bookmarks.webp" >}}
 {{< /cards >}}
 
 Di sinilah Anda dapat membuat beberapa penanda untuk trek di perpustakaan musik Anda. Kami memiliki petunjuk lengkap tentang cara menggunakan penanda [di sini](/docs/howto/how-to-listen-to-audiobooks-on-iphone-ipad-mac-using-evermusic).
@@ -90,7 +90,7 @@ Di sinilah Anda dapat membuat beberapa penanda untuk trek di perpustakaan musik 
 ## Antrean Pemutar
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Antrean Pemutar" image="/docs/guide/evermusic/evermusic-guide-player/img/player-queue.webp" >}}
+  {{< ls-card title="" subtitle="Antrean Pemutar" image="/docs/guide/evermusic/evermusic-guide-player/img/player-queue.webp" >}}
 {{< /cards >}}
 
 Untuk mengakses antrean pemutar Anda, cukup ketuk tombol antrean pemutar yang terletak di toolbar bawah. Untuk memindahkan lagu dalam antrean, gunakan indikator pengurutan di dekat judul.
@@ -98,7 +98,7 @@ Untuk mengakses antrean pemutar Anda, cukup ketuk tombol antrean pemutar yang te
 ## Komentar / Lirik
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Komentar, Lirik Tertanam, dan File LRC" image="/docs/guide/evermusic/evermusic-guide-player/img/player-lyrics.webp" >}}
+  {{< ls-card title="" subtitle="Komentar, Lirik Tertanam, dan File LRC" image="/docs/guide/evermusic/evermusic-guide-player/img/player-lyrics.webp" >}}
 {{< /cards >}}
 
 Untuk melihat komentar trek dan lirik tertanam, serta file LRC, ikuti langkah-langkah berikut:
@@ -114,7 +114,7 @@ Kami memiliki petunjuk lengkap tentang cara melihat lirik [di sini](/docs/howto/
 ## Menu Opsi
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Menu Opsi untuk Item Antrean" image="/docs/guide/evermusic/evermusic-guide-player/img/player-queue-item-options-menu.webp" >}}
+  {{< ls-card title="" subtitle="Menu Opsi untuk Item Antrean" image="/docs/guide/evermusic/evermusic-guide-player/img/player-queue-item-options-menu.webp" >}}
 {{< /cards >}}
 
 Setiap lagu dalam antrean pemutar audio Anda memiliki menu dengan lebih banyak tindakan, yang dapat Anda akses dengan mengetuk tombol tiga titik di dekat judul lagu. Tindakan yang tersedia adalah:
@@ -153,7 +153,7 @@ Ketuk tombol lebih banyak tindakan "..." di sisi kiri judul lagu yang sedang dip
 ## Terbaru dan Favorit
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Lagu yang Baru Diputar dari Pemutar" image="/docs/guide/evermusic/evermusic-guide-player/img/player-recents.webp" >}}
+  {{< ls-card title="" subtitle="Lagu yang Baru Diputar dari Pemutar" image="/docs/guide/evermusic/evermusic-guide-player/img/player-recents.webp" >}}
 {{< /cards >}}
 
 Di layar pemutar, Anda dapat mengakses bagian 'Terbaru' dan 'Favorit' dengan mengetuk tombol Lebih Banyak Tindakan '…' dan memilih item menu yang sesuai. Di kedua bagian, Anda dapat mencari lagu, memutar semua trek, mengacak semua trek, mengekspor daftar, dan menghapus daftar. Kami memiliki petunjuk terperinci tentang cara mengekspor daftar lagu [di sini](/docs/howto/export-tracks-collection-from-evermusic-flacbox-to-m3u-csv-txt/).
@@ -161,7 +161,7 @@ Di layar pemutar, Anda dapat mengakses bagian 'Terbaru' dan 'Favorit' dengan men
 ## Jendela Mini Player (Khusus Mac)
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Jendela Mini Player Mac" image="/docs/guide/evermusic/evermusic-guide-player/img/player-mini-mac.webp" >}}
+  {{< ls-card title="" subtitle="Jendela Mini Player Mac" image="/docs/guide/evermusic/evermusic-guide-player/img/player-mini-mac.webp" >}}
 {{< /cards >}}
 
 Untuk pengguna Mac, ada jendela mini-player yang berguna. Untuk mengaksesnya, cukup pindahkan kursor ke tepi kanan bawah jendela aplikasi dan ubah ukurannya ke ukuran terkecil yang mungkin. Kemudian, ketuk tombol ciutkan (digambarkan sebagai panah ke bawah) untuk mengaktifkan jendela mini-player. Jika Anda ingin mempertahankannya di atas jendela lain, buka bilah menu atas Mac, pilih 'Window,' dan pilih 'Show Window Always On Top.' Fitur ini sangat nyaman saat Anda mendengarkan kuliah audio dan tidak ingin ada gangguan.
@@ -169,7 +169,7 @@ Untuk pengguna Mac, ada jendela mini-player yang berguna. Untuk mengaksesnya, cu
 ## Pintasan Keyboard (Khusus Mac)
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Menu Pemutaran Bilah Status Mac dengan Pintasan Keyboard" image="/docs/guide/evermusic/evermusic-guide-player/img/player-mac-shortcuts.webp" >}}
+  {{< ls-card title="" subtitle="Menu Pemutaran Bilah Status Mac dengan Pintasan Keyboard" image="/docs/guide/evermusic/evermusic-guide-player/img/player-mac-shortcuts.webp" >}}
 {{< /cards >}}
 
 Untuk pengguna Mac, tersedia menu pemutaran sistem di bilah status dengan pintasan keyboard. Misalnya, untuk Memutar/Menjeda, cukup ketuk tombol spasi di keyboard. Pintasan untuk Berhenti, Lagu Berikutnya, Lagu Sebelumnya, Lewati Waktu, Ulangi, Acak, dan Kecepatan Pemutaran tersedia seperti yang ditunjukkan dalam screenshot.
@@ -177,7 +177,7 @@ Untuk pengguna Mac, tersedia menu pemutaran sistem di bilah status dengan pintas
 ## Pengaturan Pemutar Audio
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Pengaturan Pemutar Audio" image="/docs/guide/evermusic/evermusic-guide-player/img/player-settings.webp" >}}
+  {{< ls-card title="" subtitle="Pengaturan Pemutar Audio" image="/docs/guide/evermusic/evermusic-guide-player/img/player-settings.webp" >}}
 {{< /cards >}}
 
 Untuk mengakses pengaturan pemutar audio, ketuk tombol Lebih di layar pemutar audio dan pilih "Pengaturan" dari menu tarik-turun. Di sini, Anda akan menemukan berbagai bagian yang dikelompokkan berdasarkan fungsionalitas:

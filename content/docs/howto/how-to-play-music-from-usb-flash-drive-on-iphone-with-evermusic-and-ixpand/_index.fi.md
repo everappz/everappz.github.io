@@ -7,7 +7,7 @@ tags: ["musiikki", "usb", "ulkoinen", "ixpand", "sandisk", "iphone", "evermusic"
 readingTime: 3
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **Yhteenveto:** Evermusic mahdollistaa musiikin toistamisen suoraan SanDisk iXpand Flash Drive -muistitikulta iPhonella tai iPadilla. Liitä asema, avaa Evermusic ja aloita kuuntelu -- tiedostoja ei tarvitse kopioida laitteellesi. Tukee tiedostonhallintaa, soittolistoja, taajuuskorjainta ja AirPlay-suoratoistoa.
@@ -69,22 +69,22 @@ Evermusicin ja SanDisk iXpand Flash Drive -aseman avulla sinulla on vapaus nautt
 
 ## UKK
 
-{{% details title="Mitä iXpand Flash Drive -malleja Evermusic tukee?" closed="true" %}}
+{{% ls-details title="Mitä iXpand Flash Drive -malleja Evermusic tukee?" closed="true" %}}
 Evermusic tukee SanDisk iXpand Flash Drive -asemia protokollilla V1, V2, V3, V6 ja V7. Voit tarkistaa yhteensopivuuden iPhonesi Asetuksista kohdasta Yleinen > Tietoja > iXpand Flash Drive.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Voinko toistaa musiikkia USB-asemalta kopioimatta tiedostoja iPhoneeni?" closed="true" %}}
+{{% ls-details title="Voinko toistaa musiikkia USB-asemalta kopioimatta tiedostoja iPhoneeni?" closed="true" %}}
 Kyllä. Evermusic toistaa äänitiedostoja suoraan iXpand Flash Drive -asemalta. Mitään ei tarvitse kopioida laitteesi sisäiseen tallennustilaan.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Mitä ääniformaatteja Evermusic tukee USB-asemilta?" closed="true" %}}
+{{% ls-details title="Mitä ääniformaatteja Evermusic tukee USB-asemilta?" closed="true" %}}
 Evermusic tukee kaikkia yleisiä ääniformaatteja mukaan lukien MP3, FLAC, AAC, WAV, AIFF, OGG ja muut. Mikä tahansa iXpand-asemallesi tallennettu äänitiedosto voidaan toistaa suoraan.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Voinko suoratoistaa musiikkia iXpand-asemalta AirPlay-kaiuttimiin?" closed="true" %}}
+{{% ls-details title="Voinko suoratoistaa musiikkia iXpand-asemalta AirPlay-kaiuttimiin?" closed="true" %}}
 Kyllä. Toistaessasi musiikkia USB-asemalta voit suoratoistaa ääntä AirPlay-yhteensopiviin laitteisiin kuten Sonos-kaiuttimiin, Apple TV:hen ja Google Chromecastiin.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Mitä minun pitäisi tehdä, jos iXpand-asemaani ei tunnisteta?" closed="true" %}}
+{{% ls-details title="Mitä minun pitäisi tehdä, jos iXpand-asemaani ei tunnisteta?" closed="true" %}}
 Varmista, etteivät muut sovellukset käytä asemaa. Kokeile irrottaa se ja liittää uudelleen. Jos malliasi ei tueta, käytä Apple Lightning-USB-adapteria aseman liittämiseen tavallisena USB-laitteena.
-{{% /details %}}
+{{% /ls-details %}}

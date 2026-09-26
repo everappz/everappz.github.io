@@ -12,7 +12,7 @@ authors:
     image: "/images/about/artem-meleshko-founder-everappz.webp"
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 **Podsumowanie:** Flacbox przekroczył 1 milion pobrań na całym świecie. Obsługuje FLAC, ALAC, APE, DSD i inne formaty bezstratne z 10-pasmowym equalizerem, listami odtwarzania M3U/CUE, odtwarzaniem offline i synchronizacją między urządzeniami na iPhone, iPad i Mac.
 
@@ -78,26 +78,26 @@ Nadchodzący rozwój skupia się na:
 
 ## Często Zadawane Pytania
 
-{{% details title="Jakie formaty audio obsługuje Flacbox?" closed="true" %}}
+{{% ls-details title="Jakie formaty audio obsługuje Flacbox?" closed="true" %}}
 Flacbox odtwarza FLAC, ALAC, APE, DSD, WavPack, TTA, RealAudio, MP3, AAC, OGG i wiele innych formatów. Jest zaprojektowany głównie dla audio bezstratnego i hi-res.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Czy Flacbox ma equalizer?" closed="true" %}}
+{{% ls-details title="Czy Flacbox ma equalizer?" closed="true" %}}
 Tak. Flacbox zawiera 10-pasmowy equalizer z presetami gatunkowymi i ręczną regulacją częstotliwości.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Czy mogę słuchać muzyki offline z Flacbox?" closed="true" %}}
+{{% ls-details title="Czy mogę słuchać muzyki offline z Flacbox?" closed="true" %}}
 Tak. Pobierz pliki z chmury lub prześlij je bezpośrednio do aplikacji do odtwarzania offline bez połączenia z internetem.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Czy Flacbox działa na Macu?" closed="true" %}}
+{{% ls-details title="Czy Flacbox działa na Macu?" closed="true" %}}
 Tak. Flacbox działa na iPhonie, iPadzie i Macu z zsynchronizowanymi bibliotekami i historią odtwarzania na wszystkich urządzeniach.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Czym jest obsługa arkuszy CUE?" closed="true" %}}
+{{% ls-details title="Czym jest obsługa arkuszy CUE?" closed="true" %}}
 Arkusze CUE definiują granice utworów w pojedynczym pliku audio. Flacbox odczytuje pliki CUE, aby podzielić kopie albumów na poszczególne utwory z prawidłowymi metadanymi.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Czy Flacbox jest darmowy?" closed="true" %}}
+{{% ls-details title="Czy Flacbox jest darmowy?" closed="true" %}}
 Flacbox jest darmowy do pobrania z opcjonalnymi funkcjami premium dostępnymi poprzez zakup w aplikacji.
-{{% /details %}}
+{{% /ls-details %}}

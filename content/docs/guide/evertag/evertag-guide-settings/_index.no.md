@@ -21,7 +21,7 @@ På dette skjermbildet kan du få tilgang til applikasjonsinnstillingene og oppg
 - **Juridisk og personvern** — Vilkår, Personvernregler, Juridiske merknader, Analytics og datainnsamling
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evertag Innstillinger-skjerm" image="/docs/guide/evertag/img/settings.webp" >}}
+  {{< ls-card title="" subtitle="Evertag Innstillinger-skjerm" image="/docs/guide/evertag/img/settings.webp" >}}
 {{< /cards >}}
 
 ## Oppgrader til Premium
@@ -63,7 +63,7 @@ Aktiverer passordbeskyttelsesskjermen hvis du vil beskytte applikasjonsdata.
 Filbehandleren støtter tilgang til tilkoblede skylagringskontoer og tilbyr batchoperasjoner for rask administrasjon av flere filer.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evertag Innstillinger Filbehandler-skjerm" image="/docs/guide/evertag/img/settings-file-manager.webp" >}}
+  {{< ls-card title="" subtitle="Evertag Innstillinger Filbehandler-skjerm" image="/docs/guide/evertag/img/settings-file-manager.webp" >}}
 {{< /cards >}}
 
 ### Filoverføringer
@@ -103,7 +103,7 @@ Tøm applikasjonens cache-mappe for å gjenvinne lagringsplass.
 I denne seksjonen kan du konfigurere den innebygde lyd-tag-editoren.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evertag Innstillinger Tag-editor-skjerm" image="/docs/guide/evertag/img/settings-tag-editor.webp" >}}
+  {{< ls-card title="" subtitle="Evertag Innstillinger Tag-editor-skjerm" image="/docs/guide/evertag/img/settings-tag-editor.webp" >}}
 {{< /cards >}}
 
 ### Skalering av albumomslag
@@ -136,7 +136,7 @@ I denne seksjonen kan du aktivere WiFi Drive-funksjonen, som lar deg overføre f
 I denne seksjonen kan du tilpasse brukergrensesnittinnstillingene etter dine preferanser.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evertag Innstillinger Personalisering-skjerm" image="/docs/guide/evertag/img/settings-personalization.webp" >}}
+  {{< ls-card title="" subtitle="Evertag Innstillinger Personalisering-skjerm" image="/docs/guide/evertag/img/settings-personalization.webp" >}}
 {{< /cards >}}
 
 ### App-ikon

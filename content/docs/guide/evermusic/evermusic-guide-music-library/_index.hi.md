@@ -15,7 +15,7 @@ readingTime: 11
 Evermusic के साथ अपनी music library manage करना आसान है, जहां आप अपने सभी tracks को effortlessly organize कर सकते हैं। आपके पास अपनी music library build करने के दो options हैं: manual addition या automatic synchronization।
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evermusic Music Library स्क्रीन" image="/docs/guide/evermusic/evermusic-guide-music-library/img/music-library-main.webp" >}}
+  {{< ls-card title="" subtitle="Evermusic Music Library स्क्रीन" image="/docs/guide/evermusic/evermusic-guide-music-library/img/music-library-main.webp" >}}
 {{< /cards >}}
 
 ## Manual Addition
@@ -23,7 +23,7 @@ Evermusic के साथ अपनी music library manage करना आस
 Tracks manually add करने के लिए, "Add music" menu item पर टैप करें और connected cloud storage service या आपके device पर located files से folders/files select करें। जब आप library में tracks add करते हैं, तो केवल उन tracks के links create होते हैं, actual files उनके original locations पर preserve होती हैं जो valuable disk space बचाता है। अगर आप tracks offline उपलब्ध करना चाहते हैं, तो आप options menu से download action का उपयोग कर सकते हैं या playlists और track collections के लिए offline mode enable कर सकते हैं।
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Music Library में Songs जोड़ें" image="/docs/guide/evermusic/evermusic-guide-music-library/img/music-library-add-songs.webp" >}}
+  {{< ls-card title="" subtitle="Music Library में Songs जोड़ें" image="/docs/guide/evermusic/evermusic-guide-music-library/img/music-library-add-songs.webp" >}}
 {{< /cards >}}
 
 ## Quick Access
@@ -75,7 +75,7 @@ Music library menu के top पर, आपको एक quick access section �
 Navigation bar के ठीक नीचे located, top toolbar कई convenient actions offer करता है: "खोजें," "सभी चलाएं," "सभी फेरबदल करें," और "Continue playback।" आप इस toolbar को simple swipe-down gesture के साथ reveal या hide कर सकते हैं।
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Albums View — Music Tags द्वारा Grouped" image="/docs/guide/evermusic/evermusic-guide-music-library/img/music-library-albums.webp" >}}
+  {{< ls-card title="" subtitle="Albums View — Music Tags द्वारा Grouped" image="/docs/guide/evermusic/evermusic-guide-music-library/img/music-library-albums.webp" >}}
 {{< /cards >}}
 
 ## खोजें
@@ -83,7 +83,7 @@ Navigation bar के ठीक नीचे located, top toolbar कई conveni
 Search feature आपको अपनी music library के भीतर specific track, artist, album, या genre locate करने में empower करता है। "Search screen" के भीतर, आपको निम्नलिखित actions access हैं: "Sort," "Filter," "Grid/List।"
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Music Library Search Results" image="/docs/guide/evermusic/evermusic-guide-music-library/img/music-library-search.webp" >}}
+  {{< ls-card title="" subtitle="Music Library Search Results" image="/docs/guide/evermusic/evermusic-guide-music-library/img/music-library-search.webp" >}}
 {{< /cards >}}
 
 ## Options Menu
@@ -91,7 +91,7 @@ Search feature आपको अपनी music library के भीतर speci
 आपकी music library का हर song एक more actions menu boast करता है, song title के पास three dots button टैप करके accessed। ये actions depend करती हैं कि यह single song है या collection का हिस्सा।
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Library Item के लिए अधिक क्रियाएँ" image="/docs/guide/evermusic/evermusic-guide-music-library/img/music-library-item-more-actions.webp" >}}
+  {{< ls-card title="" subtitle="Library Item के लिए अधिक क्रियाएँ" image="/docs/guide/evermusic/evermusic-guide-music-library/img/music-library-item-more-actions.webp" >}}
 {{< /cards >}}
 
 ### Individual Songs के लिए
@@ -125,7 +125,7 @@ Albums, Artists, Genres, या Composers जैसी song collections के �
 आप top right corner में More Actions button का उपयोग करके selection mode activate कर सकते हैं। इस mode में, आप multiple tracks select कर सकते हैं और विभिन्न actions perform कर सकते हैं।
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Music Library में Selection Mode" image="/docs/guide/evermusic/evermusic-guide-music-library/img/music-library-selection-mode.webp" >}}
+  {{< ls-card title="" subtitle="Music Library में Selection Mode" image="/docs/guide/evermusic/evermusic-guide-music-library/img/music-library-selection-mode.webp" >}}
 {{< /cards >}}
 
 ## Tags Grouping
@@ -145,7 +145,7 @@ Albums, Artists, Genres, या Composers जैसी song collections के �
 जब आप Artist, Album Artist, या Composer sections खोलते हैं, तो आप Songs/All Albums/Exclusive Albums/Solo Albums के लिए एक switcher देख सकते हैं।
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Songs / All / Exclusive / Solo Switcher के साथ Album Detail" image="/docs/guide/evermusic/evermusic-guide-music-library/img/music-library-album-details.webp" >}}
+  {{< ls-card title="" subtitle="Songs / All / Exclusive / Solo Switcher के साथ Album Detail" image="/docs/guide/evermusic/evermusic-guide-music-library/img/music-library-album-details.webp" >}}
 {{< /cards >}}
 
 - **Songs**: सभी songs display करता है जहां यह Artist/Album Artist/Composer audio tags में set है।
@@ -166,7 +166,7 @@ Albums, Artists, Genres, या Composers जैसी song collections के �
 अपनी music library preferences configure करने के लिए "सेटिंग्स" menu item टैप करें।
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Music Library सेटिंग्स" image="/docs/guide/evermusic/evermusic-guide-music-library/img/music-library-settings.webp" >}}
+  {{< ls-card title="" subtitle="Music Library सेटिंग्स" image="/docs/guide/evermusic/evermusic-guide-music-library/img/music-library-settings.webp" >}}
 {{< /cards >}}
 
 #### Metadata Reading

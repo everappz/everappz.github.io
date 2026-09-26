@@ -7,7 +7,7 @@ tags: ["musik", "audio", "pemutar", "offline", "mode", "unduh", "folder", "cache
 keywords: ["musik offline iPhone", "sinkronisasi musik cloud", "Evermusic offline", "Flacbox sinkronkan musik", "putar musik tanpa internet", "unduh audio dari cloud", "pemutaran file lokal iOS"]
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **Ringkasan:** Evermusic dan Flacbox memungkinkan Anda mengunduh musik dari penyimpanan cloud (Google Drive, Dropbox, OneDrive, dan lainnya) ke iPhone atau iPad Anda untuk pemutaran offline. Anda dapat menggunakan tiga metode: unduh langsung, mode offline dengan sinkronisasi otomatis, atau cache pemutar audio. Panduan ini mencakup ketiga pendekatan langkah demi langkah.
@@ -140,26 +140,26 @@ Dengan mengikuti langkah-langkah terperinci ini, Anda dapat mengelola dan memuta
 
 ## Pertanyaan yang Sering Diajukan
 
-{{% details title="Layanan cloud apa yang didukung Evermusic dan Flacbox?" closed="true" %}}
+{{% ls-details title="Layanan cloud apa yang didukung Evermusic dan Flacbox?" closed="true" %}}
 Kedua aplikasi mendukung Google Drive, Dropbox, OneDrive, Box, MEGA, Yandex.Disk, dan penyedia penyimpanan cloud utama lainnya. Anda dapat menghubungkan beberapa layanan sekaligus.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Bisakah saya menyinkronkan musik secara otomatis dari penyimpanan cloud ke iPhone saya?" closed="true" %}}
+{{% ls-details title="Bisakah saya menyinkronkan musik secara otomatis dari penyimpanan cloud ke iPhone saya?" closed="true" %}}
 Ya. Aktifkan Mode Offline untuk folder, daftar putar, album, atau artis apa pun. Aplikasi melakukan sinkronisasi satu arah dari cloud ke perangkat pada interval yang dapat dikonfigurasi (default: sekali sehari).
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Apakah mode offline menggunakan banyak penyimpanan di perangkat saya?" closed="true" %}}
+{{% ls-details title="Apakah mode offline menggunakan banyak penyimpanan di perangkat saya?" closed="true" %}}
 Penggunaan penyimpanan tergantung pada ukuran koleksi musik Anda dan format file. Anda dapat mengontrol ini dengan memilih folder tertentu untuk disinkronkan, menetapkan batas ukuran cache, dan memantau penyimpanan di pengaturan aplikasi.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Format audio apa yang didukung untuk pemutaran offline?" closed="true" %}}
+{{% ls-details title="Format audio apa yang didukung untuk pemutaran offline?" closed="true" %}}
 Evermusic dan Flacbox mendukung MP3, FLAC, AAC, ALAC, WAV, AIFF, OGG, WMA, dan banyak format lainnya. Flacbox dioptimalkan untuk format lossless seperti FLAC dan ALAC.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Apakah musik offline saya akan terus diputar jika saya menutup aplikasi?" closed="true" %}}
+{{% ls-details title="Apakah musik offline saya akan terus diputar jika saya menutup aplikasi?" closed="true" %}}
 Ya. File yang diunduh disimpan secara lokal di perangkat Anda dan diputar melalui pemutar audio aplikasi terlepas dari konektivitas internet. Pemutaran latar belakang didukung sepenuhnya.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Bagaimana cara membebaskan ruang yang digunakan oleh musik offline?" closed="true" %}}
+{{% ls-details title="Bagaimana cara membebaskan ruang yang digunakan oleh musik offline?" closed="true" %}}
 Nonaktifkan Mode Offline untuk folder tertentu di **Pengaturan** > Pengelola File > **Folder offline yang disinkronkan**. Ini menghapus salinan lokal dari perangkat Anda. Anda juga dapat menghapus cache pemutar audio atau menghapus file yang diunduh secara manual.
-{{% /details %}}
+{{% /ls-details %}}

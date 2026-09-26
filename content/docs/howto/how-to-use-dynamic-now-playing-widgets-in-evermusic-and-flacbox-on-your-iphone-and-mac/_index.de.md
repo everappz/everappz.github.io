@@ -7,7 +7,7 @@ tags: ["Widgets", "ios17", "dynamisch", "Jetzt läuft", "Startbildschirm", "sono
 keywords: ["Evermusic Widget", "Flacbox Widget", "Jetzt läuft Widget iOS", "macOS Sonoma Desktop-Widget", "Audio-Lesezeichen iPhone", "Musik-Widget Evermusic", "Wiedergabesteuerung Startbildschirm", "dynamische Widgets iOS 17"]
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **Kurzfassung:** Evermusic und Flacbox bieten interaktive Jetzt läuft-Widgets auf iOS 17+ und macOS 14 Sonoma+. Sie können die Wiedergabe steuern, Titel überspringen, Favoriten hinzufügen und Audio-Lesezeichen direkt vom iPhone-Startbildschirm oder Mac-Desktop erstellen — ohne die App öffnen zu müssen.
@@ -78,22 +78,22 @@ Viel Spaß mit dem Update und fröhliches Hören!
 
 ## Häufig gestellte Fragen
 
-{{% details title="Funktionieren die Widgets, ohne die App zu öffnen?" closed="true" %}}
+{{% ls-details title="Funktionieren die Widgets, ohne die App zu öffnen?" closed="true" %}}
 Ja. Auf iOS 17 und macOS 14 Sonoma sind Widget-Tasten interaktiv und steuern die Wiedergabe direkt. Die App muss nicht im Vordergrund sein.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Welche Widget-Größe sollte ich wählen?" closed="true" %}}
+{{% ls-details title="Welche Widget-Größe sollte ich wählen?" closed="true" %}}
 Wählen Sie Klein für grundlegendes Abspielen/Pause und Favoriten. Wählen Sie Mittel, wenn Sie Überspringen-Tasten möchten. Wählen Sie Groß, wenn Sie auch Audio-Lesezeichen möchten.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Kann ich das Widget verwenden, um ein Hörbuch fortzusetzen?" closed="true" %}}
+{{% ls-details title="Kann ich das Widget verwenden, um ein Hörbuch fortzusetzen?" closed="true" %}}
 Ja. Aktivieren Sie "Audio-Player-Zustand speichern" in den Einstellungen, und das Widget setzt die Wiedergabe von Ihrer letzten Position fort, auch nachdem die App geschlossen wurde.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Sind die Widgets auf dem iPad verfügbar?" closed="true" %}}
+{{% ls-details title="Sind die Widgets auf dem iPad verfügbar?" closed="true" %}}
 Ja. iPadOS 17 unterstützt die gleichen interaktiven Widgets wie das iPhone.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Haben sowohl Evermusic als auch Flacbox diese Widgets?" closed="true" %}}
+{{% ls-details title="Haben sowohl Evermusic als auch Flacbox diese Widgets?" closed="true" %}}
 Ja. Das Jetzt läuft-Widget ist in Evermusic und Flacbox mit identischer Funktionalität verfügbar.
-{{% /details %}}
+{{% /ls-details %}}

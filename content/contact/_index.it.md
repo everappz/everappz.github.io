@@ -1,9 +1,10 @@
 ---
+excludeSearch: true
 date: '2025-06-12T17:00:00+00:00'
 title: 'Contattaci'
 ---
 
-{{< lottie src="/images/juicy-json/juicy-girl-typing-on-phone.json" width="60%" >}}
+{{< ls-lottie src="/images/juicy-json/juicy-girl-typing-on-phone.json" width="60%" >}}
 
 ## Indirizzo postale
 
@@ -27,4 +28,4 @@ Inviando un'email, confermi di aver letto e di accettare la nostra [Informativa 
 
 Seguici sui social network per ricevere le notizie più aggiornate, aggiornamenti delle app, consigli e informazioni utili:
 
-{{< social-cards >}}
+{{< ls-social-cards >}}

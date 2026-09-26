@@ -7,7 +7,7 @@ tags: ["glazba", "oblak", "streaming", "sinkronizacija", "icloud", "knjižnica"]
 keywords: ["uvoz iCloud glazbe Evermusic", "Flacbox iCloud sinkronizacija", "Evermusic streaming iz iCloud", "glazbena knjižnica iOS aplikacija", "Flacbox čitač metapodataka", "iCloud streaming glazbe iPhone"]
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **Sažetak:** Možete streamati svoju iCloud Drive glazbenu knjižnicu u Evermusic i Flacbox bez preuzimanja datoteka na svoj uređaj. Povežite iCloud Drive u aplikaciji, omogućite Online sinkronizaciju glazbe za izgradnju svoje knjižnice, konfigurirajte čitač metapodataka za organiziranje po izvođaču/albumu/žanru, i opcionalno omogućite Offline način rada za preuzimanje albuma za slušanje bez interneta. Ovi koraci također funkcioniraju s Google Drive, Dropbox, OneDrive i drugim podržanim oblačnim uslugama.
@@ -148,26 +148,26 @@ To je sve za danas! Nadamo se da će vam ovaj vodič pomoći konfigurirati sinkr
 
 ## Često postavljana pitanja
 
-{{% details title="Mogu li streamati iCloud glazbu bez preuzimanja datoteka na svoj iPhone?" closed="true" %}}
+{{% ls-details title="Mogu li streamati iCloud glazbu bez preuzimanja datoteka na svoj iPhone?" closed="true" %}}
 Da. Kada povežete iCloud Drive u Evermusic ili Flacbox i koristite Online sinkronizaciju glazbe, aplikacija stvara poveznice na vaše oblačne datoteke i streama ih na zahtjev. Datoteke se ne preuzimaju osim ako eksplicitno ne omogućite Offline način rada.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Zašto je uvoz iCloud glazbe spor u Flacbox ili Evermusic?" closed="true" %}}
+{{% ls-details title="Zašto je uvoz iCloud glazbe spor u Flacbox ili Evermusic?" closed="true" %}}
 Spor uvoz obično je uzrokovan čitanjem metapodataka velike knjižnice putem mobilne veze. Omogućite Sinkronizaciju u pozadini, pokrenite audio reprodukciju kako bi aplikacija ostala aktivna, i razmislite o korištenju Mac verzije za početnu sinkronizaciju velikih kolekcija.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Funkcionira li ovaj vodič s oblačnim uslugama osim iCloud-a?" closed="true" %}}
+{{% ls-details title="Funkcionira li ovaj vodič s oblačnim uslugama osim iCloud-a?" closed="true" %}}
 Da. Isti koraci primjenjuju se na Google Drive, Dropbox, OneDrive, SMB, WebDAV i sve ostale oblačne usluge koje podržavaju Evermusic i Flacbox.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Kako mogu prenijeti svoju glazbenu knjižnicu s Maca na iPhone?" closed="true" %}}
+{{% ls-details title="Kako mogu prenijeti svoju glazbenu knjižnicu s Maca na iPhone?" closed="true" %}}
 Koristite značajku sigurnosnog kopiranja/vraćanja podataka u postavkama aplikacije. Prvo sinkronizirajte i pročitajte metapodatke na Mac verziji, stvorite sigurnosnu kopiju, zatim je vratite na iOS verziju. To je najbrži način za postavljanje velike knjižnice na iPhoneu.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Hoće li čitač metapodataka promijeniti moje originalne audio datoteke?" closed="true" %}}
+{{% ls-details title="Hoće li čitač metapodataka promijeniti moje originalne audio datoteke?" closed="true" %}}
 Ne. Čitač metapodataka samo ažurira informacije o prikazu u vašoj glazbenoj knjižnici. Ne mijenja datoteke pohranjene u vašem oblačnom računu ili na vašem uređaju. Za uređivanje oznaka datoteka koristite ugrađeni uređivač oznaka.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Kako učiniti albume dostupnima offline?" closed="true" %}}
+{{% ls-details title="Kako učiniti albume dostupnima offline?" closed="true" %}}
 Koristite značajku Offline način rada. Dodirnite **Više radnji** na bilo kojoj oblačnoj mapi i odaberite **Omogućiti offline način rada**. Aplikacija preuzima sve datoteke i automatski ih održava sinkroniziranima s oblačnom verzijom.
-{{% /details %}}
+{{% /ls-details %}}

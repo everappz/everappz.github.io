@@ -12,7 +12,7 @@ authors:
     image: "/images/about/artem-meleshko-founder-everappz.webp"
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 **Podsumowanie:** Evermusic przekroczył 11 milionów pobrań na całym świecie. Kluczowe funkcje obejmują 10-pasmowy korektor, odtwarzanie offline, strumieniowanie z iCloud Drive, obsługę ponad 10 usług chmurowych, synchronizację między urządzeniami oraz wbudowany edytor tagów ID3.
 
@@ -70,22 +70,22 @@ Evermusic jest stworzony dla każdego, kto przechowuje muzykę w chmurze lub na 
 
 ## FAQ
 
-{{% details title="Jakie formaty audio obsługuje Evermusic?" closed="true" %}}
+{{% ls-details title="Jakie formaty audio obsługuje Evermusic?" closed="true" %}}
 Evermusic odtwarza MP3, FLAC, WAV, AAC, M4A, AIFF, OGG, WMA i inne popularne formaty audio.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Czy mogę używać Evermusic bez połączenia z internetem?" closed="true" %}}
+{{% ls-details title="Czy mogę używać Evermusic bez połączenia z internetem?" closed="true" %}}
 Tak. Pobierz utwory z chmury do odtwarzania offline. Po pobraniu internet nie jest wymagany.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Czy Evermusic działa na Macu?" closed="true" %}}
+{{% ls-details title="Czy Evermusic działa na Macu?" closed="true" %}}
 Tak. Evermusic jest dostępny zarówno na iOS (iPhone/iPad), jak i macOS, z synchronizacją biblioteki na wszystkich urządzeniach.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Czy Evermusic jest darmowy do pobrania?" closed="true" %}}
+{{% ls-details title="Czy Evermusic jest darmowy do pobrania?" closed="true" %}}
 Tak. Evermusic jest darmowy do pobrania z opcjonalnymi funkcjami premium dostępnymi przez zakupy w aplikacji.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Jak działa strumieniowanie z iCloud Drive w Evermusic?" closed="true" %}}
+{{% ls-details title="Jak działa strumieniowanie z iCloud Drive w Evermusic?" closed="true" %}}
 Połącz swoje konto iCloud Drive w aplikacji, przeglądaj pliki muzyczne i dotknij, aby odtworzyć. Utwory są strumieniowane bezpośrednio bez konieczności wcześniejszego pobierania.
-{{% /details %}}
+{{% /ls-details %}}

@@ -7,7 +7,7 @@ tags: ["دليل المستخدم", "شرح التطبيق", "evermusic", "flacb
 ---
 
 
-{{< lottie src="/images/juicy-json/juicy-woman-with-graph-chart.json" width="75%" >}}
+{{< ls-lottie src="/images/juicy-json/juicy-woman-with-graph-chart.json" width="75%" >}}
 
 ## تعلم كيفية استخدام تطبيقاتنا
 
@@ -19,4 +19,4 @@ tags: ["دليل المستخدم", "شرح التطبيق", "evermusic", "flacb
 
 ## اختر منتجك
 
-{{< product-doc-cards section="guide" >}}
+{{< ls-product-doc-cards section="guide" >}}

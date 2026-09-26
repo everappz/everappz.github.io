@@ -12,7 +12,7 @@ authors:
     image: "/images/about/artem-meleshko-founder-everappz.webp"
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 **Röviden:** Az [Evermusic 8.7](/products/evermusic) egy hangminőségre fókuszáló kiadás iPhone-ra, iPadre és Mac-re. **Valódi szünetmentes lejátszást** hoz (nincs szünet, kattanás vagy pattanás a számok között), egy teljes **stúdiós hangeffekt-készletet** — zengetés, visszhang, torzítás, kompresszor és keresztátfedés — valamint **EBU R128 hangerő-normalizálást**, amely ReplayGain-címkék nélkül tartja állandón a hangosságot dalról dalra. A **10 sávos hangszínszabályzót** új csúszkákkal, gyorsabb előbeállítás-váltással, importálható és exportálható egyéni előbeállításokkal, valamint jobb fekvő és iPad-elrendezéssel tervezték újra. A háttérben egy **újraépített AVAudioEngine streaming motor** javítja a megbízhatóságot és a formátumtámogatást, beleértve a **FLAC** és **Ogg Vorbis** formátumokat. A **CarPlay** és a **Most játszott** gyorsabb és pontosabb a zárolási képernyőn, az autóban és a fejhallgató távvezérlőin.
 
@@ -129,50 +129,50 @@ Ha tetszik az alkalmazás, kérjük, hagyj egy értékelést az App Store-ban �
 
 ## Gyakran ismételt kérdések
 
-{{% details title="Mi az újdonság az Evermusic 8.7-ben?" closed="true" %}}
+{{% ls-details title="Mi az újdonság az Evermusic 8.7-ben?" closed="true" %}}
 Az Evermusic 8.7 valódi szünetmentes lejátszást, öt stúdiós hangeffektet (zengetés, visszhang, torzítás, kompresszor és keresztátfedés), EBU R128 hangerő-normalizálást, egyéni előbeállításokkal és importtal/exporttal újratervezett 10 sávos hangszínszabályzót, továbbfejlesztett formátumtámogatással (beleértve a FLAC és Ogg Vorbis formátumokat) újraépített AVAudioEngine streaming motort, gyorsabb és pontosabb CarPlay-t és Most játszottat, Liquid Glass dizájnfrissítéseket, felfrissített kezdőképernyő-modulokat, valamint hiba- és lokalizációs javításokat ad hozzá.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Van az Evermusicnak valódi szünetmentes lejátszása?" closed="true" %}}
+{{% ls-details title="Van az Evermusicnak valódi szünetmentes lejátszása?" closed="true" %}}
 Igen. Az Evermusic 8.7-tel kezdve a lejátszás valóban szünetmentes: nincs szünet, kattanás vagy pattanás a számok között. A motor előre pufferolja és dekódolja a következő számot, miközben az aktuális szól, majd egy folyamatos gyűrűpufferen a hangminták között adja át, így az átmenet hallhatatlan. Helyi fájlokkal, felhőalapú streamekkel és médiaszerverekkel is működik, és ideális élő albumokhoz, DJ mixekhez és koncepcióalbumokhoz.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Milyen hangeffekteket tartalmaz az Evermusic 8.7?" closed="true" %}}
+{{% ls-details title="Milyen hangeffekteket tartalmaz az Evermusic 8.7?" closed="true" %}}
 Öt valós idejű effektet: **zengetés** (13 teremelőbeállítás, wet/dry keverés), **visszhang/echo** (10 előbeállítás késleltetési idővel, visszacsatolással, aluláteresztővel és keveréssel), **torzítás** (22 karakteres előbeállítás elő-erősítéssel és keveréssel), **kompresszor** (egy teljes dinamikafeldolgozó küszöbbel, aránnyal, felfutással, lecsengéssel, expanzióval és kiegyenlítő erősítéssel, plusz 10 előbeállítással), és **keresztátfedés** (Bauer bs2b fejhallgatós keresztátfedés szint- és levágásvezérlőkkel és 6 előbeállítással). Minden effekt gondosan összeállított előbeállításokkal érkezik, és az egyéni beállításaidat megjegyzi a munkamenetek között.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Mi a keresztátfedés, és miért használnám?" closed="true" %}}
+{{% ls-details title="Mi a keresztátfedés, és miért használnám?" closed="true" %}}
 A keresztátfedés mindkét sztereó csatornából egy kis, szűrt mennyiséget kever a másikba, ahogyan a füled természetesen hallja a valódi hangszórókat egy szobában. Fejhallgatón ez csökkenti a szétpanorámázott felvételek eltúlzott, „fejben lévő" szétválasztását, és kényelmesebbé teszi a hosszú hallgatást. Az Evermusic a jól ismert Bauer stereophonic-to-binaural (bs2b) algoritmust használja, és olyan előbeállításokat tartalmaz, mint a Chu Moy és a Jan Meier. Különösen hatékony a régebbi 1960-as és 1970-es évekbeli sztereó keverékeken.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Hogyan működik a hangerő-normalizálás az Evermusicban?" closed="true" %}}
+{{% ls-details title="Hogyan működik a hangerő-normalizálás az Evermusicban?" closed="true" %}}
 Az Evermusic 8.7 valós időben méri minden szám észlelt hangosságát az EBU R128 szabvánnyal (ITU-R BS.1770), és finoman egy állandó célérték felé állítja a szintet, hogy a számok ne ugorjanak hangerőben. Nem igényel ReplayGain-címkéket, és nem módosítja a fájljaidat. Négy előbeállítás érhető el — Enyhe (−20 LUFS), Normál (−16 LUFS), Erős (−14 LUFS) és Éjszakai (−23 LUFS) — és a normalizálás tisztán visszaáll, amikor keresel vagy számot váltasz.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Az Evermusic hangerő-normalizálása ugyanaz, mint a ReplayGain?" closed="true" %}}
+{{% ls-details title="Az Evermusic hangerő-normalizálása ugyanaz, mint a ReplayGain?" closed="true" %}}
 Ugyanazt a célt éri el — állandó hangosságot a számok között — de másképp működik. A ReplayGain a fájljaidban tárolt hangosságcímkékre támaszkodik. Az Evermusic normalizálója élőben méri a hangosságot az EBU R128 segítségével, így bármilyen forráson működik, beleértve a felhőalapú streameket és az internetes rádiót, még akkor is, ha a fájloknak egyáltalán nincsenek címkéik.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Hány sávja van az Evermusic hangszínszabályzójának, és készíthetek saját előbeállításokat?" closed="true" %}}
+{{% ls-details title="Hány sávja van az Evermusic hangszínszabályzójának, és készíthetek saját előbeállításokat?" closed="true" %}}
 Az Evermusic hangszínszabályzója egy 10 sávos grafikus hangszínszabályzó, amely 32 Hz-től 16 kHz-ig terjed, minden sáv −12 dB-től +12 dB-ig állítható 0,1 dB-es lépésekben, egy előerősítővel −24 dB-től +24 dB-ig. Beépített előbeállításokat tartalmaz, lehetővé teszi egyéni előbeállítások létrehozását és mentését, és támogatja az előbeállítások importálását és exportálását .eqp fájlként, így áthelyezheted vagy megoszthatod őket az eszközök között.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Mi változott az Evermusic 8.7 hangszínszabályzójában?" closed="true" %}}
+{{% ls-details title="Mi változott az Evermusic 8.7 hangszínszabályzójában?" closed="true" %}}
 A hangszínszabályzót új, precízebb csúszkákkal tervezték újra, amelyek az iOS 26 rendszercsúszka és a Liquid Glass megjelenését veszik át, gyorsabb és simább előbeállítás-váltással, valamint jobb elrendezéssel fekvő nézetben és iPaden (vízszintes előbeállítás-sáv álló nézetben és függőleges előbeállítás-oszlop fekvő nézetben). Az egyéni előbeállítások és az .eqp import/export támogatott.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Támogatja az Evermusic 8.7 a FLAC és Ogg Vorbis formátumokat?" closed="true" %}}
+{{% ls-details title="Támogatja az Evermusic 8.7 a FLAC és Ogg Vorbis formátumokat?" closed="true" %}}
 Igen. Az újraépített motor lejátssza a FLAC (Core Audio révén) és Ogg Vorbis (libvorbisfile révén) formátumokat, az MP3, AAC, Apple Lossless (ALAC), WAV, AIFF, AC-3, CAF és mások mellett, helyi fájlokból, felhőmeghajtókról és médiaszerverekről.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Mi javult a CarPlay-ben és a zárolási képernyőn?" closed="true" %}}
+{{% ls-details title="Mi javult a CarPlay-ben és a zárolási képernyőn?" closed="true" %}}
 A CarPlay albumborítói többszörösen gyorsabban töltődnek be a hosszú listákon, és most már megjelennek a kompakt iOS 26 listasorokban, amelyek korábban egyáltalán nem mutattak. A Most játszott információk a zárolási képernyőn és a CarPlay-ben pontosabbak — a cím, az eltelt idő, a hossz és a lejátszás/szünet állapot együtt kerül rögzítésre, így nem mondhatnak ellent egymásnak, és a pufferelési állapotok helyesen jelennek meg. A távvezérlők (lejátszás, szünet, következő, előző, keresés, keverés, ismétlés, sebesség) megbízhatóan reagálnak a fejhallgatóról és az autóból, és a CarPlay rendezése nagy könyvtárakon gyorsabb.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Működnek a hangeffektek és a hangszínszabályzó felhőalapú streameléssel és CarPlay-jel?" closed="true" %}}
+{{% ls-details title="Működnek a hangeffektek és a hangszínszabályzó felhőalapú streameléssel és CarPlay-jel?" closed="true" %}}
 Igen. Az effektek, a hangszínszabályzó és a hangerő-normalizálás natívan futnak a lejátszómotoron belül, így mindenre alkalmazódnak, amit az Evermusic lejátszik — helyi fájlokra, felhőmeghajtókra, médiaszerverekre és internetes rádióra — és továbbra is működnek CarPlay-lejátszás közben, valamint ahol támogatott, AirPlay és Chromecast felett.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Ingyenes az Evermusic 8.7 frissítése, és mely eszközöket támogatja?" closed="true" %}}
+{{% ls-details title="Ingyenes az Evermusic 8.7 frissítése, és mely eszközöket támogatja?" closed="true" %}}
 Igen. Az Evermusic ingyenesen letölthető az App Store-ból, és a 8.7 ingyenes frissítés a meglévő felhasználók számára, opcionális alkalmazáson belüli bővítésekkel a haladó funkciókhoz. iPhone-on, iPaden és Mac-en fut. A CarPlay-hez CarPlay-kompatibilis jármű vagy fejegység szükséges.
-{{% /details %}}
+{{% /ls-details %}}

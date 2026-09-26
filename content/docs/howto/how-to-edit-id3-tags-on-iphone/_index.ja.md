@@ -7,7 +7,7 @@ tags: ["mp3", "エディタ", "iPhone", "タグ", "メタデータ", "id3"]
 readingTime: 2
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **要約：** EvermusicまたはFlacboxの内蔵タグエディタを使用して、iPhoneまたはMacでID3タグを編集できます -- クラウドファイルとローカルファイルの両方に対応。バッチ編集や120以上のタグフィールドが必要ですか？代わりに[Evertag](https://apps.apple.com/app/apple-store/id1450763230?pt=95781850&ct=everappzcom&mt=8)をご利用ください。
@@ -21,8 +21,8 @@ readingTime: 2
 多くのデスクトップアプリがメタデータ編集を提供していますが、EvermusicとFlacboxはID3タグエディタを搭載することで、シンプルさを次のレベルに引き上げています。これで、1つのアプリで音楽ライブラリの構築、トラックの再生、オーディオタグの修正ができます。
 
 {{< cards cols="2">}}
-{{< card link="https://apps.apple.com/app/apple-store/id885367198?pt=95781850&ct=everappzcom&mt=8" title="Evermusicをダウンロード" icon="download" tag="Free" >}}
-{{< card link="https://apps.apple.com/app/apple-store/id1097564256?pt=95781850&ct=everappzcom&mt=8" title="Flacboxをダウンロード" icon="download" tag="Free" >}}
+{{< ls-card link="https://apps.apple.com/app/apple-store/id885367198?pt=95781850&ct=everappzcom&mt=8" title="Evermusicをダウンロード" icon="download" tag="Free" >}}
+{{< ls-card link="https://apps.apple.com/app/apple-store/id1097564256?pt=95781850&ct=everappzcom&mt=8" title="Flacboxをダウンロード" icon="download" tag="Free" >}}
 {{< /cards >}}
 
 ## プロエディタ
@@ -30,7 +30,7 @@ readingTime: 2
 始める前に、**Evertag**アプリをチェックしてください — **120以上のオーディオタグ**、**30以上のオーディオフォーマット**をサポートし、強力な**バッチ編集**を提供します。フル機能のタグ管理ツールをお探しなら、Evertagが最適です。ただし、**シンプルなタグエディタ**だけが必要な場合は、このガイドを続けてください。
 
 {{< cards >}}
-{{< card link="https://apps.apple.com/app/apple-store/id1450763230?pt=95781850&ct=everappzcom&mt=8" title="Evertagをダウンロード" icon="download" tag="Free" >}}
+{{< ls-card link="https://apps.apple.com/app/apple-store/id1450763230?pt=95781850&ct=everappzcom&mt=8" title="Evertagをダウンロード" icon="download" tag="Free" >}}
 {{< /cards >}}
 
 
@@ -38,21 +38,21 @@ readingTime: 2
 アプリ内でお好みのクラウドアカウントをリンクします。
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="クラウドサーバーに接続" image="/docs/howto/how-to-edit-id3-tags-on-iphone/connect_cloud_server.webp" >}}
+{{< ls-card title="" subtitle="クラウドサーバーに接続" image="/docs/howto/how-to-edit-id3-tags-on-iphone/connect_cloud_server.webp" >}}
 {{< /cards >}}
 
 ## オーディオファイルに移動する  
 接続されたクラウドアカウント内のオーディオファイルが入っているフォルダを開きます。
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="クラウドフォルダ" image="/docs/howto/how-to-edit-id3-tags-on-iphone/cloud_server_folders.webp" >}}
+{{< ls-card title="" subtitle="クラウドフォルダ" image="/docs/howto/how-to-edit-id3-tags-on-iphone/cloud_server_folders.webp" >}}
 {{< /cards >}}
 
 ## ファイルオプションにアクセスする  
 編集したいファイルの近くにある「もっと見る」ボタン（'...'）をタップします。
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="その他のアクション" image="/docs/howto/how-to-edit-id3-tags-on-iphone/cloud_server_audio_more_actions.webp" >}}
+{{< ls-card title="" subtitle="その他のアクション" image="/docs/howto/how-to-edit-id3-tags-on-iphone/cloud_server_audio_more_actions.webp" >}}
 {{< /cards >}}
 
 ## 「オーディオタグを編集」を選択  
@@ -70,7 +70,7 @@ readingTime: 2
 編集が完了したら、「保存」ボタンをタップして変更を保存します。
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="タグエディタ" image="/docs/howto/how-to-edit-id3-tags-on-iphone/tags_editor.webp" >}}
+{{< ls-card title="" subtitle="タグエディタ" image="/docs/howto/how-to-edit-id3-tags-on-iphone/tags_editor.webp" >}}
 {{< /cards >}}
 
 ## スマートオートコンプリート  
@@ -88,7 +88,7 @@ readingTime: 2
 - **「ローカルファイル」セクションに移動**し、**「このデバイスのファイル」**まで下にスクロールします。
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="このデバイスのファイル" image="/docs/howto/how-to-edit-id3-tags-on-iphone/local_files.webp" >}}
+{{< ls-card title="" subtitle="このデバイスのファイル" image="/docs/howto/how-to-edit-id3-tags-on-iphone/local_files.webp" >}}
 {{< /cards >}}
 
 - **「フォルダを接続」**をタップします。
@@ -96,25 +96,25 @@ readingTime: 2
 - フォルダピッカーで、アクセスしたいディレクトリを選択し、**「開く」**をタップして確認します。
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="外部フォルダを接続" image="/docs/howto/how-to-edit-id3-tags-on-iphone/connect_external_folder.webp" >}}
+{{< ls-card title="" subtitle="外部フォルダを接続" image="/docs/howto/how-to-edit-id3-tags-on-iphone/connect_external_folder.webp" >}}
 {{< /cards >}}
 
 - フォルダを追加した後、タップして中のファイルを表示します。
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="外部フォルダの内容" image="/docs/howto/how-to-edit-id3-tags-on-iphone/connected_external_folder.webp" >}}
+{{< ls-card title="" subtitle="外部フォルダの内容" image="/docs/howto/how-to-edit-id3-tags-on-iphone/connected_external_folder.webp" >}}
 {{< /cards >}}
 
 - クラウドファイルと同様に、オーディオファイルの横にある**「その他のアクション」**ボタンをタップし、**「オーディオタグを編集」**を選択します。
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="その他のアクション - ローカルファイル" image="/docs/howto/how-to-edit-id3-tags-on-iphone/more_actions_local_file.webp" >}}
+{{< ls-card title="" subtitle="その他のアクション - ローカルファイル" image="/docs/howto/how-to-edit-id3-tags-on-iphone/more_actions_local_file.webp" >}}
 {{< /cards >}}
 
 - タグエディタが開きます。変更を加えて**「保存」**をタップします。以上です！編集はファイルに直接適用されます — コピーや移動は不要です。
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="タグエディタ - ローカルファイル" image="/docs/howto/how-to-edit-id3-tags-on-iphone/tag_editor_local_file.webp" >}}
+{{< ls-card title="" subtitle="タグエディタ - ローカルファイル" image="/docs/howto/how-to-edit-id3-tags-on-iphone/tag_editor_local_file.webp" >}}
 {{< /cards >}}
 
 ## アルバムカバーの編集
@@ -126,7 +126,7 @@ readingTime: 2
 3. カバーアートとして適用する画像を選択します。
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="画像を選択" image="/docs/howto/how-to-edit-id3-tags-on-iphone/tags_editor_choose_image.webp" >}}
+{{< ls-card title="" subtitle="画像を選択" image="/docs/howto/how-to-edit-id3-tags-on-iphone/tags_editor_choose_image.webp" >}}
 {{< /cards >}}
 
 ## タグエディタのその他のアクション
@@ -134,7 +134,7 @@ readingTime: 2
 アートワークビューの下のツールバーから追加の編集オプションを利用できます。
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="その他のアクションメニュー" image="/docs/howto/how-to-edit-id3-tags-on-iphone/tags_edito_more_actions.webp" >}}
+{{< ls-card title="" subtitle="その他のアクションメニュー" image="/docs/howto/how-to-edit-id3-tags-on-iphone/tags_edito_more_actions.webp" >}}
 {{< /cards >}}
 
 ### オーディオタグの自動検索
@@ -195,22 +195,22 @@ EvermusicとFlacboxで音楽ライブラリの管理とタグ編集をシンプ�
 
 ## よくある質問
 
-{{% details title="どのオーディオフォーマットのタグを編集できますか？" closed="true" %}}
+{{% ls-details title="どのオーディオフォーマットのタグを編集できますか？" closed="true" %}}
 EvermusicとFlacboxは、MP3、FLAC、AAC、OGGなど一般的なオーディオフォーマットのタグ編集をサポートしています。EvertagはWAV、AIFF、WMA、APEを含む30以上のフォーマットをサポートしています。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="クラウドサービスに保存されたファイルのタグを編集できますか？" closed="true" %}}
+{{% ls-details title="クラウドサービスに保存されたファイルのタグを編集できますか？" closed="true" %}}
 はい。Dropbox、Google Drive、OneDrive、またはその他のクラウドアカウントを接続してください。アプリがファイルをダウンロードし、タグを編集でき、変更されたファイルを自動的にクラウドにアップロードします。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Evermusic/FlacboxとEvertagの違いは何ですか？" closed="true" %}}
+{{% ls-details title="Evermusic/FlacboxとEvertagの違いは何ですか？" closed="true" %}}
 EvermusicとFlacboxは、基本的なタグエディタが内蔵された音楽プレーヤーです。Evertagは120以上のオーディオタグ、バッチ編集、30以上のフォーマットをサポートする専用タグエディタで、大規模なライブラリの管理に最適です。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="自動検索機能にはインターネット接続が必要ですか？" closed="true" %}}
+{{% ls-details title="自動検索機能にはインターネット接続が必要ですか？" closed="true" %}}
 はい。オーディオタグの自動検索機能は、メタデータを検索して入力するためにMusicBrainzオンラインデータベースにクエリを送信します。この機能にはアクティブなインターネット接続が必要です。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="タグを編集するとオーディオ品質は変わりますか？" closed="true" %}}
+{{% ls-details title="タグを編集するとオーディオ品質は変わりますか？" closed="true" %}}
 いいえ。タグ編集はファイルに埋め込まれたメタデータのみを変更します。オーディオデータ自体は変更されません — 再エンコードは行われません。
-{{% /details %}}
+{{% /ls-details %}}

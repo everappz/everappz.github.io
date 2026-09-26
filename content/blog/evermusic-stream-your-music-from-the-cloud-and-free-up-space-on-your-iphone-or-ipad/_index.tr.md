@@ -12,7 +12,7 @@ authors:
     image: "/images/about/artem-meleshko-founder-everappz.webp"
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 ![](/blog/evermusic-stream-your-music-from-the-cloud-and-free-up-space-on-your-iphone-or-ipad/21260c_00c5356db3a24db6a6a37e353b774d56~mv2.jpg)
 
@@ -82,22 +82,22 @@ Bağlı bulut hesabınıza göz atın, bir müzik klasörü açın ve çalmak i�
 
 ## Sıkça Sorulan Sorular
 
-{{% details title="Evermusic ücretsiz mi?" closed="true" %}}
+{{% ls-details title="Evermusic ücretsiz mi?" closed="true" %}}
 Evermusic, isteğe bağlı premium özelliklerle ücretsiz olarak indirilebilir. Temel bulut yayını ve çevrimdışı oynatma ücretsiz sürümde mevcuttur.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Evermusic hangi bulut hizmetlerini destekler?" closed="true" %}}
+{{% ls-details title="Evermusic hangi bulut hizmetlerini destekler?" closed="true" %}}
 Google Drive, Dropbox, Box, OneDrive, MediaFire, MEGA, Yandex.Disk, pCloud, HiDrive, MyDrive, SMB dosya paylaşımları ve WebDAV sunucuları.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Evermusic ile çevrimdışı müzik dinleyebilir miyim?" closed="true" %}}
+{{% ls-details title="Evermusic ile çevrimdışı müzik dinleyebilir miyim?" closed="true" %}}
 Evet. Herhangi bir albümü, sanatçıyı, çalma listesini veya tekil parçayı uygulama içinden doğrudan çevrimdışı oynatma için indirin.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Evermusic hangi ses formatlarını çalar?" closed="true" %}}
+{{% ls-details title="Evermusic hangi ses formatlarını çalar?" closed="true" %}}
 Evermusic; MP3, FLAC, AAC, WAV, ALAC, AIFF, OPUS, OGG ve daha birçok formatı destekler.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Müzik aktarmak için hâlâ iTunes'a ihtiyacım var mı?" closed="true" %}}
+{{% ls-details title="Müzik aktarmak için hâlâ iTunes'a ihtiyacım var mı?" closed="true" %}}
 Hayır. Müziğinizi bilgisayarınızdan desteklenen herhangi bir bulut hizmetine yükleyin, ardından iPhone veya iPad'inizdeki Evermusic aracılığıyla yayınlayın veya indirin.
-{{% /details %}}
+{{% /ls-details %}}

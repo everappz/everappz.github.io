@@ -17,7 +17,7 @@ Der Player ist der Hauptanwendungsbildschirm, auf dem du die Wiedergabewarteschl
 ## Zugriff auf den Player
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evermusic Audio-Player Bildschirm" image="/docs/guide/evermusic/evermusic-guide-player/img/player-main.webp" >}}
+  {{< ls-card title="" subtitle="Evermusic Audio-Player Bildschirm" image="/docs/guide/evermusic/evermusic-guide-player/img/player-main.webp" >}}
 {{< /cards >}}
 
 Du kannst auf den Vollbild-Player über die Mini-Player-Ansicht zugreifen. Auf deinem iPhone findest du den Mini-Player über der Tab-Leiste auf dem Hauptbildschirm. Auf deinem iPad oder Mac ist er über das linke Menü zugänglich. Um den Mini-Player wegzufälten, tippe auf sein Symbol und wische nach unten. Um den Vollbild-Player vollständig auszublenden, tippe einfach auf die Schaltfläche zum Schließen in der unteren rechten Ecke.
@@ -44,7 +44,7 @@ Wenn du Lust auf etwas Zufälliges hast, ist die Option "Zufallswiedergabe" dein
 ## Lautstärkeregelung
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Lautstärkeregelung mit AirPlay und Google Cast" image="/docs/guide/evermusic/evermusic-guide-player/img/player-volume-control.webp" >}}
+  {{< ls-card title="" subtitle="Lautstärkeregelung mit AirPlay und Google Cast" image="/docs/guide/evermusic/evermusic-guide-player/img/player-volume-control.webp" >}}
 {{< /cards >}}
 
 Den Lautstärke-Schieberegler findest du auf dem Audio-Einstellungsbildschirm, indem du auf das Lautstärkesymbol unter den Wiedergabesteuerungen tippst. Du kannst die Lautstärke mit diesem Schieberegler oder mit den Standard-Lautstärketasten deines Geräts ändern. Außerdem findest du dort einige praktische Streaming-Schaltflächen:
@@ -63,7 +63,7 @@ Wenn du AirPlay bevorzugst, suche nach der AirPlay-Schaltfläche am unteren Rand
 ## Audio-Equalizer
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="10-Band-Audio-Equalizer" image="/docs/guide/evermusic/evermusic-guide-player/img/player-equalizer.webp" >}}
+  {{< ls-card title="" subtitle="10-Band-Audio-Equalizer" image="/docs/guide/evermusic/evermusic-guide-player/img/player-equalizer.webp" >}}
 {{< /cards >}}
 
 Evermusic enthält einen 10-Band-Equalizer mit iPod-ähnlichen Presets, einem Vorverstärker und manuellen Equalizer-Einstellungen. Um den Equalizer zu aktivieren, tippe einfach auf die Schaltfläche "Equalizer" in der unteren Symbolleiste und schalte den Schalter in der oberen rechten Ecke um. Du kannst aus einer Reihe vordefinierter Equalizer-Presets wie "Akustik", "Bass-Booster", "Klassisch" und mehr auswählen. Wenn du ein Klangbegeisterter bist, wirst du die Möglichkeit schätzen, jedes Frequenzband mithilfe von Schiebereglern fein abzustimmen. Erstelle und speichere gerne deine eigenen Audio-Equalizer-Presets. Wenn ein Titel nicht laut genug ist, kannst du auch die Vorverstärker-Verstärkung anpassen. Wir haben detailliertere Anweisungen zur Verwendung des Equalizers [hier](/docs/howto/how-to-use-the-audio-equalizer-on-your-iphone-ipad-mac-with-evermusic-and-flacbox).
@@ -71,7 +71,7 @@ Evermusic enthält einen 10-Band-Equalizer mit iPod-ähnlichen Presets, einem Vo
 ## Player-Modus-Symbolleiste
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Player-Obersymbolleiste mit Suche und Geschwindigkeit" image="/docs/guide/evermusic/evermusic-guide-player/img/player-top-toolbar.webp" >}}
+  {{< ls-card title="" subtitle="Player-Obersymbolleiste mit Suche und Geschwindigkeit" image="/docs/guide/evermusic/evermusic-guide-player/img/player-top-toolbar.webp" >}}
 {{< /cards >}}
 
 Für einige ausgewählte Player-Bildschirmstile findest du eine Player-Modus-Symbolleiste oben auf dem Player-Bildschirm, direkt unter der Navigationsleiste. Diese praktische Symbolleiste enthält drei Schaltflächen:
@@ -82,7 +82,7 @@ Für einige ausgewählte Player-Bildschirmstile findest du eine Player-Modus-Sym
 ## Audio-Lesezeichen
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Audio-Lesezeichen für Hörbücher und Vorlesungen" image="/docs/guide/evermusic/evermusic-guide-player/img/player-bookmarks.webp" >}}
+  {{< ls-card title="" subtitle="Audio-Lesezeichen für Hörbücher und Vorlesungen" image="/docs/guide/evermusic/evermusic-guide-player/img/player-bookmarks.webp" >}}
 {{< /cards >}}
 
 Hier kannst du mehrere Lesezeichen für Titel in deiner Musikbibliothek erstellen. Eine vollständige Anleitung zur Verwendung von Lesezeichen findest du [hier](/docs/howto/how-to-listen-to-audiobooks-on-iphone-ipad-mac-using-evermusic).
@@ -90,7 +90,7 @@ Hier kannst du mehrere Lesezeichen für Titel in deiner Musikbibliothek erstelle
 ## Wiedergabewarteschlange
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Wiedergabewarteschlange" image="/docs/guide/evermusic/evermusic-guide-player/img/player-queue.webp" >}}
+  {{< ls-card title="" subtitle="Wiedergabewarteschlange" image="/docs/guide/evermusic/evermusic-guide-player/img/player-queue.webp" >}}
 {{< /cards >}}
 
 Um auf deine Wiedergabewarteschlange zuzugreifen, tippe einfach auf die Schaltfläche für die Wiedergabewarteschlange in der unteren Symbolleiste. Um einen Song in der Warteschlange zu verschieben, verwende den Sortierindikator neben dem Titel.
@@ -98,7 +98,7 @@ Um auf deine Wiedergabewarteschlange zuzugreifen, tippe einfach auf die Schaltfl
 ## Kommentare / Liedtexte
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Kommentare, eingebettete Liedtexte und LRC-Dateien" image="/docs/guide/evermusic/evermusic-guide-player/img/player-lyrics.webp" >}}
+  {{< ls-card title="" subtitle="Kommentare, eingebettete Liedtexte und LRC-Dateien" image="/docs/guide/evermusic/evermusic-guide-player/img/player-lyrics.webp" >}}
 {{< /cards >}}
 
 Um Titelkommentare und eingebettete Liedtexte sowie LRC-Dateien anzuzeigen, befolge diese Schritte:
@@ -114,7 +114,7 @@ Eine vollständige Anleitung zum Anzeigen von Liedtexten findest du [hier](/docs
 ## Optionsmenü
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Optionsmenü für ein Warteschlangenelement" image="/docs/guide/evermusic/evermusic-guide-player/img/player-queue-item-options-menu.webp" >}}
+  {{< ls-card title="" subtitle="Optionsmenü für ein Warteschlangenelement" image="/docs/guide/evermusic/evermusic-guide-player/img/player-queue-item-options-menu.webp" >}}
 {{< /cards >}}
 
 Jeder Song in deiner Audioplayer-Warteschlange hat ein Menü mit weiteren Aktionen, auf das du durch Tippen auf die Drei-Punkte-Schaltfläche neben dem Songtitel zugreifen kannst. Die verfügbaren Aktionen sind:
@@ -153,7 +153,7 @@ Tippe auf die Schaltfläche für weitere Aktionen "..." auf der linken Seite des
 ## Aktuell und Favoriten
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Zuletzt gespielte Songs im Player" image="/docs/guide/evermusic/evermusic-guide-player/img/player-recents.webp" >}}
+  {{< ls-card title="" subtitle="Zuletzt gespielte Songs im Player" image="/docs/guide/evermusic/evermusic-guide-player/img/player-recents.webp" >}}
 {{< /cards >}}
 
 Im Player-Bildschirm kannst du auf die Bereiche "Aktuell" und "Favoriten" zugreifen, indem du auf die Schaltfläche "Weitere Aktionen" '…' tippst und den entsprechenden Menüeintrag auswählst. In beiden Bereichen kannst du nach Songs suchen, alle Titel abspielen, alle Titel zufällig abspielen, die Liste exportieren und die Liste löschen. Wir haben detaillierte Anweisungen zum Exportieren von Songlisten [hier](/docs/howto/export-tracks-collection-from-evermusic-flacbox-to-m3u-csv-txt/).
@@ -161,7 +161,7 @@ Im Player-Bildschirm kannst du auf die Bereiche "Aktuell" und "Favoriten" zugrei
 ## Mini-Player-Fenster (nur Mac)
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Mac Mini-Player-Fenster" image="/docs/guide/evermusic/evermusic-guide-player/img/player-mini-mac.webp" >}}
+  {{< ls-card title="" subtitle="Mac Mini-Player-Fenster" image="/docs/guide/evermusic/evermusic-guide-player/img/player-mini-mac.webp" >}}
 {{< /cards >}}
 
 Für Mac-Benutzer gibt es ein praktisches Mini-Player-Fenster. Um darauf zuzugreifen, bewege deinen Cursor einfach an den unteren rechten Rand des App-Fensters und ändere die Größe auf die kleinste mögliche Größe. Tippe dann auf die Schaltfläche zum Reduzieren (dargestellt als Abwärtspfeil), um das Mini-Player-Fenster zu aktivieren. Wenn du es über anderen Fenstern halten möchtest, gehe zur oberen Menüleiste deines Mac, wähle "Fenster" und wähle "Fenster immer im Vordergrund anzeigen". Diese Funktion ist besonders praktisch, wenn du Audiovorlesungen hörst und keine Unterbrechungen möchtest.
@@ -169,7 +169,7 @@ Für Mac-Benutzer gibt es ein praktisches Mini-Player-Fenster. Um darauf zuzugre
 ## Tastaturkürzel (nur Mac)
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Mac-Statusleiste Wiedergabemenü mit Tastaturkürzeln" image="/docs/guide/evermusic/evermusic-guide-player/img/player-mac-shortcuts.webp" >}}
+  {{< ls-card title="" subtitle="Mac-Statusleiste Wiedergabemenü mit Tastaturkürzeln" image="/docs/guide/evermusic/evermusic-guide-player/img/player-mac-shortcuts.webp" >}}
 {{< /cards >}}
 
 Für Mac-Benutzer steht ein System-Wiedergabemenü in der Statusleiste mit Tastaturkürzeln zur Verfügung. Um beispielsweise Wiedergabe/Pause zu aktivieren, tippe einfach auf die Leertaste auf deiner Tastatur. Kürzel für Stoppen, Nächster Song, Vorheriger Song, Zeit überspringen, Wiederholen, Zufallswiedergabe und Wiedergabegeschwindigkeit sind wie im Screenshot gezeigt verfügbar.
@@ -177,7 +177,7 @@ Für Mac-Benutzer steht ein System-Wiedergabemenü in der Statusleiste mit Tasta
 ## Audio-Player-Einstellungen
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Audio-Player-Einstellungen" image="/docs/guide/evermusic/evermusic-guide-player/img/player-settings.webp" >}}
+  {{< ls-card title="" subtitle="Audio-Player-Einstellungen" image="/docs/guide/evermusic/evermusic-guide-player/img/player-settings.webp" >}}
 {{< /cards >}}
 
 Um auf Audio-Player-Einstellungen zuzugreifen, tippe auf die Schaltfläche "Mehr" im Audio-Player-Bildschirm und wähle "Einstellungen" aus dem Dropdown-Menü. Hier findest du verschiedene Bereiche, gruppiert nach Funktionalität:

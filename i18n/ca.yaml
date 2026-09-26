@@ -186,3 +186,5 @@ everdiskFeatAdvancedServerSettings: "Configuració avançada del servidor"
 everdiskFeatSMB3Encryption: "Xifratge SMB3"
 everdiskFeatAutomaticSharing: "Compartició automàtica"
 everdiskFeatDevicePersonalization: "Personalització del dispositiu"
+
+searchDocsPlaceholder: "Cerca a la documentació, preguntes freqüents i guies pràctiques…"

@@ -7,7 +7,7 @@ tags: ["lyrics", "mp3", "id3", "metadata", "iphone", "audio editing"]
 readingTime: 2
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **Podsumowanie:** Użyj darmowej aplikacji **Evertag** do edycji niezsynchronizowanych tekstów piosenek, ocen treści i ponad 120 tagów audio na iPhone lub Mac. Działa z plikami lokalnymi i przechowywanymi w chmurze, obsługuje edycję zbiorczą i zapisuje teksty widoczne w Evermusic, Flacbox i innych odtwarzaczach.
@@ -23,8 +23,8 @@ Dla demonstracji użyjemy aplikacji **Evertag**. Obsługuje ona **ponad 120 tag�
 Zacznij od pobrania aplikacji **Evertag** z App Store. Jest dostępna zarówno dla **iOS**, jak i **macOS** i jest darmowa.
 
 {{< cards cols="2">}}
-{{< card link="https://apps.apple.com/app/apple-store/id1450763230?pt=95781850&ct=everappzcom&mt=8" title="Evertag dla iOS" icon="download" tag="Free" >}}
-{{< card link="https://apps.apple.com/app/apple-store/id1594027661?pt=95781850&ct=everappzcom&mt=8" title="Evertag dla macOS" icon="download" tag="Free" >}}
+{{< ls-card link="https://apps.apple.com/app/apple-store/id1450763230?pt=95781850&ct=everappzcom&mt=8" title="Evertag dla iOS" icon="download" tag="Free" >}}
+{{< ls-card link="https://apps.apple.com/app/apple-store/id1594027661?pt=95781850&ct=everappzcom&mt=8" title="Evertag dla macOS" icon="download" tag="Free" >}}
 {{< /cards >}}
 
 ## Połącz konto w chmurze
@@ -38,13 +38,13 @@ Aby połączyć usługę przechowywania w chmurze:
 - Dotknij **Połącz z chmurą**
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Połącz z chmurą" image="/docs/howto/how-to-edit-lyrics-for-audio-files-on-iphone-mac/connect-to-cloud-storage.webp" >}}
+{{< ls-card title="" subtitle="Połącz z chmurą" image="/docs/howto/how-to-edit-lyrics-for-audio-files-on-iphone-mac/connect-to-cloud-storage.webp" >}}
 {{< /cards >}}
 
 - Wybierz obsługiwanego dostawcę, wprowadź dane logowania i dotknij **Gotowe**
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Połącz z chmurą" image="/docs/howto/how-to-edit-lyrics-for-audio-files-on-iphone-mac/connect-to-cloud-storage.webp" >}}
+{{< ls-card title="" subtitle="Połącz z chmurą" image="/docs/howto/how-to-edit-lyrics-for-audio-files-on-iphone-mac/connect-to-cloud-storage.webp" >}}
 {{< /cards >}}
 
 - Po połączeniu Twoja chmura pojawi się w sekcji **Przechowywanie w chmurze** aplikacji.
@@ -52,7 +52,7 @@ Aby połączyć usługę przechowywania w chmurze:
 - Dotknij połączonej chmury, aby przeglądać i ładować zawartość jej folderów.
   
 {{< cards cols="1">}}
-{{< card title="" subtitle="Lista plików w chmurze" image="/docs/howto/how-to-edit-lyrics-for-audio-files-on-iphone-mac/cloud-storage-list-audio-files.webp" >}}
+{{< ls-card title="" subtitle="Lista plików w chmurze" image="/docs/howto/how-to-edit-lyrics-for-audio-files-on-iphone-mac/cloud-storage-list-audio-files.webp" >}}
 {{< /cards >}}
 
 ## Połącz folder lokalny
@@ -74,7 +74,7 @@ Możesz edytować tagi audio plików przechowywanych bezpośrednio na urządzeni
 - Przewiń w dół do **Pliki na tym urządzeniu** w menu paska bocznego
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Foldery urządzenia" image="/docs/howto/how-to-edit-lyrics-for-audio-files-on-iphone-mac/device-folders.webp" >}}
+{{< ls-card title="" subtitle="Foldery urządzenia" image="/docs/howto/how-to-edit-lyrics-for-audio-files-on-iphone-mac/device-folders.webp" >}}
 {{< /cards >}}
   
 - Dotknij pozycji menu **Wszystkie foldery urządzenia**
@@ -91,7 +91,7 @@ Możesz edytować tagi audio plików przechowywanych bezpośrednio na urządzeni
 **Edytor tagów** to główny ekran aplikacji Evertag, na którym możesz przeglądać i edytować metadane plików audio. Otwórz ten ekran, dotykając pliku z sekcji **Pliki lokalne** lub z dowolnego połączonego konta **przechowywania w chmurze**.
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Ekran edytora tagów Evertag" image="/docs/howto/how-to-edit-lyrics-for-audio-files-on-iphone-mac/cloud-storage-audio-file-tag-editor.webp" >}}
+{{< ls-card title="" subtitle="Ekran edytora tagów Evertag" image="/docs/howto/how-to-edit-lyrics-for-audio-files-on-iphone-mac/cloud-storage-audio-file-tag-editor.webp" >}}
 {{< /cards >}}
 
 ## Tryby edycji
@@ -112,7 +112,7 @@ Domyślnie aplikacja otwiera edytor tagów w trybie pojedynczego pliku z włącz
 Aby uzyskać dostęp do wszystkich dostępnych tagów, przewiń na dół ekranu i dotknij opcji **Pokaż rozszerzone tagi**. Spowoduje to przełączenie edytora w tryb rozszerzony, umożliwiając edycję ponad **120 pól metadanych**, w tym **tagów MusicBrainz**, **tekstów piosenek**, **ocen treści** i więcej.
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Dolny panel akcji" image="/docs/howto/how-to-edit-lyrics-for-audio-files-on-iphone-mac/show-extended-tags.webp" >}}
+{{< ls-card title="" subtitle="Dolny panel akcji" image="/docs/howto/how-to-edit-lyrics-for-audio-files-on-iphone-mac/show-extended-tags.webp" >}}
 {{< /cards >}}
 
 ## Tryb zbiorczy
@@ -137,7 +137,7 @@ Oto jak dodać lub zaktualizować **niezsynchronizowane teksty piosenek** osadzo
 W trybie **Rozszerzone tagi** przewiń w dół i dotknij pola tekstowego **Niezsynchronizowane teksty**.
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Pole tekstowe niezsynchronizowanych tekstów" image="/docs/howto/how-to-edit-lyrics-for-audio-files-on-iphone-mac/advisory-rating-2.webp" >}}
+{{< ls-card title="" subtitle="Pole tekstowe niezsynchronizowanych tekstów" image="/docs/howto/how-to-edit-lyrics-for-audio-files-on-iphone-mac/advisory-rating-2.webp" >}}
 {{< /cards >}}
 
 > Pliki audio obsługujące **tagi ID3** (takie jak `.mp3` lub `.wav`) pozwalają dodawać teksty w wielu językach. Jeśli edytujesz plik z tagami ID3, Evertag włącza pełne wsparcie wielojęzyczne.  
@@ -148,7 +148,7 @@ W trybie **Rozszerzone tagi** przewiń w dół i dotknij pola tekstowego **Niezs
 Jeśli edytujesz tagi ID3, następny ekran wyświetli przycisk **Dodaj nową stronę**. Dotknij go, aby rozpocząć dodawanie nowego wpisu tekstowego.
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Dodaj nową stronę tekstów" image="/docs/howto/how-to-edit-lyrics-for-audio-files-on-iphone-mac/add-new-page.webp" >}}
+{{< ls-card title="" subtitle="Dodaj nową stronę tekstów" image="/docs/howto/how-to-edit-lyrics-for-audio-files-on-iphone-mac/add-new-page.webp" >}}
 {{< /cards >}}
 
 ### Wybierz język, komentarz i treść tekstów
@@ -159,7 +159,7 @@ Na ekranie wprowadzania tekstów będziesz mógł:
 - Wprowadzić faktyczny **tekst piosenki**
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Wybierz język" image="/docs/howto/how-to-edit-lyrics-for-audio-files-on-iphone-mac/choose-language.webp" >}}
+{{< ls-card title="" subtitle="Wybierz język" image="/docs/howto/how-to-edit-lyrics-for-audio-files-on-iphone-mac/choose-language.webp" >}}
 {{< /cards >}}
 
 ### Wprowadź teksty
@@ -169,7 +169,7 @@ Wpisz lub wklej treść tekstów. Evertag obsługuje teksty w formacie LRC ze zn
 > Wskazówka: Szukasz wysokiej jakości tekstów? Odwiedź [lyricsify.com](https://www.lyricsify.com), aby znaleźć teksty w formacie LRC dla tysięcy utworów.
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Dodane teksty" image="/docs/howto/how-to-edit-lyrics-for-audio-files-on-iphone-mac/added-lyrics.webp" >}}
+{{< ls-card title="" subtitle="Dodane teksty" image="/docs/howto/how-to-edit-lyrics-for-audio-files-on-iphone-mac/added-lyrics.webp" >}}
 {{< /cards >}}
 
 ### Dotknij „Gotowe", aby potwierdzić
@@ -177,7 +177,7 @@ Wpisz lub wklej treść tekstów. Evertag obsługuje teksty w formacie LRC ze zn
 Po wprowadzeniu tekstów dotknij **Gotowe** na stronie tekstów. Następnie dotknij ponownie **Gotowe** na poprzednim ekranie, aby potwierdzić zmiany.
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Zapisane teksty" image="/docs/howto/how-to-edit-lyrics-for-audio-files-on-iphone-mac/saved-lyrics.webp" >}}
+{{< ls-card title="" subtitle="Zapisane teksty" image="/docs/howto/how-to-edit-lyrics-for-audio-files-on-iphone-mac/saved-lyrics.webp" >}}
 {{< /cards >}}
 
 ### Zapisz zmiany tagów
@@ -185,7 +185,7 @@ Po wprowadzeniu tekstów dotknij **Gotowe** na stronie tekstów. Następnie dotk
 Na koniec na ekranie **Edytora tagów** dotknij **Zapisz**, aby zapisać zaktualizowane tagi — w tym nowe teksty — z powrotem do pliku.
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Edytor tagów z tekstami" image="/docs/howto/how-to-edit-lyrics-for-audio-files-on-iphone-mac/tags-editor-with-lyrics.webp" >}}
+{{< ls-card title="" subtitle="Edytor tagów z tekstami" image="/docs/howto/how-to-edit-lyrics-for-audio-files-on-iphone-mac/tags-editor-with-lyrics.webp" >}}
 {{< /cards >}}
 
 ### Ustaw ocenę treści tekstów
@@ -204,22 +204,22 @@ Postępując zgodnie z tymi krokami, Twoje teksty piosenek zostaną prawidłowo 
 
 ## Często zadawane pytania
 
-{{% details title="Jakie formaty audio obsługuje Evertag do edycji tekstów?" closed="true" %}}
+{{% ls-details title="Jakie formaty audio obsługuje Evertag do edycji tekstów?" closed="true" %}}
 Evertag obsługuje ponad 30 formatów audio, w tym MP3, FLAC, WAV, M4A, OGG, AIFF i więcej. Możesz edytować teksty i inne tagi metadanych w dowolnym z tych formatów.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Czy mogę dodać teksty w wielu językach?" closed="true" %}}
+{{% ls-details title="Czy mogę dodać teksty w wielu językach?" closed="true" %}}
 Tak, ale tylko dla plików audio używających tagów ID3 (takich jak MP3 i WAV). Dla innych formatów jak FLAC lub M4A obsługiwany jest tylko jeden wpis tekstowy.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Czy Evertag obsługuje zbiorczą edycję tekstów?" closed="true" %}}
+{{% ls-details title="Czy Evertag obsługuje zbiorczą edycję tekstów?" closed="true" %}}
 Tak. Możesz wejść w tryb zbiorczy, aby edytować metadane wielu plików jednocześnie. Jest to przydatne do zastosowania tej samej oceny treści tekstów lub innych wspólnych tagów do całego albumu.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Czy edytowane teksty pojawią się w Apple Music lub Spotify?" closed="true" %}}
+{{% ls-details title="Czy edytowane teksty pojawią się w Apple Music lub Spotify?" closed="true" %}}
 Teksty edytowane za pomocą Evertag są osadzone w metadanych pliku audio. Pojawią się w każdym odtwarzaczu muzyki, który odczytuje osadzone tagi tekstów, takim jak Evermusic, Flacbox, VLC i foobar2000. Aplikacje streamingowe jak Spotify i Apple Music używają własnych baz danych tekstów i nie odczytują osadzonych tagów.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Czy mogę edytować tagi plików przechowywanych w chmurze?" closed="true" %}}
+{{% ls-details title="Czy mogę edytować tagi plików przechowywanych w chmurze?" closed="true" %}}
 Tak. Evertag obsługuje łączenie z usługami przechowywania w chmurze. Aplikacja pobiera plik, pozwala na edycję tagów i automatycznie przesyła zaktualizowany plik z powrotem do chmury.
-{{% /details %}}
+{{% /ls-details %}}

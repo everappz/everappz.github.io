@@ -15,7 +15,7 @@ readingTime: 11
 Di layar ini, Anda dapat menghubungkan berbagai sumber yang berisi file audio Anda. Anda dapat mengintegrasikan layanan cloud populer seperti Google Drive, Dropbox, OneDrive, iCloud, dan lainnya, serta menghubungkan Mac atau PC Anda. Selain itu, Anda memiliki opsi untuk mengedit file audio yang terletak di Apple Time Capsule, WD Cloud Home, atau NAS apa pun yang mendukung SMB atau WebDAV.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Layar Koneksi Evertag" image="/docs/guide/evertag/img/connections.webp" >}}
+  {{< ls-card title="" subtitle="Layar Koneksi Evertag" image="/docs/guide/evertag/img/connections.webp" >}}
 {{< /cards >}}
 
 ## Akses cepat
@@ -151,7 +151,7 @@ Berikut rincian tindakan tersebut:
 - **Tampilan Kisi/Daftar**: Beralih antara dua mode tampilan: tampilan tabel dan tampilan thumbnail.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Pengurutan Folder Cloud Evertag" image="/docs/guide/evertag/img/cloud-storage-sort.webp" >}}
+  {{< ls-card title="" subtitle="Pengurutan Folder Cloud Evertag" image="/docs/guide/evertag/img/cloud-storage-sort.webp" >}}
 {{< /cards >}}
 
 ## Edit File Online
@@ -163,7 +163,7 @@ Saat Anda perlu mengelola beberapa file dalam penyimpanan cloud di aplikasi ini,
 - **Lakukan Berbagai Tindakan**: Setelah Anda memilih file atau folder yang ingin dikelola, Anda akan memiliki akses ke beberapa tindakan:
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Pemilihan File Evertag" image="/docs/guide/evertag/img/cloud-storage-file-select.webp" >}}
+  {{< ls-card title="" subtitle="Pemilihan File Evertag" image="/docs/guide/evertag/img/cloud-storage-file-select.webp" >}}
 {{< /cards >}}
 
 ## Tindakan file
@@ -180,7 +180,7 @@ Ketuk untuk menampilkan daftar tindakan yang tersedia:
 - **Hapus**: Berhati-hatilah dengan tindakan ini, karena secara permanen menghapus file dari penyimpanan cloud Anda. **Penghapusan ini tidak dapat dibatalkan**.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Opsi File Evertag" image="/docs/guide/evertag/img/cloud-storage-file-options.webp" >}}
+  {{< ls-card title="" subtitle="Opsi File Evertag" image="/docs/guide/evertag/img/cloud-storage-file-options.webp" >}}
 {{< /cards >}}
 
 Jika daftar tindakan melebihi ruang layar yang tersedia, cukup gulir ke bawah dalam menu tindakan untuk mengakses opsi tambahan.
@@ -196,5 +196,5 @@ Untuk setiap folder di penyimpanan cloud Anda, berbagai tindakan tersedia. Untuk
 - **Hapus**: Berhati-hatilah dengan tindakan ini, karena secara permanen menghapus folder dan isinya dari penyimpanan cloud Anda. **Tindakan ini tidak dapat dibatalkan**.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Opsi Folder Evertag" image="/docs/guide/evertag/img/cloud-storage-folder-options.webp" >}}
+  {{< ls-card title="" subtitle="Opsi Folder Evertag" image="/docs/guide/evertag/img/cloud-storage-folder-options.webp" >}}
 {{< /cards >}}

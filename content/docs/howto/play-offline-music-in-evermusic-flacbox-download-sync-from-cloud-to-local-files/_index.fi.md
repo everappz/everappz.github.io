@@ -7,7 +7,7 @@ tags: ["musiikki", "ääni", "soitin", "offline", "tila", "lataus", "kansio", "v
 keywords: ["offline-musiikki iPhone", "pilvimusiikin synkronointi", "Evermusic offline", "Flacbox synkronoi musiikki", "toista musiikkia ilman internetiä", "lataa ääntä pilvestä", "paikallisten tiedostojen toisto iOS"]
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **Yhteenveto:** Evermusic ja Flacbox mahdollistavat musiikin lataamisen pilvipalvelusta (Google Drive, Dropbox, OneDrive ja muut) iPhonellesi tai iPadillesi offline-toistoa varten. Voit käyttää kolmea menetelmää: suora lataus, offline-tila automaattisella synkronoinnilla tai äänisoittimen välimuisti. Tämä opas käsittelee kaikki kolme lähestymistapaa vaihe vaiheelta.
@@ -140,26 +140,26 @@ Noudattamalla näitä yksityiskohtaisia ohjeita voit saumattomasti hallita ja to
 
 ## Usein kysytyt kysymykset
 
-{{% details title="Mitä pilvipalveluita Evermusic ja Flacbox tukevat?" closed="true" %}}
+{{% ls-details title="Mitä pilvipalveluita Evermusic ja Flacbox tukevat?" closed="true" %}}
 Molemmat sovellukset tukevat Google Drivea, Dropboxia, OneDrivea, Boxia, MEGAa, Yandex.Diskiä ja muita suuria pilvipalveluntarjoajia. Voit yhdistää useita palveluita samanaikaisesti.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Voinko synkronoida musiikkia automaattisesti pilvipalvelusta iPhonelleni?" closed="true" %}}
+{{% ls-details title="Voinko synkronoida musiikkia automaattisesti pilvipalvelusta iPhonelleni?" closed="true" %}}
 Kyllä. Ota Offline-tila käyttöön mille tahansa kansiolle, soittolistalle, albumille tai artistille. Sovellus suorittaa yksisuuntaisen synkronoinnin pilvestä laitteelle määritettävällä välillä (oletus: kerran päivässä).
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Käyttääkö offline-tila paljon tallennustilaa laitteellani?" closed="true" %}}
+{{% ls-details title="Käyttääkö offline-tila paljon tallennustilaa laitteellani?" closed="true" %}}
 Tallennustilan käyttö riippuu musiikkikokoelmasi koosta ja tiedostomuodoista. Voit hallita tätä valitsemalla tietyt kansiot synkronoitaviksi, asettamalla välimuistin kokorajat ja seuraamalla tallennustilaa sovelluksen asetuksissa.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Mitä äänimuotoja tuetaan offline-toistossa?" closed="true" %}}
+{{% ls-details title="Mitä äänimuotoja tuetaan offline-toistossa?" closed="true" %}}
 Evermusic ja Flacbox tukevat MP3-, FLAC-, AAC-, ALAC-, WAV-, AIFF-, OGG-, WMA- ja monia muita muotoja. Flacbox on optimoitu häviöttömille muodoille kuten FLAC ja ALAC.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Jatkaako offline-musiikkini toistamista, jos suljen sovelluksen?" closed="true" %}}
+{{% ls-details title="Jatkaako offline-musiikkini toistamista, jos suljen sovelluksen?" closed="true" %}}
 Kyllä. Ladatut tiedostot tallennetaan paikallisesti laitteellesi ja toistetaan sovelluksen äänisoittimen kautta internet-yhteydestä riippumatta. Taustatoisto on täysin tuettu.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Miten vapautan offline-musiikin viemää tilaa?" closed="true" %}}
+{{% ls-details title="Miten vapautan offline-musiikin viemää tilaa?" closed="true" %}}
 Poista Offline-tila käytöstä tietyille kansioille kohdasta **Asetukset** > Tiedostonhallinta > **Synkronoidut offline-kansiot**. Tämä poistaa paikalliset kopiot laitteestasi. Voit myös tyhjentää äänisoittimen välimuistin tai poistaa ladatut tiedostot manuaalisesti.
-{{% /details %}}
+{{% /ls-details %}}

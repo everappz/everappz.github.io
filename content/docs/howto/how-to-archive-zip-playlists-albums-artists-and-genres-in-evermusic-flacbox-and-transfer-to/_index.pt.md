@@ -7,7 +7,7 @@ tags: ["evermusic", "flacbox", "arquivo", "backup", "exportar", "lista de reprod
 readingTime: 2
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **Resumo:** Evermusic e Flacbox podem arquivar qualquer lista de reprodução, álbum, artista ou gênero em um arquivo ZIP com uma lista de reprodução M3U, capa do álbum e todos os arquivos de áudio. Transfira o ZIP para outro dispositivo, descompacte-o e importe o M3U para reconstruir a lista de reprodução instantaneamente.
@@ -104,22 +104,22 @@ Seguindo este guia, você pode arquivar e transferir eficientemente suas listas 
 
 ## Perguntas frequentes
 
-{{% details title="O que está incluído no arquivo ZIP?" closed="true" %}}
+{{% ls-details title="O que está incluído no arquivo ZIP?" closed="true" %}}
 O arquivo contém todos os arquivos de áudio, um arquivo de lista de reprodução M3U que preserva a ordem das faixas e a capa do álbum da lista de reprodução salva como arquivo de imagem separado.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="O arquivamento funciona com arquivos na nuvem?" closed="true" %}}
+{{% ls-details title="O arquivamento funciona com arquivos na nuvem?" closed="true" %}}
 Sim. O aplicativo baixa automaticamente todos os arquivos armazenados na nuvem antes de adicioná-los ao arquivo. Você pode monitorar o progresso do download na seção de transferências de arquivos.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Posso arquivar álbuns, artistas e gêneros também?" closed="true" %}}
+{{% ls-details title="Posso arquivar álbuns, artistas e gêneros também?" closed="true" %}}
 Sim. A opção «Adicionar ao arquivo» está disponível para listas de reprodução, álbuns, artistas e gêneros. O processo é idêntico para todos.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Como transfiro o arquivo para outro dispositivo?" closed="true" %}}
+{{% ls-details title="Como transfiro o arquivo para outro dispositivo?" closed="true" %}}
 Você pode enviar o ZIP para armazenamento na nuvem (Google Drive, Dropbox, etc.), usar AirDrop ou transferir sem fio através do recurso Wi-Fi Drive integrado no Evermusic e Flacbox.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="A estrutura da lista de reprodução será preservada após a transferência?" closed="true" %}}
+{{% ls-details title="A estrutura da lista de reprodução será preservada após a transferência?" closed="true" %}}
 Sim. O arquivo M3U armazena a estrutura da lista de reprodução com caminhos relativos. Após descompactar no novo dispositivo, importe o arquivo M3U para reconstruir a lista de reprodução com todas as faixas na ordem original.
-{{% /details %}}
+{{% /ls-details %}}

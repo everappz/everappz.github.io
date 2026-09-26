@@ -7,7 +7,7 @@ tags: ["audio", "iphone", "mp3", "songteksten", "lrc", "ingebed", "bekijken", "w
 keywords: ["ingebedde songteksten iPhone bekijken", "Evermusic songteksten tonen", "LRC-bestand Evermusic", "commentaartag audio", "songteksten weergeven Flacbox", "songteksten iOS muziek-app", "audiospeler songteksten tonen"]
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **TL;DR:** Evermusic voor iPhone en Mac toont ingebedde songteksten, commentaartags en externe .lrc-bestanden voor elk audionummer. Open de speler, tik op **Meer acties** en selecteer vervolgens **Opmerkingen** om songteksten in drie modi te bekijken: Opmerkingen, Ingebedde songteksten en LRC-bestand.
@@ -68,22 +68,22 @@ Het bekijken van ingebedde songteksten, opmerkingen of gesynchroniseerde `.lrc`-
 
 ## Veelgestelde vragen
 
-{{% details title="Hoe bekijk ik ingebedde songteksten op mijn iPhone?" closed="true" %}}
+{{% ls-details title="Hoe bekijk ik ingebedde songteksten op mijn iPhone?" closed="true" %}}
 Open Evermusic, speel een nummer af, tik op Meer acties in de speler op volledig scherm en selecteer Opmerkingen. Veeg naar het tabblad Ingebedde songteksten om songteksten te zien die zijn opgeslagen in de tags van het audiobestand.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Wat is een LRC-bestand en hoe werkt het?" closed="true" %}}
+{{% ls-details title="Wat is een LRC-bestand en hoe werkt het?" closed="true" %}}
 Een LRC-bestand is een tekstbestand met getimede songteksten. Wanneer het in dezelfde map als een audiobestand met dezelfde bestandsnaam wordt geplaatst, leest Evermusic het en toont gesynchroniseerde songteksten die tijdens het afspelen meescrollen.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Kan ik songteksten toevoegen aan mijn muziekbestanden op de iPhone?" closed="true" %}}
+{{% ls-details title="Kan ik songteksten toevoegen aan mijn muziekbestanden op de iPhone?" closed="true" %}}
 Ja. Gebruik de Evertag-app om ID3-tags te bewerken en ingebedde songteksten direct op je iPhone toe te voegen of bij te werken. Je kunt getimede LRC-tekst plakken voor gesynchroniseerde songteksten.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Ondersteunt Evermusic gesynchroniseerde (getimede) songteksten?" closed="true" %}}
+{{% ls-details title="Ondersteunt Evermusic gesynchroniseerde (getimede) songteksten?" closed="true" %}}
 Ja. Evermusic ondersteunt getimede songteksten in LRC-formaat, zowel wanneer ze zijn ingebed in audiotags als wanneer ze worden aangeboden als een apart `.lrc`-bestand.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Welke audioformaten ondersteunen ingebedde songteksten?" closed="true" %}}
+{{% ls-details title="Welke audioformaten ondersteunen ingebedde songteksten?" closed="true" %}}
 MP3, FLAC, AAC, M4A, OGG en de meeste andere gangbare formaten ondersteunen ingebedde songteksten via hun respectievelijke tagstandaarden.
-{{% /details %}}
+{{% /ls-details %}}

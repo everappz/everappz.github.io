@@ -7,7 +7,7 @@ keywords: ["iPhone으로 무선 파일 전송", "Wi-Fi 드라이브 파일 전�
 readingTime: 2
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **요약:** Wi-Fi 드라이브를 사용하면 Wi-Fi를 통해 모든 컴퓨터에서 iPhone 또는 iPad로 파일을 전송할 수 있습니다. iTunes나 케이블이 필요 없습니다. 웹 브라우저, Mac Finder 또는 Windows File Explorer를 사용하세요. 두 기기 모두 동일한 Wi-Fi 네트워크에 연결되어 있어야 합니다.
@@ -18,7 +18,7 @@ Wi-Fi 드라이브는 iTunes 없이 컴퓨터에서 iPhone 또는 iPad로 파일
 
 [**TECHGUYPH**](https://www.youtube.com/channel/UCgpf09gGFE_c_3pPTtTpnzg)의 비디오 튜토리얼을 시청하거나 아래의 텍스트 버전을 읽을 수 있습니다.
 <br><br>
-{{< youtubecard id="CqdqrQ0ge70" title="Can We Wirelessly Put Offline Music on iPhones?" >}}
+{{< ls-youtubecard id="CqdqrQ0ge70" title="Can We Wirelessly Put Offline Music on iPhones?" >}}
 
 ## 데스크톱 웹 브라우저를 사용하여 컴퓨터에서 무선으로 파일 전송
 
@@ -90,26 +90,26 @@ iTunes가 필요 없습니다!
 
 ## 자주 묻는 질문
 
-{{% details title="iPhone으로 파일을 전송하려면 iTunes가 필요합니까?" closed="true" %}}
+{{% ls-details title="iPhone으로 파일을 전송하려면 iTunes가 필요합니까?" closed="true" %}}
 아니요. Wi-Fi 드라이브는 로컬 Wi-Fi 네트워크를 통해 파일을 직접 전송합니다. iTunes가 필요 없습니다.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="어떤 앱이 Wi-Fi 드라이브를 지원합니까?" closed="true" %}}
+{{% ls-details title="어떤 앱이 Wi-Fi 드라이브를 지원합니까?" closed="true" %}}
 Wi-Fi 드라이브는 iOS용 Evermusic, Flacbox, Evertag 및 Evervideo에서 사용할 수 있습니다.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="두 기기 모두 동일한 Wi-Fi 네트워크에 있어야 합니까?" closed="true" %}}
+{{% ls-details title="두 기기 모두 동일한 Wi-Fi 네트워크에 있어야 합니까?" closed="true" %}}
 예. Wi-Fi 드라이브가 작동하려면 컴퓨터와 iPhone 또는 iPad가 동일한 로컬 Wi-Fi 네트워크에 연결되어 있어야 합니다.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="개별 파일뿐만 아니라 전체 폴더를 전송할 수 있습니까?" closed="true" %}}
+{{% ls-details title="개별 파일뿐만 아니라 전체 폴더를 전송할 수 있습니까?" closed="true" %}}
 예. Wi-Fi 드라이브는 웹 브라우저 인터페이스를 통해 전체 폴더의 업로드 및 다운로드를 지원합니다.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Wi-Fi 드라이브는 Windows에서 작동합니까?" closed="true" %}}
+{{% ls-details title="Wi-Fi 드라이브는 Windows에서 작동합니까?" closed="true" %}}
 예. Windows에서 모든 웹 브라우저를 사용하거나 WebDAV 프로토콜을 사용하여 Windows File Explorer를 통해 연결할 수 있습니다.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="USB 케이블을 사용하여 전송 속도를 높일 수 있습니까?" closed="true" %}}
+{{% ls-details title="USB 케이블을 사용하여 전송 속도를 높일 수 있습니까?" closed="true" %}}
 예. Wi-Fi 드라이브가 실행되는 동안 iPhone이 USB를 통해 Mac에 연결되어 있으면 케이블 연결을 사용하여 더 빠른 속도로 전송됩니다.
-{{% /details %}}
+{{% /ls-details %}}

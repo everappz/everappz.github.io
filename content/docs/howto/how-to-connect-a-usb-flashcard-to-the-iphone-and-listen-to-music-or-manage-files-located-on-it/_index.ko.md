@@ -7,7 +7,7 @@ tags: ["음악", "파일", "usb", "플래시", "외부", "ixpand", "재생", "�
 readingTime: 2
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **요약:** Apple 어댑터 또는 SanDisk iXpand 드라이브를 사용하여 USB 플래시 드라이브 또는 SD 카드를 iPhone에 연결한 다음, Evermusic, Flacbox 또는 Evertag를 사용하여 외부 저장소에서 직접 오디오 파일을 탐색, 재생 및 관리하세요.
@@ -72,18 +72,18 @@ SanDisk는 여기에서 구매할 수 있습니다: [SanDisk iXpand Mini](https:
 
 ## 자주 묻는 질문
 
-{{% details title="음악 재생을 위해 iPhone과 호환되는 USB 어댑터는 무엇인가요?" closed="true" %}}
+{{% ls-details title="음악 재생을 위해 iPhone과 호환되는 USB 어댑터는 무엇인가요?" closed="true" %}}
 Apple의 Lightning to SD Card Camera Reader와 Lightning to USB 3 Camera Adapter 모두 작동합니다. USB-C 어댑터는 USB-C 포트가 있는 최신 iPhone에서 작동합니다. SanDisk iXpand Flash 드라이브(V1-V7)도 Evermusic, Flacbox 및 Evertag에서 기본적으로 지원됩니다.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="파일을 복사하지 않고 USB 드라이브에서 직접 음악을 재생할 수 있나요?" closed="true" %}}
+{{% ls-details title="파일을 복사하지 않고 USB 드라이브에서 직접 음악을 재생할 수 있나요?" closed="true" %}}
 네. SanDisk iXpand 드라이브를 사용하면 iPhone에 파일을 복사하지 않고도 드라이브에서 직접 음악을 재생할 수 있습니다. Apple 어댑터를 사용할 때는 파일이 가져와지지만 로컬 저장소에 복사할지 여부를 선택할 수 있습니다.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="USB 드라이브에서 지원되는 오디오 형식은 무엇인가요?" closed="true" %}}
+{{% ls-details title="USB 드라이브에서 지원되는 오디오 형식은 무엇인가요?" closed="true" %}}
 Evermusic과 Flacbox는 FLAC, MP3, AAC, WAV, ALAC, OGG, WMA 등 다양한 형식을 지원합니다. 지원되는 모든 형식은 USB 저장소에서 재생할 때 작동합니다.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="SanDisk iXpand에서 '사용 중' 오류가 표시됩니다. 어떻게 해야 하나요?" closed="true" %}}
+{{% ls-details title="SanDisk iXpand에서 '사용 중' 오류가 표시됩니다. 어떻게 해야 하나요?" closed="true" %}}
 다른 앱이 드라이브에 접근하고 있을 수 있습니다. 플래시 드라이브를 사용할 수 있는 다른 모든 앱을 닫거나, 드라이브를 뽑았다가 다시 삽입하세요. 그런 다음 Evermusic, Flacbox 또는 Evertag를 다시 여세요.
-{{% /details %}}
+{{% /ls-details %}}

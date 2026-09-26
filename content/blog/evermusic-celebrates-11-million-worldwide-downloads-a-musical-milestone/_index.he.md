@@ -12,7 +12,7 @@ authors:
     image: "/images/about/artem-meleshko-founder-everappz.webp"
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 **בקצרה:** Evermusic עבר את 11 מיליון ההורדות ברחבי העולם. תכונות מפתח כוללות אקולייזר 10 פסים, השמעה לא מקוונת, הזרמה מ-iCloud Drive, תמיכה ביותר מ-10 שירותי ענן, סנכרון בין מכשירים ועורך תגיות ID3 מובנה.
 
@@ -70,22 +70,22 @@ Evermusic בנוי לכל מי שמאחסן מוזיקה בענן או באחס�
 
 ## FAQ
 
-{{% details title="אילו פורמטי שמע Evermusic תומך?" closed="true" %}}
+{{% ls-details title="אילו פורמטי שמע Evermusic תומך?" closed="true" %}}
 Evermusic משמיע MP3, FLAC, WAV, AAC, M4A, AIFF, OGG, WMA ופורמטי שמע פופולריים נוספים.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="האם אפשר להשתמש ב-Evermusic ללא חיבור אינטרנט?" closed="true" %}}
+{{% ls-details title="האם אפשר להשתמש ב-Evermusic ללא חיבור אינטרנט?" closed="true" %}}
 כן. הורידו רצועות מאחסון הענן שלכם להשמעה לא מקוונת. לאחר ההורדה, אין צורך באינטרנט.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="האם Evermusic עובד על Mac?" closed="true" %}}
+{{% ls-details title="האם Evermusic עובד על Mac?" closed="true" %}}
 כן. Evermusic זמין ב-iOS (iPhone/iPad) וב-macOS, עם סנכרון ספרייה בכל המכשירים.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="האם Evermusic חינמי להורדה?" closed="true" %}}
+{{% ls-details title="האם Evermusic חינמי להורדה?" closed="true" %}}
 כן. Evermusic חינמי להורדה עם תכונות פרימיום אופציונליות זמינות דרך רכישה בתוך האפליקציה.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="איך עובדת הזרמת iCloud Drive ב-Evermusic?" closed="true" %}}
+{{% ls-details title="איך עובדת הזרמת iCloud Drive ב-Evermusic?" closed="true" %}}
 חברו את חשבון ה-iCloud Drive שלכם באפליקציה, דפדפו בקבצי המוזיקה שלכם ולחצו להשמעה. הרצועות מוזרמות ישירות ללא צורך בהורדה מראש.
-{{% /details %}}
+{{% /ls-details %}}

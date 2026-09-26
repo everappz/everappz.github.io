@@ -12,7 +12,7 @@ authors:
     image: "/images/about/artem-meleshko-founder-everappz.webp"
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 **Rezumat:** Flacbox a depășit 1 milion de descărcări la nivel mondial. Suportă FLAC, ALAC, APE, DSD și alte formate lossless cu egalizator de 10 benzi, liste de redare M3U/CUE, redare offline și sincronizare între dispozitive pe iPhone, iPad și Mac.
 
@@ -78,26 +78,26 @@ Dezvoltarea viitoare se concentrează pe:
 
 ## Întrebări Frecvente
 
-{{% details title="Ce formate audio suportă Flacbox?" closed="true" %}}
+{{% ls-details title="Ce formate audio suportă Flacbox?" closed="true" %}}
 Flacbox redă FLAC, ALAC, APE, DSD, WavPack, TTA, RealAudio, MP3, AAC, OGG și multe alte formate. Este conceput în principal pentru audio lossless și hi-res.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Are Flacbox un egalizator?" closed="true" %}}
+{{% ls-details title="Are Flacbox un egalizator?" closed="true" %}}
 Da. Flacbox include un egalizator de 10 benzi cu presetări de gen și ajustare manuală a frecvenței.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Pot asculta muzică offline cu Flacbox?" closed="true" %}}
+{{% ls-details title="Pot asculta muzică offline cu Flacbox?" closed="true" %}}
 Da. Descărcați fișiere din stocarea cloud sau transferați-le direct în aplicație pentru redare offline fără conexiune la internet.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Funcționează Flacbox pe Mac?" closed="true" %}}
+{{% ls-details title="Funcționează Flacbox pe Mac?" closed="true" %}}
 Da. Flacbox funcționează pe iPhone, iPad și Mac cu biblioteci sincronizate și istoric de redare pe toate dispozitivele.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Ce este suportul pentru fișiere CUE?" closed="true" %}}
+{{% ls-details title="Ce este suportul pentru fișiere CUE?" closed="true" %}}
 Fișierele CUE definesc limitele pieselor într-un singur fișier audio. Flacbox citește fișierele CUE pentru a împărți copiile albumelor în piese individuale cu metadate corecte.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Este Flacbox gratuit?" closed="true" %}}
+{{% ls-details title="Este Flacbox gratuit?" closed="true" %}}
 Flacbox este gratuit de descărcat cu funcții premium opționale disponibile prin achiziție din aplicație.
-{{% /details %}}
+{{% /ls-details %}}

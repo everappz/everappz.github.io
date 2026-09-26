@@ -29,7 +29,7 @@ tags: [
 readingTime: 3
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **Περίληψη:** Επικολλήστε οποιοδήποτε URL του Internet Archive στο [archivetom3u.com](https://archivetom3u.com), επιλέξτε τη μορφή ήχου (MP3, FLAC, OGG) και κατεβάστε μια έτοιμη για αναπαραγωγή λίστα M3U -- δεν απαιτείται λογαριασμός. Στη συνέχεια, εισαγάγετέ την στο [Evermusic](https://apps.apple.com/app/apple-store/id885367198?pt=95781850&ct=everappzcom&mt=8) σε iPhone ή Mac για άμεση αναπαραγωγή.
@@ -69,7 +69,7 @@ readingTime: 3
 Μεταβείτε στο [archive.org](https://archive.org), πατήστε **Audio** και επιλέξτε **Live Music Archive**. Χρησιμοποιήστε τη γραμμή αναζήτησης για να βρείτε ένα είδος, καλλιτέχνη ή συναυλία που θέλετε.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Αναζήτηση μουσικής στο Internet Archive" image="/docs/howto/how-to-create-m3u-playlist-for-internet-archive-or-live-music-archive/1.internet-archive-search.webp" >}}
+  {{< ls-card title="" subtitle="Αναζήτηση μουσικής στο Internet Archive" image="/docs/howto/how-to-create-m3u-playlist-for-internet-archive-or-live-music-archive/1.internet-archive-search.webp" >}}
 {{< /cards >}}
 
 ### 2. Αντιγράψτε το URL του στοιχείου
@@ -77,7 +77,7 @@ readingTime: 3
 Κάντε κλικ στο στοιχείο που θέλετε και αντιγράψτε το URL του από τη γραμμή διευθύνσεων του περιηγητή.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Αντιγράψτε το URL του στοιχείου από το Internet Archive" image="/docs/howto/how-to-create-m3u-playlist-for-internet-archive-or-live-music-archive/2.internet-archive-copy-item-url.webp" >}}
+  {{< ls-card title="" subtitle="Αντιγράψτε το URL του στοιχείου από το Internet Archive" image="/docs/howto/how-to-create-m3u-playlist-for-internet-archive-or-live-music-archive/2.internet-archive-copy-item-url.webp" >}}
 {{< /cards >}}
 
 ### 3. Επικολλήστε το URL στη γεννήτρια
@@ -85,7 +85,7 @@ readingTime: 3
 Επιστρέψτε στο [archivetom3u.com](https://archivetom3u.com) και επικολλήστε το αντιγραμμένο URL στο πεδίο εισαγωγής.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Επικολλήστε το URL του στοιχείου στη γεννήτρια M3U" image="/docs/howto/how-to-create-m3u-playlist-for-internet-archive-or-live-music-archive/3.archive-to-m3u-paste-item-url.webp" >}}
+  {{< ls-card title="" subtitle="Επικολλήστε το URL του στοιχείου στη γεννήτρια M3U" image="/docs/howto/how-to-create-m3u-playlist-for-internet-archive-or-live-music-archive/3.archive-to-m3u-paste-item-url.webp" >}}
 {{< /cards >}}
 
 ### 4. Επιλέξτε τη μορφή ήχου
@@ -93,7 +93,7 @@ readingTime: 3
 Επιλέξτε τη μορφή που θέλετε (MP3, FLAC κ.λπ.).
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Επιλέξτε την προτιμώμενη μορφή ήχου" image="/docs/howto/how-to-create-m3u-playlist-for-internet-archive-or-live-music-archive/4.archive-to-m3u-select-format.webp" >}}
+  {{< ls-card title="" subtitle="Επιλέξτε την προτιμώμενη μορφή ήχου" image="/docs/howto/how-to-create-m3u-playlist-for-internet-archive-or-live-music-archive/4.archive-to-m3u-select-format.webp" >}}
 {{< /cards >}}
 
 ### 5. Δημιουργήστε τη λίστα αναπαραγωγής
@@ -101,7 +101,7 @@ readingTime: 3
 Κάντε κλικ στο **Generate Playlist**. Το περιεχόμενο `.m3u` θα εμφανιστεί παρακάτω. Μπορείτε να το αντιγράψετε ή να το κατεβάσετε.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Η λίστα αναπαραγωγής M3U δημιουργείται αυτόματα" image="/docs/howto/how-to-create-m3u-playlist-for-internet-archive-or-live-music-archive/5.archive-to-m3u-generated-playlist.webp" >}}
+  {{< ls-card title="" subtitle="Η λίστα αναπαραγωγής M3U δημιουργείται αυτόματα" image="/docs/howto/how-to-create-m3u-playlist-for-internet-archive-or-live-music-archive/5.archive-to-m3u-generated-playlist.webp" >}}
 {{< /cards >}}
 
 ### 6. Προεπισκόπηση κομματιών
@@ -109,7 +109,7 @@ readingTime: 3
 Κάντε κύλιση προς τα κάτω για να κάνετε προεπισκόπηση κάθε κομματιού. Βεβαιωθείτε ότι όλα αναπαράγονται σωστά.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Προεπισκόπηση όλων των κομματιών πριν τη λήψη" image="/docs/howto/how-to-create-m3u-playlist-for-internet-archive-or-live-music-archive/6.archive-to-m3u-tracks-preview.webp" >}}
+  {{< ls-card title="" subtitle="Προεπισκόπηση όλων των κομματιών πριν τη λήψη" image="/docs/howto/how-to-create-m3u-playlist-for-internet-archive-or-live-music-archive/6.archive-to-m3u-tracks-preview.webp" >}}
 {{< /cards >}}
 
 ### 7. Κατεβάστε τη λίστα αναπαραγωγής
@@ -117,7 +117,7 @@ readingTime: 3
 Κάντε κλικ στο **Download Playlist** για να αποθηκεύσετε το αρχείο `.m3u` στη συσκευή σας. Δεν απαιτείται σύνδεση ή λογαριασμός.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Κατεβάστε τη λίστα αναπαραγωγής M3U στη συσκευή σας" image="/docs/howto/how-to-create-m3u-playlist-for-internet-archive-or-live-music-archive/7.downloaded-m3u-playlist.webp" >}}
+  {{< ls-card title="" subtitle="Κατεβάστε τη λίστα αναπαραγωγής M3U στη συσκευή σας" image="/docs/howto/how-to-create-m3u-playlist-for-internet-archive-or-live-music-archive/7.downloaded-m3u-playlist.webp" >}}
 {{< /cards >}}
 
 ## Πώς να αναπαράγετε μια λίστα αναπαραγωγής M3U σε macOS ή iOS
@@ -125,14 +125,14 @@ readingTime: 3
 Για να αναπαράγετε το ληφθέν αρχείο `.m3u` στη συσκευή Apple σας, χρησιμοποιήστε την εφαρμογή **Evermusic** (δωρεάν λήψη):
 
 {{< cards cols="1">}}
-{{< card link="https://apps.apple.com/app/apple-store/id1564384601?pt=95781850&ct=everappzcom&mt=8" title="Evermusic macOS" icon="download" tag="Free" >}}
-{{< card link="https://apps.apple.com/app/apple-store/id885367198?pt=95781850&ct=everappzcom&mt=8" title="Evermusic iOS" icon="download" tag="Free" >}}
+{{< ls-card link="https://apps.apple.com/app/apple-store/id1564384601?pt=95781850&ct=everappzcom&mt=8" title="Evermusic macOS" icon="download" tag="Free" >}}
+{{< ls-card link="https://apps.apple.com/app/apple-store/id885367198?pt=95781850&ct=everappzcom&mt=8" title="Evermusic iOS" icon="download" tag="Free" >}}
 {{< /cards >}}
 
 ### 1. Ανοίξτε το Evermusic και μεταβείτε στις Λίστες αναπαραγωγής
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Ανοίξτε το Evermusic και μεταβείτε στις Λίστες αναπαραγωγής" image="/docs/howto/how-to-create-m3u-playlist-for-internet-archive-or-live-music-archive/8.evermusic-app-playlists.webp" >}}
+  {{< ls-card title="" subtitle="Ανοίξτε το Evermusic και μεταβείτε στις Λίστες αναπαραγωγής" image="/docs/howto/how-to-create-m3u-playlist-for-internet-archive-or-live-music-archive/8.evermusic-app-playlists.webp" >}}
 {{< /cards >}}
 
 ### 2. Εισαγάγετε τη λίστα αναπαραγωγής
@@ -140,7 +140,7 @@ readingTime: 3
 Πατήστε **Add Playlist** και στη συνέχεια επιλέξτε **Import Playlist**.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Πατήστε Import Playlist για να προσθέσετε το ληφθέν M3U" image="/docs/howto/how-to-create-m3u-playlist-for-internet-archive-or-live-music-archive/9.evermusic-app-import-playlist.webp" >}}
+  {{< ls-card title="" subtitle="Πατήστε Import Playlist για να προσθέσετε το ληφθέν M3U" image="/docs/howto/how-to-create-m3u-playlist-for-internet-archive-or-live-music-archive/9.evermusic-app-import-playlist.webp" >}}
 {{< /cards >}}
 
 ### 3. Επιλέξτε τη θέση της λίστας αναπαραγωγής
@@ -148,7 +148,7 @@ readingTime: 3
 Επιλέξτε **Files on this Mac** (ή άλλη θέση όπου αποθηκεύσατε το αρχείο).
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Επιλέξτε τη θέση του ληφθέντος αρχείου" image="/docs/howto/how-to-create-m3u-playlist-for-internet-archive-or-live-music-archive/10.select-location.webp" >}}
+  {{< ls-card title="" subtitle="Επιλέξτε τη θέση του ληφθέντος αρχείου" image="/docs/howto/how-to-create-m3u-playlist-for-internet-archive-or-live-music-archive/10.select-location.webp" >}}
 {{< /cards >}}
 
 ### 4. Παραχωρήστε πρόσβαση στον φάκελο
@@ -156,7 +156,7 @@ readingTime: 3
 Το Evermusic μπορεί να έχει πρόσβαση σε αρχεία μόνο αν επιτρέψετε πρόσβαση σε επίπεδο φακέλου. Επιλέξτε τον φάκελο που περιέχει το αρχείο `.m3u` σας **και** τα αρχεία ήχου που συνδέονται μέσα σε αυτό.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Συνδέστε τον φάκελο που βρίσκεται στη συσκευή σας" image="/docs/howto/how-to-create-m3u-playlist-for-internet-archive-or-live-music-archive/11.connect-folder-located-on-your-device.webp" >}}
+  {{< ls-card title="" subtitle="Συνδέστε τον φάκελο που βρίσκεται στη συσκευή σας" image="/docs/howto/how-to-create-m3u-playlist-for-internet-archive-or-live-music-archive/11.connect-folder-located-on-your-device.webp" >}}
 {{< /cards >}}
 
 ### 5. Επιλέξτε τον φάκελο Λήψεις
@@ -164,13 +164,13 @@ readingTime: 3
 Στις περισσότερες περιπτώσεις, η λίστα αναπαραγωγής αποθηκεύεται στον φάκελο **Downloads**.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Επιλέξτε τον φάκελο Λήψεις" image="/docs/howto/how-to-create-m3u-playlist-for-internet-archive-or-live-music-archive/12.select-downloads-folder.webp" >}}
+  {{< ls-card title="" subtitle="Επιλέξτε τον φάκελο Λήψεις" image="/docs/howto/how-to-create-m3u-playlist-for-internet-archive-or-live-music-archive/12.select-downloads-folder.webp" >}}
 {{< /cards >}}
 
 Πατήστε **Open** για να επιβεβαιώσετε την επιλογή.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Ο φάκελος Λήψεις είναι τώρα συνδεδεμένος" image="/docs/howto/how-to-create-m3u-playlist-for-internet-archive-or-live-music-archive/13.downloads-folder-connected.webp" >}}
+  {{< ls-card title="" subtitle="Ο φάκελος Λήψεις είναι τώρα συνδεδεμένος" image="/docs/howto/how-to-create-m3u-playlist-for-internet-archive-or-live-music-archive/13.downloads-folder-connected.webp" >}}
 {{< /cards >}}
 
 ### 6. Επιλέξτε το αρχείο λίστας αναπαραγωγής
@@ -180,7 +180,7 @@ readingTime: 3
 Πατήστε **Done** για να επιβεβαιώσετε την επιλογή.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Επιλέξτε το αρχείο λίστας αναπαραγωγής M3U από τον φάκελο" image="/docs/howto/how-to-create-m3u-playlist-for-internet-archive-or-live-music-archive/14.m3u-playlist-selected-from-connected-folder.webp" >}}
+  {{< ls-card title="" subtitle="Επιλέξτε το αρχείο λίστας αναπαραγωγής M3U από τον φάκελο" image="/docs/howto/how-to-create-m3u-playlist-for-internet-archive-or-live-music-archive/14.m3u-playlist-selected-from-connected-folder.webp" >}}
 {{< /cards >}}
 
 ### 7. Η λίστα αναπαραγωγής εισήχθη επιτυχώς
@@ -188,7 +188,7 @@ readingTime: 3
 Η εφαρμογή θα αναλύσει τη λίστα αναπαραγωγής και θα την προσθέσει στη βιβλιοθήκη σας.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Η λίστα αναπαραγωγής εισήχθη επιτυχώς" image="/docs/howto/how-to-create-m3u-playlist-for-internet-archive-or-live-music-archive/15.playlist-imported.webp" >}}
+  {{< ls-card title="" subtitle="Η λίστα αναπαραγωγής εισήχθη επιτυχώς" image="/docs/howto/how-to-create-m3u-playlist-for-internet-archive-or-live-music-archive/15.playlist-imported.webp" >}}
 {{< /cards >}}
 
 ### 8. Ανοίξτε και αναπαράγετε τη λίστα αναπαραγωγής
@@ -196,13 +196,13 @@ readingTime: 3
 Πατήστε στη λίστα αναπαραγωγής για να δείτε όλα τα κομμάτια και να ξεκινήσετε την αναπαραγωγή.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Ανοίξτε τη λίστα αναπαραγωγής και δείτε τη λίστα κομματιών" image="/docs/howto/how-to-create-m3u-playlist-for-internet-archive-or-live-music-archive/16.playlist-opened.webp" >}}
+  {{< ls-card title="" subtitle="Ανοίξτε τη λίστα αναπαραγωγής και δείτε τη λίστα κομματιών" image="/docs/howto/how-to-create-m3u-playlist-for-internet-archive-or-live-music-archive/16.playlist-opened.webp" >}}
 {{< /cards >}}
 
 Μετά από λίγα δευτερόλεπτα, το Evermusic θα φορτώσει όλα τα μεταδεδομένα και θα ενημερώσει την προβολή κομματιών.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Η λίστα αναπαραγωγής σας είναι έτοιμη για αναπαραγωγή" image="/docs/howto/how-to-create-m3u-playlist-for-internet-archive-or-live-music-archive/17.playlist-opened-2.webp" >}}
+  {{< ls-card title="" subtitle="Η λίστα αναπαραγωγής σας είναι έτοιμη για αναπαραγωγή" image="/docs/howto/how-to-create-m3u-playlist-for-internet-archive-or-live-music-archive/17.playlist-opened-2.webp" >}}
 {{< /cards >}}
 
 ## Απόρρητο & Ανοιχτός Κώδικας
@@ -221,22 +221,22 @@ readingTime: 3
 
 ## Συχνές ερωτήσεις
 
-{{% details title="Είναι δωρεάν το εργαλείο δημιουργίας M3U;" closed="true" %}}
+{{% ls-details title="Είναι δωρεάν το εργαλείο δημιουργίας M3U;" closed="true" %}}
 Ναι. Το εργαλείο στο [archivetom3u.com](https://archivetom3u.com) είναι εντελώς δωρεάν, δεν απαιτεί λογαριασμό και εκτελείται εξ ολοκλήρου στον περιηγητή σας.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Ποιες μορφές ήχου μπορώ να συμπεριλάβω στη λίστα αναπαραγωγής M3U;" closed="true" %}}
+{{% ls-details title="Ποιες μορφές ήχου μπορώ να συμπεριλάβω στη λίστα αναπαραγωγής M3U;" closed="true" %}}
 Μπορείτε να επιλέξετε VBR MP3, FLAC, 24-bit FLAC ή OGG Vorbis. Μόνο τα κομμάτια που είναι διαθέσιμα στην επιλεγμένη μορφή θα εμφανιστούν στη λίστα αναπαραγωγής.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Μπορώ να αναπαράγω λίστες αναπαραγωγής M3U σε iPhone ή Mac;" closed="true" %}}
+{{% ls-details title="Μπορώ να αναπαράγω λίστες αναπαραγωγής M3U σε iPhone ή Mac;" closed="true" %}}
 Ναι. Κατεβάστε τη δωρεάν εφαρμογή Evermusic για iOS ή macOS και στη συνέχεια χρησιμοποιήστε τη λειτουργία Import Playlist για να φορτώσετε το αρχείο `.m3u` σας.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Αποθηκεύει το εργαλείο τα δεδομένα μου ή φιλοξενεί μουσική;" closed="true" %}}
+{{% ls-details title="Αποθηκεύει το εργαλείο τα δεδομένα μου ή φιλοξενεί μουσική;" closed="true" %}}
 Όχι. Όλη η επεξεργασία γίνεται τοπικά στον περιηγητή σας. Δεν αποθηκεύονται δεδομένα και όλες οι ροές ήχου προέρχονται απευθείας από το archive.org.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Συνδέεται αυτό το εργαλείο με το Internet Archive;" closed="true" %}}
+{{% ls-details title="Συνδέεται αυτό το εργαλείο με το Internet Archive;" closed="true" %}}
 Όχι. Είναι ένα ανεξάρτητο έργο ανοιχτού κώδικα που δημιουργήθηκε για ευκολία. Χρησιμοποιεί το επίσημο Internet Archive Metadata API για τη δημιουργία λιστών αναπαραγωγής.
-{{% /details %}}
+{{% /ls-details %}}

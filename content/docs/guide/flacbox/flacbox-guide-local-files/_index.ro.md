@@ -19,7 +19,7 @@ Secțiunea Fișiere Locale servește ca centru pentru gestionarea fișierelor si
 Acest manager de fișiere integrat vă permite să editați fișiere (redenumire, mutare, copiere, încărcare, ștergere), să monitorizați transferurile și oferă mai multe metode de import al fișierelor audio în aplicație — descărcări directe din cloud, sincronizare în mod offline, unități USB flash, Wi-Fi Drive și Partajare Fișiere Finder.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Ecranul Fișiere Locale al Flacbox" image="/docs/guide/flacbox/img/local-files.webp" >}}
+  {{< ls-card title="" subtitle="Ecranul Fișiere Locale al Flacbox" image="/docs/guide/flacbox/img/local-files.webp" >}}
 {{< /cards >}}
 
 ## Descărcare Fișiere din Stocarea Cloud
@@ -102,7 +102,7 @@ Afișează fișierele și folderele stocate în directorul Documente al aplicaț
 Afișează fișierele situate pe dispozitivul dvs. dar în aplicații diferite. Le puteți importa în această aplicație folosind selectorul de fișiere al sistemului. Pentru a activa selectorul, alegeți **Deschidere Fișiere…** pentru a selecta fișiere sau **Deschidere Foldere…** pentru a selecta foldere. Instrucțiuni detaliate despre cum să importați muzica locală stocată pe iPhone sau Mac sunt disponibile [aici](/docs/howto/how-to-play-local-music-stored-on-your-iphone-or-mac).
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox Foldere Dispozitiv Conectat" image="/docs/guide/flacbox/img/connected-device-folders.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox Foldere Dispozitiv Conectat" image="/docs/guide/flacbox/img/connected-device-folders.webp" >}}
 {{< /cards >}}
 
 Puteți, de asemenea, să conectați un folder situat pe dispozitivul dvs. și să aveți acces rapid la conținutul său. Folosiți elementul de meniu **Conectare Folder** și alegeți un folder situat pe dispozitivul dvs. Atingeți **Finalizat**, și aplicația creează un link la acel folder cu acces citire / scriere, permițându-vă să gestionați fișierele direct din această aplicație. Pentru a deconecta un folder situat pe dispozitivul dvs., atingeți butonul **Mai Multe Acțiuni** și alegeți **Deconectare**.
@@ -137,7 +137,7 @@ Dacă trebuie să editați mai multe fișiere, activați modul de selecție atin
 - **Șterge** — eliminați fișierul sau folderul selectat de pe dispozitiv. **Această acțiune este ireversibilă.**
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox Modul Selecție Fișiere Locale" image="/docs/guide/flacbox/img/local-files-selection-mode.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox Modul Selecție Fișiere Locale" image="/docs/guide/flacbox/img/local-files-selection-mode.webp" >}}
 {{< /cards >}}
 
 ## Meniu Opțiuni
@@ -161,7 +161,7 @@ Pentru fiecare fișier sau folder din aplicație, sunt disponibile mai multe ac�
 - **Șterge** — ștergeți fișierul sau folderul de pe dispozitiv. **Această acțiune este ireversibilă** și nu puteți restaura fișierele șterse.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox Mai Multe Acțiuni pentru un Fișier Local" image="/docs/guide/flacbox/img/local-files-more-actions-for-file.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox Mai Multe Acțiuni pentru un Fișier Local" image="/docs/guide/flacbox/img/local-files-more-actions-for-file.webp" >}}
 {{< /cards >}}
 
 ## Foldere Offline

@@ -17,7 +17,7 @@ readingTime: 6
 Spilleliste-seksjonen gir deg verktøyene til å organisere låtene dine i lister. Den inkluderer en innholdsvisning som viser alle opprettede spillelister, en "..."-knapp i navigasjonsbjelken som tilbyr ulike spillelisterelaterte handlinger, og en navigasjonsverktøylinje med knappene "Søk", "Spill alle" og "Bland alle". Dessuten har hver enkelt spilleliste selv en "..."-knapp nær spillelistetittelen, som tilbyr en rekke handlinger spesifikke for den spillelisten.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evermusic spilleliste-skjerm" image="/docs/guide/evermusic/evermusic-guide-playlists/img/playlists-main.webp" >}}
+  {{< ls-card title="" subtitle="Evermusic spilleliste-skjerm" image="/docs/guide/evermusic/evermusic-guide-playlists/img/playlists-main.webp" >}}
 {{< /cards >}}
 
 ## Opprette en spilleliste
@@ -25,7 +25,7 @@ Spilleliste-seksjonen gir deg verktøyene til å organisere låtene dine i liste
 For å opprette en ny spilleliste, trykk enten på "+"-knappen eller "..."-knappen øverst til høyre i navigasjonsbjelken, velg "Ny spilleliste" og tilordne et navn til spillelisten. Etter å ha navngitt den, trykk "Lagre."
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Opprett en ny spilleliste" image="/docs/guide/evermusic/evermusic-guide-playlists/img/playlists-add-new.webp" >}}
+  {{< ls-card title="" subtitle="Opprett en ny spilleliste" image="/docs/guide/evermusic/evermusic-guide-playlists/img/playlists-add-new.webp" >}}
 {{< /cards >}}
 
 Dette åpner dialogen "Legg til sanger", der du kan velge hvilke låter du vil legge til i den nye spillelisten. Låter er kategorisert etter kildetype, og du har flere alternativer:
@@ -42,7 +42,7 @@ Som standard kan du bare legge til en låt i en spilleliste én gang. For å til
 I Evermusic har vi lagt til M3U-filimportfunksjonalitet, slik at du ikke trenger å opprette spillelister manuelt.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Importer spilleliste fra en filkilde" image="/docs/guide/evermusic/evermusic-guide-playlists/img/playlists-import-from-files.webp" >}}
+  {{< ls-card title="" subtitle="Importer spilleliste fra en filkilde" image="/docs/guide/evermusic/evermusic-guide-playlists/img/playlists-import-from-files.webp" >}}
 {{< /cards >}}
 
 Gå først til 'Spillelister'-seksjonen. Trykk deretter på 'Mer'-knappen øverst til høyre. Fra menyen som vises, velg alternativet 'Importer spilleliste'.
@@ -62,7 +62,7 @@ Appen vil analysere spillelistefilen, opprette en liste over låter og finne dis
 Når du åpner en spilleliste, vises "Spillelistedetaljskjermen". På denne skjermen finner du en "..."-knapp øverst til høyre med spillelistealternativer og tre knapper under omslaget: "Søk", "Fortsett avspilling", "Spill alle" og "Bland alle". I tillegg er det en "Offline-modus"-avmerkingsboks.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Spillelistedetaljskjerm" image="/docs/guide/evermusic/evermusic-guide-playlists/img/playlists-detail-screen.webp" >}}
+  {{< ls-card title="" subtitle="Spillelistedetaljskjerm" image="/docs/guide/evermusic/evermusic-guide-playlists/img/playlists-detail-screen.webp" >}}
 {{< /cards >}}
 
 - **Fortsett avspilling**: Gjenopprett avspillingsposisjonen for denne spillelisten.
@@ -87,7 +87,7 @@ Du kan åpne handlinger for en spilleliste ved å trykke på "..."-knappen nær 
 - **Slett spilleliste:** Slett spillelisten fra musikkbiblioteket. Merk at denne handlingen ikke kan angres.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Meny med flere handlinger for en spilleliste" image="/docs/guide/evermusic/evermusic-guide-playlists/img/playlists-more-actions-for-separate-playlist.webp" >}}
+  {{< ls-card title="" subtitle="Meny med flere handlinger for en spilleliste" image="/docs/guide/evermusic/evermusic-guide-playlists/img/playlists-more-actions-for-separate-playlist.webp" >}}
 {{< /cards >}}
 
 ## Flere handlinger for spilleliste i spillelistedetaljskjermen
@@ -113,7 +113,7 @@ Du kan åpne handlinger for en spilleliste ved å trykke på "..."-knappen øver
 For å endre rekkefølgen på sanger i en spilleliste, trykk på "..."-knappen øverst til høyre og velg "Velge" for å gå inn i valg modus. Bruk omordningskontrollen og dra-og-slipp-gest nær hvert spor for å flytte dem opp eller ned. Å trykke på omordningskontrollen vil flytte sporet til toppen av listen. For å gå ut av valg modus og bruke endringer, trykk "Ferdig."
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Endre sangrekkefølge i en spilleliste" image="/docs/guide/evermusic/evermusic-guide-playlists/img/playlists-change-songs-order.webp" >}}
+  {{< ls-card title="" subtitle="Endre sangrekkefølge i en spilleliste" image="/docs/guide/evermusic/evermusic-guide-playlists/img/playlists-change-songs-order.webp" >}}
 {{< /cards >}}
 
 ## Endre spillelisteomslagets bilde
@@ -129,7 +129,7 @@ For å endre omslagsbildet til en spilleliste, trykk på "..."-knappen øverst t
 Åpne spillelisten, trykk på "..."-knappen øverst til høyre og velg "Velge" for å gå inn i valg modus. Velg låtene du vil slette og trykk på knappen "Slett fra spilleliste" nederst på skjermen. Bekreft endringene ved å trykke "Ferdig."
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Valgmodus inne i en spilleliste" image="/docs/guide/evermusic/evermusic-guide-playlists/img/playlists-selection-mode-in-playlist-details-screen.webp" >}}
+  {{< ls-card title="" subtitle="Valgmodus inne i en spilleliste" image="/docs/guide/evermusic/evermusic-guide-playlists/img/playlists-selection-mode-in-playlist-details-screen.webp" >}}
 {{< /cards >}}
 
 ## Sporalternativer
@@ -137,7 +137,7 @@ For å endre omslagsbildet til en spilleliste, trykk på "..."-knappen øverst t
 Hvert spor i en spilleliste har en liste over handlinger, tilgjengelig ved å trykke på "..."-knappen. Hvis du ikke kan se alle handlingene, bla ned for å se dem. Du kan slette sporet fra spillelisten, laste det ned, redigere lydtagger og mer.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Sporalternativmeny i en spilleliste" image="/docs/guide/evermusic/evermusic-guide-playlists/img/playlists-track-options.webp" >}}
+  {{< ls-card title="" subtitle="Sporalternativmeny i en spilleliste" image="/docs/guide/evermusic/evermusic-guide-playlists/img/playlists-track-options.webp" >}}
 {{< /cards >}}
 
 - **Spill neste:** Legger til sporet øverst i spillerkøen.

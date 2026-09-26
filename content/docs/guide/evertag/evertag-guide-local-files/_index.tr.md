@@ -18,7 +18,7 @@ Yerel Dosyalar bölümü, uygulamanın "Belgeler" klasöründe bulunan dosyalar�
 Bu yerleşik dosya yöneticisi dosyaları düzenlemenize olanak tanır ve uygulamaya ses dosyaları içe aktarmak için çeşitli yöntemler sunar. Son açtığınız dosyalar otomatik olarak **Sonlar** sekmesinde görünür ve yıldız işareti koyduğunuz öğeler **Favoriler** altında görünür; böylece bu ekrana geri dönmek zorunda kalmadan en çok çalıştığınız dosyalara doğrudan atlayabilirsiniz.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evertag İndirilenler Ekranı" image="/docs/guide/evertag/img/downloads.webp" >}}
+  {{< ls-card title="" subtitle="Evertag İndirilenler Ekranı" image="/docs/guide/evertag/img/downloads.webp" >}}
 {{< /cards >}}
 
 ## Bulut depolamadan dosya indirme
@@ -74,7 +74,7 @@ Uygulamanın Belgeler dizininde ve iCloud Drive'da depolanan dosya ve klasörler
 Cihazınızda ancak farklı uygulamalarda bulunan dosyaları gösterir. Bunları sistem dosya seçicisini kullanarak bu uygulamaya içe aktarabilirsiniz. Seçiciyi etkinleştirmek için dosya seçmek üzere "Dosyaları Aç..." veya klasör seçmek üzere "Klasörleri Aç..." seçeneğini seçin. iPhone veya Mac'inizde depolanan yerel müziğin nasıl içe aktarılacağına dair ayrıntılı talimatlar [burada](/docs/howto/how-to-play-local-music-stored-on-your-iphone-or-mac) mevcuttur. Cihazınızda bulunan bir klasörü bağlayabilir ve klasörün içeriğine hızlı erişim sağlayabilirsiniz. "Klasör Bağla" menü öğesini kullanın ve cihazınızdaki bir klasör seçin. "Tamamlandı"ya dokunun; uygulama o klasöre okuma/yazma erişimiyle bir bağlantı oluşturarak dosyaları doğrudan bu uygulamadan yönetmenize olanak tanır. Cihazınızdaki bir klasörün bağlantısını kesmek için "Daha Fazla Eylem" düğmesine dokunun ve "Bağlantıyı Kes"i seçin.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evertag Cihazımdan Dosya İçe Aktar" image="/docs/guide/evertag/img/open-files.webp" >}}
+  {{< ls-card title="" subtitle="Evertag Cihazımdan Dosya İçe Aktar" image="/docs/guide/evertag/img/open-files.webp" >}}
 {{< /cards >}}
 
 ## Bağlı USB Flash Kartlardaki Dosyaları İçe Aktar
@@ -86,7 +86,7 @@ iPhone'a USB flash kart bağlama ve üzerindeki dosyaları yönetme hakkında ay
 Şu anda açık olan klasörün Daha Fazla Eylem menüsü sağ üst köşede yer alır ve çeşitli eylemlere erişim sağlar.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evertag Cihazımdan Dosya İçe Aktar" image="/docs/guide/evertag/img/downloads-current-folder-actions.webp" >}}
+  {{< ls-card title="" subtitle="Evertag Cihazımdan Dosya İçe Aktar" image="/docs/guide/evertag/img/downloads-current-folder-actions.webp" >}}
 {{< /cards >}}
 
 - **Seçmek:** Dosyalar ve klasörler için seçim moduna geçin.

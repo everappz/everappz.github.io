@@ -7,7 +7,7 @@ tags: ["carplay", "iPhone", "ローカル音楽", "オフライン再生", "ever
 readingTime: 5
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **要約:** [Evermusic](https://apps.apple.com/app/apple-store/id885367198?pt=95781850&ct=everappzcom&mt=8)または[Flacbox](https://apps.apple.com/app/apple-store/id1097564256?pt=95781850&ct=everappzcom&mt=8)を使って、Apple CarPlay経由でiPhoneでMP3、FLAC、その他のオーディオファイルを再生しましょう。クラウドストレージ、USB、またはWi-Fi転送から音楽を追加し、ライブラリ、プレイリスト、フォルダーを車のスクリーンで直接閲覧できます。
@@ -17,7 +17,7 @@ readingTime: 5
 Apple CarPlayを使って車で自分の音楽を再生したいですか？曲がiPhone、クラウドストレージ、またはオフラインに保存されていても、**Evermusic**や**Flacbox**のようなアプリを使えば、運転中に個人の音楽コレクションを簡単に楽しめます。
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="CarPlay次に再生キュー" image="/docs/howto/how-to-play-your-own-music-on-iphone-using-carplay/carplay-nowplaying-5.webp" imageStyle="border-radius: clamp(14px, 2vw, 28px);" >}}
+{{< ls-card title="" subtitle="CarPlay次に再生キュー" image="/docs/howto/how-to-play-your-own-music-on-iphone-using-carplay/carplay-nowplaying-5.webp" imageStyle="border-radius: clamp(14px, 2vw, 28px);" >}}
 {{< /cards >}}
 
 このガイドでは、CarPlay用の音楽ファイルの準備方法、正しいアルバムカバーとトラック情報での整理方法、そしてiPhoneから安全に再生する方法をご紹介します。EvermusigまたはFlacboxを使えば、プレイリストを作成したり、**Google Drive**、**Dropbox**、**OneDrive**、**NAS**、またはホームコンピュータなどのサービスから曲をストリーミングまたはダウンロードできます。
@@ -25,8 +25,8 @@ Apple CarPlayを使って車で自分の音楽を再生したいですか？曲�
 これらのアプリは、音楽ライブラリを完全にコントロールしたい方に最適です。
 
 {{< cards cols="2">}}
-{{< card link="https://apps.apple.com/app/apple-store/id885367198?pt=95781850&ct=everappzcom&mt=8" title="Evermusigをダウンロード" icon="download" tag="Free" >}}
-{{< card link="https://apps.apple.com/app/apple-store/id1097564256?pt=95781850&ct=everappzcom&mt=8" title="Flacboxをダウンロード" icon="download" tag="Free" >}}
+{{< ls-card link="https://apps.apple.com/app/apple-store/id885367198?pt=95781850&ct=everappzcom&mt=8" title="Evermusigをダウンロード" icon="download" tag="Free" >}}
+{{< ls-card link="https://apps.apple.com/app/apple-store/id1097564256?pt=95781850&ct=everappzcom&mt=8" title="Flacboxをダウンロード" icon="download" tag="Free" >}}
 {{< /cards >}}
 
 ## アプリにファイルを追加する
@@ -106,7 +106,7 @@ Apple CarPlayを使って車で自分の音楽を再生したいですか？曲�
 EvermusigまたはFlacboxアプリをCarPlayモードで起動すると、4つのメインタブに分かれたメインインターフェースが表示されます：ライブラリ、接続、ローカルファイル、設定。
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="CarPlayメインメニュー" image="/docs/howto/how-to-play-your-own-music-on-iphone-using-carplay/library-with-images.webp" imageStyle="border-radius: clamp(14px, 2vw, 28px);" >}}
+{{< ls-card title="" subtitle="CarPlayメインメニュー" image="/docs/howto/how-to-play-your-own-music-on-iphone-using-carplay/library-with-images.webp" imageStyle="border-radius: clamp(14px, 2vw, 28px);" >}}
 {{< /cards >}}
 
 ## ライブラリ
@@ -116,7 +116,7 @@ Evermusigの**ライブラリ**タブは、すべての音楽が整理されて�
 この画面では、お気に入り、最近の項目、プレイリスト、ブックマーク、追加されたすべてのトラックにすばやくアクセスできます。前回のセッションからの再生を続けたり、未再生の曲を表示したり、タグやソースタイプで音楽を探索したりすることもできます。
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="ライブラリ" image="/docs/howto/how-to-play-your-own-music-on-iphone-using-carplay/library-with-images-3.webp" imageStyle="border-radius: clamp(14px, 2vw, 28px);" >}}
+{{< ls-card title="" subtitle="ライブラリ" image="/docs/howto/how-to-play-your-own-music-on-iphone-using-carplay/library-with-images-3.webp" imageStyle="border-radius: clamp(14px, 2vw, 28px);" >}}
 {{< /cards >}}
 
 **ライブラリ**セクションには以下のカテゴリが含まれています：
@@ -139,7 +139,7 @@ Evermusigの**ライブラリ**タブは、すべての音楽が整理されて�
 - **オンラインファイル** – クラウドサービスから直接ストリーミングされた音楽
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="アルバム表示" image="/docs/howto/how-to-play-your-own-music-on-iphone-using-carplay/albums.webp" imageStyle="border-radius: clamp(14px, 2vw, 28px);" >}}
+{{< ls-card title="" subtitle="アルバム表示" image="/docs/howto/how-to-play-your-own-music-on-iphone-using-carplay/albums.webp" imageStyle="border-radius: clamp(14px, 2vw, 28px);" >}}
 {{< /cards >}}
 
 任意のサブメニューを開き、トラックをタップすると即座に再生を開始できます。詳細については、完全な[音楽ライブラリガイド](/docs/guide/evermusic/evermusic-guide-music-library/)をご覧ください。
@@ -150,7 +150,7 @@ Evermusigの**ライブラリ**タブは、すべての音楽が整理されて�
 **接続**タブは、接続されたすべてのクラウドストレージサービスとローカルネットワークデバイスにアクセスして管理するための中央ハブです。
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="接続" image="/docs/howto/how-to-play-your-own-music-on-iphone-using-carplay/connections-with-images-3.webp" imageStyle="border-radius: clamp(14px, 2vw, 28px);" >}}
+{{< ls-card title="" subtitle="接続" image="/docs/howto/how-to-play-your-own-music-on-iphone-using-carplay/connections-with-images-3.webp" imageStyle="border-radius: clamp(14px, 2vw, 28px);" >}}
 {{< /cards >}}
 
 ここから、Dropbox、Google Drive、OneDrive、MEGA、iCloud Driveなどの人気のクラウドプラットフォームや、SMB、DLNA、WebDAVなどのネットワークドライブに接続できます。接続後は、アプリ内から直接ファイルの閲覧、ストリーミング、ダウンロード、管理ができます。
@@ -172,7 +172,7 @@ Evermusigの**ライブラリ**タブは、すべての音楽が整理されて�
 **ローカルファイル**セクションは、デバイスに直接保存されているオーディオファイルやEvermusigアプリの**ドキュメント**ディレクトリ内のファイルを管理するための中央ハブです。クラウドストレージからダウンロードしたオフラインファイル、オーディオプレーヤーのキャッシュファイル、オフライン再生用に設定したフォルダーも含まれます。このセクションにより、インターネット接続がなくても音楽ライブラリを楽しめます。
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="ローカルファイル" image="/docs/howto/how-to-play-your-own-music-on-iphone-using-carplay/local-files-with-images.webp" imageStyle="border-radius: clamp(14px, 2vw, 28px);" >}}
+{{< ls-card title="" subtitle="ローカルファイル" image="/docs/howto/how-to-play-your-own-music-on-iphone-using-carplay/local-files-with-images.webp" imageStyle="border-radius: clamp(14px, 2vw, 28px);" >}}
 {{< /cards >}}
 
 **ローカルファイル**画面は以下の主要セクションに整理されています：
@@ -186,7 +186,7 @@ Evermusigの**ライブラリ**タブは、すべての音楽が整理されて�
 - **オーディオプレーヤー** – クロスフェードとパフォーマンス最適化に使用されるキャッシュフォルダー。設定で無効化またはクリアできます。
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="ローカルファイルのデバイスフォルダー" image="/docs/howto/how-to-play-your-own-music-on-iphone-using-carplay/local-files-device-folders.webp" imageStyle="border-radius: clamp(14px, 2vw, 28px);" >}}
+{{< ls-card title="" subtitle="ローカルファイルのデバイスフォルダー" image="/docs/howto/how-to-play-your-own-music-on-iphone-using-carplay/local-files-device-folders.webp" imageStyle="border-radius: clamp(14px, 2vw, 28px);" >}}
 {{< /cards >}}
 
 完全な[ローカルファイルガイド](/docs/guide/evermusic/evermusic-guide-local-files/)で詳しく学べます。
@@ -194,7 +194,7 @@ Evermusigの**ライブラリ**タブは、すべての音楽が整理されて�
 ## フォルダー表示
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="カバー付きローカルフォルダー" image="/docs/howto/how-to-play-your-own-music-on-iphone-using-carplay/local-folder-with-images-2.webp" imageStyle="border-radius: clamp(14px, 2vw, 28px);" >}}
+{{< ls-card title="" subtitle="カバー付きローカルフォルダー" image="/docs/howto/how-to-play-your-own-music-on-iphone-using-carplay/local-folder-with-images-2.webp" imageStyle="border-radius: clamp(14px, 2vw, 28px);" >}}
 {{< /cards >}}
 
 フォルダーを開くと、上部に便利なアクションのセットがあります：
@@ -206,7 +206,7 @@ Evermusigの**ライブラリ**タブは、すべての音楽が整理されて�
 ## コンテンツ深度制限
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="コンテンツ深度制限" image="/docs/howto/how-to-play-your-own-music-on-iphone-using-carplay/content-depth-limit.webp" imageStyle="border-radius: clamp(14px, 2vw, 28px);" >}}
+{{< ls-card title="" subtitle="コンテンツ深度制限" image="/docs/howto/how-to-play-your-own-music-on-iphone-using-carplay/content-depth-limit.webp" imageStyle="border-radius: clamp(14px, 2vw, 28px);" >}}
 {{< /cards >}}
 
 CarPlayを使用しているとき、**「コンテンツ深度制限」**エラーが発生する場合があります — 特に音楽ライブラリに深くネストされたフォルダーが多い場合。
@@ -227,7 +227,7 @@ CarPlayを使用しているとき、**「コンテンツ深度制限」**エラ
 ## 再生中画面
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="CarPlay再生中エントリ" image="/docs/howto/how-to-play-your-own-music-on-iphone-using-carplay/carplay-nowplaying.webp" imageStyle="border-radius: clamp(14px, 2vw, 28px);" >}}
+{{< ls-card title="" subtitle="CarPlay再生中エントリ" image="/docs/howto/how-to-play-your-own-music-on-iphone-using-carplay/carplay-nowplaying.webp" imageStyle="border-radius: clamp(14px, 2vw, 28px);" >}}
 {{< /cards >}}
 
 オーディオファイルをタップすると、自動的に**プレーヤーキュー**に追加されます。
@@ -244,7 +244,7 @@ CarPlayを使用しているとき、**「コンテンツ深度制限」**エラ
 ## 設定
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="設定メニュー" image="/docs/howto/how-to-play-your-own-music-on-iphone-using-carplay/settings-2.webp" imageStyle="border-radius: clamp(14px, 2vw, 28px);" >}}
+{{< ls-card title="" subtitle="設定メニュー" image="/docs/howto/how-to-play-your-own-music-on-iphone-using-carplay/settings-2.webp" imageStyle="border-radius: clamp(14px, 2vw, 28px);" >}}
 {{< /cards >}}
 
 CarPlayインターフェースの**設定**セクションでは、運転中のアプリの動作をカスタマイズできます。これらの設定は、パフォーマンスの向上、注意散漫の軽減、よりスムーズなリスニング体験の提供に役立ちます。
@@ -260,7 +260,7 @@ CarPlayインターフェースの**設定**セクションでは、運転中の
 - **並べ替え** – ファイル、音楽ライブラリ、接続などのCarPlayメニューでのコンテンツの並べ替え方法を調整。
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="並べ替えオプションメニュー" image="/docs/howto/how-to-play-your-own-music-on-iphone-using-carplay/settings-sort.webp" imageStyle="border-radius: clamp(14px, 2vw, 28px);" >}}
+{{< ls-card title="" subtitle="並べ替えオプションメニュー" image="/docs/howto/how-to-play-your-own-music-on-iphone-using-carplay/settings-sort.webp" imageStyle="border-radius: clamp(14px, 2vw, 28px);" >}}
 {{< /cards >}}
 
 - **コンテンツ読み込み制限** – 画面ごとに表示するアイテム数を設定。低い制限は読み込み速度を改善し、スクロールの手間を減らします。
@@ -271,19 +271,19 @@ CarPlayインターフェースの**設定**セクションでは、運転中の
 - **オーディオイコライザー**
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="イコライザー設定パネル" image="/docs/howto/how-to-play-your-own-music-on-iphone-using-carplay/settings-eq-configuration.webp" imageStyle="border-radius: clamp(14px, 2vw, 28px);" >}}
+{{< ls-card title="" subtitle="イコライザー設定パネル" image="/docs/howto/how-to-play-your-own-music-on-iphone-using-carplay/settings-eq-configuration.webp" imageStyle="border-radius: clamp(14px, 2vw, 28px);" >}}
 {{< /cards >}}
 
 内蔵オーディオイコライザーを有効にし、周波数帯域を調整し、パーソナライズされたサウンド体験のためにプリセットから選択できます。
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="イコライザープリセットリスト" image="/docs/howto/how-to-play-your-own-music-on-iphone-using-carplay/settings-equalizer.webp" imageStyle="border-radius: clamp(14px, 2vw, 28px);" >}}
+{{< ls-card title="" subtitle="イコライザープリセットリスト" image="/docs/howto/how-to-play-your-own-music-on-iphone-using-carplay/settings-equalizer.webp" imageStyle="border-radius: clamp(14px, 2vw, 28px);" >}}
 {{< /cards >}}
 
 - **クロスフェード再生**
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="クロスフェード再生" image="/docs/howto/how-to-play-your-own-music-on-iphone-using-carplay/settings-crossfade-playback.webp" imageStyle="border-radius: clamp(14px, 2vw, 28px);" >}}
+{{< ls-card title="" subtitle="クロスフェード再生" image="/docs/howto/how-to-play-your-own-music-on-iphone-using-carplay/settings-crossfade-playback.webp" imageStyle="border-radius: clamp(14px, 2vw, 28px);" >}}
 {{< /cards >}}
 
 あるトラックの終わりと次のトラックの始まりをオーバーラップさせて、曲間のスムーズなトランジションを作成します。クロスフェードの長さはカスタマイズできます。
@@ -291,7 +291,7 @@ CarPlayインターフェースの**設定**セクションでは、運転中の
 - **ギャップレス再生**
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="ギャップレス再生" image="/docs/howto/how-to-play-your-own-music-on-iphone-using-carplay/settings-gapless-playback.webp" imageStyle="border-radius: clamp(14px, 2vw, 28px);" >}}
+{{< ls-card title="" subtitle="ギャップレス再生" image="/docs/howto/how-to-play-your-own-music-on-iphone-using-carplay/settings-gapless-playback.webp" imageStyle="border-radius: clamp(14px, 2vw, 28px);" >}}
 {{< /cards >}}
 
 一時停止なしでトラックをシームレスに再生 — ライブ録音、DJミックス、コンセプトアルバムに最適です。
@@ -307,7 +307,7 @@ CarPlayインターフェースの**設定**セクションでは、運転中の
 **Evermusic**と**Flacbox**を使えば、Apple CarPlayを使って車で自分の音楽を再生することが、シンプルで柔軟、そして信頼性の高いものになります。クラウドストレージからのストリーミング、ローカルファイルへのアクセス、オフラインでダウンロードしたトラックの再生など — これらのアプリは、運転中のリスニング体験を完全にコントロールできるように設計されています。
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="CarPlay再生中画面" image="/docs/howto/how-to-play-your-own-music-on-iphone-using-carplay/carplay-nowplaying-2.webp" imageStyle="border-radius: clamp(14px, 2vw, 28px);" >}}
+{{< ls-card title="" subtitle="CarPlay再生中画面" image="/docs/howto/how-to-play-your-own-music-on-iphone-using-carplay/carplay-nowplaying-2.webp" imageStyle="border-radius: clamp(14px, 2vw, 28px);" >}}
 {{< /cards >}}
 
 シームレスなクラウド統合からオフラインフォルダーの同期、詳細な音楽ライブラリの整理からイコライザーやクロスフェードによるカスタマイズ可能な再生まで — これらの機能により、EvermusigとFlacboxは単なるオーディオプレーヤー以上のものになります。オーディオファン、通勤者、そして日常のユーザーのために設計されたスマートなCarPlayコンパニオンです。
@@ -325,22 +325,22 @@ CarPlayインターフェースの**設定**セクションでは、運転中の
 
 ## よくある質問
 
-{{% details title="EvermusigとFlacboxのCarPlayで動作する音楽ファイル形式は？" closed="true" %}}
+{{% ls-details title="EvermusigとFlacboxのCarPlayで動作する音楽ファイル形式は？" closed="true" %}}
 EvermusigとFlacboxは、MP3、FLAC、AAC、WAV、AIFF、OGG、WMAなど、幅広いオーディオ形式をサポートしています。サポートされているすべての形式は、変換なしでCarPlayを通じて動作します。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="CarPlayでGoogle DriveやDropboxから音楽を再生できますか？" closed="true" %}}
+{{% ls-details title="CarPlayでGoogle DriveやDropboxから音楽を再生できますか？" closed="true" %}}
 はい。EvermusigとFlacboxの両方で、Google Drive、Dropbox、OneDrive、MEGAなどのクラウドストレージサービスに接続できます。音楽を直接ストリーミングしたり、オフラインCarPlay再生用にダウンロードしたりできます。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="CarPlayで音楽を再生するにはインターネット接続が必要ですか？" closed="true" %}}
+{{% ls-details title="CarPlayで音楽を再生するにはインターネット接続が必要ですか？" closed="true" %}}
 いいえ。オフライン再生用にクラウドストレージから音楽をダウンロードできます。ファイルがiPhoneにローカルに保存されると、インターネット接続なしでCarPlayを通じて再生されます。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="CarPlayでコンテンツ深度制限エラーが表示されるのはなぜですか？" closed="true" %}}
+{{% ls-details title="CarPlayでコンテンツ深度制限エラーが表示されるのはなぜですか？" closed="true" %}}
 CarPlayは表示できるフォルダーレベルの数を制限しています。音楽が深くネストされたフォルダーにある場合は、そのフォルダーをお気に入りに追加して、CarPlayのお気に入りメニューから直接アクセスできるようにしてください。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="EvermusigまたはFlacboxはCarPlayで無料で使用できますか？" closed="true" %}}
+{{% ls-details title="EvermusigまたはFlacboxはCarPlayで無料で使用できますか？" closed="true" %}}
 両方のアプリは、完全なCarPlayサポート、イコライザー、再生機能を備えて無料でダウンロードできます。無料版にはクラウド接続（3）、プレイリスト（10）、オフラインフォルダー（1）に制限があります。プレミアムではすべての制限が解除されます。
-{{% /details %}}
+{{% /ls-details %}}

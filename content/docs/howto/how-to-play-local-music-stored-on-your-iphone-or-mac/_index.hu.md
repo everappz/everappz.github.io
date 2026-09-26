@@ -6,7 +6,7 @@ tags: ["helyi zene", "offline zene", "zenelejátszó", "iPhone", "Mac", "Evermus
 keywords: ["hogyan játssz le helyi zenét iPhone-on", "zene lejátszása az eszköz tárhelyéről", "offline zenelejátszó iOS", "Evermusic alkalmazás útmutató", "Flacbox FLAC lejátszó", "iOS helyi fájlok lejátszása", "Mac zenei könyvtár", "zenealkalmazás helyi fájlokhoz", "iPhone letöltött dalok lejátszása", "hogyan használd az Evermusic-ot helyi fájlokkal"]
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **Összefoglaló:** Telepítsd az [Evermusic](/products/evermusic) (MP3/WAV) vagy a [Flacbox](/products/flacbox) (FLAC/DSD) alkalmazást, nyiss meg bármilyen helyi hangfájlt vagy mappát, és kezdd el a lejátszást. Adj hozzá mappákat a **Kedvencek**hez a gyors hozzáférésért, importálj számokat a zenei könyvtáradba, vagy hozz létre lejátszási listákat.
@@ -24,10 +24,10 @@ Megvizsgáljuk azokat a módszereket és eszközöket, amelyekkel zökkenőmente
 A helyi zene világába való utazásod megkezdéséhez iPhone-on és Mac-en, kezdd az Evermusic (szabványos hangformátumokhoz, mint mp3 és wav) vagy a Flacbox (veszteségmentes zenéhez dsd és flac formátumban) telepítésével. Mindkét alkalmazás elérhető iOS-re és macOS-re, és ingyenesen letöltheted őket.
 
 {{< cards >}}
-  {{< card link="https://apps.apple.com/us/app/evermusic-cloud-music-player/id885367198?pt=95781850&ct=everappzcom&mt=8" title="Evermusic letöltése iOS-re" tag="iOS" >}}
-  {{< card link="https://apps.apple.com/us/app/flacbox-hi-res-equalizer/id1097564256?pt=95781850&ct=everappzcom&mt=8" title="Flacbox letöltése iOS-re" tag="iOS" >}}
-  {{< card link="https://apps.apple.com/us/app/evermusic-hi-res-music-player/id1564384601?pt=95781850&ct=everappzcom&mt=8" title="Evermusic letöltése Mac-re" tag="macOS" >}}
-  {{< card link="https://apps.apple.com/us/app/flacbox-hi-res-music-player/id1594027432?pt=95781850&ct=everappzcom&mt=8" title="Flacbox letöltése Mac-re" tag="macOS" >}}
+  {{< ls-card link="https://apps.apple.com/us/app/evermusic-cloud-music-player/id885367198?pt=95781850&ct=everappzcom&mt=8" title="Evermusic letöltése iOS-re" tag="iOS" >}}
+  {{< ls-card link="https://apps.apple.com/us/app/flacbox-hi-res-equalizer/id1097564256?pt=95781850&ct=everappzcom&mt=8" title="Flacbox letöltése iOS-re" tag="iOS" >}}
+  {{< ls-card link="https://apps.apple.com/us/app/evermusic-hi-res-music-player/id1564384601?pt=95781850&ct=everappzcom&mt=8" title="Evermusic letöltése Mac-re" tag="macOS" >}}
+  {{< ls-card link="https://apps.apple.com/us/app/flacbox-hi-res-music-player/id1594027432?pt=95781850&ct=everappzcom&mt=8" title="Flacbox letöltése Mac-re" tag="macOS" >}}
 {{< /cards >}}
 
 
@@ -135,22 +135,22 @@ Ezekkel az egyszerű lépésekkel kiaknázhatod iPhone-od és Mac-ed teljes pote
 
 ## Gyakran ismételt kérdések
 
-{{% details title="Milyen hangformátumokat tudnak az Evermusic és Flacbox lejátszani?" closed="true" %}}
+{{% ls-details title="Milyen hangformátumokat tudnak az Evermusic és Flacbox lejátszani?" closed="true" %}}
 Az Evermusic MP3, WAV, AAC, M4A és más szabványos formátumokat játszik le. A Flacbox hozzáadja a FLAC, DSD, OGG, OPUS, APE, WMA és ALAC támogatást.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Másolják ezek az alkalmazások a fájlokat az alkalmazás tárhelyére?" closed="true" %}}
+{{% ls-details title="Másolják ezek az alkalmazások a fájlokat az alkalmazás tárhelyére?" closed="true" %}}
 Alapértelmezés szerint a fájlok az eredeti helyükről játszódnak le másolás nélkül. Ennek megváltoztatásához engedélyezd a "Mindig másolja a fájlokat megnyitáskor" opciót a **Beállítások** > Fájlkezelő menüpontban.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Rendszerezhetem a helyi zenét előadó és album szerint?" closed="true" %}}
+{{% ls-details title="Rendszerezhetem a helyi zenét előadó és album szerint?" closed="true" %}}
 Igen. Importáld a fájlokat a zenei könyvtárba (4. lépés) és az alkalmazás kiolvassa a metaadatokat, hogy csoportosítsa a számokat előadó, album, műfaj és zeneszerző szerint.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Hogyan vihetem át a zenét a számítógépemről az iPhone-ra?" closed="true" %}}
+{{% ls-details title="Hogyan vihetem át a zenét a számítógépemről az iPhone-ra?" closed="true" %}}
 Használd az iTunes fájlmegosztást (USB), WiFi Drive-ot (vezeték nélkül) vagy SMB-t (streaming). Nézd meg részletes útmutatónkat: [Helyi fájlok átvitele és lejátszása iPhone-on](/docs/howto/how-to-play-local-itunes-files-on-my-iphone/).
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Ingyenes az Evermusic és a Flacbox?" closed="true" %}}
+{{% ls-details title="Ingyenes az Evermusic és a Flacbox?" closed="true" %}}
 Igen, mindkét alkalmazás ingyenesen letölthető alapfunkciókkal, beleértve a lejátszást, hangszínszabályzót és felhő streaminget. Az ingyenes verzióknak vannak bizonyos korlátai (lejátszási listák, felhőfiókok, offline mappák száma). A Premium-ra való frissítés eltávolítja ezeket a korlátozásokat.
-{{% /details %}}
+{{% /ls-details %}}

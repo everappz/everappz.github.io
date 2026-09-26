@@ -12,7 +12,7 @@ authors:
     image: "/images/about/artem-meleshko-founder-everappz.webp"
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 **Ringkasan:** [Flacbox 7.4](/products/flacbox) ialah keluaran utama untuk pemain audio Hi-Res pada iPhone dan Mac. CarPlay telah dibina semula dari awal — pengisihan pantas, beberapa tema warna, skrin Sedang Dimainkan yang baharu, baris gilir mainan penuh sekali pandang dan indeks huruf untuk pustaka besar. Kemas kini ini menambah lebih daripada 10 cara baharu untuk mencapai muzik anda — awan mengutamakan privasi **Internxt** dan **Proton Drive**, pelayan peribadi **QNAP**, **Nextcloud** dan **Amazon S3**, pelayan penstriman **Plex**, **Subsonic**, **Navidrome**, **Jellyfin** dan **Emby**, serta protokol rangkaian **FTP**, **SFTP** dan **NFS**. Antara muka diselaraskan dengan bahan **Liquid Glass** baharu Apple, pustaka rangkaian dalaman menjadi lebih kukuh dan widget Skrin Utama disegarkan dengan lebih boleh dipercayai.
 
@@ -121,50 +121,50 @@ Jika aplikasi ini menjadikan hari anda lebih baik, penilaian di App Store sangat
 
 ## Soalan Lazim
 
-{{% details title="Apa yang baharu dalam Flacbox 7.4?" closed="true" %}}
+{{% ls-details title="Apa yang baharu dalam Flacbox 7.4?" closed="true" %}}
 Flacbox 7.4 menghadirkan pengalaman CarPlay yang dibina semula sepenuhnya dan menambah lebih daripada 10 sambungan baharu — Plex, Jellyfin, Emby, Subsonic, Navidrome, Internxt, Proton Drive, QNAP, Nextcloud, Amazon S3, FTP, SFTP, NFS. Keluaran ini juga membawa penyegaran reka bentuk Liquid Glass, pustaka rangkaian yang lebih kukuh, widget Skrin Utama yang direka semula dengan penyegaran lebih bijak, pembetulan mainan pada beberapa pelayan, penambahbaikan terjemahan dan banyak penambahbaikan kecil.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Adakah Flacbox berfungsi dengan Plex untuk FLAC dan audio lossless?" closed="true" %}}
+{{% ls-details title="Adakah Flacbox berfungsi dengan Plex untuk FLAC dan audio lossless?" closed="true" %}}
 Ya. Bermula dari Flacbox 7.4 anda boleh menyambung ke Plex Media Server dan menstrim seluruh pustaka Hi-Res anda — FLAC, ALAC, WAV, AIFF, OGG, OPUS dan format lossless lain. Plex Media Server adalah percuma untuk dijalankan; Plex Pass adalah pilihan. Flacbox menyokong kedua-dua persediaan percuma dan Plex Pass.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Adakah Jellyfin atau Navidrome disokong dalam Flacbox?" closed="true" %}}
+{{% ls-details title="Adakah Jellyfin atau Navidrome disokong dalam Flacbox?" closed="true" %}}
 Ya. Kedua-duanya disokong sepenuhnya dalam Flacbox 7.4. Jellyfin ialah pelayan media percuma dan sumber terbuka. Navidrome ialah pelayan muzik percuma dan sumber terbuka yang melaksanakan API Subsonic. Flacbox menyambung ke kedua-duanya secara asli dan menstrim pustaka lossless anda dengan metadata dan kulit penuh.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Adakah Plex, Jellyfin, Emby, Navidrome dan Subsonic percuma?" closed="true" %}}
+{{% ls-details title="Adakah Plex, Jellyfin, Emby, Navidrome dan Subsonic percuma?" closed="true" %}}
 - **Plex** — pelayan percuma; Plex Pass ialah peningkatan berbayar pilihan.
 - **Jellyfin** — sepenuhnya percuma dan sumber terbuka.
 - **Emby** — pelayan percuma; Emby Premiere berbayar dan membuka kunci penyegerakan mudah alih dan luar talian.
 - **Navidrome** — sepenuhnya percuma dan sumber terbuka.
 - **Subsonic** — pelayan rasmi berharga $1/bulan selepas percubaan 30 hari, tetapi APInya terbuka dan banyak pelayan percuma (termasuk Navidrome) melaksanakannya.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Bolehkah saya menstrim FLAC dan DSD daripada NAS rumah saya melalui SFTP, FTP atau NFS?" closed="true" %}}
+{{% ls-details title="Bolehkah saya menstrim FLAC dan DSD daripada NAS rumah saya melalui SFTP, FTP atau NFS?" closed="true" %}}
 Ya. Flacbox 7.4 menambah SFTP, FTP dan NFS sebagai jenis sambungan asli. SFTP adalah pilihan yang disyorkan untuk penstriman daripada pelayan anda sendiri melalui internet awam kerana semua trafik disulitkan melalui SSH. FTP dan NFS paling baik digunakan di dalam rangkaian tempatan anda atau di sebalik VPN.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Bagaimana saya menyambungkan Flacbox ke pelayan tersuai menggunakan SFTP?" closed="true" %}}
+{{% ls-details title="Bagaimana saya menyambungkan Flacbox ke pelayan tersuai menggunakan SFTP?" closed="true" %}}
 Buka Flacbox, pergi ke tab Sambungan, pilih SFTP dan masukkan nama hos atau IP pelayan anda, port (biasanya 22), nama pengguna dan kata laluan atau kunci peribadi SSH. Flacbox akan menyemak imbas folder jauh anda dan menstrim fail audio secara langsung dengan penyulitan hujung ke hujung.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Adakah Flacbox menyokong Internxt dan Proton Drive?" closed="true" %}}
+{{% ls-details title="Adakah Flacbox menyokong Internxt dan Proton Drive?" closed="true" %}}
 Ya. Kedua-dua awan yang fokus kepada privasi disokong sejak Flacbox 7.4. Mereka menyertai MEGA dan perkhidmatan mengutamakan privasi lain yang sudah tersedia dalam aplikasi.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Adakah Flacbox memainkan fail DSD daripada Plex, Jellyfin atau NAS?" closed="true" %}}
+{{% ls-details title="Adakah Flacbox memainkan fail DSD daripada Plex, Jellyfin atau NAS?" closed="true" %}}
 Ya. Flacbox memainkan fail DSD64, DSD128 dan DSD256 (bekas DSF dan DFF) yang distrim daripada Plex, Jellyfin, Emby, pelayan serasi Subsonic, QNAP, Nextcloud, Amazon S3 dan melalui SFTP, FTP dan NFS. Output bit-perfect ke DAC USB disokong pada iPhone, iPad dan Mac.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Bagaimana skrin CarPlay yang direka semula berfungsi?" closed="true" %}}
+{{% ls-details title="Bagaimana skrin CarPlay yang direka semula berfungsi?" closed="true" %}}
 Antara muka CarPlay Flacbox telah dibina semula dengan pengisihan pantas merentas album, artis, senarai main dan folder; beberapa tema warna yang sepadan dengan pelbagai interior kereta; skrin Sedang Dimainkan baharu dengan kawalan baharu; baris gilir mainan penuh sekali pandang; indeks huruf untuk melompat melalui pustaka besar; dan pemuatan lebih pantas pada folder besar dan direktori awan.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Adakah Flacbox 7.4 percuma untuk dikemas kini?" closed="true" %}}
+{{% ls-details title="Adakah Flacbox 7.4 percuma untuk dikemas kini?" closed="true" %}}
 Ya. Flacbox ialah muat turun percuma daripada App Store, dan 7.4 ialah kemas kini percuma untuk semua pengguna sedia ada. CarPlay yang dibina semula, semua sambungan awan dan pelayan baharu, widget Skrin Utama yang diperbaharui dan UI Liquid Glass adalah sebahagian daripada kemas kini asas.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Pada peranti manakah Flacbox 7.4 tersedia?" closed="true" %}}
+{{% ls-details title="Pada peranti manakah Flacbox 7.4 tersedia?" closed="true" %}}
 Flacbox 7.4 berjalan pada iPhone, iPad dan Mac. Sokongan CarPlay memerlukan kenderaan serasi CarPlay atau unit kepala selepas pasaran. AirPlay dan Chromecast membolehkan anda menghantar mainan ke sistem yang lebih besar; DAC USB disokong untuk output lossless bit-perfect.
-{{% /details %}}
+{{% /ls-details %}}

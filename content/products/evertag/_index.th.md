@@ -15,14 +15,14 @@ screenshots:
   - "https://everappz.com/products/evertag/screenshots/2048x2732/3.png"
 ---
 
-{{% sr-only %}}
+{{% ls-sr-only %}}
 Evertag เป็นโปรแกรมแก้ไขแท็กเพลงสำหรับ iPhone และ Mac พัฒนาโดย Everappz บริษัทซอฟต์แวร์จากสเปน Evertag ช่วยให้ผู้ใช้แก้ไขแท็กข้อมูลเมตาของเสียงกว่า 120 รายการ รวมถึงชื่อเพลง ศิลปิน อัลบั้ม ศิลปินอัลบั้ม แนวเพลง ปี หมายเลขแทร็ก หมายเลขแผ่น ผู้แต่ง BPM เนื้อเพลง ความคิดเห็น และอื่นๆ แอปรองรับการแก้ไขแท็กแบบเป็นชุด ทำให้ผู้ใช้สามารถอัปเดตข้อมูลเมตาของหลายไฟล์พร้อมกัน Evertag มีเครื่องมือค้นหาแท็กอัตโนมัติที่ขับเคลื่อนด้วยฐานข้อมูล MusicBrainz ซึ่งระบุเพลงและเติมข้อมูลเมตาที่ขาดหายไป รวมถึงเครื่องมือค้นหาปกอัลบั้มที่ค้นหาและนำภาพปกไปใช้กับแทร็ก แอปรองรับรูปแบบเสียงมากกว่า 30 รูปแบบ ได้แก่ MP3, FLAC, OGG, OPUS, M4A, WAV, WMA, APE, AIFF, ALAC, MKA, MOD, XM, IT และ S3M Evertag สามารถเข้าถึงไฟล์จากบริการจัดเก็บข้อมูลบนคลาวด์ รวมถึง iCloud Drive, Google Drive, Dropbox และ OneDrive รวมถึงจาก USB แฟลชไดรฟ์และตำแหน่งเครือข่ายท้องถิ่นผ่าน SMB และ WebDAV แอปยังมีตัวจัดการไฟล์ในตัว การถ่ายโอนไฟล์ผ่าน Wi-Fi การแก้ไขการเข้ารหัสสำหรับแท็กที่แสดงไม่ถูกต้องในอักษรที่ไม่ใช่ละติน และโปรแกรมแก้ไขเนื้อเพลง Evertag พร้อมให้ดาวน์โหลดฟรีบน App Store พร้อมตัวเลือกการซื้อในแอปรวมถึงสมาชิกรายเดือนราคา $2.99 สมาชิกรายปีราคา $9.99 หรือซื้อขาดตลอดชีพราคา $29.99
-{{% /sr-only %}}
+{{% /ls-sr-only %}}
 
 
-{{< force-dark >}}
+{{< ls-force-dark >}}
 
-{{< hextra/hero-container
+{{< ls-hero-container
   image="/products/evertag/heroimage/evertag_mac_600_345.png"
   imageWidth="600"
 >}}
@@ -30,37 +30,37 @@ Evertag เป็นโปรแกรมแก้ไขแท็กเพลง
 <div class="hx:w-full hx:text-center">
 
 <div class="hx:mt-4">
-{{< downloads-badge >}}
+{{< ls-downloads-badge >}}
 </div>
 
 <div class="hx:mt-6 hx:mb-6">
 <div class="hx:flex hx:gap-4 hx:items-center hx:justify-center">
-  {{< app-icon src="/images/app_icons/png/Evertag_Icon-App-1024x1024.png" alt="Evertag Icon" class="hero-headline-icon" size="80" >}}
-  {{< hextra/hero-headline >}}
+  {{< ls-app-icon src="/images/app_icons/png/Evertag_Icon-App-1024x1024.png" alt="Evertag Icon" class="hero-headline-icon" size="80" >}}
+  {{< ls-hero-headline >}}
   Evertag
-  {{< /hextra/hero-headline >}}
+  {{< /ls-hero-headline >}}
 </div>
 </div>
 
 <div class="hx:mb-6">
-{{< hextra/hero-centered-subtitle >}}
+{{< ls-hero-centered-subtitle >}}
 <strong>จัดระเบียบคลังเพลงของคุณ</strong>
-{{< /hextra/hero-centered-subtitle >}}
+{{< /ls-hero-centered-subtitle >}}
 </div>
 
 <div class="hx:mb-6">
-{{< hextra/hero-paragraph >}}
+{{< ls-hero-paragraph >}}
 • เพิ่มหรืออัปเดตปกอัลบั้ม  
 • แก้ไขแท็กสำหรับหลายเพลงพร้อมกัน  
 • แก้ไขการเข้ารหัสที่เสียหายและเติมแท็กที่หายไปอัตโนมัติ  
-{{< /hextra/hero-paragraph >}}
+{{< /ls-hero-paragraph >}}
 </div>
 
-{{< app-store-badges products="evertag:ios, evertag:macos" >}}
+{{< ls-app-store-badges products="evertag:ios, evertag:macos" >}}
 
 </div>
 
-{{< /hextra/hero-container >}}
+{{< /ls-hero-container >}}
 
 <div class="hx:mt-6"></div>
 
@@ -68,63 +68,63 @@ Evertag เป็นโปรแกรมแก้ไขแท็กเพลง
 
 {{< hextra/feature-grid >}}
 
-  {{< hextra/feature-card
+  {{< ls-glass-feature-card
     title="แก้ไขแท็กมากกว่า 120 รายการ"
     subtitle="แก้ไขแท็กเพลงอย่างรวดเร็ว เช่น ชื่อเพลง, ศิลปิน, อัลบั้ม, ศิลปินอัลบั้ม, BPM, ความคิดเห็น, นักแต่งเพลง, หมายเลขดิสก์, แนวเพลง, เนื้อเพลง, เรตติ้ง, หมายเลขแทร็ก, ปี และอื่นๆ"
     icon="pencil"
     style="background: radial-gradient(ellipse at 50% 80%, rgba(59,130,246,0.15), hsla(0,0%,100%,0));"
   >}}
 
-  {{< hextra/feature-card
+  {{< ls-glass-feature-card
     title="แก้ไขแท็กเป็นชุด"
     subtitle="อัปเดตเมตาดาต้าสำหรับหลายไฟล์พร้อมกัน ประหยัดเวลาและรักษาคลังเพลงของคุณให้เป็นระเบียบด้วยการแตะเพียงไม่กี่ครั้ง"
     icon="database"
     style="background: radial-gradient(ellipse at 50% 80%, rgba(192,38,211,0.15), hsla(0,0%,100%,0));"
   >}}
 
-  {{< hextra/feature-card
+  {{< ls-glass-feature-card
     title="ค้นหาปกอัลบั้ม"
     subtitle="ค้นหาและเพิ่มปกอัลบั้มที่หายไปให้กับเพลงของคุณโดยอัตโนมัติ ทำให้คอลเลกชันเพลงของคุณสมบูรณ์ทางสายตา"
     icon="camera"
     style="background: radial-gradient(ellipse at 50% 80%, rgba(234,88,12,0.15), hsla(0,0%,100%,0));"
   >}}
 
-  {{< hextra/feature-card
+  {{< ls-glass-feature-card
     title="รองรับมากกว่า 30 รูปแบบ"
     subtitle="รองรับ MP3, FLAC, OGG, OPUS, M4A, WAV, WMA, APE, AIFF, MOD, XM, IT และอื่นๆ"
     icon="music-note"
     style="background: radial-gradient(ellipse at 50% 80%, rgba(236,72,153,0.15), hsla(0,0%,100%,0));"
   >}}
 
-  {{< hextra/feature-card
+  {{< ls-glass-feature-card
     title="ค้นหาแท็กอัตโนมัติ"
     subtitle="ตรวจจับข้อมูลเพลงที่หายไปและเติมโดยอัตโนมัติโดยใช้ฐานข้อมูล MusicBrainz เลือกตรวจสอบการเปลี่ยนแปลงหรือนำไปใช้ทันที"
     icon="search"
     style="background: radial-gradient(ellipse at 50% 80%, rgba(34,197,94,0.15), hsla(0,0%,100%,0));"
   >}}
 
-  {{< hextra/feature-card
+  {{< ls-glass-feature-card
     title="แก้ไขปัญหาการเข้ารหัส"
     subtitle="ซ่อมแซมอักขระที่เสียหายหรืออ่านไม่ได้ในเมตาดาต้าของคุณ Evertag ดูแลให้แท็กของคุณสะอาดและชัดเจนในทุกภาษา"
     icon="translate"
     style="background: radial-gradient(ellipse at 50% 80%, rgba(251,191,36,0.15), hsla(0,0%,100%,0));"
   >}}
 
-  {{< hextra/feature-card
+  {{< ls-glass-feature-card
     title="เข้าถึงคลาวด์และ USB"
     subtitle="แก้ไขเพลงโดยตรงจาก iCloud Drive, Google Drive, Dropbox, OneDrive, แฟลชไดรฟ์ USB หรือโฟลเดอร์ที่แชร์ — ไม่ต้องคัดลอก"
     icon="cloud"
     style="background: radial-gradient(ellipse at 50% 80%, rgba(6,182,212,0.15), hsla(0,0%,100%,0));"
   >}}
 
-  {{< hextra/feature-card
+  {{< ls-glass-feature-card
     title="ถ่ายโอนเพลงผ่าน Wi-Fi"
     subtitle="อัปโหลดเพลงไปยัง iPhone หรือ iPad จากคอมพิวเตอร์ของคุณผ่านการเชื่อมต่อ Wi-Fi อย่างง่ายดาย ไม่ต้องใช้สาย"
     icon="wifi"
     style="background: radial-gradient(ellipse at 50% 80%, rgba(245,158,11,0.15), hsla(0,0%,100%,0));"
   >}}
 
-  {{< hextra/feature-card
+  {{< ls-glass-feature-card
     title="ตัวจัดการไฟล์ในตัว"
     subtitle="จัดระเบียบไฟล์เพลงของคุณด้วยเครื่องมือในตัว เปลี่ยนชื่อ, ย้าย, ลบ, ทำเครื่องหมายรายการโปรด และดูกิจกรรมล่าสุด — ทั้งหมดในแอปเดียว"
     icon="folder-open"
@@ -139,47 +139,47 @@ Evertag เป็นโปรแกรมแก้ไขแท็กเพลง
 <div class="hx:mt-6"></div>
 
 <div class="hx:w-full">
-{{< appstore-reviews apps="1450763230,1594027661" stars="5,4"  app="Evertag" >}}
+{{< ls-appstore-reviews apps="1450763230,1594027661" stars="5,4"  app="Evertag" >}}
 </div>
 
 <div class="hx:mt-6"></div>
 
-{{< hextra/section-headline >}}
+{{< ls-section-headline >}}
   แผนราคา
-{{< /hextra/section-headline >}}
+{{< /ls-section-headline >}}
 
 <div class="hx:mt-6"></div>
 
 <div class="hx:w-full">
 
-{{< pricing-plans >}}
+{{< ls-pricing-plans >}}
 
 </div>
 
 <div class="hx:mt-6"></div>
 
 <div class="hx:w-full hx:mx-auto hx:flex hx:flex-col hx:items-center">
-  {{< hextra/info-paragraph border="true" >}}
+  {{< ls-info-paragraph border="true" >}}
    <strong>การแชร์กับครอบครัว</strong>: การซื้อและการสมัครสมาชิกทั้งหมดรองรับการแชร์กับครอบครัว ช่วยให้คุณแชร์สิทธิ์พรีเมียมกับครอบครัว<br><strong>การเข้าถึงแบบสากล</strong>: แผนตลอดชีพและการสมัครสมาชิกจะแชร์ระหว่างอุปกรณ์ iOS และ Mac โดยใช้การซิงค์ iCloud<br><strong>ราคา</strong>: ราคาแสดงเป็นดอลลาร์สหรัฐสำหรับสหรัฐอเมริกา ราคาสุดท้ายอาจแตกต่างกันตามภูมิภาคของคุณ  
-  {{< /hextra/info-paragraph >}}
+  {{< /ls-info-paragraph >}}
 </div>
 
 <div class="hx:mt-6"></div>
 
 <div class="hx:w-full">
-{{< app-details heading="true" >}}
+{{< ls-app-details heading="true" >}}
 </div>
 
 <div class="hx:mt-6"></div>
 
-{{< hextra/section-headline >}}
+{{< ls-section-headline >}}
   คำถามที่พบบ่อย
-{{< /hextra/section-headline >}}
+{{< /ls-section-headline >}}
 
 <div class="hx:mt-6"></div>
 
 <div class="hx:w-full">
-{{% details title="Evertag คืออะไร?" closed="true" %}}
+{{% ls-details title="Evertag คืออะไร?" closed="true" %}}
 Evertag เป็นโปรแกรมแก้ไขเมตาดาต้าเพลงและตัวจัดการปกอัลบั้มที่ทรงพลัง ออกแบบมาสำหรับ iOS และ macOS มันให้เครื่องมือในการจัดระเบียบคอลเลกชันเพลงของคุณอย่างมืออาชีพ ไม่ว่าไฟล์ของคุณจะเก็บไว้ในเครื่องหรือบนคลาวด์ ด้วยอินเทอร์เฟซที่สะอาดและฟีเจอร์การแก้ไขขั้นสูง Evertag ทำให้ง่ายต่อการแก้ไขแท็กที่หายไป เพิ่มปกอัลบั้มคุณภาพสูง และรับประกันว่าคลังเพลงของคุณดูดีและสม่ำเสมอ<br><br>
 
 แอปรองรับรูปแบบเสียงยอดนิยมหลากหลาย รวมถึง MP3, FLAC, WAV, M4A, WMA, OGG และอื่นๆ อีกมากมาย ช่วยให้คุณแก้ไขแท็กทั่วไป เช่น ชื่อเพลง, ศิลปิน, อัลบั้ม, แนวเพลง, ปี, หมายเลขแทร็ก รวมถึงฟิลด์ขยาย เช่น BPM, หมายเลขดิสก์, เนื้อเพลง, MusicBrainz ID และอื่นๆ คุณสามารถทำงานกับไฟล์เดียวหรือสลับไปโหมดแก้ไขเป็นชุดเพื่อแก้ไขหลายแทร็กพร้อมกัน — เหมาะสำหรับการจัดระเบียบอัลบั้มหรือเพลย์ลิสต์ทั้งหมด<br><br>
@@ -187,14 +187,14 @@ Evertag เป็นโปรแกรมแก้ไขเมตาดาต้
 หนึ่งในฟีเจอร์เด่นของ Evertag คือความสามารถในการดึงปกอัลบั้มที่หายไปโดยตรงจากอินเทอร์เน็ตหรือให้คุณเพิ่มเอง คุณยังสามารถใช้โปรแกรมแก้ไขเนื้อเพลงเพื่อเพิ่มเนื้อเพลงที่ไม่ซิงค์กับเวลาให้กับเพลงของคุณ ช่วยเพิ่มประสบการณ์การเล่นในเครื่องเล่นที่รองรับ แอปรองรับการแก้ไขในที่ ดังนั้นคุณสามารถแก้ไขแท็กเสียงโดยไม่ต้องคัดลอกหรือย้ายไฟล์<br><br>
 
 ไม่ว่าคุณจะจัดการเพลงบนอุปกรณ์หรือบนคลาวด์ด้วย Dropbox, OneDrive, MEGA หรือบริการอื่นๆ Evertag ให้การเข้าถึงและแก้ไขไฟล์อย่างราบรื่น เป็นโซลูชันที่สมบูรณ์แบบสำหรับนักดนตรี, ดีเจ และนักสะสมที่ต้องการรักษาคลังเพลงที่สะอาดและเป็นระเบียบบน iPhone, iPad โดยไม่ต้องใช้คอมพิวเตอร์ตั้งโต๊ะ<br><br>
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Evertag ฟรีหรือไม่?" closed="true" %}}
+{{% ls-details title="Evertag ฟรีหรือไม่?" closed="true" %}}
 Evertag เป็นแอปพลิเคชันฟรีที่มีข้อจำกัดบางประการซึ่งคุณสามารถลบได้หลังจากอัปเกรดเป็นเวอร์ชันพรีเมียม แอปพลิเคชันมีการซื้อตลอดชีพครั้งเดียวและตัวเลือกการสมัครสมาชิกสองแบบ (1 เดือน และ 1 ปี) เพื่อลบข้อจำกัดทั้งหมด ช่วยให้คุณเลือกราคาที่ดีที่สุดและเหมาะสมที่สุด ราคาอาจแตกต่างกันตามประเทศหรือพื้นที่ของคุณ นอกจากนี้โปรดทราบว่าการแชร์กับครอบครัวเปิดใช้งานสำหรับการซื้อและแผนทั้งหมด ดังนั้นคุณสามารถแชร์เวอร์ชันพรีเมียมกับสมาชิกในครอบครัว<br><br>
 การซื้อตลอดชีพและการสมัครสมาชิกจะแชร์ระหว่าง iOS และ Mac โดยใช้ iCloud ในการซิงค์ข้อมูลนี้ หากคุณมีเวอร์ชันพรีเมียมบนอุปกรณ์ iOS โปรดตรวจสอบให้แน่ใจว่าคุณติดตั้งเวอร์ชันล่าสุดแล้วและเปิดใช้งาน iCloud เปิดแอปบน iOS และรอหนึ่งนาทีเพื่อให้ข้อมูลการซื้ออัปโหลดไปยัง iCloud<br><br>
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="ความแตกต่างระหว่าง Evertag ฟรีและ Evertag พรีเมียมคืออะไร?" closed="true" %}}
+{{% ls-details title="ความแตกต่างระหว่าง Evertag ฟรีและ Evertag พรีเมียมคืออะไร?" closed="true" %}}
 
 **Evertag ฟรี**  <br>
 Evertag ฟรีให้คุณเข้าถึงฟีเจอร์แก้ไขเมตาดาต้าเพลงที่ทรงพลังพร้อมข้อจำกัดด้านฟังก์ชันบางประการ รวมถึงโฆษณาและอนุญาตให้ใช้งานพื้นฐานของโปรแกรมแก้ไขแท็ก โปรแกรมแก้ไขปกอัลบั้ม และการแก้ไขเป็นชุด คุณสามารถแก้ไขปัญหาการเข้ารหัส เชื่อมต่อบัญชีคลาวด์สตอเรจ 1 บัญชี และทำเครื่องหมายไฟล์โปรดได้สูงสุด 10 ไฟล์ นอกจากนี้คุณสามารถค้นหาแท็กอัตโนมัติ 20 ครั้งและค้นหาปกอัลบั้ม 20 ครั้งต่อวัน<br><br>
@@ -213,9 +213,9 @@ Evertag ฟรีให้คุณเข้าถึงฟีเจอร์แ
 
 ทุกตัวเลือกพรีเมียมมีชุดฟีเจอร์เดียวกัน ดังนั้นคุณสามารถเลือกแผนที่เหมาะกับความต้องการและงบประมาณของคุณ<br><br>
 
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Evertag ปลอดภัยหรือไม่?" closed="true" %}}
+{{% ls-details title="Evertag ปลอดภัยหรือไม่?" closed="true" %}}
 Evertag ใช้เฉพาะ SDK อย่างเป็นทางการและการเชื่อมต่อที่ปลอดภัยเพื่อโต้ตอบกับบริการคลาวด์ที่เชื่อมต่อ ชื่อผู้ใช้และรหัสผ่านของคุณไม่สามารถเข้าถึงได้โดยแอปพลิเคชัน คำขอทั้งหมดจากแอปพลิเคชันไปยังบริการคลาวด์ได้รับการเข้ารหัส<br>
 เมื่อคุณป้อนชื่อผู้ใช้และรหัสผ่าน แอปพลิเคชันจะแสดงหน้าอนุญาตอย่างเป็นทางการที่จัดทำโดยผู้ให้บริการคลาวด์ และกระบวนการอนุญาตทั้งหมดทำนอกแอปพลิเคชัน ผู้ให้บริการคลาวด์จะส่งโทเค็นอนุญาตไปยังแอปพลิเคชันหลังจากอนุญาตสำเร็จ และโทเค็นนั้นใช้เพื่อเรียก API<br><br>
 
@@ -226,9 +226,9 @@ Evertag ใช้เฉพาะ SDK อย่างเป็นทางกา�
 
 คุณยังสามารถยกเลิกการเชื่อมต่อบัญชีคลาวด์ที่เชื่อมต่อในแอปพลิเคชัน และโทเค็นอนุญาตจะถูกลบออกจากอุปกรณ์ของคุณด้วย หากคุณลบแอปพลิเคชันออกจากอุปกรณ์ ข้อมูลที่ดาวน์โหลดทั้งหมดและโทเค็นการเข้าถึงจะถูกลบออกด้วย<br><br>
 
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="จะแก้ไขเมตาดาต้าสำหรับเพลงที่ดาวน์โหลดในเครื่อง iPhone ได้อย่างไร?" closed="true" %}}
+{{% ls-details title="จะแก้ไขเมตาดาต้าสำหรับเพลงที่ดาวน์โหลดในเครื่อง iPhone ได้อย่างไร?" closed="true" %}}
 หลังจากติดตั้งแอปพลิเคชันแล้ว เปิดหน้าจอ "ไฟล์ในเครื่อง" และเลื่อนลงไปที่ส่วน "ไฟล์บน iPhone นี้"<br>
 จากที่นั่น เลือก "เปิดไฟล์..." หากคุณต้องการเลือกไฟล์เสียงหลายไฟล์ หรือ "เปิดโฟลเดอร์..." หากคุณต้องการเลือกโฟลเดอร์เพลง<br>
 แอปจะสแกนเนื้อหาของโฟลเดอร์ และไฟล์เสียงที่พบทั้งหมดจะถูกเลือก<br>
@@ -242,9 +242,9 @@ Evertag ใช้เฉพาะ SDK อย่างเป็นทางกา�
 เลื่อนลงไปที่ส่วน "ไฟล์บนอุปกรณ์นี้" และแตะ "เชื่อมต่อโฟลเดอร์"<br>
 เลือกโฟลเดอร์บนอุปกรณ์ของคุณและแตะ "เปิด" เพื่อยืนยันการเลือก<br>
 โฟลเดอร์ของคุณจะถูกเพิ่มไปยังส่วน "ไฟล์บน iPhone นี้" เพื่อการเข้าถึงไฟล์เสียงอย่างรวดเร็ว<br><br>
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="จะเพิ่มเนื้อเพลงสำหรับเพลงใน Evertag ได้อย่างไร?" closed="true" %}}
+{{% ls-details title="จะเพิ่มเนื้อเพลงสำหรับเพลงใน Evertag ได้อย่างไร?" closed="true" %}}
 คุณสามารถเพิ่มเนื้อเพลงที่ฝังไว้ให้กับแทร็กของคุณในแอป Evertag โดยทำตามขั้นตอนเหล่านี้:<br><br>
 * เริ่มแก้ไขไฟล์เสียงโดยแตะที่ไฟล์<br>
 * แตะ "แสดงแท็กขยาย" เพื่อสลับโปรแกรมแก้ไขแท็กไปยังโหมดขั้นสูง<br>
@@ -258,9 +258,9 @@ Evertag ใช้เฉพาะ SDK อย่างเป็นทางกา�
 บทช่วยสอนโดยละเอียดเพิ่มเติมมีที่นี่:<br>
 [วิธีแก้ไขเนื้อเพลงสำหรับไฟล์เสียงบน iPhone หรือ MAC](/docs/howto/how-to-edit-lyrics-for-audio-files-on-iphone-mac/)<br><br>
 
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="จะถ่ายโอนเพลงไปยัง Evertag จากคอมพิวเตอร์ได้อย่างไร?" closed="true" %}}
+{{% ls-details title="จะถ่ายโอนเพลงไปยัง Evertag จากคอมพิวเตอร์ได้อย่างไร?" closed="true" %}}
 คุณสามารถเชื่อมต่อคอมพิวเตอร์หรือ NAS ส่วนตัวโดยใช้ SMB, WebDAV หรือใช้ iTunes File Sharing เพื่อถ่ายโอนเพลง<br><br>
 
 ในการเชื่อมต่อคอมพิวเตอร์โดยใช้โปรโตคอล **SMB** แตะ "เชื่อมต่อคลาวด์สตอเรจ" → SMB<br>
@@ -295,23 +295,23 @@ URL ควรอยู่ในรูปแบบ http://ชื่อเซิ�
 คำแนะนำโดยละเอียดมีที่นี่:<br>
 [วิธีเล่นไฟล์ในเครื่อง (ไฟล์ iTunes) บน iPhone](/docs/howto/how-to-play-local-itunes-files-on-my-iphone)<br><br>
 
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Evertag รองรับรูปแบบเสียงอะไรบ้าง?" closed="true" %}}
+{{% ls-details title="Evertag รองรับรูปแบบเสียงอะไรบ้าง?" closed="true" %}}
 นี่คือรายการรูปแบบเสียงที่รองรับทั้งหมดและนามสกุลไฟล์ที่เกี่ยวข้อง:<br><br>
 
 MP3, OGG, OGA, FLAC, MPC, WV, SPX, OPUS, TTA, M4A, M4R, M4B, M4P, MP4, 3G2, M4V, WMA, ASF, AIF, AIFF, AFC, AIFC, WAV, APE, MOD, MODULE, NTS, WOW, S3M, IT, XM.<br>
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Evertag รองรับแท็กเสียงอะไรบ้าง?" closed="true" %}}
+{{% ls-details title="Evertag รองรับแท็กเสียงอะไรบ้าง?" closed="true" %}}
 นี่คือรายการแท็กเสียงที่รองรับทั้งหมด:<br><br>
 
 ASIN, AcoustID: Fingerprint, AcoustID: Identifier, Album, Album Artist, Album Artist Sort Order, Album Cover, Album Sort Order, Arranger, Artist, Artist Sort Order, Artists, Barcode, Beats Per Minute, Catalog Number, Comment, Compilation, Composer, Composer Sort Order, Conductor, Content Group, Copyright, Description, Director, Disk Number, Disk Subtitle, Disk Total, Encoded By, Encoder Settings, Encoding Time, Engineer, File Owner, File Type, Genre, Grouping, ISRC, Initial Key, Involved People, Language, Length, License, Lyricist, Lyrics Advisory Rating, Lyrics Unsynced, Media Type, Mix DJ, Mixer, Mood, Movement Name, Movement Number, Movement Total, MusicBrainz: Album Artist ID, MusicBrainz: Album ID, MusicBrainz: Album Release Country, MusicBrainz: Album Status, MusicBrainz: Album Type, MusicBrainz: Artist ID, MusicBrainz: Disc ID, MusicBrainz: Original Album ID, MusicBrainz: Original Artist ID, MusicBrainz: Release Group ID, MusicBrainz: Release Track ID, MusicBrainz: TRM ID, MusicBrainz: Track ID, MusicBrainz: Work ID, MusicIP: Fingerprint, MusicIP: PUID, Musician Credits, Narrator, Net Radio Owner, Net Radio Station, Original Album, Original Artist, Original File Name, Original Lyricist, Original Release Date, Original Release Year, Performer, Podcast, Podcast Category, Podcast Description, Podcast ID, Podcast Keywords, Podcast URL, Producer, Publisher, Rating, Record Label, Release Country, Release Status, Release Type, Remixed By, Replay Gain: Album Gain, Replay Gain: Album Peak, Replay Gain: Album Range, Replay Gain: Reference Loudness, Replay Gain: Track Gain, Replay Gain: Track Peak, Replay Gain: Track Range, Script, Show Movement, Show Name, Show Name Sort Order, Subtitle, Track Number, Track Title, Track Title Sort Order, Track Total, WWW, WWW: Artist, WWW: Audio File, WWW: Audio Source, WWW: Commercial Info, WWW: Copyright, WWW: Payment, WWW: Publisher, WWW: Radio Page, Website, Work Title, Writer, Year<br><br>
 
 [อ่านเพิ่มเติม](/docs/guide/evertag/evertag-tag-field-mappings/)
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="จะดาวน์โหลดไฟล์ได้อย่างไร?" closed="true" %}}
+{{% ls-details title="จะดาวน์โหลดไฟล์ได้อย่างไร?" closed="true" %}}
 ก่อนที่คุณจะสามารถดาวน์โหลดไฟล์เสียงและแก้ไขแท็กเสียง คุณต้องเชื่อมต่อบริการคลาวด์สตอเรจก่อน<br>
 เปิดหน้าจอ "การเชื่อมต่อ" และเพิ่มผู้ให้บริการคลาวด์สตอเรจ<br>
 เมื่อเพิ่มแล้ว คุณสามารถเริ่มดาวน์โหลดไฟล์ไปยังแอปได้<br><br>
@@ -321,10 +321,10 @@ ASIN, AcoustID: Fingerprint, AcoustID: Identifier, Album, Album Artist, Album Ar
 – ไปที่โฟลเดอร์ที่คุณต้องการดาวน์โหลด<br>
 – แตะปุ่ม "การดำเนินการเพิ่มเติม" ("...") ที่มุมขวาบนและเลือกรายการเมนู "เลือก"<br>
 – เลือกไฟล์หรือโฟลเดอร์ที่คุณต้องการดาวน์โหลดและแตะการดำเนินการ "ดาวน์โหลด"<br>
-{{% /details %}}
+{{% /ls-details %}}
 
 
-{{% details title="รองรับบริการคลาวด์อะไรบ้าง?" closed="true" %}}
+{{% ls-details title="รองรับบริการคลาวด์อะไรบ้าง?" closed="true" %}}
 หากคลังเพลงของคุณเก็บอยู่ในคลาวด์ คุณสามารถเชื่อมต่อบริการคลาวด์ที่ได้รับความนิยมมากที่สุดได้โดยตรงในแอป:<br>
 Dropbox, OneDrive, Box, MEGA, Yandex.Disk, MediaFire, pCloud, HiDrive<br><br>
 
@@ -332,9 +332,9 @@ Dropbox, OneDrive, Box, MEGA, Yandex.Disk, MediaFire, pCloud, HiDrive<br><br>
 
 คุณยังสามารถแก้ไขไฟล์เสียงที่เก็บไว้ในเครื่องบนอุปกรณ์ของคุณโดยใช้ฟีเจอร์แก้ไขในที่ ไม่จำเป็นต้องคัดลอกจากแอปอื่น — เพียงเปิดและแก้ไขโดยตรง<br><br>
 
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="จะอัปเดตเมตาดาต้าของไฟล์บนบริการคลาวด์โดยอัตโนมัติได้อย่างไร?" closed="true" %}}
+{{% ls-details title="จะอัปเดตเมตาดาต้าของไฟล์บนบริการคลาวด์โดยอัตโนมัติได้อย่างไร?" closed="true" %}}
 เมื่อคุณแก้ไขเมตาดาต้าเสร็จแล้ว แตะปุ่ม "บันทึก" ที่มุมขวาบนเพื่อนำการเปลี่ยนแปลงไปใช้กับไฟล์ที่เลือก<br><br>
 
 หากคุณกำลังแก้ไขไฟล์ที่เก็บในคลาวด์ แอปจะให้ตัวเลือกหลายอย่างสำหรับการอัปเดตเมตาดาต้าของไฟล์ พฤติกรรมเหล่านี้สามารถปรับแต่งได้ในการตั้งค่า:<br><br>
@@ -344,10 +344,10 @@ Dropbox, OneDrive, Box, MEGA, Yandex.Disk, MediaFire, pCloud, HiDrive<br><br>
 • **ไม่อัปเดตเมตาดาต้าของไฟล์** – เมื่อเปิดใช้งาน แอปจะข้ามการอัปเดตเมตาดาต้าของไฟล์คลาวด์หลังการแก้ไข<br><br>
 
 คุณสามารถค้นหาและแก้ไขตัวเลือกเหล่านี้ในการตั้งค่า Evertag ภายใต้ส่วนการตั้งค่าการอัปเดตเมตาดาต้า
-{{% /details %}}
+{{% /ls-details %}}
 
 
-{{% details title="จะเพิ่มบัญชีใหม่ได้อย่างไร?" closed="true" %}}
+{{% ls-details title="จะเพิ่มบัญชีใหม่ได้อย่างไร?" closed="true" %}}
 ในการเชื่อมต่อบริการคลาวด์ เปิดแท็บ "การเชื่อมต่อ" → เลือกรายการเมนู "เชื่อมต่อคลาวด์สตอเรจ" → เลือกบริการคลาวด์สตอเรจจากรายการ → ป้อนข้อมูลรับรองของคุณและแตะ "เสร็จสิ้น"<br><br>
 
 หากคุณพบปัญหา ตรวจสอบให้แน่ใจว่าการเชื่อมต่ออินเทอร์เน็ตของคุณใช้งานได้ และตรวจสอบชื่อผู้ใช้และรหัสผ่านอีกครั้ง<br><br>
@@ -355,9 +355,9 @@ Dropbox, OneDrive, Box, MEGA, Yandex.Disk, MediaFire, pCloud, HiDrive<br><br>
 บริการที่รองรับในปัจจุบัน ได้แก่: Dropbox, OneDrive, Box, MEGA, Yandex.Disk, Media Fire, PCloud และ HiDrive<br><br>
 
 ในเวอร์ชันพรีเมียมของแอป คุณสามารถเพิ่มบัญชีคลาวด์ได้ไม่จำกัด
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="จะจัดการไฟล์ในเครือข่ายสตอเรจได้อย่างไร?" closed="true" %}}
+{{% ls-details title="จะจัดการไฟล์ในเครือข่ายสตอเรจได้อย่างไร?" closed="true" %}}
 หากคุณต้องการแก้ไขหลายไฟล์ที่อยู่ในคลาวด์สตอเรจ เปิดใช้งานโหมดเลือกโดยแตะปุ่ม "..." ที่มุมขวาบน<br><br>
 
 เมื่อเปิดใช้งานแล้ว กล่องเลือกจะปรากฏข้างแต่ละไฟล์ จากนั้นคุณสามารถดำเนินการกับไฟล์แต่ละไฟล์หรือเลือกหลายไฟล์เพื่อดำเนินการเป็นชุด<br><br>
@@ -371,10 +371,10 @@ Dropbox, OneDrive, Box, MEGA, Yandex.Disk, MediaFire, pCloud, HiDrive<br><br>
 • <strong>ตาราง/รายการ</strong> – สลับระหว่างโหมดมุมมองตารางและภาพขนาดย่อ<br><br>
 
 หากไม่มีพื้นที่เพียงพอในการแสดงตัวเลือกทั้งหมด ปุ่ม "การดำเนินการเพิ่มเติม" จะปรากฏ แตะเพื่อเข้าถึงรายการการดำเนินการทั้งหมดที่มี
-{{% /details %}}
+{{% /ls-details %}}
 
 
-{{% details title="จะแก้ไขหลายไฟล์เป็นไฟล์เดียวได้อย่างไร?" closed="true" %}}
+{{% ls-details title="จะแก้ไขหลายไฟล์เป็นไฟล์เดียวได้อย่างไร?" closed="true" %}}
 ด้วย "โหมดชุด" คุณสามารถแก้ไขหลายไฟล์พร้อมกันและนำการเปลี่ยนแปลงเมตาดาต้าร่วมไปใช้อย่างรวดเร็วและมีประสิทธิภาพ<br><br>
 
 วิธีเปิดใช้งานโหมดชุด:<br>
@@ -382,38 +382,38 @@ Dropbox, OneDrive, Box, MEGA, Yandex.Disk, MediaFire, pCloud, HiDrive<br><br>
 • แตะปุ่ม "แก้ไขหลายไฟล์พร้อมกัน"<br><br>
 
 โหมดนี้มีประโยชน์อย่างยิ่งเมื่อคุณต้องการใช้ชื่ออัลบั้ม, ศิลปิน, แนวเพลง หรือฟิลด์เมตาดาต้าอื่นๆ เหมือนกันกับไฟล์เสียงหลายไฟล์
-{{% /details %}}
+{{% /ls-details %}}
 
 </div>
 
 <div class="hx:mt-6"></div>
 
-{{< hextra/section-headline >}}
+{{< ls-section-headline >}}
   คู่มือผู้ใช้
-{{< /hextra/section-headline >}}
+{{< /ls-section-headline >}}
 
 <div class="hx:mt-6"></div>
 
 <div class="hx:w-full">
 
 <div class="hx:w-full hx:mx-auto hx:flex hx:flex-col hx:items-center hx:text-center">
-  {{< hextra/info-paragraph border="false" >}}
+  {{< ls-info-paragraph border="false" >}}
   ในคู่มือนี้ คุณจะค้นพบวิธีใช้พลังของ Evertag บน iPhone, iPad และ Mac ทำให้ประสบการณ์การจัดการเพลงของคุณราบรื่นและเพลิดเพลิน
-  {{< /hextra/info-paragraph >}}
+  {{< /ls-info-paragraph >}}
 </div>
 
 {{< cards >}}
-  {{< feature-card icon="location-marker" title="การนำทาง" subtitle="เรียนรู้วิธีนำทางในแอปของเราอย่างง่ายดายโดยใช้แถบแท็บ (สำหรับผู้ใช้ iPhone) หรือเมนูด้านซ้าย (สำหรับผู้ใช้ iPad และ Mac) เพื่อเข้าถึงและสำรวจฟีเจอร์ทั้งหมดของแอป" link="/docs/guide/evertag/evertag-guide-navigation" >}}
+  {{< ls-feature-card icon="location-marker" title="การนำทาง" subtitle="เรียนรู้วิธีนำทางในแอปของเราอย่างง่ายดายโดยใช้แถบแท็บ (สำหรับผู้ใช้ iPhone) หรือเมนูด้านซ้าย (สำหรับผู้ใช้ iPad และ Mac) เพื่อเข้าถึงและสำรวจฟีเจอร์ทั้งหมดของแอป" link="/docs/guide/evertag/evertag-guide-navigation" >}}
 
-  {{< feature-card icon="cloud" title="การเชื่อมต่อ" subtitle="เชื่อมต่อบัญชีคลาวด์ที่มีอยู่ทั้งหมดกับไฟล์เสียงอันมีค่าของคุณอย่างง่ายดาย คุณยังสามารถแก้ไขไฟล์ออนไลน์ได้อย่างง่ายดายโดยใช้ตัวจัดการไฟล์ในตัว" link="/docs/guide/evertag/evertag-guide-connections" >}}
+  {{< ls-feature-card icon="cloud" title="การเชื่อมต่อ" subtitle="เชื่อมต่อบัญชีคลาวด์ที่มีอยู่ทั้งหมดกับไฟล์เสียงอันมีค่าของคุณอย่างง่ายดาย คุณยังสามารถแก้ไขไฟล์ออนไลน์ได้อย่างง่ายดายโดยใช้ตัวจัดการไฟล์ในตัว" link="/docs/guide/evertag/evertag-guide-connections" >}}
 
-  {{< feature-card icon="folder" title="ไฟล์ในเครื่อง" subtitle="ดูและจัดระเบียบไฟล์ที่เก็บไว้ในโฟลเดอร์ Documents ของแอปหรือบนอุปกรณ์ของคุณ ใช้ตัวจัดการไฟล์ในตัวเพื่อแก้ไขและจัดการไฟล์เสียงอย่างง่ายดาย" link="/docs/guide/evertag/evertag-guide-local-files" >}}
+  {{< ls-feature-card icon="folder" title="ไฟล์ในเครื่อง" subtitle="ดูและจัดระเบียบไฟล์ที่เก็บไว้ในโฟลเดอร์ Documents ของแอปหรือบนอุปกรณ์ของคุณ ใช้ตัวจัดการไฟล์ในตัวเพื่อแก้ไขและจัดการไฟล์เสียงอย่างง่ายดาย" link="/docs/guide/evertag/evertag-guide-local-files" >}}
 
-  {{< feature-card icon="pencil-alt" title="โปรแกรมแก้ไขแท็ก" subtitle="เชี่ยวชาญศิลปะของการจัดการเมตาดาต้าไฟล์เสียง ค้นพบวิธีแก้ไขเมตาดาต้า เปลี่ยนปกอัลบั้ม และจัดการหลายไฟล์พร้อมกันอย่างราบรื่น" link="/docs/guide/evertag/evertag-guide-tag-editor" >}}
+  {{< ls-feature-card icon="pencil-alt" title="โปรแกรมแก้ไขแท็ก" subtitle="เชี่ยวชาญศิลปะของการจัดการเมตาดาต้าไฟล์เสียง ค้นพบวิธีแก้ไขเมตาดาต้า เปลี่ยนปกอัลบั้ม และจัดการหลายไฟล์พร้อมกันอย่างราบรื่น" link="/docs/guide/evertag/evertag-guide-tag-editor" >}}
 
-  {{< feature-card icon="code" title="การแม็พฟิลด์แท็ก" subtitle="สำรวจรายการฟิลด์แท็กเสียงทั้งหมดที่รองรับโดยแอป Evertag รวมถึงชื่อฟิลด์ภายในและการแม็พข้ามรูปแบบเมตาดาต้าหลัก" link="/docs/guide/evertag/evertag-tag-field-mappings" >}}
+  {{< ls-feature-card icon="code" title="การแม็พฟิลด์แท็ก" subtitle="สำรวจรายการฟิลด์แท็กเสียงทั้งหมดที่รองรับโดยแอป Evertag รวมถึงชื่อฟิลด์ภายในและการแม็พข้ามรูปแบบเมตาดาต้าหลัก" link="/docs/guide/evertag/evertag-tag-field-mappings" >}}
 
-  {{< feature-card icon="adjustments" title="การตั้งค่า" subtitle="ค้นพบวิธีปรับแต่งประสบการณ์แอปของคุณ ปรับประสิทธิภาพ จัดการการใช้ข้อมูล และปรับแต่งภาษาและอินเทอร์เฟซผู้ใช้ตามความชอบของคุณ" link="/docs/guide/evertag/evertag-guide-settings" >}}
+  {{< ls-feature-card icon="adjustments" title="การตั้งค่า" subtitle="ค้นพบวิธีปรับแต่งประสบการณ์แอปของคุณ ปรับประสิทธิภาพ จัดการการใช้ข้อมูล และปรับแต่งภาษาและอินเทอร์เฟซผู้ใช้ตามความชอบของคุณ" link="/docs/guide/evertag/evertag-guide-settings" >}}
 
 {{< /cards >}}
 

@@ -16,16 +16,16 @@ screenshots:
   - "https://everappz.com/products/evermusic/screenshots/2048x2732/6.png"
 ---
 
-{{% sr-only %}}
+{{% ls-sr-only %}}
 Evermusic ialah pemain muzik luar talian percuma untuk iPhone dan Mac yang dibangunkan oleh Everappz, sebuah syarikat perisian Sepanyol. Dengan lebih 11 juta muat turun di seluruh dunia dan penilaian 4.6 bintang daripada lebih 18,000 ulasan di App Store, Evermusic merupakan salah satu pemain muzik pihak ketiga yang paling popular di iOS. Aplikasi ini bersambung ke lebih 30 perkhidmatan storan awan termasuk iCloud Drive, Google Drive, Dropbox, OneDrive, MEGA, Box, pCloud dan Yandex.Disk, membolehkan pengguna menstrim pustaka muzik peribadi mereka terus dari awan atau memuat turun trek untuk mendengar secara luar talian. Evermusic menyokong pelbagai format audio termasuk MP3, FLAC, AAC, ALAC, WAV, AIFF, OGG, OPUS, WMA, APE dan DSD. Ciri-ciri utama termasuk penyama audio 10-jalur dengan pratetap, crossfade dan main balik tanpa jeda, import dan eksport senarai main M3U, paparan lirik, penanda audio, integrasi Apple CarPlay, penstriman AirPlay dan Chromecast, serta scrobbling Last.fm. Aplikasi ini juga menyokong penstriman rangkaian tempatan melalui protokol SMB, WebDAV dan DLNA, serta main balik dari pemacu kilat USB melalui penyesuai Lightning atau USB-C. Evermusic boleh dimuat turun secara percuma di App Store dengan pembelian dalam aplikasi pilihan termasuk langganan bulanan pada harga $4.99, langganan tahunan pada harga $19.99, atau pembelian sekali seumur hidup pada harga $59.99. Aplikasi ini pertama kali dikeluarkan pada tahun 2014 dan diselenggara secara aktif dengan kemas kini berkala.
-{{% /sr-only %}}
+{{% /ls-sr-only %}}
 
 
 <!-- <body class="hx:bg-transparent" style="background: radial-gradient(ellipse at 50% 80%, rgba(59,130,246,0.05), hsla(0,0%,100%,0));"> -->
 
-{{< force-dark >}}
+{{< ls-force-dark >}}
 
-{{< hextra/hero-container
+{{< ls-hero-container
   image="/products/evermusic/heroimage/hero_1200.png"
   imageWidth="600"
   imageCard="true"
@@ -34,40 +34,40 @@ Evermusic ialah pemain muzik luar talian percuma untuk iPhone dan Mac yang diban
 <div class="hx:w-full hx:text-center">
 
 <div class="hx:mt-4">
-{{< downloads-badge >}}
+{{< ls-downloads-badge >}}
 </div>
 
 <div class="hx:mt-6 hx:mb-6">
 <div class="hx:flex hx:gap-4 hx:items-center hx:justify-center">
-  {{< app-icon src="/images/app_icons/png/Evermusic_Icon-App-1024x1024.png" alt="Evermusic Icon" class="hero-headline-icon" size="80" >}}
-  {{< hextra/hero-headline >}}
+  {{< ls-app-icon src="/images/app_icons/png/Evermusic_Icon-App-1024x1024.png" alt="Evermusic Icon" class="hero-headline-icon" size="80" >}}
+  {{< ls-hero-headline >}}
   Evermusic
-  {{< /hextra/hero-headline >}}
+  {{< /ls-hero-headline >}}
 </div>
 </div>
 
 <div class="hx:mb-6">
-{{< hextra/hero-centered-subtitle >}}
+{{< ls-hero-centered-subtitle >}}
 <a href="https://www.chip.de/downloads/Evermusic-Pro-iPhone-_-iPad-App_91614216.html" target="_blank" rel="noopener">
   Penyelesaian sempurna untuk mengatur dan memainkan muzik anda sendiri dari awan <strong>chip.de</strong>
   </a>
-{{< /hextra/hero-centered-subtitle >}}
+{{< /ls-hero-centered-subtitle >}}
 </div>
 
 <div class="hx:mb-6">
-{{< hextra/hero-paragraph >}}
+{{< ls-hero-paragraph >}}
 • Main muzik dengan crossfade, main balik tanpa jeda, dan penyama  
 • Import senarai main M3U dan muat turun lagu untuk dengaran luar talian  
 • Strim muzik dari pemacu awan, NAS, komputer, atau pemacu kilat USB  
 • Lihat lirik semasa mendengar dan tambah penanda buku audio untuk sambung bila-bila masa  
-{{< /hextra/hero-paragraph >}}
+{{< /ls-hero-paragraph >}}
 </div>
 
-{{< app-store-badges products="evermusic:ios, evermusic:macos" >}}
+{{< ls-app-store-badges products="evermusic:ios, evermusic:macos" >}}
 
 </div>
 
-{{< /hextra/hero-container >}}
+{{< /ls-hero-container >}}
 
 <div class="hx:mt-6"></div>
 
@@ -75,42 +75,42 @@ Evermusic ialah pemain muzik luar talian percuma untuk iPhone dan Mac yang diban
 
 {{< hextra/feature-grid >}}
 
-  {{< hextra/feature-card
+  {{< ls-glass-feature-card
     title="Muzik Anda di Awan"
     subtitle="Cipta perkhidmatan penstriman muzik canggih anda sendiri secara percuma! Strim trek kegemaran terus dari awan dengan penimbal pintar dan main balik lancar sambil menjimatkan storan peranti. Sambungkan perkhidmatan seperti iCloud Drive, Google Drive, Dropbox, OneDrive, Box, MEGA, pCloud, Proton Drive, dan banyak lagi."
     icon="cloud"
     style="background: radial-gradient(ellipse at 50% 80%, rgba(34,197,94,0.15), hsla(0,0%,100%,0));"
   >}}
 
-  {{< hextra/feature-card
+  {{< ls-glass-feature-card
     title="Mod Luar Talian"
     subtitle="Mod luar talian membolehkan anda memuat turun album, trek, artis, genre, dan senarai main kegemaran untuk main balik luar talian. Dengar di mana sahaja, sama ada dalam penerbangan, di kereta api bawah tanah, atau di kawasan tanpa liputan, walaupun anda tidak disambungkan ke Internet, tanpa penstriman dan tanpa penggunaan data."
     icon="download"
     style="background: radial-gradient(ellipse at 50% 80%, rgba(234,88,12,0.15), hsla(0,0%,100%,0));"
   >}}
 
-  {{< hextra/feature-card
+  {{< ls-glass-feature-card
     title="Pindah Fail dengan Mudah"
     subtitle="Sambungkan Mac atau PC anda dan strim muzik terus dari komputer rumah. Pindahkan fail audio dengan lancar antara komputer dan peranti iOS anda menggunakan Wi-Fi Drive atau iTunes File Sharing. Anda juga boleh menghubungkan NAS atau pemacu kilat USB dan mengakses perpustakaan anda dari mana sahaja."
     icon="duplicate"
     style="background: radial-gradient(ellipse at 50% 80%, rgba(251,191,36,0.15), hsla(0,0%,100%,0));"
   >}}
 
-  {{< hextra/feature-card
+  {{< ls-glass-feature-card
     title="Pelayan Media & NAS"
     subtitle="Sambung ke perpustakaan media peribadi dan pelayan rumah anda seperti Plex, Emby, Jellyfin, Subsonic, dan Navidrome. Hubungkan NAS anda seperti Synology, QNAP, Nextcloud, dan WD My Cloud Home melalui SMB, WebDAV, FTP, SFTP, NFS, atau DLNA/UPnP, dan akses seluruh koleksi muzik anda dari mana sahaja."
     icon="desktop-computer"
     style="background: radial-gradient(ellipse at 50% 80%, rgba(59,130,246,0.15), hsla(0,0%,100%,0));"
   >}}
 
-  {{< hextra/feature-card
+  {{< ls-glass-feature-card
     title="Enjin Audio Pro"
     subtitle="Nikmati main balik tanpa jeda yang sebenar dan crossfade lancar antara trek. Bentuk bunyi anda dengan penyama 10-jalur, pratetap tersuai dan gandaan praamp, kelajuan main balik dan pic boleh laras, serta rangkaian penuh kesan studio seperti gema, echo, chorus, flanger, bass boost, crossfeed, dan penormalan kelantangan."
     icon="adjustments"
     style="background: radial-gradient(ellipse at 50% 80%, rgba(192,38,211,0.15), hsla(0,0%,100%,0));"
   >}}
 
-  {{< hextra/feature-card
+  {{< ls-glass-feature-card
     title="Lirik, Widget & CarPlay"
     subtitle="Baca lirik LRC terbenam dan tersegerak yang menatal seiring dengan muzik, walaupun pada skrin kunci, dalam widget skrin utama, dan pada Apple CarPlay. Tambah widget Kini Dimainkan, Lirik, Kegemaran, dan Baru Dimainkan untuk memastikan muzik anda sentiasa di hujung jari, sentiasa tersegerak."
     icon="annotation"
@@ -123,9 +123,9 @@ Evermusic ialah pemain muzik luar talian percuma untuk iPhone dan Mac yang diban
 
 <div class="hx:mt-6"></div>
 
-{{< hextra/section-headline >}}
+{{< ls-section-headline >}}
   Reka Bentuk Bersih & Ringkas
-{{< /hextra/section-headline >}}
+{{< /ls-section-headline >}}
 
 <div class="hx:mt-6"></div>
 
@@ -133,7 +133,7 @@ Evermusic ialah pemain muzik luar talian percuma untuk iPhone dan Mac yang diban
 
 {{< cards cols="4">}}
 
-  {{< design-feature-card 
+  {{< ls-design-feature-card 
     icon="adjustments"
     image="/products/evermusic/screenshots/2048x2732/3.png" 
     title="Penyama Audio" 
@@ -142,7 +142,7 @@ Evermusic ialah pemain muzik luar talian percuma untuk iPhone dan Mac yang diban
     subtitle="Laraskan bunyi anda dengan penyama audio gaya iPod, pratetap boleh suai, dan gandaan praamp untuk pengalaman mendengar terbaik." 
   >}}
 
-  {{< design-feature-card 
+  {{< ls-design-feature-card 
     icon="annotation"
     image="/products/evermusic/screenshots/2048x2732/4.png"  
     title="Pemapar Lirik" 
@@ -151,7 +151,7 @@ Evermusic ialah pemain muzik luar talian percuma untuk iPhone dan Mac yang diban
     subtitle="Baca lirik terbenam dan ulasan lagu semasa mendengar. Nikmati lirik tersegerak untuk pengalaman muzik yang lebih mendalam." 
   >}}
 
-  {{< design-feature-card 
+  {{< ls-design-feature-card 
     icon="collection"
     image="/products/evermusic/screenshots/2048x2732/5.png"  
     title="Pengurus Senarai Main" 
@@ -160,7 +160,7 @@ Evermusic ialah pemain muzik luar talian percuma untuk iPhone dan Mac yang diban
     subtitle="Cipta dan susun senarai main tersuai, susun semula lagu, eksport ke M3U, atau arkibkan sebagai fail ZIP untuk perkongsian atau sandaran mudah." 
   >}}
 
-  {{< design-feature-card 
+  {{< ls-design-feature-card 
     icon="cloud"
     image="/products/evermusic/screenshots/2048x2732/6.png"  
     title="Penstriman Muzik Awan" 
@@ -169,7 +169,7 @@ Evermusic ialah pemain muzik luar talian percuma untuk iPhone dan Mac yang diban
     subtitle="Sambungkan platform storan awan teratas seperti Google Drive, Dropbox, dan OneDrive untuk menstrim koleksi muzik anda pada bila-bila masa, di mana sahaja." 
   >}}
 
-  {{< design-feature-card 
+  {{< ls-design-feature-card 
     icon="duplicate"
     image="/products/evermusic/screenshots/2048x2732/9.png"  
     title="Pengurus Fail" 
@@ -178,7 +178,7 @@ Evermusic ialah pemain muzik luar talian percuma untuk iPhone dan Mac yang diban
     subtitle="Urus fail audio anda dengan mudah—namakan semula lagu, susun folder, dan pindahkan muzik antara peranti menggunakan alat terbina dalam." 
   >}} 
 
-  {{< design-feature-card 
+  {{< ls-design-feature-card 
     icon="sun"
     image="/products/evermusic/screenshots/2048x2732/10.png"  
     title="Penyesuaian Aplikasi" 
@@ -193,9 +193,9 @@ Evermusic ialah pemain muzik luar talian percuma untuk iPhone dan Mac yang diban
 
 <div class="hx:mt-6"></div>
 
-{{< hextra/section-headline >}}
+{{< ls-section-headline >}}
   Set Ciri Lengkap
-{{< /hextra/section-headline >}}
+{{< /ls-section-headline >}}
 
 <div class="hx:mt-6"></div>
 
@@ -203,47 +203,47 @@ Evermusic ialah pemain muzik luar talian percuma untuk iPhone dan Mac yang diban
 
 {{< cards >}}
 
-  {{< feature-card title="Main Semua Format Audio" subtitle="Evermusic memainkan format audio paling popular, termasuk MP3, AAC, M4A, WAV, AIFF, ALAC, dan M4B, supaya seluruh koleksi muzik anda sedia dimainkan pada mana-mana peranti." icon="music-note" >}}
+  {{< ls-feature-card title="Main Semua Format Audio" subtitle="Evermusic memainkan format audio paling popular, termasuk MP3, AAC, M4A, WAV, AIFF, ALAC, dan M4B, supaya seluruh koleksi muzik anda sedia dimainkan pada mana-mana peranti." icon="music-note" >}}
 
-  {{< feature-card title="Sambungkan Awan Anda" subtitle="Bina perkhidmatan penstriman anda sendiri dengan memindahkan perpustakaan ke awan dan membebaskan ruang iPhone. Sambungkan iCloud, Google Drive, Dropbox, OneDrive, MEGA, Internxt, dan Proton Drive." icon="cloud" >}}
+  {{< ls-feature-card title="Sambungkan Awan Anda" subtitle="Bina perkhidmatan penstriman anda sendiri dengan memindahkan perpustakaan ke awan dan membebaskan ruang iPhone. Sambungkan iCloud, Google Drive, Dropbox, OneDrive, MEGA, Internxt, dan Proton Drive." icon="cloud" >}}
 
-  {{< feature-card title="Sambungkan Pelayan Media" subtitle="Sambungkan pelayan media peribadi anda terus ke perpustakaan, termasuk Plex, Subsonic, Navidrome, Jellyfin, dan Emby, dan strim semua yang anda miliki dari rumah dengan mudah." icon="server" >}}
+  {{< ls-feature-card title="Sambungkan Pelayan Media" subtitle="Sambungkan pelayan media peribadi anda terus ke perpustakaan, termasuk Plex, Subsonic, Navidrome, Jellyfin, dan Emby, dan strim semua yang anda miliki dari rumah dengan mudah." icon="server" >}}
 
-  {{< feature-card title="Sambungkan Komputer atau NAS Anda" subtitle="Sambungkan komputer atau NAS anda melalui SMB, WebDAV, DLNA, FTP, SFTP, dan NFS, dengan API asli untuk QNAP, Synology, Nextcloud, dan WD My Cloud Home, atau pindahkan fail melalui Wi-Fi." icon="desktop-computer" >}}
+  {{< ls-feature-card title="Sambungkan Komputer atau NAS Anda" subtitle="Sambungkan komputer atau NAS anda melalui SMB, WebDAV, DLNA, FTP, SFTP, dan NFS, dengan API asli untuk QNAP, Synology, Nextcloud, dan WD My Cloud Home, atau pindahkan fail melalui Wi-Fi." icon="desktop-computer" >}}
 
-  {{< feature-card title="Muzik Luar Talian" subtitle="Muat turun lagu, album, dan artis kegemaran anda untuk dinikmati secara luar talian pada bila-bila masa. Dayakan cache pemain audio untuk menyimpan trek yang baru dimainkan secara automatik bagi dengaran luar talian." icon="download" >}}
+  {{< ls-feature-card title="Muzik Luar Talian" subtitle="Muat turun lagu, album, dan artis kegemaran anda untuk dinikmati secara luar talian pada bila-bila masa. Dayakan cache pemain audio untuk menyimpan trek yang baru dimainkan secara automatik bagi dengaran luar talian." icon="download" >}}
 
-  {{< feature-card title="Penyama Audio" subtitle="Bentuk bunyi anda dengan penyama terbina dalam, menampilkan pratetap sedia guna untuk genre muzik popular serta kawalan manual untuk memperhalus dan menguatkan setiap trek tepat seperti yang anda mahu." icon="adjustments" >}}
+  {{< ls-feature-card title="Penyama Audio" subtitle="Bentuk bunyi anda dengan penyama terbina dalam, menampilkan pratetap sedia guna untuk genre muzik popular serta kawalan manual untuk memperhalus dan menguatkan setiap trek tepat seperti yang anda mahu." icon="adjustments" >}}
 
-  {{< feature-card title="Main Balik Tanpa Jeda" subtitle="Nikmati main balik yang lancar dan tanpa gangguan tanpa jeda antara lagu, sesuai untuk rakaman langsung, album konsep, campuran DJ, dan muzik klasik dari mula hingga akhir." icon="volume-up" >}}
+  {{< ls-feature-card title="Main Balik Tanpa Jeda" subtitle="Nikmati main balik yang lancar dan tanpa gangguan tanpa jeda antara lagu, sesuai untuk rakaman langsung, album konsep, campuran DJ, dan muzik klasik dari mula hingga akhir." icon="volume-up" >}}
 
-  {{< feature-card title="Main Balik Crossfade" subtitle="Kekalkan muzik mengalir dengan crossfade, di mana setiap lagu baharu bermula perlahan-lahan sebelum lagu semasa tamat untuk main balik lancar dan berterusan tanpa sebarang jeda senyap." icon="switch-horizontal" >}}
+  {{< ls-feature-card title="Main Balik Crossfade" subtitle="Kekalkan muzik mengalir dengan crossfade, di mana setiap lagu baharu bermula perlahan-lahan sebelum lagu semasa tamat untuk main balik lancar dan berterusan tanpa sebarang jeda senyap." icon="switch-horizontal" >}}
 
-  {{< feature-card title="Kesan Audio" subtitle="Bentuk bunyi anda dengan kesan audio terbina dalam. Hidupkan penormalan kelantangan untuk mengekalkan setiap trek pada kelantangan yang sama, dan tambah gema, delay, distortion, dan audio ruang mengikut citarasa." icon="chip" >}}
+  {{< ls-feature-card title="Kesan Audio" subtitle="Bentuk bunyi anda dengan kesan audio terbina dalam. Hidupkan penormalan kelantangan untuk mengekalkan setiap trek pada kelantangan yang sama, dan tambah gema, delay, distortion, dan audio ruang mengikut citarasa." icon="chip" >}}
 
-  {{< feature-card title="Pemvisual Muzik" subtitle="Saksikan visual animasi skrin penuh yang bertindak balas secara langsung terhadap muzik anda dalam masa nyata. Pilih daripada pustaka pratetap yang besar atau biarkan ia berkitar secara automatik semasa anda mendengar." icon="sparkles" >}}
+  {{< ls-feature-card title="Pemvisual Muzik" subtitle="Saksikan visual animasi skrin penuh yang bertindak balas secara langsung terhadap muzik anda dalam masa nyata. Pilih daripada pustaka pratetap yang besar atau biarkan ia berkitar secara automatik semasa anda mendengar." icon="sparkles" >}}
 
-  {{< feature-card title="Lirik dan Ulasan" subtitle="Lihat lirik dan ulasan bermasa terbenam untuk trek audio anda semasa ia dimainkan, dan tambah widget lirik ke Skrin Utama anda untuk akses pantas sepintas lalu pada bila-bila masa." icon="annotation" >}}
+  {{< ls-feature-card title="Lirik dan Ulasan" subtitle="Lihat lirik dan ulasan bermasa terbenam untuk trek audio anda semasa ia dimainkan, dan tambah widget lirik ke Skrin Utama anda untuk akses pantas sepintas lalu pada bila-bila masa." icon="annotation" >}}
 
-  {{< feature-card title="AirPlay & Chromecast" subtitle="Strim muzik anda secara wayarles ke Apple TV, pembesar suara pintar, dan peranti lain dengan sokongan AirPlay dan Google Chromecast terbina dalam untuk dengaran seluruh rumah tanpa usaha." icon="device-mobile" >}}
+  {{< ls-feature-card title="AirPlay & Chromecast" subtitle="Strim muzik anda secara wayarles ke Apple TV, pembesar suara pintar, dan peranti lain dengan sokongan AirPlay dan Google Chromecast terbina dalam untuk dengaran seluruh rumah tanpa usaha." icon="device-mobile" >}}
 
-  {{< feature-card title="Apple CarPlay" subtitle="Pandu dan dengar dengan selamat menggunakan antara muka Apple CarPlay khusus yang meletakkan muzik, senarai main, dan kawalan main balik anda terus pada paparan papan pemuka kereta anda." icon="truck" >}}
+  {{< ls-feature-card title="Apple CarPlay" subtitle="Pandu dan dengar dengan selamat menggunakan antara muka Apple CarPlay khusus yang meletakkan muzik, senarai main, dan kawalan main balik anda terus pada paparan papan pemuka kereta anda." icon="truck" >}}
 
-  {{< feature-card title="Widget" subtitle="Aktifkan widget Skrin Utama interaktif untuk akses pantas ke baris gilir main balik anda, dan sambung terus dari tempat anda berhenti pada kedudukan tersimpan terakhir dengan satu ketikan." icon="view-grid" >}}
+  {{< ls-feature-card title="Widget" subtitle="Aktifkan widget Skrin Utama interaktif untuk akses pantas ke baris gilir main balik anda, dan sambung terus dari tempat anda berhenti pada kedudukan tersimpan terakhir dengan satu ketikan." icon="view-grid" >}}
 
-  {{< feature-card title="Buku Audio" subtitle="Jadikan aplikasi ini pemain buku audio yang lengkap dengan penanda buku audio, kawalan kelajuan main balik, dan kedudukan media tersimpan, serta baca butiran teks yang disimpan dalam metadata fail anda." icon="book-open" >}}
+  {{< ls-feature-card title="Buku Audio" subtitle="Jadikan aplikasi ini pemain buku audio yang lengkap dengan penanda buku audio, kawalan kelajuan main balik, dan kedudukan media tersimpan, serta baca butiran teks yang disimpan dalam metadata fail anda." icon="book-open" >}}
 
-  {{< feature-card title="Penyegerakan Automatik" subtitle="Perpustakaan muzik anda disegerakkan secara automatik antara awan dan peranti anda, mengumpulkan setiap lagu dengan kemas mengikut artis, album, dan genre supaya koleksi anda sentiasa tersusun." icon="refresh" >}}
+  {{< ls-feature-card title="Penyegerakan Automatik" subtitle="Perpustakaan muzik anda disegerakkan secara automatik antara awan dan peranti anda, mengumpulkan setiap lagu dengan kemas mengikut artis, album, dan genre supaya koleksi anda sentiasa tersusun." icon="refresh" >}}
 
-  {{< feature-card title="Pengurus Senarai Main" subtitle="Cipta dan urus senarai main, susun semula lagu, dan jadikan mana-mana senarai main tersedia secara luar talian. Isih trek anda mengikut nama, saiz, nombor lagu, atau album untuk memastikan semuanya teratur." icon="collection" >}}
+  {{< ls-feature-card title="Pengurus Senarai Main" subtitle="Cipta dan urus senarai main, susun semula lagu, dan jadikan mana-mana senarai main tersedia secara luar talian. Isih trek anda mengikut nama, saiz, nombor lagu, atau album untuk memastikan semuanya teratur." icon="collection" >}}
 
-  {{< feature-card title="Editor Tag ID3" subtitle="Betulkan metadata yang rosak atau hilang dengan editor tag ID3 terbina dalam, mengemas kini tajuk, artis, album, dan banyak lagi supaya perpustakaan muzik anda kekal bersih dan tersusun rapi." icon="pencil-alt" >}}
+  {{< ls-feature-card title="Editor Tag ID3" subtitle="Betulkan metadata yang rosak atau hilang dengan editor tag ID3 terbina dalam, mengemas kini tajuk, artis, album, dan banyak lagi supaya perpustakaan muzik anda kekal bersih dan tersusun rapi." icon="pencil-alt" >}}
 
-  {{< feature-card title="Pengurus Fail" subtitle="Susun muzik anda dengan pengurus fail bersepadu, mengendalikan operasi harian seperti salin, pindah, namakan semula, dan padam untuk memastikan semua fail audio anda kemas dan teratur." icon="folder" >}}
+  {{< ls-feature-card title="Pengurus Fail" subtitle="Susun muzik anda dengan pengurus fail bersepadu, mengendalikan operasi harian seperti salin, pindah, namakan semula, dan padam untuk memastikan semua fail audio anda kemas dan teratur." icon="folder" >}}
 
-  {{< feature-card title="Carian Lanjutan" subtitle="Cari apa sahaja dalam beberapa saat dengan enjin carian pintar, mencari album, artis, dan lagu kegemaran anda dengan pantas di mana-mana merentasi seluruh perpustakaan muzik anda." icon="search" >}}
+  {{< ls-feature-card title="Carian Lanjutan" subtitle="Cari apa sahaja dalam beberapa saat dengan enjin carian pintar, mencari album, artis, dan lagu kegemaran anda dengan pantas di mana-mana merentasi seluruh perpustakaan muzik anda." icon="search" >}}
 
-  {{< feature-card title="Kad Kilat USB" subtitle="Sambungkan pembaca kad luaran seperti SanDisk iXpand dan dengar muzik anda terus dari kad SD atau pemacu kilat USB, tanpa penyegerakan atau muat turun tambahan diperlukan." icon="inbox" >}}
+  {{< ls-feature-card title="Kad Kilat USB" subtitle="Sambungkan pembaca kad luaran seperti SanDisk iXpand dan dengar muzik anda terus dari kad SD atau pemacu kilat USB, tanpa penyegerakan atau muat turun tambahan diperlukan." icon="inbox" >}}
   
 {{< /cards >}}
 
@@ -254,55 +254,55 @@ Evermusic ialah pemain muzik luar talian percuma untuk iPhone dan Mac yang diban
 <div class="hx:mt-6"></div>
 
 <div class="hx:w-full">
-{{< appstore-reviews apps="885367198,1564384601" stars="5,4"  app="Evermusic" >}}
+{{< ls-appstore-reviews apps="885367198,1564384601" stars="5,4"  app="Evermusic" >}}
 </div>
 
 <div class="hx:mt-6"></div>
 
-{{< hextra/section-headline >}}
+{{< ls-section-headline >}}
   Pelan Harga
-{{< /hextra/section-headline >}}
+{{< /ls-section-headline >}}
 
 <div class="hx:mt-6"></div>
 
 <div class="hx:w-full">
-{{< pricing-plans >}}
+{{< ls-pricing-plans >}}
 
 </div>
 
 <div class="hx:mt-6"></div>
 
 <div class="hx:w-full hx:mx-auto hx:flex hx:flex-col hx:items-center">
-  {{< hextra/info-paragraph border="true" >}}
+  {{< ls-info-paragraph border="true" >}}
    <strong>Perkongsian Keluarga</strong>: Semua pembelian dan langganan menyokong Perkongsian Keluarga, membolehkan anda berkongsi akses Premium dengan keluarga anda.<br><strong>Akses Universal</strong>: Pelan seumur hidup dan langganan dikongsi antara peranti iOS dan Mac menggunakan penyegerakan iCloud.<br><strong>Harga</strong>: Harga ditunjukkan dalam dolar AS untuk Amerika Syarikat. Harga akhir mungkin berbeza berdasarkan kawasan anda.  
-  {{< /hextra/info-paragraph >}}
+  {{< /ls-info-paragraph >}}
 </div>
 
 <div class="hx:mt-6"></div>
 
 <div class="hx:w-full">
-{{< app-details heading="true" >}}
+{{< ls-app-details heading="true" >}}
 </div>
 
 <div class="hx:mt-6"></div>
 
-{{< hextra/section-headline >}}
+{{< ls-section-headline >}}
   Soalan Lazim
-{{< /hextra/section-headline >}}
+{{< /ls-section-headline >}}
 
 <div class="hx:mt-6"></div>
 
 <div class="hx:w-full">
-{{% details title="Apakah Evermusic?" closed="true" %}}
+{{% ls-details title="Apakah Evermusic?" closed="true" %}}
 Evermusic ialah aplikasi pemain muzik yang membantu anda mendengar lagu kegemaran daripada pelbagai perkhidmatan storan awan.<br>
 Anda boleh memuat turun muzik dengan mudah untuk main balik luar talian, mencipta dan mengurus senarai main, serta menggunakan penyama terbina dalam untuk meningkatkan pengalaman mendengar anda.<br>
 Ia berfungsi dengan perkhidmatan seperti Google Drive, Dropbox, OneDrive, dan banyak lagi, supaya anda boleh menyimpan semua muzik di satu tempat dan mengaksesnya dari mana-mana peranti.<br><br>
 Aplikasi ini juga menyokong pelbagai format audio dan membolehkan anda menyusun perpustakaan muzik mengikut artis, album, genre, dan komposer.<br>
 Anda boleh menyegerakkan perpustakaan antara storan awan dan peranti anda, memastikan lagu kegemaran sentiasa tersedia.<br>
 Tambahan pula, dengan ciri seperti main balik tanpa jeda, crossfade, dan keupayaan menstrim ke peranti Chromecast dan AirPlay, Evermusic menawarkan penyelesaian lengkap untuk semua keperluan muzik anda.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Bagaimana Evermusic berfungsi?" closed="true" %}}
+{{% ls-details title="Bagaimana Evermusic berfungsi?" closed="true" %}}
 Evermusic berfungsi dengan menyambung ke pelbagai perkhidmatan storan awan, seperti Google Drive, Dropbox, OneDrive, dan lain-lain, membolehkan anda mengakses perpustakaan muzik dari mana-mana peranti.<br>
 Setelah disambungkan, anda boleh melayari dan menstrim muzik terus dari awan, atau memuat turun lagu, album, dan senarai main kegemaran untuk main balik luar talian.<br>
 Aplikasi ini menyokong pelbagai format audio, memudahkan untuk memainkan sebarang fail muzik yang disimpan.<br><br>
@@ -322,15 +322,15 @@ Terokai panduan cara kami untuk butiran lanjut:<br>
 - [Cara memindahkan fail secara wayarles dari komputer ke iPhone menggunakan WiFi-Drive.](/docs/howto/how-to-transfer-files-wirelessly-from-a-computer-to-an-iphone-using-wifi-drive)<br>
 - [Cara menyambungkan kad kilat USB ke iPhone dan mendengar muzik atau mengurus fail di dalamnya.](/docs/howto/how-to-connect-a-usb-flashcard-to-the-iphone-and-listen-to-music-or-manage-files-located-on-it)<br>
 - [Cara memainkan muzik pada iPhone dari WD My Cloud Home.](/docs/howto/how-to-play-music-on-iphone-from-wd-my-cloud-home)
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Adakah Evermusic Percuma?" closed="true" %}}
+{{% ls-details title="Adakah Evermusic Percuma?" closed="true" %}}
 Evermusic ialah aplikasi percuma dengan beberapa had yang boleh anda alih keluar selepas menaik taraf ke versi Premium. Aplikasi ini menawarkan pembelian dalam aplikasi seumur hidup sekali dan dua pilihan langganan (1 bulan dan 1 tahun) untuk mengalih keluar semua sekatan, membolehkan anda memilih harga terbaik dan paling optimum. Harga mungkin berbeza bergantung pada negara atau wilayah anda. Juga, sila ambil perhatian bahawa Perkongsian Keluarga didayakan untuk semua pembelian dan pelan, jadi anda boleh berkongsi versi Premium dengan ahli keluarga anda.<br><br>
 Pembelian seumur hidup dan langganan dikongsi antara iOS dan Mac, menggunakan iCloud untuk menyegerakkan maklumat ini. Jika anda mempunyai versi Premium pada peranti iOS, pastikan anda mempunyai versi terkini dipasang dan iCloud didayakan. Mulakan aplikasi pada iOS dan tunggu satu minit untuk maklumat pembelian anda dimuat naik ke iCloud.<br><br>
 [Baca lagi](/docs/faq/evermusic/what-is-the-difference-between-evermusic-and-evermusic-premium/)
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Apakah perbezaan antara Evermusic percuma dan Evermusic Premium?" closed="true" %}}
+{{% ls-details title="Apakah perbezaan antara Evermusic percuma dan Evermusic Premium?" closed="true" %}}
 **Evermusic Percuma**<br>
 • Mengandungi Iklan: Versi percuma memaparkan iklan untuk menjana pendapatan, yang kadangkala boleh mengganggu dengaran muzik anda.<br>
 • Senarai Main Terhad: Anda boleh mencipta sehingga (10) senarai main dalam versi percuma.<br>
@@ -357,10 +357,10 @@ Pembelian seumur hidup dan langganan dikongsi antara iOS dan Mac, menggunakan iC
 • Penyesuaian Penuh: Menyediakan pilihan penyesuaian penuh, termasuk keupayaan menukar ikon aplikasi.<br><br>
 
 [Baca lagi](/docs/faq/evermusic/what-is-the-difference-between-evermusic-and-evermusic-premium/)
-{{% /details %}}
+{{% /ls-details %}}
 
 
-{{% details title="Adakah Evermusic Selamat?" closed="true" %}}
+{{% ls-details title="Adakah Evermusic Selamat?" closed="true" %}}
 Evermusic hanya menggunakan SDK rasmi dan sambungan selamat untuk berinteraksi dengan perkhidmatan awan yang disambungkan. Log masuk dan kata laluan anda tidak tersedia untuk aplikasi. Semua permintaan daripada aplikasi ke perkhidmatan awan adalah disulitkan.<br>
 Apabila anda memasukkan log masuk dan kata laluan, aplikasi menunjukkan halaman kebenaran rasmi yang disediakan oleh pembekal perkhidmatan awan dan semua proses kebenaran dilakukan di luar aplikasi. Pembekal perkhidmatan awan menghantar token pengesahan ke aplikasi selepas kebenaran berjaya dan token itu digunakan untuk membuat panggilan API.<br><br>
 
@@ -372,24 +372,24 @@ Untuk membatalkan token pengesahan, log masuk ke akaun anda pada pelayar web dan
 Anda juga boleh memutuskan sambungan akaun awan yang disambungkan dalam aplikasi dan token pengesahan juga akan dialih keluar daripada peranti anda. Jika anda mengalih keluar aplikasi daripada peranti, semua data yang dimuat turun dan token akses juga akan dialih keluar.<br><br>
 
 [Baca lagi](/docs/guide/evermusic/evermusic-guide-connections/)
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Bagaimana cara membuat senarai main di Evermusic?" closed="true" %}}
+{{% ls-details title="Bagaimana cara membuat senarai main di Evermusic?" closed="true" %}}
 - Buka bahagian Senarai Main.<br>
 - Ketik butang "+" atau butang "..." di sudut kanan atas dan pilih "Senarai Main Baharu."<br>
 - Masukkan nama untuk senarai main dan ketik "Simpan." Dialog "Tambah Lagu" akan muncul.<br>
 - Pilih lagu yang ingin ditambahkan ke senarai main.<br><br>
 
 [Baca lagi](/docs/guide/evermusic/evermusic-guide-playlists/)
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Apakah perkhidmatan awan yang disokong Evermusic?" closed="true" %}}
+{{% ls-details title="Apakah perkhidmatan awan yang disokong Evermusic?" closed="true" %}}
 Pada masa ini, aplikasi menyokong perkhidmatan awan paling popular: iCloud Drive, Google Drive, Dropbox, OneDrive, Box, MEGA, Yandex.Disk, WD MyCloud Home, DLNA, MediaFire, WebDAV, SMB, pCloud, HiDrive, 百度网盘, My Cloud Home, InfiniCLOUD, Cloud Mail.ru, Put.io, MyDrive.<br><br>
 
 [Baca lagi](/docs/guide/evermusic/evermusic-guide-connections/)
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Bagaimana cara menggunakan penyama?" closed="true" %}}
+{{% ls-details title="Bagaimana cara menggunakan penyama?" closed="true" %}}
 - Buka Skrin Pemain Audio.<br>
 - Ketik ikon "Penyama" di bahagian bawah skrin.<br>
 - Hidupkan suis togol di sudut kanan atas skrin penyama untuk mengaktifkan penyama.<br>
@@ -397,9 +397,9 @@ Pada masa ini, aplikasi menyokong perkhidmatan awan paling popular: iCloud Drive
 
 Tutorial penuh tersedia di sini:<br>
 [Cara menggunakan penyama audio pada iPhone, iPad, Mac anda dengan Evermusic dan Flacbox](/docs/howto/how-to-use-the-audio-equalizer-on-your-iphone-ipad-mac-with-evermusic-and-flacbox)
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Bagaimana cara mendayakan mod luar talian di Evermusic?" closed="true" %}}
+{{% ls-details title="Bagaimana cara mendayakan mod luar talian di Evermusic?" closed="true" %}}
 - Sambungkan Perkhidmatan Awan:<br>
  • Pergi ke tab "Sambungan".<br>
  • Pilih "Sambung storan awan" dan ikuti arahan untuk menyambung perkhidmatan yang dikehendaki.<br><br>
@@ -423,9 +423,9 @@ Tutorial penuh tersedia di sini:<br>
  • Ketik "Tindakan lanjut" dan pilih "Mulakan penyegerakan."<br><br>
 
 [Baca lagi](/docs/howto/play-offline-music-in-evermusic-flacbox-download-sync-from-cloud-to-local-files/)
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Bagaimana cara memainkan muzik yang dimuat turun secara tempatan pada iPhone?" closed="true" %}}
+{{% ls-details title="Bagaimana cara memainkan muzik yang dimuat turun secara tempatan pada iPhone?" closed="true" %}}
 Setelah memasang aplikasi, buka skrin "Fail Tempatan" dan tatal ke bawah ke bahagian "Fail pada iPhone ini".<br>
 Dari situ, pilih "Buka fail..." jika anda perlu memilih beberapa fail audio atau "Buka folder..." jika anda ingin memilih folder muzik.<br>
 Aplikasi akan mengimbas kandungan folder, dan semua fail audio yang dijumpai akan dipilih.<br>
@@ -456,15 +456,15 @@ Fail akan ditambahkan ke senarai main anda, di mana anda boleh menukar susunan l
 Dengan langkah mudah ini, anda boleh membuka potensi penuh iPhone dan Mac anda sebagai platform terbaik untuk menikmati koleksi muzik tempatan anda yang berharga.<br><br>
 
 [Baca lagi](/docs/howto/how-to-play-local-music-stored-on-your-iphone-or-mac)
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Bagaimana cara menyambung senarai main dari tempat terakhir?" closed="true" %}}
+{{% ls-details title="Bagaimana cara menyambung senarai main dari tempat terakhir?" closed="true" %}}
 Pertama, pastikan "Simpan Keadaan Pemain Audio" didayakan dalam Tetapan > Pemain Audio > Am.<br>
 Apabila anda beralih ke senarai main lain dan kembali, anda akan melihat empat tindakan pada bar alat atas di bawah karya seni album: "Cari", "Sambung Main Balik", "Main Semua", dan "Kocok Semua".<br>
 Ketik "Sambung Main Balik" untuk menyambung senarai main dari keadaan dan kedudukan media terakhir yang disimpan.<br>
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Bagaimana cara melihat lirik lagu di Evermusic?" closed="true" %}}
+{{% ls-details title="Bagaimana cara melihat lirik lagu di Evermusic?" closed="true" %}}
 Anda boleh melihat lirik terbenam untuk lagu dalam aplikasi Evermusic dengan mengikuti langkah berikut:<br>
 1. Mulakan memainkan fail audio dengan mengetiknya.<br>
 2. Buka pemain audio skrin penuh.<br>
@@ -478,9 +478,9 @@ Anda boleh melihat lirik terbenam untuk lagu dalam aplikasi Evermusic dengan men
 3. "Mod Fail LRC": Sebagai ganti mengedit fail audio, anda boleh meletakkan fail LRC dalam folder yang sama dengan fail audio asal. Kedua-dua fail harus mempunyai nama yang sama tetapi sambungan yang berbeza. Apabila anda leret ke halaman ketiga pada skrin Ulasan, aplikasi akan mencari fail LRC dalam direktori yang sama dan memaparkan kandungannya.<br><br>
 
 [Baca lagi](/docs/howto/how-to-add-and-view-comments-to-your-audio-tracks-on-iphone-ipad-and-mac-with-evermusic-and-flacbox)
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Bagaimana cara memindahkan muzik ke Evermusic dari komputer saya?" closed="true" %}}
+{{% ls-details title="Bagaimana cara memindahkan muzik ke Evermusic dari komputer saya?" closed="true" %}}
 Anda boleh menyambungkan komputer atau NAS peribadi menggunakan protokol SMB, WebDAV, atau DLNA. Sebagai alternatif, gunakan iTunes File Sharing untuk memindahkan muzik.<br><br>
 
 Untuk menyambungkan komputer menggunakan protokol **SMB** ketik "Sambung perkhidmatan awan" → SMB.<br>
@@ -517,9 +517,9 @@ Arahan terperinci tersedia di sini:<br>
 
 Dengan **DLNA** anda juga boleh menyediakan pelayan media DLNA dan menstrim muzik anda dari Windows PC seperti yang diterangkan di sini:<br>
 [Cara Mendayakan DLNA Media Server pada Windows 10 dan Memainkan Muzik pada iPhone](/docs/howto/how-to-enable-dlna-media-server-on-windows-10-and-play-your-music-on-iphone)
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Bagaimana cara memuat turun muzik?" closed="true" %}}
+{{% ls-details title="Bagaimana cara memuat turun muzik?" closed="true" %}}
 Sebelum anda boleh memuat turun muzik dan mendengar muzik secara luar talian anda perlu menyambungkan akaun rangkaian.<br>
 Cukup buka skrin "Sambungan" dan tambahkan akaun anda.<br>
 Setelah menambah akaun rangkaian anda boleh memuat turun muzik dari awan.<br><br>
@@ -540,9 +540,9 @@ Arahan lebih terperinci tentang mod luar talian tersedia di sini:<br>
 
 Pilihan lain yang tersedia ialah memuat turun muzik dari Youtube dan mengimportnya ke Evermusic seperti yang diterangkan di sini:<br>
 [Cara Memuat Turun Muzik dari YouTube dan Mendengar Muzik Luar Talian pada iPhone](/docs/howto/how-to-download-music-from-youtube-and-listen-to-offline-music-on-iphone)
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Adakah Evermusic menyokong Apple CarPlay?" closed="true" %}}
+{{% ls-details title="Adakah Evermusic menyokong Apple CarPlay?" closed="true" %}}
 Ya, **Evermusic menyokong sepenuhnya Apple CarPlay**. Anda boleh melayari perpustakaan muzik, memainkan fail tempatan atau luar talian, menyambung ke storan awan, dan mengawal main balik terus dari skrin infotainmen kereta anda.
 
 Antara muka CarPlay termasuk tab khusus untuk **Perpustakaan**, **Sambungan**, **Fail Tempatan**, dan **Tetapan**, memberikan anda kawalan penuh ke atas muzik anda semasa di jalan raya. Kawalan main balik, kocok, ulang, dan pengurusan baris gilir juga tersedia.
@@ -550,9 +550,9 @@ Antara muka CarPlay termasuk tab khusus untuk **Perpustakaan**, **Sambungan**, *
 Untuk menggunakan CarPlay, pastikan Siri didayakan dan iPhone anda disambungkan melalui USB atau wayarles.
 
 [Baca panduan penuh](/docs/howto/how-to-play-your-own-music-on-iphone-using-carplay/)
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Apakah format audio yang disokong Evermusic?" closed="true" %}}
+{{% ls-details title="Apakah format audio yang disokong Evermusic?" closed="true" %}}
 Berikut ialah senarai penuh format audio yang disokong dan sambungan fail yang sepadan:<br><br>
 
 **Format Audio yang Disokong:**<br>
@@ -570,40 +570,40 @@ Berikut ialah senarai penuh format audio yang disokong dan sambungan fail yang s
 mpeg, aifc, 3gp, avi, aif, latm, 3gpp, m4a, loas, cdda, aac, m4p, m4b, ac3, pls, mp4v, m3u, m4r, aiff, xhe, mp1, snd, mp2, wav, qt, wave, m3u8, m4v, mp3, 3g2, caf, mp4, flac, au, w64, ec3, adts, amr, vtt, mpa, aa<br><br>
 
 Dengan pelbagai format dan sambungan fail yang disokong ini, anda boleh menikmati muzik dalam format pilihan anda.
-{{% /details %}}
+{{% /ls-details %}}
 
 </div>
 
 <div class="hx:mt-6"></div>
 
-{{< hextra/section-headline >}}
+{{< ls-section-headline >}}
   Panduan Pengguna
-{{< /hextra/section-headline >}}
+{{< /ls-section-headline >}}
 
 <div class="hx:mt-6"></div>
 
 <div class="hx:w-full">
 
 <div class="hx:w-full hx:mx-auto hx:flex hx:flex-col hx:items-center hx:text-center">
-  {{< hextra/info-paragraph border="false" >}}
+  {{< ls-info-paragraph border="false" >}}
   Panduan ini akan membantu anda mendapatkan yang terbaik daripada Evermusic pada iPhone, iPad, atau Mac anda. Ketahui cara menstrim muzik dari awan, mengurus buku audio anda, dan memindahkan muzik antara peranti. Evermusic memberikan anda kawalan penuh ke atas koleksi muzik anda dalam satu aplikasi mudah.
-  {{< /hextra/info-paragraph >}}
+  {{< /ls-info-paragraph >}}
 </div>
 
 {{< cards >}}
-  {{< feature-card icon="location-marker" title="Navigasi" subtitle="Ketahui cara menavigasi Evermusic menggunakan Bar Tab pada iPhone atau Menu Kiri pada iPad dan Mac." link="/docs/guide/evermusic/evermusic-guide-navigation" >}}
+  {{< ls-feature-card icon="location-marker" title="Navigasi" subtitle="Ketahui cara menavigasi Evermusic menggunakan Bar Tab pada iPhone atau Menu Kiri pada iPad dan Mac." link="/docs/guide/evermusic/evermusic-guide-navigation" >}}
 
-  {{< feature-card icon="cloud" title="Sambungan" subtitle="Sambungkan akaun awan anda dan urus fail dalam talian menggunakan pengurus fail terbina dalam." link="/docs/guide/evermusic/evermusic-guide-connections" >}}
+  {{< ls-feature-card icon="cloud" title="Sambungan" subtitle="Sambungkan akaun awan anda dan urus fail dalam talian menggunakan pengurus fail terbina dalam." link="/docs/guide/evermusic/evermusic-guide-connections" >}}
 
-  {{< feature-card icon="library" title="Perpustakaan Muzik" subtitle="Susun dan terokai lagu, album, dan artis anda dalam Perpustakaan Muzik." link="/docs/guide/evermusic/evermusic-guide-music-library" >}}
+  {{< ls-feature-card icon="library" title="Perpustakaan Muzik" subtitle="Susun dan terokai lagu, album, dan artis anda dalam Perpustakaan Muzik." link="/docs/guide/evermusic/evermusic-guide-music-library" >}}
 
-  {{< feature-card icon="collection" title="Senarai Main" subtitle="Cipta dan susun senarai main mengikut mood atau majlis anda." link="/docs/guide/evermusic/evermusic-guide-playlists" >}}
+  {{< ls-feature-card icon="collection" title="Senarai Main" subtitle="Cipta dan susun senarai main mengikut mood atau majlis anda." link="/docs/guide/evermusic/evermusic-guide-playlists" >}}
 
-  {{< feature-card icon="folder" title="Fail Tempatan" subtitle="Akses dan urus muzik luar talian melalui bahagian Fail Tempatan." link="/docs/guide/evermusic/evermusic-guide-local-files" >}}
+  {{< ls-feature-card icon="folder" title="Fail Tempatan" subtitle="Akses dan urus muzik luar talian melalui bahagian Fail Tempatan." link="/docs/guide/evermusic/evermusic-guide-local-files" >}}
 
-  {{< feature-card icon="play" title="Pemain Audio" subtitle="Kawal main balik, baris gilir, dan tetapan audio seperti penyama dan pemasa tidur." link="/docs/guide/evermusic/evermusic-guide-player" >}}
+  {{< ls-feature-card icon="play" title="Pemain Audio" subtitle="Kawal main balik, baris gilir, dan tetapan audio seperti penyama dan pemasa tidur." link="/docs/guide/evermusic/evermusic-guide-player" >}}
 
-  {{< feature-card icon="adjustments" title="Tetapan" subtitle="Sesuaikan penampilan, ciri, dan tetapan prestasi Evermusic." link="/docs/guide/evermusic/evermusic-guide-settings" >}}
+  {{< ls-feature-card icon="adjustments" title="Tetapan" subtitle="Sesuaikan penampilan, ciri, dan tetapan prestasi Evermusic." link="/docs/guide/evermusic/evermusic-guide-settings" >}}
 
 {{< /cards >}}
 

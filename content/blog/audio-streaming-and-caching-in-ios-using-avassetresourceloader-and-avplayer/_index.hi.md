@@ -12,7 +12,7 @@ authors:
     image: "/images/about/artem-meleshko-founder-everappz.webp"
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 ![](/blog/audio-streaming-and-caching-in-ios-using-avassetresourceloader-and-avplayer/diagram.png)
 
@@ -134,18 +134,18 @@ self.player = [AVPlayer playerWithPlayerItem:item];
 
 ## अक्सर पूछे जाने वाले प्रश्न
 
-{{% details title="सीधे URL की बजाय AVAssetResourceLoaderDelegate कब उपयोग करें?" closed="true" %}}
+{{% ls-details title="सीधे URL की बजाय AVAssetResourceLoaderDelegate कब उपयोग करें?" closed="true" %}}
 इसका उपयोग तब करें जब क्लाउड सेवा को कस्टम ऑथराइज़ेशन हेडर की आवश्यकता हो, जब आपको स्ट्रीम किए गए ऑडियो के लिए डिस्क कैशिंग चाहिए, या जब आप डेटा लोड और बफर होने के तरीके पर बारीक नियंत्रण चाहते हों।
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="क्या यह दृष्टिकोण Swift के साथ काम करता है?" closed="true" %}}
+{{% ls-details title="क्या यह दृष्टिकोण Swift के साथ काम करता है?" closed="true" %}}
 हाँ। `AVAssetResourceLoaderDelegate` प्रोटोकॉल Swift में भी उसी तरह काम करता है। यहाँ दिए गए Objective-C उदाहरण सीधे अनुवादित होते हैं।
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="क्या मैं इसे वीडियो स्ट्रीमिंग के लिए भी उपयोग कर सकता हूँ?" closed="true" %}}
+{{% ls-details title="क्या मैं इसे वीडियो स्ट्रीमिंग के लिए भी उपयोग कर सकता हूँ?" closed="true" %}}
 हाँ। `AVAssetResourceLoaderDelegate` AVPlayer द्वारा समर्थित किसी भी मीडिया टाइप के साथ काम करता है, जिसमें वीडियो भी शामिल है। वही कस्टम-स्कीम दृष्टिकोण लागू होता है।
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="क्या यह बैकग्राउंड ऑडियो प्लेबैक का समर्थन करता है?" closed="true" %}}
+{{% ls-details title="क्या यह बैकग्राउंड ऑडियो प्लेबैक का समर्थन करता है?" closed="true" %}}
 हाँ, जब तक आप अपने ऐप की क्षमताओं में "Audio, AirPlay, and Picture in Picture" बैकग्राउंड मोड सक्षम करते हैं और अपने `AVAudioSession` को सही तरीके से कॉन्फ़िगर करते हैं।
-{{% /details %}}
+{{% /ls-details %}}

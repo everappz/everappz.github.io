@@ -7,7 +7,7 @@ tags: ["evermusic", "anslut", "bluesound vault"]
 readingTime: 1
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **Sammanfattning:** Anslut till din Bluesound VAULTs interna lagring via SMB med Evermusic, Flacbox eller Evertag. Hitta VAULTs IP-adress i BluOS-appen, ange den som en SMB-anslutning med gäståtkomst och börja spela upp eller hantera dina musikfiler.
@@ -58,18 +58,18 @@ Med dessa enkla steg kan du enkelt komma åt din Bluesound VAULTs interna hårdd
 
 ## Vanliga frågor
 
-{{% details title="Behöver jag ett användarnamn och lösenord för att ansluta till Bluesound VAULT?" closed="true" %}}
+{{% ls-details title="Behöver jag ett användarnamn och lösenord för att ansluta till Bluesound VAULT?" closed="true" %}}
 Nej. Bluesound VAULT stöder gäståtkomst (anonym) via SMB. Lämna fälten Inloggning och Lösenord tomma när du konfigurerar anslutningen.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Kan jag redigera musiktaggar på Bluesound VAULT?" closed="true" %}}
+{{% ls-details title="Kan jag redigera musiktaggar på Bluesound VAULT?" closed="true" %}}
 Ja. Med Evertag kan du redigera metadata-taggar (titel, artist, album etc.) för ljudfiler som lagras direkt på VAULTs interna hårddisk.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Vilka protokoll stöder Bluesound VAULT?" closed="true" %}}
+{{% ls-details title="Vilka protokoll stöder Bluesound VAULT?" closed="true" %}}
 Bluesound VAULT exponerar sin interna lagring via SMB (Server Message Block). Evermusic, Flacbox och Evertag stöder alla SMB-anslutningar, vilket gör det enkelt att ansluta.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Kan jag strömma musik från VAULT utan att kopiera filer till min iPhone?" closed="true" %}}
+{{% ls-details title="Kan jag strömma musik från VAULT utan att kopiera filer till min iPhone?" closed="true" %}}
 Ja. När du är ansluten via SMB kan du strömma ljudfiler direkt från VAULTs interna enhet utan att kopiera dem till din enhet.
-{{% /details %}}
+{{% /ls-details %}}

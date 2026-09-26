@@ -19,7 +19,7 @@ Evervideoは、iOSで音楽やメディアプレーヤーを使用したこと�
 ほとんどのメディアアプリとは異なり、Evervideoはクラウドアカウント、NAS共有、メディアサーバー、ローカルファイルを単一の統合ファイルタブに統合しています — そのため別々の画面間を行き来する必要がありません。これにより、Plexサーバーから、iCloud Driveフォルダーへ、iPhoneのドキュメントフォルダーへビデオを移動する操作が、1画面1タップで完結します。
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evervideoメイン画面" image="/docs/guide/evervideo/img/evervideo-main.webp" >}}
+  {{< ls-card title="" subtitle="Evervideoメイン画面" image="/docs/guide/evervideo/img/evervideo-main.webp" >}}
 {{< /cards >}}
 
 ## タブ
@@ -53,7 +53,7 @@ PiPはEvervideoが再生するすべてのビデオ形式で機能し、クラ�
 画面上のほぼすべてのコンテンツアイテムにはその他のアクションボタン（「⋯」三点アイコン）があります。タップすると、そのアイテムで利用可能なすべてのアクションを含むコンテキスト依存メニューが開きます — 次に再生、後で再生、プレイリストに追加、お気に入りに追加、タグ編集、ダウンロード、共有、名前変更、移動など。長いリストは垂直にスクロールするため、メインUIを混雑させることなく一般的でないアクションにもアクセスできます。
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evervideoお気に入りのその他のアクションメニュー" image="/docs/guide/evervideo/img/evervideo-favorites-more-actions.webp" >}}
+  {{< ls-card title="" subtitle="Evervideoお気に入りのその他のアクションメニュー" image="/docs/guide/evervideo/img/evervideo-favorites-more-actions.webp" >}}
 {{< /cards >}}
 
 ## トップツールバー

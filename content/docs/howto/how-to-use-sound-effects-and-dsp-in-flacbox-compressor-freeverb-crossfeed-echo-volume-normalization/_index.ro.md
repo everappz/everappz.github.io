@@ -7,9 +7,9 @@ tags: ["Flacbox", "Efecte audio", "Cum să", "BASS", "Egalizator", "Amplificare 
 readingTime: 30
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
-{{< full-width-tables >}}
+{{< ls-full-width-tables >}}
 
 **Răspuns scurt:** În Flacbox alegeți un singur **Motor de redare** în **Setări > Player audio**: **Standard** (motorul de sistem Apple), **Universal** (motorul FFmpeg) sau **Sound FX** (**motorul BASS™**). Motorul pe care îl alegeți decide ce formate de fișiere se redau, așa că alegerea contează. Motorul **Sound FX** redă formate suplimentare pe care majoritatea aplicațiilor iPhone le omit (FLAC, DSD, WavPack, APE, Musepack, TrueAudio, Opus și vechea **muzică MOD și tracker** precum MOD, XM, IT și S3M) și este singurul motor care pune în funcțiune instrumentele de sunet: un **egalizator cu 10 benzi**, **Normalizarea volumului**, **Compressor**, **Freeverb**, **Auto Wah**, **Phaser**, **Flanger**, **Echo**, **Chorus**, **Distortion**, **Rotate**, **Crossfeed** și un **lanț DSP** pe care îl construiți singur. Așadar, pentru a folosi efectele din acest ghid, setați mai întâi Motorul de redare pe **Sound FX**. Fiecare instrument are **presetări** gata făcute. Deschideți-le în **Setări > Player audio** (Efecte audio, Egalizator audio, Procesare semnal) sau atingeți butonul **⋯ (Mai multe)** din player și alegeți **Efecte audio**. Nimic din ce faceți aici nu vă modifică vreodată fișierele.
 
@@ -657,93 +657,93 @@ Deoarece toate acestea rulează în timp real în timp ce muzica se redă, efect
 
 ## Întrebări frecvente
 
-{{% details title="Ce motor de sunet folosește Flacbox?" closed="true" %}}
+{{% ls-details title="Ce motor de sunet folosește Flacbox?" closed="true" %}}
 Alegeți un singur Motor de redare în Setări > Player audio: Standard (motorul de sistem Apple), Universal (motorul FFmpeg) sau Sound FX (motorul BASS™ de la Un4seen Developments, un4seen.com). Motorul pe care îl alegeți decide ce formate de fișiere se redau. Sound FX este cel care redă formate suplimentare precum FLAC, DSD, WavPack, APE, Musepack, TrueAudio, Opus și muzică MOD sau tracker și este singurul motor care oferă efectele în timp real, egalizatorul cu 10 benzi și lanțul DSP. Pentru a folosi efectele, setați Motorul de redare pe Sound FX.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Poate Flacbox reda MOD, XM, IT și altă muzică tracker sau modul?" closed="true" %}}
+{{% ls-details title="Poate Flacbox reda MOD, XM, IT și altă muzică tracker sau modul?" closed="true" %}}
 Da. Motorul BASS™ are un player de module încorporat care încarcă fișiere MOD, XM, IT, S3M, MTM, UMX și MO3 și reconstruiește piesa în timp real din tiparele și sunetele de instrumente ale acesteia, așa cum este menită să se redea muzica tracker. Playerele obișnuite de iPhone nu pot face acest lucru. Efectele și egalizatorul funcționează și pe muzica modul.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Acceptă Flacbox fișiere DSD și de înaltă rezoluție?" closed="true" %}}
+{{% ls-details title="Acceptă Flacbox fișiere DSD și de înaltă rezoluție?" closed="true" %}}
 Da. Flacbox redă fișiere DSD (DSF și DFF) prin motorul BASS™ folosind DSD peste PCM, astfel încât să funcționeze pe hardware de ieșire obișnuit, plus FLAC, WavPack, Monkey's Audio (APE), Musepack și TrueAudio pentru redare lossless.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Ce efecte de sunet are Flacbox?" closed="true" %}}
+{{% ls-details title="Ce efecte de sunet are Flacbox?" closed="true" %}}
 Un egalizator cu 10 benzi, Normalizarea volumului, Compressor, Freeverb, Auto Wah, Phaser, Flanger, Echo, Chorus, Distortion, Rotate și Crossfeed, plus un lanț DSP pe care îl construiți singur, cu filtre, shelf-uri, gain, soft clip, bit crusher, ring modulator, tremolo, delay și stereo width. Fiecare este separat și poate fi combinat cu celelalte.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Ce este o presetare?" closed="true" %}}
+{{% ls-details title="Ce este o presetare?" closed="true" %}}
 O presetare este o setare gata făcută pentru un efect. În loc să mișcați singur cursoarele, atingeți o presetare și sunetul se schimbă pentru a se potrivi. Fiecare efect din Flacbox are mai multe presetări, iar acest ghid enumeră ce face fiecare. Dacă mișcați un cursor după alegerea unei presetări, efectul afișează „Manual” pentru a vă spune că folosește acum propriile valori.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Cum deschid efectele audio în Flacbox?" closed="true" %}}
+{{% ls-details title="Cum deschid efectele audio în Flacbox?" closed="true" %}}
 Deschideți playerul Now Playing, atingeți butonul ⋯ (Mai multe) și alegeți Efecte audio. Sau mergeți la Setări > Player audio > Efecte audio. Atingeți un efect, porniți-i comutatorul și alegeți o presetare sau deschideți cursoarele pentru a regla fin.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Unde este egalizatorul și care sunt cele mai bune setări?" closed="true" %}}
+{{% ls-details title="Unde este egalizatorul și care sunt cele mai bune setări?" closed="true" %}}
 Mergeți la Setări > Player audio > Egalizator audio. Are 10 benzi de la 32 Hz la 16 kHz, fiecare de la -12 la +12 dB, plus un Preamplificator de la -24 la +24 dB și 22 de presetări. Pentru mai mult bas, folosiți Bass Booster. Pentru voci mai clare, folosiți Vocal Booster sau Pop. Pentru un sunet mai luminos, folosiți Treble Booster. Apoi ajustați benzile individuale după gust.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Cum amplific basul în Flacbox?" closed="true" %}}
+{{% ls-details title="Cum amplific basul în Flacbox?" closed="true" %}}
 Două moduri ușoare. În Egalizatorul audio, alegeți Bass Booster (sau ridicați benzile de 32 Hz și 64 Hz cu câțiva dB). Sau, în Procesare semnal, adăugați un bloc Low Shelf setat pe Bass Boost. În ambele cazuri, coborâți Preamplificatorul sau adăugați un bloc Gain cu 1 până la 2 dB, astfel încât basul să rămână curat și să nu distorsioneze.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Ce presetare de egalizator este cea mai bună pentru muzica mea?" closed="true" %}}
+{{% ls-details title="Ce presetare de egalizator este cea mai bună pentru muzica mea?" closed="true" %}}
 Rock și Electronic adaugă energie cu grave și înalte puternice. Acoustic, Jazz și Classical rămân calde și naturale. Pop și Vocal Booster împing vocile în față. Bass Booster și Hip-Hop adaugă greutate. Deep și Loudness sună mai plin la volum mic. Începeți cu cea care se potrivește genului dumneavoastră, apoi reglați fin.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Ce este Normalizarea volumului și cu ce diferă de ReplayGain?" closed="true" %}}
+{{% ls-details title="Ce este Normalizarea volumului și cu ce diferă de ReplayGain?" closed="true" %}}
 Face ca fiecare piesă să se redea la aproximativ aceeași intensitate. Măsoară intensitatea reală folosind standardul EBU R128 (în LUFS, ca serviciile de streaming) și ajustează fiecare piesă către ținta dumneavoastră, cu o limită de amplificare maximă. Spre deosebire de ReplayGain, nu are nevoie de etichete în fișiere și funcționează pe orice sursă, în timp real, fără a modifica sunetul. Presetări: Light, Standard, Strong și Night.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Ce este Crossfeed și ar trebui să îl folosesc?" closed="true" %}}
+{{% ls-details title="Ce este Crossfeed și ar trebui să îl folosesc?" closed="true" %}}
 Crossfeed amestecă puțin din canalele stânga și dreapta împreună, astfel încât căștile să pară mai mult ca niște difuzoare reale și mai puțin ca și cum sunetul ar fi blocat în capul dumneavoastră. Este doar pentru căști, așa că opriți-l pentru difuzoare. Flacbox folosește metoda bs2b (Bauer), cu presetări precum Chu Moy și Jan Meier.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Care este diferența dintre Compressor și Normalizarea volumului?" closed="true" %}}
+{{% ls-details title="Care este diferența dintre Compressor și Normalizarea volumului?" closed="true" %}}
 Normalizarea volumului potrivește intensitatea între piese diferite. Compressor-ul uniformizează părțile tari și silențioase din interiorul unei singure piese. Rezolvă probleme diferite și funcționează bine împreună, mai ales într-o mașină sau într-un loc zgomotos.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Ce este lanțul de Procesare semnal (DSP)?" closed="true" %}}
+{{% ls-details title="Ce este lanțul de Procesare semnal (DSP)?" closed="true" %}}
 Este un rack pe care îl construiți singur în Setări > Player audio > Procesare semnal. Adăugați blocuri precum filtre, shelf-uri, gain, soft clip, bit crusher, ring modulator, tremolo, delay și stereo width, puneți-le în orice ordine, porniți sau opriți fiecare și îndreptați lanțul către toate canalele, stânga sau dreapta. Deoarece ordinea contează, puteți proiecta exact sunetul pe care îl doriți.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Care este diferența dintre Egalizator, efecte și lanțul DSP?" closed="true" %}}
+{{% ls-details title="Care este diferența dintre Egalizator, efecte și lanțul DSP?" closed="true" %}}
 Egalizatorul este un control simplu de tonalitate cu 10 benzi. Efectele audio sunt instrumente gata făcute (compressor, reverb, echo și așa mai departe) cu presetări. Lanțul DSP este locul unde vă construiți propria ordine de efecte din blocuri individuale. Puteți rula toate trei în același timp.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Efectele modifică sau deteriorează fișierele mele de muzică?" closed="true" %}}
+{{% ls-details title="Efectele modifică sau deteriorează fișierele mele de muzică?" closed="true" %}}
 Nu. Totul se aplică în timp real în timp ce muzica se redă. Fișierele dumneavoastră nu sunt niciodată modificate sau re-salvate. Opriți un efect și sunetul original revine pe loc.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Pot folosi mai mult de un efect în același timp?" closed="true" %}}
+{{% ls-details title="Pot folosi mai mult de un efect în același timp?" closed="true" %}}
 Da. Fiecare efect are propriul comutator și nu există un comutator principal, așa că orice combinație funcționează. De exemplu, Normalizarea volumului plus Compressor pentru o ascultare uniformă, sau Freeverb plus Crossfeed pe căști, cu egalizatorul deasupra.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="De ce sunt controalele efectului estompate?" closed="true" %}}
+{{% ls-details title="De ce sunt controalele efectului estompate?" closed="true" %}}
 Efectul este oprit. Porniți-i comutatorul din partea de sus a editorului pentru a folosi controalele. Fiecare efect este oprit implicit.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Ce înseamnă eticheta Manual?" closed="true" %}}
+{{% ls-details title="Ce înseamnă eticheta Manual?" closed="true" %}}
 Înseamnă că ați mișcat un cursor departe de o presetare, așa că efectul folosește acum propriile valori personalizate în loc de o presetare denumită. Fiecare cursor are un buton de resetare, iar alegerea din nou a unei presetări înlocuiește valorile dumneavoastră manuale.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Pot salva și partaja presetările mele de egalizator?" closed="true" %}}
+{{% ls-details title="Pot salva și partaja presetările mele de egalizator?" closed="true" %}}
 Da. Pe lângă cele 22 de presetări încorporate, vă puteți crea propriile, le puteți reordona și le puteți exporta sau importa pentru a vă muta setările pe alt dispozitiv.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Funcționează efectele cu CarPlay, streaming și redare în fundal?" closed="true" %}}
+{{% ls-details title="Funcționează efectele cu CarPlay, streaming și redare în fundal?" closed="true" %}}
 Da. Efectele rulează în interiorul motorului BASS™, așa că se aplică fișierelor locale, unităților din cloud, serverelor media, fluxurilor și muzicii modul și continuă să funcționeze în timpul CarPlay și al redării în fundal.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Pot schimba calitatea ieșirii audio?" closed="true" %}}
+{{% ls-details title="Pot schimba calitatea ieșirii audio?" closed="true" %}}
 Da. În Setări > Player audio puteți seta frecvența de eșantionare a ieșirii, numărul de canale și dimensiunea bufferului pentru a se potrivi cu căștile, difuzoarele sau DAC-ul dumneavoastră.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Care este o configurație bună de pornire pentru căști?" closed="true" %}}
+{{% ls-details title="Care este o configurație bună de pornire pentru căști?" closed="true" %}}
 Porniți Normalizarea volumului (Standard), adăugați un Compressor ușor (Soft), alegeți o presetare de egalizator care vă place și porniți Crossfeed (Chu Moy sau Jan Meier). Lăsați reverbul, echo-ul și distorsiunea oprite dacă nu doriți un sunet creativ.
-{{% /details %}}
+{{% /ls-details %}}
 
 ---
 

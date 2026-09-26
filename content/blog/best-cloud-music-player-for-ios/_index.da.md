@@ -12,7 +12,7 @@ authors:
     image: "/images/about/artem-meleshko-founder-everappz.webp"
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 **Kort sagt:** Evermusic er en cloud musikafspiller til iPhone og iPad, der forbinder til Dropbox, Google Drive, OneDrive og 9+ andre cloudtjenester. Den afspiller FLAC, MP3, WAV og andre formater, understøtter offline downloads og inkluderer en equalizer og ID3 tag-editor. Gratis at downloade med en engangsbetaling for Premium-opgradering. 11 millioner+ downloads, 4,6-stjernebedømmelse i App Store.
 
@@ -20,7 +20,7 @@ authors:
 
 Se den fulde videoanmeldelse af [@Massi_Media](https://www.youtube.com/@Massi_Media):
 
-{{< youtubecard id="pKUZmHy9dxc" >}}
+{{< ls-youtubecard id="pKUZmHy9dxc" >}}
 
 ## Hvad er den bedste cloud musikafspiller til iPhone?
 
@@ -67,18 +67,18 @@ Fordi Evermusic fungerer med filer, du allerede har, og lagring, du allerede bet
 
 ## Ofte stillede spørgsmål
 
-{{% details title="Er Evermusic virkelig gratis at bruge?" closed="true" %}}
+{{% ls-details title="Er Evermusic virkelig gratis at bruge?" closed="true" %}}
 Ja, Evermusic tilbyder et gratis niveau, der inkluderer cloud-forbindelser, streaming og offline downloads. Den gratis version understøtter grundlæggende afspilningsfunktioner og et begrænset antal cloud-kontoforbindelser. Evermusic Pro, tilgængeligt som et engangskøb eller abonnement, låser op for den fulde equalizer, crossfade, yderligere cloud-konti og andre avancerede funktioner. Der kræves intet abonnement for at tilgå dine egne musikfiler.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Kan jeg bruge Evermusic uden internetforbindelse?" closed="true" %}}
+{{% ls-details title="Kan jeg bruge Evermusic uden internetforbindelse?" closed="true" %}}
 Absolut. Evermusic giver dig mulighed for at downloade numre fra enhver forbundet cloudtjeneste direkte til din enhed til offline afspilning. Når de er downloadet, gemmes filerne lokalt og forbliver tilgængelige selv uden Wi-Fi eller mobildata. Dette gør Evermusic ideel til flyvninger, pendling gennem tunneler eller enhver situation, hvor forbindelsen er upålidelig.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Understøtter Evermusic tabsfri lydformater som FLAC?" closed="true" %}}
+{{% ls-details title="Understøtter Evermusic tabsfri lydformater som FLAC?" closed="true" %}}
 Ja. Evermusic understøtter en bred vifte af lydformater, herunder FLAC, ALAC, WAV, AIFF, OGG, MP3, AAC og M4A. Appen afspiller tabsfri filer i deres native kvalitet uden re-encoding, så audiofiler kan nyde deres højtopløselige samlinger præcis som tiltænkt.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Hvordan forbinder jeg min NAS eller hjemmeserver til Evermusic?" closed="true" %}}
+{{% ls-details title="Hvordan forbinder jeg min NAS eller hjemmeserver til Evermusic?" closed="true" %}}
 Hvis din NAS eller hjemmeserver understøtter WebDAV- eller SMB-protokoller, kan du forbinde den til Evermusic ved at indtaste din serveradresse, port og legitimationsoplysninger i appens cloud-forbindelsesindstillinger. De fleste populære NAS-mærker, herunder Synology, QNAS og Western Digital MyCloud, understøtter disse protokoller ud af boksen. Når den er forbundet, vil Evermusic scanne og indeksere dine musikfiler ligesom enhver anden cloudkilde.
-{{% /details %}}
+{{% /ls-details %}}

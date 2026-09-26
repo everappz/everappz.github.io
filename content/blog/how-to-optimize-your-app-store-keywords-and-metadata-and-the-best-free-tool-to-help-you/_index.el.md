@@ -14,7 +14,7 @@ authors:
     image: "/images/about/artem-meleshko-founder-everappz.webp"
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 ## Γιατί οι λέξεις-κλειδιά του App Store καθορίζουν τον αριθμό λήψεών σας
 
@@ -100,29 +100,29 @@ json_dict_to_meta.sh       # Converts JSON back into Fastlane folders
 Το εργαλείο είναι ανοιχτού κώδικα.
 
 {{< cards cols="1" >}}
-  {{< card link="https://github.com/everappz/app-store-keyword-optimizer/tree/main" title="appkeywords.pro στο GitHub" icon="github" tag= "open source" >}}
+  {{< ls-card link="https://github.com/everappz/app-store-keyword-optimizer/tree/main" title="appkeywords.pro στο GitHub" icon="github" tag= "open source" >}}
 {{< /cards >}}
 
 ---
 
 ## Συχνές ερωτήσεις
 
-{{% details title="Είναι το AppKeywords.pro πραγματικά δωρεάν;" closed="true" %}}
+{{% ls-details title="Είναι το AppKeywords.pro πραγματικά δωρεάν;" closed="true" %}}
 Ναι. Είναι πλήρως ανοιχτού κώδικα, βασισμένο σε browser, χωρίς εγγραφή, χωρίς διαφημίσεις και χωρίς συλλογή δεδομένων.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Λειτουργεί για πολλές γλώσσες App Store;" closed="true" %}}
+{{% ls-details title="Λειτουργεί για πολλές γλώσσες App Store;" closed="true" %}}
 Ναι. Μπορείτε να προσθέσετε μεταδεδομένα ανά γλώσσα και η εξαγωγή περιλαμβάνει όλες τις γλώσσες σε ένα JSON αρχείο συμβατό με Fastlane.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Πρέπει να επαναλάβω τις λέξεις-κλειδιά του τίτλου στο πεδίο λέξεων-κλειδιών;" closed="true" %}}
+{{% ls-details title="Πρέπει να επαναλάβω τις λέξεις-κλειδιά του τίτλου στο πεδίο λέξεων-κλειδιών;" closed="true" %}}
 Όχι. Η Apple ήδη ευρετηριάζει λέξεις από τον τίτλο και υπότιτλο.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Πόσο συχνά πρέπει να ενημερώνω τις λέξεις-κλειδιά;" closed="true" %}}
+{{% ls-details title="Πόσο συχνά πρέπει να ενημερώνω τις λέξεις-κλειδιά;" closed="true" %}}
 Τουλάχιστον μία φορά ανά τρίμηνο.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Μπορώ να χρησιμοποιήσω αυτό το εργαλείο με Fastlane;" closed="true" %}}
+{{% ls-details title="Μπορώ να χρησιμοποιήσω αυτό το εργαλείο με Fastlane;" closed="true" %}}
 Ναι. Το GitHub repo περιλαμβάνει shell scripts για μετατροπή μεταξύ Fastlane και JSON.
-{{% /details %}}
+{{% /ls-details %}}

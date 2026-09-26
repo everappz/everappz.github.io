@@ -7,7 +7,7 @@ tags: ["muzik", "audio", "pemain", "luar talian", "mod", "muat turun", "folder",
 keywords: ["muzik luar talian iPhone", "selaras muzik awan", "Evermusic luar talian", "Flacbox selaras muzik", "main muzik tanpa internet", "muat turun audio dari awan", "main balik fail tempatan iOS"]
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **TL;DR:** Evermusic dan Flacbox membolehkan anda memuat turun muzik dari storan awan (Google Drive, Dropbox, OneDrive, dan lain-lain) ke iPhone atau iPad anda untuk main balik luar talian. Anda boleh menggunakan tiga kaedah: muat turun terus, mod luar talian dengan penyelerasan automatik, atau cache pemain audio. Panduan ini merangkumi ketiga-tiga pendekatan langkah demi langkah.
@@ -140,26 +140,26 @@ Dengan mengikuti langkah-langkah terperinci ini, anda boleh mengurus dan memaink
 
 ## Soalan Lazim
 
-{{% details title="Apakah perkhidmatan awan yang disokong oleh Evermusic dan Flacbox?" closed="true" %}}
+{{% ls-details title="Apakah perkhidmatan awan yang disokong oleh Evermusic dan Flacbox?" closed="true" %}}
 Kedua-dua aplikasi menyokong Google Drive, Dropbox, OneDrive, Box, MEGA, Yandex.Disk, dan penyedia storan awan utama yang lain. Anda boleh menyambungkan pelbagai perkhidmatan pada masa yang sama.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Bolehkah saya menyelaraskan muzik secara automatik dari storan awan ke iPhone saya?" closed="true" %}}
+{{% ls-details title="Bolehkah saya menyelaraskan muzik secara automatik dari storan awan ke iPhone saya?" closed="true" %}}
 Ya. Aktifkan Mod Luar Talian untuk mana-mana folder, senarai main, album, atau artis. Aplikasi melakukan penyelerasan sehala dari awan ke peranti pada selang yang boleh dikonfigurasikan (lalai: sekali sehari).
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Adakah mod luar talian menggunakan banyak storan pada peranti saya?" closed="true" %}}
+{{% ls-details title="Adakah mod luar talian menggunakan banyak storan pada peranti saya?" closed="true" %}}
 Penggunaan storan bergantung pada saiz koleksi muzik anda dan format fail. Anda boleh mengawalnya dengan memilih folder tertentu untuk diselaraskan, menetapkan had saiz cache, dan memantau storan dalam tetapan aplikasi.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Apakah format audio yang disokong untuk main balik luar talian?" closed="true" %}}
+{{% ls-details title="Apakah format audio yang disokong untuk main balik luar talian?" closed="true" %}}
 Evermusic dan Flacbox menyokong MP3, FLAC, AAC, ALAC, WAV, AIFF, OGG, WMA, dan banyak format lain. Flacbox dioptimumkan untuk format tanpa rugi seperti FLAC dan ALAC.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Adakah muzik luar talian saya akan terus dimainkan jika saya menutup aplikasi?" closed="true" %}}
+{{% ls-details title="Adakah muzik luar talian saya akan terus dimainkan jika saya menutup aplikasi?" closed="true" %}}
 Ya. Fail yang dimuat turun disimpan secara tempatan pada peranti anda dan dimainkan melalui pemain audio aplikasi tanpa mengira sambungan internet. Main balik latar belakang disokong sepenuhnya.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Bagaimana saya membebaskan ruang yang digunakan oleh muzik luar talian?" closed="true" %}}
+{{% ls-details title="Bagaimana saya membebaskan ruang yang digunakan oleh muzik luar talian?" closed="true" %}}
 Nyahaktifkan Mod Luar Talian untuk folder tertentu dalam Tetapan > Pengurus Fail > Folder luar talian yang diselaraskan. Ini membuang salinan tempatan dari peranti anda. Anda juga boleh mengosongkan cache pemain audio atau memadam fail yang dimuat turun secara manual.
-{{% /details %}}
+{{% /ls-details %}}

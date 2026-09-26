@@ -17,7 +17,7 @@ readingTime: 6
 Secțiunea Liste de redare vă oferă instrumentele pentru a organiza piesele în liste. Include o vizualizare a conținutului care prezintă toate listele de redare create, un buton „..." în bara de navigare care oferă diverse acțiuni legate de liste de redare și o bară de navigare cu butoanele „Căutare", „Redă tot" și „Redă aleatoriu". În plus, fiecare listă de redare individuală are un buton „..." lângă titlul listei, oferind o serie de acțiuni specifice acelei liste.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Ecranul Listelor de redare Evermusic" image="/docs/guide/evermusic/evermusic-guide-playlists/img/playlists-main.webp" >}}
+  {{< ls-card title="" subtitle="Ecranul Listelor de redare Evermusic" image="/docs/guide/evermusic/evermusic-guide-playlists/img/playlists-main.webp" >}}
 {{< /cards >}}
 
 ## Crearea unei Liste de redare
@@ -25,7 +25,7 @@ Secțiunea Liste de redare vă oferă instrumentele pentru a organiza piesele î
 Pentru a crea o nouă listă de redare, atingeți butonul „+" sau butonul „..." din colțul din dreapta sus al barei de navigare, selectați „Listă de redare nouă" și atribuiți un nume listei dvs. de redare. După ce i-ați dat un nume, atingeți „Salvare".
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Creare Listă de Redare Nouă" image="/docs/guide/evermusic/evermusic-guide-playlists/img/playlists-add-new.webp" >}}
+  {{< ls-card title="" subtitle="Creare Listă de Redare Nouă" image="/docs/guide/evermusic/evermusic-guide-playlists/img/playlists-add-new.webp" >}}
 {{< /cards >}}
 
 Aceasta deschide dialogul „Adăugare melodii", unde puteți alege ce piese să adăugați la noua listă de redare. Piesele sunt clasificate după tipul sursei și aveți mai multe opțiuni:
@@ -42,7 +42,7 @@ Aceasta deschide dialogul „Adăugare melodii", unde puteți alege ce piese să
 În Evermusic, am adăugat funcționalitatea de importare a fișierelor M3U, astfel încât să nu fie nevoie să creați liste de redare manual.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Importare Listă de Redare dintr-o Sursă de Fișiere" image="/docs/guide/evermusic/evermusic-guide-playlists/img/playlists-import-from-files.webp" >}}
+  {{< ls-card title="" subtitle="Importare Listă de Redare dintr-o Sursă de Fișiere" image="/docs/guide/evermusic/evermusic-guide-playlists/img/playlists-import-from-files.webp" >}}
 {{< /cards >}}
 
 Mai întâi, mergeți la secțiunea „Liste de redare". Apoi, atingeți butonul „Mai mult" din colțul din dreapta sus. Din meniul care apare, selectați opțiunea „Importare listă de redare".
@@ -62,7 +62,7 @@ Aplicația va analiza fișierul listei de redare, va crea o listă de piese și 
 Când deschideți o listă de redare, apare „Ecranul detaliilor listei de redare". Pe acest ecran, veți găsi un buton „..." în colțul din dreapta sus cu opțiunile listei de redare și trei butoane sub imaginea copertei: „Căutare", „Continuare redare", „Redă tot" și „Redă aleatoriu". În plus, există o casetă de selectare „Mod offline".
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Ecranul Detaliilor Listei de Redare" image="/docs/guide/evermusic/evermusic-guide-playlists/img/playlists-detail-screen.webp" >}}
+  {{< ls-card title="" subtitle="Ecranul Detaliilor Listei de Redare" image="/docs/guide/evermusic/evermusic-guide-playlists/img/playlists-detail-screen.webp" >}}
 {{< /cards >}}
 
 - **Continuare redare**: Restaurați poziția de redare pentru această listă de redare.
@@ -87,7 +87,7 @@ Puteți accesa acțiunile pentru o listă de redare atingând butonul „..." l�
 - **Ștergere listă de redare:** Ștergeți lista de redare din Biblioteca de muzică. Vă rugăm să rețineți că această acțiune nu poate fi anulată.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Meniu Mai Multe Acțiuni pentru o Listă de Redare" image="/docs/guide/evermusic/evermusic-guide-playlists/img/playlists-more-actions-for-separate-playlist.webp" >}}
+  {{< ls-card title="" subtitle="Meniu Mai Multe Acțiuni pentru o Listă de Redare" image="/docs/guide/evermusic/evermusic-guide-playlists/img/playlists-more-actions-for-separate-playlist.webp" >}}
 {{< /cards >}}
 
 ## Mai Multe Acțiuni pentru Lista de Redare pe Ecranul Detaliilor Listei
@@ -113,7 +113,7 @@ Puteți accesa acțiunile pentru o listă de redare atingând butonul „..." di
 Pentru a schimba ordinea melodiilor dintr-o listă de redare, atingeți butonul „..." din colțul din dreapta sus și selectați „Selectați" pentru a intra în modul de selecție. Folosiți controlul de reordonare și gesturile de tragere și plasare lângă fiecare piesă pentru a le muta în sus sau în jos. Atingerea controlului de reordonare va muta piesa la începutul listei. Pentru a ieși din modul de selecție și a aplica modificările, atingeți „Finalizat".
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Schimbarea Ordinii Melodiilor într-o Listă de Redare" image="/docs/guide/evermusic/evermusic-guide-playlists/img/playlists-change-songs-order.webp" >}}
+  {{< ls-card title="" subtitle="Schimbarea Ordinii Melodiilor într-o Listă de Redare" image="/docs/guide/evermusic/evermusic-guide-playlists/img/playlists-change-songs-order.webp" >}}
 {{< /cards >}}
 
 ## Schimbarea Imaginii Copertei Listei de Redare
@@ -129,7 +129,7 @@ Deschideți lista de redare și atingeți butonul „..." din colțul din dreapt
 Deschideți lista de redare, atingeți butonul „..." din colțul din dreapta sus și selectați „Selectați" pentru a intra în modul de selecție. Alegeți piesele pe care doriți să le ștergeți și atingeți butonul „Ștergere din lista de redare" din partea inferioară a ecranului. Confirmați modificările atingând „Finalizat".
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Modul de Selecție într-o Listă de Redare" image="/docs/guide/evermusic/evermusic-guide-playlists/img/playlists-selection-mode-in-playlist-details-screen.webp" >}}
+  {{< ls-card title="" subtitle="Modul de Selecție într-o Listă de Redare" image="/docs/guide/evermusic/evermusic-guide-playlists/img/playlists-selection-mode-in-playlist-details-screen.webp" >}}
 {{< /cards >}}
 
 ## Opțiunile Piesei
@@ -137,7 +137,7 @@ Deschideți lista de redare, atingeți butonul „..." din colțul din dreapta s
 Fiecare piesă dintr-o listă de redare are o listă de acțiuni, accesibilă atingând butonul „...". Dacă nu puteți vedea toate acțiunile, derulați în jos pentru a le vizualiza. Puteți șterge piesa din lista de redare, descărca, edita etichetele audio și multe altele.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Meniu de Opțiuni ale Piesei într-o Listă de Redare" image="/docs/guide/evermusic/evermusic-guide-playlists/img/playlists-track-options.webp" >}}
+  {{< ls-card title="" subtitle="Meniu de Opțiuni ale Piesei într-o Listă de Redare" image="/docs/guide/evermusic/evermusic-guide-playlists/img/playlists-track-options.webp" >}}
 {{< /cards >}}
 
 - **Redare următor:** Adaugă piesa la începutul cozii playerului.

@@ -7,9 +7,9 @@ tags: ["Flacbox", "Ljudeffekter", "Hur man gör", "BASS", "Equalizer", "Basförs
 readingTime: 30
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
-{{< full-width-tables >}}
+{{< ls-full-width-tables >}}
 
 **Kort svar:** I Flacbox väljer du en **Uppspelningsmotor** i **Inställningar > Ljudspelare**: **Standard** (Apples systemmotor), **Universal** (FFmpeg-motorn) eller **Sound FX** (**BASS™-motorn**). Motorn du väljer avgör vilka filformat som spelas, så valet spelar roll. **Sound FX**-motorn spelar extra format som de flesta iPhone-appar hoppar över (FLAC, DSD, WavPack, APE, Musepack, TrueAudio, Opus och gammal **MOD- och trackermusik** som MOD, XM, IT och S3M), och den är den enda motorn som driver ljudverktygen: en **10-bands equalizer**, **Volymnormalisering**, **Kompressor**, **Freeverb**, **Auto Wah**, **Phaser**, **Flanger**, **Eko**, **Chorus**, **Distorsion**, **Rotate** och **Crossfeed**, samt en bygg-din-egen **DSP-kedja**. Så för att använda effekterna i den här guiden ska du först ställa in din uppspelningsmotor på **Sound FX**. Varje verktyg har färdiga **förinställningar**. Öppna dem i **Inställningar > Ljudspelare** (Ljudeffekter, Ljudequalizer, Signalbehandling), eller tryck på knappen **⋯ (Fler åtgärder)** på spelaren och välj **Ljudeffekter**. Ingenting du gör här ändrar någonsin dina filer.
 
@@ -657,93 +657,93 @@ Eftersom allt detta körs live medan musiken spelas är effekterna:
 
 ## FAQ
 
-{{% details title="Vilken ljudmotor använder Flacbox?" closed="true" %}}
+{{% ls-details title="Vilken ljudmotor använder Flacbox?" closed="true" %}}
 Du väljer en Uppspelningsmotor i Inställningar > Ljudspelare: Standard (Apples systemmotor), Universal (FFmpeg-motorn) eller Sound FX (BASS™-motorn från Un4seen Developments, un4seen.com). Motorn du väljer avgör vilka filformat som spelas. Sound FX är den som spelar extra format som FLAC, DSD, WavPack, APE, Musepack, TrueAudio, Opus och MOD- eller trackermusik, och den är den enda motorn som ger liveeffekterna, 10-bands equalizern och DSP-kedjan. För att använda effekterna, ställ in Uppspelningsmotorn på Sound FX.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Kan Flacbox spela MOD, XM, IT och annan tracker- eller modulmusik?" closed="true" %}}
+{{% ls-details title="Kan Flacbox spela MOD, XM, IT och annan tracker- eller modulmusik?" closed="true" %}}
 Ja. BASS™-motorn har en inbyggd modulspelare som laddar MOD-, XM-, IT-, S3M-, MTM-, UMX- och MO3-filer och bygger om låten live från dess mönster och instrumentljud, så som trackermusik är tänkt att spelas. Vanliga iPhone-spelare kan inte göra detta. Effekter och equalizern fungerar på modulmusik också.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Stöder Flacbox DSD och högupplösta filer?" closed="true" %}}
+{{% ls-details title="Stöder Flacbox DSD och högupplösta filer?" closed="true" %}}
 Ja. Flacbox spelar DSD-filer (DSF och DFF) genom BASS™-motorn med DSD över PCM så att de fungerar på vanlig utgångshårdvara, plus FLAC, WavPack, Monkey's Audio (APE), Musepack och TrueAudio för förlustfri uppspelning.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Vilka ljudeffekter har Flacbox?" closed="true" %}}
+{{% ls-details title="Vilka ljudeffekter har Flacbox?" closed="true" %}}
 En 10-bands equalizer, Volymnormalisering, Kompressor, Freeverb, Auto Wah, Phaser, Flanger, Eko, Chorus, Distorsion, Rotate och Crossfeed, plus en bygg-din-egen DSP-kedja med filter, shelves, gain, soft clip, bit crusher, ring modulator, tremolo, delay och stereobredd. Var och en är separat och kan kombineras med de andra.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Vad är en förinställning?" closed="true" %}}
+{{% ls-details title="Vad är en förinställning?" closed="true" %}}
 En förinställning är en färdig inställning för en effekt. Istället för att flytta reglage själv trycker du på en förinställning och ljudet ändras för att matcha. Varje effekt i Flacbox har flera förinställningar, och den här guiden listar vad var och en gör. Om du flyttar ett reglage efter att ha valt en förinställning visar effekten «Manuell» för att tala om att den nu använder dina egna värden.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Hur öppnar jag ljudeffekterna i Flacbox?" closed="true" %}}
+{{% ls-details title="Hur öppnar jag ljudeffekterna i Flacbox?" closed="true" %}}
 Öppna spelaren Spelas nu, tryck på knappen ⋯ (Fler åtgärder) och välj Ljudeffekter. Eller gå till Inställningar > Ljudspelare > Ljudeffekter. Tryck på en effekt, slå på dess brytare och välj en förinställning, eller öppna reglagen för att finjustera.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Var är equalizern, och vilka är de bästa inställningarna?" closed="true" %}}
+{{% ls-details title="Var är equalizern, och vilka är de bästa inställningarna?" closed="true" %}}
 Gå till Inställningar > Ljudspelare > Ljudequalizer. Den har 10 band från 32 Hz till 16 kHz, vart och ett från -12 till +12 dB, plus en Förförstärkare på -24 till +24 dB och 22 förinställningar. För mer bas, använd Bass Booster. För tydligare röster, använd Vocal Booster eller Pop. För ett ljusare ljud, använd Treble Booster. Justera sedan enskilda band efter smak.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Hur förstärker jag basen i Flacbox?" closed="true" %}}
+{{% ls-details title="Hur förstärker jag basen i Flacbox?" closed="true" %}}
 Två enkla sätt. I Ljudequalizern, välj Bass Booster (eller höj banden 32 Hz och 64 Hz några dB). Eller, i Signalbehandling, lägg till ett Low Shelf-block inställt på Bass Boost. I båda fallen, sänk Förförstärkaren eller lägg till ett Gain-block 1 till 2 dB så att basen förblir ren och inte distorderar.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Vilken equalizer-förinställning är bäst för min musik?" closed="true" %}}
+{{% ls-details title="Vilken equalizer-förinställning är bäst för min musik?" closed="true" %}}
 Rock och Electronic ger energi med kraftiga bastoner och diskant. Acoustic, Jazz och Classical förblir varma och naturliga. Pop och Vocal Booster för fram röster. Bass Booster och Hip-Hop ger tyngd. Deep och Loudness låter fylligare vid låg volym. Börja med den som matchar din genre, finjustera sedan.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Vad är Volymnormalisering, och hur skiljer det sig från ReplayGain?" closed="true" %}}
+{{% ls-details title="Vad är Volymnormalisering, och hur skiljer det sig från ReplayGain?" closed="true" %}}
 Det gör att varje spår spelas på ungefär samma volym. Det mäter den verkliga volymen med EBU R128-standarden (i LUFS, som streamingtjänster) och justerar varje spår mot ditt mål, med en max-boost-gräns. Till skillnad från ReplayGain behöver det inga taggar i dina filer och fungerar på vilken källa som helst, live, utan att ändra ljudet. Förinställningar: Light, Standard, Strong och Night.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Vad är Crossfeed, och bör jag använda det?" closed="true" %}}
+{{% ls-details title="Vad är Crossfeed, och bör jag använda det?" closed="true" %}}
 Crossfeed blandar lite av vänster och höger kanaler tillsammans så att hörlurar känns mer som riktiga högtalare och mindre som att ljudet sitter fast i ditt huvud. Det är endast för hörlurar, så slå av det för högtalare. Flacbox använder bs2b-metoden (Bauer), med förinställningar som Chu Moy och Jan Meier.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Vad är skillnaden mellan Kompressorn och Volymnormalisering?" closed="true" %}}
+{{% ls-details title="Vad är skillnaden mellan Kompressorn och Volymnormalisering?" closed="true" %}}
 Volymnormalisering matchar volymen mellan olika låtar. Kompressorn jämnar ut de höga och tysta partierna inuti en enda låt. De löser olika problem och fungerar bra tillsammans, särskilt i en bil eller på en bullrig plats.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Vad är Signalbehandlings- (DSP-) kedjan?" closed="true" %}}
+{{% ls-details title="Vad är Signalbehandlings- (DSP-) kedjan?" closed="true" %}}
 Det är ett bygg-din-egen-rack i Inställningar > Ljudspelare > Signalbehandling. Lägg till block som filter, shelves, gain, soft clip, bit crusher, ring modulator, tremolo, delay och stereobredd, sätt dem i vilken ordning som helst, slå på eller av var och en, och rikta kedjan mot alla kanaler, vänster eller höger. Eftersom ordningen spelar roll kan du designa exakt det ljud du vill ha.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Vad är skillnaden mellan Equalizern, effekterna och DSP-kedjan?" closed="true" %}}
+{{% ls-details title="Vad är skillnaden mellan Equalizern, effekterna och DSP-kedjan?" closed="true" %}}
 Equalizern är en enkel 10-bands tonkontroll. Ljudeffekterna är färdiga verktyg (kompressor, reverb, eko och så vidare) med förinställningar. DSP-kedjan är där du bygger din egen effektordning från enskilda block. Du kan köra alla tre samtidigt.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Ändrar eller skadar effekterna mina musikfiler?" closed="true" %}}
+{{% ls-details title="Ändrar eller skadar effekterna mina musikfiler?" closed="true" %}}
 Nej. Allt tillämpas live medan musiken spelas. Dina filer ändras eller sparas aldrig om. Slå av en effekt så återkommer originalljudet på en gång.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Kan jag använda mer än en effekt samtidigt?" closed="true" %}}
+{{% ls-details title="Kan jag använda mer än en effekt samtidigt?" closed="true" %}}
 Ja. Varje effekt har sin egen brytare och det finns ingen huvudbrytare, så vilken kombination som helst fungerar. Till exempel Volymnormalisering plus Kompressor för jämnt lyssnande, eller Freeverb plus Crossfeed i hörlurar, med equalizern ovanpå.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Varför är effektkontrollerna nedtonade?" closed="true" %}}
+{{% ls-details title="Varför är effektkontrollerna nedtonade?" closed="true" %}}
 Effekten är avstängd. Slå på dess brytare högst upp i redigeraren för att använda kontrollerna. Varje effekt är avstängd som standard.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Vad betyder etiketten Manuell?" closed="true" %}}
+{{% ls-details title="Vad betyder etiketten Manuell?" closed="true" %}}
 Det betyder att du flyttade ett reglage bort från en förinställning, så effekten använder nu dina egna anpassade värden istället för en namngiven förinställning. Varje reglage har en återställningsknapp, och att välja en förinställning igen ersätter dina manuella värden.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Kan jag spara och dela mina equalizer-förinställningar?" closed="true" %}}
+{{% ls-details title="Kan jag spara och dela mina equalizer-förinställningar?" closed="true" %}}
 Ja. Förutom de 22 inbyggda förinställningarna kan du göra dina egna, ändra ordning på dem och exportera eller importera dem för att flytta dina inställningar till en annan enhet.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Fungerar effekterna med CarPlay, streaming och bakgrundsuppspelning?" closed="true" %}}
+{{% ls-details title="Fungerar effekterna med CarPlay, streaming och bakgrundsuppspelning?" closed="true" %}}
 Ja. Effekterna körs inuti BASS™-motorn, så de tillämpas på lokala filer, molndiskar, mediaservrar, streams och modulmusik, och de fortsätter att fungera under CarPlay och bakgrundsuppspelning.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Kan jag ändra ljudutgångens kvalitet?" closed="true" %}}
+{{% ls-details title="Kan jag ändra ljudutgångens kvalitet?" closed="true" %}}
 Ja. I Inställningar > Ljudspelare kan du ställa in utgångssamplingsfrekvensen, antalet kanaler och buffertstorleken för att matcha dina hörlurar, högtalare eller DAC.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Vad är en bra startuppsättning för hörlurar?" closed="true" %}}
+{{% ls-details title="Vad är en bra startuppsättning för hörlurar?" closed="true" %}}
 Slå på Volymnormalisering (Standard), lägg till en lätt Kompressor (Soft), välj en equalizer-förinställning du gillar och slå på Crossfeed (Chu Moy eller Jan Meier). Lämna reverb, eko och distorsion av om du inte vill ha ett kreativt ljud.
-{{% /details %}}
+{{% /ls-details %}}
 
 ---
 

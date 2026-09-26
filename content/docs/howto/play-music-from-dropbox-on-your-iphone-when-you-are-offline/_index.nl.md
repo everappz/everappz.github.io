@@ -7,7 +7,7 @@ tags: ["cloud", "streaming", "iphone", "mp3", "opslag", "dropbox"]
 keywords: ["muziek afspelen Dropbox iPhone", "offline muziek Dropbox iOS", "Evermusic Dropbox", "mp3 speler cloud", "stream Dropbox audio", "Evermusic bestandsbeheer", "Dropbox iOS audio"]
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **Samenvatting:** Upload je muziek naar Dropbox, installeer de gratis Evermusic-app op je iPhone, verbind je Dropbox-account en speel of download je nummers voor offline luisteren. Evermusic ondersteunt MP3, FLAC, WAV, AAC en meer. Het bevat een 10-bands equalizer, afspeellijsten en bestandsbeheer.
@@ -35,7 +35,7 @@ Evermusic is volledig gratis en beschikbaar voor zowel iPhone als iPad, compatib
 
 {{< cards cols="1">}}
 
-  {{< card title="Evermusic downloaden" subtitle="Offline muziekspeler en cloud drive streamer voor iPhone en iPad." icon="download" link="https://itunes.apple.com/us/app/evermusic-offline-music/id885367198?mt=8" >}}
+  {{< ls-card title="Evermusic downloaden" subtitle="Offline muziekspeler en cloud drive streamer voor iPhone en iPad." icon="download" link="https://itunes.apple.com/us/app/evermusic-offline-music/id885367198?mt=8" >}}
 
 {{< /cards >}}
 
@@ -67,26 +67,26 @@ Evermusic is ook een volledig uitgeruste bestandsbeheerder die basisbewerkingen 
 
 ## FAQ
 
-{{% details title="Kan ik Dropbox-muziek offline afspelen op mijn iPhone?" closed="true" %}}
+{{% ls-details title="Kan ik Dropbox-muziek offline afspelen op mijn iPhone?" closed="true" %}}
 Ja. Gebruik Evermusic om je Dropbox te verbinden en download vervolgens elk nummer of elke afspeellijst voor offline luisteren. Gedownloade bestanden worden op je apparaat opgeslagen en worden afgespeeld zonder internetverbinding.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Is Evermusic gratis?" closed="true" %}}
+{{% ls-details title="Is Evermusic gratis?" closed="true" %}}
 Evermusic is gratis te downloaden met kernfuncties waaronder de equalizer, cloudstreaming en offline afspelen. De gratis versie ondersteunt maximaal 3 cloudverbindingen en 10 afspeellijsten. Upgraden naar Premium verwijdert alle beperkingen.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Welke audioformaten ondersteunt Evermusic vanuit Dropbox?" closed="true" %}}
+{{% ls-details title="Welke audioformaten ondersteunt Evermusic vanuit Dropbox?" closed="true" %}}
 Evermusic speelt MP3, FLAC, WAV, AAC, AIFF, OGG, WMA en vele andere formaten rechtstreeks vanuit Dropbox.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Kan ik meerdere cloudservices verbinden?" closed="true" %}}
+{{% ls-details title="Kan ik meerdere cloudservices verbinden?" closed="true" %}}
 Ja. Evermusic ondersteunt Dropbox, Google Drive, OneDrive, Box, WebDAV, SMB, MEGA en meer. Je kunt onbeperkt accounts verbinden en ze allemaal in één bibliotheek bekijken.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Synchroniseert Evermusic afspeellijsten tussen apparaten?" closed="true" %}}
+{{% ls-details title="Synchroniseert Evermusic afspeellijsten tussen apparaten?" closed="true" %}}
 Afspeellijsten die in Evermusic zijn aangemaakt, worden lokaal op je apparaat opgeslagen. Je Dropbox-bestanden blijven gesynchroniseerd op alle apparaten via Dropbox zelf.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Hoe maak ik iPhone-opslag vrij met Dropbox-muziek?" closed="true" %}}
+{{% ls-details title="Hoe maak ik iPhone-opslag vrij met Dropbox-muziek?" closed="true" %}}
 Verplaats je muziekbestanden naar Dropbox en stream ze via Evermusic in plaats van ze op je iPhone op te slaan. Download alleen de nummers die je nodig hebt voor offline luisteren.
-{{% /details %}}
+{{% /ls-details %}}

@@ -7,7 +7,7 @@ tags: ["μουσική", "ήχος", "αναπαραγωγέας", "iphone", "α
 readingTime: 5
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **Περίληψη:** Μετατρέψτε βίντεο YouTube σε MP3 χρησιμοποιώντας έναν μετατροπέα μέσω προγράμματος περιήγησης ή τη δωρεάν εφαρμογή ClipGrab για υπολογιστή. Στη συνέχεια, εισαγάγετε τα αρχεία ήχου στο Evermusic στο iPhone ή Mac σας για αναπαραγωγή εκτός σύνδεσης -- δεν απαιτείται internet.
@@ -221,30 +221,30 @@ readingTime: 5
 
 Υ.Γ. Υπάρχουν επίσης αρκετά **βίντεο-μαθήματα** διαθέσιμα στο YouTube:
 <br><br>
-{{< youtubecard id="TlVpbRvAiwA" title="Descargar Música Gratis Para IOS" >}}
+{{< ls-youtubecard id="TlVpbRvAiwA" title="Descargar Música Gratis Para IOS" >}}
 <br><br>
-{{< youtubecard id="jSDuNguZZNE" title="Evermusic: Free Offline Music Player for iOS (iPhone/iPod/iPad) | Music Files Organization" >}}
+{{< ls-youtubecard id="jSDuNguZZNE" title="Evermusic: Free Offline Music Player for iOS (iPhone/iPod/iPad) | Music Files Organization" >}}
 <br><br>
-{{< youtubecard id="-kY48ktbo2M" title="テクノロジー塾】おすすめiPhone 音楽アプリ「ever music」ストック型篇" >}}
+{{< ls-youtubecard id="-kY48ktbo2M" title="テクノロジー塾】おすすめiPhone 音楽アプリ「ever music」ストック型篇" >}}
 
 ## Συχνές ερωτήσεις
 
-{{% details title="Είναι νόμιμο να κατεβάζω μουσική από το YouTube;" closed="true" %}}
+{{% ls-details title="Είναι νόμιμο να κατεβάζω μουσική από το YouTube;" closed="true" %}}
 Εξαρτάται από την κατάσταση πνευματικών δικαιωμάτων του περιεχομένου. Το περιεχόμενο χωρίς δικαιώματα και Creative Commons μπορεί συνήθως να ληφθεί για προσωπική χρήση. Η μουσική που προστατεύεται από πνευματικά δικαιώματα απαιτεί κατάλληλη αδειοδότηση ή άδεια.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Ποιες μορφές ήχου υποστηρίζει το Evermusic;" closed="true" %}}
+{{% ls-details title="Ποιες μορφές ήχου υποστηρίζει το Evermusic;" closed="true" %}}
 Το Evermusic υποστηρίζει MP3, FLAC, AAC, WAV, OGG, AIFF και πολλές άλλες μορφές ήχου. Μπορείτε να αναπαράγετε σχεδόν οποιοδήποτε αρχείο ήχου κατεβάσετε.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Μπορώ να χρησιμοποιήσω το Evermusic χωρίς σύνδεση internet;" closed="true" %}}
+{{% ls-details title="Μπορώ να χρησιμοποιήσω το Evermusic χωρίς σύνδεση internet;" closed="true" %}}
 Ναι. Μόλις τα αρχεία ήχου εισαχθούν στο Evermusic, μπορείτε να τα αναπαράγετε εντελώς εκτός σύνδεσης -- δεν απαιτείται σύνδεση internet.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Είναι το ClipGrab δωρεάν;" closed="true" %}}
+{{% ls-details title="Είναι το ClipGrab δωρεάν;" closed="true" %}}
 Ναι. Το ClipGrab είναι δωρεάν και διαθέσιμο τόσο για Mac όσο και για Windows. Χρησιμοποιεί τη βιβλιοθήκη ανοιχτού κώδικα youtube-dlp για λήψεις.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Πώς μεταφέρω ληφθείσα μουσική από Mac σε iPhone;" closed="true" %}}
+{{% ls-details title="Πώς μεταφέρω ληφθείσα μουσική από Mac σε iPhone;" closed="true" %}}
 Μπορείτε να χρησιμοποιήσετε AirDrop, iTunes File Sharing ή την ενσωματωμένη λειτουργία Wi-Fi Drive του Evermusic για να μεταφέρετε αρχεία ήχου από το Mac στο iPhone σας.
-{{% /details %}}
+{{% /ls-details %}}

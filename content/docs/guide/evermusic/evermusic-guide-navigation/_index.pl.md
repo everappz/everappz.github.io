@@ -25,7 +25,7 @@ Funkcjonalność Evermusic jest przemyślanie podzielona na dwa odrębne kompone
 Niezależnie od tego, czy korzystasz z iPhone, iPad, czy trybu kompaktowego na Mac, wszystkie funkcje aplikacji są łatwo dostępne przez pasek kart na dole ekranu. Dla użytkowników iPad i Mac to samo menu znajduje się po lewej stronie ekranu. Ta przemyślana organizacja kategoryzuje wszystkie funkcje aplikacji w łatwo dostępne sekcje, zapewniając przyjazne i efektywne doświadczenie użytkownika.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Lewy pasek boczny Evermusic na iPad i Mac" image="/docs/guide/evermusic/evermusic-guide-navigation/img/navigation-left-sidebar.webp" >}}
+  {{< ls-card title="" subtitle="Lewy pasek boczny Evermusic na iPad i Mac" image="/docs/guide/evermusic/evermusic-guide-navigation/img/navigation-left-sidebar.webp" >}}
 {{< /cards >}}
 
 **Połączenia:** Możesz bez wysiłku łączyć usługi pamięci w chmurze, takie jak Google Drive, MEGA, OneDrive i Dropbox, a także komputer i osobisty NAS na tym ekranie.
@@ -47,7 +47,7 @@ Sekcja plików lokalnych jest podzielona na dwie kategorie: Pliki w tej aplikacj
 Aktywuj odtwarzacz pełnoekranowy, dotykając ikony mini odtwarzacza i używając gestu przesunięcia w dół, aby go ukryć. Na iPad i Mac ekran mini odtwarzacza znajduje się u góry ekranu i można go ukryć podczas otwierania odtwarzacza pełnoekranowego przez menu główne.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Pasek kart iPhone" image="/docs/guide/evermusic/evermusic-guide-navigation/img/navigation-bottom-tabbar.webp" >}}
+  {{< ls-card title="" subtitle="Pasek kart iPhone" image="/docs/guide/evermusic/evermusic-guide-navigation/img/navigation-bottom-tabbar.webp" >}}
 {{< /cards >}}
 
 ## Okno mini odtwarzacza (tylko Mac)
@@ -55,7 +55,7 @@ Aktywuj odtwarzacz pełnoekranowy, dotykając ikony mini odtwarzacza i używają
 Aby uzyskać dostęp do okna mini odtwarzacza na Mac, po prostu przesuń kursor do prawego dolnego rogu okna aplikacji i zmień jego rozmiar do najmniejszego możliwego. Następnie dotknij przycisku zwijania (przedstawionego jako strzałka skierowana w dół), aby aktywować okno mini odtwarzacza. Aby utrzymać okno mini odtwarzacza zawsze na wierzchu innych okien, przejdź do górnego paska menu Mac, wybierz „Okno" i wybierz „Pokaż okno zawsze na wierzchu". Ta funkcja jest przydatna podczas słuchania wykładów audio bez przerw.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Okno mini odtwarzacza Mac" image="/docs/guide/evermusic/evermusic-guide-navigation/img/navigation-mac-exclusive-miniplayer.webp" >}}
+  {{< ls-card title="" subtitle="Okno mini odtwarzacza Mac" image="/docs/guide/evermusic/evermusic-guide-navigation/img/navigation-mac-exclusive-miniplayer.webp" >}}
 {{< /cards >}}
 
 ## Więcej akcji
@@ -63,7 +63,7 @@ Aby uzyskać dostęp do okna mini odtwarzacza na Mac, po prostu przesuń kursor 
 Praktycznie każdy element treści na ekranie zawiera przycisk „Więcej Akcji". Dotknij go, aby uzyskać dostęp do wszystkich dostępnych akcji.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Menu kontekstowe Więcej Akcji" image="/docs/guide/evermusic/evermusic-guide-navigation/img/navigation-more-actions.webp" >}}
+  {{< ls-card title="" subtitle="Menu kontekstowe Więcej Akcji" image="/docs/guide/evermusic/evermusic-guide-navigation/img/navigation-more-actions.webp" >}}
 {{< /cards >}}
 
 ## Górny pasek narzędzi
@@ -77,7 +77,7 @@ Możesz łatwo pokazywać lub ukrywać ten pasek narzędzi prostym gestem przesu
 - **Odtwórz losowo:** Dodaj wszystkie utwory z bieżącej strony do kolejki odtwarzacza audio, mieszając je przed dodaniem, dla przyjemnego doświadczenia słuchania.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Górny pasek narzędzi z Szukaj, Odtwórz wszystko i Odtwórz losowo" image="/docs/guide/evermusic/evermusic-guide-navigation/img/navigation-top-toolbar.webp" >}}
+  {{< ls-card title="" subtitle="Górny pasek narzędzi z Szukaj, Odtwórz wszystko i Odtwórz losowo" image="/docs/guide/evermusic/evermusic-guide-navigation/img/navigation-top-toolbar.webp" >}}
 {{< /cards >}}
 
 ## Menu kontekstowe
@@ -91,7 +91,7 @@ Menu kontekstowe zapewnia szybki dostęp do dodatkowych opcji i akcji dla płynn
 **Kliknij prawym przyciskiem myszy:** Kliknij prawym przyciskiem myszy na komórkach, mini odtwarzaczu lub kompaktowym odtwarzaczu, aby wyświetlić menu kontekstowe.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Menu kontekstowe na macOS" image="/docs/guide/evermusic/evermusic-guide-navigation/img/navigation-context-menu-macos.webp" >}}
+  {{< ls-card title="" subtitle="Menu kontekstowe na macOS" image="/docs/guide/evermusic/evermusic-guide-navigation/img/navigation-context-menu-macos.webp" >}}
 {{< /cards >}}
 
 ## Dostępność
@@ -125,7 +125,7 @@ Evermusic jest dostarczany z czterema widgetami dla Ekranu Głównego / Ekranu B
 Wszystkie cztery widgety są dostępne w rozmiarach Małym, Średnim i Dużym, dzięki czemu możesz wybrać układ pasujący do Twojego ekranu.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Dodawanie widgetów Evermusic" image="/docs/guide/evermusic/evermusic-guide-navigation/img/navigation-add-widgets.webp" >}}
+  {{< ls-card title="" subtitle="Dodawanie widgetów Evermusic" image="/docs/guide/evermusic/evermusic-guide-navigation/img/navigation-add-widgets.webp" >}}
 {{< /cards >}}
 
 ### Dodaj widget na iPhone (Ekran główny)
@@ -175,7 +175,7 @@ Widget CarPlay aktualizuje się na żywo w miarę zmiany muzyki i jest przyjazny
 Evermusic zawiera w pełni funkcjonalny interfejs **Apple CarPlay** (tylko iOS) zoptymalizowany pod wyświetlacz samochodowy. Po podłączeniu iPhone do kompatybilnej głowicy CarPlay — przez USB lub bezprzewodowo — Evermusic pojawia się obok Apple Music i Spotify w siatce aplikacji CarPlay, gotowy do strumieniowania biblioteki chmurowej w trasie.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evermusic na ekranie CarPlay" image="/docs/guide/evermusic/evermusic-guide-navigation/img/navigation-carplay-menu.webp" >}}
+  {{< ls-card title="" subtitle="Evermusic na ekranie CarPlay" image="/docs/guide/evermusic/evermusic-guide-navigation/img/navigation-carplay-menu.webp" >}}
 {{< /cards >}}
 
 ### Co oferuje interfejs CarPlay

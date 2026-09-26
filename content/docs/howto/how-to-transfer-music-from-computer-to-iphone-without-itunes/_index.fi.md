@@ -7,14 +7,14 @@ keywords: ["musiikin siirto ilman iTunes", "wifi drive iphone", "musiikin langat
 readingTime: 2
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **Tiivistelmä:** Käytä Wi-Fi Drivea Evermusic-, Flacbox- tai Evertag-sovelluksessa siirtääksesi musiikkia tietokoneeltasi iPhoneen tai iPadiin. iTunes ei tarvita. Molempien laitteiden on oltava samassa Wi-Fi-verkossa. Siirrä verkkoselaimen tai WebDAV:n kautta (Mac Finder / Windows Tiedostonhallinta).
 
 Voit katsoa video-oppaan käyttäjältä [**TECHGUYPH**](https://www.youtube.com/channel/UCgpf09gGFE_c_3pPTtTpnzg) tai lukea tekstiversion alta.
 <br><br>
-{{< youtubecard id="CqdqrQ0ge70" title="Can We Wirelessly Put Offline Music on iPhones?" >}}
+{{< ls-youtubecard id="CqdqrQ0ge70" title="Can We Wirelessly Put Offline Music on iPhones?" >}}
 
 Wi-Fi Drive on paras ratkaisu musiikkikokoelmasi saumattomaan siirtämiseen tietokoneelta iPhoneen tai iPadiin ilman iTunes. Tämä vaivaton menetelmä mahdollistaa useiden äänitiedostojen ja jopa kokonaisten kansioiden lataamisen tai lähettämisen paikallisen Wi-Fi-yhteyden kautta. Sekä tietokoneesi että iOS-laitteesi on oltava yhdistettynä samaan Wi-Fi-verkkoon, jotta tämä toimii saumattomasti.
 
@@ -84,22 +84,22 @@ Wi-Fi Driven avulla iTunes-kamppailun päivät ovat ohi. Nauti saumattomasta ja 
 
 ## Usein kysytyt kysymykset
 
-{{% details title="Mitä ääniformaatteja voin siirtää Wi-Fi Drivella?" closed="true" %}}
+{{% ls-details title="Mitä ääniformaatteja voin siirtää Wi-Fi Drivella?" closed="true" %}}
 Wi-Fi Drive siirtää minkä tahansa tiedostotyypin. Evermusic ja Flacbox tukevat MP3-, FLAC-, AAC-, WAV-, AIFF-, OGG-, WMA- ja monien muiden ääniformaattien toistoa.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Tarvitsenko iTunes musiikin siirtämiseen iPhoneen?" closed="true" %}}
+{{% ls-details title="Tarvitsenko iTunes musiikin siirtämiseen iPhoneen?" closed="true" %}}
 Ei. Wi-Fi Drive siirtää musiikkia suoraan paikallisen Wi-Fi-verkon kautta. iTunes ei ole tarpeen.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Voinko siirtää kokonaisia musiikkikansioita kerralla?" closed="true" %}}
+{{% ls-details title="Voinko siirtää kokonaisia musiikkikansioita kerralla?" closed="true" %}}
 Kyllä. Verkkoselainmenetelmä tukee kokonaisten kansioiden lähettämistä, mukaan lukien sisäkkäiset alikansiot.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Onko musiikkini siirto turvallista?" closed="true" %}}
+{{% ls-details title="Onko musiikkini siirto turvallista?" closed="true" %}}
 Wi-Fi Drive toimii vain paikallisessa verkossasi. Voit myös asettaa käyttäjänimen ja salasanan lisäturvallisuutta varten.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Mitkä sovellukset tukevat Wi-Fi Drivea musiikille?" closed="true" %}}
+{{% ls-details title="Mitkä sovellukset tukevat Wi-Fi Drivea musiikille?" closed="true" %}}
 Evermusic, Flacbox ja Evertag sisältävät kaikki Wi-Fi Driven äänitiedostojen siirtämiseen tietokoneeltasi.
-{{% /details %}}
+{{% /ls-details %}}

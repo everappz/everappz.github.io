@@ -12,7 +12,7 @@ authors:
     image: "/images/about/artem-meleshko-founder-everappz.webp"
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 **Кратко:** Evermusic превысил 11 миллионов загрузок по всему миру. Ключевые функции включают 10-полосный эквалайзер, офлайн-воспроизведение, потоковую передачу из iCloud Drive, поддержку более 10 облачных сервисов, синхронизацию между устройствами и встроенный редактор тегов ID3.
 
@@ -70,22 +70,22 @@ Evermusic создан для всех, кто хранит музыку в об
 
 ## FAQ
 
-{{% details title="Какие аудиоформаты поддерживает Evermusic?" closed="true" %}}
+{{% ls-details title="Какие аудиоформаты поддерживает Evermusic?" closed="true" %}}
 Evermusic воспроизводит MP3, FLAC, WAV, AAC, M4A, AIFF, OGG, WMA и другие популярные аудиоформаты.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Могу ли я использовать Evermusic без интернет-соединения?" closed="true" %}}
+{{% ls-details title="Могу ли я использовать Evermusic без интернет-соединения?" closed="true" %}}
 Да. Загрузите треки из облачного хранилища для офлайн-воспроизведения. После загрузки интернет не требуется.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Работает ли Evermusic на Mac?" closed="true" %}}
+{{% ls-details title="Работает ли Evermusic на Mac?" closed="true" %}}
 Да. Evermusic доступен как для iOS (iPhone/iPad), так и для macOS с синхронизацией библиотеки на всех устройствах.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Evermusic можно скачать бесплатно?" closed="true" %}}
+{{% ls-details title="Evermusic можно скачать бесплатно?" closed="true" %}}
 Да. Evermusic можно скачать бесплатно с дополнительными премиум-функциями, доступными через встроенные покупки.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Как работает потоковая передача из iCloud Drive в Evermusic?" closed="true" %}}
+{{% ls-details title="Как работает потоковая передача из iCloud Drive в Evermusic?" closed="true" %}}
 Подключите свой аккаунт iCloud Drive в приложении, просмотрите музыкальные файлы и нажмите для воспроизведения. Треки транслируются напрямую без необходимости предварительной загрузки.
-{{% /details %}}
+{{% /ls-details %}}

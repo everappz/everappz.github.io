@@ -7,7 +7,7 @@ tags: ["evermusic", "flacbox", "nuvem", "arquivo", "conta", "gerenciador", "cone
 keywords: ["conectar serviço de nuvem ao Evermusic", "enviar arquivos para Google Drive", "integração de nuvem Flacbox", "usar OneDrive com Evermusic", "acesso a arquivos na nuvem Evertag", "conectar Dropbox ao reprodutor de música iOS", "gerenciador de arquivos para serviços de nuvem"]
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **Resumo:** Envie seus arquivos de música ou mídia para qualquer serviço de nuvem compatível (Google Drive, Dropbox, OneDrive e outros), depois conecte esse serviço dentro do Evermusic, Flacbox ou Evertag para transmitir ou baixar seus arquivos diretamente no iPhone, iPad ou Mac.
@@ -76,38 +76,38 @@ Diga adeus às limitações de armazenamento e olá à conveniência!
 
 ## Perguntas frequentes
 
-{{% details title="Quais serviços de nuvem são compatíveis?" closed="true" %}}
+{{% ls-details title="Quais serviços de nuvem são compatíveis?" closed="true" %}}
 Evermusic, Flacbox e Evertag são compatíveis com Google Drive, Dropbox, OneDrive, Box, MediaFire, Yandex.Disk, MEGA, MyDrive, pCloud e outros provedores de nuvem. Você também pode conectar servidores personalizados WebDAV, SMB e FTP.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Posso transmitir música diretamente da nuvem sem baixar?" closed="true" %}}
+{{% ls-details title="Posso transmitir música diretamente da nuvem sem baixar?" closed="true" %}}
 Sim. Todos os três aplicativos suportam a transmissão de arquivos de áudio diretamente do seu armazenamento em nuvem conectado. Você também pode baixar arquivos para reprodução offline quando não tiver acesso à internet.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Existe um limite de tamanho de arquivo ou armazenamento no aplicativo?" closed="true" %}}
+{{% ls-details title="Existe um limite de tamanho de arquivo ou armazenamento no aplicativo?" closed="true" %}}
 Os aplicativos não impõem seus próprios limites de tamanho de arquivo ou armazenamento. Seu armazenamento disponível depende do plano do serviço de nuvem e do armazenamento local do seu dispositivo para arquivos baixados.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Posso conectar várias contas de nuvem ao mesmo tempo?" closed="true" %}}
+{{% ls-details title="Posso conectar várias contas de nuvem ao mesmo tempo?" closed="true" %}}
 Sim. Você pode conectar vários serviços de nuvem e várias contas do mesmo provedor simultaneamente. Todas as contas conectadas aparecem na aba Conexões para fácil alternância.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Preciso reenviar arquivos se mudar para outro aplicativo?" closed="true" %}}
+{{% ls-details title="Preciso reenviar arquivos se mudar para outro aplicativo?" closed="true" %}}
 Não. Como seus arquivos estão armazenados na nuvem, você pode conectar a mesma conta de nuvem ao Evermusic, Flacbox ou Evertag sem reenviar nada. Cada aplicativo acessa os mesmos arquivos do seu armazenamento em nuvem.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Os dados da minha conta na nuvem estão seguros?" closed="true" %}}
+{{% ls-details title="Os dados da minha conta na nuvem estão seguros?" closed="true" %}}
 Sim. O aplicativo usa apenas SDKs oficiais e conexões criptografadas para interagir com serviços de nuvem. Seu login e senha nunca são armazenados pelo aplicativo. Ao fazer login, o aplicativo exibe a página de autorização oficial fornecida pelo serviço de nuvem. Após a autorização bem-sucedida, o provedor de nuvem envia um token de autorização para o aplicativo, que é armazenado com segurança no Keychain do dispositivo. Este token é usado para todas as solicitações de API.<br><br>
 O aplicativo não compartilha nenhuma informação da sua conta na nuvem. Você pode revogar o acesso a qualquer momento na página de configurações da sua conta na nuvem em um navegador web, ou desconectar a conta dentro do aplicativo.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Como desconecto um serviço de nuvem ou altero sua configuração?" closed="true" %}}
+{{% ls-details title="Como desconecto um serviço de nuvem ou altero sua configuração?" closed="true" %}}
 Localize o armazenamento em nuvem na aba Conexões do aplicativo e toque no botão **...** ao lado dele. Você verá estas opções:<br>
 - **Renomear** -- altere o nome de exibição do serviço de nuvem<br>
 - **Configurações** -- modifique a configuração ou reautorize se o token expirou<br>
 - **Desconectar** -- remova a conexão completamente. Isso remove todas as músicas deste serviço de nuvem da biblioteca de música do aplicativo, mas os arquivos permanecem no servidor
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Como revogo o acesso do aplicativo à minha conta na nuvem?" closed="true" %}}
+{{% ls-details title="Como revogo o acesso do aplicativo à minha conta na nuvem?" closed="true" %}}
 Faça login na sua conta na nuvem em um navegador web e abra a página de configurações da conta ou de segurança. Encontre a lista de aplicativos de terceiros conectados e remova o aplicativo que você não deseja mais autorizar. Você também pode desconectar a conta na nuvem dentro do aplicativo -- isso remove o token de autorização do seu dispositivo. Se você excluir o aplicativo completamente, todos os dados baixados e tokens de acesso serão removidos automaticamente.
-{{% /details %}}
+{{% /ls-details %}}

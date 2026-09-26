@@ -29,7 +29,7 @@ tags: [
 readingTime: 3
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **摘要：** 将任何 Internet Archive URL 粘贴到 [archivetom3u.com](https://archivetom3u.com)，选择音频格式（MP3、FLAC、OGG），然后下载即可播放的 M3U 播放列表 -- 无需账户。然后将其导入到 iPhone 或 Mac 上的 [Evermusic](https://apps.apple.com/app/apple-store/id885367198?pt=95781850&ct=everappzcom&mt=8) 中即可立即播放。
@@ -69,7 +69,7 @@ readingTime: 3
 前往 [archive.org](https://archive.org)，点击 **Audio**，选择 **Live Music Archive**。使用搜索栏查找您想要的流派、艺术家或音乐会。
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="在 Internet Archive 上搜索音乐" image="/docs/howto/how-to-create-m3u-playlist-for-internet-archive-or-live-music-archive/1.internet-archive-search.webp" >}}
+  {{< ls-card title="" subtitle="在 Internet Archive 上搜索音乐" image="/docs/howto/how-to-create-m3u-playlist-for-internet-archive-or-live-music-archive/1.internet-archive-search.webp" >}}
 {{< /cards >}}
 
 ### 2. 复制项目 URL
@@ -77,7 +77,7 @@ readingTime: 3
 点击您想要的项目，从浏览器地址栏复制其 URL。
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="从 Internet Archive 复制项目 URL" image="/docs/howto/how-to-create-m3u-playlist-for-internet-archive-or-live-music-archive/2.internet-archive-copy-item-url.webp" >}}
+  {{< ls-card title="" subtitle="从 Internet Archive 复制项目 URL" image="/docs/howto/how-to-create-m3u-playlist-for-internet-archive-or-live-music-archive/2.internet-archive-copy-item-url.webp" >}}
 {{< /cards >}}
 
 ### 3. 将 URL 粘贴到生成器
@@ -85,7 +85,7 @@ readingTime: 3
 返回 [archivetom3u.com](https://archivetom3u.com)，将复制的 URL 粘贴到输入框中。
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="将项目 URL 粘贴到 M3U 生成器" image="/docs/howto/how-to-create-m3u-playlist-for-internet-archive-or-live-music-archive/3.archive-to-m3u-paste-item-url.webp" >}}
+  {{< ls-card title="" subtitle="将项目 URL 粘贴到 M3U 生成器" image="/docs/howto/how-to-create-m3u-playlist-for-internet-archive-or-live-music-archive/3.archive-to-m3u-paste-item-url.webp" >}}
 {{< /cards >}}
 
 ### 4. 选择音频格式
@@ -93,7 +93,7 @@ readingTime: 3
 选择您想要的格式（MP3、FLAC 等）。
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="选择您喜欢的音频格式" image="/docs/howto/how-to-create-m3u-playlist-for-internet-archive-or-live-music-archive/4.archive-to-m3u-select-format.webp" >}}
+  {{< ls-card title="" subtitle="选择您喜欢的音频格式" image="/docs/howto/how-to-create-m3u-playlist-for-internet-archive-or-live-music-archive/4.archive-to-m3u-select-format.webp" >}}
 {{< /cards >}}
 
 ### 5. 生成播放列表
@@ -101,7 +101,7 @@ readingTime: 3
 点击 **Generate Playlist**。`.m3u` 内容将显示在下方。您可以复制或下载。
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="M3U 播放列表自动生成" image="/docs/howto/how-to-create-m3u-playlist-for-internet-archive-or-live-music-archive/5.archive-to-m3u-generated-playlist.webp" >}}
+  {{< ls-card title="" subtitle="M3U 播放列表自动生成" image="/docs/howto/how-to-create-m3u-playlist-for-internet-archive-or-live-music-archive/5.archive-to-m3u-generated-playlist.webp" >}}
 {{< /cards >}}
 
 ### 6. 预览曲目
@@ -109,7 +109,7 @@ readingTime: 3
 向下滚动预览每首曲目。确保一切正常播放。
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="下载前预览所有曲目" image="/docs/howto/how-to-create-m3u-playlist-for-internet-archive-or-live-music-archive/6.archive-to-m3u-tracks-preview.webp" >}}
+  {{< ls-card title="" subtitle="下载前预览所有曲目" image="/docs/howto/how-to-create-m3u-playlist-for-internet-archive-or-live-music-archive/6.archive-to-m3u-tracks-preview.webp" >}}
 {{< /cards >}}
 
 ### 7. 下载播放列表
@@ -117,7 +117,7 @@ readingTime: 3
 点击 **Download Playlist** 将 `.m3u` 文件保存到您的设备。无需登录或账户。
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="将 M3U 播放列表下载到您的设备" image="/docs/howto/how-to-create-m3u-playlist-for-internet-archive-or-live-music-archive/7.downloaded-m3u-playlist.webp" >}}
+  {{< ls-card title="" subtitle="将 M3U 播放列表下载到您的设备" image="/docs/howto/how-to-create-m3u-playlist-for-internet-archive-or-live-music-archive/7.downloaded-m3u-playlist.webp" >}}
 {{< /cards >}}
 
 ## 如何在 macOS 或 iOS 上播放 M3U 播放列表
@@ -125,14 +125,14 @@ readingTime: 3
 要在 Apple 设备上播放下载的 `.m3u` 文件，请使用 **Evermusic** 应用（免费下载）：
 
 {{< cards cols="1">}}
-{{< card link="https://apps.apple.com/app/apple-store/id1564384601?pt=95781850&ct=everappzcom&mt=8" title="Evermusic macOS" icon="download" tag="Free" >}}
-{{< card link="https://apps.apple.com/app/apple-store/id885367198?pt=95781850&ct=everappzcom&mt=8" title="Evermusic iOS" icon="download" tag="Free" >}}
+{{< ls-card link="https://apps.apple.com/app/apple-store/id1564384601?pt=95781850&ct=everappzcom&mt=8" title="Evermusic macOS" icon="download" tag="Free" >}}
+{{< ls-card link="https://apps.apple.com/app/apple-store/id885367198?pt=95781850&ct=everappzcom&mt=8" title="Evermusic iOS" icon="download" tag="Free" >}}
 {{< /cards >}}
 
 ### 1. 打开 Evermusic 并转到播放列表
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="打开 Evermusic 并转到播放列表" image="/docs/howto/how-to-create-m3u-playlist-for-internet-archive-or-live-music-archive/8.evermusic-app-playlists.webp" >}}
+  {{< ls-card title="" subtitle="打开 Evermusic 并转到播放列表" image="/docs/howto/how-to-create-m3u-playlist-for-internet-archive-or-live-music-archive/8.evermusic-app-playlists.webp" >}}
 {{< /cards >}}
 
 ### 2. 导入播放列表
@@ -140,7 +140,7 @@ readingTime: 3
 点击 **Add Playlist**，然后选择 **Import Playlist**。
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="点击 Import Playlist 添加已下载的 M3U" image="/docs/howto/how-to-create-m3u-playlist-for-internet-archive-or-live-music-archive/9.evermusic-app-import-playlist.webp" >}}
+  {{< ls-card title="" subtitle="点击 Import Playlist 添加已下载的 M3U" image="/docs/howto/how-to-create-m3u-playlist-for-internet-archive-or-live-music-archive/9.evermusic-app-import-playlist.webp" >}}
 {{< /cards >}}
 
 ### 3. 选择播放列表位置
@@ -148,7 +148,7 @@ readingTime: 3
 选择 **Files on this Mac**（或您保存文件的其他位置）。
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="选择已下载文件的位置" image="/docs/howto/how-to-create-m3u-playlist-for-internet-archive-or-live-music-archive/10.select-location.webp" >}}
+  {{< ls-card title="" subtitle="选择已下载文件的位置" image="/docs/howto/how-to-create-m3u-playlist-for-internet-archive-or-live-music-archive/10.select-location.webp" >}}
 {{< /cards >}}
 
 ### 4. 授予文件夹访问权限
@@ -156,7 +156,7 @@ readingTime: 3
 Evermusic 只有在您允许文件夹级别访问时才能访问文件。选择包含您的 `.m3u` 文件**以及**其中链接的音频文件的文件夹。
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="连接设备上的文件夹" image="/docs/howto/how-to-create-m3u-playlist-for-internet-archive-or-live-music-archive/11.connect-folder-located-on-your-device.webp" >}}
+  {{< ls-card title="" subtitle="连接设备上的文件夹" image="/docs/howto/how-to-create-m3u-playlist-for-internet-archive-or-live-music-archive/11.connect-folder-located-on-your-device.webp" >}}
 {{< /cards >}}
 
 ### 5. 选择下载文件夹
@@ -164,13 +164,13 @@ Evermusic 只有在您允许文件夹级别访问时才能访问文件。选择�
 在大多数情况下，播放列表保存在您的 **Downloads** 文件夹中。
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="选择下载文件夹" image="/docs/howto/how-to-create-m3u-playlist-for-internet-archive-or-live-music-archive/12.select-downloads-folder.webp" >}}
+  {{< ls-card title="" subtitle="选择下载文件夹" image="/docs/howto/how-to-create-m3u-playlist-for-internet-archive-or-live-music-archive/12.select-downloads-folder.webp" >}}
 {{< /cards >}}
 
 点击 **Open** 确认选择。
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="您的下载文件夹现已连接" image="/docs/howto/how-to-create-m3u-playlist-for-internet-archive-or-live-music-archive/13.downloads-folder-connected.webp" >}}
+  {{< ls-card title="" subtitle="您的下载文件夹现已连接" image="/docs/howto/how-to-create-m3u-playlist-for-internet-archive-or-live-music-archive/13.downloads-folder-connected.webp" >}}
 {{< /cards >}}
 
 ### 6. 选择播放列表文件
@@ -180,7 +180,7 @@ Evermusic 只有在您允许文件夹级别访问时才能访问文件。选择�
 点击 **Done** 确认选择。
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="从文件夹中选择 M3U 播放列表文件" image="/docs/howto/how-to-create-m3u-playlist-for-internet-archive-or-live-music-archive/14.m3u-playlist-selected-from-connected-folder.webp" >}}
+  {{< ls-card title="" subtitle="从文件夹中选择 M3U 播放列表文件" image="/docs/howto/how-to-create-m3u-playlist-for-internet-archive-or-live-music-archive/14.m3u-playlist-selected-from-connected-folder.webp" >}}
 {{< /cards >}}
 
 ### 7. 播放列表导入成功
@@ -188,7 +188,7 @@ Evermusic 只有在您允许文件夹级别访问时才能访问文件。选择�
 应用将解析播放列表并将其添加到您的资料库。
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="播放列表已成功导入" image="/docs/howto/how-to-create-m3u-playlist-for-internet-archive-or-live-music-archive/15.playlist-imported.webp" >}}
+  {{< ls-card title="" subtitle="播放列表已成功导入" image="/docs/howto/how-to-create-m3u-playlist-for-internet-archive-or-live-music-archive/15.playlist-imported.webp" >}}
 {{< /cards >}}
 
 ### 8. 打开并播放播放列表
@@ -196,13 +196,13 @@ Evermusic 只有在您允许文件夹级别访问时才能访问文件。选择�
 点击播放列表查看所有曲目并开始播放。
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="打开播放列表并查看曲目列表" image="/docs/howto/how-to-create-m3u-playlist-for-internet-archive-or-live-music-archive/16.playlist-opened.webp" >}}
+  {{< ls-card title="" subtitle="打开播放列表并查看曲目列表" image="/docs/howto/how-to-create-m3u-playlist-for-internet-archive-or-live-music-archive/16.playlist-opened.webp" >}}
 {{< /cards >}}
 
 几秒钟后，Evermusic 将加载所有元数据并更新曲目视图。
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="您的播放列表已准备好播放" image="/docs/howto/how-to-create-m3u-playlist-for-internet-archive-or-live-music-archive/17.playlist-opened-2.webp" >}}
+  {{< ls-card title="" subtitle="您的播放列表已准备好播放" image="/docs/howto/how-to-create-m3u-playlist-for-internet-archive-or-live-music-archive/17.playlist-opened-2.webp" >}}
 {{< /cards >}}
 
 ## 隐私与开源
@@ -221,22 +221,22 @@ Evermusic 只有在您允许文件夹级别访问时才能访问文件。选择�
 
 ## 常见问题
 
-{{% details title="M3U 生成器工具免费吗？" closed="true" %}}
+{{% ls-details title="M3U 生成器工具免费吗？" closed="true" %}}
 是的。[archivetom3u.com](https://archivetom3u.com) 上的工具完全免费，不需要账户，完全在您的浏览器中运行。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="M3U 播放列表可以包含哪些音频格式？" closed="true" %}}
+{{% ls-details title="M3U 播放列表可以包含哪些音频格式？" closed="true" %}}
 您可以选择 VBR MP3、FLAC、24-bit FLAC 或 OGG Vorbis。只有所选格式中可用的曲目才会出现在播放列表中。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="我可以在 iPhone 或 Mac 上播放 M3U 播放列表吗？" closed="true" %}}
+{{% ls-details title="我可以在 iPhone 或 Mac 上播放 M3U 播放列表吗？" closed="true" %}}
 可以。下载免费的 Evermusic 应用（iOS 或 macOS），然后使用导入播放列表功能加载您的 `.m3u` 文件。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="该工具是否存储我的数据或托管任何音乐？" closed="true" %}}
+{{% ls-details title="该工具是否存储我的数据或托管任何音乐？" closed="true" %}}
 不。所有处理都在您的浏览器中本地进行。不存储任何数据，所有音频流直接来自 archive.org。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="此工具与 Internet Archive 有关联吗？" closed="true" %}}
+{{% ls-details title="此工具与 Internet Archive 有关联吗？" closed="true" %}}
 没有。这是一个为方便而创建的独立开源项目。它使用 Internet Archive 官方元数据 API 来生成播放列表。
-{{% /details %}}
+{{% /ls-details %}}

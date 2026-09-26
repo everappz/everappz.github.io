@@ -11,7 +11,7 @@ Evermusic i Flacbox són dos reproductors de música avançats d'Everappz per a 
 
 **Resposta curta:** tria **Evermusic** si vols l'escolta general més fluida, transicions contínues sense pauses i amb esvaïment encreuat, i accés a la teva biblioteca d'Apple Music. Tria **Flacbox** si ets un audiòfil que vol un modelatge profund del so (un bastidor d'efectes i una cadena DSP), un motor d'àudio professional seleccionable, i la màxima cobertura de formats d'alta resolució i sense pèrdua, inclosos DSD, APE i WavPack.
 
-{{< app-details ids="885367198, 1097564256" >}}
+{{< ls-app-details ids="885367198, 1097564256" >}}
 
 ## Taula comparativa de funcions
 
@@ -129,38 +129,38 @@ Totes dues es poden baixar gratuïtament amb millores Premium opcionals, i totes
 
 ## Preguntes freqüents
 
-{{% details title="Quina és la diferència principal entre Evermusic i Flacbox?" closed="true" %}}
+{{% ls-details title="Quina és la diferència principal entre Evermusic i Flacbox?" closed="true" %}}
 Comparteixen la mateixa plataforma i connexions, però l'apartat d'àudio és diferent. Evermusic funciona sobre l'AVPlayer i el Core Audio d'Apple i és el reproductor quotidià d'ampli format, amb reproducció sense pauses real, esvaïment encreuat, àudio espacial i importació de la biblioteca d'Apple Music. Flacbox hi afegeix un motor d'àudio professional BASS™ i descodificació FFmpeg, que aporten una cadena DSP de 14 filtres, més efectes en temps real, reproducció de tracker/MOD i la compatibilitat amb formats d'alta resolució i sense pèrdua més àmplia, inclosos DSD, APE i WavPack.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Què és millor, Evermusic o Flacbox?" closed="true" %}}
+{{% ls-details title="Què és millor, Evermusic o Flacbox?" closed="true" %}}
 Cap dels dos és estrictament millor; estan optimitzats per a oients diferents. Evermusic és millor per a l'escolta fluida i quotidiana i per a les persones que també fan servir la seva biblioteca d'Apple Music, gràcies a la reproducció sense pauses, l'esvaïment encreuat i l'àudio espacial. Flacbox és millor per als audiòfils que volen un modelatge profund del so, un motor d'àudio professional seleccionable i la màxima cobertura de formats d'alta resolució i sense pèrdua.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Evermusic utilitza FFmpeg?" closed="true" %}}
+{{% ls-details title="Evermusic utilitza FFmpeg?" closed="true" %}}
 No. Evermusic reprodueix completament a través de la pila d'àudio nativa d'Apple, AVPlayer i Core Audio, amb el Core Audio gestionant els seus efectes i processament. La descodificació FFmpeg és una funció de Flacbox, juntament amb el motor BASS seleccionable de Flacbox.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Flacbox té reproducció sense pauses o amb esvaïment encreuat?" closed="true" %}}
+{{% ls-details title="Flacbox té reproducció sense pauses o amb esvaïment encreuat?" closed="true" %}}
 No. La reproducció sense pauses real i l'esvaïment encreuat (d'1 a 30 segons) són funcions d'Evermusic. Flacbox se centra en la reproducció d'alta resolució, un motor professional BASS, un bastidor d'efectes i una cadena DSP.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Quina aplicació és millor per a FLAC, DSD i APE?" closed="true" %}}
+{{% ls-details title="Quina aplicació és millor per a FLAC, DSD i APE?" closed="true" %}}
 Flacbox. Totes dues aplicacions reprodueixen FLAC, però Flacbox és l'especialista en alta resolució i sense pèrdua, amb compatibilitat nativa per a FLAC, ALAC, DSD (DSF/DFF), APE, WavPack (WV), TTA, OPUS i més mitjançant FFmpeg i el seu motor BASS™. També ofereix un control de sortida més fi per a l'escolta crítica.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Quina aplicació té més efectes d'àudio i una cadena DSP?" closed="true" %}}
+{{% ls-details title="Quina aplicació té més efectes d'àudio i una cadena DSP?" closed="true" %}}
 Flacbox. Evermusic té 6 efectes (Reverberació, Retard, Distorsió, Compressor, Crossfeed i Normalització de volum). Flacbox té 11 efectes (afegint Chorus, Flanger, Phaser, Auto-Wah, Rotació estèreo i un Eco multipunt) més una cadena DSP personalitzable de 14 filtres. La cadena DSP és exclusiva de Flacbox.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Totes dues aplicacions admeten els mateixos serveis al núvol, servidors multimèdia i CarPlay?" closed="true" %}}
+{{% ls-details title="Totes dues aplicacions admeten els mateixos serveis al núvol, servidors multimèdia i CarPlay?" closed="true" %}}
 Sí. Evermusic i Flacbox es connecten al mateix emmagatzematge al núvol (iCloud Drive, Google Drive, Dropbox, OneDrive, MEGA, pCloud, Internxt, Proton Drive i més), als mateixos servidors multimèdia (Plex, Subsonic, Navidrome, Jellyfin, Emby) i als mateixos protocols d'ordinador i NAS (SMB, WebDAV, FTP, SFTP, NFS, DLNA), amb compatibilitat nativa per a QNAP, Synology, Nextcloud i WD My Cloud Home. Totes dues també admeten Apple CarPlay, AirPlay i Google Chromecast.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Evermusic pot reproduir la meva biblioteca d'Apple Music o iTunes?" closed="true" %}}
+{{% ls-details title="Evermusic pot reproduir la meva biblioteca d'Apple Music o iTunes?" closed="true" %}}
 Sí. Evermusic pot importar i reproduir música de la teva biblioteca d'Apple Music / iTunes a més de les fonts al núvol i de xarxa. Flacbox està dissenyat per als teus propis fitxers procedents del núvol, NAS i emmagatzematge local, i no importa la biblioteca d'Apple Music.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Puc utilitzar Evermusic i Flacbox alhora?" closed="true" %}}
+{{% ls-details title="Puc utilitzar Evermusic i Flacbox alhora?" closed="true" %}}
 Sí, i molta gent ho fa. Una configuració habitual és Evermusic per a la reproducció diària i contínua i l'accés a la biblioteca d'Apple Music, i Flacbox per a l'escolta crítica i d'alta resolució amb el motor BASS, els efectes i la cadena DSP. Totes dues llegeixen de les mateixes fonts al núvol i NAS, de manera que la teva biblioteca està disponible en qualsevol de les dues aplicacions. Totes dues es poden baixar gratuïtament amb millores Premium opcionals dins de l'aplicació.
-{{% /details %}}
+{{% /ls-details %}}

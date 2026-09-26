@@ -18,7 +18,7 @@ Secțiunea Fișiere Locale servește ca un centru pentru gestionarea fișierelor
 Acest manager de fișiere integrat vă permite să editați fișiere și oferă diverse metode pentru a importa fișiere audio în aplicație. Fișierele pe care le-ați deschis recent apar automat în fila **Recente**, iar elementele marcate cu o stea apar în **Preferințe** — astfel puteți sări direct la fișierele cu care lucrați cel mai mult fără a reveni la acest ecran.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evertag Downloads Screen" image="/docs/guide/evertag/img/downloads.webp" >}}
+  {{< ls-card title="" subtitle="Evertag Downloads Screen" image="/docs/guide/evertag/img/downloads.webp" >}}
 {{< /cards >}}
 
 ## Descărcați fișiere din stocarea în cloud
@@ -74,7 +74,7 @@ Afișează fișierele și folderele stocate în directorul Documente al aplicaț
 Afișează fișierele localizate pe dispozitivul dvs. dar în aplicații diferite. Le puteți importa în această aplicație folosind selectorul de fișiere al sistemului. Pentru a activa selectorul, alegeți "Deschidere fișiere..." pentru a selecta fișiere sau "Deschidere foldere..." pentru a selecta foldere. Instrucțiuni detaliate despre cum să importați muzica locală stocată pe iPhone sau Mac sunt disponibile [aici](/docs/howto/how-to-play-local-music-stored-on-your-iphone-or-mac). Puteți, de asemenea, conecta un folder localizat pe dispozitivul dvs. și să aveți acces rapid la conținutul folderului. Folosiți elementul de meniu "Conectare folder" și alegeți un folder localizat pe dispozitivul dvs. Apăsați "Finalizat" și aplicația va crea un link către acel folder cu acces citire/scriere, permițându-vă să gestionați fișierele direct din această aplicație. Pentru a deconecta un folder localizat pe dispozitivul dvs., apăsați butonul "Mai multe acțiuni" și alegeți "Deconectare."
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evertag Import Files From My Device" image="/docs/guide/evertag/img/open-files.webp" >}}
+  {{< ls-card title="" subtitle="Evertag Import Files From My Device" image="/docs/guide/evertag/img/open-files.webp" >}}
 {{< /cards >}}
 
 ## Importați Fișiere de pe Memoriile USB Conectate
@@ -86,7 +86,7 @@ Instrucțiuni detaliate despre cum să conectați o memorie USB la iPhone și s�
 Meniul Mai multe acțiuni pentru folderul deschis în prezent este localizat în colțul din dreapta sus și oferă acces la diverse acțiuni.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evertag Import Files From My Device" image="/docs/guide/evertag/img/downloads-current-folder-actions.webp" >}}
+  {{< ls-card title="" subtitle="Evertag Import Files From My Device" image="/docs/guide/evertag/img/downloads-current-folder-actions.webp" >}}
 {{< /cards >}}
 
 - **Selectați:** Treceți la modul de selectare a fișierelor și folderelor.  

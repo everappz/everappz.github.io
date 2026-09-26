@@ -12,7 +12,7 @@ authors:
     image: "/images/about/artem-meleshko-founder-everappz.webp"
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 **Sammendrag:** Installer [Flacbox fra App Store](https://apps.apple.com/us/app/flacbox-flac-player-music/id1097564256?mt=8) for å spille FLAC, DSD, ALAC og 120+ andre lydformater på iPhone og Mac. Importer filer via iTunes File Sharing, Wi-Fi Drive eller skylagring. Ingen filkonvertering nødvendig. Flacbox dekoder lossless formater natift for full studiokvalitet avspilling.
 
@@ -114,26 +114,26 @@ Last ned Flacbox fra Mac App Store. macOS-versjonen tilbyr samme avspillingskval
 
 ## Ofte Stilte Spørsmål
 
-{{< details title="Krever Flacbox et abonnement for å spille lossless filer?" closed="true" >}}
+{{< ls-details title="Krever Flacbox et abonnement for å spille lossless filer?" closed="true" >}}
 Flacbox tilbyr kjerneavspillingsfunksjonalitet uten abonnement. Du kan importere og spille FLAC, DSD, ALAC og andre lossless formater rett etter nedlasting av appen. Noen avanserte funksjoner som skystrømming og ekstra tilpasningsalternativer kan kreve en premium oppgradering, men grunnleggende lossless avspilling er tilgjengelig umiddelbart.
-{{< /details >}}
+{{< /ls-details >}}
 
-{{< details title="Kan Flacbox spille DSD-filer uten å konvertere dem til PCM først?" closed="true" >}}
+{{< ls-details title="Kan Flacbox spille DSD-filer uten å konvertere dem til PCM først?" closed="true" >}}
 Ja, Flacbox støtter nativ DSD-avspilling inkludert DSD64, DSD128 og DSD256 formater. Appen dekoder DSD-strømmer direkte og bevarer formatets unike lydegenskaper. For best resultat, koble enheten din med en DSD-kompatibel ekstern DAC.
-{{< /details >}}
+{{< /ls-details >}}
 
-{{< details title="Hvordan overfører jeg store lossless musikksamlinger til iPhonen min?" closed="true" >}}
+{{< ls-details title="Hvordan overfører jeg store lossless musikksamlinger til iPhonen min?" closed="true" >}}
 Flacbox tilbyr flere overføringsalternativer for store biblioteker. Wi-Fi Drive lar deg laste opp filer fra en hvilken som helst nettleser på ditt lokale nettverk. Du kan også bruke iTunes File Sharing gjennom Finder på Mac eller koble til skylagringstjenester som Google Drive eller Dropbox. For raskest overføring av svært store samlinger, koble en ekstern stasjon direkte med en Lightning eller USB-C adapter.
-{{< /details >}}
+{{< /ls-details >}}
 
-{{< details title="Er det forskjell i lydkvalitet mellom FLAC og ALAC i Flacbox?" closed="true" >}}
+{{< ls-details title="Er det forskjell i lydkvalitet mellom FLAC og ALAC i Flacbox?" closed="true" >}}
 Både FLAC og ALAC er lossless kodeker, noe som betyr at de produserer identisk lydutgang ved dekoding. Forskjellen ligger i kompatibilitet og komprimeringseffektivitet. FLAC er mer utbredt på tvers av plattformer og oppnår generelt litt bedre komprimeringsforhold, mens ALAC er Apples native lossless format. Flacbox håndterer begge med lik troskap.
-{{< /details >}}
+{{< /ls-details >}}
 
-{{< details title="Hva er den beste måten å spille FLAC-filer på iPhone?" closed="true" >}}
+{{< ls-details title="Hva er den beste måten å spille FLAC-filer på iPhone?" closed="true" >}}
 Installer Flacbox fra App Store, importer deretter FLAC-filene dine via iTunes File Sharing, Wi-Fi Drive, skylagring eller en USB/Lightning ekstern stasjon. Flacbox dekoder FLAC natift uten konvertering og støtter oppløsninger opp til 32-bit/384 kHz. For best lydkvalitet, koble iPhonen din med en dedikert USB-C eller Lightning DAC.
-{{< /details >}}
+{{< /ls-details >}}
 
-{{< details title="Fungerer Flacbox med NAS og hjemmeservere?" closed="true" >}}
+{{< ls-details title="Fungerer Flacbox med NAS og hjemmeservere?" closed="true" >}}
 Ja. Flacbox kobler til NAS-enheter og hjemmeservere via SMB, WebDAV og DLNA-protokoller. På Mac kan du legge til nettverksplasseringer direkte. På iOS kobler du via sky/nettverkskildemenyen. Dette lar deg strømme lossless-biblioteket ditt uten å kopiere filer til enheten din.
-{{< /details >}}
+{{< /ls-details >}}

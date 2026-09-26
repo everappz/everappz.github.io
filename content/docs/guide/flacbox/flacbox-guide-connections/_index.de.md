@@ -19,7 +19,7 @@ readingTime: 12
 Auf diesem Bildschirm können Sie jede Quelle verbinden, die Ihre Musik enthält. Sie können beliebte Cloud-Dienste wie Dropbox, Google Drive, iCloud Drive, OneDrive, MEGA, Box, pCloud, Yandex Disk, Synology Drive und viele mehr integrieren sowie Ihren Mac, PC oder NAS über Standardprotokolle verbinden.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox Verbindungen-Bildschirm" image="/docs/guide/flacbox/img/connections-main.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox Verbindungen-Bildschirm" image="/docs/guide/flacbox/img/connections-main.webp" >}}
 {{< /cards >}}
 
 ## Mit Cloud-Speicher verbinden
@@ -30,7 +30,7 @@ Auf diesem Bildschirm können Sie jede Quelle verbinden, die Ihre Musik enthält
 - Geben Sie Ihre Zugangsdaten auf der offiziellen Autorisierungsseite des Cloud-Anbieters ein und tippen Sie dann auf **Fertig**.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox Cloud-Speicherdienst hinzufügen" image="/docs/guide/flacbox/img/add-cloud-storage.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox Cloud-Speicherdienst hinzufügen" image="/docs/guide/flacbox/img/add-cloud-storage.webp" >}}
 {{< /cards >}}
 
 Bei Problemen überprüfen Sie Ihre Internetverbindung und Ihre Anmeldedaten. In der Premium-Version können Sie eine unbegrenzte Anzahl von Diensten hinzufügen; die kostenlose Version unterstützt bis zu drei.
@@ -132,7 +132,7 @@ Dieser Bereich zeigt jedes Gerät in Ihrem lokalen Netzwerk, das Sie über Bonjo
 - Geben Sie bei Bedarf Ihre Anmeldedaten ein.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox Verfügbare Geräte im lokalen Netzwerk" image="/docs/guide/flacbox/img/available-devies.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox Verfügbare Geräte im lokalen Netzwerk" image="/docs/guide/flacbox/img/available-devies.webp" >}}
 {{< /cards >}}
 
 ## Wi-Fi Drive
@@ -147,7 +147,7 @@ Wi-Fi Drive ist eine praktische Technologie, die drahtlose Dateiübertragungen v
 - Tippen Sie auf **Wi-Fi Drive starten**.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox Wi-Fi Drive" image="/docs/guide/flacbox/img/wifi-drive.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox Wi-Fi Drive" image="/docs/guide/flacbox/img/wifi-drive.webp" >}}
 {{< /cards >}}
 
 ### Wi-Fi Drive auf Ihrem Computer aufrufen
@@ -230,7 +230,7 @@ Tippen Sie auf das **„..."**-Symbol neben dem Dateititel, um das Aktionsmenü 
 - **Löschen** — die Datei dauerhaft aus Ihrem Cloud-Speicher entfernen. **Diese Aktion kann nicht rückgängig gemacht werden.**
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox Weitere Aktionen für eine Datei im verbundenen Cloud-Speicher" image="/docs/guide/flacbox/img/more-actions-for-file-in-connected-cloud-storage.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox Weitere Aktionen für eine Datei im verbundenen Cloud-Speicher" image="/docs/guide/flacbox/img/more-actions-for-file-in-connected-cloud-storage.webp" >}}
 {{< /cards >}}
 
 ## Ordneraktionen
@@ -255,7 +255,7 @@ Tippen Sie auf das **„..."**-Symbol neben dem Ordnertitel für verfügbare Akt
 Der Schnellzugriff-Bereich befindet sich oben auf dem Bildschirm und bietet schnellen Zugriff auf Ihre Lieblings- und zuletzt geöffneten Dateien aus verbundenen Cloud-Diensten.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox Online-Links und Schnellzugriff" image="/docs/guide/flacbox/img/online-links.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox Online-Links und Schnellzugriff" image="/docs/guide/flacbox/img/online-links.webp" >}}
 {{< /cards >}}
 
 ## Weitere Dienste
@@ -263,5 +263,5 @@ Der Schnellzugriff-Bereich befindet sich oben auf dem Bildschirm und bietet schn
 Dieser Bereich zeigt zusätzliche Funktionen. Derzeit unterstützt die App **Last.fm**-Scrobbling — wenn verbunden, werden Ihre Wiedergabestatistiken automatisch an Ihr Last.fm-Konto gesendet. Detaillierte Setup-Anweisungen sind [hier](/docs/howto/how-to-scrobble-your-music-history-from-evermusic-or-flacbox-to-last-fm) verfügbar.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox Last.fm verbinden" image="/docs/guide/flacbox/img/last-fm-connect.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox Last.fm verbinden" image="/docs/guide/flacbox/img/last-fm-connect.webp" >}}
 {{< /cards >}}

@@ -21,7 +21,7 @@ Di layar ini, Anda dapat mengakses pengaturan aplikasi dan meningkatkannya ke ve
 - **Hukum & privasi** — Syarat, Kebijakan Privasi, Pemberitahuan Hukum, Analitik & pengumpulan data
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Layar Pengaturan Evertag" image="/docs/guide/evertag/img/settings.webp" >}}
+  {{< ls-card title="" subtitle="Layar Pengaturan Evertag" image="/docs/guide/evertag/img/settings.webp" >}}
 {{< /cards >}}
 
 ## Upgrade ke Premium
@@ -63,7 +63,7 @@ Mengaktifkan layar perlindungan kata sandi jika Anda ingin melindungi data aplik
 Pengelola file mendukung akses ke akun penyimpanan cloud yang terhubung dan menawarkan operasi batch untuk manajemen cepat beberapa file.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Layar Pengelola File Pengaturan Evertag" image="/docs/guide/evertag/img/settings-file-manager.webp" >}}
+  {{< ls-card title="" subtitle="Layar Pengelola File Pengaturan Evertag" image="/docs/guide/evertag/img/settings-file-manager.webp" >}}
 {{< /cards >}}
 
 ### Transfer file
@@ -103,7 +103,7 @@ Bersihkan folder cache aplikasi untuk mendapatkan kembali ruang penyimpanan.
 Di bagian ini, Anda dapat mengonfigurasi editor tag audio bawaan.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Layar Editor Tag Pengaturan Evertag" image="/docs/guide/evertag/img/settings-tag-editor.webp" >}}
+  {{< ls-card title="" subtitle="Layar Editor Tag Pengaturan Evertag" image="/docs/guide/evertag/img/settings-tag-editor.webp" >}}
 {{< /cards >}}
 
 ### Penskalaan sampul album
@@ -136,7 +136,7 @@ Di bagian ini, Anda dapat mengaktifkan fitur WiFi Drive, yang memungkinkan Anda 
 Di bagian ini, Anda dapat menyesuaikan pengaturan antarmuka pengguna sesuai preferensi Anda.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Layar Personalisasi Pengaturan Evertag" image="/docs/guide/evertag/img/settings-personalization.webp" >}}
+  {{< ls-card title="" subtitle="Layar Personalisasi Pengaturan Evertag" image="/docs/guide/evertag/img/settings-personalization.webp" >}}
 {{< /cards >}}
 
 ### Ikon aplikasi

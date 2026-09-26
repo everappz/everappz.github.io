@@ -7,7 +7,7 @@ tags: ["evermusic", "flacbox", "đám mây", "tệp", "tài khoản", "trình qu
 keywords: ["kết nối dịch vụ đám mây với Evermusic", "tải tệp lên Google Drive", "tích hợp đám mây Flacbox", "sử dụng OneDrive với Evermusic", "truy cập tệp đám mây Evertag", "kết nối Dropbox với trình phát nhạc iOS", "trình quản lý tệp cho dịch vụ đám mây"]
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **Tóm tắt:** Tải các tệp nhạc hoặc phương tiện của bạn lên bất kỳ dịch vụ đám mây được hỗ trợ nào (Google Drive, Dropbox, OneDrive và nhiều hơn nữa), sau đó kết nối dịch vụ đó trong Evermusic, Flacbox hoặc Evertag để phát trực tuyến hoặc tải xuống tệp trực tiếp trên iPhone, iPad hoặc Mac.
@@ -76,38 +76,38 @@ Hãy tạm biệt giới hạn lưu trữ và chào đón sự tiện lợi!
 
 ## Câu hỏi thường gặp
 
-{{% details title="Những dịch vụ đám mây nào được hỗ trợ?" closed="true" %}}
+{{% ls-details title="Những dịch vụ đám mây nào được hỗ trợ?" closed="true" %}}
 Evermusic, Flacbox và Evertag hỗ trợ Google Drive, Dropbox, OneDrive, Box, MediaFire, Yandex.Disk, MEGA, MyDrive, pCloud và các nhà cung cấp đám mây khác. Bạn cũng có thể kết nối máy chủ WebDAV, SMB và FTP tùy chỉnh.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Tôi có thể phát nhạc trực tiếp từ đám mây mà không cần tải xuống không?" closed="true" %}}
+{{% ls-details title="Tôi có thể phát nhạc trực tiếp từ đám mây mà không cần tải xuống không?" closed="true" %}}
 Có. Cả ba ứng dụng đều hỗ trợ phát trực tuyến tệp âm thanh trực tiếp từ bộ nhớ đám mây đã kết nối. Bạn cũng có thể tải xuống tệp để phát ngoại tuyến khi không có kết nối internet.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Có giới hạn kích thước tệp hoặc dung lượng lưu trữ trong ứng dụng không?" closed="true" %}}
+{{% ls-details title="Có giới hạn kích thước tệp hoặc dung lượng lưu trữ trong ứng dụng không?" closed="true" %}}
 Các ứng dụng không áp đặt giới hạn kích thước tệp hoặc dung lượng lưu trữ riêng. Dung lượng lưu trữ khả dụng phụ thuộc vào gói dịch vụ đám mây và bộ nhớ cục bộ của thiết bị cho các tệp đã tải xuống.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Tôi có thể kết nối nhiều tài khoản đám mây cùng lúc không?" closed="true" %}}
+{{% ls-details title="Tôi có thể kết nối nhiều tài khoản đám mây cùng lúc không?" closed="true" %}}
 Có. Bạn có thể kết nối nhiều dịch vụ đám mây và nhiều tài khoản từ cùng một nhà cung cấp đồng thời. Tất cả tài khoản đã kết nối đều hiển thị trong tab Kết nối để chuyển đổi dễ dàng.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Tôi có cần tải lại tệp nếu chuyển sang ứng dụng khác không?" closed="true" %}}
+{{% ls-details title="Tôi có cần tải lại tệp nếu chuyển sang ứng dụng khác không?" closed="true" %}}
 Không. Vì tệp của bạn được lưu trữ trên đám mây, bạn có thể kết nối cùng một tài khoản đám mây với Evermusic, Flacbox hoặc Evertag mà không cần tải lại bất cứ thứ gì. Mỗi ứng dụng truy cập cùng các tệp từ bộ nhớ đám mây của bạn.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Dữ liệu tài khoản đám mây của tôi có an toàn không?" closed="true" %}}
+{{% ls-details title="Dữ liệu tài khoản đám mây của tôi có an toàn không?" closed="true" %}}
 Có. Ứng dụng chỉ sử dụng SDK chính thức và kết nối được mã hóa để tương tác với các dịch vụ đám mây. Thông tin đăng nhập và mật khẩu của bạn không bao giờ được ứng dụng lưu trữ. Khi bạn đăng nhập, ứng dụng hiển thị trang ủy quyền chính thức do dịch vụ đám mây cung cấp. Sau khi ủy quyền thành công, nhà cung cấp đám mây gửi mã thông báo ủy quyền đến ứng dụng, được lưu trữ an toàn trong Keychain của thiết bị. Mã thông báo này được sử dụng cho tất cả yêu cầu API.<br><br>
 Ứng dụng không chia sẻ bất kỳ thông tin nào từ tài khoản đám mây của bạn. Bạn có thể thu hồi quyền truy cập bất cứ lúc nào từ trang cài đặt tài khoản đám mây trong trình duyệt web, hoặc ngắt kết nối tài khoản trong ứng dụng.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Làm cách nào để ngắt kết nối dịch vụ đám mây hoặc thay đổi cấu hình?" closed="true" %}}
+{{% ls-details title="Làm cách nào để ngắt kết nối dịch vụ đám mây hoặc thay đổi cấu hình?" closed="true" %}}
 Tìm bộ nhớ đám mây trong tab Kết nối của ứng dụng và nhấn nút **...** bên cạnh. Bạn sẽ thấy các tùy chọn sau:<br>
 - **Đổi tên** -- thay đổi tên hiển thị của dịch vụ đám mây<br>
 - **Cài đặt** -- sửa đổi cấu hình hoặc ủy quyền lại nếu mã thông báo đã hết hạn<br>
 - **Ngắt kết nối** -- xóa kết nối hoàn toàn. Điều này xóa tất cả bài hát từ dịch vụ đám mây này khỏi thư viện nhạc của ứng dụng, nhưng tệp vẫn còn trên máy chủ
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Làm cách nào để thu hồi quyền truy cập của ứng dụng vào tài khoản đám mây?" closed="true" %}}
+{{% ls-details title="Làm cách nào để thu hồi quyền truy cập của ứng dụng vào tài khoản đám mây?" closed="true" %}}
 Đăng nhập vào tài khoản đám mây trong trình duyệt web và mở trang cài đặt tài khoản hoặc bảo mật. Tìm danh sách các ứng dụng bên thứ ba đã kết nối và xóa ứng dụng bạn không muốn ủy quyền nữa. Bạn cũng có thể ngắt kết nối tài khoản đám mây trong ứng dụng -- điều này xóa mã thông báo ủy quyền khỏi thiết bị của bạn. Nếu bạn xóa ứng dụng hoàn toàn, tất cả dữ liệu đã tải xuống và mã thông báo truy cập sẽ được xóa tự động.
-{{% /details %}}
+{{% /ls-details %}}

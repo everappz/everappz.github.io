@@ -23,7 +23,7 @@ Il Lettore Audio è la schermata principale dell'app dove controlli la musica e 
 Puoi accedere al lettore a schermo intero dalla barra del mini player. Su iPhone, il mini player si trova nella parte inferiore della schermata principale. Su iPad e Mac, è sul lato sinistro. Per nascondere il mini player su iPhone, toccalo una volta e scorri verso il basso. Per chiudere completamente il lettore a schermo intero, tocca il pulsante di chiusura nell'angolo in basso a destra.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Schermata Principale del Lettore Audio Flacbox" image="/docs/guide/flacbox/img/audio-player-main-screen.webp" >}}
+  {{< ls-card title="" subtitle="Schermata Principale del Lettore Audio Flacbox" image="/docs/guide/flacbox/img/audio-player-main-screen.webp" >}}
 {{< /cards >}}
 
 ## Formati Audio Supportati
@@ -64,7 +64,7 @@ Per AirPlay, cerca il pulsante **AirPlay** nella parte inferiore del lettore. To
 Flacbox include un **equalizzatore a 10 bande** con preset in stile iPod. Tocca Equalizzatore sulla vista del volume, poi attivalo nell'angolo in alto a destra. Puoi usare preset come Acustico e Potenziatore di bassi, o regolare ogni banda di frequenza con gli slider. Istruzioni più dettagliate su come usare l'equalizzatore sono disponibili [qui](/docs/howto/how-to-use-the-audio-equalizer-on-your-iphone-ipad-mac-with-evermusic-and-flacbox).
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Equalizzatore del Lettore Audio Flacbox" image="/docs/guide/flacbox/img/audio-player-equalizer.webp" >}}
+  {{< ls-card title="" subtitle="Equalizzatore del Lettore Audio Flacbox" image="/docs/guide/flacbox/img/audio-player-equalizer.webp" >}}
 {{< /cards >}}
 
 ## Barra degli Strumenti Modalità Lettore
@@ -80,7 +80,7 @@ Per alcuni stili di lettore, c'è una barra degli strumenti dedicata nella parte
 Per vedere la coda del lettore, tocca il pulsante della coda sul lato destro della canzone corrente. Ogni canzone nella coda ha più azioni — tocca i tre punti per visualizzarle.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Coda di Riproduzione Flacbox" image="/docs/guide/flacbox/img/playback_queue.webp" >}}
+  {{< ls-card title="" subtitle="Coda di Riproduzione Flacbox" image="/docs/guide/flacbox/img/playback_queue.webp" >}}
 {{< /cards >}}
 
 ## Commenti / Testi
@@ -96,7 +96,7 @@ Per visualizzare i commenti delle tracce e i testi incorporati, nonché i file L
 Dopo di ciò, tocca il pulsante della coda del lettore nella parte inferiore dello schermo più volte per passare dalla vista artwork / coda alla vista commenti. Le istruzioni complete sono disponibili [qui](/docs/howto/how-to-add-and-view-comments-to-your-audio-tracks-on-iphone-ipad-and-mac-with-evermusic-and-flacbox).
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Schermata Testi e Commenti Flacbox" image="/docs/guide/flacbox/img/lyrics-screen.webp" >}}
+  {{< ls-card title="" subtitle="Schermata Testi e Commenti Flacbox" image="/docs/guide/flacbox/img/lyrics-screen.webp" >}}
 {{< /cards >}}
 
 ## Menu Opzioni
@@ -117,7 +117,7 @@ Ogni canzone nella coda del lettore audio ha un menu con più azioni, accessibil
 - **Elimina dalla Libreria Musicale** — elimina la canzone dalla libreria musicale, mantenendo il file nello storage.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox Opzioni per un Elemento nella Coda di Riproduzione" image="/docs/guide/flacbox/img/options-for-item-in-playback-queue.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox Opzioni per un Elemento nella Coda di Riproduzione" image="/docs/guide/flacbox/img/options-for-item-in-playback-queue.webp" >}}
 {{< /cards >}}
 
 ## Azioni Aggiuntive del Lettore
@@ -139,7 +139,7 @@ Tocca il pulsante **Altre azioni** "..." sul lato sinistro del titolo della canz
 - **Aiuto** — trova assistenza e guida.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Schermata Altre azioni del Lettore Audio Flacbox" image="/docs/guide/flacbox/img/audio-player-more-actions-screen.webp" >}}
+  {{< ls-card title="" subtitle="Schermata Altre azioni del Lettore Audio Flacbox" image="/docs/guide/flacbox/img/audio-player-more-actions-screen.webp" >}}
 {{< /cards >}}
 
 ## Segnalibri Audio
@@ -155,7 +155,7 @@ Per creare un nuovo segnalibro:
 - Scegli il momento del segnalibro e tocca **Fatto** nell'angolo in alto a destra.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Schermata Segnalibri Audio Flacbox" image="/docs/guide/flacbox/img/audio-bookmarks.webp" >}}
+  {{< ls-card title="" subtitle="Schermata Segnalibri Audio Flacbox" image="/docs/guide/flacbox/img/audio-bookmarks.webp" >}}
 {{< /cards >}}
 
 ## Recenti e Preferiti
@@ -169,7 +169,7 @@ Connetti iPhone all'auto tramite USB o Apple CarPlay wireless. L'interfaccia Car
 [Leggi la guida completa CarPlay](/docs/howto/how-to-play-your-own-music-on-iphone-using-carplay/).
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox su Apple CarPlay" image="/docs/guide/flacbox/img/carplay-main.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox su Apple CarPlay" image="/docs/guide/flacbox/img/carplay-main.webp" >}}
 {{< /cards >}}
 
 ## Widget della Schermata Home (iPhone & iPad)
@@ -223,7 +223,7 @@ Configura l'equalizzatore audio a 10 bande. Leggi di più [qui](/docs/howto/how-
 Regola la velocità di riproduzione del lettore audio da **0,02× a 3,00×**.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Schermata Velocità di Riproduzione Flacbox" image="/docs/guide/flacbox/img/playback-speed.webp" >}}
+  {{< ls-card title="" subtitle="Schermata Velocità di Riproduzione Flacbox" image="/docs/guide/flacbox/img/playback-speed.webp" >}}
 {{< /cards >}}
 
 ### Correzione Tonalità

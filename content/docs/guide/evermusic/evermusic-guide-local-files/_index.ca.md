@@ -20,7 +20,7 @@ La secció de Fitxers locals serveix com a centre de gestió dels fitxers ubicat
 Aquest gestor de fitxers integrat et permet editar fitxers i ofereix diversos mètodes per importar fitxers d'àudio a l'app.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Pantalla de Fitxers locals d'Evermusic" image="/docs/guide/evermusic/evermusic-guide-local-files/img/local-files-main.webp" >}}
+  {{< ls-card title="" subtitle="Pantalla de Fitxers locals d'Evermusic" image="/docs/guide/evermusic/evermusic-guide-local-files/img/local-files-main.webp" >}}
 {{< /cards >}}
 
 ## Descarregar fitxers de l'emmagatzematge al núvol
@@ -40,7 +40,7 @@ Importa fitxers fàcilment des del teu dispositiu tal com es descriu [aquí](/do
 Transfereix fitxers mitjançant una connexió per cable tal com es descriu [aquí](/docs/howto/how-to-transfer-files-from-my-mac-to-iphone-or-ipad-using-finder).
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Compartició de fitxers iTunes / Finder" image="/docs/guide/evermusic/evermusic-guide-local-files/img/local-files-itunes-file-sharing.webp" >}}
+  {{< ls-card title="" subtitle="Compartició de fitxers iTunes / Finder" image="/docs/guide/evermusic/evermusic-guide-local-files/img/local-files-itunes-file-sharing.webp" >}}
 {{< /cards >}}
 
 ## Wi-Fi Drive
@@ -48,7 +48,7 @@ Transfereix fitxers mitjançant una connexió per cable tal com es descriu [aqu�
 Transfereix fitxers sense fil tal com es descriu [aquí](/docs/howto/how-to-transfer-files-wirelessly-from-a-computer-to-an-iphone-using-wifi-drive).
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Configuració del servidor Wi-Fi Drive" image="/docs/guide/evermusic/evermusic-guide-local-files/img/local-files-wifidrive-settings.webp" >}}
+  {{< ls-card title="" subtitle="Configuració del servidor Wi-Fi Drive" image="/docs/guide/evermusic/evermusic-guide-local-files/img/local-files-wifidrive-settings.webp" >}}
 {{< /cards >}}
 
 ## Cua de transferències
@@ -56,7 +56,7 @@ Transfereix fitxers sense fil tal com es descriu [aquí](/docs/howto/how-to-tran
 A la cantonada superior esquerra de la barra de navegació, trobaràs un botó 'Transferències'. Toca'l per accedir a la cua de transferències, on pots monitorar i gestionar totes les teves descàrregues i pujades. A més, tens la flexibilitat d'ajustar la velocitat de la cua de transferència i el tipus de xarxa a la configuració de l'app.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Cua de transferència de fitxers" image="/docs/guide/evermusic/evermusic-guide-local-files/img/local-files-file-transfers.webp" >}}
+  {{< ls-card title="" subtitle="Cua de transferència de fitxers" image="/docs/guide/evermusic/evermusic-guide-local-files/img/local-files-file-transfers.webp" >}}
 {{< /cards >}}
 
 ## Secció d'accés ràpid
@@ -68,7 +68,7 @@ A la part superior de la pantalla, una secció d'accés ràpid proporciona enlla
 Aquesta secció mostra tots els fitxers o carpetes oberts recentment.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Fitxers i carpetes oberts recentment" image="/docs/guide/evermusic/evermusic-guide-local-files/img/local-files-recents.webp" >}}
+  {{< ls-card title="" subtitle="Fitxers i carpetes oberts recentment" image="/docs/guide/evermusic/evermusic-guide-local-files/img/local-files-recents.webp" >}}
 {{< /cards >}}
 
 ## Favorits
@@ -76,7 +76,7 @@ Aquesta secció mostra tots els fitxers o carpetes oberts recentment.
 Pots marcar fitxers o carpetes com a favorits i accedir-hi en aquesta secció. A més, pots afegir una carpeta ubicada al teu dispositiu als teus favorits. Per fer-ho, obre la secció de favorits, toca els tres punts a la cantonada superior dreta i tria l'element de menú "Afegir carpeta". Segueix les instruccions per afegir una carpeta des del teu dispositiu als teus favorits per a un accés ràpid.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Favorits — Afegir carpeta des del teu dispositiu" image="/docs/guide/evermusic/evermusic-guide-local-files/img/local-files-favorites.webp" >}}
+  {{< ls-card title="" subtitle="Favorits — Afegir carpeta des del teu dispositiu" image="/docs/guide/evermusic/evermusic-guide-local-files/img/local-files-favorites.webp" >}}
 {{< /cards >}}
 
 ## Barra d'eines superior
@@ -91,7 +91,7 @@ La barra d'eines superior, ubicada sota la barra de navegació, ofereix diverses
 Pots mostrar o ocultar la barra d'eines superior usant un gest de lliscar cap avall.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Barra d'eines superior per a la carpeta actual" image="/docs/guide/evermusic/evermusic-guide-local-files/img/local-files-top-toolbar.webp" >}}
+  {{< ls-card title="" subtitle="Barra d'eines superior per a la carpeta actual" image="/docs/guide/evermusic/evermusic-guide-local-files/img/local-files-top-toolbar.webp" >}}
 {{< /cards >}}
 
 ## Carpetes especials
@@ -128,7 +128,7 @@ Mostra fitxers i carpetes emmagatzemats al directori Documents de l'app i iCloud
 Mostra fitxers ubicats al teu dispositiu però en aplicacions diferents. Pots importar-los a aquesta aplicació usant el selector de fitxers del sistema. Per activar el selector, tria "Obrir fitxers..." per seleccionar fitxers o "Obrir carpetes..." per seleccionar carpetes. Les instruccions detallades sobre com importar música local emmagatzemada al teu iPhone o Mac estan disponibles [aquí](/docs/howto/how-to-play-local-music-stored-on-your-iphone-or-mac). També pots connectar una carpeta ubicada al teu dispositiu i tenir accés ràpid al contingut de la carpeta. Usa l'element de menú "Connectar una carpeta" i tria una carpeta ubicada al teu dispositiu. Toca "Fet" i l'app crearà un enllaç a aquesta carpeta amb accés de lectura/escriptura i pots gestionar fitxers directament des d'aquesta app. Per desconnectar la carpeta ubicada al teu dispositiu toca el botó "Més accions" i tria "Desconnectar".
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Fitxers en aquest iPhone / iPad / Mac" image="/docs/guide/evermusic/evermusic-guide-local-files/img/local-files-on-this-device.webp" >}}
+  {{< ls-card title="" subtitle="Fitxers en aquest iPhone / iPad / Mac" image="/docs/guide/evermusic/evermusic-guide-local-files/img/local-files-on-this-device.webp" >}}
 {{< /cards >}}
 
 ## Importar fitxers ubicats a targetes USB connectades
@@ -151,7 +151,7 @@ El menú de més accions per a la carpeta oberta actualment, ubicat a la cantona
 Si necessites editar diversos fitxers, activa el mode de selecció tocant el botó de més accions "..." a la barra de navegació a la cantonada superior dreta i després tria l'element de menú "Seleccionar". Això mostrarà caselles de verificació al costat de cada fitxer. Selecciona els fitxers desitjats tocant les seves caselles de verificació. Pots realitzar les accions següents als fitxers seleccionats.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Accions del mode de selecció per a fitxers locals" image="/docs/guide/evermusic/evermusic-guide-local-files/img/local-files-selection-mode.webp" >}}
+  {{< ls-card title="" subtitle="Accions del mode de selecció per a fitxers locals" image="/docs/guide/evermusic/evermusic-guide-local-files/img/local-files-selection-mode.webp" >}}
 {{< /cards >}}
 
 - **Reproduir a continuació:** Afegeix fitxers o carpetes seleccionats a la part superior de la cua del reproductor amb l'ordre d'ordenació actual.
@@ -186,7 +186,7 @@ Per a cada fitxer o carpeta a l'app, hi ha diverses accions disponibles, accessi
 ## Carpetes sense connexió
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Menú de més accions de la carpeta sense connexió" image="/docs/guide/evermusic/evermusic-guide-local-files/img/local-files-offline-folders.webp" >}}
+  {{< ls-card title="" subtitle="Menú de més accions de la carpeta sense connexió" image="/docs/guide/evermusic/evermusic-guide-local-files/img/local-files-offline-folders.webp" >}}
 {{< /cards >}}
 
 El mode sense connexió és una funció pràctica que et permet accedir a la teva música favorita fins i tot quan no estàs connectat a Internet. Quan actives el mode sense connexió per a qualsevol àlbum, artista, llista de reproducció, gènere o carpeta remota, tots els fitxers dins d'aquella col·lecció es descarregaran automàticament al teu dispositiu per a reproducció sense connexió. Pots accedir còmodament a aquests fitxers a la secció "Carpetes sense connexió" de l'app.
@@ -204,7 +204,7 @@ Les instruccions detallades sobre com Reproduir Música sense Connexió a Evermu
 Gairebé tots els comportaments de la pantalla de Fitxers locals — des de l'ample de banda de la xarxa fins a on aterren les descàrregues fins a com es guarden en memòria cau les miniatures — és configurable a **Configuració → Gestor de fitxers**. Obre-la sempre que vulguis ajustar la velocitat de transferència, estalviar espai d'emmagatzematge o restringir l'app a Wi-Fi únicament.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Pantalla de configuració del gestor de fitxers" image="/docs/guide/evermusic/evermusic-guide-local-files/img/local-files-file-manager-settings.webp" >}}
+  {{< ls-card title="" subtitle="Pantalla de configuració del gestor de fitxers" image="/docs/guide/evermusic/evermusic-guide-local-files/img/local-files-file-manager-settings.webp" >}}
 {{< /cards >}}
 
 La pantalla exposa cada opció agrupada en seccions clarament etiquetades:

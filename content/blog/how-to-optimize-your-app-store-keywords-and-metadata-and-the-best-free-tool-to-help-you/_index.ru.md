@@ -14,7 +14,7 @@ authors:
     image: "/images/about/artem-meleshko-founder-everappz.webp"
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 ## Почему Ключевые Слова App Store Определяют Количество Загрузок
 
@@ -104,29 +104,29 @@ json_dict_to_meta.sh       # Converts JSON back into Fastlane folders
 Инструмент с открытым исходным кодом. Отчёты об ошибках, предложения функций и pull request-ы приветствуются.
 
 {{< cards cols="1" >}}
-  {{< card link="https://github.com/everappz/app-store-keyword-optimizer/tree/main" title="appkeywords.pro on GitHub" icon="github" tag= "open source" >}}
+  {{< ls-card link="https://github.com/everappz/app-store-keyword-optimizer/tree/main" title="appkeywords.pro on GitHub" icon="github" tag= "open source" >}}
 {{< /cards >}}
 
 ---
 
 ## Часто Задаваемые Вопросы
 
-{{% details title="AppKeywords.pro действительно бесплатный?" closed="true" %}}
+{{% ls-details title="AppKeywords.pro действительно бесплатный?" closed="true" %}}
 Да. Это полностью открытый инструмент на основе браузера без регистрации, без рекламы и без сбора данных. Ваши метаданные никогда не покидают устройство.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Работает ли этот инструмент для нескольких локализаций App Store?" closed="true" %}}
+{{% ls-details title="Работает ли этот инструмент для нескольких локализаций App Store?" closed="true" %}}
 Да. Вы можете добавлять метаданные для каждой локали независимо, а экспорт включает все языки в одном JSON-файле, совместимом с Fastlane.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Нужно ли повторять ключевые слова из заголовка в поле ключевых слов?" closed="true" %}}
+{{% ls-details title="Нужно ли повторять ключевые слова из заголовка в поле ключевых слов?" closed="true" %}}
 Нет. Apple уже индексирует слова из заголовка и подзаголовка. Повторение их в поле ключевых слов расходует символы впустую.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Как часто обновлять ключевые слова App Store?" closed="true" %}}
+{{% ls-details title="Как часто обновлять ключевые слова App Store?" closed="true" %}}
 Пересматривайте и обновляйте ключевые слова не реже одного раза в квартал. Корректируйте раньше при заметных падениях позиций или сезонных изменениях поискового поведения.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Можно ли использовать этот инструмент с Fastlane?" closed="true" %}}
+{{% ls-details title="Можно ли использовать этот инструмент с Fastlane?" closed="true" %}}
 Да. GitHub-репозиторий включает shell-скрипты для конвертации между структурой папок метаданных Fastlane и JSON-форматом, используемым AppKeywords.pro.
-{{% /details %}}
+{{% /ls-details %}}

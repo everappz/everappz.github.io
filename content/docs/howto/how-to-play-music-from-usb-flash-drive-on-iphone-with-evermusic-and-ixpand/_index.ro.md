@@ -7,7 +7,7 @@ tags: ["muzică", "usb", "extern", "ixpand", "sandisk", "iphone", "evermusic"]
 readingTime: 3
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **Pe scurt:** Evermusic vă permite să redați muzică direct de pe un SanDisk iXpand Flash Drive pe iPhone sau iPad. Conectați unitatea, deschideți Evermusic și începeți să ascultați -- nu este nevoie să copiați fișiere pe dispozitiv. Suportă gestionarea fișierelor, liste de redare, egalizator și streaming AirPlay.
@@ -69,22 +69,22 @@ Cu Evermusic și SanDisk iXpand Flash Drive, veți avea libertatea de a vă bucu
 
 ## FAQ
 
-{{% details title="Ce modele de iXpand Flash Drive suportă Evermusic?" closed="true" %}}
+{{% ls-details title="Ce modele de iXpand Flash Drive suportă Evermusic?" closed="true" %}}
 Evermusic suportă SanDisk iXpand Flash Drive cu protocoalele V1, V2, V3, V6 și V7. Puteți verifica compatibilitatea în Setările iPhone-ului sub General > Despre > iXpand Flash Drive.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Pot reda muzică de pe unitatea USB fără a copia fișiere pe iPhone?" closed="true" %}}
+{{% ls-details title="Pot reda muzică de pe unitatea USB fără a copia fișiere pe iPhone?" closed="true" %}}
 Da. Evermusic redă fișiere audio direct de pe iXpand Flash Drive. Nu este nevoie să copiați nimic în stocarea internă a dispozitivului.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Ce formate audio suportă Evermusic de pe unitățile USB?" closed="true" %}}
+{{% ls-details title="Ce formate audio suportă Evermusic de pe unitățile USB?" closed="true" %}}
 Evermusic suportă toate formatele audio principale, inclusiv MP3, FLAC, AAC, WAV, AIFF, OGG și altele. Orice fișier audio stocat pe unitatea iXpand poate fi redat direct.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Pot transmite muzică de pe unitatea iXpand către boxe AirPlay?" closed="true" %}}
+{{% ls-details title="Pot transmite muzică de pe unitatea iXpand către boxe AirPlay?" closed="true" %}}
 Da. În timp ce redați muzică de pe unitatea USB, puteți transmite audio către dispozitive compatibile AirPlay, cum ar fi boxele Sonos, Apple TV și Google Chromecast.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Ce ar trebui să fac dacă unitatea iXpand nu este recunoscută?" closed="true" %}}
+{{% ls-details title="Ce ar trebui să fac dacă unitatea iXpand nu este recunoscută?" closed="true" %}}
 Asigurați-vă că nicio altă aplicație nu utilizează unitatea. Încercați să o deconectați și să o reconectați. Dacă modelul dumneavoastră nu este suportat, utilizați un adaptor Apple Lightning la USB pentru a conecta unitatea ca dispozitiv USB standard.
-{{% /details %}}
+{{% /ls-details %}}

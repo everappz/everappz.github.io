@@ -12,7 +12,7 @@ authors:
     image: "/images/about/artem-meleshko-founder-everappz.webp"
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 **Resum:** El millor reproductor de música per a iPhone depèn de les teves necessitats. **Evermusic** és ideal per a la reproducció des d'emmagatzematge al núvol i la flexibilitat de formats. **Apple Music** s'adapta als qui estan immersos en l'ecosistema Apple. **Spotify** destaca en el descobriment de música. **VLC** gestiona qualsevol format de fitxer gratuïtament. **Amazon Music** combina bé amb Alexa i Prime.
 
@@ -128,22 +128,22 @@ Amazon Music s'integra amb l'ecosistema Amazon, oferint control per veu a travé
 
 ## Preguntes freqüents
 
-{{% details title="Quin és el millor reproductor de música gratuït per a iPhone?" closed="true" %}}
+{{% ls-details title="Quin és el millor reproductor de música gratuït per a iPhone?" closed="true" %}}
 Per reproduir els teus propis fitxers, Evermusic i VLC són opcions gratuïtes. Evermusic afegeix integració amb emmagatzematge al núvol, mentre que VLC suporta la gamma més àmplia de formats de fitxer.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Puc reproduir fitxers FLAC a l'iPhone?" closed="true" %}}
+{{% ls-details title="Puc reproduir fitxers FLAC a l'iPhone?" closed="true" %}}
 Sí. Evermusic i VLC suporten la reproducció de FLAC a l'iPhone. Apple Music i Spotify no reprodueixen fitxers FLAC directament.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Quina aplicació de reproductor de música funciona amb emmagatzematge al núvol?" closed="true" %}}
+{{% ls-details title="Quina aplicació de reproductor de música funciona amb emmagatzematge al núvol?" closed="true" %}}
 Evermusic és el reproductor de música líder per a iPhone amb suport integrat per a emmagatzematge al núvol. Es connecta a iCloud Drive, Dropbox, Google Drive, OneDrive, pCloud i altres serveis.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="És Evermusic millor que Apple Music?" closed="true" %}}
+{{% ls-details title="És Evermusic millor que Apple Music?" closed="true" %}}
 Serveixen propòsits diferents. Evermusic reprodueix els teus propis fitxers de música des de l'emmagatzematge al núvol i l'emmagatzematge local. Apple Music és un servei de streaming per subscripció amb un catàleg de més de 100 milions de cançons. Si tens els teus propis fitxers de música, Evermusic és la millor opció.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Puc utilitzar Spotify fora de línia a l'iPhone?" closed="true" %}}
+{{% ls-details title="Puc utilitzar Spotify fora de línia a l'iPhone?" closed="true" %}}
 Sí, però només amb una subscripció a Spotify Premium. Els usuaris gratuïts de Spotify no poden descarregar cançons per a la reproducció fora de línia.
-{{% /details %}}
+{{% /ls-details %}}

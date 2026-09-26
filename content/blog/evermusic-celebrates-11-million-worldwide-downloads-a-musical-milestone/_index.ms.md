@@ -12,7 +12,7 @@ authors:
     image: "/images/about/artem-meleshko-founder-everappz.webp"
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 **Ringkasan:** Evermusic telah melepasi 11 juta muat turun di seluruh dunia. Ciri utama termasuk penyama 10-jalur, main balik luar talian, penstriman iCloud Drive, sokongan untuk 10+ perkhidmatan awan, segerakan merentas peranti dan editor tag ID3 terbina dalam.
 
@@ -70,22 +70,22 @@ Evermusic dibina untuk sesiapa yang menyimpan muzik di awan atau storan tempatan
 
 ## FAQ
 
-{{% details title="Apakah format audio yang disokong oleh Evermusic?" closed="true" %}}
+{{% ls-details title="Apakah format audio yang disokong oleh Evermusic?" closed="true" %}}
 Evermusic memainkan MP3, FLAC, WAV, AAC, M4A, AIFF, OGG, WMA dan format audio popular lain.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Bolehkah saya menggunakan Evermusic tanpa sambungan internet?" closed="true" %}}
+{{% ls-details title="Bolehkah saya menggunakan Evermusic tanpa sambungan internet?" closed="true" %}}
 Ya. Muat turun trek dari storan awan anda untuk main balik luar talian. Setelah dimuat turun, tiada internet diperlukan.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Adakah Evermusic berfungsi di Mac?" closed="true" %}}
+{{% ls-details title="Adakah Evermusic berfungsi di Mac?" closed="true" %}}
 Ya. Evermusic tersedia di kedua-dua iOS (iPhone/iPad) dan macOS, dengan segerakan pustaka merentas semua peranti.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Adakah Evermusic percuma untuk dimuat turun?" closed="true" %}}
+{{% ls-details title="Adakah Evermusic percuma untuk dimuat turun?" closed="true" %}}
 Ya. Evermusic percuma untuk dimuat turun dengan ciri premium pilihan tersedia melalui pembelian dalam aplikasi.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Bagaimana penstriman iCloud Drive berfungsi dalam Evermusic?" closed="true" %}}
+{{% ls-details title="Bagaimana penstriman iCloud Drive berfungsi dalam Evermusic?" closed="true" %}}
 Sambungkan akaun iCloud Drive anda dalam aplikasi, layari fail muzik anda dan ketuk untuk main. Trek distrim terus tanpa perlu dimuat turun terlebih dahulu.
-{{% /details %}}
+{{% /ls-details %}}

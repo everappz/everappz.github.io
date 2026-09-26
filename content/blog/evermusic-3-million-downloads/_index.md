@@ -15,7 +15,7 @@ authors:
     image: "/images/about/artem-meleshko-founder-everappz.webp"
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 ## 3 Million Downloads
 
@@ -101,22 +101,22 @@ Evermusic is free on the App Store with optional premium features.
 
 ## Frequently Asked Questions
 
-{{% details title="Is Evermusic free to use?" closed="true" %}}
+{{% ls-details title="Is Evermusic free to use?" closed="true" %}}
 Yes. Evermusic is free to download with core features available at no cost. Premium features like the equalizer and advanced cloud options are available through an optional upgrade.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Can Evermusic play audiobooks?" closed="true" %}}
+{{% ls-details title="Can Evermusic play audiobooks?" closed="true" %}}
 Yes. Evermusic saves your playback position, supports bookmarks, adjustable playback speed (0.5x to 2.0x), and sleep timers — making it suitable for audiobooks and podcasts.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="What cloud services does Evermusic connect to?" closed="true" %}}
+{{% ls-details title="What cloud services does Evermusic connect to?" closed="true" %}}
 Dropbox, Google Drive, OneDrive, Box, MEGA, Yandex.Disk, MyDrive, pCloud, HiDrive, SMB file shares, and WebDAV servers.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Can I use an SD card with Evermusic?" closed="true" %}}
+{{% ls-details title="Can I use an SD card with Evermusic?" closed="true" %}}
 Yes. Connect a Lightning or USB-C SD card reader to your iPhone or iPad and stream music directly from the card through Evermusic.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Does Evermusic work on Mac?" closed="true" %}}
+{{% ls-details title="Does Evermusic work on Mac?" closed="true" %}}
 Yes. Evermusic is available for both iOS and macOS, with cloud streaming and offline playback on all platforms.
-{{% /details %}}
+{{% /ls-details %}}

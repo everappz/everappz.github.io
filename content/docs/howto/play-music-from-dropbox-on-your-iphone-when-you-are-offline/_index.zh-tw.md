@@ -7,7 +7,7 @@ tags: ["雲端", "串流", "iPhone", "mp3", "儲存", "Dropbox"]
 keywords: ["播放音樂 Dropbox iPhone", "離線音樂 Dropbox iOS", "Evermusic Dropbox", "mp3播放器 雲端", "Dropbox音訊串流", "Evermusic檔案管理器", "Dropbox iOS音訊"]
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **簡要說明：** 將音樂上傳到Dropbox，在iPhone上安裝免費的Evermusic應用程式，連接您的Dropbox帳戶，然後播放或下載曲目以供離線收聽。Evermusic支援MP3、FLAC、WAV、AAC等格式。它包括10段等化器、播放列表和檔案管理功能。
@@ -35,7 +35,7 @@ Evermusic完全免費，適用於iPhone和iPad，相容於執行iOS 8.0或更新
 
 {{< cards cols="1">}}
 
-  {{< card title="下載Evermusic" subtitle="適用於iPhone和iPad的離線音樂播放器和雲端串流播放器。" icon="download" link="https://itunes.apple.com/us/app/evermusic-offline-music/id885367198?mt=8" >}}
+  {{< ls-card title="下載Evermusic" subtitle="適用於iPhone和iPad的離線音樂播放器和雲端串流播放器。" icon="download" link="https://itunes.apple.com/us/app/evermusic-offline-music/id885367198?mt=8" >}}
 
 {{< /cards >}}
 
@@ -67,26 +67,26 @@ Evermusic還是一個功能齊全的檔案管理器，支援基本操作：重�
 
 ## 常見問題
 
-{{% details title="我可以在iPhone上離線播放Dropbox音樂嗎？" closed="true" %}}
+{{% ls-details title="我可以在iPhone上離線播放Dropbox音樂嗎？" closed="true" %}}
 可以。使用Evermusic連接您的Dropbox，然後下載任何曲目或播放列表以供離線收聽。下載的檔案儲存在您的裝置上，無需網際網路連接即可播放。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Evermusic是免費的嗎？" closed="true" %}}
+{{% ls-details title="Evermusic是免費的嗎？" closed="true" %}}
 Evermusic可以免費下載，核心功能包括等化器、雲端串流和離線播放。免費版本支援最多3個雲端連接和10個播放列表。升級到Premium可解除所有限制。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Evermusic支援Dropbox中的哪些音訊格式？" closed="true" %}}
+{{% ls-details title="Evermusic支援Dropbox中的哪些音訊格式？" closed="true" %}}
 Evermusic可以直接從Dropbox播放MP3、FLAC、WAV、AAC、AIFF、OGG、WMA和許多其他格式。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="我可以連接多個雲端服務嗎？" closed="true" %}}
+{{% ls-details title="我可以連接多個雲端服務嗎？" closed="true" %}}
 可以。Evermusic支援Dropbox、Google Drive、OneDrive、Box、WebDAV、SMB、MEGA等。您可以連接無限數量的帳戶，並在一個庫中瀏覽所有內容。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Evermusic會在裝置之間同步播放列表嗎？" closed="true" %}}
+{{% ls-details title="Evermusic會在裝置之間同步播放列表嗎？" closed="true" %}}
 在Evermusic中建立的播放列表儲存在您的裝置本機。您的Dropbox檔案透過Dropbox本身在所有裝置之間保持同步。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="如何透過Dropbox音樂釋放iPhone儲存空間？" closed="true" %}}
+{{% ls-details title="如何透過Dropbox音樂釋放iPhone儲存空間？" closed="true" %}}
 將音樂檔案移至Dropbox，透過Evermusic進行串流播放，而不是儲存在iPhone上。僅下載離線收聽所需的曲目。
-{{% /details %}}
+{{% /ls-details %}}

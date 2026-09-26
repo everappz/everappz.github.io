@@ -12,7 +12,7 @@ authors:
     image: "/images/about/artem-meleshko-founder-everappz.webp"
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 ## Evermusic 3.1: Mikä muuttui ja miksi sillä on merkitystä
 
@@ -89,22 +89,22 @@ Muokkaa minkä tahansa yhdistetyn pilvipalvelun kirjautumistietoja poistamatta j
 
 ## Usein kysytyt kysymykset
 
-{{% details title="Mikä on crossfade-toisto Evermusicissa?" closed="true" %}}
+{{% ls-details title="Mikä on crossfade-toisto Evermusicissa?" closed="true" %}}
 Crossfade-toisto sekoittaa yhden kappaleen lopun seuraavan alkuun luoden saumattomat siirtymät. Voit asettaa keston 3-15 sekuntiin kohdassa Settings → Audio Player → Crossfade Playback.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Voinko varmuuskopioida Evermusicin soittolistat pilvipalveluun?" closed="true" %}}
+{{% ls-details title="Voinko varmuuskopioida Evermusicin soittolistat pilvipalveluun?" closed="true" %}}
 Kyllä. Evermusic 3.1 antaa sinun varmuuskopioida koko kirjastosi — mukaan lukien soittolistat, metatiedot, kansikuvat ja asetukset — mihin tahansa yhdistettyyn pilvipalveluun yhtenä tiedostona.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Tukeeko Evermusic iPod-kirjaston selausta?" closed="true" %}}
+{{% ls-details title="Tukeeko Evermusic iPod-kirjaston selausta?" closed="true" %}}
 Kyllä. Voit selata iPod-kirjastoasi soittolistojen, albumien, esittäjien ja tyylilajien mukaan suoraan Evermusicin aloitusnäytöltä ja lisätä kappaleita jonoosi.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Miten korjaan virheelliset kappaletunnisteet Evermusicissa?" closed="true" %}}
+{{% ls-details title="Miten korjaan virheelliset kappaletunnisteet Evermusicissa?" closed="true" %}}
 Käytä sisäänrakennettua tunniste-editoria ja napauta Tunnista-toimintoa. Evermusic skannaa tiedostonimesi ja päivittää ID3-tunnisteet korjatuilla metatiedoilla automaattisesti.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Mitä pilvipalveluita Evermusic tukee?" closed="true" %}}
+{{% ls-details title="Mitä pilvipalveluita Evermusic tukee?" closed="true" %}}
 Evermusic toimii Dropboxin, Google Driven, OneDriven, MEGAn, Boxin, Yandex.Diskin, WebDAV:n, SMB/CIFS:n ja FTP-palvelimien kanssa.
-{{% /details %}}
+{{% /ls-details %}}

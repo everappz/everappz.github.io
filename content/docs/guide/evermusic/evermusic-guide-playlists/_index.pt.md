@@ -17,7 +17,7 @@ readingTime: 6
 A secção Listas de reprodução fornece-lhe as ferramentas para organizar as suas faixas em listas. Inclui uma vista de conteúdo que mostra todas as suas listas de reprodução criadas, um botão «...» na barra de navegação que oferece várias ações relacionadas com listas de reprodução, e uma barra de ferramentas de navegação com botões «Pesquisar», «Reproduzir tudo» e «Reprodução aleatória». Além disso, cada lista de reprodução individual tem um botão «...» perto do título da lista, que oferece uma gama de ações específicas para essa lista.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Ecrã de Listas de Reprodução do Evermusic" image="/docs/guide/evermusic/evermusic-guide-playlists/img/playlists-main.webp" >}}
+  {{< ls-card title="" subtitle="Ecrã de Listas de Reprodução do Evermusic" image="/docs/guide/evermusic/evermusic-guide-playlists/img/playlists-main.webp" >}}
 {{< /cards >}}
 
 ## Criar uma Lista de Reprodução
@@ -25,7 +25,7 @@ A secção Listas de reprodução fornece-lhe as ferramentas para organizar as s
 Para criar uma nova lista de reprodução, toque no botão «+» ou no botão «...» no canto superior direito da barra de navegação, selecione «Nova lista de reprodução» e atribua um nome à sua lista de reprodução. Após a nomear, toque em «Guardar».
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Criar uma Nova Lista de Reprodução" image="/docs/guide/evermusic/evermusic-guide-playlists/img/playlists-add-new.webp" >}}
+  {{< ls-card title="" subtitle="Criar uma Nova Lista de Reprodução" image="/docs/guide/evermusic/evermusic-guide-playlists/img/playlists-add-new.webp" >}}
 {{< /cards >}}
 
 Isto abre a caixa de diálogo «Adicionar músicas», onde pode escolher quais as faixas a adicionar à nova lista de reprodução. As faixas são categorizadas por tipo de fonte e tem várias opções:
@@ -42,7 +42,7 @@ Por padrão, só pode adicionar uma faixa a uma lista de reprodução uma vez. P
 No Evermusic, adicionámos funcionalidade de importação de ficheiro M3U, para que não tenha de criar listas de reprodução manualmente.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Importar Lista de Reprodução de uma Fonte de Ficheiro" image="/docs/guide/evermusic/evermusic-guide-playlists/img/playlists-import-from-files.webp" >}}
+  {{< ls-card title="" subtitle="Importar Lista de Reprodução de uma Fonte de Ficheiro" image="/docs/guide/evermusic/evermusic-guide-playlists/img/playlists-import-from-files.webp" >}}
 {{< /cards >}}
 
 Primeiro, vá à secção «Listas de reprodução». Em seguida, toque no botão «Mais» no canto superior direito. No menu que aparece, selecione a opção «Importar lista de reprodução».
@@ -62,7 +62,7 @@ A aplicação analisará o ficheiro da lista de reprodução, criará uma lista 
 Quando abre uma lista de reprodução, aparece o «Ecrã de detalhes da lista de reprodução». Neste ecrã, encontrará um botão «...» no canto superior direito com opções da lista de reprodução e três botões abaixo da imagem da capa: «Pesquisar», «Continuar reprodução», «Reproduzir tudo» e «Reprodução aleatória». Adicionalmente, há uma caixa de verificação «Modo offline».
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Ecrã de Detalhes da Lista de Reprodução" image="/docs/guide/evermusic/evermusic-guide-playlists/img/playlists-detail-screen.webp" >}}
+  {{< ls-card title="" subtitle="Ecrã de Detalhes da Lista de Reprodução" image="/docs/guide/evermusic/evermusic-guide-playlists/img/playlists-detail-screen.webp" >}}
 {{< /cards >}}
 
 - **Continuar reprodução**: Restaurar a posição de reprodução para esta lista de reprodução.
@@ -87,7 +87,7 @@ Pode aceder às ações de uma lista de reprodução tocando no botão «...» p
 - **Eliminar lista de reprodução:** Eliminar a lista de reprodução da Biblioteca de música. Por favor note que esta ação não pode ser desfeita.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Menu de Mais Ações para uma Lista de Reprodução" image="/docs/guide/evermusic/evermusic-guide-playlists/img/playlists-more-actions-for-separate-playlist.webp" >}}
+  {{< ls-card title="" subtitle="Menu de Mais Ações para uma Lista de Reprodução" image="/docs/guide/evermusic/evermusic-guide-playlists/img/playlists-more-actions-for-separate-playlist.webp" >}}
 {{< /cards >}}
 
 ## Mais Ações para Lista de Reprodução no Ecrã de Detalhes da Lista
@@ -113,7 +113,7 @@ Pode aceder às ações de uma lista de reprodução tocando no botão «...» n
 Para alterar a ordem das músicas numa lista de reprodução, toque no botão «...» no canto superior direito e selecione «Selecionar» para entrar no modo de seleção. Use o controlo de reordenação e gestos de arrastar e largar perto de cada faixa para as mover para cima ou para baixo. Tocar no controlo de reordenação moverá a faixa para o topo da lista. Para sair do modo de seleção e aplicar as alterações, toque em «Concluído».
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Alterar Ordem das Músicas numa Lista de Reprodução" image="/docs/guide/evermusic/evermusic-guide-playlists/img/playlists-change-songs-order.webp" >}}
+  {{< ls-card title="" subtitle="Alterar Ordem das Músicas numa Lista de Reprodução" image="/docs/guide/evermusic/evermusic-guide-playlists/img/playlists-change-songs-order.webp" >}}
 {{< /cards >}}
 
 ## Alterar a Imagem da Capa da Lista de Reprodução
@@ -129,7 +129,7 @@ Abra a lista de reprodução e toque no botão «...» no canto superior direito
 Abra a lista de reprodução, toque no botão «...» no canto superior direito e selecione «Selecionar» para entrar no modo de seleção. Escolha as faixas que quer eliminar e toque no botão «Eliminar da lista de reprodução» na parte inferior do ecrã. Confirme as alterações tocando em «Concluído».
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Modo de Seleção numa Lista de Reprodução" image="/docs/guide/evermusic/evermusic-guide-playlists/img/playlists-selection-mode-in-playlist-details-screen.webp" >}}
+  {{< ls-card title="" subtitle="Modo de Seleção numa Lista de Reprodução" image="/docs/guide/evermusic/evermusic-guide-playlists/img/playlists-selection-mode-in-playlist-details-screen.webp" >}}
 {{< /cards >}}
 
 ## Opções de Faixa
@@ -137,7 +137,7 @@ Abra a lista de reprodução, toque no botão «...» no canto superior direito 
 Cada faixa numa lista de reprodução tem uma lista de ações, acessível tocando no botão «...». Se não conseguir ver todas as ações, deslize para baixo para as ver. Pode eliminar a faixa da lista de reprodução, descarregá-la, editar tags de áudio e muito mais.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Menu de Opções de Faixa numa Lista de Reprodução" image="/docs/guide/evermusic/evermusic-guide-playlists/img/playlists-track-options.webp" >}}
+  {{< ls-card title="" subtitle="Menu de Opções de Faixa numa Lista de Reprodução" image="/docs/guide/evermusic/evermusic-guide-playlists/img/playlists-track-options.webp" >}}
 {{< /cards >}}
 
 - **Reproduzir a seguir:** Adiciona a faixa ao topo da fila do leitor.

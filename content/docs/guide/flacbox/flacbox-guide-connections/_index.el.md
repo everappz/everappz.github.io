@@ -19,7 +19,7 @@ readingTime: 12
 Σε αυτή την οθόνη, μπορείτε να συνδέσετε κάθε πηγή που περιέχει τη μουσική σας. Μπορείτε να ενσωματώσετε δημοφιλείς υπηρεσίες cloud όπως Dropbox, Google Drive, iCloud Drive, OneDrive, MEGA, Box, pCloud, Yandex Disk, Synology Drive και πολλές άλλες, καθώς και τον Mac, PC ή NAS σας μέσω τυπικών πρωτοκόλλων.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Οθόνη Συνδέσεων Flacbox" image="/docs/guide/flacbox/img/connections-main.webp" >}}
+  {{< ls-card title="" subtitle="Οθόνη Συνδέσεων Flacbox" image="/docs/guide/flacbox/img/connections-main.webp" >}}
 {{< /cards >}}
 
 ## Σύνδεση με Αποθηκευτικό Χώρο Cloud
@@ -30,7 +30,7 @@ readingTime: 12
 - Εισαγάγετε τα διαπιστευτήριά σας στην επίσημη σελίδα εξουσιοδότησης που παρέχεται από τον πάροχο cloud και πατήστε **Ολοκλήρωση**.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox Προσθήκη Υπηρεσίας Αποθηκευτικού Χώρου Cloud" image="/docs/guide/flacbox/img/add-cloud-storage.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox Προσθήκη Υπηρεσίας Αποθηκευτικού Χώρου Cloud" image="/docs/guide/flacbox/img/add-cloud-storage.webp" >}}
 {{< /cards >}}
 
 Σε περίπτωση προβλημάτων, ελέγξτε τη σύνδεσή σας στο internet και τα στοιχεία σύνδεσής σας. Στην Premium έκδοση μπορείτε να προσθέσετε απεριόριστες υπηρεσίες· η δωρεάν έκδοση υποστηρίζει έως τρεις.
@@ -126,7 +126,7 @@ readingTime: 12
 - Εισαγάγετε τα στοιχεία σύνδεσής σας αν χρειάζεται.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox Διαθέσιμες Συσκευές στο Τοπικό Δίκτυο" image="/docs/guide/flacbox/img/available-devies.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox Διαθέσιμες Συσκευές στο Τοπικό Δίκτυο" image="/docs/guide/flacbox/img/available-devies.webp" >}}
 {{< /cards >}}
 
 ## Wi-Fi Drive
@@ -141,7 +141,7 @@ readingTime: 12
 - Πατήστε **Εκκίνηση Wi-Fi Drive**.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox Wi-Fi Drive" image="/docs/guide/flacbox/img/wifi-drive.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox Wi-Fi Drive" image="/docs/guide/flacbox/img/wifi-drive.webp" >}}
 {{< /cards >}}
 
 ### Πρόσβαση στο Wi-Fi Drive από τον Υπολογιστή σας
@@ -224,7 +224,7 @@ readingTime: 12
 - **Διαγραφή** — οριστική αφαίρεση του αρχείου. **Αυτή η ενέργεια δεν μπορεί να αναιρεθεί.**
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox Περισσότερες Ενέργειες για Αρχείο στον Συνδεδεμένο Αποθηκευτικό Χώρο Cloud" image="/docs/guide/flacbox/img/more-actions-for-file-in-connected-cloud-storage.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox Περισσότερες Ενέργειες για Αρχείο στον Συνδεδεμένο Αποθηκευτικό Χώρο Cloud" image="/docs/guide/flacbox/img/more-actions-for-file-in-connected-cloud-storage.webp" >}}
 {{< /cards >}}
 
 ## Ενέργειες Φακέλου
@@ -249,7 +249,7 @@ readingTime: 12
 Η ενότητα Γρήγορης Πρόσβασης βρίσκεται στην κορυφή της οθόνης και παρέχει γρήγορη πρόσβαση στα αγαπημένα και πρόσφατα ανοιγμένα αρχεία σας.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox Online Σύνδεσμοι και Γρήγορη Πρόσβαση" image="/docs/guide/flacbox/img/online-links.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox Online Σύνδεσμοι και Γρήγορη Πρόσβαση" image="/docs/guide/flacbox/img/online-links.webp" >}}
 {{< /cards >}}
 
 ## Άλλες Υπηρεσίες
@@ -257,5 +257,5 @@ readingTime: 12
 Αυτή η ενότητα εμφανίζει πρόσθετες λειτουργίες. Επί του παρόντος, η εφαρμογή υποστηρίζει scrobbling **Last.fm** — όταν συνδεθεί, τα στατιστικά αναπαραγωγής σας αποστέλλονται αυτόματα στον λογαριασμό Last.fm σας. Λεπτομερείς οδηγίες ρύθμισης είναι διαθέσιμες [εδώ](/docs/howto/how-to-scrobble-your-music-history-from-evermusic-or-flacbox-to-last-fm).
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox Σύνδεση Last.fm" image="/docs/guide/flacbox/img/last-fm-connect.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox Σύνδεση Last.fm" image="/docs/guide/flacbox/img/last-fm-connect.webp" >}}
 {{< /cards >}}

@@ -17,7 +17,7 @@ keywords: [
 readingTime: 2
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **Pe scurt:** Atât Evermusic, cât și Flacbox au scrobbling Last.fm integrat. Conectează-ți contul în secțiunea **Conexiuni**, iar fiecare piesă pe care o asculți este înregistrată automat -- chiar și când ești offline. Configurarea durează mai puțin de un minut.
@@ -66,22 +66,22 @@ Scrobbling-ul istoricului muzical din Evermusic sau Flacbox către [Last.fm](htt
 
 ## Întrebări frecvente
 
-{{% details title="Scrobbling-ul Last.fm este gratuit?" closed="true" %}}
+{{% ls-details title="Scrobbling-ul Last.fm este gratuit?" closed="true" %}}
 Da. Last.fm oferă un cont gratuit care include scrobbling complet, istoric de ascultare și recomandări de bază. Un abonament plătit Last.fm Pro adaugă funcții suplimentare pe site-ul Last.fm, dar nu este necesar pentru scrobbling din Evermusic sau Flacbox.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Funcționează scrobbling-ul când sunt offline?" closed="true" %}}
+{{% ls-details title="Funcționează scrobbling-ul când sunt offline?" closed="true" %}}
 Da. Atât Evermusic, cât și Flacbox stochează istoricul de redare local. Când revii online, aplicațiile încarcă automat scrobble-urile aflate în așteptare pe Last.fm.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Sunt stocate credențialele mele Last.fm de către aplicație?" closed="true" %}}
+{{% ls-details title="Sunt stocate credențialele mele Last.fm de către aplicație?" closed="true" %}}
 Nu. Aplicația salvează doar un token de acces securizat în brelocul dispozitivului. Numele de utilizator și parola nu sunt stocate.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Pot face scrobble atât de pe iPhone, cât și de pe Mac?" closed="true" %}}
+{{% ls-details title="Pot face scrobble atât de pe iPhone, cât și de pe Mac?" closed="true" %}}
 Da. Evermusic și Flacbox suportă scrobbling Last.fm pe iPhone, iPad și Mac. Conectează-ți contul pe fiecare dispozitiv pe care dorești să urmărești redările.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Cum opresc scrobbling-ul fără a-mi șterge contul Last.fm?" closed="true" %}}
+{{% ls-details title="Cum opresc scrobbling-ul fără a-mi șterge contul Last.fm?" closed="true" %}}
 Deschide secțiunea **Conexiuni** în Evermusic sau Flacbox și apasă **Deconectare** lângă Last.fm. Aceasta elimină tokenul de acces și oprește scrobbling-ul, păstrând contul și istoricul Last.fm intacte.
-{{% /details %}}
+{{% /ls-details %}}

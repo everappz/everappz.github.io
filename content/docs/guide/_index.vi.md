@@ -15,7 +15,7 @@ tags: [
 ---
 
 
-{{< lottie src="/images/juicy-json/juicy-woman-with-graph-chart.json" width="75%" >}}
+{{< ls-lottie src="/images/juicy-json/juicy-woman-with-graph-chart.json" width="75%" >}}
 
 ## Tìm hiểu cách sử dụng ứng dụng của chúng tôi
 
@@ -27,4 +27,4 @@ Chọn ứng dụng bên dưới để bắt đầu.
 
 ## Chọn sản phẩm của bạn
 
-{{< product-doc-cards section="guide" >}}
+{{< ls-product-doc-cards section="guide" >}}

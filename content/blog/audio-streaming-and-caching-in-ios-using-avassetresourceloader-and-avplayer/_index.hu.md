@@ -12,7 +12,7 @@ authors:
     image: "/images/about/artem-meleshko-founder-everappz.webp"
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 ![](/blog/audio-streaming-and-caching-in-ios-using-avassetresourceloader-and-avplayer/diagram.png)
 
@@ -134,18 +134,18 @@ Ez a megközelítés az [Evermusic](https://apps.apple.com/app/evermusic-offline
 
 ## Gyakran ismételt kérdések
 
-{{% details title="Mikor érdemes az AVAssetResourceLoaderDelegate-t közvetlen URL helyett használni?" closed="true" %}}
+{{% ls-details title="Mikor érdemes az AVAssetResourceLoaderDelegate-t közvetlen URL helyett használni?" closed="true" %}}
 Akkor használja, ha a felhőszolgáltatás egyéni engedélyezési fejléceket igényel, ha lemezgyorsítótárazásra van szüksége a streamelt audiónál, vagy ha részletes vezérlést szeretne az adatok betöltése és pufferelése felett.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Ez a megközelítés működik Swift-tel is?" closed="true" %}}
+{{% ls-details title="Ez a megközelítés működik Swift-tel is?" closed="true" %}}
 Igen. Az `AVAssetResourceLoaderDelegate` protokoll ugyanúgy működik Swift-ben is. Az itt szereplő Objective-C példák közvetlenül lefordíthatók.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Használható ez videó streamingnél is?" closed="true" %}}
+{{% ls-details title="Használható ez videó streamingnél is?" closed="true" %}}
 Igen. Az `AVAssetResourceLoaderDelegate` bármilyen médiatípussal működik, amelyet az AVPlayer támogat, beleértve a videót is. Ugyanaz az egyéni séma megközelítés alkalmazható.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Támogatja a háttérben való audiolejátszást?" closed="true" %}}
+{{% ls-details title="Támogatja a háttérben való audiolejátszást?" closed="true" %}}
 Igen, feltéve, hogy engedélyezi az "Audio, AirPlay és Picture in Picture" háttér módot az alkalmazás képességei között, és megfelelően konfigurálja az `AVAudioSession`-t.
-{{% /details %}}
+{{% /ls-details %}}

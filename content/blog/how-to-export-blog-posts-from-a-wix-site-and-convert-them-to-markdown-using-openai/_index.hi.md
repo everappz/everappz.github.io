@@ -12,7 +12,7 @@ authors:
     image: "/images/about/artem-meleshko-founder-everappz.webp"
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 ## Wix से ब्लॉग पोस्ट क्यों एक्सपोर्ट करें?
 
@@ -280,33 +280,33 @@ bash fetch_blog_posts.sh
 प्रोजेक्ट ओपन सोर्स है।
 
 {{< cards cols="1" >}}
-  {{< card link="https://github.com/everappz/wix-blog-export" title="GitHub पर प्रोजेक्ट" icon="github" tag="open source" >}}
+  {{< ls-card link="https://github.com/everappz/wix-blog-export" title="GitHub पर प्रोजेक्ट" icon="github" tag="open source" >}}
 {{< /cards >}}
 
 ---
 
 ## अक्सर पूछे जाने वाले प्रश्न
 
-{{% details title="Wix ब्लॉग पोस्ट स्क्रैप करने के लिए `requests` का उपयोग क्यों नहीं कर सकते?" closed="true" %}}
+{{% ls-details title="Wix ब्लॉग पोस्ट स्क्रैप करने के लिए `requests` का उपयोग क्यों नहीं कर सकते?" closed="true" %}}
 Wix JavaScript से डायनामिकली कंटेंट रेंडर करता है। स्टैंडर्ड HTTP रिक्वेस्ट खाली पेज शेल रिटर्न करती है। Selenium पूरी तरह रेंडर किया हुआ HTML प्राप्त करने के लिए headless ब्राउज़र चलाता है।
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="क्या यह किसी भी Wix ब्लॉग के साथ काम करता है?" closed="true" %}}
+{{% ls-details title="क्या यह किसी भी Wix ब्लॉग के साथ काम करता है?" closed="true" %}}
 हाँ। Scraper ब्लॉग sitemap XML पढ़ता है और प्रत्येक URL प्रोसेस करता है। बस `parse_blog_sitemap.py` में `SITEMAP_URL` वेरिएबल अपडेट करें।
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="कौन सा OpenAI मॉडल उपयोग होता है?" closed="true" %}}
+{{% ls-details title="कौन सा OpenAI मॉडल उपयोग होता है?" closed="true" %}}
 स्क्रिप्ट डिफ़ॉल्ट रूप से GPT-4o उपयोग करती है। `generate_md.py` में `API_MODEL` वेरिएबल बदलें।
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="क्या इसे Wix से Hugo माइग्रेशन के लिए उपयोग कर सकते हैं?" closed="true" %}}
+{{% ls-details title="क्या इसे Wix से Hugo माइग्रेशन के लिए उपयोग कर सकते हैं?" closed="true" %}}
 हाँ। आउटपुट लोकल इमेज पाथ के साथ स्टैंडर्ड Markdown है, जो Hugo, Jekyll, Astro के साथ सीधे काम करता है।
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="OpenAI API की लागत कितनी है?" closed="true" %}}
+{{% ls-details title="OpenAI API की लागत कितनी है?" closed="true" %}}
 लागत आपके ब्लॉग पोस्ट की संख्या और लंबाई पर निर्भर करती है। 50 मध्यम लंबाई के पोस्ट वाला ब्लॉग GPT-4o के साथ कुछ डॉलर खर्च करता है।
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="क्या यह टूल ओपन सोर्स है?" closed="true" %}}
+{{% ls-details title="क्या यह टूल ओपन सोर्स है?" closed="true" %}}
 हाँ। पूरा सोर्स कोड [GitHub](https://github.com/everappz/wix-blog-export) पर ओपन-सोर्स लाइसेंस के तहत उपलब्ध है।
-{{% /details %}}
+{{% /ls-details %}}

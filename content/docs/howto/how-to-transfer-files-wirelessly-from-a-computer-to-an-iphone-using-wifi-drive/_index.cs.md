@@ -7,7 +7,7 @@ keywords: ["bezdrátový přenos souborů do iPhone", "přenos souborů wifi dri
 readingTime: 2
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **Shrnutí:** Wi-Fi Drive umožňuje přenášet soubory z jakéhokoli počítače do iPhonu nebo iPadu přes Wi-Fi -- bez iTunes nebo kabelů. Použijte webový prohlížeč, Mac Finder nebo Windows File Explorer. Obě zařízení musí být připojena ke stejné Wi-Fi síti.
@@ -18,7 +18,7 @@ Soubory můžete bezdrátově přenášet pomocí desktopového webového prohl�
 
 Můžete se podívat na video tutoriál od [**TECHGUYPH**](https://www.youtube.com/channel/UCgpf09gGFE_c_3pPTtTpnzg) nebo si přečíst textovou verzi níže.
 <br><br>
-{{< youtubecard id="CqdqrQ0ge70" title="Can We Wirelessly Put Offline Music on iPhones?" >}}
+{{< ls-youtubecard id="CqdqrQ0ge70" title="Can We Wirelessly Put Offline Music on iPhones?" >}}
 
 ## Přenos souborů z počítače bezdrátově pomocí desktopového webového prohlížeče
 
@@ -90,26 +90,26 @@ iTunes není potřeba!
 
 ## Často kladené dotazy
 
-{{% details title="Potřebuji iTunes k přenosu souborů do iPhonu?" closed="true" %}}
+{{% ls-details title="Potřebuji iTunes k přenosu souborů do iPhonu?" closed="true" %}}
 Ne. Wi-Fi Drive přenáší soubory přímo přes vaši lokální Wi-Fi síť. iTunes není potřeba.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Které aplikace podporují Wi-Fi Drive?" closed="true" %}}
+{{% ls-details title="Které aplikace podporují Wi-Fi Drive?" closed="true" %}}
 Wi-Fi Drive je k dispozici v Evermusic, Flacbox, Evertag a Evervideo pro iOS.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Musí být obě zařízení na stejné Wi-Fi síti?" closed="true" %}}
+{{% ls-details title="Musí být obě zařízení na stejné Wi-Fi síti?" closed="true" %}}
 Ano. Váš počítač a iPhone nebo iPad musí být připojeny ke stejné lokální Wi-Fi síti, aby Wi-Fi Drive fungoval.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Mohu přenášet celé složky, nejen jednotlivé soubory?" closed="true" %}}
+{{% ls-details title="Mohu přenášet celé složky, nejen jednotlivé soubory?" closed="true" %}}
 Ano. Wi-Fi Drive podporuje nahrávání a stahování celých složek prostřednictvím rozhraní webového prohlížeče.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Funguje Wi-Fi Drive s Windows?" closed="true" %}}
+{{% ls-details title="Funguje Wi-Fi Drive s Windows?" closed="true" %}}
 Ano. Můžete použít jakýkoli webový prohlížeč ve Windows nebo se připojit přes Windows File Explorer pomocí protokolu WebDAV.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Mohu použít USB kabel pro urychlení přenosu?" closed="true" %}}
+{{% ls-details title="Mohu použít USB kabel pro urychlení přenosu?" closed="true" %}}
 Ano. Pokud je váš iPhone připojen k Macu přes USB, zatímco Wi-Fi Drive běží, přenos využije kabelové připojení pro rychlejší přenosové rychlosti.
-{{% /details %}}
+{{% /ls-details %}}

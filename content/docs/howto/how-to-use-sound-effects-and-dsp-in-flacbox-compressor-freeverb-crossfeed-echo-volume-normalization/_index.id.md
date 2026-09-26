@@ -7,9 +7,9 @@ tags: ["Flacbox", "Efek Audio", "Cara", "BASS", "Equalizer", "Bass Boost", "Comp
 readingTime: 30
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
-{{< full-width-tables >}}
+{{< ls-full-width-tables >}}
 
 **Jawaban singkat:** Di Flacbox Anda memilih satu **Playback engine** di **Pengaturan > Audio player**: **Standard** (engine sistem Apple), **Universal** (engine FFmpeg), atau **Sound FX** (**engine BASS™**). Engine yang Anda pilih menentukan format file mana yang dapat diputar, jadi pilihan ini penting. Engine **Sound FX** memutar format tambahan yang dilewati sebagian besar aplikasi iPhone (FLAC, DSD, WavPack, APE, Musepack, TrueAudio, Opus, dan musik **MOD dan tracker** lama seperti MOD, XM, IT, dan S3M), dan ini adalah satu-satunya engine yang menjalankan alat suara: **equalizer 10 band**, **Normalisasi Volume**, **Compressor**, **Freeverb**, **Auto Wah**, **Phaser**, **Flanger**, **Echo**, **Chorus**, **Distortion**, **Rotate**, **Crossfeed**, dan **rantai DSP** bikinan sendiri. Jadi untuk menggunakan efek dalam panduan ini, atur Playback engine Anda ke **Sound FX** terlebih dahulu. Setiap alat memiliki **preset** siap pakai. Buka mereka di **Pengaturan > Audio player** (Audio effects, Audio equalizer, Signal processing), atau ketuk tombol **⋯ (More)** pada pemutar dan pilih **Audio effects**. Apa pun yang Anda lakukan di sini tidak pernah mengubah file Anda.
 
@@ -657,93 +657,93 @@ Karena semua ini berjalan langsung saat musik diputar, efek:
 
 ## FAQ
 
-{{% details title="Engine suara apa yang digunakan Flacbox?" closed="true" %}}
+{{% ls-details title="Engine suara apa yang digunakan Flacbox?" closed="true" %}}
 Anda memilih satu Playback engine di Pengaturan > Audio player: Standard (engine sistem Apple), Universal (engine FFmpeg), atau Sound FX (engine BASS™ dari Un4seen Developments, un4seen.com). Engine yang Anda pilih menentukan format file mana yang diputar. Sound FX adalah yang memutar format tambahan seperti FLAC, DSD, WavPack, APE, Musepack, TrueAudio, Opus, dan musik MOD atau tracker, dan ini adalah satu-satunya engine yang menyediakan efek langsung, equalizer 10 band, dan rantai DSP. Untuk menggunakan efek, atur Playback engine ke Sound FX.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Bisakah Flacbox memutar MOD, XM, IT, dan musik tracker atau modul lainnya?" closed="true" %}}
+{{% ls-details title="Bisakah Flacbox memutar MOD, XM, IT, dan musik tracker atau modul lainnya?" closed="true" %}}
 Ya. Engine BASS™ memiliki pemutar modul bawaan yang memuat file MOD, XM, IT, S3M, MTM, UMX, dan MO3 dan membangun ulang lagu secara langsung dari pola dan suara instrumennya, sebagaimana musik tracker dimaksudkan untuk dimainkan. Pemutar iPhone biasa tidak dapat melakukan ini. Efek dan equalizer bekerja pada musik modul juga.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Apakah Flacbox mendukung file DSD dan resolusi tinggi?" closed="true" %}}
+{{% ls-details title="Apakah Flacbox mendukung file DSD dan resolusi tinggi?" closed="true" %}}
 Ya. Flacbox memutar file DSD (DSF dan DFF) melalui engine BASS™ menggunakan DSD over PCM sehingga mereka bekerja pada perangkat keras output biasa, ditambah FLAC, WavPack, Monkey's Audio (APE), Musepack, dan TrueAudio untuk pemutaran lossless.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Efek suara apa saja yang dimiliki Flacbox?" closed="true" %}}
+{{% ls-details title="Efek suara apa saja yang dimiliki Flacbox?" closed="true" %}}
 Equalizer 10 band, Normalisasi Volume, Compressor, Freeverb, Auto Wah, Phaser, Flanger, Echo, Chorus, Distortion, Rotate, dan Crossfeed, ditambah rantai DSP bikinan sendiri dengan filter, shelf, gain, soft clip, bit crusher, ring modulator, tremolo, delay, dan stereo width. Masing-masing terpisah dan dapat dikombinasikan dengan yang lain.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Apa itu preset?" closed="true" %}}
+{{% ls-details title="Apa itu preset?" closed="true" %}}
 Preset adalah pengaturan siap pakai untuk sebuah efek. Alih-alih menggeser slider sendiri, Anda mengetuk preset dan suara berubah sesuai. Setiap efek di Flacbox memiliki beberapa preset, dan panduan ini mencantumkan apa yang dilakukan masing-masing. Jika Anda menggeser slider setelah memilih preset, efek menampilkan «Manual» untuk memberi tahu Anda bahwa sekarang ia menggunakan nilai Anda sendiri.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Bagaimana cara membuka efek audio di Flacbox?" closed="true" %}}
+{{% ls-details title="Bagaimana cara membuka efek audio di Flacbox?" closed="true" %}}
 Buka pemutar Now Playing, ketuk tombol ⋯ (More), dan pilih Audio effects. Atau buka Pengaturan > Audio player > Audio effects. Ketuk efek, nyalakan sakelarnya, dan pilih preset, atau buka slider untuk menyesuaikan halus.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Di mana equalizer, dan apa pengaturan terbaik?" closed="true" %}}
+{{% ls-details title="Di mana equalizer, dan apa pengaturan terbaik?" closed="true" %}}
 Buka Pengaturan > Audio player > Audio equalizer. Ia memiliki 10 band dari 32 Hz hingga 16 kHz, masing-masing dari -12 hingga +12 dB, ditambah Preamplifier -24 hingga +24 dB dan 22 preset. Untuk lebih banyak bass, gunakan Bass Booster. Untuk suara lebih jernih, gunakan Vocal Booster atau Pop. Untuk suara lebih cerah, gunakan Treble Booster. Lalu sesuaikan band tunggal sesuai selera.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Bagaimana cara meningkatkan bass di Flacbox?" closed="true" %}}
+{{% ls-details title="Bagaimana cara meningkatkan bass di Flacbox?" closed="true" %}}
 Dua cara mudah. Di Audio equalizer, pilih Bass Booster (atau naikkan band 32 Hz dan 64 Hz beberapa dB). Atau, di Signal processing, tambahkan blok Low Shelf yang diatur ke Bass Boost. Dalam kedua kasus, turunkan Preamplifier atau tambahkan blok Gain 1 hingga 2 dB sehingga bass tetap bersih dan tidak terdistorsi.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Preset equalizer mana yang terbaik untuk musik saya?" closed="true" %}}
+{{% ls-details title="Preset equalizer mana yang terbaik untuk musik saya?" closed="true" %}}
 Rock dan Electronic menambahkan energi dengan low dan high yang kuat. Acoustic, Jazz, dan Classical tetap hangat dan alami. Pop dan Vocal Booster mendorong suara ke depan. Bass Booster dan Hip-Hop menambahkan bobot. Deep dan Loudness terdengar lebih penuh pada volume rendah. Mulai dengan yang cocok dengan genre Anda, lalu sesuaikan halus.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Apa itu Normalisasi Volume, dan apa bedanya dengan ReplayGain?" closed="true" %}}
+{{% ls-details title="Apa itu Normalisasi Volume, dan apa bedanya dengan ReplayGain?" closed="true" %}}
 Ini membuat setiap track diputar pada kenyaringan yang kira-kira sama. Ia mengukur kenyaringan sebenarnya menggunakan standar EBU R128 (dalam LUFS, seperti layanan streaming) dan menyesuaikan setiap track menuju target Anda, dengan batas max-boost. Berbeda dengan ReplayGain, ia tidak memerlukan tag dalam file Anda dan bekerja pada sumber apa pun, secara langsung, tanpa mengubah audio. Preset: Light, Standard, Strong, dan Night.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Apa itu Crossfeed, dan haruskah saya menggunakannya?" closed="true" %}}
+{{% ls-details title="Apa itu Crossfeed, dan haruskah saya menggunakannya?" closed="true" %}}
 Crossfeed mencampur sedikit channel kiri dan kanan bersama sehingga headphone terasa lebih seperti speaker nyata dan tidak seperti suara terjebak di dalam kepala Anda. Ini hanya untuk headphone, jadi matikan untuk speaker. Flacbox menggunakan metode bs2b (Bauer), dengan preset seperti Chu Moy dan Jan Meier.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Apa perbedaan antara Compressor dan Normalisasi Volume?" closed="true" %}}
+{{% ls-details title="Apa perbedaan antara Compressor dan Normalisasi Volume?" closed="true" %}}
 Normalisasi Volume mencocokkan kenyaringan antara lagu-lagu yang berbeda. Compressor meratakan bagian keras dan pelan di dalam satu lagu. Keduanya menyelesaikan masalah yang berbeda dan bekerja baik bersama-sama, terutama di mobil atau tempat berisik.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Apa itu rantai Signal processing (DSP)?" closed="true" %}}
+{{% ls-details title="Apa itu rantai Signal processing (DSP)?" closed="true" %}}
 Ini adalah rak bikinan sendiri di Pengaturan > Audio player > Signal processing. Tambahkan blok seperti filter, shelf, gain, soft clip, bit crusher, ring modulator, tremolo, delay, dan stereo width, susun dalam urutan apa pun, nyalakan atau matikan masing-masing, dan arahkan rantai ke semua channel, kiri, atau kanan. Karena urutan penting, Anda dapat merancang persis suara yang Anda inginkan.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Apa perbedaan antara Equalizer, efek, dan rantai DSP?" closed="true" %}}
+{{% ls-details title="Apa perbedaan antara Equalizer, efek, dan rantai DSP?" closed="true" %}}
 Equalizer adalah kontrol nada 10 band sederhana. Audio effects adalah alat siap pakai (compressor, reverb, echo, dan sebagainya) dengan preset. Rantai DSP adalah tempat Anda membangun urutan efek Anda sendiri dari blok individual. Anda dapat menjalankan ketiganya secara bersamaan.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Apakah efek mengubah atau merusak file musik saya?" closed="true" %}}
+{{% ls-details title="Apakah efek mengubah atau merusak file musik saya?" closed="true" %}}
 Tidak. Semuanya diterapkan langsung saat musik diputar. File Anda tidak pernah diubah atau disimpan ulang. Matikan efek dan suara asli langsung kembali.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Bisakah saya menggunakan lebih dari satu efek secara bersamaan?" closed="true" %}}
+{{% ls-details title="Bisakah saya menggunakan lebih dari satu efek secara bersamaan?" closed="true" %}}
 Ya. Setiap efek memiliki sakelarnya sendiri dan tidak ada sakelar utama, jadi kombinasi apa pun bekerja. Misalnya, Normalisasi Volume ditambah Compressor untuk mendengarkan yang merata, atau Freeverb ditambah Crossfeed pada headphone, dengan equalizer di atasnya.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Mengapa kontrol efek berwarna abu-abu?" closed="true" %}}
+{{% ls-details title="Mengapa kontrol efek berwarna abu-abu?" closed="true" %}}
 Efek dimatikan. Nyalakan sakelarnya di bagian atas editor untuk menggunakan kontrol. Setiap efek mati secara default.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Apa arti label Manual?" closed="true" %}}
+{{% ls-details title="Apa arti label Manual?" closed="true" %}}
 Itu berarti Anda menggeser slider menjauh dari preset, sehingga efek sekarang menggunakan nilai kustom Anda sendiri alih-alih preset bernama. Setiap slider memiliki tombol reset, dan memilih preset lagi menggantikan nilai manual Anda.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Bisakah saya menyimpan dan berbagi preset equalizer saya?" closed="true" %}}
+{{% ls-details title="Bisakah saya menyimpan dan berbagi preset equalizer saya?" closed="true" %}}
 Ya. Selain 22 preset bawaan, Anda dapat membuat preset Anda sendiri, mengaturnya ulang, dan mengekspor atau mengimpornya untuk memindahkan pengaturan Anda ke perangkat lain.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Apakah efek bekerja dengan CarPlay, streaming, dan pemutaran latar belakang?" closed="true" %}}
+{{% ls-details title="Apakah efek bekerja dengan CarPlay, streaming, dan pemutaran latar belakang?" closed="true" %}}
 Ya. Efek berjalan di dalam engine BASS™, jadi mereka berlaku untuk file lokal, drive cloud, server media, streaming, dan musik modul, dan mereka terus bekerja selama CarPlay dan pemutaran latar belakang.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Bisakah saya mengubah kualitas output audio?" closed="true" %}}
+{{% ls-details title="Bisakah saya mengubah kualitas output audio?" closed="true" %}}
 Ya. Di Pengaturan > Audio player Anda dapat mengatur output sample rate, jumlah channel, dan buffer size agar sesuai dengan headphone, speaker, atau DAC Anda.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Apa pengaturan awal yang baik untuk headphone?" closed="true" %}}
+{{% ls-details title="Apa pengaturan awal yang baik untuk headphone?" closed="true" %}}
 Nyalakan Normalisasi Volume (Standard), tambahkan Compressor ringan (Soft), pilih preset equalizer yang Anda suka, dan nyalakan Crossfeed (Chu Moy atau Jan Meier). Biarkan reverb, echo, dan distortion mati kecuali Anda menginginkan suara kreatif.
-{{% /details %}}
+{{% /ls-details %}}
 
 ---
 

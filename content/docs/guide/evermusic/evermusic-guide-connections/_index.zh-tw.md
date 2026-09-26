@@ -17,7 +17,7 @@ readingTime: 11
 螢幕被分為清楚標記的部分：頂部的快速存取（您收藏的雲端資料夾）、雲端儲存（已新增的帳戶）、區域網路（Bonjour 發現的設備）、電腦（Wi-Fi Drive、iTunes 檔案共享、SMB）、外部配件（已連接的 USB 隨身碟）以及其他服務（Last.fm 等）。
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evermusic 連接螢幕" image="/docs/guide/evermusic/evermusic-guide-connections/img/connect-main.webp" >}}
+  {{< ls-card title="" subtitle="Evermusic 連接螢幕" image="/docs/guide/evermusic/evermusic-guide-connections/img/connect-main.webp" >}}
 {{< /cards >}}
 
 ## 連接雲端儲存
@@ -29,7 +29,7 @@ readingTime: 11
 - 點選「完成」。
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="連接雲端儲存提供商選擇器" image="/docs/guide/evermusic/evermusic-guide-connections/img/connect-add-storage.webp" >}}
+  {{< ls-card title="" subtitle="連接雲端儲存提供商選擇器" image="/docs/guide/evermusic/evermusic-guide-connections/img/connect-add-storage.webp" >}}
 {{< /cards >}}
 
 如果遇到任何問題，請仔細檢查您的網路連接和登入憑據，並確保該服務的雙重認證配置正確。  
@@ -70,7 +70,7 @@ Auth token 是允許第三方應用程式與雲端儲存互動的數字密鑰。
   - **斷開連接**：如果您希望完全斷開應用程式與雲端服務的連接，請選擇「斷開連接」。請注意，選擇此選項將從應用程式的音樂庫中刪除與此雲端服務關聯的所有歌曲，但它們將保留在伺服器上。
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="已連接雲端儲存的更多操作選單" image="/docs/guide/evermusic/evermusic-guide-connections/img/connect-storage-more-actions.webp" >}}
+  {{< ls-card title="" subtitle="已連接雲端儲存的更多操作選單" image="/docs/guide/evermusic/evermusic-guide-connections/img/connect-storage-more-actions.webp" >}}
 {{< /cards >}}
 
 ## 連接電腦或 NAS
@@ -89,7 +89,7 @@ Auth token 是允許第三方應用程式與雲端儲存互動的數字密鑰。
 關於如何使用 SMB 連接 Mac 或 PC 的完整教學請參見[此處](/docs/howto/stream-your-music-from-mac-or-pc-to-iphone-using-smb/)。
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="SMB 連接設定" image="/docs/guide/evermusic/evermusic-guide-connections/img/connect-smb-settings.webp" >}}
+  {{< ls-card title="" subtitle="SMB 連接設定" image="/docs/guide/evermusic/evermusic-guide-connections/img/connect-smb-settings.webp" >}}
 {{< /cards >}}
 
 ## 使用 WebDAV 連接 NAS
@@ -99,7 +99,7 @@ URL 應為 http://server-name 格式，如果伺服器支援 SSL 則為 https://
 關於如何使用 WebDAV 協議連接 NAS 儲存的完整教學請參見[此處](/docs/howto/how-to-connect-nas-storage-using-webdav-and-listen-to-music-on-your-iphone-or-mac)。
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="WebDAV 連接設定" image="/docs/guide/evermusic/evermusic-guide-connections/img/connect-webdav-settings.webp" >}}
+  {{< ls-card title="" subtitle="WebDAV 連接設定" image="/docs/guide/evermusic/evermusic-guide-connections/img/connect-webdav-settings.webp" >}}
 {{< /cards >}}
 
 ## 使用 DLNA 連接電腦或 NAS
@@ -107,7 +107,7 @@ URL 應為 http://server-name 格式，如果伺服器支援 SSL 則為 https://
 您也可以使用 DLNA 協議共享位於 Windows PC 或個人 NAS 上的音樂庫，並在應用程式中存取該庫，如[此處](/docs/howto/how-to-enable-dlna-media-server-on-windows-10-and-play-your-music-on-iphone)所述。DLNA 是一種流行且廣泛使用的協議，但它只允許您播放或下載音樂。您無法上傳檔案或在伺服器上建立新資料夾。
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="DLNA 連接設定" image="/docs/guide/evermusic/evermusic-guide-connections/img/connect-dlna-settings.webp" >}}
+  {{< ls-card title="" subtitle="DLNA 連接設定" image="/docs/guide/evermusic/evermusic-guide-connections/img/connect-dlna-settings.webp" >}}
 {{< /cards >}}
 
 ## 可用設備
@@ -120,7 +120,7 @@ URL 應為 http://server-name 格式，如果伺服器支援 SSL 則為 https://
 - 如有需要，輸入您的登入資訊以完成連接。
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="區域網路上的可用設備" image="/docs/guide/evermusic/evermusic-guide-connections/img/connect-available-devices.webp" >}}
+  {{< ls-card title="" subtitle="區域網路上的可用設備" image="/docs/guide/evermusic/evermusic-guide-connections/img/connect-available-devices.webp" >}}
 {{< /cards >}}
 
 ## Wi-Fi Drive
@@ -146,7 +146,7 @@ Wi-Fi Drive 是一種便捷的技術，可通過桌面瀏覽器將檔案從電�
 您拖放的檔案將開始傳輸到 iOS 裝置，並可在應用程式中存取。
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Wi-Fi Drive 伺服器設定" image="/docs/guide/evermusic/evermusic-guide-connections/img/connect-wifidrive-settings.webp" >}}
+  {{< ls-card title="" subtitle="Wi-Fi Drive 伺服器設定" image="/docs/guide/evermusic/evermusic-guide-connections/img/connect-wifidrive-settings.webp" >}}
 {{< /cards >}}
 
 關於如何使用 WiFi-Drive 無線傳輸檔案的詳細說明請參見[此處](/docs/howto/how-to-transfer-files-wirelessly-from-a-computer-to-an-iphone-using-wifi-drive)。
@@ -162,7 +162,7 @@ iTunes 檔案共享是另一種技術，允許您使用 Mac 上的 Finder 應用
 關於如何使用 iTunes 檔案共享的詳細說明請參見[此處](/docs/howto/how-to-play-local-itunes-files-on-my-iphone/)。
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Mac 上的 iTunes / Finder 檔案共享" image="/docs/guide/evermusic/evermusic-guide-connections/img/connect-itunes-file-sharing.webp" >}}
+  {{< ls-card title="" subtitle="Mac 上的 iTunes / Finder 檔案共享" image="/docs/guide/evermusic/evermusic-guide-connections/img/connect-itunes-file-sharing.webp" >}}
 {{< /cards >}}
 
 ## 連接 USB 隨身碟
@@ -183,7 +183,7 @@ iTunes 檔案共享是另一種技術，允許您使用 Mac 上的 Finder 應用
 - **隨機播放**：類似於「全部播放」，但在將檔案新增到音訊播放器佇列之前對其進行隨機排序。
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="雲端資料夾內的頂部工具列" image="/docs/guide/evermusic/evermusic-guide-connections/img/connect-top-toolbar.webp" >}}
+  {{< ls-card title="" subtitle="雲端資料夾內的頂部工具列" image="/docs/guide/evermusic/evermusic-guide-connections/img/connect-top-toolbar.webp" >}}
 {{< /cards >}}
 
 ## 資料夾選項
@@ -200,7 +200,7 @@ iTunes 檔案共享是另一種技術，允許您使用 Mac 上的 Finder 應用
 - **網格/清單視圖**：在表格視圖和縮圖視圖兩種顯示模式之間切換。
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="當前資料夾的更多操作選單" image="/docs/guide/evermusic/evermusic-guide-connections/img/connect-folder-options.webp" >}}
+  {{< ls-card title="" subtitle="當前資料夾的更多操作選單" image="/docs/guide/evermusic/evermusic-guide-connections/img/connect-folder-options.webp" >}}
 {{< /cards >}}
 
 ## 編輯線上檔案
@@ -212,7 +212,7 @@ iTunes 檔案共享是另一種技術，允許您使用 Mac 上的 Finder 應用
 - **執行各種操作**：選擇要管理的檔案或資料夾後，您將可以存取多個操作。
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="線上檔案的選擇模式" image="/docs/guide/evermusic/evermusic-guide-connections/img/connect-selection-mode.webp" >}}
+  {{< ls-card title="" subtitle="線上檔案的選擇模式" image="/docs/guide/evermusic/evermusic-guide-connections/img/connect-selection-mode.webp" >}}
 {{< /cards >}}
 
 ## 檔案操作
@@ -233,7 +233,7 @@ iTunes 檔案共享是另一種技術，允許您使用 Mac 上的 Finder 應用
 - **刪除**：此操作會永久從雲端儲存中刪除檔案，此操作無法撤銷。
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="單個檔案的更多操作選單" image="/docs/guide/evermusic/evermusic-guide-connections/img/connect-single-folder-more-options.webp" >}}
+  {{< ls-card title="" subtitle="單個檔案的更多操作選單" image="/docs/guide/evermusic/evermusic-guide-connections/img/connect-single-folder-more-options.webp" >}}
 {{< /cards >}}
 
 如果操作清單超出可用螢幕空間，只需在操作選單中向下捲動以存取其他選項。

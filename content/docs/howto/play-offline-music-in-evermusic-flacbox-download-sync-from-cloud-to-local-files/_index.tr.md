@@ -7,7 +7,7 @@ tags: ["müzik", "ses", "oynatıcı", "çevrimdışı", "mod", "indirme", "klas�
 keywords: ["çevrimdışı müzik iPhone", "bulut müzik senkronizasyonu", "Evermusic çevrimdışı", "Flacbox müzik senkronizasyonu", "internetsiz müzik çalma", "buluttan ses indirme", "yerel dosya oynatma iOS"]
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **Özet:** Evermusic ve Flacbox, çevrimdışı oynatma için bulut depolamadan (Google Drive, Dropbox, OneDrive ve daha fazlası) iPhone veya iPad'inize müzik indirmenizi sağlar. Üç yöntem kullanabilirsiniz: doğrudan indirme, otomatik senkronizasyonlu çevrimdışı mod veya ses oynatıcı önbelleği. Bu kılavuz üç yaklaşımı da adım adım açıklar.
@@ -140,26 +140,26 @@ Bu ayrıntılı adımları izleyerek, Evermusic ve Flacbox ile yerel ve bulutta 
 
 ## Sıkça Sorulan Sorular
 
-{{% details title="Evermusic ve Flacbox hangi bulut hizmetlerini destekler?" closed="true" %}}
+{{% ls-details title="Evermusic ve Flacbox hangi bulut hizmetlerini destekler?" closed="true" %}}
 Her iki uygulama da Google Drive, Dropbox, OneDrive, Box, MEGA, Yandex.Disk ve diğer büyük bulut depolama sağlayıcılarını destekler. Aynı anda birden fazla hizmet bağlayabilirsiniz.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Bulut depolamadan iPhone'uma müziği otomatik olarak senkronize edebilir miyim?" closed="true" %}}
+{{% ls-details title="Bulut depolamadan iPhone'uma müziği otomatik olarak senkronize edebilir miyim?" closed="true" %}}
 Evet. Herhangi bir klasör, çalma listesi, albüm veya sanatçı için Çevrimdışı Modu etkinleştirin. Uygulama, yapılandırılabilir bir aralıkta (varsayılan: günde bir kez) buluttan cihaza tek yönlü senkronizasyon gerçekleştirir.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Çevrimdışı mod cihazımda çok fazla depolama alanı kullanır mı?" closed="true" %}}
+{{% ls-details title="Çevrimdışı mod cihazımda çok fazla depolama alanı kullanır mı?" closed="true" %}}
 Depolama kullanımı, müzik koleksiyonunuzun boyutuna ve dosya biçimlerine bağlıdır. Senkronize edilecek belirli klasörleri seçerek, önbellek boyutu sınırları ayarlayarak ve uygulama ayarlarında depolamayı izleyerek bunu kontrol edebilirsiniz.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Çevrimdışı oynatma için hangi ses biçimleri desteklenir?" closed="true" %}}
+{{% ls-details title="Çevrimdışı oynatma için hangi ses biçimleri desteklenir?" closed="true" %}}
 Evermusic ve Flacbox, MP3, FLAC, AAC, ALAC, WAV, AIFF, OGG, WMA ve diğer birçok biçimi destekler. Flacbox, FLAC ve ALAC gibi kayıpsız biçimler için optimize edilmiştir.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Uygulamayı kapattığımda çevrimdışı müziğim çalmaya devam eder mi?" closed="true" %}}
+{{% ls-details title="Uygulamayı kapattığımda çevrimdışı müziğim çalmaya devam eder mi?" closed="true" %}}
 Evet. İndirilen dosyalar cihazınızda yerel olarak depolanır ve internet bağlantısından bağımsız olarak uygulamanın ses oynatıcısı aracılığıyla çalınır. Arka plan oynatma tam olarak desteklenmektedir.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Çevrimdışı müziğin kapladığı alanı nasıl boşaltırım?" closed="true" %}}
+{{% ls-details title="Çevrimdışı müziğin kapladığı alanı nasıl boşaltırım?" closed="true" %}}
 Ayarlar > Dosya Yöneticisi > Senkrone edilmiş çevrimdışı klasörler bölümünde belirli klasörler için Çevrimdışı Modu devre dışı bırakın. Bu, cihazınızdan yerel kopyaları kaldırır. Ayrıca ses oynatıcı önbelleğini temizleyebilir veya indirilen dosyaları manuel olarak silebilirsiniz.
-{{% /details %}}
+{{% /ls-details %}}

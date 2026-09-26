@@ -12,7 +12,7 @@ authors:
     image: "/images/about/artem-meleshko-founder-everappz.webp"
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 ## Mengapa Mengeksport Catatan Blog dari Wix?
 
@@ -332,33 +332,33 @@ Perintah tunggal ini menyediakan persekitaran, mengikis semua catatan blog dari 
 Projek ini adalah sumber terbuka. Laporan pepijat, cadangan ciri, dan pull request dialu-alukan.
 
 {{< cards cols="1" >}}
-  {{< card link="https://github.com/everappz/wix-blog-export" title="Projek di GitHub" icon="github" tag="open source" >}}
+  {{< ls-card link="https://github.com/everappz/wix-blog-export" title="Projek di GitHub" icon="github" tag="open source" >}}
 {{< /cards >}}
 
 ---
 
 ## Soalan Lazim
 
-{{% details title="Mengapa saya tidak boleh menggunakan `requests` untuk mengikis catatan blog Wix?" closed="true" %}}
+{{% ls-details title="Mengapa saya tidak boleh menggunakan `requests` untuk mengikis catatan blog Wix?" closed="true" %}}
 Wix merender kandungan secara dinamik dengan JavaScript. Permintaan HTTP standard mengembalikan cangkerang halaman kosong. Selenium menjalankan pelayar tanpa kepala untuk mendapatkan HTML yang dirender sepenuhnya.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Adakah ini berfungsi dengan mana-mana blog Wix?" closed="true" %}}
+{{% ls-details title="Adakah ini berfungsi dengan mana-mana blog Wix?" closed="true" %}}
 Ya. Pengikis membaca XML peta laman blog dan memproses setiap URL. Anda hanya perlu mengemas kini pembolehubah `SITEMAP_URL` dalam `parse_blog_sitemap.py` untuk menunjuk ke peta laman tapak anda.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Model OpenAI mana yang digunakan?" closed="true" %}}
+{{% ls-details title="Model OpenAI mana yang digunakan?" closed="true" %}}
 Skrip menggunakan GPT-4o secara lalai. Anda boleh menukar pembolehubah `API_MODEL` dalam `generate_md.py` untuk menggunakan model lain.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Bolehkah saya menggunakan ini untuk berhijrah dari Wix ke Hugo?" closed="true" %}}
+{{% ls-details title="Bolehkah saya menggunakan ini untuk berhijrah dari Wix ke Hugo?" closed="true" %}}
 Ya. Output adalah Markdown standard dengan laluan imej tempatan, yang berfungsi terus dengan Hugo, Jekyll, Astro, dan penjana laman statik lain. Tambahkan front matter pada fail `_index.md` yang dijana untuk melengkapkan migrasi.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Berapakah kos API OpenAI untuk ini?" closed="true" %}}
+{{% ls-details title="Berapakah kos API OpenAI untuk ini?" closed="true" %}}
 Kos bergantung pada bilangan dan panjang catatan blog anda. Blog biasa dengan 50 catatan panjang sederhana berharga beberapa dolar dalam penggunaan API dengan GPT-4o.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Adakah alat ini sumber terbuka?" closed="true" %}}
+{{% ls-details title="Adakah alat ini sumber terbuka?" closed="true" %}}
 Ya. Kod sumber penuh tersedia di [GitHub](https://github.com/everappz/wix-blog-export) di bawah lesen sumber terbuka.
-{{% /details %}}
+{{% /ls-details %}}

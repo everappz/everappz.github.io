@@ -7,7 +7,7 @@ keywords: ["transférer des fichiers sans fil vers iPhone", "transfert de fichie
 readingTime: 2
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **En bref :** Wi-Fi Drive vous permet de transférer des fichiers depuis n'importe quel ordinateur vers votre iPhone ou iPad via Wi-Fi -- sans iTunes ni câbles. Utilisez un navigateur web, Mac Finder ou Windows File Explorer. Les deux appareils doivent être sur le même réseau Wi-Fi.
@@ -18,7 +18,7 @@ Vous pouvez transférer des fichiers sans fil en utilisant un navigateur web de 
 
 Vous pouvez regarder un tutoriel vidéo de [**TECHGUYPH**](https://www.youtube.com/channel/UCgpf09gGFE_c_3pPTtTpnzg) ou lire la version texte ci-dessous.
 <br><br>
-{{< youtubecard id="CqdqrQ0ge70" title="Can We Wirelessly Put Offline Music on iPhones?" >}}
+{{< ls-youtubecard id="CqdqrQ0ge70" title="Can We Wirelessly Put Offline Music on iPhones?" >}}
 
 ## Transférer des fichiers de l'ordinateur sans fil avec un navigateur web de bureau
 
@@ -90,26 +90,26 @@ iTunes n'est pas nécessaire !
 
 ## Questions fréquemment posées
 
-{{% details title="Ai-je besoin d'iTunes pour transférer des fichiers vers mon iPhone ?" closed="true" %}}
+{{% ls-details title="Ai-je besoin d'iTunes pour transférer des fichiers vers mon iPhone ?" closed="true" %}}
 Non. Wi-Fi Drive transfère les fichiers directement via votre réseau Wi-Fi local. iTunes n'est pas nécessaire.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Quelles applications prennent en charge Wi-Fi Drive ?" closed="true" %}}
+{{% ls-details title="Quelles applications prennent en charge Wi-Fi Drive ?" closed="true" %}}
 Wi-Fi Drive est disponible dans Evermusic, Flacbox, Evertag et Evervideo pour iOS.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Les deux appareils doivent-ils être sur le même réseau Wi-Fi ?" closed="true" %}}
+{{% ls-details title="Les deux appareils doivent-ils être sur le même réseau Wi-Fi ?" closed="true" %}}
 Oui. Votre ordinateur et votre iPhone ou iPad doivent être connectés au même réseau Wi-Fi local pour que Wi-Fi Drive fonctionne.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Puis-je transférer des dossiers entiers, pas seulement des fichiers individuels ?" closed="true" %}}
+{{% ls-details title="Puis-je transférer des dossiers entiers, pas seulement des fichiers individuels ?" closed="true" %}}
 Oui. Wi-Fi Drive prend en charge l'envoi et le téléchargement de dossiers entiers via l'interface du navigateur web.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Wi-Fi Drive fonctionne-t-il avec Windows ?" closed="true" %}}
+{{% ls-details title="Wi-Fi Drive fonctionne-t-il avec Windows ?" closed="true" %}}
 Oui. Vous pouvez utiliser n'importe quel navigateur web sur Windows ou vous connecter via Windows File Explorer en utilisant le protocole WebDAV.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Puis-je utiliser un câble USB pour accélérer le transfert ?" closed="true" %}}
+{{% ls-details title="Puis-je utiliser un câble USB pour accélérer le transfert ?" closed="true" %}}
 Oui. Si votre iPhone est connecté à votre Mac via USB pendant que Wi-Fi Drive fonctionne, le transfert utilisera la connexion par câble pour des vitesses plus rapides.
-{{% /details %}}
+{{% /ls-details %}}

@@ -7,7 +7,7 @@ tags: ["cloud", "streaming", "iphone", "mp3", "penyimpanan", "dropbox"]
 keywords: ["putar musik Dropbox iPhone", "musik offline Dropbox iOS", "Evermusic Dropbox", "pemutar mp3 cloud", "streaming audio Dropbox", "pengelola file Evermusic", "Dropbox iOS audio"]
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **Ringkasan:** Unggah musik Anda ke Dropbox, instal aplikasi gratis Evermusic di iPhone Anda, hubungkan akun Dropbox Anda, dan putar atau unduh lagu Anda untuk mendengarkan secara offline. Evermusic mendukung MP3, FLAC, WAV, AAC, dan lainnya. Aplikasi ini mencakup equalizer 10-band, daftar putar, dan pengelolaan file.
@@ -35,7 +35,7 @@ Evermusic sepenuhnya gratis dan tersedia untuk iPhone dan iPad, kompatibel denga
 
 {{< cards cols="1">}}
 
-  {{< card title="Unduh Evermusic" subtitle="Pemutar musik offline dan streamer cloud drive untuk iPhone dan iPad." icon="download" link="https://itunes.apple.com/us/app/evermusic-offline-music/id885367198?mt=8" >}}
+  {{< ls-card title="Unduh Evermusic" subtitle="Pemutar musik offline dan streamer cloud drive untuk iPhone dan iPad." icon="download" link="https://itunes.apple.com/us/app/evermusic-offline-music/id885367198?mt=8" >}}
 
 {{< /cards >}}
 
@@ -67,26 +67,26 @@ Evermusic juga merupakan pengelola file lengkap yang mendukung operasi dasar: ga
 
 ## FAQ
 
-{{% details title="Bisakah saya memutar musik Dropbox secara offline di iPhone saya?" closed="true" %}}
+{{% ls-details title="Bisakah saya memutar musik Dropbox secara offline di iPhone saya?" closed="true" %}}
 Ya. Gunakan Evermusic untuk menghubungkan Dropbox Anda, lalu unduh trek atau daftar putar apa pun untuk mendengarkan secara offline. File yang diunduh disimpan di perangkat Anda dan diputar tanpa koneksi internet.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Apakah Evermusic gratis?" closed="true" %}}
+{{% ls-details title="Apakah Evermusic gratis?" closed="true" %}}
 Evermusic gratis untuk diunduh dengan fitur inti termasuk equalizer, streaming cloud, dan pemutaran offline. Versi gratis mendukung hingga 3 koneksi cloud dan 10 daftar putar. Upgrade ke Premium menghapus semua batasan.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Format audio apa yang didukung Evermusic dari Dropbox?" closed="true" %}}
+{{% ls-details title="Format audio apa yang didukung Evermusic dari Dropbox?" closed="true" %}}
 Evermusic memutar MP3, FLAC, WAV, AAC, AIFF, OGG, WMA, dan banyak format lainnya langsung dari Dropbox.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Bisakah saya menghubungkan beberapa layanan cloud?" closed="true" %}}
+{{% ls-details title="Bisakah saya menghubungkan beberapa layanan cloud?" closed="true" %}}
 Ya. Evermusic mendukung Dropbox, Google Drive, OneDrive, Box, WebDAV, SMB, MEGA, dan lainnya. Anda dapat menghubungkan akun tanpa batas dan menjelajahi semuanya dalam satu perpustakaan.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Apakah Evermusic menyinkronkan daftar putar antar perangkat?" closed="true" %}}
+{{% ls-details title="Apakah Evermusic menyinkronkan daftar putar antar perangkat?" closed="true" %}}
 Daftar putar yang dibuat di Evermusic disimpan secara lokal di perangkat Anda. File Dropbox Anda tetap tersinkronisasi di semua perangkat melalui Dropbox itu sendiri.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Bagaimana cara membebaskan penyimpanan iPhone dengan musik Dropbox?" closed="true" %}}
+{{% ls-details title="Bagaimana cara membebaskan penyimpanan iPhone dengan musik Dropbox?" closed="true" %}}
 Pindahkan file musik Anda ke Dropbox dan streaming melalui Evermusic alih-alih menyimpannya di iPhone. Unduh hanya trek yang Anda butuhkan untuk mendengarkan secara offline.
-{{% /details %}}
+{{% /ls-details %}}

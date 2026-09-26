@@ -19,7 +19,7 @@ readingTime: 11
 Flacbox के साथ अपनी म्यूज़िक लाइब्रेरी प्रबंधित करना बेहद आसान है, जहाँ आप अपने सभी ट्रैक — लोकल FLAC, ALAC, DSD, MP3, M4A, OGG, WMA, APE और दर्जनों अन्य फ़ॉर्मेट — को एक एकल, खोजने योग्य संग्रह में आसानी से व्यवस्थित कर सकते हैं। आपके पास अपनी म्यूज़िक लाइब्रेरी बनाने के दो विकल्प हैं: मैन्युअल जोड़ना (आप ठीक-ठीक तय करते हैं कि क्या जोड़ा जाए) या स्वचालित सिंक्रनाइज़ेशन (Flacbox निर्दिष्ट क्लाउड फ़ोल्डरों को स्कैन करता है और प्रकट होते ही नई फाइलें स्वचालित रूप से जोड़ता है)।
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox Music Library Albums View" image="/docs/guide/flacbox/img/media-library-albums.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox Music Library Albums View" image="/docs/guide/flacbox/img/media-library-albums.webp" >}}
 {{< /cards >}}
 
 ## मैन्युअल जोड़ना
@@ -27,7 +27,7 @@ Flacbox के साथ अपनी म्यूज़िक लाइब्�
 ट्रैक मैन्युअल रूप से जोड़ने के लिए, ऊपर-बाईं ओर स्थित **Add Music** आइकन टैप करें और किसी कनेक्टेड क्लाउड स्टोरेज सेवा से फ़ोल्डर या फाइलें चुनें या अपने डिवाइस पर स्थित फाइलें चुनें। जब आप ट्रैक लाइब्रेरी में जोड़ते हैं, तो केवल उन ट्रैकों के लिंक बनाए जाते हैं — वास्तविक फाइलें मूल्यवान डिस्क स्थान बचाने के लिए अपने मूल स्थानों पर रहती हैं। यदि आप ट्रैकों को ऑफलाइन उपलब्ध कराना चाहते हैं, तो आप विकल्प मेनू से Download क्रिया का उपयोग कर सकते हैं या प्लेलिस्ट और ट्रैक संग्रहों के लिए Offline Mode सक्षम कर सकते हैं।
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox Add Songs to the Music Library" image="/docs/guide/flacbox/img/library-add-songs.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox Add Songs to the Music Library" image="/docs/guide/flacbox/img/library-add-songs.webp" >}}
 {{< /cards >}}
 
 आप Mac संस्करण पर लाइब्रेरी में फाइलें ड्रैग-एंड-ड्रॉप भी कर सकते हैं, या iPhone और iPad पर सिस्टम फ़ाइल पिकर से **Open Files…** / **Open Folder…** का उपयोग कर सकते हैं।
@@ -89,7 +89,7 @@ Flacbox के साथ अपनी म्यूज़िक लाइब्�
 खोज फीचर आपको अपनी म्यूज़िक लाइब्रेरी के भीतर किसी विशिष्ट ट्रैक, आर्टिस्ट, एल्बम या जॉनर को खोजने में सक्षम बनाता है। Search स्क्रीन के भीतर, आपके पास Sort, Filter और Grid / List व्यू क्रियाओं तक पहुंच है। खोज म्यूज़िक लाइब्रेरी डेटाबेस के खिलाफ लोकल रूप से चलती है, इसलिए यह पूरी तरह ऑफलाइन काम करती है और जैसे-जैसे आप टाइप करते हैं परिणाम दिखाती है।
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox Music Library Search" image="/docs/guide/flacbox/img/media-library-search.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox Music Library Search" image="/docs/guide/flacbox/img/media-library-search.webp" >}}
 {{< /cards >}}
 
 ## विकल्प मेनू
@@ -140,7 +140,7 @@ Albums, Artists, Genres या Composers जैसे गाने के सं
 यह बड़ी लाइब्रेरी में अव्यवस्थित "Various Artists" संकलनों को साफ करने के लिए विशेष रूप से उपयोगी है।
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox Album Detail Screen" image="/docs/guide/flacbox/img/media-library-album-details-screen.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox Album Detail Screen" image="/docs/guide/flacbox/img/media-library-album-details-screen.webp" >}}
 {{< /cards >}}
 
 ## सेटिंग्स

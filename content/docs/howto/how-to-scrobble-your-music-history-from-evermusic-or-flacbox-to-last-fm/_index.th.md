@@ -17,7 +17,7 @@ keywords: [
 readingTime: 2
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **สรุป:** ทั้ง Evermusic และ Flacbox มี Last.fm scrobbling ในตัว เชื่อมต่อบัญชีของคุณในส่วน **การเชื่อมต่อ** และทุกเพลงที่คุณเล่นจะถูกบันทึกโดยอัตโนมัติ -- แม้ในขณะที่คุณออฟไลน์ การตั้งค่าใช้เวลาน้อยกว่าหนึ่งนาที
@@ -66,22 +66,22 @@ readingTime: 2
 
 ## คำถามที่พบบ่อย
 
-{{% details title="Last.fm scrobbling ฟรีหรือไม่?" closed="true" %}}
+{{% ls-details title="Last.fm scrobbling ฟรีหรือไม่?" closed="true" %}}
 ใช่ Last.fm เสนอบัญชีฟรีที่รวม scrobbling เต็มรูปแบบ ประวัติการฟัง และคำแนะนำพื้นฐาน สมาชิกแบบชำระเงิน Last.fm Pro เพิ่มฟีเจอร์พิเศษบนเว็บไซต์ Last.fm แต่ไม่จำเป็นสำหรับ scrobbling จาก Evermusic หรือ Flacbox
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Scrobbling ทำงานเมื่อฉันออฟไลน์หรือไม่?" closed="true" %}}
+{{% ls-details title="Scrobbling ทำงานเมื่อฉันออฟไลน์หรือไม่?" closed="true" %}}
 ใช่ ทั้ง Evermusic และ Flacbox จัดเก็บประวัติการเล่นของคุณในเครื่อง เมื่อคุณกลับมาออนไลน์ แอปจะอัปโหลด scrobble ที่รอคิวไปยัง Last.fm โดยอัตโนมัติ
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="แอปเก็บข้อมูลรับรอง Last.fm ของฉันหรือไม่?" closed="true" %}}
+{{% ls-details title="แอปเก็บข้อมูลรับรอง Last.fm ของฉันหรือไม่?" closed="true" %}}
 ไม่ แอปจะบันทึกเฉพาะ access token ที่ปลอดภัยใน keychain ของอุปกรณ์ของคุณ ชื่อผู้ใช้และรหัสผ่านของคุณจะไม่ถูกจัดเก็บ
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="ฉันสามารถ scrobble จากทั้ง iPhone และ Mac ได้หรือไม่?" closed="true" %}}
+{{% ls-details title="ฉันสามารถ scrobble จากทั้ง iPhone และ Mac ได้หรือไม่?" closed="true" %}}
 ได้ Evermusic และ Flacbox รองรับ Last.fm scrobbling บน iPhone, iPad และ Mac เชื่อมต่อบัญชีของคุณในแต่ละอุปกรณ์ที่คุณต้องการติดตามการเล่น
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="ฉันจะหยุด scrobbling โดยไม่ลบบัญชี Last.fm ได้อย่างไร?" closed="true" %}}
+{{% ls-details title="ฉันจะหยุด scrobbling โดยไม่ลบบัญชี Last.fm ได้อย่างไร?" closed="true" %}}
 เปิดส่วน **การเชื่อมต่อ** ใน Evermusic หรือ Flacbox แล้วแตะ **ตัดการเชื่อมต่อ** ข้าง Last.fm การทำเช่นนี้จะลบ access token และหยุด scrobbling ขณะที่ยังคงรักษาบัญชีและประวัติ Last.fm ของคุณไว้
-{{% /details %}}
+{{% /ls-details %}}

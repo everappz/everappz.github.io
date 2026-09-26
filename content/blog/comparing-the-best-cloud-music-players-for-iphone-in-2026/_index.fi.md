@@ -12,7 +12,7 @@ authors:
     image: "/images/about/artem-meleshko-founder-everappz.webp"
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 ## Mikä pilvimusiikin soitin on paras iPhonelle?
 
@@ -91,22 +91,22 @@ Audiofiileille ja kenelle tahansa, joka ylläpitää henkilökohtaista musiikkik
 
 ## Usein kysytyt kysymykset
 
-{{% details title="Voinko toistaa FLAC-tiedostoja iPhonella muuntamatta niitä?" closed="true" %}}
+{{% ls-details title="Voinko toistaa FLAC-tiedostoja iPhonella muuntamatta niitä?" closed="true" %}}
 Kyllä. Evermusic toistaa FLAC:ia, DSD:tä, WAV:ia, ALAC:ia ja muita häviöttömiä muotoja natiivisti iPhonella. Tiedostojen muuntamista ei tarvita. Yhdistä vain pilvitallennustilisi ja suoratoista tai lataa FLAC-tiedostosi suoraan.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Mikä pilvimusiikin soitin toimii Dropboxin ja Google Driven kanssa?" closed="true" %}}
+{{% ls-details title="Mikä pilvimusiikin soitin toimii Dropboxin ja Google Driven kanssa?" closed="true" %}}
 Evermusic tukee Dropboxia, Google Drivea, OneDrivea, Boxia, MEGAa, pCloudia, WebDAVia, SMBia ja enemmän -- yhteensä yli 12 pilvipalvelua. Useimmat valtavirran suoratoistoapplikaatiot kuten Spotify ja Apple Music eivät yhdistä kolmannen osapuolen pilvitallennukseen.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Tarvitsenko tilauksen käyttääkseni pilvimusiikin soitinta?" closed="true" %}}
+{{% ls-details title="Tarvitsenko tilauksen käyttääkseni pilvimusiikin soitinta?" closed="true" %}}
 Se riippuu sovelluksesta. Spotify, Apple Music ja Deezer vaativat kuukausitilauksia. Evermusic tarjoaa ilmaisen tason ja kertamaksuisen Premium-ostoksen ilman toistuvia maksuja. Käytät omaa pilvitallennustasi musiikkitiedostojesi isännöimiseen.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Mikä on paras musiikkisoitin offline-kuunteluun iPhonella?" closed="true" %}}
+{{% ls-details title="Mikä on paras musiikkisoitin offline-kuunteluun iPhonella?" closed="true" %}}
 Kaikki tärkeimmät soittimet tukevat offline-latauksia, mutta lähestymistapa vaihtelee. Spotify ja Apple Music antavat sinun ladata kappaleita heidän katalogeistaan. Evermusic antaa sinun ladata omia tiedostojasi pilvitallennuksesta offline-toistoa varten -- ihanteellinen lennoille, pendelöintiin tai alueille ilman yhteyttä.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Voinko käyttää pilvimusiikin soitinta NAS-laitteeni tai kotipalvelimeni kanssa?" closed="true" %}}
+{{% ls-details title="Voinko käyttää pilvimusiikin soitinta NAS-laitteeni tai kotipalvelimeni kanssa?" closed="true" %}}
 Kyllä. Evermusic tukee WebDAV- ja SMB-protokollia, mikä tarkoittaa, että se voi yhdistää useimpiin Synologyn, QNAPin ja Western Digitalin NAS-laitteisiin. Tämä muuttaa iPhonesi etäsoittimeksi koko kodin musiikkikirjastolle.
-{{% /details %}}
+{{% /ls-details %}}

@@ -7,7 +7,7 @@ tags: ["audiolivros", "reprodução", "offline", "evermusic", "favorito"]
 readingTime: 5
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **Resumo:** O Evermusic funciona como um reprodutor de audiolivros completo no iOS e macOS. Transfira audiolivros via iTunes, WiFi ou armazenamento em nuvem e use o controle de velocidade de reprodução, botões de avanço/retrocesso, favoritos de áudio, continuação de reprodução e downloads offline para uma experiência de audição perfeita.
@@ -151,26 +151,26 @@ Boa audição!
 
 ## Perguntas Frequentes
 
-{{% details title="Quais formatos de audiolivros o Evermusic suporta?" closed="true" %}}
+{{% ls-details title="Quais formatos de audiolivros o Evermusic suporta?" closed="true" %}}
 O Evermusic suporta MP3, M4A, M4B, FLAC, WAV, AIFF, OGG e outros formatos de áudio comuns. Qualquer arquivo de áudio que toque no Evermusic funciona como audiolivro.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Posso ouvir audiolivros do armazenamento em nuvem?" closed="true" %}}
+{{% ls-details title="Posso ouvir audiolivros do armazenamento em nuvem?" closed="true" %}}
 Sim. O Evermusic conecta-se ao iCloud Drive, Google Drive, Dropbox, OneDrive, Box e servidores WebDAV. Você pode transmitir audiolivros diretamente ou baixá-los para audição offline.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Meus favoritos serão transferidos para um novo dispositivo?" closed="true" %}}
+{{% ls-details title="Meus favoritos serão transferidos para um novo dispositivo?" closed="true" %}}
 Sim. O Evermusic salva os favoritos de áudio nos metadados do arquivo, então eles são transferidos automaticamente quando você move os arquivos para um novo dispositivo.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="O Evermusic lembra onde parei de ouvir?" closed="true" %}}
+{{% ls-details title="O Evermusic lembra onde parei de ouvir?" closed="true" %}}
 Sim. Ative "Salvar Posição de Reprodução" e "Salvar Estado do Reprodutor de Áudio" em Configurações > Reprodutor de Áudio > Geral. O aplicativo salva e restaura sua posição exata entre as sessões.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Posso ajustar a velocidade de reprodução do audiolivro?" closed="true" %}}
+{{% ls-details title="Posso ajustar a velocidade de reprodução do audiolivro?" closed="true" %}}
 Sim. Vá para Configurações > Reprodutor de Áudio > Velocidade de Reprodução para definir sua velocidade preferida. Você pode acelerar ou desacelerar a narração para corresponder à sua preferência de audição.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Como transfiro audiolivros para o Evermusic?" closed="true" %}}
+{{% ls-details title="Como transfiro audiolivros para o Evermusic?" closed="true" %}}
 Você pode transferir arquivos via compartilhamento de arquivos do iTunes/Finder, WiFi Drive (integrado ao aplicativo) ou conectando uma conta de armazenamento em nuvem dentro do Evermusic.
-{{% /details %}}
+{{% /ls-details %}}

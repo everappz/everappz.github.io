@@ -11,7 +11,7 @@ readingTime: 3
 Evervideo nudi i besplatnu verziju s određenim ograničenjima korištenja i premium verziju s dodatnim značajkama, koje se mogu otključati kupnjama unutar aplikacije.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Zaslon nadogradnje zadanog plana" image="/docs/faq/evervideo/what-is-the-difference-between-evervideo-and-evervideo-premium/upgrade-default.webp" >}}
+  {{< ls-card title="" subtitle="Zaslon nadogradnje zadanog plana" image="/docs/faq/evervideo/what-is-the-difference-between-evervideo-and-evervideo-premium/upgrade-default.webp" >}}
 {{< /cards >}}
 
 ## Odaberite Premium plan
@@ -19,7 +19,7 @@ Evervideo nudi i besplatnu verziju s određenim ograničenjima korištenja i pre
 Besplatna verzija aplikacije nudi jednokratnu doživotnu kupnju unutar aplikacije i dvije opcije pretplate (1 mjesec i 1 godina) za uklanjanje svih ograničenja i nadogradnju na Premium verziju, omogućujući vam da odaberete najbolju i najpovoljniju cijenu za vas. Cijene se mogu razlikovati ovisno o vašoj državi ili teritoriju. Također, imajte na umu da je **Family Sharing** omogućen za sve kupnje i planove, tako da možete dijeliti Premium verziju s članovima vaše obitelji.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Zaslon odabira plana Evervideo" image="/docs/faq/evervideo/what-is-the-difference-between-evervideo-and-evervideo-premium/plan-select.webp" >}}
+  {{< ls-card title="" subtitle="Zaslon odabira plana Evervideo" image="/docs/faq/evervideo/what-is-the-difference-between-evervideo-and-evervideo-premium/plan-select.webp" >}}
 {{< /cards >}}
 
 ## Dijeljenje kupnji između iOS-a i Maca
@@ -31,13 +31,13 @@ Možete pokušati i pritisnuti gumb "Restore Purchases" u postavkama aplikacije.
 Za obnavljanje kupnje na novom uređaju jednostavno koristite izbornik "Restore purchases". Vidjet ćete popis kupnji. Ako ne vidite sve kupnje, provjerite je li uređaj povezan s istim iTunes računom koji je korišten za kupnje i provjerite je li iCloud omogućen.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Zaslon obnovljene kupnje" image="/docs/faq/evervideo/what-is-the-difference-between-evervideo-and-evervideo-premium/purchase-restored.webp" >}}
+  {{< ls-card title="" subtitle="Zaslon obnovljene kupnje" image="/docs/faq/evervideo/what-is-the-difference-between-evervideo-and-evervideo-premium/purchase-restored.webp" >}}
 {{< /cards >}}
 
 Nakon što nadogradite aplikaciju, vidjet ćete zaslon s Premium statusom s detaljima vaših trenutnih kupnji.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Koristite Premium zaslon" image="/docs/faq/evervideo/what-is-the-difference-between-evervideo-and-evervideo-premium/you-are-using-premium.webp" >}}
+  {{< ls-card title="" subtitle="Koristite Premium zaslon" image="/docs/faq/evervideo/what-is-the-difference-between-evervideo-and-evervideo-premium/you-are-using-premium.webp" >}}
 {{< /cards >}}
 
 ## Isprobajte Premium besplatno
@@ -45,7 +45,7 @@ Nakon što nadogradite aplikaciju, vidjet ćete zaslon s Premium statusom s deta
 Dodatno, postoji ograničena vremenska prilika za "**Isprobaj Premium besplatno**". Ovoj značajci možete pristupiti putem izbornika "Isprobaj Premium besplatno". Jednostavnim gledanjem reklame ili širenjem vijesti o aplikaciji prijateljima, možete otključati Premium verziju besplatno tijekom ovog promotivnog razdoblja. To vam pruža priliku da iskusite premium značajke bez ikakvog financijskog obvezivanja.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Zaslon Isprobaj Premium besplatno" image="/docs/faq/evervideo/what-is-the-difference-between-evervideo-and-evervideo-premium/premium-for-free.webp" >}}
+  {{< ls-card title="" subtitle="Zaslon Isprobaj Premium besplatno" image="/docs/faq/evervideo/what-is-the-difference-between-evervideo-and-evervideo-premium/premium-for-free.webp" >}}
 {{< /cards >}}
 
 ## Evervideo Free
@@ -62,7 +62,7 @@ Dodatno, postoji ograničena vremenska prilika za "**Isprobaj Premium besplatno*
 - Bez opcija prilagodbe ili personalizacije.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Zaslon nadogradnje pohrane u oblaku" image="/docs/faq/evervideo/what-is-the-difference-between-evervideo-and-evervideo-premium/upgrade-cloud-storage.webp" >}}
+  {{< ls-card title="" subtitle="Zaslon nadogradnje pohrane u oblaku" image="/docs/faq/evervideo/what-is-the-difference-between-evervideo-and-evervideo-premium/upgrade-cloud-storage.webp" >}}
 {{< /cards >}}
 
 ## Evervideo Premium
@@ -106,7 +106,7 @@ Ako tek počinjete ili trebate samo osnovne značajke reprodukcije videa, **Ever
 S druge strane, **Evervideo Premium** otključava potpuno iskustvo. Uživat ćete u sučelju bez oglasa, neograničenoj podršci za popise za reproduciranje i red, punoj izvanmrežnoj funkcionalnosti, fleksibilnosti oblaka te naprednim opcijama izvoza i personalizacije. Ovo je najbolja opcija za korisnike s velikim video bibliotekama, one koji gledaju sadržaj iz više izvora ili bilo koga tko traži profesionalniji i neprekinutiji media player.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Kupili ste Premium zaslon" image="/docs/faq/evervideo/what-is-the-difference-between-evervideo-and-evervideo-premium/you-have-purchased-premium.webp" >}}
+  {{< ls-card title="" subtitle="Kupili ste Premium zaslon" image="/docs/faq/evervideo/what-is-the-difference-between-evervideo-and-evervideo-premium/you-have-purchased-premium.webp" >}}
 {{< /cards >}}
 
 Ako tražite fleksibilnost, isprobajte **mjesečni plan**. Za dugoročnu vrijednost, odaberite **godišnju** ili **doživotnu** nadogradnju — obje nude puni pristup po boljoj cijeni.

@@ -17,7 +17,7 @@ keywords: [
 readingTime: 2
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **Sammanfattning:** Både Evermusic och Flacbox har inbyggd Last.fm scrobbling. Anslut ditt konto i avsnittet **Anslutningar**, och varje spår du spelar loggas automatiskt -- även när du är offline. Konfigurationen tar mindre än en minut.
@@ -66,22 +66,22 @@ Att scrobbla din musikhistorik från Evermusic eller Flacbox till [Last.fm](http
 
 ## Vanliga frågor
 
-{{% details title="Är Last.fm scrobbling gratis?" closed="true" %}}
+{{% ls-details title="Är Last.fm scrobbling gratis?" closed="true" %}}
 Ja. Last.fm erbjuder ett gratis konto som inkluderar full scrobbling, lyssningshistorik och grundläggande rekommendationer. En betald Last.fm Pro-prenumeration lägger till extra funktioner på Last.fm-webbplatsen men krävs inte för scrobbling från Evermusic eller Flacbox.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Fungerar scrobbling när jag är offline?" closed="true" %}}
+{{% ls-details title="Fungerar scrobbling när jag är offline?" closed="true" %}}
 Ja. Både Evermusic och Flacbox lagrar din uppspelningshistorik lokalt. När du kommer tillbaka online laddar apparna automatiskt upp de köade scrobblarna till Last.fm.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Lagras mina Last.fm-inloggningsuppgifter av appen?" closed="true" %}}
+{{% ls-details title="Lagras mina Last.fm-inloggningsuppgifter av appen?" closed="true" %}}
 Nej. Appen sparar bara en säker åtkomsttoken i enhetens nyckelring. Ditt användarnamn och lösenord lagras inte.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Kan jag scrobbla från både iPhone och Mac?" closed="true" %}}
+{{% ls-details title="Kan jag scrobbla från både iPhone och Mac?" closed="true" %}}
 Ja. Evermusic och Flacbox stöder Last.fm scrobbling på iPhone, iPad och Mac. Anslut ditt konto på varje enhet där du vill spåra uppspelningar.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Hur stoppar jag scrobbling utan att radera mitt Last.fm-konto?" closed="true" %}}
+{{% ls-details title="Hur stoppar jag scrobbling utan att radera mitt Last.fm-konto?" closed="true" %}}
 Öppna avsnittet **Anslutningar** i Evermusic eller Flacbox och tryck på **Koppla bort** bredvid Last.fm. Detta tar bort åtkomsttoken och stoppar scrobbling medan ditt Last.fm-konto och din historik förblir intakta.
-{{% /details %}}
+{{% /ls-details %}}

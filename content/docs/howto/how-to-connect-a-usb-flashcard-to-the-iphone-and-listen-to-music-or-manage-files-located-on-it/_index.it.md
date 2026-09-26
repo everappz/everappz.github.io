@@ -7,7 +7,7 @@ tags: ["musica", "file", "usb", "flash", "esterno", "ixpand", "riprodurre", "sch
 readingTime: 2
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **Riepilogo:** Collega una chiavetta USB o una scheda SD al tuo iPhone usando un adattatore Apple o un'unità SanDisk iXpand, quindi usa Evermusic, Flacbox o Evertag per sfogliare, riprodurre e gestire i tuoi file audio direttamente dall'archiviazione esterna.
@@ -72,18 +72,18 @@ Goditi la libertà di accedere e gestire la tua musica senza sforzo con questi s
 
 ## FAQ
 
-{{% details title="Quali adattatori USB funzionano con iPhone per la riproduzione musicale?" closed="true" %}}
+{{% ls-details title="Quali adattatori USB funzionano con iPhone per la riproduzione musicale?" closed="true" %}}
 Sia il Lightning to SD Card Camera Reader che il Lightning to USB 3 Camera Adapter di Apple funzionano. Gli adattatori USB-C funzionano sui nuovi iPhone con porte USB-C. Anche le unità SanDisk iXpand Flash (V1-V7) sono supportate nativamente da Evermusic, Flacbox ed Evertag.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Posso riprodurre musica direttamente dall'unità USB senza copiare i file?" closed="true" %}}
+{{% ls-details title="Posso riprodurre musica direttamente dall'unità USB senza copiare i file?" closed="true" %}}
 Sì. Con le unità SanDisk iXpand, puoi riprodurre musica direttamente dall'unità senza copiare file sul tuo iPhone. Quando usi adattatori Apple, i file vengono importati ma puoi scegliere se copiarli nell'archiviazione locale.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Quali formati audio sono supportati dalle unità USB?" closed="true" %}}
+{{% ls-details title="Quali formati audio sono supportati dalle unità USB?" closed="true" %}}
 Evermusic e Flacbox supportano un'ampia gamma di formati tra cui FLAC, MP3, AAC, WAV, ALAC, OGG, WMA e altri. Tutti i formati supportati funzionano durante la riproduzione dall'archiviazione USB.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Il mio SanDisk iXpand mostra un errore 'occupato'. Cosa devo fare?" closed="true" %}}
+{{% ls-details title="Il mio SanDisk iXpand mostra un errore 'occupato'. Cosa devo fare?" closed="true" %}}
 Un'altra app potrebbe star accedendo all'unità. Chiudi tutte le altre app che potrebbero utilizzare la chiavetta, oppure scollegala e reinseriscila. Poi riapri Evermusic, Flacbox o Evertag.
-{{% /details %}}
+{{% /ls-details %}}

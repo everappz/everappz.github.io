@@ -6,7 +6,7 @@ tags: ["muzik tempatan", "muzik luar talian", "pemain muzik", "iPhone", "Mac", "
 keywords: ["cara memainkan muzik tempatan di iPhone", "main muzik dari storan peranti", "pemain muzik luar talian iOS", "tutorial aplikasi Evermusic", "pemain FLAC Flacbox", "main balik fail tempatan iOS", "pustaka muzik Mac", "aplikasi muzik untuk fail tempatan", "iPhone main lagu dimuat turun", "cara menggunakan Evermusic dengan fail tempatan"]
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **Ringkasan:** Pasang [Evermusic](/products/evermusic) (MP3/WAV) atau [Flacbox](/products/flacbox) (FLAC/DSD), buka mana-mana fail audio atau folder tempatan, dan mulakan bermain. Tambah folder ke **Kegemaran** untuk akses pantas, import trek ke Pustaka Muzik anda, atau buat **Senarai Main**.
@@ -24,10 +24,10 @@ Kami akan meneroka kaedah dan alat untuk memainkan muzik tempatan anda dengan la
 Untuk memulakan perjalanan anda ke dunia muzik tempatan di iPhone dan Mac, mulakan dengan memasang sama ada Evermusic (untuk format audio standard seperti mp3 dan wav) atau Flacbox (untuk muzik tanpa rugi dalam dsd dan flac). Kedua-dua aplikasi ini tersedia untuk iOS dan MacOS, dan anda boleh memuat turunnya secara percuma.
 
 {{< cards >}}
-  {{< card link="https://apps.apple.com/us/app/evermusic-cloud-music-player/id885367198?pt=95781850&ct=everappzcom&mt=8" title="Muat Turun Evermusic untuk iOS" tag="iOS" >}}
-  {{< card link="https://apps.apple.com/us/app/flacbox-hi-res-equalizer/id1097564256?pt=95781850&ct=everappzcom&mt=8" title="Muat Turun Flacbox untuk iOS" tag="iOS" >}}
-  {{< card link="https://apps.apple.com/us/app/evermusic-hi-res-music-player/id1564384601?pt=95781850&ct=everappzcom&mt=8" title="Muat Turun Evermusic untuk Mac" tag="macOS" >}}
-  {{< card link="https://apps.apple.com/us/app/flacbox-hi-res-music-player/id1594027432?pt=95781850&ct=everappzcom&mt=8" title="Muat Turun Flacbox untuk Mac" tag="macOS" >}}
+  {{< ls-card link="https://apps.apple.com/us/app/evermusic-cloud-music-player/id885367198?pt=95781850&ct=everappzcom&mt=8" title="Muat Turun Evermusic untuk iOS" tag="iOS" >}}
+  {{< ls-card link="https://apps.apple.com/us/app/flacbox-hi-res-equalizer/id1097564256?pt=95781850&ct=everappzcom&mt=8" title="Muat Turun Flacbox untuk iOS" tag="iOS" >}}
+  {{< ls-card link="https://apps.apple.com/us/app/evermusic-hi-res-music-player/id1564384601?pt=95781850&ct=everappzcom&mt=8" title="Muat Turun Evermusic untuk Mac" tag="macOS" >}}
+  {{< ls-card link="https://apps.apple.com/us/app/flacbox-hi-res-music-player/id1594027432?pt=95781850&ct=everappzcom&mt=8" title="Muat Turun Flacbox untuk Mac" tag="macOS" >}}
 {{< /cards >}}
 
 
@@ -135,22 +135,22 @@ Dengan langkah-langkah mudah ini, anda boleh membuka potensi penuh iPhone dan Ma
 
 ## FAQ
 
-{{% details title="Apakah format audio yang boleh dimainkan oleh Evermusic dan Flacbox?" closed="true" %}}
+{{% ls-details title="Apakah format audio yang boleh dimainkan oleh Evermusic dan Flacbox?" closed="true" %}}
 Evermusic memainkan MP3, WAV, AAC, M4A, dan format standard lain. Flacbox menambah sokongan untuk FLAC, DSD, OGG, OPUS, APE, WMA, dan ALAC.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Adakah aplikasi ini menyalin fail ke storan aplikasi?" closed="true" %}}
+{{% ls-details title="Adakah aplikasi ini menyalin fail ke storan aplikasi?" closed="true" %}}
 Secara lalai, fail dimainkan dari lokasi asal tanpa disalin. Untuk menukar tingkah laku ini, aktifkan "Always copy files during opening" dalam **Tetapan** > File manager.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Bolehkah saya mengatur muzik tempatan mengikut artis dan album?" closed="true" %}}
+{{% ls-details title="Bolehkah saya mengatur muzik tempatan mengikut artis dan album?" closed="true" %}}
 Ya. Import fail ke Pustaka Muzik (Langkah 4) dan aplikasi membaca metadata untuk mengumpulkan trek mengikut Artis, Album, Genre, dan Komposer.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Bagaimana cara memindahkan muzik dari komputer ke iPhone?" closed="true" %}}
+{{% ls-details title="Bagaimana cara memindahkan muzik dari komputer ke iPhone?" closed="true" %}}
 Gunakan iTunes File Sharing (USB), WiFi Drive (tanpa wayar), atau SMB (penstriman). Lihat panduan terperinci kami: [Pindah dan Main Fail Tempatan di iPhone](/docs/howto/how-to-play-local-itunes-files-on-my-iphone/).
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Adakah Evermusic dan Flacbox percuma?" closed="true" %}}
+{{% ls-details title="Adakah Evermusic dan Flacbox percuma?" closed="true" %}}
 Ya, kedua-dua aplikasi percuma untuk dimuat turun dengan ciri teras termasuk main balik, penyama, dan penstriman awan. Versi percuma mempunyai beberapa had (bilangan **Senarai Main**, akaun awan, folder luar talian). Menaik taraf ke Premium membuang had ini.
-{{% /details %}}
+{{% /ls-details %}}

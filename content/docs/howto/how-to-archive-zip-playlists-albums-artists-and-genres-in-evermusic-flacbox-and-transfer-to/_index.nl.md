@@ -7,7 +7,7 @@ tags: ["evermusic", "flacbox", "archief", "back-up", "exporteren", "afspeellijst
 readingTime: 2
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **Samenvatting:** Evermusic en Flacbox kunnen elke afspeellijst, elk album, elke artiest of elk genre archiveren in een ZIP-bestand met een M3U-afspeellijst, albumhoes en alle audiobestanden. Zet de ZIP over naar een ander apparaat, pak het uit en importeer de M3U om de afspeellijst direct opnieuw op te bouwen.
@@ -104,22 +104,22 @@ Door deze handleiding te volgen, kunt u uw afspeellijsten, albums, artiesten of 
 
 ## Veelgestelde vragen
 
-{{% details title="Wat zit er in het ZIP-archief?" closed="true" %}}
+{{% ls-details title="Wat zit er in het ZIP-archief?" closed="true" %}}
 Het archief bevat alle audiobestanden, een M3U-afspeellijstbestand dat de nummersvolgorde bewaart, en de albumhoes van de afspeellijst opgeslagen als apart afbeeldingsbestand.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Werkt archiveren met cloudbestanden?" closed="true" %}}
+{{% ls-details title="Werkt archiveren met cloudbestanden?" closed="true" %}}
 Ja. De app downloadt automatisch alle in de cloud opgeslagen bestanden voordat ze aan het archief worden toegevoegd. U kunt de downloadvoortgang volgen in de sectie bestandsoverdrachten.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Kan ik ook albums, artiesten en genres archiveren?" closed="true" %}}
+{{% ls-details title="Kan ik ook albums, artiesten en genres archiveren?" closed="true" %}}
 Ja. De optie «Toevoegen aan archief» is beschikbaar voor afspeellijsten, albums, artiesten en genres. Het proces is voor allemaal identiek.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Hoe zet ik het archief over naar een ander apparaat?" closed="true" %}}
+{{% ls-details title="Hoe zet ik het archief over naar een ander apparaat?" closed="true" %}}
 U kunt de ZIP uploaden naar cloudopslag (Google Drive, Dropbox, enz.), AirDrop gebruiken of draadloos overzetten via de ingebouwde Wi-Fi Drive-functie in Evermusic en Flacbox.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Blijft de structuur van de afspeellijst behouden na overdracht?" closed="true" %}}
+{{% ls-details title="Blijft de structuur van de afspeellijst behouden na overdracht?" closed="true" %}}
 Ja. Het M3U-bestand slaat de afspeellijststructuur op met relatieve paden. Na het uitpakken op het nieuwe apparaat importeert u het M3U-bestand om de afspeellijst opnieuw op te bouwen met alle nummers in de oorspronkelijke volgorde.
-{{% /details %}}
+{{% /ls-details %}}

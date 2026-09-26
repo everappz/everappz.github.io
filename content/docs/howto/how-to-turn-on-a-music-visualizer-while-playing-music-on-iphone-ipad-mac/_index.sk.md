@@ -7,12 +7,12 @@ tags: ["Evermusic", "Flacbox", "Vizualizér", "Návod", "Milkdrop", "projectM", 
 readingTime: 9
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 **Krátka odpoveď:** [Evermusic](/products/evermusic) aj [Flacbox](/products/flacbox) majú celoobrazovkový **hudobný vizualizér**, ktorý maľuje pohyblivé, farebné vizuály v čase s vašou hudbou. Otvorte ho z prehrávača **Práve hrá** (**⋯ Viac > Vizualizácia**) alebo z **Nastavenia > Vizualizácia**, potom vyberte preset alebo **Auto** a ťuknite na **Spustiť vizualizáciu**. Na obrazovke vizualizéra ťuknite raz na zobrazenie alebo skrytie ovládania a použite šípky **Predchádzajúci** a **Ďalší** na zmenu vzhľadu. Používa dobre známy engine **Milkdrop (projectM)** s **500 presetmi**, vykresľuje s **OpenGL** a funguje na **iPhone, iPade a Macu**. Kroky sú v oboch aplikáciách rovnaké. Úplné kroky sú nižšie.
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Hudobný vizualizér: preset Starfield Sectors" image="/docs/howto/how-to-turn-on-a-music-visualizer-while-playing-music-on-iphone-ipad-mac/music-visualizer-starfield-sectors-preset.webp" imageStyle="border-radius: clamp(14px, 2vw, 28px);" >}}
+{{< ls-card title="" subtitle="Hudobný vizualizér: preset Starfield Sectors" image="/docs/howto/how-to-turn-on-a-music-visualizer-while-playing-music-on-iphone-ipad-mac/music-visualizer-starfield-sectors-preset.webp" imageStyle="border-radius: clamp(14px, 2vw, 28px);" >}}
 {{< /cards >}}
 
 ## Čo je vizualizér?
@@ -85,50 +85,50 @@ Tak či onak vizuály reagujú na presný zvuk, ktorý prehrávate, či už je t
 
 ## Časté otázky
 
-{{% details title="Ako zapnem vizualizér v Evermusic alebo Flacboxe?" closed="true" %}}
+{{% ls-details title="Ako zapnem vizualizér v Evermusic alebo Flacboxe?" closed="true" %}}
 Otvorte prehrávač Práve hrá, ťuknite na tlačidlo ⋯ (Viac) a zvoľte Vizualizácia. Môžete ho tiež otvoriť z Nastavenia > Vizualizácia. Potom vyberte preset (alebo Auto) a ťuknite na Spustiť vizualizáciu. Kroky sú v oboch aplikáciách rovnaké.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Na čom je vizualizér založený?" closed="true" %}}
+{{% ls-details title="Na čom je vizualizér založený?" closed="true" %}}
 Používa open-source engine projectM, ktorý prehráva presety v štýle Milkdrop. Sú to animované, na hudbu reagujúce vizuály, ktoré mnohí ľudia poznajú z desktopových hudobných prehrávačov. Evermusic aj Flacbox obsahujú 500 presetov a kreslia ich pomocou OpenGL.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Koľko presetov vizualizéra je?" closed="true" %}}
+{{% ls-details title="Koľko presetov vizualizéra je?" closed="true" %}}
 500 presetov. Každý z nich je iná animovaná scéna a môžete cez ne prechádzať šípkami Ďalší a Predchádzajúci, alebo nechať režim Auto prechádzať cez ne za vás.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Reaguje vizualizér na hudbu?" closed="true" %}}
+{{% ls-details title="Reaguje vizualizér na hudbu?" closed="true" %}}
 Áno. Vizuály reagujú na zvuk, ktorý prehrávate, v reálnom čase, takže tvary, farby a pohyb sa menia s rytmom a energiou skladby. Funguje s lokálnymi súbormi, cloudovými úložiskami, mediálnymi servermi a internetovým rádiom.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Ako zmením preset vizualizéra?" closed="true" %}}
+{{% ls-details title="Ako zmením preset vizualizéra?" closed="true" %}}
 Ťuknite na obrazovku raz na zobrazenie ovládania, potom použite šípky Predchádzajúci a Ďalší dole na prechádzanie medzi presetmi. Názov a počítadlo hore (napríklad 429 / 500) sa aktualizujú, ako ich meníte. Môžete tiež spustiť v režime Auto, aby aplikácia prepínala presety automaticky.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Čo je režim Auto?" closed="true" %}}
+{{% ls-details title="Čo je režim Auto?" closed="true" %}}
 Režim Auto, zvolený z výberu presetu, prechádza presetmi sám, prepínajúc na nový každých 30 sekúnd s plynulým prelínaním. Je to najjednoduchší spôsob, ako si užiť show bez dotknutia sa obrazovky.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Ako skryjem ovládanie na obrazovke?" closed="true" %}}
+{{% ls-details title="Ako skryjem ovládanie na obrazovke?" closed="true" %}}
 Ťuknite na obrazovku raz na skrytie ovládania pre čistý, celoobrazovkový pohľad, a ťuknite znova, aby ste ho vrátili. Ovládanie sa tiež skryje samo po pár sekundách.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Funguje vizualizér na Macu?" closed="true" %}}
+{{% ls-details title="Funguje vizualizér na Macu?" closed="true" %}}
 Áno. Na Macu Evermusic aj Flacbox otvoria vizualizér vo vlastnom okne a kreslia ho pomocou natívneho desktopového OpenGL, takže dostanete tie isté na hudbu reagujúce vizuály Milkdrop na veľkej obrazovke.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Funguje vizualizér na iPhone a iPade?" closed="true" %}}
+{{% ls-details title="Funguje vizualizér na iPhone a iPade?" closed="true" %}}
 Áno. Na iPhone a iPade beží na celej obrazovke, kreslený pomocou OpenGL ES pre plynulú animáciu na Retina displejoch.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Ztmaví sa alebo zamkne moja obrazovka, kým vizualizér beží?" closed="true" %}}
+{{% ls-details title="Ztmaví sa alebo zamkne moja obrazovka, kým vizualizér beží?" closed="true" %}}
 Nie. Aplikácia udržuje obrazovku rozsvietenú, kým je vizualizér zapnutý, takže show nebude prerušená stmavením alebo zamknutím displeja.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Zapamätá si aplikácia môj zvolený preset?" closed="true" %}}
+{{% ls-details title="Zapamätá si aplikácia môj zvolený preset?" closed="true" %}}
 Áno. Posledný preset, ktorý ste vybrali, je uložený a zvýraznený vo výbere presetu, takže je ľahké sa vrátiť k svojmu obľúbenému.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Kde sa zobrazuje názov aktuálneho presetu?" closed="true" %}}
+{{% ls-details title="Kde sa zobrazuje názov aktuálneho presetu?" closed="true" %}}
 Hore v strede obrazovky vizualizéra, spolu s počítadlom ako 429 / 500, ktoré ukazuje, na ktorom presete ste z celej sady. Na príkladovej snímke obrazovky je preset Starfield Sectors.
-{{% /details %}}
+{{% /ls-details %}}

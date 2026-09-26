@@ -17,7 +17,7 @@ keywords: [
 readingTime: 3
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **In breve:** Collega il tuo iPhone o iPad al Mac (o PC) con un cavo USB. Su macOS Catalina e versioni successive, usa Finder. Su versioni precedenti di macOS o Windows, usa iTunes. Trascina i file in un'app come Evermusic, Flacbox o Evertag per trasferirli istantaneamente.
@@ -117,26 +117,26 @@ Con la condivisione file di iTunes, puoi gestire facilmente i file tra il comput
 
 ## Domande frequenti
 
-{{% details title="Ho bisogno di una connessione internet per trasferire file tramite USB?" closed="true" %}}
+{{% ls-details title="Ho bisogno di una connessione internet per trasferire file tramite USB?" closed="true" %}}
 No. La condivisione file funziona interamente tramite la connessione via cavo USB tra il computer e il dispositivo iOS. Non è necessario internet.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Quali formati di file posso trasferire su Evermusic o Flacbox?" closed="true" %}}
+{{% ls-details title="Quali formati di file posso trasferire su Evermusic o Flacbox?" closed="true" %}}
 Entrambe le app supportano un'ampia gamma di formati audio tra cui MP3, FLAC, AAC, WAV, AIFF, OGG, WMA e altri. Consulta la documentazione dell'app per l'elenco completo dei formati supportati.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Perché non vedo la scheda File nel Finder?" closed="true" %}}
+{{% ls-details title="Perché non vedo la scheda File nel Finder?" closed="true" %}}
 La scheda File appare solo quando il dispositivo ha almeno un'app installata che supporta la condivisione file. Installa Evermusic, Flacbox o Evertag, quindi ricollega il dispositivo.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Posso trasferire file in modalità wireless invece di usare un cavo USB?" closed="true" %}}
+{{% ls-details title="Posso trasferire file in modalità wireless invece di usare un cavo USB?" closed="true" %}}
 Sì. Evermusic e Flacbox supportano anche servizi di archiviazione cloud e trasferimento Wi-Fi. Tuttavia, la condivisione file USB tramite Finder o iTunes è generalmente più veloce per grandi librerie musicali.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Il trasferimento di file tramite Finder sovrascriverà i file esistenti sul mio dispositivo?" closed="true" %}}
+{{% ls-details title="Il trasferimento di file tramite Finder sovrascriverà i file esistenti sul mio dispositivo?" closed="true" %}}
 No. I nuovi file vengono aggiunti accanto a quelli esistenti. Se esiste già un file con lo stesso nome, macOS potrebbe rinominare automaticamente il nuovo file.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Questo metodo funziona con i PC Windows?" closed="true" %}}
+{{% ls-details title="Questo metodo funziona con i PC Windows?" closed="true" %}}
 Sì. Su Windows, usa iTunes per trasferire i file. Il processo è lo stesso descritto nella sezione iTunes sopra. Installa iTunes dal Microsoft Store o dal sito web di Apple.
-{{% /details %}}
+{{% /ls-details %}}

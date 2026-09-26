@@ -20,16 +20,16 @@ headless: false
 ---
 
 <!-- force dark theme for this page -->
-{{< force-dark >}}
+{{< ls-force-dark >}}
 
-{{< dark-gradient-bg >}}
+{{< ls-dark-gradient-bg >}}
 
-{{< home-hero-banner >}}
+{{< ls-home-hero-banner >}}
 
 <div class="hx:mt-12"></div>
 
 <div class="hx:w-full">
-{{< hero-slideshow >}}
+{{< ls-hero-slideshow >}}
 </div>
 
 <div class="hx:mt-16"></div>
@@ -38,21 +38,21 @@ headless: false
 
 {{< hextra/feature-grid >}}
 
-  {{< hextra/feature-card
+  {{< ls-glass-feature-card
     title="Önnek készült. Ön által fejlesztve."
     subtitle=`Minden véleményt elolvasunk, és visszajelzéseit felhasználjuk minden frissítés javítására.`
     icon="code"
     style="background: radial-gradient(circle at 50% 80%, rgba(99,102,241,0.15), transparent);"
   >}}
 
-  {{< hextra/feature-card
+  {{< ls-glass-feature-card
     title="Teljesítmény és cél találkozása."
     subtitle=`Semmi felesleg. Csak tiszta, stabil alkalmazások fontos funkciókkal.`
     icon="presentation-chart-line"
     style="background: radial-gradient(circle at 50% 80%, rgba(236,72,153,0.15), transparent);"
   >}}
 
-  {{< hextra/feature-card
+  {{< ls-glass-feature-card
     title="Adatvédelem. Akadálymentesség. Egyszerűség."
     subtitle=`Könnyen használható, teljesen akadálymentes, és az Ön adatainak védelme szem előtt tartásával készült.`
     icon="shield-check"
@@ -66,20 +66,20 @@ headless: false
 <div class="hx:mt-12"></div>
 
 <div class="hx:w-full">
-{{< press-carousel >}}
+{{< ls-press-carousel >}}
 </div>
 
 <div class="hx:mt-12"></div>
 
-{{< hextra/section-headline >}}
+{{< ls-section-headline >}}
 Termékeink
-{{< /hextra/section-headline >}}
+{{< /ls-section-headline >}}
 
 <div class="hx:mt-6"></div>
 
 <div class="hx:w-full">
 
-{{< product-cards >}}
+{{< ls-product-cards >}}
 
 </div>
 
@@ -88,38 +88,38 @@ Termékeink
 <div class="hx:mt-6"></div>
 
 <div class="hx:w-full">
-{{< appstore-reviews apps="1097564256,1594027432,885367198,1564384601,1450763230,1594027661" stars="5,4" >}}
+{{< ls-appstore-reviews apps="1097564256,1594027432,885367198,1564384601,1450763230,1594027661" stars="5,4" >}}
 </div>
 
 <div class="hx:mt-6"></div>
 
-{{< hextra/section-headline >}}
+{{< ls-section-headline >}}
 Legfrissebb hírek
-{{< /hextra/section-headline >}}
+{{< /ls-section-headline >}}
 
 <div class="hx:mt-6"></div>
 
 <div class="hx:w-full">
 
-{{< blog-cards >}}
+{{< ls-blog-cards >}}
 
 </div>
 
 <div class="hx:mt-6"></div>
 
-{{< hextra/section-headline >}}
+{{< ls-section-headline >}}
 Feliratkozás
-{{< /hextra/section-headline >}}
+{{< /ls-section-headline >}}
 
 <div class="hx:mt-6"></div>
 
 <div class="hx:w-full hx:text-center">
 
-{{< hextra/hero-paragraph >}}
+{{< ls-hero-paragraph >}}
 Csatlakozzon azokhoz, akik megkapják a legfrissebb híreket és exkluzív ajánlatokat az Everappz csapattól.  
 Ne felejtsen el követni minket a közösségi médiában a legfrissebb hírekért és frissítésekért az alkalmazásról.  
 A feliratkozással elfogadja [Adatvédelmi irányelveinket](/legal/privacy-policy) és az [Általános Szerződési Feltételeket](/legal/terms-and-conditions/).
-{{< /hextra/hero-paragraph >}}
+{{< /ls-hero-paragraph >}}
 
 </div>
 
@@ -127,7 +127,7 @@ A feliratkozással elfogadja [Adatvédelmi irányelveinket](/legal/privacy-polic
 
 <div class="hx:w-full hx:text-center">
 
-{{< rawhtml >}}
+{{< ls-rawhtml >}}
 
 <form action="https://everappz.us10.list-manage.com/subscribe/post?u=f758cdf6a38df2a75513ac5f1&amp;id=2373740226" 
 method="post" 
@@ -167,7 +167,7 @@ style="position: absolute; width: 0; height: 0; overflow: hidden;" aria-hidden="
 class="not-prose hx:font-bold hx:cursor-pointer hx:px-6 hx:py-3 hx:rounded-full hx:text-center hx:text-white hx:inline-flex hx:items-center hx:gap-2 hx:bg-primary-600 hx:hover:bg-primary-700 hx:focus:outline-hidden hx:focus:ring-4 hx:focus:ring-primary-300 hx:dark:bg-primary-600 hx:dark:hover:bg-primary-700 hx:dark:focus:ring-primary-800 hx:transition-all hx:ease-in hx:duration-200" 
 style="outline: none; box-shadow: none;">Feliratkozás</button>
 
-{{< /rawhtml >}}
+{{< /ls-rawhtml >}}
 
 </div>
 

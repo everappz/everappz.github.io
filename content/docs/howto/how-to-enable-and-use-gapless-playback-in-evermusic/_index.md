@@ -9,7 +9,7 @@ aliases:
   - /post/how-to-enable-and-use-gapless-playback-in-evermusic/
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 **TL;DR:** Open **Settings > Audio player > Gapless playback** and turn the switch **ON**. From then on, songs play with no pause, click, or tick between them. Evermusic pre-buffers and decodes the next track while the current one is still playing, then hands off between audio samples on a continuous buffer, so the transition is truly seamless. It is real, sample-accurate gapless playback, not a crossfade.
 
@@ -75,30 +75,30 @@ The result is that a live album, a beat-matched DJ set, or a concept record play
 
 ## FAQ
 
-{{% details title="How do I turn on gapless playback in Evermusic?" closed="true" %}}
+{{% ls-details title="How do I turn on gapless playback in Evermusic?" closed="true" %}}
 Open Evermusic, go to Settings > Audio player > Gapless playback, and turn the switch ON. It is off by default. Once enabled, it applies to everything you play and stays on until you turn it off.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Is Evermusic's gapless playback real gapless or just crossfade?" closed="true" %}}
+{{% ls-details title="Is Evermusic's gapless playback real gapless or just crossfade?" closed="true" %}}
 It is real, sample-accurate gapless playback. Evermusic decodes and pre-buffers the next track while the current one plays, then hands off between audio samples on a continuous buffer, so no silence, click, or padding is inserted and no decoder restart gap occurs. Crossfade is a separate, different feature that overlaps and blends tracks; gapless keeps the audio exactly as mastered and only removes the gap.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Why do I still hear a gap between some tracks?" closed="true" %}}
+{{% ls-details title="Why do I still hear a gap between some tracks?" closed="true" %}}
 Make sure gapless playback is turned ON in Settings > Audio player > Gapless playback. If a gap remains, it may be baked into the recording itself (some files include a few seconds of real silence at the start or end of a track). Gapless removes the gap the player would normally add between tracks; it cannot remove silence that is part of the audio file.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Does gapless playback work with FLAC and other lossless files?" closed="true" %}}
+{{% ls-details title="Does gapless playback work with FLAC and other lossless files?" closed="true" %}}
 Yes. Gapless playback works with FLAC, Apple Lossless (ALAC), and lossy formats like MP3 and AAC, whether the files are stored locally, in the cloud, or on a media server.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Can I use gapless playback and crossfade at the same time?" closed="true" %}}
+{{% ls-details title="Can I use gapless playback and crossfade at the same time?" closed="true" %}}
 No. They do opposite things, so enabling gapless playback automatically disables crossfade. Use gapless for live albums, DJ mixes, and concept records where the audio should be preserved exactly; use crossfade if you want songs to fade into one another.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Does gapless playback work when streaming from the cloud?" closed="true" %}}
+{{% ls-details title="Does gapless playback work when streaming from the cloud?" closed="true" %}}
 Yes. Evermusic starts buffering and decoding the next track early, including for cloud drives and media servers, so the handoff stays seamless. On slower connections it simply begins preparing the next track a little sooner.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Does gapless playback reduce audio quality?" closed="true" %}}
+{{% ls-details title="Does gapless playback reduce audio quality?" closed="true" %}}
 No. Gapless playback does not re-encode or process your audio. It only changes how tracks are scheduled and buffered so there is no gap between them. Every sample is played exactly as it is in the file.
-{{% /details %}}
+{{% /ls-details %}}

@@ -3,7 +3,9 @@ date: '2025-06-12T17:00:00+00:00'
 title: 'Támogatás'
 ---
 
-{{< lottie src="/images/juicy-json/juicy-girl-is-working-on-laptop-at-a-remote-job.json" width="80%" >}}
+{{< ls-lottie src="/images/juicy-json/juicy-girl-is-working-on-laptop-at-a-remote-job.json" width="80%" >}}
+
+{{< ls-docs-search >}}
 
 ## Segítségre van szüksége? Itt vagyunk Önnek
 
@@ -19,9 +21,9 @@ A kapcsolatfelvétellel megerősíti, hogy elolvasta és elfogadja [Adatvédelmi
 Az idő megtakarítása és azonnali válaszok érdekében kérjük, tekintse meg leghasznosabb forrásainkat. Sok gyakori kérdés már meg van válaszolva:
 
 {{< cards >}}
-  {{< card icon="book-open" link="/docs/guide" title="Felhasználói útmutató" >}}
-  {{< card icon="question-mark-circle" link="/docs/faq" title="Gyakran ismételt kérdések" >}}
-  {{< card icon="light-bulb" link="/docs/howto" title="Útmutatók" >}}
+  {{< ls-card icon="book-open" link="/docs/guide" title="Felhasználói útmutató" >}}
+  {{< ls-card icon="question-mark-circle" link="/docs/faq" title="Gyakran ismételt kérdések" >}}
+  {{< ls-card icon="light-bulb" link="/docs/howto" title="Útmutatók" >}}
 {{< /cards >}}
 
 Ezek az útmutatók segítenek Önnek, hogy a legtöbbet hozza ki alkalmazásainkból — a beállítástól a haladó funkciókig.

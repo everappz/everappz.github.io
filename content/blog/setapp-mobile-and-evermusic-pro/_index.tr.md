@@ -12,7 +12,7 @@ authors:
     image: "/images/about/artem-meleshko-founder-everappz.webp"
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 ![](/blog/setapp-mobile-and-evermusic-pro/21260c_766c4fbc81e6433cb8fc21b9c2862ce0~mv2.png)
 
@@ -70,27 +70,27 @@ Kişisel depolamanızdan uzaktan yayın yapmak için **NAS, SMB paylaşımların
 Denemeye hazır mısınız? Setapp Mobile aracılığıyla Evermusic Pro edinin ve bulut müzik kütüphanenizi bugün yayınlamaya başlayın.
 
 {{< cards cols="1" >}}
-  {{< card link="https://go.setapp.com/stp435?_target=https://www.setapp.com/setapp-mobile&stc=mobile" title="Setapp Mobile ile Evermusic Pro İndirin" icon="download" >}}
+  {{< ls-card link="https://go.setapp.com/stp435?_target=https://www.setapp.com/setapp-mobile&stc=mobile" title="Setapp Mobile ile Evermusic Pro İndirin" icon="download" >}}
 {{< /cards >}}
 
 ## Sık Sorulan Sorular
 
-{{% details title="Evermusic Pro Setapp Mobile ile ücretsiz mi?" closed="true" %}}
+{{% ls-details title="Evermusic Pro Setapp Mobile ile ücretsiz mi?" closed="true" %}}
 Evet. Evermusic Pro ek maliyet olmadan Setapp Mobile aboneliğine dahildir. Tüm özellikleri açık tam premium sürümü alırsınız.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Evermusic Pro hangi bulut hizmetlerini destekliyor?" closed="true" %}}
+{{% ls-details title="Evermusic Pro hangi bulut hizmetlerini destekliyor?" closed="true" %}}
 Evermusic Pro Google Drive, Dropbox, OneDrive, iCloud, Box, MEGA, Yandex.Disk, pCloud, HiDrive ve WebDAV sunucularına bağlanır. Ayrıca SMB dosya paylaşımlarını ve NAS cihazlarını destekler.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Evermusic Pro ile çevrimdışı dinleyebilir miyim?" closed="true" %}}
+{{% ls-details title="Evermusic Pro ile çevrimdışı dinleyebilir miyim?" closed="true" %}}
 Evet. Uygulama içinde doğrudan bireysel parçaları, albümleri, sanatçıları veya tüm çalma listelerini çevrimdışı oynatma için indirebilirsiniz.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Evermusic Pro hangi ses formatlarını çalıyor?" closed="true" %}}
+{{% ls-details title="Evermusic Pro hangi ses formatlarını çalıyor?" closed="true" %}}
 Evermusic Pro FLAC, MP3, AAC, WAV, ALAC, AIFF, OPUS, OGG ve diğer birçok formatı destekler. Hem kayıpsız hem de kayıplı ses dosyalarını işler.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="iPhone için ayrı bir Setapp aboneliğine ihtiyacım var mı?" closed="true" %}}
+{{% ls-details title="iPhone için ayrı bir Setapp aboneliğine ihtiyacım var mı?" closed="true" %}}
 Setapp Mobile, iOS uygulamalarını içeren Setapp abonelik planının bir parçası olarak mevcuttur. Güncel fiyatlandırma ve plan seçenekleri için Setapp web sitesini kontrol edin.
-{{% /details %}}
+{{% /ls-details %}}

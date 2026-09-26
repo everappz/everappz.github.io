@@ -17,7 +17,7 @@ readingTime: 11
 स्क्रीन को स्पष्ट रूप से labeled sections में विभाजित किया गया है ताकि यह एकल iCloud Drive अकाउंट से लेकर कई clouds और NAS डिवाइस में फैली लाइब्रेरी तक scale कर सके: सबसे ऊपर Quick Access (आपके पसंदीदा क्लाउड फोल्डर), Cloud storage (आपके जोड़े गए अकाउंट), Local network (Bonjour-discovered devices), Computer (Wi-Fi Drive, iTunes File Sharing, SMB), External accessories (connected USB flash drives), और Other services (Last.fm और समान)।
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evermusic संपर्क स्क्रीन" image="/docs/guide/evermusic/evermusic-guide-connections/img/connect-main.webp" >}}
+  {{< ls-card title="" subtitle="Evermusic संपर्क स्क्रीन" image="/docs/guide/evermusic/evermusic-guide-connections/img/connect-main.webp" >}}
 {{< /cards >}}
 
 ## क्लाउड स्टोरेज से कनेक्ट करें
@@ -29,7 +29,7 @@ readingTime: 11
 - Done टैप करें।
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="क्लाउड स्टोरेज प्रोवाइडर पिकर कनेक्ट करें" image="/docs/guide/evermusic/evermusic-guide-connections/img/connect-add-storage.webp" >}}
+  {{< ls-card title="" subtitle="क्लाउड स्टोरेज प्रोवाइडर पिकर कनेक्ट करें" image="/docs/guide/evermusic/evermusic-guide-connections/img/connect-add-storage.webp" >}}
 {{< /cards >}}
 
 अगर कोई समस्या आए, तो अपना इंटरनेट कनेक्शन और login credentials दोबारा जांचें, और सुनिश्चित करें कि उस सेवा के लिए two-factor authentication सही तरीके से configure है।
@@ -70,7 +70,7 @@ Application connected cloud account से कोई information share नही
   - **Disconnect**: अगर आप app और cloud service के बीच connection पूरी तरह तोड़ना चाहते हैं, तो 'Disconnect' चुनें। ध्यान रखें कि यह option चुनने से इस cloud service से जुड़े सभी songs आपकी app की music library से हटा दिए जाएंगे, लेकिन वे server पर रहेंगे।
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Connected Cloud Storage अधिक क्रियाएँ मेनू" image="/docs/guide/evermusic/evermusic-guide-connections/img/connect-storage-more-actions.webp" >}}
+  {{< ls-card title="" subtitle="Connected Cloud Storage अधिक क्रियाएँ मेनू" image="/docs/guide/evermusic/evermusic-guide-connections/img/connect-storage-more-actions.webp" >}}
 {{< /cards >}}
 
 ## Computer या NAS से कनेक्ट करें
@@ -89,7 +89,7 @@ Application connected cloud account से कोई information share नही
 SMB का उपयोग करके अपना MAC या PC कनेक्ट करने के बारे में पूरा tutorial [यहां](/docs/howto/stream-your-music-from-mac-or-pc-to-iphone-using-smb/) उपलब्ध है।
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="SMB Connection सेटिंग्स" image="/docs/guide/evermusic/evermusic-guide-connections/img/connect-smb-settings.webp" >}}
+  {{< ls-card title="" subtitle="SMB Connection सेटिंग्स" image="/docs/guide/evermusic/evermusic-guide-connections/img/connect-smb-settings.webp" >}}
 {{< /cards >}}
 
 ## WebDAV का उपयोग करके NAS से कनेक्ट करें
@@ -99,7 +99,7 @@ URL इस format में होना चाहिए: http://server-name, �
 WebDAV protocol का उपयोग करके NAS connect करने के बारे में पूरा tutorial [यहां](/docs/howto/how-to-connect-nas-storage-using-webdav-and-listen-to-music-on-your-iphone-or-mac) उपलब्ध है।
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="WebDAV Connection सेटिंग्स" image="/docs/guide/evermusic/evermusic-guide-connections/img/connect-webdav-settings.webp" >}}
+  {{< ls-card title="" subtitle="WebDAV Connection सेटिंग्स" image="/docs/guide/evermusic/evermusic-guide-connections/img/connect-webdav-settings.webp" >}}
 {{< /cards >}}
 
 ## DLNA का उपयोग करके Computer या NAS से कनेक्ट करें
@@ -107,7 +107,7 @@ WebDAV protocol का उपयोग करके NAS connect करने क
 आप अपने Windows PC या personal NAS पर DLNA protocol का उपयोग करके एक music library share भी कर सकते हैं और उस library को app में [यहां](/docs/howto/how-to-enable-dlna-media-server-on-windows-10-and-play-your-music-on-iphone) वर्णित अनुसार access कर सकते हैं। DLNA एक popular और widely used protocol है, लेकिन यह केवल आपको music play या download करने देता है। आप server पर files upload नहीं कर सकते या नए folders नहीं बना सकते।
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="DLNA Connection सेटिंग्स" image="/docs/guide/evermusic/evermusic-guide-connections/img/connect-dlna-settings.webp" >}}
+  {{< ls-card title="" subtitle="DLNA Connection सेटिंग्स" image="/docs/guide/evermusic/evermusic-guide-connections/img/connect-dlna-settings.webp" >}}
 {{< /cards >}}
 
 ## उपलब्ध उपकरण
@@ -120,7 +120,7 @@ WebDAV protocol का उपयोग करके NAS connect करने क
 - अगर आवश्यक हो, connection complete करने के लिए अपना login details दर्ज करें।
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="लोकल नेटवर्क पर उपलब्ध उपकरण" image="/docs/guide/evermusic/evermusic-guide-connections/img/connect-available-devices.webp" >}}
+  {{< ls-card title="" subtitle="लोकल नेटवर्क पर उपलब्ध उपकरण" image="/docs/guide/evermusic/evermusic-guide-connections/img/connect-available-devices.webp" >}}
 {{< /cards >}}
 
 ## Wi-Fi Drive
@@ -146,7 +146,7 @@ Wi-Fi Drive का उपयोग करने के बारे में st
 जो files आप drag और drop करते हैं वे आपके iOS device पर transfer होना शुरू हो जाएंगी और application के भीतर accessible होंगी।
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Wi-Fi Drive Server सेटिंग्स" image="/docs/guide/evermusic/evermusic-guide-connections/img/connect-wifidrive-settings.webp" >}}
+  {{< ls-card title="" subtitle="Wi-Fi Drive Server सेटिंग्स" image="/docs/guide/evermusic/evermusic-guide-connections/img/connect-wifidrive-settings.webp" >}}
 {{< /cards >}}
 
 WiFi-Drive का उपयोग करके files wirelessly transfer करने के बारे में विस्तृत निर्देश [यहां](/docs/howto/how-to-transfer-files-wirelessly-from-a-computer-to-an-iphone-using-wifi-drive) उपलब्ध हैं।
@@ -162,7 +162,7 @@ iTunes File Sharing एक अन्य technology है जो आपको Fi
 iTunes file sharing का उपयोग करने के बारे में विस्तृत निर्देश [यहां](/docs/howto/how-to-play-local-itunes-files-on-my-iphone/) उपलब्ध हैं।
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Mac पर iTunes / Finder File Sharing" image="/docs/guide/evermusic/evermusic-guide-connections/img/connect-itunes-file-sharing.webp" >}}
+  {{< ls-card title="" subtitle="Mac पर iTunes / Finder File Sharing" image="/docs/guide/evermusic/evermusic-guide-connections/img/connect-itunes-file-sharing.webp" >}}
 {{< /cards >}}
 
 ## USB flashcard कनेक्ट करें
@@ -183,7 +183,7 @@ Top toolbar, navigation bar के नीचे conveniently located, आसा�
 - **सभी फेरबदल करें**: "सभी चलाएं" के समान, यह action current folder और उसके subfolders को scan करता है लेकिन audio player queue में जोड़ने से पहले files को shuffle करता है। यह थोड़ी variety के लिए random order में अपना music enjoy करने का एक बढ़िया तरीका है।
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="क्लाउड फोल्डर के अंदर Top Toolbar" image="/docs/guide/evermusic/evermusic-guide-connections/img/connect-top-toolbar.webp" >}}
+  {{< ls-card title="" subtitle="क्लाउड फोल्डर के अंदर Top Toolbar" image="/docs/guide/evermusic/evermusic-guide-connections/img/connect-top-toolbar.webp" >}}
 {{< /cards >}}
 
 ## Folder Options
@@ -200,7 +200,7 @@ Top toolbar, navigation bar के नीचे conveniently located, आसा�
 - **Grid/List View**: दो viewing modes के बीच switch करें: table view और thumbnail view। Table view files को list में present करता है, जबकि thumbnail view files के visual representations display करता है, जिससे content glance में identify करना आसान हो जाता है।
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Current Folder अधिक क्रियाएँ मेनू" image="/docs/guide/evermusic/evermusic-guide-connections/img/connect-folder-options.webp" >}}
+  {{< ls-card title="" subtitle="Current Folder अधिक क्रियाएँ मेनू" image="/docs/guide/evermusic/evermusic-guide-connections/img/connect-folder-options.webp" >}}
 {{< /cards >}}
 
 ## Online Files Edit करें
@@ -212,7 +212,7 @@ Top toolbar, navigation bar के नीचे conveniently located, आसा�
 - **विभिन्न Actions Perform करें**: एक बार जब आप वे files या folders select कर लें जिन्हें manage करना है, तो आपकी needs के अनुसार customized कई actions accessible होंगी:
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Online Files के लिए Selection Mode" image="/docs/guide/evermusic/evermusic-guide-connections/img/connect-selection-mode.webp" >}}
+  {{< ls-card title="" subtitle="Online Files के लिए Selection Mode" image="/docs/guide/evermusic/evermusic-guide-connections/img/connect-selection-mode.webp" >}}
 {{< /cards >}}
 
 ## File actions
@@ -233,7 +233,7 @@ File के title के पास, आपको एक ellipsis symbol "..." (t
 - **हटाना**: इस action के साथ सावधानी बरतें, क्योंकि यह file को आपके cloud storage से permanently remove करता है। यह deletion undone नहीं की जा सकती।
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Single File के लिए अधिक क्रियाएँ मेनू" image="/docs/guide/evermusic/evermusic-guide-connections/img/connect-single-folder-more-options.webp" >}}
+  {{< ls-card title="" subtitle="Single File के लिए अधिक क्रियाएँ मेनू" image="/docs/guide/evermusic/evermusic-guide-connections/img/connect-single-folder-more-options.webp" >}}
 {{< /cards >}}
 
 अगर actions की list available screen space से अधिक हो, तो additional options access करने के लिए actions menu के भीतर simply scroll down करें।

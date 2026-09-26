@@ -12,7 +12,7 @@ authors:
     image: "/images/about/artem-meleshko-founder-everappz.webp"
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 ## Evermusic: glazbeni player u oblaku za iPhone i iPad
 
@@ -22,7 +22,7 @@ Evermusic je cloud glazbeni player koji se povezuje s vašom osobnom pohranom u 
 
 ## Pogledajte promotivni video
 
-{{< youtubecard id="BwD0XLgdzEE" title="Evermusic Promo Video" >}}
+{{< ls-youtubecard id="BwD0XLgdzEE" title="Evermusic Promo Video" >}}
 
 ## Ključne značajke prikazane u videu
 
@@ -36,14 +36,14 @@ Evermusic je cloud glazbeni player koji se povezuje s vašom osobnom pohranom u 
 
 ## Često postavljana pitanja
 
-{{% details title="Što je Evermusic?" closed="true" %}}
+{{% ls-details title="Što je Evermusic?" closed="true" %}}
 Evermusic je cloud glazbeni player za iPhone i iPad. Povezuje se s uslugama pohrane u oblaku poput Dropbox, Google Drive i OneDrive, omogućujući vam streaming i preuzimanje vlastitih glazbenih datoteka. Podržava FLAC, MP3, AAC, WAV i druge audio formate.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Je li Evermusic besplatan za preuzimanje?" closed="true" %}}
+{{% ls-details title="Je li Evermusic besplatan za preuzimanje?" closed="true" %}}
 Da. Evermusic je besplatan za preuzimanje s osnovnim značajkama. Jednokratna Premium nadogradnja otključava ekvilajzer, crossfade i dodatne veze računa u oblaku.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Koje usluge u oblaku Evermusic podržava?" closed="true" %}}
+{{% ls-details title="Koje usluge u oblaku Evermusic podržava?" closed="true" %}}
 Evermusic podržava preko 12 cloud platformi uključujući iCloud Drive, Dropbox, Google Drive, OneDrive, Box, MEGA, Yandex.Disk, pCloud i bilo koji poslužitelj koji koristi WebDAV ili SMB protokole.
-{{% /details %}}
+{{% /ls-details %}}

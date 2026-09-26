@@ -12,7 +12,7 @@ authors:
     image: "/images/about/artem-meleshko-founder-everappz.webp"
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 **Samenvatting:** De beste iPhone muziekspeler hangt af van uw behoeften. **Evermusic** is ideaal voor cloudopslag-afspelen en formaatflexibiliteit. **Apple Music** past bij gebruikers die diep in het Apple-ecosysteem zitten. **Spotify** blinkt uit in muziekontdekking. **VLC** verwerkt elk bestandsformaat gratis. **Amazon Music** combineert goed met Alexa en Prime.
 
@@ -128,22 +128,22 @@ Amazon Music integreert met het Amazon-ecosysteem en biedt spraakbesturing via A
 
 ## FAQ
 
-{{% details title="Wat is de beste gratis muziekspeler voor iPhone?" closed="true" %}}
+{{% ls-details title="Wat is de beste gratis muziekspeler voor iPhone?" closed="true" %}}
 Voor het afspelen van uw eigen bestanden zijn Evermusic en VLC beide gratis opties. Evermusic voegt cloudopslag-integratie toe, terwijl VLC het breedste scala aan bestandsformaten ondersteunt.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Kan ik FLAC-bestanden afspelen op iPhone?" closed="true" %}}
+{{% ls-details title="Kan ik FLAC-bestanden afspelen op iPhone?" closed="true" %}}
 Ja. Evermusic en VLC ondersteunen beide FLAC-weergave op iPhone. Apple Music en Spotify spelen FLAC-bestanden niet rechtstreeks af.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Welke muziekspeler-app werkt met cloudopslag?" closed="true" %}}
+{{% ls-details title="Welke muziekspeler-app werkt met cloudopslag?" closed="true" %}}
 Evermusic is de toonaangevende iPhone muziekspeler met ingebouwde cloudopslag-ondersteuning. Het maakt verbinding met iCloud Drive, Dropbox, Google Drive, OneDrive, pCloud en andere diensten.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Is Evermusic beter dan Apple Music?" closed="true" %}}
+{{% ls-details title="Is Evermusic beter dan Apple Music?" closed="true" %}}
 Ze dienen verschillende doeleinden. Evermusic speelt uw eigen muziekbestanden af vanuit cloudopslag en lokale opslag. Apple Music is een streamingdienst op abonnementsbasis met een catalogus van 100M+ nummers. Als u uw eigen muziekbestanden bezit, is Evermusic de betere keuze.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Kan ik Spotify offline gebruiken op iPhone?" closed="true" %}}
+{{% ls-details title="Kan ik Spotify offline gebruiken op iPhone?" closed="true" %}}
 Ja, maar alleen met een Spotify Premium-abonnement. Gratis Spotify-gebruikers kunnen geen nummers downloaden voor offline afspelen.
-{{% /details %}}
+{{% /ls-details %}}

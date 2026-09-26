@@ -18,7 +18,7 @@ readingTime: 16
 Zaslon Postavki je upravljački centar Evermusicа. Odavde možete nadograditi na Premium, konfigurirati audio reproduktor, upravljati glazbenom bibliotekom, postaviti upravitelja datoteka, prilagoditi sučelje, omogućiti widgete i CarPlay, sigurnosno kopirati podatke i pristupiti pomoći i pravnim informacijama. Odjeljci su grupirani pod zaglavljima: **Kupnje i ažuriranja**, preferencije aplikacije, **Pomoć** i **Pravo i privatnost**.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Zaslon postavki Evermusicа" image="/docs/guide/evermusic/evermusic-guide-settings/img/settings-main-screen.webp" >}}
+  {{< ls-card title="" subtitle="Zaslon postavki Evermusicа" image="/docs/guide/evermusic/evermusic-guide-settings/img/settings-main-screen.webp" >}}
 {{< /cards >}}
 
 ## Kupnje i ažuriranja

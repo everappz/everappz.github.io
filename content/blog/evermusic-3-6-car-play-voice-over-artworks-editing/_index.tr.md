@@ -12,7 +12,7 @@ authors:
     image: "/images/about/artem-meleshko-founder-everappz.webp"
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 **TL;DR:** Evermusic 3.6, Apple CarPlay entegrasyonu, tam VoiceOver erişilebilirliği, karma ses çıkışı, otomatik oynatma devam ettirme, FLAC/MP3/AIFF için kapak ve etiket düzenleme ile iCloud Drive dosya içe aktarma özelliklerini ekler.
 
@@ -78,18 +78,18 @@ Müzik dosyalarını doğrudan iCloud Drive ve diğer uygulamalardan içe aktar�
 
 ## FAQ
 
-{{% details title="Evermusic CarPlay ile çalışır mı?" closed="true" %}}
+{{% ls-details title="Evermusic CarPlay ile çalışır mı?" closed="true" %}}
 Evet. Sürüm 3.6'dan itibaren Evermusic, Apple CarPlay'i tam olarak destekler. Müzik kütüphanenizi aracınızın dahili ekranından tarayabilir ve çalabilirsiniz.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Evermusic kör veya az gören kullanıcılar için erişilebilir mi?" closed="true" %}}
+{{% ls-details title="Evermusic kör veya az gören kullanıcılar için erişilebilir mi?" closed="true" %}}
 Evet. Evermusic 3.6, açıklayıcı etiketler, ipuçları ve basitleştirilmiş arayüz modu ile tam VoiceOver desteği içerir.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="iPhone'da Evermusic ile FLAC etiketlerini düzenleyebilir miyim?" closed="true" %}}
+{{% ls-details title="iPhone'da Evermusic ile FLAC etiketlerini düzenleyebilir miyim?" closed="true" %}}
 Evet. Evermusic, FLAC, MP3 ve AIFF dosyalarıyla çalışan dahili bir etiket düzenleyici içerir. Başlıkları, sanatçıları, albümleri ve kapakları düzenleyebilirsiniz.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Evermusic dinlemeyi bıraktığım yeri hatırlar mı?" closed="true" %}}
+{{% ls-details title="Evermusic dinlemeyi bıraktığım yeri hatırlar mı?" closed="true" %}}
 Evet. "Save Audio Player State" etkinleştirildiğinde, Evermusic uygulamayı yeniden açtığınızda sıranızı, mevcut parçanızı ve tam oynatma konumunuzu geri yükler.
-{{% /details %}}
+{{% /ls-details %}}

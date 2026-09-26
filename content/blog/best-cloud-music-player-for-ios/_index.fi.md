@@ -12,7 +12,7 @@ authors:
     image: "/images/about/artem-meleshko-founder-everappz.webp"
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 **Lyhyesti:** Evermusic on pilvimusiikin soitin iPhonelle ja iPadille, joka yhdistää Dropboxiin, Google Driveen, OneDriveen ja yli 9 muuhun pilvipalveluun. Se toistaa FLAC-, MP3-, WAV- ja muita formaatteja, tukee offline-latauksia ja sisältää taajuuskorjaimen sekä ID3-tunnisteiden muokkausohjelman. Ilmainen lataus kertaluonteisella Premium-päivityksellä. Yli 11 miljoonaa latausta, 4,6 tähden arvosana App Storessa.
 
@@ -20,7 +20,7 @@ authors:
 
 Katso täydellinen videoarvostelu käyttäjältä [@Massi_Media](https://www.youtube.com/@Massi_Media):
 
-{{< youtubecard id="pKUZmHy9dxc" >}}
+{{< ls-youtubecard id="pKUZmHy9dxc" >}}
 
 ## Mikä on paras pilvimusiikin soitin iPhonelle?
 
@@ -67,18 +67,18 @@ Koska Evermusic toimii tiedostoilla, jotka jo omistat, ja tallennustilalla, jost
 
 ## Usein kysytyt kysymykset
 
-{{% details title="Onko Evermusic todella ilmainen käyttää?" closed="true" %}}
+{{% ls-details title="Onko Evermusic todella ilmainen käyttää?" closed="true" %}}
 Kyllä, Evermusic tarjoaa ilmaisen tason, joka sisältää pilvi-yhteyden, suoratoiston ja offline-lataukset. Ilmainen versio tukee perustoisto-ominaisuuksia ja rajoitettua määrää pilvitilin yhteyksiä. Evermusic Pro, saatavilla kertaostoksena tai tilauksena, avaa täyden taajuuskorjaimen, crossfaden, lisää pilvitiliyhteyksiä ja muita kehittyneitä ominaisuuksia. Omien musiikkitiedostojen käyttöä varten ei tarvita tilausta.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Voinko käyttää Evermusicin ilman internet-yhteyttä?" closed="true" %}}
+{{% ls-details title="Voinko käyttää Evermusicin ilman internet-yhteyttä?" closed="true" %}}
 Ehdottomasti. Evermusic antaa sinun ladata kappaleita mistä tahansa yhdistetystä pilvipalvelusta suoraan laitteellesi offline-toistoa varten. Ladattuina tiedostot tallennetaan paikallisesti ja pysyvät saatavilla jopa ilman Wi-Fiä tai mobiilidataa. Tämä tekee Evermusicista ihanteellisen lennoille, tunnelien läpi kulkemiseen tai mihin tahansa tilanteeseen, jossa yhteys on epäluotettava.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Tukeeko Evermusic häviöttömiä ääniformaatteja kuten FLAC?" closed="true" %}}
+{{% ls-details title="Tukeeko Evermusic häviöttömiä ääniformaatteja kuten FLAC?" closed="true" %}}
 Kyllä. Evermusic tukee laajaa valikoimaa ääniformaatteja, mukaan lukien FLAC, ALAC, WAV, AIFF, OGG, MP3, AAC ja M4A. Sovellus toistaa häviöttömiä tiedostoja niiden natiivilaadulla ilman uudelleenkoodausta, joten audiofiilit voivat nauttia korkearesoluutioisista kokoelmistaan täsmälleen kuten on tarkoitettu.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Miten yhdistän NAS-laitteen tai kotipalvelimen Evermusiciin?" closed="true" %}}
+{{% ls-details title="Miten yhdistän NAS-laitteen tai kotipalvelimen Evermusiciin?" closed="true" %}}
 Jos NAS-laitteesi tai kotipalvelimesi tukee WebDAV- tai SMB-protokollia, voit yhdistää sen Evermusiciin syöttämällä palvelinosoitteen, portin ja tunnistetiedot sovelluksen pilvi-yhteysasetuksiin. Useimmat suositut NAS-tuotemerkit, mukaan lukien Synology, QNAS ja Western Digital MyCloud, tukevat näitä protokollia heti valmiina. Kun yhteys on muodostettu, Evermusic skannaa ja indeksoi musiikkitiedostosi aivan kuten minkä tahansa muun pilvilähteen.
-{{% /details %}}
+{{% /ls-details %}}

@@ -7,7 +7,7 @@ tags: ["mp3", "editor", "iPhone", "tag", "metadata", "id3"]
 readingTime: 2
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **Ringkasan:** Gunakan editor tag bawaan di Evermusic atau Flacbox untuk mengedit tag ID3 di iPhone atau Mac -- untuk file cloud maupun lokal. Butuh pengeditan massal atau 120+ bidang tag? Gunakan [Evertag](https://apps.apple.com/app/apple-store/id1450763230?pt=95781850&ct=everappzcom&mt=8) sebagai gantinya.
@@ -21,8 +21,8 @@ Saat Anda mengimpor lagu ke perpustakaan musik, lagu-lagu tersebut dikelompokkan
 Sementara banyak aplikasi desktop menawarkan pengeditan metadata, Evermusic dan Flacbox membawa kesederhanaan ke level berikutnya dengan menyertakan editor tag ID3. Sekarang, Anda dapat menggunakan satu aplikasi untuk membangun perpustakaan musik, menikmati trek, dan memperbaiki tag audio.
 
 {{< cards cols="2">}}
-{{< card link="https://apps.apple.com/app/apple-store/id885367198?pt=95781850&ct=everappzcom&mt=8" title="Unduh Evermusic" icon="download" tag="Free" >}}
-{{< card link="https://apps.apple.com/app/apple-store/id1097564256?pt=95781850&ct=everappzcom&mt=8" title="Unduh Flacbox" icon="download" tag="Free" >}}
+{{< ls-card link="https://apps.apple.com/app/apple-store/id885367198?pt=95781850&ct=everappzcom&mt=8" title="Unduh Evermusic" icon="download" tag="Free" >}}
+{{< ls-card link="https://apps.apple.com/app/apple-store/id1097564256?pt=95781850&ct=everappzcom&mt=8" title="Unduh Flacbox" icon="download" tag="Free" >}}
 {{< /cards >}}
 
 ## Editor Profesional
@@ -30,7 +30,7 @@ Sementara banyak aplikasi desktop menawarkan pengeditan metadata, Evermusic dan 
 Tapi sebelum Anda mulai, lihat aplikasi **Evertag** — mendukung **120+ tag audio**, **30+ format audio**, dan menawarkan **pengeditan massal** yang canggih. Jika Anda mencari alat manajemen tag lengkap, Evertag adalah pilihan yang tepat. Namun, jika Anda hanya membutuhkan **editor tag sederhana**, silakan lanjutkan dengan panduan ini.
 
 {{< cards >}}
-{{< card link="https://apps.apple.com/app/apple-store/id1450763230?pt=95781850&ct=everappzcom&mt=8" title="Unduh Evertag" icon="download" tag="Free" >}}
+{{< ls-card link="https://apps.apple.com/app/apple-store/id1450763230?pt=95781850&ct=everappzcom&mt=8" title="Unduh Evertag" icon="download" tag="Free" >}}
 {{< /cards >}}
 
 
@@ -38,21 +38,21 @@ Tapi sebelum Anda mulai, lihat aplikasi **Evertag** — mendukung **120+ tag aud
 Tautkan akun cloud pilihan Anda di dalam aplikasi.
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Hubungkan Server Cloud" image="/docs/howto/how-to-edit-id3-tags-on-iphone/connect_cloud_server.webp" >}}
+{{< ls-card title="" subtitle="Hubungkan Server Cloud" image="/docs/howto/how-to-edit-id3-tags-on-iphone/connect_cloud_server.webp" >}}
 {{< /cards >}}
 
 ## Navigasi ke File Audio Anda  
 Buka folder yang berisi file audio Anda di akun cloud yang terhubung.
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Folder Cloud" image="/docs/howto/how-to-edit-id3-tags-on-iphone/cloud_server_folders.webp" >}}
+{{< ls-card title="" subtitle="Folder Cloud" image="/docs/howto/how-to-edit-id3-tags-on-iphone/cloud_server_folders.webp" >}}
 {{< /cards >}}
 
 ## Akses Opsi File  
 Ketuk tombol 'Lainnya' ('...') di dekat file yang ingin Anda edit.
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Tindakan Lainnya" image="/docs/howto/how-to-edit-id3-tags-on-iphone/cloud_server_audio_more_actions.webp" >}}
+{{< ls-card title="" subtitle="Tindakan Lainnya" image="/docs/howto/how-to-edit-id3-tags-on-iphone/cloud_server_audio_more_actions.webp" >}}
 {{< /cards >}}
 
 ## Pilih 'Edit Tag Audio'  
@@ -70,7 +70,7 @@ Di layar 'Editor Tag', ubah bidang metadata seperti Judul, Artis, Album, Tahun, 
 Setelah selesai mengedit, ketuk tombol 'Simpan' untuk menyimpan perubahan Anda.
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Editor Tag" image="/docs/howto/how-to-edit-id3-tags-on-iphone/tags_editor.webp" >}}
+{{< ls-card title="" subtitle="Editor Tag" image="/docs/howto/how-to-edit-id3-tags-on-iphone/tags_editor.webp" >}}
 {{< /cards >}}
 
 ## Pelengkapan Otomatis Cerdas  
@@ -88,7 +88,7 @@ Anda dapat mengedit tag audio untuk file yang disimpan **langsung di perangkat A
 - **Buka bagian "File Lokal"**, lalu gulir ke bawah ke **"File di Perangkat Ini."**
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="File di Perangkat Ini" image="/docs/howto/how-to-edit-id3-tags-on-iphone/local_files.webp" >}}
+{{< ls-card title="" subtitle="File di Perangkat Ini" image="/docs/howto/how-to-edit-id3-tags-on-iphone/local_files.webp" >}}
 {{< /cards >}}
 
 - Ketuk **"Hubungkan Folder"**.
@@ -96,25 +96,25 @@ Anda dapat mengedit tag audio untuk file yang disimpan **langsung di perangkat A
 - Di pemilih folder, pilih direktori yang ingin Anda akses dan ketuk **"Buka"** untuk mengonfirmasi.
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Hubungkan Folder Eksternal" image="/docs/howto/how-to-edit-id3-tags-on-iphone/connect_external_folder.webp" >}}
+{{< ls-card title="" subtitle="Hubungkan Folder Eksternal" image="/docs/howto/how-to-edit-id3-tags-on-iphone/connect_external_folder.webp" >}}
 {{< /cards >}}
 
 - Setelah menambahkan folder, ketuk untuk melihat file di dalamnya.
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Isi Folder Eksternal" image="/docs/howto/how-to-edit-id3-tags-on-iphone/connected_external_folder.webp" >}}
+{{< ls-card title="" subtitle="Isi Folder Eksternal" image="/docs/howto/how-to-edit-id3-tags-on-iphone/connected_external_folder.webp" >}}
 {{< /cards >}}
 
 - Sama seperti file cloud, ketuk tombol **"Tindakan Lainnya"** di sebelah file audio dan pilih **"Edit Tag Audio".**
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Tindakan Lainnya - File Lokal" image="/docs/howto/how-to-edit-id3-tags-on-iphone/more_actions_local_file.webp" >}}
+{{< ls-card title="" subtitle="Tindakan Lainnya - File Lokal" image="/docs/howto/how-to-edit-id3-tags-on-iphone/more_actions_local_file.webp" >}}
 {{< /cards >}}
 
 - Editor Tag akan terbuka. Lakukan perubahan dan ketuk **"Simpan"**. Selesai! Editan Anda diterapkan langsung ke file — tidak perlu menyalin atau memindahkannya.
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Editor Tag - File Lokal" image="/docs/howto/how-to-edit-id3-tags-on-iphone/tag_editor_local_file.webp" >}}
+{{< ls-card title="" subtitle="Editor Tag - File Lokal" image="/docs/howto/how-to-edit-id3-tags-on-iphone/tag_editor_local_file.webp" >}}
 {{< /cards >}}
 
 ## Edit Sampul Album
@@ -126,7 +126,7 @@ Untuk mengubah sampul album:
 3. Pilih gambar untuk diterapkan sebagai sampul.
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Pilih Gambar" image="/docs/howto/how-to-edit-id3-tags-on-iphone/tags_editor_choose_image.webp" >}}
+{{< ls-card title="" subtitle="Pilih Gambar" image="/docs/howto/how-to-edit-id3-tags-on-iphone/tags_editor_choose_image.webp" >}}
 {{< /cards >}}
 
 ## Tindakan Lainnya di Editor Tag
@@ -134,7 +134,7 @@ Untuk mengubah sampul album:
 Opsi pengeditan tambahan tersedia melalui toolbar di bawah tampilan artwork.
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Menu Tindakan Lainnya" image="/docs/howto/how-to-edit-id3-tags-on-iphone/tags_edito_more_actions.webp" >}}
+{{< ls-card title="" subtitle="Menu Tindakan Lainnya" image="/docs/howto/how-to-edit-id3-tags-on-iphone/tags_edito_more_actions.webp" >}}
 {{< /cards >}}
 
 ### Pencarian Otomatis Tag Audio
@@ -195,22 +195,22 @@ Sederhanakan manajemen perpustakaan musik dan pengeditan tag Anda dengan Evermus
 
 ## FAQ
 
-{{% details title="Format audio apa yang bisa saya edit tagnya?" closed="true" %}}
+{{% ls-details title="Format audio apa yang bisa saya edit tagnya?" closed="true" %}}
 Evermusic dan Flacbox mendukung pengeditan tag untuk MP3, FLAC, AAC, OGG, dan format audio umum lainnya. Evertag mendukung 30+ format termasuk WAV, AIFF, WMA, dan APE.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Bisakah saya mengedit tag untuk file yang disimpan di layanan cloud?" closed="true" %}}
+{{% ls-details title="Bisakah saya mengedit tag untuk file yang disimpan di layanan cloud?" closed="true" %}}
 Ya. Hubungkan akun Dropbox, Google Drive, OneDrive, atau cloud lainnya. Aplikasi mengunduh file, memungkinkan Anda mengedit tag, dan secara otomatis mengunggah file yang dimodifikasi kembali ke cloud.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Apa perbedaan antara Evermusic/Flacbox dan Evertag?" closed="true" %}}
+{{% ls-details title="Apa perbedaan antara Evermusic/Flacbox dan Evertag?" closed="true" %}}
 Evermusic dan Flacbox adalah pemutar musik dengan editor tag dasar bawaan. Evertag adalah editor tag khusus yang mendukung 120+ tag audio, pengeditan massal, dan 30+ format -- ideal untuk mengelola perpustakaan besar.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Apakah fitur pencarian otomatis memerlukan koneksi internet?" closed="true" %}}
+{{% ls-details title="Apakah fitur pencarian otomatis memerlukan koneksi internet?" closed="true" %}}
 Ya. Fitur Pencarian Otomatis Tag Audio mengkueri database online MusicBrainz untuk menemukan dan mengisi metadata. Koneksi internet aktif diperlukan untuk fitur ini.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Apakah mengedit tag akan mengubah kualitas audio saya?" closed="true" %}}
+{{% ls-details title="Apakah mengedit tag akan mengubah kualitas audio saya?" closed="true" %}}
 Tidak. Pengeditan tag hanya mengubah metadata yang tertanam dalam file. Data audio itu sendiri tetap tidak tersentuh -- tidak terjadi pengodean ulang.
-{{% /details %}}
+{{% /ls-details %}}

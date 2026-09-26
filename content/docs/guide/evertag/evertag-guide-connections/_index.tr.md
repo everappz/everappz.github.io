@@ -15,7 +15,7 @@ readingTime: 11
 Bu ekranda ses dosyalarınızı içeren çeşitli kaynakları bağlayabilirsiniz. Google Drive, Dropbox, OneDrive, iCloud ve diğerleri gibi popüler bulut hizmetlerini entegre edebilir, ayrıca Mac veya PC'nizi bağlayabilirsiniz. Bunlara ek olarak, Apple Time Capsule, WD Cloud Home veya SMB ya da WebDAV destekleyen herhangi bir NAS'ta bulunan ses dosyalarını düzenleme seçeneğiniz de mevcuttur.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evertag Bağlantılar Ekranı" image="/docs/guide/evertag/img/connections.webp" >}}
+  {{< ls-card title="" subtitle="Evertag Bağlantılar Ekranı" image="/docs/guide/evertag/img/connections.webp" >}}
 {{< /cards >}}
 
 ## Hızlı erişim
@@ -151,7 +151,7 @@ Bu eylemlerin ayrıntıları şöyledir:
 - **Izgara/Liste Görünümü**: İki görüntüleme modu arasında geçiş yapın: tablo görünümü ve küçük resim görünümü. Tablo görünümü dosyaları bir listede sunarken, küçük resim görünümü dosyaların görsel temsillerini göstererek içeriği tek bakışta tanımlamayı kolaylaştırır.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evertag Bulut Klasörü Sıralaması" image="/docs/guide/evertag/img/cloud-storage-sort.webp" >}}
+  {{< ls-card title="" subtitle="Evertag Bulut Klasörü Sıralaması" image="/docs/guide/evertag/img/cloud-storage-sort.webp" >}}
 {{< /cards >}}
 
 ## Çevrimiçi Dosyaları Düzenle
@@ -163,7 +163,7 @@ Bu uygulamada bulut depolamadaki birden fazla dosyayı yönetmeniz gerektiğinde
 - **Çeşitli Eylemleri Gerçekleştirin**: Yönetmek istediğiniz dosyaları veya klasörleri seçtikten sonra, ihtiyaçlarınıza göre uyarlanmış çeşitli eylemlere erişebileceksiniz:
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evertag Dosya Seçimi" image="/docs/guide/evertag/img/cloud-storage-file-select.webp" >}}
+  {{< ls-card title="" subtitle="Evertag Dosya Seçimi" image="/docs/guide/evertag/img/cloud-storage-file-select.webp" >}}
 {{< /cards >}}
 
 ## Dosya eylemleri
@@ -180,7 +180,7 @@ Kullanılabilir eylemlerin listesini görüntülemek için dokunun:
 - **Silmek**: Bu eylemde dikkatli olun, zira dosyayı bulut depolamanızdan kalıcı olarak kaldırır. **Bu silme işlemi geri alınamaz**.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evertag Dosya Seçenekleri" image="/docs/guide/evertag/img/cloud-storage-file-options.webp" >}}
+  {{< ls-card title="" subtitle="Evertag Dosya Seçenekleri" image="/docs/guide/evertag/img/cloud-storage-file-options.webp" >}}
 {{< /cards >}}
 
 Eylemler listesi mevcut ekran alanını aşarsa, ek seçeneklere erişmek için eylemler menüsünde aşağı kaydırın.
@@ -196,5 +196,5 @@ Bulut depolamanızdaki her klasör için çeşitli eylemler mevcuttur. Bu seçen
 - **Silmek**: Bu eylemde dikkatli olun, zira klasörü ve içeriğini bulut depolamanızdan kalıcı olarak kaldırır. **Bu eylem geri alınamaz**.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evertag Klasör Seçenekleri" image="/docs/guide/evertag/img/cloud-storage-folder-options.webp" >}}
+  {{< ls-card title="" subtitle="Evertag Klasör Seçenekleri" image="/docs/guide/evertag/img/cloud-storage-folder-options.webp" >}}
 {{< /cards >}}

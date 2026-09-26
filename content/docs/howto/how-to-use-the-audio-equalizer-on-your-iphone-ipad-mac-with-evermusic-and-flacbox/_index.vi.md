@@ -7,7 +7,7 @@ tags: ["âm nhạc", "âm thanh", "bộ cân bằng", "10 dải", "khuếch đ�
 keywords: ["bộ cân bằng âm thanh iPhone", "cài đặt sẵn EQ Evermusic", "bộ cân bằng 10 dải Flacbox", "điều chỉnh bass treble iOS", "bộ cân bằng Mac ứng dụng nhạc", "tăng âm thanh với tiền khuếch đại", "cài đặt sẵn âm thanh tùy chỉnh"]
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **Tóm tắt:** Evermusic và Flacbox bao gồm bộ cân bằng âm thanh 10 dải chuyên nghiệp với các cài đặt sẵn (Rock, Hip-Hop, Bass Booster và nhiều hơn nữa), tạo cài đặt sẵn tùy chỉnh và bộ tiền khuếch đại để tăng âm lượng. Có sẵn trên iPhone, iPad và Mac.
@@ -105,26 +105,26 @@ Nâng cao trải nghiệm âm nhạc, điều chỉnh âm thanh cho mọi tình 
 
 ## Câu hỏi thường gặp
 
-{{% details title="Bộ cân bằng có hoạt động với tất cả định dạng âm thanh không?" closed="true" %}}
+{{% ls-details title="Bộ cân bằng có hoạt động với tất cả định dạng âm thanh không?" closed="true" %}}
 Có. EQ 10 dải trong Evermusic và Flacbox hoạt động với MP3, FLAC, AAC, WAV, ALAC, OGG và tất cả các định dạng được hỗ trợ khác.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Cài đặt EQ có áp dụng cho tất cả bài hát không?" closed="true" %}}
+{{% ls-details title="Cài đặt EQ có áp dụng cho tất cả bài hát không?" closed="true" %}}
 Có. Sau khi bạn kích hoạt bộ cân bằng và chọn cài đặt sẵn, nó áp dụng cho tất cả phát lại cho đến khi bạn thay đổi hoặc tắt.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Tôi có thể tạo nhiều hơn một cài đặt sẵn tùy chỉnh không?" closed="true" %}}
+{{% ls-details title="Tôi có thể tạo nhiều hơn một cài đặt sẵn tùy chỉnh không?" closed="true" %}}
 Có. Bạn có thể tạo, lưu và chuyển đổi giữa nhiều cài đặt sẵn tùy chỉnh. Sử dụng tính năng Xuất để sao lưu.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Tiền khuếch đại có gây méo tiếng không?" closed="true" %}}
+{{% ls-details title="Tiền khuếch đại có gây méo tiếng không?" closed="true" %}}
 Có thể nếu đặt quá cao. Theo dõi chỉ báo mức âm thanh khi điều chỉnh. Nếu mức bị cắt (chạm đỉnh), giảm nhẹ mức khuếch đại tiền khuếch đại.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Bộ cân bằng có sẵn trên cả Evermusic và Flacbox không?" closed="true" %}}
+{{% ls-details title="Bộ cân bằng có sẵn trên cả Evermusic và Flacbox không?" closed="true" %}}
 Có. Cả hai ứng dụng đều bao gồm cùng một bộ cân bằng 10 dải với cài đặt sẵn, cài đặt sẵn tùy chỉnh và tiền khuếch đại.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Tôi có thể chia sẻ cài đặt sẵn EQ với người khác không?" closed="true" %}}
+{{% ls-details title="Tôi có thể chia sẻ cài đặt sẵn EQ với người khác không?" closed="true" %}}
 Có. Sử dụng tùy chọn Xuất cấu hình để lưu cài đặt sẵn vào tệp, sau đó chia sẻ. Người khác có thể nhập bằng Nhập cấu hình.
-{{% /details %}}
+{{% /ls-details %}}

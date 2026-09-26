@@ -7,7 +7,7 @@ tags: ["sesli kitaplar", "oynatma", "çevrimdışı", "evermusic", "yer imi"]
 readingTime: 5
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **TL;DR:** Evermusic, iOS ve macOS'te tam özellikli bir sesli kitap oynatıcısı olarak da çalışır. Sesli kitapları iTunes, WiFi veya bulut depolama aracılığıyla aktarın, ardından kesintisiz bir dinleme deneyimi için oynatma hızı kontrolü, atlama zamanı düğmeleri, ses yer imleri, oynatmaya devam etme ve çevrimdışı indirmeleri kullanın.
@@ -151,26 +151,26 @@ Keyifli dinlemeler!
 
 ## Sıkça Sorulan Sorular
 
-{{% details title="Evermusic hangi sesli kitap formatlarını destekler?" closed="true" %}}
+{{% ls-details title="Evermusic hangi sesli kitap formatlarını destekler?" closed="true" %}}
 Evermusic MP3, M4A, M4B, FLAC, WAV, AIFF, OGG ve diğer yaygın ses formatlarını destekler. Evermusic'te çalınan herhangi bir ses dosyası sesli kitap olarak çalışır.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Bulut depolamadan sesli kitap dinleyebilir miyim?" closed="true" %}}
+{{% ls-details title="Bulut depolamadan sesli kitap dinleyebilir miyim?" closed="true" %}}
 Evet. Evermusic iCloud Drive, Google Drive, Dropbox, OneDrive, Box ve WebDAV sunucularına bağlanır. Sesli kitapları doğrudan yayınlayabilir veya çevrimdışı dinleme için indirebilirsiniz.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Yer imlerim yeni bir cihaza aktarılır mı?" closed="true" %}}
+{{% ls-details title="Yer imlerim yeni bir cihaza aktarılır mı?" closed="true" %}}
 Evet. Evermusic ses yer imlerini dosyanın meta verilerinde kaydeder, bu nedenle dosyaları yeni bir cihaza taşıdığınızda otomatik olarak aktarılır.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Evermusic dinlemeyi bıraktığım yeri hatırlar mı?" closed="true" %}}
+{{% ls-details title="Evermusic dinlemeyi bıraktığım yeri hatırlar mı?" closed="true" %}}
 Evet. Ayarlar > Ses Oynatıcı > Genel bölümünde "Oynatma Konumunu Kaydet" ve "Ses Oynatıcı Durumunu Kaydet" seçeneklerini etkinleştirin. Uygulama, oturumlar arasında tam konumunuzu kaydeder ve geri yükler.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Sesli kitap oynatma hızını ayarlayabilir miyim?" closed="true" %}}
+{{% ls-details title="Sesli kitap oynatma hızını ayarlayabilir miyim?" closed="true" %}}
 Evet. Tercih ettiğiniz hızı ayarlamak için Ayarlar > Ses Oynatıcı > Oynatma Hızı yolunu izleyin. Dinleme tercihinize uyması için anlatımı hızlandırabilir veya yavaşlatabilirsiniz.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Sesli kitapları Evermusic'e nasıl aktarırım?" closed="true" %}}
+{{% ls-details title="Sesli kitapları Evermusic'e nasıl aktarırım?" closed="true" %}}
 iTunes/Finder dosya paylaşımı, WiFi Drive (uygulamada yerleşik) aracılığıyla veya Evermusic içinde bir bulut depolama hesabı bağlayarak dosya aktarabilirsiniz.
-{{% /details %}}
+{{% /ls-details %}}

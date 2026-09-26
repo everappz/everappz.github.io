@@ -19,7 +19,7 @@ readingTime: 5
 Evervideo'daki çalma listeleri; çevrimiçi bulut videolarını, çevrimdışı indirilmiş dosyaları, yerel dosyaları, Photos kitaplığı videolarını ve iOS Music kitaplığı videolarını — hepsini tek bir çalma listesinde — içerebilir ve sorunsuz bir şekilde birlikte oynatılabilir.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Medya Kitaplığında Evervideo Çalma Listeleri" image="/docs/guide/evervideo/img/evervideo-playlists-in-media-library.webp" >}}
+  {{< ls-card title="" subtitle="Medya Kitaplığında Evervideo Çalma Listeleri" image="/docs/guide/evervideo/img/evervideo-playlists-in-media-library.webp" >}}
 {{< /cards >}}
 
 ## Çalma Listesi Oluşturma

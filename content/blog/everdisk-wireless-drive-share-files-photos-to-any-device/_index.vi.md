@@ -12,7 +12,7 @@ authors:
     image: "/images/about/artem-meleshko-founder-everappz.webp"
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 **Tóm tắt:** [Everdisk](/products/everdisk) là ứng dụng mới của chúng tôi, biến **iPhone hoặc iPad của bạn thành ổ đĩa không dây**, và cũng là trung tâm kết nối với các thiết bị khác của bạn. Nhấn **Start** và Everdisk chạy **bốn máy chủ cùng lúc**: **DLNA** cho smart TV và trình phát media, **HTTP** cho mọi trình duyệt web, **WebDAV** cho Finder, Windows và Linux, và **FTP** cho các ứng dụng tập tin. Mỗi thiết bị kết nối theo cách nó thích. Chia sẻ tập tin, ảnh, video và nhạc với bất cứ thứ gì trong mạng của bạn, phát lên TV không cần cáp, gắn thiết bị của bạn làm ổ đĩa mạng, hoặc di chuyển tập tin qua **cáp USB** khi không có Wi-Fi. Everdisk cũng kết nối ra ngoài đến các máy chủ **DLNA, WebDAV, FTP và SFTP**, có sẵn **trình quản lý tập tin** với nén và giải nén, và có thể **quét tài liệu thành PDF**, **đánh dấu và ký PDF**, cùng một **bộ công cụ PDF** đầy đủ. Không tài khoản, không đám mây và không cần cài thêm ứng dụng ở phía bên kia. Mọi thứ đều nằm trong mạng nội bộ của bạn. Tải miễn phí, với tùy chọn mua Premium Lifetime một lần.
 
@@ -133,46 +133,46 @@ Nếu bạn thích ứng dụng, vui lòng để lại đánh giá trên App Sto
 
 ## Câu hỏi thường gặp
 
-{{% details title="Everdisk là gì?" closed="true" %}}
+{{% ls-details title="Everdisk là gì?" closed="true" %}}
 Everdisk là một ứng dụng mới biến iPhone hoặc iPad của bạn thành ổ đĩa không dây và trung tâm kết nối với các thiết bị khác của bạn. Bạn có thể chia sẻ tập tin, ảnh, video và nhạc với bất cứ thứ gì trong mạng của bạn, duyệt và phát từ các máy chủ khác, và quản lý mọi thứ ngay trên thiết bị của bạn. Không tài khoản, không đám mây và không cần cài thêm ứng dụng ở phía bên kia. Bạn chỉ cần nhấn Start và mọi thứ đã sẵn sàng. Ứng dụng chạy bốn máy chủ cùng một lúc: DLNA cho smart TV và trình phát media, HTTP cho mọi trình duyệt web, WebDAV cho Finder, Windows và Linux, và FTP cho các ứng dụng tập tin và người dùng chuyên sâu.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Everdisk có giá bao nhiêu?" closed="true" %}}
+{{% ls-details title="Everdisk có giá bao nhiêu?" closed="true" %}}
 Everdisk là ứng dụng tải miễn phí. Bạn có thể biến thiết bị của mình thành ổ đĩa không dây, chia sẻ tập tin theo bốn cách, phát lên TV, gắn ổ đĩa mạng, truyền qua USB, kết nối với các máy chủ khác, dùng trình quản lý tập tin, quét tài liệu và dùng các công cụ PDF hoàn toàn miễn phí. Có một tùy chọn mua Premium Lifetime một lần, một khoản thanh toán không đăng ký thuê bao, mở khóa số lượng thư mục chia sẻ và kết nối đã lưu không giới hạn, chuyển đổi ảnh và video, cổng tùy chỉnh, tự động bật chia sẻ, và tùy biến thiết bị. Giá có thể khác nhau tùy khu vực.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Tôi có cần cài gì trên thiết bị kia không?" closed="true" %}}
+{{% ls-details title="Tôi có cần cài gì trên thiết bị kia không?" closed="true" %}}
 Không. Đó chính là điểm cốt lõi. Thiết bị kia kết nối bằng chính những công cụ nó đã có. Một chiếc smart TV tự tìm thấy thư viện của bạn qua DLNA, bất kỳ máy tính hay điện thoại nào cũng mở một liên kết trong trình duyệt web, và Mac Finder, Windows cùng Linux gắn thiết bị của bạn làm ổ đĩa mạng qua WebDAV. Không cần cài gì ở phía bên kia.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Làm sao để phát ảnh và video lên TV của tôi?" closed="true" %}}
+{{% ls-details title="Làm sao để phát ảnh và video lên TV của tôi?" closed="true" %}}
 Đặt TV hoặc trình phát media của bạn và thiết bị của bạn trên cùng một mạng Wi-Fi, rồi nhấn Start trong Everdisk với ảnh, video hoặc nhạc đã được chia sẻ. Thiết bị của bạn tự xuất hiện trong danh sách máy chủ media của TV, kèm ảnh thu nhỏ xem trước. Mở nó trên TV và thưởng thức thư viện của bạn trên màn hình lớn. Không cần cáp và không cần ứng dụng bổ sung.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Làm sao để kết nối Everdisk từ Mac hoặc PC của tôi?" closed="true" %}}
+{{% ls-details title="Làm sao để kết nối Everdisk từ Mac hoặc PC của tôi?" closed="true" %}}
 Everdisk làm cho thiết bị của bạn hiển thị như một ổ đĩa mạng thông thường qua WebDAV. Trên Mac, mở Finder rồi chọn Go, sau đó Connect to Server, và nhập địa chỉ WebDAV hiển thị trong ứng dụng. Trên Windows, ánh xạ một ổ đĩa mạng bằng chính địa chỉ đó. Trên Linux, kết nối tới địa chỉ WebDAV từ trình quản lý tập tin của bạn. Sau khi kết nối, bạn có thể kéo và thả cả hai chiều. Nếu bạn không muốn gắn một ổ đĩa, chỉ cần mở liên kết HTTP trong bất kỳ trình duyệt web nào.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Tôi có thể truyền tập tin mà không cần Wi-Fi không?" closed="true" %}}
+{{% ls-details title="Tôi có thể truyền tập tin mà không cần Wi-Fi không?" closed="true" %}}
 Được. Kết nối thiết bị của bạn với một chiếc Mac bằng chính sợi cáp USB bạn dùng để sạc, và tập tin chuyển thẳng qua cáp, nhanh hơn Wi-Fi. Vì nó không cần mạng không dây, cách này vẫn hoạt động trên máy bay, trong khách sạn, hay trên bất kỳ mạng bị khóa hoặc mạng công cộng nào nơi việc chia sẻ qua Wi-Fi bị chặn.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Tôi có thể gửi tập tin từ iPhone này sang iPhone khác không?" closed="true" %}}
+{{% ls-details title="Tôi có thể gửi tập tin từ iPhone này sang iPhone khác không?" closed="true" %}}
 Được. Bắt đầu chia sẻ trên một thiết bị và mở liên kết trong trình duyệt web trên thiết bị kia, hoặc kết nối qua WebDAV hay FTP. Bạn có thể duyệt, phát và tải xuống theo cả hai chiều, và thậm chí tải ảnh, tài liệu cùng cả những thư mục nguyên vẹn trở lại thiết bị đang chia sẻ.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Everdisk có thể kết nối với những gì?" closed="true" %}}
+{{% ls-details title="Everdisk có thể kết nối với những gì?" closed="true" %}}
 Everdisk cũng là một ứng dụng khách cho các thiết bị khác trong mạng của bạn. Bạn có thể tìm và kết nối với các máy chủ DLNA, WebDAV, FTP và SFTP, bao gồm cả thiết bị NAS và máy chủ media. Sau khi kết nối, bạn có thể duyệt thư mục của chúng, phát âm thanh và video, tải xuống tập tin, và tạo thư mục, tải lên, đổi tên, di chuyển hoặc xóa khi máy chủ cho phép.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Tôi có thể quét tài liệu và chỉnh sửa PDF trong Everdisk không?" closed="true" %}}
+{{% ls-details title="Tôi có thể quét tài liệu và chỉnh sửa PDF trong Everdisk không?" closed="true" %}}
 Được. Everdisk có thể quét tài liệu giấy bằng camera. Nó tự tìm các cạnh, làm thẳng từng trang, và lưu chúng thành một tập PDF nhiều trang gọn gàng. Bạn cũng có thể mở một PDF hoặc ảnh và đánh dấu (vẽ, đánh dấu nổi bật, thêm chữ và hình khối, và ký bằng ngón tay), với các thay đổi được lưu trở lại tập tin. Một bộ công cụ PDF đầy đủ bổ sung tính năng nén, nhận dạng văn bản (OCR) thành PDF có thể tìm kiếm, bảo vệ bằng mật khẩu, xem quyền, chỉnh sửa siêu dữ liệu, và làm phẳng.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Everdisk có riêng tư và an toàn không?" closed="true" %}}
+{{% ls-details title="Everdisk có riêng tư và an toàn không?" closed="true" %}}
 Có. Mọi thứ nằm trong mạng nội bộ của bạn và không bao giờ chạm tới internet, nên tập tin của bạn không bao giờ rời khỏi nhà. Không tài khoản và không đám mây ở giữa. Bạn có thể bảo vệ quyền truy cập bằng tên đăng nhập và mật khẩu để các thiết bị kết nối phải nhập đúng thông tin trước khi có thể thấy tập tin của bạn, và bạn có thể chặn bất kỳ thiết bị nào chỉ với một lần chạm. Để riêng tư tốt nhất, chỉ bật chia sẻ khi bạn đang kết nối với một mạng Wi-Fi mà bạn biết và tin tưởng.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Everdisk chạy trên những thiết bị nào?" closed="true" %}}
+{{% ls-details title="Everdisk chạy trên những thiết bị nào?" closed="true" %}}
 Everdisk chạy trên iPhone và iPad. Nó chia sẻ với, và kết nối tới, smart TV, trình phát media, máy tính Mac, Windows và Linux, trình duyệt web, các điện thoại và máy tính bảng khác, ổ NAS, và bất kỳ máy chủ DLNA, WebDAV, FTP hoặc SFTP nào trong mạng của bạn.
-{{% /details %}}
+{{% /ls-details %}}

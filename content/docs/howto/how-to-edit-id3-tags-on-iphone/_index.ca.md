@@ -7,7 +7,7 @@ tags: ["mp3", "editor", "iPhone", "etiquetes", "metadades", "id3"]
 readingTime: 2
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **Resum:** Utilitza l'editor d'etiquetes integrat a Evermusic o Flacbox per editar etiquetes ID3 a iPhone o Mac -- tant per a fitxers al núvol com locals. Necessites edició per lots o més de 120 camps d'etiquetes? Utilitza [Evertag](https://apps.apple.com/app/apple-store/id1450763230?pt=95781850&ct=everappzcom&mt=8) en el seu lloc.
@@ -21,8 +21,8 @@ Quan importes cançons a la teva biblioteca musical, s'agrupen intel·ligentment
 Mentre que moltes aplicacions d'escriptori ofereixen edició de metadades, Evermusic i Flacbox porten la simplicitat al següent nivell incloent un editor d'etiquetes ID3. Ara, pots utilitzar una sola aplicació per construir la teva biblioteca musical, gaudir de les teves pistes i corregir les etiquetes d'àudio.
 
 {{< cards cols="2">}}
-{{< card link="https://apps.apple.com/app/apple-store/id885367198?pt=95781850&ct=everappzcom&mt=8" title="Descarregar Evermusic" icon="download" tag="Free" >}}
-{{< card link="https://apps.apple.com/app/apple-store/id1097564256?pt=95781850&ct=everappzcom&mt=8" title="Descarregar Flacbox" icon="download" tag="Free" >}}
+{{< ls-card link="https://apps.apple.com/app/apple-store/id885367198?pt=95781850&ct=everappzcom&mt=8" title="Descarregar Evermusic" icon="download" tag="Free" >}}
+{{< ls-card link="https://apps.apple.com/app/apple-store/id1097564256?pt=95781850&ct=everappzcom&mt=8" title="Descarregar Flacbox" icon="download" tag="Free" >}}
 {{< /cards >}}
 
 ## Editor professional
@@ -30,7 +30,7 @@ Mentre que moltes aplicacions d'escriptori ofereixen edició de metadades, Everm
 Però abans de començar, consulta l'aplicació **Evertag** — admet **més de 120 etiquetes d'àudio**, **més de 30 formats d'àudio** i ofereix una potent **edició per lots**. Si busques una eina de gestió d'etiquetes completa, Evertag és la millor opció. No obstant això, si només necessites un **editor d'etiquetes senzill**, continua amb aquesta guia.
 
 {{< cards >}}
-{{< card link="https://apps.apple.com/app/apple-store/id1450763230?pt=95781850&ct=everappzcom&mt=8" title="Descarregar Evertag" icon="download" tag="Free" >}}
+{{< ls-card link="https://apps.apple.com/app/apple-store/id1450763230?pt=95781850&ct=everappzcom&mt=8" title="Descarregar Evertag" icon="download" tag="Free" >}}
 {{< /cards >}}
 
 
@@ -38,21 +38,21 @@ Però abans de començar, consulta l'aplicació **Evertag** — admet **més de 
 Vincula el teu compte al núvol preferit dins de l'aplicació.
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Connectar servidor al núvol" image="/docs/howto/how-to-edit-id3-tags-on-iphone/connect_cloud_server.webp" >}}
+{{< ls-card title="" subtitle="Connectar servidor al núvol" image="/docs/howto/how-to-edit-id3-tags-on-iphone/connect_cloud_server.webp" >}}
 {{< /cards >}}
 
 ## Navega als teus fitxers d'àudio  
 Obre la carpeta que conté els teus fitxers d'àudio al compte al núvol connectat.
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Carpetes al núvol" image="/docs/howto/how-to-edit-id3-tags-on-iphone/cloud_server_folders.webp" >}}
+{{< ls-card title="" subtitle="Carpetes al núvol" image="/docs/howto/how-to-edit-id3-tags-on-iphone/cloud_server_folders.webp" >}}
 {{< /cards >}}
 
 ## Accedeix a les opcions del fitxer  
 Toca el botó "Més" ('...') a prop del fitxer que vols editar.
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Més accions" image="/docs/howto/how-to-edit-id3-tags-on-iphone/cloud_server_audio_more_actions.webp" >}}
+{{< ls-card title="" subtitle="Més accions" image="/docs/howto/how-to-edit-id3-tags-on-iphone/cloud_server_audio_more_actions.webp" >}}
 {{< /cards >}}
 
 ## Tria "Editar etiquetes d'àudio"  
@@ -70,7 +70,7 @@ A la pantalla "Editor d'etiquetes", modifica els camps de metadades com Títol, 
 Un cop hagis acabat d'editar, toca el botó "Desar" per guardar els teus canvis.
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Editor d'etiquetes" image="/docs/howto/how-to-edit-id3-tags-on-iphone/tags_editor.webp" >}}
+{{< ls-card title="" subtitle="Editor d'etiquetes" image="/docs/howto/how-to-edit-id3-tags-on-iphone/tags_editor.webp" >}}
 {{< /cards >}}
 
 ## Autocompletar intel·ligent  
@@ -88,7 +88,7 @@ Pots editar les etiquetes d'àudio dels fitxers emmagatzemats **directament al t
 - **Ves a la secció "Fitxers locals"**, després desplaça't cap avall fins a **"Fitxers en aquest dispositiu."**
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Fitxers en aquest dispositiu" image="/docs/howto/how-to-edit-id3-tags-on-iphone/local_files.webp" >}}
+{{< ls-card title="" subtitle="Fitxers en aquest dispositiu" image="/docs/howto/how-to-edit-id3-tags-on-iphone/local_files.webp" >}}
 {{< /cards >}}
 
 - Toca **"Connectar una carpeta"**.
@@ -96,25 +96,25 @@ Pots editar les etiquetes d'àudio dels fitxers emmagatzemats **directament al t
 - Al selector de carpetes, tria el directori al qual vols accedir i toca **"Obrir"** per confirmar.
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Connectar carpeta externa" image="/docs/howto/how-to-edit-id3-tags-on-iphone/connect_external_folder.webp" >}}
+{{< ls-card title="" subtitle="Connectar carpeta externa" image="/docs/howto/how-to-edit-id3-tags-on-iphone/connect_external_folder.webp" >}}
 {{< /cards >}}
 
 - Després d'afegir la carpeta, toca-la per veure els fitxers de dins.
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Contingut de la carpeta externa" image="/docs/howto/how-to-edit-id3-tags-on-iphone/connected_external_folder.webp" >}}
+{{< ls-card title="" subtitle="Contingut de la carpeta externa" image="/docs/howto/how-to-edit-id3-tags-on-iphone/connected_external_folder.webp" >}}
 {{< /cards >}}
 
 - Igual que amb els fitxers al núvol, toca el botó **"Més accions"** al costat d'un fitxer d'àudio i selecciona **"Editar etiquetes d'àudio".**
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Més accions - Fitxer local" image="/docs/howto/how-to-edit-id3-tags-on-iphone/more_actions_local_file.webp" >}}
+{{< ls-card title="" subtitle="Més accions - Fitxer local" image="/docs/howto/how-to-edit-id3-tags-on-iphone/more_actions_local_file.webp" >}}
 {{< /cards >}}
 
 - S'obrirà l'editor d'etiquetes. Fes els teus canvis i toca **"Desar"**. Ja està! Les teves edicions s'apliquen directament al fitxer — no cal copiar-lo ni moure'l.
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Editor d'etiquetes - Fitxer local" image="/docs/howto/how-to-edit-id3-tags-on-iphone/tag_editor_local_file.webp" >}}
+{{< ls-card title="" subtitle="Editor d'etiquetes - Fitxer local" image="/docs/howto/how-to-edit-id3-tags-on-iphone/tag_editor_local_file.webp" >}}
 {{< /cards >}}
 
 ## Editar la portada de l'àlbum
@@ -126,7 +126,7 @@ Per canviar la portada d'un àlbum:
 3. Selecciona una imatge per aplicar-la com a portada.
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Seleccionar imatge" image="/docs/howto/how-to-edit-id3-tags-on-iphone/tags_editor_choose_image.webp" >}}
+{{< ls-card title="" subtitle="Seleccionar imatge" image="/docs/howto/how-to-edit-id3-tags-on-iphone/tags_editor_choose_image.webp" >}}
 {{< /cards >}}
 
 ## Més accions a l'editor d'etiquetes
@@ -134,7 +134,7 @@ Per canviar la portada d'un àlbum:
 Hi ha opcions d'edició addicionals disponibles a través de la barra d'eines sota la vista d'il·lustracions.
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Menú de més accions" image="/docs/howto/how-to-edit-id3-tags-on-iphone/tags_edito_more_actions.webp" >}}
+{{< ls-card title="" subtitle="Menú de més accions" image="/docs/howto/how-to-edit-id3-tags-on-iphone/tags_edito_more_actions.webp" >}}
 {{< /cards >}}
 
 ### Cerca automàtica d'etiquetes d'àudio
@@ -195,22 +195,22 @@ Simplifica la gestió de la teva biblioteca musical i l'edició d'etiquetes amb 
 
 ## Preguntes freqüents
 
-{{% details title="Quins formats d'àudio puc editar les etiquetes?" closed="true" %}}
+{{% ls-details title="Quins formats d'àudio puc editar les etiquetes?" closed="true" %}}
 Evermusic i Flacbox admeten l'edició d'etiquetes per a MP3, FLAC, AAC, OGG i altres formats d'àudio comuns. Evertag admet més de 30 formats incloent WAV, AIFF, WMA i APE.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Puc editar etiquetes de fitxers emmagatzemats als serveis al núvol?" closed="true" %}}
+{{% ls-details title="Puc editar etiquetes de fitxers emmagatzemats als serveis al núvol?" closed="true" %}}
 Sí. Connecta el teu compte de Dropbox, Google Drive, OneDrive o un altre servei al núvol. L'aplicació descarrega el fitxer, et permet editar les etiquetes i puja automàticament el fitxer modificat de nou al núvol.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Quina és la diferència entre Evermusic/Flacbox i Evertag?" closed="true" %}}
+{{% ls-details title="Quina és la diferència entre Evermusic/Flacbox i Evertag?" closed="true" %}}
 Evermusic i Flacbox són reproductors de música amb un editor d'etiquetes bàsic integrat. Evertag és un editor d'etiquetes dedicat que admet més de 120 etiquetes d'àudio, edició per lots i més de 30 formats -- ideal per gestionar biblioteques grans.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="La funció de cerca automàtica requereix connexió a internet?" closed="true" %}}
+{{% ls-details title="La funció de cerca automàtica requereix connexió a internet?" closed="true" %}}
 Sí. La funció de cerca automàtica d'etiquetes d'àudio consulta la base de dades en línia de MusicBrainz per trobar i omplir metadades. Es necessita una connexió a internet activa per a aquesta funció.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Editar les etiquetes canviarà la qualitat de l'àudio?" closed="true" %}}
+{{% ls-details title="Editar les etiquetes canviarà la qualitat de l'àudio?" closed="true" %}}
 No. L'edició d'etiquetes només modifica les metadades incrustades al fitxer. Les dades d'àudio en si romanen intactes -- no es produeix cap recodificació.
-{{% /details %}}
+{{% /ls-details %}}

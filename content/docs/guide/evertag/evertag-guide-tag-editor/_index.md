@@ -17,7 +17,7 @@ readingTime: 5
 The **Tag Editor** is the main screen of the Evertag app where you can view and edit audio file metadata. Open this screen by tapping a file from the **Local Files** section or from any connected **cloud storage** account.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evertag Tag Editor Screen" image="/docs/guide/evertag/img/tag-editor.webp" >}}
+  {{< ls-card title="" subtitle="Evertag Tag Editor Screen" image="/docs/guide/evertag/img/tag-editor.webp" >}}
 {{< /cards >}}
 
 ## Editing Modes
@@ -40,7 +40,7 @@ By default, the app opens the tag editor in single-file mode with only the main 
 To access all available tags, scroll to the bottom of the screen and tap the **Show Extended Tags** option. This will switch the editor to extended mode, allowing you to edit over **120 metadata fields**, including **MusicBrainz Tags**, **Lyrics**, **Advisory Ratings**, replay-gain values, sort orders, podcast metadata, and more. Use **Settings → Audio tags editor → Buttons on the main screen** to permanently toggle Show Extended Tags so it's always on.
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Bottom Actions Panel" image="/docs/guide/evertag/img/tag-editor-bottom-actions.webp" >}}
+{{< ls-card title="" subtitle="Bottom Actions Panel" image="/docs/guide/evertag/img/tag-editor-bottom-actions.webp" >}}
 {{< /cards >}}
 
 ## Batch Mode
@@ -55,7 +55,7 @@ You can enter batch editing in two ways:
    - Open any file, scroll to the bottom, and tap **Edit files simultaneously** to load all files from the same folder.
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Batch Editing Mode" image="/docs/guide/evertag/img/tag-editor-batch-editing.webp" >}}
+{{< ls-card title="" subtitle="Batch Editing Mode" image="/docs/guide/evertag/img/tag-editor-batch-editing.webp" >}}
 {{< /cards >}}
 
 After editing, tap **Save** to apply changes.
@@ -74,19 +74,19 @@ You don't have to type lyrics from scratch. The editor includes one-tap search s
 Each shortcut only appears when the corresponding service is reachable from your device. Tap a service, copy the lyrics (or the LRC timestamps) you want, return to Evertag, and paste them into the text field — then **Save** to write the lyrics back into the audio file's tags.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Lyrics Pages" image="/docs/guide/evertag/img/tag-editor-lyrics-pages.webp" >}}
+  {{< ls-card title="" subtitle="Lyrics Pages" image="/docs/guide/evertag/img/tag-editor-lyrics-pages.webp" >}}
 {{< /cards >}}
 
 Pick a language from the picker:
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Lyrics Language Selector" image="/docs/guide/evertag/img/tag-editor-lyrics-language-select.webp" >}}
+  {{< ls-card title="" subtitle="Lyrics Language Selector" image="/docs/guide/evertag/img/tag-editor-lyrics-language-select.webp" >}}
 {{< /cards >}}
 
 Then paste or type the lyrics text. Evertag supports both plain text and timestamped (synced) lyrics — the placeholder shows an example of the LRC-style format, which is exactly what Lrclib and Lyricsify return for synced results.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Lyrics Text Editor" image="/docs/guide/evertag/img/tag-editor-lyrics-text.webp" >}}
+  {{< ls-card title="" subtitle="Lyrics Text Editor" image="/docs/guide/evertag/img/tag-editor-lyrics-text.webp" >}}
 {{< /cards >}}
 
 ## Set a Rating and Advisory Rating
@@ -98,7 +98,7 @@ The extended editor offers a star **Rating** control alongside an **Advisory Rat
 Use the **Rating** field to give a track a personal score from one to five stars. The value is written into the standard rating tag of the file (POPM for ID3, `rate` for MP4, `RATING` for Vorbis/APE, etc.), so other apps that read this tag — including the Music app, Plex, Roon, and most desktop tag editors — will pick up your scores immediately.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Rating" image="/docs/guide/evertag/img/tag-editor-rating.webp" >}}
+  {{< ls-card title="" subtitle="Rating" image="/docs/guide/evertag/img/tag-editor-rating.webp" >}}
 {{< /cards >}}
 
 ### Advisory Rating
@@ -119,7 +119,7 @@ You'll want to set or fix this field when:
 The value is stored in the standard advisory-rating field for the file format (`rtng` for MP4, `TXXX:ITUNESADVISORY` for ID3, `ITUNESADVISORY` for Vorbis), so any player that reads parental-advisory metadata will see your update.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Lyrics Advisory Rating" image="/docs/guide/evertag/img/lyrics-advisory-rating.webp" >}}
+  {{< ls-card title="" subtitle="Lyrics Advisory Rating" image="/docs/guide/evertag/img/lyrics-advisory-rating.webp" >}}
 {{< /cards >}}
 
 ## Edit Album Cover
@@ -131,7 +131,7 @@ To change an album cover:
 3. Select an image to apply as cover art.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Select Image" image="/docs/guide/evertag/img/select-image.webp" >}}
+  {{< ls-card title="" subtitle="Select Image" image="/docs/guide/evertag/img/select-image.webp" >}}
 {{< /cards >}}
 
 ## More Actions in Tag Editor
@@ -139,7 +139,7 @@ To change an album cover:
 Extra editing options are available via the toolbar beneath the artwork view.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="More Actions Menu" image="/docs/guide/evertag/img/tag-editor-more-actions.webp" >}}
+  {{< ls-card title="" subtitle="More Actions Menu" image="/docs/guide/evertag/img/tag-editor-more-actions.webp" >}}
 {{< /cards >}}
 
 ### Auto-Search Audio Tags
@@ -152,13 +152,13 @@ The app uses the MusicBrainz database — one of the most comprehensive tag data
 Use metadata to search the web for the correct album artwork.  
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Search Album Cover" image="/docs/guide/evertag/img/search-album-cover.webp" >}}
+  {{< ls-card title="" subtitle="Search Album Cover" image="/docs/guide/evertag/img/search-album-cover.webp" >}}
 {{< /cards >}}
 
 Once found, save the image to your **Photos** using the system context menu.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Add Image to Photos" image="/docs/guide/evertag/img/add-image-to-photos.webp" >}}
+  {{< ls-card title="" subtitle="Add Image to Photos" image="/docs/guide/evertag/img/add-image-to-photos.webp" >}}
 {{< /cards >}}
 
 After that, return to the tag editor, tap the Camera icon, go to **Photos Library**, and select the saved image. The app will set it as the cover for your audio file.
@@ -180,19 +180,19 @@ Search for album metadata manually using the MusicBrainz database.
 - Select the album  
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Select Album" image="/docs/guide/evertag/img/select-album-results.webp" >}}
+  {{< ls-card title="" subtitle="Select Album" image="/docs/guide/evertag/img/select-album-results.webp" >}}
 {{< /cards >}}
 
 - Pick the correct song  
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Select Song" image="/docs/guide/evertag/img/select-a-song.webp" >}}
+  {{< ls-card title="" subtitle="Select Song" image="/docs/guide/evertag/img/select-a-song.webp" >}}
 {{< /cards >}}
 
 - Choose which tags to apply  
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Select Audio Tags" image="/docs/guide/evertag/img/select-audio-tags.webp" >}}
+  {{< ls-card title="" subtitle="Select Audio Tags" image="/docs/guide/evertag/img/select-audio-tags.webp" >}}
 {{< /cards >}}
 
 Tap **Done** to apply the selected metadata to your track.

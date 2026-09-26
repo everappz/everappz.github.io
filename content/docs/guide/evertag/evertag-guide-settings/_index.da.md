@@ -21,7 +21,7 @@ På denne skærm kan du få adgang til programindstillingerne og opgradere det t
 - **Juridisk og privatliv** — Vilkår, Privatlivspolitik, Juridiske meddelelser, Analyse og dataindsamling
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evertag Indstillingsskærm" image="/docs/guide/evertag/img/settings.webp" >}}
+  {{< ls-card title="" subtitle="Evertag Indstillingsskærm" image="/docs/guide/evertag/img/settings.webp" >}}
 {{< /cards >}}
 
 ## Opgrader til Premium
@@ -63,7 +63,7 @@ Aktiverer adgangskodebeskyttelseskærmen, hvis du vil beskytte dine programdata.
 Filhåndteringen understøtter adgang til tilsluttede cloudlagringskonti og tilbyder batchoperationer til hurtig administration af flere filer.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evertag Indstillinger Filhåndteringsskærm" image="/docs/guide/evertag/img/settings-file-manager.webp" >}}
+  {{< ls-card title="" subtitle="Evertag Indstillinger Filhåndteringsskærm" image="/docs/guide/evertag/img/settings-file-manager.webp" >}}
 {{< /cards >}}
 
 ### Filoverførsler
@@ -103,7 +103,7 @@ Ryd programmets cache-mappe for at genvinde lagerplads.
 I denne sektion kan du konfigurere den indbyggede lydtagseditor.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evertag Indstillinger Tagredaktørskærm" image="/docs/guide/evertag/img/settings-tag-editor.webp" >}}
+  {{< ls-card title="" subtitle="Evertag Indstillinger Tagredaktørskærm" image="/docs/guide/evertag/img/settings-tag-editor.webp" >}}
 {{< /cards >}}
 
 ### Albumomslagsskalering
@@ -136,7 +136,7 @@ I denne sektion kan du aktivere WiFi Drive-funktionen, der giver dig mulighed fo
 I denne sektion kan du tilpasse brugergrænsefladeindstillingerne efter dine præferencer.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evertag Indstillinger Personaliseringsskærm" image="/docs/guide/evertag/img/settings-personalization.webp" >}}
+  {{< ls-card title="" subtitle="Evertag Indstillinger Personaliseringsskærm" image="/docs/guide/evertag/img/settings-personalization.webp" >}}
 {{< /cards >}}
 
 ### Programikon

@@ -17,7 +17,7 @@ readingTime: 6
 Sektionen Afspilningslister giver dig værktøjerne til at organisere dine numre i lister. Den inkluderer en indholdsvisning, der viser alle dine oprettede afspilningslister, en "..."-knap i navigationslinjen med forskellige afspilningslisterelaterede handlinger, og en navigationsværktøjslinje med knapperne "Søg", "Afspil alle" og "Bland alle". Desuden har hver enkelt afspilningsliste en "..."-knap nær afspilningslistetitlen med en række handlinger, der er specifikke for den afspilningsliste.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evermusic Afspilningslister-skærm" image="/docs/guide/evermusic/evermusic-guide-playlists/img/playlists-main.webp" >}}
+  {{< ls-card title="" subtitle="Evermusic Afspilningslister-skærm" image="/docs/guide/evermusic/evermusic-guide-playlists/img/playlists-main.webp" >}}
 {{< /cards >}}
 
 ## Oprettelse af en afspilningsliste
@@ -25,7 +25,7 @@ Sektionen Afspilningslister giver dig værktøjerne til at organisere dine numre
 For at oprette en ny afspilningsliste skal du trykke på "+"-knappen eller "..."-knappen i øverste højre hjørne af navigationslinjen, vælge "Ny afspilningsliste" og tildele et navn til din afspilningsliste. Tryk på "Gem" efter du har navngivet den.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Opret en ny afspilningsliste" image="/docs/guide/evermusic/evermusic-guide-playlists/img/playlists-add-new.webp" >}}
+  {{< ls-card title="" subtitle="Opret en ny afspilningsliste" image="/docs/guide/evermusic/evermusic-guide-playlists/img/playlists-add-new.webp" >}}
 {{< /cards >}}
 
 Dette åbner dialogen "Tilføj sange", hvor du kan vælge hvilke numre, der skal tilføjes til den nye afspilningsliste. Numre er kategoriseret efter kildetype, og du har flere muligheder:
@@ -42,7 +42,7 @@ Som standard kan du kun tilføje et nummer til en afspilningsliste én gang. For
 I Evermusic har vi tilføjet M3U-filimportfunktionalitet, så du ikke behøver at oprette afspilningslister manuelt.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Importer afspilningsliste fra en filkilde" image="/docs/guide/evermusic/evermusic-guide-playlists/img/playlists-import-from-files.webp" >}}
+  {{< ls-card title="" subtitle="Importer afspilningsliste fra en filkilde" image="/docs/guide/evermusic/evermusic-guide-playlists/img/playlists-import-from-files.webp" >}}
 {{< /cards >}}
 
 Gå først til sektionen 'Afspilningslister'. Tryk derefter på knappen 'Mere' i øverste højre hjørne. Vælg indstillingen 'Importer afspilningsliste' fra den menu, der vises.
@@ -62,7 +62,7 @@ Appen vil analysere afspilningslistefilen, oprette en liste over numre og finde 
 Når du åbner en afspilningsliste, vises "Skærm med afspilningslistedetaljer". På denne skærm finder du en "..."-knap i øverste højre hjørne med afspilningslisteindstillinger og tre knapper under kunstværkbilledet: "Søg", "Fortsæt afspilning", "Afspil alle" og "Bland alle". Derudover er der et afkrydsningsfelt til "Offline-tilstand".
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Skærm med afspilningslistedetaljer" image="/docs/guide/evermusic/evermusic-guide-playlists/img/playlists-detail-screen.webp" >}}
+  {{< ls-card title="" subtitle="Skærm med afspilningslistedetaljer" image="/docs/guide/evermusic/evermusic-guide-playlists/img/playlists-detail-screen.webp" >}}
 {{< /cards >}}
 
 - **Fortsæt afspilning**: Gendan afspilningsposition for denne afspilningsliste.
@@ -87,7 +87,7 @@ Du kan få adgang til handlinger for en afspilningsliste ved at trykke på "..."
 - **Slet afspilningsliste:** Slet afspilningslisten fra musikbiblioteket. Bemærk venligst, at denne handling ikke kan fortrydes.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Menu med flere handlinger for en afspilningsliste" image="/docs/guide/evermusic/evermusic-guide-playlists/img/playlists-more-actions-for-separate-playlist.webp" >}}
+  {{< ls-card title="" subtitle="Menu med flere handlinger for en afspilningsliste" image="/docs/guide/evermusic/evermusic-guide-playlists/img/playlists-more-actions-for-separate-playlist.webp" >}}
 {{< /cards >}}
 
 ## Flere handlinger for afspilningsliste på skærmen med afspilningslistedetaljer
@@ -113,7 +113,7 @@ Du kan få adgang til handlinger for en afspilningsliste ved at trykke på "..."
 For at ændre rækkefølgen af sange i en afspilningsliste skal du trykke på "..."-knappen i øverste højre hjørne og vælge "Vælg" for at gå ind i valgtilstand. Brug omarrangeringskontrollen og træk-og-slip-gestik nær hvert nummer for at flytte dem op eller ned. Tryk på omarrangeringskontrollen for at flytte nummeret til toppen af listen. For at afslutte valgtilstand og anvende ændringer skal du trykke på "Færdig".
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Skift sangrækkefølge i en afspilningsliste" image="/docs/guide/evermusic/evermusic-guide-playlists/img/playlists-change-songs-order.webp" >}}
+  {{< ls-card title="" subtitle="Skift sangrækkefølge i en afspilningsliste" image="/docs/guide/evermusic/evermusic-guide-playlists/img/playlists-change-songs-order.webp" >}}
 {{< /cards >}}
 
 ## Ændring af afspilningslistens coverbillede
@@ -129,7 +129,7 @@ For at ændre coverbilledet på en afspilningsliste skal du trykke på "..."-kna
 Åbn afspilningslisten, tryk på "..."-knappen i øverste højre hjørne, og vælg "Vælg" for at gå ind i valgtilstand. Vælg de numre, du vil slette, og tryk på knappen "Slet fra afspilningsliste" nederst på skærmen. Bekræft ændringerne ved at trykke på "Færdig".
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Valgtilstand inde i en afspilningsliste" image="/docs/guide/evermusic/evermusic-guide-playlists/img/playlists-selection-mode-in-playlist-details-screen.webp" >}}
+  {{< ls-card title="" subtitle="Valgtilstand inde i en afspilningsliste" image="/docs/guide/evermusic/evermusic-guide-playlists/img/playlists-selection-mode-in-playlist-details-screen.webp" >}}
 {{< /cards >}}
 
 ## Nummerindstillinger
@@ -137,7 +137,7 @@ For at ændre coverbilledet på en afspilningsliste skal du trykke på "..."-kna
 Hvert nummer i en afspilningsliste har en liste over handlinger, der er tilgængelige ved at trykke på "..."-knappen. Hvis du ikke kan se alle handlinger, skal du rulle ned for at se dem. Du kan slette nummeret fra afspilningslisten, downloade det, redigere lydtags og meget mere.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Menu med nummerindstillinger i en afspilningsliste" image="/docs/guide/evermusic/evermusic-guide-playlists/img/playlists-track-options.webp" >}}
+  {{< ls-card title="" subtitle="Menu med nummerindstillinger i en afspilningsliste" image="/docs/guide/evermusic/evermusic-guide-playlists/img/playlists-track-options.webp" >}}
 {{< /cards >}}
 
 - **Afspil næste:** Tilføjer nummeret til toppen af afspillerkøen.

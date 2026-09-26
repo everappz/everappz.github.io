@@ -12,7 +12,7 @@ authors:
     image: "/images/about/artem-meleshko-founder-everappz.webp"
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 **בקצרה:** Evermusic הוא נגן מוזיקה ענן ל-iPhone וה-iPad המתחבר ל-Dropbox, Google Drive, OneDrive ויותר מ-9 שירותי ענן נוספים. הוא מנגן FLAC, MP3, WAV ופורמטים אחרים, תומך בהורדות אופליין וכולל אקולייזר ועורך תגיות ID3. הורדה חינמית עם שדרוג Premium חד-פעמי. יותר מ-11 מיליון הורדות, דירוג 4.6 כוכבים ב-App Store.
 
@@ -20,7 +20,7 @@ authors:
 
 צפה בביקורת הווידאו המלאה מאת [@Massi_Media](https://www.youtube.com/@Massi_Media):
 
-{{< youtubecard id="pKUZmHy9dxc" >}}
+{{< ls-youtubecard id="pKUZmHy9dxc" >}}
 
 ## מהו נגן המוזיקה הענן הטוב ביותר ל-iPhone?
 
@@ -67,18 +67,18 @@ Evermusic בנוי לכל מי שמעדיף להחזיק ולנהל את המו�
 
 ## שאלות נפוצות
 
-{{% details title="האם Evermusic באמת חינמי לשימוש?" closed="true" %}}
+{{% ls-details title="האם Evermusic באמת חינמי לשימוש?" closed="true" %}}
 כן, Evermusic מציע רמה חינמית הכוללת קישוריות ענן, סטרימינג והורדות אופליין. הגרסה החינמית תומכת בתכונות ניגון בסיסיות ובמספר מוגבל של חיבורי חשבון ענן. Evermusic Pro, הזמין כרכישה חד-פעמית או מנוי, פותח את האקולייזר המלא, סרגל חפיפה, חשבונות ענן נוספים ותכונות מתקדמות אחרות. לא נדרש מנוי לגישה לקובצי המוזיקה שלך.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="האם אני יכול להשתמש ב-Evermusic ללא חיבור לאינטרנט?" closed="true" %}}
+{{% ls-details title="האם אני יכול להשתמש ב-Evermusic ללא חיבור לאינטרנט?" closed="true" %}}
 בהחלט. Evermusic מאפשר לך להוריד רצועות מכל שירות ענן מחובר ישירות למכשיר שלך להשמעה אופליין. לאחר הורדה, הקבצים מאוחסנים מקומית ונשארים זמינים אפילו ללא Wi-Fi או נתוני סלולר. זה הופך את Evermusic לאידיאלי לטיסות, נסיעות דרך מנהרות או כל מצב בו הקישוריות אינה אמינה.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="האם Evermusic תומך בפורמטי שמע ללא אובדן כגון FLAC?" closed="true" %}}
+{{% ls-details title="האם Evermusic תומך בפורמטי שמע ללא אובדן כגון FLAC?" closed="true" %}}
 כן. Evermusic תומך במגוון רחב של פורמטי שמע כולל FLAC, ALAC, WAV, AIFF, OGG, MP3, AAC ו-M4A. האפליקציה מנגנת קבצים ללא אובדן באיכות המקורית שלהם ללא קידוד מחדש, כך שחובבי שמע יכולים ליהנות מהאוספים ברזולוציה גבוהה שלהם בדיוק כפי שנועד.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="כיצד אני מחבר את ה-NAS או השרת הביתי שלי ל-Evermusic?" closed="true" %}}
+{{% ls-details title="כיצד אני מחבר את ה-NAS או השרת הביתי שלי ל-Evermusic?" closed="true" %}}
 אם ה-NAS או השרת הביתי שלך תומכים בפרוטוקולי WebDAV או SMB, תוכל לחבר אותם ל-Evermusic על ידי הזנת כתובת השרת, הפורט והאישורים בהגדרות חיבור הענן של האפליקציה. רוב מותגי NAS הפופולריים כולל Synology, QNAS ו-Western Digital MyCloud תומכים בפרוטוקולים אלה מחוץ לקופסה. לאחר חיבור, Evermusic יסרוק ויאנדקס את קובצי המוזיקה שלך בדיוק כמו כל מקור ענן אחר.
-{{% /details %}}
+{{% /ls-details %}}

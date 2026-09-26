@@ -74,18 +74,18 @@ Ovaj vodič provodi vas kroz svaki dio Evervideo na iPhone, iPad i Mac — od po
 
 {{< cards cols="2">}}
 
-{{< card icon="map" link="/docs/guide/evervideo/evervideo-guide-navigation" title="Navigacija" subtitle="Traka kartica na iPhone, lijevi izbornik na iPad i Mac, kompaktni uvijek vidljivi medijski player." >}}
+{{< ls-card icon="map" link="/docs/guide/evervideo/evervideo-guide-navigation" title="Navigacija" subtitle="Traka kartica na iPhone, lijevi izbornik na iPad i Mac, kompaktni uvijek vidljivi medijski player." >}}
 
-{{< card icon="folder" link="/docs/guide/evervideo/evervideo-guide-files" title="Datoteke" subtitle="Jedna objedinjena kartica za cloud, NAS, RTSP streamove, lokalne datoteke, USB diskove i red prijenosa." >}}
+{{< ls-card icon="folder" link="/docs/guide/evervideo/evervideo-guide-files" title="Datoteke" subtitle="Jedna objedinjena kartica za cloud, NAS, RTSP streamove, lokalne datoteke, USB diskove i red prijenosa." >}}
 
-{{< card icon="collection" link="/docs/guide/evervideo/evervideo-guide-video-library" title="Medijska biblioteka" subtitle="Pregledajte po albumima, žanrovima, nedavnim, omiljenima — plus iOS biblioteka Photos i Apple Music." >}}
+{{< ls-card icon="collection" link="/docs/guide/evervideo/evervideo-guide-video-library" title="Medijska biblioteka" subtitle="Pregledajte po albumima, žanrovima, nedavnim, omiljenima — plus iOS biblioteka Photos i Apple Music." >}}
 
-{{< card icon="music-note" link="/docs/guide/evervideo/evervideo-guide-playlists" title="Popisi za reproduciju" subtitle="Izgradite popise za reproduciju iz clouda, lokalnih datoteka, Photos ili biblioteke Music, uvezite M3U / M3U8 / CUE." >}}
+{{< ls-card icon="music-note" link="/docs/guide/evervideo/evervideo-guide-playlists" title="Popisi za reproduciju" subtitle="Izgradite popise za reproduciju iz clouda, lokalnih datoteka, Photos ili biblioteke Music, uvezite M3U / M3U8 / CUE." >}}
 
-{{< card icon="play" link="/docs/guide/evervideo/evervideo-guide-player" title="Medijski player" subtitle="Picture-in-Picture, audio i video zapisi, titlovi, audio + video ekvalizatori, AirPlay, Chromecast." >}}
+{{< ls-card icon="play" link="/docs/guide/evervideo/evervideo-guide-player" title="Medijski player" subtitle="Picture-in-Picture, audio i video zapisi, titlovi, audio + video ekvalizatori, AirPlay, Chromecast." >}}
 
-{{< card icon="adjustments" link="/docs/guide/evervideo/evervideo-guide-settings" title="Postavke" subtitle="Audio engine, video dekoder, titlovi, biblioteka, upravitelj datoteka, widgeti, personalizacija, jezik, sigurnosna kopija." >}}
+{{< ls-card icon="adjustments" link="/docs/guide/evervideo/evervideo-guide-settings" title="Postavke" subtitle="Audio engine, video dekoder, titlovi, biblioteka, upravitelj datoteka, widgeti, personalizacija, jezik, sigurnosna kopija." >}}
 
-{{< card icon="question-mark-circle" link="/docs/faq/evervideo" title="FAQ" subtitle="Pronađite odgovore na najčešća pitanja o Evervideo." >}}
+{{< ls-card icon="question-mark-circle" link="/docs/faq/evervideo" title="FAQ" subtitle="Pronađite odgovore na najčešća pitanja o Evervideo." >}}
 
 {{< /cards >}}

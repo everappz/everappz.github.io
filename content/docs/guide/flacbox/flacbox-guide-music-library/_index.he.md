@@ -19,7 +19,7 @@ readingTime: 11
 ניהול ספריית המוזיקה שלכם הוא קל עם Flacbox, שבו תוכלו לארגן ללא מאמץ את כל הרצועות שלכם — FLAC, ALAC, DSD, MP3, M4A, OGG, WMA, APE מקומי ועשרות פורמטים אחרים — לאוסף יחיד שניתן לחפש בו. יש לכם שתי אפשרויות לבניית ספריית המוזיקה שלכם: הוספה ידנית (אתם בוחרים בדיוק מה מתווסף) או סנכרון אוטומטי (Flacbox סורק תיקיות ענן שנקבעו ומוסיף קבצים חדשים אוטומטית כשהם מופיעים).
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="תצוגת אלבומים בספריית המוזיקה של Flacbox" image="/docs/guide/flacbox/img/media-library-albums.webp" >}}
+  {{< ls-card title="" subtitle="תצוגת אלבומים בספריית המוזיקה של Flacbox" image="/docs/guide/flacbox/img/media-library-albums.webp" >}}
 {{< /cards >}}
 
 ## הוספה ידנית
@@ -27,7 +27,7 @@ readingTime: 11
 להוספה ידנית של רצועות, הקישו על סמל **הוסף מוזיקה** הממוקם בפינה הימנית העליונה ובחרו תיקיות או קבצים משירות אחסון ענן מחובר או קבצים הנמצאים במכשיר שלכם. כאשר אתם מוסיפים רצועות לספרייה, נוצרים רק קישורים לאותן רצועות — הקבצים בפועל נשארים במיקומים המקוריים שלהם לחיסכון בשטח אחסון יקר. אם אתם רוצים להפוך רצועות לזמינות לא מקוון, תוכלו להשתמש בפעולת הורדה מתפריט האפשרויות או להפעיל מצב לא מקוון עבור רשימות השמעה ואוספי רצועות.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="הוספת שירים לספריית המוזיקה ב-Flacbox" image="/docs/guide/flacbox/img/library-add-songs.webp" >}}
+  {{< ls-card title="" subtitle="הוספת שירים לספריית המוזיקה ב-Flacbox" image="/docs/guide/flacbox/img/library-add-songs.webp" >}}
 {{< /cards >}}
 
 ניתן גם לגרור ולשחרר קבצים לספרייה בגרסת Mac, או להשתמש ב-**פתח קבצים…** / **פתח תיקייה…** מבורר הקבצים של המערכת ב-iPhone וב-iPad.
@@ -89,7 +89,7 @@ readingTime: 11
 תכונת החיפוש מעצימה אתכם לאתר רצועה, אמן, אלבום או ז'אנר ספציפיים בספריית המוזיקה שלכם. במסך החיפוש יש לכם גישה לפעולות מיין, סנן ותצוגת רשת / רשימה. החיפוש פועל מקומית כנגד מסד הנתונים של ספריית המוזיקה, כך שהוא פועל במלואו לא מקוון ומחזיר תוצאות בזמן שאתם מקלידים.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="חיפוש בספריית המוזיקה של Flacbox" image="/docs/guide/flacbox/img/media-library-search.webp" >}}
+  {{< ls-card title="" subtitle="חיפוש בספריית המוזיקה של Flacbox" image="/docs/guide/flacbox/img/media-library-search.webp" >}}
 {{< /cards >}}
 
 ## תפריט אפשרויות
@@ -140,7 +140,7 @@ readingTime: 11
 זה שימושי במיוחד לניקוי קומפילציות "אמנים שונים" עמוסות בספריות גדולות.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="מסך פרטי אלבום ב-Flacbox" image="/docs/guide/flacbox/img/media-library-album-details-screen.webp" >}}
+  {{< ls-card title="" subtitle="מסך פרטי אלבום ב-Flacbox" image="/docs/guide/flacbox/img/media-library-album-details-screen.webp" >}}
 {{< /cards >}}
 
 ## הגדרות

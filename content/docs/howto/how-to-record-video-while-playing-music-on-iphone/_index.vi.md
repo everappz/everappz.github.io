@@ -7,7 +7,7 @@ keywords: ["quay video trong khi phát nhạc trên iPhone", "cách phát nhạc
 readingTime: 1
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **Tóm tắt:** Đặt đầu ra âm thanh của Evermusic thành "Chế độ hỗn hợp," bắt đầu phát một bài hát, sau đó mở ứng dụng Camera và quay. Nhạc sẽ tiếp tục phát trong nền. Hoạt động với TikTok, Instagram và mọi ứng dụng camera.
@@ -45,22 +45,22 @@ Mẹo này hoạt động trên mọi iPhone.
 
 ## Câu hỏi thường gặp
 
-{{% details title="Nhạc nền có được ghi vào video không?" closed="true" %}}
+{{% ls-details title="Nhạc nền có được ghi vào video không?" closed="true" %}}
 Nhạc phát qua loa iPhone, vì vậy micro sẽ thu âm nhạc cùng với các âm thanh môi trường khác. Để có âm thanh sạch hơn, hãy cân nhắc sử dụng loa ngoài đặt gần micro.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Điều này có hoạt động với TikTok và Instagram không?" closed="true" %}}
+{{% ls-details title="Điều này có hoạt động với TikTok và Instagram không?" closed="true" %}}
 Có. Khi Evermusic được đặt ở Chế độ hỗn hợp và một bài hát đang phát, nhạc sẽ tiếp tục khi bạn mở TikTok, Instagram hoặc bất kỳ ứng dụng camera hay ghi hình nào khác.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Chế độ hỗn hợp trong Evermusic là gì?" closed="true" %}}
+{{% ls-details title="Chế độ hỗn hợp trong Evermusic là gì?" closed="true" %}}
 Chế độ hỗn hợp là cài đặt đầu ra âm thanh cho phép Evermusic chia sẻ phiên âm thanh với các ứng dụng khác. Điều này ngăn nhạc dừng khi ứng dụng khác truy cập micro hoặc camera.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Tôi có thể sử dụng Flacbox thay vì Evermusic không?" closed="true" %}}
+{{% ls-details title="Tôi có thể sử dụng Flacbox thay vì Evermusic không?" closed="true" %}}
 Có. Flacbox cũng hỗ trợ chế độ đầu ra âm thanh hỗn hợp. Các bước tương tự: bật Chế độ hỗn hợp trong Cài đặt, bắt đầu phát nhạc và mở ứng dụng camera.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Tôi có thể chơi game trong khi nhạc từ Evermusic phát trong nền không?" closed="true" %}}
+{{% ls-details title="Tôi có thể chơi game trong khi nhạc từ Evermusic phát trong nền không?" closed="true" %}}
 Có. Khi bật Chế độ hỗn hợp, nhạc từ Evermusic tiếp tục phát khi bạn mở bất kỳ game hoặc ứng dụng nào. Cả âm thanh game và nhạc của bạn sẽ phát cùng lúc.
-{{% /details %}}
+{{% /ls-details %}}

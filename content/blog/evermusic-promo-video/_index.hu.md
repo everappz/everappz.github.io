@@ -12,7 +12,7 @@ authors:
     image: "/images/about/artem-meleshko-founder-everappz.webp"
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 ## Evermusic: a felhő zenelejátszó iPhone-ra és iPadre
 
@@ -22,7 +22,7 @@ Az Evermusic egy felhő zenelejátszó, amely csatlakozik a személyes felhőtá
 
 ## Nézd meg a promóciós videót
 
-{{< youtubecard id="BwD0XLgdzEE" title="Evermusic Promo Video" >}}
+{{< ls-youtubecard id="BwD0XLgdzEE" title="Evermusic Promo Video" >}}
 
 ## A videóban bemutatott fő funkciók
 
@@ -36,14 +36,14 @@ Az Evermusic egy felhő zenelejátszó, amely csatlakozik a személyes felhőtá
 
 ## Gyakran ismételt kérdések
 
-{{% details title="Mi az Evermusic?" closed="true" %}}
+{{% ls-details title="Mi az Evermusic?" closed="true" %}}
 Az Evermusic egy felhő zenelejátszó iPhone-ra és iPadre. Felhőtárhely-szolgáltatásokhoz csatlakozik, mint a Dropbox, Google Drive és OneDrive, lehetővé téve a saját zenefájljaid streamelését és letöltését. Támogatja a FLAC, MP3, AAC, WAV és más hangformátumokat.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Ingyenesen letölthető az Evermusic?" closed="true" %}}
+{{% ls-details title="Ingyenesen letölthető az Evermusic?" closed="true" %}}
 Igen. Az Evermusic ingyenesen letölthető az alapfunkciókkal. Az egyszeri Premium frissítés feloldja a hangszínszabályzót, a crossfade-et és a további felhőfiók-csatlakozásokat.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Milyen felhőszolgáltatásokat támogat az Evermusic?" closed="true" %}}
+{{% ls-details title="Milyen felhőszolgáltatásokat támogat az Evermusic?" closed="true" %}}
 Az Evermusic több mint 12 felhőplatformot támogat, köztük az iCloud Drive-ot, Dropboxot, Google Drive-ot, OneDrive-ot, Boxot, MEGA-t, Yandex.Disket, pCloudot és bármely WebDAV vagy SMB protokollt futtató szervert.
-{{% /details %}}
+{{% /ls-details %}}

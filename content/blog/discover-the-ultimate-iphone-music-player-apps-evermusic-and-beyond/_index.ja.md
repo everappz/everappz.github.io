@@ -12,7 +12,7 @@ authors:
     image: "/images/about/artem-meleshko-founder-everappz.webp"
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 **TL;DR:** 最適なiPhone音楽プレーヤーはあなたのニーズによります。**Evermusic**はクラウドストレージ再生とフォーマットの柔軟性に最適です。**Apple Music**はAppleエコシステムに深く関わるユーザーに向いています。**Spotify**は音楽の発見に優れています。**VLC**はあらゆるファイルフォーマットを無料で再生します。**Amazon Music**はAlexaとPrimeとの相性が良いです。
 
@@ -128,22 +128,22 @@ Amazon MusicはAmazonエコシステムと統合し、Alexaによる音声コン
 
 ## FAQ
 
-{{% details title="iPhone向け最高の無料音楽プレーヤーは？" closed="true" %}}
+{{% ls-details title="iPhone向け最高の無料音楽プレーヤーは？" closed="true" %}}
 自分のファイルを再生する場合、EvermusicとVLCはどちらも無料のオプションです。Evermusicはクラウドストレージ連携を追加し、VLCは最も幅広いファイルフォーマットに対応しています。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="iPhoneでFLACファイルを再生できますか？" closed="true" %}}
+{{% ls-details title="iPhoneでFLACファイルを再生できますか？" closed="true" %}}
 はい。EvermusicとVLCはどちらもiPhoneでのFLAC再生に対応しています。Apple MusicとSpotifyはFLACファイルを直接再生しません。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="クラウドストレージに対応した音楽プレーヤーアプリは？" closed="true" %}}
+{{% ls-details title="クラウドストレージに対応した音楽プレーヤーアプリは？" closed="true" %}}
 Evermusicは、クラウドストレージサポートを内蔵した主要なiPhone音楽プレーヤーです。iCloud Drive、Dropbox、Google Drive、OneDrive、pCloud、その他のサービスに接続できます。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="EvermusicはApple Musicより優れていますか？" closed="true" %}}
+{{% ls-details title="EvermusicはApple Musicより優れていますか？" closed="true" %}}
 それぞれ異なる目的を果たします。Evermusicはクラウドストレージとローカルストレージから自分の音楽ファイルを再生します。Apple Musicは1億曲以上のカタログを持つサブスクリプションストリーミングサービスです。自分の音楽ファイルを所有している場合、Evermusicがより良い選択です。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="iPhoneでSpotifyをオフラインで使えますか？" closed="true" %}}
+{{% ls-details title="iPhoneでSpotifyをオフラインで使えますか？" closed="true" %}}
 はい、ただしSpotify Premiumサブスクリプションが必要です。無料のSpotifyユーザーはオフライン再生用に曲をダウンロードできません。
-{{% /details %}}
+{{% /ls-details %}}

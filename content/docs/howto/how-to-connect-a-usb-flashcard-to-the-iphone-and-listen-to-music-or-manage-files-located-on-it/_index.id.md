@@ -7,7 +7,7 @@ tags: ["musik", "file", "usb", "flash", "eksternal", "ixpand", "putar", "kartu",
 readingTime: 2
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **Ringkasan:** Hubungkan USB flash drive atau kartu SD ke iPhone Anda menggunakan adaptor Apple atau drive SanDisk iXpand, lalu gunakan Evermusic, Flacbox, atau Evertag untuk menelusuri, memutar, dan mengelola file audio Anda langsung dari penyimpanan eksternal.
@@ -72,18 +72,18 @@ Nikmati kebebasan mengakses dan mengelola musik Anda dengan mudah menggunakan la
 
 ## FAQ
 
-{{% details title="Adaptor USB mana yang berfungsi dengan iPhone untuk pemutaran musik?" closed="true" %}}
+{{% ls-details title="Adaptor USB mana yang berfungsi dengan iPhone untuk pemutaran musik?" closed="true" %}}
 Lightning to SD Card Camera Reader dan Lightning to USB 3 Camera Adapter dari Apple keduanya berfungsi. Adaptor USB-C berfungsi pada iPhone yang lebih baru dengan port USB-C. Drive SanDisk iXpand Flash (V1-V7) juga didukung secara native oleh Evermusic, Flacbox, dan Evertag.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Bisakah saya memutar musik langsung dari drive USB tanpa menyalin file?" closed="true" %}}
+{{% ls-details title="Bisakah saya memutar musik langsung dari drive USB tanpa menyalin file?" closed="true" %}}
 Ya. Dengan drive SanDisk iXpand, Anda dapat memutar musik langsung dari drive tanpa menyalin file ke iPhone Anda. Saat menggunakan adaptor Apple, file diimpor tetapi Anda dapat memilih apakah akan menyalinnya ke penyimpanan lokal.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Format audio apa yang didukung dari drive USB?" closed="true" %}}
+{{% ls-details title="Format audio apa yang didukung dari drive USB?" closed="true" %}}
 Evermusic dan Flacbox mendukung berbagai format termasuk FLAC, MP3, AAC, WAV, ALAC, OGG, WMA, dan lainnya. Semua format yang didukung berfungsi saat memutar dari penyimpanan USB.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="SanDisk iXpand saya menunjukkan kesalahan 'sibuk'. Apa yang harus saya lakukan?" closed="true" %}}
+{{% ls-details title="SanDisk iXpand saya menunjukkan kesalahan 'sibuk'. Apa yang harus saya lakukan?" closed="true" %}}
 Aplikasi lain mungkin mengakses drive. Tutup semua aplikasi lain yang mungkin menggunakan flash drive, atau cabut dan masukkan kembali. Kemudian buka kembali Evermusic, Flacbox, atau Evertag.
-{{% /details %}}
+{{% /ls-details %}}

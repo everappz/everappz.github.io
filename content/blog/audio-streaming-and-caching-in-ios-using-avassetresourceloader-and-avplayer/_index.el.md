@@ -12,7 +12,7 @@ authors:
     image: "/images/about/artem-meleshko-founder-everappz.webp"
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 ![](/blog/audio-streaming-and-caching-in-ios-using-avassetresourceloader-and-avplayer/diagram.png)
 
@@ -140,18 +140,18 @@ self.player = [AVPlayer playerWithPlayerItem:item];
 
 ## Συχνές Ερωτήσεις
 
-{{% details title="Πότε πρέπει να χρησιμοποιώ AVAssetResourceLoaderDelegate αντί για απευθείας URL;" closed="true" %}}
+{{% ls-details title="Πότε πρέπει να χρησιμοποιώ AVAssetResourceLoaderDelegate αντί για απευθείας URL;" closed="true" %}}
 Χρησιμοποιήστε το όταν η υπηρεσία cloud απαιτεί προσαρμοσμένες κεφαλίδες εξουσιοδότησης, όταν χρειάζεστε αποθήκευση στο δίσκο για audio σε streaming, ή όταν θέλετε λεπτομερή έλεγχο του τρόπου φόρτωσης και αποθήκευσης στη μνήμη buffer των δεδομένων.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Λειτουργεί αυτή η προσέγγιση με Swift;" closed="true" %}}
+{{% ls-details title="Λειτουργεί αυτή η προσέγγιση με Swift;" closed="true" %}}
 Ναι. Το πρωτόκολλο `AVAssetResourceLoaderDelegate` λειτουργεί με τον ίδιο τρόπο στη Swift. Τα παραδείγματα Objective-C εδώ μεταφράζονται απευθείας.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Μπορώ να το χρησιμοποιήσω και για video streaming;" closed="true" %}}
+{{% ls-details title="Μπορώ να το χρησιμοποιήσω και για video streaming;" closed="true" %}}
 Ναι. Το `AVAssetResourceLoaderDelegate` λειτουργεί με οποιονδήποτε τύπο μέσου που υποστηρίζει το AVPlayer, συμπεριλαμβανομένου του βίντεο. Η ίδια προσέγγιση με το προσαρμοσμένο σχήμα ισχύει.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Υποστηρίζεται η αναπαραγωγή ήχου στο παρασκήνιο;" closed="true" %}}
+{{% ls-details title="Υποστηρίζεται η αναπαραγωγή ήχου στο παρασκήνιο;" closed="true" %}}
 Ναι, εφόσον ενεργοποιήσετε τη λειτουργία παρασκηνίου "Audio, AirPlay και Εικόνα σε Εικόνα" στις δυνατότητες της εφαρμογής σας και διαμορφώσετε σωστά το `AVAudioSession`.
-{{% /details %}}
+{{% /ls-details %}}

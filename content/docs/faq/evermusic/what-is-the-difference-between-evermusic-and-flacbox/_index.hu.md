@@ -11,7 +11,7 @@ Az Evermusic és a Flacbox az Everappz két korszerű zenelejátszója iPhone-ra
 
 **Rövid válasz:** válaszd az **Evermusic**ot, ha a legsimább, mindenre kiterjedő hallgatásra, zökkenőmentes szünetmentes és áttűnéses átmenetekre, valamint az Apple Music-könyvtárad elérésére vágysz. Válaszd a **Flacbox**ot, ha audiofil vagy, aki mély hangformálást szeretne (effektállványt és DSP-láncot), választható professzionális audiomotort, valamint maximális hi-res és veszteségmentes formátumlefedettséget, beleértve a DSD-t, az APE-t és a WavPacket.
 
-{{< app-details ids="885367198, 1097564256" >}}
+{{< ls-app-details ids="885367198, 1097564256" >}}
 
 ## Funkció-összehasonlító táblázat
 
@@ -129,38 +129,38 @@ Mindkettő ingyenesen letölthető opcionális Premium bővítésekkel, és mind
 
 ## Gyakran ismételt kérdések
 
-{{% details title="Mi a fő különbség az Evermusic és a Flacbox között?" closed="true" %}}
+{{% ls-details title="Mi a fő különbség az Evermusic és a Flacbox között?" closed="true" %}}
 Ugyanazt a platformot és kapcsolatokat használják, de a hangzási oldal eltér. Az Evermusic az Apple AVPlayer és Core Audio motorján fut, és a széles formátumtámogatással rendelkező, mindennapi lejátszó valódi szünetmentes lejátszással, áttűnéssel, térbeli hangzással és Apple Music-könyvtár importálásával. A Flacbox egy professzionális BASS™ audiomotort és FFmpeg-dekódolást ad hozzá, amelyek 14 szűrős DSP-láncot, több valós idejű effektet, tracker/MOD-lejátszást, valamint a legszélesebb hi-res és veszteségmentes formátumtámogatást hozzák, beleértve a DSD-t, az APE-t és a WavPacket.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Az Evermusic vagy a Flacbox a jobb?" closed="true" %}}
+{{% ls-details title="Az Evermusic vagy a Flacbox a jobb?" closed="true" %}}
 Egyik sem egyértelműen jobb; különböző hallgatókra hangolták őket. Az Evermusic jobb a sima, mindennapi hallgatáshoz és azoknak, akik az Apple Music-könyvtárukat is használják, a szünetmentes lejátszásnak, az áttűnésnek és a térbeli hangzásnak köszönhetően. A Flacbox jobb azoknak az audiofileknek, akik mély hangformálást, választható professzionális audiomotort, valamint maximális hi-res és veszteségmentes formátumlefedettséget szeretnének.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Az Evermusic használ FFmpeget?" closed="true" %}}
+{{% ls-details title="Az Evermusic használ FFmpeget?" closed="true" %}}
 Nem. Az Evermusic teljes egészében az Apple natív audiorendszerén, az AVPlayeren és a Core Audión keresztül játszik le, ahol a Core Audio kezeli az effekteket és a feldolgozást. Az FFmpeg-dekódolás a Flacbox funkciója, a Flacbox választható BASS motorja mellett.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Van a Flacboxnak szünetmentes vagy áttűnéses lejátszása?" closed="true" %}}
+{{% ls-details title="Van a Flacboxnak szünetmentes vagy áttűnéses lejátszása?" closed="true" %}}
 Nem. A valódi szünetmentes lejátszás és az áttűnés (1-től 30 másodpercig) az Evermusic funkciói. A Flacbox ehelyett a nagy felbontású lejátszásra, egy professzionális BASS motorra, egy effektállványra és egy DSP-láncra összpontosít.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Melyik alkalmazás jobb FLAC-hoz, DSD-hez és APE-hez?" closed="true" %}}
+{{% ls-details title="Melyik alkalmazás jobb FLAC-hoz, DSD-hez és APE-hez?" closed="true" %}}
 A Flacbox. Mindkét alkalmazás lejátssza a FLAC-ot, de a Flacbox a nagy felbontású és veszteségmentes hangzás szakértője, natív támogatással a FLAC, ALAC, DSD (DSF/DFF), APE, WavPack (WV), TTA, OPUS és még sok más formátumhoz az FFmpeg és a BASS™ motorja révén. Finomabb kimenetvezérlést is kínál az igényes hallgatáshoz.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Melyik alkalmazásnak van több audioeffektje és DSP-lánca?" closed="true" %}}
+{{% ls-details title="Melyik alkalmazásnak van több audioeffektje és DSP-lánca?" closed="true" %}}
 A Flacbox. Az Evermusicnak 6 effektje van (zengetés, késleltetés, torzítás, kompresszor, crossfeed és hangerő-normalizálás). A Flacboxnak 11 effektje van (kiegészítve chorusszal, flangerrel, phaserrel, auto-wah-val, sztereóforgatással és egy többütemű visszhanggal), plusz egy saját magad által összeállítható 14 szűrős DSP-lánca. A DSP-lánc kizárólag a Flacboxban érhető el.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Mindkét alkalmazás támogatja ugyanazokat a felhőszolgáltatásokat, médiaszervereket és a CarPlayt?" closed="true" %}}
+{{% ls-details title="Mindkét alkalmazás támogatja ugyanazokat a felhőszolgáltatásokat, médiaszervereket és a CarPlayt?" closed="true" %}}
 Igen. Az Evermusic és a Flacbox ugyanazokhoz a felhőtárhelyekhez (iCloud Drive, Google Drive, Dropbox, OneDrive, MEGA, pCloud, Internxt, Proton Drive és még sok más), ugyanazokhoz a médiaszerverekhez (Plex, Subsonic, Navidrome, Jellyfin, Emby), valamint ugyanazokhoz a számítógépes és NAS-protokollokhoz (SMB, WebDAV, FTP, SFTP, NFS, DLNA) csatlakozik, natív támogatással a QNAP, Synology, Nextcloud és WD My Cloud Home eszközökhöz. Mindkettő támogatja az Apple CarPlayt, az AirPlayt és a Google Chromecastot is.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Le tudja játszani az Evermusic az Apple Music vagy iTunes könyvtáramat?" closed="true" %}}
+{{% ls-details title="Le tudja játszani az Evermusic az Apple Music vagy iTunes könyvtáramat?" closed="true" %}}
 Igen. Az Evermusic importálni és lejátszani tudja a zenét az Apple Music / iTunes könyvtáradból a felhő- és hálózati források mellett. A Flacboxot a saját fájljaidhoz tervezték felhő-, NAS- és helyi tárhelyről, és nem importálja az Apple Music-könyvtárat.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Használhatom az Evermusicot és a Flacboxot együtt?" closed="true" %}}
+{{% ls-details title="Használhatom az Evermusicot és a Flacboxot együtt?" closed="true" %}}
 Igen, és sokan ezt is teszik. Egy gyakori felállás az Evermusic a mindennapi, zökkenőmentes lejátszáshoz és az Apple Music-könyvtár eléréséhez, a Flacbox pedig az igényes, nagy felbontású hallgatáshoz a BASS motorral, az effektekkel és a DSP-lánccal. Mindkettő ugyanazokból a felhő- és NAS-forrásokból olvas, így a könyvtárad mindkét alkalmazásban elérhető. Mindkettő ingyenesen letölthető opcionális Premium alkalmazáson belüli bővítésekkel.
-{{% /details %}}
+{{% /ls-details %}}

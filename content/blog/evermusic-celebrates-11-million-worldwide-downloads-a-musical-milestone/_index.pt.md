@@ -12,7 +12,7 @@ authors:
     image: "/images/about/artem-meleshko-founder-everappz.webp"
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 **Resumo:** O Evermusic ultrapassou 11 milhões de downloads em todo o mundo. Os recursos principais incluem equalizador de 10 bandas, reprodução offline, streaming do iCloud Drive, suporte a mais de 10 serviços de nuvem, sincronização entre dispositivos e editor de tags ID3 integrado.
 
@@ -70,22 +70,22 @@ O Evermusic é feito para qualquer pessoa que armazena música na nuvem ou em ar
 
 ## FAQ
 
-{{% details title="Quais formatos de áudio o Evermusic suporta?" closed="true" %}}
+{{% ls-details title="Quais formatos de áudio o Evermusic suporta?" closed="true" %}}
 O Evermusic reproduz MP3, FLAC, WAV, AAC, M4A, AIFF, OGG, WMA e outros formatos de áudio populares.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Posso usar o Evermusic sem conexão com a internet?" closed="true" %}}
+{{% ls-details title="Posso usar o Evermusic sem conexão com a internet?" closed="true" %}}
 Sim. Baixe faixas do armazenamento em nuvem para reprodução offline. Uma vez baixadas, não é necessária internet.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="O Evermusic funciona no Mac?" closed="true" %}}
+{{% ls-details title="O Evermusic funciona no Mac?" closed="true" %}}
 Sim. O Evermusic está disponível tanto no iOS (iPhone/iPad) quanto no macOS, com sincronização de biblioteca em todos os dispositivos.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="O Evermusic é gratuito para baixar?" closed="true" %}}
+{{% ls-details title="O Evermusic é gratuito para baixar?" closed="true" %}}
 Sim. O Evermusic é gratuito para baixar com recursos premium opcionais disponíveis através de compra no aplicativo.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Como funciona o streaming do iCloud Drive no Evermusic?" closed="true" %}}
+{{% ls-details title="Como funciona o streaming do iCloud Drive no Evermusic?" closed="true" %}}
 Conecte sua conta do iCloud Drive no aplicativo, navegue pelos seus arquivos de música e toque para reproduzir. As faixas são transmitidas diretamente sem necessidade de download prévio.
-{{% /details %}}
+{{% /ls-details %}}

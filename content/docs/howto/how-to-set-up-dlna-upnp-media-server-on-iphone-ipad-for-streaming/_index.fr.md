@@ -7,7 +7,7 @@ keywords: ["serveur DLNA iPhone", "serveur UPnP iPad", "comment configurer DLNA 
 readingTime: 9
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 Le DLNA (aussi appelé UPnP AV) est le discret pilier de la plupart des smart TV. C'est un langage commun qui permet à une TV ou à un lecteur multimédia de trouver une bibliothèque multimédia sur le même Wi-Fi et d'y lire du contenu, sans rien à installer sur la TV. Si votre iPhone ou iPad peut jouer le rôle de cette bibliothèque, vos photos, vidéos et musique apparaissent tout seuls sur le grand écran.
 
@@ -127,44 +127,44 @@ Le DLNA transmet le fichier tel quel à la TV, et la TV doit pouvoir le décoder
 
 ## Questions fréquentes
 
-{{% details title="Quelle est la différence entre DLNA et UPnP ?" closed="true" %}}
+{{% ls-details title="Quelle est la différence entre DLNA et UPnP ?" closed="true" %}}
 Ils sont étroitement liés. L'UPnP est la norme réseau sous-jacente, et le DLNA est le profil multimédia construit par-dessus, que les TV et les lecteurs utilisent pour partager et lire photos, vidéos et musique. Dans l'usage courant, les deux mots sont interchangeables. Quand vous activez TV et centre multimédia dans Everdisk, votre appareil devient un serveur multimédia DLNA/UPnP que n'importe quel client DLNA peut parcourir.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Dois-je installer quelque chose sur ma TV ?" closed="true" %}}
+{{% ls-details title="Dois-je installer quelque chose sur ma TV ?" closed="true" %}}
 Non. Si votre TV prend en charge le DLNA, elle possède déjà un lecteur multimédia capable de trouver votre appareil sur le Wi-Fi. Vous installez uniquement Everdisk sur l'iPhone ou l'iPad qui contient le contenu. Si votre TV ne prend pas en charge le DLNA, installez un lecteur comme VLC ou Kodi sur un appareil qui lui est connecté.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Pourquoi mon iPhone n'apparaît-il pas sur la TV ?" closed="true" %}}
+{{% ls-details title="Pourquoi mon iPhone n'apparaît-il pas sur la TV ?" closed="true" %}}
 Vérifiez que les deux appareils sont sur le même réseau Wi-Fi. Les réseaux invités et certains réseaux de bureau ou d'hôtel empêchent les appareils de se voir, ce qui bloque le DLNA. Confirmez ensuite qu'Everdisk est ouvert avec le partage démarré, et que TV et centre multimédia est activé dans Réglages, Partage, Connexions. Si la TV ne le trouve toujours pas, ajoutez le serveur à la main avec l'adresse de description d'appareil qui se termine par /device-desc.xml.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="La diffusion DLNA nécessite-t-elle un mot de passe ?" closed="true" %}}
+{{% ls-details title="La diffusion DLNA nécessite-t-elle un mot de passe ?" closed="true" %}}
 Non. Le DLNA est toujours ouvert à quiconque sur le même Wi-Fi tant qu'il est activé, c'est pourquoi il n'y a pas de connexion à saisir côté TV. C'est très bien sur un réseau domestique de confiance. Sur un réseau auquel vous ne faites pas confiance, désactivez TV et centre multimédia une fois terminé, ou utilisez plutôt le serveur SMB avec chiffrement.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Puis-je diffuser vers un Chromecast ou un Roku ?" closed="true" %}}
+{{% ls-details title="Puis-je diffuser vers un Chromecast ou un Roku ?" closed="true" %}}
 Le Chromecast et le Roku ne fonctionnent pas comme lecteurs DLNA d'origine, ils ne trouveront donc pas directement votre appareil. La solution consiste à installer une application DLNA capable de caster, comme VLC ou BubbleUPnP sur un téléphone, et à y renvoyer la lecture vers le Chromecast ou le Roku. Sur la plupart des autres smart TV, le DLNA fonctionne sans tout cela.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Une vidéo se lit sans son ou ne s'ouvre pas. Que puis-je faire ?" closed="true" %}}
+{{% ls-details title="Une vidéo se lit sans son ou ne s'ouvre pas. Que puis-je faire ?" closed="true" %}}
 C'est un format que la TV ne peut pas décoder. Ouvrez Réglages, Partage, Vidéos dans Everdisk et baissez la Qualité pour que l'app convertisse la vidéo vers un format plus compatible pendant la diffusion. Vous pouvez aussi ouvrir le même fichier via le lien de navigateur, qui gère plus de formats.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Puis-je diffuser de la musique, pas seulement de la vidéo ?" closed="true" %}}
+{{% ls-details title="Puis-je diffuser de la musique, pas seulement de la vidéo ?" closed="true" %}}
 Oui. Activez Autoriser l'accès à toute la bibliothèque musicale, ou ajoutez des morceaux précis, puis démarrez le partage. Vos morceaux apparaissent sur n'importe quelle enceinte DLNA, ampli home-cinéma ou TV, avec la pochette et les détails du morceau. La musique est toujours partagée en qualité originale.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="L'app doit-elle rester ouverte pendant que je regarde ?" closed="true" %}}
+{{% ls-details title="L'app doit-elle rester ouverte pendant que je regarde ?" closed="true" %}}
 Oui. Votre iPhone joue le rôle de serveur, et iOS met en pause les applications reléguées complètement en arrière-plan pendant longtemps. Gardez Everdisk à l'écran pendant que vous diffusez, et branchez sur secteur pour les longues séances.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Comment diffuser d'un iPhone vers un autre iPad ?" closed="true" %}}
+{{% ls-details title="Comment diffuser d'un iPhone vers un autre iPad ?" closed="true" %}}
 Démarrez le partage sur l'iPhone, puis ouvrez Everdisk sur l'iPad et allez dans l'onglet Appareils. L'iPhone apparaît sous Appareils disponibles comme serveur multimédia. Touchez-le pour parcourir et lire. Everdisk fonctionne comme client et comme serveur DLNA, vous n'avez donc pas besoin d'une autre application.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Everdisk est-il gratuit ?" closed="true" %}}
+{{% ls-details title="Everdisk est-il gratuit ?" closed="true" %}}
 Oui, Everdisk se télécharge gratuitement et le serveur multimédia DLNA est inclus. Un achat facultatif et unique Premium à vie ajoute des extras comme la conversion photo et vidéo pour les TV plus anciennes, les ports personnalisés et plus encore. Vous pouvez configurer et utiliser la diffusion DLNA sans payer.
-{{% /details %}}
+{{% /ls-details %}}
 
 Envie d'essayer ? [Téléchargez Everdisk sur l'App Store](https://apps.apple.com/app/apple-store/id6751851132?pt=95781850&ct=everappzcom&mt=8) et diffusez votre premier album vers la TV en quelques minutes. Des questions ou des retours ? Écrivez-nous à **support@everappz.com**.

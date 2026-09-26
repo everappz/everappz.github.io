@@ -17,7 +17,7 @@ readingTime: 6
 يزودك قسم قوائم التشغيل بالأدوات اللازمة لتنظيم مقطوعاتك في قوائم. يتضمن عرض محتوى يعرض جميع قوائم التشغيل التي أنشأتها وزر "..." في شريط التنقل يوفر إجراءات متنوعة تتعلق بقوائم التشغيل وشريط أدوات التنقل مع أزرار "بحث" و"تشغيل الكل" و"خلط الكل". علاوة على ذلك، كل قائمة تشغيل فردية تتضمن زر "..." بجانب عنوان قائمة التشغيل، يوفر مجموعة من الإجراءات الخاصة بتلك القائمة.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="شاشة قوائم التشغيل في Evermusic" image="/docs/guide/evermusic/evermusic-guide-playlists/img/playlists-main.webp" >}}
+  {{< ls-card title="" subtitle="شاشة قوائم التشغيل في Evermusic" image="/docs/guide/evermusic/evermusic-guide-playlists/img/playlists-main.webp" >}}
 {{< /cards >}}
 
 ## إنشاء قائمة تشغيل
@@ -25,7 +25,7 @@ readingTime: 6
 لإنشاء قائمة تشغيل جديدة، انقر على زر "+" أو زر "..." في الزاوية العلوية اليمنى من شريط التنقل، اختر "قائمة تشغيل جديدة" وأعطِ اسمًا لقائمة التشغيل. بعد تسميتها، انقر على "حفظ".
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="إنشاء قائمة تشغيل جديدة" image="/docs/guide/evermusic/evermusic-guide-playlists/img/playlists-add-new.webp" >}}
+  {{< ls-card title="" subtitle="إنشاء قائمة تشغيل جديدة" image="/docs/guide/evermusic/evermusic-guide-playlists/img/playlists-add-new.webp" >}}
 {{< /cards >}}
 
 يؤدي هذا إلى ظهور حوار "إضافة أغانٍ"، حيث يمكنك اختيار المقطوعات التي تريد إضافتها إلى قائمة التشغيل الجديدة. تُصنَّف المقطوعات حسب نوع المصدر، ولديك عدة خيارات:
@@ -42,7 +42,7 @@ readingTime: 6
 في Evermusic، أضفنا وظيفة استيراد ملفات M3U، حتى لا تضطر إلى إنشاء قوائم التشغيل يدويًا.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="استيراد قائمة تشغيل من مصدر ملف" image="/docs/guide/evermusic/evermusic-guide-playlists/img/playlists-import-from-files.webp" >}}
+  {{< ls-card title="" subtitle="استيراد قائمة تشغيل من مصدر ملف" image="/docs/guide/evermusic/evermusic-guide-playlists/img/playlists-import-from-files.webp" >}}
 {{< /cards >}}
 
 أولاً، انتقل إلى قسم 'قوائم التشغيل'. ثم، انقر على زر 'المزيد' في الزاوية العلوية اليمنى. من القائمة التي تظهر، اختر خيار 'استيراد قائمة تشغيل'.
@@ -62,7 +62,7 @@ readingTime: 6
 عند فتح قائمة تشغيل، تظهر "شاشة تفاصيل قائمة التشغيل". على هذه الشاشة، ستجد زر "..." في الزاوية العلوية اليمنى مع خيارات قائمة التشغيل وثلاثة أزرار أسفل صورة الغلاف: "بحث" و"متابعة التشغيل" و"تشغيل الكل" و"خلط الكل". بالإضافة إلى ذلك، هناك مربع اختيار "وضع عدم الاتصال".
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="شاشة تفاصيل قائمة التشغيل" image="/docs/guide/evermusic/evermusic-guide-playlists/img/playlists-detail-screen.webp" >}}
+  {{< ls-card title="" subtitle="شاشة تفاصيل قائمة التشغيل" image="/docs/guide/evermusic/evermusic-guide-playlists/img/playlists-detail-screen.webp" >}}
 {{< /cards >}}
 
 - **متابعة التشغيل**: استعادة موضع التشغيل لهذه القائمة.
@@ -87,7 +87,7 @@ readingTime: 6
 - **حذف قائمة التشغيل:** حذف قائمة التشغيل من مكتبة الموسيقى. يرجى ملاحظة أن هذا الإجراء لا يمكن التراجع عنه.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="قائمة المزيد من الإجراءات لقائمة تشغيل" image="/docs/guide/evermusic/evermusic-guide-playlists/img/playlists-more-actions-for-separate-playlist.webp" >}}
+  {{< ls-card title="" subtitle="قائمة المزيد من الإجراءات لقائمة تشغيل" image="/docs/guide/evermusic/evermusic-guide-playlists/img/playlists-more-actions-for-separate-playlist.webp" >}}
 {{< /cards >}}
 
 ## المزيد من الإجراءات لقائمة التشغيل في شاشة تفاصيل قائمة التشغيل
@@ -113,7 +113,7 @@ readingTime: 6
 لتغيير ترتيب الأغاني في قائمة تشغيل، انقر على زر "..." في الزاوية العلوية اليمنى واختر "اختيار" للدخول إلى وضع الاختيار. استخدم عنصر التحكم في إعادة الترتيب وإيماءات السحب والإفلات بالقرب من كل مقطوعة لنقلها لأعلى أو لأسفل. سيؤدي النقر على عنصر التحكم في إعادة الترتيب إلى نقل المقطوعة إلى أعلى القائمة. للخروج من وضع الاختيار وتطبيق التغييرات، انقر على "تم".
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="تغيير ترتيب الأغاني في قائمة التشغيل" image="/docs/guide/evermusic/evermusic-guide-playlists/img/playlists-change-songs-order.webp" >}}
+  {{< ls-card title="" subtitle="تغيير ترتيب الأغاني في قائمة التشغيل" image="/docs/guide/evermusic/evermusic-guide-playlists/img/playlists-change-songs-order.webp" >}}
 {{< /cards >}}
 
 ## تغيير صورة غلاف قائمة التشغيل
@@ -129,7 +129,7 @@ readingTime: 6
 افتح قائمة التشغيل، انقر على زر "..." في الزاوية العلوية اليمنى، واختر "اختيار" للدخول إلى وضع الاختيار. اختر المقطوعات التي تريد حذفها وانقر على زر "حذف من قائمة التشغيل" في أسفل الشاشة. أكّد التغييرات بالنقر على "تم".
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="وضع الاختيار داخل قائمة التشغيل" image="/docs/guide/evermusic/evermusic-guide-playlists/img/playlists-selection-mode-in-playlist-details-screen.webp" >}}
+  {{< ls-card title="" subtitle="وضع الاختيار داخل قائمة التشغيل" image="/docs/guide/evermusic/evermusic-guide-playlists/img/playlists-selection-mode-in-playlist-details-screen.webp" >}}
 {{< /cards >}}
 
 ## خيارات المقطوعة
@@ -137,7 +137,7 @@ readingTime: 6
 كل مقطوعة في قائمة التشغيل لديها قائمة إجراءات، يمكن الوصول إليها بالنقر على زر "...". إذا لم تجد جميع الإجراءات، قم بالتمرير لأسفل لعرضها. يمكنك حذف المقطوعة من قائمة التشغيل وتنزيلها وتحرير علامات الصوت والمزيد.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="قائمة خيارات المقطوعة في قائمة تشغيل" image="/docs/guide/evermusic/evermusic-guide-playlists/img/playlists-track-options.webp" >}}
+  {{< ls-card title="" subtitle="قائمة خيارات المقطوعة في قائمة تشغيل" image="/docs/guide/evermusic/evermusic-guide-playlists/img/playlists-track-options.webp" >}}
 {{< /cards >}}
 
 - **تشغيل التالي:** إضافة المقطوعة إلى أعلى قائمة التشغيل.

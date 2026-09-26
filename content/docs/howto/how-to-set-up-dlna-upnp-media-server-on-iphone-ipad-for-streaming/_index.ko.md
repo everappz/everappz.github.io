@@ -7,7 +7,7 @@ keywords: ["iPhone DLNA 서버", "iPad UPnP 서버", "iPhone에서 DLNA 설정�
 readingTime: 9
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 DLNA(UPnP AV라고도 합니다)는 대부분의 스마트 TV 뒤에서 조용히 일하는 일꾼입니다. TV나 미디어 플레이어가 같은 Wi-Fi에 있는 미디어 라이브러리를 찾아 재생할 수 있게 해 주는 공통 언어이며, TV에 설치할 것이 아무것도 없습니다. iPhone이나 iPad가 그 라이브러리 역할을 할 수 있으면, 사진, 동영상, 음악이 큰 화면에 저절로 나타납니다.
 
@@ -127,44 +127,44 @@ DLNA는 파일을 그대로 TV에 넘기며, TV가 그것을 디코딩할 수 �
 
 ## 자주 묻는 질문
 
-{{% details title="DLNA와 UPnP의 차이는 무엇인가요?" closed="true" %}}
+{{% ls-details title="DLNA와 UPnP의 차이는 무엇인가요?" closed="true" %}}
 둘은 밀접하게 연결되어 있습니다. UPnP는 밑바탕이 되는 네트워킹 표준이고, DLNA는 그 위에 만들어진 미디어 프로필로 TV와 플레이어가 사진, 동영상, 음악을 공유하고 재생하는 데 사용합니다. 일상적으로는 두 단어를 서로 바꿔 써도 됩니다. Everdisk에서 TV 및 미디어 센터를 켜면 기기가 DLNA/UPnP 미디어 서버가 되어 어떤 DLNA 클라이언트든 둘러볼 수 있습니다.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="TV에 무언가 설치해야 하나요?" closed="true" %}}
+{{% ls-details title="TV에 무언가 설치해야 하나요?" closed="true" %}}
 아니요. TV가 DLNA를 지원한다면 Wi-Fi에서 기기를 찾을 수 있는 미디어 플레이어가 이미 있습니다. 콘텐츠가 담긴 iPhone이나 iPad에만 Everdisk를 설치하면 됩니다. TV가 DLNA를 지원하지 않는다면, 거기에 연결된 기기에 VLC나 Kodi 같은 플레이어를 설치하세요.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="iPhone이 TV에 나타나지 않는 이유는 무엇인가요?" closed="true" %}}
+{{% ls-details title="iPhone이 TV에 나타나지 않는 이유는 무엇인가요?" closed="true" %}}
 두 기기가 같은 Wi-Fi 네트워크에 있는지 확인하세요. 게스트 네트워크나 일부 사무실, 호텔 네트워크는 기기끼리 서로 보이지 못하게 막아 DLNA를 멈추게 합니다. 그다음 Everdisk가 열려 있고 공유가 시작되었는지, 그리고 설정, 공유, 연결에서 TV 및 미디어 센터가 켜져 있는지 확인하세요. 그래도 TV가 찾지 못하면 /device-desc.xml로 끝나는 기기 설명 주소로 서버를 직접 추가하세요.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="DLNA 스트리밍에 비밀번호가 필요한가요?" closed="true" %}}
+{{% ls-details title="DLNA 스트리밍에 비밀번호가 필요한가요?" closed="true" %}}
 아니요. DLNA는 켜져 있는 동안 같은 Wi-Fi에 있는 누구에게나 항상 열려 있으며, 그래서 TV 쪽에 로그인이 없습니다. 신뢰하는 홈 네트워크에서는 괜찮습니다. 신뢰하지 않는 네트워크에서는 사용을 마친 뒤 TV 및 미디어 센터를 끄거나, 대신 암호화된 SMB 서버를 사용하세요.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Chromecast나 Roku로 스트리밍할 수 있나요?" closed="true" %}}
+{{% ls-details title="Chromecast나 Roku로 스트리밍할 수 있나요?" closed="true" %}}
 Chromecast와 Roku는 기본적으로 DLNA 플레이어 역할을 하지 않으므로 기기를 직접 찾지 못합니다. 우회 방법은 휴대폰에 VLC나 BubbleUPnP처럼 캐스트가 되는 DLNA 앱을 설치해 거기서 Chromecast나 Roku로 재생을 밀어 보내는 것입니다. 대부분의 다른 스마트 TV에서는 이런 과정 없이 DLNA가 작동합니다.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="동영상이 소리 없이 재생되거나 열리지 않습니다. 어떻게 하나요?" closed="true" %}}
+{{% ls-details title="동영상이 소리 없이 재생되거나 열리지 않습니다. 어떻게 하나요?" closed="true" %}}
 TV가 디코딩할 수 없는 형식입니다. Everdisk에서 설정, 공유, 동영상을 열고 품질을 낮추면 앱이 스트리밍하면서 동영상을 더 호환되는 형식으로 변환합니다. 더 많은 형식을 처리하는 브라우저 링크로 같은 파일을 열 수도 있습니다.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="동영상뿐 아니라 음악도 스트리밍할 수 있나요?" closed="true" %}}
+{{% ls-details title="동영상뿐 아니라 음악도 스트리밍할 수 있나요?" closed="true" %}}
 네. 전체 음악 보관함 접근 허용을 켜거나 특정 곡을 추가한 뒤 공유를 시작하세요. 곡이 앨범아트와 트랙 정보와 함께 어떤 DLNA 스피커, AV 리시버, TV에도 나타납니다. 음악은 항상 원본 화질로 공유됩니다.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="감상하는 동안 앱이 열려 있어야 하나요?" closed="true" %}}
+{{% ls-details title="감상하는 동안 앱이 열려 있어야 하나요?" closed="true" %}}
 네. iPhone이 서버 역할을 하고 있으며, iOS는 완전히 백그라운드로 오래 밀려난 앱을 일시정지합니다. 스트리밍하는 동안 Everdisk를 화면에 열어 두고, 긴 감상에는 전원에 연결하세요.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="한 iPhone에서 다른 iPad로 어떻게 스트리밍하나요?" closed="true" %}}
+{{% ls-details title="한 iPhone에서 다른 iPad로 어떻게 스트리밍하나요?" closed="true" %}}
 iPhone에서 공유를 시작한 뒤 iPad에서 Everdisk를 열고 기기 탭으로 가세요. iPhone이 사용 가능한 기기 아래에 미디어 서버로 나타납니다. 탭해서 둘러보고 재생하세요. Everdisk는 DLNA 클라이언트이자 서버로 작동하므로 다른 앱이 필요 없습니다.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Everdisk는 무료인가요?" closed="true" %}}
+{{% ls-details title="Everdisk는 무료인가요?" closed="true" %}}
 네, Everdisk는 무료로 내려받을 수 있으며 DLNA 미디어 서버가 포함되어 있습니다. 선택 사항인 일회성 Premium Lifetime 구매는 오래된 TV를 위한 사진과 동영상 변환, 사용자 지정 포트 등 추가 기능을 더합니다. 결제 없이 DLNA 스트리밍을 설정하고 사용할 수 있습니다.
-{{% /details %}}
+{{% /ls-details %}}
 
 한번 써 보시겠어요? [App Store에서 Everdisk를 다운로드](https://apps.apple.com/app/apple-store/id6751851132?pt=95781850&ct=everappzcom&mt=8)하고 몇 분 만에 첫 앨범을 TV로 스트리밍해 보세요. 궁금한 점이나 의견이 있으신가요? **support@everappz.com**으로 이메일을 보내 주세요.

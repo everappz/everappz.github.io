@@ -12,7 +12,7 @@ authors:
     image: "/images/about/artem-meleshko-founder-everappz.webp"
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 **En bref :** Evermusic 3.6 ajoute l'intégration Apple CarPlay, l'accessibilité VoiceOver complète, la sortie audio mixte, la reprise automatique de la lecture, l'édition des pochettes et des tags pour FLAC/MP3/AIFF, et l'importation de fichiers depuis iCloud Drive.
 
@@ -78,18 +78,18 @@ Importez des fichiers musicaux directement depuis iCloud Drive et d'autres appli
 
 ## FAQ
 
-{{% details title="Evermusic fonctionne-t-il avec CarPlay ?" closed="true" %}}
+{{% ls-details title="Evermusic fonctionne-t-il avec CarPlay ?" closed="true" %}}
 Oui. À partir de la version 3.6, Evermusic prend entièrement en charge Apple CarPlay. Vous pouvez parcourir et écouter votre bibliothèque musicale depuis l'écran intégré de votre voiture.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Evermusic est-il accessible aux utilisateurs aveugles ou malvoyants ?" closed="true" %}}
+{{% ls-details title="Evermusic est-il accessible aux utilisateurs aveugles ou malvoyants ?" closed="true" %}}
 Oui. Evermusic 3.6 inclut une prise en charge complète de VoiceOver avec des libellés descriptifs, des indications et un mode d'interface simplifiée.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Puis-je modifier les tags FLAC sur iPhone avec Evermusic ?" closed="true" %}}
+{{% ls-details title="Puis-je modifier les tags FLAC sur iPhone avec Evermusic ?" closed="true" %}}
 Oui. Evermusic inclut un éditeur de tags intégré qui fonctionne avec les fichiers FLAC, MP3 et AIFF. Vous pouvez modifier les titres, artistes, albums et pochettes.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Evermusic se souvient-il de l'endroit où j'ai arrêté l'écoute ?" closed="true" %}}
+{{% ls-details title="Evermusic se souvient-il de l'endroit où j'ai arrêté l'écoute ?" closed="true" %}}
 Oui. Lorsque « Save Audio Player State » est activé, Evermusic restaure votre file d'attente, la piste en cours et la position exacte de lecture lorsque vous rouvrez l'application.
-{{% /details %}}
+{{% /ls-details %}}

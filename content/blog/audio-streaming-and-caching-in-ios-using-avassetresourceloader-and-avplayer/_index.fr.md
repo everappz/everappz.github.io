@@ -12,7 +12,7 @@ authors:
     image: "/images/about/artem-meleshko-founder-everappz.webp"
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 ![](/blog/audio-streaming-and-caching-in-ios-using-avassetresourceloader-and-avplayer/diagram.png)
 
@@ -134,18 +134,18 @@ Cette approche alimente le moteur de streaming audio dans [Evermusic](https://ap
 
 ## Foire aux questions
 
-{{% details title="Quand utiliser AVAssetResourceLoaderDelegate plutôt qu'une URL directe ?" closed="true" %}}
+{{% ls-details title="Quand utiliser AVAssetResourceLoaderDelegate plutôt qu'une URL directe ?" closed="true" %}}
 Utilisez-le lorsque le service cloud exige des en-têtes d'autorisation personnalisés, lorsque vous avez besoin d'un cache disque pour l'audio diffusé, ou lorsque vous souhaitez un contrôle précis sur la façon dont les données sont chargées et mises en mémoire tampon.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Cette approche fonctionne-t-elle avec Swift ?" closed="true" %}}
+{{% ls-details title="Cette approche fonctionne-t-elle avec Swift ?" closed="true" %}}
 Oui. Le protocole `AVAssetResourceLoaderDelegate` fonctionne de la même manière en Swift. Les exemples Objective-C présentés ici se traduisent directement.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Puis-je utiliser ceci pour le streaming vidéo aussi ?" closed="true" %}}
+{{% ls-details title="Puis-je utiliser ceci pour le streaming vidéo aussi ?" closed="true" %}}
 Oui. `AVAssetResourceLoaderDelegate` fonctionne avec tout type de média pris en charge par AVPlayer, y compris la vidéo. La même approche avec un schéma personnalisé s'applique.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Cela prend-il en charge la lecture audio en arrière-plan ?" closed="true" %}}
+{{% ls-details title="Cela prend-il en charge la lecture audio en arrière-plan ?" closed="true" %}}
 Oui, à condition d'activer le mode d'arrière-plan « Audio, AirPlay et Image dans l'image » dans les capacités de votre application et de configurer correctement votre `AVAudioSession`.
-{{% /details %}}
+{{% /ls-details %}}

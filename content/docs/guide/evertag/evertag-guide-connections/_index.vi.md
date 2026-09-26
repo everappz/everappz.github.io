@@ -15,7 +15,7 @@ readingTime: 11
 Trên màn hình này, bạn có thể kết nối các nguồn chứa tệp âm thanh của mình. Bạn có thể tích hợp các dịch vụ đám mây phổ biến như Google Drive, Dropbox, OneDrive, iCloud và nhiều dịch vụ khác, cũng như kết nối Mac hoặc PC. Ngoài ra, bạn có thể chỉnh sửa các tệp âm thanh trên Apple Time Capsule, WD Cloud Home hoặc bất kỳ NAS nào hỗ trợ SMB hoặc WebDAV.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evertag Connections Screen" image="/docs/guide/evertag/img/connections.webp" >}}
+  {{< ls-card title="" subtitle="Evertag Connections Screen" image="/docs/guide/evertag/img/connections.webp" >}}
 {{< /cards >}}
 
 ## Truy cập nhanh
@@ -151,7 +151,7 @@ Các hành động có sẵn:
 - **Lưới/Danh sách**: chuyển đổi giữa hai chế độ xem: dạng bảng và dạng hình thu nhỏ.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evertag Cloud Folder Sort" image="/docs/guide/evertag/img/cloud-storage-sort.webp" >}}
+  {{< ls-card title="" subtitle="Evertag Cloud Folder Sort" image="/docs/guide/evertag/img/cloud-storage-sort.webp" >}}
 {{< /cards >}}
 
 ## Chỉnh sửa tệp trực tuyến
@@ -163,7 +163,7 @@ Khi cần quản lý nhiều tệp trong bộ nhớ đám mây, bạn có thể 
 - **Thực hiện các hành động**: sau khi chọn tệp hoặc thư mục, bạn sẽ có quyền truy cập vào nhiều hành động.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evertag File Select" image="/docs/guide/evertag/img/cloud-storage-file-select.webp" >}}
+  {{< ls-card title="" subtitle="Evertag File Select" image="/docs/guide/evertag/img/cloud-storage-file-select.webp" >}}
 {{< /cards >}}
 
 ## Hành động với tệp
@@ -180,7 +180,7 @@ Nhấn vào để xem danh sách các hành động có sẵn:
 - **Xóa**: thao tác này xóa vĩnh viễn tệp khỏi bộ nhớ đám mây. **Không thể hoàn tác thao tác xóa này**.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evertag File Options" image="/docs/guide/evertag/img/cloud-storage-file-options.webp" >}}
+  {{< ls-card title="" subtitle="Evertag File Options" image="/docs/guide/evertag/img/cloud-storage-file-options.webp" >}}
 {{< /cards >}}
 
 Nếu danh sách hành động vượt quá không gian màn hình, hãy cuộn xuống trong menu hành động để xem thêm tùy chọn.
@@ -196,5 +196,5 @@ Nếu danh sách hành động vượt quá không gian màn hình, hãy cuộn 
 - **Xóa**: thao tác này xóa vĩnh viễn thư mục và nội dung của nó khỏi bộ nhớ đám mây. **Không thể hoàn tác thao tác này**.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evertag Folder Options" image="/docs/guide/evertag/img/cloud-storage-folder-options.webp" >}}
+  {{< ls-card title="" subtitle="Evertag Folder Options" image="/docs/guide/evertag/img/cloud-storage-folder-options.webp" >}}
 {{< /cards >}}

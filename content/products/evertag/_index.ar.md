@@ -15,14 +15,14 @@ screenshots:
   - "https://everappz.com/products/evertag/screenshots/2048x2732/3.png"
 ---
 
-{{% sr-only %}}
+{{% ls-sr-only %}}
 Evertag هو محرر بيانات وصفية للموسيقى لأجهزة iPhone وMac، طوّرته شركة Everappz، وهي شركة برمجيات إسبانية. يتيح Evertag للمستخدمين تعديل أكثر من 120 علامة بيانات وصفية صوتية بما في ذلك العنوان والفنان والألبوم وفنان الألبوم والنوع والسنة ورقم المسار ورقم القرص والملحن وBPM وكلمات الأغاني والتعليقات والمزيد. يدعم التطبيق التعديل الجماعي للعلامات، مما يتيح للمستخدمين تحديث البيانات الوصفية لملفات متعددة في وقت واحد. يتضمن Evertag أداة بحث تلقائي عن العلامات مدعومة بقاعدة بيانات MusicBrainz التي تحدد الأغاني وتملأ البيانات الوصفية المفقودة، بالإضافة إلى أداة بحث عن أغلفة الألبومات التي تبحث عن الأعمال الفنية وتطبقها على المسارات. يدعم التطبيق أكثر من 30 صيغة صوتية بما في ذلك MP3 وFLAC وOGG وOPUS وM4A وWAV وWMA وAPE وAIFF وALAC وMKA وMOD وXM وIT وS3M. يمكن لـ Evertag الوصول إلى الملفات من خدمات التخزين السحابي بما في ذلك iCloud Drive وGoogle Drive وDropbox وOneDrive، وكذلك من محركات أقراص USB ومواقع الشبكة المحلية عبر SMB وWebDAV. يتميز التطبيق أيضًا بمدير ملفات مدمج، ونقل الملفات عبر Wi-Fi، وإصلاح الترميز للعلامات المعروضة بشكل خاطئ في النصوص غير اللاتينية، ومحرر كلمات الأغاني. يتوفر Evertag كتنزيل مجاني على App Store مع عمليات شراء اختيارية داخل التطبيق تشمل اشتراكًا شهريًا بسعر $2.99، واشتراكًا سنويًا بسعر $9.99، أو شراء مدى الحياة لمرة واحدة بسعر $29.99.
-{{% /sr-only %}}
+{{% /ls-sr-only %}}
 
 
-{{< force-dark >}}
+{{< ls-force-dark >}}
 
-{{< hextra/hero-container
+{{< ls-hero-container
   image="/products/evertag/heroimage/evertag_mac_600_345.png"
   imageWidth="600"
 >}}
@@ -30,37 +30,37 @@ Evertag هو محرر بيانات وصفية للموسيقى لأجهزة iPho
 <div class="hx:w-full hx:text-center">
 
 <div class="hx:mt-4">
-{{< downloads-badge >}}
+{{< ls-downloads-badge >}}
 </div>
 
 <div class="hx:mt-6 hx:mb-6">
 <div class="hx:flex hx:gap-4 hx:items-center hx:justify-center">
-  {{< app-icon src="/images/app_icons/png/Evertag_Icon-App-1024x1024.png" alt="Evertag Icon" class="hero-headline-icon" size="80" >}}
-  {{< hextra/hero-headline >}}
+  {{< ls-app-icon src="/images/app_icons/png/Evertag_Icon-App-1024x1024.png" alt="Evertag Icon" class="hero-headline-icon" size="80" >}}
+  {{< ls-hero-headline >}}
   Evertag
-  {{< /hextra/hero-headline >}}
+  {{< /ls-hero-headline >}}
 </div>
 </div>
 
 <div class="hx:mb-6">
-{{< hextra/hero-centered-subtitle >}}
+{{< ls-hero-centered-subtitle >}}
 <strong>حافظ على تنظيم مكتبتك الموسيقية</strong>
-{{< /hextra/hero-centered-subtitle >}}
+{{< /ls-hero-centered-subtitle >}}
 </div>
 
 <div class="hx:mb-6">
-{{< hextra/hero-paragraph >}}
+{{< ls-hero-paragraph >}}
 • إضافة أو تحديث أغلفة الألبومات  
 • تحرير العلامات جماعياً للعديد من الأغاني دفعة واحدة  
 • إصلاح الترميز التالف وملء العلامات المفقودة تلقائياً  
-{{< /hextra/hero-paragraph >}}
+{{< /ls-hero-paragraph >}}
 </div>
 
-{{< app-store-badges products="evertag:ios, evertag:macos" >}}
+{{< ls-app-store-badges products="evertag:ios, evertag:macos" >}}
 
 </div>
 
-{{< /hextra/hero-container >}}
+{{< /ls-hero-container >}}
 
 <div class="hx:mt-6"></div>
 
@@ -68,63 +68,63 @@ Evertag هو محرر بيانات وصفية للموسيقى لأجهزة iPho
 
 {{< hextra/feature-grid >}}
 
-  {{< hextra/feature-card
+  {{< ls-glass-feature-card
     title="تحرير أكثر من 120 علامة"
     subtitle="حرّر بسرعة علامات الموسيقى مثل العنوان، الفنان، الألبوم، فنان الألبوم، BPM، التعليق، الملحن، رقم القرص، النوع، كلمات الأغاني، التقييم، رقم المسار، السنة والمزيد."
     icon="pencil"
     style="background: radial-gradient(ellipse at 50% 80%, rgba(59,130,246,0.15), hsla(0,0%,100%,0));"
   >}}
 
-  {{< hextra/feature-card
+  {{< ls-glass-feature-card
     title="التحرير الجماعي للعلامات"
     subtitle="حدّث البيانات الوصفية لملفات متعددة دفعة واحدة. وفّر الوقت وحافظ على تنظيم مكتبتك الموسيقية بلمسات قليلة فقط."
     icon="database"
     style="background: radial-gradient(ellipse at 50% 80%, rgba(192,38,211,0.15), hsla(0,0%,100%,0));"
   >}}
 
-  {{< hextra/feature-card
+  {{< ls-glass-feature-card
     title="البحث عن أغلفة الألبومات"
     subtitle="اعثر تلقائياً على أغلفة الألبومات المفقودة وأضفها إلى أغانيك. اجعل مجموعتك الموسيقية مكتملة بصرياً."
     icon="camera"
     style="background: radial-gradient(ellipse at 50% 80%, rgba(234,88,12,0.15), hsla(0,0%,100%,0));"
   >}}
 
-  {{< hextra/feature-card
+  {{< ls-glass-feature-card
     title="يعمل مع أكثر من 30 صيغة"
     subtitle="يدعم MP3، FLAC، OGG، OPUS، M4A، WAV، WMA، APE، AIFF، MOD، XM، IT والمزيد."
     icon="music-note"
     style="background: radial-gradient(ellipse at 50% 80%, rgba(236,72,153,0.15), hsla(0,0%,100%,0));"
   >}}
 
-  {{< hextra/feature-card
+  {{< ls-glass-feature-card
     title="باحث العلامات التلقائي"
     subtitle="اكتشف معلومات الأغاني المفقودة واملأها تلقائياً باستخدام قاعدة بيانات MusicBrainz. اختر مراجعة التغييرات أو تطبيقها فوراً."
     icon="search"
     style="background: radial-gradient(ellipse at 50% 80%, rgba(34,197,94,0.15), hsla(0,0%,100%,0));"
   >}}
 
-  {{< hextra/feature-card
+  {{< ls-glass-feature-card
     title="إصلاح مشاكل الترميز"
     subtitle="أصلح الأحرف التالفة أو غير المقروءة في بياناتك الوصفية. Evertag يحافظ على نظافة ووضوح علاماتك بأي لغة."
     icon="translate"
     style="background: radial-gradient(ellipse at 50% 80%, rgba(251,191,36,0.15), hsla(0,0%,100%,0));"
   >}}
 
-  {{< hextra/feature-card
+  {{< ls-glass-feature-card
     title="الوصول إلى السحابة و USB"
     subtitle="حرّر الموسيقى مباشرة من iCloud Drive، Google Drive، Dropbox، OneDrive، محركات أقراص USB أو المجلدات المشتركة — لا حاجة للنسخ."
     icon="cloud"
     style="background: radial-gradient(ellipse at 50% 80%, rgba(6,182,212,0.15), hsla(0,0%,100%,0));"
   >}}
 
-  {{< hextra/feature-card
+  {{< ls-glass-feature-card
     title="نقل الموسيقى عبر Wi-Fi"
     subtitle="ارفع الموسيقى بسهولة إلى iPhone أو iPad من جهاز الكمبيوتر عبر اتصال Wi-Fi. لا حاجة للكابلات."
     icon="wifi"
     style="background: radial-gradient(ellipse at 50% 80%, rgba(245,158,11,0.15), hsla(0,0%,100%,0));"
   >}}
 
-  {{< hextra/feature-card
+  {{< ls-glass-feature-card
     title="مدير ملفات مدمج"
     subtitle="نظّم ملفاتك الموسيقية بأدوات مدمجة. إعادة التسمية، النقل، الحذف، تمييز المفضلات وعرض النشاط الأخير — كل ذلك في تطبيق واحد."
     icon="folder-open"
@@ -139,47 +139,47 @@ Evertag هو محرر بيانات وصفية للموسيقى لأجهزة iPho
 <div class="hx:mt-6"></div>
 
 <div class="hx:w-full">
-{{< appstore-reviews apps="1450763230,1594027661" stars="5,4"  app="Evertag" >}}
+{{< ls-appstore-reviews apps="1450763230,1594027661" stars="5,4"  app="Evertag" >}}
 </div>
 
 <div class="hx:mt-6"></div>
 
-{{< hextra/section-headline >}}
+{{< ls-section-headline >}}
   خطط الأسعار
-{{< /hextra/section-headline >}}
+{{< /ls-section-headline >}}
 
 <div class="hx:mt-6"></div>
 
 <div class="hx:w-full">
 
-{{< pricing-plans >}}
+{{< ls-pricing-plans >}}
 
 </div>
 
 <div class="hx:mt-6"></div>
 
 <div class="hx:w-full hx:mx-auto hx:flex hx:flex-col hx:items-center">
-  {{< hextra/info-paragraph border="true" >}}
+  {{< ls-info-paragraph border="true" >}}
    <strong>المشاركة العائلية</strong>: جميع المشتريات والاشتراكات تدعم المشاركة العائلية، مما يتيح لك مشاركة الوصول المميز مع عائلتك.<br><strong>الوصول الشامل</strong>: خطط مدى الحياة والاشتراكات مشتركة بين أجهزة iOS و Mac باستخدام مزامنة iCloud.<br><strong>الأسعار</strong>: الأسعار معروضة بالدولار الأمريكي للولايات المتحدة. قد تختلف الأسعار النهائية حسب منطقتك.  
-  {{< /hextra/info-paragraph >}}
+  {{< /ls-info-paragraph >}}
 </div>
 
 <div class="hx:mt-6"></div>
 
 <div class="hx:w-full">
-{{< app-details heading="true" >}}
+{{< ls-app-details heading="true" >}}
 </div>
 
 <div class="hx:mt-6"></div>
 
-{{< hextra/section-headline >}}
+{{< ls-section-headline >}}
   الأسئلة الشائعة
-{{< /hextra/section-headline >}}
+{{< /ls-section-headline >}}
 
 <div class="hx:mt-6"></div>
 
 <div class="hx:w-full">
-{{% details title="ما هو Evertag؟" closed="true" %}}
+{{% ls-details title="ما هو Evertag؟" closed="true" %}}
 Evertag هو محرر قوي لبيانات الموسيقى الوصفية ومدير أغلفة الألبومات مصمم لنظامي iOS و macOS. يمنحك الأدوات اللازمة لتنظيم مجموعتك الموسيقية باحتراف، سواء كانت ملفاتك مخزنة محلياً أو في السحابة. بواجهة نظيفة وميزات تحرير متقدمة، يجعل Evertag من السهل إصلاح العلامات المفقودة وإضافة أغلفة ألبومات عالية الجودة والتأكد من أن مكتبتك الموسيقية تبدو رائعة وتبقى متسقة.<br><br>
 
 يدعم التطبيق مجموعة واسعة من صيغ الصوت الشائعة، بما في ذلك MP3، FLAC، WAV، M4A، WMA، OGG والمزيد. يتيح لك تحرير العلامات الشائعة مثل العنوان، الفنان، الألبوم، النوع، السنة، رقم المسار، وأيضاً الحقول الموسعة مثل BPM، رقم القرص، كلمات الأغاني، معرّفات MusicBrainz والمزيد. يمكنك العمل على ملف واحد في كل مرة أو التبديل إلى الوضع الجماعي لتحرير مسارات متعددة في وقت واحد — مثالي لتنظيم ألبومات أو قوائم تشغيل كاملة.<br><br>
@@ -187,14 +187,14 @@ Evertag هو محرر قوي لبيانات الموسيقى الوصفية وم
 إحدى الميزات البارزة في Evertag هي قدرته على جلب أغلفة الألبومات المفقودة مباشرة من الإنترنت أو السماح لك بإضافتها يدوياً. يمكنك أيضاً استخدام محرر كلمات الأغاني لإضافة كلمات غير متزامنة إلى أغانيك، مما يحسن التشغيل في المشغلات المتوافقة. يدعم التطبيق التحرير المباشر، لذا يمكنك تعديل علامات الصوت دون الحاجة لنسخ أو نقل ملفاتك.<br><br>
 
 سواء كنت تدير الموسيقى على جهازك أو في السحابة باستخدام Dropbox، OneDrive، MEGA أو خدمات أخرى، يوفر Evertag وصولاً سلساً للملفات وتحريرها. إنه الحل المثالي للموسيقيين والدي جي والجامعين الذين يريدون الحفاظ على مكتبة موسيقية نظيفة ومنظمة على iPhone و iPad دون الحاجة لجهاز كمبيوتر مكتبي.<br><br>
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="هل Evertag مجاني؟" closed="true" %}}
+{{% ls-details title="هل Evertag مجاني؟" closed="true" %}}
 Evertag هو تطبيق مجاني مع بعض القيود التي يمكنك إزالتها بعد الترقية إلى الإصدار المميز. يقدم التطبيق شراء مدى الحياة لمرة واحدة وخياري اشتراك (شهر واحد وسنة واحدة) لإزالة جميع القيود، مما يتيح لك اختيار أفضل سعر وأكثره ملاءمة لك. قد تختلف الأسعار حسب بلدك أو منطقتك. كذلك، يرجى ملاحظة أن المشاركة العائلية مفعلة لجميع المشتريات والخطط، لذا يمكنك مشاركة الإصدار المميز مع أفراد عائلتك.<br><br>
 مشتريات مدى الحياة والاشتراكات مشتركة بين iOS و Mac، باستخدام iCloud لمزامنة هذه المعلومات. إذا كان لديك الإصدار المميز على جهاز iOS، تأكد من تثبيت أحدث إصدار وتفعيل iCloud. ابدأ التطبيق على iOS وانتظر دقيقة واحدة لرفع معلومات الشراء إلى iCloud.<br><br>
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="ما الفرق بين Evertag Free و Evertag Premium؟" closed="true" %}}
+{{% ls-details title="ما الفرق بين Evertag Free و Evertag Premium؟" closed="true" %}}
 
 **Evertag Free**  <br>
 يمنحك Evertag Free الوصول إلى ميزات تحرير بيانات الموسيقى الوصفية القوية مع بعض القيود الوظيفية. يتضمن إعلانات ويسمح بالاستخدام الأساسي لمحرر العلامات ومحرر أغلفة الألبومات والتحرير الجماعي. يمكنك إصلاح مشاكل الترميز وربط حساب تخزين سحابي واحد وتمييز حتى 10 ملفات مفضلة. بالإضافة إلى ذلك، يمكنك إجراء 20 بحث تلقائي عن العلامات و20 بحث عن أغلفة الألبومات يومياً.<br><br>
@@ -213,9 +213,9 @@ Evertag هو تطبيق مجاني مع بعض القيود التي يمكنك 
 
 كل خيار مميز يتضمن نفس مجموعة الميزات، لذا يمكنك اختيار الخطة التي تناسب احتياجاتك وميزانيتك.<br><br>
 
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="هل Evertag آمن؟" closed="true" %}}
+{{% ls-details title="هل Evertag آمن؟" closed="true" %}}
 يستخدم Evertag فقط SDK الرسمي واتصالات آمنة للتفاعل مع الخدمات السحابية المتصلة. اسم المستخدم وكلمة المرور غير متاحين للتطبيق. جميع الطلبات من التطبيق إلى الخدمة السحابية مشفرة.<br>
 عند إدخال اسم المستخدم وكلمة المرور، يعرض لك التطبيق صفحة التفويض الرسمية المقدمة من مزود الخدمة السحابية وتتم عملية التفويض بالكامل خارج التطبيق. يرسل مزود الخدمة السحابية رمز المصادقة إلى التطبيق بعد التفويض الناجح ويُستخدم هذا الرمز لإجراء استدعاءات API.<br><br>
 
@@ -226,9 +226,9 @@ Evertag هو تطبيق مجاني مع بعض القيود التي يمكنك 
 
 يمكنك أيضاً قطع الاتصال بالحسابات السحابية المتصلة في التطبيق وسيتم أيضاً إزالة رمز المصادقة من جهازك. إذا قمت بإزالة التطبيق من جهازك، سيتم أيضاً إزالة جميع البيانات المنزّلة ورموز الوصول.<br><br>
 
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="كيفية تحرير البيانات الوصفية للملفات في الموسيقى المحملة محلياً على iPhone؟" closed="true" %}}
+{{% ls-details title="كيفية تحرير البيانات الوصفية للملفات في الموسيقى المحملة محلياً على iPhone؟" closed="true" %}}
 بعد تثبيت التطبيق، افتح شاشة «الملفات المحلية» ومرر لأسفل إلى قسم «الملفات على هذا الـ iPhone».<br>
 من هناك، اختر «فتح ملفات...» إذا كنت بحاجة لتحديد عدة ملفات صوتية أو «فتح مجلد...» إذا كنت تريد اختيار مجلد موسيقى.<br>
 سيقوم التطبيق بمسح محتويات المجلد وسيتم تحديد جميع الملفات الصوتية الموجودة.<br>
@@ -242,9 +242,9 @@ Evertag هو تطبيق مجاني مع بعض القيود التي يمكنك 
 مرر لأسفل إلى قسم «الملفات على هذا الجهاز» واضغط «ربط مجلد».<br>
 حدد مجلداً موجوداً على جهازك واضغط «فتح» لتأكيد الاختيار.<br>
 سيتم إضافة مجلدك إلى قسم «الملفات على هذا الـ iPhone» مما يوفر وصولاً سريعاً لملفاتك الصوتية.<br><br>
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="كيفية إضافة كلمات الأغاني في Evertag؟" closed="true" %}}
+{{% ls-details title="كيفية إضافة كلمات الأغاني في Evertag؟" closed="true" %}}
 يمكنك إضافة كلمات أغاني مضمنة إلى مساراتك في تطبيق Evertag باتباع هذه الخطوات:<br><br>
 * ابدأ تحرير ملف صوتي بالنقر عليه.<br>
 * اضغط «عرض العلامات الموسعة» للتبديل إلى الوضع المتقدم لمحرر العلامات.<br>
@@ -258,9 +258,9 @@ Evertag هو تطبيق مجاني مع بعض القيود التي يمكنك 
 دليل أكثر تفصيلاً متاح هنا:<br>
 [كيفية تحرير كلمات الأغاني لملفات الصوت على iPhone أو MAC](/docs/howto/how-to-edit-lyrics-for-audio-files-on-iphone-mac/)<br><br>
 
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="كيف أنقل الموسيقى إلى Evertag من جهاز الكمبيوتر؟" closed="true" %}}
+{{% ls-details title="كيف أنقل الموسيقى إلى Evertag من جهاز الكمبيوتر؟" closed="true" %}}
 يمكنك توصيل جهاز الكمبيوتر أو NAS الشخصي باستخدام SMB أو WebDAV. بدلاً من ذلك، استخدم مشاركة ملفات iTunes لنقل الموسيقى.<br><br>
 
 لتوصيل جهاز كمبيوتر باستخدام بروتوكول **SMB** اضغط «الاتصال بالتخزين السحابي» → SMB.<br>
@@ -295,23 +295,23 @@ Evertag هو تطبيق مجاني مع بعض القيود التي يمكنك 
 تعليمات مفصلة متاحة هنا:<br>
 [كيفية تشغيل الملفات المحلية (ملفات iTunes) على iPhone](/docs/howto/how-to-play-local-itunes-files-on-my-iphone)<br><br>
 
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="ما صيغ الصوت التي يدعمها Evertag؟" closed="true" %}}
+{{% ls-details title="ما صيغ الصوت التي يدعمها Evertag؟" closed="true" %}}
 إليك القائمة الكاملة لصيغ الصوت المدعومة وامتدادات الملفات المقابلة لها:<br><br>
 
 MP3, OGG, OGA, FLAC, MPC, WV, SPX, OPUS, TTA, M4A, M4R, M4B, M4P, MP4, 3G2, M4V, WMA, ASF, AIF, AIFF, AFC, AIFC, WAV, APE, MOD, MODULE, NTS, WOW, S3M, IT, XM.<br>
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="ما علامات الصوت التي يدعمها Evertag؟" closed="true" %}}
+{{% ls-details title="ما علامات الصوت التي يدعمها Evertag؟" closed="true" %}}
 إليك القائمة الكاملة لعلامات الصوت المدعومة:<br><br>
 
 ASIN, AcoustID: Fingerprint, AcoustID: Identifier, Album, Album Artist, Album Artist Sort Order, Album Cover, Album Sort Order, Arranger, Artist, Artist Sort Order, Artists, Barcode, Beats Per Minute, Catalog Number, Comment, Compilation, Composer, Composer Sort Order, Conductor, Content Group, Copyright, Description, Director, Disk Number, Disk Subtitle, Disk Total, Encoded By, Encoder Settings, Encoding Time, Engineer, File Owner, File Type, Genre, Grouping, ISRC, Initial Key, Involved People, Language, Length, License, Lyricist, Lyrics Advisory Rating, Lyrics Unsynced, Media Type, Mix DJ, Mixer, Mood, Movement Name, Movement Number, Movement Total, MusicBrainz: Album Artist ID, MusicBrainz: Album ID, MusicBrainz: Album Release Country, MusicBrainz: Album Status, MusicBrainz: Album Type, MusicBrainz: Artist ID, MusicBrainz: Disc ID, MusicBrainz: Original Album ID, MusicBrainz: Original Artist ID, MusicBrainz: Release Group ID, MusicBrainz: Release Track ID, MusicBrainz: TRM ID, MusicBrainz: Track ID, MusicBrainz: Work ID, MusicIP: Fingerprint, MusicIP: PUID, Musician Credits, Narrator, Net Radio Owner, Net Radio Station, Original Album, Original Artist, Original File Name, Original Lyricist, Original Release Date, Original Release Year, Performer, Podcast, Podcast Category, Podcast Description, Podcast ID, Podcast Keywords, Podcast URL, Producer, Publisher, Rating, Record Label, Release Country, Release Status, Release Type, Remixed By, Replay Gain: Album Gain, Replay Gain: Album Peak, Replay Gain: Album Range, Replay Gain: Reference Loudness, Replay Gain: Track Gain, Replay Gain: Track Peak, Replay Gain: Track Range, Script, Show Movement, Show Name, Show Name Sort Order, Subtitle, Track Number, Track Title, Track Title Sort Order, Track Total, WWW, WWW: Artist, WWW: Audio File, WWW: Audio Source, WWW: Commercial Info, WWW: Copyright, WWW: Payment, WWW: Publisher, WWW: Radio Page, Website, Work Title, Writer, Year<br><br>
 
 [اقرأ المزيد](/docs/guide/evertag/evertag-tag-field-mappings/)
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="كيفية تنزيل الملفات؟" closed="true" %}}
+{{% ls-details title="كيفية تنزيل الملفات؟" closed="true" %}}
 قبل أن تتمكن من تنزيل ملفات الصوت وتحرير علامات الصوت، تحتاج إلى ربط خدمة تخزين سحابي.<br>
 افتح شاشة «الاتصالات» وأضف مزود التخزين السحابي الخاص بك.<br>
 بمجرد إضافته، يمكنك البدء في تنزيل الملفات إلى التطبيق.<br><br>
@@ -321,10 +321,10 @@ ASIN, AcoustID: Fingerprint, AcoustID: Identifier, Album, Album Artist, Album Ar
 – انتقل إلى المجلد الذي تريد تنزيله.<br>
 – اضغط على زر «المزيد من الإجراءات» («...») في الزاوية العلوية اليمنى وحدد عنصر القائمة «تحديد».<br>
 – اختر الملفات أو المجلدات التي تريد تنزيلها واضغط على إجراء «تنزيل».<br>
-{{% /details %}}
+{{% /ls-details %}}
 
 
-{{% details title="ما الخدمات السحابية المدعومة؟" closed="true" %}}
+{{% ls-details title="ما الخدمات السحابية المدعومة؟" closed="true" %}}
 إذا كانت مكتبتك الموسيقية مخزنة في السحابة، يمكنك ربط أكثر الخدمات السحابية شيوعاً مباشرة في التطبيق:<br>
 Dropbox، OneDrive، Box، MEGA، Yandex.Disk، MediaFire، pCloud، HiDrive.<br><br>
 
@@ -332,9 +332,9 @@ Dropbox، OneDrive، Box، MEGA، Yandex.Disk، MediaFire، pCloud، HiDrive.<br
 
 يمكنك أيضاً تحرير ملفات الصوت المخزنة محلياً على جهازك باستخدام ميزة الفتح المباشر. لا حاجة لنسخها من تطبيقات أخرى — ما عليك سوى فتحها وتحريرها مباشرة.<br><br>
 
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="كيفية تحديث البيانات الوصفية للملف تلقائياً على خدمة سحابية؟" closed="true" %}}
+{{% ls-details title="كيفية تحديث البيانات الوصفية للملف تلقائياً على خدمة سحابية؟" closed="true" %}}
 عند الانتهاء من تحرير البيانات الوصفية، اضغط زر «حفظ» في الزاوية العلوية اليمنى لتطبيق التغييرات على الملفات المحددة.<br><br>
 
 إذا كنت تحرر ملفاً مخزناً في السحابة، يمنحك التطبيق عدة خيارات لتحديث البيانات الوصفية للملف. يمكن تخصيص هذه السلوكيات في الإعدادات:<br><br>
@@ -344,10 +344,10 @@ Dropbox، OneDrive، Box، MEGA، Yandex.Disk، MediaFire، pCloud، HiDrive.<br
 • **عدم تحديث البيانات الوصفية للملف** – عند التفعيل، سيتخطى التطبيق تحديث البيانات الوصفية للملف السحابي بعد التحرير.<br><br>
 
 يمكنك العثور على هذه الخيارات وتعديلها في إعدادات Evertag ضمن قسم تفضيلات تحديث البيانات الوصفية.
-{{% /details %}}
+{{% /ls-details %}}
 
 
-{{% details title="كيفية إضافة حساب جديد؟" closed="true" %}}
+{{% ls-details title="كيفية إضافة حساب جديد؟" closed="true" %}}
 لربط خدمة سحابية، افتح علامة تبويب «الاتصالات» → حدد عنصر القائمة «الاتصال بالتخزين السحابي» → اختر خدمة تخزين سحابي من القائمة → أدخل بيانات الاعتماد واضغط «تم».<br><br>
 
 إذا واجهت مشاكل، تأكد من أن اتصالك بالإنترنت نشط وتحقق مرة أخرى من اسم المستخدم وكلمة المرور.<br><br>
@@ -355,9 +355,9 @@ Dropbox، OneDrive، Box، MEGA، Yandex.Disk، MediaFire، pCloud، HiDrive.<br
 الخدمات المدعومة حالياً تشمل: Dropbox، OneDrive، Box، MEGA، Yandex.Disk، Media Fire، PCloud و HiDrive.<br><br>
 
 في الإصدار المميز من التطبيق، يمكنك إضافة عدد غير محدود من الحسابات السحابية.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="كيفية إدارة ملفاتي في التخزين الشبكي؟" closed="true" %}}
+{{% ls-details title="كيفية إدارة ملفاتي في التخزين الشبكي؟" closed="true" %}}
 إذا كنت بحاجة لتحرير عدة ملفات موجودة في التخزين السحابي، فعّل وضع التحديد بالضغط على زر «...» في الزاوية العلوية اليمنى.<br><br>
 
 بمجرد التفعيل، ستظهر مربعات اختيار بجانب كل ملف. يمكنك بعد ذلك تنفيذ إجراءات على ملفات فردية أو تحديد ملفات متعددة لتطبيق إجراءات جماعية.<br><br>
@@ -371,10 +371,10 @@ Dropbox، OneDrive، Box، MEGA، Yandex.Disk، MediaFire، pCloud، HiDrive.<br
 • <strong>شبكة/قائمة</strong> – التبديل بين عرض الجدول وعرض الصور المصغرة.<br><br>
 
 إذا لم تكن هناك مساحة كافية لعرض جميع الخيارات، سيظهر زر «المزيد من الإجراءات». اضغط عليه للوصول إلى القائمة الكاملة للإجراءات المتاحة.
-{{% /details %}}
+{{% /ls-details %}}
 
 
-{{% details title="كيفية تحرير عدة ملفات كملف واحد؟" closed="true" %}}
+{{% ls-details title="كيفية تحرير عدة ملفات كملف واحد؟" closed="true" %}}
 مع «الوضع الجماعي»، يمكنك تحرير ملفات متعددة دفعة واحدة وتطبيق تغييرات البيانات الوصفية المشتركة بسرعة وكفاءة.<br><br>
 
 لتفعيل الوضع الجماعي:<br>
@@ -382,38 +382,38 @@ Dropbox، OneDrive، Box، MEGA، Yandex.Disk، MediaFire، pCloud، HiDrive.<br
 • اضغط على زر «تحرير عدة ملفات في وقت واحد».<br><br>
 
 هذا الوضع مفيد بشكل خاص عندما تحتاج لتطبيق نفس اسم الألبوم أو الفنان أو النوع أو حقول بيانات وصفية أخرى عبر ملفات صوتية متعددة.
-{{% /details %}}
+{{% /ls-details %}}
 
 </div>
 
 <div class="hx:mt-6"></div>
 
-{{< hextra/section-headline >}}
+{{< ls-section-headline >}}
   دليل المستخدم
-{{< /hextra/section-headline >}}
+{{< /ls-section-headline >}}
 
 <div class="hx:mt-6"></div>
 
 <div class="hx:w-full">
 
 <div class="hx:w-full hx:mx-auto hx:flex hx:flex-col hx:items-center hx:text-center">
-  {{< hextra/info-paragraph border="false" >}}
+  {{< ls-info-paragraph border="false" >}}
   في هذا الدليل، ستكتشف كيفية الاستفادة من قوة Evertag على iPhone و iPad و Mac، مما يجعل تجربة إدارة الموسيقى سلسة وممتعة.
-  {{< /hextra/info-paragraph >}}
+  {{< /ls-info-paragraph >}}
 </div>
 
 {{< cards >}}
-  {{< feature-card icon="location-marker" title="التنقل" subtitle="تعلّم كيفية التنقل بسهولة في تطبيقنا باستخدام شريط التبويب (لمستخدمي iPhone) أو القائمة اليسرى (لمستخدمي iPad و Mac) للوصول إلى جميع ميزات التطبيق واستكشافها." link="/docs/guide/evertag/evertag-guide-navigation" >}}
+  {{< ls-feature-card icon="location-marker" title="التنقل" subtitle="تعلّم كيفية التنقل بسهولة في تطبيقنا باستخدام شريط التبويب (لمستخدمي iPhone) أو القائمة اليسرى (لمستخدمي iPad و Mac) للوصول إلى جميع ميزات التطبيق واستكشافها." link="/docs/guide/evertag/evertag-guide-navigation" >}}
 
-  {{< feature-card icon="cloud" title="الاتصالات" subtitle="اربط بسهولة جميع حساباتك السحابية المتاحة بملفاتك الصوتية القيّمة. يمكنك حتى تحرير ملفاتك عبر الإنترنت بسهولة باستخدام مدير الملفات المدمج." link="/docs/guide/evertag/evertag-guide-connections" >}}
+  {{< ls-feature-card icon="cloud" title="الاتصالات" subtitle="اربط بسهولة جميع حساباتك السحابية المتاحة بملفاتك الصوتية القيّمة. يمكنك حتى تحرير ملفاتك عبر الإنترنت بسهولة باستخدام مدير الملفات المدمج." link="/docs/guide/evertag/evertag-guide-connections" >}}
 
-  {{< feature-card icon="folder" title="الملفات المحلية" subtitle="عرض وتنظيم الملفات المخزنة في مجلد Documents الخاص بالتطبيق أو على جهازك. استخدم مدير الملفات المدمج لتحرير وإدارة ملفاتك الصوتية بسهولة." link="/docs/guide/evertag/evertag-guide-local-files" >}}
+  {{< ls-feature-card icon="folder" title="الملفات المحلية" subtitle="عرض وتنظيم الملفات المخزنة في مجلد Documents الخاص بالتطبيق أو على جهازك. استخدم مدير الملفات المدمج لتحرير وإدارة ملفاتك الصوتية بسهولة." link="/docs/guide/evertag/evertag-guide-local-files" >}}
 
-  {{< feature-card icon="pencil-alt" title="محرر العلامات" subtitle="أتقن فن التعامل مع البيانات الوصفية لملفات الصوت. اكتشف كيفية تحرير البيانات الوصفية وتغيير أغلفة الألبومات وإدارة ملفات متعددة بسلاسة في وقت واحد." link="/docs/guide/evertag/evertag-guide-tag-editor" >}}
+  {{< ls-feature-card icon="pencil-alt" title="محرر العلامات" subtitle="أتقن فن التعامل مع البيانات الوصفية لملفات الصوت. اكتشف كيفية تحرير البيانات الوصفية وتغيير أغلفة الألبومات وإدارة ملفات متعددة بسلاسة في وقت واحد." link="/docs/guide/evertag/evertag-guide-tag-editor" >}}
 
-  {{< feature-card icon="code" title="خرائط حقول العلامات" subtitle="استكشف القائمة الكاملة لحقول علامات الصوت المدعومة من تطبيق Evertag، بما في ذلك أسماء الحقول الداخلية والتعيينات عبر تنسيقات البيانات الوصفية الرئيسية." link="/docs/guide/evertag/evertag-tag-field-mappings" >}}
+  {{< ls-feature-card icon="code" title="خرائط حقول العلامات" subtitle="استكشف القائمة الكاملة لحقول علامات الصوت المدعومة من تطبيق Evertag، بما في ذلك أسماء الحقول الداخلية والتعيينات عبر تنسيقات البيانات الوصفية الرئيسية." link="/docs/guide/evertag/evertag-tag-field-mappings" >}}
 
-  {{< feature-card icon="adjustments" title="الإعدادات" subtitle="اكتشف كيفية تخصيص تجربة تطبيقك وضبط الأداء وإدارة استخدام البيانات وتخصيص تفضيلات اللغة وواجهة المستخدم حسب رغبتك." link="/docs/guide/evertag/evertag-guide-settings" >}}
+  {{< ls-feature-card icon="adjustments" title="الإعدادات" subtitle="اكتشف كيفية تخصيص تجربة تطبيقك وضبط الأداء وإدارة استخدام البيانات وتخصيص تفضيلات اللغة وواجهة المستخدم حسب رغبتك." link="/docs/guide/evertag/evertag-guide-settings" >}}
 
 {{< /cards >}}
 

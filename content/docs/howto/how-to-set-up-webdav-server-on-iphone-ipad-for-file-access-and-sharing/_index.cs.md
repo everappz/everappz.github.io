@@ -7,7 +7,7 @@ keywords: ["WebDAV server iPhone", "WebDAV server iPad", "jak nastavit WebDAV na
 readingTime: 9
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 WebDAV promění složku v síťový disk, který počítač otevře ve svém běžném správci souborů. Běží přes stejný webový protokol, jaký používá váš prohlížeč, a proto putuje dobře napříč Macem, Windows a Linuxem bez speciálních ovladačů. S aplikací [Everdisk](/products/everdisk) můžete na iPhonu nebo iPadu provozovat server WebDAV, takže se telefon zobrazí jako disk, který můžete procházet, kopírovat z něj i na něj z téměř jakéhokoli počítače.
 
@@ -104,40 +104,40 @@ Rozhoduje o tom přepínač **Úpravy souborů** v Nastavení, Sdílení, Přís
 
 ## Často kladené otázky
 
-{{% details title="Jaká je adresa a port WebDAV pro můj iPhone?" closed="true" %}}
+{{% ls-details title="Jaká je adresa a port WebDAV pro můj iPhone?" closed="true" %}}
 Po spuštění sdílení Everdisk zobrazí adresu na obrazovce Sdílení. Vypadá jako http://192.168.1.20:8080. Číslo 8080 je port, který Everdisk používá pro WebDAV, a první část je adresa vašeho iPhonu ve Wi-Fi, takže ta vaše bude jiná.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Jak se připojím k WebDAV na svém iPhonu z Windows?" closed="true" %}}
+{{% ls-details title="Jak se připojím k WebDAV na svém iPhonu z Windows?" closed="true" %}}
 Otevřete File Explorer, klikněte pravým tlačítkem na This PC a zvolte Add a network location nebo Map network drive. Zadejte adresu WebDAV z Everdisku, například http://192.168.1.20:8080, poté zadejte své přihlašovací jméno, pokud jste je nastavili. Pokud se Windows nechce připojit, ujistěte se, že běží služba WebClient (vyhledejte Services, najděte WebClient, spusťte ji) a zkuste to znovu.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Můžu použít WebDAV mezi dvěma iPhony?" closed="true" %}}
+{{% ls-details title="Můžu použít WebDAV mezi dvěma iPhony?" closed="true" %}}
 Ano, ale aplikace Files v iOS nemá klienta WebDAV, proto na druhém zařízení použijte Everdisk. Otevřete kartu Zařízení, klepněte na Nové připojení, zvolte WebDAV a zadejte adresu zobrazenou na prvním telefonu. Funguje i aplikace WebDAV jako Documents od Readdle.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Vyžaduje WebDAV heslo?" closed="true" %}}
+{{% ls-details title="Vyžaduje WebDAV heslo?" closed="true" %}}
 Ne, přihlášení je volitelné. Ponechte Přihlašovací jméno a Heslo prázdné v Nastavení, Sdílení, Přístup pro hostovský přístup, nebo je nastavte, pokud chcete, aby se připojení přihlašovalo.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Můžou ostatní lidé měnit moje soubory přes WebDAV?" closed="true" %}}
+{{% ls-details title="Můžou ostatní lidé měnit moje soubory přes WebDAV?" closed="true" %}}
 Jen pokud to povolíte. Řídí to přepínač Úpravy souborů v Nastavení, Sdílení, Přístup. Zapnutý umožňuje připojeným zařízením nahrávat, přejmenovávat a mazat. Vypnutý činí disk jen ke čtení, takže ostatní mohou prohlížet a kopírovat, ale nic měnit.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="WebDAV, nebo SMB, jaký je rozdíl?" closed="true" %}}
+{{% ls-details title="WebDAV, nebo SMB, jaký je rozdíl?" closed="true" %}}
 Oba připojí váš iPhone jako síťový disk. WebDAV běží přes webový protokol a připojuje se čistě z Průzkumníka souborů Windows, což je jeho hlavní síla. SMB je nativní sdílení souborů na Macu, Linuxu a zařízeních NAS, je obvykle rychlejší na Macu a je to jediné připojení Everdisku, které dokáže šifrovat přenosy. Everdisk umí oba běžet najednou.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Proč se můj disk WebDAV odpojuje?" closed="true" %}}
+{{% ls-details title="Proč se můj disk WebDAV odpojuje?" closed="true" %}}
 Váš iPhone je server a iOS pozastavuje aplikace, které zůstávají příliš dlouho na pozadí. Během připojení zařízení mějte Everdisk otevřený na obrazovce a při dlouhých přenosech ho připojte k napájení. Také ověřte, že jsou obě zařízení stále na stejné Wi-Fi.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Můžu se připojit přes WebDAV bez Wi-Fi?" closed="true" %}}
+{{% ls-details title="Můžu se připojit přes WebDAV bez Wi-Fi?" closed="true" %}}
 Ano, pokud iPhone připojíte k Macu kabelem. Everdisk pak zobrazí další adresu připojení kabelem, kterou může připojený Mac otevřít ve Finderu a která funguje i úplně bez Wi-Fi. Přes kabel se k zařízení dostane jen tento Mac.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Je Everdisk zdarma?" closed="true" %}}
+{{% ls-details title="Je Everdisk zdarma?" closed="true" %}}
 Ano, Everdisk je zdarma ke stažení a server WebDAV je součástí. Volitelný jednorázový nákup Premium přidává doplňky, jako jsou vlastní porty a převod fotek a videí. WebDAV můžete nastavit a sdílet soubory bez placení.
-{{% /details %}}
+{{% /ls-details %}}
 
 Chcete to vyzkoušet? [Stáhněte si Everdisk z App Store](https://apps.apple.com/app/apple-store/id6751851132?pt=95781850&ct=everappzcom&mt=8) a během pár minut připojte svůj iPhone jako disk. Máte dotazy nebo zpětnou vazbu? Napište nám na **support@everappz.com**.

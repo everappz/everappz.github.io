@@ -12,7 +12,7 @@ authors:
     image: "/images/about/artem-meleshko-founder-everappz.webp"
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 ![](/blog/evermusic-stream-your-music-from-the-cloud-and-free-up-space-on-your-iphone-or-ipad/21260c_00c5356db3a24db6a6a37e353b774d56~mv2.jpg)
 
@@ -82,22 +82,22 @@ authors:
 
 ## Συχνές ερωτήσεις
 
-{{% details title="Είναι το Evermusic δωρεάν;" closed="true" %}}
+{{% ls-details title="Είναι το Evermusic δωρεάν;" closed="true" %}}
 Το Evermusic είναι δωρεάν για λήψη με προαιρετικές premium λειτουργίες. Το βασικό streaming cloud και η αναπαραγωγή εκτός σύνδεσης είναι διαθέσιμα στη δωρεάν έκδοση.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Ποιες υπηρεσίες cloud υποστηρίζει το Evermusic;" closed="true" %}}
+{{% ls-details title="Ποιες υπηρεσίες cloud υποστηρίζει το Evermusic;" closed="true" %}}
 Google Drive, Dropbox, Box, OneDrive, MediaFire, MEGA, Yandex.Disk, pCloud, HiDrive, MyDrive, κοινόχρηστα αρχεία SMB και διακομιστές WebDAV.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Μπορώ να ακούω μουσική εκτός σύνδεσης με το Evermusic;" closed="true" %}}
+{{% ls-details title="Μπορώ να ακούω μουσική εκτός σύνδεσης με το Evermusic;" closed="true" %}}
 Ναι. Κατεβάστε οποιοδήποτε άλμπουμ, καλλιτέχνη, λίστα αναπαραγωγής ή μεμονωμένο κομμάτι για αναπαραγωγή εκτός σύνδεσης απευθείας μέσα στην εφαρμογή.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Ποιες μορφές ήχου αναπαράγει το Evermusic;" closed="true" %}}
+{{% ls-details title="Ποιες μορφές ήχου αναπαράγει το Evermusic;" closed="true" %}}
 Το Evermusic υποστηρίζει MP3, FLAC, AAC, WAV, ALAC, AIFF, OPUS, OGG και πολλές άλλες μορφές.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Χρειάζομαι ακόμα το iTunes για μεταφορά μουσικής;" closed="true" %}}
+{{% ls-details title="Χρειάζομαι ακόμα το iTunes για μεταφορά μουσικής;" closed="true" %}}
 Όχι. Ανεβάστε τη μουσική σας σε οποιαδήποτε υποστηριζόμενη υπηρεσία cloud από τον υπολογιστή σας και μετά κάντε streaming ή κατεβάστε την μέσω Evermusic στο iPhone ή iPad σας.
-{{% /details %}}
+{{% /ls-details %}}

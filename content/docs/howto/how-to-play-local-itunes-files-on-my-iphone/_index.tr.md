@@ -7,7 +7,7 @@ tags: ["ses", "oynatıcı", "bilgisayar", "dosyalar", "dosya", "PC", "Mac", "pay
 keywords: ["iTunes dosya paylaşımı", "yerel müzik oynatma", "iPhone'a müzik aktarma", "iOS'a dosya kopyalama", "Mac'ten iPhone'a ses", "iPhone'da yerel dosyalar", "Evermusic", "Flacbox", "müzik oynatıcı", "dosya paylaşımı", "WiFi Drive", "SMB müzik akışı", "iPhone müzik uygulaması", "iOS'a müzik içe aktarma"]
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **Özet:** Üç yöntemden birini kullanarak bilgisayarınızdan iPhone'a müzik aktarın: **iTunes/Finder File Sharing** (USB kablo), **[WiFi Drive](/docs/howto/how-to-transfer-music-from-computer-to-iphone-without-itunes)** (kablosuz, kablo gerekmez), veya **[SMB](/docs/howto/stream-your-music-from-mac-or-pc-to-iphone-using-smb/)** (kopyalamadan doğrudan akış). Ardından [Evermusic](/products/evermusic) veya [Flacbox](/products/flacbox) ile oynatın.
@@ -134,22 +134,22 @@ Bilgisayarınızı SMB protokolü kullanarak bağlayıp MAC/PC'nizden iOS cihaz�
 
 ## FAQ
 
-{{% details title="iPhone'a müzik aktarmanın en hızlı yolu nedir?" closed="true" %}}
+{{% ls-details title="iPhone'a müzik aktarmanın en hızlı yolu nedir?" closed="true" %}}
 USB üzerinden iTunes/Finder File Sharing, büyük müzik kütüphaneleri için en hızlı yöntemdir. Daha küçük aktarımlar için WiFi Drive, kablo gerektirmediğinden daha kullanışlıdır.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="iPhone'uma FLAC dosyaları aktarabilir miyim?" closed="true" %}}
+{{% ls-details title="iPhone'uma FLAC dosyaları aktarabilir miyim?" closed="true" %}}
 Evet. Hem Evermusic hem de Flacbox, iTunes File Sharing, WiFi Drive veya SMB aracılığıyla FLAC dosyalarını kabul eder. Kayıpsız formatlar için Flacbox önerilir.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="macOS Catalina veya sonrasında iTunes'a ihtiyacım var mı?" closed="true" %}}
+{{% ls-details title="macOS Catalina veya sonrasında iTunes'a ihtiyacım var mı?" closed="true" %}}
 Hayır. Apple, macOS Catalina'dan itibaren cihaz yönetimi için iTunes'u Finder ile değiştirdi. Dosya paylaşımı için Finder'ın Dosyalar sekmesini kullanın.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Dosyaları iPhone'uma kopyalamadan müzik akışı yapabilir miyim?" closed="true" %}}
+{{% ls-details title="Dosyaları iPhone'uma kopyalamadan müzik akışı yapabilir miyim?" closed="true" %}}
 Evet. Mac veya PC'nizden doğrudan müzik akışı yapmak için SMB protokolünü kullanın. Bu, cihaz depolama alanından tasarruf sağlar ve kütüphanenizi bilgisayarınızda tutar.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Hangi uygulamayı kullanmalıyım -- Evermusic mi Flacbox mu?" closed="true" %}}
+{{% ls-details title="Hangi uygulamayı kullanmalıyım -- Evermusic mi Flacbox mu?" closed="true" %}}
 MP3, WAV ve AAC gibi standart formatlar için Evermusic'i kullanın. Kütüphaneniz FLAC, DSD veya OGG gibi kayıpsız formatlar içeriyorsa Flacbox'ı seçin.
-{{% /details %}}
+{{% /ls-details %}}

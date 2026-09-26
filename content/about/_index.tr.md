@@ -1,10 +1,11 @@
 ---
+excludeSearch: true
 date: '2025-06-12T17:00:00+00:00'
 title: 'Hakkımızda'
 description: 'Everappz S.L., iOS ve macOS için ses, video ve müzik meta verisi uygulamaları geliştiren İspanya merkezli bir yazılım şirketidir. Evermusic (11 milyon indirme), Flacbox, EverTag ve EverVideo’nun geliştiricisi olan şirketin uygulamaları dünya genelinde 14 milyondan fazla kez indirilmiştir.'
 ---
 
-{{< lottie src="/images/juicy-json/juicy-girl-and-guy-preparing-start-up-rocket-to-launch-with-ideas.json" width="65%" >}}
+{{< ls-lottie src="/images/juicy-json/juicy-girl-and-guy-preparing-start-up-rocket-to-launch-with-ideas.json" width="65%" >}}
 
 ## Biz Kimiz
 
@@ -35,7 +36,7 @@ Daha iyi yazılım oluşturmaya devam etmek için buradayız — her seferinde d
 ### Artem Meleshko
 
 {{< cards cols="1" >}}
-  {{< card
+  {{< ls-card
     link="https://www.linkedin.com/in/artem-meleshko-s/"
     title="Artem Meleshko"
     tag="Kurucu & Mühendis"
@@ -60,7 +61,7 @@ Admiral Makarov Ulusal Gemi İnşa Üniversitesi'nde eğitim görmüş, GitHub'd
 ### Anna Kosenko
 
 {{< cards cols="1" >}}
-  {{< card
+  {{< ls-card
     link="https://www.linkedin.com/in/anna-kosenko-kosenko/"
     title="Anna Kosenko"
     tag="Direktör"
@@ -86,4 +87,4 @@ Uygulamalarımızı kullandığınız ve bağımsız geliştirmeyi desteklediği
 
 En güncel haberler, uygulama güncellemeleri, ipuçları ve faydalı bilgiler almak için sosyal ağlarda bize abone olun:
 
-{{< social-cards >}}
+{{< ls-social-cards >}}

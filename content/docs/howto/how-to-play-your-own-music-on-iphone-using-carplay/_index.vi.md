@@ -7,7 +7,7 @@ tags: ["carplay", "iphone", "nhạc cục bộ", "phát ngoại tuyến", "everm
 readingTime: 5
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **Tóm tắt:** Sử dụng [Evermusic](https://apps.apple.com/app/apple-store/id885367198?pt=95781850&ct=everappzcom&mt=8) hoặc [Flacbox](https://apps.apple.com/app/apple-store/id1097564256?pt=95781850&ct=everappzcom&mt=8) để phát các tệp âm thanh MP3, FLAC hoặc định dạng khác của riêng bạn trên iPhone thông qua Apple CarPlay. Thêm nhạc từ bộ nhớ đám mây, USB hoặc chuyển qua Wi-Fi, sau đó duyệt thư viện, danh sách phát và thư mục của bạn trực tiếp trên màn hình xe hơi.
@@ -17,7 +17,7 @@ readingTime: 5
 Bạn muốn phát nhạc của riêng mình trong xe bằng Apple CarPlay? Dù bài hát của bạn được lưu trên iPhone, trong bộ nhớ đám mây hay ngoại tuyến, các ứng dụng như **Evermusic** và **Flacbox** giúp bạn dễ dàng nghe bộ sưu tập nhạc cá nhân khi lái xe.
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Hàng đợi phát tiếp theo của CarPlay" image="/docs/howto/how-to-play-your-own-music-on-iphone-using-carplay/carplay-nowplaying-5.webp" imageStyle="border-radius: clamp(14px, 2vw, 28px);" >}}
+{{< ls-card title="" subtitle="Hàng đợi phát tiếp theo của CarPlay" image="/docs/howto/how-to-play-your-own-music-on-iphone-using-carplay/carplay-nowplaying-5.webp" imageStyle="border-radius: clamp(14px, 2vw, 28px);" >}}
 {{< /cards >}}
 
 Trong hướng dẫn này, chúng tôi sẽ chỉ cho bạn cách chuẩn bị các tệp nhạc cho CarPlay, sắp xếp chúng với ảnh bìa album và thông tin bài hát chính xác, và phát chúng an toàn từ iPhone của bạn. Với Evermusic hoặc Flacbox, bạn có thể tạo danh sách phát, phát trực tuyến hoặc tải xuống bài hát từ các dịch vụ như **Google Drive**, **Dropbox**, **OneDrive**, **NAS** hoặc máy tính ở nhà.
@@ -25,8 +25,8 @@ Trong hướng dẫn này, chúng tôi sẽ chỉ cho bạn cách chuẩn bị c
 Các ứng dụng này hoàn hảo cho bất kỳ ai muốn kiểm soát hoàn toàn thư viện nhạc của mình.
 
 {{< cards cols="2">}}
-{{< card link="https://apps.apple.com/app/apple-store/id885367198?pt=95781850&ct=everappzcom&mt=8" title="Tải Evermusic" icon="download" tag="Free" >}}
-{{< card link="https://apps.apple.com/app/apple-store/id1097564256?pt=95781850&ct=everappzcom&mt=8" title="Tải Flacbox" icon="download" tag="Free" >}}
+{{< ls-card link="https://apps.apple.com/app/apple-store/id885367198?pt=95781850&ct=everappzcom&mt=8" title="Tải Evermusic" icon="download" tag="Free" >}}
+{{< ls-card link="https://apps.apple.com/app/apple-store/id1097564256?pt=95781850&ct=everappzcom&mt=8" title="Tải Flacbox" icon="download" tag="Free" >}}
 {{< /cards >}}
 
 ## Thêm tệp vào ứng dụng
@@ -106,7 +106,7 @@ Chuyển tệp không dây như mô tả [tại đây](/docs/howto/how-to-transf
 Khi bạn khởi chạy ứng dụng Evermusic hoặc Flacbox trong chế độ CarPlay, bạn sẽ thấy giao diện chính được chia thành 4 tab chính: Thư viện, Kết nối, Tệp cục bộ, Cài đặt.
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Menu chính CarPlay" image="/docs/howto/how-to-play-your-own-music-on-iphone-using-carplay/library-with-images.webp" imageStyle="border-radius: clamp(14px, 2vw, 28px);" >}}
+{{< ls-card title="" subtitle="Menu chính CarPlay" image="/docs/howto/how-to-play-your-own-music-on-iphone-using-carplay/library-with-images.webp" imageStyle="border-radius: clamp(14px, 2vw, 28px);" >}}
 {{< /cards >}}
 
 ## Thư viện
@@ -116,7 +116,7 @@ Tab **Thư viện** trong Evermusic là trung tâm nơi tất cả nhạc của 
 Màn hình này cung cấp quyền truy cập nhanh vào yêu thích, gần đây, danh sách phát, đánh dấu trang và tất cả bài hát đã thêm. Bạn cũng có thể tiếp tục phát từ phiên trước, xem các bài hát chưa phát và khám phá nhạc theo thẻ hoặc loại nguồn.
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Thư viện" image="/docs/howto/how-to-play-your-own-music-on-iphone-using-carplay/library-with-images-3.webp" imageStyle="border-radius: clamp(14px, 2vw, 28px);" >}}
+{{< ls-card title="" subtitle="Thư viện" image="/docs/howto/how-to-play-your-own-music-on-iphone-using-carplay/library-with-images-3.webp" imageStyle="border-radius: clamp(14px, 2vw, 28px);" >}}
 {{< /cards >}}
 
 Phần **Thư viện** chứa các danh mục sau:
@@ -139,7 +139,7 @@ Phần **Thư viện** chứa các danh mục sau:
 - **Tệp trực tuyến** – Nhạc được phát trực tiếp từ dịch vụ đám mây
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Chế độ xem Album" image="/docs/howto/how-to-play-your-own-music-on-iphone-using-carplay/albums.webp" imageStyle="border-radius: clamp(14px, 2vw, 28px);" >}}
+{{< ls-card title="" subtitle="Chế độ xem Album" image="/docs/howto/how-to-play-your-own-music-on-iphone-using-carplay/albums.webp" imageStyle="border-radius: clamp(14px, 2vw, 28px);" >}}
 {{< /cards >}}
 
 Bạn có thể mở bất kỳ menu con nào và nhấn vào bài hát để bắt đầu phát ngay. Để biết thêm chi tiết, hãy xem [Hướng dẫn Thư viện Nhạc](/docs/guide/evermusic/evermusic-guide-music-library/) đầy đủ.
@@ -150,7 +150,7 @@ Bạn có thể mở bất kỳ menu con nào và nhấn vào bài hát để b�
 Tab **Kết nối** là trung tâm để truy cập và quản lý tất cả dịch vụ bộ nhớ đám mây và thiết bị mạng cục bộ đã kết nối.
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Kết nối" image="/docs/howto/how-to-play-your-own-music-on-iphone-using-carplay/connections-with-images-3.webp" imageStyle="border-radius: clamp(14px, 2vw, 28px);" >}}
+{{< ls-card title="" subtitle="Kết nối" image="/docs/howto/how-to-play-your-own-music-on-iphone-using-carplay/connections-with-images-3.webp" imageStyle="border-radius: clamp(14px, 2vw, 28px);" >}}
 {{< /cards >}}
 
 Từ đây, bạn có thể kết nối với các nền tảng đám mây phổ biến như Dropbox, Google Drive, OneDrive, MEGA, iCloud Drive và cả ổ đĩa mạng như SMB, DLNA và WebDAV. Khi đã kết nối, bạn có thể duyệt, phát trực tuyến, tải xuống và quản lý tệp trực tiếp từ trong ứng dụng.
@@ -172,7 +172,7 @@ Bạn cũng có thể sử dụng **Wi-Fi Drive** hoặc **Chia sẻ tệp iTune
 Phần **Tệp cục bộ** là trung tâm quản lý các tệp âm thanh được lưu trực tiếp trên thiết bị hoặc trong thư mục **Tài liệu** của ứng dụng Evermusic. Nó cũng bao gồm các tệp ngoại tuyến đã tải từ bộ nhớ đám mây, tệp bộ nhớ đệm của trình phát âm thanh và các thư mục bạn đã đặt khả dụng cho phát ngoại tuyến. Phần này đảm bảo bạn có thể thưởng thức thư viện nhạc ngay cả khi không có kết nối internet.
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Tệp cục bộ" image="/docs/howto/how-to-play-your-own-music-on-iphone-using-carplay/local-files-with-images.webp" imageStyle="border-radius: clamp(14px, 2vw, 28px);" >}}
+{{< ls-card title="" subtitle="Tệp cục bộ" image="/docs/howto/how-to-play-your-own-music-on-iphone-using-carplay/local-files-with-images.webp" imageStyle="border-radius: clamp(14px, 2vw, 28px);" >}}
 {{< /cards >}}
 
 Màn hình **Tệp cục bộ** được tổ chức thành các phần chính sau:
@@ -186,7 +186,7 @@ Màn hình **Tệp cục bộ** được tổ chức thành các phần chính s
 - **Trình phát âm thanh** – Thư mục bộ nhớ đệm được sử dụng cho crossfade và tối ưu hóa hiệu suất. Có thể tắt hoặc xóa trong cài đặt.
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Thư mục thiết bị trong Tệp cục bộ" image="/docs/howto/how-to-play-your-own-music-on-iphone-using-carplay/local-files-device-folders.webp" imageStyle="border-radius: clamp(14px, 2vw, 28px);" >}}
+{{< ls-card title="" subtitle="Thư mục thiết bị trong Tệp cục bộ" image="/docs/howto/how-to-play-your-own-music-on-iphone-using-carplay/local-files-device-folders.webp" imageStyle="border-radius: clamp(14px, 2vw, 28px);" >}}
 {{< /cards >}}
 
 Bạn có thể tìm hiểu thêm trong [Hướng dẫn Tệp cục bộ](/docs/guide/evermusic/evermusic-guide-local-files/) đầy đủ.
@@ -194,7 +194,7 @@ Bạn có thể tìm hiểu thêm trong [Hướng dẫn Tệp cục bộ](/docs/
 ## Chế độ xem thư mục
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Thư mục cục bộ với ảnh bìa" image="/docs/howto/how-to-play-your-own-music-on-iphone-using-carplay/local-folder-with-images-2.webp" imageStyle="border-radius: clamp(14px, 2vw, 28px);" >}}
+{{< ls-card title="" subtitle="Thư mục cục bộ với ảnh bìa" image="/docs/howto/how-to-play-your-own-music-on-iphone-using-carplay/local-folder-with-images-2.webp" imageStyle="border-radius: clamp(14px, 2vw, 28px);" >}}
 {{< /cards >}}
 
 Khi bạn mở một thư mục, bạn sẽ thấy một bộ thao tác tiện dụng ở phía trên:
@@ -206,7 +206,7 @@ Khi bạn mở một thư mục, bạn sẽ thấy một bộ thao tác tiện d
 ## Giới hạn độ sâu nội dung
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Giới hạn độ sâu nội dung" image="/docs/howto/how-to-play-your-own-music-on-iphone-using-carplay/content-depth-limit.webp" imageStyle="border-radius: clamp(14px, 2vw, 28px);" >}}
+{{< ls-card title="" subtitle="Giới hạn độ sâu nội dung" image="/docs/howto/how-to-play-your-own-music-on-iphone-using-carplay/content-depth-limit.webp" imageStyle="border-radius: clamp(14px, 2vw, 28px);" >}}
 {{< /cards >}}
 
 Khi sử dụng CarPlay, bạn có thể gặp lỗi **"Giới hạn độ sâu nội dung"** — đặc biệt nếu thư viện nhạc có nhiều thư mục lồng nhau sâu.
@@ -227,7 +227,7 @@ Giải pháp này đảm bảo trải nghiệm liền mạch khi duyệt nhạc 
 ## Màn hình Đang phát
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="CarPlay Đang phát" image="/docs/howto/how-to-play-your-own-music-on-iphone-using-carplay/carplay-nowplaying.webp" imageStyle="border-radius: clamp(14px, 2vw, 28px);" >}}
+{{< ls-card title="" subtitle="CarPlay Đang phát" image="/docs/howto/how-to-play-your-own-music-on-iphone-using-carplay/carplay-nowplaying.webp" imageStyle="border-radius: clamp(14px, 2vw, 28px);" >}}
 {{< /cards >}}
 
 Sau khi nhấn vào bất kỳ tệp âm thanh nào, nó sẽ tự động được thêm vào **hàng đợi trình phát**.
@@ -244,7 +244,7 @@ Màn hình này cho phép bạn kiểm soát trải nghiệm nghe khi lái xe �
 ## Cài đặt
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Menu Cài đặt" image="/docs/howto/how-to-play-your-own-music-on-iphone-using-carplay/settings-2.webp" imageStyle="border-radius: clamp(14px, 2vw, 28px);" >}}
+{{< ls-card title="" subtitle="Menu Cài đặt" image="/docs/howto/how-to-play-your-own-music-on-iphone-using-carplay/settings-2.webp" imageStyle="border-radius: clamp(14px, 2vw, 28px);" >}}
 {{< /cards >}}
 
 Phần **Cài đặt** trong giao diện CarPlay cho phép bạn tùy chỉnh cách ứng dụng hoạt động khi lái xe. Các cài đặt này giúp nâng cao hiệu suất, giảm phân tâm và mang lại trải nghiệm nghe mượt mà hơn.
@@ -260,7 +260,7 @@ Phần **Cài đặt** trong giao diện CarPlay cho phép bạn tùy chỉnh c�
 - **Sắp xếp** – Điều chỉnh cách nội dung được sắp xếp trong menu CarPlay như tệp, thư viện nhạc và kết nối.
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Menu tùy chọn sắp xếp" image="/docs/howto/how-to-play-your-own-music-on-iphone-using-carplay/settings-sort.webp" imageStyle="border-radius: clamp(14px, 2vw, 28px);" >}}
+{{< ls-card title="" subtitle="Menu tùy chọn sắp xếp" image="/docs/howto/how-to-play-your-own-music-on-iphone-using-carplay/settings-sort.webp" imageStyle="border-radius: clamp(14px, 2vw, 28px);" >}}
 {{< /cards >}}
 
 - **Giới hạn tải nội dung** – Đặt số lượng mục hiển thị trên mỗi màn hình. Giới hạn thấp hơn cải thiện tốc độ tải và giảm cuộn.
@@ -271,19 +271,19 @@ Phần **Cài đặt** trong giao diện CarPlay cho phép bạn tùy chỉnh c�
 - **Bộ cân bằng âm thanh**
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Bảng cấu hình bộ cân bằng" image="/docs/howto/how-to-play-your-own-music-on-iphone-using-carplay/settings-eq-configuration.webp" imageStyle="border-radius: clamp(14px, 2vw, 28px);" >}}
+{{< ls-card title="" subtitle="Bảng cấu hình bộ cân bằng" image="/docs/howto/how-to-play-your-own-music-on-iphone-using-carplay/settings-eq-configuration.webp" imageStyle="border-radius: clamp(14px, 2vw, 28px);" >}}
 {{< /cards >}}
 
 Bật bộ cân bằng âm thanh tích hợp, điều chỉnh các dải tần số và chọn từ các cài đặt sẵn được cấu hình trước để có trải nghiệm âm thanh cá nhân hóa.
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Danh sách cài đặt sẵn bộ cân bằng" image="/docs/howto/how-to-play-your-own-music-on-iphone-using-carplay/settings-equalizer.webp" imageStyle="border-radius: clamp(14px, 2vw, 28px);" >}}
+{{< ls-card title="" subtitle="Danh sách cài đặt sẵn bộ cân bằng" image="/docs/howto/how-to-play-your-own-music-on-iphone-using-carplay/settings-equalizer.webp" imageStyle="border-radius: clamp(14px, 2vw, 28px);" >}}
 {{< /cards >}}
 
 - **Phát Crossfade**
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Phát Crossfade" image="/docs/howto/how-to-play-your-own-music-on-iphone-using-carplay/settings-crossfade-playback.webp" imageStyle="border-radius: clamp(14px, 2vw, 28px);" >}}
+{{< ls-card title="" subtitle="Phát Crossfade" image="/docs/howto/how-to-play-your-own-music-on-iphone-using-carplay/settings-crossfade-playback.webp" imageStyle="border-radius: clamp(14px, 2vw, 28px);" >}}
 {{< /cards >}}
 
 Tạo chuyển tiếp mượt mà giữa các bài hát bằng cách chồng phần kết thúc của một bài với phần bắt đầu của bài tiếp theo. Thời lượng crossfade có thể tùy chỉnh.
@@ -291,7 +291,7 @@ Tạo chuyển tiếp mượt mà giữa các bài hát bằng cách chồng ph�
 - **Phát Gapless**
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Phát Gapless" image="/docs/howto/how-to-play-your-own-music-on-iphone-using-carplay/settings-gapless-playback.webp" imageStyle="border-radius: clamp(14px, 2vw, 28px);" >}}
+{{< ls-card title="" subtitle="Phát Gapless" image="/docs/howto/how-to-play-your-own-music-on-iphone-using-carplay/settings-gapless-playback.webp" imageStyle="border-radius: clamp(14px, 2vw, 28px);" >}}
 {{< /cards >}}
 
 Phát các bài hát liền mạch không có khoảng dừng — lý tưởng cho bản thu trực tiếp, DJ mix và album concept.
@@ -307,7 +307,7 @@ Các cài đặt này cũng có sẵn trên giao diện di động trong **Cài 
 Với **Evermusic** và **Flacbox**, việc phát nhạc của riêng bạn trong xe bằng Apple CarPlay trở nên đơn giản, linh hoạt và đáng tin cậy. Dù bạn đang phát trực tuyến từ bộ nhớ đám mây, truy cập tệp cục bộ hay phát các bài hát đã tải ngoại tuyến — các ứng dụng này được xây dựng để mang lại cho bạn toàn quyền kiểm soát trải nghiệm nghe khi lái xe.
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Màn hình Đang phát CarPlay" image="/docs/howto/how-to-play-your-own-music-on-iphone-using-carplay/carplay-nowplaying-2.webp" imageStyle="border-radius: clamp(14px, 2vw, 28px);" >}}
+{{< ls-card title="" subtitle="Màn hình Đang phát CarPlay" image="/docs/howto/how-to-play-your-own-music-on-iphone-using-carplay/carplay-nowplaying-2.webp" imageStyle="border-radius: clamp(14px, 2vw, 28px);" >}}
 {{< /cards >}}
 
 Từ tích hợp đám mây liền mạch đến đồng bộ thư mục ngoại tuyến, từ tổ chức thư viện nhạc sâu đến phát tùy chỉnh với bộ cân bằng và crossfade — các tính năng này biến Evermusic và Flacbox thành nhiều hơn là chỉ trình phát âm thanh. Chúng là những người bạn đồng hành CarPlay thông minh được thiết kế cho những người yêu nhạc, người đi làm và người dùng hàng ngày.
@@ -325,22 +325,22 @@ Khám phá thêm tính năng, cài đặt và hướng dẫn trong [Hướng d�
 
 ## Câu hỏi thường gặp
 
-{{% details title="Những định dạng tệp nhạc nào hoạt động với CarPlay trong Evermusic và Flacbox?" closed="true" %}}
+{{% ls-details title="Những định dạng tệp nhạc nào hoạt động với CarPlay trong Evermusic và Flacbox?" closed="true" %}}
 Evermusic và Flacbox hỗ trợ nhiều định dạng âm thanh bao gồm MP3, FLAC, AAC, WAV, AIFF, OGG, WMA và nhiều hơn nữa. Tất cả các định dạng được hỗ trợ đều hoạt động qua CarPlay mà không cần chuyển đổi.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Tôi có thể phát nhạc từ Google Drive hoặc Dropbox trên CarPlay không?" closed="true" %}}
+{{% ls-details title="Tôi có thể phát nhạc từ Google Drive hoặc Dropbox trên CarPlay không?" closed="true" %}}
 Có. Cả Evermusic và Flacbox đều cho phép bạn kết nối với các dịch vụ bộ nhớ đám mây như Google Drive, Dropbox, OneDrive, MEGA và các dịch vụ khác. Bạn có thể phát trực tuyến nhạc hoặc tải xuống để phát ngoại tuyến trên CarPlay.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Tôi có cần kết nối internet để phát nhạc trên CarPlay không?" closed="true" %}}
+{{% ls-details title="Tôi có cần kết nối internet để phát nhạc trên CarPlay không?" closed="true" %}}
 Không. Bạn có thể tải nhạc từ bộ nhớ đám mây để phát ngoại tuyến. Khi tệp đã được lưu cục bộ trên iPhone, chúng phát qua CarPlay mà không cần kết nối internet.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Tại sao tôi thấy lỗi Giới hạn độ sâu nội dung trên CarPlay?" closed="true" %}}
+{{% ls-details title="Tại sao tôi thấy lỗi Giới hạn độ sâu nội dung trên CarPlay?" closed="true" %}}
 CarPlay giới hạn số cấp thư mục có thể hiển thị. Nếu nhạc của bạn nằm trong các thư mục lồng nhau sâu, hãy thêm các thư mục đó vào Yêu thích để bạn có thể truy cập trực tiếp từ menu Yêu thích trong CarPlay.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Evermusic hoặc Flacbox có miễn phí sử dụng với CarPlay không?" closed="true" %}}
+{{% ls-details title="Evermusic hoặc Flacbox có miễn phí sử dụng với CarPlay không?" closed="true" %}}
 Cả hai ứng dụng đều miễn phí tải xuống với hỗ trợ CarPlay đầy đủ, bộ cân bằng và tính năng phát. Phiên bản miễn phí có giới hạn về kết nối đám mây (3), danh sách phát (10) và thư mục ngoại tuyến (1). Premium gỡ bỏ tất cả giới hạn.
-{{% /details %}}
+{{% /ls-details %}}

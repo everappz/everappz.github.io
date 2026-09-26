@@ -17,7 +17,7 @@ readingTime: 6
 Der Bereich "Wiedergabelisten" bietet dir die Werkzeuge, um deine Titel in Listen zu organisieren. Er enthält eine Inhaltsansicht mit allen deinen erstellten Wiedergabelisten, eine Schaltfläche "..." in der Navigationsleiste mit verschiedenen wiedergabelistenbezogenen Aktionen und eine Navigationssymbolleiste mit Schaltflächen für "Suchen", "Alles abspielen" und "Alles zufällig abspielen". Darüber hinaus verfügt jede einzelne Wiedergabeliste über eine Schaltfläche "..." neben dem Wiedergabelistentitel, die eine Reihe von Aktionen speziell für diese Wiedergabeliste bietet.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evermusic Wiedergabelisten-Bildschirm" image="/docs/guide/evermusic/evermusic-guide-playlists/img/playlists-main.webp" >}}
+  {{< ls-card title="" subtitle="Evermusic Wiedergabelisten-Bildschirm" image="/docs/guide/evermusic/evermusic-guide-playlists/img/playlists-main.webp" >}}
 {{< /cards >}}
 
 ## Wiedergabeliste erstellen
@@ -25,7 +25,7 @@ Der Bereich "Wiedergabelisten" bietet dir die Werkzeuge, um deine Titel in Liste
 Um eine neue Wiedergabeliste zu erstellen, tippe entweder auf die Schaltfläche "+" oder auf die Schaltfläche "..." in der oberen rechten Ecke der Navigationsleiste, wähle "Neue Wiedergabeliste" und weise deiner Wiedergabeliste einen Namen zu. Nach der Benennung tippe auf "Speichern".
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Neue Wiedergabeliste erstellen" image="/docs/guide/evermusic/evermusic-guide-playlists/img/playlists-add-new.webp" >}}
+  {{< ls-card title="" subtitle="Neue Wiedergabeliste erstellen" image="/docs/guide/evermusic/evermusic-guide-playlists/img/playlists-add-new.webp" >}}
 {{< /cards >}}
 
 Dies öffnet den Dialog "Songs hinzufügen", in dem du auswählen kannst, welche Titel zur neuen Wiedergabeliste hinzugefügt werden sollen. Titel werden nach Quelltyp kategorisiert, und du hast mehrere Optionen:
@@ -42,7 +42,7 @@ Standardmäßig kannst du einen Titel nur einmal zu einer Wiedergabeliste hinzuf
 In Evermusic haben wir die M3U-Datei-Import-Funktionalität hinzugefügt, sodass du Wiedergabelisten nicht manuell erstellen musst.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Wiedergabeliste aus einer Dateiquelle importieren" image="/docs/guide/evermusic/evermusic-guide-playlists/img/playlists-import-from-files.webp" >}}
+  {{< ls-card title="" subtitle="Wiedergabeliste aus einer Dateiquelle importieren" image="/docs/guide/evermusic/evermusic-guide-playlists/img/playlists-import-from-files.webp" >}}
 {{< /cards >}}
 
 Gehe zuerst zum Bereich "Wiedergabelisten". Tippe dann auf die Schaltfläche "Mehr" in der oberen rechten Ecke. Wähle aus dem erscheinenden Menü die Option "Wiedergabeliste importieren".
@@ -62,7 +62,7 @@ Die App analysiert die Wiedergabelistendatei, erstellt eine Liste von Titeln und
 Wenn du eine Wiedergabeliste öffnest, erscheint der "Wiedergabelisten-Detailbildschirm". Auf diesem Bildschirm findest du eine Schaltfläche "..." in der oberen rechten Ecke mit Wiedergabelisten-Optionen und drei Schaltflächen unter dem Artwork-Bild: "Suchen", "Wiedergabe fortsetzen", "Alles abspielen" und "Alles zufällig abspielen". Zusätzlich gibt es ein Kontrollkästchen für den "Offline-Modus".
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Wiedergabelisten-Detailbildschirm" image="/docs/guide/evermusic/evermusic-guide-playlists/img/playlists-detail-screen.webp" >}}
+  {{< ls-card title="" subtitle="Wiedergabelisten-Detailbildschirm" image="/docs/guide/evermusic/evermusic-guide-playlists/img/playlists-detail-screen.webp" >}}
 {{< /cards >}}
 
 - **Wiedergabe fortsetzen**: Wiedergabeposition für diese Wiedergabeliste wiederherstellen.
@@ -87,7 +87,7 @@ Du kannst auf Aktionen für eine Wiedergabeliste zugreifen, indem du auf die Sch
 - **Wiedergabeliste löschen:** Lösche die Wiedergabeliste aus der Musikbibliothek. Bitte beachte, dass diese Aktion nicht rückgängig gemacht werden kann.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Menü für weitere Aktionen einer Wiedergabeliste" image="/docs/guide/evermusic/evermusic-guide-playlists/img/playlists-more-actions-for-separate-playlist.webp" >}}
+  {{< ls-card title="" subtitle="Menü für weitere Aktionen einer Wiedergabeliste" image="/docs/guide/evermusic/evermusic-guide-playlists/img/playlists-more-actions-for-separate-playlist.webp" >}}
 {{< /cards >}}
 
 ## Weitere Aktionen für Wiedergabeliste im Wiedergabelisten-Detailbildschirm
@@ -113,7 +113,7 @@ Du kannst auf Aktionen für eine Wiedergabeliste zugreifen, indem du auf die Sch
 Um die Reihenfolge der Songs in einer Wiedergabeliste zu ändern, tippe auf die Schaltfläche "..." in der oberen rechten Ecke und wähle "Auswählen", um in den Auswahlmodus zu wechseln. Verwende die Reihenfolge-Steuerung und Drag-and-Drop-Gesten neben jedem Titel, um sie nach oben oder unten zu verschieben. Wenn du auf die Reihenfolge-Steuerung tippst, wird der Titel an die oberste Position der Liste verschoben. Um den Auswahlmodus zu beenden und Änderungen anzuwenden, tippe auf "Fertig".
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Songreihenfolge in einer Wiedergabeliste ändern" image="/docs/guide/evermusic/evermusic-guide-playlists/img/playlists-change-songs-order.webp" >}}
+  {{< ls-card title="" subtitle="Songreihenfolge in einer Wiedergabeliste ändern" image="/docs/guide/evermusic/evermusic-guide-playlists/img/playlists-change-songs-order.webp" >}}
 {{< /cards >}}
 
 ## Wiedergabelisten-Cover-Bild ändern
@@ -129,7 +129,7 @@ Um das Cover-Bild einer Wiedergabeliste zu ändern, tippe auf die Schaltfläche 
 Öffne die Wiedergabeliste, tippe auf die Schaltfläche "..." in der oberen rechten Ecke und wähle "Auswählen", um in den Auswahlmodus zu wechseln. Wähle die Titel, die du löschen möchtest, und tippe auf die Schaltfläche "Aus Wiedergabeliste löschen" am unteren Bildschirmrand. Bestätige die Änderungen durch Tippen auf "Fertig".
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Auswahlmodus innerhalb einer Wiedergabeliste" image="/docs/guide/evermusic/evermusic-guide-playlists/img/playlists-selection-mode-in-playlist-details-screen.webp" >}}
+  {{< ls-card title="" subtitle="Auswahlmodus innerhalb einer Wiedergabeliste" image="/docs/guide/evermusic/evermusic-guide-playlists/img/playlists-selection-mode-in-playlist-details-screen.webp" >}}
 {{< /cards >}}
 
 ## Titeloptionen
@@ -137,7 +137,7 @@ Um das Cover-Bild einer Wiedergabeliste zu ändern, tippe auf die Schaltfläche 
 Jeder Titel in einer Wiedergabeliste hat eine Liste von Aktionen, die durch Tippen auf die Schaltfläche "..." aufgerufen werden können. Wenn du nicht alle Aktionen siehst, scrolle nach unten, um sie anzuzeigen. Du kannst den Titel aus der Wiedergabeliste löschen, ihn herunterladen, Audio-Tags bearbeiten und mehr.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Titeloptionsmenü in einer Wiedergabeliste" image="/docs/guide/evermusic/evermusic-guide-playlists/img/playlists-track-options.webp" >}}
+  {{< ls-card title="" subtitle="Titeloptionsmenü in einer Wiedergabeliste" image="/docs/guide/evermusic/evermusic-guide-playlists/img/playlists-track-options.webp" >}}
 {{< /cards >}}
 
 - **Als nächstes abspielen:** Fügt den Titel an die oberste Stelle der Wiedergabewarteschlange hinzu.

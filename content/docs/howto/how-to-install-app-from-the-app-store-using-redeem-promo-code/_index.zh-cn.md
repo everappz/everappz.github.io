@@ -7,7 +7,7 @@ tags: ["促销", "appstore", "安装", "兑换", "代码", "免费"]
 readingTime: 2
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **简要说明：** 促销代码可以让您免费下载付费应用或解锁应用内购买。在 iOS 上：App Store > 账户图标 > 兑换礼品卡或代码 > 输入代码。在 Mac 上：App Store > 账户 > 兑换礼品卡 > 输入代码。然后打开应用，如有需要，恢复购买。
@@ -94,22 +94,22 @@ readingTime: 2
 
 ## 常见问题
 
-{{% details title="我在哪里可以获取促销代码？" closed="true" %}}
+{{% ls-details title="我在哪里可以获取促销代码？" closed="true" %}}
 促销代码由应用开发者提供，用于评测、赠品活动或促销。直接联系开发者即可申请。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="促销代码会过期吗？" closed="true" %}}
+{{% ls-details title="促销代码会过期吗？" closed="true" %}}
 会。Apple App Store 促销代码在生成后 28 天内过期，且只能兑换一次。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="我可以在任何国家使用促销代码吗？" closed="true" %}}
+{{% ls-details title="我可以在任何国家使用促销代码吗？" closed="true" %}}
 促销代码有区域限制。代码必须与您 Apple ID 的 App Store 国家/地区匹配。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="如何使用促销代码激活应用内购买？" closed="true" %}}
+{{% ls-details title="如何使用促销代码激活应用内购买？" closed="true" %}}
 在 App Store 中兑换代码后，打开应用并前往 设置 > 恢复购买。高级内容将自动解锁。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="促销代码显示已被兑换。我该怎么办？" closed="true" %}}
+{{% ls-details title="促销代码显示已被兑换。我该怎么办？" closed="true" %}}
 每个促销代码只能使用一次。请联系开发者申请新代码。
-{{% /details %}}
+{{% /ls-details %}}

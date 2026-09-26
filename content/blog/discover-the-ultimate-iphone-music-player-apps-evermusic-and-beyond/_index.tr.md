@@ -12,7 +12,7 @@ authors:
     image: "/images/about/artem-meleshko-founder-everappz.webp"
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 **Özet:** En iyi iPhone müzik çalar ihtiyaçlarınıza bağlıdır. **Evermusic** bulut depolama oynatma ve format esnekliği için idealdir. **Apple Music** Apple ekosistemine derinden bağlı olanlar için uygundur. **Spotify** müzik keşfinde öne çıkar. **VLC** her dosya formatını ücretsiz olarak çalar. **Amazon Music** Alexa ve Prime ile iyi eşleşir.
 
@@ -128,22 +128,22 @@ Amazon Music, Amazon ekosistemiyle entegre olup Alexa üzerinden sesli kontrol v
 
 ## Sıkça Sorulan Sorular
 
-{{% details title="iPhone için en iyi ücretsiz müzik çalar hangisidir?" closed="true" %}}
+{{% ls-details title="iPhone için en iyi ücretsiz müzik çalar hangisidir?" closed="true" %}}
 Kendi dosyalarınızı çalmak için Evermusic ve VLC her ikisi de ücretsiz seçeneklerdir. Evermusic bulut depolama entegrasyonu eklerken, VLC en geniş dosya formatı desteğini sunar.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="iPhone'da FLAC dosyaları çalabilir miyim?" closed="true" %}}
+{{% ls-details title="iPhone'da FLAC dosyaları çalabilir miyim?" closed="true" %}}
 Evet. Evermusic ve VLC her ikisi de iPhone'da FLAC oynatmayı destekler. Apple Music ve Spotify, FLAC dosyalarını doğrudan çalmaz.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Hangi müzik çalar uygulaması bulut depolamayla çalışır?" closed="true" %}}
+{{% ls-details title="Hangi müzik çalar uygulaması bulut depolamayla çalışır?" closed="true" %}}
 Evermusic, dahili bulut depolama desteğine sahip önde gelen iPhone müzik çalarıdır. iCloud Drive, Dropbox, Google Drive, OneDrive, pCloud ve diğer hizmetlere bağlanır.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Evermusic, Apple Music'ten daha mı iyi?" closed="true" %}}
+{{% ls-details title="Evermusic, Apple Music'ten daha mı iyi?" closed="true" %}}
 Farklı amaçlara hizmet ederler. Evermusic, bulut depolama ve yerel depolamadaki kendi müzik dosyalarınızı çalar. Apple Music, 100M+ şarkı kataloğuna sahip bir abonelik yayın hizmetidir. Müzik dosyalarınıza sahipseniz, Evermusic daha iyi bir seçimdir.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="iPhone'da Spotify'ı çevrimdışı kullanabilir miyim?" closed="true" %}}
+{{% ls-details title="iPhone'da Spotify'ı çevrimdışı kullanabilir miyim?" closed="true" %}}
 Evet, ancak yalnızca Spotify Premium aboneliğiyle. Ücretsiz Spotify kullanıcıları çevrimdışı oynatma için şarkı indiremez.
-{{% /details %}}
+{{% /ls-details %}}

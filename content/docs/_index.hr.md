@@ -4,7 +4,9 @@ title: 'Dokumentacija'
 ---
 
 
-{{< lottie src="/images/juicy-json/juicy-girl-and-boy-searching-for-the-right-files.json" width="90%" >}}
+{{< ls-lottie src="/images/juicy-json/juicy-girl-and-boy-searching-for-the-right-files.json" width="90%" >}}
+
+{{< ls-docs-search >}}
 
 Ovaj odjeljak sadrži korisnu dokumentaciju za sve Everappz aplikacije — uključujući upute za postavljanje, opise značajki i napredne savjete.
 
@@ -13,9 +15,9 @@ Ako ste novi korisnik ili želite saznati više, naši vodiči i često postavlj
 ## Počnite
 
 {{< cards >}}
-  {{< card icon="book-open" link="/docs/guide" title="Korisnički vodič" >}}
-  {{< card icon="question-mark-circle" link="/docs/faq" title="Često postavljana pitanja" >}}
-  {{< card icon="light-bulb" link="/docs/howto" title="Upute" >}}
+  {{< ls-card icon="book-open" link="/docs/guide" title="Korisnički vodič" >}}
+  {{< ls-card icon="question-mark-circle" link="/docs/faq" title="Često postavljana pitanja" >}}
+  {{< ls-card icon="light-bulb" link="/docs/howto" title="Upute" >}}
 {{< /cards >}}
 
 - **Korisnički vodič** pomaže vam instalirati, konfigurirati i maksimalno iskoristiti naše aplikacije.
@@ -31,5 +33,5 @@ Ako vaše pitanje nije odgovoreno u dokumentaciji, posjetite našu stranicu [Pod
 Za pravne politike, prakse rukovanja podacima i korisničke ugovore vezane uz naše usluge, pogledajte pravne dokumente u nastavku:
 
 {{< cards >}}
-  {{< card icon="document-text" link="/legal" title="Pravni centar" >}}
+  {{< ls-card icon="document-text" link="/legal" title="Pravni centar" >}}
 {{< /cards >}}

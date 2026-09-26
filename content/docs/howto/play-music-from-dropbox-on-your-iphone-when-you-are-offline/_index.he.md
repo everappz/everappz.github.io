@@ -7,7 +7,7 @@ tags: ["ענן", "הזרמה", "אייפון", "mp3", "אחסון", "דרופב�
 keywords: ["נגן מוזיקה Dropbox iPhone", "מוזיקה לא מקוונת Dropbox iOS", "Evermusic Dropbox", "נגן mp3 ענן", "הזרמת אודיו Dropbox", "מנהל קבצים Evermusic", "Dropbox iOS אודיו"]
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **בקצרה:** העלה את המוזיקה שלך ל-Dropbox, התקן את אפליקציית Evermusic החינמית ב-iPhone שלך, חבר את חשבון ה-Dropbox שלך, ונגן או הורד את השירים שלך להאזנה לא מקוונת. Evermusic תומך ב-MP3, FLAC, WAV, AAC ועוד. הוא כולל אקולייזר 10 פסים, רשימות השמעה וניהול קבצים.
@@ -35,7 +35,7 @@ Evermusic הוא חינמי לחלוטין וזמין הן ל-iPhone והן ל-i
 
 {{< cards cols="1">}}
 
-  {{< card title="להוריד Evermusic" subtitle="נגן מוזיקה לא מקוון ומזרים ענן ל-iPhone ו-iPad." icon="download" link="https://itunes.apple.com/us/app/evermusic-offline-music/id885367198?mt=8" >}}
+  {{< ls-card title="להוריד Evermusic" subtitle="נגן מוזיקה לא מקוון ומזרים ענן ל-iPhone ו-iPad." icon="download" link="https://itunes.apple.com/us/app/evermusic-offline-music/id885367198?mt=8" >}}
 
 {{< /cards >}}
 
@@ -67,26 +67,26 @@ Evermusic הוא גם מנהל קבצים מלא התומך בפעולות בס�
 
 ## שאלות נפוצות
 
-{{% details title="האם אני יכול לנגן מוזיקה מ-Dropbox במצב לא מקוון ב-iPhone שלי?" closed="true" %}}
+{{% ls-details title="האם אני יכול לנגן מוזיקה מ-Dropbox במצב לא מקוון ב-iPhone שלי?" closed="true" %}}
 כן. השתמש ב-Evermusic כדי לחבר את ה-Dropbox שלך, ואז הורד כל שיר או רשימת השמעה להאזנה לא מקוונת. קבצים שהורדו מאוחסנים במכשיר שלך ומושמעים ללא חיבור לאינטרנט.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="האם Evermusic חינמי?" closed="true" %}}
+{{% ls-details title="האם Evermusic חינמי?" closed="true" %}}
 Evermusic חינמי להורדה עם תכונות ליבה הכוללות אקולייזר, הזרמת ענן והשמעה לא מקוונת. הגרסה החינמית תומכת בעד 3 חיבורי ענן ו-10 רשימות השמעה. שדרוג ל-Premium מסיר את כל ההגבלות.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="אילו פורמטי אודיו Evermusic תומך מ-Dropbox?" closed="true" %}}
+{{% ls-details title="אילו פורמטי אודיו Evermusic תומך מ-Dropbox?" closed="true" %}}
 Evermusic מנגן MP3, FLAC, WAV, AAC, AIFF, OGG, WMA ופורמטים רבים אחרים ישירות מ-Dropbox.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="האם אני יכול לחבר מספר שירותי ענן?" closed="true" %}}
+{{% ls-details title="האם אני יכול לחבר מספר שירותי ענן?" closed="true" %}}
 כן. Evermusic תומך ב-Dropbox, Google Drive, OneDrive, Box, WebDAV, SMB, MEGA ועוד. אתה יכול לחבר חשבונות ללא הגבלה ולעיין בכולם בספרייה אחת.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="האם Evermusic מסנכרן רשימות השמעה בין מכשירים?" closed="true" %}}
+{{% ls-details title="האם Evermusic מסנכרן רשימות השמעה בין מכשירים?" closed="true" %}}
 רשימות השמעה שנוצרו ב-Evermusic מאוחסנות באופן מקומי במכשיר שלך. קבצי ה-Dropbox שלך נשארים מסונכרנים בכל המכשירים דרך Dropbox עצמו.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="כיצד אני מפנה נפח אחסון ב-iPhone עם מוזיקה מ-Dropbox?" closed="true" %}}
+{{% ls-details title="כיצד אני מפנה נפח אחסון ב-iPhone עם מוזיקה מ-Dropbox?" closed="true" %}}
 העבר את קבצי המוזיקה שלך ל-Dropbox והזרם אותם דרך Evermusic במקום לאחסן אותם ב-iPhone. הורד רק את השירים שאתה צריך להאזנה לא מקוונת.
-{{% /details %}}
+{{% /ls-details %}}

@@ -6,7 +6,7 @@ keywords: ["eksport evermusic", "eksport flacbox", "eksport ke m3u", "eksport se
 tags: ["evermusic", "terkini", "kegemaran", "eksport", "m3u", "senarai main", "csv", "txt", "album"]
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **Ringkasan:** Evermusic dan Flacbox membolehkan anda mengeksport mana-mana koleksi trek (terkini, kegemaran, senarai main, album) ke fail CSV, TXT atau M3U. Gunakan eksport ini untuk scrobble ke Last.fm, membuat sandaran pustaka anda, atau memainkan senarai main anda pada peranti lain.
@@ -157,22 +157,22 @@ Mengeksport trek anda dari Evermusic dan Flacbox memberi anda kawalan penuh terh
 
 ## FAQ
 
-{{% details title="Format eksport mana yang perlu saya gunakan untuk scrobbling Last.fm?" closed="true" %}}
+{{% ls-details title="Format eksport mana yang perlu saya gunakan untuk scrobbling Last.fm?" closed="true" %}}
 Gunakan CSV. Ia termasuk cap masa dan metadata penuh yang diperlukan oleh alat scrobbling seperti Last.fm-Scrubbler-WPF.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Bolehkah saya mengeksport mana-mana koleksi trek, bukan hanya senarai main?" closed="true" %}}
+{{% ls-details title="Bolehkah saya mengeksport mana-mana koleksi trek, bukan hanya senarai main?" closed="true" %}}
 Ya. Anda boleh mengeksport terkini, kegemaran, album, senarai main dan mana-mana koleksi trek lain dalam aplikasi menggunakan langkah yang sama.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Adakah senarai main M3U saya berfungsi pada peranti lain?" closed="true" %}}
+{{% ls-details title="Adakah senarai main M3U saya berfungsi pada peranti lain?" closed="true" %}}
 Jika anda memilih pilihan URL Mutlak semasa eksport, fail M3U boleh dimainkan pada mana-mana peranti yang menyokong senarai main M3U. Perlu diingat bahawa sesetengah URL awan mungkin tamat tempoh dari semasa ke semasa.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Adakah ciri eksport percuma?" closed="true" %}}
+{{% ls-details title="Adakah ciri eksport percuma?" closed="true" %}}
 Ya. Mengeksport koleksi trek ke M3U, CSV dan TXT tersedia dalam kedua-dua versi percuma dan premium Evermusic dan Flacbox.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Perkhidmatan awan mana yang menyokong eksport URL Mutlak?" closed="true" %}}
+{{% ls-details title="Perkhidmatan awan mana yang menyokong eksport URL Mutlak?" closed="true" %}}
 Eksport URL Mutlak disokong untuk iCloud Drive, pCloud, PanBaidu, MyCloudHome, DLNA, MediaFire, OneDrive, Box, Dropbox, Google Drive dan WebDAV (mod tetamu).
-{{% /details %}}
+{{% /ls-details %}}

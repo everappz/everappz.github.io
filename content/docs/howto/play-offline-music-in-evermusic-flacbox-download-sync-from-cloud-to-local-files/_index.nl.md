@@ -7,7 +7,7 @@ tags: ["muziek", "audio", "speler", "offline", "modus", "downloaden", "map", "ca
 keywords: ["offline muziek iPhone", "cloud muziek synchroniseren", "Evermusic offline", "Flacbox muziek synchroniseren", "muziek afspelen zonder internet", "audio downloaden van cloud", "lokale bestanden afspelen iOS"]
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **TL;DR:** Evermusic en Flacbox laten u muziek downloaden van cloudopslag (Google Drive, Dropbox, OneDrive en meer) naar uw iPhone of iPad voor offline afspelen. U kunt drie methoden gebruiken: direct downloaden, offline-modus met automatische synchronisatie, of audiospeler-cache. Deze gids behandelt alle drie de benaderingen stap voor stap.
@@ -140,26 +140,26 @@ Door deze gedetailleerde stappen te volgen, kunt u uw lokale en in de cloud opge
 
 ## Veelgestelde vragen
 
-{{% details title="Welke cloudservices ondersteunen Evermusic en Flacbox?" closed="true" %}}
+{{% ls-details title="Welke cloudservices ondersteunen Evermusic en Flacbox?" closed="true" %}}
 Beide apps ondersteunen Google Drive, Dropbox, OneDrive, Box, MEGA, Yandex.Disk en andere grote cloudopslagproviders. U kunt meerdere services tegelijk verbinden.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Kan ik muziek automatisch synchroniseren van cloudopslag naar mijn iPhone?" closed="true" %}}
+{{% ls-details title="Kan ik muziek automatisch synchroniseren van cloudopslag naar mijn iPhone?" closed="true" %}}
 Ja. Schakel de offline-modus in voor elke map, afspeellijst, album of artiest. De app voert een eenrichtingssynchronisatie uit van cloud naar apparaat op een configureerbaar interval (standaard: eenmaal per dag).
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Gebruikt de offline-modus veel opslagruimte op mijn apparaat?" closed="true" %}}
+{{% ls-details title="Gebruikt de offline-modus veel opslagruimte op mijn apparaat?" closed="true" %}}
 Het opslaggebruik hangt af van de grootte van uw muziekcollectie en bestandsformaten. U kunt dit beheren door specifieke mappen te kiezen om te synchroniseren, cachegroottelimieten in te stellen en opslag te bewaken in de app-instellingen.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Welke audioformaten worden ondersteund voor offline afspelen?" closed="true" %}}
+{{% ls-details title="Welke audioformaten worden ondersteund voor offline afspelen?" closed="true" %}}
 Evermusic en Flacbox ondersteunen MP3, FLAC, AAC, ALAC, WAV, AIFF, OGG, WMA en vele andere formaten. Flacbox is geoptimaliseerd voor lossless formaten zoals FLAC en ALAC.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Blijft mijn offline muziek spelen als ik de app sluit?" closed="true" %}}
+{{% ls-details title="Blijft mijn offline muziek spelen als ik de app sluit?" closed="true" %}}
 Ja. Gedownloade bestanden worden lokaal op uw apparaat opgeslagen en worden afgespeeld via de audiospeler van de app, ongeacht de internetverbinding. Achtergrondweergave wordt volledig ondersteund.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Hoe maak ik ruimte vrij die wordt ingenomen door offline muziek?" closed="true" %}}
+{{% ls-details title="Hoe maak ik ruimte vrij die wordt ingenomen door offline muziek?" closed="true" %}}
 Schakel de offline-modus uit voor specifieke mappen in Instellingen > Bestandsbeheer > Gesynchroniseerde offline mappen. Dit verwijdert lokale kopieën van uw apparaat. U kunt ook de audiospeler-cache wissen of gedownloade bestanden handmatig verwijderen.
-{{% /details %}}
+{{% /ls-details %}}

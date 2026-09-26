@@ -7,7 +7,7 @@ tags: ["cloud", "streaming", "iphone", "mp3", "stockage", "dropbox"]
 keywords: ["écouter musique Dropbox iPhone", "musique hors connexion Dropbox iOS", "Evermusic Dropbox", "lecteur mp3 cloud", "diffuser audio Dropbox", "gestionnaire de fichiers Evermusic", "Dropbox iOS audio"]
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **En bref :** Téléchargez votre musique sur Dropbox, installez l'application gratuite Evermusic sur votre iPhone, connectez votre compte Dropbox, puis écoutez ou téléchargez vos morceaux pour une écoute hors connexion. Evermusic prend en charge MP3, FLAC, WAV, AAC et plus encore. Il comprend un égaliseur 10 bandes, des listes de lecture et la gestion de fichiers.
@@ -35,7 +35,7 @@ Evermusic est entièrement gratuit et disponible pour iPhone et iPad, compatible
 
 {{< cards cols="1">}}
 
-  {{< card title="Télécharger Evermusic" subtitle="Lecteur de musique hors connexion et diffuseur cloud pour iPhone et iPad." icon="download" link="https://itunes.apple.com/us/app/evermusic-offline-music/id885367198?mt=8" >}}
+  {{< ls-card title="Télécharger Evermusic" subtitle="Lecteur de musique hors connexion et diffuseur cloud pour iPhone et iPad." icon="download" link="https://itunes.apple.com/us/app/evermusic-offline-music/id885367198?mt=8" >}}
 
 {{< /cards >}}
 
@@ -67,26 +67,26 @@ Evermusic est également un gestionnaire de fichiers complet prenant en charge l
 
 ## FAQ
 
-{{% details title="Puis-je écouter de la musique Dropbox hors connexion sur mon iPhone ?" closed="true" %}}
+{{% ls-details title="Puis-je écouter de la musique Dropbox hors connexion sur mon iPhone ?" closed="true" %}}
 Oui. Utilisez Evermusic pour connecter votre Dropbox, puis téléchargez n'importe quel morceau ou liste de lecture pour une écoute hors connexion. Les fichiers téléchargés sont stockés sur votre appareil et se lisent sans connexion Internet.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Evermusic est-il gratuit ?" closed="true" %}}
+{{% ls-details title="Evermusic est-il gratuit ?" closed="true" %}}
 Evermusic est gratuit à télécharger avec des fonctionnalités de base incluant l'égaliseur, le streaming cloud et la lecture hors connexion. La version gratuite prend en charge jusqu'à 3 connexions cloud et 10 listes de lecture. La mise à niveau vers Premium supprime toutes les limites.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Quels formats audio Evermusic prend-il en charge depuis Dropbox ?" closed="true" %}}
+{{% ls-details title="Quels formats audio Evermusic prend-il en charge depuis Dropbox ?" closed="true" %}}
 Evermusic lit les formats MP3, FLAC, WAV, AAC, AIFF, OGG, WMA et bien d'autres directement depuis Dropbox.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Puis-je connecter plusieurs services cloud ?" closed="true" %}}
+{{% ls-details title="Puis-je connecter plusieurs services cloud ?" closed="true" %}}
 Oui. Evermusic prend en charge Dropbox, Google Drive, OneDrive, Box, WebDAV, SMB, MEGA et plus encore. Vous pouvez connecter un nombre illimité de comptes et les parcourir tous dans une seule bibliothèque.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Evermusic synchronise-t-il les listes de lecture entre les appareils ?" closed="true" %}}
+{{% ls-details title="Evermusic synchronise-t-il les listes de lecture entre les appareils ?" closed="true" %}}
 Les listes de lecture créées dans Evermusic sont stockées localement sur votre appareil. Vos fichiers Dropbox restent synchronisés sur tous les appareils via Dropbox lui-même.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Comment libérer de l'espace de stockage sur l'iPhone avec la musique Dropbox ?" closed="true" %}}
+{{% ls-details title="Comment libérer de l'espace de stockage sur l'iPhone avec la musique Dropbox ?" closed="true" %}}
 Déplacez vos fichiers musicaux vers Dropbox et diffusez-les via Evermusic au lieu de les stocker sur votre iPhone. Téléchargez uniquement les morceaux dont vous avez besoin pour l'écoute hors connexion.
-{{% /details %}}
+{{% /ls-details %}}

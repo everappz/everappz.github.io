@@ -21,7 +21,7 @@ readingTime: 8
 Masz dwa sposoby dodawania multimediów do biblioteki: **ręczne dodawanie** (sam wybierasz, co zostanie dodane) lub **automatyczna synchronizacja** (Evervideo skanuje wskazane foldery w chmurze i automatycznie dodaje nowe pliki w miarę ich pojawiania się).
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Biblioteka multimediów Evervideo" image="/docs/guide/evervideo/img/evervideo-genres-in-media-library.webp" >}}
+  {{< ls-card title="" subtitle="Biblioteka multimediów Evervideo" image="/docs/guide/evervideo/img/evervideo-genres-in-media-library.webp" >}}
 {{< /cards >}}
 
 ## Ręczne dodawanie
@@ -92,7 +92,7 @@ Jeśli nie widzisz wszystkich tytułów, upewnij się, że aplikacja przeskanowa
 Ta sekcja wyświetla wszystkie ostatnio odtwarzane filmy z ich ostatnią pozycją odtwarzania, dzięki czemu możesz wznowić dowolny z nich jednym dotknięciem. Możesz zmienić liczbę wpisów na liście w Ustawienia → Biblioteka multimediów → Ostatnie → Zmień rozmiar listy oraz eksportować listę do M3U / CSV / TXT, aby zachować historię oglądania.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evervideo Ostatnie — ostatnio oglądane filmy" image="/docs/guide/evervideo/img/evervideo-recents.webp" >}}
+  {{< ls-card title="" subtitle="Evervideo Ostatnie — ostatnio oglądane filmy" image="/docs/guide/evervideo/img/evervideo-recents.webp" >}}
 {{< /cards >}}
 
 ## Ulubione
@@ -104,7 +104,7 @@ Oznaczaj filmy jako ulubione na ekranie odtwarzacza lub za pomocą menu opcji. U
 Evervideo śledzi pozycję odtwarzania każdego oglądanego wideo. Każde wideo na dowolnej liście — Ostatnie, Ulubione, album, gatunek, lista odtwarzania, folder — wyświetla mały pasek postępu, dzięki czemu możesz od razu zobaczyć, ile już obejrzałeś. Ułatwia to zarządzanie długimi sezonami seriali, kursowymi listami odtwarzania i nocami maratonów.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Szczegóły gatunku Evervideo z postępem oglądania dla każdego pliku" image="/docs/guide/evervideo/img/evervideo-genre-detail-with-playback-progress-for-watched-files.webp" >}}
+  {{< ls-card title="" subtitle="Szczegóły gatunku Evervideo z postępem oglądania dla każdego pliku" image="/docs/guide/evervideo/img/evervideo-genre-detail-with-playback-progress-for-watched-files.webp" >}}
 {{< /cards >}}
 
 ## Górny pasek narzędzi
@@ -116,7 +116,7 @@ Umieszczony tuż pod paskiem nawigacji, górny pasek narzędzi oferuje kilka wyg
 Funkcja wyszukiwania umożliwia znalezienie konkretnego tytułu, albumu, gatunku lub listy odtwarzania w bibliotece multimediów. Na ekranie Wyszukiwania masz dostęp do akcji Sortuj, Filtruj i widoku Siatka / Lista. Wyszukiwanie działa lokalnie na bazie danych biblioteki multimediów, więc działa w pełni offline i wyświetla wyniki podczas pisania.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Wyszukiwanie w bibliotece multimediów Evervideo" image="/docs/guide/evervideo/img/evervideo-library-search.webp" >}}
+  {{< ls-card title="" subtitle="Wyszukiwanie w bibliotece multimediów Evervideo" image="/docs/guide/evervideo/img/evervideo-library-search.webp" >}}
 {{< /cards >}}
 
 ## Menu opcji

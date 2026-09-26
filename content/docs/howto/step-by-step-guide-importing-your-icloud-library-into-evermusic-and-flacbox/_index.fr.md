@@ -7,7 +7,7 @@ tags: ["musique", "cloud", "streaming", "synchronisation", "icloud", "bibliothè
 keywords: ["importer musique iCloud Evermusic", "synchronisation iCloud Flacbox", "Evermusic streaming depuis iCloud", "bibliothèque musicale app iOS", "lecteur métadonnées Flacbox", "streaming musique iCloud iPhone"]
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **Résumé :** Vous pouvez diffuser votre bibliothèque musicale iCloud Drive dans Evermusic et Flacbox sans télécharger de fichiers sur votre appareil. Connectez iCloud Drive dans l'application, activez la Synchronisation de Musique en Ligne pour construire votre bibliothèque, configurez le lecteur de métadonnées pour organiser par artiste/album/genre, et activez éventuellement le Mode Hors Ligne pour télécharger des albums à écouter sans internet. Ces étapes fonctionnent également avec Google Drive, Dropbox, OneDrive et d'autres services cloud pris en charge.
@@ -148,26 +148,26 @@ C'est tout pour aujourd'hui ! Nous espérons que ce guide vous aidera à configu
 
 ## FAQ
 
-{{% details title="Puis-je diffuser de la musique iCloud sans télécharger de fichiers sur mon iPhone ?" closed="true" %}}
+{{% ls-details title="Puis-je diffuser de la musique iCloud sans télécharger de fichiers sur mon iPhone ?" closed="true" %}}
 Oui. Lorsque vous connectez iCloud Drive dans Evermusic ou Flacbox et utilisez la Synchronisation de Musique en Ligne, l'application crée des liens vers vos fichiers cloud et les diffuse à la demande. Les fichiers ne sont pas téléchargés sauf si vous activez explicitement le Mode Hors Ligne.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Pourquoi l'importation de musique iCloud est-elle lente dans Flacbox ou Evermusic ?" closed="true" %}}
+{{% ls-details title="Pourquoi l'importation de musique iCloud est-elle lente dans Flacbox ou Evermusic ?" closed="true" %}}
 L'importation lente est généralement causée par la lecture des métadonnées d'une grande bibliothèque via une connexion mobile. Activez la Synchronisation en arrière-plan, lancez la lecture audio pour garder l'application active, et envisagez d'utiliser la version Mac pour la synchronisation initiale de grandes collections.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Ce guide fonctionne-t-il avec d'autres services cloud qu'iCloud ?" closed="true" %}}
+{{% ls-details title="Ce guide fonctionne-t-il avec d'autres services cloud qu'iCloud ?" closed="true" %}}
 Oui. Les mêmes étapes s'appliquent à Google Drive, Dropbox, OneDrive, SMB, WebDAV et tous les autres services cloud pris en charge par Evermusic et Flacbox.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Comment transférer ma bibliothèque musicale de Mac à iPhone ?" closed="true" %}}
+{{% ls-details title="Comment transférer ma bibliothèque musicale de Mac à iPhone ?" closed="true" %}}
 Utilisez la fonctionnalité de sauvegarde/restauration dans les paramètres de l'application. Synchronisez et lisez les métadonnées sur la version Mac d'abord, créez une sauvegarde, puis restaurez-la sur la version iOS. C'est le moyen le plus rapide de configurer une grande bibliothèque sur iPhone.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Le lecteur de métadonnées modifiera-t-il mes fichiers audio originaux ?" closed="true" %}}
+{{% ls-details title="Le lecteur de métadonnées modifiera-t-il mes fichiers audio originaux ?" closed="true" %}}
 Non. Le lecteur de métadonnées ne met à jour que les informations d'affichage dans votre bibliothèque musicale. Il ne modifie pas les fichiers stockés dans votre compte cloud ou sur votre appareil. Pour modifier les tags des fichiers, utilisez l'éditeur de tags intégré.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Comment rendre des albums disponibles hors ligne ?" closed="true" %}}
+{{% ls-details title="Comment rendre des albums disponibles hors ligne ?" closed="true" %}}
 Utilisez la fonctionnalité Mode Hors Ligne. Appuyez sur **Plus d'actions** sur n'importe quel dossier cloud et sélectionnez **Activer le mode hors ligne**. L'application télécharge tous les fichiers et les maintient synchronisés avec la version cloud automatiquement.
-{{% /details %}}
+{{% /ls-details %}}

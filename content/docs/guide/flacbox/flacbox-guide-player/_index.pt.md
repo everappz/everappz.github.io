@@ -23,7 +23,7 @@ O Leitor de Áudio é o ecrã principal da aplicação onde controla a música e
 Pode aceder ao leitor em ecrã completo a partir da barra do mini leitor. No iPhone, o mini leitor fica na parte inferior do ecrã principal. No iPad e Mac, fica no lado esquerdo. Para ocultar o mini leitor no iPhone, toque nele uma vez e deslize para baixo. Para fechar completamente o leitor em ecrã completo, toque no botão de fechar no canto inferior direito.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox Audio Player Main Screen" image="/docs/guide/flacbox/img/audio-player-main-screen.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox Audio Player Main Screen" image="/docs/guide/flacbox/img/audio-player-main-screen.webp" >}}
 {{< /cards >}}
 
 ## Formatos de Áudio Suportados
@@ -66,7 +66,7 @@ Para AirPlay, procure o botão **AirPlay** na parte inferior do leitor. Toque ne
 O Flacbox inclui um **equalizador de 10 bandas** com predefinições estilo iPod. Toque em Equalizador na vista de volume e depois ligue-o no canto superior direito. Pode usar predefinições como Acústico e Reforço de Graves, ou ajustar cada banda de frequência com cursores. Crie as suas próprias predefinições, guarde-as com qualquer nome e aumente o volume geral com o pré-amplificador. Temos instruções mais detalhadas sobre como usar o equalizador [aqui](/docs/howto/how-to-use-the-audio-equalizer-on-your-iphone-ipad-mac-with-evermusic-and-flacbox).
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox Audio Player Equalizer" image="/docs/guide/flacbox/img/audio-player-equalizer.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox Audio Player Equalizer" image="/docs/guide/flacbox/img/audio-player-equalizer.webp" >}}
 {{< /cards >}}
 
 ## Barra de Ferramentas do Modo do Leitor
@@ -82,7 +82,7 @@ Para alguns estilos de leitor, existe uma barra de ferramentas dedicada no topo 
 Para ver a sua fila do leitor, toque no botão de fila no lado direito da música atual. Cada música na fila tem mais ações — toque nos três pontos para as ver. Para reordenar uma música na fila, use o indicador de reordenar perto do título e arraste-o para uma nova posição.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox Playback Queue" image="/docs/guide/flacbox/img/playback_queue.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox Playback Queue" image="/docs/guide/flacbox/img/playback_queue.webp" >}}
 {{< /cards >}}
 
 ## Comentários / Letras
@@ -98,7 +98,7 @@ Para ver comentários de faixas e letras incorporadas, bem como ficheiros LRC, s
 Depois, toque no botão de fila do leitor na parte inferior do ecrã várias vezes para mudar da vista de capa / fila para a vista de comentários. No ecrã de Comentários, deslize para a direita para alternar entre **Comentários**, **Letras Incorporadas** e o **Ficheiro LRC**. Instruções completas estão disponíveis [aqui](/docs/howto/how-to-add-and-view-comments-to-your-audio-tracks-on-iphone-ipad-and-mac-with-evermusic-and-flacbox).
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox Lyrics and Comments Screen" image="/docs/guide/flacbox/img/lyrics-screen.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox Lyrics and Comments Screen" image="/docs/guide/flacbox/img/lyrics-screen.webp" >}}
 {{< /cards >}}
 
 ## Menu de Opções
@@ -121,7 +121,7 @@ Cada música na fila do leitor de áudio tem um menu com mais ações, acedido t
 As mesmas opções estão disponíveis para o item em reprodução na fila do leitor de áudio, que pode aceder tocando no ícone **Mais Ações** perto do título da faixa.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox Options for an Item in the Playback Queue" image="/docs/guide/flacbox/img/options-for-item-in-playback-queue.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox Options for an Item in the Playback Queue" image="/docs/guide/flacbox/img/options-for-item-in-playback-queue.webp" >}}
 {{< /cards >}}
 
 ## Ações Adicionais do Leitor
@@ -143,7 +143,7 @@ Toque no botão **Mais Ações** «...» no lado esquerdo do título da música 
 - **Ajuda** — encontrar assistência e orientação.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox Audio Player More Actions Screen" image="/docs/guide/flacbox/img/audio-player-more-actions-screen.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox Audio Player More Actions Screen" image="/docs/guide/flacbox/img/audio-player-more-actions-screen.webp" >}}
 {{< /cards >}}
 
 ## Marcadores de Áudio
@@ -161,7 +161,7 @@ Para criar um novo marcador:
 Editar marcadores para a faixa atual é fácil: toque em Editar no canto superior direito para entrar no modo de edição. Neste modo, pode reordenar marcadores, eliminá-los, ajustar o tempo do marcador e alterar os títulos dos marcadores. Instruções mais detalhadas sobre marcadores de áudio estão disponíveis [aqui](/docs/howto/how-to-listen-to-audiobooks-on-iphone-ipad-mac-using-evermusic).
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox Audio Bookmarks Screen" image="/docs/guide/flacbox/img/audio-bookmarks.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox Audio Bookmarks Screen" image="/docs/guide/flacbox/img/audio-bookmarks.webp" >}}
 {{< /cards >}}
 
 ## Recentes e Favoritos
@@ -175,7 +175,7 @@ Ligue o iPhone ao seu carro via USB ou Apple CarPlay sem fios e o Flacbox aparec
 [Leia o guia completo do CarPlay](/docs/howto/how-to-play-your-own-music-on-iphone-using-carplay/).
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox on Apple CarPlay" image="/docs/guide/flacbox/img/carplay-main.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox on Apple CarPlay" image="/docs/guide/flacbox/img/carplay-main.webp" >}}
 {{< /cards >}}
 
 ## Widgets do Ecrã Inicial (iPhone e iPad)
@@ -243,7 +243,7 @@ Personalize as definições do equalizador de áudio. Pode ler mais sobre como c
 Ajuste a velocidade de reprodução do leitor de áudio de **0,02× a 3,00×**. Toque no ícone de configuração no canto superior direito para mudar para **modo preciso** para ajustes mais finos.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox Playback Speed Screen" image="/docs/guide/flacbox/img/playback-speed.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox Playback Speed Screen" image="/docs/guide/flacbox/img/playback-speed.webp" >}}
 {{< /cards >}}
 
 ### Correção de Tom

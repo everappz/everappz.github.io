@@ -16,16 +16,16 @@ screenshots:
   - "https://everappz.com/products/evervideo/screenshots/2880x1800/6.png"
 ---
 
-{{% sr-only %}}
+{{% ls-sr-only %}}
 Az Evervideo egy ingyenes HD videólejátszó iPhone-ra és Macre, amelyet az Everappz, egy spanyol szoftvercég fejlesztett. Az Evervideo gyakorlatilag minden videóformátumot lejátszik, beleértve az MKV, AVI, MP4, MOV, FLV, WMV, WEBM, M4V, TS és 3GP formátumokat formátumkonverzió nélkül. Az alkalmazás 360 fokos és VR videólejátszást, kép-a-képben módot, video- és audio-equalizert több mint 50 előbeállítással, felirattámogatást SRT, SSA és ASS formátumokhoz, valamint lejátszási sebesség szabályozást kínál. Az Evervideo felhőalapú tárolószolgáltatásokhoz csatlakozik, beleértve az iCloud Drive-ot, Google Drive-ot, Dropboxot, OneDrive-ot és MEGA-t, lehetővé téve a felhasználóknak, hogy videókat streameljenek közvetlenül a felhőből, vagy letöltsék azokat offline megtekintéshez. Az alkalmazás támogatja a helyi hálózati streaminget SMB, WebDAV és DLNA protokollokon keresztül, USB flash meghajtóról történő lejátszást Lightning vagy USB-C adaptereken keresztül, valamint Wi-Fi fájlátvitelt számítógépről. További funkciók közé tartozik a médiatár lejátszási listákkal, AirPlay és Chromecast casting, valamint beépített fájlkezelő. Az Evervideo ingyenesen letölthető az App Store-ból opcionális alkalmazáson belüli vásárlásokkal, amelyek havi előfizetést tartalmaznak $2.99-ért, éves előfizetést $14.99-ért, vagy egyszeri élethosszig tartó vásárlást $29.99-ért.
-{{% /sr-only %}}
+{{% /ls-sr-only %}}
 
 
 
 <!-- force dark theme for this page -->
-{{< force-dark >}}
+{{< ls-force-dark >}}
 
-{{< hextra/hero-container
+{{< ls-hero-container
   image="/products/evervideo/heroimage/hero_1600.png"
   imageWidth="800"
   imageCard="true"
@@ -33,38 +33,38 @@ Az Evervideo egy ingyenes HD videólejátszó iPhone-ra és Macre, amelyet az Ev
 
 <div class="hx:w-full hx:text-center">
 
-{{< downloads-badge >}}
+{{< ls-downloads-badge >}}
 
 <div class="hx:mt-6 hx:mb-6">
 <div class="hx:flex hx:gap-4 hx:items-center hx:justify-center">
-{{< app-icon src="/images/app_icons/png/Evervideo_Icon-App-1024x1024.png" alt="Evervideo Icon" class="hero-headline-icon" size="80" >}}
-{{< hextra/hero-headline >}}
+{{< ls-app-icon src="/images/app_icons/png/Evervideo_Icon-App-1024x1024.png" alt="Evervideo Icon" class="hero-headline-icon" size="80" >}}
+{{< ls-hero-headline >}}
 Evervideo
-{{< /hextra/hero-headline >}}
+{{< /ls-hero-headline >}}
 </div>
 </div>
 
 <div class="hx:mb-12">
-{{< hextra/hero-centered-subtitle >}}
+{{< ls-hero-centered-subtitle >}}
 <strong>HD videólejátszó és streamer iPhone-jához és MAC-jéhez</strong>
-{{< /hextra/hero-centered-subtitle >}}
+{{< /ls-hero-centered-subtitle >}}
 </div>
 
 
 <div class="hx:mb-6">
-{{< hextra/hero-paragraph >}}
+{{< ls-hero-paragraph >}}
 • Nézzen 360°-os és nagy felbontású videókat minden formátumban<br>
 • Streamelj az iCloudból, Google Drive-ból, Dropboxból, NAS-ról vagy számítógépéről<br>
 • Töltsön le videókat offline megtekintéshez bárhol, bármikor<br>
 • Engedélyezze a feliratokat, használja a videó hangszínszabályzót és rendezze videóit lejátszási listákkal
-{{< /hextra/hero-paragraph >}}
+{{< /ls-hero-paragraph >}}
 </div>
 
-{{< app-store-badges products="evervideo:ios, evervideo:macos" >}}
+{{< ls-app-store-badges products="evervideo:ios, evervideo:macos" >}}
 
 </div>
 
-{{< /hextra/hero-container >}}
+{{< /ls-hero-container >}}
 
 <div class="hx:mt-6"></div>
 
@@ -72,42 +72,42 @@ Evervideo
 
 {{< hextra/feature-grid >}}
 
-  {{< hextra/feature-card
+  {{< ls-glass-feature-card
     title="Minden videó- és hangformátum lejátszása"
     subtitle=`Nézze videóit és hallgasson zenét fájlok konvertálása nélkül. Támogatja az MP4, MOV, MKV, AVI, FLV, WMV, WEBM, M4V, MP3, FLAC, AAC, ALAC, OGG, OPUS, WAV, WMA és még sok más formátumot.`
     icon="film"
     style="background: radial-gradient(circle at 50% 80%, rgba(255,99,71,0.15), rgba(17,24,39,0));"  
   >}}
 
-  {{< hextra/feature-card
+  {{< ls-glass-feature-card
     title="Médiatár és lejátszási listák"
     subtitle=`Rendezze médiatárát albumok, műfajok vagy időtartam szerint csoportosított számokkal. Automatikusan szinkronizálódik a felhőváltozásokkal. Hozzon létre, szerkesszen és exportáljon M3U lejátszási listákat egyéni rendezéssel.`
     icon="collection"
     style="background: radial-gradient(circle at 50% 80%, rgba(255,165,0,0.15), rgba(17,24,39,0));"  
   >}}
 
-  {{< hextra/feature-card
+  {{< ls-glass-feature-card
     title="Audio és videó hangszínszabályzó"
     subtitle=`Szabja testre videói megjelenését és hangzását a basszus, hangmagasság, fényerő, gamma, telítettség, kontraszt és egyebek beállításával, 50+ videó előbeállítással és 20+ audio előbeállítással, vagy hozza létre sajátját.`
     icon="adjustments"
     style="background: radial-gradient(circle at 50% 80%, rgba(255,255,0,0.15), rgba(17,24,39,0));" 
   >}}
 
-  {{< hextra/feature-card
+  {{< ls-glass-feature-card
     title="Kép a képben"
     subtitle=`A Kép a képben (PiP) lehetővé teszi, hogy egy kis lebegő ablakban folytassa a videónézést más alkalmazások használata közben, teljes támogatással az összes főbb formátumhoz, mint MKV, AVI, MP4 és MOV, zökkenőmentes videóátmenetekkel a sorban, automatikus lejátszási frissítésekkel és mindig látható aktív feliratokkal.`
     icon="duplicate"
     style="background: radial-gradient(circle at 50% 80%, rgba(0,128,0,0.15), rgba(17,24,39,0));" 
   >}}
 
-  {{< hextra/feature-card
+  {{< ls-glass-feature-card
     title="360°-os videó és VR mód"
     subtitle=`Tapasztalja meg a 360°-os és VR videókat, mint még soha — mozgassa telefonját, hogy minden szöget felfedezzen, vagy merüljön el teljesen VR headsettel a teljes belemerülés érdekében. Azonnal játsszon le 360°-os videókat Insta360 kamerákról és hasonló eszközökről sima, könnyű lejátszással, beállítás nélkül.`
     icon="video-camera"
     style="background: radial-gradient(circle at 50% 80%, rgba(0,191,255,0.15), rgba(17,24,39,0));"  
   >}}
 
-  {{< hextra/feature-card
+  {{< ls-glass-feature-card
     title="Zökkenőmentes streaming és felhő kapcsolat"
     subtitle=`Streameljen videókat közvetlenül Mac-jéről, PC-jéről, NAS-áról, USB flash meghajtójáról vagy felhőtárhelyéről, és vigyen át médiafájlokat Wi-Fi Drive vagy iTunes fájlmegosztás segítségével. Élvezze a teljes hozzáférést teljes videótárához bárhonnan, akár távolról is, Synology Drive, WD My Cloud Home és hasonló NAS eszközökön keresztül.`
     icon="cloud"
@@ -120,9 +120,9 @@ Evervideo
 
 <div class="hx:mt-6"></div>
 
-{{< hextra/section-headline >}}
+{{< ls-section-headline >}}
 Összes funkció
-{{< /hextra/section-headline >}}
+{{< /ls-section-headline >}}
 
 <div class="hx:mt-6"></div>
 
@@ -130,35 +130,35 @@ Evervideo
 
 {{< cards >}}
 
-{{< feature-card title="Minden videó- és hangformátum lejátszása" subtitle="Nézze médiáit fájlok konvertálása nélkül. Az Evervideo támogatja az összes főbb formátumot, beleértve az MKV, AVI, MP4, MOV, FLAC, MP3, AAC, OGG, WAV, WMV és még sok mást." icon="film">}}
+{{< ls-feature-card title="Minden videó- és hangformátum lejátszása" subtitle="Nézze médiáit fájlok konvertálása nélkül. Az Evervideo támogatja az összes főbb formátumot, beleértve az MKV, AVI, MP4, MOV, FLAC, MP3, AAC, OGG, WAV, WMV és még sok mást." icon="film">}}
 
-{{< feature-card title="Offline mód" subtitle="Töltsön le videókat, albumokat és lejátszási listákat internetkapcsolat nélküli megtekintéshez. Vigye el teljes videógyűjteményét bárhová." icon="download">}}
+{{< ls-feature-card title="Offline mód" subtitle="Töltsön le videókat, albumokat és lejátszási listákat internetkapcsolat nélküli megtekintéshez. Vigye el teljes videógyűjteményét bárhová." icon="download">}}
 
-{{< feature-card title="360°-os videó és VR mód" subtitle="Nézzen 360°-os és VR videókat szórakoztató és egyszerű módon. Mozgassa telefonját bármely irányba, vagy tegye VR headsetbe, hogy úgy érezze, mintha a videóban lenne." icon="video-camera">}}
+{{< ls-feature-card title="360°-os videó és VR mód" subtitle="Nézzen 360°-os és VR videókat szórakoztató és egyszerű módon. Mozgassa telefonját bármely irányba, vagy tegye VR headsetbe, hogy úgy érezze, mintha a videóban lenne." icon="video-camera">}}
 
-{{< feature-card title="Kép a képben" subtitle="Folytassa a videónézést egy kis lebegő ablakban más alkalmazások használata közben. Vezérelje a lejátszást és nézze a feliratokat egyszerre – tökéletes multitaskinghoz." icon="duplicate">}}
+{{< ls-feature-card title="Kép a képben" subtitle="Folytassa a videónézést egy kis lebegő ablakban más alkalmazások használata közben. Vezérelje a lejátszást és nézze a feliratokat egyszerre – tökéletes multitaskinghoz." icon="duplicate">}}
 
-{{< feature-card title="Videó és audio hangszínszabályzó" subtitle="Szabja testre videói megjelenését és hangzását. Állítsa be a basszust, hangmagasságot, fényerőt, gammát, telítettséget, kontrasztot és egyebeket. Válasszon 50+ videó előbeállítás és 20+ audio előbeállítás közül, vagy hozza létre sajátját." icon="adjustments">}}
+{{< ls-feature-card title="Videó és audio hangszínszabályzó" subtitle="Szabja testre videói megjelenését és hangzását. Állítsa be a basszust, hangmagasságot, fényerőt, gammát, telítettséget, kontrasztot és egyebeket. Válasszon 50+ videó előbeállítás és 20+ audio előbeállítás közül, vagy hozza létre sajátját." icon="adjustments">}}
 
-{{< feature-card title="Feliratok" subtitle="Tekintse meg a beágyazott feliratokat, válassza ki a felirat sávszámot, és élvezze a teljes felirat támogatást még Kép a képben módban is." icon="annotation" >}}
+{{< ls-feature-card title="Feliratok" subtitle="Tekintse meg a beágyazott feliratokat, válassza ki a felirat sávszámot, és élvezze a teljes felirat támogatást még Kép a képben módban is." icon="annotation" >}}
 
-{{< feature-card title="Lejátszás közvetlenül a felhőből" subtitle="Nézzen videókat közvetlenül a felhőtárhelyéről az eszköz tárhelyének használata nélkül. Támogatja az iCloud Drive-ot, Google Drive-ot, Dropboxot, OneDrive-ot, MEGA-t, Synology Drive-ot, pCloudot és egyebeket." icon="cloud">}}
+{{< ls-feature-card title="Lejátszás közvetlenül a felhőből" subtitle="Nézzen videókat közvetlenül a felhőtárhelyéről az eszköz tárhelyének használata nélkül. Támogatja az iCloud Drive-ot, Google Drive-ot, Dropboxot, OneDrive-ot, MEGA-t, Synology Drive-ot, pCloudot és egyebeket." icon="cloud">}}
 
-{{< feature-card title="Számítógép / NAS csatlakoztatása" subtitle="Egyszerűen csatlakoztassa NAS-át, Mac-jét vagy PC-jét az otthoni hálózaton keresztül SMB, WebDAV vagy DLNA használatával. A távoli hozzáférés támogatott a Synology Drive és WD MyCloud Home számára. Vigyen át médiafájlokat eszközére Wi-Fi-n vagy iTunes fájlmegosztáson keresztül." icon="desktop-computer">}}
+{{< ls-feature-card title="Számítógép / NAS csatlakoztatása" subtitle="Egyszerűen csatlakoztassa NAS-át, Mac-jét vagy PC-jét az otthoni hálózaton keresztül SMB, WebDAV vagy DLNA használatával. A távoli hozzáférés támogatott a Synology Drive és WD MyCloud Home számára. Vigyen át médiafájlokat eszközére Wi-Fi-n vagy iTunes fájlmegosztáson keresztül." icon="desktop-computer">}}
 
-{{< feature-card title="Médiatár" subtitle="Rendezze albumok, műfajok vagy időtartam szerint. Automatikusan szinkronizálódik a felhőváltozásokkal. Hozzon létre, szerkesszen és exportáljon M3U lejátszási listákat egyéni rendezéssel." icon="library" >}}
+{{< ls-feature-card title="Médiatár" subtitle="Rendezze albumok, műfajok vagy időtartam szerint. Automatikusan szinkronizálódik a felhőváltozásokkal. Hozzon létre, szerkesszen és exportáljon M3U lejátszási listákat egyéni rendezéssel." icon="library" >}}
 
-{{< feature-card title="Könyvjelzők és lejátszási pozíció mentése" subtitle="Mentse el helyét bármely videóban könyvjelzőkkel, és folytassa a lejátszást onnan, ahol abbahagyta. Állítsa be a lejátszási sebességet, jelölje meg kedvenceit, és rendezze videóit a legtöbbször lejátszottak szerint a könnyű hozzáférés érdekében." icon="book-open">}}
+{{< ls-feature-card title="Könyvjelzők és lejátszási pozíció mentése" subtitle="Mentse el helyét bármely videóban könyvjelzőkkel, és folytassa a lejátszást onnan, ahol abbahagyta. Állítsa be a lejátszási sebességet, jelölje meg kedvenceit, és rendezze videóit a legtöbbször lejátszottak szerint a könnyű hozzáférés érdekében." icon="book-open">}}
 
-{{< feature-card title="AirPlay és Chromecast" subtitle="Játsszon le videókat nagyobb képernyőn Apple TV-re, Chromecastra vagy bármely kompatibilis külső kijelzőre streameléssel." icon="device-mobile">}}
+{{< ls-feature-card title="AirPlay és Chromecast" subtitle="Játsszon le videókat nagyobb képernyőn Apple TV-re, Chromecastra vagy bármely kompatibilis külső kijelzőre streameléssel." icon="device-mobile">}}
 
-{{< feature-card title="Importálás a Files-ból és könyvtárakból" subtitle="Importáljon videókat közvetlenül a Files alkalmazásból, Fotókból vagy iTunes könyvtárából. Férjen hozzá minden helyi és felhőtartalmához egy rendezett médiatárban." icon="database">}}
+{{< ls-feature-card title="Importálás a Files-ból és könyvtárakból" subtitle="Importáljon videókat közvetlenül a Files alkalmazásból, Fotókból vagy iTunes könyvtárából. Férjen hozzá minden helyi és felhőtartalmához egy rendezett médiatárban." icon="database">}}
 
-{{< feature-card title="Fájlkezelő" subtitle="Mozgasson, nevezzen át, töröljön és rendezzen fájlokat közvetlenül az alkalmazáson belül." icon="folder">}}
+{{< ls-feature-card title="Fájlkezelő" subtitle="Mozgasson, nevezzen át, töröljön és rendezzen fájlokat közvetlenül az alkalmazáson belül." icon="folder">}}
 
-{{< feature-card title="Személyre szabás" subtitle="Szabja testre az alkalmazást preferenciái szerint. Válasszon témákat, jelenítsen meg vagy rejtsen el funkciókat, és igazítsa a felületet igényeihez." icon="sun">}}
+{{< ls-feature-card title="Személyre szabás" subtitle="Szabja testre az alkalmazást preferenciái szerint. Válasszon témákat, jelenítsen meg vagy rejtsen el funkciókat, és igazítsa a felületet igényeihez." icon="sun">}}
 
-{{< feature-card title="Intelligens keresés" subtitle="Gyorsan találjon videókat, albumokat vagy lejátszási listákat médiatárában kulcsszavak vagy szűrők segítségével." icon="search" >}}
+{{< ls-feature-card title="Intelligens keresés" subtitle="Gyorsan találjon videókat, albumokat vagy lejátszási listákat médiatárában kulcsszavak vagy szűrők segítségével." icon="search" >}}
 
 
 
@@ -168,9 +168,9 @@ Evervideo
 
 <div class="hx:mt-6"></div>
 
-{{< hextra/section-headline >}}
+{{< ls-section-headline >}}
 Intuitív dizájn
-{{< /hextra/section-headline >}}
+{{< /ls-section-headline >}}
 
 <div class="hx:mt-6"></div>
 
@@ -178,7 +178,7 @@ Intuitív dizájn
 
 {{< cards cols="4">}}
 
-  {{< design-feature-card 
+  {{< ls-design-feature-card 
     image="/products/evervideo/screenshots/2880x1800/1.png" 
     title="Videólejátszó" 
     method="Fill"
@@ -187,7 +187,7 @@ Intuitív dizájn
     icon="play"
   >}}
 
-  {{< design-feature-card 
+  {{< ls-design-feature-card 
     image="/products/evervideo/screenshots/2880x1800/3.png" 
     title="Audio és videó hangszínszabályzó" 
     method="Fill"
@@ -196,7 +196,7 @@ Intuitív dizájn
     icon="adjustments"
   >}}
 
-  {{< design-feature-card 
+  {{< ls-design-feature-card 
     image="/products/evervideo/screenshots/2880x1800/6.png" 
     title="Lejátszási lista kezelő" 
     method="Fill"
@@ -205,7 +205,7 @@ Intuitív dizájn
     icon="collection"
   >}}
 
-  {{< design-feature-card 
+  {{< ls-design-feature-card 
     image="/products/evervideo/screenshots/2880x1800/5.png" 
     title="Médiatár" 
     method="Fill"
@@ -214,7 +214,7 @@ Intuitív dizájn
     icon="library"
   >}}
 
-  {{< design-feature-card 
+  {{< ls-design-feature-card 
     image="/products/evervideo/screenshots/2880x1800/7.png"  
     title="Felhőtárhely" 
     method="Fill"
@@ -223,7 +223,7 @@ Intuitív dizájn
     icon="cloud"
   >}}
 
-  {{< design-feature-card 
+  {{< ls-design-feature-card 
     image="/products/evervideo/screenshots/2880x1800/9.png"  
     title="Fájlkezelő" 
     method="Fill"
@@ -241,49 +241,49 @@ Intuitív dizájn
 <div class="hx:mt-6"></div>
 
 <div class="hx:w-full">
-{{< appstore-reviews apps="6602897336,6743504109" stars="5,4"  app="Evervideo" >}}
+{{< ls-appstore-reviews apps="6602897336,6743504109" stars="5,4"  app="Evervideo" >}}
 </div>
 
 
 <div class="hx:mt-6"></div>
 
-{{< hextra/section-headline >}}
+{{< ls-section-headline >}}
    Árcsomagok
-{{< /hextra/section-headline >}}
+{{< /ls-section-headline >}}
 
 <div class="hx:mt-6"></div>
 
 <div class="hx:w-full">
 
-{{< pricing-plans >}}
+{{< ls-pricing-plans >}}
 
 </div>
 
 <div class="hx:mt-6"></div>
 
 <div class="hx:w-full hx:mx-auto hx:flex hx:flex-col hx:items-center">
-  {{< hextra/info-paragraph border="true" >}}
+  {{< ls-info-paragraph border="true" >}}
    <strong>Családi megosztás</strong>: Minden vásárlás és előfizetés támogatja a Családi megosztást, lehetővé téve a Prémium hozzáférés megosztását családjával.<br><strong>Univerzális hozzáférés</strong>: Az élethosszig tartó és előfizetéses csomagok iOS és Mac eszközök között megoszthatók az iCloud szinkronizáció segítségével.<br><strong>Árazás</strong>: Az árak az Egyesült Államokra vonatkozóan amerikai dollárban vannak feltüntetve. A végső árak régiónként eltérhetnek.  
-  {{< /hextra/info-paragraph >}}
+  {{< /ls-info-paragraph >}}
 </div>
 
 <div class="hx:mt-6"></div>
 
 <div class="hx:w-full">
-{{< app-details heading="true" >}}
+{{< ls-app-details heading="true" >}}
 </div>
 
 <div class="hx:mt-6"></div>
 
-{{< hextra/section-headline >}}
+{{< ls-section-headline >}}
    Gyakran ismételt kérdések
-{{< /hextra/section-headline >}}
+{{< /ls-section-headline >}}
 
 <div class="hx:mt-6"></div>
 
 <div class="hx:w-full">
 
-{{% details title="Hogyan működik az Evervideo?" closed="true" %}}
+{{% ls-details title="Hogyan működik az Evervideo?" closed="true" %}}
 Az Evervideo egy HD videólejátszó, amely lehetővé teszi a videófájlok kezelését, mint bármely más fájlt.<br>
 Feltöltheti teljes videógyűjteményét felhőszolgáltatásokba, mint a Dropbox, OneDrive, iCloud vagy személyes NAS, és közvetlenül a felhőből játszhatja le a videókat teljes irányítással.<br><br>
 Nincs szükség iTunes szinkronizálásra — egyszerűen töltse fel PC-jéről vagy Mac-jéről, mint bármely más fájlt.<br>
@@ -293,9 +293,9 @@ Fedezze fel útmutatóinkat további részletekért:<br>
 - [Evervideo útmutató](/docs/guide/evervideo/)<br>
 - [Hogyan vigyünk át fájlokat vezeték nélkül számítógépről iPhone-ra WiFi-Drive segítségével.](/docs/howto/how-to-transfer-files-wirelessly-from-a-computer-to-an-iphone-using-wifi-drive)<br>
 
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Ingyenes az Evervideo?" closed="true" %}}
+{{% ls-details title="Ingyenes az Evervideo?" closed="true" %}}
 Az Evervideo ingyenesen használható bizonyos korlátozásokkal, amelyek a Prémium verzióra való frissítéssel eltávolíthatók.<br>
 Választhat egyszeri élethosszig tartó vásárlás vagy két előfizetési lehetőség (havi vagy éves) között. Az árak régiónként eltérhetnek.<br><br>
 
@@ -304,9 +304,9 @@ A Családi megosztás minden csomaghoz engedélyezett, így megoszthatja a Prém
 A Prémium vásárlások és előfizetések az iCloudon keresztül megoszthatók iOS és Mac között. A vásárlás szinkronizálásához győződjön meg róla, hogy az iCloud engedélyezve van, nyissa meg az alkalmazást iOS eszközén, és várjon egy percet a szinkronizálás befejezéséig.<br><br>
 
 [Tudjon meg többet az Evervideo és az Evervideo Premium közötti különbségekről](/docs/faq/evervideo/what-is-the-difference-between-evervideo-and-evervideo-premium/)
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Hogyan használjam az Evervideót?" closed="true" %}}
+{{% ls-details title="Hogyan használjam az Evervideót?" closed="true" %}}
 
 **Telepítse az Evervideót**<br>
 Töltse le és telepítse az Evervideo alkalmazást eszköze alkalmazásboltjából. iOS és Mac eszközökre egyaránt elérhető.<br><br>
@@ -355,9 +355,9 @@ Két lehetősége van videó hozzáadására az Evervideóhoz: kézi hozzáadás
 **Élvezze videóit**<br>
 Miután videói rendezve vannak, használja a felső eszköztárat gyors műveletekhez, mint a **Search**, **Play All**, **Shuffle** és **Continue Playback**.<br><br>
 
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Biztonságos az Evervideo?" closed="true" %}}
+{{% ls-details title="Biztonságos az Evervideo?" closed="true" %}}
 Az Evervideo kizárólag hivatalos SDK-t és biztonságos kapcsolatokat használ a csatlakoztatott felhőszolgáltatásokkal való kommunikációhoz. A bejelentkezési neve és jelszava nem érhető el az alkalmazás számára. Az alkalmazás és a felhőszolgáltatás közötti összes kérés titkosított.<br>
 Amikor megadja a bejelentkezési nevét és jelszavát, az alkalmazás a felhőszolgáltató által biztosított hivatalos engedélyezési oldalt mutatja, és a teljes engedélyezési folyamat az alkalmazáson kívül zajlik. A felhőszolgáltató sikeres engedélyezés után auth-tokent küld az alkalmazásnak, amelyet API-hívásokhoz használ.<br><br>
 
@@ -368,22 +368,22 @@ Az auth-token elutasításához jelentkezzen be fiókjába a webböngészőben �
 
 A csatlakoztatott felhőfiókokat az alkalmazásban is leválaszthatja, és az auth-token is eltávolításra kerül az eszközéről. Ha eltávolítja az alkalmazást az eszközéről, az összes letöltött adat és hozzáférési token szintén eltávolításra kerül.<br><br>
 
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Hogyan hozzak létre lejátszási listát az Evervideóban?" closed="true" %}}
+{{% ls-details title="Hogyan hozzak létre lejátszási listát az Evervideóban?" closed="true" %}}
 - Nyissa meg a Playlists részt.<br>
 - Koppintson a "+" gombra vagy a "..." gombra a jobb felső sarokban, és válassza a "New Playlist" lehetőséget.<br>
 - Adjon nevet a lejátszási listának és koppintson a "Save" gombra. Megjelenik az "Add Media Files" párbeszédablak.<br>
 - Válassza ki a lejátszási listához hozzáadni kívánt számokat.<br><br>
 
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Milyen felhőszolgáltatásokat támogat az Evervideo?" closed="true" %}}
+{{% ls-details title="Milyen felhőszolgáltatásokat támogat az Evervideo?" closed="true" %}}
 Jelenleg az alkalmazás a legnépszerűbb felhőszolgáltatásokat támogatja: iCloud Drive, Google Drive, Dropbox, OneDrive, Box, MEGA, Yandex.Disk, DLNA, MediaFire, WebDAV, SMB, pCloud, Cloud Mail.ru, Put.io.<br><br>
 
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Hogyan engedélyezzem az offline módot az Evervideóban?" closed="true" %}}
+{{% ls-details title="Hogyan engedélyezzem az offline módot az Evervideóban?" closed="true" %}}
 - Csatlakozzon a felhőtárhelyhez:<br>
  • Lépjen a "Files" fülre.<br>
  • Válassza a "Connect to cloud storage" lehetőséget és kövesse az utasításokat a kívánt szolgáltatás csatlakoztatásához.<br><br>
@@ -408,9 +408,9 @@ Jelenleg az alkalmazás a legnépszerűbb felhőszolgáltatásokat támogatja: i
  • Kézi szinkronizáláshoz lépjen a "Settings" > "File manager" > "Offline folders" > "Synchronized offline folders" menüpontra.<br>
  • Koppintson a "More actions" gombra és válassza a "Start synchronization" lehetőséget.<br><br>
 
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Hogyan játsszam le a helyben letöltött videókat iPhone-on?" closed="true" %}}
+{{% ls-details title="Hogyan játsszam le a helyben letöltött videókat iPhone-on?" closed="true" %}}
 Miután telepítette az alkalmazást, nyissa meg a "Files" képernyőt és görgessen le a "Files on this iPhone" részhez. Válassza az "Open files..." lehetőséget, ha több fájlt szeretne kiválasztani, vagy az "Open folder..." lehetőséget, ha médiamappát szeretne kiválasztani. Az alkalmazás átvizsgálja a mappa tartalmát, és az összes talált médiafájl kiválasztásra kerül. Navigáljon a médiamappájához, koppintson az "Open" gombra a kiválasztás megerősítéséhez, és a fájlok hozzáadódnak a lejátszó sorához. Ezek a fájlok közvetlenül a kiválasztott helyről kerülnek lejátszásra, anélkül hogy az alkalmazáscsomagba másolnák őket.<br><br>
 
 **Mappa hozzáadása a kedvencekhez a gyors hozzáférésért**<br>
@@ -422,13 +422,13 @@ Ha inkább a könyvtárán belül szeretné rendezni helyi fájljait, nyissa meg
 **Helyi fájlok hozzáadása lejátszási listához**<br>
 Helyi fájlok lejátszási listához adásához nyissa meg a "Playlists" képernyőt és koppintson a további gombra a jobb felső sarokban. Válassza a "+ New Playlist" lehetőséget, adjon nevet az új lejátszási listának, és a következő képernyőn válassza a "Files on this device" opciót, majd koppintson az "Open Files..." gombra. Válassza ki a hozzáadni kívánt médiafájlokat és koppintson az "Open" gombra a megerősítéshez. A fájlok hozzáadódnak a lejátszási listájához, ahol a további gomb segítségével átrendezheti a számokat és egyéb műveleteket végezhet.<br><br>
 
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Hogyan folytathatok egy lejátszási listát onnan, ahol abbahagytam?" closed="true" %}}
+{{% ls-details title="Hogyan folytathatok egy lejátszási listát onnan, ahol abbahagytam?" closed="true" %}}
 Először győződjön meg róla, hogy a "Save Media Player State" engedélyezve van a Settings > Media Player > General menüben. Amikor átvált egy másik lejátszási listára és visszatér, négy műveletet fog látni a felső eszköztáron az albumborító alatt: "Search," "Continue Playback," "Play All" és "Shuffle All." Koppintson a "Continue Playback" gombra a lejátszási lista folytatásához az utoljára mentett állapotból és médiapozícióból.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Hogyan vigyem át a videót a számítógépemről az Evervideóba?" closed="true" %}}
+{{% ls-details title="Hogyan vigyem át a videót a számítógépemről az Evervideóba?" closed="true" %}}
 Csatlakoztathatja számítógépét vagy személyes NAS-át SMB, WebDAV vagy DLNA protokollok használatával. Alternatívaként használja az iTunes fájlmegosztást a médiafájlok átviteléhez.<br><br>
 
 Számítógép csatlakoztatásához SMB protokollal koppintson a "Files" "Connect to cloud storage" → SMB elemre. Adja meg a számítógép IP-címét és a megosztott mappa nevét az URL mezőben smb://computer-ip-address/shared-folder-name formátumban, adja meg a bejelentkezési nevet és jelszót, majd koppintson a "Done" gombra. Ha a kapcsolat sikeres, a csatlakoztatott tárhely megjelenik a "Cloud storage" részben.<br><br>
@@ -447,9 +447,9 @@ Az iTunes fájlmegosztás egy másik technológia, amely lehetővé teszi fájlo
 Részletes útmutató itt érhető el:<br>
 [Hogyan játsszam le helyi fájlokat (iTunes fájlokat) iPhone-omon](/docs/howto/how-to-play-local-itunes-files-on-my-iphone)<br><br>
 
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Hogyan töltsek le videót?" closed="true" %}}
+{{% ls-details title="Hogyan töltsek le videót?" closed="true" %}}
 Mielőtt letölthetne videót és offline nézheti, csatlakoztatnia kell egy felhőtárhelyet.<br>
 Egyszerűen nyissa meg a "Files" képernyőt és csatlakoztassa felhőtárhelyét.<br>
 Miután hozzáadta, letöltheti videóját a felhőből.<br><br>
@@ -465,14 +465,14 @@ Miután hozzáadta, letöltheti videóját a felhőből.<br><br>
 – Koppintson az "Offline mode" jelölőnégyzetre<br>
 – Az offline Előadó/Album/Lejátszási lista megjelenik a "Files" -> "Offline folders" részben.<br><br>
 
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Milyen hangformátumokat támogat az Evervideo?" closed="true" %}}
+{{% ls-details title="Milyen hangformátumokat támogat az Evervideo?" closed="true" %}}
 Ez az alkalmazás támogatja az alapértelmezett **rendszer audiokodekeket** és a további **ffmpeg szoftveres kodekeket**:<br><br>
 3g2, 3gp, 3gp2, 3gpp, 8svx, aa, aac, aax, ac3, act, adt, adts, aif, aifc, aiff, alac, amr, amv, ape, asf, au, avi, awb, caf, cavs, cdda, cue, dct, dff, drc, dsf, dss, dvf, "dvr-ms", ec3, f4a, f4b, f4p, f4v, flac, flv, gif, gifv, gsm, gxf, h261, h263, h264, ifv, iklax, ivf, ivs, l16, latm, loas, m2t, m2ts, m2v, m3u, m3u8, m4a, m4b, m4p, m4r, m4v, mka, mkv, mmf, mng, mod, mogg, mov, mp1, mp2, mp3, mp4, mp4v, mpa, mpc, mpe, mpeg, mpg, mpv, msv, mts, mxf, nsf, nsv, nut, oga, ogg, ogv, opus, pcm, pls, qt, ra, raw, rm, rmvb, roq, rv, sln, snd, svi, tod, tta, vob, voc, vox, vtt, w64, wav, wave, webm, wma, wmv, wv, xhe, xmv, y4m, yuv.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Működik az Evervideo NAS eszközökkel?" closed="true" %}}
+{{% ls-details title="Működik az Evervideo NAS eszközökkel?" closed="true" %}}
 
 Igen, az Evervideo támogatja a NAS kapcsolatokat **SMB**, **WebDAV** és **DLNA** protokollok használatával.<br><br>
 
@@ -496,9 +496,9 @@ Ha a kapcsolat sikeres, NAS-a megjelenik a **Cloud storage** részben.<br><br>
 • Megjeleníti az összes felderíthető NAS eszközt a helyi hálózaton.<br>
 • Koppintson az eszköz nevére a csatlakozáshoz, majd adja meg a bejelentkezési adatokat, ha szükséges.<br><br>
 
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Hogyan használjam a Wi-Fi Drive funkciót az Evervideóban?" closed="true" %}}
+{{% ls-details title="Hogyan használjam a Wi-Fi Drive funkciót az Evervideóban?" closed="true" %}}
 
 **Vezeték nélküli átvitel asztali böngészővel**<br>
 1. Indítsa el az alkalmazást: Nyissa meg az Evervideót.<br>
@@ -523,39 +523,39 @@ Megjegyzés: A legjobb teljesítmény érdekében győződjön meg róla, hogy a
 
 [Tudjon meg többet](/docs/howto/how-to-transfer-files-wirelessly-from-a-computer-to-an-iphone-using-wifi-drive)
 
-{{% /details %}}
+{{% /ls-details %}}
 
 </div>
 
 
 <div class="hx:mt-6"></div>
 
-{{< hextra/section-headline >}}
+{{< ls-section-headline >}}
   Felhasználói útmutató
-{{< /hextra/section-headline >}}
+{{< /ls-section-headline >}}
 
 <div class="hx:mt-6"></div>
 
 <div class="hx:w-full">
 
 <div class="hx:w-full hx:mx-auto hx:flex hx:flex-col hx:items-center hx:text-center">
-  {{< hextra/info-paragraph border="false" >}}
+  {{< ls-info-paragraph border="false" >}}
   Ez az útmutató segít a legtöbbet kihozni az Evervideóból iPhone-on, iPaden vagy Mac-en. Tanuld meg, hogyan streamelhetsz videókat felhőtárhelyekről és NAS-ról, hogyan használhatod a Kép a képben módot, hogyan kezelheted a feliratokat, és hogyan állíthatod be az audio- és video-hangszínszabályzókat. Az Evervideo teljes kontrollt ad neked a teljes videógyűjteményed felett – bármilyen forrásból – egyetlen egyszerű alkalmazásban.
-  {{< /hextra/info-paragraph >}}
+  {{< /ls-info-paragraph >}}
 </div>
 
 {{< cards >}}
-  {{< feature-card icon="location-marker" title="Navigáció" subtitle="Tanuld meg, hogyan navigálj az Evervideóban az iPhone fülsorával vagy az iPad és Mac bal oldali menüjével, valamint a kompakt, mindig látható videolejátszóval." link="/docs/guide/evervideo/evervideo-guide-navigation" >}}
+  {{< ls-feature-card icon="location-marker" title="Navigáció" subtitle="Tanuld meg, hogyan navigálj az Evervideóban az iPhone fülsorával vagy az iPad és Mac bal oldali menüjével, valamint a kompakt, mindig látható videolejátszóval." link="/docs/guide/evervideo/evervideo-guide-navigation" >}}
 
-  {{< feature-card icon="folder" title="Fájlok" subtitle="Csatlakoztass felhőfiókokat, NAS megosztásokat, médiakiszolgálókat (Plex, Jellyfin, Emby, Subsonic, Navidrome), RTSP-streameket és helyi fájlokat egyetlen egyesített fülön." link="/docs/guide/evervideo/evervideo-guide-files" >}}
+  {{< ls-feature-card icon="folder" title="Fájlok" subtitle="Csatlakoztass felhőfiókokat, NAS megosztásokat, médiakiszolgálókat (Plex, Jellyfin, Emby, Subsonic, Navidrome), RTSP-streameket és helyi fájlokat egyetlen egyesített fülön." link="/docs/guide/evervideo/evervideo-guide-files" >}}
 
-  {{< feature-card icon="library" title="Médiakönyvtár" subtitle="Rendezd és fedezd fel videóidat és zenédet albumok, műfajok, legutóbbiak és kedvencek szerint – beleértve az iOS Fotók könyvtárát és az Apple Music könyvtárát is." link="/docs/guide/evervideo/evervideo-guide-video-library" >}}
+  {{< ls-feature-card icon="library" title="Médiakönyvtár" subtitle="Rendezd és fedezd fel videóidat és zenédet albumok, műfajok, legutóbbiak és kedvencek szerint – beleértve az iOS Fotók könyvtárát és az Apple Music könyvtárát is." link="/docs/guide/evervideo/evervideo-guide-video-library" >}}
 
-  {{< feature-card icon="collection" title="Lejátszási listák" subtitle="Hozz létre és rendezz lejátszási listákat videókhoz, zenéhez, sorozatokhoz vagy kurzusokhoz, és importálj M3U / M3U8 / CUE fájlokat." link="/docs/guide/evervideo/evervideo-guide-playlists" >}}
+  {{< ls-feature-card icon="collection" title="Lejátszási listák" subtitle="Hozz létre és rendezz lejátszási listákat videókhoz, zenéhez, sorozatokhoz vagy kurzusokhoz, és importálj M3U / M3U8 / CUE fájlokat." link="/docs/guide/evervideo/evervideo-guide-playlists" >}}
 
-  {{< feature-card icon="play" title="Médialejátszó" subtitle="Vezéreld a lejátszást, a sort, a Kép a képben módot, az audio- és videosávokat, az elsődleges és másodlagos feliratokat, valamint az audio- és video-hangszínszabályzókat." link="/docs/guide/evervideo/evervideo-guide-player" >}}
+  {{< ls-feature-card icon="play" title="Médialejátszó" subtitle="Vezéreld a lejátszást, a sort, a Kép a képben módot, az audio- és videosávokat, az elsődleges és másodlagos feliratokat, valamint az audio- és video-hangszínszabályzókat." link="/docs/guide/evervideo/evervideo-guide-player" >}}
 
-  {{< feature-card icon="adjustments" title="Beállítások" subtitle="Szabd személyre az Evervideo megjelenését, dekódolóját, hangszínszabályzóit, feliratait, widgetjeit, nyelvét, jelszavát, biztonsági mentését és teljesítménybeállításait." link="/docs/guide/evervideo/evervideo-guide-settings" >}}
+  {{< ls-feature-card icon="adjustments" title="Beállítások" subtitle="Szabd személyre az Evervideo megjelenését, dekódolóját, hangszínszabályzóit, feliratait, widgetjeit, nyelvét, jelszavát, biztonsági mentését és teljesítménybeállításait." link="/docs/guide/evervideo/evervideo-guide-settings" >}}
 
 {{< /cards >}}
 

@@ -7,12 +7,12 @@ tags: ["Evermusic", "Flacbox", "Visualiserer", "Veiledning", "Milkdrop", "projec
 readingTime: 9
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 **Kort svar:** [Evermusic](/products/evermusic) og [Flacbox](/products/flacbox) har begge en fullskjerms **musikkvisualiserer** som maler bevegelige, fargerike visualer i takt med musikken din. Åpne den fra **Nå spilles**-spilleren (**⋯ Flere handlinger > Visualisering**) eller fra **Innstillinger > Visualisering**, velg deretter en forhåndsinnstilling eller **Auto** og trykk **Start visualisering**. På visualisererskjermen trykker du én gang for å vise eller skjule kontrollene, og bruker **Forrige**- og **Neste**-pilene for å endre utseendet. Den bruker den velkjente **Milkdrop (projectM)**-motoren med **500 forhåndsinnstillinger**, gjengir med **OpenGL** og fungerer på **iPhone, iPad og Mac**. Trinnene er de samme i begge apper. Fulle trinn er nedenfor.
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Musikkvisualiserer: Starfield Sectors-forhåndsinnstilling" image="/docs/howto/how-to-turn-on-a-music-visualizer-while-playing-music-on-iphone-ipad-mac/music-visualizer-starfield-sectors-preset.webp" imageStyle="border-radius: clamp(14px, 2vw, 28px);" >}}
+{{< ls-card title="" subtitle="Musikkvisualiserer: Starfield Sectors-forhåndsinnstilling" image="/docs/howto/how-to-turn-on-a-music-visualizer-while-playing-music-on-iphone-ipad-mac/music-visualizer-starfield-sectors-preset.webp" imageStyle="border-radius: clamp(14px, 2vw, 28px);" >}}
 {{< /cards >}}
 
 ## Hva er visualisereren?
@@ -85,50 +85,50 @@ Uansett reagerer visualene på den eksakte lyden du spiller, enten det er en lok
 
 ## Vanlige spørsmål
 
-{{% details title="Hvordan slår jeg på visualisereren i Evermusic eller Flacbox?" closed="true" %}}
+{{% ls-details title="Hvordan slår jeg på visualisereren i Evermusic eller Flacbox?" closed="true" %}}
 Åpne Nå spilles-spilleren, trykk på ⋯ (Flere handlinger)-knappen, og velg Visualisering. Du kan også åpne den fra Innstillinger > Visualisering. Velg deretter en forhåndsinnstilling (eller Auto) og trykk Start visualisering. Trinnene er de samme i begge apper.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Hva er visualisereren basert på?" closed="true" %}}
+{{% ls-details title="Hva er visualisereren basert på?" closed="true" %}}
 Den bruker den åpne kildekode-motoren projectM, som spiller Milkdrop-stil forhåndsinnstillinger. Dette er de animerte, musikkreaktive visualene mange kjenner fra musikkspillere på skrivebordet. Både Evermusic og Flacbox inkluderer 500 forhåndsinnstillinger og tegner dem med OpenGL.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Hvor mange visualiserer-forhåndsinnstillinger finnes det?" closed="true" %}}
+{{% ls-details title="Hvor mange visualiserer-forhåndsinnstillinger finnes det?" closed="true" %}}
 500 forhåndsinnstillinger. Hver enkelt er en annen animert scene, og du kan bevege deg gjennom dem med Neste- og Forrige-pilene, eller la Auto-modus blande gjennom dem for deg.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Reagerer visualisereren på musikken?" closed="true" %}}
+{{% ls-details title="Reagerer visualisereren på musikken?" closed="true" %}}
 Ja. Visualene reagerer på lyden du spiller i sanntid, så formene, fargene og bevegelsen endres med takten og energien i sporet. Den fungerer med lokale filer, skydisker, medieservere og internettradio.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Hvordan endrer jeg visualiserer-forhåndsinnstillingen?" closed="true" %}}
+{{% ls-details title="Hvordan endrer jeg visualiserer-forhåndsinnstillingen?" closed="true" %}}
 Trykk på skjermen én gang for å vise kontrollene, bruk deretter Forrige- og Neste-pilene nederst for å bevege deg mellom forhåndsinnstillinger. Navnet og telleren øverst (for eksempel 429 / 500) oppdateres etter hvert som du endrer dem. Du kan også starte i Auto-modus for å la appen bytte forhåndsinnstillinger automatisk.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Hva er Auto-modus?" closed="true" %}}
+{{% ls-details title="Hva er Auto-modus?" closed="true" %}}
 Auto-modus, valgt fra forhåndsinnstillingsvelgeren, blander gjennom forhåndsinnstillingene på egen hånd, og bytter til en ny hver 30. sekund med en jevn overgang. Det er den enkleste måten å nyte showet uten å berøre skjermen.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Hvordan skjuler jeg kontrollene på skjermen?" closed="true" %}}
+{{% ls-details title="Hvordan skjuler jeg kontrollene på skjermen?" closed="true" %}}
 Trykk på skjermen én gang for å skjule kontrollene for en ren, fullskjermsvisning, og trykk igjen for å hente dem tilbake. Kontrollene skjuler seg også av seg selv etter noen sekunder.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Fungerer visualisereren på Mac?" closed="true" %}}
+{{% ls-details title="Fungerer visualisereren på Mac?" closed="true" %}}
 Ja. På Mac åpner både Evermusic og Flacbox visualisereren i sitt eget vindu og tegner den med native desktop OpenGL, så du får de samme musikkreaktive Milkdrop-visualene på en stor skjerm.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Fungerer visualisereren på iPhone og iPad?" closed="true" %}}
+{{% ls-details title="Fungerer visualisereren på iPhone og iPad?" closed="true" %}}
 Ja. På iPhone og iPad kjører den i fullskjerm, tegnet med OpenGL ES for jevn animasjon på Retina-skjermer.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Vil skjermen min dimme eller låse mens visualisereren kjører?" closed="true" %}}
+{{% ls-details title="Vil skjermen min dimme eller låse mens visualisereren kjører?" closed="true" %}}
 Nei. Appen holder skjermen våken mens visualisereren er på, så showet vil ikke bli avbrutt av at skjermen dimmer eller låser.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Husker appen den valgte forhåndsinnstillingen min?" closed="true" %}}
+{{% ls-details title="Husker appen den valgte forhåndsinnstillingen min?" closed="true" %}}
 Ja. Den siste forhåndsinnstillingen du valgte blir lagret og uthevet i forhåndsinnstillingsvelgeren, så den er lett å returnere til favoritten din.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Hvor vises navnet på den gjeldende forhåndsinnstillingen?" closed="true" %}}
+{{% ls-details title="Hvor vises navnet på den gjeldende forhåndsinnstillingen?" closed="true" %}}
 Øverst i midten av visualisererskjermen, sammen med en teller som 429 / 500 som viser hvilken forhåndsinnstilling du er på av hele settet. På eksempelskjermbildet er forhåndsinnstillingen Starfield Sectors.
-{{% /details %}}
+{{% /ls-details %}}

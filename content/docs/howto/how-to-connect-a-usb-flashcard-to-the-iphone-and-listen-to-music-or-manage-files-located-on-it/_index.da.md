@@ -7,7 +7,7 @@ tags: ["musik", "filer", "usb", "flash", "ekstern", "ixpand", "afspil", "kort", 
 readingTime: 2
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **Resumé:** Tilslut et USB-flashdrev eller SD-kort til din iPhone ved hjælp af en Apple-adapter eller et SanDisk iXpand-drev, og brug derefter Evermusic, Flacbox eller Evertag til at gennemse, afspille og administrere dine lydfiler direkte fra den eksterne lagring.
@@ -72,18 +72,18 @@ Nyd friheden til at få adgang til og administrere din musik ubesværet med diss
 
 ## Ofte stillede spørgsmål
 
-{{% details title="Hvilke USB-adaptere fungerer med iPhone til musikafspilning?" closed="true" %}}
+{{% ls-details title="Hvilke USB-adaptere fungerer med iPhone til musikafspilning?" closed="true" %}}
 Både Apples Lightning to SD Card Camera Reader og Lightning to USB 3 Camera Adapter fungerer. USB-C-adaptere fungerer på nyere iPhones med USB-C-porte. SanDisk iXpand Flash-drev (V1-V7) understøttes også native af Evermusic, Flacbox og Evertag.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Kan jeg afspille musik direkte fra USB-drevet uden at kopiere filer?" closed="true" %}}
+{{% ls-details title="Kan jeg afspille musik direkte fra USB-drevet uden at kopiere filer?" closed="true" %}}
 Ja. Med SanDisk iXpand-drev kan du afspille musik direkte fra drevet uden at kopiere filer til din iPhone. Når du bruger Apple-adaptere, importeres filer, men du kan vælge, om du vil kopiere dem til lokal lagring.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Hvilke lydformater understøttes fra USB-drev?" closed="true" %}}
+{{% ls-details title="Hvilke lydformater understøttes fra USB-drev?" closed="true" %}}
 Evermusic og Flacbox understøtter en bred vifte af formater, herunder FLAC, MP3, AAC, WAV, ALAC, OGG, WMA og mere. Alle understøttede formater fungerer ved afspilning fra USB-lagring.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Min SanDisk iXpand viser en 'optaget'-fejl. Hvad skal jeg gøre?" closed="true" %}}
+{{% ls-details title="Min SanDisk iXpand viser en 'optaget'-fejl. Hvad skal jeg gøre?" closed="true" %}}
 En anden app kan muligvis tilgå drevet. Luk alle andre apps, der muligvis bruger flashdrevet, eller tag det ud og sæt det i igen. Åbn derefter Evermusic, Flacbox eller Evertag igen.
-{{% /details %}}
+{{% /ls-details %}}

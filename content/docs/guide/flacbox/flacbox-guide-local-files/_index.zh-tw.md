@@ -19,7 +19,7 @@ readingTime: 8
 這個內建檔案管理器允許您編輯檔案（重新命名、移動、複製、上傳、刪除）、監控傳輸，並提供多種方式將音訊檔案匯入應用程式——直接從雲端下載、離線模式同步、USB 隨身碟、Wi-Fi Drive 和 Finder 檔案共享。
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox 本機檔案畫面" image="/docs/guide/flacbox/img/local-files.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox 本機檔案畫面" image="/docs/guide/flacbox/img/local-files.webp" >}}
 {{< /cards >}}
 
 ## 從雲端儲存空間下載檔案
@@ -102,7 +102,7 @@ readingTime: 8
 顯示位於裝置上但在其他應用程式中的檔案。您可以使用系統檔案選取器將它們匯入此應用程式。要啟動選取器，選擇**開啟檔案…**以選擇檔案或**開啟資料夾…**以選擇資料夾。關於如何匯入本機音樂的詳細說明請參閱[此處](/docs/howto/how-to-play-local-music-stored-on-your-iphone-or-mac)。
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox 已連接裝置資料夾" image="/docs/guide/flacbox/img/connected-device-folders.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox 已連接裝置資料夾" image="/docs/guide/flacbox/img/connected-device-folders.webp" >}}
 {{< /cards >}}
 
 您還可以連接裝置上的資料夾並快速存取其內容。使用**連接資料夾**選單項目，選擇裝置上的資料夾。點擊**完成**，應用程式會建立一個指向該資料夾的連結，具有讀/寫存取權限。要斷開裝置上資料夾的連接，點擊**更多操作**按鈕並選擇**斷開連接**。
@@ -137,7 +137,7 @@ readingTime: 8
 - **刪除** — 從裝置中刪除選定的檔案或資料夾。**此操作不可逆。**
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox 本機檔案選擇模式" image="/docs/guide/flacbox/img/local-files-selection-mode.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox 本機檔案選擇模式" image="/docs/guide/flacbox/img/local-files-selection-mode.webp" >}}
 {{< /cards >}}
 
 ## 選項選單
@@ -161,7 +161,7 @@ readingTime: 8
 - **刪除** — 從裝置中刪除檔案或資料夾。**此操作不可逆**，您無法恢復已刪除的檔案。
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox 本機檔案的更多操作" image="/docs/guide/flacbox/img/local-files-more-actions-for-file.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox 本機檔案的更多操作" image="/docs/guide/flacbox/img/local-files-more-actions-for-file.webp" >}}
 {{< /cards >}}
 
 ## 離線資料夾

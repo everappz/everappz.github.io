@@ -12,7 +12,7 @@ authors:
     image: "/images/about/artem-meleshko-founder-everappz.webp"
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 **W skrócie:** [Flacbox 7.6](/products/flacbox) to nasza dotychczas największa aktualizacja odtwarzacza hi-res audio na iPhone'a, iPada i Maca, zbudowana wokół zupełnie nowego **silnika audio BASS™** do słuchania bezstratnego i w wysokiej rozdzielczości. Możesz wybrać silnik BASS™ jako alternatywny rdzeń odtwarzania, aby odblokować pełny łańcuch **efektów audio w czasie rzeczywistym**, **procesor DSP z 14 filtrami**, **pełnoekranowy wizualizator muzyki na żywo** oraz odtwarzanie klasycznej **muzyki trackerowej i MOD** (MOD, XM, IT, S3M, MTM, UMX, MO3). Aktualizacja dodaje także **automatyczne wyrównywanie głośności oparte na percepcji głośności**, **studyjny zestaw jedenastu efektów** (pogłos, delay, echo wielokrotne, chorus, flanger, phaser, auto-wah, distortion, kompresor, rotacja stereo i crossfeed), **odświeżony wygląd efektów i korektora** z nowoczesnymi suwakami w stylu szkła oraz **usprawnienia CarPlay**, w tym ustawienia DSP w samochodzie oraz dokładniejsze sterowanie na ekranie blokady, zegarku i w samochodzie. Pod maską: bardziej niezawodne podstawy strumieniowania, lepsza obsługa typów plików, szersza lokalizacja oraz wiele poprawek stabilności i wydajności.
 
@@ -139,50 +139,50 @@ Dziękujemy za korzystanie z Flacbox. Twoja muzyka teraz świetnie brzmi i świe
 
 ## Najczęściej zadawane pytania
 
-{{% details title="Co nowego w Flacbox 7.6?" closed="true" %}}
+{{% ls-details title="Co nowego w Flacbox 7.6?" closed="true" %}}
 Flacbox 7.6 dodaje nowy profesjonalny **silnik audio BASS™**, który możesz wybrać jako alternatywny rdzeń odtwarzania, **automatyczne wyrównywanie głośności oparte na percepcji głośności**, **studyjny zestaw jedenastu efektów** (pogłos, delay, echo wielokrotne, chorus, flanger, phaser, auto-wah, distortion, kompresor, rotacja stereo i crossfeed), **procesor DSP z 14 filtrami w czasie rzeczywistym**, **pełnoekranowy wizualizator muzyki w czasie rzeczywistym**, natywne odtwarzanie **muzyki trackerowej i MOD** (MOD, XM, IT, S3M, MTM, UMX, MO3), **odświeżony wygląd efektów i korektora** oraz **usprawnienia CarPlay**. Zawiera też bardziej niezawodne podstawy strumieniowania, lepszą obsługę typów plików, szerszą lokalizację oraz wiele poprawek stabilności i wydajności.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Czym jest nowy silnik audio BASS™ w Flacbox?" closed="true" %}}
+{{% ls-details title="Czym jest nowy silnik audio BASS™ w Flacbox?" closed="true" %}}
 Silnik audio [BASS™](https://www.un4seen.com), zbudowany na bibliotece audio BASS™ od un4seen Developments, to profesjonalny rdzeń odtwarzania, który możesz wybrać jako **alternatywę dla istniejącego silnika Flacbox**. Jego wybór odblokowuje pełny łańcuch efektów audio w czasie rzeczywistym, procesor DSP i wizualizację na żywo oraz dodaje odtwarzanie klasycznej muzyki trackerowej i MOD. Odtwarza Twoją istniejącą bibliotekę bezstratną i hi-res (FLAC, DSD, ALAC, APE i inne) z **wysokiej jakości resamplingiem** oraz **precyzyjną kontrolą wysokości i tempa**. W każdej chwili możesz wrócić do klasycznego silnika.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Jakie formaty audio oraz typy trackerowe/MOD odtwarza Flacbox 7.6?" closed="true" %}}
+{{% ls-details title="Jakie formaty audio oraz typy trackerowe/MOD odtwarza Flacbox 7.6?" closed="true" %}}
 Flacbox pozostaje odtwarzaczem hi-res i bezstratnym, obsługując **FLAC, DSD, APE, ALAC, WAV, AIFF, MP3, AAC, Opus** i inne. Nowość w wersji 7.6 — silnik BASS™ odtwarza także klasyczną **muzykę trackerową i modułową**: **MOD, XM, IT, S3M, MTM, UMX i MO3** — formaty oparte na wzorcach i samplach, używane w muzyce chiptune i demoscenowej, których większość odtwarzaczy na iPhone'a nie potrafi otworzyć.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Jak działa automatyczne wyrównywanie głośności w Flacbox?" closed="true" %}}
+{{% ls-details title="Jak działa automatyczne wyrównywanie głośności w Flacbox?" closed="true" %}}
 Flacbox 7.6 wykorzystuje **pomiar głośności EBU R128** (standard ITU-R BS.1770), aby utrzymać utwory z różnych albumów na spójnym, postrzeganym poziomie głośności, dzięki czemu nie musisz regulować głośności między utworami. W przypadku **plików lokalnych Twoja biblioteka jest wstępnie skanowana**, więc odtwarzanie rozpoczyna się już wyrównane — nie ma opóźnienia, gdy aplikacja mierzy głośność po rozpoczęciu utworu. Dostępne są cztery presety — **Łagodny** (−20 LUFS), **Standardowy** (−16 LUFS), **Mocny** (−14 LUFS) i **Nocny** (−23 LUFS) — i działa to w mieszanych bibliotekach, składankach oraz sesjach odtwarzania losowego.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Jakie efekty audio są w Flacbox 7.6?" closed="true" %}}
+{{% ls-details title="Jakie efekty audio są w Flacbox 7.6?" closed="true" %}}
 Jedenaście efektów w czasie rzeczywistym, które możesz zestawiać i dostrajać podczas odtwarzania muzyki: **pogłos, delay, echo wielokrotne, chorus, flanger, phaser, auto-wah, distortion, kompresor, rotacja stereo i crossfeed**. Każdy efekt ma **własny ekran, bibliotekę presetów oraz natychmiastowe przełączanie wł./wył.**, a Flacbox zapamiętuje Twoje ustawienia między sesjami. W szczególności crossfeed sprawia, że nagrania z ostrym panoramowaniem brzmią bardziej naturalnie w słuchawkach.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Czym jest procesor DSP i jakie filtry zawiera?" closed="true" %}}
+{{% ls-details title="Czym jest procesor DSP i jakie filtry zawiera?" closed="true" %}}
 Procesor DSP pozwala **zbudować własny łańcuch sygnałowy w czasie rzeczywistym z 14 filtrów**: gain, filtr dolnoprzepustowy, górnoprzepustowy, pasmowoprzepustowy i zaporowy, korektor typu peaking, korektory low-shelf i high-shelf, saturacja soft-clip, bit crusher, tremolo, delay, modulator kołowy i szerokość stereo. Każdy filtr ma **presety oraz natychmiastowe przełączanie wł./wył.**, więc możesz skorygować akustykę pomieszczenia, okiełznać ostre nagrania lub zaprojektować całkowicie niestandardowe brzmienie.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Czym jest crossfeed i dlaczego warto go używać w słuchawkach?" closed="true" %}}
+{{% ls-details title="Czym jest crossfeed i dlaczego warto go używać w słuchawkach?" closed="true" %}}
 Crossfeed miesza niewielką, przefiltrowaną porcję każdego kanału stereo z drugim, w sposób, w jaki Twoje uszy naturalnie słyszą prawdziwe głośniki w pomieszczeniu. W słuchawkach zmniejsza to przesadną separację „w głowie” nagrań z ostrym panoramowaniem i sprawia, że długie słuchanie jest wygodniejsze. Jest szczególnie skuteczny przy starszych miksach stereo z lat 60. i 70.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Czy wizualizator muzyki Flacbox działa na wszystkich urządzeniach?" closed="true" %}}
+{{% ls-details title="Czy wizualizator muzyki Flacbox działa na wszystkich urządzeniach?" closed="true" %}}
 Tak. **Wizualizator muzyki w czasie rzeczywistym** pokazuje pełnoekranowe animowane wizualizacje, które reagują na żywo na Twoją muzykę, z dużą biblioteką presetów, które możesz wybierać lub pozwolić im automatycznie się zmieniać. Jest **dostępny we wszystkich silnikach odtwarzania na wszystkich Twoich urządzeniach**, a wbudowana **blokada wygaszania ekranu** utrzymuje wyświetlacz aktywny, aby wizualizacje nie przerywały się podczas utworu.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Czy mogę zmienić wysokość i tempo bez wpływu na drugą wartość?" closed="true" %}}
+{{% ls-details title="Czy mogę zmienić wysokość i tempo bez wpływu na drugą wartość?" closed="true" %}}
 Tak. Gdy korzystasz z nowego silnika BASS™, Flacbox 7.6 oferuje **precyzyjną, niezależną kontrolę wysokości i tempa** — zmień prędkość utworu bez zmiany jego tonacji lub przesuń tonację bez zmiany prędkości. Jest to przydatne do ćwiczeń, transkrypcji i słuchania w stylu DJ-skim.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Co poprawiono w CarPlay w Flacbox 7.6?" closed="true" %}}
+{{% ls-details title="Co poprawiono w CarPlay w Flacbox 7.6?" closed="true" %}}
 CarPlay zawiera teraz **ustawienia DSP**, dzięki czemu możesz sięgnąć po swoją konfigurację z samochodu, **naprawione wyświetlanie okładek albumów i ekranu Teraz odtwarzane** oraz **dokładniejsze sterowanie na ekranie blokady, Apple Watch i w samochodzie**, które pozostaje zsynchronizowane z odtwarzaniem. W połączeniu z bardziej niezawodnymi podstawami strumieniowania słuchanie Twojej biblioteki bezstratnej w podróży jest płynniejsze.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Czy efekty, DSP i korektor działają z odtwarzaniem strumieniowym z chmury?" closed="true" %}}
+{{% ls-details title="Czy efekty, DSP i korektor działają z odtwarzaniem strumieniowym z chmury?" closed="true" %}}
 Tak. Efekty, filtry DSP, korektor i wyrównywanie głośności działają w czasie rzeczywistym wewnątrz silnika odtwarzania BASS™, więc obejmują wszystko, co odtwarza Flacbox — **pliki lokalne, dyski w chmurze (iCloud Drive, Google Drive, Dropbox, OneDrive i inne), serwery multimediów oraz udziały sieciowe** — bez ponownego kodowania Twoich plików.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Czy Flacbox 7.6 to darmowa aktualizacja i jakie urządzenia obsługuje?" closed="true" %}}
+{{% ls-details title="Czy Flacbox 7.6 to darmowa aktualizacja i jakie urządzenia obsługuje?" closed="true" %}}
 Tak. Flacbox można **pobrać za darmo** z App Store, a wersja 7.6 to **darmowa aktualizacja** dla obecnych użytkowników, z opcjonalnymi ulepszeniami w aplikacji dla funkcji zaawansowanych. Działa na **iPhone, iPad i Mac**. CarPlay wymaga pojazdu lub jednostki głównej kompatybilnej z CarPlay.
-{{% /details %}}
+{{% /ls-details %}}

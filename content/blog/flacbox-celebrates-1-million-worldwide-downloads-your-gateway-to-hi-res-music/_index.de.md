@@ -12,7 +12,7 @@ authors:
     image: "/images/about/artem-meleshko-founder-everappz.webp"
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 **Zusammenfassung:** Flacbox hat weltweit 1 Million Downloads überschritten. Es unterstützt FLAC, ALAC, APE, DSD und andere verlustfreie Formate mit einem 10-Band-Equalizer, M3U/CUE-Playlists, Offline-Wiedergabe und geräteübergreifender Synchronisation auf iPhone, iPad und Mac.
 
@@ -78,26 +78,26 @@ Die kommende Entwicklung konzentriert sich auf:
 
 ## Häufig gestellte Fragen
 
-{{% details title="Welche Audioformate unterstützt Flacbox?" closed="true" %}}
+{{% ls-details title="Welche Audioformate unterstützt Flacbox?" closed="true" %}}
 Flacbox spielt FLAC, ALAC, APE, DSD, WavPack, TTA, RealAudio, MP3, AAC, OGG und viele andere Formate. Es ist hauptsächlich für verlustfreies und Hi-Res-Audio konzipiert.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Hat Flacbox einen Equalizer?" closed="true" %}}
+{{% ls-details title="Hat Flacbox einen Equalizer?" closed="true" %}}
 Ja. Flacbox enthält einen 10-Band-Equalizer mit Genre-Voreinstellungen und manueller Frequenzanpassung.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Kann ich mit Flacbox Musik offline hören?" closed="true" %}}
+{{% ls-details title="Kann ich mit Flacbox Musik offline hören?" closed="true" %}}
 Ja. Laden Sie Dateien aus dem Cloud-Speicher herunter oder übertragen Sie sie direkt in die App für die Offline-Wiedergabe ohne Internetverbindung.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Funktioniert Flacbox auf dem Mac?" closed="true" %}}
+{{% ls-details title="Funktioniert Flacbox auf dem Mac?" closed="true" %}}
 Ja. Flacbox läuft auf iPhone, iPad und Mac mit synchronisierten Bibliotheken und Wiedergabehistorie auf allen Geräten.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Was ist CUE-Sheet-Unterstützung?" closed="true" %}}
+{{% ls-details title="Was ist CUE-Sheet-Unterstützung?" closed="true" %}}
 CUE-Sheets definieren Titelgrenzen innerhalb einer einzelnen Audiodatei. Flacbox liest CUE-Dateien, um Album-Aufnahmen in einzelne Titel mit korrekten Metadaten aufzuteilen.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Ist Flacbox kostenlos?" closed="true" %}}
+{{% ls-details title="Ist Flacbox kostenlos?" closed="true" %}}
 Flacbox ist kostenlos zum Herunterladen mit optionalen Premium-Funktionen, die über In-App-Käufe verfügbar sind.
-{{% /details %}}
+{{% /ls-details %}}

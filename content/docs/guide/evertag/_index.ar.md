@@ -55,17 +55,17 @@ Evertag هو أفضل محرر علامات موسيقى لمستخدمي iPhone
 في هذا الدليل، ستكتشف كيفية تسخير قوة Evertag على iPhone وiPad وMac، مما يجعل تجربة إدارة الموسيقى سلسة وممتعة.
 
 {{< cards >}}
-  {{< card icon="location-marker" title="التنقل" subtitle="تعلّم كيفية التنقل بسهولة في تطبيقنا باستخدام شريط التبويب (لمستخدمي iPhone) أو القائمة اليسرى (لمستخدمي iPad وMac) للوصول إلى جميع ميزات التطبيق واستكشافها." link="/docs/guide/evertag/evertag-guide-navigation" >}}
+  {{< ls-card icon="location-marker" title="التنقل" subtitle="تعلّم كيفية التنقل بسهولة في تطبيقنا باستخدام شريط التبويب (لمستخدمي iPhone) أو القائمة اليسرى (لمستخدمي iPad وMac) للوصول إلى جميع ميزات التطبيق واستكشافها." link="/docs/guide/evertag/evertag-guide-navigation" >}}
 
-  {{< card icon="cloud" title="الاتصالات" subtitle="قم بربط جميع حسابات السحابة المتاحة بملفاتك الصوتية الثمينة بسهولة. يمكنك حتى تعديل ملفاتك الإلكترونية بسهولة باستخدام مدير الملفات المدمج." link="/docs/guide/evertag/evertag-guide-connections" >}}
+  {{< ls-card icon="cloud" title="الاتصالات" subtitle="قم بربط جميع حسابات السحابة المتاحة بملفاتك الصوتية الثمينة بسهولة. يمكنك حتى تعديل ملفاتك الإلكترونية بسهولة باستخدام مدير الملفات المدمج." link="/docs/guide/evertag/evertag-guide-connections" >}}
 
-  {{< card icon="folder" title="الملفات المحلية" subtitle="عرض وتنظيم الملفات المخزنة في مجلد المستندات الخاص بالتطبيق أو على جهازك. استخدم مدير الملفات المدمج لتعديل ملفات الصوت وإدارتها بسهولة." link="/docs/guide/evertag/evertag-guide-local-files" >}}
+  {{< ls-card icon="folder" title="الملفات المحلية" subtitle="عرض وتنظيم الملفات المخزنة في مجلد المستندات الخاص بالتطبيق أو على جهازك. استخدم مدير الملفات المدمج لتعديل ملفات الصوت وإدارتها بسهولة." link="/docs/guide/evertag/evertag-guide-local-files" >}}
 
-  {{< card icon="pencil-alt" title="محرر العلامات" subtitle="أتقن فن التعامل مع بيانات وصفية ملفات الصوت. اكتشف كيفية تعديل البيانات الوصفية وتحويل أغلفة الألبومات وإدارة ملفات متعددة في وقت واحد." link="/docs/guide/evertag/evertag-guide-tag-editor" >}}
+  {{< ls-card icon="pencil-alt" title="محرر العلامات" subtitle="أتقن فن التعامل مع بيانات وصفية ملفات الصوت. اكتشف كيفية تعديل البيانات الوصفية وتحويل أغلفة الألبومات وإدارة ملفات متعددة في وقت واحد." link="/docs/guide/evertag/evertag-guide-tag-editor" >}}
 
-  {{< card icon="code" title="تعيينات حقول العلامات" subtitle="استكشف القائمة الكاملة لحقول علامات الصوت المدعومة من تطبيق Evertag، بما في ذلك أسماء الحقول الداخلية والتعيينات عبر تنسيقات البيانات الوصفية الرئيسية." link="/docs/guide/evertag/evertag-tag-field-mappings" >}}
+  {{< ls-card icon="code" title="تعيينات حقول العلامات" subtitle="استكشف القائمة الكاملة لحقول علامات الصوت المدعومة من تطبيق Evertag، بما في ذلك أسماء الحقول الداخلية والتعيينات عبر تنسيقات البيانات الوصفية الرئيسية." link="/docs/guide/evertag/evertag-tag-field-mappings" >}}
 
-  {{< card icon="adjustments" title="الإعدادات" subtitle="اكتشف كيفية تخصيص تجربة التطبيق وضبط الأداء وإدارة استخدام البيانات وتكييف اللغة وتفضيلات واجهة المستخدم حسب ذوقك." link="/docs/guide/evertag/evertag-guide-settings" >}}
+  {{< ls-card icon="adjustments" title="الإعدادات" subtitle="اكتشف كيفية تخصيص تجربة التطبيق وضبط الأداء وإدارة استخدام البيانات وتكييف اللغة وتفضيلات واجهة المستخدم حسب ذوقك." link="/docs/guide/evertag/evertag-guide-settings" >}}
 
-  {{< card icon="question-mark-circle" title="الأسئلة الشائعة" subtitle="اعثر على إجابات سريعة للأسئلة الشائعة في قسم الأسئلة الشائعة." link="/docs/faq/evertag" >}}
+  {{< ls-card icon="question-mark-circle" title="الأسئلة الشائعة" subtitle="اعثر على إجابات سريعة للأسئلة الشائعة في قسم الأسئلة الشائعة." link="/docs/faq/evertag" >}}
 {{< /cards >}}

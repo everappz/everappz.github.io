@@ -12,7 +12,7 @@ authors:
     image: "/images/about/artem-meleshko-founder-everappz.webp"
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 ![](/blog/evermusic-sync-your-music-library-save-playback-position-correct-music-tags/21260c_641f376e779e47d4927b43c210d3c87f~mv2.jpeg)
 
@@ -67,22 +67,22 @@ Evermusic ऑनलाइन डेटाबेस का उपयोग कर
 
 ## अक्सर पूछे जाने वाले प्रश्न
 
-{{% details title="क्या Evermusic का ऑटो-सिंक सभी क्लाउड सेवाओं के साथ काम करता है?" closed="true" %}}
+{{% ls-details title="क्या Evermusic का ऑटो-सिंक सभी क्लाउड सेवाओं के साथ काम करता है?" closed="true" %}}
 हां। ऑटोमैटिक सिंक Dropbox, Google Drive, OneDrive, MEGA, WebDAV और SMB के साथ काम करता है। जिन फोल्डर्स की आप निगरानी चाहते हैं उन्हें चुनें और Evermusic आपकी लाइब्रेरी को अपडेट रखता है।
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="क्या Evermusic मेरी ऑडियोबुक पोजीशन सेव कर सकता है?" closed="true" %}}
+{{% ls-details title="क्या Evermusic मेरी ऑडियोबुक पोजीशन सेव कर सकता है?" closed="true" %}}
 हां। ऑडियो सेटिंग्स में प्लेबैक पोजीशन सेविंग सक्षम करें। Evermusic हर फाइल के लिए याद रखता है कि आपने कहां रोका था, ताकि आप मैनुअल बुकमार्क के बिना फिर से शुरू कर सकें।
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="बैकग्राउंड मेटाडेटा रीडिंग कैसे काम करती है?" closed="true" %}}
+{{% ls-details title="बैकग्राउंड मेटाडेटा रीडिंग कैसे काम करती है?" closed="true" %}}
 Evermusic बैकग्राउंड में ID3 टैग और फाइल मेटाडेटा पढ़ता है जबकि आप अन्य सुविधाओं का उपयोग करते हैं। यह आपकी लाइब्रेरी को कलाकार, एल्बम और शैली के अनुसार ऑटोमैटिकली व्यवस्थित करता है।
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="क्या Evermusic मेरे खराब म्यूजिक टैग ठीक करेगा?" closed="true" %}}
+{{% ls-details title="क्या Evermusic मेरे खराब म्यूजिक टैग ठीक करेगा?" closed="true" %}}
 हां। ऑटोमैटिक टैग करेक्शन फीचर आपकी फाइलों को ऑनलाइन डेटाबेस से मिलान करता है और अमान्य, अधूरे या गायब ID3 मेटाडेटा को ठीक करता है।
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="क्या Evermusic मुफ्त में डाउनलोड करने के लिए उपलब्ध है?" closed="true" %}}
+{{% ls-details title="क्या Evermusic मुफ्त में डाउनलोड करने के लिए उपलब्ध है?" closed="true" %}}
 Evermusic इन-ऐप खरीदारी के माध्यम से उपलब्ध वैकल्पिक प्रीमियम सुविधाओं के साथ मुफ्त डाउनलोड के लिए उपलब्ध है।
-{{% /details %}}
+{{% /ls-details %}}

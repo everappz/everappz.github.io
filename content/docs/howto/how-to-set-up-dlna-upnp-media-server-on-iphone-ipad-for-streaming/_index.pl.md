@@ -7,7 +7,7 @@ keywords: ["serwer DLNA iPhone", "serwer UPnP iPad", "jak skonfigurowac DLNA na 
 readingTime: 9
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 DLNA (nazywany też UPnP AV) to cichy koń roboczy większości smart TV. To wspólny język, który pozwala telewizorowi lub odtwarzaczowi multimediów znaleźć bibliotekę multimediów w tej samej sieci Wi-Fi i odtwarzać z niej, bez niczego do zainstalowania na telewizorze. Jeśli Twój iPhone lub iPad może pełnić rolę tej biblioteki, Twoje zdjęcia, filmy i muzyka pojawią się na dużym ekranie same.
 
@@ -127,44 +127,44 @@ DLNA przekazuje plik telewizorowi w takiej postaci, w jakiej jest, a telewizor m
 
 ## Najczęściej zadawane pytania
 
-{{% details title="Jaka jest różnica między DLNA a UPnP?" closed="true" %}}
+{{% ls-details title="Jaka jest różnica między DLNA a UPnP?" closed="true" %}}
 Są ściśle powiązane. UPnP to podstawowy standard sieciowy, a DLNA to zbudowany na nim profil multimedialny, którego telewizory i odtwarzacze używają do udostępniania i odtwarzania zdjęć, filmów i muzyki. W codziennym użyciu te słowa są zamienne. Gdy włączysz Telewizor i centrum multimedialne w Everdisk, Twoje urządzenie staje się serwerem multimediów DLNA/UPnP, który może przeglądać dowolny klient DLNA.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Czy muszę coś instalować na telewizorze?" closed="true" %}}
+{{% ls-details title="Czy muszę coś instalować na telewizorze?" closed="true" %}}
 Nie. Jeśli Twój telewizor obsługuje DLNA, ma już odtwarzacz multimediów, który potrafi znaleźć Twoje urządzenie w sieci Wi-Fi. Instalujesz Everdisk tylko na iPhone lub iPad, który przechowuje zawartość. Jeśli Twój telewizor nie obsługuje DLNA, zainstaluj odtwarzacz taki jak VLC lub Kodi na podłączonym do niego urządzeniu.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Dlaczego mój iPhone nie pojawia się na telewizorze?" closed="true" %}}
+{{% ls-details title="Dlaczego mój iPhone nie pojawia się na telewizorze?" closed="true" %}}
 Sprawdź, czy oba urządzenia są w tej samej sieci Wi-Fi. Sieci gościnne oraz niektóre sieci biurowe lub hotelowe blokują widoczność urządzeń między sobą, co zatrzymuje DLNA. Następnie potwierdź, że Everdisk jest otwarty z uruchomionym udostępnianiem oraz że Telewizor i centrum multimedialne jest włączone w Ustawienia, Udostępnianie, Połączenia. Jeśli telewizor nadal go nie znajduje, dodaj serwer ręcznie, używając adresu opisu urządzenia kończącego się na /device-desc.xml.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Czy strumieniowanie DLNA wymaga hasła?" closed="true" %}}
+{{% ls-details title="Czy strumieniowanie DLNA wymaga hasła?" closed="true" %}}
 Nie. DLNA jest zawsze otwarte dla każdego w tej samej sieci Wi-Fi, gdy jest włączone, dlatego po stronie telewizora nie ma logowania. To w porządku w domowej sieci, której ufasz. W sieci, której nie ufasz, wyłącz Telewizor i centrum multimedialne po zakończeniu albo użyj zamiast tego serwera SMB z szyfrowaniem.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Czy mogę strumieniować na Chromecast lub Roku?" closed="true" %}}
+{{% ls-details title="Czy mogę strumieniować na Chromecast lub Roku?" closed="true" %}}
 Chromecast i Roku nie działają jako odtwarzacze DLNA od razu po uruchomieniu, więc nie znajdą Twojego urządzenia bezpośrednio. Obejściem jest zainstalowanie aplikacji DLNA, która potrafi przesyłać obraz (cast), takiej jak VLC lub BubbleUPnP na telefonie, i przekazanie z niej odtwarzania na Chromecast lub Roku. Na większości innych smart TV DLNA działa bez tego wszystkiego.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Film odtwarza się bez dźwięku lub nie chce się otworzyć. Co mogę zrobić?" closed="true" %}}
+{{% ls-details title="Film odtwarza się bez dźwięku lub nie chce się otworzyć. Co mogę zrobić?" closed="true" %}}
 To format, którego telewizor nie potrafi zdekodować. Otwórz Ustawienia, Udostępnianie, Filmy w Everdisk i obniż Jakość, aby aplikacja konwertowała film do bardziej zgodnego formatu podczas strumieniowania. Możesz też otworzyć ten sam plik przez link przeglądarki, która obsługuje więcej formatów.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Czy mogę strumieniować muzykę, a nie tylko wideo?" closed="true" %}}
+{{% ls-details title="Czy mogę strumieniować muzykę, a nie tylko wideo?" closed="true" %}}
 Tak. Włącz Zezwól na dostęp do całej biblioteki muzyki albo dodaj konkretne utwory, a następnie rozpocznij udostępnianie. Twoje utwory pojawią się na dowolnym głośniku DLNA, amplitunerze AV lub telewizorze, z okładkami i szczegółami utworu. Muzyka jest zawsze udostępniana w oryginalnej jakości.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Czy aplikacja musi być otwarta, gdy oglądam?" closed="true" %}}
+{{% ls-details title="Czy aplikacja musi być otwarta, gdy oglądam?" closed="true" %}}
 Tak. Twój iPhone działa jako serwer, a iOS wstrzymuje aplikacje wypchnięte całkowicie w tło na dłuższy czas. Trzymaj Everdisk na ekranie podczas strumieniowania i podłączaj do zasilania na długie sesje.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Jak strumieniować z jednego iPhone na inny iPad?" closed="true" %}}
+{{% ls-details title="Jak strumieniować z jednego iPhone na inny iPad?" closed="true" %}}
 Rozpocznij udostępnianie na iPhone, następnie otwórz Everdisk na iPadzie i przejdź na kartę Urządzenia. iPhone pojawi się w sekcji Dostępne urządzenia jako serwer multimediów. Dotknij go, aby przeglądać i odtwarzać. Everdisk działa jako klient i serwer DLNA, więc nie potrzebujesz innej aplikacji.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Czy Everdisk jest bezpłatny?" closed="true" %}}
+{{% ls-details title="Czy Everdisk jest bezpłatny?" closed="true" %}}
 Tak, Everdisk można pobrać bezpłatnie, a serwer multimediów DLNA jest w zestawie. Opcjonalny jednorazowy zakup Premium Lifetime dodaje dodatki, takie jak konwersja zdjęć i wideo dla starszych telewizorów, własne porty i więcej. Możesz skonfigurować i używać strumieniowania DLNA bez płacenia.
-{{% /details %}}
+{{% /ls-details %}}
 
 Chcesz spróbować? [Pobierz Everdisk z App Store](https://apps.apple.com/app/apple-store/id6751851132?pt=95781850&ct=everappzcom&mt=8) i wystrumieniuj swój pierwszy album na telewizor w kilka minut. Pytania lub opinie? Napisz do nas na **support@everappz.com**.

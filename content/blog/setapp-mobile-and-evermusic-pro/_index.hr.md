@@ -12,7 +12,7 @@ authors:
     image: "/images/about/artem-meleshko-founder-everappz.webp"
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 ![](/blog/setapp-mobile-and-evermusic-pro/21260c_766c4fbc81e6433cb8fc21b9c2862ce0~mv2.png)
 
@@ -70,27 +70,27 @@ Bilo da upravljate velikom FLAC knjižnicom ili trebate jednostavnu aplikaciju z
 Spremni za isprobati? Nabavite Evermusic Pro putem Setapp Mobile i počnite streamati svoju cloud glazbenu knjižnicu danas.
 
 {{< cards cols="1" >}}
-  {{< card link="https://go.setapp.com/stp435?_target=https://www.setapp.com/setapp-mobile&stc=mobile" title="Preuzmite Evermusic Pro sa Setapp Mobile" icon="download" >}}
+  {{< ls-card link="https://go.setapp.com/stp435?_target=https://www.setapp.com/setapp-mobile&stc=mobile" title="Preuzmite Evermusic Pro sa Setapp Mobile" icon="download" >}}
 {{< /cards >}}
 
 ## Često postavljana pitanja
 
-{{% details title="Je li Evermusic Pro besplatan sa Setapp Mobile?" closed="true" %}}
+{{% ls-details title="Je li Evermusic Pro besplatan sa Setapp Mobile?" closed="true" %}}
 Da. Evermusic Pro je uključen u pretplatu Setapp Mobile bez dodatnih troškova. Dobivate punu premium verziju sa svim otključanim značajkama.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Koje cloud usluge Evermusic Pro podržava?" closed="true" %}}
+{{% ls-details title="Koje cloud usluge Evermusic Pro podržava?" closed="true" %}}
 Evermusic Pro se povezuje s Google Drive, Dropbox, OneDrive, iCloud, Box, MEGA, Yandex.Disk, pCloud, HiDrive i WebDAV poslužiteljima. Također podržava SMB dijeljenja datoteka i NAS uređaje.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Mogu li slušati offline s Evermusic Pro?" closed="true" %}}
+{{% ls-details title="Mogu li slušati offline s Evermusic Pro?" closed="true" %}}
 Da. Možete preuzeti pojedinačne pjesme, albume, izvođače ili cijele liste za reprodukciju za offline reprodukciju izravno unutar aplikacije.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Koje audio formate Evermusic Pro reproducira?" closed="true" %}}
+{{% ls-details title="Koje audio formate Evermusic Pro reproducira?" closed="true" %}}
 Evermusic Pro podržava FLAC, MP3, AAC, WAV, ALAC, AIFF, OPUS, OGG i mnoge druge formate. Podržava i lossless i lossy audio datoteke.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Trebam li zasebnu Setapp pretplatu za iPhone?" closed="true" %}}
+{{% ls-details title="Trebam li zasebnu Setapp pretplatu za iPhone?" closed="true" %}}
 Setapp Mobile je dostupan kao dio plana pretplate na Setapp koji uključuje iOS aplikacije. Provjerite web stranicu Setapp za trenutne cijene i opcije planova.
-{{% /details %}}
+{{% /ls-details %}}

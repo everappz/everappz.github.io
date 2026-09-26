@@ -12,7 +12,7 @@ authors:
     image: "/images/about/artem-meleshko-founder-everappz.webp"
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 **Περίληψη:** Το Evermusic 3.6 προσθέτει ενσωμάτωση Apple CarPlay, πλήρη προσβασιμότητα VoiceOver, μικτή έξοδο ήχου, αυτόματη συνέχιση αναπαραγωγής, επεξεργασία εξωφύλλων και ετικετών για FLAC/MP3/AIFF και εισαγωγή αρχείων από το iCloud Drive.
 
@@ -78,18 +78,18 @@ authors:
 
 ## Συχνές ερωτήσεις
 
-{{% details title="Λειτουργεί το Evermusic με το CarPlay;" closed="true" %}}
+{{% ls-details title="Λειτουργεί το Evermusic με το CarPlay;" closed="true" %}}
 Ναι. Από την έκδοση 3.6, το Evermusic υποστηρίζει πλήρως το Apple CarPlay. Μπορείτε να περιηγηθείτε και να αναπαράγετε τη μουσική βιβλιοθήκη σας από την ενσωματωμένη οθόνη του αυτοκινήτου σας.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Είναι το Evermusic προσβάσιμο για τυφλούς ή χρήστες με μειωμένη όραση;" closed="true" %}}
+{{% ls-details title="Είναι το Evermusic προσβάσιμο για τυφλούς ή χρήστες με μειωμένη όραση;" closed="true" %}}
 Ναι. Το Evermusic 3.6 περιλαμβάνει πλήρη υποστήριξη VoiceOver με περιγραφικές ετικέτες, υποδείξεις και λειτουργία απλοποιημένης διεπαφής.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Μπορώ να επεξεργαστώ ετικέτες FLAC στο iPhone με το Evermusic;" closed="true" %}}
+{{% ls-details title="Μπορώ να επεξεργαστώ ετικέτες FLAC στο iPhone με το Evermusic;" closed="true" %}}
 Ναι. Το Evermusic περιλαμβάνει ενσωματωμένο επεξεργαστή ετικετών που λειτουργεί με αρχεία FLAC, MP3 και AIFF. Μπορείτε να επεξεργαστείτε τίτλους, καλλιτέχνες, άλμπουμ και εξώφυλλα.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Θυμάται το Evermusic πού σταμάτησα να ακούω;" closed="true" %}}
+{{% ls-details title="Θυμάται το Evermusic πού σταμάτησα να ακούω;" closed="true" %}}
 Ναι. Όταν η επιλογή «Αποθήκευση κατάστασης αναπαραγωγέα ήχου» είναι ενεργοποιημένη, το Evermusic αποκαθιστά την ουρά, το τρέχον κομμάτι και την ακριβή θέση αναπαραγωγής σας όταν ανοίξετε ξανά την εφαρμογή.
-{{% /details %}}
+{{% /ls-details %}}

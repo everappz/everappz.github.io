@@ -31,7 +31,7 @@ Do playera na cijelom zaslonu možete doći s kompaktne trake playera. Na iPhone
 Kompaktni player ostaje vidljiv dok pregledavate svoju biblioteku, upravitelj datoteka ili postavke, tako da nikada ne gubite video dok tražite sljedeći.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evervideo medijski player na cijelom zaslonu" image="/docs/guide/evervideo/img/evervideo-media-player-fullscreen.webp" >}}
+  {{< ls-card title="" subtitle="Evervideo medijski player na cijelom zaslonu" image="/docs/guide/evervideo/img/evervideo-media-player-fullscreen.webp" >}}
 {{< /cards >}}
 
 ## Podržani video i audio formati
@@ -72,7 +72,7 @@ PiP radi sa svakim video formatom koji Evervideo reproducira, uključujući dato
 Kompaktni player je stalni mini player koji ostaje vidljiv na vrhu svakog zaslona u aplikaciji dok pregledavate biblioteku, upravitelj datoteka ili postavke. Dodirnite ga za proširenje u player na cijelom zaslonu; povucite prema dolje da ga skupite opet.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Postavke videa Evervideo iz prikaza kompaktnog playera na glavnom zaslonu" image="/docs/guide/evervideo/img/evervideo-video-settings-from-compact-player-view-on-the-main-screen.webp" >}}
+  {{< ls-card title="" subtitle="Postavke videa Evervideo iz prikaza kompaktnog playera na glavnom zaslonu" image="/docs/guide/evervideo/img/evervideo-video-settings-from-compact-player-view-on-the-main-screen.webp" >}}
 {{< /cards >}}
 
 ## AirPlay 2
@@ -115,7 +115,7 @@ Evervideo uključuje potpuni audio ekvalizator za ugađanje video zvučnih zapis
 Za ugađanje slike, Evervideo pruža namjenski video ekvalizator — podesite svjetlinu, kontrast, zasićenost i nijansu u stvarnom vremenu tijekom reprodukcije. Kao i audio ekvalizator, prilagođene video predodređene postavke mogu se izvesti i uvesti za dijeljenje ili sigurnosno kopiranje. Koristite ga za osvjetljavanje tamne scene na sunčan dan, povećanje zasićenosti na izblijedjelom sadržaju ili zagrijavanje hladnog kolor baca.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evervideo video ekvalizator" image="/docs/guide/evervideo/img/evervideo-video-equalizer.webp" >}}
+  {{< ls-card title="" subtitle="Evervideo video ekvalizator" image="/docs/guide/evervideo/img/evervideo-video-equalizer.webp" >}}
 {{< /cards >}}
 
 ## Način skaliranja videa
@@ -144,7 +144,7 @@ Evervideo uključuje VR / 360° viewport za sferne video datoteke. Pri reproduci
 Dodirnite kontrolu brzine na alatnoj traci playera za promjenu brzine reprodukcije — usporite za analizu (0.25× ili 0.5×) ili ubrzajte za vodiče i predavanja (1.25×, 1.5×, 2× i do 3×). Dodirnite ikonu konfiguracije u gornjem desnom kutu zaslona brzine za prebacivanje na precizni način s finijim podešavanjima. Dostupna je i korekcija visine tona po stazi.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Brzina reprodukcije Evervideo na glavnoj alatnoj traci" image="/docs/guide/evervideo/img/evervideo-media-player-playback-speed-on-main-toolbar.webp" >}}
+  {{< ls-card title="" subtitle="Brzina reprodukcije Evervideo na glavnoj alatnoj traci" image="/docs/guide/evervideo/img/evervideo-media-player-playback-speed-on-main-toolbar.webp" >}}
 {{< /cards >}}
 
 ## Red playera
@@ -152,7 +152,7 @@ Dodirnite kontrolu brzine na alatnoj traci playera za promjenu brzine reprodukci
 Za prikaz reda playera, dodirnite gumb reda na playeru. Svaki videozapis u redu ima više radnji — dodirnite tri točkice za prikaz. Za preuređivanje videozapisa u redu, koristite indikator za preuređivanje pored naslova i povucite ga na novu poziciju.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Red reprodukcije Evervideo" image="/docs/guide/evervideo/img/evervideo-playback-queue.webp" >}}
+  {{< ls-card title="" subtitle="Red reprodukcije Evervideo" image="/docs/guide/evervideo/img/evervideo-playback-queue.webp" >}}
 {{< /cards >}}
 
 ## Tajmer za spavanje
@@ -189,7 +189,7 @@ Dodirnite gumb **Više radnji "..."** na playeru za pristup dodatnim funkcijama.
 - **Pomoć** — otvorite smjernice.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Zaslon Više radnji playera Evervideo" image="/docs/guide/evervideo/img/evervideo-media-player-more-actions.webp" >}}
+  {{< ls-card title="" subtitle="Zaslon Više radnji playera Evervideo" image="/docs/guide/evervideo/img/evervideo-media-player-more-actions.webp" >}}
 {{< /cards >}}
 
 ## Postavke playera

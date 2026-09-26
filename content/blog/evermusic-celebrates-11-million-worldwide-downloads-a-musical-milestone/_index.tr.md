@@ -12,7 +12,7 @@ authors:
     image: "/images/about/artem-meleshko-founder-everappz.webp"
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 **TL;DR:** Evermusic dünya çapında 11 milyon indirmeyi geçti. Temel özellikler arasında 10 bantlı ekolayzır, çevrimdışı oynatma, iCloud Drive akışı, 10'dan fazla bulut hizmet desteği, cihazlar arası senkronizasyon ve dahili ID3 etiket düzenleyici bulunur.
 
@@ -70,22 +70,22 @@ Evermusic, müziğini bulutta veya yerel depolamada saklayan herkes için tasarl
 
 ## FAQ
 
-{{% details title="Evermusic hangi ses formatlarını destekliyor?" closed="true" %}}
+{{% ls-details title="Evermusic hangi ses formatlarını destekliyor?" closed="true" %}}
 Evermusic MP3, FLAC, WAV, AAC, M4A, AIFF, OGG, WMA ve diğer popüler ses formatlarını çalar.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Evermusic'i internet bağlantısı olmadan kullanabilir miyim?" closed="true" %}}
+{{% ls-details title="Evermusic'i internet bağlantısı olmadan kullanabilir miyim?" closed="true" %}}
 Evet. Çevrimdışı oynatma için bulut depolamanızdan parçaları indirin. İndirildikten sonra internet gerekmez.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Evermusic Mac'te çalışır mı?" closed="true" %}}
+{{% ls-details title="Evermusic Mac'te çalışır mı?" closed="true" %}}
 Evet. Evermusic hem iOS (iPhone/iPad) hem de macOS'ta, tüm cihazlarda kütüphane senkronizasyonu ile mevcuttur.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Evermusic'i indirmek ücretsiz mi?" closed="true" %}}
+{{% ls-details title="Evermusic'i indirmek ücretsiz mi?" closed="true" %}}
 Evet. Evermusic ücretsiz olarak indirilebilir ve isteğe bağlı premium özellikler uygulama içi satın alma ile kullanılabilir.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Evermusic'te iCloud Drive akışı nasıl çalışır?" closed="true" %}}
+{{% ls-details title="Evermusic'te iCloud Drive akışı nasıl çalışır?" closed="true" %}}
 Uygulamada iCloud Drive hesabınızı bağlayın, müzik dosyalarınıza göz atın ve çalmak için dokunun. Parçalar önce indirmeye gerek kalmadan doğrudan akış yapar.
-{{% /details %}}
+{{% /ls-details %}}

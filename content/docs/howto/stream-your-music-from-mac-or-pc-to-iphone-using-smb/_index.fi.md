@@ -7,7 +7,7 @@ tags: ["cloud", "streaming", "computer", "mp3", "file", "downloader", "manager",
 keywords: ["suoratoista musiikkia Macista iPhoneen", "SMB äänen suoratoisto iOS", "Evermusic SMB asennus", "yhdistä PC musiikki iPhone", "Mac musiikin jakaminen iOS", "SMB Windows tiedostojen suoratoisto", "Evermusic PC kansioiden käyttö"]
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **Lyhyesti:** Käytä Evermusic-sovellusta iPhonelle tai iPadille suoratoistaaksesi musiikkia Macistasi tai Windows PC:stäsi paikallisverkon kautta SMB:n avulla. Ei synkronointia, ei kopiointia -- ota vain tiedostojen jakaminen käyttöön tietokoneellasi, yhdistä sovelluksessa ja toista. Asennus kestää alle 5 minuuttia.
@@ -102,26 +102,26 @@ P.S. Voit myös siirtää äänitiedostoja MAC/PC:stäsi iPhonellesi iTunes-tied
 
 ## Usein kysytyt kysymykset
 
-{{% details title="Voinko suoratoistaa musiikkia PC:ltäni iPhonelleni ilman iTunesia?" closed="true" %}}
+{{% ls-details title="Voinko suoratoistaa musiikkia PC:ltäni iPhonelleni ilman iTunesia?" closed="true" %}}
 Kyllä. Evermusic yhdistää PC:hesi SMB:n kautta paikallisessa Wi-Fi-verkossasi. iTunesia ei tarvita. Ota vain tiedostojen jakaminen käyttöön PC:lläsi ja yhdistä sovelluksessa.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Käyttääkö SMB-suoratoisto mobiilidataa?" closed="true" %}}
+{{% ls-details title="Käyttääkö SMB-suoratoisto mobiilidataa?" closed="true" %}}
 Ei. SMB toimii paikallisen Wi-Fi-verkkosi kautta. Internet-yhteyttä tai mobiilidataa ei tarvita.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Mitä ääniformaatteja Evermusic tukee SMB:n kautta?" closed="true" %}}
+{{% ls-details title="Mitä ääniformaatteja Evermusic tukee SMB:n kautta?" closed="true" %}}
 Evermusic tukee MP3-, FLAC-, AAC-, WAV-, AIFF-, OGG-, WMA-, ALAC- ja muita yleisiä ääniformaatteja. Tiedostot toistetaan suoraan SMB-jaosta.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Voinko suoratoistaa musiikkia NAS:sta iPhonelleni?" closed="true" %}}
+{{% ls-details title="Voinko suoratoistaa musiikkia NAS:sta iPhonelleni?" closed="true" %}}
 Kyllä. Jos NAS:si tukee SMB:tä (useimmat tukevat, mukaan lukien Synology, QNAP ja WD My Cloud), voit yhdistää siihen käyttämällä samoja vaiheita tässä oppaassa.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Pitääkö tietokoneeni olla päällä suoratoiston aikana?" closed="true" %}}
+{{% ls-details title="Pitääkö tietokoneeni olla päällä suoratoiston aikana?" closed="true" %}}
 Kyllä. Koska Evermusic suoratoistaa tiedostoja suoraan tietokoneeltasi, sen on oltava päällä ja yhdistettynä samaan verkkoon kuin iPhonesi.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Onko SMB-suoratoistossa tiedostokokorajoitusta?" closed="true" %}}
+{{% ls-details title="Onko SMB-suoratoistossa tiedostokokorajoitusta?" closed="true" %}}
 Ei. Evermusic suoratoistaa minkä tahansa kokoisia tiedostoja SMB:n kautta. Suuret häviöttömät tiedostot (FLAC, WAV) toimivat ongelmitta.
-{{% /details %}}
+{{% /ls-details %}}

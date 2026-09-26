@@ -7,7 +7,7 @@ tags: ["cloud", "streaming", "iphone", "mp3", "stocare", "dropbox"]
 keywords: ["redare muzică Dropbox iPhone", "muzică offline Dropbox iOS", "Evermusic Dropbox", "player mp3 cloud", "streaming audio Dropbox", "manager fișiere Evermusic", "Dropbox iOS audio"]
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **Pe scurt:** Încărcați muzica pe Dropbox, instalați aplicația gratuită Evermusic pe iPhone, conectați contul Dropbox și redați sau descărcați piesele pentru ascultare offline. Evermusic suportă MP3, FLAC, WAV, AAC și multe altele. Include un egalizator cu 10 benzi, liste de redare și gestionarea fișierelor.
@@ -35,7 +35,7 @@ Evermusic este absolut gratuit și disponibil atât pentru iPhone, cât și pent
 
 {{< cards cols="1">}}
 
-  {{< card title="Descărcați Evermusic" subtitle="Player de muzică offline și streamer cloud pentru iPhone și iPad." icon="download" link="https://itunes.apple.com/us/app/evermusic-offline-music/id885367198?mt=8" >}}
+  {{< ls-card title="Descărcați Evermusic" subtitle="Player de muzică offline și streamer cloud pentru iPhone și iPad." icon="download" link="https://itunes.apple.com/us/app/evermusic-offline-music/id885367198?mt=8" >}}
 
 {{< /cards >}}
 
@@ -67,26 +67,26 @@ Evermusic este și un manager de fișiere complet care suportă operațiuni de b
 
 ## FAQ
 
-{{% details title="Pot reda muzica din Dropbox offline pe iPhone?" closed="true" %}}
+{{% ls-details title="Pot reda muzica din Dropbox offline pe iPhone?" closed="true" %}}
 Da. Folosiți Evermusic pentru a conecta Dropbox, apoi descărcați orice piesă sau listă de redare pentru ascultare offline. Fișierele descărcate sunt stocate pe dispozitiv și se redau fără conexiune la internet.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Evermusic este gratuit?" closed="true" %}}
+{{% ls-details title="Evermusic este gratuit?" closed="true" %}}
 Evermusic este gratuit de descărcat cu funcții de bază incluzând egalizatorul, streamingul cloud și redarea offline. Versiunea gratuită suportă până la 3 conexiuni cloud și 10 liste de redare. Trecerea la Premium elimină toate limitele.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Ce formate audio suportă Evermusic din Dropbox?" closed="true" %}}
+{{% ls-details title="Ce formate audio suportă Evermusic din Dropbox?" closed="true" %}}
 Evermusic redă MP3, FLAC, WAV, AAC, AIFF, OGG, WMA și multe alte formate direct din Dropbox.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Pot conecta mai multe servicii cloud?" closed="true" %}}
+{{% ls-details title="Pot conecta mai multe servicii cloud?" closed="true" %}}
 Da. Evermusic suportă Dropbox, Google Drive, OneDrive, Box, WebDAV, SMB, MEGA și altele. Puteți conecta conturi nelimitate și le puteți parcurge pe toate într-o singură bibliotecă.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Evermusic sincronizează listele de redare între dispozitive?" closed="true" %}}
+{{% ls-details title="Evermusic sincronizează listele de redare între dispozitive?" closed="true" %}}
 Listele de redare create în Evermusic sunt stocate local pe dispozitiv. Fișierele Dropbox rămân sincronizate pe toate dispozitivele prin Dropbox însuși.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Cum eliberez spațiul de stocare al iPhone-ului cu muzica din Dropbox?" closed="true" %}}
+{{% ls-details title="Cum eliberez spațiul de stocare al iPhone-ului cu muzica din Dropbox?" closed="true" %}}
 Mutați fișierele muzicale în Dropbox și transmiteți-le prin Evermusic în loc să le stocați pe iPhone. Descărcați doar piesele de care aveți nevoie pentru ascultare offline.
-{{% /details %}}
+{{% /ls-details %}}

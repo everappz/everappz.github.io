@@ -20,7 +20,7 @@ readingTime: 7
 يمكن أن تحتوي قوائم التشغيل في Flacbox على مزيج من المسارات السحابية عبر الإنترنت والملفات المنزّلة غير المتصلة والملفات المحلية من جهازك — كلها في قائمة تشغيل واحدة — وتُشغَّل معاً بسلاسة.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="الشاشة الرئيسية لقوائم التشغيل في Flacbox" image="/docs/guide/flacbox/img/playlists-main.webp" >}}
+  {{< ls-card title="" subtitle="الشاشة الرئيسية لقوائم التشغيل في Flacbox" image="/docs/guide/flacbox/img/playlists-main.webp" >}}
 {{< /cards >}}
 
 ## إنشاء قائمة تشغيل
@@ -63,7 +63,7 @@ readingTime: 7
 - **وضع غير متصل** — تنزيل جميع المسارات من قائمة التشغيل هذه إلى الملفات المحلية. يُنزَّل أي عناصر جديدة تُضاف إلى قائمة التشغيل أيضاً تلقائياً.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="شاشة تفاصيل قائمة التشغيل في Flacbox" image="/docs/guide/flacbox/img/playlist-details-screen.webp" >}}
+  {{< ls-card title="" subtitle="شاشة تفاصيل قائمة التشغيل في Flacbox" image="/docs/guide/flacbox/img/playlist-details-screen.webp" >}}
 {{< /cards >}}
 
 ## المزيد من الإجراءات لقائمة تشغيل في شاشة قوائم التشغيل
@@ -82,7 +82,7 @@ readingTime: 7
 - **حذف قائمة التشغيل** — حذف قائمة التشغيل من مكتبة الموسيقى. **لا يمكن التراجع عن هذا الإجراء.**
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="المزيد من الإجراءات في Flacbox لقائمة تشغيل على الشاشة الرئيسية لقوائم التشغيل" image="/docs/guide/flacbox/img/more-actions-for-playlist-in-playlists-main-screen.webp" >}}
+  {{< ls-card title="" subtitle="المزيد من الإجراءات في Flacbox لقائمة تشغيل على الشاشة الرئيسية لقوائم التشغيل" image="/docs/guide/flacbox/img/more-actions-for-playlist-in-playlists-main-screen.webp" >}}
 {{< /cards >}}
 
 ## المزيد من الإجراءات لقائمة تشغيل في شاشة تفاصيل قائمة التشغيل
@@ -110,7 +110,7 @@ readingTime: 7
 للحصول على سير عمل أبسط في قوائم التشغيل الطويلة، اختر المزيد من الإجراءات → إعادة ترتيب الأغاني للدخول إلى وضع إعادة الترتيب بالسحب والإفلات المخصص.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="إعادة ترتيب الأغاني في قائمة التشغيل في Flacbox" image="/docs/guide/flacbox/img/playlist-details-rearange-songs.webp" >}}
+  {{< ls-card title="" subtitle="إعادة ترتيب الأغاني في قائمة التشغيل في Flacbox" image="/docs/guide/flacbox/img/playlist-details-rearange-songs.webp" >}}
 {{< /cards >}}
 
 ## تغيير صورة غلاف قائمة التشغيل
@@ -126,7 +126,7 @@ readingTime: 7
 افتح قائمة التشغيل، واضغط على زر **"..."** في الزاوية العلوية اليمنى، وحدد **تحديد** للدخول إلى وضع التحديد. اختر المسارات التي تريد حذفها واضغط على **حذف من قائمة التشغيل** في أسفل الشاشة. أكّد بالضغط على **تم**.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="وضع التحديد في شاشة تفاصيل قائمة التشغيل في Flacbox" image="/docs/guide/flacbox/img/selection-mode-playlist-details-screen.webp" >}}
+  {{< ls-card title="" subtitle="وضع التحديد في شاشة تفاصيل قائمة التشغيل في Flacbox" image="/docs/guide/flacbox/img/selection-mode-playlist-details-screen.webp" >}}
 {{< /cards >}}
 
 ## خيارات المسار

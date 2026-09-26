@@ -14,7 +14,7 @@ authors:
     image: "/images/about/artem-meleshko-founder-everappz.webp"
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 **TL;DR:** [Flacbox 7.6](/products/flacbox) is our biggest update yet for the iPhone, iPad, and Mac hi-res audio player, and it is built around a brand-new **BASS™ audio engine** for lossless and high-resolution listening. You can select the BASS™ engine as an alternative playback core to unlock a full chain of **real-time audio effects**, a **14-filter DSP processor**, a **live full-screen music visualizer**, and playback of classic **tracker and MOD music** (MOD, XM, IT, S3M, MTM, UMX, MO3). The update also adds **automatic loudness-based volume leveling**, an **eleven-effect studio suite** (reverb, delay, multi-tap echo, chorus, flanger, phaser, auto-wah, distortion, compressor, stereo rotation, and crossfeed), a **refreshed effects and equalizer design** with modern glass-style sliders, and **CarPlay improvements** including DSP settings in the car and more accurate lock-screen, watch, and car controls. Under the hood: a more reliable streaming foundation, better file-type handling, broader localization, and many stability and performance fixes.
 
@@ -141,50 +141,50 @@ Thank you for using Flacbox. Your music now sounds great and looks great, with a
 
 ## Frequently Asked Questions
 
-{{% details title="What's new in Flacbox 7.6?" closed="true" %}}
+{{% ls-details title="What's new in Flacbox 7.6?" closed="true" %}}
 Flacbox 7.6 adds a new professional **BASS™ audio engine** you can select as an alternative playback core, **automatic loudness-based volume leveling**, an **eleven-effect studio suite** (reverb, delay, multi-tap echo, chorus, flanger, phaser, auto-wah, distortion, compressor, stereo rotation, and crossfeed), a **14-filter real-time DSP processor**, a **full-screen real-time music visualizer**, native **tracker and MOD** playback (MOD, XM, IT, S3M, MTM, UMX, MO3), a **refreshed effects and equalizer design**, and **CarPlay improvements**. It also includes a more reliable streaming foundation, better file-type handling, broader localization, and many stability and performance fixes.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="What is the new BASS™ audio engine in Flacbox?" closed="true" %}}
+{{% ls-details title="What is the new BASS™ audio engine in Flacbox?" closed="true" %}}
 The [BASS™](https://www.un4seen.com) audio engine, built on the BASS™ audio library from un4seen Developments, is a professional playback core you can choose as an **alternative to Flacbox's existing engine**. Selecting it unlocks a full chain of real-time audio effects, a DSP processor, and live visualization, and it adds playback of classic tracker and MOD music. It plays your existing lossless and hi-res library (FLAC, DSD, ALAC, APE, and more) with **high-quality resampling** and **precise pitch and tempo control**. You can switch back to the classic engine at any time.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Which audio formats and tracker/MOD types does Flacbox 7.6 play?" closed="true" %}}
+{{% ls-details title="Which audio formats and tracker/MOD types does Flacbox 7.6 play?" closed="true" %}}
 Flacbox remains a hi-res and lossless player, handling **FLAC, DSD, APE, ALAC, WAV, AIFF, MP3, AAC, Opus**, and more. New in 7.6, the BASS™ engine also plays classic **tracker and module music**: **MOD, XM, IT, S3M, MTM, UMX, and MO3** — the pattern-and-sample formats used in chiptune and demoscene music that most iPhone players can't open.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="How does automatic volume leveling work in Flacbox?" closed="true" %}}
+{{% ls-details title="How does automatic volume leveling work in Flacbox?" closed="true" %}}
 Flacbox 7.6 uses **EBU R128 loudness measurement** (the ITU-R BS.1770 standard) to keep tracks from different albums at a consistent perceived volume, so you don't have to adjust the volume between songs. For **local files, your library is pre-scanned** so playback opens already leveled — there's no delay while the app measures loudness after a track starts. Four presets are available — **Light** (−20 LUFS), **Standard** (−16 LUFS), **Strong** (−14 LUFS), and **Night** (−23 LUFS) — and it works across mixed libraries, compilations, and shuffle sessions.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="What audio effects are in Flacbox 7.6?" closed="true" %}}
+{{% ls-details title="What audio effects are in Flacbox 7.6?" closed="true" %}}
 Eleven real-time effects you can stack and tune while the music plays: **reverb, delay, multi-tap echo, chorus, flanger, phaser, auto-wah, distortion, compressor, stereo rotation, and crossfeed**. Each effect has its **own screen, a library of presets, and an instant on/off toggle**, and Flacbox remembers your settings between sessions. Crossfeed in particular makes hard-panned recordings sound more natural on headphones.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="What is the DSP processor and which filters does it include?" closed="true" %}}
+{{% ls-details title="What is the DSP processor and which filters does it include?" closed="true" %}}
 The DSP processor lets you **build your own real-time signal chain from 14 filters**: gain, low-pass, high-pass, band-pass and notch filters, peaking EQ, low-shelf and high-shelf EQ, soft-clip saturation, bit crusher, tremolo, delay, ring modulator, and stereo width. Each filter has **presets and an instant on/off toggle**, so you can correct a room, tame harsh recordings, or design a completely custom tone.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="What is crossfeed and why would I use it on headphones?" closed="true" %}}
+{{% ls-details title="What is crossfeed and why would I use it on headphones?" closed="true" %}}
 Crossfeed mixes a small, filtered amount of each stereo channel into the other, the way your ears naturally hear real loudspeakers in a room. On headphones this reduces the exaggerated, "in-your-head" separation of hard-panned recordings and makes long listening more comfortable. It's especially effective on older 1960s and 1970s stereo mixes.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Does the Flacbox music visualizer work on all devices?" closed="true" %}}
+{{% ls-details title="Does the Flacbox music visualizer work on all devices?" closed="true" %}}
 Yes. The **real-time music visualizer** shows full-screen animated visuals that react live to your music, with a large library of presets you can pick from or let cycle automatically. It's **available across the playback engines on all your devices**, and a built-in **screen-sleep preventer** keeps the display awake so the visuals don't cut out during a song.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Can I change pitch and tempo without affecting the other?" closed="true" %}}
+{{% ls-details title="Can I change pitch and tempo without affecting the other?" closed="true" %}}
 Yes. When you use the new BASS™ engine, Flacbox 7.6 offers **precise, independent pitch and tempo control** — change a track's speed without changing its key, or shift the key without changing the speed. It's useful for practice, transcription, and DJ-style listening.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="What improved in CarPlay in Flacbox 7.6?" closed="true" %}}
+{{% ls-details title="What improved in CarPlay in Flacbox 7.6?" closed="true" %}}
 CarPlay now includes **DSP settings** so you can reach your configuration from the car, **fixed album artwork and Now Playing** rendering, and **more accurate lock-screen, Apple Watch, and car controls** that stay in sync with playback. Combined with the more reliable streaming foundation, listening to your lossless library on the road is smoother.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Do the effects, DSP, and equalizer work with cloud streaming?" closed="true" %}}
+{{% ls-details title="Do the effects, DSP, and equalizer work with cloud streaming?" closed="true" %}}
 Yes. The effects, DSP filters, equalizer, and volume leveling run in real time inside the BASS™ playback engine, so they apply to everything Flacbox plays — **local files, cloud drives (iCloud Drive, Google Drive, Dropbox, OneDrive, and more), media servers, and network shares** — with no re-encoding of your files.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Is Flacbox 7.6 a free update, and which devices does it support?" closed="true" %}}
+{{% ls-details title="Is Flacbox 7.6 a free update, and which devices does it support?" closed="true" %}}
 Yes. Flacbox is a **free download** from the App Store, and 7.6 is a **free update** for existing users, with optional in-app upgrades for advanced features. It runs on **iPhone, iPad, and Mac**. CarPlay requires a CarPlay-compatible vehicle or head unit.
-{{% /details %}}
+{{% /ls-details %}}

@@ -7,7 +7,7 @@ tags: ["lyrics", "mp3", "id3", "metadata", "iphone", "audio editing"]
 readingTime: 2
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **สรุป:** ใช้แอป **Evertag** ฟรีเพื่อแก้ไขเนื้อเพลงที่ไม่ซิงค์ การจัดระดับเนื้อหา และแท็กเสียงกว่า 120 รายการบน iPhone หรือ Mac ทำงานกับไฟล์ในเครื่องและที่จัดเก็บบนคลาวด์ รองรับการแก้ไขเป็นชุด และบันทึกเนื้อเพลงที่มองเห็นได้ใน Evermusic, Flacbox และเครื่องเล่นอื่นๆ
@@ -23,8 +23,8 @@ readingTime: 2
 เริ่มต้นด้วยการดาวน์โหลดแอป **Evertag** จาก App Store มีให้ใช้งานทั้งบน **iOS** และ **macOS** และใช้งานได้ฟรี
 
 {{< cards cols="2">}}
-{{< card link="https://apps.apple.com/app/apple-store/id1450763230?pt=95781850&ct=everappzcom&mt=8" title="Evertag สำหรับ iOS" icon="download" tag="Free" >}}
-{{< card link="https://apps.apple.com/app/apple-store/id1594027661?pt=95781850&ct=everappzcom&mt=8" title="Evertag สำหรับ macOS" icon="download" tag="Free" >}}
+{{< ls-card link="https://apps.apple.com/app/apple-store/id1450763230?pt=95781850&ct=everappzcom&mt=8" title="Evertag สำหรับ iOS" icon="download" tag="Free" >}}
+{{< ls-card link="https://apps.apple.com/app/apple-store/id1594027661?pt=95781850&ct=everappzcom&mt=8" title="Evertag สำหรับ macOS" icon="download" tag="Free" >}}
 {{< /cards >}}
 
 ## เชื่อมต่อบัญชีคลาวด์ของคุณ
@@ -38,13 +38,13 @@ readingTime: 2
 - แตะ **เชื่อมต่อกับที่เก็บข้อมูลคลาวด์**
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="เชื่อมต่อกับที่เก็บข้อมูลคลาวด์" image="/docs/howto/how-to-edit-lyrics-for-audio-files-on-iphone-mac/connect-to-cloud-storage.webp" >}}
+{{< ls-card title="" subtitle="เชื่อมต่อกับที่เก็บข้อมูลคลาวด์" image="/docs/howto/how-to-edit-lyrics-for-audio-files-on-iphone-mac/connect-to-cloud-storage.webp" >}}
 {{< /cards >}}
 
 - เลือกผู้ให้บริการที่รองรับ ป้อนข้อมูลรับรองของคุณ แล้วแตะ **เสร็จสิ้น**
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="เชื่อมต่อกับที่เก็บข้อมูลคลาวด์" image="/docs/howto/how-to-edit-lyrics-for-audio-files-on-iphone-mac/connect-to-cloud-storage.webp" >}}
+{{< ls-card title="" subtitle="เชื่อมต่อกับที่เก็บข้อมูลคลาวด์" image="/docs/howto/how-to-edit-lyrics-for-audio-files-on-iphone-mac/connect-to-cloud-storage.webp" >}}
 {{< /cards >}}
 
 - เมื่อเชื่อมต่อแล้ว ที่เก็บข้อมูลคลาวด์ของคุณจะปรากฏในส่วน**ที่เก็บข้อมูลคลาวด์**ของแอป
@@ -52,7 +52,7 @@ readingTime: 2
 - แตะที่เก็บข้อมูลคลาวด์ที่เชื่อมต่อเพื่อเรียกดูและโหลดเนื้อหาโฟลเดอร์
   
 {{< cards cols="1">}}
-{{< card title="" subtitle="รายการไฟล์ที่เก็บข้อมูลคลาวด์" image="/docs/howto/how-to-edit-lyrics-for-audio-files-on-iphone-mac/cloud-storage-list-audio-files.webp" >}}
+{{< ls-card title="" subtitle="รายการไฟล์ที่เก็บข้อมูลคลาวด์" image="/docs/howto/how-to-edit-lyrics-for-audio-files-on-iphone-mac/cloud-storage-list-audio-files.webp" >}}
 {{< /cards >}}
 
 ## เชื่อมต่อโฟลเดอร์ในเครื่อง
@@ -74,7 +74,7 @@ readingTime: 2
 - เลื่อนลงไปที่ **ไฟล์บนอุปกรณ์นี้** ในเมนูแถบด้านข้าง
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="โฟลเดอร์อุปกรณ์" image="/docs/howto/how-to-edit-lyrics-for-audio-files-on-iphone-mac/device-folders.webp" >}}
+{{< ls-card title="" subtitle="โฟลเดอร์อุปกรณ์" image="/docs/howto/how-to-edit-lyrics-for-audio-files-on-iphone-mac/device-folders.webp" >}}
 {{< /cards >}}
   
 - แตะรายการเมนู **โฟลเดอร์อุปกรณ์ทั้งหมด**
@@ -91,7 +91,7 @@ readingTime: 2
 **โปรแกรมแก้ไขแท็ก**คือหน้าจอหลักของแอป Evertag ที่คุณสามารถดูและแก้ไขเมตาดาต้าไฟล์เสียง เปิดหน้าจอนี้โดยแตะไฟล์จากส่วน**ไฟล์ในเครื่อง**หรือจากบัญชี**ที่เก็บข้อมูลคลาวด์**ที่เชื่อมต่อ
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="หน้าจอโปรแกรมแก้ไขแท็ก Evertag" image="/docs/howto/how-to-edit-lyrics-for-audio-files-on-iphone-mac/cloud-storage-audio-file-tag-editor.webp" >}}
+{{< ls-card title="" subtitle="หน้าจอโปรแกรมแก้ไขแท็ก Evertag" image="/docs/howto/how-to-edit-lyrics-for-audio-files-on-iphone-mac/cloud-storage-audio-file-tag-editor.webp" >}}
 {{< /cards >}}
 
 ## โหมดการแก้ไข
@@ -112,7 +112,7 @@ Evertag มีสองโหมดการแก้ไข:
 เพื่อเข้าถึงแท็กทั้งหมดที่มี เลื่อนไปด้านล่างของหน้าจอแล้วแตะตัวเลือก **แสดงแท็กขยาย** ซึ่งจะสลับโปรแกรมแก้ไขเป็นโหมดขยาย ให้คุณแก้ไขฟิลด์เมตาดาต้ากว่า **120 ฟิลด์** รวมถึง**แท็ก MusicBrainz** **เนื้อเพลง** **การจัดระดับเนื้อหา** และอื่นๆ
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="แผงการดำเนินการด้านล่าง" image="/docs/howto/how-to-edit-lyrics-for-audio-files-on-iphone-mac/show-extended-tags.webp" >}}
+{{< ls-card title="" subtitle="แผงการดำเนินการด้านล่าง" image="/docs/howto/how-to-edit-lyrics-for-audio-files-on-iphone-mac/show-extended-tags.webp" >}}
 {{< /cards >}}
 
 ## โหมดชุด
@@ -137,7 +137,7 @@ Evertag มีสองโหมดการแก้ไข:
 ในโหมด**แท็กขยาย** เลื่อนลงและแตะช่องข้อความ **เนื้อเพลงที่ไม่ซิงค์**
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="ช่องข้อความเนื้อเพลงที่ไม่ซิงค์" image="/docs/howto/how-to-edit-lyrics-for-audio-files-on-iphone-mac/advisory-rating-2.webp" >}}
+{{< ls-card title="" subtitle="ช่องข้อความเนื้อเพลงที่ไม่ซิงค์" image="/docs/howto/how-to-edit-lyrics-for-audio-files-on-iphone-mac/advisory-rating-2.webp" >}}
 {{< /cards >}}
 
 > ไฟล์เสียงที่รองรับ**แท็ก ID3** (เช่น `.mp3` หรือ `.wav`) ให้คุณเพิ่มเนื้อเพลงในหลายภาษา หากคุณกำลังแก้ไขไฟล์ที่มีแท็ก ID3 Evertag จะเปิดใช้งานการรองรับหลายภาษาอย่างเต็มรูปแบบ  
@@ -148,7 +148,7 @@ Evertag มีสองโหมดการแก้ไข:
 หากคุณกำลังแก้ไขแท็ก ID3 หน้าจอถัดไปจะแสดงปุ่ม **เพิ่มหน้าใหม่** แตะเพื่อเริ่มเพิ่มรายการเนื้อเพลงใหม่
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="เพิ่มหน้าเนื้อเพลงใหม่" image="/docs/howto/how-to-edit-lyrics-for-audio-files-on-iphone-mac/add-new-page.webp" >}}
+{{< ls-card title="" subtitle="เพิ่มหน้าเนื้อเพลงใหม่" image="/docs/howto/how-to-edit-lyrics-for-audio-files-on-iphone-mac/add-new-page.webp" >}}
 {{< /cards >}}
 
 ### เลือกภาษา ความเห็น และเนื้อหาเนื้อเพลง
@@ -159,7 +159,7 @@ Evertag มีสองโหมดการแก้ไข:
 - ป้อน**ข้อความเนื้อเพลง**จริง
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="เลือกภาษา" image="/docs/howto/how-to-edit-lyrics-for-audio-files-on-iphone-mac/choose-language.webp" >}}
+{{< ls-card title="" subtitle="เลือกภาษา" image="/docs/howto/how-to-edit-lyrics-for-audio-files-on-iphone-mac/choose-language.webp" >}}
 {{< /cards >}}
 
 ### ป้อนเนื้อเพลง
@@ -169,7 +169,7 @@ Evertag มีสองโหมดการแก้ไข:
 > เคล็ดลับ: กำลังมองหาเนื้อเพลงคุณภาพสูง? เยี่ยมชม [lyricsify.com](https://www.lyricsify.com) เพื่อค้นหาเนื้อเพลงในรูปแบบ LRC สำหรับเพลงหลายพันเพลง
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="เนื้อเพลงที่เพิ่มแล้ว" image="/docs/howto/how-to-edit-lyrics-for-audio-files-on-iphone-mac/added-lyrics.webp" >}}
+{{< ls-card title="" subtitle="เนื้อเพลงที่เพิ่มแล้ว" image="/docs/howto/how-to-edit-lyrics-for-audio-files-on-iphone-mac/added-lyrics.webp" >}}
 {{< /cards >}}
 
 ### แตะ "เสร็จสิ้น" เพื่อยืนยัน
@@ -177,7 +177,7 @@ Evertag มีสองโหมดการแก้ไข:
 หลังจากป้อนเนื้อเพลงของคุณ แตะ **เสร็จสิ้น** บนหน้าเนื้อเพลง จากนั้นแตะ **เสร็จสิ้น** อีกครั้งบนหน้าจอก่อนหน้าเพื่อยืนยันการเปลี่ยนแปลง
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="เนื้อเพลงที่บันทึกแล้ว" image="/docs/howto/how-to-edit-lyrics-for-audio-files-on-iphone-mac/saved-lyrics.webp" >}}
+{{< ls-card title="" subtitle="เนื้อเพลงที่บันทึกแล้ว" image="/docs/howto/how-to-edit-lyrics-for-audio-files-on-iphone-mac/saved-lyrics.webp" >}}
 {{< /cards >}}
 
 ### บันทึกการเปลี่ยนแปลงแท็ก
@@ -185,7 +185,7 @@ Evertag มีสองโหมดการแก้ไข:
 สุดท้าย บนหน้าจอ**โปรแกรมแก้ไขแท็ก** แตะ **บันทึก** เพื่อเขียนแท็กที่อัปเดต — รวมถึงเนื้อเพลงใหม่ของคุณ — กลับไปยังไฟล์
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="โปรแกรมแก้ไขแท็กพร้อมเนื้อเพลง" image="/docs/howto/how-to-edit-lyrics-for-audio-files-on-iphone-mac/tags-editor-with-lyrics.webp" >}}
+{{< ls-card title="" subtitle="โปรแกรมแก้ไขแท็กพร้อมเนื้อเพลง" image="/docs/howto/how-to-edit-lyrics-for-audio-files-on-iphone-mac/tags-editor-with-lyrics.webp" >}}
 {{< /cards >}}
 
 ### ตั้งค่าการจัดระดับเนื้อหาเนื้อเพลง
@@ -204,22 +204,22 @@ Evertag มีสองโหมดการแก้ไข:
 
 ## คำถามที่พบบ่อย
 
-{{% details title="Evertag รองรับรูปแบบเสียงใดบ้างสำหรับการแก้ไขเนื้อเพลง?" closed="true" %}}
+{{% ls-details title="Evertag รองรับรูปแบบเสียงใดบ้างสำหรับการแก้ไขเนื้อเพลง?" closed="true" %}}
 Evertag รองรับรูปแบบเสียงกว่า 30 รูปแบบ รวมถึง MP3, FLAC, WAV, M4A, OGG, AIFF และอื่นๆ คุณสามารถแก้ไขเนื้อเพลงและแท็กเมตาดาต้าอื่นๆ ในรูปแบบเหล่านี้ได้ทั้งหมด
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="ฉันสามารถเพิ่มเนื้อเพลงในหลายภาษาได้หรือไม่?" closed="true" %}}
+{{% ls-details title="ฉันสามารถเพิ่มเนื้อเพลงในหลายภาษาได้หรือไม่?" closed="true" %}}
 ได้ แต่เฉพาะไฟล์เสียงที่ใช้แท็ก ID3 (เช่น MP3 และ WAV) สำหรับรูปแบบอื่นเช่น FLAC หรือ M4A รองรับรายการเนื้อเพลงเพียงรายการเดียว
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Evertag รองรับการแก้ไขเนื้อเพลงเป็นชุดหรือไม่?" closed="true" %}}
+{{% ls-details title="Evertag รองรับการแก้ไขเนื้อเพลงเป็นชุดหรือไม่?" closed="true" %}}
 ใช่ คุณสามารถเข้าสู่โหมดชุดเพื่อแก้ไขเมตาดาต้าของหลายไฟล์พร้อมกัน ซึ่งมีประโยชน์สำหรับการใช้การจัดระดับเนื้อหาเนื้อเพลงเดียวกันหรือแท็กร่วมอื่นๆ กับทั้งอัลบั้ม
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="เนื้อเพลงที่แก้ไขจะปรากฏใน Apple Music หรือ Spotify หรือไม่?" closed="true" %}}
+{{% ls-details title="เนื้อเพลงที่แก้ไขจะปรากฏใน Apple Music หรือ Spotify หรือไม่?" closed="true" %}}
 เนื้อเพลงที่แก้ไขด้วย Evertag จะถูกฝังในเมตาดาต้าของไฟล์เสียง จะปรากฏในเครื่องเล่นเพลงใดๆ ที่อ่านแท็กเนื้อเพลงที่ฝัง เช่น Evermusic, Flacbox, VLC และ foobar2000 แอปสตรีมมิ่งเช่น Spotify และ Apple Music ใช้ฐานข้อมูลเนื้อเพลงของตัวเองและไม่อ่านแท็กที่ฝัง
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="ฉันสามารถแก้ไขแท็กสำหรับไฟล์ที่จัดเก็บในคลาวด์ได้หรือไม่?" closed="true" %}}
+{{% ls-details title="ฉันสามารถแก้ไขแท็กสำหรับไฟล์ที่จัดเก็บในคลาวด์ได้หรือไม่?" closed="true" %}}
 ได้ Evertag รองรับการเชื่อมต่อกับบริการจัดเก็บคลาวด์ แอปจะดาวน์โหลดไฟล์ ให้คุณแก้ไขแท็ก และอัปโหลดไฟล์ที่อัปเดตกลับไปยังคลาวด์โดยอัตโนมัติ
-{{% /details %}}
+{{% /ls-details %}}

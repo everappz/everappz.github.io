@@ -7,7 +7,7 @@ tags: ["cloud", "streaming", "computer", "mp3", "file", "downloader", "manager",
 keywords: ["从Mac串流音乐到iPhone", "SMB音频串流iOS", "Evermusic SMB设置", "连接PC音乐iPhone", "Mac音乐共享iOS", "SMB Windows文件串流", "Evermusic PC文件夹访问"]
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **简要说明：** 使用Evermusic应用程序通过SMB在本地网络上从Mac或Windows PC向iPhone或iPad串流音乐。无需同步，无需复制——只需在计算机上启用文件共享，在应用中连接并播放。设置不到5分钟。
@@ -102,26 +102,26 @@ keywords: ["从Mac串流音乐到iPhone", "SMB音频串流iOS", "Evermusic SMB�
 
 ## 常见问题
 
-{{% details title="我可以不用iTunes从PC串流音乐到iPhone吗？" closed="true" %}}
+{{% ls-details title="我可以不用iTunes从PC串流音乐到iPhone吗？" closed="true" %}}
 可以。Evermusic通过本地Wi-Fi网络上的SMB连接到您的PC。不需要iTunes。只需在PC上启用文件共享并在应用中连接。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="SMB串流使用移动数据吗？" closed="true" %}}
+{{% ls-details title="SMB串流使用移动数据吗？" closed="true" %}}
 不。SMB通过本地Wi-Fi网络工作。不需要互联网连接或移动数据。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Evermusic通过SMB支持哪些音频格式？" closed="true" %}}
+{{% ls-details title="Evermusic通过SMB支持哪些音频格式？" closed="true" %}}
 Evermusic支持MP3、FLAC、AAC、WAV、AIFF、OGG、WMA、ALAC和其他常见音频格式。文件直接从SMB共享播放。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="我可以从NAS串流音乐到iPhone吗？" closed="true" %}}
+{{% ls-details title="我可以从NAS串流音乐到iPhone吗？" closed="true" %}}
 可以。如果您的NAS支持SMB（大多数支持，包括Synology、QNAP和WD My Cloud），您可以使用本指南中的相同步骤进行连接。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="串流时需要保持计算机开机吗？" closed="true" %}}
+{{% ls-details title="串流时需要保持计算机开机吗？" closed="true" %}}
 是的。由于Evermusic直接从计算机串流文件，计算机必须开机并连接到与iPhone相同的网络。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="SMB串流有文件大小限制吗？" closed="true" %}}
+{{% ls-details title="SMB串流有文件大小限制吗？" closed="true" %}}
 没有。Evermusic通过SMB串流任何大小的文件。大型无损文件（FLAC、WAV）可以正常工作。
-{{% /details %}}
+{{% /ls-details %}}

@@ -7,7 +7,7 @@ tags: ["evermusic", "tilslut", "bluesound vault"]
 readingTime: 1
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **Resumé:** Tilslut dit Bluesound VAULTs interne lager via SMB ved hjælp af Evermusic, Flacbox eller Evertag. Find VAULTs IP-adresse i BluOS-appen, indtast den som en SMB-forbindelse med gæsteadgang, og begynd at afspille eller administrere dine musikfiler.
@@ -58,18 +58,18 @@ Med disse enkle trin kan du nemt få adgang til din Bluesound VAULTs interne har
 
 ## FAQ
 
-{{% details title="Har jeg brug for et brugernavn og en adgangskode for at oprette forbindelse til Bluesound VAULT?" closed="true" %}}
+{{% ls-details title="Har jeg brug for et brugernavn og en adgangskode for at oprette forbindelse til Bluesound VAULT?" closed="true" %}}
 Nej. Bluesound VAULT understøtter gæste- (anonym) adgang via SMB. Lad felterne Login og Adgangskode stå tomme, når du konfigurerer forbindelsen.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Kan jeg redigere musik-tags på Bluesound VAULT?" closed="true" %}}
+{{% ls-details title="Kan jeg redigere musik-tags på Bluesound VAULT?" closed="true" %}}
 Ja. Ved hjælp af Evertag kan du redigere metadata-tags (titel, kunstner, album osv.) for lydfiler gemt direkte på VAULTs interne harddisk.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Hvilke protokoller understøtter Bluesound VAULT?" closed="true" %}}
+{{% ls-details title="Hvilke protokoller understøtter Bluesound VAULT?" closed="true" %}}
 Bluesound VAULT eksponerer sit interne lager via SMB (Server Message Block). Evermusic, Flacbox og Evertag understøtter alle SMB-forbindelser, hvilket gør det nemt at oprette forbindelse.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Kan jeg streame musik fra VAULT uden at kopiere filer til min iPhone?" closed="true" %}}
+{{% ls-details title="Kan jeg streame musik fra VAULT uden at kopiere filer til min iPhone?" closed="true" %}}
 Ja. Når du er tilsluttet via SMB, kan du streame lydfiler direkte fra VAULTs interne drev uden at kopiere dem til din enhed.
-{{% /details %}}
+{{% /ls-details %}}

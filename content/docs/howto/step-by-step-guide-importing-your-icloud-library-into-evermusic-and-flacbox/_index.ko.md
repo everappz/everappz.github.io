@@ -7,7 +7,7 @@ tags: ["음악", "클라우드", "스트리밍", "동기화", "icloud", "라이�
 keywords: ["iCloud 음악 가져오기 Evermusic", "Flacbox iCloud 동기화", "Evermusic iCloud에서 스트리밍", "음악 라이브러리 iOS 앱", "Flacbox 메타데이터 리더", "iCloud 음악 스트리밍 iPhone"]
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **요약:** Evermusic과 Flacbox에서 기기에 파일을 다운로드하지 않고 iCloud Drive 음악 라이브러리를 스트리밍할 수 있습니다. 앱에서 iCloud Drive를 연결하고, 온라인 음악 동기화를 활성화하여 라이브러리를 구축하고, 아티스트/앨범/장르별로 정리하도록 메타데이터 리더를 구성하고, 선택적으로 오프라인 모드를 활성화하여 인터넷 없이 들을 앨범을 다운로드합니다. 이 단계는 Google Drive, Dropbox, OneDrive 및 기타 지원되는 클라우드 서비스에서도 작동합니다.
@@ -148,26 +148,26 @@ iCloud에 광범위한 음악 라이브러리를 가진 많은 사용자에게 F
 
 ## FAQ
 
-{{% details title="iPhone에 파일을 다운로드하지 않고 iCloud 음악을 스트리밍할 수 있나요?" closed="true" %}}
+{{% ls-details title="iPhone에 파일을 다운로드하지 않고 iCloud 음악을 스트리밍할 수 있나요?" closed="true" %}}
 예. Evermusic 또는 Flacbox에서 iCloud Drive를 연결하고 온라인 음악 동기화를 사용하면 앱이 클라우드 파일에 대한 링크를 만들고 요청 시 스트리밍합니다. 명시적으로 오프라인 모드를 활성화하지 않는 한 파일은 다운로드되지 않습니다.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Flacbox 또는 Evermusic에서 iCloud 음악 가져오기가 느린 이유는 무엇인가요?" closed="true" %}}
+{{% ls-details title="Flacbox 또는 Evermusic에서 iCloud 음악 가져오기가 느린 이유는 무엇인가요?" closed="true" %}}
 느린 가져오기는 일반적으로 모바일 연결을 통한 대규모 라이브러리의 메타데이터 읽기로 인해 발생합니다. 백그라운드 동기화를 활성화하고, 앱을 활성 상태로 유지하기 위해 오디오 재생을 시작하고, 대규모 컬렉션의 초기 동기화에 Mac 버전 사용을 고려하세요.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="이 가이드는 iCloud 이외의 클라우드 서비스에서도 작동하나요?" closed="true" %}}
+{{% ls-details title="이 가이드는 iCloud 이외의 클라우드 서비스에서도 작동하나요?" closed="true" %}}
 예. 동일한 단계가 Google Drive, Dropbox, OneDrive, SMB, WebDAV 및 Evermusic과 Flacbox에서 지원하는 모든 클라우드 서비스에 적용됩니다.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Mac에서 iPhone으로 음악 라이브러리를 어떻게 전송하나요?" closed="true" %}}
+{{% ls-details title="Mac에서 iPhone으로 음악 라이브러리를 어떻게 전송하나요?" closed="true" %}}
 앱 설정의 데이터 백업/복원 기능을 사용합니다. 먼저 Mac 버전에서 동기화하고 메타데이터를 읽고, 백업을 만든 다음 iOS 버전에서 복원합니다. 이것이 iPhone에서 대규모 라이브러리를 설정하는 가장 빠른 방법입니다.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="메타데이터 리더가 원본 오디오 파일을 변경하나요?" closed="true" %}}
+{{% ls-details title="메타데이터 리더가 원본 오디오 파일을 변경하나요?" closed="true" %}}
 아니요. 메타데이터 리더는 음악 라이브러리의 표시 정보만 업데이트합니다. 클라우드 계정이나 기기에 저장된 파일은 수정하지 않습니다. 파일 태그를 편집하려면 내장 태그 편집기를 사용하세요.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="앨범을 오프라인으로 사용할 수 있게 하려면 어떻게 하나요?" closed="true" %}}
+{{% ls-details title="앨범을 오프라인으로 사용할 수 있게 하려면 어떻게 하나요?" closed="true" %}}
 오프라인 모드 기능을 사용합니다. 클라우드 폴더에서 **추가 작업**을 탭하고 **오프라인 모드 활성화**를 선택합니다. 앱이 모든 파일을 다운로드하고 클라우드 버전과 자동으로 동기화를 유지합니다.
-{{% /details %}}
+{{% /ls-details %}}

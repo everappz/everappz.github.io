@@ -29,7 +29,7 @@ tags: [
 readingTime: 5
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **ملخص:** استخدم ميزة **File > Library > Export Playlist** المدمجة في Apple Music لحفظ أي قائمة تشغيل كملف M3U. ثم استوردها في **Evermusic** أو **Flacbox** على Mac. يمكنك أيضًا أرشفة قوائم التشغيل كملفات ZIP لنقلها بسهولة إلى أجهزة أخرى.
@@ -45,13 +45,13 @@ readingTime: 5
 ابدأ بفتح قائمة التشغيل في تطبيق Apple Music على جهاز Mac.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="افتح قائمة التشغيل في Apple Music" image="/docs/howto/how-to-export-apple-music-playlists-and-play-them-in-evermusic-on-mac/1-apple-music-playlist.webp" >}}
+  {{< ls-card title="" subtitle="افتح قائمة التشغيل في Apple Music" image="/docs/howto/how-to-export-apple-music-playlists-and-play-them-in-evermusic-on-mac/1-apple-music-playlist.webp" >}}
 {{< /cards >}}
 
 انتقل إلى **File → Library → Export Playlist** من القائمة العلوية.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="صدّر قائمة التشغيل من مكتبتك" image="/docs/howto/how-to-export-apple-music-playlists-and-play-them-in-evermusic-on-mac/2-library-export-playlist.webp" >}}
+  {{< ls-card title="" subtitle="صدّر قائمة التشغيل من مكتبتك" image="/docs/howto/how-to-export-apple-music-playlists-and-play-them-in-evermusic-on-mac/2-library-export-playlist.webp" >}}
 {{< /cards >}}
 
 اختر الوجهة حيث سيتم حفظ ملف M3U.  
@@ -61,7 +61,7 @@ readingTime: 5
 > نظرًا لأن التطبيقات تعمل في وضع sandbox على macOS، يجب أن يكون كل من **ملف قائمة التشغيل** و**ملفات الوسائط** في نفس المجلد لنجاح الاستيراد.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="اختر وجهة ملف M3U" image="/docs/howto/how-to-export-apple-music-playlists-and-play-them-in-evermusic-on-mac/3-select-m3u-destination.webp" >}}
+  {{< ls-card title="" subtitle="اختر وجهة ملف M3U" image="/docs/howto/how-to-export-apple-music-playlists-and-play-them-in-evermusic-on-mac/3-select-m3u-destination.webp" >}}
 {{< /cards >}}
 
 ## استيراد قائمة التشغيل في Evermusic أو Flacbox
@@ -69,26 +69,26 @@ readingTime: 5
 قم بتحميل أحد التطبيقات من Mac App Store:
 
 {{< cards cols="1">}}
-{{< card link="https://apps.apple.com/app/apple-store/id1564384601?pt=95781850&ct=everappzcom&mt=8" title="Evermusic" icon="download" tag="Free" >}}
-{{< card link="https://apps.apple.com/app/apple-store/id1594027432?pt=95781850&ct=everappzcom&mt=8" title="Flacbox" icon="download" tag="Free" >}}
+{{< ls-card link="https://apps.apple.com/app/apple-store/id1564384601?pt=95781850&ct=everappzcom&mt=8" title="Evermusic" icon="download" tag="Free" >}}
+{{< ls-card link="https://apps.apple.com/app/apple-store/id1594027432?pt=95781850&ct=everappzcom&mt=8" title="Flacbox" icon="download" tag="Free" >}}
 {{< /cards >}}
 
 افتح **علامة تبويب قوائم التشغيل** في التطبيق.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="افتح قوائم التشغيل في Evermusic" image="/docs/howto/how-to-export-apple-music-playlists-and-play-them-in-evermusic-on-mac/4-evermusic-playlists.webp" >}}
+  {{< ls-card title="" subtitle="افتح قوائم التشغيل في Evermusic" image="/docs/howto/how-to-export-apple-music-playlists-and-play-them-in-evermusic-on-mac/4-evermusic-playlists.webp" >}}
 {{< /cards >}}
 
 اضغط على زر **إضافة** واختر **استيراد قائمة تشغيل**.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="استورد قائمة التشغيل في Evermusic" image="/docs/howto/how-to-export-apple-music-playlists-and-play-them-in-evermusic-on-mac/5-evermusic-import-playlist.webp" >}}
+  {{< ls-card title="" subtitle="استورد قائمة التشغيل في Evermusic" image="/docs/howto/how-to-export-apple-music-playlists-and-play-them-in-evermusic-on-mac/5-evermusic-import-playlist.webp" >}}
 {{< /cards >}}
 
 بعد ذلك، اختر **ملفات على هذا الـ Mac** لاستيراد الملفات المخزنة محليًا.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="حدد موقع الاستيراد في Evermusic" image="/docs/howto/how-to-export-apple-music-playlists-and-play-them-in-evermusic-on-mac/6-evermusic-select-location.webp" >}}
+  {{< ls-card title="" subtitle="حدد موقع الاستيراد في Evermusic" image="/docs/howto/how-to-export-apple-music-playlists-and-play-them-in-evermusic-on-mac/6-evermusic-select-location.webp" >}}
 {{< /cards >}}
 
 الآن، قم بتوصيل **مجلد الموسيقى** الخاص بك (حيث حفظت قائمة تشغيل M3U).  
@@ -98,37 +98,37 @@ readingTime: 5
 > تأكد من أن ملف قائمة التشغيل وملفات الوسائط المرتبطة في نفس المجلد.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="اختر ملفات على هذا الـ Mac" image="/docs/howto/how-to-export-apple-music-playlists-and-play-them-in-evermusic-on-mac/7-files-on-this-mac.webp" >}}
+  {{< ls-card title="" subtitle="اختر ملفات على هذا الـ Mac" image="/docs/howto/how-to-export-apple-music-playlists-and-play-them-in-evermusic-on-mac/7-files-on-this-mac.webp" >}}
 {{< /cards >}}
 
 حدد **مجلد الموسيقى** الخاص بك (حيث حفظت قائمة تشغيل M3U) واضغط على **فتح** لتأكيد الاختيار.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="حدد مجلد الموسيقى الخاص بك" image="/docs/howto/how-to-export-apple-music-playlists-and-play-them-in-evermusic-on-mac/8-select-music-folder-location.webp" >}}
+  {{< ls-card title="" subtitle="حدد مجلد الموسيقى الخاص بك" image="/docs/howto/how-to-export-apple-music-playlists-and-play-them-in-evermusic-on-mac/8-select-music-folder-location.webp" >}}
 {{< /cards >}}
 
 بمجرد الاتصال، افتح المجلد وحدد ملف **M3U** المُصدَّر.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="حدد ملف M3U" image="/docs/howto/how-to-export-apple-music-playlists-and-play-them-in-evermusic-on-mac/9-select-m3u-file.webp" >}}
+  {{< ls-card title="" subtitle="حدد ملف M3U" image="/docs/howto/how-to-export-apple-music-playlists-and-play-them-in-evermusic-on-mac/9-select-m3u-file.webp" >}}
 {{< /cards >}}
 
 سيبدأ التطبيق في استيراد جميع المسارات من قائمة التشغيل.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="انتظر أثناء استيراد قائمة التشغيل" image="/docs/howto/how-to-export-apple-music-playlists-and-play-them-in-evermusic-on-mac/10-importing-playlist.webp" >}}
+  {{< ls-card title="" subtitle="انتظر أثناء استيراد قائمة التشغيل" image="/docs/howto/how-to-export-apple-music-playlists-and-play-them-in-evermusic-on-mac/10-importing-playlist.webp" >}}
 {{< /cards >}}
 
 بمجرد الانتهاء، سترى قائمة التشغيل جاهزة للاستخدام.  
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="تم استيراد قائمة التشغيل بنجاح" image="/docs/howto/how-to-export-apple-music-playlists-and-play-them-in-evermusic-on-mac/11-playlist-imported.webp" >}}
+  {{< ls-card title="" subtitle="تم استيراد قائمة التشغيل بنجاح" image="/docs/howto/how-to-export-apple-music-playlists-and-play-them-in-evermusic-on-mac/11-playlist-imported.webp" >}}
 {{< /cards >}}
 
 اضغط عليها لعرض محتوياتها أو بدء التشغيل فورًا.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="افتح قائمة التشغيل المستوردة" image="/docs/howto/how-to-export-apple-music-playlists-and-play-them-in-evermusic-on-mac/12-opened-playlist.webp" >}}
+  {{< ls-card title="" subtitle="افتح قائمة التشغيل المستوردة" image="/docs/howto/how-to-export-apple-music-playlists-and-play-them-in-evermusic-on-mac/12-opened-playlist.webp" >}}
 {{< /cards >}}
 
 ## أرشفة ونقل قوائم التشغيل
@@ -140,26 +140,26 @@ readingTime: 5
 ما عليك سوى اختيار **المزيد من الإجراءات → إضافة إلى الأرشيف** من قائمة قائمة التشغيل.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="افتح المزيد من الإجراءات لقائمة التشغيل" image="/docs/howto/how-to-export-apple-music-playlists-and-play-them-in-evermusic-on-mac/14-more-actions-playlist.webp" >}}
+  {{< ls-card title="" subtitle="افتح المزيد من الإجراءات لقائمة التشغيل" image="/docs/howto/how-to-export-apple-music-playlists-and-play-them-in-evermusic-on-mac/14-more-actions-playlist.webp" >}}
 {{< /cards >}}
 
 بعد اختيار **إضافة إلى الأرشيف**، انتظر لحظة قصيرة بينما يعالج التطبيق قائمة التشغيل.  
 بمجرد اكتمال الأرشفة، سترى **تنبيه نجاح**. اضغط على **إظهار الملف** لجعل التطبيق يكشف عن أرشيف ZIP الذي تم إنشاؤه حديثًا.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="اكتملت الأرشفة" image="/docs/howto/how-to-export-apple-music-playlists-and-play-them-in-evermusic-on-mac/15-archiving-completed.webp" >}}
+  {{< ls-card title="" subtitle="اكتملت الأرشفة" image="/docs/howto/how-to-export-apple-music-playlists-and-play-them-in-evermusic-on-mac/15-archiving-completed.webp" >}}
 {{< /cards >}}
 
 سيفتح التطبيق بعد ذلك **مجلد التصدير**، حيث يتم تخزين جميع الأرشيفات التي تم إنشاؤها.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="افتح مجلد التصدير" image="/docs/howto/how-to-export-apple-music-playlists-and-play-them-in-evermusic-on-mac/16-export-folder.webp" >}}
+  {{< ls-card title="" subtitle="افتح مجلد التصدير" image="/docs/howto/how-to-export-apple-music-playlists-and-play-them-in-evermusic-on-mac/16-export-folder.webp" >}}
 {{< /cards >}}
 
 حدد موقع الأرشيف الذي تم إنشاؤه حديثًا، واضغط على زر **المزيد من الإجراءات** بجانبه، واختر **إظهار في Finder**.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="استخدم المزيد من الإجراءات على ملف ZIP" image="/docs/howto/how-to-export-apple-music-playlists-and-play-them-in-evermusic-on-mac/17-more-actions-menu-zip-file.webp" >}}
+  {{< ls-card title="" subtitle="استخدم المزيد من الإجراءات على ملف ZIP" image="/docs/howto/how-to-export-apple-music-playlists-and-play-them-in-evermusic-on-mac/17-more-actions-menu-zip-file.webp" >}}
 {{< /cards >}}
 
 سترى الآن **الموقع الحقيقي لملف ZIP** على جهاز Mac الخاص بك.  
@@ -167,13 +167,13 @@ readingTime: 5
 لكن قبل ذلك، دعنا نلقي نظرة أقرب على ما بداخله. انقر نقرًا مزدوجًا على الملف لفك أرشفته.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="اكشف ملف ZIP في Finder" image="/docs/howto/how-to-export-apple-music-playlists-and-play-them-in-evermusic-on-mac/18-zip-file-revealed-in-finder.webp" >}}
+  {{< ls-card title="" subtitle="اكشف ملف ZIP في Finder" image="/docs/howto/how-to-export-apple-music-playlists-and-play-them-in-evermusic-on-mac/18-zip-file-revealed-in-finder.webp" >}}
 {{< /cards >}}
 
 بالداخل، ستجد **المحتوى الكامل لقائمة التشغيل** — جميع ملفات الصوت المدرجة في قائمة التشغيل، بالإضافة إلى **ملف قائمة تشغيل M3U**.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="فك أرشفة ملف ZIP" image="/docs/howto/how-to-export-apple-music-playlists-and-play-them-in-evermusic-on-mac/19-unarchived-zip-file.webp" >}}
+  {{< ls-card title="" subtitle="فك أرشفة ملف ZIP" image="/docs/howto/how-to-export-apple-music-playlists-and-play-them-in-evermusic-on-mac/19-unarchived-zip-file.webp" >}}
 {{< /cards >}}
 
 أخيرًا، افتح **ملف M3U** لفحص محتوياته.  
@@ -181,7 +181,7 @@ readingTime: 5
 سيستعيد التطبيق قائمة التشغيل مع **ترتيب المسارات الصحيح** و**جميع ملفات الوسائط المرتبطة**.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="عرض محتويات قائمة تشغيل M3U" image="/docs/howto/how-to-export-apple-music-playlists-and-play-them-in-evermusic-on-mac/20-m3u-playlist-content.webp" >}}
+  {{< ls-card title="" subtitle="عرض محتويات قائمة تشغيل M3U" image="/docs/howto/how-to-export-apple-music-playlists-and-play-them-in-evermusic-on-mac/20-m3u-playlist-content.webp" >}}
 {{< /cards >}}
 
 ## الخلاصة
@@ -199,22 +199,22 @@ readingTime: 5
 
 ## الأسئلة الشائعة
 
-{{% details title="ما هو تنسيق قائمة التشغيل الذي يصدره Apple Music؟" closed="true" %}}
+{{% ls-details title="ما هو تنسيق قائمة التشغيل الذي يصدره Apple Music؟" closed="true" %}}
 يصدر Apple Music قوائم التشغيل بتنسيق M3U، وهو تنسيق قائمة تشغيل قياسي مدعوم من معظم مشغلات الموسيقى بما في ذلك Evermusic و Flacbox و VLC و foobar2000.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="لماذا يجب أن يكون ملف M3U وملفات الصوت في نفس المجلد؟" closed="true" %}}
+{{% ls-details title="لماذا يجب أن يكون ملف M3U وملفات الصوت في نفس المجلد؟" closed="true" %}}
 يعمل Evermusic و Flacbox في وضع sandbox على macOS، مما يقيد الوصول إلى الملفات للمجلدات التي تمنح الإذن لها صراحة. الاحتفاظ بملف M3U وملفات الصوت في نفس المجلد يضمن أن التطبيق يمكنه قراءة كليهما أثناء الاستيراد.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="هل يمكنني نقل قوائم التشغيل بين Mac و iPhone؟" closed="true" %}}
+{{% ls-details title="هل يمكنني نقل قوائم التشغيل بين Mac و iPhone؟" closed="true" %}}
 نعم. استخدم ميزة أرشفة قوائم التشغيل لإنشاء ملف ZIP يحتوي على قائمة التشغيل وجميع المسارات. انقل ملف ZIP إلى iPhone عبر AirDrop أو iCloud Drive أو أي طريقة أخرى، ثم استورده في Evermusic أو Flacbox على iOS.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="هل يعمل هذا مع مسارات بث Apple Music؟" closed="true" %}}
+{{% ls-details title="هل يعمل هذا مع مسارات بث Apple Music؟" closed="true" %}}
 تعمل هذه الطريقة مع ملفات الصوت المحلية التي أضفتها إلى Apple Music. لا يمكن تصدير مسارات البث المحمية بـ DRM من Apple Music كقوائم تشغيل M3U.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="ما هي تنسيقات الصوت التي يدعمها Evermusic و Flacbox؟" closed="true" %}}
+{{% ls-details title="ما هي تنسيقات الصوت التي يدعمها Evermusic و Flacbox؟" closed="true" %}}
 يدعم كلا التطبيقين مجموعة واسعة من التنسيقات بما في ذلك MP3 و FLAC و AAC و WAV و OGG و AIFF و ALAC و WMA و APE والمزيد. كما يدعمان تشغيل الصوت عالي الدقة للتنسيقات بدون فقدان.
-{{% /details %}}
+{{% /ls-details %}}

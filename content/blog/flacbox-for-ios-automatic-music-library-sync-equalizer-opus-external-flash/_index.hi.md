@@ -12,7 +12,7 @@ authors:
     image: "/images/about/artem-meleshko-founder-everappz.webp"
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 **Flacbox 1.6** iPhone और iPad के लिए FLAC म्यूजिक प्लेयर में प्रमुख नई सुविधाएं लाता है।
 
@@ -68,18 +68,18 @@ Flacbox 1.6 अब App Store पर उपलब्ध है। [Flacbox डा
 
 ## अक्सर पूछे जाने वाले प्रश्न
 
-{{% details title="Flacbox किन ऑडियो फॉर्मेट को सपोर्ट करता है?" closed="true" %}}
+{{% ls-details title="Flacbox किन ऑडियो फॉर्मेट को सपोर्ट करता है?" closed="true" %}}
 Flacbox FLAC, ALAC, MP3, AAC, OGG, OPUS, WAV, AIFF, DSD और अन्य लोकप्रिय ऑडियो फॉर्मेट सपोर्ट करता है। सभी फॉर्मेट बिल्ट-इन इक्वलाइज़र के साथ काम करते हैं।
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="क्या मैं अपने iPhone पर SD कार्ड से म्यूजिक चला सकता हूँ?" closed="true" %}}
+{{% ls-details title="क्या मैं अपने iPhone पर SD कार्ड से म्यूजिक चला सकता हूँ?" closed="true" %}}
 हाँ। Lightning से SD कार्ड कैमरा रीडर एडाप्टर का उपयोग करके SD या microSD कार्ड कनेक्ट करें। Flacbox कार्ड को स्वचालित रूप से पहचानता है और आपको एक्सटर्नल स्टोरेज से सीधे फ़ाइलें ब्राउज़ और चलाने देता है।
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="क्या Flacbox क्लाउड स्टोरेज के साथ स्वचालित रूप से सिंक करता है?" closed="true" %}}
+{{% ls-details title="क्या Flacbox क्लाउड स्टोरेज के साथ स्वचालित रूप से सिंक करता है?" closed="true" %}}
 हाँ। संस्करण 1.6 से, Flacbox क्लाउड फ़ोल्डर्स से आपकी म्यूजिक लाइब्रेरी को स्वचालित रूप से सिंक कर सकता है। सेटिंग्स में Automatic Sync सक्षम करें और जिन फ़ोल्डर्स को मॉनिटर करना चाहते हैं उन्हें चुनें।
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="क्या Flacbox का इक्वलाइज़र कस्टमाइज़ करने योग्य है?" closed="true" %}}
+{{% ls-details title="क्या Flacbox का इक्वलाइज़र कस्टमाइज़ करने योग्य है?" closed="true" %}}
 हाँ। 10-बैंड इक्वलाइज़र आपको -12 dB और +12 dB के बीच व्यक्तिगत फ्रीक्वेंसी लेवल समायोजित करने देता है। आप बिल्ट-इन प्रीसेट का उपयोग कर सकते हैं या अपनी कस्टम सेटिंग्स सेव कर सकते हैं।
-{{% /details %}}
+{{% /ls-details %}}

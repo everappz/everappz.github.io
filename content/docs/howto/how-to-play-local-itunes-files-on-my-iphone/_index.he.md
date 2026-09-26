@@ -7,7 +7,7 @@ tags: ["שמע", "נגן", "מחשב", "קבצים", "קובץ", "pc", "mac", "�
 keywords: ["שיתוף קבצי itunes", "נגן מוזיקה מקומית", "העברת מוזיקה לאייפון", "העתקת קבצים ל-ios", "שמע ממק לאייפון", "קבצים מקומיים באייפון", "evermusic", "flacbox", "נגן מוזיקה", "שיתוף קבצים", "wifi drive", "הזרמת מוזיקה smb", "אפליקציית מוזיקה אייפון", "ייבוא מוזיקה ל-ios"]
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **בקצרה:** העבר מוזיקה מהמחשב שלך לאייפון באמצעות אחת משלוש שיטות: **שיתוף קבצי iTunes/Finder** (כבל USB), **[WiFi Drive](/docs/howto/how-to-transfer-music-from-computer-to-iphone-without-itunes)** (אלחוטי, ללא כבל), או **[SMB](/docs/howto/stream-your-music-from-mac-or-pc-to-iphone-using-smb/)** (הזרמה ישירה ללא העתקה). לאחר מכן נגן עם [Evermusic](/products/evermusic) או [Flacbox](/products/flacbox).
@@ -134,22 +134,22 @@ keywords: ["שיתוף קבצי itunes", "נגן מוזיקה מקומית", "ה
 
 ## שאלות נפוצות
 
-{{% details title="מהי הדרך המהירה ביותר להעביר מוזיקה לאייפון?" closed="true" %}}
+{{% ls-details title="מהי הדרך המהירה ביותר להעביר מוזיקה לאייפון?" closed="true" %}}
 שיתוף קבצי iTunes/Finder דרך USB הוא השיטה המהירה ביותר לספריות מוזיקה גדולות. להעברות קטנות יותר, WiFi Drive נוח יותר כיוון שאינו דורש כבל.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="האם אני יכול להעביר קבצי FLAC לאייפון שלי?" closed="true" %}}
+{{% ls-details title="האם אני יכול להעביר קבצי FLAC לאייפון שלי?" closed="true" %}}
 כן. גם Evermusic וגם Flacbox מקבלים קבצי FLAC דרך שיתוף קבצי iTunes, WiFi Drive או SMB. Flacbox מומלץ לפורמטים ללא אובדן.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="האם אני צריך את iTunes ב-macOS Catalina או מאוחר יותר?" closed="true" %}}
+{{% ls-details title="האם אני צריך את iTunes ב-macOS Catalina או מאוחר יותר?" closed="true" %}}
 לא. Apple החליפה את iTunes ב-Finder לניהול מכשירים החל מ-macOS Catalina. השתמש בכרטיסיית הקבצים של Finder לשיתוף קבצים.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="האם אני יכול להזרים מוזיקה בלי להעתיק קבצים לאייפון שלי?" closed="true" %}}
+{{% ls-details title="האם אני יכול להזרים מוזיקה בלי להעתיק קבצים לאייפון שלי?" closed="true" %}}
 כן. השתמש בפרוטוקול SMB כדי להזרים מוזיקה ישירות מה-Mac או PC שלך. זה חוסך אחסון במכשיר ושומר את הספרייה שלך במחשב.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="באיזו אפליקציה כדאי להשתמש -- Evermusic או Flacbox?" closed="true" %}}
+{{% ls-details title="באיזו אפליקציה כדאי להשתמש -- Evermusic או Flacbox?" closed="true" %}}
 השתמש ב-Evermusic לפורמטים סטנדרטיים כמו MP3, WAV ו-AAC. בחר ב-Flacbox אם הספרייה שלך כוללת פורמטים ללא אובדן כמו FLAC, DSD או OGG.
-{{% /details %}}
+{{% /ls-details %}}

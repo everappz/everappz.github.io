@@ -55,17 +55,17 @@ Descansa sabent que les teves dades estan segures. Evertag et permet establir un
 En aquesta guia, descobriràs com aprofitar el poder d'Evertag al teu iPhone, iPad i Mac, fent que la teva experiència de gestió musical sigui fluida i agradable.
 
 {{< cards >}}
-  {{< card icon="location-marker" title="Navegació" subtitle="Aprèn a navegar per la nostra aplicació fàcilment utilitzant la barra de pestanyes (per als usuaris d'iPhone) o el menú esquerre (per als usuaris d'iPad i Mac) per accedir i explorar totes les funcions de l'aplicació." link="/docs/guide/evertag/evertag-guide-navigation" >}}
+  {{< ls-card icon="location-marker" title="Navegació" subtitle="Aprèn a navegar per la nostra aplicació fàcilment utilitzant la barra de pestanyes (per als usuaris d'iPhone) o el menú esquerre (per als usuaris d'iPad i Mac) per accedir i explorar totes les funcions de l'aplicació." link="/docs/guide/evertag/evertag-guide-navigation" >}}
 
-  {{< card icon="cloud" title="Connexions" subtitle="Enllaça fàcilment tots els teus comptes al núvol disponibles amb els teus preciats fitxers d'àudio. Fins i tot pots editar els teus fitxers en línia fàcilment utilitzant el nostre gestor de fitxers integrat." link="/docs/guide/evertag/evertag-guide-connections" >}}
+  {{< ls-card icon="cloud" title="Connexions" subtitle="Enllaça fàcilment tots els teus comptes al núvol disponibles amb els teus preciats fitxers d'àudio. Fins i tot pots editar els teus fitxers en línia fàcilment utilitzant el nostre gestor de fitxers integrat." link="/docs/guide/evertag/evertag-guide-connections" >}}
 
-  {{< card icon="folder" title="Fitxers locals" subtitle="Visualitza i organitza els fitxers emmagatzemats a la carpeta de Documents de l'aplicació o al teu dispositiu. Utilitza el gestor de fitxers integrat per editar i gestionar els teus fitxers d'àudio fàcilment." link="/docs/guide/evertag/evertag-guide-local-files" >}}
+  {{< ls-card icon="folder" title="Fitxers locals" subtitle="Visualitza i organitza els fitxers emmagatzemats a la carpeta de Documents de l'aplicació o al teu dispositiu. Utilitza el gestor de fitxers integrat per editar i gestionar els teus fitxers d'àudio fàcilment." link="/docs/guide/evertag/evertag-guide-local-files" >}}
 
-  {{< card icon="pencil-alt" title="Editor d'etiquetes" subtitle="Domina l'art de la manipulació de metadades de fitxers d'àudio. Descobreix com editar metadades, transformar portades i gestionar múltiples fitxers simultàniament de forma fluida." link="/docs/guide/evertag/evertag-guide-tag-editor" >}}
+  {{< ls-card icon="pencil-alt" title="Editor d'etiquetes" subtitle="Domina l'art de la manipulació de metadades de fitxers d'àudio. Descobreix com editar metadades, transformar portades i gestionar múltiples fitxers simultàniament de forma fluida." link="/docs/guide/evertag/evertag-guide-tag-editor" >}}
 
-  {{< card icon="code" title="Assignació de camps d'etiquetes" subtitle="Explora la llista completa de camps d'etiquetes d'àudio compatibles amb l'aplicació Evertag, incloent noms de camps interns i assignacions entre els principals formats de metadades." link="/docs/guide/evertag/evertag-tag-field-mappings" >}}
+  {{< ls-card icon="code" title="Assignació de camps d'etiquetes" subtitle="Explora la llista completa de camps d'etiquetes d'àudio compatibles amb l'aplicació Evertag, incloent noms de camps interns i assignacions entre els principals formats de metadades." link="/docs/guide/evertag/evertag-tag-field-mappings" >}}
 
-  {{< card icon="adjustments" title="Configuració" subtitle="Descobreix com personalitzar la teva experiència amb l'aplicació, ajustar el rendiment, gestionar l'ús de dades i adaptar les preferències d'idioma i interfície d'usuari al teu gust." link="/docs/guide/evertag/evertag-guide-settings" >}}
+  {{< ls-card icon="adjustments" title="Configuració" subtitle="Descobreix com personalitzar la teva experiència amb l'aplicació, ajustar el rendiment, gestionar l'ús de dades i adaptar les preferències d'idioma i interfície d'usuari al teu gust." link="/docs/guide/evertag/evertag-guide-settings" >}}
 
-  {{< card icon="question-mark-circle" title="Preguntes freqüents" subtitle="Troba respostes ràpides a les preguntes habituals a la nostra secció de preguntes freqüents." link="/docs/faq/evertag" >}}
+  {{< ls-card icon="question-mark-circle" title="Preguntes freqüents" subtitle="Troba respostes ràpides a les preguntes habituals a la nostra secció de preguntes freqüents." link="/docs/faq/evertag" >}}
 {{< /cards >}}

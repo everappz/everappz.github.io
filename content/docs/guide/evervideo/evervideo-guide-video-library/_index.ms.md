@@ -20,7 +20,7 @@ readingTime: 8
 Anda mempunyai dua cara untuk menambah media ke perpustakaan anda: **penambahan manual** (anda memilih tepat apa yang ditambah) atau **penyegerakan automatik** (Evervideo mengimbas folder awan yang ditetapkan dan menambah fail baru secara automatik apabila ia muncul).
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evervideo Perpustakaan Media" image="/docs/guide/evervideo/img/evervideo-genres-in-media-library.webp" >}}
+  {{< ls-card title="" subtitle="Evervideo Perpustakaan Media" image="/docs/guide/evervideo/img/evervideo-genres-in-media-library.webp" >}}
 {{< /cards >}}
 
 ## Penambahan Manual
@@ -91,7 +91,7 @@ Jika anda tidak melihat semua tajuk anda, pastikan apl telah mengimbas setiap fa
 Bahagian ini memaparkan semua video yang baru-baru ini dimainkan dengan kedudukan main balik terakhir, supaya anda boleh meneruskan mana-mana daripadanya dengan satu ketukan. Anda boleh mengubah berapa banyak entri yang disimpan dalam senarai dalam Tetapan → Perpustakaan Media → Terkini → Tukar Saiz Senarai, dan eksport senarai ke M3U / CSV / TXT untuk menyandarkan sejarah tontonan anda.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evervideo Terkini — Video yang Baru-baru Ini Ditonton" image="/docs/guide/evervideo/img/evervideo-recents.webp" >}}
+  {{< ls-card title="" subtitle="Evervideo Terkini — Video yang Baru-baru Ini Ditonton" image="/docs/guide/evervideo/img/evervideo-recents.webp" >}}
 {{< /cards >}}
 
 ## Kegemaran
@@ -103,7 +103,7 @@ Tandakan video sebagai kegemaran pada skrin pemain atau melalui menu pilihan. Ke
 Evervideo menjejak kedudukan main balik setiap video yang anda tonton. Setiap video dalam mana-mana senarai — Terkini, Kegemaran, sebuah album, genre, senarai main, folder — memaparkan bar kemajuan kecil supaya anda dapat melihat dengan sekilas berapa banyak yang sudah anda tonton. Ini menjadikan musim rancangan TV yang panjang, senarai main kursus, dan malam marathon mudah diurus.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evervideo Butiran Genre dengan Kemajuan Tontonan Per Fail" image="/docs/guide/evervideo/img/evervideo-genre-detail-with-playback-progress-for-watched-files.webp" >}}
+  {{< ls-card title="" subtitle="Evervideo Butiran Genre dengan Kemajuan Tontonan Per Fail" image="/docs/guide/evervideo/img/evervideo-genre-detail-with-playback-progress-for-watched-files.webp" >}}
 {{< /cards >}}
 
 ## Bar Alat Atas
@@ -115,7 +115,7 @@ Terletak tepat di bawah bar navigasi, bar alat atas menawarkan beberapa tindakan
 Ciri carian memperkasakan anda untuk mencari tajuk, album, genre, atau senarai main tertentu dalam perpustakaan media anda. Dalam skrin Cari, anda mempunyai akses kepada tindakan Isih, Tapis, dan pandangan Grid / Senarai. Carian berjalan secara tempatan terhadap pangkalan data perpustakaan media, jadi ia berfungsi sepenuhnya luar talian dan mengembalikan hasil semasa anda menaip.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evervideo Carian Perpustakaan Media" image="/docs/guide/evervideo/img/evervideo-library-search.webp" >}}
+  {{< ls-card title="" subtitle="Evervideo Carian Perpustakaan Media" image="/docs/guide/evervideo/img/evervideo-library-search.webp" >}}
 {{< /cards >}}
 
 ## Menu Pilihan

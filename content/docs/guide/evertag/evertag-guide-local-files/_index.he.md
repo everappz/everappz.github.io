@@ -18,7 +18,7 @@ readingTime: 6
 מנהל קבצים מובנה זה מאפשר לכם לערוך קבצים ומציע שיטות שונות לייבוא קבצי אודיו לאפליקציה. קבצים שפתחתם לאחרונה מופיעים אוטומטית בכרטיסיית **עדכונים אחרונים** והפריטים שסימנתם בכוכב מופיעים תחת **מועדפים**, כך שתוכלו לקפוץ ישירות לקבצים שאיתם אתם עובדים הכי הרבה מבלי לחזור למסך זה.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="מסך הורדות Evertag" image="/docs/guide/evertag/img/downloads.webp" >}}
+  {{< ls-card title="" subtitle="מסך הורדות Evertag" image="/docs/guide/evertag/img/downloads.webp" >}}
 {{< /cards >}}
 
 ## הורדת קבצים מאחסון בענן
@@ -74,7 +74,7 @@ readingTime: 6
 מציג קבצים הנמצאים במכשיר שלכם אך באפליקציות שונות. ניתן לייבא אותם לאפליקציה זו באמצעות בורר הקבצים של המערכת. כדי להפעיל את הבורר, בחרו "פתח קבצים..." כדי לבחור קבצים או "פתח תיקיות..." כדי לבחור תיקיות. הוראות מפורטות כיצד לייבא מוזיקה מקומית המאוחסנת ב-iPhone או Mac שלכם זמינות [כאן](/docs/howto/how-to-play-local-music-stored-on-your-iphone-or-mac). ניתן גם לחבר תיקייה הנמצאת במכשיר שלכם ולקבל גישה מהירה לתוכן התיקייה. השתמשו בפריט התפריט "חבר תיקייה" ובחרו תיקייה הנמצאת במכשיר שלכם. הקישו על "בוצע" והאפליקציה תיצור קישור לתיקייה זו עם גישת קריאה/כתיבה, ומאפשרת לכם לנהל קבצים ישירות מאפליקציה זו. כדי לנתק תיקייה הנמצאת במכשיר שלכם, הקישו על כפתור "עוד פעולות" ובחרו "נתק".
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="ייבוא קבצים מהמכשיר שלי ב-Evertag" image="/docs/guide/evertag/img/open-files.webp" >}}
+  {{< ls-card title="" subtitle="ייבוא קבצים מהמכשיר שלי ב-Evertag" image="/docs/guide/evertag/img/open-files.webp" >}}
 {{< /cards >}}
 
 ## ייבוא קבצים הנמצאים בכרטיסי USB מחוברים
@@ -86,7 +86,7 @@ readingTime: 6
 תפריט עוד פעולות עבור התיקייה הפתוחה כרגע ממוקם בפינה הימנית העליונה ומספק גישה לפעולות שונות.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="ייבוא קבצים מהמכשיר שלי ב-Evertag" image="/docs/guide/evertag/img/downloads-current-folder-actions.webp" >}}
+  {{< ls-card title="" subtitle="ייבוא קבצים מהמכשיר שלי ב-Evertag" image="/docs/guide/evertag/img/downloads-current-folder-actions.webp" >}}
 {{< /cards >}}
 
 - **בחר:** עברו למצב בחירה לקבצים ותיקיות.

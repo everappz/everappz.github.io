@@ -7,7 +7,7 @@ tags: ["evermusic", "匯入", "播放列表", "m3u", "cue"]
 readingTime: 3
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **摘要：** Evermusic和Flacbox支援從雲端儲存、本機應用程式檔案或您的裝置匯入M3U、M3U8和CUE播放列表檔案。前往播放列表 > 更多 > 匯入播放列表，選擇來源，選擇檔案，應用程式將自動建立您的播放列表。
@@ -84,22 +84,22 @@ http://mywebdavserver.com/music/track3.mp3
 
 ## 常見問題
 
-{{% details title="Evermusic和Flacbox支援哪些播放列表格式？" closed="true" %}}
+{{% ls-details title="Evermusic和Flacbox支援哪些播放列表格式？" closed="true" %}}
 兩個應用程式都支援M3U、M3U8和CUE播放列表檔案格式。這些涵蓋了音樂播放器和媒體軟體使用的最常見播放列表標準。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="我可以從雲端儲存匯入播放列表嗎？" closed="true" %}}
+{{% ls-details title="我可以從雲端儲存匯入播放列表嗎？" closed="true" %}}
 可以。您可以從任何已連接的雲端儲存服務匯入播放列表檔案，包括Google Drive、Dropbox、OneDrive和WebDAV伺服器。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="為什麼匯入後有些曲目遺失了？" closed="true" %}}
+{{% ls-details title="為什麼匯入後有些曲目遺失了？" closed="true" %}}
 播放列表檔案必須包含指向您媒體檔案的正確路徑，並且這些檔案必須存在於儲存中指定的位置。請仔細檢查M3U或CUE檔案中的檔案路徑是否與實際檔案位置相符。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="我可以一次匯入多個播放列表嗎？" closed="true" %}}
+{{% ls-details title="我可以一次匯入多個播放列表嗎？" closed="true" %}}
 可以。使用更多操作按鈕並選擇「從資料夾匯入播放列表」。應用程式會掃描資料夾中所有支援的播放列表檔案並一步匯入。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="我需要手動建立播放列表嗎？" closed="true" %}}
+{{% ls-details title="我需要手動建立播放列表嗎？" closed="true" %}}
 不需要。匯入功能消除了手動建立播放列表的需要。只需將應用程式指向您現有的M3U、M3U8或CUE檔案，它就會自動建立播放列表。
-{{% /details %}}
+{{% /ls-details %}}

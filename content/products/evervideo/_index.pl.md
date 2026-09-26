@@ -16,16 +16,16 @@ screenshots:
   - "https://everappz.com/products/evervideo/screenshots/2880x1800/6.png"
 ---
 
-{{% sr-only %}}
+{{% ls-sr-only %}}
 Evervideo to darmowy odtwarzacz wideo HD na iPhone'a i Maca, opracowany przez Everappz, hiszpańską firmę programistyczną. Evervideo odtwarza praktycznie każdy format wideo, w tym MKV, AVI, MP4, MOV, FLV, WMV, WEBM, M4V, TS i 3GP bez konieczności konwersji formatów. Aplikacja oferuje odtwarzanie wideo 360 stopni i VR, tryb Picture-in-Picture, korektor wideo i dźwięku z ponad 50 ustawieniami wstępnymi, obsługę napisów w formatach SRT, SSA i ASS oraz regulację szybkości odtwarzania. Evervideo łączy się z usługami przechowywania w chmurze, w tym iCloud Drive, Google Drive, Dropbox, OneDrive i MEGA, umożliwiając użytkownikom strumieniowanie filmów bezpośrednio z chmury lub pobieranie ich do oglądania offline. Aplikacja obsługuje również strumieniowanie w sieci lokalnej przez protokoły SMB, WebDAV i DLNA, odtwarzanie z pamięci USB flash za pomocą adapterów Lightning lub USB-C oraz przesyłanie plików przez Wi-Fi z komputera. Dodatkowe funkcje obejmują bibliotekę multimediów z listami odtwarzania, przesyłanie przez AirPlay i Chromecast oraz wbudowany menedżer plików. Evervideo jest dostępny do bezpłatnego pobrania w App Store z opcjonalnymi zakupami w aplikacji obejmującymi subskrypcję miesięczną za $2.99, subskrypcję roczną za $14.99 lub jednorazowy zakup dożywotni za $29.99.
-{{% /sr-only %}}
+{{% /ls-sr-only %}}
 
 
 
 <!-- force dark theme for this page -->
-{{< force-dark >}}
+{{< ls-force-dark >}}
 
-{{< hextra/hero-container
+{{< ls-hero-container
   image="/products/evervideo/heroimage/hero_1600.png"
   imageWidth="800"
   imageCard="true"
@@ -33,38 +33,38 @@ Evervideo to darmowy odtwarzacz wideo HD na iPhone'a i Maca, opracowany przez Ev
 
 <div class="hx:w-full hx:text-center">
 
-{{< downloads-badge >}}
+{{< ls-downloads-badge >}}
 
 <div class="hx:mt-6 hx:mb-6">
 <div class="hx:flex hx:gap-4 hx:items-center hx:justify-center">
-{{< app-icon src="/images/app_icons/png/Evervideo_Icon-App-1024x1024.png" alt="Evervideo Icon" class="hero-headline-icon" size="80" >}}
-{{< hextra/hero-headline >}}
+{{< ls-app-icon src="/images/app_icons/png/Evervideo_Icon-App-1024x1024.png" alt="Evervideo Icon" class="hero-headline-icon" size="80" >}}
+{{< ls-hero-headline >}}
 Evervideo
-{{< /hextra/hero-headline >}}
+{{< /ls-hero-headline >}}
 </div>
 </div>
 
 <div class="hx:mb-12">
-{{< hextra/hero-centered-subtitle >}}
+{{< ls-hero-centered-subtitle >}}
 <strong>Odtwarzacz i streamer wideo HD na Twojego iPhone'a i MAC-a</strong>
-{{< /hextra/hero-centered-subtitle >}}
+{{< /ls-hero-centered-subtitle >}}
 </div>
 
 
 <div class="hx:mb-6">
-{{< hextra/hero-paragraph >}}
+{{< ls-hero-paragraph >}}
 • Oglądaj filmy 360° i w wysokiej rozdzielczości we wszystkich formatach<br>
 • Streamuj z iCloud, Google Drive, Dropbox, NAS lub komputera<br>
 • Pobieraj filmy, aby oglądać offline w dowolnym czasie i miejscu<br>
 • Włączaj napisy, korzystaj z korektora wideo i organizuj filmy za pomocą playlist
-{{< /hextra/hero-paragraph >}}
+{{< /ls-hero-paragraph >}}
 </div>
 
-{{< app-store-badges products="evervideo:ios, evervideo:macos" >}}
+{{< ls-app-store-badges products="evervideo:ios, evervideo:macos" >}}
 
 </div>
 
-{{< /hextra/hero-container >}}
+{{< /ls-hero-container >}}
 
 <div class="hx:mt-6"></div>
 
@@ -72,42 +72,42 @@ Evervideo
 
 {{< hextra/feature-grid >}}
 
-  {{< hextra/feature-card
+  {{< ls-glass-feature-card
     title="Odtwarzaj wszystkie formaty wideo i audio"
     subtitle=`Oglądaj filmy i słuchaj muzyki bez konwertowania plików. Obsługuje MP4, MOV, MKV, AVI, FLV, WMV, WEBM, M4V, MP3, FLAC, AAC, ALAC, OGG, OPUS, WAV, WMA i wiele więcej.`
     icon="film"
     style="background: radial-gradient(circle at 50% 80%, rgba(255,99,71,0.15), rgba(17,24,39,0));"  
   >}}
 
-  {{< hextra/feature-card
+  {{< ls-glass-feature-card
     title="Biblioteka mediów i playlisty"
     subtitle=`Organizuj bibliotekę mediów z utworami pogrupowanymi według albumu, gatunku lub czasu trwania. Automatyczna synchronizacja ze zmianami w chmurze. Twórz, edytuj i eksportuj playlisty M3U z niestandardowym sortowaniem.`
     icon="collection"
     style="background: radial-gradient(circle at 50% 80%, rgba(255,165,0,0.15), rgba(17,24,39,0));"  
   >}}
 
-  {{< hextra/feature-card
+  {{< ls-glass-feature-card
     title="Korektor audio i wideo"
     subtitle=`Dostosuj wygląd i brzmienie swoich filmów, regulując basy, tonację, jasność, gammę, nasycenie, kontrast i wiele więcej, z ponad 50 presetami wideo i ponad 20 presetami audio lub możliwością tworzenia własnych.`
     icon="adjustments"
     style="background: radial-gradient(circle at 50% 80%, rgba(255,255,0,0.15), rgba(17,24,39,0));" 
   >}}
 
-  {{< hextra/feature-card
+  {{< ls-glass-feature-card
     title="Obraz w obrazie"
     subtitle=`Obraz w obrazie (PiP) pozwala kontynuować oglądanie filmów w małym pływającym oknie podczas korzystania z innych aplikacji, z pełną obsługą wszystkich głównych formatów jak MKV, AVI, MP4 i MOV, płynnymi przejściami wideo w kolejce, automatycznymi aktualizacjami odtwarzania i zawsze widocznymi aktywnymi napisami.`
     icon="duplicate"
     style="background: radial-gradient(circle at 50% 80%, rgba(0,128,0,0.15), rgba(17,24,39,0));" 
   >}}
 
-  {{< hextra/feature-card
+  {{< ls-glass-feature-card
     title="Wideo 360° i tryb VR"
     subtitle=`Doświadcz filmów 360° i VR jak nigdy wcześniej — poruszaj telefonem, aby eksplorować każdy kąt, lub zanurz się w pełni za pomocą zestawu VR dla totalnej immersji. Natychmiast odtwarzaj filmy 360° z kamer Insta360 i podobnych urządzeń z płynnym, bezproblemowym odtwarzaniem bez konieczności konfiguracji.`
     icon="video-camera"
     style="background: radial-gradient(circle at 50% 80%, rgba(0,191,255,0.15), rgba(17,24,39,0));"  
   >}}
 
-  {{< hextra/feature-card
+  {{< ls-glass-feature-card
     title="Płynne streamowanie i łączność z chmurą"
     subtitle=`Streamuj filmy bezpośrednio z Mac, PC, NAS, pendrive'a USB lub chmury i przesyłaj pliki multimedialne za pomocą Wi-Fi Drive lub Udostępniania plików iTunes. Ciesz się pełnym dostępem do całej biblioteki wideo w dowolnym miejscu, nawet zdalnie, przez Synology Drive, WD My Cloud Home i podobne urządzenia NAS.`
     icon="cloud"
@@ -120,9 +120,9 @@ Evervideo
 
 <div class="hx:mt-6"></div>
 
-{{< hextra/section-headline >}}
+{{< ls-section-headline >}}
 Wszystkie funkcje
-{{< /hextra/section-headline >}}
+{{< /ls-section-headline >}}
 
 <div class="hx:mt-6"></div>
 
@@ -130,35 +130,35 @@ Wszystkie funkcje
 
 {{< cards >}}
 
-{{< feature-card title="Odtwarzaj wszystkie formaty wideo i audio" subtitle="Oglądaj media bez konwertowania plików. Evervideo obsługuje wszystkie główne formaty, w tym MKV, AVI, MP4, MOV, FLAC, MP3, AAC, OGG, WAV, WMV i wiele więcej." icon="film">}}
+{{< ls-feature-card title="Odtwarzaj wszystkie formaty wideo i audio" subtitle="Oglądaj media bez konwertowania plików. Evervideo obsługuje wszystkie główne formaty, w tym MKV, AVI, MP4, MOV, FLAC, MP3, AAC, OGG, WAV, WMV i wiele więcej." icon="film">}}
 
-{{< feature-card title="Tryb offline" subtitle="Pobieraj filmy, albumy i playlisty, aby oglądać bez połączenia z internetem. Zabierz całą kolekcję wideo w dowolne miejsce." icon="download">}}
+{{< ls-feature-card title="Tryb offline" subtitle="Pobieraj filmy, albumy i playlisty, aby oglądać bez połączenia z internetem. Zabierz całą kolekcję wideo w dowolne miejsce." icon="download">}}
 
-{{< feature-card title="Wideo 360° i tryb VR" subtitle="Oglądaj filmy 360° i VR w zabawny i łatwy sposób. Poruszaj telefonem, aby rozglądać się w każdym kierunku, lub włóż go do zestawu VR, aby poczuć się jak wewnątrz filmu." icon="video-camera">}}
+{{< ls-feature-card title="Wideo 360° i tryb VR" subtitle="Oglądaj filmy 360° i VR w zabawny i łatwy sposób. Poruszaj telefonem, aby rozglądać się w każdym kierunku, lub włóż go do zestawu VR, aby poczuć się jak wewnątrz filmu." icon="video-camera">}}
 
-{{< feature-card title="Obraz w obrazie" subtitle="Kontynuuj oglądanie filmów w małym pływającym oknie podczas korzystania z innych aplikacji. Kontroluj odtwarzanie i oglądaj napisy jednocześnie – idealne do wielozadaniowości." icon="duplicate">}}
+{{< ls-feature-card title="Obraz w obrazie" subtitle="Kontynuuj oglądanie filmów w małym pływającym oknie podczas korzystania z innych aplikacji. Kontroluj odtwarzanie i oglądaj napisy jednocześnie – idealne do wielozadaniowości." icon="duplicate">}}
 
-{{< feature-card title="Korektor wideo i audio" subtitle="Dostosuj wygląd i brzmienie swoich filmów. Reguluj basy, tonację, jasność, gammę, nasycenie, kontrast i wiele więcej. Wybierz z ponad 50 presetów wideo i ponad 20 presetów audio lub utwórz własne." icon="adjustments">}}
+{{< ls-feature-card title="Korektor wideo i audio" subtitle="Dostosuj wygląd i brzmienie swoich filmów. Reguluj basy, tonację, jasność, gammę, nasycenie, kontrast i wiele więcej. Wybierz z ponad 50 presetów wideo i ponad 20 presetów audio lub utwórz własne." icon="adjustments">}}
 
-{{< feature-card title="Napisy" subtitle="Przeglądaj wbudowane napisy, wybieraj numer ścieżki napisów i korzystaj z pełnej obsługi napisów nawet w trybie Obraz w obrazie." icon="annotation" >}}
+{{< ls-feature-card title="Napisy" subtitle="Przeglądaj wbudowane napisy, wybieraj numer ścieżki napisów i korzystaj z pełnej obsługi napisów nawet w trybie Obraz w obrazie." icon="annotation" >}}
 
-{{< feature-card title="Odtwarzaj bezpośrednio z chmury" subtitle="Oglądaj filmy bezpośrednio z chmury bez wykorzystywania przestrzeni na urządzeniu. Obsługuje iCloud Drive, Google Drive, Dropbox, OneDrive, MEGA, Synology Drive, pCloud i wiele więcej." icon="cloud">}}
+{{< ls-feature-card title="Odtwarzaj bezpośrednio z chmury" subtitle="Oglądaj filmy bezpośrednio z chmury bez wykorzystywania przestrzeni na urządzeniu. Obsługuje iCloud Drive, Google Drive, Dropbox, OneDrive, MEGA, Synology Drive, pCloud i wiele więcej." icon="cloud">}}
 
-{{< feature-card title="Połącz komputer / NAS" subtitle="Łatwo połącz NAS, Mac lub PC przez sieć domową za pomocą SMB, WebDAV lub DLNA. Dostęp zdalny jest obsługiwany dla Synology Drive i WD MyCloud Home. Przesyłaj pliki multimedialne na urządzenie przez Wi-Fi lub Udostępnianie plików iTunes." icon="desktop-computer">}}
+{{< ls-feature-card title="Połącz komputer / NAS" subtitle="Łatwo połącz NAS, Mac lub PC przez sieć domową za pomocą SMB, WebDAV lub DLNA. Dostęp zdalny jest obsługiwany dla Synology Drive i WD MyCloud Home. Przesyłaj pliki multimedialne na urządzenie przez Wi-Fi lub Udostępnianie plików iTunes." icon="desktop-computer">}}
 
-{{< feature-card title="Biblioteka mediów" subtitle="Organizuj według albumu, gatunku lub czasu trwania. Automatyczna synchronizacja ze zmianami w chmurze. Twórz, edytuj i eksportuj playlisty M3U z niestandardowym sortowaniem." icon="library" >}}
+{{< ls-feature-card title="Biblioteka mediów" subtitle="Organizuj według albumu, gatunku lub czasu trwania. Automatyczna synchronizacja ze zmianami w chmurze. Twórz, edytuj i eksportuj playlisty M3U z niestandardowym sortowaniem." icon="library" >}}
 
-{{< feature-card title="Zakładki i zapisywanie pozycji odtwarzania" subtitle="Zapisuj swoje miejsce w dowolnym filmie za pomocą zakładek i wznawiaj odtwarzanie od miejsca, w którym skończyłeś. Dostosowuj prędkość odtwarzania, oznaczaj ulubione i sortuj filmy według najczęściej odtwarzanych dla łatwego dostępu." icon="book-open">}}
+{{< ls-feature-card title="Zakładki i zapisywanie pozycji odtwarzania" subtitle="Zapisuj swoje miejsce w dowolnym filmie za pomocą zakładek i wznawiaj odtwarzanie od miejsca, w którym skończyłeś. Dostosowuj prędkość odtwarzania, oznaczaj ulubione i sortuj filmy według najczęściej odtwarzanych dla łatwego dostępu." icon="book-open">}}
 
-{{< feature-card title="AirPlay i Chromecast" subtitle="Odtwarzaj filmy na większym ekranie, przesyłając strumieniowo do Apple TV, Chromecast lub dowolnego kompatybilnego wyświetlacza zewnętrznego." icon="device-mobile">}}
+{{< ls-feature-card title="AirPlay i Chromecast" subtitle="Odtwarzaj filmy na większym ekranie, przesyłając strumieniowo do Apple TV, Chromecast lub dowolnego kompatybilnego wyświetlacza zewnętrznego." icon="device-mobile">}}
 
-{{< feature-card title="Importuj z Plików i Bibliotek" subtitle="Importuj filmy bezpośrednio z aplikacji Pliki, Zdjęcia lub biblioteki iTunes. Uzyskaj dostęp do całej zawartości lokalnej i w chmurze w jednej zorganizowanej bibliotece mediów." icon="database">}}
+{{< ls-feature-card title="Importuj z Plików i Bibliotek" subtitle="Importuj filmy bezpośrednio z aplikacji Pliki, Zdjęcia lub biblioteki iTunes. Uzyskaj dostęp do całej zawartości lokalnej i w chmurze w jednej zorganizowanej bibliotece mediów." icon="database">}}
 
-{{< feature-card title="Menedżer plików" subtitle="Przenoś, zmieniaj nazwy, usuwaj i organizuj pliki bezpośrednio w aplikacji." icon="folder">}}
+{{< ls-feature-card title="Menedżer plików" subtitle="Przenoś, zmieniaj nazwy, usuwaj i organizuj pliki bezpośrednio w aplikacji." icon="folder">}}
 
-{{< feature-card title="Personalizacja" subtitle="Dostosuj aplikację do swoich preferencji. Wybieraj motywy, pokazuj lub ukrywaj funkcje i dostosowuj interfejs do swoich potrzeb." icon="sun">}}
+{{< ls-feature-card title="Personalizacja" subtitle="Dostosuj aplikację do swoich preferencji. Wybieraj motywy, pokazuj lub ukrywaj funkcje i dostosowuj interfejs do swoich potrzeb." icon="sun">}}
 
-{{< feature-card title="Inteligentne wyszukiwanie" subtitle="Szybko znajdź filmy, albumy lub playlisty w bibliotece mediów za pomocą słów kluczowych lub filtrów." icon="search" >}}
+{{< ls-feature-card title="Inteligentne wyszukiwanie" subtitle="Szybko znajdź filmy, albumy lub playlisty w bibliotece mediów za pomocą słów kluczowych lub filtrów." icon="search" >}}
 
 
 
@@ -168,9 +168,9 @@ Wszystkie funkcje
 
 <div class="hx:mt-6"></div>
 
-{{< hextra/section-headline >}}
+{{< ls-section-headline >}}
 Intuicyjny design
-{{< /hextra/section-headline >}}
+{{< /ls-section-headline >}}
 
 <div class="hx:mt-6"></div>
 
@@ -178,7 +178,7 @@ Intuicyjny design
 
 {{< cards cols="4">}}
 
-  {{< design-feature-card 
+  {{< ls-design-feature-card 
     image="/products/evervideo/screenshots/2880x1800/1.png" 
     title="Odtwarzacz wideo" 
     method="Fill"
@@ -187,7 +187,7 @@ Intuicyjny design
     icon="play"
   >}}
 
-  {{< design-feature-card 
+  {{< ls-design-feature-card 
     image="/products/evervideo/screenshots/2880x1800/3.png" 
     title="Korektor audio i wideo" 
     method="Fill"
@@ -196,7 +196,7 @@ Intuicyjny design
     icon="adjustments"
   >}}
 
-  {{< design-feature-card 
+  {{< ls-design-feature-card 
     image="/products/evervideo/screenshots/2880x1800/6.png" 
     title="Menedżer playlist" 
     method="Fill"
@@ -205,7 +205,7 @@ Intuicyjny design
     icon="collection"
   >}}
 
-  {{< design-feature-card 
+  {{< ls-design-feature-card 
     image="/products/evervideo/screenshots/2880x1800/5.png" 
     title="Biblioteka mediów" 
     method="Fill"
@@ -214,7 +214,7 @@ Intuicyjny design
     icon="library"
   >}}
 
-  {{< design-feature-card 
+  {{< ls-design-feature-card 
     image="/products/evervideo/screenshots/2880x1800/7.png"  
     title="Chmura" 
     method="Fill"
@@ -223,7 +223,7 @@ Intuicyjny design
     icon="cloud"
   >}}
 
-  {{< design-feature-card 
+  {{< ls-design-feature-card 
     image="/products/evervideo/screenshots/2880x1800/9.png"  
     title="Menedżer plików" 
     method="Fill"
@@ -241,49 +241,49 @@ Intuicyjny design
 <div class="hx:mt-6"></div>
 
 <div class="hx:w-full">
-{{< appstore-reviews apps="6602897336,6743504109" stars="5,4"  app="Evervideo" >}}
+{{< ls-appstore-reviews apps="6602897336,6743504109" stars="5,4"  app="Evervideo" >}}
 </div>
 
 
 <div class="hx:mt-6"></div>
 
-{{< hextra/section-headline >}}
+{{< ls-section-headline >}}
    Plany cenowe
-{{< /hextra/section-headline >}}
+{{< /ls-section-headline >}}
 
 <div class="hx:mt-6"></div>
 
 <div class="hx:w-full">
 
-{{< pricing-plans >}}
+{{< ls-pricing-plans >}}
 
 </div>
 
 <div class="hx:mt-6"></div>
 
 <div class="hx:w-full hx:mx-auto hx:flex hx:flex-col hx:items-center">
-  {{< hextra/info-paragraph border="true" >}}
+  {{< ls-info-paragraph border="true" >}}
    <strong>Chmura Rodzinna</strong>: Wszystkie zakupy i subskrypcje obsługują Chmurę Rodzinną, umożliwiając udostępnianie dostępu Premium rodzinie.<br><strong>Uniwersalny dostęp</strong>: Plany dożywotnie i subskrypcyjne są współdzielone między urządzeniami iOS i Mac za pomocą synchronizacji iCloud.<br><strong>Ceny</strong>: Ceny podane są w dolarach amerykańskich dla Stanów Zjednoczonych. Ostateczna cena może się różnić w zależności od regionu.  
-  {{< /hextra/info-paragraph >}}
+  {{< /ls-info-paragraph >}}
 </div>
 
 <div class="hx:mt-6"></div>
 
 <div class="hx:w-full">
-{{< app-details heading="true" >}}
+{{< ls-app-details heading="true" >}}
 </div>
 
 <div class="hx:mt-6"></div>
 
-{{< hextra/section-headline >}}
+{{< ls-section-headline >}}
    Najczęściej zadawane pytania
-{{< /hextra/section-headline >}}
+{{< /ls-section-headline >}}
 
 <div class="hx:mt-6"></div>
 
 <div class="hx:w-full">
 
-{{% details title="Jak działa Evervideo?" closed="true" %}}
+{{% ls-details title="Jak działa Evervideo?" closed="true" %}}
 Evervideo to odtwarzacz wideo HD, który pozwala zarządzać ścieżkami wideo jak zwykłymi plikami.<br>
 Możesz przesłać całą kolekcję wideo do usług chmurowych, takich jak Dropbox, OneDrive, iCloud lub osobisty NAS, i odtwarzać wideo bezpośrednio z chmury z pełną kontrolą.<br><br>
 Synchronizacja z iTunes nie jest potrzebna — po prostu prześlij z komputera PC lub Mac jak z każdym plikiem.<br>
@@ -293,9 +293,9 @@ Zapoznaj się z naszymi poradnikami, aby uzyskać więcej informacji:<br>
 - [Przewodnik Evervideo](/docs/guide/evervideo/)<br>
 - [Jak bezprzewodowo przesyłać pliki z komputera na iPhone za pomocą WiFi-Drive.](/docs/howto/how-to-transfer-files-wirelessly-from-a-computer-to-an-iphone-using-wifi-drive)<br>
 
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Czy Evervideo jest darmowy?" closed="true" %}}
+{{% ls-details title="Czy Evervideo jest darmowy?" closed="true" %}}
 Evervideo jest darmowy z pewnymi ograniczeniami, które można usunąć, uaktualniając do wersji Premium.<br>
 Możesz wybrać między jednorazowym zakupem dożywotnim lub dwiema opcjami subskrypcji (miesięczną lub roczną). Ceny mogą się różnić w zależności od regionu.<br><br>
 
@@ -304,9 +304,9 @@ Chmura Rodzinna jest włączona dla wszystkich planów, więc możesz udostępni
 Zakupy i subskrypcje Premium są współdzielone między iOS i Mac przez iCloud. Aby zsynchronizować zakup, upewnij się, że iCloud jest włączony, otwórz aplikację na urządzeniu iOS i poczekaj chwilę na zakończenie synchronizacji.<br><br>
 
 [Przeczytaj więcej o różnicach między Evervideo a Evervideo Premium](/docs/faq/evervideo/what-is-the-difference-between-evervideo-and-evervideo-premium/)
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Jak korzystać z Evervideo?" closed="true" %}}
+{{% ls-details title="Jak korzystać z Evervideo?" closed="true" %}}
 
 **Zainstaluj Evervideo**<br>
 Pobierz i zainstaluj aplikację Evervideo ze sklepu z aplikacjami na swoim urządzeniu. Jest dostępna zarówno na urządzenia iOS, jak i Mac.<br><br>
@@ -355,9 +355,9 @@ Masz dwie opcje dodawania wideo do Evervideo: ręczne dodawanie lub automatyczna
 **Ciesz się swoim wideo**<br>
 Po zorganizowaniu wideo użyj górnego paska narzędzi do szybkich działań, takich jak **Wyszukiwanie**, **Odtwórz wszystko**, **Losowo** i **Kontynuuj odtwarzanie**.<br><br>
 
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Czy Evervideo jest bezpieczny?" closed="true" %}}
+{{% ls-details title="Czy Evervideo jest bezpieczny?" closed="true" %}}
 Evervideo używa wyłącznie oficjalnego SDK i bezpiecznych połączeń do interakcji z połączonymi usługami chmurowymi. Twój login i hasło nie są dostępne dla aplikacji. Wszystkie żądania z aplikacji do usługi chmurowej są szyfrowane.<br>
 Po wprowadzeniu loginu i hasła aplikacja wyświetla oficjalną stronę autoryzacji dostarczaną przez dostawcę usługi chmurowej, a cały proces autoryzacji odbywa się poza aplikacją. Dostawca usługi chmurowej wysyła token autoryzacji do aplikacji po pomyślnej autoryzacji, a ten token jest używany do wykonywania wywołań API.<br><br>
 
@@ -368,22 +368,22 @@ Aby odrzucić token autoryzacji, zaloguj się na swoje konto w przeglądarce int
 
 Możesz również odłączyć połączone konta chmurowe w aplikacji, a token autoryzacji zostanie również usunięty z urządzenia. Jeśli usuniesz aplikację z urządzenia, wszystkie pobrane dane i tokeny dostępu zostaną również usunięte.<br><br>
 
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Jak utworzyć playlistę w Evervideo?" closed="true" %}}
+{{% ls-details title="Jak utworzyć playlistę w Evervideo?" closed="true" %}}
 - Otwórz sekcję Playlisty.<br>
 - Dotknij przycisku "+" lub przycisku "..." w prawym górnym rogu i wybierz "Nowa playlista."<br>
 - Wprowadź nazwę playlisty i dotknij "Zapisz." Pojawi się okno dialogowe "Dodaj pliki multimedialne".<br>
 - Wybierz utwory, które chcesz dodać do playlisty.<br><br>
 
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Jakie usługi chmurowe obsługuje Evervideo?" closed="true" %}}
+{{% ls-details title="Jakie usługi chmurowe obsługuje Evervideo?" closed="true" %}}
 Obecnie aplikacja obsługuje najpopularniejsze usługi chmurowe: iCloud Drive, Google Drive, Dropbox, OneDrive, Box, MEGA, Yandex.Disk, DLNA, MediaFire, WebDAV, SMB, pCloud, Cloud Mail.ru, Put.io.<br><br>
 
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Jak włączyć tryb offline w Evervideo?" closed="true" %}}
+{{% ls-details title="Jak włączyć tryb offline w Evervideo?" closed="true" %}}
 - Połącz się z chmurą:<br>
  • Przejdź do karty "Pliki".<br>
  • Wybierz "Połącz z chmurą" i postępuj zgodnie z instrukcjami, aby połączyć żądaną usługę.<br><br>
@@ -408,9 +408,9 @@ Obecnie aplikacja obsługuje najpopularniejsze usługi chmurowe: iCloud Drive, G
  • Aby zsynchronizować ręcznie, przejdź do "Ustawienia" > "Menedżer plików" > "Foldery offline" > "Zsynchronizowane foldery offline."<br>
  • Dotknij "Więcej działań" i wybierz "Rozpocznij synchronizację."<br><br>
 
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Jak odtwarzać lokalnie pobrane filmy na iPhone?" closed="true" %}}
+{{% ls-details title="Jak odtwarzać lokalnie pobrane filmy na iPhone?" closed="true" %}}
 Po zainstalowaniu aplikacji otwórz ekran "Pliki" i przewiń w dół do sekcji "Pliki na tym iPhonie". Wybierz "Otwórz pliki...", jeśli chcesz wybrać kilka plików, lub "Otwórz folder...", jeśli chcesz wybrać folder z mediami. Aplikacja przeskanuje zawartość folderu i wszystkie znalezione pliki multimedialne zostaną wybrane. Przejdź do folderu z mediami, dotknij "Otwórz", aby potwierdzić wybór, a pliki zostaną dodane do kolejki odtwarzacza. Pliki te będą odtwarzane bezpośrednio z wybranej lokalizacji bez kopiowania do pakietu aplikacji.<br><br>
 
 **Dodawanie folderu do ulubionych dla szybkiego dostępu**<br>
@@ -422,13 +422,13 @@ Jeśli wolisz organizować pliki lokalne w bibliotece, otwórz ekran "Biblioteka
 **Dodawanie plików lokalnych do playlisty**<br>
 Aby dodać pliki lokalne do playlisty, otwórz ekran "Playlisty" i dotknij przycisku więcej w prawym górnym rogu. Wybierz "+ Nowa playlista", wprowadź nazwę nowej playlisty, a na następnym ekranie wybierz opcję "Pliki na tym urządzeniu" i dotknij "Otwórz pliki...". Wybierz pliki multimedialne, które chcesz dodać, i dotknij "Otwórz", aby potwierdzić. Pliki zostaną dodane do playlisty, w której możesz zmieniać kolejność utworów i wykonywać inne działania za pomocą przycisku więcej.<br><br>
 
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Jak wznowić playlistę od miejsca, w którym skończyłem?" closed="true" %}}
+{{% ls-details title="Jak wznowić playlistę od miejsca, w którym skończyłem?" closed="true" %}}
 Najpierw upewnij się, że opcja "Zapisz stan odtwarzacza mediów" jest włączona w Ustawienia > Odtwarzacz mediów > Ogólne. Gdy przełączysz się na inną playlistę i wrócisz, zobaczysz cztery działania na górnym pasku narzędzi pod okładką albumu: "Wyszukiwanie", "Kontynuuj odtwarzanie", "Odtwórz wszystko" i "Losuj wszystko". Dotknij "Kontynuuj odtwarzanie", aby wznowić playlistę od ostatniego zapisanego stanu i pozycji multimedialnej.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Jak przesłać wideo do Evervideo z komputera?" closed="true" %}}
+{{% ls-details title="Jak przesłać wideo do Evervideo z komputera?" closed="true" %}}
 Możesz połączyć komputer lub osobisty NAS za pomocą protokołów SMB, WebDAV lub DLNA. Alternatywnie możesz użyć Udostępniania plików iTunes do przesyłania plików multimedialnych.<br><br>
 
 Aby połączyć komputer za pomocą protokołu SMB, dotknij "Pliki" "Połącz z chmurą" → SMB. Wprowadź adres IP komputera i nazwę folderu udostępnionego w polu URL w formacie smb://adres-ip-komputera/nazwa-folderu-udostępnionego, wprowadź login i hasło i dotknij "Gotowe". Jeśli połączenie zakończy się pomyślnie, zobaczysz połączone miejsce przechowywania w sekcji "Chmura".<br><br>
@@ -447,9 +447,9 @@ Udostępnianie plików iTunes to kolejna technologia, która pozwala przesyłać
 Szczegółowa instrukcja dostępna tutaj:<br>
 [Jak odtwarzać pliki lokalne (pliki iTunes) na moim iPhone](/docs/howto/how-to-play-local-itunes-files-on-my-iphone)<br><br>
 
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Jak pobrać wideo?" closed="true" %}}
+{{% ls-details title="Jak pobrać wideo?" closed="true" %}}
 Zanim będziesz mógł pobrać wideo i oglądać je offline, musisz połączyć chmurę.<br>
 Po prostu otwórz ekran "Pliki" i połącz swoją chmurę.<br>
 Po dodaniu możesz pobrać wideo z chmury.<br><br>
@@ -465,14 +465,14 @@ Po dodaniu możesz pobrać wideo z chmury.<br><br>
 – Dotknij pola wyboru "Tryb offline"<br>
 – Artysta/Album/Playlista offline pojawi się w sekcji "Pliki" -> "Foldery offline".<br><br>
 
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Jakie formaty audio obsługuje Evervideo?" closed="true" %}}
+{{% ls-details title="Jakie formaty audio obsługuje Evervideo?" closed="true" %}}
 Ta aplikacja obsługuje domyślne **systemowe kodeki audio** oraz dodatkowe **kodeki programowe ffmpeg**:<br><br>
 3g2, 3gp, 3gp2, 3gpp, 8svx, aa, aac, aax, ac3, act, adt, adts, aif, aifc, aiff, alac, amr, amv, ape, asf, au, avi, awb, caf, cavs, cdda, cue, dct, dff, drc, dsf, dss, dvf, "dvr-ms", ec3, f4a, f4b, f4p, f4v, flac, flv, gif, gifv, gsm, gxf, h261, h263, h264, ifv, iklax, ivf, ivs, l16, latm, loas, m2t, m2ts, m2v, m3u, m3u8, m4a, m4b, m4p, m4r, m4v, mka, mkv, mmf, mng, mod, mogg, mov, mp1, mp2, mp3, mp4, mp4v, mpa, mpc, mpe, mpeg, mpg, mpv, msv, mts, mxf, nsf, nsv, nut, oga, ogg, ogv, opus, pcm, pls, qt, ra, raw, rm, rmvb, roq, rv, sln, snd, svi, tod, tta, vob, voc, vox, vtt, w64, wav, wave, webm, wma, wmv, wv, xhe, xmv, y4m, yuv.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Czy Evervideo działa z urządzeniami NAS?" closed="true" %}}
+{{% ls-details title="Czy Evervideo działa z urządzeniami NAS?" closed="true" %}}
 
 Tak, Evervideo obsługuje połączenia NAS za pomocą protokołów **SMB**, **WebDAV** i **DLNA**.<br><br>
 
@@ -496,9 +496,9 @@ Jeśli połączenie zakończy się pomyślnie, zobaczysz swój NAS w sekcji **Ch
 • Wyświetla wszystkie wykrywalne urządzenia NAS w sieci lokalnej.<br>
 • Dotknij nazwy urządzenia, aby się połączyć, a następnie wprowadź dane logowania, jeśli to konieczne.<br><br>
 
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Jak korzystać z funkcji Wi-Fi Drive w Evervideo?" closed="true" %}}
+{{% ls-details title="Jak korzystać z funkcji Wi-Fi Drive w Evervideo?" closed="true" %}}
 
 **Bezprzewodowe przesyłanie za pomocą przeglądarki desktopowej**<br>
 1. Uruchom aplikację: Otwórz Evervideo.<br>
@@ -523,39 +523,39 @@ Uwaga: Upewnij się, że JavaScript jest włączony i używasz najnowszej wersji
 
 [Przeczytaj więcej](/docs/howto/how-to-transfer-files-wirelessly-from-a-computer-to-an-iphone-using-wifi-drive)
 
-{{% /details %}}
+{{% /ls-details %}}
 
 </div>
 
 
 <div class="hx:mt-6"></div>
 
-{{< hextra/section-headline >}}
+{{< ls-section-headline >}}
   Przewodnik użytkownika
-{{< /hextra/section-headline >}}
+{{< /ls-section-headline >}}
 
 <div class="hx:mt-6"></div>
 
 <div class="hx:w-full">
 
 <div class="hx:w-full hx:mx-auto hx:flex hx:flex-col hx:items-center hx:text-center">
-  {{< hextra/info-paragraph border="false" >}}
+  {{< ls-info-paragraph border="false" >}}
   Ten przewodnik pomoże Ci w pełni wykorzystać Evervideo na iPhonie, iPadzie lub Macu. Naucz się przesyłać strumieniowo wideo z pamięci w chmurze i NAS, korzystać z obrazu w obrazie, zarządzać napisami oraz dostrajać korektory audio i wideo. Evervideo daje pełną kontrolę nad całą kolekcją wideo — z dowolnego źródła — w jednej prostej aplikacji.
-  {{< /hextra/info-paragraph >}}
+  {{< /ls-info-paragraph >}}
 </div>
 
 {{< cards >}}
-  {{< feature-card icon="location-marker" title="Nawigacja" subtitle="Naucz się poruszać po Evervideo za pomocą paska kart na iPhonie lub lewego menu na iPadzie i Macu, a także kompaktowego, zawsze widocznego odtwarzacza wideo." link="/docs/guide/evervideo/evervideo-guide-navigation" >}}
+  {{< ls-feature-card icon="location-marker" title="Nawigacja" subtitle="Naucz się poruszać po Evervideo za pomocą paska kart na iPhonie lub lewego menu na iPadzie i Macu, a także kompaktowego, zawsze widocznego odtwarzacza wideo." link="/docs/guide/evervideo/evervideo-guide-navigation" >}}
 
-  {{< feature-card icon="folder" title="Pliki" subtitle="Połącz konta w chmurze, udziały NAS, serwery multimedialne (Plex, Jellyfin, Emby, Subsonic, Navidrome), strumienie RTSP i pliki lokalne w jednej ujednoliconej karcie." link="/docs/guide/evervideo/evervideo-guide-files" >}}
+  {{< ls-feature-card icon="folder" title="Pliki" subtitle="Połącz konta w chmurze, udziały NAS, serwery multimedialne (Plex, Jellyfin, Emby, Subsonic, Navidrome), strumienie RTSP i pliki lokalne w jednej ujednoliconej karcie." link="/docs/guide/evervideo/evervideo-guide-files" >}}
 
-  {{< feature-card icon="library" title="Biblioteka multimediów" subtitle="Organizuj i przeglądaj wideo i muzykę według albumów, gatunków, ostatnio odtwarzanych i ulubionych — w tym bibliotekę Zdjęć iOS i bibliotekę Apple Music." link="/docs/guide/evervideo/evervideo-guide-video-library" >}}
+  {{< ls-feature-card icon="library" title="Biblioteka multimediów" subtitle="Organizuj i przeglądaj wideo i muzykę według albumów, gatunków, ostatnio odtwarzanych i ulubionych — w tym bibliotekę Zdjęć iOS i bibliotekę Apple Music." link="/docs/guide/evervideo/evervideo-guide-video-library" >}}
 
-  {{< feature-card icon="collection" title="Listy odtwarzania" subtitle="Twórz i organizuj listy odtwarzania dla wideo, muzyki, seriali lub kursów oraz importuj pliki M3U / M3U8 / CUE." link="/docs/guide/evervideo/evervideo-guide-playlists" >}}
+  {{< ls-feature-card icon="collection" title="Listy odtwarzania" subtitle="Twórz i organizuj listy odtwarzania dla wideo, muzyki, seriali lub kursów oraz importuj pliki M3U / M3U8 / CUE." link="/docs/guide/evervideo/evervideo-guide-playlists" >}}
 
-  {{< feature-card icon="play" title="Odtwarzacz multimediów" subtitle="Steruj odtwarzaniem, kolejką, obrazem w obrazie, ścieżkami audio i wideo, napisami głównymi i drugorzędnymi oraz korektorami audio i wideo." link="/docs/guide/evervideo/evervideo-guide-player" >}}
+  {{< ls-feature-card icon="play" title="Odtwarzacz multimediów" subtitle="Steruj odtwarzaniem, kolejką, obrazem w obrazie, ścieżkami audio i wideo, napisami głównymi i drugorzędnymi oraz korektorami audio i wideo." link="/docs/guide/evervideo/evervideo-guide-player" >}}
 
-  {{< feature-card icon="adjustments" title="Ustawienia" subtitle="Dostosuj wygląd, dekoder, korektory, napisy, widżety, język, kod dostępu, kopię zapasową i ustawienia wydajności Evervideo." link="/docs/guide/evervideo/evervideo-guide-settings" >}}
+  {{< ls-feature-card icon="adjustments" title="Ustawienia" subtitle="Dostosuj wygląd, dekoder, korektory, napisy, widżety, język, kod dostępu, kopię zapasową i ustawienia wydajności Evervideo." link="/docs/guide/evervideo/evervideo-guide-settings" >}}
 
 {{< /cards >}}
 

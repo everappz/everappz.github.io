@@ -12,7 +12,7 @@ authors:
     image: "/images/about/artem-meleshko-founder-everappz.webp"
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 ## Γιατί να εξαγάγετε άρθρα blog από το Wix;
 
@@ -219,33 +219,33 @@ bash fetch_blog_posts.sh
 Το έργο είναι ανοιχτού κώδικα. Αναφορές σφαλμάτων, προτάσεις χαρακτηριστικών και pull requests είναι ευπρόσδεκτα.
 
 {{< cards cols="1" >}}
-  {{< card link="https://github.com/everappz/wix-blog-export" title="Έργο στο GitHub" icon="github" tag="open source" >}}
+  {{< ls-card link="https://github.com/everappz/wix-blog-export" title="Έργο στο GitHub" icon="github" tag="open source" >}}
 {{< /cards >}}
 
 ---
 
 ## Συχνές ερωτήσεις
 
-{{% details title="Γιατί δεν μπορώ απλά να χρησιμοποιήσω `requests` για scraping άρθρων Wix;" closed="true" %}}
+{{% ls-details title="Γιατί δεν μπορώ απλά να χρησιμοποιήσω `requests` για scraping άρθρων Wix;" closed="true" %}}
 Το Wix αποδίδει περιεχόμενο δυναμικά με JavaScript. Ένα τυπικό HTTP αίτημα επιστρέφει κενό σκελετό σελίδας. Το Selenium εκτελεί headless browser για πλήρως αποδοθέν HTML.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Λειτουργεί με οποιοδήποτε blog Wix;" closed="true" %}}
+{{% ls-details title="Λειτουργεί με οποιοδήποτε blog Wix;" closed="true" %}}
 Ναι. Ο scraper διαβάζει το XML sitemap και επεξεργάζεται κάθε URL. Χρειάζεται μόνο να ενημερώσετε τη μεταβλητή `SITEMAP_URL` στο `parse_blog_sitemap.py`.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Ποιο μοντέλο OpenAI χρησιμοποιεί;" closed="true" %}}
+{{% ls-details title="Ποιο μοντέλο OpenAI χρησιμοποιεί;" closed="true" %}}
 Το script χρησιμοποιεί GPT-4o ως προεπιλογή. Μπορείτε να αλλάξετε τη μεταβλητή `API_MODEL` στο `generate_md.py`.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Μπορώ να το χρησιμοποιήσω για μετάβαση από Wix σε Hugo;" closed="true" %}}
+{{% ls-details title="Μπορώ να το χρησιμοποιήσω για μετάβαση από Wix σε Hugo;" closed="true" %}}
 Ναι. Η έξοδος είναι τυπικό Markdown με τοπικές διαδρομές εικόνων, που λειτουργεί απευθείας με Hugo, Jekyll, Astro και άλλες γεννήτριες στατικών σελίδων.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Πόσο κοστίζει το OpenAI API;" closed="true" %}}
+{{% ls-details title="Πόσο κοστίζει το OpenAI API;" closed="true" %}}
 Το κόστος εξαρτάται από τον αριθμό και το μέγεθος των άρθρων σας. Ένα τυπικό blog με 50 άρθρα κοστίζει λίγα δολάρια με GPT-4o.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Είναι αυτό το εργαλείο ανοιχτού κώδικα;" closed="true" %}}
+{{% ls-details title="Είναι αυτό το εργαλείο ανοιχτού κώδικα;" closed="true" %}}
 Ναι. Ο πλήρης πηγαίος κώδικας είναι διαθέσιμος στο [GitHub](https://github.com/everappz/wix-blog-export).
-{{% /details %}}
+{{% /ls-details %}}

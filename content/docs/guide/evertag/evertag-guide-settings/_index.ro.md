@@ -21,7 +21,7 @@ Pe acest ecran, puteți accesa setările aplicației și o puteți actualiza la 
 - **Legal și confidențialitate** — Termeni, Politică de Confidențialitate, Note Legale, Analize și colectarea datelor
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evertag Settings Screen" image="/docs/guide/evertag/img/settings.webp" >}}
+  {{< ls-card title="" subtitle="Evertag Settings Screen" image="/docs/guide/evertag/img/settings.webp" >}}
 {{< /cards >}}
 
 ## Actualizare la Premium
@@ -63,7 +63,7 @@ Activează ecranul de protecție prin parolă dacă doriți să vă protejați d
 Managerul de fișiere acceptă accesul la conturile de stocare în cloud conectate și oferă operații în lot pentru gestionarea rapidă a mai multor fișiere.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evertag Settings File Manager Screen" image="/docs/guide/evertag/img/settings-file-manager.webp" >}}
+  {{< ls-card title="" subtitle="Evertag Settings File Manager Screen" image="/docs/guide/evertag/img/settings-file-manager.webp" >}}
 {{< /cards >}}
 
 ### Transferuri de fișiere
@@ -103,7 +103,7 @@ Goliți folderul de cache al aplicației pentru a recupera spațiu de stocare.
 În această secțiune, puteți configura editorul de etichete audio integrat.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evertag Settings Tag Editor Screen" image="/docs/guide/evertag/img/settings-tag-editor.webp" >}}
+  {{< ls-card title="" subtitle="Evertag Settings Tag Editor Screen" image="/docs/guide/evertag/img/settings-tag-editor.webp" >}}
 {{< /cards >}}
 
 ### Scalarea copertei albumului
@@ -136,7 +136,7 @@ Alegeți ce acțiuni apar pe ecranul principal al editorului de etichete audio �
 În această secțiune, puteți personaliza setările interfeței de utilizator pentru a se potrivi preferințelor dvs.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evertag Settings Personalization Screen" image="/docs/guide/evertag/img/settings-personalization.webp" >}}
+  {{< ls-card title="" subtitle="Evertag Settings Personalization Screen" image="/docs/guide/evertag/img/settings-personalization.webp" >}}
 {{< /cards >}}
 
 ### Pictograma aplicației

@@ -7,7 +7,7 @@ tags: ["Evermusic", "Efekty audio", "Poradnik", "Pogłos", "Opóźnienie", "Prze
 readingTime: 8
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 **W skrócie:** Evermusic zawiera sześć efektów audio działających w czasie rzeczywistym — **normalizacja głośności, kompresor, pogłos, crossfeed, opóźnienie i przester**. Otwórz je z **menu ⋯ (Więcej) > Efekty audio** w odtwarzaczu lub z **Ustawienia > Odtwarzacz audio > Efekty audio**. Dotknij efektu, włącz jego przełącznik (w prawym górnym rogu), wybierz **preset** i opcjonalnie otwórz **tryb zaawansowany**, aby precyzyjnie dostroić suwaki. Każdy efekt działa niezależnie i stosuje się w czasie rzeczywistym do wszystkiego, co odtwarzasz — plików lokalnych, strumieni z chmury i radia internetowego — bez ponownego kodowania.
 
@@ -162,38 +162,38 @@ Działają też razem z **10-pasmowym korektorem graficznym** Evermusic i jego *
 
 ## Najczęściej zadawane pytania
 
-{{% details title="Jak dodać pogłos, opóźnienie lub inne efekty do mojej muzyki w Evermusic?" closed="true" %}}
+{{% ls-details title="Jak dodać pogłos, opóźnienie lub inne efekty do mojej muzyki w Evermusic?" closed="true" %}}
 Otwórz odtwarzacz, dotknij przycisku ⋯ (Więcej) i wybierz Efekty audio (lub przejdź do Ustawienia > Odtwarzacz audio > Efekty audio). Dotknij żądanego efektu, włącz jego przełącznik w prawym górnym rogu i wybierz preset. Otwórz tryb zaawansowany, aby precyzyjnie dostroić suwaki. Efekt stosuje się natychmiast do tego, co jest odtwarzane.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Jakie efekty audio ma Evermusic?" closed="true" %}}
+{{% ls-details title="Jakie efekty audio ma Evermusic?" closed="true" %}}
 Sześć efektów działających w czasie rzeczywistym: normalizacja głośności (wyrównywanie głośności EBU R128), kompresor (dynamika), pogłos (przestrzeń i ogon echa), crossfeed (naturalne obrazowanie w słuchawkach), opóźnienie (echo) i przester (chropowatość lo-fi). Każdy jest niezależny i można go używać osobno lub w połączeniu.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Czy efekty zmieniają lub uszkadzają moje pliki audio?" closed="true" %}}
+{{% ls-details title="Czy efekty zmieniają lub uszkadzają moje pliki audio?" closed="true" %}}
 Nie. Wszystkie efekty są stosowane w czasie rzeczywistym tylko podczas odtwarzania. Nigdy nie modyfikują ani nie kodują ponownie Twoich plików. Wyłącz efekt, a oryginalny dźwięk wraca natychmiast.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Czy mogę używać więcej niż jednego efektu jednocześnie?" closed="true" %}}
+{{% ls-details title="Czy mogę używać więcej niż jednego efektu jednocześnie?" closed="true" %}}
 Tak. Każdy efekt jest niezależny — nie ma głównego przełącznika — więc możesz włączyć dowolną kombinację. Na przykład normalizacja głośności plus kompresor dla spójnego, łatwego słuchania albo pogłos plus crossfeed na słuchawkach.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Czym jest crossfeed i czy powinienem go używać?" closed="true" %}}
+{{% ls-details title="Czym jest crossfeed i czy powinienem go używać?" closed="true" %}}
 Crossfeed miesza niewielką, przefiltrowaną część każdego kanału stereo z drugim, tak aby słuchawki brzmiały bardziej jak prawdziwe głośniki, redukując wrażenie „w głowie" przy mocno rozpanoramowanych miksach. To efekt do słuchawek (pozostaw go wyłączonym dla głośników). Zbudowany jest na algorytmie Bauer stereophonic-to-binaural (bs2b) i zawiera presety takie jak Chu Moy i Jan Meier.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Czym jest normalizacja głośności i czym różni się od ReplayGain?" closed="true" %}}
+{{% ls-details title="Czym jest normalizacja głośności i czym różni się od ReplayGain?" closed="true" %}}
 Normalizacja głośności utrzymuje każdy utwór na spójnym poziomie głośności, mierząc postrzeganą głośność standardem EBU R128 i wyrównując ją do celu. W przeciwieństwie do ReplayGain nie wymaga znaczników głośności w plikach i nie zmienia dźwięku — działa na żywo na dowolnym źródle, w tym strumieniach z chmury i radiu internetowym. Presety: Lekki, Standardowy, Mocny i Nocny.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Jaka jest różnica między trybem Prostym a Zaawansowanym?" closed="true" %}}
+{{% ls-details title="Jaka jest różnica między trybem Prostym a Zaawansowanym?" closed="true" %}}
 Tryb Prosty pokazuje listę presetów z prostymi opisami, więc możesz uzyskać dobre brzmienie jednym dotknięciem. Tryb Zaawansowany dodaje suwaki parametrów (na przykład Miks dla pogłosu lub siedem sterowań kompresora) do precyzyjnego dostrajania. Przełączaj się między nimi przyciskiem trybu w prawym górnym rogu każdego edytora efektu.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Dlaczego sterowanie efektem jest wyszarzone?" closed="true" %}}
+{{% ls-details title="Dlaczego sterowanie efektem jest wyszarzone?" closed="true" %}}
 Efekt jest wyłączony. Włącz przełącznik efektu w prawym górnym rogu jego edytora, aby aktywować sterowanie. Każdy efekt jest domyślnie wyłączony.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Czy efekty działają ze strumieniowaniem i CarPlay?" closed="true" %}}
+{{% ls-details title="Czy efekty działają ze strumieniowaniem i CarPlay?" closed="true" %}}
 Tak. Efekty działają wewnątrz silnika odtwarzania, więc stosują się do plików lokalnych, dysków w chmurze, serwerów multimediów i radia internetowego, i działają dalej podczas odtwarzania przez CarPlay.
-{{% /details %}}
+{{% /ls-details %}}

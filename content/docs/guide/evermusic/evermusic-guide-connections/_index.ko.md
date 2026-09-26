@@ -17,7 +17,7 @@ readingTime: 11
 화면은 명확하게 레이블이 붙은 섹션으로 나뉘어 있어 단일 iCloud Drive 계정부터 여러 클라우드와 NAS 장치에 걸친 라이브러리까지 확장됩니다: 상단의 빠른 접근(즐겨찾는 클라우드 폴더), 클라우드 스토리지(추가한 계정), 로컬 네트워크(Bonjour로 검색된 장치), 컴퓨터(Wi-Fi Drive, iTunes File Sharing, SMB), 외부 액세서리(연결된 USB 플래시 드라이브), 기타 서비스(Last.fm 등).
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evermusic 연결하기 화면" image="/docs/guide/evermusic/evermusic-guide-connections/img/connect-main.webp" >}}
+  {{< ls-card title="" subtitle="Evermusic 연결하기 화면" image="/docs/guide/evermusic/evermusic-guide-connections/img/connect-main.webp" >}}
 {{< /cards >}}
 
 ## 클라우드 스토리지에 연결
@@ -29,7 +29,7 @@ readingTime: 11
 - 완료됨을 탭합니다.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="클라우드 스토리지 공급자 선택기 연결" image="/docs/guide/evermusic/evermusic-guide-connections/img/connect-add-storage.webp" >}}
+  {{< ls-card title="" subtitle="클라우드 스토리지 공급자 선택기 연결" image="/docs/guide/evermusic/evermusic-guide-connections/img/connect-add-storage.webp" >}}
 {{< /cards >}}
 
 문제가 발생하면 인터넷 연결과 로그인 자격 증명을 다시 확인하고, 해당 서비스에 대한 이중 인증이 올바르게 구성되어 있는지 확인하세요.  
@@ -70,7 +70,7 @@ Evermusic는 인기 있는 클라우드 및 자체 호스팅 서비스의 전체
   - **연결 끊기**: 앱과 클라우드 서비스 간의 연결을 완전히 끊으려면 '연결 끊기'를 선택합니다. 이 옵션을 선택하면 해당 클라우드 서비스와 관련된 모든 노래가 앱의 음악 라이브러리에서 제거되지만, 서버에는 그대로 남아 있습니다.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="연결된 클라우드 스토리지 추가 작업 메뉴" image="/docs/guide/evermusic/evermusic-guide-connections/img/connect-storage-more-actions.webp" >}}
+  {{< ls-card title="" subtitle="연결된 클라우드 스토리지 추가 작업 메뉴" image="/docs/guide/evermusic/evermusic-guide-connections/img/connect-storage-more-actions.webp" >}}
 {{< /cards >}}
 
 ## 컴퓨터 또는 NAS에 연결
@@ -89,7 +89,7 @@ SMB, DLNA, 또는 WebDAV 프로토콜을 사용하여 컴퓨터, 개인 NAS, 또
 SMB를 사용하여 MAC 또는 PC를 연결하는 방법에 대한 전체 튜토리얼은 [여기](/docs/howto/stream-your-music-from-mac-or-pc-to-iphone-using-smb/)에서 확인할 수 있습니다.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="SMB 연결 설정" image="/docs/guide/evermusic/evermusic-guide-connections/img/connect-smb-settings.webp" >}}
+  {{< ls-card title="" subtitle="SMB 연결 설정" image="/docs/guide/evermusic/evermusic-guide-connections/img/connect-smb-settings.webp" >}}
 {{< /cards >}}
 
 ## WebDAV를 사용하여 NAS에 연결
@@ -99,7 +99,7 @@ URL은 http://server-name 형식이어야 하며, 서버가 SSL을 지원하는 
 WebDAV 프로토콜을 사용하여 NAS를 연결하는 방법에 대한 전체 튜토리얼은 [여기](/docs/howto/how-to-connect-nas-storage-using-webdav-and-listen-to-music-on-your-iphone-or-mac)에서 확인할 수 있습니다.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="WebDAV 연결 설정" image="/docs/guide/evermusic/evermusic-guide-connections/img/connect-webdav-settings.webp" >}}
+  {{< ls-card title="" subtitle="WebDAV 연결 설정" image="/docs/guide/evermusic/evermusic-guide-connections/img/connect-webdav-settings.webp" >}}
 {{< /cards >}}
 
 ## DLNA를 사용하여 컴퓨터 또는 NAS에 연결
@@ -107,7 +107,7 @@ WebDAV 프로토콜을 사용하여 NAS를 연결하는 방법에 대한 전체 
 DLNA 프로토콜을 사용하여 Windows PC 또는 개인 NAS에 있는 음악 라이브러리를 공유하고 [여기](/docs/howto/how-to-enable-dlna-media-server-on-windows-10-and-play-your-music-on-iphone)에 설명된 대로 앱에서 해당 라이브러리에 액세스할 수 있습니다. DLNA는 인기 있고 널리 사용되는 프로토콜이지만, 음악을 재생하거나 다운로드하는 것만 허용합니다. 서버에 파일을 업로드하거나 새 폴더를 만들 수 없습니다.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="DLNA 연결 설정" image="/docs/guide/evermusic/evermusic-guide-connections/img/connect-dlna-settings.webp" >}}
+  {{< ls-card title="" subtitle="DLNA 연결 설정" image="/docs/guide/evermusic/evermusic-guide-connections/img/connect-dlna-settings.webp" >}}
 {{< /cards >}}
 
 ## 사용 가능한 장치
@@ -120,7 +120,7 @@ DLNA 프로토콜을 사용하여 Windows PC 또는 개인 NAS에 있는 음악 
 - 필요한 경우 로그인 세부 정보를 입력하여 연결을 완료합니다.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="로컬 네트워크의 사용 가능한 장치" image="/docs/guide/evermusic/evermusic-guide-connections/img/connect-available-devices.webp" >}}
+  {{< ls-card title="" subtitle="로컬 네트워크의 사용 가능한 장치" image="/docs/guide/evermusic/evermusic-guide-connections/img/connect-available-devices.webp" >}}
 {{< /cards >}}
 
 ## Wi-Fi Drive
@@ -146,7 +146,7 @@ Wi-Fi Drive 사용 방법에 대한 단계별 가이드입니다.
 드래그 앤 드롭한 파일이 iOS 기기로 전송되기 시작하며 응용 프로그램 내에서 접근할 수 있게 됩니다.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Wi-Fi Drive 서버 설정" image="/docs/guide/evermusic/evermusic-guide-connections/img/connect-wifidrive-settings.webp" >}}
+  {{< ls-card title="" subtitle="Wi-Fi Drive 서버 설정" image="/docs/guide/evermusic/evermusic-guide-connections/img/connect-wifidrive-settings.webp" >}}
 {{< /cards >}}
 
 WiFi-Drive를 사용하여 무선으로 파일을 전송하는 방법에 대한 자세한 지침은 [여기](/docs/howto/how-to-transfer-files-wirelessly-from-a-computer-to-an-iphone-using-wifi-drive)에서 확인할 수 있습니다.
@@ -162,7 +162,7 @@ iTunes File Sharing은 Mac의 Finder 앱과 Lightning 케이블을 사용하여 
 iTunes File Sharing 사용 방법에 대한 자세한 지침은 [여기](/docs/howto/how-to-play-local-itunes-files-on-my-iphone/)에서 확인할 수 있습니다.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Mac에서 iTunes / Finder File Sharing" image="/docs/guide/evermusic/evermusic-guide-connections/img/connect-itunes-file-sharing.webp" >}}
+  {{< ls-card title="" subtitle="Mac에서 iTunes / Finder File Sharing" image="/docs/guide/evermusic/evermusic-guide-connections/img/connect-itunes-file-sharing.webp" >}}
 {{< /cards >}}
 
 ## USB 플래시 카드 연결
@@ -183,7 +183,7 @@ SD 카드가 있는 경우 Lightning 카드 리더를 사용하여 연결할 수
 - **모두 셔플**: "모두 재생"과 유사하지만, 오디오 플레이어 대기열에 추가하기 전에 파일을 셔플합니다. 다양한 순서로 음악을 즐기기 위한 좋은 방법입니다.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="클라우드 폴더 내 상단 도구 모음" image="/docs/guide/evermusic/evermusic-guide-connections/img/connect-top-toolbar.webp" >}}
+  {{< ls-card title="" subtitle="클라우드 폴더 내 상단 도구 모음" image="/docs/guide/evermusic/evermusic-guide-connections/img/connect-top-toolbar.webp" >}}
 {{< /cards >}}
 
 ## 폴더 옵션
@@ -200,7 +200,7 @@ SD 카드가 있는 경우 Lightning 카드 리더를 사용하여 연결할 수
 - **격자/목록 보기**: 두 가지 보기 모드 전환: 테이블 보기와 썸네일 보기. 테이블 보기는 목록에 파일을 표시하고, 썸네일 보기는 파일의 시각적 표현을 표시하여 콘텐츠를 한눈에 더 쉽게 식별할 수 있습니다.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="현재 폴더 추가 작업 메뉴" image="/docs/guide/evermusic/evermusic-guide-connections/img/connect-folder-options.webp" >}}
+  {{< ls-card title="" subtitle="현재 폴더 추가 작업 메뉴" image="/docs/guide/evermusic/evermusic-guide-connections/img/connect-folder-options.webp" >}}
 {{< /cards >}}
 
 ## 온라인 파일 편집
@@ -212,7 +212,7 @@ Evermusic에서 클라우드 스토리지 내의 여러 파일을 관리해야 �
 - **다양한 작업 수행**: 관리하려는 파일이나 폴더를 선택한 후에는 필요에 맞게 조정된 여러 작업에 접근할 수 있습니다:
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="온라인 파일에 대한 선택 모드" image="/docs/guide/evermusic/evermusic-guide-connections/img/connect-selection-mode.webp" >}}
+  {{< ls-card title="" subtitle="온라인 파일에 대한 선택 모드" image="/docs/guide/evermusic/evermusic-guide-connections/img/connect-selection-mode.webp" >}}
 {{< /cards >}}
 
 ## 파일 작업
@@ -233,7 +233,7 @@ Evermusic에서 클라우드 스토리지 내의 여러 파일을 관리해야 �
 - **삭제하기**: 이 작업에 주의하세요. 파일이 클라우드 스토리지에서 영구적으로 제거됩니다. 이 삭제는 취소할 수 없습니다.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="단일 파일에 대한 추가 작업 메뉴" image="/docs/guide/evermusic/evermusic-guide-connections/img/connect-single-folder-more-options.webp" >}}
+  {{< ls-card title="" subtitle="단일 파일에 대한 추가 작업 메뉴" image="/docs/guide/evermusic/evermusic-guide-connections/img/connect-single-folder-more-options.webp" >}}
 {{< /cards >}}
 
 작업 목록이 사용 가능한 화면 공간을 초과하면 작업 메뉴 내에서 아래로 스크롤하여 추가 옵션에 접근하면 됩니다.

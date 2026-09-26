@@ -62,7 +62,7 @@ Apa yang berbeza antara biru dan merah ialah **cara ia dibungkus di App Store**,
 
 ### Muat Turun di App Store
 
-{{< app-details ids="885367198, 905746421, 1564384601" >}}
+{{< ls-app-details ids="885367198, 905746421, 1564384601" >}}
 
 ### Pembungkusan App Store
 
@@ -142,7 +142,7 @@ Versi percuma sangat sesuai untuk pendengar kasual, manakala Premium dan Pro dit
 
 ## Soalan Lazim
 
-{{% details title="Saya membeli Evermusic Pro (atau Premium) dengan Akaun Apple lama. Bolehkah saya memindahkannya ke Akaun Apple baharu?" closed="true" %}}
+{{% ls-details title="Saya membeli Evermusic Pro (atau Premium) dengan Akaun Apple lama. Bolehkah saya memindahkannya ke Akaun Apple baharu?" closed="true" %}}
 Menurut dokumentasi rasmi Apple, pembelian daripada Akaun Apple lain boleh dikongsi melalui Perkongsian Keluarga / Perkongsian Pembelian, dengan syarat akaun tersebut dikonfigurasikan dengan sewajarnya dalam kumpulan Perkongsian Keluarga yang sama.
 
 Jika Evermusic Pro dibeli menggunakan Akaun Apple lama anda, Apple menyediakan pilihan untuk menggunakan akaun itu sebagai Akaun Apple sekunder untuk Perkongsian Pembelian.
@@ -202,30 +202,30 @@ Oleh itu, jika mengkonfigurasi Perkongsian Keluarga Apple dengan akaun lama tida
 Sila ambil perhatian bahawa Perkongsian Keluarga Apple, Perkongsian Pembelian, Akaun Apple, dan sejarah pembelian App Store diuruskan sepenuhnya oleh Apple. Kami tidak mempunyai akses kepada Akaun Apple pengguna dan tidak dapat memindahkan pembelian App Store daripada satu Akaun Apple ke Akaun Apple yang lain dari pihak kami.
 
 Jika anda mengalami sebarang masalah khususnya dengan Perkongsian Keluarga atau mengakses pembelian yang dibuat dengan Akaun Apple lama anda, Sokongan Apple perlu menyemak konfigurasi akaun tersebut.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Saya sudah menaik taraf Evermusic Free (biru) kepada Premium. Adakah saya juga memerlukan Evermusic Pro (merah)?" closed="true" %}}
+{{% ls-details title="Saya sudah menaik taraf Evermusic Free (biru) kepada Premium. Adakah saya juga memerlukan Evermusic Pro (merah)?" closed="true" %}}
 Tidak. Evermusic Pro (ikon merah) ialah aplikasi yang sama dengan Evermusic Free (ikon biru) dengan Premium yang sudah dibuka kunci. Jika anda sudah menaik taraf aplikasi biru kepada Premium, anda memiliki segala yang ditawarkan oleh Pro, jadi tidak perlu memasang atau membeli aplikasi merah.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Adakah Perkongsian Keluarga disokong, dan berapa ramai orang boleh menggunakan pembelian saya?" closed="true" %}}
+{{% ls-details title="Adakah Perkongsian Keluarga disokong, dan berapa ramai orang boleh menggunakan pembelian saya?" closed="true" %}}
 Ya. Perkongsian Keluarga berfungsi dengan semua pembelian dan langganan Evermusic, jadi anda boleh berkongsi Premium dengan sehingga lima ahli keluarga. Hidupkan Perkongsian Pembelian dalam Settings → Family pada peranti anda. Setiap ahli keluarga memuat turun aplikasi dengan Akaun Apple mereka sendiri dan mendapat Premium secara automatik.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Saya menaik taraf kepada Premium pada iPhone saya, tetapi Mac saya masih menunjukkan versi percuma. Bagaimana saya membetulkannya?" closed="true" %}}
+{{% ls-details title="Saya menaik taraf kepada Premium pada iPhone saya, tetapi Mac saya masih menunjukkan versi percuma. Bagaimana saya membetulkannya?" closed="true" %}}
 Premium dikongsi antara iPhone dan Mac melalui iCloud. Pertama, pastikan kedua-dua peranti menggunakan Akaun Apple yang sama dan mempunyai iCloud dihidupkan. Pada iPhone anda, buka versi terkini Evermusic dan tunggu kira-kira satu minit supaya pembelian anda dimuat naik ke iCloud. Anda juga boleh ketik Pulihkan Pembelian dalam Tetapan. Kemudian buka versi terkini pada Mac anda, sambung ke internet, dan tunggu kira-kira satu minit. Premium sepatutnya dihidupkan dengan sendirinya.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Bagaimana saya memulihkan pembelian saya pada peranti baharu?" closed="true" %}}
+{{% ls-details title="Bagaimana saya memulihkan pembelian saya pada peranti baharu?" closed="true" %}}
 Buka Tetapan dalam aplikasi dan ketik Pulihkan Pembelian. Anda akan melihat pembelian anda dan Premium akan dihidupkan semula. Jika pembelian tiada, pastikan peranti menggunakan Akaun Apple yang sama yang anda beli dengannya, dan iCloud dihidupkan.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Jika saya memasang Evermusic Pro (merah), adakah ia membuka kunci Premium dalam Evermusic Free (biru)?" closed="true" %}}
+{{% ls-details title="Jika saya memasang Evermusic Pro (merah), adakah ia membuka kunci Premium dalam Evermusic Free (biru)?" closed="true" %}}
 Ya. Jika anda memasang Evermusic Pro merah pada sesebuah peranti, Evermusic Free biru pada peranti yang sama akan mengesannya dan menghidupkan Premium secara automatik. Anda tidak perlu membeli Premium sekali lagi dalam aplikasi biru. Anda hanya perlu memastikan aplikasi merah kekal dipasang.
 
 Ia tidak berfungsi sebaliknya. Membeli Premium dalam aplikasi biru tidak menjadikan Evermusic Pro merah percuma, kerana ia adalah aplikasi yang berasingan di App Store. Pembelian dalam aplikasi biru disegerakkan melalui iCloud antara aplikasi iPhone biru dan aplikasi Mac biru.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Bolehkah saya menggunakan Premium pada Mac Intel?" closed="true" %}}
+{{% ls-details title="Bolehkah saya menggunakan Premium pada Mac Intel?" closed="true" %}}
 Ya. Gunakan aplikasi Evermusic Free biru dan naik taraf kepada Premium. Aplikasi Mac biru berjalan pada kedua-dua Mac Apple Silicon dan Intel. Evermusic Pro merah hanya berjalan pada Mac Apple Silicon (M1 dan lebih baharu) dan tidak boleh dipasang pada Mac Intel.
-{{% /details %}}
+{{% /ls-details %}}

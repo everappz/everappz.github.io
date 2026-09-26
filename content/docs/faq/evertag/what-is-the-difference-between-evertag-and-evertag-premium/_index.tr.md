@@ -11,7 +11,7 @@ tags: ["Evertag", "Premium", "Fark", "Pro", "Ücretsiz vs Ücretli", "Etiket Dü
 Evertag ve Evertag Premium, aynı güçlü etiket düzenleme uygulamasının iki sürümüdür. Evertag Free temel meta veri düzenleme araçlarına erişim sağlarken, Evertag Premium tam deneyimin kilidini açar — reklamsız, sınırsız ve özelleştirilebilir.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evertag Upgrade To Premium Screen" image="/docs/faq/evertag/what-is-the-difference-between-evertag-and-evertag-premium/upgrade-to-premium.webp" >}}
+  {{< ls-card title="" subtitle="Evertag Upgrade To Premium Screen" image="/docs/faq/evertag/what-is-the-difference-between-evertag-and-evertag-premium/upgrade-to-premium.webp" >}}
 {{< /cards >}}
 
 ## Premium Planınızı Seçin
@@ -19,7 +19,7 @@ Evertag ve Evertag Premium, aynı güçlü etiket düzenleme uygulamasının iki
 Uygulamanın ücretsiz sürümü, tüm kısıtlamaları kaldırmak ve Premium sürüme yükseltmek için tek seferlik ömür boyu uygulama içi satın alma ve iki abonelik seçeneği (1 ay ve 1 yıl) sunarak size en iyi ve en uygun fiyatı seçmenize olanak tanır. Fiyatlar ülkenize veya bölgenize bağlı olarak değişebilir. Ayrıca, **Aile Paylaşımının** tüm satın alma işlemleri ve planlar için **etkin** olduğunu ve Premium sürümü ailenizin üyeleriyle paylaşabileceğinizi unutmayın.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evertag Select Your Premium Plan Screen" image="/docs/faq/evertag/what-is-the-difference-between-evertag-and-evertag-premium/select-your-plan.webp" >}}
+  {{< ls-card title="" subtitle="Evertag Select Your Premium Plan Screen" image="/docs/faq/evertag/what-is-the-difference-between-evertag-and-evertag-premium/select-your-plan.webp" >}}
 {{< /cards >}}
 
 ## iOS ve Mac Arasında Satın Almaları Paylaşma
@@ -79,7 +79,7 @@ Uygulamanızı yükselttikten sonra, mevcut satın alma işlemlerinizin ayrınt�
 'Ücretsiz premium deneyin' menüsünü kullanarak yalnızca sınırlı bir süre için Premium sürüme ücretsiz yükseltebilirsiniz. Premium sürümü ücretsiz almak için bir reklam izleyin veya arkadaşlarınıza bu uygulamadan bahsedin.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evertag Try Premium For Free Screen" image="/docs/faq/evertag/what-is-the-difference-between-evertag-and-evertag-premium/try-premium-for-free.webp" >}}
+  {{< ls-card title="" subtitle="Evertag Try Premium For Free Screen" image="/docs/faq/evertag/what-is-the-difference-between-evertag-and-evertag-premium/try-premium-for-free.webp" >}}
 {{< /cards >}}
 
 ## Ne Seçmeli?

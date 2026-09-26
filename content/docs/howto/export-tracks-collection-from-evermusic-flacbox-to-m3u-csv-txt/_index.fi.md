@@ -6,7 +6,7 @@ keywords: ["evermusic vienti", "flacbox vienti", "vie m3u-muotoon", "vie soittol
 tags: ["evermusic", "äskettäin", "suosikit", "vienti", "m3u", "soittolista", "csv", "txt", "albumi"]
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **Lyhyesti:** Evermusic ja Flacbox mahdollistavat minkä tahansa kappalekokoelman (Äskettäin, Suosikit, soittolistat, albumit) viemisen CSV-, TXT- tai M3U-tiedostoihin. Käytä näitä vientejä scrobbataksesi Last.fm:ään, varmuuskopioidaksesi kirjastosi tai toistaaksesi soittolistojasi muilla laitteilla.
@@ -157,22 +157,22 @@ Kappaleiden vieminen Evermusicista ja Flacboxista antaa sinulle täyden hallinna
 
 ## UKK
 
-{{% details title="Mitä vientimuotoa minun tulisi käyttää Last.fm-scrobbaukseen?" closed="true" %}}
+{{% ls-details title="Mitä vientimuotoa minun tulisi käyttää Last.fm-scrobbaukseen?" closed="true" %}}
 Käytä CSV:tä. Se sisältää aikaleimat ja täydelliset metatiedot, joita scrobbaustyökalut kuten Last.fm-Scrubbler-WPF vaativat.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Voinko viedä minkä tahansa kappalekokoelman, en vain soittolistoja?" closed="true" %}}
+{{% ls-details title="Voinko viedä minkä tahansa kappalekokoelman, en vain soittolistoja?" closed="true" %}}
 Kyllä. Voit viedä äskettäin kuunnellut, suosikit, albumit, soittolistat ja minkä tahansa muun kappalekokoelman sovelluksessa samoilla vaiheilla.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Toimiiko M3U-soittolistani muilla laitteilla?" closed="true" %}}
+{{% ls-details title="Toimiiko M3U-soittolistani muilla laitteilla?" closed="true" %}}
 Jos valitset absoluuttinen URL -vaihtoehdon viennin aikana, M3U-tiedostoa voidaan toistaa millä tahansa laitteella, joka tukee M3U-soittolistoja. Huomaa, että jotkin pilvi-URL-osoitteet voivat vanhentua ajan myötä.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Onko vientiominaisuus ilmainen?" closed="true" %}}
+{{% ls-details title="Onko vientiominaisuus ilmainen?" closed="true" %}}
 Kyllä. Kappalekokoelmien vienti M3U-, CSV- ja TXT-muotoon on saatavilla sekä Evermusicin että Flacboxin ilmaisissa ja premium-versioissa.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Mitkä pilvipalvelut tukevat absoluuttisen URL:n vientiä?" closed="true" %}}
+{{% ls-details title="Mitkä pilvipalvelut tukevat absoluuttisen URL:n vientiä?" closed="true" %}}
 Absoluuttisen URL:n vientiä tuetaan iCloud Drivelle, pCloudille, PanBaidulle, MyCloudHomelle, DLNA:lle, MediaFirelle, OneDrivelle, Boxille, Dropboxille, Google Drivelle ja WebDAV:lle (vierastilassa).
-{{% /details %}}
+{{% /ls-details %}}

@@ -12,7 +12,7 @@ authors:
     image: "/images/about/artem-meleshko-founder-everappz.webp"
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 ## Evermusic: de cloudmuziekspeler voor iPhone en iPad
 
@@ -22,7 +22,7 @@ Evermusic is een cloudmuziekspeler die verbinding maakt met je persoonlijke clou
 
 ## Bekijk de promotievideo
 
-{{< youtubecard id="BwD0XLgdzEE" title="Evermusic Promo Video" >}}
+{{< ls-youtubecard id="BwD0XLgdzEE" title="Evermusic Promo Video" >}}
 
 ## Belangrijkste functies in de video
 
@@ -36,14 +36,14 @@ Evermusic is een cloudmuziekspeler die verbinding maakt met je persoonlijke clou
 
 ## Veelgestelde vragen
 
-{{% details title="Wat is Evermusic?" closed="true" %}}
+{{% ls-details title="Wat is Evermusic?" closed="true" %}}
 Evermusic is een cloudmuziekspeler voor iPhone en iPad. Het verbindt met cloudopslagdiensten zoals Dropbox, Google Drive en OneDrive, waarmee je je eigen muziekbestanden kunt streamen en downloaden. Het ondersteunt FLAC, MP3, AAC, WAV en andere audioformaten.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Is Evermusic gratis te downloaden?" closed="true" %}}
+{{% ls-details title="Is Evermusic gratis te downloaden?" closed="true" %}}
 Ja. Evermusic is gratis te downloaden met basisfuncties. Een eenmalige Premium-upgrade ontgrendelt de equalizer, crossfade en extra cloudaccountverbindingen.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Welke clouddiensten ondersteunt Evermusic?" closed="true" %}}
+{{% ls-details title="Welke clouddiensten ondersteunt Evermusic?" closed="true" %}}
 Evermusic ondersteunt meer dan 12 cloudplatforms, waaronder iCloud Drive, Dropbox, Google Drive, OneDrive, Box, MEGA, Yandex.Disk, pCloud en elke server met WebDAV- of SMB-protocollen.
-{{% /details %}}
+{{% /ls-details %}}

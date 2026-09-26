@@ -17,7 +17,7 @@ keywords: [
 readingTime: 3
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **요약:** USB 케이블로 iPhone 또는 iPad를 Mac(또는 PC)에 연결하세요. macOS Catalina 이상에서는 Finder를 사용하세요. 이전 macOS 또는 Windows에서는 iTunes를 사용하세요. Evermusic, Flacbox 또는 Evertag과 같은 앱으로 파일을 드래그하면 즉시 전송됩니다.
@@ -117,26 +117,26 @@ iTunes 파일 공유를 사용하면 컴퓨터와 iOS 앱 간의 파일을 쉽�
 
 ## 자주 묻는 질문
 
-{{% details title="USB를 통해 파일을 전송하려면 인터넷 연결이 필요한가요?" closed="true" %}}
+{{% ls-details title="USB를 통해 파일을 전송하려면 인터넷 연결이 필요한가요?" closed="true" %}}
 아니요. 파일 공유는 컴퓨터와 iOS 기기 간의 USB 케이블 연결을 통해 완전히 작동합니다. 인터넷은 필요하지 않습니다.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Evermusic 또는 Flacbox에 어떤 파일 형식을 전송할 수 있나요?" closed="true" %}}
+{{% ls-details title="Evermusic 또는 Flacbox에 어떤 파일 형식을 전송할 수 있나요?" closed="true" %}}
 두 앱 모두 MP3, FLAC, AAC, WAV, AIFF, OGG, WMA 등 다양한 오디오 형식을 지원합니다. 지원되는 형식의 전체 목록은 앱의 문서를 확인하세요.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Finder에서 파일 탭이 보이지 않는 이유는 무엇인가요?" closed="true" %}}
+{{% ls-details title="Finder에서 파일 탭이 보이지 않는 이유는 무엇인가요?" closed="true" %}}
 파일 탭은 기기에 파일 공유를 지원하는 앱이 하나 이상 설치되어 있을 때만 나타납니다. Evermusic, Flacbox 또는 Evertag을 설치한 다음 기기를 다시 연결하세요.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="USB 케이블 대신 무선으로 파일을 전송할 수 있나요?" closed="true" %}}
+{{% ls-details title="USB 케이블 대신 무선으로 파일을 전송할 수 있나요?" closed="true" %}}
 네. Evermusic과 Flacbox는 클라우드 저장소 서비스와 Wi-Fi 전송도 지원합니다. 그러나 Finder 또는 iTunes를 통한 USB 파일 공유는 일반적으로 대용량 음악 라이브러리에 더 빠릅니다.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Finder를 통해 파일을 전송하면 기기의 기존 파일이 덮어쓰기되나요?" closed="true" %}}
+{{% ls-details title="Finder를 통해 파일을 전송하면 기기의 기존 파일이 덮어쓰기되나요?" closed="true" %}}
 아니요. 새 파일은 기존 파일과 함께 추가됩니다. 같은 이름의 파일이 이미 있는 경우 macOS가 새 파일의 이름을 자동으로 변경할 수 있습니다.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="이 방법은 Windows PC에서도 작동하나요?" closed="true" %}}
+{{% ls-details title="이 방법은 Windows PC에서도 작동하나요?" closed="true" %}}
 네. Windows에서는 iTunes를 사용하여 파일을 전송하세요. 위의 iTunes 섹션에서 설명한 것과 동일한 과정입니다. Microsoft Store 또는 Apple 웹사이트에서 iTunes를 설치하세요.
-{{% /details %}}
+{{% /ls-details %}}

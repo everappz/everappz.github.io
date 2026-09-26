@@ -7,7 +7,7 @@ tags: ["evermusic", "σύνδεση", "bluesound vault"]
 readingTime: 1
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **Περίληψη:** Συνδεθείτε στον εσωτερικό αποθηκευτικό χώρο του Bluesound VAULT μέσω SMB χρησιμοποιώντας Evermusic, Flacbox ή Evertag. Βρείτε τη διεύθυνση IP του VAULT στην εφαρμογή BluOS, εισαγάγετε την ως σύνδεση SMB με πρόσβαση επισκέπτη και ξεκινήστε την αναπαραγωγή ή τη διαχείριση των αρχείων μουσικής σας.
@@ -58,18 +58,18 @@ readingTime: 1
 
 ## Συχνές Ερωτήσεις
 
-{{% details title="Χρειάζομαι όνομα χρήστη και κωδικό πρόσβασης για να συνδεθώ στο Bluesound VAULT;" closed="true" %}}
+{{% ls-details title="Χρειάζομαι όνομα χρήστη και κωδικό πρόσβασης για να συνδεθώ στο Bluesound VAULT;" closed="true" %}}
 Όχι. Το Bluesound VAULT υποστηρίζει πρόσβαση επισκέπτη (ανώνυμη) μέσω SMB. Αφήστε τα πεδία Σύνδεση και Κωδικός πρόσβασης κενά κατά τη διαμόρφωση της σύνδεσης.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Μπορώ να επεξεργαστώ ετικέτες μουσικής στο Bluesound VAULT;" closed="true" %}}
+{{% ls-details title="Μπορώ να επεξεργαστώ ετικέτες μουσικής στο Bluesound VAULT;" closed="true" %}}
 Ναι. Χρησιμοποιώντας το Evertag, μπορείτε να επεξεργαστείτε ετικέτες μεταδεδομένων (τίτλος, καλλιτέχνης, άλμπουμ κ.λπ.) για αρχεία ήχου που είναι αποθηκευμένα απευθείας στον εσωτερικό σκληρό δίσκο του VAULT.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Ποια πρωτόκολλα υποστηρίζει το Bluesound VAULT;" closed="true" %}}
+{{% ls-details title="Ποια πρωτόκολλα υποστηρίζει το Bluesound VAULT;" closed="true" %}}
 Το Bluesound VAULT εκθέτει τον εσωτερικό του αποθηκευτικό χώρο μέσω SMB (Server Message Block). Τα Evermusic, Flacbox και Evertag υποστηρίζουν όλα συνδέσεις SMB, καθιστώντας τη σύνδεση απλή.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Μπορώ να κάνω streaming μουσικής από το VAULT χωρίς να αντιγράψω αρχεία στο iPhone μου;" closed="true" %}}
+{{% ls-details title="Μπορώ να κάνω streaming μουσικής από το VAULT χωρίς να αντιγράψω αρχεία στο iPhone μου;" closed="true" %}}
 Ναι. Μόλις συνδεθείτε μέσω SMB, μπορείτε να κάνετε streaming αρχείων ήχου απευθείας από τον εσωτερικό δίσκο του VAULT χωρίς να τα αντιγράψετε στη συσκευή σας.
-{{% /details %}}
+{{% /ls-details %}}

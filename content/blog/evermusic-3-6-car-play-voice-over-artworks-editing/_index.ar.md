@@ -12,7 +12,7 @@ authors:
     image: "/images/about/artem-meleshko-founder-everappz.webp"
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 **ملخص:** يضيف Evermusic 3.6 تكامل Apple CarPlay ودعم VoiceOver الكامل لإمكانية الوصول والإخراج الصوتي المختلط واستئناف التشغيل التلقائي وتحرير الأغلفة والعلامات لملفات FLAC/MP3/AIFF واستيراد ملفات iCloud Drive.
 
@@ -78,18 +78,18 @@ authors:
 
 ## الأسئلة الشائعة
 
-{{% details title="هل يعمل Evermusic مع CarPlay؟" closed="true" %}}
+{{% ls-details title="هل يعمل Evermusic مع CarPlay؟" closed="true" %}}
 نعم. بدءًا من الإصدار 3.6، يدعم Evermusic Apple CarPlay بالكامل. يمكنك تصفح وتشغيل مكتبة الموسيقى الخاصة بك من شاشة سيارتك المدمجة.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="هل Evermusic متاح للمستخدمين المكفوفين أو ضعاف البصر؟" closed="true" %}}
+{{% ls-details title="هل Evermusic متاح للمستخدمين المكفوفين أو ضعاف البصر؟" closed="true" %}}
 نعم. يتضمن Evermusic 3.6 دعمًا كاملاً لـ VoiceOver مع تسميات وصفية وتلميحات ووضع واجهة مبسطة.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="هل يمكنني تحرير علامات FLAC على آيفون باستخدام Evermusic؟" closed="true" %}}
+{{% ls-details title="هل يمكنني تحرير علامات FLAC على آيفون باستخدام Evermusic؟" closed="true" %}}
 نعم. يتضمن Evermusic محرر علامات مدمج يعمل مع ملفات FLAC وMP3 وAIFF. يمكنك تحرير العناوين والفنانين والألبومات والأغلفة.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="هل يتذكر Evermusic أين توقفت عن الاستماع؟" closed="true" %}}
+{{% ls-details title="هل يتذكر Evermusic أين توقفت عن الاستماع؟" closed="true" %}}
 نعم. عند تفعيل "حفظ حالة مشغل الصوت"، يستعيد Evermusic قائمة الانتظار والمسار الحالي وموضع التشغيل الدقيق عند إعادة فتح التطبيق.
-{{% /details %}}
+{{% /ls-details %}}

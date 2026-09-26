@@ -7,7 +7,7 @@ tags: ["音樂", "usb", "外部", "ixpand", "sandisk", "iphone", "evermusic"]
 readingTime: 3
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **摘要：** Evermusic 讓您在 iPhone 或 iPad 上直接從 SanDisk iXpand Flash Drive 播放音樂。插入磁碟機，開啟 Evermusic，即可開始聆聽——無需將檔案複製到裝置。支援檔案管理、播放列表、等化器和 AirPlay 串流。
@@ -69,22 +69,22 @@ Evermusic 充當檔案管理員，允許您對檔案執行基本操作，如移�
 
 ## FAQ
 
-{{% details title="Evermusic 支援哪些 iXpand Flash Drive 型號？" closed="true" %}}
+{{% ls-details title="Evermusic 支援哪些 iXpand Flash Drive 型號？" closed="true" %}}
 Evermusic 支援使用 V1、V2、V3、V6 和 V7 協定的 SanDisk iXpand Flash Drive。您可以在 iPhone 的設定中查看相容性，路徑為一般 > 關於 > iXpand Flash Drive。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="我可以不將檔案複製到 iPhone 就從 USB 磁碟機播放音樂嗎？" closed="true" %}}
+{{% ls-details title="我可以不將檔案複製到 iPhone 就從 USB 磁碟機播放音樂嗎？" closed="true" %}}
 可以。Evermusic 直接從 iXpand Flash Drive 播放音訊檔案。無需將任何內容複製到裝置的內部儲存空間。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Evermusic 從 USB 磁碟機支援哪些音訊格式？" closed="true" %}}
+{{% ls-details title="Evermusic 從 USB 磁碟機支援哪些音訊格式？" closed="true" %}}
 Evermusic 支援所有主要音訊格式，包括 MP3、FLAC、AAC、WAV、AIFF、OGG 等。儲存在 iXpand 磁碟機上的任何音訊檔案都可以直接播放。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="我可以將 iXpand 磁碟機中的音樂串流到 AirPlay 揚聲器嗎？" closed="true" %}}
+{{% ls-details title="我可以將 iXpand 磁碟機中的音樂串流到 AirPlay 揚聲器嗎？" closed="true" %}}
 可以。在從 USB 磁碟機播放音樂時，您可以將音訊串流到相容 AirPlay 的裝置，如 Sonos 揚聲器、Apple TV 和 Google Chromecast。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="如果我的 iXpand 磁碟機無法辨識怎麼辦？" closed="true" %}}
+{{% ls-details title="如果我的 iXpand 磁碟機無法辨識怎麼辦？" closed="true" %}}
 確保沒有其他應用程式正在使用該磁碟機。嘗試拔出後重新連接。如果您的型號不受支援，請使用 Apple Lightning 轉 USB 轉接器將磁碟機作為標準 USB 裝置連接。
-{{% /details %}}
+{{% /ls-details %}}

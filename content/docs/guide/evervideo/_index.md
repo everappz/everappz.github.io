@@ -78,18 +78,18 @@ This guide walks you through every part of Evervideo on iPhone, iPad, and Mac �
 
 {{< cards cols="2">}}
 
-{{< card icon="map" link="/docs/guide/evervideo/evervideo-guide-navigation" title="Navigation" subtitle="Tab Bar on iPhone, Left Menu on iPad and Mac, compact always-on-screen media player." >}}
+{{< ls-card icon="map" link="/docs/guide/evervideo/evervideo-guide-navigation" title="Navigation" subtitle="Tab Bar on iPhone, Left Menu on iPad and Mac, compact always-on-screen media player." >}}
 
-{{< card icon="folder" link="/docs/guide/evervideo/evervideo-guide-files" title="Files" subtitle="One unified tab for cloud, NAS, RTSP streams, local files, USB drives, and the transfers queue." >}}
+{{< ls-card icon="folder" link="/docs/guide/evervideo/evervideo-guide-files" title="Files" subtitle="One unified tab for cloud, NAS, RTSP streams, local files, USB drives, and the transfers queue." >}}
 
-{{< card icon="collection" link="/docs/guide/evervideo/evervideo-guide-video-library" title="Media Library" subtitle="Browse by Albums, Genres, Recents, Favorites — plus the iOS Photos library and Apple Music library." >}}
+{{< ls-card icon="collection" link="/docs/guide/evervideo/evervideo-guide-video-library" title="Media Library" subtitle="Browse by Albums, Genres, Recents, Favorites — plus the iOS Photos library and Apple Music library." >}}
 
-{{< card icon="music-note" link="/docs/guide/evervideo/evervideo-guide-playlists" title="Playlists" subtitle="Build playlists from cloud, local, Photos, or Music library, import M3U / M3U8 / CUE." >}}
+{{< ls-card icon="music-note" link="/docs/guide/evervideo/evervideo-guide-playlists" title="Playlists" subtitle="Build playlists from cloud, local, Photos, or Music library, import M3U / M3U8 / CUE." >}}
 
-{{< card icon="play" link="/docs/guide/evervideo/evervideo-guide-player" title="Media Player" subtitle="Picture-in-Picture, audio and video tracks, subtitles, audio + video equalizers, AirPlay, Chromecast." >}}
+{{< ls-card icon="play" link="/docs/guide/evervideo/evervideo-guide-player" title="Media Player" subtitle="Picture-in-Picture, audio and video tracks, subtitles, audio + video equalizers, AirPlay, Chromecast." >}}
 
-{{< card icon="adjustments" link="/docs/guide/evervideo/evervideo-guide-settings" title="Settings" subtitle="Audio engine, video decoder, subtitles, library, file manager, widgets, personalization, language, backup." >}}
+{{< ls-card icon="adjustments" link="/docs/guide/evervideo/evervideo-guide-settings" title="Settings" subtitle="Audio engine, video decoder, subtitles, library, file manager, widgets, personalization, language, backup." >}}
 
-{{< card icon="question-mark-circle" link="/docs/faq/evervideo" title="FAQ" subtitle="Find answers to the most common questions about Evervideo." >}}
+{{< ls-card icon="question-mark-circle" link="/docs/faq/evervideo" title="FAQ" subtitle="Find answers to the most common questions about Evervideo." >}}
 
 {{< /cards >}}

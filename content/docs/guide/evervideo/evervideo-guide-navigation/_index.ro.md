@@ -19,7 +19,7 @@ Evervideo oferă o interfață curată și intuitivă, familiară oricui a folos
 Spre deosebire de majoritatea aplicațiilor media, Evervideo îmbină conturile dvs. de cloud, partajările NAS, serverele media și fișierele locale într-un singur tab Fișiere unificat — astfel nu treceți de la un ecran la altul. Mutarea unui videoclip de pe un server Plex, într-un folder iCloud Drive, în folderul Documente de pe iPhone este o operațiune pe un singur ecran, cu un singur tap.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Ecranul Principal Evervideo" image="/docs/guide/evervideo/img/evervideo-main.webp" >}}
+  {{< ls-card title="" subtitle="Ecranul Principal Evervideo" image="/docs/guide/evervideo/img/evervideo-main.webp" >}}
 {{< /cards >}}
 
 ## File
@@ -53,7 +53,7 @@ PiP funcționează cu toate formatele video pe care le redă Evervideo, inclusiv
 Practic fiecare element de conținut de pe ecran are un buton **Mai multe acțiuni** (pictograma „⋯" cu trei puncte). Atingeți pentru a deschide un meniu sensibil la context cu fiecare acțiune disponibilă pentru acel element — redare ulterioară, redare mai târziu, adăugare la lista de redare, adăugare la preferințe, editare etichete, descărcare, partajare, redenumire, mutare și altele. Listele lungi derulează vertical pentru a putea accesa acțiunile mai puțin comune fără a aglomera interfața principală.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Meniul Mai Multe Acțiuni al Preferințelor Evervideo" image="/docs/guide/evervideo/img/evervideo-favorites-more-actions.webp" >}}
+  {{< ls-card title="" subtitle="Meniul Mai Multe Acțiuni al Preferințelor Evervideo" image="/docs/guide/evervideo/img/evervideo-favorites-more-actions.webp" >}}
 {{< /cards >}}
 
 ## Bara de Instrumente Superioară

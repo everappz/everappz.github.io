@@ -25,7 +25,7 @@ De functionaliteit van Evermusic is overzichtelijk verdeeld in twee afzonderlijk
 Of u nu een iPhone, iPad of compacte modus op een Mac gebruikt, alle app-functies zijn gemakkelijk toegankelijk via de tabbalk onderaan het scherm. Voor iPad- en Mac-gebruikers is hetzelfde menu te vinden aan de linkerkant van het scherm. Deze doordachte organisatie categoriseert alle app-functies in gemakkelijk toegankelijke secties, wat zorgt voor een gebruiksvriendelijke en efficiënte ervaring.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evermusic linkerzijbalk op iPad en Mac" image="/docs/guide/evermusic/evermusic-guide-navigation/img/navigation-left-sidebar.webp" >}}
+  {{< ls-card title="" subtitle="Evermusic linkerzijbalk op iPad en Mac" image="/docs/guide/evermusic/evermusic-guide-navigation/img/navigation-left-sidebar.webp" >}}
 {{< /cards >}}
 
 **Verbindingen:** U kunt moeiteloos cloudopslagservices zoals Google Drive, MEGA, OneDrive en Dropbox verbinden, evenals uw computer en persoonlijke NAS op dit scherm.
@@ -47,7 +47,7 @@ Het gedeelte lokale bestanden is verdeeld in twee categorieën: Bestanden in dez
 Activeer een volledig scherm speler door op het minispeler-pictogram te tikken en gebruik een veegbeweging naar beneden om het te verbergen. Op iPad en Mac bevindt het minispelerscherm zich bovenaan het scherm en kan worden verborgen bij het openen van de volledig-scherm speler via het hoofdmenu.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="iPhone-tabbalk" image="/docs/guide/evermusic/evermusic-guide-navigation/img/navigation-bottom-tabbar.webp" >}}
+  {{< ls-card title="" subtitle="iPhone-tabbalk" image="/docs/guide/evermusic/evermusic-guide-navigation/img/navigation-bottom-tabbar.webp" >}}
 {{< /cards >}}
 
 ## Minispeler-venster (exclusief voor Mac)
@@ -55,7 +55,7 @@ Activeer een volledig scherm speler door op het minispeler-pictogram te tikken e
 Voor toegang tot het minispeler-venster op uw Mac verplaatst u uw cursor naar de rechterbenedenhoek van het app-venster en verkleint u het tot de kleinst mogelijke grootte. Tik vervolgens op de samenvouwknop (weergegeven als een pijl omlaag) om het minispeler-venster te activeren. Om het minispeler-venster altijd bovenop andere vensters te houden, navigeert u naar de menubalk bovenaan uw Mac, selecteert u 'Venster' en kiest u 'Venster altijd bovenop tonen'. Deze functie is handig voor het luisteren naar audiolezingen zonder onderbrekingen.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Mac minispeler-venster" image="/docs/guide/evermusic/evermusic-guide-navigation/img/navigation-mac-exclusive-miniplayer.webp" >}}
+  {{< ls-card title="" subtitle="Mac minispeler-venster" image="/docs/guide/evermusic/evermusic-guide-navigation/img/navigation-mac-exclusive-miniplayer.webp" >}}
 {{< /cards >}}
 
 ## Meer acties
@@ -63,7 +63,7 @@ Voor toegang tot het minispeler-venster op uw Mac verplaatst u uw cursor naar de
 Vrijwel elk inhoudsitem op het scherm heeft een knop "Meer acties". Tik erop om alle beschikbare acties te zien.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Contextmenu meer acties" image="/docs/guide/evermusic/evermusic-guide-navigation/img/navigation-more-actions.webp" >}}
+  {{< ls-card title="" subtitle="Contextmenu meer acties" image="/docs/guide/evermusic/evermusic-guide-navigation/img/navigation-more-actions.webp" >}}
 {{< /cards >}}
 
 ## Bovenste werkbalk
@@ -77,7 +77,7 @@ U kunt deze werkbalk eenvoudig tonen of verbergen met een eenvoudige veegbewegin
 - **Alles willekeurig afspelen:** Voeg alle nummers van de huidige pagina toe aan de audiospelerwachtrij en schud ze voordat ze worden toegevoegd voor een heerlijke luisterervaring.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Bovenste werkbalk met Zoeken, Alles afspelen en Alles willekeurig afspelen" image="/docs/guide/evermusic/evermusic-guide-navigation/img/navigation-top-toolbar.webp" >}}
+  {{< ls-card title="" subtitle="Bovenste werkbalk met Zoeken, Alles afspelen en Alles willekeurig afspelen" image="/docs/guide/evermusic/evermusic-guide-navigation/img/navigation-top-toolbar.webp" >}}
 {{< /cards >}}
 
 ## Contextmenu
@@ -91,7 +91,7 @@ Contextmenu biedt snelle toegang tot aanvullende opties en acties voor naadloze 
 **Rechtsklik:** Klik met de rechtermuisknop op cellen, de minispeler of de compacte speler om het contextmenu te tonen.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Contextmenu op macOS" image="/docs/guide/evermusic/evermusic-guide-navigation/img/navigation-context-menu-macos.webp" >}}
+  {{< ls-card title="" subtitle="Contextmenu op macOS" image="/docs/guide/evermusic/evermusic-guide-navigation/img/navigation-context-menu-macos.webp" >}}
 {{< /cards >}}
 
 ## Toegankelijkheid
@@ -125,7 +125,7 @@ Evermusic wordt geleverd met vier widgets voor het beginscherm / vergrendelscher
 Alle vier widgets zijn beschikbaar in Kleine, Middelgrote en Grote formaten zodat u de indeling kunt kiezen die bij uw scherm past.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evermusic widgets toevoegen" image="/docs/guide/evermusic/evermusic-guide-navigation/img/navigation-add-widgets.webp" >}}
+  {{< ls-card title="" subtitle="Evermusic widgets toevoegen" image="/docs/guide/evermusic/evermusic-guide-navigation/img/navigation-add-widgets.webp" >}}
 {{< /cards >}}
 
 ### Een widget toevoegen op iPhone (beginscherm)
@@ -175,7 +175,7 @@ De CarPlay-widget werkt live bij terwijl uw muziek verandert en is groot genoeg 
 Evermusic beschikt over een volledig uitgeruste **Apple CarPlay**-interface (alleen iOS) die is geoptimaliseerd voor het autoscherm. Zodra uw iPhone is verbonden met een compatibele CarPlay-hoofdunit — via USB of draadloos — verschijnt Evermusic naast Apple Music en Spotify in het CarPlay-app-raster, klaar om uw cloudbibliotheek onderweg te streamen.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evermusic op het CarPlay-scherm" image="/docs/guide/evermusic/evermusic-guide-navigation/img/navigation-carplay-menu.webp" >}}
+  {{< ls-card title="" subtitle="Evermusic op het CarPlay-scherm" image="/docs/guide/evermusic/evermusic-guide-navigation/img/navigation-carplay-menu.webp" >}}
 {{< /cards >}}
 
 ### Wat u krijgt in CarPlay

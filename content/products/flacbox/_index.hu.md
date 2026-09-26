@@ -16,15 +16,15 @@ screenshots:
   - "https://everappz.com/products/flacbox/screenshots/2048x2732/6.png"
 ---
 
-{{% sr-only %}}
+{{% ls-sr-only %}}
 A Flacbox egy hi-res audiolejátszó iPhone-ra és Macre, amelyet az Everappz, egy spanyol szoftvercég fejlesztett. Világszerte több mint 1 millió letöltéssel a Flacbox audiofil rajongóknak és zenekedvelőknek készült, akik veszteségmentes és nagyfelbontású hangfájlokat szeretnének lejátszani Apple eszközeiken formátumkonverzió nélkül. Az alkalmazás natívan támogat több mint 120 audioformátumot, beleértve a FLAC, DSD (DSD64, DSD128, DSD256), ALAC, APE, WAV, AIFF, OGG, OPUS, WMA, MKA, MP3, AAC és más formátumokat. A Flacbox több mint 30 felhőalapú tárolószolgáltatáshoz csatlakozik, beleértve az iCloud Drive-ot, Google Drive-ot, Dropboxot, OneDrive-ot, MEGA-t, Boxot és pCloudot, lehetővé téve a felhasználóknak, hogy hi-res zenegyűjteményüket közvetlenül a felhőből streameljék, vagy fájlokat töltsenek le offline lejátszáshoz. A legfontosabb funkciók közé tartozik a 10 sávos audio equalizer testreszabható előbeállításokkal, crossfade és szünetmentes lejátszás, hangmagasság- és sebességszabályozás, basszuskiemelés, M3U lejátszási listák importálása és exportálása, dalszöveg megjelenítés, hangkönyvjelzők, beépített metaadat-címke szerkesztő, Apple CarPlay integráció, AirPlay és Chromecast streaming, valamint Last.fm scrobbling. Az alkalmazás támogatja a helyi hálózati streaminget SMB, WebDAV és DLNA protokollokon keresztül, USB flash meghajtóról történő lejátszást és Wi-Fi fájlátvitelt. A Flacbox ingyenesen letölthető az App Store-ból opcionális alkalmazáson belüli vásárlásokkal, amelyek havi előfizetést tartalmaznak $4.99-ért, éves előfizetést $19.99-ért, vagy egyszeri élethosszig tartó vásárlást $59.99-ért. Az alkalmazás először 2016-ban jelent meg, és rendszeres frissítésekkel aktívan karbantartják.
-{{% /sr-only %}}
+{{% /ls-sr-only %}}
 
 
 <!-- force dark theme for this page -->
-{{< force-dark >}}
+{{< ls-force-dark >}}
 
-{{< hextra/hero-container
+{{< ls-hero-container
   image="/products/flacbox/heroimage/hero_1600.png"
   imageWidth="800"
   imageCard="true"
@@ -32,36 +32,36 @@ A Flacbox egy hi-res audiolejátszó iPhone-ra és Macre, amelyet az Everappz, e
 
 <div class="hx:w-full hx:text-center">
 
-{{< downloads-badge >}}
+{{< ls-downloads-badge >}}
 
 <div class="hx:mt-6 hx:mb-6">
 <div class="hx:flex hx:gap-4 hx:items-center hx:justify-center">
-{{< app-icon src="/images/app_icons/png/Flacbox_Icon-App-1024x1024.png" alt="Flacbox Icon" class="hero-headline-icon" size="80" >}}
-{{< hextra/hero-headline >}}
+{{< ls-app-icon src="/images/app_icons/png/Flacbox_Icon-App-1024x1024.png" alt="Flacbox Icon" class="hero-headline-icon" size="80" >}}
+{{< ls-hero-headline >}}
 Flacbox
-{{< /hextra/hero-headline >}}
+{{< /ls-hero-headline >}}
 </div>
 </div>
 
 <div class="hx:mb-12">
-{{< hextra/hero-centered-subtitle >}}
+{{< ls-hero-centered-subtitle >}}
 <strong>Hi-Res audiolejátszó és streamer iPhone-ra és MAC-re</strong>
-{{< /hextra/hero-centered-subtitle >}}
+{{< /ls-hero-centered-subtitle >}}
 </div>
 
 <div class="hx:mb-6">
-{{< hextra/hero-paragraph >}}
+{{< ls-hero-paragraph >}}
 • Játssz le FLAC, ALAC, APE, DSD és más fájlokat veszteségmentes minőségben  
 • Töltsd le a zenét és hallgasd offline teljes kontrollal  
 • Streamelj Google Drive-ról, Dropboxból, NAS-ról vagy számítógépről   
-{{< /hextra/hero-paragraph >}}
+{{< /ls-hero-paragraph >}}
 </div>
 
-{{< app-store-badges products="flacbox:ios, flacbox:macos" >}}
+{{< ls-app-store-badges products="flacbox:ios, flacbox:macos" >}}
 
 </div>
 
-{{< /hextra/hero-container >}}
+{{< /ls-hero-container >}}
 
 <div class="hx:mt-6"></div>
 
@@ -69,7 +69,7 @@ Flacbox
 
 {{< hextra/feature-grid >}}
 
-  {{< hextra/feature-card
+  {{< ls-glass-feature-card
     title="Streamelj veszteségmentes zenét"
     subtitle=`Élvezd a veszteségmentes zenét iPhone-on, iPaden és Macen előfizetés nélkül.<br><br>
 Csatlakoztasd felhőtárhelyedet FLAC, ALAC, MKA és más formátumok ingyenes streameléséhez. Egyszerűen küldj Chromecast és AirPlay eszközökre.<br><br>
@@ -78,7 +78,7 @@ Csatlakoztasd felhőtárhelyedet FLAC, ALAC, MKA és más formátumok ingyenes s
     style="background: radial-gradient(circle at 50% 80%, rgba(99,102,241,0.15), transparent);"
   >}}
 
-  {{< hextra/feature-card
+  {{< ls-glass-feature-card
     title="Játssz le Hi-Res audiót"
     subtitle=`Élvezd a stúdióminőségű hangzást több mint 120 audioformátum támogatásával, beleértve a FLAC, ALAC, WAV, AIFF és DSD formátumokat.<br><br>
 A Flacbox MP3, AAC, OGG, APE, MOD, MKA és fejlett konténereket is lejátszik, mint az MKV, MP4 és MOV.<br><br>
@@ -87,7 +87,7 @@ A széleskörű kodek-kompatibilitásnak köszönhetően a teljes gyűjteményed
     style="background: radial-gradient(circle at 50% 80%, rgba(236,72,153,0.15), transparent);"
   >}}
 
-  {{< hextra/feature-card
+  {{< ls-glass-feature-card
     title="Töltsd le és hallgasd offline"
     subtitle=`Maradj kapcsolatban a zenéddel még offline állapotban is.<br><br>
 Tölts le teljes albumokat, műfajokat, lejátszási listákat és számokat az eszközödre. Használd a Wi-Fi Drive-ot vagy az iTunes fájlmegosztást hangfájlok átviteléhez Macről vagy PC-ről.<br><br>
@@ -102,9 +102,9 @@ Streamelj USB flash meghajtóról vagy hálózati tárhelyről (NAS) és élvezd
 
 <div class="hx:mt-6"></div>
 
-{{< hextra/section-headline >}}
+{{< ls-section-headline >}}
 Teljeskörű funkciók
-{{< /hextra/section-headline >}}
+{{< /ls-section-headline >}}
 
 <div class="hx:mt-6"></div>
 
@@ -112,41 +112,41 @@ Teljeskörű funkciók
 
 {{< cards >}}
 
-  {{< feature-card title="Hangminőség" subtitle="Élvezd a nagy pontosságú kimenetet 8 kHz-től 384 kHz-ig terjedő mintavételi sebességekkel, alapértelmezett vagy kevert kimeneti módokkal, valamint 1 és 7 közötti hangcsatorna támogatásával." icon="volume-up" >}}
-  {{< feature-card title="Veszteségmentes és Hi-Res audió" subtitle="Játssz le veszteségmentes és hi-res formátumokat, mint FLAC, ALAC, WAV, AIFF, APE, WV és DSF (DSD), valamint MP3, AAC, OGG és OPUS, akár 384 kHz-es mintavételi sebességgel." icon="music-note" >}}
-  {{< feature-card title="Tracker és MOD zene" subtitle="Játssz le klasszikus tracker- és modulzenét natívan, beleértve a MOD, XM, IT és S3M formátumokat a chiptune és demoscene világából, amelyeket a legtöbb lejátszó nem tud megnyitni." icon="table" >}}
+  {{< ls-feature-card title="Hangminőség" subtitle="Élvezd a nagy pontosságú kimenetet 8 kHz-től 384 kHz-ig terjedő mintavételi sebességekkel, alapértelmezett vagy kevert kimeneti módokkal, valamint 1 és 7 közötti hangcsatorna támogatásával." icon="volume-up" >}}
+  {{< ls-feature-card title="Veszteségmentes és Hi-Res audió" subtitle="Játssz le veszteségmentes és hi-res formátumokat, mint FLAC, ALAC, WAV, AIFF, APE, WV és DSF (DSD), valamint MP3, AAC, OGG és OPUS, akár 384 kHz-es mintavételi sebességgel." icon="music-note" >}}
+  {{< ls-feature-card title="Tracker és MOD zene" subtitle="Játssz le klasszikus tracker- és modulzenét natívan, beleértve a MOD, XM, IT és S3M formátumokat a chiptune és demoscene világából, amelyeket a legtöbb lejátszó nem tud megnyitni." icon="table" >}}
 
-  {{< feature-card title="Audiomotorok" subtitle="Válassz a három lejátszási motor közül: a szabványos rendszermotor, a sokoldalú FFmpeg motor és a professzionális BASS™ motor, amely effekteket, DSP-t és vizuális elemeket old fel." icon="switch-horizontal" >}}
-  {{< feature-card title="Audioeffektek" subtitle="Formáld a hangzást valós időben zengetéssel, késleltetéssel, visszhanggal, chorusszal, flangerrel, phaserrel, auto-wah-val, torzítással, kompresszorral és természetes fejhallgató-crossfeeddel." icon="lightning-bolt" >}}
-  {{< feature-card title="DSP lánc" subtitle="Építsd fel saját valós idejű jelláncodat professzionális szűrőkből és EQ-sávokból, szaturációból és bit crusherből, valamint kreatív processzorokból, mint a tremoló és a sztereó szélesség." icon="chip" >}}
+  {{< ls-feature-card title="Audiomotorok" subtitle="Válassz a három lejátszási motor közül: a szabványos rendszermotor, a sokoldalú FFmpeg motor és a professzionális BASS™ motor, amely effekteket, DSP-t és vizuális elemeket old fel." icon="switch-horizontal" >}}
+  {{< ls-feature-card title="Audioeffektek" subtitle="Formáld a hangzást valós időben zengetéssel, késleltetéssel, visszhanggal, chorusszal, flangerrel, phaserrel, auto-wah-val, torzítással, kompresszorral és természetes fejhallgató-crossfeeddel." icon="lightning-bolt" >}}
+  {{< ls-feature-card title="DSP lánc" subtitle="Építsd fel saját valós idejű jelláncodat professzionális szűrőkből és EQ-sávokból, szaturációból és bit crusherből, valamint kreatív processzorokból, mint a tremoló és a sztereó szélesség." icon="chip" >}}
 
-  {{< feature-card title="Audio hangszínszabályzó" subtitle="Finomhangold a hangzást többsávos hangszínszabályzóval, kész műfaji előbeállításokkal, kézi vezérléssel és előerősítő erősítéssel a halk számok kiemeléséhez torzítás nélkül." icon="adjustments" >}}
-  {{< feature-card title="Zenei vizualizáció" subtitle="Nézz teljes képernyős animált vizuális elemeket, amelyek élőben reagálnak a zenédre; válassz a nagy előbeállítás-gyűjteményből, vagy hagyd őket automatikusan váltakozni." icon="sparkles" >}}
-  {{< feature-card title="Lejátszásvezérlők" subtitle="Állítsd a lejátszási sebességet a hangmagasság megváltoztatása nélkül, mentsd és állítsd vissza a sort és a pozíciót, használj alvásidőzítőt, keverést, ismétlést és háttérben lejátszást." icon="play" >}}
+  {{< ls-feature-card title="Audio hangszínszabályzó" subtitle="Finomhangold a hangzást többsávos hangszínszabályzóval, kész műfaji előbeállításokkal, kézi vezérléssel és előerősítő erősítéssel a halk számok kiemeléséhez torzítás nélkül." icon="adjustments" >}}
+  {{< ls-feature-card title="Zenei vizualizáció" subtitle="Nézz teljes képernyős animált vizuális elemeket, amelyek élőben reagálnak a zenédre; válassz a nagy előbeállítás-gyűjteményből, vagy hagyd őket automatikusan váltakozni." icon="sparkles" >}}
+  {{< ls-feature-card title="Lejátszásvezérlők" subtitle="Állítsd a lejátszási sebességet a hangmagasság megváltoztatása nélkül, mentsd és állítsd vissza a sort és a pozíciót, használj alvásidőzítőt, keverést, ismétlést és háttérben lejátszást." icon="play" >}}
 
-  {{< feature-card title="Felhő streamelés" subtitle="Streamelj közvetlenül iCloud Drive-ról, Google Drive-ról, Dropboxból, OneDrive-ról, Boxból, MEGA-ról és pCloudról, valamint adatvédelemre fókuszáló felhőkről, mint az Internxt és a Proton Drive." icon="cloud" >}}
-  {{< feature-card title="Médiakiszolgálók" subtitle="Csatlakoztasd személyes médiakiszolgálóidat, köztük a Plexet, Subsonicot, Navidrome-ot, Jellyfint és Embyt, hogy megnyisd és streameld teljes zenei könyvtáradat." icon="server" >}}
-  {{< feature-card title="Számítógép és NAS" subtitle="Csatlakozz számítógéphez vagy NAS-hoz SMB, WebDAV, DLNA, FTP, SFTP vagy NFS protokollon, natív támogatással a QNAP, Synology, Nextcloud és WD My Cloud Home eszközökhöz." icon="desktop-computer" >}}
+  {{< ls-feature-card title="Felhő streamelés" subtitle="Streamelj közvetlenül iCloud Drive-ról, Google Drive-ról, Dropboxból, OneDrive-ról, Boxból, MEGA-ról és pCloudról, valamint adatvédelemre fókuszáló felhőkről, mint az Internxt és a Proton Drive." icon="cloud" >}}
+  {{< ls-feature-card title="Médiakiszolgálók" subtitle="Csatlakoztasd személyes médiakiszolgálóidat, köztük a Plexet, Subsonicot, Navidrome-ot, Jellyfint és Embyt, hogy megnyisd és streameld teljes zenei könyvtáradat." icon="server" >}}
+  {{< ls-feature-card title="Számítógép és NAS" subtitle="Csatlakozz számítógéphez vagy NAS-hoz SMB, WebDAV, DLNA, FTP, SFTP vagy NFS protokollon, natív támogatással a QNAP, Synology, Nextcloud és WD My Cloud Home eszközökhöz." icon="desktop-computer" >}}
 
-  {{< feature-card title="USB flash kártyák" subtitle="Játssz le zenét közvetlenül SD kártyákról és USB flash meghajtókról külső olvasókkal, mint a SanDisk iXpand, importálás vagy szinkronizálás nélkül." icon="inbox" >}}
-  {{< feature-card title="AirPlay és Chromecast" subtitle="Küldd zenédet vezeték nélkül Apple TV-re, HomePodra, okos hangszórókra és másokra a beépített AirPlay, AirPlay 2 és Google Chromecast támogatással." icon="device-mobile" >}}
-  {{< feature-card title="Apple CarPlay" subtitle="Vezess és hallgass zenét biztonságosan egy egyszerű, dedikált Apple CarPlay képernyővel, amellyel felhős, helyi és offline forrásokból választhatsz és vezérelheted a zenét." icon="map" >}}
+  {{< ls-feature-card title="USB flash kártyák" subtitle="Játssz le zenét közvetlenül SD kártyákról és USB flash meghajtókról külső olvasókkal, mint a SanDisk iXpand, importálás vagy szinkronizálás nélkül." icon="inbox" >}}
+  {{< ls-feature-card title="AirPlay és Chromecast" subtitle="Küldd zenédet vezeték nélkül Apple TV-re, HomePodra, okos hangszórókra és másokra a beépített AirPlay, AirPlay 2 és Google Chromecast támogatással." icon="device-mobile" >}}
+  {{< ls-feature-card title="Apple CarPlay" subtitle="Vezess és hallgass zenét biztonságosan egy egyszerű, dedikált Apple CarPlay képernyővel, amellyel felhős, helyi és offline forrásokból választhatsz és vezérelheted a zenét." icon="map" >}}
 
-  {{< feature-card title="Offline hallgatás" subtitle="Tölts le dalokat, albumokat és teljes előadókat internet nélküli hallgatáshoz, vagy kapcsold be az audio gyorsítótárat a legutóbb lejátszott számok automatikus mentéséhez." icon="download" >}}
-  {{< feature-card title="Automatikus szinkronizálás" subtitle="Tartsd könyvtáradat automatikusan szinkronban a felhőtárhely és a helyi mappák között, így az újonnan hozzáadott fájlok kézi munka nélkül megjelennek." icon="refresh" >}}
-  {{< feature-card title="Médiakönyvtár" subtitle="Add hozzá zenédet és rendezd automatikusan album, előadó, albumelőadó, műfaj és zeneszerző szerint a fájljaidba ágyazott címkék alapján." icon="library" >}}
+  {{< ls-feature-card title="Offline hallgatás" subtitle="Tölts le dalokat, albumokat és teljes előadókat internet nélküli hallgatáshoz, vagy kapcsold be az audio gyorsítótárat a legutóbb lejátszott számok automatikus mentéséhez." icon="download" >}}
+  {{< ls-feature-card title="Automatikus szinkronizálás" subtitle="Tartsd könyvtáradat automatikusan szinkronban a felhőtárhely és a helyi mappák között, így az újonnan hozzáadott fájlok kézi munka nélkül megjelennek." icon="refresh" >}}
+  {{< ls-feature-card title="Médiakönyvtár" subtitle="Add hozzá zenédet és rendezd automatikusan album, előadó, albumelőadó, műfaj és zeneszerző szerint a fájljaidba ágyazott címkék alapján." icon="library" >}}
 
-  {{< feature-card title="Egyéni lejátszási listák" subtitle="Hozz létre, szerkessz és rendezz át saját lejátszási listákat, tedd őket offline elérhetővé, és importáld vagy exportáld őket M3U, M3U8 és CUE formátumban." icon="collection" >}}
-  {{< feature-card title="Fájlkezelő" subtitle="Kezeld zenédet a beépített fájlkezelővel, amely olyan mindennapi műveleteket végez, mint a másolás, áthelyezés, átnevezés és törlés, hogy rendben tartsd a fájljaidat." icon="folder" >}}
-  {{< feature-card title="ID3 címkeszerkesztő" subtitle="Javítsd a hibás vagy hiányzó metaadatokat a beépített ID3 címkeszerkesztővel, néhány koppintással frissítve a címet, előadót, albumot, műfajt és többet." icon="pencil-alt" >}}
+  {{< ls-feature-card title="Egyéni lejátszási listák" subtitle="Hozz létre, szerkessz és rendezz át saját lejátszási listákat, tedd őket offline elérhetővé, és importáld vagy exportáld őket M3U, M3U8 és CUE formátumban." icon="collection" >}}
+  {{< ls-feature-card title="Fájlkezelő" subtitle="Kezeld zenédet a beépített fájlkezelővel, amely olyan mindennapi műveleteket végez, mint a másolás, áthelyezés, átnevezés és törlés, hogy rendben tartsd a fájljaidat." icon="folder" >}}
+  {{< ls-feature-card title="ID3 címkeszerkesztő" subtitle="Javítsd a hibás vagy hiányzó metaadatokat a beépített ID3 címkeszerkesztővel, néhány koppintással frissítve a címet, előadót, albumot, műfajt és többet." icon="pencil-alt" >}}
 
-  {{< feature-card title="Fejlett keresés" subtitle="Gyorsan találj meg bármely dalt, előadót vagy albumot a teljes gyűjteményedben egy okos, gyors kereséssel, amelyet nagyon nagy zenei könyvtárakhoz terveztek." icon="search" >}}
-  {{< feature-card title="Gyors hozzáférés" subtitle="Ugorj vissza egyenesen ahhoz, ami számít, a Legutóbbiak, Kedvencek és Könyvjelzők segítségével, hogy kedvenc számaid mindig egyetlen koppintásra legyenek." icon="clock" >}}
-  {{< feature-card title="Dalszövegek és megjegyzések" subtitle="Tekintsd meg az időzített dalszövegeket és dalmegjegyzéseket minden számon belül lejátszás közben, és add hozzá a Dalszöveg widgetet a kezdőképernyődhöz a gyors áttekintésért." icon="annotation" >}}
+  {{< ls-feature-card title="Fejlett keresés" subtitle="Gyorsan találj meg bármely dalt, előadót vagy albumot a teljes gyűjteményedben egy okos, gyors kereséssel, amelyet nagyon nagy zenei könyvtárakhoz terveztek." icon="search" >}}
+  {{< ls-feature-card title="Gyors hozzáférés" subtitle="Ugorj vissza egyenesen ahhoz, ami számít, a Legutóbbiak, Kedvencek és Könyvjelzők segítségével, hogy kedvenc számaid mindig egyetlen koppintásra legyenek." icon="clock" >}}
+  {{< ls-feature-card title="Dalszövegek és megjegyzések" subtitle="Tekintsd meg az időzített dalszövegeket és dalmegjegyzéseket minden számon belül lejátszás közben, és add hozzá a Dalszöveg widgetet a kezdőképernyődhöz a gyors áttekintésért." icon="annotation" >}}
 
-  {{< feature-card title="Widgetek" subtitle="Adj hozzá kezdőképernyős widgeteket, amelyek megmutatják a lejátszási sorodat, és lehetővé teszik, hogy egyből visszatérj, pontosan onnan folytatva, ahol abbahagytad." icon="view-grid" >}}
-  {{< feature-card title="Hangoskönyv támogatás" subtitle="Hallgass hangoskönyveket könyvjelzőkkel, alvásidőzítővel, állítható sebességgel és lejátszás folytatásával, amely pontosan onnan folytatja, ahol legutóbb abbahagytad." icon="book-open" >}}
-  {{< feature-card title="Last.fm integráció" subtitle="Csatlakoztasd Last.fm fiókodat számok scrobbleléséhez, kövesd hallgatási statisztikáidat, és kapj személyre szabott zenei ajánlásokat idővel." icon="chart-bar" >}}
+  {{< ls-feature-card title="Widgetek" subtitle="Adj hozzá kezdőképernyős widgeteket, amelyek megmutatják a lejátszási sorodat, és lehetővé teszik, hogy egyből visszatérj, pontosan onnan folytatva, ahol abbahagytad." icon="view-grid" >}}
+  {{< ls-feature-card title="Hangoskönyv támogatás" subtitle="Hallgass hangoskönyveket könyvjelzőkkel, alvásidőzítővel, állítható sebességgel és lejátszás folytatásával, amely pontosan onnan folytatja, ahol legutóbb abbahagytad." icon="book-open" >}}
+  {{< ls-feature-card title="Last.fm integráció" subtitle="Csatlakoztasd Last.fm fiókodat számok scrobbleléséhez, kövesd hallgatási statisztikáidat, és kapj személyre szabott zenei ajánlásokat idővel." icon="chart-bar" >}}
 
 {{< /cards >}}
 
@@ -154,9 +154,9 @@ Teljeskörű funkciók
 
 <div class="hx:mt-6"></div>
 
-{{< hextra/section-headline >}}
+{{< ls-section-headline >}}
 Intuitív dizájn
-{{< /hextra/section-headline >}}
+{{< /ls-section-headline >}}
 
 <div class="hx:mt-6"></div>
 
@@ -164,7 +164,7 @@ Intuitív dizájn
 
 {{< cards cols="4">}}
 
-  {{< design-feature-card 
+  {{< ls-design-feature-card 
     image="/products/flacbox/screenshots/2048x2732/1.png" 
     title="Audiolejátszó" 
     method="Fill"
@@ -173,7 +173,7 @@ Intuitív dizájn
     icon="play"
   >}}
 
-  {{< design-feature-card 
+  {{< ls-design-feature-card 
     image="/products/flacbox/screenshots/2048x2732/2.png"  
     title="Audio hangszínszabályzó" 
     method="Fill"
@@ -182,7 +182,7 @@ Intuitív dizájn
     icon="adjustments"
   >}}
 
-  {{< design-feature-card 
+  {{< ls-design-feature-card 
     image="/products/flacbox/screenshots/2048x2732/3.png"  
     title="Lejátszási lista kezelő" 
     method="Fill"
@@ -191,7 +191,7 @@ Intuitív dizájn
     icon="collection"
   >}}
 
-  {{< design-feature-card 
+  {{< ls-design-feature-card 
     image="/products/flacbox/screenshots/2048x2732/5.png"  
     title="Médiakönyvtár" 
     method="Fill"
@@ -200,7 +200,7 @@ Intuitív dizájn
     icon="library"
   >}}
 
-  {{< design-feature-card 
+  {{< ls-design-feature-card 
     image="/products/flacbox/screenshots/2048x2732/7.png"  
     title="Felhőtárhely" 
     method="Fill"
@@ -209,7 +209,7 @@ Intuitív dizájn
     icon="cloud"
   >}}
 
-  {{< design-feature-card 
+  {{< ls-design-feature-card 
     image="/products/flacbox/screenshots/2048x2732/8.png"  
     title="iCloud Drive" 
     method="Fill"
@@ -227,48 +227,48 @@ Intuitív dizájn
 <div class="hx:mt-6"></div>
 
 <div class="hx:w-full">
-{{< appstore-reviews apps="1097564256,1594027432" stars="5,4"  app="Flacbox" >}}
+{{< ls-appstore-reviews apps="1097564256,1594027432" stars="5,4"  app="Flacbox" >}}
 </div>
 
 <div class="hx:mt-6"></div>
 
-{{< hextra/section-headline >}}
+{{< ls-section-headline >}}
    Árazási csomagok
-{{< /hextra/section-headline >}}
+{{< /ls-section-headline >}}
 
 <div class="hx:mt-6"></div>
 
 <div class="hx:w-full">
 
-{{< pricing-plans >}}
+{{< ls-pricing-plans >}}
 
 </div>
 
 <div class="hx:mt-6"></div>
 
 <div class="hx:w-full hx:mx-auto hx:flex hx:flex-col hx:items-center">
-  {{< hextra/info-paragraph border="true" >}}
+  {{< ls-info-paragraph border="true" >}}
    <strong>Családi megosztás</strong>: Minden vásárlás és előfizetés támogatja a Családi megosztást, lehetővé téve a Prémium hozzáférés megosztását családoddal.<br><strong>Univerzális hozzáférés</strong>: Az élethosszig tartó és előfizetéses csomagok megosztottak iOS és Mac eszközök között iCloud szinkronizáció segítségével.<br><strong>Árazás</strong>: Az árak amerikai dollárban vannak megadva az Egyesült Államok számára. A végső árak régiónként eltérhetnek.  
-  {{< /hextra/info-paragraph >}}
+  {{< /ls-info-paragraph >}}
 </div>
 
 <div class="hx:mt-6"></div>
 
 <div class="hx:w-full">
-{{< app-details heading="true" >}}
+{{< ls-app-details heading="true" >}}
 </div>
 
 <div class="hx:mt-6"></div>
 
-{{< hextra/section-headline >}}
+{{< ls-section-headline >}}
    Gyakran ismételt kérdések
-{{< /hextra/section-headline >}}
+{{< /ls-section-headline >}}
 
 <div class="hx:mt-6"></div>
 
 <div class="hx:w-full">
 
-{{% details title="Hogyan működik a Flacbox?" closed="true" %}}
+{{% ls-details title="Hogyan működik a Flacbox?" closed="true" %}}
 A Flacbox egy hi-res zenelejátszó, amely lehetővé teszi az audio fájlok kezelését hagyományos fájlokként.<br>
 Feltöltheted teljes zenei gyűjteményedet felhőszolgáltatásokba, mint a Dropbox, Google Drive vagy személyes NAS, és közvetlenül a felhőből játszhatsz le zenét teljes kontrollal.<br><br>
 Nincs szükség iTunes szinkronizálásra – egyszerűen töltsd fel PC-ről vagy Macről, ahogy bármely fájlt tennéd.<br>
@@ -282,9 +282,9 @@ Tekintsd meg útmutatóinkat további részletekért:<br>
 - [Hogyan vigyél át fájlokat vezeték nélkül számítógépről iPhone-ra WiFi-Drive segítségével.](/docs/howto/how-to-transfer-files-wirelessly-from-a-computer-to-an-iphone-using-wifi-drive)<br>
 - [Hogyan csatlakoztass USB flash kártyát iPhone-hoz és hallgass zenét vagy kezelj fájlokat rajta.](/docs/howto/how-to-connect-a-usb-flashcard-to-the-iphone-and-listen-to-music-or-manage-files-located-on-it)<br>
 - [Hogyan játszhatsz le zenét iPhone-on WD My Cloud Home-ról.](/docs/howto/how-to-play-music-on-iphone-from-wd-my-cloud-home)
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Ingyenes a Flacbox?" closed="true" %}}
+{{% ls-details title="Ingyenes a Flacbox?" closed="true" %}}
 A Flacbox ingyenesen használható bizonyos korlátozásokkal, amelyek eltávolíthatók a Prémium verzióra való frissítéssel.<br>
 Választhatsz egyszeri élethosszig tartó vásárlás vagy két előfizetési lehetőség (havi vagy éves) között. Az árak régiónként eltérhetnek.<br><br>
 
@@ -293,10 +293,10 @@ A Családi megosztás minden csomagnál elérhető, így megoszthatod a Prémium
 A Prémium vásárlások és előfizetések megosztottak iOS és Mac között az iCloudon keresztül. A vásárlás szinkronizálásához győződj meg arról, hogy az iCloud engedélyezve van, nyisd meg az alkalmazást iOS eszközödön, és várj egy percet a szinkronizálás befejezéséig.<br><br>
 
 [Tudj meg többet a Flacbox és a Flacbox Premium közötti különbségekről](/docs/faq/flacbox/what-is-the-difference-between-flacbox-and-flacbox-premium/)
-{{% /details %}}
+{{% /ls-details %}}
 
 
-{{% details title="Mi a különbség a Flacbox és az Evermusic között?" closed="true" %}}
+{{% ls-details title="Mi a különbség a Flacbox és az Evermusic között?" closed="true" %}}
 A **Flacbox** az összes alapértelmezett iOS audioformátum támogatására készült, számos további, iPhone-on natívan nem támogatott formátummal együtt, mint a WMA, OGG, M4A, DSD és több.<br>
 Egyéni audio motort használ szinte minden formátum kezelésére, és olyan funkciókat kínál, mint az állítható audio kimeneti mintavételi sebesség és hangmagasság-korrekció.<br><br>
 
@@ -306,9 +306,9 @@ Ha főleg MP3-at, ALAC-ot vagy FLAC-ot használsz, az **Evermusic** lehet a jobb
 Ha széleskörű kompatibilitásra van szükséged különféle audiofájl-típusokkal, a **Flacbox** a megfelelő választás.<br><br>
 
 [Tudj meg többet a Flacbox és az Evermusic közötti különbségekről](/docs/faq/evermusic/what-is-the-difference-between-evermusic-and-flacbox/)
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Hogyan szinkronizálom a Flacboxot?" closed="true" %}}
+{{% ls-details title="Hogyan szinkronizálom a Flacboxot?" closed="true" %}}
 
 **Metaadat-szinkronizálás**  
 Amikor számokat adsz hozzá a könyvtáradhoz, egy háttérben futó metaadat-olvasó beolvassa fájljaidat és rendezi őket előadó, album, műfaj és zeneszerző szerint.<br>
@@ -345,10 +345,10 @@ A beállításokban testreszabhatod a **szinkronizálási időtúllépési inter
 
 [Tudj meg többet](/docs/guide/flacbox/flacbox-guide-music-library)
 
-{{% /details %}}
+{{% /ls-details %}}
 
 
-{{% details title="Hogyan használjam a Flacboxot?" closed="true" %}}
+{{% ls-details title="Hogyan használjam a Flacboxot?" closed="true" %}}
 
 **Telepítsd a Flacboxot**<br>
 Töltsd le és telepítsd a Flacbox alkalmazást az eszközöd alkalmazásboltjából. Elérhető iOS és Mac eszközökre egyaránt.<br><br>
@@ -408,10 +408,10 @@ Fedezd fel az alkalmazáson belüli oktatóanyagokat vagy látogasd meg ezeket a
 • [USB flash kártya csatlakoztatása](/docs/howto/how-to-connect-a-usb-flashcard-to-the-iphone-and-listen-to-music-or-manage-files-located-on-it)<br>
 • [WiFi-Drive vezeték nélküli átvitel](/docs/howto/how-to-transfer-files-wirelessly-from-a-computer-to-an-iphone-using-wifi-drive)
 
-{{% /details %}}
+{{% /ls-details %}}
 
 
-{{% details title="Biztonságos a Flacbox?" closed="true" %}}
+{{% ls-details title="Biztonságos a Flacbox?" closed="true" %}}
 A Flacbox csak hivatalos SDK-t és biztonságos kapcsolatokat használ a csatlakoztatott felhőszolgáltatásokkal való interakcióhoz. A bejelentkezési neved és jelszavad nem érhető el az alkalmazás számára. Az alkalmazásból a felhőszolgáltatás felé irányuló összes kérés titkosított.<br>
 Amikor megadod a bejelentkezési nevet és jelszót, az alkalmazás a felhőszolgáltató által biztosított hivatalos engedélyezési oldalt mutatja, és az egész engedélyezési folyamat az alkalmazáson kívül zajlik. A felhőszolgáltató sikeres engedélyezés után egy auth-tokent küld az alkalmazásnak, és azt a tokent használják az API hívásokhoz.<br><br>
 
@@ -423,24 +423,24 @@ Az auth-token elutasításához jelentkezz be a fiókodba a böngészőben és n
 A csatlakoztatott felhőfiókokat az alkalmazásban is leválaszthatod, és az auth-token szintén eltávolításra kerül az eszközödről. Ha eltávolítod az alkalmazást az eszközödről, az összes letöltött adat és hozzáférési token szintén eltávolításra kerül.<br><br>
 
 [Tudj meg többet](/docs/guide/flacbox/flacbox-guide-connections)
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Hogyan hozzak létre lejátszási listát a Flacboxban?" closed="true" %}}
+{{% ls-details title="Hogyan hozzak létre lejátszási listát a Flacboxban?" closed="true" %}}
 - Nyisd meg a Lejátszási listák szekciót.<br>
 - Koppints a "+" gombra vagy a "..." gombra a jobb felső sarokban és válaszd az "Új lejátszási lista" lehetőséget.<br>
 - Adj meg egy nevet a lejátszási listának és koppints a "Mentés" gombra. Megjelenik a "Dalok hozzáadása" párbeszédablak.<br>
 - Válaszd ki a lejátszási listához hozzáadni kívánt számokat.<br><br>
 
 [Tudj meg többet](/docs/guide/flacbox/flacbox-guide-playlists)
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Milyen felhőszolgáltatásokat támogat a Flacbox?" closed="true" %}}
+{{% ls-details title="Milyen felhőszolgáltatásokat támogat a Flacbox?" closed="true" %}}
 Jelenleg az alkalmazás a legnépszerűbb felhőszolgáltatásokat támogatja: iCloud Drive, Google Drive, Dropbox, OneDrive, Box, MEGA, Yandex.Disk, WD MyCloud Home, DLNA, MediaFire, WebDAV, SMB, pCloud, HiDrive, My Cloud Home, InfiniCLOUD, Cloud Mail.ru, Put.io, MyDrive.<br><br>
 
 [Tudj meg többet](/docs/guide/flacbox/flacbox-guide-connections)
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Hogyan használhatom a hangszínszabályzót?" closed="true" %}}
+{{% ls-details title="Hogyan használhatom a hangszínszabályzót?" closed="true" %}}
 - Nyisd meg az audiolejátszó képernyőt.<br>
 - Koppints a "Hangszínszabályzó" ikonra a képernyő alján.<br>
 - Kapcsold be a kapcsolót a hangszínszabályzó képernyő jobb felső sarkában a hangszínszabályzó aktiválásához.<br>
@@ -448,9 +448,9 @@ Jelenleg az alkalmazás a legnépszerűbb felhőszolgáltatásokat támogatja: i
 
 Teljes útmutató elérhető itt:<br>
 [Hogyan használd az audio hangszínszabályzót iPhone-on, iPaden, Macen Evermusic és Flacbox alkalmazásokkal](/docs/howto/how-to-use-the-audio-equalizer-on-your-iphone-ipad-mac-with-evermusic-and-flacbox)
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Hogyan engedélyezem az offline módot a Flacboxban?" closed="true" %}}
+{{% ls-details title="Hogyan engedélyezem az offline módot a Flacboxban?" closed="true" %}}
 - Csatlakoztass egy felhőszolgáltatást:<br>
  • Menj a "Kapcsolatok" fülre.<br>
  • Válaszd a "Felhőszolgáltatás csatlakoztatása" lehetőséget és kövesd az utasításokat a kívánt szolgáltatás csatlakoztatásához.<br><br>
@@ -476,9 +476,9 @@ Teljes útmutató elérhető itt:<br>
  • Koppints a "További műveletek" gombra és válaszd a "Szinkronizálás indítása" lehetőséget.<br><br>
 
 [Tudj meg többet](/docs/howto/play-offline-music-in-evermusic-flacbox-download-sync-from-cloud-to-local-files/)
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Hogyan játszhatok le helyileg letöltött zenét iPhone-on?" closed="true" %}}
+{{% ls-details title="Hogyan játszhatok le helyileg letöltött zenét iPhone-on?" closed="true" %}}
 Az alkalmazás telepítése után nyisd meg a "Helyi fájlok" képernyőt és görgess le a "Fájlok ezen az iPhone-on" szekcióhoz. Onnan válaszd az "Fájlok megnyitása..." lehetőséget, ha több audiofájlt szeretnél kiválasztani, vagy a "Mappa megnyitása..." lehetőséget, ha zene mappát szeretnél választani. Az alkalmazás beolvassa a mappa tartalmát, és az összes talált audiofájl kijelölésre kerül. Navigálj a zene mappádhoz, koppints a "Megnyitás" gombra a kiválasztás megerősítéséhez, és a fájlok hozzáadódnak a lejátszó sorához. Ezek a fájlok közvetlenül a kiválasztott helyről kerülnek lejátszásra, anélkül hogy az alkalmazás csomagjába másolódnának.<br><br>
 
 **Mappa hozzáadása a kedvencekhez a gyors hozzáférésért**<br>
@@ -493,13 +493,13 @@ Helyi fájlok lejátszási listához adásához nyisd meg a "Lejátszási listá
 Ezekkel az egyszerű lépésekkel kiaknázhatod iPhone-od és Maced teljes potenciálját mint a tökéletes platformot kedvenc helyi zenei gyűjteményed élvezetéhez.<br><br>
 
 [Tudj meg többet](/docs/howto/how-to-play-local-music-stored-on-your-iphone-or-mac)
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Hogyan folytathatom a lejátszási listát onnan, ahol abbahagytam?" closed="true" %}}
+{{% ls-details title="Hogyan folytathatom a lejátszási listát onnan, ahol abbahagytam?" closed="true" %}}
 Először győződj meg arról, hogy az "Audiolejátszó állapot mentése" engedélyezve van a Beállítások > Audiolejátszó > Általános menüben. Amikor másik lejátszási listára váltasz és visszatérsz, négy műveletet látsz a felső eszköztáron az albumborító alatt: "Keresés," "Lejátszás folytatása," "Összes lejátszása" és "Összes keverése." Koppints a "Lejátszás folytatása" gombra a lejátszási lista folytatásához az utolsó mentett állapotból és médiapozícióból.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Hogyan nézhetek dalszövegeket a Flacboxban?" closed="true" %}}
+{{% ls-details title="Hogyan nézhetek dalszövegeket a Flacboxban?" closed="true" %}}
 Megtekintheted a beágyazott dalszövegeket az alkalmazásban az **alábbi lépések követésével**:<br>
 1. Kezdd el lejátszani egy audiofájlt a rákoppintással.<br>
 2. Nyisd meg a teljes képernyős audiolejátszót.<br>
@@ -513,9 +513,9 @@ Megtekintheted a beágyazott dalszövegeket az alkalmazásban az **alábbi lép�
 3. LRC fájl mód: Az audiofájlok szerkesztése helyett elhelyezhetsz egy LRC fájlt ugyanabba a mappába, mint az eredeti audiofájlt. Mindkét fájlnak azonos nevűnek kell lennie, de eltérő kiterjesztéssel. Amikor a harmadik oldalra görgetsz a Megjegyzések képernyőn, az alkalmazás megkeresi az LRC fájlt ugyanabban a könyvtárban és megjeleníti a tartalmát.<br><br>
 
 [Tudj meg többet](/docs/howto/how-to-add-and-view-comments-to-your-audio-tracks-on-iphone-ipad-and-mac-with-evermusic-and-flacbox)
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Hogyan vihetek át zenét a Flacboxba a számítógépemről?" closed="true" %}}
+{{% ls-details title="Hogyan vihetek át zenét a Flacboxba a számítógépemről?" closed="true" %}}
 Csatlakoztathatod számítógépedet vagy személyes NAS-odat SMB, WebDAV vagy DLNA protokollok segítségével. Alternatívaként használd az iTunes fájlmegosztást a zene átviteléhez.<br><br>
 
 Számítógép csatlakoztatásához SMB protokollal koppints a "Felhőszolgáltatás csatlakoztatása" → SMB lehetőségre. Add meg a számítógép IP-címét és a megosztott mappa nevét az URL mezőbe smb://számítógép-ip-cím/megosztott-mappa-név formátumban, add meg a bejelentkezési nevet és jelszót, majd koppints a "Kész" gombra. Ha a kapcsolat sikeres, a csatlakoztatott tárhely megjelenik a "Felhőszolgáltatások" szekcióban.<br><br>
@@ -536,9 +536,9 @@ Részletes útmutató elérhető itt:<br>
 
 DLNA Beállíthatsz DLNA médiakiszolgálót is és streamelheted zenédet Windows PC-ről az itt leírtak szerint:<br>
 [Hogyan engedélyezd a DLNA médiakiszolgálót Windows 10-en és játszd le zenédet iPhone-on](/docs/howto/how-to-enable-dlna-media-server-on-windows-10-and-play-your-music-on-iphone)
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Hogyan töltsek le zenét?" closed="true" %}}
+{{% ls-details title="Hogyan töltsek le zenét?" closed="true" %}}
 Mielőtt letölthetnéd és offline hallgathatnád a zenédet, csatlakoztatnod kell egy hálózati fiókot.<br>
 Egyszerűen nyisd meg a "Kapcsolatok" képernyőt és add hozzá a fiókodat.<br>
 Miután hozzáadtál egy hálózati fiókot, letöltheted a zenédet a felhőből.<br><br>
@@ -559,15 +559,15 @@ Részletesebb útmutató az offline módról elérhető itt:<br>
 
 Egy másik elérhető lehetőség a zene letöltése felhőszolgáltatásokból és importálása az Evermusic alkalmazásba az itt leírtak szerint:<br>
 [Hogyan tölts le zenét YouTube-ról és hallgass offline zenét iPhone-on](/docs/howto/how-to-download-music-from-youtube-and-listen-to-offline-music-on-iphone)
-{{% /details %}}
+{{% /ls-details %}}
 
 
-{{% details title="Milyen audioformátumokat támogat a Flacbox?" closed="true" %}}
+{{% ls-details title="Milyen audioformátumokat támogat a Flacbox?" closed="true" %}}
 Ez az alkalmazás támogatja az alapértelmezett **rendszer audio kodekeket** és további **ffmpeg szoftver kodekeket**:<br><br>
 3g2, 3gp, 3gp2, 3gpp, 8svx, aa, aac, aax, ac3, act, adt, adts, aif, aifc, aiff, alac, amr, amv, ape, asf, au, avi, awb, caf, cavs, cdda, cue, dct, dff, drc, dsf, dss, dvf, "dvr-ms", ec3, f4a, f4b, f4p, f4v, flac, flv, gif, gifv, gsm, gxf, h261, h263, h264, ifv, iklax, ivf, ivs, l16, latm, loas, m2t, m2ts, m2v, m3u, m3u8, m4a, m4b, m4p, m4r, m4v, mka, mkv, mmf, mng, mod, mogg, mov, mp1, mp2, mp3, mp4, mp4v, mpa, mpc, mpe, mpeg, mpg, mpv, msv, mts, mxf, nsf, nsv, nut, oga, ogg, ogv, opus, pcm, pls, qt, ra, raw, rm, rmvb, roq, rv, sln, snd, svi, tod, tta, vob, voc, vox, vtt, w64, wav, wave, webm, wma, wmv, wv, xhe, xmv, y4m, yuv.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Használhatom a Flacboxot hangoskönyvek lejátszásához?" closed="true" %}}
+{{% ls-details title="Használhatom a Flacboxot hangoskönyvek lejátszásához?" closed="true" %}}
 
 Igen, a Flacbox erőteljes hangoskönyv-lejátszóként is használható.<br><br>
 
@@ -590,11 +590,11 @@ A Flacbox teljeskörű megoldást nyújt a hangoskönyv-rajongók számára iPho
 
 [Tudj meg többet](/docs/howto/how-to-listen-to-audiobooks-on-iphone-ipad-mac-using-evermusic)
 
-{{% /details %}}
+{{% /ls-details %}}
 
 
 
-{{% details title="Működik a Flacbox NAS eszközökkel?" closed="true" %}}
+{{% ls-details title="Működik a Flacbox NAS eszközökkel?" closed="true" %}}
 
 Igen, a Flacbox támogatja a NAS kapcsolatokat **SMB**, **WebDAV** és **DLNA** protokollok segítségével.<br><br>
 
@@ -625,10 +625,10 @@ Ha a kapcsolat sikeres, a NAS-od megjelenik a **Felhőszolgáltatások** szekci�
 • [Bluesound Vault tárhely csatlakoztatása](/docs/howto/how-to-connect-bluesound-vault-s-internal-storage-from-the-evermusic-flacbox-evertag)<br>
 • [NAS tárhely csatlakoztatása WebDAV segítségével](/docs/howto/how-to-connect-nas-storage-using-webdav-and-listen-to-music-on-your-iphone-or-mac)
 
-{{% /details %}}
+{{% /ls-details %}}
 
 
-{{% details title="Hogyan importáljak zenét a Flacboxba?" closed="true" %}}
+{{% ls-details title="Hogyan importáljak zenét a Flacboxba?" closed="true" %}}
 
 **Csatlakoztasd a felhőszolgáltatásodat**<br>
 • Nyisd meg a **Kapcsolatok** fület.<br>
@@ -674,10 +674,10 @@ Fedezd fel ezeket az útmutatókat további segítségért:<br><br>
 • [Fájlok vezeték nélküli átvitele WiFi-Drive segítségével](/docs/howto/how-to-transfer-files-wirelessly-from-a-computer-to-an-iphone-using-wifi-drive)<br>
 • [Fájlok átvitele SMB protokoll segítségével](/docs/howto/transfer-your-files-from-the-computer-to-iphone-using-smb-protocol/)
 
-{{% /details %}}
+{{% /ls-details %}}
 
 
-{{% details title="Hogyan használjam a Wi-Fi Drive funkciót a Flacboxban?" closed="true" %}}
+{{% ls-details title="Hogyan használjam a Wi-Fi Drive funkciót a Flacboxban?" closed="true" %}}
 
 **Vezeték nélküli átvitel asztali böngészővel**<br>
 1. Indítsd el az alkalmazást: Nyisd meg a Flacboxot.<br>
@@ -702,9 +702,9 @@ Megjegyzés: Győződj meg arról, hogy a JavaScript engedélyezve van és a leg
 
 [Tudj meg többet](/docs/howto/how-to-transfer-files-wirelessly-from-a-computer-to-an-iphone-using-wifi-drive)
 
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Támogatja a Flacbox az Apple CarPlayt?" closed="true" %}}
+{{% ls-details title="Támogatja a Flacbox az Apple CarPlayt?" closed="true" %}}
 Igen, a **Flacbox teljes mértékben támogatja az Apple CarPlayt**. Böngészheted zenei könyvtáradat, lejátszhatsz helyi vagy offline fájlokat, csatlakozhatsz felhőtárhelyhez, és közvetlenül az autód infotainment képernyőjéről irányíthatod a lejátszást.
 
 A CarPlay felület dedikált füleket tartalmaz a **Könyvtár**, **Kapcsolatok**, **Helyi fájlok** és **Beállítások** számára, teljes kontrollt biztosítva a zenéd felett útközben. Lejátszásvezérlők, keverés, ismétlés és sorvezérlés szintén elérhető.
@@ -712,42 +712,42 @@ A CarPlay felület dedikált füleket tartalmaz a **Könyvtár**, **Kapcsolatok*
 A CarPlay használatához győződj meg arról, hogy a Siri engedélyezve van és az iPhone-od USB-n vagy vezeték nélkül csatlakozik.
 
 [Olvasd el a teljes útmutatót](/docs/howto/how-to-play-your-own-music-on-iphone-using-carplay/)
-{{% /details %}}
+{{% /ls-details %}}
 
 </div>
 
 
 <div class="hx:mt-6"></div>
 
-{{< hextra/section-headline >}}
+{{< ls-section-headline >}}
   Felhasználói útmutató
-{{< /hextra/section-headline >}}
+{{< /ls-section-headline >}}
 
 <div class="hx:mt-6"></div>
 
 <div class="hx:w-full">
 
 <div class="hx:w-full hx:mx-auto hx:flex hx:flex-col hx:items-center hx:text-center">
-  {{< hextra/info-paragraph border="false" >}}
+  {{< ls-info-paragraph border="false" >}}
   Ez az útmutató segít a legtöbbet kihozni a Flacboxból iPhone-on, iPaden vagy Macen. Tanuld meg, hogyan streamelj nagy felbontású zenét a felhőből, rendezd a könyvtáradat, kezelj hangoskönyveket és vigyél át zenét eszközök között.
-  {{< /hextra/info-paragraph >}}
+  {{< /ls-info-paragraph >}}
 </div>
 
 {{< cards >}}
 
-{{< feature-card icon="map" link="/docs/guide/flacbox/flacbox-guide-navigation" title="Navigáció" subtitle="Használd a füles sávot iPhone-on vagy a bal oldali menüt iPaden és Macen." >}}
+{{< ls-feature-card icon="map" link="/docs/guide/flacbox/flacbox-guide-navigation" title="Navigáció" subtitle="Használd a füles sávot iPhone-on vagy a bal oldali menüt iPaden és Macen." >}}
 
-{{< feature-card icon="cloud" link="/docs/guide/flacbox/flacbox-guide-connections" title="Kapcsolatok" subtitle="Csatlakoztasd a Dropboxot, Google Drive-ot, iCloudot vagy a NAS-odat." >}}
+{{< ls-feature-card icon="cloud" link="/docs/guide/flacbox/flacbox-guide-connections" title="Kapcsolatok" subtitle="Csatlakoztasd a Dropboxot, Google Drive-ot, iCloudot vagy a NAS-odat." >}}
 
-{{< feature-card icon="collection" link="/docs/guide/flacbox/flacbox-guide-music-library" title="Zenei könyvtár" subtitle="Kezeld és keresd a számokat előadó, album vagy műfaj szerint." >}}
+{{< ls-feature-card icon="collection" link="/docs/guide/flacbox/flacbox-guide-music-library" title="Zenei könyvtár" subtitle="Kezeld és keresd a számokat előadó, album vagy műfaj szerint." >}}
 
-{{< feature-card icon="music-note" link="/docs/guide/flacbox/flacbox-guide-playlists" title="Lejátszási listák" subtitle="Hozz létre és rendezz lejátszási listákat bármely hangulathoz vagy alkalomhoz." >}}
+{{< ls-feature-card icon="music-note" link="/docs/guide/flacbox/flacbox-guide-playlists" title="Lejátszási listák" subtitle="Hozz létre és rendezz lejátszási listákat bármely hangulathoz vagy alkalomhoz." >}}
 
-{{< feature-card icon="folder" link="/docs/guide/flacbox/flacbox-guide-local-files" title="Helyi fájlok" subtitle="Szerkeszd és játszd le az offline zenét a beépített fájlkezelővel." >}}
+{{< ls-feature-card icon="folder" link="/docs/guide/flacbox/flacbox-guide-local-files" title="Helyi fájlok" subtitle="Szerkeszd és játszd le az offline zenét a beépített fájlkezelővel." >}}
 
-{{< feature-card icon="play" link="/docs/guide/flacbox/flacbox-guide-player" title="Audiolejátszó" subtitle="Vezéreld a lejátszást, állítsd a sebességet, adj könyvjelzőket és többet." >}}
+{{< ls-feature-card icon="play" link="/docs/guide/flacbox/flacbox-guide-player" title="Audiolejátszó" subtitle="Vezéreld a lejátszást, állítsd a sebességet, adj könyvjelzőket és többet." >}}
 
-{{< feature-card icon="adjustments" link="/docs/guide/flacbox/flacbox-guide-settings" title="Beállítások" subtitle="Szabd testre a hangszínszabályzót, megjelenést és az alkalmazás viselkedését." >}}
+{{< ls-feature-card icon="adjustments" link="/docs/guide/flacbox/flacbox-guide-settings" title="Beállítások" subtitle="Szabd testre a hangszínszabályzót, megjelenést és az alkalmazás viselkedését." >}}
 
 {{< /cards >}}
 

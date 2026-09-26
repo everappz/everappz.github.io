@@ -71,20 +71,20 @@ Flacbox केवल प्रत्येक क्लाउड प्रदा
 
 {{< cards cols="2">}}
 
-{{< card icon="map" link="/docs/guide/flacbox/flacbox-guide-navigation" title="नेविगेशन" subtitle="iPhone पर टैब बार, iPad और Mac पर बाईं मेनू, मिनी प्लेयर, विजेट्स, CarPlay." >}}
+{{< ls-card icon="map" link="/docs/guide/flacbox/flacbox-guide-navigation" title="नेविगेशन" subtitle="iPhone पर टैब बार, iPad और Mac पर बाईं मेनू, मिनी प्लेयर, विजेट्स, CarPlay." >}}
 
-{{< card icon="cloud" link="/docs/guide/flacbox/flacbox-guide-connections" title="संपर्क" subtitle="iCloud, Google Drive, Dropbox, OneDrive, NAS, WebDAV, SMB, DLNA." >}}
+{{< ls-card icon="cloud" link="/docs/guide/flacbox/flacbox-guide-connections" title="संपर्क" subtitle="iCloud, Google Drive, Dropbox, OneDrive, NAS, WebDAV, SMB, DLNA." >}}
 
-{{< card icon="collection" link="/docs/guide/flacbox/flacbox-guide-music-library" title="म्यूज़िक लाइब्रेरी" subtitle="गाने, एल्बम, आर्टिस्ट, जॉनर, संगीतकार — सिंक, खोज, मेटाडेटा संपादन।" >}}
+{{< ls-card icon="collection" link="/docs/guide/flacbox/flacbox-guide-music-library" title="म्यूज़िक लाइब्रेरी" subtitle="गाने, एल्बम, आर्टिस्ट, जॉनर, संगीतकार — सिंक, खोज, मेटाडेटा संपादन।" >}}
 
-{{< card icon="music-note" link="/docs/guide/flacbox/flacbox-guide-playlists" title="प्लेलिस्ट्स" subtitle="बनाएं, M3U / M3U8 / CUE इम्पोर्ट करें, पुनः क्रमबद्ध करें और M3U / CSV / TXT को एक्सपोर्ट करें।" >}}
+{{< ls-card icon="music-note" link="/docs/guide/flacbox/flacbox-guide-playlists" title="प्लेलिस्ट्स" subtitle="बनाएं, M3U / M3U8 / CUE इम्पोर्ट करें, पुनः क्रमबद्ध करें और M3U / CSV / TXT को एक्सपोर्ट करें।" >}}
 
-{{< card icon="folder" link="/docs/guide/flacbox/flacbox-guide-local-files" title="स्थानीय फ़ाइलें" subtitle="ऑफलाइन म्यूज़िक, USB ड्राइव, Wi-Fi Drive, फ़ाइल मैनेजर, ऑफलाइन फ़ोल्डर।" >}}
+{{< ls-card icon="folder" link="/docs/guide/flacbox/flacbox-guide-local-files" title="स्थानीय फ़ाइलें" subtitle="ऑफलाइन म्यूज़िक, USB ड्राइव, Wi-Fi Drive, फ़ाइल मैनेजर, ऑफलाइन फ़ोल्डर।" >}}
 
-{{< card icon="play" link="/docs/guide/flacbox/flacbox-guide-player" title="ऑडियो प्लेयर" subtitle="हाई-रेज़ आउटपुट, इक्वलाइज़र, पिच, बुकमार्क्स, AirPlay, Chromecast, स्पीड, स्लीप टाइमर।" >}}
+{{< ls-card icon="play" link="/docs/guide/flacbox/flacbox-guide-player" title="ऑडियो प्लेयर" subtitle="हाई-रेज़ आउटपुट, इक्वलाइज़र, पिच, बुकमार्क्स, AirPlay, Chromecast, स्पीड, स्लीप टाइमर।" >}}
 
-{{< card icon="adjustments" link="/docs/guide/flacbox/flacbox-guide-settings" title="सेटिंग्स" subtitle="ऑडियो इंजन, लाइब्रेरी, फ़ाइल मैनेजर, CarPlay, विजेट्स, व्यक्तिगतकरण, भाषा, बैकअप।" >}}
+{{< ls-card icon="adjustments" link="/docs/guide/flacbox/flacbox-guide-settings" title="सेटिंग्स" subtitle="ऑडियो इंजन, लाइब्रेरी, फ़ाइल मैनेजर, CarPlay, विजेट्स, व्यक्तिगतकरण, भाषा, बैकअप।" >}}
 
-{{< card icon="question-mark-circle" link="/docs/faq/flacbox" title="FAQ" subtitle="Flacbox के बारे में 50 सबसे सामान्य प्रश्नों के उत्तर खोजें।" >}}
+{{< ls-card icon="question-mark-circle" link="/docs/faq/flacbox" title="FAQ" subtitle="Flacbox के बारे में 50 सबसे सामान्य प्रश्नों के उत्तर खोजें।" >}}
 
 {{< /cards >}}

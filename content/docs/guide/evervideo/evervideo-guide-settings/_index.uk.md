@@ -23,7 +23,7 @@ readingTime: 16
 Екран «Налаштування» — центр управління Evervideo. Звідси можна оновитися до Premium, налаштувати відео- та аудіорушії (системні кодеки або FFmpeg), керувати Picture-in-Picture, налаштувати субтитри (основні, допоміжні, libass, зовнішні файли, шрифти), організувати медіатеку, налаштувати файловий менеджер, увімкнути віджети на головному екрані, резервувати дані та отримати доступ до довідки та юридичної інформації. Розділи згруповані під заголовками: «Покупки та оновлення», «Параметри застосунку», «Довідка», «Правова інформація та конфіденційність».
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Головний екран налаштувань Evervideo" image="/docs/guide/evervideo/img/evervideo-settings.webp" >}}
+  {{< ls-card title="" subtitle="Головний екран налаштувань Evervideo" image="/docs/guide/evervideo/img/evervideo-settings.webp" >}}
 {{< /cards >}}
 
 ## Оновлення до Premium
@@ -31,13 +31,13 @@ readingTime: 16
 Оновіть застосунок до Premium-версії, щоб зняти всі обмеження. Безкоштовна версія застосунку пропонує одноразову безстрокову покупку і два варіанти підписки (1 місяць і 1 рік) для зняття всіх обмежень та оновлення до Premium.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Оновлення до Premium Evervideo" image="/docs/guide/evervideo/img/evervideo-upgrade-to-premium.webp" >}}
+  {{< ls-card title="" subtitle="Оновлення до Premium Evervideo" image="/docs/guide/evervideo/img/evervideo-upgrade-to-premium.webp" >}}
 {{< /cards >}}
 
 **Family Sharing** увімкнено для всіх покупок і планів, тому можна поділитися Premium-версією з до п'ятьма членами сім'ї без додаткової плати.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Вибір Premium-плану Evervideo" image="/docs/guide/evervideo/img/evervideo-select-premium-plan.webp" >}}
+  {{< ls-card title="" subtitle="Вибір Premium-плану Evervideo" image="/docs/guide/evervideo/img/evervideo-select-premium-plan.webp" >}}
 {{< /cards >}}
 
 ## Спільне використання покупок між iOS і Mac
@@ -51,7 +51,7 @@ readingTime: 16
 Щоб відновити покупку на новому пристрої, скористайтеся меню **Покупки → Відновити покупки**. Ви побачите список своїх покупок. Якщо не всі відображаються, переконайтеся, що пристрій підключено до того самого Apple ID, який використовувався для покупки, і що iCloud увімкнено.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Меню покупок у налаштуваннях Evervideo" image="/docs/guide/evervideo/img/evervideo-purhases-menu-in-settings.webp" >}}
+  {{< ls-card title="" subtitle="Меню покупок у налаштуваннях Evervideo" image="/docs/guide/evervideo/img/evervideo-purhases-menu-in-settings.webp" >}}
 {{< /cards >}}
 
 ## Спробувати Premium безкоштовно

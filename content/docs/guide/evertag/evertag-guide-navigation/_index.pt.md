@@ -16,7 +16,7 @@ readingTime: 3
 O Evertag oferece uma interface de utilizador intuitiva. O que o distingue de muitas aplicações populares é o seu gestor de ficheiros integrado, dando aos utilizadores o poder de editar ficheiros de áudio e transferi-los de e para o armazenamento na nuvem sem problemas.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evertag Screen" image="/docs/guide/evertag/img/tag-editor.webp" >}}
+  {{< ls-card title="" subtitle="Evertag Screen" image="/docs/guide/evertag/img/tag-editor.webp" >}}
 {{< /cards >}}
 
 ## Secções
@@ -42,7 +42,7 @@ A secção Ficheiros Locais está dividida em duas categorias: **Ficheiros nesta
 Virtualmente todos os itens de conteúdo no ecrã têm um botão "Mais Ações". Toque nele para aceder a todas as ações disponíveis.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evertag More Actions" image="/docs/guide/evertag/img/downloads-file-actions.webp" >}}
+  {{< ls-card title="" subtitle="Evertag More Actions" image="/docs/guide/evertag/img/downloads-file-actions.webp" >}}
 {{< /cards >}}
 
 ## Barra de Ferramentas Superior

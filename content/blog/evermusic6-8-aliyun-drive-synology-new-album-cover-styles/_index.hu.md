@@ -12,7 +12,7 @@ authors:
     image: "/images/about/artem-meleshko-founder-everappz.webp"
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 **Összefoglalva:** Az Evermusic 6.8 Aliyun Drive és Synology NAS integrációt (QuickConnect-tel), hat új albumborító görgetési effektet, minimális teljes képernyős lejátszót, húzd és ejtsd fájlkezelést és gyorsabb albumborító betöltést hoz. Most elérhető iOS-re és macOS-re.
 
@@ -77,18 +77,18 @@ Az Evermusic 6.8 három területre összpontosít: szélesebb felhőkompatibilit
 
 ## Gyakran ismételt kérdések
 
-{{% details title="Hogyan csatlakoztassam a Synology NAS-t az Evermusic-hoz?" closed="true" %}}
+{{% ls-details title="Hogyan csatlakoztassam a Synology NAS-t az Evermusic-hoz?" closed="true" %}}
 Menj a Kapcsolatok fülre, válaszd a Synology-t és add meg a QuickConnectID-dat. Az Evermusic közvetlenül csatlakozik IP-címek vagy VPN beállítás szükségessége nélkül.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Ingyenes az Aliyun Drive használata az Evermusic-kal?" closed="true" %}}
+{{% ls-details title="Ingyenes az Aliyun Drive használata az Evermusic-kal?" closed="true" %}}
 Igen. Ha van Aliyun Drive fiókod, további költség nélkül csatlakoztathatod az Evermusic-hoz. A tárhely korlátok az Aliyun Drive csomagodtól függnek.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Testreszabhatom az albumborító görgetési stílust?" closed="true" %}}
+{{% ls-details title="Testreszabhatom az albumborító görgetési stílust?" closed="true" %}}
 Igen. Menj a Settings > Audio Player > Personalization > Album Covers Scrolling Style menübe és válassz a hat lehetőség közül: MacDoc, Linear, Rotary, Inverted Rotary, Cylinder vagy CoverFlow.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Működik a minimális lejátszó képernyő minden eszközön?" closed="true" %}}
+{{% ls-details title="Működik a minimális lejátszó képernyő minden eszközön?" closed="true" %}}
 Igen. A teljes képernyős albumborító stílus elérhető minden támogatott iPhone-on, iPaden és Macen, amelyen Evermusic 6.8 vagy újabb fut.
-{{% /details %}}
+{{% /ls-details %}}

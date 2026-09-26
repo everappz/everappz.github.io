@@ -7,7 +7,7 @@ tags: ["evermusic", "flacbox", "الأخيرة", "lastfm", "تصدير", "scrobb
 readingTime: 5
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **ملخص سريع:** قم بتصدير سجل الاستماع من Evermusic أو Flacbox كملف CSV، ثم ارفعه إلى Last.fm باستخدام أداة Last.fm-Scrubbler-WPF المجانية على Windows. يتوفر أيضًا السكروبلينغ التلقائي بشكل أصلي في كلا التطبيقين.
@@ -134,22 +134,22 @@ M3U: هذا التنسيق هو الأساس لإنشاء قوائم التشغ�
 
 ## الأسئلة الشائعة
 
-{{% details title="هل يمكنني السكروبلينغ تلقائيًا بدون تصدير ملفات CSV؟" closed="true" %}}
+{{% ls-details title="هل يمكنني السكروبلينغ تلقائيًا بدون تصدير ملفات CSV؟" closed="true" %}}
 نعم. يدعم كل من Evermusic و Flacbox الآن السكروبلينغ التلقائي إلى Last.fm. راجع الدليل: [كيفية السكروبلينغ إلى Last.fm](/docs/howto/how-to-scrobble-your-music-history-from-evermusic-or-flacbox-to-last-fm).
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="ماذا لو كان ملف CSV يحتوي على مسارات أقدم من 14 يومًا؟" closed="true" %}}
+{{% ls-details title="ماذا لو كان ملف CSV يحتوي على مسارات أقدم من 14 يومًا؟" closed="true" %}}
 استخدم وضع الاستيراد في Last.fm-Scrubbler-WPF. يقوم بإعادة حساب الطوابع الزمنية من وقت الانتهاء، مما يسمح لك بسكروبلينغ المسارات بغض النظر عن تاريخها الأصلي.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="لا أملك جهاز كمبيوتر يعمل بنظام Windows. هل يمكنني استخدام Last.fm-Scrubbler؟" closed="true" %}}
+{{% ls-details title="لا أملك جهاز كمبيوتر يعمل بنظام Windows. هل يمكنني استخدام Last.fm-Scrubbler؟" closed="true" %}}
 نعم. قم بتثبيت VirtualBox على جهاز Mac وتنزيل صورة بيئة تطوير Windows المجانية من Microsoft. شغّل Last.fm-Scrubbler-WPF داخل الجهاز الافتراضي.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="لماذا لا يتم تحليل بعض السكروبلات؟" closed="true" %}}
+{{% ls-details title="لماذا لا يتم تحليل بعض السكروبلات؟" closed="true" %}}
 لا يمكن تحليل المسارات التي تفتقر إلى البيانات الوصفية الأساسية (مثل اسم الفنان). هذا متوقع ولا يؤثر على المسارات الأخرى في الملف.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="هل هناك حد يومي للسكروبلينغ؟" closed="true" %}}
+{{% ls-details title="هل هناك حد يومي للسكروبلينغ؟" closed="true" %}}
 نعم. يسمح Last.fm-Scrubbler-WPF بما يصل إلى 2800 سكروبل في اليوم. إذا كنت بحاجة إلى سكروبلينغ المزيد، قسّم العملية على عدة أيام.
-{{% /details %}}
+{{% /ls-details %}}

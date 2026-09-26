@@ -23,7 +23,7 @@ Playerul Audio este ecranul principal al aplicației unde controlați muzica și
 Puteți ajunge la playerul pe ecran complet din bara mini playerului. Pe iPhone, mini playerul se află în partea de jos a ecranului principal. Pe iPad și Mac, este pe partea stângă. Pentru a ascunde mini playerul pe iPhone, atingeți-l o dată și glisați în jos. Pentru a închide complet playerul pe ecran complet, atingeți butonul de închidere din colțul din dreapta jos.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox Audio Player Main Screen" image="/docs/guide/flacbox/img/audio-player-main-screen.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox Audio Player Main Screen" image="/docs/guide/flacbox/img/audio-player-main-screen.webp" >}}
 {{< /cards >}}
 
 ## Formate Audio Acceptate
@@ -66,7 +66,7 @@ Pentru AirPlay, căutați butonul **AirPlay** în partea de jos a playerului. At
 Flacbox include un **egalizator cu 10 benzi** cu presetări în stil iPod. Atingeți Egalizator în vizualizarea volumului, apoi porniți-l în colțul din dreapta sus. Puteți folosi presetări precum Acustic și Amplificare Bași sau ajusta fiecare bandă de frecvență cu cursoarele. Creați propriile presetări, salvați-le sub orice nume și amplificați volumul global cu preamplificatorul. Avem instrucțiuni mai detaliate despre cum să utilizați egalizatorul [aici](/docs/howto/how-to-use-the-audio-equalizer-on-your-iphone-ipad-mac-with-evermusic-and-flacbox).
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox Audio Player Equalizer" image="/docs/guide/flacbox/img/audio-player-equalizer.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox Audio Player Equalizer" image="/docs/guide/flacbox/img/audio-player-equalizer.webp" >}}
 {{< /cards >}}
 
 ## Bara de Instrumente a Modului Player
@@ -82,7 +82,7 @@ Pentru unele stiluri de player, există o bară de instrumente dedicată în par
 Pentru a vedea coada playerului, atingeți butonul de coadă din partea dreaptă a piesei curente. Fiecare piesă din coadă are mai multe acțiuni — atingeți cele trei puncte pentru a le vizualiza. Pentru a reordona o piesă în coadă, utilizați indicatorul de reordonare lângă titlu și trageți-l la o nouă poziție.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox Playback Queue" image="/docs/guide/flacbox/img/playback_queue.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox Playback Queue" image="/docs/guide/flacbox/img/playback_queue.webp" >}}
 {{< /cards >}}
 
 ## Comentarii / Versuri
@@ -98,7 +98,7 @@ Pentru a vizualiza comentariile piesei și versurile integrate, precum și fiși
 După aceea, atingeți butonul de coadă al playerului din partea de jos a ecranului de mai multe ori pentru a comuta de la vizualizarea cu copertă / coadă la vizualizarea cu comentarii. Pe ecranul Comentarii, glisați la dreapta pentru a comuta între **Comentarii**, **Versuri Integrate** și **Fișierul LRC**. Instrucțiuni complete sunt disponibile [aici](/docs/howto/how-to-add-and-view-comments-to-your-audio-tracks-on-iphone-ipad-and-mac-with-evermusic-and-flacbox).
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox Lyrics and Comments Screen" image="/docs/guide/flacbox/img/lyrics-screen.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox Lyrics and Comments Screen" image="/docs/guide/flacbox/img/lyrics-screen.webp" >}}
 {{< /cards >}}
 
 ## Meniu Opțiuni
@@ -121,7 +121,7 @@ Fiecare piesă din coada playerului audio are un meniu cu mai multe acțiuni, ac
 Aceleași opțiuni sunt disponibile pentru elementul în curs de redare din coada playerului audio, pe care îl puteți accesa atingând pictograma **Mai Multe Acțiuni** lângă titlul piesei.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox Options for an Item in the Playback Queue" image="/docs/guide/flacbox/img/options-for-item-in-playback-queue.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox Options for an Item in the Playback Queue" image="/docs/guide/flacbox/img/options-for-item-in-playback-queue.webp" >}}
 {{< /cards >}}
 
 ## Acțiuni Suplimentare ale Playerului
@@ -143,7 +143,7 @@ Atingeți butonul **Mai Multe Acțiuni** «...» din partea stângă a titlului 
 - **Ajutor** — găsiți asistență și îndrumare.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox Audio Player More Actions Screen" image="/docs/guide/flacbox/img/audio-player-more-actions-screen.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox Audio Player More Actions Screen" image="/docs/guide/flacbox/img/audio-player-more-actions-screen.webp" >}}
 {{< /cards >}}
 
 ## Marcaje Audio
@@ -161,7 +161,7 @@ Pentru a crea un marcaj nou:
 Editarea marcajelor pentru piesa curentă este ușoară: atingeți Editare în colțul din dreapta sus pentru a intra în modul de editare. În acest mod, puteți reordona marcajele, șterge, ajusta ora marcajului și schimba titlurile marcajelor. Instrucțiuni mai detaliate despre marcajele audio sunt disponibile [aici](/docs/howto/how-to-listen-to-audiobooks-on-iphone-ipad-mac-using-evermusic).
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox Audio Bookmarks Screen" image="/docs/guide/flacbox/img/audio-bookmarks.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox Audio Bookmarks Screen" image="/docs/guide/flacbox/img/audio-bookmarks.webp" >}}
 {{< /cards >}}
 
 ## Recente și Favorite
@@ -175,7 +175,7 @@ Conectați iPhone-ul la mașina dvs. prin USB sau Apple CarPlay wireless și Fla
 [Citiți ghidul complet CarPlay](/docs/howto/how-to-play-your-own-music-on-iphone-using-carplay/).
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox on Apple CarPlay" image="/docs/guide/flacbox/img/carplay-main.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox on Apple CarPlay" image="/docs/guide/flacbox/img/carplay-main.webp" >}}
 {{< /cards >}}
 
 ## Widget-uri Ecran Principal (iPhone și iPad)
@@ -243,7 +243,7 @@ Personalizați setările egalizatorului audio. Puteți citi mai mult despre conf
 Ajustați viteza de redare a playerului audio de la **0,02× la 3,00×**. Atingeți pictograma de configurare din colțul din dreapta sus pentru a comuta la **modul precis** pentru ajustări mai fine.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox Playback Speed Screen" image="/docs/guide/flacbox/img/playback-speed.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox Playback Speed Screen" image="/docs/guide/flacbox/img/playback-speed.webp" >}}
 {{< /cards >}}
 
 ### Corecție Ton

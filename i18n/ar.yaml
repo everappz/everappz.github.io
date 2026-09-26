@@ -186,3 +186,5 @@ everdiskFeatAdvancedServerSettings: "إعدادات الخادم المتقدم�
 everdiskFeatSMB3Encryption: "تشفير SMB3"
 everdiskFeatAutomaticSharing: "المشاركة التلقائية"
 everdiskFeatDevicePersonalization: "تخصيص الجهاز"
+
+searchDocsPlaceholder: "ابحث في الوثائق والأسئلة الشائعة وأدلة الإرشادات…"

@@ -7,12 +7,12 @@ tags: ["Evermusic", "Flacbox", "Penggambar", "Cara", "Milkdrop", "projectM", "Op
 readingTime: 9
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 **Jawapan ringkas:** [Evermusic](/products/evermusic) dan [Flacbox](/products/flacbox) kedua-duanya mempunyai **penggambar muzik** skrin penuh yang melukis visual yang bergerak dan berwarna-warni seiring dengan muzik anda. Buka ia dari pemain **Now Playing** (**⋯ Lebih banyak tindakan > Visualisasi**) atau dari **Tetapan > Visualisasi**, kemudian pilih pratetap atau **Auto** dan ketik **Mulakan visualisasi**. Pada skrin penggambar, ketik sekali untuk menunjukkan atau menyembunyikan kawalan dan gunakan anak panah **Sebelumnya** dan **Seterusnya** untuk menukar rupa. Ia menggunakan enjin **Milkdrop (projectM)** yang terkenal dengan **500 pratetap**, memaparkan dengan **OpenGL**, dan berfungsi pada **iPhone, iPad, dan Mac**. Langkahnya adalah sama dalam kedua-dua aplikasi. Langkah penuh di bawah.
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Penggambar muzik: pratetap Starfield Sectors" image="/docs/howto/how-to-turn-on-a-music-visualizer-while-playing-music-on-iphone-ipad-mac/music-visualizer-starfield-sectors-preset.webp" imageStyle="border-radius: clamp(14px, 2vw, 28px);" >}}
+{{< ls-card title="" subtitle="Penggambar muzik: pratetap Starfield Sectors" image="/docs/howto/how-to-turn-on-a-music-visualizer-while-playing-music-on-iphone-ipad-mac/music-visualizer-starfield-sectors-preset.webp" imageStyle="border-radius: clamp(14px, 2vw, 28px);" >}}
 {{< /cards >}}
 
 ## Apakah Penggambar Itu?
@@ -85,50 +85,50 @@ Sama ada cara, visual bertindak balas terhadap audio tepat yang anda mainkan, sa
 
 ## Soalan Lazim
 
-{{% details title="Bagaimana saya menghidupkan penggambar dalam Evermusic atau Flacbox?" closed="true" %}}
+{{% ls-details title="Bagaimana saya menghidupkan penggambar dalam Evermusic atau Flacbox?" closed="true" %}}
 Buka pemain Now Playing, ketik butang ⋯ (Lebih banyak tindakan), dan pilih Visualisasi. Anda juga boleh membukanya dari Tetapan > Visualisasi. Kemudian pilih pratetap (atau Auto) dan ketik Mulakan visualisasi. Langkahnya adalah sama dalam kedua-dua aplikasi.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Penggambar berasaskan apa?" closed="true" %}}
+{{% ls-details title="Penggambar berasaskan apa?" closed="true" %}}
 Ia menggunakan enjin sumber terbuka projectM, yang memainkan pratetap gaya Milkdrop. Ini ialah visual reaktif muzik dan beranimasi yang ramai orang kenali daripada pemain muzik desktop. Kedua-dua Evermusic dan Flacbox termasuk 500 pratetap dan melukisnya dengan OpenGL.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Berapa banyak pratetap penggambar yang ada?" closed="true" %}}
+{{% ls-details title="Berapa banyak pratetap penggambar yang ada?" closed="true" %}}
 500 pratetap. Setiap satu ialah adegan animasi yang berbeza, dan anda boleh bergerak melaluinya dengan anak panah Seterusnya dan Sebelumnya, atau biarkan mod Auto merombaknya untuk anda.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Adakah penggambar bertindak balas terhadap muzik?" closed="true" %}}
+{{% ls-details title="Adakah penggambar bertindak balas terhadap muzik?" closed="true" %}}
 Ya. Visual bertindak balas terhadap audio yang anda mainkan dalam masa nyata, jadi bentuk, warna, dan gerakan berubah dengan rentak dan tenaga trek. Ia berfungsi dengan fail tempatan, pemacu awan, pelayan media, dan radio internet.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Bagaimana saya menukar pratetap penggambar?" closed="true" %}}
+{{% ls-details title="Bagaimana saya menukar pratetap penggambar?" closed="true" %}}
 Ketik skrin sekali untuk menunjukkan kawalan, kemudian gunakan anak panah Sebelumnya dan Seterusnya di bahagian bawah untuk bergerak antara pratetap. Nama dan pembilang di bahagian atas (contohnya, 429 / 500) dikemas kini semasa anda menukarnya. Anda juga boleh bermula dalam mod Auto untuk membuat aplikasi menukar pratetap secara automatik.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Apakah mod Auto?" closed="true" %}}
+{{% ls-details title="Apakah mod Auto?" closed="true" %}}
 Mod Auto, dipilih dari pemilih pratetap, merombak pratetap dengan sendirinya, bertukar kepada yang baru setiap 30 saat dengan peleburan silang yang licin. Ia ialah cara paling mudah untuk menikmati persembahan tanpa menyentuh skrin.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Bagaimana saya menyembunyikan kawalan pada skrin?" closed="true" %}}
+{{% ls-details title="Bagaimana saya menyembunyikan kawalan pada skrin?" closed="true" %}}
 Ketik skrin sekali untuk menyembunyikan kawalan untuk pandangan skrin penuh yang bersih, dan ketik semula untuk membawanya kembali. Kawalan juga menyembunyi dengan sendirinya selepas beberapa saat.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Adakah penggambar berfungsi pada Mac?" closed="true" %}}
+{{% ls-details title="Adakah penggambar berfungsi pada Mac?" closed="true" %}}
 Ya. Pada Mac, kedua-dua Evermusic dan Flacbox membuka penggambar dalam tetingkapnya sendiri dan melukisnya dengan OpenGL desktop natif, jadi anda mendapat visual Milkdrop reaktif muzik yang sama pada skrin besar.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Adakah penggambar berfungsi pada iPhone dan iPad?" closed="true" %}}
+{{% ls-details title="Adakah penggambar berfungsi pada iPhone dan iPad?" closed="true" %}}
 Ya. Pada iPhone dan iPad ia berjalan skrin penuh, dilukis dengan OpenGL ES untuk animasi yang licin pada paparan Retina.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Adakah skrin saya akan malap atau mengunci semasa penggambar berjalan?" closed="true" %}}
+{{% ls-details title="Adakah skrin saya akan malap atau mengunci semasa penggambar berjalan?" closed="true" %}}
 Tidak. Aplikasi mengekalkan skrin terjaga semasa penggambar dihidupkan, jadi persembahan tidak akan terganggu oleh paparan yang malap atau mengunci.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Adakah aplikasi mengingati pratetap pilihan saya?" closed="true" %}}
+{{% ls-details title="Adakah aplikasi mengingati pratetap pilihan saya?" closed="true" %}}
 Ya. Pratetap terakhir yang anda pilih disimpan dan diserlahkan dalam pemilih pratetap, jadi ia mudah untuk kembali ke kegemaran anda.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Di mana nama pratetap semasa ditunjukkan?" closed="true" %}}
+{{% ls-details title="Di mana nama pratetap semasa ditunjukkan?" closed="true" %}}
 Di tengah atas skrin penggambar, bersama pembilang seperti 429 / 500 yang menunjukkan pratetap mana anda berada daripada set penuh. Dalam contoh tangkapan skrin, pratetap ialah Starfield Sectors.
-{{% /details %}}
+{{% /ls-details %}}

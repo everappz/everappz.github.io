@@ -21,7 +21,7 @@ readingTime: 16
 شاشة الإعدادات هي مركز التحكم في Flacbox. من هنا يمكنك الترقية إلى Premium، وتكوين محرك الصوت (مشفرات النظام أو FFmpeg)، وإدارة مكتبة الموسيقى، وإعداد مدير الملفات، وتخصيص محرر علامات الصوت، وتفعيل أدوات الشاشة الرئيسية وApple CarPlay، ونسخ بياناتك احتياطياً، والوصول إلى المساعدة والمعلومات القانونية. الأقسام مجمّعة تحت رؤوس: المشتريات والتحديثات، وتفضيلات التطبيق، والمساعدة، والقانونية والخصوصية.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="الشاشة الرئيسية للإعدادات في Flacbox" image="/docs/guide/flacbox/img/settings-main.webp" >}}
+  {{< ls-card title="" subtitle="الشاشة الرئيسية للإعدادات في Flacbox" image="/docs/guide/flacbox/img/settings-main.webp" >}}
 {{< /cards >}}
 
 ## الترقية إلى Premium
@@ -29,13 +29,13 @@ readingTime: 16
 قم بترقية التطبيق إلى الإصدار المدفوع لإزالة جميع القيود. يوفر الإصدار المجاني من التطبيق عملية شراء داخلية مدى الحياة لمرة واحدة وخيارين للاشتراك (شهر واحد وسنة واحدة) لإزالة جميع القيود والترقية إلى Premium.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="الترقية إلى Premium في Flacbox" image="/docs/guide/flacbox/img/upgrade-to-premium.webp" >}}
+  {{< ls-card title="" subtitle="الترقية إلى Premium في Flacbox" image="/docs/guide/flacbox/img/upgrade-to-premium.webp" >}}
 {{< /cards >}}
 
 **المشاركة العائلية** مُفعَّلة لجميع المشتريات والخطط، حتى تتمكن من مشاركة الإصدار المدفوع مع ما يصل إلى خمسة أفراد من عائلتك دون أي تكلفة إضافية.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="اختيار خطة Premium في Flacbox" image="/docs/guide/flacbox/img/select-premium-plan.webp" >}}
+  {{< ls-card title="" subtitle="اختيار خطة Premium في Flacbox" image="/docs/guide/flacbox/img/select-premium-plan.webp" >}}
 {{< /cards >}}
 
 يمكنك قراءة المزيد حول المشتريات والإصدار المدفوع هنا: [ما الفرق بين Flacbox وFlacbox Premium](/docs/faq/flacbox/what-is-the-difference-between-flacbox-and-flacbox-premium/).

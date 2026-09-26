@@ -12,7 +12,7 @@ authors:
     image: "/images/about/artem-meleshko-founder-everappz.webp"
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 **Resum:** Evermusic 3.6 afegeix integració amb Apple CarPlay, accessibilitat completa amb VoiceOver, sortida d'àudio mixta, represa automàtica de la reproducció, edició de caràtules i etiquetes per a FLAC/MP3/AIFF, i importació de fitxers des d'iCloud Drive.
 
@@ -78,18 +78,18 @@ Importeu fitxers de música directament des d'iCloud Drive i altres aplicacions:
 
 ## Preguntes freqüents
 
-{{% details title="Evermusic funciona amb CarPlay?" closed="true" %}}
+{{% ls-details title="Evermusic funciona amb CarPlay?" closed="true" %}}
 Sí. A partir de la versió 3.6, Evermusic és totalment compatible amb Apple CarPlay. Podeu navegar i reproduir la vostra biblioteca de música des de la pantalla integrada del cotxe.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Evermusic és accessible per a usuaris cecs o amb baixa visió?" closed="true" %}}
+{{% ls-details title="Evermusic és accessible per a usuaris cecs o amb baixa visió?" closed="true" %}}
 Sí. Evermusic 3.6 inclou suport complet de VoiceOver amb etiquetes descriptives, indicacions i un mode d'interfície simplificada.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Puc editar etiquetes FLAC a l'iPhone amb Evermusic?" closed="true" %}}
+{{% ls-details title="Puc editar etiquetes FLAC a l'iPhone amb Evermusic?" closed="true" %}}
 Sí. Evermusic inclou un editor d'etiquetes integrat que funciona amb fitxers FLAC, MP3 i AIFF. Podeu editar títols, artistes, àlbums i caràtules.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Evermusic recorda on vaig deixar d'escoltar?" closed="true" %}}
+{{% ls-details title="Evermusic recorda on vaig deixar d'escoltar?" closed="true" %}}
 Sí. Quan "Desar l'estat del reproductor d'àudio" està activat, Evermusic restaura la cua, la pista actual i la posició exacta de reproducció quan torneu a obrir l'aplicació.
-{{% /details %}}
+{{% /ls-details %}}

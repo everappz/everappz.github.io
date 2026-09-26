@@ -74,18 +74,18 @@ Evervideo 使用每个云服务商的官方 SDK 和基于 OAuth 的登录，因�
 
 {{< cards cols="2">}}
 
-{{< card icon="map" link="/docs/guide/evervideo/evervideo-guide-navigation" title="导航" subtitle="iPhone 上的标签栏，iPad 和 Mac 上的左侧菜单，常驻迷你媒体播放器。" >}}
+{{< ls-card icon="map" link="/docs/guide/evervideo/evervideo-guide-navigation" title="导航" subtitle="iPhone 上的标签栏，iPad 和 Mac 上的左侧菜单，常驻迷你媒体播放器。" >}}
 
-{{< card icon="folder" link="/docs/guide/evervideo/evervideo-guide-files" title="文件" subtitle="云、NAS、RTSP 流、本地文件、USB 驱动器和传输队列的统一标签页。" >}}
+{{< ls-card icon="folder" link="/docs/guide/evervideo/evervideo-guide-files" title="文件" subtitle="云、NAS、RTSP 流、本地文件、USB 驱动器和传输队列的统一标签页。" >}}
 
-{{< card icon="collection" link="/docs/guide/evervideo/evervideo-guide-video-library" title="媒体资料库" subtitle="按专辑、流派、最近使用、收藏夹浏览——以及 iOS Photos 资料库和 Apple Music 资料库。" >}}
+{{< ls-card icon="collection" link="/docs/guide/evervideo/evervideo-guide-video-library" title="媒体资料库" subtitle="按专辑、流派、最近使用、收藏夹浏览——以及 iOS Photos 资料库和 Apple Music 资料库。" >}}
 
-{{< card icon="music-note" link="/docs/guide/evervideo/evervideo-guide-playlists" title="播放列表" subtitle="从云、本地、Photos 或 Music 资料库创建播放列表，导入 M3U / M3U8 / CUE。" >}}
+{{< ls-card icon="music-note" link="/docs/guide/evervideo/evervideo-guide-playlists" title="播放列表" subtitle="从云、本地、Photos 或 Music 资料库创建播放列表，导入 M3U / M3U8 / CUE。" >}}
 
-{{< card icon="play" link="/docs/guide/evervideo/evervideo-guide-player" title="媒体播放器" subtitle="画中画、音频和视频轨道、字幕、音频和视频均衡器、AirPlay、Chromecast。" >}}
+{{< ls-card icon="play" link="/docs/guide/evervideo/evervideo-guide-player" title="媒体播放器" subtitle="画中画、音频和视频轨道、字幕、音频和视频均衡器、AirPlay、Chromecast。" >}}
 
-{{< card icon="adjustments" link="/docs/guide/evervideo/evervideo-guide-settings" title="设置" subtitle="音频引擎、视频解码器、字幕、资料库、文件管理器、小组件、个性化、语言、备份。" >}}
+{{< ls-card icon="adjustments" link="/docs/guide/evervideo/evervideo-guide-settings" title="设置" subtitle="音频引擎、视频解码器、字幕、资料库、文件管理器、小组件、个性化、语言、备份。" >}}
 
-{{< card icon="question-mark-circle" link="/docs/faq/evervideo" title="常见问题" subtitle="查找有关 Evervideo 最常见问题的解答。" >}}
+{{< ls-card icon="question-mark-circle" link="/docs/faq/evervideo" title="常见问题" subtitle="查找有关 Evervideo 最常见问题的解答。" >}}
 
 {{< /cards >}}

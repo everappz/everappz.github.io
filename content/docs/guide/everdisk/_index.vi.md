@@ -28,19 +28,19 @@ Hướng dẫn này giải thích từng phần của ứng dụng theo từng b
 
 
 {{< cards >}}
-  {{< card icon="play" title="Chia sẻ" subtitle="Chạm Bắt đầu, chọn nội dung để chia sẻ, và chạy cả năm máy chủ cùng lúc. Tìm hiểu màn hình Chia sẻ từ đầu đến cuối." link="/docs/guide/everdisk/everdisk-guide-sharing" >}}
+  {{< ls-card icon="play" title="Chia sẻ" subtitle="Chạm Bắt đầu, chọn nội dung để chia sẻ, và chạy cả năm máy chủ cùng lúc. Tìm hiểu màn hình Chia sẻ từ đầu đến cuối." link="/docs/guide/everdisk/everdisk-guide-sharing" >}}
 
-  {{< card icon="desktop-computer" title="Kết nối các thiết bị của bạn" subtitle="Cách một chiếc TV, máy Mac hay PC, trình duyệt web, điện thoại khác, hoặc cáp USB kết nối với các tệp bạn chia sẻ." link="/docs/guide/everdisk/everdisk-guide-connect" >}}
+  {{< ls-card icon="desktop-computer" title="Kết nối các thiết bị của bạn" subtitle="Cách một chiếc TV, máy Mac hay PC, trình duyệt web, điện thoại khác, hoặc cáp USB kết nối với các tệp bạn chia sẻ." link="/docs/guide/everdisk/everdisk-guide-connect" >}}
 
-  {{< card icon="server" title="Kết nối tới máy chủ" subtitle="Truy cập các máy chủ DLNA, WebDAV, FTP, SFTP và SMB cũng như ổ NAS trong mạng của bạn để duyệt, phát và tải tệp." link="/docs/guide/everdisk/everdisk-guide-devices" >}}
+  {{< ls-card icon="server" title="Kết nối tới máy chủ" subtitle="Truy cập các máy chủ DLNA, WebDAV, FTP, SFTP và SMB cũng như ổ NAS trong mạng của bạn để duyệt, phát và tải tệp." link="/docs/guide/everdisk/everdisk-guide-devices" >}}
 
-  {{< card icon="folder" title="Tệp & Tài liệu" subtitle="Duyệt, tạo thư mục, đổi tên, di chuyển, sao chép và xóa, nén và giải nén, kết nối thư mục bên ngoài, và quét thành PDF." link="/docs/guide/everdisk/everdisk-guide-files" >}}
+  {{< ls-card icon="folder" title="Tệp & Tài liệu" subtitle="Duyệt, tạo thư mục, đổi tên, di chuyển, sao chép và xóa, nén và giải nén, kết nối thư mục bên ngoài, và quét thành PDF." link="/docs/guide/everdisk/everdisk-guide-files" >}}
 
-  {{< card icon="music-note" title="Ảnh, Nhạc & Video" subtitle="Chia sẻ toàn bộ thư viện ảnh và nhạc của bạn, nghe nhạc trong trình phát thu nhỏ, và xem video toàn màn hình." link="/docs/guide/everdisk/everdisk-guide-media" >}}
+  {{< ls-card icon="music-note" title="Ảnh, Nhạc & Video" subtitle="Chia sẻ toàn bộ thư viện ảnh và nhạc của bạn, nghe nhạc trong trình phát thu nhỏ, và xem video toàn màn hình." link="/docs/guide/everdisk/everdisk-guide-media" >}}
 
-  {{< card icon="lock-closed" title="Truy cập & Quyền riêng tư" subtitle="Bảo vệ việc chia sẻ bằng tên đăng nhập và mật khẩu, cho phép hoặc chặn chỉnh sửa, chặn thiết bị, và giữ mọi thứ trong mạng nội bộ." link="/docs/guide/everdisk/everdisk-guide-access" >}}
+  {{< ls-card icon="lock-closed" title="Truy cập & Quyền riêng tư" subtitle="Bảo vệ việc chia sẻ bằng tên đăng nhập và mật khẩu, cho phép hoặc chặn chỉnh sửa, chặn thiết bị, và giữ mọi thứ trong mạng nội bộ." link="/docs/guide/everdisk/everdisk-guide-access" >}}
 
-  {{< card icon="adjustments" title="Cài đặt" subtitle="Giải thích mọi cài đặt: hồ sơ thiết bị, kết nối, chất lượng ảnh và video, cổng, truyền tệp, và hơn thế nữa." link="/docs/guide/everdisk/everdisk-guide-settings" >}}
+  {{< ls-card icon="adjustments" title="Cài đặt" subtitle="Giải thích mọi cài đặt: hồ sơ thiết bị, kết nối, chất lượng ảnh và video, cổng, truyền tệp, và hơn thế nữa." link="/docs/guide/everdisk/everdisk-guide-settings" >}}
 
-  {{< card icon="question-mark-circle" title="Câu hỏi thường gặp" subtitle="Giải đáp nhanh cho những câu hỏi phổ biến nhất và các tình huống thực tế." link="/docs/faq/everdisk" >}}
+  {{< ls-card icon="question-mark-circle" title="Câu hỏi thường gặp" subtitle="Giải đáp nhanh cho những câu hỏi phổ biến nhất và các tình huống thực tế." link="/docs/faq/everdisk" >}}
 {{< /cards >}}

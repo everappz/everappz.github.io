@@ -28,19 +28,19 @@ Everdisk ดาวน์โหลดได้ฟรี พร้อมตัว�
 
 
 {{< cards >}}
-  {{< card icon="play" title="การแชร์" subtitle="แตะ Start เลือกสิ่งที่จะแชร์ แล้วเปิดเซิร์ฟเวอร์ทั้งห้าตัวพร้อมกัน เรียนรู้หน้าจอการแชร์ตั้งแต่ต้นจนจบ" link="/docs/guide/everdisk/everdisk-guide-sharing" >}}
+  {{< ls-card icon="play" title="การแชร์" subtitle="แตะ Start เลือกสิ่งที่จะแชร์ แล้วเปิดเซิร์ฟเวอร์ทั้งห้าตัวพร้อมกัน เรียนรู้หน้าจอการแชร์ตั้งแต่ต้นจนจบ" link="/docs/guide/everdisk/everdisk-guide-sharing" >}}
 
-  {{< card icon="desktop-computer" title="เชื่อมต่ออุปกรณ์ของคุณ" subtitle="วิธีที่ทีวี Mac หรือ PC เว็บเบราว์เซอร์ โทรศัพท์อีกเครื่อง หรือสาย USB เชื่อมต่อกับไฟล์ที่คุณแชร์" link="/docs/guide/everdisk/everdisk-guide-connect" >}}
+  {{< ls-card icon="desktop-computer" title="เชื่อมต่ออุปกรณ์ของคุณ" subtitle="วิธีที่ทีวี Mac หรือ PC เว็บเบราว์เซอร์ โทรศัพท์อีกเครื่อง หรือสาย USB เชื่อมต่อกับไฟล์ที่คุณแชร์" link="/docs/guide/everdisk/everdisk-guide-connect" >}}
 
-  {{< card icon="server" title="เชื่อมต่อกับเซิร์ฟเวอร์" subtitle="เข้าถึงเซิร์ฟเวอร์ DLNA, WebDAV, FTP, SFTP และ SMB อื่น ๆ รวมถึงไดรฟ์ NAS บนเครือข่ายของคุณ เพื่อเรียกดู สตรีม และดาวน์โหลด" link="/docs/guide/everdisk/everdisk-guide-devices" >}}
+  {{< ls-card icon="server" title="เชื่อมต่อกับเซิร์ฟเวอร์" subtitle="เข้าถึงเซิร์ฟเวอร์ DLNA, WebDAV, FTP, SFTP และ SMB อื่น ๆ รวมถึงไดรฟ์ NAS บนเครือข่ายของคุณ เพื่อเรียกดู สตรีม และดาวน์โหลด" link="/docs/guide/everdisk/everdisk-guide-devices" >}}
 
-  {{< card icon="folder" title="ไฟล์และเอกสาร" subtitle="เรียกดู สร้างโฟลเดอร์ เปลี่ยนชื่อ ย้าย คัดลอก และลบ บีบอัดและแตกไฟล์ เชื่อมต่อโฟลเดอร์ภายนอก และสแกนเป็น PDF" link="/docs/guide/everdisk/everdisk-guide-files" >}}
+  {{< ls-card icon="folder" title="ไฟล์และเอกสาร" subtitle="เรียกดู สร้างโฟลเดอร์ เปลี่ยนชื่อ ย้าย คัดลอก และลบ บีบอัดและแตกไฟล์ เชื่อมต่อโฟลเดอร์ภายนอก และสแกนเป็น PDF" link="/docs/guide/everdisk/everdisk-guide-files" >}}
 
-  {{< card icon="music-note" title="รูปภาพ เพลง และวิดีโอ" subtitle="แชร์คลังรูปภาพและเพลงทั้งหมดของคุณ เล่นเสียงในมินิเพลเยอร์ และดูวิดีโอแบบเต็มจอ" link="/docs/guide/everdisk/everdisk-guide-media" >}}
+  {{< ls-card icon="music-note" title="รูปภาพ เพลง และวิดีโอ" subtitle="แชร์คลังรูปภาพและเพลงทั้งหมดของคุณ เล่นเสียงในมินิเพลเยอร์ และดูวิดีโอแบบเต็มจอ" link="/docs/guide/everdisk/everdisk-guide-media" >}}
 
-  {{< card icon="lock-closed" title="การเข้าถึงและความเป็นส่วนตัว" subtitle="ปกป้องการแชร์ด้วยชื่อผู้ใช้และรหัสผ่าน อนุญาตหรือบล็อกการแก้ไข บล็อกอุปกรณ์ และเก็บทุกอย่างไว้ภายในเครือข่าย" link="/docs/guide/everdisk/everdisk-guide-access" >}}
+  {{< ls-card icon="lock-closed" title="การเข้าถึงและความเป็นส่วนตัว" subtitle="ปกป้องการแชร์ด้วยชื่อผู้ใช้และรหัสผ่าน อนุญาตหรือบล็อกการแก้ไข บล็อกอุปกรณ์ และเก็บทุกอย่างไว้ภายในเครือข่าย" link="/docs/guide/everdisk/everdisk-guide-access" >}}
 
-  {{< card icon="adjustments" title="การตั้งค่า" subtitle="อธิบายทุกการตั้งค่า ตั้งแต่โปรไฟล์อุปกรณ์ การเชื่อมต่อ คุณภาพรูปภาพและวิดีโอ พอร์ต การถ่ายโอน และอื่น ๆ" link="/docs/guide/everdisk/everdisk-guide-settings" >}}
+  {{< ls-card icon="adjustments" title="การตั้งค่า" subtitle="อธิบายทุกการตั้งค่า ตั้งแต่โปรไฟล์อุปกรณ์ การเชื่อมต่อ คุณภาพรูปภาพและวิดีโอ พอร์ต การถ่ายโอน และอื่น ๆ" link="/docs/guide/everdisk/everdisk-guide-settings" >}}
 
-  {{< card icon="question-mark-circle" title="คำถามที่พบบ่อย" subtitle="คำตอบด่วนสำหรับคำถามยอดฮิตและสถานการณ์การใช้งานจริง" link="/docs/faq/everdisk" >}}
+  {{< ls-card icon="question-mark-circle" title="คำถามที่พบบ่อย" subtitle="คำตอบด่วนสำหรับคำถามยอดฮิตและสถานการณ์การใช้งานจริง" link="/docs/faq/everdisk" >}}
 {{< /cards >}}

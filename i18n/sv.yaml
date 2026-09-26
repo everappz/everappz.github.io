@@ -186,3 +186,5 @@ everdiskFeatAdvancedServerSettings: "Avancerade serverinställningar"
 everdiskFeatSMB3Encryption: "SMB3-kryptering"
 everdiskFeatAutomaticSharing: "Automatisk delning"
 everdiskFeatDevicePersonalization: "Enhetsanpassning"
+
+searchDocsPlaceholder: "Sök i dokumentation, vanliga frågor och guider…"

@@ -12,7 +12,7 @@ authors:
     image: "/images/about/artem-meleshko-founder-everappz.webp"
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 ## Miksi viedä blogijulkaisuja Wixistä?
 
@@ -219,33 +219,33 @@ Tämä yksittäinen komento valmistelee ympäristön, poimii kaikki blogijulkais
 Projekti on avoimen lähdekoodin. Virheraportteja, ominaisuusehdotuksia ja pull requesteja otetaan vastaan.
 
 {{< cards cols="1" >}}
-  {{< card link="https://github.com/everappz/wix-blog-export" title="Projekti GitHubissa" icon="github" tag="open source" >}}
+  {{< ls-card link="https://github.com/everappz/wix-blog-export" title="Projekti GitHubissa" icon="github" tag="open source" >}}
 {{< /cards >}}
 
 ---
 
 ## Usein kysytyt kysymykset
 
-{{% details title="Miksi en voi vain käyttää `requests`-kirjastoa Wix-blogijulkaisujen poimimiseen?" closed="true" %}}
+{{% ls-details title="Miksi en voi vain käyttää `requests`-kirjastoa Wix-blogijulkaisujen poimimiseen?" closed="true" %}}
 Wix renderöi sisällön dynaamisesti JavaScriptillä. Tavallinen HTTP-pyyntö palauttaa tyhjän sivurungon. Selenium ajaa headless-selaimen täysin renderöidyn HTML:n saamiseksi.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Toimiiko tämä minkä tahansa Wix-blogin kanssa?" closed="true" %}}
+{{% ls-details title="Toimiiko tämä minkä tahansa Wix-blogin kanssa?" closed="true" %}}
 Kyllä. Scraper lukee blogin sitemap-XML:n ja käsittelee jokaisen URL:n. Sinun tarvitsee vain päivittää `SITEMAP_URL`-muuttuja `parse_blog_sitemap.py`-tiedostossa osoittamaan sivustosi sitemapiin.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Mitä OpenAI-mallia tämä käyttää?" closed="true" %}}
+{{% ls-details title="Mitä OpenAI-mallia tämä käyttää?" closed="true" %}}
 Skripti käyttää oletuksena GPT-4o. Voit muuttaa `API_MODEL`-muuttujaa `generate_md.py`-tiedostossa käyttääksesi eri mallia.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Voinko käyttää tätä siirtymiseen Wixistä Hugoon?" closed="true" %}}
+{{% ls-details title="Voinko käyttää tätä siirtymiseen Wixistä Hugoon?" closed="true" %}}
 Kyllä. Tuloste on standardia Markdownia paikallisilla kuvapolulla, joka toimii suoraan Hugon, Jekyllin, Astron ja muiden staattisten sivugeneraattoreiden kanssa.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Paljonko OpenAI API maksaa tähän?" closed="true" %}}
+{{% ls-details title="Paljonko OpenAI API maksaa tähän?" closed="true" %}}
 Kustannus riippuu julkaisujesi määrästä ja pituudesta. Tyypillinen 50 artikkelin blogi maksaa muutaman dollarin API-käytössä GPT-4o:lla.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Onko tämä työkalu avointa lähdekoodia?" closed="true" %}}
+{{% ls-details title="Onko tämä työkalu avointa lähdekoodia?" closed="true" %}}
 Kyllä. Täysi lähdekoodi on saatavilla [GitHubissa](https://github.com/everappz/wix-blog-export) avoimen lähdekoodin lisenssillä.
-{{% /details %}}
+{{% /ls-details %}}

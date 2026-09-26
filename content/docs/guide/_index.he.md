@@ -7,7 +7,7 @@ tags: ["מדריך משתמש", "מדריך אפליקציה", "evermusic", "fla
 ---
 
 
-{{< lottie src="/images/juicy-json/juicy-woman-with-graph-chart.json" width="75%" >}}
+{{< ls-lottie src="/images/juicy-json/juicy-woman-with-graph-chart.json" width="75%" >}}
 
 ## למד כיצד להשתמש באפליקציות שלנו
 
@@ -19,4 +19,4 @@ tags: ["מדריך משתמש", "מדריך אפליקציה", "evermusic", "fla
 
 ## בחר את המוצר שלך
 
-{{< product-doc-cards section="guide" >}}
+{{< ls-product-doc-cards section="guide" >}}

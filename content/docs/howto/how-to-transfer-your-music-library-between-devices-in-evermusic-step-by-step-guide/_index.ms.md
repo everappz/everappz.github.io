@@ -7,7 +7,7 @@ keywords: ["pindahkan pustaka muzik Evermusic", "sandaran dan pulihkan senarai m
 readingTime: 3
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **Ringkasan:** Untuk memindahkan pustaka Evermusic anda ke peranti baharu, buat sandaran pada peranti sumber, mulakan Wi-Fi Drive, sambungkan peranti kedua melalui rangkaian yang sama, muat turun sandaran dan fail muzik, kemudian pulihkan dari sandaran. Keseluruhan proses mengambil masa kira-kira 10 minit bergantung pada saiz pustaka.
@@ -144,22 +144,22 @@ Dengan mengikuti langkah-langkah ini, anda akan berjaya memindahkan pustaka muzi
 
 ## Soalan Lazim
 
-{{% details title="Bolehkah saya memindahkan pustaka Evermusic saya tanpa Wi-Fi?" closed="true" %}}
+{{% ls-details title="Bolehkah saya memindahkan pustaka Evermusic saya tanpa Wi-Fi?" closed="true" %}}
 Wi-Fi Drive memerlukan kedua-dua peranti berada pada rangkaian Wi-Fi yang sama. Pada masa ini tiada pilihan pemindahan Bluetooth atau selular. Sebagai alternatif, anda boleh menggunakan AirDrop atau aplikasi Fail untuk memindahkan fail sandaran dan folder muzik secara manual antara peranti.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Adakah sambungan perkhidmatan awan dipindahkan bersama sandaran?" closed="true" %}}
+{{% ls-details title="Adakah sambungan perkhidmatan awan dipindahkan bersama sandaran?" closed="true" %}}
 Sandaran termasuk pangkalan data, senarai main, kulit album dan tetapan anda. Kelayakan log masuk perkhidmatan awan tidak disertakan atas sebab keselamatan. Anda perlu menyambung semula akaun awan anda pada peranti baharu selepas pemulihan.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Apa yang berlaku kepada pustaka sedia ada pada peranti kedua?" closed="true" %}}
+{{% ls-details title="Apa yang berlaku kepada pustaka sedia ada pada peranti kedua?" closed="true" %}}
 Memulihkan sandaran menggantikan semua data pustaka muzik sedia ada, senarai main, tetapan dan seni album pada peranti kedua. Buat sandaran berasingan untuk peranti kedua terlebih dahulu jika anda ingin mengekalkan datanya.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Adakah proses ini berfungsi antara iPhone dan Mac?" closed="true" %}}
+{{% ls-details title="Adakah proses ini berfungsi antara iPhone dan Mac?" closed="true" %}}
 Ya. Evermusic menyokong pemindahan Wi-Fi Drive antara sebarang gabungan iPhone, iPad dan Mac. Kedua-dua peranti hanya perlu berada pada rangkaian Wi-Fi yang sama.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Berapa lama pemindahan mengambil masa?" closed="true" %}}
+{{% ls-details title="Berapa lama pemindahan mengambil masa?" closed="true" %}}
 Masa pemindahan bergantung pada saiz pustaka muzik anda dan kelajuan Wi-Fi anda. Pustaka biasa beberapa gigabait dipindahkan dalam 5-15 minit melalui rangkaian rumah standard.
-{{% /details %}}
+{{% /ls-details %}}

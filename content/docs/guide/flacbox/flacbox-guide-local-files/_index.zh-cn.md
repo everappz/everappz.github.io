@@ -19,7 +19,7 @@ readingTime: 8
 这个内置文件管理器允许您编辑文件（重命名、移动、复制、上传、删除）、监控传输，并提供多种方式将音频文件导入应用——直接从云端下载、离线模式同步、USB 闪存驱动器、Wi-Fi Drive 和 Finder 文件共享。
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox 本地文件屏幕" image="/docs/guide/flacbox/img/local-files.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox 本地文件屏幕" image="/docs/guide/flacbox/img/local-files.webp" >}}
 {{< /cards >}}
 
 ## 从云端存储下载文件
@@ -102,7 +102,7 @@ readingTime: 8
 显示位于设备上但在其他应用程序中的文件。您可以使用系统文件选择器将它们导入此应用程序。要激活选择器，选择**打开文件…**以选择文件或**打开文件夹…**以选择文件夹。关于如何导入本地音乐的详细说明请参阅[此处](/docs/howto/how-to-play-local-music-stored-on-your-iphone-or-mac)。
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox 已连接设备文件夹" image="/docs/guide/flacbox/img/connected-device-folders.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox 已连接设备文件夹" image="/docs/guide/flacbox/img/connected-device-folders.webp" >}}
 {{< /cards >}}
 
 您还可以连接设备上的文件夹并快速访问其内容。使用**连接文件夹**菜单项，选择设备上的文件夹。点击**完成**，应用程序会创建一个指向该文件夹的链接，具有读/写访问权限。要断开设备上文件夹的连接，点击**更多操作**按钮并选择**断开连接**。
@@ -137,7 +137,7 @@ readingTime: 8
 - **删除** — 从设备中删除选定的文件或文件夹。**此操作不可逆。**
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox 本地文件选择模式" image="/docs/guide/flacbox/img/local-files-selection-mode.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox 本地文件选择模式" image="/docs/guide/flacbox/img/local-files-selection-mode.webp" >}}
 {{< /cards >}}
 
 ## 选项菜单
@@ -161,7 +161,7 @@ readingTime: 8
 - **删除** — 从设备中删除文件或文件夹。**此操作不可逆**，您无法恢复已删除的文件。
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox 本地文件的更多操作" image="/docs/guide/flacbox/img/local-files-more-actions-for-file.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox 本地文件的更多操作" image="/docs/guide/flacbox/img/local-files-more-actions-for-file.webp" >}}
 {{< /cards >}}
 
 ## 离线文件夹

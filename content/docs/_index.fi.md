@@ -4,7 +4,9 @@ title: 'Dokumentaatio'
 ---
 
 
-{{< lottie src="/images/juicy-json/juicy-girl-and-boy-searching-for-the-right-files.json" width="90%" >}}
+{{< ls-lottie src="/images/juicy-json/juicy-girl-and-boy-searching-for-the-right-files.json" width="90%" >}}
+
+{{< ls-docs-search >}}
 
 Tämä osio sisältää hyödyllistä dokumentaatiota kaikille Everappz-sovelluksille — mukaan lukien asennusohjeet, ominaisuuksien kuvaukset ja edistyneet vinkit.
 
@@ -13,9 +15,9 @@ Jos olet uusi tai haluat oppia lisää, oppaamme ja usein kysytyt kysymykset ova
 ## Aloita
 
 {{< cards >}}
-  {{< card icon="book-open" link="/docs/guide" title="Käyttöopas" >}}
-  {{< card icon="question-mark-circle" link="/docs/faq" title="Usein kysytyt kysymykset" >}}
-  {{< card icon="light-bulb" link="/docs/howto" title="Ohjeet" >}}
+  {{< ls-card icon="book-open" link="/docs/guide" title="Käyttöopas" >}}
+  {{< ls-card icon="question-mark-circle" link="/docs/faq" title="Usein kysytyt kysymykset" >}}
+  {{< ls-card icon="light-bulb" link="/docs/howto" title="Ohjeet" >}}
 {{< /cards >}}
 
 - **Käyttöopas** auttaa sinua asentamaan, määrittämään ja hyödyntämään sovelluksiamme parhaalla mahdollisella tavalla.
@@ -31,5 +33,5 @@ Jos kysymykseesi ei löydy vastausta dokumentaatiosta, käy [Tuki](/support)-siv
 Palveluihimme liittyvät oikeudelliset käytännöt, tietojenkäsittelytavat ja käyttäjäsopimukset löydät alla olevista oikeudellisista asiakirjoista:
 
 {{< cards >}}
-  {{< card icon="document-text" link="/legal" title="Oikeudellinen keskus" >}}
+  {{< ls-card icon="document-text" link="/legal" title="Oikeudellinen keskus" >}}
 {{< /cards >}}

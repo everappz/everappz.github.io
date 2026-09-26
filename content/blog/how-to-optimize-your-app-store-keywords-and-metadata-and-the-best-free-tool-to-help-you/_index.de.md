@@ -14,7 +14,7 @@ authors:
     image: "/images/about/artem-meleshko-founder-everappz.webp"
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 ## Warum App Store Keywords Ihre Download-Zahlen bestimmen
 
@@ -104,29 +104,29 @@ Probieren Sie es jetzt — Ihr nächster Nutzer ist nur eine Suche entfernt.
 Das Tool ist Open Source. Fehlerberichte, Funktionsvorschläge und Pull Requests sind willkommen.
 
 {{< cards cols="1" >}}
-  {{< card link="https://github.com/everappz/app-store-keyword-optimizer/tree/main" title="appkeywords.pro auf GitHub" icon="github" tag= "open source" >}}
+  {{< ls-card link="https://github.com/everappz/app-store-keyword-optimizer/tree/main" title="appkeywords.pro auf GitHub" icon="github" tag= "open source" >}}
 {{< /cards >}}
 
 ---
 
 ## Häufig gestellte Fragen
 
-{{% details title="Ist AppKeywords.pro wirklich kostenlos?" closed="true" %}}
+{{% ls-details title="Ist AppKeywords.pro wirklich kostenlos?" closed="true" %}}
 Ja. Es ist ein vollständig quelloffenes, browserbasiertes Tool ohne Anmeldung, ohne Werbung und ohne Datenerfassung. Ihre Metadaten verlassen nie Ihr Gerät.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Funktioniert dieses Tool für mehrere App Store Lokalisierungen?" closed="true" %}}
+{{% ls-details title="Funktioniert dieses Tool für mehrere App Store Lokalisierungen?" closed="true" %}}
 Ja. Sie können Metadaten für jede Sprache unabhängig hinzufügen, und der Export enthält alle Sprachen in einer einzigen JSON-Datei, die mit Fastlane kompatibel ist.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Sollte ich meine Titel-Keywords im Keyword-Feld wiederholen?" closed="true" %}}
+{{% ls-details title="Sollte ich meine Titel-Keywords im Keyword-Feld wiederholen?" closed="true" %}}
 Nein. Apple indexiert bereits Wörter aus Ihrem Titel und Untertitel. Sie im Keyword-Feld zu wiederholen verschwendet Zeichen.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Wie oft sollte ich meine App Store Keywords aktualisieren?" closed="true" %}}
+{{% ls-details title="Wie oft sollte ich meine App Store Keywords aktualisieren?" closed="true" %}}
 Überprüfen und aktualisieren Sie Ihre Keywords mindestens einmal pro Quartal. Passen Sie früher an, wenn Sie Ranking-Rückgänge oder saisonale Veränderungen bemerken.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Kann ich dieses Tool mit Fastlane verwenden?" closed="true" %}}
+{{% ls-details title="Kann ich dieses Tool mit Fastlane verwenden?" closed="true" %}}
 Ja. Das GitHub-Repository enthält Shell-Skripte zur Konvertierung zwischen Fastlanes Metadaten-Ordnerstruktur und dem JSON-Format von AppKeywords.pro.
-{{% /details %}}
+{{% /ls-details %}}

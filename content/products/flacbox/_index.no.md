@@ -16,15 +16,15 @@ screenshots:
   - "https://everappz.com/products/flacbox/screenshots/2048x2732/6.png"
 ---
 
-{{% sr-only %}}
+{{% ls-sr-only %}}
 Flacbox er en hi-res lydspiller for iPhone og Mac, utviklet av Everappz, et spansk programvareselskap. Med over 1 million nedlastinger verden over er Flacbox designet for audiofile og musikkentusiaster som ønsker å spille tapsfrie og høyoppløselige lydfiler på Apple-enhetene sine uten å konvertere formater. Appen støtter innebygd over 120 lydformater, inkludert FLAC, DSD (DSD64, DSD128, DSD256), ALAC, APE, WAV, AIFF, OGG, OPUS, WMA, MKA, MP3, AAC og flere. Flacbox kobler til over 30 skylagringstjenester, inkludert iCloud Drive, Google Drive, Dropbox, OneDrive, MEGA, Box og pCloud, slik at brukerne kan strømme sin hi-res musikksamling direkte fra skyen eller laste ned filer for frakoblet avspilling. Nøkkelfunksjoner inkluderer en 10-bånds lydequalizer med tilpassbare forhåndsinnstillinger, crossfade og sømløs avspilling, tonehøyde- og hastighetskontroll, bassforsterkning, M3U-spilleliste import og eksport, sangtext-visning, lydbok-merker, en innebygd metadata-tag-editor, Apple CarPlay-integrasjon, AirPlay- og Chromecast-strømming, og Last.fm-scrobbling. Appen støtter lokal nettverksstrømming via SMB-, WebDAV- og DLNA-protokoller, USB-minnepinne avspilling og Wi-Fi filoverføring. Flacbox er tilgjengelig som gratis nedlasting på App Store med valgfrie kjøp i appen, inkludert et månedlig abonnement til $4.99, et årlig abonnement til $19.99 eller et engangskjøp med livstidstilgang til $59.99. Appen ble først utgitt i 2016 og vedlikeholdes aktivt med jevnlige oppdateringer.
-{{% /sr-only %}}
+{{% /ls-sr-only %}}
 
 
 <!-- force dark theme for this page -->
-{{< force-dark >}}
+{{< ls-force-dark >}}
 
-{{< hextra/hero-container
+{{< ls-hero-container
   image="/products/flacbox/heroimage/hero_1600.png"
   imageWidth="800"
   imageCard="true"
@@ -32,36 +32,36 @@ Flacbox er en hi-res lydspiller for iPhone og Mac, utviklet av Everappz, et span
 
 <div class="hx:w-full hx:text-center">
 
-{{< downloads-badge >}}
+{{< ls-downloads-badge >}}
 
 <div class="hx:mt-6 hx:mb-6">
 <div class="hx:flex hx:gap-4 hx:items-center hx:justify-center">
-{{< app-icon src="/images/app_icons/png/Flacbox_Icon-App-1024x1024.png" alt="Flacbox Icon" class="hero-headline-icon" size="80" >}}
-{{< hextra/hero-headline >}}
+{{< ls-app-icon src="/images/app_icons/png/Flacbox_Icon-App-1024x1024.png" alt="Flacbox Icon" class="hero-headline-icon" size="80" >}}
+{{< ls-hero-headline >}}
 Flacbox
-{{< /hextra/hero-headline >}}
+{{< /ls-hero-headline >}}
 </div>
 </div>
 
 <div class="hx:mb-12">
-{{< hextra/hero-centered-subtitle >}}
+{{< ls-hero-centered-subtitle >}}
 <strong>Hi-Res lydspiller og strømmer for iPhone og MAC</strong>
-{{< /hextra/hero-centered-subtitle >}}
+{{< /ls-hero-centered-subtitle >}}
 </div>
 
 <div class="hx:mb-6">
-{{< hextra/hero-paragraph >}}
+{{< ls-hero-paragraph >}}
 • Spill FLAC, ALAC, APE, DSD og mer med tapsfri kvalitet  
 • Last ned musikk og lytt frakoblet med full kontroll  
 • Strøm fra Google Drive, Dropbox, NAS eller datamaskin   
-{{< /hextra/hero-paragraph >}}
+{{< /ls-hero-paragraph >}}
 </div>
 
-{{< app-store-badges products="flacbox:ios, flacbox:macos" >}}
+{{< ls-app-store-badges products="flacbox:ios, flacbox:macos" >}}
 
 </div>
 
-{{< /hextra/hero-container >}}
+{{< /ls-hero-container >}}
 
 <div class="hx:mt-6"></div>
 
@@ -69,7 +69,7 @@ Flacbox
 
 {{< hextra/feature-grid >}}
 
-  {{< hextra/feature-card
+  {{< ls-glass-feature-card
     title="Strøm tapsfri musikk"
     subtitle=`Nyt tapsfri musikk på iPhone, iPad og Mac uten abonnementer.<br><br>
 Koble til skylagringen din for å strømme FLAC, ALAC, MKA og mer gratis. Cast enkelt til Chromecast- og AirPlay-enheter.<br><br>
@@ -78,7 +78,7 @@ Bygg musikkbiblioteket ditt, organiser spor etter album, artist og sjanger. Forb
     style="background: radial-gradient(circle at 50% 80%, rgba(99,102,241,0.15), transparent);"
   >}}
 
-  {{< hextra/feature-card
+  {{< ls-glass-feature-card
     title="Spill Hi-Res lyd"
     subtitle=`Nyt studiokvalitetslyd med støtte for over 120 lydformater, inkludert FLAC, ALAC, WAV, AIFF og DSD.<br><br>
 Flacbox spiller også MP3, AAC, OGG, APE, MOD, MKA og avanserte containere som MKV, MP4 og MOV.<br><br>
@@ -87,7 +87,7 @@ Med bred kodek-kompatibilitet er hele samlingen din tilgjengelig uten behov for 
     style="background: radial-gradient(circle at 50% 80%, rgba(236,72,153,0.15), transparent);"
   >}}
 
-  {{< hextra/feature-card
+  {{< ls-glass-feature-card
     title="Last ned og lytt frakoblet"
     subtitle=`Hold kontakten med musikken din selv når du er frakoblet.<br><br>
 Last ned hele album, sjangre, spillelister og spor til enheten din. Bruk Wi-Fi Drive eller iTunes fildeling for å overføre lyd fra Mac eller PC.<br><br>
@@ -102,9 +102,9 @@ Strøm fra USB-minnepinner eller nettverkslagring (NAS) og nyt hele musikkbiblio
 
 <div class="hx:mt-6"></div>
 
-{{< hextra/section-headline >}}
+{{< ls-section-headline >}}
 Komplett funksjonsoversikt
-{{< /hextra/section-headline >}}
+{{< /ls-section-headline >}}
 
 <div class="hx:mt-6"></div>
 
@@ -112,41 +112,41 @@ Komplett funksjonsoversikt
 
 {{< cards >}}
 
-  {{< feature-card title="Lydkvalitet" subtitle="Nyt lyd med høy troverdighet med samplingsrater fra 8 kHz til 384 kHz, standard eller blandede utgangsmoduser, og støtte for 1 til 7 lydkanaler." icon="volume-up" >}}
-  {{< feature-card title="Tapsfri og hi-res lyd" subtitle="Spill tapsfrie og hi-res formater som FLAC, ALAC, WAV, AIFF, APE, WV og DSF (DSD), pluss MP3, AAC, OGG og OPUS, med samplingsrater opp til 384 kHz." icon="music-note" >}}
-  {{< feature-card title="Tracker- og MOD-musikk" subtitle="Spill klassisk tracker- og modulmusikk naturlig, inkludert MOD-, XM-, IT- og S3M-formater fra chiptune- og demoscene-miljøet som de fleste spillere ikke kan åpne." icon="table" >}}
+  {{< ls-feature-card title="Lydkvalitet" subtitle="Nyt lyd med høy troverdighet med samplingsrater fra 8 kHz til 384 kHz, standard eller blandede utgangsmoduser, og støtte for 1 til 7 lydkanaler." icon="volume-up" >}}
+  {{< ls-feature-card title="Tapsfri og hi-res lyd" subtitle="Spill tapsfrie og hi-res formater som FLAC, ALAC, WAV, AIFF, APE, WV og DSF (DSD), pluss MP3, AAC, OGG og OPUS, med samplingsrater opp til 384 kHz." icon="music-note" >}}
+  {{< ls-feature-card title="Tracker- og MOD-musikk" subtitle="Spill klassisk tracker- og modulmusikk naturlig, inkludert MOD-, XM-, IT- og S3M-formater fra chiptune- og demoscene-miljøet som de fleste spillere ikke kan åpne." icon="table" >}}
 
-  {{< feature-card title="Lydmotorer" subtitle="Velg mellom tre avspillingsmotorer: standard systemmotor, en allsidig FFmpeg-motor, og den profesjonelle BASS™-motoren som låser opp effekter, DSP og visualiseringer." icon="switch-horizontal" >}}
-  {{< feature-card title="Lydeffekter" subtitle="Form lyden i sanntid med romklang, delay, ekko, chorus, flanger, phaser, auto-wah, forvrengning, en kompressor og naturlig crossfeed for hodetelefoner." icon="lightning-bolt" >}}
-  {{< feature-card title="DSP-kjede" subtitle="Bygg din egen signalkjede i sanntid av profesjonelle filtre og EQ-bånd, metning og en bit-crusher, pluss kreative prosessorer som tremolo og stereobredde." icon="chip" >}}
+  {{< ls-feature-card title="Lydmotorer" subtitle="Velg mellom tre avspillingsmotorer: standard systemmotor, en allsidig FFmpeg-motor, og den profesjonelle BASS™-motoren som låser opp effekter, DSP og visualiseringer." icon="switch-horizontal" >}}
+  {{< ls-feature-card title="Lydeffekter" subtitle="Form lyden i sanntid med romklang, delay, ekko, chorus, flanger, phaser, auto-wah, forvrengning, en kompressor og naturlig crossfeed for hodetelefoner." icon="lightning-bolt" >}}
+  {{< ls-feature-card title="DSP-kjede" subtitle="Bygg din egen signalkjede i sanntid av profesjonelle filtre og EQ-bånd, metning og en bit-crusher, pluss kreative prosessorer som tremolo og stereobredde." icon="chip" >}}
 
-  {{< feature-card title="Lyd-equalizer" subtitle="Finjuster lyden med en flerbånds-equalizer, ferdiglagde sjangerforhåndsinnstillinger, manuell kontroll og forforsterkerforsterkning for å løfte stille spor uten forvrengning." icon="adjustments" >}}
-  {{< feature-card title="Musikkvisualisering" subtitle="Se animerte fullskjermsvisualiseringer som reagerer live på musikken din, velg fra et stort bibliotek av forhåndsinnstillinger eller la dem veksle automatisk." icon="sparkles" >}}
-  {{< feature-card title="Avspillingskontroller" subtitle="Juster avspillingshastigheten uten å endre tonehøyden, lagre og gjenopprett køen og posisjonen din, og bruk søvntimer, tilfeldig avspilling, gjentakelse og bakgrunnsavspilling." icon="play" >}}
+  {{< ls-feature-card title="Lyd-equalizer" subtitle="Finjuster lyden med en flerbånds-equalizer, ferdiglagde sjangerforhåndsinnstillinger, manuell kontroll og forforsterkerforsterkning for å løfte stille spor uten forvrengning." icon="adjustments" >}}
+  {{< ls-feature-card title="Musikkvisualisering" subtitle="Se animerte fullskjermsvisualiseringer som reagerer live på musikken din, velg fra et stort bibliotek av forhåndsinnstillinger eller la dem veksle automatisk." icon="sparkles" >}}
+  {{< ls-feature-card title="Avspillingskontroller" subtitle="Juster avspillingshastigheten uten å endre tonehøyden, lagre og gjenopprett køen og posisjonen din, og bruk søvntimer, tilfeldig avspilling, gjentakelse og bakgrunnsavspilling." icon="play" >}}
 
-  {{< feature-card title="Skystrømming" subtitle="Strøm direkte fra iCloud Drive, Google Drive, Dropbox, OneDrive, Box, MEGA og pCloud, pluss personvernvennlige skyer som Internxt og Proton Drive." icon="cloud" >}}
-  {{< feature-card title="Medieservere" subtitle="Koble til dine personlige medieservere, inkludert Plex, Subsonic, Navidrome, Jellyfin og Emby, for å åpne og strømme hele musikkbiblioteket ditt." icon="server" >}}
-  {{< feature-card title="Datamaskin og NAS" subtitle="Koble til en datamaskin eller NAS over SMB, WebDAV, DLNA, FTP, SFTP eller NFS, med naturlig støtte for QNAP, Synology, Nextcloud og WD My Cloud Home." icon="desktop-computer" >}}
+  {{< ls-feature-card title="Skystrømming" subtitle="Strøm direkte fra iCloud Drive, Google Drive, Dropbox, OneDrive, Box, MEGA og pCloud, pluss personvernvennlige skyer som Internxt og Proton Drive." icon="cloud" >}}
+  {{< ls-feature-card title="Medieservere" subtitle="Koble til dine personlige medieservere, inkludert Plex, Subsonic, Navidrome, Jellyfin og Emby, for å åpne og strømme hele musikkbiblioteket ditt." icon="server" >}}
+  {{< ls-feature-card title="Datamaskin og NAS" subtitle="Koble til en datamaskin eller NAS over SMB, WebDAV, DLNA, FTP, SFTP eller NFS, med naturlig støtte for QNAP, Synology, Nextcloud og WD My Cloud Home." icon="desktop-computer" >}}
 
-  {{< feature-card title="USB-minnekort" subtitle="Spill musikk rett fra SD-kort og USB-minnepinner ved hjelp av eksterne lesere som SanDisk iXpand, uten behov for import eller synkronisering." icon="inbox" >}}
-  {{< feature-card title="AirPlay og Chromecast" subtitle="Send musikken din trådløst til Apple TV, HomePod, smarthøyttalere og mer med innebygd støtte for AirPlay, AirPlay 2 og Google Chromecast." icon="device-mobile" >}}
-  {{< feature-card title="Apple CarPlay" subtitle="Kjør og lytt trygt med en enkel, dedikert Apple CarPlay-skjerm for å velge og styre musikk fra sky-, lokale og frakoblede kilder." icon="map" >}}
+  {{< ls-feature-card title="USB-minnekort" subtitle="Spill musikk rett fra SD-kort og USB-minnepinner ved hjelp av eksterne lesere som SanDisk iXpand, uten behov for import eller synkronisering." icon="inbox" >}}
+  {{< ls-feature-card title="AirPlay og Chromecast" subtitle="Send musikken din trådløst til Apple TV, HomePod, smarthøyttalere og mer med innebygd støtte for AirPlay, AirPlay 2 og Google Chromecast." icon="device-mobile" >}}
+  {{< ls-feature-card title="Apple CarPlay" subtitle="Kjør og lytt trygt med en enkel, dedikert Apple CarPlay-skjerm for å velge og styre musikk fra sky-, lokale og frakoblede kilder." icon="map" >}}
 
-  {{< feature-card title="Frakoblet lytting" subtitle="Last ned sanger, album og hele artister for å lytte uten internett, eller slå på lydbufferen for å lagre nylig spilte spor automatisk." icon="download" >}}
-  {{< feature-card title="Automatisk synkronisering" subtitle="Hold biblioteket ditt synkronisert automatisk mellom skylagringen og lokale mapper, slik at nylig lagt til filer dukker opp uten noe manuelt arbeid." icon="refresh" >}}
-  {{< feature-card title="Mediebibliotek" subtitle="Legg til musikken din og organiser den automatisk etter album, artist, albumartist, sjanger og komponist ved hjelp av taggene i filene dine." icon="library" >}}
+  {{< ls-feature-card title="Frakoblet lytting" subtitle="Last ned sanger, album og hele artister for å lytte uten internett, eller slå på lydbufferen for å lagre nylig spilte spor automatisk." icon="download" >}}
+  {{< ls-feature-card title="Automatisk synkronisering" subtitle="Hold biblioteket ditt synkronisert automatisk mellom skylagringen og lokale mapper, slik at nylig lagt til filer dukker opp uten noe manuelt arbeid." icon="refresh" >}}
+  {{< ls-feature-card title="Mediebibliotek" subtitle="Legg til musikken din og organiser den automatisk etter album, artist, albumartist, sjanger og komponist ved hjelp av taggene i filene dine." icon="library" >}}
 
-  {{< feature-card title="Egendefinerte spillelister" subtitle="Opprett, rediger og endre rekkefølge på dine egne spillelister, gjør dem tilgjengelige frakoblet, og importer eller eksporter dem i M3U-, M3U8- og CUE-format." icon="collection" >}}
-  {{< feature-card title="Filbehandler" subtitle="Administrer musikken din med den innebygde filbehandleren, som håndterer dagligdagse operasjoner som kopiere, flytte, gi nytt navn og slette for å holde orden på filene." icon="folder" >}}
-  {{< feature-card title="ID3-taggredigerer" subtitle="Fiks feil eller manglende metadata med den innebygde ID3-taggredigereren, og oppdater tittel, artist, album, sjanger og mer med bare noen få trykk." icon="pencil-alt" >}}
+  {{< ls-feature-card title="Egendefinerte spillelister" subtitle="Opprett, rediger og endre rekkefølge på dine egne spillelister, gjør dem tilgjengelige frakoblet, og importer eller eksporter dem i M3U-, M3U8- og CUE-format." icon="collection" >}}
+  {{< ls-feature-card title="Filbehandler" subtitle="Administrer musikken din med den innebygde filbehandleren, som håndterer dagligdagse operasjoner som kopiere, flytte, gi nytt navn og slette for å holde orden på filene." icon="folder" >}}
+  {{< ls-feature-card title="ID3-taggredigerer" subtitle="Fiks feil eller manglende metadata med den innebygde ID3-taggredigereren, og oppdater tittel, artist, album, sjanger og mer med bare noen få trykk." icon="pencil-alt" >}}
 
-  {{< feature-card title="Avansert søk" subtitle="Finn raskt en hvilken som helst sang, artist eller album på tvers av hele samlingen din med et smart, raskt søk laget for svært store musikkbiblioteker." icon="search" >}}
-  {{< feature-card title="Rask tilgang" subtitle="Hopp rett tilbake til det som betyr noe med Nylig spilte, Favoritter og Bokmerker, som holder favorittsporene dine bare ett trykk unna." icon="clock" >}}
-  {{< feature-card title="Sangtekster og kommentarer" subtitle="Vis tidsbestemte sangtekster og sangnotater inne i hvert spor mens det spilles, og legg til Sangtekster-widgeten på Hjemskjermen for rask oversikt." icon="annotation" >}}
+  {{< ls-feature-card title="Avansert søk" subtitle="Finn raskt en hvilken som helst sang, artist eller album på tvers av hele samlingen din med et smart, raskt søk laget for svært store musikkbiblioteker." icon="search" >}}
+  {{< ls-feature-card title="Rask tilgang" subtitle="Hopp rett tilbake til det som betyr noe med Nylig spilte, Favoritter og Bokmerker, som holder favorittsporene dine bare ett trykk unna." icon="clock" >}}
+  {{< ls-feature-card title="Sangtekster og kommentarer" subtitle="Vis tidsbestemte sangtekster og sangnotater inne i hvert spor mens det spilles, og legg til Sangtekster-widgeten på Hjemskjermen for rask oversikt." icon="annotation" >}}
 
-  {{< feature-card title="Widgeter" subtitle="Legg til Hjemskjerm-widgeter som viser avspillingskøen din og lar deg hoppe rett tilbake, og fortsette nøyaktig der du slapp sist." icon="view-grid" >}}
-  {{< feature-card title="Lydbokstøtte" subtitle="Lytt til lydbøker med bokmerker, søvntimer, justerbar hastighet og gjenoppta avspilling som starter rett der du sist stoppet." icon="book-open" >}}
-  {{< feature-card title="Last.fm-integrasjon" subtitle="Koble til Last.fm-kontoen din for å scrobble spor, følge lyttestatistikken din og få personlige musikkanbefalinger over tid." icon="chart-bar" >}}
+  {{< ls-feature-card title="Widgeter" subtitle="Legg til Hjemskjerm-widgeter som viser avspillingskøen din og lar deg hoppe rett tilbake, og fortsette nøyaktig der du slapp sist." icon="view-grid" >}}
+  {{< ls-feature-card title="Lydbokstøtte" subtitle="Lytt til lydbøker med bokmerker, søvntimer, justerbar hastighet og gjenoppta avspilling som starter rett der du sist stoppet." icon="book-open" >}}
+  {{< ls-feature-card title="Last.fm-integrasjon" subtitle="Koble til Last.fm-kontoen din for å scrobble spor, følge lyttestatistikken din og få personlige musikkanbefalinger over tid." icon="chart-bar" >}}
 
 {{< /cards >}}
 
@@ -154,9 +154,9 @@ Komplett funksjonsoversikt
 
 <div class="hx:mt-6"></div>
 
-{{< hextra/section-headline >}}
+{{< ls-section-headline >}}
 Intuitivt design
-{{< /hextra/section-headline >}}
+{{< /ls-section-headline >}}
 
 <div class="hx:mt-6"></div>
 
@@ -164,7 +164,7 @@ Intuitivt design
 
 {{< cards cols="4">}}
 
-  {{< design-feature-card 
+  {{< ls-design-feature-card 
     image="/products/flacbox/screenshots/2048x2732/1.png" 
     title="Lydspiller" 
     method="Fill"
@@ -173,7 +173,7 @@ Intuitivt design
     icon="play"
   >}}
 
-  {{< design-feature-card 
+  {{< ls-design-feature-card 
     image="/products/flacbox/screenshots/2048x2732/2.png"  
     title="Lyd-equalizer" 
     method="Fill"
@@ -182,7 +182,7 @@ Intuitivt design
     icon="adjustments"
   >}}
 
-  {{< design-feature-card 
+  {{< ls-design-feature-card 
     image="/products/flacbox/screenshots/2048x2732/3.png"  
     title="Spillelistebehandler" 
     method="Fill"
@@ -191,7 +191,7 @@ Intuitivt design
     icon="collection"
   >}}
 
-  {{< design-feature-card 
+  {{< ls-design-feature-card 
     image="/products/flacbox/screenshots/2048x2732/5.png"  
     title="Mediebibliotek" 
     method="Fill"
@@ -200,7 +200,7 @@ Intuitivt design
     icon="library"
   >}}
 
-  {{< design-feature-card 
+  {{< ls-design-feature-card 
     image="/products/flacbox/screenshots/2048x2732/7.png"  
     title="Skylagring" 
     method="Fill"
@@ -209,7 +209,7 @@ Intuitivt design
     icon="cloud"
   >}}
 
-  {{< design-feature-card 
+  {{< ls-design-feature-card 
     image="/products/flacbox/screenshots/2048x2732/8.png"  
     title="iCloud Drive" 
     method="Fill"
@@ -227,48 +227,48 @@ Intuitivt design
 <div class="hx:mt-6"></div>
 
 <div class="hx:w-full">
-{{< appstore-reviews apps="1097564256,1594027432" stars="5,4"  app="Flacbox" >}}
+{{< ls-appstore-reviews apps="1097564256,1594027432" stars="5,4"  app="Flacbox" >}}
 </div>
 
 <div class="hx:mt-6"></div>
 
-{{< hextra/section-headline >}}
+{{< ls-section-headline >}}
    Prisplaner
-{{< /hextra/section-headline >}}
+{{< /ls-section-headline >}}
 
 <div class="hx:mt-6"></div>
 
 <div class="hx:w-full">
 
-{{< pricing-plans >}}
+{{< ls-pricing-plans >}}
 
 </div>
 
 <div class="hx:mt-6"></div>
 
 <div class="hx:w-full hx:mx-auto hx:flex hx:flex-col hx:items-center">
-  {{< hextra/info-paragraph border="true" >}}
+  {{< ls-info-paragraph border="true" >}}
    <strong>Familiedeling</strong>: Alle kjøp og abonnementer støtter Familiedeling, slik at du kan dele Premium-tilgang med familien din.<br><strong>Universell tilgang</strong>: Livstids- og abonnementsplaner deles mellom iOS- og Mac-enheter ved hjelp av iCloud-synkronisering.<br><strong>Priser</strong>: Prisene vises i amerikanske dollar for USA. Endelig pris kan variere basert på din region.  
-  {{< /hextra/info-paragraph >}}
+  {{< /ls-info-paragraph >}}
 </div>
 
 <div class="hx:mt-6"></div>
 
 <div class="hx:w-full">
-{{< app-details heading="true" >}}
+{{< ls-app-details heading="true" >}}
 </div>
 
 <div class="hx:mt-6"></div>
 
-{{< hextra/section-headline >}}
+{{< ls-section-headline >}}
    Ofte stilte spørsmål
-{{< /hextra/section-headline >}}
+{{< /ls-section-headline >}}
 
 <div class="hx:mt-6"></div>
 
 <div class="hx:w-full">
 
-{{% details title="Hvordan fungerer Flacbox?" closed="true" %}}
+{{% ls-details title="Hvordan fungerer Flacbox?" closed="true" %}}
 Flacbox er en hi-res musikkspiller som lar deg administrere lydspor som vanlige filer.<br>
 Du kan laste opp hele musikksamlingen din til skytjenester som Dropbox, Google Drive eller en personlig NAS og spille musikk direkte fra skyen med full kontroll.<br><br>
 Ingen iTunes-synkronisering er nødvendig – bare last opp fra PC-en eller Mac-en din som du gjør med enhver fil.<br>
@@ -282,9 +282,9 @@ Utforsk våre veiledninger for mer informasjon:<br>
 - [Hvordan overføre filer trådløst fra en datamaskin til en iPhone ved hjelp av WiFi-Drive.](/docs/howto/how-to-transfer-files-wirelessly-from-a-computer-to-an-iphone-using-wifi-drive)<br>
 - [Hvordan koble et USB-minnekort til iPhone og lytte til musikk eller administrere filer på det.](/docs/howto/how-to-connect-a-usb-flashcard-to-the-iphone-and-listen-to-music-or-manage-files-located-on-it)<br>
 - [Hvordan spille musikk på iPhone fra WD My Cloud Home.](/docs/howto/how-to-play-music-on-iphone-from-wd-my-cloud-home)
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Er Flacbox gratis?" closed="true" %}}
+{{% ls-details title="Er Flacbox gratis?" closed="true" %}}
 Flacbox er gratis å bruke med noen begrensninger, som kan fjernes ved å oppgradere til Premium-versjonen.<br>
 Du kan velge mellom et engangskjøp for livstid eller to abonnementsalternativer (månedlig eller årlig). Prisene kan variere basert på din region.<br><br>
 
@@ -293,10 +293,10 @@ Familiedeling er aktivert for alle planer, slik at du kan dele Premium-versjonen
 Premium-kjøp og abonnementer deles mellom iOS og Mac via iCloud. For å synkronisere kjøpet ditt, sørg for at iCloud er aktivert, åpne appen på iOS-enheten din og vent et minutt til synkroniseringen er fullført.<br><br>
 
 [Les mer om forskjellene mellom Flacbox og Flacbox Premium](/docs/faq/flacbox/what-is-the-difference-between-flacbox-and-flacbox-premium/)
-{{% /details %}}
+{{% /ls-details %}}
 
 
-{{% details title="Hva er forskjellen mellom Flacbox og Evermusic?" closed="true" %}}
+{{% ls-details title="Hva er forskjellen mellom Flacbox og Evermusic?" closed="true" %}}
 **Flacbox** er bygget for å støtte alle standard iOS-lydformater sammen med mange tilleggsformater som ikke støttes naturlig på iPhone, som WMA, OGG, M4A, DSD og mer.<br>
 Den bruker en tilpasset lydmotor for å håndtere nesten alle formater og tilbyr funksjoner som justerbar lydutsamplingshastighet og tonehøydekorreksjon.<br><br>
 
@@ -306,9 +306,9 @@ Hvis du hovedsakelig bruker MP3, ALAC eller FLAC, kan **Evermusic** være det be
 Hvis du trenger bred kompatibilitet med ulike lydfiltyper, er **Flacbox** det riktige valget.<br><br>
 
 [Lær mer om forskjellene mellom Flacbox og Evermusic](/docs/faq/evermusic/what-is-the-difference-between-evermusic-and-flacbox/)
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Hvordan synkroniserer jeg Flacbox?" closed="true" %}}
+{{% ls-details title="Hvordan synkroniserer jeg Flacbox?" closed="true" %}}
 
 **Metadatasynkronisering**  
 Når du legger til spor i biblioteket ditt, skanner en bakgrunnsmetadataleser filene dine og organiserer dem etter artist, album, sjanger og komponist.<br>
@@ -345,10 +345,10 @@ Du kan også tilpasse **tidsavbrudd for synkronisering** i innstillingene for me
 
 [Les mer](/docs/guide/flacbox/flacbox-guide-music-library)
 
-{{% /details %}}
+{{% /ls-details %}}
 
 
-{{% details title="Hvordan bruker jeg Flacbox?" closed="true" %}}
+{{% ls-details title="Hvordan bruker jeg Flacbox?" closed="true" %}}
 
 **Installer Flacbox**<br>
 Last ned og installer Flacbox-appen fra enhetens appbutikk. Den er tilgjengelig for både iOS- og Mac-enheter.<br><br>
@@ -408,10 +408,10 @@ Utforsk veiledninger i appen eller besøk disse guidene:<br><br>
 • [Koble til USB-minnekort](/docs/howto/how-to-connect-a-usb-flashcard-to-the-iphone-and-listen-to-music-or-manage-files-located-on-it)<br>
 • [WiFi-Drive trådløs overføring](/docs/howto/how-to-transfer-files-wirelessly-from-a-computer-to-an-iphone-using-wifi-drive)
 
-{{% /details %}}
+{{% /ls-details %}}
 
 
-{{% details title="Er Flacbox trygg?" closed="true" %}}
+{{% ls-details title="Er Flacbox trygg?" closed="true" %}}
 Flacbox bruker kun offisiell SDK og sikre tilkoblinger for å samhandle med tilkoblede skytjenester. Påloggingsinformasjonen din er ikke tilgjengelig for applikasjonen. Alle forespørsler fra applikasjonen til skytjenesten er kryptert.<br>
 Når du skriver inn brukernavn og passord, viser applikasjonen den offisielle autorisasjonssiden som leveres av skytjenesteleverandøren, og hele autorisasjonsprosessen foregår utenfor applikasjonen. Skytjenesteleverandøren sender et auth-token til applikasjonen etter vellykket autorisasjon, og det tokenet brukes til å utføre API-kall.<br><br>
 
@@ -423,24 +423,24 @@ For å avvise auth-token, logg inn på kontoen din i nettleseren og naviger til 
 Du kan også koble fra tilkoblede skykontoer i applikasjonen, og auth-token vil også bli fjernet fra enheten din. Hvis du fjerner applikasjonen fra enheten din, vil alle nedlastede data og tilgangstokener også bli fjernet.<br><br>
 
 [Les mer](/docs/guide/flacbox/flacbox-guide-connections)
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Hvordan lager jeg en spilleliste i Flacbox?" closed="true" %}}
+{{% ls-details title="Hvordan lager jeg en spilleliste i Flacbox?" closed="true" %}}
 - Åpne Spillelister-seksjonen.<br>
 - Trykk på «+»-knappen eller «...»-knappen øverst til høyre og velg «Ny spilleliste».<br>
 - Skriv inn et navn for spillelisten og trykk «Lagre». Dialogen «Legg til sanger» vil vises.<br>
 - Velg sporene du vil legge til i spillelisten.<br><br>
 
 [Les mer](/docs/guide/flacbox/flacbox-guide-playlists)
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Hvilke skytjenester støtter Flacbox?" closed="true" %}}
+{{% ls-details title="Hvilke skytjenester støtter Flacbox?" closed="true" %}}
 For øyeblikket støtter applikasjonen de mest populære skytjenestene: iCloud Drive, Google Drive, Dropbox, OneDrive, Box, MEGA, Yandex.Disk, WD MyCloud Home, DLNA, MediaFire, WebDAV, SMB, pCloud, HiDrive, My Cloud Home, InfiniCLOUD, Cloud Mail.ru, Put.io, MyDrive.<br><br>
 
 [Les mer](/docs/guide/flacbox/flacbox-guide-connections)
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Hvordan kan jeg bruke equalizeren?" closed="true" %}}
+{{% ls-details title="Hvordan kan jeg bruke equalizeren?" closed="true" %}}
 - Åpne lydspillerskjermen.<br>
 - Trykk på «Equalizer»-ikonet nederst på skjermen.<br>
 - Slå på bryterkontrollen øverst til høyre på equalizerskjermen for å aktivere equalizeren.<br>
@@ -448,9 +448,9 @@ For øyeblikket støtter applikasjonen de mest populære skytjenestene: iCloud D
 
 Full veiledning tilgjengelig her:<br>
 [Hvordan bruke lyd-equalizeren på iPhone, iPad, Mac med Evermusic og Flacbox](/docs/howto/how-to-use-the-audio-equalizer-on-your-iphone-ipad-mac-with-evermusic-and-flacbox)
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Hvordan aktiverer jeg frakoblet modus i Flacbox?" closed="true" %}}
+{{% ls-details title="Hvordan aktiverer jeg frakoblet modus i Flacbox?" closed="true" %}}
 - Koble til en skytjeneste:<br>
  • Gå til «Tilkoblinger»-fanen.<br>
  • Velg «Koble til en skytjeneste» og følg instruksjonene for å koble til ønsket tjeneste.<br><br>
@@ -476,9 +476,9 @@ Full veiledning tilgjengelig her:<br>
  • Trykk «Flere handlinger» og velg «Start synkronisering».<br><br>
 
 [Les mer](/docs/howto/play-offline-music-in-evermusic-flacbox-download-sync-from-cloud-to-local-files/)
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Hvordan spille lokalt nedlastet musikk på iPhone?" closed="true" %}}
+{{% ls-details title="Hvordan spille lokalt nedlastet musikk på iPhone?" closed="true" %}}
 Når du har installert applikasjonen, åpne «Lokale filer»-skjermen og bla ned til seksjonen «Filer på denne iPhone». Derfra velger du «Åpne filer...» hvis du trenger å velge flere lydfiler, eller «Åpne mappe...» hvis du vil velge en musikkmappe. Appen vil skanne mappens innhold, og alle funnet lydfiler vil bli valgt. Naviger til musikkmappen din, trykk «Åpne» for å bekrefte valget ditt, og filene vil bli lagt til i spillerkøen. Disse filene spilles direkte fra den valgte plasseringen uten å bli kopiert til applikasjonspakken.<br><br>
 
 **Legge til en mappe i favoritter for rask tilgang**<br>
@@ -493,13 +493,13 @@ For å legge til lokale filer i en spilleliste, åpne «Spillelister»-skjermen 
 Med disse enkle trinnene kan du utnytte det fulle potensialet til iPhone og Mac som de ultimate plattformene for å nyte din kjære lokale musikksamling.<br><br>
 
 [Les mer](/docs/howto/how-to-play-local-music-stored-on-your-iphone-or-mac)
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Hvordan kan jeg gjenoppta en spilleliste der jeg slapp?" closed="true" %}}
+{{% ls-details title="Hvordan kan jeg gjenoppta en spilleliste der jeg slapp?" closed="true" %}}
 Først, sørg for at «Lagre lydspillerstatus» er aktivert i Innstillinger > Lydspiller > Generelt. Når du bytter til en annen spilleliste og kommer tilbake, vil du se fire handlinger på den øverste verktøylinjen under albumomslaget: «Søk», «Fortsett avspilling», «Spill alle» og «Tilfeldig avspilling». Trykk «Fortsett avspilling» for å gjenoppta spillelisten fra sist lagrede tilstand og medieposisjon.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Hvordan vise sangtekster i Flacbox?" closed="true" %}}
+{{% ls-details title="Hvordan vise sangtekster i Flacbox?" closed="true" %}}
 Du kan vise innebygde sangtekster for spor i appen ved å **følge disse trinnene**:<br>
 1. Start avspilling av en lydfil ved å trykke på den.<br>
 2. Åpne fullskjerms lydspilleren.<br>
@@ -513,9 +513,9 @@ Du kan vise innebygde sangtekster for spor i appen ved å **følge disse trinnen
 3. LRC-filmodus: I stedet for å redigere lydfiler kan du plassere en LRC-fil i samme mappe som den originale lydfilen. Begge filene bør ha samme navn men forskjellige filendelser. Når du sveiper til den tredje siden på Kommentarer-skjermen, vil appen søke etter LRC-filen i samme katalog og vise innholdet.<br><br>
 
 [Les mer](/docs/howto/how-to-add-and-view-comments-to-your-audio-tracks-on-iphone-ipad-and-mac-with-evermusic-and-flacbox)
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Hvordan overfører jeg musikk til Flacbox fra datamaskinen min?" closed="true" %}}
+{{% ls-details title="Hvordan overfører jeg musikk til Flacbox fra datamaskinen min?" closed="true" %}}
 Du kan koble datamaskinen eller personlig NAS ved hjelp av SMB-, WebDAV- eller DLNA-protokoller. Alternativt kan du bruke iTunes Fildeling for å overføre musikk.<br><br>
 
 For å koble til en datamaskin ved hjelp av SMB-protokollen, trykk «Koble til en skytjeneste» → SMB. Skriv inn datamaskinens IP-adresse og navnet på den delte mappen i URL-feltet med formatet smb://datamaskin-ip-adresse/delt-mappenavn, skriv inn brukernavn og passord og trykk «Ferdig». Hvis tilkoblingen er vellykket, vil du se tilkoblet lagring i «Skytjenester»-seksjonen.<br><br>
@@ -536,9 +536,9 @@ Detaljert instruksjon tilgjengelig her:<br>
 
 DLNA Du kan også sette opp DLNA-medieserver og strømme musikken din fra Windows-PC som beskrevet her:<br>
 [Hvordan aktivere DLNA-medieserver på Windows 10 og spille musikken din på iPhone](/docs/howto/how-to-enable-dlna-media-server-on-windows-10-and-play-your-music-on-iphone)
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Hvordan laste ned musikk?" closed="true" %}}
+{{% ls-details title="Hvordan laste ned musikk?" closed="true" %}}
 Før du kan laste ned musikk og lytte til musikken din frakoblet, må du koble til en nettverkskonto.<br>
 Bare åpne «Tilkoblinger»-skjermen og legg til kontoen din.<br>
 Når du har lagt til en nettverkskonto, kan du laste ned musikken din fra skyen.<br><br>
@@ -559,15 +559,15 @@ Mer detaljert instruksjon om frakoblet modus tilgjengelig her:<br>
 
 Et annet tilgjengelig alternativ er å laste ned musikk fra skytjenester og importere den i Evermusic som beskrevet her:<br>
 [Hvordan laste ned musikk fra YouTube og lytte til frakoblet musikk på iPhone](/docs/howto/how-to-download-music-from-youtube-and-listen-to-offline-music-on-iphone)
-{{% /details %}}
+{{% /ls-details %}}
 
 
-{{% details title="Hvilke lydformater støtter Flacbox?" closed="true" %}}
+{{% ls-details title="Hvilke lydformater støtter Flacbox?" closed="true" %}}
 Denne appen støtter standard **systemlydkodeker** og tilleggs **ffmpeg programvarekodeker**:<br><br>
 3g2, 3gp, 3gp2, 3gpp, 8svx, aa, aac, aax, ac3, act, adt, adts, aif, aifc, aiff, alac, amr, amv, ape, asf, au, avi, awb, caf, cavs, cdda, cue, dct, dff, drc, dsf, dss, dvf, "dvr-ms", ec3, f4a, f4b, f4p, f4v, flac, flv, gif, gifv, gsm, gxf, h261, h263, h264, ifv, iklax, ivf, ivs, l16, latm, loas, m2t, m2ts, m2v, m3u, m3u8, m4a, m4b, m4p, m4r, m4v, mka, mkv, mmf, mng, mod, mogg, mov, mp1, mp2, mp3, mp4, mp4v, mpa, mpc, mpe, mpeg, mpg, mpv, msv, mts, mxf, nsf, nsv, nut, oga, ogg, ogv, opus, pcm, pls, qt, ra, raw, rm, rmvb, roq, rv, sln, snd, svi, tod, tta, vob, voc, vox, vtt, w64, wav, wave, webm, wma, wmv, wv, xhe, xmv, y4m, yuv.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Kan jeg bruke Flacbox til å spille lydbøker?" closed="true" %}}
+{{% ls-details title="Kan jeg bruke Flacbox til å spille lydbøker?" closed="true" %}}
 
 Ja, Flacbox kan brukes som en kraftig lydbokspiller.<br><br>
 
@@ -590,11 +590,11 @@ Flacbox tilbyr en fullstendig løsning for lydbokentusiaster på iPhone, iPad og
 
 [Les mer](/docs/howto/how-to-listen-to-audiobooks-on-iphone-ipad-mac-using-evermusic)
 
-{{% /details %}}
+{{% /ls-details %}}
 
 
 
-{{% details title="Fungerer Flacbox med NAS-enheter?" closed="true" %}}
+{{% ls-details title="Fungerer Flacbox med NAS-enheter?" closed="true" %}}
 
 Ja, Flacbox støtter NAS-tilkoblinger ved hjelp av **SMB**-, **WebDAV**- og **DLNA**-protokoller.<br><br>
 
@@ -625,10 +625,10 @@ Hvis tilkoblingen er vellykket, vil du se NAS-en din i **Skytjenester**-seksjone
 • [Koble til Bluesound Vault-lagring](/docs/howto/how-to-connect-bluesound-vault-s-internal-storage-from-the-evermusic-flacbox-evertag)<br>
 • [Koble til NAS-lagring ved hjelp av WebDAV](/docs/howto/how-to-connect-nas-storage-using-webdav-and-listen-to-music-on-your-iphone-or-mac)
 
-{{% /details %}}
+{{% /ls-details %}}
 
 
-{{% details title="Hvordan importerer jeg musikk til Flacbox?" closed="true" %}}
+{{% ls-details title="Hvordan importerer jeg musikk til Flacbox?" closed="true" %}}
 
 **Koble til skytjenesten din**<br>
 • Åpne **Tilkoblinger**-fanen.<br>
@@ -674,10 +674,10 @@ Utforsk disse veiledningene for mer hjelp:<br><br>
 • [Overfør filer trådløst med WiFi-Drive](/docs/howto/how-to-transfer-files-wirelessly-from-a-computer-to-an-iphone-using-wifi-drive)<br>
 • [Overfør filer med SMB-protokollen](/docs/howto/transfer-your-files-from-the-computer-to-iphone-using-smb-protocol/)
 
-{{% /details %}}
+{{% /ls-details %}}
 
 
-{{% details title="Hvordan bruker jeg Wi-Fi Drive-funksjonen i Flacbox?" closed="true" %}}
+{{% ls-details title="Hvordan bruker jeg Wi-Fi Drive-funksjonen i Flacbox?" closed="true" %}}
 
 **Trådløs overføring ved hjelp av en nettleser**<br>
 1. Start appen: Åpne Flacbox.<br>
@@ -702,9 +702,9 @@ Merk: Sørg for at JavaScript er aktivert og at du bruker den nyeste nettleserve
 
 [Les mer](/docs/howto/how-to-transfer-files-wirelessly-from-a-computer-to-an-iphone-using-wifi-drive)
 
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Støtter Flacbox Apple CarPlay?" closed="true" %}}
+{{% ls-details title="Støtter Flacbox Apple CarPlay?" closed="true" %}}
 Ja, **Flacbox støtter Apple CarPlay fullt ut**. Du kan bla gjennom musikkbiblioteket ditt, spille lokale eller frakoblede filer, koble til skylagring og kontrollere avspillingen direkte fra bilens infotainmentskjerm.
 
 CarPlay-grensesnittet inkluderer dedikerte faner for **Bibliotek**, **Tilkoblinger**, **Lokale filer** og **Innstillinger**, som gir deg full kontroll over musikken på veien. Avspillingskontroller, tilfeldig avspilling, gjentakelse og købehandling er også tilgjengelig.
@@ -712,42 +712,42 @@ CarPlay-grensesnittet inkluderer dedikerte faner for **Bibliotek**, **Tilkobling
 For å bruke CarPlay, sørg for at Siri er aktivert og at iPhone-en din er koblet til via USB eller trådløst.
 
 [Les den fullstendige guiden](/docs/howto/how-to-play-your-own-music-on-iphone-using-carplay/)
-{{% /details %}}
+{{% /ls-details %}}
 
 </div>
 
 
 <div class="hx:mt-6"></div>
 
-{{< hextra/section-headline >}}
+{{< ls-section-headline >}}
   Brukerveiledning
-{{< /hextra/section-headline >}}
+{{< /ls-section-headline >}}
 
 <div class="hx:mt-6"></div>
 
 <div class="hx:w-full">
 
 <div class="hx:w-full hx:mx-auto hx:flex hx:flex-col hx:items-center hx:text-center">
-  {{< hextra/info-paragraph border="false" >}}
+  {{< ls-info-paragraph border="false" >}}
   Denne guiden vil hjelpe deg å få mest mulig ut av Flacbox på din iPhone, iPad eller Mac. Lær hvordan du strømmer høyoppløselig musikk fra skyen, organiserer biblioteket ditt, administrerer lydbøker og overfører musikk mellom enheter.
-  {{< /hextra/info-paragraph >}}
+  {{< /ls-info-paragraph >}}
 </div>
 
 {{< cards >}}
 
-{{< feature-card icon="map" link="/docs/guide/flacbox/flacbox-guide-navigation" title="Navigasjon" subtitle="Bruk fanelinjen på iPhone eller venstremenyen på iPad og Mac." >}}
+{{< ls-feature-card icon="map" link="/docs/guide/flacbox/flacbox-guide-navigation" title="Navigasjon" subtitle="Bruk fanelinjen på iPhone eller venstremenyen på iPad og Mac." >}}
 
-{{< feature-card icon="cloud" link="/docs/guide/flacbox/flacbox-guide-connections" title="Tilkoblinger" subtitle="Koble til Dropbox, Google Drive, iCloud eller din NAS." >}}
+{{< ls-feature-card icon="cloud" link="/docs/guide/flacbox/flacbox-guide-connections" title="Tilkoblinger" subtitle="Koble til Dropbox, Google Drive, iCloud eller din NAS." >}}
 
-{{< feature-card icon="collection" link="/docs/guide/flacbox/flacbox-guide-music-library" title="Musikkbibliotek" subtitle="Administrer og søk etter spor etter artist, album eller sjanger." >}}
+{{< ls-feature-card icon="collection" link="/docs/guide/flacbox/flacbox-guide-music-library" title="Musikkbibliotek" subtitle="Administrer og søk etter spor etter artist, album eller sjanger." >}}
 
-{{< feature-card icon="music-note" link="/docs/guide/flacbox/flacbox-guide-playlists" title="Spillelister" subtitle="Opprett og organiser spillelister for enhver stemning eller anledning." >}}
+{{< ls-feature-card icon="music-note" link="/docs/guide/flacbox/flacbox-guide-playlists" title="Spillelister" subtitle="Opprett og organiser spillelister for enhver stemning eller anledning." >}}
 
-{{< feature-card icon="folder" link="/docs/guide/flacbox/flacbox-guide-local-files" title="Lokale filer" subtitle="Rediger og spill frakoblet musikk med den innebygde filbehandleren." >}}
+{{< ls-feature-card icon="folder" link="/docs/guide/flacbox/flacbox-guide-local-files" title="Lokale filer" subtitle="Rediger og spill frakoblet musikk med den innebygde filbehandleren." >}}
 
-{{< feature-card icon="play" link="/docs/guide/flacbox/flacbox-guide-player" title="Lydspiller" subtitle="Kontroller avspilling, juster hastighet, sett bokmerker og mer." >}}
+{{< ls-feature-card icon="play" link="/docs/guide/flacbox/flacbox-guide-player" title="Lydspiller" subtitle="Kontroller avspilling, juster hastighet, sett bokmerker og mer." >}}
 
-{{< feature-card icon="adjustments" link="/docs/guide/flacbox/flacbox-guide-settings" title="Innstillinger" subtitle="Tilpass equalizer, utseende og app-oppførsel." >}}
+{{< ls-feature-card icon="adjustments" link="/docs/guide/flacbox/flacbox-guide-settings" title="Innstillinger" subtitle="Tilpass equalizer, utseende og app-oppførsel." >}}
 
 {{< /cards >}}
 

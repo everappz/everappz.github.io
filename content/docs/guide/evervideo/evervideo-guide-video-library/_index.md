@@ -25,7 +25,7 @@ The **Media Library** is the heart of Evervideo. It brings every video and music
 You have two ways to add media to your library: **manual addition** (you pick exactly what gets added) or **automatic synchronization** (Evervideo scans designated cloud folders and adds new files automatically as they appear).
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evervideo Media Library" image="/docs/guide/evervideo/img/evervideo-genres-in-media-library.webp" >}}
+  {{< ls-card title="" subtitle="Evervideo Media Library" image="/docs/guide/evervideo/img/evervideo-genres-in-media-library.webp" >}}
 {{< /cards >}}
 
 ## Manual Addition
@@ -96,7 +96,7 @@ If you don't see all your titles, ensure the app has scanned every file. You can
 This section displays all recently played videos with their last playback position, so you can resume any of them with one tap. You can change how many entries the list keeps in Settings → Media Library → Recents → Change List Size, and export the list to M3U / CSV / TXT to back up your watch history.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evervideo Recents — Recently Watched Videos" image="/docs/guide/evervideo/img/evervideo-recents.webp" >}}
+  {{< ls-card title="" subtitle="Evervideo Recents — Recently Watched Videos" image="/docs/guide/evervideo/img/evervideo-recents.webp" >}}
 {{< /cards >}}
 
 ## Favorites
@@ -108,7 +108,7 @@ Mark videos as favorites on the player screen or via the options menu. Favorites
 Evervideo tracks the playback position of every video you watch. Each video in any list — Recents, Favorites, an album, a genre, a playlist, a folder — displays a small progress bar so you can see at a glance how much of it you've already watched. This makes long TV-show seasons, course playlists, and binge-watch nights effortless to manage.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evervideo Genre Detail with Per-File Watch Progress" image="/docs/guide/evervideo/img/evervideo-genre-detail-with-playback-progress-for-watched-files.webp" >}}
+  {{< ls-card title="" subtitle="Evervideo Genre Detail with Per-File Watch Progress" image="/docs/guide/evervideo/img/evervideo-genre-detail-with-playback-progress-for-watched-files.webp" >}}
 {{< /cards >}}
 
 ## Top Toolbar
@@ -120,7 +120,7 @@ Located just beneath the navigation bar, the top toolbar offers several convenie
 The search feature empowers you to locate a specific title, album, genre, or playlist within your media library. Within the Search screen, you have access to Sort, Filter, and Grid / List view actions. Search runs locally against the media library database, so it works fully offline and returns results as you type.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evervideo Media Library Search" image="/docs/guide/evervideo/img/evervideo-library-search.webp" >}}
+  {{< ls-card title="" subtitle="Evervideo Media Library Search" image="/docs/guide/evervideo/img/evervideo-library-search.webp" >}}
 {{< /cards >}}
 
 ## Options Menu

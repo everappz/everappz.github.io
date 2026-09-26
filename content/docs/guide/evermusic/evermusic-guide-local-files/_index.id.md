@@ -20,7 +20,7 @@ Bagian File Lokal berfungsi sebagai pusat untuk mengelola file yang terletak di 
 Manajer file bawaan ini memungkinkan Anda mengedit file dan menawarkan berbagai metode untuk mengimpor file audio ke dalam aplikasi.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Layar File Lokal Evermusic" image="/docs/guide/evermusic/evermusic-guide-local-files/img/local-files-main.webp" >}}
+  {{< ls-card title="" subtitle="Layar File Lokal Evermusic" image="/docs/guide/evermusic/evermusic-guide-local-files/img/local-files-main.webp" >}}
 {{< /cards >}}
 
 ## Unduh file dari penyimpanan cloud
@@ -40,7 +40,7 @@ Impor file dari perangkat Anda dengan mudah seperti yang dijelaskan [di sini](/d
 Transfer file menggunakan koneksi kabel seperti yang dijelaskan [di sini](/docs/howto/how-to-transfer-files-from-my-mac-to-iphone-or-ipad-using-finder).
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="iTunes / Finder File Sharing" image="/docs/guide/evermusic/evermusic-guide-local-files/img/local-files-itunes-file-sharing.webp" >}}
+  {{< ls-card title="" subtitle="iTunes / Finder File Sharing" image="/docs/guide/evermusic/evermusic-guide-local-files/img/local-files-itunes-file-sharing.webp" >}}
 {{< /cards >}}
 
 ## Wi-Fi Drive
@@ -48,7 +48,7 @@ Transfer file menggunakan koneksi kabel seperti yang dijelaskan [di sini](/docs/
 Transfer file secara nirkabel seperti yang dijelaskan [di sini](/docs/howto/how-to-transfer-files-wirelessly-from-a-computer-to-an-iphone-using-wifi-drive).
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Pengaturan Server Wi-Fi Drive" image="/docs/guide/evermusic/evermusic-guide-local-files/img/local-files-wifidrive-settings.webp" >}}
+  {{< ls-card title="" subtitle="Pengaturan Server Wi-Fi Drive" image="/docs/guide/evermusic/evermusic-guide-local-files/img/local-files-wifidrive-settings.webp" >}}
 {{< /cards >}}
 
 ## Antrean Transfer
@@ -56,7 +56,7 @@ Transfer file secara nirkabel seperti yang dijelaskan [di sini](/docs/howto/how-
 Di sudut kiri atas bilah navigasi, Anda akan menemukan tombol 'Transfer'. Ketuk untuk mengakses antrean transfer, di mana Anda dapat memantau dan mengelola semua unduhan dan unggahan Anda. Selain itu, Anda memiliki fleksibilitas untuk menyesuaikan kecepatan antrean transfer dan jenis jaringan di pengaturan aplikasi.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Antrean Transfer File" image="/docs/guide/evermusic/evermusic-guide-local-files/img/local-files-file-transfers.webp" >}}
+  {{< ls-card title="" subtitle="Antrean Transfer File" image="/docs/guide/evermusic/evermusic-guide-local-files/img/local-files-file-transfers.webp" >}}
 {{< /cards >}}
 
 ## Bagian Akses Cepat
@@ -68,7 +68,7 @@ Di bagian atas layar, bagian akses cepat menyediakan tautan yang mudah ke file d
 Bagian ini menampilkan semua file atau folder yang baru dibuka.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="File dan Folder yang Baru Dibuka" image="/docs/guide/evermusic/evermusic-guide-local-files/img/local-files-recents.webp" >}}
+  {{< ls-card title="" subtitle="File dan Folder yang Baru Dibuka" image="/docs/guide/evermusic/evermusic-guide-local-files/img/local-files-recents.webp" >}}
 {{< /cards >}}
 
 ## Favorit
@@ -76,7 +76,7 @@ Bagian ini menampilkan semua file atau folder yang baru dibuka.
 Anda dapat menandai file atau folder sebagai favorit dan mengaksesnya di bagian ini. Selain itu, Anda dapat menambahkan folder yang terletak di perangkat Anda ke favorit. Untuk melakukan ini, buka bagian favorit, ketuk tiga titik di sudut kanan atas, dan pilih item menu "Tambahkan folder". Ikuti petunjuk untuk menambahkan folder dari perangkat Anda ke favorit untuk akses cepat.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Favorit — Tambahkan Folder Dari Perangkat Anda" image="/docs/guide/evermusic/evermusic-guide-local-files/img/local-files-favorites.webp" >}}
+  {{< ls-card title="" subtitle="Favorit — Tambahkan Folder Dari Perangkat Anda" image="/docs/guide/evermusic/evermusic-guide-local-files/img/local-files-favorites.webp" >}}
 {{< /cards >}}
 
 ## Toolbar Atas
@@ -91,7 +91,7 @@ Toolbar atas, yang terletak di bawah bilah navigasi, menawarkan beberapa tindaka
 Anda dapat menampilkan atau menyembunyikan toolbar atas menggunakan gerakan gesek ke bawah.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Toolbar Atas untuk Folder Saat Ini" image="/docs/guide/evermusic/evermusic-guide-local-files/img/local-files-top-toolbar.webp" >}}
+  {{< ls-card title="" subtitle="Toolbar Atas untuk Folder Saat Ini" image="/docs/guide/evermusic/evermusic-guide-local-files/img/local-files-top-toolbar.webp" >}}
 {{< /cards >}}
 
 ## Folder Khusus
@@ -128,7 +128,7 @@ Menampilkan file dan folder yang disimpan di direktori Documents aplikasi dan iC
 Menampilkan file yang terletak di perangkat Anda tetapi di aplikasi yang berbeda. Anda dapat mengimpornya ke aplikasi ini menggunakan pemilih file sistem. Untuk mengaktifkan pemilih, pilih "Buka file..." untuk memilih file atau "Buka folder..." untuk memilih folder. Instruksi terperinci tentang cara mengimpor musik lokal yang tersimpan di iPhone atau Mac Anda tersedia [di sini](/docs/howto/how-to-play-local-music-stored-on-your-iphone-or-mac). Anda juga dapat menghubungkan folder yang terletak di perangkat Anda dan memiliki akses cepat ke konten folder. Gunakan item menu "Hubungkan folder" dan pilih folder yang terletak di perangkat Anda. Ketuk "Selesai" dan aplikasi akan membuat tautan ke folder tersebut dengan akses baca/tulis dan Anda dapat mengelola file langsung dari aplikasi ini. Untuk memutuskan koneksi folder yang terletak di perangkat Anda, ketuk tombol "Lebih banyak tindakan" dan pilih "Putuskan Koneksi".
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="File di iPhone / iPad / Mac ini" image="/docs/guide/evermusic/evermusic-guide-local-files/img/local-files-on-this-device.webp" >}}
+  {{< ls-card title="" subtitle="File di iPhone / iPad / Mac ini" image="/docs/guide/evermusic/evermusic-guide-local-files/img/local-files-on-this-device.webp" >}}
 {{< /cards >}}
 
 ## Impor File yang Terletak di Flash Drive USB yang Terhubung
@@ -151,7 +151,7 @@ Menu lebih banyak tindakan untuk folder yang saat ini dibuka terletak di sudut k
 Jika Anda perlu mengedit beberapa file, aktifkan mode pemilihan dengan mengetuk tombol lebih banyak tindakan "..." di bilah navigasi di sudut kanan atas lalu pilih item menu "Pilih". Ini akan menampilkan kotak centang di dekat setiap file. Pilih file yang diinginkan dengan mengetuk kotak centangnya. Anda dapat melakukan tindakan berikut pada file yang dipilih.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Tindakan Mode Pemilihan untuk File Lokal" image="/docs/guide/evermusic/evermusic-guide-local-files/img/local-files-selection-mode.webp" >}}
+  {{< ls-card title="" subtitle="Tindakan Mode Pemilihan untuk File Lokal" image="/docs/guide/evermusic/evermusic-guide-local-files/img/local-files-selection-mode.webp" >}}
 {{< /cards >}}
 
 - **Putar berikutnya:** Tambahkan file atau folder yang dipilih ke bagian atas antrean pemutar dengan urutan pengurutan saat ini.
@@ -186,7 +186,7 @@ Untuk setiap file atau folder di aplikasi, beberapa tindakan tersedia, dapat dia
 ## Folder Offline
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Menu Lebih Banyak Tindakan Folder Offline" image="/docs/guide/evermusic/evermusic-guide-local-files/img/local-files-offline-folders.webp" >}}
+  {{< ls-card title="" subtitle="Menu Lebih Banyak Tindakan Folder Offline" image="/docs/guide/evermusic/evermusic-guide-local-files/img/local-files-offline-folders.webp" >}}
 {{< /cards >}}
 
 Mode offline adalah fitur praktis yang memungkinkan Anda mengakses musik favorit bahkan ketika Anda tidak terhubung ke internet. Ketika Anda mengaktifkan mode offline untuk album, artis, playlist, genre, atau folder jarak jauh manapun, semua file dalam koleksi tersebut akan diunduh secara otomatis ke perangkat Anda untuk pemutaran offline. Anda dapat mengakses file-file ini dengan mudah di bagian "Folder Offline" aplikasi.
@@ -204,7 +204,7 @@ Instruksi terperinci tentang Cara Memutar Musik Offline di Evermusic & Flacbox: 
 Hampir setiap perilaku layar File Lokal — dari bandwidth jaringan hingga tempat landing unduhan hingga cara thumbnail di-cache — dapat dikonfigurasi di **Pengaturan → Manajer file**. Buka kapan pun Anda ingin menyesuaikan kecepatan transfer, menghemat ruang penyimpanan, atau membatasi aplikasi hanya ke Wi-Fi.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Layar Pengaturan Manajer File" image="/docs/guide/evermusic/evermusic-guide-local-files/img/local-files-file-manager-settings.webp" >}}
+  {{< ls-card title="" subtitle="Layar Pengaturan Manajer File" image="/docs/guide/evermusic/evermusic-guide-local-files/img/local-files-file-manager-settings.webp" >}}
 {{< /cards >}}
 
 Layar ini mengekspos setiap opsi yang dikelompokkan ke dalam bagian yang diberi label jelas:

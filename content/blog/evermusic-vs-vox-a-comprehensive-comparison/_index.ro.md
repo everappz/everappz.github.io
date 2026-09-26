@@ -14,7 +14,7 @@ authors:
     image: "/images/about/artem-meleshko-founder-everappz.webp"
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 **Rezumat:** Evermusic câștigă în 5 din 8 categorii, cu 3 egalități. Oferă suport mai larg pentru stocare cloud (12+ servicii vs. doar VOX Cloud), funcții integrate de cărți audio, editor de etichete ID3 și transfer fișiere fără fir. VOX atrage utilizatorii care preferă cloud-ul proprietar și designul minimalist.
 
@@ -34,8 +34,8 @@ authors:
 | Accesibilitate (VoiceOver) | Da | Da | Egalitate |
 
 {{< cards >}}
-  {{< card link="https://apps.apple.com/us/app/evermusic-cloud-music-player/id885367198" title="Descarcă Evermusic" icon="download" tag="Gratuit" >}}
-  {{< card link="https://apps.apple.com/us/app/vox-mp3-flac-music-player/id916215494" title="Descarcă VOX" icon="download" tag="Gratuit" >}}
+  {{< ls-card link="https://apps.apple.com/us/app/evermusic-cloud-music-player/id885367198" title="Descarcă Evermusic" icon="download" tag="Gratuit" >}}
+  {{< ls-card link="https://apps.apple.com/us/app/vox-mp3-flac-music-player/id916215494" title="Descarcă VOX" icon="download" tag="Gratuit" >}}
 {{< /cards >}}
 
 ## Suport pentru Stocare Cloud
@@ -107,18 +107,18 @@ Pentru majoritatea utilizatorilor iOS care își gestionează propria colecție 
 
 ## Întrebări Frecvente
 
-{{% details title="Este Evermusic o alternativă bună la VOX?" closed="true" %}}
+{{% ls-details title="Este Evermusic o alternativă bună la VOX?" closed="true" %}}
 Da. Evermusic suportă 12+ servicii de stocare cloud comparativ cu doar cloud-ul proprietar VOX. De asemenea, oferă funcții de cărți audio, editare etichete ID3 și transfer fișiere Wi-Fi pe care VOX nu le are. Evermusic este gratuit de descărcat cu o actualizare Premium unică disponibilă.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="VOX suportă Dropbox sau Google Drive?" closed="true" %}}
+{{% ls-details title="VOX suportă Dropbox sau Google Drive?" closed="true" %}}
 Nu. VOX folosește propriul stocare VOX Cloud. Nu se conectează la servicii terțe precum Dropbox, Google Drive sau OneDrive. Evermusic suportă toate acestea și mai mult.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Care aplicație este mai bună pentru cărți audio: Evermusic sau VOX?" closed="true" %}}
+{{% ls-details title="Care aplicație este mai bună pentru cărți audio: Evermusic sau VOX?" closed="true" %}}
 Evermusic este semnificativ mai bun pentru cărți audio. Include control viteză redare, salvare automată poziție și suport marcaje. VOX nu are funcții dedicate pentru cărți audio.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Pot edita etichetele muzicii pe iPhone cu Evermusic?" closed="true" %}}
+{{% ls-details title="Pot edita etichetele muzicii pe iPhone cu Evermusic?" closed="true" %}}
 Da. Evermusic include un editor de etichete ID3 integrat care vă permite să corectați titlurile pieselor, numele artiștilor, informațiile albumului și alte metadate direct pe iPhone sau iPad.
-{{% /details %}}
+{{% /ls-details %}}

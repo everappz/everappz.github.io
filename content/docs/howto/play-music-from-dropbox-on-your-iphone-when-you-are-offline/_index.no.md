@@ -7,7 +7,7 @@ tags: ["sky", "strømming", "iphone", "mp3", "lagring", "dropbox"]
 keywords: ["spill musikk Dropbox iPhone", "frakoblet musikk Dropbox iOS", "Evermusic Dropbox", "mp3 spiller sky", "strøm Dropbox lyd", "Evermusic filbehandler", "Dropbox iOS lyd"]
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **Kort oppsummert:** Last opp musikken din til Dropbox, installer den gratis Evermusic-appen på iPhone, koble til Dropbox-kontoen din og spill eller last ned sporene dine for frakoblet lytting. Evermusic støtter MP3, FLAC, WAV, AAC og mer. Den inkluderer en 10-bånds equalizer, spillelister og filhåndtering.
@@ -35,7 +35,7 @@ Evermusic er helt gratis og tilgjengelig for både iPhone og iPad, kompatibel me
 
 {{< cards cols="1">}}
 
-  {{< card title="Last ned Evermusic" subtitle="Frakoblet musikkspiller og skylagring-strømmer for iPhone og iPad." icon="download" link="https://itunes.apple.com/us/app/evermusic-offline-music/id885367198?mt=8" >}}
+  {{< ls-card title="Last ned Evermusic" subtitle="Frakoblet musikkspiller og skylagring-strømmer for iPhone og iPad." icon="download" link="https://itunes.apple.com/us/app/evermusic-offline-music/id885367198?mt=8" >}}
 
 {{< /cards >}}
 
@@ -67,26 +67,26 @@ Evermusic er også en fullverdig filbehandler som støtter grunnleggende operasj
 
 ## FAQ
 
-{{% details title="Kan jeg spille Dropbox-musikk frakoblet på iPhone?" closed="true" %}}
+{{% ls-details title="Kan jeg spille Dropbox-musikk frakoblet på iPhone?" closed="true" %}}
 Ja. Bruk Evermusic til å koble til Dropbox, og last deretter ned et spor eller en spilleliste for frakoblet lytting. Nedlastede filer lagres på enheten din og spilles uten internettforbindelse.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Er Evermusic gratis?" closed="true" %}}
+{{% ls-details title="Er Evermusic gratis?" closed="true" %}}
 Evermusic er gratis å laste ned med kjernefunksjoner inkludert equalizer, skystrømming og frakoblet avspilling. Gratisversjonen støtter opptil 3 skytilkoblinger og 10 spillelister. Oppgradering til Premium fjerner alle begrensninger.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Hvilke lydformater støtter Evermusic fra Dropbox?" closed="true" %}}
+{{% ls-details title="Hvilke lydformater støtter Evermusic fra Dropbox?" closed="true" %}}
 Evermusic spiller MP3, FLAC, WAV, AAC, AIFF, OGG, WMA og mange andre formater direkte fra Dropbox.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Kan jeg koble til flere skytjenester?" closed="true" %}}
+{{% ls-details title="Kan jeg koble til flere skytjenester?" closed="true" %}}
 Ja. Evermusic støtter Dropbox, Google Drive, OneDrive, Box, WebDAV, SMB, MEGA og mer. Du kan koble til ubegrensede kontoer og bla gjennom alle i ett bibliotek.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Synkroniserer Evermusic spillelister mellom enheter?" closed="true" %}}
+{{% ls-details title="Synkroniserer Evermusic spillelister mellom enheter?" closed="true" %}}
 Spillelister opprettet i Evermusic lagres lokalt på enheten din. Dropbox-filene dine forblir synkronisert på alle enheter gjennom Dropbox selv.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Hvordan frigjør jeg iPhone-lagring med Dropbox-musikk?" closed="true" %}}
+{{% ls-details title="Hvordan frigjør jeg iPhone-lagring med Dropbox-musikk?" closed="true" %}}
 Flytt musikkfilene dine til Dropbox og strøm dem gjennom Evermusic i stedet for å lagre dem på iPhone. Last kun ned sporene du trenger for frakoblet lytting.
-{{% /details %}}
+{{% /ls-details %}}

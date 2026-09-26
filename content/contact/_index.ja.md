@@ -1,9 +1,10 @@
 ---
+excludeSearch: true
 date: '2025-06-12T17:00:00+00:00'
 title: 'お問い合わせ'
 ---
 
-{{< lottie src="/images/juicy-json/juicy-girl-typing-on-phone.json" width="60%" >}}
+{{< ls-lottie src="/images/juicy-json/juicy-girl-typing-on-phone.json" width="60%" >}}
 
 ## 郵送先住所
 
@@ -27,4 +28,4 @@ title: 'お問い合わせ'
 
 ソーシャルネットワークでフォローして、最新ニュース、アプリの更新情報、ヒント、お役立ち情報を入手してください：
 
-{{< social-cards >}}
+{{< ls-social-cards >}}

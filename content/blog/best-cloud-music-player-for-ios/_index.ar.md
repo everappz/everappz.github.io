@@ -12,7 +12,7 @@ authors:
     image: "/images/about/artem-meleshko-founder-everappz.webp"
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 **ملخص سريع:** Evermusic هو مشغل موسيقى سحابي لأجهزة iPhone وiPad يتصل بـ Dropbox وGoogle Drive وOneDrive وأكثر من 9 خدمات سحابية أخرى. يشغل ملفات FLAC وMP3 وWAV وصيغ أخرى، ويدعم التنزيل للاستماع دون اتصال، ويتضمن معادلاً ومحرر وسوم ID3. التنزيل مجاني مع ترقية Premium لمرة واحدة. أكثر من 11 مليون تنزيل وتقييم 4.6 نجوم على App Store.
 
@@ -20,7 +20,7 @@ authors:
 
 شاهد المراجعة الكاملة بالفيديو من [@Massi_Media](https://www.youtube.com/@Massi_Media):
 
-{{< youtubecard id="pKUZmHy9dxc" >}}
+{{< ls-youtubecard id="pKUZmHy9dxc" >}}
 
 ## ما هو أفضل مشغل موسيقى سحابي لجهاز iPhone؟
 
@@ -67,18 +67,18 @@ authors:
 
 ## الأسئلة الشائعة
 
-{{% details title="هل Evermusic مجاني حقاً؟" closed="true" %}}
+{{% ls-details title="هل Evermusic مجاني حقاً؟" closed="true" %}}
 نعم، يقدم Evermusic نسخة مجانية تشمل الاتصال بالسحابة والبث والتنزيل دون اتصال. تدعم النسخة المجانية ميزات التشغيل الأساسية وعدداً محدوداً من اتصالات الحسابات السحابية. Evermusic Pro، المتاح كشراء لمرة واحدة أو اشتراك، يُطلق المعادل الكامل والتلاشي المتقاطع وحسابات سحابية إضافية وميزات متقدمة أخرى. لا يُشترط أي اشتراك للوصول إلى ملفاتك الموسيقية الخاصة.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="هل يمكنني استخدام Evermusic دون اتصال بالإنترنت؟" closed="true" %}}
+{{% ls-details title="هل يمكنني استخدام Evermusic دون اتصال بالإنترنت؟" closed="true" %}}
 بالتأكيد. يتيح لك Evermusic تنزيل المقطوعات من أي خدمة سحابية متصلة مباشرة إلى جهازك للتشغيل دون اتصال. بمجرد التنزيل، تُخزَّن الملفات محلياً وتبقى متاحة حتى بدون Wi-Fi أو بيانات خلوية. هذا يجعل Evermusic مثالياً للرحلات الجوية والتنقل عبر الأنفاق أو أي موقف يكون فيه الاتصال غير موثوق.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="هل يدعم Evermusic صيغ الصوت عديم الفقد مثل FLAC؟" closed="true" %}}
+{{% ls-details title="هل يدعم Evermusic صيغ الصوت عديم الفقد مثل FLAC؟" closed="true" %}}
 نعم. يدعم Evermusic مجموعة واسعة من صيغ الصوت بما فيها FLAC وALAC وWAV وAIFF وOGG وMP3 وAAC وM4A. يشغّل التطبيق الملفات عديمة الفقد بجودتها الأصلية دون إعادة ترميز، لذا يمكن لمحبي الصوت الاستمتاع بمجموعاتهم عالية الدقة تماماً كما أُريد لها.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="كيف أوصّل جهاز NAS أو الخادم المنزلي بـ Evermusic؟" closed="true" %}}
+{{% ls-details title="كيف أوصّل جهاز NAS أو الخادم المنزلي بـ Evermusic؟" closed="true" %}}
 إذا كان جهاز NAS أو خادمك المنزلي يدعم بروتوكولات WebDAV أو SMB، يمكنك توصيله بـ Evermusic عبر إدخال عنوان الخادم والمنفذ وبيانات الاعتماد في إعدادات اتصال السحابة بالتطبيق. تدعم معظم ماركات NAS الشائعة بما فيها Synology وQNAS وWestern Digital MyCloud هذه البروتوكولات افتراضياً. بمجرد الاتصال، سيمسح Evermusic ملفاتك الموسيقية ويفهرسها تماماً كأي مصدر سحابي آخر.
-{{% /details %}}
+{{% /ls-details %}}

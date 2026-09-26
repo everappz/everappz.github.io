@@ -12,7 +12,7 @@ authors:
     image: "/images/about/artem-meleshko-founder-everappz.webp"
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 **Ukratko:** Flacbox je premašio 1 milijun preuzimanja diljem svijeta. Podržava FLAC, ALAC, APE, DSD i druge lossless formate s 10-pojasnim ekvilajzerom, M3U/CUE listama za reprodukciju, offline reprodukcijom i sinkronizacijom između uređaja na iPhoneu, iPadu i Macu.
 
@@ -78,26 +78,26 @@ Nadolazeći razvoj fokusira se na:
 
 ## Često postavljana pitanja
 
-{{% details title="Koje audio formate Flacbox podržava?" closed="true" %}}
+{{% ls-details title="Koje audio formate Flacbox podržava?" closed="true" %}}
 Flacbox reproducira FLAC, ALAC, APE, DSD, WavPack, TTA, RealAudio, MP3, AAC, OGG i mnoge druge formate. Dizajniran je primarno za lossless i hi-res audio.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Ima li Flacbox ekvilajzer?" closed="true" %}}
+{{% ls-details title="Ima li Flacbox ekvilajzer?" closed="true" %}}
 Da. Flacbox uključuje 10-pojasni ekvilajzer s predefiniranim postavkama za žanrove i ručnim podešavanjem frekvencija.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Mogu li slušati glazbu offline s Flacboxom?" closed="true" %}}
+{{% ls-details title="Mogu li slušati glazbu offline s Flacboxom?" closed="true" %}}
 Da. Preuzmite datoteke s pohrane u oblaku ili ih prenesite izravno u aplikaciju za offline reprodukciju bez internetske veze.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Radi li Flacbox na Macu?" closed="true" %}}
+{{% ls-details title="Radi li Flacbox na Macu?" closed="true" %}}
 Da. Flacbox radi na iPhoneu, iPadu i Macu sa sinkroniziranim knjižnicama i poviješću reprodukcije na svim uređajima.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Što je podrška za CUE datoteke?" closed="true" %}}
+{{% ls-details title="Što je podrška za CUE datoteke?" closed="true" %}}
 CUE datoteke definiraju granice pjesama unutar jedne audio datoteke. Flacbox čita CUE datoteke kako bi podijelio album ripove u pojedinačne pjesme s ispravnim metapodacima.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Je li Flacbox besplatan?" closed="true" %}}
+{{% ls-details title="Je li Flacbox besplatan?" closed="true" %}}
 Flacbox je besplatan za preuzimanje s opcionalno dostupnim premium značajkama putem kupnje unutar aplikacije.
-{{% /details %}}
+{{% /ls-details %}}

@@ -12,7 +12,7 @@ authors:
     image: "/images/about/artem-meleshko-founder-everappz.webp"
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 **Rezumat:** Evermusic a depășit 11 milioane de descărcări la nivel mondial. Funcțiile cheie includ un egalizator cu 10 benzi, redare offline, streaming iCloud Drive, suport pentru peste 10 servicii cloud, sincronizare între dispozitive și un editor de taguri ID3 integrat.
 
@@ -70,22 +70,22 @@ Evermusic este construit pentru oricine stochează muzică în cloud sau pe stoc
 
 ## FAQ
 
-{{% details title="Ce formate audio suportă Evermusic?" closed="true" %}}
+{{% ls-details title="Ce formate audio suportă Evermusic?" closed="true" %}}
 Evermusic redă MP3, FLAC, WAV, AAC, M4A, AIFF, OGG, WMA și alte formate audio populare.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Pot folosi Evermusic fără conexiune la internet?" closed="true" %}}
+{{% ls-details title="Pot folosi Evermusic fără conexiune la internet?" closed="true" %}}
 Da. Descărcați piese din stocarea cloud pentru redare offline. Odată descărcate, nu este necesar internetul.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Funcționează Evermusic pe Mac?" closed="true" %}}
+{{% ls-details title="Funcționează Evermusic pe Mac?" closed="true" %}}
 Da. Evermusic este disponibil atât pe iOS (iPhone/iPad), cât și pe macOS, cu sincronizarea bibliotecii pe toate dispozitivele.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Este Evermusic gratuit de descărcat?" closed="true" %}}
+{{% ls-details title="Este Evermusic gratuit de descărcat?" closed="true" %}}
 Da. Evermusic este gratuit de descărcat cu funcții premium opționale disponibile prin achiziție din aplicație.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Cum funcționează streamingul iCloud Drive în Evermusic?" closed="true" %}}
+{{% ls-details title="Cum funcționează streamingul iCloud Drive în Evermusic?" closed="true" %}}
 Conectați contul iCloud Drive în aplicație, răsfoiți fișierele muzicale și atingeți pentru a reda. Piesele sunt redate direct fără a fi necesară descărcarea prealabilă.
-{{% /details %}}
+{{% /ls-details %}}

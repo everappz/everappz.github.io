@@ -12,7 +12,7 @@ authors:
     image: "/images/about/artem-meleshko-founder-everappz.webp"
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 **Tóm tắt:** [Flacbox 7.6](/products/flacbox) là bản cập nhật lớn nhất từ trước đến nay cho trình phát âm thanh hi-res trên iPhone, iPad và Mac, và nó được xây dựng xoay quanh một **bộ máy âm thanh BASS™** hoàn toàn mới dành cho việc nghe nhạc lossless và độ phân giải cao. Bạn có thể chọn bộ máy BASS™ làm lõi phát nhạc thay thế để mở khóa toàn bộ chuỗi **hiệu ứng âm thanh thời gian thực**, một **bộ xử lý DSP 14 bộ lọc**, một **trình trực quan hóa nhạc toàn màn hình trực tiếp**, và khả năng phát các bản **nhạc tracker và MOD** cổ điển (MOD, XM, IT, S3M, MTM, UMX, MO3). Bản cập nhật cũng bổ sung khả năng **tự động cân bằng âm lượng dựa trên độ vang**, một **bộ hiệu ứng studio mười một hiệu ứng** (reverb, delay, multi-tap echo, chorus, flanger, phaser, auto-wah, distortion, compressor, xoay stereo và crossfeed), một **thiết kế hiệu ứng và bộ chỉnh âm được làm mới** với các thanh trượt kiểu kính hiện đại, và các **cải tiến CarPlay** bao gồm cài đặt DSP ngay trên xe cùng các điều khiển màn hình khóa, đồng hồ và trên xe chính xác hơn. Bên trong: nền tảng phát trực tuyến đáng tin cậy hơn, xử lý loại tệp tốt hơn, bản địa hóa rộng hơn, và nhiều bản sửa lỗi về độ ổn định và hiệu năng.
 
@@ -139,50 +139,50 @@ Cảm ơn bạn đã sử dụng Flacbox. Giờ đây âm nhạc của bạn ngh
 
 ## Câu hỏi thường gặp
 
-{{% details title="Có gì mới trong Flacbox 7.6?" closed="true" %}}
+{{% ls-details title="Có gì mới trong Flacbox 7.6?" closed="true" %}}
 Flacbox 7.6 bổ sung một **bộ máy âm thanh BASS™** chuyên nghiệp mới mà bạn có thể chọn làm lõi phát nhạc thay thế, **tự động cân bằng âm lượng dựa trên độ vang**, một **bộ hiệu ứng studio mười một hiệu ứng** (reverb, delay, multi-tap echo, chorus, flanger, phaser, auto-wah, distortion, compressor, xoay stereo và crossfeed), một **bộ xử lý DSP thời gian thực 14 bộ lọc**, một **trình trực quan hóa nhạc thời gian thực toàn màn hình**, khả năng phát **tracker và MOD** nguyên bản (MOD, XM, IT, S3M, MTM, UMX, MO3), một **thiết kế hiệu ứng và bộ chỉnh âm được làm mới**, và các **cải tiến CarPlay**. Nó cũng bao gồm một nền tảng phát trực tuyến đáng tin cậy hơn, xử lý loại tệp tốt hơn, bản địa hóa rộng hơn, và nhiều bản sửa lỗi về độ ổn định và hiệu năng.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Bộ máy âm thanh BASS™ mới trong Flacbox là gì?" closed="true" %}}
+{{% ls-details title="Bộ máy âm thanh BASS™ mới trong Flacbox là gì?" closed="true" %}}
 Bộ máy âm thanh [BASS™](https://www.un4seen.com), được xây dựng dựa trên thư viện âm thanh BASS™ từ un4seen Developments, là một lõi phát nhạc chuyên nghiệp mà bạn có thể chọn làm **giải pháp thay thế cho bộ máy hiện có của Flacbox**. Chọn nó sẽ mở khóa toàn bộ chuỗi hiệu ứng âm thanh thời gian thực, một bộ xử lý DSP, và trực quan hóa trực tiếp, đồng thời bổ sung khả năng phát các bản nhạc tracker và MOD cổ điển. Nó phát thư viện lossless và hi-res hiện có của bạn (FLAC, DSD, ALAC, APE và nhiều hơn nữa) với **lấy mẫu lại chất lượng cao** và **điều khiển cao độ và nhịp độ chính xác**. Bạn có thể chuyển về bộ máy cổ điển bất cứ lúc nào.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Flacbox 7.6 phát những định dạng âm thanh và loại tracker/MOD nào?" closed="true" %}}
+{{% ls-details title="Flacbox 7.6 phát những định dạng âm thanh và loại tracker/MOD nào?" closed="true" %}}
 Flacbox vẫn là một trình phát hi-res và lossless, xử lý **FLAC, DSD, APE, ALAC, WAV, AIFF, MP3, AAC, Opus** và nhiều hơn nữa. Mới trong 7.6, bộ máy BASS™ còn phát nhạc **tracker và module** cổ điển: **MOD, XM, IT, S3M, MTM, UMX và MO3** — các định dạng mẫu-và-sample được dùng trong nhạc chiptune và demoscene mà hầu hết các trình phát iPhone không thể mở.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Tự động cân bằng âm lượng trong Flacbox hoạt động như thế nào?" closed="true" %}}
+{{% ls-details title="Tự động cân bằng âm lượng trong Flacbox hoạt động như thế nào?" closed="true" %}}
 Flacbox 7.6 sử dụng **phép đo độ vang EBU R128** (chuẩn ITU-R BS.1770) để giữ các bản nhạc từ các album khác nhau ở một mức âm lượng cảm nhận nhất quán, nên bạn không phải điều chỉnh âm lượng giữa các bài hát. Đối với các **tệp cục bộ, thư viện của bạn được quét trước** để việc phát nhạc mở ra đã được cân bằng sẵn — không có độ trễ trong khi ứng dụng đo độ vang sau khi một bản nhạc bắt đầu. Có bốn cài đặt sẵn — **Nhẹ** (−20 LUFS), **Tiêu chuẩn** (−16 LUFS), **Mạnh** (−14 LUFS) và **Ban đêm** (−23 LUFS) — và nó hoạt động trên các thư viện hỗn hợp, các bản tổng hợp và các phiên phát ngẫu nhiên.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Flacbox 7.6 có những hiệu ứng âm thanh nào?" closed="true" %}}
+{{% ls-details title="Flacbox 7.6 có những hiệu ứng âm thanh nào?" closed="true" %}}
 Mười một hiệu ứng thời gian thực mà bạn có thể xếp chồng và tinh chỉnh trong khi nhạc đang phát: **reverb, delay, multi-tap echo, chorus, flanger, phaser, auto-wah, distortion, compressor, xoay stereo và crossfeed**. Mỗi hiệu ứng có **màn hình riêng, một thư viện cài đặt sẵn, và một nút bật/tắt tức thì**, và Flacbox ghi nhớ cài đặt của bạn giữa các phiên. Đặc biệt, crossfeed làm cho các bản thu phối lệch mạnh nghe tự nhiên hơn trên tai nghe.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Bộ xử lý DSP là gì và nó bao gồm những bộ lọc nào?" closed="true" %}}
+{{% ls-details title="Bộ xử lý DSP là gì và nó bao gồm những bộ lọc nào?" closed="true" %}}
 Bộ xử lý DSP cho phép bạn **tự xây dựng chuỗi tín hiệu thời gian thực của riêng mình từ 14 bộ lọc**: gain, bộ lọc thông thấp, thông cao, thông dải và notch, peaking EQ, low-shelf và high-shelf EQ, bão hòa soft-clip, bit crusher, tremolo, delay, ring modulator, và độ rộng stereo. Mỗi bộ lọc có **cài đặt sẵn và một nút bật/tắt tức thì**, nên bạn có thể sửa âm phòng, làm dịu các bản thu chói tai, hoặc thiết kế một chất âm hoàn toàn tùy chỉnh.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Crossfeed là gì và tại sao tôi nên dùng nó trên tai nghe?" closed="true" %}}
+{{% ls-details title="Crossfeed là gì và tại sao tôi nên dùng nó trên tai nghe?" closed="true" %}}
 Crossfeed trộn một lượng nhỏ, đã lọc của mỗi kênh stereo vào kênh còn lại, giống như cách đôi tai bạn nghe loa thật trong phòng một cách tự nhiên. Trên tai nghe, điều này giảm sự tách biệt phóng đại, kiểu «trong đầu» của các bản thu phối lệch mạnh và khiến việc nghe lâu thoải mái hơn. Nó đặc biệt hiệu quả trên các bản phối stereo cũ thập niên 1960 và 1970.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Trình trực quan hóa nhạc của Flacbox có hoạt động trên mọi thiết bị không?" closed="true" %}}
+{{% ls-details title="Trình trực quan hóa nhạc của Flacbox có hoạt động trên mọi thiết bị không?" closed="true" %}}
 Có. **Trình trực quan hóa nhạc thời gian thực** hiển thị hình ảnh động toàn màn hình phản ứng trực tiếp với âm nhạc của bạn, với một thư viện cài đặt sẵn lớn mà bạn có thể chọn hoặc để luân chuyển tự động. Nó **khả dụng trên các bộ máy phát nhạc, trên tất cả thiết bị của bạn**, và một **bộ ngăn ngủ màn hình** tích hợp giữ cho màn hình luôn sáng để hình ảnh không bị ngắt trong một bài hát.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Tôi có thể thay đổi cao độ và nhịp độ mà không ảnh hưởng đến yếu tố còn lại không?" closed="true" %}}
+{{% ls-details title="Tôi có thể thay đổi cao độ và nhịp độ mà không ảnh hưởng đến yếu tố còn lại không?" closed="true" %}}
 Có. Khi bạn sử dụng bộ máy BASS™ mới, Flacbox 7.6 cung cấp **điều khiển cao độ và nhịp độ chính xác, độc lập** — thay đổi tốc độ của một bản nhạc mà không thay đổi tông của nó, hoặc dịch chuyển tông mà không thay đổi tốc độ. Nó hữu ích cho việc luyện tập, ký âm và nghe kiểu DJ.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="CarPlay đã cải tiến gì trong Flacbox 7.6?" closed="true" %}}
+{{% ls-details title="CarPlay đã cải tiến gì trong Flacbox 7.6?" closed="true" %}}
 CarPlay giờ đây bao gồm **cài đặt DSP** để bạn có thể truy cập cấu hình của mình từ trên xe, **sửa hiển thị ảnh bìa album và Now Playing**, và các **điều khiển màn hình khóa, Apple Watch và trên xe chính xác hơn** luôn đồng bộ với việc phát nhạc. Kết hợp với nền tảng phát trực tuyến đáng tin cậy hơn, việc nghe thư viện lossless của bạn khi di chuyển trở nên mượt mà hơn.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Các hiệu ứng, DSP và bộ chỉnh âm có hoạt động với phát trực tuyến đám mây không?" closed="true" %}}
+{{% ls-details title="Các hiệu ứng, DSP và bộ chỉnh âm có hoạt động với phát trực tuyến đám mây không?" closed="true" %}}
 Có. Các hiệu ứng, bộ lọc DSP, bộ chỉnh âm và cân bằng âm lượng chạy theo thời gian thực bên trong bộ máy phát nhạc BASS™, nên chúng áp dụng cho mọi thứ Flacbox phát — **tệp cục bộ, ổ đĩa đám mây (iCloud Drive, Google Drive, Dropbox, OneDrive và nhiều hơn nữa), máy chủ media, và ổ chia sẻ mạng** — mà không mã hóa lại các tệp của bạn.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Flacbox 7.6 có phải là bản cập nhật miễn phí không, và nó hỗ trợ những thiết bị nào?" closed="true" %}}
+{{% ls-details title="Flacbox 7.6 có phải là bản cập nhật miễn phí không, và nó hỗ trợ những thiết bị nào?" closed="true" %}}
 Có. Flacbox là một **bản tải xuống miễn phí** từ App Store, và 7.6 là một **bản cập nhật miễn phí** cho người dùng hiện có, với các bản nâng cấp tùy chọn ngay trong ứng dụng cho các tính năng nâng cao. Nó chạy trên **iPhone, iPad và Mac**. CarPlay yêu cầu một chiếc xe hoặc đầu máy tương thích CarPlay.
-{{% /details %}}
+{{% /ls-details %}}

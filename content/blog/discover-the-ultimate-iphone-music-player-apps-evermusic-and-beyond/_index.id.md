@@ -12,7 +12,7 @@ authors:
     image: "/images/about/artem-meleshko-founder-everappz.webp"
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 **TL;DR:** Pemutar musik iPhone terbaik tergantung pada kebutuhan Anda. **Evermusic** ideal untuk pemutaran dari penyimpanan cloud dan fleksibilitas format. **Apple Music** cocok untuk mereka yang berada dalam ekosistem Apple. **Spotify** unggul dalam penemuan musik. **VLC** menangani setiap format file secara gratis. **Amazon Music** cocok dipadukan dengan Alexa dan Prime.
 
@@ -128,22 +128,22 @@ Amazon Music terintegrasi dengan ekosistem Amazon, menawarkan kontrol suara mela
 
 ## FAQ
 
-{{% details title="Apa pemutar musik gratis terbaik untuk iPhone?" closed="true" %}}
+{{% ls-details title="Apa pemutar musik gratis terbaik untuk iPhone?" closed="true" %}}
 Untuk memutar file Anda sendiri, Evermusic dan VLC keduanya merupakan pilihan gratis. Evermusic menambahkan integrasi penyimpanan cloud, sementara VLC mendukung rentang format file terluas.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Bisakah saya memutar file FLAC di iPhone?" closed="true" %}}
+{{% ls-details title="Bisakah saya memutar file FLAC di iPhone?" closed="true" %}}
 Ya. Evermusic dan VLC keduanya mendukung pemutaran FLAC di iPhone. Apple Music dan Spotify tidak memutar file FLAC secara langsung.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Aplikasi pemutar musik mana yang bekerja dengan penyimpanan cloud?" closed="true" %}}
+{{% ls-details title="Aplikasi pemutar musik mana yang bekerja dengan penyimpanan cloud?" closed="true" %}}
 Evermusic adalah pemutar musik iPhone terkemuka dengan dukungan penyimpanan cloud bawaan. Terhubung ke iCloud Drive, Dropbox, Google Drive, OneDrive, pCloud, dan layanan lainnya.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Apakah Evermusic lebih baik dari Apple Music?" closed="true" %}}
+{{% ls-details title="Apakah Evermusic lebih baik dari Apple Music?" closed="true" %}}
 Keduanya melayani tujuan yang berbeda. Evermusic memutar file musik Anda sendiri dari penyimpanan cloud dan penyimpanan lokal. Apple Music adalah layanan streaming berlangganan dengan katalog 100M+ lagu. Jika Anda memiliki file musik sendiri, Evermusic adalah pilihan yang lebih baik.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Bisakah saya menggunakan Spotify offline di iPhone?" closed="true" %}}
+{{% ls-details title="Bisakah saya menggunakan Spotify offline di iPhone?" closed="true" %}}
 Ya, tetapi hanya dengan langganan Spotify Premium. Pengguna Spotify gratis tidak dapat mengunduh lagu untuk pemutaran offline.
-{{% /details %}}
+{{% /ls-details %}}

@@ -7,7 +7,7 @@ tags: ["google", "sigurnost", "privatnost", "aplikacije", "račun", "pristup"]
 readingTime: 2
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **Ukratko:** Idite na [myaccount.google.com](https://myaccount.google.com/) > Sigurnost > Aplikacije i usluge trećih strana. Kliknite na aplikaciju koju želite ukloniti, zatim odaberite "Ukloni pristup" ili "Izbriši sve veze." Ponovite za svaku aplikaciju.
@@ -75,18 +75,18 @@ Zapamtite da, iako aplikacije trećih strana mogu poboljšati vaše digitalno is
 
 ## Česta pitanja
 
-{{% details title="Hoće li odspajanje aplikacije izbrisati moje podatke iz te aplikacije?" closed="true" %}}
+{{% ls-details title="Hoće li odspajanje aplikacije izbrisati moje podatke iz te aplikacije?" closed="true" %}}
 Ne. Uklanjanje pristupa samo sprječava aplikaciju da ubuduće pristupa vašem Google računu. Podaci koji su već podijeljeni s aplikacijom možda još uvijek postoje na njihovim poslužiteljima. Provjerite vlastite postavke privatnosti aplikacije za brisanje tih podataka.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Mogu li ponovno povezati aplikaciju nakon odspajanja?" closed="true" %}}
+{{% ls-details title="Mogu li ponovno povezati aplikaciju nakon odspajanja?" closed="true" %}}
 Da. Ako vam aplikacija ponovno zatreba, jednostavno se prijavite s Googleom kada se to zatraži. Aplikacija će ponovno zatražiti dozvole, a vi ih možete pregledati prije odobrenja pristupa.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Koliko često trebam pregledavati pristup aplikacija trećih strana?" closed="true" %}}
+{{% ls-details title="Koliko često trebam pregledavati pristup aplikacija trećih strana?" closed="true" %}}
 Pregledajte svoje povezane aplikacije svaka 3-6 mjeseci ili odmah nakon što prestanete koristiti uslugu. Redovite provjere pomažu u održavanju sigurnosti vašeg računa.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Utječe li to na aplikacije poput Evermusic koje se povezuju s Google Driveom?" closed="true" %}}
+{{% ls-details title="Utječe li to na aplikacije poput Evermusic koje se povezuju s Google Driveom?" closed="true" %}}
 Da. Ako odspojite aplikaciju poput Evermusic ili Flacbox s vašeg Google računa, izgubit će pristup vašim Google Drive datotekama. Možete se ponovno povezati u bilo kojem trenutku iz same aplikacije.
-{{% /details %}}
+{{% /ls-details %}}

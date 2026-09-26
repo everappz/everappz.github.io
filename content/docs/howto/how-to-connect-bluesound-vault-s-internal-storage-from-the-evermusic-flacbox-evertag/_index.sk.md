@@ -7,7 +7,7 @@ tags: ["evermusic", "pripojenie", "bluesound vault"]
 readingTime: 1
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **Zhrnutie:** Pripojte sa k internému úložisku Bluesound VAULT cez SMB pomocou Evermusic, Flacbox alebo Evertag. Nájdite IP adresu VAULT v aplikácii BluOS, zadajte ju ako SMB pripojenie s hosťovským prístupom a začnite prehrávať alebo spravovať svoje hudobné súbory.
@@ -58,18 +58,18 @@ Pomocou týchto jednoduchých krokov môžete ľahko pristupovať k internému p
 
 ## Často kladené otázky
 
-{{% details title="Potrebujem používateľské meno a heslo na pripojenie k Bluesound VAULT?" closed="true" %}}
+{{% ls-details title="Potrebujem používateľské meno a heslo na pripojenie k Bluesound VAULT?" closed="true" %}}
 Nie. Bluesound VAULT podporuje hosťovský (anonymný) prístup cez SMB. Pri konfigurácii pripojenia ponechajte polia Prihlásenie a Heslo prázdne.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Môžem upravovať hudobné tagy na Bluesound VAULT?" closed="true" %}}
+{{% ls-details title="Môžem upravovať hudobné tagy na Bluesound VAULT?" closed="true" %}}
 Áno. Pomocou Evertag môžete upravovať tagy metadát (názov, interpret, album atď.) zvukových súborov uložených priamo na internom pevnom disku VAULT.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Aké protokoly Bluesound VAULT podporuje?" closed="true" %}}
+{{% ls-details title="Aké protokoly Bluesound VAULT podporuje?" closed="true" %}}
 Bluesound VAULT sprístupňuje svoje interné úložisko cez SMB (Server Message Block). Evermusic, Flacbox a Evertag všetky podporujú SMB pripojenia, čo uľahčuje pripojenie.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Môžem streamovať hudbu z VAULT bez kopírovania súborov do iPhonu?" closed="true" %}}
+{{% ls-details title="Môžem streamovať hudbu z VAULT bez kopírovania súborov do iPhonu?" closed="true" %}}
 Áno. Po pripojení cez SMB môžete streamovať zvukové súbory priamo z interného disku VAULT bez ich kopírovania do vášho zariadenia.
-{{% /details %}}
+{{% /ls-details %}}

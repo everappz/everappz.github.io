@@ -20,7 +20,7 @@ Local Files section application की "Documents" folder में located file
 यह built-in file manager files edit करने देता है और audio files को app में import करने के विभिन्न तरीके प्रदान करता है।
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evermusic Local Files स्क्रीन" image="/docs/guide/evermusic/evermusic-guide-local-files/img/local-files-main.webp" >}}
+  {{< ls-card title="" subtitle="Evermusic Local Files स्क्रीन" image="/docs/guide/evermusic/evermusic-guide-local-files/img/local-files-main.webp" >}}
 {{< /cards >}}
 
 ## क्लाउड स्टोरेज से files download करें
@@ -40,7 +40,7 @@ Local Files section application की "Documents" folder में located file
 [यहां](/docs/howto/how-to-transfer-files-from-my-mac-to-iphone-or-ipad-using-finder) वर्णित अनुसार cable connection का उपयोग करके files transfer करें।
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="iTunes / Finder File Sharing" image="/docs/guide/evermusic/evermusic-guide-local-files/img/local-files-itunes-file-sharing.webp" >}}
+  {{< ls-card title="" subtitle="iTunes / Finder File Sharing" image="/docs/guide/evermusic/evermusic-guide-local-files/img/local-files-itunes-file-sharing.webp" >}}
 {{< /cards >}}
 
 ## Wi-Fi Drive
@@ -48,7 +48,7 @@ Local Files section application की "Documents" folder में located file
 [यहां](/docs/howto/how-to-transfer-files-wirelessly-from-a-computer-to-an-iphone-using-wifi-drive) वर्णित अनुसार files wirelessly transfer करें।
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Wi-Fi Drive Server सेटिंग्स" image="/docs/guide/evermusic/evermusic-guide-local-files/img/local-files-wifidrive-settings.webp" >}}
+  {{< ls-card title="" subtitle="Wi-Fi Drive Server सेटिंग्स" image="/docs/guide/evermusic/evermusic-guide-local-files/img/local-files-wifidrive-settings.webp" >}}
 {{< /cards >}}
 
 ## Transfers Queue
@@ -56,7 +56,7 @@ Local Files section application की "Documents" folder में located file
 Navigation bar के top left corner में, आपको एक 'Transfers' button मिलेगा। Transfers queue access करने के लिए उस पर टैप करें, जहां आप अपने सभी downloads और uploads monitor और manage कर सकते हैं। इसके अलावा, आपके पास app settings में transfer queue speed और network type adjust करने का flexibility है।
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="File Transfers Queue" image="/docs/guide/evermusic/evermusic-guide-local-files/img/local-files-file-transfers.webp" >}}
+  {{< ls-card title="" subtitle="File Transfers Queue" image="/docs/guide/evermusic/evermusic-guide-local-files/img/local-files-file-transfers.webp" >}}
 {{< /cards >}}
 
 ## Quick Access Section
@@ -68,7 +68,7 @@ Screen के top पर, एक quick access section आपकी recent और
 यह section सभी recently opened files या folders display करता है।
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Recently Opened Files और Folders" image="/docs/guide/evermusic/evermusic-guide-local-files/img/local-files-recents.webp" >}}
+  {{< ls-card title="" subtitle="Recently Opened Files और Folders" image="/docs/guide/evermusic/evermusic-guide-local-files/img/local-files-recents.webp" >}}
 {{< /cards >}}
 
 ## पसंदीदा
@@ -76,7 +76,7 @@ Screen के top पर, एक quick access section आपकी recent और
 आप files या folders को favorites के रूप में mark कर सकते हैं और उन्हें इस section में access कर सकते हैं। इसके अलावा, आप अपने device पर located एक folder को अपने favorites में add कर सकते हैं। ऐसा करने के लिए, favorites section खोलें, top right corner में three dots टैप करें, और "Add folder" menu item choose करें। Quick access के लिए अपने device से favorites में folder add करने के prompts का पालन करें।
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="पसंदीदा — अपने Device से Folder जोड़ें" image="/docs/guide/evermusic/evermusic-guide-local-files/img/local-files-favorites.webp" >}}
+  {{< ls-card title="" subtitle="पसंदीदा — अपने Device से Folder जोड़ें" image="/docs/guide/evermusic/evermusic-guide-local-files/img/local-files-favorites.webp" >}}
 {{< /cards >}}
 
 ## Top Toolbar
@@ -91,7 +91,7 @@ Top toolbar, navigation bar के नीचे located, कई actions प्�
 आप top toolbar को swipe-to-bottom gesture का उपयोग करके दिखा या छिपा सकते हैं।
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Current Folder के लिए Top Toolbar" image="/docs/guide/evermusic/evermusic-guide-local-files/img/local-files-top-toolbar.webp" >}}
+  {{< ls-card title="" subtitle="Current Folder के लिए Top Toolbar" image="/docs/guide/evermusic/evermusic-guide-local-files/img/local-files-top-toolbar.webp" >}}
 {{< /cards >}}
 
 ## Special Folders
@@ -128,7 +128,7 @@ App की Documents directory और iCloud Drive में stored files और
 आपके device पर लेकिन अलग applications में located files show करता है। आप system file picker का उपयोग करके उन्हें इस application में import कर सकते हैं। Picker activate करने के लिए, files select करने के लिए "Open files..." या folders select करने के लिए "Open folders..." choose करें। iPhone या Mac पर stored local music import करने के बारे में विस्तृत निर्देश [यहां](/docs/howto/how-to-play-local-music-stored-on-your-iphone-or-mac) उपलब्ध हैं। आप अपने device पर located एक folder भी connect कर सकते हैं और folder के content तक quick access पा सकते हैं। "Connect a folder" menu item का उपयोग करें और अपने device पर located एक folder choose करें। "Done" टैप करें और app read/write access के साथ उस folder का link create करेगा और आप directly इस app से files manage कर सकते हैं। अपने device पर located folder disconnect करने के लिए "अधिक क्रियाएँ" button टैप करें और "Disconnect" choose करें।
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="इस iPhone / iPad / Mac पर Files" image="/docs/guide/evermusic/evermusic-guide-local-files/img/local-files-on-this-device.webp" >}}
+  {{< ls-card title="" subtitle="इस iPhone / iPad / Mac पर Files" image="/docs/guide/evermusic/evermusic-guide-local-files/img/local-files-on-this-device.webp" >}}
 {{< /cards >}}
 
 ## Connected USB Flashcards पर Located Files Import करें
@@ -151,7 +151,7 @@ Currently opened folder के लिए More actions menu top right corner म�
 अगर कई files edit करने की आवश्यकता है, तो top right corner में navigation bar पर more actions button "..." टैप करके selection mode activate करें और फिर "चुनें" menu item choose करें। इससे हर file के पास checkboxes display होंगे। उनके checkboxes टैप करके desired files select करें। आप selected files पर निम्नलिखित actions perform कर सकते हैं।
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Local Files के लिए Selection Mode Actions" image="/docs/guide/evermusic/evermusic-guide-local-files/img/local-files-selection-mode.webp" >}}
+  {{< ls-card title="" subtitle="Local Files के लिए Selection Mode Actions" image="/docs/guide/evermusic/evermusic-guide-local-files/img/local-files-selection-mode.webp" >}}
 {{< /cards >}}
 
 - **Play next:** Current sort order के साथ selected files या folders को player queue के top पर add करें।
@@ -186,7 +186,7 @@ App में हर file या folder के लिए, "..." more button ट�
 ## Offline Folders
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Offline Folder अधिक क्रियाएँ मेनू" image="/docs/guide/evermusic/evermusic-guide-local-files/img/local-files-offline-folders.webp" >}}
+  {{< ls-card title="" subtitle="Offline Folder अधिक क्रियाएँ मेनू" image="/docs/guide/evermusic/evermusic-guide-local-files/img/local-files-offline-folders.webp" >}}
 {{< /cards >}}
 
 Offline mode एक handy feature है जो आपको internet से connected न होने पर भी अपना favorite music access करने देता है। जब आप किसी album, artist, playlist, genre, या remote folder के लिए offline mode enable करते हैं, तो उस collection के भीतर सभी files automatically offline playback के लिए आपके device पर download हो जाती हैं। आप app के "Offline Folders" section में इन files को conveniently access कर सकते हैं।
@@ -204,7 +204,7 @@ Evermusic और Flacbox में Offline Music कैसे Play करें:
 Local Files screen का लगभग हर behavior — network bandwidth से लेकर downloads कहां land करते हैं से thumbnail caching तक — **सेटिंग्स → File manager** के अंतर्गत configurable है। जब भी आप transfer speed fine-tune करना चाहें, storage space save करना चाहें, या app को Wi-Fi only तक restrict करना चाहें तो इसे खोलें।
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="File Manager सेटिंग्स स्क्रीन" image="/docs/guide/evermusic/evermusic-guide-local-files/img/local-files-file-manager-settings.webp" >}}
+  {{< ls-card title="" subtitle="File Manager सेटिंग्स स्क्रीन" image="/docs/guide/evermusic/evermusic-guide-local-files/img/local-files-file-manager-settings.webp" >}}
 {{< /cards >}}
 
 Screen clearly-labeled sections में grouped हर option expose करती है:

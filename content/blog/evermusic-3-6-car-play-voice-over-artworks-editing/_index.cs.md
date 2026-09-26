@@ -12,7 +12,7 @@ authors:
     image: "/images/about/artem-meleshko-founder-everappz.webp"
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 **Shrnutí:** Evermusic 3.6 přidává integraci s Apple CarPlay, plnou přístupnost VoiceOver, smíšený zvukový výstup, automatické obnovení přehrávání, úpravu obalů a tagů pro FLAC/MP3/AIFF a import souborů z iCloud Drive.
 
@@ -78,18 +78,18 @@ Importujte hudební soubory přímo z iCloud Drive a dalších aplikací:
 
 ## Často kladené dotazy
 
-{{% details title="Funguje Evermusic s CarPlay?" closed="true" %}}
+{{% ls-details title="Funguje Evermusic s CarPlay?" closed="true" %}}
 Ano. Od verze 3.6 Evermusic plně podporuje Apple CarPlay. Můžete procházet a přehrávat svou hudební knihovnu z vestavěného displeje vašeho auta.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Je Evermusic přístupný pro nevidomé nebo slabozraké uživatele?" closed="true" %}}
+{{% ls-details title="Je Evermusic přístupný pro nevidomé nebo slabozraké uživatele?" closed="true" %}}
 Ano. Evermusic 3.6 zahrnuje plnou podporu VoiceOver s popisnými štítky, nápovědami a režimem zjednodušeného rozhraní.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Mohu na iPhonu upravovat tagy FLAC pomocí Evermusic?" closed="true" %}}
+{{% ls-details title="Mohu na iPhonu upravovat tagy FLAC pomocí Evermusic?" closed="true" %}}
 Ano. Evermusic zahrnuje vestavěný editor tagů, který funguje se soubory FLAC, MP3 a AIFF. Můžete upravovat názvy, interprety, alba a obaly.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Pamatuje si Evermusic, kde jsem přestal poslouchat?" closed="true" %}}
+{{% ls-details title="Pamatuje si Evermusic, kde jsem přestal poslouchat?" closed="true" %}}
 Ano. Když je zapnuto „Uložit stav zvukového přehrávače", Evermusic obnoví vaši frontu, aktuální skladbu a přesnou pozici přehrávání, když znovu otevřete aplikaci.
-{{% /details %}}
+{{% /ls-details %}}

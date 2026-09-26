@@ -4,7 +4,9 @@ title: 'Belgeler'
 ---
 
 
-{{< lottie src="/images/juicy-json/juicy-girl-and-boy-searching-for-the-right-files.json" width="90%" >}}
+{{< ls-lottie src="/images/juicy-json/juicy-girl-and-boy-searching-for-the-right-files.json" width="90%" >}}
+
+{{< ls-docs-search >}}
 
 Bu bölüm, tüm Everappz uygulamaları için kurulum talimatları, özellik açıklamaları ve gelişmiş ipuçları dahil yararlı belgeler içerir.
 
@@ -13,9 +15,9 @@ Yeni kullanıcıysanız veya daha fazla öğrenmek istiyorsanız, kılavuzlarım
 ## Başlayın
 
 {{< cards >}}
-  {{< card icon="book-open" link="/docs/guide" title="Kullanım Kılavuzu" >}}
-  {{< card icon="question-mark-circle" link="/docs/faq" title="Sıkça Sorulan Sorular" >}}
-  {{< card icon="light-bulb" link="/docs/howto" title="Nasıl Yapılır" >}}
+  {{< ls-card icon="book-open" link="/docs/guide" title="Kullanım Kılavuzu" >}}
+  {{< ls-card icon="question-mark-circle" link="/docs/faq" title="Sıkça Sorulan Sorular" >}}
+  {{< ls-card icon="light-bulb" link="/docs/howto" title="Nasıl Yapılır" >}}
 {{< /cards >}}
 
 - **Kullanım Kılavuzu**, uygulamalarımızı yüklemenize, yapılandırmanıza ve en iyi şekilde kullanmanıza yardımcı olur.
@@ -31,5 +33,5 @@ Sorunuz belgede yanıt bulamadıysa, doğrudan bizimle iletişime geçmek için 
 Hizmetlerimizle ilgili yasal politikalar, veri işleme uygulamaları ve kullanıcı sözleşmeleri için aşağıdaki yasal belgelere bakın:
 
 {{< cards >}}
-  {{< card icon="document-text" link="/legal" title="Hukuk Merkezi" >}}
+  {{< ls-card icon="document-text" link="/legal" title="Hukuk Merkezi" >}}
 {{< /cards >}}

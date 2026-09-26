@@ -14,7 +14,7 @@ authors:
     image: "/images/about/artem-meleshko-founder-everappz.webp"
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 **Ringkasan:** Tonton video promosi rasmi Evermusic untuk melihat penstriman muzik awan, main balik luar talian dan penyesuaian audio dalam tindakan di iPhone dan Mac.
 
@@ -24,7 +24,7 @@ Kami teruja untuk berkongsi video promosi rasmi Evermusic, yang dicipta dengan s
 
 Lihat Evermusic dalam tindakan -- menstrikan muzik dari awan, mengurus senarai main dan menyampaikan audio berkualiti tinggi di iPhone:
 
-{{< youtubecard id="6mm3LVT4rtA" title="Evermusic Promo Video" >}}
+{{< ls-youtubecard id="6mm3LVT4rtA" title="Evermusic Promo Video" >}}
 
 ## Apa yang Anda Akan Lihat dalam Video
 
@@ -41,14 +41,14 @@ Jika anda menikmati video ini, kongsikannya dengan rakan-rakan dan peminat muzik
 
 ## FAQ
 
-{{% details title="Apakah Evermusic?" closed="true" %}}
+{{% ls-details title="Apakah Evermusic?" closed="true" %}}
 Evermusic ialah pemain muzik untuk iOS dan macOS yang menstrim audio dari perkhidmatan awan seperti Dropbox, Google Drive, OneDrive dan iCloud Drive. Ia juga menyokong main balik luar talian dan termasuk penyama terbina dalam.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Perkhidmatan awan manakah yang disokong oleh Evermusic?" closed="true" %}}
+{{% ls-details title="Perkhidmatan awan manakah yang disokong oleh Evermusic?" closed="true" %}}
 Evermusic bersambung ke Dropbox, Google Drive, OneDrive, iCloud Drive, pCloud, Yandex.Disk dan beberapa penyedia storan awan lain.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Adakah Evermusic percuma?" closed="true" %}}
+{{% ls-details title="Adakah Evermusic percuma?" closed="true" %}}
 Evermusic percuma untuk dimuat turun dengan ciri premium pilihan yang tersedia melalui pembelian dalam aplikasi.
-{{% /details %}}
+{{% /ls-details %}}

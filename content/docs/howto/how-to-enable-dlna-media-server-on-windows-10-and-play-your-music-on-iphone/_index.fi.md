@@ -7,7 +7,7 @@ tags: ["evermusic", "musiikki", "pilvi", "iphone", "tallennus", "paikallinen", "
 readingTime: 2
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **Lyhyesti:** Windows 10:ssä on sisäänrakennettu DLNA-palvelin. Ota se käyttöön Verkko- ja jakamisasetuksissa ja käytä sitten ilmaista **Evermusic**-sovellusta iPhonessasi koko musiikkikirjastosi suoratoistoon Wi-Fi:n kautta. Kolmannen osapuolen palvelinohjelmistoa ei tarvita.
@@ -96,22 +96,22 @@ DLNA Media Serverin avulla Windows 10:ssä ja Evermusicin avulla iPhonessasi voi
 
 ## Usein kysytyt kysymykset
 
-{{% details title="Tarvitseeko minun asentaa palvelinohjelmistoa Windows 10:een?" closed="true" %}}
+{{% ls-details title="Tarvitseeko minun asentaa palvelinohjelmistoa Windows 10:een?" closed="true" %}}
 Ei. Windows 10 sisältää sisäänrakennetun DLNA-mediapalvelimen. Sinun tarvitsee vain ottaa käyttöön median suoratoisto Verkko- ja jakamiskeskuksen asetuksissa. Kolmannen osapuolen ohjelmistoa ei tarvita.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Täytyykö iPhoneni olla samassa Wi-Fi-verkossa?" closed="true" %}}
+{{% ls-details title="Täytyykö iPhoneni olla samassa Wi-Fi-verkossa?" closed="true" %}}
 Kyllä. DLNA-suoratoisto toimii paikallisverkossasi. Sekä Windows 10 -tietokoneesi että iPhonesi on oltava yhdistettynä samaan Wi-Fi-verkkoon, jotta Evermusic löytää DLNA-palvelimen.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Mitä ääniformaatteja voin suoratoistaa DLNA:n kautta?" closed="true" %}}
+{{% ls-details title="Mitä ääniformaatteja voin suoratoistaa DLNA:n kautta?" closed="true" %}}
 Windows DLNA -palvelin jakaa tiedostoja Musiikki-kansiostasi riippumatta formaatista. Evermusic tukee MP3-, FLAC-, AAC-, WAV-, OGG-, AIFF- ja monia muita formaatteja, joten voit toistaa käytännössä minkä tahansa äänitiedoston palvelimelta.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Voinko käyttää Flacboxia Evermusicin sijaan?" closed="true" %}}
+{{% ls-details title="Voinko käyttää Flacboxia Evermusicin sijaan?" closed="true" %}}
 Kyllä. Flacbox tukee myös DLNA/UPnP-selausta ja toistoa. Voit käyttää kumpaa tahansa sovellusta musiikin löytämiseen ja toistamiseen Windows DLNA -palvelimeltasi.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Käyttääkö DLNA-suoratoisto mobiilidataa?" closed="true" %}}
+{{% ls-details title="Käyttääkö DLNA-suoratoisto mobiilidataa?" closed="true" %}}
 Ei. DLNA toimii kokonaan paikallisessa Wi-Fi-verkossasi. Se ei käytä mobiilidataa. Molempien laitteiden on kuitenkin pysyttävä yhdistettynä samaan verkkoon toiston aikana.
-{{% /details %}}
+{{% /ls-details %}}

@@ -10,7 +10,7 @@ aliases:
   - /single-post/Stream-your-music-from-MAC-or-PC-to-iPhone-using-SMB/
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **TL;DR:** Use the Evermusic app for iPhone or iPad to stream music from your Mac or Windows PC over your local network using SMB. No syncing, no copying -- just enable file sharing on your computer, connect in the app, and play. Setup takes under 5 minutes.
@@ -105,26 +105,26 @@ P.S. You can also transfer audio files from your MAC/PC to your iPhone using iTu
 
 ## Frequently Asked Questions
 
-{{% details title="Can I stream music from my PC to my iPhone without iTunes?" closed="true" %}}
+{{% ls-details title="Can I stream music from my PC to my iPhone without iTunes?" closed="true" %}}
 Yes. Evermusic connects to your PC over SMB on your local Wi-Fi network. No iTunes is required. Just enable file sharing on your PC and connect in the app.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Does SMB streaming use mobile data?" closed="true" %}}
+{{% ls-details title="Does SMB streaming use mobile data?" closed="true" %}}
 No. SMB works over your local Wi-Fi network. No internet connection or mobile data is needed.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="What audio formats does Evermusic support over SMB?" closed="true" %}}
+{{% ls-details title="What audio formats does Evermusic support over SMB?" closed="true" %}}
 Evermusic supports MP3, FLAC, AAC, WAV, AIFF, OGG, WMA, ALAC, and other common audio formats. Files play directly from the SMB share.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Can I stream music from a NAS to my iPhone?" closed="true" %}}
+{{% ls-details title="Can I stream music from a NAS to my iPhone?" closed="true" %}}
 Yes. If your NAS supports SMB (most do, including Synology, QNAP, and WD My Cloud), you can connect to it using the same steps in this guide.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Do I need to keep my computer on while streaming?" closed="true" %}}
+{{% ls-details title="Do I need to keep my computer on while streaming?" closed="true" %}}
 Yes. Since Evermusic streams files directly from your computer, it must be powered on and connected to the same network as your iPhone.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Is there a file size limit for SMB streaming?" closed="true" %}}
+{{% ls-details title="Is there a file size limit for SMB streaming?" closed="true" %}}
 No. Evermusic streams files of any size over SMB. Large lossless files (FLAC, WAV) work without issues.
-{{% /details %}}
+{{% /ls-details %}}

@@ -12,7 +12,7 @@ authors:
     image: "/images/about/artem-meleshko-founder-everappz.webp"
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 ![](/blog/evermusic-sync-your-music-library-save-playback-position-correct-music-tags/21260c_641f376e779e47d4927b43c210d3c87f~mv2.jpeg)
 
@@ -67,22 +67,22 @@ Evermusic هو مشغل موسيقى سحابي لأنظمة iOS وmacOS يتي�
 
 ## الأسئلة الشائعة
 
-{{% details title="هل تعمل المزامنة التلقائية في Evermusic مع جميع الخدمات السحابية؟" closed="true" %}}
+{{% ls-details title="هل تعمل المزامنة التلقائية في Evermusic مع جميع الخدمات السحابية؟" closed="true" %}}
 نعم. تعمل المزامنة التلقائية مع Dropbox وGoogle Drive وOneDrive وMEGA وWebDAV وSMB. حدد المجلدات التي تريد مراقبتها وسيبقي Evermusic مكتبتك محدّثة.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="هل يمكن لـ Evermusic حفظ موضع الكتاب الصوتي؟" closed="true" %}}
+{{% ls-details title="هل يمكن لـ Evermusic حفظ موضع الكتاب الصوتي؟" closed="true" %}}
 نعم. فعّل حفظ موضع التشغيل في إعدادات الصوت. يتذكر Evermusic أين توقفت لكل ملف، حتى تتمكن من الاستئناف دون إشارات مرجعية يدوية.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="كيف تعمل قراءة البيانات الوصفية في الخلفية؟" closed="true" %}}
+{{% ls-details title="كيف تعمل قراءة البيانات الوصفية في الخلفية؟" closed="true" %}}
 يقرأ Evermusic علامات ID3 والبيانات الوصفية للملفات في الخلفية أثناء استخدامك للميزات الأخرى. ينظم مكتبتك حسب الفنان والألبوم والنوع تلقائياً.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="هل سيصلح Evermusic علامات الموسيقى التالفة؟" closed="true" %}}
+{{% ls-details title="هل سيصلح Evermusic علامات الموسيقى التالفة؟" closed="true" %}}
 نعم. تتحقق ميزة تصحيح العلامات التلقائي من ملفاتك مقابل قواعد بيانات عبر الإنترنت وتصلح بيانات ID3 الوصفية غير الصالحة أو غير المكتملة أو المفقودة.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="هل Evermusic مجاني للتنزيل؟" closed="true" %}}
+{{% ls-details title="هل Evermusic مجاني للتنزيل؟" closed="true" %}}
 Evermusic مجاني للتنزيل مع ميزات مميزة اختيارية متاحة عبر الشراء داخل التطبيق.
-{{% /details %}}
+{{% /ls-details %}}

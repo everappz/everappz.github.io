@@ -7,7 +7,7 @@ keywords: ["siirrä musiikkikirjasto Evermusic", "varmuuskopioi ja palauta soitt
 readingTime: 3
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **Lyhyesti:** Siirtääksesi Evermusic-kirjastosi uuteen laitteeseen, luo varmuuskopio lähdelaitteella, käynnistä Wi-Fi Drive, yhdistä toinen laite samaan verkkoon, lataa varmuuskopio ja musiikkitiedostot ja palauta sitten varmuuskopiosta. Koko prosessi kestää noin 10 minuuttia kirjaston koosta riippuen.
@@ -144,22 +144,22 @@ Noudattamalla näitä vaiheita siirrät onnistuneesti musiikkikirjastosi, soitto
 
 ## Usein kysytyt kysymykset
 
-{{% details title="Voinko siirtää Evermusic-kirjastoni ilman Wi-Fiä?" closed="true" %}}
+{{% ls-details title="Voinko siirtää Evermusic-kirjastoni ilman Wi-Fiä?" closed="true" %}}
 Wi-Fi Drive vaatii molempien laitteiden olevan samassa Wi-Fi-verkossa. Bluetooth- tai mobiilisiirtovaihtoehtoa ei tällä hetkellä ole. Voit vaihtoehtoisesti käyttää AirDropia tai Tiedostot-sovellusta varmuuskopiotiedoston ja musiikkikansioiden manuaaliseen siirtämiseen laitteiden välillä.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Siirtyvätkö pilvipalveluyhteydet varmuuskopion mukana?" closed="true" %}}
+{{% ls-details title="Siirtyvätkö pilvipalveluyhteydet varmuuskopion mukana?" closed="true" %}}
 Varmuuskopio sisältää tietokantasi, soittolistat, albumin kansikuvat ja asetukset. Pilvipalveluiden kirjautumistietoja ei sisällytetä turvallisuussyistä. Sinun on yhdistettävä pilvitilit uudelleen uudella laitteella palautuksen jälkeen.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Mitä tapahtuu olemassa olevalle kirjastolleni toisella laitteella?" closed="true" %}}
+{{% ls-details title="Mitä tapahtuu olemassa olevalle kirjastolleni toisella laitteella?" closed="true" %}}
 Varmuuskopion palauttaminen korvaa kaikki olemassa olevat musiikkikirjaston tiedot, soittolistat, asetukset ja albumin kansikuvat toisella laitteella. Tee erillinen varmuuskopio toisesta laitteesta ensin, jos haluat säilyttää sen tiedot.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Toimiiko tämä prosessi iPhonen ja Macin välillä?" closed="true" %}}
+{{% ls-details title="Toimiiko tämä prosessi iPhonen ja Macin välillä?" closed="true" %}}
 Kyllä. Evermusic tukee Wi-Fi Drive -siirtoa minkä tahansa iPhonen, iPadin ja Macin yhdistelmän välillä. Molempien laitteiden tarvitsee vain olla samassa Wi-Fi-verkossa.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Kuinka kauan siirto kestää?" closed="true" %}}
+{{% ls-details title="Kuinka kauan siirto kestää?" closed="true" %}}
 Siirtoaika riippuu musiikkikirjastosi koosta ja Wi-Fi-nopeudestasi. Tyypillinen muutaman gigatavun kirjasto siirtyy 5-15 minuutissa tavallisen kotiverkon kautta.
-{{% /details %}}
+{{% /ls-details %}}

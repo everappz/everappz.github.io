@@ -17,7 +17,7 @@ keywords: [
 readingTime: 2
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **簡述：** Evermusic 和 Flacbox 都內建了 Last.fm scrobbling 功能。在**連接**部分連接您的帳戶，您播放的每首曲目都會自動記錄——即使在離線時也是如此。設定不到一分鐘。
@@ -66,22 +66,22 @@ readingTime: 2
 
 ## 常見問題
 
-{{% details title="Last.fm scrobbling 是免費的嗎？" closed="true" %}}
+{{% ls-details title="Last.fm scrobbling 是免費的嗎？" closed="true" %}}
 是的。Last.fm 提供免費帳戶，包括完整的 scrobbling、聆聽歷史記錄和基本推薦。付費的 Last.fm Pro 訂閱在 Last.fm 網站上增加了額外功能，但從 Evermusic 或 Flacbox 進行 scrobbling 並不需要。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="離線時 scrobbling 能運作嗎？" closed="true" %}}
+{{% ls-details title="離線時 scrobbling 能運作嗎？" closed="true" %}}
 能。Evermusic 和 Flacbox 都會在本機儲存您的播放歷史記錄。當您重新上線時，應用程式會自動將排隊的 scrobble 上傳到 Last.fm。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="應用程式會儲存我的 Last.fm 憑證嗎？" closed="true" %}}
+{{% ls-details title="應用程式會儲存我的 Last.fm 憑證嗎？" closed="true" %}}
 不會。應用程式僅在裝置鑰匙圈中儲存安全的存取權杖。您的使用者名稱和密碼不會被儲存。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="我可以從 iPhone 和 Mac 同時 scrobble 嗎？" closed="true" %}}
+{{% ls-details title="我可以從 iPhone 和 Mac 同時 scrobble 嗎？" closed="true" %}}
 可以。Evermusic 和 Flacbox 在 iPhone、iPad 和 Mac 上都支援 Last.fm scrobbling。在您想要追蹤播放的每個裝置上連接您的帳戶。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="如何在不刪除 Last.fm 帳戶的情況下停止 scrobbling？" closed="true" %}}
+{{% ls-details title="如何在不刪除 Last.fm 帳戶的情況下停止 scrobbling？" closed="true" %}}
 在 Evermusic 或 Flacbox 中開啟**連接**部分，點擊 Last.fm 旁邊的**斷開連接**。這將移除存取權杖並停止 scrobbling，同時保留您的 Last.fm 帳戶和歷史記錄。
-{{% /details %}}
+{{% /ls-details %}}

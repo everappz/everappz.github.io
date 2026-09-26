@@ -15,7 +15,7 @@ readingTime: 11
 Σε αυτή την οθόνη, μπορείτε να συνδέσετε διάφορες πηγές που περιέχουν τα αρχεία ήχου σας. Μπορείτε να ενσωματώσετε δημοφιλείς υπηρεσίες cloud όπως Google Drive, Dropbox, OneDrive, iCloud και άλλες, καθώς και να συνδέσετε τον Mac ή τον PC σας. Επιπλέον, έχετε τη δυνατότητα να επεξεργαστείτε αρχεία ήχου που βρίσκονται στο Apple Time Capsule, WD Cloud Home ή σε οποιοδήποτε NAS που υποστηρίζει SMB ή WebDAV.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evertag Connections Screen" image="/docs/guide/evertag/img/connections.webp" >}}
+  {{< ls-card title="" subtitle="Evertag Connections Screen" image="/docs/guide/evertag/img/connections.webp" >}}
 {{< /cards >}}
 
 ## Γρήγορη πρόσβαση
@@ -151,7 +151,7 @@ readingTime: 11
 - **Προβολή πλέγματος/λίστας**: Εναλλάξτε μεταξύ δύο λειτουργιών προβολής: προβολή πίνακα και προβολή μικρογραφιών. Η προβολή πίνακα παρουσιάζει αρχεία σε λίστα, ενώ η προβολή μικρογραφιών εμφανίζει οπτικές αναπαραστάσεις των αρχείων, καθιστώντας ευκολότερη την αναγνώριση περιεχομένου με μια ματιά.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evertag Cloud Folder Sort" image="/docs/guide/evertag/img/cloud-storage-sort.webp" >}}
+  {{< ls-card title="" subtitle="Evertag Cloud Folder Sort" image="/docs/guide/evertag/img/cloud-storage-sort.webp" >}}
 {{< /cards >}}
 
 ## Επεξεργασία διαδικτυακών αρχείων
@@ -163,7 +163,7 @@ readingTime: 11
 - **Εκτέλεση Διαφόρων Ενεργειών**: Μόλις επιλέξετε τα αρχεία ή τους φακέλους που θέλετε να διαχειριστείτε, θα έχετε πρόσβαση σε αρκετές ενέργειες προσαρμοσμένες στις ανάγκες σας:
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evertag File Select" image="/docs/guide/evertag/img/cloud-storage-file-select.webp" >}}
+  {{< ls-card title="" subtitle="Evertag File Select" image="/docs/guide/evertag/img/cloud-storage-file-select.webp" >}}
 {{< /cards >}}
 
 ## Ενέργειες αρχείου
@@ -180,7 +180,7 @@ readingTime: 11
 - **Διαγραφή**: Να είστε προσεκτικοί με αυτή την ενέργεια, καθώς αφαιρεί μόνιμα το αρχείο από τον αποθηκευτικό χώρο cloud σας. **Αυτή η διαγραφή δεν μπορεί να αναιρεθεί**.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evertag File Options" image="/docs/guide/evertag/img/cloud-storage-file-options.webp" >}}
+  {{< ls-card title="" subtitle="Evertag File Options" image="/docs/guide/evertag/img/cloud-storage-file-options.webp" >}}
 {{< /cards >}}
 
 Εάν η λίστα ενεργειών υπερβαίνει τον διαθέσιμο χώρο οθόνης, απλώς μετακινηθείτε προς τα κάτω μέσα στο μενού ενεργειών για να αποκτήσετε πρόσβαση σε πρόσθετες επιλογές.
@@ -196,5 +196,5 @@ readingTime: 11
 - **Διαγραφή**: Να είστε προσεκτικοί με αυτή την ενέργεια, καθώς αφαιρεί μόνιμα τον φάκελο και το περιεχόμενό του από τον αποθηκευτικό χώρο cloud σας. **Αυτή η ενέργεια δεν μπορεί να αναιρεθεί**.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evertag Folder Options" image="/docs/guide/evertag/img/cloud-storage-folder-options.webp" >}}
+  {{< ls-card title="" subtitle="Evertag Folder Options" image="/docs/guide/evertag/img/cloud-storage-folder-options.webp" >}}
 {{< /cards >}}

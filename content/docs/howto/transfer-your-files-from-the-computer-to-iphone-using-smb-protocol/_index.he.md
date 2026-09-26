@@ -7,7 +7,7 @@ tags: ["cloud", "streaming", "computer", "mp3", "file", "downloader", "manager",
 keywords: ["העברת קבצים לאייפון SMB", "הזרמת מוזיקה מהמחשב לאייפון", "חיבור Mac לאייפון SMB", "הגדרת Evermusic SMB", "גישה לקבצי מחשב מאייפון", "שיתוף מוזיקה Windows iOS", "העברת קבצים SMB Evermusic"]
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **תקציר:** השתמשו ב-Evermusic באייפון או אייפד שלכם כדי לגשת לקבצים המאוחסנים ב-Mac או PC Windows דרך הרשת המקומית שלכם באמצעות SMB. ללא כבלים, ללא iTunes, ללא צורך בהעלאה לענן. הפעילו שיתוף קבצים במחשב, התחברו באפליקציה, וגלשו או נגנו את הקבצים שלכם באופן אלחוטי.
@@ -142,26 +142,26 @@ keywords: ["העברת קבצים לאייפון SMB", "הזרמת מוזיקה 
 
 ## שאלות נפוצות
 
-{{% details title="האם אני יכול לגשת לקבצים במחשב מהאייפון ללא iTunes?" closed="true" %}}
+{{% ls-details title="האם אני יכול לגשת לקבצים במחשב מהאייפון ללא iTunes?" closed="true" %}}
 כן. Evermusic מתחבר למחשב שלכם דרך SMB ברשת ה-Wi-Fi המקומית. אין צורך בסנכרון iTunes או Finder. הפעילו שיתוף קבצים במחשב והתחברו ישירות מהאפליקציה.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="האם גישת קבצי SMB עובדת דרך האינטרנט?" closed="true" %}}
+{{% ls-details title="האם גישת קבצי SMB עובדת דרך האינטרנט?" closed="true" %}}
 לא. SMB הוא פרוטוקול רשת מקומית. האייפון והמחשב שלכם חייבים להיות באותה רשת Wi-Fi. לגישה מרחוק, העלו קבצים לשירות ענן כמו Google Drive או Dropbox והתחברו אליו ב-Evermusic.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="לאילו סוגי קבצים אני יכול לגשת דרך SMB?" closed="true" %}}
+{{% ls-details title="לאילו סוגי קבצים אני יכול לגשת דרך SMB?" closed="true" %}}
 Evermusic תומך ב-MP3, FLAC, AAC, WAV, AIFF, OGG, WMA, ALAC ופורמטי אודיו נוספים. תוכלו גם לגלוש ולנהל קבצים שאינם אודיו באמצעות מנהל הקבצים המובנה.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="האם אני יכול להעביר קבצים מ-NAS לאייפון באמצעות SMB?" closed="true" %}}
+{{% ls-details title="האם אני יכול להעביר קבצים מ-NAS לאייפון באמצעות SMB?" closed="true" %}}
 כן. רוב מכשירי NAS (Synology, QNAP, WD My Cloud ואחרים) תומכים ב-SMB. התחברו ל-NAS שלכם באמצעות אותם צעדים במדריך זה.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="האם אני צריך להעתיק קבצים לאייפון כדי לנגן אותם?" closed="true" %}}
+{{% ls-details title="האם אני צריך להעתיק קבצים לאייפון כדי לנגן אותם?" closed="true" %}}
 לא. Evermusic מזרים קבצים ישירות מהמחשב או ה-NAS שלכם דרך הרשת. קבצים אינם מועתקים לאייפון אלא אם תבחרו להוריד אותם לנגינה במצב לא מקוון.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="האם שיתוף קבצי SMB בטוח?" closed="true" %}}
+{{% ls-details title="האם שיתוף קבצי SMB בטוח?" closed="true" %}}
 שיתוף קבצי SMB פועל רק ברשת המקומית שלכם. מכשירים אחרים ברשתות שונות לא יכולים לגשת לתיקיות המשותפות שלכם. לאבטחה נוספת, השתמשו בשם משתמש וסיסמה במקום גישה אנונימית (כולם).
-{{% /details %}}
+{{% /ls-details %}}

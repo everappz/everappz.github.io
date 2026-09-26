@@ -12,7 +12,7 @@ authors:
     image: "/images/about/artem-meleshko-founder-everappz.webp"
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 **Flacbox 1.6** приносить важливі нові функції до FLAC музичного програвача для iPhone та iPad.
 
@@ -68,18 +68,18 @@ Flacbox 1.6 доступний зараз в App Store. [Завантажте Fl
 
 ## Часті запитання
 
-{{% details title="Які аудіо формати підтримує Flacbox?" closed="true" %}}
+{{% ls-details title="Які аудіо формати підтримує Flacbox?" closed="true" %}}
 Flacbox підтримує FLAC, ALAC, MP3, AAC, OGG, OPUS, WAV, AIFF, DSD та інші популярні аудіо формати. Усі формати працюють з вбудованим еквалайзером.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Чи можу я відтворювати музику з SD-карти на моєму iPhone?" closed="true" %}}
+{{% ls-details title="Чи можу я відтворювати музику з SD-карти на моєму iPhone?" closed="true" %}}
 Так. Підключіть SD або microSD карту за допомогою Lightning to SD Card Camera Reader Adapter. Flacbox автоматично виявляє карту та дозволяє переглядати та відтворювати файли безпосередньо із зовнішнього сховища.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Чи синхронізується Flacbox з хмарним сховищем автоматично?" closed="true" %}}
+{{% ls-details title="Чи синхронізується Flacbox з хмарним сховищем автоматично?" closed="true" %}}
 Так. Починаючи з версії 1.6, Flacbox може автоматично синхронізувати вашу музичну бібліотеку з хмарних папок. Увімкніть автоматичну синхронізацію в налаштуваннях та виберіть папки для моніторингу.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Чи можна налаштувати еквалайзер Flacbox?" closed="true" %}}
+{{% ls-details title="Чи можна налаштувати еквалайзер Flacbox?" closed="true" %}}
 Так. 10-смуговий еквалайзер дозволяє регулювати окремі рівні частот між -12 дБ та +12 дБ. Ви можете використовувати вбудовані пресети або зберегти власні налаштування.
-{{% /details %}}
+{{% /ls-details %}}

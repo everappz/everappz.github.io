@@ -7,7 +7,7 @@ tags: ["muzică", "cloud", "streaming", "sincronizare", "icloud", "bibliotecă"]
 keywords: ["import muzică iCloud Evermusic", "Flacbox sincronizare iCloud", "Evermusic streaming din iCloud", "bibliotecă muzicală aplicație iOS", "Flacbox cititor metadate", "streaming muzică iCloud iPhone"]
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **Rezumat:** Puteți transmite biblioteca de muzică iCloud Drive în Evermusic și Flacbox fără a descărca fișiere pe dispozitivul dvs. Conectați iCloud Drive în aplicație, activați Sincronizarea Muzicii Online pentru a construi biblioteca, configurați cititorul de metadate pentru organizare după artist/album/gen și, opțional, activați Modul Offline pentru a descărca albume pentru ascultare fără internet. Acești pași funcționează și cu Google Drive, Dropbox, OneDrive și alte servicii cloud acceptate.
@@ -91,26 +91,26 @@ Asta e tot pentru azi! Sperăm că acest ghid vă ajută să configurați sincro
 
 ## Întrebări frecvente
 
-{{% details title="Pot transmite muzică iCloud fără a descărca fișiere pe iPhone?" closed="true" %}}
+{{% ls-details title="Pot transmite muzică iCloud fără a descărca fișiere pe iPhone?" closed="true" %}}
 Da. Când conectați iCloud Drive în Evermusic sau Flacbox și utilizați Sincronizarea Muzicii Online, aplicația creează linkuri către fișierele dvs. cloud și le transmite la cerere. Fișierele nu sunt descărcate decât dacă activați explicit Modul Offline.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="De ce este lent importul muzicii iCloud în Flacbox sau Evermusic?" closed="true" %}}
+{{% ls-details title="De ce este lent importul muzicii iCloud în Flacbox sau Evermusic?" closed="true" %}}
 Importul lent este de obicei cauzat de citirea metadatelor unei biblioteci mari printr-o conexiune mobilă. Activați Sincronizarea în fundal, porniți redarea audio pentru a menține aplicația activă și luați în considerare folosirea versiunii Mac pentru sincronizarea inițială a colecțiilor mari.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Funcționează acest ghid cu alte servicii cloud în afară de iCloud?" closed="true" %}}
+{{% ls-details title="Funcționează acest ghid cu alte servicii cloud în afară de iCloud?" closed="true" %}}
 Da. Aceiași pași se aplică pentru Google Drive, Dropbox, OneDrive, SMB, WebDAV și toate celelalte servicii cloud acceptate de Evermusic și Flacbox.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Cum transfer biblioteca muzicală de pe Mac pe iPhone?" closed="true" %}}
+{{% ls-details title="Cum transfer biblioteca muzicală de pe Mac pe iPhone?" closed="true" %}}
 Folosiți funcția de backup/restaurare date din setările aplicației. Sincronizați și citiți metadatele pe versiunea Mac mai întâi, creați un backup, apoi restaurați-l pe versiunea iOS.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Cititorul de metadate va modifica fișierele audio originale?" closed="true" %}}
+{{% ls-details title="Cititorul de metadate va modifica fișierele audio originale?" closed="true" %}}
 Nu. Cititorul de metadate actualizează doar informațiile de afișare din biblioteca muzicală. Nu modifică fișierele stocate în contul cloud sau pe dispozitiv. Pentru editarea etichetelor, folosiți editorul de etichete integrat.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Cum fac albumele disponibile offline?" closed="true" %}}
+{{% ls-details title="Cum fac albumele disponibile offline?" closed="true" %}}
 Folosiți funcția Mod Offline. Atingeți **Mai multe acțiuni** pe orice folder cloud și selectați **Activare modul offline**. Aplicația descarcă toate fișierele și le menține sincronizate automat cu versiunea cloud.
-{{% /details %}}
+{{% /ls-details %}}

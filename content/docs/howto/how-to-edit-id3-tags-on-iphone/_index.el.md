@@ -7,7 +7,7 @@ tags: ["mp3", "επεξεργαστής", "iPhone", "tags", "μεταδεδομ�
 readingTime: 2
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **Περίληψη:** Χρησιμοποιήστε τον ενσωματωμένο επεξεργαστή tags στο Evermusic ή Flacbox για να επεξεργαστείτε ID3 tags σε iPhone ή Mac -- τόσο για αρχεία cloud όσο και τοπικά. Χρειάζεστε μαζική επεξεργασία ή 120+ πεδία tags; Χρησιμοποιήστε αντί αυτού το [Evertag](https://apps.apple.com/app/apple-store/id1450763230?pt=95781850&ct=everappzcom&mt=8).
@@ -21,8 +21,8 @@ readingTime: 2
 Ενώ πολλές εφαρμογές desktop προσφέρουν επεξεργασία μεταδεδομένων, τα Evermusic και Flacbox ανεβάζουν την απλότητα σε νέο επίπεδο με τον ενσωματωμένο επεξεργαστή ID3 tags. Τώρα, μπορείτε να χρησιμοποιήσετε μία εφαρμογή για να δημιουργήσετε τη μουσική βιβλιοθήκη σας, να απολαύσετε τα κομμάτια σας και να διορθώσετε τα audio tags.
 
 {{< cards cols="2">}}
-{{< card link="https://apps.apple.com/app/apple-store/id885367198?pt=95781850&ct=everappzcom&mt=8" title="Λήψη Evermusic" icon="download" tag="Free" >}}
-{{< card link="https://apps.apple.com/app/apple-store/id1097564256?pt=95781850&ct=everappzcom&mt=8" title="Λήψη Flacbox" icon="download" tag="Free" >}}
+{{< ls-card link="https://apps.apple.com/app/apple-store/id885367198?pt=95781850&ct=everappzcom&mt=8" title="Λήψη Evermusic" icon="download" tag="Free" >}}
+{{< ls-card link="https://apps.apple.com/app/apple-store/id1097564256?pt=95781850&ct=everappzcom&mt=8" title="Λήψη Flacbox" icon="download" tag="Free" >}}
 {{< /cards >}}
 
 ## Επαγγελματικός επεξεργαστής
@@ -30,7 +30,7 @@ readingTime: 2
 Αλλά πριν ξεκινήσετε, δείτε την εφαρμογή **Evertag** — υποστηρίζει **120+ audio tags**, **30+ μορφές ήχου** και προσφέρει ισχυρή **μαζική επεξεργασία**. Αν ψάχνετε ένα πλήρες εργαλείο διαχείρισης tags, το Evertag είναι η σωστή επιλογή. Ωστόσο, αν χρειάζεστε μόνο έναν **απλό επεξεργαστή tags**, συνεχίστε με αυτόν τον οδηγό.
 
 {{< cards >}}
-{{< card link="https://apps.apple.com/app/apple-store/id1450763230?pt=95781850&ct=everappzcom&mt=8" title="Λήψη Evertag" icon="download" tag="Free" >}}
+{{< ls-card link="https://apps.apple.com/app/apple-store/id1450763230?pt=95781850&ct=everappzcom&mt=8" title="Λήψη Evertag" icon="download" tag="Free" >}}
 {{< /cards >}}
 
 
@@ -38,21 +38,21 @@ readingTime: 2
 Συνδέστε τον προτιμώμενο λογαριασμό cloud σας μέσα στην εφαρμογή.
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Σύνδεση Cloud Server" image="/docs/howto/how-to-edit-id3-tags-on-iphone/connect_cloud_server.webp" >}}
+{{< ls-card title="" subtitle="Σύνδεση Cloud Server" image="/docs/howto/how-to-edit-id3-tags-on-iphone/connect_cloud_server.webp" >}}
 {{< /cards >}}
 
 ## Πλοηγηθείτε στα αρχεία ήχου σας  
 Ανοίξτε τον φάκελο που περιέχει τα αρχεία ήχου σας στον συνδεδεμένο λογαριασμό cloud.
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Φάκελοι Cloud" image="/docs/howto/how-to-edit-id3-tags-on-iphone/cloud_server_folders.webp" >}}
+{{< ls-card title="" subtitle="Φάκελοι Cloud" image="/docs/howto/how-to-edit-id3-tags-on-iphone/cloud_server_folders.webp" >}}
 {{< /cards >}}
 
 ## Πρόσβαση στις επιλογές αρχείου  
 Πατήστε το κουμπί 'Περισσότερα' ('...') δίπλα στο αρχείο που θέλετε να επεξεργαστείτε.
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Περισσότερες ενέργειες" image="/docs/howto/how-to-edit-id3-tags-on-iphone/cloud_server_audio_more_actions.webp" >}}
+{{< ls-card title="" subtitle="Περισσότερες ενέργειες" image="/docs/howto/how-to-edit-id3-tags-on-iphone/cloud_server_audio_more_actions.webp" >}}
 {{< /cards >}}
 
 ## Επιλέξτε 'Επεξεργασία audio tags'  
@@ -70,7 +70,7 @@ readingTime: 2
 Μόλις ολοκληρώσετε την επεξεργασία, πατήστε το κουμπί 'Αποθήκευση' για να αποθηκεύσετε τις αλλαγές σας.
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Επεξεργαστής Tags" image="/docs/howto/how-to-edit-id3-tags-on-iphone/tags_editor.webp" >}}
+{{< ls-card title="" subtitle="Επεξεργαστής Tags" image="/docs/howto/how-to-edit-id3-tags-on-iphone/tags_editor.webp" >}}
 {{< /cards >}}
 
 ## Έξυπνη αυτόματη συμπλήρωση  
@@ -88,7 +88,7 @@ readingTime: 2
 - **Μεταβείτε στην ενότητα "Τοπικά αρχεία"**, μετά κάντε κύλιση προς τα κάτω στα **"Αρχεία σε αυτή τη συσκευή."**
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Αρχεία σε αυτή τη συσκευή" image="/docs/howto/how-to-edit-id3-tags-on-iphone/local_files.webp" >}}
+{{< ls-card title="" subtitle="Αρχεία σε αυτή τη συσκευή" image="/docs/howto/how-to-edit-id3-tags-on-iphone/local_files.webp" >}}
 {{< /cards >}}
 
 - Πατήστε **"Σύνδεση φακέλου"**.
@@ -96,25 +96,25 @@ readingTime: 2
 - Στον επιλογέα φακέλων, επιλέξτε τον κατάλογο στον οποίο θέλετε πρόσβαση και πατήστε **"Άνοιγμα"** για επιβεβαίωση.
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Σύνδεση εξωτερικού φακέλου" image="/docs/howto/how-to-edit-id3-tags-on-iphone/connect_external_folder.webp" >}}
+{{< ls-card title="" subtitle="Σύνδεση εξωτερικού φακέλου" image="/docs/howto/how-to-edit-id3-tags-on-iphone/connect_external_folder.webp" >}}
 {{< /cards >}}
 
 - Μετά την προσθήκη του φακέλου, πατήστε πάνω του για να δείτε τα αρχεία μέσα.
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Περιεχόμενα εξωτερικού φακέλου" image="/docs/howto/how-to-edit-id3-tags-on-iphone/connected_external_folder.webp" >}}
+{{< ls-card title="" subtitle="Περιεχόμενα εξωτερικού φακέλου" image="/docs/howto/how-to-edit-id3-tags-on-iphone/connected_external_folder.webp" >}}
 {{< /cards >}}
 
 - Όπως και με τα αρχεία cloud, πατήστε το κουμπί **"Περισσότερες ενέργειες"** δίπλα σε ένα αρχείο ήχου και επιλέξτε **"Επεξεργασία audio tags".**
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Περισσότερες ενέργειες - Τοπικό αρχείο" image="/docs/howto/how-to-edit-id3-tags-on-iphone/more_actions_local_file.webp" >}}
+{{< ls-card title="" subtitle="Περισσότερες ενέργειες - Τοπικό αρχείο" image="/docs/howto/how-to-edit-id3-tags-on-iphone/more_actions_local_file.webp" >}}
 {{< /cards >}}
 
 - Ο επεξεργαστής Tags θα ανοίξει. Κάντε τις αλλαγές σας και πατήστε **"Αποθήκευση"**. Αυτό ήταν! Οι τροποποιήσεις σας εφαρμόζονται απευθείας στο αρχείο — δεν χρειάζεται αντιγραφή ή μετακίνηση.
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Επεξεργαστής Tags - Τοπικό αρχείο" image="/docs/howto/how-to-edit-id3-tags-on-iphone/tag_editor_local_file.webp" >}}
+{{< ls-card title="" subtitle="Επεξεργαστής Tags - Τοπικό αρχείο" image="/docs/howto/how-to-edit-id3-tags-on-iphone/tag_editor_local_file.webp" >}}
 {{< /cards >}}
 
 ## Επεξεργασία εξωφύλλου άλμπουμ
@@ -126,7 +126,7 @@ readingTime: 2
 3. Επιλέξτε μια εικόνα για εφαρμογή ως εξώφυλλο.
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Επιλογή εικόνας" image="/docs/howto/how-to-edit-id3-tags-on-iphone/tags_editor_choose_image.webp" >}}
+{{< ls-card title="" subtitle="Επιλογή εικόνας" image="/docs/howto/how-to-edit-id3-tags-on-iphone/tags_editor_choose_image.webp" >}}
 {{< /cards >}}
 
 ## Περισσότερες ενέργειες στον επεξεργαστή Tags
@@ -134,7 +134,7 @@ readingTime: 2
 Πρόσθετες επιλογές επεξεργασίας είναι διαθέσιμες μέσω της γραμμής εργαλείων κάτω από την προβολή artwork.
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Μενού περισσότερων ενεργειών" image="/docs/howto/how-to-edit-id3-tags-on-iphone/tags_edito_more_actions.webp" >}}
+{{< ls-card title="" subtitle="Μενού περισσότερων ενεργειών" image="/docs/howto/how-to-edit-id3-tags-on-iphone/tags_edito_more_actions.webp" >}}
 {{< /cards >}}
 
 ### Αυτόματη αναζήτηση Audio Tags
@@ -195,22 +195,22 @@ readingTime: 2
 
 ## Συχνές ερωτήσεις
 
-{{% details title="Ποιες μορφές ήχου μπορώ να επεξεργαστώ;" closed="true" %}}
+{{% ls-details title="Ποιες μορφές ήχου μπορώ να επεξεργαστώ;" closed="true" %}}
 Τα Evermusic και Flacbox υποστηρίζουν επεξεργασία tags για MP3, FLAC, AAC, OGG και άλλες κοινές μορφές ήχου. Το Evertag υποστηρίζει 30+ μορφές συμπεριλαμβανομένων WAV, AIFF, WMA και APE.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Μπορώ να επεξεργαστώ tags αρχείων αποθηκευμένων σε υπηρεσίες cloud;" closed="true" %}}
+{{% ls-details title="Μπορώ να επεξεργαστώ tags αρχείων αποθηκευμένων σε υπηρεσίες cloud;" closed="true" %}}
 Ναι. Συνδέστε τον λογαριασμό σας Dropbox, Google Drive, OneDrive ή άλλο cloud. Η εφαρμογή κατεβάζει το αρχείο, σας επιτρέπει να επεξεργαστείτε τα tags και ανεβάζει αυτόματα το τροποποιημένο αρχείο πίσω στο cloud.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Ποια είναι η διαφορά μεταξύ Evermusic/Flacbox και Evertag;" closed="true" %}}
+{{% ls-details title="Ποια είναι η διαφορά μεταξύ Evermusic/Flacbox και Evertag;" closed="true" %}}
 Τα Evermusic και Flacbox είναι προγράμματα αναπαραγωγής μουσικής με ενσωματωμένο βασικό επεξεργαστή tags. Το Evertag είναι ένας αποκλειστικός επεξεργαστής tags που υποστηρίζει 120+ audio tags, μαζική επεξεργασία και 30+ μορφές -- ιδανικό για τη διαχείριση μεγάλων βιβλιοθηκών.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Η λειτουργία αυτόματης αναζήτησης απαιτεί σύνδεση στο internet;" closed="true" %}}
+{{% ls-details title="Η λειτουργία αυτόματης αναζήτησης απαιτεί σύνδεση στο internet;" closed="true" %}}
 Ναι. Η λειτουργία αυτόματης αναζήτησης Audio Tags ρωτά την online βάση δεδομένων MusicBrainz για εύρεση και συμπλήρωση μεταδεδομένων. Απαιτείται ενεργή σύνδεση στο internet για αυτή τη λειτουργία.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Η επεξεργασία tags θα αλλάξει την ποιότητα ήχου μου;" closed="true" %}}
+{{% ls-details title="Η επεξεργασία tags θα αλλάξει την ποιότητα ήχου μου;" closed="true" %}}
 Όχι. Η επεξεργασία tags τροποποιεί μόνο τα μεταδεδομένα που είναι ενσωματωμένα στο αρχείο. Τα δεδομένα ήχου παραμένουν ανέπαφα -- δεν γίνεται επανακωδικοποίηση.
-{{% /details %}}
+{{% /ls-details %}}

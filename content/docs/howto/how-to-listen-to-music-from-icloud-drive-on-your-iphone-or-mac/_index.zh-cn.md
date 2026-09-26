@@ -7,7 +7,7 @@ tags: ["音乐", "云端", "流媒体", "播放器", "云盘", "icloud"]
 readingTime: 5
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **简述：** 将音乐上传到 iCloud Drive，安装 [Evermusic](/products/evermusic)（用于 MP3/WAV）或 [Flacbox](/products/flacbox)（用于 FLAC/DSD），连接您的 iCloud Drive 文件夹，即可直接播放而不占用设备存储空间。
@@ -29,8 +29,8 @@ readingTime: 5
 1. 前往 App Store，如果您的音乐以 mp3 或 wav 等标准音频格式存储，请下载 **Evermusic**。如果您有 dsd 或 flac 格式的无损音乐，请选择 **Flacbox**。这两款应用均适用于 iOS 和 MacOS。
 
 {{< cards >}}
-  {{< card link="https://apps.apple.com/us/app/evermusic-cloud-music-player/id885367198" title="下载 iOS 版 Evermusic" icon="download" tag="免费" >}}
-  {{< card link="https://apps.apple.com/us/app/flacbox-flac-player-equalizer/id1097564256" title="下载 iOS 版 Flacbox" icon="download" tag="免费" >}}
+  {{< ls-card link="https://apps.apple.com/us/app/evermusic-cloud-music-player/id885367198" title="下载 iOS 版 Evermusic" icon="download" tag="免费" >}}
+  {{< ls-card link="https://apps.apple.com/us/app/flacbox-flac-player-equalizer/id1097564256" title="下载 iOS 版 Flacbox" icon="download" tag="免费" >}}
 {{< /cards >}}
 
 - 适用于 MacOS：
@@ -38,8 +38,8 @@ readingTime: 5
 1. 在 Mac 上访问 App Store，根据您的音乐格式偏好安装 **Evermusic** 或 **Flacbox**。
 
 {{< cards >}}
-  {{< card link="https://apps.apple.com/us/app/evermusic-cloud-music-player/id1564384601" title="下载 Mac 版 Evermusic" icon="download" tag="免费" >}}
-  {{< card link="https://apps.apple.com/us/app/flacbox-hires-music-player/id1594027432" title="下载 Mac 版 Flacbox" icon="download" tag="免费" >}}
+  {{< ls-card link="https://apps.apple.com/us/app/evermusic-cloud-music-player/id1564384601" title="下载 Mac 版 Evermusic" icon="download" tag="免费" >}}
+  {{< ls-card link="https://apps.apple.com/us/app/flacbox-hires-music-player/id1594027432" title="下载 Mac 版 Flacbox" icon="download" tag="免费" >}}
 {{< /cards >}}
 
 在 iPhone 或 Mac 上安装应用程序后，您就可以继续了。
@@ -215,22 +215,22 @@ readingTime: 5
 
 ## 常见问题
 
-{{% details title="我可以从 iCloud Drive 播放哪些音频格式？" closed="true" %}}
+{{% ls-details title="我可以从 iCloud Drive 播放哪些音频格式？" closed="true" %}}
 Evermusic 支持 MP3、WAV、AAC 和其他标准格式。Flacbox 增加了对 FLAC、DSD、OGG 和 OPUS 的支持。请选择与您的音乐收藏相匹配的应用程序。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="从 iCloud Drive 播放音乐会占用设备存储空间吗？" closed="true" %}}
+{{% ls-details title="从 iCloud Drive 播放音乐会占用设备存储空间吗？" closed="true" %}}
 不会。Evermusic 和 Flacbox 都直接从 iCloud Drive 播放音频，不会将文件下载到设备。您可以选择下载单个曲目以供离线收听。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="我可以离线使用 iCloud Drive 中的音乐吗？" closed="true" %}}
+{{% ls-details title="我可以离线使用 iCloud Drive 中的音乐吗？" closed="true" %}}
 可以。点击任意曲目上的三点菜单并选择下载选项。文件将保存到本地以供离线播放。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="为什么我的音乐在播放过程中会停止或缓冲？" closed="true" %}}
+{{% ls-details title="为什么我的音乐在播放过程中会停止或缓冲？" closed="true" %}}
 这通常是由于互联网连接缓慢或不稳定造成的。在设置中启用音频播放器缓存以预先下载即将播放的曲目并防止中断。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="iCloud Drive 音乐播放是免费的吗？" closed="true" %}}
+{{% ls-details title="iCloud Drive 音乐播放是免费的吗？" closed="true" %}}
 Evermusic 和 Flacbox 都可以免费下载。iCloud Drive 提供 5 GB 的免费存储空间。如果您需要更多空间，可以通过 Apple 升级您的 iCloud 存储方案。
-{{% /details %}}
+{{% /ls-details %}}

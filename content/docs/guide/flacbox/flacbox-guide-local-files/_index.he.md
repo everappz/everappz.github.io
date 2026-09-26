@@ -19,7 +19,7 @@ readingTime: 8
 מנהל הקבצים המובנה מאפשר לכם לערוך קבצים (שינוי שם, העברה, העתקה, העלאה, מחיקה), לנטר העברות, ומציע מספר שיטות לייבוא קובצי אודיו לאפליקציה — הורדות ישירות מהענן, סנכרון מצב לא מקוון, כוננים USB Flash, Wi-Fi Drive ו-Finder File Sharing.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="מסך קבצים מקומיים של Flacbox" image="/docs/guide/flacbox/img/local-files.webp" >}}
+  {{< ls-card title="" subtitle="מסך קבצים מקומיים של Flacbox" image="/docs/guide/flacbox/img/local-files.webp" >}}
 {{< /cards >}}
 
 ## הורדת קבצים מאחסון ענן
@@ -102,7 +102,7 @@ readingTime: 8
 מציג קבצים הנמצאים במכשיר שלכם אך באפליקציות שונות. ניתן לייבא אותם לאפליקציה זו באמצעות בורר הקבצים של המערכת. להפעלת הבורר, בחרו **פתח קבצים…** לבחירת קבצים או **פתח תיקיות…** לבחירת תיקיות. הוראות מפורטות על ייבוא מוזיקה מקומית המאוחסנת ב-iPhone או Mac שלכם זמינות [כאן](/docs/howto/how-to-play-local-music-stored-on-your-iphone-or-mac).
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="תיקיות מכשיר מחובר ב-Flacbox" image="/docs/guide/flacbox/img/connected-device-folders.webp" >}}
+  {{< ls-card title="" subtitle="תיקיות מכשיר מחובר ב-Flacbox" image="/docs/guide/flacbox/img/connected-device-folders.webp" >}}
 {{< /cards >}}
 
 ניתן גם לחבר תיקייה הנמצאת במכשיר שלכם ולקבל גישה מהירה לתכולתה. השתמשו בפריט תפריט **חבר תיקייה** ובחרו תיקייה הנמצאת במכשיר שלכם. הקישו **בוצע**, והאפליקציה יוצרת קישור לתיקייה זו עם גישת קריאה / כתיבה, המאפשרת לכם לנהל קבצים ישירות מאפליקציה זו. לניתוק תיקייה הנמצאת במכשיר שלכם, הקישו על כפתור **עוד פעולות** ובחרו **לנתק**.
@@ -137,7 +137,7 @@ readingTime: 8
 - **למחוק** — הסירו את הקובץ או התיקייה שנבחרו מהמכשיר. **פעולה זו בלתי הפיכה.**
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="מצב בחירה בקבצים מקומיים ב-Flacbox" image="/docs/guide/flacbox/img/local-files-selection-mode.webp" >}}
+  {{< ls-card title="" subtitle="מצב בחירה בקבצים מקומיים ב-Flacbox" image="/docs/guide/flacbox/img/local-files-selection-mode.webp" >}}
 {{< /cards >}}
 
 ## תפריט אפשרויות
@@ -161,7 +161,7 @@ readingTime: 8
 - **למחוק** — מחקו את הקובץ או התיקייה מהמכשיר. **פעולה זו בלתי הפיכה** ולא ניתן לשחזר קבצים שנמחקו.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="עוד פעולות עבור קובץ מקומי ב-Flacbox" image="/docs/guide/flacbox/img/local-files-more-actions-for-file.webp" >}}
+  {{< ls-card title="" subtitle="עוד פעולות עבור קובץ מקומי ב-Flacbox" image="/docs/guide/flacbox/img/local-files-more-actions-for-file.webp" >}}
 {{< /cards >}}
 
 ## תיקיות לא מקוונות

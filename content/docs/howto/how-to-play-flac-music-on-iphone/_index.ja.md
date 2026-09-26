@@ -8,7 +8,7 @@ tags: ["音楽", "クラウド", "プレーヤー", "ダウンローダー", "�
 readingTime: 8
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **要点:** iPhoneでFLACを再生するには、AppleのミュージックアプリがFLACに対応していないため、サードパーティのプレーヤーが必要です。[Flacbox](/products/flacbox)（無料）をインストールし、Wi-Fi DriveまたはUSBでファイルを転送するか、クラウドストレージやNASを接続します。あなたのFLACライブラリは、USB DACを通じて最大384 kHz、32-bitのフル品質で再生されます。Flacboxはさらに、FLAC、DSD、ALAC、APE、WAV、OGG、OPUSを含む120以上のフォーマットを再生し、10バンドイコライザー、リアルタイムエフェクトを備えたプロ仕様のBASSオーディオエンジン、DSPプロセッサー、全画面の音楽ビジュアライザーを追加します。
@@ -34,7 +34,7 @@ Flacboxは、iPhone、iPad、Mac向けのハイレゾ音楽プレーヤーです
 
 Flacboxは無料でダウンロードでき、iPhone、iPad、Macで動作します。
 
-{{< app-details product="flacbox" >}}
+{{< ls-app-details product="flacbox" >}}
 
 ### ステップ2. FLACファイルを取り込む
 
@@ -82,7 +82,7 @@ FlacboxはFLACに加えてFFmpegを組み込んでいるため、iOSが単独で
 Flacboxには、Acoustic、Bass Booster、Rock、Pop、Jazz、Classical、DanceといったiPod風のプリセットを備えた10バンドグラフィックイコライザーが含まれています。クリッピングせずに音量の小さい楽曲を持ち上げるプリアンプがあり、自分のプリセットを保存できます。インイヤーモニター、HomePod、カーステレオ向けに調整しましょう。詳しい手順については、[イコライザーガイド](/docs/howto/how-to-use-the-audio-equalizer-on-your-iphone-ipad-mac-with-evermusic-and-flacbox)を参照してください。
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox オーディオプレーヤー イコライザー" image="/docs/guide/flacbox/img/audio-player-equalizer.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox オーディオプレーヤー イコライザー" image="/docs/guide/flacbox/img/audio-player-equalizer.webp" >}}
 {{< /cards >}}
 
 ## リアルタイムオーディオエフェクト
@@ -106,7 +106,7 @@ Flacboxには、放送品質のEBU R128ラウドネス規格に基づく自動�
 Flacboxには、あなたの音楽に合わせて動く色彩豊かなビジュアルを描く内蔵の音楽ビジュアライザーがあります。有名なMilkdropエンジン（projectM）を500種類のプリセットとともに使用し、iPhone、iPad、MacでOpenGLによって描画されます。プレーヤーからその他のアクションボタン、次にビジュアリゼーションをタップして開きます。プリセットを選ぶか、Autoモードを使って30秒ごとに滑らかなクロスフェードで切り替えます。ステップごとの手順については、[音楽ビジュアライザーをオンにする方法](/docs/howto/how-to-turn-on-a-music-visualizer-while-playing-music-on-iphone-ipad-mac)のガイドを参照してください。
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox 音楽ビジュアライザー (Milkdrop and projectM)" image="/docs/howto/how-to-turn-on-a-music-visualizer-while-playing-music-on-iphone-ipad-mac/music-visualizer-starfield-sectors-preset.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox 音楽ビジュアライザー (Milkdrop and projectM)" image="/docs/howto/how-to-turn-on-a-music-visualizer-while-playing-music-on-iphone-ipad-mac/music-visualizer-starfield-sectors-preset.webp" >}}
 {{< /cards >}}
 
 ## クラウド、NAS、オフライン再生
@@ -127,7 +127,7 @@ iCloud Drive、Google Drive、Dropbox、OneDrive、Box、MEGA、pCloud、Proton 
 
 Flacboxは無料でダウンロードできます。Premiumは、クラウドアカウント、プレイリスト、オフラインフォルダーに関する無料版の制限を解除し、買い切りのライフタイム購入、または月額もしくは年額のサブスクリプションとして、ファミリー共有付きで利用できます。
 
-{{< app-details product="flacbox" >}}
+{{< ls-app-details product="flacbox" >}}
 
 ## オプション2: ミュージックアプリ用にFLACをALACに変換する
 
@@ -141,34 +141,34 @@ Flacboxは無料でダウンロードできます。Premiumは、クラウドア
 
 ## よくある質問
 
-{{% details title="iPhoneはFLACファイルをネイティブで再生できますか？" closed="true" %}}
+{{% ls-details title="iPhoneはFLACファイルをネイティブで再生できますか？" closed="true" %}}
 限定的な形でのみ可能です。ファイルアプリはiOS 11以降、単一のFLACファイルをプレビューできますが、ライブラリも、プレイリストも、再生キューも、イコライザーも、クラウドストリーミングもありません。本格的に聴くには、Flacboxのようなプレーヤーアプリを使ってください。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="iPhoneで24-bitや96kHz（またはそれ以上）のFLACを再生できますか？" closed="true" %}}
+{{% ls-details title="iPhoneで24-bitや96kHz（またはそれ以上）のFLACを再生できますか？" closed="true" %}}
 はい。Flacboxは最大384 kHzのハイレゾ出力に対応しています。48 kHzを超える本来の解像度で再生するには、外付けのUSB DACを接続してください。iPhoneの内蔵出力はすべてのアプリでオーディオをリサンプリングするためです。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="FlacboxはFLACを別のフォーマットに変換しますか？" closed="true" %}}
+{{% ls-details title="FlacboxはFLACを別のフォーマットに変換しますか？" closed="true" %}}
 いいえ。FlacboxはFLACを変換せずに、本来のロスレス品質で再生します。エフェクトとDSPは再生中にライブで適用されるだけで、ファイルを変更することは一切ありません。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="FLACをALACに変換すると品質は落ちますか？" closed="true" %}}
+{{% ls-details title="FLACをALACに変換すると品質は落ちますか？" closed="true" %}}
 いいえ。FLACとALACはどちらもロスレスなので、変換はビットパーフェクトです。時間を費やし、利便性を手放すだけです。維持すべきライブラリが2つになり、編集後には再同期が必要になるからです。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Flacboxはどのオーディオフォーマットに対応していますか？" closed="true" %}}
+{{% ls-details title="Flacboxはどのオーディオフォーマットに対応していますか？" closed="true" %}}
 120以上のフォーマットで、FLAC、DSD（DSFとDFF）、ALAC、APE、WAV、AIFF、WV、OGG、OPUS、MP3、AAC、M4A、WMA、さらにMOD、XM、IT、S3MのようなトラッカーとMOD音楽も含みます。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Flacboxにはイコライザー、エフェクト、ビジュアライザーがありますか？" closed="true" %}}
+{{% ls-details title="Flacboxにはイコライザー、エフェクト、ビジュアライザーがありますか？" closed="true" %}}
 はい。プリセット付きの10バンドイコライザーとプリアンプがあります。また、11のリアルタイムエフェクト（リバーブ、ディレイ、マルチタップエコー、クロスフィード、コンプレッサー、chorus、flanger、phaser、auto-wah、distortion、stereo rotation）を備えたプロ仕様のBASSエンジンに加え、EBU R128音量レベリング、14フィルターのDSPプロセッサー、500種類のプリセットを備えた全画面のMilkdropビジュアライザーがあります。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="NASやクラウドからFLACをストリーミングできますか？" closed="true" %}}
+{{% ls-details title="NASやクラウドからFLACをストリーミングできますか？" closed="true" %}}
 はい。Flacboxは30以上のクラウドサービス、およびSMB、WebDAV、DLNA、FTP、SFTP、NFS経由のNASやコンピューターに接続します。iPhoneにファイルをコピーすることなくライブラリ全体を利用でき、いつでもトラックをダウンロードしてオフライン再生できます。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Flacboxは本当に無料ですか？" closed="true" %}}
+{{% ls-details title="Flacboxは本当に無料ですか？" closed="true" %}}
 Flacboxは無料でダウンロードでき、イコライザー、クラウドストリーミング、オフライン再生といった主要機能を利用できます。Premiumは、クラウドアカウント、プレイリスト、オフラインフォルダーに関する無料版の制限を解除し、買い切りのライフタイム購入、または月額もしくは年額のサブスクリプションとして、ファミリー共有付きで提供されます。
-{{% /details %}}
+{{% /ls-details %}}

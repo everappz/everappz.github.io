@@ -12,7 +12,7 @@ authors:
     image: "/images/about/artem-meleshko-founder-everappz.webp"
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 **Pe scurt:** [Flacbox 7.6](/products/flacbox) este cea mai mare actualizare de până acum pentru playerul audio hi-res pe iPhone, iPad și Mac și este construit în jurul unui **motor audio BASS™** complet nou pentru ascultare lossless și de înaltă rezoluție. Poți selecta motorul BASS™ ca nucleu alternativ de redare pentru a debloca un lanț complet de **efecte audio în timp real**, un **procesor DSP cu 14 filtre**, un **vizualizator muzical live pe tot ecranul** și redarea clasicei **muzici tracker și MOD** (MOD, XM, IT, S3M, MTM, UMX, MO3). Actualizarea adaugă și **nivelare automată a volumului bazată pe intensitate sonoră**, o **suită de studio cu unsprezece efecte** (reverb, delay, ecou multi-tap, chorus, flanger, phaser, auto-wah, distorsiune, compresor, rotație stereo și crossfeed), un **design reînnoit pentru efecte și egalizator** cu slidere moderne în stil sticlă și **îmbunătățiri CarPlay**, inclusiv setări DSP în mașină și controale mai precise pentru ecranul de blocare, ceas și mașină. În culise: o fundație de streaming mai fiabilă, o gestionare mai bună a tipurilor de fișiere, o localizare mai amplă și numeroase corecții de stabilitate și performanță.
 
@@ -139,50 +139,50 @@ Flacbox 7.6 este construit în jurul unei singure idei: **biblioteca ta lossless
 
 ## Întrebări frecvente
 
-{{% details title="Ce este nou în Flacbox 7.6?" closed="true" %}}
+{{% ls-details title="Ce este nou în Flacbox 7.6?" closed="true" %}}
 Flacbox 7.6 adaugă un nou **motor audio BASS™** profesional pe care îl poți selecta ca nucleu alternativ de redare, **nivelare automată a volumului bazată pe intensitate sonoră**, o **suită de studio cu unsprezece efecte** (reverb, delay, ecou multi-tap, chorus, flanger, phaser, auto-wah, distorsiune, compresor, rotație stereo și crossfeed), un **procesor DSP cu 14 filtre în timp real**, un **vizualizator muzical în timp real pe tot ecranul**, redare nativă **tracker și MOD** (MOD, XM, IT, S3M, MTM, UMX, MO3), un **design reînnoit pentru efecte și egalizator** și **îmbunătățiri CarPlay**. Include, de asemenea, o fundație de streaming mai fiabilă, o gestionare mai bună a tipurilor de fișiere, o localizare mai amplă și numeroase corecții de stabilitate și performanță.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Ce este noul motor audio BASS™ din Flacbox?" closed="true" %}}
+{{% ls-details title="Ce este noul motor audio BASS™ din Flacbox?" closed="true" %}}
 Motorul audio [BASS™](https://www.un4seen.com), construit pe biblioteca audio BASS™ de la un4seen Developments, este un nucleu de redare profesional pe care îl poți alege ca **alternativă la motorul existent al Flacbox**. Selectarea lui deblochează un lanț complet de efecte audio în timp real, un procesor DSP și vizualizare live și adaugă redarea clasicei muzici tracker și MOD. Redă biblioteca ta lossless și hi-res existentă (FLAC, DSD, ALAC, APE și altele) cu **reeșantionare de înaltă calitate** și **control precis al tonului și tempoului**. Poți comuta oricând înapoi la motorul clasic.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Ce formate audio și tipuri tracker/MOD redă Flacbox 7.6?" closed="true" %}}
+{{% ls-details title="Ce formate audio și tipuri tracker/MOD redă Flacbox 7.6?" closed="true" %}}
 Flacbox rămâne un player hi-res și lossless, gestionând **FLAC, DSD, APE, ALAC, WAV, AIFF, MP3, AAC, Opus** și altele. Noutate în 7.6, motorul BASS™ redă și clasica **muzică tracker și de module**: **MOD, XM, IT, S3M, MTM, UMX și MO3** — formatele de tip pattern-și-mostră folosite în muzica chiptune și demoscene, pe care majoritatea playerelor de iPhone nu le pot deschide.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Cum funcționează nivelarea automată a volumului în Flacbox?" closed="true" %}}
+{{% ls-details title="Cum funcționează nivelarea automată a volumului în Flacbox?" closed="true" %}}
 Flacbox 7.6 folosește **măsurarea intensității sonore EBU R128** (standardul ITU-R BS.1770) pentru a menține piesele din albume diferite la un volum perceput constant, astfel încât să nu fie nevoie să ajustezi volumul între melodii. Pentru **fișierele locale, biblioteca ta este prescanată**, așa că redarea începe deja nivelată — nu există nicio întârziere în timp ce aplicația măsoară intensitatea sonoră după ce începe o piesă. Sunt disponibile patru presetări — **Ușor** (−20 LUFS), **Standard** (−16 LUFS), **Puternic** (−14 LUFS) și **Noapte** (−23 LUFS) — și funcționează în biblioteci mixte, compilații și sesiuni aleatorii.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Ce efecte audio sunt în Flacbox 7.6?" closed="true" %}}
+{{% ls-details title="Ce efecte audio sunt în Flacbox 7.6?" closed="true" %}}
 Unsprezece efecte în timp real pe care le poți stivui și regla în timp ce muzica se redă: **reverb, delay, ecou multi-tap, chorus, flanger, phaser, auto-wah, distorsiune, compresor, rotație stereo și crossfeed**. Fiecare efect are **propriul ecran, o bibliotecă de presetări și un comutator instant pornit/oprit**, iar Flacbox îți reține setările între sesiuni. Crossfeed în special face ca înregistrările puternic panoramate să sune mai natural la căști.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Ce este procesorul DSP și ce filtre include?" closed="true" %}}
+{{% ls-details title="Ce este procesorul DSP și ce filtre include?" closed="true" %}}
 Procesorul DSP îți permite să **îți construiești propriul lanț de semnal în timp real din 14 filtre**: gain, trece-jos, trece-sus, filtre trece-bandă și notch, EQ de vârf, EQ low-shelf și high-shelf, saturație soft-clip, bit crusher, tremolo, delay, ring modulator și lățime stereo. Fiecare filtru are **presetări și un comutator instant pornit/oprit**, așa că poți corecta o cameră, domoli înregistrările aspre sau proiecta un ton complet personalizat.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Ce este crossfeed și de ce l-aș folosi la căști?" closed="true" %}}
+{{% ls-details title="Ce este crossfeed și de ce l-aș folosi la căști?" closed="true" %}}
 Crossfeed amestecă o cantitate mică, filtrată, din fiecare canal stereo în celălalt, așa cum urechile tale aud în mod natural difuzoare reale într-o cameră. La căști, acest lucru reduce separarea exagerată, „în capul tău”, a înregistrărilor puternic panoramate și face ascultarea îndelungată mai confortabilă. Este deosebit de eficient pe mixajele stereo mai vechi din anii 1960 și 1970.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Vizualizatorul muzical Flacbox funcționează pe toate dispozitivele?" closed="true" %}}
+{{% ls-details title="Vizualizatorul muzical Flacbox funcționează pe toate dispozitivele?" closed="true" %}}
 Da. **Vizualizatorul muzical în timp real** afișează imagini animate pe tot ecranul care reacționează live la muzica ta, cu o bibliotecă mare de presetări din care poți alege sau pe care le poți lăsa să se rotească automat. Este **disponibil în toate motoarele de redare, pe toate dispozitivele tale**, iar un **preventiv de adormire a ecranului** încorporat menține afișajul treaz, astfel încât imaginile să nu se întrerupă în timpul unei melodii.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Pot schimba tonul și tempoul fără a-l afecta pe celălalt?" closed="true" %}}
+{{% ls-details title="Pot schimba tonul și tempoul fără a-l afecta pe celălalt?" closed="true" %}}
 Da. Când folosești noul motor BASS™, Flacbox 7.6 oferă **control precis și independent al tonului și tempoului** — schimbă viteza unei piese fără a-i schimba tonalitatea, sau modifică tonalitatea fără a schimba viteza. Este util pentru exersare, transcriere și ascultare în stil DJ.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Ce s-a îmbunătățit în CarPlay în Flacbox 7.6?" closed="true" %}}
+{{% ls-details title="Ce s-a îmbunătățit în CarPlay în Flacbox 7.6?" closed="true" %}}
 CarPlay include acum **setări DSP**, ca să poți accesa configurația din mașină, **afișarea corectată a copertei albumului și Now Playing** și **controale mai precise pentru ecranul de blocare, Apple Watch și mașină** care rămân sincronizate cu redarea. Combinat cu fundația de streaming mai fiabilă, ascultarea bibliotecii tale lossless pe drum este mai fluidă.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Efectele, DSP și egalizatorul funcționează cu streaming din cloud?" closed="true" %}}
+{{% ls-details title="Efectele, DSP și egalizatorul funcționează cu streaming din cloud?" closed="true" %}}
 Da. Efectele, filtrele DSP, egalizatorul și nivelarea volumului rulează în timp real în interiorul motorului de redare BASS™, așa că se aplică la tot ceea ce redă Flacbox — **fișiere locale, drive-uri cloud (iCloud Drive, Google Drive, Dropbox, OneDrive și altele), servere media și partajări de rețea** — fără nicio re-encodare a fișierelor tale.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Flacbox 7.6 este o actualizare gratuită și ce dispozitive acceptă?" closed="true" %}}
+{{% ls-details title="Flacbox 7.6 este o actualizare gratuită și ce dispozitive acceptă?" closed="true" %}}
 Da. Flacbox se **descarcă gratuit** din App Store, iar 7.6 este o **actualizare gratuită** pentru utilizatorii existenți, cu upgrade-uri opționale în aplicație pentru funcții avansate. Rulează pe **iPhone, iPad și Mac**. CarPlay necesită un vehicul sau o unitate compatibilă CarPlay.
-{{% /details %}}
+{{% /ls-details %}}

@@ -7,7 +7,7 @@ tags: ["glazba", "audio", "ekvalizator", "10 pojaseva", "pojačanje", "konfigura
 keywords: ["audio ekvalizator iPhone", "Evermusic EQ predlošci", "Flacbox 10-pojasni ekvalizator", "podešavanje basa visokih tonova iOS", "ekvalizator Mac glazbena aplikacija", "pojačavanje zvuka predpojačalom", "prilagođeni zvučni predlošci"]
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **Sažetak:** Evermusic i Flacbox uključuju profesionalni 10-pojasni audio ekvalizator s predlošcima (Rock, Hip-Hop, Bass Booster i više), stvaranjem prilagođenih predložaka i predpojačalom za pojačavanje glasnoće. Dostupno na iPhoneu, iPadu i Macu.
@@ -105,26 +105,26 @@ Unaprijedite svoje glazbeno iskustvo, prilagodite zvuk za bilo koji scenarij i u
 
 ## Često postavljana pitanja
 
-{{% details title="Radi li ekvalizator sa svim audio formatima?" closed="true" %}}
+{{% ls-details title="Radi li ekvalizator sa svim audio formatima?" closed="true" %}}
 Da. 10-pojasni EQ u Evermusic i Flacbox radi s MP3, FLAC, AAC, WAV, ALAC, OGG i svim ostalim podržanim formatima.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Hoće li se EQ postavke primjenjivati na sve pjesme?" closed="true" %}}
+{{% ls-details title="Hoće li se EQ postavke primjenjivati na sve pjesme?" closed="true" %}}
 Da. Kada aktivirate ekvalizator i odaberete predložak, primjenjuje se na svu reprodukciju dok ga ne promijenite ili isključite.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Mogu li stvoriti više od jednog prilagođenog predloška?" closed="true" %}}
+{{% ls-details title="Mogu li stvoriti više od jednog prilagođenog predloška?" closed="true" %}}
 Da. Možete stvarati, spremati i prebacivati se između više prilagođenih predložaka. Koristite značajku izvoza za izradu sigurnosne kopije.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Uzrokuje li predpojačalo distorziju?" closed="true" %}}
+{{% ls-details title="Uzrokuje li predpojačalo distorziju?" closed="true" %}}
 Može ako je postavljeno previsoko. Pratite indikatore razine zvuka tijekom podešavanja. Ako razine ograničavaju (dotiču vrh), malo smanjite pojačanje predpojačala.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Je li ekvalizator dostupan u oba, Evermusic i Flacbox?" closed="true" %}}
+{{% ls-details title="Je li ekvalizator dostupan u oba, Evermusic i Flacbox?" closed="true" %}}
 Da. Obje aplikacije uključuju isti 10-pojasni ekvalizator s predlošcima, prilagođenim predlošcima i predpojačalom.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Mogu li podijeliti svoje EQ predloške s nekim drugim?" closed="true" %}}
+{{% ls-details title="Mogu li podijeliti svoje EQ predloške s nekim drugim?" closed="true" %}}
 Da. Koristite opciju Izvoz konfiguracije za spremanje predložaka u datoteku, a zatim je podijelite. Druga osoba može je uvesti koristeći Uvoz konfiguracije.
-{{% /details %}}
+{{% /ls-details %}}

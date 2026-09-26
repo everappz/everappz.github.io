@@ -7,7 +7,7 @@ keywords: ["máy chủ DLNA iPhone", "máy chủ UPnP iPad", "cách thiết lậ
 readingTime: 9
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 DLNA (còn gọi là UPnP AV) là cỗ máy thầm lặng đứng sau hầu hết các smart TV. Đó là một ngôn ngữ chung cho phép TV hay trình phát media tìm thấy một thư viện media trong cùng mạng Wi-Fi và phát từ đó, mà không cần cài gì trên TV. Nếu iPhone hoặc iPad của bạn có thể đóng vai trò thư viện đó, ảnh, video và nhạc của bạn sẽ tự hiện lên màn hình lớn.
 
@@ -127,44 +127,44 @@ DLNA trao tập tin cho TV nguyên trạng, và TV phải có khả năng giải
 
 ## Câu hỏi thường gặp
 
-{{% details title="DLNA và UPnP khác nhau thế nào?" closed="true" %}}
+{{% ls-details title="DLNA và UPnP khác nhau thế nào?" closed="true" %}}
 Chúng liên hệ chặt chẽ với nhau. UPnP là chuẩn mạng nền tảng, còn DLNA là hồ sơ media xây dựng trên đó mà các TV và trình phát dùng để chia sẻ và phát ảnh, video cùng nhạc. Trong sử dụng hằng ngày, hai từ này có thể thay thế cho nhau. Khi bạn bật TV và trung tâm media trong Everdisk, thiết bị của bạn trở thành một máy chủ media DLNA/UPnP mà bất kỳ máy khách DLNA nào cũng duyệt được.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Tôi có phải cài gì trên TV không?" closed="true" %}}
+{{% ls-details title="Tôi có phải cài gì trên TV không?" closed="true" %}}
 Không. Nếu TV của bạn hỗ trợ DLNA, nó đã có sẵn một trình phát media có thể tìm thấy thiết bị của bạn trên Wi-Fi. Bạn chỉ cần cài Everdisk trên chiếc iPhone hoặc iPad chứa nội dung. Nếu TV của bạn không hỗ trợ DLNA, hãy cài một trình phát như VLC hoặc Kodi trên một thiết bị nối với nó.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Vì sao iPhone của tôi không hiện trên TV?" closed="true" %}}
+{{% ls-details title="Vì sao iPhone của tôi không hiện trên TV?" closed="true" %}}
 Kiểm tra xem cả hai thiết bị có ở cùng mạng Wi-Fi không. Mạng khách cùng một số mạng văn phòng hay khách sạn chặn các thiết bị nhìn thấy nhau, điều đó làm DLNA ngừng hoạt động. Sau đó xác nhận Everdisk đang mở và việc chia sẻ đã bắt đầu, và TV và trung tâm media đang bật trong Cài đặt, Chia sẻ, Kết nối. Nếu TV vẫn không tìm thấy nó, hãy thêm máy chủ bằng tay bằng địa chỉ mô tả thiết bị kết thúc bằng /device-desc.xml.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Phát trực tuyến DLNA có cần mật khẩu không?" closed="true" %}}
+{{% ls-details title="Phát trực tuyến DLNA có cần mật khẩu không?" closed="true" %}}
 Không. DLNA luôn để mở cho bất kỳ ai trong cùng mạng Wi-Fi khi nó bật, đó là lý do không có phần đăng nhập ở phía TV. Điều đó ổn trên một mạng gia đình bạn tin tưởng. Trên một mạng bạn không tin tưởng, hãy tắt TV và trung tâm media khi xong, hoặc dùng máy chủ SMB có mã hóa thay thế.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Tôi có thể phát lên Chromecast hoặc Roku không?" closed="true" %}}
+{{% ls-details title="Tôi có thể phát lên Chromecast hoặc Roku không?" closed="true" %}}
 Chromecast và Roku không đóng vai trò trình phát DLNA ngay từ đầu, nên chúng sẽ không tìm thấy thiết bị của bạn trực tiếp. Cách xoay xở là cài một ứng dụng DLNA có thể cast, chẳng hạn VLC hoặc BubbleUPnP trên điện thoại, và đẩy việc phát lên Chromecast hoặc Roku từ đó. Trên hầu hết các smart TV khác, DLNA hoạt động mà không cần bất cứ thứ gì trong số này.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Một video phát không có tiếng hoặc không chịu mở. Tôi làm gì được?" closed="true" %}}
+{{% ls-details title="Một video phát không có tiếng hoặc không chịu mở. Tôi làm gì được?" closed="true" %}}
 Đó là một định dạng mà TV không giải mã được. Mở Cài đặt, Chia sẻ, Video trong Everdisk và hạ Chất lượng xuống để ứng dụng chuyển đổi video sang một định dạng tương thích hơn ngay trong lúc phát trực tuyến. Bạn cũng có thể mở cùng tập tin đó qua liên kết trình duyệt, vốn xử lý được nhiều định dạng hơn.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Tôi có thể phát nhạc chứ không chỉ video không?" closed="true" %}}
+{{% ls-details title="Tôi có thể phát nhạc chứ không chỉ video không?" closed="true" %}}
 Được. Bật Cho phép truy cập toàn bộ Thư viện Nhạc, hoặc thêm các bài hát cụ thể, rồi bắt đầu chia sẻ. Các bài hát của bạn hiện ra trên bất kỳ loa DLNA, bộ thu AV hoặc TV nào, kèm ảnh bìa và thông tin bài hát. Nhạc luôn được chia sẻ ở chất lượng gốc.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Ứng dụng có phải luôn mở trong lúc tôi xem không?" closed="true" %}}
+{{% ls-details title="Ứng dụng có phải luôn mở trong lúc tôi xem không?" closed="true" %}}
 Có. iPhone của bạn đang đóng vai trò máy chủ, và iOS tạm dừng các ứng dụng bị đẩy hẳn xuống nền quá lâu. Giữ Everdisk trên màn hình trong lúc bạn phát trực tuyến, và cắm nguồn điện cho những buổi xem dài.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Làm sao để phát từ iPhone này sang iPad khác?" closed="true" %}}
+{{% ls-details title="Làm sao để phát từ iPhone này sang iPad khác?" closed="true" %}}
 Bắt đầu chia sẻ trên iPhone, rồi mở Everdisk trên iPad và vào thẻ Thiết bị. iPhone hiện ra dưới Thiết bị khả dụng như một máy chủ media. Chạm vào để duyệt và phát. Everdisk hoạt động vừa như máy khách DLNA vừa như máy chủ, nên bạn không cần một ứng dụng khác.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Everdisk có miễn phí không?" closed="true" %}}
+{{% ls-details title="Everdisk có miễn phí không?" closed="true" %}}
 Có, Everdisk tải miễn phí và máy chủ media DLNA được bao gồm sẵn. Một tùy chọn mua Premium Lifetime một lần duy nhất thêm các tính năng bổ sung như chuyển đổi ảnh và video cho các TV cũ, cổng tùy chỉnh và nhiều hơn nữa. Bạn có thể thiết lập và dùng phát trực tuyến DLNA mà không phải trả tiền.
-{{% /details %}}
+{{% /ls-details %}}
 
 Sẵn sàng thử chưa? [Tải Everdisk từ App Store](https://apps.apple.com/app/apple-store/id6751851132?pt=95781850&ct=everappzcom&mt=8) và phát album đầu tiên lên TV chỉ trong vài phút. Có câu hỏi hay góp ý? Gửi email cho chúng tôi tại **support@everappz.com**.

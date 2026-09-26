@@ -21,7 +21,7 @@ Auf diesem Bildschirm können Sie auf die Anwendungseinstellungen zugreifen und 
 - **Rechtliches & Datenschutz** — Nutzungsbedingungen, Datenschutzrichtlinie, Rechtliche Hinweise, Analytik & Datenerfassung
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evertag Settings Screen" image="/docs/guide/evertag/img/settings.webp" >}}
+  {{< ls-card title="" subtitle="Evertag Settings Screen" image="/docs/guide/evertag/img/settings.webp" >}}
 {{< /cards >}}
 
 ## Auf Premium upgraden
@@ -63,7 +63,7 @@ Aktiviert den Passwortschutzbildschirm, wenn Sie Ihre Anwendungsdaten schützen 
 Der Dateimanager unterstützt den Zugriff auf verbundene Cloud-Speicherkonten und bietet Stapeloperationen für die schnelle Verwaltung mehrerer Dateien.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evertag Settings File Manager Screen" image="/docs/guide/evertag/img/settings-file-manager.webp" >}}
+  {{< ls-card title="" subtitle="Evertag Settings File Manager Screen" image="/docs/guide/evertag/img/settings-file-manager.webp" >}}
 {{< /cards >}}
 
 ### Dateiübertragungen
@@ -103,7 +103,7 @@ Löschen Sie den Cache-Ordner der Anwendung, um Speicherplatz zurückzugewinnen.
 In diesem Abschnitt können Sie den integrierten Audio-Tags-Editor konfigurieren.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evertag Settings Tag Editor Screen" image="/docs/guide/evertag/img/settings-tag-editor.webp" >}}
+  {{< ls-card title="" subtitle="Evertag Settings Tag Editor Screen" image="/docs/guide/evertag/img/settings-tag-editor.webp" >}}
 {{< /cards >}}
 
 ### Albumcover-Skalierung
@@ -136,7 +136,7 @@ In diesem Abschnitt können Sie die WiFi Drive-Funktion aktivieren, mit der Sie 
 In diesem Abschnitt können Sie die Benutzeroberflächen-Einstellungen nach Ihren Wünschen anpassen.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evertag Settings Personalization Screen" image="/docs/guide/evertag/img/settings-personalization.webp" >}}
+  {{< ls-card title="" subtitle="Evertag Settings Personalization Screen" image="/docs/guide/evertag/img/settings-personalization.webp" >}}
 {{< /cards >}}
 
 ### Anwendungssymbol

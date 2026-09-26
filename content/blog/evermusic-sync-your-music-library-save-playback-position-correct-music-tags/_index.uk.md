@@ -12,7 +12,7 @@ authors:
     image: "/images/about/artem-meleshko-founder-everappz.webp"
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 ![](/blog/evermusic-sync-your-music-library-save-playback-position-correct-music-tags/21260c_641f376e779e47d4927b43c210d3c87f~mv2.jpeg)
 
@@ -67,22 +67,22 @@ Evermusic виявляє та виправляє недійсні або неп�
 
 ## Часті запитання
 
-{{% details title="Чи працює автосинхронізація Evermusic з усіма хмарними сервісами?" closed="true" %}}
+{{% ls-details title="Чи працює автосинхронізація Evermusic з усіма хмарними сервісами?" closed="true" %}}
 Так. Автоматична синхронізація працює з Dropbox, Google Drive, OneDrive, MEGA, WebDAV та SMB. Виберіть папки для відстеження, і Evermusic підтримуватиме вашу бібліотеку актуальною.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Чи може Evermusic зберегти позицію моєї аудіокниги?" closed="true" %}}
+{{% ls-details title="Чи може Evermusic зберегти позицію моєї аудіокниги?" closed="true" %}}
 Так. Увімкніть збереження позиції відтворення в налаштуваннях звуку. Evermusic запам'ятовує, де ви зупинилися для кожного файлу, тому ви можете продовжити без ручних закладок.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Як працює фонове читання метаданих?" closed="true" %}}
+{{% ls-details title="Як працює фонове читання метаданих?" closed="true" %}}
 Evermusic читає теги ID3 та метадані файлів у фоновому режимі, поки ви використовуєте інші функції. Він автоматично організовує бібліотеку за виконавцем, альбомом та жанром.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Чи виправить Evermusic пошкоджені музичні теги?" closed="true" %}}
+{{% ls-details title="Чи виправить Evermusic пошкоджені музичні теги?" closed="true" %}}
 Так. Функція автоматичного виправлення тегів перевіряє ваші файли по онлайн-базах даних і виправляє недійсні, неповні або відсутні метадані ID3.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Evermusic безкоштовний для завантаження?" closed="true" %}}
+{{% ls-details title="Evermusic безкоштовний для завантаження?" closed="true" %}}
 Evermusic безкоштовний для завантаження з додатковими преміум-функціями, доступними через покупку в додатку.
-{{% /details %}}
+{{% /ls-details %}}

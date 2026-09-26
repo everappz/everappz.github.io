@@ -12,7 +12,7 @@ authors:
     image: "/images/about/artem-meleshko-founder-everappz.webp"
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 ![](/blog/audio-streaming-and-caching-in-ios-using-avassetresourceloader-and-avplayer/diagram.png)
 
@@ -140,18 +140,18 @@ Phương pháp này hỗ trợ engine phát trực tuyến âm thanh trong [Ever
 
 ## Câu hỏi thường gặp
 
-{{% details title="Khi nào nên dùng AVAssetResourceLoaderDelegate thay vì URL trực tiếp?" closed="true" %}}
+{{% ls-details title="Khi nào nên dùng AVAssetResourceLoaderDelegate thay vì URL trực tiếp?" closed="true" %}}
 Sử dụng khi dịch vụ đám mây yêu cầu header ủy quyền tùy chỉnh, khi bạn cần lưu bộ nhớ đệm đĩa cho âm thanh phát trực tuyến, hoặc khi bạn muốn kiểm soát chi tiết cách dữ liệu được tải và đệm.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Cách tiếp cận này có hoạt động với Swift không?" closed="true" %}}
+{{% ls-details title="Cách tiếp cận này có hoạt động với Swift không?" closed="true" %}}
 Có. Giao thức `AVAssetResourceLoaderDelegate` hoạt động theo cách tương tự trong Swift. Các ví dụ Objective-C ở đây có thể dịch trực tiếp.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Tôi có thể dùng điều này cho phát trực tuyến video không?" closed="true" %}}
+{{% ls-details title="Tôi có thể dùng điều này cho phát trực tuyến video không?" closed="true" %}}
 Có. `AVAssetResourceLoaderDelegate` hoạt động với bất kỳ loại phương tiện nào mà AVPlayer hỗ trợ, bao gồm cả video. Cách tiếp cận scheme tùy chỉnh tương tự cũng áp dụng.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Điều này có hỗ trợ phát lại âm thanh nền không?" closed="true" %}}
+{{% ls-details title="Điều này có hỗ trợ phát lại âm thanh nền không?" closed="true" %}}
 Có, miễn là bạn bật chế độ nền "Audio, AirPlay, and Picture in Picture" trong khả năng của ứng dụng và cấu hình `AVAudioSession` đúng cách.
-{{% /details %}}
+{{% /ls-details %}}

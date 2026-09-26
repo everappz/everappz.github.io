@@ -7,7 +7,7 @@ tags: ["widgetek", "ios17", "dinamikus", "most játszott", "kezdőképernyő", "
 keywords: ["Evermusic widget", "Flacbox widget", "Most játszott widget iOS", "macOS Sonoma asztali widget", "hangkönyvjelzők iPhone", "zenei widget Evermusic", "lejátszásvezérlés kezdőképernyő", "dinamikus widgetek iOS 17"]
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **Röviden:** Az Evermusic és a Flacbox interaktív Most játszott widgeteket kínál iOS 17+ és macOS 14 Sonoma+ rendszereken. Vezérelheti a lejátszást, átugorhat számokat, hozzáadhat kedvenceket és hangkönyvjelzőket hozhat létre közvetlenül az iPhone kezdőképernyőjéről vagy a Mac asztaláról — az alkalmazás megnyitása nélkül.
@@ -78,22 +78,22 @@ Szívesen hallanánk az ötleteit! Keressen minket a [support@everappz.com](mail
 
 ## Gyakran ismételt kérdések
 
-{{% details title="Működnek a widgetek az alkalmazás megnyitása nélkül?" closed="true" %}}
+{{% ls-details title="Működnek a widgetek az alkalmazás megnyitása nélkül?" closed="true" %}}
 Igen. iOS 17-en és macOS 14 Sonomán a widget gombok interaktívak és közvetlenül vezérlik a lejátszást. Az alkalmazásnak nem kell az előtérben lennie.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Melyik widget méretet válasszam?" closed="true" %}}
+{{% ls-details title="Melyik widget méretet válasszam?" closed="true" %}}
 Válassza a Kicsit az alapvető lejátszás/szünet és kedvencek funkcióhoz. Válassza a Közepest, ha ugrás gombokat szeretne. Válassza a Nagyot, ha hangkönyvjelzőket is szeretne.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Használhatom a widgetet hangoskönyv folytatásához?" closed="true" %}}
+{{% ls-details title="Használhatom a widgetet hangoskönyv folytatásához?" closed="true" %}}
 Igen. Engedélyezze az "Audiolejátszó állapotának mentése" opciót a Beállítások-ban, és a widget folytatja a lejátszást az utolsó pozíciójából, még az alkalmazás bezárása után is.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Elérhetők a widgetek iPaden?" closed="true" %}}
+{{% ls-details title="Elérhetők a widgetek iPaden?" closed="true" %}}
 Igen. Az iPadOS 17 ugyanazokat az interaktív widgeteket támogatja, mint az iPhone.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Az Evermusic és a Flacbox is rendelkezik ezekkel a widgetekkel?" closed="true" %}}
+{{% ls-details title="Az Evermusic és a Flacbox is rendelkezik ezekkel a widgetekkel?" closed="true" %}}
 Igen. A Most játszott widget az Evermusic és a Flacbox alkalmazásban is elérhető azonos funkciókkal.
-{{% /details %}}
+{{% /ls-details %}}

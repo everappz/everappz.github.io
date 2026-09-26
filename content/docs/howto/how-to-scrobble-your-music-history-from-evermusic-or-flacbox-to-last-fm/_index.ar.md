@@ -17,7 +17,7 @@ keywords: [
 readingTime: 2
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **ملخص:** يتميز كل من Evermusic وFlacbox بخاصية سكروبل Last.fm المدمجة. قم بربط حسابك في قسم **الاتصالات**، وسيتم تسجيل كل مقطوعة تشغلها تلقائيًا -- حتى عندما تكون غير متصل بالإنترنت. الإعداد يستغرق أقل من دقيقة.
@@ -66,22 +66,22 @@ readingTime: 2
 
 ## الأسئلة الشائعة
 
-{{% details title="هل سكروبل Last.fm مجاني؟" closed="true" %}}
+{{% ls-details title="هل سكروبل Last.fm مجاني؟" closed="true" %}}
 نعم. يقدم Last.fm حسابًا مجانيًا يتضمن سكروبل كامل وسجل استماع وتوصيات أساسية. يضيف اشتراك Last.fm Pro المدفوع ميزات إضافية على موقع Last.fm لكنه غير مطلوب للسكروبل من Evermusic أو Flacbox.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="هل يعمل السكروبل عندما أكون غير متصل بالإنترنت؟" closed="true" %}}
+{{% ls-details title="هل يعمل السكروبل عندما أكون غير متصل بالإنترنت؟" closed="true" %}}
 نعم. يقوم كل من Evermusic وFlacbox بتخزين سجل التشغيل محليًا. عند عودتك للاتصال، تقوم التطبيقات تلقائيًا برفع السكروبلات المُعلقة إلى Last.fm.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="هل يتم تخزين بيانات اعتماد Last.fm بواسطة التطبيق؟" closed="true" %}}
+{{% ls-details title="هل يتم تخزين بيانات اعتماد Last.fm بواسطة التطبيق؟" closed="true" %}}
 لا. يحفظ التطبيق فقط رمز وصول آمن في سلسلة مفاتيح جهازك. لا يتم تخزين اسم المستخدم وكلمة المرور.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="هل يمكنني السكروبل من iPhone وMac؟" closed="true" %}}
+{{% ls-details title="هل يمكنني السكروبل من iPhone وMac؟" closed="true" %}}
 نعم. يدعم Evermusic وFlacbox سكروبل Last.fm على iPhone وiPad وMac. قم بربط حسابك على كل جهاز تريد تتبع التشغيل عليه.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="كيف أوقف السكروبل دون حذف حساب Last.fm الخاص بي؟" closed="true" %}}
+{{% ls-details title="كيف أوقف السكروبل دون حذف حساب Last.fm الخاص بي؟" closed="true" %}}
 افتح قسم الاتصالات في Evermusic أو Flacbox وانقر على فصل الاتصال بجانب Last.fm. سيؤدي ذلك إلى إزالة رمز الوصول وإيقاف السكروبل مع الحفاظ على حساب Last.fm وسجلك سليمين.
-{{% /details %}}
+{{% /ls-details %}}

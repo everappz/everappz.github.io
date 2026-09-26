@@ -21,7 +21,7 @@ readingTime: 14
 - **قانوني وخصوصية** — الشروط وسياسة الخصوصية والإشعارات القانونية وتحليلات وجمع البيانات
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="شاشة إعدادات Evertag" image="/docs/guide/evertag/img/settings.webp" >}}
+  {{< ls-card title="" subtitle="شاشة إعدادات Evertag" image="/docs/guide/evertag/img/settings.webp" >}}
 {{< /cards >}}
 
 ## الترقية إلى Premium
@@ -63,7 +63,7 @@ readingTime: 14
 يدعم مدير الملفات الوصول إلى حسابات التخزين السحابي المتصلة ويوفر عمليات دفعية لإدارة سريعة لملفات متعددة.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="شاشة إعدادات مدير ملفات Evertag" image="/docs/guide/evertag/img/settings-file-manager.webp" >}}
+  {{< ls-card title="" subtitle="شاشة إعدادات مدير ملفات Evertag" image="/docs/guide/evertag/img/settings-file-manager.webp" >}}
 {{< /cards >}}
 
 ### نقل الملفات
@@ -103,7 +103,7 @@ readingTime: 14
 في هذا القسم، يمكنك تهيئة محرر علامات الصوت المدمج.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="شاشة إعدادات محرر العلامات في Evertag" image="/docs/guide/evertag/img/settings-tag-editor.webp" >}}
+  {{< ls-card title="" subtitle="شاشة إعدادات محرر العلامات في Evertag" image="/docs/guide/evertag/img/settings-tag-editor.webp" >}}
 {{< /cards >}}
 
 ### قياس غلاف الألبوم
@@ -136,7 +136,7 @@ readingTime: 14
 في هذا القسم، يمكنك تخصيص إعدادات واجهة المستخدم لتناسب تفضيلاتك.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="شاشة إعدادات تخصيص Evertag" image="/docs/guide/evertag/img/settings-personalization.webp" >}}
+  {{< ls-card title="" subtitle="شاشة إعدادات تخصيص Evertag" image="/docs/guide/evertag/img/settings-personalization.webp" >}}
 {{< /cards >}}
 
 ### أيقونة التطبيق

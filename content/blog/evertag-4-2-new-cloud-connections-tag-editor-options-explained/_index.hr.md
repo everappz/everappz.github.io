@@ -12,7 +12,7 @@ authors:
     image: "/images/about/artem-meleshko-founder-everappz.webp"
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 **Ukratko:** [Evertag 4.2](/products/evertag) je veliko ažuriranje uređivača audio oznaka za iPhone, iPad i Mac. Riješili smo ključne pogreške u uređivanju oznaka i dodali više od 6 novih veza s oblakom i poslužiteljima — **Internxt**, **Proton Drive**, **QNAP**, **Nextcloud**, **Amazon S3** plus protokoli **FTP**, **SFTP** i **NFS**. Wi-Fi Drive je dobio osvježeno sučelje, način višestrukog odabira, pametniji red prijenosa i brže prijenose. Cijela aplikacija prilagođena je dizajnu **Liquid Glass**. Ovaj članak također ulazi duboko u postavke uređivača oznaka u Evertagu — objašnjavajući **ID3v2.4 vs ID3v2.3**, **skaliranje omota albuma**, **dupliciranje oznaka**, **načine učitavanja u oblak**, **brisanje preuzete datoteke** i točno koje opcije odabrati ako pripremate audio za **Spotify**, **Apple Music**, **Plex**, **Jellyfin** ili bilo koju drugu uslugu streaminga.
 
@@ -229,50 +229,50 @@ Ako uživate u aplikaciji, ostavite recenziju na App Storeu — to stvarno poma�
 
 ## Često postavljana pitanja
 
-{{% details title="Što je novo u Evertagu 4.2?" closed="true" %}}
+{{% ls-details title="Što je novo u Evertagu 4.2?" closed="true" %}}
 Evertag 4.2 dodaje više od 6 novih veza s oblakom i poslužiteljima (Internxt, Proton Drive, QNAP, Nextcloud, Amazon S3, FTP, SFTP, NFS), osvježeni Wi-Fi Drive s višestrukim odabirom i pametnijim redom prijenosa, ažuriranja Liquid Glass UI-a, ažurirane biblioteke veza, ključne ispravke pogrešaka u uređivanju oznaka i poboljšanja prijevoda.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Trebam li koristiti ID3v2.4 ili ID3v2.3 u Evertagu?" closed="true" %}}
+{{% ls-details title="Trebam li koristiti ID3v2.4 ili ID3v2.3 u Evertagu?" closed="true" %}}
 Koristite **ID3v2.4** za moderne uređaje (Evermusic, Plex, Jellyfin, Apple Music, foobar2000, VLC, moderne Android aplikacije) i za biblioteke s nelatiničnim znakovima — UTF-8 podrška znači čišće oznake na kineskom, korejskom, japanskom, ruskom, arapskom i hebrejskom. Koristite **ID3v2.3** ako se vaše oznake netočno prikazuju u nekim aplikacijama, ako ciljate na starije autoradije ili ako cjevovod streaming distributera odbija v2.4. Uvijek možete prebaciti i ponovno spremiti.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Zašto su moje oznake netočne u Spotifyju nakon uređivanja?" closed="true" %}}
+{{% ls-details title="Zašto su moje oznake netočne u Spotifyju nakon uređivanja?" closed="true" %}}
 Spotify uglavnom prikazuje metapodatke iz vlastitog kataloga — vaše lokalne oznake koriste se samo za «Local Files» ili sadržaj koji ste prenijeli kao izvođač. Ako označavate datoteke za Spotify Local Files i ne prikazuju se ispravno, pokušajte onemogućiti ID3v2.4 u Evertagu i spremiti kao ID3v2.3 — Spotifyjev parser je povijesno bio konzervativan prema v2.4.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Koju veličinu omota albuma trebam odabrati u Evertagu?" closed="true" %}}
+{{% ls-details title="Koju veličinu omota albuma trebam odabrati u Evertagu?" closed="true" %}}
 Za većinu korisnika: **Veliki**. Izgleda sjajno na telefonima, iPadima, Macovima i modernim automobilskim zaslonima bez previše napuhivanja datoteka. Koristite **Srednji** ako imate ogromnu biblioteku i želite uštedjeti disk. Koristite **Izvorni** (bez skaliranja) samo za arhivske mastere ili kad stvarno trebate maksimalnu kvalitetu — ali svjesni budite da neki stariji uređaji imaju problema s vrlo velikim ugrađenim omotima. **Izvorni** je dio premium personalizacijske nadogradnje Evertaga.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Hoće li veći omoti albuma povećati moje datoteke?" closed="true" %}}
+{{% ls-details title="Hoće li veći omoti albuma povećati moje datoteke?" closed="true" %}}
 Da. Ugrađivanje omota 3.000 × 3.000 px može dodati nekoliko megabajta jednoj audio datoteci. U biblioteci od 1.000 pjesama to se penje u gigabajte. Ako je prostor pohrane oskudan, koristite Srednji ili Veliki; ako streamate s NAS-a gdje veličina nije bitna, Vrlo veliki ili Izvorni su u redu.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Što su Duplicirane oznake i trebam li ih uključiti?" closed="true" %}}
+{{% ls-details title="Što su Duplicirane oznake i trebam li ih uključiti?" closed="true" %}}
 Duplicirane oznake pišu osnovne metapodatke u oba dijela ID3v1 (legacy 128 bajtova) i ID3v2 (moderni) datoteke. Uključite ih samo ako ciljate na vrlo stare uređaje ili hardver koji čita ID3v1. Za sve moderno (pametne telefone, računala, novije autoradije), ostavite isključeno.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Uređuje li Evertag oznake izravno na datotekama u oblaku?" closed="true" %}}
+{{% ls-details title="Uređuje li Evertag oznake izravno na datotekama u oblaku?" closed="true" %}}
 Da. Povežite se sa svojim oblakom (Google Drive, Dropbox, OneDrive, iCloud Drive, Internxt, Proton Drive, QNAP, Nextcloud, Amazon S3 itd.) ili putem FTP/SFTP/NFS, otvorite datoteku i uredite oznake kao da je lokalna. Evertag preuzima datoteku, primjenjuje vaše izmjene i prenosi ažuriranu verziju natrag. U postavkama možete odabrati između načina «Uvijek pitaj», «Auto-prijenos» ili «Ne prenosi».
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Mogu li uređivati FLAC oznake na iPhoneu s Evertagom?" closed="true" %}}
+{{% ls-details title="Mogu li uređivati FLAC oznake na iPhoneu s Evertagom?" closed="true" %}}
 Da. Evertag podržava FLAC, MP3, M4A/MP4, AIFF, WAV, OGG, APE i druge važne formate s punom podrškom za čitanje/pisanje oznaka, uključujući ugrađeni omot.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Kako sigurno uređujem oznake na svom kućnom poslužitelju s SFTP-om?" closed="true" %}}
+{{% ls-details title="Kako sigurno uređujem oznake na svom kućnom poslužitelju s SFTP-om?" closed="true" %}}
 Otvorite Evertag, idite na Veze, odaberite SFTP i unesite naziv hosta ili IP poslužitelja, port (obično 22), korisničko ime i lozinku ili privatni SSH ključ. Evertag će pregledavati vaše udaljene mape i uređivati oznake izravno s end-to-end enkripcijom preko SSH-a.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Mogu li uređivati oznake na više datoteka istovremeno?" closed="true" %}}
+{{% ls-details title="Mogu li uređivati oznake na više datoteka istovremeno?" closed="true" %}}
 Da. Aktivirajte **Uređivanje datoteka istovremeno** u postavkama. Odaberite više datoteka, otvorite uređivač oznaka, i bilo koje polje koje promijenite primijenit će se na sve odabrane datoteke. Ovo je najbrži način postavljanja istog album artist, godine ili žanra za cijeli album.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Je li ažuriranje na Evertag 4.2 besplatno?" closed="true" %}}
+{{% ls-details title="Je li ažuriranje na Evertag 4.2 besplatno?" closed="true" %}}
 Da. Evertag je besplatno preuzimanje s App Storea, a 4.2 je besplatno ažuriranje za sve postojeće korisnike. Nove integracije s oblakom, poboljšanja Wi-Fi Drivea i Liquid Glass UI dio su osnovnog ažuriranja.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Na kojim uređajima je dostupan Evertag 4.2?" closed="true" %}}
+{{% ls-details title="Na kojim uređajima je dostupan Evertag 4.2?" closed="true" %}}
 Evertag 4.2 radi na iPhoneu, iPadu i Macu. Sinkronizacija putem iCloud Drivea održava postavke uređivača oznaka dosljednim između uređaja.
-{{% /details %}}
+{{% /ls-details %}}

@@ -4,7 +4,9 @@ title: 'Dokumentation'
 ---
 
 
-{{< lottie src="/images/juicy-json/juicy-girl-and-boy-searching-for-the-right-files.json" width="90%" >}}
+{{< ls-lottie src="/images/juicy-json/juicy-girl-and-boy-searching-for-the-right-files.json" width="90%" >}}
+
+{{< ls-docs-search >}}
 
 Dieser Bereich enthält hilfreiche Dokumentation für alle Everappz-Apps — einschließlich Einrichtungsanleitungen, Funktionsbeschreibungen und fortgeschrittenen Tipps.
 
@@ -13,9 +15,9 @@ Wenn Sie neu sind oder mehr erfahren möchten, sind unsere Anleitungen und FAQs 
 ## Erste Schritte
 
 {{< cards >}}
-  {{< card icon="book-open" link="/docs/guide" title="Benutzerhandbuch" >}}
-  {{< card icon="question-mark-circle" link="/docs/faq" title="Häufig gestellte Fragen" >}}
-  {{< card icon="light-bulb" link="/docs/howto" title="Anleitungen" >}}
+  {{< ls-card icon="book-open" link="/docs/guide" title="Benutzerhandbuch" >}}
+  {{< ls-card icon="question-mark-circle" link="/docs/faq" title="Häufig gestellte Fragen" >}}
+  {{< ls-card icon="light-bulb" link="/docs/howto" title="Anleitungen" >}}
 {{< /cards >}}
 
 - Das **Benutzerhandbuch** hilft Ihnen beim Installieren, Konfigurieren und optimalen Nutzen unserer Apps.
@@ -31,5 +33,5 @@ Wenn Ihre Frage in der Dokumentation nicht beantwortet wird, besuchen Sie bitte 
 Für rechtliche Richtlinien, Datenschutzpraktiken und Nutzervereinbarungen zu unseren Diensten lesen Sie die nachstehenden rechtlichen Dokumente:
 
 {{< cards >}}
-  {{< card icon="document-text" link="/legal" title="Rechtszentrum" >}}
+  {{< ls-card icon="document-text" link="/legal" title="Rechtszentrum" >}}
 {{< /cards >}}

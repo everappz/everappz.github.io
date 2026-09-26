@@ -7,7 +7,7 @@ keywords: ["videó felvétel zenelejátszás közben iPhone-on", "hogyan játssz
 readingTime: 1
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **Röviden:** Állítsd az Evermusic audió kimenetét „Vegyes mód"-ra, indítsd el egy szám lejátszását, majd nyisd meg a Kamera alkalmazást és készíts felvételt. A zene tovább szól a háttérben. Működik a TikTokkal, Instagrammal és bármely kameraalkalmazással.
@@ -45,22 +45,22 @@ Ez a trükk minden iPhone-on működik.
 
 ## Gyakran ismételt kérdések
 
-{{% details title="A háttérzene rögzítésre kerül a videóban?" closed="true" %}}
+{{% ls-details title="A háttérzene rögzítésre kerül a videóban?" closed="true" %}}
 A zene az iPhone hangszóróján szól, ezért a mikrofon a környezeti hangokkal együtt felveszi. Tisztább hangzás érdekében fontold meg külső hangszóró használatát a mikrofon közelében.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Működik a TikTokkal és az Instagrammal?" closed="true" %}}
+{{% ls-details title="Működik a TikTokkal és az Instagrammal?" closed="true" %}}
 Igen. Miután az Evermusic Vegyes módra van állítva és egy szám lejátszás alatt áll, a zene folytatódik, amikor megnyitod a TikTokot, az Instagramot vagy bármely más kamera- vagy felvételkészítő alkalmazást.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Mi az a Vegyes mód az Evermusicben?" closed="true" %}}
+{{% ls-details title="Mi az a Vegyes mód az Evermusicben?" closed="true" %}}
 A Vegyes mód egy audió kimeneti beállítás, amely lehetővé teszi az Evermusic számára, hogy megossza az audió munkamenetet más alkalmazásokkal. Ez megakadályozza, hogy a zene leálljon, amikor egy másik alkalmazás hozzáfér a mikrofonhoz vagy a kamerához.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Használhatom a Flacboxot az Evermusic helyett erre?" closed="true" %}}
+{{% ls-details title="Használhatom a Flacboxot az Evermusic helyett erre?" closed="true" %}}
 Igen. A Flacbox szintén támogatja a vegyes audió kimeneti módot. A lépések ugyanazok: engedélyezd a Vegyes módot a Beállításokban, indítsd el a lejátszást, és nyisd meg a kameraalkalmazást.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Játszhatok játékot, miközben az Evermusic zenéje szól a háttérben?" closed="true" %}}
+{{% ls-details title="Játszhatok játékot, miközben az Evermusic zenéje szól a háttérben?" closed="true" %}}
 Igen. A Vegyes mód engedélyezésével az Evermusic zenéje tovább szól, amikor bármely játékot vagy alkalmazást megnyitod. A játék hangja és a zenéd egyszerre fog szólni.
-{{% /details %}}
+{{% /ls-details %}}

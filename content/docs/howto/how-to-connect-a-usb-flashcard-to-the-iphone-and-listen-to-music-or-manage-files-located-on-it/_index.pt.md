@@ -7,7 +7,7 @@ tags: ["música", "arquivos", "usb", "flash", "externo", "ixpand", "reproduzir",
 readingTime: 2
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **Resumo:** Conecte um pen drive USB ou cartão SD ao seu iPhone usando um adaptador Apple ou drive SanDisk iXpand, depois use Evermusic, Flacbox ou Evertag para navegar, reproduzir e gerenciar seus arquivos de áudio diretamente do armazenamento externo.
@@ -72,18 +72,18 @@ Aproveite a liberdade de acessar e gerenciar sua música sem esforço com estes 
 
 ## Perguntas frequentes
 
-{{% details title="Quais adaptadores USB funcionam com iPhone para reprodução de música?" closed="true" %}}
+{{% ls-details title="Quais adaptadores USB funcionam com iPhone para reprodução de música?" closed="true" %}}
 Tanto o Lightning to SD Card Camera Reader quanto o Lightning to USB 3 Camera Adapter da Apple funcionam. Adaptadores USB-C funcionam em iPhones mais recentes com portas USB-C. Drives SanDisk iXpand Flash (V1-V7) também são suportados nativamente por Evermusic, Flacbox e Evertag.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Posso reproduzir música diretamente do drive USB sem copiar arquivos?" closed="true" %}}
+{{% ls-details title="Posso reproduzir música diretamente do drive USB sem copiar arquivos?" closed="true" %}}
 Sim. Com drives SanDisk iXpand, você pode reproduzir música diretamente do drive sem copiar arquivos para o seu iPhone. Ao usar adaptadores Apple, os arquivos são importados, mas você pode escolher se deseja copiá-los para o armazenamento local.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Quais formatos de áudio são suportados a partir de drives USB?" closed="true" %}}
+{{% ls-details title="Quais formatos de áudio são suportados a partir de drives USB?" closed="true" %}}
 Evermusic e Flacbox suportam uma ampla gama de formatos, incluindo FLAC, MP3, AAC, WAV, ALAC, OGG, WMA e mais. Todos os formatos suportados funcionam ao reproduzir a partir do armazenamento USB.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Meu SanDisk iXpand mostra um erro de 'ocupado'. O que devo fazer?" closed="true" %}}
+{{% ls-details title="Meu SanDisk iXpand mostra um erro de 'ocupado'. O que devo fazer?" closed="true" %}}
 Outro aplicativo pode estar acessando o drive. Feche todos os outros aplicativos que possam estar usando o pen drive, ou desconecte-o e reinsira. Depois reabra Evermusic, Flacbox ou Evertag.
-{{% /details %}}
+{{% /ls-details %}}

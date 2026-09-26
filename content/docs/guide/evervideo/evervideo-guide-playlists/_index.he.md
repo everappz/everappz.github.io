@@ -19,7 +19,7 @@ readingTime: 5
 רשימות השמעה ב-Evervideo יכולות להכיל שילוב של סרטוני ענן מקוונים, קבצים שהורדו במצב לא מקוון, קבצים מקומיים, סרטוני ספריית Photos וסרטוני ספריית iOS Music — כולם ברשימת השמעה אחת — ומנגנים בצורה חלקה יחד.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="רשימות השמעה Evervideo בספריית המדיה" image="/docs/guide/evervideo/img/evervideo-playlists-in-media-library.webp" >}}
+  {{< ls-card title="" subtitle="רשימות השמעה Evervideo בספריית המדיה" image="/docs/guide/evervideo/img/evervideo-playlists-in-media-library.webp" >}}
 {{< /cards >}}
 
 ## יצירת רשימת השמעה

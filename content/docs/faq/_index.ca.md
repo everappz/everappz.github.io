@@ -15,7 +15,7 @@ tags: [
 ---
 
 
-{{< lottie src="/images/juicy-json/juicy-woman-focused-on-online-learning.json" width="85%" >}}
+{{< ls-lottie src="/images/juicy-json/juicy-woman-focused-on-online-learning.json" width="85%" >}}
 
 ## Aprèn a utilitzar les nostres aplicacions
 
@@ -27,7 +27,7 @@ Explora les preguntes freqüents de la teva aplicació a continuació per comen�
 
 ## Tria la teva aplicació
 
-{{< product-doc-cards section="faq" >}}
+{{< ls-product-doc-cards section="faq" >}}
 
 ## Problemes habituals i respostes
 
@@ -35,7 +35,7 @@ Explora les preguntes freqüents de la teva aplicació a continuació per comen�
 
 <div class="hx:w-full">
 
-{{% details title="Per què no puc iniciar sessió a pCloud en una versió anterior d'iOS (15.8.4)?" closed="true" %}}
+{{% ls-details title="Per què no puc iniciar sessió a pCloud en una versió anterior d'iOS (15.8.4)?" closed="true" %}}
 La pàgina d'inici de sessió web de pCloud pot no mostrar-se correctament en versions antigues d'iOS com la 15.8.4, la qual cosa impedeix introduir el correu electrònic i la contrasenya a la pantalla de connexió al núvol.<br><br>
 
 Com a solució alternativa, pots utilitzar el protocol **WebDAV**, compatible amb pCloud i que funciona de manera fiable en totes les versions d'iOS.
@@ -49,9 +49,9 @@ Com a solució alternativa, pots utilitzar el protocol **WebDAV**, compatible am
 Obre l'aplicació → Connexions → Connecta amb emmagatzematge al núvol → Tria **WebDAV** → Introdueix les credencials i l'URL del servidor.
 
 Aquest mètode et permetrà connectar-te al teu emmagatzematge pCloud i accedir als teus fitxers sense problemes en dispositius antics.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Com reprodueixo música per AirPlay des del Mac (macOS)?" closed="true" %}}
+{{% ls-details title="Com reprodueixo música per AirPlay des del Mac (macOS)?" closed="true" %}}
 La versió de macOS de l'aplicació no inclou botons integrats d'AirPlay, Chromecast o Bluetooth com a iOS.<br><br>
 
 Per utilitzar **AirPlay** al teu MacBook Pro, segueix aquests passos:
@@ -62,9 +62,9 @@ Per utilitzar **AirPlay** al teu MacBook Pro, segueix aquests passos:
 4. Selecciona el dispositiu desitjat per començar a transmetre la teva música.  
 
 Això enrutarà tot l'àudio del sistema (inclòs d'Evermusic o Flacbox) al dispositiu AirPlay escollit.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Per què no s'ha activat la meva compra Premium al Mac si la vaig comprar a l'iPhone?" closed="true" %}}
+{{% ls-details title="Per què no s'ha activat la meva compra Premium al Mac si la vaig comprar a l'iPhone?" closed="true" %}}
 Les compres vitalícies i les subscripcions es sincronitzen entre iOS i Mac mitjançant **iCloud**.<br><br>
 
 Per activar Premium al teu Mac:<br>
@@ -76,9 +76,9 @@ Per activar Premium al teu Mac:<br>
 - Alternativament, toca **Restaura les compres** a la configuració de l'aplicació en ambdós dispositius<br><br>
 
 Les funcions Premium s'haurien d'activar automàticament al Mac.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Com puc sincronitzar les llistes de reproducció automàticament entre dispositius?" closed="true" %}}
+{{% ls-details title="Com puc sincronitzar les llistes de reproducció automàticament entre dispositius?" closed="true" %}}
 Actualment **no hi ha sincronització automàtica** per a les llistes de reproducció.<br><br>
 
 Pots utilitzar una de les opcions següents:<br>
@@ -88,9 +88,9 @@ Pots utilitzar una de les opcions següents:<br>
   - [Com importar llistes de reproducció](/docs/howto/how-to-import-m3u-playlist-to-evermusic-and-flacbox/)<br>
 - **Arxiva llistes de reproducció o àlbums** i transfereix-los via ZIP:<br>
   - [Guia d'arxiu de llistes de reproducció](/docs/howto/how-to-archive-zip-playlists-albums-artists-and-genres-in-evermusic-flacbox-and-transfer-to/)
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="És segur utilitzar les vostres aplicacions? Puc desactivar l'analítica?" closed="true" %}}
+{{% ls-details title="És segur utilitzar les vostres aplicacions? Puc desactivar l'analítica?" closed="true" %}}
 Sí, la teva privadesa és la nostra màxima prioritat.<br><br>
 
 - Totes les dades — fitxers de música, configuració, inicis de sessió al núvol — es queden al teu dispositiu<br>
@@ -104,18 +104,18 @@ Més informació:<br>
 
 Si s'utilitzen anuncis personalitzats, Google Mobile Ads requereix mostrar la configuració de consentiment.<br>
 Els usuaris Premium no veuen anuncis i el SDK d'anuncis està completament desactivat.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Les vostres aplicacions admeten la Compartició familiar?" closed="true" %}}
+{{% ls-details title="Les vostres aplicacions admeten la Compartició familiar?" closed="true" %}}
 Sí, la Compartició familiar és compatible.<br><br>
 
 Per compartir compres integrades a l'aplicació:<br>
 - Assegura't que la compra estigui configurada per compartir-se amb el teu grup familiar<br>
 - Al dispositiu del familiar, vés a **Configuració > Compres > Restaura les compres**<br>
 - Això sol·licitarà les dades de compra als servidors d'Apple i les activarà al seu dispositiu
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Com accelero la sincronització de metadades i del núvol?" closed="true" %}}
+{{% ls-details title="Com accelero la sincronització de metadades i del núvol?" closed="true" %}}
 Per millorar la velocitat de sincronització, activa les tasques en segon pla:<br><br>
 
 - **Configuració → Biblioteca de música → Lectura de metadades → Lectura de metadades en segon pla**<br>
@@ -123,14 +123,14 @@ Per millorar la velocitat de sincronització, activa les tasques en segon pla:<b
 
 A més, a macOS, augmenta la velocitat de lectura de metadades a través de **Configuració → Biblioteca de música**.<br>
 Si el reproductor està actiu (reproduint àudio), iOS no suspendrà l'aplicació, permetent una sincronització contínua.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Com puc cancel·lar la meva subscripció?" closed="true" %}}
+{{% ls-details title="Com puc cancel·lar la meva subscripció?" closed="true" %}}
 Pots cancel·lar la subscripció seguint les instruccions oficials d'Apple:<br>
 👉 [Com cancel·lar una subscripció](https://support.apple.com/en-us/118428)
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Com puc connectar i transmetre àudio des del WD MyCloud EX2 Ultra?" closed="true" %}}
+{{% ls-details title="Com puc connectar i transmetre àudio des del WD MyCloud EX2 Ultra?" closed="true" %}}
 
 Quan afegeixes una connexió a l'aplicació mitjançant **Connexions > Connecta amb emmagatzematge al núvol > My Cloud Home**, està dissenyat oficialment per admetre dispositius **WD MyCloud Home**.<br>
 WD MyCloud EX2 Ultra utilitza accés restringit per a les aplicacions.<br><br>
@@ -144,16 +144,16 @@ No obstant això, si t'has connectat correctament a un **WD MyCloud EX2 Ultra**,
 5. Ara pots transmetre-los o descarregar-los directament<br><br>
 
 ⚠️ Només les carpetes creades a través de l'aplicació seran accessibles des del NAS.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Com em connecto a Koofr.eu?" closed="true" %}}
+{{% ls-details title="Com em connecto a Koofr.eu?" closed="true" %}}
 Pots connectar Koofr utilitzant **WebDAV**.<br><br>
 
 - Guia de configuració WebDAV de Koofr: [blog de koofr.eu](https://koofr.eu/blog/posts/3-ways-to-map-koofr-as-a-network-drive-explained)<br>
 - Guia WebDAV d'Evermusic/Flacbox: [Com connectar emmagatzematge NAS amb WebDAV i escoltar música a l'iPhone o Mac](/docs/howto/how-to-connect-nas-storage-using-webdav-and-listen-to-music-on-your-iphone-or-mac/)
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Quins esquemes d'URL admet l'aplicació?" closed="true" %}}
+{{% ls-details title="Quins esquemes d'URL admet l'aplicació?" closed="true" %}}
 Aquí teniu els esquemes compatibles:<br><br>
 
 **Evermusic**<br>
@@ -172,35 +172,35 @@ Aquí teniu els esquemes compatibles:<br><br>
 **Evervideo**<br>
 - iOS: `lsevervideo://`<br>
 - macOS: `lsevervideomac://`
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="La música s'atura quan l'aplicació és en segon pla — com ho soluciono?" closed="true" %}}
+{{% ls-details title="La música s'atura quan l'aplicació és en segon pla — com ho soluciono?" closed="true" %}}
 Si l'aplicació falla o fa pausa en segon pla:<br>
 - Vés a **Configuració > Biblioteca de música > Sincronització de música en línia > Sincronització en segon pla → Desactiva**<br>
 - **Configuració > Biblioteca de música > Lectura de metadades > Lectura de metadades en segon pla → Desactiva**<br>
 - **Configuració > Gestor de fitxers > Transferències en segon pla → Desactiva**
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="La reproducció sense pauses no funciona — com ho soluciono?" closed="true" %}}
+{{% ls-details title="La reproducció sense pauses no funciona — com ho soluciono?" closed="true" %}}
 La reproducció sense pauses depèn de la versió d'iOS i del motor d'àudio.<br>
 Prova de canviar el motor d'àudio:<br>
 - Vés a **Configuració → Reproductor d'àudio → General → Processador d'àudio**<br>
 - Selecciona **Core Audio** per a un millor suport de reproducció sense pauses
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Per què l'aplicació només mostra 100 elements en una llista?" closed="true" %}}
+{{% ls-details title="Per què l'aplicació només mostra 100 elements en una llista?" closed="true" %}}
 L'aplicació utilitza paginació per al rendiment.<br>
 Per desactivar-la:<br>
 - Vés a **Configuració → Personalització → Límit de càrrega de contingut → Desactivat**<br>
 Ara tots els elements es carregaran alhora.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Per què hi ha caràcters estranys a les metadades?" closed="true" %}}
+{{% ls-details title="Per què hi ha caràcters estranys a les metadades?" closed="true" %}}
 Prova d'activar la normalització de metadades:<br>
 - **Configuració → Biblioteca de música → Lectura de metadades → Normalitza la codificació de metadades**
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Per què l'aplicació no pot llegir noms de carpetes amb caràcters especials?" closed="true" %}}
+{{% ls-details title="Per què l'aplicació no pot llegir noms de carpetes amb caràcters especials?" closed="true" %}}
 Aquest és un problema conegut amb el **protocol SMB2**.<br><br>
 
 Prova les solucions següents:<br>
@@ -210,9 +210,9 @@ Prova les solucions següents:<br>
   - Selecciona carpetes/fitxers utilitzant el menú natiu d'Apple<br><br>
 
 Alternativament, connecta't amb **WebDAV** o **DLNA** si el teu NAS els admet.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Com carrego i gestiono música a iCloud?" closed="true" %}}
+{{% ls-details title="Com carrego i gestiono música a iCloud?" closed="true" %}}
 – **Com carrego música a iCloud?**  <br>
 Vés a [https://www.icloud.com](https://www.icloud.com) al teu navegador, crea una carpeta i carrega els teus fitxers de música directament des del teu Mac o PC.<br>
 
@@ -225,9 +225,9 @@ Tens dues opcions:  <br>
 
 Més informació aquí: [Com transmetre música des d'iCloud Drive a l'iPhone o Mac](/docs/howto/how-to-listen-to-music-from-icloud-drive-on-your-iphone-or-mac/)
 
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Com puc transferir la meva biblioteca de música de 10 GB de Windows 11 al meu iPhone per reproduir-la sense connexió?" closed="true" %}}
+{{% ls-details title="Com puc transferir la meva biblioteca de música de 10 GB de Windows 11 al meu iPhone per reproduir-la sense connexió?" closed="true" %}}
 
 Tens diverses opcions fiables per moure la biblioteca de música del teu PC Windows 11 a l'iPhone i usar-la sense connexió a l'aplicació. Tria el mètode que millor s'adapti a tu:
 
@@ -253,6 +253,6 @@ Tens diverses opcions fiables per moure la biblioteca de música del teu PC Wind
 
 ⚠️ Quan es transfereixen biblioteques grans (10 GB o més), la transferència USB per cable sol ser l'opció més ràpida i estable.
 
-{{% /details %}}
+{{% /ls-details %}}
 
 </div>

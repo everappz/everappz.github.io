@@ -12,7 +12,7 @@ authors:
     image: "/images/about/artem-meleshko-founder-everappz.webp"
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 **要約：** Evermusicは世界中で1100万ダウンロードを突破しました。主要機能には10バンドイコライザー、オフライン再生、iCloud Driveストリーミング、10以上のクラウドサービスサポート、クロスデバイス同期、内蔵ID3タグエディタが含まれます。
 
@@ -70,22 +70,22 @@ App Storeから[Evermusicをダウンロード](https://apps.apple.com/app/everm
 
 ## FAQ
 
-{{% details title="Evermusicはどのオーディオフォーマットをサポートしていますか？" closed="true" %}}
+{{% ls-details title="Evermusicはどのオーディオフォーマットをサポートしていますか？" closed="true" %}}
 EvermusicはMP3、FLAC、WAV、AAC、M4A、AIFF、OGG、WMA、その他の一般的なオーディオフォーマットを再生します。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="インターネット接続なしでEvermusicを使用できますか？" closed="true" %}}
+{{% ls-details title="インターネット接続なしでEvermusicを使用できますか？" closed="true" %}}
 はい。オフライン再生のためにクラウドストレージからトラックをダウンロードしてください。ダウンロード後はインターネット不要です。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="EvermusicはMacで動作しますか？" closed="true" %}}
+{{% ls-details title="EvermusicはMacで動作しますか？" closed="true" %}}
 はい。EvermusicはiOS（iPhone/iPad）とmacOSの両方で利用可能で、すべてのデバイス間でライブラリ同期が可能です。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Evermusicは無料でダウンロードできますか？" closed="true" %}}
+{{% ls-details title="Evermusicは無料でダウンロードできますか？" closed="true" %}}
 はい。Evermusicはアプリ内課金でオプションのプレミアム機能が利用できる無料ダウンロードです。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="EvermusicでのiCloud Driveストリーミングはどのように機能しますか？" closed="true" %}}
+{{% ls-details title="EvermusicでのiCloud Driveストリーミングはどのように機能しますか？" closed="true" %}}
 アプリでiCloud Driveアカウントを接続し、音楽ファイルを閲覧してタップで再生します。トラックは事前にダウンロードすることなく直接ストリーミングされます。
-{{% /details %}}
+{{% /ls-details %}}

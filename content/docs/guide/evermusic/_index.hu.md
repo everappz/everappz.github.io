@@ -72,19 +72,19 @@ Ez az útmutató segít a legtöbbet kihozni az Evermusicból iPhone-on, iPaden 
 
 
 {{< cards >}}
-  {{< card icon="location-marker" title="Navigáció" subtitle="Tanuld meg navigálni az Evermusicot az iPhone Tab Bar-jával vagy az iPad és Mac bal oldali menüjével." link="/docs/guide/evermusic/evermusic-guide-navigation" >}}
+  {{< ls-card icon="location-marker" title="Navigáció" subtitle="Tanuld meg navigálni az Evermusicot az iPhone Tab Bar-jával vagy az iPad és Mac bal oldali menüjével." link="/docs/guide/evermusic/evermusic-guide-navigation" >}}
 
-  {{< card icon="cloud" title="Kapcsolatok" subtitle="Csatlakoztasd felhőfiókjaidat és kezeld az online fájlokat a beépített fájlkezelővel." link="/docs/guide/evermusic/evermusic-guide-connections" >}}
+  {{< ls-card icon="cloud" title="Kapcsolatok" subtitle="Csatlakoztasd felhőfiókjaidat és kezeld az online fájlokat a beépített fájlkezelővel." link="/docs/guide/evermusic/evermusic-guide-connections" >}}
 
-  {{< card icon="collection" title="Zenei könyvtár" subtitle="Rendszerezd és böngészd számaidat, albumaidat és előadóidat a Zenei könyvtárban." link="/docs/guide/evermusic/evermusic-guide-music-library" >}}
+  {{< ls-card icon="collection" title="Zenei könyvtár" subtitle="Rendszerezd és böngészd számaidat, albumaidat és előadóidat a Zenei könyvtárban." link="/docs/guide/evermusic/evermusic-guide-music-library" >}}
 
-  {{< card icon="music-note" title="Lejátszási listák" subtitle="Hozz létre és rendezz lejátszólistákat a hangulatodhoz vagy alkalomhoz." link="/docs/guide/evermusic/evermusic-guide-playlists" >}}
+  {{< ls-card icon="music-note" title="Lejátszási listák" subtitle="Hozz létre és rendezz lejátszólistákat a hangulatodhoz vagy alkalomhoz." link="/docs/guide/evermusic/evermusic-guide-playlists" >}}
 
-  {{< card icon="folder" title="Helyi fájlok" subtitle="Elérd és kezeld az offline zenét a Helyi fájlok szakaszon keresztül." link="/docs/guide/evermusic/evermusic-guide-local-files" >}}
+  {{< ls-card icon="folder" title="Helyi fájlok" subtitle="Elérd és kezeld az offline zenét a Helyi fájlok szakaszon keresztül." link="/docs/guide/evermusic/evermusic-guide-local-files" >}}
 
-  {{< card icon="play" title="Hanglejátszó" subtitle="Irányítsd a lejátszást, várólistát és hangbeállításokat, mint a hangszínszabályozó és alvásidőzítő." link="/docs/guide/evermusic/evermusic-guide-player" >}}
+  {{< ls-card icon="play" title="Hanglejátszó" subtitle="Irányítsd a lejátszást, várólistát és hangbeállításokat, mint a hangszínszabályozó és alvásidőzítő." link="/docs/guide/evermusic/evermusic-guide-player" >}}
 
-  {{< card icon="adjustments" title="Beállítások" subtitle="Testreszabhatod az Evermusic megjelenését, funkcióit és teljesítménybeállításait." link="/docs/guide/evermusic/evermusic-guide-settings" >}}
+  {{< ls-card icon="adjustments" title="Beállítások" subtitle="Testreszabhatod az Evermusic megjelenését, funkcióit és teljesítménybeállításait." link="/docs/guide/evermusic/evermusic-guide-settings" >}}
 
-  {{< card icon="question-mark-circle" title="GYIK" subtitle="Találj gyors válaszokat a gyakori kérdésekre a GYIK részben." link="/docs/faq/evermusic" >}}
+  {{< ls-card icon="question-mark-circle" title="GYIK" subtitle="Találj gyors válaszokat a gyakori kérdésekre a GYIK részben." link="/docs/faq/evermusic" >}}
 {{< /cards >}}

@@ -11,7 +11,7 @@ tags: ["Evertag", "Premium", "Perbezaan", "Pro", "Percuma vs Berbayar", "Aplikas
 Evertag dan Evertag Premium adalah dua versi aplikasi pengeditan tag yang berkuasa yang sama. Walaupun Evertag Free memberi anda akses kepada alat pengeditan metadata yang penting, Evertag Premium membuka kunci pengalaman penuh — tanpa iklan, tanpa had, dan boleh disesuaikan.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evertag Upgrade To Premium Screen" image="/docs/faq/evertag/what-is-the-difference-between-evertag-and-evertag-premium/upgrade-to-premium.webp" >}}
+  {{< ls-card title="" subtitle="Evertag Upgrade To Premium Screen" image="/docs/faq/evertag/what-is-the-difference-between-evertag-and-evertag-premium/upgrade-to-premium.webp" >}}
 {{< /cards >}}
 
 ## Pilih Pelan Premium Anda
@@ -19,7 +19,7 @@ Evertag dan Evertag Premium adalah dua versi aplikasi pengeditan tag yang berkua
 Versi percuma aplikasi menawarkan pembelian dalam aplikasi seumur hidup satu kali dan dua pilihan langganan (1 bulan dan 1 tahun) untuk menghapuskan semua sekatan dan naik taraf ke versi Premium, membolehkan anda memilih harga yang terbaik dan paling optimum untuk anda. Harga mungkin berbeza bergantung pada negara atau wilayah anda. Juga, sila ingat bahawa **Family Sharing** adalah **diaktifkan** untuk semua pembelian dan pelan, jadi anda boleh berkongsi versi Premium dengan ahli keluarga anda.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evertag Select Your Premium Plan Screen" image="/docs/faq/evertag/what-is-the-difference-between-evertag-and-evertag-premium/select-your-plan.webp" >}}
+  {{< ls-card title="" subtitle="Evertag Select Your Premium Plan Screen" image="/docs/faq/evertag/what-is-the-difference-between-evertag-and-evertag-premium/select-your-plan.webp" >}}
 {{< /cards >}}
 
 ## Berkongsi Pembelian Antara iOS dan Mac
@@ -79,7 +79,7 @@ Setelah anda menaik taraf aplikasi, anda akan melihat skrin status Premium denga
 Anda boleh naik taraf ke versi Premium secara percuma tetapi untuk masa terhad sahaja menggunakan menu "Cuba premium secara percuma". Hanya tonton iklan atau beritahu rakan-rakan tentang aplikasi ini untuk mendapatkan versi Premium secara percuma.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evertag Try Premium For Free Screen" image="/docs/faq/evertag/what-is-the-difference-between-evertag-and-evertag-premium/try-premium-for-free.webp" >}}
+  {{< ls-card title="" subtitle="Evertag Try Premium For Free Screen" image="/docs/faq/evertag/what-is-the-difference-between-evertag-and-evertag-premium/try-premium-for-free.webp" >}}
 {{< /cards >}}
 
 ## Apa yang Perlu Dipilih?

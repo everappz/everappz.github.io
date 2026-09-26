@@ -7,7 +7,7 @@ tags: ["음악", "오디오", "플레이어", "오프라인", "모드", "다운�
 keywords: ["아이폰 오프라인 음악", "클라우드 음악 동기화", "Evermusic 오프라인", "Flacbox 음악 동기화", "인터넷 없이 음악 재생", "클라우드에서 오디오 다운로드", "iOS 로컬 파일 재생"]
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **요약:** Evermusic과 Flacbox를 사용하면 클라우드 스토리지(Google Drive, Dropbox, OneDrive 등)에서 iPhone 또는 iPad로 음악을 다운로드하여 오프라인으로 재생할 수 있습니다. 직접 다운로드, 자동 동기화가 포함된 오프라인 모드, 오디오 플레이어 캐시 등 세 가지 방법을 사용할 수 있습니다. 이 가이드에서는 세 가지 방법을 단계별로 설명합니다.
@@ -140,26 +140,26 @@ keywords: ["아이폰 오프라인 음악", "클라우드 음악 동기화", "Ev
 
 ## 자주 묻는 질문
 
-{{% details title="Evermusic과 Flacbox는 어떤 클라우드 서비스를 지원하나요?" closed="true" %}}
+{{% ls-details title="Evermusic과 Flacbox는 어떤 클라우드 서비스를 지원하나요?" closed="true" %}}
 두 앱 모두 Google Drive, Dropbox, OneDrive, Box, MEGA, Yandex.Disk 및 기타 주요 클라우드 스토리지 제공업체를 지원합니다. 여러 서비스를 동시에 연결할 수 있습니다.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="클라우드 스토리지에서 iPhone으로 음악을 자동으로 동기화할 수 있나요?" closed="true" %}}
+{{% ls-details title="클라우드 스토리지에서 iPhone으로 음악을 자동으로 동기화할 수 있나요?" closed="true" %}}
 예. 모든 폴더, 재생 목록, 앨범 또는 아티스트에 대해 오프라인 모드를 활성화합니다. 앱은 구성 가능한 간격(기본값: 하루에 한 번)으로 클라우드에서 장치로 단방향 동기화를 수행합니다.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="오프라인 모드는 장치의 저장 공간을 많이 사용하나요?" closed="true" %}}
+{{% ls-details title="오프라인 모드는 장치의 저장 공간을 많이 사용하나요?" closed="true" %}}
 저장 공간 사용량은 음악 컬렉션 크기와 파일 형식에 따라 다릅니다. 동기화할 특정 폴더를 선택하고, 캐시 크기 제한을 설정하고, 앱 설정에서 저장 공간을 모니터링하여 이를 제어할 수 있습니다.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="오프라인 재생에 지원되는 오디오 형식은 무엇인가요?" closed="true" %}}
+{{% ls-details title="오프라인 재생에 지원되는 오디오 형식은 무엇인가요?" closed="true" %}}
 Evermusic과 Flacbox는 MP3, FLAC, AAC, ALAC, WAV, AIFF, OGG, WMA 및 기타 많은 형식을 지원합니다. Flacbox는 FLAC 및 ALAC와 같은 무손실 형식에 최적화되어 있습니다.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="앱을 닫으면 오프라인 음악이 계속 재생되나요?" closed="true" %}}
+{{% ls-details title="앱을 닫으면 오프라인 음악이 계속 재생되나요?" closed="true" %}}
 예. 다운로드된 파일은 장치에 로컬로 저장되며 인터넷 연결에 관계없이 앱의 오디오 플레이어를 통해 재생됩니다. 백그라운드 재생이 완전히 지원됩니다.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="오프라인 음악이 차지하는 공간을 어떻게 확보하나요?" closed="true" %}}
+{{% ls-details title="오프라인 음악이 차지하는 공간을 어떻게 확보하나요?" closed="true" %}}
 설정 > 파일 관리자 > 동기화된 오프라인 폴더에서 특정 폴더의 오프라인 모드를 비활성화합니다. 이렇게 하면 장치에서 로컬 사본이 제거됩니다. 오디오 플레이어 캐시를 지우거나 다운로드된 파일을 수동으로 삭제할 수도 있습니다.
-{{% /details %}}
+{{% /ls-details %}}

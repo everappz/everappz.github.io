@@ -31,7 +31,7 @@ readingTime: 14
 コンパクトプレーヤーはライブラリ、ファイルマネージャー、設定を閲覧している間も表示され続けるため、次のビデオを探している間もビデオを失うことはありません。
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evervideoフルスクリーンメディアプレーヤー" image="/docs/guide/evervideo/img/evervideo-media-player-fullscreen.webp" >}}
+  {{< ls-card title="" subtitle="Evervideoフルスクリーンメディアプレーヤー" image="/docs/guide/evervideo/img/evervideo-media-player-fullscreen.webp" >}}
 {{< /cards >}}
 
 ## 対応ビデオおよびオーディオ形式
@@ -72,7 +72,7 @@ PiPはEvervideoが再生するすべてのビデオ形式で機能し、クラ�
 コンパクトプレーヤーは、ライブラリ、ファイルマネージャー、設定を閲覧している間もアプリのすべての画面の上部に表示される永続的なミニプレーヤーです。タップしてフルスクリーンプレーヤーに展開し、下にスワイプして再び折りたたみます。
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="メイン画面のコンパクトプレーヤービューからのEvervideoビデオ設定" image="/docs/guide/evervideo/img/evervideo-video-settings-from-compact-player-view-on-the-main-screen.webp" >}}
+  {{< ls-card title="" subtitle="メイン画面のコンパクトプレーヤービューからのEvervideoビデオ設定" image="/docs/guide/evervideo/img/evervideo-video-settings-from-compact-player-view-on-the-main-screen.webp" >}}
 {{< /cards >}}
 
 ## AirPlay 2
@@ -115,7 +115,7 @@ Evervideoには、ヘッドフォン、スピーカー、またはハイファ�
 画像を調整するために、Evervideoは専用のビデオイコライザーを提供します — 再生中にリアルタイムで輝度、コントラスト、彩度、色相を調整します。オーディオイコライザーと同様に、カスタムビデオプリセットは共有またはバックアップのためにエクスポートとインポートができます。晴れた日に暗いシーンを明るくしたり、色褪せたコンテンツの彩度を上げたり、冷たい色合いを温めたりするために使用します。
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evervideoビデオイコライザー" image="/docs/guide/evervideo/img/evervideo-video-equalizer.webp" >}}
+  {{< ls-card title="" subtitle="Evervideoビデオイコライザー" image="/docs/guide/evervideo/img/evervideo-video-equalizer.webp" >}}
 {{< /cards >}}
 
 ## ビデオスケーリングモード
@@ -144,7 +144,7 @@ Evervideoには球面ビデオファイル用のVR / 360°ビューポートが�
 プレーヤーツールバーの速度コントロールをタップして再生速度を変更します — 分析のために遅くする（0.25×または0.5×）か、チュートリアルや講義を速くする（1.25×、1.5×、2×、最大3×まで）。速度画面の右上隅の設定アイコンをタップして、より細かい調整のある精密モードに切り替えます。トラックごとのピッチ補正も利用可能です。
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="メインツールバーのEvervideo再生速度" image="/docs/guide/evervideo/img/evervideo-media-player-playback-speed-on-main-toolbar.webp" >}}
+  {{< ls-card title="" subtitle="メインツールバーのEvervideo再生速度" image="/docs/guide/evervideo/img/evervideo-media-player-playback-speed-on-main-toolbar.webp" >}}
 {{< /cards >}}
 
 ## プレーヤーキュー
@@ -152,7 +152,7 @@ Evervideoには球面ビデオファイル用のVR / 360°ビューポートが�
 プレーヤーキューを見るには、プレーヤーのキューボタンをタップします。キュー内の各ビデオにはその他のアクションがあります — 三点をタップして表示します。キュー内のビデオを並べ替えるには、タイトル付近の並べ替えインジケーターを使用して新しい位置にドラッグします。
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evervideo再生キュー" image="/docs/guide/evervideo/img/evervideo-playback-queue.webp" >}}
+  {{< ls-card title="" subtitle="Evervideo再生キュー" image="/docs/guide/evervideo/img/evervideo-playback-queue.webp" >}}
 {{< /cards >}}
 
 ## スリープタイマー
@@ -189,7 +189,7 @@ Evervideoには球面ビデオファイル用のVR / 360°ビューポートが�
 - **ヘルプ** — ガイダンスを開く。
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evervideoプレーヤーその他のアクション画面" image="/docs/guide/evervideo/img/evervideo-media-player-more-actions.webp" >}}
+  {{< ls-card title="" subtitle="Evervideoプレーヤーその他のアクション画面" image="/docs/guide/evervideo/img/evervideo-media-player-more-actions.webp" >}}
 {{< /cards >}}
 
 ## プレーヤー設定

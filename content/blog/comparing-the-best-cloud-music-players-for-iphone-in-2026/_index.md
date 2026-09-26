@@ -15,7 +15,7 @@ authors:
     image: "/images/about/artem-meleshko-founder-everappz.webp"
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 ## Which Cloud Music Player Is Best for iPhone?
 
@@ -94,22 +94,22 @@ For audiophiles and anyone who maintains a personal music collection in cloud st
 
 ## Frequently Asked Questions
 
-{{% details title="Can I play FLAC files on iPhone without converting them?" closed="true" %}}
+{{% ls-details title="Can I play FLAC files on iPhone without converting them?" closed="true" %}}
 Yes. Evermusic plays FLAC, DSD, WAV, ALAC, and other lossless formats natively on iPhone. No file conversion is needed. Simply connect your cloud storage account and stream or download your FLAC files directly.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Which cloud music player works with Dropbox and Google Drive?" closed="true" %}}
+{{% ls-details title="Which cloud music player works with Dropbox and Google Drive?" closed="true" %}}
 Evermusic supports Dropbox, Google Drive, OneDrive, Box, MEGA, pCloud, WebDAV, SMB, and more -- over 12 cloud services total. Most mainstream streaming apps like Spotify and Apple Music do not connect to third-party cloud storage.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Do I need a subscription to use a cloud music player?" closed="true" %}}
+{{% ls-details title="Do I need a subscription to use a cloud music player?" closed="true" %}}
 It depends on the app. Spotify, Apple Music, and Deezer require monthly subscriptions. Evermusic offers a free tier and a one-time Premium purchase with no recurring fees. You use your own cloud storage to host your music files.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="What is the best music player for offline listening on iPhone?" closed="true" %}}
+{{% ls-details title="What is the best music player for offline listening on iPhone?" closed="true" %}}
 All major players support offline downloads, but the approach differs. Spotify and Apple Music let you download tracks from their catalogs. Evermusic lets you download your own files from cloud storage for offline playback -- ideal for flights, commutes, or areas with no connectivity.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Can I use a cloud music player with my NAS or home server?" closed="true" %}}
+{{% ls-details title="Can I use a cloud music player with my NAS or home server?" closed="true" %}}
 Yes. Evermusic supports WebDAV and SMB protocols, which means it can connect to most NAS devices from Synology, QNAP, and Western Digital. This turns your iPhone into a remote player for your entire home music library.
-{{% /details %}}
+{{% /ls-details %}}

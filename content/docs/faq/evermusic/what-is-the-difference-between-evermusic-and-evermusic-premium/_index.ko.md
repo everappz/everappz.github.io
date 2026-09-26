@@ -62,7 +62,7 @@ Evermusic와 Evermusic Premium은 동일한 음악 재생기 애플리케이션�
 
 ### App Store에서 다운로드하기
 
-{{< app-details ids="885367198, 905746421, 1564384601" >}}
+{{< ls-app-details ids="885367198, 905746421, 1564384601" >}}
 
 ### App Store 패키징
 
@@ -142,7 +142,7 @@ Evermusic와 Evermusic Premium은 동일한 음악 재생기 애플리케이션�
 
 ## 자주 묻는 질문
 
-{{% details title="이전 Apple 계정으로 Evermusic Pro(또는 Premium)를 구입했습니다. 새 Apple 계정으로 이전할 수 있나요?" closed="true" %}}
+{{% ls-details title="이전 Apple 계정으로 Evermusic Pro(또는 Premium)를 구입했습니다. 새 Apple 계정으로 이전할 수 있나요?" closed="true" %}}
 Apple의 공식 문서에 따르면, 다른 Apple 계정에서 이루어진 구입은 계정이 동일한 가족 공유 그룹 내에서 적절히 구성되어 있는 경우 가족 공유 / 구입 항목 공유를 통해 공유될 수 있습니다.
 
 Evermusic Pro가 이전 Apple 계정을 사용하여 구입되었다면, Apple은 해당 계정을 구입 항목 공유를 위한 보조 Apple 계정으로 사용할 수 있는 옵션을 제공합니다.
@@ -202,30 +202,30 @@ https://apps.apple.com/us/app/evermusic-cloud-music-player/id885367198?uo=4
 Apple 가족 공유, 구입 항목 공유, Apple 계정, App Store 구입 내역은 전적으로 Apple에서 관리한다는 점을 유념하시기 바랍니다. 저희는 사용자의 Apple 계정에 접근할 수 없으며, 저희 측에서 한 Apple 계정에서 다른 Apple 계정으로 App Store 구입을 이전할 수 없습니다.
 
 가족 공유 또는 이전 Apple 계정으로 이루어진 구입에 접근하는 데 특별히 문제가 발생하면, Apple 지원팀이 계정 구성을 확인해야 합니다.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="이미 Evermusic Free(파란색)를 Premium으로 업그레이드했습니다. Evermusic Pro(빨간색)도 필요한가요?" closed="true" %}}
+{{% ls-details title="이미 Evermusic Free(파란색)를 Premium으로 업그레이드했습니다. Evermusic Pro(빨간색)도 필요한가요?" closed="true" %}}
 아니요. Evermusic Pro(빨간색 아이콘)는 Premium이 이미 잠금 해제된 Evermusic Free(파란색 아이콘)와 동일한 앱입니다. 이미 파란색 앱을 Premium으로 업그레이드했다면 Pro가 제공하는 모든 것을 가지고 있으므로, 빨간색 앱을 설치하거나 구입할 필요가 없습니다.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="가족 공유가 지원되나요? 그리고 몇 명이 제 구입 항목을 사용할 수 있나요?" closed="true" %}}
+{{% ls-details title="가족 공유가 지원되나요? 그리고 몇 명이 제 구입 항목을 사용할 수 있나요?" closed="true" %}}
 예. 가족 공유는 모든 Evermusic 구입 및 구독과 함께 작동하므로, 최대 5명의 가족 구성원과 Premium을 공유할 수 있습니다. 기기의 설정 → 가족에서 구입 항목 공유를 켜세요. 각 가족 구성원은 자신의 Apple 계정으로 앱을 다운로드하고 자동으로 Premium을 받습니다.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="iPhone에서 Premium으로 업그레이드했는데, Mac에서는 여전히 무료 버전이 표시됩니다. 어떻게 해결하나요?" closed="true" %}}
+{{% ls-details title="iPhone에서 Premium으로 업그레이드했는데, Mac에서는 여전히 무료 버전이 표시됩니다. 어떻게 해결하나요?" closed="true" %}}
 Premium은 iCloud를 통해 iPhone과 Mac 간에 공유됩니다. 먼저 두 기기가 동일한 Apple 계정을 사용하고 iCloud가 켜져 있는지 확인하세요. iPhone에서 최신 버전의 Evermusic을 열고 구입이 iCloud에 업로드되도록 약 1분간 기다리세요. 설정에서 구입 항목 복원을 탭할 수도 있습니다. 그런 다음 Mac에서 최신 버전을 열고 인터넷에 연결한 후 약 1분간 기다리세요. Premium이 저절로 켜집니다.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="새 기기에서 구입 항목을 어떻게 복원하나요?" closed="true" %}}
+{{% ls-details title="새 기기에서 구입 항목을 어떻게 복원하나요?" closed="true" %}}
 앱에서 설정을 열고 구입 항목 복원을 탭하세요. 구입 항목이 표시되고 Premium이 다시 켜집니다. 구입 항목이 누락된 경우, 기기가 구입에 사용한 것과 동일한 Apple 계정을 사용하고 iCloud가 켜져 있는지 확인하세요.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Evermusic Pro(빨간색)를 설치하면 Evermusic Free(파란색)에서 Premium이 잠금 해제되나요?" closed="true" %}}
+{{% ls-details title="Evermusic Pro(빨간색)를 설치하면 Evermusic Free(파란색)에서 Premium이 잠금 해제되나요?" closed="true" %}}
 예. 기기에 빨간색 Evermusic Pro를 설치하면, 같은 기기의 파란색 Evermusic Free가 이를 감지하여 Premium을 자동으로 켭니다. 파란색 앱에서 Premium을 다시 구입할 필요가 없습니다. 빨간색 앱을 설치된 상태로 유지하기만 하면 됩니다.
 
 그 반대로는 작동하지 않습니다. 파란색 앱 내에서 Premium을 구입해도 빨간색 Evermusic Pro가 무료가 되지는 않습니다. 두 앱은 App Store에서 별도의 앱이기 때문입니다. 파란색 앱에서의 구입은 파란색 iPhone 앱과 파란색 Mac 앱 사이에서 iCloud를 통해 동기화됩니다.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Intel Mac에서 Premium을 사용할 수 있나요?" closed="true" %}}
+{{% ls-details title="Intel Mac에서 Premium을 사용할 수 있나요?" closed="true" %}}
 예. 파란색 Evermusic Free 앱을 사용하고 Premium으로 업그레이드하세요. 파란색 Mac 앱은 Apple Silicon과 Intel Mac 모두에서 실행됩니다. 빨간색 Evermusic Pro는 Apple Silicon Mac(M1 이상)에서만 실행되며 Intel Mac에는 설치할 수 없습니다.
-{{% /details %}}
+{{% /ls-details %}}

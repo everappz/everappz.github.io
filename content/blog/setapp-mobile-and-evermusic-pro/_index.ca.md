@@ -12,7 +12,7 @@ authors:
     image: "/images/about/artem-meleshko-founder-everappz.webp"
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 ![](/blog/setapp-mobile-and-evermusic-pro/21260c_766c4fbc81e6433cb8fc21b9c2862ce0~mv2.png)
 
@@ -64,27 +64,27 @@ Connecta't a **NAS, recursos compartits SMB** i **servidors WebDAV** per reprodu
 Preparat per provar-ho? Obtén Evermusic Pro a través de Setapp Mobile i comença a reproduir la teva biblioteca de música al núvol avui.
 
 {{< cards cols="1" >}}
-  {{< card link="https://go.setapp.com/stp435?_target=https://www.setapp.com/setapp-mobile&stc=mobile" title="Descarrega Evermusic Pro amb Setapp Mobile" icon="download" >}}
+  {{< ls-card link="https://go.setapp.com/stp435?_target=https://www.setapp.com/setapp-mobile&stc=mobile" title="Descarrega Evermusic Pro amb Setapp Mobile" icon="download" >}}
 {{< /cards >}}
 
 ## Preguntes freqüents
 
-{{% details title="Evermusic Pro és gratuït amb Setapp Mobile?" closed="true" %}}
+{{% ls-details title="Evermusic Pro és gratuït amb Setapp Mobile?" closed="true" %}}
 Sí. Evermusic Pro està inclòs en la subscripció Setapp Mobile sense cost addicional.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Quins serveis al núvol suporta Evermusic Pro?" closed="true" %}}
+{{% ls-details title="Quins serveis al núvol suporta Evermusic Pro?" closed="true" %}}
 Google Drive, Dropbox, OneDrive, iCloud, Box, MEGA, Yandex.Disk, pCloud, HiDrive i servidors WebDAV. També suporta SMB i NAS.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Puc escoltar sense connexió amb Evermusic Pro?" closed="true" %}}
+{{% ls-details title="Puc escoltar sense connexió amb Evermusic Pro?" closed="true" %}}
 Sí. Pots descarregar pistes, àlbums, artistes o llistes de reproducció per a reproducció sense connexió.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Quins formats d'àudio reprodueix Evermusic Pro?" closed="true" %}}
+{{% ls-details title="Quins formats d'àudio reprodueix Evermusic Pro?" closed="true" %}}
 FLAC, MP3, AAC, WAV, ALAC, AIFF, OPUS, OGG i molts altres formats.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Necessito una subscripció Setapp separada per a iPhone?" closed="true" %}}
+{{% ls-details title="Necessito una subscripció Setapp separada per a iPhone?" closed="true" %}}
 Setapp Mobile està disponible com a part del pla de subscripció Setapp que inclou aplicacions iOS. Consulta el web de Setapp per als preus actuals.
-{{% /details %}}
+{{% /ls-details %}}

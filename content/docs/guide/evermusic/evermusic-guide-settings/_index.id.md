@@ -18,7 +18,7 @@ readingTime: 16
 Layar Pengaturan adalah pusat kontrol Evermusic. Dari sini Anda dapat meningkatkan ke Premium, mengonfigurasi pemutar audio, mengelola perpustakaan musik, menyiapkan pengelola file, menyesuaikan antarmuka, mengaktifkan widget dan CarPlay, mencadangkan data Anda, dan mengakses bantuan dan informasi hukum. Bagian dikelompokkan di bawah header: **Pembelian & pembaruan**, preferensi aplikasi, **Bantuan**, dan **Hukum & privasi**.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Layar Pengaturan Evermusic" image="/docs/guide/evermusic/evermusic-guide-settings/img/settings-main-screen.webp" >}}
+  {{< ls-card title="" subtitle="Layar Pengaturan Evermusic" image="/docs/guide/evermusic/evermusic-guide-settings/img/settings-main-screen.webp" >}}
 {{< /cards >}}
 
 ## Pembelian & Pembaruan

@@ -12,7 +12,7 @@ authors:
     image: "/images/about/artem-meleshko-founder-everappz.webp"
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 ![](/blog/evermusic-stream-your-music-from-the-cloud-and-free-up-space-on-your-iphone-or-ipad/21260c_00c5356db3a24db6a6a37e353b774d56~mv2.jpg)
 
@@ -82,22 +82,22 @@ Evermusic поддерживает Google Drive, Dropbox, Box, OneDrive, MediaFi
 
 ## Часто задаваемые вопросы
 
-{{% details title="Evermusic бесплатный?" closed="true" %}}
+{{% ls-details title="Evermusic бесплатный?" closed="true" %}}
 Evermusic можно скачать бесплатно с дополнительными премиум-функциями. Базовое потоковое воспроизведение из облака и офлайн-воспроизведение доступны в бесплатной версии.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Какие облачные сервисы поддерживает Evermusic?" closed="true" %}}
+{{% ls-details title="Какие облачные сервисы поддерживает Evermusic?" closed="true" %}}
 Google Drive, Dropbox, Box, OneDrive, MediaFire, MEGA, Yandex.Disk, pCloud, HiDrive, MyDrive, файловые ресурсы SMB и серверы WebDAV.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Можно ли слушать музыку офлайн в Evermusic?" closed="true" %}}
+{{% ls-details title="Можно ли слушать музыку офлайн в Evermusic?" closed="true" %}}
 Да. Загрузите любой альбом, исполнителя, плейлист или отдельный трек для офлайн-воспроизведения прямо в приложении.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Какие аудиоформаты воспроизводит Evermusic?" closed="true" %}}
+{{% ls-details title="Какие аудиоформаты воспроизводит Evermusic?" closed="true" %}}
 Evermusic поддерживает MP3, FLAC, AAC, WAV, ALAC, AIFF, OPUS, OGG и многие другие форматы.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Нужен ли мне iTunes для переноса музыки?" closed="true" %}}
+{{% ls-details title="Нужен ли мне iTunes для переноса музыки?" closed="true" %}}
 Нет. Загрузите музыку в любой поддерживаемый облачный сервис с компьютера, а затем воспроизводите или скачивайте через Evermusic на iPhone или iPad.
-{{% /details %}}
+{{% /ls-details %}}

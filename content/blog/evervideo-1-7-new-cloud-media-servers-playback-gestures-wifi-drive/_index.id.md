@@ -12,7 +12,7 @@ authors:
     image: "/images/about/artem-meleshko-founder-everappz.webp"
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 **TL;DR:** [Evervideo 1.7](/products/evervideo) adalah pembaruan besar untuk pemutar video HD di iPhone, iPad, dan Mac. Rilis ini menambahkan 10+ koneksi cloud, NAS, dan media server baru — **Internxt**, **Proton Drive**, **QNAP**, **Nextcloud**, **Amazon S3**, plus media server paling populer **Plex**, **Subsonic**, **Navidrome**, **Jellyfin**, dan **Emby**, serta tiga protokol jaringan: **FTP**, **SFTP**, dan **NFS**. **Gestur pemutaran** baru memungkinkan Anda ketuk ganda untuk melompat maju atau mundur, ketuk dan tahan untuk berjalan pada 2x, dan ketuk sekali untuk mengaktifkan/menonaktifkan kontrol — semua tanpa keluar dari layar penuh. Wi-Fi Drive mendapat UI yang disegarkan dengan mode pemilihan dan antrean unggah yang lebih pintar. Seluruh aplikasi disesuaikan untuk desain **Liquid Glass** baru dari Apple.
 
@@ -147,58 +147,58 @@ Jika Anda menikmati aplikasinya, silakan tinggalkan penilaian di App Store — i
 
 ## Pertanyaan yang sering diajukan
 
-{{% details title="Apa yang baru di Evervideo 1.7?" closed="true" %}}
+{{% ls-details title="Apa yang baru di Evervideo 1.7?" closed="true" %}}
 Evervideo 1.7 memperkenalkan dukungan untuk 10+ koneksi baru (Plex, Jellyfin, Emby, Subsonic, Navidrome, Internxt, Proton Drive, QNAP, Nextcloud, Amazon S3, FTP, SFTP, NFS), gestur pemutaran baru (ketuk ganda untuk mencari, ketuk dan tahan untuk kecepatan 2x, ketuk sekali untuk mengaktifkan/menonaktifkan kontrol), Wi-Fi Drive yang didesain ulang dengan mode pemilihan dan antrean unggah yang lebih pintar, pembaruan desain Liquid Glass, pustaka koneksi yang diperbarui, dan banyak perbaikan bug.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Apakah Evervideo bekerja dengan Plex?" closed="true" %}}
+{{% ls-details title="Apakah Evervideo bekerja dengan Plex?" closed="true" %}}
 Ya. Mulai dari Evervideo 1.7, Anda dapat terhubung ke Plex Media Server dan streaming seluruh perpustakaan video Anda — film, acara TV, dan video rumah. Plex Media Server gratis untuk dijalankan; Plex Pass opsional. Evervideo mendukung pengaturan gratis maupun Plex Pass, termasuk pemutaran langsung MKV, MP4, AVI, MOV, dan format lainnya tanpa enkode ulang.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Apakah Jellyfin atau Navidrome didukung di Evervideo?" closed="true" %}}
+{{% ls-details title="Apakah Jellyfin atau Navidrome didukung di Evervideo?" closed="true" %}}
 Ya. Baik Jellyfin maupun Navidrome didukung sepenuhnya di Evervideo 1.7. Jellyfin adalah media server gratis dan open-source yang menangani video dan audio. Navidrome adalah server gratis dan open-source yang mengimplementasikan API Subsonic. Evervideo terhubung ke keduanya secara native.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Apakah Plex, Jellyfin, Emby, Navidrome, dan Subsonic gratis?" closed="true" %}}
+{{% ls-details title="Apakah Plex, Jellyfin, Emby, Navidrome, dan Subsonic gratis?" closed="true" %}}
 - **Plex** — server gratis; Plex Pass adalah peningkatan berbayar opsional.
 - **Jellyfin** — sepenuhnya gratis dan open-source.
 - **Emby** — server gratis; Emby Premiere berbayar dan membuka sinkronisasi mobile dan offline.
 - **Navidrome** — sepenuhnya gratis dan open-source.
 - **Subsonic** — server resmi seharga $1/bulan setelah uji coba 30 hari, tetapi API-nya terbuka dan banyak server gratis (termasuk Navidrome) yang mengimplementasikannya.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Bisakah saya streaming dari NAS rumah saya melalui SFTP, FTP, atau NFS?" closed="true" %}}
+{{% ls-details title="Bisakah saya streaming dari NAS rumah saya melalui SFTP, FTP, atau NFS?" closed="true" %}}
 Ya. Evervideo 1.7 menambahkan SFTP, FTP, dan NFS sebagai jenis koneksi native. SFTP adalah pilihan yang direkomendasikan untuk streaming dari server Anda sendiri melalui internet publik karena semua lalu lintas dienkripsi melalui SSH. FTP dan NFS paling baik digunakan di dalam jaringan lokal Anda atau di belakang VPN.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Bagaimana cara menghubungkan Evervideo ke server kustom menggunakan SFTP?" closed="true" %}}
+{{% ls-details title="Bagaimana cara menghubungkan Evervideo ke server kustom menggunakan SFTP?" closed="true" %}}
 Buka Evervideo, masuk ke tab Koneksi, pilih SFTP, dan masukkan hostname atau IP server Anda, port (biasanya 22), nama pengguna, dan kata sandi atau kunci pribadi SSH. Evervideo akan menelusuri folder jarak jauh Anda dan streaming berkas video secara langsung dengan enkripsi end-to-end.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Apakah Evervideo mendukung Internxt dan Proton Drive?" closed="true" %}}
+{{% ls-details title="Apakah Evervideo mendukung Internxt dan Proton Drive?" closed="true" %}}
 Ya. Kedua cloud yang berfokus pada privasi didukung mulai dari Evervideo 1.7. Mereka bergabung dengan MEGA dan layanan privasi-pertama lainnya yang sudah tersedia di aplikasi.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Bagaimana cara kerja gestur pemutaran baru?" closed="true" %}}
+{{% ls-details title="Bagaimana cara kerja gestur pemutaran baru?" closed="true" %}}
 Saat pemutaran video layar penuh, **ketuk ganda sisi kanan** untuk melompat maju dan **ketuk ganda sisi kiri** untuk melompat mundur dengan interval yang dapat dikonfigurasi (default 10 detik — ubah di Pengaturan). **Ketuk dan tahan** di mana pun di layar untuk mempercepat sementara ke 2x; lepaskan untuk kembali ke normal. **Ketuk sekali** di mana pun untuk mengaktifkan/menonaktifkan kontrol pemutaran (tampilkan atau sembunyikan).
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Bisakah saya mengubah interval lompat ketuk ganda?" closed="true" %}}
+{{% ls-details title="Bisakah saya mengubah interval lompat ketuk ganda?" closed="true" %}}
 Ya. Buka **Pengaturan → Pemutaran → Interval Lompat Gestur** dan pilih nilai antara 5 dan 60 detik. Sebagian besar pengguna mempertahankannya di 10 atau 15 detik.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Apa itu Wi-Fi Drive di Evervideo?" closed="true" %}}
+{{% ls-details title="Apa itu Wi-Fi Drive di Evervideo?" closed="true" %}}
 Wi-Fi Drive adalah fitur transfer berkas nirkabel bawaan Evervideo. Ini memungkinkan Anda mengunggah video dari komputer Anda ke iPhone atau iPad Anda melalui jaringan Wi-Fi lokal — tanpa iTunes, tanpa kabel, tanpa akun cloud. Anda dapat menggunakan browser desktop apa pun atau klien WebDAV seperti Mac Finder atau Windows File Explorer. Lihat [panduan Wi-Fi Drive lengkap](/docs/howto/how-to-transfer-files-wirelessly-from-a-computer-to-an-iphone-using-wifi-drive/).
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Apakah Evervideo memutar MKV, AVI, dan format lain dari Plex atau Jellyfin?" closed="true" %}}
+{{% ls-details title="Apakah Evervideo memutar MKV, AVI, dan format lain dari Plex atau Jellyfin?" closed="true" %}}
 Ya. Evervideo memutar hampir semua format video — MKV, AVI, MP4, MOV, FLV, WMV, WEBM, M4V, TS, 3GP — dan streaming langsung dari Plex, Jellyfin, Emby, dan media server lainnya tanpa memerlukan transcoding untuk sebagian besar codec. Ini berarti beban CPU yang lebih rendah di server Anda dan waktu mulai yang lebih cepat.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Apakah Evervideo 1.7 gratis untuk diperbarui?" closed="true" %}}
+{{% ls-details title="Apakah Evervideo 1.7 gratis untuk diperbarui?" closed="true" %}}
 Ya. Evervideo adalah unduhan gratis dari App Store, dan 1.7 adalah pembaruan gratis untuk semua pengguna yang sudah ada. Integrasi cloud baru, dukungan media server, gestur pemutaran, peningkatan Wi-Fi Drive, dan UI Liquid Glass adalah bagian dari pembaruan dasar.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Pada perangkat apa Evervideo 1.7 tersedia?" closed="true" %}}
+{{% ls-details title="Pada perangkat apa Evervideo 1.7 tersedia?" closed="true" %}}
 Evervideo 1.7 berjalan di iPhone, iPad, dan Mac. AirPlay dan Chromecast memungkinkan Anda meneruskan pemutaran ke layar yang lebih besar. Sinkronisasi iCloud Drive menjaga perpustakaan dan pengaturan Anda tetap konsisten di seluruh perangkat.
-{{% /details %}}
+{{% /ls-details %}}

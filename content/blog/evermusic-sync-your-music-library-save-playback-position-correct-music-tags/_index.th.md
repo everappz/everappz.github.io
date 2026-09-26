@@ -12,7 +12,7 @@ authors:
     image: "/images/about/artem-meleshko-founder-everappz.webp"
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 ![](/blog/evermusic-sync-your-music-library-save-playback-position-correct-music-tags/21260c_641f376e779e47d4927b43c210d3c87f~mv2.jpeg)
 
@@ -67,22 +67,22 @@ Evermusic ตรวจจับและแก้ไขแท็ก ID3 ที�
 
 ## คำถามที่พบบ่อย
 
-{{% details title="การซิงค์อัตโนมัติของ Evermusic ใช้ได้กับบริการคลาวด์ทั้งหมดหรือไม่?" closed="true" %}}
+{{% ls-details title="การซิงค์อัตโนมัติของ Evermusic ใช้ได้กับบริการคลาวด์ทั้งหมดหรือไม่?" closed="true" %}}
 ได้ การซิงค์อัตโนมัติใช้ได้กับ Dropbox, Google Drive, OneDrive, MEGA, WebDAV และ SMB เลือกโฟลเดอร์ที่ต้องการตรวจสอบแล้ว Evermusic จะดูแลให้คลังของคุณเป็นปัจจุบัน
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Evermusic สามารถบันทึกตำแหน่งหนังสือเสียงได้หรือไม่?" closed="true" %}}
+{{% ls-details title="Evermusic สามารถบันทึกตำแหน่งหนังสือเสียงได้หรือไม่?" closed="true" %}}
 ได้ เปิดใช้งานการบันทึกตำแหน่งการเล่นในการตั้งค่าเสียง Evermusic จะจดจำตำแหน่งที่คุณหยุดไว้สำหรับแต่ละไฟล์ เพื่อให้คุณกลับมาฟังต่อโดยไม่ต้องบุ๊กมาร์กด้วยตนเอง
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="การอ่านข้อมูลเมตาเบื้องหลังทำงานอย่างไร?" closed="true" %}}
+{{% ls-details title="การอ่านข้อมูลเมตาเบื้องหลังทำงานอย่างไร?" closed="true" %}}
 Evermusic อ่านแท็ก ID3 และข้อมูลเมตาของไฟล์ในเบื้องหลังขณะที่คุณใช้ฟีเจอร์อื่น มันจัดระเบียบคลังของคุณตามศิลปิน อัลบั้ม และแนวเพลงโดยอัตโนมัติ
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Evermusic จะแก้ไขแท็กเพลงที่เสียหายได้หรือไม่?" closed="true" %}}
+{{% ls-details title="Evermusic จะแก้ไขแท็กเพลงที่เสียหายได้หรือไม่?" closed="true" %}}
 ได้ ฟีเจอร์แก้ไขแท็กอัตโนมัติจะตรวจสอบไฟล์ของคุณกับฐานข้อมูลออนไลน์และแก้ไขข้อมูลเมตา ID3 ที่ไม่ถูกต้อง ไม่สมบูรณ์ หรือขาดหาย
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Evermusic ดาวน์โหลดฟรีหรือไม่?" closed="true" %}}
+{{% ls-details title="Evermusic ดาวน์โหลดฟรีหรือไม่?" closed="true" %}}
 Evermusic ดาวน์โหลดฟรีพร้อมฟีเจอร์พรีเมียมเสริมที่ซื้อได้ในแอป
-{{% /details %}}
+{{% /ls-details %}}

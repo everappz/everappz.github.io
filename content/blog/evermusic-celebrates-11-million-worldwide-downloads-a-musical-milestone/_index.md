@@ -14,7 +14,7 @@ authors:
     image: "/images/about/artem-meleshko-founder-everappz.webp"
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 **TL;DR:** Evermusic has passed 11 million downloads worldwide. Key features include a 10-band equalizer, offline playback, iCloud Drive streaming, support for 10+ cloud services, cross-device sync, and a built-in ID3 tag editor.
 
@@ -72,22 +72,22 @@ Evermusic is built for anyone who stores music in the cloud or on local storage.
 
 ## FAQ
 
-{{% details title="What audio formats does Evermusic support?" closed="true" %}}
+{{% ls-details title="What audio formats does Evermusic support?" closed="true" %}}
 Evermusic plays MP3, FLAC, WAV, AAC, M4A, AIFF, OGG, WMA, and other popular audio formats.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Can I use Evermusic without an internet connection?" closed="true" %}}
+{{% ls-details title="Can I use Evermusic without an internet connection?" closed="true" %}}
 Yes. Download tracks from your cloud storage for offline playback. Once downloaded, no internet is required.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Does Evermusic work on Mac?" closed="true" %}}
+{{% ls-details title="Does Evermusic work on Mac?" closed="true" %}}
 Yes. Evermusic is available on both iOS (iPhone/iPad) and macOS, with library sync across all devices.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Is Evermusic free to download?" closed="true" %}}
+{{% ls-details title="Is Evermusic free to download?" closed="true" %}}
 Yes. Evermusic is free to download with optional premium features available through in-app purchase.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="How does iCloud Drive streaming work in Evermusic?" closed="true" %}}
+{{% ls-details title="How does iCloud Drive streaming work in Evermusic?" closed="true" %}}
 Connect your iCloud Drive account in the app, browse your music files, and tap to play. Tracks stream directly without needing to download first.
-{{% /details %}}
+{{% /ls-details %}}

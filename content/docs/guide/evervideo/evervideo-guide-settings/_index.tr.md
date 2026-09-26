@@ -23,7 +23,7 @@ readingTime: 16
 Ayarlar ekranı, Evervideo'nun kontrol merkezidir. Buradan Premium'a yükseltebilir, video ve ses motorlarını (sistem kodekleri veya FFmpeg) yapılandırabilir, Resim içinde Resim'i yönetebilir, altyazıları ayarlayabilir (birincil, ikincil, libass, harici dosyalar, yazı tipleri), medya kitaplığını düzenleyebilir, dosya yöneticisini kurabilir, Ana Ekran widget'larını etkinleştirebilir, verilerinizi yedekleyebilir ve yardım ile yasal bilgilere erişebilirsiniz. Bölümler şu başlıklar altında gruplandırılmıştır: Satın Almalar ve Güncellemeler, Uygulama Tercihleri, Yardım, Yasal ve Gizlilik.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evervideo Ayarlar Ana Ekranı" image="/docs/guide/evervideo/img/evervideo-settings.webp" >}}
+  {{< ls-card title="" subtitle="Evervideo Ayarlar Ana Ekranı" image="/docs/guide/evervideo/img/evervideo-settings.webp" >}}
 {{< /cards >}}
 
 ## Premium'a Yükselt
@@ -31,13 +31,13 @@ Ayarlar ekranı, Evervideo'nun kontrol merkezidir. Buradan Premium'a yükseltebi
 Tüm sınırlamaları kaldırmak için uygulamayı Premium sürümüne yükseltin. Uygulamanın ücretsiz sürümü, tüm kısıtlamaları kaldırmak ve Premium'a yükseltmek için tek seferlik ömür boyu uygulama içi satın alma ve iki abonelik seçeneği (1 ay ve 1 yıl) sunar.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evervideo Premium'a Yükselt" image="/docs/guide/evervideo/img/evervideo-upgrade-to-premium.webp" >}}
+  {{< ls-card title="" subtitle="Evervideo Premium'a Yükselt" image="/docs/guide/evervideo/img/evervideo-upgrade-to-premium.webp" >}}
 {{< /cards >}}
 
 **Aile Paylaşımı**, tüm satın almalar ve planlar için etkinleştirilmiştir; bu sayede Premium sürümü ek bir ücret ödemeden beş aile üyenize kadar paylaşabilirsiniz.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evervideo Premium Plan Seç" image="/docs/guide/evervideo/img/evervideo-select-premium-plan.webp" >}}
+  {{< ls-card title="" subtitle="Evervideo Premium Plan Seç" image="/docs/guide/evervideo/img/evervideo-select-premium-plan.webp" >}}
 {{< /cards >}}
 
 ## iOS ve Mac Arasında Satın Almaları Paylaşma
@@ -51,7 +51,7 @@ Uygulama ayarlarındaki **Satın Almaları Geri Yükle** düğmesine de dokunabi
 Satın alımınızı yeni bir cihazda geri yüklemek için **Satın Almalar → Satın Almaları Geri Yükle** menüsünü kullanın. Satın almalarınızın listesini göreceksiniz. Hepsini göremiyorsanız, cihazın satın almaların yapıldığı aynı Apple ID'ye bağlı olduğunu onaylayın ve iCloud'un etkinleştirildiğinden emin olun.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evervideo Ayarlar'daki Satın Almalar Menüsü" image="/docs/guide/evervideo/img/evervideo-purhases-menu-in-settings.webp" >}}
+  {{< ls-card title="" subtitle="Evervideo Ayarlar'daki Satın Almalar Menüsü" image="/docs/guide/evervideo/img/evervideo-purhases-menu-in-settings.webp" >}}
 {{< /cards >}}
 
 ## Premium'u Ücretsiz Deneyin

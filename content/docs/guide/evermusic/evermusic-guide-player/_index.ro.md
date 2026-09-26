@@ -17,7 +17,7 @@ Playerul este ecranul principal al aplicației unde puteți controla coada playe
 ## Accesarea Playerului
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Ecranul Playerului Audio Evermusic" image="/docs/guide/evermusic/evermusic-guide-player/img/player-main.webp" >}}
+  {{< ls-card title="" subtitle="Ecranul Playerului Audio Evermusic" image="/docs/guide/evermusic/evermusic-guide-player/img/player-main.webp" >}}
 {{< /cards >}}
 
 Puteți accesa playerul pe ecran complet din vizualizarea mini playerului. Pe iPhone, veți găsi mini playerul deasupra barei de file pe ecranul principal. Pe iPad sau Mac, acesta este accesibil din meniul stâng. Pentru a ascunde mini playerul, atingeți pictograma sa și glisați în jos. Pentru a ascunde complet playerul pe ecran complet, atingeți pur și simplu butonul de închidere din colțul din dreapta jos.
@@ -44,7 +44,7 @@ Dacă sunteți în dispoziție pentru ceva aleatoriu, opțiunea „Aleatoriu" es
 ## Control Volum
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Control Volum cu AirPlay și Google Cast" image="/docs/guide/evermusic/evermusic-guide-player/img/player-volume-control.webp" >}}
+  {{< ls-card title="" subtitle="Control Volum cu AirPlay și Google Cast" image="/docs/guide/evermusic/evermusic-guide-player/img/player-volume-control.webp" >}}
 {{< /cards >}}
 
 Găsiți bara glisantă de volum pe ecranul Setărilor Audio atingând pictograma de sunet sub comenzile de redare. Puteți schimba volumul folosind această bară glisantă sau butoanele standard de volum ale dispozitivului dvs. În plus, veți găsi câteva butoane de streaming utile:
@@ -63,7 +63,7 @@ Pe de altă parte, dacă preferați AirPlay, căutați butonul AirPlay în parte
 ## Egalizator Audio
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Egalizator Audio pe 10 Benzi" image="/docs/guide/evermusic/evermusic-guide-player/img/player-equalizer.webp" >}}
+  {{< ls-card title="" subtitle="Egalizator Audio pe 10 Benzi" image="/docs/guide/evermusic/evermusic-guide-player/img/player-equalizer.webp" >}}
 {{< /cards >}}
 
 Evermusic vine echipat cu un egalizator de 10 benzi, cu preset-uri în stil iPod, un preamplificator și setări manuale de egalizator. Pentru a activa egalizatorul, atingeți pur și simplu butonul „Egalizator" de pe bara de instrumente inferioară și comutați controlul de comutare din colțul din dreapta sus. Puteți selecta dintr-o gamă de preset-uri de egalizator predefinite, cum ar fi „Acustic", „Amplificator de bas", „Clasic" și altele. Dacă sunteți un entuziast al sunetului, veți aprecia capacitatea de a regla fin fiecare bandă de frecvență folosind bare glisante. Nu ezitați să creați și să salvați propriile preset-uri de egalizator audio. Dacă o piesă nu este suficient de puternică, puteți ajusta și câștigul preamplificatorului. Avem instrucțiuni mai detaliate despre cum să folosiți egalizatorul [aici](/docs/howto/how-to-use-the-audio-equalizer-on-your-iphone-ipad-mac-with-evermusic-and-flacbox).
@@ -71,7 +71,7 @@ Evermusic vine echipat cu un egalizator de 10 benzi, cu preset-uri în stil iPod
 ## Bara de Instrumente a Modului Player
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Bara de Instrumente Superioară a Playerului cu Căutare și Viteză" image="/docs/guide/evermusic/evermusic-guide-player/img/player-top-toolbar.webp" >}}
+  {{< ls-card title="" subtitle="Bara de Instrumente Superioară a Playerului cu Căutare și Viteză" image="/docs/guide/evermusic/evermusic-guide-player/img/player-top-toolbar.webp" >}}
 {{< /cards >}}
 
 Pentru câteva stiluri selectate de ecran al playerului, veți găsi o bară de instrumente a modului player în partea superioară a ecranului playerului, chiar sub bara de navigare. Această bară de instrumente utilă conține trei butoane.
@@ -82,7 +82,7 @@ Pentru câteva stiluri selectate de ecran al playerului, veți găsi o bară de 
 ## Marcaje Audio
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Marcaje Audio pentru Cărți Audio și Prelegeri" image="/docs/guide/evermusic/evermusic-guide-player/img/player-bookmarks.webp" >}}
+  {{< ls-card title="" subtitle="Marcaje Audio pentru Cărți Audio și Prelegeri" image="/docs/guide/evermusic/evermusic-guide-player/img/player-bookmarks.webp" >}}
 {{< /cards >}}
 
 Aici puteți crea mai multe marcaje pentru piese din biblioteca dvs. de muzică. Avem o instrucțiune completă despre cum să folosiți marcajele [aici](/docs/howto/how-to-listen-to-audiobooks-on-iphone-ipad-mac-using-evermusic).
@@ -90,7 +90,7 @@ Aici puteți crea mai multe marcaje pentru piese din biblioteca dvs. de muzică.
 ## Coada Playerului
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Coada Playerului" image="/docs/guide/evermusic/evermusic-guide-player/img/player-queue.webp" >}}
+  {{< ls-card title="" subtitle="Coada Playerului" image="/docs/guide/evermusic/evermusic-guide-player/img/player-queue.webp" >}}
 {{< /cards >}}
 
 Pentru a accesa coada playerului, atingeți pur și simplu butonul cozii playerului de pe bara de instrumente inferioară. Pentru a muta o melodie în coadă, utilizați indicatorul de reordonare de lângă titlu.
@@ -98,7 +98,7 @@ Pentru a accesa coada playerului, atingeți pur și simplu butonul cozii playeru
 ## Comentarii / Versuri
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Comentarii, Versuri Încorporate și Fișiere LRC" image="/docs/guide/evermusic/evermusic-guide-player/img/player-lyrics.webp" >}}
+  {{< ls-card title="" subtitle="Comentarii, Versuri Încorporate și Fișiere LRC" image="/docs/guide/evermusic/evermusic-guide-player/img/player-lyrics.webp" >}}
 {{< /cards >}}
 
 Pentru a vizualiza comentariile piesei și versurile încorporate, precum și fișierele LRC, urmați acești pași:
@@ -114,7 +114,7 @@ Avem o instrucțiune completă despre cum să vizualizați versurile [aici](/doc
 ## Meniul de Opțiuni
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Meniu de Opțiuni pentru un Element din Coadă" image="/docs/guide/evermusic/evermusic-guide-player/img/player-queue-item-options-menu.webp" >}}
+  {{< ls-card title="" subtitle="Meniu de Opțiuni pentru un Element din Coadă" image="/docs/guide/evermusic/evermusic-guide-player/img/player-queue-item-options-menu.webp" >}}
 {{< /cards >}}
 
 Fiecare melodie din coada playerului audio are un meniu cu mai multe acțiuni, pe care îl puteți accesa atingând butonul cu trei puncte de lângă titlul melodiei. Acțiunile disponibile sunt:
@@ -153,7 +153,7 @@ Atingeți butonul de acțiuni suplimentare „..." din partea stângă a titlulu
 ## Recente și Preferințe
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Melodii Redate Recent din Player" image="/docs/guide/evermusic/evermusic-guide-player/img/player-recents.webp" >}}
+  {{< ls-card title="" subtitle="Melodii Redate Recent din Player" image="/docs/guide/evermusic/evermusic-guide-player/img/player-recents.webp" >}}
 {{< /cards >}}
 
 Pe ecranul playerului, puteți accesa secțiunile „Recente" și „Preferințe" atingând butonul Mai multe Acțiuni „…" și selectând elementul de meniu respectiv. În ambele secțiuni, puteți căuta melodii, reda toate piesele, reda toate piesele aleatoriu, exporta lista și șterge lista. Avem instrucțiuni detaliate despre cum să exportați listele de melodii [aici](/docs/howto/export-tracks-collection-from-evermusic-flacbox-to-m3u-csv-txt/).
@@ -161,7 +161,7 @@ Pe ecranul playerului, puteți accesa secțiunile „Recente" și „Preferințe
 ## Fereastra Mini Player (Exclusiv Mac)
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Fereastra Mini Player Mac" image="/docs/guide/evermusic/evermusic-guide-player/img/player-mini-mac.webp" >}}
+  {{< ls-card title="" subtitle="Fereastra Mini Player Mac" image="/docs/guide/evermusic/evermusic-guide-player/img/player-mini-mac.webp" >}}
 {{< /cards >}}
 
 Pentru utilizatorii de Mac, există o fereastră de mini player utilă. Pentru a o accesa, mutați cursorul în colțul din dreapta jos al ferestrei aplicației și redimensionați-o la cea mai mică dimensiune posibilă. Apoi, atingeți butonul de restrângere (reprezentat ca o săgeată îndreptată în jos) pentru a activa fereastra mini playerului. Dacă doriți să o mențineți deasupra altor ferestre, mergeți la bara de meniu superioară a Mac-ului, selectați „Fereastră" și alegeți „Afișare fereastră mereu deasupra". Această funcție este deosebit de convenabilă când ascultați prelegeri audio și nu doriți întreruperi.
@@ -169,7 +169,7 @@ Pentru utilizatorii de Mac, există o fereastră de mini player utilă. Pentru a
 ## Comenzi Rapide de la Tastatură (Exclusiv Mac)
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Meniu de Redare din Bara de Stare Mac cu Comenzi Rapide de la Tastatură" image="/docs/guide/evermusic/evermusic-guide-player/img/player-mac-shortcuts.webp" >}}
+  {{< ls-card title="" subtitle="Meniu de Redare din Bara de Stare Mac cu Comenzi Rapide de la Tastatură" image="/docs/guide/evermusic/evermusic-guide-player/img/player-mac-shortcuts.webp" >}}
 {{< /cards >}}
 
 Pentru utilizatorii de Mac, există un meniu de redare de sistem disponibil pe bara de stare cu comenzi rapide de la tastatură. De exemplu, pentru Redare/Pauză, atingeți pur și simplu bara de spațiu de pe tastatură. Comenzile rapide pentru Oprire, Melodia Următoare, Melodia Anterioară, Sărire Timp, Repetare, Aleatoriu și Viteză de Redare sunt disponibile conform capturii de ecran.
@@ -177,7 +177,7 @@ Pentru utilizatorii de Mac, există un meniu de redare de sistem disponibil pe b
 ## Setările Playerului Audio
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Setările Playerului Audio" image="/docs/guide/evermusic/evermusic-guide-player/img/player-settings.webp" >}}
+  {{< ls-card title="" subtitle="Setările Playerului Audio" image="/docs/guide/evermusic/evermusic-guide-player/img/player-settings.webp" >}}
 {{< /cards >}}
 
 Pentru a accesa setările playerului audio, atingeți butonul Mai mult de pe ecranul playerului audio și selectați „Setări" din meniul derulant. Aici veți găsi diverse secțiuni grupate după funcționalitate:

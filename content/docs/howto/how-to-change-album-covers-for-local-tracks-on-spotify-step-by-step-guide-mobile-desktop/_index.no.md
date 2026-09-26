@@ -7,7 +7,7 @@ tags: ["spotify", "albumomslag", "mp3", "metadata", "musikkeditor", "lokale file
 readingTime: 3
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **Kort sagt:** Spotify lar deg ikke endre albumomslag for strømmede spor, men du kan oppdatere kunstverk for lokale filer. Aktiver Spotifys funksjon for lokale filer, kopier musikken din til Spotify-mappen, og bruk deretter den gratis Evertag-appen til å redigere albumomslag og metadata. Endringene vises i Spotify etter en omstart.
@@ -25,8 +25,8 @@ For å gjøre ting enklere viser vi hvordan du redigerer albumkunstverk med **Ev
 Start med å laste ned **Evertag**-appen fra App Store. Den er gratis og tilgjengelig på både **iOS** og **macOS**.
 
 {{< cards cols="2">}}
-{{< card link="https://apps.apple.com/app/apple-store/id1450763230?pt=95781850&ct=everappzcom&mt=8" title="Evertag for iOS" icon="download" tag="Free" >}}
-{{< card link="https://apps.apple.com/app/apple-store/id1594027661?pt=95781850&ct=everappzcom&mt=8" title="Evertag for macOS" icon="download" tag="Free" >}}
+{{< ls-card link="https://apps.apple.com/app/apple-store/id1450763230?pt=95781850&ct=everappzcom&mt=8" title="Evertag for iOS" icon="download" tag="Free" >}}
+{{< ls-card link="https://apps.apple.com/app/apple-store/id1594027661?pt=95781850&ct=everappzcom&mt=8" title="Evertag for macOS" icon="download" tag="Free" >}}
 {{< /cards >}}
 
 ## Aktiver lokalt bibliotek i Spotify
@@ -36,7 +36,7 @@ Som standard er **Biblioteket for lokale filer** deaktivert i Spotify-appen. Hvi
 ### Åpne Spotify-appen
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Spotifys hovedgrensesnitt" image="/docs/howto/how-to-change-album-covers-for-local-tracks-on-spotify-step-by-step-guide-mobile-desktop/spotify-main.webp" >}}
+{{< ls-card title="" subtitle="Spotifys hovedgrensesnitt" image="/docs/howto/how-to-change-album-covers-for-local-tracks-on-spotify-step-by-step-guide-mobile-desktop/spotify-main.webp" >}}
 {{< /cards >}}
 
 ### Trykk på profilikonet ditt
@@ -44,7 +44,7 @@ Som standard er **Biblioteket for lokale filer** deaktivert i Spotify-appen. Hvi
 Se i øvre venstre hjørne av Spotify-startskjermen og trykk på profilbildet ditt for å åpne menyen.
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Spotify-avatar og alternativer" image="/docs/howto/how-to-change-album-covers-for-local-tracks-on-spotify-step-by-step-guide-mobile-desktop/spotify-avatar-options.webp" >}}
+{{< ls-card title="" subtitle="Spotify-avatar og alternativer" image="/docs/howto/how-to-change-album-covers-for-local-tracks-on-spotify-step-by-step-guide-mobile-desktop/spotify-avatar-options.webp" >}}
 {{< /cards >}}
 
 ### Velg «Innstillinger og personvern»
@@ -52,7 +52,7 @@ Se i øvre venstre hjørne av Spotify-startskjermen og trykk på profilbildet di
 Rull ned i menyen og velg **Innstillinger og personvern** for å åpne den fullstendige listen over alternativer.
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Spotify-innstillingsmeny" image="/docs/howto/how-to-change-album-covers-for-local-tracks-on-spotify-step-by-step-guide-mobile-desktop/spotify-settings.webp" >}}
+{{< ls-card title="" subtitle="Spotify-innstillingsmeny" image="/docs/howto/how-to-change-album-covers-for-local-tracks-on-spotify-step-by-step-guide-mobile-desktop/spotify-settings.webp" >}}
 {{< /cards >}}
 
 ### Velg «Apper og enheter»
@@ -60,7 +60,7 @@ Rull ned i menyen og velg **Innstillinger og personvern** for å åpne den fulls
 Finn og trykk på menyelementet **Apper og enheter** for å se enhetsintegrasjonsinnstillinger.
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Spotify apper og enheter" image="/docs/howto/how-to-change-album-covers-for-local-tracks-on-spotify-step-by-step-guide-mobile-desktop/spotify-apps-and-devices.webp" >}}
+{{< ls-card title="" subtitle="Spotify apper og enheter" image="/docs/howto/how-to-change-album-covers-for-local-tracks-on-spotify-step-by-step-guide-mobile-desktop/spotify-apps-and-devices.webp" >}}
 {{< /cards >}}
 
 ### Slå på «Lokale lydfiler»
@@ -68,7 +68,7 @@ Finn og trykk på menyelementet **Apper og enheter** for å se enhetsintegrasjon
 Slå på bryteren for **Lokale lydfiler**. Når du blir bedt om det, gi Spotify tillatelse til å få tilgang til musikkfilene dine.
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Gi Spotify tilgang til musikkfiler" image="/docs/howto/how-to-change-album-covers-for-local-tracks-on-spotify-step-by-step-guide-mobile-desktop/spotify-access-to-music.webp" >}}
+{{< ls-card title="" subtitle="Gi Spotify tilgang til musikkfiler" image="/docs/howto/how-to-change-album-covers-for-local-tracks-on-spotify-step-by-step-guide-mobile-desktop/spotify-access-to-music.webp" >}}
 {{< /cards >}}
 
 ### Sjekk Spotify-mappen
@@ -76,7 +76,7 @@ Slå på bryteren for **Lokale lydfiler**. Når du blir bedt om det, gi Spotify 
 Når tillatelsen er gitt, åpne **Filer**-appen, gå til **Plasseringer > På min iPhone/iPad**, og finn **Spotify**-mappen. Det er her lokale musikkfiler skal plasseres.
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Spotify-musikkfiler" image="/docs/howto/how-to-change-album-covers-for-local-tracks-on-spotify-step-by-step-guide-mobile-desktop/files-app-spotify-folder.webp" >}}
+{{< ls-card title="" subtitle="Spotify-musikkfiler" image="/docs/howto/how-to-change-album-covers-for-local-tracks-on-spotify-step-by-step-guide-mobile-desktop/files-app-spotify-folder.webp" >}}
 {{< /cards >}}
 
 ## Legg musikkfiler i Spotifys lokale biblioteksmappe
@@ -90,7 +90,7 @@ Nedenfor finner du instruksjoner med **Filer-appen**-metoden.
 ### Åpne Filer-appen – Plasseringer – På denne enheten
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Spotify-mappe" image="/docs/howto/how-to-change-album-covers-for-local-tracks-on-spotify-step-by-step-guide-mobile-desktop/files-app-spotify-folder.webp" >}}
+{{< ls-card title="" subtitle="Spotify-mappe" image="/docs/howto/how-to-change-album-covers-for-local-tracks-on-spotify-step-by-step-guide-mobile-desktop/files-app-spotify-folder.webp" >}}
 {{< /cards >}}
 
 ### Kopier musikkmappen
@@ -98,7 +98,7 @@ Nedenfor finner du instruksjoner med **Filer-appen**-metoden.
 Naviger til **Musikk**-mappen din. Trykk og hold for å åpne kontekstmenyen, og velg deretter **Kopier**.
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Tilgang til mappealternativer i Filer-appen" image="/docs/howto/how-to-change-album-covers-for-local-tracks-on-spotify-step-by-step-guide-mobile-desktop/files-app-folder-options.webp" >}}
+{{< ls-card title="" subtitle="Tilgang til mappealternativer i Filer-appen" image="/docs/howto/how-to-change-album-covers-for-local-tracks-on-spotify-step-by-step-guide-mobile-desktop/files-app-folder-options.webp" >}}
 {{< /cards >}}
 
 ### Lim inn musikkmappen
@@ -106,7 +106,7 @@ Naviger til **Musikk**-mappen din. Trykk og hold for å åpne kontekstmenyen, og
 Naviger til **Spotify**-mappen, trykk og hold på et tomt område, og velg **Lim inn** fra kontekstmenyen.
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Lim inn mappe på destinasjonsplasseringen" image="/docs/howto/how-to-change-album-covers-for-local-tracks-on-spotify-step-by-step-guide-mobile-desktop/files-app-paste-folder.webp" >}}
+{{< ls-card title="" subtitle="Lim inn mappe på destinasjonsplasseringen" image="/docs/howto/how-to-change-album-covers-for-local-tracks-on-spotify-step-by-step-guide-mobile-desktop/files-app-paste-folder.webp" >}}
 {{< /cards >}}
 
 ### Vent på kopieringsprosessen
@@ -114,7 +114,7 @@ Naviger til **Spotify**-mappen, trykk og hold på et tomt område, og velg **Lim
 Vent til systemet er ferdig med å kopiere musikkmappen din til Spotifys lokale katalog.
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Kopiering av musikkfiler med Filer-appen" image="/docs/howto/how-to-change-album-covers-for-local-tracks-on-spotify-step-by-step-guide-mobile-desktop/files-app-copying-music.webp" >}}
+{{< ls-card title="" subtitle="Kopiering av musikkfiler med Filer-appen" image="/docs/howto/how-to-change-album-covers-for-local-tracks-on-spotify-step-by-step-guide-mobile-desktop/files-app-copying-music.webp" >}}
 {{< /cards >}}
 
 ### Åpne Spotifys lokale bibliotek
@@ -122,7 +122,7 @@ Vent til systemet er ferdig med å kopiere musikkmappen din til Spotifys lokale 
 Gå nå tilbake til Spotify-appen. Trykk på **Ditt bibliotek > Lokale filer**, og du vil se musikkfilene du nettopp kopierte.
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Spotify viser lokalt musikkbibliotek" image="/docs/howto/how-to-change-album-covers-for-local-tracks-on-spotify-step-by-step-guide-mobile-desktop/spotify-local-music-library.webp" >}}
+{{< ls-card title="" subtitle="Spotify viser lokalt musikkbibliotek" image="/docs/howto/how-to-change-album-covers-for-local-tracks-on-spotify-step-by-step-guide-mobile-desktop/spotify-local-music-library.webp" >}}
 {{< /cards >}}
 
 ## Koble Spotify-mappen i Evertag-appen
@@ -149,26 +149,26 @@ Du kan redigere metadata direkte fra mapper uten å importere filene.
 - Rull til **Filer på denne enheten** i sidefeltet
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Se alle enhetsmapper i Evertag" image="/docs/howto/how-to-change-album-covers-for-local-tracks-on-spotify-step-by-step-guide-mobile-desktop/evertag-all-device-folders.webp" >}}
+{{< ls-card title="" subtitle="Se alle enhetsmapper i Evertag" image="/docs/howto/how-to-change-album-covers-for-local-tracks-on-spotify-step-by-step-guide-mobile-desktop/evertag-all-device-folders.webp" >}}
 {{< /cards >}}
 
 - Trykk på **Alle enhetsmapper**
 - Trykk på **Koble en mappe**
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Koble mappe med filvelgeren" image="/docs/howto/how-to-change-album-covers-for-local-tracks-on-spotify-step-by-step-guide-mobile-desktop/evertag-connect-folder-files-picker.webp" >}}
+{{< ls-card title="" subtitle="Koble mappe med filvelgeren" image="/docs/howto/how-to-change-album-covers-for-local-tracks-on-spotify-step-by-step-guide-mobile-desktop/evertag-connect-folder-files-picker.webp" >}}
 {{< /cards >}}
 
 - Velg **Spotify**-mappen og trykk **Åpne** for å bekrefte
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Koble mappe med Spotify lokale filer" image="/docs/howto/how-to-change-album-covers-for-local-tracks-on-spotify-step-by-step-guide-mobile-desktop/evertag-connect-folder-spotify-local.webp" >}}
+{{< ls-card title="" subtitle="Koble mappe med Spotify lokale filer" image="/docs/howto/how-to-change-album-covers-for-local-tracks-on-spotify-step-by-step-guide-mobile-desktop/evertag-connect-folder-spotify-local.webp" >}}
 {{< /cards >}}
 
 - Trykk på den tilkoblede mappen for å se og redigere innholdet
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Mappe tilkoblet i Evertag" image="/docs/howto/how-to-change-album-covers-for-local-tracks-on-spotify-step-by-step-guide-mobile-desktop/evertag-connected-folder.webp" >}}
+{{< ls-card title="" subtitle="Mappe tilkoblet i Evertag" image="/docs/howto/how-to-change-album-covers-for-local-tracks-on-spotify-step-by-step-guide-mobile-desktop/evertag-connected-folder.webp" >}}
 {{< /cards >}}
 
 ## Taggredigerer
@@ -176,7 +176,7 @@ Du kan redigere metadata direkte fra mapper uten å importere filene.
 **Taggredigereren** er hovedarbeidsområdet der du ser og endrer metadataene til lydfilene dine.
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Bla gjennom innholdet i den tilkoblede mappen" image="/docs/howto/how-to-change-album-covers-for-local-tracks-on-spotify-step-by-step-guide-mobile-desktop/evertag-connected-folder-content.webp" >}}
+{{< ls-card title="" subtitle="Bla gjennom innholdet i den tilkoblede mappen" image="/docs/howto/how-to-change-album-covers-for-local-tracks-on-spotify-step-by-step-guide-mobile-desktop/evertag-connected-folder-content.webp" >}}
 {{< /cards >}}
 
 ## Redigeringsmoduser
@@ -221,25 +221,25 @@ For å erstatte eller legge til nytt albumkunstverk:
 1. Trykk på **kameraikonet** i kunstverkskarusellen
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Velg et tilpasset albumomslagsbilde" image="/docs/howto/how-to-change-album-covers-for-local-tracks-on-spotify-step-by-step-guide-mobile-desktop/evertag-choose-photo.webp" >}}
+{{< ls-card title="" subtitle="Velg et tilpasset albumomslagsbilde" image="/docs/howto/how-to-change-album-covers-for-local-tracks-on-spotify-step-by-step-guide-mobile-desktop/evertag-choose-photo.webp" >}}
 {{< /cards >}}
 
 2. Velg en bildekilde (Fotobibliotek, Lokale filer, Sky)
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Åpne fotobiblioteket for å velge kunstverk" image="/docs/howto/how-to-change-album-covers-for-local-tracks-on-spotify-step-by-step-guide-mobile-desktop/evertag-photo-library.webp" >}}
+{{< ls-card title="" subtitle="Åpne fotobiblioteket for å velge kunstverk" image="/docs/howto/how-to-change-album-covers-for-local-tracks-on-spotify-step-by-step-guide-mobile-desktop/evertag-photo-library.webp" >}}
 {{< /cards >}}
 
 3. Velg bildet du vil bruke som omslag
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Forhåndsvisning av redigert albumomslag" image="/docs/howto/how-to-change-album-covers-for-local-tracks-on-spotify-step-by-step-guide-mobile-desktop/evertag-edited-album-cover.webp" >}}
+{{< ls-card title="" subtitle="Forhåndsvisning av redigert albumomslag" image="/docs/howto/how-to-change-album-covers-for-local-tracks-on-spotify-step-by-step-guide-mobile-desktop/evertag-edited-album-cover.webp" >}}
 {{< /cards >}}
 
 4. Trykk **Lagre** for å bruke endringene
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Lagre oppdaterte lydtagger" image="/docs/howto/how-to-change-album-covers-for-local-tracks-on-spotify-step-by-step-guide-mobile-desktop/evertag-save-tags.webp" >}}
+{{< ls-card title="" subtitle="Lagre oppdaterte lydtagger" image="/docs/howto/how-to-change-album-covers-for-local-tracks-on-spotify-step-by-step-guide-mobile-desktop/evertag-save-tags.webp" >}}
 {{< /cards >}}
 
 ## Oppdater Spotify-biblioteket
@@ -247,7 +247,7 @@ For å erstatte eller legge til nytt albumkunstverk:
 Etter at du har lagret taggene dine, gå tilbake til Spotify-appen.
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Bla gjennom Spotify-musikkbiblioteket" image="/docs/howto/how-to-change-album-covers-for-local-tracks-on-spotify-step-by-step-guide-mobile-desktop/spotify-library.webp" >}}
+{{< ls-card title="" subtitle="Bla gjennom Spotify-musikkbiblioteket" image="/docs/howto/how-to-change-album-covers-for-local-tracks-on-spotify-step-by-step-guide-mobile-desktop/spotify-library.webp" >}}
 {{< /cards >}}
 
 Åpne **Lokale filer**-seksjonen igjen. Du bør nå se oppdatert kunstverk og tagger for dine lokale spor.
@@ -255,7 +255,7 @@ Etter at du har lagret taggene dine, gå tilbake til Spotify-appen.
 > Hvis oppdateringene ikke vises umiddelbart, **tving Spotify til å lukke** og åpne den igjen. Dette utløser en metadata-oppdatering.
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Spor som spilles med redigert tagg" image="/docs/howto/how-to-change-album-covers-for-local-tracks-on-spotify-step-by-step-guide-mobile-desktop/spotify-playing-edited-tag.webp" >}}
+{{< ls-card title="" subtitle="Spor som spilles med redigert tagg" image="/docs/howto/how-to-change-album-covers-for-local-tracks-on-spotify-step-by-step-guide-mobile-desktop/spotify-playing-edited-tag.webp" >}}
 {{< /cards >}}
 
 ## Konklusjon
@@ -268,26 +268,26 @@ Trenger du hjelp med å tagge FLAC, MP3 eller andre høykvalitetsformater? [Prø
 
 ## Vanlige spørsmål
 
-{{% details title="Kan jeg endre albumomslag for Spotify-strømmespor?" closed="true" %}}
+{{% ls-details title="Kan jeg endre albumomslag for Spotify-strømmespor?" closed="true" %}}
 Nei. Spotify tillater ikke endring av kunstverk for spor i strømmekatalogen sin. Du kan bare redigere albumomslag for lokale filer som er lagt til i Spotify-biblioteket ditt.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Er Evertag gratis?" closed="true" %}}
+{{% ls-details title="Er Evertag gratis?" closed="true" %}}
 Ja. Evertag er gratis å laste ned og bruke på både iOS og macOS. Den støtter over 120 lydtagger og mer enn 30 filformater.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Hvilke lydformater støtter Evertag?" closed="true" %}}
+{{% ls-details title="Hvilke lydformater støtter Evertag?" closed="true" %}}
 Evertag støtter mer enn 30 formater inkludert MP3, FLAC, AAC, ALAC, WAV, AIFF, OGG, WMA og flere.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Hvorfor viser ikke Spotify mitt oppdaterte albumomslag?" closed="true" %}}
+{{% ls-details title="Hvorfor viser ikke Spotify mitt oppdaterte albumomslag?" closed="true" %}}
 Tving Spotify-appen til å lukke og åpne den igjen. Spotify lagrer metadata i hurtigbufferen og trenger en omstart for å oppdage endringer i lokale filer.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Kan jeg redigere tagger for flere filer samtidig?" closed="true" %}}
+{{% ls-details title="Kan jeg redigere tagger for flere filer samtidig?" closed="true" %}}
 Ja. Evertag støtter batchredigering. Velg flere filer og trykk «Rediger flere filer samtidig» for å oppdatere tagger og kunstverk for alle valgte spor på én gang.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Må jeg kopiere filer til Spotify-mappen?" closed="true" %}}
+{{% ls-details title="Må jeg kopiere filer til Spotify-mappen?" closed="true" %}}
 Ja. Spotify leser lokale filer bare fra sin dedikerte mappe. Kopier eller flytt musikkfilene dine til Spotify-mappen på enheten din, og aktiver deretter bryteren for lokale lydfiler i Spotify-innstillingene.
-{{% /details %}}
+{{% /ls-details %}}

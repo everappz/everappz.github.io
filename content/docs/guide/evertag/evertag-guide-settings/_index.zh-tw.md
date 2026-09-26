@@ -21,7 +21,7 @@ readingTime: 14
 - **法律與隱私** — 條款、隱私政策、法律聲明、分析與資料收集
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evertag Settings Screen" image="/docs/guide/evertag/img/settings.webp" >}}
+  {{< ls-card title="" subtitle="Evertag Settings Screen" image="/docs/guide/evertag/img/settings.webp" >}}
 {{< /cards >}}
 
 ## 升級到 Premium
@@ -63,7 +63,7 @@ readingTime: 14
 檔案管理器支援存取已連接的雲端儲存帳戶，並提供批次操作以快速管理多個檔案。
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evertag Settings File Manager Screen" image="/docs/guide/evertag/img/settings-file-manager.webp" >}}
+  {{< ls-card title="" subtitle="Evertag Settings File Manager Screen" image="/docs/guide/evertag/img/settings-file-manager.webp" >}}
 {{< /cards >}}
 
 ### 檔案傳輸
@@ -103,7 +103,7 @@ readingTime: 14
 在此部分，您可以設定內建音訊標籤編輯器。
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evertag Settings Tag Editor Screen" image="/docs/guide/evertag/img/settings-tag-editor.webp" >}}
+  {{< ls-card title="" subtitle="Evertag Settings Tag Editor Screen" image="/docs/guide/evertag/img/settings-tag-editor.webp" >}}
 {{< /cards >}}
 
 ### 專輯封面縮放
@@ -136,7 +136,7 @@ readingTime: 14
 在此部分，您可以自訂使用者介面設定以符合您的偏好。
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evertag Settings Personalization Screen" image="/docs/guide/evertag/img/settings-personalization.webp" >}}
+  {{< ls-card title="" subtitle="Evertag Settings Personalization Screen" image="/docs/guide/evertag/img/settings-personalization.webp" >}}
 {{< /cards >}}
 
 ### 應用程式圖示

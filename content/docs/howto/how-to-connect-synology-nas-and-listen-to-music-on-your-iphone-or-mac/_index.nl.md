@@ -7,7 +7,7 @@ tags: ["muziek", "streaming", "nas", "synology", "quickconnect"]
 readingTime: 4
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **Samenvatting:** Verbind uw Synology NAS met Evermusic of Flacbox via Synology's native API -- handmatig via IP-adres of automatisch via QuickConnect ID. Met QuickConnect kunt u op afstand muziek streamen zonder port forwarding. Beide apps ondersteunen FLAC, MP3, WAV en andere hi-res formaten.
@@ -140,22 +140,22 @@ Met veilige externe toegang via QuickConnect en ondersteuning voor een breed sca
 
 ## FAQ
 
-{{% details title="Wat is het verschil tussen handmatige verbinding en QuickConnect?" closed="true" %}}
+{{% ls-details title="Wat is het verschil tussen handmatige verbinding en QuickConnect?" closed="true" %}}
 Handmatige verbinding gebruikt het NAS IP-adres en de poort, wat werkt op uw lokale netwerk. QuickConnect gebruikt Synology's relayservice om een verbinding tot stand te brengen vanaf elke locatie via internet, zonder port forwarding.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Kan ik muziek streamen vanaf Synology NAS buiten mijn thuisnetwerk?" closed="true" %}}
+{{% ls-details title="Kan ik muziek streamen vanaf Synology NAS buiten mijn thuisnetwerk?" closed="true" %}}
 Ja. Schakel QuickConnect in op uw Synology NAS en gebruik de QuickConnect ID in Evermusic of Flacbox om muziek te streamen vanaf elke locatie met een internetverbinding.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Welke audioformaten worden ondersteund bij het streamen vanaf Synology NAS?" closed="true" %}}
+{{% ls-details title="Welke audioformaten worden ondersteund bij het streamen vanaf Synology NAS?" closed="true" %}}
 Evermusic en Flacbox ondersteunen FLAC, MP3, AAC, WAV, ALAC, OGG, WMA, DSD en vele andere formaten. Alle ondersteunde formaten werken bij het streamen vanaf Synology NAS.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Heb ik tweefactorauthenticatie nodig om verbinding te maken?" closed="true" %}}
+{{% ls-details title="Heb ik tweefactorauthenticatie nodig om verbinding te maken?" closed="true" %}}
 Nee, 2FA is optioneel. Als u echter tweestapsverificatie hebt ingeschakeld op uw Synology DSM, zal de app om een eenmalig wachtwoord vragen tijdens het inloggen. U moet opnieuw autoriseren wanneer de sessie verloopt.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Moet ik Synology native API, WebDAV of SMB gebruiken om verbinding te maken?" closed="true" %}}
+{{% ls-details title="Moet ik Synology native API, WebDAV of SMB gebruiken om verbinding te maken?" closed="true" %}}
 De Synology native API met QuickConnect is de beste keuze voor externe toegang. Voor lokaal netwerkgebruik is SMB doorgaans de snelste optie. WebDAV werkt goed voor zowel lokale als externe toegang. Evermusic en Flacbox ondersteunen alle drie de protocollen.
-{{% /details %}}
+{{% /ls-details %}}

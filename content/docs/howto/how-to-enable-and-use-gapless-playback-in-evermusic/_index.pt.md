@@ -7,7 +7,7 @@ tags: ["Evermusic", "Reprodução sem intervalos", "Como fazer", "Áudio", "Repr
 readingTime: 4
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 **Resumo:** Abra **Ajustes > Reprodutor de áudio > Reprodução sem intervalos** e ative o interruptor. A partir daí, as músicas tocam sem pausa, clique ou estalo entre elas. O Evermusic faz o pré-buffer e decodifica a próxima faixa enquanto a atual ainda toca, e depois faz a transição entre amostras de áudio em um buffer contínuo, de modo que a passagem é realmente perfeita. É reprodução sem intervalos real e precisa até a amostra, não um crossfade.
 
@@ -73,30 +73,30 @@ O resultado é que um álbum ao vivo, um set de DJ sincronizado no ritmo ou um d
 
 ## Perguntas frequentes
 
-{{% details title="Como ativo a reprodução sem intervalos no Evermusic?" closed="true" %}}
+{{% ls-details title="Como ativo a reprodução sem intervalos no Evermusic?" closed="true" %}}
 Abra o Evermusic, vá em Ajustes > Reprodutor de áudio > Reprodução sem intervalos e ative o interruptor. Ela vem desativada por padrão. Uma vez ativada, aplica-se a tudo o que você tocar e permanece ativada até que você a desligue.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="A reprodução sem intervalos do Evermusic é real ou é apenas crossfade?" closed="true" %}}
+{{% ls-details title="A reprodução sem intervalos do Evermusic é real ou é apenas crossfade?" closed="true" %}}
 É reprodução sem intervalos real e precisa até a amostra. O Evermusic decodifica e faz o pré-buffer da próxima faixa enquanto a atual toca, e depois faz a transição entre amostras de áudio em um buffer contínuo, de modo que nenhum silêncio, clique ou preenchimento é inserido e não ocorre pausa de reinício do decodificador. O crossfade é um recurso separado e diferente, que sobrepõe e mistura as faixas; a reprodução sem intervalos mantém o áudio exatamente como foi masterizado e apenas elimina a pausa.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Por que ainda ouço uma pausa entre algumas faixas?" closed="true" %}}
+{{% ls-details title="Por que ainda ouço uma pausa entre algumas faixas?" closed="true" %}}
 Certifique-se de que a reprodução sem intervalos esteja ativada em Ajustes > Reprodutor de áudio > Reprodução sem intervalos. Se a pausa continuar, ela pode estar embutida na própria gravação (alguns arquivos incluem alguns segundos de silêncio real no início ou no fim de uma faixa). A reprodução sem intervalos elimina a pausa que o reprodutor normalmente adicionaria entre as faixas; ela não pode remover o silêncio que faz parte do arquivo de áudio.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="A reprodução sem intervalos funciona com FLAC e outros arquivos lossless?" closed="true" %}}
+{{% ls-details title="A reprodução sem intervalos funciona com FLAC e outros arquivos lossless?" closed="true" %}}
 Sim. A reprodução sem intervalos funciona com FLAC, Apple Lossless (ALAC) e formatos com perdas como MP3 e AAC, estejam os arquivos armazenados localmente, na nuvem ou em um servidor de mídia.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Posso usar a reprodução sem intervalos e o crossfade ao mesmo tempo?" closed="true" %}}
+{{% ls-details title="Posso usar a reprodução sem intervalos e o crossfade ao mesmo tempo?" closed="true" %}}
 Não. Eles fazem coisas opostas, então ativar a reprodução sem intervalos desativa automaticamente o crossfade. Use a reprodução sem intervalos para álbuns ao vivo, mixagens de DJ e discos conceituais, em que o áudio deve ser preservado exatamente; use o crossfade se quiser que as músicas se fundam umas nas outras.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="A reprodução sem intervalos funciona ao transmitir da nuvem?" closed="true" %}}
+{{% ls-details title="A reprodução sem intervalos funciona ao transmitir da nuvem?" closed="true" %}}
 Sim. O Evermusic começa a fazer o buffer e a decodificar a próxima faixa antecipadamente, inclusive para unidades na nuvem e servidores de mídia, de modo que a transição continua perfeita. Em conexões mais lentas, ele simplesmente começa a preparar a próxima faixa um pouco mais cedo.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="A reprodução sem intervalos reduz a qualidade do áudio?" closed="true" %}}
+{{% ls-details title="A reprodução sem intervalos reduz a qualidade do áudio?" closed="true" %}}
 Não. A reprodução sem intervalos não recodifica nem processa seu áudio. Ela apenas muda a forma como as faixas são agendadas e armazenadas em buffer para que não haja pausa entre elas. Cada amostra é reproduzida exatamente como está no arquivo.
-{{% /details %}}
+{{% /ls-details %}}

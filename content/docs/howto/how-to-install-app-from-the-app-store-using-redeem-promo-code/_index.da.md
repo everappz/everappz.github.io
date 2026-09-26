@@ -7,7 +7,7 @@ tags: ["kampagne", "appstore", "installer", "indløs", "kode", "gratis"]
 readingTime: 2
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **Kort sagt:** En kampagnekode giver dig mulighed for at downloade en betalt app gratis eller låse op for in-app-køb. På iOS: App Store > Kontoikon > Indløs gavekort eller kode > indtast kode. På Mac: App Store > Konto > Indløs gavekort > indtast kode. Åbn derefter appen og gendan køb, hvis det er nødvendigt.
@@ -94,22 +94,22 @@ Nyd din gratis app eller in-app-opgradering!
 
 ## Ofte stillede spørgsmål
 
-{{% details title="Hvor får jeg en kampagnekode?" closed="true" %}}
+{{% ls-details title="Hvor får jeg en kampagnekode?" closed="true" %}}
 Kampagnekoder leveres af appudviklere til anmeldelser, giveaways eller kampagner. Kontakt udvikleren direkte for at anmode om en.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Udløber kampagnekoder?" closed="true" %}}
+{{% ls-details title="Udløber kampagnekoder?" closed="true" %}}
 Ja. Apple App Store-kampagnekoder udløber 28 dage efter de er genereret og kan kun indløses én gang.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Kan jeg bruge en kampagnekode i alle lande?" closed="true" %}}
+{{% ls-details title="Kan jeg bruge en kampagnekode i alle lande?" closed="true" %}}
 Kampagnekoder er regionsspecifikke. Koden skal matche App Store-landet for dit Apple ID.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Hvordan aktiverer jeg in-app-køb med en kampagnekode?" closed="true" %}}
+{{% ls-details title="Hvordan aktiverer jeg in-app-køb med en kampagnekode?" closed="true" %}}
 Efter indløsning af koden i App Store skal du åbne appen og gå til Indstillinger > Gendan køb. Premiumindholdet låses automatisk op.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Kampagnekoden siger, at den allerede er indløst. Hvad skal jeg gøre?" closed="true" %}}
+{{% ls-details title="Kampagnekoden siger, at den allerede er indløst. Hvad skal jeg gøre?" closed="true" %}}
 Hver kampagnekode kan kun bruges én gang. Kontakt udvikleren for at anmode om en ny kode.
-{{% /details %}}
+{{% /ls-details %}}

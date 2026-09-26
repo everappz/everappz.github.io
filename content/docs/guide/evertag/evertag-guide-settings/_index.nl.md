@@ -21,7 +21,7 @@ Op dit scherm heb je toegang tot de applicatie-instellingen en kun je upgraden n
 - **Juridisch & privacy** — Voorwaarden, Privacybeleid, Juridische mededelingen, Analytics & gegevensverzameling
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evertag Instellingen Scherm" image="/docs/guide/evertag/img/settings.webp" >}}
+  {{< ls-card title="" subtitle="Evertag Instellingen Scherm" image="/docs/guide/evertag/img/settings.webp" >}}
 {{< /cards >}}
 
 ## Upgrade naar Premium
@@ -63,7 +63,7 @@ Activeert het wachtwoordbeveiligingsscherm als je je applicatiegegevens wilt bes
 De bestandsbeheerder ondersteunt toegang tot verbonden cloudopslagaccounts en biedt batchbewerkingen voor snel beheer van meerdere bestanden.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evertag Instellingen Bestandsbeheerder Scherm" image="/docs/guide/evertag/img/settings-file-manager.webp" >}}
+  {{< ls-card title="" subtitle="Evertag Instellingen Bestandsbeheerder Scherm" image="/docs/guide/evertag/img/settings-file-manager.webp" >}}
 {{< /cards >}}
 
 ### Bestandsoverdrachten
@@ -103,7 +103,7 @@ Wis de cachemap van de applicatie om opslagruimte terug te winnen.
 In dit gedeelte kun je de ingebouwde audio-taggeditor configureren.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evertag Instellingen Taggeditor Scherm" image="/docs/guide/evertag/img/settings-tag-editor.webp" >}}
+  {{< ls-card title="" subtitle="Evertag Instellingen Taggeditor Scherm" image="/docs/guide/evertag/img/settings-tag-editor.webp" >}}
 {{< /cards >}}
 
 ### Albumhoes schalen
@@ -136,7 +136,7 @@ In dit gedeelte kun je de WiFi Drive-functie activeren, waarmee je bestanden kun
 In dit gedeelte kun je de instellingen voor de gebruikersinterface aanpassen aan je voorkeuren.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evertag Instellingen Personalisatie Scherm" image="/docs/guide/evertag/img/settings-personalization.webp" >}}
+  {{< ls-card title="" subtitle="Evertag Instellingen Personalisatie Scherm" image="/docs/guide/evertag/img/settings-personalization.webp" >}}
 {{< /cards >}}
 
 ### App-pictogram

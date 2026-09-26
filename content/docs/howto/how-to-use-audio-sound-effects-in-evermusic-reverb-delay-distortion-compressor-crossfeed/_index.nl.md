@@ -7,7 +7,7 @@ tags: ["Evermusic", "Audio-effecten", "Handleiding", "Reverb", "Delay", "Distort
 readingTime: 8
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 **Kort samengevat:** Evermusic bevat zes realtime audio-effecten — **Volumenormalisatie, Compressor, Reverb, Crossfeed, Delay en Distortion**. Open ze via het **⋯ (Meer) menu > Audio-effecten** van de speler, of via **Instellingen > Audiospeler > Audio-effecten**. Tik op een effect, zet de schakelaar **AAN** (rechtsboven), kies een **preset** en open eventueel de **Geavanceerde modus** om de schuifregelaars nauwkeurig af te stellen. Elk effect werkt onafhankelijk en wordt in realtime toegepast op alles wat je afspeelt — lokale bestanden, cloudstreams en internetradio — zonder opnieuw te coderen.
 
@@ -162,38 +162,38 @@ Ze werken ook samen met de **10-bands grafische equalizer** van Evermusic en het
 
 ## Veelgestelde vragen
 
-{{% details title="Hoe voeg ik reverb, delay of andere effecten toe aan mijn muziek in Evermusic?" closed="true" %}}
+{{% ls-details title="Hoe voeg ik reverb, delay of andere effecten toe aan mijn muziek in Evermusic?" closed="true" %}}
 Open de speler, tik op de knop ⋯ (Meer) en kies Audio-effecten (of ga naar Instellingen > Audiospeler > Audio-effecten). Tik op het gewenste effect, zet de schakelaar rechtsboven AAN en kies een preset. Open de Geavanceerde modus om de schuifregelaars af te stellen. Het effect wordt direct toegepast op wat er speelt.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Welke audio-effecten heeft Evermusic?" closed="true" %}}
+{{% ls-details title="Welke audio-effecten heeft Evermusic?" closed="true" %}}
 Zes realtime effecten: Volumenormalisatie (EBU R128 luidheidsnivellering), Compressor (dynamiek), Reverb (ruimte en echo-staart), Crossfeed (natuurlijke koptelefoonbeeldvorming), Delay (echo) en Distortion (lo-fi grit). Elk is onafhankelijk en kan alleen of gecombineerd worden gebruikt.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Veranderen of beschadigen de effecten mijn audiobestanden?" closed="true" %}}
+{{% ls-details title="Veranderen of beschadigen de effecten mijn audiobestanden?" closed="true" %}}
 Nee. Alle effecten worden alleen in realtime toegepast tijdens het afspelen. Ze wijzigen of hercoderen je bestanden nooit. Zet een effect uit en je originele geluid keert direct terug.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Kan ik meer dan één effect tegelijk gebruiken?" closed="true" %}}
+{{% ls-details title="Kan ik meer dan één effect tegelijk gebruiken?" closed="true" %}}
 Ja. Elk effect is onafhankelijk — er is geen hoofdschakelaar — dus je kunt elke combinatie inschakelen. Bijvoorbeeld Volumenormalisatie plus Compressor voor consistent, comfortabel luisteren, of Reverb plus Crossfeed op een koptelefoon.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Wat is Crossfeed en zou ik het moeten gebruiken?" closed="true" %}}
+{{% ls-details title="Wat is Crossfeed en zou ik het moeten gebruiken?" closed="true" %}}
 Crossfeed mengt een kleine, gefilterde hoeveelheid van elk stereokanaal in het andere zodat een koptelefoon meer als echte luidsprekers klinkt, waardoor het "in-je-hoofd"-gevoel van hard gepande mixen afneemt. Het is een koptelefooneffect (laat het uit voor luidsprekers). Het is gebouwd op het Bauer stereophonic-to-binaural (bs2b) algoritme en bevat presets zoals Chu Moy en Jan Meier.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Wat is Volumenormalisatie en hoe verschilt het van ReplayGain?" closed="true" %}}
+{{% ls-details title="Wat is Volumenormalisatie en hoe verschilt het van ReplayGain?" closed="true" %}}
 Volumenormalisatie houdt elk nummer op een consistente luidheid door de waargenomen luidheid te meten met de EBU R128-standaard en te nivelleren naar een doel. In tegenstelling tot ReplayGain heeft het geen luidheidstags in je bestanden nodig en wijzigt het de audio niet — het werkt live op elke bron, inclusief cloudstreams en internetradio. Presets: Licht, Standaard, Sterk en Nacht.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Wat is het verschil tussen de modus Eenvoudig en Geavanceerd?" closed="true" %}}
+{{% ls-details title="Wat is het verschil tussen de modus Eenvoudig en Geavanceerd?" closed="true" %}}
 De modus Eenvoudig toont een lijst met presets met eenvoudige beschrijvingen, zodat je met één tik een goed geluid krijgt. De modus Geavanceerd voegt de parameter-schuifregelaars toe (bijvoorbeeld Mix voor Reverb, of de zeven Compressor-bedieningen) voor nauwkeurige afstelling. Wissel ertussen met de modusknop rechtsboven in elke effecteditor.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Waarom zijn de effectbedieningen grijs?" closed="true" %}}
+{{% ls-details title="Waarom zijn de effectbedieningen grijs?" closed="true" %}}
 Het effect staat uit. Zet de schakelaar van het effect rechtsboven in de editor aan om de bedieningen te activeren. Elk effect staat standaard uit.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Werken de effecten met streaming en CarPlay?" closed="true" %}}
+{{% ls-details title="Werken de effecten met streaming en CarPlay?" closed="true" %}}
 Ja. De effecten draaien binnen de afspeelengine, dus ze worden toegepast op lokale bestanden, cloudschijven, mediaservers en internetradio, en ze blijven werken tijdens het afspelen via CarPlay.
-{{% /details %}}
+{{% /ls-details %}}

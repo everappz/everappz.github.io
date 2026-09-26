@@ -7,7 +7,7 @@ tags: ["carplay", "iphone", "lokal musikk", "offline avspilling", "evermusic", "
 readingTime: 5
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **TL;DR:** Bruk [Evermusic](https://apps.apple.com/app/apple-store/id885367198?pt=95781850&ct=everappzcom&mt=8) eller [Flacbox](https://apps.apple.com/app/apple-store/id1097564256?pt=95781850&ct=everappzcom&mt=8) for å spille dine egne MP3-, FLAC- eller andre lydfiler på iPhone gjennom Apple CarPlay. Legg til musikk fra skylagring, USB eller Wi-Fi-overføring, og bla deretter gjennom biblioteket, spillelister og mapper direkte på bilens skjerm.
@@ -17,7 +17,7 @@ readingTime: 5
 Vil du spille din egen musikk i bilen med Apple CarPlay? Enten sangene dine er lagret på iPhone, i skylagring eller offline — apper som **Evermusic** og **Flacbox** gjør det enkelt å lytte til din personlige musikksamling mens du kjører.
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="CarPlay Neste i køen" image="/docs/howto/how-to-play-your-own-music-on-iphone-using-carplay/carplay-nowplaying-5.webp" imageStyle="border-radius: clamp(14px, 2vw, 28px);" >}}
+{{< ls-card title="" subtitle="CarPlay Neste i køen" image="/docs/howto/how-to-play-your-own-music-on-iphone-using-carplay/carplay-nowplaying-5.webp" imageStyle="border-radius: clamp(14px, 2vw, 28px);" >}}
 {{< /cards >}}
 
 I denne guiden viser vi deg hvordan du forbereder musikkfilene for CarPlay, organiserer dem med riktige albumomslag og sporinformasjon, og spiller dem trygt fra iPhone. Med Evermusic eller Flacbox kan du opprette spillelister og strømme eller laste ned sanger fra tjenester som **Google Drive**, **Dropbox**, **OneDrive**, **NAS** eller hjemmedatamaskinen din.
@@ -25,8 +25,8 @@ I denne guiden viser vi deg hvordan du forbereder musikkfilene for CarPlay, orga
 Disse appene er perfekte for alle som ønsker full kontroll over musikkbiblioteket sitt.
 
 {{< cards cols="2">}}
-{{< card link="https://apps.apple.com/app/apple-store/id885367198?pt=95781850&ct=everappzcom&mt=8" title="Last ned Evermusic" icon="download" tag="Free" >}}
-{{< card link="https://apps.apple.com/app/apple-store/id1097564256?pt=95781850&ct=everappzcom&mt=8" title="Last ned Flacbox" icon="download" tag="Free" >}}
+{{< ls-card link="https://apps.apple.com/app/apple-store/id885367198?pt=95781850&ct=everappzcom&mt=8" title="Last ned Evermusic" icon="download" tag="Free" >}}
+{{< ls-card link="https://apps.apple.com/app/apple-store/id1097564256?pt=95781850&ct=everappzcom&mt=8" title="Last ned Flacbox" icon="download" tag="Free" >}}
 {{< /cards >}}
 
 ## Legg filer i appen
@@ -106,7 +106,7 @@ Overfør filer trådløst som beskrevet [her](/docs/howto/how-to-transfer-files-
 Når du har startet appene våre Evermusic eller Flacbox med CarPlay-modus, ser du hovedgrensesnittet delt inn i 4 hovedfaner: Bibliotek, **Tilkoblinger**, Lokale filer, **Innstillinger**.
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="CarPlay Hovedmeny" image="/docs/howto/how-to-play-your-own-music-on-iphone-using-carplay/library-with-images.webp" imageStyle="border-radius: clamp(14px, 2vw, 28px);" >}}
+{{< ls-card title="" subtitle="CarPlay Hovedmeny" image="/docs/howto/how-to-play-your-own-music-on-iphone-using-carplay/library-with-images.webp" imageStyle="border-radius: clamp(14px, 2vw, 28px);" >}}
 {{< /cards >}}
 
 ## Bibliotek
@@ -116,7 +116,7 @@ Fanen **Bibliotek** i Evermusic er det sentrale knutepunktet der all musikken di
 Denne skjermen gir deg rask tilgang til favoritter, nylige, spillelister, bokmerker og alle tillagte spor. Du kan også fortsette avspilling fra forrige økt, se uspilte sanger og utforske musikk etter tagger eller kildetype.
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Bibliotek" image="/docs/howto/how-to-play-your-own-music-on-iphone-using-carplay/library-with-images-3.webp" imageStyle="border-radius: clamp(14px, 2vw, 28px);" >}}
+{{< ls-card title="" subtitle="Bibliotek" image="/docs/howto/how-to-play-your-own-music-on-iphone-using-carplay/library-with-images-3.webp" imageStyle="border-radius: clamp(14px, 2vw, 28px);" >}}
 {{< /cards >}}
 
 Seksjonen **Bibliotek** inneholder følgende kategorier:
@@ -139,7 +139,7 @@ Seksjonen **Bibliotek** inneholder følgende kategorier:
 - **Online filer** – Musikk strømmet direkte fra skytjenester
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Album-visning" image="/docs/howto/how-to-play-your-own-music-on-iphone-using-carplay/albums.webp" imageStyle="border-radius: clamp(14px, 2vw, 28px);" >}}
+{{< ls-card title="" subtitle="Album-visning" image="/docs/howto/how-to-play-your-own-music-on-iphone-using-carplay/albums.webp" imageStyle="border-radius: clamp(14px, 2vw, 28px);" >}}
 {{< /cards >}}
 
 Du kan åpne en undermeny og trykke på et spor for å starte avspilling umiddelbart. For mer detaljert informasjon, se den fullstendige [Musikkbibliotek-guiden](/docs/guide/evermusic/evermusic-guide-music-library/).
@@ -150,7 +150,7 @@ Du kan åpne en undermeny og trykke på et spor for å starte avspilling umiddel
 Fanen **Tilkoblinger** er ditt sentrale knutepunkt for å få tilgang til og administrere alle tilkoblede skylagringstjenester og lokale nettverksenheter.
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Tilkoblinger" image="/docs/howto/how-to-play-your-own-music-on-iphone-using-carplay/connections-with-images-3.webp" imageStyle="border-radius: clamp(14px, 2vw, 28px);" >}}
+{{< ls-card title="" subtitle="Tilkoblinger" image="/docs/howto/how-to-play-your-own-music-on-iphone-using-carplay/connections-with-images-3.webp" imageStyle="border-radius: clamp(14px, 2vw, 28px);" >}}
 {{< /cards >}}
 
 Herfra kan du koble til populære skyplattformer som Dropbox, Google Drive, OneDrive, MEGA, iCloud Drive og til og med nettverksstasjoner som SMB, DLNA og WebDAV. Når du er tilkoblet, kan du bla gjennom, strømme, laste ned og administrere filer direkte fra appen.
@@ -172,7 +172,7 @@ For å lære mer om alle måtene å koble til og administrere sky- og nettverksb
 Seksjonen **Lokale filer** er ditt sentrale knutepunkt for å administrere lydfiler som er lagret direkte på enheten din eller i Evermusic-appens **Dokumenter**-katalog. Den inkluderer også offline filer lastet ned fra skylagring, hurtigbufferfiler for lydspilleren og mapper du har gjort tilgjengelige for offline avspilling. Denne seksjonen sikrer at du kan nyte musikkbiblioteket ditt selv uten internettforbindelse.
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Lokale filer" image="/docs/howto/how-to-play-your-own-music-on-iphone-using-carplay/local-files-with-images.webp" imageStyle="border-radius: clamp(14px, 2vw, 28px);" >}}
+{{< ls-card title="" subtitle="Lokale filer" image="/docs/howto/how-to-play-your-own-music-on-iphone-using-carplay/local-files-with-images.webp" imageStyle="border-radius: clamp(14px, 2vw, 28px);" >}}
 {{< /cards >}}
 
 Skjermen **Lokale filer** er organisert i følgende nøkkelseksjoner:
@@ -186,7 +186,7 @@ Skjermen **Lokale filer** er organisert i følgende nøkkelseksjoner:
 - **Lydspiller** – En hurtigbuffermappe som brukes for crossfade og ytelsesoptimalisering. Kan deaktiveres eller tømmes i innstillingene.
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Enhetsmapper i Lokale filer" image="/docs/howto/how-to-play-your-own-music-on-iphone-using-carplay/local-files-device-folders.webp" imageStyle="border-radius: clamp(14px, 2vw, 28px);" >}}
+{{< ls-card title="" subtitle="Enhetsmapper i Lokale filer" image="/docs/howto/how-to-play-your-own-music-on-iphone-using-carplay/local-files-device-folders.webp" imageStyle="border-radius: clamp(14px, 2vw, 28px);" >}}
 {{< /cards >}}
 
 Du kan lære mer i den fullstendige [Lokale filer-guiden](/docs/guide/evermusic/evermusic-guide-local-files/).
@@ -194,7 +194,7 @@ Du kan lære mer i den fullstendige [Lokale filer-guiden](/docs/guide/evermusic/
 ## Mappevisning
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Lokal mappe med omslag" image="/docs/howto/how-to-play-your-own-music-on-iphone-using-carplay/local-folder-with-images-2.webp" imageStyle="border-radius: clamp(14px, 2vw, 28px);" >}}
+{{< ls-card title="" subtitle="Lokal mappe med omslag" image="/docs/howto/how-to-play-your-own-music-on-iphone-using-carplay/local-folder-with-images-2.webp" imageStyle="border-radius: clamp(14px, 2vw, 28px);" >}}
 {{< /cards >}}
 
 Når du åpner en mappe, finner du et sett med nyttige handlinger øverst:
@@ -206,7 +206,7 @@ Når du åpner en mappe, finner du et sett med nyttige handlinger øverst:
 ## Innholdsdybdegrense
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Innholdsdybdegrense" image="/docs/howto/how-to-play-your-own-music-on-iphone-using-carplay/content-depth-limit.webp" imageStyle="border-radius: clamp(14px, 2vw, 28px);" >}}
+{{< ls-card title="" subtitle="Innholdsdybdegrense" image="/docs/howto/how-to-play-your-own-music-on-iphone-using-carplay/content-depth-limit.webp" imageStyle="border-radius: clamp(14px, 2vw, 28px);" >}}
 {{< /cards >}}
 
 Når du bruker CarPlay, kan du støte på en **"Innholdsdybdegrense"**-feil — spesielt hvis musikkbiblioteket ditt har mange dypt nestede mapper.  
@@ -227,7 +227,7 @@ Denne løsningen sikrer en sømløs opplevelse når du blar gjennom musikken i b
 ## Spilles nå
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="CarPlay Spilles nå" image="/docs/howto/how-to-play-your-own-music-on-iphone-using-carplay/carplay-nowplaying.webp" imageStyle="border-radius: clamp(14px, 2vw, 28px);" >}}
+{{< ls-card title="" subtitle="CarPlay Spilles nå" image="/docs/howto/how-to-play-your-own-music-on-iphone-using-carplay/carplay-nowplaying.webp" imageStyle="border-radius: clamp(14px, 2vw, 28px);" >}}
 {{< /cards >}}
 
 Etter å ha trykket på en lydfil, legges den automatisk til i **spillerkøen**.  
@@ -244,7 +244,7 @@ Denne skjermen lar deg ha kontroll over lytteopplevelsen mens du kjører — try
 ## Innstillinger
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Innstillinger-meny" image="/docs/howto/how-to-play-your-own-music-on-iphone-using-carplay/settings-2.webp" imageStyle="border-radius: clamp(14px, 2vw, 28px);" >}}
+{{< ls-card title="" subtitle="Innstillinger-meny" image="/docs/howto/how-to-play-your-own-music-on-iphone-using-carplay/settings-2.webp" imageStyle="border-radius: clamp(14px, 2vw, 28px);" >}}
 {{< /cards >}}
 
 Seksjonen **Innstillinger** i CarPlay-grensesnittet lar deg tilpasse hvordan appen oppfører seg mens du kjører. Disse innstillingene bidrar til å forbedre ytelsen, redusere distraksjoner og gi en jevnere lytteopplevelse.
@@ -260,7 +260,7 @@ Seksjonen **Innstillinger** i CarPlay-grensesnittet lar deg tilpasse hvordan app
 - **Sortering** – Juster hvordan innhold sorteres i CarPlay-menyer som filer, musikkbibliotek og tilkoblinger.
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Sorteringsalternativer-meny" image="/docs/howto/how-to-play-your-own-music-on-iphone-using-carplay/settings-sort.webp" imageStyle="border-radius: clamp(14px, 2vw, 28px);" >}}
+{{< ls-card title="" subtitle="Sorteringsalternativer-meny" image="/docs/howto/how-to-play-your-own-music-on-iphone-using-carplay/settings-sort.webp" imageStyle="border-radius: clamp(14px, 2vw, 28px);" >}}
 {{< /cards >}}
 
 - **Innholdslastegrense** – Angi hvor mange elementer som skal vises per skjerm. Lavere grenser forbedrer lastehastigheten og reduserer rulling.
@@ -271,19 +271,19 @@ Seksjonen **Innstillinger** i CarPlay-grensesnittet lar deg tilpasse hvordan app
 - **Lydequalizer**
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Equalizer-konfigurasjonspanel" image="/docs/howto/how-to-play-your-own-music-on-iphone-using-carplay/settings-eq-configuration.webp" imageStyle="border-radius: clamp(14px, 2vw, 28px);" >}}
+{{< ls-card title="" subtitle="Equalizer-konfigurasjonspanel" image="/docs/howto/how-to-play-your-own-music-on-iphone-using-carplay/settings-eq-configuration.webp" imageStyle="border-radius: clamp(14px, 2vw, 28px);" >}}
 {{< /cards >}}
 
 Aktiver den innebygde lydequalizer, juster frekvensbånd og velg fra forhåndskonfigurerte forhåndsinnstillinger for en personlig lydopplevelse.
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Equalizer forhåndsinnstillinger" image="/docs/howto/how-to-play-your-own-music-on-iphone-using-carplay/settings-equalizer.webp" imageStyle="border-radius: clamp(14px, 2vw, 28px);" >}}
+{{< ls-card title="" subtitle="Equalizer forhåndsinnstillinger" image="/docs/howto/how-to-play-your-own-music-on-iphone-using-carplay/settings-equalizer.webp" imageStyle="border-radius: clamp(14px, 2vw, 28px);" >}}
 {{< /cards >}}
 
 - **Crossfade-avspilling**
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Crossfade-avspilling" image="/docs/howto/how-to-play-your-own-music-on-iphone-using-carplay/settings-crossfade-playback.webp" imageStyle="border-radius: clamp(14px, 2vw, 28px);" >}}
+{{< ls-card title="" subtitle="Crossfade-avspilling" image="/docs/howto/how-to-play-your-own-music-on-iphone-using-carplay/settings-crossfade-playback.webp" imageStyle="border-radius: clamp(14px, 2vw, 28px);" >}}
 {{< /cards >}}
 
 Skap jevne overganger mellom sanger ved å overlappe slutten av ett spor med begynnelsen av det neste. Crossfade-varigheten kan tilpasses.
@@ -291,7 +291,7 @@ Skap jevne overganger mellom sanger ved å overlappe slutten av ett spor med beg
 - **Sømløs avspilling**
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Sømløs avspilling" image="/docs/howto/how-to-play-your-own-music-on-iphone-using-carplay/settings-gapless-playback.webp" imageStyle="border-radius: clamp(14px, 2vw, 28px);" >}}
+{{< ls-card title="" subtitle="Sømløs avspilling" image="/docs/howto/how-to-play-your-own-music-on-iphone-using-carplay/settings-gapless-playback.webp" imageStyle="border-radius: clamp(14px, 2vw, 28px);" >}}
 {{< /cards >}}
 
 Spill spor sømløst uten pauser — ideelt for liveopptak, DJ-mikser og konseptalbum.
@@ -307,7 +307,7 @@ For å lære mer, les den fullstendige [Innstillinger-guiden](/docs/guide/evermu
 Med **Evermusic** og **Flacbox** blir det enkelt, fleksibelt og pålitelig å spille din egen musikk i bilen med Apple CarPlay. Enten du strømmer fra skylagring, får tilgang til lokale filer eller spiller nedlastede spor offline — disse appene er bygget for å gi deg total kontroll over lytteopplevelsen mens du kjører.
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="CarPlay Spilles nå-skjerm" image="/docs/howto/how-to-play-your-own-music-on-iphone-using-carplay/carplay-nowplaying-2.webp" imageStyle="border-radius: clamp(14px, 2vw, 28px);" >}}
+{{< ls-card title="" subtitle="CarPlay Spilles nå-skjerm" image="/docs/howto/how-to-play-your-own-music-on-iphone-using-carplay/carplay-nowplaying-2.webp" imageStyle="border-radius: clamp(14px, 2vw, 28px);" >}}
 {{< /cards >}}
 
 Fra sømløs skyintegrasjon til offline mappesynkronisering, fra dyp musikkbibliotekorganisering til tilpassbar avspilling med equalizere og crossfade — disse funksjonene gjør Evermusic og Flacbox til mer enn bare lydspillere. De er smarte CarPlay-følgesvenner designet for audiofile, pendlere og hverdagsbrukere.
@@ -325,22 +325,22 @@ Utforsk flere funksjoner, innstillinger og veiledninger i vår fullstendige [Eve
 
 ## Ofte stilte spørsmål
 
-{{% details title="Hvilke musikkfilformater fungerer med CarPlay i Evermusic og Flacbox?" closed="true" %}}
+{{% ls-details title="Hvilke musikkfilformater fungerer med CarPlay i Evermusic og Flacbox?" closed="true" %}}
 Evermusic og Flacbox støtter et bredt utvalg lydformater inkludert MP3, FLAC, AAC, WAV, AIFF, OGG, WMA og mer. Alle støttede formater fungerer gjennom CarPlay uten noen konvertering.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Kan jeg spille musikk fra Google Drive eller Dropbox på CarPlay?" closed="true" %}}
+{{% ls-details title="Kan jeg spille musikk fra Google Drive eller Dropbox på CarPlay?" closed="true" %}}
 Ja. Både Evermusic og Flacbox lar deg koble til skylagringstjenester som Google Drive, Dropbox, OneDrive, MEGA og andre. Du kan strømme musikk direkte eller laste den ned for offline CarPlay-avspilling.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Trenger jeg internettforbindelse for å spille musikk på CarPlay?" closed="true" %}}
+{{% ls-details title="Trenger jeg internettforbindelse for å spille musikk på CarPlay?" closed="true" %}}
 Nei. Du kan laste ned musikk fra skylagring for offline avspilling. Når filer er lagret lokalt på iPhone, spilles de gjennom CarPlay uten noen internettforbindelse.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Hvorfor ser jeg en Innholdsdybdegrense-feil på CarPlay?" closed="true" %}}
+{{% ls-details title="Hvorfor ser jeg en Innholdsdybdegrense-feil på CarPlay?" closed="true" %}}
 CarPlay begrenser hvor mange mappenivåer det kan vise. Hvis musikken din er i dypt nestede mapper, legg disse mappene til Favoritter slik at du kan få tilgang til dem direkte fra Favoritter-menyen i CarPlay.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Er Evermusic eller Flacbox gratis å bruke med CarPlay?" closed="true" %}}
+{{% ls-details title="Er Evermusic eller Flacbox gratis å bruke med CarPlay?" closed="true" %}}
 Begge appene er gratis å laste ned med full CarPlay-støtte, equalizer og avspillingsfunksjoner. Gratisversjonene har begrensninger på skytilkoblinger (3), spillelister (10) og offline-mapper (1). Premium fjerner alle begrensninger.
-{{% /details %}}
+{{% /ls-details %}}

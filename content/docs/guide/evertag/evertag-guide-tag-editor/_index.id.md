@@ -15,7 +15,7 @@ readingTime: 5
 **Editor Tag** adalah layar utama aplikasi Evertag di mana Anda dapat melihat dan mengedit metadata file audio. Buka layar ini dengan mengetuk file dari bagian **File Lokal** atau dari akun **penyimpanan cloud** yang terhubung.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Layar Editor Tag Evertag" image="/docs/guide/evertag/img/tag-editor.webp" >}}
+  {{< ls-card title="" subtitle="Layar Editor Tag Evertag" image="/docs/guide/evertag/img/tag-editor.webp" >}}
 {{< /cards >}}
 
 ## Mode Pengeditan
@@ -38,7 +38,7 @@ Secara default, aplikasi membuka editor tag dalam mode file tunggal dengan hanya
 Untuk mengakses semua tag yang tersedia, gulir ke bagian bawah layar dan ketuk opsi **Tampilkan Tag Diperluas**. Ini akan mengalihkan editor ke mode diperluas, memungkinkan Anda mengedit lebih dari **120 kolom metadata**, termasuk **Tag MusicBrainz**, **Lirik**, **Peringkat Konsultasi**, nilai replay-gain, urutan pengurutan, metadata podcast, dan lainnya. Gunakan **Pengaturan → Editor tag audio → Tombol di layar utama** untuk secara permanen mengaktifkan Tampilkan Tag Diperluas agar selalu aktif.
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Panel Tindakan Bawah" image="/docs/guide/evertag/img/tag-editor-bottom-actions.webp" >}}
+{{< ls-card title="" subtitle="Panel Tindakan Bawah" image="/docs/guide/evertag/img/tag-editor-bottom-actions.webp" >}}
 {{< /cards >}}
 
 ## Mode Batch
@@ -53,7 +53,7 @@ Anda dapat masuk ke pengeditan batch dengan dua cara:
    - Buka file mana saja, gulir ke bawah, dan ketuk **Edit file secara bersamaan** untuk memuat semua file dari folder yang sama.
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Mode Pengeditan Batch" image="/docs/guide/evertag/img/tag-editor-batch-editing.webp" >}}
+{{< ls-card title="" subtitle="Mode Pengeditan Batch" image="/docs/guide/evertag/img/tag-editor-batch-editing.webp" >}}
 {{< /cards >}}
 
 Setelah mengedit, ketuk **Simpan** untuk menerapkan perubahan.
@@ -72,19 +72,19 @@ Anda tidak harus mengetik lirik dari awal. Editor menyertakan pintasan pencarian
 Setiap pintasan hanya muncul ketika layanan yang sesuai dapat dijangkau dari perangkat Anda. Ketuk layanan, salin lirik (atau cap waktu LRC) yang Anda inginkan, kembali ke Evertag, dan tempelkan ke kolom teks — lalu **Simpan** untuk menulis kembali lirik ke dalam tag file audio.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Halaman Lirik" image="/docs/guide/evertag/img/tag-editor-lyrics-pages.webp" >}}
+  {{< ls-card title="" subtitle="Halaman Lirik" image="/docs/guide/evertag/img/tag-editor-lyrics-pages.webp" >}}
 {{< /cards >}}
 
 Pilih bahasa dari pemilih:
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Pemilih Bahasa Lirik" image="/docs/guide/evertag/img/tag-editor-lyrics-language-select.webp" >}}
+  {{< ls-card title="" subtitle="Pemilih Bahasa Lirik" image="/docs/guide/evertag/img/tag-editor-lyrics-language-select.webp" >}}
 {{< /cards >}}
 
 Kemudian tempel atau ketik teks lirik. Evertag mendukung teks biasa dan lirik bertanda waktu (sinkronisasi) — tempat penampung menunjukkan contoh format gaya LRC, yang persis seperti yang dikembalikan Lrclib dan Lyricsify untuk hasil yang disinkronkan.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Editor Teks Lirik" image="/docs/guide/evertag/img/tag-editor-lyrics-text.webp" >}}
+  {{< ls-card title="" subtitle="Editor Teks Lirik" image="/docs/guide/evertag/img/tag-editor-lyrics-text.webp" >}}
 {{< /cards >}}
 
 ## Atur Peringkat dan Peringkat Konsultasi
@@ -96,7 +96,7 @@ Editor diperluas menawarkan kontrol bintang **Peringkat** bersama kontrol terseg
 Gunakan kolom **Peringkat** untuk memberi lagu skor pribadi dari satu hingga lima bintang. Nilainya ditulis ke tag peringkat standar file (POPM untuk ID3, `rate` untuk MP4, `RATING` untuk Vorbis/APE, dll.), sehingga aplikasi lain yang membaca tag ini — termasuk aplikasi Musik, Plex, Roon, dan sebagian besar editor tag desktop — akan langsung mengambil skor Anda.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Peringkat" image="/docs/guide/evertag/img/tag-editor-rating.webp" >}}
+  {{< ls-card title="" subtitle="Peringkat" image="/docs/guide/evertag/img/tag-editor-rating.webp" >}}
 {{< /cards >}}
 
 ### Peringkat Konsultasi
@@ -117,7 +117,7 @@ Anda ingin mengatur atau memperbaiki kolom ini ketika:
 Nilainya disimpan di kolom peringkat-konsultasi standar untuk format file (`rtng` untuk MP4, `TXXX:ITUNESADVISORY` untuk ID3, `ITUNESADVISORY` untuk Vorbis), sehingga pemutar apa pun yang membaca metadata panduan orang tua akan melihat pembaruan Anda.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Peringkat Konsultasi Lirik" image="/docs/guide/evertag/img/lyrics-advisory-rating.webp" >}}
+  {{< ls-card title="" subtitle="Peringkat Konsultasi Lirik" image="/docs/guide/evertag/img/lyrics-advisory-rating.webp" >}}
 {{< /cards >}}
 
 ## Edit Sampul Album
@@ -129,7 +129,7 @@ Untuk mengubah sampul album:
 3. Pilih gambar untuk diterapkan sebagai seni sampul.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Pilih Gambar" image="/docs/guide/evertag/img/select-image.webp" >}}
+  {{< ls-card title="" subtitle="Pilih Gambar" image="/docs/guide/evertag/img/select-image.webp" >}}
 {{< /cards >}}
 
 ## Lebih Banyak Tindakan di Editor Tag
@@ -137,7 +137,7 @@ Untuk mengubah sampul album:
 Opsi pengeditan tambahan tersedia melalui toolbar di bawah tampilan karya seni.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Menu Lebih Banyak Tindakan" image="/docs/guide/evertag/img/tag-editor-more-actions.webp" >}}
+  {{< ls-card title="" subtitle="Menu Lebih Banyak Tindakan" image="/docs/guide/evertag/img/tag-editor-more-actions.webp" >}}
 {{< /cards >}}
 
 ### Pencarian Otomatis Tag Audio
@@ -150,13 +150,13 @@ Aplikasi menggunakan database MusicBrainz — salah satu database tag paling kom
 Gunakan metadata untuk mencari di web karya seni album yang benar.  
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Cari Sampul Album" image="/docs/guide/evertag/img/search-album-cover.webp" >}}
+  {{< ls-card title="" subtitle="Cari Sampul Album" image="/docs/guide/evertag/img/search-album-cover.webp" >}}
 {{< /cards >}}
 
 Setelah ditemukan, simpan gambar ke **Foto** menggunakan menu konteks sistem.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Tambahkan Gambar ke Foto" image="/docs/guide/evertag/img/add-image-to-photos.webp" >}}
+  {{< ls-card title="" subtitle="Tambahkan Gambar ke Foto" image="/docs/guide/evertag/img/add-image-to-photos.webp" >}}
 {{< /cards >}}
 
 Setelah itu, kembali ke editor tag, ketuk ikon Kamera, pergi ke **Perpustakaan Foto**, dan pilih gambar yang disimpan. Aplikasi akan menetapkannya sebagai sampul untuk file audio Anda.
@@ -178,19 +178,19 @@ Cari metadata album secara manual menggunakan database MusicBrainz.
 - Pilih album  
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Pilih Album" image="/docs/guide/evertag/img/select-album-results.webp" >}}
+  {{< ls-card title="" subtitle="Pilih Album" image="/docs/guide/evertag/img/select-album-results.webp" >}}
 {{< /cards >}}
 
 - Pilih lagu yang benar  
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Pilih Lagu" image="/docs/guide/evertag/img/select-a-song.webp" >}}
+  {{< ls-card title="" subtitle="Pilih Lagu" image="/docs/guide/evertag/img/select-a-song.webp" >}}
 {{< /cards >}}
 
 - Pilih tag mana yang akan diterapkan  
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Pilih Tag Audio" image="/docs/guide/evertag/img/select-audio-tags.webp" >}}
+  {{< ls-card title="" subtitle="Pilih Tag Audio" image="/docs/guide/evertag/img/select-audio-tags.webp" >}}
 {{< /cards >}}
 
 Ketuk **Selesai** untuk menerapkan metadata yang dipilih ke lagu Anda.

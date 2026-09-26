@@ -17,7 +17,7 @@ readingTime: 6
 「播放列表」部分為您提供將曲目整理成清單的工具。它包括展示您所有已建立播放列表的內容檢視、導覽列中提供各種播放列表相關動作的「...」按鈕，以及帶有「搜尋」、「全部播放」和「隨機播放全部」按鈕的導覽工具列。此外，每個單獨的播放列表在播放列表標題附近都有一個「...」按鈕，提供一系列特定於該播放列表的動作。
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evermusic 播放列表畫面" image="/docs/guide/evermusic/evermusic-guide-playlists/img/playlists-main.webp" >}}
+  {{< ls-card title="" subtitle="Evermusic 播放列表畫面" image="/docs/guide/evermusic/evermusic-guide-playlists/img/playlists-main.webp" >}}
 {{< /cards >}}
 
 ## 建立播放列表
@@ -25,7 +25,7 @@ readingTime: 6
 若要建立新播放列表，請點選「+」按鈕或導覽列右上角的「...」按鈕，選擇「新增播放列表」並為播放列表命名。命名後，點選「儲存」。
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="建立新播放列表" image="/docs/guide/evermusic/evermusic-guide-playlists/img/playlists-add-new.webp" >}}
+  {{< ls-card title="" subtitle="建立新播放列表" image="/docs/guide/evermusic/evermusic-guide-playlists/img/playlists-add-new.webp" >}}
 {{< /cards >}}
 
 這會開啟「新增歌曲」對話方塊，您可以在其中選擇要新增到新播放列表的曲目。曲目按來源類型分類，您有幾個選項：
@@ -42,7 +42,7 @@ readingTime: 6
 在 Evermusic 中，我們新增了 M3U 檔案匯入功能，這樣您就不必手動建立播放列表。
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="從檔案來源匯入播放列表" image="/docs/guide/evermusic/evermusic-guide-playlists/img/playlists-import-from-files.webp" >}}
+  {{< ls-card title="" subtitle="從檔案來源匯入播放列表" image="/docs/guide/evermusic/evermusic-guide-playlists/img/playlists-import-from-files.webp" >}}
 {{< /cards >}}
 
 首先，前往「播放列表」部分。然後，點選右上角的「更多」按鈕。從出現的選單中，選擇「匯入播放列表」選項。
@@ -62,7 +62,7 @@ readingTime: 6
 當您開啟播放列表時，「播放列表詳情畫面」會出現。在此畫面上，您會在右上角找到帶有播放列表選項的「...」按鈕，以及封面圖片下方的三個按鈕：「搜尋」、「繼續播放」、「全部播放」和「隨機播放全部」。此外，還有一個「離線模式」核取方塊。
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="播放列表詳情畫面" image="/docs/guide/evermusic/evermusic-guide-playlists/img/playlists-detail-screen.webp" >}}
+  {{< ls-card title="" subtitle="播放列表詳情畫面" image="/docs/guide/evermusic/evermusic-guide-playlists/img/playlists-detail-screen.webp" >}}
 {{< /cards >}}
 
 - **繼續播放**：恢復此播放列表的播放位置。
@@ -87,7 +87,7 @@ readingTime: 6
 - **刪除播放列表：** 從音樂庫中刪除播放列表。請注意，此動作無法撤銷。
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="播放列表的更多動作選單" image="/docs/guide/evermusic/evermusic-guide-playlists/img/playlists-more-actions-for-separate-playlist.webp" >}}
+  {{< ls-card title="" subtitle="播放列表的更多動作選單" image="/docs/guide/evermusic/evermusic-guide-playlists/img/playlists-more-actions-for-separate-playlist.webp" >}}
 {{< /cards >}}
 
 ## 播放列表詳情畫面中播放列表的更多動作
@@ -113,7 +113,7 @@ readingTime: 6
 若要更改播放列表中歌曲的順序，請點選右上角的「...」按鈕並選擇「選擇」以進入選擇模式。使用每首曲目附近的重新排序控制項和拖放手勢上下移動它們。點選重新排序控制項將把曲目移動到清單頂部。若要退出選擇模式並套用更改，請點選「完成」。
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="更改播放列表中的歌曲順序" image="/docs/guide/evermusic/evermusic-guide-playlists/img/playlists-change-songs-order.webp" >}}
+  {{< ls-card title="" subtitle="更改播放列表中的歌曲順序" image="/docs/guide/evermusic/evermusic-guide-playlists/img/playlists-change-songs-order.webp" >}}
 {{< /cards >}}
 
 ## 更改播放列表封面圖片
@@ -129,7 +129,7 @@ readingTime: 6
 開啟播放列表，點選右上角的「...」按鈕，然後選擇「選擇」以進入選擇模式。選擇您要刪除的曲目並點選畫面底部的「從播放列表中刪除」按鈕。透過點選「完成」確認更改。
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="播放列表內的選擇模式" image="/docs/guide/evermusic/evermusic-guide-playlists/img/playlists-selection-mode-in-playlist-details-screen.webp" >}}
+  {{< ls-card title="" subtitle="播放列表內的選擇模式" image="/docs/guide/evermusic/evermusic-guide-playlists/img/playlists-selection-mode-in-playlist-details-screen.webp" >}}
 {{< /cards >}}
 
 ## 曲目選項
@@ -137,7 +137,7 @@ readingTime: 6
 播放列表中的每首曲目都有一個動作清單，透過點選「...」按鈕存取。如果您看不到所有動作，請向下捲動查看。您可以從播放列表中刪除曲目、下載它、編輯音訊標籤等。
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="播放列表中的曲目選項選單" image="/docs/guide/evermusic/evermusic-guide-playlists/img/playlists-track-options.webp" >}}
+  {{< ls-card title="" subtitle="播放列表中的曲目選項選單" image="/docs/guide/evermusic/evermusic-guide-playlists/img/playlists-track-options.webp" >}}
 {{< /cards >}}
 
 - **下一首播放：** 將曲目新增到播放器佇列頂部。

@@ -7,7 +7,7 @@ tags: ["zene", "hang", "lejátszó", "offline", "mód", "letöltés", "mappa", "
 keywords: ["offline zene iPhone", "felhő zene szinkronizálás", "Evermusic offline", "Flacbox zene szinkronizálás", "zene lejátszása internet nélkül", "hang letöltése a felhőből", "helyi fájl lejátszás iOS"]
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **Összefoglaló:** Az Evermusic és a Flacbox lehetővé teszi, hogy zenét töltsön le a felhőtárhelyről (Google Drive, Dropbox, OneDrive és még sok más) iPhone-jára vagy iPadjére offline lejátszáshoz. Három módszert használhat: közvetlen letöltés, offline mód automatikus szinkronizálással vagy hanglejátszó gyorsítótár. Ez az útmutató mindhárom megközelítést lépésről lépésre ismerteti.
@@ -140,26 +140,26 @@ Ezeket a részletes lépéseket követve zökkenőmentesen kezelheti és lejáts
 
 ## Gyakran ismételt kérdések
 
-{{% details title="Milyen felhőszolgáltatásokat támogat az Evermusic és a Flacbox?" closed="true" %}}
+{{% ls-details title="Milyen felhőszolgáltatásokat támogat az Evermusic és a Flacbox?" closed="true" %}}
 Mindkét alkalmazás támogatja a Google Drive-ot, Dropboxot, OneDrive-ot, Boxot, MEGA-t, Yandex.Disket és más nagy felhőtárhely-szolgáltatókat. Egyszerre több szolgáltatást is csatlakoztathat.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Automatikusan szinkronizálhatom a zenét a felhőtárhelyről az iPhone-omra?" closed="true" %}}
+{{% ls-details title="Automatikusan szinkronizálhatom a zenét a felhőtárhelyről az iPhone-omra?" closed="true" %}}
 Igen. Engedélyezze az Offline módot bármely mappához, lejátszási listához, albumhoz vagy előadóhoz. Az alkalmazás egyirányú szinkronizálást végez a felhőből az eszközre konfigurálható időközönként (alapértelmezett: naponta egyszer).
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Az offline mód sok tárhelyet használ az eszközömön?" closed="true" %}}
+{{% ls-details title="Az offline mód sok tárhelyet használ az eszközömön?" closed="true" %}}
 A tárhely-felhasználás a zenegyűjtemény méretétől és a fájlformátumoktól függ. Ezt szabályozhatja a szinkronizálandó mappák kiválasztásával, a gyorsítótár méretkorlátainak beállításával és a tárhely figyelésével az alkalmazás beállításaiban.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Milyen hangformátumok támogatottak az offline lejátszáshoz?" closed="true" %}}
+{{% ls-details title="Milyen hangformátumok támogatottak az offline lejátszáshoz?" closed="true" %}}
 Az Evermusic és a Flacbox támogatja az MP3, FLAC, AAC, ALAC, WAV, AIFF, OGG, WMA és sok más formátumot. A Flacbox a veszteségmentes formátumokra, mint a FLAC és ALAC, van optimalizálva.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Az offline zeném továbbra is lejátszódik, ha bezárom az alkalmazást?" closed="true" %}}
+{{% ls-details title="Az offline zeném továbbra is lejátszódik, ha bezárom az alkalmazást?" closed="true" %}}
 Igen. A letöltött fájlok helyben tárolódnak az eszközén, és az alkalmazás hanglejátszóján keresztül játszódnak le az internetkapcsolattól függetlenül. A háttérben történő lejátszás teljes mértékben támogatott.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Hogyan szabadíthatok fel helyet, amit az offline zene foglal el?" closed="true" %}}
+{{% ls-details title="Hogyan szabadíthatok fel helyet, amit az offline zene foglal el?" closed="true" %}}
 Tiltsa le az Offline módot adott mappákhoz a **Beállítások** > Fájlkezelő > **Szinkronizált offline mappák** menüpontban. Ez eltávolítja a helyi másolatokat az eszközéről. Törölheti a hanglejátszó gyorsítótárat is, vagy manuálisan törölheti a letöltött fájlokat.
-{{% /details %}}
+{{% /ls-details %}}

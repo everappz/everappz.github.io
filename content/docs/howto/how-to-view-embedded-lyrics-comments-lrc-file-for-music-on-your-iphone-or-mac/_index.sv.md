@@ -7,7 +7,7 @@ tags: ["ljud", "iphone", "mp3", "sångtexter", "lrc", "inbäddad", "visa", "visn
 keywords: ["visa inbäddade sångtexter iPhone", "Evermusic visa sångtexter", "LRC-fil Evermusic", "kommentarstagg ljud", "sångtextvisning Flacbox", "sångtexter iOS musikapp", "ljudspelare visa sångtexter"]
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **TL;DR:** Evermusic för iPhone och Mac visar inbäddade sångtexter, kommentarstaggar och externa .lrc-filer för alla ljudspår. Öppna spelaren, tryck på **Fler åtgärder** och välj sedan **Kommentarer** för att visa sångtexter i tre lägen: Kommentarer, Inbäddade sångtexter och LRC-fil.
@@ -68,22 +68,22 @@ Att visa inbäddade sångtexter, kommentarer eller synkroniserade `.lrc`-filer i
 
 ## Vanliga frågor
 
-{{% details title="Hur visar jag inbäddade sångtexter på min iPhone?" closed="true" %}}
+{{% ls-details title="Hur visar jag inbäddade sångtexter på min iPhone?" closed="true" %}}
 Öppna Evermusic, spela en låt, tryck på Fler åtgärder i helskärmsspelaren och välj Kommentarer. Svep till fliken Inbäddade sångtexter för att se sångtexter som lagrats i ljudfilens taggar.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Vad är en LRC-fil och hur fungerar den?" closed="true" %}}
+{{% ls-details title="Vad är en LRC-fil och hur fungerar den?" closed="true" %}}
 En LRC-fil är en textfil som innehåller tidsstämplade sångtexter. När den placeras i samma mapp som en ljudfil med samma filnamn läser Evermusic den och visar synkroniserade sångtexter som rullar under uppspelning.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Kan jag lägga till sångtexter i mina musikfiler på iPhone?" closed="true" %}}
+{{% ls-details title="Kan jag lägga till sångtexter i mina musikfiler på iPhone?" closed="true" %}}
 Ja. Använd Evertag-appen för att redigera ID3-taggar och lägga till eller uppdatera inbäddade sångtexter direkt på din iPhone. Du kan klistra in tidsstämplad LRC-text för synkroniserade sångtexter.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Stöder Evermusic synkroniserade (tidsstämplade) sångtexter?" closed="true" %}}
+{{% ls-details title="Stöder Evermusic synkroniserade (tidsstämplade) sångtexter?" closed="true" %}}
 Ja. Evermusic stöder tidsstämplade sångtexter i LRC-format, både när de är inbäddade i ljudtaggar och när de tillhandahålls som en separat `.lrc`-fil.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Vilka ljudformat stöder inbäddade sångtexter?" closed="true" %}}
+{{% ls-details title="Vilka ljudformat stöder inbäddade sångtexter?" closed="true" %}}
 MP3, FLAC, AAC, M4A, OGG och de flesta andra vanliga format stöder inbäddade sångtexter genom sina respektive taggstandarder.
-{{% /details %}}
+{{% /ls-details %}}

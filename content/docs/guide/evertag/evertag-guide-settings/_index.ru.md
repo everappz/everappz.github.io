@@ -21,7 +21,7 @@ readingTime: 14
 - **Правовая информация и конфиденциальность** — Условия использования, Политика конфиденциальности, Правовые уведомления, Аналитика и сбор данных
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evertag Settings Screen" image="/docs/guide/evertag/img/settings.webp" >}}
+  {{< ls-card title="" subtitle="Evertag Settings Screen" image="/docs/guide/evertag/img/settings.webp" >}}
 {{< /cards >}}
 
 ## Обновление до Premium
@@ -63,7 +63,7 @@ readingTime: 14
 Файловый менеджер поддерживает доступ к подключённым облачным хранилищам и предлагает пакетные операции для быстрого управления несколькими файлами.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evertag Settings File Manager Screen" image="/docs/guide/evertag/img/settings-file-manager.webp" >}}
+  {{< ls-card title="" subtitle="Evertag Settings File Manager Screen" image="/docs/guide/evertag/img/settings-file-manager.webp" >}}
 {{< /cards >}}
 
 ### Передача файлов
@@ -103,7 +103,7 @@ readingTime: 14
 В этом разделе можно настроить встроенный редактор аудиотегов.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evertag Settings Tag Editor Screen" image="/docs/guide/evertag/img/settings-tag-editor.webp" >}}
+  {{< ls-card title="" subtitle="Evertag Settings Tag Editor Screen" image="/docs/guide/evertag/img/settings-tag-editor.webp" >}}
 {{< /cards >}}
 
 ### Масштабирование обложки альбома
@@ -136,7 +136,7 @@ readingTime: 14
 В этом разделе можно настроить параметры интерфейса пользователя по своему усмотрению.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evertag Settings Personalization Screen" image="/docs/guide/evertag/img/settings-personalization.webp" >}}
+  {{< ls-card title="" subtitle="Evertag Settings Personalization Screen" image="/docs/guide/evertag/img/settings-personalization.webp" >}}
 {{< /cards >}}
 
 ### Иконка приложения

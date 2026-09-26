@@ -33,7 +33,7 @@ readingTime: 14
 파일 화면의 오른쪽 상단 모서리에 전송 버튼 (회전하는 화살표 아이콘)이 있습니다. 탭하여 모든 소스의 모든 다운로드 및 업로드를 모니터링하는 전송 대기열을 열 수 있습니다.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="연결된 스토리지의 Evervideo 파일" image="/docs/guide/evervideo/img/evervideo-files-connected-storages.webp" >}}
+  {{< ls-card title="" subtitle="연결된 스토리지의 Evervideo 파일" image="/docs/guide/evervideo/img/evervideo-files-connected-storages.webp" >}}
 {{< /cards >}}
 
 ## 클라우드 스토리지에 연결
@@ -41,7 +41,7 @@ readingTime: 14
 파일 탭의 클라우드 스토리지 섹션은 연결된 모든 계정, NAS, 미디어 서버 및 스트림이 나란히 하나의 스크롤 가능한 목록으로 있는 곳입니다.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="파일 탭의 Evervideo 클라우드 스토리지 섹션" image="/docs/guide/evervideo/img/evervideo-connections.webp" >}}
+  {{< ls-card title="" subtitle="파일 탭의 Evervideo 클라우드 스토리지 섹션" image="/docs/guide/evervideo/img/evervideo-connections.webp" >}}
 {{< /cards >}}
 
 - **파일** 탭을 엽니다.
@@ -51,7 +51,7 @@ readingTime: 14
 - 클라우드 제공업체가 제공한 공식 인증 페이지에 자격 증명을 입력한 다음 **완료됨**을 탭합니다.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evervideo 클라우드 스토리지 서비스 연결" image="/docs/guide/evervideo/img/evervideo-connect-cloud-storage.webp" >}}
+  {{< ls-card title="" subtitle="Evervideo 클라우드 스토리지 서비스 연결" image="/docs/guide/evervideo/img/evervideo-connect-cloud-storage.webp" >}}
 {{< /cards >}}
 
 문제가 발생하면 인터넷 연결과 로그인 / 비밀번호를 확인하세요. 앱의 Premium 버전에서는 무제한 서비스를 추가할 수 있습니다. 무료 버전은 최대 3개를 지원합니다.
@@ -161,7 +161,7 @@ Evervideo는 RTSP를 기본적으로 지원하므로 보안 카메라, 도어벨
 - 필요한 경우 로그인 정보를 입력하여 연결을 완료합니다.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="로컬 네트워크의 Evervideo 사용 가능한 장치" image="/docs/guide/evervideo/img/evervideo-available-devices.webp" >}}
+  {{< ls-card title="" subtitle="로컬 네트워크의 Evervideo 사용 가능한 장치" image="/docs/guide/evervideo/img/evervideo-available-devices.webp" >}}
 {{< /cards >}}
 
 ## Wi-Fi Drive
@@ -169,7 +169,7 @@ Evervideo는 RTSP를 기본적으로 지원하므로 보안 카메라, 도어벨
 Wi-Fi Drive를 사용하면 컴퓨터에서 데스크탑 브라우저, Finder 또는 File Explorer를 통해 iOS 기기로 파일을 무선으로 전송할 수 있습니다. 기기와 컴퓨터가 동일한 Wi-Fi 네트워크에 있어야 합니다.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evervideo Wi-Fi Drive" image="/docs/guide/evervideo/img/evervideo-wifi-drive.webp" >}}
+  {{< ls-card title="" subtitle="Evervideo Wi-Fi Drive" image="/docs/guide/evervideo/img/evervideo-wifi-drive.webp" >}}
 {{< /cards >}}
 
 ### Wi-Fi Drive 활성화
@@ -201,7 +201,7 @@ Lightning-to-USB / USB-C 어댑터 또는 카드 리더기를 통해 iPhone, iPa
 연결된 클라우드 서비스를 탭하여 파일 브라우저를 엽니다. 폴더는 사용 가능한 경우 비디오 썸네일을 표시하고, 비디오를 탭하면 즉시 재생이 시작되면서 나머지 파일을 백그라운드에서 계속 스트리밍합니다.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="연결된 스토리지에서 Evervideo 폴더 탐색" image="/docs/guide/evervideo/img/evervideo-all-connected-device-folders.webp" >}}
+  {{< ls-card title="" subtitle="연결된 스토리지에서 Evervideo 폴더 탐색" image="/docs/guide/evervideo/img/evervideo-all-connected-device-folders.webp" >}}
 {{< /cards >}}
 
 ## 빠른 접근
@@ -209,7 +209,7 @@ Lightning-to-USB / USB-C 어댑터 또는 카드 리더기를 통해 iPhone, iPa
 빠른 접근 섹션은 파일 탭의 상단에 위치합니다. 클라우드 서비스 및 온디바이스 스토리지의 즐겨찾는 파일과 폴더 및 최근 열린 파일과 폴더에 빠르게 접근할 수 있습니다. 클라우드에서 파일이나 폴더를 열 때마다 최근 열린 목록에 추가됩니다. 깊이 중첩된 폴더를 즐겨찾기로 표시하면 디렉토리 구조를 탐색하지 않고도 빠르게 접근할 수 있습니다.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evervideo 온라인 링크 및 빠른 접근" image="/docs/guide/evervideo/img/evervideo-connections-online-links.webp" >}}
+  {{< ls-card title="" subtitle="Evervideo 온라인 링크 및 빠른 접근" image="/docs/guide/evervideo/img/evervideo-connections-online-links.webp" >}}
 {{< /cards >}}
 
 ## 이 애플리케이션의 파일
@@ -217,7 +217,7 @@ Lightning-to-USB / USB-C 어댑터 또는 카드 리더기를 통해 iPhone, iPa
 이 섹션은 Evervideo의 샌드박스 Documents 디렉토리에 저장된 파일과 폴더를 표시합니다 — 클라우드에서 다운로드한 것, Wi-Fi Drive를 통해 전송한 것, Finder 파일 공유를 통해 복사한 것, 또는 다른 앱에서 가져온 것들.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="이 애플리케이션의 Evervideo 파일" image="/docs/guide/evervideo/img/evervideo-files-in-this-application.webp" >}}
+  {{< ls-card title="" subtitle="이 애플리케이션의 Evervideo 파일" image="/docs/guide/evervideo/img/evervideo-files-in-this-application.webp" >}}
 {{< /cards >}}
 
 ### Documents 폴더
@@ -225,7 +225,7 @@ Lightning-to-USB / USB-C 어댑터 또는 카드 리더기를 통해 iPhone, iPa
 Documents 폴더는 이 애플리케이션의 파일 내의 모든 것의 루트입니다. 하위 폴더를 만들고, 파일 이름을 변경하고, 이동하고, 원하는 대로 그룹화할 수 있습니다.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evervideo 로컬 파일 — Documents 폴더" image="/docs/guide/evervideo/img/evervideo-local-files-documents.webp" >}}
+  {{< ls-card title="" subtitle="Evervideo 로컬 파일 — Documents 폴더" image="/docs/guide/evervideo/img/evervideo-local-files-documents.webp" >}}
 {{< /cards >}}
 
 ## 이 iPhone / iPad / Mac의 파일
@@ -238,7 +238,7 @@ Documents 폴더는 이 애플리케이션의 파일 내의 모든 것의 루트
 아무것도 복사하지 않고 iCloud Drive 또는 연결된 USB 드라이브의 폴더로 작업하기 위해 폴더 연결을 사용하여 기기의 폴더에 읽기 / 쓰기 접근 링크를 만들 수도 있습니다.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="이 기기의 Evervideo 파일" image="/docs/guide/evervideo/img/evervideo-files-on-this-device.webp" >}}
+  {{< ls-card title="" subtitle="이 기기의 Evervideo 파일" image="/docs/guide/evervideo/img/evervideo-files-on-this-device.webp" >}}
 {{< /cards >}}
 
 ## 특수 폴더
@@ -276,7 +276,7 @@ Documents 폴더는 이 애플리케이션의 파일 내의 모든 것의 루트
 오른쪽 상단 모서리의 **"..."**를 탭하고 **선택하다**를 선택하여 선택 모드로 들어갑니다. 모든 파일과 폴더 옆에 확인란이 나타납니다. 하나 또는 여러 항목을 선택한 다음 배치 작업을 수행합니다: 다음에 재생, 나중에 재생, 미디어 라이브러리에 추가, 재생 목록에 추가, 복사, 업로드, 이동, 이름 변경 또는 삭제.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="파일 관리자에서 Evervideo 선택 모드" image="/docs/guide/evervideo/img/evervideo-selection-mode-in-files.webp" >}}
+  {{< ls-card title="" subtitle="파일 관리자에서 Evervideo 선택 모드" image="/docs/guide/evervideo/img/evervideo-selection-mode-in-files.webp" >}}
 {{< /cards >}}
 
 연결된 클라우드 스토리지를 읽기 전용으로 처리하려면 (실수로 삭제하는 것을 방지하기 위해) 설정 → 파일 관리자 → 온라인 파일 편집 → 꺼짐을 활성화하여 UI에서 모든 파괴적인 작업을 숨기세요.
@@ -318,13 +318,13 @@ Documents 폴더는 이 애플리케이션의 파일 내의 모든 것의 루트
 파일 탭의 오른쪽 상단 모서리에는 **전송** 버튼 (회전하는 화살표 아이콘)이 있습니다. 탭하여 전송 대기열을 엽니다 — 모든 소스의 모든 활성 다운로드 및 업로드 목록으로, 파일별 실시간 진행 상황, 속도 및 ETA가 표시됩니다.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evervideo 파일 전송 대기열" image="/docs/guide/evervideo/img/evervideo-file-transfers.webp" >}}
+  {{< ls-card title="" subtitle="Evervideo 파일 전송 대기열" image="/docs/guide/evervideo/img/evervideo-file-transfers.webp" >}}
 {{< /cards >}}
 
 전송을 일시 중지, 재개, 실패한 전송 재시도, 항목을 재정렬하여 특정 다운로드를 우선시하거나 개별적으로 취소할 수 있습니다. 또한 설정 → 파일 관리자에서 전송 대기열 속도 (최대 병렬 작업), 네트워크 유형 (Wi-Fi만 또는 Wi-Fi + 셀룰러) 및 백그라운드 전송을 조정할 수 있습니다.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="파일 전송 대기열에서 Evervideo 작업" image="/docs/guide/evervideo/img/evervideo-file-transfers-actions.webp" >}}
+  {{< ls-card title="" subtitle="파일 전송 대기열에서 Evervideo 작업" image="/docs/guide/evervideo/img/evervideo-file-transfers-actions.webp" >}}
 {{< /cards >}}
 
 ## 오프라인 모드 및 동기화된 오프라인 폴더

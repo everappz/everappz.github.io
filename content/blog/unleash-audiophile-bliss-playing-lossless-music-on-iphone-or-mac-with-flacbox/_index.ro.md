@@ -12,7 +12,7 @@ authors:
     image: "/images/about/artem-meleshko-founder-everappz.webp"
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 **Rezumat:** Instalați [Flacbox din App Store](https://apps.apple.com/us/app/flacbox-flac-player-music/id1097564256?mt=8) pentru a reda FLAC, DSD, ALAC și peste 120 de alte formate audio pe iPhone și Mac. Importați fișiere prin iTunes File Sharing, Wi-Fi Drive sau stocare cloud. Fără conversie de fișiere necesară. Flacbox decodifică formatele lossless nativ pentru redare completă la calitate de studio.
 
@@ -114,26 +114,26 @@ Descărcați Flacbox din Mac App Store. Versiunea macOS oferă aceeași calitate
 
 ## Întrebări Frecvente
 
-{{< details title="Flacbox necesită un abonament pentru a reda fișiere lossless?" closed="true" >}}
+{{< ls-details title="Flacbox necesită un abonament pentru a reda fișiere lossless?" closed="true" >}}
 Flacbox oferă funcționalitate de bază de redare fără abonament. Puteți importa și reda FLAC, DSD, ALAC și alte formate lossless imediat după descărcarea aplicației. Unele funcții avansate precum streaming-ul cloud și opțiunile suplimentare de personalizare pot necesita un upgrade premium, dar redarea lossless de bază este disponibilă imediat.
-{{< /details >}}
+{{< /ls-details >}}
 
-{{< details title="Poate Flacbox reda fișiere DSD fără a le converti mai întâi în PCM?" closed="true" >}}
+{{< ls-details title="Poate Flacbox reda fișiere DSD fără a le converti mai întâi în PCM?" closed="true" >}}
 Da, Flacbox suportă redarea DSD nativă inclusiv formatele DSD64, DSD128 și DSD256. Aplicația decodifică fluxurile DSD direct, păstrând caracteristicile sonice unice ale formatului. Pentru cele mai bune rezultate, asociați dispozitivul cu un DAC extern compatibil DSD.
-{{< /details >}}
+{{< /ls-details >}}
 
-{{< details title="Cum transfer colecții mari de muzică lossless pe iPhone-ul meu?" closed="true" >}}
+{{< ls-details title="Cum transfer colecții mari de muzică lossless pe iPhone-ul meu?" closed="true" >}}
 Flacbox oferă mai multe opțiuni de transfer pentru biblioteci mari. Wi-Fi Drive vă permite să încărcați fișiere din orice browser din rețeaua locală. Puteți folosi și iTunes File Sharing prin Finder pe Mac sau conecta servicii de stocare cloud precum Google Drive sau Dropbox. Pentru cel mai rapid transfer al colecțiilor foarte mari, conectați o unitate externă direct folosind un adaptor Lightning sau USB-C.
-{{< /details >}}
+{{< /ls-details >}}
 
-{{< details title="Există o diferență de calitate a sunetului între FLAC și ALAC în Flacbox?" closed="true" >}}
+{{< ls-details title="Există o diferență de calitate a sunetului între FLAC și ALAC în Flacbox?" closed="true" >}}
 Atât FLAC, cât și ALAC sunt codecuri lossless, ceea ce înseamnă că produc ieșire audio identică la decodificare. Diferența constă în compatibilitate și eficiența compresiei. FLAC este mai larg utilizat pe diferite platforme și realizează în general rate de compresie ușor mai bune, în timp ce ALAC este formatul lossless nativ Apple. Flacbox le gestionează pe amândouă cu fidelitate egală.
-{{< /details >}}
+{{< /ls-details >}}
 
-{{< details title="Care este cel mai bun mod de a reda fișiere FLAC pe iPhone?" closed="true" >}}
+{{< ls-details title="Care este cel mai bun mod de a reda fișiere FLAC pe iPhone?" closed="true" >}}
 Instalați Flacbox din App Store, apoi importați fișierele FLAC folosind iTunes File Sharing, Wi-Fi Drive, stocare cloud sau o unitate externă USB/Lightning. Flacbox decodifică FLAC nativ fără conversie, suportând rezoluții până la 32-bit/384 kHz. Pentru cea mai bună calitate audio, asociați iPhone-ul cu un DAC USB-C sau Lightning dedicat.
-{{< /details >}}
+{{< /ls-details >}}
 
-{{< details title="Funcționează Flacbox cu NAS și servere de acasă?" closed="true" >}}
+{{< ls-details title="Funcționează Flacbox cu NAS și servere de acasă?" closed="true" >}}
 Da. Flacbox se conectează la dispozitive NAS și servere de acasă prin protocoalele SMB, WebDAV și DLNA. Pe Mac, puteți adăuga locații de rețea direct. Pe iOS, conectați-vă prin meniul de surse cloud/rețea. Acest lucru vă permite să transmiteți biblioteca lossless fără a copia fișierele pe dispozitiv.
-{{< /details >}}
+{{< /ls-details >}}

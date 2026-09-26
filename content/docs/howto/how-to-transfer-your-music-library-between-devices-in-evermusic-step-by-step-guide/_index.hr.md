@@ -7,7 +7,7 @@ keywords: ["prijenos glazbene knjižnice Evermusic", "sigurnosno kopiranje i vra
 readingTime: 3
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **Ukratko:** Za prijenos vaše Evermusic knjižnice na novi uređaj, napravite sigurnosnu kopiju na izvornom uređaju, pokrenite Wi-Fi Drive, povežite drugi uređaj preko iste mreže, preuzmite sigurnosnu kopiju i glazbene datoteke, a zatim vratite iz sigurnosne kopije. Cijeli proces traje oko 10 minuta ovisno o veličini knjižnice.
@@ -144,22 +144,22 @@ Slijedeći ove korake, uspješno ćete prenijeti svoju glazbenu knjižnicu, popi
 
 ## Često postavljana pitanja
 
-{{% details title="Mogu li prenijeti svoju Evermusic knjižnicu bez Wi-Fija?" closed="true" %}}
+{{% ls-details title="Mogu li prenijeti svoju Evermusic knjižnicu bez Wi-Fija?" closed="true" %}}
 Wi-Fi Drive zahtijeva da oba uređaja budu na istoj Wi-Fi mreži. Trenutno ne postoji opcija prijenosa putem Bluetootha ili mobilnih podataka. Alternativno, možete koristiti AirDrop ili aplikaciju Datoteke za ručno premještanje datoteke sigurnosne kopije i glazbenih mapa između uređaja.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Hoće li se moje veze s uslugama u oblaku prenijeti sa sigurnosnom kopijom?" closed="true" %}}
+{{% ls-details title="Hoće li se moje veze s uslugama u oblaku prenijeti sa sigurnosnom kopijom?" closed="true" %}}
 Sigurnosna kopija uključuje vašu bazu podataka, popise pjesama, omote albuma i postavke. Vjerodajnice za prijavu u usluge u oblaku nisu uključene iz sigurnosnih razloga. Morat ćete ponovno povezati svoje račune u oblaku na novom uređaju nakon vraćanja.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Što se događa s mojom postojećom knjižnicom na drugom uređaju?" closed="true" %}}
+{{% ls-details title="Što se događa s mojom postojećom knjižnicom na drugom uređaju?" closed="true" %}}
 Vraćanje sigurnosne kopije zamjenjuje sve postojeće podatke glazbene knjižnice, popise pjesama, postavke i omote albuma na drugom uređaju. Napravite zasebnu sigurnosnu kopiju drugog uređaja ako želite sačuvati njegove podatke.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Funkcionira li ovaj proces između iPhonea i Maca?" closed="true" %}}
+{{% ls-details title="Funkcionira li ovaj proces između iPhonea i Maca?" closed="true" %}}
 Da. Evermusic podržava Wi-Fi Drive prijenos između bilo koje kombinacije iPhonea, iPada i Maca. Oba uređaja samo trebaju biti na istoj Wi-Fi mreži.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Koliko dugo traje prijenos?" closed="true" %}}
+{{% ls-details title="Koliko dugo traje prijenos?" closed="true" %}}
 Vrijeme prijenosa ovisi o veličini vaše glazbene knjižnice i brzini Wi-Fija. Tipična knjižnica od nekoliko gigabajta prenosi se za 5-15 minuta preko standardne kućne mreže.
-{{% /details %}}
+{{% /ls-details %}}

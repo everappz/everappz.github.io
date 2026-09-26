@@ -12,7 +12,7 @@ authors:
     image: "/images/about/artem-meleshko-founder-everappz.webp"
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 **Zhrnutie:** [Everdisk](/products/everdisk) je naša nová aplikácia, ktorá premení váš **iPhone alebo iPad na bezdrôtový disk** a centrum, ktoré sa pripojí aj k vašim ostatným zariadeniam. Klepnite na **Start** a Everdisk spustí **štyri servery naraz**: **DLNA** pre smart TV a mediálne prehrávače, **HTTP** pre akýkoľvek webový prehliadač, **WebDAV** pre Finder, Windows a Linux a **FTP** pre súborové aplikácie. Každé zariadenie sa pripojí spôsobom, aký mu vyhovuje. Zdieľajte svoje súbory, fotografie, videá a hudbu s čímkoľvek vo svojej sieti, streamujte do TV bez káblov, pripojte svoje zariadenie ako sieťový disk alebo presúvajte súbory cez **USB kábel**, keď nie je k dispozícii Wi-Fi. Everdisk sa tiež pripojí k serverom **DLNA, WebDAV, FTP a SFTP**, má zabudovaného **správcu súborov** so zbaľovaním a rozbaľovaním do zip a dokáže **skenovať dokumenty do PDF**, **anotovať a podpisovať PDF** a spustiť kompletnú **sadu nástrojov PDF**. Žiadne účty, žiadny cloud a žiadna ďalšia aplikácia na druhej strane. Všetko zostáva vo vašej lokálnej sieti. Stiahnutie zadarmo, s voliteľným jednorazovým nákupom Premium Lifetime.
 
@@ -133,46 +133,46 @@ Ak sa vám aplikácia páči, prosím zanechajte hodnotenie v App Store. Naozaj 
 
 ## Často kladené otázky
 
-{{% details title="Čo je Everdisk?" closed="true" %}}
+{{% ls-details title="Čo je Everdisk?" closed="true" %}}
 Everdisk je nová aplikácia, ktorá premení váš iPhone alebo iPad na bezdrôtový disk a centrum, ktoré sa pripojí aj k vašim ostatným zariadeniam. Môžete zdieľať svoje súbory, fotografie, videá a hudbu s čímkoľvek vo svojej sieti, prehliadať a streamovať z iných serverov a spravovať všetko priamo na svojom zariadení. Žiadne účty, žiadny cloud a žiadna ďalšia aplikácia na druhej strane. Stačí klepnúť na Start a ste pripravení. Aplikácia spúšťa štyri servery súčasne: DLNA pre smart TV a mediálne prehrávače, HTTP pre akýkoľvek webový prehliadač, WebDAV pre Finder, Windows a Linux a FTP pre súborové aplikácie a pokročilých používateľov.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Koľko Everdisk stojí?" closed="true" %}}
+{{% ls-details title="Koľko Everdisk stojí?" closed="true" %}}
 Everdisk je stiahnutie zadarmo. Zadarmo môžete premeniť svoje zariadenie na bezdrôtový disk, zdieľať súbory štyrmi spôsobmi, streamovať do TV, pripojiť sieťový disk, prenášať cez USB, pripájať sa k iným serverom, používať správcu súborov, skenovať dokumenty a používať nástroje PDF. Existuje voliteľný jednorazový nákup Premium Lifetime, jedna platba bez predplatného, ktorý odomkne neobmedzené zdieľané priečinky a uložené pripojenia, konverziu fotografií a videí, vlastné porty, automatické spustenie zdieľania a prispôsobenie zariadenia. Ceny sa môžu líšiť podľa regiónu.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Musím na druhé zariadenie niečo inštalovať?" closed="true" %}}
+{{% ls-details title="Musím na druhé zariadenie niečo inštalovať?" closed="true" %}}
 Nie. To je celý zmysel. Druhé zariadenie sa pripojí pomocou nástrojov, ktoré už má. Smart TV nájde vašu knižnicu cez DLNA sama, akýkoľvek počítač alebo telefón otvorí odkaz vo webovom prehliadači a Mac Finder, Windows a Linux pripoja vaše zariadenie ako sieťový disk cez WebDAV. Na druhej strane sa nič neinštaluje.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Ako streamovať fotografie a videá na TV?" closed="true" %}}
+{{% ls-details title="Ako streamovať fotografie a videá na TV?" closed="true" %}}
 Dajte svoju TV alebo mediálny prehrávač a svoje zariadenie do rovnakej Wi-Fi siete, potom klepnite na Start v Everdisku so zdieľanými fotografiami, videami alebo hudbou. Vaše zariadenie sa samo zobrazí v zozname mediálnych serverov na TV, s náhľadovými miniatúrami. Otvorte ho na TV a vychutnajte si svoju knižnicu na veľkej obrazovke. Žiadne káble a žiadne ďalšie aplikácie.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Ako pripojiť Everdisk z môjho Macu alebo PC?" closed="true" %}}
+{{% ls-details title="Ako pripojiť Everdisk z môjho Macu alebo PC?" closed="true" %}}
 Everdisk zobrazí vaše zariadenie ako bežný sieťový disk cez WebDAV. Na Macu otvorte Finder a vyberte Prejsť, potom Pripojiť sa k serveru a zadajte adresu WebDAV zobrazenú v aplikácii. Na Windowse namapujte sieťový disk pomocou rovnakej adresy. Na Linuxe sa pripojte k adrese WebDAV zo správcu súborov. Po pripojení môžete presúvať oboma smermi. Ak nechcete pripájať disk, jednoducho otvorte odkaz HTTP v akomkoľvek webovom prehliadači.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Môžem prenášať súbory bez Wi-Fi?" closed="true" %}}
+{{% ls-details title="Môžem prenášať súbory bez Wi-Fi?" closed="true" %}}
 Áno. Pripojte svoje zariadenie k Macu tým istým USB káblom, ktorým ho nabíjate, a súbory prejdú priamo cez kábel, rýchlejšie ako cez Wi-Fi. Keďže to nepotrebuje bezdrôtovú sieť, funguje to aj v lietadle, v hoteli alebo v akejkoľvek uzamknutej či verejnej sieti, kde je zdieľanie cez Wi-Fi zablokované.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Môžem posielať súbory z jedného iPhonu na druhý?" closed="true" %}}
+{{% ls-details title="Môžem posielať súbory z jedného iPhonu na druhý?" closed="true" %}}
 Áno. Spustite zdieľanie na jednom zariadení a otvorte odkaz vo webovom prehliadači na druhom, alebo sa pripojte cez WebDAV alebo FTP. Môžete prehliadať, streamovať a sťahovať oboma smermi a dokonca nahrávať fotografie, dokumenty a celé priečinky späť na zdieľajúce zariadenie.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="K čomu sa Everdisk môže pripojiť?" closed="true" %}}
+{{% ls-details title="K čomu sa Everdisk môže pripojiť?" closed="true" %}}
 Everdisk je aj klientom pre iné zariadenia vo vašej sieti. Môžete nájsť a pripojiť sa k serverom DLNA, WebDAV, FTP a SFTP, vrátane NAS zariadení a mediálnych serverov. Po pripojení môžete prehliadať ich priečinky, streamovať zvuk a video, sťahovať súbory a vytvárať priečinky, nahrávať, premenúvať, presúvať alebo mazať, keď to server umožňuje.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Môžem v Everdisku skenovať dokumenty a upravovať PDF?" closed="true" %}}
+{{% ls-details title="Môžem v Everdisku skenovať dokumenty a upravovať PDF?" closed="true" %}}
 Áno. Everdisk dokáže skenovať papierové dokumenty pomocou fotoaparátu. Nájde okraje sám, vyrovná každú stranu a uloží ich ako čisté viacstránkové PDF. Môžete tiež otvoriť PDF alebo fotografiu a anotovať ju (kresliť, zvýrazňovať, pridávať text a tvary a podpísať prstom), so zmenami uloženými späť do súboru. Kompletná sada nástrojov PDF pridáva kompresiu, rozpoznávanie textu (OCR) do prehľadávateľného PDF, ochranu heslom, prehľad povolení, úpravu metadát a zlúčenie.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Je Everdisk súkromný a bezpečný?" closed="true" %}}
+{{% ls-details title="Je Everdisk súkromný a bezpečný?" closed="true" %}}
 Áno. Všetko zostáva vo vašej lokálnej sieti a nikdy sa nedostane na internet, takže vaše súbory nikdy neopustia domov. Žiadne účty a žiadny cloud uprostred. Prístup môžete chrániť prihlasovacím menom a heslom, takže pripojené zariadenia musia zadať rovnaké údaje, kým uvidia vaše súbory, a akékoľvek zariadenie môžete zablokovať jediným klepnutím. Pre najlepšie súkromie zapínajte zdieľanie len vtedy, keď ste pripojení k Wi-Fi sieti, ktorú poznáte a ktorej dôverujete.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Na akých zariadeniach Everdisk beží?" closed="true" %}}
+{{% ls-details title="Na akých zariadeniach Everdisk beží?" closed="true" %}}
 Everdisk beží na iPhone a iPad. Zdieľa so smart TV, mediálnymi prehrávačmi, počítačmi Mac, Windows a Linux, webovými prehliadačmi, inými telefónmi a tabletmi, NAS diskami a akýmkoľvek serverom DLNA, WebDAV, FTP alebo SFTP vo vašej sieti a pripája sa k nim.
-{{% /details %}}
+{{% /ls-details %}}

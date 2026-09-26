@@ -7,7 +7,7 @@ tags: ["evermusic", "音訊", "編輯器", "標籤", "評論"]
 readingTime: 4
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **摘要：** Evermusic 和 Flacbox 允許您為任何音訊曲目新增帶時間標記的文字評論，然後在播放過程中同步顯示。您還可以檢視嵌入式歌詞和 LRC 檔案。評論和歌詞功能在兩個應用程式中均為免費。
@@ -97,22 +97,22 @@ Evermusic 和 Flacbox 讓您在聽音樂時輕鬆存取和享受評論。在播�
 
 ## 常見問題
 
-{{% details title="Evermusic 和 Flacbox 中的評論功能免費嗎？" closed="true" %}}
+{{% ls-details title="Evermusic 和 Flacbox 中的評論功能免費嗎？" closed="true" %}}
 是的。在 Evermusic 和 Flacbox 中新增、編輯和檢視評論和歌詞是免費功能。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="定時評論應該使用什麼格式？" closed="true" %}}
+{{% ls-details title="定時評論應該使用什麼格式？" closed="true" %}}
 使用 LRC 時間標記格式：`[MM:SS.SS]` 後跟您的文字。例如：`[01:23.45]這是我的評論`。您可以為一行分配多個時間戳記。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="我可以在同一畫面上檢視歌詞和 LRC 檔案嗎？" closed="true" %}}
+{{% ls-details title="我可以在同一畫面上檢視歌詞和 LRC 檔案嗎？" closed="true" %}}
 可以。評論畫面支援三種模式，您可以滑動切換：評論、嵌入式歌詞和 LRC 檔案。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="在哪裡可以找到 LRC 歌詞檔案？" closed="true" %}}
+{{% ls-details title="在哪裡可以找到 LRC 歌詞檔案？" closed="true" %}}
 免費的 LRC 歌詞可在 Lyricsify.com 等網站上取得。您可以將它們嵌入音訊檔案的歌詞標籤中，或在音訊檔案旁邊放置單獨的 `.lrc` 檔案。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="我需要單獨的應用程式來編輯歌詞標籤嗎？" closed="true" %}}
+{{% ls-details title="我需要單獨的應用程式來編輯歌詞標籤嗎？" closed="true" %}}
 您可以直接在 Evermusic 和 Flacbox 中編輯評論。要專門編輯歌詞標籤，請使用 Evertag，這是一款適用於 iOS 和 macOS 的免費音訊中繼資料編輯器。
-{{% /details %}}
+{{% /ls-details %}}

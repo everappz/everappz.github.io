@@ -31,7 +31,7 @@ Bạn có thể đến trình phát toàn màn hình từ thanh trình phát nh�
 Trình phát nhỏ gọn vẫn hiển thị trong khi bạn duyệt thư viện, trình quản lý tệp hoặc cài đặt, vì vậy bạn không bao giờ mất video trong khi tìm kiếm video tiếp theo.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Trình phát phương tiện toàn màn hình Evervideo" image="/docs/guide/evervideo/img/evervideo-media-player-fullscreen.webp" >}}
+  {{< ls-card title="" subtitle="Trình phát phương tiện toàn màn hình Evervideo" image="/docs/guide/evervideo/img/evervideo-media-player-fullscreen.webp" >}}
 {{< /cards >}}
 
 ## Định dạng video và âm thanh được hỗ trợ
@@ -72,7 +72,7 @@ PiP hoạt động với mọi định dạng video Evervideo phát, bao gồm c
 Trình phát nhỏ gọn là mini-player liên tục vẫn hiển thị ở đầu mọi màn hình trong ứng dụng khi bạn duyệt thư viện, trình quản lý tệp hoặc cài đặt. Nhấn vào đó để mở rộng thành trình phát toàn màn hình; vuốt xuống để thu gọn lại.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Cài đặt video Evervideo từ trình phát nhỏ gọn trên màn hình chính" image="/docs/guide/evervideo/img/evervideo-video-settings-from-compact-player-view-on-the-main-screen.webp" >}}
+  {{< ls-card title="" subtitle="Cài đặt video Evervideo từ trình phát nhỏ gọn trên màn hình chính" image="/docs/guide/evervideo/img/evervideo-video-settings-from-compact-player-view-on-the-main-screen.webp" >}}
 {{< /cards >}}
 
 ## AirPlay 2
@@ -115,7 +115,7 @@ Evervideo bao gồm bộ chỉnh âm thanh đầy đủ để điều chỉnh â
 Để điều chỉnh hình ảnh, Evervideo cung cấp bộ chỉnh video chuyên dụng — điều chỉnh độ sáng, độ tương phản, độ bão hòa và sắc độ trong thời gian thực trong khi phát lại. Giống như bộ chỉnh âm thanh, các preset video tùy chỉnh có thể được xuất và nhập để chia sẻ hoặc sao lưu. Sử dụng nó để làm sáng cảnh tối trong ngày nắng, tăng độ bão hòa trên nội dung phai màu, hoặc làm ấm màu sắc lạnh.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Bộ chỉnh video Evervideo" image="/docs/guide/evervideo/img/evervideo-video-equalizer.webp" >}}
+  {{< ls-card title="" subtitle="Bộ chỉnh video Evervideo" image="/docs/guide/evervideo/img/evervideo-video-equalizer.webp" >}}
 {{< /cards >}}
 
 ## Chế độ tỷ lệ video
@@ -144,7 +144,7 @@ Evervideo bao gồm cổng nhìn VR / 360° cho các tệp video cầu. Khi phá
 Nhấn điều khiển Tốc độ trên thanh công cụ trình phát để thay đổi tốc độ phát lại — làm chậm để phân tích (0,25× hoặc 0,5×) hoặc tăng tốc cho hướng dẫn và bài giảng (1,25×, 1,5×, 2× và lên đến 3×). Nhấn biểu tượng cấu hình ở góc trên bên phải của màn hình Tốc độ để chuyển sang chế độ chính xác với các điều chỉnh tinh tế hơn. Cũng có sẵn hiệu chỉnh tông điệu theo từng track.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Tốc độ phát lại Evervideo trên thanh công cụ chính" image="/docs/guide/evervideo/img/evervideo-media-player-playback-speed-on-main-toolbar.webp" >}}
+  {{< ls-card title="" subtitle="Tốc độ phát lại Evervideo trên thanh công cụ chính" image="/docs/guide/evervideo/img/evervideo-media-player-playback-speed-on-main-toolbar.webp" >}}
 {{< /cards >}}
 
 ## Hàng đợi trình phát
@@ -152,7 +152,7 @@ Nhấn điều khiển Tốc độ trên thanh công cụ trình phát để tha
 Để xem hàng đợi trình phát, nhấn nút hàng đợi trên trình phát. Mỗi video trong hàng đợi có thêm hành động — nhấn ba chấm để xem chúng. Để sắp xếp lại video trong hàng đợi, sử dụng chỉ báo sắp xếp lại gần tiêu đề và kéo đến vị trí mới.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Hàng đợi phát lại Evervideo" image="/docs/guide/evervideo/img/evervideo-playback-queue.webp" >}}
+  {{< ls-card title="" subtitle="Hàng đợi phát lại Evervideo" image="/docs/guide/evervideo/img/evervideo-playback-queue.webp" >}}
 {{< /cards >}}
 
 ## Hẹn giờ ngủ
@@ -189,7 +189,7 @@ Nhấn nút **Thêm hành động «...»** trên trình phát để truy cập 
 - **Trợ giúp** — mở hướng dẫn.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Màn hình Thêm hành động trình phát Evervideo" image="/docs/guide/evervideo/img/evervideo-media-player-more-actions.webp" >}}
+  {{< ls-card title="" subtitle="Màn hình Thêm hành động trình phát Evervideo" image="/docs/guide/evervideo/img/evervideo-media-player-more-actions.webp" >}}
 {{< /cards >}}
 
 ## Cài đặt trình phát

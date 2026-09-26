@@ -20,7 +20,7 @@ I sektionen Afspilningslister finder du nyttige værktøjer til at administrere 
 Afspilningslister i Flacbox kan indeholde en blanding af online cloud-numre, offline downloadede filer og lokale filer fra din enhed — alt i én afspilningsliste — og afspilles problemfrit sammen.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox afspilningslisternes hovedskærm" image="/docs/guide/flacbox/img/playlists-main.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox afspilningslisternes hovedskærm" image="/docs/guide/flacbox/img/playlists-main.webp" >}}
 {{< /cards >}}
 
 ## Oprettelse af en afspilningsliste
@@ -63,7 +63,7 @@ Når du åbner en afspilningsliste, vises skærmen Afspilningslistedetaljer. Du 
 - **Offline-tilstand** — downloader alle numre fra denne afspilningsliste til lokale filer. Nye elementer tilføjet til afspilningslisten downloades også automatisk.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox afspilningslistedetaljerskærm" image="/docs/guide/flacbox/img/playlist-details-screen.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox afspilningslistedetaljerskærm" image="/docs/guide/flacbox/img/playlist-details-screen.webp" >}}
 {{< /cards >}}
 
 ## Flere handlinger for en afspilningsliste på afspilningslisternes hovedskærm
@@ -82,7 +82,7 @@ Du kan tilgå handlinger for en afspilningsliste ved at trykke på knappen **"..
 - **Slet afspilningsliste** — sletter afspilningslisten fra musikbiblioteket. **Denne handling kan ikke fortrydes.**
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox – Flere handlinger for en afspilningsliste på hovedskærmen" image="/docs/guide/flacbox/img/more-actions-for-playlist-in-playlists-main-screen.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox – Flere handlinger for en afspilningsliste på hovedskærmen" image="/docs/guide/flacbox/img/more-actions-for-playlist-in-playlists-main-screen.webp" >}}
 {{< /cards >}}
 
 ## Flere handlinger for en afspilningsliste på afspilningslistedetaljerskærmen
@@ -110,7 +110,7 @@ For at ændre rækkefølgen af sange i en afspilningsliste skal du trykke på kn
 For en endnu enklere arbejdsgang på lange afspilningslister skal du vælge Flere handlinger → Omarranger sange for at gå i dedikeret træk-og-slip-omarranger-tilstand.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox – Omarranger sange i en afspilningsliste" image="/docs/guide/flacbox/img/playlist-details-rearange-songs.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox – Omarranger sange i en afspilningsliste" image="/docs/guide/flacbox/img/playlist-details-rearange-songs.webp" >}}
 {{< /cards >}}
 
 ## Ændring af afspilningslistens coverbillede
@@ -126,7 +126,7 @@ For at ændre coverbilledet for en afspilningsliste skal du trykke på knappen *
 Åbn afspilningslisten, tryk på knappen **"..."** i øverste højre hjørne, og vælg **Vælg** for at gå i valgstilstand. Vælg de numre, du vil slette, og tryk på **Slet fra afspilningsliste** nederst på skærmen. Bekræft ved at trykke på **Færdig**.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox – valgstilstand på afspilningslistedetaljerskærmen" image="/docs/guide/flacbox/img/selection-mode-playlist-details-screen.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox – valgstilstand på afspilningslistedetaljerskærmen" image="/docs/guide/flacbox/img/selection-mode-playlist-details-screen.webp" >}}
 {{< /cards >}}
 
 ## Nummerindstillinger

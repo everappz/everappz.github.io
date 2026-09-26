@@ -6,7 +6,7 @@ tags: ["lokale muziek", "offline muziek", "muziekspeler", "iPhone", "Mac", "Ever
 keywords: ["hoe lokale muziek afspelen op iPhone", "muziek afspelen van apparaatopslag", "offline muziekspeler iOS", "Evermusic app tutorial", "Flacbox FLAC speler", "iOS lokale bestanden afspelen", "Mac muziekbibliotheek", "muziek-app voor lokale bestanden", "iPhone gedownloade nummers afspelen", "hoe Evermusic te gebruiken met lokale bestanden"]
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **Samenvatting:** Installeer [Evermusic](/products/evermusic) (MP3/WAV) of [Flacbox](/products/flacbox) (FLAC/DSD), open een lokaal audiobestand of map en begin met afspelen. Voeg mappen toe aan **Favorieten** voor snelle toegang, importeer nummers in je Muziekbibliotheek of maak **Afspeellijsten** aan.
@@ -24,10 +24,10 @@ We verkennen methoden en tools om je lokale muziek naadloos af te spelen op je A
 Om je reis in de wereld van lokale muziek op je iPhone en Mac te beginnen, installeer eerst Evermusic (voor standaard audioformaten zoals mp3 en wav) of Flacbox (voor lossless muziek in dsd en flac). Beide apps zijn beschikbaar voor iOS en MacOS en je kunt ze gratis downloaden.
 
 {{< cards >}}
-  {{< card link="https://apps.apple.com/us/app/evermusic-cloud-music-player/id885367198?pt=95781850&ct=everappzcom&mt=8" title="Download Evermusic voor iOS" tag="iOS" >}}
-  {{< card link="https://apps.apple.com/us/app/flacbox-hi-res-equalizer/id1097564256?pt=95781850&ct=everappzcom&mt=8" title="Download Flacbox voor iOS" tag="iOS" >}}
-  {{< card link="https://apps.apple.com/us/app/evermusic-hi-res-music-player/id1564384601?pt=95781850&ct=everappzcom&mt=8" title="Download Evermusic voor Mac" tag="macOS" >}}
-  {{< card link="https://apps.apple.com/us/app/flacbox-hi-res-music-player/id1594027432?pt=95781850&ct=everappzcom&mt=8" title="Download Flacbox voor Mac" tag="macOS" >}}
+  {{< ls-card link="https://apps.apple.com/us/app/evermusic-cloud-music-player/id885367198?pt=95781850&ct=everappzcom&mt=8" title="Download Evermusic voor iOS" tag="iOS" >}}
+  {{< ls-card link="https://apps.apple.com/us/app/flacbox-hi-res-equalizer/id1097564256?pt=95781850&ct=everappzcom&mt=8" title="Download Flacbox voor iOS" tag="iOS" >}}
+  {{< ls-card link="https://apps.apple.com/us/app/evermusic-hi-res-music-player/id1564384601?pt=95781850&ct=everappzcom&mt=8" title="Download Evermusic voor Mac" tag="macOS" >}}
+  {{< ls-card link="https://apps.apple.com/us/app/flacbox-hi-res-music-player/id1594027432?pt=95781850&ct=everappzcom&mt=8" title="Download Flacbox voor Mac" tag="macOS" >}}
 {{< /cards >}}
 
 
@@ -135,22 +135,22 @@ Met deze eenvoudige stappen kun je het volledige potentieel van je iPhone en Mac
 
 ## FAQ
 
-{{% details title="Welke audioformaten kunnen Evermusic en Flacbox afspelen?" closed="true" %}}
+{{% ls-details title="Welke audioformaten kunnen Evermusic en Flacbox afspelen?" closed="true" %}}
 Evermusic speelt MP3, WAV, AAC, M4A en andere standaardformaten af. Flacbox voegt ondersteuning toe voor FLAC, DSD, OGG, OPUS, APE, WMA en ALAC.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Kopieren deze apps bestanden naar de app-opslag?" closed="true" %}}
+{{% ls-details title="Kopieren deze apps bestanden naar de app-opslag?" closed="true" %}}
 Standaard worden bestanden afgespeeld vanaf hun oorspronkelijke locatie zonder te worden gekopieerd. Om dit gedrag te wijzigen, schakel "Always copy files during opening" in via **Instellingen** > File manager.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Kan ik lokale muziek ordenen op artiest en album?" closed="true" %}}
+{{% ls-details title="Kan ik lokale muziek ordenen op artiest en album?" closed="true" %}}
 Ja. Importeer bestanden in de Muziekbibliotheek (Stap 4) en de app leest metadata om nummers te groeperen op Artiest, Album, Genre en Componist.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Hoe breng ik muziek over van mijn computer naar iPhone?" closed="true" %}}
+{{% ls-details title="Hoe breng ik muziek over van mijn computer naar iPhone?" closed="true" %}}
 Gebruik iTunes File Sharing (USB), WiFi Drive (draadloos) of SMB (streaming). Zie onze gedetailleerde gids: [Lokale iTunes-bestanden afspelen op iPhone](/docs/howto/how-to-play-local-itunes-files-on-my-iphone/).
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Zijn Evermusic en Flacbox gratis?" closed="true" %}}
+{{% ls-details title="Zijn Evermusic en Flacbox gratis?" closed="true" %}}
 Ja, beide apps zijn gratis te downloaden met kernfuncties waaronder afspelen, equalizer en cloudstreaming. De gratis versies hebben enkele beperkingen (aantal **Afspeellijsten**, cloudaccounts, offline mappen). Upgraden naar Premium verwijdert deze beperkingen.
-{{% /details %}}
+{{% /ls-details %}}

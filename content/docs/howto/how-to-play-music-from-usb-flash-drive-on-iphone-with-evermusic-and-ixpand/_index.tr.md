@@ -7,7 +7,7 @@ tags: ["müzik", "usb", "harici", "ixpand", "sandisk", "iphone", "evermusic"]
 readingTime: 3
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **Özet:** Evermusic, iPhone veya iPad'inizde SanDisk iXpand Flash Drive'dan doğrudan müzik çalmanıza olanak tanır. Sürücüyü takın, Evermusic'i açın ve dinlemeye başlayın -- dosyaları cihazınıza kopyalamanıza gerek yok. Dosya yönetimi, çalma listeleri, ekolayzır ve AirPlay akışını destekler.
@@ -69,22 +69,22 @@ Evermusic ve SanDisk iXpand Flash Drive ile depolama sınırlamaları konusunda 
 
 ## FAQ
 
-{{% details title="Evermusic hangi iXpand Flash Drive modellerini destekliyor?" closed="true" %}}
+{{% ls-details title="Evermusic hangi iXpand Flash Drive modellerini destekliyor?" closed="true" %}}
 Evermusic, V1, V2, V3, V6 ve V7 protokollerine sahip SanDisk iXpand Flash Drive'ları destekler. iPhone Ayarlarınızda Genel > Hakkında > iXpand Flash Drive altından uyumluluğu kontrol edebilirsiniz.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Dosyaları iPhone'uma kopyalamadan USB sürücüden müzik çalabilir miyim?" closed="true" %}}
+{{% ls-details title="Dosyaları iPhone'uma kopyalamadan USB sürücüden müzik çalabilir miyim?" closed="true" %}}
 Evet. Evermusic, ses dosyalarını doğrudan iXpand Flash Drive'dan çalar. Cihazınızın dahili depolamasına hiçbir şey kopyalamanıza gerek yoktur.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Evermusic USB sürücülerden hangi ses formatlarını destekliyor?" closed="true" %}}
+{{% ls-details title="Evermusic USB sürücülerden hangi ses formatlarını destekliyor?" closed="true" %}}
 Evermusic, MP3, FLAC, AAC, WAV, AIFF, OGG ve daha fazlası dahil tüm önemli ses formatlarını destekler. iXpand sürücünüzde depolanan herhangi bir ses dosyası doğrudan çalınabilir.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="iXpand sürücüden AirPlay hoparlörlere müzik aktarabilir miyim?" closed="true" %}}
+{{% ls-details title="iXpand sürücüden AirPlay hoparlörlere müzik aktarabilir miyim?" closed="true" %}}
 Evet. USB sürücüden müzik çalarken, Sonos hoparlörler, Apple TV ve Google Chromecast gibi AirPlay uyumlu cihazlara ses aktarabilirsiniz.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="iXpand sürücüm tanınmazsa ne yapmalıyım?" closed="true" %}}
+{{% ls-details title="iXpand sürücüm tanınmazsa ne yapmalıyım?" closed="true" %}}
 Başka hiçbir uygulamanın sürücüyü kullanmadığından emin olun. Çıkarıp tekrar takmayı deneyin. Modeliniz desteklenmiyorsa, sürücüyü standart bir USB cihaz olarak bağlamak için Apple Lightning - USB adaptörü kullanın.
-{{% /details %}}
+{{% /ls-details %}}

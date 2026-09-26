@@ -62,7 +62,7 @@ Tym, co różni niebieską i czerwoną wersję, jest **sposób, w jaki są pakow
 
 ### Pobierz z App Store
 
-{{< app-details ids="885367198, 905746421, 1564384601" >}}
+{{< ls-app-details ids="885367198, 905746421, 1564384601" >}}
 
 ### Pakowanie w App Store
 
@@ -142,7 +142,7 @@ Darmowa wersja świetnie sprawdza się dla okazjonalnych słuchaczy, podczas gdy
 
 ## Najczęściej zadawane pytania
 
-{{% details title="Kupiłem Evermusic Pro (lub Premium) na starym Koncie Apple. Czy mogę przenieść go na nowe Konto Apple?" closed="true" %}}
+{{% ls-details title="Kupiłem Evermusic Pro (lub Premium) na starym Koncie Apple. Czy mogę przenieść go na nowe Konto Apple?" closed="true" %}}
 Zgodnie z oficjalną dokumentacją Apple, zakupy z innego Konta Apple mogą być udostępniane za pośrednictwem Chmury Rodzinnej / Udostępniania zakupów, pod warunkiem że konta są odpowiednio skonfigurowane w ramach tej samej grupy Chmury Rodzinnej.
 
 Jeśli Evermusic Pro został zakupiony przy użyciu Twojego starego Konta Apple, Apple udostępnia opcję użycia tego konta jako dodatkowego Konta Apple do Udostępniania zakupów.
@@ -202,30 +202,30 @@ Dlatego jeśli konfigurowanie Chmury Rodzinnej Apple ze starym kontem jest niewy
 Pamiętaj, że Chmura Rodzinna Apple, Udostępnianie zakupów, Konta Apple i historia zakupów w App Store są w całości zarządzane przez Apple. Nie mamy dostępu do Kont Apple użytkowników i nie możemy przenosić zakupów z App Store z jednego Konta Apple na drugie z naszej strony.
 
 Jeśli napotkasz jakiekolwiek problemy związane konkretnie z Chmurą Rodzinną lub dostępem do zakupu dokonanego na Twoim starym Koncie Apple, Wsparcie Apple musiałoby sprawdzić konfigurację kont.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Uaktualniłem już Evermusic Free (niebieski) do Premium. Czy potrzebuję również Evermusic Pro (czerwony)?" closed="true" %}}
+{{% ls-details title="Uaktualniłem już Evermusic Free (niebieski) do Premium. Czy potrzebuję również Evermusic Pro (czerwony)?" closed="true" %}}
 Nie. Evermusic Pro (czerwona ikona) to ta sama aplikacja co Evermusic Free (niebieska ikona) z już odblokowanym Premium. Jeśli już uaktualniłeś niebieską aplikację do Premium, masz wszystko, co oferuje Pro, więc nie ma potrzeby instalowania ani kupowania czerwonej aplikacji.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Czy Chmura Rodzinna jest obsługiwana i ile osób może korzystać z mojego zakupu?" closed="true" %}}
+{{% ls-details title="Czy Chmura Rodzinna jest obsługiwana i ile osób może korzystać z mojego zakupu?" closed="true" %}}
 Tak. Chmura Rodzinna działa ze wszystkimi zakupami i subskrypcjami Evermusic, dzięki czemu możesz udostępniać Premium maksymalnie pięciu członkom rodziny. Włącz Udostępnianie zakupów w Ustawienia → Rodzina na swoim urządzeniu. Każdy członek rodziny pobiera aplikację na swoim własnym Koncie Apple i automatycznie otrzymuje Premium.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Uaktualniłem do Premium na swoim iPhonie, ale mój Mac nadal pokazuje darmową wersję. Jak to naprawić?" closed="true" %}}
+{{% ls-details title="Uaktualniłem do Premium na swoim iPhonie, ale mój Mac nadal pokazuje darmową wersję. Jak to naprawić?" closed="true" %}}
 Premium jest współdzielone między iPhone a Mac za pośrednictwem iCloud. Najpierw upewnij się, że oba urządzenia używają tego samego Konta Apple i mają włączony iCloud. Na swoim iPhonie otwórz najnowszą wersję Evermusic i poczekaj około minuty, aż Twój zakup zostanie przesłany do iCloud. Możesz również dotknąć Przywróć zakupy w Ustawieniach. Następnie otwórz najnowszą wersję na swoim Macu, połącz się z internetem i poczekaj około minuty. Premium powinno włączyć się samo.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Jak przywrócić mój zakup na nowym urządzeniu?" closed="true" %}}
+{{% ls-details title="Jak przywrócić mój zakup na nowym urządzeniu?" closed="true" %}}
 Otwórz Ustawienia w aplikacji i dotknij Przywróć zakupy. Zobaczysz swoje zakupy, a Premium włączy się z powrotem. Jeśli brakuje jakiegoś zakupu, upewnij się, że urządzenie używa tego samego Konta Apple, którym dokonałeś zakupu, i że iCloud jest włączony.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Jeśli zainstaluję Evermusic Pro (czerwony), czy odblokuje to Premium w Evermusic Free (niebieskim)?" closed="true" %}}
+{{% ls-details title="Jeśli zainstaluję Evermusic Pro (czerwony), czy odblokuje to Premium w Evermusic Free (niebieskim)?" closed="true" %}}
 Tak. Jeśli zainstalujesz czerwony Evermusic Pro na urządzeniu, niebieski Evermusic Free na tym samym urządzeniu wykryje go i automatycznie włączy Premium. Nie musisz ponownie kupować Premium w niebieskiej aplikacji. Wystarczy, że czerwona aplikacja pozostanie zainstalowana.
 
 Nie działa to w drugą stronę. Zakup Premium w niebieskiej aplikacji nie sprawia, że czerwony Evermusic Pro staje się darmowy, ponieważ są to osobne aplikacje w App Store. Zakupy w niebieskich aplikacjach synchronizują się za pośrednictwem iCloud między niebieską aplikacją iPhone a niebieską aplikacją Mac.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Czy mogę używać Premium na komputerze Mac z procesorem Intel?" closed="true" %}}
+{{% ls-details title="Czy mogę używać Premium na komputerze Mac z procesorem Intel?" closed="true" %}}
 Tak. Użyj niebieskiej aplikacji Evermusic Free i uaktualnij do Premium. Niebieska aplikacja Mac działa zarówno na komputerach Mac z Apple Silicon, jak i z procesorem Intel. Czerwony Evermusic Pro działa wyłącznie na komputerach Mac z Apple Silicon (M1 i nowszych) i nie można go zainstalować na komputerach Mac z procesorem Intel.
-{{% /details %}}
+{{% /ls-details %}}

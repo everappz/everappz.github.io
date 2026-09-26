@@ -7,7 +7,7 @@ tags: ["evermusic", "flacbox", "недавние", "lastfm", "экспорт", "
 readingTime: 5
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **Кратко:** Экспортируйте историю прослушивания из Evermusic или Flacbox в виде CSV-файла, затем загрузите его на Last.fm с помощью бесплатного инструмента Last.fm-Scrubbler-WPF для Windows. Автоматический скробблинг также доступен нативно в обоих приложениях.
@@ -134,22 +134,22 @@ M3U: Этот формат является стандартом для созд
 
 ## Часто задаваемые вопросы
 
-{{% details title="Могу ли я скробблить автоматически без экспорта CSV-файлов?" closed="true" %}}
+{{% ls-details title="Могу ли я скробблить автоматически без экспорта CSV-файлов?" closed="true" %}}
 Да. И Evermusic, и Flacbox теперь поддерживают автоматический скробблинг на Last.fm. Смотрите руководство: [Как скробблить на Last.fm](/docs/howto/how-to-scrobble-your-music-history-from-evermusic-or-flacbox-to-last-fm).
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Что если мой CSV содержит треки старше 14 дней?" closed="true" %}}
+{{% ls-details title="Что если мой CSV содержит треки старше 14 дней?" closed="true" %}}
 Используйте Режим импорта в Last.fm-Scrubbler-WPF. Он пересчитывает метки времени из Времени окончания, позволяя скробблить треки независимо от их исходной даты.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="У меня нет компьютера с Windows. Могу ли я использовать Last.fm-Scrubbler?" closed="true" %}}
+{{% ls-details title="У меня нет компьютера с Windows. Могу ли я использовать Last.fm-Scrubbler?" closed="true" %}}
 Да. Установите VirtualBox на Mac и скачайте бесплатный образ среды разработки Windows от Microsoft. Запустите Last.fm-Scrubbler-WPF внутри виртуальной машины.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Почему некоторые скробблы не разбираются?" closed="true" %}}
+{{% ls-details title="Почему некоторые скробблы не разбираются?" closed="true" %}}
 Треки без важных метаданных (например, имени исполнителя) не могут быть разобраны. Это ожидаемо и не влияет на другие треки в файле.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Есть ли дневной лимит скробблинга?" closed="true" %}}
+{{% ls-details title="Есть ли дневной лимит скробблинга?" closed="true" %}}
 Да. Last.fm-Scrubbler-WPF позволяет до 2 800 скробблов в день. Если нужно больше, разделите процесс на несколько дней.
-{{% /details %}}
+{{% /ls-details %}}

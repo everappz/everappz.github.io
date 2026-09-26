@@ -26,7 +26,7 @@ aliases:
 The Settings screen is the control center of Evervideo. From here you can upgrade to Premium, configure the video and audio engines (system codecs or FFmpeg), manage Picture-in-Picture, set up subtitles (primary, secondary, libass, external files, fonts), organize the media library, set up the file manager, enable Home Screen widgets, back up your data, and access help and legal information. Sections are grouped under headers: Purchases & Updates, App preferences, Help, Legal & Privacy.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evervideo Settings Main Screen" image="/docs/guide/evervideo/img/evervideo-settings.webp" >}}
+  {{< ls-card title="" subtitle="Evervideo Settings Main Screen" image="/docs/guide/evervideo/img/evervideo-settings.webp" >}}
 {{< /cards >}}
 
 ## Upgrade to Premium
@@ -34,13 +34,13 @@ The Settings screen is the control center of Evervideo. From here you can upgrad
 Upgrade the application to the Premium version to remove all limits. The free version of the application offers a one-time lifetime in-app purchase and two subscription options (1 month and 1 year) to remove all restrictions and upgrade to Premium.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evervideo Upgrade to Premium" image="/docs/guide/evervideo/img/evervideo-upgrade-to-premium.webp" >}}
+  {{< ls-card title="" subtitle="Evervideo Upgrade to Premium" image="/docs/guide/evervideo/img/evervideo-upgrade-to-premium.webp" >}}
 {{< /cards >}}
 
 **Family Sharing** is enabled for all purchases and plans, so you can share the Premium version with up to five members of your family at no extra cost.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evervideo Select a Premium Plan" image="/docs/guide/evervideo/img/evervideo-select-premium-plan.webp" >}}
+  {{< ls-card title="" subtitle="Evervideo Select a Premium Plan" image="/docs/guide/evervideo/img/evervideo-select-premium-plan.webp" >}}
 {{< /cards >}}
 
 ## Sharing Purchases Between iOS and Mac
@@ -54,7 +54,7 @@ You can also tap the **Restore Purchases** button in the app settings. Ensure yo
 To restore your purchase on a new device, use the **Purchases → Restore Purchases** menu. You'll see the list of your purchases. If you don't see all of them, confirm the device is connected to the same Apple ID that was used to make the purchases, and make sure iCloud is enabled.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evervideo Purchases Menu in Settings" image="/docs/guide/evervideo/img/evervideo-purhases-menu-in-settings.webp" >}}
+  {{< ls-card title="" subtitle="Evervideo Purchases Menu in Settings" image="/docs/guide/evervideo/img/evervideo-purhases-menu-in-settings.webp" >}}
 {{< /cards >}}
 
 ## Try Premium for Free

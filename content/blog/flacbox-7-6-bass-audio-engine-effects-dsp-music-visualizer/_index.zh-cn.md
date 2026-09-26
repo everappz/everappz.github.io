@@ -12,7 +12,7 @@ authors:
     image: "/images/about/artem-meleshko-founder-everappz.webp"
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 **摘要：** [Flacbox 7.6](/products/flacbox) 是我们迄今为止为 iPhone、iPad 与 Mac 高解析度音频播放器带来的最大更新，它围绕一款全新的 **BASS™ 音频引擎**打造，专为无损与高解析度聆听而生。你可以选择 BASS™ 引擎作为备用播放内核，从而解锁完整的**实时音频音效**链、**14 滤波器 DSP 处理器**、**实时全屏音乐可视化**，以及经典**跟踪器与 MOD 音乐**（MOD、XM、IT、S3M、MTM、UMX、MO3）的播放。本次更新还新增了**基于响度的自动音量均衡**、**十一种音效工作室套件**（混响、延迟、多抽头回声、合唱、镶边、移相、自动哇音、失真、压缩、立体声旋转和交叉馈送）、**焕然一新的音效与均衡器设计**，采用现代玻璃质感滑块，以及 **CarPlay 改进**，包括在车内调整 DSP 设置，还有更精准的锁屏、手表与车载控件。在底层：更可靠的流媒体基础、更好的文件类型处理、更广泛的本地化，以及大量稳定性与性能修复。
 
@@ -139,50 +139,50 @@ Flacbox 7.6 围绕一个理念打造：**你的无损曲库理应获得专业级
 
 ## 常见问题
 
-{{% details title="Flacbox 7.6 有哪些新功能？" closed="true" %}}
+{{% ls-details title="Flacbox 7.6 有哪些新功能？" closed="true" %}}
 Flacbox 7.6 新增了一款全新的专业 **BASS™ 音频引擎**，你可以选择它作为备用播放内核，还有**基于响度的自动音量均衡**、**十一种音效工作室套件**（混响、延迟、多抽头回声、合唱、镶边、移相、自动哇音、失真、压缩、立体声旋转和交叉馈送）、**14 滤波器实时 DSP 处理器**、**全屏实时音乐可视化**、原生**跟踪器与 MOD** 播放（MOD、XM、IT、S3M、MTM、UMX、MO3）、**焕然一新的音效与均衡器设计**，以及 **CarPlay 改进**。它还包含更可靠的流媒体基础、更好的文件类型处理、更广泛的本地化，以及大量稳定性与性能修复。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Flacbox 中全新的 BASS™ 音频引擎是什么？" closed="true" %}}
+{{% ls-details title="Flacbox 中全新的 BASS™ 音频引擎是什么？" closed="true" %}}
 [BASS™](https://www.un4seen.com) 音频引擎基于 un4seen Developments 的 BASS™ 音频库打造，是一款专业播放内核，你可以选择它作为 **Flacbox 现有引擎的备用方案**。选用它后即可解锁完整的实时音频音效链、DSP 处理器和实时可视化，还能新增播放经典的跟踪器与 MOD 音乐。它以**高品质重采样**和**精准的音高与速度控制**播放你现有的无损与高解析度曲库（FLAC、DSD、ALAC、APE 等）。你可以随时切换回经典引擎。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Flacbox 7.6 能播放哪些音频格式和跟踪器/MOD 类型？" closed="true" %}}
+{{% ls-details title="Flacbox 7.6 能播放哪些音频格式和跟踪器/MOD 类型？" closed="true" %}}
 Flacbox 依旧是一款高解析度无损播放器，支持 **FLAC、DSD、APE、ALAC、WAV、AIFF、MP3、AAC、Opus** 等格式。7.6 版本新增，BASS™ 引擎还能播放经典的**跟踪器与模块音乐**：**MOD、XM、IT、S3M、MTM、UMX 和 MO3**——这些是用于芯片音乐与 demoscene 音乐的音型与采样格式，大多数 iPhone 播放器都无法打开它们。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Flacbox 中的自动音量均衡是如何工作的？" closed="true" %}}
+{{% ls-details title="Flacbox 中的自动音量均衡是如何工作的？" closed="true" %}}
 Flacbox 7.6 采用 **EBU R128 响度测量**（ITU-R BS.1770 标准），让来自不同专辑的曲目保持一致的感知音量，这样你就不必在歌曲之间调整音量了。对于**本地文件，你的曲库会被预先扫描**，让播放一开始就已均衡完毕——不会在曲目开始后因应用测量响度而产生延迟。共有四种预设可选——**轻度**（−20 LUFS）、**标准**（−16 LUFS）、**强力**（−14 LUFS）和**夜间**（−23 LUFS）——它在混合曲库、精选合辑和随机播放中均能生效。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Flacbox 7.6 中有哪些音频音效？" closed="true" %}}
+{{% ls-details title="Flacbox 7.6 中有哪些音频音效？" closed="true" %}}
 十一种实时音效，你可以在音乐播放时叠加并调校：**混响、延迟、多抽头回声、合唱、镶边、移相、自动哇音、失真、压缩、立体声旋转和交叉馈送**。每种音效都有**专属界面、一个预设库和即时开关**，Flacbox 会在多次使用之间记住你的设置。其中交叉馈送尤其能让硬声像录音在耳机上听起来更自然。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="DSP 处理器是什么，它包含哪些滤波器？" closed="true" %}}
+{{% ls-details title="DSP 处理器是什么，它包含哪些滤波器？" closed="true" %}}
 DSP 处理器让你能**用 14 种滤波器构建自己的实时信号链**：增益、低通、高通、带通与陷波滤波器、峰值均衡、低架与高架均衡、软削波饱和、比特压碎器、颤音、延迟、环形调制器和立体声宽度。每种滤波器都有**预设和即时开关**，让你能校正房间声学、驯服刺耳的录音，或设计出完全自定义的音色。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="交叉馈送是什么，我为什么要在耳机上使用它？" closed="true" %}}
+{{% ls-details title="交叉馈送是什么，我为什么要在耳机上使用它？" closed="true" %}}
 交叉馈送将每个立体声声道少量、经滤波的内容混入另一声道，模拟你的双耳在房间里聆听真实音箱时自然感受到的方式。在耳机上，这能减弱硬声像录音那种夸张的、「在脑内」的分离感，让长时间聆听更舒适。它对 1960 与 1970 年代较早的立体声混音尤其有效。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Flacbox 音乐可视化在所有设备上都能用吗？" closed="true" %}}
+{{% ls-details title="Flacbox 音乐可视化在所有设备上都能用吗？" closed="true" %}}
 可以。**实时音乐可视化**呈现全屏动画视觉效果，随你的音乐实时律动，并配有庞大的预设库供你挑选或让其自动循环。它在**你所有设备的各个播放引擎上均可使用**，内置的**屏幕休眠防止器**会保持屏幕常亮，让视觉效果不会在歌曲播放中途中断。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="我可以在不影响另一项的情况下改变音高和速度吗？" closed="true" %}}
+{{% ls-details title="我可以在不影响另一项的情况下改变音高和速度吗？" closed="true" %}}
 可以。当你使用全新的 BASS™ 引擎时，Flacbox 7.6 提供**精准、独立的音高与速度控制**——在不改变调性的情况下改变曲目速度，或在不改变速度的情况下升降调性。它对练习、扒谱和 DJ 式聆听都很有用。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Flacbox 7.6 的 CarPlay 有哪些改进？" closed="true" %}}
+{{% ls-details title="Flacbox 7.6 的 CarPlay 有哪些改进？" closed="true" %}}
 CarPlay 现在包含 **DSP 设置**，让你能从车内访问自己的配置，还有**修复后的专辑封面与「正在播放」**渲染，以及**更精准的锁屏、Apple Watch 与车载控件**，它们会与播放保持同步。再加上更可靠的流媒体基础，在路上聆听你的无损曲库更加顺畅。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="音效、DSP 与均衡器在云端流媒体上能用吗？" closed="true" %}}
+{{% ls-details title="音效、DSP 与均衡器在云端流媒体上能用吗？" closed="true" %}}
 可以。音效、DSP 滤波器、均衡器和音量均衡都在 BASS™ 播放引擎内部实时运行，因此会作用于 Flacbox 播放的一切内容——**本地文件、云盘（iCloud Drive、Google Drive、Dropbox、OneDrive 等）、媒体服务器和网络共享**——无需重新编码你的文件。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Flacbox 7.6 是免费更新吗？它支持哪些设备？" closed="true" %}}
+{{% ls-details title="Flacbox 7.6 是免费更新吗？它支持哪些设备？" closed="true" %}}
 是的。Flacbox 可从 App Store **免费下载**，7.6 对现有用户是**免费更新**，高级功能可通过应用内可选升级获得。它可在 **iPhone、iPad 和 Mac** 上运行。CarPlay 需要兼容 CarPlay 的车辆或主机。
-{{% /details %}}
+{{% /ls-details %}}

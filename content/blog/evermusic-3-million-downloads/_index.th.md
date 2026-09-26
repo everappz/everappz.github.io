@@ -12,7 +12,7 @@ authors:
     image: "/images/about/artem-meleshko-founder-everappz.webp"
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 ## 3 ล้านดาวน์โหลด
 
@@ -98,22 +98,22 @@ Evermusic ฟรีบน App Store พร้อมฟีเจอร์พร�
 
 ## คำถามที่พบบ่อย
 
-{{% details title="Evermusic ใช้งานฟรีหรือไม่?" closed="true" %}}
+{{% ls-details title="Evermusic ใช้งานฟรีหรือไม่?" closed="true" %}}
 ใช่ Evermusic ดาวน์โหลดฟรีพร้อมฟีเจอร์หลักที่ใช้งานได้โดยไม่มีค่าใช้จ่าย ฟีเจอร์พรีเมียมเช่นอีควอไลเซอร์และตัวเลือกคลาวด์ขั้นสูงมีให้ผ่านการอัปเกรดเสริม
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Evermusic เล่นหนังสือเสียงได้หรือไม่?" closed="true" %}}
+{{% ls-details title="Evermusic เล่นหนังสือเสียงได้หรือไม่?" closed="true" %}}
 ได้ Evermusic บันทึกตำแหน่งการเล่น รองรับบุ๊กมาร์ก ปรับความเร็วการเล่นได้ (0.5x ถึง 2.0x) และตั้งเวลาปิด ทำให้เหมาะสำหรับหนังสือเสียงและพอดแคสต์
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Evermusic เชื่อมต่อกับบริการคลาวด์ใดบ้าง?" closed="true" %}}
+{{% ls-details title="Evermusic เชื่อมต่อกับบริการคลาวด์ใดบ้าง?" closed="true" %}}
 Dropbox, Google Drive, OneDrive, Box, MEGA, Yandex.Disk, MyDrive, pCloud, HiDrive, การแชร์ไฟล์ SMB และเซิร์ฟเวอร์ WebDAV
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="ฉันใช้การ์ด SD กับ Evermusic ได้หรือไม่?" closed="true" %}}
+{{% ls-details title="ฉันใช้การ์ด SD กับ Evermusic ได้หรือไม่?" closed="true" %}}
 ได้ เชื่อมต่อตัวอ่านการ์ด SD แบบ Lightning หรือ USB-C กับ iPhone หรือ iPad แล้วสตรีมเพลงโดยตรงจากการ์ดผ่าน Evermusic
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Evermusic ใช้งานได้บน Mac หรือไม่?" closed="true" %}}
+{{% ls-details title="Evermusic ใช้งานได้บน Mac หรือไม่?" closed="true" %}}
 ได้ Evermusic มีให้บริการทั้ง iOS และ macOS พร้อมการสตรีมคลาวด์และการเล่นออฟไลน์บนทุกแพลตฟอร์ม
-{{% /details %}}
+{{% /ls-details %}}

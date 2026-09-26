@@ -16,16 +16,16 @@ screenshots:
   - "https://everappz.com/products/evermusic/screenshots/2048x2732/6.png"
 ---
 
-{{% sr-only %}}
+{{% ls-sr-only %}}
 Evermusic הוא נגן מוזיקה חינמי במצב לא מקוון ל-iPhone ו-Mac, שפותח על ידי Everappz, חברת תוכנה ספרדית. עם יותר מ-11 מיליון הורדות ברחבי העולם ודירוג של 4.6 כוכבים מתוך יותר מ-18,000 ביקורות ב-App Store, Evermusic הוא אחד מנגני המוזיקה הפופולריים ביותר מצד שלישי ב-iOS. האפליקציה מתחברת ליותר מ-30 שירותי אחסון ענן כולל iCloud Drive, Google Drive, Dropbox, OneDrive, MEGA, Box, pCloud ו-Yandex.Disk, ומאפשרת למשתמשים להזרים את ספריית המוזיקה האישית שלהם ישירות מהענן או להוריד רצועות להאזנה במצב לא מקוון. Evermusic תומך במגוון רחב של פורמטי שמע כולל MP3, FLAC, AAC, ALAC, WAV, AIFF, OGG, OPUS, WMA, APE ו-DSD. תכונות מפתח כוללות אקולייזר שמע של 10 פסים עם הגדרות מוכנות, השמעה עם מעבר חלק והשמעה רציפה, ייבוא וייצוא של רשימות השמעה M3U, תצוגת מילות שירים, סימניות שמע, שילוב עם Apple CarPlay, הזרמת AirPlay ו-Chromecast, ו-scrobbling ב-Last.fm. האפליקציה תומכת גם בהזרמה ברשת מקומית דרך פרוטוקולי SMB, WebDAV ו-DLNA, וכן בהשמעה מכונני USB באמצעות מתאמי Lightning או USB-C. Evermusic זמין להורדה חינם ב-App Store עם רכישות אופציונליות בתוך האפליקציה הכוללות מנוי חודשי ב-$4.99, מנוי שנתי ב-$19.99, או רכישה חד-פעמית לכל החיים ב-$59.99. האפליקציה הושקה לראשונה בשנת 2014 ומתוחזקת באופן פעיל עם עדכונים שוטפים.
-{{% /sr-only %}}
+{{% /ls-sr-only %}}
 
 
 <!-- <body class="hx:bg-transparent" style="background: radial-gradient(ellipse at 50% 80%, rgba(59,130,246,0.05), hsla(0,0%,100%,0));"> -->
 
-{{< force-dark >}}
+{{< ls-force-dark >}}
 
-{{< hextra/hero-container
+{{< ls-hero-container
   image="/products/evermusic/heroimage/hero_1200.png"
   imageWidth="600"
   imageCard="true"
@@ -34,40 +34,40 @@ Evermusic הוא נגן מוזיקה חינמי במצב לא מקוון ל-iPho
 <div class="hx:w-full hx:text-center">
 
 <div class="hx:mt-4">
-{{< downloads-badge >}}
+{{< ls-downloads-badge >}}
 </div>
 
 <div class="hx:mt-6 hx:mb-6">
 <div class="hx:flex hx:gap-4 hx:items-center hx:justify-center">
-  {{< app-icon src="/images/app_icons/png/Evermusic_Icon-App-1024x1024.png" alt="Evermusic Icon" class="hero-headline-icon" size="80" >}}
-  {{< hextra/hero-headline >}}
+  {{< ls-app-icon src="/images/app_icons/png/Evermusic_Icon-App-1024x1024.png" alt="Evermusic Icon" class="hero-headline-icon" size="80" >}}
+  {{< ls-hero-headline >}}
   Evermusic
-  {{< /hextra/hero-headline >}}
+  {{< /ls-hero-headline >}}
 </div>
 </div>
 
 <div class="hx:mb-6">
-{{< hextra/hero-centered-subtitle >}}
+{{< ls-hero-centered-subtitle >}}
 <a href="https://www.chip.de/downloads/Evermusic-Pro-iPhone-_-iPad-App_91614216.html" target="_blank" rel="noopener">
   הוא הפתרון המושלם לארגון והשמעת המוזיקה שלך מהענן <strong>chip.de</strong>
   </a>
-{{< /hextra/hero-centered-subtitle >}}
+{{< /ls-hero-centered-subtitle >}}
 </div>
 
 <div class="hx:mb-6">
-{{< hextra/hero-paragraph >}}
+{{< ls-hero-paragraph >}}
 • נגן מוזיקה עם קרוספייד, נגינה ללא הפסקות ואקולייזר  
 • ייבא פלייליסטים M3U והורד שירים להאזנה אופליין  
 • הזרם מוזיקה מכוננים בענן, NAS, מחשב או כונני USB  
 • צפה במילות שירים בזמן האזנה והוסף סימניות אודיו לחזרה בכל עת  
-{{< /hextra/hero-paragraph >}}
+{{< /ls-hero-paragraph >}}
 </div>
 
-{{< app-store-badges products="evermusic:ios, evermusic:macos" >}}
+{{< ls-app-store-badges products="evermusic:ios, evermusic:macos" >}}
 
 </div>
 
-{{< /hextra/hero-container >}}
+{{< /ls-hero-container >}}
 
 <div class="hx:mt-6"></div>
 
@@ -75,42 +75,42 @@ Evermusic הוא נגן מוזיקה חינמי במצב לא מקוון ל-iPho
 
 {{< hextra/feature-grid >}}
 
-  {{< hextra/feature-card
+  {{< ls-glass-feature-card
     title="המוזיקה שלך בענן"
     subtitle="צור לעצמך שירות הזרמת מוזיקה מתקדם בחינם! הזרם את הרצועות המועדפות עליך ישירות מהענן עם אגירה חכמה ונגינה חלקה, תוך חיסכון באחסון המכשיר. חבר שירותים כמו iCloud Drive, Google Drive, Dropbox, OneDrive, Box, MEGA, pCloud, Proton Drive ועוד רבים."
     icon="cloud"
     style="background: radial-gradient(ellipse at 50% 80%, rgba(34,197,94,0.15), hsla(0,0%,100%,0));"
   >}}
 
-  {{< hextra/feature-card
+  {{< ls-glass-feature-card
     title="מצב אופליין"
     subtitle="מצב אופליין מאפשר לך להוריד את האלבומים, הרצועות, האמנים, הז'אנרים והפלייליסטים המועדפים עליך לנגינה אופליין. האזן בכל מקום, בין אם בטיסה, ברכבת התחתית או הרחק מכיסוי רשת, גם כשאינך מחובר לאינטרנט, ללא הזרמה וללא צריכת נתונים."
     icon="download"
     style="background: radial-gradient(ellipse at 50% 80%, rgba(234,88,12,0.15), hsla(0,0%,100%,0));"
   >}}
 
-  {{< hextra/feature-card
+  {{< ls-glass-feature-card
     title="העבר קבצים בקלות"
     subtitle="חבר את ה-Mac או ה-PC שלך והזרם מוזיקה ישירות מהמחשב הביתי שלך. העבר קבצי אודיו בצורה חלקה בין המחשב למכשיר ה-iOS באמצעות Wi-Fi Drive או iTunes File Sharing. ניתן גם לחבר NAS או כונן USB ולגשת לספרייה שלך מכל מקום."
     icon="duplicate"
     style="background: radial-gradient(ellipse at 50% 80%, rgba(251,191,36,0.15), hsla(0,0%,100%,0));"
   >}}
 
-  {{< hextra/feature-card
+  {{< ls-glass-feature-card
     title="שרתי מדיה ו-NAS"
     subtitle="התחבר לספריות המדיה האישיות ולשרתים הביתיים שלך כמו Plex, Emby, Jellyfin, Subsonic ו-Navidrome. חבר את ה-NAS שלך כגון Synology, QNAP, Nextcloud ו-WD My Cloud Home דרך SMB, WebDAV, FTP, SFTP, NFS או DLNA/UPnP, וגש לכל אוסף המוזיקה שלך מכל מקום."
     icon="desktop-computer"
     style="background: radial-gradient(ellipse at 50% 80%, rgba(59,130,246,0.15), hsla(0,0%,100%,0));"
   >}}
 
-  {{< hextra/feature-card
+  {{< ls-glass-feature-card
     title="מנוע אודיו מקצועי"
     subtitle="תיהנה מנגינה אמיתית ללא הפסקות וממעבר קרוספייד חלק בין רצועות. עצב את הצליל שלך עם אקולייזר של 10 פסים, פריסטים מותאמים אישית וחיזוק קדם-מגבר, מהירות נגינה וגובה צליל הניתנים להתאמה, וכן מערך מלא של אפקטי אולפן כמו הדהוד, הד, מקהלה, פלנג'ר, הגברת באסים, קרוספיד ונרמול עוצמת קול."
     icon="adjustments"
     style="background: radial-gradient(ellipse at 50% 80%, rgba(192,38,211,0.15), hsla(0,0%,100%,0));"
   >}}
 
-  {{< hextra/feature-card
+  {{< ls-glass-feature-card
     title="מילות שירים, ווידג'טים ו-CarPlay"
     subtitle="קרא מילות שירים מוטמעות ומסונכרנות בפורמט LRC שנגללות בזמן אמת עם המוזיקה, גם במסך הנעילה, בווידג'טים של מסך הבית וב-Apple CarPlay. הוסף ווידג'טים של מתנגן כעת, מילות שירים, מועדפים ונוגנו לאחרונה כדי לשמור על המוזיקה שלך בהישג יד, תמיד מסונכרנת."
     icon="annotation"
@@ -123,9 +123,9 @@ Evermusic הוא נגן מוזיקה חינמי במצב לא מקוון ל-iPho
 
 <div class="hx:mt-6"></div>
 
-{{< hextra/section-headline >}}
+{{< ls-section-headline >}}
   עיצוב נקי ופשוט
-{{< /hextra/section-headline >}}
+{{< /ls-section-headline >}}
 
 <div class="hx:mt-6"></div>
 
@@ -133,7 +133,7 @@ Evermusic הוא נגן מוזיקה חינמי במצב לא מקוון ל-iPho
 
 {{< cards cols="4">}}
 
-  {{< design-feature-card 
+  {{< ls-design-feature-card 
     icon="adjustments"
     image="/products/evermusic/screenshots/2048x2732/3.png" 
     title="אקולייזר אודיו" 
@@ -142,7 +142,7 @@ Evermusic הוא נגן מוזיקה חינמי במצב לא מקוון ל-iPho
     subtitle="כוונן את הצליל שלך עם אקולייזר בסגנון iPod, פריסטים ניתנים להתאמה אישית וחיזוק קדם-מגבר לחוויית האזנה מיטבית." 
   >}}
 
-  {{< design-feature-card 
+  {{< ls-design-feature-card 
     icon="annotation"
     image="/products/evermusic/screenshots/2048x2732/4.png"  
     title="צפייה במילות שירים" 
@@ -151,7 +151,7 @@ Evermusic הוא נגן מוזיקה חינמי במצב לא מקוון ל-iPho
     subtitle="קרא מילות שירים מוטמעות והערות שירים בזמן האזנה. תיהנה ממילות שירים מסונכרנות לחוויה מוזיקלית עשירה יותר." 
   >}}
 
-  {{< design-feature-card 
+  {{< ls-design-feature-card 
     icon="collection"
     image="/products/evermusic/screenshots/2048x2732/5.png"  
     title="מנהל פלייליסטים" 
@@ -160,7 +160,7 @@ Evermusic הוא נגן מוזיקה חינמי במצב לא מקוון ל-iPho
     subtitle="צור וארגן פלייליסטים מותאמים אישית, סדר מחדש שירים, ייצא ל-M3U או ארכב כקבצי ZIP לשיתוף או גיבוי קל." 
   >}}
 
-  {{< design-feature-card 
+  {{< ls-design-feature-card 
     icon="cloud"
     image="/products/evermusic/screenshots/2048x2732/6.png"  
     title="הזרמת מוזיקה מהענן" 
@@ -169,7 +169,7 @@ Evermusic הוא נגן מוזיקה חינמי במצב לא מקוון ל-iPho
     subtitle="חבר פלטפורמות אחסון ענן מובילות כמו Google Drive, Dropbox ו-OneDrive להזרמת אוסף המוזיקה שלך בכל זמן ובכל מקום." 
   >}}
 
-  {{< design-feature-card 
+  {{< ls-design-feature-card 
     icon="duplicate"
     image="/products/evermusic/screenshots/2048x2732/9.png"  
     title="מנהל קבצים" 
@@ -178,7 +178,7 @@ Evermusic הוא נגן מוזיקה חינמי במצב לא מקוון ל-iPho
     subtitle="נהל בקלות את קבצי האודיו שלך — שנה שמות שירים, ארגן תיקיות והעבר מוזיקה בין מכשירים באמצעות כלים מובנים." 
   >}} 
 
-  {{< design-feature-card 
+  {{< ls-design-feature-card 
     icon="sun"
     image="/products/evermusic/screenshots/2048x2732/10.png"  
     title="התאמה אישית של האפליקציה" 
@@ -193,9 +193,9 @@ Evermusic הוא נגן מוזיקה חינמי במצב לא מקוון ל-iPho
 
 <div class="hx:mt-6"></div>
 
-{{< hextra/section-headline >}}
+{{< ls-section-headline >}}
   סט תכונות מלא
-{{< /hextra/section-headline >}}
+{{< /ls-section-headline >}}
 
 <div class="hx:mt-6"></div>
 
@@ -203,47 +203,47 @@ Evermusic הוא נגן מוזיקה חינמי במצב לא מקוון ל-iPho
 
 {{< cards >}}
 
-  {{< feature-card title="נגן את כל פורמטי האודיו" subtitle="Evermusic מנגן את פורמטי האודיו הפופולריים ביותר, כולל MP3, AAC, M4A, WAV, AIFF, ALAC ו-M4B, כך שכל אוסף המוזיקה שלך מוכן לנגינה בכל מכשיר." icon="music-note" >}}
+  {{< ls-feature-card title="נגן את כל פורמטי האודיו" subtitle="Evermusic מנגן את פורמטי האודיו הפופולריים ביותר, כולל MP3, AAC, M4A, WAV, AIFF, ALAC ו-M4B, כך שכל אוסף המוזיקה שלך מוכן לנגינה בכל מכשיר." icon="music-note" >}}
 
-  {{< feature-card title="חבר את הענן שלך" subtitle="בנה שירות הזרמה משלך על ידי העברת הספרייה שלך לענן ושחרור מקום באייפון. חבר את iCloud, Google Drive, Dropbox, OneDrive, MEGA, Internxt ו-Proton Drive." icon="cloud" >}}
+  {{< ls-feature-card title="חבר את הענן שלך" subtitle="בנה שירות הזרמה משלך על ידי העברת הספרייה שלך לענן ושחרור מקום באייפון. חבר את iCloud, Google Drive, Dropbox, OneDrive, MEGA, Internxt ו-Proton Drive." icon="cloud" >}}
 
-  {{< feature-card title="חבר שרתי מדיה" subtitle="חבר את שרתי המדיה האישיים שלך ישירות לספרייה, כולל Plex, Subsonic, Navidrome, Jellyfin ו-Emby, והזרם בקלות את כל מה ששייך לך מהבית." icon="server" >}}
+  {{< ls-feature-card title="חבר שרתי מדיה" subtitle="חבר את שרתי המדיה האישיים שלך ישירות לספרייה, כולל Plex, Subsonic, Navidrome, Jellyfin ו-Emby, והזרם בקלות את כל מה ששייך לך מהבית." icon="server" >}}
 
-  {{< feature-card title="חבר את המחשב או ה-NAS שלך" subtitle="חבר את המחשב או ה-NAS שלך דרך SMB, WebDAV, DLNA, FTP, SFTP ו-NFS, עם ממשקי API מקוריים ל-QNAP, Synology, Nextcloud ו-WD My Cloud Home, או העבר קבצים דרך Wi-Fi." icon="desktop-computer" >}}
+  {{< ls-feature-card title="חבר את המחשב או ה-NAS שלך" subtitle="חבר את המחשב או ה-NAS שלך דרך SMB, WebDAV, DLNA, FTP, SFTP ו-NFS, עם ממשקי API מקוריים ל-QNAP, Synology, Nextcloud ו-WD My Cloud Home, או העבר קבצים דרך Wi-Fi." icon="desktop-computer" >}}
 
-  {{< feature-card title="מוזיקה אופליין" subtitle="הורד את השירים, האלבומים והאמנים המועדפים עליך כדי ליהנות מהם אופליין בכל עת. הפעל את מטמון נגן האודיו כדי לשמור אוטומטית רצועות שנוגנו לאחרונה להאזנה אופליין." icon="download" >}}
+  {{< ls-feature-card title="מוזיקה אופליין" subtitle="הורד את השירים, האלבומים והאמנים המועדפים עליך כדי ליהנות מהם אופליין בכל עת. הפעל את מטמון נגן האודיו כדי לשמור אוטומטית רצועות שנוגנו לאחרונה להאזנה אופליין." icon="download" >}}
 
-  {{< feature-card title="אקולייזר אודיו" subtitle="עצב את הצליל שלך עם האקולייזר המובנה, הכולל פריסטים מוכנים לז'אנרים מוזיקליים פופולריים וכן בקרות ידניות לכוונון והגברה של כל רצועה בדיוק כפי שאתה אוהב." icon="adjustments" >}}
+  {{< ls-feature-card title="אקולייזר אודיו" subtitle="עצב את הצליל שלך עם האקולייזר המובנה, הכולל פריסטים מוכנים לז'אנרים מוזיקליים פופולריים וכן בקרות ידניות לכוונון והגברה של כל רצועה בדיוק כפי שאתה אוהב." icon="adjustments" >}}
 
-  {{< feature-card title="נגינה ללא הפסקות" subtitle="תיהנה מנגינה חלקה ורציפה ללא הפסקות בין שירים, מושלמת להקלטות לייב, אלבומים רעיוניים, מיקסים של DJ ומוזיקה קלאסית מההתחלה ועד הסוף." icon="volume-up" >}}
+  {{< ls-feature-card title="נגינה ללא הפסקות" subtitle="תיהנה מנגינה חלקה ורציפה ללא הפסקות בין שירים, מושלמת להקלטות לייב, אלבומים רעיוניים, מיקסים של DJ ומוזיקה קלאסית מההתחלה ועד הסוף." icon="volume-up" >}}
 
-  {{< feature-card title="נגינת קרוספייד" subtitle="שמור על זרימת המוזיקה עם קרוספייד, שבו כל שיר חדש מתחיל בעדינות לפני שהנוכחי מסתיים לנגינה חלקה ורציפה ללא הפסקות שקטות." icon="switch-horizontal" >}}
+  {{< ls-feature-card title="נגינת קרוספייד" subtitle="שמור על זרימת המוזיקה עם קרוספייד, שבו כל שיר חדש מתחיל בעדינות לפני שהנוכחי מסתיים לנגינה חלקה ורציפה ללא הפסקות שקטות." icon="switch-horizontal" >}}
 
-  {{< feature-card title="אפקטי אודיו" subtitle="עצב את הצליל שלך עם אפקטי אודיו מובנים. הפעל נרמול עוצמת קול כדי לשמור על כל רצועה באותה עוצמה, והוסף הדהוד, השהיה, עיוות ואודיו מרחבי לפי טעמך." icon="chip" >}}
+  {{< ls-feature-card title="אפקטי אודיו" subtitle="עצב את הצליל שלך עם אפקטי אודיו מובנים. הפעל נרמול עוצמת קול כדי לשמור על כל רצועה באותה עוצמה, והוסף הדהוד, השהיה, עיוות ואודיו מרחבי לפי טעמך." icon="chip" >}}
 
-  {{< feature-card title="ויזואלייזר מוזיקה" subtitle="צפה בוויזואליזציות מונפשות במסך מלא שמגיבות למוזיקה שלך בזמן אמת. בחר מספריית פריסטים גדולה או תן להם להתחלף אוטומטית בזמן ההאזנה." icon="sparkles" >}}
+  {{< ls-feature-card title="ויזואלייזר מוזיקה" subtitle="צפה בוויזואליזציות מונפשות במסך מלא שמגיבות למוזיקה שלך בזמן אמת. בחר מספריית פריסטים גדולה או תן להם להתחלף אוטומטית בזמן ההאזנה." icon="sparkles" >}}
 
-  {{< feature-card title="מילות שירים והערות" subtitle="צפה במילות שירים מתוזמנות ובהערות מוטמעות עבור רצועות האודיו שלך בזמן הנגינה, והוסף את ווידג'ט מילות השירים למסך הבית לגישה מהירה במבט חטוף בכל עת." icon="annotation" >}}
+  {{< ls-feature-card title="מילות שירים והערות" subtitle="צפה במילות שירים מתוזמנות ובהערות מוטמעות עבור רצועות האודיו שלך בזמן הנגינה, והוסף את ווידג'ט מילות השירים למסך הבית לגישה מהירה במבט חטוף בכל עת." icon="annotation" >}}
 
-  {{< feature-card title="AirPlay ו-Chromecast" subtitle="הזרם את המוזיקה שלך באופן אלחוטי ל-Apple TV, לרמקולים חכמים ולמכשירים אחרים עם תמיכה מובנית ב-AirPlay וב-Google Chromecast להאזנה נטולת מאמץ בכל הבית." icon="device-mobile" >}}
+  {{< ls-feature-card title="AirPlay ו-Chromecast" subtitle="הזרם את המוזיקה שלך באופן אלחוטי ל-Apple TV, לרמקולים חכמים ולמכשירים אחרים עם תמיכה מובנית ב-AirPlay וב-Google Chromecast להאזנה נטולת מאמץ בכל הבית." icon="device-mobile" >}}
 
-  {{< feature-card title="Apple CarPlay" subtitle="נהג והאזן בבטחה עם ממשק Apple CarPlay ייעודי שמציב את המוזיקה, הפלייליסטים ובקרות הנגינה שלך ישירות על מסך הדשבורד של הרכב." icon="truck" >}}
+  {{< ls-feature-card title="Apple CarPlay" subtitle="נהג והאזן בבטחה עם ממשק Apple CarPlay ייעודי שמציב את המוזיקה, הפלייליסטים ובקרות הנגינה שלך ישירות על מסך הדשבורד של הרכב." icon="truck" >}}
 
-  {{< feature-card title="ווידג'טים" subtitle="הפעל ווידג'טים אינטראקטיביים במסך הבית לגישה מהירה לתור הנגינה שלך, והמשך בדיוק מהמקום שבו הפסקת מהמיקום השמור האחרון בהקשה אחת." icon="view-grid" >}}
+  {{< ls-feature-card title="ווידג'טים" subtitle="הפעל ווידג'טים אינטראקטיביים במסך הבית לגישה מהירה לתור הנגינה שלך, והמשך בדיוק מהמקום שבו הפסקת מהמיקום השמור האחרון בהקשה אחת." icon="view-grid" >}}
 
-  {{< feature-card title="ספרי שמע" subtitle="הפוך את האפליקציה לנגן ספרי שמע מלא עם סימניות אודיו, בקרת מהירות נגינה ומיקומי מדיה שמורים, וכן קרא את פרטי הטקסט המאוחסנים במטא-דאטה של הקבצים שלך." icon="book-open" >}}
+  {{< ls-feature-card title="ספרי שמע" subtitle="הפוך את האפליקציה לנגן ספרי שמע מלא עם סימניות אודיו, בקרת מהירות נגינה ומיקומי מדיה שמורים, וכן קרא את פרטי הטקסט המאוחסנים במטא-דאטה של הקבצים שלך." icon="book-open" >}}
 
-  {{< feature-card title="סנכרון אוטומטי" subtitle="ספריית המוזיקה שלך מסתנכרנת אוטומטית בין הענן למכשיר שלך, ומקבצת בצורה מסודרת כל שיר לפי אמן, אלבום וז'אנר כך שהאוסף שלך תמיד נשאר מאורגן." icon="refresh" >}}
+  {{< ls-feature-card title="סנכרון אוטומטי" subtitle="ספריית המוזיקה שלך מסתנכרנת אוטומטית בין הענן למכשיר שלך, ומקבצת בצורה מסודרת כל שיר לפי אמן, אלבום וז'אנר כך שהאוסף שלך תמיד נשאר מאורגן." icon="refresh" >}}
 
-  {{< feature-card title="מנהל פלייליסטים" subtitle="צור ונהל פלייליסטים, סדר מחדש שירים והפוך כל פלייליסט לזמין אופליין. מיין את הרצועות שלך לפי שם, גודל, מספר שיר או אלבום כדי לשמור על הכל מסודר." icon="collection" >}}
+  {{< ls-feature-card title="מנהל פלייליסטים" subtitle="צור ונהל פלייליסטים, סדר מחדש שירים והפוך כל פלייליסט לזמין אופליין. מיין את הרצועות שלך לפי שם, גודל, מספר שיר או אלבום כדי לשמור על הכל מסודר." icon="collection" >}}
 
-  {{< feature-card title="עורך תגיות ID3" subtitle="תקן מטא-דאטה פגומה או חסרה עם עורך תגיות ה-ID3 המובנה, ועדכן כותרות, אמנים, אלבומים ועוד כדי שספריית המוזיקה שלך תישאר נקייה ומאורגנת היטב." icon="pencil-alt" >}}
+  {{< ls-feature-card title="עורך תגיות ID3" subtitle="תקן מטא-דאטה פגומה או חסרה עם עורך תגיות ה-ID3 המובנה, ועדכן כותרות, אמנים, אלבומים ועוד כדי שספריית המוזיקה שלך תישאר נקייה ומאורגנת היטב." icon="pencil-alt" >}}
 
-  {{< feature-card title="מנהל קבצים" subtitle="ארגן את המוזיקה שלך עם מנהל הקבצים המשולב, המטפל בפעולות יומיומיות כמו העתקה, העברה, שינוי שם ומחיקה כדי לשמור על כל קבצי האודיו שלך מסודרים היטב." icon="folder" >}}
+  {{< ls-feature-card title="מנהל קבצים" subtitle="ארגן את המוזיקה שלך עם מנהל הקבצים המשולב, המטפל בפעולות יומיומיות כמו העתקה, העברה, שינוי שם ומחיקה כדי לשמור על כל קבצי האודיו שלך מסודרים היטב." icon="folder" >}}
 
-  {{< feature-card title="חיפוש מתקדם" subtitle="מצא כל דבר תוך שניות עם מנוע החיפוש החכם, ואתר במהירות את האלבומים, האמנים והשירים המועדפים עליך בכל מקום ברחבי ספריית המוזיקה שלך." icon="search" >}}
+  {{< ls-feature-card title="חיפוש מתקדם" subtitle="מצא כל דבר תוך שניות עם מנוע החיפוש החכם, ואתר במהירות את האלבומים, האמנים והשירים המועדפים עליך בכל מקום ברחבי ספריית המוזיקה שלך." icon="search" >}}
 
-  {{< feature-card title="כרטיסי USB Flash" subtitle="חבר קוראי כרטיסים חיצוניים כמו SanDisk iXpand והאזן למוזיקה שלך ישירות מכרטיס SD או מכונן USB, ללא צורך בסנכרון או הורדות נוספות." icon="inbox" >}}
+  {{< ls-feature-card title="כרטיסי USB Flash" subtitle="חבר קוראי כרטיסים חיצוניים כמו SanDisk iXpand והאזן למוזיקה שלך ישירות מכרטיס SD או מכונן USB, ללא צורך בסנכרון או הורדות נוספות." icon="inbox" >}}
   
 {{< /cards >}}
 
@@ -254,55 +254,55 @@ Evermusic הוא נגן מוזיקה חינמי במצב לא מקוון ל-iPho
 <div class="hx:mt-6"></div>
 
 <div class="hx:w-full">
-{{< appstore-reviews apps="885367198,1564384601" stars="5,4"  app="Evermusic" >}}
+{{< ls-appstore-reviews apps="885367198,1564384601" stars="5,4"  app="Evermusic" >}}
 </div>
 
 <div class="hx:mt-6"></div>
 
-{{< hextra/section-headline >}}
+{{< ls-section-headline >}}
   תוכניות מחירים
-{{< /hextra/section-headline >}}
+{{< /ls-section-headline >}}
 
 <div class="hx:mt-6"></div>
 
 <div class="hx:w-full">
-{{< pricing-plans >}}
+{{< ls-pricing-plans >}}
 
 </div>
 
 <div class="hx:mt-6"></div>
 
 <div class="hx:w-full hx:mx-auto hx:flex hx:flex-col hx:items-center">
-  {{< hextra/info-paragraph border="true" >}}
+  {{< ls-info-paragraph border="true" >}}
    <strong>שיתוף משפחתי</strong>: כל הרכישות והמנויים תומכים בשיתוף משפחתי, המאפשר לך לשתף גישה Premium עם המשפחה שלך.<br><strong>גישה אוניברסלית</strong>: תוכניות לכל החיים ומנויים משותפים בין מכשירי iOS ו-Mac באמצעות סנכרון iCloud.<br><strong>תמחור</strong>: המחירים מוצגים בדולרים אמריקאיים עבור ארצות הברית. התמחור הסופי עשוי להשתנות בהתאם לאזור שלך.  
-  {{< /hextra/info-paragraph >}}
+  {{< /ls-info-paragraph >}}
 </div>
 
 <div class="hx:mt-6"></div>
 
 <div class="hx:w-full">
-{{< app-details heading="true" >}}
+{{< ls-app-details heading="true" >}}
 </div>
 
 <div class="hx:mt-6"></div>
 
-{{< hextra/section-headline >}}
+{{< ls-section-headline >}}
   שאלות נפוצות
-{{< /hextra/section-headline >}}
+{{< /ls-section-headline >}}
 
 <div class="hx:mt-6"></div>
 
 <div class="hx:w-full">
-{{% details title="מהו Evermusic?" closed="true" %}}
+{{% ls-details title="מהו Evermusic?" closed="true" %}}
 Evermusic היא אפליקציית נגן מוזיקה שעוזרת לך להאזין לשירים המועדפים עליך משירותי אחסון ענן שונים.<br>
 ניתן להוריד מוזיקה בקלות להאזנה אופליין, ליצור ולנהל פלייליסטים ולהשתמש באקולייזר מובנה לשיפור חוויית ההאזנה שלך.<br>
 האפליקציה עובדת עם שירותים כמו Google Drive, Dropbox, OneDrive ועוד, כך שתוכל לשמור את כל המוזיקה שלך במקום אחד ולגשת אליה מכל מכשיר.<br><br>
 האפליקציה גם תומכת בפורמטי אודיו שונים ומאפשרת לך לארגן את ספריית המוזיקה שלך לפי אמן, אלבום, ז'אנר ומלחין.<br>
 ניתן לסנכרן את הספרייה שלך בין אחסון הענן למכשיר שלך, ולהבטיח שהלחנים המועדפים עליך תמיד זמינים.<br>
 בנוסף, עם תכונות כמו נגינה ללא הפסקות, קרוספייד ויכולת הזרמה למכשירי Chromecast ו-AirPlay, Evermusic מציע פתרון מלא לכל צרכי המוזיקה שלך.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="כיצד עובד Evermusic?" closed="true" %}}
+{{% ls-details title="כיצד עובד Evermusic?" closed="true" %}}
 Evermusic עובד על ידי חיבור לשירותי אחסון ענן שונים, כגון Google Drive, Dropbox, OneDrive ואחרים, המאפשרים לך לגשת לספריית המוזיקה שלך מכל מכשיר.<br>
 לאחר החיבור, ניתן לעיין ולהזרים את המוזיקה שלך ישירות מהענן, או להוריד את השירים, האלבומים והפלייליסטים המועדפים עליך להאזנה אופליין.<br>
 האפליקציה תומכת בפורמטי אודיו רבים, מה שמקל על נגינת כל קובץ מוזיקה שיש לך.<br><br>
@@ -322,15 +322,15 @@ Evermusic עובד על ידי חיבור לשירותי אחסון ענן שו�
 - [כיצד להעביר קבצים באופן אלחוטי ממחשב לאייפון באמצעות WiFi-Drive.](/docs/howto/how-to-transfer-files-wirelessly-from-a-computer-to-an-iphone-using-wifi-drive)<br>
 - [כיצד לחבר כרטיס USB לאייפון ולהאזין למוזיקה או לנהל קבצים עליו.](/docs/howto/how-to-connect-a-usb-flashcard-to-the-iphone-and-listen-to-music-or-manage-files-located-on-it)<br>
 - [כיצד לנגן מוזיקה באייפון מ-WD My Cloud Home.](/docs/howto/how-to-play-music-on-iphone-from-wd-my-cloud-home)
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="האם Evermusic חינמי?" closed="true" %}}
+{{% ls-details title="האם Evermusic חינמי?" closed="true" %}}
 Evermusic היא אפליקציה חינמית עם מגבלות מסוימות שניתן להסיר לאחר שדרוג לגרסת Premium. האפליקציה מציעה רכישה חד-פעמית לכל החיים בתוך האפליקציה ושתי אפשרויות מנוי (חודש אחד ושנה אחת) להסרת כל ההגבלות, המאפשרות לך לבחור את המחיר הטוב והאופטימלי ביותר עבורך. המחירים עשויים להשתנות בהתאם למדינה או לאזור שלך. כמו כן, שים לב ששיתוף משפחתי מופעל עבור כל הרכישות והתוכניות, כך שתוכל לשתף את גרסת Premium עם בני משפחתך.<br><br>
 רכישות לכל החיים ומנויים משותפים בין iOS ו-Mac, תוך שימוש ב-iCloud לסנכרון מידע זה. אם יש לך את גרסת Premium במכשיר ה-iOS שלך, ודא שהגרסה העדכנית ביותר מותקנת ו-iCloud מופעל. הפעל את האפליקציה ב-iOS והמתן דקה כדי שמידע הרכישה שלך יועלה ל-iCloud.<br><br>
 [קרא עוד](/docs/faq/evermusic/what-is-the-difference-between-evermusic-and-evermusic-premium/)
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="מה ההבדל בין Evermusic חינמי ל-Evermusic Premium?" closed="true" %}}
+{{% ls-details title="מה ההבדל בין Evermusic חינמי ל-Evermusic Premium?" closed="true" %}}
 **Evermusic חינמי**<br>
 • מכיל פרסומות: הגרסה החינמית מציגה פרסומות ליצירת הכנסות, שעלולות לפעמים להפריע להאזנת המוזיקה שלך.<br>
 • פלייליסטים מוגבלים: ניתן ליצור עד (10) פלייליסטים בגרסה החינמית.<br>
@@ -357,10 +357,10 @@ Evermusic היא אפליקציה חינמית עם מגבלות מסוימות 
 • התאמה אישית מלאה: מספק אפשרויות התאמה אישית מלאות, כולל יכולת שינוי סמל האפליקציה.<br><br>
 
 [קרא עוד](/docs/faq/evermusic/what-is-the-difference-between-evermusic-and-evermusic-premium/)
-{{% /details %}}
+{{% /ls-details %}}
 
 
-{{% details title="האם Evermusic בטוח?" closed="true" %}}
+{{% ls-details title="האם Evermusic בטוח?" closed="true" %}}
 Evermusic משתמש רק ב-SDK רשמי וחיבורים מאובטחים לאינטראקציה עם שירותי הענן המחוברים. שם המשתמש והסיסמה שלך אינם זמינים לאפליקציה. כל הבקשות מהאפליקציה לשירות הענן מוצפנות.<br>
 כאשר אתה מזין שם משתמש וסיסמה, האפליקציה מציגה לך את דף ההרשאה הרשמי שמסופק על ידי ספק שירות הענן וכל תהליך ההרשאה מתבצע מחוץ לאפליקציה. ספק שירות הענן שולח auth-token לאפליקציה לאחר הרשאה מוצלחת ואותו token משמש לביצוע קריאות API.<br><br>
 
@@ -372,24 +372,24 @@ Auth-token הוא מפתח דיגיטלי שמאפשר לאפליקציות צד
 ניתן גם לנתק את חשבונות הענן המחוברים באפליקציה ו-auth-token יוסר גם הוא מהמכשיר שלך. אם תסיר את האפליקציה מהמכשיר שלך, כל הנתונים שהורדו ואסימוני הגישה יוסרו גם כן.<br><br>
 
 [קרא עוד](/docs/guide/evermusic/evermusic-guide-connections/)
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="כיצד ליצור פלייליסט ב-Evermusic?" closed="true" %}}
+{{% ls-details title="כיצד ליצור פלייליסט ב-Evermusic?" closed="true" %}}
 - פתח את קטע הפלייליסטים.<br>
 - הקש על כפתור "+" או כפתור "..." בפינה הימנית העליונה ובחר "פלייליסט חדש".<br>
 - הזן שם לפלייליסט והקש "שמור". תיבת הדו-שיח "הוסף שירים" תופיע.<br>
 - בחר את השירים שברצונך להוסיף לפלייליסט.<br><br>
 
 [קרא עוד](/docs/guide/evermusic/evermusic-guide-playlists/)
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="אילו שירותי ענן תומך Evermusic?" closed="true" %}}
+{{% ls-details title="אילו שירותי ענן תומך Evermusic?" closed="true" %}}
 כרגע, האפליקציה תומכת בשירותי הענן הפופולריים ביותר: iCloud Drive, Google Drive, Dropbox, OneDrive, Box, MEGA, Yandex.Disk, WD MyCloud Home, DLNA, MediaFire, WebDAV, SMB, pCloud, HiDrive, 百度网盘, My Cloud Home, InfiniCLOUD, Cloud Mail.ru, Put.io, MyDrive.<br><br>
 
 [קרא עוד](/docs/guide/evermusic/evermusic-guide-connections/)
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="כיצד להשתמש באקולייזר?" closed="true" %}}
+{{% ls-details title="כיצד להשתמש באקולייזר?" closed="true" %}}
 - פתח את מסך נגן האודיו.<br>
 - הקש על סמל "אקולייזר" בתחתית המסך.<br>
 - הפעל את מתג הבקרה בפינה הימנית העליונה של מסך האקולייזר כדי להפעיל את האקולייזר.<br>
@@ -397,9 +397,9 @@ Auth-token הוא מפתח דיגיטלי שמאפשר לאפליקציות צד
 
 מדריך מלא זמין כאן:<br>
 [כיצד להשתמש באקולייזר האודיו באייפון, אייפד, מק עם Evermusic ו-Flacbox](/docs/howto/how-to-use-the-audio-equalizer-on-your-iphone-ipad-mac-with-evermusic-and-flacbox)
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="כיצד להפעיל מצב אופליין ב-Evermusic?" closed="true" %}}
+{{% ls-details title="כיצד להפעיל מצב אופליין ב-Evermusic?" closed="true" %}}
 - חבר שירות ענן:<br>
  • עבור ללשונית "חיבורים".<br>
  • בחר "חבר אחסון ענן" ופעל לפי ההוראות לחיבור השירות הרצוי.<br><br>
@@ -423,9 +423,9 @@ Auth-token הוא מפתח דיגיטלי שמאפשר לאפליקציות צד
  • הקש "פעולות נוספות" ובחר "התחל סנכרון".<br><br>
 
 [קרא עוד](/docs/howto/play-offline-music-in-evermusic-flacbox-download-sync-from-cloud-to-local-files/)
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="כיצד לנגן מוזיקה שהורדה מקומית באייפון?" closed="true" %}}
+{{% ls-details title="כיצד לנגן מוזיקה שהורדה מקומית באייפון?" closed="true" %}}
 לאחר התקנת האפליקציה, פתח את מסך "קבצים מקומיים" וגלול למטה לקטע "קבצים באייפון זה".<br>
 משם, בחר "פתח קבצים..." אם אתה צריך לבחור כמה קבצי אודיו או "פתח תיקייה..." אם ברצונך לבחור תיקיית מוזיקה.<br>
 האפליקציה תסרוק את תוכן התיקייה וכל קבצי האודיו שנמצאו ייבחרו.<br>
@@ -456,15 +456,15 @@ Auth-token הוא מפתח דיגיטלי שמאפשר לאפליקציות צד
 עם צעדים פשוטים אלה, תוכל לשחרר את הפוטנציאל המלא של האייפון והמק שלך כפלטפורמות האולטימטיביות ליהנות מאוסף המוזיקה המקומי האהוב עליך.<br><br>
 
 [קרא עוד](/docs/howto/how-to-play-local-music-stored-on-your-iphone-or-mac)
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="כיצד אוכל לחזור לפלייליסט מהמקום שבו הפסקתי?" closed="true" %}}
+{{% ls-details title="כיצד אוכל לחזור לפלייליסט מהמקום שבו הפסקתי?" closed="true" %}}
 תחילה, ודא ש"שמור מצב נגן אודיו" מופעל בהגדרות > נגן אודיו > כללי.<br>
 כאשר תעבור לפלייליסט אחר ותחזור, תראה ארבע פעולות בסרגל הכלים העליון מתחת לעטיפת האלבום: "חיפוש", "המשך נגינה", "נגן הכל" ו"ערבב הכל".<br>
 הקש "המשך נגינה" כדי לחזור לפלייליסט מהמצב האחרון שנשמר ומיקום המדיה.<br>
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="כיצד לצפות במילות שירים ב-Evermusic?" closed="true" %}}
+{{% ls-details title="כיצד לצפות במילות שירים ב-Evermusic?" closed="true" %}}
 ניתן לצפות במילות שירים מוטמעות באפליקציית Evermusic על ידי ביצוע השלבים הבאים:<br>
 1. התחל לנגן קובץ אודיו על ידי הקשה עליו.<br>
 2. פתח את נגן האודיו במסך מלא.<br>
@@ -478,9 +478,9 @@ Auth-token הוא מפתח דיגיטלי שמאפשר לאפליקציות צד
 3. "מצב קובץ LRC": במקום לערוך קבצי אודיו, ניתן למקם קובץ LRC באותה תיקייה כמו קובץ האודיו המקורי. שני הקבצים צריכים להיות בעלי אותו שם אך סיומות שונות. כאשר תגלול לעמוד השלישי במסך ההערות, האפליקציה תחפש את קובץ ה-LRC באותה תיקייה ותציג את תוכנו.<br><br>
 
 [קרא עוד](/docs/howto/how-to-add-and-view-comments-to-your-audio-tracks-on-iphone-ipad-and-mac-with-evermusic-and-flacbox)
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="כיצד להעביר מוזיקה ל-Evermusic מהמחשב שלי?" closed="true" %}}
+{{% ls-details title="כיצד להעביר מוזיקה ל-Evermusic מהמחשב שלי?" closed="true" %}}
 ניתן לחבר את המחשב או ה-NAS האישי שלך באמצעות פרוטוקולי SMB, WebDAV או DLNA. לחלופין, השתמש ב-iTunes File Sharing להעברת מוזיקה.<br><br>
 
 לחיבור מחשב באמצעות פרוטוקול **SMB** הקש "חבר שירות ענן" → SMB.<br>
@@ -517,9 +517,9 @@ Auth-token הוא מפתח דיגיטלי שמאפשר לאפליקציות צד
 
 עם **DLNA** ניתן גם להגדיר שרת מדיה DLNA ולהזרים את המוזיקה שלך מ-Windows PC כמתואר כאן:<br>
 [כיצד להפעיל שרת DLNA Media ב-Windows 10 ולנגן את המוזיקה שלך באייפון](/docs/howto/how-to-enable-dlna-media-server-on-windows-10-and-play-your-music-on-iphone)
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="כיצד להוריד מוזיקה?" closed="true" %}}
+{{% ls-details title="כיצד להוריד מוזיקה?" closed="true" %}}
 לפני שתוכל להוריד מוזיקה ולהאזין למוזיקה אופליין, עליך לחבר חשבון רשת.<br>
 פשוט פתח את מסך "חיבורים" והוסף את חשבונך.<br>
 לאחר שהוספת חשבון רשת, תוכל להוריד את המוזיקה שלך מהענן.<br><br>
@@ -540,9 +540,9 @@ Auth-token הוא מפתח דיגיטלי שמאפשר לאפליקציות צד
 
 אפשרות נוספת זמינה היא הורדת מוזיקה מ-Youtube וייבוא שלה ל-Evermusic כמתואר כאן:<br>
 [כיצד להוריד מוזיקה מ-YouTube ולהאזין למוזיקה אופליין באייפון](/docs/howto/how-to-download-music-from-youtube-and-listen-to-offline-music-on-iphone)
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="האם Evermusic תומך ב-Apple CarPlay?" closed="true" %}}
+{{% ls-details title="האם Evermusic תומך ב-Apple CarPlay?" closed="true" %}}
 כן, **Evermusic תומך באופן מלא ב-Apple CarPlay**. ניתן לעיין בספריית המוזיקה שלך, לנגן קבצים מקומיים או אופליין, להתחבר לאחסון ענן ולשלוט בנגינה ישירות ממסך המערכת של הרכב שלך.
 
 ממשק CarPlay כולל לשוניות ייעודיות עבור **ספרייה**, **חיבורים**, **קבצים מקומיים** ו**הגדרות**, המעניקות לך שליטה מלאה על המוזיקה שלך בדרכים. בקרות נגינה, ערבוב, חזרה וניהול תור זמינים גם כן.
@@ -550,9 +550,9 @@ Auth-token הוא מפתח דיגיטלי שמאפשר לאפליקציות צד
 לשימוש ב-CarPlay, ודא ש-Siri מופעל והאייפון שלך מחובר דרך USB או אלחוטית.
 
 [קרא את המדריך המלא](/docs/howto/how-to-play-your-own-music-on-iphone-using-carplay/)
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="אילו פורמטי אודיו תומך Evermusic?" closed="true" %}}
+{{% ls-details title="אילו פורמטי אודיו תומך Evermusic?" closed="true" %}}
 הנה הרשימה המלאה של פורמטי האודיו הנתמכים וסיומות הקבצים המתאימות שלהם:<br><br>
 
 **פורמטי אודיו נתמכים:**<br>
@@ -570,40 +570,40 @@ Auth-token הוא מפתח דיגיטלי שמאפשר לאפליקציות צד
 mpeg, aifc, 3gp, avi, aif, latm, 3gpp, m4a, loas, cdda, aac, m4p, m4b, ac3, pls, mp4v, m3u, m4r, aiff, xhe, mp1, snd, mp2, wav, qt, wave, m3u8, m4v, mp3, 3g2, caf, mp4, flac, au, w64, ec3, adts, amr, vtt, mpa, aa<br><br>
 
 עם מגוון רחב זה של פורמטים וסיומות קבצים נתמכים, תוכל ליהנות מהמוזיקה שלך בפורמט שתבחר.
-{{% /details %}}
+{{% /ls-details %}}
 
 </div>
 
 <div class="hx:mt-6"></div>
 
-{{< hextra/section-headline >}}
+{{< ls-section-headline >}}
   מדריך למשתמש
-{{< /hextra/section-headline >}}
+{{< /ls-section-headline >}}
 
 <div class="hx:mt-6"></div>
 
 <div class="hx:w-full">
 
 <div class="hx:w-full hx:mx-auto hx:flex hx:flex-col hx:items-center hx:text-center">
-  {{< hextra/info-paragraph border="false" >}}
+  {{< ls-info-paragraph border="false" >}}
   מדריך זה יעזור לך להפיק את המרב מ-Evermusic באייפון, באייפד או במק שלך. למד כיצד להזרים מוזיקה מהענן, לנהל את ספרי השמע שלך ולהעביר מוזיקה בין מכשירים. Evermusic נותן לך שליטה מלאה על אוסף המוזיקה שלך באפליקציה קלה אחת.
-  {{< /hextra/info-paragraph >}}
+  {{< /ls-info-paragraph >}}
 </div>
 
 {{< cards >}}
-  {{< feature-card icon="location-marker" title="ניווט" subtitle="למד כיצד לנווט ב-Evermusic באמצעות סרגל הלשוניות באייפון או התפריט השמאלי באייפד ובמק." link="/docs/guide/evermusic/evermusic-guide-navigation" >}}
+  {{< ls-feature-card icon="location-marker" title="ניווט" subtitle="למד כיצד לנווט ב-Evermusic באמצעות סרגל הלשוניות באייפון או התפריט השמאלי באייפד ובמק." link="/docs/guide/evermusic/evermusic-guide-navigation" >}}
 
-  {{< feature-card icon="cloud" title="חיבורים" subtitle="חבר את חשבונות הענן שלך ונהל קבצים מקוונים באמצעות מנהל הקבצים המובנה." link="/docs/guide/evermusic/evermusic-guide-connections" >}}
+  {{< ls-feature-card icon="cloud" title="חיבורים" subtitle="חבר את חשבונות הענן שלך ונהל קבצים מקוונים באמצעות מנהל הקבצים המובנה." link="/docs/guide/evermusic/evermusic-guide-connections" >}}
 
-  {{< feature-card icon="library" title="ספריית מוזיקה" subtitle="ארגן וחקור את השירים, האלבומים והאמנים שלך בספריית המוזיקה." link="/docs/guide/evermusic/evermusic-guide-music-library" >}}
+  {{< ls-feature-card icon="library" title="ספריית מוזיקה" subtitle="ארגן וחקור את השירים, האלבומים והאמנים שלך בספריית המוזיקה." link="/docs/guide/evermusic/evermusic-guide-music-library" >}}
 
-  {{< feature-card icon="collection" title="פלייליסטים" subtitle="צור וארגן פלייליסטים שיתאימו למצב הרוח או לאירוע שלך." link="/docs/guide/evermusic/evermusic-guide-playlists" >}}
+  {{< ls-feature-card icon="collection" title="פלייליסטים" subtitle="צור וארגן פלייליסטים שיתאימו למצב הרוח או לאירוע שלך." link="/docs/guide/evermusic/evermusic-guide-playlists" >}}
 
-  {{< feature-card icon="folder" title="קבצים מקומיים" subtitle="גש ונהל מוזיקה אופליין דרך קטע הקבצים המקומיים." link="/docs/guide/evermusic/evermusic-guide-local-files" >}}
+  {{< ls-feature-card icon="folder" title="קבצים מקומיים" subtitle="גש ונהל מוזיקה אופליין דרך קטע הקבצים המקומיים." link="/docs/guide/evermusic/evermusic-guide-local-files" >}}
 
-  {{< feature-card icon="play" title="נגן אודיו" subtitle="שלוט בנגינה, בתור ובהגדרות האודיו כמו אקולייזר וטיימר שינה." link="/docs/guide/evermusic/evermusic-guide-player" >}}
+  {{< ls-feature-card icon="play" title="נגן אודיו" subtitle="שלוט בנגינה, בתור ובהגדרות האודיו כמו אקולייזר וטיימר שינה." link="/docs/guide/evermusic/evermusic-guide-player" >}}
 
-  {{< feature-card icon="adjustments" title="הגדרות" subtitle="התאם אישית את המראה, התכונות והגדרות הביצועים של Evermusic." link="/docs/guide/evermusic/evermusic-guide-settings" >}}
+  {{< ls-feature-card icon="adjustments" title="הגדרות" subtitle="התאם אישית את המראה, התכונות והגדרות הביצועים של Evermusic." link="/docs/guide/evermusic/evermusic-guide-settings" >}}
 
 {{< /cards >}}
 

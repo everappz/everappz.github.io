@@ -12,7 +12,7 @@ authors:
     image: "/images/about/artem-meleshko-founder-everappz.webp"
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 ![](/blog/setapp-mobile-and-evermusic-pro/21260c_766c4fbc81e6433cb8fc21b9c2862ce0~mv2.png)
 
@@ -55,27 +55,27 @@ Připojte se k **NAS, SMB sdílením** a **WebDAV serverům**.
 - **Profesionální audio funkce**
 
 {{< cards cols="1" >}}
-  {{< card link="https://go.setapp.com/stp435?_target=https://www.setapp.com/setapp-mobile&stc=mobile" title="Stáhněte Evermusic Pro se Setapp Mobile" icon="download" >}}
+  {{< ls-card link="https://go.setapp.com/stp435?_target=https://www.setapp.com/setapp-mobile&stc=mobile" title="Stáhněte Evermusic Pro se Setapp Mobile" icon="download" >}}
 {{< /cards >}}
 
 ## Často kladené otázky
 
-{{% details title="Je Evermusic Pro zdarma se Setapp Mobile?" closed="true" %}}
+{{% ls-details title="Je Evermusic Pro zdarma se Setapp Mobile?" closed="true" %}}
 Ano. Evermusic Pro je zahrnut v předplatném Setapp Mobile bez dalších nákladů.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Jaké cloudové služby Evermusic Pro podporuje?" closed="true" %}}
+{{% ls-details title="Jaké cloudové služby Evermusic Pro podporuje?" closed="true" %}}
 Google Drive, Dropbox, OneDrive, iCloud, Box, MEGA, Yandex.Disk, pCloud, HiDrive a WebDAV servery. Také SMB a NAS.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Mohu poslouchat offline s Evermusic Pro?" closed="true" %}}
+{{% ls-details title="Mohu poslouchat offline s Evermusic Pro?" closed="true" %}}
 Ano. Můžete stahovat skladby, alba, umělce nebo celé playlisty pro offline přehrávání.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Jaké audio formáty Evermusic Pro přehrává?" closed="true" %}}
+{{% ls-details title="Jaké audio formáty Evermusic Pro přehrává?" closed="true" %}}
 FLAC, MP3, AAC, WAV, ALAC, AIFF, OPUS, OGG a mnoho dalších formátů.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Potřebuji samostatné předplatné Setapp pro iPhone?" closed="true" %}}
+{{% ls-details title="Potřebuji samostatné předplatné Setapp pro iPhone?" closed="true" %}}
 Setapp Mobile je dostupný jako součást plánu předplatného Setapp zahrnujícího iOS aplikace. Zkontrolujte web Setapp pro aktuální ceny.
-{{% /details %}}
+{{% /ls-details %}}

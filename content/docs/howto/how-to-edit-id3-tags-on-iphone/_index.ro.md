@@ -7,7 +7,7 @@ tags: ["mp3", "editor", "iPhone", "etichete", "metadate", "id3"]
 readingTime: 2
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **Rezumat:** Folosește editorul de etichete integrat în Evermusic sau Flacbox pentru a edita etichetele ID3 pe iPhone sau Mac -- atât pentru fișiere din cloud, cât și locale. Ai nevoie de editare în lot sau peste 120 de câmpuri de etichete? Folosește [Evertag](https://apps.apple.com/app/apple-store/id1450763230?pt=95781850&ct=everappzcom&mt=8) în schimb.
@@ -21,8 +21,8 @@ Când importi melodii în biblioteca ta muzicală, acestea sunt grupate intelige
 În timp ce multe aplicații desktop oferă editarea metadatelor, Evermusic și Flacbox duc simplitatea la nivelul următor prin includerea unui editor de etichete ID3. Acum, poți folosi o singură aplicație pentru a construi biblioteca muzicală, a te bucura de piese și a corecta etichetele audio.
 
 {{< cards cols="2">}}
-{{< card link="https://apps.apple.com/app/apple-store/id885367198?pt=95781850&ct=everappzcom&mt=8" title="Descarcă Evermusic" icon="download" tag="Free" >}}
-{{< card link="https://apps.apple.com/app/apple-store/id1097564256?pt=95781850&ct=everappzcom&mt=8" title="Descarcă Flacbox" icon="download" tag="Free" >}}
+{{< ls-card link="https://apps.apple.com/app/apple-store/id885367198?pt=95781850&ct=everappzcom&mt=8" title="Descarcă Evermusic" icon="download" tag="Free" >}}
+{{< ls-card link="https://apps.apple.com/app/apple-store/id1097564256?pt=95781850&ct=everappzcom&mt=8" title="Descarcă Flacbox" icon="download" tag="Free" >}}
 {{< /cards >}}
 
 ## Editor profesional
@@ -30,7 +30,7 @@ Când importi melodii în biblioteca ta muzicală, acestea sunt grupate intelige
 Dar înainte de a începe, verifică aplicația **Evertag** — suportă **peste 120 de etichete audio**, **peste 30 de formate audio** și oferă **editare în lot** puternică. Dacă cauți un instrument complet de gestionare a etichetelor, Evertag este alegerea potrivită. Totuși, dacă ai nevoie doar de un **editor simplu de etichete**, continuă cu acest ghid.
 
 {{< cards >}}
-{{< card link="https://apps.apple.com/app/apple-store/id1450763230?pt=95781850&ct=everappzcom&mt=8" title="Descarcă Evertag" icon="download" tag="Free" >}}
+{{< ls-card link="https://apps.apple.com/app/apple-store/id1450763230?pt=95781850&ct=everappzcom&mt=8" title="Descarcă Evertag" icon="download" tag="Free" >}}
 {{< /cards >}}
 
 
@@ -38,21 +38,21 @@ Dar înainte de a începe, verifică aplicația **Evertag** — suportă **peste
 Leagă contul tău cloud preferat în aplicație.
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Conectare server cloud" image="/docs/howto/how-to-edit-id3-tags-on-iphone/connect_cloud_server.webp" >}}
+{{< ls-card title="" subtitle="Conectare server cloud" image="/docs/howto/how-to-edit-id3-tags-on-iphone/connect_cloud_server.webp" >}}
 {{< /cards >}}
 
 ## Navighează la fișierele tale audio  
 Deschide folderul care conține fișierele tale audio în contul cloud conectat.
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Foldere cloud" image="/docs/howto/how-to-edit-id3-tags-on-iphone/cloud_server_folders.webp" >}}
+{{< ls-card title="" subtitle="Foldere cloud" image="/docs/howto/how-to-edit-id3-tags-on-iphone/cloud_server_folders.webp" >}}
 {{< /cards >}}
 
 ## Accesează opțiunile fișierului  
 Apasă butonul „Mai multe" ('...') lângă fișierul pe care vrei să-l editezi.
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Mai multe acțiuni" image="/docs/howto/how-to-edit-id3-tags-on-iphone/cloud_server_audio_more_actions.webp" >}}
+{{< ls-card title="" subtitle="Mai multe acțiuni" image="/docs/howto/how-to-edit-id3-tags-on-iphone/cloud_server_audio_more_actions.webp" >}}
 {{< /cards >}}
 
 ## Alege „Editează etichetele audio"  
@@ -70,7 +70,7 @@ Pe ecranul „Editor de etichete", modifică câmpurile de metadate precum Titlu
 După ce ai terminat editarea, apasă butonul „Salvează" pentru a salva modificările.
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Editor de etichete" image="/docs/howto/how-to-edit-id3-tags-on-iphone/tags_editor.webp" >}}
+{{< ls-card title="" subtitle="Editor de etichete" image="/docs/howto/how-to-edit-id3-tags-on-iphone/tags_editor.webp" >}}
 {{< /cards >}}
 
 ## Completare automată inteligentă  
@@ -88,7 +88,7 @@ Poți edita etichetele audio pentru fișierele stocate **direct pe dispozitivul 
 - **Mergi la secțiunea „Fișiere locale"**, apoi derulează în jos până la **„Fișiere pe acest dispozitiv."**
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Fișiere pe acest dispozitiv" image="/docs/howto/how-to-edit-id3-tags-on-iphone/local_files.webp" >}}
+{{< ls-card title="" subtitle="Fișiere pe acest dispozitiv" image="/docs/howto/how-to-edit-id3-tags-on-iphone/local_files.webp" >}}
 {{< /cards >}}
 
 - Apasă **„Conectează un folder"**.
@@ -96,25 +96,25 @@ Poți edita etichetele audio pentru fișierele stocate **direct pe dispozitivul 
 - În selectorul de foldere, alege directorul la care vrei acces și apasă **„Deschide"** pentru confirmare.
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Conectează folder extern" image="/docs/howto/how-to-edit-id3-tags-on-iphone/connect_external_folder.webp" >}}
+{{< ls-card title="" subtitle="Conectează folder extern" image="/docs/howto/how-to-edit-id3-tags-on-iphone/connect_external_folder.webp" >}}
 {{< /cards >}}
 
 - După adăugarea folderului, apasă pe el pentru a vedea fișierele din interior.
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Conținutul folderului extern" image="/docs/howto/how-to-edit-id3-tags-on-iphone/connected_external_folder.webp" >}}
+{{< ls-card title="" subtitle="Conținutul folderului extern" image="/docs/howto/how-to-edit-id3-tags-on-iphone/connected_external_folder.webp" >}}
 {{< /cards >}}
 
 - La fel ca la fișierele din cloud, apasă butonul **„Mai multe acțiuni"** lângă un fișier audio și selectează **„Editează etichetele audio".**
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Mai multe acțiuni - Fișier local" image="/docs/howto/how-to-edit-id3-tags-on-iphone/more_actions_local_file.webp" >}}
+{{< ls-card title="" subtitle="Mai multe acțiuni - Fișier local" image="/docs/howto/how-to-edit-id3-tags-on-iphone/more_actions_local_file.webp" >}}
 {{< /cards >}}
 
 - Editorul de etichete se va deschide. Fă modificările și apasă **„Salvează"**. Atât! Editările tale sunt aplicate direct pe fișier — nu trebuie să copiezi sau să muți nimic.
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Editor de etichete - Fișier local" image="/docs/howto/how-to-edit-id3-tags-on-iphone/tag_editor_local_file.webp" >}}
+{{< ls-card title="" subtitle="Editor de etichete - Fișier local" image="/docs/howto/how-to-edit-id3-tags-on-iphone/tag_editor_local_file.webp" >}}
 {{< /cards >}}
 
 ## Editează coperta albumului
@@ -126,7 +126,7 @@ Pentru a schimba coperta unui album:
 3. Selectează o imagine pentru a o aplica ca și copertă.
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Selectează imaginea" image="/docs/howto/how-to-edit-id3-tags-on-iphone/tags_editor_choose_image.webp" >}}
+{{< ls-card title="" subtitle="Selectează imaginea" image="/docs/howto/how-to-edit-id3-tags-on-iphone/tags_editor_choose_image.webp" >}}
 {{< /cards >}}
 
 ## Mai multe acțiuni în editorul de etichete
@@ -134,7 +134,7 @@ Pentru a schimba coperta unui album:
 Opțiuni suplimentare de editare sunt disponibile prin bara de instrumente de sub vizualizarea ilustrațiilor.
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Meniu mai multe acțiuni" image="/docs/howto/how-to-edit-id3-tags-on-iphone/tags_edito_more_actions.webp" >}}
+{{< ls-card title="" subtitle="Meniu mai multe acțiuni" image="/docs/howto/how-to-edit-id3-tags-on-iphone/tags_edito_more_actions.webp" >}}
 {{< /cards >}}
 
 ### Căutare automată etichete audio
@@ -195,22 +195,22 @@ Simplifică gestionarea bibliotecii muzicale și editarea etichetelor cu Evermus
 
 ## Întrebări frecvente
 
-{{% details title="Ce formate audio pot edita?" closed="true" %}}
+{{% ls-details title="Ce formate audio pot edita?" closed="true" %}}
 Evermusic și Flacbox suportă editarea etichetelor pentru MP3, FLAC, AAC, OGG și alte formate audio comune. Evertag suportă peste 30 de formate inclusiv WAV, AIFF, WMA și APE.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Pot edita etichetele fișierelor stocate în servicii cloud?" closed="true" %}}
+{{% ls-details title="Pot edita etichetele fișierelor stocate în servicii cloud?" closed="true" %}}
 Da. Conectează contul tău Dropbox, Google Drive, OneDrive sau alt cont cloud. Aplicația descarcă fișierul, îți permite să editezi etichetele și încarcă automat fișierul modificat înapoi în cloud.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Care este diferența între Evermusic/Flacbox și Evertag?" closed="true" %}}
+{{% ls-details title="Care este diferența între Evermusic/Flacbox și Evertag?" closed="true" %}}
 Evermusic și Flacbox sunt playere muzicale cu un editor de etichete de bază integrat. Evertag este un editor de etichete dedicat care suportă peste 120 de etichete audio, editare în lot și peste 30 de formate -- ideal pentru gestionarea bibliotecilor mari.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Funcția de căutare automată necesită conexiune la internet?" closed="true" %}}
+{{% ls-details title="Funcția de căutare automată necesită conexiune la internet?" closed="true" %}}
 Da. Funcția de căutare automată a etichetelor audio interoghează baza de date online MusicBrainz pentru a găsi și completa metadatele. Este necesară o conexiune activă la internet pentru această funcție.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Editarea etichetelor va schimba calitatea audio?" closed="true" %}}
+{{% ls-details title="Editarea etichetelor va schimba calitatea audio?" closed="true" %}}
 Nu. Editarea etichetelor modifică doar metadatele încorporate în fișier. Datele audio în sine rămân neatinse -- nu are loc nicio recodificare.
-{{% /details %}}
+{{% /ls-details %}}

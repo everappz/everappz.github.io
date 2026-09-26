@@ -17,7 +17,7 @@ readingTime: 6
 Bagian Daftar Putar menyediakan alat untuk mengorganisir trek Anda ke dalam daftar. Ini mencakup tampilan konten yang menampilkan semua daftar putar yang telah Anda buat, tombol "..." di bilah navigasi yang menawarkan berbagai tindakan terkait daftar putar, dan toolbar navigasi dengan tombol "Cari", "Putar semua", dan "Acak semua". Selain itu, setiap daftar putar memiliki tombol "..." di dekat judul daftar putar, yang menawarkan berbagai tindakan khusus untuk daftar putar tersebut.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Layar Daftar Putar Evermusic" image="/docs/guide/evermusic/evermusic-guide-playlists/img/playlists-main.webp" >}}
+  {{< ls-card title="" subtitle="Layar Daftar Putar Evermusic" image="/docs/guide/evermusic/evermusic-guide-playlists/img/playlists-main.webp" >}}
 {{< /cards >}}
 
 ## Membuat Daftar Putar
@@ -25,7 +25,7 @@ Bagian Daftar Putar menyediakan alat untuk mengorganisir trek Anda ke dalam daft
 Untuk membuat daftar putar baru, ketuk tombol "+" atau tombol "..." di sudut kanan atas bilah navigasi, pilih "Daftar putar baru" dan berikan nama pada daftar putar Anda. Setelah memberi nama, ketuk "Simpan".
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Buat Daftar Putar Baru" image="/docs/guide/evermusic/evermusic-guide-playlists/img/playlists-add-new.webp" >}}
+  {{< ls-card title="" subtitle="Buat Daftar Putar Baru" image="/docs/guide/evermusic/evermusic-guide-playlists/img/playlists-add-new.webp" >}}
 {{< /cards >}}
 
 Ini memunculkan dialog "Tambahkan lagu", di mana Anda dapat memilih trek mana yang akan ditambahkan ke daftar putar baru. Trek dikategorikan berdasarkan jenis sumber, dan Anda memiliki beberapa opsi:
@@ -42,7 +42,7 @@ Secara default, Anda hanya dapat menambahkan trek ke daftar putar satu kali. Unt
 Di Evermusic, kami telah menambahkan fungsionalitas impor file M3U, sehingga Anda tidak perlu membuat daftar putar secara manual.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Impor Daftar Putar dari Sumber File" image="/docs/guide/evermusic/evermusic-guide-playlists/img/playlists-import-from-files.webp" >}}
+  {{< ls-card title="" subtitle="Impor Daftar Putar dari Sumber File" image="/docs/guide/evermusic/evermusic-guide-playlists/img/playlists-import-from-files.webp" >}}
 {{< /cards >}}
 
 Pertama, buka bagian 'Daftar Putar'. Kemudian, ketuk tombol 'Lebih' di sudut kanan atas. Dari menu yang muncul, pilih opsi 'Impor Daftar Putar'.
@@ -62,7 +62,7 @@ Aplikasi akan mengurai file daftar putar, membuat daftar trek, dan mencari file 
 Saat Anda membuka daftar putar, "Layar detail daftar putar" muncul. Di layar ini, Anda akan menemukan tombol "..." di sudut kanan atas dengan opsi daftar putar dan tiga tombol di bawah gambar sampul: "Cari", "Lanjutkan pemutaran", "Putar semua", dan "Acak semua". Selain itu, ada kotak centang "Mode offline".
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Layar Detail Daftar Putar" image="/docs/guide/evermusic/evermusic-guide-playlists/img/playlists-detail-screen.webp" >}}
+  {{< ls-card title="" subtitle="Layar Detail Daftar Putar" image="/docs/guide/evermusic/evermusic-guide-playlists/img/playlists-detail-screen.webp" >}}
 {{< /cards >}}
 
 - **Lanjutkan pemutaran**: Pulihkan posisi pemutaran untuk daftar putar ini.
@@ -87,7 +87,7 @@ Anda dapat mengakses tindakan untuk daftar putar dengan mengetuk tombol "..." di
 - **Hapus daftar putar:** Hapus daftar putar dari Perpustakaan musik. Harap diperhatikan bahwa tindakan ini tidak dapat dibatalkan.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Menu Lebih Banyak Tindakan untuk Daftar Putar" image="/docs/guide/evermusic/evermusic-guide-playlists/img/playlists-more-actions-for-separate-playlist.webp" >}}
+  {{< ls-card title="" subtitle="Menu Lebih Banyak Tindakan untuk Daftar Putar" image="/docs/guide/evermusic/evermusic-guide-playlists/img/playlists-more-actions-for-separate-playlist.webp" >}}
 {{< /cards >}}
 
 ## Lebih Banyak Tindakan untuk Daftar Putar di Layar Detail Daftar Putar
@@ -113,7 +113,7 @@ Anda dapat mengakses tindakan untuk daftar putar dengan mengetuk tombol "..." di
 Untuk mengubah urutan lagu dalam daftar putar, ketuk tombol "..." di sudut kanan atas dan pilih "Pilih" untuk masuk ke mode pemilihan. Gunakan kontrol pengurutan ulang dan gerakan seret-dan-lepas di dekat setiap trek untuk memindahkannya ke atas atau ke bawah. Mengetuk kontrol pengurutan ulang akan memindahkan trek ke bagian atas daftar. Untuk keluar dari mode pemilihan dan menerapkan perubahan, ketuk "Selesai".
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Ubah Urutan Lagu dalam Daftar Putar" image="/docs/guide/evermusic/evermusic-guide-playlists/img/playlists-change-songs-order.webp" >}}
+  {{< ls-card title="" subtitle="Ubah Urutan Lagu dalam Daftar Putar" image="/docs/guide/evermusic/evermusic-guide-playlists/img/playlists-change-songs-order.webp" >}}
 {{< /cards >}}
 
 ## Mengubah Gambar Sampul Daftar Putar
@@ -129,7 +129,7 @@ Buka daftar putar dan ketuk tombol "..." di sudut kanan atas, kemudian pilih "Ta
 Buka daftar putar, ketuk tombol "..." di sudut kanan atas, dan pilih "Pilih" untuk masuk ke mode pemilihan. Pilih trek yang ingin Anda hapus dan ketuk tombol "Hapus dari daftar putar" di bagian bawah layar. Konfirmasikan perubahan dengan mengetuk "Selesai".
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Mode Pemilihan di Dalam Daftar Putar" image="/docs/guide/evermusic/evermusic-guide-playlists/img/playlists-selection-mode-in-playlist-details-screen.webp" >}}
+  {{< ls-card title="" subtitle="Mode Pemilihan di Dalam Daftar Putar" image="/docs/guide/evermusic/evermusic-guide-playlists/img/playlists-selection-mode-in-playlist-details-screen.webp" >}}
 {{< /cards >}}
 
 ## Opsi Trek
@@ -137,7 +137,7 @@ Buka daftar putar, ketuk tombol "..." di sudut kanan atas, dan pilih "Pilih" unt
 Setiap trek dalam daftar putar memiliki daftar tindakan, dapat diakses dengan mengetuk tombol "...". Jika Anda tidak dapat melihat semua tindakan, gulir ke bawah untuk melihatnya. Anda dapat menghapus trek dari daftar putar, mengunduhnya, mengedit tag audio, dan lainnya.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Menu Opsi Trek dalam Daftar Putar" image="/docs/guide/evermusic/evermusic-guide-playlists/img/playlists-track-options.webp" >}}
+  {{< ls-card title="" subtitle="Menu Opsi Trek dalam Daftar Putar" image="/docs/guide/evermusic/evermusic-guide-playlists/img/playlists-track-options.webp" >}}
 {{< /cards >}}
 
 - **Putar berikutnya:** Menambahkan trek ke bagian atas antrean pemutar.

@@ -17,7 +17,7 @@ keywords: [
 readingTime: 3
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **Összefoglalás:** Csatlakoztassa iPhone-ját vagy iPadjét a Mac-éhez (vagy PC-jéhez) USB-kábellel. macOS Catalina és újabb verziók esetén használja a Findert. Régebbi macOS vagy Windows esetén használja az iTunes-t. Húzza a fájlokat egy alkalmazásba, például Evermusic, Flacbox vagy Evertag, hogy azonnal átvigye őket.
@@ -117,26 +117,26 @@ Az iTunes fájlmegosztás segítségével könnyedén kezelheti a fájlokat a sz
 
 ## Gyakran ismételt kérdések
 
-{{% details title="Szükségem van internetkapcsolatra a fájlok USB-n keresztüli átviteléhez?" closed="true" %}}
+{{% ls-details title="Szükségem van internetkapcsolatra a fájlok USB-n keresztüli átviteléhez?" closed="true" %}}
 Nem. A fájlmegosztás teljes egészében az USB-kábeles kapcsolaton keresztül működik a számítógép és az iOS-eszköz között. Nincs szükség internetre.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Milyen fájlformátumokat vihetek át az Evermusicba vagy a Flacboxba?" closed="true" %}}
+{{% ls-details title="Milyen fájlformátumokat vihetek át az Evermusicba vagy a Flacboxba?" closed="true" %}}
 Mindkét alkalmazás széles körű hangformátumokat támogat, beleértve az MP3, FLAC, AAC, WAV, AIFF, OGG, WMA és egyéb formátumokat. A támogatott formátumok teljes listáját az alkalmazás dokumentációjában találja.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Miért nem látom a Fájlok fület a Finderben?" closed="true" %}}
+{{% ls-details title="Miért nem látom a Fájlok fület a Finderben?" closed="true" %}}
 A Fájlok fül csak akkor jelenik meg, ha az eszközén legalább egy fájlmegosztást támogató alkalmazás van telepítve. Telepítse az Evermusicot, Flacboxot vagy Evertagot, majd csatlakoztassa újra az eszközét.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Átvihetek fájlokat vezeték nélkül USB-kábel helyett?" closed="true" %}}
+{{% ls-details title="Átvihetek fájlokat vezeték nélkül USB-kábel helyett?" closed="true" %}}
 Igen. Az Evermusic és a Flacbox felhőalapú tárolási szolgáltatásokat és Wi-Fi átvitelt is támogat. Az USB fájlmegosztás a Finderen vagy az iTunes-on keresztül azonban jellemzően gyorsabb nagy zenei könyvtárak esetén.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="A Finderen keresztüli fájlátvitel felülírja a meglévő fájlokat az eszközömön?" closed="true" %}}
+{{% ls-details title="A Finderen keresztüli fájlátvitel felülírja a meglévő fájlokat az eszközömön?" closed="true" %}}
 Nem. Az új fájlok a meglévők mellé kerülnek. Ha már létezik azonos nevű fájl, a macOS automatikusan átnevezheti az új fájlt.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Működik ez a módszer Windows PC-kkel?" closed="true" %}}
+{{% ls-details title="Működik ez a módszer Windows PC-kkel?" closed="true" %}}
 Igen. Windowson használja az iTunes-t a fájlok átviteléhez. A folyamat ugyanaz, mint a fenti iTunes részben leírtak. Telepítse az iTunes-t a Microsoft Store-ból vagy az Apple weboldaláról.
-{{% /details %}}
+{{% /ls-details %}}

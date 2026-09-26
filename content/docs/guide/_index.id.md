@@ -7,7 +7,7 @@ tags: ["panduan pengguna", "tutorial aplikasi", "evermusic", "flacbox", "evervid
 ---
 
 
-{{< lottie src="/images/juicy-json/juicy-woman-with-graph-chart.json" width="75%" >}}
+{{< ls-lottie src="/images/juicy-json/juicy-woman-with-graph-chart.json" width="75%" >}}
 
 ## Pelajari Cara Menggunakan Aplikasi Kami
 
@@ -19,4 +19,4 @@ Pilih aplikasi di bawah untuk memulai.
 
 ## Pilih Produk Anda
 
-{{< product-doc-cards section="guide" >}}
+{{< ls-product-doc-cards section="guide" >}}

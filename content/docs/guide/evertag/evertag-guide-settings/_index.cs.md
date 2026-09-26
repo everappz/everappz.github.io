@@ -21,7 +21,7 @@ Na této obrazovce máte přístup k nastavení aplikace a můžete ji upgradova
 - **Právní a soukromí** — Podmínky, Zásady ochrany osobních údajů, Právní upozornění, Analytika a sběr dat
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Obrazovka Nastavení Evertag" image="/docs/guide/evertag/img/settings.webp" >}}
+  {{< ls-card title="" subtitle="Obrazovka Nastavení Evertag" image="/docs/guide/evertag/img/settings.webp" >}}
 {{< /cards >}}
 
 ## Upgrade na Premium
@@ -63,7 +63,7 @@ Aktivuje obrazovku ochrany heslem, pokud chcete chránit data aplikace.
 Správce souborů podporuje přístup k připojeným cloudovým úložním účtům a nabízí hromadné operace pro rychlou správu více souborů.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Obrazovka Nastavení správce souborů Evertag" image="/docs/guide/evertag/img/settings-file-manager.webp" >}}
+  {{< ls-card title="" subtitle="Obrazovka Nastavení správce souborů Evertag" image="/docs/guide/evertag/img/settings-file-manager.webp" >}}
 {{< /cards >}}
 
 ### Přenosy souborů
@@ -103,7 +103,7 @@ Vyčistěte složku mezipaměti aplikace pro získání zpět úložného prosto
 V této sekci můžete konfigurovat vestavěný editor audio tagů.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Obrazovka Nastavení editoru tagů Evertag" image="/docs/guide/evertag/img/settings-tag-editor.webp" >}}
+  {{< ls-card title="" subtitle="Obrazovka Nastavení editoru tagů Evertag" image="/docs/guide/evertag/img/settings-tag-editor.webp" >}}
 {{< /cards >}}
 
 ### Škálování obalu alba
@@ -136,7 +136,7 @@ V této sekci můžete aktivovat funkci WiFi Drive, která vám umožňuje přen
 V této sekci si můžete přizpůsobit nastavení uživatelského rozhraní podle svých preferencí.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Obrazovka Nastavení personalizace Evertag" image="/docs/guide/evertag/img/settings-personalization.webp" >}}
+  {{< ls-card title="" subtitle="Obrazovka Nastavení personalizace Evertag" image="/docs/guide/evertag/img/settings-personalization.webp" >}}
 {{< /cards >}}
 
 ### Ikona aplikace

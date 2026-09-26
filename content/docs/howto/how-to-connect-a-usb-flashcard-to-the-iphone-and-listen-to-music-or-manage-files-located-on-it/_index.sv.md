@@ -7,7 +7,7 @@ tags: ["musik", "filer", "usb", "flash", "extern", "ixpand", "spela", "kort", "a
 readingTime: 2
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **Sammanfattning:** Anslut ett USB-minne eller SD-kort till din iPhone med en Apple-adapter eller SanDisk iXpand-enhet och använd sedan Evermusic, Flacbox eller Evertag för att bläddra, spela och hantera dina ljudfiler direkt från den externa lagringen.
@@ -72,18 +72,18 @@ Njut av friheten att komma åt och hantera din musik utan ansträngning med dess
 
 ## Vanliga frågor
 
-{{% details title="Vilka USB-adaptrar fungerar med iPhone för musikuppspelning?" closed="true" %}}
+{{% ls-details title="Vilka USB-adaptrar fungerar med iPhone för musikuppspelning?" closed="true" %}}
 Både Apples Lightning to SD Card Camera Reader och Lightning to USB 3 Camera Adapter fungerar. USB-C-adaptrar fungerar på nyare iPhones med USB-C-portar. SanDisk iXpand Flash-enheter (V1-V7) stöds också inbyggt av Evermusic, Flacbox och Evertag.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Kan jag spela musik direkt från USB-enheten utan att kopiera filer?" closed="true" %}}
+{{% ls-details title="Kan jag spela musik direkt från USB-enheten utan att kopiera filer?" closed="true" %}}
 Ja. Med SanDisk iXpand-enheter kan du spela musik direkt från enheten utan att kopiera filer till din iPhone. När du använder Apple-adaptrar importeras filerna, men du kan välja om du vill kopiera dem till lokal lagring.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Vilka ljudformat stöds från USB-enheter?" closed="true" %}}
+{{% ls-details title="Vilka ljudformat stöds från USB-enheter?" closed="true" %}}
 Evermusic och Flacbox stöder ett brett utbud av format inklusive FLAC, MP3, AAC, WAV, ALAC, OGG, WMA och fler. Alla stödda format fungerar vid uppspelning från USB-lagring.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Min SanDisk iXpand visar ett 'upptagen'-fel. Vad ska jag göra?" closed="true" %}}
+{{% ls-details title="Min SanDisk iXpand visar ett 'upptagen'-fel. Vad ska jag göra?" closed="true" %}}
 En annan app kan ha åtkomst till enheten. Stäng alla andra appar som kan använda USB-minnet, eller koppla bort det och sätt in det igen. Öppna sedan Evermusic, Flacbox eller Evertag igen.
-{{% /details %}}
+{{% /ls-details %}}

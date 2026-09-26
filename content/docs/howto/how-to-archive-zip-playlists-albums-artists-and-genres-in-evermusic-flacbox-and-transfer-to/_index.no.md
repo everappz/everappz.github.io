@@ -7,7 +7,7 @@ tags: ["evermusic", "flacbox", "arkiv", "sikkerhetskopiering", "eksport", "spill
 readingTime: 2
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **Sammendrag:** Evermusic og Flacbox kan arkivere enhver spilleliste, album, artist eller sjanger til en ZIP-fil med en M3U-spilleliste, albumomslag og alle lydfiler. Overfør ZIP-en til en annen enhet, pakk den ut og importer M3U for å gjenoppbygge spillelisten umiddelbart.
@@ -104,22 +104,22 @@ Ved å følge denne guiden kan du effektivt arkivere og overføre spillelistene,
 
 ## Ofte stilte spørsmål
 
-{{% details title="Hva er inkludert i ZIP-arkivet?" closed="true" %}}
+{{% ls-details title="Hva er inkludert i ZIP-arkivet?" closed="true" %}}
 Arkivet inneholder alle lydfiler, en M3U-spillelistefil som bevarer sporrekkefølgen, og spillelistens albumomslag lagret som en separat bildefil.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Fungerer arkivering med skyfiler?" closed="true" %}}
+{{% ls-details title="Fungerer arkivering med skyfiler?" closed="true" %}}
 Ja. Appen laster automatisk ned alle skylagrede filer før de legges til i arkivet. Du kan overvåke nedlastingsfremgangen i seksjonen for filoverføringer.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Kan jeg også arkivere album, artister og sjangre?" closed="true" %}}
+{{% ls-details title="Kan jeg også arkivere album, artister og sjangre?" closed="true" %}}
 Ja. Alternativet «Legg til i arkiv» er tilgjengelig for spillelister, album, artister og sjangre. Prosessen er identisk for alle.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Hvordan overfører jeg arkivet til en annen enhet?" closed="true" %}}
+{{% ls-details title="Hvordan overfører jeg arkivet til en annen enhet?" closed="true" %}}
 Du kan laste opp ZIP-en til skylagring (Google Drive, Dropbox osv.), bruke AirDrop eller overføre trådløst via den innebygde Wi-Fi Drive-funksjonen i Evermusic og Flacbox.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Vil spillelistestrukturen bevares etter overføring?" closed="true" %}}
+{{% ls-details title="Vil spillelistestrukturen bevares etter overføring?" closed="true" %}}
 Ja. M3U-filen lagrer spillelistestrukturen med relative stier. Etter utpakking på den nye enheten importerer du M3U-filen for å gjenoppbygge spillelisten med alle spor i den opprinnelige rekkefølgen.
-{{% /details %}}
+{{% /ls-details %}}

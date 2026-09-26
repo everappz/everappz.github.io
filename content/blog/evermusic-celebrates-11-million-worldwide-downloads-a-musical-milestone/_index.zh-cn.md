@@ -12,7 +12,7 @@ authors:
     image: "/images/about/artem-meleshko-founder-everappz.webp"
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 **TL;DR：** Evermusic 全球下载量已超过 1100 万。关键功能包括 10 段均衡器、离线播放、iCloud Drive 串流、支持 10 多种云服务、跨设备同步和内置 ID3 标签编辑器。
 
@@ -70,22 +70,22 @@ Evermusic 专为在云端或本地存储中保存音乐的用户而设计。无�
 
 ## FAQ
 
-{{% details title="Evermusic 支持哪些音频格式？" closed="true" %}}
+{{% ls-details title="Evermusic 支持哪些音频格式？" closed="true" %}}
 Evermusic 播放 MP3、FLAC、WAV、AAC、M4A、AIFF、OGG、WMA 和其他流行音频格式。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="我可以在没有网络连接的情况下使用 Evermusic 吗？" closed="true" %}}
+{{% ls-details title="我可以在没有网络连接的情况下使用 Evermusic 吗？" closed="true" %}}
 可以。从云存储下载曲目进行离线播放。下载后不需要网络。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Evermusic 在 Mac 上可以使用吗？" closed="true" %}}
+{{% ls-details title="Evermusic 在 Mac 上可以使用吗？" closed="true" %}}
 可以。Evermusic 同时支持 iOS（iPhone/iPad）和 macOS，在所有设备上进行音乐库同步。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Evermusic 可以免费下载吗？" closed="true" %}}
+{{% ls-details title="Evermusic 可以免费下载吗？" closed="true" %}}
 可以。Evermusic 免费下载，可选的高级功能通过应用内购买获得。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Evermusic 中的 iCloud Drive 串流如何工作？" closed="true" %}}
+{{% ls-details title="Evermusic 中的 iCloud Drive 串流如何工作？" closed="true" %}}
 在应用中连接您的 iCloud Drive 账户，浏览音乐文件，点击即可播放。曲目直接串流，无需先下载。
-{{% /details %}}
+{{% /ls-details %}}

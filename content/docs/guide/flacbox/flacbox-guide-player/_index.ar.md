@@ -23,7 +23,7 @@ readingTime: 14
 يمكنك الوصول إلى المشغل بملء الشاشة من شريط المشغل المصغر. على iPhone، يجلس المشغل المصغر في أسفل الشاشة الرئيسية. على iPad وMac، يكون على الجانب الأيسر. لإخفاء المشغل المصغر على iPhone، اضغط عليه مرة واحدة واسحب لأسفل. لإغلاق المشغل بملء الشاشة بالكامل، اضغط على زر الإغلاق في الزاوية السفلية اليمنى.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="الشاشة الرئيسية لمشغل الصوت في Flacbox" image="/docs/guide/flacbox/img/audio-player-main-screen.webp" >}}
+  {{< ls-card title="" subtitle="الشاشة الرئيسية لمشغل الصوت في Flacbox" image="/docs/guide/flacbox/img/audio-player-main-screen.webp" >}}
 {{< /cards >}}
 
 ## تنسيقات الصوت المدعومة
@@ -66,7 +66,7 @@ readingTime: 14
 يتضمن Flacbox **معادلاً صوتياً من 10 نطاقات** مع إعدادات مسبقة بنمط iPod. اضغط على المعادل في عرض مستوى الصوت، ثم شغّله في الزاوية العلوية اليمنى. يمكنك استخدام إعدادات مسبقة مثل Acoustic و Bass Booster، أو ضبط كل نطاق تردد بشريط تمرير. أنشئ إعداداتك المسبقة الخاصة، واحفظها بأي اسم، وعزز مستوى الصوت الكلي بالمضخم المبدئي. لدينا تعليمات أكثر تفصيلاً حول كيفية استخدام المعادل الصوتي [هنا](/docs/howto/how-to-use-the-audio-equalizer-on-your-iphone-ipad-mac-with-evermusic-and-flacbox).
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="معادل مشغل الصوت في Flacbox" image="/docs/guide/flacbox/img/audio-player-equalizer.webp" >}}
+  {{< ls-card title="" subtitle="معادل مشغل الصوت في Flacbox" image="/docs/guide/flacbox/img/audio-player-equalizer.webp" >}}
 {{< /cards >}}
 
 ## شريط أدوات وضع المشغل
@@ -82,7 +82,7 @@ readingTime: 14
 لرؤية قائمة انتظار المشغل، اضغط على زر قائمة الانتظار على الجانب الأيمن من الأغنية الحالية. لكل أغنية في قائمة الانتظار المزيد من الإجراءات — اضغط على النقاط الثلاث لعرضها. لإعادة ترتيب أغنية في قائمة الانتظار، استخدم مؤشر إعادة الترتيب بجوار العنوان واسحبه إلى موضع جديد.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="قائمة انتظار التشغيل في Flacbox" image="/docs/guide/flacbox/img/playback_queue.webp" >}}
+  {{< ls-card title="" subtitle="قائمة انتظار التشغيل في Flacbox" image="/docs/guide/flacbox/img/playback_queue.webp" >}}
 {{< /cards >}}
 
 ## التعليقات / كلمات الأغاني
@@ -98,7 +98,7 @@ readingTime: 14
 بعد ذلك، اضغط على زر قائمة انتظار المشغل في أسفل الشاشة عدة مرات للتبديل من عرض الغلاف / قائمة الانتظار إلى عرض التعليقات. على شاشة التعليقات، مرّر يميناً للتبديل بين **التعليقات** و**كلمات الأغاني المضمنة** و**ملف LRC**. التعليمات الكاملة متاحة [هنا](/docs/howto/how-to-add-and-view-comments-to-your-audio-tracks-on-iphone-ipad-and-mac-with-evermusic-and-flacbox).
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="شاشة كلمات الأغاني والتعليقات في Flacbox" image="/docs/guide/flacbox/img/lyrics-screen.webp" >}}
+  {{< ls-card title="" subtitle="شاشة كلمات الأغاني والتعليقات في Flacbox" image="/docs/guide/flacbox/img/lyrics-screen.webp" >}}
 {{< /cards >}}
 
 ## قائمة الخيارات
@@ -121,7 +121,7 @@ readingTime: 14
 تتوفر نفس الخيارات للعنصر الذي يُشغَّل حالياً في قائمة انتظار مشغل الصوت، ويمكنك الوصول إليه بالضغط على أيقونة **المزيد من الإجراءات** بجوار عنوان المسار.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="خيارات Flacbox لعنصر في قائمة انتظار التشغيل" image="/docs/guide/flacbox/img/options-for-item-in-playback-queue.webp" >}}
+  {{< ls-card title="" subtitle="خيارات Flacbox لعنصر في قائمة انتظار التشغيل" image="/docs/guide/flacbox/img/options-for-item-in-playback-queue.webp" >}}
 {{< /cards >}}
 
 ## إجراءات المشغل الإضافية
@@ -143,7 +143,7 @@ readingTime: 14
 - **المساعدة** — احصل على المساعدة والإرشاد.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="شاشة المزيد من الإجراءات لمشغل الصوت في Flacbox" image="/docs/guide/flacbox/img/audio-player-more-actions-screen.webp" >}}
+  {{< ls-card title="" subtitle="شاشة المزيد من الإجراءات لمشغل الصوت في Flacbox" image="/docs/guide/flacbox/img/audio-player-more-actions-screen.webp" >}}
 {{< /cards >}}
 
 ## الإشارات المرجعية الصوتية
@@ -161,7 +161,7 @@ readingTime: 14
 تحرير الإشارات المرجعية للمسار الحالي أمر سهل: اضغط على تحرير في الزاوية العلوية اليمنى للدخول إلى وضع التحرير. في هذا الوضع، يمكنك إعادة ترتيب الإشارات المرجعية وحذفها وضبط وقتها وتغيير عناوينها. تعليمات أكثر تفصيلاً حول الإشارات المرجعية الصوتية متاحة [هنا](/docs/howto/how-to-listen-to-audiobooks-on-iphone-ipad-mac-using-evermusic).
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="شاشة الإشارات المرجعية الصوتية في Flacbox" image="/docs/guide/flacbox/img/audio-bookmarks.webp" >}}
+  {{< ls-card title="" subtitle="شاشة الإشارات المرجعية الصوتية في Flacbox" image="/docs/guide/flacbox/img/audio-bookmarks.webp" >}}
 {{< /cards >}}
 
 ## الأخيرة والمفضلة
@@ -175,7 +175,7 @@ readingTime: 14
 [اقرأ دليل CarPlay الكامل](/docs/howto/how-to-play-your-own-music-on-iphone-using-carplay/).
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox على Apple CarPlay" image="/docs/guide/flacbox/img/carplay-main.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox على Apple CarPlay" image="/docs/guide/flacbox/img/carplay-main.webp" >}}
 {{< /cards >}}
 
 ## أدوات الشاشة الرئيسية (iPhone وiPad)
@@ -243,7 +243,7 @@ readingTime: 14
 اضبط سرعة تشغيل مشغل الصوت من **0.02× إلى 3.00×**. اضغط على أيقونة التكوين في الزاوية العلوية اليمنى للتبديل إلى **الوضع الدقيق** لضبط أدق.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="شاشة سرعة التشغيل في Flacbox" image="/docs/guide/flacbox/img/playback-speed.webp" >}}
+  {{< ls-card title="" subtitle="شاشة سرعة التشغيل في Flacbox" image="/docs/guide/flacbox/img/playback-speed.webp" >}}
 {{< /cards >}}
 
 ### تصحيح النغمة

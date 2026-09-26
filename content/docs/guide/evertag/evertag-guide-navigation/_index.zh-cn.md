@@ -16,7 +16,7 @@ readingTime: 3
 Evertag 拥有直观的用户界面。它与许多热门应用的不同之处在于内置文件管理器，使用户能够编辑音频文件并与云存储之间无缝传输。
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evertag Screen" image="/docs/guide/evertag/img/tag-editor.webp" >}}
+  {{< ls-card title="" subtitle="Evertag Screen" image="/docs/guide/evertag/img/tag-editor.webp" >}}
 {{< /cards >}}
 
 ## 各部分
@@ -42,7 +42,7 @@ Evertag 拥有直观的用户界面。它与许多热门应用的不同之处在
 屏幕上几乎每个内容项目都有「更多操作」按钮。点击它可访问所有可用操作。
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evertag More Actions" image="/docs/guide/evertag/img/downloads-file-actions.webp" >}}
+  {{< ls-card title="" subtitle="Evertag More Actions" image="/docs/guide/evertag/img/downloads-file-actions.webp" >}}
 {{< /cards >}}
 
 ## 顶部工具栏

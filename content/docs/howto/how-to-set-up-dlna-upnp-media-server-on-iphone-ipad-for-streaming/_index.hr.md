@@ -7,7 +7,7 @@ keywords: ["DLNA poslužitelj iPhone", "UPnP poslužitelj iPad", "kako postaviti
 readingTime: 9
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 DLNA (poznat i kao UPnP AV) tiha je radna snaga iza većine pametnih TV-a. To je zajednički jezik koji omogućuje TV-u ili medijskom reproduktoru da pronađe medijsku biblioteku na istom Wi-Fi i reproducira iz nje, bez ičega za instalirati na TV-u. Ako vaš iPhone ili iPad može biti ta biblioteka, vaše se fotografije, videozapisi i glazba sami pojavljuju na velikom ekranu.
 
@@ -127,44 +127,44 @@ DLNA predaje datoteku TV-u kakva jest, a TV je mora moći dekodirati. Ako se isj
 
 ## Često postavljana pitanja
 
-{{% details title="Koja je razlika između DLNA i UPnP?" closed="true" %}}
+{{% ls-details title="Koja je razlika između DLNA i UPnP?" closed="true" %}}
 Usko su povezani. UPnP je temeljni mrežni standard, a DLNA je medijski profil izgrađen na njemu koji TV-i i reproduktori koriste za dijeljenje i reprodukciju fotografija, videozapisa i glazbe. U svakodnevnoj su uporabi ti pojmovi zamjenjivi. Kada u Everdisku uključite TV i medijski centar, vaš uređaj postaje DLNA/UPnP medijski poslužitelj koji svaki DLNA klijent može pregledavati.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Moram li nešto instalirati na svoj TV?" closed="true" %}}
+{{% ls-details title="Moram li nešto instalirati na svoj TV?" closed="true" %}}
 Ne. Ako vaš TV podržava DLNA, već ima medijski reproduktor koji može pronaći vaš uređaj na Wi-Fi mreži. Everdisk instalirate samo na iPhone ili iPad koji sadrži sadržaj. Ako vaš TV ne podržava DLNA, instalirajte reproduktor poput VLC-a ili Kodija na uređaj povezan s njim.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Zašto se moj iPhone ne pojavljuje na TV-u?" closed="true" %}}
+{{% ls-details title="Zašto se moj iPhone ne pojavljuje na TV-u?" closed="true" %}}
 Provjerite jesu li oba uređaja na istoj Wi-Fi mreži. Gostinske mreže i neke uredske ili hotelske mreže blokiraju međusobno vidljivost uređaja, što zaustavlja DLNA. Zatim potvrdite je li Everdisk otvoren s pokrenutim dijeljenjem te je li TV i medijski centar uključen u Postavke, Dijeljenje, Veze. Ako ga TV i dalje ne može pronaći, dodajte poslužitelj ručno pomoću adrese opisa uređaja koja završava s /device-desc.xml.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Treba li DLNA strujanju lozinka?" closed="true" %}}
+{{% ls-details title="Treba li DLNA strujanju lozinka?" closed="true" %}}
 Ne. DLNA je dok je uključen uvijek otvoren svima na istoj Wi-Fi mreži, zbog čega na strani TV-a nema prijave. To je u redu na kućnoj mreži kojoj vjerujete. Na mreži kojoj ne vjerujete isključite TV i medijski centar kad završite ili umjesto toga koristite SMB poslužitelj sa šifriranjem.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Mogu li strujati na Chromecast ili Roku?" closed="true" %}}
+{{% ls-details title="Mogu li strujati na Chromecast ili Roku?" closed="true" %}}
 Chromecast i Roku ne rade kao DLNA reproduktori bez dodatnog podešavanja, pa neće izravno pronaći vaš uređaj. Rješenje je instalirati DLNA aplikaciju koja može prebacivati sadržaj, poput VLC-a ili BubbleUPnP-a na telefonu, i odande prebaciti reprodukciju na Chromecast ili Roku. Na većini drugih pametnih TV-a DLNA radi bez svega ovoga.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Video se reproducira bez zvuka ili se neće otvoriti. Što mogu učiniti?" closed="true" %}}
+{{% ls-details title="Video se reproducira bez zvuka ili se neće otvoriti. Što mogu učiniti?" closed="true" %}}
 To je format koji TV ne može dekodirati. Otvorite Postavke, Dijeljenje, Videozapisi u Everdisku i smanjite Kvaliteta kako bi aplikacija pretvorila video u kompatibilniji format dok ga struji. Istu datoteku možete otvoriti i putem poveznice za preglednik, koja podržava više formata.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Mogu li strujati glazbu, ne samo video?" closed="true" %}}
+{{% ls-details title="Mogu li strujati glazbu, ne samo video?" closed="true" %}}
 Da. Uključite Dopusti pristup cijeloj glazbenoj biblioteci ili dodajte određene pjesme, a zatim pokrenite dijeljenje. Vaše se pjesme pojavljuju na svakom DLNA zvučniku, AV prijemniku ili TV-u, s omotom i podacima o pjesmi. Glazba se uvijek dijeli u izvornoj kvaliteti.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Mora li aplikacija ostati otvorena dok gledam?" closed="true" %}}
+{{% ls-details title="Mora li aplikacija ostati otvorena dok gledam?" closed="true" %}}
 Da. Vaš iPhone djeluje kao poslužitelj, a iOS pauzira aplikacije koje su na duže vrijeme u potpunosti gurnute u pozadinu. Dok strujite, držite Everdisk na zaslonu i priključite na napajanje za duge sesije.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Kako strujati s jednog iPhonea na drugi iPad?" closed="true" %}}
+{{% ls-details title="Kako strujati s jednog iPhonea na drugi iPad?" closed="true" %}}
 Pokrenite dijeljenje na iPhoneu, zatim otvorite Everdisk na iPadu i idite na karticu Uređaji. iPhone se pojavljuje pod Dostupni uređaji kao medijski poslužitelj. Dodirnite ga za pregledavanje i reprodukciju. Everdisk radi kao DLNA klijent i poslužitelj, pa vam ne treba druga aplikacija.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Je li Everdisk besplatan?" closed="true" %}}
+{{% ls-details title="Je li Everdisk besplatan?" closed="true" %}}
 Da, Everdisk je besplatan za preuzimanje, a DLNA medijski poslužitelj je uključen. Neobvezna jednokratna kupnja Premium Lifetime dodaje dodatke poput pretvorbe fotografija i videa za starije TV-e, prilagođenih portova i još mnogo toga. DLNA strujanje možete postaviti i koristiti bez plaćanja.
-{{% /details %}}
+{{% /ls-details %}}
 
 Spremni za isprobati? [Preuzmite Everdisk s App Storea](https://apps.apple.com/app/apple-store/id6751851132?pt=95781850&ct=everappzcom&mt=8) i strujajte svoj prvi album na TV u nekoliko minuta. Pitanja ili povratne informacije? Pišite nam na **support@everappz.com**.

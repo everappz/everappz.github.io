@@ -17,7 +17,7 @@ Reproduktor je glavni zaslon aplikacije gdje možete kontrolirati red reprodukto
 ## Pristup reproduktoru
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Zaslon Evermusic audio reproduktora" image="/docs/guide/evermusic/evermusic-guide-player/img/player-main.webp" >}}
+  {{< ls-card title="" subtitle="Zaslon Evermusic audio reproduktora" image="/docs/guide/evermusic/evermusic-guide-player/img/player-main.webp" >}}
 {{< /cards >}}
 
 Reproduktoru na cijelom zaslonu možete pristupiti iz prikaza mini reproduktora. Na iPhoneu, mini reproduktor pronaći ćete iznad trake kartica na glavnom zaslonu. Na iPadu ili Macu, dostupan je iz lijevog izbornika. Za sakrivanje mini reproduktora, dodirnite njegovu ikonu i prevucite prema dolje. Za potpuno skrivanje reproduktora na cijelom zaslonu, jednostavno dodirnite gumb za zatvaranje smješten u donjem desnom kutu.
@@ -44,7 +44,7 @@ Ako ste raspoloženi za nasumičnost, opcija "Shuffle" je vaš izbor. Miješa re
 ## Kontrola glasnoće
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Kontrola glasnoće s AirPlay i Google Cast" image="/docs/guide/evermusic/evermusic-guide-player/img/player-volume-control.webp" >}}
+  {{< ls-card title="" subtitle="Kontrola glasnoće s AirPlay i Google Cast" image="/docs/guide/evermusic/evermusic-guide-player/img/player-volume-control.webp" >}}
 {{< /cards >}}
 
 Pronađite klizač glasnoće na zaslonu Audio postavki dodirivanjem ikone zvuka ispod kontrola reprodukcije. Glasnoću možete mijenjati ovim klizačem ili standardnim gumbima za glasnoću na uređaju. Uz to, pronaći ćete neke zgodne gumbe za strujanje:
@@ -63,7 +63,7 @@ S druge strane, ako preferirate AirPlay, potražite gumb AirPlay na dnu zaslona 
 ## Audio ekvilajzer
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="10-pojasni audio ekvilajzer" image="/docs/guide/evermusic/evermusic-guide-player/img/player-equalizer.webp" >}}
+  {{< ls-card title="" subtitle="10-pojasni audio ekvilajzer" image="/docs/guide/evermusic/evermusic-guide-player/img/player-equalizer.webp" >}}
 {{< /cards >}}
 
 Evermusic dolazi opremljen 10-pojasnim ekvilajzerom, s iPod-style postavkama, pojačalom i ručnim postavkama ekvilajzera. Za aktiviranje ekvilajzera, jednostavno dodirnite gumb "Ekvilajzer" na donjoj alatnoj traci i uključite kontrolu prekidača u gornjem desnom kutu. Možete odabrati iz niza unaprijed definiranih postavki ekvilajzera kao što su "Acoustic", "Bass Booster", "Classical" i više. Ako ste entuzijast zvuka, cijeniti ćete mogućnost finog podešavanja svakog frekvencijskog pojasa koristeći klizače. Slobodno kreirajte i spremite vlastite postavke audio ekvilajzera. Ako pjesma nije dovoljno glasna, možete i prilagoditi pojačanje prethodnog pojačala. Imamo detaljnije upute o korištenju ekvilajzera [ovdje](/docs/howto/how-to-use-the-audio-equalizer-on-your-iphone-ipad-mac-with-evermusic-and-flacbox).
@@ -71,7 +71,7 @@ Evermusic dolazi opremljen 10-pojasnim ekvilajzerom, s iPod-style postavkama, po
 ## Alatna traka načina reproduktora
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Gornja alatna traka reproduktora s pretraživanjem i brzinom" image="/docs/guide/evermusic/evermusic-guide-player/img/player-top-toolbar.webp" >}}
+  {{< ls-card title="" subtitle="Gornja alatna traka reproduktora s pretraživanjem i brzinom" image="/docs/guide/evermusic/evermusic-guide-player/img/player-top-toolbar.webp" >}}
 {{< /cards >}}
 
 Za odabrane stilove zaslona reproduktora pronaći ćete alatnu traku načina reproduktora na vrhu zaslona reproduktora, odmah ispod navigacijske trake. Ova zgodna alatna traka sadrži tri gumba.
@@ -82,7 +82,7 @@ Za odabrane stilove zaslona reproduktora pronaći ćete alatnu traku načina rep
 ## Audio zabilješke
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Audio zabilješke za audioknjige i predavanja" image="/docs/guide/evermusic/evermusic-guide-player/img/player-bookmarks.webp" >}}
+  {{< ls-card title="" subtitle="Audio zabilješke za audioknjige i predavanja" image="/docs/guide/evermusic/evermusic-guide-player/img/player-bookmarks.webp" >}}
 {{< /cards >}}
 
 Ovdje možete kreirati više zabilješki za pjesme u glazbenoj biblioteci. Imamo potpune upute o korištenju zabilješki [ovdje](/docs/howto/how-to-listen-to-audiobooks-on-iphone-ipad-mac-using-evermusic).
@@ -90,7 +90,7 @@ Ovdje možete kreirati više zabilješki za pjesme u glazbenoj biblioteci. Imamo
 ## Red reproduktora
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Red reproduktora" image="/docs/guide/evermusic/evermusic-guide-player/img/player-queue.webp" >}}
+  {{< ls-card title="" subtitle="Red reproduktora" image="/docs/guide/evermusic/evermusic-guide-player/img/player-queue.webp" >}}
 {{< /cards >}}
 
 Za pristup redu reproduktora, jednostavno dodirnite gumb reda reproduktora smješten na donjoj alatnoj traci. Za premještanje pjesme u redu, koristite indikator za preuređivanje pored naslova.
@@ -98,7 +98,7 @@ Za pristup redu reproduktora, jednostavno dodirnite gumb reda reproduktora smje�
 ## Komentari / Tekstovi
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Komentari, ugrađeni tekstovi i LRC datoteke" image="/docs/guide/evermusic/evermusic-guide-player/img/player-lyrics.webp" >}}
+  {{< ls-card title="" subtitle="Komentari, ugrađeni tekstovi i LRC datoteke" image="/docs/guide/evermusic/evermusic-guide-player/img/player-lyrics.webp" >}}
 {{< /cards >}}
 
 Za prikaz komentara pjesme i ugrađenih tekstova, kao i LRC datoteka, slijedite ove korake:
@@ -114,7 +114,7 @@ Imamo potpune upute o prikazu tekstova [ovdje](/docs/howto/how-to-view-embedded-
 ## Izbornik opcija
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Izbornik opcija za stavku reda" image="/docs/guide/evermusic/evermusic-guide-player/img/player-queue-item-options-menu.webp" >}}
+  {{< ls-card title="" subtitle="Izbornik opcija za stavku reda" image="/docs/guide/evermusic/evermusic-guide-player/img/player-queue-item-options-menu.webp" >}}
 {{< /cards >}}
 
 Svaka pjesma u redu audio reproduktora ima izbornik s više radnji, kojemu možete pristupiti dodirivanjem gumba s tri točke pored naslova pjesme. Dostupne radnje su:
@@ -153,7 +153,7 @@ Dodirnite gumb više radnji "..." na lijevoj strani naslova trenutno reproducira
 ## Nedavne i omiljene
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Nedavno reproducirane pjesme iz reproduktora" image="/docs/guide/evermusic/evermusic-guide-player/img/player-recents.webp" >}}
+  {{< ls-card title="" subtitle="Nedavno reproducirane pjesme iz reproduktora" image="/docs/guide/evermusic/evermusic-guide-player/img/player-recents.webp" >}}
 {{< /cards >}}
 
 Na zaslonu reproduktora možete pristupiti odjeljcima 'Nedavne' i 'Omiljeni' dodirivanjem gumba Više radnji '…' i odabirom odgovarajuće stavke izbornika. U oba odjeljka možete pretraživati pjesme, reproducirati sve pjesme, miješati sve pjesme, izvoziti popis i brisati popis. Imamo detaljne upute o izvozu popisa pjesama [ovdje](/docs/howto/export-tracks-collection-from-evermusic-flacbox-to-m3u-csv-txt/).
@@ -161,7 +161,7 @@ Na zaslonu reproduktora možete pristupiti odjeljcima 'Nedavne' i 'Omiljeni' dod
 ## Prozor mini reproduktora (ekskluzivno za Mac)
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Prozor Mac mini reproduktora" image="/docs/guide/evermusic/evermusic-guide-player/img/player-mini-mac.webp" >}}
+  {{< ls-card title="" subtitle="Prozor Mac mini reproduktora" image="/docs/guide/evermusic/evermusic-guide-player/img/player-mini-mac.webp" >}}
 {{< /cards >}}
 
 Za korisnike Maca, postoji zgodni prozor mini reproduktora. Za pristup, jednostavno pomaknite kursor na donji desni rub prozora aplikacije i promijenite veličinu na najmanji mogući. Zatim dodirnite gumb za sažimanje (prikazan kao strelica prema dolje) za aktiviranje prozora mini reproduktora. Ako ga želite zadržati na vrhu ostalih prozora, idite na gornju traku izbornika Maca, odaberite 'Prozor' i odaberite 'Prikaži prozor uvijek na vrhu'. Ova je značajka posebno zgodna kada slušate audio predavanja i ne želite prekide.
@@ -169,7 +169,7 @@ Za korisnike Maca, postoji zgodni prozor mini reproduktora. Za pristup, jednosta
 ## Tipkovnički prečaci (ekskluzivno za Mac)
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Mac statusna traka s izborim reprodukcije i tipkovničkim prečacima" image="/docs/guide/evermusic/evermusic-guide-player/img/player-mac-shortcuts.webp" >}}
+  {{< ls-card title="" subtitle="Mac statusna traka s izborim reprodukcije i tipkovničkim prečacima" image="/docs/guide/evermusic/evermusic-guide-player/img/player-mac-shortcuts.webp" >}}
 {{< /cards >}}
 
 Za korisnike Maca, dostupan je sistemski izbornik reprodukcije na statusnoj traci s tipkovničkim prečacima. Na primjer, za Reproduciraj/Pauziraj, jednostavno dodirnite razmaknicu na tipkovnici. Prečaci za Zaustavi, Sljedeća pjesma, Prethodna pjesma, Preskoči vrijeme, Ponovi, Miješaj i Brzina reprodukcije dostupni su kao što je prikazano na snimci zaslona.
@@ -177,7 +177,7 @@ Za korisnike Maca, dostupan je sistemski izbornik reprodukcije na statusnoj trac
 ## Postavke audio reproduktora
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Postavke audio reproduktora" image="/docs/guide/evermusic/evermusic-guide-player/img/player-settings.webp" >}}
+  {{< ls-card title="" subtitle="Postavke audio reproduktora" image="/docs/guide/evermusic/evermusic-guide-player/img/player-settings.webp" >}}
 {{< /cards >}}
 
 Za pristup postavkama audio reproduktora, dodirnite gumb Više na zaslonu audio reproduktora i odaberite "Postavke" iz padajućeg izbornika. Ovdje ćete pronaći različite odjeljke grupirane prema funkcionalnosti:

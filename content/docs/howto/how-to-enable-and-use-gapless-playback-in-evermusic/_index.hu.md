@@ -7,7 +7,7 @@ tags: ["Evermusic", "Szünetmentes lejátszás", "Útmutató", "Hang", "Lejátsz
 readingTime: 4
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 **Röviden:** Nyisd meg a **Beállítások > Audiolejátszó > Szünetmentes lejátszás** menüpontot, és kapcsold a kapcsolót **BE** állásba. Ettől kezdve a dalok szünet, kattanás vagy pattanás nélkül szólnak egymás után. Az Evermusic előre pufferolja és dekódolja a következő számot, miközben az aktuális még szól, majd egy folyamatos pufferen belül, a hangminták között váltja át azokat, így az átmenet valóban zökkenőmentes. Ez valódi, mintapontos szünetmentes lejátszás, nem áttűnés.
 
@@ -73,30 +73,30 @@ Az eredmény az, hogy egy élő album, egy ütemre illesztett DJ szett vagy egy 
 
 ## GYIK
 
-{{% details title="Hogyan kapcsolom be a szünetmentes lejátszást az Evermusicban?" closed="true" %}}
+{{% ls-details title="Hogyan kapcsolom be a szünetmentes lejátszást az Evermusicban?" closed="true" %}}
 Nyisd meg az Evermusicot, lépj a Beállítások > Audiolejátszó > Szünetmentes lejátszás menüpontra, és kapcsold a kapcsolót BE állásba. Alapértelmezés szerint ki van kapcsolva. Miután engedélyezted, mindenre érvényes, amit lejátszol, és bekapcsolva marad, amíg ki nem kapcsolod.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Az Evermusic szünetmentes lejátszása valódi szünetmentes vagy csak áttűnés?" closed="true" %}}
+{{% ls-details title="Az Evermusic szünetmentes lejátszása valódi szünetmentes vagy csak áttűnés?" closed="true" %}}
 Ez valódi, mintapontos szünetmentes lejátszás. Az Evermusic dekódolja és előre pufferolja a következő számot, miközben az aktuális szól, majd egy folyamatos pufferen a hangminták között váltja át azokat, így nem szúródik be csend, kattanás vagy kitöltés, és nincs dekóder-újraindítási szünet. Az áttűnés egy külön, más funkció, amely átfedi és összemossa a számokat; a szünetmentes lejátszás pontosan úgy őrzi meg a hangot, ahogyan maszterelték, és csak a szünetet tünteti el.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Miért hallok mégis szünetet néhány szám között?" closed="true" %}}
+{{% ls-details title="Miért hallok mégis szünetet néhány szám között?" closed="true" %}}
 Győződj meg róla, hogy a szünetmentes lejátszás BE van kapcsolva a Beállítások > Audiolejátszó > Szünetmentes lejátszás menüpontban. Ha a szünet megmarad, előfordulhat, hogy magába a felvételbe van beépítve (egyes fájlok néhány másodperc valódi csendet tartalmaznak egy szám elején vagy végén). A szünetmentes lejátszás azt a szünetet tünteti el, amelyet a lejátszó egyébként hozzáadna a számok közé; nem tudja eltávolítani azt a csendet, amely a hangfájl része.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Működik a szünetmentes lejátszás FLAC és más veszteségmentes fájlokkal?" closed="true" %}}
+{{% ls-details title="Működik a szünetmentes lejátszás FLAC és más veszteségmentes fájlokkal?" closed="true" %}}
 Igen. A szünetmentes lejátszás működik FLAC, Apple Lossless (ALAC) és veszteséges formátumokkal, például MP3 és AAC, függetlenül attól, hogy a fájlok helyben, a felhőben vagy egy médiaszerveren vannak tárolva.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Használhatom egyszerre a szünetmentes lejátszást és az áttűnést?" closed="true" %}}
+{{% ls-details title="Használhatom egyszerre a szünetmentes lejátszást és az áttűnést?" closed="true" %}}
 Nem. Ellentétes dolgot csinálnak, így a szünetmentes lejátszás bekapcsolása automatikusan kikapcsolja az áttűnést. Használd a szünetmentes lejátszást élő albumokhoz, DJ mixekhez és koncepciólemezekhez, ahol a hangot pontosan meg kell őrizni; használd az áttűnést, ha azt szeretnéd, hogy a dalok egymásba tűnjenek.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Működik a szünetmentes lejátszás felhőből való streamelés közben?" closed="true" %}}
+{{% ls-details title="Működik a szünetmentes lejátszás felhőből való streamelés közben?" closed="true" %}}
 Igen. Az Evermusic korán elkezdi pufferelni és dekódolni a következő számot, beleértve a felhőmeghajtókat és médiaszervereket is, így az átadás zökkenőmentes marad. Lassabb kapcsolatoknál egyszerűen egy kicsit korábban kezdi el előkészíteni a következő számot.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Csökkenti a szünetmentes lejátszás a hangminőséget?" closed="true" %}}
+{{% ls-details title="Csökkenti a szünetmentes lejátszás a hangminőséget?" closed="true" %}}
 Nem. A szünetmentes lejátszás nem kódolja újra és nem dolgozza fel a hangodat. Csak azt változtatja meg, ahogyan a számok ütemezve és pufferelve vannak, hogy ne legyen szünet közöttük. Minden minta pontosan úgy szól, ahogyan a fájlban van.
-{{% /details %}}
+{{% /ls-details %}}

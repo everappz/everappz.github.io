@@ -7,7 +7,7 @@ tags: ["guide utilisateur", "tutoriel application", "evermusic", "flacbox", "eve
 ---
 
 
-{{< lottie src="/images/juicy-json/juicy-woman-with-graph-chart.json" width="75%" >}}
+{{< ls-lottie src="/images/juicy-json/juicy-woman-with-graph-chart.json" width="75%" >}}
 
 ## Apprenez à utiliser nos applications
 
@@ -19,4 +19,4 @@ Choisissez une application ci-dessous pour commencer.
 
 ## Choisissez votre produit
 
-{{< product-doc-cards section="guide" >}}
+{{< ls-product-doc-cards section="guide" >}}

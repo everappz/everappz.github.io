@@ -11,7 +11,7 @@ Evermusic a Flacbox sú dva pokročilé hudobné prehrávače od Everappz pre iP
 
 **Stručná odpoveď:** vyberte si **Evermusic**, ak chcete najplynulejšie univerzálne počúvanie, bezmedzerové prechody a prelínanie a prístup ku knižnici Apple Music. Vyberte si **Flacbox**, ak ste audiofil, ktorý chce hlboké tvarovanie zvuku (modul efektov a DSP reťazec), voliteľný profesionálny audio engine a maximálne pokrytie hi-res a bezstratových formátov vrátane DSD, APE a WavPack.
 
-{{< app-details ids="885367198, 1097564256" >}}
+{{< ls-app-details ids="885367198, 1097564256" >}}
 
 ## Tabuľka porovnania funkcií
 
@@ -129,38 +129,38 @@ Oboje je zadarmo na stiahnutie s voliteľnými Premium aktualizáciami a oboje s
 
 ## Často kladené otázky
 
-{{% details title="Aký je hlavný rozdiel medzi Evermusic a Flacbox?" closed="true" %}}
+{{% ls-details title="Aký je hlavný rozdiel medzi Evermusic a Flacbox?" closed="true" %}}
 Zdieľajú rovnakú platformu a pripojenia, ale audio stránka sa líši. Evermusic beží na Apple AVPlayer a Core Audio a je každodenný prehrávač s podporou širokej škály formátov, so skutočným bezmedzerovým prehrávaním, prelínaním, priestorovým zvukom a importom knižnice Apple Music. Flacbox pridáva profesionálny audio engine BASS™ a dekódovanie cez FFmpeg, ktoré prinášajú DSP reťazec so 14 filtrami, viac efektov v reálnom čase, prehrávanie tracker/MOD hudby a najširšiu podporu hi-res a bezstratových formátov vrátane DSD, APE a WavPack.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Je lepší Evermusic alebo Flacbox?" closed="true" %}}
+{{% ls-details title="Je lepší Evermusic alebo Flacbox?" closed="true" %}}
 Ani jeden nie je striktne lepší; sú vyladené pre rôznych poslucháčov. Evermusic je lepší na plynulé, každodenné počúvanie a pre ľudí, ktorí používajú aj svoju knižnicu Apple Music, vďaka bezmedzerovému prehrávaniu, prelínaniu a priestorovému zvuku. Flacbox je lepší pre audiofilov, ktorí chcú hlboké tvarovanie zvuku, voliteľný profesionálny audio engine a maximálne pokrytie hi-res a bezstratových formátov.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Používa Evermusic FFmpeg?" closed="true" %}}
+{{% ls-details title="Používa Evermusic FFmpeg?" closed="true" %}}
 Nie. Evermusic prehráva úplne cez natívny audio zásobník od Apple, AVPlayer a Core Audio, pričom Core Audio spracúva jeho efekty a spracovanie. Dekódovanie cez FFmpeg je funkcia Flacbox, popri voliteľnom engine BASS vo Flacbox.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Má Flacbox bezmedzerové prehrávanie alebo prelínanie?" closed="true" %}}
+{{% ls-details title="Má Flacbox bezmedzerové prehrávanie alebo prelínanie?" closed="true" %}}
 Nie. Skutočné bezmedzerové prehrávanie a prelínanie (1 až 30 sekúnd) sú funkcie Evermusic. Flacbox sa namiesto toho zameriava na prehrávanie vo vysokom rozlíšení, profesionálny engine BASS, modul efektov a DSP reťazec.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Ktorá aplikácia je lepšia pre FLAC, DSD a APE?" closed="true" %}}
+{{% ls-details title="Ktorá aplikácia je lepšia pre FLAC, DSD a APE?" closed="true" %}}
 Flacbox. Obe aplikácie prehrávajú FLAC, ale Flacbox je špecialista na vysoké rozlíšenie a bezstratový zvuk, s natívnou podporou FLAC, ALAC, DSD (DSF/DFF), APE, WavPack (WV), TTA, OPUS a ďalších cez FFmpeg a jeho engine BASS™. Ponúka tiež jemnejšie ovládanie výstupu na kritické počúvanie.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Ktorá aplikácia má viac audio efektov a DSP reťazec?" closed="true" %}}
+{{% ls-details title="Ktorá aplikácia má viac audio efektov a DSP reťazec?" closed="true" %}}
 Flacbox. Evermusic má 6 efektov (Reverb, Delay, Distortion, Compressor, Crossfeed a Normalizácia hlasitosti). Flacbox má 11 efektov (pridáva Chorus, Flanger, Phaser, Auto-Wah, Stereo rotation a Multi-tap echo) plus budovateľný DSP reťazec so 14 filtrami. DSP reťazec je exkluzívny pre Flacbox.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Podporujú obe aplikácie rovnaké cloudové služby, mediálne servery a CarPlay?" closed="true" %}}
+{{% ls-details title="Podporujú obe aplikácie rovnaké cloudové služby, mediálne servery a CarPlay?" closed="true" %}}
 Áno. Evermusic a Flacbox sa pripájajú k rovnakému cloudovému úložisku (iCloud Drive, Google Drive, Dropbox, OneDrive, MEGA, pCloud, Internxt, Proton Drive a ďalšie), k rovnakým mediálnym serverom (Plex, Subsonic, Navidrome, Jellyfin, Emby) a k rovnakým protokolom počítača a NAS (SMB, WebDAV, FTP, SFTP, NFS, DLNA), s natívnou podporou pre QNAP, Synology, Nextcloud a WD My Cloud Home. Oboje tiež podporuje Apple CarPlay, AirPlay a Google Chromecast.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Dokáže Evermusic prehrávať moju knižnicu Apple Music alebo iTunes?" closed="true" %}}
+{{% ls-details title="Dokáže Evermusic prehrávať moju knižnicu Apple Music alebo iTunes?" closed="true" %}}
 Áno. Evermusic dokáže importovať a prehrávať hudbu z vašej knižnice Apple Music / iTunes popri cloudových a sieťových zdrojoch. Flacbox je navrhnutý pre vaše vlastné súbory z cloudu, NAS a lokálneho úložiska a knižnicu Apple Music neimportuje.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Môžem používať Evermusic a Flacbox spolu?" closed="true" %}}
+{{% ls-details title="Môžem používať Evermusic a Flacbox spolu?" closed="true" %}}
 Áno a mnohí ľudia to robia. Bežné nastavenie je Evermusic na každodenné, plynulé prehrávanie a prístup ku knižnici Apple Music a Flacbox na kritické počúvanie vo vysokom rozlíšení s enginom BASS, efektmi a DSP reťazcom. Oboje číta z rovnakých cloudových a NAS zdrojov, takže vaša knižnica je dostupná v ktorejkoľvek aplikácii. Oboje je zadarmo na stiahnutie s voliteľnými Premium aktualizáciami v aplikácii.
-{{% /details %}}
+{{% /ls-details %}}

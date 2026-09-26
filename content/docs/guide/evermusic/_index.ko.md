@@ -72,19 +72,19 @@ Evermusic에는 iPod 스타일 프리셋(Acoustic, Bass Booster, Classical, Danc
 
 
 {{< cards >}}
-  {{< card icon="location-marker" title="탐색" subtitle="iPhone의 탭 바 또는 iPad와 Mac의 왼쪽 메뉴를 사용하여 Evermusic를 탐색하는 방법을 알아보세요." link="/docs/guide/evermusic/evermusic-guide-navigation" >}}
+  {{< ls-card icon="location-marker" title="탐색" subtitle="iPhone의 탭 바 또는 iPad와 Mac의 왼쪽 메뉴를 사용하여 Evermusic를 탐색하는 방법을 알아보세요." link="/docs/guide/evermusic/evermusic-guide-navigation" >}}
 
-  {{< card icon="cloud" title="연결하기" subtitle="클라우드 계정을 연결하고 내장 파일 관리자를 사용하여 온라인 파일을 관리하세요." link="/docs/guide/evermusic/evermusic-guide-connections" >}}
+  {{< ls-card icon="cloud" title="연결하기" subtitle="클라우드 계정을 연결하고 내장 파일 관리자를 사용하여 온라인 파일을 관리하세요." link="/docs/guide/evermusic/evermusic-guide-connections" >}}
 
-  {{< card icon="collection" title="음악 라이브러리" subtitle="음악 라이브러리에서 트랙, 앨범, 아티스트를 정리하고 탐색하세요." link="/docs/guide/evermusic/evermusic-guide-music-library" >}}
+  {{< ls-card icon="collection" title="음악 라이브러리" subtitle="음악 라이브러리에서 트랙, 앨범, 아티스트를 정리하고 탐색하세요." link="/docs/guide/evermusic/evermusic-guide-music-library" >}}
 
-  {{< card icon="music-note" title="재생 목록" subtitle="기분이나 상황에 맞게 플레이리스트를 만들고 정리하세요." link="/docs/guide/evermusic/evermusic-guide-playlists" >}}
+  {{< ls-card icon="music-note" title="재생 목록" subtitle="기분이나 상황에 맞게 플레이리스트를 만들고 정리하세요." link="/docs/guide/evermusic/evermusic-guide-playlists" >}}
 
-  {{< card icon="folder" title="로컬 파일" subtitle="로컬 파일 섹션을 통해 오프라인 음악에 접근하고 관리하세요." link="/docs/guide/evermusic/evermusic-guide-local-files" >}}
+  {{< ls-card icon="folder" title="로컬 파일" subtitle="로컬 파일 섹션을 통해 오프라인 음악에 접근하고 관리하세요." link="/docs/guide/evermusic/evermusic-guide-local-files" >}}
 
-  {{< card icon="play" title="오디오 플레이어" subtitle="재생, 대기열, 이퀄라이저 및 수면 타이머와 같은 오디오 설정을 제어하세요." link="/docs/guide/evermusic/evermusic-guide-player" >}}
+  {{< ls-card icon="play" title="오디오 플레이어" subtitle="재생, 대기열, 이퀄라이저 및 수면 타이머와 같은 오디오 설정을 제어하세요." link="/docs/guide/evermusic/evermusic-guide-player" >}}
 
-  {{< card icon="adjustments" title="설정" subtitle="Evermusic의 외관, 기능, 성능 설정을 사용자 지정하세요." link="/docs/guide/evermusic/evermusic-guide-settings" >}}
+  {{< ls-card icon="adjustments" title="설정" subtitle="Evermusic의 외관, 기능, 성능 설정을 사용자 지정하세요." link="/docs/guide/evermusic/evermusic-guide-settings" >}}
 
-  {{< card icon="question-mark-circle" title="FAQ" subtitle="FAQ 섹션에서 일반적인 질문에 대한 빠른 답변을 찾으세요." link="/docs/faq/evermusic" >}}
+  {{< ls-card icon="question-mark-circle" title="FAQ" subtitle="FAQ 섹션에서 일반적인 질문에 대한 빠른 답변을 찾으세요." link="/docs/faq/evermusic" >}}
 {{< /cards >}}

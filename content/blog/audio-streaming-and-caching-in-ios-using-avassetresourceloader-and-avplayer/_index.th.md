@@ -12,7 +12,7 @@ authors:
     image: "/images/about/artem-meleshko-founder-everappz.webp"
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 ![](/blog/audio-streaming-and-caching-in-ios-using-avassetresourceloader-and-avplayer/diagram.png)
 
@@ -140,18 +140,18 @@ self.player = [AVPlayer playerWithPlayerItem:item];
 
 ## คำถามที่พบบ่อย
 
-{{% details title="ควรใช้ AVAssetResourceLoaderDelegate แทน URL โดยตรงเมื่อใด?" closed="true" %}}
+{{% ls-details title="ควรใช้ AVAssetResourceLoaderDelegate แทน URL โดยตรงเมื่อใด?" closed="true" %}}
 ใช้เมื่อบริการคลาวด์ต้องการ header การยืนยันตัวตนแบบกำหนดเอง เมื่อคุณต้องการแคชบนดิสก์สำหรับเสียงสตรีม หรือเมื่อต้องการควบคุมอย่างละเอียดว่าข้อมูลถูกโหลดและบัฟเฟอร์อย่างไร
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="วิธีนี้ใช้กับ Swift ได้หรือไม่?" closed="true" %}}
+{{% ls-details title="วิธีนี้ใช้กับ Swift ได้หรือไม่?" closed="true" %}}
 ใช่ โปรโตคอล `AVAssetResourceLoaderDelegate` ทำงานในลักษณะเดียวกันใน Swift ตัวอย่าง Objective-C ที่นี่สามารถแปลได้โดยตรง
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="ใช้สิ่งนี้สำหรับการสตรีมวิดีโอได้หรือไม่?" closed="true" %}}
+{{% ls-details title="ใช้สิ่งนี้สำหรับการสตรีมวิดีโอได้หรือไม่?" closed="true" %}}
 ใช่ `AVAssetResourceLoaderDelegate` ทำงานกับสื่อทุกประเภทที่ AVPlayer รองรับ รวมถึงวิดีโอ วิธี custom scheme เดียวกันใช้ได้
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="รองรับการเล่นเสียงในพื้นหลังหรือไม่?" closed="true" %}}
+{{% ls-details title="รองรับการเล่นเสียงในพื้นหลังหรือไม่?" closed="true" %}}
 ใช่ ตราบใดที่คุณเปิดใช้โหมดพื้นหลัง "Audio, AirPlay, and Picture in Picture" ในความสามารถของแอป และกำหนดค่า `AVAudioSession` อย่างถูกต้อง
-{{% /details %}}
+{{% /ls-details %}}

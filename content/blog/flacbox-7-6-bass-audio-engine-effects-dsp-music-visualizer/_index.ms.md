@@ -12,7 +12,7 @@ authors:
     image: "/images/about/artem-meleshko-founder-everappz.webp"
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 **Ringkasan:** [Flacbox 7.6](/products/flacbox) ialah kemas kini terbesar kami setakat ini untuk pemain audio hi-res iPhone, iPad, dan Mac, dan ia dibina di sekeliling **enjin audio BASS™** yang serba baharu untuk mendengar lossless dan resolusi tinggi. Anda boleh memilih enjin BASS™ sebagai teras main balik alternatif untuk membuka satu rantaian penuh **kesan audio masa nyata**, **pemproses DSP 14 penapis**, **visualizer muzik skrin penuh langsung**, dan main balik **muzik tracker dan MOD** klasik (MOD, XM, IT, S3M, MTM, UMX, MO3). Kemas kini ini juga menambah **pelarasan kelantangan automatik berasaskan kelantangan**, **suite studio sebelas kesan** (reverb, delay, gema berbilang tap, chorus, flanger, phaser, auto-wah, distortion, compressor, putaran stereo, dan crossfeed), **reka bentuk kesan dan penyama grafik yang diperbaharui** dengan peluncur bergaya kaca moden, dan **penambahbaikan CarPlay** termasuk tetapan DSP di dalam kereta serta kawalan skrin kunci, jam tangan, dan kereta yang lebih tepat. Di sebalik tabir: asas penstriman yang lebih boleh dipercayai, pengendalian jenis fail yang lebih baik, penyetempatan yang lebih luas, dan banyak pembaikan kestabilan serta prestasi.
 
@@ -139,50 +139,50 @@ Terima kasih kerana menggunakan Flacbox. Muzik anda kini berbunyi hebat dan keli
 
 ## Soalan Lazim
 
-{{% details title="Apa yang baharu dalam Flacbox 7.6?" closed="true" %}}
+{{% ls-details title="Apa yang baharu dalam Flacbox 7.6?" closed="true" %}}
 Flacbox 7.6 menambah **enjin audio BASS™** profesional baharu yang boleh anda pilih sebagai teras main balik alternatif, **pelarasan kelantangan automatik berasaskan kelantangan**, **suite studio sebelas kesan** (reverb, delay, gema berbilang tap, chorus, flanger, phaser, auto-wah, distortion, compressor, putaran stereo, dan crossfeed), **pemproses DSP masa nyata 14 penapis**, **visualizer muzik masa nyata skrin penuh**, main balik **tracker dan MOD** asli (MOD, XM, IT, S3M, MTM, UMX, MO3), **reka bentuk kesan dan penyama grafik yang diperbaharui**, dan **penambahbaikan CarPlay**. Ia juga termasuk asas penstriman yang lebih boleh dipercayai, pengendalian jenis fail yang lebih baik, penyetempatan yang lebih luas, dan banyak pembaikan kestabilan serta prestasi.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Apakah enjin audio BASS™ baharu dalam Flacbox?" closed="true" %}}
+{{% ls-details title="Apakah enjin audio BASS™ baharu dalam Flacbox?" closed="true" %}}
 Enjin audio [BASS™](https://www.un4seen.com), yang dibina di atas pustaka audio BASS™ daripada un4seen Developments, ialah teras main balik profesional yang boleh anda pilih sebagai **alternatif kepada enjin sedia ada Flacbox**. Memilihnya membuka satu rantaian penuh kesan audio masa nyata, pemproses DSP, dan visualisasi langsung, dan ia menambah main balik muzik tracker dan MOD klasik. Ia memainkan pustaka lossless dan hi-res sedia ada anda (FLAC, DSD, ALAC, APE, dan banyak lagi) dengan **pensampelan semula berkualiti tinggi** dan **kawalan pic dan tempo yang tepat**. Anda boleh beralih semula kepada enjin klasik pada bila-bila masa.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Format audio dan jenis tracker/MOD yang manakah dimainkan oleh Flacbox 7.6?" closed="true" %}}
+{{% ls-details title="Format audio dan jenis tracker/MOD yang manakah dimainkan oleh Flacbox 7.6?" closed="true" %}}
 Flacbox kekal sebagai pemain hi-res dan lossless, mengendalikan **FLAC, DSD, APE, ALAC, WAV, AIFF, MP3, AAC, Opus**, dan banyak lagi. Baharu dalam 7.6, enjin BASS™ juga memainkan **muzik tracker dan modul** klasik: **MOD, XM, IT, S3M, MTM, UMX, dan MO3** — format corak dan sampel yang digunakan dalam muzik chiptune dan demoscene yang kebanyakan pemain iPhone tidak dapat buka.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Bagaimanakah pelarasan kelantangan automatik berfungsi dalam Flacbox?" closed="true" %}}
+{{% ls-details title="Bagaimanakah pelarasan kelantangan automatik berfungsi dalam Flacbox?" closed="true" %}}
 Flacbox 7.6 menggunakan **pengukuran kelantangan EBU R128** (piawaian ITU-R BS.1770) untuk mengekalkan trek daripada album berbeza pada kelantangan dirasai yang konsisten, jadi anda tidak perlu melaraskan kelantangan antara lagu. Bagi **fail tempatan, pustaka anda diimbas dahulu** supaya main balik bermula dalam keadaan sudah dilaraskan — tiada kelewatan semasa aplikasi mengukur kelantangan selepas sesebuah trek bermula. Empat pratetap tersedia — **Ringan** (−20 LUFS), **Standard** (−16 LUFS), **Kuat** (−14 LUFS), dan **Malam** (−23 LUFS) — dan ia berfungsi merentasi pustaka bercampur, kompilasi, dan sesi rombak.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Apakah kesan audio yang ada dalam Flacbox 7.6?" closed="true" %}}
+{{% ls-details title="Apakah kesan audio yang ada dalam Flacbox 7.6?" closed="true" %}}
 Sebelas kesan masa nyata yang boleh anda susun dan tala semasa muzik dimainkan: **reverb, delay, gema berbilang tap, chorus, flanger, phaser, auto-wah, distortion, compressor, putaran stereo, dan crossfeed**. Setiap kesan mempunyai **skrin tersendiri, pustaka pratetap, dan togol hidup/mati serta-merta**, dan Flacbox mengingati tetapan anda antara sesi. Crossfeed khususnya menjadikan rakaman yang dipan keras berbunyi lebih semula jadi pada fon kepala.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Apakah pemproses DSP dan penapis manakah yang disertakannya?" closed="true" %}}
+{{% ls-details title="Apakah pemproses DSP dan penapis manakah yang disertakannya?" closed="true" %}}
 Pemproses DSP membolehkan anda **membina rantaian isyarat masa nyata anda sendiri daripada 14 penapis**: gain, laluan rendah, laluan tinggi, penapis laluan jalur dan takuk, EQ puncak, EQ para rendah dan para tinggi, ketepuan soft-clip, bit crusher, tremolo, delay, ring modulator, dan kelebaran stereo. Setiap penapis mempunyai **pratetap dan togol hidup/mati serta-merta**, jadi anda boleh membetulkan sesebuah bilik, menjinakkan rakaman yang keras, atau mereka bentuk nada yang benar-benar tersuai.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Apakah crossfeed dan mengapa saya perlu menggunakannya pada fon kepala?" closed="true" %}}
+{{% ls-details title="Apakah crossfeed dan mengapa saya perlu menggunakannya pada fon kepala?" closed="true" %}}
 Crossfeed mengadun sedikit jumlah tertapis setiap saluran stereo ke dalam yang lain, sebagaimana telinga anda secara semula jadi mendengar pembesar suara sebenar dalam sesebuah bilik. Pada fon kepala, ini mengurangkan pemisahan berlebihan dan 'di dalam kepala' bagi rakaman yang dipan keras serta menjadikan mendengar lama lebih selesa. Ia amat berkesan pada rakaman stereo lama tahun 1960-an dan 1970-an.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Adakah visualizer muzik Flacbox berfungsi pada semua peranti?" closed="true" %}}
+{{% ls-details title="Adakah visualizer muzik Flacbox berfungsi pada semua peranti?" closed="true" %}}
 Ya. **Visualizer muzik masa nyata** memaparkan visual beranimasi skrin penuh yang bertindak balas secara langsung terhadap muzik anda, dengan pustaka pratetap yang besar yang boleh anda pilih atau biarkan berkitar secara automatik. Ia **tersedia merentasi enjin main balik pada semua peranti anda**, dan **pencegah tidur skrin** terbina dalam memastikan paparan kekal terjaga supaya visual tidak terputus semasa sesebuah lagu.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Bolehkah saya mengubah pic dan tempo tanpa menjejaskan yang satu lagi?" closed="true" %}}
+{{% ls-details title="Bolehkah saya mengubah pic dan tempo tanpa menjejaskan yang satu lagi?" closed="true" %}}
 Ya. Apabila anda menggunakan enjin BASS™ baharu, Flacbox 7.6 menawarkan **kawalan pic dan tempo yang tepat dan bebas** — ubah kelajuan sesebuah trek tanpa mengubah kekuncinya, atau alih kekunci tanpa mengubah kelajuan. Ia berguna untuk latihan, transkripsi, dan mendengar bergaya DJ.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Apakah yang bertambah baik dalam CarPlay pada Flacbox 7.6?" closed="true" %}}
+{{% ls-details title="Apakah yang bertambah baik dalam CarPlay pada Flacbox 7.6?" closed="true" %}}
 CarPlay kini menyertakan **tetapan DSP** supaya anda boleh mencapai konfigurasi anda dari dalam kereta, **karya seni album dan Now Playing yang dibaiki**, dan **kawalan skrin kunci, Apple Watch, dan kereta yang lebih tepat** yang kekal segerak dengan main balik. Digabungkan dengan asas penstriman yang lebih boleh dipercayai, mendengar pustaka lossless anda semasa memandu menjadi lebih lancar.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Adakah kesan, DSP, dan penyama grafik berfungsi dengan penstriman awan?" closed="true" %}}
+{{% ls-details title="Adakah kesan, DSP, dan penyama grafik berfungsi dengan penstriman awan?" closed="true" %}}
 Ya. Kesan, penapis DSP, penyama grafik, dan pelarasan kelantangan berjalan dalam masa nyata di dalam enjin main balik BASS™, jadi ia digunakan pada segala yang dimainkan Flacbox — **fail tempatan, pemacu awan (iCloud Drive, Google Drive, Dropbox, OneDrive, dan banyak lagi), pelayan media, dan perkongsian rangkaian** — tanpa mengekod semula fail anda.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Adakah Flacbox 7.6 kemas kini percuma, dan peranti manakah yang disokongnya?" closed="true" %}}
+{{% ls-details title="Adakah Flacbox 7.6 kemas kini percuma, dan peranti manakah yang disokongnya?" closed="true" %}}
 Ya. Flacbox ialah **muat turun percuma** dari App Store, dan 7.6 ialah **kemas kini percuma** untuk pengguna sedia ada, dengan naik taraf dalam aplikasi pilihan untuk ciri lanjutan. Ia berjalan pada **iPhone, iPad, dan Mac**. CarPlay memerlukan kenderaan atau unit kepala yang serasi dengan CarPlay.
-{{% /details %}}
+{{% /ls-details %}}

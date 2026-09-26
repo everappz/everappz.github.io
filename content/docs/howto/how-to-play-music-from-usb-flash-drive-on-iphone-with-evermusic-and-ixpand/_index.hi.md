@@ -7,7 +7,7 @@ tags: ["संगीत", "usb", "बाहरी", "ixpand", "sandisk", "iphone
 readingTime: 3
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **सारांश:** Evermusic आपको SanDisk iXpand Flash Drive से सीधे अपने iPhone या iPad पर संगीत चलाने की सुविधा देता है। ड्राइव को कनेक्ट करें, Evermusic खोलें और सुनना शुरू करें -- फ़ाइलों को अपने डिवाइस में कॉपी करने की कोई आवश्यकता नहीं है। फ़ाइल प्रबंधन, प्लेलिस्ट, इक्वलाइज़र और AirPlay स्ट्रीमिंग का समर्थन करता है।
@@ -69,22 +69,22 @@ Evermusic और SanDisk iXpand Flash Drive के साथ, आपको स�
 
 ## अक्सर पूछे जाने वाले प्रश्न
 
-{{% details title="Evermusic किन iXpand Flash Drive मॉडल का समर्थन करता है?" closed="true" %}}
+{{% ls-details title="Evermusic किन iXpand Flash Drive मॉडल का समर्थन करता है?" closed="true" %}}
 Evermusic V1, V2, V3, V6 और V7 प्रोटोकॉल वाले SanDisk iXpand Flash Drive का समर्थन करता है। आप अपने iPhone की सेटिंग्स में सामान्य > बारे में > iXpand Flash Drive के अंतर्गत संगतता की जांच कर सकते हैं।
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="क्या मैं अपने iPhone में फ़ाइलें कॉपी किए बिना USB ड्राइव से संगीत चला सकता हूं?" closed="true" %}}
+{{% ls-details title="क्या मैं अपने iPhone में फ़ाइलें कॉपी किए बिना USB ड्राइव से संगीत चला सकता हूं?" closed="true" %}}
 हां। Evermusic iXpand Flash Drive से सीधे ऑडियो फ़ाइलें चलाता है। आपके डिवाइस के आंतरिक स्टोरेज में कुछ भी कॉपी करने की आवश्यकता नहीं है।
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Evermusic USB ड्राइव से किन ऑडियो प्रारूपों का समर्थन करता है?" closed="true" %}}
+{{% ls-details title="Evermusic USB ड्राइव से किन ऑडियो प्रारूपों का समर्थन करता है?" closed="true" %}}
 Evermusic MP3, FLAC, AAC, WAV, AIFF, OGG और अन्य सहित सभी प्रमुख ऑडियो प्रारूपों का समर्थन करता है। आपके iXpand ड्राइव पर संग्रहीत कोई भी ऑडियो फ़ाइल सीधे चलाई जा सकती है।
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="क्या मैं iXpand ड्राइव से AirPlay स्पीकर पर संगीत स्ट्रीम कर सकता हूं?" closed="true" %}}
+{{% ls-details title="क्या मैं iXpand ड्राइव से AirPlay स्पीकर पर संगीत स्ट्रीम कर सकता हूं?" closed="true" %}}
 हां। USB ड्राइव से संगीत चलाते समय, आप Sonos स्पीकर, Apple TV और Google Chromecast जैसे AirPlay-संगत उपकरणों पर ऑडियो स्ट्रीम कर सकते हैं।
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="यदि मेरी iXpand ड्राइव पहचानी नहीं जाती है तो मुझे क्या करना चाहिए?" closed="true" %}}
+{{% ls-details title="यदि मेरी iXpand ड्राइव पहचानी नहीं जाती है तो मुझे क्या करना चाहिए?" closed="true" %}}
 सुनिश्चित करें कि कोई अन्य ऐप ड्राइव का उपयोग नहीं कर रहा है। इसे अनप्लग करके फिर से कनेक्ट करने का प्रयास करें। यदि आपका मॉडल समर्थित नहीं है, तो ड्राइव को मानक USB डिवाइस के रूप में कनेक्ट करने के लिए Apple Lightning से USB एडाप्टर का उपयोग करें।
-{{% /details %}}
+{{% /ls-details %}}

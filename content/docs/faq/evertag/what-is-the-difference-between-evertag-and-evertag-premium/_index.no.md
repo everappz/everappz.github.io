@@ -11,7 +11,7 @@ tags: ["Evertag", "Premium", "Forskjell", "Pro", "Gratis vs Betalt", "Tag-editor
 Evertag og Evertag Premium er to versjoner av den samme kraftige tag-redigeringsappen. Mens Evertag Free gir deg tilgang til essensielle metadataredigeringsverktøy, låser Evertag Premium opp den fulle opplevelsen — reklamefri, ubegrenset og tilpasbar.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evertag Upgrade To Premium Screen" image="/docs/faq/evertag/what-is-the-difference-between-evertag-and-evertag-premium/upgrade-to-premium.webp" >}}
+  {{< ls-card title="" subtitle="Evertag Upgrade To Premium Screen" image="/docs/faq/evertag/what-is-the-difference-between-evertag-and-evertag-premium/upgrade-to-premium.webp" >}}
 {{< /cards >}}
 
 ## Velg din Premium-plan
@@ -19,7 +19,7 @@ Evertag og Evertag Premium er to versjoner av den samme kraftige tag-redigerings
 Den gratis versjonen av applikasjonen tilbyr et engangs levetidskjøp i appen og to abonnementsalternativer (1 måned og 1 år) for å fjerne alle begrensninger og oppgradere til Premium-versjonen, slik at du kan velge den beste og mest optimale prisen for deg. Priser kan variere avhengig av land eller region. Vær også oppmerksom på at **Family Sharing** er **aktivert** for alle kjøp og planer, slik at du kan dele Premium-versjonen med medlemmer av familien din.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evertag Select Your Premium Plan Screen" image="/docs/faq/evertag/what-is-the-difference-between-evertag-and-evertag-premium/select-your-plan.webp" >}}
+  {{< ls-card title="" subtitle="Evertag Select Your Premium Plan Screen" image="/docs/faq/evertag/what-is-the-difference-between-evertag-and-evertag-premium/select-your-plan.webp" >}}
 {{< /cards >}}
 
 ## Dele kjøp mellom iOS og Mac
@@ -79,7 +79,7 @@ Når du oppgraderer appen, vil du se Premium-statusskjermen med detaljer om de g
 Du kan oppgradere til Premium-versjonen gratis, men bare for en begrenset tid ved hjelp av menyen "Prøv premium gratis". Se bare en annonse eller fortell vennene dine om denne appen for å få Premium-versjonen gratis.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evertag Try Premium For Free Screen" image="/docs/faq/evertag/what-is-the-difference-between-evertag-and-evertag-premium/try-premium-for-free.webp" >}}
+  {{< ls-card title="" subtitle="Evertag Try Premium For Free Screen" image="/docs/faq/evertag/what-is-the-difference-between-evertag-and-evertag-premium/try-premium-for-free.webp" >}}
 {{< /cards >}}
 
 ## Hva skal man velge?

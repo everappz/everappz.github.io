@@ -28,19 +28,19 @@ Acest ghid îți explică fiecare parte a aplicației, pas cu pas. Alege o secț
 
 
 {{< cards >}}
-  {{< card icon="play" title="Partajare" subtitle="Apeși Start, alegi ce vrei să partajezi și pornești toate cele cinci servere deodată. Învață ecranul de Partajare de la cap la coadă." link="/docs/guide/everdisk/everdisk-guide-sharing" >}}
+  {{< ls-card icon="play" title="Partajare" subtitle="Apeși Start, alegi ce vrei să partajezi și pornești toate cele cinci servere deodată. Învață ecranul de Partajare de la cap la coadă." link="/docs/guide/everdisk/everdisk-guide-sharing" >}}
 
-  {{< card icon="desktop-computer" title="Conectează-ți dispozitivele" subtitle="Cum se conectează la fișierele tale partajate un TV, un Mac sau PC, un browser web, un alt telefon sau un cablu USB." link="/docs/guide/everdisk/everdisk-guide-connect" >}}
+  {{< ls-card icon="desktop-computer" title="Conectează-ți dispozitivele" subtitle="Cum se conectează la fișierele tale partajate un TV, un Mac sau PC, un browser web, un alt telefon sau un cablu USB." link="/docs/guide/everdisk/everdisk-guide-connect" >}}
 
-  {{< card icon="server" title="Conectează-te la servere" subtitle="Ajunge la alte servere DLNA, WebDAV, FTP, SFTP și SMB și la unități NAS din rețeaua ta ca să răsfoiești, să redai în flux și să descarci." link="/docs/guide/everdisk/everdisk-guide-devices" >}}
+  {{< ls-card icon="server" title="Conectează-te la servere" subtitle="Ajunge la alte servere DLNA, WebDAV, FTP, SFTP și SMB și la unități NAS din rețeaua ta ca să răsfoiești, să redai în flux și să descarci." link="/docs/guide/everdisk/everdisk-guide-devices" >}}
 
-  {{< card icon="folder" title="Fișiere și documente" subtitle="Răsfoiește, creează foldere, redenumește, mută, copiază și șterge, arhivează și dezarhivează, conectează foldere externe și scanează în PDF." link="/docs/guide/everdisk/everdisk-guide-files" >}}
+  {{< ls-card icon="folder" title="Fișiere și documente" subtitle="Răsfoiește, creează foldere, redenumește, mută, copiază și șterge, arhivează și dezarhivează, conectează foldere externe și scanează în PDF." link="/docs/guide/everdisk/everdisk-guide-files" >}}
 
-  {{< card icon="music-note" title="Fotografii, muzică și video" subtitle="Partajează întreaga bibliotecă de fotografii și muzică, ascultă audio în mini playerul și urmărește video pe tot ecranul." link="/docs/guide/everdisk/everdisk-guide-media" >}}
+  {{< ls-card icon="music-note" title="Fotografii, muzică și video" subtitle="Partajează întreaga bibliotecă de fotografii și muzică, ascultă audio în mini playerul și urmărește video pe tot ecranul." link="/docs/guide/everdisk/everdisk-guide-media" >}}
 
-  {{< card icon="lock-closed" title="Acces și confidențialitate" subtitle="Protejează partajarea cu utilizator și parolă, permite sau blochează editarea, blochează dispozitive și păstrează totul local." link="/docs/guide/everdisk/everdisk-guide-access" >}}
+  {{< ls-card icon="lock-closed" title="Acces și confidențialitate" subtitle="Protejează partajarea cu utilizator și parolă, permite sau blochează editarea, blochează dispozitive și păstrează totul local." link="/docs/guide/everdisk/everdisk-guide-access" >}}
 
-  {{< card icon="adjustments" title="Setări" subtitle="Fiecare setare explicată: profilul dispozitivului, conexiuni, calitatea fotografiilor și videoclipurilor, porturi, transferuri și multe altele." link="/docs/guide/everdisk/everdisk-guide-settings" >}}
+  {{< ls-card icon="adjustments" title="Setări" subtitle="Fiecare setare explicată: profilul dispozitivului, conexiuni, calitatea fotografiilor și videoclipurilor, porturi, transferuri și multe altele." link="/docs/guide/everdisk/everdisk-guide-settings" >}}
 
-  {{< card icon="question-mark-circle" title="Întrebări frecvente" subtitle="Răspunsuri rapide la cele mai frecvente întrebări și la scenarii din viața reală." link="/docs/faq/everdisk" >}}
+  {{< ls-card icon="question-mark-circle" title="Întrebări frecvente" subtitle="Răspunsuri rapide la cele mai frecvente întrebări și la scenarii din viața reală." link="/docs/faq/everdisk" >}}
 {{< /cards >}}

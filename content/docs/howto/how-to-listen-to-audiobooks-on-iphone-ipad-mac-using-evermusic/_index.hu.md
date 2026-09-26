@@ -7,7 +7,7 @@ tags: ["hangoskönyvek", "lejátszás", "offline", "evermusic", "könyvjelző"]
 readingTime: 5
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **Röviden:** Az Evermusic teljes értékű hangoskönyv-lejátszóként is működik iOS-en és macOS-en. Vigye át hangoskönyveit iTunes-on, WiFi-n vagy felhőtárolón keresztül, majd használja a lejátszási sebesség szabályozást, az ugró gombokat, az audio könyvjelzőket, a lejátszás folytatását és az offline letöltéseket a zökkenőmentes hallgatási élményhez.
@@ -151,26 +151,26 @@ Kellemes hallgatást!
 
 ## Gyakran ismételt kérdések
 
-{{% details title="Milyen hangoskönyv-formátumokat támogat az Evermusic?" closed="true" %}}
+{{% ls-details title="Milyen hangoskönyv-formátumokat támogat az Evermusic?" closed="true" %}}
 Az Evermusic támogatja az MP3, M4A, M4B, FLAC, WAV, AIFF, OGG és más általános audio formátumokat. Bármely audio fájl, amely lejátszható az Evermusic-ban, hangoskönyvként is működik.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Hallgathatok hangoskönyveket felhőtárolóból?" closed="true" %}}
+{{% ls-details title="Hallgathatok hangoskönyveket felhőtárolóból?" closed="true" %}}
 Igen. Az Evermusic csatlakozik az iCloud Drive-hoz, Google Drive-hoz, Dropboxhoz, OneDrive-hoz, Boxhoz és WebDAV szerverekhez. Hangoskönyveit közvetlenül streamelheti, vagy letöltheti offline hallgatáshoz.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Átkerülnek a könyvjelzőim egy új eszközre?" closed="true" %}}
+{{% ls-details title="Átkerülnek a könyvjelzőim egy új eszközre?" closed="true" %}}
 Igen. Az Evermusic az audio könyvjelzőket a fájl metaadataiban menti, így automatikusan átkerülnek, amikor fájljait új eszközre viszi.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Emlékszik az Evermusic, hol hagytam abba a hallgatást?" closed="true" %}}
+{{% ls-details title="Emlékszik az Evermusic, hol hagytam abba a hallgatást?" closed="true" %}}
 Igen. Engedélyezze a "Lejátszási pozíció mentése" és az "Audiolejátszó állapotának mentése" opciókat a Beállítások > Audiolejátszó > Általános menüpontban. Az alkalmazás elmenti és visszaállítja pontos pozícióját a munkamenetek között.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Beállíthatom a hangoskönyv lejátszási sebességét?" closed="true" %}}
+{{% ls-details title="Beállíthatom a hangoskönyv lejátszási sebességét?" closed="true" %}}
 Igen. Lépjen a Beállítások > Audiolejátszó > Lejátszási sebesség menüpontra a kívánt sebesség beállításához. Felgyorsíthatja vagy lelassíthatja a narrációt hallgatási preferenciájának megfelelően.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Hogyan vihetem át hangoskönyveimet az Evermusic-ba?" closed="true" %}}
+{{% ls-details title="Hogyan vihetem át hangoskönyveimet az Evermusic-ba?" closed="true" %}}
 Fájlokat vihet át az iTunes/Finder fájlmegosztáson, WiFi Drive-on (az alkalmazásba beépítve) vagy felhőtárolási fiók csatlakoztatásával az Evermusic-on belül.
-{{% /details %}}
+{{% /ls-details %}}

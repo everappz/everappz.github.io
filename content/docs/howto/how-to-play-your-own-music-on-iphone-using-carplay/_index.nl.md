@@ -7,7 +7,7 @@ tags: ["carplay", "iphone", "lokale muziek", "offline afspelen", "evermusic", "f
 readingTime: 5
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **TL;DR:** Gebruik [Evermusic](https://apps.apple.com/app/apple-store/id885367198?pt=95781850&ct=everappzcom&mt=8) of [Flacbox](https://apps.apple.com/app/apple-store/id1097564256?pt=95781850&ct=everappzcom&mt=8) om je eigen MP3-, FLAC- of andere audiobestanden op je iPhone af te spelen via Apple CarPlay. Voeg muziek toe vanuit cloudopslag, USB of Wi-Fi-overdracht en blader vervolgens door je bibliotheek, afspeellijsten en mappen direct op het scherm van je auto.
@@ -17,7 +17,7 @@ readingTime: 5
 Wil je je eigen muziek afspelen in de auto met Apple CarPlay? Of je nummers nu op je iPhone staan, in cloudopslag of offline — apps zoals **Evermusic** en **Flacbox** maken het gemakkelijk om naar je persoonlijke muziekcollectie te luisteren tijdens het rijden.
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="CarPlay Wachtrij" image="/docs/howto/how-to-play-your-own-music-on-iphone-using-carplay/carplay-nowplaying-5.webp" imageStyle="border-radius: clamp(14px, 2vw, 28px);" >}}
+{{< ls-card title="" subtitle="CarPlay Wachtrij" image="/docs/howto/how-to-play-your-own-music-on-iphone-using-carplay/carplay-nowplaying-5.webp" imageStyle="border-radius: clamp(14px, 2vw, 28px);" >}}
 {{< /cards >}}
 
 In deze handleiding laten we je zien hoe je je muziekbestanden voorbereidt voor CarPlay, ze organiseert met correcte albumhoezen en trackinformatie, en ze veilig afspeelt vanaf je iPhone. Met Evermusic of Flacbox kun je afspeellijsten maken en nummers streamen of downloaden van diensten zoals **Google Drive**, **Dropbox**, **OneDrive**, **NAS** of je thuiscomputer.
@@ -25,8 +25,8 @@ In deze handleiding laten we je zien hoe je je muziekbestanden voorbereidt voor 
 Deze apps zijn perfect voor iedereen die volledige controle wil over zijn muziekbibliotheek.
 
 {{< cards cols="2">}}
-{{< card link="https://apps.apple.com/app/apple-store/id885367198?pt=95781850&ct=everappzcom&mt=8" title="Download Evermusic" icon="download" tag="Free" >}}
-{{< card link="https://apps.apple.com/app/apple-store/id1097564256?pt=95781850&ct=everappzcom&mt=8" title="Download Flacbox" icon="download" tag="Free" >}}
+{{< ls-card link="https://apps.apple.com/app/apple-store/id885367198?pt=95781850&ct=everappzcom&mt=8" title="Download Evermusic" icon="download" tag="Free" >}}
+{{< ls-card link="https://apps.apple.com/app/apple-store/id1097564256?pt=95781850&ct=everappzcom&mt=8" title="Download Flacbox" icon="download" tag="Free" >}}
 {{< /cards >}}
 
 ## Bestanden toevoegen aan de app
@@ -106,7 +106,7 @@ Bestanden draadloos overdragen zoals [hier](/docs/howto/how-to-transfer-files-wi
 Zodra je onze apps Evermusic of Flacbox hebt gestart met CarPlay-modus, zie je de hoofdinterface verdeeld over 4 hoofdtabbladen: Bibliotheek, **Verbindingen**, Lokale bestanden, **Instellingen**.
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="CarPlay Hoofdmenu" image="/docs/howto/how-to-play-your-own-music-on-iphone-using-carplay/library-with-images.webp" imageStyle="border-radius: clamp(14px, 2vw, 28px);" >}}
+{{< ls-card title="" subtitle="CarPlay Hoofdmenu" image="/docs/howto/how-to-play-your-own-music-on-iphone-using-carplay/library-with-images.webp" imageStyle="border-radius: clamp(14px, 2vw, 28px);" >}}
 {{< /cards >}}
 
 ## Bibliotheek
@@ -116,7 +116,7 @@ Het tabblad **Bibliotheek** in Evermusic is het centrale punt waar al je muziek 
 Dit scherm geeft je snel toegang tot je favorieten, recente nummers, afspeellijsten, bladwijzers en alle toegevoegde nummers. Je kunt ook het afspelen hervatten vanaf je laatste sessie, onbeluisterde nummers bekijken en muziek verkennen op tags of brontype.
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Bibliotheek" image="/docs/howto/how-to-play-your-own-music-on-iphone-using-carplay/library-with-images-3.webp" imageStyle="border-radius: clamp(14px, 2vw, 28px);" >}}
+{{< ls-card title="" subtitle="Bibliotheek" image="/docs/howto/how-to-play-your-own-music-on-iphone-using-carplay/library-with-images-3.webp" imageStyle="border-radius: clamp(14px, 2vw, 28px);" >}}
 {{< /cards >}}
 
 De sectie **Bibliotheek** bevat de volgende categorieën:
@@ -139,7 +139,7 @@ De sectie **Bibliotheek** bevat de volgende categorieën:
 - **Online bestanden** – Muziek rechtstreeks gestreamd vanuit clouddiensten
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Albums weergave" image="/docs/howto/how-to-play-your-own-music-on-iphone-using-carplay/albums.webp" imageStyle="border-radius: clamp(14px, 2vw, 28px);" >}}
+{{< ls-card title="" subtitle="Albums weergave" image="/docs/howto/how-to-play-your-own-music-on-iphone-using-carplay/albums.webp" imageStyle="border-radius: clamp(14px, 2vw, 28px);" >}}
 {{< /cards >}}
 
 Je kunt elk submenu openen en op een nummer tikken om het afspelen direct te starten. Voor meer details, bekijk de volledige [Muziekbibliotheek Handleiding](/docs/guide/evermusic/evermusic-guide-music-library/).
@@ -150,7 +150,7 @@ Je kunt elk submenu openen en op een nummer tikken om het afspelen direct te sta
 Het tabblad **Verbindingen** is je centrale punt voor het openen en beheren van alle verbonden cloudopslagdiensten en lokale netwerkapparaten.
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Verbindingen" image="/docs/howto/how-to-play-your-own-music-on-iphone-using-carplay/connections-with-images-3.webp" imageStyle="border-radius: clamp(14px, 2vw, 28px);" >}}
+{{< ls-card title="" subtitle="Verbindingen" image="/docs/howto/how-to-play-your-own-music-on-iphone-using-carplay/connections-with-images-3.webp" imageStyle="border-radius: clamp(14px, 2vw, 28px);" >}}
 {{< /cards >}}
 
 Vanaf hier kun je verbinding maken met populaire cloudplatforms zoals Dropbox, Google Drive, OneDrive, MEGA, iCloud Drive en zelfs netwerkschijven zoals SMB, DLNA en WebDAV. Eenmaal verbonden kun je bestanden bladeren, streamen, downloaden en beheren direct vanuit de app.
@@ -172,7 +172,7 @@ Voor meer informatie over alle manieren om je cloud- en netwerkbibliotheken te v
 De sectie **Lokale bestanden** is je centrale punt voor het beheren van audiobestanden die rechtstreeks op je apparaat zijn opgeslagen of in de **Documenten**-map van de Evermusic-app. Het bevat ook offline bestanden die zijn gedownload van cloudopslag, cache-bestanden van de audiospeler en mappen die je beschikbaar hebt gemaakt voor offline afspelen. Deze sectie zorgt ervoor dat je van je muziekbibliotheek kunt genieten, zelfs zonder internetverbinding.
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Lokale bestanden" image="/docs/howto/how-to-play-your-own-music-on-iphone-using-carplay/local-files-with-images.webp" imageStyle="border-radius: clamp(14px, 2vw, 28px);" >}}
+{{< ls-card title="" subtitle="Lokale bestanden" image="/docs/howto/how-to-play-your-own-music-on-iphone-using-carplay/local-files-with-images.webp" imageStyle="border-radius: clamp(14px, 2vw, 28px);" >}}
 {{< /cards >}}
 
 Het scherm **Lokale bestanden** is georganiseerd in de volgende belangrijke secties:
@@ -186,7 +186,7 @@ Het scherm **Lokale bestanden** is georganiseerd in de volgende belangrijke sect
 - **Audiospeler** – Een cachemap die wordt gebruikt voor crossfade en prestatie-optimalisatie. Kan worden uitgeschakeld of gewist in de instellingen.
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Apparaatmappen in Lokale bestanden" image="/docs/howto/how-to-play-your-own-music-on-iphone-using-carplay/local-files-device-folders.webp" imageStyle="border-radius: clamp(14px, 2vw, 28px);" >}}
+{{< ls-card title="" subtitle="Apparaatmappen in Lokale bestanden" image="/docs/howto/how-to-play-your-own-music-on-iphone-using-carplay/local-files-device-folders.webp" imageStyle="border-radius: clamp(14px, 2vw, 28px);" >}}
 {{< /cards >}}
 
 Meer informatie vind je in de volledige [Lokale bestanden Handleiding](/docs/guide/evermusic/evermusic-guide-local-files/).
@@ -194,7 +194,7 @@ Meer informatie vind je in de volledige [Lokale bestanden Handleiding](/docs/gui
 ## Mapweergave
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Lokale map met hoezen" image="/docs/howto/how-to-play-your-own-music-on-iphone-using-carplay/local-folder-with-images-2.webp" imageStyle="border-radius: clamp(14px, 2vw, 28px);" >}}
+{{< ls-card title="" subtitle="Lokale map met hoezen" image="/docs/howto/how-to-play-your-own-music-on-iphone-using-carplay/local-folder-with-images-2.webp" imageStyle="border-radius: clamp(14px, 2vw, 28px);" >}}
 {{< /cards >}}
 
 Wanneer je een map opent, vind je bovenaan een reeks handige acties:
@@ -206,7 +206,7 @@ Wanneer je een map opent, vind je bovenaan een reeks handige acties:
 ## Inhoudsdieptelimiet
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Inhoudsdieptelimiet" image="/docs/howto/how-to-play-your-own-music-on-iphone-using-carplay/content-depth-limit.webp" imageStyle="border-radius: clamp(14px, 2vw, 28px);" >}}
+{{< ls-card title="" subtitle="Inhoudsdieptelimiet" image="/docs/howto/how-to-play-your-own-music-on-iphone-using-carplay/content-depth-limit.webp" imageStyle="border-radius: clamp(14px, 2vw, 28px);" >}}
 {{< /cards >}}
 
 Bij het gebruik van CarPlay kun je een **"Inhoudsdieptelimiet"**-fout tegenkomen — vooral als je muziekbibliotheek veel diep geneste mappen heeft.  
@@ -227,7 +227,7 @@ Deze oplossing zorgt voor een naadloze ervaring bij het bladeren door je muziek 
 ## Nu aan het afspelen
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="CarPlay Nu aan het afspelen" image="/docs/howto/how-to-play-your-own-music-on-iphone-using-carplay/carplay-nowplaying.webp" imageStyle="border-radius: clamp(14px, 2vw, 28px);" >}}
+{{< ls-card title="" subtitle="CarPlay Nu aan het afspelen" image="/docs/howto/how-to-play-your-own-music-on-iphone-using-carplay/carplay-nowplaying.webp" imageStyle="border-radius: clamp(14px, 2vw, 28px);" >}}
 {{< /cards >}}
 
 Na het tikken op een audiobestand wordt het automatisch toegevoegd aan de **afspeelwachtrij**.  
@@ -244,7 +244,7 @@ Dit scherm stelt je in staat om de controle te houden over je luisterervaring ti
 ## Instellingen
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Instellingen Menu" image="/docs/howto/how-to-play-your-own-music-on-iphone-using-carplay/settings-2.webp" imageStyle="border-radius: clamp(14px, 2vw, 28px);" >}}
+{{< ls-card title="" subtitle="Instellingen Menu" image="/docs/howto/how-to-play-your-own-music-on-iphone-using-carplay/settings-2.webp" imageStyle="border-radius: clamp(14px, 2vw, 28px);" >}}
 {{< /cards >}}
 
 De sectie **Instellingen** in de CarPlay-interface stelt je in staat om aan te passen hoe de app zich gedraagt tijdens het rijden. Deze instellingen helpen de prestaties te verbeteren, afleidingen te verminderen en een soepelere luisterervaring te bieden.
@@ -260,7 +260,7 @@ De sectie **Instellingen** in de CarPlay-interface stelt je in staat om aan te p
 - **Sorteren** – Pas aan hoe inhoud wordt gesorteerd in CarPlay-menu's zoals bestanden, muziekbibliotheek en verbindingen.
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Sorteeropties Menu" image="/docs/howto/how-to-play-your-own-music-on-iphone-using-carplay/settings-sort.webp" imageStyle="border-radius: clamp(14px, 2vw, 28px);" >}}
+{{< ls-card title="" subtitle="Sorteeropties Menu" image="/docs/howto/how-to-play-your-own-music-on-iphone-using-carplay/settings-sort.webp" imageStyle="border-radius: clamp(14px, 2vw, 28px);" >}}
 {{< /cards >}}
 
 - **Inhoud laadlimiet** – Stel in hoeveel items per scherm moeten verschijnen. Lagere limieten verbeteren de laadsnelheid en verminderen de scrollmoeite.
@@ -271,19 +271,19 @@ De sectie **Instellingen** in de CarPlay-interface stelt je in staat om aan te p
 - **Audio-equalizer**
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Equalizer configuratiepaneel" image="/docs/howto/how-to-play-your-own-music-on-iphone-using-carplay/settings-eq-configuration.webp" imageStyle="border-radius: clamp(14px, 2vw, 28px);" >}}
+{{< ls-card title="" subtitle="Equalizer configuratiepaneel" image="/docs/howto/how-to-play-your-own-music-on-iphone-using-carplay/settings-eq-configuration.webp" imageStyle="border-radius: clamp(14px, 2vw, 28px);" >}}
 {{< /cards >}}
 
 Schakel de ingebouwde audio-equalizer in, pas frequentiebanden aan en kies uit voorgeconfigureerde presets voor een gepersonaliseerde geluidservaring.
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Equalizer presets lijst" image="/docs/howto/how-to-play-your-own-music-on-iphone-using-carplay/settings-equalizer.webp" imageStyle="border-radius: clamp(14px, 2vw, 28px);" >}}
+{{< ls-card title="" subtitle="Equalizer presets lijst" image="/docs/howto/how-to-play-your-own-music-on-iphone-using-carplay/settings-equalizer.webp" imageStyle="border-radius: clamp(14px, 2vw, 28px);" >}}
 {{< /cards >}}
 
 - **Crossfade afspelen**
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Crossfade afspelen" image="/docs/howto/how-to-play-your-own-music-on-iphone-using-carplay/settings-crossfade-playback.webp" imageStyle="border-radius: clamp(14px, 2vw, 28px);" >}}
+{{< ls-card title="" subtitle="Crossfade afspelen" image="/docs/howto/how-to-play-your-own-music-on-iphone-using-carplay/settings-crossfade-playback.webp" imageStyle="border-radius: clamp(14px, 2vw, 28px);" >}}
 {{< /cards >}}
 
 Creëer vloeiende overgangen tussen nummers door het einde van het ene nummer te laten overlappen met het begin van het volgende. De crossfade-duur kan worden aangepast.
@@ -291,7 +291,7 @@ Creëer vloeiende overgangen tussen nummers door het einde van het ene nummer te
 - **Naadloos afspelen**
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Naadloos afspelen" image="/docs/howto/how-to-play-your-own-music-on-iphone-using-carplay/settings-gapless-playback.webp" imageStyle="border-radius: clamp(14px, 2vw, 28px);" >}}
+{{< ls-card title="" subtitle="Naadloos afspelen" image="/docs/howto/how-to-play-your-own-music-on-iphone-using-carplay/settings-gapless-playback.webp" imageStyle="border-radius: clamp(14px, 2vw, 28px);" >}}
 {{< /cards >}}
 
 Speel nummers naadloos af zonder pauzes — ideaal voor live-opnames, DJ-mixen en conceptalbums.
@@ -307,7 +307,7 @@ Voor meer informatie, lees de volledige [Instellingen Handleiding](/docs/guide/e
 Met **Evermusic** en **Flacbox** wordt het afspelen van je eigen muziek in de auto via Apple CarPlay eenvoudig, flexibel en betrouwbaar. Of je nu streamt vanuit cloudopslag, lokale bestanden opent of offline gedownloade nummers afspeelt — deze apps zijn gebouwd om je totale controle te geven over je luisterervaring tijdens het rijden.
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="CarPlay Nu aan het afspelen scherm" image="/docs/howto/how-to-play-your-own-music-on-iphone-using-carplay/carplay-nowplaying-2.webp" imageStyle="border-radius: clamp(14px, 2vw, 28px);" >}}
+{{< ls-card title="" subtitle="CarPlay Nu aan het afspelen scherm" image="/docs/howto/how-to-play-your-own-music-on-iphone-using-carplay/carplay-nowplaying-2.webp" imageStyle="border-radius: clamp(14px, 2vw, 28px);" >}}
 {{< /cards >}}
 
 Van naadloze cloudintegratie tot offline mapsynchronisatie, van diepgaande muziekbibliotheekorganisatie tot aanpasbaar afspelen met equalizers en crossfade — deze functies maken Evermusic en Flacbox meer dan alleen audiospelers. Het zijn slimme CarPlay-companions, ontworpen voor audiofielen, forensen en dagelijkse gebruikers.
@@ -325,22 +325,22 @@ Ontdek meer functies, instellingen en handleidingen in onze volledige [Evermusic
 
 ## Veelgestelde vragen
 
-{{% details title="Welke muziekbestandsformaten werken met CarPlay in Evermusic en Flacbox?" closed="true" %}}
+{{% ls-details title="Welke muziekbestandsformaten werken met CarPlay in Evermusic en Flacbox?" closed="true" %}}
 Evermusic en Flacbox ondersteunen een breed scala aan audioformaten, waaronder MP3, FLAC, AAC, WAV, AIFF, OGG, WMA en meer. Alle ondersteunde formaten werken via CarPlay zonder conversie.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Kan ik muziek afspelen van Google Drive of Dropbox op CarPlay?" closed="true" %}}
+{{% ls-details title="Kan ik muziek afspelen van Google Drive of Dropbox op CarPlay?" closed="true" %}}
 Ja. Zowel Evermusic als Flacbox laten je verbinding maken met cloudopslagdiensten zoals Google Drive, Dropbox, OneDrive, MEGA en andere. Je kunt muziek direct streamen of downloaden voor offline CarPlay-afspelen.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Heb ik een internetverbinding nodig om muziek af te spelen op CarPlay?" closed="true" %}}
+{{% ls-details title="Heb ik een internetverbinding nodig om muziek af te spelen op CarPlay?" closed="true" %}}
 Nee. Je kunt muziek downloaden vanuit cloudopslag voor offline afspelen. Zodra bestanden lokaal op je iPhone zijn opgeslagen, worden ze afgespeeld via CarPlay zonder internetverbinding.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Waarom zie ik een Inhoudsdieptelimiet-fout op CarPlay?" closed="true" %}}
+{{% ls-details title="Waarom zie ik een Inhoudsdieptelimiet-fout op CarPlay?" closed="true" %}}
 CarPlay beperkt hoeveel mapniveaus het kan weergeven. Als je muziek in diep geneste mappen staat, voeg die mappen dan toe aan Favorieten zodat je ze direct kunt openen vanuit het menu Favorieten in CarPlay.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Is Evermusic of Flacbox gratis te gebruiken met CarPlay?" closed="true" %}}
+{{% ls-details title="Is Evermusic of Flacbox gratis te gebruiken met CarPlay?" closed="true" %}}
 Beide apps zijn gratis te downloaden met volledige CarPlay-ondersteuning, equalizer en afspeelfuncties. De gratis versies hebben limieten op cloudverbindingen (3), afspeellijsten (10) en offline mappen (1). Premium verwijdert alle limieten.
-{{% /details %}}
+{{% /ls-details %}}

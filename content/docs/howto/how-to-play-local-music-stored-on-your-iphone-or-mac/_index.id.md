@@ -6,7 +6,7 @@ tags: ["musik lokal", "musik offline", "pemutar musik", "iPhone", "Mac", "Evermu
 keywords: ["cara memutar musik lokal di iPhone", "memutar musik dari penyimpanan perangkat", "pemutar musik offline iOS", "tutorial aplikasi Evermusic", "pemutar FLAC Flacbox", "pemutaran file lokal iOS", "perpustakaan musik Mac", "aplikasi musik untuk file lokal", "iPhone memutar lagu yang diunduh", "cara menggunakan Evermusic dengan file lokal"]
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **Ringkasan:** Instal [Evermusic](/products/evermusic) (MP3/WAV) atau [Flacbox](/products/flacbox) (FLAC/DSD), buka file audio lokal atau folder apa pun, dan mulai memutar. Tambahkan folder ke **Favorit** untuk akses cepat, impor trek ke Perpustakaan Musik Anda, atau buat daftar putar.
@@ -24,10 +24,10 @@ Kami akan menjelajahi metode dan alat untuk memutar musik lokal Anda dengan mulu
 Untuk memulai perjalanan Anda ke dunia musik lokal di iPhone dan Mac Anda, mulailah dengan menginstal Evermusic (untuk format audio standar seperti mp3 dan wav) atau Flacbox (untuk musik lossless dalam format dsd dan flac). Kedua aplikasi ini tersedia untuk iOS dan macOS, dan Anda dapat mengunduhnya secara gratis.
 
 {{< cards >}}
-  {{< card link="https://apps.apple.com/us/app/evermusic-cloud-music-player/id885367198?pt=95781850&ct=everappzcom&mt=8" title="Unduh Evermusic untuk iOS" tag="iOS" >}}
-  {{< card link="https://apps.apple.com/us/app/flacbox-hi-res-equalizer/id1097564256?pt=95781850&ct=everappzcom&mt=8" title="Unduh Flacbox untuk iOS" tag="iOS" >}}
-  {{< card link="https://apps.apple.com/us/app/evermusic-hi-res-music-player/id1564384601?pt=95781850&ct=everappzcom&mt=8" title="Unduh Evermusic untuk Mac" tag="macOS" >}}
-  {{< card link="https://apps.apple.com/us/app/flacbox-hi-res-music-player/id1594027432?pt=95781850&ct=everappzcom&mt=8" title="Unduh Flacbox untuk Mac" tag="macOS" >}}
+  {{< ls-card link="https://apps.apple.com/us/app/evermusic-cloud-music-player/id885367198?pt=95781850&ct=everappzcom&mt=8" title="Unduh Evermusic untuk iOS" tag="iOS" >}}
+  {{< ls-card link="https://apps.apple.com/us/app/flacbox-hi-res-equalizer/id1097564256?pt=95781850&ct=everappzcom&mt=8" title="Unduh Flacbox untuk iOS" tag="iOS" >}}
+  {{< ls-card link="https://apps.apple.com/us/app/evermusic-hi-res-music-player/id1564384601?pt=95781850&ct=everappzcom&mt=8" title="Unduh Evermusic untuk Mac" tag="macOS" >}}
+  {{< ls-card link="https://apps.apple.com/us/app/flacbox-hi-res-music-player/id1594027432?pt=95781850&ct=everappzcom&mt=8" title="Unduh Flacbox untuk Mac" tag="macOS" >}}
 {{< /cards >}}
 
 
@@ -135,22 +135,22 @@ Dengan langkah-langkah sederhana ini, Anda dapat membuka potensi penuh iPhone da
 
 ## FAQ
 
-{{% details title="Format audio apa yang dapat diputar Evermusic dan Flacbox?" closed="true" %}}
+{{% ls-details title="Format audio apa yang dapat diputar Evermusic dan Flacbox?" closed="true" %}}
 Evermusic memutar MP3, WAV, AAC, M4A, dan format standar lainnya. Flacbox menambahkan dukungan untuk FLAC, DSD, OGG, OPUS, APE, WMA, dan ALAC.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Apakah aplikasi ini menyalin file ke penyimpanan aplikasi?" closed="true" %}}
+{{% ls-details title="Apakah aplikasi ini menyalin file ke penyimpanan aplikasi?" closed="true" %}}
 Secara default, file diputar dari lokasi aslinya tanpa disalin. Untuk mengubah perilaku ini, aktifkan "Selalu salin file saat membuka" di **Pengaturan** > Manajer file.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Bisakah saya mengatur musik lokal berdasarkan artis dan album?" closed="true" %}}
+{{% ls-details title="Bisakah saya mengatur musik lokal berdasarkan artis dan album?" closed="true" %}}
 Ya. Impor file ke Perpustakaan Musik (Langkah 4) dan aplikasi membaca metadata untuk mengelompokkan trek berdasarkan Artis, Album, Genre, dan Komposer.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Bagaimana cara mentransfer musik dari komputer saya ke iPhone?" closed="true" %}}
+{{% ls-details title="Bagaimana cara mentransfer musik dari komputer saya ke iPhone?" closed="true" %}}
 Gunakan Berbagi File iTunes (USB), WiFi Drive (nirkabel), atau SMB (streaming). Lihat panduan terperinci kami: [Transfer dan Putar File Lokal di iPhone](/docs/howto/how-to-play-local-itunes-files-on-my-iphone/).
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Apakah Evermusic dan Flacbox gratis?" closed="true" %}}
+{{% ls-details title="Apakah Evermusic dan Flacbox gratis?" closed="true" %}}
 Ya, kedua aplikasi gratis untuk diunduh dengan fitur inti termasuk pemutaran, equalizer, dan streaming cloud. Versi gratis memiliki beberapa batasan (jumlah daftar putar, akun cloud, folder offline). Upgrade ke Premium menghapus batasan ini.
-{{% /details %}}
+{{% /ls-details %}}

@@ -21,7 +21,7 @@ In questa schermata puoi accedere alle impostazioni dell'applicazione e aggiorna
 - **Legale e privacy** — Termini, Informativa sulla privacy, Note legali, Analisi e raccolta dati
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Schermata Impostazioni di Evertag" image="/docs/guide/evertag/img/settings.webp" >}}
+  {{< ls-card title="" subtitle="Schermata Impostazioni di Evertag" image="/docs/guide/evertag/img/settings.webp" >}}
 {{< /cards >}}
 
 ## Aggiorna a Premium
@@ -63,7 +63,7 @@ Attiva la schermata di protezione con password se vuoi proteggere i dati dell'ap
 Il gestore file supporta l'accesso agli account di archiviazione cloud connessi e offre operazioni batch per la gestione rapida di più file.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Schermata Gestore file Impostazioni Evertag" image="/docs/guide/evertag/img/settings-file-manager.webp" >}}
+  {{< ls-card title="" subtitle="Schermata Gestore file Impostazioni Evertag" image="/docs/guide/evertag/img/settings-file-manager.webp" >}}
 {{< /cards >}}
 
 ### Trasferimenti file
@@ -103,7 +103,7 @@ Svuota la cartella cache dell'applicazione per recuperare spazio di archiviazion
 In questa sezione puoi configurare l'editor di tag audio integrato.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Schermata Editor tag Impostazioni Evertag" image="/docs/guide/evertag/img/settings-tag-editor.webp" >}}
+  {{< ls-card title="" subtitle="Schermata Editor tag Impostazioni Evertag" image="/docs/guide/evertag/img/settings-tag-editor.webp" >}}
 {{< /cards >}}
 
 ### Ridimensionamento copertina album
@@ -136,7 +136,7 @@ In questa sezione puoi attivare la funzionalità WiFi Drive, che ti consente di 
 In questa sezione puoi personalizzare le impostazioni dell'interfaccia utente secondo le tue preferenze.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Schermata Personalizzazione Impostazioni Evertag" image="/docs/guide/evertag/img/settings-personalization.webp" >}}
+  {{< ls-card title="" subtitle="Schermata Personalizzazione Impostazioni Evertag" image="/docs/guide/evertag/img/settings-personalization.webp" >}}
 {{< /cards >}}
 
 ### Icona applicazione

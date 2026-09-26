@@ -14,7 +14,7 @@ authors:
     image: "/images/about/artem-meleshko-founder-everappz.webp"
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 **Podsumowanie:** Obejrzyj oficjalny film promocyjny Evermusic, aby zobaczyć strumieniowanie muzyki z chmury, odtwarzanie offline i personalizację dźwięku w akcji na iPhonie i Macu.
 
@@ -24,7 +24,7 @@ Z radością dzielimy się oficjalnym filmem promocyjnym Evermusic, stworzonym z
 
 Zobacz Evermusic w akcji -- strumieniowanie muzyki z chmury, zarządzanie playlistami i dostarczanie wysokiej jakości dźwięku na iPhonie:
 
-{{< youtubecard id="6mm3LVT4rtA" title="Evermusic Promo Video" >}}
+{{< ls-youtubecard id="6mm3LVT4rtA" title="Evermusic Promo Video" >}}
 
 ## Co zobaczysz w filmie
 
@@ -41,14 +41,14 @@ Jeśli podobał Ci się film, podziel się nim ze znajomymi i miłośnikami muzy
 
 ## FAQ
 
-{{% details title="Czym jest Evermusic?" closed="true" %}}
+{{% ls-details title="Czym jest Evermusic?" closed="true" %}}
 Evermusic to odtwarzacz muzyki na iOS i macOS, który strumieniuje dźwięk z usług chmurowych, takich jak Dropbox, Google Drive, OneDrive i iCloud Drive. Obsługuje również odtwarzanie offline i zawiera wbudowany korektor.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Jakie usługi chmurowe obsługuje Evermusic?" closed="true" %}}
+{{% ls-details title="Jakie usługi chmurowe obsługuje Evermusic?" closed="true" %}}
 Evermusic łączy się z Dropbox, Google Drive, OneDrive, iCloud Drive, pCloud, Yandex.Disk i kilkoma innymi dostawcami chmury.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Czy Evermusic jest darmowy?" closed="true" %}}
+{{% ls-details title="Czy Evermusic jest darmowy?" closed="true" %}}
 Evermusic jest darmowy do pobrania z opcjonalnymi funkcjami premium dostępnymi poprzez zakupy w aplikacji.
-{{% /details %}}
+{{% /ls-details %}}

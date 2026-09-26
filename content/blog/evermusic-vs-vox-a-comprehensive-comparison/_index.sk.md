@@ -14,7 +14,7 @@ authors:
     image: "/images/about/artem-meleshko-founder-everappz.webp"
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 **Zhrnutie:** Evermusic víťazí v 5 z 8 kategórií, s 3 remízami. Ponúka širšiu podporu cloudových úložísk (12+ služieb oproti iba VOX Cloud), vstavané funkcie pre audioknihy, editor ID3 tagov a bezdrôtový prenos súborov. VOX osloví používateľov, ktorí preferujú jeho proprietárny cloud a minimalistický dizajn.
 
@@ -34,8 +34,8 @@ authors:
 | Prístupnosť (VoiceOver) | Áno | Áno | Remíza |
 
 {{< cards >}}
-  {{< card link="https://apps.apple.com/us/app/evermusic-cloud-music-player/id885367198" title="Stiahnuť Evermusic" icon="download" tag="Zadarmo" >}}
-  {{< card link="https://apps.apple.com/us/app/vox-mp3-flac-music-player/id916215494" title="Stiahnuť VOX" icon="download" tag="Zadarmo" >}}
+  {{< ls-card link="https://apps.apple.com/us/app/evermusic-cloud-music-player/id885367198" title="Stiahnuť Evermusic" icon="download" tag="Zadarmo" >}}
+  {{< ls-card link="https://apps.apple.com/us/app/vox-mp3-flac-music-player/id916215494" title="Stiahnuť VOX" icon="download" tag="Zadarmo" >}}
 {{< /cards >}}
 
 ## Podpora cloudového úložiska
@@ -107,18 +107,18 @@ Pre väčšinu iOS používateľov, ktorí spravujú vlastnú hudobnú kolekciu,
 
 ## Často kladené otázky
 
-{{% details title="Je Evermusic dobrá alternatíva k VOX?" closed="true" %}}
+{{% ls-details title="Je Evermusic dobrá alternatíva k VOX?" closed="true" %}}
 Áno. Evermusic podporuje 12+ služieb cloudového úložiska v porovnaní s proprietárnym cloudom VOX. Tiež ponúka funkcie pre audioknihy, úpravu ID3 tagov a Wi-Fi prenos súborov, ktoré VOX nemá. Evermusic je zadarmo na stiahnutie s jednorázovým Premium upgradom.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Podporuje VOX Dropbox alebo Google Drive?" closed="true" %}}
+{{% ls-details title="Podporuje VOX Dropbox alebo Google Drive?" closed="true" %}}
 Nie. VOX používa svoje vlastné proprietárne cloudové úložisko VOX Cloud. Nepripája sa k službám tretích strán ako Dropbox, Google Drive alebo OneDrive. Evermusic podporuje všetky tieto služby a ďalšie.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Ktorá aplikácia je lepšia pre audioknihy: Evermusic alebo VOX?" closed="true" %}}
+{{% ls-details title="Ktorá aplikácia je lepšia pre audioknihy: Evermusic alebo VOX?" closed="true" %}}
 Evermusic je výrazne lepší pre audioknihy. Obsahuje ovládanie rýchlosti prehrávania, automatické ukladanie pozície a podporu záložiek. VOX nemá špecializované funkcie pre audioknihy.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Môžem upravovať hudobné tagy na iPhone s Evermusic?" closed="true" %}}
+{{% ls-details title="Môžem upravovať hudobné tagy na iPhone s Evermusic?" closed="true" %}}
 Áno. Evermusic obsahuje vstavaný editor ID3 tagov, ktorý vám umožňuje opraviť názvy skladieb, mená interpretov, informácie o albume a ďalšie metadáta priamo na vašom iPhone alebo iPad.
-{{% /details %}}
+{{% /ls-details %}}

@@ -16,16 +16,16 @@ screenshots:
   - "https://everappz.com/products/evervideo/screenshots/2880x1800/6.png"
 ---
 
-{{% sr-only %}}
+{{% ls-sr-only %}}
 Evervideo er en gratis HD-videospiller for iPhone og Mac, utviklet av Everappz, et spansk programvareselskap. Evervideo spiller av praktisk talt alle videoformater, inkludert MKV, AVI, MP4, MOV, FLV, WMV, WEBM, M4V, TS og 3GP uten å kreve formatkonvertering. Appen har 360-graders og VR-videoavspilling, Picture-in-Picture-modus, en video- og lydequalizer med over 50 forhåndsinnstillinger, undertekststøtte for SRT-, SSA- og ASS-formater, og avspillingshastighets­kontroll. Evervideo kobler til skylagringstjenester som iCloud Drive, Google Drive, Dropbox, OneDrive og MEGA, slik at brukerne kan strømme videoer direkte fra skyen eller laste dem ned for frakoblet visning. Appen støtter også lokal nettverksstrømming via SMB-, WebDAV- og DLNA-protokoller, avspilling fra USB-minnepinne via Lightning- eller USB-C-adaptere, og Wi-Fi filoverføring fra en datamaskin. Tilleggsfunksjoner inkluderer et mediebibliotek med spillelister, AirPlay- og Chromecast-casting, og en innebygd filbehandler. Evervideo er tilgjengelig som gratis nedlasting på App Store med valgfrie kjøp i appen, inkludert et månedlig abonnement til $2.99, et årlig abonnement til $14.99 eller et engangskjøp med livstidstilgang til $29.99.
-{{% /sr-only %}}
+{{% /ls-sr-only %}}
 
 
 
 <!-- force dark theme for this page -->
-{{< force-dark >}}
+{{< ls-force-dark >}}
 
-{{< hextra/hero-container
+{{< ls-hero-container
   image="/products/evervideo/heroimage/hero_1600.png"
   imageWidth="800"
   imageCard="true"
@@ -33,38 +33,38 @@ Evervideo er en gratis HD-videospiller for iPhone og Mac, utviklet av Everappz, 
 
 <div class="hx:w-full hx:text-center">
 
-{{< downloads-badge >}}
+{{< ls-downloads-badge >}}
 
 <div class="hx:mt-6 hx:mb-6">
 <div class="hx:flex hx:gap-4 hx:items-center hx:justify-center">
-{{< app-icon src="/images/app_icons/png/Evervideo_Icon-App-1024x1024.png" alt="Evervideo Icon" class="hero-headline-icon" size="80" >}}
-{{< hextra/hero-headline >}}
+{{< ls-app-icon src="/images/app_icons/png/Evervideo_Icon-App-1024x1024.png" alt="Evervideo Icon" class="hero-headline-icon" size="80" >}}
+{{< ls-hero-headline >}}
 Evervideo
-{{< /hextra/hero-headline >}}
+{{< /ls-hero-headline >}}
 </div>
 </div>
 
 <div class="hx:mb-12">
-{{< hextra/hero-centered-subtitle >}}
+{{< ls-hero-centered-subtitle >}}
 <strong>HD-videospiller og strømmer for din iPhone og MAC</strong>
-{{< /hextra/hero-centered-subtitle >}}
+{{< /ls-hero-centered-subtitle >}}
 </div>
 
 
 <div class="hx:mb-6">
-{{< hextra/hero-paragraph >}}
+{{< ls-hero-paragraph >}}
 • Se 360° og høyoppløselige videoer i alle formater<br>
 • Strøm fra iCloud, Google Drive, Dropbox, NAS eller datamaskinen din<br>
 • Last ned videoer for å se frakoblet når som helst, hvor som helst<br>
 • Aktiver undertekster, bruk videoequalizer og organiser videoer med spillelister
-{{< /hextra/hero-paragraph >}}
+{{< /ls-hero-paragraph >}}
 </div>
 
-{{< app-store-badges products="evervideo:ios, evervideo:macos" >}}
+{{< ls-app-store-badges products="evervideo:ios, evervideo:macos" >}}
 
 </div>
 
-{{< /hextra/hero-container >}}
+{{< /ls-hero-container >}}
 
 <div class="hx:mt-6"></div>
 
@@ -72,42 +72,42 @@ Evervideo
 
 {{< hextra/feature-grid >}}
 
-  {{< hextra/feature-card
+  {{< ls-glass-feature-card
     title="Spill alle video- og lydformater"
     subtitle=`Se videoene dine og lytt til musikk uten å konvertere filer. Støtter MP4, MOV, MKV, AVI, FLV, WMV, WEBM, M4V, MP3, FLAC, AAC, ALAC, OGG, OPUS, WAV, WMA og mer.`
     icon="film"
     style="background: radial-gradient(circle at 50% 80%, rgba(255,99,71,0.15), rgba(17,24,39,0));"  
   >}}
 
-  {{< hextra/feature-card
+  {{< ls-glass-feature-card
     title="Mediebibliotek og spillelister"
     subtitle=`Organiser mediebiblioteket med spor gruppert etter album, sjanger eller varighet. Synkroniseres automatisk med skyendringer. Opprett, rediger og eksporter M3U-spillelister med tilpasset sortering.`
     icon="collection"
     style="background: radial-gradient(circle at 50% 80%, rgba(255,165,0,0.15), rgba(17,24,39,0));"  
   >}}
 
-  {{< hextra/feature-card
+  {{< ls-glass-feature-card
     title="Lyd- og videoequalizer"
     subtitle=`Tilpass hvordan videoene dine ser ut og høres ut ved å justere bass, tonehøyde, lysstyrke, gamma, metning, kontrast og mer, med 50+ videoforhåndsinnstillinger og 20+ lydforhåndsinnstillinger tilgjengelig, eller muligheten til å lage dine egne.`
     icon="adjustments"
     style="background: radial-gradient(circle at 50% 80%, rgba(255,255,0,0.15), rgba(17,24,39,0));" 
   >}}
 
-  {{< hextra/feature-card
+  {{< ls-glass-feature-card
     title="Bilde-i-bilde"
     subtitle=`Bilde-i-bilde (PiP) lar deg fortsette å se videoer i et lite flytende vindu mens du bruker andre apper, med full støtte for alle hovedformater som MKV, AVI, MP4 og MOV, sømløse videooverganger i kø, automatiske avspillingsoppdateringer og aktive undertekster alltid synlige.`
     icon="duplicate"
     style="background: radial-gradient(circle at 50% 80%, rgba(0,128,0,0.15), rgba(17,24,39,0));" 
   >}}
 
-  {{< hextra/feature-card
+  {{< ls-glass-feature-card
     title="360°-video og VR-modus"
     subtitle=`Opplev 360°- og VR-videoer som aldri før — beveg telefonen for å utforske alle vinkler, eller dykk helt inn med et VR-hodesett for total innlevelse. Spill 360°-videoer fra Insta360-kameraer og lignende enheter umiddelbart med jevn, uanstrengt avspilling uten oppsett.`
     icon="video-camera"
     style="background: radial-gradient(circle at 50% 80%, rgba(0,191,255,0.15), rgba(17,24,39,0));"  
   >}}
 
-  {{< hextra/feature-card
+  {{< ls-glass-feature-card
     title="Sømløs strømming og skytilkobling"
     subtitle=`Strøm videoer direkte fra Mac, PC, NAS, USB-flashstasjon eller skylagring, og overfør mediefiler med Wi-Fi Drive eller iTunes fildeling. Få full tilgang til hele videobiblioteket ditt hvor som helst, selv eksternt, via Synology Drive, WD My Cloud Home og lignende NAS-enheter.`
     icon="cloud"
@@ -120,9 +120,9 @@ Evervideo
 
 <div class="hx:mt-6"></div>
 
-{{< hextra/section-headline >}}
+{{< ls-section-headline >}}
 Alle funksjoner
-{{< /hextra/section-headline >}}
+{{< /ls-section-headline >}}
 
 <div class="hx:mt-6"></div>
 
@@ -130,35 +130,35 @@ Alle funksjoner
 
 {{< cards >}}
 
-{{< feature-card title="Spill alle video- og lydformater" subtitle="Se mediene dine uten å konvertere filer. Evervideo støtter alle hovedformater, inkludert MKV, AVI, MP4, MOV, FLAC, MP3, AAC, OGG, WAV, WMV og mer." icon="film">}}
+{{< ls-feature-card title="Spill alle video- og lydformater" subtitle="Se mediene dine uten å konvertere filer. Evervideo støtter alle hovedformater, inkludert MKV, AVI, MP4, MOV, FLAC, MP3, AAC, OGG, WAV, WMV og mer." icon="film">}}
 
-{{< feature-card title="Frakoblet modus" subtitle="Last ned videoer, album og spillelister for å se uten internettforbindelse. Ta med deg hele videosamlingen din overalt." icon="download">}}
+{{< ls-feature-card title="Frakoblet modus" subtitle="Last ned videoer, album og spillelister for å se uten internettforbindelse. Ta med deg hele videosamlingen din overalt." icon="download">}}
 
-{{< feature-card title="360°-video og VR-modus" subtitle="Se 360°- og VR-videoer på en morsom og enkel måte. Beveg telefonen rundt for å se i alle retninger, eller sett den i et VR-hodesett for å føle at du er inne i videoen." icon="video-camera">}}
+{{< ls-feature-card title="360°-video og VR-modus" subtitle="Se 360°- og VR-videoer på en morsom og enkel måte. Beveg telefonen rundt for å se i alle retninger, eller sett den i et VR-hodesett for å føle at du er inne i videoen." icon="video-camera">}}
 
-{{< feature-card title="Bilde-i-bilde" subtitle="Fortsett å se videoer i et lite flytende vindu mens du bruker andre apper. Kontroller avspillingen og se undertekster samtidig — perfekt for multitasking." icon="duplicate">}}
+{{< ls-feature-card title="Bilde-i-bilde" subtitle="Fortsett å se videoer i et lite flytende vindu mens du bruker andre apper. Kontroller avspillingen og se undertekster samtidig — perfekt for multitasking." icon="duplicate">}}
 
-{{< feature-card title="Video- og lydequalizer" subtitle="Tilpass hvordan videoene dine ser ut og høres ut. Juster bass, tonehøyde, lysstyrke, gamma, metning, kontrast og mer. Velg mellom 50+ videoforhåndsinnstillinger og 20+ lydforhåndsinnstillinger, eller lag dine egne." icon="adjustments">}}
+{{< ls-feature-card title="Video- og lydequalizer" subtitle="Tilpass hvordan videoene dine ser ut og høres ut. Juster bass, tonehøyde, lysstyrke, gamma, metning, kontrast og mer. Velg mellom 50+ videoforhåndsinnstillinger og 20+ lydforhåndsinnstillinger, eller lag dine egne." icon="adjustments">}}
 
-{{< feature-card title="Undertekster" subtitle="Vis innebygde undertekster, velg undertekstspornummer og nyt full undertekststøtte selv i Bilde-i-bilde-modus." icon="annotation" >}}
+{{< ls-feature-card title="Undertekster" subtitle="Vis innebygde undertekster, velg undertekstspornummer og nyt full undertekststøtte selv i Bilde-i-bilde-modus." icon="annotation" >}}
 
-{{< feature-card title="Spill direkte fra skyen" subtitle="Se videoer direkte fra skylagringen din uten å bruke enhetsplass. Støtter iCloud Drive, Google Drive, Dropbox, OneDrive, MEGA, Synology Drive, pCloud og mer." icon="cloud">}}
+{{< ls-feature-card title="Spill direkte fra skyen" subtitle="Se videoer direkte fra skylagringen din uten å bruke enhetsplass. Støtter iCloud Drive, Google Drive, Dropbox, OneDrive, MEGA, Synology Drive, pCloud og mer." icon="cloud">}}
 
-{{< feature-card title="Koble til datamaskin / NAS" subtitle="Koble enkelt til NAS, Mac eller PC over hjemmenettverket ditt med SMB, WebDAV eller DLNA. Fjerntilgang støttes for Synology Drive og WD MyCloud Home. Overfør mediefiler til enheten din via Wi-Fi eller iTunes fildeling." icon="desktop-computer">}}
+{{< ls-feature-card title="Koble til datamaskin / NAS" subtitle="Koble enkelt til NAS, Mac eller PC over hjemmenettverket ditt med SMB, WebDAV eller DLNA. Fjerntilgang støttes for Synology Drive og WD MyCloud Home. Overfør mediefiler til enheten din via Wi-Fi eller iTunes fildeling." icon="desktop-computer">}}
 
-{{< feature-card title="Mediebibliotek" subtitle="Organiser etter album, sjanger eller varighet. Synkroniseres automatisk med skyendringer. Opprett, rediger og eksporter M3U-spillelister med tilpasset sortering." icon="library" >}}
+{{< ls-feature-card title="Mediebibliotek" subtitle="Organiser etter album, sjanger eller varighet. Synkroniseres automatisk med skyendringer. Opprett, rediger og eksporter M3U-spillelister med tilpasset sortering." icon="library" >}}
 
-{{< feature-card title="Bokmerker og lagring av avspillingsposisjon" subtitle="Lagre plassen din i enhver video med bokmerker og gjenoppta avspillingen der du slapp. Juster avspillingshastighet, merk favoritter og sorter videoer etter mest spilt for enkel tilgang." icon="book-open">}}
+{{< ls-feature-card title="Bokmerker og lagring av avspillingsposisjon" subtitle="Lagre plassen din i enhver video med bokmerker og gjenoppta avspillingen der du slapp. Juster avspillingshastighet, merk favoritter og sorter videoer etter mest spilt for enkel tilgang." icon="book-open">}}
 
-{{< feature-card title="AirPlay og Chromecast" subtitle="Spill videoer på en større skjerm ved å strømme til Apple TV, Chromecast eller en annen kompatibel ekstern skjerm." icon="device-mobile">}}
+{{< ls-feature-card title="AirPlay og Chromecast" subtitle="Spill videoer på en større skjerm ved å strømme til Apple TV, Chromecast eller en annen kompatibel ekstern skjerm." icon="device-mobile">}}
 
-{{< feature-card title="Importer fra filer og biblioteker" subtitle="Importer videoer direkte fra Filer-appen, Bilder eller iTunes-biblioteket ditt. Få tilgang til alt lokalt og skybasert innhold i ett organisert mediebibliotek." icon="database">}}
+{{< ls-feature-card title="Importer fra filer og biblioteker" subtitle="Importer videoer direkte fra Filer-appen, Bilder eller iTunes-biblioteket ditt. Få tilgang til alt lokalt og skybasert innhold i ett organisert mediebibliotek." icon="database">}}
 
-{{< feature-card title="Filbehandler" subtitle="Flytt, gi nytt navn, slett og organiser filer direkte inne i appen." icon="folder">}}
+{{< ls-feature-card title="Filbehandler" subtitle="Flytt, gi nytt navn, slett og organiser filer direkte inne i appen." icon="folder">}}
 
-{{< feature-card title="Tilpasning" subtitle="Tilpass appen etter dine preferanser. Velg temaer, vis eller skjul funksjoner og juster grensesnittet etter dine behov." icon="sun">}}
+{{< ls-feature-card title="Tilpasning" subtitle="Tilpass appen etter dine preferanser. Velg temaer, vis eller skjul funksjoner og juster grensesnittet etter dine behov." icon="sun">}}
 
-{{< feature-card title="Smart søk" subtitle="Finn raskt videoer, album eller spillelister i mediebiblioteket ditt med nøkkelord eller filtre." icon="search" >}}
+{{< ls-feature-card title="Smart søk" subtitle="Finn raskt videoer, album eller spillelister i mediebiblioteket ditt med nøkkelord eller filtre." icon="search" >}}
 
 
 
@@ -168,9 +168,9 @@ Alle funksjoner
 
 <div class="hx:mt-6"></div>
 
-{{< hextra/section-headline >}}
+{{< ls-section-headline >}}
 Intuitivt design
-{{< /hextra/section-headline >}}
+{{< /ls-section-headline >}}
 
 <div class="hx:mt-6"></div>
 
@@ -178,7 +178,7 @@ Intuitivt design
 
 {{< cards cols="4">}}
 
-  {{< design-feature-card 
+  {{< ls-design-feature-card 
     image="/products/evervideo/screenshots/2880x1800/1.png" 
     title="Videospiller" 
     method="Fill"
@@ -187,7 +187,7 @@ Intuitivt design
     icon="play"
   >}}
 
-  {{< design-feature-card 
+  {{< ls-design-feature-card 
     image="/products/evervideo/screenshots/2880x1800/3.png" 
     title="Lyd- og videoequalizer" 
     method="Fill"
@@ -196,7 +196,7 @@ Intuitivt design
     icon="adjustments"
   >}}
 
-  {{< design-feature-card 
+  {{< ls-design-feature-card 
     image="/products/evervideo/screenshots/2880x1800/6.png" 
     title="Spillelistebehandler" 
     method="Fill"
@@ -205,7 +205,7 @@ Intuitivt design
     icon="collection"
   >}}
 
-  {{< design-feature-card 
+  {{< ls-design-feature-card 
     image="/products/evervideo/screenshots/2880x1800/5.png" 
     title="Mediebibliotek" 
     method="Fill"
@@ -214,7 +214,7 @@ Intuitivt design
     icon="library"
   >}}
 
-  {{< design-feature-card 
+  {{< ls-design-feature-card 
     image="/products/evervideo/screenshots/2880x1800/7.png"  
     title="Skylagring" 
     method="Fill"
@@ -223,7 +223,7 @@ Intuitivt design
     icon="cloud"
   >}}
 
-  {{< design-feature-card 
+  {{< ls-design-feature-card 
     image="/products/evervideo/screenshots/2880x1800/9.png"  
     title="Filbehandler" 
     method="Fill"
@@ -241,49 +241,49 @@ Intuitivt design
 <div class="hx:mt-6"></div>
 
 <div class="hx:w-full">
-{{< appstore-reviews apps="6602897336,6743504109" stars="5,4"  app="Evervideo" >}}
+{{< ls-appstore-reviews apps="6602897336,6743504109" stars="5,4"  app="Evervideo" >}}
 </div>
 
 
 <div class="hx:mt-6"></div>
 
-{{< hextra/section-headline >}}
+{{< ls-section-headline >}}
    Prisplaner
-{{< /hextra/section-headline >}}
+{{< /ls-section-headline >}}
 
 <div class="hx:mt-6"></div>
 
 <div class="hx:w-full">
 
-{{< pricing-plans >}}
+{{< ls-pricing-plans >}}
 
 </div>
 
 <div class="hx:mt-6"></div>
 
 <div class="hx:w-full hx:mx-auto hx:flex hx:flex-col hx:items-center">
-  {{< hextra/info-paragraph border="true" >}}
+  {{< ls-info-paragraph border="true" >}}
    <strong>Familiedeling</strong>: Alle kjøp og abonnementer støtter familiedeling, slik at du kan dele Premium-tilgang med familien din.<br><strong>Universell tilgang</strong>: Livstids- og abonnementsplaner deles mellom iOS- og Mac-enheter ved hjelp av iCloud-synkronisering.<br><strong>Priser</strong>: Prisene vises i amerikanske dollar for USA. Endelige priser kan variere basert på din region.  
-  {{< /hextra/info-paragraph >}}
+  {{< /ls-info-paragraph >}}
 </div>
 
 <div class="hx:mt-6"></div>
 
 <div class="hx:w-full">
-{{< app-details heading="true" >}}
+{{< ls-app-details heading="true" >}}
 </div>
 
 <div class="hx:mt-6"></div>
 
-{{< hextra/section-headline >}}
+{{< ls-section-headline >}}
    Ofte stilte spørsmål
-{{< /hextra/section-headline >}}
+{{< /ls-section-headline >}}
 
 <div class="hx:mt-6"></div>
 
 <div class="hx:w-full">
 
-{{% details title="Hvordan fungerer Evervideo?" closed="true" %}}
+{{% ls-details title="Hvordan fungerer Evervideo?" closed="true" %}}
 Evervideo er en HD-videospiller som lar deg håndtere videospor som vanlige filer.<br>
 Du kan laste opp hele videosamlingen din til skytjenester som Dropbox, OneDrive, iCloud eller en personlig NAS og spille video direkte fra skyen med full kontroll.<br><br>
 Ingen iTunes-synkronisering er nødvendig — bare last opp fra PC-en eller Mac-en som du gjør med enhver fil.<br>
@@ -293,9 +293,9 @@ Utforsk våre veiledninger for mer informasjon:<br>
 - [Evervideo-veiledning](/docs/guide/evervideo/)<br>
 - [Slik overfører du filer trådløst fra en datamaskin til en iPhone med WiFi-Drive.](/docs/howto/how-to-transfer-files-wirelessly-from-a-computer-to-an-iphone-using-wifi-drive)<br>
 
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Er Evervideo gratis?" closed="true" %}}
+{{% ls-details title="Er Evervideo gratis?" closed="true" %}}
 Evervideo er gratis å bruke med noen begrensninger, som kan fjernes ved å oppgradere til Premium-versjonen.<br>
 Du kan velge mellom et engangskjøp for livstid eller to abonnementsalternativer (månedlig eller årlig). Prisene kan variere basert på din region.<br><br>
 
@@ -304,9 +304,9 @@ Familiedeling er aktivert for alle planer, slik at du kan dele Premium-versjonen
 Premium-kjøp og abonnementer deles mellom iOS og Mac via iCloud. For å synkronisere kjøpet ditt, sørg for at iCloud er aktivert, åpne appen på iOS-enheten din og vent et minutt til synkroniseringen er fullført.<br><br>
 
 [Les mer om forskjellene mellom Evervideo og Evervideo Premium](/docs/faq/evervideo/what-is-the-difference-between-evervideo-and-evervideo-premium/)
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Hvordan bruker jeg Evervideo?" closed="true" %}}
+{{% ls-details title="Hvordan bruker jeg Evervideo?" closed="true" %}}
 
 **Installer Evervideo**<br>
 Last ned og installer Evervideo-appen fra enhetens appbutikk. Den er tilgjengelig for både iOS- og Mac-enheter.<br><br>
@@ -355,9 +355,9 @@ Du har to alternativer for å legge til video i Evervideo: manuell tillegging el
 **Nyt videoen din**<br>
 Når videoen din er organisert, bruk den øverste verktøylinjen for hurtighandlinger som **Søk**, **Spill alle**, **Tilfeldig rekkefølge** og **Fortsett avspilling**.<br><br>
 
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Er Evervideo trygt?" closed="true" %}}
+{{% ls-details title="Er Evervideo trygt?" closed="true" %}}
 Evervideo bruker kun offisiell SDK og sikre forbindelser for å samhandle med tilkoblede skytjenester. Påloggingen og passordet ditt er ikke tilgjengelig for applikasjonen. Alle forespørsler fra applikasjonen til skytjenesten er kryptert.<br>
 Når du skriver inn pålogging og passord, viser applikasjonen deg den offisielle autorisasjonssiden som leveres av skylagringstilbyderen, og hele autorisasjonsprosessen foregår utenfor applikasjonen. Skylagringstilbyderen sender et autorisasjonstoken til applikasjonen etter vellykket autorisasjon, og dette tokenet brukes til å utføre API-kall.<br><br>
 
@@ -368,22 +368,22 @@ For å avvise autorisasjonstokenet, logg inn på kontoen din i nettleseren og na
 
 Du kan også koble fra de tilkoblede skykontoene i applikasjonen, og autorisasjonstokenet vil også bli fjernet fra enheten din. Hvis du fjerner applikasjonen fra enheten, vil alle nedlastede data og tilgangstokener også bli fjernet.<br><br>
 
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Hvordan lager jeg en spilleliste i Evervideo?" closed="true" %}}
+{{% ls-details title="Hvordan lager jeg en spilleliste i Evervideo?" closed="true" %}}
 - Åpne Spillelister-seksjonen.<br>
 - Trykk på «+»-knappen eller «...»-knappen øverst til høyre og velg «Ny spilleliste».<br>
 - Skriv inn et navn for spillelisten og trykk «Lagre». Dialogboksen «Legg til mediefiler» vises.<br>
 - Velg sporene du vil legge til i spillelisten.<br><br>
 
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Hvilke skytjenester støtter Evervideo?" closed="true" %}}
+{{% ls-details title="Hvilke skytjenester støtter Evervideo?" closed="true" %}}
 For øyeblikket støtter applikasjonen de mest populære skytjenestene: iCloud Drive, Google Drive, Dropbox, OneDrive, Box, MEGA, Yandex.Disk, DLNA, MediaFire, WebDAV, SMB, pCloud, Cloud Mail.ru, Put.io.<br><br>
 
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Hvordan aktiverer jeg frakoblet modus i Evervideo?" closed="true" %}}
+{{% ls-details title="Hvordan aktiverer jeg frakoblet modus i Evervideo?" closed="true" %}}
 - Koble til skylagring:<br>
  • Gå til «Filer»-fanen.<br>
  • Velg «Koble til skylagring» og følg instruksjonene for å koble til ønsket tjeneste.<br><br>
@@ -408,9 +408,9 @@ For øyeblikket støtter applikasjonen de mest populære skytjenestene: iCloud D
  • For å synkronisere manuelt, gå til «Innstillinger» > «Filbehandler» > «Frakoblede mapper» > «Synkroniserte frakoblede mapper».<br>
  • Trykk «Flere handlinger» og velg «Start synkronisering».<br><br>
 
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Hvordan spille lokalt nedlastede videoer på iPhone?" closed="true" %}}
+{{% ls-details title="Hvordan spille lokalt nedlastede videoer på iPhone?" closed="true" %}}
 Når du har installert applikasjonen, åpne «Filer»-skjermen og bla ned til «Filer på denne iPhone»-seksjonen. Derfra velger du «Åpne filer...» hvis du trenger å velge flere filer, eller «Åpne mappe...» hvis du vil velge en mediemappe. Appen skanner mappens innhold, og alle funne mediefiler blir valgt. Naviger til mediemappen din, trykk «Åpne» for å bekrefte valget, og filene legges til i spillerkøen. Disse filene spilles direkte fra den valgte plasseringen uten å bli kopiert til applikasjonspakken.<br><br>
 
 **Legge til en mappe i favoritter for rask tilgang**<br>
@@ -422,13 +422,13 @@ Hvis du foretrekker å organisere de lokale filene dine i biblioteket, åpne «B
 **Legge til lokale filer i en spilleliste**<br>
 For å legge til lokale filer i en spilleliste, åpne «Spillelister»-skjermen og trykk på mer-knappen øverst til høyre. Velg «+ Ny spilleliste», skriv inn et navn for den nye spillelisten, og på neste skjerm velger du «Filer på denne enheten»-alternativet og trykker «Åpne filer...». Velg mediefilene du vil legge til og trykk «Åpne» for å bekrefte. Filene legges til i spillelisten din, der du kan endre sporenes rekkefølge og utføre andre handlinger med mer-knappen.<br><br>
 
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Hvordan kan jeg gjenoppta en spilleliste der jeg slapp?" closed="true" %}}
+{{% ls-details title="Hvordan kan jeg gjenoppta en spilleliste der jeg slapp?" closed="true" %}}
 Først, sørg for at «Lagre mediespillertilstand» er aktivert i Innstillinger > Mediespiller > Generelt. Når du bytter til en annen spilleliste og går tilbake, vil du se fire handlinger på den øverste verktøylinjen under albumomslaget: «Søk», «Fortsett avspilling», «Spill alle» og «Tilfeldig rekkefølge». Trykk «Fortsett avspilling» for å gjenoppta spillelisten fra sist lagrede tilstand og medieposisjon.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Hvordan overfører jeg video til Evervideo fra datamaskinen min?" closed="true" %}}
+{{% ls-details title="Hvordan overfører jeg video til Evervideo fra datamaskinen min?" closed="true" %}}
 Du kan koble datamaskinen eller personlig NAS ved hjelp av SMB-, WebDAV- eller DLNA-protokoller. Alternativt kan du bruke iTunes fildeling for å overføre mediefiler.<br><br>
 
 For å koble til en datamaskin med SMB-protokoll, trykk «Filer» «Koble til skylagring» → SMB. Skriv inn datamaskinens IP-adresse og delt mappenavn i URL-feltet med formatet smb://datamaskin-ip-adresse/delt-mappenavn, skriv inn pålogging og passord og trykk «Ferdig». Hvis tilkoblingen er vellykket, vil du se tilkoblet lagring i «Skylagring»-seksjonen.<br><br>
@@ -447,9 +447,9 @@ iTunes fildeling er en annen teknologi som lar deg overføre filer fra datamaski
 Detaljert instruksjon er tilgjengelig her:<br>
 [Slik spiller du lokale filer (iTunes-filer) på iPhone](/docs/howto/how-to-play-local-itunes-files-on-my-iphone)<br><br>
 
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Hvordan laste ned video?" closed="true" %}}
+{{% ls-details title="Hvordan laste ned video?" closed="true" %}}
 Før du kan laste ned video og se den frakoblet, må du koble til en skylagring.<br>
 Bare åpne «Filer»-skjermen og koble til skylagringen din.<br>
 Når du har lagt den til, kan du laste ned videoen din fra skyen.<br><br>
@@ -465,14 +465,14 @@ Når du har lagt den til, kan du laste ned videoen din fra skyen.<br><br>
 – Trykk på avmerkingsboksen «Frakoblet modus»<br>
 – Frakoblet Artist/Album/Spilleliste vises i «Filer» -> «Frakoblede mapper»-seksjonen.<br><br>
 
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Hvilke lydformater støtter Evervideo?" closed="true" %}}
+{{% ls-details title="Hvilke lydformater støtter Evervideo?" closed="true" %}}
 Denne appen støtter standard **systemlydkodeker** og ekstra **ffmpeg programvarekodeker**:<br><br>
 3g2, 3gp, 3gp2, 3gpp, 8svx, aa, aac, aax, ac3, act, adt, adts, aif, aifc, aiff, alac, amr, amv, ape, asf, au, avi, awb, caf, cavs, cdda, cue, dct, dff, drc, dsf, dss, dvf, "dvr-ms", ec3, f4a, f4b, f4p, f4v, flac, flv, gif, gifv, gsm, gxf, h261, h263, h264, ifv, iklax, ivf, ivs, l16, latm, loas, m2t, m2ts, m2v, m3u, m3u8, m4a, m4b, m4p, m4r, m4v, mka, mkv, mmf, mng, mod, mogg, mov, mp1, mp2, mp3, mp4, mp4v, mpa, mpc, mpe, mpeg, mpg, mpv, msv, mts, mxf, nsf, nsv, nut, oga, ogg, ogv, opus, pcm, pls, qt, ra, raw, rm, rmvb, roq, rv, sln, snd, svi, tod, tta, vob, voc, vox, vtt, w64, wav, wave, webm, wma, wmv, wv, xhe, xmv, y4m, yuv.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Fungerer Evervideo med NAS-enheter?" closed="true" %}}
+{{% ls-details title="Fungerer Evervideo med NAS-enheter?" closed="true" %}}
 
 Ja, Evervideo støtter NAS-tilkoblinger med **SMB**-, **WebDAV**- og **DLNA**-protokoller.<br><br>
 
@@ -496,9 +496,9 @@ Hvis tilkoblingen er vellykket, vil du se NAS-en din i **Skylagring**-seksjonen.
 • Viser alle oppdagbare NAS-enheter på lokalnettverket ditt.<br>
 • Trykk på et enhetsnavn for å koble til, og skriv inn påloggingsinformasjon om nødvendig.<br><br>
 
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Hvordan bruker jeg Wi-Fi Drive-funksjonen i Evervideo?" closed="true" %}}
+{{% ls-details title="Hvordan bruker jeg Wi-Fi Drive-funksjonen i Evervideo?" closed="true" %}}
 
 **Trådløs overføring med en skrivebordsnettleser**<br>
 1. Start appen: Åpne Evervideo.<br>
@@ -523,39 +523,39 @@ Merk: Sørg for at JavaScript er aktivert og at du bruker den nyeste nettleserve
 
 [Les mer](/docs/howto/how-to-transfer-files-wirelessly-from-a-computer-to-an-iphone-using-wifi-drive)
 
-{{% /details %}}
+{{% /ls-details %}}
 
 </div>
 
 
 <div class="hx:mt-6"></div>
 
-{{< hextra/section-headline >}}
+{{< ls-section-headline >}}
   Brukerveiledning
-{{< /hextra/section-headline >}}
+{{< /ls-section-headline >}}
 
 <div class="hx:mt-6"></div>
 
 <div class="hx:w-full">
 
 <div class="hx:w-full hx:mx-auto hx:flex hx:flex-col hx:items-center hx:text-center">
-  {{< hextra/info-paragraph border="false" >}}
+  {{< ls-info-paragraph border="false" >}}
   Denne veiledningen hjelper deg å få mest mulig ut av Evervideo på iPhone, iPad eller Mac. Lær å strømme videoer fra skylagring og NAS, bruke Bilde-i-bilde, administrere undertekster og finjustere lyd- og videoequalizerne. Evervideo gir deg full kontroll over hele videosamlingen din — fra hvilken som helst kilde — i én enkel app.
-  {{< /hextra/info-paragraph >}}
+  {{< /ls-info-paragraph >}}
 </div>
 
 {{< cards >}}
-  {{< feature-card icon="location-marker" title="Navigasjon" subtitle="Lær å navigere i Evervideo med fanelinjen på iPhone eller venstremenyen på iPad og Mac, sammen med den kompakte alltid synlige videospilleren." link="/docs/guide/evervideo/evervideo-guide-navigation" >}}
+  {{< ls-feature-card icon="location-marker" title="Navigasjon" subtitle="Lær å navigere i Evervideo med fanelinjen på iPhone eller venstremenyen på iPad og Mac, sammen med den kompakte alltid synlige videospilleren." link="/docs/guide/evervideo/evervideo-guide-navigation" >}}
 
-  {{< feature-card icon="folder" title="Filer" subtitle="Koble til skykontoer, NAS-delinger, medieservere (Plex, Jellyfin, Emby, Subsonic, Navidrome), RTSP-strømmer og lokale filer i én samlet fane." link="/docs/guide/evervideo/evervideo-guide-files" >}}
+  {{< ls-feature-card icon="folder" title="Filer" subtitle="Koble til skykontoer, NAS-delinger, medieservere (Plex, Jellyfin, Emby, Subsonic, Navidrome), RTSP-strømmer og lokale filer i én samlet fane." link="/docs/guide/evervideo/evervideo-guide-files" >}}
 
-  {{< feature-card icon="library" title="Mediebibliotek" subtitle="Organiser og utforsk videoer og musikk etter Album, Sjangre, Nylig spilte og Favoritter — pluss iOS Bilder-biblioteket og Apple Music-biblioteket." link="/docs/guide/evervideo/evervideo-guide-video-library" >}}
+  {{< ls-feature-card icon="library" title="Mediebibliotek" subtitle="Organiser og utforsk videoer og musikk etter Album, Sjangre, Nylig spilte og Favoritter — pluss iOS Bilder-biblioteket og Apple Music-biblioteket." link="/docs/guide/evervideo/evervideo-guide-video-library" >}}
 
-  {{< feature-card icon="collection" title="Spillelister" subtitle="Lag og organiser spillelister for videoer, musikk, serier eller kurs, og importer M3U / M3U8 / CUE-filer." link="/docs/guide/evervideo/evervideo-guide-playlists" >}}
+  {{< ls-feature-card icon="collection" title="Spillelister" subtitle="Lag og organiser spillelister for videoer, musikk, serier eller kurs, og importer M3U / M3U8 / CUE-filer." link="/docs/guide/evervideo/evervideo-guide-playlists" >}}
 
-  {{< feature-card icon="play" title="Mediaspiller" subtitle="Styr avspilling, kø, Bilde-i-bilde, lyd- og videospor, primære og sekundære undertekster og lyd- + videoequalizerne." link="/docs/guide/evervideo/evervideo-guide-player" >}}
+  {{< ls-feature-card icon="play" title="Mediaspiller" subtitle="Styr avspilling, kø, Bilde-i-bilde, lyd- og videospor, primære og sekundære undertekster og lyd- + videoequalizerne." link="/docs/guide/evervideo/evervideo-guide-player" >}}
 
-  {{< feature-card icon="adjustments" title="Innstillinger" subtitle="Tilpass utseende, dekoder, equalizere, undertekster, widgets, språk, tilgangskode, sikkerhetskopi og ytelsesinnstillinger i Evervideo." link="/docs/guide/evervideo/evervideo-guide-settings" >}}
+  {{< ls-feature-card icon="adjustments" title="Innstillinger" subtitle="Tilpass utseende, dekoder, equalizere, undertekster, widgets, språk, tilgangskode, sikkerhetskopi og ytelsesinnstillinger i Evervideo." link="/docs/guide/evervideo/evervideo-guide-settings" >}}
 
 {{< /cards >}}
 

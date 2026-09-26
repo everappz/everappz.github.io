@@ -184,3 +184,5 @@ everdiskFeatAdvancedServerSettings: "Cài đặt máy chủ nâng cao"
 everdiskFeatSMB3Encryption: "Mã hóa SMB3"
 everdiskFeatAutomaticSharing: "Chia sẻ tự động"
 everdiskFeatDevicePersonalization: "Cá nhân hóa thiết bị"
+
+searchDocsPlaceholder: "Tìm trong tài liệu, câu hỏi thường gặp và hướng dẫn…"

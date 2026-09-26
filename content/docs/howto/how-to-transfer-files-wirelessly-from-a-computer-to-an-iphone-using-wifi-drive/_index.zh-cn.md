@@ -7,7 +7,7 @@ keywords: ["无线传输文件到iPhone", "Wi-Fi Drive文件传输", "iPhone电�
 readingTime: 2
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **简介：** Wi-Fi Drive让您可以通过Wi-Fi从任何电脑将文件传输到iPhone或iPad——无需iTunes或数据线。使用网页浏览器、Mac Finder或Windows File Explorer。两台设备必须在同一个Wi-Fi网络上。
@@ -18,7 +18,7 @@ Wi-Fi Drive是无需iTunes将文件从电脑传输到iPhone或iPad的最简单�
 
 您可以观看[**TECHGUYPH**](https://www.youtube.com/channel/UCgpf09gGFE_c_3pPTtTpnzg)的视频教程或阅读下面的文字版本。
 <br><br>
-{{< youtubecard id="CqdqrQ0ge70" title="Can We Wirelessly Put Offline Music on iPhones?" >}}
+{{< ls-youtubecard id="CqdqrQ0ge70" title="Can We Wirelessly Put Offline Music on iPhones?" >}}
 
 ## 使用桌面网页浏览器从电脑无线传输文件
 
@@ -90,26 +90,26 @@ Wi-Fi Drive是无需iTunes将文件从电脑传输到iPhone或iPad的最简单�
 
 ## 常见问题
 
-{{% details title="我需要iTunes才能将文件传输到iPhone吗？" closed="true" %}}
+{{% ls-details title="我需要iTunes才能将文件传输到iPhone吗？" closed="true" %}}
 不需要。Wi-Fi Drive通过本地Wi-Fi网络直接传输文件。不需要iTunes。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="哪些应用支持Wi-Fi Drive？" closed="true" %}}
+{{% ls-details title="哪些应用支持Wi-Fi Drive？" closed="true" %}}
 Wi-Fi Drive在iOS版Evermusic、Flacbox、Evertag和Evervideo中可用。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="两台设备需要在同一个Wi-Fi网络上吗？" closed="true" %}}
+{{% ls-details title="两台设备需要在同一个Wi-Fi网络上吗？" closed="true" %}}
 是的。您的电脑和iPhone或iPad必须连接到同一个本地Wi-Fi网络，Wi-Fi Drive才能工作。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="我可以传输整个文件夹，而不仅仅是单个文件吗？" closed="true" %}}
+{{% ls-details title="我可以传输整个文件夹，而不仅仅是单个文件吗？" closed="true" %}}
 可以。Wi-Fi Drive支持通过网页浏览器界面上传和下载整个文件夹。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Wi-Fi Drive可以在Windows上使用吗？" closed="true" %}}
+{{% ls-details title="Wi-Fi Drive可以在Windows上使用吗？" closed="true" %}}
 可以。您可以在Windows上使用任何网页浏览器，或通过WebDAV协议使用Windows File Explorer连接。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="我可以使用USB数据线加快传输速度吗？" closed="true" %}}
+{{% ls-details title="我可以使用USB数据线加快传输速度吗？" closed="true" %}}
 可以。如果在Wi-Fi Drive运行时iPhone通过USB连接到Mac，传输将使用有线连接以获得更快的速度。
-{{% /details %}}
+{{% /ls-details %}}

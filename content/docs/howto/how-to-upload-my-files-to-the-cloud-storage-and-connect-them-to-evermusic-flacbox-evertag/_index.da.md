@@ -7,7 +7,7 @@ tags: ["evermusic", "flacbox", "cloud", "fil", "konto", "manager", "forbindelse"
 keywords: ["forbind cloud-tjeneste til Evermusic", "upload filer til Google Drive", "Flacbox cloud-integration", "brug OneDrive med Evermusic", "Evertag cloud-filadgang", "forbind Dropbox til iOS-musikafspiller", "filhåndtering til cloud-tjenester"]
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **Kort sagt:** Upload dine musik- eller mediefiler til enhver understøttet cloud-tjeneste (Google Drive, Dropbox, OneDrive og flere), og forbind derefter tjenesten i Evermusic, Flacbox eller Evertag for at streame eller downloade dine filer direkte på iPhone, iPad eller Mac.
@@ -76,38 +76,38 @@ Sig farvel til lagringsbegrænsninger og goddag til bekvemmelighed!
 
 ## Ofte stillede spørgsmål
 
-{{% details title="Hvilke cloud-tjenester understøttes?" closed="true" %}}
+{{% ls-details title="Hvilke cloud-tjenester understøttes?" closed="true" %}}
 Evermusic, Flacbox og Evertag understøtter Google Drive, Dropbox, OneDrive, Box, MediaFire, Yandex.Disk, MEGA, MyDrive, pCloud og andre cloud-udbydere. Du kan også forbinde brugerdefinerede WebDAV-, SMB- og FTP-servere.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Kan jeg streame musik direkte fra skyen uden at downloade?" closed="true" %}}
+{{% ls-details title="Kan jeg streame musik direkte fra skyen uden at downloade?" closed="true" %}}
 Ja. Alle tre apps understøtter streaming af lydfiler direkte fra dit forbundne cloud-lager. Du kan også downloade filer til offline afspilning, når du ikke har internetadgang.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Er der en filstørrelses- eller lagringsbegrænsning i appen?" closed="true" %}}
+{{% ls-details title="Er der en filstørrelses- eller lagringsbegrænsning i appen?" closed="true" %}}
 Apps'ene pålægger ikke deres egne filstørrelses- eller lagringsbegrænsninger. Dit tilgængelige lager afhænger af din cloud-tjenesteplan og din enheds lokale lager til downloadede filer.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Kan jeg forbinde flere cloud-konti på samme tid?" closed="true" %}}
+{{% ls-details title="Kan jeg forbinde flere cloud-konti på samme tid?" closed="true" %}}
 Ja. Du kan forbinde flere cloud-tjenester og flere konti fra den samme udbyder samtidig. Alle forbundne konti vises i fanen Forbindelser for nem skift.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Skal jeg uploade filer igen, hvis jeg skifter til en anden app?" closed="true" %}}
+{{% ls-details title="Skal jeg uploade filer igen, hvis jeg skifter til en anden app?" closed="true" %}}
 Nej. Da dine filer er gemt i skyen, kan du forbinde den samme cloud-konto til Evermusic, Flacbox eller Evertag uden at uploade noget igen. Hver app tilgår de samme filer fra dit cloud-lager.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Er mine cloud-kontodata sikre?" closed="true" %}}
+{{% ls-details title="Er mine cloud-kontodata sikre?" closed="true" %}}
 Ja. Appen bruger kun officielle SDK'er og krypterede forbindelser til at interagere med cloud-tjenester. Dit login og password gemmes aldrig af appen. Når du logger ind, viser appen den officielle autorisationsside leveret af cloud-tjenesten. Efter vellykket autorisation sender cloud-udbyderen et godkendelsestoken til appen, som gemmes sikkert i enhedens Keychain. Dette token bruges til alle API-anmodninger.<br><br>
 Appen deler ingen oplysninger fra din cloud-konto. Du kan tilbagekalde adgangen når som helst fra din cloud-kontos indstillingsside i en webbrowser eller frakoble kontoen inde i appen.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Hvordan frakobler jeg en cloud-tjeneste eller ændrer dens konfiguration?" closed="true" %}}
+{{% ls-details title="Hvordan frakobler jeg en cloud-tjeneste eller ændrer dens konfiguration?" closed="true" %}}
 Find cloud-lageret i appens fane **Forbindelser** og tryk på knappen **...** ved siden af. Du vil se disse muligheder:<br>
 - **Omdøb** -- ændr visningsnavnet for cloud-tjenesten<br>
 - **Indstillinger** -- ændr konfiguration eller genautoriser, hvis tokenet er udløbet<br>
 - **Frakoble** -- fjern forbindelsen helt. Dette fjerner alle sange fra denne cloud-tjeneste fra appens musikbibliotek, men filerne forbliver på serveren
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Hvordan tilbagekalder jeg appens adgang til min cloud-konto?" closed="true" %}}
+{{% ls-details title="Hvordan tilbagekalder jeg appens adgang til min cloud-konto?" closed="true" %}}
 Log ind på din cloud-konto i en webbrowser og åbn kontoindstillinger eller sikkerhedssiden. Find listen over forbundne tredjepartsapps og fjern den app, du ikke længere vil autorisere. Du kan også frakoble cloud-kontoen inde i appen -- dette fjerner godkendelsestokenet fra din enhed. Hvis du sletter appen helt, fjernes alle downloadede data og adgangstokens automatisk.
-{{% /details %}}
+{{% /ls-details %}}

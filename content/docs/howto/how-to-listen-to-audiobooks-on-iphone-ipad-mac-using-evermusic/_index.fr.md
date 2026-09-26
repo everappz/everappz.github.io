@@ -7,7 +7,7 @@ tags: ["livres audio", "lecture", "hors ligne", "evermusic", "signet"]
 readingTime: 5
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **En résumé :** Evermusic fait également office de lecteur de livres audio complet sur iOS et macOS. Transférez des livres audio via iTunes, WiFi ou stockage cloud, puis utilisez le contrôle de vitesse de lecture, les boutons de saut, les signets audio, la reprise de lecture et les téléchargements hors ligne pour une expérience d'écoute fluide.
@@ -151,26 +151,26 @@ Bonne écoute !
 
 ## Questions fréquemment posées
 
-{{% details title="Quels formats de livres audio Evermusic prend-il en charge ?" closed="true" %}}
+{{% ls-details title="Quels formats de livres audio Evermusic prend-il en charge ?" closed="true" %}}
 Evermusic prend en charge les formats MP3, M4A, M4B, FLAC, WAV, AIFF, OGG et d'autres formats audio courants. Tout fichier audio qui se lit dans Evermusic fonctionne comme un livre audio.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Puis-je écouter des livres audio depuis le stockage cloud ?" closed="true" %}}
+{{% ls-details title="Puis-je écouter des livres audio depuis le stockage cloud ?" closed="true" %}}
 Oui. Evermusic se connecte à iCloud Drive, Google Drive, Dropbox, OneDrive, Box et aux serveurs WebDAV. Vous pouvez diffuser des livres audio directement ou les télécharger pour une écoute hors ligne.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Mes signets seront-ils transférés vers un nouvel appareil ?" closed="true" %}}
+{{% ls-details title="Mes signets seront-ils transférés vers un nouvel appareil ?" closed="true" %}}
 Oui. Evermusic enregistre les signets audio dans les métadonnées du fichier, ils sont donc transférés automatiquement lorsque vous déplacez des fichiers vers un nouvel appareil.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Evermusic se souvient-il de l'endroit où j'ai arrêté l'écoute ?" closed="true" %}}
+{{% ls-details title="Evermusic se souvient-il de l'endroit où j'ai arrêté l'écoute ?" closed="true" %}}
 Oui. Activez « Sauvegarder la position de lecture » et « Sauvegarder l'état du lecteur audio » dans Paramètres > Lecteur audio > Général. L'application sauvegarde et restaure votre position exacte entre les sessions.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Puis-je ajuster la vitesse de lecture des livres audio ?" closed="true" %}}
+{{% ls-details title="Puis-je ajuster la vitesse de lecture des livres audio ?" closed="true" %}}
 Oui. Allez dans Paramètres > Lecteur audio > Vitesse de lecture pour définir votre vitesse préférée. Vous pouvez accélérer ou ralentir la narration selon vos préférences d'écoute.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Comment transférer des livres audio vers Evermusic ?" closed="true" %}}
+{{% ls-details title="Comment transférer des livres audio vers Evermusic ?" closed="true" %}}
 Vous pouvez transférer des fichiers via le partage de fichiers iTunes/Finder, WiFi Drive (intégré dans l'application) ou en connectant un compte de stockage cloud dans Evermusic.
-{{% /details %}}
+{{% /ls-details %}}

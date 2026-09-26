@@ -19,7 +19,7 @@ V sekci Seznamy skladeb najdete užitečné nástroje pro správu sbírek videí
 Playlisty v Evervideo mohou obsahovat mix online cloudových videí, stažených offline souborů, místních souborů, videí z knihovny Fotek a videí z iOS knihovny Hudby — vše v jednom playlistu — a přehrávají se plynule dohromady.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Seznamy skladeb v knihovně médií Evervideo" image="/docs/guide/evervideo/img/evervideo-playlists-in-media-library.webp" >}}
+  {{< ls-card title="" subtitle="Seznamy skladeb v knihovně médií Evervideo" image="/docs/guide/evervideo/img/evervideo-playlists-in-media-library.webp" >}}
 {{< /cards >}}
 
 ## Vytvoření playlistu

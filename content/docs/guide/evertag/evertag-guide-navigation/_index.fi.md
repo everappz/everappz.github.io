@@ -16,7 +16,7 @@ readingTime: 3
 Evertag tarjoaa intuitiivisen käyttöliittymän. Se erottuu monista suosituista sovelluksista sisäänrakennetulla tiedostonhallinnallaan, joka antaa käyttäjille mahdollisuuden muokata äänitiedostoja ja siirtää niitä saumattomasti pilvipalveluun ja sieltä pois.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evertag Screen" image="/docs/guide/evertag/img/tag-editor.webp" >}}
+  {{< ls-card title="" subtitle="Evertag Screen" image="/docs/guide/evertag/img/tag-editor.webp" >}}
 {{< /cards >}}
 
 ## Osiot
@@ -42,7 +42,7 @@ Paikalliset tiedostot -osio on jaettu kahteen luokkaan: **Tiedostot tässä sove
 Käytännössä jokaisella näytön sisältökohteella on «Lisää toimintoja» -painike. Napauta sitä päästäksesi kaikkiin saatavilla oleviin toimintoihin.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evertag More Actions" image="/docs/guide/evertag/img/downloads-file-actions.webp" >}}
+  {{< ls-card title="" subtitle="Evertag More Actions" image="/docs/guide/evertag/img/downloads-file-actions.webp" >}}
 {{< /cards >}}
 
 ## Ylätyökalupalkki

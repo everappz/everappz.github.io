@@ -6,7 +6,7 @@ excludeSearch: true
 ---
 
 
-{{< lottie src="/images/juicy-json/juicy-team-analyzes-graphs-and-diagrams.json" width="85%" >}}
+{{< ls-lottie src="/images/juicy-json/juicy-team-analyzes-graphs-and-diagrams.json" width="85%" >}}
 
 Această secțiune oferă ghiduri practice, ușor de urmat pentru utilizarea aplicațiilor Everappz.
 
@@ -14,4 +14,4 @@ Fie că te configurezi pentru prima dată sau cauți sfaturi despre funcții ava
 
 Explorează tutorialele noastre pentru a rezolva probleme, a învăța trucuri noi și a profita la maximum de experiența cu aplicația.
 
-{{< posts-list path="/docs/howto" >}}
+{{< ls-posts-list path="/docs/howto" >}}

@@ -7,7 +7,7 @@ tags: ["promosyon", "appstore", "yükleme", "kod kullanma", "kod", "ücretsiz"]
 readingTime: 2
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **Özet:** Bir promosyon kodu, ücretli bir uygulamayı ücretsiz indirmenizi veya uygulama içi satın almaları açmanızı sağlar. iOS'ta: App Store > Hesap simgesi > Hediye Kartı veya Kodu Kullan > kodu girin. Mac'te: App Store > Hesap > Hediye Kartını Kullan > kodu girin. Ardından uygulamayı açın ve gerekirse satın almaları geri yükleyin.
@@ -94,22 +94,22 @@ Kodu kullanmak için yukarıdaki aynı adımları izleyin. Ardından uygulamayı
 
 ## Sıkça Sorulan Sorular
 
-{{% details title="Promosyon kodunu nereden alabilirim?" closed="true" %}}
+{{% ls-details title="Promosyon kodunu nereden alabilirim?" closed="true" %}}
 Promosyon kodları, incelemeler, çekilişler veya tanıtımlar için uygulama geliştiricileri tarafından sağlanır. Bir kod talep etmek için doğrudan geliştiriciyle iletişime geçin.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Promosyon kodlarının süresi doluyor mu?" closed="true" %}}
+{{% ls-details title="Promosyon kodlarının süresi doluyor mu?" closed="true" %}}
 Evet. Apple App Store promosyon kodları oluşturulduktan 28 gün sonra sona erer ve yalnızca bir kez kullanılabilir.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Promosyon kodunu herhangi bir ülkede kullanabilir miyim?" closed="true" %}}
+{{% ls-details title="Promosyon kodunu herhangi bir ülkede kullanabilir miyim?" closed="true" %}}
 Promosyon kodları bölgeye özeldir. Kod, Apple ID'nizin App Store ülkesiyle eşleşmelidir.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Promosyon koduyla uygulama içi satın almaları nasıl etkinleştiririm?" closed="true" %}}
+{{% ls-details title="Promosyon koduyla uygulama içi satın almaları nasıl etkinleştiririm?" closed="true" %}}
 App Store'da kodu kullandıktan sonra uygulamayı açın ve Ayarlar > Satın Almaları Geri Yükle bölümüne gidin. Premium içerik otomatik olarak açılacaktır.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Promosyon kodu zaten kullanılmış diyor. Ne yapmalıyım?" closed="true" %}}
+{{% ls-details title="Promosyon kodu zaten kullanılmış diyor. Ne yapmalıyım?" closed="true" %}}
 Her promosyon kodu yalnızca bir kez kullanılabilir. Yeni bir kod talep etmek için geliştiriciyle iletişime geçin.
-{{% /details %}}
+{{% /ls-details %}}

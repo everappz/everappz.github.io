@@ -29,7 +29,7 @@ tags: [
 readingTime: 5
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **संक्षेप में:** Apple Music की बिल्ट-इन **File > Library > Export Playlist** फीचर का उपयोग करके किसी भी प्लेलिस्ट को M3U फाइल के रूप में सेव करें। फिर इसे Mac पर **Evermusic** या **Flacbox** में इम्पोर्ट करें। आप अन्य डिवाइस पर आसान ट्रांसफर के लिए प्लेलिस्ट को ZIP फाइल के रूप में भी आर्काइव कर सकते हैं।
@@ -45,13 +45,13 @@ macOS पर Apple Music आपको न केवल अपनी Apple Music 
 अपने Mac पर Apple Music ऐप में प्लेलिस्ट खोलकर शुरू करें।
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Apple Music में प्लेलिस्ट खोलें" image="/docs/howto/how-to-export-apple-music-playlists-and-play-them-in-evermusic-on-mac/1-apple-music-playlist.webp" >}}
+  {{< ls-card title="" subtitle="Apple Music में प्लेलिस्ट खोलें" image="/docs/howto/how-to-export-apple-music-playlists-and-play-them-in-evermusic-on-mac/1-apple-music-playlist.webp" >}}
 {{< /cards >}}
 
 टॉप मेनू से **File → Library → Export Playlist** पर जाएं।
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="अपनी लाइब्रेरी से प्लेलिस्ट एक्सपोर्ट करें" image="/docs/howto/how-to-export-apple-music-playlists-and-play-them-in-evermusic-on-mac/2-library-export-playlist.webp" >}}
+  {{< ls-card title="" subtitle="अपनी लाइब्रेरी से प्लेलिस्ट एक्सपोर्ट करें" image="/docs/howto/how-to-export-apple-music-playlists-and-play-them-in-evermusic-on-mac/2-library-export-playlist.webp" >}}
 {{< /cards >}}
 
 वह डेस्टिनेशन चुनें जहां M3U फाइल सेव होगी।  
@@ -61,7 +61,7 @@ macOS पर Apple Music आपको न केवल अपनी Apple Music 
 > चूंकि ऐप्स macOS पर sandbox मोड में चलते हैं, सफल इम्पोर्ट के लिए **प्लेलिस्ट फाइल** और **मीडिया फाइलें** दोनों एक ही फोल्डर में होनी चाहिए।
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="M3U फाइल के लिए डेस्टिनेशन चुनें" image="/docs/howto/how-to-export-apple-music-playlists-and-play-them-in-evermusic-on-mac/3-select-m3u-destination.webp" >}}
+  {{< ls-card title="" subtitle="M3U फाइल के लिए डेस्टिनेशन चुनें" image="/docs/howto/how-to-export-apple-music-playlists-and-play-them-in-evermusic-on-mac/3-select-m3u-destination.webp" >}}
 {{< /cards >}}
 
 ## Evermusic या Flacbox में प्लेलिस्ट इम्पोर्ट करना
@@ -69,26 +69,26 @@ macOS पर Apple Music आपको न केवल अपनी Apple Music 
 Mac App Store से कोई एक ऐप डाउनलोड करें:
 
 {{< cards cols="1">}}
-{{< card link="https://apps.apple.com/app/apple-store/id1564384601?pt=95781850&ct=everappzcom&mt=8" title="Evermusic" icon="download" tag="Free" >}}
-{{< card link="https://apps.apple.com/app/apple-store/id1594027432?pt=95781850&ct=everappzcom&mt=8" title="Flacbox" icon="download" tag="Free" >}}
+{{< ls-card link="https://apps.apple.com/app/apple-store/id1564384601?pt=95781850&ct=everappzcom&mt=8" title="Evermusic" icon="download" tag="Free" >}}
+{{< ls-card link="https://apps.apple.com/app/apple-store/id1594027432?pt=95781850&ct=everappzcom&mt=8" title="Flacbox" icon="download" tag="Free" >}}
 {{< /cards >}}
 
 ऐप में **प्लेलिस्ट टैब** खोलें।
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evermusic में प्लेलिस्ट खोलें" image="/docs/howto/how-to-export-apple-music-playlists-and-play-them-in-evermusic-on-mac/4-evermusic-playlists.webp" >}}
+  {{< ls-card title="" subtitle="Evermusic में प्लेलिस्ट खोलें" image="/docs/howto/how-to-export-apple-music-playlists-and-play-them-in-evermusic-on-mac/4-evermusic-playlists.webp" >}}
 {{< /cards >}}
 
 **जोड़ें** बटन पर टैप करें और **प्लेलिस्ट इम्पोर्ट करें** चुनें।
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evermusic में प्लेलिस्ट इम्पोर्ट करें" image="/docs/howto/how-to-export-apple-music-playlists-and-play-them-in-evermusic-on-mac/5-evermusic-import-playlist.webp" >}}
+  {{< ls-card title="" subtitle="Evermusic में प्लेलिस्ट इम्पोर्ट करें" image="/docs/howto/how-to-export-apple-music-playlists-and-play-them-in-evermusic-on-mac/5-evermusic-import-playlist.webp" >}}
 {{< /cards >}}
 
 अगला, लोकली स्टोर की गई फाइलें इम्पोर्ट करने के लिए **इस Mac पर फाइलें** चुनें।
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evermusic में इम्पोर्ट लोकेशन चुनें" image="/docs/howto/how-to-export-apple-music-playlists-and-play-them-in-evermusic-on-mac/6-evermusic-select-location.webp" >}}
+  {{< ls-card title="" subtitle="Evermusic में इम्पोर्ट लोकेशन चुनें" image="/docs/howto/how-to-export-apple-music-playlists-and-play-them-in-evermusic-on-mac/6-evermusic-select-location.webp" >}}
 {{< /cards >}}
 
 अब, अपना **Music फोल्डर** कनेक्ट करें (जहां आपने M3U प्लेलिस्ट सेव की थी)।  
@@ -98,37 +98,37 @@ Mac App Store से कोई एक ऐप डाउनलोड करें:
 > सुनिश्चित करें कि प्लेलिस्ट फाइल और संबंधित मीडिया फाइलें एक ही फोल्डर में हैं।
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="इस Mac पर फाइलें चुनें" image="/docs/howto/how-to-export-apple-music-playlists-and-play-them-in-evermusic-on-mac/7-files-on-this-mac.webp" >}}
+  {{< ls-card title="" subtitle="इस Mac पर फाइलें चुनें" image="/docs/howto/how-to-export-apple-music-playlists-and-play-them-in-evermusic-on-mac/7-files-on-this-mac.webp" >}}
 {{< /cards >}}
 
 अपना **Music फोल्डर** चुनें (जहां आपने M3U प्लेलिस्ट सेव की थी) और चयन की पुष्टि करने के लिए **Open** पर टैप करें।
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="अपना Music फोल्डर चुनें" image="/docs/howto/how-to-export-apple-music-playlists-and-play-them-in-evermusic-on-mac/8-select-music-folder-location.webp" >}}
+  {{< ls-card title="" subtitle="अपना Music फोल्डर चुनें" image="/docs/howto/how-to-export-apple-music-playlists-and-play-them-in-evermusic-on-mac/8-select-music-folder-location.webp" >}}
 {{< /cards >}}
 
 कनेक्ट होने के बाद, फोल्डर खोलें और अपनी एक्सपोर्ट की गई **M3U फाइल** चुनें।
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="M3U फाइल चुनें" image="/docs/howto/how-to-export-apple-music-playlists-and-play-them-in-evermusic-on-mac/9-select-m3u-file.webp" >}}
+  {{< ls-card title="" subtitle="M3U फाइल चुनें" image="/docs/howto/how-to-export-apple-music-playlists-and-play-them-in-evermusic-on-mac/9-select-m3u-file.webp" >}}
 {{< /cards >}}
 
 ऐप प्लेलिस्ट से सभी ट्रैक इम्पोर्ट करना शुरू कर देगा।
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="प्लेलिस्ट इम्पोर्ट होने तक प्रतीक्षा करें" image="/docs/howto/how-to-export-apple-music-playlists-and-play-them-in-evermusic-on-mac/10-importing-playlist.webp" >}}
+  {{< ls-card title="" subtitle="प्लेलिस्ट इम्पोर्ट होने तक प्रतीक्षा करें" image="/docs/howto/how-to-export-apple-music-playlists-and-play-them-in-evermusic-on-mac/10-importing-playlist.webp" >}}
 {{< /cards >}}
 
 पूरा होने के बाद, आप अपनी प्लेलिस्ट उपयोग के लिए तैयार देखेंगे।  
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="प्लेलिस्ट सफलतापूर्वक इम्पोर्ट हुई" image="/docs/howto/how-to-export-apple-music-playlists-and-play-them-in-evermusic-on-mac/11-playlist-imported.webp" >}}
+  {{< ls-card title="" subtitle="प्लेलिस्ट सफलतापूर्वक इम्पोर्ट हुई" image="/docs/howto/how-to-export-apple-music-playlists-and-play-them-in-evermusic-on-mac/11-playlist-imported.webp" >}}
 {{< /cards >}}
 
 इसकी सामग्री देखने या तुरंत प्लेबैक शुरू करने के लिए उस पर टैप करें।
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="इम्पोर्ट की गई प्लेलिस्ट खोलें" image="/docs/howto/how-to-export-apple-music-playlists-and-play-them-in-evermusic-on-mac/12-opened-playlist.webp" >}}
+  {{< ls-card title="" subtitle="इम्पोर्ट की गई प्लेलिस्ट खोलें" image="/docs/howto/how-to-export-apple-music-playlists-and-play-them-in-evermusic-on-mac/12-opened-playlist.webp" >}}
 {{< /cards >}}
 
 ## प्लेलिस्ट आर्काइव और ट्रांसफर करना
@@ -140,26 +140,26 @@ Evermusic और Flacbox उन्नत प्लेलिस्ट प्र�
 बस प्लेलिस्ट मेनू से **अधिक क्रियाएं → आर्काइव में जोड़ें** चुनें।
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="प्लेलिस्ट के लिए अधिक क्रियाएं खोलें" image="/docs/howto/how-to-export-apple-music-playlists-and-play-them-in-evermusic-on-mac/14-more-actions-playlist.webp" >}}
+  {{< ls-card title="" subtitle="प्लेलिस्ट के लिए अधिक क्रियाएं खोलें" image="/docs/howto/how-to-export-apple-music-playlists-and-play-them-in-evermusic-on-mac/14-more-actions-playlist.webp" >}}
 {{< /cards >}}
 
 **आर्काइव में जोड़ें** चुनने के बाद, ऐप प्लेलिस्ट प्रोसेस करने के दौरान कुछ क्षण प्रतीक्षा करें।  
 आर्काइविंग पूरी होने के बाद, आपको एक **सफलता अलर्ट** दिखाई देगा। नए बने ZIP आर्काइव को दिखाने के लिए **फाइल दिखाएं** पर टैप करें।
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="आर्काइविंग पूरी हुई" image="/docs/howto/how-to-export-apple-music-playlists-and-play-them-in-evermusic-on-mac/15-archiving-completed.webp" >}}
+  {{< ls-card title="" subtitle="आर्काइविंग पूरी हुई" image="/docs/howto/how-to-export-apple-music-playlists-and-play-them-in-evermusic-on-mac/15-archiving-completed.webp" >}}
 {{< /cards >}}
 
 ऐप फिर **एक्सपोर्ट फोल्डर** खोलेगा, जहां सभी बनाए गए आर्काइव स्टोर किए जाते हैं।
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="एक्सपोर्ट फोल्डर खोलें" image="/docs/howto/how-to-export-apple-music-playlists-and-play-them-in-evermusic-on-mac/16-export-folder.webp" >}}
+  {{< ls-card title="" subtitle="एक्सपोर्ट फोल्डर खोलें" image="/docs/howto/how-to-export-apple-music-playlists-and-play-them-in-evermusic-on-mac/16-export-folder.webp" >}}
 {{< /cards >}}
 
 अपना नया बनाया गया आर्काइव ढूंढें, उसके बगल में **अधिक क्रियाएं** बटन पर टैप करें, और **Finder में दिखाएं** चुनें।
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="ZIP फाइल पर अधिक क्रियाएं उपयोग करें" image="/docs/howto/how-to-export-apple-music-playlists-and-play-them-in-evermusic-on-mac/17-more-actions-menu-zip-file.webp" >}}
+  {{< ls-card title="" subtitle="ZIP फाइल पर अधिक क्रियाएं उपयोग करें" image="/docs/howto/how-to-export-apple-music-playlists-and-play-them-in-evermusic-on-mac/17-more-actions-menu-zip-file.webp" >}}
 {{< /cards >}}
 
 अब आप अपने Mac पर **ZIP फाइल की वास्तविक लोकेशन** देखेंगे।  
@@ -167,13 +167,13 @@ Evermusic और Flacbox उन्नत प्लेलिस्ट प्र�
 लेकिन उससे पहले, आइए देखें कि अंदर क्या है। फाइल को अनआर्काइव करने के लिए उस पर डबल-क्लिक करें।
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Finder में ZIP फाइल दिखाएं" image="/docs/howto/how-to-export-apple-music-playlists-and-play-them-in-evermusic-on-mac/18-zip-file-revealed-in-finder.webp" >}}
+  {{< ls-card title="" subtitle="Finder में ZIP फाइल दिखाएं" image="/docs/howto/how-to-export-apple-music-playlists-and-play-them-in-evermusic-on-mac/18-zip-file-revealed-in-finder.webp" >}}
 {{< /cards >}}
 
 अंदर, आपको **पूर्ण प्लेलिस्ट सामग्री** मिलेगी — प्लेलिस्ट में शामिल सभी ऑडियो फाइलें, साथ ही **M3U प्लेलिस्ट फाइल**।
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="ZIP फाइल अनआर्काइव करें" image="/docs/howto/how-to-export-apple-music-playlists-and-play-them-in-evermusic-on-mac/19-unarchived-zip-file.webp" >}}
+  {{< ls-card title="" subtitle="ZIP फाइल अनआर्काइव करें" image="/docs/howto/how-to-export-apple-music-playlists-and-play-them-in-evermusic-on-mac/19-unarchived-zip-file.webp" >}}
 {{< /cards >}}
 
 अंत में, इसकी सामग्री की जांच करने के लिए **M3U फाइल** खोलें।  
@@ -181,7 +181,7 @@ Evermusic और Flacbox उन्नत प्लेलिस्ट प्र�
 ऐप **सही ट्रैक क्रम** और **सभी संबंधित मीडिया फाइलों** के साथ प्लेलिस्ट को रिस्टोर करेगा।
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="M3U प्लेलिस्ट सामग्री देखें" image="/docs/howto/how-to-export-apple-music-playlists-and-play-them-in-evermusic-on-mac/20-m3u-playlist-content.webp" >}}
+  {{< ls-card title="" subtitle="M3U प्लेलिस्ट सामग्री देखें" image="/docs/howto/how-to-export-apple-music-playlists-and-play-them-in-evermusic-on-mac/20-m3u-playlist-content.webp" >}}
 {{< /cards >}}
 
 ## निष्कर्ष
@@ -199,22 +199,22 @@ Apple Music प्लेलिस्ट एक्सपोर्ट करना
 
 ## अक्सर पूछे जाने वाले प्रश्न
 
-{{% details title="Apple Music किस प्लेलिस्ट फॉर्मेट में एक्सपोर्ट करता है?" closed="true" %}}
+{{% ls-details title="Apple Music किस प्लेलिस्ट फॉर्मेट में एक्सपोर्ट करता है?" closed="true" %}}
 Apple Music प्लेलिस्ट को M3U फॉर्मेट में एक्सपोर्ट करता है, जो एक मानक प्लेलिस्ट फॉर्मेट है जो Evermusic, Flacbox, VLC और foobar2000 सहित अधिकांश म्यूजिक प्लेयर्स द्वारा समर्थित है।
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="M3U फाइल और ऑडियो फाइलें एक ही फोल्डर में क्यों होनी चाहिए?" closed="true" %}}
+{{% ls-details title="M3U फाइल और ऑडियो फाइलें एक ही फोल्डर में क्यों होनी चाहिए?" closed="true" %}}
 Evermusic और Flacbox macOS sandbox मोड में चलते हैं, जो फाइल एक्सेस को उन फोल्डरों तक सीमित करता है जिन्हें आप स्पष्ट रूप से अनुमति देते हैं। M3U फाइल और ऑडियो फाइलों को एक ही फोल्डर में रखना सुनिश्चित करता है कि ऐप इम्पोर्ट के दौरान दोनों को पढ़ सकता है।
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="क्या मैं Mac और iPhone के बीच प्लेलिस्ट ट्रांसफर कर सकता हूं?" closed="true" %}}
+{{% ls-details title="क्या मैं Mac और iPhone के बीच प्लेलिस्ट ट्रांसफर कर सकता हूं?" closed="true" %}}
 हां। प्लेलिस्ट और सभी ट्रैक वाली ZIP फाइल बनाने के लिए प्लेलिस्ट आर्काइविंग फीचर का उपयोग करें। AirDrop, iCloud Drive या किसी अन्य विधि से ZIP को अपने iPhone पर ट्रांसफर करें, फिर इसे iOS पर Evermusic या Flacbox में इम्पोर्ट करें।
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="क्या यह Apple Music स्ट्रीमिंग ट्रैक के साथ काम करता है?" closed="true" %}}
+{{% ls-details title="क्या यह Apple Music स्ट्रीमिंग ट्रैक के साथ काम करता है?" closed="true" %}}
 यह विधि लोकल ऑडियो फाइलों के साथ काम करती है जिन्हें आपने Apple Music में जोड़ा है। Apple Music से DRM-प्रोटेक्टेड स्ट्रीमिंग ट्रैक को M3U प्लेलिस्ट के रूप में एक्सपोर्ट नहीं किया जा सकता।
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Evermusic और Flacbox कौन से ऑडियो फॉर्मेट सपोर्ट करते हैं?" closed="true" %}}
+{{% ls-details title="Evermusic और Flacbox कौन से ऑडियो फॉर्मेट सपोर्ट करते हैं?" closed="true" %}}
 दोनों ऐप्स MP3, FLAC, AAC, WAV, OGG, AIFF, ALAC, WMA, APE और अन्य सहित फॉर्मेट की एक विस्तृत श्रृंखला का समर्थन करते हैं। वे लॉसलेस फॉर्मेट के लिए हाई-रेज ऑडियो प्लेबैक का भी समर्थन करते हैं।
-{{% /details %}}
+{{% /ls-details %}}

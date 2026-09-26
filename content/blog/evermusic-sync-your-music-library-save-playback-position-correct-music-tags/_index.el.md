@@ -12,7 +12,7 @@ authors:
     image: "/images/about/artem-meleshko-founder-everappz.webp"
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 ![](/blog/evermusic-sync-your-music-library-save-playback-position-correct-music-tags/21260c_641f376e779e47d4927b43c210d3c87f~mv2.jpeg)
 
@@ -67,22 +67,22 @@ authors:
 
 ## Συχνές ερωτήσεις
 
-{{% details title="Λειτουργεί ο αυτόματος συγχρονισμός του Evermusic με όλες τις υπηρεσίες cloud;" closed="true" %}}
+{{% ls-details title="Λειτουργεί ο αυτόματος συγχρονισμός του Evermusic με όλες τις υπηρεσίες cloud;" closed="true" %}}
 Ναι. Ο αυτόματος συγχρονισμός λειτουργεί με Dropbox, Google Drive, OneDrive, MEGA, WebDAV και SMB. Επιλέξτε τους φακέλους που θέλετε να παρακολουθούνται και το Evermusic κρατά τη βιβλιοθήκη σας ενημερωμένη.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Μπορεί το Evermusic να αποθηκεύσει τη θέση του ηχητικού βιβλίου μου;" closed="true" %}}
+{{% ls-details title="Μπορεί το Evermusic να αποθηκεύσει τη θέση του ηχητικού βιβλίου μου;" closed="true" %}}
 Ναι. Ενεργοποιήστε την αποθήκευση θέσης αναπαραγωγής στις ρυθμίσεις ήχου. Το Evermusic θυμάται πού σταματήσατε για κάθε αρχείο, ώστε να μπορείτε να συνεχίσετε χωρίς χειροκίνητους σελιδοδείκτες.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Πώς λειτουργεί η ανάγνωση μεταδεδομένων στο παρασκήνιο;" closed="true" %}}
+{{% ls-details title="Πώς λειτουργεί η ανάγνωση μεταδεδομένων στο παρασκήνιο;" closed="true" %}}
 Το Evermusic διαβάζει ετικέτες ID3 και μεταδεδομένα αρχείων στο παρασκήνιο ενώ χρησιμοποιείτε άλλες λειτουργίες. Οργανώνει αυτόματα τη βιβλιοθήκη σας κατά Καλλιτέχνη, Άλμπουμ και Είδος.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Θα διορθώσει το Evermusic τις κατεστραμμένες ετικέτες μουσικής μου;" closed="true" %}}
+{{% ls-details title="Θα διορθώσει το Evermusic τις κατεστραμμένες ετικέτες μουσικής μου;" closed="true" %}}
 Ναι. Η λειτουργία αυτόματης διόρθωσης ετικετών ελέγχει τα αρχεία σας σε σχέση με διαδικτυακές βάσεις δεδομένων και διορθώνει μη έγκυρα, ελλιπή ή ελλείποντα μεταδεδομένα ID3.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Είναι δωρεάν η λήψη του Evermusic;" closed="true" %}}
+{{% ls-details title="Είναι δωρεάν η λήψη του Evermusic;" closed="true" %}}
 Το Evermusic είναι δωρεάν για λήψη με προαιρετικές premium λειτουργίες διαθέσιμες μέσω αγοράς εντός εφαρμογής.
-{{% /details %}}
+{{% /ls-details %}}

@@ -12,7 +12,7 @@ authors:
     image: "/images/about/artem-meleshko-founder-everappz.webp"
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 **संक्षेप में:** Evermusic 3.6 में Apple CarPlay इंटीग्रेशन, पूर्ण VoiceOver एक्सेसिबिलिटी, मिक्स्ड ऑडियो आउटपुट, ऑटोमैटिक प्लेबैक रिज्यूम, FLAC/MP3/AIFF के लिए आर्टवर्क और टैग एडिटिंग, और iCloud Drive फ़ाइल इम्पोर्ट जोड़ा गया है।
 
@@ -78,18 +78,18 @@ iCloud Drive और अन्य ऐप्स से सीधे म्यू�
 
 ## FAQ
 
-{{% details title="क्या Evermusic CarPlay के साथ काम करता है?" closed="true" %}}
+{{% ls-details title="क्या Evermusic CarPlay के साथ काम करता है?" closed="true" %}}
 हाँ। वर्शन 3.6 से, Evermusic पूरी तरह से Apple CarPlay को सपोर्ट करता है। आप अपनी कार की बिल्ट-इन डिस्प्ले से अपनी म्यूजिक लाइब्रेरी ब्राउज़ और प्ले कर सकते हैं।
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="क्या Evermusic अंधे या कम दृष्टि वाले उपयोगकर्ताओं के लिए एक्सेसिबल है?" closed="true" %}}
+{{% ls-details title="क्या Evermusic अंधे या कम दृष्टि वाले उपयोगकर्ताओं के लिए एक्सेसिबल है?" closed="true" %}}
 हाँ। Evermusic 3.6 में वर्णनात्मक लेबल, हिंट्स और सिम्प्लीफाइड इंटरफ़ेस मोड के साथ पूर्ण VoiceOver सपोर्ट शामिल है।
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="क्या मैं Evermusic से iPhone पर FLAC टैग एडिट कर सकता हूँ?" closed="true" %}}
+{{% ls-details title="क्या मैं Evermusic से iPhone पर FLAC टैग एडिट कर सकता हूँ?" closed="true" %}}
 हाँ। Evermusic में एक बिल्ट-इन टैग एडिटर शामिल है जो FLAC, MP3 और AIFF फ़ाइलों के साथ काम करता है। आप टाइटल, आर्टिस्ट, एल्बम और आर्टवर्क एडिट कर सकते हैं।
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="क्या Evermusic याद रखता है कि मैंने कहाँ सुनना बंद किया?" closed="true" %}}
+{{% ls-details title="क्या Evermusic याद रखता है कि मैंने कहाँ सुनना बंद किया?" closed="true" %}}
 हाँ। जब "Save Audio Player State" सक्षम है, तो Evermusic ऐप दोबारा खोलने पर आपकी क्यू, करंट ट्रैक और सटीक प्लेबैक पोज़िशन रिस्टोर करता है।
-{{% /details %}}
+{{% /ls-details %}}

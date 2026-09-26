@@ -33,7 +33,7 @@ La scheda File è divisa in sezioni chiare che appaiono in questo ordine sullo s
 Nell'angolo in alto a destra della schermata File c'è un pulsante Transfer (un'icona con frecce rotanti). Toccalo per aprire la Coda di Trasferimento dove puoi monitorare ogni download e caricamento da tutte le tue sorgenti.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="File Evervideo su Tutte le Archiviazioni Connesse" image="/docs/guide/evervideo/img/evervideo-files-connected-storages.webp" >}}
+  {{< ls-card title="" subtitle="File Evervideo su Tutte le Archiviazioni Connesse" image="/docs/guide/evervideo/img/evervideo-files-connected-storages.webp" >}}
 {{< /cards >}}
 
 ## Connetti all'Archiviazione Cloud
@@ -41,7 +41,7 @@ Nell'angolo in alto a destra della schermata File c'è un pulsante Transfer (un'
 La sezione Archiviazione Cloud della scheda File è dove vivono ogni account connesso, NAS, server multimediale e stream — fianco a fianco, in un unico elenco scorrevole.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Sezione Archiviazione Cloud Evervideo nella Scheda File" image="/docs/guide/evervideo/img/evervideo-connections.webp" >}}
+  {{< ls-card title="" subtitle="Sezione Archiviazione Cloud Evervideo nella Scheda File" image="/docs/guide/evervideo/img/evervideo-connections.webp" >}}
 {{< /cards >}}
 
 - Apri la scheda **File**.
@@ -51,7 +51,7 @@ La sezione Archiviazione Cloud della scheda File è dove vivono ogni account con
 - Inserisci le tue credenziali nella pagina di autorizzazione ufficiale fornita dal provider cloud, quindi tocca **Fatto**.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evervideo Connette un Servizio di Archiviazione Cloud" image="/docs/guide/evervideo/img/evervideo-connect-cloud-storage.webp" >}}
+  {{< ls-card title="" subtitle="Evervideo Connette un Servizio di Archiviazione Cloud" image="/docs/guide/evervideo/img/evervideo-connect-cloud-storage.webp" >}}
 {{< /cards >}}
 
 Se incontri problemi, controlla la connessione internet e login / password. Nella versione Premium dell'app, puoi aggiungere un numero illimitato di servizi; la versione gratuita supporta fino a tre.
@@ -161,7 +161,7 @@ Questa sezione mostra ogni dispositivo sulla rete locale a cui puoi connetterti 
 - Se necessario, inserisci i tuoi dati di accesso per completare la connessione.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Dispositivi Disponibili Evervideo sulla Rete Locale" image="/docs/guide/evervideo/img/evervideo-available-devices.webp" >}}
+  {{< ls-card title="" subtitle="Dispositivi Disponibili Evervideo sulla Rete Locale" image="/docs/guide/evervideo/img/evervideo-available-devices.webp" >}}
 {{< /cards >}}
 
 ## Wi-Fi Drive
@@ -169,7 +169,7 @@ Questa sezione mostra ogni dispositivo sulla rete locale a cui puoi connetterti 
 Wi-Fi Drive ti consente di trasferire file in modalità wireless dal computer al dispositivo iOS tramite qualsiasi browser desktop, Finder o File Explorer. Il dispositivo e il computer devono essere sulla stessa rete Wi-Fi.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Wi-Fi Drive di Evervideo" image="/docs/guide/evervideo/img/evervideo-wifi-drive.webp" >}}
+  {{< ls-card title="" subtitle="Wi-Fi Drive di Evervideo" image="/docs/guide/evervideo/img/evervideo-wifi-drive.webp" >}}
 {{< /cards >}}
 
 ### Abilita Wi-Fi Drive
@@ -201,7 +201,7 @@ Collega un drive USB o una scheda SD al tuo iPhone, iPad o Mac tramite l'adattat
 Tocca qualsiasi servizio cloud connesso per aprire il suo browser di file. Le cartelle mostrano miniature video quando disponibili, e toccare un video avvia immediatamente la riproduzione continuando a fare streaming del resto del file in background.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evervideo Naviga Cartelle nei Depositi Connessi" image="/docs/guide/evervideo/img/evervideo-all-connected-device-folders.webp" >}}
+  {{< ls-card title="" subtitle="Evervideo Naviga Cartelle nei Depositi Connessi" image="/docs/guide/evervideo/img/evervideo-all-connected-device-folders.webp" >}}
 {{< /cards >}}
 
 ## Accesso Rapido
@@ -209,7 +209,7 @@ Tocca qualsiasi servizio cloud connesso per aprire il suo browser di file. Le ca
 La sezione Accesso Rapido si trova in cima alla scheda File. Ti offre accesso rapido ai tuoi file e cartelle preferiti e aperti di recente — sia dai servizi cloud che dall'archiviazione sul dispositivo. Ogni volta che apri un file o una cartella dal cloud, viene aggiunto all'elenco Aperti di Recente. Puoi contrassegnare le cartelle profondamente annidate come Preferiti per accedervi rapidamente senza scavare nella struttura delle directory.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Link Online Evervideo e Accesso Rapido" image="/docs/guide/evervideo/img/evervideo-connections-online-links.webp" >}}
+  {{< ls-card title="" subtitle="Link Online Evervideo e Accesso Rapido" image="/docs/guide/evervideo/img/evervideo-connections-online-links.webp" >}}
 {{< /cards >}}
 
 ## File in Questa Applicazione
@@ -217,7 +217,7 @@ La sezione Accesso Rapido si trova in cima alla scheda File. Ti offre accesso ra
 Questa sezione mostra file e cartelle memorizzati nella directory Documenti in sandbox di Evervideo — tutto ciò che hai scaricato dal cloud, trasferito tramite Wi-Fi Drive, copiato tramite Finder File Sharing o importato da un'altra app.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="File in Questa Applicazione di Evervideo" image="/docs/guide/evervideo/img/evervideo-files-in-this-application.webp" >}}
+  {{< ls-card title="" subtitle="File in Questa Applicazione di Evervideo" image="/docs/guide/evervideo/img/evervideo-files-in-this-application.webp" >}}
 {{< /cards >}}
 
 ### Cartella Documenti
@@ -225,7 +225,7 @@ Questa sezione mostra file e cartelle memorizzati nella directory Documenti in s
 La cartella Documenti è la radice di tutto all'interno di File in Questa Applicazione. Puoi creare sottocartelle, rinominare file, spostarli e raggrupparli come preferisci.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="File Locali Evervideo — Cartella Documenti" image="/docs/guide/evervideo/img/evervideo-local-files-documents.webp" >}}
+  {{< ls-card title="" subtitle="File Locali Evervideo — Cartella Documenti" image="/docs/guide/evervideo/img/evervideo-local-files-documents.webp" >}}
 {{< /cards >}}
 
 ## File su Questo iPhone / iPad / Mac
@@ -238,7 +238,7 @@ Questa sezione mostra i video che si trovano sul dispositivo ma in applicazioni 
 Puoi anche usare Connetti una Cartella per creare un collegamento a una cartella sul dispositivo con accesso in lettura / scrittura — perfetto per lavorare con una cartella su iCloud Drive o un drive USB collegato senza copiare nulla.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="File Evervideo su Questo Dispositivo" image="/docs/guide/evervideo/img/evervideo-files-on-this-device.webp" >}}
+  {{< ls-card title="" subtitle="File Evervideo su Questo Dispositivo" image="/docs/guide/evervideo/img/evervideo-files-on-this-device.webp" >}}
 {{< /cards >}}
 
 ## Cartelle Speciali
@@ -276,7 +276,7 @@ Quando apri una cartella, tocca il pulsante **"..."** nell'angolo in alto a dest
 Tocca **"..."** nell'angolo in alto a destra e scegli **Seleziona** per entrare in modalità selezione. Le caselle di controllo appaiono accanto a ogni file e cartella. Tocca per selezionare uno o più elementi, poi esegui azioni batch: Riproduci Dopo, Riproduci Più Tardi, Aggiungi alla Libreria Media, Aggiungi a una Playlist, Copia, Carica, Sposta, Rinomina o Elimina.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Modalità Selezione Evervideo nel Gestore File" image="/docs/guide/evervideo/img/evervideo-selection-mode-in-files.webp" >}}
+  {{< ls-card title="" subtitle="Modalità Selezione Evervideo nel Gestore File" image="/docs/guide/evervideo/img/evervideo-selection-mode-in-files.webp" >}}
 {{< /cards >}}
 
 Se preferisci trattare l'archiviazione cloud connessa come di sola lettura (per prevenire eliminazioni accidentali), abilita Impostazioni → Gestore File → Modifica File Online → Disattivato per nascondere tutte le operazioni distruttive dall'interfaccia.
@@ -318,13 +318,13 @@ Per ogni cartella nella tua archiviazione cloud, sono disponibili molte azioni t
 Nell'angolo in alto a destra della scheda File c'è un pulsante **Transfer** (un'icona con frecce rotanti). Toccalo per aprire la Coda di Trasferimento — un elenco di ogni download e caricamento attivo da tutte le tue sorgenti, con avanzamento in tempo reale, velocità e ETA per file.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Coda di Trasferimento File Evervideo" image="/docs/guide/evervideo/img/evervideo-file-transfers.webp" >}}
+  {{< ls-card title="" subtitle="Coda di Trasferimento File Evervideo" image="/docs/guide/evervideo/img/evervideo-file-transfers.webp" >}}
 {{< /cards >}}
 
 Puoi mettere in pausa, riprendere, riprovare i trasferimenti falliti, riorganizzare gli elementi per dare priorità a download specifici o cancellarli singolarmente. Puoi anche regolare la velocità della coda di trasferimento (numero massimo di attività parallele), il tipo di rete (solo Wi-Fi o Wi-Fi + Cellulare) e i trasferimenti in background in Impostazioni → Gestore File.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Azioni Evervideo sulla Coda di Trasferimento File" image="/docs/guide/evervideo/img/evervideo-file-transfers-actions.webp" >}}
+  {{< ls-card title="" subtitle="Azioni Evervideo sulla Coda di Trasferimento File" image="/docs/guide/evervideo/img/evervideo-file-transfers-actions.webp" >}}
 {{< /cards >}}
 
 ## Modalità Offline e Cartelle Offline Sincronizzate

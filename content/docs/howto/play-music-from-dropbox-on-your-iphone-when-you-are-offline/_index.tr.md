@@ -7,7 +7,7 @@ tags: ["bulut", "yayın", "iphone", "mp3", "depolama", "dropbox"]
 keywords: ["müzik çalma Dropbox iPhone", "çevrimdışı müzik Dropbox iOS", "Evermusic Dropbox", "mp3 çalar bulut", "Dropbox ses yayını", "Evermusic dosya yöneticisi", "Dropbox iOS ses"]
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **Özet:** Müziğinizi Dropbox'a yükleyin, iPhone'unuza ücretsiz Evermusic uygulamasını yükleyin, Dropbox hesabınızı bağlayın ve parçalarınızı çevrimdışı dinlemek için çalın veya indirin. Evermusic MP3, FLAC, WAV, AAC ve daha fazlasını destekler. 10 bantlı ekolayzır, çalma listeleri ve dosya yönetimi içerir.
@@ -35,7 +35,7 @@ Evermusic tamamen ücretsizdir ve hem iPhone hem de iPad için mevcuttur, iOS 8.
 
 {{< cards cols="1">}}
 
-  {{< card title="Evermusic'i İndirin" subtitle="iPhone ve iPad için çevrimdışı müzik çalar ve bulut sürücü yayıncısı." icon="download" link="https://itunes.apple.com/us/app/evermusic-offline-music/id885367198?mt=8" >}}
+  {{< ls-card title="Evermusic'i İndirin" subtitle="iPhone ve iPad için çevrimdışı müzik çalar ve bulut sürücü yayıncısı." icon="download" link="https://itunes.apple.com/us/app/evermusic-offline-music/id885367198?mt=8" >}}
 
 {{< /cards >}}
 
@@ -67,26 +67,26 @@ Evermusic ayrıca temel işlemleri destekleyen tam özellikli bir dosya yönetic
 
 ## FAQ
 
-{{% details title="iPhone'umda Dropbox müziğini çevrimdışı çalabilir miyim?" closed="true" %}}
+{{% ls-details title="iPhone'umda Dropbox müziğini çevrimdışı çalabilir miyim?" closed="true" %}}
 Evet. Dropbox'unuzu bağlamak için Evermusic'i kullanın, ardından çevrimdışı dinlemek için herhangi bir parçayı veya çalma listesini indirin. İndirilen dosyalar cihazınızda saklanır ve internet bağlantısı olmadan çalınır.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Evermusic ücretsiz mi?" closed="true" %}}
+{{% ls-details title="Evermusic ücretsiz mi?" closed="true" %}}
 Evermusic, ekolayzır, bulut yayını ve çevrimdışı oynatma dahil temel özelliklerle ücretsiz olarak indirilebilir. Ücretsiz sürüm 3 bulut bağlantısına ve 10 çalma listesine kadar destekler. Premium'a yükseltme tüm sınırları kaldırır.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Evermusic Dropbox'tan hangi ses formatlarını destekler?" closed="true" %}}
+{{% ls-details title="Evermusic Dropbox'tan hangi ses formatlarını destekler?" closed="true" %}}
 Evermusic, doğrudan Dropbox'tan MP3, FLAC, WAV, AAC, AIFF, OGG, WMA ve diğer birçok formatı çalar.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Birden fazla bulut hizmetini bağlayabilir miyim?" closed="true" %}}
+{{% ls-details title="Birden fazla bulut hizmetini bağlayabilir miyim?" closed="true" %}}
 Evet. Evermusic; Dropbox, Google Drive, OneDrive, Box, WebDAV, SMB, MEGA ve daha fazlasını destekler. Sınırsız hesap bağlayabilir ve hepsini tek bir kütüphanede gezebilirsiniz.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Evermusic çalma listelerini cihazlar arasında senkronize eder mi?" closed="true" %}}
+{{% ls-details title="Evermusic çalma listelerini cihazlar arasında senkronize eder mi?" closed="true" %}}
 Evermusic'te oluşturulan çalma listeleri cihazınızda yerel olarak saklanır. Dropbox dosyalarınız Dropbox aracılığıyla tüm cihazlarda senkronize kalır.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Dropbox müziğiyle iPhone depolama alanını nasıl boşaltırım?" closed="true" %}}
+{{% ls-details title="Dropbox müziğiyle iPhone depolama alanını nasıl boşaltırım?" closed="true" %}}
 Müzik dosyalarınızı Dropbox'a taşıyın ve iPhone'unuzda saklamak yerine Evermusic aracılığıyla yayınlayın. Yalnızca çevrimdışı dinleme için ihtiyacınız olan parçaları indirin.
-{{% /details %}}
+{{% /ls-details %}}

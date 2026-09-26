@@ -7,7 +7,7 @@ tags: ["Hörbücher", "Wiedergabe", "offline", "evermusic", "Lesezeichen"]
 readingTime: 5
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **Kurzfassung:** Evermusic dient als vollwertiger Hörbuch-Player auf iOS und macOS. Übertragen Sie Hörbücher über iTunes, WiFi oder Cloud-Speicher und nutzen Sie dann Wiedergabegeschwindigkeitssteuerung, Zeitsprung-Tasten, Audio-Lesezeichen, Wiedergabe fortsetzen und Offline-Downloads für ein nahtloses Hörerlebnis.
@@ -151,26 +151,26 @@ Viel Spaß beim Hören!
 
 ## Häufig gestellte Fragen
 
-{{% details title="Welche Hörbuchformate unterstützt Evermusic?" closed="true" %}}
+{{% ls-details title="Welche Hörbuchformate unterstützt Evermusic?" closed="true" %}}
 Evermusic unterstützt MP3, M4A, M4B, FLAC, WAV, AIFF, OGG und andere gängige Audioformate. Jede Audiodatei, die in Evermusic abgespielt wird, funktioniert als Hörbuch.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Kann ich Hörbücher aus dem Cloud-Speicher anhören?" closed="true" %}}
+{{% ls-details title="Kann ich Hörbücher aus dem Cloud-Speicher anhören?" closed="true" %}}
 Ja. Evermusic verbindet sich mit iCloud Drive, Google Drive, Dropbox, OneDrive, Box und WebDAV-Servern. Sie können Hörbücher direkt streamen oder für das Offline-Hören herunterladen.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Werden meine Lesezeichen auf ein neues Gerät übertragen?" closed="true" %}}
+{{% ls-details title="Werden meine Lesezeichen auf ein neues Gerät übertragen?" closed="true" %}}
 Ja. Evermusic speichert Audio-Lesezeichen in den Metadaten der Datei, sodass sie automatisch übertragen werden, wenn Sie Dateien auf ein neues Gerät verschieben.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Merkt sich Evermusic, wo ich aufgehört habe zu hören?" closed="true" %}}
+{{% ls-details title="Merkt sich Evermusic, wo ich aufgehört habe zu hören?" closed="true" %}}
 Ja. Aktivieren Sie "Wiedergabeposition speichern" und "Audio-Player-Zustand speichern" unter Einstellungen > Audio-Player > Allgemein. Die App speichert und stellt Ihre genaue Position zwischen Sitzungen wieder her.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Kann ich die Wiedergabegeschwindigkeit von Hörbüchern anpassen?" closed="true" %}}
+{{% ls-details title="Kann ich die Wiedergabegeschwindigkeit von Hörbüchern anpassen?" closed="true" %}}
 Ja. Gehen Sie zu Einstellungen > Audio-Player > Wiedergabegeschwindigkeit, um Ihre bevorzugte Geschwindigkeit einzustellen. Sie können die Erzählung beschleunigen oder verlangsamen, um sie an Ihre Hörvorlieben anzupassen.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Wie übertrage ich Hörbücher zu Evermusic?" closed="true" %}}
+{{% ls-details title="Wie übertrage ich Hörbücher zu Evermusic?" closed="true" %}}
 Sie können Dateien über die iTunes/Finder-Dateifreigabe, WiFi Drive (in der App integriert) oder durch Verbinden eines Cloud-Speicherkontos innerhalb von Evermusic übertragen.
-{{% /details %}}
+{{% /ls-details %}}

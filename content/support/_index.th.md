@@ -3,7 +3,9 @@ date: '2025-06-12T17:00:00+00:00'
 title: 'การสนับสนุน'
 ---
 
-{{< lottie src="/images/juicy-json/juicy-girl-is-working-on-laptop-at-a-remote-job.json" width="80%" >}}
+{{< ls-lottie src="/images/juicy-json/juicy-girl-is-working-on-laptop-at-a-remote-job.json" width="80%" >}}
+
+{{< ls-docs-search >}}
 
 ## ต้องการความช่วยเหลือ? เราพร้อมช่วยคุณ
 
@@ -19,9 +21,9 @@ title: 'การสนับสนุน'
 เพื่อประหยัดเวลาและรับคำตอบทันที กรุณาดูแหล่งข้อมูลที่มีประโยชน์ที่สุดของเรา คำถามที่พบบ่อยหลายข้อได้รับการตอบไว้แล้ว:
 
 {{< cards >}}
-  {{< card icon="book-open" link="/docs/guide" title="คู่มือผู้ใช้" >}}
-  {{< card icon="question-mark-circle" link="/docs/faq" title="คำถามที่พบบ่อย" >}}
-  {{< card icon="light-bulb" link="/docs/howto" title="วิธีใช้งาน" >}}
+  {{< ls-card icon="book-open" link="/docs/guide" title="คู่มือผู้ใช้" >}}
+  {{< ls-card icon="question-mark-circle" link="/docs/faq" title="คำถามที่พบบ่อย" >}}
+  {{< ls-card icon="light-bulb" link="/docs/howto" title="วิธีใช้งาน" >}}
 {{< /cards >}}
 
 คู่มือเหล่านี้ออกแบบมาเพื่อช่วยให้คุณใช้งานแอปของเราได้อย่างเต็มประสิทธิภาพ — ตั้งแต่การตั้งค่าไปจนถึงฟีเจอร์ขั้นสูง

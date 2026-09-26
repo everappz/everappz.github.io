@@ -25,7 +25,7 @@ Funcționalitatea Evermusic este împărțită atent în două componente distin
 Indiferent dacă utilizați un iPhone, iPad sau modul compact pe Mac, toate funcțiile aplicației sunt ușor accesibile prin bara de file din partea inferioară a ecranului. Pentru utilizatorii de iPad și Mac, același meniu se găsește în partea stângă a ecranului. Această organizare atentă clasifică toate funcțiile aplicației în secțiuni ușor accesibile, asigurând o experiență prietenoasă și eficientă.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Bara laterală stângă Evermusic pe iPad și Mac" image="/docs/guide/evermusic/evermusic-guide-navigation/img/navigation-left-sidebar.webp" >}}
+  {{< ls-card title="" subtitle="Bara laterală stângă Evermusic pe iPad și Mac" image="/docs/guide/evermusic/evermusic-guide-navigation/img/navigation-left-sidebar.webp" >}}
 {{< /cards >}}
 
 **Conexiuni:** Puteți conecta fără efort servicii de stocare în cloud precum Google Drive, MEGA, OneDrive și Dropbox, precum și computerul și NAS-ul personal pe acest ecran.
@@ -47,7 +47,7 @@ Secțiunea de fișiere locale este împărțită în două categorii: Fișiere �
 Activați un player pe ecran complet atingând pictograma mini playerului și folosind un gest de glisare în jos pentru a-l ascunde. Pe iPad și Mac, ecranul mini playerului este situat în partea superioară a ecranului și poate fi ascuns când deschideți playerul pe ecran complet prin meniul principal.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Bara de file iPhone" image="/docs/guide/evermusic/evermusic-guide-navigation/img/navigation-bottom-tabbar.webp" >}}
+  {{< ls-card title="" subtitle="Bara de file iPhone" image="/docs/guide/evermusic/evermusic-guide-navigation/img/navigation-bottom-tabbar.webp" >}}
 {{< /cards >}}
 
 ## Fereastra Mini Player (Exclusiv Mac)
@@ -55,7 +55,7 @@ Activați un player pe ecran complet atingând pictograma mini playerului și fo
 Pentru a accesa fereastra mini playerului pe Mac, mutați cursorul în colțul din dreapta jos al ferestrei aplicației și redimensionați-o la cea mai mică dimensiune posibilă. Apoi, atingeți butonul de restrângere (reprezentat ca o săgeată îndreptată în jos) pentru a activa fereastra mini playerului. Pentru a menține fereastra mini playerului mereu deasupra altor ferestre, navigați la bara de meniu superioară a Mac-ului, selectați „Fereastră" și alegeți „Afișare fereastră mereu deasupra". Această funcție este utilă pentru a asculta prelegeri audio fără întreruperi.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Fereastra Mini Player Mac" image="/docs/guide/evermusic/evermusic-guide-navigation/img/navigation-mac-exclusive-miniplayer.webp" >}}
+  {{< ls-card title="" subtitle="Fereastra Mini Player Mac" image="/docs/guide/evermusic/evermusic-guide-navigation/img/navigation-mac-exclusive-miniplayer.webp" >}}
 {{< /cards >}}
 
 ## Mai multe acțiuni
@@ -63,7 +63,7 @@ Pentru a accesa fereastra mini playerului pe Mac, mutați cursorul în colțul d
 Practic fiecare element de conținut de pe ecran are un buton „Mai multe acțiuni". Atingeți-l pentru a accesa toate acțiunile disponibile.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Meniu contextual Mai multe acțiuni" image="/docs/guide/evermusic/evermusic-guide-navigation/img/navigation-more-actions.webp" >}}
+  {{< ls-card title="" subtitle="Meniu contextual Mai multe acțiuni" image="/docs/guide/evermusic/evermusic-guide-navigation/img/navigation-more-actions.webp" >}}
 {{< /cards >}}
 
 ## Bara de instrumente superioară
@@ -77,7 +77,7 @@ Puteți afișa sau ascunde cu ușurință această bară de instrumente printr-u
 - **Redă aleatoriu:** Adăugați toate piesele de pe pagina curentă în coada playerului audio, amestecând înainte de adăugare pentru o experiență de ascultare plăcută.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Bara de instrumente superioară cu Căutare, Redă tot și Redă aleatoriu" image="/docs/guide/evermusic/evermusic-guide-navigation/img/navigation-top-toolbar.webp" >}}
+  {{< ls-card title="" subtitle="Bara de instrumente superioară cu Căutare, Redă tot și Redă aleatoriu" image="/docs/guide/evermusic/evermusic-guide-navigation/img/navigation-top-toolbar.webp" >}}
 {{< /cards >}}
 
 ## Meniu contextual
@@ -91,7 +91,7 @@ Meniul contextual oferă acces rapid la opțiuni și acțiuni suplimentare pentr
 **Clic dreapta:** Faceți clic dreapta pe celule, mini player sau playerul compact pentru a afișa meniul contextual.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Meniu contextual pe macOS" image="/docs/guide/evermusic/evermusic-guide-navigation/img/navigation-context-menu-macos.webp" >}}
+  {{< ls-card title="" subtitle="Meniu contextual pe macOS" image="/docs/guide/evermusic/evermusic-guide-navigation/img/navigation-context-menu-macos.webp" >}}
 {{< /cards >}}
 
 ## Accesibilitate
@@ -125,7 +125,7 @@ Evermusic include patru widgeturi pentru Ecranul principal / Ecranul de blocare 
 Toate cele patru widgeturi sunt disponibile în dimensiunile Mic, Mediu și Mare, astfel încât să puteți alege aspectul care se potrivește ecranului dvs.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Adăugare widgeturi Evermusic" image="/docs/guide/evermusic/evermusic-guide-navigation/img/navigation-add-widgets.webp" >}}
+  {{< ls-card title="" subtitle="Adăugare widgeturi Evermusic" image="/docs/guide/evermusic/evermusic-guide-navigation/img/navigation-add-widgets.webp" >}}
 {{< /cards >}}
 
 ### Adăugați un widget pe iPhone (Ecran principal)
@@ -175,7 +175,7 @@ Widgetul CarPlay se actualizează live pe măsură ce muzica dvs. se schimbă ș
 Evermusic include o interfață **Apple CarPlay** complet funcțională (numai iOS) optimizată pentru ecranul mașinii. Odată ce iPhone-ul dvs. este conectat la o unitate head unit CarPlay compatibilă — prin USB sau wireless — Evermusic apare alături de Apple Music și Spotify în grila de aplicații CarPlay, gata să transmită biblioteca dvs. cloud pe drum.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evermusic pe ecranul CarPlay" image="/docs/guide/evermusic/evermusic-guide-navigation/img/navigation-carplay-menu.webp" >}}
+  {{< ls-card title="" subtitle="Evermusic pe ecranul CarPlay" image="/docs/guide/evermusic/evermusic-guide-navigation/img/navigation-carplay-menu.webp" >}}
 {{< /cards >}}
 
 ### Ce obțineți în CarPlay

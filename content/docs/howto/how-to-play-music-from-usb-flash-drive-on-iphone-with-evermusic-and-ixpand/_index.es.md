@@ -7,7 +7,7 @@ tags: ["música", "usb", "externo", "ixpand", "sandisk", "iphone", "evermusic"]
 readingTime: 3
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **Resumen:** Evermusic te permite reproducir música directamente desde una unidad flash SanDisk iXpand en tu iPhone o iPad. Conecta la unidad, abre Evermusic y comienza a escuchar -- sin necesidad de copiar archivos a tu dispositivo. Soporta gestión de archivos, listas de reproducción, ecualizador y transmisión AirPlay.
@@ -69,22 +69,22 @@ Con Evermusic y la unidad flash SanDisk iXpand, tendrás la libertad de disfruta
 
 ## Preguntas frecuentes
 
-{{% details title="¿Qué modelos de unidad flash iXpand soporta Evermusic?" closed="true" %}}
+{{% ls-details title="¿Qué modelos de unidad flash iXpand soporta Evermusic?" closed="true" %}}
 Evermusic soporta unidades flash SanDisk iXpand con protocolos V1, V2, V3, V6 y V7. Puedes verificar la compatibilidad en los Ajustes de tu iPhone bajo General > Acerca de > iXpand Flash Drive.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="¿Puedo reproducir música desde la unidad USB sin copiar archivos a mi iPhone?" closed="true" %}}
+{{% ls-details title="¿Puedo reproducir música desde la unidad USB sin copiar archivos a mi iPhone?" closed="true" %}}
 Sí. Evermusic reproduce archivos de audio directamente desde la unidad flash iXpand. No es necesario copiar nada al almacenamiento interno de tu dispositivo.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="¿Qué formatos de audio soporta Evermusic desde unidades USB?" closed="true" %}}
+{{% ls-details title="¿Qué formatos de audio soporta Evermusic desde unidades USB?" closed="true" %}}
 Evermusic soporta todos los formatos de audio principales incluyendo MP3, FLAC, AAC, WAV, AIFF, OGG y más. Cualquier archivo de audio almacenado en tu unidad iXpand se puede reproducir directamente.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="¿Puedo transmitir música desde la unidad iXpand a altavoces AirPlay?" closed="true" %}}
+{{% ls-details title="¿Puedo transmitir música desde la unidad iXpand a altavoces AirPlay?" closed="true" %}}
 Sí. Mientras reproduces música desde la unidad USB, puedes transmitir audio a dispositivos compatibles con AirPlay como altavoces Sonos, Apple TV y Google Chromecast.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="¿Qué debo hacer si mi unidad iXpand no es reconocida?" closed="true" %}}
+{{% ls-details title="¿Qué debo hacer si mi unidad iXpand no es reconocida?" closed="true" %}}
 Asegúrate de que ninguna otra aplicación esté usando la unidad. Intenta desconectarla y reconectarla. Si tu modelo no es compatible, usa un adaptador Apple Lightning a USB para conectar la unidad como un dispositivo USB estándar.
-{{% /details %}}
+{{% /ls-details %}}

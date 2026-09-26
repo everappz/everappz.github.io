@@ -12,7 +12,7 @@ authors:
     image: "/images/about/artem-meleshko-founder-everappz.webp"
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 ## Evermusic: playerul de muzică din cloud pentru iPhone și iPad
 
@@ -22,7 +22,7 @@ Evermusic este un player de muzică din cloud care se conectează la stocarea pe
 
 ## Vizionați videoclipul promoțional
 
-{{< youtubecard id="BwD0XLgdzEE" title="Evermusic Promo Video" >}}
+{{< ls-youtubecard id="BwD0XLgdzEE" title="Evermusic Promo Video" >}}
 
 ## Funcții cheie prezentate în video
 
@@ -36,14 +36,14 @@ Evermusic este un player de muzică din cloud care se conectează la stocarea pe
 
 ## Întrebări frecvente
 
-{{% details title="Ce este Evermusic?" closed="true" %}}
+{{% ls-details title="Ce este Evermusic?" closed="true" %}}
 Evermusic este un player de muzică din cloud pentru iPhone și iPad. Se conectează la servicii de stocare cloud precum Dropbox, Google Drive și OneDrive, permițându-vă să redați și să descărcați propriile fișiere muzicale. Suportă FLAC, MP3, AAC, WAV și alte formate audio.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Este Evermusic gratuit de descărcat?" closed="true" %}}
+{{% ls-details title="Este Evermusic gratuit de descărcat?" closed="true" %}}
 Da. Evermusic este gratuit de descărcat cu funcții de bază. Un upgrade Premium unic deblochează egalizatorul, crossfade-ul și conexiuni suplimentare de conturi cloud.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Ce servicii cloud suportă Evermusic?" closed="true" %}}
+{{% ls-details title="Ce servicii cloud suportă Evermusic?" closed="true" %}}
 Evermusic suportă peste 12 platforme cloud, inclusiv iCloud Drive, Dropbox, Google Drive, OneDrive, Box, MEGA, Yandex.Disk, pCloud și orice server care rulează protocoale WebDAV sau SMB.
-{{% /details %}}
+{{% /ls-details %}}

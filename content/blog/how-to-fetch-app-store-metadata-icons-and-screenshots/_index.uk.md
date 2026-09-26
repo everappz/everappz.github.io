@@ -23,7 +23,7 @@ authors:
     image: "/images/about/artem-meleshko-founder-everappz.webp"
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 ## Отримайте дані App Store за секунди
 
@@ -134,53 +134,53 @@ AppLookup.pro працює у вашому браузері. Немає вход
 AppLookup.pro має відкритий вихідний код. Звіти про помилки, додавання країн та pull request-и вітаються.
 
 {{< cards cols="1" >}}
-  {{< card link="https://github.com/everappz/AppStoreLookup" title="AppLookup.pro на GitHub" icon="github" tag="open source" >}}
+  {{< ls-card link="https://github.com/everappz/AppStoreLookup" title="AppLookup.pro на GitHub" icon="github" tag="open source" >}}
 {{< /cards >}}
 
 ---
 
 ## Часті запитання
 
-{{% details title="AppLookup.pro дійсно безкоштовний?" closed="true" %}}
+{{% ls-details title="AppLookup.pro дійсно безкоштовний?" closed="true" %}}
 Так. AppLookup.pro на 100 відсотків безкоштовний і з відкритим вихідним кодом. Він працює у вашому браузері. Немає реєстрації, немає платного рівня і немає обмежень на використання понад власні ліміти iTunes Search API від Apple.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Звідки беруться дані?" closed="true" %}}
+{{% ls-details title="Звідки беруться дані?" closed="true" %}}
 Кожен результат отримано в реальному часі з офіційного [iTunes Search API](https://developer.apple.com/library/archive/documentation/AudioVideo/Conceptual/iTuneSearchAPI/index.html) від Apple. Інструмент не скрейпить сторінки App Store і не кешує відповіді на жодному сервері.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Чи можу я завантажити іконку додатку у високій роздільності?" closed="true" %}}
+{{% ls-details title="Чи можу я завантажити іконку додатку у високій роздільності?" closed="true" %}}
 Так. Розділ **App Icon** показує кожен URL іконки, який повертає Apple. Кожна картка має Direct Link і кнопку Download, а кнопка Download All Icons ZIP пакує їх в один архів.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Чи можу я завантажити всі скріншоти App Store за один раз?" closed="true" %}}
+{{% ls-details title="Чи можу я завантажити всі скріншоти App Store за один раз?" closed="true" %}}
 Так. У кожного розділу скріншотів (iPhone, iPad, macOS і Apple TV) є кнопка **Download All (ZIP)**, яка об'єднує кожен скріншот у повній роздільності.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Як подивитися, як додаток виглядає в іншій країні?" closed="true" %}}
+{{% ls-details title="Як подивитися, як додаток виглядає в іншій країні?" closed="true" %}}
 Виберіть країну у випадаючому списку вгорі сторінки. Підтримується понад 40 магазинів. Натисніть **Lookup** знову, і інструмент повторно отримає додаток для цієї країни, показуючи локалізовану назву, опис, скріншоти, нововведення та ціну.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Чи можу я копіювати окремі поля, такі як ідентифікатор пакета або дата випуску?" closed="true" %}}
+{{% ls-details title="Чи можу я копіювати окремі поля, такі як ідентифікатор пакета або дата випуску?" closed="true" %}}
 Так. У кожного текстового поля в результаті є власна кнопка Copy: назва додатку, розробник, опис, нововведення, ідентифікатор пакета, версія, ціна, розмір файлу, мінімальна ОС, дата випуску, віковий рейтинг, мови, підтримувані пристрої та сирий JSON.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Чи працює AppLookup.pro для будь-якого iOS-додатку?" closed="true" %}}
+{{% ls-details title="Чи працює AppLookup.pro для будь-якого iOS-додатку?" closed="true" %}}
 Він працює для будь-якого додатку, який публічно розміщено хоча б в одній країні App Store і повертається iTunes Search API. Нерозміщені, видалені або додатки корпоративного розповсюдження не з'являться.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Чи підтримує він додатки macOS і Apple TV?" closed="true" %}}
+{{% ls-details title="Чи підтримує він додатки macOS і Apple TV?" closed="true" %}}
 Так. Якщо у додатку є скріншоти macOS або Apple TV у відповіді iTunes Search API, AppLookup.pro показує їх у власній прокручуваній панелі з кнопками завантаження.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Чи можу я використовувати сирий JSON у власному коді?" closed="true" %}}
+{{% ls-details title="Чи можу я використовувати сирий JSON у власному коді?" closed="true" %}}
 Так. Розділ Raw API Response показує точний JSON, який повертає Apple. Скопіюйте його в Postman, юніт-тест або backend-пайплайн. Будь ласка, дотримуйтесь умов API Apple і розумних лімітів.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Чи безпечно вставляти URL-и App Store в інструмент?" closed="true" %}}
+{{% ls-details title="Чи безпечно вставляти URL-и App Store в інструмент?" closed="true" %}}
 Так. URL парситься у вашому браузері. Єдиний вихідний мережевий виклик, це запит до iTunes Search API від Apple.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Яка різниця між AppLookup.pro і AppKeywords.pro?" closed="true" %}}
+{{% ls-details title="Яка різниця між AppLookup.pro і AppKeywords.pro?" closed="true" %}}
 [AppLookup.pro](https://applookup.pro) призначений для читання метаданих App Store з будь-якого опублікованого додатку: аналіз конкурентів, завантаження ресурсів, перевірка локалізації. [AppKeywords.pro](https://appkeywords.pro) призначений для написання метаданих App Store для вашого власного додатку: оптимізація назви, підзаголовка та ключових слів з підтримкою Fastlane. Ці два інструменти добре працюють разом.
-{{% /details %}}
+{{% /ls-details %}}

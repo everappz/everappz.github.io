@@ -7,7 +7,7 @@ tags: ["オーディオブック", "再生", "オフライン", "evermusic", "�
 readingTime: 5
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **要約：** EvermusicはiOSとmacOSでフル機能のオーディオブックプレーヤーとしても機能します。iTunes、WiFi、またはクラウドストレージ経由でオーディオブックを転送し、再生速度コントロール、スキップタイムボタン、オーディオブックマーク、再生の続行、オフラインダウンロードを使用して、シームレスなリスニング体験をお楽しみください。
@@ -151,26 +151,26 @@ Evermusicなら、オーディオブック体験が便利なだけでなく、�
 
 ## よくある質問
 
-{{% details title="Evermusicはどのオーディオブック形式をサポートしていますか？" closed="true" %}}
+{{% ls-details title="Evermusicはどのオーディオブック形式をサポートしていますか？" closed="true" %}}
 EvermusicはMP3、M4A、M4B、FLAC、WAV、AIFF、OGGなど、一般的なオーディオ形式をサポートしています。Evermusicで再生できるオーディオファイルであれば、オーディオブックとして使用できます。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="クラウドストレージからオーディオブックを聴くことはできますか？" closed="true" %}}
+{{% ls-details title="クラウドストレージからオーディオブックを聴くことはできますか？" closed="true" %}}
 はい。EvermusicはiCloud Drive、Google Drive、Dropbox、OneDrive、Box、WebDAVサーバーに接続できます。オーディオブックを直接ストリーミングしたり、オフラインリスニング用にダウンロードしたりできます。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="ブックマークは新しいデバイスに転送されますか？" closed="true" %}}
+{{% ls-details title="ブックマークは新しいデバイスに転送されますか？" closed="true" %}}
 はい。Evermusicはオーディオブックマークをファイルのメタデータに保存するため、ファイルを新しいデバイスに移動すると自動的に転送されます。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Evermusicは聴取を中断した場所を記憶しますか？" closed="true" %}}
+{{% ls-details title="Evermusicは聴取を中断した場所を記憶しますか？" closed="true" %}}
 はい。設定 > オーディオプレーヤー > 一般で「再生位置を保存」と「オーディオプレーヤーの状態を保存」を有効にしてください。アプリはセッション間で正確な位置を保存および復元します。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="オーディオブックの再生速度を調整できますか？" closed="true" %}}
+{{% ls-details title="オーディオブックの再生速度を調整できますか？" closed="true" %}}
 はい。設定 > オーディオプレーヤー > 再生速度に移動して、お好みの速度を設定してください。リスニングの好みに合わせて、ナレーションを速くしたり遅くしたりできます。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="オーディオブックをEvermusicに転送するにはどうすればよいですか？" closed="true" %}}
+{{% ls-details title="オーディオブックをEvermusicに転送するにはどうすればよいですか？" closed="true" %}}
 iTunes/Finderのファイル共有、WiFi Drive（アプリ内蔵）、またはEvermusic内でクラウドストレージアカウントを接続することでファイルを転送できます。
-{{% /details %}}
+{{% /ls-details %}}

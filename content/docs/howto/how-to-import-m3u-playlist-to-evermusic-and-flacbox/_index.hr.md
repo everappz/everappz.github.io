@@ -7,7 +7,7 @@ tags: ["evermusic", "uvoz", "popisi pjesama", "m3u", "cue"]
 readingTime: 3
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **Sažetak:** Evermusic i Flacbox podržavaju uvoz M3U, M3U8 i CUE datoteka popisa pjesama iz pohrane u oblaku, lokalnih datoteka aplikacije ili vašeg uređaja. Idite na Popisi pjesama > Više > Uvezi popis pjesama, odaberite izvor, odaberite datoteku i aplikacija automatski stvara vaš popis pjesama.
@@ -84,22 +84,22 @@ Dodatno, možete uvesti više popisa pjesama odjednom dodirom na gumb "Više rad
 
 ## Često postavljana pitanja
 
-{{% details title="Koje formate popisa pjesama podržavaju Evermusic i Flacbox?" closed="true" %}}
+{{% ls-details title="Koje formate popisa pjesama podržavaju Evermusic i Flacbox?" closed="true" %}}
 Obje aplikacije podržavaju M3U, M3U8 i CUE formate datoteka popisa pjesama. Oni pokrivaju najčešće standarde popisa pjesama koje koriste glazbeni playeri i medijski softver.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Mogu li uvesti popise pjesama iz pohrane u oblaku?" closed="true" %}}
+{{% ls-details title="Mogu li uvesti popise pjesama iz pohrane u oblaku?" closed="true" %}}
 Da. Možete uvesti datoteke popisa pjesama iz bilo koje povezane usluge pohrane u oblaku, uključujući Google Drive, Dropbox, OneDrive i WebDAV poslužitelje.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Zašto nedostaju neke pjesme nakon uvoza?" closed="true" %}}
+{{% ls-details title="Zašto nedostaju neke pjesme nakon uvoza?" closed="true" %}}
 Datoteka popisa pjesama mora sadržavati ispravne putove do vaših medijskih datoteka, a te datoteke moraju postojati na navedenim lokacijama na vašoj pohrani. Provjerite da putovi datoteka u vašoj M3U ili CUE datoteci odgovaraju stvarnim lokacijama datoteka.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Mogu li uvesti više popisa pjesama odjednom?" closed="true" %}}
+{{% ls-details title="Mogu li uvesti više popisa pjesama odjednom?" closed="true" %}}
 Da. Koristite gumb Više radnji i odaberite "Uvezi popise pjesama iz mape". Aplikacija skenira mapu za sve podržane datoteke popisa pjesama i uvozi ih u jednom koraku.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Moram li ručno stvarati popise pjesama?" closed="true" %}}
+{{% ls-details title="Moram li ručno stvarati popise pjesama?" closed="true" %}}
 Ne. Funkcija uvoza eliminira ručno stvaranje popisa pjesama. Samo usmjerite aplikaciju na svoju postojeću M3U, M3U8 ili CUE datoteku i ona automatski stvara popis pjesama.
-{{% /details %}}
+{{% /ls-details %}}

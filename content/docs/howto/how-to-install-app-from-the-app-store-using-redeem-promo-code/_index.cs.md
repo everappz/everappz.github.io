@@ -7,7 +7,7 @@ tags: ["propagační", "appstore", "instalace", "uplatnění", "kód", "zdarma"]
 readingTime: 2
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **Shrnutí:** Propagační kód vám umožní stáhnout placenou aplikaci zdarma nebo odemknout nákupy v aplikaci. Na iOS: App Store > ikona Účet > Uplatnit dárkovou kartu nebo kód > zadejte kód. Na Mac: App Store > Účet > Uplatnit dárkovou kartu > zadejte kód. Poté otevřete aplikaci a v případě potřeby obnovte nákupy.
@@ -94,22 +94,22 @@ Užijte si svou bezplatnou aplikaci nebo vylepšení v aplikaci!
 
 ## Často kladené otázky
 
-{{% details title="Kde získám propagační kód?" closed="true" %}}
+{{% ls-details title="Kde získám propagační kód?" closed="true" %}}
 Propagační kódy poskytují vývojáři aplikací pro recenze, soutěže nebo propagační akce. Kontaktujte přímo vývojáře a požádejte o jeden.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Vyprší platnost propagačních kódů?" closed="true" %}}
+{{% ls-details title="Vyprší platnost propagačních kódů?" closed="true" %}}
 Ano. Propagační kódy App Store vyprší 28 dní po jejich vygenerování a lze je uplatnit pouze jednou.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Mohu použít propagační kód v jakékoli zemi?" closed="true" %}}
+{{% ls-details title="Mohu použít propagační kód v jakékoli zemi?" closed="true" %}}
 Propagační kódy jsou specifické pro daný region. Kód musí odpovídat zemi App Store vašeho Apple ID.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Jak aktivuji nákupy v aplikaci pomocí propagačního kódu?" closed="true" %}}
+{{% ls-details title="Jak aktivuji nákupy v aplikaci pomocí propagačního kódu?" closed="true" %}}
 Po uplatnění kódu v App Store otevřete aplikaci a přejděte na Nastavení > Obnovit nákupy. Prémiový obsah se automaticky odemkne.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Propagační kód říká, že již byl uplatněn. Co mám dělat?" closed="true" %}}
+{{% ls-details title="Propagační kód říká, že již byl uplatněn. Co mám dělat?" closed="true" %}}
 Každý propagační kód lze použít pouze jednou. Kontaktujte vývojáře a požádejte o nový kód.
-{{% /details %}}
+{{% /ls-details %}}

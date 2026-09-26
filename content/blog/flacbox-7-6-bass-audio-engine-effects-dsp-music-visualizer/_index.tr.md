@@ -12,7 +12,7 @@ authors:
     image: "/images/about/artem-meleshko-founder-everappz.webp"
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 **Kısaca:** [Flacbox 7.6](/products/flacbox), iPhone, iPad ve Mac için yüksek çözünürlüklü ses çalarımızda bugüne kadarki en büyük güncellemedir ve kayıpsız ile yüksek çözünürlüklü dinleme için yepyeni bir **BASS™ ses motoru** etrafında kurulmuştur. Bir dizi **gerçek zamanlı ses efektinin**, **14 filtreli bir DSP işlemcinin**, **canlı tam ekran müzik görselleştiricinin** ve klasik **tracker ile MOD müziğin** (MOD, XM, IT, S3M, MTM, UMX, MO3) çalınmasının kilidini açmak için BASS™ motorunu alternatif bir çalma çekirdeği olarak seçebilirsiniz. Güncelleme ayrıca **ses yüksekliğine dayalı otomatik ses seviyesi eşitleme**, **on bir efektlik bir stüdyo paketi** (reverb, delay, çok kanallı yankı, chorus, flanger, phaser, auto-wah, distortion, kompresör, stereo döndürme ve crossfeed), modern cam tarzı kaydırıcılarla **yenilenmiş bir efekt ve ekolayzer tasarımı** ve arabada DSP ayarları ile daha isabetli kilit ekranı, saat ve araba kontrolleri dahil **CarPlay iyileştirmeleri** ekliyor. Kaputun altında: daha güvenilir bir akış temeli, daha iyi dosya türü işleme, daha geniş yerelleştirme ve pek çok kararlılık ve performans düzeltmesi.
 
@@ -139,50 +139,50 @@ Flacbox'u kullandığınız için teşekkür ederiz. Müziğiniz artık profesyo
 
 ## Sıkça Sorulan Sorular
 
-{{% details title="Flacbox 7.6'da neler yeni?" closed="true" %}}
+{{% ls-details title="Flacbox 7.6'da neler yeni?" closed="true" %}}
 Flacbox 7.6, alternatif bir çalma çekirdeği olarak seçebileceğiniz yeni bir profesyonel **BASS™ ses motoru**, **ses yüksekliğine dayalı otomatik ses seviyesi eşitleme**, **on bir efektlik bir stüdyo paketi** (reverb, delay, çok kanallı yankı, chorus, flanger, phaser, auto-wah, distortion, kompresör, stereo döndürme ve crossfeed), **14 filtreli gerçek zamanlı bir DSP işlemci**, **tam ekran gerçek zamanlı bir müzik görselleştirici**, yerel **tracker ve MOD** çalma (MOD, XM, IT, S3M, MTM, UMX, MO3), **yenilenmiş bir efekt ve ekolayzer tasarımı** ve **CarPlay iyileştirmeleri** ekler. Ayrıca daha güvenilir bir akış temeli, daha iyi dosya türü işleme, daha geniş yerelleştirme ve pek çok kararlılık ve performans düzeltmesi içerir.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Flacbox'taki yeni BASS™ ses motoru nedir?" closed="true" %}}
+{{% ls-details title="Flacbox'taki yeni BASS™ ses motoru nedir?" closed="true" %}}
 un4seen Developments'ın BASS™ ses kütüphanesi üzerine kurulu [BASS™](https://www.un4seen.com) ses motoru, **Flacbox'un mevcut motoruna alternatif olarak** seçebileceğiniz profesyonel bir çalma çekirdeğidir. Onu seçmek gerçek zamanlı ses efektlerinin tam zincirinin, bir DSP işlemcinin ve canlı görselleştirmenin kilidini açar ve klasik tracker ile MOD müziğinin çalınmasını ekler. Mevcut kayıpsız ve yüksek çözünürlüklü kitaplığınızı (FLAC, DSD, ALAC, APE ve daha fazlası) **yüksek kaliteli yeniden örnekleme** ve **hassas perde ve tempo kontrolü** ile çalar. İstediğiniz zaman klasik motora geri dönebilirsiniz.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Flacbox 7.6 hangi ses formatlarını ve tracker/MOD türlerini çalar?" closed="true" %}}
+{{% ls-details title="Flacbox 7.6 hangi ses formatlarını ve tracker/MOD türlerini çalar?" closed="true" %}}
 Flacbox, **FLAC, DSD, APE, ALAC, WAV, AIFF, MP3, AAC, Opus** ve daha fazlasını işleyen bir yüksek çözünürlüklü ve kayıpsız çalar olmaya devam ediyor. 7.6'da yeni olarak, BASS™ motoru klasik **tracker ve modül müziğini** de çalar: **MOD, XM, IT, S3M, MTM, UMX ve MO3** — çoğu iPhone çalarının açamadığı, chiptune ve demoscene müziğinde kullanılan desen-ve-örnek formatları.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Flacbox'ta otomatik ses seviyesi eşitleme nasıl çalışır?" closed="true" %}}
+{{% ls-details title="Flacbox'ta otomatik ses seviyesi eşitleme nasıl çalışır?" closed="true" %}}
 Flacbox 7.6, farklı albümlerdeki parçaları tutarlı bir algılanan ses seviyesinde tutmak için **EBU R128 ses yüksekliği ölçümü** (ITU-R BS.1770 standardı) kullanır, böylece şarkılar arasında sesi ayarlamak zorunda kalmazsınız. **Yerel dosyalar için kitaplığınız önceden taranır**, böylece çalma zaten eşitlenmiş olarak açılır — bir parça başladıktan sonra uygulama ses yüksekliğini ölçerken gecikme olmaz. Dört ön ayar mevcuttur — **Hafif** (−20 LUFS), **Standart** (−16 LUFS), **Güçlü** (−14 LUFS) ve **Gece** (−23 LUFS) — ve karışık kitaplıklar, derlemeler ve karışık çalma oturumları genelinde çalışır.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Flacbox 7.6'da hangi ses efektleri var?" closed="true" %}}
+{{% ls-details title="Flacbox 7.6'da hangi ses efektleri var?" closed="true" %}}
 Müzik çalarken üst üste yığabileceğiniz ve ayarlayabileceğiniz on bir gerçek zamanlı efekt: **reverb, delay, çok kanallı yankı, chorus, flanger, phaser, auto-wah, distortion, kompresör, stereo döndürme ve crossfeed**. Her efektin **kendi ekranı, bir ön ayar kitaplığı ve anlık aç/kapa düğmesi** vardır ve Flacbox ayarlarınızı oturumlar arasında hatırlar. Özellikle crossfeed, sert şekilde kaydırılmış kayıtların kulaklıkta daha doğal duyulmasını sağlar.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="DSP işlemci nedir ve hangi filtreleri içerir?" closed="true" %}}
+{{% ls-details title="DSP işlemci nedir ve hangi filtreleri içerir?" closed="true" %}}
 DSP işlemci, **14 filtreden kendi gerçek zamanlı sinyal zincirinizi oluşturmanıza** olanak tanır: gain, alçak geçiren, yüksek geçiren, bant geçiren ve çentik filtreleri, peaking EQ, low-shelf ve high-shelf EQ, soft-clip doygunluğu, bit crusher, tremolo, delay, ring modülatör ve stereo genişlik. Her filtrenin **ön ayarları ve anlık aç/kapa düğmesi** vardır, böylece bir odayı düzeltebilir, sert kayıtları yumuşatabilir veya tamamen özel bir ton tasarlayabilirsiniz.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Crossfeed nedir ve neden kulaklıkta kullanmak isterim?" closed="true" %}}
+{{% ls-details title="Crossfeed nedir ve neden kulaklıkta kullanmak isterim?" closed="true" %}}
 Crossfeed, her stereo kanalından küçük, filtrelenmiş bir miktarı diğerine karıştırır; tıpkı kulaklarınızın bir odada gerçek hoparlörleri doğal olarak duyduğu gibi. Kulaklıkta bu, sert şekilde kaydırılmış kayıtların abartılı, «kafanızın içinde» ayrımını azaltır ve uzun süreli dinlemeyi daha rahat hale getirir. Özellikle eski 1960'lar ve 1970'ler stereo miksleri üzerinde etkilidir.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Flacbox müzik görselleştirici tüm cihazlarda çalışır mı?" closed="true" %}}
+{{% ls-details title="Flacbox müzik görselleştirici tüm cihazlarda çalışır mı?" closed="true" %}}
 Evet. **Gerçek zamanlı müzik görselleştirici**, müziğinize canlı tepki veren tam ekran animasyonlu görseller gösterir; seçebileceğiniz veya otomatik olarak dönmesine izin verebileceğiniz geniş bir ön ayar kitaplığıyla. **Tüm cihazlarınızdaki çalma motorları genelinde kullanılabilir** ve yerleşik bir **ekran uykusu önleyici**, görsellerin bir şarkı sırasında kesilmemesi için ekranı uyanık tutar.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Perde ve tempoyu birbirini etkilemeden değiştirebilir miyim?" closed="true" %}}
+{{% ls-details title="Perde ve tempoyu birbirini etkilemeden değiştirebilir miyim?" closed="true" %}}
 Evet. Yeni BASS™ motorunu kullandığınızda, Flacbox 7.6 **hassas, bağımsız perde ve tempo kontrolü** sunar — bir parçanın perdesini değiştirmeden hızını değiştirin ya da hızını değiştirmeden perdesini kaydırın. Alıştırma, transkripsiyon ve DJ tarzı dinleme için faydalıdır.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Flacbox 7.6'da CarPlay'de neler iyileşti?" closed="true" %}}
+{{% ls-details title="Flacbox 7.6'da CarPlay'de neler iyileşti?" closed="true" %}}
 CarPlay artık yapılandırmanıza arabadan ulaşabilmeniz için **DSP ayarları**, **düzeltilmiş albüm kapak görseli ve Şu An Çalınıyor** görüntülemesi ve çalma ile senkronize kalan **daha isabetli kilit ekranı, Apple Watch ve araba kontrolleri** içerir. Daha güvenilir akış temeliyle birlikte, kayıpsız kitaplığınızı yolda dinlemek daha akıcıdır.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Efektler, DSP ve ekolayzer bulut akışıyla çalışır mı?" closed="true" %}}
+{{% ls-details title="Efektler, DSP ve ekolayzer bulut akışıyla çalışır mı?" closed="true" %}}
 Evet. Efektler, DSP filtreleri, ekolayzer ve ses seviyesi eşitleme, BASS™ çalma motorunun içinde gerçek zamanlı olarak çalışır, böylece Flacbox'un çaldığı her şeye uygulanır — **yerel dosyalar, bulut sürücüleri (iCloud Drive, Google Drive, Dropbox, OneDrive ve daha fazlası), medya sunucuları ve ağ paylaşımları** — dosyalarınızı yeniden kodlamadan.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Flacbox 7.6 ücretsiz bir güncelleme mi ve hangi cihazları destekliyor?" closed="true" %}}
+{{% ls-details title="Flacbox 7.6 ücretsiz bir güncelleme mi ve hangi cihazları destekliyor?" closed="true" %}}
 Evet. Flacbox, App Store'dan **ücretsiz olarak indirilir** ve 7.6, mevcut kullanıcılar için **ücretsiz bir güncellemedir**; gelişmiş özellikler için isteğe bağlı uygulama içi yükseltmeler sunar. **iPhone, iPad ve Mac** üzerinde çalışır. CarPlay, CarPlay uyumlu bir araç veya baş ünitesi gerektirir.
-{{% /details %}}
+{{% /ls-details %}}

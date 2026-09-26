@@ -3,7 +3,9 @@ date: '2025-06-12T17:00:00+00:00'
 title: 'Υποστήριξη'
 ---
 
-{{< lottie src="/images/juicy-json/juicy-girl-is-working-on-laptop-at-a-remote-job.json" width="80%" >}}
+{{< ls-lottie src="/images/juicy-json/juicy-girl-is-working-on-laptop-at-a-remote-job.json" width="80%" >}}
+
+{{< ls-docs-search >}}
 
 ## Χρειάζεστε βοήθεια; Είμαστε εδώ για εσάς
 
@@ -19,9 +21,9 @@ title: 'Υποστήριξη'
 Για να εξοικονομήσετε χρόνο και να λάβετε άμεσες απαντήσεις, ελέγξτε τους πιο χρήσιμους πόρους μας. Πολλές συχνές ερωτήσεις καλύπτονται ήδη:
 
 {{< cards >}}
-  {{< card icon="book-open" link="/docs/guide" title="Οδηγός χρήσης" >}}
-  {{< card icon="question-mark-circle" link="/docs/faq" title="Συχνές ερωτήσεις" >}}
-  {{< card icon="light-bulb" link="/docs/howto" title="Οδηγίες" >}}
+  {{< ls-card icon="book-open" link="/docs/guide" title="Οδηγός χρήσης" >}}
+  {{< ls-card icon="question-mark-circle" link="/docs/faq" title="Συχνές ερωτήσεις" >}}
+  {{< ls-card icon="light-bulb" link="/docs/howto" title="Οδηγίες" >}}
 {{< /cards >}}
 
 Αυτοί οι οδηγοί είναι σχεδιασμένοι για να σας βοηθήσουν να αξιοποιήσετε στο έπακρο τις εφαρμογές μας — από τη ρύθμιση έως τις προηγμένες λειτουργίες.

@@ -7,7 +7,7 @@ tags: ["nhạc", "usb", "ngoài", "ixpand", "sandisk", "iphone", "evermusic"]
 readingTime: 3
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **Tóm tắt:** Evermusic cho phép bạn phát nhạc trực tiếp từ SanDisk iXpand Flash Drive trên iPhone hoặc iPad. Cắm ổ đĩa, mở Evermusic và bắt đầu nghe -- không cần sao chép tệp vào thiết bị. Hỗ trợ quản lý tệp, danh sách phát, bộ cân bằng âm thanh và phát trực tuyến AirPlay.
@@ -69,22 +69,22 @@ Với Evermusic và SanDisk iXpand Flash Drive, bạn sẽ có tự do thưởng
 
 ## FAQ
 
-{{% details title="Evermusic hỗ trợ những mẫu iXpand Flash Drive nào?" closed="true" %}}
+{{% ls-details title="Evermusic hỗ trợ những mẫu iXpand Flash Drive nào?" closed="true" %}}
 Evermusic hỗ trợ SanDisk iXpand Flash Drive với các giao thức V1, V2, V3, V6 và V7. Bạn có thể kiểm tra khả năng tương thích trong Cài đặt iPhone tại Chung chung > Giới thiệu > iXpand Flash Drive.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Tôi có thể phát nhạc từ ổ USB mà không cần sao chép tệp vào iPhone không?" closed="true" %}}
+{{% ls-details title="Tôi có thể phát nhạc từ ổ USB mà không cần sao chép tệp vào iPhone không?" closed="true" %}}
 Có. Evermusic phát các tệp âm thanh trực tiếp từ iXpand Flash Drive. Không cần sao chép bất cứ thứ gì vào bộ nhớ trong của thiết bị.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Evermusic hỗ trợ những định dạng âm thanh nào từ ổ USB?" closed="true" %}}
+{{% ls-details title="Evermusic hỗ trợ những định dạng âm thanh nào từ ổ USB?" closed="true" %}}
 Evermusic hỗ trợ tất cả các định dạng âm thanh chính bao gồm MP3, FLAC, AAC, WAV, AIFF, OGG và nhiều hơn nữa. Bất kỳ tệp âm thanh nào được lưu trữ trên ổ iXpand đều có thể phát trực tiếp.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Tôi có thể phát trực tuyến nhạc từ ổ iXpand đến loa AirPlay không?" closed="true" %}}
+{{% ls-details title="Tôi có thể phát trực tuyến nhạc từ ổ iXpand đến loa AirPlay không?" closed="true" %}}
 Có. Trong khi phát nhạc từ ổ USB, bạn có thể phát trực tuyến âm thanh đến các thiết bị tương thích AirPlay như loa Sonos, Apple TV và Google Chromecast.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Tôi nên làm gì nếu ổ iXpand không được nhận diện?" closed="true" %}}
+{{% ls-details title="Tôi nên làm gì nếu ổ iXpand không được nhận diện?" closed="true" %}}
 Đảm bảo không có ứng dụng nào khác đang sử dụng ổ đĩa. Thử rút ra và kết nối lại. Nếu mẫu của bạn không được hỗ trợ, hãy sử dụng bộ chuyển đổi Apple Lightning sang USB để kết nối ổ đĩa như một thiết bị USB tiêu chuẩn.
-{{% /details %}}
+{{% /ls-details %}}

@@ -12,7 +12,7 @@ authors:
     image: "/images/about/artem-meleshko-founder-everappz.webp"
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 ![](/blog/setapp-mobile-and-evermusic-pro/21260c_766c4fbc81e6433cb8fc21b9c2862ce0~mv2.png)
 
@@ -70,27 +70,27 @@ Google Drive、Dropbox、OneDrive、その他のサービスを1つのプレー�
 試してみませんか？Setapp MobileでEvermusic Proを入手して、今日からクラウド音楽ライブラリのストリーミングを始めましょう。
 
 {{< cards cols="1" >}}
-  {{< card link="https://go.setapp.com/stp435?_target=https://www.setapp.com/setapp-mobile&stc=mobile" title="Setapp MobileでEvermusic Proをダウンロード" icon="download" >}}
+  {{< ls-card link="https://go.setapp.com/stp435?_target=https://www.setapp.com/setapp-mobile&stc=mobile" title="Setapp MobileでEvermusic Proをダウンロード" icon="download" >}}
 {{< /cards >}}
 
 ## よくある質問
 
-{{% details title="Evermusic ProはSetapp Mobileで無料ですか？" closed="true" %}}
+{{% ls-details title="Evermusic ProはSetapp Mobileで無料ですか？" closed="true" %}}
 はい。Evermusic Proは追加費用なしでSetapp Mobileサブスクリプションに含まれています。すべての機能がアンロックされたフルプレミアムバージョンを入手できます。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Evermusic Proはどのクラウドサービスに対応していますか？" closed="true" %}}
+{{% ls-details title="Evermusic Proはどのクラウドサービスに対応していますか？" closed="true" %}}
 Evermusic ProはGoogle Drive、Dropbox、OneDrive、iCloud、Box、MEGA、Yandex.Disk、pCloud、HiDrive、WebDAVサーバーに接続します。SMBファイル共有とNASデバイスもサポートしています。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Evermusic Proでオフラインで聴けますか？" closed="true" %}}
+{{% ls-details title="Evermusic Proでオフラインで聴けますか？" closed="true" %}}
 はい。アプリ内で直接、個別のトラック、アルバム、アーティスト、プレイリスト全体をオフライン再生用にダウンロードできます。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Evermusic Proはどのオーディオフォーマットを再生しますか？" closed="true" %}}
+{{% ls-details title="Evermusic Proはどのオーディオフォーマットを再生しますか？" closed="true" %}}
 Evermusic ProはFLAC、MP3、AAC、WAV、ALAC、AIFF、OPUS、OGGなど多くのフォーマットに対応しています。ロスレスとロッシーの両方のオーディオファイルを処理します。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="iPhone用に別のSetappサブスクリプションが必要ですか？" closed="true" %}}
+{{% ls-details title="iPhone用に別のSetappサブスクリプションが必要ですか？" closed="true" %}}
 Setapp MobileはiOSアプリを含むSetappサブスクリプションプランの一部として利用可能です。現在の価格とプランオプションについてはSetappウェブサイトをご確認ください。
-{{% /details %}}
+{{% /ls-details %}}

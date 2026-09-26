@@ -12,7 +12,7 @@ authors:
     image: "/images/about/artem-meleshko-founder-everappz.webp"
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 ## 为什么要从 Wix 导出博客文章？
 
@@ -243,33 +243,33 @@ bash fetch_blog_posts.sh
 该项目是开源的。欢迎提交错误报告、功能建议和 pull request。
 
 {{< cards cols="1" >}}
-  {{< card link="https://github.com/everappz/wix-blog-export" title="GitHub 上的项目" icon="github" tag="open source" >}}
+  {{< ls-card link="https://github.com/everappz/wix-blog-export" title="GitHub 上的项目" icon="github" tag="open source" >}}
 {{< /cards >}}
 
 ---
 
 ## 常见问题
 
-{{% details title="为什么不能直接用 `requests` 抓取 Wix 博客文章？" closed="true" %}}
+{{% ls-details title="为什么不能直接用 `requests` 抓取 Wix 博客文章？" closed="true" %}}
 Wix 使用 JavaScript 动态渲染内容。标准 HTTP 请求返回空页面。Selenium 运行无头浏览器来获取完全渲染的 HTML。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="这适用于任何 Wix 博客吗？" closed="true" %}}
+{{% ls-details title="这适用于任何 Wix 博客吗？" closed="true" %}}
 是的。爬虫读取博客 sitemap XML 并处理每个 URL。您只需更新 `parse_blog_sitemap.py` 中的 `SITEMAP_URL` 变量指向您网站的 sitemap。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="使用哪个 OpenAI 模型？" closed="true" %}}
+{{% ls-details title="使用哪个 OpenAI 模型？" closed="true" %}}
 脚本默认使用 GPT-4o。您可以更改 `generate_md.py` 中的 `API_MODEL` 变量来使用其他模型。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="我可以用它从 Wix 迁移到 Hugo 吗？" closed="true" %}}
+{{% ls-details title="我可以用它从 Wix 迁移到 Hugo 吗？" closed="true" %}}
 可以。输出是带有本地图片路径的标准 Markdown，直接适用于 Hugo、Jekyll、Astro 和其他静态站点生成器。为生成的 `_index.md` 文件添加 front matter 即可完成迁移。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="OpenAI API 费用是多少？" closed="true" %}}
+{{% ls-details title="OpenAI API 费用是多少？" closed="true" %}}
 费用取决于博客文章的数量和长度。包含 50 篇中等长度文章的典型博客使用 GPT-4o 花费几美元的 API 使用量。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="这个工具是开源的吗？" closed="true" %}}
+{{% ls-details title="这个工具是开源的吗？" closed="true" %}}
 是的。完整源代码可在 [GitHub](https://github.com/everappz/wix-blog-export) 上以开源许可证获取。
-{{% /details %}}
+{{% /ls-details %}}

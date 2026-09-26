@@ -21,7 +21,7 @@ På den här skärmen kan du komma åt applikationsinställningarna och uppgrade
 - **Juridik och integritet** — Villkor, Sekretesspolicy, Juridiska meddelanden, Analys och datainsamling
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evertag Inställningsskärm" image="/docs/guide/evertag/img/settings.webp" >}}
+  {{< ls-card title="" subtitle="Evertag Inställningsskärm" image="/docs/guide/evertag/img/settings.webp" >}}
 {{< /cards >}}
 
 ## Uppgradera till Premium
@@ -63,7 +63,7 @@ Aktiverar lösenordsskyddsskärmen om du vill skydda dina applikationsdata.
 Filhanteraren stödjer åtkomst till anslutna molnlagringskonton och erbjuder batchoperationer för snabb hantering av flera filer.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evertag Inställningar Filhanterareskärm" image="/docs/guide/evertag/img/settings-file-manager.webp" >}}
+  {{< ls-card title="" subtitle="Evertag Inställningar Filhanterareskärm" image="/docs/guide/evertag/img/settings-file-manager.webp" >}}
 {{< /cards >}}
 
 ### Filöverföringar
@@ -103,7 +103,7 @@ Rensa applikationens cachemapp för att återta lagringsutrymme.
 I det här avsnittet kan du konfigurera den inbyggda ljudtaggeditorn.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evertag Inställningar Taggeditorskärm" image="/docs/guide/evertag/img/settings-tag-editor.webp" >}}
+  {{< ls-card title="" subtitle="Evertag Inställningar Taggeditorskärm" image="/docs/guide/evertag/img/settings-tag-editor.webp" >}}
 {{< /cards >}}
 
 ### Albumomslags-skalning
@@ -136,7 +136,7 @@ I det här avsnittet kan du aktivera WiFi Drive-funktionen, som låter dig över
 I det här avsnittet kan du anpassa användargränssnittsinställningarna efter dina önskemål.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evertag Inställningar Personaliseringsskärm" image="/docs/guide/evertag/img/settings-personalization.webp" >}}
+  {{< ls-card title="" subtitle="Evertag Inställningar Personaliseringsskärm" image="/docs/guide/evertag/img/settings-personalization.webp" >}}
 {{< /cards >}}
 
 ### Appikon

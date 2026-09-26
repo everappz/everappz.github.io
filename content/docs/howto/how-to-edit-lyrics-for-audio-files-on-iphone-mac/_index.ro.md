@@ -7,7 +7,7 @@ tags: ["lyrics", "mp3", "id3", "metadata", "iphone", "audio editing"]
 readingTime: 2
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **Rezumat:** Folosește aplicația gratuită **Evertag** pentru a edita versuri nesincronizate, clasificări de conținut și peste 120 de tag-uri audio pe iPhone sau Mac. Funcționează cu fișiere locale și stocate în cloud, suportă editare în lot și salvează versuri vizibile în Evermusic, Flacbox și alte playere.
@@ -23,8 +23,8 @@ Pentru demonstrație, vom folosi aplicația **Evertag**. Aceasta suportă **pest
 Începe prin descărcarea aplicației **Evertag** din App Store. Este disponibilă atât pentru **iOS**, cât și pentru **macOS**, și este gratuită.
 
 {{< cards cols="2">}}
-{{< card link="https://apps.apple.com/app/apple-store/id1450763230?pt=95781850&ct=everappzcom&mt=8" title="Evertag pentru iOS" icon="download" tag="Free" >}}
-{{< card link="https://apps.apple.com/app/apple-store/id1594027661?pt=95781850&ct=everappzcom&mt=8" title="Evertag pentru macOS" icon="download" tag="Free" >}}
+{{< ls-card link="https://apps.apple.com/app/apple-store/id1450763230?pt=95781850&ct=everappzcom&mt=8" title="Evertag pentru iOS" icon="download" tag="Free" >}}
+{{< ls-card link="https://apps.apple.com/app/apple-store/id1594027661?pt=95781850&ct=everappzcom&mt=8" title="Evertag pentru macOS" icon="download" tag="Free" >}}
 {{< /cards >}}
 
 ## Conectează contul tău cloud
@@ -38,13 +38,13 @@ Pentru a conecta un serviciu de stocare cloud:
 - Apasă **Conectare la stocare cloud**
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Conectare la stocare cloud" image="/docs/howto/how-to-edit-lyrics-for-audio-files-on-iphone-mac/connect-to-cloud-storage.webp" >}}
+{{< ls-card title="" subtitle="Conectare la stocare cloud" image="/docs/howto/how-to-edit-lyrics-for-audio-files-on-iphone-mac/connect-to-cloud-storage.webp" >}}
 {{< /cards >}}
 
 - Selectează un furnizor suportat, introdu datele de autentificare și apasă **Terminat**
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Conectare la stocare cloud" image="/docs/howto/how-to-edit-lyrics-for-audio-files-on-iphone-mac/connect-to-cloud-storage.webp" >}}
+{{< ls-card title="" subtitle="Conectare la stocare cloud" image="/docs/howto/how-to-edit-lyrics-for-audio-files-on-iphone-mac/connect-to-cloud-storage.webp" >}}
 {{< /cards >}}
 
 - Odată conectat, stocarea ta cloud va apărea în secțiunea **Stocare cloud** a aplicației.
@@ -52,7 +52,7 @@ Pentru a conecta un serviciu de stocare cloud:
 - Apasă pe stocarea cloud conectată pentru a naviga și încărca conținutul dosarelor sale.
   
 {{< cards cols="1">}}
-{{< card title="" subtitle="Lista fișierelor din stocarea cloud" image="/docs/howto/how-to-edit-lyrics-for-audio-files-on-iphone-mac/cloud-storage-list-audio-files.webp" >}}
+{{< ls-card title="" subtitle="Lista fișierelor din stocarea cloud" image="/docs/howto/how-to-edit-lyrics-for-audio-files-on-iphone-mac/cloud-storage-list-audio-files.webp" >}}
 {{< /cards >}}
 
 ## Conectează dosar local
@@ -74,7 +74,7 @@ Poți edita tag-uri audio pentru fișiere stocate direct pe dispozitivul tău f�
 - Derulează în jos până la **Fișiere pe acest dispozitiv** în meniul barei laterale
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Dosare dispozitiv" image="/docs/howto/how-to-edit-lyrics-for-audio-files-on-iphone-mac/device-folders.webp" >}}
+{{< ls-card title="" subtitle="Dosare dispozitiv" image="/docs/howto/how-to-edit-lyrics-for-audio-files-on-iphone-mac/device-folders.webp" >}}
 {{< /cards >}}
   
 - Apasă pe elementul de meniu **Toate dosarele dispozitivului**
@@ -91,7 +91,7 @@ Poți edita tag-uri audio pentru fișiere stocate direct pe dispozitivul tău f�
 **Editorul de tag-uri** este ecranul principal al aplicației Evertag unde poți vizualiza și edita metadatele fișierelor audio. Deschide acest ecran apăsând pe un fișier din secțiunea **Fișiere locale** sau din orice cont de **stocare cloud** conectat.
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Ecranul editorului de tag-uri Evertag" image="/docs/howto/how-to-edit-lyrics-for-audio-files-on-iphone-mac/cloud-storage-audio-file-tag-editor.webp" >}}
+{{< ls-card title="" subtitle="Ecranul editorului de tag-uri Evertag" image="/docs/howto/how-to-edit-lyrics-for-audio-files-on-iphone-mac/cloud-storage-audio-file-tag-editor.webp" >}}
 {{< /cards >}}
 
 ## Moduri de editare
@@ -112,7 +112,7 @@ Implicit, aplicația deschide editorul de tag-uri în modul fișier unic cu doar
 Pentru a accesa toate tag-urile disponibile, derulează în josul ecranului și apasă opțiunea **Afișează tag-uri extinse**. Aceasta va comuta editorul în modul extins, permițându-ți să editezi peste **120 de câmpuri de metadate**, inclusiv **tag-uri MusicBrainz**, **versuri**, **clasificări de conținut** și altele.
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Panoul de acțiuni de jos" image="/docs/howto/how-to-edit-lyrics-for-audio-files-on-iphone-mac/show-extended-tags.webp" >}}
+{{< ls-card title="" subtitle="Panoul de acțiuni de jos" image="/docs/howto/how-to-edit-lyrics-for-audio-files-on-iphone-mac/show-extended-tags.webp" >}}
 {{< /cards >}}
 
 ## Modul în lot
@@ -137,7 +137,7 @@ Iată cum adaugi sau actualizezi **versuri nesincronizate** încorporate în fi�
 În modul **Tag-uri extinse**, derulează în jos și apasă câmpul de text **Versuri nesincronizate**.
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Câmpul de text versuri nesincronizate" image="/docs/howto/how-to-edit-lyrics-for-audio-files-on-iphone-mac/advisory-rating-2.webp" >}}
+{{< ls-card title="" subtitle="Câmpul de text versuri nesincronizate" image="/docs/howto/how-to-edit-lyrics-for-audio-files-on-iphone-mac/advisory-rating-2.webp" >}}
 {{< /cards >}}
 
 > Fișierele audio care suportă **tag-uri ID3** (cum ar fi `.mp3` sau `.wav`) îți permit să adaugi versuri în mai multe limbi. Dacă editezi un fișier cu tag-uri ID3, Evertag activează suportul complet multilingv.  
@@ -148,7 +148,7 @@ Iată cum adaugi sau actualizezi **versuri nesincronizate** încorporate în fi�
 Dacă editezi tag-uri ID3, ecranul următor va afișa un buton **Adaugă pagină nouă**. Apasă-l pentru a începe adăugarea unei noi intrări de versuri.
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Adaugă pagină nouă de versuri" image="/docs/howto/how-to-edit-lyrics-for-audio-files-on-iphone-mac/add-new-page.webp" >}}
+{{< ls-card title="" subtitle="Adaugă pagină nouă de versuri" image="/docs/howto/how-to-edit-lyrics-for-audio-files-on-iphone-mac/add-new-page.webp" >}}
 {{< /cards >}}
 
 ### Alege limba, comentariul și conținutul versurilor
@@ -159,7 +159,7 @@ Pe ecranul de introducere a versurilor, vei putea:
 - Introduce **textul versurilor** efectiv
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Selectează limba" image="/docs/howto/how-to-edit-lyrics-for-audio-files-on-iphone-mac/choose-language.webp" >}}
+{{< ls-card title="" subtitle="Selectează limba" image="/docs/howto/how-to-edit-lyrics-for-audio-files-on-iphone-mac/choose-language.webp" >}}
 {{< /cards >}}
 
 ### Introduce versurile
@@ -169,7 +169,7 @@ Tastează sau lipește conținutul versurilor tale. Evertag suportă versuri în
 > Sfat: Cauți versuri de înaltă calitate? Vizitează [lyricsify.com](https://www.lyricsify.com) pentru a găsi versuri în format LRC pentru mii de piese.
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Versuri adăugate" image="/docs/howto/how-to-edit-lyrics-for-audio-files-on-iphone-mac/added-lyrics.webp" >}}
+{{< ls-card title="" subtitle="Versuri adăugate" image="/docs/howto/how-to-edit-lyrics-for-audio-files-on-iphone-mac/added-lyrics.webp" >}}
 {{< /cards >}}
 
 ### Apasă „Terminat" pentru a confirma
@@ -177,7 +177,7 @@ Tastează sau lipește conținutul versurilor tale. Evertag suportă versuri în
 După introducerea versurilor, apasă **Terminat** pe pagina de versuri. Apoi apasă **Terminat** din nou pe ecranul anterior pentru a confirma modificările tale.
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Versuri salvate" image="/docs/howto/how-to-edit-lyrics-for-audio-files-on-iphone-mac/saved-lyrics.webp" >}}
+{{< ls-card title="" subtitle="Versuri salvate" image="/docs/howto/how-to-edit-lyrics-for-audio-files-on-iphone-mac/saved-lyrics.webp" >}}
 {{< /cards >}}
 
 ### Salvează modificările tag-urilor
@@ -185,7 +185,7 @@ După introducerea versurilor, apasă **Terminat** pe pagina de versuri. Apoi ap
 În cele din urmă, pe ecranul **Editor de tag-uri**, apasă **Salvează** pentru a scrie tag-urile actualizate — inclusiv versurile tale noi — înapoi în fișier.
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Editor de tag-uri cu versuri" image="/docs/howto/how-to-edit-lyrics-for-audio-files-on-iphone-mac/tags-editor-with-lyrics.webp" >}}
+{{< ls-card title="" subtitle="Editor de tag-uri cu versuri" image="/docs/howto/how-to-edit-lyrics-for-audio-files-on-iphone-mac/tags-editor-with-lyrics.webp" >}}
 {{< /cards >}}
 
 ### Setează clasificarea conținutului versurilor
@@ -204,22 +204,22 @@ Urmând acești pași, versurile tale vor fi încorporate corect în metadatele 
 
 ## Întrebări frecvente
 
-{{% details title="Ce formate audio suportă Evertag pentru editarea versurilor?" closed="true" %}}
+{{% ls-details title="Ce formate audio suportă Evertag pentru editarea versurilor?" closed="true" %}}
 Evertag suportă peste 30 de formate audio, inclusiv MP3, FLAC, WAV, M4A, OGG, AIFF și altele. Poți edita versuri și alte tag-uri de metadate în oricare dintre aceste formate.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Pot adăuga versuri în mai multe limbi?" closed="true" %}}
+{{% ls-details title="Pot adăuga versuri în mai multe limbi?" closed="true" %}}
 Da, dar numai pentru fișiere audio care folosesc tag-uri ID3 (cum ar fi MP3 și WAV). Pentru alte formate precum FLAC sau M4A, doar o singură intrare de versuri este suportată.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Suportă Evertag editarea în lot a versurilor?" closed="true" %}}
+{{% ls-details title="Suportă Evertag editarea în lot a versurilor?" closed="true" %}}
 Da. Poți intra în modul în lot pentru a edita metadatele mai multor fișiere simultan. Aceasta este utilă pentru aplicarea aceleiași clasificări de conținut sau alte tag-uri partajate la un album întreg.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Vor apărea versurile editate în Apple Music sau Spotify?" closed="true" %}}
+{{% ls-details title="Vor apărea versurile editate în Apple Music sau Spotify?" closed="true" %}}
 Versurile editate cu Evertag sunt încorporate în metadatele fișierului audio. Vor apărea în orice player de muzică care citește tag-urile de versuri încorporate, cum ar fi Evermusic, Flacbox, VLC și foobar2000. Aplicațiile de streaming precum Spotify și Apple Music folosesc propriile baze de date de versuri și nu citesc tag-urile încorporate.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Pot edita tag-uri pentru fișiere stocate în cloud?" closed="true" %}}
+{{% ls-details title="Pot edita tag-uri pentru fișiere stocate în cloud?" closed="true" %}}
 Da. Evertag suportă conectarea la servicii de stocare cloud. Aplicația descarcă fișierul, îți permite să editezi tag-urile și încarcă automat fișierul actualizat înapoi în cloud.
-{{% /details %}}
+{{% /ls-details %}}

@@ -7,7 +7,7 @@ tags: ["lyrics", "mp3", "id3", "metadata", "iphone", "audio editing"]
 readingTime: 2
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **Samenvatting:** Gebruik de gratis **Evertag**-app om niet-gesynchroniseerde songteksten, inhoudsclassificaties en 120+ audiotags te bewerken op iPhone of Mac. Werkt met lokale en in de cloud opgeslagen bestanden, ondersteunt batchbewerking en slaat songteksten op die zichtbaar zijn in Evermusic, Flacbox en andere spelers.
@@ -23,8 +23,8 @@ Ter demonstratie gebruiken we de **Evertag**-app. Deze ondersteunt **120+ audiot
 Begin met het downloaden van de **Evertag**-app uit de App Store. Deze is beschikbaar voor zowel **iOS** als **macOS** en gratis te gebruiken.
 
 {{< cards cols="2">}}
-{{< card link="https://apps.apple.com/app/apple-store/id1450763230?pt=95781850&ct=everappzcom&mt=8" title="Evertag voor iOS" icon="download" tag="Free" >}}
-{{< card link="https://apps.apple.com/app/apple-store/id1594027661?pt=95781850&ct=everappzcom&mt=8" title="Evertag voor macOS" icon="download" tag="Free" >}}
+{{< ls-card link="https://apps.apple.com/app/apple-store/id1450763230?pt=95781850&ct=everappzcom&mt=8" title="Evertag voor iOS" icon="download" tag="Free" >}}
+{{< ls-card link="https://apps.apple.com/app/apple-store/id1594027661?pt=95781850&ct=everappzcom&mt=8" title="Evertag voor macOS" icon="download" tag="Free" >}}
 {{< /cards >}}
 
 ## Verbind je cloudaccount
@@ -38,13 +38,13 @@ Om een cloudopslagservice te verbinden:
 - Tik op **Verbinden met cloudopslag**
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Verbinden met cloudopslag" image="/docs/howto/how-to-edit-lyrics-for-audio-files-on-iphone-mac/connect-to-cloud-storage.webp" >}}
+{{< ls-card title="" subtitle="Verbinden met cloudopslag" image="/docs/howto/how-to-edit-lyrics-for-audio-files-on-iphone-mac/connect-to-cloud-storage.webp" >}}
 {{< /cards >}}
 
 - Selecteer een ondersteunde provider, voer je inloggegevens in en tik op **Gereed**
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Verbinden met cloudopslag" image="/docs/howto/how-to-edit-lyrics-for-audio-files-on-iphone-mac/connect-to-cloud-storage.webp" >}}
+{{< ls-card title="" subtitle="Verbinden met cloudopslag" image="/docs/howto/how-to-edit-lyrics-for-audio-files-on-iphone-mac/connect-to-cloud-storage.webp" >}}
 {{< /cards >}}
 
 - Na het verbinden verschijnt je cloudopslag in het gedeelte **Cloudopslag** van de app.
@@ -52,7 +52,7 @@ Om een cloudopslagservice te verbinden:
 - Tik op je verbonden cloudopslag om de mapinhoud te bekijken en te laden.
   
 {{< cards cols="1">}}
-{{< card title="" subtitle="Bestandenlijst cloudopslag" image="/docs/howto/how-to-edit-lyrics-for-audio-files-on-iphone-mac/cloud-storage-list-audio-files.webp" >}}
+{{< ls-card title="" subtitle="Bestandenlijst cloudopslag" image="/docs/howto/how-to-edit-lyrics-for-audio-files-on-iphone-mac/cloud-storage-list-audio-files.webp" >}}
 {{< /cards >}}
 
 ## Lokale map verbinden
@@ -74,7 +74,7 @@ Je kunt audiotags bewerken voor bestanden die direct op je apparaat zijn opgesla
 - Scroll naar beneden naar **Bestanden op dit apparaat** in het zijbalkmenu
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Apparaatmappen" image="/docs/howto/how-to-edit-lyrics-for-audio-files-on-iphone-mac/device-folders.webp" >}}
+{{< ls-card title="" subtitle="Apparaatmappen" image="/docs/howto/how-to-edit-lyrics-for-audio-files-on-iphone-mac/device-folders.webp" >}}
 {{< /cards >}}
   
 - Tik op het menu-item **Alle apparaatmappen**
@@ -91,7 +91,7 @@ Je kunt audiotags bewerken voor bestanden die direct op je apparaat zijn opgesla
 De **Tag-editor** is het hoofdscherm van de Evertag-app waar je metadata van audiobestanden kunt bekijken en bewerken. Open dit scherm door op een bestand te tikken vanuit het gedeelte **Lokale bestanden** of vanuit een verbonden **cloudopslag**account.
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Evertag Tag-editor scherm" image="/docs/howto/how-to-edit-lyrics-for-audio-files-on-iphone-mac/cloud-storage-audio-file-tag-editor.webp" >}}
+{{< ls-card title="" subtitle="Evertag Tag-editor scherm" image="/docs/howto/how-to-edit-lyrics-for-audio-files-on-iphone-mac/cloud-storage-audio-file-tag-editor.webp" >}}
 {{< /cards >}}
 
 ## Bewerkingsmodi
@@ -112,7 +112,7 @@ Standaard opent de app de tag-editor in enkelvoudig bestandsmodus met alleen de 
 Om alle beschikbare tags te openen, scroll je naar de onderkant van het scherm en tik je op de optie **Uitgebreide tags tonen**. Dit schakelt de editor over naar de uitgebreide modus, waarmee je meer dan **120 metadatavelden** kunt bewerken, waaronder **MusicBrainz-tags**, **songteksten**, **inhoudsclassificaties** en meer.
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Onderste actiepaneel" image="/docs/howto/how-to-edit-lyrics-for-audio-files-on-iphone-mac/show-extended-tags.webp" >}}
+{{< ls-card title="" subtitle="Onderste actiepaneel" image="/docs/howto/how-to-edit-lyrics-for-audio-files-on-iphone-mac/show-extended-tags.webp" >}}
 {{< /cards >}}
 
 ## Batchmodus
@@ -137,7 +137,7 @@ Hier lees je hoe je **niet-gesynchroniseerde songteksten** die in je audiobestan
 Scroll in de modus **Uitgebreide tags** naar beneden en tik op het tekstveld **Niet-gesynchroniseerde songteksten**.
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Tekstveld niet-gesynchroniseerde songteksten" image="/docs/howto/how-to-edit-lyrics-for-audio-files-on-iphone-mac/advisory-rating-2.webp" >}}
+{{< ls-card title="" subtitle="Tekstveld niet-gesynchroniseerde songteksten" image="/docs/howto/how-to-edit-lyrics-for-audio-files-on-iphone-mac/advisory-rating-2.webp" >}}
 {{< /cards >}}
 
 > Audiobestanden die **ID3-tags** ondersteunen (zoals `.mp3` of `.wav`) stellen je in staat songteksten in meerdere talen toe te voegen. Als je een ID3-getagd bestand bewerkt, schakelt Evertag volledige meertalige ondersteuning in.  
@@ -148,7 +148,7 @@ Scroll in de modus **Uitgebreide tags** naar beneden en tik op het tekstveld **N
 Als je ID3-tags bewerkt, toont het volgende scherm een knop **Nieuwe pagina toevoegen**. Tik erop om een nieuwe songtekstvermelding toe te voegen.
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Nieuwe songtekstpagina toevoegen" image="/docs/howto/how-to-edit-lyrics-for-audio-files-on-iphone-mac/add-new-page.webp" >}}
+{{< ls-card title="" subtitle="Nieuwe songtekstpagina toevoegen" image="/docs/howto/how-to-edit-lyrics-for-audio-files-on-iphone-mac/add-new-page.webp" >}}
 {{< /cards >}}
 
 ### Taal, opmerking en songtekstinhoud kiezen
@@ -159,7 +159,7 @@ Op het songtekstinvoerscherm kun je:
 - De daadwerkelijke **songtekst** invoeren
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Taal selecteren" image="/docs/howto/how-to-edit-lyrics-for-audio-files-on-iphone-mac/choose-language.webp" >}}
+{{< ls-card title="" subtitle="Taal selecteren" image="/docs/howto/how-to-edit-lyrics-for-audio-files-on-iphone-mac/choose-language.webp" >}}
 {{< /cards >}}
 
 ### Songteksten invoeren
@@ -169,7 +169,7 @@ Typ of plak je songtekstinhoud. Evertag ondersteunt LRC-stijl songteksten met ti
 > Tip: Op zoek naar hoogwaardige songteksten? Bezoek [lyricsify.com](https://www.lyricsify.com) om songteksten in LRC-formaat te vinden voor duizenden tracks.
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Toegevoegde songteksten" image="/docs/howto/how-to-edit-lyrics-for-audio-files-on-iphone-mac/added-lyrics.webp" >}}
+{{< ls-card title="" subtitle="Toegevoegde songteksten" image="/docs/howto/how-to-edit-lyrics-for-audio-files-on-iphone-mac/added-lyrics.webp" >}}
 {{< /cards >}}
 
 ### Tik op "Gereed" om te bevestigen
@@ -177,7 +177,7 @@ Typ of plak je songtekstinhoud. Evertag ondersteunt LRC-stijl songteksten met ti
 Na het invoeren van je songteksten tik je op **Gereed** op de songtekstpagina. Tik vervolgens nogmaals op **Gereed** op het vorige scherm om je wijzigingen te bevestigen.
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Opgeslagen songteksten" image="/docs/howto/how-to-edit-lyrics-for-audio-files-on-iphone-mac/saved-lyrics.webp" >}}
+{{< ls-card title="" subtitle="Opgeslagen songteksten" image="/docs/howto/how-to-edit-lyrics-for-audio-files-on-iphone-mac/saved-lyrics.webp" >}}
 {{< /cards >}}
 
 ### Tagwijzigingen opslaan
@@ -185,7 +185,7 @@ Na het invoeren van je songteksten tik je op **Gereed** op de songtekstpagina. T
 Tik ten slotte op het scherm **Tag-editor** op **Opslaan** om de bijgewerkte tags — inclusief je nieuwe songteksten — terug naar het bestand te schrijven.
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Tag-editor met songteksten" image="/docs/howto/how-to-edit-lyrics-for-audio-files-on-iphone-mac/tags-editor-with-lyrics.webp" >}}
+{{< ls-card title="" subtitle="Tag-editor met songteksten" image="/docs/howto/how-to-edit-lyrics-for-audio-files-on-iphone-mac/tags-editor-with-lyrics.webp" >}}
 {{< /cards >}}
 
 ### Inhoudsclassificatie van songteksten instellen
@@ -204,22 +204,22 @@ Door deze stappen te volgen, worden je songteksten correct ingesloten in de meta
 
 ## Veelgestelde vragen
 
-{{% details title="Welke audioformaten ondersteunt Evertag voor het bewerken van songteksten?" closed="true" %}}
+{{% ls-details title="Welke audioformaten ondersteunt Evertag voor het bewerken van songteksten?" closed="true" %}}
 Evertag ondersteunt meer dan 30 audioformaten, waaronder MP3, FLAC, WAV, M4A, OGG, AIFF en meer. Je kunt songteksten en andere metadatatags in elk van deze formaten bewerken.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Kan ik songteksten in meerdere talen toevoegen?" closed="true" %}}
+{{% ls-details title="Kan ik songteksten in meerdere talen toevoegen?" closed="true" %}}
 Ja, maar alleen voor audiobestanden die ID3-tags gebruiken (zoals MP3 en WAV). Voor andere formaten zoals FLAC of M4A wordt slechts één songtekstvermelding ondersteund.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Ondersteunt Evertag batchbewerking van songteksten?" closed="true" %}}
+{{% ls-details title="Ondersteunt Evertag batchbewerking van songteksten?" closed="true" %}}
 Ja. Je kunt de batchmodus openen om metadata van meerdere bestanden tegelijk te bewerken. Dit is handig om dezelfde inhoudsclassificatie of andere gedeelde tags op een heel album toe te passen.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Verschijnen bewerkte songteksten in Apple Music of Spotify?" closed="true" %}}
+{{% ls-details title="Verschijnen bewerkte songteksten in Apple Music of Spotify?" closed="true" %}}
 Songteksten die met Evertag zijn bewerkt, zijn ingesloten in de metadata van het audiobestand. Ze verschijnen in elke muziekspeler die ingesloten songteksttags leest, zoals Evermusic, Flacbox, VLC en foobar2000. Streaming-apps zoals Spotify en Apple Music gebruiken hun eigen songtekstdatabases en lezen geen ingesloten tags.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Kan ik tags bewerken voor bestanden die in cloudopslag zijn opgeslagen?" closed="true" %}}
+{{% ls-details title="Kan ik tags bewerken voor bestanden die in cloudopslag zijn opgeslagen?" closed="true" %}}
 Ja. Evertag ondersteunt het verbinden met cloudopslagservices. De app downloadt het bestand, laat je de tags bewerken en uploadt het bijgewerkte bestand automatisch terug naar de cloud.
-{{% /details %}}
+{{% /ls-details %}}

@@ -12,7 +12,7 @@ authors:
     image: "/images/about/artem-meleshko-founder-everappz.webp"
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 **Flacbox 1.6** donosi važne nove značajke za FLAC glazbeni player za iPhone i iPad.
 
@@ -68,18 +68,18 @@ Imate povratne informacije ili zahtjeve za značajke? Javite nam se -- Flacbox g
 
 ## Često postavljana pitanja
 
-{{% details title="Koje audio formate Flacbox podržava?" closed="true" %}}
+{{% ls-details title="Koje audio formate Flacbox podržava?" closed="true" %}}
 Flacbox podržava FLAC, ALAC, MP3, AAC, OGG, OPUS, WAV, AIFF, DSD i druge popularne audio formate. Svi formati rade s ugrađenim ekvilajzerom.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Mogu li reproducirati glazbu s SD kartice na svom iPhoneu?" closed="true" %}}
+{{% ls-details title="Mogu li reproducirati glazbu s SD kartice na svom iPhoneu?" closed="true" %}}
 Da. Spojite SD ili microSD karticu pomoću Lightning na SD Card Camera Reader adaptera. Flacbox automatski prepoznaje karticu i omogućuje pregledavanje i reprodukciju datoteka izravno s vanjske pohrane.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Sinkronizira li se Flacbox automatski s pohranom u oblaku?" closed="true" %}}
+{{% ls-details title="Sinkronizira li se Flacbox automatski s pohranom u oblaku?" closed="true" %}}
 Da. Od verzije 1.6, Flacbox može automatski sinkronizirati vašu glazbenu knjižnicu iz mapa u oblaku. Omogućite automatsku sinkronizaciju u postavkama i odaberite mape koje želite pratiti.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Je li ekvilajzer Flacboxa prilagodljiv?" closed="true" %}}
+{{% ls-details title="Je li ekvilajzer Flacboxa prilagodljiv?" closed="true" %}}
 Da. 10-pojasni ekvilajzer omogućuje podešavanje pojedinačnih razina frekvencija između -12 dB i +12 dB. Možete koristiti ugrađene postavke ili spremiti vlastite prilagođene postavke.
-{{% /details %}}
+{{% /ls-details %}}

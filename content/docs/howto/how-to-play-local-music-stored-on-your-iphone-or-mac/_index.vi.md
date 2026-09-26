@@ -6,7 +6,7 @@ tags: ["nhac cuc bo", "nhac ngoai tuyen", "trinh phat nhac", "iPhone", "Mac", "E
 keywords: ["cach phat nhac cuc bo tren iPhone", "phat nhac tu bo nho thiet bi", "trinh phat nhac ngoai tuyen iOS", "huong dan ung dung Evermusic", "trinh phat FLAC Flacbox", "phat tap tin cuc bo iOS", "thu vien nhac Mac", "ung dung nhac cho tap tin cuc bo", "iPhone phat bai hat da tai", "cach su dung Evermusic voi tap tin cuc bo"]
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **Tom tat:** Cai dat [Evermusic](/products/evermusic) (MP3/WAV) hoac [Flacbox](/products/flacbox) (FLAC/DSD), mo bat ky tap tin am thanh hoac thu muc cuc bo nao va bat dau phat. Them thu muc vao **Yeu thich** de truy cap nhanh, nhap cac ban nhac vao Thu vien Nhac cua ban, hoac tao **Danh sach phat**.
@@ -24,10 +24,10 @@ Chung ta se kham pha cac phuong phap va cong cu de phat nhac cuc bo cua ban mot 
 De bat dau hanh trinh vao the gioi nhac cuc bo tren iPhone va Mac, hay bat dau bang cach cai dat Evermusic (cho cac dinh dang am thanh tieu chuan nhu mp3 va wav) hoac Flacbox (cho nhac khong mat du lieu trong dsd va flac). Ca hai ung dung deu co san cho iOS va MacOS, va ban co the tai chung mien phi.
 
 {{< cards >}}
-  {{< card link="https://apps.apple.com/us/app/evermusic-cloud-music-player/id885367198?pt=95781850&ct=everappzcom&mt=8" title="Tai Evermusic cho iOS" tag="iOS" >}}
-  {{< card link="https://apps.apple.com/us/app/flacbox-hi-res-equalizer/id1097564256?pt=95781850&ct=everappzcom&mt=8" title="Tai Flacbox cho iOS" tag="iOS" >}}
-  {{< card link="https://apps.apple.com/us/app/evermusic-hi-res-music-player/id1564384601?pt=95781850&ct=everappzcom&mt=8" title="Tai Evermusic cho Mac" tag="macOS" >}}
-  {{< card link="https://apps.apple.com/us/app/flacbox-hi-res-music-player/id1594027432?pt=95781850&ct=everappzcom&mt=8" title="Tai Flacbox cho Mac" tag="macOS" >}}
+  {{< ls-card link="https://apps.apple.com/us/app/evermusic-cloud-music-player/id885367198?pt=95781850&ct=everappzcom&mt=8" title="Tai Evermusic cho iOS" tag="iOS" >}}
+  {{< ls-card link="https://apps.apple.com/us/app/flacbox-hi-res-equalizer/id1097564256?pt=95781850&ct=everappzcom&mt=8" title="Tai Flacbox cho iOS" tag="iOS" >}}
+  {{< ls-card link="https://apps.apple.com/us/app/evermusic-hi-res-music-player/id1564384601?pt=95781850&ct=everappzcom&mt=8" title="Tai Evermusic cho Mac" tag="macOS" >}}
+  {{< ls-card link="https://apps.apple.com/us/app/flacbox-hi-res-music-player/id1594027432?pt=95781850&ct=everappzcom&mt=8" title="Tai Flacbox cho Mac" tag="macOS" >}}
 {{< /cards >}}
 
 
@@ -135,22 +135,22 @@ Voi nhung buoc don gian nay, ban co the khai pha toan bo tiem nang cua iPhone va
 
 ## FAQ
 
-{{% details title="Evermusic va Flacbox co the phat nhung dinh dang am thanh nao?" closed="true" %}}
+{{% ls-details title="Evermusic va Flacbox co the phat nhung dinh dang am thanh nao?" closed="true" %}}
 Evermusic phat MP3, WAV, AAC, M4A va cac dinh dang tieu chuan khac. Flacbox them ho tro cho FLAC, DSD, OGG, OPUS, APE, WMA va ALAC.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Cac ung dung nay co sao chep tap tin vao bo nho ung dung khong?" closed="true" %}}
+{{% ls-details title="Cac ung dung nay co sao chep tap tin vao bo nho ung dung khong?" closed="true" %}}
 Theo mac dinh, tap tin duoc phat tu vi tri goc ma khong bi sao chep. De thay doi hanh vi nay, bat "Always copy files during opening" trong **Cai dat** > File manager.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Toi co the sap xep nhac cuc bo theo nghe si va album khong?" closed="true" %}}
+{{% ls-details title="Toi co the sap xep nhac cuc bo theo nghe si va album khong?" closed="true" %}}
 Co. Nhap tap tin vao Thu vien Nhac (Buoc 4) va ung dung doc sieu du lieu de nhom cac ban nhac theo Nghe si, Album, The loai va Nha soan nhac.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Lam the nao de chuyen nhac tu may tinh sang iPhone?" closed="true" %}}
+{{% ls-details title="Lam the nao de chuyen nhac tu may tinh sang iPhone?" closed="true" %}}
 Su dung iTunes File Sharing (USB), WiFi Drive (khong day) hoac SMB (phat truc tuyen). Xem huong dan chi tiet cua chung toi: [Chuyen va phat tap tin cuc bo tren iPhone](/docs/howto/how-to-play-local-itunes-files-on-my-iphone/).
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Evermusic va Flacbox co mien phi khong?" closed="true" %}}
+{{% ls-details title="Evermusic va Flacbox co mien phi khong?" closed="true" %}}
 Co, ca hai ung dung deu mien phi tai ve voi cac tinh nang cot loi bao gom phat nhac, bo can bang va phat truc tuyen tu dam may. Cac phien ban mien phi co mot so han che (so luong **Danh sach phat**, tai khoan dam may, thu muc ngoai tuyen). Nang cap len Premium se xoa bo cac han che nay.
-{{% /details %}}
+{{% /ls-details %}}

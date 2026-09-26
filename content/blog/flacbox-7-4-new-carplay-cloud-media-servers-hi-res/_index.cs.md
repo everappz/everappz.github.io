@@ -12,7 +12,7 @@ authors:
     image: "/images/about/artem-meleshko-founder-everappz.webp"
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 **Krátce:** [Flacbox 7.4](/products/flacbox) je významné vydání hi-res audio přehrávače pro iPhone a Mac. CarPlay byl přebudován od základů — rychlé třídění, několik barevných schémat, nová obrazovka Nyní hraje, kompletní fronta přehrávání na jeden pohled a abecední rejstřík pro obrovské knihovny. Aktualizace přidává více než 10 nových způsobů, jak se dostat k hudbě — cloudy zaměřené na soukromí **Internxt** a **Proton Drive**, osobní servery **QNAP**, **Nextcloud** a **Amazon S3**, streamovací servery **Plex**, **Subsonic**, **Navidrome**, **Jellyfin** a **Emby**, plus síťové protokoly **FTP**, **SFTP** a **NFS**. Rozhraní je vyladěno pro nový materiál **Liquid Glass** od Apple, podkladové síťové knihovny jsou silnější a widgety domovské obrazovky se obnovují spolehlivěji.
 
@@ -121,50 +121,50 @@ Pokud vám aplikace zlepšuje den, hodnocení v App Store opravdu pomáhá. Otá
 
 ## Často kladené otázky
 
-{{% details title="Co je nového ve Flacboxu 7.4?" closed="true" %}}
+{{% ls-details title="Co je nového ve Flacboxu 7.4?" closed="true" %}}
 Flacbox 7.4 přináší zcela přebudovaný CarPlay zážitek a přidává více než 10 nových připojení — Plex, Jellyfin, Emby, Subsonic, Navidrome, Internxt, Proton Drive, QNAP, Nextcloud, Amazon S3, FTP, SFTP, NFS. Vydání také přináší obnovu designu Liquid Glass, silnější síťové knihovny, přepracované widgety domovské obrazovky s chytřejší obnovou, opravy přehrávání na některých serverech, vylepšení překladů a mnoho drobných vylepšení.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Funguje Flacbox s Plexem pro FLAC a bezztrátový zvuk?" closed="true" %}}
+{{% ls-details title="Funguje Flacbox s Plexem pro FLAC a bezztrátový zvuk?" closed="true" %}}
 Ano. Počínaje Flacboxem 7.4 se můžete připojit k Plex Media Serveru a streamovat celou svou hi-res knihovnu — FLAC, ALAC, WAV, AIFF, OGG, OPUS a další bezztrátové formáty. Plex Media Server je zdarma ke spuštění; Plex Pass je volitelný. Flacbox podporuje jak bezplatné, tak Plex Pass nastavení.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Je ve Flacboxu podporován Jellyfin nebo Navidrome?" closed="true" %}}
+{{% ls-details title="Je ve Flacboxu podporován Jellyfin nebo Navidrome?" closed="true" %}}
 Ano. Oba jsou plně podporovány ve Flacboxu 7.4. Jellyfin je bezplatný open-source mediální server. Navidrome je bezplatný open-source hudební server, který implementuje Subsonic API. Flacbox se k oběma připojuje nativně a streamuje vaši bezztrátovou knihovnu s úplnými metadaty a obaly.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Jsou Plex, Jellyfin, Emby, Navidrome a Subsonic zdarma?" closed="true" %}}
+{{% ls-details title="Jsou Plex, Jellyfin, Emby, Navidrome a Subsonic zdarma?" closed="true" %}}
 - **Plex** — server je zdarma; Plex Pass je volitelný placený upgrade.
 - **Jellyfin** — zcela zdarma a open-source.
 - **Emby** — server je zdarma; Emby Premiere je placené a odemyká mobilní synchronizaci a offline režim.
 - **Navidrome** — zcela zdarma a open-source.
 - **Subsonic** — oficiální server stojí 1 $/měsíc po 30denní zkušební době, ale jeho API je otevřené a mnoho bezplatných serverů (včetně Navidrome) ho implementuje.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Mohu streamovat FLAC a DSD ze svého domácího NAS přes SFTP, FTP nebo NFS?" closed="true" %}}
+{{% ls-details title="Mohu streamovat FLAC a DSD ze svého domácího NAS přes SFTP, FTP nebo NFS?" closed="true" %}}
 Ano. Flacbox 7.4 přidává SFTP, FTP a NFS jako nativní typy připojení. SFTP je doporučená volba pro streamování z vašeho serveru přes veřejný internet, protože veškerý provoz je šifrován přes SSH. FTP a NFS se nejlépe používají uvnitř lokální sítě nebo za VPN.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Jak připojím Flacbox k vlastnímu serveru pomocí SFTP?" closed="true" %}}
+{{% ls-details title="Jak připojím Flacbox k vlastnímu serveru pomocí SFTP?" closed="true" %}}
 Otevřete Flacbox, přejděte na záložku Připojení, vyberte SFTP a zadejte název hostitele nebo IP adresu serveru, port (obvykle 22), uživatelské jméno a buď heslo, nebo soukromý SSH klíč. Flacbox bude procházet vaše vzdálené složky a streamovat zvukové soubory přímo s šifrováním end-to-end.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Podporuje Flacbox Internxt a Proton Drive?" closed="true" %}}
+{{% ls-details title="Podporuje Flacbox Internxt a Proton Drive?" closed="true" %}}
 Ano. Oba cloudy zaměřené na soukromí jsou podporovány od Flacboxu 7.4. Připojují se k MEGA a dalším službám zaměřeným na soukromí, které jsou již v aplikaci k dispozici.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Přehrává Flacbox soubory DSD z Plexu, Jellyfinu nebo NAS?" closed="true" %}}
+{{% ls-details title="Přehrává Flacbox soubory DSD z Plexu, Jellyfinu nebo NAS?" closed="true" %}}
 Ano. Flacbox přehrává soubory DSD64, DSD128 a DSD256 (kontejnery DSF a DFF) streamované z Plexu, Jellyfinu, Emby, serverů kompatibilních se Subsonicem, QNAP, Nextcloudu, Amazon S3 a přes SFTP, FTP a NFS. Bit-perfect výstup do USB DAC je podporován na iPhonu, iPadu a Macu.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Jak fungují přepracované obrazovky CarPlay?" closed="true" %}}
+{{% ls-details title="Jak fungují přepracované obrazovky CarPlay?" closed="true" %}}
 Rozhraní CarPlay ve Flacboxu bylo přebudováno s rychlým tříděním napříč alby, interprety, playlisty a složkami; několika barevnými schématy, která se hodí k různým interiérům aut; novou obrazovkou Nyní hraje s novými ovládacími prvky; kompletní frontou přehrávání na jeden pohled; abecedním rejstříkem pro skákání skrz velké knihovny; a rychlejším načítáním u velkých složek a cloudových adresářů.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Je aktualizace na Flacbox 7.4 zdarma?" closed="true" %}}
+{{% ls-details title="Je aktualizace na Flacbox 7.4 zdarma?" closed="true" %}}
 Ano. Flacbox je bezplatné stažení z App Store a 7.4 je bezplatná aktualizace pro všechny stávající uživatele. Přebudovaný CarPlay, všechna nová cloudová a serverová připojení, obnovené widgety domovské obrazovky a rozhraní Liquid Glass jsou součástí základní aktualizace.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Na jakých zařízeních je Flacbox 7.4 dostupný?" closed="true" %}}
+{{% ls-details title="Na jakých zařízeních je Flacbox 7.4 dostupný?" closed="true" %}}
 Flacbox 7.4 běží na iPhonu, iPadu a Macu. Podpora CarPlay vyžaduje vozidlo kompatibilní s CarPlay nebo aftermarketovou hlavní jednotku. AirPlay a Chromecast umožňují přesměrovat přehrávání na větší systém; USB DAC jsou podporovány pro bit-perfect bezztrátový výstup.
-{{% /details %}}
+{{% /ls-details %}}

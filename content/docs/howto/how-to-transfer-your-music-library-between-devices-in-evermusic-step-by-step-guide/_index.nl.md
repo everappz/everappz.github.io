@@ -7,7 +7,7 @@ keywords: ["muziekbibliotheek overzetten Evermusic", "back-up en herstel afspeel
 readingTime: 3
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **Samenvatting:** Om uw Evermusic-bibliotheek naar een nieuw apparaat over te zetten, maakt u een back-up op het bronapparaat, start u Wi-Fi Drive, verbindt u het tweede apparaat via hetzelfde netwerk, downloadt u de back-up en muziekbestanden en herstelt u vervolgens vanuit de back-up. Het hele proces duurt ongeveer 10 minuten, afhankelijk van de grootte van de bibliotheek.
@@ -144,22 +144,22 @@ Door deze stappen te volgen, zet u met succes uw muziekbibliotheek, afspeellijst
 
 ## Veelgestelde vragen
 
-{{% details title="Kan ik mijn Evermusic-bibliotheek overzetten zonder Wi-Fi?" closed="true" %}}
+{{% ls-details title="Kan ik mijn Evermusic-bibliotheek overzetten zonder Wi-Fi?" closed="true" %}}
 Wi-Fi Drive vereist dat beide apparaten op hetzelfde Wi-Fi-netwerk zitten. Er is momenteel geen Bluetooth- of mobiele overdrachtsoptie. U kunt als alternatief AirDrop of de Bestanden-app gebruiken om het back-upbestand en de muziekmappen handmatig tussen apparaten te verplaatsen.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Worden mijn cloudserviceverbindingen mee overgezet met de back-up?" closed="true" %}}
+{{% ls-details title="Worden mijn cloudserviceverbindingen mee overgezet met de back-up?" closed="true" %}}
 De back-up bevat uw database, afspeellijsten, albumhoezen en instellingen. Inloggegevens voor cloudservices worden om veiligheidsredenen niet meegenomen. U moet uw cloudaccounts opnieuw verbinden op het nieuwe apparaat na het herstellen.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Wat gebeurt er met mijn bestaande bibliotheek op het tweede apparaat?" closed="true" %}}
+{{% ls-details title="Wat gebeurt er met mijn bestaande bibliotheek op het tweede apparaat?" closed="true" %}}
 Het herstellen van een back-up vervangt alle bestaande muziekbibliotheekgegevens, afspeellijsten, instellingen en albumhoezen op het tweede apparaat. Maak eerst een aparte back-up van het tweede apparaat als u de gegevens wilt bewaren.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Werkt dit proces tussen iPhone en Mac?" closed="true" %}}
+{{% ls-details title="Werkt dit proces tussen iPhone en Mac?" closed="true" %}}
 Ja. Evermusic ondersteunt Wi-Fi Drive-overdracht tussen elke combinatie van iPhone, iPad en Mac. Beide apparaten hoeven alleen op hetzelfde Wi-Fi-netwerk te zitten.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Hoe lang duurt de overdracht?" closed="true" %}}
+{{% ls-details title="Hoe lang duurt de overdracht?" closed="true" %}}
 De overdrachtstijd hangt af van de grootte van uw muziekbibliotheek en uw Wi-Fi-snelheid. Een typische bibliotheek van enkele gigabytes wordt in 5-15 minuten overgezet via een standaard thuisnetwerk.
-{{% /details %}}
+{{% /ls-details %}}

@@ -7,7 +7,7 @@ tags: ["zene", "hang", "lejátszó", "iphone", "lejátszás", "offline", "letöl
 readingTime: 5
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **Összefoglaló:** Konvertáld a YouTube videókat MP3 formátumba egy böngésző-alapú konverterrel vagy az ingyenes ClipGrab asztali alkalmazással. Ezután importáld az audiofájlokat az Evermusic-ba iPhone-odon vagy Mac-eden az offline lejátszáshoz -- nincs szükség internetre.
@@ -221,30 +221,30 @@ Ha bizonytalan vagy a lehetőségeidet illetően, fontold meg, hogy szerzői jog
 
 P.S. Több **videó oktatóanyag** is elérhető a YouTube-on:
 <br><br>
-{{< youtubecard id="TlVpbRvAiwA" title="Descargar Música Gratis Para IOS" >}}
+{{< ls-youtubecard id="TlVpbRvAiwA" title="Descargar Música Gratis Para IOS" >}}
 <br><br>
-{{< youtubecard id="jSDuNguZZNE" title="Evermusic: Free Offline Music Player for iOS (iPhone/iPod/iPad) | Music Files Organization" >}}
+{{< ls-youtubecard id="jSDuNguZZNE" title="Evermusic: Free Offline Music Player for iOS (iPhone/iPod/iPad) | Music Files Organization" >}}
 <br><br>
-{{< youtubecard id="-kY48ktbo2M" title="テクノロジー塾】おすすめiPhone 音楽アプリ「ever music」ストック型篇" >}}
+{{< ls-youtubecard id="-kY48ktbo2M" title="テクノロジー塾】おすすめiPhone 音楽アプリ「ever music」ストック型篇" >}}
 
 ## Gyakran ismételt kérdések
 
-{{% details title="Legális zenét letölteni a YouTube-ról?" closed="true" %}}
+{{% ls-details title="Legális zenét letölteni a YouTube-ról?" closed="true" %}}
 A tartalom szerzői jogi státuszától függ. A jogdíjmentes és Creative Commons tartalom általában letölthető személyes használatra. A szerzői joggal védett zene megfelelő licencelést vagy engedélyt igényel.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Milyen hangformátumokat támogat az Evermusic?" closed="true" %}}
+{{% ls-details title="Milyen hangformátumokat támogat az Evermusic?" closed="true" %}}
 Az Evermusic támogatja az MP3, FLAC, AAC, WAV, OGG, AIFF és számos más hangformátumot. Gyakorlatilag bármilyen letöltött hangfájlt le tudsz játszani.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Használhatom az Evermusic-ot internetkapcsolat nélkül?" closed="true" %}}
+{{% ls-details title="Használhatom az Evermusic-ot internetkapcsolat nélkül?" closed="true" %}}
 Igen. Miután a hangfájlok importálva vannak az Evermusic-ba, teljesen offline lejátszhatod őket -- nincs szükség internetkapcsolatra.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="A ClipGrab ingyenes?" closed="true" %}}
+{{% ls-details title="A ClipGrab ingyenes?" closed="true" %}}
 Igen. A ClipGrab ingyenes és elérhető Mac-re és Windows-ra is. A nyílt forráskódú youtube-dlp könyvtárat használja a letöltésekhez.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Hogyan vihetem át a letöltött zenét Mac-ről iPhone-ra?" closed="true" %}}
+{{% ls-details title="Hogyan vihetem át a letöltött zenét Mac-ről iPhone-ra?" closed="true" %}}
 Használhatod az AirDrop-ot, az iTunes File Sharing-et vagy az Evermusic beépített Wi-Fi Drive funkcióját hangfájlok átviteléhez a Mac-edről az iPhone-odra.
-{{% /details %}}
+{{% /ls-details %}}

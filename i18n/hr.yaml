@@ -186,3 +186,5 @@ everdiskFeatAdvancedServerSettings: "Napredne postavke poslužitelja"
 everdiskFeatSMB3Encryption: "SMB3 enkripcija"
 everdiskFeatAutomaticSharing: "Automatsko dijeljenje"
 everdiskFeatDevicePersonalization: "Personalizacija uređaja"
+
+searchDocsPlaceholder: "Pretraži dokumentaciju, česta pitanja i upute…"

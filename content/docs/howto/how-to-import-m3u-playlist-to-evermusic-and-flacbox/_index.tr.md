@@ -7,7 +7,7 @@ tags: ["evermusic", "içe aktarma", "çalma listeleri", "m3u", "cue"]
 readingTime: 3
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **Özet:** Evermusic ve Flacbox, bulut depolama, yerel uygulama dosyaları veya cihazınızdan M3U, M3U8 ve CUE çalma listesi dosyalarının içe aktarılmasını destekler. Çalma Listeleri > Daha fazla > Çalma Listesi İçe Aktar'a gidin, bir kaynak seçin, dosyanızı seçin ve uygulama çalma listenizi otomatik olarak oluşturur.
@@ -84,22 +84,22 @@ Ayrıca, "Daha fazla eylem" düğmesine dokunup "Bir Klasörden Çalma Listeleri
 
 ## Sıkça Sorulan Sorular
 
-{{% details title="Evermusic ve Flacbox hangi çalma listesi biçimlerini destekler?" closed="true" %}}
+{{% ls-details title="Evermusic ve Flacbox hangi çalma listesi biçimlerini destekler?" closed="true" %}}
 Her iki uygulama da M3U, M3U8 ve CUE çalma listesi dosya biçimlerini destekler. Bunlar, müzik çalarlar ve medya yazılımları tarafından kullanılan en yaygın çalma listesi standartlarını kapsar.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Bulut depolamadan çalma listeleri içe aktarabilir miyim?" closed="true" %}}
+{{% ls-details title="Bulut depolamadan çalma listeleri içe aktarabilir miyim?" closed="true" %}}
 Evet. Google Drive, Dropbox, OneDrive ve WebDAV sunucuları dahil olmak üzere bağlı herhangi bir bulut depolama hizmetinden çalma listesi dosyalarını içe aktarabilirsiniz.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="İçe aktarma sonrasında neden bazı parçalar eksik?" closed="true" %}}
+{{% ls-details title="İçe aktarma sonrasında neden bazı parçalar eksik?" closed="true" %}}
 Çalma listesi dosyası, medya dosyalarınıza doğru yollar içermelidir ve bu dosyalar depolamanızda belirtilen konumlarda bulunmalıdır. M3U veya CUE dosyanızdaki dosya yollarının gerçek dosya konumlarıyla eşleştiğini tekrar kontrol edin.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Birden fazla çalma listesini aynı anda içe aktarabilir miyim?" closed="true" %}}
+{{% ls-details title="Birden fazla çalma listesini aynı anda içe aktarabilir miyim?" closed="true" %}}
 Evet. Daha fazla eylem düğmesini kullanın ve "Bir Klasörden Çalma Listeleri İçe Aktar" seçeneğini seçin. Uygulama, desteklenen tüm çalma listesi dosyaları için klasörü tarar ve tek adımda içe aktarır.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Çalma listelerini manuel olarak oluşturmam gerekiyor mu?" closed="true" %}}
+{{% ls-details title="Çalma listelerini manuel olarak oluşturmam gerekiyor mu?" closed="true" %}}
 Hayır. İçe aktarma özelliği, manuel çalma listesi oluşturma ihtiyacını ortadan kaldırır. Uygulamayı mevcut M3U, M3U8 veya CUE dosyanıza yönlendirmeniz yeterlidir; çalma listesini otomatik olarak oluşturur.
-{{% /details %}}
+{{% /ls-details %}}

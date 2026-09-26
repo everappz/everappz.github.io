@@ -66,6 +66,9 @@
     border-color: hsl(var(--primary-hue) 20% 26%);
 }
 
+/* Neutralize the dialog listbox's flex-column anchor layout for answer cards
+   so the header/text/footer keep their own block layout. */
+.hextra-search-results > li.hextra-search-answer-card > a.hextra-search-answer-link,
 .hextra-search-answer-link {
     display: block;
     padding: 10px 12px;
@@ -177,12 +180,15 @@
     background: hsl(var(--primary-hue) 15% 30% / 0.6);
 }
 
-/* Answer card active state */
-.hextra-search-answer-card a.hextra-search-active {
+/* Answer card active state (keyboard/hover selection uses aria-selected in the
+   new search dialog; keep the legacy class for older markup). */
+.hextra-search-answer-card a.hextra-search-active,
+.hextra-search-answer-card a[aria-selected="true"] {
     background: hsl(var(--primary-hue) var(--primary-saturation) 93%);
 }
 
-:is(.dark) .hextra-search-answer-card a.hextra-search-active {
+:is(.dark) .hextra-search-answer-card a.hextra-search-active,
+:is(.dark) .hextra-search-answer-card a[aria-selected="true"] {
     background: hsl(var(--primary-hue) 20% 22%);
 }
 
@@ -221,7 +227,9 @@
 
 /* Override theme defaults so bubble cards look consistent */
 .hextra-search-wrapper .hextra-search-result-card,
-.hextra-search-wrapper .hextra-search-answer-card {
+.hextra-search-wrapper .hextra-search-answer-card,
+.ls-docs-search-results .hextra-search-result-card,
+.ls-docs-search-results .hextra-search-answer-card {
     list-style: none;
 }
 
@@ -232,6 +240,179 @@
     line-clamp: 3;
     -webkit-box-orient: vertical;
     overflow: hidden;
+}
+
+/* Anchor scroll offset so an opened FAQ <details> isn't hidden under the navbar. */
+.hextra-details {
+    scroll-margin-top: 5rem;
+}
+
+/* ── Docs/support inline search bar (ls-docs-search shortcode) ── */
+
+/* Full-width bar with generous top + bottom offsets. */
+.ls-docs-search-wrapper {
+    position: relative;
+    width: 100%;
+    max-width: 100%;
+    margin: 2rem 0 2.75rem;
+    z-index: 30;
+}
+
+.ls-docs-search-input {
+    width: 100%;
+    height: 52px;
+    padding: 0 18px;
+    border-radius: 12px;
+    border: 1px solid hsl(0 0% 85%);
+    background: #fff;
+    font-size: 16px;
+    color: #1a1a2e;
+    outline: none;
+    transition: border-color 0.15s, box-shadow 0.15s;
+}
+
+.ls-docs-search-input::placeholder {
+    color: #9ca3af;
+}
+
+.ls-docs-search-input:focus {
+    border-color: hsl(var(--primary-hue) var(--primary-saturation) 55%);
+    box-shadow: 0 0 0 3px hsl(var(--primary-hue) var(--primary-saturation) 55% / 0.15);
+}
+
+:is(.dark) .ls-docs-search-input {
+    background: hsl(0 0% 12%);
+    border-color: hsl(0 0% 26%);
+    color: #e5e7eb;
+}
+
+/* Results dropdown */
+.ls-docs-search-results {
+    position: absolute;
+    top: calc(100% + 8px);
+    left: 0;
+    right: 0;
+    margin: 0;
+    padding: 8px;
+    list-style: none;
+    max-height: min(65vh, 520px);
+    overflow-y: auto;
+    background: #fff;
+    border: 1px solid hsl(0 0% 88%);
+    border-radius: 14px;
+    box-shadow: 0 16px 40px rgba(0, 0, 0, 0.14);
+    text-align: left;
+}
+
+:is(.dark) .ls-docs-search-results {
+    background: hsl(0 0% 12%);
+    border-color: hsl(0 0% 24%);
+    box-shadow: 0 16px 40px rgba(0, 0, 0, 0.5);
+}
+
+.ls-docs-search-results:empty {
+    display: none;
+}
+
+.ls-docs-search-no-result {
+    display: block;
+    padding: 20px 16px;
+    text-align: center;
+    color: #6b7280;
+    font-size: 14px;
+}
+
+/* Grouped results: page (parent) row + indented section (child) rows — like the stock search. */
+.ls-docs-search-group-link,
+.ls-docs-search-child-link {
+    display: block;
+    padding: 7px 12px;
+    border-radius: 8px;
+    text-decoration: none;
+    color: inherit;
+}
+
+.ls-docs-search-group {
+    margin-top: 4px;
+}
+
+.ls-docs-search-crumb {
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+    gap: 4px;
+    font-size: 11px;
+    color: #9ca3af;
+    margin-bottom: 1px;
+}
+
+.ls-docs-search-crumb-sep {
+    opacity: 0.55;
+}
+
+.ls-docs-search-page-title {
+    font-size: 14px;
+    font-weight: 700;
+    color: #111827;
+}
+
+:is(.dark) .ls-docs-search-page-title {
+    color: #f3f4f6;
+}
+
+/* Children indented under a vertical rule (grouped beneath their page). */
+.ls-docs-search-child {
+    position: relative;
+    margin-left: 18px;
+}
+
+.ls-docs-search-child::before {
+    content: "";
+    position: absolute;
+    left: 4px;
+    top: 2px;
+    bottom: 2px;
+    width: 1px;
+    background: hsl(0 0% 88%);
+}
+
+:is(.dark) .ls-docs-search-child::before {
+    background: hsl(0 0% 28%);
+}
+
+.ls-docs-search-child-title {
+    font-size: 13px;
+    font-weight: 500;
+    color: #374151;
+}
+
+:is(.dark) .ls-docs-search-child-title {
+    color: #d1d5db;
+}
+
+.ls-docs-search-results .hextra-search-excerpt {
+    font-size: 12.5px;
+    line-height: 1.45;
+    color: #6b7280;
+    margin-top: 2px;
+    display: -webkit-box;
+    -webkit-line-clamp: 2;
+    line-clamp: 2;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+}
+
+:is(.dark) .ls-docs-search-results .hextra-search-excerpt {
+    color: #9ca3af;
+}
+
+/* Row highlight (keyboard + hover). */
+.ls-docs-search-results a.hextra-search-active {
+    background: hsl(var(--primary-hue) var(--primary-saturation) 95%);
+}
+
+:is(.dark) .ls-docs-search-results a.hextra-search-active {
+    background: hsl(var(--primary-hue) 25% 20%);
 }
 
 /* ── Pricing card tiers ── */

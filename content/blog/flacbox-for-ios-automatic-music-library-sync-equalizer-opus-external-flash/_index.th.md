@@ -12,7 +12,7 @@ authors:
     image: "/images/about/artem-meleshko-founder-everappz.webp"
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 **Flacbox 1.6** นำฟีเจอร์ใหม่ที่สำคัญมาสู่เครื่องเล่นเพลง FLAC สำหรับ iPhone และ iPad
 
@@ -68,18 +68,18 @@ Flacbox 1.6 พร้อมใช้งานแล้วบน App Store [ด�
 
 ## คำถามที่พบบ่อย
 
-{{% details title="Flacbox รองรับรูปแบบเสียงอะไรบ้าง?" closed="true" %}}
+{{% ls-details title="Flacbox รองรับรูปแบบเสียงอะไรบ้าง?" closed="true" %}}
 Flacbox รองรับ FLAC, ALAC, MP3, AAC, OGG, OPUS, WAV, AIFF, DSD และรูปแบบเสียงยอดนิยมอื่นๆ ทุกรูปแบบทำงานร่วมกับอีควอไลเซอร์ในตัว
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="ฉันสามารถเล่นเพลงจาก SD card บน iPhone ได้หรือไม่?" closed="true" %}}
+{{% ls-details title="ฉันสามารถเล่นเพลงจาก SD card บน iPhone ได้หรือไม่?" closed="true" %}}
 ได้ เชื่อมต่อ SD หรือ microSD card โดยใช้ Lightning to SD Card Camera Reader Adapter Flacbox ตรวจจับการ์ดโดยอัตโนมัติและให้คุณเรียกดูและเล่นไฟล์โดยตรงจากพื้นที่เก็บข้อมูลภายนอก
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Flacbox ซิงค์กับที่เก็บข้อมูลคลาวด์โดยอัตโนมัติหรือไม่?" closed="true" %}}
+{{% ls-details title="Flacbox ซิงค์กับที่เก็บข้อมูลคลาวด์โดยอัตโนมัติหรือไม่?" closed="true" %}}
 ใช่ ตั้งแต่เวอร์ชัน 1.6 Flacbox สามารถซิงค์ไลบรารีเพลงจากโฟลเดอร์คลาวด์ได้โดยอัตโนมัติ เปิดใช้งาน Automatic Sync ในการตั้งค่าและเลือกโฟลเดอร์ที่คุณต้องการตรวจสอบ
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="อีควอไลเซอร์ของ Flacbox ปรับแต่งได้หรือไม่?" closed="true" %}}
+{{% ls-details title="อีควอไลเซอร์ของ Flacbox ปรับแต่งได้หรือไม่?" closed="true" %}}
 ได้ อีควอไลเซอร์ 10 แบนด์ให้คุณปรับระดับความถี่แต่ละตัวระหว่าง -12 dB และ +12 dB คุณสามารถใช้พรีเซ็ตในตัวหรือบันทึกการตั้งค่าที่กำหนดเองได้
-{{% /details %}}
+{{% /ls-details %}}

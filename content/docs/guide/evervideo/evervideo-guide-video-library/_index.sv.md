@@ -21,7 +21,7 @@ readingTime: 8
 Du har två sätt att lägga till media i ditt bibliotek: **manuellt tillägg** (du väljer exakt vad som läggs till) eller **automatisk synkronisering** (Evervideo skannar angivna molnmappar och lägger automatiskt till nya filer när de dyker upp).
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evervideo Mediebibliotek" image="/docs/guide/evervideo/img/evervideo-genres-in-media-library.webp" >}}
+  {{< ls-card title="" subtitle="Evervideo Mediebibliotek" image="/docs/guide/evervideo/img/evervideo-genres-in-media-library.webp" >}}
 {{< /cards >}}
 
 ## Manuellt tillägg
@@ -92,7 +92,7 @@ Om du inte ser alla dina titlar, se till att appen har skannat varje fil. Du kan
 Det här avsnittet visar alla nyligen spelade videor med deras senaste uppspelningsposition, så att du kan återuppta dem med ett tryck. Du kan ändra hur många poster listan behåller i Inställningar → Mediebibliotek → Senaste → Ändra liststorlek, och exportera listan till M3U / CSV / TXT för att säkerhetskopiera din tittarhistorik.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evervideo Senaste — Nyligen tittade videor" image="/docs/guide/evervideo/img/evervideo-recents.webp" >}}
+  {{< ls-card title="" subtitle="Evervideo Senaste — Nyligen tittade videor" image="/docs/guide/evervideo/img/evervideo-recents.webp" >}}
 {{< /cards >}}
 
 ## Favoriter
@@ -104,7 +104,7 @@ Markera videor som favoriter på spelerskärmen eller via alternativmenyn. Favor
 Evervideo spårar uppspelningspositionen för varje video du tittar på. Varje video i vilken lista som helst — Senaste, Favoriter, ett album, en genre, en spellista, en mapp — visar ett litet framstegsindikator så att du på ett ögonkast kan se hur mycket av den du redan har sett. Detta gör långa TV-seriessäsonger, kursspellistor och binge-watch-kvällar enkla att hantera.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evervideo Genredetalj med Tittarframsteg per fil" image="/docs/guide/evervideo/img/evervideo-genre-detail-with-playback-progress-for-watched-files.webp" >}}
+  {{< ls-card title="" subtitle="Evervideo Genredetalj med Tittarframsteg per fil" image="/docs/guide/evervideo/img/evervideo-genre-detail-with-playback-progress-for-watched-files.webp" >}}
 {{< /cards >}}
 
 ## Övre verktygsfält
@@ -116,7 +116,7 @@ Beläget precis under navigeringsfältet erbjuder det övre verktygsfältet fler
 Sökfunktionen gör det möjligt för dig att hitta en specifik titel, ett album, en genre eller en spellista i ditt mediebibliotek. På sökskärmen har du tillgång till åtgärderna Sortera, Filtrera och Rutnät / Listvy. Sökning körs lokalt mot mediebiblioteksdatabasen, så det fungerar helt offline och returnerar resultat medan du skriver.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evervideo Mediebibliotekssökning" image="/docs/guide/evervideo/img/evervideo-library-search.webp" >}}
+  {{< ls-card title="" subtitle="Evervideo Mediebibliotekssökning" image="/docs/guide/evervideo/img/evervideo-library-search.webp" >}}
 {{< /cards >}}
 
 ## Alternativmeny

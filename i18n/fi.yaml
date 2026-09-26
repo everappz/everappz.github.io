@@ -186,3 +186,5 @@ everdiskFeatAdvancedServerSettings: "Palvelimen lisäasetukset"
 everdiskFeatSMB3Encryption: "SMB3-salaus"
 everdiskFeatAutomaticSharing: "Automaattinen jakaminen"
 everdiskFeatDevicePersonalization: "Laitteen mukautus"
+
+searchDocsPlaceholder: "Hae dokumentaatiosta, usein kysytyistä kysymyksistä ja oppaista…"

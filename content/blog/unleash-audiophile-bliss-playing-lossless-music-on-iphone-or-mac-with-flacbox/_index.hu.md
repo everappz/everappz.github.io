@@ -12,7 +12,7 @@ authors:
     image: "/images/about/artem-meleshko-founder-everappz.webp"
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 **Összefoglalva:** Telepítsd a [Flacboxot az App Store-ból](https://apps.apple.com/us/app/flacbox-flac-player-music/id1097564256?mt=8) FLAC, DSD, ALAC és 120+ egyéb audio formátum lejátszásához iPhone-on és Macen. Importálj fájlokat iTunes File Sharingen, Wi-Fi Drive-on vagy felhőtárhelyen keresztül. Nincs szükség fájlkonverzióra. A Flacbox natívan dekódolja a veszteségmentes formátumokat teljes stúdióminőségű lejátszáshoz.
 
@@ -93,26 +93,26 @@ Importálási módok: **iTunes File Sharing**, **Wi-Fi Drive**, **felhőtárhely
 
 ## Gyakran ismételt kérdések
 
-{{< details title="Szükség van előfizetésre a Flacboxban veszteségmentes fájlok lejátszásához?" closed="true" >}}
+{{< ls-details title="Szükség van előfizetésre a Flacboxban veszteségmentes fájlok lejátszásához?" closed="true" >}}
 A Flacbox alapvető lejátszási funkciót kínál előfizetés nélkül. Az alkalmazás letöltése után azonnal importálhatsz és lejátszhatsz FLAC, DSD, ALAC és más veszteségmentes formátumokat. Egyes fejlett funkciókhoz prémium frissítés szükséges lehet, de az alapvető veszteségmentes lejátszás azonnal elérhető.
-{{< /details >}}
+{{< /ls-details >}}
 
-{{< details title="Képes a Flacbox DSD fájlokat lejátszani PCM-re konvertálás nélkül?" closed="true" >}}
+{{< ls-details title="Képes a Flacbox DSD fájlokat lejátszani PCM-re konvertálás nélkül?" closed="true" >}}
 Igen, a Flacbox támogatja a natív DSD lejátszást, beleértve a DSD64, DSD128 és DSD256 formátumokat. A legjobb eredmények érdekében párosítsd az eszközödet DSD-kompatibilis külső DAC-kal.
-{{< /details >}}
+{{< /ls-details >}}
 
-{{< details title="Hogyan vihetem át nagy veszteségmentes zenegyűjteményemet az iPhone-omra?" closed="true" >}}
+{{< ls-details title="Hogyan vihetem át nagy veszteségmentes zenegyűjteményemet az iPhone-omra?" closed="true" >}}
 A Flacbox több átviteli lehetőséget kínál nagy könyvtárakhoz. A Wi-Fi Drive lehetővé teszi fájlok feltöltését bármely böngészőből a helyi hálózaton. A leggyorsabb átvitelhez csatlakoztass külső meghajtót közvetlenül Lightning vagy USB-C adapterrel.
-{{< /details >}}
+{{< /ls-details >}}
 
-{{< details title="Van különbség a hangminőségben a FLAC és ALAC között a Flacboxban?" closed="true" >}}
+{{< ls-details title="Van különbség a hangminőségben a FLAC és ALAC között a Flacboxban?" closed="true" >}}
 Mindkettő veszteségmentes kodek, ami azt jelenti, hogy dekódoláskor azonos hangkimenetet állítanak elő. A Flacbox mindkettőt egyenlő hűséggel kezeli.
-{{< /details >}}
+{{< /ls-details >}}
 
-{{< details title="Mi a legjobb módja a FLAC fájlok lejátszásának iPhone-on?" closed="true" >}}
+{{< ls-details title="Mi a legjobb módja a FLAC fájlok lejátszásának iPhone-on?" closed="true" >}}
 Telepítsd a Flacboxot az App Store-ból, majd importáld a FLAC fájljaidat iTunes File Sharingen, Wi-Fi Drive-on, felhőtárhelyen vagy USB/Lightning külső meghajtón keresztül. A Flacbox konverzió nélkül natívan dekódolja a FLAC-ot, 32-bit/384 kHz-ig támogatva a felbontásokat.
-{{< /details >}}
+{{< /ls-details >}}
 
-{{< details title="Működik a Flacbox NAS-szal és otthoni szerverekkel?" closed="true" >}}
+{{< ls-details title="Működik a Flacbox NAS-szal és otthoni szerverekkel?" closed="true" >}}
 Igen. A Flacbox SMB, WebDAV és DLNA protokollokon keresztül csatlakozik NAS eszközökhöz és otthoni szerverekhez. Ez lehetővé teszi a veszteségmentes könyvtárad streamingjét anélkül, hogy fájlokat kellene másolnod az eszközödre.
-{{< /details >}}
+{{< /ls-details >}}

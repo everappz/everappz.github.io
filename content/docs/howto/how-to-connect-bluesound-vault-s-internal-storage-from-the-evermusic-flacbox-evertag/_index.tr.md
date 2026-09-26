@@ -7,7 +7,7 @@ tags: ["evermusic", "bağlantı", "bluesound vault"]
 readingTime: 1
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **Özet:** Evermusic, Flacbox veya Evertag kullanarak SMB üzerinden Bluesound VAULT'unuzun dahili depolama alanına bağlanın. BluOS uygulamasında VAULT'un IP adresini bulun, misafir erişimiyle SMB bağlantısı olarak girin ve müzik dosyalarınızı çalmaya veya yönetmeye başlayın.
@@ -58,18 +58,18 @@ Bu basit adımlarla Bluesound VAULT'unuzun dahili sabit diskine kolayca erişebi
 
 ## SSS
 
-{{% details title="Bluesound VAULT'a bağlanmak için kullanıcı adı ve şifre gerekiyor mu?" closed="true" %}}
+{{% ls-details title="Bluesound VAULT'a bağlanmak için kullanıcı adı ve şifre gerekiyor mu?" closed="true" %}}
 Hayır. Bluesound VAULT, SMB üzerinden misafir (anonim) erişimi destekler. Bağlantıyı yapılandırırken Kullanıcı Adı ve Şifre alanlarını boş bırakın.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Bluesound VAULT üzerinde müzik etiketlerini düzenleyebilir miyim?" closed="true" %}}
+{{% ls-details title="Bluesound VAULT üzerinde müzik etiketlerini düzenleyebilir miyim?" closed="true" %}}
 Evet. Evertag kullanarak, VAULT'un dahili sabit diskinde doğrudan depolanan ses dosyalarının meta veri etiketlerini (başlık, sanatçı, albüm vb.) düzenleyebilirsiniz.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Bluesound VAULT hangi protokolleri destekler?" closed="true" %}}
+{{% ls-details title="Bluesound VAULT hangi protokolleri destekler?" closed="true" %}}
 Bluesound VAULT, dahili depolama alanını SMB (Server Message Block) üzerinden sunar. Evermusic, Flacbox ve Evertag'in tümü SMB bağlantılarını destekler, bu da bağlantıyı kolaylaştırır.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Dosyaları iPhone'uma kopyalamadan VAULT'tan müzik akışı yapabilir miyim?" closed="true" %}}
+{{% ls-details title="Dosyaları iPhone'uma kopyalamadan VAULT'tan müzik akışı yapabilir miyim?" closed="true" %}}
 Evet. SMB üzerinden bağlandıktan sonra, VAULT'un dahili sürücüsünden cihazınıza kopyalamadan doğrudan ses dosyalarını akışla dinleyebilirsiniz.
-{{% /details %}}
+{{% /ls-details %}}

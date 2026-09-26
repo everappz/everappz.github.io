@@ -194,3 +194,5 @@ everdiskFeatAdvancedServerSettings: "Avanserte serverinnstillinger"
 everdiskFeatSMB3Encryption: "SMB3-kryptering"
 everdiskFeatAutomaticSharing: "Automatisk deling"
 everdiskFeatDevicePersonalization: "Enhetstilpasning"
+
+searchDocsPlaceholder: "Søk i dokumentasjon, vanlige spørsmål og veiledninger…"

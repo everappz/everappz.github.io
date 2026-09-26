@@ -7,7 +7,7 @@ tags: ["evermusic", "connecter", "bluesound vault"]
 readingTime: 1
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **Résumé :** Connectez-vous au stockage interne de votre Bluesound VAULT via SMB en utilisant Evermusic, Flacbox ou Evertag. Trouvez l'adresse IP du VAULT dans l'application BluOS, saisissez-la comme connexion SMB avec accès invité et commencez à lire ou gérer vos fichiers musicaux.
@@ -58,18 +58,18 @@ Grâce à ces étapes simples, vous pouvez facilement accéder au disque dur int
 
 ## FAQ
 
-{{% details title="Ai-je besoin d'un nom d'utilisateur et d'un mot de passe pour me connecter au Bluesound VAULT ?" closed="true" %}}
+{{% ls-details title="Ai-je besoin d'un nom d'utilisateur et d'un mot de passe pour me connecter au Bluesound VAULT ?" closed="true" %}}
 Non. Le Bluesound VAULT prend en charge l'accès invité (anonyme) via SMB. Laissez les champs Identifiant et Mot de passe vides lors de la configuration de la connexion.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Puis-je modifier les balises musicales sur le Bluesound VAULT ?" closed="true" %}}
+{{% ls-details title="Puis-je modifier les balises musicales sur le Bluesound VAULT ?" closed="true" %}}
 Oui. En utilisant Evertag, vous pouvez modifier les balises de métadonnées (titre, artiste, album, etc.) des fichiers audio stockés directement sur le disque dur interne du VAULT.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Quels protocoles le Bluesound VAULT prend-il en charge ?" closed="true" %}}
+{{% ls-details title="Quels protocoles le Bluesound VAULT prend-il en charge ?" closed="true" %}}
 Le Bluesound VAULT expose son stockage interne via SMB (Server Message Block). Evermusic, Flacbox et Evertag prennent tous en charge les connexions SMB, ce qui rend la connexion simple.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Puis-je diffuser de la musique depuis le VAULT sans copier de fichiers sur mon iPhone ?" closed="true" %}}
+{{% ls-details title="Puis-je diffuser de la musique depuis le VAULT sans copier de fichiers sur mon iPhone ?" closed="true" %}}
 Oui. Une fois connecté via SMB, vous pouvez diffuser des fichiers audio directement depuis le disque interne du VAULT sans les copier sur votre appareil.
-{{% /details %}}
+{{% /ls-details %}}

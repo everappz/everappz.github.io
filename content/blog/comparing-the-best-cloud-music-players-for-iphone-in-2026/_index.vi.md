@@ -12,7 +12,7 @@ authors:
     image: "/images/about/artem-meleshko-founder-everappz.webp"
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 ## Trình Phát Nhạc Đám Mây Nào Tốt Nhất cho iPhone?
 
@@ -91,22 +91,22 @@ Chọn đúng trình phát nhạc đám mây phụ thuộc vào cách bạn nghe
 
 ## Câu Hỏi Thường Gặp
 
-{{% details title="Tôi có thể phát tệp FLAC trên iPhone mà không cần chuyển đổi chúng không?" closed="true" %}}
+{{% ls-details title="Tôi có thể phát tệp FLAC trên iPhone mà không cần chuyển đổi chúng không?" closed="true" %}}
 Có. Evermusic phát FLAC, DSD, WAV, ALAC và các định dạng không mất dữ liệu khác một cách tự nhiên trên iPhone. Không cần chuyển đổi tệp. Chỉ cần kết nối tài khoản lưu trữ đám mây của bạn và phát trực tuyến hoặc tải xuống các tệp FLAC trực tiếp.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Trình phát nhạc đám mây nào hoạt động với Dropbox và Google Drive?" closed="true" %}}
+{{% ls-details title="Trình phát nhạc đám mây nào hoạt động với Dropbox và Google Drive?" closed="true" %}}
 Evermusic hỗ trợ Dropbox, Google Drive, OneDrive, Box, MEGA, pCloud, WebDAV, SMB và hơn nữa -- hơn 12 dịch vụ đám mây tổng cộng. Hầu hết các ứng dụng phát trực tuyến chính thống như Spotify và Apple Music không kết nối với bộ nhớ đám mây của bên thứ ba.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Tôi có cần đăng ký để sử dụng trình phát nhạc đám mây không?" closed="true" %}}
+{{% ls-details title="Tôi có cần đăng ký để sử dụng trình phát nhạc đám mây không?" closed="true" %}}
 Phụ thuộc vào ứng dụng. Spotify, Apple Music và Deezer yêu cầu đăng ký hàng tháng. Evermusic cung cấp gói miễn phí và một lần mua Premium mà không có phí định kỳ. Bạn sử dụng bộ nhớ đám mây của riêng mình để lưu trữ các tệp nhạc.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Trình phát nhạc tốt nhất để nghe ngoại tuyến trên iPhone là gì?" closed="true" %}}
+{{% ls-details title="Trình phát nhạc tốt nhất để nghe ngoại tuyến trên iPhone là gì?" closed="true" %}}
 Tất cả các trình phát chính đều hỗ trợ tải xuống ngoại tuyến, nhưng cách tiếp cận khác nhau. Spotify và Apple Music cho phép bạn tải xuống bài hát từ danh mục của họ. Evermusic cho phép bạn tải xuống các tệp của riêng mình từ bộ nhớ đám mây để phát lại ngoại tuyến -- lý tưởng cho các chuyến bay, đi lại hoặc khu vực không có kết nối.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Tôi có thể sử dụng trình phát nhạc đám mây với NAS hoặc máy chủ gia đình của mình không?" closed="true" %}}
+{{% ls-details title="Tôi có thể sử dụng trình phát nhạc đám mây với NAS hoặc máy chủ gia đình của mình không?" closed="true" %}}
 Có. Evermusic hỗ trợ các giao thức WebDAV và SMB, có nghĩa là nó có thể kết nối với hầu hết các thiết bị NAS từ Synology, QNAP và Western Digital. Điều này biến iPhone của bạn thành trình phát từ xa cho toàn bộ thư viện âm nhạc gia đình.
-{{% /details %}}
+{{% /ls-details %}}

@@ -7,7 +7,7 @@ tags: ["glazba", "datoteke", "usb", "flash", "vanjski", "ixpand", "reprodukcija"
 readingTime: 2
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **Sažetak:** Spojite USB flash pogon ili SD karticu na vaš iPhone koristeći Apple adapter ili SanDisk iXpand pogon, zatim koristite Evermusic, Flacbox ili Evertag za pregledavanje, reproduciranje i upravljanje vašim audio datotekama izravno s vanjske pohrane.
@@ -72,18 +72,18 @@ Uživajte u slobodi pristupa i upravljanja vašom glazbom bez napora s ovim jedn
 
 ## Često postavljana pitanja
 
-{{% details title="Koji USB adapteri rade s iPhoneom za reprodukciju glazbe?" closed="true" %}}
+{{% ls-details title="Koji USB adapteri rade s iPhoneom za reprodukciju glazbe?" closed="true" %}}
 I Appleov Lightning to SD Card Camera Reader i Lightning to USB 3 Camera Adapter rade. USB-C adapteri rade na novijim iPhone uređajima s USB-C priključcima. SanDisk iXpand Flash pogoni (V1-V7) također su izvorno podržani od strane Evermusic, Flacbox i Evertag.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Mogu li reproducirati glazbu izravno s USB pogona bez kopiranja datoteka?" closed="true" %}}
+{{% ls-details title="Mogu li reproducirati glazbu izravno s USB pogona bez kopiranja datoteka?" closed="true" %}}
 Da. S SanDisk iXpand pogonima možete reproducirati glazbu izravno s pogona bez kopiranja datoteka na vaš iPhone. Kada koristite Apple adaptere, datoteke se uvoze, ali možete odabrati želite li ih kopirati u lokalnu pohranu.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Koji audio formati su podržani s USB pogona?" closed="true" %}}
+{{% ls-details title="Koji audio formati su podržani s USB pogona?" closed="true" %}}
 Evermusic i Flacbox podržavaju širok raspon formata uključujući FLAC, MP3, AAC, WAV, ALAC, OGG, WMA i više. Svi podržani formati rade pri reprodukciji s USB pohrane.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Moj SanDisk iXpand pokazuje grešku 'zauzet'. Što trebam učiniti?" closed="true" %}}
+{{% ls-details title="Moj SanDisk iXpand pokazuje grešku 'zauzet'. Što trebam učiniti?" closed="true" %}}
 Druga aplikacija možda pristupa pogonu. Zatvorite sve druge aplikacije koje bi mogle koristiti flash pogon ili ga isključite i ponovno umetnite. Zatim ponovno otvorite Evermusic, Flacbox ili Evertag.
-{{% /details %}}
+{{% /ls-details %}}

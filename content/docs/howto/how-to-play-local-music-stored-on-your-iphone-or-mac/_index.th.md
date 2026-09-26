@@ -6,7 +6,7 @@ tags: ["เพลงในเครื่อง", "เพลงออฟไล�
 keywords: ["วิธีเล่นเพลงในเครื่องบน iPhone", "เล่นเพลงจากที่จัดเก็บของอุปกรณ์", "เครื่องเล่นเพลงออฟไลน์ iOS", "บทแนะนำแอป Evermusic", "เครื่องเล่น FLAC Flacbox", "การเล่นไฟล์ในเครื่อง iOS", "คลังเพลง Mac", "แอปเพลงสำหรับไฟล์ในเครื่อง", "iPhone เล่นเพลงที่ดาวน์โหลด", "วิธีใช้ Evermusic กับไฟล์ในเครื่อง"]
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **สรุป:** ติดตั้ง [Evermusic](/products/evermusic) (MP3/WAV) หรือ [Flacbox](/products/flacbox) (FLAC/DSD) เปิดไฟล์เสียงหรือโฟลเดอร์ในเครื่องใดก็ได้ แล้วเริ่มเล่น เพิ่มโฟลเดอร์ไปยัง**รายการโปรด**เพื่อเข้าถึงอย่างรวดเร็ว นำเข้าแทร็กไปยังคลังเพลงของคุณ หรือสร้าง**เพลย์ลิสต์**
@@ -24,10 +24,10 @@ keywords: ["วิธีเล่นเพลงในเครื่องบ�
 เพื่อเริ่มต้นการเดินทางในโลกของเพลงในเครื่องบน iPhone และ Mac ให้เริ่มด้วยการติดตั้ง Evermusic (สำหรับรูปแบบเสียงมาตรฐานเช่น mp3 และ wav) หรือ Flacbox (สำหรับเพลงแบบไม่สูญเสียคุณภาพใน dsd และ flac) แอปทั้งสองมีให้ใช้งานบน iOS และ MacOS และคุณสามารถดาวน์โหลดได้ฟรี
 
 {{< cards >}}
-  {{< card link="https://apps.apple.com/us/app/evermusic-cloud-music-player/id885367198?pt=95781850&ct=everappzcom&mt=8" title="ดาวน์โหลด Evermusic สำหรับ iOS" tag="iOS" >}}
-  {{< card link="https://apps.apple.com/us/app/flacbox-hi-res-equalizer/id1097564256?pt=95781850&ct=everappzcom&mt=8" title="ดาวน์โหลด Flacbox สำหรับ iOS" tag="iOS" >}}
-  {{< card link="https://apps.apple.com/us/app/evermusic-hi-res-music-player/id1564384601?pt=95781850&ct=everappzcom&mt=8" title="ดาวน์โหลด Evermusic สำหรับ Mac" tag="macOS" >}}
-  {{< card link="https://apps.apple.com/us/app/flacbox-hi-res-music-player/id1594027432?pt=95781850&ct=everappzcom&mt=8" title="ดาวน์โหลด Flacbox สำหรับ Mac" tag="macOS" >}}
+  {{< ls-card link="https://apps.apple.com/us/app/evermusic-cloud-music-player/id885367198?pt=95781850&ct=everappzcom&mt=8" title="ดาวน์โหลด Evermusic สำหรับ iOS" tag="iOS" >}}
+  {{< ls-card link="https://apps.apple.com/us/app/flacbox-hi-res-equalizer/id1097564256?pt=95781850&ct=everappzcom&mt=8" title="ดาวน์โหลด Flacbox สำหรับ iOS" tag="iOS" >}}
+  {{< ls-card link="https://apps.apple.com/us/app/evermusic-hi-res-music-player/id1564384601?pt=95781850&ct=everappzcom&mt=8" title="ดาวน์โหลด Evermusic สำหรับ Mac" tag="macOS" >}}
+  {{< ls-card link="https://apps.apple.com/us/app/flacbox-hi-res-music-player/id1594027432?pt=95781850&ct=everappzcom&mt=8" title="ดาวน์โหลด Flacbox สำหรับ Mac" tag="macOS" >}}
 {{< /cards >}}
 
 
@@ -135,22 +135,22 @@ keywords: ["วิธีเล่นเพลงในเครื่องบ�
 
 ## FAQ
 
-{{% details title="Evermusic และ Flacbox เล่นรูปแบบเสียงอะไรได้บ้าง?" closed="true" %}}
+{{% ls-details title="Evermusic และ Flacbox เล่นรูปแบบเสียงอะไรได้บ้าง?" closed="true" %}}
 Evermusic เล่น MP3, WAV, AAC, M4A และรูปแบบมาตรฐานอื่นๆ Flacbox เพิ่มการรองรับ FLAC, DSD, OGG, OPUS, APE, WMA และ ALAC
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="แอปเหล่านี้คัดลอกไฟล์ไปยังที่จัดเก็บของแอปหรือไม่?" closed="true" %}}
+{{% ls-details title="แอปเหล่านี้คัดลอกไฟล์ไปยังที่จัดเก็บของแอปหรือไม่?" closed="true" %}}
 โดยค่าเริ่มต้น ไฟล์จะเล่นจากตำแหน่งเดิมโดยไม่ถูกคัดลอก หากต้องการเปลี่ยนพฤติกรรมนี้ ให้เปิดใช้งาน "Always copy files during opening" ใน**การตั้งค่า** > File manager
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="ฉันสามารถจัดระเบียบเพลงในเครื่องตามศิลปินและอัลบั้มได้หรือไม่?" closed="true" %}}
+{{% ls-details title="ฉันสามารถจัดระเบียบเพลงในเครื่องตามศิลปินและอัลบั้มได้หรือไม่?" closed="true" %}}
 ได้ นำเข้าไฟล์ไปยังคลังเพลง (ขั้นตอนที่ 4) แล้วแอปจะอ่านข้อมูลเมตาเพื่อจัดกลุ่มแทร็กตามศิลปิน อัลบั้ม แนวเพลง และผู้แต่ง
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="ฉันจะโอนเพลงจากคอมพิวเตอร์ไปยัง iPhone ได้อย่างไร?" closed="true" %}}
+{{% ls-details title="ฉันจะโอนเพลงจากคอมพิวเตอร์ไปยัง iPhone ได้อย่างไร?" closed="true" %}}
 ใช้ iTunes File Sharing (USB), WiFi Drive (ไร้สาย) หรือ SMB (สตรีมมิ่ง) ดูคู่มือโดยละเอียดของเรา: [โอนและเล่นไฟล์ในเครื่องบน iPhone](/docs/howto/how-to-play-local-itunes-files-on-my-iphone/)
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Evermusic และ Flacbox ฟรีหรือไม่?" closed="true" %}}
+{{% ls-details title="Evermusic และ Flacbox ฟรีหรือไม่?" closed="true" %}}
 ใช่ ทั้งสองแอปสามารถดาวน์โหลดได้ฟรีพร้อมคุณสมบัติหลักรวมถึงการเล่น อีควอไลเซอร์ และการสตรีมผ่านคลาวด์ เวอร์ชันฟรีมีข้อจำกัดบางประการ (จำนวน**เพลย์ลิสต์** บัญชีคลาวด์ โฟลเดอร์ออฟไลน์) การอัปเกรดเป็น Premium จะลบข้อจำกัดเหล่านี้
-{{% /details %}}
+{{% /ls-details %}}

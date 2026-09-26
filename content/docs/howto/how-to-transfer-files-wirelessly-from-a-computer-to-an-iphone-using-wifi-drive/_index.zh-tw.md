@@ -7,7 +7,7 @@ keywords: ["無線傳輸檔案到iPhone", "Wi-Fi Drive檔案傳輸", "iPhone電�
 readingTime: 2
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **簡介：** Wi-Fi Drive讓您可以透過Wi-Fi從任何電腦將檔案傳輸到iPhone或iPad——無需iTunes或傳輸線。使用網頁瀏覽器、Mac Finder或Windows File Explorer。兩台裝置必須在同一個Wi-Fi網路上。
@@ -18,7 +18,7 @@ Wi-Fi Drive是無需iTunes將檔案從電腦傳輸到iPhone或iPad的最簡單�
 
 您可以觀看[**TECHGUYPH**](https://www.youtube.com/channel/UCgpf09gGFE_c_3pPTtTpnzg)的影片教學或閱讀下方的文字版本。
 <br><br>
-{{< youtubecard id="CqdqrQ0ge70" title="Can We Wirelessly Put Offline Music on iPhones?" >}}
+{{< ls-youtubecard id="CqdqrQ0ge70" title="Can We Wirelessly Put Offline Music on iPhones?" >}}
 
 ## 使用桌面網頁瀏覽器從電腦無線傳輸檔案
 
@@ -90,26 +90,26 @@ Wi-Fi Drive是無需iTunes將檔案從電腦傳輸到iPhone或iPad的最簡單�
 
 ## 常見問題
 
-{{% details title="我需要iTunes才能將檔案傳輸到iPhone嗎？" closed="true" %}}
+{{% ls-details title="我需要iTunes才能將檔案傳輸到iPhone嗎？" closed="true" %}}
 不需要。Wi-Fi Drive透過本地Wi-Fi網路直接傳輸檔案。不需要iTunes。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="哪些應用程式支援Wi-Fi Drive？" closed="true" %}}
+{{% ls-details title="哪些應用程式支援Wi-Fi Drive？" closed="true" %}}
 Wi-Fi Drive在iOS版Evermusic、Flacbox、Evertag和Evervideo中可用。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="兩台裝置需要在同一個Wi-Fi網路上嗎？" closed="true" %}}
+{{% ls-details title="兩台裝置需要在同一個Wi-Fi網路上嗎？" closed="true" %}}
 是的。您的電腦和iPhone或iPad必須連接到同一個本地Wi-Fi網路，Wi-Fi Drive才能運作。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="我可以傳輸整個資料夾，而不僅僅是單個檔案嗎？" closed="true" %}}
+{{% ls-details title="我可以傳輸整個資料夾，而不僅僅是單個檔案嗎？" closed="true" %}}
 可以。Wi-Fi Drive支援透過網頁瀏覽器介面上傳和下載整個資料夾。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Wi-Fi Drive可以在Windows上使用嗎？" closed="true" %}}
+{{% ls-details title="Wi-Fi Drive可以在Windows上使用嗎？" closed="true" %}}
 可以。您可以在Windows上使用任何網頁瀏覽器，或透過WebDAV協定使用Windows File Explorer連接。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="我可以使用USB傳輸線加快傳輸速度嗎？" closed="true" %}}
+{{% ls-details title="我可以使用USB傳輸線加快傳輸速度嗎？" closed="true" %}}
 可以。如果在Wi-Fi Drive執行時iPhone透過USB連接到Mac，傳輸將使用有線連接以獲得更快的速度。
-{{% /details %}}
+{{% /ls-details %}}

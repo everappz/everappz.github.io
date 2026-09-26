@@ -33,7 +33,7 @@ A Fájlok lap világos részekre oszlik, amelyek ebben a sorrendben jelennek meg
 A Fájlok képernyő jobb felső sarkában található egy Átvitelek gomb (egy forgó nyilakból álló ikon). Érintse meg az Átviteli sor megnyitásához, ahol figyelemmel kísérhet minden letöltést és feltöltést az összes forrásból.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evervideo fájlok csatlakoztatott tárolókon" image="/docs/guide/evervideo/img/evervideo-files-connected-storages.webp" >}}
+  {{< ls-card title="" subtitle="Evervideo fájlok csatlakoztatott tárolókon" image="/docs/guide/evervideo/img/evervideo-files-connected-storages.webp" >}}
 {{< /cards >}}
 
 ## Csatlakozás felhőtárhelyhez
@@ -41,7 +41,7 @@ A Fájlok képernyő jobb felső sarkában található egy Átvitelek gomb (egy 
 A Fájlok lap Felhőtárhely szakasza az a hely, ahol minden csatlakoztatott fiók, NAS, médiaserver és stream él — egymás mellett, egyetlen görgethető listában.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evervideo felhőtárhely szakasz a Fájlok lapon" image="/docs/guide/evervideo/img/evervideo-connections.webp" >}}
+  {{< ls-card title="" subtitle="Evervideo felhőtárhely szakasz a Fájlok lapon" image="/docs/guide/evervideo/img/evervideo-connections.webp" >}}
 {{< /cards >}}
 
 - Nyissa meg a **Fájlok** lapot.
@@ -51,7 +51,7 @@ A Fájlok lap Felhőtárhely szakasza az a hely, ahol minden csatlakoztatott fi�
 - Adja meg hitelesítési adatait a felhőszolgáltató által megadott hivatalos jogosultságkezelési oldalon, majd érintse meg a **Kész** lehetőséget.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evervideo felhőtároló-szolgáltatás csatlakoztatása" image="/docs/guide/evervideo/img/evervideo-connect-cloud-storage.webp" >}}
+  {{< ls-card title="" subtitle="Evervideo felhőtároló-szolgáltatás csatlakoztatása" image="/docs/guide/evervideo/img/evervideo-connect-cloud-storage.webp" >}}
 {{< /cards >}}
 
 Ha bármilyen problémába ütközik, ellenőrizze internetkapcsolatát és bejelentkezési / jelszóát. Az alkalmazás Premium verziójában korlátlan számú szolgáltatást adhat hozzá; az ingyenes verzió legfeljebb hármat támogat.
@@ -161,7 +161,7 @@ Ez a szakasz megjeleníti a helyi hálózaton lévő összes eszközt, amelyhez 
 - Ha szükséges, adja meg bejelentkezési adatait a kapcsolat befejezéséhez.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evervideo elérhető eszközök a helyi hálózaton" image="/docs/guide/evervideo/img/evervideo-available-devices.webp" >}}
+  {{< ls-card title="" subtitle="Evervideo elérhető eszközök a helyi hálózaton" image="/docs/guide/evervideo/img/evervideo-available-devices.webp" >}}
 {{< /cards >}}
 
 ## Wi-Fi Drive
@@ -169,7 +169,7 @@ Ez a szakasz megjeleníti a helyi hálózaton lévő összes eszközt, amelyhez 
 A Wi-Fi Drive lehetővé teszi fájlok vezeték nélküli átvitelét számítógépéről iOS-eszközére bármely asztali böngészőn, Finderen vagy Fájlkezelőn keresztül. Az eszközének és számítógépének ugyanazon a Wi-Fi hálózaton kell lenniük.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evervideo Wi-Fi Drive" image="/docs/guide/evervideo/img/evervideo-wifi-drive.webp" >}}
+  {{< ls-card title="" subtitle="Evervideo Wi-Fi Drive" image="/docs/guide/evervideo/img/evervideo-wifi-drive.webp" >}}
 {{< /cards >}}
 
 ### Wi-Fi Drive engedélyezése
@@ -201,7 +201,7 @@ Csatlakoztasson USB-meghajtót vagy SD-kártyát iPhone-jához, iPadjéhez vagy 
 Érintsen meg bármely csatlakoztatott felhőszolgáltatást a fájlböngésző megnyitásához. A mappák videóbélyegképeket jelenítenek meg, ha rendelkezésre állnak, és egy videóra koppintva azonnal elindul a lejátszás, miközben a fájl többi részének streamelése a háttérben folytatódik.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evervideo mappaböngészés csatlakoztatott tárolókban" image="/docs/guide/evervideo/img/evervideo-all-connected-device-folders.webp" >}}
+  {{< ls-card title="" subtitle="Evervideo mappaböngészés csatlakoztatott tárolókban" image="/docs/guide/evervideo/img/evervideo-all-connected-device-folders.webp" >}}
 {{< /cards >}}
 
 ## Gyors hozzáférés
@@ -209,7 +209,7 @@ Csatlakoztasson USB-meghajtót vagy SD-kártyát iPhone-jához, iPadjéhez vagy 
 A Gyors hozzáférés szakasz a Fájlok lap tetején található. Gyors hozzáférést biztosít a kedvenc és a legutóbb megnyitott fájlokhoz és mappákhoz — mind felhőszolgáltatásokból, mind az eszközön lévő tárolóból. Amikor megnyit egy fájlt vagy mappát a felhőből, az hozzáadódik a Legutóbb megnyitott listához. A mélyen beágyazott mappákat Kedvencekként jelölheti meg, hogy gyorsan hozzáférjen hozzájuk anélkül, hogy átásná magát a könyvtárstruktúrán.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evervideo online linkek és gyors hozzáférés" image="/docs/guide/evervideo/img/evervideo-connections-online-links.webp" >}}
+  {{< ls-card title="" subtitle="Evervideo online linkek és gyors hozzáférés" image="/docs/guide/evervideo/img/evervideo-connections-online-links.webp" >}}
 {{< /cards >}}
 
 ## Fájlok ebben az alkalmazásban
@@ -217,7 +217,7 @@ A Gyors hozzáférés szakasz a Fájlok lap tetején található. Gyors hozzáf�
 Ez a szakasz az Evervideo sandboxolt Dokumentumok könyvtárában tárolt fájlokat és mappákat mutatja — mindent, amit letöltött a felhőből, átvitt Wi-Fi Drive-on keresztül, másolt Finder fájlmegosztással, vagy importált egy másik alkalmazásból.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evervideo fájlok ebben az alkalmazásban" image="/docs/guide/evervideo/img/evervideo-files-in-this-application.webp" >}}
+  {{< ls-card title="" subtitle="Evervideo fájlok ebben az alkalmazásban" image="/docs/guide/evervideo/img/evervideo-files-in-this-application.webp" >}}
 {{< /cards >}}
 
 ### Dokumentumok mappa
@@ -225,7 +225,7 @@ Ez a szakasz az Evervideo sandboxolt Dokumentumok könyvtárában tárolt fájlo
 A Dokumentumok mappa a Fájlok ebben az alkalmazásban összes tartalmának gyökere. Almappákat hozhat létre, fájlokat nevezhet át, mozgathatja őket, és tetszés szerint csoportosíthatja.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evervideo helyi fájlok — Dokumentumok mappa" image="/docs/guide/evervideo/img/evervideo-local-files-documents.webp" >}}
+  {{< ls-card title="" subtitle="Evervideo helyi fájlok — Dokumentumok mappa" image="/docs/guide/evervideo/img/evervideo-local-files-documents.webp" >}}
 {{< /cards >}}
 
 ## Fájlok ezen az iPhone-on / iPaden / Macon
@@ -238,7 +238,7 @@ Ez a szakasz az eszközön, de különböző alkalmazásokban lévő videókat m
 Használhatja a Mappa csatlakoztatása lehetőséget is, hogy olvasási / írási hozzáféréssel rendelkező hivatkozást hozzon létre az eszközön lévő mappához — tökéletes iCloud Drive-on vagy csatlakoztatott USB-meghajtón lévő mappával való munkához, anélkül, hogy bármit másolna.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evervideo fájlok ezen az eszközön" image="/docs/guide/evervideo/img/evervideo-files-on-this-device.webp" >}}
+  {{< ls-card title="" subtitle="Evervideo fájlok ezen az eszközön" image="/docs/guide/evervideo/img/evervideo-files-on-this-device.webp" >}}
 {{< /cards >}}
 
 ## Különleges mappák
@@ -276,7 +276,7 @@ Amikor megnyit egy mappát, érintse meg a **„..."** gombot a jobb felső saro
 Érintse meg a **„..."** gombot a jobb felső sarokban, és válassza a **Kiválasztás** lehetőséget a kiválasztási módba való belépéshez. Jelölőnégyzetek jelennek meg minden fájl és mappa mellett. Érintse meg egy vagy több elem kiválasztásához, majd végezzen kötegelt műveleteket: Következőnek lejátszás, Később lejátszás, Hozzáadás médiakönyvtárhoz, Hozzáadás lejátszási listához, Másolás, Feltöltés, Mozgatás, Átnevezés vagy Törlés.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evervideo kiválasztási mód a fájlkezelőben" image="/docs/guide/evervideo/img/evervideo-selection-mode-in-files.webp" >}}
+  {{< ls-card title="" subtitle="Evervideo kiválasztási mód a fájlkezelőben" image="/docs/guide/evervideo/img/evervideo-selection-mode-in-files.webp" >}}
 {{< /cards >}}
 
 Ha a csatlakoztatott felhőtárhelyet csak olvashatóként kívánja kezelni (a véletlen törlések megelőzése érdekében), engedélyezze a Beállítások → Fájlkezelő → Online fájlok szerkesztése → Ki lehetőséget az összes pusztító művelet elrejtéséhez a felhasználói felületről.
@@ -318,13 +318,13 @@ A felhőtárhelyén lévő minden mappához számos művelet érhető el a mappa
 A Fájlok lap jobb felső sarkában található egy **Átvitelek** gomb (egy forgó nyilakból álló ikon). Érintse meg az Átviteli sor megnyitásához — az összes aktív letöltés és feltöltés listája az összes forrásból, valós idejű folyamat, sebesség és ETA per fájl.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evervideo fájlátviteli sor" image="/docs/guide/evervideo/img/evervideo-file-transfers.webp" >}}
+  {{< ls-card title="" subtitle="Evervideo fájlátviteli sor" image="/docs/guide/evervideo/img/evervideo-file-transfers.webp" >}}
 {{< /cards >}}
 
 Szüneteltetheti, folytathatja, megismételheti a sikertelen átviteleket, átrendezheti az elemeket adott letöltések prioritásának meghatározásához, vagy egyenként törölheti azokat. Beállíthatja az átviteli sor sebességét (maximális párhuzamos feladatok), a hálózati típust (csak Wi-Fi vagy Wi-Fi + Mobiladat) és a háttérben történő átviteleket a Beállítások → Fájlkezelő menüpontban.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evervideo műveletek a fájlátviteli soron" image="/docs/guide/evervideo/img/evervideo-file-transfers-actions.webp" >}}
+  {{< ls-card title="" subtitle="Evervideo műveletek a fájlátviteli soron" image="/docs/guide/evervideo/img/evervideo-file-transfers-actions.webp" >}}
 {{< /cards >}}
 
 ## Offline mód és szinkronizált offline mappák

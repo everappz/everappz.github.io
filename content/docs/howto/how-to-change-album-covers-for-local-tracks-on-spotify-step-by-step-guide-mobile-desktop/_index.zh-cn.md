@@ -7,7 +7,7 @@ tags: ["spotify", "专辑封面", "mp3", "元数据", "音乐编辑器", "本地
 readingTime: 3
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **简要说明：** Spotify不允许更改流媒体曲目的专辑封面，但您可以更新本地文件的封面。启用Spotify的本地文件功能，将音乐复制到Spotify文件夹，然后使用免费的Evertag应用编辑专辑封面和元数据。更改将在重启Spotify后显示。
@@ -25,8 +25,8 @@ readingTime: 3
 首先从App Store下载**Evertag**应用。它免费使用，支持**iOS**和**macOS**。
 
 {{< cards cols="2">}}
-{{< card link="https://apps.apple.com/app/apple-store/id1450763230?pt=95781850&ct=everappzcom&mt=8" title="Evertag iOS版" icon="download" tag="Free" >}}
-{{< card link="https://apps.apple.com/app/apple-store/id1594027661?pt=95781850&ct=everappzcom&mt=8" title="Evertag macOS版" icon="download" tag="Free" >}}
+{{< ls-card link="https://apps.apple.com/app/apple-store/id1450763230?pt=95781850&ct=everappzcom&mt=8" title="Evertag iOS版" icon="download" tag="Free" >}}
+{{< ls-card link="https://apps.apple.com/app/apple-store/id1594027661?pt=95781850&ct=everappzcom&mt=8" title="Evertag macOS版" icon="download" tag="Free" >}}
 {{< /cards >}}
 
 ## 在Spotify中激活本地媒体库
@@ -35,37 +35,37 @@ readingTime: 3
 
 ### 打开Spotify应用
 {{< cards cols="1">}}
-{{< card title="" subtitle="Spotify应用主界面" image="/docs/howto/how-to-change-album-covers-for-local-tracks-on-spotify-step-by-step-guide-mobile-desktop/spotify-main.webp" >}}
+{{< ls-card title="" subtitle="Spotify应用主界面" image="/docs/howto/how-to-change-album-covers-for-local-tracks-on-spotify-step-by-step-guide-mobile-desktop/spotify-main.webp" >}}
 {{< /cards >}}
 
 ### 点击您的个人头像
 查看Spotify主屏幕左上角，点击您的个人头像以打开菜单。
 {{< cards cols="1">}}
-{{< card title="" subtitle="Spotify头像和选项" image="/docs/howto/how-to-change-album-covers-for-local-tracks-on-spotify-step-by-step-guide-mobile-desktop/spotify-avatar-options.webp" >}}
+{{< ls-card title="" subtitle="Spotify头像和选项" image="/docs/howto/how-to-change-album-covers-for-local-tracks-on-spotify-step-by-step-guide-mobile-desktop/spotify-avatar-options.webp" >}}
 {{< /cards >}}
 
 ### 选择「设置和隐私」
 在菜单中向下滚动并选择**设置和隐私**以打开完整的选项列表。
 {{< cards cols="1">}}
-{{< card title="" subtitle="Spotify设置菜单" image="/docs/howto/how-to-change-album-covers-for-local-tracks-on-spotify-step-by-step-guide-mobile-desktop/spotify-settings.webp" >}}
+{{< ls-card title="" subtitle="Spotify设置菜单" image="/docs/howto/how-to-change-album-covers-for-local-tracks-on-spotify-step-by-step-guide-mobile-desktop/spotify-settings.webp" >}}
 {{< /cards >}}
 
 ### 选择「应用和设备」
 找到并点击**应用和设备**菜单项。
 {{< cards cols="1">}}
-{{< card title="" subtitle="Spotify应用和设备" image="/docs/howto/how-to-change-album-covers-for-local-tracks-on-spotify-step-by-step-guide-mobile-desktop/spotify-apps-and-devices.webp" >}}
+{{< ls-card title="" subtitle="Spotify应用和设备" image="/docs/howto/how-to-change-album-covers-for-local-tracks-on-spotify-step-by-step-guide-mobile-desktop/spotify-apps-and-devices.webp" >}}
 {{< /cards >}}
 
 ### 开启「本地音频文件」
 打开**本地音频文件**开关。出现提示时，授予Spotify访问您音乐文件的权限。
 {{< cards cols="1">}}
-{{< card title="" subtitle="授予Spotify访问音乐文件的权限" image="/docs/howto/how-to-change-album-covers-for-local-tracks-on-spotify-step-by-step-guide-mobile-desktop/spotify-access-to-music.webp" >}}
+{{< ls-card title="" subtitle="授予Spotify访问音乐文件的权限" image="/docs/howto/how-to-change-album-covers-for-local-tracks-on-spotify-step-by-step-guide-mobile-desktop/spotify-access-to-music.webp" >}}
 {{< /cards >}}
 
 ### 检查Spotify文件夹
 授权后，打开**文件**应用，转到**位置 > 我的iPhone/iPad上**，找到**Spotify**文件夹。本地音乐文件应放置在此处。
 {{< cards cols="1">}}
-{{< card title="" subtitle="Spotify音乐文件" image="/docs/howto/how-to-change-album-covers-for-local-tracks-on-spotify-step-by-step-guide-mobile-desktop/files-app-spotify-folder.webp" >}}
+{{< ls-card title="" subtitle="Spotify音乐文件" image="/docs/howto/how-to-change-album-covers-for-local-tracks-on-spotify-step-by-step-guide-mobile-desktop/files-app-spotify-folder.webp" >}}
 {{< /cards >}}
 
 ## 将音乐文件放入Spotify的本地媒体库文件夹
@@ -78,31 +78,31 @@ readingTime: 3
 
 ### 打开文件应用 – 位置 – 在此设备上
 {{< cards cols="1">}}
-{{< card title="" subtitle="Spotify文件夹" image="/docs/howto/how-to-change-album-covers-for-local-tracks-on-spotify-step-by-step-guide-mobile-desktop/files-app-spotify-folder.webp" >}}
+{{< ls-card title="" subtitle="Spotify文件夹" image="/docs/howto/how-to-change-album-covers-for-local-tracks-on-spotify-step-by-step-guide-mobile-desktop/files-app-spotify-folder.webp" >}}
 {{< /cards >}}
 
 ### 复制音乐文件夹
 导航到您的**音乐**文件夹。长按打开上下文菜单，选择**拷贝**。
 {{< cards cols="1">}}
-{{< card title="" subtitle="在文件应用中访问文件夹选项" image="/docs/howto/how-to-change-album-covers-for-local-tracks-on-spotify-step-by-step-guide-mobile-desktop/files-app-folder-options.webp" >}}
+{{< ls-card title="" subtitle="在文件应用中访问文件夹选项" image="/docs/howto/how-to-change-album-covers-for-local-tracks-on-spotify-step-by-step-guide-mobile-desktop/files-app-folder-options.webp" >}}
 {{< /cards >}}
 
 ### 粘贴音乐文件夹
 导航到**Spotify**文件夹，长按空白区域，从上下文菜单中选择**粘贴**。
 {{< cards cols="1">}}
-{{< card title="" subtitle="将文件夹粘贴到目标位置" image="/docs/howto/how-to-change-album-covers-for-local-tracks-on-spotify-step-by-step-guide-mobile-desktop/files-app-paste-folder.webp" >}}
+{{< ls-card title="" subtitle="将文件夹粘贴到目标位置" image="/docs/howto/how-to-change-album-covers-for-local-tracks-on-spotify-step-by-step-guide-mobile-desktop/files-app-paste-folder.webp" >}}
 {{< /cards >}}
 
 ### 等待复制过程
 等待系统完成将音乐文件夹复制到Spotify本地目录。
 {{< cards cols="1">}}
-{{< card title="" subtitle="使用文件应用复制音乐文件" image="/docs/howto/how-to-change-album-covers-for-local-tracks-on-spotify-step-by-step-guide-mobile-desktop/files-app-copying-music.webp" >}}
+{{< ls-card title="" subtitle="使用文件应用复制音乐文件" image="/docs/howto/how-to-change-album-covers-for-local-tracks-on-spotify-step-by-step-guide-mobile-desktop/files-app-copying-music.webp" >}}
 {{< /cards >}}
 
 ### 打开Spotify本地媒体库
 返回Spotify应用。点击**您的媒体库 > 本地文件**，您将看到刚刚复制的音乐文件。
 {{< cards cols="1">}}
-{{< card title="" subtitle="Spotify显示本地音乐媒体库" image="/docs/howto/how-to-change-album-covers-for-local-tracks-on-spotify-step-by-step-guide-mobile-desktop/spotify-local-music-library.webp" >}}
+{{< ls-card title="" subtitle="Spotify显示本地音乐媒体库" image="/docs/howto/how-to-change-album-covers-for-local-tracks-on-spotify-step-by-step-guide-mobile-desktop/spotify-local-music-library.webp" >}}
 {{< /cards >}}
 
 ## 在Evertag应用中连接Spotify文件夹
@@ -125,29 +125,29 @@ readingTime: 3
 #### macOS / iPadOS
 - 滚动到侧边栏中的**此设备上的文件**
 {{< cards cols="1">}}
-{{< card title="" subtitle="在Evertag中查看所有设备文件夹" image="/docs/howto/how-to-change-album-covers-for-local-tracks-on-spotify-step-by-step-guide-mobile-desktop/evertag-all-device-folders.webp" >}}
+{{< ls-card title="" subtitle="在Evertag中查看所有设备文件夹" image="/docs/howto/how-to-change-album-covers-for-local-tracks-on-spotify-step-by-step-guide-mobile-desktop/evertag-all-device-folders.webp" >}}
 {{< /cards >}}
 
 - 点击**所有设备文件夹**
 - 点击**连接文件夹**
 {{< cards cols="1">}}
-{{< card title="" subtitle="使用文件选择器连接文件夹" image="/docs/howto/how-to-change-album-covers-for-local-tracks-on-spotify-step-by-step-guide-mobile-desktop/evertag-connect-folder-files-picker.webp" >}}
+{{< ls-card title="" subtitle="使用文件选择器连接文件夹" image="/docs/howto/how-to-change-album-covers-for-local-tracks-on-spotify-step-by-step-guide-mobile-desktop/evertag-connect-folder-files-picker.webp" >}}
 {{< /cards >}}
 
 - 选择**Spotify**文件夹并点击**打开**确认
 {{< cards cols="1">}}
-{{< card title="" subtitle="连接包含Spotify本地文件的文件夹" image="/docs/howto/how-to-change-album-covers-for-local-tracks-on-spotify-step-by-step-guide-mobile-desktop/evertag-connect-folder-spotify-local.webp" >}}
+{{< ls-card title="" subtitle="连接包含Spotify本地文件的文件夹" image="/docs/howto/how-to-change-album-covers-for-local-tracks-on-spotify-step-by-step-guide-mobile-desktop/evertag-connect-folder-spotify-local.webp" >}}
 {{< /cards >}}
 
 - 点击已连接的文件夹查看和编辑其内容
 {{< cards cols="1">}}
-{{< card title="" subtitle="在Evertag中成功连接文件夹" image="/docs/howto/how-to-change-album-covers-for-local-tracks-on-spotify-step-by-step-guide-mobile-desktop/evertag-connected-folder.webp" >}}
+{{< ls-card title="" subtitle="在Evertag中成功连接文件夹" image="/docs/howto/how-to-change-album-covers-for-local-tracks-on-spotify-step-by-step-guide-mobile-desktop/evertag-connected-folder.webp" >}}
 {{< /cards >}}
 
 ## 标签编辑器
 **标签编辑器**是您查看和修改音频文件元数据的主要工作区。
 {{< cards cols="1">}}
-{{< card title="" subtitle="浏览已连接文件夹的内容" image="/docs/howto/how-to-change-album-covers-for-local-tracks-on-spotify-step-by-step-guide-mobile-desktop/evertag-connected-folder-content.webp" >}}
+{{< ls-card title="" subtitle="浏览已连接文件夹的内容" image="/docs/howto/how-to-change-album-covers-for-local-tracks-on-spotify-step-by-step-guide-mobile-desktop/evertag-connected-folder-content.webp" >}}
 {{< /cards >}}
 
 ## 编辑模式
@@ -187,28 +187,28 @@ Evertag支持两种编辑模式：
 
 1. 点击封面轮播上的**相机图标**
 {{< cards cols="1">}}
-{{< card title="" subtitle="选择自定义专辑封面照片" image="/docs/howto/how-to-change-album-covers-for-local-tracks-on-spotify-step-by-step-guide-mobile-desktop/evertag-choose-photo.webp" >}}
+{{< ls-card title="" subtitle="选择自定义专辑封面照片" image="/docs/howto/how-to-change-album-covers-for-local-tracks-on-spotify-step-by-step-guide-mobile-desktop/evertag-choose-photo.webp" >}}
 {{< /cards >}}
 
 2. 选择图片来源（照片库、本地文件、云端）
 {{< cards cols="1">}}
-{{< card title="" subtitle="访问照片库选择封面" image="/docs/howto/how-to-change-album-covers-for-local-tracks-on-spotify-step-by-step-guide-mobile-desktop/evertag-photo-library.webp" >}}
+{{< ls-card title="" subtitle="访问照片库选择封面" image="/docs/howto/how-to-change-album-covers-for-local-tracks-on-spotify-step-by-step-guide-mobile-desktop/evertag-photo-library.webp" >}}
 {{< /cards >}}
 
 3. 选择要用作封面的图片
 {{< cards cols="1">}}
-{{< card title="" subtitle="已编辑专辑封面预览" image="/docs/howto/how-to-change-album-covers-for-local-tracks-on-spotify-step-by-step-guide-mobile-desktop/evertag-edited-album-cover.webp" >}}
+{{< ls-card title="" subtitle="已编辑专辑封面预览" image="/docs/howto/how-to-change-album-covers-for-local-tracks-on-spotify-step-by-step-guide-mobile-desktop/evertag-edited-album-cover.webp" >}}
 {{< /cards >}}
 
 4. 点击**保存**应用更改
 {{< cards cols="1">}}
-{{< card title="" subtitle="保存更新的音频标签" image="/docs/howto/how-to-change-album-covers-for-local-tracks-on-spotify-step-by-step-guide-mobile-desktop/evertag-save-tags.webp" >}}
+{{< ls-card title="" subtitle="保存更新的音频标签" image="/docs/howto/how-to-change-album-covers-for-local-tracks-on-spotify-step-by-step-guide-mobile-desktop/evertag-save-tags.webp" >}}
 {{< /cards >}}
 
 ## 更新Spotify媒体库
 保存标签后，返回Spotify应用。
 {{< cards cols="1">}}
-{{< card title="" subtitle="浏览Spotify音乐媒体库" image="/docs/howto/how-to-change-album-covers-for-local-tracks-on-spotify-step-by-step-guide-mobile-desktop/spotify-library.webp" >}}
+{{< ls-card title="" subtitle="浏览Spotify音乐媒体库" image="/docs/howto/how-to-change-album-covers-for-local-tracks-on-spotify-step-by-step-guide-mobile-desktop/spotify-library.webp" >}}
 {{< /cards >}}
 
 再次打开**本地文件**部分。您现在应该看到本地曲目的更新封面和标签。
@@ -216,7 +216,7 @@ Evertag支持两种编辑模式：
 > 如果更新没有立即显示，**强制关闭Spotify**并重新打开。这将触发元数据刷新。
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="播放中的曲目显示已编辑的标签" image="/docs/howto/how-to-change-album-covers-for-local-tracks-on-spotify-step-by-step-guide-mobile-desktop/spotify-playing-edited-tag.webp" >}}
+{{< ls-card title="" subtitle="播放中的曲目显示已编辑的标签" image="/docs/howto/how-to-change-album-covers-for-local-tracks-on-spotify-step-by-step-guide-mobile-desktop/spotify-playing-edited-tag.webp" >}}
 {{< /cards >}}
 
 ## 总结
@@ -229,26 +229,26 @@ Evertag支持两种编辑模式：
 
 ## 常见问题
 
-{{% details title="我可以更改Spotify流媒体曲目的专辑封面吗？" closed="true" %}}
+{{% ls-details title="我可以更改Spotify流媒体曲目的专辑封面吗？" closed="true" %}}
 不可以。Spotify不允许更改流媒体目录中曲目的封面。您只能编辑已添加到Spotify媒体库的本地文件的专辑封面。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Evertag免费吗？" closed="true" %}}
+{{% ls-details title="Evertag免费吗？" closed="true" %}}
 是的。Evertag在iOS和macOS上免费下载和使用。支持120多种音频标签和30多种文件格式。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Evertag支持哪些音频格式？" closed="true" %}}
+{{% ls-details title="Evertag支持哪些音频格式？" closed="true" %}}
 Evertag支持30多种格式，包括MP3、FLAC、AAC、ALAC、WAV、AIFF、OGG、WMA等。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="为什么Spotify不显示我更新的专辑封面？" closed="true" %}}
+{{% ls-details title="为什么Spotify不显示我更新的专辑封面？" closed="true" %}}
 强制关闭Spotify应用并重新打开。Spotify会缓存元数据，需要重启才能检测到本地文件的更改。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="我可以同时编辑多个文件的标签吗？" closed="true" %}}
+{{% ls-details title="我可以同时编辑多个文件的标签吗？" closed="true" %}}
 可以。Evertag支持批量编辑。选择多个文件并点击「同时编辑多个文件」即可一次性更新所有选定曲目的标签和封面。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="我需要将文件复制到Spotify文件夹吗？" closed="true" %}}
+{{% ls-details title="我需要将文件复制到Spotify文件夹吗？" closed="true" %}}
 是的。Spotify仅从其专用文件夹读取本地文件。将音乐文件复制或移动到设备上的Spotify文件夹，然后在Spotify设置中启用本地音频文件开关。
-{{% /details %}}
+{{% /ls-details %}}

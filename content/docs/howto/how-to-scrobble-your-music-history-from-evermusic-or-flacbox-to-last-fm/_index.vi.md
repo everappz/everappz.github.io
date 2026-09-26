@@ -17,7 +17,7 @@ keywords: [
 readingTime: 2
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **Tóm tắt:** Cả Evermusic và Flacbox đều có tính năng scrobbling Last.fm tích hợp. Kết nối tài khoản của bạn trong phần **Kết nối**, và mọi bản nhạc bạn phát sẽ được ghi lại tự động -- ngay cả khi bạn ngoại tuyến. Thiết lập mất chưa đến một phút.
@@ -66,22 +66,22 @@ Scrobble lịch sử nghe nhạc từ Evermusic hoặc Flacbox sang [Last.fm](ht
 
 ## Câu hỏi thường gặp
 
-{{% details title="Scrobbling Last.fm có miễn phí không?" closed="true" %}}
+{{% ls-details title="Scrobbling Last.fm có miễn phí không?" closed="true" %}}
 Có. Last.fm cung cấp tài khoản miễn phí bao gồm scrobbling đầy đủ, lịch sử nghe và đề xuất cơ bản. Gói đăng ký trả phí Last.fm Pro bổ sung các tính năng bổ sung trên trang web Last.fm nhưng không bắt buộc để scrobble từ Evermusic hoặc Flacbox.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Scrobbling có hoạt động khi tôi ngoại tuyến không?" closed="true" %}}
+{{% ls-details title="Scrobbling có hoạt động khi tôi ngoại tuyến không?" closed="true" %}}
 Có. Cả Evermusic và Flacbox đều lưu trữ lịch sử phát nhạc cục bộ. Khi bạn trực tuyến trở lại, các ứng dụng tự động tải các scrobble đang chờ lên Last.fm.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Thông tin đăng nhập Last.fm của tôi có được ứng dụng lưu trữ không?" closed="true" %}}
+{{% ls-details title="Thông tin đăng nhập Last.fm của tôi có được ứng dụng lưu trữ không?" closed="true" %}}
 Không. Ứng dụng chỉ lưu một mã truy cập bảo mật trong keychain của thiết bị. Tên người dùng và mật khẩu của bạn không được lưu trữ.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Tôi có thể scrobble từ cả iPhone và Mac không?" closed="true" %}}
+{{% ls-details title="Tôi có thể scrobble từ cả iPhone và Mac không?" closed="true" %}}
 Có. Evermusic và Flacbox hỗ trợ scrobbling Last.fm trên iPhone, iPad và Mac. Kết nối tài khoản của bạn trên mỗi thiết bị mà bạn muốn theo dõi lượt phát.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Làm cách nào để dừng scrobbling mà không xóa tài khoản Last.fm?" closed="true" %}}
+{{% ls-details title="Làm cách nào để dừng scrobbling mà không xóa tài khoản Last.fm?" closed="true" %}}
 Mở phần **Kết nối** trong Evermusic hoặc Flacbox và chạm **Ngắt kết nối** bên cạnh Last.fm. Điều này xóa mã truy cập và dừng scrobbling trong khi vẫn giữ nguyên tài khoản và lịch sử Last.fm của bạn.
-{{% /details %}}
+{{% /ls-details %}}

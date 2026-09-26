@@ -25,7 +25,7 @@ Funkčnosť Evermusic je premyslene rozdelená na dve odlišné zložky: Hudobn�
 Či používate iPhone, iPad alebo kompaktný režim na Mac, všetky funkcie aplikácie sú ľahko prístupné prostredníctvom lišty kariet v spodnej časti obrazovky. Pre používateľov iPadu a Macu nájdete rovnakú ponuku na ľavej strane obrazovky. Toto premyslené usporiadanie kategorizuje všetky funkcie aplikácie do ľahko prístupných sekcií, čím zabezpečuje používateľsky prívetivý a efektívny zážitok.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Ľavý bočný panel Evermusic na iPade a Mace" image="/docs/guide/evermusic/evermusic-guide-navigation/img/navigation-left-sidebar.webp" >}}
+  {{< ls-card title="" subtitle="Ľavý bočný panel Evermusic na iPade a Mace" image="/docs/guide/evermusic/evermusic-guide-navigation/img/navigation-left-sidebar.webp" >}}
 {{< /cards >}}
 
 **Pripojenia:** Na tejto obrazovke môžete bez námahy pripojiť cloudové úložné služby ako Google Drive, MEGA, OneDrive a Dropbox, ako aj váš počítač a osobné NAS.
@@ -47,7 +47,7 @@ Sekcia lokálnych súborov je rozdelená na dve kategórie: Súbory v tejto apli
 Aktivujte prehrávač na celú obrazovku klepnutím na ikonu mini prehrávača a použitím gesta pretiahnutia nadol na jeho skrytie. Na iPade a Mace sa obrazovka mini prehrávača nachádza v hornej časti obrazovky a môže byť skrytá pri otvorení prehrávača na celú obrazovku prostredníctvom hlavnej ponuky.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Lišta kariet iPhone" image="/docs/guide/evermusic/evermusic-guide-navigation/img/navigation-bottom-tabbar.webp" >}}
+  {{< ls-card title="" subtitle="Lišta kariet iPhone" image="/docs/guide/evermusic/evermusic-guide-navigation/img/navigation-bottom-tabbar.webp" >}}
 {{< /cards >}}
 
 ## Okno mini prehrávača (exkluzívne pre Mac)
@@ -55,7 +55,7 @@ Aktivujte prehrávač na celú obrazovku klepnutím na ikonu mini prehrávača a
 Ak chcete pristupovať k oknu mini prehrávača na Mace, jednoducho presuňte kurzor na pravý dolný okraj okna aplikácie a zmenšite ho na najmenšiu možnú veľkosť. Potom klepnite na tlačidlo zbalenia (zobrazené ako šípka nadol) na aktiváciu okna mini prehrávača. Ak chcete, aby bolo okno mini prehrávača vždy nad ostatnými oknami, prejdite na hornú lištu ponuky Macu, vyberte 'Window' a potom zvoľte 'Show Window Always On Top.' Táto funkcia je užitočná na počúvanie zvukových prednášok bez prerušení.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Okno mini prehrávača Mac" image="/docs/guide/evermusic/evermusic-guide-navigation/img/navigation-mac-exclusive-miniplayer.webp" >}}
+  {{< ls-card title="" subtitle="Okno mini prehrávača Mac" image="/docs/guide/evermusic/evermusic-guide-navigation/img/navigation-mac-exclusive-miniplayer.webp" >}}
 {{< /cards >}}
 
 ## Viac akcií
@@ -63,7 +63,7 @@ Ak chcete pristupovať k oknu mini prehrávača na Mace, jednoducho presuňte ku
 Prakticky každý obsahový prvok na obrazovke obsahuje tlačidlo "Viac akcií". Klepnutím naň získate prístup ku všetkým dostupným akciám.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Kontextová ponuka Viac akcií" image="/docs/guide/evermusic/evermusic-guide-navigation/img/navigation-more-actions.webp" >}}
+  {{< ls-card title="" subtitle="Kontextová ponuka Viac akcií" image="/docs/guide/evermusic/evermusic-guide-navigation/img/navigation-more-actions.webp" >}}
 {{< /cards >}}
 
 ## Horná lišta nástrojov
@@ -77,7 +77,7 @@ Túto lištu nástrojov môžete ľahko zobraziť alebo skryť jednoduchým gest
 - **Zamiešať všetko:** Pridajte všetky skladby z aktuálnej stránky do fronty audio prehrávača a pred pridaním ich zamiešajte pre príjemný zážitok z počúvania.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Horná lišta nástrojov s Hľadať, Prehrať všetko a Zamiešať všetko" image="/docs/guide/evermusic/evermusic-guide-navigation/img/navigation-top-toolbar.webp" >}}
+  {{< ls-card title="" subtitle="Horná lišta nástrojov s Hľadať, Prehrať všetko a Zamiešať všetko" image="/docs/guide/evermusic/evermusic-guide-navigation/img/navigation-top-toolbar.webp" >}}
 {{< /cards >}}
 
 ## Kontextová ponuka
@@ -91,7 +91,7 @@ Kontextová ponuka poskytuje rýchly prístup k ďalším možnostiam a akciám 
 **Kliknutie pravým tlačidlom myši:** Kliknite pravým tlačidlom myši na bunky, mini prehrávač alebo kompaktný prehrávač, aby sa zobrazila kontextová ponuka.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Kontextová ponuka na macOS" image="/docs/guide/evermusic/evermusic-guide-navigation/img/navigation-context-menu-macos.webp" >}}
+  {{< ls-card title="" subtitle="Kontextová ponuka na macOS" image="/docs/guide/evermusic/evermusic-guide-navigation/img/navigation-context-menu-macos.webp" >}}
 {{< /cards >}}
 
 ## Dostupnosť
@@ -125,7 +125,7 @@ Evermusic obsahuje štyri widgety pre domovskú obrazovku / zamknutú obrazovku,
 Všetky štyri widgety sú dostupné v malej, strednej a veľkej veľkosti, takže si môžete vybrať rozloženie, ktoré sa hodí na vašu obrazovku.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Pridávanie widgetov Evermusic" image="/docs/guide/evermusic/evermusic-guide-navigation/img/navigation-add-widgets.webp" >}}
+  {{< ls-card title="" subtitle="Pridávanie widgetov Evermusic" image="/docs/guide/evermusic/evermusic-guide-navigation/img/navigation-add-widgets.webp" >}}
 {{< /cards >}}
 
 ### Pridanie widgetu na iPhone (domovská obrazovka)
@@ -175,7 +175,7 @@ Widget CarPlay sa aktualizuje živě pri zmene hudby a je vhodný pre hrubé prs
 Evermusic obsahuje plne funkčné rozhranie **Apple CarPlay** (iba iOS) optimalizované pre displej auta. Keď je váš iPhone pripojený k kompatibilnej jednotke CarPlay — cez USB alebo bezdrôtovo — Evermusic sa zobrazuje spolu s Apple Music a Spotify v mriežke aplikácií CarPlay, pripravený streamovať vašu cloudovú knižnicu na cestách.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evermusic na obrazovke CarPlay" image="/docs/guide/evermusic/evermusic-guide-navigation/img/navigation-carplay-menu.webp" >}}
+  {{< ls-card title="" subtitle="Evermusic na obrazovke CarPlay" image="/docs/guide/evermusic/evermusic-guide-navigation/img/navigation-carplay-menu.webp" >}}
 {{< /cards >}}
 
 ### Čo získate v CarPlay

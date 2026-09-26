@@ -16,16 +16,16 @@ screenshots:
   - "https://everappz.com/products/evervideo/screenshots/2880x1800/6.png"
 ---
 
-{{% sr-only %}}
+{{% ls-sr-only %}}
 Evervideo ialah pemain video HD percuma untuk iPhone dan Mac yang dibangunkan oleh Everappz, sebuah syarikat perisian Sepanyol. Evervideo memainkan hampir semua format video termasuk MKV, AVI, MP4, MOV, FLV, WMV, WEBM, M4V, TS dan 3GP tanpa memerlukan penukaran format. Aplikasi ini menawarkan main balik video 360 darjah dan VR, mod Picture-in-Picture, penyama video dan audio dengan lebih 50 pratetap, sokongan sari kata untuk format SRT, SSA dan ASS, serta kawalan kelajuan main balik. Evervideo bersambung ke perkhidmatan storan awan termasuk iCloud Drive, Google Drive, Dropbox, OneDrive dan MEGA, membolehkan pengguna menstrim video terus dari awan atau memuat turunnya untuk tontonan luar talian. Aplikasi ini juga menyokong penstriman rangkaian tempatan melalui protokol SMB, WebDAV dan DLNA, main balik dari pemacu kilat USB melalui penyesuai Lightning atau USB-C, dan pemindahan fail melalui Wi-Fi dari komputer. Ciri-ciri tambahan termasuk perpustakaan media dengan senarai main, siaran AirPlay dan Chromecast, serta pengurus fail terbina dalam. Evervideo boleh dimuat turun secara percuma di App Store dengan pembelian dalam aplikasi pilihan termasuk langganan bulanan pada harga $2.99, langganan tahunan pada harga $14.99, atau pembelian sekali seumur hidup pada harga $29.99.
-{{% /sr-only %}}
+{{% /ls-sr-only %}}
 
 
 
 <!-- force dark theme for this page -->
-{{< force-dark >}}
+{{< ls-force-dark >}}
 
-{{< hextra/hero-container
+{{< ls-hero-container
   image="/products/evervideo/heroimage/hero_1600.png"
   imageWidth="800"
   imageCard="true"
@@ -33,38 +33,38 @@ Evervideo ialah pemain video HD percuma untuk iPhone dan Mac yang dibangunkan ol
 
 <div class="hx:w-full hx:text-center">
 
-{{< downloads-badge >}}
+{{< ls-downloads-badge >}}
 
 <div class="hx:mt-6 hx:mb-6">
 <div class="hx:flex hx:gap-4 hx:items-center hx:justify-center">
-{{< app-icon src="/images/app_icons/png/Evervideo_Icon-App-1024x1024.png" alt="Evervideo Icon" class="hero-headline-icon" size="80" >}}
-{{< hextra/hero-headline >}}
+{{< ls-app-icon src="/images/app_icons/png/Evervideo_Icon-App-1024x1024.png" alt="Evervideo Icon" class="hero-headline-icon" size="80" >}}
+{{< ls-hero-headline >}}
 Evervideo
-{{< /hextra/hero-headline >}}
+{{< /ls-hero-headline >}}
 </div>
 </div>
 
 <div class="hx:mb-12">
-{{< hextra/hero-centered-subtitle >}}
+{{< ls-hero-centered-subtitle >}}
 <strong>Pemain Video HD & Penstrim Untuk iPhone & MAC Anda</strong>
-{{< /hextra/hero-centered-subtitle >}}
+{{< /ls-hero-centered-subtitle >}}
 </div>
 
 
 <div class="hx:mb-6">
-{{< hextra/hero-paragraph >}}
+{{< ls-hero-paragraph >}}
 • Tonton video 360° dan definisi tinggi dalam semua format<br>
 • Strim dari iCloud, Google Drive, Dropbox, NAS, atau komputer anda<br>
 • Muat turun video untuk ditonton luar talian bila-bila masa, di mana sahaja<br>
 • Aktifkan sarikata, gunakan penyama video, dan susun video dengan senarai main
-{{< /hextra/hero-paragraph >}}
+{{< /ls-hero-paragraph >}}
 </div>
 
-{{< app-store-badges products="evervideo:ios, evervideo:macos" >}}
+{{< ls-app-store-badges products="evervideo:ios, evervideo:macos" >}}
 
 </div>
 
-{{< /hextra/hero-container >}}
+{{< /ls-hero-container >}}
 
 <div class="hx:mt-6"></div>
 
@@ -72,42 +72,42 @@ Evervideo
 
 {{< hextra/feature-grid >}}
 
-  {{< hextra/feature-card
+  {{< ls-glass-feature-card
     title="Main Semua Format Video dan Audio"
     subtitle=`Tonton video dan dengar muzik tanpa menukar fail. Menyokong MP4, MOV, MKV, AVI, FLV, WMV, WEBM, M4V, MP3, FLAC, AAC, ALAC, OGG, OPUS, WAV, WMA, dan banyak lagi.`
     icon="film"
     style="background: radial-gradient(circle at 50% 80%, rgba(255,99,71,0.15), rgba(17,24,39,0));"  
   >}}
 
-  {{< hextra/feature-card
+  {{< ls-glass-feature-card
     title="Perpustakaan Media & Senarai Main"
     subtitle=`Susun Perpustakaan Media dengan trek dikumpulkan mengikut album, genre, atau tempoh. Disegerakkan secara automatik dengan perubahan awan. Cipta, edit, dan eksport senarai main M3U dengan pengisihan tersuai.`
     icon="collection"
     style="background: radial-gradient(circle at 50% 80%, rgba(255,165,0,0.15), rgba(17,24,39,0));"  
   >}}
 
-  {{< hextra/feature-card
+  {{< ls-glass-feature-card
     title="Penyama Audio & Video"
     subtitle=`Sesuaikan cara video anda kelihatan dan berbunyi dengan melaraskan bes, pic, kecerahan, gamma, ketepuan, kontras, dan banyak lagi, dengan 50+ pratetap video dan 20+ pratetap audio tersedia atau pilihan untuk mencipta sendiri.`
     icon="adjustments"
     style="background: radial-gradient(circle at 50% 80%, rgba(255,255,0,0.15), rgba(17,24,39,0));" 
   >}}
 
-  {{< hextra/feature-card
+  {{< ls-glass-feature-card
     title="Gambar-dalam-Gambar"
     subtitle=`Gambar-dalam-Gambar (PiP) membolehkan anda terus menonton video dalam tetingkap terapung kecil sambil menggunakan aplikasi lain, dengan sokongan penuh untuk semua format utama seperti MKV, AVI, MP4, dan MOV, peralihan video lancar dalam giliran, kemas kini main balik automatik, dan sarikata aktif sentiasa kelihatan.`
     icon="duplicate"
     style="background: radial-gradient(circle at 50% 80%, rgba(0,128,0,0.15), rgba(17,24,39,0));" 
   >}}
 
-  {{< hextra/feature-card
+  {{< ls-glass-feature-card
     title="Video 360° & Mod VR"
     subtitle=`Alami video 360° dan VR seperti tidak pernah sebelumnya — gerakkan telefon anda untuk meneroka setiap sudut atau selam sepenuhnya dengan set kepala VR untuk penyerapan total. Main serta-merta video 360° dari kamera Insta360 dan peranti serupa dengan main balik lancar dan mudah tanpa persediaan diperlukan.`
     icon="video-camera"
     style="background: radial-gradient(circle at 50% 80%, rgba(0,191,255,0.15), rgba(17,24,39,0));"  
   >}}
 
-  {{< hextra/feature-card
+  {{< ls-glass-feature-card
     title="Penstriman Lancar & Ketersambungan Awan"
     subtitle=`Strim video terus dari Mac, PC, NAS, pemacu kilat USB, atau storan awan anda dan pindahkan fail media menggunakan Wi-Fi Drive atau Perkongsian Fail iTunes. Nikmati akses penuh ke seluruh perpustakaan video anda di mana sahaja, walaupun dari jauh, melalui Synology Drive, WD My Cloud Home, dan peranti NAS serupa.`
     icon="cloud"
@@ -120,9 +120,9 @@ Evervideo
 
 <div class="hx:mt-6"></div>
 
-{{< hextra/section-headline >}}
+{{< ls-section-headline >}}
 Semua Ciri
-{{< /hextra/section-headline >}}
+{{< /ls-section-headline >}}
 
 <div class="hx:mt-6"></div>
 
@@ -130,35 +130,35 @@ Semua Ciri
 
 {{< cards >}}
 
-{{< feature-card title="Main Semua Format Video dan Audio" subtitle="Tonton media anda tanpa menukar fail. Evervideo menyokong semua format utama, termasuk MKV, AVI, MP4, MOV, FLAC, MP3, AAC, OGG, WAV, WMV, dan banyak lagi." icon="film">}}
+{{< ls-feature-card title="Main Semua Format Video dan Audio" subtitle="Tonton media anda tanpa menukar fail. Evervideo menyokong semua format utama, termasuk MKV, AVI, MP4, MOV, FLAC, MP3, AAC, OGG, WAV, WMV, dan banyak lagi." icon="film">}}
 
-{{< feature-card title="Mod Luar Talian" subtitle="Muat turun video, album, dan senarai main untuk ditonton tanpa sambungan internet. Bawa seluruh koleksi video anda ke mana sahaja." icon="download">}}
+{{< ls-feature-card title="Mod Luar Talian" subtitle="Muat turun video, album, dan senarai main untuk ditonton tanpa sambungan internet. Bawa seluruh koleksi video anda ke mana sahaja." icon="download">}}
 
-{{< feature-card title="Video 360° & Mod VR" subtitle="Tonton video 360° dan VR dengan cara yang menyeronokkan dan mudah. Gerakkan telefon anda untuk melihat ke mana-mana arah, atau letakkan dalam set kepala VR untuk berasa seperti anda berada di dalam video." icon="video-camera">}}
+{{< ls-feature-card title="Video 360° & Mod VR" subtitle="Tonton video 360° dan VR dengan cara yang menyeronokkan dan mudah. Gerakkan telefon anda untuk melihat ke mana-mana arah, atau letakkan dalam set kepala VR untuk berasa seperti anda berada di dalam video." icon="video-camera">}}
 
-{{< feature-card title="Gambar-dalam-Gambar" subtitle="Teruskan menonton video dalam tetingkap terapung kecil sambil menggunakan aplikasi lain. Kawal main balik dan lihat sarikata pada masa yang sama – sempurna untuk pelbagai tugas." icon="duplicate">}}
+{{< ls-feature-card title="Gambar-dalam-Gambar" subtitle="Teruskan menonton video dalam tetingkap terapung kecil sambil menggunakan aplikasi lain. Kawal main balik dan lihat sarikata pada masa yang sama – sempurna untuk pelbagai tugas." icon="duplicate">}}
 
-{{< feature-card title="Penyama Video & Audio" subtitle="Sesuaikan cara video anda kelihatan dan berbunyi. Laraskan bes, pic, kecerahan, gamma, ketepuan, kontras, dan banyak lagi. Pilih dari 50+ pratetap video dan 20+ pratetap audio, atau cipta sendiri." icon="adjustments">}}
+{{< ls-feature-card title="Penyama Video & Audio" subtitle="Sesuaikan cara video anda kelihatan dan berbunyi. Laraskan bes, pic, kecerahan, gamma, ketepuan, kontras, dan banyak lagi. Pilih dari 50+ pratetap video dan 20+ pratetap audio, atau cipta sendiri." icon="adjustments">}}
 
-{{< feature-card title="Sarikata" subtitle="Lihat sarikata terbenam, pilih nombor trek sarikata, dan nikmati sokongan sarikata penuh walaupun dalam mod Gambar-dalam-Gambar." icon="annotation" >}}
+{{< ls-feature-card title="Sarikata" subtitle="Lihat sarikata terbenam, pilih nombor trek sarikata, dan nikmati sokongan sarikata penuh walaupun dalam mod Gambar-dalam-Gambar." icon="annotation" >}}
 
-{{< feature-card title="Main Terus dari Awan" subtitle="Tonton video terus dari storan awan anda tanpa menggunakan ruang peranti. Menyokong iCloud Drive, Google Drive, Dropbox, OneDrive, MEGA, Synology Drive, pCloud, dan banyak lagi." icon="cloud">}}
+{{< ls-feature-card title="Main Terus dari Awan" subtitle="Tonton video terus dari storan awan anda tanpa menggunakan ruang peranti. Menyokong iCloud Drive, Google Drive, Dropbox, OneDrive, MEGA, Synology Drive, pCloud, dan banyak lagi." icon="cloud">}}
 
-{{< feature-card title="Sambung Komputer / NAS" subtitle="Sambungkan NAS, Mac, atau PC anda dengan mudah melalui rangkaian rumah menggunakan SMB, WebDAV, atau DLNA. Akses jauh disokong untuk Synology Drive dan WD MyCloud Home. Pindahkan fail media ke peranti anda melalui Wi-Fi atau Perkongsian Fail iTunes." icon="desktop-computer">}}
+{{< ls-feature-card title="Sambung Komputer / NAS" subtitle="Sambungkan NAS, Mac, atau PC anda dengan mudah melalui rangkaian rumah menggunakan SMB, WebDAV, atau DLNA. Akses jauh disokong untuk Synology Drive dan WD MyCloud Home. Pindahkan fail media ke peranti anda melalui Wi-Fi atau Perkongsian Fail iTunes." icon="desktop-computer">}}
 
-{{< feature-card title="Perpustakaan Media" subtitle="Susun mengikut album, genre, atau tempoh. Disegerakkan secara automatik dengan perubahan awan. Cipta, edit, dan eksport senarai main M3U dengan pengisihan tersuai." icon="library" >}}
+{{< ls-feature-card title="Perpustakaan Media" subtitle="Susun mengikut album, genre, atau tempoh. Disegerakkan secara automatik dengan perubahan awan. Cipta, edit, dan eksport senarai main M3U dengan pengisihan tersuai." icon="library" >}}
 
-{{< feature-card title="Penanda Buku & Penyimpanan Kedudukan Main Balik" subtitle="Simpan tempat anda dalam mana-mana video dengan penanda buku dan sambung semula main balik dari tempat anda berhenti. Laraskan kelajuan main balik, tandakan kegemaran, dan isih video mengikut paling banyak dimainkan untuk akses mudah." icon="book-open">}}
+{{< ls-feature-card title="Penanda Buku & Penyimpanan Kedudukan Main Balik" subtitle="Simpan tempat anda dalam mana-mana video dengan penanda buku dan sambung semula main balik dari tempat anda berhenti. Laraskan kelajuan main balik, tandakan kegemaran, dan isih video mengikut paling banyak dimainkan untuk akses mudah." icon="book-open">}}
 
-{{< feature-card title="AirPlay & Chromecast" subtitle="Mainkan video pada skrin lebih besar dengan menstrim ke Apple TV, Chromecast, atau mana-mana paparan luaran yang serasi." icon="device-mobile">}}
+{{< ls-feature-card title="AirPlay & Chromecast" subtitle="Mainkan video pada skrin lebih besar dengan menstrim ke Apple TV, Chromecast, atau mana-mana paparan luaran yang serasi." icon="device-mobile">}}
 
-{{< feature-card title="Import dari Fail & Perpustakaan" subtitle="Import video terus dari aplikasi Fail, Foto, atau Perpustakaan iTunes anda. Akses semua kandungan tempatan dan awan anda dalam satu perpustakaan media yang tersusun." icon="database">}}
+{{< ls-feature-card title="Import dari Fail & Perpustakaan" subtitle="Import video terus dari aplikasi Fail, Foto, atau Perpustakaan iTunes anda. Akses semua kandungan tempatan dan awan anda dalam satu perpustakaan media yang tersusun." icon="database">}}
 
-{{< feature-card title="Pengurus Fail" subtitle="Alih, namakan semula, padam, dan susun fail terus di dalam aplikasi." icon="folder">}}
+{{< ls-feature-card title="Pengurus Fail" subtitle="Alih, namakan semula, padam, dan susun fail terus di dalam aplikasi." icon="folder">}}
 
-{{< feature-card title="Pemperibadian" subtitle="Sesuaikan aplikasi mengikut keutamaan anda. Pilih tema, tunjuk atau sembunyikan ciri, dan laraskan antara muka mengikut keperluan anda." icon="sun">}}
+{{< ls-feature-card title="Pemperibadian" subtitle="Sesuaikan aplikasi mengikut keutamaan anda. Pilih tema, tunjuk atau sembunyikan ciri, dan laraskan antara muka mengikut keperluan anda." icon="sun">}}
 
-{{< feature-card title="Carian Pintar" subtitle="Cari video, album, atau senarai main dengan cepat dalam perpustakaan media anda menggunakan kata kunci atau penapis." icon="search" >}}
+{{< ls-feature-card title="Carian Pintar" subtitle="Cari video, album, atau senarai main dengan cepat dalam perpustakaan media anda menggunakan kata kunci atau penapis." icon="search" >}}
 
 
 
@@ -168,9 +168,9 @@ Semua Ciri
 
 <div class="hx:mt-6"></div>
 
-{{< hextra/section-headline >}}
+{{< ls-section-headline >}}
 Reka Bentuk Intuitif
-{{< /hextra/section-headline >}}
+{{< /ls-section-headline >}}
 
 <div class="hx:mt-6"></div>
 
@@ -178,7 +178,7 @@ Reka Bentuk Intuitif
 
 {{< cards cols="4">}}
 
-  {{< design-feature-card 
+  {{< ls-design-feature-card 
     image="/products/evervideo/screenshots/2880x1800/1.png" 
     title="Pemain Video" 
     method="Fill"
@@ -187,7 +187,7 @@ Reka Bentuk Intuitif
     icon="play"
   >}}
 
-  {{< design-feature-card 
+  {{< ls-design-feature-card 
     image="/products/evervideo/screenshots/2880x1800/3.png" 
     title="Penyama Audio & Video" 
     method="Fill"
@@ -196,7 +196,7 @@ Reka Bentuk Intuitif
     icon="adjustments"
   >}}
 
-  {{< design-feature-card 
+  {{< ls-design-feature-card 
     image="/products/evervideo/screenshots/2880x1800/6.png" 
     title="Pengurus Senarai Main" 
     method="Fill"
@@ -205,7 +205,7 @@ Reka Bentuk Intuitif
     icon="collection"
   >}}
 
-  {{< design-feature-card 
+  {{< ls-design-feature-card 
     image="/products/evervideo/screenshots/2880x1800/5.png" 
     title="Perpustakaan Media" 
     method="Fill"
@@ -214,7 +214,7 @@ Reka Bentuk Intuitif
     icon="library"
   >}}
 
-  {{< design-feature-card 
+  {{< ls-design-feature-card 
     image="/products/evervideo/screenshots/2880x1800/7.png"  
     title="Storan Awan" 
     method="Fill"
@@ -223,7 +223,7 @@ Reka Bentuk Intuitif
     icon="cloud"
   >}}
 
-  {{< design-feature-card 
+  {{< ls-design-feature-card 
     image="/products/evervideo/screenshots/2880x1800/9.png"  
     title="Pengurus Fail" 
     method="Fill"
@@ -241,49 +241,49 @@ Reka Bentuk Intuitif
 <div class="hx:mt-6"></div>
 
 <div class="hx:w-full">
-{{< appstore-reviews apps="6602897336,6743504109" stars="5,4"  app="Evervideo" >}}
+{{< ls-appstore-reviews apps="6602897336,6743504109" stars="5,4"  app="Evervideo" >}}
 </div>
 
 
 <div class="hx:mt-6"></div>
 
-{{< hextra/section-headline >}}
+{{< ls-section-headline >}}
    Pelan Harga
-{{< /hextra/section-headline >}}
+{{< /ls-section-headline >}}
 
 <div class="hx:mt-6"></div>
 
 <div class="hx:w-full">
 
-{{< pricing-plans >}}
+{{< ls-pricing-plans >}}
 
 </div>
 
 <div class="hx:mt-6"></div>
 
 <div class="hx:w-full hx:mx-auto hx:flex hx:flex-col hx:items-center">
-  {{< hextra/info-paragraph border="true" >}}
+  {{< ls-info-paragraph border="true" >}}
    <strong>Perkongsian Keluarga</strong>: Semua pembelian dan langganan menyokong Perkongsian Keluarga, membolehkan anda berkongsi akses Premium dengan keluarga anda.<br><strong>Akses Universal</strong>: Pelan seumur hidup dan langganan dikongsi antara peranti iOS dan Mac menggunakan penyegerakan iCloud.<br><strong>Harga</strong>: Harga ditunjukkan dalam dolar AS untuk Amerika Syarikat. Harga akhir mungkin berbeza berdasarkan kawasan anda.  
-  {{< /hextra/info-paragraph >}}
+  {{< /ls-info-paragraph >}}
 </div>
 
 <div class="hx:mt-6"></div>
 
 <div class="hx:w-full">
-{{< app-details heading="true" >}}
+{{< ls-app-details heading="true" >}}
 </div>
 
 <div class="hx:mt-6"></div>
 
-{{< hextra/section-headline >}}
+{{< ls-section-headline >}}
    Soalan Lazim
-{{< /hextra/section-headline >}}
+{{< /ls-section-headline >}}
 
 <div class="hx:mt-6"></div>
 
 <div class="hx:w-full">
 
-{{% details title="Bagaimana Evervideo berfungsi?" closed="true" %}}
+{{% ls-details title="Bagaimana Evervideo berfungsi?" closed="true" %}}
 Evervideo ialah pemain video HD yang membolehkan anda mengurus trek video seperti fail biasa.<br>
 Anda boleh memuat naik seluruh koleksi video anda ke perkhidmatan awan seperti Dropbox, OneDrive, iCloud, atau NAS peribadi dan memainkan video terus dari awan dengan kawalan penuh.<br><br>
 Tiada penyegerakan iTunes diperlukan—hanya muat naik dari PC atau Mac anda seperti anda lakukan dengan mana-mana fail.<br>
@@ -293,9 +293,9 @@ Terokai panduan cara kami untuk butiran lanjut:<br>
 - [Panduan Evervideo](/docs/guide/evervideo/)<br>
 - [Cara memindahkan fail tanpa wayar dari komputer ke iPhone menggunakan WiFi-Drive.](/docs/howto/how-to-transfer-files-wirelessly-from-a-computer-to-an-iphone-using-wifi-drive)<br>
 
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Adakah Evervideo Percuma?" closed="true" %}}
+{{% ls-details title="Adakah Evervideo Percuma?" closed="true" %}}
 Evervideo percuma untuk digunakan dengan beberapa had, yang boleh dikeluarkan dengan menaik taraf ke versi Premium.<br>
 Anda boleh memilih antara pembelian seumur hidup sekali atau dua pilihan langganan (bulanan atau tahunan). Harga mungkin berbeza berdasarkan kawasan anda.<br><br>
 
@@ -304,9 +304,9 @@ Perkongsian Keluarga diaktifkan untuk semua pelan, jadi anda boleh berkongsi ver
 Pembelian dan langganan Premium dikongsi merentas iOS dan Mac melalui iCloud. Untuk menyegerakkan pembelian anda, pastikan iCloud diaktifkan, buka aplikasi pada peranti iOS anda, dan tunggu seminit untuk penyegerakan selesai.<br><br>
 
 [Baca lanjut tentang perbezaan antara Evervideo dan Evervideo Premium](/docs/faq/evervideo/what-is-the-difference-between-evervideo-and-evervideo-premium/)
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Bagaimana saya menggunakan Evervideo?" closed="true" %}}
+{{% ls-details title="Bagaimana saya menggunakan Evervideo?" closed="true" %}}
 
 **Pasang Evervideo**<br>
 Muat turun dan pasang aplikasi Evervideo dari gedung aplikasi peranti anda. Ia tersedia untuk peranti iOS dan Mac.<br><br>
@@ -355,9 +355,9 @@ Anda mempunyai dua pilihan untuk menambah video ke Evervideo: penambahan manual 
 **Nikmati Video Anda**<br>
 Setelah video anda disusun, gunakan bar alat atas untuk tindakan pantas seperti **Carian**, **Main Semua**, **Kocok**, dan **Sambung Main Balik**.<br><br>
 
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Adakah Evervideo Selamat?" closed="true" %}}
+{{% ls-details title="Adakah Evervideo Selamat?" closed="true" %}}
 Evervideo hanya menggunakan SDK rasmi dan sambungan selamat untuk berinteraksi dengan perkhidmatan awan yang disambungkan. Log masuk dan kata laluan anda tidak tersedia untuk aplikasi. Semua permintaan dari aplikasi ke perkhidmatan awan disulitkan.<br>
 Apabila anda memasukkan log masuk dan kata laluan, aplikasi menunjukkan halaman kebenaran rasmi yang disediakan oleh penyedia perkhidmatan awan dan semua proses kebenaran dilakukan di luar aplikasi. Penyedia perkhidmatan awan menghantar token pengesahan ke aplikasi selepas kebenaran berjaya dan token tersebut digunakan untuk membuat panggilan API.<br><br>
 
@@ -368,22 +368,22 @@ Untuk menolak token pengesahan, log masuk ke akaun anda pada pelayar web dan nav
 
 Anda juga boleh memutuskan sambungan akaun awan yang disambungkan dalam aplikasi dan token pengesahan juga akan dibuang dari peranti anda. Jika anda membuang aplikasi dari peranti anda, semua data yang dimuat turun dan token akses juga akan dibuang.<br><br>
 
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Bagaimana saya membuat senarai main di Evervideo?" closed="true" %}}
+{{% ls-details title="Bagaimana saya membuat senarai main di Evervideo?" closed="true" %}}
 - Buka bahagian Senarai Main.<br>
 - Ketuk butang "+" atau butang "..." di penjuru kanan atas dan pilih "Senarai Main Baharu."<br>
 - Masukkan nama untuk senarai main dan ketuk "Simpan." Dialog "Tambah Fail Media" akan muncul.<br>
 - Pilih trek yang ingin anda tambahkan ke senarai main.<br><br>
 
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Apakah perkhidmatan awan yang disokong Evervideo?" closed="true" %}}
+{{% ls-details title="Apakah perkhidmatan awan yang disokong Evervideo?" closed="true" %}}
 Pada masa ini, aplikasi menyokong perkhidmatan awan yang paling popular: iCloud Drive, Google Drive, Dropbox, OneDrive, Box, MEGA, Yandex.Disk, DLNA, MediaFire, WebDAV, SMB, pCloud, Cloud Mail.ru, Put.io.<br><br>
 
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Bagaimana saya mengaktifkan mod luar talian dalam Evervideo?" closed="true" %}}
+{{% ls-details title="Bagaimana saya mengaktifkan mod luar talian dalam Evervideo?" closed="true" %}}
 - Sambung ke Storan Awan:<br>
  • Pergi ke tab "Fail".<br>
  • Pilih "Sambung ke storan awan" dan ikut arahan untuk menyambungkan perkhidmatan yang dikehendaki.<br><br>
@@ -408,9 +408,9 @@ Pada masa ini, aplikasi menyokong perkhidmatan awan yang paling popular: iCloud 
  • Untuk menyegerakkan secara manual, pergi ke "Tetapan" > "Pengurus fail" > "Folder luar talian" > "Folder luar talian yang disegerakkan."<br>
  • Ketuk "Lagi tindakan" dan pilih "Mula penyegerakan."<br><br>
 
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Bagaimana memainkan video yang Dimuat Turun secara tempatan di iPhone?" closed="true" %}}
+{{% ls-details title="Bagaimana memainkan video yang Dimuat Turun secara tempatan di iPhone?" closed="true" %}}
 Setelah anda memasang aplikasi, buka skrin "Fail" dan tatal ke bawah ke bahagian "Fail pada iPhone ini". Dari situ, pilih "Buka fail..." jika anda perlu memilih beberapa fail atau "Buka folder..." jika anda ingin memilih folder media. Aplikasi akan mengimbas kandungan folder, dan semua fail media yang ditemui akan dipilih. Navigasi ke folder media anda, ketuk "Buka" untuk mengesahkan pilihan anda, dan fail akan ditambahkan ke giliran pemain. Fail ini akan dimainkan terus dari lokasi yang dipilih tanpa disalin ke pakej aplikasi.<br><br>
 
 **Menambah Folder ke Kegemaran untuk Akses Pantas**<br>
@@ -422,13 +422,13 @@ Jika anda lebih suka menyusun fail tempatan anda dalam perpustakaan anda, buka s
 **Menambah Fail Tempatan ke Senarai Main**<br>
 Untuk menambah fail tempatan ke senarai main, buka skrin "Senarai Main" dan ketuk butang lagi di penjuru kanan atas. Pilih "+ Senarai Main Baharu," masukkan nama untuk senarai main baharu anda, dan pada skrin seterusnya, pilih pilihan "Fail pada peranti ini" dan ketuk "Buka Fail...". Pilih fail media yang ingin anda tambahkan dan ketuk "Buka" untuk mengesahkan. Fail akan ditambahkan ke senarai main anda, di mana anda boleh menukar susunan trek dan melakukan tindakan lain menggunakan butang lagi.<br><br>
 
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Bagaimana saya menyambung semula senarai main dari tempat saya berhenti?" closed="true" %}}
+{{% ls-details title="Bagaimana saya menyambung semula senarai main dari tempat saya berhenti?" closed="true" %}}
 Pertama, pastikan "Simpan Keadaan Pemain Media" diaktifkan dalam Tetapan > Pemain Media > Umum. Apabila anda beralih ke senarai main lain dan kembali, anda akan melihat empat tindakan pada bar alat atas di bawah karya seni album: "Carian," "Sambung Main Balik," "Main Semua," dan "Kocok Semua." Ketuk "Sambung Main Balik" untuk menyambung semula senarai main dari keadaan terakhir yang disimpan dan kedudukan media.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Bagaimana saya memindahkan video ke Evervideo dari komputer saya?" closed="true" %}}
+{{% ls-details title="Bagaimana saya memindahkan video ke Evervideo dari komputer saya?" closed="true" %}}
 Anda boleh menyambungkan komputer atau NAS peribadi anda menggunakan protokol SMB, WebDAV, atau DLNA. Sebagai alternatif, gunakan Perkongsian Fail iTunes untuk memindahkan fail media.<br><br>
 
 Untuk menyambungkan komputer menggunakan protokol SMB ketuk "Fail" "Sambung ke storan awan" → SMB. Masukkan alamat IP komputer dan nama folder kongsi dalam medan URL menggunakan format smb://alamat-ip-komputer/nama-folder-kongsi, masukkan log masuk dan kata laluan dan ketuk "Selesai". Jika sambungan anda berjaya, anda akan melihat storan yang disambungkan dalam bahagian "Storan awan".<br><br>
@@ -447,9 +447,9 @@ Perkongsian Fail iTunes ialah teknologi lain yang membolehkan anda memindahkan f
 Arahan terperinci tersedia di sini:<br>
 [Cara memainkan fail tempatan (fail iTunes) di iPhone saya](/docs/howto/how-to-play-local-itunes-files-on-my-iphone)<br><br>
 
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Bagaimana memuat turun video?" closed="true" %}}
+{{% ls-details title="Bagaimana memuat turun video?" closed="true" %}}
 Sebelum anda boleh memuat turun video dan menontonnya luar talian, anda perlu menyambungkan storan awan.<br>
 Hanya buka skrin "Fail" dan sambungkan storan awan anda.<br>
 Setelah anda menambahkannya, anda boleh memuat turun video anda dari awan.<br><br>
@@ -465,14 +465,14 @@ Setelah anda menambahkannya, anda boleh memuat turun video anda dari awan.<br><b
 – Ketuk kotak semak "Mod luar talian"<br>
 – Artis/Album/Senarai Main Luar Talian akan muncul dalam bahagian "Fail" -> "Folder luar talian".<br><br>
 
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Apakah format audio yang disokong Evervideo?" closed="true" %}}
+{{% ls-details title="Apakah format audio yang disokong Evervideo?" closed="true" %}}
 Aplikasi ini menyokong **kodek audio sistem** lalai dan **kodek perisian ffmpeg** tambahan:<br><br>
 3g2, 3gp, 3gp2, 3gpp, 8svx, aa, aac, aax, ac3, act, adt, adts, aif, aifc, aiff, alac, amr, amv, ape, asf, au, avi, awb, caf, cavs, cdda, cue, dct, dff, drc, dsf, dss, dvf, "dvr-ms", ec3, f4a, f4b, f4p, f4v, flac, flv, gif, gifv, gsm, gxf, h261, h263, h264, ifv, iklax, ivf, ivs, l16, latm, loas, m2t, m2ts, m2v, m3u, m3u8, m4a, m4b, m4p, m4r, m4v, mka, mkv, mmf, mng, mod, mogg, mov, mp1, mp2, mp3, mp4, mp4v, mpa, mpc, mpe, mpeg, mpg, mpv, msv, mts, mxf, nsf, nsv, nut, oga, ogg, ogv, opus, pcm, pls, qt, ra, raw, rm, rmvb, roq, rv, sln, snd, svi, tod, tta, vob, voc, vox, vtt, w64, wav, wave, webm, wma, wmv, wv, xhe, xmv, y4m, yuv.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Adakah Evervideo berfungsi dengan peranti NAS?" closed="true" %}}
+{{% ls-details title="Adakah Evervideo berfungsi dengan peranti NAS?" closed="true" %}}
 
 Ya, Evervideo menyokong sambungan NAS menggunakan protokol **SMB**, **WebDAV**, dan **DLNA**.<br><br>
 
@@ -496,9 +496,9 @@ Jika sambungan berjaya, anda akan melihat NAS anda dalam bahagian **Storan awan*
 • Menunjukkan semua peranti NAS yang boleh ditemui pada rangkaian tempatan anda.<br>
 • Ketuk nama peranti untuk menyambung, kemudian masukkan kelayakan log masuk jika diperlukan.<br><br>
 
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Bagaimana saya menggunakan ciri Wi-Fi Drive dalam Evervideo?" closed="true" %}}
+{{% ls-details title="Bagaimana saya menggunakan ciri Wi-Fi Drive dalam Evervideo?" closed="true" %}}
 
 **Pemindahan tanpa wayar menggunakan pelayar desktop**<br>
 1. Lancarkan aplikasi: Buka Evervideo.<br>
@@ -523,39 +523,39 @@ Nota: Pastikan JavaScript diaktifkan dan anda menggunakan versi pelayar terkini 
 
 [Baca lanjut](/docs/howto/how-to-transfer-files-wirelessly-from-a-computer-to-an-iphone-using-wifi-drive)
 
-{{% /details %}}
+{{% /ls-details %}}
 
 </div>
 
 
 <div class="hx:mt-6"></div>
 
-{{< hextra/section-headline >}}
+{{< ls-section-headline >}}
   Panduan Pengguna
-{{< /hextra/section-headline >}}
+{{< /ls-section-headline >}}
 
 <div class="hx:mt-6"></div>
 
 <div class="hx:w-full">
 
 <div class="hx:w-full hx:mx-auto hx:flex hx:flex-col hx:items-center hx:text-center">
-  {{< hextra/info-paragraph border="false" >}}
+  {{< ls-info-paragraph border="false" >}}
   Panduan ini akan membantu anda memanfaatkan Evervideo sepenuhnya pada iPhone, iPad atau Mac anda. Pelajari cara menstrim video daripada storan awan dan NAS, menggunakan Gambar dalam Gambar, menguruskan sari kata, dan menala penyama audio dan video. Evervideo memberi anda kawalan penuh ke atas keseluruhan koleksi video anda — dari mana-mana sumber — dalam satu aplikasi mudah.
-  {{< /hextra/info-paragraph >}}
+  {{< /ls-info-paragraph >}}
 </div>
 
 {{< cards >}}
-  {{< feature-card icon="location-marker" title="Navigasi" subtitle="Pelajari cara menavigasi Evervideo menggunakan Bar Tab pada iPhone atau Menu Kiri pada iPad dan Mac, serta pemain video padat yang sentiasa kelihatan pada skrin." link="/docs/guide/evervideo/evervideo-guide-navigation" >}}
+  {{< ls-feature-card icon="location-marker" title="Navigasi" subtitle="Pelajari cara menavigasi Evervideo menggunakan Bar Tab pada iPhone atau Menu Kiri pada iPad dan Mac, serta pemain video padat yang sentiasa kelihatan pada skrin." link="/docs/guide/evervideo/evervideo-guide-navigation" >}}
 
-  {{< feature-card icon="folder" title="Fail" subtitle="Sambungkan akaun awan, perkongsian NAS, pelayan media (Plex, Jellyfin, Emby, Subsonic, Navidrome), strim RTSP dan fail tempatan dalam satu tab bersepadu." link="/docs/guide/evervideo/evervideo-guide-files" >}}
+  {{< ls-feature-card icon="folder" title="Fail" subtitle="Sambungkan akaun awan, perkongsian NAS, pelayan media (Plex, Jellyfin, Emby, Subsonic, Navidrome), strim RTSP dan fail tempatan dalam satu tab bersepadu." link="/docs/guide/evervideo/evervideo-guide-files" >}}
 
-  {{< feature-card icon="library" title="Pustaka Media" subtitle="Susun dan terokai video serta muzik anda mengikut Album, Genre, Terkini dan Kegemaran — termasuk pustaka Foto iOS dan pustaka Apple Music." link="/docs/guide/evervideo/evervideo-guide-video-library" >}}
+  {{< ls-feature-card icon="library" title="Pustaka Media" subtitle="Susun dan terokai video serta muzik anda mengikut Album, Genre, Terkini dan Kegemaran — termasuk pustaka Foto iOS dan pustaka Apple Music." link="/docs/guide/evervideo/evervideo-guide-video-library" >}}
 
-  {{< feature-card icon="collection" title="Senarai Main" subtitle="Cipta dan susun senarai main untuk video, muzik, siri atau kursus dan import fail M3U / M3U8 / CUE." link="/docs/guide/evervideo/evervideo-guide-playlists" >}}
+  {{< ls-feature-card icon="collection" title="Senarai Main" subtitle="Cipta dan susun senarai main untuk video, muzik, siri atau kursus dan import fail M3U / M3U8 / CUE." link="/docs/guide/evervideo/evervideo-guide-playlists" >}}
 
-  {{< feature-card icon="play" title="Pemain Media" subtitle="Kawal main balik, baris gilir, Gambar dalam Gambar, trek audio dan video, sari kata utama dan sekunder serta penyama audio dan video." link="/docs/guide/evervideo/evervideo-guide-player" >}}
+  {{< ls-feature-card icon="play" title="Pemain Media" subtitle="Kawal main balik, baris gilir, Gambar dalam Gambar, trek audio dan video, sari kata utama dan sekunder serta penyama audio dan video." link="/docs/guide/evervideo/evervideo-guide-player" >}}
 
-  {{< feature-card icon="adjustments" title="Tetapan" subtitle="Sesuaikan rupa, penyahkod, penyama, sari kata, widget, bahasa, kod laluan, sandaran dan tetapan prestasi Evervideo." link="/docs/guide/evervideo/evervideo-guide-settings" >}}
+  {{< ls-feature-card icon="adjustments" title="Tetapan" subtitle="Sesuaikan rupa, penyahkod, penyama, sari kata, widget, bahasa, kod laluan, sandaran dan tetapan prestasi Evervideo." link="/docs/guide/evervideo/evervideo-guide-settings" >}}
 
 {{< /cards >}}
 

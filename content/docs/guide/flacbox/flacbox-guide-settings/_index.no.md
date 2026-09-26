@@ -21,7 +21,7 @@ readingTime: 16
 Innstillingsskjermen er kontrollsenteret til Flacbox. Herfra kan du oppgradere til Premium, konfigurere lydmotoren (systemkodeker eller FFmpeg), administrere musikkbiblioteket ditt, sette opp filbehandleren, tilpasse lydtagger-editoren, aktivere hjemskjerm-widgets og Apple CarPlay, sikkerhetskopiere dataene dine, og få tilgang til hjelp og juridisk informasjon. Seksjoner er gruppert under overskrifter: Kjøp og oppdateringer, App-preferanser, Hjelp, og Juridisk og personvern.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox Innstillinger Hovedskjerm" image="/docs/guide/flacbox/img/settings-main.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox Innstillinger Hovedskjerm" image="/docs/guide/flacbox/img/settings-main.webp" >}}
 {{< /cards >}}
 
 ## Oppgrader til Premium
@@ -29,13 +29,13 @@ Innstillingsskjermen er kontrollsenteret til Flacbox. Herfra kan du oppgradere t
 Oppgrader applikasjonen til Premium-versjonen for å fjerne alle begrensninger. Den gratis versjonen av applikasjonen tilbyr et engangs livstids app-kjøp og to abonnementsalternativer (1 måned og 1 år) for å fjerne alle begrensninger og oppgradere til Premium.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox Oppgrader til Premium" image="/docs/guide/flacbox/img/upgrade-to-premium.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox Oppgrader til Premium" image="/docs/guide/flacbox/img/upgrade-to-premium.webp" >}}
 {{< /cards >}}
 
 **Familiedeling** er aktivert for alle kjøp og planer, slik at du kan dele Premium-versjonen med opptil fem familiemedlemmer uten ekstra kostnad.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox Velg en Premium-plan" image="/docs/guide/flacbox/img/select-premium-plan.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox Velg en Premium-plan" image="/docs/guide/flacbox/img/select-premium-plan.webp" >}}
 {{< /cards >}}
 
 Du kan lese mer om kjøp og Premium-versjonen her: [Hva er forskjellen mellom Flacbox og Flacbox Premium](/docs/faq/flacbox/what-is-the-difference-between-flacbox-and-flacbox-premium/).

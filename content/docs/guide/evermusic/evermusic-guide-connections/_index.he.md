@@ -17,7 +17,7 @@ readingTime: 11
 המסך מחולק לסעיפים ממותגים בבירור כדי שיתרחב מחשבון iCloud Drive יחיד לספרייה המפוזרת על פני ענני NAS מרובים: גישה מהירה בראש (תיקיות הענן המועדפות שלך), אחסון ענן (החשבונות שהוספת), רשת מקומית (מכשירים שנתגלו על ידי Bonjour), מחשב (Wi-Fi Drive, iTunes File Sharing, SMB), אביזרים חיצוניים (כוננוני USB מחוברים) ושירותים אחרים (Last.fm ודומיהם).
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="מסך החיבורים של Evermusic" image="/docs/guide/evermusic/evermusic-guide-connections/img/connect-main.webp" >}}
+  {{< ls-card title="" subtitle="מסך החיבורים של Evermusic" image="/docs/guide/evermusic/evermusic-guide-connections/img/connect-main.webp" >}}
 {{< /cards >}}
 
 ## חיבור לאחסון ענן
@@ -29,7 +29,7 @@ readingTime: 11
 - הקש בוצע.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="בורר ספק אחסון ענן" image="/docs/guide/evermusic/evermusic-guide-connections/img/connect-add-storage.webp" >}}
+  {{< ls-card title="" subtitle="בורר ספק אחסון ענן" image="/docs/guide/evermusic/evermusic-guide-connections/img/connect-add-storage.webp" >}}
 {{< /cards >}}
 
 אם אתה נתקל בבעיות, בדוק את חיבור האינטרנט ואישורי הכניסה שלך, וודא שאימות דו-שלבי מוגדר כהלכה עבור אותו שירות.  
@@ -70,7 +70,7 @@ Evermusic תומך בקו המלא של שירותי ענן פופולריים �
   - **לנתק**: אם ברצונך לנתק לחלוטין את הקשר בין האפליקציה לשירות הענן, בחר 'לנתק'. שים לב שבחירה באפשרות זו תסיר את כל השירים הקשורים לשירות ענן זה מספריית המוזיקה של האפליקציה, אך הם יישארו בשרת.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="תפריט עוד פעולות עבור אחסון ענן מחובר" image="/docs/guide/evermusic/evermusic-guide-connections/img/connect-storage-more-actions.webp" >}}
+  {{< ls-card title="" subtitle="תפריט עוד פעולות עבור אחסון ענן מחובר" image="/docs/guide/evermusic/evermusic-guide-connections/img/connect-storage-more-actions.webp" >}}
 {{< /cards >}}
 
 ## חיבור למחשב או NAS
@@ -89,7 +89,7 @@ Evermusic תומך בקו המלא של שירותי ענן פופולריים �
 מדריך מלא על כיצד לחבר את ה-Mac או PC שלך באמצעות SMB זמין [כאן](/docs/howto/stream-your-music-from-mac-or-pc-to-iphone-using-smb/).
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="הגדרות חיבור SMB" image="/docs/guide/evermusic/evermusic-guide-connections/img/connect-smb-settings.webp" >}}
+  {{< ls-card title="" subtitle="הגדרות חיבור SMB" image="/docs/guide/evermusic/evermusic-guide-connections/img/connect-smb-settings.webp" >}}
 {{< /cards >}}
 
 ## חיבור ל-NAS באמצעות WebDAV
@@ -99,7 +99,7 @@ Evermusic תומך בקו המלא של שירותי ענן פופולריים �
 מדריך מלא על כיצד לחבר NAS באמצעות פרוטוקול WebDAV זמין [כאן](/docs/howto/how-to-connect-nas-storage-using-webdav-and-listen-to-music-on-your-iphone-or-mac).
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="הגדרות חיבור WebDAV" image="/docs/guide/evermusic/evermusic-guide-connections/img/connect-webdav-settings.webp" >}}
+  {{< ls-card title="" subtitle="הגדרות חיבור WebDAV" image="/docs/guide/evermusic/evermusic-guide-connections/img/connect-webdav-settings.webp" >}}
 {{< /cards >}}
 
 ## חיבור למחשב או NAS באמצעות DLNA
@@ -107,7 +107,7 @@ Evermusic תומך בקו המלא של שירותי ענן פופולריים �
 אתה יכול גם לשתף ספריית מוזיקה הנמצאת ב-PC Windows שלך או NAS אישי באמצעות פרוטוקול DLNA ולגשת לספרייה זו באפליקציה כמתואר [כאן](/docs/howto/how-to-enable-dlna-media-server-on-windows-10-and-play-your-music-on-iphone). DLNA הוא פרוטוקול פופולרי ונפוץ, אך הוא מאפשר לך רק לנגן או להוריד מוזיקה. אינך יכול להעלות קבצים או ליצור תיקיות חדשות בשרת.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="הגדרות חיבור DLNA" image="/docs/guide/evermusic/evermusic-guide-connections/img/connect-dlna-settings.webp" >}}
+  {{< ls-card title="" subtitle="הגדרות חיבור DLNA" image="/docs/guide/evermusic/evermusic-guide-connections/img/connect-dlna-settings.webp" >}}
 {{< /cards >}}
 
 ## מכשירים זמינים
@@ -120,7 +120,7 @@ Evermusic תומך בקו המלא של שירותי ענן פופולריים �
 - אם נדרש, הזן את פרטי הכניסה שלך להשלמת החיבור.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="מכשירים זמינים ברשת המקומית" image="/docs/guide/evermusic/evermusic-guide-connections/img/connect-available-devices.webp" >}}
+  {{< ls-card title="" subtitle="מכשירים זמינים ברשת המקומית" image="/docs/guide/evermusic/evermusic-guide-connections/img/connect-available-devices.webp" >}}
 {{< /cards >}}
 
 ## Wi-Fi Drive
@@ -146,7 +146,7 @@ Wi-Fi Drive היא טכנולוגיה נוחה המאפשרת העברות קב�
 הקבצים שאתה גורר ומשחרר יתחילו להועבר למכשיר ה-iOS שלך ויהיו נגישים בתוך האפליקציה.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="הגדרות שרת Wi-Fi Drive" image="/docs/guide/evermusic/evermusic-guide-connections/img/connect-wifidrive-settings.webp" >}}
+  {{< ls-card title="" subtitle="הגדרות שרת Wi-Fi Drive" image="/docs/guide/evermusic/evermusic-guide-connections/img/connect-wifidrive-settings.webp" >}}
 {{< /cards >}}
 
 הוראות מפורטות על כיצד להעביר קבצים באופן אלחוטי באמצעות WiFi-Drive זמינות [כאן](/docs/howto/how-to-transfer-files-wirelessly-from-a-computer-to-an-iphone-using-wifi-drive).
@@ -162,7 +162,7 @@ iTunes File Sharing היא טכנולוגיה נוספת המאפשרת לך ל�
 הוראות מפורטות על שימוש ב-iTunes file sharing זמינות [כאן](/docs/howto/how-to-play-local-itunes-files-on-my-iphone/).
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="iTunes / Finder File Sharing ב-Mac" image="/docs/guide/evermusic/evermusic-guide-connections/img/connect-itunes-file-sharing.webp" >}}
+  {{< ls-card title="" subtitle="iTunes / Finder File Sharing ב-Mac" image="/docs/guide/evermusic/evermusic-guide-connections/img/connect-itunes-file-sharing.webp" >}}
 {{< /cards >}}
 
 ## חיבור כונן USB
@@ -183,7 +183,7 @@ iTunes File Sharing היא טכנולוגיה נוספת המאפשרת לך ל�
 - **נגן באקראי**: דומה ל"נגן הכל", פעולה זו סורקת את התיקייה הנוכחית ותת-תיקיותיה אך מערבבת את הקבצים לפני הוספתם לתור נגן השמע. זוהי דרך מצוינת ליהנות מהמוזיקה שלך בסדר אקראי לגיוון.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="סרגל הכלים העליון בתוך תיקיית ענן" image="/docs/guide/evermusic/evermusic-guide-connections/img/connect-top-toolbar.webp" >}}
+  {{< ls-card title="" subtitle="סרגל הכלים העליון בתוך תיקיית ענן" image="/docs/guide/evermusic/evermusic-guide-connections/img/connect-top-toolbar.webp" >}}
 {{< /cards >}}
 
 ## אפשרויות תיקייה
@@ -200,7 +200,7 @@ iTunes File Sharing היא טכנולוגיה נוספת המאפשרת לך ל�
 - **תצוגת רשת/רשימה**: עבור בין שני מצבי תצוגה: תצוגת טבלה ותצוגת ממוזערות. תצוגת הטבלה מציגה קבצים ברשימה, בעוד שתצוגת הממוזערות מציגה ייצוגים חזותיים של הקבצים, מה שמקל על זיהוי תוכן במבט חטוף.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="תפריט עוד פעולות עבור התיקייה הנוכחית" image="/docs/guide/evermusic/evermusic-guide-connections/img/connect-folder-options.webp" >}}
+  {{< ls-card title="" subtitle="תפריט עוד פעולות עבור התיקייה הנוכחית" image="/docs/guide/evermusic/evermusic-guide-connections/img/connect-folder-options.webp" >}}
 {{< /cards >}}
 
 ## עריכת קבצים מקוונים
@@ -212,7 +212,7 @@ iTunes File Sharing היא טכנולוגיה נוספת המאפשרת לך ל�
 - **בצע פעולות שונות**: לאחר שבחרת את הקבצים או התיקיות שברצונך לנהל, תהיה לך גישה למספר פעולות המותאמות לצרכיך.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="מצב בחירה עבור קבצים מקוונים" image="/docs/guide/evermusic/evermusic-guide-connections/img/connect-selection-mode.webp" >}}
+  {{< ls-card title="" subtitle="מצב בחירה עבור קבצים מקוונים" image="/docs/guide/evermusic/evermusic-guide-connections/img/connect-selection-mode.webp" >}}
 {{< /cards >}}
 
 ## פעולות קובץ
@@ -233,7 +233,7 @@ iTunes File Sharing היא טכנולוגיה נוספת המאפשרת לך ל�
 - **למחוק**: היזהר עם פעולה זו, מכיוון שהיא מסירה לצמיתות את הקובץ מאחסון הענן שלך. מחיקה זו אינה ניתנת לביטול.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="תפריט עוד פעולות עבור קובץ יחיד" image="/docs/guide/evermusic/evermusic-guide-connections/img/connect-single-folder-more-options.webp" >}}
+  {{< ls-card title="" subtitle="תפריט עוד פעולות עבור קובץ יחיד" image="/docs/guide/evermusic/evermusic-guide-connections/img/connect-single-folder-more-options.webp" >}}
 {{< /cards >}}
 
 אם רשימת הפעולות חורגת ממרחב המסך הזמין, פשוט גלול למטה בתפריט הפעולות כדי לגשת לאפשרויות נוספות.

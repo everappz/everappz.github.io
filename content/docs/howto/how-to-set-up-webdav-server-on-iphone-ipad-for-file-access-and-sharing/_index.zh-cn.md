@@ -7,7 +7,7 @@ keywords: ["iPhone WebDAV 服务器", "iPad WebDAV 服务器", "如何在 iPhone
 readingTime: 9
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 WebDAV 把一个文件夹变成网络硬盘，让电脑能在其常规的文件管理器中打开它。它运行在与你浏览器所用相同的网络协议之上，这正是它能在 Mac、Windows 和 Linux 之间通行无阻、无需特殊驱动的原因。有了 [Everdisk](/products/everdisk)，你可以在 iPhone 或 iPad 上运行一个 WebDAV 服务器，这样手机就会作为一块硬盘出现，让你几乎从任何电脑浏览、从中复制、以及往里复制。
 
@@ -104,40 +104,40 @@ iOS 的「文件」应用不包含 WebDAV 客户端，所以请用下面这两�
 
 ## 常见问题
 
-{{% details title="我 iPhone 的 WebDAV 地址和端口是什么？" closed="true" %}}
+{{% ls-details title="我 iPhone 的 WebDAV 地址和端口是什么？" closed="true" %}}
 在你开始共享后，Everdisk 会在共享界面上显示地址。它看起来像 http://192.168.1.20:8080。其中 8080 是 Everdisk 用于 WebDAV 的端口，第一部分是你 iPhone 在 Wi-Fi 上的地址，所以你的会不一样。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="如何从 Windows 连接到我 iPhone 的 WebDAV？" closed="true" %}}
+{{% ls-details title="如何从 Windows 连接到我 iPhone 的 WebDAV？" closed="true" %}}
 打开文件资源管理器，右键点击此电脑，选择添加网络位置或映射网络驱动器。输入 Everdisk 中的 WebDAV 地址，例如 http://192.168.1.20:8080，如果你设置了登录就输入它。如果 Windows 无法连接，请确保 WebClient 服务正在运行 (搜索「服务」，找到 WebClient，启动它)，然后重试。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="我能在两部 iPhone 之间使用 WebDAV 吗？" closed="true" %}}
+{{% ls-details title="我能在两部 iPhone 之间使用 WebDAV 吗？" closed="true" %}}
 可以，但 iOS 的「文件」应用没有 WebDAV 客户端，所以请在第二台设备上使用 Everdisk。打开设备标签页，点击新建连接，选择 WebDAV，然后输入第一部手机上显示的地址。像 Documents by Readdle 这样的 WebDAV 应用也可以。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="WebDAV 需要密码吗？" closed="true" %}}
+{{% ls-details title="WebDAV 需要密码吗？" closed="true" %}}
 不需要，登录是可选的。在设置、共享、访问中把登录名和密码留空即可实现访客访问，或者如果你想让连接方登录就设置它们。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="别人能通过 WebDAV 更改我的文件吗？" closed="true" %}}
+{{% ls-details title="别人能通过 WebDAV 更改我的文件吗？" closed="true" %}}
 只有在你允许的情况下才行。设置、共享、访问中的文件编辑开关控制这一点。开启让已连接的设备可以上传、重命名和删除。关闭让硬盘变为只读，其他人可以查看和复制，但不能更改任何东西。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="WebDAV 还是 SMB，有什么区别？" closed="true" %}}
+{{% ls-details title="WebDAV 还是 SMB，有什么区别？" closed="true" %}}
 两者都会把你的 iPhone 挂载为网络硬盘。WebDAV 运行在网络协议之上，能从 Windows 文件资源管理器干净地连接，这是它的主要优势。SMB 是 Mac、Linux 和 NAS 设备上的原生文件共享方式，在 Mac 上通常更快，而且是 Everdisk 中唯一能给传输加密的连接。Everdisk 可以同时运行两者。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="为什么我的 WebDAV 硬盘会断开？" closed="true" %}}
+{{% ls-details title="为什么我的 WebDAV 硬盘会断开？" closed="true" %}}
 你的 iPhone 是服务器，而 iOS 会暂停在后台停留太久的应用。有设备连接时让 Everdisk 保持在屏幕上打开，长时间传输时接上电源。也要确认两台设备仍在同一个 Wi-Fi 上。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="没有 Wi-Fi 我能通过 WebDAV 连接吗？" closed="true" %}}
+{{% ls-details title="没有 Wi-Fi 我能通过 WebDAV 连接吗？" closed="true" %}}
 可以，如果你用数据线把 iPhone 插到 Mac 上。Everdisk 随后会显示一个额外的数据线连接地址，相连的 Mac 可以在 Finder 中打开它，这即使完全没有 Wi-Fi 也能用。通过数据线，只有那台 Mac 能访问到设备。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Everdisk 免费吗？" closed="true" %}}
+{{% ls-details title="Everdisk 免费吗？" closed="true" %}}
 是的，Everdisk 可免费下载，且已包含 WebDAV 服务器。可选的一次性 Premium 购买会增加一些额外功能，比如自定义端口以及照片和视频转换。你无需付费就能设置 WebDAV 并共享文件。
-{{% /details %}}
+{{% /ls-details %}}
 
 想试试吗？[从 App Store 下载 Everdisk](https://apps.apple.com/app/apple-store/id6751851132?pt=95781850&ct=everappzcom&mt=8)，几分钟内就能把你的 iPhone 挂载为一块硬盘。有疑问或反馈？发邮件给我们：**support@everappz.com**。

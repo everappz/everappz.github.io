@@ -21,7 +21,7 @@ Na ovom zaslonu možete pristupiti postavkama aplikacije i nadograditi je na Pre
 - **Pravno i privatnost** — Uvjeti, Politika privatnosti, Pravne napomene, Analitika i prikupljanje podataka
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Zaslon Postavki u Evertagu" image="/docs/guide/evertag/img/settings.webp" >}}
+  {{< ls-card title="" subtitle="Zaslon Postavki u Evertagu" image="/docs/guide/evertag/img/settings.webp" >}}
 {{< /cards >}}
 
 ## Nadogradnja na Premium
@@ -63,7 +63,7 @@ Aktivira zaslon zaštite lozinkom ako želite zaštititi podatke aplikacije.
 Upravitelj datoteka podržava pristup povezanim računima pohrane u oblaku i nudi skupne operacije za brzo upravljanje više datoteka.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Zaslon Upravitelja datoteka u Postavkama Evertaga" image="/docs/guide/evertag/img/settings-file-manager.webp" >}}
+  {{< ls-card title="" subtitle="Zaslon Upravitelja datoteka u Postavkama Evertaga" image="/docs/guide/evertag/img/settings-file-manager.webp" >}}
 {{< /cards >}}
 
 ### Prijenosi datoteka
@@ -103,7 +103,7 @@ Očistite mapu predmemorije aplikacije za povrat prostora za pohranu.
 U ovom odjeljku možete konfigurirati ugrađeni uređivač audio oznaka.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Zaslon Uređivača oznaka u Postavkama Evertaga" image="/docs/guide/evertag/img/settings-tag-editor.webp" >}}
+  {{< ls-card title="" subtitle="Zaslon Uređivača oznaka u Postavkama Evertaga" image="/docs/guide/evertag/img/settings-tag-editor.webp" >}}
 {{< /cards >}}
 
 ### Skaliranje naslovnice albuma
@@ -136,7 +136,7 @@ U ovom odjeljku možete aktivirati funkciju WiFi Drive, koja vam omogućuje prij
 U ovom odjeljku možete prilagoditi postavke korisničkog sučelja prema vlastitim preferencijama.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Zaslon Personalizacije u Postavkama Evertaga" image="/docs/guide/evertag/img/settings-personalization.webp" >}}
+  {{< ls-card title="" subtitle="Zaslon Personalizacije u Postavkama Evertaga" image="/docs/guide/evertag/img/settings-personalization.webp" >}}
 {{< /cards >}}
 
 ### Ikona aplikacije

@@ -16,7 +16,7 @@ readingTime: 3
 Evertag nudi intuitivno korisničko sučelje. Ono što ga razlikuje od mnogih popularnih aplikacija je ugrađeni upravitelj datoteka, koji korisnicima daje snagu uređivanja audio datoteka i njihovog besprijekornog prenošenja s pohrane u oblaku i na nju.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Zaslon Evertaga" image="/docs/guide/evertag/img/tag-editor.webp" >}}
+  {{< ls-card title="" subtitle="Zaslon Evertaga" image="/docs/guide/evertag/img/tag-editor.webp" >}}
 {{< /cards >}}
 
 ## Odjeljci
@@ -42,7 +42,7 @@ Odjeljak Lokalne datoteke podijeljen je u dvije kategorije: **Datoteke u ovoj ap
 Praktično svaka stavka sadržaja na zaslonu ima gumb "Više radnji". Tapnite ga za pristup svim dostupnim akcijama.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Više radnji u Evertagu" image="/docs/guide/evertag/img/downloads-file-actions.webp" >}}
+  {{< ls-card title="" subtitle="Više radnji u Evertagu" image="/docs/guide/evertag/img/downloads-file-actions.webp" >}}
 {{< /cards >}}
 
 ## Gornja alatna traka

@@ -71,20 +71,20 @@ Esta guía te lleva por cada parte de Flacbox en iPhone, iPad y Mac.
 
 {{< cards cols="2">}}
 
-{{< card icon="map" link="/docs/guide/flacbox/flacbox-guide-navigation" title="Navegación" subtitle="Barra de pestañas en iPhone, menú izquierdo en iPad y Mac, mini reproductor, widgets, CarPlay." >}}
+{{< ls-card icon="map" link="/docs/guide/flacbox/flacbox-guide-navigation" title="Navegación" subtitle="Barra de pestañas en iPhone, menú izquierdo en iPad y Mac, mini reproductor, widgets, CarPlay." >}}
 
-{{< card icon="cloud" link="/docs/guide/flacbox/flacbox-guide-connections" title="Conexiones" subtitle="iCloud, Google Drive, Dropbox, OneDrive, NAS, WebDAV, SMB, DLNA." >}}
+{{< ls-card icon="cloud" link="/docs/guide/flacbox/flacbox-guide-connections" title="Conexiones" subtitle="iCloud, Google Drive, Dropbox, OneDrive, NAS, WebDAV, SMB, DLNA." >}}
 
-{{< card icon="collection" link="/docs/guide/flacbox/flacbox-guide-music-library" title="Biblioteca Musical" subtitle="Canciones, Álbumes, Artistas, Géneros, Compositores — sincronizar, buscar, editar metadatos." >}}
+{{< ls-card icon="collection" link="/docs/guide/flacbox/flacbox-guide-music-library" title="Biblioteca Musical" subtitle="Canciones, Álbumes, Artistas, Géneros, Compositores — sincronizar, buscar, editar metadatos." >}}
 
-{{< card icon="music-note" link="/docs/guide/flacbox/flacbox-guide-playlists" title="Listas de reproducción" subtitle="Crear, importar M3U / M3U8 / CUE, reordenar y exportar a M3U / CSV / TXT." >}}
+{{< ls-card icon="music-note" link="/docs/guide/flacbox/flacbox-guide-playlists" title="Listas de reproducción" subtitle="Crear, importar M3U / M3U8 / CUE, reordenar y exportar a M3U / CSV / TXT." >}}
 
-{{< card icon="folder" link="/docs/guide/flacbox/flacbox-guide-local-files" title="Archivos Locales" subtitle="Música offline, unidades USB, Wi-Fi Drive, gestor de archivos, carpetas offline." >}}
+{{< ls-card icon="folder" link="/docs/guide/flacbox/flacbox-guide-local-files" title="Archivos Locales" subtitle="Música offline, unidades USB, Wi-Fi Drive, gestor de archivos, carpetas offline." >}}
 
-{{< card icon="play" link="/docs/guide/flacbox/flacbox-guide-player" title="Reproductor de Audio" subtitle="Salida hi-res, ecualizador, tono, marcadores, AirPlay, Chromecast, velocidad, temporizador de sueño." >}}
+{{< ls-card icon="play" link="/docs/guide/flacbox/flacbox-guide-player" title="Reproductor de Audio" subtitle="Salida hi-res, ecualizador, tono, marcadores, AirPlay, Chromecast, velocidad, temporizador de sueño." >}}
 
-{{< card icon="adjustments" link="/docs/guide/flacbox/flacbox-guide-settings" title="Ajustes" subtitle="Motor de audio, biblioteca, gestor de archivos, CarPlay, widgets, personalización, idioma, copia de seguridad." >}}
+{{< ls-card icon="adjustments" link="/docs/guide/flacbox/flacbox-guide-settings" title="Ajustes" subtitle="Motor de audio, biblioteca, gestor de archivos, CarPlay, widgets, personalización, idioma, copia de seguridad." >}}
 
-{{< card icon="question-mark-circle" link="/docs/faq/flacbox" title="FAQ" subtitle="Encuentra respuestas a las 50 preguntas más frecuentes sobre Flacbox." >}}
+{{< ls-card icon="question-mark-circle" link="/docs/faq/flacbox" title="FAQ" subtitle="Encuentra respuestas a las 50 preguntas más frecuentes sobre Flacbox." >}}
 
 {{< /cards >}}

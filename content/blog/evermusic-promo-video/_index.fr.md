@@ -12,7 +12,7 @@ authors:
     image: "/images/about/artem-meleshko-founder-everappz.webp"
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 ## Evermusic : le lecteur de musique cloud pour iPhone et iPad
 
@@ -22,7 +22,7 @@ Evermusic est un lecteur de musique cloud qui se connecte à votre stockage clou
 
 ## Regardez la vidéo promotionnelle
 
-{{< youtubecard id="BwD0XLgdzEE" title="Evermusic Promo Video" >}}
+{{< ls-youtubecard id="BwD0XLgdzEE" title="Evermusic Promo Video" >}}
 
 ## Fonctionnalités clés montrées dans la vidéo
 
@@ -36,14 +36,14 @@ Evermusic est un lecteur de musique cloud qui se connecte à votre stockage clou
 
 ## Questions fréquemment posées
 
-{{% details title="Qu'est-ce qu'Evermusic ?" closed="true" %}}
+{{% ls-details title="Qu'est-ce qu'Evermusic ?" closed="true" %}}
 Evermusic est un lecteur de musique cloud pour iPhone et iPad. Il se connecte aux services de stockage cloud comme Dropbox, Google Drive et OneDrive, vous permettant de streamer et de télécharger vos propres fichiers musicaux. Il prend en charge les formats FLAC, MP3, AAC, WAV et d'autres formats audio.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Evermusic est-il gratuit à télécharger ?" closed="true" %}}
+{{% ls-details title="Evermusic est-il gratuit à télécharger ?" closed="true" %}}
 Oui. Evermusic est gratuit à télécharger avec les fonctionnalités de base. Une mise à niveau Premium unique débloque l'égaliseur, le fondu enchaîné et des connexions de compte cloud supplémentaires.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Quels services cloud Evermusic prend-il en charge ?" closed="true" %}}
+{{% ls-details title="Quels services cloud Evermusic prend-il en charge ?" closed="true" %}}
 Evermusic prend en charge plus de 12 plateformes cloud, dont iCloud Drive, Dropbox, Google Drive, OneDrive, Box, MEGA, Yandex.Disk, pCloud et tout serveur utilisant les protocoles WebDAV ou SMB.
-{{% /details %}}
+{{% /ls-details %}}

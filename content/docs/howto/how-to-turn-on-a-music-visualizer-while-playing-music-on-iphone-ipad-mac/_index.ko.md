@@ -7,12 +7,12 @@ tags: ["Evermusic", "Flacbox", "비주얼라이저", "사용법", "Milkdrop", "p
 readingTime: 9
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 **간단한 답변:** [Evermusic](/products/evermusic)과 [Flacbox](/products/flacbox)는 둘 다 음악에 맞춰 움직이는 다채로운 비주얼을 그리는 전체 화면 **음악 비주얼라이저**를 갖추고 있습니다. **Now Playing** 플레이어(**⋯ 추가 작업 > 비주얼라이제이션**)에서 또는 **설정 > 비주얼라이제이션**에서 열고, 프리셋이나 **Auto**를 선택한 다음 **비주얼라이제이션 시작**을 누르세요. 비주얼라이저 화면에서 한 번 탭하면 컨트롤을 표시하거나 숨기며, **이전**과 **다음** 화살표로 모습을 바꿉니다. 잘 알려진 **Milkdrop (projectM)** 엔진을 **500개 프리셋**과 함께 사용하고, **OpenGL**로 렌더링하며, **iPhone, iPad, Mac**에서 작동합니다. 두 앱에서 단계가 동일합니다. 전체 단계는 아래에 있습니다.
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="음악 비주얼라이저: Starfield Sectors 프리셋" image="/docs/howto/how-to-turn-on-a-music-visualizer-while-playing-music-on-iphone-ipad-mac/music-visualizer-starfield-sectors-preset.webp" imageStyle="border-radius: clamp(14px, 2vw, 28px);" >}}
+{{< ls-card title="" subtitle="음악 비주얼라이저: Starfield Sectors 프리셋" image="/docs/howto/how-to-turn-on-a-music-visualizer-while-playing-music-on-iphone-ipad-mac/music-visualizer-starfield-sectors-preset.webp" imageStyle="border-radius: clamp(14px, 2vw, 28px);" >}}
 {{< /cards >}}
 
 ## 비주얼라이저란 무엇인가?
@@ -85,50 +85,50 @@ readingTime: 9
 
 ## 자주 묻는 질문
 
-{{% details title="Evermusic 또는 Flacbox에서 비주얼라이저를 어떻게 켜나요?" closed="true" %}}
+{{% ls-details title="Evermusic 또는 Flacbox에서 비주얼라이저를 어떻게 켜나요?" closed="true" %}}
 Now Playing 플레이어를 열고, ⋯ (추가 작업) 버튼을 누른 다음, 비주얼라이제이션을 선택하세요. 설정 > 비주얼라이제이션에서도 열 수 있습니다. 그런 다음 프리셋(또는 Auto)을 선택하고 비주얼라이제이션 시작을 누르세요. 두 앱에서 단계가 동일합니다.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="비주얼라이저는 무엇을 기반으로 하나요?" closed="true" %}}
+{{% ls-details title="비주얼라이저는 무엇을 기반으로 하나요?" closed="true" %}}
 Milkdrop 스타일 프리셋을 재생하는 오픈소스 projectM 엔진을 사용합니다. 이는 많은 사람들이 데스크톱 음악 플레이어에서 아는, 애니메이션되고 음악에 반응하는 비주얼입니다. Evermusic과 Flacbox 둘 다 500개 프리셋을 포함하고 OpenGL로 그립니다.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="비주얼라이저 프리셋은 몇 개인가요?" closed="true" %}}
+{{% ls-details title="비주얼라이저 프리셋은 몇 개인가요?" closed="true" %}}
 500개 프리셋입니다. 각각은 서로 다른 애니메이션 장면이며, 다음과 이전 화살표로 이동하거나, Auto 모드가 여러분을 위해 셔플하게 할 수 있습니다.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="비주얼라이저가 음악에 반응하나요?" closed="true" %}}
+{{% ls-details title="비주얼라이저가 음악에 반응하나요?" closed="true" %}}
 네. 비주얼은 재생 중인 오디오에 실시간으로 반응하므로, 모양, 색상, 움직임이 트랙의 비트와 에너지에 따라 변합니다. 로컬 파일, 클라우드 드라이브, 미디어 서버, 인터넷 라디오와 함께 작동합니다.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="비주얼라이저 프리셋을 어떻게 바꾸나요?" closed="true" %}}
+{{% ls-details title="비주얼라이저 프리셋을 어떻게 바꾸나요?" closed="true" %}}
 화면을 한 번 탭하여 컨트롤을 표시한 다음, 하단의 이전과 다음 화살표를 사용해 프리셋 사이를 이동하세요. 상단의 이름과 카운터(예: 429 / 500)가 바꿀 때 업데이트됩니다. 앱이 프리셋을 자동으로 바꾸도록 Auto 모드로 시작할 수도 있습니다.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Auto 모드란 무엇인가요?" closed="true" %}}
+{{% ls-details title="Auto 모드란 무엇인가요?" closed="true" %}}
 프리셋 선택기에서 선택하는 Auto 모드는 스스로 프리셋을 셔플하며, 30초마다 매끄러운 크로스페이드로 새로운 것으로 바꿉니다. 화면을 건드리지 않고 쇼를 즐기는 가장 쉬운 방법입니다.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="화면 컨트롤을 어떻게 숨기나요?" closed="true" %}}
+{{% ls-details title="화면 컨트롤을 어떻게 숨기나요?" closed="true" %}}
 화면을 한 번 탭하여 컨트롤을 숨기면 깔끔한 전체 화면 보기를 얻고, 다시 탭하면 되돌립니다. 컨트롤은 몇 초 후에 스스로 숨겨지기도 합니다.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="비주얼라이저가 Mac에서 작동하나요?" closed="true" %}}
+{{% ls-details title="비주얼라이저가 Mac에서 작동하나요?" closed="true" %}}
 네. Mac에서는 Evermusic과 Flacbox 둘 다 비주얼라이저를 자체 창에서 열고 네이티브 데스크톱 OpenGL로 그리므로, 큰 화면에서 같은 음악 반응형 Milkdrop 비주얼을 얻습니다.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="비주얼라이저가 iPhone과 iPad에서 작동하나요?" closed="true" %}}
+{{% ls-details title="비주얼라이저가 iPhone과 iPad에서 작동하나요?" closed="true" %}}
 네. iPhone과 iPad에서는 전체 화면으로 실행되며, Retina 디스플레이에서 매끄러운 애니메이션을 위해 OpenGL ES로 그려집니다.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="비주얼라이저가 실행되는 동안 화면이 어두워지거나 잠기나요?" closed="true" %}}
+{{% ls-details title="비주얼라이저가 실행되는 동안 화면이 어두워지거나 잠기나요?" closed="true" %}}
 아니요. 비주얼라이저가 켜져 있는 동안 앱이 화면을 깨어 있게 유지하므로, 디스플레이가 어두워지거나 잠겨서 쇼가 중단되지 않습니다.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="앱이 내가 선택한 프리셋을 기억하나요?" closed="true" %}}
+{{% ls-details title="앱이 내가 선택한 프리셋을 기억하나요?" closed="true" %}}
 네. 마지막으로 선택한 프리셋이 저장되어 프리셋 선택기에서 강조 표시되므로, 좋아하는 것으로 쉽게 돌아갈 수 있습니다.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="현재 프리셋 이름은 어디에 표시되나요?" closed="true" %}}
+{{% ls-details title="현재 프리셋 이름은 어디에 표시되나요?" closed="true" %}}
 비주얼라이저 화면의 상단 중앙에, 전체 세트 중 어떤 프리셋에 있는지 보여주는 429 / 500 같은 카운터와 함께 표시됩니다. 예시 스크린샷에서 프리셋은 Starfield Sectors입니다.
-{{% /details %}}
+{{% /ls-details %}}

@@ -14,7 +14,7 @@ authors:
     image: "/images/about/artem-meleshko-founder-everappz.webp"
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 **בקצרה:** Evermusic מנצח ב-5 מתוך 8 קטגוריות, עם 3 תיקו. הוא מציע תמיכה רחבה יותר באחסון ענן (12+ שירותים מול VOX Cloud בלבד), תכונות ספרי שמע מובנות, עורך תגיות ID3 והעברת קבצים אלחוטית. VOX מושך משתמשים שמעדיפים את הענן הקנייני שלו ועיצוב מינימליסטי.
 
@@ -34,8 +34,8 @@ authors:
 | נגישות (VoiceOver) | כן | כן | תיקו |
 
 {{< cards >}}
-  {{< card link="https://apps.apple.com/us/app/evermusic-cloud-music-player/id885367198" title="הורדת Evermusic" icon="download" tag="חינם" >}}
-  {{< card link="https://apps.apple.com/us/app/vox-mp3-flac-music-player/id916215494" title="הורדת VOX" icon="download" tag="חינם" >}}
+  {{< ls-card link="https://apps.apple.com/us/app/evermusic-cloud-music-player/id885367198" title="הורדת Evermusic" icon="download" tag="חינם" >}}
+  {{< ls-card link="https://apps.apple.com/us/app/vox-mp3-flac-music-player/id916215494" title="הורדת VOX" icon="download" tag="חינם" >}}
 {{< /cards >}}
 
 ## תמיכה באחסון ענן
@@ -107,18 +107,18 @@ Evermusic כולל מצב **Wi-Fi Drive** שמאפשר לכם להעלות או 
 
 ## שאלות נפוצות
 
-{{% details title="האם Evermusic הוא חלופה טובה ל-VOX?" closed="true" %}}
+{{% ls-details title="האם Evermusic הוא חלופה טובה ל-VOX?" closed="true" %}}
 כן. Evermusic תומך ב-12+ שירותי אחסון ענן לעומת הענן הקנייני של VOX בלבד. הוא גם מציע תכונות ספרי שמע, עריכת תגיות ID3 והעברת קבצי Wi-Fi שאין ב-VOX. Evermusic ניתן להורדה בחינם עם שדרוג Premium חד-פעמי זמין.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="האם VOX תומך ב-Dropbox או Google Drive?" closed="true" %}}
+{{% ls-details title="האם VOX תומך ב-Dropbox או Google Drive?" closed="true" %}}
 לא. VOX משתמש באחסון הענן הקנייני שלו VOX Cloud. הוא אינו מתחבר לשירותי צד שלישי כמו Dropbox, Google Drive או OneDrive. Evermusic תומך בכל אלה ועוד.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="איזו אפליקציה טובה יותר לספרי שמע: Evermusic או VOX?" closed="true" %}}
+{{% ls-details title="איזו אפליקציה טובה יותר לספרי שמע: Evermusic או VOX?" closed="true" %}}
 Evermusic טוב משמעותית יותר לספרי שמע. הוא כולל שליטה במהירות ההשמעה, שמירת מיקום אוטומטית ותמיכה בסימניות. ל-VOX אין תכונות ייעודיות לספרי שמע.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="האם ניתן לערוך תגיות מוזיקה באייפון עם Evermusic?" closed="true" %}}
+{{% ls-details title="האם ניתן לערוך תגיות מוזיקה באייפון עם Evermusic?" closed="true" %}}
 כן. Evermusic כולל עורך תגיות ID3 מובנה שמאפשר לכם לתקן כותרות רצועות, שמות אמנים, מידע על אלבומים ומטא-נתונים אחרים ישירות באייפון או באייפד שלכם.
-{{% /details %}}
+{{% /ls-details %}}

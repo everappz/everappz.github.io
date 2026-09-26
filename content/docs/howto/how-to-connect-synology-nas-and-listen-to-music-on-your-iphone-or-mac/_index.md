@@ -9,7 +9,7 @@ aliases:
   - /post/how-to-connect-synology-nas-and-listen-to-music-on-your-iphone-or-mac/
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **TL;DR:** Connect your Synology NAS to Evermusic or Flacbox using Synology's native API -- either manually via IP address or automatically via QuickConnect ID. QuickConnect lets you stream music remotely without port forwarding. Both apps support FLAC, MP3, WAV, and other hi-res formats.
@@ -142,22 +142,22 @@ With secure remote access through QuickConnect and support for a wide range of a
 
 ## FAQ
 
-{{% details title="What is the difference between manual connection and QuickConnect?" closed="true" %}}
+{{% ls-details title="What is the difference between manual connection and QuickConnect?" closed="true" %}}
 Manual connection uses the NAS IP address and port, which works on your local network. QuickConnect uses Synology's relay service to establish a connection from anywhere over the internet, without port forwarding.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Can I stream music from Synology NAS outside my home network?" closed="true" %}}
+{{% ls-details title="Can I stream music from Synology NAS outside my home network?" closed="true" %}}
 Yes. Enable QuickConnect on your Synology NAS and use the QuickConnect ID in Evermusic or Flacbox to stream music from anywhere with an internet connection.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Which audio formats are supported when streaming from Synology NAS?" closed="true" %}}
+{{% ls-details title="Which audio formats are supported when streaming from Synology NAS?" closed="true" %}}
 Evermusic and Flacbox support FLAC, MP3, AAC, WAV, ALAC, OGG, WMA, DSD, and many other formats. All supported formats work when streaming from Synology NAS.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Do I need two-factor authentication to connect?" closed="true" %}}
+{{% ls-details title="Do I need two-factor authentication to connect?" closed="true" %}}
 No, 2FA is optional. However, if you have enabled 2-step verification on your Synology DSM, the app will ask for a one-time password during login. You will need to reauthorize when the session expires.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Should I use Synology native API, WebDAV, or SMB to connect?" closed="true" %}}
+{{% ls-details title="Should I use Synology native API, WebDAV, or SMB to connect?" closed="true" %}}
 The Synology native API with QuickConnect is the best choice for remote access. For local network use, SMB is typically the fastest option. WebDAV works well for both local and remote access. Evermusic and Flacbox support all three protocols.
-{{% /details %}}
+{{% /ls-details %}}

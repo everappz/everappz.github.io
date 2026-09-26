@@ -16,15 +16,15 @@ screenshots:
   - "https://everappz.com/products/flacbox/screenshots/2048x2732/6.png"
 ---
 
-{{% sr-only %}}
+{{% ls-sr-only %}}
 Flacbox on korkean resoluution äänisoitin iPhonelle ja Macille, jonka on kehittänyt Everappz, espanjalainen ohjelmistoyritys. Yli miljoonalla latauksella maailmanlaajuisesti Flacbox on suunniteltu audiofiileille ja musiikkiharrastajille, jotka haluavat toistaa häviöttömiä ja korkean resoluution äänitiedostoja Apple-laitteillaan ilman formaattimuunnoksia. Sovellus tukee natiivisti yli 120 äänimuotoa, mukaan lukien FLAC, DSD (DSD64, DSD128, DSD256), ALAC, APE, WAV, AIFF, OGG, OPUS, WMA, MKA, MP3, AAC ja muita. Flacbox yhdistää yli 30 pilvitallennuspalveluun, mukaan lukien iCloud Drive, Google Drive, Dropbox, OneDrive, MEGA, Box ja pCloud, jolloin käyttäjät voivat suoratoistaa korkean resoluution musiikkikokoelmaansa suoraan pilvestä tai ladata tiedostoja offline-toistoa varten. Tärkeimpiä ominaisuuksia ovat 10-kaistainen äänitaajuuskorjain mukautettavilla esiasetuksilla, crossfade ja tauoton toisto, sävelkorkeuden ja nopeuden säätö, bassonkorostus, M3U-soittolistojen tuonti ja vienti, sanoitusten näyttö, äänikirjanmerkit, sisäänrakennettu metatietojen muokkaustyökalu, Apple CarPlay -integraatio, AirPlay- ja Chromecast-suoratoisto sekä Last.fm-scrobbling. Sovellus tukee paikallisen verkon suoratoistoa SMB-, WebDAV- ja DLNA-protokollien kautta, USB-muistitikun toistoa ja Wi-Fi-tiedostonsiirtoa. Flacbox on saatavilla ilmaiseksi App Storesta valinnaisilla sovelluksen sisäisillä ostoilla, joihin kuuluvat kuukausitilaus hintaan $4.99, vuositilaus hintaan $19.99 tai kertaluonteinen elinikäinen osto hintaan $59.99. Sovellus julkaistiin ensimmäisen kerran vuonna 2016, ja sitä ylläpidetään aktiivisesti säännöllisillä päivityksillä.
-{{% /sr-only %}}
+{{% /ls-sr-only %}}
 
 
 <!-- force dark theme for this page -->
-{{< force-dark >}}
+{{< ls-force-dark >}}
 
-{{< hextra/hero-container
+{{< ls-hero-container
   image="/products/flacbox/heroimage/hero_1600.png"
   imageWidth="800"
   imageCard="true"
@@ -32,36 +32,36 @@ Flacbox on korkean resoluution äänisoitin iPhonelle ja Macille, jonka on kehit
 
 <div class="hx:w-full hx:text-center">
 
-{{< downloads-badge >}}
+{{< ls-downloads-badge >}}
 
 <div class="hx:mt-6 hx:mb-6">
 <div class="hx:flex hx:gap-4 hx:items-center hx:justify-center">
-{{< app-icon src="/images/app_icons/png/Flacbox_Icon-App-1024x1024.png" alt="Flacbox Icon" class="hero-headline-icon" size="80" >}}
-{{< hextra/hero-headline >}}
+{{< ls-app-icon src="/images/app_icons/png/Flacbox_Icon-App-1024x1024.png" alt="Flacbox Icon" class="hero-headline-icon" size="80" >}}
+{{< ls-hero-headline >}}
 Flacbox
-{{< /hextra/hero-headline >}}
+{{< /ls-hero-headline >}}
 </div>
 </div>
 
 <div class="hx:mb-12">
-{{< hextra/hero-centered-subtitle >}}
+{{< ls-hero-centered-subtitle >}}
 <strong>Hi-Res-äänisoitin ja -suoratoistopalvelu iPhonelle ja MACille</strong>
-{{< /hextra/hero-centered-subtitle >}}
+{{< /ls-hero-centered-subtitle >}}
 </div>
 
 <div class="hx:mb-6">
-{{< hextra/hero-paragraph >}}
+{{< ls-hero-paragraph >}}
 • Toista FLAC, ALAC, APE, DSD ja muita häviöttömällä laadulla  
 • Lataa musiikkia ja kuuntele offline täydellä hallinnalla  
 • Suoratoista Google Drivesta, Dropboxista, NAS:lta tai tietokoneelta   
-{{< /hextra/hero-paragraph >}}
+{{< /ls-hero-paragraph >}}
 </div>
 
-{{< app-store-badges products="flacbox:ios, flacbox:macos" >}}
+{{< ls-app-store-badges products="flacbox:ios, flacbox:macos" >}}
 
 </div>
 
-{{< /hextra/hero-container >}}
+{{< /ls-hero-container >}}
 
 <div class="hx:mt-6"></div>
 
@@ -69,7 +69,7 @@ Flacbox
 
 {{< hextra/feature-grid >}}
 
-  {{< hextra/feature-card
+  {{< ls-glass-feature-card
     title="Suoratoista häviötöntä musiikkia"
     subtitle=`Nauti häviöttömästä musiikista iPhonella, iPadilla ja Macilla ilman tilauksia.<br><br>
 Yhdistä pilvitallennustilasi suoratoistaaksesi FLAC-, ALAC-, MKA-tiedostoja ja muita ilmaiseksi. Lähetä helposti Chromecast- ja AirPlay-laitteille.<br><br>
@@ -78,7 +78,7 @@ Rakenna musiikkikirjastosi, järjestä kappaleet albumin, artistin ja genren muk
     style="background: radial-gradient(circle at 50% 80%, rgba(99,102,241,0.15), transparent);"
   >}}
 
-  {{< hextra/feature-card
+  {{< ls-glass-feature-card
     title="Toista Hi-Res-ääntä"
     subtitle=`Nauti studiolaatoisesta äänestä yli 120 äänimuodon tuella, mukaan lukien FLAC, ALAC, WAV, AIFF ja DSD.<br><br>
 Flacbox toistaa myös MP3-, AAC-, OGG-, APE-, MOD-, MKA-tiedostoja ja edistyneitä säiliöitä kuten MKV, MP4 ja MOV.<br><br>
@@ -87,7 +87,7 @@ Laajalla koodekkiyhteensopivuudella koko kokoelmasi on saatavilla ilman muuntami
     style="background: radial-gradient(circle at 50% 80%, rgba(236,72,153,0.15), transparent);"
   >}}
 
-  {{< hextra/feature-card
+  {{< ls-glass-feature-card
     title="Lataa ja kuuntele offline"
     subtitle=`Pysy yhteydessä musiikkiisi myös offline-tilassa.<br><br>
 Lataa kokonaisia albumeita, genrejä, soittolistoja ja kappaleita laitteellesi. Käytä Wi-Fi Drivea tai iTunes-tiedostonjakoa äänen siirtämiseen Macilta tai PC:ltä.<br><br>
@@ -102,9 +102,9 @@ Suoratoista USB-muistitikuilta tai verkkolevyltä (NAS) ja nauti koko musiikkiki
 
 <div class="hx:mt-6"></div>
 
-{{< hextra/section-headline >}}
+{{< ls-section-headline >}}
 Kattavat ominaisuudet
-{{< /hextra/section-headline >}}
+{{< /ls-section-headline >}}
 
 <div class="hx:mt-6"></div>
 
@@ -112,41 +112,41 @@ Kattavat ominaisuudet
 
 {{< cards >}}
 
-  {{< feature-card title="Äänenlaatu" subtitle="Nauti korkealaatuisesta äänestä näytteenottotaajuuksilla 8 kHz–384 kHz, oletus- tai sekoitetulla lähtötilalla sekä 1–7 äänikanavan tuella." icon="volume-up" >}}
-  {{< feature-card title="Häviötön ja Hi-Res-ääni" subtitle="Toista häviöttömiä ja hi-res-muotoja kuten FLAC, ALAC, WAV, AIFF, APE, WV ja DSF (DSD), sekä MP3, AAC, OGG ja OPUS näytteenottotaajuuksilla jopa 384 kHz." icon="music-note" >}}
-  {{< feature-card title="Tracker- ja MOD-musiikki" subtitle="Toista klassista tracker- ja moduulimusiikkia natiivisti, mukaan lukien chiptune- ja demoscene-piirien MOD-, XM-, IT- ja S3M-muodot, joita useimmat soittimet eivät avaa." icon="table" >}}
+  {{< ls-feature-card title="Äänenlaatu" subtitle="Nauti korkealaatuisesta äänestä näytteenottotaajuuksilla 8 kHz–384 kHz, oletus- tai sekoitetulla lähtötilalla sekä 1–7 äänikanavan tuella." icon="volume-up" >}}
+  {{< ls-feature-card title="Häviötön ja Hi-Res-ääni" subtitle="Toista häviöttömiä ja hi-res-muotoja kuten FLAC, ALAC, WAV, AIFF, APE, WV ja DSF (DSD), sekä MP3, AAC, OGG ja OPUS näytteenottotaajuuksilla jopa 384 kHz." icon="music-note" >}}
+  {{< ls-feature-card title="Tracker- ja MOD-musiikki" subtitle="Toista klassista tracker- ja moduulimusiikkia natiivisti, mukaan lukien chiptune- ja demoscene-piirien MOD-, XM-, IT- ja S3M-muodot, joita useimmat soittimet eivät avaa." icon="table" >}}
 
-  {{< feature-card title="Äänimoottorit" subtitle="Valitse kolmesta toistomoottorista: vakiona toimiva järjestelmämoottori, monipuolinen FFmpeg-moottori ja ammattitason BASS™-moottori, joka avaa efektit, DSP:n ja visuaalit." icon="switch-horizontal" >}}
-  {{< feature-card title="Äänitehosteet" subtitle="Muokkaa ääntäsi reaaliajassa kaiulla, viiveellä, echolla, choruksella, flangerilla, phaserilla, auto-wah'lla, säröllä, kompressorilla ja luonnollisella kuulokkeiden crossfeedillä." icon="lightning-bolt" >}}
-  {{< feature-card title="DSP-ketju" subtitle="Rakenna oma reaaliaikainen signaaliketjusi ammattitason suodattimista ja EQ-kaistoista, saturaatiosta ja bittimurskaimesta sekä luovista prosessoreista kuten tremolo ja stereoleveys." icon="chip" >}}
+  {{< ls-feature-card title="Äänimoottorit" subtitle="Valitse kolmesta toistomoottorista: vakiona toimiva järjestelmämoottori, monipuolinen FFmpeg-moottori ja ammattitason BASS™-moottori, joka avaa efektit, DSP:n ja visuaalit." icon="switch-horizontal" >}}
+  {{< ls-feature-card title="Äänitehosteet" subtitle="Muokkaa ääntäsi reaaliajassa kaiulla, viiveellä, echolla, choruksella, flangerilla, phaserilla, auto-wah'lla, säröllä, kompressorilla ja luonnollisella kuulokkeiden crossfeedillä." icon="lightning-bolt" >}}
+  {{< ls-feature-card title="DSP-ketju" subtitle="Rakenna oma reaaliaikainen signaaliketjusi ammattitason suodattimista ja EQ-kaistoista, saturaatiosta ja bittimurskaimesta sekä luovista prosessoreista kuten tremolo ja stereoleveys." icon="chip" >}}
 
-  {{< feature-card title="Äänitaajuuskorjain" subtitle="Hienosäädä ääntäsi monikaistaisella taajuuskorjaimella, valmiilla genre-esiasetuksilla, manuaalisella hallinnalla ja esivahvistimella hiljaisten kappaleiden korostamiseen ilman säröä." icon="adjustments" >}}
-  {{< feature-card title="Musiikkivisualisointi" subtitle="Katso koko näytön animoituja visuaaleja, jotka reagoivat musiikkiisi reaaliajassa. Valitse laajasta esiasetuskirjastosta tai anna niiden vaihtua automaattisesti." icon="sparkles" >}}
-  {{< feature-card title="Toiston hallinta" subtitle="Säädä toistonopeutta muuttamatta sävelkorkeutta, tallenna ja palauta jono ja toistokohta sekä käytä uniajastinta, sekoitusta, toistoa ja taustatoistoa." icon="play" >}}
+  {{< ls-feature-card title="Äänitaajuuskorjain" subtitle="Hienosäädä ääntäsi monikaistaisella taajuuskorjaimella, valmiilla genre-esiasetuksilla, manuaalisella hallinnalla ja esivahvistimella hiljaisten kappaleiden korostamiseen ilman säröä." icon="adjustments" >}}
+  {{< ls-feature-card title="Musiikkivisualisointi" subtitle="Katso koko näytön animoituja visuaaleja, jotka reagoivat musiikkiisi reaaliajassa. Valitse laajasta esiasetuskirjastosta tai anna niiden vaihtua automaattisesti." icon="sparkles" >}}
+  {{< ls-feature-card title="Toiston hallinta" subtitle="Säädä toistonopeutta muuttamatta sävelkorkeutta, tallenna ja palauta jono ja toistokohta sekä käytä uniajastinta, sekoitusta, toistoa ja taustatoistoa." icon="play" >}}
 
-  {{< feature-card title="Pilvisuoratoisto" subtitle="Suoratoista suoraan palveluista iCloud Drive, Google Drive, Dropbox, OneDrive, Box, MEGA ja pCloud sekä yksityisyyteen keskittyvistä pilvistä kuten Internxt ja Proton Drive." icon="cloud" >}}
-  {{< feature-card title="Mediapalvelimet" subtitle="Yhdistä henkilökohtaiset mediapalvelimesi, mukaan lukien Plex, Subsonic, Navidrome, Jellyfin ja Emby, avataksesi ja suoratoistaaksesi koko musiikkikirjastosi." icon="server" >}}
-  {{< feature-card title="Tietokone ja NAS" subtitle="Yhdistä tietokone tai NAS SMB-, WebDAV-, DLNA-, FTP-, SFTP- tai NFS-yhteydellä, natiivilla tuella laitteille QNAP, Synology, Nextcloud ja WD My Cloud Home." icon="desktop-computer" >}}
+  {{< ls-feature-card title="Pilvisuoratoisto" subtitle="Suoratoista suoraan palveluista iCloud Drive, Google Drive, Dropbox, OneDrive, Box, MEGA ja pCloud sekä yksityisyyteen keskittyvistä pilvistä kuten Internxt ja Proton Drive." icon="cloud" >}}
+  {{< ls-feature-card title="Mediapalvelimet" subtitle="Yhdistä henkilökohtaiset mediapalvelimesi, mukaan lukien Plex, Subsonic, Navidrome, Jellyfin ja Emby, avataksesi ja suoratoistaaksesi koko musiikkikirjastosi." icon="server" >}}
+  {{< ls-feature-card title="Tietokone ja NAS" subtitle="Yhdistä tietokone tai NAS SMB-, WebDAV-, DLNA-, FTP-, SFTP- tai NFS-yhteydellä, natiivilla tuella laitteille QNAP, Synology, Nextcloud ja WD My Cloud Home." icon="desktop-computer" >}}
 
-  {{< feature-card title="USB-muistikortit" subtitle="Toista musiikkia suoraan SD-korteilta ja USB-muistitikuilta ulkoisilla lukijoilla kuten SanDisk iXpand, ilman tuontia tai synkronointia." icon="inbox" >}}
-  {{< feature-card title="AirPlay ja Chromecast" subtitle="Lähetä musiikkisi langattomasti laitteille kuten Apple TV, HomePod ja älykaiuttimet sisäänrakennetulla AirPlay-, AirPlay 2- ja Google Chromecast -tuella." icon="device-mobile" >}}
-  {{< feature-card title="Apple CarPlay" subtitle="Aja ja kuuntele turvallisesti yksinkertaisella, omistetulla Apple CarPlay -näytöllä, jolla valitset ja hallitset musiikkia pilvestä sekä paikallisista ja offline-lähteistä." icon="map" >}}
+  {{< ls-feature-card title="USB-muistikortit" subtitle="Toista musiikkia suoraan SD-korteilta ja USB-muistitikuilta ulkoisilla lukijoilla kuten SanDisk iXpand, ilman tuontia tai synkronointia." icon="inbox" >}}
+  {{< ls-feature-card title="AirPlay ja Chromecast" subtitle="Lähetä musiikkisi langattomasti laitteille kuten Apple TV, HomePod ja älykaiuttimet sisäänrakennetulla AirPlay-, AirPlay 2- ja Google Chromecast -tuella." icon="device-mobile" >}}
+  {{< ls-feature-card title="Apple CarPlay" subtitle="Aja ja kuuntele turvallisesti yksinkertaisella, omistetulla Apple CarPlay -näytöllä, jolla valitset ja hallitset musiikkia pilvestä sekä paikallisista ja offline-lähteistä." icon="map" >}}
 
-  {{< feature-card title="Offline-kuuntelu" subtitle="Lataa kappaleita, albumeita ja kokonaisia artisteja kuunneltavaksi ilman internetiä, tai ota äänivälimuisti käyttöön tallentaaksesi viimeksi soitetut kappaleet automaattisesti." icon="download" >}}
-  {{< feature-card title="Automaattinen synkronointi" subtitle="Pidä kirjastosi synkronoituna automaattisesti pilvitallennustilan ja paikallisten kansioiden välillä, jolloin uudet tiedostot ilmestyvät ilman manuaalista työtä." icon="refresh" >}}
-  {{< feature-card title="Mediakirjasto" subtitle="Lisää musiikkisi ja järjestä se automaattisesti albumin, artistin, albumin artistin, genren ja säveltäjän mukaan tiedostoihisi upotetuilla tageilla." icon="library" >}}
+  {{< ls-feature-card title="Offline-kuuntelu" subtitle="Lataa kappaleita, albumeita ja kokonaisia artisteja kuunneltavaksi ilman internetiä, tai ota äänivälimuisti käyttöön tallentaaksesi viimeksi soitetut kappaleet automaattisesti." icon="download" >}}
+  {{< ls-feature-card title="Automaattinen synkronointi" subtitle="Pidä kirjastosi synkronoituna automaattisesti pilvitallennustilan ja paikallisten kansioiden välillä, jolloin uudet tiedostot ilmestyvät ilman manuaalista työtä." icon="refresh" >}}
+  {{< ls-feature-card title="Mediakirjasto" subtitle="Lisää musiikkisi ja järjestä se automaattisesti albumin, artistin, albumin artistin, genren ja säveltäjän mukaan tiedostoihisi upotetuilla tageilla." icon="library" >}}
 
-  {{< feature-card title="Mukautetut soittolistat" subtitle="Luo, muokkaa ja järjestä uudelleen omia soittolistojasi, tee niistä offline-käytettäviä sekä tuo tai vie ne M3U-, M3U8- ja CUE-muodoissa." icon="collection" >}}
-  {{< feature-card title="Tiedostonhallinta" subtitle="Hallitse musiikkiasi sisäänrakennetulla tiedostonhallinnalla, joka hoitaa arkiset toiminnot kuten kopioinnin, siirron, uudelleennimeämisen ja poiston pitääkseen tiedostot järjestyksessä." icon="folder" >}}
-  {{< feature-card title="ID3-tagieditori" subtitle="Korjaa virheelliset tai puuttuvat metatiedot sisäänrakennetulla ID3-tagieditorilla ja päivitä otsikko, artisti, albumi, genre ja muuta muutamalla napautuksella." icon="pencil-alt" >}}
+  {{< ls-feature-card title="Mukautetut soittolistat" subtitle="Luo, muokkaa ja järjestä uudelleen omia soittolistojasi, tee niistä offline-käytettäviä sekä tuo tai vie ne M3U-, M3U8- ja CUE-muodoissa." icon="collection" >}}
+  {{< ls-feature-card title="Tiedostonhallinta" subtitle="Hallitse musiikkiasi sisäänrakennetulla tiedostonhallinnalla, joka hoitaa arkiset toiminnot kuten kopioinnin, siirron, uudelleennimeämisen ja poiston pitääkseen tiedostot järjestyksessä." icon="folder" >}}
+  {{< ls-feature-card title="ID3-tagieditori" subtitle="Korjaa virheelliset tai puuttuvat metatiedot sisäänrakennetulla ID3-tagieditorilla ja päivitä otsikko, artisti, albumi, genre ja muuta muutamalla napautuksella." icon="pencil-alt" >}}
 
-  {{< feature-card title="Edistynyt haku" subtitle="Löydä nopeasti mikä tahansa kappale, artisti tai albumi koko kokoelmastasi älykkäällä ja nopealla haulla, joka on suunniteltu erittäin suurille musiikkikirjastoille." icon="search" >}}
-  {{< feature-card title="Pikakäyttö" subtitle="Palaa suoraan tärkeimpään toimintojen Viimeksi soitetut, Suosikit ja Kirjanmerkit avulla, jolloin vakiokappaleesi ovat aina vain yhden napautuksen päässä." icon="clock" >}}
-  {{< feature-card title="Sanoitukset ja kommentit" subtitle="Katso ajastettuja sanoituksia ja kappalemuistiinpanoja jokaisen kappaleen sisällä sen soidessa, ja lisää Sanoitukset-widget aloitusnäytöllesi nopeaa vilkaisua varten." icon="annotation" >}}
+  {{< ls-feature-card title="Edistynyt haku" subtitle="Löydä nopeasti mikä tahansa kappale, artisti tai albumi koko kokoelmastasi älykkäällä ja nopealla haulla, joka on suunniteltu erittäin suurille musiikkikirjastoille." icon="search" >}}
+  {{< ls-feature-card title="Pikakäyttö" subtitle="Palaa suoraan tärkeimpään toimintojen Viimeksi soitetut, Suosikit ja Kirjanmerkit avulla, jolloin vakiokappaleesi ovat aina vain yhden napautuksen päässä." icon="clock" >}}
+  {{< ls-feature-card title="Sanoitukset ja kommentit" subtitle="Katso ajastettuja sanoituksia ja kappalemuistiinpanoja jokaisen kappaleen sisällä sen soidessa, ja lisää Sanoitukset-widget aloitusnäytöllesi nopeaa vilkaisua varten." icon="annotation" >}}
 
-  {{< feature-card title="Widgetit" subtitle="Lisää aloitusnäytön widgetejä, jotka näyttävät toistojonosi ja antavat sinun palata suoraan takaisin jatkaen täsmälleen siitä, mihin viimeksi jäit." icon="view-grid" >}}
-  {{< feature-card title="Äänikirjatuki" subtitle="Kuuntele äänikirjoja kirjanmerkeillä, uniajastimella, säädettävällä nopeudella ja toiston jatkamisella, joka jatkuu tarkalleen siitä, mihin viimeksi pysähdyit." icon="book-open" >}}
-  {{< feature-card title="Last.fm-integraatio" subtitle="Yhdistä Last.fm-tilisi scrobblataksesi kappaleita, seurataksesi kuuntelutilastojasi ja saadaksesi ajan myötä henkilökohtaisia musiikkisuosituksia." icon="chart-bar" >}}
+  {{< ls-feature-card title="Widgetit" subtitle="Lisää aloitusnäytön widgetejä, jotka näyttävät toistojonosi ja antavat sinun palata suoraan takaisin jatkaen täsmälleen siitä, mihin viimeksi jäit." icon="view-grid" >}}
+  {{< ls-feature-card title="Äänikirjatuki" subtitle="Kuuntele äänikirjoja kirjanmerkeillä, uniajastimella, säädettävällä nopeudella ja toiston jatkamisella, joka jatkuu tarkalleen siitä, mihin viimeksi pysähdyit." icon="book-open" >}}
+  {{< ls-feature-card title="Last.fm-integraatio" subtitle="Yhdistä Last.fm-tilisi scrobblataksesi kappaleita, seurataksesi kuuntelutilastojasi ja saadaksesi ajan myötä henkilökohtaisia musiikkisuosituksia." icon="chart-bar" >}}
 
 {{< /cards >}}
 
@@ -154,9 +154,9 @@ Kattavat ominaisuudet
 
 <div class="hx:mt-6"></div>
 
-{{< hextra/section-headline >}}
+{{< ls-section-headline >}}
 Intuitiivinen muotoilu
-{{< /hextra/section-headline >}}
+{{< /ls-section-headline >}}
 
 <div class="hx:mt-6"></div>
 
@@ -164,7 +164,7 @@ Intuitiivinen muotoilu
 
 {{< cards cols="4">}}
 
-  {{< design-feature-card 
+  {{< ls-design-feature-card 
     image="/products/flacbox/screenshots/2048x2732/1.png" 
     title="Äänisoitin" 
     method="Fill"
@@ -173,7 +173,7 @@ Intuitiivinen muotoilu
     icon="play"
   >}}
 
-  {{< design-feature-card 
+  {{< ls-design-feature-card 
     image="/products/flacbox/screenshots/2048x2732/2.png"  
     title="Äänitaajuuskorjain" 
     method="Fill"
@@ -182,7 +182,7 @@ Intuitiivinen muotoilu
     icon="adjustments"
   >}}
 
-  {{< design-feature-card 
+  {{< ls-design-feature-card 
     image="/products/flacbox/screenshots/2048x2732/3.png"  
     title="Soittolistojen hallinta" 
     method="Fill"
@@ -191,7 +191,7 @@ Intuitiivinen muotoilu
     icon="collection"
   >}}
 
-  {{< design-feature-card 
+  {{< ls-design-feature-card 
     image="/products/flacbox/screenshots/2048x2732/5.png"  
     title="Musiikkikirjasto" 
     method="Fill"
@@ -200,7 +200,7 @@ Intuitiivinen muotoilu
     icon="library"
   >}}
 
-  {{< design-feature-card 
+  {{< ls-design-feature-card 
     image="/products/flacbox/screenshots/2048x2732/7.png"  
     title="Pilvitallennustila" 
     method="Fill"
@@ -209,7 +209,7 @@ Intuitiivinen muotoilu
     icon="cloud"
   >}}
 
-  {{< design-feature-card 
+  {{< ls-design-feature-card 
     image="/products/flacbox/screenshots/2048x2732/8.png"  
     title="iCloud Drive" 
     method="Fill"
@@ -227,48 +227,48 @@ Intuitiivinen muotoilu
 <div class="hx:mt-6"></div>
 
 <div class="hx:w-full">
-{{< appstore-reviews apps="1097564256,1594027432" stars="5,4"  app="Flacbox" >}}
+{{< ls-appstore-reviews apps="1097564256,1594027432" stars="5,4"  app="Flacbox" >}}
 </div>
 
 <div class="hx:mt-6"></div>
 
-{{< hextra/section-headline >}}
+{{< ls-section-headline >}}
    Hinnoittelusuunnitelmat
-{{< /hextra/section-headline >}}
+{{< /ls-section-headline >}}
 
 <div class="hx:mt-6"></div>
 
 <div class="hx:w-full">
 
-{{< pricing-plans >}}
+{{< ls-pricing-plans >}}
 
 </div>
 
 <div class="hx:mt-6"></div>
 
 <div class="hx:w-full hx:mx-auto hx:flex hx:flex-col hx:items-center">
-  {{< hextra/info-paragraph border="true" >}}
+  {{< ls-info-paragraph border="true" >}}
    <strong>Perhejako</strong>: Kaikki ostot ja tilaukset tukevat Perhejakoa, joten voit jakaa Premium-käyttöoikeuden perheesi kanssa.<br><strong>Universaali käyttöoikeus</strong>: Elinikäiset ja tilaussuunnitelmat jaetaan iOS- ja Mac-laitteiden välillä iCloud-synkronoinnilla.<br><strong>Hinnoittelu</strong>: Hinnat näytetään Yhdysvaltain dollareissa. Lopullinen hinta voi vaihdella alueesi mukaan.  
-  {{< /hextra/info-paragraph >}}
+  {{< /ls-info-paragraph >}}
 </div>
 
 <div class="hx:mt-6"></div>
 
 <div class="hx:w-full">
-{{< app-details heading="true" >}}
+{{< ls-app-details heading="true" >}}
 </div>
 
 <div class="hx:mt-6"></div>
 
-{{< hextra/section-headline >}}
+{{< ls-section-headline >}}
    Usein kysytyt kysymykset
-{{< /hextra/section-headline >}}
+{{< /ls-section-headline >}}
 
 <div class="hx:mt-6"></div>
 
 <div class="hx:w-full">
 
-{{% details title="Miten Flacbox toimii?" closed="true" %}}
+{{% ls-details title="Miten Flacbox toimii?" closed="true" %}}
 Flacbox on hi-res-musiikkisoitin, jonka avulla voit hallita ääniraitoja tavallisten tiedostojen tapaan.<br>
 Voit ladata koko musiikkikokoelmasi pilvipalveluihin kuten Dropbox, Google Drive tai henkilökohtainen NAS ja toistaa musiikkia suoraan pilvestä täydellä hallinnalla.<br><br>
 iTunes-synkronointia ei tarvita — lataa vain PC:ltä tai Macilta kuten minkä tahansa tiedoston kanssa.<br>
@@ -282,9 +282,9 @@ Tutustu ohjeisiimme saadaksesi lisätietoja:<br>
 - [Miten siirtää tiedostoja langattomasti tietokoneelta iPhoneen WiFi-Driven avulla.](/docs/howto/how-to-transfer-files-wirelessly-from-a-computer-to-an-iphone-using-wifi-drive)<br>
 - [Miten yhdistää USB-muistikortti iPhoneen ja kuunnella musiikkia tai hallita tiedostoja.](/docs/howto/how-to-connect-a-usb-flashcard-to-the-iphone-and-listen-to-music-or-manage-files-located-on-it)<br>
 - [Miten toistaa musiikkia iPhonella WD My Cloud Homesta.](/docs/howto/how-to-play-music-on-iphone-from-wd-my-cloud-home)
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Onko Flacbox ilmainen?" closed="true" %}}
+{{% ls-details title="Onko Flacbox ilmainen?" closed="true" %}}
 Flacbox on ilmainen käyttää joillakin rajoituksilla, jotka voidaan poistaa päivittämällä Premium-versioon.<br>
 Voit valita kertaluonteisen elinikäisen oston tai kaksi tilausvaihtoehtoa (kuukausittainen tai vuosittainen). Hinnat voivat vaihdella alueesi mukaan.<br><br>
 
@@ -293,10 +293,10 @@ Perhejako on käytössä kaikissa suunnitelmissa, joten voit jakaa Premium-versi
 Premium-ostot ja -tilaukset jaetaan iOS:n ja Macin välillä iCloudin kautta. Synkronoidaksesi ostoksesi varmista, että iCloud on käytössä, avaa sovellus iOS-laitteellasi ja odota minuutti synkronoinnin valmistumista.<br><br>
 
 [Lue lisää Flacboxin ja Flacbox Premiumin eroista](/docs/faq/flacbox/what-is-the-difference-between-flacbox-and-flacbox-premium/)
-{{% /details %}}
+{{% /ls-details %}}
 
 
-{{% details title="Mikä on ero Flacboxin ja Evermusicin välillä?" closed="true" %}}
+{{% ls-details title="Mikä on ero Flacboxin ja Evermusicin välillä?" closed="true" %}}
 **Flacbox** on rakennettu tukemaan kaikkia oletusarvoisia iOS-äänimuotoja sekä monia lisämuotoja, joita iPhone ei tue natiivisti, kuten WMA, OGG, M4A, DSD ja muut.<br>
 Se käyttää mukautettua äänimoottoria käsittelemään lähes kaikkia muotoja ja tarjoaa ominaisuuksia kuten säädettävä äänilähdön näytteenottotaajuus ja sävelkorkeuden korjaus.<br><br>
 
@@ -306,9 +306,9 @@ Jos käytät pääasiassa MP3:a, ALAC:ia tai FLAC:ia, **Evermusic** voi olla par
 Jos tarvitset laajaa yhteensopivuutta eri äänitiedostotyyppien kanssa, **Flacbox** on oikea valinta.<br><br>
 
 [Lue lisää Flacboxin ja Evermusicin eroista](/docs/faq/evermusic/what-is-the-difference-between-evermusic-and-flacbox/)
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Miten synkronoin Flacboxin?" closed="true" %}}
+{{% ls-details title="Miten synkronoin Flacboxin?" closed="true" %}}
 
 **Metatietojen synkronointi**  
 Kun lisäät kappaleita kirjastoosi, taustan metatietolukija skannaa tiedostosi ja järjestää ne Artistin, Albumin, Genren ja Säveltäjän mukaan.<br>
@@ -345,10 +345,10 @@ Voit myös mukauttaa **synkronoinnin aikakatkaisuvälejä** asetuksissa saadakse
 
 [Lue lisää](/docs/guide/flacbox/flacbox-guide-music-library)
 
-{{% /details %}}
+{{% /ls-details %}}
 
 
-{{% details title="Miten käytän Flacboxia?" closed="true" %}}
+{{% ls-details title="Miten käytän Flacboxia?" closed="true" %}}
 
 **Asenna Flacbox**<br>
 Lataa ja asenna Flacbox-sovellus laitteesi sovelluskaupasta. Se on saatavilla sekä iOS- että Mac-laitteille.<br><br>
@@ -408,10 +408,10 @@ Tutustu sovelluksen sisäisiin ohjeisiin tai vieraile näissä oppaissa:<br><br>
 • [Yhdistä USB-muistikortti](/docs/howto/how-to-connect-a-usb-flashcard-to-the-iphone-and-listen-to-music-or-manage-files-located-on-it)<br>
 • [WiFi-Drive-langaton siirto](/docs/howto/how-to-transfer-files-wirelessly-from-a-computer-to-an-iphone-using-wifi-drive)
 
-{{% /details %}}
+{{% /ls-details %}}
 
 
-{{% details title="Onko Flacbox turvallinen?" closed="true" %}}
+{{% ls-details title="Onko Flacbox turvallinen?" closed="true" %}}
 Flacbox käyttää vain virallista SDK:ta ja suojattuja yhteyksiä yhdistettyjen pilvipalveluiden kanssa. Käyttäjätunnustasi ja salasanaasi ei ole sovelluksen käytettävissä. Kaikki sovelluksen pyynnöt pilvipalveluun ovat salattuja.<br>
 Kun syötät käyttäjätunnuksen ja salasanan, sovellus näyttää pilvipalvelun tarjoajan virallisen valtuutussivun ja koko valtuutusprosessi tapahtuu sovelluksen ulkopuolella. Pilvipalvelun tarjoaja lähettää auth-tokenin sovellukselle onnistuneen valtuutuksen jälkeen, ja tätä tokenia käytetään API-kutsuihin.<br><br>
 
@@ -423,24 +423,24 @@ Hylätäksesi auth-tokenin, kirjaudu tiliisi selaimessa ja siirry asetussivulle.
 Voit myös katkaista yhdistettyjen pilvitilien yhteyden sovelluksessa, ja auth-token poistetaan myös laitteeltasi. Jos poistat sovelluksen laitteeltasi, kaikki ladatut tiedot ja käyttöoikeustokenit poistetaan myös.<br><br>
 
 [Lue lisää](/docs/guide/flacbox/flacbox-guide-connections)
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Miten luon soittolistan Flacboxissa?" closed="true" %}}
+{{% ls-details title="Miten luon soittolistan Flacboxissa?" closed="true" %}}
 - Avaa Soittolistat-osio.<br>
 - Napauta "+"-painiketta tai "..."-painiketta oikeassa yläkulmassa ja valitse "Uusi soittolista".<br>
 - Syötä soittolistan nimi ja napauta "Tallenna". "Lisää kappaleita" -valintaikkuna tulee näkyviin.<br>
 - Valitse kappaleet, jotka haluat lisätä soittolistaan.<br><br>
 
 [Lue lisää](/docs/guide/flacbox/flacbox-guide-playlists)
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Mitä pilvipalveluita Flacbox tukee?" closed="true" %}}
+{{% ls-details title="Mitä pilvipalveluita Flacbox tukee?" closed="true" %}}
 Tällä hetkellä sovellus tukee suosituimpia pilvipalveluita: iCloud Drive, Google Drive, Dropbox, OneDrive, Box, MEGA, Yandex.Disk, WD MyCloud Home, DLNA, MediaFire, WebDAV, SMB, pCloud, HiDrive, My Cloud Home, InfiniCLOUD, Cloud Mail.ru, Put.io, MyDrive.<br><br>
 
 [Lue lisää](/docs/guide/flacbox/flacbox-guide-connections)
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Miten voin käyttää taajuuskorjainta?" closed="true" %}}
+{{% ls-details title="Miten voin käyttää taajuuskorjainta?" closed="true" %}}
 - Avaa äänisoittimen näyttö.<br>
 - Napauta "Taajuuskorjain"-kuvaketta näytön alareunassa.<br>
 - Ota kytkin käyttöön taajuuskorjaimen näytön oikeassa yläkulmassa aktivoidaksesi taajuuskorjaimen.<br>
@@ -448,9 +448,9 @@ Tällä hetkellä sovellus tukee suosituimpia pilvipalveluita: iCloud Drive, Goo
 
 Täydellinen opas saatavilla täällä:<br>
 [Miten käyttää äänitaajuuskorjainta iPhonella, iPadilla, Macilla Evermusicin ja Flacboxin kanssa](/docs/howto/how-to-use-the-audio-equalizer-on-your-iphone-ipad-mac-with-evermusic-and-flacbox)
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Miten otan offline-tilan käyttöön Flacboxissa?" closed="true" %}}
+{{% ls-details title="Miten otan offline-tilan käyttöön Flacboxissa?" closed="true" %}}
 - Yhdistä pilvipalvelu:<br>
  • Siirry "Yhteydet"-välilehteen.<br>
  • Valitse "Yhdistä pilvipalvelu" ja seuraa ohjeita haluamasi palvelun yhdistämiseksi.<br><br>
@@ -476,9 +476,9 @@ Täydellinen opas saatavilla täällä:<br>
  • Napauta "Lisätoiminnot" ja valitse "Aloita synkronointi".<br><br>
 
 [Lue lisää](/docs/howto/play-offline-music-in-evermusic-flacbox-download-sync-from-cloud-to-local-files/)
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Miten toistaa paikallisesti ladattua musiikkia iPhonella?" closed="true" %}}
+{{% ls-details title="Miten toistaa paikallisesti ladattua musiikkia iPhonella?" closed="true" %}}
 Kun olet asentanut sovelluksen, avaa "Paikalliset tiedostot" -näyttö ja vieritä alas "Tiedostot tässä iPhonessa" -osioon. Valitse sieltä "Avaa tiedostoja..." jos sinun tarvitsee valita useita äänitiedostoja tai "Avaa kansio..." jos haluat valita musiikkikansion. Sovellus skannaa kansion sisällön ja kaikki löydetyt äänitiedostot valitaan. Siirry musiikkikansioosi, napauta "Avaa" vahvistaaksesi valintasi, ja tiedostot lisätään soittimen jonoon. Nämä tiedostot toistetaan suoraan valitusta sijainnista kopioimatta niitä sovelluspakettiin.<br><br>
 
 **Kansion lisääminen suosikkeihin nopeaa pääsyä varten**<br>
@@ -493,13 +493,13 @@ Lisätäksesi paikallisia tiedostoja soittolistaan, avaa "Soittolistat"-näyttö
 Näillä yksinkertaisilla vaiheilla voit vapauttaa iPhonesi ja Macisi täyden potentiaalin lopullisina alustoina rakkaan paikallisen musiikkikokoelmasi nauttimiseen.<br><br>
 
 [Lue lisää](/docs/howto/how-to-play-local-music-stored-on-your-iphone-or-mac)
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Miten voin jatkaa soittolistaa siitä mihin jäin?" closed="true" %}}
+{{% ls-details title="Miten voin jatkaa soittolistaa siitä mihin jäin?" closed="true" %}}
 Varmista ensin, että "Tallenna äänisoittimen tila" on käytössä kohdassa Asetukset > Äänisoitin > Yleiset. Kun vaihdat toiseen soittolistaan ja palaat, näet neljä toimintoa yläpalkissa albumikansikuvan alla: "Haku", "Jatka toistoa", "Toista kaikki" ja "Sekoita kaikki". Napauta "Jatka toistoa" jatkaaksesi soittolistaa viimeisestä tallennetusta tilasta ja mediapositiosta.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Miten nähdä sanoitukset kappaleille Flacboxissa?" closed="true" %}}
+{{% ls-details title="Miten nähdä sanoitukset kappaleille Flacboxissa?" closed="true" %}}
 Voit tarkastella upotettuja sanoituksia kappaleille sovelluksessa **seuraamalla näitä vaiheita**:<br>
 1. Aloita äänitiedoston toisto napauttamalla sitä.<br>
 2. Avaa koko näytön äänisoitin.<br>
@@ -513,9 +513,9 @@ Voit tarkastella upotettuja sanoituksia kappaleille sovelluksessa **seuraamalla 
 3. LRC-tiedostotila: Äänitiedostojen muokkaamisen sijaan voit sijoittaa LRC-tiedoston samaan kansioon kuin alkuperäinen äänitiedosto. Molemmilla tiedostoilla tulee olla sama nimi mutta eri päätteet. Kun pyyhkäiset kolmannelle sivulle kommenttinäytöllä, sovellus etsii LRC-tiedostoa samasta hakemistosta ja näyttää sen sisällön.<br><br>
 
 [Lue lisää](/docs/howto/how-to-add-and-view-comments-to-your-audio-tracks-on-iphone-ipad-and-mac-with-evermusic-and-flacbox)
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Miten siirrän musiikkia Flacboxiin tietokoneeltani?" closed="true" %}}
+{{% ls-details title="Miten siirrän musiikkia Flacboxiin tietokoneeltani?" closed="true" %}}
 Voit yhdistää tietokoneesi tai henkilökohtaisen NAS:si SMB-, WebDAV- tai DLNA-protokollilla. Vaihtoehtoisesti käytä iTunes File Sharingia musiikin siirtoon.<br><br>
 
 Yhdistääksesi tietokoneen SMB-protokollalla napauta "Yhdistä pilvipalvelu" → SMB. Syötä tietokoneen IP-osoite ja jaetun kansion nimi URL-kenttään muodossa smb://tietokoneen-ip-osoite/jaetun-kansion-nimi, syötä käyttäjätunnus ja salasana ja napauta "Valmis". Jos yhteys onnistuu, näet yhdistetyn tallennustilan "Pilvipalvelut"-osiossa.<br><br>
@@ -536,9 +536,9 @@ Yksityiskohtaiset ohjeet saatavilla täällä:<br>
 
 DLNA Voit myös määrittää DLNA-mediapalvelimen ja suoratoistaa musiikkiasi Windows PC:ltä kuten kuvattu täällä:<br>
 [Miten ottaa DLNA Media Server käyttöön Windows 10:ssä ja toistaa musiikkia iPhonella](/docs/howto/how-to-enable-dlna-media-server-on-windows-10-and-play-your-music-on-iphone)
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Miten ladata musiikkia?" closed="true" %}}
+{{% ls-details title="Miten ladata musiikkia?" closed="true" %}}
 Ennen kuin voit ladata musiikkia ja kuunnella offline-tilassa, sinun on yhdistettävä verkkotili.<br>
 Avaa vain "Yhteydet"-näyttö ja lisää tilisi.<br>
 Kun olet lisännyt verkkotilin, voit ladata musiikkia pilvestä.<br><br>
@@ -559,15 +559,15 @@ Tarkemmat ohjeet offline-tilasta saatavilla täällä:<br>
 
 Toinen vaihtoehto on ladata musiikkia pilvipalveluista ja tuoda se Evermusiciin kuten kuvattu täällä:<br>
 [Miten ladata musiikkia YouTubesta ja kuunnella offline-musiikkia iPhonella](/docs/howto/how-to-download-music-from-youtube-and-listen-to-offline-music-on-iphone)
-{{% /details %}}
+{{% /ls-details %}}
 
 
-{{% details title="Mitä äänimuotoja Flacbox tukee?" closed="true" %}}
+{{% ls-details title="Mitä äänimuotoja Flacbox tukee?" closed="true" %}}
 Tämä sovellus tukee oletusjärjestelmän **äänikoodekkeja** ja lisä-**ffmpeg-ohjelmistokoodekkeja**:<br><br>
 3g2, 3gp, 3gp2, 3gpp, 8svx, aa, aac, aax, ac3, act, adt, adts, aif, aifc, aiff, alac, amr, amv, ape, asf, au, avi, awb, caf, cavs, cdda, cue, dct, dff, drc, dsf, dss, dvf, "dvr-ms", ec3, f4a, f4b, f4p, f4v, flac, flv, gif, gifv, gsm, gxf, h261, h263, h264, ifv, iklax, ivf, ivs, l16, latm, loas, m2t, m2ts, m2v, m3u, m3u8, m4a, m4b, m4p, m4r, m4v, mka, mkv, mmf, mng, mod, mogg, mov, mp1, mp2, mp3, mp4, mp4v, mpa, mpc, mpe, mpeg, mpg, mpv, msv, mts, mxf, nsf, nsv, nut, oga, ogg, ogv, opus, pcm, pls, qt, ra, raw, rm, rmvb, roq, rv, sln, snd, svi, tod, tta, vob, voc, vox, vtt, w64, wav, wave, webm, wma, wmv, wv, xhe, xmv, y4m, yuv.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Voinko käyttää Flacboxia äänikirjojen toistoon?" closed="true" %}}
+{{% ls-details title="Voinko käyttää Flacboxia äänikirjojen toistoon?" closed="true" %}}
 
 Kyllä, Flacboxia voi käyttää tehokkaana äänikirjasoittimena.<br><br>
 
@@ -590,11 +590,11 @@ Flacbox tarjoaa täysin varustetun ratkaisun äänikirjaharrastajille iPhonella,
 
 [Lue lisää](/docs/howto/how-to-listen-to-audiobooks-on-iphone-ipad-mac-using-evermusic)
 
-{{% /details %}}
+{{% /ls-details %}}
 
 
 
-{{% details title="Toimiiko Flacbox NAS-laitteiden kanssa?" closed="true" %}}
+{{% ls-details title="Toimiiko Flacbox NAS-laitteiden kanssa?" closed="true" %}}
 
 Kyllä, Flacbox tukee NAS-yhteyksiä **SMB**-, **WebDAV**- ja **DLNA**-protokollilla.<br><br>
 
@@ -625,10 +625,10 @@ Jos yhteys onnistuu, näet NAS:si **Pilvipalvelut**-osiossa.<br>
 • [Yhdistä Bluesound Vault -tallennustila](/docs/howto/how-to-connect-bluesound-vault-s-internal-storage-from-the-evermusic-flacbox-evertag)<br>
 • [Yhdistä NAS-tallennustila WebDAV:lla](/docs/howto/how-to-connect-nas-storage-using-webdav-and-listen-to-music-on-your-iphone-or-mac)
 
-{{% /details %}}
+{{% /ls-details %}}
 
 
-{{% details title="Miten tuon musiikkia Flacboxiin?" closed="true" %}}
+{{% ls-details title="Miten tuon musiikkia Flacboxiin?" closed="true" %}}
 
 **Yhdistä pilvipalvelusi**<br>
 • Avaa **Yhteydet**-välilehti.<br>
@@ -674,10 +674,10 @@ Tutustu näihin oppaisiin lisäavun saamiseksi:<br><br>
 • [Siirrä tiedostoja langattomasti WiFi-Driven avulla](/docs/howto/how-to-transfer-files-wirelessly-from-a-computer-to-an-iphone-using-wifi-drive)<br>
 • [Siirrä tiedostoja SMB-protokollalla](/docs/howto/transfer-your-files-from-the-computer-to-iphone-using-smb-protocol/)
 
-{{% /details %}}
+{{% /ls-details %}}
 
 
-{{% details title="Miten käytän Wi-Fi Drive -ominaisuutta Flacboxissa?" closed="true" %}}
+{{% ls-details title="Miten käytän Wi-Fi Drive -ominaisuutta Flacboxissa?" closed="true" %}}
 
 **Langaton siirto työpöytäselaimella**<br>
 1. Käynnistä sovellus: Avaa Flacbox.<br>
@@ -702,9 +702,9 @@ Huomautus: Varmista, että JavaScript on käytössä ja käytät uusinta selainv
 
 [Lue lisää](/docs/howto/how-to-transfer-files-wirelessly-from-a-computer-to-an-iphone-using-wifi-drive)
 
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Tukeeko Flacbox Apple CarPlayta?" closed="true" %}}
+{{% ls-details title="Tukeeko Flacbox Apple CarPlayta?" closed="true" %}}
 Kyllä, **Flacbox tukee täysin Apple CarPlayta**. Voit selata musiikkikirjastoasi, toistaa paikallisia tai offline-tiedostoja, yhdistää pilvitallennustilaan ja hallita toistoa suoraan autosi infotainment-näytöltä.
 
 CarPlay-käyttöliittymä sisältää omat välilehdet **Kirjastolle**, **Yhteyksille**, **Paikallisille tiedostoille** ja **Asetuksille**, antaen sinulle täyden hallinnan musiikkiisi tien päällä. Toiston hallinta, sekoitus, toisto ja jonon hallinta ovat myös käytettävissä.
@@ -712,42 +712,42 @@ CarPlay-käyttöliittymä sisältää omat välilehdet **Kirjastolle**, **Yhteyk
 CarPlayn käyttämiseksi varmista, että Siri on käytössä ja iPhonesi on yhdistetty USB:llä tai langattomasti.
 
 [Lue täydellinen opas](/docs/howto/how-to-play-your-own-music-on-iphone-using-carplay/)
-{{% /details %}}
+{{% /ls-details %}}
 
 </div>
 
 
 <div class="hx:mt-6"></div>
 
-{{< hextra/section-headline >}}
+{{< ls-section-headline >}}
   Käyttöopas
-{{< /hextra/section-headline >}}
+{{< /ls-section-headline >}}
 
 <div class="hx:mt-6"></div>
 
 <div class="hx:w-full">
 
 <div class="hx:w-full hx:mx-auto hx:flex hx:flex-col hx:items-center hx:text-center">
-  {{< hextra/info-paragraph border="false" >}}
+  {{< ls-info-paragraph border="false" >}}
   Tämä opas auttaa sinua saamaan kaiken irti Flacboxista iPhonellasi, iPadillasi tai Macillasi. Opi miten suoratoistat korkearesoluutioista musiikkia pilvestä, järjestät kirjastoasi, hallitset äänikirjoja ja siirrät musiikkia laitteiden välillä.
-  {{< /hextra/info-paragraph >}}
+  {{< /ls-info-paragraph >}}
 </div>
 
 {{< cards >}}
 
-{{< feature-card icon="map" link="/docs/guide/flacbox/flacbox-guide-navigation" title="Navigointi" subtitle="Käytä välilehtipalkkia iPhonessa tai vasenta valikkoa iPadissa ja Macissa." >}}
+{{< ls-feature-card icon="map" link="/docs/guide/flacbox/flacbox-guide-navigation" title="Navigointi" subtitle="Käytä välilehtipalkkia iPhonessa tai vasenta valikkoa iPadissa ja Macissa." >}}
 
-{{< feature-card icon="cloud" link="/docs/guide/flacbox/flacbox-guide-connections" title="Yhteydet" subtitle="Yhdistä Dropbox, Google Drive, iCloud tai NAS:si." >}}
+{{< ls-feature-card icon="cloud" link="/docs/guide/flacbox/flacbox-guide-connections" title="Yhteydet" subtitle="Yhdistä Dropbox, Google Drive, iCloud tai NAS:si." >}}
 
-{{< feature-card icon="collection" link="/docs/guide/flacbox/flacbox-guide-music-library" title="Musiikkikirjasto" subtitle="Hallitse ja etsi kappaleita artistin, albumin tai genren mukaan." >}}
+{{< ls-feature-card icon="collection" link="/docs/guide/flacbox/flacbox-guide-music-library" title="Musiikkikirjasto" subtitle="Hallitse ja etsi kappaleita artistin, albumin tai genren mukaan." >}}
 
-{{< feature-card icon="music-note" link="/docs/guide/flacbox/flacbox-guide-playlists" title="Soittolistat" subtitle="Luo ja järjestä soittolistoja mihin tahansa tunnelmaan tai tilaisuuteen." >}}
+{{< ls-feature-card icon="music-note" link="/docs/guide/flacbox/flacbox-guide-playlists" title="Soittolistat" subtitle="Luo ja järjestä soittolistoja mihin tahansa tunnelmaan tai tilaisuuteen." >}}
 
-{{< feature-card icon="folder" link="/docs/guide/flacbox/flacbox-guide-local-files" title="Paikalliset tiedostot" subtitle="Muokkaa ja toista offline-musiikkia sisäänrakennetulla tiedostonhallinnalla." >}}
+{{< ls-feature-card icon="folder" link="/docs/guide/flacbox/flacbox-guide-local-files" title="Paikalliset tiedostot" subtitle="Muokkaa ja toista offline-musiikkia sisäänrakennetulla tiedostonhallinnalla." >}}
 
-{{< feature-card icon="play" link="/docs/guide/flacbox/flacbox-guide-player" title="Äänisoitin" subtitle="Hallitse toistoa, säädä nopeutta, aseta kirjanmerkkejä ja muuta." >}}
+{{< ls-feature-card icon="play" link="/docs/guide/flacbox/flacbox-guide-player" title="Äänisoitin" subtitle="Hallitse toistoa, säädä nopeutta, aseta kirjanmerkkejä ja muuta." >}}
 
-{{< feature-card icon="adjustments" link="/docs/guide/flacbox/flacbox-guide-settings" title="Asetukset" subtitle="Mukauta taajuuskorjainta, ulkoasua ja sovelluksen toimintaa." >}}
+{{< ls-feature-card icon="adjustments" link="/docs/guide/flacbox/flacbox-guide-settings" title="Asetukset" subtitle="Mukauta taajuuskorjainta, ulkoasua ja sovelluksen toimintaa." >}}
 
 {{< /cards >}}
 

@@ -19,7 +19,7 @@ Evervideo biedt een overzichtelijke, intuïtieve interface die vertrouwd aanvoel
 In tegenstelling tot de meeste media-apps voegt Evervideo uw cloudaccounts, NAS-shares, mediaservers en lokale bestanden samen in één unified tab Bestanden — zodat u niet hoeft te schakelen tussen aparte schermen. Dat maakt het verplaatsen van een video van een Plex-server, naar een iCloud Drive-map, naar de map Documenten van uw iPhone een eén-scherm, één-tik-bewerking.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evervideo Hoofdscherm" image="/docs/guide/evervideo/img/evervideo-main.webp" >}}
+  {{< ls-card title="" subtitle="Evervideo Hoofdscherm" image="/docs/guide/evervideo/img/evervideo-main.webp" >}}
 {{< /cards >}}
 
 ## Tabbladen
@@ -53,7 +53,7 @@ PiP werkt met alle videoformaten die Evervideo afspeelt, inclusief cloudgestream
 Vrijwel elk inhoudsitem op het scherm heeft een knop Meer acties (het "⋯" driepunten-pictogram). Tik erop om een contextgevoelig menu te openen met alle beschikbare acties voor dat item — volgende afspelen, later afspelen, toevoegen aan afspeellijst, toevoegen aan favorieten, tags bewerken, downloaden, delen, hernoemen, verplaatsen enzovoort. Lange lijsten scrollen verticaal zodat u minder gebruikte acties kunt bereiken zonder de hoofd-UI te overbelasten.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evervideo Favorieten Meer acties Menu" image="/docs/guide/evervideo/img/evervideo-favorites-more-actions.webp" >}}
+  {{< ls-card title="" subtitle="Evervideo Favorieten Meer acties Menu" image="/docs/guide/evervideo/img/evervideo-favorites-more-actions.webp" >}}
 {{< /cards >}}
 
 ## Bovenwerkbalk

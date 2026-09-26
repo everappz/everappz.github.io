@@ -7,7 +7,7 @@ tags: ["audio", "iphone", "mp3", "sanoitukset", "lrc", "upotettu", "katsele", "n
 keywords: ["katso upotettuja sanoituksia iPhone", "Evermusic näytä sanoitukset", "LRC-tiedosto Evermusic", "kommenttitagi audio", "sanoitusten näyttö Flacbox", "sanoitukset iOS musiikkisovellus", "audiosoitin näytä sanoitukset"]
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **Lyhyesti:** Evermusic iPhonelle ja Macille näyttää upotetut sanoitukset, kommenttikentät ja ulkoiset .lrc-tiedostot mille tahansa ääniraidalle. Avaa soitin, napauta **Lisää toimintoja** ja valitse sitten **Kommentit** nähdäksesi sanoitukset kolmessa tilassa: Kommentit, Upotetut sanoitukset ja LRC-tiedosto.
@@ -68,22 +68,22 @@ Upotettujen sanoitusten, kommenttien tai synkronoitujen `.lrc`-tiedostojen katso
 
 ## UKK
 
-{{% details title="Kuinka katson upotettuja sanoituksia iPhonellani?" closed="true" %}}
+{{% ls-details title="Kuinka katson upotettuja sanoituksia iPhonellani?" closed="true" %}}
 Avaa Evermusic, toista kappale, napauta Lisää toimintoja koko näytön soittimessa ja valitse Kommentit. Pyyhkäise Upotetut sanoitukset -välilehdelle nähdäksesi äänitiedoston tageihin tallennetut sanoitukset.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Mikä on LRC-tiedosto ja miten se toimii?" closed="true" %}}
+{{% ls-details title="Mikä on LRC-tiedosto ja miten se toimii?" closed="true" %}}
 LRC-tiedosto on tekstitiedosto, joka sisältää aikaleimatut kappaleen sanoitukset. Kun se asetetaan samaan kansioon äänitiedoston kanssa samalla tiedostonimellä, Evermusic lukee sen ja näyttää synkronoidut sanoitukset, jotka vierivät toiston aikana.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Voinko lisätä sanoituksia musiikkitiedostoihini iPhonella?" closed="true" %}}
+{{% ls-details title="Voinko lisätä sanoituksia musiikkitiedostoihini iPhonella?" closed="true" %}}
 Kyllä. Käytä Evertag-sovellusta muokataksesi ID3-tageja ja lisätäksesi tai päivittääksesi upotettuja sanoituksia suoraan iPhonellasi. Voit liittää ajoitettua LRC-muotoista tekstiä synkronoituja sanoituksia varten.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Tukeeko Evermusic synkronoituja (ajoitettuja) sanoituksia?" closed="true" %}}
+{{% ls-details title="Tukeeko Evermusic synkronoituja (ajoitettuja) sanoituksia?" closed="true" %}}
 Kyllä. Evermusic tukee ajoitettuja sanoituksia LRC-muodossa sekä äänitageihin upotettuna että erillisenä `.lrc`-tiedostona.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Mitkä audiomuodot tukevat upotettuja sanoituksia?" closed="true" %}}
+{{% ls-details title="Mitkä audiomuodot tukevat upotettuja sanoituksia?" closed="true" %}}
 MP3, FLAC, AAC, M4A, OGG ja useimmat muut yleiset muodot tukevat upotettuja sanoituksia omien tagistandardiensa kautta.
-{{% /details %}}
+{{% /ls-details %}}

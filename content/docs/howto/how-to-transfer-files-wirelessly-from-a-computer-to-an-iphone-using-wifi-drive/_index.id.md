@@ -7,7 +7,7 @@ keywords: ["transfer file nirkabel ke iPhone", "wifi drive transfer file", "berb
 readingTime: 2
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **Ringkasan:** Wi-Fi Drive memungkinkan Anda mentransfer file dari komputer mana pun ke iPhone atau iPad melalui Wi-Fi -- tanpa iTunes atau kabel. Gunakan browser web, Mac Finder, atau Windows File Explorer. Kedua perangkat harus terhubung ke jaringan Wi-Fi yang sama.
@@ -18,7 +18,7 @@ Anda dapat mentransfer file secara nirkabel menggunakan browser web desktop atau
 
 Anda dapat menonton tutorial video dari [**TECHGUYPH**](https://www.youtube.com/channel/UCgpf09gGFE_c_3pPTtTpnzg) atau membaca versi teks di bawah ini.
 <br><br>
-{{< youtubecard id="CqdqrQ0ge70" title="Can We Wirelessly Put Offline Music on iPhones?" >}}
+{{< ls-youtubecard id="CqdqrQ0ge70" title="Can We Wirelessly Put Offline Music on iPhones?" >}}
 
 ## Mentransfer file dari komputer secara nirkabel dengan browser web desktop
 
@@ -90,26 +90,26 @@ Tidak perlu iTunes!
 
 ## Pertanyaan yang Sering Diajukan
 
-{{% details title="Apakah saya perlu iTunes untuk mentransfer file ke iPhone saya?" closed="true" %}}
+{{% ls-details title="Apakah saya perlu iTunes untuk mentransfer file ke iPhone saya?" closed="true" %}}
 Tidak. Wi-Fi Drive mentransfer file langsung melalui jaringan Wi-Fi lokal Anda. iTunes tidak diperlukan.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Aplikasi mana yang mendukung Wi-Fi Drive?" closed="true" %}}
+{{% ls-details title="Aplikasi mana yang mendukung Wi-Fi Drive?" closed="true" %}}
 Wi-Fi Drive tersedia di Evermusic, Flacbox, Evertag, dan Evervideo untuk iOS.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Apakah kedua perangkat harus berada di jaringan Wi-Fi yang sama?" closed="true" %}}
+{{% ls-details title="Apakah kedua perangkat harus berada di jaringan Wi-Fi yang sama?" closed="true" %}}
 Ya. Komputer dan iPhone atau iPad Anda harus terhubung ke jaringan Wi-Fi lokal yang sama agar Wi-Fi Drive dapat berfungsi.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Bisakah saya mentransfer seluruh folder, bukan hanya file individual?" closed="true" %}}
+{{% ls-details title="Bisakah saya mentransfer seluruh folder, bukan hanya file individual?" closed="true" %}}
 Ya. Wi-Fi Drive mendukung pengunggahan dan pengunduhan seluruh folder melalui antarmuka browser web.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Apakah Wi-Fi Drive bekerja dengan Windows?" closed="true" %}}
+{{% ls-details title="Apakah Wi-Fi Drive bekerja dengan Windows?" closed="true" %}}
 Ya. Anda dapat menggunakan browser web apa pun di Windows atau terhubung melalui Windows File Explorer menggunakan protokol WebDAV.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Bisakah saya menggunakan kabel USB untuk mempercepat transfer?" closed="true" %}}
+{{% ls-details title="Bisakah saya menggunakan kabel USB untuk mempercepat transfer?" closed="true" %}}
 Ya. Jika iPhone Anda terhubung ke Mac melalui USB saat Wi-Fi Drive berjalan, transfer akan menggunakan koneksi kabel untuk kecepatan yang lebih cepat.
-{{% /details %}}
+{{% /ls-details %}}

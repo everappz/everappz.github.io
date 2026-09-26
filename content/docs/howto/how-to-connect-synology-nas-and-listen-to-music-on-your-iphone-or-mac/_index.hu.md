@@ -7,7 +7,7 @@ tags: ["zene", "streamelés", "nas", "synology", "quickconnect"]
 readingTime: 4
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **Összefoglaló:** Csatlakoztasd a Synology NAS-t az Evermusic vagy Flacbox alkalmazáshoz a Synology natív API-jával -- akár manuálisan IP-cím, akár automatikusan QuickConnect ID segítségével. A QuickConnect lehetővé teszi a zene távoli streamelését portátirányítás nélkül. Mindkét alkalmazás támogatja a FLAC, MP3, WAV és más hi-res formátumokat.
@@ -140,22 +140,22 @@ A QuickConnect-en keresztüli biztonságos távoli hozzáféréssel és az audio
 
 ## Gyakran ismételt kérdések
 
-{{% details title="Mi a különbség a manuális csatlakozás és a QuickConnect között?" closed="true" %}}
+{{% ls-details title="Mi a különbség a manuális csatlakozás és a QuickConnect között?" closed="true" %}}
 A manuális csatlakozás a NAS IP-címét és portját használja, amely a helyi hálózatodon működik. A QuickConnect a Synology közvetítő szolgáltatását használja a kapcsolat létrehozásához bárhonnan az interneten keresztül, portátirányítás nélkül.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Streamelhetek zenét a Synology NAS-ról az otthoni hálózatomon kívül?" closed="true" %}}
+{{% ls-details title="Streamelhetek zenét a Synology NAS-ról az otthoni hálózatomon kívül?" closed="true" %}}
 Igen. Engedélyezd a QuickConnect-et a Synology NAS-on és használd a QuickConnect ID-t az Evermusic vagy Flacbox alkalmazásban a zene streameléshez bárhonnan internetkapcsolattal.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Milyen audioformátumok támogatottak a Synology NAS-ról való streameléskor?" closed="true" %}}
+{{% ls-details title="Milyen audioformátumok támogatottak a Synology NAS-ról való streameléskor?" closed="true" %}}
 Az Evermusic és a Flacbox támogatja a FLAC, MP3, AAC, WAV, ALAC, OGG, WMA, DSD és sok más formátumot. Az összes támogatott formátum működik a Synology NAS-ról való streameléskor.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Szükségem van kétfaktoros hitelesítésre a csatlakozáshoz?" closed="true" %}}
+{{% ls-details title="Szükségem van kétfaktoros hitelesítésre a csatlakozáshoz?" closed="true" %}}
 Nem, a kétfaktoros hitelesítés opcionális. Ha azonban engedélyezted a kétlépcsős ellenőrzést a Synology DSM-en, az alkalmazás egyszeri jelszót kér a bejelentkezéskor. A munkamenet lejártakor újra kell engedélyezned.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="A Synology natív API-t, WebDAV-ot vagy SMB-t használjam a csatlakozáshoz?" closed="true" %}}
+{{% ls-details title="A Synology natív API-t, WebDAV-ot vagy SMB-t használjam a csatlakozáshoz?" closed="true" %}}
 A Synology natív API a QuickConnect-tel a legjobb választás a távoli hozzáféréshez. Helyi hálózati használathoz az SMB általában a leggyorsabb lehetőség. A WebDAV jól működik mind helyi, mind távoli hozzáféréshez. Az Evermusic és Flacbox mindhárom protokollt támogatja.
-{{% /details %}}
+{{% /ls-details %}}

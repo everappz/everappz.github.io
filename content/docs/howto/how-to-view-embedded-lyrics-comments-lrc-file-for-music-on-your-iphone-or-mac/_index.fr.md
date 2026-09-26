@@ -7,7 +7,7 @@ tags: ["audio", "iphone", "mp3", "paroles", "lrc", "intégré", "afficher", "aff
 keywords: ["afficher paroles intégrées iPhone", "Evermusic afficher paroles", "fichier LRC Evermusic", "tag commentaire audio", "affichage paroles Flacbox", "paroles iOS application musique", "lecteur audio afficher paroles"]
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **En bref :** Evermusic pour iPhone et Mac affiche les paroles intégrées, les tags de commentaires et les fichiers .lrc externes pour toute piste audio. Ouvrez le lecteur, appuyez sur **Plus d'actions**, puis sélectionnez **Commentaires** pour afficher les paroles en trois modes : Commentaires, Paroles intégrées et Fichier LRC.
@@ -68,22 +68,22 @@ Afficher les paroles intégrées, les commentaires ou les fichiers `.lrc` synchr
 
 ## FAQ
 
-{{% details title="Comment afficher les paroles intégrées sur mon iPhone ?" closed="true" %}}
+{{% ls-details title="Comment afficher les paroles intégrées sur mon iPhone ?" closed="true" %}}
 Ouvrez Evermusic, lancez une chanson, appuyez sur Plus d'actions dans le lecteur plein écran et sélectionnez Commentaires. Balayez vers l'onglet Paroles intégrées pour voir les paroles stockées dans les tags du fichier audio.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Qu'est-ce qu'un fichier LRC et comment fonctionne-t-il ?" closed="true" %}}
+{{% ls-details title="Qu'est-ce qu'un fichier LRC et comment fonctionne-t-il ?" closed="true" %}}
 Un fichier LRC est un fichier texte contenant des paroles horodatées. Lorsqu'il est placé dans le même dossier qu'un fichier audio avec le même nom de fichier, Evermusic le lit et affiche des paroles synchronisées qui défilent pendant la lecture.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Puis-je ajouter des paroles à mes fichiers musicaux sur iPhone ?" closed="true" %}}
+{{% ls-details title="Puis-je ajouter des paroles à mes fichiers musicaux sur iPhone ?" closed="true" %}}
 Oui. Utilisez l'application Evertag pour modifier les tags ID3 et ajouter ou mettre à jour les paroles intégrées directement sur votre iPhone. Vous pouvez coller du texte au format LRC minuté pour des paroles synchronisées.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Evermusic prend-il en charge les paroles synchronisées (minutées) ?" closed="true" %}}
+{{% ls-details title="Evermusic prend-il en charge les paroles synchronisées (minutées) ?" closed="true" %}}
 Oui. Evermusic prend en charge les paroles minutées au format LRC, à la fois intégrées dans les tags audio et fournies sous forme de fichier `.lrc` séparé.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Quels formats audio prennent en charge les paroles intégrées ?" closed="true" %}}
+{{% ls-details title="Quels formats audio prennent en charge les paroles intégrées ?" closed="true" %}}
 MP3, FLAC, AAC, M4A, OGG et la plupart des autres formats courants prennent en charge les paroles intégrées grâce à leurs standards de tags respectifs.
-{{% /details %}}
+{{% /ls-details %}}

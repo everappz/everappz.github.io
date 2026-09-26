@@ -15,7 +15,7 @@ readingTime: 5
 **محرر العلامات** هو الشاشة الرئيسية لتطبيق Evertag حيث يمكنك عرض وتعديل البيانات الوصفية لملف الصوت. افتح هذه الشاشة بالضغط على ملف من قسم **الملفات المحلية** أو من أي حساب **تخزين سحابي** متصل.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="شاشة محرر العلامات في Evertag" image="/docs/guide/evertag/img/tag-editor.webp" >}}
+  {{< ls-card title="" subtitle="شاشة محرر العلامات في Evertag" image="/docs/guide/evertag/img/tag-editor.webp" >}}
 {{< /cards >}}
 
 ## أوضاع التعديل
@@ -38,7 +38,7 @@ readingTime: 5
 للوصول إلى جميع العلامات المتاحة، قم بالتمرير إلى أسفل الشاشة واضغط على خيار **إظهار العلامات الموسّعة**. سيؤدي هذا إلى تبديل المحرر إلى الوضع الموسّع، مما يتيح لك تعديل أكثر من **120 حقلًا للبيانات الوصفية**، بما في ذلك **علامات MusicBrainz** و**كلمات الأغاني** و**التقييمات الاستشارية** وقيم replay-gain وأوامر الفرز وبيانات وصفية البودكاست والمزيد. استخدم **الإعدادات ← محرر علامات الصوت ← الأزرار على الشاشة الرئيسية** لتبديل إظهار العلامات الموسّعة بشكل دائم حتى تكون دائمًا مفعّلة.
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="لوحة الإجراءات السفلية" image="/docs/guide/evertag/img/tag-editor-bottom-actions.webp" >}}
+{{< ls-card title="" subtitle="لوحة الإجراءات السفلية" image="/docs/guide/evertag/img/tag-editor-bottom-actions.webp" >}}
 {{< /cards >}}
 
 ## وضع الدفعات
@@ -53,7 +53,7 @@ readingTime: 5
    - افتح أي ملف، قم بالتمرير إلى الأسفل، واضغط على **تعديل الملفات في وقت واحد** لتحميل جميع الملفات من نفس المجلد.
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="وضع التعديل الدفعي" image="/docs/guide/evertag/img/tag-editor-batch-editing.webp" >}}
+{{< ls-card title="" subtitle="وضع التعديل الدفعي" image="/docs/guide/evertag/img/tag-editor-batch-editing.webp" >}}
 {{< /cards >}}
 
 بعد التعديل، اضغط على **حفظ** لتطبيق التغييرات.
@@ -72,19 +72,19 @@ readingTime: 5
 تظهر كل اختصار فقط عندما تكون الخدمة المقابلة متاحة من جهازك. اضغط على خدمة، انسخ كلمات الأغاني (أو طوابع زمن LRC) التي تريدها، ارجع إلى Evertag، والصقها في حقل النص — ثم **حفظ** لكتابة كلمات الأغاني في علامات ملف الصوت.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="صفحات كلمات الأغاني" image="/docs/guide/evertag/img/tag-editor-lyrics-pages.webp" >}}
+  {{< ls-card title="" subtitle="صفحات كلمات الأغاني" image="/docs/guide/evertag/img/tag-editor-lyrics-pages.webp" >}}
 {{< /cards >}}
 
 اختر لغة من المحدد:
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="محدد لغة كلمات الأغاني" image="/docs/guide/evertag/img/tag-editor-lyrics-language-select.webp" >}}
+  {{< ls-card title="" subtitle="محدد لغة كلمات الأغاني" image="/docs/guide/evertag/img/tag-editor-lyrics-language-select.webp" >}}
 {{< /cards >}}
 
 ثم الصق أو اكتب نص كلمات الأغاني. يدعم Evertag كلًا من النص العادي وكلمات الأغاني المزامَنة — يعرض العنصر النائب مثالًا على تنسيق LRC، وهو بالضبط ما تعيده Lrclib وLyricsify للنتائج المزامَنة.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="محرر نص كلمات الأغاني" image="/docs/guide/evertag/img/tag-editor-lyrics-text.webp" >}}
+  {{< ls-card title="" subtitle="محرر نص كلمات الأغاني" image="/docs/guide/evertag/img/tag-editor-lyrics-text.webp" >}}
 {{< /cards >}}
 
 ## تعيين تقييم وتقييم استشاري
@@ -96,7 +96,7 @@ readingTime: 5
 استخدم حقل **التقييم** لإعطاء مقطع درجة شخصية من نجمة إلى خمس نجوم. تُكتب القيمة في علامة التقييم القياسية للملف (POPM لـ ID3، `rate` لـ MP4، `RATING` لـ Vorbis/APE، إلخ)، لذا ستلتقط التطبيقات الأخرى التي تقرأ هذه العلامة — بما في ذلك تطبيق Music وPlex وRoon ومعظم محررات العلامات لسطح المكتب — درجاتك فورًا.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="التقييم" image="/docs/guide/evertag/img/tag-editor-rating.webp" >}}
+  {{< ls-card title="" subtitle="التقييم" image="/docs/guide/evertag/img/tag-editor-rating.webp" >}}
 {{< /cards >}}
 
 ### التقييم الاستشاري
@@ -117,7 +117,7 @@ readingTime: 5
 تُخزَّن القيمة في حقل التقييم الاستشاري القياسي لتنسيق الملف (`rtng` لـ MP4، `TXXX:ITUNESADVISORY` لـ ID3، `ITUNESADVISORY` لـ Vorbis)، لذا أي مشغل يقرأ بيانات وصفية إرشاد الوالدين سيرى تحديثك.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="التقييم الاستشاري لكلمات الأغاني" image="/docs/guide/evertag/img/lyrics-advisory-rating.webp" >}}
+  {{< ls-card title="" subtitle="التقييم الاستشاري لكلمات الأغاني" image="/docs/guide/evertag/img/lyrics-advisory-rating.webp" >}}
 {{< /cards >}}
 
 ## تعديل غلاف الألبوم
@@ -129,7 +129,7 @@ readingTime: 5
 3. اختر صورة لتطبيقها كغلاف فني.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="اختيار صورة" image="/docs/guide/evertag/img/select-image.webp" >}}
+  {{< ls-card title="" subtitle="اختيار صورة" image="/docs/guide/evertag/img/select-image.webp" >}}
 {{< /cards >}}
 
 ## المزيد من الإجراءات في محرر العلامات
@@ -137,7 +137,7 @@ readingTime: 5
 خيارات التعديل الإضافية متاحة عبر شريط الأدوات أسفل عرض الأعمال الفنية.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="قائمة المزيد من الإجراءات" image="/docs/guide/evertag/img/tag-editor-more-actions.webp" >}}
+  {{< ls-card title="" subtitle="قائمة المزيد من الإجراءات" image="/docs/guide/evertag/img/tag-editor-more-actions.webp" >}}
 {{< /cards >}}
 
 ### البحث التلقائي عن علامات الصوت
@@ -150,13 +150,13 @@ readingTime: 5
 استخدم البيانات الوصفية للبحث على الويب عن الأعمال الفنية الصحيحة للألبوم.  
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="البحث عن غلاف الألبوم" image="/docs/guide/evertag/img/search-album-cover.webp" >}}
+  {{< ls-card title="" subtitle="البحث عن غلاف الألبوم" image="/docs/guide/evertag/img/search-album-cover.webp" >}}
 {{< /cards >}}
 
 بمجرد العثور عليها، احفظ الصورة في **الصور** باستخدام قائمة سياق النظام.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="إضافة صورة إلى الصور" image="/docs/guide/evertag/img/add-image-to-photos.webp" >}}
+  {{< ls-card title="" subtitle="إضافة صورة إلى الصور" image="/docs/guide/evertag/img/add-image-to-photos.webp" >}}
 {{< /cards >}}
 
 بعد ذلك، ارجع إلى محرر العلامات، اضغط على أيقونة الكاميرا، وانتقل إلى **مكتبة الصور**، وحدد الصورة المحفوظة. سيقوم التطبيق بتعيينها كغلاف لملف الصوت.
@@ -178,19 +178,19 @@ readingTime: 5
 - اختر الألبوم  
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="اختيار الألبوم" image="/docs/guide/evertag/img/select-album-results.webp" >}}
+  {{< ls-card title="" subtitle="اختيار الألبوم" image="/docs/guide/evertag/img/select-album-results.webp" >}}
 {{< /cards >}}
 
 - اختر الأغنية الصحيحة  
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="اختيار أغنية" image="/docs/guide/evertag/img/select-a-song.webp" >}}
+  {{< ls-card title="" subtitle="اختيار أغنية" image="/docs/guide/evertag/img/select-a-song.webp" >}}
 {{< /cards >}}
 
 - اختر العلامات المراد تطبيقها  
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="اختيار علامات صوتية" image="/docs/guide/evertag/img/select-audio-tags.webp" >}}
+  {{< ls-card title="" subtitle="اختيار علامات صوتية" image="/docs/guide/evertag/img/select-audio-tags.webp" >}}
 {{< /cards >}}
 
 اضغط على **تم** لتطبيق البيانات الوصفية المحددة على مقطعك.

@@ -12,7 +12,7 @@ authors:
     image: "/images/about/artem-meleshko-founder-everappz.webp"
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 ## أي مشغل موسيقى سحابي هو الأفضل لجهاز iPhone؟
 
@@ -91,22 +91,22 @@ Deezer خدمة بث موسيقى عالمية بعشرات الملايين م�
 
 ## الأسئلة الشائعة
 
-{{% details title="هل يمكنني تشغيل ملفات FLAC على iPhone دون تحويلها؟" closed="true" %}}
+{{% ls-details title="هل يمكنني تشغيل ملفات FLAC على iPhone دون تحويلها؟" closed="true" %}}
 نعم. يشغّل Evermusic ملفات FLAC وDSD وWAV وALAC وصيغ عديمة الفقد أخرى بشكل مدمج على iPhone. لا حاجة لأي تحويل للملفات. ما عليك سوى توصيل حساب تخزينك السحابي وبث أو تنزيل ملفات FLAC الخاصة بك مباشرة.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="أي مشغل موسيقى سحابي يعمل مع Dropbox وGoogle Drive؟" closed="true" %}}
+{{% ls-details title="أي مشغل موسيقى سحابي يعمل مع Dropbox وGoogle Drive؟" closed="true" %}}
 يدعم Evermusic Dropbox وGoogle Drive وOneDrive وBox وMEGA وpCloud وWebDAV وSMB والمزيد -- أكثر من 12 خدمة سحابية في المجموع. معظم تطبيقات البث الرئيسية مثل Spotify وApple Music لا تتصل بالتخزين السحابي لجهات خارجية.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="هل أحتاج إلى اشتراك لاستخدام مشغل موسيقى سحابي؟" closed="true" %}}
+{{% ls-details title="هل أحتاج إلى اشتراك لاستخدام مشغل موسيقى سحابي؟" closed="true" %}}
 يعتمد الأمر على التطبيق. تتطلب Spotify وApple Music وDeezer اشتراكات شهرية. يقدم Evermusic نسخة مجانية وشراء Premium لمرة واحدة بدون رسوم متكررة. تستخدم تخزينك السحابي الخاص لاستضافة ملفاتك الموسيقية.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="ما هو أفضل مشغل موسيقى للاستماع دون اتصال على iPhone؟" closed="true" %}}
+{{% ls-details title="ما هو أفضل مشغل موسيقى للاستماع دون اتصال على iPhone؟" closed="true" %}}
 جميع اللاعبين الرئيسيين يدعمون التنزيلات دون اتصال، لكن النهج يختلف. تتيح لك Spotify وApple Music تنزيل المقطوعات من فهارسهما. يتيح لك Evermusic تنزيل ملفاتك الخاصة من التخزين السحابي للتشغيل دون اتصال -- مثالي للرحلات الجوية والتنقلات أو المناطق التي لا يوجد فيها اتصال.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="هل يمكنني استخدام مشغل موسيقى سحابي مع جهاز NAS أو خادم منزلي؟" closed="true" %}}
+{{% ls-details title="هل يمكنني استخدام مشغل موسيقى سحابي مع جهاز NAS أو خادم منزلي؟" closed="true" %}}
 نعم. يدعم Evermusic بروتوكولي WebDAV وSMB، مما يعني إمكانية الاتصال بمعظم أجهزة NAS من Synology وQNAP وWestern Digital. يحوّل ذلك iPhone إلى مشغل عن بُعد لمكتبتك الموسيقية المنزلية بأكملها.
-{{% /details %}}
+{{% /ls-details %}}

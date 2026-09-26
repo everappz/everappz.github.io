@@ -14,7 +14,7 @@ authors:
     image: "/images/about/artem-meleshko-founder-everappz.webp"
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 ## למה מילות מפתח ב-App Store קובעות את מספר ההורדות שלכם
 
@@ -87,29 +87,29 @@ json_dict_to_meta.sh       # Converts JSON back into Fastlane folders
 הכלי הוא קוד פתוח.
 
 {{< cards cols="1" >}}
-  {{< card link="https://github.com/everappz/app-store-keyword-optimizer/tree/main" title="appkeywords.pro ב-GitHub" icon="github" tag= "open source" >}}
+  {{< ls-card link="https://github.com/everappz/app-store-keyword-optimizer/tree/main" title="appkeywords.pro ב-GitHub" icon="github" tag= "open source" >}}
 {{< /cards >}}
 
 ---
 
 ## שאלות נפוצות
 
-{{% details title="האם AppKeywords.pro באמת חינמי?" closed="true" %}}
+{{% ls-details title="האם AppKeywords.pro באמת חינמי?" closed="true" %}}
 כן. זהו כלי קוד פתוח לחלוטין, מבוסס דפדפן, ללא הרשמה, ללא פרסומות וללא איסוף נתונים. המטא-נתונים שלכם לעולם לא עוזבים את המכשיר.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="האם הכלי עובד עם מספר לוקליזציות של App Store?" closed="true" %}}
+{{% ls-details title="האם הכלי עובד עם מספר לוקליזציות של App Store?" closed="true" %}}
 כן. ניתן להוסיף מטא-נתונים לכל לוקאל בנפרד, והייצוא כולל את כל השפות בקובץ JSON אחד תואם Fastlane.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="האם עלי לחזור על מילות מפתח מהכותרת בשדה מילות המפתח?" closed="true" %}}
+{{% ls-details title="האם עלי לחזור על מילות מפתח מהכותרת בשדה מילות המפתח?" closed="true" %}}
 לא. Apple כבר מאנדקסת מילים מהכותרת וכותרת המשנה. חזרה עליהן בשדה מילות המפתח מבזבזת תווים.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="כמה פעמים עלי לעדכן מילות מפתח ב-App Store?" closed="true" %}}
+{{% ls-details title="כמה פעמים עלי לעדכן מילות מפתח ב-App Store?" closed="true" %}}
 סקרו ורעננו מילות מפתח לפחות פעם ברבעון. התאימו מוקדם יותר אם שמים לב לירידות בדירוג.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="האם ניתן להשתמש בכלי עם Fastlane?" closed="true" %}}
+{{% ls-details title="האם ניתן להשתמש בכלי עם Fastlane?" closed="true" %}}
 כן. מאגר ה-GitHub כולל סקריפטי shell להמרה בין מבנה תיקיות המטא-נתונים של Fastlane לפורמט JSON של AppKeywords.pro.
-{{% /details %}}
+{{% /ls-details %}}

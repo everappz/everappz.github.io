@@ -20,7 +20,7 @@ Bahagian Fail Tempatan berfungsi sebagai hab untuk mengurus fail yang terletak d
 Pengurus fail terbina dalam ini membolehkan anda mengedit fail dan menawarkan pelbagai kaedah untuk mengimport fail audio ke dalam apl.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Skrin Fail Tempatan Evermusic" image="/docs/guide/evermusic/evermusic-guide-local-files/img/local-files-main.webp" >}}
+  {{< ls-card title="" subtitle="Skrin Fail Tempatan Evermusic" image="/docs/guide/evermusic/evermusic-guide-local-files/img/local-files-main.webp" >}}
 {{< /cards >}}
 
 ## Muat turun fail dari storan awan
@@ -40,7 +40,7 @@ Import fail dengan mudah dari peranti anda seperti yang diterangkan [di sini](/d
 Pindahkan fail menggunakan sambungan kabel seperti yang diterangkan [di sini](/docs/howto/how-to-transfer-files-from-my-mac-to-iphone-or-ipad-using-finder).
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Perkongsian Fail iTunes / Finder" image="/docs/guide/evermusic/evermusic-guide-local-files/img/local-files-itunes-file-sharing.webp" >}}
+  {{< ls-card title="" subtitle="Perkongsian Fail iTunes / Finder" image="/docs/guide/evermusic/evermusic-guide-local-files/img/local-files-itunes-file-sharing.webp" >}}
 {{< /cards >}}
 
 ## Wi-Fi Drive
@@ -48,7 +48,7 @@ Pindahkan fail menggunakan sambungan kabel seperti yang diterangkan [di sini](/d
 Pindahkan fail secara tanpa wayar seperti yang diterangkan [di sini](/docs/howto/how-to-transfer-files-wirelessly-from-a-computer-to-an-iphone-using-wifi-drive).
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Tetapan Pelayan Wi-Fi Drive" image="/docs/guide/evermusic/evermusic-guide-local-files/img/local-files-wifidrive-settings.webp" >}}
+  {{< ls-card title="" subtitle="Tetapan Pelayan Wi-Fi Drive" image="/docs/guide/evermusic/evermusic-guide-local-files/img/local-files-wifidrive-settings.webp" >}}
 {{< /cards >}}
 
 ## Baris Gilir Pemindahan
@@ -56,7 +56,7 @@ Pindahkan fail secara tanpa wayar seperti yang diterangkan [di sini](/docs/howto
 Di penjuru kiri atas bar navigasi, anda akan menemui butang 'Pemindahan'. Ketuk untuk mengakses baris gilir pemindahan, di mana anda boleh memantau dan mengurus semua muat turun dan muat naik anda. Selain itu, anda mempunyai fleksibiliti untuk melaraskan kelajuan baris gilir pemindahan dan jenis rangkaian dalam tetapan apl.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Baris Gilir Pemindahan Fail" image="/docs/guide/evermusic/evermusic-guide-local-files/img/local-files-file-transfers.webp" >}}
+  {{< ls-card title="" subtitle="Baris Gilir Pemindahan Fail" image="/docs/guide/evermusic/evermusic-guide-local-files/img/local-files-file-transfers.webp" >}}
 {{< /cards >}}
 
 ## Bahagian Akses Pantas
@@ -68,7 +68,7 @@ Di bahagian atas skrin, bahagian akses pantas menyediakan pautan yang mudah ke f
 Bahagian ini memaparkan semua fail atau folder yang baru-baru ini dibuka.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Fail dan Folder yang Baru Dibuka" image="/docs/guide/evermusic/evermusic-guide-local-files/img/local-files-recents.webp" >}}
+  {{< ls-card title="" subtitle="Fail dan Folder yang Baru Dibuka" image="/docs/guide/evermusic/evermusic-guide-local-files/img/local-files-recents.webp" >}}
 {{< /cards >}}
 
 ## Kegemaran
@@ -76,7 +76,7 @@ Bahagian ini memaparkan semua fail atau folder yang baru-baru ini dibuka.
 Anda boleh menanda fail atau folder sebagai kegemaran dan mengaksesnya dalam bahagian ini. Selain itu, anda boleh menambah folder yang terletak pada peranti anda ke kegemaran anda. Untuk melakukan ini, buka bahagian kegemaran, ketuk tiga titik di penjuru kanan atas, dan pilih item menu "Tambah folder". Ikuti arahan untuk menambah folder dari peranti anda ke kegemaran anda untuk akses pantas.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Kegemaran — Tambah Folder Dari Peranti Anda" image="/docs/guide/evermusic/evermusic-guide-local-files/img/local-files-favorites.webp" >}}
+  {{< ls-card title="" subtitle="Kegemaran — Tambah Folder Dari Peranti Anda" image="/docs/guide/evermusic/evermusic-guide-local-files/img/local-files-favorites.webp" >}}
 {{< /cards >}}
 
 ## Bar Alat Atas
@@ -91,7 +91,7 @@ Bar alat atas, yang terletak di bawah bar navigasi, menawarkan beberapa tindakan
 Anda boleh menunjukkan atau menyembunyikan bar alat atas menggunakan isyarat luncur ke bawah.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Bar Alat Atas untuk Folder Semasa" image="/docs/guide/evermusic/evermusic-guide-local-files/img/local-files-top-toolbar.webp" >}}
+  {{< ls-card title="" subtitle="Bar Alat Atas untuk Folder Semasa" image="/docs/guide/evermusic/evermusic-guide-local-files/img/local-files-top-toolbar.webp" >}}
 {{< /cards >}}
 
 ## Folder Khas
@@ -128,7 +128,7 @@ Menunjukkan fail dan folder yang disimpan dalam direktori Dokumen apl dan iCloud
 Menunjukkan fail yang terletak pada peranti anda tetapi dalam aplikasi yang berbeza. Anda boleh mengimportnya ke dalam aplikasi ini menggunakan pemilih fail sistem. Untuk mengaktifkan pemilih, pilih "Buka fail..." untuk memilih fail atau "Buka folder..." untuk memilih folder. Arahan terperinci tentang cara mengimport muzik tempatan yang disimpan pada iPhone atau Mac anda tersedia [di sini](/docs/howto/how-to-play-local-music-stored-on-your-iphone-or-mac). Anda juga boleh menyambungkan folder yang terletak pada peranti anda dan mempunyai akses pantas ke kandungan folder. Gunakan item menu "Sambung folder" dan pilih folder yang terletak pada peranti anda. Ketuk "Selesai" dan apl akan mencipta pautan ke folder tersebut dengan akses baca/tulis dan anda boleh mengurus fail terus dari apl ini. Untuk memutuskan sambungan folder yang terletak pada peranti anda, ketuk butang "Lebih banyak tindakan" dan pilih "Putuskan Sambungan".
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Fail pada iPhone / iPad / Mac Ini" image="/docs/guide/evermusic/evermusic-guide-local-files/img/local-files-on-this-device.webp" >}}
+  {{< ls-card title="" subtitle="Fail pada iPhone / iPad / Mac Ini" image="/docs/guide/evermusic/evermusic-guide-local-files/img/local-files-on-this-device.webp" >}}
 {{< /cards >}}
 
 ## Import Fail yang Terletak pada Kad Kilat USB yang Disambungkan
@@ -151,7 +151,7 @@ Menu lebih banyak tindakan untuk folder yang sedang dibuka terletak di penjuru k
 Jika anda perlu mengedit beberapa fail, aktifkan mod pemilihan dengan mengetuk butang lebih banyak tindakan "..." pada bar navigasi di penjuru kanan atas dan kemudian pilih item menu "Pilih". Ini akan memaparkan kotak semak berhampiran setiap fail. Pilih fail yang diinginkan dengan mengetuk kotak semak mereka. Anda boleh melaksanakan tindakan-tindakan berikut pada fail yang dipilih.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Tindakan Mod Pemilihan untuk Fail Tempatan" image="/docs/guide/evermusic/evermusic-guide-local-files/img/local-files-selection-mode.webp" >}}
+  {{< ls-card title="" subtitle="Tindakan Mod Pemilihan untuk Fail Tempatan" image="/docs/guide/evermusic/evermusic-guide-local-files/img/local-files-selection-mode.webp" >}}
 {{< /cards >}}
 
 - **Main seterusnya:** Tambah fail atau folder yang dipilih ke bahagian atas baris gilir pemain dengan susunan pengurutan semasa.
@@ -186,7 +186,7 @@ Untuk setiap fail atau folder dalam apl, beberapa tindakan tersedia, boleh diaks
 ## Folder Luar Talian
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Menu Lebih banyak tindakan Folder Luar Talian" image="/docs/guide/evermusic/evermusic-guide-local-files/img/local-files-offline-folders.webp" >}}
+  {{< ls-card title="" subtitle="Menu Lebih banyak tindakan Folder Luar Talian" image="/docs/guide/evermusic/evermusic-guide-local-files/img/local-files-offline-folders.webp" >}}
 {{< /cards >}}
 
 Mod luar talian ialah ciri yang berguna yang membolehkan anda mengakses muzik kegemaran anda walaupun apabila anda tidak disambungkan ke internet. Apabila anda mengaktifkan mod luar talian untuk mana-mana album, artis, senarai main, genre, atau folder jauh, semua fail dalam koleksi tersebut akan dimuat turun secara automatik ke peranti anda untuk main balik luar talian. Anda boleh mengakses fail-fail ini dengan mudah dalam bahagian "Folder Luar Talian" apl.
@@ -204,7 +204,7 @@ Arahan terperinci tentang Cara Memainkan Muzik Luar Talian dalam Evermusic & Fla
 Hampir setiap gelagat skrin Fail Tempatan — dari lebar jalur rangkaian ke tempat muat turun mendarat ke cara lakaran kecil di-cache — boleh dikonfigurasi di bawah **Tetapan → Pengurus fail**. Buka ia bila-bila masa anda ingin melaraskan kelajuan pemindahan, menjimatkan ruang storan, atau menyekat apl ke Wi-Fi sahaja.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Skrin Tetapan Pengurus Fail" image="/docs/guide/evermusic/evermusic-guide-local-files/img/local-files-file-manager-settings.webp" >}}
+  {{< ls-card title="" subtitle="Skrin Tetapan Pengurus Fail" image="/docs/guide/evermusic/evermusic-guide-local-files/img/local-files-file-manager-settings.webp" >}}
 {{< /cards >}}
 
 Skrin mendedahkan setiap pilihan yang dikumpulkan dalam bahagian berlabel jelas:

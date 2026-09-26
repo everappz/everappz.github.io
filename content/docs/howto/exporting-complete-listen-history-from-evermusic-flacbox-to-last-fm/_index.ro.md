@@ -7,7 +7,7 @@ tags: ["evermusic", "flacbox", "recente", "lastfm", "export", "scrobbler"]
 readingTime: 5
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **Rezumat:** Exportați istoricul de ascultare din Evermusic sau Flacbox ca fișier CSV, apoi încărcați-l pe Last.fm folosind instrumentul gratuit Last.fm-Scrubbler-WPF pe Windows. Scrobbling-ul automat este disponibil nativ și în ambele aplicații.
@@ -134,22 +134,22 @@ Acum puteți deschide profilul dvs. pe pagina [Last.fm](http://Last.fm) și veri
 
 ## Întrebări frecvente
 
-{{% details title="Pot face scrobble automat fără a exporta fișiere CSV?" closed="true" %}}
+{{% ls-details title="Pot face scrobble automat fără a exporta fișiere CSV?" closed="true" %}}
 Da. Atât Evermusic, cât și Flacbox acceptă acum scrobbling-ul automat pe Last.fm. Consultați ghidul: [Cum să faceți scrobble pe Last.fm](/docs/howto/how-to-scrobble-your-music-history-from-evermusic-or-flacbox-to-last-fm).
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Ce se întâmplă dacă CSV-ul meu are piese mai vechi de 14 zile?" closed="true" %}}
+{{% ls-details title="Ce se întâmplă dacă CSV-ul meu are piese mai vechi de 14 zile?" closed="true" %}}
 Folosiți Modul Import în Last.fm-Scrubbler-WPF. Acesta recalculează mărcile temporale din Finish Time, permițându-vă să scrobblați piese indiferent de data lor originală.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Nu am un computer Windows. Pot folosi totuși Last.fm-Scrubbler?" closed="true" %}}
+{{% ls-details title="Nu am un computer Windows. Pot folosi totuși Last.fm-Scrubbler?" closed="true" %}}
 Da. Instalați VirtualBox pe Mac-ul dvs. și descărcați imaginea gratuită a Mediului de Dezvoltare Windows de la Microsoft. Rulați Last.fm-Scrubbler-WPF în mașina virtuală.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="De ce nu sunt parsate unele scrobble-uri?" closed="true" %}}
+{{% ls-details title="De ce nu sunt parsate unele scrobble-uri?" closed="true" %}}
 Piesele cărora le lipsesc metadate esențiale (cum ar fi numele artistului) nu pot fi parsate. Acest lucru este așteptat și nu afectează alte piese din fișier.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Există o limită zilnică de scrobble-uri?" closed="true" %}}
+{{% ls-details title="Există o limită zilnică de scrobble-uri?" closed="true" %}}
 Da. Last.fm-Scrubbler-WPF permite până la 2.800 de scrobble-uri pe zi. Dacă trebuie să scrobblați mai multe, împărțiți procesul pe mai multe zile.
-{{% /details %}}
+{{% /ls-details %}}

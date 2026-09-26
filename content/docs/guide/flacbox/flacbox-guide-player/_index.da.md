@@ -23,7 +23,7 @@ Lydafspilleren er appens hovedskærm, hvor du styrer musikken og de fleste afspi
 Du kan komme til fuldskærmsafspilleren fra mini-afspillerbaren. På iPhone sidder mini-afspilleren i bunden af hovedskærmen. På iPad og Mac er den på venstre side. For at skjule mini-afspilleren på iPhone skal du trykke på den én gang og stryge ned. For at lukke fuldskærmsafspilleren helt skal du trykke på luk-knappen i nederste højre hjørne.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox lydafspillers hovedskærm" image="/docs/guide/flacbox/img/audio-player-main-screen.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox lydafspillers hovedskærm" image="/docs/guide/flacbox/img/audio-player-main-screen.webp" >}}
 {{< /cards >}}
 
 ## Understøttede lydformater
@@ -66,7 +66,7 @@ For AirPlay skal du lede efter knappen **AirPlay** nederst i afspilleren. Tryk p
 Flacbox inkluderer en **10-bånds equalizer** med iPod-stilede forudindstillinger. Tryk på Equalizer i lydstyrkevisningen, og skift den til med øverste højre hjørne. Du kan bruge forudindstillinger som Acoustic og Bass Booster, eller justere hvert frekvensbånd med skyderen. Lav dine egne forudindstillinger, gem dem under et vilkårligt navn, og øg den overordnede lydstyrke med forstærkeren. Vi har mere detaljerede instruktioner om, hvordan man bruger equalizeren [her](/docs/howto/how-to-use-the-audio-equalizer-on-your-iphone-ipad-mac-with-evermusic-and-flacbox).
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox lydafspiller equalizer" image="/docs/guide/flacbox/img/audio-player-equalizer.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox lydafspiller equalizer" image="/docs/guide/flacbox/img/audio-player-equalizer.webp" >}}
 {{< /cards >}}
 
 ## Afspillertilstandsværktøjslinje
@@ -82,7 +82,7 @@ For nogle afspillerstile er der en dedikeret værktøjslinje øverst i fuldskær
 For at se din afspillerkø skal du trykke på kø-knappen på højre side af det aktuelle nummer. Hvert nummer i køen har flere handlinger — tryk på de tre prikker for at se dem. For at omarrangere et nummer i køen skal du bruge omarranger-indikatoren nær titlen og trække den til en ny position.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox afspilningskø" image="/docs/guide/flacbox/img/playback_queue.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox afspilningskø" image="/docs/guide/flacbox/img/playback_queue.webp" >}}
 {{< /cards >}}
 
 ## Kommentarer / Sangtekster
@@ -98,7 +98,7 @@ For at se nummers kommentarer og indlejrede sangtekster samt LRC-filer skal du f
 Tryk herefter på afspillerkø-knappen nederst på skærmen flere gange for at skifte fra coverbillede / kø-visning til kommentarvisningen. På skærmen Kommentarer skal du scrolle til højre for at skifte mellem **Kommentarer**, **Indlejrede sangtekster** og **LRC-filen**. Fulde instruktioner er tilgængelige [her](/docs/howto/how-to-add-and-view-comments-to-your-audio-tracks-on-iphone-ipad-and-mac-with-evermusic-and-flacbox).
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox sangtekster og kommentarskærm" image="/docs/guide/flacbox/img/lyrics-screen.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox sangtekster og kommentarskærm" image="/docs/guide/flacbox/img/lyrics-screen.webp" >}}
 {{< /cards >}}
 
 ## Valgmenu
@@ -121,7 +121,7 @@ Hvert nummer i lydafspillerens kø har en menu med flere handlinger, tilgået ve
 De samme muligheder er tilgængelige for det aktuelt afspillede element i lydafspillerens kø, som du kan tilgå ved at trykke på ikonet **Flere handlinger** nær nummertitlen.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox-indstillinger for et element i afspilningskøen" image="/docs/guide/flacbox/img/options-for-item-in-playback-queue.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox-indstillinger for et element i afspilningskøen" image="/docs/guide/flacbox/img/options-for-item-in-playback-queue.webp" >}}
 {{< /cards >}}
 
 ## Yderligere afspillerhandlinger
@@ -143,7 +143,7 @@ Tryk på knappen **Flere handlinger** "..." på venstre side af titlen på den a
 - **Hjælp** — find assistance og vejledning.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox lydafspiller – skærmen Flere handlinger" image="/docs/guide/flacbox/img/audio-player-more-actions-screen.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox lydafspiller – skærmen Flere handlinger" image="/docs/guide/flacbox/img/audio-player-more-actions-screen.webp" >}}
 {{< /cards >}}
 
 ## Lydbogmærker
@@ -161,7 +161,7 @@ Sådan opretter du et nyt bogmærke:
 Redigering af bogmærker for det aktuelle nummer er nemt: tryk på Rediger i øverste højre hjørne for at gå i redigeringstilstand. I denne tilstand kan du omarrengere bogmærker, slette dem, justere bogmærketid og ændre bogmærketitler. Mere detaljerede instruktioner om lydbogmærker er tilgængelige [her](/docs/howto/how-to-listen-to-audiobooks-on-iphone-ipad-mac-using-evermusic).
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox lydbogmærkeskærm" image="/docs/guide/flacbox/img/audio-bookmarks.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox lydbogmærkeskærm" image="/docs/guide/flacbox/img/audio-bookmarks.webp" >}}
 {{< /cards >}}
 
 ## Seneste og favoritter
@@ -175,7 +175,7 @@ Tilslut din iPhone til din bil via USB eller trådløs Apple CarPlay, og Flacbox
 [Læs den fulde CarPlay-guide](/docs/howto/how-to-play-your-own-music-on-iphone-using-carplay/).
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox på Apple CarPlay" image="/docs/guide/flacbox/img/carplay-main.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox på Apple CarPlay" image="/docs/guide/flacbox/img/carplay-main.webp" >}}
 {{< /cards >}}
 
 ## Widgets på startskærmen (iPhone og iPad)
@@ -243,7 +243,7 @@ Tilpas lydequalizerindstillingerne. Du kan læse mere om konfiguration af lydequ
 Juster afspilningshastigheden for lydafspilleren fra **0,02× til 3,00×**. Tryk på konfigurationsikonet i øverste højre hjørne for at skifte til **præcis tilstand** for finere justeringer.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox afspilningshastighedsskærm" image="/docs/guide/flacbox/img/playback-speed.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox afspilningshastighedsskærm" image="/docs/guide/flacbox/img/playback-speed.webp" >}}
 {{< /cards >}}
 
 ### Tonejustering

@@ -12,7 +12,7 @@ authors:
     image: "/images/about/artem-meleshko-founder-everappz.webp"
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 ![](/blog/evermusic-stream-your-music-from-the-cloud-and-free-up-space-on-your-iphone-or-ipad/21260c_00c5356db3a24db6a6a37e353b774d56~mv2.jpg)
 
@@ -82,22 +82,22 @@ Navighează în contul cloud conectat, deschide un folder cu muzică și atinge 
 
 ## Întrebări frecvente
 
-{{% details title="Este Evermusic gratuit?" closed="true" %}}
+{{% ls-details title="Este Evermusic gratuit?" closed="true" %}}
 Evermusic este gratuit de descărcat cu funcții premium opționale. Streamingul cloud de bază și redarea offline sunt disponibile în versiunea gratuită.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Ce servicii cloud suportă Evermusic?" closed="true" %}}
+{{% ls-details title="Ce servicii cloud suportă Evermusic?" closed="true" %}}
 Google Drive, Dropbox, Box, OneDrive, MediaFire, MEGA, Yandex.Disk, pCloud, HiDrive, MyDrive, partajări de fișiere SMB și servere WebDAV.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Pot asculta muzică offline cu Evermusic?" closed="true" %}}
+{{% ls-details title="Pot asculta muzică offline cu Evermusic?" closed="true" %}}
 Da. Descarcă orice album, artist, playlist sau piesă individuală pentru redare offline direct în aplicație.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Ce formate audio redă Evermusic?" closed="true" %}}
+{{% ls-details title="Ce formate audio redă Evermusic?" closed="true" %}}
 Evermusic suportă MP3, FLAC, AAC, WAV, ALAC, AIFF, OPUS, OGG și multe alte formate.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Mai am nevoie de iTunes pentru a transfera muzică?" closed="true" %}}
+{{% ls-details title="Mai am nevoie de iTunes pentru a transfera muzică?" closed="true" %}}
 Nu. Încarcă muzica ta în orice serviciu cloud suportat de pe computer, apoi redă sau descarcă prin Evermusic pe iPhone sau iPad.
-{{% /details %}}
+{{% /ls-details %}}

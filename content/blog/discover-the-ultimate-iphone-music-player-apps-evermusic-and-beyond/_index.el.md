@@ -12,7 +12,7 @@ authors:
     image: "/images/about/artem-meleshko-founder-everappz.webp"
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 **Περίληψη:** Ο καλύτερος αναπαραγωγέας μουσικής για iPhone εξαρτάται από τις ανάγκες σας. Το **Evermusic** είναι ιδανικό για αναπαραγωγή από αποθήκευση cloud και ευελιξία μορφών. Το **Apple Music** ταιριάζει σε όσους είναι βαθιά στο οικοσύστημα Apple. Το **Spotify** υπερέχει στην ανακάλυψη μουσικής. Το **VLC** χειρίζεται κάθε μορφή αρχείου δωρεάν. Το **Amazon Music** ταιριάζει καλά με Alexa και Prime.
 
@@ -128,22 +128,22 @@ authors:
 
 ## Συχνές ερωτήσεις
 
-{{% details title="Ποιος είναι ο καλύτερος δωρεάν αναπαραγωγέας μουσικής για iPhone;" closed="true" %}}
+{{% ls-details title="Ποιος είναι ο καλύτερος δωρεάν αναπαραγωγέας μουσικής για iPhone;" closed="true" %}}
 Για αναπαραγωγή των δικών σας αρχείων, το Evermusic και το VLC είναι και τα δύο δωρεάν επιλογές. Το Evermusic προσθέτει ενσωμάτωση αποθήκευσης cloud, ενώ το VLC υποστηρίζει το ευρύτερο φάσμα μορφών αρχείων.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Μπορώ να αναπαράγω αρχεία FLAC στο iPhone;" closed="true" %}}
+{{% ls-details title="Μπορώ να αναπαράγω αρχεία FLAC στο iPhone;" closed="true" %}}
 Ναι. Το Evermusic και το VLC υποστηρίζουν και τα δύο αναπαραγωγή FLAC στο iPhone. Το Apple Music και το Spotify δεν αναπαράγουν αρχεία FLAC απευθείας.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Ποια εφαρμογή αναπαραγωγής μουσικής λειτουργεί με αποθήκευση cloud;" closed="true" %}}
+{{% ls-details title="Ποια εφαρμογή αναπαραγωγής μουσικής λειτουργεί με αποθήκευση cloud;" closed="true" %}}
 Το Evermusic είναι ο κορυφαίος αναπαραγωγέας μουσικής για iPhone με ενσωματωμένη υποστήριξη αποθήκευσης cloud. Συνδέεται με iCloud Drive, Dropbox, Google Drive, OneDrive, pCloud και άλλες υπηρεσίες.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Είναι το Evermusic καλύτερο από το Apple Music;" closed="true" %}}
+{{% ls-details title="Είναι το Evermusic καλύτερο από το Apple Music;" closed="true" %}}
 Εξυπηρετούν διαφορετικούς σκοπούς. Το Evermusic αναπαράγει τα δικά σας αρχεία μουσικής από αποθήκευση cloud και τοπική αποθήκευση. Το Apple Music είναι μια συνδρομητική υπηρεσία streaming με κατάλογο 100Μ+ τραγουδιών. Αν έχετε τα δικά σας αρχεία μουσικής, το Evermusic είναι η καλύτερη επιλογή.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Μπορώ να χρησιμοποιήσω το Spotify εκτός σύνδεσης στο iPhone;" closed="true" %}}
+{{% ls-details title="Μπορώ να χρησιμοποιήσω το Spotify εκτός σύνδεσης στο iPhone;" closed="true" %}}
 Ναι, αλλά μόνο με συνδρομή Spotify Premium. Οι δωρεάν χρήστες του Spotify δεν μπορούν να κατεβάσουν τραγούδια για αναπαραγωγή εκτός σύνδεσης.
-{{% /details %}}
+{{% /ls-details %}}

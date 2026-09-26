@@ -186,3 +186,5 @@ everdiskFeatAdvancedServerSettings: "Speciális kiszolgálóbeállítások"
 everdiskFeatSMB3Encryption: "SMB3 titkosítás"
 everdiskFeatAutomaticSharing: "Automatikus megosztás"
 everdiskFeatDevicePersonalization: "Eszköz-személyre szabás"
+
+searchDocsPlaceholder: "Keresés a dokumentációban, GYIK-ben és útmutatókban…"

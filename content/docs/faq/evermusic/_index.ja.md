@@ -26,7 +26,7 @@ Evermusicは、iPhone、iPad、Mac向けのクラウド音楽プレイヤーで�
 
 <div class="hx:w-full">
 
-{{% details title="Evermusicとは何ですか？" closed="true" %}}
+{{% ls-details title="Evermusicとは何ですか？" closed="true" %}}
 Evermusicは、iPhone、iPad、Mac向けの**クラウド音楽プレイヤー**で、複数のクラウドサービス、NASデバイス、ローカルストレージからトラックをストリーミング、ダウンロード、整理できます。すべてを1つの統合ライブラリで管理できます。<br><br>
 
 オフライン再生のために音楽を簡単にダウンロードしたり、プレイリストを作成・管理したり、内蔵イコライザーでリスニング体験を向上させることができます。アプリは**Google Drive、Dropbox、OneDrive、iCloud Drive、MEGA、Box、pCloud、Yandex Disk**など多くのサービスに対応しており、すべての音楽を1か所に保存して任意のデバイスからアクセスできます。<br><br>
@@ -34,9 +34,9 @@ Evermusicは、iPhone、iPad、Mac向けの**クラウド音楽プレイヤー**
 Evermusicは幅広いオーディオフォーマットをサポートし、**アーティスト、アルバム、ジャンル、作曲家**別に音楽ライブラリを整理できます。クラウドストレージとデバイス間でライブラリを同期し、フライト中や機内モードでもお気に入りの楽曲をいつでも利用できます。<br><br>
 
 **ギャップレス再生、クロスフェード、オーディオイコライザー、歌詞、ウィジェット、Apple CarPlay、AirPlay、Google Chromecastストリーミング**などの機能を備えたEvermusicは、クラウドやパーソナルNASに音楽を保存しているiPhone、iPad、Macユーザーのための完全な音楽ソリューションです。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Evermusicはどのように機能しますか？" closed="true" %}}
+{{% ls-details title="Evermusicはどのように機能しますか？" closed="true" %}}
 **Evermusicは、クラウドストレージアカウントとパーソナルNASをデバイス上の1つの検索可能な音楽ライブラリに接続することで機能します。** アカウントを接続すると、クラウドから直接トラックを閲覧・ストリーミングしたり、お気に入りの楽曲、アルバム、プレイリストをオフライン再生のためにダウンロードしたりできます。<br><br>
 
 アプリは複数のオーディオフォーマットをサポートし、MP3、FLAC、ALAC、AAC、WAV、AIFFなどの保存した音楽ファイルを簡単に再生できます。クラウド接続は**公式SDKとOAuth**フローを使用しているため、パスワードがアプリに届くことはなく、すべての転送が暗号化されています。<br><br>
@@ -54,9 +54,9 @@ Evermusicは幅広いオーディオフォーマットをサポートし、**ア
 - [WiFi-Driveを使用してコンピューターからiPhoneにファイルをワイヤレス転送する方法](/docs/howto/how-to-transfer-files-wirelessly-from-a-computer-to-an-iphone-using-wifi-drive)<br>
 - [USB フラッシュドライブをiPhoneに接続して音楽を聴く方法](/docs/howto/how-to-connect-a-usb-flashcard-to-the-iphone-and-listen-to-music-or-manage-files-located-on-it)<br>
 - [WD My Cloud HomeからiPhoneで音楽を再生する方法](/docs/howto/how-to-play-music-on-iphone-from-wd-my-cloud-home)
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Evermusicは無料ですか？" closed="true" %}}
+{{% ls-details title="Evermusicは無料ですか？" closed="true" %}}
 **はい — Evermusicは無料アプリです。** いくつかの制限がありますが、Premiumバージョンにアップグレードすることで解除できます。<br><br>
 
 アプリでは、すべての制限を解除するための**1回限りの生涯アプリ内購入**と**2つのサブスクリプションオプション（1ヶ月・1年）**を提供しており、ご自身に合った価格とコミットメントを選択できます。価格はお住まいの国や地域によって異なる場合があります。また、**ファミリー共有**はすべての購入とプランで有効になっているため、最大5人の家族とPremiumバージョンを追加費用なしで共有できます。<br><br>
@@ -66,9 +66,9 @@ Evermusicは幅広いオーディオフォーマットをサポートし、**ア
 自動的にアクティベートされない場合は、**設定 → 購入 → 購入を復元**を開いて、App Storeから購入記録を手動で取得してください。<br><br>
 
 [詳しくはこちら](/docs/faq/evermusic/what-is-the-difference-between-evermusic-and-evermusic-premium/)
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Evermusic FreeとEvermusic Premiumの違いは何ですか？" closed="true" %}}
+{{% ls-details title="Evermusic FreeとEvermusic Premiumの違いは何ですか？" closed="true" %}}
 **Evermusic Premiumは無料版のすべての制限を解除します**：広告を削除し、プレイリスト、クラウドサービス、お気に入り、オフラインダウンロードを無制限に解放し、完全なパーソナライゼーションを有効にし、自動タグ・アルバムアート検索やメディアコレクションエクスポートの1日の上限を解除します。<br><br>
 
 **Evermusic Free**<br>
@@ -99,9 +99,9 @@ Evermusicは幅広いオーディオフォーマットをサポートし、**ア
 **赤アイコンのEvermusic Pro**についても気になる場合は、次の質問をご覧ください。Evermusic Free + Premiumと同じ機能を持ちますが、Macの互換性とプライバシーのデフォルト設定が異なります。<br><br>
 
 [完全な比較を読む](/docs/faq/evermusic/what-is-the-difference-between-evermusic-and-evermusic-premium/)
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Evermusic Free（青アイコン）とEvermusic Pro（赤アイコン）の違いは何ですか？" closed="true" %}}
+{{% ls-details title="Evermusic Free（青アイコン）とEvermusic Pro（赤アイコン）の違いは何ですか？" closed="true" %}}
 **Evermusic Pro（赤アイコン）はEvermusic Free（青アイコン）にPremiumアプリ内購入を有効にしたものとまったく同じ機能を持ち、同じ機能、同じ外観です。違いはApp Storeでのパッケージング方法、Macの互換性、価格、プライバシーのデフォルト設定です。**<br><br>
 
 **App Storeパッケージング：**<br>
@@ -121,9 +121,9 @@ Evermusicは幅広いオーディオフォーマットをサポートし、**ア
 すでに青のアプリをPremiumを有効にして使用している場合は、**赤のアプリをインストールする必要はありません** — Proが提供するものはすでにすべて持っています。<br><br>
 
 [完全な比較を読む](/docs/faq/evermusic/what-is-the-difference-between-evermusic-and-evermusic-premium/)
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Evermusicは安全ですか？" closed="true" %}}
+{{% ls-details title="Evermusicは安全ですか？" closed="true" %}}
 **はい — Evermusicは接続されたクラウドサービスとのやり取りに公式SDKと安全な接続のみを使用しています。ログインとパスワードはアプリに表示されることはなく、すべてのリクエストは暗号化されています。**<br><br>
 
 ログインとパスワードを入力すると、アプリはクラウドサービス自体が提供する**公式の認証ページ**を表示し、認証プロセス全体がEvermusic外で行われます。クラウドプロバイダーは認証成功後に**認証トークン**をアプリに送り返し、そのトークンがその後のすべてのAPIコールに使用されます — Evermusicは実際の認証情報を見ることはありません。<br><br>
@@ -135,9 +135,9 @@ Evermusicは幅広いオーディオフォーマットをサポートし、**ア
 アプリ内からクラウドアカウントを切断することもできます — 切断すると、認証トークンはデバイスから直ちに削除されます。デバイスからアプリをアンインストールすると、ダウンロードされたすべてのデータとアクセストークンが自動的に削除されます。<br><br>
 
 [クラウド接続の詳細を読む](/docs/guide/evermusic/evermusic-guide-connections/)
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Evermusicでプレイリストを作成するにはどうすればよいですか？" closed="true" %}}
+{{% ls-details title="Evermusicでプレイリストを作成するにはどうすればよいですか？" closed="true" %}}
 **プレイリストを作成するには、プレイリストタブを開き、「+」または「...」メニューをタップし、「新しいプレイリスト」を選択して名前を付け、追加するトラックを選択します。**<br><br>
 
 - メインナビゲーションから**プレイリスト**セクションを開きます。<br>
@@ -153,25 +153,25 @@ Evermusicは幅広いオーディオフォーマットをサポートし、**ア
 デフォルトでは、各曲はプレイリストに1回だけ追加できます。重複した曲を許可するには、**設定 → ライブラリ → プレイリスト → プレイリスト内の重複 → 有効化**を有効にしてください。後で曲の順序を変更したり、プレイリストの名前を変更したり、カバー画像を編集したり、M3U、CSV、TXTにエクスポートしたりできます。<br><br>
 
 [プレイリストの完全ガイドを読む](/docs/guide/evermusic/evermusic-guide-playlists/)
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="M3UプレイリストをEvermusicにインポートするにはどうすればよいですか？" closed="true" %}}
+{{% ls-details title="M3UプレイリストをEvermusicにインポートするにはどうすればよいですか？" closed="true" %}}
 **M3Uプレイリストをインポートするには、プレイリストセクションを開き、「...」メニューをタップして「プレイリストをインポート」を選択し、クラウドストレージまたはデバイスから.m3u、.m3u8、または.cueファイルを選択します。**<br><br>
 
 アプリはプレイリストファイルを解析し、ストレージ上の各参照トラックを見つけ、音楽ライブラリに実際のプレイリストを作成します。サポートされているファイル拡張子は**M3U**、**M3U8**、**CUE**です。プレイリストファイル内のパスが、ストレージ上のオーディオファイルの実際の場所と一致していることを確認してください。<br><br>
 
 [完全なガイドを読む](/docs/howto/how-to-import-m3u-playlist-to-evermusic-and-flacbox)
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="プレイリストをM3U、CSV、またはTXTにエクスポートするにはどうすればよいですか？" closed="true" %}}
+{{% ls-details title="プレイリストをM3U、CSV、またはTXTにエクスポートするにはどうすればよいですか？" closed="true" %}}
 **プレイリストを開き、「...」メニューをタップして「曲リストをエクスポート」を選択すると、M3U、M3U8、CSV、またはTXTとして保存できます。**<br><br>
 
 同じ操作はアルバム、アーティスト、ジャンル、最近再生した曲リスト、お気に入りリストでも利用できます。他のプレイヤーへの再インポートにはM3U、スプレッドシートにはCSV、シンプルで人間が読めるコピーにはTXTを使用してください。<br><br>
 
 [完全なガイドを読む](/docs/howto/export-tracks-collection-from-evermusic-flacbox-to-m3u-csv-txt/)
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Evermusicはどのクラウドサービスをサポートしていますか？" closed="true" %}}
+{{% ls-details title="Evermusicはどのクラウドサービスをサポートしていますか？" closed="true" %}}
 **Evermusicは、iCloud Drive、Google Drive、Dropbox、OneDrive（個人・ビジネス）、Box、MEGA、Yandex Disk、WD My Cloud Home、MediaFire、pCloud、HiDrive、百度网盘（Baidu）、InfiniCLOUD、Cloud Mail.ru、Put.io、MyDriveなど、ほとんどの主要なクラウドストレージプロバイダーとパーソナルNASデバイスに接続できます。**<br><br>
 
 専用のクラウドサービスに加え、Evermusicは標準ネットワークプロトコルの**WebDAV**、**SMB**、**FTP / SFTP**、**NFS**、**DLNA / UPnP**をサポートしています。これにより、Synology、QNAP、WD My Cloud Home、Buffalo、Apple Time CapsuleなどほぼすべてのNASデバイス、通常のWindows、macOS、またはLinuxのファイル共有、セルフホストのNextcloud / ownCloudサーバー、UPnP / DLNAメディアサーバーに接続できます。<br><br>
@@ -179,25 +179,25 @@ Evermusicは幅広いオーディオフォーマットをサポートし、**ア
 各接続は、サービスの**公式SDKまたはオープンプロトコル**を使用し、サポートされている場合はOAuthベースの認証を採用しています。同じサービスの複数のアカウント（例：2つのGoogle Driveアカウント）を接続して、接続画面で並べて閲覧することができます。Premiumユーザーは無制限のサービスを追加できます。無料版は3つに制限されています。<br><br>
 
 [接続の詳細を読む](/docs/guide/evermusic/evermusic-guide-connections/)
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="SMBでNASをEvermusicに接続するにはどうすればよいですか？" closed="true" %}}
+{{% ls-details title="SMBでNASをEvermusicに接続するにはどうすればよいですか？" closed="true" %}}
 **SMBでNASを接続するには、「クラウドサービスを接続」→ SMBをタップし、`smb://<IPアドレス>/<共有フォルダー>`、ログインとパスワードを入力して完了をタップします。**<br><br>
 
 iPhone / iPad / MacとNASの両方が同じローカルネットワーク上にある必要があります。同じフローはSynology、QNAP、WD My Cloud Home、Buffalo、Apple Time Capsule、およびSMB共有を公開するその他のデバイス（WindowsおよびmacOSのファイル共有を含む）でも機能します。<br><br>
 
 [完全なSMBチュートリアル](/docs/howto/transfer-your-files-from-the-computer-to-iphone-using-smb-protocol/)
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="WebDAVサーバーをEvermusicに接続するにはどうすればよいですか？" closed="true" %}}
+{{% ls-details title="WebDAVサーバーをEvermusicに接続するにはどうすればよいですか？" closed="true" %}}
 **WebDAVサーバーを接続するには、「クラウドサービスを接続」→ WebDAVをタップし、`http://サーバー`または`https://サーバー`の形式でURLを入力し、ログインとパスワードを入力して完了をタップします。**<br><br>
 
 これはSynology WebDAVサーバー、QNAP、Nextcloud、ownCloud、その他ほとんどのWebDAV実装で機能します。サーバーに有効な証明書がある場合は、トラフィックの暗号化を維持するためにHTTPSを使用してください。<br><br>
 
 [完全なWebDAVチュートリアル](/docs/howto/how-to-connect-nas-storage-using-webdav-and-listen-to-music-on-your-iphone-or-mac)
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="EvermusicはPlex、Jellyfin、Emby、Subsonic、Navidromeをサポートしていますか？" closed="true" %}}
+{{% ls-details title="EvermusicはPlex、Jellyfin、Emby、Subsonic、Navidromeをサポートしていますか？" closed="true" %}}
 **はい — EvermusicはPlex Media Server、Jellyfin、Emby、Subsonic、Navidromeにネイティブに接続でき**、基盤となるファイル共有を公開せずに、これらのいずれかからセルフホストの音楽ライブラリを直接ストリーミングできます。<br><br>
 
 - **Plex Media Server** — **クラウドサービスを接続 → Plex**をタップし、Plexアカウントでサインインしてサーバーを選択します。同じローカルネットワーク上のPlexサーバーは**利用可能なデバイス**セクションでも自動検出されます。<br>
@@ -206,9 +206,9 @@ iPhone / iPad / MacとNASの両方が同じローカルネットワーク上に�
 - **SubsonicおよびSubsonic互換サーバー** — **クラウドサービスを接続 → Subsonic**をタップし、サーバーURLと認証情報を入力します。同じAPIパスは**Navidrome**、**Airsonic**、**Funkwhale**、**Gonic**、**Logitech Media Server（LMS）**、**Ampache**でも機能します。<br><br>
 
 接続後、各サーバーは接続画面のクラウドアカウントの横に表示されます。アーティスト、アルバム、ジャンル、プレイリストで閲覧したり、オフライン再生のためにトラックをダウンロードしたり、オーディオプレイヤーのキューに入れたり、Evermusicのグローバル音楽ライブラリに追加して、アーティスト/アルバム/ジャンル/作曲家ビューに表示させたりできます — すべてアプリを離れることなく。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="コンピューターからEvermusicに音楽を転送するにはどうすればよいですか？" closed="true" %}}
+{{% ls-details title="コンピューターからEvermusicに音楽を転送するにはどうすればよいですか？" closed="true" %}}
 **SMB、WebDAV、FTP / SFTP、DLNA、Wi-Fi Drive、またはiTunes / Finder ファイル共有を通じてEvermusicに音楽を転送できます — デバイスにファイルを公開する方法なら何でも機能します。**<br><br>
 
 **SMB**プロトコルを使ってコンピューターを接続するには、**クラウドサービスを接続 → SMB**をタップします。URLフィールドに`smb://コンピューターIPアドレス/共有フォルダー名`の形式でコンピューターのIPアドレスと共有フォルダー名を入力し、ログインとパスワードを入力して**完了**をタップします。接続に成功すると、共有は接続画面の**クラウドサービス**セクションに表示されます。<br><br>
@@ -230,9 +230,9 @@ iPhone / iPad / MacとNASの両方が同じローカルネットワーク上に�
 **DLNA**を使用して、以下に説明するようにDLNAメディアサーバーをセットアップして、Windows PC、NAS、またはその他のUPnPデバイスから音楽をストリーミングすることもできます。<br><br>
 
 [Windows 10でDLNAメディアサーバーを有効にしてiPhoneで音楽を再生する方法](/docs/howto/how-to-enable-dlna-media-server-on-windows-10-and-play-your-music-on-iphone)
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Evermusicはどのオーディオフォーマットをサポートしていますか？" closed="true" %}}
+{{% ls-details title="Evermusicはどのオーディオフォーマットをサポートしていますか？" closed="true" %}}
 **EvermusicはMP3、ALAC、AAC、M4A、WAV、AIFF、AC3、AMRなど多数を再生し、iOSおよびmacOSで使用されるほぼすべての最新のロッシーおよびロスレスフォーマットをカバーしています。**<br><br>
 
 サポートされているオーディオフォーマットと対応するファイル拡張子の完全なリストを以下に示します：<br><br>
@@ -251,9 +251,9 @@ iPhone / iPad / MacとNASの両方が同じローカルネットワーク上に�
 **サポートされているオーディオファイル拡張子：**<br>
 mpeg, aifc, 3gp, avi, aif, latm, 3gpp, m4a, loas, cdda, aac, m4p, m4b, ac3, pls, mp4v, m3u, m4r, aiff, xhe, mp1, snd, mp2, wav, qt, wave, m3u8, m4v, mp3, 3g2, caf, mp4, au, w64, ec3, adts, amr, vtt, mpa, aa<br><br>
 
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Evermusicでオーディオイコライザーを使用するにはどうすればよいですか？" closed="true" %}}
+{{% ls-details title="Evermusicでオーディオイコライザーを使用するにはどうすればよいですか？" closed="true" %}}
 **オーディオプレイヤー画面を開き、イコライザーアイコンをタップし、イコライザーをオンにして、プリセットを選択するかスライダーを動かして独自の設定を作成します。**<br><br>
 
 - 再生中バーをタップして**オーディオプレイヤー**画面を開きます。<br>
@@ -265,33 +265,33 @@ mpeg, aifc, 3gp, avi, aif, latm, 3gpp, m4a, loas, cdda, aac, m4p, m4b, ac3, pls,
 Evermusicはバンドごとに調整可能なゲインとマスターボリュームコントロールを備えた10バンドイコライザーをサポートしています。iOS 17.0〜17.6でイコライザーとクロスフェードの互換性の問題が発生した場合は、**設定 → オーディオプレイヤー → 一般**でオーディオプロセッサを**CoreAudio**に切り替えてください。イコライザーは**CarPlay**および**AirPlay / Chromecast**再生中も利用できます（それらの出力パスの制限あり）。<br><br>
 
 [完全なチュートリアル：Evermusic と Flacbox を使ったiPhone、iPad、Mac でのオーディオイコライザーの使用方法](/docs/howto/how-to-use-the-audio-equalizer-on-your-iphone-ipad-mac-with-evermusic-and-flacbox)
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Evermusicはギャップレス再生をサポートしていますか？" closed="true" %}}
+{{% ls-details title="Evermusicはギャップレス再生をサポートしていますか？" closed="true" %}}
 **はい — Evermusicは真のギャップレス再生をサポートしており**、クラシック音楽、ライブ録音、DJミックス、コンセプトアルバムに最適です。<br><br>
 
 **設定 → オーディオプレイヤー → ギャップレス再生**で有効にしてください。問題が発生した場合は、AVFoundationとCoreAudioバックエンドでギャップレスの動作が異なるため、**設定 → オーディオプレイヤー → 一般**でオーディオプロセッサを**CoreAudio**に切り替えてください。なお、ギャップレスはクロスフェードと一緒に使用できないことに注意してください — 聴いているアルバムに合ったものを選択してください。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Evermusicはクロスフェード再生をサポートしていますか？" closed="true" %}}
+{{% ls-details title="Evermusicはクロスフェード再生をサポートしていますか？" closed="true" %}}
 **はい — Evermusicはクロスフェード再生をサポートしており**、現在のトラックが終わる前に次のトラックがブレンドし始めます。<br><br>
 
 **設定 → オーディオプレイヤー → クロスフェード再生**を開き、重複させる秒数を選択します。クロスフェードはAirPlayまたはGoogle Chromecast出力では利用できません。iOS 17.0〜17.6でクロスフェードとイコライザーが一緒に機能しない場合は、オーディオプロセッサを**CoreAudio**に切り替えてください。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Evermusicで再生速度を変更するにはどうすればよいですか？" closed="true" %}}
+{{% ls-details title="Evermusicで再生速度を変更するにはどうすればよいですか？" closed="true" %}}
 **オーディオプレイヤーを開き、速度コントロールをタップしてスライダーをドラッグします — または精密スライダーを使用して0.05×単位の細かい調整を行います。**<br><br>
 
 **設定 → オーディオプレイヤー → 再生速度**でデフォルトの速度を変更することもできます。高速の場合は、好みのサウンドキャラクターを選択するために**オーディオピッチアルゴリズム**を**スペクトル**または**Varispeed**に切り替えてください。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Evermusicでスリープタイマーを設定するにはどうすればよいですか？" closed="true" %}}
+{{% ls-details title="Evermusicでスリープタイマーを設定するにはどうすればよいですか？" closed="true" %}}
 **設定 → オーディオプレイヤー → スリープタイマーを開き、オンにして、音楽が停止するまで再生する時間を選択します。**<br><br>
 
 **設定 → オーディオプレイヤー → パーソナライズ → メイン画面のアクション**を通じて追加することで、オーディオプレイヤー画面に直接**スリープタイマー**ボタンを有効にすることもできます。スリープタイマー画面の右上隅の設定アイコンをタップして、分単位の精密な調整を有効にしてください。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Evermusicでオフラインモードを有効にするにはどうすればよいですか？" closed="true" %}}
+{{% ls-details title="Evermusicでオフラインモードを有効にするにはどうすればよいですか？" closed="true" %}}
 **クラウドサービスを接続し、音楽フォルダーを見つけ、「その他のアクション → オフラインモードを有効にする」をタップします — フォルダーと新しく追加されたファイルがローカルファイル → オフラインフォルダーに自動的にダウンロードされます。**<br><br>
 
 - **クラウドサービスを接続：** **接続**を開き、**クラウドストレージを接続**をタップしてプロンプトに従います。<br>
@@ -302,9 +302,9 @@ Evermusicはバンドごとに調整可能なゲインとマスターボリュ�
 - 手動で同期するには、**設定 → ファイルマネージャー → オフラインフォルダー → 同期されたオフラインフォルダー**を開き、**「...」**をタップして**同期を開始**を選択します。<br><br>
 
 [詳しくはこちら](/docs/howto/play-offline-music-in-evermusic-flacbox-download-sync-from-cloud-to-local-files/)
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Evermusicでクラウドストレージから音楽をダウンロードするにはどうすればよいですか？" closed="true" %}}
+{{% ls-details title="Evermusicでクラウドストレージから音楽をダウンロードするにはどうすればよいですか？" closed="true" %}}
 **接続済みクラウドサービスを開き、フォルダーを閲覧し、「...」→ 選択する をタップしてファイルを選択し、ダウンロードをタップします — オフライン再生のためにローカルファイルに保存されます。**<br><br>
 
 音楽をダウンロードしてオフラインで聴くには、少なくとも1つのクラウドアカウントを接続する必要があります。**接続**画面を開いてアカウントを追加してください — 接続後、そのサービスから何でもダウンロードできます。<br><br>
@@ -327,15 +327,15 @@ Evermusicはバンドごとに調整可能なゲインとマスターボリュ�
 
 もう1つの利用可能なオプションは、YouTubeから音楽をダウンロードしてEvermusicにインポートすることです。詳細はこちら：<br>
 [YouTubeから音楽をダウンロードしてiPhoneでオフライン音楽を聴く方法](/docs/howto/how-to-download-music-from-youtube-and-listen-to-offline-music-on-iphone)
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="インターネット接続なしでEvermusicを使用できますか？" closed="true" %}}
+{{% ls-details title="インターネット接続なしでEvermusicを使用できますか？" closed="true" %}}
 **はい — 音楽をダウンロードするか、フォルダーのオフラインモードを有効にすると、Evermusicはすべてを完全にオフラインで再生します。**<br><br>
 
 オフラインコンテンツは**ローカルファイル**の下にあり、機内モード、フライト中、Wi-Fiやモバイルデータのない場所でも引き続き機能します。クラウドのみのトラック（ダウンロードしていないもの）は、接続が再確立されるまでグレーアウトされます。旅行前に、関連するフォルダーの**オフラインモード**を有効にするか、特定のアルバムやプレイリストをダウンロードしておいてください。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="iPhoneまたはMacにローカルに保存された音楽を再生するにはどうすればよいですか？" closed="true" %}}
+{{% ls-details title="iPhoneまたはMacにローカルに保存された音楽を再生するにはどうすればよいですか？" closed="true" %}}
 **ローカルファイルを開き、「このiPhoneのファイル」（または「このMacのファイル」）までスクロールし、「ファイルを開く...」または「フォルダーを開く...」をタップして、再生したいオーディオファイルまたはフォルダーを選択します。**<br><br>
 
 アプリは選択をスキャンし、ファイルをプレイヤーキューに追加して、元の場所から直接再生します — コピーは不要です。<br><br>
@@ -347,25 +347,25 @@ Evermusicはバンドごとに調整可能なゲインとマスターボリュ�
 **ローカルファイルをプレイリストに追加：** **プレイリスト**を開き、**「...」→ +**（新しいプレイリスト）をタップして名前を付け、**曲を追加**画面で**ローカルファイル → このiPhoneのファイル → ファイルを開く...**を選択します。<br><br>
 
 [詳しくはこちら](/docs/howto/how-to-play-local-music-stored-on-your-iphone-or-mac)
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="iTunesまたはApple MusicからEvermusicに音楽をインポートするにはどうすればよいですか？" closed="true" %}}
+{{% ls-details title="iTunesまたはApple MusicからEvermusicに音楽をインポートするにはどうすればよいですか？" closed="true" %}}
 **音楽ライブラリ → iTunes音楽を開いて、ローカルのApple Music / iTunesライブラリを閲覧します。**<br><br>
 
 AppleのDRM保護されたApple Musicストリーミングトラックは、Appleの制限によりインポートできません。所有しているファイル（iTunes Storeで購入したもの、CDからリッピングしたもの、または独自のコレクションから追加したもの）のみコピーできます。コレクション全体をローカルファイルにエクスポートするには、Premiumが必要です。<br><br>
 
 [完全なガイドを読む](/docs/howto/how-to-play-local-itunes-files-on-my-iphone)
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="プレイリストやアルバムを中断した場所から再開するにはどうすればよいですか？" closed="true" %}}
+{{% ls-details title="プレイリストやアルバムを中断した場所から再開するにはどうすればよいですか？" closed="true" %}}
 **設定 → オーディオプレイヤー → 一般でオーディオプレイヤーの状態を保存を有効にし、任意のプレイリストやアルバムの上部にある「再生を続ける」をタップして、最後の正確な位置から再開します。**<br><br>
 
 まず、**設定 → オーディオプレイヤー → 一般**で**オーディオプレイヤーの状態を保存**が有効になっていることを確認してください。各個別トラック内の位置も記憶されるよう、**再生位置を保存**もオンにしておくとよいでしょう。両方のオプションを有効にすると、別のプレイリスト、アルバム、アーティスト、ジャンル、フォルダーに切り替えてから戻ると、アルバムアートワークの下の上部ツールバーに**検索**、**再生を続ける**、**すべて再生**、**すべてシャッフル**の4つのアクションが表示されます。<br><br>
 
 **再生を続ける**をタップして、最後に保存した状態とメディア位置からプレイリストを再開します。コレクション全体ではなく個々のファイルの再生を復元したい場合は、そのファイルをタップしてください — 停止した正確な秒から開始し、マルチディスクアルバムやオーディオブックの場合は正しいディスク、トラック、チャプター位置も含みます。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Evermusicで歌詞を表示するにはどうすればよいですか？" closed="true" %}}
+{{% ls-details title="Evermusicで歌詞を表示するにはどうすればよいですか？" closed="true" %}}
 **フルスクリーンのオーディオプレイヤーを開き、「...」→ コメントを表示をタップし、スワイプしてコメント、埋め込み歌詞、LRCファイルモードを切り替えます。**<br><br>
 
 1. トラックの再生を開始します。<br>
@@ -380,9 +380,9 @@ AppleのDRM保護されたApple Musicストリーミングトラックは、Appl
 - **LRCファイル** — オーディオファイルと同じフォルダーに同じベース名の`.lrc`ファイルを置くと、アプリが自動的に認識します。<br><br>
 
 [詳しくはこちら](/docs/howto/how-to-add-and-view-comments-to-your-audio-tracks-on-iphone-ipad-and-mac-with-evermusic-and-flacbox)
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="EvermusicはApple CarPlayをサポートしていますか？" closed="true" %}}
+{{% ls-details title="EvermusicはApple CarPlayをサポートしていますか？" closed="true" %}}
 **はい — EvermusicはApple CarPlayを完全にサポートしています。** 音楽ライブラリの閲覧、ローカルまたはオフラインファイルの再生、クラウドストレージへの接続、車のインフォテインメント画面から直接再生コントロールができます。<br><br>
 
 CarPlayインターフェースには**ライブラリ**、**接続**、**ローカルファイル**、**設定**の専用タブがあり、走行中に音楽を完全にコントロールできます。再生コントロール — 再生/一時停止、次/前、**シャッフル**、**リピート**、キュー管理、**オーディオイコライザー** — はすべてCarPlay画面から直接利用でき、運転中にスマートフォンを触る必要はありません。<br><br>
@@ -392,140 +392,140 @@ CarPlayを使用するには、iPhoneでSiriが有効になっていることを
 **設定 → CarPlay**でCarPlay体験を微調整できます — すべてのCarPlayリストのソートオプションを設定し、CarPlay画面でページネーションを使用するかどうかを選択し、メニューアイコンのグラデーションカラーを変更し、大きなライブラリでの高速読み込みのために画像を有効または無効にし、iPhoneが車に接続された瞬間に突然大きな音が出ないよう**接続時に再生を一時停止**をオンにします。<br><br>
 
 [完全なガイドを読む](/docs/howto/how-to-play-your-own-music-on-iphone-using-carplay/)
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="EvermusicからGoogle ChromecastまたはAirPlayに音楽をキャストするにはどうすればよいですか？" closed="true" %}}
+{{% ls-details title="EvermusicからGoogle ChromecastまたはAirPlayに音楽をキャストするにはどうすればよいですか？" closed="true" %}}
 **iPhoneまたはiPadで、オーディオプレイヤーを開き、AirPlayまたはChromecastアイコンをタップして、リストからスピーカーまたはTVを選択します。**<br><br>
 
 AirPlayとGoogle ChromecastはどちらもiOSでサポートされています。ボタンは**設定 → オーディオプレイヤー → パーソナライズ → メイン画面のアクション**でメインプレイヤー画面に追加できます。AirPlayまたはChromecastへのストリーミング時はクロスフェードは利用できません。AirPlayはmacOSでもシステムコントロールを通じてネイティブに機能します。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="iPhoneのホーム画面またはロック画面でEvermusicウィジェットを有効にするにはどうすればよいですか？" closed="true" %}}
+{{% ls-details title="iPhoneのホーム画面またはロック画面でEvermusicウィジェットを有効にするにはどうすればよいですか？" closed="true" %}}
 **設定 → ウィジェットでウィジェットの更新を有効にし、ホーム画面またはロック画面を長押しして「+」をタップし、「Evermusic」を検索してウィジェットサイズを選択します。**<br><br>
 
 ウィジェットはアートワークと基本コントロールとともに現在再生中のトラックを表示します。ウィジェットの更新は少量のエネルギーを使用するため、**ウィジェットを有効にする**トグルはデフォルトでオフになっています — ウィジェットを積極的に使用する場合のみオンにしてください。ホーム画面とロック画面の統合の詳細については、[ナビゲーションガイド](/docs/guide/evermusic/evermusic-guide-navigation/)をご覧ください。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="EvermusicからMP3タグを編集するにはどうすればよいですか？" closed="true" %}}
+{{% ls-details title="EvermusicからMP3タグを編集するにはどうすればよいですか？" closed="true" %}}
 **任意のトラックの「...」をタップし、「オーディオタグを編集する」を選択して組み込みのタグエディタを開くと、タイトル、アーティスト、アルバム、年、ジャンル、歌詞、アルバムカバーなどを変更できます。**<br><br>
 
 **設定 → オーディオタグエディタ**でエディタを微調整できます — アルバムカバーのスケーリング、変更をクラウドファイルに書き戻すかどうか、エディタのメイン画面に表示するボタンなどが含まれます。多くのファイルを一度にバッチ編集する場合は、タグ編集とライブラリクリーンアップのために特別に設計されたコンパニオンアプリ**Evertag**をインストールしてください。[Evertag の詳細を見る](/products/evertag/)。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Evermusicで欠落しているアルバムカバーを修正するにはどうすればよいですか？" closed="true" %}}
+{{% ls-details title="Evermusicで欠落しているアルバムカバーを修正するにはどうすればよいですか？" closed="true" %}}
 **設定 → ライブラリ → アルバムカバーを開き、「オンラインファイルのアルバムカバーを読み込む」と「フォルダーで検索」を有効にし、必要に応じてより高いカバー品質を選択します — アプリはクラウドファイルから埋め込みアートワークを取得し、埋め込みカバーがない場合はオーディオファイルの隣に保存されているJPEG / PNG画像を使用します。**<br><br>
 
 アルバムカバーの品質を選択して**すべて削除**をタップしてカバーキャッシュをクリアし、更新を強制することもできます。特定のカバーを手動で置き換えるには、アルバム、プレイリスト、またはトラックの**「...」→ 画像を編集**をタップし、フォトライブラリ、ファイルアプリ、または接続済みクラウドサービスのいずれかから新しい画像を選択します。オーディオファイル自体に保存されているアートワークをより深くコントロールするには、**オーディオタグを編集する**または当社のコンパニオンアプリ**Evertag**を使用してください。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Evermusicで曲を評価するにはどうすればよいですか？" closed="true" %}}
+{{% ls-details title="Evermusicで曲を評価するにはどうすればよいですか？" closed="true" %}}
 **オーディオプレイヤーや任意のトラックの「...」メニューを開き、「オーディオタグを編集する」を選択して、1〜5つ星の評価を設定します — 評価はファイルのメタデータに保存され、デバイス間でも追従します。**<br><br>
 
 アルバム、プレイリスト、音楽ライブラリを評価順に並べることができるため、高評価のトラックが上位に表示されます。評価は、標準の評価タグをサポートする他のタグエディタや音楽プレイヤーでも読み取れます。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Evermusicで曲をお気に入りに追加するにはどうすればよいですか？" closed="true" %}}
+{{% ls-details title="Evermusicで曲をお気に入りに追加するにはどうすればよいですか？" closed="true" %}}
 **任意のトラックの「...」をタップして「お気に入りに追加」を選択します — お気に入りは音楽ライブラリ → お気に入り、およびオプションでローカルファイル → お気に入りに表示されます。**<br><br>
 
 **設定 → ライブラリ → お気に入り**で**同時編集**を有効にして、音楽ライブラリとファイルセクション間でお気に入りをミラーリングします。無料版は100件のお気に入りに制限されています。Premiumはその制限を解除します。バックアップのためにお気に入りリストをM3U、CSV、TXTにエクスポートすることもできます。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="最近再生した曲を表示するにはどうすればよいですか？" closed="true" %}}
+{{% ls-details title="最近再生した曲を表示するにはどうすればよいですか？" closed="true" %}}
 **音楽ライブラリ → 最近の項目を開いて、最近再生したすべてのトラックのリストを表示します。リストをクリアしたり、M3U、CSV、またはTXTにエクスポートしたりできます。**<br><br>
 
 **設定 → ライブラリ → 最近の項目 → リストサイズを変更**でリストが保持するエントリ数を変更します。新しく始めたい場合は**リストを削除**を使用して履歴をクリアするか、リスニング履歴のアーカイブを保持するには**曲リストをエクスポート**を使用してください。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="クラウドストレージから削除せずにEvermusicから曲を削除するにはどうすればよいですか？" closed="true" %}}
+{{% ls-details title="クラウドストレージから削除せずにEvermusicから曲を削除するにはどうすればよいですか？" closed="true" %}}
 **任意のトラックで「...」→「音楽ライブラリから削除」をタップします — これにより曲がライブラリデータベースから削除されますが、クラウドストレージとローカルファイルのファイルはそのままです。**<br><br>
 
 クラウドまたはローカルデバイスからファイルも削除するには、代わりに**クラウドサービスから削除**または**ファイルを削除する**を選択してください。これらの操作は元に戻せないため、複数のファイルが選択されている場合は注意してください。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Evermusicの音楽ライブラリをバックアップ・復元するにはどうすればよいですか？" closed="true" %}}
+{{% ls-details title="Evermusicの音楽ライブラリをバックアップ・復元するにはどうすればよいですか？" closed="true" %}}
 **設定 → バックアップと復元を開き、含める内容（データベース、アルバムカバー、設定）を選択し、「アプリケーションデータをバックアップ」をタップしてバックアップファイルを保存します — 別のデバイスで開いて復元します。**<br><br>
 
 バックアップには音楽ライブラリのエントリ、プレイリスト、評価、お気に入り、設定、アルバムカバーキャッシュが含まれます。ファイルサイズを管理可能な状態に保つために、オフラインでダウンロードされたオーディオファイルは含まれません。iCloud Drive、AirDrop、または接続済みクラウドサービスを通じてバックアップファイルを新しいデバイスに移動し、Evermusicで開いて適用します。<br><br>
 
 [完全なガイド：デバイス間で音楽ライブラリを転送する方法](/docs/howto/how-to-transfer-your-music-library-between-devices-in-evermusic-step-by-step-guide)
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Evermusic Premiumを家族と共有するにはどうすればよいですか？" closed="true" %}}
+{{% ls-details title="Evermusic Premiumを家族と共有するにはどうすればよいですか？" closed="true" %}}
 **Evermusic Premiumのすべてのプラン — 生涯、月間、年間 — はApple ファミリー共有で機能するため、ファミリーグループの誰でもEvermusicをインストールして追加費用なしでPremiumを使用できます。**<br><br>
 
 iOS / macOSの**設定 → ファミリー**でファミリー共有を設定し、各家族メンバーにApp StoreからEvermusicをインストールしてもらい、自分のApple IDでサインインしたまま1回起動してもらいます。Premiumは1分以内に自動的に認識されます。同じプランがすべての家族メンバーのiPhone、iPad、Mac間で共有されます。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Evermusic Premiumサブスクリプションをキャンセルするにはどうすればよいですか？" closed="true" %}}
+{{% ls-details title="Evermusic Premiumサブスクリプションをキャンセルするにはどうすればよいですか？" closed="true" %}}
 **iOSまたはmacOSの設定 → [あなたの名前] → サブスクリプションを開き、Evermusicを見つけてサブスクリプションをキャンセルをタップします — Premium機能は現在の請求期間の終わりまで有効です。**<br><br>
 
 生涯のアプリ内購入はサブスクリプションではなく、キャンセルする必要はありません。払い戻しについては、Appleの**問題を報告**ページ（`reportaproblem.apple.com`）を使用してください — 払い戻しはEverappzではなくAppleが発行します。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Evermusicをパスコードで保護するにはどうすればよいですか？" closed="true" %}}
+{{% ls-details title="Evermusicをパスコードで保護するにはどうすればよいですか？" closed="true" %}}
 **設定 → パスコードを開き、「有効にする」をタップして4桁のコードを選択します — アプリが起動するたびに入力を求められます。**<br><br>
 
 Evermusicは固定の4桁の数字パスコードを使用しています。パスコードは、デバイスにアクセスできる誰かがEvermusicを開いて接続済みクラウドアカウント、ダウンロードされたファイル、ライブラリを閲覧するのを防ぎます。追加の保護のために、デバイスのiOS Face ID / Touch IDと組み合わせてください。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Evermusicでダークモードを有効にするにはどうすればよいですか？" closed="true" %}}
+{{% ls-details title="Evermusicでダークモードを有効にするにはどうすればよいですか？" closed="true" %}}
 **設定 → パーソナライズ → カラースキームを開き、ダーク、ライト、またはデフォルト（システムの外観に従う）を選択します。**<br><br>
 
 **設定 → パーソナライズ → アプリケーションアイコン**（Premium）で代替アプリアイコンも選択でき、**背景スタイル**でぼかしたアルバムカバーをアプリの背景として選択することもできます。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Evermusicが使用するストレージを解放するにはどうすればよいですか？" closed="true" %}}
+{{% ls-details title="Evermusicが使用するストレージを解放するにはどうすればよいですか？" closed="true" %}}
 **設定 → ファイルマネージャー → 一時ファイルを削除すると、設定 → ライブラリ → アルバムカバー → すべて削除でキャッシュをクリアできます。ローカルファイルを使用して、不要になったダウンロードされた音楽を削除してください。**<br><br>
 
 **設定 → ファイルマネージャー → 同期されたオフラインフォルダー → 「...」→ オフラインモードを無効にする**で個別のオフラインフォルダーを削除することもでき、ローカルコピーが削除されます。ストリーミングのみのコンテンツはストレージをまったく使用しません。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Evermusicでクラウド音楽が同期されないのはなぜですか？" closed="true" %}}
+{{% ls-details title="Evermusicでクラウド音楽が同期されないのはなぜですか？" closed="true" %}}
 **同期の問題のほとんどは、期限切れの認証トークン、アプリのバックグラウンド動作、またはアクティブなインターネット接続がないことが原因です — 接続を開き、サービスを再認証して、設定 → ライブラリ → オンライン同期から手動で同期を実行してください。**<br><br>
 
 オンライン同期はアプリがフォアグラウンドにある場合にのみ実行されるため、大きなライブラリの同期には時間がかかることがあります。速度を上げるには、Evermusicを開いたままにして、デバイスを電源に接続し、**設定 → スクリーン → 常にアクティブ**を有効にしてください。非常に大きなライブラリの場合は、アプリのデスクトップバージョンで同期を実行し、**バックアップと復元**を使用して結果をiOSに転送してください。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Evermusicサポートに連絡するにはどうすればよいですか？" closed="true" %}}
+{{% ls-details title="Evermusicサポートに連絡するにはどうすればよいですか？" closed="true" %}}
 **設定 → フィードバックを送るを開いて、診断情報が自動的に添付された状態で、アプリから直接サポートチームにメールを送ります。**<br><br>
 
 [ヘルプセンター](/docs/)を訪問したり、[ハウツーガイド](/docs/howto/)を閲覧したり、セルフサービスの回答については幅広い[FAQ](/docs/faq/)を確認したりすることもできます。通常、1営業日以内に返信します。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Evermusicで曲、アルバム、アーティストを検索するにはどうすればよいですか？" closed="true" %}}
+{{% ls-details title="Evermusicで曲、アルバム、アーティストを検索するにはどうすればよいですか？" closed="true" %}}
 **任意のリスト — 音楽ライブラリ、プレイリスト、アルバム、アーティスト、ジャンル、またはフォルダー内 — の虫眼鏡アイコンをタップして名前を入力すると、すぐに結果がフィルタリングされます。**<br><br>
 
 検索はローカルで、ライブラリデータベースに対して完全にオフラインで機能するため、低速ネットワークでも入力中に結果が表示されます。特定のプレイリストやアルバム内で検索して、数百曲の中から1つのトラックを見つけることもできます。トラック、アルバム、アーティスト、ジャンル、作曲家はすべて検索可能です。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Evermusicでオーディオブックやポッドキャストを再生できますか？" closed="true" %}}
+{{% ls-details title="Evermusicでオーディオブックやポッドキャストを再生できますか？" closed="true" %}}
 **はい — Evermusicは、サポートされているフォーマット（MP3、M4A、M4B、AAC、WAV、AIFFなど）でストレージに保存されているオーディオブックやポッドキャストのファイルを、ブックマーク、可変再生速度、就寝前のリスニング用スリープタイマーとともに再生できます。**<br><br>
 
 **ブックマーク**を使用して興味深い位置をマークし、アプリが停止した場所を記憶するように**設定 → オーディオプレイヤー → 一般**で**再生位置を保存**を有効にし、クイック1.25× / 1.5× / 2×コントロールのためにプレイヤーのメイン画面に**再生速度**を追加してください。長いオーディオブックのチャプターとチャプターマーカー付きの`.m4b`ファイルは完全にサポートされています。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="トラックまたはオーディオブックの特定の位置にブックマークを追加するにはどうすればよいですか？" closed="true" %}}
+{{% ls-details title="トラックまたはオーディオブックの特定の位置にブックマークを追加するにはどうすればよいですか？" closed="true" %}}
 **オーディオプレイヤーを開き、「ブックマークを追加」ボタンをタップして現在の再生位置を保存します — ブックマークはトラックの「...」メニューのブックマークの下に表示されます。**<br><br>
 
 **設定 → オーディオプレイヤー → パーソナライズ → メイン画面のアクション**で**ブックマークを追加**アクションを有効にして、ボタンをプレイヤーに直接配置します。ブックマークはトラックごとに保存されセッション間で持続するため、オーディオブック、講義、長いDJミックスに最適です。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="EvermusicはBluetoothヘッドフォン、AirPods、外部DACで動作しますか？" closed="true" %}}
+{{% ls-details title="EvermusicはBluetoothヘッドフォン、AirPods、外部DACで動作しますか？" closed="true" %}}
 **はい — Evermusicは、iPhone、iPad、またはMacが使用できる任意のオーディオ出力で再生できます：内蔵スピーカー、有線ヘッドフォン、Bluetoothデバイス（AirPods、Beats、Sony、Boseなど）、USB / Lightning DAC。**<br><br>
 
 外部DACへのハイレゾ出力には、**設定 → オーディオプレイヤー → 一般**でオーディオプロセッサを**CoreAudio**に切り替え、適切な**オーディオ出力サンプルレート**とチャンネル数を選択してください。AirPodsのステム上のコントロール（再生/一時停止、次/前）は期待通りに動作し、ロック画面のコントロールは**設定 → オーディオプレイヤー → パーソナライズ → ロック画面の再生コントロール**でカスタマイズできます。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="iPhoneまたはiPadでEvermusicとUSBフラッシュドライブやSDカードを使用するにはどうすればよいですか？" closed="true" %}}
+{{% ls-details title="iPhoneまたはiPadでEvermusicとUSBフラッシュドライブやSDカードを使用するにはどうすればよいですか？" closed="true" %}}
 **Lightning-to-USBまたはUSB-CアダプターでiPhoneまたはiPadにドライブを接続し、Evermusicでローカルファイル → このiPhoneのファイル → フォルダーを開くを開き、ドライブに移動して音楽フォルダーを選択します。**<br><br>
 
 アプリはドライブから直接ファイルを再生し、内部ストレージにコピーしません。これは非常に大きなロスレスライブラリに便利です。同じ方法でトラックを音楽ライブラリにインポートしたり、プレイリストに追加したりすることもできます。ステップバイステップの完全な手順は[USB フラッシュドライブをiPhoneに接続して音楽を聴く方法](/docs/howto/how-to-connect-a-usb-flashcard-to-the-iphone-and-listen-to-music-or-manage-files-located-on-it)をご覧ください。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Evermusicインターフェースの言語を変更するにはどうすればよいですか？" closed="true" %}}
+{{% ls-details title="Evermusicインターフェースの言語を変更するにはどうすればよいですか？" closed="true" %}}
 **設定 → 言語を開き、120以上のサポートされている言語から選択し、変更を反映させるためにアプリを再起動します。**<br><br>
 
 アプリは英語、フランス語、ドイツ語、スペイン語、イタリア語、ポルトガル語、ロシア語、ウクライナ語、ポーランド語、オランダ語、アラビア語、ヘブライ語、ヒンディー語、日本語、韓国語、中国語（簡体字・繁体字）、ベトナム語、トルコ語など多くのローカライズをサポートしています。デバイスの言語設定に自動的に従うには**デフォルト**を選択してください。新しい言語を選択した後は、Evermusicを完全に終了してから再度開き、すべての画面が新しい翻訳で再描画されるようにしてください。
-{{% /details %}}
+{{% /ls-details %}}
 
 </div>

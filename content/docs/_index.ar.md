@@ -4,7 +4,9 @@ title: 'التوثيق'
 ---
 
 
-{{< lottie src="/images/juicy-json/juicy-girl-and-boy-searching-for-the-right-files.json" width="90%" >}}
+{{< ls-lottie src="/images/juicy-json/juicy-girl-and-boy-searching-for-the-right-files.json" width="90%" >}}
+
+{{< ls-docs-search >}}
 
 يتضمن هذا القسم وثائق مفيدة لجميع تطبيقات Everappz — بما في ذلك تعليمات الإعداد، وشرح الميزات، والنصائح المتقدمة.
 
@@ -13,9 +15,9 @@ title: 'التوثيق'
 ## ابدأ الآن
 
 {{< cards >}}
-  {{< card icon="book-open" link="/docs/guide" title="دليل المستخدم" >}}
-  {{< card icon="question-mark-circle" link="/docs/faq" title="الأسئلة الشائعة" >}}
-  {{< card icon="light-bulb" link="/docs/howto" title="كيفية الاستخدام" >}}
+  {{< ls-card icon="book-open" link="/docs/guide" title="دليل المستخدم" >}}
+  {{< ls-card icon="question-mark-circle" link="/docs/faq" title="الأسئلة الشائعة" >}}
+  {{< ls-card icon="light-bulb" link="/docs/howto" title="كيفية الاستخدام" >}}
 {{< /cards >}}
 
 - **دليل المستخدم** يساعدك على التثبيت والضبط والاستفادة القصوى من تطبيقاتنا.
@@ -31,5 +33,5 @@ title: 'التوثيق'
 للاطلاع على السياسات القانونية وممارسات التعامل مع البيانات واتفاقيات المستخدم المتعلقة بخدماتنا، راجع الوثائق القانونية أدناه:
 
 {{< cards >}}
-  {{< card icon="document-text" link="/legal" title="المركز القانوني" >}}
+  {{< ls-card icon="document-text" link="/legal" title="المركز القانوني" >}}
 {{< /cards >}}

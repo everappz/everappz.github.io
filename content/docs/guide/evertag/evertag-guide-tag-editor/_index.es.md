@@ -15,7 +15,7 @@ readingTime: 5
 El **Editor de Etiquetas** es la pantalla principal de la app Evertag donde puedes ver y editar los metadatos de archivos de audio. Abre esta pantalla tocando un archivo de la sección **Archivos Locales** o de cualquier cuenta de **almacenamiento en la nube** conectada.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evertag Tag Editor Screen" image="/docs/guide/evertag/img/tag-editor.webp" >}}
+  {{< ls-card title="" subtitle="Evertag Tag Editor Screen" image="/docs/guide/evertag/img/tag-editor.webp" >}}
 {{< /cards >}}
 
 ## Modos de Edición
@@ -38,7 +38,7 @@ De forma predeterminada, la app abre el editor de etiquetas en modo de archivo i
 Para acceder a todas las etiquetas disponibles, desplázate hasta el final de la pantalla y toca la opción **Mostrar etiquetas extendidas**. Esto cambiará el editor al modo extendido, lo que te permite editar más de **120 campos de metadatos**, incluidas **Etiquetas MusicBrainz**, **Letras**, **Clasificaciones de Contenido**, valores de replay-gain, órdenes de clasificación, metadatos de podcasts y más. Usa **Ajustes → Editor de etiquetas de audio → Botones en la pantalla principal** para activar permanentemente Mostrar etiquetas extendidas para que siempre esté activo.
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Bottom Actions Panel" image="/docs/guide/evertag/img/tag-editor-bottom-actions.webp" >}}
+{{< ls-card title="" subtitle="Bottom Actions Panel" image="/docs/guide/evertag/img/tag-editor-bottom-actions.webp" >}}
 {{< /cards >}}
 
 ## Modo por Lotes
@@ -53,7 +53,7 @@ Puedes entrar en la edición por lotes de dos maneras:
    - Abre cualquier archivo, desplázate hacia abajo y toca **Editar archivos simultáneamente** para cargar todos los archivos de la misma carpeta.
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Batch Editing Mode" image="/docs/guide/evertag/img/tag-editor-batch-editing.webp" >}}
+{{< ls-card title="" subtitle="Batch Editing Mode" image="/docs/guide/evertag/img/tag-editor-batch-editing.webp" >}}
 {{< /cards >}}
 
 Después de editar, toca **Guardar** para aplicar los cambios.
@@ -72,19 +72,19 @@ No tienes que escribir letras desde cero. El editor incluye accesos directos de 
 Cada acceso directo solo aparece cuando el servicio correspondiente es accesible desde tu dispositivo. Toca un servicio, copia las letras (o las marcas de tiempo LRC) que deseas, regresa a Evertag y pégalas en el campo de texto — luego **Guardar** para escribir las letras de nuevo en las etiquetas del archivo de audio.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Lyrics Pages" image="/docs/guide/evertag/img/tag-editor-lyrics-pages.webp" >}}
+  {{< ls-card title="" subtitle="Lyrics Pages" image="/docs/guide/evertag/img/tag-editor-lyrics-pages.webp" >}}
 {{< /cards >}}
 
 Elige un idioma del selector:
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Lyrics Language Selector" image="/docs/guide/evertag/img/tag-editor-lyrics-language-select.webp" >}}
+  {{< ls-card title="" subtitle="Lyrics Language Selector" image="/docs/guide/evertag/img/tag-editor-lyrics-language-select.webp" >}}
 {{< /cards >}}
 
 Luego pega o escribe el texto de las letras. Evertag admite tanto texto plano como letras con marca de tiempo (sincronizadas) — el marcador de posición muestra un ejemplo del formato estilo LRC, que es exactamente lo que devuelven Lrclib y Lyricsify para resultados sincronizados.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Lyrics Text Editor" image="/docs/guide/evertag/img/tag-editor-lyrics-text.webp" >}}
+  {{< ls-card title="" subtitle="Lyrics Text Editor" image="/docs/guide/evertag/img/tag-editor-lyrics-text.webp" >}}
 {{< /cards >}}
 
 ## Establecer una Valoración y Clasificación de Contenido
@@ -96,7 +96,7 @@ El editor extendido ofrece un control de **Valoración** por estrellas junto a u
 Usa el campo **Valoración** para darle a una pista una puntuación personal de uno a cinco estrellas. El valor se escribe en el campo de etiqueta de valoración estándar del archivo (POPM para ID3, `rate` para MP4, `RATING` para Vorbis/APE, etc.), por lo que otras apps que lean esta etiqueta — incluida la app Música, Plex, Roon y la mayoría de los editores de etiquetas de escritorio — recogerán tus puntuaciones de inmediato.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Rating" image="/docs/guide/evertag/img/tag-editor-rating.webp" >}}
+  {{< ls-card title="" subtitle="Rating" image="/docs/guide/evertag/img/tag-editor-rating.webp" >}}
 {{< /cards >}}
 
 ### Clasificación de Contenido
@@ -115,7 +115,7 @@ Querrás establecer o corregir este campo cuando:
 - Quieres que CarPlay, la Pantalla de Bloqueo, reproductores estilo Apple Music o software de DJ muestre la insignia correcta **E** / **C** junto al título de la pista.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Lyrics Advisory Rating" image="/docs/guide/evertag/img/lyrics-advisory-rating.webp" >}}
+  {{< ls-card title="" subtitle="Lyrics Advisory Rating" image="/docs/guide/evertag/img/lyrics-advisory-rating.webp" >}}
 {{< /cards >}}
 
 ## Editar Portada del Álbum
@@ -127,7 +127,7 @@ Para cambiar una portada de álbum:
 3. Selecciona una imagen para aplicar como arte de portada.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Select Image" image="/docs/guide/evertag/img/select-image.webp" >}}
+  {{< ls-card title="" subtitle="Select Image" image="/docs/guide/evertag/img/select-image.webp" >}}
 {{< /cards >}}
 
 ## Más Acciones en el Editor de Etiquetas
@@ -135,7 +135,7 @@ Para cambiar una portada de álbum:
 Las opciones de edición adicionales están disponibles a través de la barra de herramientas debajo de la vista de portada.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="More Actions Menu" image="/docs/guide/evertag/img/tag-editor-more-actions.webp" >}}
+  {{< ls-card title="" subtitle="More Actions Menu" image="/docs/guide/evertag/img/tag-editor-more-actions.webp" >}}
 {{< /cards >}}
 
 ### Búsqueda Automática de Etiquetas de Audio
@@ -148,13 +148,13 @@ La app usa la base de datos MusicBrainz — una de las bases de datos de etiquet
 Usa los metadatos para buscar en la web la portada de álbum correcta.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Search Album Cover" image="/docs/guide/evertag/img/search-album-cover.webp" >}}
+  {{< ls-card title="" subtitle="Search Album Cover" image="/docs/guide/evertag/img/search-album-cover.webp" >}}
 {{< /cards >}}
 
 Una vez encontrada, guarda la imagen en tus **Fotos** usando el menú contextual del sistema.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Add Image to Photos" image="/docs/guide/evertag/img/add-image-to-photos.webp" >}}
+  {{< ls-card title="" subtitle="Add Image to Photos" image="/docs/guide/evertag/img/add-image-to-photos.webp" >}}
 {{< /cards >}}
 
 Después de eso, regresa al editor de etiquetas, toca el icono de Cámara, ve a **Biblioteca de Fotos** y selecciona la imagen guardada. La app la establecerá como portada para tu archivo de audio.
@@ -176,19 +176,19 @@ Busca metadatos de álbum manualmente usando la base de datos MusicBrainz.
 - Selecciona el álbum
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Select Album" image="/docs/guide/evertag/img/select-album-results.webp" >}}
+  {{< ls-card title="" subtitle="Select Album" image="/docs/guide/evertag/img/select-album-results.webp" >}}
 {{< /cards >}}
 
 - Elige la canción correcta
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Select Song" image="/docs/guide/evertag/img/select-a-song.webp" >}}
+  {{< ls-card title="" subtitle="Select Song" image="/docs/guide/evertag/img/select-a-song.webp" >}}
 {{< /cards >}}
 
 - Elige qué etiquetas aplicar
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Select Audio Tags" image="/docs/guide/evertag/img/select-audio-tags.webp" >}}
+  {{< ls-card title="" subtitle="Select Audio Tags" image="/docs/guide/evertag/img/select-audio-tags.webp" >}}
 {{< /cards >}}
 
 Toca **Hecho** para aplicar los metadatos seleccionados a tu pista.

@@ -7,7 +7,7 @@ tags: ["àudio", "reproductor", "ordinador", "fitxers", "fitxer", "pc", "mac", "
 keywords: ["compartició de fitxers itunes", "reproduir música local", "transferir música a iphone", "copiar fitxers a ios", "àudio de mac a iphone", "fitxers locals a iphone", "evermusic", "flacbox", "reproductor de música", "compartició de fitxers", "wifi drive", "streaming de música smb", "aplicació de música iphone", "importar música a ios"]
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **Resum:** Transfereix música del teu ordinador a l'iPhone utilitzant un dels tres mètodes: **Compartició de fitxers d'iTunes/Finder** (cable USB), **[WiFi Drive](/docs/howto/how-to-transfer-music-from-computer-to-iphone-without-itunes)** (sense fils, sense cable), o **[SMB](/docs/howto/stream-your-music-from-mac-or-pc-to-iphone-using-smb/)** (streaming directe sense copiar). Després reprodueix amb [Evermusic](/products/evermusic) o [Flacbox](/products/flacbox).
@@ -134,22 +134,22 @@ També pots connectar el teu ordinador utilitzant el protocol SMB per reproduir 
 
 ## FAQ
 
-{{% details title="Quina és la manera més ràpida de transferir música a l'iPhone?" closed="true" %}}
+{{% ls-details title="Quina és la manera més ràpida de transferir música a l'iPhone?" closed="true" %}}
 La compartició de fitxers d'iTunes/Finder per USB és el mètode més ràpid per a biblioteques de música grans. Per a transferències més petites, WiFi Drive és més convenient ja que no requereix cable.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Puc transferir fitxers FLAC al meu iPhone?" closed="true" %}}
+{{% ls-details title="Puc transferir fitxers FLAC al meu iPhone?" closed="true" %}}
 Sí. Tant Evermusic com Flacbox accepten fitxers FLAC mitjançant la compartició de fitxers d'iTunes, WiFi Drive o SMB. Es recomana Flacbox per a formats sense pèrdua.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Necessito iTunes a macOS Catalina o posterior?" closed="true" %}}
+{{% ls-details title="Necessito iTunes a macOS Catalina o posterior?" closed="true" %}}
 No. Apple va substituir iTunes per Finder per a la gestió de dispositius a partir de macOS Catalina. Utilitza la pestanya Fitxers de Finder per a la compartició de fitxers.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Puc reproduir música en streaming sense copiar fitxers al meu iPhone?" closed="true" %}}
+{{% ls-details title="Puc reproduir música en streaming sense copiar fitxers al meu iPhone?" closed="true" %}}
 Sí. Utilitza el protocol SMB per reproduir música en streaming directament des del teu Mac o PC. Això estalvia espai d'emmagatzematge del dispositiu i manté la teva biblioteca a l'ordinador.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Quina aplicació hauria d'utilitzar -- Evermusic o Flacbox?" closed="true" %}}
+{{% ls-details title="Quina aplicació hauria d'utilitzar -- Evermusic o Flacbox?" closed="true" %}}
 Utilitza Evermusic per a formats estàndard com MP3, WAV i AAC. Tria Flacbox si la teva biblioteca inclou formats sense pèrdua com FLAC, DSD o OGG.
-{{% /details %}}
+{{% /ls-details %}}

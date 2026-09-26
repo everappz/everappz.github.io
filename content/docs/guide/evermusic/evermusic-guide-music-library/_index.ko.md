@@ -15,7 +15,7 @@ readingTime: 11
 Evermusic에서 음악 라이브러리를 관리하는 것은 간단하며, 모든 트랙을 쉽게 정리할 수 있습니다. 음악 라이브러리를 구축하는 두 가지 옵션이 있습니다: 수동 추가 또는 자동 동기화.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evermusic 음악 라이브러리 화면" image="/docs/guide/evermusic/evermusic-guide-music-library/img/music-library-main.webp" >}}
+  {{< ls-card title="" subtitle="Evermusic 음악 라이브러리 화면" image="/docs/guide/evermusic/evermusic-guide-music-library/img/music-library-main.webp" >}}
 {{< /cards >}}
 
 ## 수동 추가
@@ -23,7 +23,7 @@ Evermusic에서 음악 라이브러리를 관리하는 것은 간단하며, 모�
 트랙을 수동으로 추가하려면 "음악 추가" 메뉴 항목을 탭하고 연결된 클라우드 스토리지 서비스나 기기에 있는 파일에서 폴더/파일을 선택합니다. 라이브러리에 트랙을 추가하면 해당 트랙에 대한 링크만 생성되어 실제 파일은 원래 위치에 보존되어 소중한 디스크 공간을 절약합니다. 트랙을 오프라인에서 사용 가능하게 하려면 옵션 메뉴의 다운로드 작업을 사용하거나 플레이리스트 및 트랙 컬렉션에 대해 오프라인 모드를 활성화할 수 있습니다.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="음악 라이브러리에 노래 추가" image="/docs/guide/evermusic/evermusic-guide-music-library/img/music-library-add-songs.webp" >}}
+  {{< ls-card title="" subtitle="음악 라이브러리에 노래 추가" image="/docs/guide/evermusic/evermusic-guide-music-library/img/music-library-add-songs.webp" >}}
 {{< /cards >}}
 
 ## 빠른 접근
@@ -75,7 +75,7 @@ Evermusic에서 음악 라이브러리를 관리하는 것은 간단하며, 모�
 탐색 바 바로 아래에 위치한 상단 도구 모음은 "검색", "모두 재생", "모두 셔플", "재생 계속"과 같은 편리한 작업을 제공합니다. 아래로 스와이프하는 간단한 제스처로 이 도구 모음을 표시하거나 숨길 수 있습니다.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="앨범 보기 — 음악 태그별 그룹화" image="/docs/guide/evermusic/evermusic-guide-music-library/img/music-library-albums.webp" >}}
+  {{< ls-card title="" subtitle="앨범 보기 — 음악 태그별 그룹화" image="/docs/guide/evermusic/evermusic-guide-music-library/img/music-library-albums.webp" >}}
 {{< /cards >}}
 
 ## 검색
@@ -83,7 +83,7 @@ Evermusic에서 음악 라이브러리를 관리하는 것은 간단하며, 모�
 검색 기능을 사용하면 음악 라이브러리에서 특정 트랙, 아티스트, 앨범, 또는 장르를 찾을 수 있습니다. "검색 화면" 내에서 "정렬", "필터", "격자/목록"과 같은 작업에 접근할 수 있습니다.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="음악 라이브러리 검색 결과" image="/docs/guide/evermusic/evermusic-guide-music-library/img/music-library-search.webp" >}}
+  {{< ls-card title="" subtitle="음악 라이브러리 검색 결과" image="/docs/guide/evermusic/evermusic-guide-music-library/img/music-library-search.webp" >}}
 {{< /cards >}}
 
 ## 옵션 메뉴
@@ -91,7 +91,7 @@ Evermusic에서 음악 라이브러리를 관리하는 것은 간단하며, 모�
 음악 라이브러리의 각 노래에는 노래 제목 옆의 세 점 버튼을 탭하여 접근할 수 있는 추가 작업 메뉴가 있습니다. 이러한 작업은 단일 노래인지 컬렉션의 일부인지에 따라 다릅니다.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="라이브러리 항목에 대한 추가 작업" image="/docs/guide/evermusic/evermusic-guide-music-library/img/music-library-item-more-actions.webp" >}}
+  {{< ls-card title="" subtitle="라이브러리 항목에 대한 추가 작업" image="/docs/guide/evermusic/evermusic-guide-music-library/img/music-library-item-more-actions.webp" >}}
 {{< /cards >}}
 
 ### 개별 노래의 경우
@@ -126,7 +126,7 @@ Evermusic에서 음악 라이브러리를 관리하는 것은 간단하며, 모�
 오른쪽 상단 모서리의 추가 작업 버튼을 사용하여 선택 모드를 활성화할 수 있습니다. 이 모드에서 여러 트랙을 선택하고 다양한 작업을 수행할 수 있습니다.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="음악 라이브러리의 선택 모드" image="/docs/guide/evermusic/evermusic-guide-music-library/img/music-library-selection-mode.webp" >}}
+  {{< ls-card title="" subtitle="음악 라이브러리의 선택 모드" image="/docs/guide/evermusic/evermusic-guide-music-library/img/music-library-selection-mode.webp" >}}
 {{< /cards >}}
 
 ## 태그 그룹화
@@ -146,7 +146,7 @@ Evermusic에서 음악 라이브러리를 관리하는 것은 간단하며, 모�
 아티스트, 앨범 아티스트, 또는 작곡가 섹션을 열면 노래/모든 앨범/독점 앨범/솔로 앨범에 대한 전환기를 볼 수 있습니다.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="노래 / 모든 / 독점 / 솔로 전환기가 있는 앨범 상세 정보" image="/docs/guide/evermusic/evermusic-guide-music-library/img/music-library-album-details.webp" >}}
+  {{< ls-card title="" subtitle="노래 / 모든 / 독점 / 솔로 전환기가 있는 앨범 상세 정보" image="/docs/guide/evermusic/evermusic-guide-music-library/img/music-library-album-details.webp" >}}
 {{< /cards >}}
 
 - **노래**: 오디오 태그에 이 아티스트/앨범 아티스트/작곡가가 설정된 모든 노래를 표시합니다.
@@ -167,7 +167,7 @@ Evermusic에서 음악 라이브러리를 관리하는 것은 간단하며, 모�
 "설정" 메뉴 항목을 탭하여 음악 라이브러리 기본 설정을 구성합니다.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="음악 라이브러리 설정" image="/docs/guide/evermusic/evermusic-guide-music-library/img/music-library-settings.webp" >}}
+  {{< ls-card title="" subtitle="음악 라이브러리 설정" image="/docs/guide/evermusic/evermusic-guide-music-library/img/music-library-settings.webp" >}}
 {{< /cards >}}
 
 #### 메타데이터 읽기

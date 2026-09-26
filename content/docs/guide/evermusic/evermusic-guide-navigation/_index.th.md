@@ -25,7 +25,7 @@ Evermusic มีอินเทอร์เฟซผู้ใช้ที่ใ�
 ไม่ว่าคุณจะใช้ iPhone, iPad หรือโหมดกะทัดรัดบน Mac ฟีเจอร์ทั้งหมดของแอปสามารถเข้าถึงได้ง่ายผ่านแถบแท็บที่ด้านล่างของหน้าจอ สำหรับผู้ใช้ iPad และ Mac เมนูเดียวกันนี้สามารถพบได้ที่ด้านซ้ายของหน้าจอ การจัดระเบียบที่รอบคอบนี้จัดหมวดหมู่ฟีเจอร์ทั้งหมดของแอปลงในส่วนที่เข้าถึงได้ง่าย เพื่อให้มั่นใจถึงประสบการณ์ที่เป็นมิตรต่อผู้ใช้และมีประสิทธิภาพ
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="แถบด้านข้างซ้ายของ Evermusic บน iPad และ Mac" image="/docs/guide/evermusic/evermusic-guide-navigation/img/navigation-left-sidebar.webp" >}}
+  {{< ls-card title="" subtitle="แถบด้านข้างซ้ายของ Evermusic บน iPad และ Mac" image="/docs/guide/evermusic/evermusic-guide-navigation/img/navigation-left-sidebar.webp" >}}
 {{< /cards >}}
 
 **การเชื่อมต่อ:** คุณสามารถเชื่อมต่อบริการจัดเก็บข้อมูลบนคลาวด์เช่น Google Drive, MEGA, OneDrive และ Dropbox รวมถึงคอมพิวเตอร์และ NAS ส่วนตัวของคุณได้อย่างง่ายดายบนหน้าจอนี้
@@ -47,7 +47,7 @@ Evermusic มีอินเทอร์เฟซผู้ใช้ที่ใ�
 เปิดใช้งานเพลเยอร์แบบเต็มหน้าจอโดยการแตะที่ไอคอนมินิเพลเยอร์และใช้ท่าทางปัดลงเพื่อซ่อน บน iPad และ Mac หน้าจอมินิเพลเยอร์อยู่ที่ด้านบนของหน้าจอและสามารถซ่อนได้เมื่อเปิดเพลเยอร์แบบเต็มหน้าจอผ่านเมนูหลัก
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="แถบแท็บ iPhone" image="/docs/guide/evermusic/evermusic-guide-navigation/img/navigation-bottom-tabbar.webp" >}}
+  {{< ls-card title="" subtitle="แถบแท็บ iPhone" image="/docs/guide/evermusic/evermusic-guide-navigation/img/navigation-bottom-tabbar.webp" >}}
 {{< /cards >}}
 
 ## หน้าต่างมินิเพลเยอร์ (เฉพาะ Mac)
@@ -55,7 +55,7 @@ Evermusic มีอินเทอร์เฟซผู้ใช้ที่ใ�
 หากต้องการเข้าถึงหน้าต่างมินิเพลเยอร์บน Mac ของคุณ เพียงย้ายเคอร์เซอร์ไปที่มุมขวาล่างของหน้าต่างแอปและปรับขนาดให้เล็กที่สุดเท่าที่จะเป็นไปได้ จากนั้นแตะปุ่มยุบ (แสดงเป็นลูกศรลง) เพื่อเปิดใช้งานหน้าต่างมินิเพลเยอร์ หากต้องการให้หน้าต่างมินิเพลเยอร์อยู่ด้านบนหน้าต่างอื่นเสมอ ให้ไปที่แถบเมนูด้านบนของ Mac เลือก 'Window' และเลือก 'Show Window Always On Top' ฟีเจอร์นี้มีประโยชน์สำหรับการฟังการบรรยายเสียงโดยไม่มีการขัดจังหวะ
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="หน้าต่างมินิเพลเยอร์ Mac" image="/docs/guide/evermusic/evermusic-guide-navigation/img/navigation-mac-exclusive-miniplayer.webp" >}}
+  {{< ls-card title="" subtitle="หน้าต่างมินิเพลเยอร์ Mac" image="/docs/guide/evermusic/evermusic-guide-navigation/img/navigation-mac-exclusive-miniplayer.webp" >}}
 {{< /cards >}}
 
 ## ดำเนินการเพิ่มเติม
@@ -63,7 +63,7 @@ Evermusic มีอินเทอร์เฟซผู้ใช้ที่ใ�
 แทบทุกรายการเนื้อหาบนหน้าจอมีปุ่ม "ดำเนินการเพิ่มเติม" แตะเพื่อเข้าถึงการดำเนินการทั้งหมดที่มี
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="เมนูบริบทดำเนินการเพิ่มเติม" image="/docs/guide/evermusic/evermusic-guide-navigation/img/navigation-more-actions.webp" >}}
+  {{< ls-card title="" subtitle="เมนูบริบทดำเนินการเพิ่มเติม" image="/docs/guide/evermusic/evermusic-guide-navigation/img/navigation-more-actions.webp" >}}
 {{< /cards >}}
 
 ## แถบเครื่องมือด้านบน
@@ -77,7 +77,7 @@ Evermusic มีอินเทอร์เฟซผู้ใช้ที่ใ�
 - **สุ่มทั้งหมด:** เพิ่มแทร็กทั้งหมดจากหน้าปัจจุบันไปยังคิวเครื่องเล่นเสียง สุ่มก่อนเพิ่มเพื่อประสบการณ์การฟังที่น่าพอใจ
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="แถบเครื่องมือด้านบนพร้อมค้นหา, เล่นทั้งหมด และสุ่มทั้งหมด" image="/docs/guide/evermusic/evermusic-guide-navigation/img/navigation-top-toolbar.webp" >}}
+  {{< ls-card title="" subtitle="แถบเครื่องมือด้านบนพร้อมค้นหา, เล่นทั้งหมด และสุ่มทั้งหมด" image="/docs/guide/evermusic/evermusic-guide-navigation/img/navigation-top-toolbar.webp" >}}
 {{< /cards >}}
 
 ## เมนูบริบท
@@ -91,7 +91,7 @@ Evermusic มีอินเทอร์เฟซผู้ใช้ที่ใ�
 **คลิกขวา:** คลิกขวาที่เซลล์ มินิเพลเยอร์ หรือเพลเยอร์แบบกะทัดรัดเพื่อแสดงเมนูบริบท
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="เมนูบริบทบน macOS" image="/docs/guide/evermusic/evermusic-guide-navigation/img/navigation-context-menu-macos.webp" >}}
+  {{< ls-card title="" subtitle="เมนูบริบทบน macOS" image="/docs/guide/evermusic/evermusic-guide-navigation/img/navigation-context-menu-macos.webp" >}}
 {{< /cards >}}
 
 ## การเข้าถึง
@@ -125,7 +125,7 @@ Evermusic มาพร้อมวิดเจ็ตหน้าจอหลั�
 วิดเจ็ตทั้งสี่พร้อมใช้งานในขนาดเล็ก กลาง และใหญ่ เพื่อให้คุณเลือกเลย์เอาต์ที่เหมาะกับหน้าจอของคุณ
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="การเพิ่มวิดเจ็ต Evermusic" image="/docs/guide/evermusic/evermusic-guide-navigation/img/navigation-add-widgets.webp" >}}
+  {{< ls-card title="" subtitle="การเพิ่มวิดเจ็ต Evermusic" image="/docs/guide/evermusic/evermusic-guide-navigation/img/navigation-add-widgets.webp" >}}
 {{< /cards >}}
 
 ### เพิ่มวิดเจ็ตบน iPhone (หน้าจอหลัก)
@@ -175,7 +175,7 @@ iPad รองรับทั้งวิดเจ็ต Today View และว
 Evermusic มีอินเทอร์เฟซ **Apple CarPlay** ที่ครบครัน (iOS เท่านั้น) ที่ปรับให้เหมาะกับจอแสดงผลรถยนต์ เมื่อ iPhone ของคุณเชื่อมต่อกับหน่วยหัว CarPlay ที่เข้ากันได้ — ผ่าน USB หรือไร้สาย — Evermusic จะปรากฏร่วมกับ Apple Music และ Spotify ในตาราง CarPlay พร้อมสตรีมคลังเพลงบนคลาวด์ของคุณบนท้องถนน
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evermusic บนหน้าจอ CarPlay" image="/docs/guide/evermusic/evermusic-guide-navigation/img/navigation-carplay-menu.webp" >}}
+  {{< ls-card title="" subtitle="Evermusic บนหน้าจอ CarPlay" image="/docs/guide/evermusic/evermusic-guide-navigation/img/navigation-carplay-menu.webp" >}}
 {{< /cards >}}
 
 ### สิ่งที่คุณได้รับใน CarPlay

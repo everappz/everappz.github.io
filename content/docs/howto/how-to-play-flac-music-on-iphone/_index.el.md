@@ -8,7 +8,7 @@ tags: ["μουσική", "cloud", "player", "downloader", "ισοσταθμισ�
 readingTime: 8
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **Με λίγα λόγια:** Για να αναπαράγετε FLAC σε ένα iPhone χρειάζεστε ένα πρόγραμμα αναπαραγωγής τρίτου κατασκευαστή, επειδή η εφαρμογή Μουσική της Apple δεν υποστηρίζει FLAC. Εγκαταστήστε το [Flacbox](/products/flacbox) (είναι δωρεάν), και έπειτα είτε μεταφέρετε τα αρχεία σας μέσω Wi-Fi Drive ή USB, είτε συνδέστε τον αποθηκευτικό σας χώρο cloud ή το NAS σας. Η βιβλιοθήκη FLAC σας αναπαράγεται σε πλήρη ποιότητα, έως 384 kHz και 32-bit μέσω ενός USB DAC. Το Flacbox αναπαράγει επίσης περισσότερες από 120 μορφές, συμπεριλαμβανομένων των FLAC, DSD, ALAC, APE, WAV, OGG και OPUS, και προσθέτει έναν ισοσταθμιστή 10 ζωνών, την επαγγελματική μηχανή ήχου BASS με εφέ σε πραγματικό χρόνο, έναν επεξεργαστή DSP και έναν οπτικοποιητή μουσικής πλήρους οθόνης.
@@ -34,7 +34,7 @@ readingTime: 8
 
 Το Flacbox είναι δωρεάν λήψη και λειτουργεί σε iPhone, iPad και Mac.
 
-{{< app-details product="flacbox" >}}
+{{< ls-app-details product="flacbox" >}}
 
 ### Βήμα 2. Εισαγάγετε τα αρχεία FLAC σας
 
@@ -82,7 +82,7 @@ readingTime: 8
 Το Flacbox περιλαμβάνει έναν γραφικό ισοσταθμιστή 10 ζωνών με προεπιλογές τύπου iPod όπως Acoustic, Bass Booster, Rock, Pop, Jazz, Classical και Dance. Υπάρχει ένας προενισχυτής για να ανεβάζετε ήσυχα κομμάτια χωρίς clipping, και μπορείτε να αποθηκεύσετε τις δικές σας προεπιλογές. Ρυθμίστε τον για in-ear monitors, ένα HomePod ή ένα ηχοσύστημα αυτοκινήτου. Για έναν πλήρη οδηγό, δείτε τον [οδηγό ισοσταθμιστή](/docs/howto/how-to-use-the-audio-equalizer-on-your-iphone-ipad-mac-with-evermusic-and-flacbox).
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Ισοσταθμιστής αναπαραγωγής ήχου Flacbox" image="/docs/guide/flacbox/img/audio-player-equalizer.webp" >}}
+  {{< ls-card title="" subtitle="Ισοσταθμιστής αναπαραγωγής ήχου Flacbox" image="/docs/guide/flacbox/img/audio-player-equalizer.webp" >}}
 {{< /cards >}}
 
 ## Εφέ ήχου σε πραγματικό χρόνο
@@ -106,7 +106,7 @@ readingTime: 8
 Το Flacbox διαθέτει έναν ενσωματωμένο οπτικοποιητή μουσικής που ζωγραφίζει κινούμενα, πολύχρωμα οπτικά στοιχεία στον ρυθμό της μουσικής σας. Χρησιμοποιεί τη γνωστή μηχανή Milkdrop (projectM) με 500 presets, σχεδιασμένα με OpenGL σε iPhone, iPad και Mac. Ανοίξτε τον από το πρόγραμμα αναπαραγωγής πατώντας το κουμπί Περισσότερες ενέργειες και έπειτα Οπτικοποίηση. Επιλέξτε μια προεπιλογή, ή χρησιμοποιήστε τη λειτουργία Auto για να τις εναλλάσσετε κάθε 30 δευτερόλεπτα με ομαλή μετάβαση. Για βοήθεια βήμα προς βήμα, δείτε τον οδηγό σχετικά με το [πώς να ενεργοποιήσετε τον οπτικοποιητή μουσικής](/docs/howto/how-to-turn-on-a-music-visualizer-while-playing-music-on-iphone-ipad-mac).
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Οπτικοποιητής μουσικής Flacbox (Milkdrop και projectM)" image="/docs/howto/how-to-turn-on-a-music-visualizer-while-playing-music-on-iphone-ipad-mac/music-visualizer-starfield-sectors-preset.webp" >}}
+  {{< ls-card title="" subtitle="Οπτικοποιητής μουσικής Flacbox (Milkdrop και projectM)" image="/docs/howto/how-to-turn-on-a-music-visualizer-while-playing-music-on-iphone-ipad-mac/music-visualizer-starfield-sectors-preset.webp" >}}
 {{< /cards >}}
 
 ## Cloud, NAS και αναπαραγωγή εκτός σύνδεσης
@@ -127,7 +127,7 @@ readingTime: 8
 
 Το Flacbox είναι δωρεάν για λήψη. Το Premium αφαιρεί τα όρια της δωρεάν έκδοσης σε λογαριασμούς cloud, λίστες αναπαραγωγής και φακέλους εκτός σύνδεσης, και είναι διαθέσιμο ως εφάπαξ αγορά διά βίου ή ως μηνιαία ή ετήσια συνδρομή, με Οικογενειακή κοινή χρήση.
 
-{{< app-details product="flacbox" >}}
+{{< ls-app-details product="flacbox" >}}
 
 ## Επιλογή 2: Μετατροπή FLAC σε ALAC για την εφαρμογή Μουσική
 
@@ -141,34 +141,34 @@ readingTime: 8
 
 ## Συχνές ερωτήσεις
 
-{{% details title="Μπορεί το iPhone να αναπαράγει αρχεία FLAC εγγενώς;" closed="true" %}}
+{{% ls-details title="Μπορεί το iPhone να αναπαράγει αρχεία FLAC εγγενώς;" closed="true" %}}
 Μόνο με περιορισμένο τρόπο. Η εφαρμογή Αρχεία μπορεί να προεπισκοπήσει ένα μεμονωμένο αρχείο FLAC από το iOS 11, αλλά δεν υπάρχει βιβλιοθήκη, λίστες αναπαραγωγής, ουρά, ισοσταθμιστής ή ροή cloud. Για πραγματική ακρόαση, χρησιμοποιήστε μια εφαρμογή αναπαραγωγής όπως το Flacbox.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Μπορώ να αναπαράγω FLAC 24-bit ή 96kHz (ή υψηλότερα) στο iPhone;" closed="true" %}}
+{{% ls-details title="Μπορώ να αναπαράγω FLAC 24-bit ή 96kHz (ή υψηλότερα) στο iPhone;" closed="true" %}}
 Ναι. Το Flacbox υποστηρίζει έξοδο hi-res έως 384 kHz. Για να αναπαράγετε πάνω από 48 kHz σε πραγματική ανάλυση, συνδέστε έναν εξωτερικό USB DAC, επειδή η ενσωματωμένη έξοδος του iPhone επαναδειγματοληπτεί τον ήχο για κάθε εφαρμογή.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Μετατρέπει το Flacbox το FLAC σε άλλη μορφή;" closed="true" %}}
+{{% ls-details title="Μετατρέπει το Flacbox το FLAC σε άλλη μορφή;" closed="true" %}}
 Όχι. Το Flacbox αναπαράγει FLAC στην αρχική του ποιότητα χωρίς απώλειες χωρίς μετατροπή. Τα εφέ και το DSP εφαρμόζονται ζωντανά μόνο κατά την αναπαραγωγή, και ποτέ δεν αλλάζουν τα αρχεία σας.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Χάνω ποιότητα μετατρέποντας το FLAC σε ALAC;" closed="true" %}}
+{{% ls-details title="Χάνω ποιότητα μετατρέποντας το FLAC σε ALAC;" closed="true" %}}
 Όχι. Το FLAC και το ALAC είναι και τα δύο χωρίς απώλειες, οπότε η μετατροπή είναι bit-perfect. Απλώς ξοδεύετε χρόνο και θυσιάζετε την ευκολία, καθώς καταλήγετε με δύο βιβλιοθήκες προς συντήρηση και πρέπει να συγχρονίζετε ξανά μετά από επεξεργασίες.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Ποιες μορφές ήχου υποστηρίζει το Flacbox;" closed="true" %}}
+{{% ls-details title="Ποιες μορφές ήχου υποστηρίζει το Flacbox;" closed="true" %}}
 Περισσότερες από 120 μορφές, συμπεριλαμβανομένων των FLAC, DSD (DSF και DFF), ALAC, APE, WAV, AIFF, WV, OGG, OPUS, MP3, AAC, M4A, WMA, και ακόμη μουσική tracker και MOD όπως MOD, XM, IT και S3M.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Έχει το Flacbox ισοσταθμιστή, εφέ και οπτικοποιητή;" closed="true" %}}
+{{% ls-details title="Έχει το Flacbox ισοσταθμιστή, εφέ και οπτικοποιητή;" closed="true" %}}
 Ναι. Έχει έναν ισοσταθμιστή 10 ζωνών με προεπιλογές και προενισχυτή. Έχει επίσης μια επαγγελματική μηχανή BASS με έντεκα εφέ σε πραγματικό χρόνο (reverb, delay, multi-tap echo, crossfeed, compressor, chorus, flanger, phaser, auto-wah, distortion και stereo rotation), καθώς και εξισορρόπηση έντασης EBU R128, έναν επεξεργαστή DSP 14 φίλτρων και έναν οπτικοποιητή Milkdrop πλήρους οθόνης με 500 presets.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Μπορώ να κάνω ροή FLAC από το NAS ή το cloud μου;" closed="true" %}}
+{{% ls-details title="Μπορώ να κάνω ροή FLAC από το NAS ή το cloud μου;" closed="true" %}}
 Ναι. Το Flacbox συνδέεται με περισσότερες από 30 υπηρεσίες cloud και με ένα NAS ή υπολογιστή μέσω SMB, WebDAV, DLNA, FTP, SFTP και NFS. Όλη η βιβλιοθήκη σας είναι διαθέσιμη χωρίς αντιγραφή αρχείων στο iPhone σας, και μπορείτε να κατεβάσετε κομμάτια για αναπαραγωγή εκτός σύνδεσης οποιαδήποτε στιγμή.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Είναι πραγματικά δωρεάν το Flacbox;" closed="true" %}}
+{{% ls-details title="Είναι πραγματικά δωρεάν το Flacbox;" closed="true" %}}
 Το Flacbox είναι δωρεάν για λήψη, με βασικές λειτουργίες όπως ο ισοσταθμιστής, η ροή cloud και η αναπαραγωγή εκτός σύνδεσης. Το Premium αφαιρεί τα όρια της δωρεάν έκδοσης σε λογαριασμούς cloud, λίστες αναπαραγωγής και φακέλους εκτός σύνδεσης, και έρχεται ως εφάπαξ αγορά διά βίου ή ως μηνιαία ή ετήσια συνδρομή, με Οικογενειακή κοινή χρήση.
-{{% /details %}}
+{{% /ls-details %}}

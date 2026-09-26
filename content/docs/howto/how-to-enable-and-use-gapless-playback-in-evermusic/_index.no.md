@@ -7,7 +7,7 @@ tags: ["Evermusic", "Sømløs avspilling", "Veiledning", "Lyd", "Avspilling", "C
 readingTime: 4
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 **Kort oppsummert:** Åpne **Innstillinger > Lydspiller > Sømløs avspilling** og slå bryteren **PÅ**. Fra da av spilles sanger av uten pause, klikk eller tikk mellom dem. Evermusic forhåndsbufrer og dekoder neste spor mens det nåværende fortsatt spilles, og overleverer så mellom lydsamplene på en kontinuerlig buffer, slik at overgangen er helt sømløs. Det er ekte sømløs avspilling med samplenøyaktighet, ikke en crossfade.
 
@@ -73,30 +73,30 @@ Resultatet er at et livealbum, et beat-matchet DJ-sett eller en konseptplate spi
 
 ## Ofte stilte spørsmål
 
-{{% details title="Hvordan slår jeg på sømløs avspilling i Evermusic?" closed="true" %}}
+{{% ls-details title="Hvordan slår jeg på sømløs avspilling i Evermusic?" closed="true" %}}
 Åpne Evermusic, gå til Innstillinger > Lydspiller > Sømløs avspilling, og slå bryteren PÅ. Det er av som standard. Når det er aktivert, gjelder det for alt du spiller av og forblir på til du slår det av.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Er Evermusics sømløse avspilling ekte sømløs eller bare crossfade?" closed="true" %}}
+{{% ls-details title="Er Evermusics sømløse avspilling ekte sømløs eller bare crossfade?" closed="true" %}}
 Det er ekte sømløs avspilling med samplenøyaktighet. Evermusic dekoder og forhåndsbufrer neste spor mens det nåværende spilles, og overleverer så mellom lydsampler på en kontinuerlig buffer, slik at ingen stillhet, klikk eller utfylling settes inn og ingen dekoder-omstartspause oppstår. Crossfade er en separat, annerledes funksjon som overlapper og blander spor; sømløst bevarer lyden akkurat som mastret og fjerner bare mellomrommet.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Hvorfor hører jeg fortsatt et mellomrom mellom noen spor?" closed="true" %}}
+{{% ls-details title="Hvorfor hører jeg fortsatt et mellomrom mellom noen spor?" closed="true" %}}
 Kontroller at sømløs avspilling er slått PÅ i Innstillinger > Lydspiller > Sømløs avspilling. Hvis et mellomrom gjenstår, kan det være bakt inn i selve opptaket (noen filer inneholder noen sekunder med ekte stillhet i starten eller slutten av et spor). Sømløst fjerner mellomrommet spilleren normalt ville lagt til mellom spor; det kan ikke fjerne stillhet som er en del av lydfilen.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Fungerer sømløs avspilling med FLAC og andre tapsfrie filer?" closed="true" %}}
+{{% ls-details title="Fungerer sømløs avspilling med FLAC og andre tapsfrie filer?" closed="true" %}}
 Ja. Sømløs avspilling fungerer med FLAC, Apple Lossless (ALAC) og tapsbaserte formater som MP3 og AAC, enten filene er lagret lokalt, i skyen eller på en medieserver.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Kan jeg bruke sømløs avspilling og crossfade samtidig?" closed="true" %}}
+{{% ls-details title="Kan jeg bruke sømløs avspilling og crossfade samtidig?" closed="true" %}}
 Nei. De gjør motsatte ting, så å slå på sømløs avspilling deaktiverer crossfade automatisk. Bruk sømløst for livealbum, DJ-mikser og konseptplater der lyden skal bevares nøyaktig; bruk crossfade hvis du vil at sanger skal fade over i hverandre.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Fungerer sømløs avspilling ved strømming fra skyen?" closed="true" %}}
+{{% ls-details title="Fungerer sømløs avspilling ved strømming fra skyen?" closed="true" %}}
 Ja. Evermusic begynner å bufre og dekode neste spor tidlig, også for skystasjoner og medieservere, slik at overleveringen forblir sømløs. På tregere tilkoblinger begynner det rett og slett å forberede neste spor litt tidligere.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Reduserer sømløs avspilling lydkvaliteten?" closed="true" %}}
+{{% ls-details title="Reduserer sømløs avspilling lydkvaliteten?" closed="true" %}}
 Nei. Sømløs avspilling koder ikke om eller behandler lyden din. Det endrer bare hvordan spor planlegges og bufres slik at det ikke er noe mellomrom mellom dem. Hver sample spilles nøyaktig slik den er i filen.
-{{% /details %}}
+{{% /ls-details %}}

@@ -18,7 +18,7 @@ Der Abschnitt „Lokale Dateien" dient als Zentrale für die Verwaltung von Date
 Dieser integrierte Dateimanager ermöglicht Ihnen die Bearbeitung von Dateien und bietet verschiedene Methoden zum Importieren von Audiodateien in die App. Dateien, die Sie zuletzt geöffnet haben, erscheinen automatisch auf der Registerkarte **Aktuell** und Elemente, die Sie mit einem Stern markieren, werden unter **Favoriten** angezeigt, sodass Sie direkt zu den Dateien springen können, mit denen Sie am häufigsten arbeiten, ohne zu diesem Bildschirm zurücknavigieren zu müssen.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evertag Downloads Screen" image="/docs/guide/evertag/img/downloads.webp" >}}
+  {{< ls-card title="" subtitle="Evertag Downloads Screen" image="/docs/guide/evertag/img/downloads.webp" >}}
 {{< /cards >}}
 
 ## Dateien aus Cloud-Speicher herunterladen
@@ -74,7 +74,7 @@ Zeigt Dateien und Ordner an, die im Verzeichnis „Documents" der App und in iCl
 Zeigt Dateien an, die sich auf Ihrem Gerät befinden, aber in verschiedenen Anwendungen. Sie können sie mit der Systemdateiauswahl in diese Anwendung importieren. Um die Auswahl zu aktivieren, wählen Sie „Dateien öffnen..." um Dateien auszuwählen, oder „Ordner öffnen..." um Ordner auszuwählen. Detaillierte Anweisungen zum Importieren lokaler Musik, die auf Ihrem iPhone oder Mac gespeichert ist, sind [hier](/docs/howto/how-to-play-local-music-stored-on-your-iphone-or-mac) verfügbar. Sie können auch einen auf Ihrem Gerät befindlichen Ordner verbinden und schnell auf den Inhalt des Ordners zugreifen. Verwenden Sie den Menüpunkt „Ordner verbinden" und wählen Sie einen auf Ihrem Gerät befindlichen Ordner aus. Tippen Sie auf „Fertig," und die App erstellt einen Link zu diesem Ordner mit Lese-/Schreibzugriff, sodass Sie Dateien direkt aus dieser App verwalten können. Um einen auf Ihrem Gerät befindlichen Ordner zu trennen, tippen Sie auf die Schaltfläche „Weitere Aktionen" und wählen Sie „Trennen."
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evertag Import Files From My Device" image="/docs/guide/evertag/img/open-files.webp" >}}
+  {{< ls-card title="" subtitle="Evertag Import Files From My Device" image="/docs/guide/evertag/img/open-files.webp" >}}
 {{< /cards >}}
 
 ## Dateien auf verbundenen USB-Flashkarten importieren
@@ -86,7 +86,7 @@ Detaillierte Anweisungen zum Verbinden einer USB-Flashkarte mit Ihrem iPhone und
 Das Menü „Weitere Aktionen" für den aktuell geöffneten Ordner befindet sich in der oberen rechten Ecke und bietet Zugriff auf verschiedene Aktionen.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evertag Import Files From My Device" image="/docs/guide/evertag/img/downloads-current-folder-actions.webp" >}}
+  {{< ls-card title="" subtitle="Evertag Import Files From My Device" image="/docs/guide/evertag/img/downloads-current-folder-actions.webp" >}}
 {{< /cards >}}
 
 - **Auswählen:** Wechseln Sie in den Auswahlmodus für Dateien und Ordner.

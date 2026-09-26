@@ -7,7 +7,7 @@ tags: ["Evermusic", "Redare fără pauze", "Ghid", "Audio", "Redare", "Crossfade
 readingTime: 4
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 **Pe scurt:** Deschide **Setări > Player audio > Redare fără pauze** și activează comutatorul. De atunci, melodiile se redau fără pauză, clic sau pârâit între ele. Evermusic pre-încarcă în buffer și decodează piesa următoare în timp ce cea curentă încă se redă, apoi face trecerea între eșantioane audio pe un buffer continuu, astfel încât tranziția este cu adevărat fără cusur. Este redare fără pauze reală, precisă la nivel de eșantion, nu un crossfade.
 
@@ -73,30 +73,30 @@ Rezultatul este că un album live, un set DJ sincronizat ritmic sau un disc conc
 
 ## Întrebări frecvente
 
-{{% details title="Cum activez redarea fără pauze în Evermusic?" closed="true" %}}
+{{% ls-details title="Cum activez redarea fără pauze în Evermusic?" closed="true" %}}
 Deschide Evermusic, mergi la Setări > Player audio > Redare fără pauze și activează comutatorul. Este dezactivată implicit. Odată activată, se aplică la tot ce redai și rămâne activată până când o dezactivezi.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Redarea fără pauze din Evermusic este reală sau este doar crossfade?" closed="true" %}}
+{{% ls-details title="Redarea fără pauze din Evermusic este reală sau este doar crossfade?" closed="true" %}}
 Este redare fără pauze reală, precisă la nivel de eșantion. Evermusic decodează și pre-încarcă în buffer piesa următoare în timp ce cea curentă se redă, apoi face trecerea între eșantioane audio pe un buffer continuu, astfel încât nu se inserează nicio liniște, clic sau umplutură și nu apare niciun gol de repornire a decodorului. Crossfade-ul este o funcție separată, diferită, care suprapune și amestecă piesele; redarea fără pauze păstrează sunetul exact așa cum a fost masterizat și doar elimină golul.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="De ce aud în continuare un gol între unele piese?" closed="true" %}}
+{{% ls-details title="De ce aud în continuare un gol între unele piese?" closed="true" %}}
 Asigură-te că redarea fără pauze este activată în Setări > Player audio > Redare fără pauze. Dacă golul persistă, este posibil să fie inclus chiar în înregistrare (unele fișiere conțin câteva secunde de liniște reală la începutul sau la sfârșitul unei piese). Redarea fără pauze elimină golul pe care playerul l-ar adăuga în mod normal între piese; nu poate elimina liniștea care face parte din fișierul audio.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Funcționează redarea fără pauze cu FLAC și alte fișiere lossless?" closed="true" %}}
+{{% ls-details title="Funcționează redarea fără pauze cu FLAC și alte fișiere lossless?" closed="true" %}}
 Da. Redarea fără pauze funcționează cu FLAC, Apple Lossless (ALAC) și formate cu pierderi precum MP3 și AAC, fie că fișierele sunt stocate local, în cloud sau pe un server media.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Pot folosi redarea fără pauze și crossfade-ul în același timp?" closed="true" %}}
+{{% ls-details title="Pot folosi redarea fără pauze și crossfade-ul în același timp?" closed="true" %}}
 Nu. Fac lucruri opuse, așa că activarea redării fără pauze dezactivează automat crossfade-ul. Folosește redarea fără pauze pentru albume live, mixuri DJ și discuri conceptuale, unde sunetul trebuie păstrat exact; folosește crossfade-ul dacă vrei ca melodiile să se estompeze una în alta.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Funcționează redarea fără pauze la streaming din cloud?" closed="true" %}}
+{{% ls-details title="Funcționează redarea fără pauze la streaming din cloud?" closed="true" %}}
 Da. Evermusic începe să încarce în buffer și să decodeze piesa următoare din timp, inclusiv pentru drive-uri în cloud și servere media, astfel încât trecerea rămâne fără cusur. Pe conexiuni mai lente, pur și simplu începe să pregătească piesa următoare puțin mai devreme.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Reduce redarea fără pauze calitatea audio?" closed="true" %}}
+{{% ls-details title="Reduce redarea fără pauze calitatea audio?" closed="true" %}}
 Nu. Redarea fără pauze nu recodează și nu procesează sunetul tău. Doar schimbă modul în care piesele sunt programate și încărcate în buffer, pentru a nu exista un gol între ele. Fiecare eșantion este redat exact așa cum se află în fișier.
-{{% /details %}}
+{{% /ls-details %}}

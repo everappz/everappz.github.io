@@ -7,7 +7,7 @@ tags: ["audioknjige", "reprodukcija", "offline", "evermusic", "zabilješka"]
 readingTime: 5
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **Ukratko:** Evermusic također služi kao potpuno opremljeni player audioknjiga na iOS-u i macOS-u. Prenesite audioknjige putem iTunesa, WiFi-ja ili pohrane u oblaku, zatim koristite kontrolu brzine reprodukcije, tipke za preskakanje, audio zabilješke, nastavak reprodukcije i offline preuzimanja za besprijekorno iskustvo slušanja.
@@ -151,26 +151,26 @@ Sretno slušanje!
 
 ## Često postavljana pitanja
 
-{{% details title="Koje formate audioknjiga Evermusic podržava?" closed="true" %}}
+{{% ls-details title="Koje formate audioknjiga Evermusic podržava?" closed="true" %}}
 Evermusic podržava MP3, M4A, M4B, FLAC, WAV, AIFF, OGG i druge uobičajene audio formate. Svaka audio datoteka koja se reproducira u Evermusicu funkcionira kao audioknjiga.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Mogu li slušati audioknjige iz pohrane u oblaku?" closed="true" %}}
+{{% ls-details title="Mogu li slušati audioknjige iz pohrane u oblaku?" closed="true" %}}
 Da. Evermusic se povezuje s iCloud Driveom, Google Driveom, Dropboxom, OneDriveom, Boxom i WebDAV poslužiteljima. Možete streamati audioknjige izravno ili ih preuzeti za offline slušanje.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Hoće li se moje zabilješke prenijeti na novi uređaj?" closed="true" %}}
+{{% ls-details title="Hoće li se moje zabilješke prenijeti na novi uređaj?" closed="true" %}}
 Da. Evermusic sprema audio zabilješke u metapodatke datoteke, pa se automatski prenose kad premjestite datoteke na novi uređaj.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Pamti li Evermusic gdje sam prestao slušati?" closed="true" %}}
+{{% ls-details title="Pamti li Evermusic gdje sam prestao slušati?" closed="true" %}}
 Da. Omogućite "Spremi poziciju reprodukcije" i "Spremi stanje audio playera" u Postavke > Audio player > Općenito. Aplikacija sprema i vraća vašu točnu poziciju između sesija.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Mogu li prilagoditi brzinu reprodukcije audioknjige?" closed="true" %}}
+{{% ls-details title="Mogu li prilagoditi brzinu reprodukcije audioknjige?" closed="true" %}}
 Da. Idite na Postavke > Audio player > Brzina reprodukcije za postavljanje željene brzine. Možete ubrzati ili usporiti naraciju prema vašim preferencijama slušanja.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Kako mogu prenijeti audioknjige u Evermusic?" closed="true" %}}
+{{% ls-details title="Kako mogu prenijeti audioknjige u Evermusic?" closed="true" %}}
 Možete prenijeti datoteke putem dijeljenja datoteka iTunes/Finder, WiFi Drivea (ugrađen u aplikaciju) ili povezivanjem računa za pohranu u oblaku unutar Evermusica.
-{{% /details %}}
+{{% /ls-details %}}

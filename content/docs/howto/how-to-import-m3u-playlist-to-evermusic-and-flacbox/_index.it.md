@@ -7,7 +7,7 @@ tags: ["evermusic", "importare", "playlist", "m3u", "cue"]
 readingTime: 3
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **Riepilogo:** Evermusic e Flacbox supportano l'importazione di file playlist M3U, M3U8 e CUE dall'archiviazione cloud, dai file locali dell'app o dal tuo dispositivo. Vai su Playlist > Altro > Importa playlist, seleziona una fonte, scegli il tuo file e l'app crea automaticamente la tua playlist.
@@ -84,22 +84,22 @@ Inoltre, puoi importare più playlist contemporaneamente toccando il pulsante "A
 
 ## Domande frequenti
 
-{{% details title="Quali formati di playlist supportano Evermusic e Flacbox?" closed="true" %}}
+{{% ls-details title="Quali formati di playlist supportano Evermusic e Flacbox?" closed="true" %}}
 Entrambe le app supportano i formati di file playlist M3U, M3U8 e CUE. Questi coprono gli standard di playlist più comuni utilizzati dai lettori musicali e dai software multimediali.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Posso importare playlist dall'archiviazione cloud?" closed="true" %}}
+{{% ls-details title="Posso importare playlist dall'archiviazione cloud?" closed="true" %}}
 Sì. Puoi importare file playlist da qualsiasi servizio di archiviazione cloud connesso, inclusi Google Drive, Dropbox, OneDrive e server WebDAV.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Perché mancano alcuni brani dopo l'importazione?" closed="true" %}}
+{{% ls-details title="Perché mancano alcuni brani dopo l'importazione?" closed="true" %}}
 Il file playlist deve contenere percorsi corretti verso i tuoi file multimediali e quei file devono esistere nelle posizioni specificate nella tua archiviazione. Verifica che i percorsi dei file nel tuo file M3U o CUE corrispondano alle posizioni effettive dei file.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Posso importare più playlist contemporaneamente?" closed="true" %}}
+{{% ls-details title="Posso importare più playlist contemporaneamente?" closed="true" %}}
 Sì. Usa il pulsante Altre azioni e seleziona "Importa playlist da una cartella". L'app scansiona la cartella per tutti i file playlist supportati e li importa in un unico passaggio.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Devo creare le playlist manualmente?" closed="true" %}}
+{{% ls-details title="Devo creare le playlist manualmente?" closed="true" %}}
 No. La funzione di importazione elimina la creazione manuale delle playlist. Basta puntare l'app al tuo file M3U, M3U8 o CUE esistente e crea la playlist automaticamente.
-{{% /details %}}
+{{% /ls-details %}}

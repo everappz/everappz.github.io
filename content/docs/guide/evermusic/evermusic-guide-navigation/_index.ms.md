@@ -25,7 +25,7 @@ Fungsi Evermusic dibahagikan dengan bijak kepada dua komponen yang berbeza: Perp
 Sama ada anda menggunakan iPhone, iPad, atau mod padat pada Mac, semua ciri apl boleh diakses dengan mudah melalui tab bar di bahagian bawah skrin. Untuk pengguna iPad dan Mac, menu yang sama boleh didapati di sebelah kiri skrin. Pengaturan yang bijak ini mengategorikan semua ciri apl ke dalam bahagian yang mudah diakses, memastikan pengalaman yang mesra pengguna dan cekap.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Bar Sisi Kiri Evermusic pada iPad dan Mac" image="/docs/guide/evermusic/evermusic-guide-navigation/img/navigation-left-sidebar.webp" >}}
+  {{< ls-card title="" subtitle="Bar Sisi Kiri Evermusic pada iPad dan Mac" image="/docs/guide/evermusic/evermusic-guide-navigation/img/navigation-left-sidebar.webp" >}}
 {{< /cards >}}
 
 **Sambungan:** Anda boleh menyambungkan perkhidmatan storan awan seperti Google Drive, MEGA, OneDrive, dan Dropbox, serta komputer dan NAS peribadi anda dengan mudah pada skrin ini.
@@ -47,7 +47,7 @@ Bahagian fail tempatan dibahagikan kepada dua kategori: Fail dalam aplikasi ini,
 Aktifkan pemain skrin penuh dengan mengetuk ikon pemain mini dan menggunakan isyarat luncur ke bawah untuk menyembunyikannya. Pada iPad dan Mac, skrin pemain mini terletak di bahagian atas skrin dan boleh disembunyikan apabila membuka pemain skrin penuh melalui menu utama.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Tab Bar iPhone" image="/docs/guide/evermusic/evermusic-guide-navigation/img/navigation-bottom-tabbar.webp" >}}
+  {{< ls-card title="" subtitle="Tab Bar iPhone" image="/docs/guide/evermusic/evermusic-guide-navigation/img/navigation-bottom-tabbar.webp" >}}
 {{< /cards >}}
 
 ## Tetingkap Pemain Mini (Eksklusif Mac)
@@ -55,7 +55,7 @@ Aktifkan pemain skrin penuh dengan mengetuk ikon pemain mini dan menggunakan isy
 Untuk mengakses tetingkap pemain mini pada Mac anda, gerakkan kursor anda ke tepi kanan bawah tetingkap apl dan ubah saiznya ke saiz sekecil mungkin. Kemudian, ketuk butang runtuh (digambarkan sebagai anak panah ke bawah) untuk mengaktifkan tetingkap pemain mini. Untuk memastikan tetingkap pemain mini sentiasa berada di atas tetingkap lain, navigasi ke bar menu atas Mac anda, pilih 'Tetingkap,' dan kemudian pilih 'Tunjuk Tetingkap Sentiasa Di Atas.' Ciri ini berguna untuk mendengar kuliah audio tanpa gangguan.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Tetingkap Pemain Mini Mac" image="/docs/guide/evermusic/evermusic-guide-navigation/img/navigation-mac-exclusive-miniplayer.webp" >}}
+  {{< ls-card title="" subtitle="Tetingkap Pemain Mini Mac" image="/docs/guide/evermusic/evermusic-guide-navigation/img/navigation-mac-exclusive-miniplayer.webp" >}}
 {{< /cards >}}
 
 ## Lebih Banyak Tindakan
@@ -63,7 +63,7 @@ Untuk mengakses tetingkap pemain mini pada Mac anda, gerakkan kursor anda ke tep
 Hampir setiap item kandungan pada skrin mempunyai butang "Lebih banyak tindakan". Ketuk untuk mengakses semua tindakan yang tersedia.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Menu Konteks Lebih banyak tindakan" image="/docs/guide/evermusic/evermusic-guide-navigation/img/navigation-more-actions.webp" >}}
+  {{< ls-card title="" subtitle="Menu Konteks Lebih banyak tindakan" image="/docs/guide/evermusic/evermusic-guide-navigation/img/navigation-more-actions.webp" >}}
 {{< /cards >}}
 
 ## Bar Alat Atas
@@ -77,7 +77,7 @@ Anda boleh mendedahkan atau menyembunyikan bar alat ini dengan mudah dengan isya
 - **Kocok Semua:** Tambah semua trek dari halaman semasa ke baris gilir pemain audio, mengocoknya sebelum menambah untuk pengalaman mendengar yang menyenangkan.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Bar Alat Atas dengan Cari, Main Semua, dan Kocok Semua" image="/docs/guide/evermusic/evermusic-guide-navigation/img/navigation-top-toolbar.webp" >}}
+  {{< ls-card title="" subtitle="Bar Alat Atas dengan Cari, Main Semua, dan Kocok Semua" image="/docs/guide/evermusic/evermusic-guide-navigation/img/navigation-top-toolbar.webp" >}}
 {{< /cards >}}
 
 ## Menu konteks
@@ -91,7 +91,7 @@ Menu konteks menyediakan akses pantas kepada pilihan dan tindakan tambahan untuk
 **Klik Tetikus Kanan:** Klik kanan pada sel, pemain mini, atau pemain padat untuk menunjukkan menu konteks.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Menu Konteks pada macOS" image="/docs/guide/evermusic/evermusic-guide-navigation/img/navigation-context-menu-macos.webp" >}}
+  {{< ls-card title="" subtitle="Menu Konteks pada macOS" image="/docs/guide/evermusic/evermusic-guide-navigation/img/navigation-context-menu-macos.webp" >}}
 {{< /cards >}}
 
 ## Kebolehaksesan
@@ -125,7 +125,7 @@ Evermusic dilengkapi dengan empat widget Skrin Utama / Skrin Kunci yang muncul b
 Keempat-empat widget tersedia dalam saiz Kecil, Sederhana, dan Besar supaya anda boleh memilih susun atur yang sesuai dengan skrin anda.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Menambah Widget Evermusic" image="/docs/guide/evermusic/evermusic-guide-navigation/img/navigation-add-widgets.webp" >}}
+  {{< ls-card title="" subtitle="Menambah Widget Evermusic" image="/docs/guide/evermusic/evermusic-guide-navigation/img/navigation-add-widgets.webp" >}}
 {{< /cards >}}
 
 ### Tambah widget pada iPhone (Skrin Utama)
@@ -175,7 +175,7 @@ Widget CarPlay dikemas kini secara langsung apabila muzik anda berubah dan mesra
 Evermusic termasuk antara muka **Apple CarPlay** yang lengkap (iOS sahaja) yang dioptimumkan untuk paparan kereta. Setelah iPhone anda disambungkan ke unit kepala CarPlay yang serasi — melalui USB atau tanpa wayar — Evermusic muncul bersama Apple Music dan Spotify dalam grid apl CarPlay, bersedia untuk menstrim perpustakaan awan anda di jalan raya.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evermusic pada Skrin CarPlay" image="/docs/guide/evermusic/evermusic-guide-navigation/img/navigation-carplay-menu.webp" >}}
+  {{< ls-card title="" subtitle="Evermusic pada Skrin CarPlay" image="/docs/guide/evermusic/evermusic-guide-navigation/img/navigation-carplay-menu.webp" >}}
 {{< /cards >}}
 
 ### Apa yang anda dapat dalam CarPlay

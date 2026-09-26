@@ -12,7 +12,7 @@ authors:
     image: "/images/about/artem-meleshko-founder-everappz.webp"
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 ## Evermusic 3.1：変更点とその重要性
 
@@ -89,22 +89,22 @@ Evermusicのホーム画面から直接iPodライブラリを閲覧。iPodのト
 
 ## よくある質問
 
-{{% details title="Evermusicのクロスフェード再生とは？" closed="true" %}}
+{{% ls-details title="Evermusicのクロスフェード再生とは？" closed="true" %}}
 クロスフェード再生は1つのトラックの終わりを次のトラックの始まりにブレンドし、シームレスな移行を作成します。Settings → Audio Player → Crossfade Playbackで3〜15秒の間で長さを設定できます。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Evermusicのプレイリストをクラウドストレージにバックアップできますか？" closed="true" %}}
+{{% ls-details title="Evermusicのプレイリストをクラウドストレージにバックアップできますか？" closed="true" %}}
 はい。Evermusic 3.1ではライブラリ全体（プレイリスト、メタデータ、カバーアート、設定を含む）を接続されたクラウドサービスに単一ファイルとしてバックアップできます。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="EvermusicはiPodライブラリの閲覧をサポートしていますか？" closed="true" %}}
+{{% ls-details title="EvermusicはiPodライブラリの閲覧をサポートしていますか？" closed="true" %}}
 はい。Evermusicのホーム画面から直接プレイリスト、アルバム、アーティスト、ジャンルごとにiPodライブラリを閲覧し、キューにトラックを追加できます。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Evermusicで不正確な曲のタグを修正するには？" closed="true" %}}
+{{% ls-details title="Evermusicで不正確な曲のタグを修正するには？" closed="true" %}}
 内蔵タグエディタを使用して識別アクションをタップしてください。Evermusicがファイル名をスキャンし、修正されたメタデータでID3タグを自動的に更新します。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Evermusicはどのクラウドサービスをサポートしていますか？" closed="true" %}}
+{{% ls-details title="Evermusicはどのクラウドサービスをサポートしていますか？" closed="true" %}}
 EvermusicはDropbox、Google Drive、OneDrive、MEGA、Box、Yandex.Disk、WebDAV、SMB/CIFS、FTPサーバーで動作します。
-{{% /details %}}
+{{% /ls-details %}}

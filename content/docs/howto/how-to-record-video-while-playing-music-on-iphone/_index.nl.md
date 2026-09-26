@@ -7,7 +7,7 @@ keywords: ["video opnemen terwijl muziek speelt op iPhone", "hoe muziek afspelen
 readingTime: 1
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **Samenvatting:** Stel de audio-uitvoer van Evermusic in op "Gemengde modus," start een nummer en open vervolgens je Camera-app om op te nemen. De muziek blijft op de achtergrond spelen. Werkt met TikTok, Instagram en elke camera-app.
@@ -45,22 +45,22 @@ Deze truc werkt op elke iPhone.
 
 ## Veelgestelde vragen
 
-{{% details title="Wordt de achtergrondmuziek opgenomen in de video?" closed="true" %}}
+{{% ls-details title="Wordt de achtergrondmuziek opgenomen in de video?" closed="true" %}}
 De muziek speelt via de iPhone-luidspreker, dus de microfoon vangt het op samen met ander omgevingsgeluid. Voor schonere audio kun je overwegen een externe luidspreker dicht bij de microfoon te plaatsen.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Werkt dit met TikTok en Instagram?" closed="true" %}}
+{{% ls-details title="Werkt dit met TikTok en Instagram?" closed="true" %}}
 Ja. Zodra Evermusic is ingesteld op Gemengde modus en een nummer wordt afgespeeld, blijft de muziek spelen wanneer je TikTok, Instagram of een andere camera- of opname-app opent.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Wat is Gemengde modus in Evermusic?" closed="true" %}}
+{{% ls-details title="Wat is Gemengde modus in Evermusic?" closed="true" %}}
 Gemengde modus is een audio-uitvoerinstelling waarmee Evermusic de audiosessie kan delen met andere apps. Dit voorkomt dat de muziek stopt wanneer een andere app toegang heeft tot de microfoon of camera.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Kan ik Flacbox gebruiken in plaats van Evermusic?" closed="true" %}}
+{{% ls-details title="Kan ik Flacbox gebruiken in plaats van Evermusic?" closed="true" %}}
 Ja. Flacbox ondersteunt ook de Gemengde audio-uitvoermodus. De stappen zijn hetzelfde: schakel Gemengde modus in via Instellingen, start het afspelen en open je camera-app.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Kan ik een game spelen terwijl muziek van Evermusic op de achtergrond speelt?" closed="true" %}}
+{{% ls-details title="Kan ik een game spelen terwijl muziek van Evermusic op de achtergrond speelt?" closed="true" %}}
 Ja. Met Gemengde modus ingeschakeld blijft muziek van Evermusic spelen wanneer je een game of app opent. Zowel het gamegeluid als je muziek worden tegelijkertijd afgespeeld.
-{{% /details %}}
+{{% /ls-details %}}

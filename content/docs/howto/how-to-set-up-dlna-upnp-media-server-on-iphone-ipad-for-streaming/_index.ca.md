@@ -7,7 +7,7 @@ keywords: ["servidor DLNA iPhone", "servidor UPnP iPad", "com configurar DLNA a 
 readingTime: 9
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 DLNA (també anomenat UPnP AV) és el treballador discret que hi ha darrere de la majoria de televisors intel·ligents. És un llenguatge compartit que permet que un televisor o un reproductor multimèdia trobi una biblioteca de mitjans a la mateixa Wi-Fi i hi reprodueixi, sense res a instal·lar al televisor. Si el teu iPhone o iPad pot fer de biblioteca, les teves fotos, vídeos i música apareixen soles a la gran pantalla.
 
@@ -127,44 +127,44 @@ DLNA lliura l'arxiu al televisor tal com és, i el televisor l'ha de poder desco
 
 ## Preguntes freqüents
 
-{{% details title="Quina diferència hi ha entre DLNA i UPnP?" closed="true" %}}
+{{% ls-details title="Quina diferència hi ha entre DLNA i UPnP?" closed="true" %}}
 Estan estretament relacionats. UPnP és l'estàndard de xarxa subjacent, i DLNA és el perfil multimèdia construït al damunt que els televisors i reproductors fan servir per compartir i reproduir fotos, vídeos i música. En l'ús diari les paraules són intercanviables. Quan actives Televisor i centre multimèdia a Everdisk, el teu dispositiu es converteix en un servidor multimèdia DLNA/UPnP que qualsevol client DLNA pot explorar.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Cal instal·lar res al meu televisor?" closed="true" %}}
+{{% ls-details title="Cal instal·lar res al meu televisor?" closed="true" %}}
 No. Si el teu televisor admet DLNA, ja té un reproductor multimèdia que pot trobar el teu dispositiu a la Wi-Fi. Només instal·les Everdisk a l'iPhone o iPad que conté el contingut. Si el teu televisor no admet DLNA, instal·la un reproductor com VLC o Kodi en un dispositiu que hi estigui connectat.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Per què el meu iPhone no apareix al televisor?" closed="true" %}}
+{{% ls-details title="Per què el meu iPhone no apareix al televisor?" closed="true" %}}
 Comprova que tots dos dispositius són a la mateixa xarxa Wi-Fi. Les xarxes de convidats i algunes xarxes d'oficina o d'hotel impedeixen que els dispositius es vegin entre ells, cosa que atura el DLNA. Després confirma que Everdisk està obert amb la compartició iniciada, i que Televisor i centre multimèdia està activat a Configuració, Compartició, Connexions. Si el televisor encara no el troba, afegeix el servidor a mà amb l'adreça de descripció del dispositiu que acaba en /device-desc.xml.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="El streaming DLNA necessita contrasenya?" closed="true" %}}
+{{% ls-details title="El streaming DLNA necessita contrasenya?" closed="true" %}}
 No. DLNA sempre està obert a qualsevol persona de la mateixa Wi-Fi mentre està activat, i per això no hi ha inici de sessió al costat del televisor. Això va bé en una xarxa domèstica en què confies. En una xarxa en què no confies, desactiva Televisor i centre multimèdia quan acabis, o fes servir el servidor SMB amb xifratge.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Puc fer streaming a un Chromecast o Roku?" closed="true" %}}
+{{% ls-details title="Puc fer streaming a un Chromecast o Roku?" closed="true" %}}
 Chromecast i Roku no fan de reproductors DLNA de sèrie, així que no trobaran el teu dispositiu directament. La solució és instal·lar una app DLNA que pugui fer casting, com ara VLC o BubbleUPnP en un telèfon, i enviar la reproducció al Chromecast o al Roku des d'allà. A la majoria dels altres televisors intel·ligents, el DLNA funciona sense res d'això.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Un vídeo es reprodueix sense so o no s'obre. Què puc fer?" closed="true" %}}
+{{% ls-details title="Un vídeo es reprodueix sense so o no s'obre. Què puc fer?" closed="true" %}}
 Aquest és un format que el televisor no pot descodificar. Obre Configuració, Compartició, Vídeos a Everdisk i abaixa la Qualitat perquè l'app converteixi el vídeo a un format més compatible mentre fa streaming. També pots obrir el mateix arxiu a través de l'enllaç del navegador, que gestiona més formats.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Puc fer streaming de música, no només de vídeo?" closed="true" %}}
+{{% ls-details title="Puc fer streaming de música, no només de vídeo?" closed="true" %}}
 Sí. Activa Permet l'accés a tota la biblioteca de música, o afegeix cançons concretes, i després comença a compartir. Les teves cançons apareixen a qualsevol altaveu DLNA, receptor AV o televisor, amb caràtula i detalls de la cançó. La música sempre es comparteix amb la seva qualitat original.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="L'app ha de quedar oberta mentre miro?" closed="true" %}}
+{{% ls-details title="L'app ha de quedar oberta mentre miro?" closed="true" %}}
 Sí. El teu iPhone fa de servidor, i iOS posa en pausa les apps que passen completament a segon pla durant molta estona. Mantén Everdisk a la pantalla mentre fas streaming, i connecta'l a l'electricitat per a sessions llargues.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Com faig streaming d'un iPhone a un altre iPad?" closed="true" %}}
+{{% ls-details title="Com faig streaming d'un iPhone a un altre iPad?" closed="true" %}}
 Comença a compartir a l'iPhone, després obre Everdisk a l'iPad i ves a la pestanya Dispositius. L'iPhone apareix sota Dispositius disponibles com a servidor multimèdia. Toca'l per explorar i reproduir. Everdisk funciona com a client DLNA i com a servidor, així que no necessites cap altra app.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Everdisk és gratis?" closed="true" %}}
+{{% ls-details title="Everdisk és gratis?" closed="true" %}}
 Sí, Everdisk es baixa gratis i el servidor multimèdia DLNA hi està inclòs. Una compra opcional única Premium de per vida afegeix extres com la conversió de fotos i vídeos per a televisors antics, ports personalitzats i més. Pots configurar i fer servir el streaming DLNA sense pagar.
-{{% /details %}}
+{{% /ls-details %}}
 
 Vols provar-ho? [Baixa Everdisk de l'App Store](https://apps.apple.com/app/apple-store/id6751851132?pt=95781850&ct=everappzcom&mt=8) i fes streaming del teu primer àlbum al televisor en un parell de minuts. Preguntes o comentaris? Escriu-nos a **support@everappz.com**.

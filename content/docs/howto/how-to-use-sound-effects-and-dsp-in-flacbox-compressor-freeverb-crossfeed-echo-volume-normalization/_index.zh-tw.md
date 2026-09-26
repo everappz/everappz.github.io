@@ -7,9 +7,9 @@ tags: ["Flacbox", "音效", "教學", "BASS", "等化器", "低音增強", "壓�
 readingTime: 30
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
-{{< full-width-tables >}}
+{{< ls-full-width-tables >}}
 
 **簡短回答：** 在 Flacbox 中，你要在 **設定 > 音訊播放器** 裡選擇一個 **播放引擎**：**Standard**（Apple 的系統引擎）、**Universal**（FFmpeg 引擎）或 **Sound FX**（**BASS™ 引擎**）。你選的引擎決定了哪些檔案格式能播放，所以這個選擇很重要。**Sound FX** 引擎能播放多數 iPhone 應用程式跳過的額外格式（FLAC、DSD、WavPack、APE、Musepack、TrueAudio、Opus，以及像 MOD、XM、IT、S3M 這類老式的 **MOD 與 tracker 音樂**），而且它是唯一能驅動這些聲音工具的引擎：**10 段等化器**、**音量正規化**、**壓縮器**、**Freeverb**、**Auto Wah**、**Phaser**、**Flanger**、**回音**、**Chorus**、**失真**、**Rotate**、**Crossfeed**，以及自訂的 **DSP 鏈**。所以要使用本指南中的效果，請先把你的播放引擎設成 **Sound FX**。每個工具都有現成的 **預設**。你可以在 **設定 > 音訊播放器**（音效、音訊等化器、訊號處理）中開啟它們，或在播放器上點按 **⋯（更多操作）** 按鈕並選擇 **音效**。你在這裡所做的任何操作都不會改變你的檔案。
 
@@ -657,93 +657,93 @@ Crossfeed 藉由把少量、經過濾波的每個聲道混入另一個聲道來�
 
 ## 常見問題
 
-{{% details title="Flacbox 使用什麼音訊引擎？" closed="true" %}}
+{{% ls-details title="Flacbox 使用什麼音訊引擎？" closed="true" %}}
 你在 設定 > 音訊播放器 中選一個播放引擎：Standard（Apple 的系統引擎）、Universal（FFmpeg 引擎）或 Sound FX（來自 Un4seen Developments 的 BASS™ 引擎，un4seen.com）。你選的引擎決定了哪些檔案格式能播放。Sound FX 是能播放 FLAC、DSD、WavPack、APE、Musepack、TrueAudio、Opus，以及 MOD 或 tracker 音樂等額外格式的那一個，而且它是唯一提供即時效果、10 段等化器與 DSP 鏈的引擎。要使用這些效果，請把播放引擎設為 Sound FX。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Flacbox 能播放 MOD、XM、IT 與其他 tracker 或 module 音樂嗎？" closed="true" %}}
+{{% ls-details title="Flacbox 能播放 MOD、XM、IT 與其他 tracker 或 module 音樂嗎？" closed="true" %}}
 可以。BASS™ 引擎有內建的 module 播放器，能載入 MOD、XM、IT、S3M、MTM、UMX 與 MO3 檔案，並依其樣式與樂器聲音即時重建歌曲，也就是 tracker 音樂原本應被播放的方式。一般的 iPhone 播放器辦不到。效果與等化器對 module 音樂同樣有效。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Flacbox 支援 DSD 與高解析度檔案嗎？" closed="true" %}}
+{{% ls-details title="Flacbox 支援 DSD 與高解析度檔案嗎？" closed="true" %}}
 可以。Flacbox 透過 BASS™ 引擎使用 DSD over PCM 播放 DSD 檔案（DSF 與 DFF），讓它們能在一般輸出硬體上運作，此外還有 FLAC、WavPack、Monkey's Audio（APE）、Musepack 與 TrueAudio 的無損播放。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Flacbox 有哪些音效？" closed="true" %}}
+{{% ls-details title="Flacbox 有哪些音效？" closed="true" %}}
 一個 10 段等化器、音量正規化、壓縮器、Freeverb、Auto Wah、Phaser、Flanger、回音、Chorus、失真、Rotate 與 Crossfeed，另外還有一條自訂的 DSP 鏈，包含濾波器、shelf、gain、soft clip、bit crusher、ring modulator、tremolo、delay 與 stereo width。每一個都是獨立的，可以與其他效果組合。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="什麼是預設？" closed="true" %}}
+{{% ls-details title="什麼是預設？" closed="true" %}}
 預設是效果的現成設定。你不用自己移動滑桿，只要點按一個預設，聲音就會隨之改變。Flacbox 中的每個效果都有數個預設，本指南列出了每一個的作用。如果你在選了預設之後移動滑桿，該效果會顯示「Manual」，告訴你它現在使用的是你自己的數值。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="我要如何在 Flacbox 中開啟音效？" closed="true" %}}
+{{% ls-details title="我要如何在 Flacbox 中開啟音效？" closed="true" %}}
 開啟正在播放的播放器，點按 ⋯（更多操作）按鈕，並選擇 音效。或前往 設定 > 音訊播放器 > 音效。點按一個效果、開啟它的開關，並選一個預設，或打開滑桿來微調。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="等化器在哪裡，最佳設定是什麼？" closed="true" %}}
+{{% ls-details title="等化器在哪裡，最佳設定是什麼？" closed="true" %}}
 前往 設定 > 音訊播放器 > 音訊等化器。它有從 32 Hz 到 16 kHz 的 10 個頻段，每個從 -12 到 +12 dB，另外還有一個 -24 到 +24 dB 的前級放大器與 22 個預設。想要更多低音，用 Bass Booster。想要更清晰的人聲，用 Vocal Booster 或 Pop。想要更明亮的聲音，用 Treble Booster。然後依喜好調整個別頻段。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="我要如何在 Flacbox 中增強低音？" closed="true" %}}
+{{% ls-details title="我要如何在 Flacbox 中增強低音？" closed="true" %}}
 有兩個簡單的方法。在音訊等化器中，選 Bass Booster（或把 32 Hz 與 64 Hz 頻段抬升幾 dB）。或者，在訊號處理中，加入一個設為 Bass Boost 的 Low Shelf 區塊。兩種情況下，都把前級放大器降低或加入一個 Gain 區塊 1 到 2 dB，讓低音保持乾淨而不失真。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="哪個等化器預設最適合我的音樂？" closed="true" %}}
+{{% ls-details title="哪個等化器預設最適合我的音樂？" closed="true" %}}
 Rock 與 Electronic 以強勁的低音與高音增添能量。Acoustic、Jazz 與 Classical 保持溫暖而自然。Pop 與 Vocal Booster 把人聲推到前方。Bass Booster 與 Hip-Hop 增添份量。Deep 與 Loudness 在低音量下聽來更飽滿。先從符合你曲風的那一個開始，然後微調。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="什麼是音量正規化，它與 ReplayGain 有何不同？" closed="true" %}}
+{{% ls-details title="什麼是音量正規化，它與 ReplayGain 有何不同？" closed="true" %}}
 它讓每首曲目以大致相同的響度播放。它使用 EBU R128 標準（以 LUFS，像串流服務一樣）測量真實響度，並把每首曲目調整到你的目標，帶有一個 max-boost 上限。與 ReplayGain 不同，它不需要你檔案中的任何標籤，且對任何來源都有效、即時、不改變音訊。預設：Light、Standard、Strong 與 Night。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="什麼是 Crossfeed，我該使用它嗎？" closed="true" %}}
+{{% ls-details title="什麼是 Crossfeed，我該使用它嗎？" closed="true" %}}
 Crossfeed 把左右聲道的一小部分混在一起，讓耳機感覺更像真實的喇叭，而不那麼像聲音卡在你的腦中。它只適用於耳機，所以用喇叭時把它關掉。Flacbox 使用 bs2b（Bauer）方法，帶有像 Chu Moy 與 Jan Meier 這樣的預設。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="壓縮器與音量正規化有什麼差別？" closed="true" %}}
+{{% ls-details title="壓縮器與音量正規化有什麼差別？" closed="true" %}}
 音量正規化匹配不同歌曲之間的響度。壓縮器拉平單一歌曲之內大聲與安靜的部分。它們解決不同的問題，且搭配得很好，尤其是在車內或吵雜的地方。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="什麼是訊號處理（DSP）鏈？" closed="true" %}}
+{{% ls-details title="什麼是訊號處理（DSP）鏈？" closed="true" %}}
 它是 設定 > 音訊播放器 > 訊號處理 中一個自訂的機架。加入像濾波器、shelf、gain、soft clip、bit crusher、ring modulator、tremolo、delay 與 stereo width 這樣的區塊，以任意順序排列它們、開啟或關閉每一個，並把鏈指向所有聲道、左或右。由於順序很重要，你可以設計出你想要的確切聲音。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="等化器、效果與 DSP 鏈有什麼差別？" closed="true" %}}
+{{% ls-details title="等化器、效果與 DSP 鏈有什麼差別？" closed="true" %}}
 等化器是一個簡單的 10 段音色控制。音效是帶預設的現成工具（壓縮器、殘響、回音等等）。DSP 鏈是你從個別區塊建立自己效果順序的地方。你可以同時運行這三者。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="這些效果會改變或損壞我的音樂檔案嗎？" closed="true" %}}
+{{% ls-details title="這些效果會改變或損壞我的音樂檔案嗎？" closed="true" %}}
 不會。一切都在音樂播放時即時套用。你的檔案絕不會被改變或重新儲存。關掉一個效果，原聲會立刻回來。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="我可以同時使用一個以上的效果嗎？" closed="true" %}}
+{{% ls-details title="我可以同時使用一個以上的效果嗎？" closed="true" %}}
 可以。每個效果都有自己的開關，且沒有主開關，所以任何組合都行得通。例如，音量正規化加壓縮器以得到平均的聆聽，或在耳機上用 Freeverb 加 Crossfeed，並在上面加等化器。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="為什麼效果的控制項是灰色的？" closed="true" %}}
+{{% ls-details title="為什麼效果的控制項是灰色的？" closed="true" %}}
 該效果已關閉。開啟編輯器頂端的開關以使用控制項。每個效果預設都是關閉的。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Manual 標籤是什麼意思？" closed="true" %}}
+{{% ls-details title="Manual 標籤是什麼意思？" closed="true" %}}
 它表示你把某個滑桿從預設移開了，所以該效果現在使用的是你自己的自訂數值而非具名的預設。每個滑桿都有一個重設按鈕，再選一次預設會取代你的手動數值。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="我可以儲存並分享我的等化器預設嗎？" closed="true" %}}
+{{% ls-details title="我可以儲存並分享我的等化器預設嗎？" closed="true" %}}
 可以。除了 22 個內建預設之外，你可以製作自己的、重新排序它們，並匯出或匯入它們，把你的設定搬到另一部裝置。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="這些效果能與 CarPlay、串流和背景播放搭配運作嗎？" closed="true" %}}
+{{% ls-details title="這些效果能與 CarPlay、串流和背景播放搭配運作嗎？" closed="true" %}}
 可以。這些效果在 BASS™ 引擎內運行，所以它們適用於本機檔案、雲端硬碟、媒體伺服器、串流與 module 音樂，並在 CarPlay 與背景播放期間持續運作。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="我可以更改音訊輸出品質嗎？" closed="true" %}}
+{{% ls-details title="我可以更改音訊輸出品質嗎？" closed="true" %}}
 可以。在 設定 > 音訊播放器 中，你可以設定輸出取樣率、聲道數與緩衝區大小，以配合你的耳機、喇叭或 DAC。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="耳機的良好初始設定是什麼？" closed="true" %}}
+{{% ls-details title="耳機的良好初始設定是什麼？" closed="true" %}}
 開啟音量正規化（Standard）、加入一個輕度的壓縮器（Soft）、選一個你喜歡的等化器預設，並開啟 Crossfeed（Chu Moy 或 Jan Meier）。除非你想要創意的聲音，否則把殘響、回音與失真保持關閉。
-{{% /details %}}
+{{% /ls-details %}}
 
 ---
 

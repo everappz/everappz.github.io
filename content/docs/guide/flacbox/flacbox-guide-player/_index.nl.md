@@ -23,7 +23,7 @@ De Audiospeler is het hoofdscherm van de app waar je de muziek en de meeste afsp
 Je kunt naar de volledig scherm speler gaan via de minispelerbalk. Op iPhone bevindt de minispeler zich onderaan het hoofdscherm. Op iPad en Mac is hij aan de linkerkant. Om de minispeler op iPhone te verbergen, tik er eenmaal op en swipe omlaag. Om de volledig scherm speler volledig te sluiten, tik op de sluitknop in de rechteronderhoek.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox Audiospeler Hoofdscherm" image="/docs/guide/flacbox/img/audio-player-main-screen.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox Audiospeler Hoofdscherm" image="/docs/guide/flacbox/img/audio-player-main-screen.webp" >}}
 {{< /cards >}}
 
 ## Ondersteunde Audioformaten
@@ -66,7 +66,7 @@ Voor AirPlay, zoek de knop **AirPlay** onderaan de speler. Tik erop en selecteer
 Flacbox bevat een **10-bands equalizer** met iPod-stijl presets. Tik op Equalizer in de volumeweergave en schakel hem in de rechterbovenhoek in. Je kunt presets gebruiken zoals Akoestisch en Basversterker, of elke frequentieband aanpassen met schuifregelaars. Maak je eigen presets, sla ze op onder elke naam en verhoog het totale volume met de preamplifier. We hebben meer gedetailleerde instructies over het gebruik van de equalizer [hier](/docs/howto/how-to-use-the-audio-equalizer-on-your-iphone-ipad-mac-with-evermusic-and-flacbox).
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox Audiospeler Equalizer" image="/docs/guide/flacbox/img/audio-player-equalizer.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox Audiospeler Equalizer" image="/docs/guide/flacbox/img/audio-player-equalizer.webp" >}}
 {{< /cards >}}
 
 ## Spelermodus Werkbalk
@@ -82,7 +82,7 @@ Voor sommige spelerstijlen is er een speciale werkbalk bovenaan de volledig sche
 Om je spelerwachtrij te zien, tik op de wachtrijknop rechts van het huidige nummer. Elk nummer in de wachtrij heeft meer acties — tik op de drie puntjes om ze te bekijken. Om een nummer in de wachtrij te herordenen, gebruik de herordening-indicator bij de titel en sleep het naar een nieuwe positie.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox Afspeelwachtrij" image="/docs/guide/flacbox/img/playback_queue.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox Afspeelwachtrij" image="/docs/guide/flacbox/img/playback_queue.webp" >}}
 {{< /cards >}}
 
 ## Opmerkingen / Songteksten
@@ -98,7 +98,7 @@ Om trackopmerkingen en ingesloten songteksten, evenals LRC-bestanden te bekijken
 Tik daarna meerdere keren op de spelerwachtrijknop onderaan het scherm om te schakelen van de artwork / wachtrijweergave naar de opmerkingweergave. Scroll op het scherm Opmerkingen naar rechts om te schakelen tussen **Opmerkingen**, **Ingesloten songteksten** en het **LRC-bestand**. Volledige instructies zijn beschikbaar [hier](/docs/howto/how-to-add-and-view-comments-to-your-audio-tracks-on-iphone-ipad-and-mac-with-evermusic-and-flacbox).
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox Songteksten en Opmerkingen Scherm" image="/docs/guide/flacbox/img/lyrics-screen.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox Songteksten en Opmerkingen Scherm" image="/docs/guide/flacbox/img/lyrics-screen.webp" >}}
 {{< /cards >}}
 
 ## Optiesmenu
@@ -121,7 +121,7 @@ Elk nummer in de audiospelerwachtrij heeft een menu met meer acties, toegankelij
 Dezelfde opties zijn beschikbaar voor het nu-spelende item in de audiospelerwachtrij, die je kunt openen door op het pictogram **Meer acties** bij de tracktitel te tikken.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox Opties voor een Item in de Afspeelwachtrij" image="/docs/guide/flacbox/img/options-for-item-in-playback-queue.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox Opties voor een Item in de Afspeelwachtrij" image="/docs/guide/flacbox/img/options-for-item-in-playback-queue.webp" >}}
 {{< /cards >}}
 
 ## Aanvullende Spelacties
@@ -143,7 +143,7 @@ Tik op de knop **Meer acties** "..." links van de momenteel spelende nummertitel
 - **Help** — vind hulp en begeleiding.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox Audiospeler Meer Acties Scherm" image="/docs/guide/flacbox/img/audio-player-more-actions-screen.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox Audiospeler Meer Acties Scherm" image="/docs/guide/flacbox/img/audio-player-more-actions-screen.webp" >}}
 {{< /cards >}}
 
 ## Audiobladwijzers
@@ -161,7 +161,7 @@ Om een nieuwe bladwijzer te maken:
 Het bewerken van bladwijzers voor de huidige track is eenvoudig: tik op Bewerken in de rechterbovenhoek om de bewerkingsmodus te openen. In deze modus kun je bladwijzers herschikken, verwijderen, de bladwijzertijd aanpassen en bladwijzertitels wijzigen. Meer gedetailleerde instructies over audiobladwijzers zijn beschikbaar [hier](/docs/howto/how-to-listen-to-audiobooks-on-iphone-ipad-mac-using-evermusic).
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox Audiobladwijzers Scherm" image="/docs/guide/flacbox/img/audio-bookmarks.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox Audiobladwijzers Scherm" image="/docs/guide/flacbox/img/audio-bookmarks.webp" >}}
 {{< /cards >}}
 
 ## Recenties en Favorieten
@@ -175,7 +175,7 @@ Verbind je iPhone met je auto via USB of draadloze Apple CarPlay en Flacbox vers
 [Lees de volledige CarPlay-gids](/docs/howto/how-to-play-your-own-music-on-iphone-using-carplay/).
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox op Apple CarPlay" image="/docs/guide/flacbox/img/carplay-main.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox op Apple CarPlay" image="/docs/guide/flacbox/img/carplay-main.webp" >}}
 {{< /cards >}}
 
 ## Beginschermwidgets (iPhone & iPad)
@@ -243,7 +243,7 @@ Pas de audio-equalizerinstellingen aan. Je kunt meer lezen over het configureren
 Pas de afspeelsnelheid van de audiospeler aan van **0,02× tot 3,00×**. Tik op het configuratiepictogram in de rechterbovenhoek om over te schakelen naar **precieze modus** voor fijnere aanpassingen.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox Afspeelsnelheid Scherm" image="/docs/guide/flacbox/img/playback-speed.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox Afspeelsnelheid Scherm" image="/docs/guide/flacbox/img/playback-speed.webp" >}}
 {{< /cards >}}
 
 ### Toonhoogtecorrectie

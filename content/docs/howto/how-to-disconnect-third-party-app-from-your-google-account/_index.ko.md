@@ -7,7 +7,7 @@ tags: ["google", "보안", "개인정보", "앱", "계정", "액세스"]
 readingTime: 2
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **요약:** [myaccount.google.com](https://myaccount.google.com/) > 보안 > 타사 앱 및 서비스로 이동합니다. 제거하려는 앱을 클릭한 다음 "액세스 삭제" 또는 "모든 연결 삭제"를 선택합니다. 각 앱에 대해 반복합니다.
@@ -75,18 +75,18 @@ Google 계정에서 타사 앱을 연결 해제하려는 이유는 여러 가지
 
 ## 자주 묻는 질문
 
-{{% details title="앱을 연결 해제하면 해당 앱에서 내 데이터가 삭제되나요?" closed="true" %}}
+{{% ls-details title="앱을 연결 해제하면 해당 앱에서 내 데이터가 삭제되나요?" closed="true" %}}
 아니요. 액세스를 삭제하면 앞으로 해당 앱이 Google 계정에 액세스하는 것만 중단됩니다. 이미 앱과 공유된 데이터는 여전히 해당 서버에 존재할 수 있습니다. 해당 데이터를 삭제하려면 앱 자체의 개인정보 설정을 확인하세요.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="연결 해제 후 앱을 다시 연결할 수 있나요?" closed="true" %}}
+{{% ls-details title="연결 해제 후 앱을 다시 연결할 수 있나요?" closed="true" %}}
 예. 앱이 다시 필요하면, 메시지가 표시될 때 Google로 로그인하면 됩니다. 앱이 다시 권한을 요청하며, 액세스를 허용하기 전에 검토할 수 있습니다.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="타사 앱 액세스를 얼마나 자주 검토해야 하나요?" closed="true" %}}
+{{% ls-details title="타사 앱 액세스를 얼마나 자주 검토해야 하나요?" closed="true" %}}
 연결된 앱을 3~6개월마다 또는 서비스 사용을 중단한 직후에 검토하세요. 정기적인 감사는 계정을 안전하게 유지하는 데 도움이 됩니다.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="이것이 Google Drive에 연결하는 Evermusic과 같은 앱에 영향을 미치나요?" closed="true" %}}
+{{% ls-details title="이것이 Google Drive에 연결하는 Evermusic과 같은 앱에 영향을 미치나요?" closed="true" %}}
 예. Evermusic이나 Flacbox와 같은 앱을 Google 계정에서 연결 해제하면 Google Drive 파일에 대한 액세스가 손실됩니다. 앱 내에서 언제든지 다시 연결할 수 있습니다.
-{{% /details %}}
+{{% /ls-details %}}

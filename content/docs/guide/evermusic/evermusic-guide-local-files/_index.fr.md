@@ -20,7 +20,7 @@ La section Fichiers locaux sert de hub pour gérer les fichiers situés dans le 
 Ce gestionnaire de fichiers intégré vous permet de modifier des fichiers et propose diverses méthodes pour importer des fichiers audio dans l'application.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Écran Fichiers locaux d'Evermusic" image="/docs/guide/evermusic/evermusic-guide-local-files/img/local-files-main.webp" >}}
+  {{< ls-card title="" subtitle="Écran Fichiers locaux d'Evermusic" image="/docs/guide/evermusic/evermusic-guide-local-files/img/local-files-main.webp" >}}
 {{< /cards >}}
 
 ## Télécharger des fichiers depuis le stockage cloud
@@ -40,7 +40,7 @@ Importez facilement des fichiers depuis votre appareil comme décrit [ici](/docs
 Transférez des fichiers via une connexion câblée comme décrit [ici](/docs/howto/how-to-transfer-files-from-my-mac-to-iphone-or-ipad-using-finder).
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="iTunes / Finder File Sharing" image="/docs/guide/evermusic/evermusic-guide-local-files/img/local-files-itunes-file-sharing.webp" >}}
+  {{< ls-card title="" subtitle="iTunes / Finder File Sharing" image="/docs/guide/evermusic/evermusic-guide-local-files/img/local-files-itunes-file-sharing.webp" >}}
 {{< /cards >}}
 
 ## Wi-Fi Drive
@@ -48,7 +48,7 @@ Transférez des fichiers via une connexion câblée comme décrit [ici](/docs/ho
 Transférez des fichiers sans fil comme décrit [ici](/docs/howto/how-to-transfer-files-wirelessly-from-a-computer-to-an-iphone-using-wifi-drive).
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Paramètres du serveur Wi-Fi Drive" image="/docs/guide/evermusic/evermusic-guide-local-files/img/local-files-wifidrive-settings.webp" >}}
+  {{< ls-card title="" subtitle="Paramètres du serveur Wi-Fi Drive" image="/docs/guide/evermusic/evermusic-guide-local-files/img/local-files-wifidrive-settings.webp" >}}
 {{< /cards >}}
 
 ## File des transferts
@@ -56,7 +56,7 @@ Transférez des fichiers sans fil comme décrit [ici](/docs/howto/how-to-transfe
 Dans le coin supérieur gauche de la barre de navigation, vous trouverez un bouton « Transferts ». Appuyez dessus pour accéder à la file des transferts, où vous pouvez surveiller et gérer tous vos téléchargements et téléversements. De plus, vous avez la flexibilité d'ajuster la vitesse de la file de transfert et le type de réseau dans les paramètres de l'application.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="File des transferts de fichiers" image="/docs/guide/evermusic/evermusic-guide-local-files/img/local-files-file-transfers.webp" >}}
+  {{< ls-card title="" subtitle="File des transferts de fichiers" image="/docs/guide/evermusic/evermusic-guide-local-files/img/local-files-file-transfers.webp" >}}
 {{< /cards >}}
 
 ## Section d'accès rapide
@@ -68,7 +68,7 @@ En haut de l'écran, une section d'accès rapide fournit des liens pratiques ver
 Cette section affiche tous les fichiers ou dossiers récemment ouverts.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Fichiers et dossiers récemment ouverts" image="/docs/guide/evermusic/evermusic-guide-local-files/img/local-files-recents.webp" >}}
+  {{< ls-card title="" subtitle="Fichiers et dossiers récemment ouverts" image="/docs/guide/evermusic/evermusic-guide-local-files/img/local-files-recents.webp" >}}
 {{< /cards >}}
 
 ## Favoris
@@ -76,7 +76,7 @@ Cette section affiche tous les fichiers ou dossiers récemment ouverts.
 Vous pouvez marquer des fichiers ou dossiers comme favoris et y accéder dans cette section. De plus, vous pouvez ajouter un dossier situé sur votre appareil à vos favoris. Pour ce faire, ouvrez la section des favoris, appuyez sur les trois points dans le coin supérieur droit et choisissez l'élément de menu « Ajouter un dossier ». Suivez les instructions pour ajouter un dossier de votre appareil à vos favoris pour un accès rapide.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Favoris — Ajouter un dossier depuis votre appareil" image="/docs/guide/evermusic/evermusic-guide-local-files/img/local-files-favorites.webp" >}}
+  {{< ls-card title="" subtitle="Favoris — Ajouter un dossier depuis votre appareil" image="/docs/guide/evermusic/evermusic-guide-local-files/img/local-files-favorites.webp" >}}
 {{< /cards >}}
 
 ## Barre d'outils supérieure
@@ -91,7 +91,7 @@ La barre d'outils supérieure, située sous la barre de navigation, offre plusie
 Vous pouvez afficher ou masquer la barre d'outils supérieure en utilisant un geste de glissement vers le bas.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Barre d'outils supérieure pour le dossier actuel" image="/docs/guide/evermusic/evermusic-guide-local-files/img/local-files-top-toolbar.webp" >}}
+  {{< ls-card title="" subtitle="Barre d'outils supérieure pour le dossier actuel" image="/docs/guide/evermusic/evermusic-guide-local-files/img/local-files-top-toolbar.webp" >}}
 {{< /cards >}}
 
 ## Dossiers spéciaux
@@ -128,7 +128,7 @@ Affiche les fichiers et dossiers stockés dans le répertoire Documents de l'app
 Affiche les fichiers situés sur votre appareil mais dans différentes applications. Vous pouvez les importer dans cette application en utilisant le sélecteur de fichiers système. Pour activer le sélecteur, choisissez « Ouvrir les fichiers... » pour sélectionner des fichiers ou « Ouvrir les dossiers... » pour sélectionner des dossiers. Des instructions détaillées sur la façon d'importer la musique locale stockée sur votre iPhone ou Mac sont disponibles [ici](/docs/howto/how-to-play-local-music-stored-on-your-iphone-or-mac). Vous pouvez également connecter un dossier situé sur votre appareil et avoir un accès rapide au contenu du dossier. Utilisez l'élément de menu « Connecter un dossier » et choisissez un dossier situé sur votre appareil. Appuyez sur « Terminé » et l'application créera un lien vers ce dossier avec un accès en lecture/écriture et vous pourrez gérer les fichiers directement depuis cette application. Pour déconnecter un dossier situé sur votre appareil, appuyez sur le bouton « Plus d'actions » et choisissez « Déconnecter ».
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Fichiers sur cet iPhone / iPad / Mac" image="/docs/guide/evermusic/evermusic-guide-local-files/img/local-files-on-this-device.webp" >}}
+  {{< ls-card title="" subtitle="Fichiers sur cet iPhone / iPad / Mac" image="/docs/guide/evermusic/evermusic-guide-local-files/img/local-files-on-this-device.webp" >}}
 {{< /cards >}}
 
 ## Importer des fichiers depuis des clés USB connectées
@@ -151,7 +151,7 @@ Le menu Plus d'actions pour le dossier actuellement ouvert, situé dans le coin 
 Si vous avez besoin de modifier plusieurs fichiers, activez le mode de sélection en appuyant sur le bouton Plus d'actions « ... » dans la barre de navigation dans le coin supérieur droit, puis choisissez l'élément de menu « Sélectionner ». Cela affichera des cases à cocher près de chaque fichier. Sélectionnez les fichiers souhaités en appuyant sur leurs cases à cocher. Vous pouvez effectuer les actions suivantes sur les fichiers sélectionnés.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Actions du mode de sélection pour les fichiers locaux" image="/docs/guide/evermusic/evermusic-guide-local-files/img/local-files-selection-mode.webp" >}}
+  {{< ls-card title="" subtitle="Actions du mode de sélection pour les fichiers locaux" image="/docs/guide/evermusic/evermusic-guide-local-files/img/local-files-selection-mode.webp" >}}
 {{< /cards >}}
 
 - **Lire ensuite :** ajoutez les fichiers ou dossiers sélectionnés en haut de la file d'attente du lecteur avec l'ordre de tri actuel.
@@ -186,7 +186,7 @@ Pour chaque fichier ou dossier dans l'application, plusieurs actions sont dispon
 ## Dossiers hors ligne
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Menu Plus d'actions du dossier hors ligne" image="/docs/guide/evermusic/evermusic-guide-local-files/img/local-files-offline-folders.webp" >}}
+  {{< ls-card title="" subtitle="Menu Plus d'actions du dossier hors ligne" image="/docs/guide/evermusic/evermusic-guide-local-files/img/local-files-offline-folders.webp" >}}
 {{< /cards >}}
 
 Le mode hors ligne est une fonctionnalité pratique qui vous permet d'accéder à votre musique préférée même lorsque vous n'êtes pas connecté à Internet. Lorsque vous activez le mode hors ligne pour un album, un artiste, une playlist, un genre ou un dossier distant, tous les fichiers de cette collection seront automatiquement téléchargés sur votre appareil pour une lecture hors ligne. Vous pouvez accéder facilement à ces fichiers dans la section « Dossiers hors ligne » de l'application.
@@ -204,7 +204,7 @@ Des instructions détaillées sur la façon de lire de la musique hors ligne dan
 Presque tous les comportements de l'écran Fichiers locaux — de la bande passante réseau à l'emplacement des téléchargements en passant par la mise en cache des miniatures — sont configurables sous **Paramètres → Gestionnaire de fichiers**. Ouvrez-le chaque fois que vous souhaitez affiner la vitesse de transfert, économiser de l'espace de stockage ou restreindre l'application au Wi-Fi uniquement.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Écran des paramètres du gestionnaire de fichiers" image="/docs/guide/evermusic/evermusic-guide-local-files/img/local-files-file-manager-settings.webp" >}}
+  {{< ls-card title="" subtitle="Écran des paramètres du gestionnaire de fichiers" image="/docs/guide/evermusic/evermusic-guide-local-files/img/local-files-file-manager-settings.webp" >}}
 {{< /cards >}}
 
 L'écran expose chaque option regroupée en sections clairement étiquetées :

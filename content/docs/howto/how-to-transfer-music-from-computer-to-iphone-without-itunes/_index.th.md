@@ -7,14 +7,14 @@ keywords: ["ถ่ายโอนเพลงโดยไม่ต้อง iTun
 readingTime: 2
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **สรุป:** ใช้ Wi-Fi Drive ใน Evermusic, Flacbox หรือ Evertag เพื่อถ่ายโอนเพลงจากคอมพิวเตอร์ไปยัง iPhone หรือ iPad ไม่ต้องใช้ iTunes อุปกรณ์ทั้งสองเครื่องต้องอยู่ในเครือข่าย Wi-Fi เดียวกัน ถ่ายโอนผ่านเว็บเบราว์เซอร์หรือ WebDAV (Mac Finder / Windows File Explorer)
 
 คุณสามารถดูวิดีโอสอนจาก [**TECHGUYPH**](https://www.youtube.com/channel/UCgpf09gGFE_c_3pPTtTpnzg) หรืออ่านเวอร์ชันข้อความด้านล่าง
 <br><br>
-{{< youtubecard id="CqdqrQ0ge70" title="Can We Wirelessly Put Offline Music on iPhones?" >}}
+{{< ls-youtubecard id="CqdqrQ0ge70" title="Can We Wirelessly Put Offline Music on iPhones?" >}}
 
 Wi-Fi Drive เป็นโซลูชันที่ดีที่สุดสำหรับการถ่ายโอนคอลเลกชันเพลงของคุณจากคอมพิวเตอร์ไปยัง iPhone หรือ iPad อย่างราบรื่นโดยไม่ต้องใช้ iTunes วิธีที่ไม่ยุ่งยากนี้ช่วยให้คุณดาวน์โหลดหรืออัปโหลดไฟล์เสียงหลายไฟล์และแม้แต่โฟลเดอร์ทั้งหมดได้อย่างง่ายดายผ่านการเชื่อมต่อ Wi-Fi ในเครื่อง ทั้งคอมพิวเตอร์และอุปกรณ์ iOS ควรเชื่อมต่อกับเครือข่าย Wi-Fi เดียวกันเพื่อให้ทำงานได้อย่างสมบูรณ์แบบ
 
@@ -84,22 +84,22 @@ Wi-Fi Drive เป็นโซลูชันที่ดีที่สุด�
 
 ## คำถามที่พบบ่อย
 
-{{% details title="ฉันสามารถถ่ายโอนรูปแบบเสียงใดบ้างด้วย Wi-Fi Drive?" closed="true" %}}
+{{% ls-details title="ฉันสามารถถ่ายโอนรูปแบบเสียงใดบ้างด้วย Wi-Fi Drive?" closed="true" %}}
 Wi-Fi Drive ถ่ายโอนไฟล์ทุกประเภท Evermusic และ Flacbox รองรับ MP3, FLAC, AAC, WAV, AIFF, OGG, WMA และรูปแบบเสียงอื่นๆ อีกมากมายสำหรับการเล่น
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="ฉันต้องใช้ iTunes เพื่อใส่เพลงลง iPhone หรือไม่?" closed="true" %}}
+{{% ls-details title="ฉันต้องใช้ iTunes เพื่อใส่เพลงลง iPhone หรือไม่?" closed="true" %}}
 ไม่ Wi-Fi Drive ถ่ายโอนเพลงโดยตรงผ่านเครือข่าย Wi-Fi ในเครื่องของคุณ ไม่จำเป็นต้องใช้ iTunes
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="ฉันสามารถถ่ายโอนโฟลเดอร์เพลงทั้งหมดพร้อมกันได้หรือไม่?" closed="true" %}}
+{{% ls-details title="ฉันสามารถถ่ายโอนโฟลเดอร์เพลงทั้งหมดพร้อมกันได้หรือไม่?" closed="true" %}}
 ได้ วิธีเว็บเบราว์เซอร์รองรับการอัปโหลดโฟลเดอร์ทั้งหมด รวมถึงโฟลเดอร์ย่อยที่ซ้อนกัน
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="การถ่ายโอนเพลงของฉันปลอดภัยหรือไม่?" closed="true" %}}
+{{% ls-details title="การถ่ายโอนเพลงของฉันปลอดภัยหรือไม่?" closed="true" %}}
 Wi-Fi Drive ทำงานบนเครือข่ายในเครื่องของคุณเท่านั้น คุณยังสามารถตั้งชื่อผู้ใช้และรหัสผ่านเพื่อความปลอดภัยเพิ่มเติม
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="แอปใดบ้างที่รองรับ Wi-Fi Drive สำหรับเพลง?" closed="true" %}}
+{{% ls-details title="แอปใดบ้างที่รองรับ Wi-Fi Drive สำหรับเพลง?" closed="true" %}}
 Evermusic, Flacbox และ Evertag ทั้งหมดมี Wi-Fi Drive สำหรับการถ่ายโอนไฟล์เสียงจากคอมพิวเตอร์ของคุณ
-{{% /details %}}
+{{% /ls-details %}}

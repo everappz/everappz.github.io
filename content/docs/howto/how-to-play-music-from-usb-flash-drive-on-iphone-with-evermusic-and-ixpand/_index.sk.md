@@ -7,7 +7,7 @@ tags: ["hudba", "usb", "externý", "ixpand", "sandisk", "iphone", "evermusic"]
 readingTime: 3
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **Zhrnutie:** Evermusic vám umožňuje prehrávať hudbu priamo z disku SanDisk iXpand Flash Drive na iPhone alebo iPad. Pripojte disk, otvorte Evermusic a začnite počúvať -- nie je potrebné kopírovať súbory do zariadenia. Podporuje správu súborov, prehrávače, ekvalizér a streamovanie cez AirPlay.
@@ -69,22 +69,22 @@ S Evermusic a SanDisk iXpand Flash Drive budete mať slobodu užívať si svoju 
 
 ## FAQ
 
-{{% details title="Aké modely iXpand Flash Drive podporuje Evermusic?" closed="true" %}}
+{{% ls-details title="Aké modely iXpand Flash Drive podporuje Evermusic?" closed="true" %}}
 Evermusic podporuje SanDisk iXpand Flash Drive s protokolmi V1, V2, V3, V6 a V7. Kompatibilitu môžete skontrolovať v Nastaveniach iPhone v sekcii Všeobecné > Informácie > iXpand Flash Drive.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Môžem prehrávať hudbu z USB disku bez kopírovania súborov do iPhone?" closed="true" %}}
+{{% ls-details title="Môžem prehrávať hudbu z USB disku bez kopírovania súborov do iPhone?" closed="true" %}}
 Áno. Evermusic prehráva zvukové súbory priamo z iXpand Flash Drive. Nie je potrebné kopírovať nič do interného úložiska zariadenia.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Aké zvukové formáty podporuje Evermusic z USB diskov?" closed="true" %}}
+{{% ls-details title="Aké zvukové formáty podporuje Evermusic z USB diskov?" closed="true" %}}
 Evermusic podporuje všetky hlavné zvukové formáty vrátane MP3, FLAC, AAC, WAV, AIFF, OGG a ďalšie. Akýkoľvek zvukový súbor uložený na vašom iXpand disku je možné prehrať priamo.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Môžem streamovať hudbu z disku iXpand na reproduktory AirPlay?" closed="true" %}}
+{{% ls-details title="Môžem streamovať hudbu z disku iXpand na reproduktory AirPlay?" closed="true" %}}
 Áno. Počas prehrávania hudby z USB disku môžete streamovať zvuk na zariadenia kompatibilné s AirPlay, ako sú reproduktory Sonos, Apple TV a Google Chromecast.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Čo mám robiť, ak môj disk iXpand nie je rozpoznaný?" closed="true" %}}
+{{% ls-details title="Čo mám robiť, ak môj disk iXpand nie je rozpoznaný?" closed="true" %}}
 Uistite sa, že žiadne iné aplikácie nepoužívajú disk. Skúste ho odpojiť a znova pripojiť. Ak váš model nie je podporovaný, použite adaptér Apple Lightning na USB na pripojenie disku ako štandardného USB zariadenia.
-{{% /details %}}
+{{% /ls-details %}}

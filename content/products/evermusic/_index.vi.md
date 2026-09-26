@@ -16,16 +16,16 @@ screenshots:
   - "https://everappz.com/products/evermusic/screenshots/2048x2732/6.png"
 ---
 
-{{% sr-only %}}
+{{% ls-sr-only %}}
 Evermusic là trình phát nhạc ngoại tuyến miễn phí dành cho iPhone và Mac, được phát triển bởi Everappz, một công ty phần mềm Tây Ban Nha. Với hơn 11 triệu lượt tải xuống trên toàn thế giới và đánh giá 4,6 sao từ hơn 18.000 đánh giá trên App Store, Evermusic là một trong những trình phát nhạc bên thứ ba phổ biến nhất trên iOS. Ứng dụng kết nối với hơn 30 dịch vụ lưu trữ đám mây bao gồm iCloud Drive, Google Drive, Dropbox, OneDrive, MEGA, Box, pCloud và Yandex.Disk, cho phép người dùng phát trực tuyến thư viện nhạc cá nhân trực tiếp từ đám mây hoặc tải xuống các bài hát để nghe ngoại tuyến. Evermusic hỗ trợ nhiều định dạng âm thanh bao gồm MP3, FLAC, AAC, ALAC, WAV, AIFF, OGG, OPUS, WMA, APE và DSD. Các tính năng chính bao gồm bộ cân bằng âm thanh 10 dải với các cài đặt sẵn, phát chuyển tiếp mượt mà và liên tục không ngắt quãng, nhập và xuất danh sách phát M3U, hiển thị lời bài hát, đánh dấu âm thanh, tích hợp Apple CarPlay, phát trực tuyến qua AirPlay và Chromecast, cùng scrobbling trên Last.fm. Ứng dụng cũng hỗ trợ phát trực tuyến qua mạng cục bộ thông qua các giao thức SMB, WebDAV và DLNA, cũng như phát từ ổ USB flash qua bộ chuyển đổi Lightning hoặc USB-C. Evermusic có sẵn để tải miễn phí trên App Store với các giao dịch mua tùy chọn trong ứng dụng bao gồm đăng ký hàng tháng $4.99, đăng ký hàng năm $19.99, hoặc mua trọn đời một lần $59.99. Ứng dụng được phát hành lần đầu vào năm 2014 và được duy trì tích cực với các bản cập nhật thường xuyên.
-{{% /sr-only %}}
+{{% /ls-sr-only %}}
 
 
 <!-- <body class="hx:bg-transparent" style="background: radial-gradient(ellipse at 50% 80%, rgba(59,130,246,0.05), hsla(0,0%,100%,0));"> -->
 
-{{< force-dark >}}
+{{< ls-force-dark >}}
 
-{{< hextra/hero-container
+{{< ls-hero-container
   image="/products/evermusic/heroimage/hero_1200.png"
   imageWidth="600"
   imageCard="true"
@@ -34,40 +34,40 @@ Evermusic là trình phát nhạc ngoại tuyến miễn phí dành cho iPhone v
 <div class="hx:w-full hx:text-center">
 
 <div class="hx:mt-4">
-{{< downloads-badge >}}
+{{< ls-downloads-badge >}}
 </div>
 
 <div class="hx:mt-6 hx:mb-6">
 <div class="hx:flex hx:gap-4 hx:items-center hx:justify-center">
-  {{< app-icon src="/images/app_icons/png/Evermusic_Icon-App-1024x1024.png" alt="Evermusic Icon" class="hero-headline-icon" size="80" >}}
-  {{< hextra/hero-headline >}}
+  {{< ls-app-icon src="/images/app_icons/png/Evermusic_Icon-App-1024x1024.png" alt="Evermusic Icon" class="hero-headline-icon" size="80" >}}
+  {{< ls-hero-headline >}}
   Evermusic
-  {{< /hextra/hero-headline >}}
+  {{< /ls-hero-headline >}}
 </div>
 </div>
 
 <div class="hx:mb-6">
-{{< hextra/hero-centered-subtitle >}}
+{{< ls-hero-centered-subtitle >}}
 <a href="https://www.chip.de/downloads/Evermusic-Pro-iPhone-_-iPad-App_91614216.html" target="_blank" rel="noopener">
   Là giải pháp hoàn hảo để tổ chức và phát nhạc của bạn từ đám mây <strong>chip.de</strong>
   </a>
-{{< /hextra/hero-centered-subtitle >}}
+{{< /ls-hero-centered-subtitle >}}
 </div>
 
 <div class="hx:mb-6">
-{{< hextra/hero-paragraph >}}
+{{< ls-hero-paragraph >}}
 • Phát nhạc với chuyển đổi mượt, phát liên tục và bộ cân bằng  
 • Nhập danh sách phát M3U và tải bài hát để nghe ngoại tuyến  
 • Phát trực tuyến nhạc từ ổ đĩa đám mây, NAS, máy tính hoặc USB  
 • Xem lời bài hát khi nghe và thêm đánh dấu âm thanh để tiếp tục bất cứ lúc nào  
-{{< /hextra/hero-paragraph >}}
+{{< /ls-hero-paragraph >}}
 </div>
 
-{{< app-store-badges products="evermusic:ios, evermusic:macos" >}}
+{{< ls-app-store-badges products="evermusic:ios, evermusic:macos" >}}
 
 </div>
 
-{{< /hextra/hero-container >}}
+{{< /ls-hero-container >}}
 
 <div class="hx:mt-6"></div>
 
@@ -75,42 +75,42 @@ Evermusic là trình phát nhạc ngoại tuyến miễn phí dành cho iPhone v
 
 {{< hextra/feature-grid >}}
 
-  {{< hextra/feature-card
+  {{< ls-glass-feature-card
     title="Nhạc của bạn trên đám mây"
     subtitle="Tạo dịch vụ phát nhạc trực tuyến nâng cao của riêng bạn miễn phí! Phát trực tuyến các bài hát yêu thích trực tiếp từ đám mây với bộ đệm thông minh và phát mượt mà, đồng thời tiết kiệm bộ nhớ thiết bị. Kết nối các dịch vụ như iCloud Drive, Google Drive, Dropbox, OneDrive, Box, MEGA, pCloud, Proton Drive và nhiều hơn nữa."
     icon="cloud"
     style="background: radial-gradient(ellipse at 50% 80%, rgba(34,197,94,0.15), hsla(0,0%,100%,0));"
   >}}
 
-  {{< hextra/feature-card
+  {{< ls-glass-feature-card
     title="Chế độ ngoại tuyến"
     subtitle="Chế độ ngoại tuyến cho phép bạn tải xuống các album, bài hát, nghệ sĩ, thể loại và danh sách phát yêu thích để phát ngoại tuyến. Nghe ở mọi nơi, dù trên máy bay, trong tàu điện ngầm hay ngoài vùng phủ sóng, ngay cả khi không có kết nối Internet, không cần phát trực tuyến và không tốn dữ liệu."
     icon="download"
     style="background: radial-gradient(ellipse at 50% 80%, rgba(234,88,12,0.15), hsla(0,0%,100%,0));"
   >}}
 
-  {{< hextra/feature-card
+  {{< ls-glass-feature-card
     title="Chuyển tệp dễ dàng"
     subtitle="Kết nối Mac hoặc PC và phát trực tuyến nhạc trực tiếp từ máy tính tại nhà. Chuyển tệp âm thanh liền mạch giữa máy tính và thiết bị iOS qua Wi-Fi Drive hoặc iTunes File Sharing. Bạn cũng có thể kết nối NAS hoặc ổ USB và truy cập thư viện từ bất cứ đâu."
     icon="duplicate"
     style="background: radial-gradient(ellipse at 50% 80%, rgba(251,191,36,0.15), hsla(0,0%,100%,0));"
   >}}
 
-  {{< hextra/feature-card
+  {{< ls-glass-feature-card
     title="Máy chủ media và NAS"
     subtitle="Kết nối với các thư viện media cá nhân và máy chủ tại nhà như Plex, Emby, Jellyfin, Subsonic và Navidrome. Liên kết NAS như Synology, QNAP, Nextcloud và WD My Cloud Home qua SMB, WebDAV, FTP, SFTP, NFS hoặc DLNA/UPnP, và truy cập toàn bộ bộ sưu tập nhạc của bạn từ bất cứ đâu."
     icon="desktop-computer"
     style="background: radial-gradient(ellipse at 50% 80%, rgba(59,130,246,0.15), hsla(0,0%,100%,0));"
   >}}
 
-  {{< hextra/feature-card
+  {{< ls-glass-feature-card
     title="Công cụ âm thanh chuyên nghiệp"
     subtitle="Tận hưởng phát liên tục không ngắt quãng thực sự và chuyển đổi mượt mà giữa các bài hát. Định hình âm thanh với bộ cân bằng 10 dải, cài đặt sẵn tùy chỉnh và khuếch đại preamp, tốc độ phát và cao độ có thể điều chỉnh, cùng bộ hiệu ứng phòng thu đầy đủ như reverb, echo, chorus, flanger, tăng cường bass, crossfeed và chuẩn hóa âm lượng."
     icon="adjustments"
     style="background: radial-gradient(ellipse at 50% 80%, rgba(192,38,211,0.15), hsla(0,0%,100%,0));"
   >}}
 
-  {{< hextra/feature-card
+  {{< ls-glass-feature-card
     title="Lời bài hát, tiện ích và CarPlay"
     subtitle="Đọc lời bài hát LRC nhúng và đồng bộ cuộn theo nhịp nhạc, ngay cả trên màn hình khóa, trong tiện ích màn hình chính và trên Apple CarPlay. Thêm các tiện ích Đang phát, Lời bài hát, Yêu thích và Phát gần đây để nhạc luôn trong tầm tay, luôn được đồng bộ."
     icon="annotation"
@@ -123,9 +123,9 @@ Evermusic là trình phát nhạc ngoại tuyến miễn phí dành cho iPhone v
 
 <div class="hx:mt-6"></div>
 
-{{< hextra/section-headline >}}
+{{< ls-section-headline >}}
   Thiết kế gọn gàng và đơn giản
-{{< /hextra/section-headline >}}
+{{< /ls-section-headline >}}
 
 <div class="hx:mt-6"></div>
 
@@ -133,7 +133,7 @@ Evermusic là trình phát nhạc ngoại tuyến miễn phí dành cho iPhone v
 
 {{< cards cols="4">}}
 
-  {{< design-feature-card 
+  {{< ls-design-feature-card 
     icon="adjustments"
     image="/products/evermusic/screenshots/2048x2732/3.png" 
     title="Bộ cân bằng âm thanh" 
@@ -142,7 +142,7 @@ Evermusic là trình phát nhạc ngoại tuyến miễn phí dành cho iPhone v
     subtitle="Tinh chỉnh âm thanh với bộ cân bằng kiểu iPod, cài đặt sẵn tùy chỉnh và khuếch đại preamp để có trải nghiệm nghe tốt nhất." 
   >}}
 
-  {{< design-feature-card 
+  {{< ls-design-feature-card 
     icon="annotation"
     image="/products/evermusic/screenshots/2048x2732/4.png"  
     title="Trình xem lời bài hát" 
@@ -151,7 +151,7 @@ Evermusic là trình phát nhạc ngoại tuyến miễn phí dành cho iPhone v
     subtitle="Đọc lời bài hát nhúng và bình luận bài hát khi nghe. Thưởng thức lời bài hát đồng bộ cho trải nghiệm âm nhạc sống động hơn." 
   >}}
 
-  {{< design-feature-card 
+  {{< ls-design-feature-card 
     icon="collection"
     image="/products/evermusic/screenshots/2048x2732/5.png"  
     title="Trình quản lý danh sách phát" 
@@ -160,7 +160,7 @@ Evermusic là trình phát nhạc ngoại tuyến miễn phí dành cho iPhone v
     subtitle="Tạo và tổ chức danh sách phát tùy chỉnh, sắp xếp lại bài hát, xuất sang M3U hoặc lưu trữ dưới dạng tệp ZIP để chia sẻ hoặc sao lưu dễ dàng." 
   >}}
 
-  {{< design-feature-card 
+  {{< ls-design-feature-card 
     icon="cloud"
     image="/products/evermusic/screenshots/2048x2732/6.png"  
     title="Phát nhạc từ đám mây" 
@@ -169,7 +169,7 @@ Evermusic là trình phát nhạc ngoại tuyến miễn phí dành cho iPhone v
     subtitle="Kết nối các nền tảng lưu trữ đám mây hàng đầu như Google Drive, Dropbox và OneDrive để phát trực tuyến bộ sưu tập nhạc mọi lúc mọi nơi." 
   >}}
 
-  {{< design-feature-card 
+  {{< ls-design-feature-card 
     icon="duplicate"
     image="/products/evermusic/screenshots/2048x2732/9.png"  
     title="Trình quản lý tệp" 
@@ -178,7 +178,7 @@ Evermusic là trình phát nhạc ngoại tuyến miễn phí dành cho iPhone v
     subtitle="Quản lý tệp âm thanh dễ dàng — đổi tên bài hát, sắp xếp thư mục và chuyển nhạc giữa các thiết bị bằng công cụ tích hợp." 
   >}} 
 
-  {{< design-feature-card 
+  {{< ls-design-feature-card 
     icon="sun"
     image="/products/evermusic/screenshots/2048x2732/10.png"  
     title="Tùy chỉnh ứng dụng" 
@@ -193,9 +193,9 @@ Evermusic là trình phát nhạc ngoại tuyến miễn phí dành cho iPhone v
 
 <div class="hx:mt-6"></div>
 
-{{< hextra/section-headline >}}
+{{< ls-section-headline >}}
   Bộ tính năng đầy đủ
-{{< /hextra/section-headline >}}
+{{< /ls-section-headline >}}
 
 <div class="hx:mt-6"></div>
 
@@ -203,47 +203,47 @@ Evermusic là trình phát nhạc ngoại tuyến miễn phí dành cho iPhone v
 
 {{< cards >}}
 
-  {{< feature-card title="Phát mọi định dạng âm thanh" subtitle="Evermusic phát các định dạng âm thanh phổ biến nhất, bao gồm MP3, AAC, M4A, WAV, AIFF, ALAC và M4B, để toàn bộ bộ sưu tập nhạc của bạn sẵn sàng phát trên mọi thiết bị." icon="music-note" >}}
+  {{< ls-feature-card title="Phát mọi định dạng âm thanh" subtitle="Evermusic phát các định dạng âm thanh phổ biến nhất, bao gồm MP3, AAC, M4A, WAV, AIFF, ALAC và M4B, để toàn bộ bộ sưu tập nhạc của bạn sẵn sàng phát trên mọi thiết bị." icon="music-note" >}}
 
-  {{< feature-card title="Kết nối đám mây của bạn" subtitle="Tạo dịch vụ phát trực tuyến của riêng bạn bằng cách chuyển thư viện lên đám mây và giải phóng dung lượng iPhone. Kết nối iCloud, Google Drive, Dropbox, OneDrive, MEGA, Internxt và Proton Drive." icon="cloud" >}}
+  {{< ls-feature-card title="Kết nối đám mây của bạn" subtitle="Tạo dịch vụ phát trực tuyến của riêng bạn bằng cách chuyển thư viện lên đám mây và giải phóng dung lượng iPhone. Kết nối iCloud, Google Drive, Dropbox, OneDrive, MEGA, Internxt và Proton Drive." icon="cloud" >}}
 
-  {{< feature-card title="Kết nối máy chủ media" subtitle="Kết nối các máy chủ media cá nhân trực tiếp với thư viện của bạn, bao gồm Plex, Subsonic, Navidrome, Jellyfin và Emby, và phát trực tuyến mọi thứ bạn sở hữu từ nhà một cách dễ dàng." icon="server" >}}
+  {{< ls-feature-card title="Kết nối máy chủ media" subtitle="Kết nối các máy chủ media cá nhân trực tiếp với thư viện của bạn, bao gồm Plex, Subsonic, Navidrome, Jellyfin và Emby, và phát trực tuyến mọi thứ bạn sở hữu từ nhà một cách dễ dàng." icon="server" >}}
 
-  {{< feature-card title="Kết nối máy tính hoặc NAS" subtitle="Kết nối máy tính hoặc NAS qua SMB, WebDAV, DLNA, FTP, SFTP và NFS, với API gốc cho QNAP, Synology, Nextcloud và WD My Cloud Home, hoặc chuyển tệp qua Wi-Fi." icon="desktop-computer" >}}
+  {{< ls-feature-card title="Kết nối máy tính hoặc NAS" subtitle="Kết nối máy tính hoặc NAS qua SMB, WebDAV, DLNA, FTP, SFTP và NFS, với API gốc cho QNAP, Synology, Nextcloud và WD My Cloud Home, hoặc chuyển tệp qua Wi-Fi." icon="desktop-computer" >}}
 
-  {{< feature-card title="Nhạc ngoại tuyến" subtitle="Tải xuống các bài hát, album và nghệ sĩ yêu thích để thưởng thức ngoại tuyến bất cứ lúc nào. Bật bộ đệm trình phát âm thanh để tự động lưu các bài hát phát gần đây cho việc nghe ngoại tuyến." icon="download" >}}
+  {{< ls-feature-card title="Nhạc ngoại tuyến" subtitle="Tải xuống các bài hát, album và nghệ sĩ yêu thích để thưởng thức ngoại tuyến bất cứ lúc nào. Bật bộ đệm trình phát âm thanh để tự động lưu các bài hát phát gần đây cho việc nghe ngoại tuyến." icon="download" >}}
 
-  {{< feature-card title="Bộ cân bằng âm thanh" subtitle="Định hình âm thanh với bộ cân bằng tích hợp, có sẵn cài đặt sẵn cho các thể loại nhạc phổ biến cùng điều khiển thủ công để tinh chỉnh và khuếch đại mỗi bài hát đúng theo ý bạn." icon="adjustments" >}}
+  {{< ls-feature-card title="Bộ cân bằng âm thanh" subtitle="Định hình âm thanh với bộ cân bằng tích hợp, có sẵn cài đặt sẵn cho các thể loại nhạc phổ biến cùng điều khiển thủ công để tinh chỉnh và khuếch đại mỗi bài hát đúng theo ý bạn." icon="adjustments" >}}
 
-  {{< feature-card title="Phát liên tục" subtitle="Tận hưởng phát mượt mà, không ngắt quãng mà không có khoảng dừng giữa các bài hát, hoàn hảo cho các bản thu trực tiếp, album concept, bản phối DJ và nhạc cổ điển từ đầu đến cuối." icon="volume-up" >}}
+  {{< ls-feature-card title="Phát liên tục" subtitle="Tận hưởng phát mượt mà, không ngắt quãng mà không có khoảng dừng giữa các bài hát, hoàn hảo cho các bản thu trực tiếp, album concept, bản phối DJ và nhạc cổ điển từ đầu đến cuối." icon="volume-up" >}}
 
-  {{< feature-card title="Phát chuyển đổi mượt" subtitle="Giữ dòng nhạc trôi chảy với chuyển đổi mượt, khi mỗi bài hát mới nhẹ nhàng bắt đầu trước khi bài hiện tại kết thúc để phát liền mạch, liên tục mà không có khoảng lặng nào." icon="switch-horizontal" >}}
+  {{< ls-feature-card title="Phát chuyển đổi mượt" subtitle="Giữ dòng nhạc trôi chảy với chuyển đổi mượt, khi mỗi bài hát mới nhẹ nhàng bắt đầu trước khi bài hiện tại kết thúc để phát liền mạch, liên tục mà không có khoảng lặng nào." icon="switch-horizontal" >}}
 
-  {{< feature-card title="Hiệu ứng âm thanh" subtitle="Định hình âm thanh với các hiệu ứng âm thanh tích hợp. Bật chuẩn hóa âm lượng để giữ mọi bài hát ở cùng độ lớn, và thêm reverb, delay, distortion và âm thanh không gian theo ý thích." icon="chip" >}}
+  {{< ls-feature-card title="Hiệu ứng âm thanh" subtitle="Định hình âm thanh với các hiệu ứng âm thanh tích hợp. Bật chuẩn hóa âm lượng để giữ mọi bài hát ở cùng độ lớn, và thêm reverb, delay, distortion và âm thanh không gian theo ý thích." icon="chip" >}}
 
-  {{< feature-card title="Trình trực quan hóa nhạc" subtitle="Xem các hình ảnh động toàn màn hình phản ứng trực tiếp với nhạc của bạn theo thời gian thực. Chọn từ thư viện cài đặt sẵn lớn hoặc để chúng tự động luân phiên khi bạn nghe." icon="sparkles" >}}
+  {{< ls-feature-card title="Trình trực quan hóa nhạc" subtitle="Xem các hình ảnh động toàn màn hình phản ứng trực tiếp với nhạc của bạn theo thời gian thực. Chọn từ thư viện cài đặt sẵn lớn hoặc để chúng tự động luân phiên khi bạn nghe." icon="sparkles" >}}
 
-  {{< feature-card title="Lời bài hát và bình luận" subtitle="Xem lời bài hát nhúng theo thời gian và bình luận cho các bản nhạc khi chúng phát, và thêm tiện ích lời bài hát vào Màn hình chính để truy cập nhanh, xem thoáng qua bất cứ lúc nào." icon="annotation" >}}
+  {{< ls-feature-card title="Lời bài hát và bình luận" subtitle="Xem lời bài hát nhúng theo thời gian và bình luận cho các bản nhạc khi chúng phát, và thêm tiện ích lời bài hát vào Màn hình chính để truy cập nhanh, xem thoáng qua bất cứ lúc nào." icon="annotation" >}}
 
-  {{< feature-card title="AirPlay & Chromecast" subtitle="Phát trực tuyến nhạc của bạn không dây tới Apple TV, loa thông minh và các thiết bị khác với hỗ trợ AirPlay và Google Chromecast tích hợp để nghe khắp nhà dễ dàng." icon="device-mobile" >}}
+  {{< ls-feature-card title="AirPlay & Chromecast" subtitle="Phát trực tuyến nhạc của bạn không dây tới Apple TV, loa thông minh và các thiết bị khác với hỗ trợ AirPlay và Google Chromecast tích hợp để nghe khắp nhà dễ dàng." icon="device-mobile" >}}
 
-  {{< feature-card title="Apple CarPlay" subtitle="Lái xe và nghe an toàn với giao diện Apple CarPlay chuyên dụng đưa nhạc, danh sách phát và điều khiển phát ngay lên màn hình bảng điều khiển xe của bạn." icon="truck" >}}
+  {{< ls-feature-card title="Apple CarPlay" subtitle="Lái xe và nghe an toàn với giao diện Apple CarPlay chuyên dụng đưa nhạc, danh sách phát và điều khiển phát ngay lên màn hình bảng điều khiển xe của bạn." icon="truck" >}}
 
-  {{< feature-card title="Tiện ích" subtitle="Kích hoạt các tiện ích tương tác trên Màn hình chính để truy cập nhanh hàng đợi phát của bạn, và tiếp tục ngay từ nơi bạn đã dừng ở vị trí lưu lần cuối chỉ với một lần chạm." icon="view-grid" >}}
+  {{< ls-feature-card title="Tiện ích" subtitle="Kích hoạt các tiện ích tương tác trên Màn hình chính để truy cập nhanh hàng đợi phát của bạn, và tiếp tục ngay từ nơi bạn đã dừng ở vị trí lưu lần cuối chỉ với một lần chạm." icon="view-grid" >}}
 
-  {{< feature-card title="Sách nói" subtitle="Biến ứng dụng thành trình phát sách nói đầy đủ với đánh dấu âm thanh, điều khiển tốc độ phát và vị trí media đã lưu, cùng đọc chi tiết văn bản được lưu trong siêu dữ liệu tệp của bạn." icon="book-open" >}}
+  {{< ls-feature-card title="Sách nói" subtitle="Biến ứng dụng thành trình phát sách nói đầy đủ với đánh dấu âm thanh, điều khiển tốc độ phát và vị trí media đã lưu, cùng đọc chi tiết văn bản được lưu trong siêu dữ liệu tệp của bạn." icon="book-open" >}}
 
-  {{< feature-card title="Đồng bộ tự động" subtitle="Thư viện nhạc của bạn tự động đồng bộ giữa đám mây và thiết bị, nhóm gọn gàng mọi bài hát theo nghệ sĩ, album và thể loại để bộ sưu tập của bạn luôn được sắp xếp." icon="refresh" >}}
+  {{< ls-feature-card title="Đồng bộ tự động" subtitle="Thư viện nhạc của bạn tự động đồng bộ giữa đám mây và thiết bị, nhóm gọn gàng mọi bài hát theo nghệ sĩ, album và thể loại để bộ sưu tập của bạn luôn được sắp xếp." icon="refresh" >}}
 
-  {{< feature-card title="Trình quản lý danh sách phát" subtitle="Tạo và quản lý danh sách phát, sắp xếp lại bài hát, và làm cho bất kỳ danh sách phát nào khả dụng ngoại tuyến. Sắp xếp bài hát theo tên, kích thước, số bài hát hoặc album để giữ mọi thứ ngăn nắp." icon="collection" >}}
+  {{< ls-feature-card title="Trình quản lý danh sách phát" subtitle="Tạo và quản lý danh sách phát, sắp xếp lại bài hát, và làm cho bất kỳ danh sách phát nào khả dụng ngoại tuyến. Sắp xếp bài hát theo tên, kích thước, số bài hát hoặc album để giữ mọi thứ ngăn nắp." icon="collection" >}}
 
-  {{< feature-card title="Trình sửa thẻ ID3" subtitle="Sửa siêu dữ liệu bị hỏng hoặc thiếu bằng trình sửa thẻ ID3 tích hợp, cập nhật tiêu đề, nghệ sĩ, album và nhiều hơn để thư viện nhạc của bạn luôn sạch sẽ và được tổ chức tốt." icon="pencil-alt" >}}
+  {{< ls-feature-card title="Trình sửa thẻ ID3" subtitle="Sửa siêu dữ liệu bị hỏng hoặc thiếu bằng trình sửa thẻ ID3 tích hợp, cập nhật tiêu đề, nghệ sĩ, album và nhiều hơn để thư viện nhạc của bạn luôn sạch sẽ và được tổ chức tốt." icon="pencil-alt" >}}
 
-  {{< feature-card title="Trình quản lý tệp" subtitle="Tổ chức nhạc của bạn với trình quản lý tệp tích hợp, xử lý các thao tác hằng ngày như sao chép, di chuyển, đổi tên và xóa để giữ tất cả tệp âm thanh của bạn ngăn nắp." icon="folder" >}}
+  {{< ls-feature-card title="Trình quản lý tệp" subtitle="Tổ chức nhạc của bạn với trình quản lý tệp tích hợp, xử lý các thao tác hằng ngày như sao chép, di chuyển, đổi tên và xóa để giữ tất cả tệp âm thanh của bạn ngăn nắp." icon="folder" >}}
 
-  {{< feature-card title="Tìm kiếm nâng cao" subtitle="Tìm mọi thứ trong vài giây với công cụ tìm kiếm thông minh, nhanh chóng định vị các album, nghệ sĩ và bài hát yêu thích của bạn ở bất kỳ đâu trong toàn bộ thư viện nhạc." icon="search" >}}
+  {{< ls-feature-card title="Tìm kiếm nâng cao" subtitle="Tìm mọi thứ trong vài giây với công cụ tìm kiếm thông minh, nhanh chóng định vị các album, nghệ sĩ và bài hát yêu thích của bạn ở bất kỳ đâu trong toàn bộ thư viện nhạc." icon="search" >}}
 
-  {{< feature-card title="Thẻ nhớ USB" subtitle="Kết nối các đầu đọc thẻ ngoài như SanDisk iXpand và nghe nhạc trực tiếp từ thẻ SD hoặc ổ USB, không cần đồng bộ hay tải xuống thêm." icon="inbox" >}}
+  {{< ls-feature-card title="Thẻ nhớ USB" subtitle="Kết nối các đầu đọc thẻ ngoài như SanDisk iXpand và nghe nhạc trực tiếp từ thẻ SD hoặc ổ USB, không cần đồng bộ hay tải xuống thêm." icon="inbox" >}}
   
 {{< /cards >}}
 
@@ -254,55 +254,55 @@ Evermusic là trình phát nhạc ngoại tuyến miễn phí dành cho iPhone v
 <div class="hx:mt-6"></div>
 
 <div class="hx:w-full">
-{{< appstore-reviews apps="885367198,1564384601" stars="5,4"  app="Evermusic" >}}
+{{< ls-appstore-reviews apps="885367198,1564384601" stars="5,4"  app="Evermusic" >}}
 </div>
 
 <div class="hx:mt-6"></div>
 
-{{< hextra/section-headline >}}
+{{< ls-section-headline >}}
   Gói giá
-{{< /hextra/section-headline >}}
+{{< /ls-section-headline >}}
 
 <div class="hx:mt-6"></div>
 
 <div class="hx:w-full">
-{{< pricing-plans >}}
+{{< ls-pricing-plans >}}
 
 </div>
 
 <div class="hx:mt-6"></div>
 
 <div class="hx:w-full hx:mx-auto hx:flex hx:flex-col hx:items-center">
-  {{< hextra/info-paragraph border="true" >}}
+  {{< ls-info-paragraph border="true" >}}
    <strong>Chia sẻ gia đình</strong>: Tất cả mua hàng và đăng ký đều hỗ trợ Chia sẻ gia đình, cho phép bạn chia sẻ quyền truy cập Premium với gia đình.<br><strong>Truy cập đa thiết bị</strong>: Gói trọn đời và đăng ký được chia sẻ giữa thiết bị iOS và Mac qua đồng bộ iCloud.<br><strong>Giá</strong>: Giá hiển thị bằng đô la Mỹ cho Hoa Kỳ. Giá cuối cùng có thể thay đổi theo khu vực của bạn.  
-  {{< /hextra/info-paragraph >}}
+  {{< /ls-info-paragraph >}}
 </div>
 
 <div class="hx:mt-6"></div>
 
 <div class="hx:w-full">
-{{< app-details heading="true" >}}
+{{< ls-app-details heading="true" >}}
 </div>
 
 <div class="hx:mt-6"></div>
 
-{{< hextra/section-headline >}}
+{{< ls-section-headline >}}
   Câu hỏi thường gặp
-{{< /hextra/section-headline >}}
+{{< /ls-section-headline >}}
 
 <div class="hx:mt-6"></div>
 
 <div class="hx:w-full">
-{{% details title="Evermusic là gì?" closed="true" %}}
+{{% ls-details title="Evermusic là gì?" closed="true" %}}
 Evermusic là ứng dụng trình phát nhạc giúp bạn nghe các bài hát yêu thích từ các dịch vụ lưu trữ đám mây khác nhau.<br>
 Bạn có thể dễ dàng tải nhạc để phát ngoại tuyến, tạo và quản lý danh sách phát, và sử dụng bộ cân bằng tích hợp để nâng cao trải nghiệm nghe nhạc.<br>
 Ứng dụng hoạt động với các dịch vụ như Google Drive, Dropbox, OneDrive và nhiều hơn, để bạn có thể lưu tất cả nhạc ở một nơi và truy cập từ bất kỳ thiết bị nào.<br><br>
 Ứng dụng cũng hỗ trợ nhiều định dạng âm thanh và cho phép bạn tổ chức thư viện nhạc theo nghệ sĩ, album, thể loại và nhà soạn nhạc.<br>
 Bạn có thể đồng bộ thư viện giữa bộ nhớ đám mây và thiết bị, đảm bảo luôn có sẵn các bài hát yêu thích.<br>
 Ngoài ra, với các tính năng như phát liên tục, chuyển đổi mượt và khả năng phát nhạc qua Chromecast và thiết bị AirPlay, Evermusic cung cấp giải pháp toàn diện cho mọi nhu cầu âm nhạc của bạn.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Evermusic hoạt động như thế nào?" closed="true" %}}
+{{% ls-details title="Evermusic hoạt động như thế nào?" closed="true" %}}
 Evermusic hoạt động bằng cách kết nối với các dịch vụ lưu trữ đám mây khác nhau, như Google Drive, Dropbox, OneDrive và các dịch vụ khác, cho phép bạn truy cập thư viện nhạc từ bất kỳ thiết bị nào.<br>
 Sau khi kết nối, bạn có thể duyệt và phát trực tuyến nhạc từ đám mây hoặc tải xuống các bài hát, album và danh sách phát yêu thích để phát ngoại tuyến.<br>
 Ứng dụng hỗ trợ nhiều định dạng âm thanh, giúp dễ dàng phát bất kỳ tệp nhạc nào bạn đã lưu trữ.<br><br>
@@ -322,15 +322,15 @@ Khám phá các hướng dẫn của chúng tôi để biết thêm chi tiết:<
 - [Cách chuyển tệp không dây từ máy tính sang iPhone bằng WiFi-Drive.](/docs/howto/how-to-transfer-files-wirelessly-from-a-computer-to-an-iphone-using-wifi-drive)<br>
 - [Cách kết nối thẻ nhớ USB với iPhone và nghe nhạc hoặc quản lý tệp.](/docs/howto/how-to-connect-a-usb-flashcard-to-the-iphone-and-listen-to-music-or-manage-files-located-on-it)<br>
 - [Cách phát nhạc trên iPhone từ WD My Cloud Home.](/docs/howto/how-to-play-music-on-iphone-from-wd-my-cloud-home)
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Evermusic có miễn phí không?" closed="true" %}}
+{{% ls-details title="Evermusic có miễn phí không?" closed="true" %}}
 Evermusic là ứng dụng miễn phí với một số giới hạn mà bạn có thể gỡ bỏ sau khi nâng cấp lên phiên bản Premium. Ứng dụng cung cấp mua trong ứng dụng trọn đời một lần và hai tùy chọn đăng ký (1 tháng và 1 năm) để gỡ bỏ tất cả hạn chế, cho phép bạn chọn mức giá tốt nhất và tối ưu nhất. Giá có thể thay đổi tùy theo quốc gia hoặc khu vực. Ngoài ra, xin lưu ý rằng Chia sẻ gia đình được bật cho tất cả mua hàng và gói, để bạn có thể chia sẻ phiên bản Premium với các thành viên gia đình.<br><br>
 Mua hàng trọn đời và đăng ký được chia sẻ giữa iOS và Mac, sử dụng iCloud để đồng bộ thông tin này. Nếu bạn có phiên bản Premium trên thiết bị iOS, hãy đảm bảo đã cài đặt phiên bản mới nhất và iCloud đã được bật. Khởi động ứng dụng trên iOS và đợi một phút để thông tin mua hàng tải lên iCloud.<br><br>
 [Đọc thêm](/docs/faq/evermusic/what-is-the-difference-between-evermusic-and-evermusic-premium/)
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Sự khác biệt giữa Evermusic miễn phí và Evermusic Premium là gì?" closed="true" %}}
+{{% ls-details title="Sự khác biệt giữa Evermusic miễn phí và Evermusic Premium là gì?" closed="true" %}}
 **Evermusic miễn phí**<br>
 • Có quảng cáo: Phiên bản miễn phí hiển thị quảng cáo để tạo doanh thu, đôi khi có thể gián đoạn việc nghe nhạc.<br>
 • Danh sách phát giới hạn: Bạn có thể tạo tối đa (10) danh sách phát trong phiên bản miễn phí.<br>
@@ -357,10 +357,10 @@ Mua hàng trọn đời và đăng ký được chia sẻ giữa iOS và Mac, s�
 • Tùy chỉnh đầy đủ: Cung cấp đầy đủ tùy chọn tùy chỉnh, bao gồm khả năng thay đổi biểu tượng ứng dụng.<br><br>
 
 [Đọc thêm](/docs/faq/evermusic/what-is-the-difference-between-evermusic-and-evermusic-premium/)
-{{% /details %}}
+{{% /ls-details %}}
 
 
-{{% details title="Evermusic có an toàn không?" closed="true" %}}
+{{% ls-details title="Evermusic có an toàn không?" closed="true" %}}
 Evermusic chỉ sử dụng SDK chính thức và kết nối bảo mật để tương tác với các dịch vụ đám mây đã kết nối. Tên đăng nhập và mật khẩu của bạn không thể truy cập được bởi ứng dụng. Tất cả yêu cầu từ ứng dụng đến dịch vụ đám mây đều được mã hóa.<br>
 Khi bạn nhập tên đăng nhập và mật khẩu, ứng dụng hiển thị trang ủy quyền chính thức do nhà cung cấp dịch vụ đám mây cung cấp và toàn bộ quá trình ủy quyền diễn ra bên ngoài ứng dụng. Nhà cung cấp dịch vụ đám mây gửi auth-token cho ứng dụng sau khi ủy quyền thành công và token đó được sử dụng để thực hiện các lệnh gọi API.<br><br>
 
@@ -372,24 +372,24 @@ Auth-token là chìa khóa kỹ thuật số cho phép ứng dụng bên thứ b
 Bạn cũng có thể ngắt kết nối các tài khoản đám mây đã kết nối trong ứng dụng và auth-token cũng sẽ bị xóa khỏi thiết bị. Nếu bạn gỡ ứng dụng khỏi thiết bị, tất cả dữ liệu đã tải và token truy cập cũng sẽ bị xóa.<br><br>
 
 [Đọc thêm](/docs/guide/evermusic/evermusic-guide-connections/)
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Làm sao tạo danh sách phát trên Evermusic?" closed="true" %}}
+{{% ls-details title="Làm sao tạo danh sách phát trên Evermusic?" closed="true" %}}
 - Mở phần Danh sách phát.<br>
 - Nhấn nút "+" hoặc nút "..." ở góc trên bên phải và chọn "Danh sách phát mới".<br>
 - Nhập tên cho danh sách phát và nhấn "Lưu". Hộp thoại "Thêm bài hát" sẽ xuất hiện.<br>
 - Chọn các bài hát bạn muốn thêm vào danh sách phát.<br><br>
 
 [Đọc thêm](/docs/guide/evermusic/evermusic-guide-playlists/)
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Evermusic hỗ trợ những dịch vụ đám mây nào?" closed="true" %}}
+{{% ls-details title="Evermusic hỗ trợ những dịch vụ đám mây nào?" closed="true" %}}
 Hiện tại, ứng dụng hỗ trợ các dịch vụ đám mây phổ biến nhất: iCloud Drive, Google Drive, Dropbox, OneDrive, Box, MEGA, Yandex.Disk, WD MyCloud Home, DLNA, MediaFire, WebDAV, SMB, pCloud, HiDrive, 百度网盘, My Cloud Home, InfiniCLOUD, Cloud Mail.ru, Put.io, MyDrive.<br><br>
 
 [Đọc thêm](/docs/guide/evermusic/evermusic-guide-connections/)
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Làm sao sử dụng bộ cân bằng?" closed="true" %}}
+{{% ls-details title="Làm sao sử dụng bộ cân bằng?" closed="true" %}}
 - Mở Màn hình trình phát âm thanh.<br>
 - Nhấn vào biểu tượng "Bộ cân bằng" ở dưới cùng màn hình.<br>
 - Bật công tắc ở góc trên bên phải màn hình bộ cân bằng để kích hoạt.<br>
@@ -397,9 +397,9 @@ Hiện tại, ứng dụng hỗ trợ các dịch vụ đám mây phổ biến n
 
 Hướng dẫn đầy đủ có tại đây:<br>
 [Cách sử dụng bộ cân bằng âm thanh trên iPhone, iPad, Mac với Evermusic và Flacbox](/docs/howto/how-to-use-the-audio-equalizer-on-your-iphone-ipad-mac-with-evermusic-and-flacbox)
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Làm sao bật chế độ ngoại tuyến trong Evermusic?" closed="true" %}}
+{{% ls-details title="Làm sao bật chế độ ngoại tuyến trong Evermusic?" closed="true" %}}
 - Kết nối dịch vụ đám mây:<br>
  • Vào tab "Kết nối".<br>
  • Chọn "Kết nối bộ nhớ đám mây" và làm theo hướng dẫn để kết nối dịch vụ mong muốn.<br><br>
@@ -423,9 +423,9 @@ Hướng dẫn đầy đủ có tại đây:<br>
  • Nhấn "Thao tác khác" và chọn "Bắt đầu đồng bộ".<br><br>
 
 [Đọc thêm](/docs/howto/play-offline-music-in-evermusic-flacbox-download-sync-from-cloud-to-local-files/)
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Cách phát nhạc đã tải xuống cục bộ trên iPhone?" closed="true" %}}
+{{% ls-details title="Cách phát nhạc đã tải xuống cục bộ trên iPhone?" closed="true" %}}
 Sau khi cài đặt ứng dụng, mở màn hình "Tệp cục bộ" và cuộn xuống phần "Tệp trên iPhone này".<br>
 Từ đó, chọn "Mở tệp..." nếu bạn cần chọn nhiều tệp âm thanh hoặc "Mở thư mục..." nếu bạn muốn chọn một thư mục nhạc.<br>
 Ứng dụng sẽ quét nội dung thư mục và tất cả tệp âm thanh tìm thấy sẽ được chọn.<br>
@@ -456,15 +456,15 @@ Tệp sẽ được thêm vào danh sách phát, nơi bạn có thể thay đổ
 Với các bước đơn giản này, bạn có thể khai thác toàn bộ tiềm năng của iPhone và Mac như nền tảng tuyệt vời để thưởng thức bộ sưu tập nhạc cục bộ yêu quý.<br><br>
 
 [Đọc thêm](/docs/howto/how-to-play-local-music-stored-on-your-iphone-or-mac)
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Làm sao tiếp tục danh sách phát từ nơi đã dừng?" closed="true" %}}
+{{% ls-details title="Làm sao tiếp tục danh sách phát từ nơi đã dừng?" closed="true" %}}
 Đầu tiên, đảm bảo "Lưu trạng thái trình phát" được bật trong Cài đặt > Trình phát âm thanh > Chung.<br>
 Khi bạn chuyển sang danh sách phát khác và quay lại, bạn sẽ thấy bốn hành động trên thanh công cụ phía trên dưới ảnh bìa album: "Tìm kiếm", "Tiếp tục phát", "Phát tất cả" và "Phát ngẫu nhiên".<br>
 Nhấn "Tiếp tục phát" để tiếp tục danh sách phát từ trạng thái và vị trí media đã lưu lần cuối.<br>
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Cách xem lời bài hát trong Evermusic?" closed="true" %}}
+{{% ls-details title="Cách xem lời bài hát trong Evermusic?" closed="true" %}}
 Bạn có thể xem lời bài hát nhúng cho các bài hát trong ứng dụng Evermusic theo các bước sau:<br>
 1. Bắt đầu phát tệp âm thanh bằng cách nhấn vào nó.<br>
 2. Mở trình phát âm thanh toàn màn hình.<br>
@@ -478,9 +478,9 @@ Bạn có thể xem lời bài hát nhúng cho các bài hát trong ứng dụng
 3. "Chế độ tệp LRC": Thay vì chỉnh sửa tệp âm thanh, bạn có thể đặt tệp LRC trong cùng thư mục với tệp âm thanh gốc. Cả hai tệp phải có cùng tên nhưng khác phần mở rộng. Khi bạn vuốt đến trang thứ ba trên màn hình Bình luận, ứng dụng sẽ tìm tệp LRC trong cùng thư mục và hiển thị nội dung.<br><br>
 
 [Đọc thêm](/docs/howto/how-to-add-and-view-comments-to-your-audio-tracks-on-iphone-ipad-and-mac-with-evermusic-and-flacbox)
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Làm sao chuyển nhạc từ máy tính sang Evermusic?" closed="true" %}}
+{{% ls-details title="Làm sao chuyển nhạc từ máy tính sang Evermusic?" closed="true" %}}
 Bạn có thể kết nối máy tính hoặc NAS cá nhân bằng giao thức SMB, WebDAV hoặc DLNA. Ngoài ra, sử dụng iTunes File Sharing để chuyển nhạc.<br><br>
 
 Để kết nối máy tính bằng giao thức **SMB**, nhấn "Kết nối dịch vụ đám mây" → SMB.<br>
@@ -517,9 +517,9 @@ Hướng dẫn chi tiết có tại đây:<br>
 
 Với **DLNA**, bạn cũng có thể thiết lập DLNA media server và phát trực tuyến nhạc từ Windows PC như mô tả tại đây:<br>
 [Cách bật DLNA Media Server trên Windows 10 và phát nhạc trên iPhone](/docs/howto/how-to-enable-dlna-media-server-on-windows-10-and-play-your-music-on-iphone)
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Cách tải nhạc?" closed="true" %}}
+{{% ls-details title="Cách tải nhạc?" closed="true" %}}
 Trước khi tải nhạc và nghe ngoại tuyến, bạn cần kết nối tài khoản mạng.<br>
 Chỉ cần mở màn hình "Kết nối" và thêm tài khoản.<br>
 Sau khi thêm tài khoản mạng, bạn có thể tải nhạc từ đám mây.<br><br>
@@ -540,9 +540,9 @@ Hướng dẫn chi tiết về chế độ ngoại tuyến có tại đây:<br>
 
 Tùy chọn khác là tải nhạc từ Youtube và nhập vào Evermusic như mô tả tại đây:<br>
 [Cách tải nhạc từ YouTube và nghe nhạc ngoại tuyến trên iPhone](/docs/howto/how-to-download-music-from-youtube-and-listen-to-offline-music-on-iphone)
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Evermusic có hỗ trợ Apple CarPlay không?" closed="true" %}}
+{{% ls-details title="Evermusic có hỗ trợ Apple CarPlay không?" closed="true" %}}
 Có, **Evermusic hỗ trợ đầy đủ Apple CarPlay**. Bạn có thể duyệt thư viện nhạc, phát tệp cục bộ hoặc ngoại tuyến, kết nối bộ nhớ đám mây và điều khiển phát nhạc trực tiếp từ màn hình giải trí trên xe.
 
 Giao diện CarPlay bao gồm các tab chuyên dụng cho **Thư viện**, **Kết nối**, **Tệp cục bộ** và **Cài đặt**, cho bạn toàn quyền kiểm soát nhạc trên đường. Các điều khiển phát, phát ngẫu nhiên, lặp lại và quản lý hàng đợi cũng có sẵn.
@@ -550,9 +550,9 @@ Giao diện CarPlay bao gồm các tab chuyên dụng cho **Thư viện**, **K�
 Để sử dụng CarPlay, đảm bảo Siri đã được bật và iPhone kết nối qua USB hoặc không dây.
 
 [Đọc hướng dẫn đầy đủ](/docs/howto/how-to-play-your-own-music-on-iphone-using-carplay/)
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Evermusic hỗ trợ những định dạng âm thanh nào?" closed="true" %}}
+{{% ls-details title="Evermusic hỗ trợ những định dạng âm thanh nào?" closed="true" %}}
 Đây là danh sách đầy đủ các định dạng âm thanh và phần mở rộng tệp được hỗ trợ:<br><br>
 
 **Định dạng âm thanh được hỗ trợ:**<br>
@@ -570,40 +570,40 @@ Giao diện CarPlay bao gồm các tab chuyên dụng cho **Thư viện**, **K�
 mpeg, aifc, 3gp, avi, aif, latm, 3gpp, m4a, loas, cdda, aac, m4p, m4b, ac3, pls, mp4v, m3u, m4r, aiff, xhe, mp1, snd, mp2, wav, qt, wave, m3u8, m4v, mp3, 3g2, caf, mp4, flac, au, w64, ec3, adts, amr, vtt, mpa, aa<br><br>
 
 Với nhiều định dạng và phần mở rộng tệp được hỗ trợ, bạn có thể thưởng thức nhạc ở định dạng yêu thích.
-{{% /details %}}
+{{% /ls-details %}}
 
 </div>
 
 <div class="hx:mt-6"></div>
 
-{{< hextra/section-headline >}}
+{{< ls-section-headline >}}
   Hướng dẫn sử dụng
-{{< /hextra/section-headline >}}
+{{< /ls-section-headline >}}
 
 <div class="hx:mt-6"></div>
 
 <div class="hx:w-full">
 
 <div class="hx:w-full hx:mx-auto hx:flex hx:flex-col hx:items-center hx:text-center">
-  {{< hextra/info-paragraph border="false" >}}
+  {{< ls-info-paragraph border="false" >}}
   Hướng dẫn này sẽ giúp bạn khai thác tối đa Evermusic trên iPhone, iPad hoặc Mac. Tìm hiểu cách phát trực tuyến nhạc từ đám mây, quản lý sách nói và chuyển nhạc giữa các thiết bị. Evermusic cho bạn toàn quyền kiểm soát bộ sưu tập nhạc trong một ứng dụng dễ dùng.
-  {{< /hextra/info-paragraph >}}
+  {{< /ls-info-paragraph >}}
 </div>
 
 {{< cards >}}
-  {{< feature-card icon="location-marker" title="Điều hướng" subtitle="Tìm hiểu cách điều hướng Evermusic bằng Tab Bar trên iPhone hoặc Menu trái trên iPad và Mac." link="/docs/guide/evermusic/evermusic-guide-navigation" >}}
+  {{< ls-feature-card icon="location-marker" title="Điều hướng" subtitle="Tìm hiểu cách điều hướng Evermusic bằng Tab Bar trên iPhone hoặc Menu trái trên iPad và Mac." link="/docs/guide/evermusic/evermusic-guide-navigation" >}}
 
-  {{< feature-card icon="cloud" title="Kết nối" subtitle="Kết nối tài khoản đám mây và quản lý tệp trực tuyến bằng trình quản lý tệp tích hợp." link="/docs/guide/evermusic/evermusic-guide-connections" >}}
+  {{< ls-feature-card icon="cloud" title="Kết nối" subtitle="Kết nối tài khoản đám mây và quản lý tệp trực tuyến bằng trình quản lý tệp tích hợp." link="/docs/guide/evermusic/evermusic-guide-connections" >}}
 
-  {{< feature-card icon="library" title="Thư viện nhạc" subtitle="Tổ chức và khám phá bài hát, album và nghệ sĩ trong Thư viện nhạc." link="/docs/guide/evermusic/evermusic-guide-music-library" >}}
+  {{< ls-feature-card icon="library" title="Thư viện nhạc" subtitle="Tổ chức và khám phá bài hát, album và nghệ sĩ trong Thư viện nhạc." link="/docs/guide/evermusic/evermusic-guide-music-library" >}}
 
-  {{< feature-card icon="collection" title="Danh sách phát" subtitle="Tạo và sắp xếp danh sách phát phù hợp tâm trạng hoặc dịp." link="/docs/guide/evermusic/evermusic-guide-playlists" >}}
+  {{< ls-feature-card icon="collection" title="Danh sách phát" subtitle="Tạo và sắp xếp danh sách phát phù hợp tâm trạng hoặc dịp." link="/docs/guide/evermusic/evermusic-guide-playlists" >}}
 
-  {{< feature-card icon="folder" title="Tệp cục bộ" subtitle="Truy cập và quản lý nhạc ngoại tuyến qua phần Tệp cục bộ." link="/docs/guide/evermusic/evermusic-guide-local-files" >}}
+  {{< ls-feature-card icon="folder" title="Tệp cục bộ" subtitle="Truy cập và quản lý nhạc ngoại tuyến qua phần Tệp cục bộ." link="/docs/guide/evermusic/evermusic-guide-local-files" >}}
 
-  {{< feature-card icon="play" title="Trình phát âm thanh" subtitle="Điều khiển phát, hàng đợi và cài đặt âm thanh như bộ cân bằng và hẹn giờ tắt." link="/docs/guide/evermusic/evermusic-guide-player" >}}
+  {{< ls-feature-card icon="play" title="Trình phát âm thanh" subtitle="Điều khiển phát, hàng đợi và cài đặt âm thanh như bộ cân bằng và hẹn giờ tắt." link="/docs/guide/evermusic/evermusic-guide-player" >}}
 
-  {{< feature-card icon="adjustments" title="Cài đặt" subtitle="Tùy chỉnh giao diện, tính năng và cài đặt hiệu suất của Evermusic." link="/docs/guide/evermusic/evermusic-guide-settings" >}}
+  {{< ls-feature-card icon="adjustments" title="Cài đặt" subtitle="Tùy chỉnh giao diện, tính năng và cài đặt hiệu suất của Evermusic." link="/docs/guide/evermusic/evermusic-guide-settings" >}}
 
 {{< /cards >}}
 

@@ -7,7 +7,7 @@ tags: ["เสียง", "เครื่องเล่น", "คอมพิ�
 keywords: ["iTunes file sharing", "เล่นเพลงในเครื่อง", "ถ่ายโอนเพลงไปยัง iPhone", "คัดลอกไฟล์ไปยัง iOS", "Mac ไปยัง iPhone เสียง", "ไฟล์ในเครื่องบน iPhone", "Evermusic", "Flacbox", "เครื่องเล่นเพลง", "แชร์ไฟล์", "WiFi Drive", "สตรีมเพลง SMB", "แอปเพลง iPhone", "นำเข้าเพลงไปยัง iOS"]
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **สรุป:** ถ่ายโอนเพลงจากคอมพิวเตอร์ไปยัง iPhone โดยใช้หนึ่งในสามวิธี: **iTunes/Finder File Sharing** (สาย USB), **[WiFi Drive](/docs/howto/how-to-transfer-music-from-computer-to-iphone-without-itunes)** (ไร้สาย ไม่ต้องใช้สาย), หรือ **[SMB](/docs/howto/stream-your-music-from-mac-or-pc-to-iphone-using-smb/)** (สตรีมโดยตรงโดยไม่ต้องคัดลอก) จากนั้นเล่นด้วย [Evermusic](/products/evermusic) หรือ [Flacbox](/products/flacbox)
@@ -134,22 +134,22 @@ iTunes File Sharing ช่วยให้คุณคัดลอกไฟล์
 
 ## FAQ
 
-{{% details title="วิธีที่เร็วที่สุดในการถ่ายโอนเพลงไปยัง iPhone คืออะไร?" closed="true" %}}
+{{% ls-details title="วิธีที่เร็วที่สุดในการถ่ายโอนเพลงไปยัง iPhone คืออะไร?" closed="true" %}}
 iTunes/Finder File Sharing ผ่าน USB เป็นวิธีที่เร็วที่สุดสำหรับคลังเพลงขนาดใหญ่ สำหรับการถ่ายโอนขนาดเล็ก WiFi Drive สะดวกกว่าเพราะไม่ต้องใช้สาย
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="ฉันสามารถถ่ายโอนไฟล์ FLAC ไปยัง iPhone ได้หรือไม่?" closed="true" %}}
+{{% ls-details title="ฉันสามารถถ่ายโอนไฟล์ FLAC ไปยัง iPhone ได้หรือไม่?" closed="true" %}}
 ได้ ทั้ง Evermusic และ Flacbox รับไฟล์ FLAC ผ่าน iTunes File Sharing, WiFi Drive หรือ SMB แนะนำ Flacbox สำหรับรูปแบบไม่สูญเสียคุณภาพ
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="ฉันต้องใช้ iTunes บน macOS Catalina หรือใหม่กว่าหรือไม่?" closed="true" %}}
+{{% ls-details title="ฉันต้องใช้ iTunes บน macOS Catalina หรือใหม่กว่าหรือไม่?" closed="true" %}}
 ไม่ Apple แทนที่ iTunes ด้วย Finder สำหรับการจัดการอุปกรณ์ตั้งแต่ macOS Catalina ใช้แท็บไฟล์ของ Finder สำหรับการแชร์ไฟล์
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="ฉันสามารถสตรีมเพลงโดยไม่ต้องคัดลอกไฟล์ไปยัง iPhone ได้หรือไม่?" closed="true" %}}
+{{% ls-details title="ฉันสามารถสตรีมเพลงโดยไม่ต้องคัดลอกไฟล์ไปยัง iPhone ได้หรือไม่?" closed="true" %}}
 ได้ ใช้โปรโตคอล SMB เพื่อสตรีมเพลงจาก Mac หรือ PC โดยตรง วิธีนี้ประหยัดพื้นที่เก็บข้อมูลอุปกรณ์และเก็บคลังเพลงไว้ในคอมพิวเตอร์
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="ฉันควรใช้แอปไหน -- Evermusic หรือ Flacbox?" closed="true" %}}
+{{% ls-details title="ฉันควรใช้แอปไหน -- Evermusic หรือ Flacbox?" closed="true" %}}
 ใช้ Evermusic สำหรับรูปแบบมาตรฐานเช่น MP3, WAV และ AAC เลือก Flacbox หากคลังเพลงของคุณมีรูปแบบไม่สูญเสียคุณภาพเช่น FLAC, DSD หรือ OGG
-{{% /details %}}
+{{% /ls-details %}}

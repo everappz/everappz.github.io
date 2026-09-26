@@ -7,7 +7,7 @@ tags: ["muzyka", "audio", "odtwarzacz", "offline", "tryb", "pobieranie", "folder
 keywords: ["muzyka offline iPhone", "synchronizacja muzyki z chmury", "Evermusic offline", "Flacbox synchronizacja muzyki", "odtwarzanie muzyki bez internetu", "pobieranie audio z chmury", "odtwarzanie plików lokalnych iOS"]
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **TL;DR:** Evermusic i Flacbox umożliwiają pobieranie muzyki z pamięci w chmurze (Google Drive, Dropbox, OneDrive i inne) na iPhone lub iPad w celu odtwarzania offline. Możesz użyć trzech metod: bezpośrednie pobieranie, tryb offline z automatyczną synchronizacją lub pamięć podręczna odtwarzacza audio. Ten przewodnik obejmuje wszystkie trzy podejścia krok po kroku.
@@ -140,26 +140,26 @@ Postępując zgodnie z tymi szczegółowymi krokami, możesz bezproblemowo zarz�
 
 ## Często zadawane pytania
 
-{{% details title="Jakie usługi chmurowe obsługują Evermusic i Flacbox?" closed="true" %}}
+{{% ls-details title="Jakie usługi chmurowe obsługują Evermusic i Flacbox?" closed="true" %}}
 Obie aplikacje obsługują Google Drive, Dropbox, OneDrive, Box, MEGA, Yandex.Disk i innych głównych dostawców pamięci w chmurze. Możesz połączyć wiele usług jednocześnie.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Czy mogę automatycznie synchronizować muzykę z pamięci w chmurze na mój iPhone?" closed="true" %}}
+{{% ls-details title="Czy mogę automatycznie synchronizować muzykę z pamięci w chmurze na mój iPhone?" closed="true" %}}
 Tak. Włącz tryb offline dla dowolnego folderu, listy odtwarzania, albumu lub wykonawcy. Aplikacja wykonuje synchronizację jednokierunkową z chmury na urządzenie w konfigurowalnym interwale (domyślnie: raz dziennie).
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Czy tryb offline zużywa dużo pamięci na moim urządzeniu?" closed="true" %}}
+{{% ls-details title="Czy tryb offline zużywa dużo pamięci na moim urządzeniu?" closed="true" %}}
 Zużycie pamięci zależy od rozmiaru kolekcji muzycznej i formatów plików. Możesz to kontrolować, wybierając konkretne foldery do synchronizacji, ustawiając limity rozmiaru pamięci podręcznej i monitorując pamięć w ustawieniach aplikacji.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Jakie formaty audio są obsługiwane do odtwarzania offline?" closed="true" %}}
+{{% ls-details title="Jakie formaty audio są obsługiwane do odtwarzania offline?" closed="true" %}}
 Evermusic i Flacbox obsługują MP3, FLAC, AAC, ALAC, WAV, AIFF, OGG, WMA i wiele innych formatów. Flacbox jest zoptymalizowany pod kątem formatów bezstratnych, takich jak FLAC i ALAC.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Czy moja muzyka offline będzie nadal odtwarzana po zamknięciu aplikacji?" closed="true" %}}
+{{% ls-details title="Czy moja muzyka offline będzie nadal odtwarzana po zamknięciu aplikacji?" closed="true" %}}
 Tak. Pobrane pliki są przechowywane lokalnie na urządzeniu i odtwarzane przez odtwarzacz audio aplikacji niezależnie od połączenia z internetem. Odtwarzanie w tle jest w pełni obsługiwane.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Jak zwolnić miejsce zajmowane przez muzykę offline?" closed="true" %}}
+{{% ls-details title="Jak zwolnić miejsce zajmowane przez muzykę offline?" closed="true" %}}
 Wyłącz tryb offline dla konkretnych folderów w Ustawienia > Menedżer plików > Zsynchronizowane foldery offline. Spowoduje to usunięcie lokalnych kopii z urządzenia. Możesz także wyczyścić pamięć podręczną odtwarzacza audio lub ręcznie usunąć pobrane pliki.
-{{% /details %}}
+{{% /ls-details %}}

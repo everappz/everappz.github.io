@@ -7,7 +7,7 @@ tags: ["小组件", "ios17", "动态", "正在播放", "主屏幕", "sonoma"]
 keywords: ["Evermusic 小组件", "Flacbox 小组件", "正在播放小组件 iOS", "macOS Sonoma 桌面小组件", "音频书签 iPhone", "音乐小组件 Evermusic", "播放控制主屏幕", "动态小组件 iOS 17"]
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **摘要：** Evermusic 和 Flacbox 在 iOS 17+ 和 macOS 14 Sonoma+ 上提供交互式正在播放小组件。您可以直接从 iPhone 主屏幕或 Mac 桌面控制播放、跳过曲目、添加收藏夹和创建音频书签——无需打开应用。
@@ -78,22 +78,22 @@ keywords: ["Evermusic 小组件", "Flacbox 小组件", "正在播放小组件 iO
 
 ## 常见问题
 
-{{% details title="小组件无需打开应用就能工作吗？" closed="true" %}}
+{{% ls-details title="小组件无需打开应用就能工作吗？" closed="true" %}}
 是的。在 iOS 17 和 macOS 14 Sonoma 上，小组件按钮是交互式的，可直接控制播放。应用无需在前台运行。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="我应该选择哪种大小的小组件？" closed="true" %}}
+{{% ls-details title="我应该选择哪种大小的小组件？" closed="true" %}}
 选择小号用于基本的播放/暂停和收藏夹。如果需要跳过按钮，选择中号。如果还需要音频书签，选择大号。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="我可以使用小组件继续收听有声书吗？" closed="true" %}}
+{{% ls-details title="我可以使用小组件继续收听有声书吗？" closed="true" %}}
 可以。在设置中启用"保存音频播放器状态"，小组件将从您上次的位置恢复播放，即使应用已被关闭。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="iPad 上有这些小组件吗？" closed="true" %}}
+{{% ls-details title="iPad 上有这些小组件吗？" closed="true" %}}
 有。iPadOS 17 支持与 iPhone 相同的交互式小组件。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Evermusic 和 Flacbox 都有这些小组件吗？" closed="true" %}}
+{{% ls-details title="Evermusic 和 Flacbox 都有这些小组件吗？" closed="true" %}}
 是的。正在播放小组件在 Evermusic 和 Flacbox 中均可使用，功能完全相同。
-{{% /details %}}
+{{% /ls-details %}}

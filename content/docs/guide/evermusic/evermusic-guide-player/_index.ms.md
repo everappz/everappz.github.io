@@ -17,7 +17,7 @@ Pemain ialah skrin aplikasi utama di mana anda boleh mengawal baris gilir pemain
 ## Mengakses Pemain
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Skrin Pemain Audio Evermusic" image="/docs/guide/evermusic/evermusic-guide-player/img/player-main.webp" >}}
+  {{< ls-card title="" subtitle="Skrin Pemain Audio Evermusic" image="/docs/guide/evermusic/evermusic-guide-player/img/player-main.webp" >}}
 {{< /cards >}}
 
 Anda boleh mengakses pemain skrin penuh dari paparan pemain mini. Pada iPhone anda, anda akan menemui pemain mini di atas tab bar pada skrin utama. Pada iPad atau Mac anda, ia boleh diakses dari menu kiri. Untuk menyembunyikan pemain mini, ketuk ikonnya dan luncur ke bawah. Untuk menyembunyikan sepenuhnya pemain skrin penuh, hanya ketuk butang tutup yang terletak di penjuru kanan bawah.
@@ -44,7 +44,7 @@ Jika anda berasa ingin sesuatu yang rawak, pilihan "Kocok" adalah pilihan anda. 
 ## Kawalan Volum
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Kawalan Volum dengan AirPlay dan Google Cast" image="/docs/guide/evermusic/evermusic-guide-player/img/player-volume-control.webp" >}}
+  {{< ls-card title="" subtitle="Kawalan Volum dengan AirPlay dan Google Cast" image="/docs/guide/evermusic/evermusic-guide-player/img/player-volume-control.webp" >}}
 {{< /cards >}}
 
 Cari gelangsar volum pada skrin Tetapan Audio dengan mengetuk ikon bunyi di bawah kawalan main balik. Anda boleh menukar volum menggunakan gelangsar ini atau butang volum standard pada peranti anda. Selain itu, anda akan menemui beberapa butang penstriman yang berguna:
@@ -63,7 +63,7 @@ Sebaliknya, jika anda lebih suka AirPlay, cari butang AirPlay di bahagian bawah 
 ## Penyama Audio
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Penyama Audio 10-Jalur" image="/docs/guide/evermusic/evermusic-guide-player/img/player-equalizer.webp" >}}
+  {{< ls-card title="" subtitle="Penyama Audio 10-Jalur" image="/docs/guide/evermusic/evermusic-guide-player/img/player-equalizer.webp" >}}
 {{< /cards >}}
 
 Evermusic dilengkapi dengan penyama 10-jalur, lengkap dengan praset gaya iPod, pramplifier, dan tetapan penyama manual. Untuk mengaktifkan penyama, hanya ketuk butang "Penyama" pada bar alat bawah dan togol kawalan suis di penjuru kanan atas. Anda boleh memilih dari pelbagai praset penyama yang ditakrifkan seperti "Acoustic", "Bass Booster", "Classical", dan banyak lagi. Jika anda peminat bunyi, anda akan menghargai kemampuan untuk melaraskan setiap jalur frekuensi menggunakan gelangsar. Jangan ragu untuk membuat dan menyimpan praset penyama audio anda sendiri. Jika trek tidak cukup kuat, anda juga boleh melaraskan gandaan pramplifier. Kami mempunyai arahan lebih terperinci tentang cara menggunakan penyama [di sini](/docs/howto/how-to-use-the-audio-equalizer-on-your-iphone-ipad-mac-with-evermusic-and-flacbox).
@@ -71,7 +71,7 @@ Evermusic dilengkapi dengan penyama 10-jalur, lengkap dengan praset gaya iPod, p
 ## Bar Alat Mod Pemain
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Bar Alat Atas Pemain dengan Cari dan Kelajuan" image="/docs/guide/evermusic/evermusic-guide-player/img/player-top-toolbar.webp" >}}
+  {{< ls-card title="" subtitle="Bar Alat Atas Pemain dengan Cari dan Kelajuan" image="/docs/guide/evermusic/evermusic-guide-player/img/player-top-toolbar.webp" >}}
 {{< /cards >}}
 
 Untuk beberapa gaya skrin pemain, anda akan menemui bar alat mod pemain di bahagian atas skrin pemain, tepat di bawah bar navigasi. Bar alat yang berguna ini menempatkan tiga butang.
@@ -82,7 +82,7 @@ Untuk beberapa gaya skrin pemain, anda akan menemui bar alat mod pemain di bahag
 ## Penanda Buku Audio
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Penanda Buku Audio untuk Buku Audio dan Kuliah" image="/docs/guide/evermusic/evermusic-guide-player/img/player-bookmarks.webp" >}}
+  {{< ls-card title="" subtitle="Penanda Buku Audio untuk Buku Audio dan Kuliah" image="/docs/guide/evermusic/evermusic-guide-player/img/player-bookmarks.webp" >}}
 {{< /cards >}}
 
 Di sinilah anda boleh membuat beberapa penanda buku untuk trek dalam perpustakaan muzik anda. Kami mempunyai arahan penuh tentang cara menggunakan penanda buku [di sini](/docs/howto/how-to-listen-to-audiobooks-on-iphone-ipad-mac-using-evermusic).
@@ -90,7 +90,7 @@ Di sinilah anda boleh membuat beberapa penanda buku untuk trek dalam perpustakaa
 ## Baris Gilir Pemain
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Baris Gilir Pemain" image="/docs/guide/evermusic/evermusic-guide-player/img/player-queue.webp" >}}
+  {{< ls-card title="" subtitle="Baris Gilir Pemain" image="/docs/guide/evermusic/evermusic-guide-player/img/player-queue.webp" >}}
 {{< /cards >}}
 
 Untuk mengakses baris gilir pemain anda, hanya ketuk butang baris gilir pemain yang terletak pada bar alat bawah. Untuk memindahkan lagu dalam baris gilir, gunakan penunjuk susun semula berhampiran tajuk.
@@ -98,7 +98,7 @@ Untuk mengakses baris gilir pemain anda, hanya ketuk butang baris gilir pemain y
 ## Komen / Lirik
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Komen, Lirik Tertanam, dan Fail LRC" image="/docs/guide/evermusic/evermusic-guide-player/img/player-lyrics.webp" >}}
+  {{< ls-card title="" subtitle="Komen, Lirik Tertanam, dan Fail LRC" image="/docs/guide/evermusic/evermusic-guide-player/img/player-lyrics.webp" >}}
 {{< /cards >}}
 
 Untuk melihat komen trek dan lirik tertanam, serta fail LRC, ikuti langkah-langkah berikut:
@@ -114,7 +114,7 @@ Kami mempunyai arahan penuh tentang cara melihat lirik [di sini](/docs/howto/how
 ## Menu Pilihan
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Menu Pilihan untuk Item Baris Gilir" image="/docs/guide/evermusic/evermusic-guide-player/img/player-queue-item-options-menu.webp" >}}
+  {{< ls-card title="" subtitle="Menu Pilihan untuk Item Baris Gilir" image="/docs/guide/evermusic/evermusic-guide-player/img/player-queue-item-options-menu.webp" >}}
 {{< /cards >}}
 
 Setiap lagu dalam baris gilir pemain audio anda mempunyai menu dengan lebih banyak tindakan, yang boleh anda akses dengan mengetuk butang tiga titik berhampiran tajuk lagu. Tindakan yang tersedia ialah:
@@ -153,7 +153,7 @@ Ketuk butang lebih banyak tindakan "..." di sebelah kiri tajuk lagu yang sedang 
 ## Terkini dan Kegemaran
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Lagu Baru Dimainkan dari Pemain" image="/docs/guide/evermusic/evermusic-guide-player/img/player-recents.webp" >}}
+  {{< ls-card title="" subtitle="Lagu Baru Dimainkan dari Pemain" image="/docs/guide/evermusic/evermusic-guide-player/img/player-recents.webp" >}}
 {{< /cards >}}
 
 Pada skrin pemain, anda boleh mengakses bahagian 'Terkini' dan 'Kegemaran' dengan mengetuk butang Lebih banyak tindakan '...' dan memilih item menu masing-masing. Dalam kedua-dua bahagian, anda boleh mencari lagu, memainkan semua trek, mengocok semua trek, mengeksport senarai, dan memadam senarai. Kami mempunyai arahan terperinci tentang cara mengeksport senarai lagu [di sini](/docs/howto/export-tracks-collection-from-evermusic-flacbox-to-m3u-csv-txt/).
@@ -161,7 +161,7 @@ Pada skrin pemain, anda boleh mengakses bahagian 'Terkini' dan 'Kegemaran' denga
 ## Tetingkap Pemain Mini (Eksklusif Mac)
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Tetingkap Pemain Mini Mac" image="/docs/guide/evermusic/evermusic-guide-player/img/player-mini-mac.webp" >}}
+  {{< ls-card title="" subtitle="Tetingkap Pemain Mini Mac" image="/docs/guide/evermusic/evermusic-guide-player/img/player-mini-mac.webp" >}}
 {{< /cards >}}
 
 Untuk pengguna Mac, terdapat tetingkap pemain mini yang berguna. Untuk mengaksesnya, gerakkan kursor anda ke tepi kanan bawah tetingkap apl dan ubah saiznya ke saiz sekecil mungkin. Kemudian, ketuk butang runtuh (digambarkan sebagai anak panah ke bawah) untuk mengaktifkan tetingkap pemain mini. Jika anda ingin memastikannya berada di atas tetingkap lain, pergi ke bar menu atas Mac anda, pilih 'Tetingkap,' dan pilih 'Tunjuk Tetingkap Sentiasa Di Atas.' Ciri ini amat mudah apabila anda mendengar kuliah audio dan tidak mahu sebarang gangguan.
@@ -169,7 +169,7 @@ Untuk pengguna Mac, terdapat tetingkap pemain mini yang berguna. Untuk mengakses
 ## Pintasan Papan Kekunci (Eksklusif Mac)
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Menu Main Balik Bar Status Mac dengan Pintasan Papan Kekunci" image="/docs/guide/evermusic/evermusic-guide-player/img/player-mac-shortcuts.webp" >}}
+  {{< ls-card title="" subtitle="Menu Main Balik Bar Status Mac dengan Pintasan Papan Kekunci" image="/docs/guide/evermusic/evermusic-guide-player/img/player-mac-shortcuts.webp" >}}
 {{< /cards >}}
 
 Untuk pengguna Mac, terdapat menu main balik sistem yang tersedia pada bar status dengan pintasan papan kekunci. Sebagai contoh, untuk Main/Jeda, hanya ketuk bar ruang pada papan kekunci anda. Pintasan untuk Henti, Lagu Seterusnya, Lagu Sebelumnya, Langkau Masa, Ulang, Kocok, dan Kelajuan Main Balik tersedia seperti yang ditunjukkan dalam tangkapan skrin.
@@ -177,7 +177,7 @@ Untuk pengguna Mac, terdapat menu main balik sistem yang tersedia pada bar statu
 ## Tetapan Pemain Audio
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Tetapan Pemain Audio" image="/docs/guide/evermusic/evermusic-guide-player/img/player-settings.webp" >}}
+  {{< ls-card title="" subtitle="Tetapan Pemain Audio" image="/docs/guide/evermusic/evermusic-guide-player/img/player-settings.webp" >}}
 {{< /cards >}}
 
 Untuk mengakses tetapan pemain audio, ketuk butang Lagi pada skrin pemain audio dan pilih "Tetapan" dari menu juntai bawah. Di sini, anda akan menemui pelbagai bahagian yang dikumpulkan mengikut fungsi:

@@ -12,7 +12,7 @@ authors:
     image: "/images/about/artem-meleshko-founder-everappz.webp"
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 **TL;DR:** Evermusic 3.6 thêm tích hợp Apple CarPlay, hỗ trợ VoiceOver đầy đủ, đầu ra âm thanh hỗn hợp, tự động tiếp tục phát, chỉnh sửa ảnh bìa và thẻ cho FLAC/MP3/AIFF, và nhập tệp từ iCloud Drive.
 
@@ -78,18 +78,18 @@ Nhập tệp nhạc trực tiếp từ iCloud Drive và các ứng dụng khác:
 
 ## FAQ
 
-{{% details title="Evermusic có hoạt động với CarPlay không?" closed="true" %}}
+{{% ls-details title="Evermusic có hoạt động với CarPlay không?" closed="true" %}}
 Có. Bắt đầu từ phiên bản 3.6, Evermusic hỗ trợ đầy đủ Apple CarPlay. Bạn có thể duyệt và phát thư viện nhạc từ màn hình tích hợp trên xe.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Evermusic có hỗ trợ cho người mù hoặc khiếm thị không?" closed="true" %}}
+{{% ls-details title="Evermusic có hỗ trợ cho người mù hoặc khiếm thị không?" closed="true" %}}
 Có. Evermusic 3.6 bao gồm hỗ trợ VoiceOver đầy đủ với nhãn mô tả, gợi ý và chế độ giao diện đơn giản hóa.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Tôi có thể chỉnh sửa thẻ FLAC trên iPhone bằng Evermusic không?" closed="true" %}}
+{{% ls-details title="Tôi có thể chỉnh sửa thẻ FLAC trên iPhone bằng Evermusic không?" closed="true" %}}
 Có. Evermusic bao gồm trình chỉnh sửa thẻ tích hợp hoạt động với tệp FLAC, MP3 và AIFF. Bạn có thể chỉnh sửa tên bài hát, nghệ sĩ, album và ảnh bìa.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Evermusic có nhớ nơi tôi dừng nghe không?" closed="true" %}}
+{{% ls-details title="Evermusic có nhớ nơi tôi dừng nghe không?" closed="true" %}}
 Có. Khi bật "Save Audio Player State", Evermusic khôi phục hàng đợi, bài hát hiện tại và vị trí phát chính xác khi bạn mở lại ứng dụng.
-{{% /details %}}
+{{% /ls-details %}}

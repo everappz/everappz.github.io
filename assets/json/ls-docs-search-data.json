@@ -1,0 +1,36 @@
+{{/* Everappz — scoped FlexSearch index for the docs + support sections only.
+     Independent of the theme's global search-data.json (which indexes the whole site). */}}
+{{- $indexType := site.Params.search.flexsearch.index | default "content" -}}
+
+{{- /* Docs articles are branch bundles (_index.md → Kind "section"), so we must
+       include sections. The cycle-safety comes from building this index in
+       custom/head-end.html (before body content renders) while the ls-docs-search
+       shortcode renders markup only — so reading a page's content never rebuilds
+       the index. */ -}}
+{{- $pages := where .Site.Pages "Kind" "in" (slice "page" "section") -}}
+{{- $pages = where $pages "Params.excludeSearch" "!=" true -}}
+{{- $pages = where $pages "Content" "!=" "" -}}
+{{- $pages = where $pages "Section" "in" (slice "docs" "support") -}}
+
+{{- $output := dict -}}
+
+{{- range $index, $page := $pages -}}
+  {{- $pageTitle := $page.LinkTitle | default $page.File.BaseFileName -}}
+  {{- $pageLink := $page.RelPermalink -}}
+  {{- $data := partial "utils/fragments" (dict "context" $page "type" $indexType) -}}
+  {{- /* Add each FAQ <details> question as its own deep-linkable fragment
+         (anchor#question -> answer). The ls-details shortcode populated the
+         page Store during the fragments render above. */ -}}
+  {{- with $page.Store.Get "faqItems" -}}
+    {{- range . -}}
+      {{- if and .question .anchor -}}
+        {{- $data = merge $data (dict (printf "%s#%s" .anchor .question) .answer) -}}
+      {{- end -}}
+    {{- end -}}
+  {{- end -}}
+  {{- /* Strip the ls-author-byline text (name + title) so authors don't pollute results. */ -}}
+  {{- $data = partial "ls-strip-byline" $data -}}
+  {{- $output = $output | merge (dict $pageLink (dict "title" $pageTitle "data" $data)) -}}
+{{- end -}}
+
+{{- $output | jsonify -}}

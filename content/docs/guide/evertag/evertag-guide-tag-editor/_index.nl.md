@@ -15,7 +15,7 @@ readingTime: 5
 De **Taggeditor** is het hoofdscherm van de Evertag-app waar je audiobestandmetadata kunt bekijken en bewerken. Open dit scherm door op een bestand te tikken in het gedeelte **Lokale bestanden** of vanuit een verbonden **cloudopslag**-account.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evertag Taggeditor Scherm" image="/docs/guide/evertag/img/tag-editor.webp" >}}
+  {{< ls-card title="" subtitle="Evertag Taggeditor Scherm" image="/docs/guide/evertag/img/tag-editor.webp" >}}
 {{< /cards >}}
 
 ## Bewerkingsmodi
@@ -38,7 +38,7 @@ Standaard opent de app de taggeditor in de enkelvoudige bestandsmodus met alleen
 Om toegang te krijgen tot alle beschikbare tags, scrol naar de onderkant van het scherm en tik op de optie **Uitgebreide tags weergeven**. Dit schakelt de editor over naar de uitgebreide modus, waarmee je meer dan **120 metadatavelden** kunt bewerken, inclusief **MusicBrainz-tags**, **songteksten**, **adviesbeoordelingen**, replay-gain-waarden, sorteerorders, podcast-metadata en meer. Gebruik **Instellingen → Audio-taggeditor → Knoppen op het hoofdscherm** om Uitgebreide tags weergeven permanent in te schakelen.
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Onderste actiepaneel" image="/docs/guide/evertag/img/tag-editor-bottom-actions.webp" >}}
+{{< ls-card title="" subtitle="Onderste actiepaneel" image="/docs/guide/evertag/img/tag-editor-bottom-actions.webp" >}}
 {{< /cards >}}
 
 ## Batchmodus
@@ -53,7 +53,7 @@ Je kunt op twee manieren batchbewerking starten:
    - Open een bestand, scrol naar beneden en tik op **Bestanden tegelijkertijd bewerken** om alle bestanden uit dezelfde map te laden.
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Batchbewerkingsmodus" image="/docs/guide/evertag/img/tag-editor-batch-editing.webp" >}}
+{{< ls-card title="" subtitle="Batchbewerkingsmodus" image="/docs/guide/evertag/img/tag-editor-batch-editing.webp" >}}
 {{< /cards >}}
 
 Tik na het bewerken op **Opslaan** om wijzigingen toe te passen.
@@ -72,19 +72,19 @@ Je hoeft songteksten niet from scratch te typen. De editor bevat zoekopdrachten 
 Elke snelkoppeling verschijnt alleen wanneer de bijbehorende service bereikbaar is vanaf je apparaat. Tik op een service, kopieer de songteksten (of LRC-tijdstempels) die je wilt, ga terug naar Evertag en plak ze in het tekstveld — tik dan op **Opslaan** om de songteksten terug te schrijven naar de tags van het audiobestand.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Songtekstpagina's" image="/docs/guide/evertag/img/tag-editor-lyrics-pages.webp" >}}
+  {{< ls-card title="" subtitle="Songtekstpagina's" image="/docs/guide/evertag/img/tag-editor-lyrics-pages.webp" >}}
 {{< /cards >}}
 
 Kies een taal uit de kiezer:
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Songteksttaalkiezer" image="/docs/guide/evertag/img/tag-editor-lyrics-language-select.webp" >}}
+  {{< ls-card title="" subtitle="Songteksttaalkiezer" image="/docs/guide/evertag/img/tag-editor-lyrics-language-select.webp" >}}
 {{< /cards >}}
 
 Plak of typ vervolgens de songtekst. Evertag ondersteunt zowel platte tekst als getimede (gesynchroniseerde) songteksten — de plaatsaanduiding toont een voorbeeld van het LRC-stijlformaat, wat precies is wat Lrclib en Lyricsify retourneren voor gesynchroniseerde resultaten.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Songteksteditor" image="/docs/guide/evertag/img/tag-editor-lyrics-text.webp" >}}
+  {{< ls-card title="" subtitle="Songteksteditor" image="/docs/guide/evertag/img/tag-editor-lyrics-text.webp" >}}
 {{< /cards >}}
 
 ## Een beoordeling en adviesbeoordeling instellen
@@ -96,7 +96,7 @@ De uitgebreide editor biedt een ster **Beoordeling**-besturingselement naast een
 Gebruik het veld **Beoordeling** om een nummer een persoonlijke score van één tot vijf sterren te geven. De waarde wordt geschreven in de standaard beoordelingstag van het bestand (POPM voor ID3, `rate` voor MP4, `RATING` voor Vorbis/APE, enz.), zodat andere apps die deze tag lezen — inclusief de Muziek-app, Plex, Roon en de meeste desktop-taggeditors — je scores onmiddellijk opnemen.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Beoordeling" image="/docs/guide/evertag/img/tag-editor-rating.webp" >}}
+  {{< ls-card title="" subtitle="Beoordeling" image="/docs/guide/evertag/img/tag-editor-rating.webp" >}}
 {{< /cards >}}
 
 ### Adviesbeoordeling
@@ -117,7 +117,7 @@ Je wilt dit veld instellen of corrigeren wanneer:
 De waarde is opgeslagen in het standaard adviesbeoordelingsveld voor het bestandsformaat (`rtng` voor MP4, `TXXX:ITUNESADVISORY` voor ID3, `ITUNESADVISORY` voor Vorbis), zodat elke speler die ouderlijk advies-metadata leest je update ziet.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Adviesbeoordeling songteksten" image="/docs/guide/evertag/img/lyrics-advisory-rating.webp" >}}
+  {{< ls-card title="" subtitle="Adviesbeoordeling songteksten" image="/docs/guide/evertag/img/lyrics-advisory-rating.webp" >}}
 {{< /cards >}}
 
 ## Albumhoes bewerken
@@ -129,7 +129,7 @@ Een albumhoes wijzigen:
 3. Selecteer een afbeelding om als omslagart toe te passen.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Afbeelding selecteren" image="/docs/guide/evertag/img/select-image.webp" >}}
+  {{< ls-card title="" subtitle="Afbeelding selecteren" image="/docs/guide/evertag/img/select-image.webp" >}}
 {{< /cards >}}
 
 ## Meer acties in de taggeditor
@@ -137,7 +137,7 @@ Een albumhoes wijzigen:
 Extra bewerkingsopties zijn beschikbaar via de werkbalk onder de artworkweergave.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Menu Meer acties" image="/docs/guide/evertag/img/tag-editor-more-actions.webp" >}}
+  {{< ls-card title="" subtitle="Menu Meer acties" image="/docs/guide/evertag/img/tag-editor-more-actions.webp" >}}
 {{< /cards >}}
 
 ### Audiotags automatisch zoeken
@@ -150,13 +150,13 @@ De app gebruikt de MusicBrainz-database — een van de meest uitgebreide tagdata
 Gebruik metadata om het juiste albumartwork te zoeken op het web.  
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Albumhoes zoeken" image="/docs/guide/evertag/img/search-album-cover.webp" >}}
+  {{< ls-card title="" subtitle="Albumhoes zoeken" image="/docs/guide/evertag/img/search-album-cover.webp" >}}
 {{< /cards >}}
 
 Sla de afbeelding op in je **Foto's** via het systeemcontextmenu als je het hebt gevonden.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Afbeelding toevoegen aan Foto's" image="/docs/guide/evertag/img/add-image-to-photos.webp" >}}
+  {{< ls-card title="" subtitle="Afbeelding toevoegen aan Foto's" image="/docs/guide/evertag/img/add-image-to-photos.webp" >}}
 {{< /cards >}}
 
 Ga daarna terug naar de taggeditor, tik op het camerapictogram, ga naar **Fotobibliotheek** en selecteer de opgeslagen afbeelding. De app stelt deze in als de hoes voor je audiobestand.
@@ -178,19 +178,19 @@ Zoek handmatig naar albummetadata met behulp van de MusicBrainz-database.
 - Selecteer het album  
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Album selecteren" image="/docs/guide/evertag/img/select-album-results.webp" >}}
+  {{< ls-card title="" subtitle="Album selecteren" image="/docs/guide/evertag/img/select-album-results.webp" >}}
 {{< /cards >}}
 
 - Kies het juiste nummer  
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Nummer selecteren" image="/docs/guide/evertag/img/select-a-song.webp" >}}
+  {{< ls-card title="" subtitle="Nummer selecteren" image="/docs/guide/evertag/img/select-a-song.webp" >}}
 {{< /cards >}}
 
 - Kies welke tags toe te passen  
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Audiotags selecteren" image="/docs/guide/evertag/img/select-audio-tags.webp" >}}
+  {{< ls-card title="" subtitle="Audiotags selecteren" image="/docs/guide/evertag/img/select-audio-tags.webp" >}}
 {{< /cards >}}
 
 Tik op **Voltooid** om de geselecteerde metadata op je nummer toe te passen.

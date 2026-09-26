@@ -12,7 +12,7 @@ authors:
     image: "/images/about/artem-meleshko-founder-everappz.webp"
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 **Flacbox 1.6** מביא תכונות חדשות משמעותיות לנגן המוזיקה FLAC ל-iPhone ו-iPad.
 
@@ -68,18 +68,18 @@ Flacbox 1.6 זמין כעת ב-App Store. [הורידו את Flacbox](https://it
 
 ## שאלות נפוצות
 
-{{% details title="באילו פורמטי אודיו Flacbox תומך?" closed="true" %}}
+{{% ls-details title="באילו פורמטי אודיו Flacbox תומך?" closed="true" %}}
 Flacbox תומך ב-FLAC, ALAC, MP3, AAC, OGG, OPUS, WAV, AIFF, DSD ופורמטי אודיו פופולריים נוספים. כל הפורמטים עובדים עם האקולייזר המובנה.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="האם ניתן לנגן מוזיקה מכרטיס SD באייפון?" closed="true" %}}
+{{% ls-details title="האם ניתן לנגן מוזיקה מכרטיס SD באייפון?" closed="true" %}}
 כן. חברו כרטיס SD או microSD באמצעות מתאם Lightning לקורא כרטיסי SD. Flacbox מזהה את הכרטיס אוטומטית ומאפשר לכם לדפדף ולנגן קבצים ישירות מהאחסון החיצוני.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="האם Flacbox מסתנכרן עם אחסון ענן אוטומטית?" closed="true" %}}
+{{% ls-details title="האם Flacbox מסתנכרן עם אחסון ענן אוטומטית?" closed="true" %}}
 כן. החל מגרסה 1.6, Flacbox יכול לסנכרן אוטומטית את ספריית המוזיקה שלכם מתיקיות ענן. הפעילו סנכרון אוטומטי בהגדרות ובחרו את התיקיות שברצונכם לעקוב אחריהן.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="האם האקולייזר של Flacbox ניתן להתאמה אישית?" closed="true" %}}
+{{% ls-details title="האם האקולייזר של Flacbox ניתן להתאמה אישית?" closed="true" %}}
 כן. האקולייזר בן 10 הפסים מאפשר לכם לכוונן רמות תדר בודדות בין -12 dB ל-+12 dB. תוכלו להשתמש בהגדרות מוכנות או לשמור הגדרות מותאמות אישית משלכם.
-{{% /details %}}
+{{% /ls-details %}}

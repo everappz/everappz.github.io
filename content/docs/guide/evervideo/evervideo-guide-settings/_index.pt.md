@@ -23,7 +23,7 @@ readingTime: 16
 O ecrã de Configurações é o centro de controlo do Evervideo. A partir daqui pode atualizar para Premium, configurar os motores de vídeo e áudio (codecs de sistema ou FFmpeg), gerir a Imagem-em-imagem, configurar legendas (primárias, secundárias, libass, ficheiros externos, tipos de letra), organizar a biblioteca de multimédia, configurar o gestor de ficheiros, ativar widgets do ecrã principal, fazer cópia de segurança dos dados e aceder à ajuda e informação legal. As secções estão agrupadas sob cabeçalhos: Compras e Atualizações, Preferências da aplicação, Ajuda, Legal e Privacidade.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Ecrã Principal de Configurações do Evervideo" image="/docs/guide/evervideo/img/evervideo-settings.webp" >}}
+  {{< ls-card title="" subtitle="Ecrã Principal de Configurações do Evervideo" image="/docs/guide/evervideo/img/evervideo-settings.webp" >}}
 {{< /cards >}}
 
 ## Atualizar para Premium
@@ -31,13 +31,13 @@ O ecrã de Configurações é o centro de controlo do Evervideo. A partir daqui 
 Atualize a aplicação para a versão Premium para remover todos os limites. A versão gratuita da aplicação oferece uma compra única vitalícia e duas opções de subscrição (1 mês e 1 ano) para remover todas as restrições e atualizar para Premium.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evervideo — Atualizar para Premium" image="/docs/guide/evervideo/img/evervideo-upgrade-to-premium.webp" >}}
+  {{< ls-card title="" subtitle="Evervideo — Atualizar para Premium" image="/docs/guide/evervideo/img/evervideo-upgrade-to-premium.webp" >}}
 {{< /cards >}}
 
 O **Family Sharing** está ativado para todas as compras e planos, para que possa partilhar a versão Premium com até cinco membros da família sem custo extra.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evervideo — Selecionar um Plano Premium" image="/docs/guide/evervideo/img/evervideo-select-premium-plan.webp" >}}
+  {{< ls-card title="" subtitle="Evervideo — Selecionar um Plano Premium" image="/docs/guide/evervideo/img/evervideo-select-premium-plan.webp" >}}
 {{< /cards >}}
 
 ## Partilhar Compras Entre iOS e Mac
@@ -51,7 +51,7 @@ Também pode tocar no botão **Restaurar Compras** nas configurações da aplica
 Para restaurar a compra num novo dispositivo, use o menu **Compras → Restaurar Compras**. Verá a lista das suas compras. Se não vir todas, confirme que o dispositivo está ligado ao mesmo Apple ID que foi usado para fazer as compras, e certifique-se de que o iCloud está ativado.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Menu de Compras nas Configurações do Evervideo" image="/docs/guide/evervideo/img/evervideo-purhases-menu-in-settings.webp" >}}
+  {{< ls-card title="" subtitle="Menu de Compras nas Configurações do Evervideo" image="/docs/guide/evervideo/img/evervideo-purhases-menu-in-settings.webp" >}}
 {{< /cards >}}
 
 ## Experimentar Premium Gratuitamente

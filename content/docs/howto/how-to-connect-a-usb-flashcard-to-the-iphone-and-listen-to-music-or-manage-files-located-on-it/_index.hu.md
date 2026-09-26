@@ -7,7 +7,7 @@ tags: ["zene", "fájlok", "usb", "flash", "külső", "ixpand", "lejátszás", "k
 readingTime: 2
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **Összefoglaló:** Csatlakoztasson egy USB flash meghajtót vagy SD kártyát iPhone-jához Apple adapter vagy SanDisk iXpand meghajtó segítségével, majd használja az Evermusic, Flacbox vagy Evertag alkalmazást a hangfájlok böngészéséhez, lejátszásához és kezeléséhez közvetlenül a külső tárhelyről.
@@ -72,18 +72,18 @@ Használhatja a beépített fájlkezelőt fájljai MÁSOLÁSÁHOZ, ÁTHELYEZÉS�
 
 ## Gyakran ismételt kérdések
 
-{{% details title="Mely USB adapterek működnek az iPhone-nal zenelejátszáshoz?" closed="true" %}}
+{{% ls-details title="Mely USB adapterek működnek az iPhone-nal zenelejátszáshoz?" closed="true" %}}
 Mind az Apple Lightning to SD Card Camera Reader, mind a Lightning to USB 3 Camera Adapter működik. Az USB-C adapterek az újabb, USB-C porttal rendelkező iPhone-okon működnek. A SanDisk iXpand Flash meghajtókat (V1-V7) is natívan támogatja az Evermusic, Flacbox és Evertag.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Lejátszhatom a zenét közvetlenül az USB meghajtóról fájlok másolása nélkül?" closed="true" %}}
+{{% ls-details title="Lejátszhatom a zenét közvetlenül az USB meghajtóról fájlok másolása nélkül?" closed="true" %}}
 Igen. A SanDisk iXpand meghajtókkal közvetlenül a meghajtóról játszhat le zenét anélkül, hogy fájlokat másolna az iPhone-ra. Apple adapterek használata esetén a fájlok importálódnak, de választhat, hogy másolja-e őket a helyi tárhelyre.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Milyen hangformátumokat támogatnak az USB meghajtók?" closed="true" %}}
+{{% ls-details title="Milyen hangformátumokat támogatnak az USB meghajtók?" closed="true" %}}
 Az Evermusic és a Flacbox a formátumok széles skáláját támogatja, beleértve a FLAC, MP3, AAC, WAV, ALAC, OGG, WMA és egyéb formátumokat. Az összes támogatott formátum működik USB tárhelyről történő lejátszáskor.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="A SanDisk iXpand 'foglalt' hibát mutat. Mit tegyek?" closed="true" %}}
+{{% ls-details title="A SanDisk iXpand 'foglalt' hibát mutat. Mit tegyek?" closed="true" %}}
 Egy másik alkalmazás érheti el a meghajtót. Zárja be az összes többi alkalmazást, amely a flash meghajtót használhatja, vagy húzza ki és helyezze be újra. Ezután nyissa meg újra az Evermusic, Flacbox vagy Evertag alkalmazást.
-{{% /details %}}
+{{% /ls-details %}}

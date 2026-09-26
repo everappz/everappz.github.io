@@ -7,7 +7,7 @@ tags: ["lyrics", "mp3", "id3", "metadata", "iphone", "audio editing"]
 readingTime: 2
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **Кратко:** Используйте бесплатное приложение **Evertag** для редактирования несинхронизированных текстов песен, рейтингов содержания и более 120 аудиотегов на iPhone или Mac. Работает с локальными и облачными файлами, поддерживает пакетное редактирование и сохраняет тексты, видимые в Evermusic, Flacbox и других плеерах.
@@ -23,8 +23,8 @@ readingTime: 2
 Начните с загрузки приложения **Evertag** из App Store. Оно доступно для **iOS** и **macOS** и бесплатно для использования.
 
 {{< cards cols="2">}}
-{{< card link="https://apps.apple.com/app/apple-store/id1450763230?pt=95781850&ct=everappzcom&mt=8" title="Evertag для iOS" icon="download" tag="Free" >}}
-{{< card link="https://apps.apple.com/app/apple-store/id1594027661?pt=95781850&ct=everappzcom&mt=8" title="Evertag для macOS" icon="download" tag="Free" >}}
+{{< ls-card link="https://apps.apple.com/app/apple-store/id1450763230?pt=95781850&ct=everappzcom&mt=8" title="Evertag для iOS" icon="download" tag="Free" >}}
+{{< ls-card link="https://apps.apple.com/app/apple-store/id1594027661?pt=95781850&ct=everappzcom&mt=8" title="Evertag для macOS" icon="download" tag="Free" >}}
 {{< /cards >}}
 
 ## Подключить облачный аккаунт
@@ -38,13 +38,13 @@ readingTime: 2
 - Нажмите **Подключить к облачному хранилищу**
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Подключить к облачному хранилищу" image="/docs/howto/how-to-edit-lyrics-for-audio-files-on-iphone-mac/connect-to-cloud-storage.webp" >}}
+{{< ls-card title="" subtitle="Подключить к облачному хранилищу" image="/docs/howto/how-to-edit-lyrics-for-audio-files-on-iphone-mac/connect-to-cloud-storage.webp" >}}
 {{< /cards >}}
 
 - Выберите поддерживаемого провайдера, введите свои учётные данные и нажмите **Готово**
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Подключить к облачному хранилищу" image="/docs/howto/how-to-edit-lyrics-for-audio-files-on-iphone-mac/connect-to-cloud-storage.webp" >}}
+{{< ls-card title="" subtitle="Подключить к облачному хранилищу" image="/docs/howto/how-to-edit-lyrics-for-audio-files-on-iphone-mac/connect-to-cloud-storage.webp" >}}
 {{< /cards >}}
 
 - После подключения ваше облачное хранилище появится в разделе **Облачное хранилище** приложения.
@@ -52,7 +52,7 @@ readingTime: 2
 - Нажмите на подключённое облачное хранилище, чтобы просмотреть и загрузить содержимое его папок.
   
 {{< cards cols="1">}}
-{{< card title="" subtitle="Список файлов облачного хранилища" image="/docs/howto/how-to-edit-lyrics-for-audio-files-on-iphone-mac/cloud-storage-list-audio-files.webp" >}}
+{{< ls-card title="" subtitle="Список файлов облачного хранилища" image="/docs/howto/how-to-edit-lyrics-for-audio-files-on-iphone-mac/cloud-storage-list-audio-files.webp" >}}
 {{< /cards >}}
 
 ## Подключить локальную папку
@@ -74,7 +74,7 @@ readingTime: 2
 - Прокрутите вниз до **Файлы на этом устройстве** в меню боковой панели
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Папки устройства" image="/docs/howto/how-to-edit-lyrics-for-audio-files-on-iphone-mac/device-folders.webp" >}}
+{{< ls-card title="" subtitle="Папки устройства" image="/docs/howto/how-to-edit-lyrics-for-audio-files-on-iphone-mac/device-folders.webp" >}}
 {{< /cards >}}
   
 - Нажмите на пункт меню **Все папки устройства**
@@ -91,7 +91,7 @@ readingTime: 2
 **Редактор тегов** — это главный экран приложения Evertag, где вы можете просматривать и редактировать метаданные аудиофайлов. Откройте этот экран, нажав на файл из раздела **Локальные файлы** или из любого подключённого **облачного хранилища**.
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Экран редактора тегов Evertag" image="/docs/howto/how-to-edit-lyrics-for-audio-files-on-iphone-mac/cloud-storage-audio-file-tag-editor.webp" >}}
+{{< ls-card title="" subtitle="Экран редактора тегов Evertag" image="/docs/howto/how-to-edit-lyrics-for-audio-files-on-iphone-mac/cloud-storage-audio-file-tag-editor.webp" >}}
 {{< /cards >}}
 
 ## Режимы редактирования
@@ -112,7 +112,7 @@ Evertag предоставляет два режима редактирован�
 Чтобы получить доступ ко всем доступным тегам, прокрутите до конца экрана и нажмите на опцию **Показать расширенные теги**. Это переключит редактор в расширенный режим, позволяя редактировать более **120 полей метаданных**, включая **теги MusicBrainz**, **тексты песен**, **рейтинги содержания** и многое другое.
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Нижняя панель действий" image="/docs/howto/how-to-edit-lyrics-for-audio-files-on-iphone-mac/show-extended-tags.webp" >}}
+{{< ls-card title="" subtitle="Нижняя панель действий" image="/docs/howto/how-to-edit-lyrics-for-audio-files-on-iphone-mac/show-extended-tags.webp" >}}
 {{< /cards >}}
 
 ## Пакетный режим
@@ -137,7 +137,7 @@ Evertag предоставляет два режима редактирован�
 В режиме **Расширенные теги** прокрутите вниз и нажмите на текстовое поле **Несинхронизированные тексты**.
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Текстовое поле несинхронизированных текстов" image="/docs/howto/how-to-edit-lyrics-for-audio-files-on-iphone-mac/advisory-rating-2.webp" >}}
+{{< ls-card title="" subtitle="Текстовое поле несинхронизированных текстов" image="/docs/howto/how-to-edit-lyrics-for-audio-files-on-iphone-mac/advisory-rating-2.webp" >}}
 {{< /cards >}}
 
 > Аудиофайлы, поддерживающие **теги ID3** (такие как `.mp3` или `.wav`), позволяют добавлять тексты на нескольких языках. Если вы редактируете файл с тегами ID3, Evertag включает полную поддержку нескольких языков.  
@@ -148,7 +148,7 @@ Evertag предоставляет два режима редактирован�
 Если вы редактируете теги ID3, на следующем экране появится кнопка **Добавить новую страницу**. Нажмите её, чтобы начать добавление новой записи текста.
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Добавить новую страницу текстов" image="/docs/howto/how-to-edit-lyrics-for-audio-files-on-iphone-mac/add-new-page.webp" >}}
+{{< ls-card title="" subtitle="Добавить новую страницу текстов" image="/docs/howto/how-to-edit-lyrics-for-audio-files-on-iphone-mac/add-new-page.webp" >}}
 {{< /cards >}}
 
 ### Выбрать язык, комментарий и содержание текста
@@ -159,7 +159,7 @@ Evertag предоставляет два режима редактирован�
 - Ввести фактический **текст песни**
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Выбрать язык" image="/docs/howto/how-to-edit-lyrics-for-audio-files-on-iphone-mac/choose-language.webp" >}}
+{{< ls-card title="" subtitle="Выбрать язык" image="/docs/howto/how-to-edit-lyrics-for-audio-files-on-iphone-mac/choose-language.webp" >}}
 {{< /cards >}}
 
 ### Ввести текст песни
@@ -169,7 +169,7 @@ Evertag предоставляет два режима редактирован�
 > Совет: Ищете качественные тексты песен? Посетите [lyricsify.com](https://www.lyricsify.com), чтобы найти тексты в формате LRC для тысяч треков.
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Добавленные тексты" image="/docs/howto/how-to-edit-lyrics-for-audio-files-on-iphone-mac/added-lyrics.webp" >}}
+{{< ls-card title="" subtitle="Добавленные тексты" image="/docs/howto/how-to-edit-lyrics-for-audio-files-on-iphone-mac/added-lyrics.webp" >}}
 {{< /cards >}}
 
 ### Нажмите «Готово» для подтверждения
@@ -177,7 +177,7 @@ Evertag предоставляет два режима редактирован�
 После ввода текстов нажмите **Готово** на странице текстов. Затем нажмите **Готово** снова на предыдущем экране для подтверждения изменений.
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Сохранённые тексты" image="/docs/howto/how-to-edit-lyrics-for-audio-files-on-iphone-mac/saved-lyrics.webp" >}}
+{{< ls-card title="" subtitle="Сохранённые тексты" image="/docs/howto/how-to-edit-lyrics-for-audio-files-on-iphone-mac/saved-lyrics.webp" >}}
 {{< /cards >}}
 
 ### Сохранить изменения тегов
@@ -185,7 +185,7 @@ Evertag предоставляет два режима редактирован�
 Наконец, на экране **Редактор тегов** нажмите **Сохранить**, чтобы записать обновлённые теги — включая ваши новые тексты — обратно в файл.
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Редактор тегов с текстами" image="/docs/howto/how-to-edit-lyrics-for-audio-files-on-iphone-mac/tags-editor-with-lyrics.webp" >}}
+{{< ls-card title="" subtitle="Редактор тегов с текстами" image="/docs/howto/how-to-edit-lyrics-for-audio-files-on-iphone-mac/tags-editor-with-lyrics.webp" >}}
 {{< /cards >}}
 
 ### Установить рейтинг содержания текстов
@@ -204,22 +204,22 @@ Evertag предоставляет два режима редактирован�
 
 ## Часто задаваемые вопросы
 
-{{% details title="Какие аудиоформаты поддерживает Evertag для редактирования текстов?" closed="true" %}}
+{{% ls-details title="Какие аудиоформаты поддерживает Evertag для редактирования текстов?" closed="true" %}}
 Evertag поддерживает более 30 аудиоформатов, включая MP3, FLAC, WAV, M4A, OGG, AIFF и другие. Вы можете редактировать тексты и другие теги метаданных в любом из этих форматов.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Могу ли я добавить тексты на нескольких языках?" closed="true" %}}
+{{% ls-details title="Могу ли я добавить тексты на нескольких языках?" closed="true" %}}
 Да, но только для аудиофайлов, использующих теги ID3 (таких как MP3 и WAV). Для других форматов, таких как FLAC или M4A, поддерживается только одна запись текста.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Поддерживает ли Evertag пакетное редактирование текстов?" closed="true" %}}
+{{% ls-details title="Поддерживает ли Evertag пакетное редактирование текстов?" closed="true" %}}
 Да. Вы можете войти в пакетный режим для редактирования метаданных нескольких файлов одновременно. Это полезно для применения одинакового рейтинга содержания текстов или других общих тегов ко всему альбому.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Будут ли отредактированные тексты отображаться в Apple Music или Spotify?" closed="true" %}}
+{{% ls-details title="Будут ли отредактированные тексты отображаться в Apple Music или Spotify?" closed="true" %}}
 Тексты, отредактированные с помощью Evertag, встроены в метаданные аудиофайла. Они будут отображаться в любом музыкальном плеере, который читает встроенные теги текстов, таком как Evermusic, Flacbox, VLC и foobar2000. Стриминговые приложения, такие как Spotify и Apple Music, используют собственные базы данных текстов и не читают встроенные теги.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Могу ли я редактировать теги для файлов, хранящихся в облаке?" closed="true" %}}
+{{% ls-details title="Могу ли я редактировать теги для файлов, хранящихся в облаке?" closed="true" %}}
 Да. Evertag поддерживает подключение к облачным сервисам хранения. Приложение загружает файл, позволяет вам отредактировать теги и автоматически загружает обновлённый файл обратно в облако.
-{{% /details %}}
+{{% /ls-details %}}

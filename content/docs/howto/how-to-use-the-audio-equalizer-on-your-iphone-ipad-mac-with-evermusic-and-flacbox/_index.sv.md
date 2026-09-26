@@ -7,7 +7,7 @@ tags: ["musik", "ljud", "equalizer", "10-bands", "förstärkning", "konfiguratio
 keywords: ["ljudequalizer iPhone", "Evermusic EQ-förinställningar", "Flacbox 10-bands equalizer", "justera bas diskant iOS", "equalizer Mac musikapp", "förstärka ljud med förförstärkare", "anpassade ljudförinställningar"]
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **Sammanfattning:** Evermusic och Flacbox inkluderar en professionell 10-bands ljudequalizer med förinställningar (Rock, Hip-Hop, Bass Booster och mer), skapande av anpassade förinställningar och en förförstärkare för volymförstärkning. Tillgänglig på iPhone, iPad och Mac.
@@ -105,26 +105,26 @@ Höj din musikupplevelse, anpassa ditt ljud till alla scenarier och njut av perf
 
 ## Vanliga frågor
 
-{{% details title="Fungerar equalizern med alla ljudformat?" closed="true" %}}
+{{% ls-details title="Fungerar equalizern med alla ljudformat?" closed="true" %}}
 Ja. 10-bands EQ i Evermusic och Flacbox fungerar med MP3, FLAC, AAC, WAV, ALAC, OGG och alla andra stödda format.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Gäller EQ-inställningarna för alla låtar?" closed="true" %}}
+{{% ls-details title="Gäller EQ-inställningarna för alla låtar?" closed="true" %}}
 Ja. När du aktiverar equalizern och väljer en förinställning gäller den för all uppspelning tills du ändrar den eller stänger av den.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Kan jag skapa mer än en anpassad förinställning?" closed="true" %}}
+{{% ls-details title="Kan jag skapa mer än en anpassad förinställning?" closed="true" %}}
 Ja. Du kan skapa, spara och växla mellan flera anpassade förinställningar. Använd exportfunktionen för att säkerhetskopiera dem.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Orsakar förförstärkaren distortion?" closed="true" %}}
+{{% ls-details title="Orsakar förförstärkaren distortion?" closed="true" %}}
 Det kan den om den är inställd för högt. Håll koll på ljudnivåindikatorerna medan du justerar. Om nivåerna klipper (når toppen), minska förförstärkarförstärkningen något.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Är equalizern tillgänglig på både Evermusic och Flacbox?" closed="true" %}}
+{{% ls-details title="Är equalizern tillgänglig på både Evermusic och Flacbox?" closed="true" %}}
 Ja. Båda apparna inkluderar samma 10-bands equalizer med förinställningar, anpassade förinställningar och förförstärkare.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Kan jag dela mina EQ-förinställningar med någon annan?" closed="true" %}}
+{{% ls-details title="Kan jag dela mina EQ-förinställningar med någon annan?" closed="true" %}}
 Ja. Använd alternativet Exportera konfiguration för att spara dina förinställningar till en fil och dela den sedan. Den andra personen kan importera den med Importera konfiguration.
-{{% /details %}}
+{{% /ls-details %}}

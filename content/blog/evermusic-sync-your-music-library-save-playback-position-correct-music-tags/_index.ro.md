@@ -12,7 +12,7 @@ authors:
     image: "/images/about/artem-meleshko-founder-everappz.webp"
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 ![](/blog/evermusic-sync-your-music-library-save-playback-position-correct-music-tags/21260c_641f376e779e47d4927b43c210d3c87f~mv2.jpeg)
 
@@ -67,22 +67,22 @@ Evermusic detectează și corectează tagurile ID3 invalide sau incomplete folos
 
 ## Întrebări frecvente
 
-{{% details title="Funcționează sincronizarea automată Evermusic cu toate serviciile cloud?" closed="true" %}}
+{{% ls-details title="Funcționează sincronizarea automată Evermusic cu toate serviciile cloud?" closed="true" %}}
 Da. Sincronizarea automată funcționează cu Dropbox, Google Drive, OneDrive, MEGA, WebDAV și SMB. Selectează folderele pe care vrei să le monitorizezi și Evermusic îți menține biblioteca actualizată.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Poate Evermusic să salveze poziția cărții mele audio?" closed="true" %}}
+{{% ls-details title="Poate Evermusic să salveze poziția cărții mele audio?" closed="true" %}}
 Da. Activează salvarea poziției de redare în setările audio. Evermusic reține unde te-ai oprit pentru fiecare fișier, astfel încât poți relua fără marcaje manuale.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Cum funcționează citirea metadatelor în fundal?" closed="true" %}}
+{{% ls-details title="Cum funcționează citirea metadatelor în fundal?" closed="true" %}}
 Evermusic citește tagurile ID3 și metadatele fișierelor în fundal în timp ce folosești alte funcții. Organizează automat biblioteca după Artist, Album și Gen.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Va repara Evermusic tagurile muzicale deteriorate?" closed="true" %}}
+{{% ls-details title="Va repara Evermusic tagurile muzicale deteriorate?" closed="true" %}}
 Da. Funcția de corectare automată a tagurilor verifică fișierele tale în baze de date online și repară metadatele ID3 invalide, incomplete sau lipsă.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Este Evermusic gratuit de descărcat?" closed="true" %}}
+{{% ls-details title="Este Evermusic gratuit de descărcat?" closed="true" %}}
 Evermusic este gratuit de descărcat cu funcții premium opționale disponibile prin achiziție din aplicație.
-{{% /details %}}
+{{% /ls-details %}}

@@ -18,7 +18,7 @@ La section Fichiers locaux sert de hub pour gérer les fichiers situés dans le 
 Ce gestionnaire de fichiers intégré vous permet de modifier des fichiers et offre diverses méthodes pour importer des fichiers audio dans l'application. Les fichiers que vous avez récemment ouverts apparaissent automatiquement dans l'onglet **Récents** et les éléments que vous marquez d'une étoile apparaissent sous **Favoris**, vous permettant de passer directement aux fichiers avec lesquels vous travaillez le plus sans revenir à cet écran.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Écran de téléchargements Evertag" image="/docs/guide/evertag/img/downloads.webp" >}}
+  {{< ls-card title="" subtitle="Écran de téléchargements Evertag" image="/docs/guide/evertag/img/downloads.webp" >}}
 {{< /cards >}}
 
 ## Télécharger des fichiers depuis le stockage cloud
@@ -74,7 +74,7 @@ Affiche les fichiers et dossiers stockés dans le répertoire Documents de l'app
 Affiche les fichiers situés sur votre appareil mais dans différentes applications. Vous pouvez les importer dans cette application à l'aide du sélecteur de fichiers système. Pour activer le sélecteur, choisissez «Ouvrir des fichiers...» pour sélectionner des fichiers ou «Ouvrir des dossiers...» pour sélectionner des dossiers. Des instructions détaillées sur la façon d'importer de la musique locale stockée sur votre iPhone ou Mac sont disponibles [ici](/docs/howto/how-to-play-local-music-stored-on-your-iphone-or-mac). Vous pouvez également connecter un dossier situé sur votre appareil et avoir un accès rapide au contenu du dossier. Utilisez l'élément de menu «Connecter un dossier» et choisissez un dossier situé sur votre appareil. Appuyez sur «Terminer» et l'application créera un lien vers ce dossier avec un accès en lecture/écriture, vous permettant de gérer les fichiers directement depuis cette application. Pour déconnecter un dossier situé sur votre appareil, appuyez sur le bouton «Plus d'actions» et choisissez «Déconnecter».
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Importer des fichiers depuis mon appareil dans Evertag" image="/docs/guide/evertag/img/open-files.webp" >}}
+  {{< ls-card title="" subtitle="Importer des fichiers depuis mon appareil dans Evertag" image="/docs/guide/evertag/img/open-files.webp" >}}
 {{< /cards >}}
 
 ## Importer des fichiers depuis des clés USB connectées
@@ -86,7 +86,7 @@ Des instructions détaillées sur la façon de connecter une clé USB à votre i
 Le menu Plus d'actions pour le dossier actuellement ouvert est situé dans le coin supérieur droit et donne accès à diverses actions.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Importer des fichiers depuis mon appareil dans Evertag" image="/docs/guide/evertag/img/downloads-current-folder-actions.webp" >}}
+  {{< ls-card title="" subtitle="Importer des fichiers depuis mon appareil dans Evertag" image="/docs/guide/evertag/img/downloads-current-folder-actions.webp" >}}
 {{< /cards >}}
 
 - **Sélectionner :** Passer en mode de sélection pour les fichiers et dossiers.

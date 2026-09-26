@@ -7,7 +7,7 @@ tags: ["cloud", "streaming", "computer", "mp3", "file", "downloader", "manager",
 keywords: ["pindah fail ke iPhone SMB", "strim muzik PC di iPhone", "sambung Mac ke iPhone SMB", "persediaan Evermusic SMB", "akses fail komputer iPhone", "kongsi muzik Windows iOS", "pemindahan fail SMB Evermusic"]
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **Ringkasan:** Gunakan Evermusic pada iPhone atau iPad anda untuk mengakses fail yang disimpan pada Mac atau PC Windows anda melalui rangkaian tempatan melalui SMB. Tanpa kabel, tanpa iTunes, tanpa muat naik awan diperlukan. Dayakan perkongsian fail pada komputer anda, sambung dalam aplikasi, dan layari atau mainkan fail anda secara tanpa wayar.
@@ -142,26 +142,26 @@ Dengan langkah-langkah ini, anda boleh mengakses koleksi fail yang luas dari MAC
 
 ## Soalan Lazim
 
-{{% details title="Bolehkah saya mengakses fail pada PC dari iPhone tanpa iTunes?" closed="true" %}}
+{{% ls-details title="Bolehkah saya mengakses fail pada PC dari iPhone tanpa iTunes?" closed="true" %}}
 Ya. Evermusic menyambung ke komputer anda melalui SMB pada rangkaian Wi-Fi tempatan anda. Tiada penyegerakan iTunes atau Finder diperlukan. Dayakan perkongsian fail pada PC anda dan sambung terus dari aplikasi.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Adakah akses fail SMB berfungsi melalui internet?" closed="true" %}}
+{{% ls-details title="Adakah akses fail SMB berfungsi melalui internet?" closed="true" %}}
 Tidak. SMB adalah protokol rangkaian tempatan. iPhone dan komputer anda mesti berada pada rangkaian Wi-Fi yang sama. Untuk akses jauh, muat naik fail ke perkhidmatan awan seperti Google Drive atau Dropbox dan sambung kepadanya di Evermusic.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Apakah jenis fail yang boleh saya akses melalui SMB?" closed="true" %}}
+{{% ls-details title="Apakah jenis fail yang boleh saya akses melalui SMB?" closed="true" %}}
 Evermusic menyokong MP3, FLAC, AAC, WAV, AIFF, OGG, WMA, ALAC dan format audio lain. Anda juga boleh melayari dan mengurus fail bukan audio menggunakan pengurus fail terbina dalam.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Bolehkah saya memindahkan fail dari NAS ke iPhone menggunakan SMB?" closed="true" %}}
+{{% ls-details title="Bolehkah saya memindahkan fail dari NAS ke iPhone menggunakan SMB?" closed="true" %}}
 Ya. Kebanyakan peranti NAS (Synology, QNAP, WD My Cloud dan lain-lain) menyokong SMB. Sambung ke NAS anda menggunakan langkah yang sama dalam panduan ini.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Adakah saya perlu menyalin fail ke iPhone untuk memainkannya?" closed="true" %}}
+{{% ls-details title="Adakah saya perlu menyalin fail ke iPhone untuk memainkannya?" closed="true" %}}
 Tidak. Evermusic menstrim fail terus dari komputer atau NAS anda melalui rangkaian. Fail tidak disalin ke iPhone anda melainkan anda memilih untuk memuat turunnya untuk main balik luar talian.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Adakah perkongsian fail SMB selamat?" closed="true" %}}
+{{% ls-details title="Adakah perkongsian fail SMB selamat?" closed="true" %}}
 Perkongsian fail SMB hanya berfungsi pada rangkaian tempatan anda. Peranti lain pada rangkaian berbeza tidak boleh mengakses folder dikongsi anda. Untuk keselamatan tambahan, gunakan log masuk dan kata laluan daripada akses tanpa nama (Semua Orang).
-{{% /details %}}
+{{% /ls-details %}}

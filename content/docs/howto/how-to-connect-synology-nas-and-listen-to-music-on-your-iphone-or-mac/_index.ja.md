@@ -7,7 +7,7 @@ tags: ["音楽", "ストリーミング", "nas", "synology", "quickconnect"]
 readingTime: 4
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **概要：** SynologyのネイティブAPIを使用して、IPアドレスによる手動接続またはQuickConnect IDによる自動接続で、Synology NASをEvermusicまたはFlacboxに接続します。QuickConnectを使用すると、ポート転送なしでリモートから音楽をストリーミングできます。両方のアプリはFLAC、MP3、WAV、その他のハイレゾフォーマットをサポートしています。
@@ -140,22 +140,22 @@ QuickConnectによる安全なリモートアクセスと幅広いオーディ�
 
 ## よくある質問
 
-{{% details title="手動接続とQuickConnectの違いは何ですか？" closed="true" %}}
+{{% ls-details title="手動接続とQuickConnectの違いは何ですか？" closed="true" %}}
 手動接続はNASのIPアドレスとポートを使用し、ローカルネットワークで動作します。QuickConnectはSynologyのリレーサービスを使用して、ポート転送なしにインターネット経由でどこからでも接続を確立します。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="ホームネットワーク外からSynology NASの音楽をストリーミングできますか？" closed="true" %}}
+{{% ls-details title="ホームネットワーク外からSynology NASの音楽をストリーミングできますか？" closed="true" %}}
 はい。Synology NASでQuickConnectを有効にし、EvermusicまたはFlacboxでQuickConnect IDを使用して、インターネット接続のある場所からどこでも音楽をストリーミングできます。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Synology NASからストリーミングする際にサポートされるオーディオフォーマットは？" closed="true" %}}
+{{% ls-details title="Synology NASからストリーミングする際にサポートされるオーディオフォーマットは？" closed="true" %}}
 EvermusicとFlacboxはFLAC、MP3、AAC、WAV、ALAC、OGG、WMA、DSD、その他多くのフォーマットをサポートしています。すべてのサポートされたフォーマットはSynology NASからのストリーミング時に動作します。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="接続に二要素認証は必要ですか？" closed="true" %}}
+{{% ls-details title="接続に二要素認証は必要ですか？" closed="true" %}}
 いいえ、二要素認証はオプションです。ただし、Synology DSMで2段階認証を有効にしている場合、アプリはログイン時にワンタイムパスワードを要求します。セッションが期限切れになった場合は再認証が必要です。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="SynologyネイティブAPI、WebDAV、SMBのどれを使って接続すべきですか？" closed="true" %}}
+{{% ls-details title="SynologyネイティブAPI、WebDAV、SMBのどれを使って接続すべきですか？" closed="true" %}}
 QuickConnectを使用したSynologyネイティブAPIは、リモートアクセスに最適な選択肢です。ローカルネットワーク使用には、SMBが通常最も高速なオプションです。WebDAVはローカルとリモートの両方のアクセスに適しています。EvermusicとFlacboxは3つのプロトコルすべてをサポートしています。
-{{% /details %}}
+{{% /ls-details %}}

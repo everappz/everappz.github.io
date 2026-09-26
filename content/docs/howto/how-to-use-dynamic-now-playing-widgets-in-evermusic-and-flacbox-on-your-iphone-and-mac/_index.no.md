@@ -7,7 +7,7 @@ tags: ["widgeter", "ios17", "dynamisk", "spilles nå", "startskjerm", "sonoma"]
 keywords: ["Evermusic widget", "Flacbox widget", "Spilles Nå widget iOS", "macOS Sonoma skrivebord widget", "lydbokmerker iPhone", "musikk widget Evermusic", "avspillingskontroll startskjerm", "dynamiske widgeter iOS 17"]
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **Kort oppsummert:** Evermusic og Flacbox tilbyr interaktive Spilles Nå-widgeter på iOS 17+ og macOS 14 Sonoma+. Du kan kontrollere avspilling, hoppe over spor, legge til favoritter og opprette lydbokmerker direkte fra iPhone-startskjermen eller Mac-skrivebordet — uten å åpne appen.
@@ -78,22 +78,22 @@ Nyt oppdateringen, og god lytting!
 
 ## Vanlige Spørsmål
 
-{{% details title="Fungerer widgetene uten å åpne appen?" closed="true" %}}
+{{% ls-details title="Fungerer widgetene uten å åpne appen?" closed="true" %}}
 Ja. På iOS 17 og macOS 14 Sonoma er widgetknappene interaktive og kontrollerer avspillingen direkte. Appen trenger ikke å være i forgrunnen.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Hvilken widgetstørrelse bør jeg velge?" closed="true" %}}
+{{% ls-details title="Hvilken widgetstørrelse bør jeg velge?" closed="true" %}}
 Velg Liten for grunnleggende spill/pause og favoritter. Velg Medium hvis du vil ha hoppeknapper. Velg Stor hvis du også vil ha lydbokmerker.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Kan jeg bruke widgeten til å gjenoppta en lydbok?" closed="true" %}}
+{{% ls-details title="Kan jeg bruke widgeten til å gjenoppta en lydbok?" closed="true" %}}
 Ja. Aktiver "Lagre Lydspillerstatus" i Innstillinger, og widgeten vil gjenoppta avspillingen fra din siste posisjon selv etter at appen har blitt lukket.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Er widgetene tilgjengelige på iPad?" closed="true" %}}
+{{% ls-details title="Er widgetene tilgjengelige på iPad?" closed="true" %}}
 Ja. iPadOS 17 støtter de samme interaktive widgetene som iPhone.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Har både Evermusic og Flacbox disse widgetene?" closed="true" %}}
+{{% ls-details title="Har både Evermusic og Flacbox disse widgetene?" closed="true" %}}
 Ja. Spilles Nå-widgeten er tilgjengelig i både Evermusic og Flacbox med identisk funksjonalitet.
-{{% /details %}}
+{{% /ls-details %}}

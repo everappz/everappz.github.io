@@ -21,7 +21,7 @@ readingTime: 8
 您有两种方法将媒体添加到资料库：**手动添加**（您确切选择要添加的内容）或**自动同步**（Evervideo 扫描指定的云文件夹，并在新文件出现时自动添加）。
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evervideo 媒体资料库" image="/docs/guide/evervideo/img/evervideo-genres-in-media-library.webp" >}}
+  {{< ls-card title="" subtitle="Evervideo 媒体资料库" image="/docs/guide/evervideo/img/evervideo-genres-in-media-library.webp" >}}
 {{< /cards >}}
 
 ## 手动添加
@@ -92,7 +92,7 @@ Evervideo 还从 Music 应用库中读取视频（您从 iTunes 购买的、从�
 此部分显示所有最近播放的视频及其最后播放位置，让您只需一次点击即可恢复任何视频。您可以在设置 → 媒体资料库 → 最近使用 → 更改列表大小中更改列表保留的条目数量，并将列表导出到 M3U / CSV / TXT 以备份您的观看历史。
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evervideo 最近使用 — 最近观看的视频" image="/docs/guide/evervideo/img/evervideo-recents.webp" >}}
+  {{< ls-card title="" subtitle="Evervideo 最近使用 — 最近观看的视频" image="/docs/guide/evervideo/img/evervideo-recents.webp" >}}
 {{< /cards >}}
 
 ## 收藏夹
@@ -104,7 +104,7 @@ Evervideo 还从 Music 应用库中读取视频（您从 iTunes 购买的、从�
 Evervideo 跟踪您观看的每个视频的播放位置。任何列表中的每个视频——最近使用、收藏夹、专辑、流派、播放列表、文件夹——都显示一个小进度条，让您一眼就能看到您已经看了多少。这使得管理长时间的电视剧季、课程播放列表和马拉松观影之夜变得轻松。
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evervideo 流派详情（带每文件观看进度）" image="/docs/guide/evervideo/img/evervideo-genre-detail-with-playback-progress-for-watched-files.webp" >}}
+  {{< ls-card title="" subtitle="Evervideo 流派详情（带每文件观看进度）" image="/docs/guide/evervideo/img/evervideo-genre-detail-with-playback-progress-for-watched-files.webp" >}}
 {{< /cards >}}
 
 ## 顶部工具栏
@@ -116,7 +116,7 @@ Evervideo 跟踪您观看的每个视频的播放位置。任何列表中的每�
 搜索功能使您能够在媒体资料库中找到特定的标题、专辑、流派或播放列表。在搜索屏幕中，您可以访问排序、筛选和网格 / 列表视图操作。搜索在媒体资料库数据库上本地运行，因此它完全离线工作，并在您输入时返回结果。
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evervideo 媒体资料库搜索" image="/docs/guide/evervideo/img/evervideo-library-search.webp" >}}
+  {{< ls-card title="" subtitle="Evervideo 媒体资料库搜索" image="/docs/guide/evervideo/img/evervideo-library-search.webp" >}}
 {{< /cards >}}
 
 ## 选项菜单

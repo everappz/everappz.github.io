@@ -21,7 +21,7 @@ La **Biblioteca multimèdia** és el cor d'Evervideo. Reuneix tots els vídeos i
 Tens dues maneres d'afegir contingut multimèdia a la biblioteca: **addició manual** (tries exactament el que s'afegeix) o **sincronització automàtica** (Evervideo escaneja les carpetes al núvol designades i afegeix automàticament els fitxers nous a mesura que apareixen).
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Biblioteca multimèdia d'Evervideo" image="/docs/guide/evervideo/img/evervideo-genres-in-media-library.webp" >}}
+  {{< ls-card title="" subtitle="Biblioteca multimèdia d'Evervideo" image="/docs/guide/evervideo/img/evervideo-genres-in-media-library.webp" >}}
 {{< /cards >}}
 
 ## Addició manual
@@ -92,7 +92,7 @@ Si no veus tots els títols, assegura't que l'app ha escanejat cada fitxer. Pots
 Aquesta secció mostra tots els vídeos reproduïts recentment amb l'última posició de reproducció, perquè puguis reprendre'n qualsevol amb una sola pulsació. Pots canviar el nombre d'entrades que guarda la llista a Configuració → Biblioteca multimèdia → Recents → Canviar mida de la llista, i exportar la llista a M3U/CSV/TXT per fer una còpia de seguretat de l'historial de visualitzacions.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Recents d'Evervideo — Vídeos vistos recentment" image="/docs/guide/evervideo/img/evervideo-recents.webp" >}}
+  {{< ls-card title="" subtitle="Recents d'Evervideo — Vídeos vistos recentment" image="/docs/guide/evervideo/img/evervideo-recents.webp" >}}
 {{< /cards >}}
 
 ## Preferits
@@ -104,7 +104,7 @@ Marca vídeos com a preferits a la pantalla del reproductor o via el menú d'opc
 Evervideo fa un seguiment de la posició de reproducció de cada vídeo que veus. Cada vídeo en qualsevol llista — Recents, Preferits, un àlbum, un gènere, una llista de reproducció, una carpeta — mostra una petita barra de progrés perquè puguis veure d'un cop d'ull quant n'has vist. Això fa que les llargues temporades de sèries de televisió, les llistes de reproducció de cursos i les nits de maratons siguin fàcils de gestionar.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Detall de gènere amb progrés de visualització per fitxer a Evervideo" image="/docs/guide/evervideo/img/evervideo-genre-detail-with-playback-progress-for-watched-files.webp" >}}
+  {{< ls-card title="" subtitle="Detall de gènere amb progrés de visualització per fitxer a Evervideo" image="/docs/guide/evervideo/img/evervideo-genre-detail-with-playback-progress-for-watched-files.webp" >}}
 {{< /cards >}}
 
 ## Barra d'eines superior
@@ -116,7 +116,7 @@ Ubicada just sota la barra de navegació, la barra d'eines superior ofereix dive
 La funció de cerca et permet localitzar un títol, àlbum, gènere o llista de reproducció específics dins de la biblioteca multimèdia. Dins de la pantalla de cerca, tens accés a les accions d'Ordenar, Filtrar i vista en Quadrícula/Llista. La cerca s'executa localment contra la base de dades de la biblioteca multimèdia, de manera que funciona completament fora de línia i torna els resultats a mesura que escrius.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Cerca de la biblioteca multimèdia d'Evervideo" image="/docs/guide/evervideo/img/evervideo-library-search.webp" >}}
+  {{< ls-card title="" subtitle="Cerca de la biblioteca multimèdia d'Evervideo" image="/docs/guide/evervideo/img/evervideo-library-search.webp" >}}
 {{< /cards >}}
 
 ## Menú d'opcions

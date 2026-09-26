@@ -6,7 +6,7 @@ keywords: ["evermusic exporteren", "flacbox exporteren", "exporteren naar m3u", 
 tags: ["evermusic", "recenties", "favorieten", "exporteren", "m3u", "afspeellijst", "csv", "txt", "album"]
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **Samenvatting:** Met Evermusic en Flacbox kun je elke trackverzameling (recenties, favorieten, afspeellijsten, albums) exporteren naar CSV-, TXT- of M3U-bestanden. Gebruik deze exports om te scrobblen naar Last.fm, je bibliotheek te back-uppen of je afspeellijsten op andere apparaten af te spelen.
@@ -157,22 +157,22 @@ Het exporteren van je tracks uit Evermusic en Flacbox geeft je volledige control
 
 ## FAQ
 
-{{% details title="Welk exportformaat moet ik gebruiken voor Last.fm-scrobbling?" closed="true" %}}
+{{% ls-details title="Welk exportformaat moet ik gebruiken voor Last.fm-scrobbling?" closed="true" %}}
 Gebruik CSV. Het bevat tijdstempels en volledige metadata die vereist zijn door scrobbling-tools zoals Last.fm-Scrubbler-WPF.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Kan ik elke trackverzameling exporteren, niet alleen afspeellijsten?" closed="true" %}}
+{{% ls-details title="Kan ik elke trackverzameling exporteren, niet alleen afspeellijsten?" closed="true" %}}
 Ja. Je kunt recenties, favorieten, albums, afspeellijsten en elke andere trackverzameling in de app exporteren met dezelfde stappen.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Werkt mijn M3U-afspeellijst op andere apparaten?" closed="true" %}}
+{{% ls-details title="Werkt mijn M3U-afspeellijst op andere apparaten?" closed="true" %}}
 Als je de optie Absolute URL kiest tijdens het exporteren, kan het M3U-bestand worden afgespeeld op elk apparaat dat M3U-afspeellijsten ondersteunt. Houd er rekening mee dat sommige cloud-URL's na verloop van tijd kunnen verlopen.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Is de exportfunctie gratis?" closed="true" %}}
+{{% ls-details title="Is de exportfunctie gratis?" closed="true" %}}
 Ja. Het exporteren van trackverzamelingen naar M3U, CSV en TXT is beschikbaar in zowel de gratis als de premium versie van Evermusic en Flacbox.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Welke cloudservices ondersteunen Absolute URL-export?" closed="true" %}}
+{{% ls-details title="Welke cloudservices ondersteunen Absolute URL-export?" closed="true" %}}
 Absolute URL-export wordt ondersteund voor iCloud Drive, pCloud, PanBaidu, MyCloudHome, DLNA, MediaFire, OneDrive, Box, Dropbox, Google Drive en WebDAV (gastmodus).
-{{% /details %}}
+{{% /ls-details %}}

@@ -12,7 +12,7 @@ authors:
     image: "/images/about/artem-meleshko-founder-everappz.webp"
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 ![](/blog/audio-streaming-and-caching-in-ios-using-avassetresourceloader-and-avplayer/diagram.png)
 
@@ -140,18 +140,18 @@ Pendekatan ini menjanakan enjin penstriman audio dalam [Evermusic](https://apps.
 
 ## Soalan Lazim
 
-{{% details title="Bilakah saya perlu menggunakan AVAssetResourceLoaderDelegate berbanding URL terus?" closed="true" %}}
+{{% ls-details title="Bilakah saya perlu menggunakan AVAssetResourceLoaderDelegate berbanding URL terus?" closed="true" %}}
 Gunakan apabila perkhidmatan awan memerlukan pengepala kebenaran tersuai, apabila anda memerlukan caching cakera untuk audio yang distream, atau apabila anda mahukan kawalan terperinci ke atas cara data dimuatkan dan dibuffer.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Adakah pendekatan ini berfungsi dengan Swift?" closed="true" %}}
+{{% ls-details title="Adakah pendekatan ini berfungsi dengan Swift?" closed="true" %}}
 Ya. Protokol `AVAssetResourceLoaderDelegate` berfungsi dengan cara yang sama dalam Swift. Contoh Objective-C di sini diterjemahkan secara langsung.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Bolehkah saya menggunakan ini untuk penstriman video juga?" closed="true" %}}
+{{% ls-details title="Bolehkah saya menggunakan ini untuk penstriman video juga?" closed="true" %}}
 Ya. `AVAssetResourceLoaderDelegate` berfungsi dengan mana-mana jenis media yang disokong AVPlayer, termasuk video. Pendekatan skim tersuai yang sama digunakan.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Adakah ini menyokong main balik audio latar belakang?" closed="true" %}}
+{{% ls-details title="Adakah ini menyokong main balik audio latar belakang?" closed="true" %}}
 Ya, selagi anda mendayakan mod latar belakang "Audio, AirPlay, dan Picture in Picture" dalam keupayaan aplikasi anda dan mengkonfigurasi `AVAudioSession` anda dengan betul.
-{{% /details %}}
+{{% /ls-details %}}

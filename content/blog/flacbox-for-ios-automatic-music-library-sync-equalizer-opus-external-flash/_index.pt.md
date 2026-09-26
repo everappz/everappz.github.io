@@ -12,7 +12,7 @@ authors:
     image: "/images/about/artem-meleshko-founder-everappz.webp"
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 **Flacbox 1.6** traz novos recursos importantes para o reprodutor de música FLAC para iPhone e iPad.
 
@@ -68,18 +68,18 @@ Tem feedback ou solicitações de recursos? Entre em contato -- construímos o F
 
 ## Perguntas Frequentes
 
-{{% details title="Quais formatos de áudio o Flacbox suporta?" closed="true" %}}
+{{% ls-details title="Quais formatos de áudio o Flacbox suporta?" closed="true" %}}
 Flacbox suporta FLAC, ALAC, MP3, AAC, OGG, OPUS, WAV, AIFF, DSD e outros formatos de áudio populares. Todos os formatos funcionam com o equalizador integrado.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Posso reproduzir música de um cartão SD no meu iPhone?" closed="true" %}}
+{{% ls-details title="Posso reproduzir música de um cartão SD no meu iPhone?" closed="true" %}}
 Sim. Conecte um cartão SD ou microSD usando um Lightning to SD Card Camera Reader Adapter. Flacbox detecta o cartão automaticamente e permite navegar e reproduzir arquivos diretamente do armazenamento externo.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="O Flacbox sincroniza com armazenamento em nuvem automaticamente?" closed="true" %}}
+{{% ls-details title="O Flacbox sincroniza com armazenamento em nuvem automaticamente?" closed="true" %}}
 Sim. A partir da versão 1.6, o Flacbox pode sincronizar automaticamente sua biblioteca musical a partir de pastas na nuvem. Ative a Sincronização Automática nas Configurações e selecione as pastas que deseja monitorar.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="O equalizador do Flacbox é personalizável?" closed="true" %}}
+{{% ls-details title="O equalizador do Flacbox é personalizável?" closed="true" %}}
 Sim. O equalizador de 10 bandas permite ajustar níveis individuais de frequência entre -12 dB e +12 dB. Você pode usar predefinições integradas ou salvar suas próprias configurações personalizadas.
-{{% /details %}}
+{{% /ls-details %}}

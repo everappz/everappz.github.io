@@ -74,18 +74,18 @@ Hướng dẫn này sẽ dẫn bạn qua từng phần của Evervideo trên iPh
 
 {{< cards cols="2">}}
 
-{{< card icon="map" link="/docs/guide/evervideo/evervideo-guide-navigation" title="Điều hướng" subtitle="Thanh tab trên iPhone, Menu trái trên iPad và Mac, trình phát phương tiện nhỏ gọn luôn hiển thị trên màn hình." >}}
+{{< ls-card icon="map" link="/docs/guide/evervideo/evervideo-guide-navigation" title="Điều hướng" subtitle="Thanh tab trên iPhone, Menu trái trên iPad và Mac, trình phát phương tiện nhỏ gọn luôn hiển thị trên màn hình." >}}
 
-{{< card icon="folder" link="/docs/guide/evervideo/evervideo-guide-files" title="Tệp" subtitle="Một tab thống nhất cho đám mây, NAS, luồng RTSP, tệp cục bộ, ổ USB và hàng đợi truyền." >}}
+{{< ls-card icon="folder" link="/docs/guide/evervideo/evervideo-guide-files" title="Tệp" subtitle="Một tab thống nhất cho đám mây, NAS, luồng RTSP, tệp cục bộ, ổ USB và hàng đợi truyền." >}}
 
-{{< card icon="collection" link="/docs/guide/evervideo/evervideo-guide-video-library" title="Thư viện phương tiện" subtitle="Duyệt theo Album, Thể loại, Gần đây, Yêu thích — cùng thư viện iOS Photos và thư viện Apple Music." >}}
+{{< ls-card icon="collection" link="/docs/guide/evervideo/evervideo-guide-video-library" title="Thư viện phương tiện" subtitle="Duyệt theo Album, Thể loại, Gần đây, Yêu thích — cùng thư viện iOS Photos và thư viện Apple Music." >}}
 
-{{< card icon="music-note" link="/docs/guide/evervideo/evervideo-guide-playlists" title="Danh sách phát" subtitle="Tạo danh sách phát từ đám mây, cục bộ, Photos hoặc thư viện Music, nhập M3U / M3U8 / CUE." >}}
+{{< ls-card icon="music-note" link="/docs/guide/evervideo/evervideo-guide-playlists" title="Danh sách phát" subtitle="Tạo danh sách phát từ đám mây, cục bộ, Photos hoặc thư viện Music, nhập M3U / M3U8 / CUE." >}}
 
-{{< card icon="play" link="/docs/guide/evervideo/evervideo-guide-player" title="Trình phát phương tiện" subtitle="Picture-in-Picture, track âm thanh và video, phụ đề, bộ chỉnh âm thanh và video, AirPlay, Chromecast." >}}
+{{< ls-card icon="play" link="/docs/guide/evervideo/evervideo-guide-player" title="Trình phát phương tiện" subtitle="Picture-in-Picture, track âm thanh và video, phụ đề, bộ chỉnh âm thanh và video, AirPlay, Chromecast." >}}
 
-{{< card icon="adjustments" link="/docs/guide/evervideo/evervideo-guide-settings" title="Cài đặt" subtitle="Công cụ âm thanh, bộ giải mã video, phụ đề, thư viện, trình quản lý tệp, widget, cá nhân hóa, ngôn ngữ, sao lưu." >}}
+{{< ls-card icon="adjustments" link="/docs/guide/evervideo/evervideo-guide-settings" title="Cài đặt" subtitle="Công cụ âm thanh, bộ giải mã video, phụ đề, thư viện, trình quản lý tệp, widget, cá nhân hóa, ngôn ngữ, sao lưu." >}}
 
-{{< card icon="question-mark-circle" link="/docs/faq/evervideo" title="FAQ" subtitle="Tìm câu trả lời cho các câu hỏi phổ biến nhất về Evervideo." >}}
+{{< ls-card icon="question-mark-circle" link="/docs/faq/evervideo" title="FAQ" subtitle="Tìm câu trả lời cho các câu hỏi phổ biến nhất về Evervideo." >}}
 
 {{< /cards >}}

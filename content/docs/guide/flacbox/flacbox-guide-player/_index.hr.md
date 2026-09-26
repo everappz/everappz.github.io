@@ -23,7 +23,7 @@ Audio player je glavni zaslon aplikacije gdje kontrolirate glazbu i većinu funk
 Playeru na cijelom zaslonu možete pristupiti s trake mini playera. Na iPhoneu, mini player se nalazi pri dnu glavnog zaslona. Na iPadu i Macu, s lijeve strane. Za skrivanje mini playera na iPhoneu, tapnite ga jednom i povucite prema dolje. Za potpuno zatvaranje playera na cijelom zaslonu, tapnite gumb za zatvaranje u donjem desnom kutu.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Glavni zaslon audio playera u Flacboxu" image="/docs/guide/flacbox/img/audio-player-main-screen.webp" >}}
+  {{< ls-card title="" subtitle="Glavni zaslon audio playera u Flacboxu" image="/docs/guide/flacbox/img/audio-player-main-screen.webp" >}}
 {{< /cards >}}
 
 ## Podržani audio formati
@@ -66,7 +66,7 @@ Za AirPlay, potražite gumb **AirPlay** pri dnu playera. Tapnite ga i odaberite 
 Flacbox uključuje **10-pojasni ekvilajzer** s iPod-style presetsima. Tapnite Ekvilajzer na prikazu glasnoće, zatim ga uključite u gornjem desnom kutu. Možete koristiti presetse poput Acoustic i Bass Booster, ili prilagoditi svaki frekvencijski pojas klizačima. Napravite vlastite presetse, spremite ih pod bilo kojim nazivom i pojačajte ukupnu glasnoću predpojačalom. Imamo detaljnije upute o tome kako koristiti audio ekvilajzer [ovdje](/docs/howto/how-to-use-the-audio-equalizer-on-your-iphone-ipad-mac-with-evermusic-and-flacbox).
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Ekvilajzer audio playera u Flacboxu" image="/docs/guide/flacbox/img/audio-player-equalizer.webp" >}}
+  {{< ls-card title="" subtitle="Ekvilajzer audio playera u Flacboxu" image="/docs/guide/flacbox/img/audio-player-equalizer.webp" >}}
 {{< /cards >}}
 
 ## Alatna traka načina rada playera
@@ -82,7 +82,7 @@ Za neke stilove playera postoji namjenska alatna traka na vrhu playera na cijelo
 Za pregled reda čekanja playera, tapnite gumb reda čekanja na desnoj strani trenutne pjesme. Svaka pjesma u redu čekanja ima više radnji — tapnite tri točkice za njihov prikaz. Za preraspoređivanje pjesme u redu čekanja, koristite indikator preraspoređivanja pokraj naslova i povucite ga na novu poziciju.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Red čekanja reprodukcije u Flacboxu" image="/docs/guide/flacbox/img/playback_queue.webp" >}}
+  {{< ls-card title="" subtitle="Red čekanja reprodukcije u Flacboxu" image="/docs/guide/flacbox/img/playback_queue.webp" >}}
 {{< /cards >}}
 
 ## Komentari / Tekstovi
@@ -98,7 +98,7 @@ Za pregled komentara zapisa i ugrađenih tekstova, kao i LRC datoteka, slijedite
 Nakon toga, tapnite gumb reda čekanja playera pri dnu zaslona nekoliko puta za prebacivanje iz prikaza omota / reda čekanja na prikaz komentara. Na zaslonu Komentara, povucite desno za prebacivanje između **Komentara**, **Ugrađenih tekstova** i **LRC datoteke**. Potpune upute dostupne su [ovdje](/docs/howto/how-to-add-and-view-comments-to-your-audio-tracks-on-iphone-ipad-and-mac-with-evermusic-and-flacbox).
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Zaslon tekstova i komentara u Flacboxu" image="/docs/guide/flacbox/img/lyrics-screen.webp" >}}
+  {{< ls-card title="" subtitle="Zaslon tekstova i komentara u Flacboxu" image="/docs/guide/flacbox/img/lyrics-screen.webp" >}}
 {{< /cards >}}
 
 ## Izbornik opcija
@@ -121,7 +121,7 @@ Svaka pjesma u redu čekanja audio playera ima izbornik s više radnji, kojima s
 Iste opcije dostupne su za trenutno puštanu stavku u redu čekanja audio playera, kojima možete pristupiti tapnutjem na ikonu **Više radnji** pokraj naslova zapisa.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Opcije za stavku u redu čekanja reprodukcije u Flacboxu" image="/docs/guide/flacbox/img/options-for-item-in-playback-queue.webp" >}}
+  {{< ls-card title="" subtitle="Opcije za stavku u redu čekanja reprodukcije u Flacboxu" image="/docs/guide/flacbox/img/options-for-item-in-playback-queue.webp" >}}
 {{< /cards >}}
 
 ## Dodatne radnje playera
@@ -143,7 +143,7 @@ Tapnite gumb **Više radnji** "..." na lijevoj strani naslova trenutno puštane 
 - **Pomoć** — pronađite pomoć i smjernice.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Zaslon više radnji audio playera u Flacboxu" image="/docs/guide/flacbox/img/audio-player-more-actions-screen.webp" >}}
+  {{< ls-card title="" subtitle="Zaslon više radnji audio playera u Flacboxu" image="/docs/guide/flacbox/img/audio-player-more-actions-screen.webp" >}}
 {{< /cards >}}
 
 ## Audio zabilješke
@@ -161,7 +161,7 @@ Za stvaranje nove zabilješke:
 Uređivanje zabilješki za trenutni zapis je lako: tapnite Uredi u gornjem desnom kutu za ulazak u način uređivanja. U ovom načinu rada možete prerasporediti zabilješke, brisati ih, prilagoditi vrijeme zabilješke i promijeniti naslove zabilješki. Detaljnije upute za audio zabilješke dostupne su [ovdje](/docs/howto/how-to-listen-to-audiobooks-on-iphone-ipad-mac-using-evermusic).
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Zaslon audio zabilješki u Flacboxu" image="/docs/guide/flacbox/img/audio-bookmarks.webp" >}}
+  {{< ls-card title="" subtitle="Zaslon audio zabilješki u Flacboxu" image="/docs/guide/flacbox/img/audio-bookmarks.webp" >}}
 {{< /cards >}}
 
 ## Nedavne i omiljene
@@ -175,7 +175,7 @@ Spojite iPhone na auto putem USB-a ili bežičnog Apple CarPlaya i Flacbox se po
 [Pročitajte potpuni CarPlay vodič](/docs/howto/how-to-play-your-own-music-on-iphone-using-carplay/).
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox na Apple CarPlayu" image="/docs/guide/flacbox/img/carplay-main.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox na Apple CarPlayu" image="/docs/guide/flacbox/img/carplay-main.webp" >}}
 {{< /cards >}}
 
 ## Widgeti početnog zaslona (iPhone i iPad)
@@ -243,7 +243,7 @@ Prilagodite postavke audio ekvilajzera. Više o konfiguriranju audio ekvilajzera
 Podesite brzinu reprodukcije audio playera od **0,02× do 3,00×**. Tapnite ikonu konfiguracije u gornjem desnom kutu za prebacivanje na **precizni način rada** za finije prilagodbe.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Zaslon brzine reprodukcije u Flacboxu" image="/docs/guide/flacbox/img/playback-speed.webp" >}}
+  {{< ls-card title="" subtitle="Zaslon brzine reprodukcije u Flacboxu" image="/docs/guide/flacbox/img/playback-speed.webp" >}}
 {{< /cards >}}
 
 ### Korekcija visine tona

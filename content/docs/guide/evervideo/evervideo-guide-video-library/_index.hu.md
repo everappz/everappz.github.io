@@ -21,7 +21,7 @@ A **Médiakönyvtár** az Evervideo szíve. Minden elérhető videó- és zenef�
 Kétféleképpen adhat médiát a könyvtárhoz: **manuális hozzáadással** (pontosan kiválasztja, mi kerüljön bele) vagy **automatikus szinkronizálással** (az Evervideo megjelölt felhőmappákat keres, és automatikusan hozzáadja az új fájlokat, ahogy megjelennek).
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evervideo médiakönyvtár" image="/docs/guide/evervideo/img/evervideo-genres-in-media-library.webp" >}}
+  {{< ls-card title="" subtitle="Evervideo médiakönyvtár" image="/docs/guide/evervideo/img/evervideo-genres-in-media-library.webp" >}}
 {{< /cards >}}
 
 ## Manuális hozzáadás
@@ -92,7 +92,7 @@ Ha nem látja az összes videót, győződjön meg arról, hogy az alkalmazás m
 Ez a szakasz az összes nemrég lejátszott videót megjeleníti az utolsó lejátszási pozíciójukkal, így egyetlen koppintással bármelyiket folytathatja. Megváltoztathatja, hogy hány bejegyzést tartson a lista a Beállítások → Médiakönyvtár → Legutóbbiak → Lista méretének módosítása részben, és exportálhatja a listát M3U / CSV / TXT formátumban a megtekintési előzmények biztonsági mentéséhez.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evervideo legutóbbiak — nemrég megtekintett videók" image="/docs/guide/evervideo/img/evervideo-recents.webp" >}}
+  {{< ls-card title="" subtitle="Evervideo legutóbbiak — nemrég megtekintett videók" image="/docs/guide/evervideo/img/evervideo-recents.webp" >}}
 {{< /cards >}}
 
 ## Kedvencek
@@ -104,7 +104,7 @@ Jelöljön videókat kedvencként a lejátszó képernyőn vagy az opciók menü
 Az Evervideo nyomon követi minden megtekintett videó lejátszási pozícióját. Minden listában lévő videó — Legutóbbiak, Kedvencek, egy album, egy műfaj, egy lejátszási lista, egy mappa — kis előrehaladás sávot jelenít meg, így egyből láthatja, mennyit nézett már meg belőle. Ez különösen megkönnyíti a hosszú TV-sorozat évadok, tanfolyam-lejátszási listák és maratoni megtekintések kezelését.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evervideo műfaj részlet a fájlonkénti megtekintési előrehaladással" image="/docs/guide/evervideo/img/evervideo-genre-detail-with-playback-progress-for-watched-files.webp" >}}
+  {{< ls-card title="" subtitle="Evervideo műfaj részlet a fájlonkénti megtekintési előrehaladással" image="/docs/guide/evervideo/img/evervideo-genre-detail-with-playback-progress-for-watched-files.webp" >}}
 {{< /cards >}}
 
 ## Felső eszköztár
@@ -116,7 +116,7 @@ A navigációs sáv alatt elhelyezkedő felső eszköztár számos kényelmes m�
 A keresési funkció lehetővé teszi, hogy megtaláljon egy adott filmet, albumot, műfajt vagy lejátszási listát a médiakönyvtárban. A Keresés képernyőn hozzáférhet a Rendezés, Szűrő és Rács / Lista nézet műveletekhez. A keresés helyileg fut a médiakönyvtár adatbázissal szemben, így teljesen offline is működik, és gépelés közben megjeleníti az eredményeket.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evervideo médiakönyvtár keresés" image="/docs/guide/evervideo/img/evervideo-library-search.webp" >}}
+  {{< ls-card title="" subtitle="Evervideo médiakönyvtár keresés" image="/docs/guide/evervideo/img/evervideo-library-search.webp" >}}
 {{< /cards >}}
 
 ## Opciók menü

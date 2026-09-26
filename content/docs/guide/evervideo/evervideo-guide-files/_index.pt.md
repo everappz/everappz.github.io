@@ -33,7 +33,7 @@ O separador Ficheiros está dividido em secções claras que aparecem nesta orde
 No canto superior direito do ecrã Ficheiros há um botão Transferências (ícone de setas giratórias). Toque nele para abrir a Fila de Transferências onde monitoriza cada descarregamento e envio de todas as suas fontes.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Ficheiros Evervideo em Armazenamentos Ligados" image="/docs/guide/evervideo/img/evervideo-files-connected-storages.webp" >}}
+  {{< ls-card title="" subtitle="Ficheiros Evervideo em Armazenamentos Ligados" image="/docs/guide/evervideo/img/evervideo-files-connected-storages.webp" >}}
 {{< /cards >}}
 
 ## Ligar ao Armazenamento em Nuvem
@@ -41,7 +41,7 @@ No canto superior direito do ecrã Ficheiros há um botão Transferências (íco
 A secção Armazenamento em Nuvem do separador Ficheiros é onde todas as contas ligadas, NAS, servidores de multimédia e fluxos ficam — lado a lado, numa lista com scroll.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Secção Armazenamento em Nuvem no Separador Ficheiros do Evervideo" image="/docs/guide/evervideo/img/evervideo-connections.webp" >}}
+  {{< ls-card title="" subtitle="Secção Armazenamento em Nuvem no Separador Ficheiros do Evervideo" image="/docs/guide/evervideo/img/evervideo-connections.webp" >}}
 {{< /cards >}}
 
 - Abra o separador **Ficheiros**.
@@ -51,7 +51,7 @@ A secção Armazenamento em Nuvem do separador Ficheiros é onde todas as contas
 - Introduza as suas credenciais na página de autorização oficial fornecida pelo fornecedor de nuvem, depois toque em **Concluído**.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evervideo — Ligar um Serviço de Armazenamento em Nuvem" image="/docs/guide/evervideo/img/evervideo-connect-cloud-storage.webp" >}}
+  {{< ls-card title="" subtitle="Evervideo — Ligar um Serviço de Armazenamento em Nuvem" image="/docs/guide/evervideo/img/evervideo-connect-cloud-storage.webp" >}}
 {{< /cards >}}
 
 Se encontrar problemas, verifique a sua ligação à internet e o seu login / palavra-passe. Na versão Premium da aplicação, pode adicionar um número ilimitado de serviços; a versão gratuita suporta até três.
@@ -161,7 +161,7 @@ Esta secção mostra cada dispositivo na sua rede local ao qual pode ligar-se a 
 - Se necessário, introduza os seus dados de início de sessão para completar a ligação.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evervideo — Dispositivos Disponíveis na Rede Local" image="/docs/guide/evervideo/img/evervideo-available-devices.webp" >}}
+  {{< ls-card title="" subtitle="Evervideo — Dispositivos Disponíveis na Rede Local" image="/docs/guide/evervideo/img/evervideo-available-devices.webp" >}}
 {{< /cards >}}
 
 ## Wi-Fi Drive
@@ -169,7 +169,7 @@ Esta secção mostra cada dispositivo na sua rede local ao qual pode ligar-se a 
 O Wi-Fi Drive permite transferir ficheiros sem fios do seu computador para o dispositivo iOS através de qualquer browser de secretária, Finder ou Explorador de Ficheiros. O seu dispositivo e computador devem estar na mesma rede Wi-Fi.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evervideo Wi-Fi Drive" image="/docs/guide/evervideo/img/evervideo-wifi-drive.webp" >}}
+  {{< ls-card title="" subtitle="Evervideo Wi-Fi Drive" image="/docs/guide/evervideo/img/evervideo-wifi-drive.webp" >}}
 {{< /cards >}}
 
 ### Ativar Wi-Fi Drive
@@ -201,7 +201,7 @@ Ligue uma pen USB ou cartão SD ao iPhone, iPad ou Mac através do adaptador Lig
 Toque em qualquer serviço em nuvem ligado para abrir o seu navegador de ficheiros. As pastas mostram miniaturas de vídeo quando disponíveis, e tocar num vídeo inicia a reprodução imediatamente enquanto continua a transmitir o resto do ficheiro em segundo plano.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evervideo — Navegar Pastas em Armazenamentos Ligados" image="/docs/guide/evervideo/img/evervideo-all-connected-device-folders.webp" >}}
+  {{< ls-card title="" subtitle="Evervideo — Navegar Pastas em Armazenamentos Ligados" image="/docs/guide/evervideo/img/evervideo-all-connected-device-folders.webp" >}}
 {{< /cards >}}
 
 ## Acesso Rápido
@@ -209,7 +209,7 @@ Toque em qualquer serviço em nuvem ligado para abrir o seu navegador de ficheir
 A secção Acesso Rápido fica no topo do separador Ficheiros. Dá-lhe acesso rápido aos seus ficheiros e pastas favoritos e abertos recentemente — tanto de serviços em nuvem como do armazenamento no dispositivo. Sempre que abre um ficheiro ou pasta da nuvem, é adicionado à lista de Abertos Recentemente. Pode marcar pastas profundamente aninhadas como Favoritos para aceder rapidamente sem ter de percorrer a estrutura de diretórios.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evervideo — Ligações Online e Acesso Rápido" image="/docs/guide/evervideo/img/evervideo-connections-online-links.webp" >}}
+  {{< ls-card title="" subtitle="Evervideo — Ligações Online e Acesso Rápido" image="/docs/guide/evervideo/img/evervideo-connections-online-links.webp" >}}
 {{< /cards >}}
 
 ## Ficheiros Nesta Aplicação
@@ -217,7 +217,7 @@ A secção Acesso Rápido fica no topo do separador Ficheiros. Dá-lhe acesso r�
 Esta secção mostra ficheiros e pastas armazenados no diretório Documentos da sandbox do Evervideo — tudo o que descarregou da nuvem, transferiu via Wi-Fi Drive, copiou através do Finder File Sharing ou importou de outra aplicação.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evervideo — Ficheiros Nesta Aplicação" image="/docs/guide/evervideo/img/evervideo-files-in-this-application.webp" >}}
+  {{< ls-card title="" subtitle="Evervideo — Ficheiros Nesta Aplicação" image="/docs/guide/evervideo/img/evervideo-files-in-this-application.webp" >}}
 {{< /cards >}}
 
 ### Pasta Documentos
@@ -225,7 +225,7 @@ Esta secção mostra ficheiros e pastas armazenados no diretório Documentos da 
 A pasta Documentos é a raiz de tudo dentro de Ficheiros Nesta Aplicação. Pode criar subpastas, renomear ficheiros, movê-los e agrupá-los como quiser.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evervideo — Ficheiros Locais — Pasta Documentos" image="/docs/guide/evervideo/img/evervideo-local-files-documents.webp" >}}
+  {{< ls-card title="" subtitle="Evervideo — Ficheiros Locais — Pasta Documentos" image="/docs/guide/evervideo/img/evervideo-local-files-documents.webp" >}}
 {{< /cards >}}
 
 ## Ficheiros Neste iPhone / iPad / Mac
@@ -238,7 +238,7 @@ Esta secção mostra vídeos localizados no dispositivo mas em aplicações dife
 Também pode usar Ligar uma Pasta para criar uma ligação a uma pasta no dispositivo com acesso de leitura / escrita — perfeito para trabalhar com uma pasta no iCloud Drive ou uma unidade USB anexada sem copiar nada.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evervideo — Ficheiros Neste Dispositivo" image="/docs/guide/evervideo/img/evervideo-files-on-this-device.webp" >}}
+  {{< ls-card title="" subtitle="Evervideo — Ficheiros Neste Dispositivo" image="/docs/guide/evervideo/img/evervideo-files-on-this-device.webp" >}}
 {{< /cards >}}
 
 ## Pastas Especiais
@@ -276,7 +276,7 @@ Quando abre uma pasta, toque no botão **"..."** no canto superior direito para 
 Toque em **"..."** no canto superior direito e escolha **Selecionar** para entrar no modo de seleção. Aparecem caixas de verificação ao lado de cada ficheiro e pasta. Toque para selecionar um ou vários itens e depois realize ações em lote: Reproduzir a Seguir, Reproduzir Mais Tarde, Adicionar à Biblioteca de Multimédia, Adicionar a uma Lista de Reprodução, Copiar, Enviar, Mover, Renomear ou Eliminar.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evervideo — Modo de Seleção no Gestor de Ficheiros" image="/docs/guide/evervideo/img/evervideo-selection-mode-in-files.webp" >}}
+  {{< ls-card title="" subtitle="Evervideo — Modo de Seleção no Gestor de Ficheiros" image="/docs/guide/evervideo/img/evervideo-selection-mode-in-files.webp" >}}
 {{< /cards >}}
 
 Se preferir tratar o armazenamento em nuvem ligado como somente leitura (para evitar eliminações acidentais), ative Configurações → Gestor de Ficheiros → Editar Ficheiros Online → Desativado para ocultar todas as operações destrutivas da interface.
@@ -318,13 +318,13 @@ Para cada pasta no armazenamento em nuvem, tem muitas ações disponíveis tocan
 No canto superior direito do separador Ficheiros há um botão **Transferências** (ícone de setas giratórias). Toque nele para abrir a Fila de Transferências — uma lista de cada descarregamento e envio ativo de todas as suas fontes, com progresso em tempo real, velocidade e ETA por ficheiro.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evervideo — Fila de Transferências de Ficheiros" image="/docs/guide/evervideo/img/evervideo-file-transfers.webp" >}}
+  {{< ls-card title="" subtitle="Evervideo — Fila de Transferências de Ficheiros" image="/docs/guide/evervideo/img/evervideo-file-transfers.webp" >}}
 {{< /cards >}}
 
 Pode pausar, retomar, repetir transferências falhadas, reorganizar itens para priorizar descarregamentos específicos ou cancelá-los individualmente. Também pode ajustar a velocidade da fila de transferências (máximo de tarefas paralelas), tipo de rede (apenas Wi-Fi ou Wi-Fi + Celular) e transferências em segundo plano em Configurações → Gestor de Ficheiros.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evervideo — Ações na Fila de Transferências de Ficheiros" image="/docs/guide/evervideo/img/evervideo-file-transfers-actions.webp" >}}
+  {{< ls-card title="" subtitle="Evervideo — Ações na Fila de Transferências de Ficheiros" image="/docs/guide/evervideo/img/evervideo-file-transfers-actions.webp" >}}
 {{< /cards >}}
 
 ## Modo Offline e Pastas Offline Sincronizadas

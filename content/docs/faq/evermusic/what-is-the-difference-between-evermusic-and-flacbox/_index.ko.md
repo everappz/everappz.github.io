@@ -11,7 +11,7 @@ Evermusic와 Flacbox는 Everappz에서 만든 iPhone, iPad, Mac용 고급 음악
 
 **간단한 답변:** 가장 매끄러운 종합 청취 경험, 끊김 없는 갭리스 및 크로스페이드 전환, Apple Music 라이브러리 접근을 원한다면 **Evermusic**을 선택하세요. 깊이 있는 사운드 조정(이펙트 랙과 DSP 체인), 선택 가능한 전문 오디오 엔진, 그리고 DSD, APE, WavPack을 포함한 최대한의 하이레스 및 무손실 포맷 지원을 원하는 오디오파일이라면 **Flacbox**를 선택하세요.
 
-{{< app-details ids="885367198, 1097564256" >}}
+{{< ls-app-details ids="885367198, 1097564256" >}}
 
 ## 기능 비교표
 
@@ -129,38 +129,38 @@ Evermusic와 Flacbox는 동일한 연결 계층을 공유하므로, 다음 기�
 
 ## 자주 묻는 질문
 
-{{% details title="Evermusic와 Flacbox의 주요 차이점은 무엇인가요?" closed="true" %}}
+{{% ls-details title="Evermusic와 Flacbox의 주요 차이점은 무엇인가요?" closed="true" %}}
 두 앱은 동일한 플랫폼과 연결을 공유하지만 오디오 측면이 다릅니다. Evermusic은 Apple의 AVPlayer와 Core Audio에서 실행되는 폭넓은 포맷의 일상용 플레이어로, 진정한 갭리스 재생, 크로스페이드, 공간 음향, Apple Music 라이브러리 가져오기를 제공합니다. Flacbox는 전문 BASS™ 오디오 엔진과 FFmpeg 디코딩을 추가하여, 14개 필터 DSP 체인, 더 많은 실시간 이펙트, 트래커/MOD 재생, 그리고 DSD, APE, WavPack을 포함한 가장 폭넓은 하이레스 및 무손실 포맷 지원을 제공합니다.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Evermusic과 Flacbox 중 어느 것이 더 나은가요?" closed="true" %}}
+{{% ls-details title="Evermusic과 Flacbox 중 어느 것이 더 나은가요?" closed="true" %}}
 어느 하나가 절대적으로 낫지는 않습니다. 두 앱은 서로 다른 청취자에게 맞춰져 있습니다. Evermusic은 갭리스 재생, 크로스페이드, 공간 음향 덕분에 매끄러운 일상 청취와 Apple Music 라이브러리도 사용하는 사람에게 더 좋습니다. Flacbox는 깊이 있는 사운드 조정, 선택 가능한 전문 오디오 엔진, 최대한의 하이레스 및 무손실 포맷 지원을 원하는 오디오파일에게 더 좋습니다.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Evermusic은 FFmpeg을 사용하나요?" closed="true" %}}
+{{% ls-details title="Evermusic은 FFmpeg을 사용하나요?" closed="true" %}}
 아니요. Evermusic은 Apple의 네이티브 오디오 스택인 AVPlayer와 Core Audio를 통해 완전하게 재생하며, Core Audio가 이펙트와 처리를 담당합니다. FFmpeg 디코딩은 Flacbox의 선택 가능한 BASS 엔진과 함께 Flacbox의 기능입니다.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Flacbox에는 갭리스 또는 크로스페이드 재생이 있나요?" closed="true" %}}
+{{% ls-details title="Flacbox에는 갭리스 또는 크로스페이드 재생이 있나요?" closed="true" %}}
 아니요. 진정한 갭리스 재생과 크로스페이드(1초에서 30초)는 Evermusic의 기능입니다. Flacbox는 대신 고해상도 재생, 전문 BASS 엔진, 이펙트 랙, DSP 체인에 집중합니다.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="FLAC, DSD, APE에는 어느 앱이 더 나은가요?" closed="true" %}}
+{{% ls-details title="FLAC, DSD, APE에는 어느 앱이 더 나은가요?" closed="true" %}}
 Flacbox입니다. 두 앱 모두 FLAC을 재생하지만, Flacbox는 FFmpeg과 BASS™ 엔진을 통해 FLAC, ALAC, DSD(DSF/DFF), APE, WavPack(WV), TTA, OPUS 등을 네이티브로 지원하는 고해상도 및 무손실 전문 앱입니다. 진지한 청취를 위한 더 정밀한 출력 제어도 제공합니다.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="어느 앱이 더 많은 오디오 이펙트와 DSP 체인을 갖고 있나요?" closed="true" %}}
+{{% ls-details title="어느 앱이 더 많은 오디오 이펙트와 DSP 체인을 갖고 있나요?" closed="true" %}}
 Flacbox입니다. Evermusic에는 6가지 이펙트(리버브, 딜레이, 디스토션, 컴프레서, 크로스피드, 볼륨 노멀라이제이션)가 있습니다. Flacbox에는 11가지 이펙트(코러스, 플랜저, 페이저, 오토와, 스테레오 로테이션, 멀티탭 에코 추가)와 직접 만드는 14개 필터 DSP 체인이 있습니다. DSP 체인은 Flacbox 전용입니다.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="두 앱은 동일한 클라우드 서비스, 미디어 서버, CarPlay를 지원하나요?" closed="true" %}}
+{{% ls-details title="두 앱은 동일한 클라우드 서비스, 미디어 서버, CarPlay를 지원하나요?" closed="true" %}}
 예. Evermusic와 Flacbox는 동일한 클라우드 스토리지(iCloud Drive, Google Drive, Dropbox, OneDrive, MEGA, pCloud, Internxt, Proton Drive 등), 동일한 미디어 서버(Plex, Subsonic, Navidrome, Jellyfin, Emby), 동일한 컴퓨터 및 NAS 프로토콜(SMB, WebDAV, FTP, SFTP, NFS, DLNA)에 연결되며, QNAP, Synology, Nextcloud, WD My Cloud Home에 대한 네이티브 지원을 제공합니다. 두 앱 모두 Apple CarPlay, AirPlay, Google Chromecast도 지원합니다.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Evermusic으로 Apple Music이나 iTunes 라이브러리를 재생할 수 있나요?" closed="true" %}}
+{{% ls-details title="Evermusic으로 Apple Music이나 iTunes 라이브러리를 재생할 수 있나요?" closed="true" %}}
 예. Evermusic은 클라우드 및 네트워크 소스에 더해 Apple Music / iTunes 라이브러리에서 음악을 가져와 재생할 수 있습니다. Flacbox는 클라우드, NAS, 로컬 스토리지에서 가져온 본인의 파일을 위해 설계되었으며 Apple Music 라이브러리를 가져오지 않습니다.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Evermusic과 Flacbox를 함께 사용할 수 있나요?" closed="true" %}}
+{{% ls-details title="Evermusic과 Flacbox를 함께 사용할 수 있나요?" closed="true" %}}
 예, 많은 사람이 그렇게 합니다. 흔한 설정은 일상적이고 끊김 없는 재생과 Apple Music 라이브러리 접근에는 Evermusic을, BASS 엔진, 이펙트, DSP 체인을 활용한 진지하고 고해상도의 청취에는 Flacbox를 사용하는 것입니다. 두 앱 모두 동일한 클라우드 및 NAS 소스에서 읽어오므로, 라이브러리를 어느 앱에서든 사용할 수 있습니다. 두 앱 모두 무료로 다운로드할 수 있으며 선택적 Premium 인앱 업그레이드를 제공합니다.
-{{% /details %}}
+{{% /ls-details %}}

@@ -18,7 +18,7 @@ Sekce Místní soubory slouží jako centrum pro správu souborů umístěných 
 Tento vestavěný správce souborů vám umožňuje upravovat soubory a nabízí různé metody pro import audio souborů do aplikace. Soubory, které jste naposledy otevřeli, se automaticky zobrazí na záložce **Nedávné** a položky označené hvězdičkou se zobrazí pod **Oblíbené**, takže se můžete přímo přejít k souborům, se kterými nejčastěji pracujete, aniž byste se museli vrátit na tuto obrazovku.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Obrazovka stahování Evertag" image="/docs/guide/evertag/img/downloads.webp" >}}
+  {{< ls-card title="" subtitle="Obrazovka stahování Evertag" image="/docs/guide/evertag/img/downloads.webp" >}}
 {{< /cards >}}
 
 ## Stahování souborů z cloudového úložiště
@@ -74,7 +74,7 @@ Zobrazuje soubory a složky uložené v adresáři Dokumenty aplikace a iCloud D
 Zobrazuje soubory umístěné na vašem zařízení, ale v různých aplikacích. Můžete je importovat do této aplikace pomocí systémového výběru souborů. Pro aktivaci výběru zvolte "Otevřít soubory..." pro výběr souborů nebo "Otevřít složky..." pro výběr složek. Podrobné pokyny o importu místní hudby uložené na iPhone nebo Macu jsou k dispozici [zde](/docs/howto/how-to-play-local-music-stored-on-your-iphone-or-mac). Můžete také připojit složku umístěnou na vašem zařízení a mít rychlý přístup k obsahu složky. Použijte položku nabídky "Připojit složku" a vyberte složku umístěnou na vašem zařízení. Klepněte na "Hotovo" a aplikace vytvoří odkaz na tuto složku s přístupem pro čtení/zápis, čímž vám umožní spravovat soubory přímo z této aplikace. Pro odpojení složky umístěné na vašem zařízení klepněte na tlačítko "Další akce" a zvolte "Odpojit".
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Import souborů z mého zařízení v Evertag" image="/docs/guide/evertag/img/open-files.webp" >}}
+  {{< ls-card title="" subtitle="Import souborů z mého zařízení v Evertag" image="/docs/guide/evertag/img/open-files.webp" >}}
 {{< /cards >}}
 
 ## Import souborů z připojených USB karet
@@ -86,7 +86,7 @@ Podrobné pokyny o připojení USB karty k iPhone a správě souborů na ní jso
 Nabídka Další akce pro aktuálně otevřenou složku je umístěna v pravém horním rohu a poskytuje přístup k různým akcím.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Import souborů z mého zařízení v Evertag" image="/docs/guide/evertag/img/downloads-current-folder-actions.webp" >}}
+  {{< ls-card title="" subtitle="Import souborů z mého zařízení v Evertag" image="/docs/guide/evertag/img/downloads-current-folder-actions.webp" >}}
 {{< /cards >}}
 
 - **Vybrat:** přepněte do režimu výběru souborů a složek.  

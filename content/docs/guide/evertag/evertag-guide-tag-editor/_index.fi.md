@@ -15,7 +15,7 @@ readingTime: 5
 **Tunnistemuokkain** on Evertag-sovelluksen päänäyttö, jossa voit tarkastella ja muokata äänitiedostojen metatietoja. Avaa tämä näyttö napauttamalla tiedostoa **Paikalliset tiedostot** -osiosta tai mistä tahansa yhdistetystä **pilvipalvelu**-tilistä.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evertag Tag Editor Screen" image="/docs/guide/evertag/img/tag-editor.webp" >}}
+  {{< ls-card title="" subtitle="Evertag Tag Editor Screen" image="/docs/guide/evertag/img/tag-editor.webp" >}}
 {{< /cards >}}
 
 ## Muokkaustilat
@@ -38,7 +38,7 @@ Oletusarvoisesti sovellus avaa tunnistemuokkaimen yksittäinen tiedosto -tilassa
 Päästäksesi kaikkiin saatavilla oleviin tunnisteisiin, selaa näytön alareunaan ja napauta **Näytä laajennetut tunnisteet** -vaihtoehtoa. Tämä vaihtaa editorin laajennettuun tilaan, jolloin voit muokata yli **120 metatietokenttää**, mukaan lukien **MusicBrainz-tunnisteet**, **sanoitukset**, **vanhempien ohjausta koskevat arviot**, replay-gain-arvot, lajittelujärjestykset, podcast-metatiedot ja paljon muuta. Käytä **Asetukset → Äänitunnistemuokkain → Painikkeet päänäytöllä** pysyvän Näytä laajennetut tunnisteet -kytkimen aktivoimiseen, jolloin se on aina päällä.
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Bottom Actions Panel" image="/docs/guide/evertag/img/tag-editor-bottom-actions.webp" >}}
+{{< ls-card title="" subtitle="Bottom Actions Panel" image="/docs/guide/evertag/img/tag-editor-bottom-actions.webp" >}}
 {{< /cards >}}
 
 ## Eräkäsittelytila
@@ -53,7 +53,7 @@ Voit siirtyä erämuokkaukseen kahdella tavalla:
    - Avaa mikä tahansa tiedosto, selaa alas ja napauta **Muokkaa tiedostoja samanaikaisesti** ladataksesi kaikki saman kansion tiedostot.
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Batch Editing Mode" image="/docs/guide/evertag/img/tag-editor-batch-editing.webp" >}}
+{{< ls-card title="" subtitle="Batch Editing Mode" image="/docs/guide/evertag/img/tag-editor-batch-editing.webp" >}}
 {{< /cards >}}
 
 Muokkaamisen jälkeen napauta **Tallentaa** muutosten soveltamiseksi.
@@ -72,19 +72,19 @@ Sanoituksia ei tarvitse kirjoittaa alusta asti. Editori sisältää yhden napin 
 Jokainen pikavalikko näkyy vain, kun vastaava palvelu on tavoitettavissa laitteeltasi. Napauta palvelua, kopioi haluamasi sanoitukset (tai LRC-aikaleimat), palaa Evertagiin ja liitä ne tekstikenttään — sitten **Tallentaa** kirjoittaaksesi sanoitukset takaisin äänitiedoston tunnisteisiin.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Lyrics Pages" image="/docs/guide/evertag/img/tag-editor-lyrics-pages.webp" >}}
+  {{< ls-card title="" subtitle="Lyrics Pages" image="/docs/guide/evertag/img/tag-editor-lyrics-pages.webp" >}}
 {{< /cards >}}
 
 Valitse kieli valitsimesta:
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Lyrics Language Selector" image="/docs/guide/evertag/img/tag-editor-lyrics-language-select.webp" >}}
+  {{< ls-card title="" subtitle="Lyrics Language Selector" image="/docs/guide/evertag/img/tag-editor-lyrics-language-select.webp" >}}
 {{< /cards >}}
 
 Liitä tai kirjoita sitten sanoitusteksti. Evertag tukee sekä pelkkää tekstiä että ajoitettuja (synkronoituja) sanoituksia — paikkamerkki näyttää esimerkin LRC-tyylisestä muodosta, joka on täsmälleen se, mitä Lrclib ja Lyricsify palauttavat synkronoiduille tuloksille.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Lyrics Text Editor" image="/docs/guide/evertag/img/tag-editor-lyrics-text.webp" >}}
+  {{< ls-card title="" subtitle="Lyrics Text Editor" image="/docs/guide/evertag/img/tag-editor-lyrics-text.webp" >}}
 {{< /cards >}}
 
 ## Arvion ja Sisältöluokituksen Asettaminen
@@ -96,7 +96,7 @@ Laajennettu editori tarjoaa tähti-**Arvio**-säätimen ja **Sisältöluokitus**
 Käytä **Arvio**-kenttää antaaksesi kappaleelle henkilökohtainen pisteet yhdestä viiteen tähteen. Arvo kirjoitetaan tiedoston standardiarvio-tunnistekenttään (POPM ID3:lle, `rate` MP4:lle, `RATING` Vorbis/APE:lle jne.), joten muut sovellukset, jotka lukevat tätä tunnistetta — mukaan lukien Musiikki-sovellus, Plex, Roon ja useimmat työpöydän tunnistemuokkaimet — poimivat arvosi välittömästi.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Rating" image="/docs/guide/evertag/img/tag-editor-rating.webp" >}}
+  {{< ls-card title="" subtitle="Rating" image="/docs/guide/evertag/img/tag-editor-rating.webp" >}}
 {{< /cards >}}
 
 ### Sisältöluokitus
@@ -115,7 +115,7 @@ Sinun kannattaa asettaa tai korjata tämä kenttä, kun:
 - Haluat CarPlayn, lukitusnäytön, Apple Music -tyylisten soitinten tai DJ-ohjelmiston näyttävän oikean **E** / **C** -merkin kappaleen otsikon vieressä.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Lyrics Advisory Rating" image="/docs/guide/evertag/img/lyrics-advisory-rating.webp" >}}
+  {{< ls-card title="" subtitle="Lyrics Advisory Rating" image="/docs/guide/evertag/img/lyrics-advisory-rating.webp" >}}
 {{< /cards >}}
 
 ## Albumin Kansikuvan Muokkaaminen
@@ -127,7 +127,7 @@ Albumin kansikuvan vaihtaminen:
 3. Valitse kuva, jota käytetään kansikuvana.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Select Image" image="/docs/guide/evertag/img/select-image.webp" >}}
+  {{< ls-card title="" subtitle="Select Image" image="/docs/guide/evertag/img/select-image.webp" >}}
 {{< /cards >}}
 
 ## Lisää Toimintoja Tunnistemuokkaimessa
@@ -135,7 +135,7 @@ Albumin kansikuvan vaihtaminen:
 Lisämuokkausvaihtoehdot ovat saatavilla kansikuvanäkymän alla olevan työkalupalkin kautta.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="More Actions Menu" image="/docs/guide/evertag/img/tag-editor-more-actions.webp" >}}
+  {{< ls-card title="" subtitle="More Actions Menu" image="/docs/guide/evertag/img/tag-editor-more-actions.webp" >}}
 {{< /cards >}}
 
 ### Automaattinen Äänitunnisteiden Haku
@@ -148,13 +148,13 @@ Sovellus käyttää MusicBrainz-tietokantaa — yhtä kattavimmista tunnistekann
 Käytä metatietoja hakemaan verkosta oikea albumin kansikuva.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Search Album Cover" image="/docs/guide/evertag/img/search-album-cover.webp" >}}
+  {{< ls-card title="" subtitle="Search Album Cover" image="/docs/guide/evertag/img/search-album-cover.webp" >}}
 {{< /cards >}}
 
 Kun löydetty, tallenna kuva **Kuviin** järjestelmän kontekstivalikon avulla.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Add Image to Photos" image="/docs/guide/evertag/img/add-image-to-photos.webp" >}}
+  {{< ls-card title="" subtitle="Add Image to Photos" image="/docs/guide/evertag/img/add-image-to-photos.webp" >}}
 {{< /cards >}}
 
 Sen jälkeen palaa tunnistemuokkaimeen, napauta Kamera-kuvaketta, siirry **Kuvat-kirjastoon** ja valitse tallennettu kuva. Sovellus asettaa sen äänitiedostosi kansikuvaksi.
@@ -176,19 +176,19 @@ Etsi albumin metatietoja manuaalisesti MusicBrainz-tietokannan avulla.
 - Valitse albumi
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Select Album" image="/docs/guide/evertag/img/select-album-results.webp" >}}
+  {{< ls-card title="" subtitle="Select Album" image="/docs/guide/evertag/img/select-album-results.webp" >}}
 {{< /cards >}}
 
 - Valitse oikea kappale
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Select Song" image="/docs/guide/evertag/img/select-a-song.webp" >}}
+  {{< ls-card title="" subtitle="Select Song" image="/docs/guide/evertag/img/select-a-song.webp" >}}
 {{< /cards >}}
 
 - Valitse, mitkä tunnisteet otetaan käyttöön
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Select Audio Tags" image="/docs/guide/evertag/img/select-audio-tags.webp" >}}
+  {{< ls-card title="" subtitle="Select Audio Tags" image="/docs/guide/evertag/img/select-audio-tags.webp" >}}
 {{< /cards >}}
 
 Napauta **Valmis** soveltaaksesi valitut metatiedot kappaleellesi.

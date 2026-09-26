@@ -12,7 +12,7 @@ authors:
     image: "/images/about/artem-meleshko-founder-everappz.webp"
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 **Підсумок:** Встановіть [Flacbox з App Store](https://apps.apple.com/us/app/flacbox-flac-player-music/id1097564256?mt=8) для відтворення FLAC, DSD, ALAC та 120+ інших аудіо форматів на iPhone та Mac. Імпортуйте файли через iTunes File Sharing, Wi-Fi Drive або хмарне сховище. Без конвертації. Flacbox декодує безвтратні формати нативно.
 
@@ -59,26 +59,26 @@ authors:
 
 ## Часті запитання
 
-{{< details title="Чи потрібна підписка Flacbox для відтворення безвтратних файлів?" closed="true" >}}
+{{< ls-details title="Чи потрібна підписка Flacbox для відтворення безвтратних файлів?" closed="true" >}}
 Flacbox пропонує базове відтворення без підписки. Ви можете імпортувати та відтворювати FLAC, DSD, ALAC та інші безвтратні формати одразу після завантаження.
-{{< /details >}}
+{{< /ls-details >}}
 
-{{< details title="Чи може Flacbox відтворювати DSD файли без конвертації в PCM?" closed="true" >}}
+{{< ls-details title="Чи може Flacbox відтворювати DSD файли без конвертації в PCM?" closed="true" >}}
 Так, Flacbox підтримує нативне відтворення DSD включаючи DSD64, DSD128 та DSD256.
-{{< /details >}}
+{{< /ls-details >}}
 
-{{< details title="Як перенести великі безвтратні колекції на iPhone?" closed="true" >}}
+{{< ls-details title="Як перенести великі безвтратні колекції на iPhone?" closed="true" >}}
 Flacbox надає кілька варіантів: Wi-Fi Drive, iTunes File Sharing, хмарні сервіси або зовнішній накопичувач через Lightning/USB-C.
-{{< /details >}}
+{{< /ls-details >}}
 
-{{< details title="Чи є різниця в якості між FLAC та ALAC у Flacbox?" closed="true" >}}
+{{< ls-details title="Чи є різниця в якості між FLAC та ALAC у Flacbox?" closed="true" >}}
 Обидва є безвтратними кодеками з ідентичним аудіо виходом. Flacbox обробляє обидва з однаковою точністю.
-{{< /details >}}
+{{< /ls-details >}}
 
-{{< details title="Який найкращий спосіб відтворити FLAC на iPhone?" closed="true" >}}
+{{< ls-details title="Який найкращий спосіб відтворити FLAC на iPhone?" closed="true" >}}
 Встановіть Flacbox, імпортуйте файли через iTunes File Sharing, Wi-Fi Drive, хмару або зовнішній накопичувач. Flacbox декодує FLAC нативно до 32-bit/384 kHz.
-{{< /details >}}
+{{< /ls-details >}}
 
-{{< details title="Чи працює Flacbox з NAS та домашніми серверами?" closed="true" >}}
+{{< ls-details title="Чи працює Flacbox з NAS та домашніми серверами?" closed="true" >}}
 Так. Flacbox підключається до NAS та домашніх серверів через SMB, WebDAV та DLNA.
-{{< /details >}}
+{{< /ls-details >}}

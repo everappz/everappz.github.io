@@ -12,7 +12,7 @@ authors:
     image: "/images/about/artem-meleshko-founder-everappz.webp"
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 ![](/blog/audio-streaming-and-caching-in-ios-using-avassetresourceloader-and-avplayer/diagram.png)
 
@@ -134,18 +134,18 @@ self.player = [AVPlayer playerWithPlayerItem:item];
 
 ## שאלות נפוצות
 
-{{% details title="מתי להשתמש ב-AVAssetResourceLoaderDelegate במקום URL ישיר?" closed="true" %}}
+{{% ls-details title="מתי להשתמש ב-AVAssetResourceLoaderDelegate במקום URL ישיר?" closed="true" %}}
 השתמשו בו כאשר שירות הענן דורש כותרות הרשאה מותאמות, כאשר אתם זקוקים למטמון דיסק לאודיו שמסטרמים, או כאשר אתם רוצים שליטה מדויקת על אופן טעינת הנתונים ואחסונם בחוצץ.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="האם גישה זו עובדת עם Swift?" closed="true" %}}
+{{% ls-details title="האם גישה זו עובדת עם Swift?" closed="true" %}}
 כן. פרוטוקול `AVAssetResourceLoaderDelegate` עובד באותו אופן ב-Swift. דוגמאות Objective-C שכאן מתורגמות ישירות.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="האם ניתן להשתמש בזה גם לסטרימינג וידאו?" closed="true" %}}
+{{% ls-details title="האם ניתן להשתמש בזה גם לסטרימינג וידאו?" closed="true" %}}
 כן. `AVAssetResourceLoaderDelegate` עובד עם כל סוג מדיה שנתמך על ידי AVPlayer, כולל וידאו. אותה גישה עם סכמה מותאמת חלה גם כאן.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="האם זה תומך בניגון אודיו ברקע?" closed="true" %}}
+{{% ls-details title="האם זה תומך בניגון אודיו ברקע?" closed="true" %}}
 כן, כל עוד אתם מפעילים את מצב הרקע "Audio, AirPlay, and Picture in Picture" ביכולות האפליקציה ומגדירים את ה-`AVAudioSession` שלכם כראוי.
-{{% /details %}}
+{{% /ls-details %}}

@@ -21,7 +21,7 @@ readingTime: 8
 您有兩種方法將媒體新增到資料庫：**手動新增**（您確切選擇要新增的內容）或**自動同步**（Evervideo 掃描指定的雲端資料夾，並在新檔案出現時自動新增）。
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evervideo 媒體資料庫" image="/docs/guide/evervideo/img/evervideo-genres-in-media-library.webp" >}}
+  {{< ls-card title="" subtitle="Evervideo 媒體資料庫" image="/docs/guide/evervideo/img/evervideo-genres-in-media-library.webp" >}}
 {{< /cards >}}
 
 ## 手動新增
@@ -92,7 +92,7 @@ Evervideo 還從 Music 應用程式資料庫中讀取視訊（您從 iTunes 購�
 此部分顯示所有最近播放的視訊及其最後播放位置，讓您只需一次點選即可繼續任何視訊。您可以在設定 → 媒體資料庫 → 最近使用的 → 變更清單大小中變更清單保留的條目數量，並將清單匯出到 M3U / CSV / TXT 以備份您的觀看紀錄。
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evervideo 最近使用的 — 最近觀看的視訊" image="/docs/guide/evervideo/img/evervideo-recents.webp" >}}
+  {{< ls-card title="" subtitle="Evervideo 最近使用的 — 最近觀看的視訊" image="/docs/guide/evervideo/img/evervideo-recents.webp" >}}
 {{< /cards >}}
 
 ## 最愛項目
@@ -104,7 +104,7 @@ Evervideo 還從 Music 應用程式資料庫中讀取視訊（您從 iTunes 購�
 Evervideo 追蹤您觀看的每個視訊的播放位置。任何清單中的每個視訊——最近使用的、最愛項目、專輯、流派、播放清單、資料夾——都顯示一個小進度條，讓您一眼就能看到您已經看了多少。這使得管理長時間的電視劇季、課程播放清單和馬拉松觀影之夜變得輕鬆。
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evervideo 流派詳情（帶每檔案觀看進度）" image="/docs/guide/evervideo/img/evervideo-genre-detail-with-playback-progress-for-watched-files.webp" >}}
+  {{< ls-card title="" subtitle="Evervideo 流派詳情（帶每檔案觀看進度）" image="/docs/guide/evervideo/img/evervideo-genre-detail-with-playback-progress-for-watched-files.webp" >}}
 {{< /cards >}}
 
 ## 頂部工具列
@@ -116,7 +116,7 @@ Evervideo 追蹤您觀看的每個視訊的播放位置。任何清單中的每�
 搜尋功能使您能夠在媒體資料庫中找到特定的標題、專輯、流派或播放清單。在搜尋畫面中，您可以存取排序、篩選和格線 / 清單視圖操作。搜尋在媒體資料庫上本機執行，因此它完全離線工作，並在您輸入時回傳結果。
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evervideo 媒體資料庫搜尋" image="/docs/guide/evervideo/img/evervideo-library-search.webp" >}}
+  {{< ls-card title="" subtitle="Evervideo 媒體資料庫搜尋" image="/docs/guide/evervideo/img/evervideo-library-search.webp" >}}
 {{< /cards >}}
 
 ## 選項選單

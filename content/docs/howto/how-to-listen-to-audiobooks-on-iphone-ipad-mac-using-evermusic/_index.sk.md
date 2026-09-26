@@ -7,7 +7,7 @@ tags: ["audioknihy", "prehrávanie", "offline", "evermusic", "záložka"]
 readingTime: 5
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **TL;DR:** Evermusic funguje aj ako plnohodnotný prehrávač audiokníh na iOS a macOS. Preneste audioknihy cez iTunes, WiFi alebo cloudové úložisko a potom využívajte ovládanie rýchlosti prehrávania, tlačidlá preskočenia času, zvukové záložky, pokračovanie prehrávania a offline sťahovanie pre bezproblémový zážitok z počúvania.
@@ -151,26 +151,26 @@ Príjemné počúvanie!
 
 ## Často kladené otázky
 
-{{% details title="Aké formáty audiokníh Evermusic podporuje?" closed="true" %}}
+{{% ls-details title="Aké formáty audiokníh Evermusic podporuje?" closed="true" %}}
 Evermusic podporuje MP3, M4A, M4B, FLAC, WAV, AIFF, OGG a ďalšie bežné audio formáty. Akýkoľvek audio súbor, ktorý sa prehrá v Evermusic, funguje ako audiokniha.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Môžem počúvať audioknihy z cloudového úložiska?" closed="true" %}}
+{{% ls-details title="Môžem počúvať audioknihy z cloudového úložiska?" closed="true" %}}
 Áno. Evermusic sa pripája k iCloud Drive, Google Drive, Dropbox, OneDrive, Box a WebDAV serverom. Audioknihy môžete streamovať priamo alebo si ich stiahnuť pre offline počúvanie.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Prenesú sa moje záložky na nové zariadenie?" closed="true" %}}
+{{% ls-details title="Prenesú sa moje záložky na nové zariadenie?" closed="true" %}}
 Áno. Evermusic ukladá zvukové záložky v metadátach súboru, takže sa automaticky prenesú, keď presuniete súbory na nové zariadenie.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Pamätá si Evermusic, kde som prestal počúvať?" closed="true" %}}
+{{% ls-details title="Pamätá si Evermusic, kde som prestal počúvať?" closed="true" %}}
 Áno. Povoľte "Uložiť pozíciu prehrávania" a "Uložiť stav audio prehrávača" v Nastavenia > Audio prehrávač > Všeobecné. Aplikácia ukladá a obnovuje vašu presnú pozíciu medzi reláciami.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Môžem upraviť rýchlosť prehrávania audiokníh?" closed="true" %}}
+{{% ls-details title="Môžem upraviť rýchlosť prehrávania audiokníh?" closed="true" %}}
 Áno. Prejdite na Nastavenia > Audio prehrávač > Rýchlosť prehrávania pre nastavenie preferovanej rýchlosti. Môžete zrýchliť alebo spomaliť rozprávanie podľa vašich preferencií.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Ako prenesiem audioknihy do Evermusic?" closed="true" %}}
+{{% ls-details title="Ako prenesiem audioknihy do Evermusic?" closed="true" %}}
 Súbory môžete prenášať cez zdieľanie súborov iTunes/Finder, WiFi Drive (vstavaný v aplikácii) alebo pripojením účtu cloudového úložiska v Evermusic.
-{{% /details %}}
+{{% /ls-details %}}

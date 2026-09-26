@@ -23,7 +23,7 @@ readingTime: 14
 您可以從迷你播放器列進入全螢幕播放器。在 iPhone 上，迷你播放器位於主畫面底部。在 iPad 和 Mac 上，它位於左側。要在 iPhone 上隱藏迷你播放器，點擊一次然後向下滑動。要完全關閉全螢幕播放器，點擊右下角的關閉按鈕。
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox 音訊播放器主畫面" image="/docs/guide/flacbox/img/audio-player-main-screen.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox 音訊播放器主畫面" image="/docs/guide/flacbox/img/audio-player-main-screen.webp" >}}
 {{< /cards >}}
 
 ## 支援的音訊格式
@@ -66,7 +66,7 @@ Flacbox 可播放最流行的音訊格式——包括 Apple 系統編解碼器�
 Flacbox 包含一個帶有 iPod 風格預設的 **10 段等化器**。在音量視圖上點擊等化器，然後在右上角打開它。您可以使用 Acoustic 和 Bass Booster 等預設，或用滑桿調整每個頻段。製作您自己的預設，以任意名稱儲存，並用前置放大器提升整體音量。我們有關於如何使用等化器的更詳細說明[在這裡](/docs/howto/how-to-use-the-audio-equalizer-on-your-iphone-ipad-mac-with-evermusic-and-flacbox)。
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox 音訊播放器等化器" image="/docs/guide/flacbox/img/audio-player-equalizer.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox 音訊播放器等化器" image="/docs/guide/flacbox/img/audio-player-equalizer.webp" >}}
 {{< /cards >}}
 
 ## 播放器模式工具列
@@ -82,7 +82,7 @@ Flacbox 包含一個帶有 iPod 風格預設的 **10 段等化器**。在音量�
 要查看播放佇列，點擊當前歌曲右側的佇列按鈕。佇列中的每首歌都有更多操作——點擊三點圖示查看。要在佇列中重新排序歌曲，使用標題旁邊的重新排序指示器將其拖曳到新位置。
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox 播放佇列" image="/docs/guide/flacbox/img/playback_queue.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox 播放佇列" image="/docs/guide/flacbox/img/playback_queue.webp" >}}
 {{< /cards >}}
 
 ## 評論 / 歌詞
@@ -98,7 +98,7 @@ Flacbox 包含一個帶有 iPod 風格預設的 **10 段等化器**。在音量�
 之後，多次點擊畫面底部的播放器佇列按鈕，從專輯封面 / 佇列視圖切換到評論視圖。在評論畫面，向右滑動以在**評論**、**嵌入歌詞**和 **LRC 檔案**之間切換。完整說明請見[這裡](/docs/howto/how-to-add-and-view-comments-to-your-audio-tracks-on-iphone-ipad-and-mac-with-evermusic-and-flacbox)。
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox 歌詞和評論畫面" image="/docs/guide/flacbox/img/lyrics-screen.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox 歌詞和評論畫面" image="/docs/guide/flacbox/img/lyrics-screen.webp" >}}
 {{< /cards >}}
 
 ## 選項選單
@@ -121,7 +121,7 @@ Flacbox 包含一個帶有 iPod 風格預設的 **10 段等化器**。在音量�
 對於音訊播放器佇列中正在播放的項目，也提供相同的選項，可透過點擊曲目標題旁的**更多操作**圖示存取。
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox 播放佇列中項目的選項" image="/docs/guide/flacbox/img/options-for-item-in-playback-queue.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox 播放佇列中項目的選項" image="/docs/guide/flacbox/img/options-for-item-in-playback-queue.webp" >}}
 {{< /cards >}}
 
 ## 其他播放器操作
@@ -143,7 +143,7 @@ Flacbox 包含一個帶有 iPod 風格預設的 **10 段等化器**。在音量�
 - **說明** — 尋找說明和指導。
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox 音訊播放器更多操作畫面" image="/docs/guide/flacbox/img/audio-player-more-actions-screen.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox 音訊播放器更多操作畫面" image="/docs/guide/flacbox/img/audio-player-more-actions-screen.webp" >}}
 {{< /cards >}}
 
 ## 音訊書籤
@@ -161,7 +161,7 @@ Flacbox 包含一個帶有 iPod 風格預設的 **10 段等化器**。在音量�
 編輯當前曲目的書籤很簡單：點擊右上角的編輯進入編輯模式。在此模式下，您可以重新排列書籤、刪除書籤、調整書籤時間以及更改書籤標題。關於音訊書籤的更詳細說明[在這裡](/docs/howto/how-to-listen-to-audiobooks-on-iphone-ipad-mac-using-evermusic)。
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox 音訊書籤畫面" image="/docs/guide/flacbox/img/audio-bookmarks.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox 音訊書籤畫面" image="/docs/guide/flacbox/img/audio-bookmarks.webp" >}}
 {{< /cards >}}
 
 ## 最近和最愛
@@ -175,7 +175,7 @@ Flacbox 包含一個帶有 iPod 風格預設的 **10 段等化器**。在音量�
 [閱讀完整 CarPlay 指南](/docs/howto/how-to-play-your-own-music-on-iphone-using-carplay/)。
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox 在 Apple CarPlay 上" image="/docs/guide/flacbox/img/carplay-main.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox 在 Apple CarPlay 上" image="/docs/guide/flacbox/img/carplay-main.webp" >}}
 {{< /cards >}}
 
 ## 主畫面小工具（iPhone & iPad）
@@ -243,7 +243,7 @@ Mac 使用者可以使用緊湊的始終置頂迷你播放器。將游標移到 
 將音訊播放器的播放速度從 **0.02× 調整到 3.00×**。點擊右上角的配置圖示切換到**精確模式**以進行更精細的調整。
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox 播放速度畫面" image="/docs/guide/flacbox/img/playback-speed.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox 播放速度畫面" image="/docs/guide/flacbox/img/playback-speed.webp" >}}
 {{< /cards >}}
 
 ### 音調校正

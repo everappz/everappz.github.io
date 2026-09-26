@@ -12,7 +12,7 @@ authors:
     image: "/images/about/artem-meleshko-founder-everappz.webp"
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 **Resumo:** O [Evertag 4.2](/products/evertag) é uma atualização importante do editor de tags de áudio para iPhone, iPad e Mac. Eliminámos bugs-chave de edição de tags e adicionámos mais de 6 novas ligações à nuvem e a servidores — **Internxt**, **Proton Drive**, **QNAP**, **Nextcloud**, **Amazon S3**, além dos protocolos **FTP**, **SFTP** e **NFS**. O Wi-Fi Drive ganhou uma interface renovada, modo de seleção múltipla, fila de envio mais inteligente e transferências mais rápidas. Toda a app está afinada para o design **Liquid Glass**. Este artigo aprofunda também as definições do editor de tags do Evertag — explicando **ID3v2.4 vs ID3v2.3**, **escala da capa**, **tags duplicadas**, **modos de envio para a nuvem**, **eliminação do ficheiro descarregado** e exatamente que opções escolher se estás a preparar áudio para **Spotify**, **Apple Music**, **Plex**, **Jellyfin** ou qualquer outro serviço de streaming.
 
@@ -229,50 +229,50 @@ Se gostas da app, deixa uma avaliação na App Store — ajuda imenso. Tens feed
 
 ## Perguntas frequentes
 
-{{% details title="O que há de novo no Evertag 4.2?" closed="true" %}}
+{{% ls-details title="O que há de novo no Evertag 4.2?" closed="true" %}}
 O Evertag 4.2 acrescenta mais de 6 novas ligações à nuvem e a servidores (Internxt, Proton Drive, QNAP, Nextcloud, Amazon S3, FTP, SFTP, NFS), um Wi-Fi Drive renovado com seleção múltipla e fila de envio mais inteligente, atualizações de UI Liquid Glass, bibliotecas de ligação atualizadas, correções-chave de edição de tags e melhorias de tradução.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Devo usar ID3v2.4 ou ID3v2.3 no Evertag?" closed="true" %}}
+{{% ls-details title="Devo usar ID3v2.4 ou ID3v2.3 no Evertag?" closed="true" %}}
 Usa **ID3v2.4** para leitores modernos (Evermusic, Plex, Jellyfin, Apple Music, foobar2000, VLC, apps Android modernas) e para bibliotecas com caracteres não latinos — o suporte a UTF-8 dá tags mais limpas em chinês, coreano, japonês, russo, árabe e hebraico. Usa **ID3v2.3** se as tuas tags aparecem incorretamente em algumas apps, se apontas a sistemas de auto antigos ou se uma pipeline de distribuidor de streaming rejeita v2.4. Podes sempre alternar e voltar a guardar.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Porque é que as minhas tags ficam erradas no Spotify depois de editar?" closed="true" %}}
+{{% ls-details title="Porque é que as minhas tags ficam erradas no Spotify depois de editar?" closed="true" %}}
 O Spotify mostra sobretudo metadados do seu próprio catálogo — as tuas tags locais só são usadas para «Ficheiros locais» ou para conteúdo que enviaste como artista. Se estás a etiquetar ficheiros para Ficheiros locais do Spotify e não aparecem corretamente, experimenta desativar o ID3v2.4 no Evertag e guardar como ID3v2.3 — o parser do Spotify tem sido historicamente conservador com v2.4.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Que tamanho de capa devo escolher no Evertag?" closed="true" %}}
+{{% ls-details title="Que tamanho de capa devo escolher no Evertag?" closed="true" %}}
 Para a maioria dos utilizadores: **Grande**. Fica ótimo em telemóveis, iPads, Macs e ecrãs de auto modernos sem inflar demasiado os ficheiros. Usa **Médio** se tens uma biblioteca enorme e queres poupar disco. Usa **Original** (sem redimensionamento) só para masters de arquivo ou quando precisas mesmo de qualidade máxima — mas atenção, alguns leitores antigos têm dificuldade com capas embebidas muito grandes. **Original** faz parte da atualização de personalização premium do Evertag.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Capas maiores tornam os meus ficheiros maiores?" closed="true" %}}
+{{% ls-details title="Capas maiores tornam os meus ficheiros maiores?" closed="true" %}}
 Sim. Embeber uma capa de 3.000 × 3.000 px pode acrescentar vários megabytes a um único ficheiro de áudio. Numa biblioteca de 1.000 faixas, dá gigabytes. Se estás apertado de armazenamento, usa Médio ou Grande; se transmites a partir de um NAS onde o tamanho não importa, Extra grande ou Original servem.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="O que são Tags duplicadas e devo ativá-las?" closed="true" %}}
+{{% ls-details title="O que são Tags duplicadas e devo ativá-las?" closed="true" %}}
 As Tags duplicadas escrevem os metadados centrais nas secções ID3v1 (legacy 128 bytes) e ID3v2 (moderna) do ficheiro. Ativa-as só se apontas a leitores muito antigos ou hardware que lê ID3v1. Para tudo o que é moderno (smartphones, computadores, sistemas de auto recentes), deixa desativado.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="O Evertag edita tags diretamente em ficheiros na nuvem?" closed="true" %}}
+{{% ls-details title="O Evertag edita tags diretamente em ficheiros na nuvem?" closed="true" %}}
 Sim. Liga-te à tua nuvem (Google Drive, Dropbox, OneDrive, iCloud Drive, Internxt, Proton Drive, QNAP, Nextcloud, Amazon S3, etc.) ou via FTP/SFTP/NFS, abre um ficheiro e edita tags como se fosse local. O Evertag descarrega o ficheiro, aplica as alterações e volta a enviar a versão atualizada. Podes escolher entre os modos «Perguntar sempre», «Auto-envio» ou «Não enviar» nas definições.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Posso editar tags FLAC no iPhone com o Evertag?" closed="true" %}}
+{{% ls-details title="Posso editar tags FLAC no iPhone com o Evertag?" closed="true" %}}
 Sim. O Evertag suporta FLAC, MP3, M4A/MP4, AIFF, WAV, OGG, APE e outros formatos importantes com pleno suporte de leitura/escrita de tags, incluindo capa embebida.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Como edito tags em segurança no meu servidor doméstico com SFTP?" closed="true" %}}
+{{% ls-details title="Como edito tags em segurança no meu servidor doméstico com SFTP?" closed="true" %}}
 Abre o Evertag, vai a Ligações, escolhe SFTP e introduz o nome do anfitrião ou IP do servidor, a porta (normalmente 22), o nome de utilizador e uma palavra-passe ou uma chave SSH privada. O Evertag percorre as tuas pastas remotas e edita tags diretamente com encriptação ponto-a-ponto sobre SSH.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Posso editar tags em vários ficheiros ao mesmo tempo?" closed="true" %}}
+{{% ls-details title="Posso editar tags em vários ficheiros ao mesmo tempo?" closed="true" %}}
 Sim. Ativa **Editar ficheiros simultaneamente** nas definições. Seleciona vários ficheiros, abre o editor de tags e qualquer campo que alteres aplica-se a todos os ficheiros selecionados. É a forma mais rápida de definir o mesmo artista do álbum, ano ou género num álbum inteiro.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="A atualização para o Evertag 4.2 é gratuita?" closed="true" %}}
+{{% ls-details title="A atualização para o Evertag 4.2 é gratuita?" closed="true" %}}
 Sim. O Evertag é um download gratuito da App Store, e a 4.2 é uma atualização gratuita para todos os utilizadores existentes. As novas integrações na nuvem, as melhorias do Wi-Fi Drive e a UI Liquid Glass fazem parte da atualização base.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Em que dispositivos está disponível o Evertag 4.2?" closed="true" %}}
+{{% ls-details title="Em que dispositivos está disponível o Evertag 4.2?" closed="true" %}}
 O Evertag 4.2 corre em iPhone, iPad e Mac. A sincronização do iCloud Drive mantém as tuas definições do editor de tags consistentes entre dispositivos.
-{{% /details %}}
+{{% /ls-details %}}

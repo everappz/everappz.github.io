@@ -31,7 +31,7 @@ readingTime: 14
 소형 플레이어는 라이브러리, 파일 관리자 또는 설정을 탐색하는 동안에도 계속 표시되어 다음 것을 찾는 동안 비디오를 잃지 않습니다.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evervideo 전체 화면 미디어 플레이어" image="/docs/guide/evervideo/img/evervideo-media-player-fullscreen.webp" >}}
+  {{< ls-card title="" subtitle="Evervideo 전체 화면 미디어 플레이어" image="/docs/guide/evervideo/img/evervideo-media-player-fullscreen.webp" >}}
 {{< /cards >}}
 
 ## 지원되는 비디오 및 오디오 형식
@@ -72,7 +72,7 @@ PiP는 클라우드 스트리밍 파일 및 RTSP 스트림을 포함하여 Everv
 소형 플레이어는 라이브러리, 파일 관리자 또는 설정을 탐색하는 동안 앱의 모든 화면 상단에 계속 표시되는 지속적인 미니 플레이어입니다. 탭하면 전체 화면 플레이어로 확장되고; 아래로 스와이프하면 다시 접힙니다.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="메인 화면의 소형 플레이어에서 Evervideo 비디오 설정" image="/docs/guide/evervideo/img/evervideo-video-settings-from-compact-player-view-on-the-main-screen.webp" >}}
+  {{< ls-card title="" subtitle="메인 화면의 소형 플레이어에서 Evervideo 비디오 설정" image="/docs/guide/evervideo/img/evervideo-video-settings-from-compact-player-view-on-the-main-screen.webp" >}}
 {{< /cards >}}
 
 ## AirPlay 2
@@ -115,7 +115,7 @@ Evervideo에는 헤드폰, 스피커 또는 하이파이 설정에 맞게 비디
 화면 조정을 위해 Evervideo는 전용 비디오 이퀄라이저를 제공합니다 — 재생 중에 실시간으로 밝기, 대비, 채도 및 색조를 조정합니다. 오디오 이퀄라이저와 마찬가지로 맞춤 비디오 프리셋은 공유 또는 백업을 위해 내보내고 가져올 수 있습니다. 맑은 날에 어두운 장면을 밝히거나, 색이 바랜 콘텐츠의 채도를 높이거나, 차가운 색 캐스트를 따뜻하게 하는 데 사용하세요.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evervideo 비디오 이퀄라이저" image="/docs/guide/evervideo/img/evervideo-video-equalizer.webp" >}}
+  {{< ls-card title="" subtitle="Evervideo 비디오 이퀄라이저" image="/docs/guide/evervideo/img/evervideo-video-equalizer.webp" >}}
 {{< /cards >}}
 
 ## 비디오 스케일링 모드
@@ -144,7 +144,7 @@ Evervideo는 구면 비디오 파일을 위한 VR / 360° 뷰포트를 포함합
 플레이어 툴바의 속도 컨트롤을 탭하여 재생 속도를 변경합니다 — 분석을 위해 느리게 하거나 (0.25× 또는 0.5×), 튜토리얼과 강의를 위해 빠르게 합니다 (1.25×, 1.5×, 2×, 최대 3×). 속도 화면 오른쪽 상단 모서리의 구성 아이콘을 탭하여 더 세밀한 조정을 위한 정밀 모드로 전환합니다. 트랙별 피치 보정도 사용 가능합니다.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="메인 툴바의 Evervideo 재생 속도" image="/docs/guide/evervideo/img/evervideo-media-player-playback-speed-on-main-toolbar.webp" >}}
+  {{< ls-card title="" subtitle="메인 툴바의 Evervideo 재생 속도" image="/docs/guide/evervideo/img/evervideo-media-player-playback-speed-on-main-toolbar.webp" >}}
 {{< /cards >}}
 
 ## 플레이어 대기열
@@ -152,7 +152,7 @@ Evervideo는 구면 비디오 파일을 위한 VR / 360° 뷰포트를 포함합
 플레이어 대기열을 보려면 플레이어의 대기열 버튼을 탭합니다. 대기열의 각 비디오에는 더 많은 작업이 있습니다 — 세 점을 탭하여 볼 수 있습니다. 대기열에서 비디오 순서를 바꾸려면 제목 근처의 재순서 표시기를 사용하여 새 위치로 드래그합니다.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evervideo 재생 대기열" image="/docs/guide/evervideo/img/evervideo-playback-queue.webp" >}}
+  {{< ls-card title="" subtitle="Evervideo 재생 대기열" image="/docs/guide/evervideo/img/evervideo-playback-queue.webp" >}}
 {{< /cards >}}
 
 ## 슬립 타이머
@@ -189,7 +189,7 @@ Evervideo는 구면 비디오 파일을 위한 VR / 360° 뷰포트를 포함합
 - **도움말** — 안내를 엽니다.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evervideo 플레이어 추가 작업 화면" image="/docs/guide/evervideo/img/evervideo-media-player-more-actions.webp" >}}
+  {{< ls-card title="" subtitle="Evervideo 플레이어 추가 작업 화면" image="/docs/guide/evervideo/img/evervideo-media-player-more-actions.webp" >}}
 {{< /cards >}}
 
 ## 플레이어 설정

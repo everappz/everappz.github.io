@@ -7,14 +7,14 @@ keywords: ["无需iTunes传输音乐", "wifi drive iphone", "无线复制音乐�
 readingTime: 2
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **摘要：** 使用Evermusic、Flacbox或Evertag中的Wi-Fi Drive将音乐从电脑传输到iPhone或iPad。无需iTunes。两台设备必须在同一Wi-Fi网络上。通过网页浏览器或WebDAV（Mac Finder / Windows文件资源管理器）进行传输。
 
 您可以观看[**TECHGUYPH**](https://www.youtube.com/channel/UCgpf09gGFE_c_3pPTtTpnzg)的视频教程或阅读下面的文字版本。
 <br><br>
-{{< youtubecard id="CqdqrQ0ge70" title="Can We Wirelessly Put Offline Music on iPhones?" >}}
+{{< ls-youtubecard id="CqdqrQ0ge70" title="Can We Wirelessly Put Offline Music on iPhones?" >}}
 
 Wi-Fi Drive是无需iTunes即可将音乐收藏从电脑无缝传输到iPhone或iPad的最佳解决方案。这种无忧方法让您可以通过本地Wi-Fi连接轻松下载或上传多个音频文件甚至整个文件夹。您的电脑和iOS设备需要连接到同一个Wi-Fi网络才能完美运行。
 
@@ -84,22 +84,22 @@ Wi-Fi Drive是无需iTunes即可将音乐收藏从电脑无缝传输到iPhone或
 
 ## 常见问题
 
-{{% details title="Wi-Fi Drive可以传输哪些音频格式？" closed="true" %}}
+{{% ls-details title="Wi-Fi Drive可以传输哪些音频格式？" closed="true" %}}
 Wi-Fi Drive可以传输任何文件类型。Evermusic和Flacbox支持播放MP3、FLAC、AAC、WAV、AIFF、OGG、WMA和许多其他音频格式。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="我需要iTunes才能将音乐放到iPhone上吗？" closed="true" %}}
+{{% ls-details title="我需要iTunes才能将音乐放到iPhone上吗？" closed="true" %}}
 不需要。Wi-Fi Drive通过本地Wi-Fi网络直接传输音乐。不需要iTunes。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="我可以一次传输整个音乐文件夹吗？" closed="true" %}}
+{{% ls-details title="我可以一次传输整个音乐文件夹吗？" closed="true" %}}
 可以。网页浏览器方法支持上传整个文件夹，包括嵌套的子文件夹。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="我的音乐传输安全吗？" closed="true" %}}
+{{% ls-details title="我的音乐传输安全吗？" closed="true" %}}
 Wi-Fi Drive仅在您的本地网络上运行。您还可以设置用户名和密码以增加安全性。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="哪些应用程序支持音乐Wi-Fi Drive？" closed="true" %}}
+{{% ls-details title="哪些应用程序支持音乐Wi-Fi Drive？" closed="true" %}}
 Evermusic、Flacbox和Evertag都包含Wi-Fi Drive，用于从电脑传输音频文件。
-{{% /details %}}
+{{% /ls-details %}}

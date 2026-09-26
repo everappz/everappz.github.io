@@ -7,7 +7,7 @@ tags: ["cloud", "streaming", "computer", "mp3", "file", "downloader", "manager",
 keywords: ["transferir fitxers a iPhone SMB", "transmetre música del PC a l'iPhone", "connectar Mac a iPhone SMB", "configuració Evermusic SMB", "accedir a fitxers de l'ordinador iPhone", "compartir música de Windows iOS", "transferència de fitxers SMB Evermusic"]
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **Resum:** Utilitzeu Evermusic al vostre iPhone o iPad per accedir a fitxers emmagatzemats al vostre Mac o Windows PC a través de la vostra xarxa local via SMB. Sense cables, sense iTunes, sense necessitat de pujar al núvol. Activeu la compartició de fitxers al vostre ordinador, connecteu-vos des de l'aplicació i navegueu o reproduïu els vostres fitxers sense fils.
@@ -142,26 +142,26 @@ Amb aquests passos, podeu accedir fàcilment a la vostra gran col·lecció de fi
 
 ## Preguntes freqüents
 
-{{% details title="Puc accedir als fitxers del meu PC des del meu iPhone sense iTunes?" closed="true" %}}
+{{% ls-details title="Puc accedir als fitxers del meu PC des del meu iPhone sense iTunes?" closed="true" %}}
 Sí. Evermusic es connecta al vostre ordinador via SMB a la vostra xarxa Wi-Fi local. No cal sincronització amb iTunes o Finder. Activeu la compartició de fitxers al vostre PC i connecteu-vos directament des de l'aplicació.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="L'accés a fitxers SMB funciona per Internet?" closed="true" %}}
+{{% ls-details title="L'accés a fitxers SMB funciona per Internet?" closed="true" %}}
 No. SMB és un protocol de xarxa local. El vostre iPhone i l'ordinador han d'estar a la mateixa xarxa Wi-Fi. Per a l'accés remot, pugeu els fitxers a un servei al núvol com Google Drive o Dropbox i connecteu-vos-hi des d'Evermusic.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Quins tipus de fitxers puc accedir via SMB?" closed="true" %}}
+{{% ls-details title="Quins tipus de fitxers puc accedir via SMB?" closed="true" %}}
 Evermusic admet MP3, FLAC, AAC, WAV, AIFF, OGG, WMA, ALAC i altres formats d'àudio. També podeu navegar i gestionar fitxers no d'àudio mitjançant el gestor de fitxers integrat.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Puc transferir fitxers d'un NAS al meu iPhone mitjançant SMB?" closed="true" %}}
+{{% ls-details title="Puc transferir fitxers d'un NAS al meu iPhone mitjançant SMB?" closed="true" %}}
 Sí. La majoria de dispositius NAS (Synology, QNAP, WD My Cloud i altres) admeten SMB. Connecteu-vos al vostre NAS seguint els mateixos passos d'aquesta guia.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Necessito copiar els fitxers al meu iPhone per reproduir-los?" closed="true" %}}
+{{% ls-details title="Necessito copiar els fitxers al meu iPhone per reproduir-los?" closed="true" %}}
 No. Evermusic transmet els fitxers directament des del vostre ordinador o NAS a través de la xarxa. Els fitxers no es copien al vostre iPhone tret que trieu descarregar-los per a la reproducció sense connexió.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="La compartició de fitxers SMB és segura?" closed="true" %}}
+{{% ls-details title="La compartició de fitxers SMB és segura?" closed="true" %}}
 La compartició de fitxers SMB funciona només a la vostra xarxa local. Altres dispositius en xarxes diferents no poden accedir a les vostres carpetes compartides. Per a una seguretat addicional, utilitzeu un nom d'usuari i contrasenya en lloc de l'accés anònim (Tothom).
-{{% /details %}}
+{{% /ls-details %}}

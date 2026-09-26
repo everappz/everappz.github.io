@@ -12,7 +12,7 @@ authors:
     image: "/images/about/artem-meleshko-founder-everappz.webp"
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 ![](/blog/audio-streaming-and-caching-in-ios-using-avassetresourceloader-and-avplayer/diagram.png)
 
@@ -140,18 +140,18 @@ self.player = [AVPlayer playerWithPlayerItem:item];
 
 ## 자주 묻는 질문
 
-{{% details title="직접 URL 대신 AVAssetResourceLoaderDelegate를 언제 사용해야 하나요?" closed="true" %}}
+{{% ls-details title="직접 URL 대신 AVAssetResourceLoaderDelegate를 언제 사용해야 하나요?" closed="true" %}}
 클라우드 서비스에 커스텀 인증 헤더가 필요한 경우, 스트리밍 오디오의 디스크 캐싱이 필요한 경우, 또는 데이터가 로드되고 버퍼링되는 방식을 세밀하게 제어하려는 경우에 사용하세요.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="이 방식이 Swift에서도 작동하나요?" closed="true" %}}
+{{% ls-details title="이 방식이 Swift에서도 작동하나요?" closed="true" %}}
 네. `AVAssetResourceLoaderDelegate` 프로토콜은 Swift에서도 동일하게 작동합니다. 여기의 Objective-C 예제는 직접 변환할 수 있습니다.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="동영상 스트리밍에도 사용할 수 있나요?" closed="true" %}}
+{{% ls-details title="동영상 스트리밍에도 사용할 수 있나요?" closed="true" %}}
 네. `AVAssetResourceLoaderDelegate`는 동영상을 포함하여 AVPlayer가 지원하는 모든 미디어 타입에서 작동합니다. 동일한 커스텀 스킴 방식이 적용됩니다.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="백그라운드 오디오 재생을 지원하나요?" closed="true" %}}
+{{% ls-details title="백그라운드 오디오 재생을 지원하나요?" closed="true" %}}
 네. 앱의 기능에서 "오디오, AirPlay 및 PiP" 백그라운드 모드를 활성화하고 `AVAudioSession`을 올바르게 구성하기만 하면 됩니다.
-{{% /details %}}
+{{% /ls-details %}}

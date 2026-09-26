@@ -7,7 +7,7 @@ tags: ["Evermusic", "Ääniefektit", "Ohje", "Kaiku", "Viive", "Särö", "Kompre
 readingTime: 8
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 **Tiivistelmä:** Evermusicissa on kuusi reaaliaikaista ääniefektiä: **äänenvoimakkuuden normalisointi, kompressori, kaiku, crossfeed, viive ja särö**. Avaa ne soittimen **⋯ (Lisää) -valikosta > Ääniefektit** tai kohdasta **Asetukset > Äänisoitin > Ääniefektit**. Napauta efektiä, kytke sen kytkin **päälle** (oikeassa yläkulmassa), valitse **esiasetus** ja avaa halutessasi **Edistynyt tila** liukusäätimien hienosäätöä varten. Jokainen efekti toimii itsenäisesti ja vaikuttaa reaaliajassa kaikkeen, mitä soitat – paikallisiin tiedostoihin, pilvivirtoihin ja internetradioon – ilman uudelleenkoodausta.
 
@@ -162,38 +162,38 @@ Ne toimivat myös yhdessä Evermusicin **10-kaistaisen graafisen taajuuskorjaime
 
 ## Usein kysytyt kysymykset
 
-{{% details title="Miten lisään kaikua, viivettä tai muita efektejä musiikkiini Evermusicissa?" closed="true" %}}
+{{% ls-details title="Miten lisään kaikua, viivettä tai muita efektejä musiikkiini Evermusicissa?" closed="true" %}}
 Avaa soitin, napauta ⋯ (Lisää) -painiketta ja valitse Ääniefektit (tai siirry kohtaan Asetukset > Äänisoitin > Ääniefektit). Napauta haluamaasi efektiä, kytke sen kytkin päälle oikeassa yläkulmassa ja valitse esiasetus. Avaa Edistynyt tila liukusäätimien hienosäätöä varten. Efekti vaikuttaa välittömästi siihen, mitä soi.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Mitä ääniefektejä Evermusicissa on?" closed="true" %}}
+{{% ls-details title="Mitä ääniefektejä Evermusicissa on?" closed="true" %}}
 Kuusi reaaliaikaista efektiä: äänenvoimakkuuden normalisointi (EBU R128 -äänekkyyden tasoitus), kompressori (dynamiikka), kaiku (tila ja kaikuhäntä), crossfeed (luonnollinen kuulokekuva), viive (kaiku) ja särö (lo-fi-rosoisuus). Jokainen on itsenäinen ja sitä voi käyttää yksin tai yhdisteltynä.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Muuttavatko tai vahingoittavatko efektit äänitiedostojani?" closed="true" %}}
+{{% ls-details title="Muuttavatko tai vahingoittavatko efektit äänitiedostojani?" closed="true" %}}
 Eivät. Kaikki efektit vaikuttavat reaaliajassa vain toiston aikana. Ne eivät koskaan muokkaa tai uudelleenkoodaa tiedostojasi. Kytke efekti pois päältä, ja alkuperäinen äänesi palaa välittömästi.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Voinko käyttää useampaa kuin yhtä efektiä samaan aikaan?" closed="true" %}}
+{{% ls-details title="Voinko käyttää useampaa kuin yhtä efektiä samaan aikaan?" closed="true" %}}
 Kyllä. Jokainen efekti on itsenäinen – pääkytkintä ei ole – joten voit ottaa käyttöön minkä tahansa yhdistelmän. Esimerkiksi äänenvoimakkuuden normalisointi plus kompressori tasaiseen, helppoon kuunteluun tai kaiku plus crossfeed kuulokkeissa.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Mikä crossfeed on ja pitäisikö minun käyttää sitä?" closed="true" %}}
+{{% ls-details title="Mikä crossfeed on ja pitäisikö minun käyttää sitä?" closed="true" %}}
 Crossfeed sekoittaa pienen, suodatetun määrän kumpaakin stereokanavaa toiseen, jotta kuulokkeet kuulostavat enemmän oikeilta kaiuttimilta, vähentäen jyrkästi panoroitujen miksausten "pään sisällä" -tuntua. Se on kuulokeefekti (jätä se pois päältä kaiuttimilla). Se on rakennettu Bauer stereophonic-to-binaural (bs2b) -algoritmin päälle ja sisältää esiasetuksia kuten Chu Moy ja Jan Meier.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Mitä äänenvoimakkuuden normalisointi on ja miten se eroaa ReplayGainista?" closed="true" %}}
+{{% ls-details title="Mitä äänenvoimakkuuden normalisointi on ja miten se eroaa ReplayGainista?" closed="true" %}}
 Äänenvoimakkuuden normalisointi pitää jokaisen kappaleen tasaisessa äänekkyydessä mittaamalla koettua äänekkyyttä EBU R128 -standardilla ja tasoittamalla kohti tavoitetta. Toisin kuin ReplayGain, se ei tarvitse äänekkyystunnisteita tiedostoihisi eikä muuta ääntä – se toimii livenä millä tahansa lähteellä, mukaan lukien pilvivirrat ja internetradio. Esiasetukset: Kevyt, Vakio, Voimakas ja Yö.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Mikä on ero yksinkertaisen ja edistyneen tilan välillä?" closed="true" %}}
+{{% ls-details title="Mikä on ero yksinkertaisen ja edistyneen tilan välillä?" closed="true" %}}
 Yksinkertainen tila näyttää luettelon esiasetuksista selkeine kuvauksineen, jotta saat hyvän äänen yhdellä napautuksella. Edistynyt tila lisää parametriliukusäätimet (esimerkiksi Sekoitus kaiulle tai kompressorin seitsemän säädintä) tarkkaa hienosäätöä varten. Vaihda niiden välillä kunkin efektimuokkaimen oikean yläkulman tilapainikkeella.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Miksi efektin säätimet ovat harmaana?" closed="true" %}}
+{{% ls-details title="Miksi efektin säätimet ovat harmaana?" closed="true" %}}
 Efekti on pois päältä. Kytke efektin kytkin päälle sen muokkaimen oikeassa yläkulmassa aktivoidaksesi säätimet. Jokainen efekti on oletuksena pois päältä.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Toimivatko efektit suoratoiston ja CarPlayn kanssa?" closed="true" %}}
+{{% ls-details title="Toimivatko efektit suoratoiston ja CarPlayn kanssa?" closed="true" %}}
 Kyllä. Efektit ajetaan toistomoottorin sisällä, joten ne vaikuttavat paikallisiin tiedostoihin, pilviasemiin, mediapalvelimiin ja internetradioon, ja ne toimivat edelleen CarPlay-toiston aikana.
-{{% /details %}}
+{{% /ls-details %}}

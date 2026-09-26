@@ -12,7 +12,7 @@ authors:
     image: "/images/about/artem-meleshko-founder-everappz.webp"
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 A **Flacbox 1.6** jelentős új funkciókat hoz a FLAC zenelejátszóba iPhone-ra és iPadre.
 
@@ -68,18 +68,18 @@ Van visszajelzésed vagy funkció kérésed? Keress minket -- a Flacboxot a felh
 
 ## Gyakran ismételt kérdések
 
-{{% details title="Milyen audio formátumokat támogat a Flacbox?" closed="true" %}}
+{{% ls-details title="Milyen audio formátumokat támogat a Flacbox?" closed="true" %}}
 A Flacbox támogatja a FLAC, ALAC, MP3, AAC, OGG, OPUS, WAV, AIFF, DSD és más népszerű audio formátumokat. Minden formátum működik a beépített hangszínszabályzóval.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Lejátszhatok zenét SD kártyáról az iPhone-omon?" closed="true" %}}
+{{% ls-details title="Lejátszhatok zenét SD kártyáról az iPhone-omon?" closed="true" %}}
 Igen. Csatlakoztass egy SD vagy microSD kártyát Lightning–SD kártya kameraolvasó adapter segítségével. A Flacbox automatikusan felismeri a kártyát és lehetővé teszi a fájlok böngészését és lejátszását közvetlenül a külső tárhelyről.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Automatikusan szinkronizál a Flacbox a felhőtárhellyel?" closed="true" %}}
+{{% ls-details title="Automatikusan szinkronizál a Flacbox a felhőtárhellyel?" closed="true" %}}
 Igen. Az 1.6-os verziótól kezdve a Flacbox automatikusan szinkronizálhatja zenei könyvtáradat felhőmappákból. Engedélyezd az automatikus szinkronizálást a beállításokban és válaszd ki a figyelni kívánt mappákat.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Testreszabható a Flacbox hangszínszabályzója?" closed="true" %}}
+{{% ls-details title="Testreszabható a Flacbox hangszínszabályzója?" closed="true" %}}
 Igen. A 10 sávos hangszínszabályzó lehetővé teszi az egyes frekvenciaszintek beállítását -12 dB és +12 dB között. Használhatod a beépített előbeállításokat vagy mentheted saját egyéni beállításaidat.
-{{% /details %}}
+{{% /ls-details %}}

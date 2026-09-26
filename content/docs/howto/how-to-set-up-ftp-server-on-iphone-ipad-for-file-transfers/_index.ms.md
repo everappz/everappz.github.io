@@ -7,7 +7,7 @@ keywords: ["pelayan FTP iPhone", "pelayan FTP iPad", "cara menyediakan FTP pada 
 readingTime: 9
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 FTP ialah kaedah lama yang boleh dipercayai untuk pemindahan fail. Ia telah wujud selama beberapa dekad, dan itulah tepatnya sebab ia sangat berguna: hampir apa sahaja yang boleh bercakap dengan pelayan memahaminya. Kamera, TV pintar, penghala, pemacu rangkaian, alat automasi dan setiap aplikasi FTP desktop memahami FTP. Dengan [Everdisk](/products/everdisk) anda boleh menjalankan pelayan FTP pada iPhone atau iPad anda, jadi telefon menjadi tempat yang boleh disambung oleh peranti dan aplikasi tersebut untuk memindahkan fail.
 
@@ -118,44 +118,44 @@ Suis **Penyuntingan Fail** dalam Tetapan, Perkongsian, Akses mengawal ini. Dihid
 
 ## Soalan Lazim
 
-{{% details title="Apakah alamat dan port FTP untuk iPhone saya?" closed="true" %}}
+{{% ls-details title="Apakah alamat dan port FTP untuk iPhone saya?" closed="true" %}}
 Selepas anda mula berkongsi, Everdisk menunjukkan alamat pada skrin Perkongsian. Ia kelihatan seperti ftp://192.168.1.20:2121. 2121 ialah port yang Everdisk gunakan untuk FTP, dan bahagian pertama ialah alamat iPhone anda pada Wi-Fi, jadi milik anda akan berbeza.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Bagaimana saya sambung FileZilla atau Cyberduck ke iPhone saya?" closed="true" %}}
+{{% ls-details title="Bagaimana saya sambung FileZilla atau Cyberduck ke iPhone saya?" closed="true" %}}
 Buka aplikasi dan cipta sambungan baharu. Tetapkan Host kepada alamat Wi-Fi iPhone anda dan Port kepada 2121. Masukkan Log Masuk dan Kata Laluan anda, atau pilih Anonymous jika anda tidak menetapkannya dalam Everdisk. Sambung, dan anda boleh menyeret fail ke dua-dua arah apabila Penyuntingan Fail dihidupkan.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Boleh saya sambung ke FTP iPhone saya daripada Windows?" closed="true" %}}
+{{% ls-details title="Boleh saya sambung ke FTP iPhone saya daripada Windows?" closed="true" %}}
 Ya. Buka File Explorer, klik bar alamat, taip alamat FTP daripada Everdisk (contohnya ftp://192.168.1.20:2121), dan tekan Enter. Masukkan log masuk anda jika anda menetapkannya, atau teruskan sebagai tetamu. Untuk muat naik dan lebih kawalan, gunakan aplikasi FTP seperti FileZilla sebagai ganti.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Perlukah saya log masuk untuk FTP?" closed="true" %}}
+{{% ls-details title="Perlukah saya log masuk untuk FTP?" closed="true" %}}
 Tidak, log masuk adalah pilihan. Biarkan Log Masuk dan Kata Laluan kosong dalam Tetapan, Perkongsian, Akses, dan sambung sebagai Anonymous, yang ditawarkan oleh kebanyakan klien FTP. Tetapkan log masuk jika anda mahu sambungan log masuk dahulu.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Mengapa saya hanya boleh memuat turun dan tidak memuat naik melalui FTP?" closed="true" %}}
+{{% ls-details title="Mengapa saya hanya boleh memuat turun dan tidak memuat naik melalui FTP?" closed="true" %}}
 Dua sebab yang biasa. Pertama, suis Penyuntingan Fail dalam Tetapan, Perkongsian, Akses mesti dihidupkan untuk membenarkan muat naik, penamaan semula dan pemadaman. Kedua, Mac Finder membuka FTP sebagai baca sahaja, jadi gunakan aplikasi FTP seperti FileZilla atau Cyberduck apabila anda mahu memuat naik.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Boleh saya guna FTP antara dua iPhone?" closed="true" %}}
+{{% ls-details title="Boleh saya guna FTP antara dua iPhone?" closed="true" %}}
 Ya. Mula pelayan FTP pada iPhone pertama. Pada iPhone kedua, buka Everdisk, pergi ke tab Peranti, ketik Sambungan Baharu, pilih FTP, dan masukkan alamat yang ditunjukkan pada telefon pertama. Aplikasi FTP khusus untuk iOS turut berfungsi, kerana aplikasi Files iOS tidak menyertakan klien FTP.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Adakah FTP selamat?" closed="true" %}}
+{{% ls-details title="Adakah FTP selamat?" closed="true" %}}
 FTP biasa tidak menyulitkan trafiknya, jadi anggaplah ia sebagai alat untuk rangkaian yang anda percayai, seperti Wi-Fi rumah anda. Pada rangkaian yang anda tidak kawal, gunakan pelayan SMB dengan Wajibkan penyulitan SMB dihidupkan, yang melindungi setiap pemindahan.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Peranti mana yang boleh menyambung melalui FTP?" closed="true" %}}
+{{% ls-details title="Peranti mana yang boleh menyambung melalui FTP?" closed="true" %}}
 Hampir apa sahaja dengan klien FTP. Itu termasuk komputer Mac, Windows dan Linux, aplikasi FTP seperti FileZilla dan Cyberduck, pengurus fail Android, dan perkakasan seperti kamera, TV pintar, penghala, kotak NAS dan alat automasi. Jangkauan luas itu ialah sebab utama untuk memilih FTP.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Mengapa sambungan FTP saya terputus?" closed="true" %}}
+{{% ls-details title="Mengapa sambungan FTP saya terputus?" closed="true" %}}
 iPhone anda ialah pelayan, dan iOS menjeda aplikasi yang berada di latar belakang terlalu lama. Kekalkan Everdisk terbuka pada skrin semasa peranti disambung, dan palamkan ke sumber kuasa untuk pemindahan yang panjang. Pastikan juga kedua-dua peranti masih berada pada Wi-Fi yang sama.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Adakah Everdisk percuma?" closed="true" %}}
+{{% ls-details title="Adakah Everdisk percuma?" closed="true" %}}
 Ya, Everdisk percuma untuk dimuat turun dan pelayan FTP disertakan. Pembelian Premium sekali sahaja pilihan menambah tambahan seperti port tersuai dan penukaran foto dan video. Anda boleh menyediakan FTP dan memindahkan fail tanpa membayar.
-{{% /details %}}
+{{% /ls-details %}}
 
 Sedia untuk mencuba? [Muat turun Everdisk dari App Store](https://apps.apple.com/app/apple-store/id6751851132?pt=95781850&ct=everappzcom&mt=8) dan sambung klien FTP pertama anda dalam masa beberapa minit. Ada soalan atau maklum balas? E-mel kami di **support@everappz.com**.

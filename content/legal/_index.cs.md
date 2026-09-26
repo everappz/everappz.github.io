@@ -5,18 +5,18 @@ cascade:
   type: docs
 ---
 
-{{< lottie src="/images/juicy-json/juicy-stack-of-four-books.json" width="60%" >}}
+{{< ls-lottie src="/images/juicy-json/juicy-stack-of-four-books.json" width="60%" >}}
 
 Zde najdete všechny důležité dokumenty a zásady, které upravují používání našich produktů, služeb a webových stránek. Zavazujeme se k transparentnosti a dodržování předpisů o ochraně údajů a spotřebitelů.
 
 Prostudujte si prosím níže uvedené dokumenty, abyste porozuměli svým právům a povinnostem při používání našich služeb.
 
 {{< cards >}}
-  {{< card icon="annotation" link="/legal/legal-notice" title="Právní upozornění" >}}
-  {{< card icon="shield-check" link="/legal/privacy-policy" title="Zásady ochrany osobních údajů" >}}
-  {{< card icon="sparkles" link="/legal/cookie-policy" title="Zásady používání souborů cookie" >}}
-  {{< card icon="document-text" link="/legal/terms-and-conditions" title="Obchodní podmínky" >}}
-  {{< card icon="clipboard-check" link="/legal/license-agreement" title="Licenční smlouva" >}}
+  {{< ls-card icon="annotation" link="/legal/legal-notice" title="Právní upozornění" >}}
+  {{< ls-card icon="shield-check" link="/legal/privacy-policy" title="Zásady ochrany osobních údajů" >}}
+  {{< ls-card icon="sparkles" link="/legal/cookie-policy" title="Zásady používání souborů cookie" >}}
+  {{< ls-card icon="document-text" link="/legal/terms-and-conditions" title="Obchodní podmínky" >}}
+  {{< ls-card icon="clipboard-check" link="/legal/license-agreement" title="Licenční smlouva" >}}
 {{< /cards >}}
 
 Pokud potřebujete jakékoli vysvětlení nebo pomoc, prosím [kontaktujte nás](/contact).

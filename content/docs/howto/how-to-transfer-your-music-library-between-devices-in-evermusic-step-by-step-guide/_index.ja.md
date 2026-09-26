@@ -7,7 +7,7 @@ keywords: ["Evermusic音楽ライブラリ転送", "Evermusicプレイリスト�
 readingTime: 3
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **概要：** Evermusicライブラリを新しいデバイスに転送するには、ソースデバイスでバックアップを作成し、Wi-Fi Driveを起動し、同じネットワーク上で2台目のデバイスを接続し、バックアップと音楽ファイルをダウンロードしてから、バックアップから復元します。プロセス全体はライブラリのサイズに応じて約10分かかります。
@@ -144,22 +144,22 @@ readingTime: 3
 
 ## よくある質問
 
-{{% details title="Wi-Fiなしでevermusicライブラリを転送できますか？" closed="true" %}}
+{{% ls-details title="Wi-Fiなしでevermusicライブラリを転送できますか？" closed="true" %}}
 Wi-Fi Driveは、両方のデバイスが同じWi-Fiネットワーク上にある必要があります。現在、BluetoothまたはセルラーTransferオプションはありません。代わりに、AirDropまたはファイルアプリを使用して、バックアップファイルと音楽フォルダをデバイス間で手動で移動できます。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="クラウドサービスの接続はバックアップと一緒に転送されますか？" closed="true" %}}
+{{% ls-details title="クラウドサービスの接続はバックアップと一緒に転送されますか？" closed="true" %}}
 バックアップには、データベース、プレイリスト、アルバムカバー、設定が含まれます。セキュリティ上の理由から、クラウドサービスのログイン資格情報は含まれていません。復元後、新しいデバイスでクラウドアカウントを再接続する必要があります。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="2台目のデバイスの既存のライブラリはどうなりますか？" closed="true" %}}
+{{% ls-details title="2台目のデバイスの既存のライブラリはどうなりますか？" closed="true" %}}
 バックアップの復元により、2台目のデバイスの既存の音楽ライブラリデータ、プレイリスト、設定、アルバムアートワークがすべて置き換えられます。データを保持したい場合は、最初に2台目のデバイスの個別のバックアップを作成してください。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="このプロセスはiPhoneとMac間で機能しますか？" closed="true" %}}
+{{% ls-details title="このプロセスはiPhoneとMac間で機能しますか？" closed="true" %}}
 はい。Evermusicは、iPhone、iPad、Macの任意の組み合わせ間のWi-Fi Drive転送をサポートしています。両方のデバイスが同じWi-Fiネットワーク上にあるだけで大丈夫です。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="転送にはどのくらい時間がかかりますか？" closed="true" %}}
+{{% ls-details title="転送にはどのくらい時間がかかりますか？" closed="true" %}}
 転送時間は、音楽ライブラリのサイズとWi-Fi速度によって異なります。数ギガバイトの一般的なライブラリは、標準的なホームネットワークで5〜15分で転送されます。
-{{% /details %}}
+{{% /ls-details %}}

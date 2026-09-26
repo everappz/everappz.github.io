@@ -6,7 +6,7 @@ tags: ["локальна музика", "офлайн музика", "музич
 keywords: ["як відтворювати локальну музику на iPhone", "відтворення музики зі сховища пристрою", "офлайн музичний плеєр iOS", "посібник з додатку Evermusic", "FLAC плеєр Flacbox", "відтворення локальних файлів iOS", "музична бібліотека Mac", "музичний додаток для локальних файлів", "iPhone відтворення завантажених пісень", "як використовувати Evermusic з локальними файлами"]
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **Коротко:** Встановіть [Evermusic](/products/evermusic) (MP3/WAV) або [Flacbox](/products/flacbox) (FLAC/DSD), відкрийте будь-який локальний аудіофайл або папку та почніть відтворення. Додавайте папки до **Улюблені** для швидкого доступу, імпортуйте треки до Музичної бібліотеки або створюйте **Плейлисти**.
@@ -24,10 +24,10 @@ keywords: ["як відтворювати локальну музику на iPh
 Щоб почати подорож у світ локальної музики на iPhone та Mac, встановіть Evermusic (для стандартних аудіоформатів, таких як mp3 та wav) або Flacbox (для музики без втрат у dsd та flac). Обидва додатки доступні для iOS та MacOS, і ви можете завантажити їх безкоштовно.
 
 {{< cards >}}
-  {{< card link="https://apps.apple.com/us/app/evermusic-cloud-music-player/id885367198?pt=95781850&ct=everappzcom&mt=8" title="Завантажити Evermusic для iOS" tag="iOS" >}}
-  {{< card link="https://apps.apple.com/us/app/flacbox-hi-res-equalizer/id1097564256?pt=95781850&ct=everappzcom&mt=8" title="Завантажити Flacbox для iOS" tag="iOS" >}}
-  {{< card link="https://apps.apple.com/us/app/evermusic-hi-res-music-player/id1564384601?pt=95781850&ct=everappzcom&mt=8" title="Завантажити Evermusic для Mac" tag="macOS" >}}
-  {{< card link="https://apps.apple.com/us/app/flacbox-hi-res-music-player/id1594027432?pt=95781850&ct=everappzcom&mt=8" title="Завантажити Flacbox для Mac" tag="macOS" >}}
+  {{< ls-card link="https://apps.apple.com/us/app/evermusic-cloud-music-player/id885367198?pt=95781850&ct=everappzcom&mt=8" title="Завантажити Evermusic для iOS" tag="iOS" >}}
+  {{< ls-card link="https://apps.apple.com/us/app/flacbox-hi-res-equalizer/id1097564256?pt=95781850&ct=everappzcom&mt=8" title="Завантажити Flacbox для iOS" tag="iOS" >}}
+  {{< ls-card link="https://apps.apple.com/us/app/evermusic-hi-res-music-player/id1564384601?pt=95781850&ct=everappzcom&mt=8" title="Завантажити Evermusic для Mac" tag="macOS" >}}
+  {{< ls-card link="https://apps.apple.com/us/app/flacbox-hi-res-music-player/id1594027432?pt=95781850&ct=everappzcom&mt=8" title="Завантажити Flacbox для Mac" tag="macOS" >}}
 {{< /cards >}}
 
 
@@ -135,22 +135,22 @@ keywords: ["як відтворювати локальну музику на iPh
 
 ## FAQ
 
-{{% details title="Які аудіоформати можуть відтворювати Evermusic та Flacbox?" closed="true" %}}
+{{% ls-details title="Які аудіоформати можуть відтворювати Evermusic та Flacbox?" closed="true" %}}
 Evermusic відтворює MP3, WAV, AAC, M4A та інші стандартні формати. Flacbox додає підтримку FLAC, DSD, OGG, OPUS, APE, WMA та ALAC.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Чи копіюють ці додатки файли до сховища додатку?" closed="true" %}}
+{{% ls-details title="Чи копіюють ці додатки файли до сховища додатку?" closed="true" %}}
 За замовчуванням файли відтворюються з їхнього оригінального розташування без копіювання. Щоб змінити цю поведінку, увімкніть "Always copy files during opening" у **Налаштування** > File manager.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Чи можу я організувати локальну музику за виконавцем та альбомом?" closed="true" %}}
+{{% ls-details title="Чи можу я організувати локальну музику за виконавцем та альбомом?" closed="true" %}}
 Так. Імпортуйте файли до Музичної бібліотеки (Крок 4), і додаток прочитає метадані для групування треків за Виконавцем, Альбомом, Жанром та Композитором.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Як перенести музику з комп'ютера на iPhone?" closed="true" %}}
+{{% ls-details title="Як перенести музику з комп'ютера на iPhone?" closed="true" %}}
 Використовуйте iTunes File Sharing (USB), WiFi Drive (бездротовий) або SMB (потокове відтворення). Дивіться наш детальний посібник: [Перенесення та відтворення локальних файлів на iPhone](/docs/howto/how-to-play-local-itunes-files-on-my-iphone/).
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Чи безкоштовні Evermusic та Flacbox?" closed="true" %}}
+{{% ls-details title="Чи безкоштовні Evermusic та Flacbox?" closed="true" %}}
 Так, обидва додатки безкоштовні для завантаження з основними функціями, включаючи відтворення, еквалайзер та хмарний стримінг. Безкоштовні версії мають деякі обмеження (кількість **Плейлистів**, хмарних акаунтів, офлайн папок). Оновлення до Premium знімає ці обмеження.
-{{% /details %}}
+{{% /ls-details %}}

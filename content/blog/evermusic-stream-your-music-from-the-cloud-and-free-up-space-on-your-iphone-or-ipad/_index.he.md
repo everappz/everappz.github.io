@@ -12,7 +12,7 @@ authors:
     image: "/images/about/artem-meleshko-founder-everappz.webp"
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 ![](/blog/evermusic-stream-your-music-from-the-cloud-and-free-up-space-on-your-iphone-or-ipad/21260c_00c5356db3a24db6a6a37e353b774d56~mv2.jpg)
 
@@ -82,22 +82,22 @@ Evermusic תומך ב-Google Drive, Dropbox, Box, OneDrive, MediaFire, MEGA, Yan
 
 ## שאלות נפוצות
 
-{{% details title="האם Evermusic חינמי?" closed="true" %}}
+{{% ls-details title="האם Evermusic חינמי?" closed="true" %}}
 Evermusic חינמי להורדה עם תכונות פרימיום אופציונליות. הזרמת ענן בסיסית והשמעה אופליין זמינות בגרסה החינמית.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="באילו שירותי ענן Evermusic תומך?" closed="true" %}}
+{{% ls-details title="באילו שירותי ענן Evermusic תומך?" closed="true" %}}
 Google Drive, Dropbox, Box, OneDrive, MediaFire, MEGA, Yandex.Disk, pCloud, HiDrive, MyDrive, שיתופי קבצים SMB ושרתי WebDAV.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="האם אפשר להאזין למוזיקה אופליין עם Evermusic?" closed="true" %}}
+{{% ls-details title="האם אפשר להאזין למוזיקה אופליין עם Evermusic?" closed="true" %}}
 כן. הורידו כל אלבום, אמן, רשימת השמעה או רצועה בודדת להשמעה אופליין ישירות באפליקציה.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="באילו פורמטי אודיו Evermusic תומך?" closed="true" %}}
+{{% ls-details title="באילו פורמטי אודיו Evermusic תומך?" closed="true" %}}
 Evermusic תומך ב-MP3, FLAC, AAC, WAV, ALAC, AIFF, OPUS, OGG ופורמטים רבים נוספים.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="האם אני עדיין צריך את iTunes כדי להעביר מוזיקה?" closed="true" %}}
+{{% ls-details title="האם אני עדיין צריך את iTunes כדי להעביר מוזיקה?" closed="true" %}}
 לא. העלו את המוזיקה שלכם לכל שירות ענן נתמך מהמחשב, ואז הזרימו או הורידו אותה דרך Evermusic באייפון או באייפד.
-{{% /details %}}
+{{% /ls-details %}}

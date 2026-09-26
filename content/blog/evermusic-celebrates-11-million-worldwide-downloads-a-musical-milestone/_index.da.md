@@ -12,7 +12,7 @@ authors:
     image: "/images/about/artem-meleshko-founder-everappz.webp"
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 **Kort fortalt:** Evermusic har passeret 11 millioner downloads på verdensplan. Nøglefunktioner inkluderer en 10-bånds equalizer, offline afspilning, iCloud Drive-streaming, understøttelse af 10+ cloud-tjenester, synkronisering på tværs af enheder og en indbygget ID3 tag-editor.
 
@@ -70,22 +70,22 @@ Evermusic er bygget til alle, der gemmer musik i skyen eller på lokal lagring. 
 
 ## Ofte stillede spørgsmål
 
-{{% details title="Hvilke lydformater understøtter Evermusic?" closed="true" %}}
+{{% ls-details title="Hvilke lydformater understøtter Evermusic?" closed="true" %}}
 Evermusic afspiller MP3, FLAC, WAV, AAC, M4A, AIFF, OGG, WMA og andre populære lydformater.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Kan jeg bruge Evermusic uden internetforbindelse?" closed="true" %}}
+{{% ls-details title="Kan jeg bruge Evermusic uden internetforbindelse?" closed="true" %}}
 Ja. Download numre fra din cloud-lagring til offline afspilning. Når de er downloadet, er der ikke brug for internet.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Fungerer Evermusic på Mac?" closed="true" %}}
+{{% ls-details title="Fungerer Evermusic på Mac?" closed="true" %}}
 Ja. Evermusic er tilgængelig på både iOS (iPhone/iPad) og macOS med bibliotekssynkronisering på tværs af alle enheder.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Er Evermusic gratis at downloade?" closed="true" %}}
+{{% ls-details title="Er Evermusic gratis at downloade?" closed="true" %}}
 Ja. Evermusic er gratis at downloade med valgfrie premium-funktioner tilgængelige via køb i appen.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Hvordan fungerer iCloud Drive-streaming i Evermusic?" closed="true" %}}
+{{% ls-details title="Hvordan fungerer iCloud Drive-streaming i Evermusic?" closed="true" %}}
 Forbind din iCloud Drive-konto i appen, gennemse dine musikfiler, og tryk for at afspille. Numre streames direkte uden at skulle downloade først.
-{{% /details %}}
+{{% /ls-details %}}

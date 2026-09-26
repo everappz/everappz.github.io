@@ -23,7 +23,7 @@ readingTime: 14
 आप मिनी प्लेयर बार से फुल-स्क्रीन प्लेयर पर पहुंच सकते हैं। iPhone पर, मिनी प्लेयर मुख्य स्क्रीन के नीचे बैठता है। iPad और Mac पर, यह बाईं तरफ होता है। iPhone पर मिनी प्लेयर छुपाने के लिए, इसे एक बार टैप करें और नीचे स्वाइप करें। फुल-स्क्रीन प्लेयर पूरी तरह बंद करने के लिए, नीचे-दाईं ओर क्लोज़ बटन टैप करें।
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox Audio Player Main Screen" image="/docs/guide/flacbox/img/audio-player-main-screen.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox Audio Player Main Screen" image="/docs/guide/flacbox/img/audio-player-main-screen.webp" >}}
 {{< /cards >}}
 
 ## समर्थित ऑडियो फ़ॉर्मेट
@@ -66,7 +66,7 @@ AirPlay के लिए, प्लेयर के नीचे **AirPlay** ब
 Flacbox में iPod-शैली प्रीसेट के साथ एक **10-बैंड इक्वलाइज़र** शामिल है। वॉल्यूम व्यू पर Equalizer टैप करें, फिर ऊपर-दाईं ओर इसे चालू करें। आप Acoustic और Bass Booster जैसे प्रीसेट का उपयोग कर सकते हैं, या स्लाइडर के साथ प्रत्येक फ्रीक्वेंसी बैंड समायोजित कर सकते हैं। अपने खुद के प्रीसेट बनाएं, उन्हें किसी भी नाम से सहेजें, और प्रीएम्पलीफायर से समग्र वॉल्यूम बढ़ाएं। इक्वलाइज़र का उपयोग करने के बारे में हमारे पास अधिक विस्तृत निर्देश [यहाँ](/docs/howto/how-to-use-the-audio-equalizer-on-your-iphone-ipad-mac-with-evermusic-and-flacbox) हैं।
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox Audio Player Equalizer" image="/docs/guide/flacbox/img/audio-player-equalizer.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox Audio Player Equalizer" image="/docs/guide/flacbox/img/audio-player-equalizer.webp" >}}
 {{< /cards >}}
 
 ## प्लेयर मोड टूलबार
@@ -82,7 +82,7 @@ Flacbox में iPod-शैली प्रीसेट के साथ ए�
 अपनी प्लेयर कतार देखने के लिए, वर्तमान गाने की दाईं ओर कतार बटन टैप करें। कतार के प्रत्येक गाने में अधिक क्रियाएं हैं — उन्हें देखने के लिए तीन डॉट्स टैप करें। कतार में गाने को पुनः क्रमित करने के लिए, शीर्षक के पास reorder indicator का उपयोग करें और इसे नई स्थिति में खींचें।
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox Playback Queue" image="/docs/guide/flacbox/img/playback_queue.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox Playback Queue" image="/docs/guide/flacbox/img/playback_queue.webp" >}}
 {{< /cards >}}
 
 ## टिप्पणियाँ / लिरिक्स
@@ -98,7 +98,7 @@ Flacbox में iPod-शैली प्रीसेट के साथ ए�
 इसके बाद, आर्टवर्क / कतार व्यू से टिप्पणियाँ व्यू पर स्विच करने के लिए स्क्रीन के नीचे प्लेयर कतार बटन कई बार टैप करें। Comments स्क्रीन पर, **Comments**, **Embedded Lyrics** और **LRC File** के बीच स्विच करने के लिए दाईं ओर स्क्रॉल करें। पूर्ण निर्देश [यहाँ](/docs/howto/how-to-add-and-view-comments-to-your-audio-tracks-on-iphone-ipad-and-mac-with-evermusic-and-flacbox) उपलब्ध हैं।
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox Lyrics and Comments Screen" image="/docs/guide/flacbox/img/lyrics-screen.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox Lyrics and Comments Screen" image="/docs/guide/flacbox/img/lyrics-screen.webp" >}}
 {{< /cards >}}
 
 ## विकल्प मेनू
@@ -121,7 +121,7 @@ Flacbox में iPod-शैली प्रीसेट के साथ ए�
 वही विकल्प ऑडियो प्लेयर कतार में अभी चल रहे आइटम के लिए उपलब्ध हैं, जिसे आप ट्रैक शीर्षक के पास **अधिक क्रियाएँ** आइकन टैप करके एक्सेस कर सकते हैं।
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox Options for an Item in the Playback Queue" image="/docs/guide/flacbox/img/options-for-item-in-playback-queue.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox Options for an Item in the Playback Queue" image="/docs/guide/flacbox/img/options-for-item-in-playback-queue.webp" >}}
 {{< /cards >}}
 
 ## अतिरिक्त प्लेयर क्रियाएं
@@ -143,7 +143,7 @@ Flacbox में iPod-शैली प्रीसेट के साथ ए�
 - **सहायता** — सहायता और मार्गदर्शन खोजें।
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox Audio Player More Actions Screen" image="/docs/guide/flacbox/img/audio-player-more-actions-screen.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox Audio Player More Actions Screen" image="/docs/guide/flacbox/img/audio-player-more-actions-screen.webp" >}}
 {{< /cards >}}
 
 ## ऑडियो बुकमार्क्स
@@ -161,7 +161,7 @@ Flacbox में iPod-शैली प्रीसेट के साथ ए�
 वर्तमान ट्रैक के लिए बुकमार्क संपादित करना आसान है: एडिट मोड में जाने के लिए ऊपर-दाईं ओर Edit टैप करें। इस मोड में, आप बुकमार्क पुनः व्यवस्थित कर सकते हैं, उन्हें हटा सकते हैं, बुकमार्क समय समायोजित कर सकते हैं और बुकमार्क शीर्षक बदल सकते हैं। ऑडियो बुकमार्क पर अधिक विस्तृत निर्देश [यहाँ](/docs/howto/how-to-listen-to-audiobooks-on-iphone-ipad-mac-using-evermusic) उपलब्ध हैं।
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox Audio Bookmarks Screen" image="/docs/guide/flacbox/img/audio-bookmarks.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox Audio Bookmarks Screen" image="/docs/guide/flacbox/img/audio-bookmarks.webp" >}}
 {{< /cards >}}
 
 ## हाल के और पसंदीदा
@@ -175,7 +175,7 @@ Flacbox में iPod-शैली प्रीसेट के साथ ए�
 [पूर्ण CarPlay गाइड पढ़ें](/docs/howto/how-to-play-your-own-music-on-iphone-using-carplay/).
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox on Apple CarPlay" image="/docs/guide/flacbox/img/carplay-main.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox on Apple CarPlay" image="/docs/guide/flacbox/img/carplay-main.webp" >}}
 {{< /cards >}}
 
 ## होम स्क्रीन विजेट्स (iPhone & iPad)
@@ -243,7 +243,7 @@ Mac उपयोगकर्ताओं के लिए, स्टेटस �
 ऑडियो प्लेयर की प्लेबैक स्पीड **0.02× से 3.00×** तक समायोजित करें। बारीक समायोजन के लिए **precise mode** पर स्विच करने के लिए ऊपर-दाईं ओर कॉन्फ़िगरेशन आइकन टैप करें।
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox Playback Speed Screen" image="/docs/guide/flacbox/img/playback-speed.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox Playback Speed Screen" image="/docs/guide/flacbox/img/playback-speed.webp" >}}
 {{< /cards >}}
 
 ### पिच करेक्शन

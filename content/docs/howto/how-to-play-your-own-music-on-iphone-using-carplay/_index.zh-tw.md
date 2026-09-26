@@ -7,7 +7,7 @@ tags: ["carplay", "iphone", "本機音樂", "離線播放", "evermusic", "flacbo
 readingTime: 5
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **摘要：** 使用 [Evermusic](https://apps.apple.com/app/apple-store/id885367198?pt=95781850&ct=everappzcom&mt=8) 或 [Flacbox](https://apps.apple.com/app/apple-store/id1097564256?pt=95781850&ct=everappzcom&mt=8) 透過 Apple CarPlay 在 iPhone 上播放您自己的 MP3、FLAC 或其他音訊檔案。從雲端儲存、USB 或 Wi-Fi 傳輸新增音樂，然後直接在車載螢幕上瀏覽您的資料庫、播放列表和資料夾。
@@ -17,7 +17,7 @@ readingTime: 5
 想使用 Apple CarPlay 在車內播放自己的音樂嗎？無論您的歌曲儲存在 iPhone 上、雲端儲存中還是離線狀態，**Evermusic** 和 **Flacbox** 等應用程式都能讓您在駕駛時輕鬆聆聽個人音樂收藏。
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="CarPlay 待播佇列" image="/docs/howto/how-to-play-your-own-music-on-iphone-using-carplay/carplay-nowplaying-5.webp" imageStyle="border-radius: clamp(14px, 2vw, 28px);" >}}
+{{< ls-card title="" subtitle="CarPlay 待播佇列" image="/docs/howto/how-to-play-your-own-music-on-iphone-using-carplay/carplay-nowplaying-5.webp" imageStyle="border-radius: clamp(14px, 2vw, 28px);" >}}
 {{< /cards >}}
 
 在本指南中，我們將向您展示如何為 CarPlay 準備音樂檔案、使用正確的專輯封面和曲目資訊進行整理，以及如何從 iPhone 安全播放。藉助 Evermusic 或 Flacbox，您可以建立播放列表，從 **Google Drive**、**Dropbox**、**OneDrive**、**NAS** 或家用電腦等服務中串流播放或下載歌曲。
@@ -25,8 +25,8 @@ readingTime: 5
 這些應用程式非常適合希望完全控制音樂資料庫的使用者。
 
 {{< cards cols="2">}}
-{{< card link="https://apps.apple.com/app/apple-store/id885367198?pt=95781850&ct=everappzcom&mt=8" title="下載 Evermusic" icon="download" tag="Free" >}}
-{{< card link="https://apps.apple.com/app/apple-store/id1097564256?pt=95781850&ct=everappzcom&mt=8" title="下載 Flacbox" icon="download" tag="Free" >}}
+{{< ls-card link="https://apps.apple.com/app/apple-store/id885367198?pt=95781850&ct=everappzcom&mt=8" title="下載 Evermusic" icon="download" tag="Free" >}}
+{{< ls-card link="https://apps.apple.com/app/apple-store/id1097564256?pt=95781850&ct=everappzcom&mt=8" title="下載 Flacbox" icon="download" tag="Free" >}}
 {{< /cards >}}
 
 ## 將檔案新增到應用程式
@@ -106,7 +106,7 @@ readingTime: 5
 啟動 Evermusic 或 Flacbox 應用程式並進入 CarPlay 模式後，您將看到主介面分為 4 個主要標籤頁：資料庫、連接、本機檔案、設定。
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="CarPlay 主選單" image="/docs/howto/how-to-play-your-own-music-on-iphone-using-carplay/library-with-images.webp" imageStyle="border-radius: clamp(14px, 2vw, 28px);" >}}
+{{< ls-card title="" subtitle="CarPlay 主選單" image="/docs/howto/how-to-play-your-own-music-on-iphone-using-carplay/library-with-images.webp" imageStyle="border-radius: clamp(14px, 2vw, 28px);" >}}
 {{< /cards >}}
 
 ## 資料庫
@@ -116,7 +116,7 @@ Evermusic 中的**資料庫**標籤頁是所有音樂的組織中心。將曲目
 此畫面可快速存取您的最愛項目、最近使用的、播放列表、書籤和所有已新增的曲目。您還可以從上次工作階段繼續播放、檢視未播放的歌曲，並按標籤或來源類型瀏覽音樂。
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="資料庫" image="/docs/howto/how-to-play-your-own-music-on-iphone-using-carplay/library-with-images-3.webp" imageStyle="border-radius: clamp(14px, 2vw, 28px);" >}}
+{{< ls-card title="" subtitle="資料庫" image="/docs/howto/how-to-play-your-own-music-on-iphone-using-carplay/library-with-images-3.webp" imageStyle="border-radius: clamp(14px, 2vw, 28px);" >}}
 {{< /cards >}}
 
 **資料庫**部分包含以下類別：
@@ -139,7 +139,7 @@ Evermusic 中的**資料庫**標籤頁是所有音樂的組織中心。將曲目
 - **線上檔案** – 直接從雲端服務串流播放的音樂
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="專輯檢視" image="/docs/howto/how-to-play-your-own-music-on-iphone-using-carplay/albums.webp" imageStyle="border-radius: clamp(14px, 2vw, 28px);" >}}
+{{< ls-card title="" subtitle="專輯檢視" image="/docs/howto/how-to-play-your-own-music-on-iphone-using-carplay/albums.webp" imageStyle="border-radius: clamp(14px, 2vw, 28px);" >}}
 {{< /cards >}}
 
 您可以開啟任何子選單並點按曲目立即開始播放。如需更詳細的資訊，請查看完整的[音樂資料庫指南](/docs/guide/evermusic/evermusic-guide-music-library/)。
@@ -150,7 +150,7 @@ Evermusic 中的**資料庫**標籤頁是所有音樂的組織中心。將曲目
 **連接**標籤頁是您存取和管理所有已連接的雲端儲存服務和本機網路裝置的中心樞紐。
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="連接" image="/docs/howto/how-to-play-your-own-music-on-iphone-using-carplay/connections-with-images-3.webp" imageStyle="border-radius: clamp(14px, 2vw, 28px);" >}}
+{{< ls-card title="" subtitle="連接" image="/docs/howto/how-to-play-your-own-music-on-iphone-using-carplay/connections-with-images-3.webp" imageStyle="border-radius: clamp(14px, 2vw, 28px);" >}}
 {{< /cards >}}
 
 從這裡，您可以連接到熱門的雲端平台，如 Dropbox、Google Drive、OneDrive、MEGA、iCloud Drive，甚至 SMB、DLNA 和 WebDAV 等網路磁碟機。連接後，您可以直接在應用程式內瀏覽、串流、下載和管理檔案。
@@ -172,7 +172,7 @@ Evermusic 中的**資料庫**標籤頁是所有音樂的組織中心。將曲目
 **本機檔案**部分是您管理直接儲存在裝置上或 Evermusic 應用程式的**文件**目錄中的音訊檔案的中心樞紐。它還包括從雲端儲存下載的離線檔案、音訊播放器快取檔案以及您設為可離線播放的資料夾。此部分確保您即使在沒有網際網路連線的情況下也能欣賞音樂資料庫。
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="本機檔案" image="/docs/howto/how-to-play-your-own-music-on-iphone-using-carplay/local-files-with-images.webp" imageStyle="border-radius: clamp(14px, 2vw, 28px);" >}}
+{{< ls-card title="" subtitle="本機檔案" image="/docs/howto/how-to-play-your-own-music-on-iphone-using-carplay/local-files-with-images.webp" imageStyle="border-radius: clamp(14px, 2vw, 28px);" >}}
 {{< /cards >}}
 
 **本機檔案**畫面組織為以下關鍵部分：
@@ -186,7 +186,7 @@ Evermusic 中的**資料庫**標籤頁是所有音樂的組織中心。將曲目
 - **音訊播放器** – 用於淡入淡出和效能最佳化的快取資料夾。可在設定中停用或清除。
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="本機檔案中的裝置資料夾" image="/docs/howto/how-to-play-your-own-music-on-iphone-using-carplay/local-files-device-folders.webp" imageStyle="border-radius: clamp(14px, 2vw, 28px);" >}}
+{{< ls-card title="" subtitle="本機檔案中的裝置資料夾" image="/docs/howto/how-to-play-your-own-music-on-iphone-using-carplay/local-files-device-folders.webp" imageStyle="border-radius: clamp(14px, 2vw, 28px);" >}}
 {{< /cards >}}
 
 您可以在完整的[本機檔案指南](/docs/guide/evermusic/evermusic-guide-local-files/)中了解更多資訊。
@@ -194,7 +194,7 @@ Evermusic 中的**資料庫**標籤頁是所有音樂的組織中心。將曲目
 ## 資料夾檢視
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="帶封面的本機資料夾" image="/docs/howto/how-to-play-your-own-music-on-iphone-using-carplay/local-folder-with-images-2.webp" imageStyle="border-radius: clamp(14px, 2vw, 28px);" >}}
+{{< ls-card title="" subtitle="帶封面的本機資料夾" image="/docs/howto/how-to-play-your-own-music-on-iphone-using-carplay/local-folder-with-images-2.webp" imageStyle="border-radius: clamp(14px, 2vw, 28px);" >}}
 {{< /cards >}}
 
 開啟資料夾時，您會在頂部看到一組便捷操作：
@@ -206,7 +206,7 @@ Evermusic 中的**資料庫**標籤頁是所有音樂的組織中心。將曲目
 ## 內容深度限制
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="內容深度限制" image="/docs/howto/how-to-play-your-own-music-on-iphone-using-carplay/content-depth-limit.webp" imageStyle="border-radius: clamp(14px, 2vw, 28px);" >}}
+{{< ls-card title="" subtitle="內容深度限制" image="/docs/howto/how-to-play-your-own-music-on-iphone-using-carplay/content-depth-limit.webp" imageStyle="border-radius: clamp(14px, 2vw, 28px);" >}}
 {{< /cards >}}
 
 使用 CarPlay 時，您可能會遇到**「內容深度限制」**錯誤——尤其是當您的音樂資料庫有許多深度巢狀的資料夾時。
@@ -227,7 +227,7 @@ Evermusic 中的**資料庫**標籤頁是所有音樂的組織中心。將曲目
 ## 正在播放畫面
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="CarPlay 正在播放" image="/docs/howto/how-to-play-your-own-music-on-iphone-using-carplay/carplay-nowplaying.webp" imageStyle="border-radius: clamp(14px, 2vw, 28px);" >}}
+{{< ls-card title="" subtitle="CarPlay 正在播放" image="/docs/howto/how-to-play-your-own-music-on-iphone-using-carplay/carplay-nowplaying.webp" imageStyle="border-radius: clamp(14px, 2vw, 28px);" >}}
 {{< /cards >}}
 
 點按任何音訊檔案後，它會自動新增到**播放器佇列**中。
@@ -244,7 +244,7 @@ Evermusic 中的**資料庫**標籤頁是所有音樂的組織中心。將曲目
 ## 設定
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="設定選單" image="/docs/howto/how-to-play-your-own-music-on-iphone-using-carplay/settings-2.webp" imageStyle="border-radius: clamp(14px, 2vw, 28px);" >}}
+{{< ls-card title="" subtitle="設定選單" image="/docs/howto/how-to-play-your-own-music-on-iphone-using-carplay/settings-2.webp" imageStyle="border-radius: clamp(14px, 2vw, 28px);" >}}
 {{< /cards >}}
 
 CarPlay 介面中的**設定**部分允許您自訂應用程式在駕駛時的行為。這些設定有助於提升效能、減少干擾並提供更流暢的聆聽體驗。
@@ -260,7 +260,7 @@ CarPlay 介面中的**設定**部分允許您自訂應用程式在駕駛時的�
 - **排序** – 調整 CarPlay 選單（如檔案、音樂資料庫和連接）中內容的排序方式。
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="排序選項選單" image="/docs/howto/how-to-play-your-own-music-on-iphone-using-carplay/settings-sort.webp" imageStyle="border-radius: clamp(14px, 2vw, 28px);" >}}
+{{< ls-card title="" subtitle="排序選項選單" image="/docs/howto/how-to-play-your-own-music-on-iphone-using-carplay/settings-sort.webp" imageStyle="border-radius: clamp(14px, 2vw, 28px);" >}}
 {{< /cards >}}
 
 - **內容載入限制** – 設定每個畫面顯示的項目數量。較低的限制可提升載入速度並減少捲動。
@@ -271,19 +271,19 @@ CarPlay 介面中的**設定**部分允許您自訂應用程式在駕駛時的�
 - **音訊等化器**
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="等化器設定面板" image="/docs/howto/how-to-play-your-own-music-on-iphone-using-carplay/settings-eq-configuration.webp" imageStyle="border-radius: clamp(14px, 2vw, 28px);" >}}
+{{< ls-card title="" subtitle="等化器設定面板" image="/docs/howto/how-to-play-your-own-music-on-iphone-using-carplay/settings-eq-configuration.webp" imageStyle="border-radius: clamp(14px, 2vw, 28px);" >}}
 {{< /cards >}}
 
 啟用內建音訊等化器，調整頻段，並從預先設定的預設中選擇，獲得個人化的音效體驗。
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="等化器預設清單" image="/docs/howto/how-to-play-your-own-music-on-iphone-using-carplay/settings-equalizer.webp" imageStyle="border-radius: clamp(14px, 2vw, 28px);" >}}
+{{< ls-card title="" subtitle="等化器預設清單" image="/docs/howto/how-to-play-your-own-music-on-iphone-using-carplay/settings-equalizer.webp" imageStyle="border-radius: clamp(14px, 2vw, 28px);" >}}
 {{< /cards >}}
 
 - **淡入淡出播放**
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="淡入淡出播放" image="/docs/howto/how-to-play-your-own-music-on-iphone-using-carplay/settings-crossfade-playback.webp" imageStyle="border-radius: clamp(14px, 2vw, 28px);" >}}
+{{< ls-card title="" subtitle="淡入淡出播放" image="/docs/howto/how-to-play-your-own-music-on-iphone-using-carplay/settings-crossfade-playback.webp" imageStyle="border-radius: clamp(14px, 2vw, 28px);" >}}
 {{< /cards >}}
 
 透過將一首歌的結尾與下一首歌的開頭重疊來建立歌曲之間的平滑過渡。淡入淡出持續時間可自訂。
@@ -291,7 +291,7 @@ CarPlay 介面中的**設定**部分允許您自訂應用程式在駕駛時的�
 - **無縫播放**
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="無縫播放" image="/docs/howto/how-to-play-your-own-music-on-iphone-using-carplay/settings-gapless-playback.webp" imageStyle="border-radius: clamp(14px, 2vw, 28px);" >}}
+{{< ls-card title="" subtitle="無縫播放" image="/docs/howto/how-to-play-your-own-music-on-iphone-using-carplay/settings-gapless-playback.webp" imageStyle="border-radius: clamp(14px, 2vw, 28px);" >}}
 {{< /cards >}}
 
 無縫播放曲目，沒有間斷——非常適合現場錄音、DJ 混音和概念專輯。
@@ -307,7 +307,7 @@ CarPlay 介面中的**設定**部分允許您自訂應用程式在駕駛時的�
 藉助 **Evermusic** 和 **Flacbox**，使用 Apple CarPlay 在車內播放自己的音樂變得簡單、靈活且可靠。無論您是從雲端儲存串流播放、存取本機檔案還是離線播放已下載的曲目——這些應用程式旨在讓您在駕駛時完全掌控聆聽體驗。
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="CarPlay 正在播放畫面" image="/docs/howto/how-to-play-your-own-music-on-iphone-using-carplay/carplay-nowplaying-2.webp" imageStyle="border-radius: clamp(14px, 2vw, 28px);" >}}
+{{< ls-card title="" subtitle="CarPlay 正在播放畫面" image="/docs/howto/how-to-play-your-own-music-on-iphone-using-carplay/carplay-nowplaying-2.webp" imageStyle="border-radius: clamp(14px, 2vw, 28px);" >}}
 {{< /cards >}}
 
 從無縫的雲端整合到離線資料夾同步，從深度音樂資料庫組織到可自訂的等化器和淡入淡出播放——這些功能使 Evermusic 和 Flacbox 不僅僅是音訊播放器。它們是專為發燒友、通勤者和日常使用者設計的智慧 CarPlay 夥伴。
@@ -325,22 +325,22 @@ CarPlay 介面中的**設定**部分允許您自訂應用程式在駕駛時的�
 
 ## 常見問題
 
-{{% details title="CarPlay 中 Evermusic 和 Flacbox 支援哪些音樂檔案格式？" closed="true" %}}
+{{% ls-details title="CarPlay 中 Evermusic 和 Flacbox 支援哪些音樂檔案格式？" closed="true" %}}
 Evermusic 和 Flacbox 支援多種音訊格式，包括 MP3、FLAC、AAC、WAV、AIFF、OGG、WMA 等。所有支援的格式無需轉換即可透過 CarPlay 使用。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="我可以在 CarPlay 上播放 Google Drive 或 Dropbox 中的音樂嗎？" closed="true" %}}
+{{% ls-details title="我可以在 CarPlay 上播放 Google Drive 或 Dropbox 中的音樂嗎？" closed="true" %}}
 可以。Evermusic 和 Flacbox 都允許您連接到 Google Drive、Dropbox、OneDrive、MEGA 等雲端儲存服務。您可以直接串流播放音樂或下載以進行離線 CarPlay 播放。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="在 CarPlay 上播放音樂需要網際網路連線嗎？" closed="true" %}}
+{{% ls-details title="在 CarPlay 上播放音樂需要網際網路連線嗎？" closed="true" %}}
 不需要。您可以從雲端儲存下載音樂進行離線播放。檔案儲存在 iPhone 本機後，無需網際網路連線即可透過 CarPlay 播放。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="為什麼我在 CarPlay 上看到內容深度限制錯誤？" closed="true" %}}
+{{% ls-details title="為什麼我在 CarPlay 上看到內容深度限制錯誤？" closed="true" %}}
 CarPlay 限制了它可以顯示的資料夾層級數量。如果您的音樂位於深度巢狀的資料夾中，請將這些資料夾新增到最愛項目，以便您可以直接從 CarPlay 中的最愛項目選單存取它們。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Evermusic 或 Flacbox 可以免費與 CarPlay 一起使用嗎？" closed="true" %}}
+{{% ls-details title="Evermusic 或 Flacbox 可以免費與 CarPlay 一起使用嗎？" closed="true" %}}
 兩款應用程式都可免費下載，具有完整的 CarPlay 支援、等化器和播放功能。免費版本對雲端連線（3 個）、播放列表（10 個）和離線資料夾（1 個）有限制。Premium 版本取消所有限制。
-{{% /details %}}
+{{% /ls-details %}}

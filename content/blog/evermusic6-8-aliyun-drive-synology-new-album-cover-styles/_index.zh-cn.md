@@ -12,7 +12,7 @@ authors:
     image: "/images/about/artem-meleshko-founder-everappz.webp"
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 **摘要：** Evermusic 6.8 新增 Aliyun Drive 和 Synology NAS 集成（支持 QuickConnect）、六种新的专辑封面滚动效果、极简全屏播放器、拖放文件管理和更快的专辑封面加载。现已可用于 iOS 和 macOS。
 
@@ -77,18 +77,18 @@ Evermusic 6.8 专注于三个领域：更广泛的云兼容性（Aliyun Drive、
 
 ## 常见问题
 
-{{% details title="如何将 Synology NAS 连接到 Evermusic？" closed="true" %}}
+{{% ls-details title="如何将 Synology NAS 连接到 Evermusic？" closed="true" %}}
 转到"连接"选项卡，选择 Synology，然后输入您的 QuickConnectID。Evermusic 直接连接，无需 IP 地址或 VPN 设置。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Aliyun Drive 与 Evermusic 配合使用免费吗？" closed="true" %}}
+{{% ls-details title="Aliyun Drive 与 Evermusic 配合使用免费吗？" closed="true" %}}
 是的。如果您有 Aliyun Drive 帐户，可以免费连接到 Evermusic。存储限制取决于您的 Aliyun Drive 计划。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="我可以自定义专辑封面滚动样式吗？" closed="true" %}}
+{{% ls-details title="我可以自定义专辑封面滚动样式吗？" closed="true" %}}
 可以。转到 Settings > Audio Player > Personalization > Album Covers Scrolling Style，从六个选项中选择：MacDoc、Linear、Rotary、Inverted Rotary、Cylinder 或 CoverFlow。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="极简播放器界面在所有设备上都能使用吗？" closed="true" %}}
+{{% ls-details title="极简播放器界面在所有设备上都能使用吗？" closed="true" %}}
 是的。全屏专辑封面样式适用于所有运行 Evermusic 6.8 或更高版本的受支持 iPhone、iPad 和 Mac。
-{{% /details %}}
+{{% /ls-details %}}

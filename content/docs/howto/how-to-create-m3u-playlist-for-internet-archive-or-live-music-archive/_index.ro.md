@@ -29,7 +29,7 @@ tags: [
 readingTime: 3
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **Pe scurt:** Lipește orice URL Internet Archive în [archivetom3u.com](https://archivetom3u.com), alege formatul audio (MP3, FLAC, OGG) și descarcă o listă de redare M3U gata de redare -- nu este nevoie de cont. Apoi import-o în [Evermusic](https://apps.apple.com/app/apple-store/id885367198?pt=95781850&ct=everappzcom&mt=8) pe iPhone sau Mac pentru redare instantanee.
@@ -69,7 +69,7 @@ Poți alege dintre următoarele formate:
 Mergi la [archive.org](https://archive.org), apasă pe **Audio** și selectează **Live Music Archive**. Folosește bara de căutare pentru a găsi un gen, artist sau concert dorit.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Caută muzică pe Internet Archive" image="/docs/howto/how-to-create-m3u-playlist-for-internet-archive-or-live-music-archive/1.internet-archive-search.webp" >}}
+  {{< ls-card title="" subtitle="Caută muzică pe Internet Archive" image="/docs/howto/how-to-create-m3u-playlist-for-internet-archive-or-live-music-archive/1.internet-archive-search.webp" >}}
 {{< /cards >}}
 
 ### 2. Copiază URL-ul elementului
@@ -77,7 +77,7 @@ Mergi la [archive.org](https://archive.org), apasă pe **Audio** și selectează
 Dă clic pe elementul dorit și copiază URL-ul din bara de adrese a browserului.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Copiază URL-ul elementului din Internet Archive" image="/docs/howto/how-to-create-m3u-playlist-for-internet-archive-or-live-music-archive/2.internet-archive-copy-item-url.webp" >}}
+  {{< ls-card title="" subtitle="Copiază URL-ul elementului din Internet Archive" image="/docs/howto/how-to-create-m3u-playlist-for-internet-archive-or-live-music-archive/2.internet-archive-copy-item-url.webp" >}}
 {{< /cards >}}
 
 ### 3. Lipește URL-ul în generator
@@ -85,7 +85,7 @@ Dă clic pe elementul dorit și copiază URL-ul din bara de adrese a browserului
 Revino la [archivetom3u.com](https://archivetom3u.com) și lipește URL-ul copiat în câmpul de introducere.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Lipește URL-ul elementului în generatorul M3U" image="/docs/howto/how-to-create-m3u-playlist-for-internet-archive-or-live-music-archive/3.archive-to-m3u-paste-item-url.webp" >}}
+  {{< ls-card title="" subtitle="Lipește URL-ul elementului în generatorul M3U" image="/docs/howto/how-to-create-m3u-playlist-for-internet-archive-or-live-music-archive/3.archive-to-m3u-paste-item-url.webp" >}}
 {{< /cards >}}
 
 ### 4. Selectează formatul audio
@@ -93,7 +93,7 @@ Revino la [archivetom3u.com](https://archivetom3u.com) și lipește URL-ul copia
 Alege formatul dorit (MP3, FLAC etc.).
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Alege formatul audio preferat" image="/docs/howto/how-to-create-m3u-playlist-for-internet-archive-or-live-music-archive/4.archive-to-m3u-select-format.webp" >}}
+  {{< ls-card title="" subtitle="Alege formatul audio preferat" image="/docs/howto/how-to-create-m3u-playlist-for-internet-archive-or-live-music-archive/4.archive-to-m3u-select-format.webp" >}}
 {{< /cards >}}
 
 ### 5. Generează lista de redare
@@ -101,7 +101,7 @@ Alege formatul dorit (MP3, FLAC etc.).
 Dă clic pe **Generate Playlist**. Conținutul `.m3u` va fi afișat mai jos. Îl poți copia sau descărca.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Lista de redare M3U este generată automat" image="/docs/howto/how-to-create-m3u-playlist-for-internet-archive-or-live-music-archive/5.archive-to-m3u-generated-playlist.webp" >}}
+  {{< ls-card title="" subtitle="Lista de redare M3U este generată automat" image="/docs/howto/how-to-create-m3u-playlist-for-internet-archive-or-live-music-archive/5.archive-to-m3u-generated-playlist.webp" >}}
 {{< /cards >}}
 
 ### 6. Previzualizează piesele
@@ -109,7 +109,7 @@ Dă clic pe **Generate Playlist**. Conținutul `.m3u` va fi afișat mai jos. Îl
 Derulează în jos pentru a previzualiza fiecare piesă. Asigură-te că totul se redă corect.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Previzualizează toate piesele înainte de descărcare" image="/docs/howto/how-to-create-m3u-playlist-for-internet-archive-or-live-music-archive/6.archive-to-m3u-tracks-preview.webp" >}}
+  {{< ls-card title="" subtitle="Previzualizează toate piesele înainte de descărcare" image="/docs/howto/how-to-create-m3u-playlist-for-internet-archive-or-live-music-archive/6.archive-to-m3u-tracks-preview.webp" >}}
 {{< /cards >}}
 
 ### 7. Descarcă lista de redare
@@ -117,7 +117,7 @@ Derulează în jos pentru a previzualiza fiecare piesă. Asigură-te că totul s
 Dă clic pe **Download Playlist** pentru a salva fișierul `.m3u` pe dispozitivul tău. Nu este nevoie de autentificare sau cont.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Descarcă lista de redare M3U pe dispozitivul tău" image="/docs/howto/how-to-create-m3u-playlist-for-internet-archive-or-live-music-archive/7.downloaded-m3u-playlist.webp" >}}
+  {{< ls-card title="" subtitle="Descarcă lista de redare M3U pe dispozitivul tău" image="/docs/howto/how-to-create-m3u-playlist-for-internet-archive-or-live-music-archive/7.downloaded-m3u-playlist.webp" >}}
 {{< /cards >}}
 
 ## Cum să redai o listă M3U pe macOS sau iOS
@@ -125,14 +125,14 @@ Dă clic pe **Download Playlist** pentru a salva fișierul `.m3u` pe dispozitivu
 Pentru a reda fișierul `.m3u` descărcat pe dispozitivul Apple, folosește aplicația **Evermusic** (descărcare gratuită):
 
 {{< cards cols="1">}}
-{{< card link="https://apps.apple.com/app/apple-store/id1564384601?pt=95781850&ct=everappzcom&mt=8" title="Evermusic macOS" icon="download" tag="Free" >}}
-{{< card link="https://apps.apple.com/app/apple-store/id885367198?pt=95781850&ct=everappzcom&mt=8" title="Evermusic iOS" icon="download" tag="Free" >}}
+{{< ls-card link="https://apps.apple.com/app/apple-store/id1564384601?pt=95781850&ct=everappzcom&mt=8" title="Evermusic macOS" icon="download" tag="Free" >}}
+{{< ls-card link="https://apps.apple.com/app/apple-store/id885367198?pt=95781850&ct=everappzcom&mt=8" title="Evermusic iOS" icon="download" tag="Free" >}}
 {{< /cards >}}
 
 ### 1. Deschide Evermusic și mergi la Liste de redare
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Deschide Evermusic și mergi la Liste de redare" image="/docs/howto/how-to-create-m3u-playlist-for-internet-archive-or-live-music-archive/8.evermusic-app-playlists.webp" >}}
+  {{< ls-card title="" subtitle="Deschide Evermusic și mergi la Liste de redare" image="/docs/howto/how-to-create-m3u-playlist-for-internet-archive-or-live-music-archive/8.evermusic-app-playlists.webp" >}}
 {{< /cards >}}
 
 ### 2. Importă lista de redare
@@ -140,7 +140,7 @@ Pentru a reda fișierul `.m3u` descărcat pe dispozitivul Apple, folosește apli
 Apasă pe **Add Playlist**, apoi alege **Import Playlist**.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Apasă Import Playlist pentru a adăuga M3U descărcat" image="/docs/howto/how-to-create-m3u-playlist-for-internet-archive-or-live-music-archive/9.evermusic-app-import-playlist.webp" >}}
+  {{< ls-card title="" subtitle="Apasă Import Playlist pentru a adăuga M3U descărcat" image="/docs/howto/how-to-create-m3u-playlist-for-internet-archive-or-live-music-archive/9.evermusic-app-import-playlist.webp" >}}
 {{< /cards >}}
 
 ### 3. Selectează locația listei de redare
@@ -148,7 +148,7 @@ Apasă pe **Add Playlist**, apoi alege **Import Playlist**.
 Alege **Files on this Mac** (sau altă locație unde ai salvat fișierul).
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Selectează locația fișierului descărcat" image="/docs/howto/how-to-create-m3u-playlist-for-internet-archive-or-live-music-archive/10.select-location.webp" >}}
+  {{< ls-card title="" subtitle="Selectează locația fișierului descărcat" image="/docs/howto/how-to-create-m3u-playlist-for-internet-archive-or-live-music-archive/10.select-location.webp" >}}
 {{< /cards >}}
 
 ### 4. Acordă acces la folder
@@ -156,7 +156,7 @@ Alege **Files on this Mac** (sau altă locație unde ai salvat fișierul).
 Evermusic poate accesa fișierele doar dacă permiți accesul la nivel de folder. Selectează folderul care conține fișierul `.m3u` **și** fișierele audio legate în interior.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Conectează folderul situat pe dispozitivul tău" image="/docs/howto/how-to-create-m3u-playlist-for-internet-archive-or-live-music-archive/11.connect-folder-located-on-your-device.webp" >}}
+  {{< ls-card title="" subtitle="Conectează folderul situat pe dispozitivul tău" image="/docs/howto/how-to-create-m3u-playlist-for-internet-archive-or-live-music-archive/11.connect-folder-located-on-your-device.webp" >}}
 {{< /cards >}}
 
 ### 5. Alege folderul Descărcări
@@ -164,13 +164,13 @@ Evermusic poate accesa fișierele doar dacă permiți accesul la nivel de folder
 În majoritatea cazurilor, lista de redare este salvată în folderul **Downloads**.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Selectează folderul Descărcări" image="/docs/howto/how-to-create-m3u-playlist-for-internet-archive-or-live-music-archive/12.select-downloads-folder.webp" >}}
+  {{< ls-card title="" subtitle="Selectează folderul Descărcări" image="/docs/howto/how-to-create-m3u-playlist-for-internet-archive-or-live-music-archive/12.select-downloads-folder.webp" >}}
 {{< /cards >}}
 
 Apasă **Open** pentru a confirma selecția.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Folderul tău Descărcări este acum conectat" image="/docs/howto/how-to-create-m3u-playlist-for-internet-archive-or-live-music-archive/13.downloads-folder-connected.webp" >}}
+  {{< ls-card title="" subtitle="Folderul tău Descărcări este acum conectat" image="/docs/howto/how-to-create-m3u-playlist-for-internet-archive-or-live-music-archive/13.downloads-folder-connected.webp" >}}
 {{< /cards >}}
 
 ### 6. Selectează fișierul listei de redare
@@ -180,7 +180,7 @@ După ce folderul este conectat, găsește și selectează fișierul `.m3u`.
 Apasă **Done** pentru a confirma selecția.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Selectează fișierul listei de redare M3U din folder" image="/docs/howto/how-to-create-m3u-playlist-for-internet-archive-or-live-music-archive/14.m3u-playlist-selected-from-connected-folder.webp" >}}
+  {{< ls-card title="" subtitle="Selectează fișierul listei de redare M3U din folder" image="/docs/howto/how-to-create-m3u-playlist-for-internet-archive-or-live-music-archive/14.m3u-playlist-selected-from-connected-folder.webp" >}}
 {{< /cards >}}
 
 ### 7. Lista de redare importată cu succes
@@ -188,7 +188,7 @@ Apasă **Done** pentru a confirma selecția.
 Aplicația va analiza lista de redare și o va adăuga în biblioteca ta.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Lista de redare a fost importată cu succes" image="/docs/howto/how-to-create-m3u-playlist-for-internet-archive-or-live-music-archive/15.playlist-imported.webp" >}}
+  {{< ls-card title="" subtitle="Lista de redare a fost importată cu succes" image="/docs/howto/how-to-create-m3u-playlist-for-internet-archive-or-live-music-archive/15.playlist-imported.webp" >}}
 {{< /cards >}}
 
 ### 8. Deschide și redă lista de redare
@@ -196,13 +196,13 @@ Aplicația va analiza lista de redare și o va adăuga în biblioteca ta.
 Apasă pe lista de redare pentru a vedea toate piesele și a începe redarea.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Deschide lista de redare și vezi lista de piese" image="/docs/howto/how-to-create-m3u-playlist-for-internet-archive-or-live-music-archive/16.playlist-opened.webp" >}}
+  {{< ls-card title="" subtitle="Deschide lista de redare și vezi lista de piese" image="/docs/howto/how-to-create-m3u-playlist-for-internet-archive-or-live-music-archive/16.playlist-opened.webp" >}}
 {{< /cards >}}
 
 După câteva secunde, Evermusic va încărca toate metadatele și va actualiza vizualizarea pieselor.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Lista ta de redare este gata de redare" image="/docs/howto/how-to-create-m3u-playlist-for-internet-archive-or-live-music-archive/17.playlist-opened-2.webp" >}}
+  {{< ls-card title="" subtitle="Lista ta de redare este gata de redare" image="/docs/howto/how-to-create-m3u-playlist-for-internet-archive-or-live-music-archive/17.playlist-opened-2.webp" >}}
 {{< /cards >}}
 
 ## Confidențialitate și sursă deschisă
@@ -221,22 +221,22 @@ Acum știi cum să creezi și să imporți liste de redare M3U din Internet Arch
 
 ## Întrebări frecvente
 
-{{% details title="Este gratuit instrumentul generator M3U?" closed="true" %}}
+{{% ls-details title="Este gratuit instrumentul generator M3U?" closed="true" %}}
 Da. Instrumentul de pe [archivetom3u.com](https://archivetom3u.com) este complet gratuit, nu necesită cont și funcționează în întregime în browserul tău.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Ce formate audio pot include în lista de redare M3U?" closed="true" %}}
+{{% ls-details title="Ce formate audio pot include în lista de redare M3U?" closed="true" %}}
 Poți alege VBR MP3, FLAC, 24-bit FLAC sau OGG Vorbis. Doar piesele disponibile în formatul selectat vor apărea în lista de redare.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Pot reda liste de redare M3U pe iPhone sau Mac?" closed="true" %}}
+{{% ls-details title="Pot reda liste de redare M3U pe iPhone sau Mac?" closed="true" %}}
 Da. Descarcă aplicația gratuită Evermusic pentru iOS sau macOS, apoi folosește funcția Import Playlist pentru a încărca fișierul `.m3u`.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Stochează instrumentul datele mele sau găzduiește muzică?" closed="true" %}}
+{{% ls-details title="Stochează instrumentul datele mele sau găzduiește muzică?" closed="true" %}}
 Nu. Toată procesarea se realizează local în browserul tău. Nu se stochează date, iar toate fluxurile audio provin direct de pe archive.org.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Este acest instrument afiliat cu Internet Archive?" closed="true" %}}
+{{% ls-details title="Este acest instrument afiliat cu Internet Archive?" closed="true" %}}
 Nu. Este un proiect independent cu sursă deschisă creat pentru conveniență. Folosește API-ul oficial de metadate Internet Archive pentru generarea listelor de redare.
-{{% /details %}}
+{{% /ls-details %}}

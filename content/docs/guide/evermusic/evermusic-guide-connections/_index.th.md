@@ -17,7 +17,7 @@ readingTime: 11
 หน้าจอแบ่งออกเป็นส่วนที่มีป้ายชัดเจน เพื่อให้รองรับตั้งแต่บัญชี iCloud Drive เดียวไปจนถึงไลบรารีที่กระจายอยู่ในหลายคลาวด์และอุปกรณ์ NAS: การเข้าถึงด่วนที่ด้านบน (โฟลเดอร์คลาวด์โปรดของคุณ), ที่เก็บข้อมูลคลาวด์ (บัญชีที่คุณเพิ่มไว้), เครือข่ายท้องถิ่น (อุปกรณ์ที่ค้นพบผ่าน Bonjour), คอมพิวเตอร์ (Wi-Fi Drive, iTunes File Sharing, SMB), อุปกรณ์ที่เชื่อมต่อ (USB flash drive ที่เชื่อมต่อ) และบริการอื่นๆ (Last.fm และที่คล้ายกัน)
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evermusic Connections Screen" image="/docs/guide/evermusic/evermusic-guide-connections/img/connect-main.webp" >}}
+  {{< ls-card title="" subtitle="Evermusic Connections Screen" image="/docs/guide/evermusic/evermusic-guide-connections/img/connect-main.webp" >}}
 {{< /cards >}}
 
 ## เชื่อมต่อกับที่เก็บข้อมูลคลาวด์
@@ -29,7 +29,7 @@ readingTime: 11
 - แตะ เสร็จสิ้น
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Connect Cloud Storage Provider Picker" image="/docs/guide/evermusic/evermusic-guide-connections/img/connect-add-storage.webp" >}}
+  {{< ls-card title="" subtitle="Connect Cloud Storage Provider Picker" image="/docs/guide/evermusic/evermusic-guide-connections/img/connect-add-storage.webp" >}}
 {{< /cards >}}
 
 หากพบปัญหา ให้ตรวจสอบการเชื่อมต่ออินเทอร์เน็ตและข้อมูลรับรองการเข้าสู่ระบบ และตรวจสอบให้แน่ใจว่าการยืนยันตัวตนสองปัจจัยได้รับการกำหนดค่าอย่างถูกต้องสำหรับบริการนั้น  
@@ -70,7 +70,7 @@ Auth-token คือกุญแจดิจิทัลที่อนุญา
   - **ตัดการเชื่อมต่อ**: หากต้องการตัดการเชื่อมต่อระหว่างแอปและบริการคลาวด์ทั้งหมด ให้เลือก 'ตัดการเชื่อมต่อ' โปรดทราบว่าการเลือกตัวเลือกนี้จะลบเพลงทั้งหมดที่เกี่ยวข้องกับบริการคลาวด์นี้ออกจากไลบรารีเพลงของแอป แต่เพลงจะยังคงอยู่บนเซิร์ฟเวอร์
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Connected Cloud Storage More Actions Menu" image="/docs/guide/evermusic/evermusic-guide-connections/img/connect-storage-more-actions.webp" >}}
+  {{< ls-card title="" subtitle="Connected Cloud Storage More Actions Menu" image="/docs/guide/evermusic/evermusic-guide-connections/img/connect-storage-more-actions.webp" >}}
 {{< /cards >}}
 
 ## เชื่อมต่อกับคอมพิวเตอร์หรือ NAS
@@ -89,7 +89,7 @@ Auth-token คือกุญแจดิจิทัลที่อนุญา
 บทช่วยสอนเต็มรูปแบบเกี่ยวกับวิธีเชื่อมต่อ MAC หรือ PC โดยใช้ SMB มีอยู่ [ที่นี่](/docs/howto/stream-your-music-from-mac-or-pc-to-iphone-using-smb/)
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="SMB Connection Settings" image="/docs/guide/evermusic/evermusic-guide-connections/img/connect-smb-settings.webp" >}}
+  {{< ls-card title="" subtitle="SMB Connection Settings" image="/docs/guide/evermusic/evermusic-guide-connections/img/connect-smb-settings.webp" >}}
 {{< /cards >}}
 
 ## เชื่อมต่อกับ NAS โดยใช้ WebDAV
@@ -99,7 +99,7 @@ URL ควรอยู่ในรูปแบบ http://server-name หรื�
 บทช่วยสอนเต็มรูปแบบเกี่ยวกับวิธีเชื่อมต่อ NAS โดยใช้โปรโตคอล WebDAV มีอยู่ [ที่นี่](/docs/howto/how-to-connect-nas-storage-using-webdav-and-listen-to-music-on-your-iphone-or-mac)
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="WebDAV Connection Settings" image="/docs/guide/evermusic/evermusic-guide-connections/img/connect-webdav-settings.webp" >}}
+  {{< ls-card title="" subtitle="WebDAV Connection Settings" image="/docs/guide/evermusic/evermusic-guide-connections/img/connect-webdav-settings.webp" >}}
 {{< /cards >}}
 
 ## เชื่อมต่อกับคอมพิวเตอร์หรือ NAS โดยใช้ DLNA
@@ -107,7 +107,7 @@ URL ควรอยู่ในรูปแบบ http://server-name หรื�
 คุณยังสามารถแชร์ไลบรารีเพลงที่อยู่บน Windows PC หรือ NAS ส่วนตัวของคุณโดยใช้โปรโตคอล DLNA และเข้าถึงไลบรารีนั้นในแอปตามที่อธิบาย [ที่นี่](/docs/howto/how-to-enable-dlna-media-server-on-windows-10-and-play-your-music-on-iphone) DLNA เป็นโปรโตคอลยอดนิยมที่ใช้กันอย่างแพร่หลาย แต่อนุญาตให้คุณเล่นหรือดาวน์โหลดเพลงเท่านั้น คุณไม่สามารถอัปโหลดไฟล์หรือสร้างโฟลเดอร์ใหม่บนเซิร์ฟเวอร์ได้
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="DLNA Connection Settings" image="/docs/guide/evermusic/evermusic-guide-connections/img/connect-dlna-settings.webp" >}}
+  {{< ls-card title="" subtitle="DLNA Connection Settings" image="/docs/guide/evermusic/evermusic-guide-connections/img/connect-dlna-settings.webp" >}}
 {{< /cards >}}
 
 ## อุปกรณ์ที่มีให้บริการ
@@ -120,7 +120,7 @@ URL ควรอยู่ในรูปแบบ http://server-name หรื�
 - หากจำเป็น ให้ป้อนรายละเอียดการเข้าสู่ระบบเพื่อดำเนินการเชื่อมต่อให้สมบูรณ์
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Available Devices on the Local Network" image="/docs/guide/evermusic/evermusic-guide-connections/img/connect-available-devices.webp" >}}
+  {{< ls-card title="" subtitle="Available Devices on the Local Network" image="/docs/guide/evermusic/evermusic-guide-connections/img/connect-available-devices.webp" >}}
 {{< /cards >}}
 
 ## Wi-Fi Drive
@@ -146,7 +146,7 @@ Wi-Fi Drive เป็นเทคโนโลยีที่สะดวกซ�
 ไฟล์ที่คุณลากและวางจะเริ่มโอนไปยังอุปกรณ์ iOS ของคุณและจะสามารถเข้าถึงได้ภายในแอปพลิเคชัน
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Wi-Fi Drive Server Settings" image="/docs/guide/evermusic/evermusic-guide-connections/img/connect-wifidrive-settings.webp" >}}
+  {{< ls-card title="" subtitle="Wi-Fi Drive Server Settings" image="/docs/guide/evermusic/evermusic-guide-connections/img/connect-wifidrive-settings.webp" >}}
 {{< /cards >}}
 
 คำแนะนำโดยละเอียดเกี่ยวกับวิธีโอนไฟล์แบบไร้สายโดยใช้ WiFi-Drive มีอยู่ [ที่นี่](/docs/howto/how-to-transfer-files-wirelessly-from-a-computer-to-an-iphone-using-wifi-drive)
@@ -162,7 +162,7 @@ iTunes File Sharing เป็นอีกหนึ่งเทคโนโลย
 คำแนะนำโดยละเอียดเกี่ยวกับวิธีใช้ iTunes file sharing มีอยู่ [ที่นี่](/docs/howto/how-to-play-local-itunes-files-on-my-iphone/)
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="iTunes / Finder File Sharing on Mac" image="/docs/guide/evermusic/evermusic-guide-connections/img/connect-itunes-file-sharing.webp" >}}
+  {{< ls-card title="" subtitle="iTunes / Finder File Sharing on Mac" image="/docs/guide/evermusic/evermusic-guide-connections/img/connect-itunes-file-sharing.webp" >}}
 {{< /cards >}}
 
 ## เชื่อมต่อ USB flash card
@@ -183,7 +183,7 @@ iTunes File Sharing เป็นอีกหนึ่งเทคโนโลย
 - **สับเปลี่ยนทั้งหมด**: คล้ายกับ "เล่นทั้งหมด" การดำเนินการนี้จะสแกนโฟลเดอร์ปัจจุบันและโฟลเดอร์ย่อย แต่จะสับเปลี่ยนไฟล์ก่อนเพิ่มลงในคิวเครื่องเล่นเสียง เป็นวิธีที่ยอดเยี่ยมในการเพลิดเพลินกับเพลงในลำดับสุ่มเพื่อความหลากหลาย
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Top Toolbar Inside a Cloud Folder" image="/docs/guide/evermusic/evermusic-guide-connections/img/connect-top-toolbar.webp" >}}
+  {{< ls-card title="" subtitle="Top Toolbar Inside a Cloud Folder" image="/docs/guide/evermusic/evermusic-guide-connections/img/connect-top-toolbar.webp" >}}
 {{< /cards >}}
 
 ## ตัวเลือกโฟลเดอร์
@@ -200,7 +200,7 @@ iTunes File Sharing เป็นอีกหนึ่งเทคโนโลย
 - **มุมมองกริด/รายการ**: สลับระหว่างโหมดการดูสองแบบ: มุมมองตารางและมุมมองภาพขนาดย่อ มุมมองตารางนำเสนอไฟล์ในรูปแบบรายการ ในขณะที่มุมมองภาพขนาดย่อแสดงการแสดงภาพของไฟล์ ทำให้ระบุเนื้อหาได้ง่ายขึ้นเพียงแวบเดียว
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Current Folder More Actions Menu" image="/docs/guide/evermusic/evermusic-guide-connections/img/connect-folder-options.webp" >}}
+  {{< ls-card title="" subtitle="Current Folder More Actions Menu" image="/docs/guide/evermusic/evermusic-guide-connections/img/connect-folder-options.webp" >}}
 {{< /cards >}}
 
 ## แก้ไขไฟล์ออนไลน์
@@ -212,7 +212,7 @@ iTunes File Sharing เป็นอีกหนึ่งเทคโนโลย
 - **ดำเนินการต่างๆ**: เมื่อคุณเลือกไฟล์หรือโฟลเดอร์ที่ต้องการจัดการแล้ว คุณจะมีสิทธิ์เข้าถึงการดำเนินการหลายอย่างที่ปรับแต่งตามความต้องการของคุณ:
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Selection Mode for Online Files" image="/docs/guide/evermusic/evermusic-guide-connections/img/connect-selection-mode.webp" >}}
+  {{< ls-card title="" subtitle="Selection Mode for Online Files" image="/docs/guide/evermusic/evermusic-guide-connections/img/connect-selection-mode.webp" >}}
 {{< /cards >}}
 
 ## การดำเนินการกับไฟล์
@@ -233,7 +233,7 @@ iTunes File Sharing เป็นอีกหนึ่งเทคโนโลย
 - **ลบ**: ระวังการดำเนินการนี้เนื่องจากจะลบไฟล์ออกจากที่เก็บข้อมูลคลาวด์ของคุณอย่างถาวร การลบนี้ไม่สามารถยกเลิกได้
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="More Actions Menu for a Single File" image="/docs/guide/evermusic/evermusic-guide-connections/img/connect-single-folder-more-options.webp" >}}
+  {{< ls-card title="" subtitle="More Actions Menu for a Single File" image="/docs/guide/evermusic/evermusic-guide-connections/img/connect-single-folder-more-options.webp" >}}
 {{< /cards >}}
 
 หากรายการการดำเนินการเกินพื้นที่หน้าจอที่มีอยู่ เพียงเลื่อนลงในเมนูการดำเนินการเพื่อเข้าถึงตัวเลือกเพิ่มเติม

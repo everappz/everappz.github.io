@@ -7,14 +7,14 @@ keywords: ["chuyển nhạc không cần iTunes", "wifi drive iphone", "sao ché
 readingTime: 2
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **Tóm tắt:** Sử dụng Wi-Fi Drive trong Evermusic, Flacbox hoặc Evertag để chuyển nhạc từ máy tính sang iPhone hoặc iPad. Không cần iTunes. Cả hai thiết bị phải ở trên cùng một mạng Wi-Fi. Chuyển qua trình duyệt web hoặc WebDAV (Mac Finder / Windows File Explorer).
 
 Bạn có thể xem video hướng dẫn từ [**TECHGUYPH**](https://www.youtube.com/channel/UCgpf09gGFE_c_3pPTtTpnzg) hoặc đọc phiên bản văn bản bên dưới.
 <br><br>
-{{< youtubecard id="CqdqrQ0ge70" title="Can We Wirelessly Put Offline Music on iPhones?" >}}
+{{< ls-youtubecard id="CqdqrQ0ge70" title="Can We Wirelessly Put Offline Music on iPhones?" >}}
 
 Wi-Fi Drive là giải pháp tối ưu để chuyển bộ sưu tập nhạc từ máy tính sang iPhone hoặc iPad một cách liền mạch mà không cần iTunes. Phương pháp không rắc rối này cho phép bạn dễ dàng tải xuống hoặc tải lên nhiều tệp âm thanh và thậm chí cả thư mục bằng kết nối Wi-Fi cục bộ. Cả máy tính và thiết bị iOS đều phải được kết nối cùng một mạng Wi-Fi để hoạt động hoàn hảo.
 
@@ -84,22 +84,22 @@ Với Wi-Fi Drive, những ngày vật lộn với iTunes đã qua. Tận hưở
 
 ## Câu hỏi thường gặp
 
-{{% details title="Tôi có thể chuyển những định dạng âm thanh nào bằng Wi-Fi Drive?" closed="true" %}}
+{{% ls-details title="Tôi có thể chuyển những định dạng âm thanh nào bằng Wi-Fi Drive?" closed="true" %}}
 Wi-Fi Drive chuyển bất kỳ loại tệp nào. Evermusic và Flacbox hỗ trợ phát MP3, FLAC, AAC, WAV, AIFF, OGG, WMA và nhiều định dạng âm thanh khác.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Tôi có cần iTunes để đưa nhạc vào iPhone không?" closed="true" %}}
+{{% ls-details title="Tôi có cần iTunes để đưa nhạc vào iPhone không?" closed="true" %}}
 Không. Wi-Fi Drive chuyển nhạc trực tiếp qua mạng Wi-Fi cục bộ. Không cần iTunes.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Tôi có thể chuyển toàn bộ thư mục nhạc cùng một lúc không?" closed="true" %}}
+{{% ls-details title="Tôi có thể chuyển toàn bộ thư mục nhạc cùng một lúc không?" closed="true" %}}
 Có. Phương pháp trình duyệt web hỗ trợ tải lên toàn bộ thư mục, bao gồm cả thư mục con lồng nhau.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Việc chuyển nhạc của tôi có an toàn không?" closed="true" %}}
+{{% ls-details title="Việc chuyển nhạc của tôi có an toàn không?" closed="true" %}}
 Wi-Fi Drive chỉ chạy trên mạng cục bộ của bạn. Bạn cũng có thể đặt tên người dùng và mật khẩu để tăng cường bảo mật.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Những ứng dụng nào hỗ trợ Wi-Fi Drive cho nhạc?" closed="true" %}}
+{{% ls-details title="Những ứng dụng nào hỗ trợ Wi-Fi Drive cho nhạc?" closed="true" %}}
 Evermusic, Flacbox và Evertag đều bao gồm Wi-Fi Drive để chuyển tệp âm thanh từ máy tính.
-{{% /details %}}
+{{% /ls-details %}}

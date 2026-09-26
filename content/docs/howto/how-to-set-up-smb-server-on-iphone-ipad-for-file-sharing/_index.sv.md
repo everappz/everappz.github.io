@@ -7,7 +7,7 @@ keywords: ["SMB-server iPhone", "SMB-server iPad", "hur man konfigurerar SMB på
 readingTime: 10
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 SMB är fildelningen som är inbyggd i macOS, Windows och Linux, och i nästan varje nätverksdisk (NAS). När du ansluter till en delad mapp på en annan dator och den öppnas som en vanlig disk i Finder eller File Explorer, är det SMB som gör jobbet. Med [Everdisk](/products/everdisk) kan du lägga en SMB-delning på din iPhone eller iPad, så att telefonen själv dyker upp som en nätverksdisk som andra enheter bläddrar i, kopierar från och kopierar till.
 
@@ -136,44 +136,44 @@ Reglaget **Filredigering** i Inställningar, Delning, Åtkomst styr detta för v
 
 ## Vanliga frågor
 
-{{% details title="Vad är SMB-adressen och porten för min iPhone?" closed="true" %}}
+{{% ls-details title="Vad är SMB-adressen och porten för min iPhone?" closed="true" %}}
 Efter att du startat delningen visar Everdisk adressen på Delning-skärmen. Den ser ut som smb://192.168.1.20:4455/Share. 4455 är porten Everdisk använder för SMB, och Share är namnet på den delade mappen. Den första delen är din iPhones adress på Wi-Fi, så din blir annorlunda.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Kan jag ansluta till min iPhones SMB-delning från Windows?" closed="true" %}}
+{{% ls-details title="Kan jag ansluta till min iPhones SMB-delning från Windows?" closed="true" %}}
 Windows File Explorer ansluter bara till SMB på standardporten och accepterar inte en anpassad port i sökvägen, medan Everdisk använder porten 4455. Så den enkla vägen via Anslut nätverksenhet når det ofta inte. Använd en filhanterare som låter dig ställa in en anpassad port, eller anslut från Windows med WebDAV, FTP eller webbläsarlänken i stället. Alla dessa fungerar från Windows utan portproblem.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Hur delar jag filer mellan två iPhones med SMB?" closed="true" %}}
+{{% ls-details title="Hur delar jag filer mellan två iPhones med SMB?" closed="true" %}}
 Starta SMB-servern på den första iPhonen i Everdisk. På den andra iPhonen öppnar du appen Filer, trycker på fler-knappen, väljer Anslut till server och anger smb-adressen som visas i Everdisk (till exempel smb://192.168.1.20:4455/Share). Anslut som Gäst eller med din inloggning, och delningen visas i Filer. Du kan också använda Everdisks egen flik Enheter på den andra telefonen.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Visas min iPhone automatiskt i Mac Finders sidofält?" closed="true" %}}
+{{% ls-details title="Visas min iPhone automatiskt i Mac Finders sidofält?" closed="true" %}}
 Vanligtvis ja. Everdisk annonserar SMB-delningen på ditt Wi-Fi, så din iPhone dyker ofta upp under Platser eller Nätverk i Finders sidofält. Klicka på den och välj Anslut som, sedan Gäst eller din inloggning. Om den inte visas, anslut för hand med Gå, Anslut till server och den fullständiga smb-adressen.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Behöver jag ett lösenord för att använda SMB?" closed="true" %}}
+{{% ls-details title="Behöver jag ett lösenord för att använda SMB?" closed="true" %}}
 Nej, en inloggning är valfri. Lämna Inloggning och Lösenord tomma i Inställningar, Delning, Åtkomst för att tillåta gäståtkomst. Ange dem om du vill att anslutningar ska logga in. En inloggning och ett lösenord krävs bara om du slår på Kräv SMB-kryptering, eftersom krypterade anslutningar inte kan vara anonyma.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Är SMB-anslutningen krypterad?" closed="true" %}}
+{{% ls-details title="Är SMB-anslutningen krypterad?" closed="true" %}}
 Den kan vara det. SMB är den enda Everdisk-anslutningen som stöder kryptering. Ange en inloggning och ett lösenord, slå sedan på Kräv SMB-kryptering i Inställningar, Delning. Varje överföring skyddas då med SMB3 (AES). Den andra enheten behöver stödja SMB3, vilket moderna Mac-datorer och Windows 10 eller senare gör. Kryptering är en Premium-funktion.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Kan folk ändra eller ta bort mina filer över SMB?" closed="true" %}}
+{{% ls-details title="Kan folk ändra eller ta bort mina filer över SMB?" closed="true" %}}
 Bara om du tillåter det. Reglaget Filredigering i Inställningar, Delning, Åtkomst styr detta. Med det på kan anslutna enheter ladda upp, byta namn och ta bort. Med det av är delningen skrivskyddad och andra kan bläddra och kopiera filer från din telefon men inte ändra något.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Varför tappade min SMB-anslutning?" closed="true" %}}
+{{% ls-details title="Varför tappade min SMB-anslutning?" closed="true" %}}
 Din iPhone är servern, och iOS pausar appar som ligger i bakgrunden för länge. Håll Everdisk öppet på skärmen medan en enhet är ansluten, och anslut telefonen till ström under långa överföringar. Se också till att båda enheterna förblev på samma Wi-Fi.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="SMB, WebDAV eller FTP, vilken ska jag använda?" closed="true" %}}
+{{% ls-details title="SMB, WebDAV eller FTP, vilken ska jag använda?" closed="true" %}}
 Använd SMB när du vill att telefonen ska bete sig som en riktig nätverksdisk på en Mac, en annan iPhone, Linux eller en NAS, och när du vill ha kryptering. Använd WebDAV när du vill ha en nätverksdisk som också fungerar bra från Windows. Använd FTP för bredast kompatibilitet med äldre enheter och appar. Everdisk kan köra alla samtidigt, så du är inte låst till en.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Är Everdisk gratis?" closed="true" %}}
+{{% ls-details title="Är Everdisk gratis?" closed="true" %}}
 Ja, Everdisk är gratis att ladda ner och SMB-servern ingår. Det valfria engångsköpet av Premium lägger till SMB-kryptering, anpassade portar och några andra extrafunktioner. Du kan konfigurera SMB och dela filer utan att betala.
-{{% /details %}}
+{{% /ls-details %}}
 
 Redo att prova? [Ladda ner Everdisk från App Store](https://apps.apple.com/app/apple-store/id6751851132?pt=95781850&ct=everappzcom&mt=8) och öppna din iPhone i Finder på ungefär en minut. Frågor eller synpunkter? Mejla oss på **support@everappz.com**.

@@ -6,7 +6,7 @@ tags: ["musica local", "musica offline", "reprodutor de musica", "iPhone", "Mac"
 keywords: ["como reproduzir musica local no iPhone", "reproduzir musica do armazenamento do dispositivo", "reprodutor de musica offline iOS", "tutorial do app Evermusic", "reprodutor FLAC Flacbox", "reproducao de arquivos locais iOS", "biblioteca de musica Mac", "app de musica para arquivos locais", "iPhone reproduzir musicas baixadas", "como usar Evermusic com arquivos locais"]
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **Resumo:** Instale o [Evermusic](/products/evermusic) (MP3/WAV) ou o [Flacbox](/products/flacbox) (FLAC/DSD), abra qualquer arquivo de audio ou pasta local e comece a reproduzir. Adicione pastas aos **Favoritos** para acesso rapido, importe faixas para sua Biblioteca de Musica ou crie **Listas de reproducao**.
@@ -24,10 +24,10 @@ Vamos explorar metodos e ferramentas para reproduzir sua musica local de forma i
 Para comecar sua jornada no mundo da musica local no iPhone e Mac, comece instalando o Evermusic (para formatos de audio padrao como mp3 e wav) ou o Flacbox (para musica sem perdas em dsd e flac). Ambos os aplicativos estao disponiveis para iOS e MacOS, e voce pode baixa-los gratuitamente.
 
 {{< cards >}}
-  {{< card link="https://apps.apple.com/us/app/evermusic-cloud-music-player/id885367198?pt=95781850&ct=everappzcom&mt=8" title="Baixar Evermusic para iOS" tag="iOS" >}}
-  {{< card link="https://apps.apple.com/us/app/flacbox-hi-res-equalizer/id1097564256?pt=95781850&ct=everappzcom&mt=8" title="Baixar Flacbox para iOS" tag="iOS" >}}
-  {{< card link="https://apps.apple.com/us/app/evermusic-hi-res-music-player/id1564384601?pt=95781850&ct=everappzcom&mt=8" title="Baixar Evermusic para Mac" tag="macOS" >}}
-  {{< card link="https://apps.apple.com/us/app/flacbox-hi-res-music-player/id1594027432?pt=95781850&ct=everappzcom&mt=8" title="Baixar Flacbox para Mac" tag="macOS" >}}
+  {{< ls-card link="https://apps.apple.com/us/app/evermusic-cloud-music-player/id885367198?pt=95781850&ct=everappzcom&mt=8" title="Baixar Evermusic para iOS" tag="iOS" >}}
+  {{< ls-card link="https://apps.apple.com/us/app/flacbox-hi-res-equalizer/id1097564256?pt=95781850&ct=everappzcom&mt=8" title="Baixar Flacbox para iOS" tag="iOS" >}}
+  {{< ls-card link="https://apps.apple.com/us/app/evermusic-hi-res-music-player/id1564384601?pt=95781850&ct=everappzcom&mt=8" title="Baixar Evermusic para Mac" tag="macOS" >}}
+  {{< ls-card link="https://apps.apple.com/us/app/flacbox-hi-res-music-player/id1594027432?pt=95781850&ct=everappzcom&mt=8" title="Baixar Flacbox para Mac" tag="macOS" >}}
 {{< /cards >}}
 
 
@@ -135,22 +135,22 @@ Com esses passos simples, voce pode desbloquear todo o potencial do seu iPhone e
 
 ## FAQ
 
-{{% details title="Quais formatos de audio o Evermusic e o Flacbox podem reproduzir?" closed="true" %}}
+{{% ls-details title="Quais formatos de audio o Evermusic e o Flacbox podem reproduzir?" closed="true" %}}
 O Evermusic reproduz MP3, WAV, AAC, M4A e outros formatos padrao. O Flacbox adiciona suporte para FLAC, DSD, OGG, OPUS, APE, WMA e ALAC.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Esses aplicativos copiam arquivos para o armazenamento do app?" closed="true" %}}
+{{% ls-details title="Esses aplicativos copiam arquivos para o armazenamento do app?" closed="true" %}}
 Por padrao, os arquivos sao reproduzidos a partir de sua localizacao original sem serem copiados. Para alterar esse comportamento, ative "Always copy files during opening" em **Configuracoes** > File manager.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Posso organizar musica local por artista e album?" closed="true" %}}
+{{% ls-details title="Posso organizar musica local por artista e album?" closed="true" %}}
 Sim. Importe arquivos para a Biblioteca de Musica (Passo 4) e o app le os metadados para agrupar faixas por Artista, Album, Genero e Compositor.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Como transfiro musica do meu computador para o iPhone?" closed="true" %}}
+{{% ls-details title="Como transfiro musica do meu computador para o iPhone?" closed="true" %}}
 Use iTunes File Sharing (USB), WiFi Drive (sem fio) ou SMB (streaming). Veja nosso guia detalhado: [Transferir e reproduzir arquivos locais no iPhone](/docs/howto/how-to-play-local-itunes-files-on-my-iphone/).
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="O Evermusic e o Flacbox sao gratuitos?" closed="true" %}}
+{{% ls-details title="O Evermusic e o Flacbox sao gratuitos?" closed="true" %}}
 Sim, ambos os aplicativos sao gratuitos para baixar com recursos principais incluindo reproducao, equalizador e streaming na nuvem. As versoes gratuitas tem algumas limitacoes (numero de **Listas de reproducao**, contas na nuvem, pastas offline). A atualizacao para Premium remove essas limitacoes.
-{{% /details %}}
+{{% /ls-details %}}

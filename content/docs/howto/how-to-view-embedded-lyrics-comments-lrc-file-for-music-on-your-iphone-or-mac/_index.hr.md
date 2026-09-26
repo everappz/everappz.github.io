@@ -7,7 +7,7 @@ tags: ["audio", "iphone", "mp3", "tekstovi", "lrc", "ugrađeno", "pregled", "pri
 keywords: ["pregled ugrađenih tekstova iPhone", "Evermusic prikaži tekstove", "LRC datoteka Evermusic", "tag komentara audio", "prikaz tekstova Flacbox", "tekstovi iOS glazbena aplikacija", "audio player prikaži tekstove"]
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **Ukratko:** Evermusic za iPhone i Mac prikazuje ugrađene tekstove, tagove komentara i vanjske .lrc datoteke za bilo koji audio zapis. Otvorite player, dodirnite **Više radnji**, zatim odaberite **Komentari** za prikaz tekstova u tri načina: Komentari, Ugrađeni tekstovi i LRC datoteka.
@@ -68,22 +68,22 @@ Pregledavanje ugrađenih tekstova, komentara ili sinkroniziranih `.lrc` datoteka
 
 ## Često postavljana pitanja
 
-{{% details title="Kako pregledati ugrađene tekstove na svom iPhoneu?" closed="true" %}}
+{{% ls-details title="Kako pregledati ugrađene tekstove na svom iPhoneu?" closed="true" %}}
 Otvorite Evermusic, reproducirajte pjesmu, dodirnite Više radnji u playeru na cijelom zaslonu i odaberite Komentari. Prijeđite prstom na karticu Ugrađeni tekstovi da vidite tekstove pohranjene u tagovima audio datoteke.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Što je LRC datoteka i kako funkcionira?" closed="true" %}}
+{{% ls-details title="Što je LRC datoteka i kako funkcionira?" closed="true" %}}
 LRC datoteka je tekstualna datoteka koja sadrži vremenski označene tekstove pjesama. Kada se postavi u istu mapu kao audio datoteka s istim nazivom datoteke, Evermusic je čita i prikazuje sinkronizirane tekstove koji se pomiču tijekom reprodukcije.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Mogu li dodati tekstove u svoje glazbene datoteke na iPhoneu?" closed="true" %}}
+{{% ls-details title="Mogu li dodati tekstove u svoje glazbene datoteke na iPhoneu?" closed="true" %}}
 Da. Koristite aplikaciju Evertag za uređivanje ID3 tagova i dodavanje ili ažuriranje ugrađenih tekstova izravno na vašem iPhoneu. Možete zalijepiti vremenski označen tekst u LRC formatu za sinkronizirane tekstove.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Podržava li Evermusic sinkronizirane (vremenski označene) tekstove?" closed="true" %}}
+{{% ls-details title="Podržava li Evermusic sinkronizirane (vremenski označene) tekstove?" closed="true" %}}
 Da. Evermusic podržava vremenski označene tekstove u LRC formatu, i kada su ugrađeni u audio tagove i kada su dostupni kao zasebna `.lrc` datoteka.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Koji audio formati podržavaju ugrađene tekstove?" closed="true" %}}
+{{% ls-details title="Koji audio formati podržavaju ugrađene tekstove?" closed="true" %}}
 MP3, FLAC, AAC, M4A, OGG i većina drugih uobičajenih formata podržavaju ugrađene tekstove putem svojih odgovarajućih standarda tagova.
-{{% /details %}}
+{{% /ls-details %}}

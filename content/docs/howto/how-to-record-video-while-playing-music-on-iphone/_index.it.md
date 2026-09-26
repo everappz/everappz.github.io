@@ -7,7 +7,7 @@ keywords: ["registrare video mentre si riproduce musica su iPhone", "come riprod
 readingTime: 1
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **In breve:** Imposta l'uscita audio di Evermusic su "Modalità mista", avvia la riproduzione di un brano, poi apri l'app Fotocamera e registra. La musica continua a suonare in sottofondo. Funziona con TikTok, Instagram e qualsiasi app fotocamera.
@@ -45,22 +45,22 @@ Questo trucco funziona su ogni iPhone.
 
 ## Domande frequenti
 
-{{% details title="La musica di sottofondo viene registrata nel video?" closed="true" %}}
+{{% ls-details title="La musica di sottofondo viene registrata nel video?" closed="true" %}}
 La musica viene riprodotta attraverso l'altoparlante dell'iPhone, quindi il microfono la catturerà insieme ad altri suoni ambientali. Per un audio più pulito, considera l'uso di un altoparlante esterno posizionato vicino al microfono.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Funziona con TikTok e Instagram?" closed="true" %}}
+{{% ls-details title="Funziona con TikTok e Instagram?" closed="true" %}}
 Sì. Una volta che Evermusic è impostato su Modalità mista e un brano è in riproduzione, la musica continua quando apri TikTok, Instagram o qualsiasi altra app fotocamera o di registrazione.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Cos'è la Modalità mista in Evermusic?" closed="true" %}}
+{{% ls-details title="Cos'è la Modalità mista in Evermusic?" closed="true" %}}
 La Modalità mista è un'impostazione di uscita audio che consente a Evermusic di condividere la sessione audio con altre app. Questo impedisce alla musica di fermarsi quando un'altra app accede al microfono o alla fotocamera.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Posso usare Flacbox al posto di Evermusic per questo?" closed="true" %}}
+{{% ls-details title="Posso usare Flacbox al posto di Evermusic per questo?" closed="true" %}}
 Sì. Anche Flacbox supporta la modalità di uscita audio mista. I passaggi sono gli stessi: abilita la Modalità mista nelle Impostazioni, avvia la riproduzione e apri l'app fotocamera.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Posso giocare a un gioco mentre la musica di Evermusic suona in sottofondo?" closed="true" %}}
+{{% ls-details title="Posso giocare a un gioco mentre la musica di Evermusic suona in sottofondo?" closed="true" %}}
 Sì. Con la Modalità mista abilitata, la musica di Evermusic continua a suonare quando apri qualsiasi gioco o app. Sia l'audio del gioco che la tua musica verranno riprodotti contemporaneamente.
-{{% /details %}}
+{{% /ls-details %}}

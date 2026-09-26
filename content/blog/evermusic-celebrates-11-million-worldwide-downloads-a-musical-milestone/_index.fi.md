@@ -12,7 +12,7 @@ authors:
     image: "/images/about/artem-meleshko-founder-everappz.webp"
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 **Tiivistelmä:** Evermusic on ylittänyt 11 miljoonaa latausta maailmanlaajuisesti. Tärkeimpiä ominaisuuksia ovat 10-kaistainen taajuuskorjain, offline-toisto, iCloud Drive -suoratoisto, yli 10 pilvipalvelun tuki, laitteiden välinen synkronointi ja sisäänrakennettu ID3-tunniste-editori.
 
@@ -70,22 +70,22 @@ Evermusic on rakennettu kaikille, jotka tallentavat musiikkia pilveen tai paikal
 
 ## Usein kysytyt kysymykset
 
-{{% details title="Mitä ääniformaatteja Evermusic tukee?" closed="true" %}}
+{{% ls-details title="Mitä ääniformaatteja Evermusic tukee?" closed="true" %}}
 Evermusic toistaa MP3-, FLAC-, WAV-, AAC-, M4A-, AIFF-, OGG-, WMA- ja muita suosittuja ääniformaatteja.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Voinko käyttää Evermusicia ilman internetyhteyttä?" closed="true" %}}
+{{% ls-details title="Voinko käyttää Evermusicia ilman internetyhteyttä?" closed="true" %}}
 Kyllä. Lataa kappaleet pilvipalvelustasi offline-toistoa varten. Lataamisen jälkeen internetiä ei tarvita.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Toimiiko Evermusic Macilla?" closed="true" %}}
+{{% ls-details title="Toimiiko Evermusic Macilla?" closed="true" %}}
 Kyllä. Evermusic on saatavilla sekä iOS:lle (iPhone/iPad) että macOS:lle kirjaston synkronoinnilla kaikilla laitteilla.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Onko Evermusic ilmainen ladata?" closed="true" %}}
+{{% ls-details title="Onko Evermusic ilmainen ladata?" closed="true" %}}
 Kyllä. Evermusic on ilmainen ladata valinnaisilla premium-ominaisuuksilla, jotka ovat saatavilla sovelluksen sisäisinä ostoina.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Miten iCloud Drive -suoratoisto toimii Evermusicissa?" closed="true" %}}
+{{% ls-details title="Miten iCloud Drive -suoratoisto toimii Evermusicissa?" closed="true" %}}
 Yhdistä iCloud Drive -tilisi sovelluksessa, selaa musiikkitiedostojasi ja napauta toistaaksesi. Kappaleet suoratoistetaan suoraan ilman lataamista ensin.
-{{% /details %}}
+{{% /ls-details %}}

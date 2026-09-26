@@ -12,7 +12,7 @@ authors:
     image: "/images/about/artem-meleshko-founder-everappz.webp"
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 **Samenvatting:** Evermusic 6.8 voegt Aliyun Drive- en Synology NAS-integratie toe (met QuickConnect), zes nieuwe scrolleffecten voor albumcovers, een minimale fullscreen-speler, drag-and-drop bestandsbeheer en snellere albumart-lading. Nu beschikbaar voor iOS en macOS.
 
@@ -77,18 +77,18 @@ Evermusic 6.8 richt zich op drie gebieden: bredere cloudcompatibiliteit (Aliyun 
 
 ## Veelgestelde Vragen
 
-{{% details title="Hoe verbind ik Synology NAS met Evermusic?" closed="true" %}}
+{{% ls-details title="Hoe verbind ik Synology NAS met Evermusic?" closed="true" %}}
 Ga naar het tabblad Verbindingen, selecteer Synology en voer uw QuickConnectID in. Evermusic maakt rechtstreeks verbinding zonder dat IP-adressen of VPN-instellingen nodig zijn.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Is Aliyun Drive gratis te gebruiken met Evermusic?" closed="true" %}}
+{{% ls-details title="Is Aliyun Drive gratis te gebruiken met Evermusic?" closed="true" %}}
 Ja. Als u een Aliyun Drive-account hebt, kunt u deze zonder extra kosten verbinden met Evermusic. Opslaglimieten zijn afhankelijk van uw Aliyun Drive-abonnement.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Kan ik de scrollstijl van albumcovers aanpassen?" closed="true" %}}
+{{% ls-details title="Kan ik de scrollstijl van albumcovers aanpassen?" closed="true" %}}
 Ja. Ga naar Settings > Audio Player > Personalization > Album Covers Scrolling Style en kies uit zes opties: MacDoc, Linear, Rotary, Inverted Rotary, Cylinder of CoverFlow.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Werkt het minimale spelerscherm met alle apparaten?" closed="true" %}}
+{{% ls-details title="Werkt het minimale spelerscherm met alle apparaten?" closed="true" %}}
 Ja. De fullscreen albumcoverstijl is beschikbaar op alle ondersteunde iPhones, iPads en Macs met Evermusic 6.8 of nieuwer.
-{{% /details %}}
+{{% /ls-details %}}

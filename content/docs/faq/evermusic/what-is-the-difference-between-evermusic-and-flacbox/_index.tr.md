@@ -11,7 +11,7 @@ Evermusic ve Flacbox, Everappz'ın iPhone, iPad ve Mac için sunduğu iki geliş
 
 **Kısa yanıt:** En akıcı genel dinleme deneyimini, kesintisiz boşluksuz ve çapraz geçişleri ve Apple Music kütüphanenize erişimi istiyorsanız **Evermusic**'i seçin. Derinlemesine ses şekillendirme (efekt seti ve DSP zinciri), seçilebilir profesyonel bir ses motoru ve DSD, APE ve WavPack dahil azami yüksek çözünürlüklü ve kayıpsız biçim kapsamı isteyen bir audiophile iseniz **Flacbox**'ı seçin.
 
-{{< app-details ids="885367198, 1097564256" >}}
+{{< ls-app-details ids="885367198, 1097564256" >}}
 
 ## Özellik Karşılaştırma Tablosu
 
@@ -129,38 +129,38 @@ Her ikisi de isteğe bağlı Premium yükseltmelerle ücretsiz olarak indirilebi
 
 ## Sıkça Sorulan Sorular
 
-{{% details title="Evermusic ile Flacbox arasındaki temel fark nedir?" closed="true" %}}
+{{% ls-details title="Evermusic ile Flacbox arasındaki temel fark nedir?" closed="true" %}}
 Aynı platformu ve bağlantıları paylaşırlar, ancak ses tarafı farklıdır. Evermusic, Apple'ın AVPlayer ve Core Audio teknolojisi üzerinde çalışır ve gerçek boşluksuz oynatma, çapraz geçiş, uzamsal ses ve Apple Music kütüphanesi içe aktarma ile geniş biçim desteğine sahip günlük çalardır. Flacbox, profesyonel bir BASS™ ses motoru ve FFmpeg kod çözme ekler; bunlar da 14 filtreli bir DSP zinciri, daha fazla gerçek zamanlı efekt, tracker/MOD oynatma ve DSD, APE ve WavPack dahil en geniş yüksek çözünürlüklü ve kayıpsız biçim desteğini getirir.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Evermusic mi yoksa Flacbox mı daha iyi?" closed="true" %}}
+{{% ls-details title="Evermusic mi yoksa Flacbox mı daha iyi?" closed="true" %}}
 Hiçbiri kesin olarak daha iyi değildir; farklı dinleyiciler için ayarlanmışlardır. Evermusic; boşluksuz oynatma, çapraz geçiş ve uzamsal ses sayesinde akıcı, günlük dinleme ve Apple Music kütüphanelerini de kullanan kişiler için daha iyidir. Flacbox; derinlemesine ses şekillendirme, seçilebilir profesyonel bir ses motoru ve azami yüksek çözünürlüklü ve kayıpsız biçim kapsamı isteyen audiophile'lar için daha iyidir.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Evermusic FFmpeg kullanıyor mu?" closed="true" %}}
+{{% ls-details title="Evermusic FFmpeg kullanıyor mu?" closed="true" %}}
 Hayır. Evermusic, tamamen Apple'ın yerel ses yığını olan AVPlayer ve Core Audio üzerinden çalar; efektlerini ve işlemesini Core Audio yürütür. FFmpeg kod çözme, Flacbox'ın seçilebilir BASS motorunun yanı sıra bir Flacbox özelliğidir.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Flacbox'ta boşluksuz veya çapraz geçişli oynatma var mı?" closed="true" %}}
+{{% ls-details title="Flacbox'ta boşluksuz veya çapraz geçişli oynatma var mı?" closed="true" %}}
 Hayır. Gerçek boşluksuz oynatma ve çapraz geçiş (1 ila 30 saniye) Evermusic özellikleridir. Flacbox bunun yerine yüksek çözünürlüklü oynatmaya, profesyonel bir BASS motoruna, bir efekt setine ve bir DSP zincirine odaklanır.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="FLAC, DSD ve APE için hangi uygulama daha iyi?" closed="true" %}}
+{{% ls-details title="FLAC, DSD ve APE için hangi uygulama daha iyi?" closed="true" %}}
 Flacbox. Her iki uygulama da FLAC çalar, ancak Flacbox yüksek çözünürlük ve kayıpsız uzmanıdır; FFmpeg ve BASS™ motoru aracılığıyla FLAC, ALAC, DSD (DSF/DFF), APE, WavPack (WV), TTA, OPUS ve daha fazlası için yerel destek sunar. Ayrıca titiz dinleme için daha ince çıkış denetimi sağlar.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Hangi uygulamada daha fazla ses efekti ve bir DSP zinciri var?" closed="true" %}}
+{{% ls-details title="Hangi uygulamada daha fazla ses efekti ve bir DSP zinciri var?" closed="true" %}}
 Flacbox. Evermusic'te 6 efekt vardır (Yankı, Gecikme, Bozulma, Kompresör, Crossfeed ve Ses seviyesi normalizasyonu). Flacbox'ta 11 efekt (Koro, Flanger, Phaser, Auto-Wah, Stereo döndürme ve Çok vuruşlu eko eklenerek) ve kendi kendinize oluşturduğunuz 14 filtreli bir DSP zinciri vardır. DSP zinciri Flacbox'a özeldir.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Her iki uygulama da aynı bulut hizmetlerini, medya sunucularını ve CarPlay'i destekliyor mu?" closed="true" %}}
+{{% ls-details title="Her iki uygulama da aynı bulut hizmetlerini, medya sunucularını ve CarPlay'i destekliyor mu?" closed="true" %}}
 Evet. Evermusic ve Flacbox aynı bulut depolamaya (iCloud Drive, Google Drive, Dropbox, OneDrive, MEGA, pCloud, Internxt, Proton Drive ve daha fazlası), aynı medya sunucularına (Plex, Subsonic, Navidrome, Jellyfin, Emby) ve aynı bilgisayar ile NAS protokollerine (SMB, WebDAV, FTP, SFTP, NFS, DLNA) bağlanır; QNAP, Synology, Nextcloud ve WD My Cloud Home için yerel destekle. Her ikisi de Apple CarPlay, AirPlay ve Google Chromecast'i destekler.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Evermusic, Apple Music veya iTunes kütüphanemi çalabilir mi?" closed="true" %}}
+{{% ls-details title="Evermusic, Apple Music veya iTunes kütüphanemi çalabilir mi?" closed="true" %}}
 Evet. Evermusic, bulut ve ağ kaynaklarının yanı sıra Apple Music / iTunes kütüphanenizdeki müziği de içe aktarıp çalabilir. Flacbox, bulut, NAS ve yerel depolamadan gelen kendi dosyalarınız için tasarlanmıştır ve Apple Music kütüphanesini içe aktarmaz.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Evermusic ile Flacbox'ı birlikte kullanabilir miyim?" closed="true" %}}
+{{% ls-details title="Evermusic ile Flacbox'ı birlikte kullanabilir miyim?" closed="true" %}}
 Evet ve birçok kişi bunu yapar. Yaygın bir kurulum, günlük ve kesintisiz oynatma ile Apple Music kütüphanesi erişimi için Evermusic'i ve BASS motoru, efektler ve DSP zinciri ile titiz, yüksek çözünürlüklü dinleme için Flacbox'ı kullanmaktır. Her ikisi de aynı bulut ve NAS kaynaklarından okur; böylece kütüphaneniz her iki uygulamada da kullanılabilir. Her ikisi de isteğe bağlı Premium uygulama içi yükseltmelerle ücretsiz olarak indirilebilir.
-{{% /details %}}
+{{% /ls-details %}}

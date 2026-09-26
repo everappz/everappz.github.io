@@ -14,7 +14,7 @@ authors:
     image: "/images/about/artem-meleshko-founder-everappz.webp"
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 **TL;DR：** 觀看 Evermusic 官方宣傳影片，了解 iPhone 和 Mac 上的雲端音樂串流、離線播放和音訊自訂功能。
 
@@ -24,7 +24,7 @@ authors:
 
 觀看 Evermusic 的實際操作——從雲端串流音樂、管理播放清單，在 iPhone 上提供高品質音訊：
 
-{{< youtubecard id="6mm3LVT4rtA" title="Evermusic Promo Video" >}}
+{{< ls-youtubecard id="6mm3LVT4rtA" title="Evermusic Promo Video" >}}
 
 ## 影片中您將看到
 
@@ -41,14 +41,14 @@ Evermusic 適用於 iPhone、iPad 和 Mac。從 App Store [下載 Evermusic](htt
 
 ## FAQ
 
-{{% details title="什麼是 Evermusic？" closed="true" %}}
+{{% ls-details title="什麼是 Evermusic？" closed="true" %}}
 Evermusic 是一款適用於 iOS 和 macOS 的音樂播放器，可從 Dropbox、Google Drive、OneDrive 和 iCloud Drive 等雲端服務串流音訊。它還支援離線播放並包含內建等化器。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Evermusic 支援哪些雲端服務？" closed="true" %}}
+{{% ls-details title="Evermusic 支援哪些雲端服務？" closed="true" %}}
 Evermusic 連接到 Dropbox、Google Drive、OneDrive、iCloud Drive、pCloud、Yandex.Disk 和其他多個雲端儲存供應商。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Evermusic 免費嗎？" closed="true" %}}
+{{% ls-details title="Evermusic 免費嗎？" closed="true" %}}
 Evermusic 免費下載，可透過應用程式內購買取得可選的進階功能。
-{{% /details %}}
+{{% /ls-details %}}

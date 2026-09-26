@@ -7,7 +7,7 @@ tags: ["musik", "audio", "pemutar", "iphone", "pemutaran", "offline", "unduh", "
 readingTime: 5
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **Ringkasan:** Konversi video YouTube ke MP3 menggunakan konverter berbasis browser atau aplikasi desktop ClipGrab gratis. Kemudian impor file audio ke Evermusic di iPhone atau Mac Anda untuk pemutaran offline -- tidak perlu internet.
@@ -221,30 +221,30 @@ Jika Anda tidak yakin dengan pilihan Anda, pertimbangkan untuk meminta informasi
 
 P.S. Ada juga beberapa **tutorial video** yang tersedia di YouTube:
 <br><br>
-{{< youtubecard id="TlVpbRvAiwA" title="Descargar Música Gratis Para IOS" >}}
+{{< ls-youtubecard id="TlVpbRvAiwA" title="Descargar Música Gratis Para IOS" >}}
 <br><br>
-{{< youtubecard id="jSDuNguZZNE" title="Evermusic: Free Offline Music Player for iOS (iPhone/iPod/iPad) | Music Files Organization" >}}
+{{< ls-youtubecard id="jSDuNguZZNE" title="Evermusic: Free Offline Music Player for iOS (iPhone/iPod/iPad) | Music Files Organization" >}}
 <br><br>
-{{< youtubecard id="-kY48ktbo2M" title="テクノロジー塾】おすすめiPhone 音楽アプリ「ever music」ストック型篇" >}}
+{{< ls-youtubecard id="-kY48ktbo2M" title="テクノロジー塾】おすすめiPhone 音楽アプリ「ever music」ストック型篇" >}}
 
 ## FAQ
 
-{{% details title="Apakah legal mengunduh musik dari YouTube?" closed="true" %}}
+{{% ls-details title="Apakah legal mengunduh musik dari YouTube?" closed="true" %}}
 Tergantung pada status hak cipta konten. Konten bebas royalti dan Creative Commons biasanya dapat diunduh untuk penggunaan pribadi. Musik berhak cipta memerlukan lisensi atau izin yang tepat.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Format audio apa yang didukung Evermusic?" closed="true" %}}
+{{% ls-details title="Format audio apa yang didukung Evermusic?" closed="true" %}}
 Evermusic mendukung MP3, FLAC, AAC, WAV, OGG, AIFF, dan banyak format audio lainnya. Anda dapat memutar hampir semua file audio yang Anda unduh.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Bisakah saya menggunakan Evermusic tanpa koneksi internet?" closed="true" %}}
+{{% ls-details title="Bisakah saya menggunakan Evermusic tanpa koneksi internet?" closed="true" %}}
 Ya. Setelah file audio diimpor ke Evermusic, Anda dapat memutarnya sepenuhnya secara offline -- tidak perlu koneksi internet.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Apakah ClipGrab gratis?" closed="true" %}}
+{{% ls-details title="Apakah ClipGrab gratis?" closed="true" %}}
 Ya. ClipGrab gratis dan tersedia untuk Mac dan Windows. Aplikasi ini menggunakan pustaka open-source youtube-dlp untuk unduhan.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Bagaimana cara mentransfer musik yang diunduh dari Mac ke iPhone?" closed="true" %}}
+{{% ls-details title="Bagaimana cara mentransfer musik yang diunduh dari Mac ke iPhone?" closed="true" %}}
 Anda dapat menggunakan AirDrop, iTunes File Sharing, atau fitur Wi-Fi Drive bawaan Evermusic untuk mentransfer file audio dari Mac ke iPhone Anda.
-{{% /details %}}
+{{% /ls-details %}}

@@ -7,7 +7,7 @@ tags: ["àudio", "iphone", "mp3", "lletres", "lrc", "incrustat", "veure", "mostr
 keywords: ["veure lletres incrustades iPhone", "Evermusic mostrar lletres", "fitxer LRC Evermusic", "etiqueta comentari àudio", "mostrar lletres Flacbox", "lletres aplicació música iOS", "reproductor àudio mostrar lletres"]
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **Resum:** Evermusic per a iPhone i Mac mostra lletres incrustades, etiquetes de comentaris i fitxers .lrc externs per a qualsevol pista d'àudio. Obriu el reproductor, toqueu Més accions i seleccioneu Comentaris per veure les lletres en tres modes: Comentaris, Lletres incrustades i Fitxer LRC.
@@ -68,22 +68,22 @@ Veure lletres incrustades, comentaris o fitxers `.lrc` sincronitzats a **Evermus
 
 ## Preguntes freqüents
 
-{{% details title="Com puc veure les lletres incrustades al meu iPhone?" closed="true" %}}
+{{% ls-details title="Com puc veure les lletres incrustades al meu iPhone?" closed="true" %}}
 Obriu Evermusic, reproduïu una cançó, toqueu Més accions al reproductor a pantalla completa i seleccioneu Comentaris. Llisqueu fins a la pestanya Lletres incrustades per veure les lletres emmagatzemades a les etiquetes del fitxer d'àudio.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Què és un fitxer LRC i com funciona?" closed="true" %}}
+{{% ls-details title="Què és un fitxer LRC i com funciona?" closed="true" %}}
 Un fitxer LRC és un fitxer de text que conté lletres de cançons amb marques de temps. Quan es col·loca a la mateixa carpeta que un fitxer d'àudio amb el mateix nom de fitxer, Evermusic el llegeix i mostra lletres sincronitzades que es desplacen durant la reproducció.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Puc afegir lletres als meus fitxers de música a l'iPhone?" closed="true" %}}
+{{% ls-details title="Puc afegir lletres als meus fitxers de música a l'iPhone?" closed="true" %}}
 Sí. Utilitzeu l'aplicació Evertag per editar etiquetes ID3 i afegir o actualitzar lletres incrustades directament al vostre iPhone. Podeu enganxar text en format LRC temporitzat per a lletres sincronitzades.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Evermusic admet lletres sincronitzades (temporitzades)?" closed="true" %}}
+{{% ls-details title="Evermusic admet lletres sincronitzades (temporitzades)?" closed="true" %}}
 Sí. Evermusic admet lletres temporitzades en format LRC, tant quan estan incrustades en etiquetes d'àudio com quan es proporcionen com a fitxer `.lrc` separat.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Quins formats d'àudio admeten lletres incrustades?" closed="true" %}}
+{{% ls-details title="Quins formats d'àudio admeten lletres incrustades?" closed="true" %}}
 MP3, FLAC, AAC, M4A, OGG i la majoria d'altres formats comuns admeten lletres incrustades a través dels seus estàndards d'etiquetes respectius.
-{{% /details %}}
+{{% /ls-details %}}

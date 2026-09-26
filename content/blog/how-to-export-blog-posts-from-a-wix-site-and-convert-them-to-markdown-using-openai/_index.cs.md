@@ -12,7 +12,7 @@ authors:
     image: "/images/about/artem-meleshko-founder-everappz.webp"
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 ## Proč exportovat příspěvky blogu z Wix?
 
@@ -323,33 +323,33 @@ Tento jediný příkaz nastaví prostředí, extrahuje všechny příspěvky blo
 Projekt je open source. Hlášení chyb, návrhy funkcí a pull requesty jsou vítány.
 
 {{< cards cols="1" >}}
-  {{< card link="https://github.com/everappz/wix-blog-export" title="Projekt na GitHub" icon="github" tag="open source" >}}
+  {{< ls-card link="https://github.com/everappz/wix-blog-export" title="Projekt na GitHub" icon="github" tag="open source" >}}
 {{< /cards >}}
 
 ---
 
 ## Často kladené otázky
 
-{{% details title="Proč nemohu jednoduše použít `requests` k extrakci příspěvků blogu Wix?" closed="true" %}}
+{{% ls-details title="Proč nemohu jednoduše použít `requests` k extrakci příspěvků blogu Wix?" closed="true" %}}
 Wix vykresluje obsah dynamicky pomocí JavaScriptu. Standardní HTTP požadavek vrátí prázdný rámec stránky. Selenium spouští prohlížeč bez grafického rozhraní pro získání plně vykresleného HTML.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Funguje to s jakýmkoli blogem na Wix?" closed="true" %}}
+{{% ls-details title="Funguje to s jakýmkoli blogem na Wix?" closed="true" %}}
 Ano. Scraper čte XML sitemapu a zpracovává každé URL. Stačí aktualizovat proměnnou `SITEMAP_URL` v `parse_blog_sitemap.py` tak, aby ukazovala na sitemapu vašeho webu.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Jaký model OpenAI to používá?" closed="true" %}}
+{{% ls-details title="Jaký model OpenAI to používá?" closed="true" %}}
 Skript používá GPT-4o ve výchozím nastavení. Můžete změnit proměnnou `API_MODEL` v `generate_md.py` pro použití jiného modelu.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Mohu to použít pro migraci z Wix na Hugo?" closed="true" %}}
+{{% ls-details title="Mohu to použít pro migraci z Wix na Hugo?" closed="true" %}}
 Ano. Výstupem je standardní Markdown s lokálními cestami k obrázkům, který funguje přímo s Hugo, Jekyll, Astro a dalšími generátory statických stránek. Přidejte front matter do vygenerovaných souborů `_index.md` pro dokončení migrace.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Kolik stojí OpenAI API za toto použití?" closed="true" %}}
+{{% ls-details title="Kolik stojí OpenAI API za toto použití?" closed="true" %}}
 Cena závisí na počtu a délce vašich příspěvků. Typický blog s 50 příspěvky střední délky stojí několik dolarů za využití API s GPT-4o.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Je tento nástroj open source?" closed="true" %}}
+{{% ls-details title="Je tento nástroj open source?" closed="true" %}}
 Ano. Kompletní zdrojový kód je dostupný na [GitHub](https://github.com/everappz/wix-blog-export) pod open-source licencí.
-{{% /details %}}
+{{% /ls-details %}}

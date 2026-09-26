@@ -19,7 +19,7 @@ readingTime: 11
 Zarządzanie biblioteką muzyczną jest dziecinnie proste w Flacbox, gdzie możesz bez wysiłku organizować wszystkie swoje utwory — lokalne FLAC, ALAC, DSD, MP3, M4A, OGG, WMA, APE i dziesiątki innych formatów — w jedną, przeszukiwalną kolekcję. Masz dwie opcje budowania biblioteki muzycznej: ręczne dodawanie (sam decydujesz, co jest dodawane) lub automatyczna synchronizacja (Flacbox skanuje wyznaczone foldery chmurowe i automatycznie dodaje nowe pliki w miarę ich pojawiania się).
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Widok albumów biblioteki muzycznej Flacbox" image="/docs/guide/flacbox/img/media-library-albums.webp" >}}
+  {{< ls-card title="" subtitle="Widok albumów biblioteki muzycznej Flacbox" image="/docs/guide/flacbox/img/media-library-albums.webp" >}}
 {{< /cards >}}
 
 ## Ręczne Dodawanie
@@ -27,7 +27,7 @@ Zarządzanie biblioteką muzyczną jest dziecinnie proste w Flacbox, gdzie może
 Aby ręcznie dodać utwory, dotknij ikony **Dodaj muzykę** w lewym górnym rogu i wybierz foldery lub pliki z podłączonej usługi chmurowej lub pliki na urządzeniu. Gdy dodajesz utwory do biblioteki, tworzone są tylko linki do tych utworów — rzeczywiste pliki pozostają w oryginalnych lokalizacjach, aby zaoszczędzić cenne miejsce na dysku. Jeśli chcesz udostępnić utwory offline, możesz użyć akcji Pobierz z menu opcji lub włączyć Tryb offline dla playlist i kolekcji utworów.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox Dodawanie utworów do biblioteki muzycznej" image="/docs/guide/flacbox/img/library-add-songs.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox Dodawanie utworów do biblioteki muzycznej" image="/docs/guide/flacbox/img/library-add-songs.webp" >}}
 {{< /cards >}}
 
 Możesz również przeciągać i upuszczać pliki do biblioteki w wersji Mac lub używać **Otwórz pliki…** / **Otwórz folder…** z systemowego okna wyboru pliku na iPhone i iPad.
@@ -89,7 +89,7 @@ Znajdujący się tuż pod paskiem nawigacji górny pasek narzędzi oferuje kilka
 Funkcja wyszukiwania umożliwia znalezienie konkretnego utworu, artysty, albumu lub gatunku w bibliotece muzycznej. Na ekranie Szukaj masz dostęp do akcji Sortuj, Filtruj i Siatka / Lista. Wyszukiwanie działa lokalnie na bazie danych biblioteki muzycznej, więc działa w pełni offline i zwraca wyniki podczas pisania.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox Wyszukiwanie w bibliotece muzycznej" image="/docs/guide/flacbox/img/media-library-search.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox Wyszukiwanie w bibliotece muzycznej" image="/docs/guide/flacbox/img/media-library-search.webp" >}}
 {{< /cards >}}
 
 ## Menu Opcji
@@ -140,7 +140,7 @@ Gdy otworzysz sekcje Artysta, Artysta albumu lub Kompozytor, możesz zobaczyć p
 Jest to szczególnie przydatne do czyszczenia zaśmieconych kompilacji „Various Artists" w dużych bibliotekach.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox Ekran szczegółów albumu" image="/docs/guide/flacbox/img/media-library-album-details-screen.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox Ekran szczegółów albumu" image="/docs/guide/flacbox/img/media-library-album-details-screen.webp" >}}
 {{< /cards >}}
 
 ## Ustawienia

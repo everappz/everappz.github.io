@@ -7,7 +7,7 @@ tags: ["promoção", "appstore", "instalar", "resgatar", "código", "grátis"]
 readingTime: 2
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **Resumo:** Um código promocional permite baixar um aplicativo pago gratuitamente ou desbloquear compras no aplicativo. No iOS: App Store > ícone da Conta > Resgatar cartão-presente ou código > insira o código. No Mac: App Store > Conta > Resgatar cartão-presente > insira o código. Em seguida, abra o aplicativo e restaure as compras, se necessário.
@@ -94,22 +94,22 @@ Aproveite seu aplicativo grátis ou atualização no aplicativo!
 
 ## Perguntas frequentes
 
-{{% details title="Onde consigo um código promocional?" closed="true" %}}
+{{% ls-details title="Onde consigo um código promocional?" closed="true" %}}
 Códigos promocionais são fornecidos por desenvolvedores de aplicativos para avaliações, sorteios ou promoções. Entre em contato diretamente com o desenvolvedor para solicitar um.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Os códigos promocionais expiram?" closed="true" %}}
+{{% ls-details title="Os códigos promocionais expiram?" closed="true" %}}
 Sim. Os códigos promocionais da Apple App Store expiram 28 dias após serem gerados e só podem ser resgatados uma vez.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Posso usar um código promocional em qualquer país?" closed="true" %}}
+{{% ls-details title="Posso usar um código promocional em qualquer país?" closed="true" %}}
 Códigos promocionais são específicos por região. O código deve corresponder ao país da App Store do seu Apple ID.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Como ativo compras no aplicativo com um código promocional?" closed="true" %}}
+{{% ls-details title="Como ativo compras no aplicativo com um código promocional?" closed="true" %}}
 Após resgatar o código na App Store, abra o aplicativo e vá para Configurações > Restaurar compras. O conteúdo premium será desbloqueado automaticamente.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="O código promocional diz que já foi resgatado. O que devo fazer?" closed="true" %}}
+{{% ls-details title="O código promocional diz que já foi resgatado. O que devo fazer?" closed="true" %}}
 Cada código promocional só pode ser usado uma vez. Entre em contato com o desenvolvedor para solicitar um novo código.
-{{% /details %}}
+{{% /ls-details %}}

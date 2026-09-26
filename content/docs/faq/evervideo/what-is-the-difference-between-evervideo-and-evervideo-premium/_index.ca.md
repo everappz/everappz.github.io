@@ -11,7 +11,7 @@ readingTime: 3
 Evervideo ofereix tant una versió gratuïta amb certes limitacions d'ús com una versió premium amb funcions afegides, que es poden desbloquejar mitjançant compres dins de l'app.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Pantalla de millora del pla predeterminat" image="/docs/faq/evervideo/what-is-the-difference-between-evervideo-and-evervideo-premium/upgrade-default.webp" >}}
+  {{< ls-card title="" subtitle="Pantalla de millora del pla predeterminat" image="/docs/faq/evervideo/what-is-the-difference-between-evervideo-and-evervideo-premium/upgrade-default.webp" >}}
 {{< /cards >}}
 
 ## Trieu el vostre pla Premium
@@ -19,7 +19,7 @@ Evervideo ofereix tant una versió gratuïta amb certes limitacions d'ús com un
 La versió gratuïta de l'aplicació ofereix una compra única de per vida i dues opcions de subscripció (1 mes i 1 any) per eliminar totes les restriccions i actualitzar a la versió Premium, cosa que us permet triar el preu millor i més òptim. Els preus poden variar en funció del vostre país o territori. A més, tingueu en compte que **Family Sharing** està activat per a totes les compres i plans, de manera que podeu compartir la versió Premium amb membres de la vostra família.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Pantalla de selecció del pla Evervideo" image="/docs/faq/evervideo/what-is-the-difference-between-evervideo-and-evervideo-premium/plan-select.webp" >}}
+  {{< ls-card title="" subtitle="Pantalla de selecció del pla Evervideo" image="/docs/faq/evervideo/what-is-the-difference-between-evervideo-and-evervideo-premium/plan-select.webp" >}}
 {{< /cards >}}
 
 ## Compartir compres entre iOS i Mac
@@ -31,13 +31,13 @@ També podeu provar de prémer el botó 'Restaurar compres' a la configuració d
 Per restaurar la vostra compra al nou dispositiu, simplement useu el menú 'Restaurar compres'. Veureu la llista de les vostres compres. Si no veieu totes les vostres compres, comproveu que el dispositiu estigui connectat al mateix compte d'iTunes que es va usar per fer les compres i assegureu-vos que iCloud estigui activat.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Pantalla de compra restaurada" image="/docs/faq/evervideo/what-is-the-difference-between-evervideo-and-evervideo-premium/purchase-restored.webp" >}}
+  {{< ls-card title="" subtitle="Pantalla de compra restaurada" image="/docs/faq/evervideo/what-is-the-difference-between-evervideo-and-evervideo-premium/purchase-restored.webp" >}}
 {{< /cards >}}
 
 Un cop actualitzeu l'app, veureu la pantalla d'estat Premium amb els detalls de les vostres compres actuals.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Pantalla d'ús de Premium" image="/docs/faq/evervideo/what-is-the-difference-between-evervideo-and-evervideo-premium/you-are-using-premium.webp" >}}
+  {{< ls-card title="" subtitle="Pantalla d'ús de Premium" image="/docs/faq/evervideo/what-is-the-difference-between-evervideo-and-evervideo-premium/you-are-using-premium.webp" >}}
 {{< /cards >}}
 
 ## Proveu Premium gratuïtament
@@ -45,7 +45,7 @@ Un cop actualitzeu l'app, veureu la pantalla d'estat Premium amb els detalls de 
 A més, hi ha una oportunitat per temps limitat de '**Provar Premium gratuïtament**'. Podeu accedir a aquesta funció a través del menú 'Provar Premium gratuïtament'. Simplement veient un anunci o difonent la paraula sobre l'app entre els vostres amics, podeu desbloquejar la versió Premium gratuïtament durant aquest període promocional. Això us dona l'oportunitat d'experimentar les funcions premium sense cap compromís econòmic.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Pantalla de prova de Premium gratuïtament" image="/docs/faq/evervideo/what-is-the-difference-between-evervideo-and-evervideo-premium/premium-for-free.webp" >}}
+  {{< ls-card title="" subtitle="Pantalla de prova de Premium gratuïtament" image="/docs/faq/evervideo/what-is-the-difference-between-evervideo-and-evervideo-premium/premium-for-free.webp" >}}
 {{< /cards >}}
 
 ## Evervideo gratuït
@@ -62,7 +62,7 @@ A més, hi ha una oportunitat per temps limitat de '**Provar Premium gratuïtame
 - Sense opcions de personalització o personalització.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Pantalla de millora de l'emmagatzematge al núvol" image="/docs/faq/evervideo/what-is-the-difference-between-evervideo-and-evervideo-premium/upgrade-cloud-storage.webp" >}}
+  {{< ls-card title="" subtitle="Pantalla de millora de l'emmagatzematge al núvol" image="/docs/faq/evervideo/what-is-the-difference-between-evervideo-and-evervideo-premium/upgrade-cloud-storage.webp" >}}
 {{< /cards >}}
 
 ## Evervideo Premium
@@ -106,7 +106,7 @@ Si just esteu començant o només necessiteu funcions bàsiques de reproducció 
 D'altra banda, **Evervideo Premium** desbloqueja l'experiència completa. Gaudireu d'una interfície sense anuncis, suport il·limitat per a llistes de reproducció i cua, funcionalitat completa fora de línia, flexibilitat al núvol i opcions avançades d'exportació i personalització. És la millor opció per als usuaris amb grans biblioteques de vídeo, els que veuen contingut de múltiples fonts o qualsevol persona que busca un reproductor multimèdia més professional i fluid.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Pantalla d'haver adquirit Premium" image="/docs/faq/evervideo/what-is-the-difference-between-evervideo-and-evervideo-premium/you-have-purchased-premium.webp" >}}
+  {{< ls-card title="" subtitle="Pantalla d'haver adquirit Premium" image="/docs/faq/evervideo/what-is-the-difference-between-evervideo-and-evervideo-premium/you-have-purchased-premium.webp" >}}
 {{< /cards >}}
 
 Si busqueu flexibilitat, proveu el **pla mensual**. Per a un valor a llarg termini, opteu per l'actualització **anual** o **de per vida**, tots dos ofereixen accés complet a un preu millor.

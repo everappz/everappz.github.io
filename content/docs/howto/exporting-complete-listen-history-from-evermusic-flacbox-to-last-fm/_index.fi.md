@@ -7,7 +7,7 @@ tags: ["evermusic", "flacbox", "äskettäin", "lastfm", "vienti", "scrobbler"]
 readingTime: 5
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **Yhteenveto:** Vie kuunteluhistoriasi Evermusicista tai Flacboxista CSV-tiedostona ja lataa se sitten Last.fm:iin käyttämällä ilmaista Last.fm-Scrubbler-WPF-työkalua Windowsissa. Automaattinen scrobbling on myös saatavilla natiivisti molemmissa sovelluksissa.
@@ -134,22 +134,22 @@ Nyt voit avata profiilisi [Last.fm](http://Last.fm)-sivulla ja tarkistaa kaikki 
 
 ## Usein kysytyt kysymykset
 
-{{% details title="Voinko scrobblata automaattisesti ilman CSV-tiedostojen vientiä?" closed="true" %}}
+{{% ls-details title="Voinko scrobblata automaattisesti ilman CSV-tiedostojen vientiä?" closed="true" %}}
 Kyllä. Sekä Evermusic että Flacbox tukevat nyt automaattista Last.fm-scrobblausta. Katso opas: [Kuinka scrobblata Last.fm:iin](/docs/howto/how-to-scrobble-your-music-history-from-evermusic-or-flacbox-to-last-fm).
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Entä jos CSV-tiedostossani on yli 14 päivää vanhoja kappaleita?" closed="true" %}}
+{{% ls-details title="Entä jos CSV-tiedostossani on yli 14 päivää vanhoja kappaleita?" closed="true" %}}
 Käytä Tuontitilaa Last.fm-Scrubbler-WPF:ssä. Se laskee aikaleimat uudelleen Lopetusajasta, jolloin voit scrobblata kappaleita riippumatta niiden alkuperäisestä päivämäärästä.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Minulla ei ole Windows-tietokonetta. Voinko silti käyttää Last.fm-Scrubbleria?" closed="true" %}}
+{{% ls-details title="Minulla ei ole Windows-tietokonetta. Voinko silti käyttää Last.fm-Scrubbleria?" closed="true" %}}
 Kyllä. Asenna VirtualBox Mac-tietokoneellesi ja lataa ilmainen Windows-kehitysympäristön levykuva Microsoftilta. Suorita Last.fm-Scrubbler-WPF virtuaalikoneessa.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Miksi joitakin scrobblauksia ei jäsennetä?" closed="true" %}}
+{{% ls-details title="Miksi joitakin scrobblauksia ei jäsennetä?" closed="true" %}}
 Kappaleita, joista puuttuu oleellisia metatietoja (kuten artistin nimi), ei voida jäsentää. Tämä on odotettua eikä vaikuta muihin tiedoston kappaleisiin.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Onko päivittäistä scrobble-rajaa?" closed="true" %}}
+{{% ls-details title="Onko päivittäistä scrobble-rajaa?" closed="true" %}}
 Kyllä. Last.fm-Scrubbler-WPF sallii enintään 2 800 scrobblausta päivässä. Jos sinun täytyy scrobblata enemmän, jaa prosessi useille päiville.
-{{% /details %}}
+{{% /ls-details %}}

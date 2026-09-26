@@ -12,7 +12,7 @@ authors:
     image: "/images/about/artem-meleshko-founder-everappz.webp"
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 **TL;DR:** Evermusic prekonal 11 miliónov stiahnutí po celom svete. Medzi kľúčové funkcie patrí 10-pásmový ekvalizér, offline prehrávanie, streamovanie z iCloud Drive, podpora viac ako 10 cloudových služieb, synchronizácia naprieč zariadeniami a vstavaný editor ID3 tagov.
 
@@ -70,22 +70,22 @@ Evermusic je vytvorený pre každého, kto ukladá hudbu v cloude alebo na loká
 
 ## FAQ
 
-{{% details title="Aké audio formáty Evermusic podporuje?" closed="true" %}}
+{{% ls-details title="Aké audio formáty Evermusic podporuje?" closed="true" %}}
 Evermusic prehráva MP3, FLAC, WAV, AAC, M4A, AIFF, OGG, WMA a ďalšie populárne audio formáty.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Môžem používať Evermusic bez internetového pripojenia?" closed="true" %}}
+{{% ls-details title="Môžem používať Evermusic bez internetového pripojenia?" closed="true" %}}
 Áno. Stiahnite skladby z cloudového úložiska pre offline prehrávanie. Po stiahnutí nie je internet potrebný.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Funguje Evermusic na Macu?" closed="true" %}}
+{{% ls-details title="Funguje Evermusic na Macu?" closed="true" %}}
 Áno. Evermusic je dostupný na iOS (iPhone/iPad) aj macOS so synchronizáciou knižnice naprieč všetkými zariadeniami.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Je stiahnutie Evermusic zadarmo?" closed="true" %}}
+{{% ls-details title="Je stiahnutie Evermusic zadarmo?" closed="true" %}}
 Áno. Evermusic sa dá stiahnuť zadarmo s voliteľnými prémiovými funkciami dostupnými cez nákup v aplikácii.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Ako funguje streamovanie z iCloud Drive v Evermusic?" closed="true" %}}
+{{% ls-details title="Ako funguje streamovanie z iCloud Drive v Evermusic?" closed="true" %}}
 Pripojte svoj účet iCloud Drive v aplikácii, prechádzajte svoje hudobné súbory a klepnutím prehrajte. Skladby sa streamujú priamo bez potreby najskôr ich stiahnuť.
-{{% /details %}}
+{{% /ls-details %}}

@@ -15,7 +15,7 @@ readingTime: 11
 Auf diesem Bildschirm können Sie verschiedene Quellen mit Ihren Audiodateien verbinden. Sie können beliebte Cloud-Dienste wie Google Drive, Dropbox, OneDrive, iCloud und andere integrieren sowie Ihren Mac oder PC verbinden. Darüber hinaus haben Sie die Möglichkeit, Audiodateien auf Apple Time Capsule, WD Cloud Home oder einem NAS zu bearbeiten, das SMB oder WebDAV unterstützt.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evertag Connections Screen" image="/docs/guide/evertag/img/connections.webp" >}}
+  {{< ls-card title="" subtitle="Evertag Connections Screen" image="/docs/guide/evertag/img/connections.webp" >}}
 {{< /cards >}}
 
 ## Schnellzugriff
@@ -151,7 +151,7 @@ Hier ist eine Übersicht dieser Aktionen:
 - **Raster-/Listenansicht**: Wechseln Sie zwischen zwei Ansichtsmodi: Tabellenansicht und Miniaturansicht. Die Tabellenansicht zeigt Dateien in einer Liste, während die Miniaturansicht visuelle Darstellungen der Dateien anzeigt, was die Identifizierung von Inhalten auf einen Blick erleichtert.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evertag Cloud Folder Sort" image="/docs/guide/evertag/img/cloud-storage-sort.webp" >}}
+  {{< ls-card title="" subtitle="Evertag Cloud Folder Sort" image="/docs/guide/evertag/img/cloud-storage-sort.webp" >}}
 {{< /cards >}}
 
 ## Online-Dateien bearbeiten
@@ -163,7 +163,7 @@ Wenn Sie mehrere Dateien in Ihrem Cloud-Speicher in dieser App verwalten müssen
 - **Verschiedene Aktionen ausführen**: Sobald Sie die Dateien oder Ordner ausgewählt haben, die Sie verwalten möchten, haben Sie Zugriff auf mehrere auf Ihre Bedürfnisse zugeschnittene Aktionen:
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evertag File Select" image="/docs/guide/evertag/img/cloud-storage-file-select.webp" >}}
+  {{< ls-card title="" subtitle="Evertag File Select" image="/docs/guide/evertag/img/cloud-storage-file-select.webp" >}}
 {{< /cards >}}
 
 ## Dateiaktionen
@@ -180,7 +180,7 @@ Tippen Sie darauf, um eine Liste verfügbarer Aktionen anzuzeigen:
 - **Löschen**: Seien Sie vorsichtig mit dieser Aktion, da sie die Datei dauerhaft aus Ihrem Cloud-Speicher entfernt. **Diese Löschung kann nicht rückgängig gemacht werden**.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evertag File Options" image="/docs/guide/evertag/img/cloud-storage-file-options.webp" >}}
+  {{< ls-card title="" subtitle="Evertag File Options" image="/docs/guide/evertag/img/cloud-storage-file-options.webp" >}}
 {{< /cards >}}
 
 Wenn die Aktionsliste den verfügbaren Bildschirmbereich überschreitet, scrollen Sie einfach nach unten im Aktionsmenü, um weitere Optionen anzuzeigen.
@@ -196,5 +196,5 @@ Für jeden Ordner in Ihrem Cloud-Speicher stehen verschiedene Aktionen zur Verf�
 - **Löschen**: Seien Sie vorsichtig mit dieser Aktion, da sie den Ordner und seinen Inhalt dauerhaft aus Ihrem Cloud-Speicher entfernt. **Diese Aktion kann nicht rückgängig gemacht werden**.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evertag Folder Options" image="/docs/guide/evertag/img/cloud-storage-folder-options.webp" >}}
+  {{< ls-card title="" subtitle="Evertag Folder Options" image="/docs/guide/evertag/img/cloud-storage-folder-options.webp" >}}
 {{< /cards >}}

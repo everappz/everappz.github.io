@@ -7,7 +7,7 @@ tags: ["promo", "appstore", "instal", "tukarkan", "kode", "gratis"]
 readingTime: 2
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **Ringkasan:** Kode promo memungkinkan Anda mengunduh aplikasi berbayar secara gratis atau membuka pembelian dalam aplikasi. Di iOS: App Store > Ikon Akun > Tukarkan Kartu Hadiah atau Kode > masukkan kode. Di Mac: App Store > Akun > Tukarkan Kartu Hadiah > masukkan kode. Kemudian buka aplikasi dan pulihkan pembelian jika diperlukan.
@@ -94,22 +94,22 @@ Nikmati aplikasi gratis atau peningkatan dalam aplikasi Anda!
 
 ## Pertanyaan yang Sering Diajukan
 
-{{% details title="Di mana saya bisa mendapatkan kode promo?" closed="true" %}}
+{{% ls-details title="Di mana saya bisa mendapatkan kode promo?" closed="true" %}}
 Kode promo disediakan oleh pengembang aplikasi untuk ulasan, giveaway, atau promosi. Hubungi pengembang secara langsung untuk memintanya.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Apakah kode promo kedaluwarsa?" closed="true" %}}
+{{% ls-details title="Apakah kode promo kedaluwarsa?" closed="true" %}}
 Ya. Kode promo Apple App Store kedaluwarsa 28 hari setelah dibuat dan hanya dapat ditukarkan satu kali.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Bisakah saya menggunakan kode promo di negara mana pun?" closed="true" %}}
+{{% ls-details title="Bisakah saya menggunakan kode promo di negara mana pun?" closed="true" %}}
 Kode promo bersifat spesifik per wilayah. Kode harus sesuai dengan negara App Store dari Apple ID Anda.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Bagaimana cara mengaktifkan pembelian dalam aplikasi dengan kode promo?" closed="true" %}}
+{{% ls-details title="Bagaimana cara mengaktifkan pembelian dalam aplikasi dengan kode promo?" closed="true" %}}
 Setelah menukarkan kode di App Store, buka aplikasi dan buka Pengaturan > Pulihkan Pembelian. Konten premium akan terbuka secara otomatis.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Kode promo mengatakan sudah ditukarkan. Apa yang harus saya lakukan?" closed="true" %}}
+{{% ls-details title="Kode promo mengatakan sudah ditukarkan. Apa yang harus saya lakukan?" closed="true" %}}
 Setiap kode promo hanya dapat digunakan satu kali. Hubungi pengembang untuk meminta kode baru.
-{{% /details %}}
+{{% /ls-details %}}

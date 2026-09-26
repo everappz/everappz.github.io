@@ -184,3 +184,5 @@ everdiskFeatAdvancedServerSettings: "הגדרות שרת מתקדמות"
 everdiskFeatSMB3Encryption: "הצפנת SMB3"
 everdiskFeatAutomaticSharing: "שיתוף אוטומטי"
 everdiskFeatDevicePersonalization: "התאמה אישית של המכשיר"
+
+searchDocsPlaceholder: "חיפוש בתיעוד, שאלות נפוצות ומדריכים…"

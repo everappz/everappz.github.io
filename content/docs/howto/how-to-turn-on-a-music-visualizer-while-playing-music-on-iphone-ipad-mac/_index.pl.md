@@ -7,12 +7,12 @@ tags: ["Evermusic", "Flacbox", "Wizualizator", "Poradnik", "Milkdrop", "projectM
 readingTime: 9
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 **Krótka odpowiedź:** [Evermusic](/products/evermusic) i [Flacbox](/products/flacbox) mają pełnoekranowy **wizualizator muzyki**, który maluje ruchome, kolorowe wizualizacje w rytm Twojej muzyki. Otwórz go z ekranu odtwarzacza **Teraz odtwarzane** (**⋯ Więcej > Wizualizacja**) lub z **Ustawienia > Wizualizacja**, a następnie wybierz preset lub **Auto** i dotknij **Rozpocznij wizualizację**. Na ekranie wizualizatora dotknij raz, aby pokazać lub ukryć elementy sterujące, i użyj strzałek **Poprzedni** i **Następny**, aby zmienić wygląd. Korzysta on ze znanego silnika **Milkdrop (projectM)** z **500 presetami**, renderuje z użyciem **OpenGL** i działa na **iPhone, iPad i Mac**. Kroki są takie same w obu aplikacjach. Pełne kroki znajdziesz poniżej.
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Wizualizator muzyki: preset Starfield Sectors" image="/docs/howto/how-to-turn-on-a-music-visualizer-while-playing-music-on-iphone-ipad-mac/music-visualizer-starfield-sectors-preset.webp" imageStyle="border-radius: clamp(14px, 2vw, 28px);" >}}
+{{< ls-card title="" subtitle="Wizualizator muzyki: preset Starfield Sectors" image="/docs/howto/how-to-turn-on-a-music-visualizer-while-playing-music-on-iphone-ipad-mac/music-visualizer-starfield-sectors-preset.webp" imageStyle="border-radius: clamp(14px, 2vw, 28px);" >}}
 {{< /cards >}}
 
 ## Czym jest wizualizator?
@@ -85,50 +85,50 @@ Tak czy inaczej, wizualizacje reagują na dokładnie ten dźwięk, który odtwar
 
 ## FAQ
 
-{{% details title="Jak włączyć wizualizator w Evermusic lub Flacbox?" closed="true" %}}
+{{% ls-details title="Jak włączyć wizualizator w Evermusic lub Flacbox?" closed="true" %}}
 Otwórz odtwarzacz Teraz odtwarzane, dotknij przycisku ⋯ (Więcej) i wybierz Wizualizacja. Możesz go również otworzyć z Ustawienia > Wizualizacja. Następnie wybierz preset (lub Auto) i dotknij Rozpocznij wizualizację. Kroki są takie same w obu aplikacjach.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Na czym oparty jest wizualizator?" closed="true" %}}
+{{% ls-details title="Na czym oparty jest wizualizator?" closed="true" %}}
 Korzysta z otwartoźródłowego silnika projectM, który odtwarza presety w stylu Milkdrop. To animowane, reagujące na muzykę wizualizacje, które wiele osób zna z komputerowych odtwarzaczy muzyki. Zarówno Evermusic, jak i Flacbox zawierają 500 presetów i rysują je z użyciem OpenGL.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Ile jest presetów wizualizatora?" closed="true" %}}
+{{% ls-details title="Ile jest presetów wizualizatora?" closed="true" %}}
 500 presetów. Każdy z nich to inna animowana scena, a możesz przez nie przechodzić strzałkami Następny i Poprzedni lub pozwolić trybowi Auto przełączać je za Ciebie.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Czy wizualizator reaguje na muzykę?" closed="true" %}}
+{{% ls-details title="Czy wizualizator reaguje na muzykę?" closed="true" %}}
 Tak. Wizualizacje reagują na odtwarzany przez Ciebie dźwięk w czasie rzeczywistym, więc kształty, kolory i ruch zmieniają się wraz z rytmem i energią utworu. Działa to z plikami lokalnymi, dyskami w chmurze, serwerami multimediów i radiem internetowym.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Jak zmienić preset wizualizatora?" closed="true" %}}
+{{% ls-details title="Jak zmienić preset wizualizatora?" closed="true" %}}
 Dotknij ekranu raz, aby pokazać elementy sterujące, a następnie użyj strzałek Poprzedni i Następny na dole, aby przechodzić między presetami. Nazwa i licznik na górze (na przykład 429 / 500) aktualizują się w miarę ich zmiany. Możesz również uruchomić w trybie Auto, aby aplikacja przełączała presety automatycznie.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Czym jest tryb Auto?" closed="true" %}}
+{{% ls-details title="Czym jest tryb Auto?" closed="true" %}}
 Tryb Auto, wybierany z selektora presetów, samodzielnie przechodzi przez presety, przełączając na nowy co 30 sekund z płynnym przenikaniem. To najłatwiejszy sposób, aby cieszyć się pokazem bez dotykania ekranu.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Jak ukryć elementy sterujące na ekranie?" closed="true" %}}
+{{% ls-details title="Jak ukryć elementy sterujące na ekranie?" closed="true" %}}
 Dotknij ekranu raz, aby ukryć elementy sterujące i uzyskać czysty, pełnoekranowy widok, a dotknij ponownie, aby je przywrócić. Elementy sterujące ukrywają się również samoczynnie po kilku sekundach.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Czy wizualizator działa na Mac?" closed="true" %}}
+{{% ls-details title="Czy wizualizator działa na Mac?" closed="true" %}}
 Tak. Na Mac zarówno Evermusic, jak i Flacbox otwierają wizualizator we własnym oknie i rysują go za pomocą natywnego desktopowego OpenGL, więc otrzymujesz te same reagujące na muzykę wizualizacje Milkdrop na dużym ekranie.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Czy wizualizator działa na iPhone i iPad?" closed="true" %}}
+{{% ls-details title="Czy wizualizator działa na iPhone i iPad?" closed="true" %}}
 Tak. Na iPhone i iPad działa na pełnym ekranie, rysowany z użyciem OpenGL ES dla płynnej animacji na wyświetlaczach Retina.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Czy mój ekran przygaśnie lub zablokuje się, gdy wizualizator działa?" closed="true" %}}
+{{% ls-details title="Czy mój ekran przygaśnie lub zablokuje się, gdy wizualizator działa?" closed="true" %}}
 Nie. Aplikacja utrzymuje ekran aktywny, gdy wizualizator jest włączony, więc pokaz nie zostanie przerwany przez przygaśnięcie lub zablokowanie wyświetlacza.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Czy aplikacja zapamiętuje wybrany przeze mnie preset?" closed="true" %}}
+{{% ls-details title="Czy aplikacja zapamiętuje wybrany przeze mnie preset?" closed="true" %}}
 Tak. Ostatni wybrany preset jest zapisywany i wyróżniany w selektorze presetów, więc łatwo wrócić do ulubionego.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Gdzie wyświetla się nazwa bieżącego presetu?" closed="true" %}}
+{{% ls-details title="Gdzie wyświetla się nazwa bieżącego presetu?" closed="true" %}}
 Na górze, na środku ekranu wizualizatora, wraz z licznikiem takim jak 429 / 500, który pokazuje, na którym presecie jesteś spośród całego zestawu. Na przykładowym zrzucie ekranu preset to Starfield Sectors.
-{{% /details %}}
+{{% /ls-details %}}

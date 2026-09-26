@@ -17,7 +17,7 @@ Oynatıcı, oynatıcı kuyruğunu ve ekolayzer, uyku zamanlayıcısı, ses yer i
 ## Oynatıcıya Erişim
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evermusic Ses Oynatıcı Ekranı" image="/docs/guide/evermusic/evermusic-guide-player/img/player-main.webp" >}}
+  {{< ls-card title="" subtitle="Evermusic Ses Oynatıcı Ekranı" image="/docs/guide/evermusic/evermusic-guide-player/img/player-main.webp" >}}
 {{< /cards >}}
 
 Tam ekran oynatıcıya mini oynatıcı görünümünden erişebilirsiniz. iPhone'unuzda mini oynatıcıyı ana ekrandaki sekme çubuğunun üzerinde bulacaksınız. iPad veya Mac'inizde sol menüden erişilebilir. Mini oynatıcıyı gizlemek için simgesine dokunun ve aşağı doğru kaydırın. Tam ekran oynatıcıyı tamamen gizlemek için sağ alt köşedeki kapat düğmesine dokunun.
@@ -44,7 +44,7 @@ Biraz rastgelelik istiyorsanız "Karıştır" seçeneği tercihinidir. Kuyruğun
 ## Ses Seviyesi Kontrolü
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="AirPlay ve Google Cast ile Ses Seviyesi Kontrolü" image="/docs/guide/evermusic/evermusic-guide-player/img/player-volume-control.webp" >}}
+  {{< ls-card title="" subtitle="AirPlay ve Google Cast ile Ses Seviyesi Kontrolü" image="/docs/guide/evermusic/evermusic-guide-player/img/player-volume-control.webp" >}}
 {{< /cards >}}
 
 Ses Ayarları ekranında oynatma kontrollerinin altındaki ses simgesine dokunarak ses seviyesi kaydırıcısını bulun. Bu kaydırıcıyı veya cihazınızdaki standart ses düğmelerini kullanarak sesi değiştirebilirsiniz. Ayrıca bazı kullanışlı akış düğmeleri de bulacaksınız:
@@ -63,7 +63,7 @@ Google Cast kullananlar için, ses oynatıcı ekranının alt kısmında veya Se
 ## Ses Ekolayzer
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="10 Bantlı Ses Ekolayzer" image="/docs/guide/evermusic/evermusic-guide-player/img/player-equalizer.webp" >}}
+  {{< ls-card title="" subtitle="10 Bantlı Ses Ekolayzer" image="/docs/guide/evermusic/evermusic-guide-player/img/player-equalizer.webp" >}}
 {{< /cards >}}
 
 Evermusic, iPod tarzı ön ayarlar, ön yükselticisi ve manuel ekolayzer ayarları ile birlikte gelen 10 bantlı bir ekolayzer ile donatılmıştır. Ekolayzerı etkinleştirmek için alt araç çubuğundaki "Ekolayzer" düğmesine dokunun ve sağ üst köşedeki anahtar kontrolünü açın. "Akustik", "Bas Güçlendirici", "Klasik" ve daha fazlası gibi çeşitli önceden tanımlanmış ekolayzer ön ayarlarından seçim yapabilirsiniz. Ses meraklısıysanız, kaydırıcılar kullanarak her frekans bandını ince ayarlama özelliğini takdir edeceksiniz. Kendi ses ekolayzer ön ayarlarınızı oluşturup kaydedebilirsiniz. Bir parça yeterince yüksek değilse ön yükselticinin kazancını da ayarlayabilirsiniz. Ekolayzerın nasıl kullanılacağı hakkında daha ayrıntılı talimatlarımız [burada](/docs/howto/how-to-use-the-audio-equalizer-on-your-iphone-ipad-mac-with-evermusic-and-flacbox) mevcuttur.
@@ -71,7 +71,7 @@ Evermusic, iPod tarzı ön ayarlar, ön yükselticisi ve manuel ekolayzer ayarla
 ## Oynatıcı Modu Araç Çubuğu
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Arama ve Hız ile Oynatıcı Üst Araç Çubuğu" image="/docs/guide/evermusic/evermusic-guide-player/img/player-top-toolbar.webp" >}}
+  {{< ls-card title="" subtitle="Arama ve Hız ile Oynatıcı Üst Araç Çubuğu" image="/docs/guide/evermusic/evermusic-guide-player/img/player-top-toolbar.webp" >}}
 {{< /cards >}}
 
 Birkaç oynatıcı ekranı stili için navigasyon çubuğunun hemen altında, oynatıcı ekranının en üstünde bir oynatıcı modu araç çubuğu bulacaksınız. Bu kullanışlı araç çubuğu üç düğme barındırır.
@@ -82,7 +82,7 @@ Birkaç oynatıcı ekranı stili için navigasyon çubuğunun hemen altında, oy
 ## Ses Yer İmleri
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Sesli Kitaplar ve Dersler için Ses Yer İmleri" image="/docs/guide/evermusic/evermusic-guide-player/img/player-bookmarks.webp" >}}
+  {{< ls-card title="" subtitle="Sesli Kitaplar ve Dersler için Ses Yer İmleri" image="/docs/guide/evermusic/evermusic-guide-player/img/player-bookmarks.webp" >}}
 {{< /cards >}}
 
 Burada müzik kütüphanenizdeki parçalar için birden fazla yer imi oluşturabilirsiniz. Yer imlerinin nasıl kullanılacağına dair tam talimatlarımız [burada](/docs/howto/how-to-listen-to-audiobooks-on-iphone-ipad-mac-using-evermusic) mevcuttur.
@@ -90,7 +90,7 @@ Burada müzik kütüphanenizdeki parçalar için birden fazla yer imi oluşturab
 ## Oynatıcı Kuyruğu
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Oynatıcı Kuyruğu" image="/docs/guide/evermusic/evermusic-guide-player/img/player-queue.webp" >}}
+  {{< ls-card title="" subtitle="Oynatıcı Kuyruğu" image="/docs/guide/evermusic/evermusic-guide-player/img/player-queue.webp" >}}
 {{< /cards >}}
 
 Oynatıcı kuyruğunuza erişmek için alt araç çubuğundaki oynatıcı kuyruğu düğmesine dokunmanız yeterlidir. Kuyruktaki bir şarkıyı taşımak için başlığın yanındaki yeniden sıralama göstergesini kullanın.
@@ -98,7 +98,7 @@ Oynatıcı kuyruğunuza erişmek için alt araç çubuğundaki oynatıcı kuyru�
 ## Yorumlar / Sözler
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Yorumlar, Gömülü Sözler ve LRC Dosyaları" image="/docs/guide/evermusic/evermusic-guide-player/img/player-lyrics.webp" >}}
+  {{< ls-card title="" subtitle="Yorumlar, Gömülü Sözler ve LRC Dosyaları" image="/docs/guide/evermusic/evermusic-guide-player/img/player-lyrics.webp" >}}
 {{< /cards >}}
 
 Parça yorumlarını ve gömülü sözleri ve LRC dosyalarını görüntülemek için şu adımları izleyin:
@@ -114,7 +114,7 @@ Sözlerin nasıl görüntüleneceğine dair tam talimatlarımız [burada](/docs/
 ## Seçenekler Menüsü
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Kuyruk Öğesi için Seçenekler Menüsü" image="/docs/guide/evermusic/evermusic-guide-player/img/player-queue-item-options-menu.webp" >}}
+  {{< ls-card title="" subtitle="Kuyruk Öğesi için Seçenekler Menüsü" image="/docs/guide/evermusic/evermusic-guide-player/img/player-queue-item-options-menu.webp" >}}
 {{< /cards >}}
 
 Ses oynatıcı kuyruğunuzdaki her şarkının, parça başlığının yakınındaki üç nokta düğmesine dokunarak erişebileceğiniz daha fazla eylem içeren bir menüsü vardır. Mevcut eylemler şunlardır:
@@ -153,7 +153,7 @@ Ek eylemleri görmek için şu anda çalınan parça başlığının sol tarafı
 ## Son Çalınanlar ve Favoriler
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Oynatıcıdan Son Çalınan Şarkılar" image="/docs/guide/evermusic/evermusic-guide-player/img/player-recents.webp" >}}
+  {{< ls-card title="" subtitle="Oynatıcıdan Son Çalınan Şarkılar" image="/docs/guide/evermusic/evermusic-guide-player/img/player-recents.webp" >}}
 {{< /cards >}}
 
 Oynatıcı ekranında, Diğer Eylemler düğmesine '…' dokunarak ve ilgili menü öğesini seçerek 'Son Çalınanlar' ve 'Favoriler' bölümlerine erişebilirsiniz. Her iki bölümde de şarkı arayabilir, tüm parçaları çalabilir, tüm parçaları karıştırabilir, listeyi dışa aktarabilir ve listeyi silebilirsiniz. Şarkı listelerini dışa aktarma hakkında ayrıntılı talimatlarımız [burada](/docs/howto/export-tracks-collection-from-evermusic-flacbox-to-m3u-csv-txt/) mevcuttur.
@@ -161,7 +161,7 @@ Oynatıcı ekranında, Diğer Eylemler düğmesine '…' dokunarak ve ilgili men
 ## Mini Oynatıcı Penceresi (Yalnızca Mac)
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Mac Mini Oynatıcı Penceresi" image="/docs/guide/evermusic/evermusic-guide-player/img/player-mini-mac.webp" >}}
+  {{< ls-card title="" subtitle="Mac Mini Oynatıcı Penceresi" image="/docs/guide/evermusic/evermusic-guide-player/img/player-mini-mac.webp" >}}
 {{< /cards >}}
 
 Mac kullanıcıları için kullanışlı bir mini oynatıcı penceresi bulunmaktadır. Erişmek için imlecinizi uygulama penceresinin sağ alt köşesine taşımanız ve mümkün olan en küçük boyuta yeniden boyutlandırmanız yeterlidir. Ardından mini oynatıcı penceresini etkinleştirmek için daraltma düğmesine (aşağı ok olarak gösterilir) dokunun. Diğer pencerelerin üstünde tutmak istiyorsanız Mac'inizin üst menü çubuğuna gidin, 'Window' öğesini seçin ve 'Show Window Always On Top' öğesini seçin. Bu özellik, ses dersleri dinlerken herhangi bir kesinti istemediğinizde özellikle kullanışlıdır.
@@ -169,7 +169,7 @@ Mac kullanıcıları için kullanışlı bir mini oynatıcı penceresi bulunmakt
 ## Klavye Kısayolları (Yalnızca Mac)
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Klavye Kısayolları ile Mac Durum Çubuğu Oynatma Menüsü" image="/docs/guide/evermusic/evermusic-guide-player/img/player-mac-shortcuts.webp" >}}
+  {{< ls-card title="" subtitle="Klavye Kısayolları ile Mac Durum Çubuğu Oynatma Menüsü" image="/docs/guide/evermusic/evermusic-guide-player/img/player-mac-shortcuts.webp" >}}
 {{< /cards >}}
 
 Mac kullanıcıları için durum çubuğunda klavye kısayolları ile birlikte sistem oynatma menüsü mevcuttur. Örneğin, Oynat/Duraklat için klavyenizdeki boşluk çubuğuna dokunmanız yeterlidir. Durdur, Sonraki Şarkı, Önceki Şarkı, Zamanı Atla, Tekrar, Karıştır ve Oynatma Hızı için kısayollar ekran görüntüsünde gösterildiği gibi mevcuttur.
@@ -177,7 +177,7 @@ Mac kullanıcıları için durum çubuğunda klavye kısayolları ile birlikte s
 ## Ses Oynatıcı Ayarları
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Ses Oynatıcı Ayarları" image="/docs/guide/evermusic/evermusic-guide-player/img/player-settings.webp" >}}
+  {{< ls-card title="" subtitle="Ses Oynatıcı Ayarları" image="/docs/guide/evermusic/evermusic-guide-player/img/player-settings.webp" >}}
 {{< /cards >}}
 
 Ses oynatıcı ayarlarına erişmek için ses oynatıcı ekranındaki Daha Fazla düğmesine dokunun ve açılır menüden "Ayarlar"ı seçin. Burada işlevselliğe göre gruplandırılmış çeşitli bölümler bulacaksınız:

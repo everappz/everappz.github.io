@@ -7,7 +7,7 @@ tags: ["Musik", "Audio", "Player", "offline", "Modus", "Herunterladen", "Ordner"
 keywords: ["Offline-Musik iPhone", "Cloud-Musik-Synchronisierung", "Evermusic offline", "Flacbox Musik synchronisieren", "Musik ohne Internet abspielen", "Audio aus der Cloud herunterladen", "lokale Dateiwiedergabe iOS"]
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **Zusammenfassung:** Evermusic und Flacbox ermöglichen es Ihnen, Musik aus dem Cloud-Speicher (Google Drive, Dropbox, OneDrive und mehr) auf Ihr iPhone oder iPad für die Offline-Wiedergabe herunterzuladen. Sie können drei Methoden verwenden: direktes Herunterladen, Offline-Modus mit automatischer Synchronisierung oder Audio-Player-Cache. Dieser Leitfaden behandelt alle drei Ansätze Schritt für Schritt.
@@ -140,26 +140,26 @@ Wenn Sie diese detaillierten Schritte befolgen, können Sie Ihre lokale und in d
 
 ## Häufig gestellte Fragen
 
-{{% details title="Welche Cloud-Dienste unterstützen Evermusic und Flacbox?" closed="true" %}}
+{{% ls-details title="Welche Cloud-Dienste unterstützen Evermusic und Flacbox?" closed="true" %}}
 Beide Apps unterstützen Google Drive, Dropbox, OneDrive, Box, MEGA, Yandex.Disk und andere große Cloud-Speicheranbieter. Sie können mehrere Dienste gleichzeitig verbinden.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Kann ich Musik automatisch vom Cloud-Speicher auf mein iPhone synchronisieren?" closed="true" %}}
+{{% ls-details title="Kann ich Musik automatisch vom Cloud-Speicher auf mein iPhone synchronisieren?" closed="true" %}}
 Ja. Aktivieren Sie den Offline-Modus für jeden Ordner, jede Wiedergabeliste, jedes Album oder jeden Künstler. Die App führt eine Einweg-Synchronisierung von der Cloud zum Gerät in einem konfigurierbaren Intervall durch (Standard: einmal täglich).
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Verbraucht der Offline-Modus viel Speicherplatz auf meinem Gerät?" closed="true" %}}
+{{% ls-details title="Verbraucht der Offline-Modus viel Speicherplatz auf meinem Gerät?" closed="true" %}}
 Der Speicherverbrauch hängt von der Größe Ihrer Musiksammlung und den Dateiformaten ab. Sie können dies steuern, indem Sie bestimmte Ordner zur Synchronisierung auswählen, Cache-Größenlimits festlegen und den Speicher in den App-Einstellungen überwachen.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Welche Audioformate werden für die Offline-Wiedergabe unterstützt?" closed="true" %}}
+{{% ls-details title="Welche Audioformate werden für die Offline-Wiedergabe unterstützt?" closed="true" %}}
 Evermusic und Flacbox unterstützen MP3, FLAC, AAC, ALAC, WAV, AIFF, OGG, WMA und viele weitere Formate. Flacbox ist für verlustfreie Formate wie FLAC und ALAC optimiert.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Wird meine Offline-Musik weiter abgespielt, wenn ich die App schließe?" closed="true" %}}
+{{% ls-details title="Wird meine Offline-Musik weiter abgespielt, wenn ich die App schließe?" closed="true" %}}
 Ja. Heruntergeladene Dateien werden lokal auf Ihrem Gerät gespeichert und über den Audio-Player der App unabhängig von der Internetverbindung abgespielt. Die Hintergrundwiedergabe wird vollständig unterstützt.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Wie gebe ich Speicherplatz frei, der von Offline-Musik belegt wird?" closed="true" %}}
+{{% ls-details title="Wie gebe ich Speicherplatz frei, der von Offline-Musik belegt wird?" closed="true" %}}
 Deaktivieren Sie den Offline-Modus für bestimmte Ordner unter **Einstellungen** > Dateimanager > **Synchronisierte Offline-Ordner**. Dadurch werden lokale Kopien von Ihrem Gerät entfernt. Sie können auch den Audio-Player-Cache leeren oder heruntergeladene Dateien manuell löschen.
-{{% /details %}}
+{{% /ls-details %}}

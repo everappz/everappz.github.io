@@ -7,7 +7,7 @@ tags: ["evermusic", "flacbox", "archiwum", "kopia zapasowa", "eksport", "lista o
 readingTime: 2
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **Podsumowanie:** Evermusic i Flacbox mogą zarchiwizować dowolną listę odtwarzania, album, wykonawcę lub gatunek do pliku ZIP z listą odtwarzania M3U, okładką albumu i wszystkimi plikami audio. Przenieś ZIP na inne urządzenie, rozpakuj go i zaimportuj M3U, aby natychmiast odtworzyć listę odtwarzania.
@@ -104,22 +104,22 @@ Postępując zgodnie z tym przewodnikiem, możesz sprawnie archiwizować i przen
 
 ## Najczęściej zadawane pytania
 
-{{% details title="Co zawiera archiwum ZIP?" closed="true" %}}
+{{% ls-details title="Co zawiera archiwum ZIP?" closed="true" %}}
 Archiwum zawiera wszystkie pliki audio, plik listy odtwarzania M3U zachowujący kolejność utworów oraz okładkę albumu listy odtwarzania zapisaną jako osobny plik graficzny.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Czy archiwizacja działa z plikami w chmurze?" closed="true" %}}
+{{% ls-details title="Czy archiwizacja działa z plikami w chmurze?" closed="true" %}}
 Tak. Aplikacja automatycznie pobiera wszystkie pliki przechowywane w chmurze przed dodaniem ich do archiwum. Postęp pobierania możesz śledzić w sekcji transferów plików.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Czy mogę też archiwizować albumy, wykonawców i gatunki?" closed="true" %}}
+{{% ls-details title="Czy mogę też archiwizować albumy, wykonawców i gatunki?" closed="true" %}}
 Tak. Opcja «Dodaj do archiwum» jest dostępna dla list odtwarzania, albumów, wykonawców i gatunków. Proces jest identyczny dla wszystkich.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Jak przenieść archiwum na inne urządzenie?" closed="true" %}}
+{{% ls-details title="Jak przenieść archiwum na inne urządzenie?" closed="true" %}}
 Możesz przesłać ZIP do chmury (Google Drive, Dropbox itp.), użyć AirDrop lub przesłać bezprzewodowo za pomocą wbudowanej funkcji Wi-Fi Drive w Evermusic i Flacbox.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Czy struktura listy odtwarzania zostanie zachowana po przeniesieniu?" closed="true" %}}
+{{% ls-details title="Czy struktura listy odtwarzania zostanie zachowana po przeniesieniu?" closed="true" %}}
 Tak. Plik M3U przechowuje strukturę listy odtwarzania ze ścieżkami względnymi. Po rozpakowaniu na nowym urządzeniu zaimportuj plik M3U, aby odtworzyć listę odtwarzania ze wszystkimi utworami w oryginalnej kolejności.
-{{% /details %}}
+{{% /ls-details %}}

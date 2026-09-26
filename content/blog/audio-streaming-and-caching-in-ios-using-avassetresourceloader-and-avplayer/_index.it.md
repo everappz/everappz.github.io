@@ -12,7 +12,7 @@ authors:
     image: "/images/about/artem-meleshko-founder-everappz.webp"
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 ![](/blog/audio-streaming-and-caching-in-ios-using-avassetresourceloader-and-avplayer/diagram.png)
 
@@ -134,18 +134,18 @@ Questo approccio alimenta il motore di streaming audio di [Evermusic](https://ap
 
 ## Domande Frequenti
 
-{{% details title="Quando dovrei usare AVAssetResourceLoaderDelegate invece di un URL diretto?" closed="true" %}}
+{{% ls-details title="Quando dovrei usare AVAssetResourceLoaderDelegate invece di un URL diretto?" closed="true" %}}
 Usalo quando il servizio cloud richiede header di autorizzazione personalizzati, quando hai bisogno della cache su disco per l'audio in streaming, o quando vuoi un controllo dettagliato su come i dati vengono caricati e bufferizzati.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Questo approccio funziona con Swift?" closed="true" %}}
+{{% ls-details title="Questo approccio funziona con Swift?" closed="true" %}}
 Sì. Il protocollo `AVAssetResourceLoaderDelegate` funziona allo stesso modo in Swift. Gli esempi Objective-C qui presenti si traducono direttamente.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Posso usare questo approccio anche per lo streaming video?" closed="true" %}}
+{{% ls-details title="Posso usare questo approccio anche per lo streaming video?" closed="true" %}}
 Sì. `AVAssetResourceLoaderDelegate` funziona con qualsiasi tipo di media supportato da AVPlayer, incluso il video. Lo stesso approccio con schema personalizzato si applica.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Supporta la riproduzione audio in background?" closed="true" %}}
+{{% ls-details title="Supporta la riproduzione audio in background?" closed="true" %}}
 Sì, a condizione che tu abilitino la modalità background "Audio, AirPlay e Picture in Picture" nelle capacità della tua app e configuri correttamente l'`AVAudioSession`.
-{{% /details %}}
+{{% /ls-details %}}

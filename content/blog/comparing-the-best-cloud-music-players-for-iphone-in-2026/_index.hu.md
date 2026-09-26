@@ -12,7 +12,7 @@ authors:
     image: "/images/about/artem-meleshko-founder-everappz.webp"
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 ## Melyik felhőalapú zenlejátszó a legjobb iPhone-ra?
 
@@ -91,22 +91,22 @@ Az audiofil hallgatók és mindenki számára, aki személyes zenegyűjteményt 
 
 ## Gyakran ismételt kérdések
 
-{{% details title="Lejátszhatom az FLAC fájlokat iPhone-on konvertálás nélkül?" closed="true" %}}
+{{% ls-details title="Lejátszhatom az FLAC fájlokat iPhone-on konvertálás nélkül?" closed="true" %}}
 Igen. Az Evermusic natívan játssza le a FLAC, DSD, WAV, ALAC és más veszteségmentes formátumokat iPhone-on. Fájlkonverzió nem szükséges. Egyszerűen csatlakoztassa felhőalapú tárolófiókját, és streamelje vagy töltse le FLAC fájljait közvetlenül.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Melyik felhőalapú zenlejátszó működik a Dropboxszal és Google Drive-val?" closed="true" %}}
+{{% ls-details title="Melyik felhőalapú zenlejátszó működik a Dropboxszal és Google Drive-val?" closed="true" %}}
 Az Evermusic támogatja a Dropboxot, Google Drive-ot, OneDrive-ot, Boxot, MEGA-t, pCloudot, WebDAV-ot, SMB-t és egyebeket -- összesen több mint 12 felhőszolgáltatást. A legtöbb főáramú streaming alkalmazás, mint a Spotify és Apple Music, nem csatlakozik harmadik fél felhőtárhelyeihez.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Szükségem van előfizetésre a felhőalapú zenlejátszó használatához?" closed="true" %}}
+{{% ls-details title="Szükségem van előfizetésre a felhőalapú zenlejátszó használatához?" closed="true" %}}
 Az alkalmazástól függ. A Spotify, Apple Music és Deezer havi előfizetéseket igényel. Az Evermusic ingyenes szintet és egyszeri Premium vásárlást kínál ismétlődő díjak nélkül. Saját felhőtárhelyét használja zenei fájljai tárolásához.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Melyik a legjobb zenlejátszó offline hallgatáshoz iPhone-on?" closed="true" %}}
+{{% ls-details title="Melyik a legjobb zenlejátszó offline hallgatáshoz iPhone-on?" closed="true" %}}
 Minden fő lejátszó támogatja az offline letöltéseket, de a megközelítés eltér. A Spotify és Apple Music lehetővé teszi számok letöltését katalógusaikból. Az Evermusic lehetővé teszi saját fájlok letöltését felhőalapú tárolóból offline lejátszáshoz -- ideális repülőkre, ingázásra vagy internetkapcsolat nélküli területekre.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Használhatom a felhőalapú zenlejátszót NAS-ommal vagy otthoni szerveremmel?" closed="true" %}}
+{{% ls-details title="Használhatom a felhőalapú zenlejátszót NAS-ommal vagy otthoni szerveremmel?" closed="true" %}}
 Igen. Az Evermusic WebDAV és SMB protokollokat támogat, ami azt jelenti, hogy csatlakozhat a legtöbb Synology, QNAP és Western Digital NAS eszközhöz. Ez iPhone-ját otthoni zenei könyvtárának teljes távirányítós lejátszójává alakítja.
-{{% /details %}}
+{{% /ls-details %}}

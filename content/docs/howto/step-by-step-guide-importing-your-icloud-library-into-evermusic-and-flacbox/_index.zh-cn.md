@@ -7,7 +7,7 @@ tags: ["音乐", "云", "流媒体", "同步", "icloud", "资料库"]
 keywords: ["导入 iCloud 音乐 Evermusic", "Flacbox iCloud 同步", "Evermusic 从 iCloud 流式传输", "音乐资料库 iOS 应用", "Flacbox 元数据读取器", "iCloud 音乐流式传输 iPhone"]
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **摘要：** 您可以在 Evermusic 和 Flacbox 中流式传输 iCloud Drive 音乐资料库，无需将文件下载到设备。在应用中连接 iCloud Drive，启用在线音乐同步来构建资料库，配置元数据读取器按艺术家/专辑/流派整理，并可选择启用离线模式下载专辑以便在没有互联网的情况下收听。这些步骤也适用于 Google Drive、Dropbox、OneDrive 和其他支持的云服务。
@@ -75,26 +75,26 @@ keywords: ["导入 iCloud 音乐 Evermusic", "Flacbox iCloud 同步", "Evermusic
 
 ## 常见问题
 
-{{% details title="我可以不下载文件到 iPhone 就流式传输 iCloud 音乐吗？" closed="true" %}}
+{{% ls-details title="我可以不下载文件到 iPhone 就流式传输 iCloud 音乐吗？" closed="true" %}}
 可以。连接 iCloud Drive 并使用在线音乐同步后，应用创建到云文件的链接并按需流式传输。除非您明确启用离线模式，否则文件不会被下载。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="为什么 iCloud 音乐导入很慢？" closed="true" %}}
+{{% ls-details title="为什么 iCloud 音乐导入很慢？" closed="true" %}}
 导入慢通常是因为通过移动连接读取大型资料库的元数据。启用后台同步并考虑使用 Mac 版本。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="本指南适用于 iCloud 以外的云服务吗？" closed="true" %}}
+{{% ls-details title="本指南适用于 iCloud 以外的云服务吗？" closed="true" %}}
 适用。相同步骤适用于 Google Drive、Dropbox、OneDrive、SMB、WebDAV 和所有其他支持的云服务。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="如何将音乐资料库从 Mac 传输到 iPhone？" closed="true" %}}
+{{% ls-details title="如何将音乐资料库从 Mac 传输到 iPhone？" closed="true" %}}
 使用应用设置中的数据备份/恢复功能。先在 Mac 版本上同步和读取元数据，创建备份，然后在 iOS 版本上恢复。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="元数据读取器会更改我的原始音频文件吗？" closed="true" %}}
+{{% ls-details title="元数据读取器会更改我的原始音频文件吗？" closed="true" %}}
 不会。元数据读取器仅更新音乐资料库中的显示信息。要编辑文件标签，请使用内置标签编辑器。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="如何使专辑可离线使用？" closed="true" %}}
+{{% ls-details title="如何使专辑可离线使用？" closed="true" %}}
 点击云文件夹上的 **更多操作** 并选择 **启用离线模式**。应用下载所有文件并自动保持与云版本同步。
-{{% /details %}}
+{{% /ls-details %}}

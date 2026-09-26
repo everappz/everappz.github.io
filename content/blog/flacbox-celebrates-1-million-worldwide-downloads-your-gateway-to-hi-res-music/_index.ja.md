@@ -12,7 +12,7 @@ authors:
     image: "/images/about/artem-meleshko-founder-everappz.webp"
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 **要約：** Flacboxは世界中で100万ダウンロードを突破しました。FLAC、ALAC、APE、DSDなどのロスレスフォーマットを10バンドイコライザー、M3U/CUEプレイリスト、オフライン再生、iPhone・iPad・Mac間のクロスデバイス同期でサポートしています。
 
@@ -78,26 +78,26 @@ Flacboxは録音されたままの音質で音楽を再生します。対応フ�
 
 ## よくある質問
 
-{{% details title="Flacboxはどのオーディオフォーマットに対応していますか？" closed="true" %}}
+{{% ls-details title="Flacboxはどのオーディオフォーマットに対応していますか？" closed="true" %}}
 FlacboxはFLAC、ALAC、APE、DSD、WavPack、TTA、RealAudio、MP3、AAC、OGGなど多くのフォーマットを再生します。主にロスレスおよびHi-Resオーディオ向けに設計されています。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Flacboxにはイコライザーがありますか？" closed="true" %}}
+{{% ls-details title="Flacboxにはイコライザーがありますか？" closed="true" %}}
 はい。Flacboxにはジャンルプリセットと手動周波数調整が可能な10バンドイコライザーが含まれています。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Flacboxでオフラインで音楽を聴けますか？" closed="true" %}}
+{{% ls-details title="Flacboxでオフラインで音楽を聴けますか？" closed="true" %}}
 はい。クラウドストレージからファイルをダウンロードするか、アプリに直接転送して、インターネット接続なしでオフライン再生できます。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="FlacboxはMacで動作しますか？" closed="true" %}}
+{{% ls-details title="FlacboxはMacで動作しますか？" closed="true" %}}
 はい。FlacboxはiPhone、iPad、Macで動作し、すべてのデバイス間でライブラリと再生履歴が同期されます。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="CUEシートサポートとは何ですか？" closed="true" %}}
+{{% ls-details title="CUEシートサポートとは何ですか？" closed="true" %}}
 CUEシートは1つのオーディオファイル内のトラック境界を定義します。FlacboxはCUEファイルを読み取り、適切なメタデータでアルバムリップを個別のトラックに分割します。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Flacboxは無料ですか？" closed="true" %}}
+{{% ls-details title="Flacboxは無料ですか？" closed="true" %}}
 Flacboxは無料でダウンロードでき、オプションのプレミアム機能がアプリ内購入で利用可能です。
-{{% /details %}}
+{{% /ls-details %}}

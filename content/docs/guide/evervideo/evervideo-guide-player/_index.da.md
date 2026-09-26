@@ -31,7 +31,7 @@ Du kan komme til fuldskærmsafspilleren fra den kompakte afspillerbar. På iPhon
 Den kompakte afspiller forbliver synlig, mens du gennemser dit bibliotek, din filhåndtering eller dine indstillinger, så du aldrig mister din video, mens du leder efter den næste.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evervideo fuldskærms medieafspiller" image="/docs/guide/evervideo/img/evervideo-media-player-fullscreen.webp" >}}
+  {{< ls-card title="" subtitle="Evervideo fuldskærms medieafspiller" image="/docs/guide/evervideo/img/evervideo-media-player-fullscreen.webp" >}}
 {{< /cards >}}
 
 ## Understøttede video- og lydformater
@@ -72,7 +72,7 @@ PiP fungerer med alle videoformater, Evervideo afspiller, herunder cloud-streame
 Den kompakte afspiller er en vedvarende mini-afspiller, der forbliver synlig øverst på alle skærme i appen, mens du gennemser biblioteket, filhåndteringen eller indstillingerne. Tryk på den for at udvide til fuldskærmsafspilleren; swipe ned for at sammenfoldse den igen.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evervideo videoindstillinger fra den kompakte afspiller på startskærmen" image="/docs/guide/evervideo/img/evervideo-video-settings-from-compact-player-view-on-the-main-screen.webp" >}}
+  {{< ls-card title="" subtitle="Evervideo videoindstillinger fra den kompakte afspiller på startskærmen" image="/docs/guide/evervideo/img/evervideo-video-settings-from-compact-player-view-on-the-main-screen.webp" >}}
 {{< /cards >}}
 
 ## AirPlay 2
@@ -115,7 +115,7 @@ Evervideo inkluderer en fuld lydequalizer til at tune videolydsporet til dine h�
 Til justering af billedet leverer Evervideo en dedikeret videoequalizer — juster lysstyrke, kontrast, mætning og farvetone i realtid under afspilning. Ligesom lydequalizer kan brugerdefinerede videoforudindstillinger eksporteres og importeres til deling eller sikkerhedskopi. Brug den til at lyse en mørk scene op på en solrig dag, booste mætning på udvasket indhold eller varme en kold farvecast op.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evervideo videoequalizer" image="/docs/guide/evervideo/img/evervideo-video-equalizer.webp" >}}
+  {{< ls-card title="" subtitle="Evervideo videoequalizer" image="/docs/guide/evervideo/img/evervideo-video-equalizer.webp" >}}
 {{< /cards >}}
 
 ## Videoskaleringstilstand
@@ -144,7 +144,7 @@ Evervideo inkluderer en VR / 360°-visning til sfæriske videofiler. Når du afs
 Tryk på Hastighedsstyringen på afspilleren for at ændre afspilningshastighed — sænk den til analyse (0,25× eller 0,5×) eller øg den til tutorials og forelæsninger (1,25×, 1,5×, 2× og op til 3×). Tryk på konfigurationsikonet i øverste højre hjørne af Hastighedsskærmen for at skifte til præcisionstilstand med finere justeringer. Tonehøjdekorrektion per spor er også tilgængelig.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evervideo afspilningshastighed på den primære værktøjslinje" image="/docs/guide/evervideo/img/evervideo-media-player-playback-speed-on-main-toolbar.webp" >}}
+  {{< ls-card title="" subtitle="Evervideo afspilningshastighed på den primære værktøjslinje" image="/docs/guide/evervideo/img/evervideo-media-player-playback-speed-on-main-toolbar.webp" >}}
 {{< /cards >}}
 
 ## Afspillerkø
@@ -152,7 +152,7 @@ Tryk på Hastighedsstyringen på afspilleren for at ændre afspilningshastighed 
 For at se din afspillerkø skal du trykke på køknappen på afspilleren. Hver video i køen har flere handlinger — tryk på de tre prikker for at se dem. For at omarrangere en video i køen skal du bruge omorganiserings-indikatoren nær titlen og trække den til en ny position.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evervideo afspilningskø" image="/docs/guide/evervideo/img/evervideo-playback-queue.webp" >}}
+  {{< ls-card title="" subtitle="Evervideo afspilningskø" image="/docs/guide/evervideo/img/evervideo-playback-queue.webp" >}}
 {{< /cards >}}
 
 ## Sovende timer
@@ -189,7 +189,7 @@ Tryk på knappen **Flere handlinger "..."** på afspilleren for at få adgang ti
 - **Hjælp** — åbn vejledning.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evervideo afspiller Flere handlinger-skærm" image="/docs/guide/evervideo/img/evervideo-media-player-more-actions.webp" >}}
+  {{< ls-card title="" subtitle="Evervideo afspiller Flere handlinger-skærm" image="/docs/guide/evervideo/img/evervideo-media-player-more-actions.webp" >}}
 {{< /cards >}}
 
 ## Afspillerindstillinger

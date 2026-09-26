@@ -12,7 +12,7 @@ authors:
     image: "/images/about/artem-meleshko-founder-everappz.webp"
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 **Rezumat:** Evermusic 3.6 adaugă integrarea Apple CarPlay, accesibilitate VoiceOver completă, ieșire audio mixtă, reluarea automată a redării, editarea copertelor și tagurilor pentru FLAC/MP3/AIFF și importul fișierelor din iCloud Drive.
 
@@ -78,18 +78,18 @@ Importați fișiere muzicale direct din iCloud Drive și alte aplicații:
 
 ## FAQ
 
-{{% details title="Funcționează Evermusic cu CarPlay?" closed="true" %}}
+{{% ls-details title="Funcționează Evermusic cu CarPlay?" closed="true" %}}
 Da. Începând cu versiunea 3.6, Evermusic suportă complet Apple CarPlay. Puteți răsfoi și reda biblioteca muzicală de pe ecranul integrat al mașinii.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Este Evermusic accesibil pentru utilizatorii nevăzători sau cu vedere slabă?" closed="true" %}}
+{{% ls-details title="Este Evermusic accesibil pentru utilizatorii nevăzători sau cu vedere slabă?" closed="true" %}}
 Da. Evermusic 3.6 include suport VoiceOver complet cu etichete descriptive, indicii și un mod de interfață simplificat.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Pot edita tagurile FLAC pe iPhone cu Evermusic?" closed="true" %}}
+{{% ls-details title="Pot edita tagurile FLAC pe iPhone cu Evermusic?" closed="true" %}}
 Da. Evermusic include un editor de taguri integrat care funcționează cu fișiere FLAC, MP3 și AIFF. Puteți edita titluri, artiști, albume și coperte.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Își amintește Evermusic unde am oprit ascultarea?" closed="true" %}}
+{{% ls-details title="Își amintește Evermusic unde am oprit ascultarea?" closed="true" %}}
 Da. Când „Save Audio Player State" este activat, Evermusic restaurează coada, piesa curentă și poziția exactă de redare când redeschideți aplicația.
-{{% /details %}}
+{{% /ls-details %}}

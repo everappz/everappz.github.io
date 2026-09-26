@@ -7,7 +7,7 @@ tags: ["音楽", "オーディオ", "プレーヤー", "iphone", "再生", "オ�
 readingTime: 5
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **要約:** ブラウザベースのコンバーターまたは無料のClipGrabデスクトップアプリを使用してYouTube動画をMP3に変換します。その後、オフライン再生のためにiPhoneまたはMacのEvermusicにオーディオファイルをインポートします -- インターネット不要です。
@@ -221,30 +221,30 @@ Evermusicを使えば、オフラインでもYouTubeの曲を再生できます�
 
 P.S. YouTubeでも複数の**ビデオチュートリアル**が利用可能です：
 <br><br>
-{{< youtubecard id="TlVpbRvAiwA" title="Descargar Música Gratis Para IOS" >}}
+{{< ls-youtubecard id="TlVpbRvAiwA" title="Descargar Música Gratis Para IOS" >}}
 <br><br>
-{{< youtubecard id="jSDuNguZZNE" title="Evermusic: Free Offline Music Player for iOS (iPhone/iPod/iPad) | Music Files Organization" >}}
+{{< ls-youtubecard id="jSDuNguZZNE" title="Evermusic: Free Offline Music Player for iOS (iPhone/iPod/iPad) | Music Files Organization" >}}
 <br><br>
-{{< youtubecard id="-kY48ktbo2M" title="テクノロジー塾】おすすめiPhone 音楽アプリ「ever music」ストック型篇" >}}
+{{< ls-youtubecard id="-kY48ktbo2M" title="テクノロジー塾】おすすめiPhone 音楽アプリ「ever music」ストック型篇" >}}
 
 ## よくある質問
 
-{{% details title="YouTubeから音楽をダウンロードするのは合法ですか？" closed="true" %}}
+{{% ls-details title="YouTubeから音楽をダウンロードするのは合法ですか？" closed="true" %}}
 コンテンツの著作権状況によります。ロイヤリティフリーおよびCreative Commonsコンテンツは通常、個人使用のためにダウンロードできます。著作権で保護された音楽には適切なライセンスまたは許可が必要です。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Evermusicはどのオーディオ形式をサポートしていますか？" closed="true" %}}
+{{% ls-details title="Evermusicはどのオーディオ形式をサポートしていますか？" closed="true" %}}
 EvermusicはMP3、FLAC、AAC、WAV、OGG、AIFFなど、多くのオーディオ形式をサポートしています。ダウンロードしたほぼすべてのオーディオファイルを再生できます。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="インターネット接続なしでEvermusicを使用できますか？" closed="true" %}}
+{{% ls-details title="インターネット接続なしでEvermusicを使用できますか？" closed="true" %}}
 はい。オーディオファイルがEvermusicにインポートされると、完全にオフラインで再生できます -- インターネット接続は不要です。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="ClipGrabは無料ですか？" closed="true" %}}
+{{% ls-details title="ClipGrabは無料ですか？" closed="true" %}}
 はい。ClipGrabは無料で、MacとWindowsの両方で利用可能です。ダウンロードにはオープンソースのyoutube-dlpライブラリを使用しています。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="MacからiPhoneにダウンロードした音楽を転送するにはどうすればよいですか？" closed="true" %}}
+{{% ls-details title="MacからiPhoneにダウンロードした音楽を転送するにはどうすればよいですか？" closed="true" %}}
 AirDrop、iTunes File Sharing、またはEvermusicの内蔵Wi-Fi Drive機能を使用して、MacからiPhoneにオーディオファイルを転送できます。
-{{% /details %}}
+{{% /ls-details %}}

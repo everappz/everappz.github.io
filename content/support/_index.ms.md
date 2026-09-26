@@ -3,7 +3,9 @@ date: '2025-06-12T17:00:00+00:00'
 title: 'Sokongan'
 ---
 
-{{< lottie src="/images/juicy-json/juicy-girl-is-working-on-laptop-at-a-remote-job.json" width="80%" >}}
+{{< ls-lottie src="/images/juicy-json/juicy-girl-is-working-on-laptop-at-a-remote-job.json" width="80%" >}}
+
+{{< ls-docs-search >}}
 
 ## Perlukan Bantuan? Kami Sedia Membantu
 
@@ -19,9 +21,9 @@ Dengan menghubungi kami, anda mengesahkan bahawa anda telah membaca dan bersetuj
 Untuk menjimatkan masa dan mendapatkan jawapan segera, sila semak sumber yang paling berguna. Banyak soalan lazim sudah dijawab:
 
 {{< cards >}}
-  {{< card icon="book-open" link="/docs/guide" title="Panduan Pengguna" >}}
-  {{< card icon="question-mark-circle" link="/docs/faq" title="Soalan Lazim" >}}
-  {{< card icon="light-bulb" link="/docs/howto" title="Cara Penggunaan" >}}
+  {{< ls-card icon="book-open" link="/docs/guide" title="Panduan Pengguna" >}}
+  {{< ls-card icon="question-mark-circle" link="/docs/faq" title="Soalan Lazim" >}}
+  {{< ls-card icon="light-bulb" link="/docs/howto" title="Cara Penggunaan" >}}
 {{< /cards >}}
 
 Panduan ini direka untuk membantu anda memanfaatkan sepenuhnya aplikasi kami — dari persediaan hingga ciri lanjutan.

@@ -20,7 +20,7 @@ W sekcji List odtwarzania znajdziesz przydatne narzędzia do zarządzania kolekc
 Listy odtwarzania w Flacbox mogą zawierać mieszankę utworów online z chmury, pobranych plików offline i lokalnych plików z urządzenia — wszystko w jednej liście — i odtwarzają się bezproblemowo razem.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox Playlists Main Screen" image="/docs/guide/flacbox/img/playlists-main.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox Playlists Main Screen" image="/docs/guide/flacbox/img/playlists-main.webp" >}}
 {{< /cards >}}
 
 ## Tworzenie Listy Odtwarzania
@@ -63,7 +63,7 @@ Po otwarciu listy odtwarzania pojawia się ekran Szczegóły listy odtwarzania. 
 - **Tryb offline** — pobierz wszystkie utwory z tej listy do plików lokalnych. Wszelkie nowe elementy dodane do listy są również automatycznie pobierane.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox Playlist Detail Screen" image="/docs/guide/flacbox/img/playlist-details-screen.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox Playlist Detail Screen" image="/docs/guide/flacbox/img/playlist-details-screen.webp" >}}
 {{< /cards >}}
 
 ## Więcej Akcji dla Listy Odtwarzania na Ekranie List Odtwarzania
@@ -82,7 +82,7 @@ Możesz uzyskać dostęp do akcji dla listy odtwarzania, stukając przycisk **�
 - **Usuń listę odtwarzania** — usuń listę odtwarzania z biblioteki muzycznej. **Tej akcji nie można cofnąć.**
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox More Actions for a Playlist on the Playlists Main Screen" image="/docs/guide/flacbox/img/more-actions-for-playlist-in-playlists-main-screen.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox More Actions for a Playlist on the Playlists Main Screen" image="/docs/guide/flacbox/img/more-actions-for-playlist-in-playlists-main-screen.webp" >}}
 {{< /cards >}}
 
 ## Więcej Akcji dla Listy Odtwarzania na Ekranie Szczegółów
@@ -110,7 +110,7 @@ Aby zmienić kolejność piosenek na liście odtwarzania, stuknij przycisk **„
 Dla jeszcze prostszego przepływu pracy na długich listach odtwarzania wybierz Więcej akcji → Zmień kolejność piosenek, aby wejść w dedykowany tryb zmiany kolejności metodą przeciągania i upuszczania.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox Rearrange Songs in a Playlist" image="/docs/guide/flacbox/img/playlist-details-rearange-songs.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox Rearrange Songs in a Playlist" image="/docs/guide/flacbox/img/playlist-details-rearange-songs.webp" >}}
 {{< /cards >}}
 
 ## Zmiana Okładki Listy Odtwarzania
@@ -126,7 +126,7 @@ Otwórz listę odtwarzania i stuknij przycisk **„..."** w prawym górnym rogu,
 Otwórz listę odtwarzania, stuknij przycisk **„..."** w prawym górnym rogu i wybierz **Wybierz**, aby wejść w tryb wyboru. Wybierz utwory, które chcesz usunąć, i stuknij **Usuń z listy odtwarzania** na dole ekranu. Potwierdź, stukając **Gotowe**.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox Selection Mode in the Playlist Detail Screen" image="/docs/guide/flacbox/img/selection-mode-playlist-details-screen.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox Selection Mode in the Playlist Detail Screen" image="/docs/guide/flacbox/img/selection-mode-playlist-details-screen.webp" >}}
 {{< /cards >}}
 
 ## Opcje Ścieżki

@@ -7,7 +7,7 @@ tags: ["οδηγός χρήστη", "εκπαιδευτικό εφαρμογής
 ---
 
 
-{{< lottie src="/images/juicy-json/juicy-woman-with-graph-chart.json" width="75%" >}}
+{{< ls-lottie src="/images/juicy-json/juicy-woman-with-graph-chart.json" width="75%" >}}
 
 ## Μάθετε να χρησιμοποιείτε τις εφαρμογές μας
 
@@ -19,4 +19,4 @@ tags: ["οδηγός χρήστη", "εκπαιδευτικό εφαρμογής
 
 ## Επιλέξτε το προϊόν σας
 
-{{< product-doc-cards section="guide" >}}
+{{< ls-product-doc-cards section="guide" >}}

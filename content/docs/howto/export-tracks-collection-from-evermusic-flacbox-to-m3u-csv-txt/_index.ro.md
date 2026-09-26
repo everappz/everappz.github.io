@@ -6,7 +6,7 @@ keywords: ["evermusic export", "flacbox export", "export în m3u", "export playl
 tags: ["evermusic", "recents", "favorites", "export", "m3u", "playlist", "csv", "txt", "album"]
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **Pe scurt:** Evermusic și Flacbox vă permit să exportați orice colecție de piese (recente, preferințe, playlisturi, albume) în fișiere CSV, TXT sau M3U. Folosiți aceste exporturi pentru a face scrobbling pe Last.fm, pentru a crea o copie de rezervă a bibliotecii sau pentru a reda playlisturile pe alte dispozitive.
@@ -157,22 +157,22 @@ Exportarea pieselor din Evermusic și Flacbox vă oferă control complet asupra 
 
 ## FAQ
 
-{{% details title="Ce format de export ar trebui să folosesc pentru scrobbling pe Last.fm?" closed="true" %}}
+{{% ls-details title="Ce format de export ar trebui să folosesc pentru scrobbling pe Last.fm?" closed="true" %}}
 Folosiți CSV. Include marcaje temporale și metadate complete necesare de instrumentele de scrobbling precum Last.fm-Scrubbler-WPF.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Pot exporta orice colecție de piese, nu doar playlisturi?" closed="true" %}}
+{{% ls-details title="Pot exporta orice colecție de piese, nu doar playlisturi?" closed="true" %}}
 Da. Puteți exporta recente, preferințe, albume, playlisturi și orice altă colecție de piese din aplicație folosind aceiași pași.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Va funcționa playlistul meu M3U pe alte dispozitive?" closed="true" %}}
+{{% ls-details title="Va funcționa playlistul meu M3U pe alte dispozitive?" closed="true" %}}
 Dacă alegeți opțiunea URL absolut în timpul exportului, fișierul M3U poate fi redat pe orice dispozitiv care suportă playlisturi M3U. Rețineți că unele URL-uri cloud pot expira în timp.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Este funcția de export gratuită?" closed="true" %}}
+{{% ls-details title="Este funcția de export gratuită?" closed="true" %}}
 Da. Exportarea colecțiilor de piese în M3U, CSV și TXT este disponibilă atât în versiunea gratuită, cât și în versiunea premium a Evermusic și Flacbox.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Ce servicii cloud suportă exportul cu URL absolut?" closed="true" %}}
+{{% ls-details title="Ce servicii cloud suportă exportul cu URL absolut?" closed="true" %}}
 Exportul cu URL absolut este suportat pentru iCloud Drive, pCloud, PanBaidu, MyCloudHome, DLNA, MediaFire, OneDrive, Box, Dropbox, Google Drive și WebDAV (modul oaspete).
-{{% /details %}}
+{{% /ls-details %}}

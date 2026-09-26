@@ -21,7 +21,7 @@ readingTime: 8
 Máte dva spôsoby, ako pridávať médiá do knižnice: **manuálne pridanie** (sami vyberiete, čo sa pridá) alebo **automatická synchronizácia** (Evervideo skenuje určené cloudové priečinky a automaticky pridáva nové súbory, keď sa objavia).
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Mediálna knižnica Evervideo" image="/docs/guide/evervideo/img/evervideo-genres-in-media-library.webp" >}}
+  {{< ls-card title="" subtitle="Mediálna knižnica Evervideo" image="/docs/guide/evervideo/img/evervideo-genres-in-media-library.webp" >}}
 {{< /cards >}}
 
 ## Manuálne pridanie
@@ -92,7 +92,7 @@ Ak nevidíte všetky vaše tituly, uistite sa, že aplikácia naskenovala každ�
 Táto sekcia zobrazuje všetky nedávno prehrané videá s ich poslednou pozíciou prehrávania, aby ste mohli pokračovať v ktoromkoľvek z nich jedným klepnutím. Môžete zmeniť, koľko záznamov zoznam uchováva v Nastavenia → Mediálna knižnica → Nedávne → Zmeniť veľkosť zoznamu, a exportovať zoznam do M3U / CSV / TXT pre zálohovanie histórie sledovania.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evervideo Nedávne — Nedávno sledované videá" image="/docs/guide/evervideo/img/evervideo-recents.webp" >}}
+  {{< ls-card title="" subtitle="Evervideo Nedávne — Nedávno sledované videá" image="/docs/guide/evervideo/img/evervideo-recents.webp" >}}
 {{< /cards >}}
 
 ## Obľúbené
@@ -104,7 +104,7 @@ Označte videá ako obľúbené na obrazovke prehrávača alebo cez ponuku možn
 Evervideo sleduje pozíciu prehrávania každého videa, ktoré sledujete. Každé video v akomkoľvek zozname — Nedávne, Obľúbené, album, žáner, playlist, priečinok — zobrazuje malý indikátor pokroku, takže na prvý pohľad vidíte, koľko ste ho už sledovali. Vďaka tomu je správa dlhých sezón televíznych relácií, playlistov kurzov a maratónskeho sledovania nesmierne jednoduchá.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Detail žánru Evervideo s pokrokom sledovania na súbor" image="/docs/guide/evervideo/img/evervideo-genre-detail-with-playback-progress-for-watched-files.webp" >}}
+  {{< ls-card title="" subtitle="Detail žánru Evervideo s pokrokom sledovania na súbor" image="/docs/guide/evervideo/img/evervideo-genre-detail-with-playback-progress-for-watched-files.webp" >}}
 {{< /cards >}}
 
 ## Horná lišta
@@ -116,7 +116,7 @@ Nachádzajúca sa tesne pod navigačnou lištou, horná lišta ponúka niekoľko
 Funkcia vyhľadávania vám umožňuje nájsť konkrétny titul, album, žáner alebo playlist vo vašej mediálnej knižnici. Na obrazovke Vyhľadávania máte prístup k akciám Zoradiť, Filtrovať a Mriežka / Zoznam. Vyhľadávanie prebieha lokálne oproti databáze mediálnej knižnice, takže funguje plne offline a vracia výsledky v čase písania.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Vyhľadávanie v mediálnej knižnici Evervideo" image="/docs/guide/evervideo/img/evervideo-library-search.webp" >}}
+  {{< ls-card title="" subtitle="Vyhľadávanie v mediálnej knižnici Evervideo" image="/docs/guide/evervideo/img/evervideo-library-search.webp" >}}
 {{< /cards >}}
 
 ## Ponuka možností

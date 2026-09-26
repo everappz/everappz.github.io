@@ -20,7 +20,7 @@ readingTime: 7
 Flacbox 中的播放清單可以包含來自雲端的線上曲目、已下載的離線檔案和裝置本機檔案的混合——所有內容在一個播放清單中——並無縫一起播放。
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox 播放清單主畫面" image="/docs/guide/flacbox/img/playlists-main.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox 播放清單主畫面" image="/docs/guide/flacbox/img/playlists-main.webp" >}}
 {{< /cards >}}
 
 ## 建立播放清單
@@ -63,7 +63,7 @@ Flacbox 中的播放清單可以包含來自雲端的線上曲目、已下載的
 - **離線模式** — 將此播放清單的所有曲目下載到本機檔案。新增到播放清單的任何新項目也會自動下載。
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox 播放清單詳情畫面" image="/docs/guide/flacbox/img/playlist-details-screen.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox 播放清單詳情畫面" image="/docs/guide/flacbox/img/playlist-details-screen.webp" >}}
 {{< /cards >}}
 
 ## 播放清單畫面中播放清單的更多操作
@@ -82,7 +82,7 @@ Flacbox 中的播放清單可以包含來自雲端的線上曲目、已下載的
 - **刪除播放清單** — 從音樂庫中刪除播放清單。**此操作無法復原。**
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox 播放清單主畫面中播放清單的更多操作" image="/docs/guide/flacbox/img/more-actions-for-playlist-in-playlists-main-screen.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox 播放清單主畫面中播放清單的更多操作" image="/docs/guide/flacbox/img/more-actions-for-playlist-in-playlists-main-screen.webp" >}}
 {{< /cards >}}
 
 ## 播放清單詳情畫面中播放清單的更多操作
@@ -110,7 +110,7 @@ Flacbox 中的播放清單可以包含來自雲端的線上曲目、已下載的
 對於長播放清單，選擇更多操作 → 重新排列歌曲進入專用的拖放重新排序模式，工作流程更簡單。
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox 播放清單中重新排列歌曲" image="/docs/guide/flacbox/img/playlist-details-rearange-songs.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox 播放清單中重新排列歌曲" image="/docs/guide/flacbox/img/playlist-details-rearange-songs.webp" >}}
 {{< /cards >}}
 
 ## 更改播放清單封面圖片
@@ -126,7 +126,7 @@ Flacbox 中的播放清單可以包含來自雲端的線上曲目、已下載的
 開啟播放清單，點擊右上角的 **「...」** 按鈕，並選擇**選擇**進入選擇模式。選擇要刪除的曲目並點擊畫面底部的**從播放清單刪除**。點擊**完成**確認。
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox 播放清單詳情畫面中的選擇模式" image="/docs/guide/flacbox/img/selection-mode-playlist-details-screen.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox 播放清單詳情畫面中的選擇模式" image="/docs/guide/flacbox/img/selection-mode-playlist-details-screen.webp" >}}
 {{< /cards >}}
 
 ## 曲目選項

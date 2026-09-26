@@ -7,7 +7,7 @@ tags: ["小工具", "ios17", "動態", "正在播放", "主畫面", "sonoma"]
 keywords: ["Evermusic 小工具", "Flacbox 小工具", "正在播放小工具 iOS", "macOS Sonoma 桌面小工具", "音訊書籤 iPhone", "音樂小工具 Evermusic", "播放控制主畫面", "動態小工具 iOS 17"]
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **摘要：** Evermusic 和 Flacbox 在 iOS 17+ 和 macOS 14 Sonoma+ 上提供互動式正在播放小工具。您可以直接從 iPhone 主畫面或 Mac 桌面控制播放、跳過曲目、新增最愛項目和建立音訊書籤——無需開啟應用程式。
@@ -78,22 +78,22 @@ keywords: ["Evermusic 小工具", "Flacbox 小工具", "正在播放小工具 iO
 
 ## 常見問題
 
-{{% details title="小工具無需開啟應用程式就能運作嗎？" closed="true" %}}
+{{% ls-details title="小工具無需開啟應用程式就能運作嗎？" closed="true" %}}
 是的。在 iOS 17 和 macOS 14 Sonoma 上，小工具按鈕是互動式的，可直接控制播放。應用程式無需在前景執行。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="我應該選擇哪種大小的小工具？" closed="true" %}}
+{{% ls-details title="我應該選擇哪種大小的小工具？" closed="true" %}}
 選擇小型用於基本的播放/暫停和最愛項目。如果需要跳過按鈕，選擇中型。如果還需要音訊書籤，選擇大型。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="我可以使用小工具繼續收聽有聲書嗎？" closed="true" %}}
+{{% ls-details title="我可以使用小工具繼續收聽有聲書嗎？" closed="true" %}}
 可以。在設定中啟用「儲存音訊播放器狀態」，小工具將從您上次的位置繼續播放，即使應用程式已被關閉。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="iPad 上有這些小工具嗎？" closed="true" %}}
+{{% ls-details title="iPad 上有這些小工具嗎？" closed="true" %}}
 有。iPadOS 17 支援與 iPhone 相同的互動式小工具。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Evermusic 和 Flacbox 都有這些小工具嗎？" closed="true" %}}
+{{% ls-details title="Evermusic 和 Flacbox 都有這些小工具嗎？" closed="true" %}}
 是的。正在播放小工具在 Evermusic 和 Flacbox 中均可使用，功能完全相同。
-{{% /details %}}
+{{% /ls-details %}}

@@ -12,7 +12,7 @@ authors:
     image: "/images/about/artem-meleshko-founder-everappz.webp"
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 **Ringkasan:** Evermusic 6.8 menambah integrasi Aliyun Drive dan Synology NAS (dengan QuickConnect), enam kesan skrol kulit album baharu, pemain skrin penuh minimal, pengurusan fail seret dan lepas, dan pemuatan seni album yang lebih pantas. Tersedia sekarang untuk iOS dan macOS.
 
@@ -77,18 +77,18 @@ Evermusic 6.8 memberi tumpuan kepada tiga bidang: keserasian awan yang lebih lua
 
 ## Soalan Lazim
 
-{{% details title="Bagaimana untuk menyambungkan Synology NAS ke Evermusic?" closed="true" %}}
+{{% ls-details title="Bagaimana untuk menyambungkan Synology NAS ke Evermusic?" closed="true" %}}
 Pergi ke tab Sambungan, pilih Synology, dan masukkan QuickConnectID anda. Evermusic bersambung terus tanpa memerlukan alamat IP atau persediaan VPN.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Adakah Aliyun Drive percuma digunakan dengan Evermusic?" closed="true" %}}
+{{% ls-details title="Adakah Aliyun Drive percuma digunakan dengan Evermusic?" closed="true" %}}
 Ya. Jika anda mempunyai akaun Aliyun Drive, anda boleh menyambungkannya ke Evermusic tanpa kos tambahan. Had storan bergantung pada pelan Aliyun Drive anda.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Bolehkah saya menyesuaikan gaya skrol kulit album?" closed="true" %}}
+{{% ls-details title="Bolehkah saya menyesuaikan gaya skrol kulit album?" closed="true" %}}
 Ya. Pergi ke Settings > Audio Player > Personalization > Album Covers Scrolling Style dan pilih daripada enam pilihan: MacDoc, Linear, Rotary, Inverted Rotary, Cylinder, atau CoverFlow.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Adakah skrin pemain minimal berfungsi dengan semua peranti?" closed="true" %}}
+{{% ls-details title="Adakah skrin pemain minimal berfungsi dengan semua peranti?" closed="true" %}}
 Ya. Gaya kulit album skrin penuh tersedia pada semua iPhone, iPad, dan Mac yang disokong yang menjalankan Evermusic 6.8 atau lebih baharu.
-{{% /details %}}
+{{% /ls-details %}}

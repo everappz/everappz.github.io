@@ -7,7 +7,7 @@ tags: ["audio", "iphone", "mp3", "teksty", "lrc", "osadzone", "wyświetl", "poka
 keywords: ["wyświetl osadzone teksty iPhone", "Evermusic pokaż teksty", "plik LRC Evermusic", "tag komentarza audio", "wyświetlanie tekstów Flacbox", "teksty iOS aplikacja muzyczna", "odtwarzacz audio pokaż teksty"]
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **TL;DR:** Evermusic na iPhone i Mac wyświetla osadzone teksty piosenek, tagi komentarzy i zewnętrzne pliki .lrc dla każdego utworu audio. Otwórz odtwarzacz, dotknij **Więcej akcji**, a następnie wybierz **Komentarze**, aby wyświetlić teksty w trzech trybach: Komentarze, Osadzone teksty i Plik LRC.
@@ -68,22 +68,22 @@ Wyświetlanie osadzonych tekstów piosenek, komentarzy lub zsynchronizowanych pl
 
 ## Najczęściej zadawane pytania
 
-{{% details title="Jak wyświetlić osadzone teksty piosenek na moim iPhonie?" closed="true" %}}
+{{% ls-details title="Jak wyświetlić osadzone teksty piosenek na moim iPhonie?" closed="true" %}}
 Otwórz Evermusic, odtwórz utwór, dotknij Więcej akcji w odtwarzaczu pełnoekranowym i wybierz Komentarze. Przesuń palcem do karty Osadzone teksty, aby zobaczyć teksty zapisane w tagach pliku audio.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Co to jest plik LRC i jak działa?" closed="true" %}}
+{{% ls-details title="Co to jest plik LRC i jak działa?" closed="true" %}}
 Plik LRC to plik tekstowy zawierający teksty piosenek z czasem. Po umieszczeniu w tym samym folderze co plik audio o tej samej nazwie, Evermusic odczytuje go i wyświetla zsynchronizowane teksty, które przewijają się podczas odtwarzania.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Czy mogę dodać teksty do moich plików muzycznych na iPhonie?" closed="true" %}}
+{{% ls-details title="Czy mogę dodać teksty do moich plików muzycznych na iPhonie?" closed="true" %}}
 Tak. Użyj aplikacji Evertag, aby edytować tagi ID3 i dodawać lub aktualizować osadzone teksty bezpośrednio na iPhonie. Możesz wkleić tekst w formacie LRC z czasem dla zsynchronizowanych tekstów.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Czy Evermusic obsługuje zsynchronizowane (z czasem) teksty?" closed="true" %}}
+{{% ls-details title="Czy Evermusic obsługuje zsynchronizowane (z czasem) teksty?" closed="true" %}}
 Tak. Evermusic obsługuje teksty z czasem w formacie LRC, zarówno osadzone w tagach audio, jak i dostarczane jako osobny plik `.lrc`.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Jakie formaty audio obsługują osadzone teksty?" closed="true" %}}
+{{% ls-details title="Jakie formaty audio obsługują osadzone teksty?" closed="true" %}}
 MP3, FLAC, AAC, M4A, OGG i większość innych popularnych formatów obsługuje osadzone teksty poprzez swoje odpowiednie standardy tagów.
-{{% /details %}}
+{{% /ls-details %}}

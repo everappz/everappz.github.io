@@ -7,7 +7,7 @@ tags: ["Evermusic", "Pemutaran Tanpa Jeda", "Panduan", "Audio", "Pemutaran", "Cr
 readingTime: 4
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 **Ringkasan:** Buka **Pengaturan > Pemutar audio > Pemutaran tanpa jeda** dan aktifkan sakelar ke **ON**. Sejak saat itu, lagu diputar tanpa jeda, klik, atau bunyi antar lagu. Evermusic melakukan pra-buffer dan mendekode lagu berikutnya saat lagu saat ini masih diputar, lalu berpindah di antara sampel audio pada buffer yang berkelanjutan, sehingga transisinya benar-benar mulus. Ini adalah pemutaran tanpa jeda yang sesungguhnya dan akurat per sampel, bukan crossfade.
 
@@ -73,30 +73,30 @@ Hasilnya adalah album live, set DJ yang disesuaikan ketukannya, atau rekaman alb
 
 ## FAQ
 
-{{% details title="Bagaimana cara mengaktifkan pemutaran tanpa jeda di Evermusic?" closed="true" %}}
+{{% ls-details title="Bagaimana cara mengaktifkan pemutaran tanpa jeda di Evermusic?" closed="true" %}}
 Buka Evermusic, buka Pengaturan > Pemutar audio > Pemutaran tanpa jeda, dan aktifkan sakelar ke ON. Fitur ini nonaktif secara bawaan. Setelah diaktifkan, berlaku untuk semua yang Anda putar dan tetap aktif hingga Anda menonaktifkannya.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Apakah pemutaran tanpa jeda Evermusic benar-benar tanpa jeda atau hanya crossfade?" closed="true" %}}
+{{% ls-details title="Apakah pemutaran tanpa jeda Evermusic benar-benar tanpa jeda atau hanya crossfade?" closed="true" %}}
 Ini adalah pemutaran tanpa jeda yang sesungguhnya dan akurat per sampel. Evermusic mendekode dan melakukan pra-buffer lagu berikutnya saat lagu saat ini diputar, lalu berpindah di antara sampel audio pada buffer berkelanjutan, sehingga tidak ada keheningan, klik, atau padding yang disisipkan dan tidak ada jeda memulai ulang dekoder. Crossfade adalah fitur terpisah dan berbeda yang menumpang-tindihkan dan memadukan lagu; tanpa jeda mempertahankan audio persis seperti yang di-master dan hanya menghilangkan jeda.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Mengapa saya masih mendengar jeda di antara beberapa lagu?" closed="true" %}}
+{{% ls-details title="Mengapa saya masih mendengar jeda di antara beberapa lagu?" closed="true" %}}
 Pastikan pemutaran tanpa jeda diaktifkan ke ON di Pengaturan > Pemutar audio > Pemutaran tanpa jeda. Jika jeda masih ada, mungkin itu memang tertanam dalam rekaman itu sendiri (beberapa file menyertakan beberapa detik keheningan asli di awal atau akhir lagu). Tanpa jeda menghilangkan jeda yang biasanya ditambahkan pemutar di antara lagu; ia tidak dapat menghilangkan keheningan yang merupakan bagian dari file audio.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Apakah pemutaran tanpa jeda berfungsi dengan FLAC dan file lossless lainnya?" closed="true" %}}
+{{% ls-details title="Apakah pemutaran tanpa jeda berfungsi dengan FLAC dan file lossless lainnya?" closed="true" %}}
 Ya. Pemutaran tanpa jeda berfungsi dengan FLAC, Apple Lossless (ALAC), dan format lossy seperti MP3 dan AAC, baik file disimpan secara lokal, di cloud, maupun di server media.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Bisakah saya menggunakan pemutaran tanpa jeda dan crossfade pada saat yang sama?" closed="true" %}}
+{{% ls-details title="Bisakah saya menggunakan pemutaran tanpa jeda dan crossfade pada saat yang sama?" closed="true" %}}
 Tidak. Keduanya melakukan hal yang berlawanan, jadi mengaktifkan pemutaran tanpa jeda otomatis menonaktifkan crossfade. Gunakan tanpa jeda untuk album live, DJ mix, dan rekaman album konsep di mana audio harus dipertahankan persis; gunakan crossfade jika Anda ingin lagu memudar satu sama lain.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Apakah pemutaran tanpa jeda berfungsi saat streaming dari cloud?" closed="true" %}}
+{{% ls-details title="Apakah pemutaran tanpa jeda berfungsi saat streaming dari cloud?" closed="true" %}}
 Ya. Evermusic mulai buffering dan mendekode lagu berikutnya lebih awal, termasuk untuk drive cloud dan server media, sehingga perpindahannya tetap mulus. Pada koneksi yang lebih lambat, Evermusic hanya mulai menyiapkan lagu berikutnya sedikit lebih awal.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Apakah pemutaran tanpa jeda menurunkan kualitas audio?" closed="true" %}}
+{{% ls-details title="Apakah pemutaran tanpa jeda menurunkan kualitas audio?" closed="true" %}}
 Tidak. Pemutaran tanpa jeda tidak mengodekan ulang atau memproses audio Anda. Ini hanya mengubah cara lagu dijadwalkan dan di-buffer sehingga tidak ada jeda di antaranya. Setiap sampel diputar persis seperti yang ada di file.
-{{% /details %}}
+{{% /ls-details %}}

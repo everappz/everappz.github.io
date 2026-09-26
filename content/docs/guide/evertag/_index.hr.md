@@ -55,17 +55,17 @@ Budite mirni znajući da su vaši podaci sigurni. Evertag vam omogućuje postavl
 U ovom vodiču otkrit ćete kako iskoristiti snagu Evertaga na svom iPhoneu, iPadu i Macu, čineći vaše iskustvo upravljanja glazbom besprijekornim i ugodnim.
 
 {{< cards >}}
-  {{< card icon="location-marker" title="Navigacija" subtitle="Naučite kako bez napora navigirati aplikacijom koristeći Tab Bar (za korisnike iPhonea) ili Lijevi izbornik (za korisnike iPada i Maca) za pristup svim funkcijama aplikacije." link="/docs/guide/evertag/evertag-guide-navigation" >}}
+  {{< ls-card icon="location-marker" title="Navigacija" subtitle="Naučite kako bez napora navigirati aplikacijom koristeći Tab Bar (za korisnike iPhonea) ili Lijevi izbornik (za korisnike iPada i Maca) za pristup svim funkcijama aplikacije." link="/docs/guide/evertag/evertag-guide-navigation" >}}
 
-  {{< card icon="cloud" title="Povezivanja" subtitle="Bez napora povežite sve dostupne račune u oblaku sa svojima dragocjenim audio datotekama. Čak možete uređivati online datoteke bez napora koristeći naš integrirani upravitelj datoteka." link="/docs/guide/evertag/evertag-guide-connections" >}}
+  {{< ls-card icon="cloud" title="Povezivanja" subtitle="Bez napora povežite sve dostupne račune u oblaku sa svojima dragocjenim audio datotekama. Čak možete uređivati online datoteke bez napora koristeći naš integrirani upravitelj datoteka." link="/docs/guide/evertag/evertag-guide-connections" >}}
 
-  {{< card icon="folder" title="Lokalne datoteke" subtitle="Pregledajte i organizirajte datoteke pohranjene u mapi Documents aplikacije ili na uređaju. Koristite ugrađeni upravitelj datoteka za uređivanje i upravljanje audio datotekama s lakoćom." link="/docs/guide/evertag/evertag-guide-local-files" >}}
+  {{< ls-card icon="folder" title="Lokalne datoteke" subtitle="Pregledajte i organizirajte datoteke pohranjene u mapi Documents aplikacije ili na uređaju. Koristite ugrađeni upravitelj datoteka za uređivanje i upravljanje audio datotekama s lakoćom." link="/docs/guide/evertag/evertag-guide-local-files" >}}
 
-  {{< card icon="pencil-alt" title="Uređivač oznaka" subtitle="Ovladajte umijećem manipulacije metapodacima audio datoteka. Saznajte kako uređivati metapodatke, transformirati naslovnice albuma i bez napora istovremeno upravljati više datoteka." link="/docs/guide/evertag/evertag-guide-tag-editor" >}}
+  {{< ls-card icon="pencil-alt" title="Uređivač oznaka" subtitle="Ovladajte umijećem manipulacije metapodacima audio datoteka. Saznajte kako uređivati metapodatke, transformirati naslovnice albuma i bez napora istovremeno upravljati više datoteka." link="/docs/guide/evertag/evertag-guide-tag-editor" >}}
 
-  {{< card icon="code" title="Mapiranja polja oznaka" subtitle="Istražite potpuni popis audio oznaka koje podržava aplikacija Evertag, uključujući interna naziva polja i mapiranja prema glavnim formatima metapodataka." link="/docs/guide/evertag/evertag-tag-field-mappings" >}}
+  {{< ls-card icon="code" title="Mapiranja polja oznaka" subtitle="Istražite potpuni popis audio oznaka koje podržava aplikacija Evertag, uključujući interna naziva polja i mapiranja prema glavnim formatima metapodataka." link="/docs/guide/evertag/evertag-tag-field-mappings" >}}
 
-  {{< card icon="adjustments" title="Postavke" subtitle="Otkrijte kako prilagoditi iskustvo aplikacije, fino podešavati performanse, upravljati upotrebom podataka i prilagoditi jezične i korisničke sučeljne preferencije prema vlastitom ukusu." link="/docs/guide/evertag/evertag-guide-settings" >}}
+  {{< ls-card icon="adjustments" title="Postavke" subtitle="Otkrijte kako prilagoditi iskustvo aplikacije, fino podešavati performanse, upravljati upotrebom podataka i prilagoditi jezične i korisničke sučeljne preferencije prema vlastitom ukusu." link="/docs/guide/evertag/evertag-guide-settings" >}}
 
-  {{< card icon="question-mark-circle" title="FAQ" subtitle="Pronađite brze odgovore na uobičajena pitanja u našem FAQ odjeljku." link="/docs/faq/evertag" >}}
+  {{< ls-card icon="question-mark-circle" title="FAQ" subtitle="Pronađite brze odgovore na uobičajena pitanja u našem FAQ odjeljku." link="/docs/faq/evertag" >}}
 {{< /cards >}}

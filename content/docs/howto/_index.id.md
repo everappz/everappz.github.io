@@ -6,7 +6,7 @@ excludeSearch: true
 ---
 
 
-{{< lottie src="/images/juicy-json/juicy-team-analyzes-graphs-and-diagrams.json" width="85%" >}}
+{{< ls-lottie src="/images/juicy-json/juicy-team-analyzes-graphs-and-diagrams.json" width="85%" >}}
 
 Bagian ini menawarkan panduan praktis yang mudah diikuti untuk menggunakan aplikasi Everappz.
 
@@ -14,4 +14,4 @@ Baik Anda baru pertama kali mengatur maupun mencari tips untuk fitur lanjutan, A
 
 Jelajahi tutorial kami untuk memecahkan masalah, mempelajari trik baru, dan memaksimalkan pengalaman penggunaan aplikasi Anda.
 
-{{< posts-list path="/docs/howto" >}}
+{{< ls-posts-list path="/docs/howto" >}}

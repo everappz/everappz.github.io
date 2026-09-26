@@ -7,7 +7,7 @@ keywords: ["DLNA-server iPhone", "UPnP-server iPad", "hur man konfigurerar DLNA 
 readingTime: 9
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 DLNA (även kallat UPnP AV) är den tysta arbetshästen bakom de flesta smarta TV-apparater. Det är ett gemensamt språk som låter en TV eller mediaspelare hitta ett mediabibliotek på samma Wi-Fi och spela från det, utan att något behöver installeras på TV:n. Om din iPhone eller iPad kan fungera som det biblioteket dyker dina foton, videor och musik upp på storbilden av sig själva.
 
@@ -127,44 +127,44 @@ DLNA lämnar filen som den är till TV:n, och TV:n måste kunna avkoda den. Om e
 
 ## Vanliga frågor
 
-{{% details title="Vad är skillnaden mellan DLNA och UPnP?" closed="true" %}}
+{{% ls-details title="Vad är skillnaden mellan DLNA och UPnP?" closed="true" %}}
 De är nära besläktade. UPnP är den underliggande nätverksstandarden, och DLNA är mediaprofilen byggd ovanpå den som TV-apparater och spelare använder för att dela och spela foton, videor och musik. I vardagligt bruk är orden utbytbara. När du slår på TV och mediacenter i Everdisk blir din enhet en DLNA/UPnP-mediaserver som vilken DLNA-klient som helst kan bläddra i.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Behöver jag installera något på min TV?" closed="true" %}}
+{{% ls-details title="Behöver jag installera något på min TV?" closed="true" %}}
 Nej. Om din TV stöder DLNA har den redan en mediaspelare som kan hitta din enhet på Wi-Fi. Du installerar bara Everdisk på den iPhone eller iPad som innehåller innehållet. Om din TV inte stöder DLNA, installera en spelare som VLC eller Kodi på en enhet som är ansluten till den.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Varför visas inte min iPhone på TV:n?" closed="true" %}}
+{{% ls-details title="Varför visas inte min iPhone på TV:n?" closed="true" %}}
 Kontrollera att båda enheterna är på samma Wi-Fi-nätverk. Gästnätverk och vissa kontors- eller hotellnätverk hindrar enheter från att se varandra, vilket stoppar DLNA. Bekräfta sedan att Everdisk är öppet med delningen startad, och att TV och mediacenter är på i Inställningar, Delning, Anslutningar. Om TV:n ändå inte kan hitta den, lägg till servern för hand med enhetsbeskrivningsadressen som slutar på /device-desc.xml.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Behöver DLNA-strömning ett lösenord?" closed="true" %}}
+{{% ls-details title="Behöver DLNA-strömning ett lösenord?" closed="true" %}}
 Nej. DLNA är alltid öppen för alla på samma Wi-Fi medan det är på, vilket är varför det inte finns någon inloggning på TV-sidan. Det är bra på ett hemmanätverk du litar på. På ett nätverk du inte litar på, stäng av TV och mediacenter när du är klar, eller använd SMB-servern med kryptering i stället.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Kan jag strömma till en Chromecast eller Roku?" closed="true" %}}
+{{% ls-details title="Kan jag strömma till en Chromecast eller Roku?" closed="true" %}}
 Chromecast och Roku fungerar inte som DLNA-spelare direkt, så de hittar inte din enhet direkt. Lösningen är att installera en DLNA-app som kan casta, som VLC eller BubbleUPnP på en telefon, och skicka uppspelning till Chromecast eller Roku därifrån. På de flesta andra smarta TV-apparater fungerar DLNA utan något av detta.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="En video spelas utan ljud eller vill inte öppnas. Vad kan jag göra?" closed="true" %}}
+{{% ls-details title="En video spelas utan ljud eller vill inte öppnas. Vad kan jag göra?" closed="true" %}}
 Det är ett format som TV:n inte kan avkoda. Öppna Inställningar, Delning, Videor i Everdisk och sänk Kvalitet så att appen konverterar videon till ett mer kompatibelt format medan den strömmar. Du kan också öppna samma fil via webbläsarlänken, som hanterar fler format.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Kan jag strömma musik, inte bara video?" closed="true" %}}
+{{% ls-details title="Kan jag strömma musik, inte bara video?" closed="true" %}}
 Ja. Slå på Tillåt åtkomst till hela musikbiblioteket, eller lägg till specifika låtar, och starta sedan delningen. Dina låtar visas på vilken DLNA-högtalare, AV-receiver eller TV som helst, med omslag och spårdetaljer. Musik delas alltid i sin originalkvalitet.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Måste appen förbli öppen medan jag tittar?" closed="true" %}}
+{{% ls-details title="Måste appen förbli öppen medan jag tittar?" closed="true" %}}
 Ja. Din iPhone fungerar som servern, och iOS pausar appar som skjuts helt i bakgrunden under lång tid. Håll Everdisk på skärmen medan du strömmar, och anslut till ström under långa pass.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Hur strömmar jag från en iPhone till en annan iPad?" closed="true" %}}
+{{% ls-details title="Hur strömmar jag från en iPhone till en annan iPad?" closed="true" %}}
 Starta delningen på din iPhone, öppna sedan Everdisk på din iPad och gå till fliken Enheter. Din iPhone visas under Tillgängliga enheter som en mediaserver. Tryck på den för att bläddra och spela. Everdisk fungerar som en DLNA-klient och en server, så du behöver ingen annan app.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Är Everdisk gratis?" closed="true" %}}
+{{% ls-details title="Är Everdisk gratis?" closed="true" %}}
 Ja, Everdisk är gratis att ladda ner och DLNA-mediaservern ingår. Ett valfritt engångsköp av Premium Lifetime lägger till extrafunktioner som konvertering av foton och video för äldre TV-apparater, anpassade portar med mera. Du kan konfigurera och använda DLNA-strömning utan att betala.
-{{% /details %}}
+{{% /ls-details %}}
 
 Redo att prova? [Ladda ner Everdisk från App Store](https://apps.apple.com/app/apple-store/id6751851132?pt=95781850&ct=everappzcom&mt=8) och strömma ditt första album till TV:n på ett par minuter. Frågor eller synpunkter? Mejla oss på **support@everappz.com**.

@@ -11,7 +11,7 @@ Evermusic dan Flacbox adalah dua pemutar musik canggih dari Everappz untuk iPhon
 
 **Jawaban singkat:** pilih **Evermusic** jika Anda menginginkan pengalaman mendengarkan serbaguna yang paling mulus, transisi gapless dan crossfade yang mulus, serta akses ke pustaka Apple Music Anda. Pilih **Flacbox** jika Anda seorang audiophile yang menginginkan pembentukan suara mendalam (rak efek dan rantai DSP), mesin audio profesional yang dapat dipilih, serta cakupan format hi-res dan lossless maksimal, termasuk DSD, APE, dan WavPack.
 
-{{< app-details ids="885367198, 1097564256" >}}
+{{< ls-app-details ids="885367198, 1097564256" >}}
 
 ## Tabel Perbandingan Fitur
 
@@ -129,38 +129,38 @@ Keduanya gratis diunduh dengan peningkatan Premium opsional, dan keduanya terhub
 
 ## Pertanyaan yang Sering Diajukan
 
-{{% details title="Apa perbedaan utama antara Evermusic dan Flacbox?" closed="true" %}}
+{{% ls-details title="Apa perbedaan utama antara Evermusic dan Flacbox?" closed="true" %}}
 Keduanya berbagi platform dan koneksi yang sama, tetapi sisi audionya berbeda. Evermusic berjalan di AVPlayer dan Core Audio dari Apple dan merupakan pemutar sehari-hari dengan dukungan format luas, disertai pemutaran gapless sejati, crossfade, spatial audio, dan impor pustaka Apple Music. Flacbox menambahkan mesin audio BASS™ profesional dan dekode FFmpeg, yang menghadirkan rantai DSP dengan 14 filter, lebih banyak efek real-time, pemutaran tracker/MOD, serta dukungan format hi-res dan lossless terluas, termasuk DSD, APE, dan WavPack.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Mana yang lebih baik, Evermusic atau Flacbox?" closed="true" %}}
+{{% ls-details title="Mana yang lebih baik, Evermusic atau Flacbox?" closed="true" %}}
 Tidak ada yang secara mutlak lebih baik; keduanya disetel untuk pendengar yang berbeda. Evermusic lebih baik untuk mendengarkan sehari-hari yang mulus dan untuk orang yang juga menggunakan pustaka Apple Music mereka, berkat pemutaran gapless, crossfade, dan spatial audio. Flacbox lebih baik untuk audiophile yang menginginkan pembentukan suara mendalam, mesin audio profesional yang dapat dipilih, serta cakupan format hi-res dan lossless maksimal.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Apakah Evermusic menggunakan FFmpeg?" closed="true" %}}
+{{% ls-details title="Apakah Evermusic menggunakan FFmpeg?" closed="true" %}}
 Tidak. Evermusic memutar sepenuhnya melalui tumpukan audio native Apple, AVPlayer dan Core Audio, dengan Core Audio menangani efek dan pemrosesannya. Dekode FFmpeg adalah fitur Flacbox, bersama mesin BASS Flacbox yang dapat dipilih.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Apakah Flacbox memiliki pemutaran gapless atau crossfade?" closed="true" %}}
+{{% ls-details title="Apakah Flacbox memiliki pemutaran gapless atau crossfade?" closed="true" %}}
 Tidak. Pemutaran gapless sejati dan crossfade (1 hingga 30 detik) adalah fitur Evermusic. Flacbox sebagai gantinya berfokus pada pemutaran resolusi tinggi, mesin BASS profesional, rak efek, dan rantai DSP.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Aplikasi mana yang lebih baik untuk FLAC, DSD, dan APE?" closed="true" %}}
+{{% ls-details title="Aplikasi mana yang lebih baik untuk FLAC, DSD, dan APE?" closed="true" %}}
 Flacbox. Kedua aplikasi memutar FLAC, tetapi Flacbox adalah spesialis resolusi tinggi dan lossless, dengan dukungan native untuk FLAC, ALAC, DSD (DSF/DFF), APE, WavPack (WV), TTA, OPUS, dan lainnya melalui FFmpeg dan mesin BASS™-nya. Ia juga menawarkan kontrol keluaran yang lebih halus untuk mendengarkan kritis.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Aplikasi mana yang memiliki lebih banyak efek audio dan rantai DSP?" closed="true" %}}
+{{% ls-details title="Aplikasi mana yang memiliki lebih banyak efek audio dan rantai DSP?" closed="true" %}}
 Flacbox. Evermusic memiliki 6 efek (Reverb, Delay, Distortion, Compressor, Crossfeed, dan Normalisasi volume). Flacbox memiliki 11 efek (menambahkan Chorus, Flanger, Phaser, Auto-Wah, Stereo rotation, dan Multi-tap echo) plus rantai DSP rakitan sendiri berisi 14 filter. Rantai DSP eksklusif untuk Flacbox.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Apakah kedua aplikasi mendukung layanan cloud, media server, dan CarPlay yang sama?" closed="true" %}}
+{{% ls-details title="Apakah kedua aplikasi mendukung layanan cloud, media server, dan CarPlay yang sama?" closed="true" %}}
 Ya. Evermusic dan Flacbox terhubung ke penyimpanan cloud yang sama (iCloud Drive, Google Drive, Dropbox, OneDrive, MEGA, pCloud, Internxt, Proton Drive, dan lainnya), media server yang sama (Plex, Subsonic, Navidrome, Jellyfin, Emby), serta protokol komputer dan NAS yang sama (SMB, WebDAV, FTP, SFTP, NFS, DLNA), dengan dukungan native untuk QNAP, Synology, Nextcloud, dan WD My Cloud Home. Keduanya juga mendukung Apple CarPlay, AirPlay, dan Google Chromecast.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Bisakah Evermusic memutar pustaka Apple Music atau iTunes saya?" closed="true" %}}
+{{% ls-details title="Bisakah Evermusic memutar pustaka Apple Music atau iTunes saya?" closed="true" %}}
 Ya. Evermusic dapat mengimpor dan memutar musik dari pustaka Apple Music / iTunes Anda selain sumber cloud dan jaringan. Flacbox dirancang untuk file Anda sendiri dari cloud, NAS, dan penyimpanan lokal, serta tidak mengimpor pustaka Apple Music.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Bisakah saya menggunakan Evermusic dan Flacbox bersamaan?" closed="true" %}}
+{{% ls-details title="Bisakah saya menggunakan Evermusic dan Flacbox bersamaan?" closed="true" %}}
 Ya, dan banyak orang melakukannya. Pengaturan umum adalah Evermusic untuk pemutaran harian yang mulus dan akses pustaka Apple Music, serta Flacbox untuk mendengarkan kritis beresolusi tinggi dengan mesin BASS, efek, dan rantai DSP. Keduanya membaca dari sumber cloud dan NAS yang sama, sehingga pustaka Anda tersedia di aplikasi mana pun. Keduanya gratis diunduh dengan peningkatan Premium dalam aplikasi opsional.
-{{% /details %}}
+{{% /ls-details %}}

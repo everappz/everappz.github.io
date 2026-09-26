@@ -7,7 +7,7 @@ tags: ["muzik", "awan", "penstriman", "pemain", "pemacu", "icloud"]
 readingTime: 5
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **Ringkasan:** Muat naik muzik ke iCloud Drive, pasang [Evermusic](/products/evermusic) (untuk MP3/WAV) atau [Flacbox](/products/flacbox) (untuk FLAC/DSD), sambungkan folder iCloud Drive anda, dan strim terus tanpa menggunakan storan peranti.
@@ -29,8 +29,8 @@ Sebelum anda boleh mula menikmati muzik iCloud Drive anda pada iPhone atau Mac, 
 1. Pergi ke App Store dan muat turun **Evermusic** jika muzik anda disimpan dalam format audio standard seperti mp3 atau wav. Jika anda mempunyai muzik tanpa kehilangan dalam format dsd atau flac, pilih **Flacbox**. Kedua-dua aplikasi tersedia untuk iOS dan MacOS.
 
 {{< cards >}}
-  {{< card link="https://apps.apple.com/us/app/evermusic-cloud-music-player/id885367198" title="Muat Turun Evermusic untuk iOS" icon="download" tag="Percuma" >}}
-  {{< card link="https://apps.apple.com/us/app/flacbox-flac-player-equalizer/id1097564256" title="Muat Turun Flacbox untuk iOS" icon="download" tag="Percuma" >}}
+  {{< ls-card link="https://apps.apple.com/us/app/evermusic-cloud-music-player/id885367198" title="Muat Turun Evermusic untuk iOS" icon="download" tag="Percuma" >}}
+  {{< ls-card link="https://apps.apple.com/us/app/flacbox-flac-player-equalizer/id1097564256" title="Muat Turun Flacbox untuk iOS" icon="download" tag="Percuma" >}}
 {{< /cards >}}
 
 - Untuk MacOS:
@@ -38,8 +38,8 @@ Sebelum anda boleh mula menikmati muzik iCloud Drive anda pada iPhone atau Mac, 
 1. Layari App Store pada Mac anda dan pasang **Evermusic** atau **Flacbox** berdasarkan keutamaan format muzik anda.
 
 {{< cards >}}
-  {{< card link="https://apps.apple.com/us/app/evermusic-cloud-music-player/id1564384601" title="Muat Turun Evermusic untuk Mac" icon="download" tag="Percuma" >}}
-  {{< card link="https://apps.apple.com/us/app/flacbox-hires-music-player/id1594027432" title="Muat Turun Flacbox untuk Mac" icon="download" tag="Percuma" >}}
+  {{< ls-card link="https://apps.apple.com/us/app/evermusic-cloud-music-player/id1564384601" title="Muat Turun Evermusic untuk Mac" icon="download" tag="Percuma" >}}
+  {{< ls-card link="https://apps.apple.com/us/app/flacbox-hires-music-player/id1594027432" title="Muat Turun Flacbox untuk Mac" icon="download" tag="Percuma" >}}
 {{< /cards >}}
 
 Setelah anda memasang aplikasi pada iPhone atau Mac anda, anda bersedia untuk meneruskan.
@@ -215,22 +215,22 @@ Sekarang, teruskan, mulakan penstriman, dan biarkan muzik bermain!
 
 ## FAQ
 
-{{% details title="Format audio apakah yang boleh saya strim dari iCloud Drive?" closed="true" %}}
+{{% ls-details title="Format audio apakah yang boleh saya strim dari iCloud Drive?" closed="true" %}}
 Evermusic menyokong MP3, WAV, AAC, dan format standard lain. Flacbox menambah sokongan untuk FLAC, DSD, OGG, dan OPUS. Pilih aplikasi yang sepadan dengan koleksi muzik anda.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Adakah penstriman dari iCloud Drive menggunakan storan peranti?" closed="true" %}}
+{{% ls-details title="Adakah penstriman dari iCloud Drive menggunakan storan peranti?" closed="true" %}}
 Tidak. Kedua-dua Evermusic dan Flacbox menstrim audio terus dari iCloud Drive anda tanpa memuat turun fail ke peranti anda. Anda boleh memuat turun trek individu secara pilihan untuk pendengaran luar talian.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Bolehkah saya menggunakan muzik iCloud Drive secara luar talian?" closed="true" %}}
+{{% ls-details title="Bolehkah saya menggunakan muzik iCloud Drive secara luar talian?" closed="true" %}}
 Ya. Ketuk menu tiga titik pada mana-mana trek dan pilih pilihan muat turun. Fail akan disimpan secara setempat untuk main balik luar talian.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Mengapa muzik saya berhenti atau terbuffer semasa main balik?" closed="true" %}}
+{{% ls-details title="Mengapa muzik saya berhenti atau terbuffer semasa main balik?" closed="true" %}}
 Ini biasanya disebabkan oleh sambungan internet yang perlahan atau tidak stabil. Aktifkan cache pemain audio dalam Tetapan untuk memuat turun trek seterusnya terlebih dahulu dan mengelakkan gangguan.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Adakah penstriman muzik iCloud Drive percuma?" closed="true" %}}
+{{% ls-details title="Adakah penstriman muzik iCloud Drive percuma?" closed="true" %}}
 Kedua-dua Evermusic dan Flacbox boleh dimuat turun secara percuma. iCloud Drive menawarkan 5 GB storan percuma. Anda boleh menaik taraf pelan storan iCloud anda melalui Apple jika anda memerlukan lebih banyak ruang.
-{{% /details %}}
+{{% /ls-details %}}

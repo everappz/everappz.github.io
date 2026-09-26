@@ -19,7 +19,7 @@ A la secció Llistes de reproducció, trobaràs eines útils per gestionar les c
 Les llistes de reproducció a Evervideo poden contenir una barreja de vídeos al núvol en línia, fitxers descarregats fora de línia, fitxers locals, vídeos de la biblioteca de Fotos i vídeos de la biblioteca de Música iOS — tot a la mateixa llista — i es reprodueixen conjuntament de manera fluida.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Llistes de reproducció a la biblioteca multimèdia d'Evervideo" image="/docs/guide/evervideo/img/evervideo-playlists-in-media-library.webp" >}}
+  {{< ls-card title="" subtitle="Llistes de reproducció a la biblioteca multimèdia d'Evervideo" image="/docs/guide/evervideo/img/evervideo-playlists-in-media-library.webp" >}}
 {{< /cards >}}
 
 ## Crear una llista de reproducció

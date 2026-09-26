@@ -18,7 +18,7 @@ readingTime: 16
 Екран налаштувань — центр керування Evermusic. Звідси ви можете перейти на Premium, налаштувати аудіоплеєр, керувати музичною бібліотекою, налаштувати файловий менеджер, персоналізувати інтерфейс, увімкнути віджети та CarPlay, зробити резервну копію даних та отримати доступ до довідки та правової інформації. Розділи згруповані під заголовками: **Покупки та оновлення**, налаштування програми, **Довідка** та **Юридична інформація та конфіденційність**.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Екран налаштувань Evermusic" image="/docs/guide/evermusic/evermusic-guide-settings/img/settings-main-screen.webp" >}}
+  {{< ls-card title="" subtitle="Екран налаштувань Evermusic" image="/docs/guide/evermusic/evermusic-guide-settings/img/settings-main-screen.webp" >}}
 {{< /cards >}}
 
 ## Покупки та оновлення

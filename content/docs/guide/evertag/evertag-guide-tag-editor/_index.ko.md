@@ -15,7 +15,7 @@ readingTime: 5
 **태그 편집기**는 Evertag 앱의 메인 화면으로 오디오 파일 메타데이터를 보고 편집할 수 있습니다. **로컬 파일** 섹션에서 파일을 탭하거나 연결된 **클라우드 스토리지** 계정에서 파일을 선택하여 이 화면을 여세요.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evertag 태그 편집기 화면" image="/docs/guide/evertag/img/tag-editor.webp" >}}
+  {{< ls-card title="" subtitle="Evertag 태그 편집기 화면" image="/docs/guide/evertag/img/tag-editor.webp" >}}
 {{< /cards >}}
 
 ## 편집 모드
@@ -38,7 +38,7 @@ Evertag는 두 가지 편집 모드를 제공합니다:
 모든 사용 가능한 태그에 액세스하려면 화면 하단으로 스크롤하여 **확장 태그 표시** 옵션을 탭하세요. 그러면 편집기가 확장 모드로 전환되어 **MusicBrainz 태그**, **가사**, **보호자 등급**, 재생 게인 값, 정렬 순서, 팟캐스트 메타데이터 등을 포함한 **120개 이상의 메타데이터 필드**를 편집할 수 있습니다. **설정 → 오디오 태그 편집기 → 메인 화면 버튼**을 사용하여 확장 태그 표시를 항상 켜두도록 영구적으로 설정하세요.
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="하단 작업 패널" image="/docs/guide/evertag/img/tag-editor-bottom-actions.webp" >}}
+{{< ls-card title="" subtitle="하단 작업 패널" image="/docs/guide/evertag/img/tag-editor-bottom-actions.webp" >}}
 {{< /cards >}}
 
 ## 일괄 모드
@@ -53,7 +53,7 @@ Evertag는 두 가지 편집 모드를 제공합니다:
    - 파일을 열고 아래로 스크롤한 다음 **파일 동시 편집**을 탭하여 같은 폴더의 모든 파일을 로드하세요.
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="일괄 편집 모드" image="/docs/guide/evertag/img/tag-editor-batch-editing.webp" >}}
+{{< ls-card title="" subtitle="일괄 편집 모드" image="/docs/guide/evertag/img/tag-editor-batch-editing.webp" >}}
 {{< /cards >}}
 
 편집 후 **저장하다**를 탭하여 변경 사항을 적용하세요.
@@ -72,19 +72,19 @@ Evertag는 두 가지 편집 모드를 제공합니다:
 각 단축키는 해당 서비스가 기기에서 연결 가능할 때만 나타납니다. 서비스를 탭하고 원하는 가사(또는 LRC 타임스탬프)를 복사하고 Evertag로 돌아와서 텍스트 필드에 붙여 넣으면 — **저장하다**를 탭하여 오디오 파일 태그에 가사를 씁니다.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="가사 페이지" image="/docs/guide/evertag/img/tag-editor-lyrics-pages.webp" >}}
+  {{< ls-card title="" subtitle="가사 페이지" image="/docs/guide/evertag/img/tag-editor-lyrics-pages.webp" >}}
 {{< /cards >}}
 
 선택기에서 언어를 선택하세요:
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="가사 언어 선택기" image="/docs/guide/evertag/img/tag-editor-lyrics-language-select.webp" >}}
+  {{< ls-card title="" subtitle="가사 언어 선택기" image="/docs/guide/evertag/img/tag-editor-lyrics-language-select.webp" >}}
 {{< /cards >}}
 
 그런 다음 가사 텍스트를 붙여 넣거나 입력하세요. Evertag는 일반 텍스트와 타임스탬프 (동기화된) 가사 모두 지원합니다 — 플레이스홀더는 Lrclib와 Lyricsify가 동기화된 결과에 반환하는 LRC 스타일 형식의 예를 보여줍니다.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="가사 텍스트 편집기" image="/docs/guide/evertag/img/tag-editor-lyrics-text.webp" >}}
+  {{< ls-card title="" subtitle="가사 텍스트 편집기" image="/docs/guide/evertag/img/tag-editor-lyrics-text.webp" >}}
 {{< /cards >}}
 
 ## 평점 및 보호자 등급 설정
@@ -96,7 +96,7 @@ Evertag는 두 가지 편집 모드를 제공합니다:
 **평점** 필드를 사용하여 트랙에 1~5개의 별로 개인 점수를 부여하세요. 값은 파일의 표준 평점 태그 (ID3의 경우 POPM, MP4의 경우 `rate`, Vorbis/APE의 경우 `RATING` 등)에 기록되므로, 이 태그를 읽는 다른 앱 — Music 앱, Plex, Roon 및 대부분의 데스크톱 태그 편집기 포함 — 이 즉시 점수를 인식합니다.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="평점" image="/docs/guide/evertag/img/tag-editor-rating.webp" >}}
+  {{< ls-card title="" subtitle="평점" image="/docs/guide/evertag/img/tag-editor-rating.webp" >}}
 {{< /cards >}}
 
 ### 보호자 등급
@@ -117,7 +117,7 @@ Evertag는 두 가지 편집 모드를 제공합니다:
 값은 파일 형식의 표준 보호자 등급 필드에 저장됩니다 (MP4의 경우 `rtng`, ID3의 경우 `TXXX:ITUNESADVISORY`, Vorbis의 경우 `ITUNESADVISORY`), 따라서 부모 자문 메타데이터를 읽는 모든 플레이어가 업데이트를 볼 것입니다.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="가사 보호자 등급" image="/docs/guide/evertag/img/lyrics-advisory-rating.webp" >}}
+  {{< ls-card title="" subtitle="가사 보호자 등급" image="/docs/guide/evertag/img/lyrics-advisory-rating.webp" >}}
 {{< /cards >}}
 
 ## 앨범 커버 편집
@@ -129,7 +129,7 @@ Evertag는 두 가지 편집 모드를 제공합니다:
 3. 커버 아트로 적용할 이미지를 선택하세요.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="이미지 선택" image="/docs/guide/evertag/img/select-image.webp" >}}
+  {{< ls-card title="" subtitle="이미지 선택" image="/docs/guide/evertag/img/select-image.webp" >}}
 {{< /cards >}}
 
 ## 태그 편집기의 추가 작업
@@ -137,7 +137,7 @@ Evertag는 두 가지 편집 모드를 제공합니다:
 아트워크 뷰 아래의 도구 모음을 통해 추가 편집 옵션을 사용할 수 있습니다.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="추가 작업 메뉴" image="/docs/guide/evertag/img/tag-editor-more-actions.webp" >}}
+  {{< ls-card title="" subtitle="추가 작업 메뉴" image="/docs/guide/evertag/img/tag-editor-more-actions.webp" >}}
 {{< /cards >}}
 
 ### 오디오 태그 자동 검색
@@ -150,13 +150,13 @@ Evertag는 두 가지 편집 모드를 제공합니다:
 메타데이터를 사용하여 올바른 앨범 아트워크를 웹에서 검색합니다.  
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="앨범 커버 검색" image="/docs/guide/evertag/img/search-album-cover.webp" >}}
+  {{< ls-card title="" subtitle="앨범 커버 검색" image="/docs/guide/evertag/img/search-album-cover.webp" >}}
 {{< /cards >}}
 
 찾으면 시스템 컨텍스트 메뉴를 사용하여 이미지를 **사진**으로 저장하세요.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="사진에 이미지 추가" image="/docs/guide/evertag/img/add-image-to-photos.webp" >}}
+  {{< ls-card title="" subtitle="사진에 이미지 추가" image="/docs/guide/evertag/img/add-image-to-photos.webp" >}}
 {{< /cards >}}
 
 그 후 태그 편집기로 돌아와서 카메라 아이콘을 탭하고 **사진 라이브러리**로 이동한 다음 저장된 이미지를 선택하세요. 앱이 이를 오디오 파일의 커버로 설정합니다.
@@ -178,19 +178,19 @@ MusicBrainz 데이터베이스를 사용하여 앨범 메타데이터를 수동�
 - 앨범 선택  
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="앨범 선택" image="/docs/guide/evertag/img/select-album-results.webp" >}}
+  {{< ls-card title="" subtitle="앨범 선택" image="/docs/guide/evertag/img/select-album-results.webp" >}}
 {{< /cards >}}
 
 - 올바른 노래 선택  
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="노래 선택" image="/docs/guide/evertag/img/select-a-song.webp" >}}
+  {{< ls-card title="" subtitle="노래 선택" image="/docs/guide/evertag/img/select-a-song.webp" >}}
 {{< /cards >}}
 
 - 적용할 태그 선택  
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="오디오 태그 선택" image="/docs/guide/evertag/img/select-audio-tags.webp" >}}
+  {{< ls-card title="" subtitle="오디오 태그 선택" image="/docs/guide/evertag/img/select-audio-tags.webp" >}}
 {{< /cards >}}
 
 **완료됨**을 탭하여 선택한 메타데이터를 트랙에 적용하세요.

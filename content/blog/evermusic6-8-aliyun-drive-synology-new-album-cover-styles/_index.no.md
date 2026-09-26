@@ -12,7 +12,7 @@ authors:
     image: "/images/about/artem-meleshko-founder-everappz.webp"
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 **Sammendrag:** Evermusic 6.8 legger til Aliyun Drive- og Synology NAS-integrering (med QuickConnect), seks nye rulleeffekter for albumomslag, en minimal fullskjermspiller, dra-og-slipp-filhåndtering og raskere lasting av albumkunstverk. Tilgjengelig nå for iOS og macOS.
 
@@ -77,18 +77,18 @@ Evermusic 6.8 fokuserer på tre områder: bredere skykompatibilitet (Aliyun Driv
 
 ## Ofte Stilte Spørsmål
 
-{{% details title="Hvordan kobler jeg Synology NAS til Evermusic?" closed="true" %}}
+{{% ls-details title="Hvordan kobler jeg Synology NAS til Evermusic?" closed="true" %}}
 Gå til Tilkoblinger-fanen, velg Synology og skriv inn din QuickConnectID. Evermusic kobler direkte til uten å kreve IP-adresser eller VPN-oppsett.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Er Aliyun Drive gratis å bruke med Evermusic?" closed="true" %}}
+{{% ls-details title="Er Aliyun Drive gratis å bruke med Evermusic?" closed="true" %}}
 Ja. Hvis du har en Aliyun Drive-konto, kan du koble den til Evermusic uten ekstra kostnad. Lagringsgrenser avhenger av din Aliyun Drive-plan.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Kan jeg tilpasse rullelstilen for albumomslag?" closed="true" %}}
+{{% ls-details title="Kan jeg tilpasse rullelstilen for albumomslag?" closed="true" %}}
 Ja. Gå til Settings > Audio Player > Personalization > Album Covers Scrolling Style og velg mellom seks alternativer: MacDoc, Linear, Rotary, Inverted Rotary, Cylinder eller CoverFlow.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Fungerer den minimale spillerskjermen med alle enheter?" closed="true" %}}
+{{% ls-details title="Fungerer den minimale spillerskjermen med alle enheter?" closed="true" %}}
 Ja. Fullskjerm albumomslagstilen er tilgjengelig på alle støttede iPhones, iPads og Mac-er som kjører Evermusic 6.8 eller nyere.
-{{% /details %}}
+{{% /ls-details %}}

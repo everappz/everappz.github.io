@@ -7,7 +7,7 @@ tags: ["spotify", "εξώφυλλο άλμπουμ", "mp3", "μεταδεδομ�
 readingTime: 3
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **Περίληψη:** Το Spotify δεν σας επιτρέπει να αλλάξετε εξώφυλλα άλμπουμ για κομμάτια streaming, αλλά μπορείτε να ενημερώσετε τα εξώφυλλα για τοπικά αρχεία. Ενεργοποιήστε τη λειτουργία Τοπικών Αρχείων του Spotify, αντιγράψτε τη μουσική σας στο φάκελο του Spotify και χρησιμοποιήστε τη δωρεάν εφαρμογή Evertag για να επεξεργαστείτε εξώφυλλα άλμπουμ και μεταδεδομένα. Οι αλλαγές εμφανίζονται στο Spotify μετά από επανεκκίνηση.
@@ -25,8 +25,8 @@ readingTime: 3
 Ξεκινήστε κατεβάζοντας την εφαρμογή **Evertag** από το App Store. Είναι δωρεάν και διαθέσιμη τόσο σε **iOS** όσο και σε **macOS**.
 
 {{< cards cols="2">}}
-{{< card link="https://apps.apple.com/app/apple-store/id1450763230?pt=95781850&ct=everappzcom&mt=8" title="Evertag για iOS" icon="download" tag="Free" >}}
-{{< card link="https://apps.apple.com/app/apple-store/id1594027661?pt=95781850&ct=everappzcom&mt=8" title="Evertag για macOS" icon="download" tag="Free" >}}
+{{< ls-card link="https://apps.apple.com/app/apple-store/id1450763230?pt=95781850&ct=everappzcom&mt=8" title="Evertag για iOS" icon="download" tag="Free" >}}
+{{< ls-card link="https://apps.apple.com/app/apple-store/id1594027661?pt=95781850&ct=everappzcom&mt=8" title="Evertag για macOS" icon="download" tag="Free" >}}
 {{< /cards >}}
 
 ## Ενεργοποίηση τοπικής βιβλιοθήκης στο Spotify
@@ -36,7 +36,7 @@ readingTime: 3
 ### Ανοίξτε την εφαρμογή Spotify
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Κύρια διεπαφή εφαρμογής Spotify" image="/docs/howto/how-to-change-album-covers-for-local-tracks-on-spotify-step-by-step-guide-mobile-desktop/spotify-main.webp" >}}
+{{< ls-card title="" subtitle="Κύρια διεπαφή εφαρμογής Spotify" image="/docs/howto/how-to-change-album-covers-for-local-tracks-on-spotify-step-by-step-guide-mobile-desktop/spotify-main.webp" >}}
 {{< /cards >}}
 
 ### Πατήστε στο εικονίδιο του προφίλ σας
@@ -44,7 +44,7 @@ readingTime: 3
 Κοιτάξτε στην πάνω αριστερή γωνία της αρχικής οθόνης του Spotify και πατήστε στη φωτογραφία προφίλ σας για να ανοίξετε το μενού.
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Avatar και επιλογές Spotify" image="/docs/howto/how-to-change-album-covers-for-local-tracks-on-spotify-step-by-step-guide-mobile-desktop/spotify-avatar-options.webp" >}}
+{{< ls-card title="" subtitle="Avatar και επιλογές Spotify" image="/docs/howto/how-to-change-album-covers-for-local-tracks-on-spotify-step-by-step-guide-mobile-desktop/spotify-avatar-options.webp" >}}
 {{< /cards >}}
 
 ### Επιλέξτε «Ρυθμίσεις και Απόρρητο»
@@ -52,7 +52,7 @@ readingTime: 3
 Κάντε κύλιση προς τα κάτω στο μενού και επιλέξτε **Ρυθμίσεις και Απόρρητο** για να ανοίξετε την πλήρη λίστα επιλογών.
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Μενού ρυθμίσεων Spotify" image="/docs/howto/how-to-change-album-covers-for-local-tracks-on-spotify-step-by-step-guide-mobile-desktop/spotify-settings.webp" >}}
+{{< ls-card title="" subtitle="Μενού ρυθμίσεων Spotify" image="/docs/howto/how-to-change-album-covers-for-local-tracks-on-spotify-step-by-step-guide-mobile-desktop/spotify-settings.webp" >}}
 {{< /cards >}}
 
 ### Επιλέξτε «Εφαρμογές και Συσκευές»
@@ -60,7 +60,7 @@ readingTime: 3
 Βρείτε και πατήστε στο στοιχείο μενού **Εφαρμογές και Συσκευές** για να δείτε τις ρυθμίσεις ενσωμάτωσης συσκευών.
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Εφαρμογές και Συσκευές Spotify" image="/docs/howto/how-to-change-album-covers-for-local-tracks-on-spotify-step-by-step-guide-mobile-desktop/spotify-apps-and-devices.webp" >}}
+{{< ls-card title="" subtitle="Εφαρμογές και Συσκευές Spotify" image="/docs/howto/how-to-change-album-covers-for-local-tracks-on-spotify-step-by-step-guide-mobile-desktop/spotify-apps-and-devices.webp" >}}
 {{< /cards >}}
 
 ### Ενεργοποιήστε τα «Τοπικά αρχεία ήχου»
@@ -68,7 +68,7 @@ readingTime: 3
 Ενεργοποιήστε τον διακόπτη για **Τοπικά αρχεία ήχου**. Όταν σας ζητηθεί, δώστε στο Spotify άδεια πρόσβασης στα αρχεία μουσικής σας.
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Παραχώρηση πρόσβασης στο Spotify στα αρχεία μουσικής" image="/docs/howto/how-to-change-album-covers-for-local-tracks-on-spotify-step-by-step-guide-mobile-desktop/spotify-access-to-music.webp" >}}
+{{< ls-card title="" subtitle="Παραχώρηση πρόσβασης στο Spotify στα αρχεία μουσικής" image="/docs/howto/how-to-change-album-covers-for-local-tracks-on-spotify-step-by-step-guide-mobile-desktop/spotify-access-to-music.webp" >}}
 {{< /cards >}}
 
 ### Ελέγξτε τον φάκελο Spotify
@@ -76,7 +76,7 @@ readingTime: 3
 Μόλις δοθεί η άδεια, ανοίξτε την εφαρμογή **Αρχεία**, μεταβείτε στις **Τοποθεσίες > Στο iPhone/iPad μου** και βρείτε τον φάκελο **Spotify**. Εδώ πρέπει να τοποθετηθούν τα τοπικά αρχεία μουσικής.
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Αρχεία μουσικής Spotify" image="/docs/howto/how-to-change-album-covers-for-local-tracks-on-spotify-step-by-step-guide-mobile-desktop/files-app-spotify-folder.webp" >}}
+{{< ls-card title="" subtitle="Αρχεία μουσικής Spotify" image="/docs/howto/how-to-change-album-covers-for-local-tracks-on-spotify-step-by-step-guide-mobile-desktop/files-app-spotify-folder.webp" >}}
 {{< /cards >}}
 
 ## Τοποθέτηση αρχείων μουσικής στον φάκελο τοπικής βιβλιοθήκης του Spotify
@@ -90,7 +90,7 @@ readingTime: 3
 ### Ανοίξτε την εφαρμογή Αρχεία – Τοποθεσίες – Σε αυτή τη συσκευή
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Φάκελος Spotify" image="/docs/howto/how-to-change-album-covers-for-local-tracks-on-spotify-step-by-step-guide-mobile-desktop/files-app-spotify-folder.webp" >}}
+{{< ls-card title="" subtitle="Φάκελος Spotify" image="/docs/howto/how-to-change-album-covers-for-local-tracks-on-spotify-step-by-step-guide-mobile-desktop/files-app-spotify-folder.webp" >}}
 {{< /cards >}}
 
 ### Αντιγράψτε τον φάκελο μουσικής
@@ -98,7 +98,7 @@ readingTime: 3
 Μεταβείτε στον φάκελο **Μουσική**. Πατήστε παρατεταμένα για να ανοίξετε το μενού περιβάλλοντος και επιλέξτε **Αντιγραφή**.
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Πρόσβαση στις επιλογές φακέλου στην εφαρμογή Αρχεία" image="/docs/howto/how-to-change-album-covers-for-local-tracks-on-spotify-step-by-step-guide-mobile-desktop/files-app-folder-options.webp" >}}
+{{< ls-card title="" subtitle="Πρόσβαση στις επιλογές φακέλου στην εφαρμογή Αρχεία" image="/docs/howto/how-to-change-album-covers-for-local-tracks-on-spotify-step-by-step-guide-mobile-desktop/files-app-folder-options.webp" >}}
 {{< /cards >}}
 
 ### Επικολλήστε τον φάκελο μουσικής
@@ -106,7 +106,7 @@ readingTime: 3
 Μεταβείτε στον φάκελο **Spotify**, πατήστε παρατεταμένα σε μια κενή περιοχή και επιλέξτε **Επικόλληση** από το μενού περιβάλλοντος.
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Επικόλληση φακέλου στην τοποθεσία προορισμού" image="/docs/howto/how-to-change-album-covers-for-local-tracks-on-spotify-step-by-step-guide-mobile-desktop/files-app-paste-folder.webp" >}}
+{{< ls-card title="" subtitle="Επικόλληση φακέλου στην τοποθεσία προορισμού" image="/docs/howto/how-to-change-album-covers-for-local-tracks-on-spotify-step-by-step-guide-mobile-desktop/files-app-paste-folder.webp" >}}
 {{< /cards >}}
 
 ### Περιμένετε τη διαδικασία αντιγραφής
@@ -114,7 +114,7 @@ readingTime: 3
 Περιμένετε μέχρι το σύστημα να ολοκληρώσει την αντιγραφή του φακέλου μουσικής σας στον τοπικό κατάλογο του Spotify.
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Αντιγραφή αρχείων μουσικής χρησιμοποιώντας την εφαρμογή Αρχεία" image="/docs/howto/how-to-change-album-covers-for-local-tracks-on-spotify-step-by-step-guide-mobile-desktop/files-app-copying-music.webp" >}}
+{{< ls-card title="" subtitle="Αντιγραφή αρχείων μουσικής χρησιμοποιώντας την εφαρμογή Αρχεία" image="/docs/howto/how-to-change-album-covers-for-local-tracks-on-spotify-step-by-step-guide-mobile-desktop/files-app-copying-music.webp" >}}
 {{< /cards >}}
 
 ### Ανοίξτε την τοπική βιβλιοθήκη Spotify
@@ -122,7 +122,7 @@ readingTime: 3
 Τώρα επιστρέψτε στην εφαρμογή Spotify. Πατήστε **Η βιβλιοθήκη σου > Τοπικά αρχεία** και θα δείτε τα αρχεία μουσικής που μόλις αντιγράψατε.
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Το Spotify εμφανίζει την τοπική βιβλιοθήκη μουσικής" image="/docs/howto/how-to-change-album-covers-for-local-tracks-on-spotify-step-by-step-guide-mobile-desktop/spotify-local-music-library.webp" >}}
+{{< ls-card title="" subtitle="Το Spotify εμφανίζει την τοπική βιβλιοθήκη μουσικής" image="/docs/howto/how-to-change-album-covers-for-local-tracks-on-spotify-step-by-step-guide-mobile-desktop/spotify-local-music-library.webp" >}}
 {{< /cards >}}
 
 ## Σύνδεση του φακέλου Spotify στην εφαρμογή Evertag
@@ -149,26 +149,26 @@ readingTime: 3
 - Κάντε κύλιση στα **Αρχεία σε αυτή τη συσκευή** στην πλαϊνή μπάρα
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Προβολή όλων των φακέλων συσκευής στο Evertag" image="/docs/howto/how-to-change-album-covers-for-local-tracks-on-spotify-step-by-step-guide-mobile-desktop/evertag-all-device-folders.webp" >}}
+{{< ls-card title="" subtitle="Προβολή όλων των φακέλων συσκευής στο Evertag" image="/docs/howto/how-to-change-album-covers-for-local-tracks-on-spotify-step-by-step-guide-mobile-desktop/evertag-all-device-folders.webp" >}}
 {{< /cards >}}
 
 - Πατήστε **Όλοι οι φάκελοι συσκευής**
 - Πατήστε **Σύνδεση φακέλου**
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Σύνδεση φακέλου χρησιμοποιώντας τον επιλογέα αρχείων" image="/docs/howto/how-to-change-album-covers-for-local-tracks-on-spotify-step-by-step-guide-mobile-desktop/evertag-connect-folder-files-picker.webp" >}}
+{{< ls-card title="" subtitle="Σύνδεση φακέλου χρησιμοποιώντας τον επιλογέα αρχείων" image="/docs/howto/how-to-change-album-covers-for-local-tracks-on-spotify-step-by-step-guide-mobile-desktop/evertag-connect-folder-files-picker.webp" >}}
 {{< /cards >}}
 
 - Επιλέξτε τον φάκελο **Spotify** και πατήστε **Άνοιγμα** για επιβεβαίωση
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Σύνδεση φακέλου με τοπικά αρχεία Spotify" image="/docs/howto/how-to-change-album-covers-for-local-tracks-on-spotify-step-by-step-guide-mobile-desktop/evertag-connect-folder-spotify-local.webp" >}}
+{{< ls-card title="" subtitle="Σύνδεση φακέλου με τοπικά αρχεία Spotify" image="/docs/howto/how-to-change-album-covers-for-local-tracks-on-spotify-step-by-step-guide-mobile-desktop/evertag-connect-folder-spotify-local.webp" >}}
 {{< /cards >}}
 
 - Πατήστε στον συνδεδεμένο φάκελο για να δείτε και να επεξεργαστείτε τα περιεχόμενά του
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Φάκελος συνδέθηκε επιτυχώς στο Evertag" image="/docs/howto/how-to-change-album-covers-for-local-tracks-on-spotify-step-by-step-guide-mobile-desktop/evertag-connected-folder.webp" >}}
+{{< ls-card title="" subtitle="Φάκελος συνδέθηκε επιτυχώς στο Evertag" image="/docs/howto/how-to-change-album-covers-for-local-tracks-on-spotify-step-by-step-guide-mobile-desktop/evertag-connected-folder.webp" >}}
 {{< /cards >}}
 
 ## Επεξεργαστής ετικετών
@@ -176,7 +176,7 @@ readingTime: 3
 Ο **Επεξεργαστής ετικετών** είναι ο κύριος χώρος εργασίας όπου προβάλλετε και τροποποιείτε τα μεταδεδομένα των αρχείων ήχου σας.
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Περιήγηση στα περιεχόμενα του συνδεδεμένου φακέλου" image="/docs/howto/how-to-change-album-covers-for-local-tracks-on-spotify-step-by-step-guide-mobile-desktop/evertag-connected-folder-content.webp" >}}
+{{< ls-card title="" subtitle="Περιήγηση στα περιεχόμενα του συνδεδεμένου φακέλου" image="/docs/howto/how-to-change-album-covers-for-local-tracks-on-spotify-step-by-step-guide-mobile-desktop/evertag-connected-folder-content.webp" >}}
 {{< /cards >}}
 
 ## Λειτουργίες επεξεργασίας
@@ -221,25 +221,25 @@ readingTime: 3
 1. Πατήστε στο **εικονίδιο κάμερας** στο καρουζέλ εξωφύλλων
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Επιλογή προσαρμοσμένης φωτογραφίας εξωφύλλου άλμπουμ" image="/docs/howto/how-to-change-album-covers-for-local-tracks-on-spotify-step-by-step-guide-mobile-desktop/evertag-choose-photo.webp" >}}
+{{< ls-card title="" subtitle="Επιλογή προσαρμοσμένης φωτογραφίας εξωφύλλου άλμπουμ" image="/docs/howto/how-to-change-album-covers-for-local-tracks-on-spotify-step-by-step-guide-mobile-desktop/evertag-choose-photo.webp" >}}
 {{< /cards >}}
 
 2. Επιλέξτε πηγή εικόνας (Βιβλιοθήκη φωτογραφιών, Τοπικά αρχεία, Cloud)
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Πρόσβαση στη βιβλιοθήκη φωτογραφιών για επιλογή εξωφύλλου" image="/docs/howto/how-to-change-album-covers-for-local-tracks-on-spotify-step-by-step-guide-mobile-desktop/evertag-photo-library.webp" >}}
+{{< ls-card title="" subtitle="Πρόσβαση στη βιβλιοθήκη φωτογραφιών για επιλογή εξωφύλλου" image="/docs/howto/how-to-change-album-covers-for-local-tracks-on-spotify-step-by-step-guide-mobile-desktop/evertag-photo-library.webp" >}}
 {{< /cards >}}
 
 3. Επιλέξτε την εικόνα για χρήση ως εξώφυλλο
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Προεπισκόπηση επεξεργασμένου εξωφύλλου άλμπουμ" image="/docs/howto/how-to-change-album-covers-for-local-tracks-on-spotify-step-by-step-guide-mobile-desktop/evertag-edited-album-cover.webp" >}}
+{{< ls-card title="" subtitle="Προεπισκόπηση επεξεργασμένου εξωφύλλου άλμπουμ" image="/docs/howto/how-to-change-album-covers-for-local-tracks-on-spotify-step-by-step-guide-mobile-desktop/evertag-edited-album-cover.webp" >}}
 {{< /cards >}}
 
 4. Πατήστε **Αποθήκευση** για να εφαρμόσετε τις αλλαγές
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Αποθήκευση ενημερωμένων ετικετών ήχου" image="/docs/howto/how-to-change-album-covers-for-local-tracks-on-spotify-step-by-step-guide-mobile-desktop/evertag-save-tags.webp" >}}
+{{< ls-card title="" subtitle="Αποθήκευση ενημερωμένων ετικετών ήχου" image="/docs/howto/how-to-change-album-covers-for-local-tracks-on-spotify-step-by-step-guide-mobile-desktop/evertag-save-tags.webp" >}}
 {{< /cards >}}
 
 ## Ενημέρωση βιβλιοθήκης Spotify
@@ -247,7 +247,7 @@ readingTime: 3
 Αφού αποθηκεύσετε τις ετικέτες σας, επιστρέψτε στην εφαρμογή Spotify.
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Περιήγηση στη μουσική βιβλιοθήκη Spotify" image="/docs/howto/how-to-change-album-covers-for-local-tracks-on-spotify-step-by-step-guide-mobile-desktop/spotify-library.webp" >}}
+{{< ls-card title="" subtitle="Περιήγηση στη μουσική βιβλιοθήκη Spotify" image="/docs/howto/how-to-change-album-covers-for-local-tracks-on-spotify-step-by-step-guide-mobile-desktop/spotify-library.webp" >}}
 {{< /cards >}}
 
 Ανοίξτε ξανά την ενότητα **Τοπικά αρχεία**. Θα πρέπει τώρα να βλέπετε ενημερωμένα εξώφυλλα και ετικέτες για τα τοπικά κομμάτια σας.
@@ -255,7 +255,7 @@ readingTime: 3
 > Αν οι ενημερώσεις δεν εμφανίζονται αμέσως, **κλείστε αναγκαστικά το Spotify** και ανοίξτε το ξανά. Αυτό ενεργοποιεί μια ανανέωση μεταδεδομένων.
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Αναπαραγωγή κομματιού με επεξεργασμένη ετικέτα" image="/docs/howto/how-to-change-album-covers-for-local-tracks-on-spotify-step-by-step-guide-mobile-desktop/spotify-playing-edited-tag.webp" >}}
+{{< ls-card title="" subtitle="Αναπαραγωγή κομματιού με επεξεργασμένη ετικέτα" image="/docs/howto/how-to-change-album-covers-for-local-tracks-on-spotify-step-by-step-guide-mobile-desktop/spotify-playing-edited-tag.webp" >}}
 {{< /cards >}}
 
 ## Συμπέρασμα
@@ -268,26 +268,26 @@ readingTime: 3
 
 ## Συχνές ερωτήσεις
 
-{{% details title="Μπορώ να αλλάξω εξώφυλλα άλμπουμ για κομμάτια streaming του Spotify;" closed="true" %}}
+{{% ls-details title="Μπορώ να αλλάξω εξώφυλλα άλμπουμ για κομμάτια streaming του Spotify;" closed="true" %}}
 Όχι. Το Spotify δεν επιτρέπει την αλλαγή εξωφύλλων για κομμάτια στον κατάλογο streaming του. Μπορείτε να επεξεργαστείτε εξώφυλλα άλμπουμ μόνο για τοπικά αρχεία που έχουν προστεθεί στη βιβλιοθήκη Spotify σας.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Είναι δωρεάν το Evertag;" closed="true" %}}
+{{% ls-details title="Είναι δωρεάν το Evertag;" closed="true" %}}
 Ναι. Το Evertag είναι δωρεάν για λήψη και χρήση τόσο σε iOS όσο και σε macOS. Υποστηρίζει πάνω από 120 ετικέτες ήχου και 30+ μορφές αρχείων.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Ποιες μορφές ήχου υποστηρίζει το Evertag;" closed="true" %}}
+{{% ls-details title="Ποιες μορφές ήχου υποστηρίζει το Evertag;" closed="true" %}}
 Το Evertag υποστηρίζει 30+ μορφές συμπεριλαμβανομένων MP3, FLAC, AAC, ALAC, WAV, AIFF, OGG, WMA και άλλων.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Γιατί το Spotify δεν εμφανίζει το ενημερωμένο εξώφυλλο άλμπουμ μου;" closed="true" %}}
+{{% ls-details title="Γιατί το Spotify δεν εμφανίζει το ενημερωμένο εξώφυλλο άλμπουμ μου;" closed="true" %}}
 Κλείστε αναγκαστικά την εφαρμογή Spotify και ανοίξτε την ξανά. Το Spotify αποθηκεύει μεταδεδομένα στην κρυφή μνήμη και χρειάζεται επανεκκίνηση για να ανιχνεύσει αλλαγές στα τοπικά αρχεία.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Μπορώ να επεξεργαστώ ετικέτες για πολλαπλά αρχεία ταυτόχρονα;" closed="true" %}}
+{{% ls-details title="Μπορώ να επεξεργαστώ ετικέτες για πολλαπλά αρχεία ταυτόχρονα;" closed="true" %}}
 Ναι. Το Evertag υποστηρίζει μαζική επεξεργασία. Επιλέξτε πολλαπλά αρχεία και πατήστε «Επεξεργασία πολλαπλών αρχείων ταυτόχρονα» για να ενημερώσετε ετικέτες και εξώφυλλα για όλα τα επιλεγμένα κομμάτια ταυτόχρονα.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Χρειάζεται να αντιγράψω αρχεία στον φάκελο Spotify;" closed="true" %}}
+{{% ls-details title="Χρειάζεται να αντιγράψω αρχεία στον φάκελο Spotify;" closed="true" %}}
 Ναι. Το Spotify διαβάζει τοπικά αρχεία μόνο από τον αποκλειστικό φάκελό του. Αντιγράψτε ή μετακινήστε τα αρχεία μουσικής σας στον φάκελο Spotify στη συσκευή σας και ενεργοποιήστε τον διακόπτη Τοπικών αρχείων ήχου στις ρυθμίσεις του Spotify.
-{{% /details %}}
+{{% /ls-details %}}

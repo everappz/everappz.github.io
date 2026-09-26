@@ -12,7 +12,7 @@ authors:
     image: "/images/about/artem-meleshko-founder-everappz.webp"
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 **TL;DR:** सबसे अच्छा iPhone म्यूज़िक प्लेयर आपकी ज़रूरतों पर निर्भर करता है। **Evermusic** क्लाउड स्टोरेज प्लेबैक और फ़ॉर्मेट लचीलेपन के लिए आदर्श है। **Apple Music** Apple इकोसिस्टम में गहराई से जुड़े लोगों के लिए उपयुक्त है। **Spotify** संगीत की खोज में उत्कृष्ट है। **VLC** हर फ़ाइल फ़ॉर्मेट को मुफ़्त में चलाता है। **Amazon Music** Alexa और Prime के साथ अच्छी तरह जुड़ता है।
 
@@ -128,22 +128,22 @@ Amazon Music Amazon इकोसिस्टम के साथ इंटीग
 
 ## FAQ
 
-{{% details title="iPhone के लिए सबसे अच्छा मुफ़्त म्यूज़िक प्लेयर कौन सा है?" closed="true" %}}
+{{% ls-details title="iPhone के लिए सबसे अच्छा मुफ़्त म्यूज़िक प्लेयर कौन सा है?" closed="true" %}}
 अपनी फ़ाइलें चलाने के लिए, Evermusic और VLC दोनों मुफ़्त विकल्प हैं। Evermusic क्लाउड स्टोरेज इंटीग्रेशन जोड़ता है, जबकि VLC फ़ाइल फ़ॉर्मेट की सबसे विस्तृत रेंज का समर्थन करता है।
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="क्या मैं iPhone पर FLAC फ़ाइलें चला सकता हूँ?" closed="true" %}}
+{{% ls-details title="क्या मैं iPhone पर FLAC फ़ाइलें चला सकता हूँ?" closed="true" %}}
 हाँ। Evermusic और VLC दोनों iPhone पर FLAC प्लेबैक का समर्थन करते हैं। Apple Music और Spotify सीधे FLAC फ़ाइलें नहीं चलाते।
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="कौन सा म्यूज़िक प्लेयर ऐप क्लाउड स्टोरेज के साथ काम करता है?" closed="true" %}}
+{{% ls-details title="कौन सा म्यूज़िक प्लेयर ऐप क्लाउड स्टोरेज के साथ काम करता है?" closed="true" %}}
 Evermusic बिल्ट-इन क्लाउड स्टोरेज सपोर्ट वाला प्रमुख iPhone म्यूज़िक प्लेयर है। यह iCloud Drive, Dropbox, Google Drive, OneDrive, pCloud और अन्य सर्विसेज़ से जुड़ता है।
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="क्या Evermusic Apple Music से बेहतर है?" closed="true" %}}
+{{% ls-details title="क्या Evermusic Apple Music से बेहतर है?" closed="true" %}}
 वे अलग-अलग उद्देश्यों की पूर्ति करते हैं। Evermusic क्लाउड स्टोरेज और लोकल स्टोरेज से आपकी अपनी म्यूज़िक फ़ाइलें चलाता है। Apple Music 100M+ गानों के कैटलॉग वाली सब्सक्रिप्शन स्ट्रीमिंग सर्विस है। अगर आपके पास अपनी म्यूज़िक फ़ाइलें हैं, तो Evermusic बेहतर विकल्प है।
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="क्या मैं iPhone पर Spotify ऑफ़लाइन इस्तेमाल कर सकता हूँ?" closed="true" %}}
+{{% ls-details title="क्या मैं iPhone पर Spotify ऑफ़लाइन इस्तेमाल कर सकता हूँ?" closed="true" %}}
 हाँ, लेकिन केवल Spotify Premium सब्सक्रिप्शन के साथ। मुफ़्त Spotify उपयोगकर्ता ऑफ़लाइन प्लेबैक के लिए गाने डाउनलोड नहीं कर सकते।
-{{% /details %}}
+{{% /ls-details %}}

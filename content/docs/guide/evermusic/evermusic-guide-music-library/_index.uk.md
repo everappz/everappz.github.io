@@ -15,7 +15,7 @@ readingTime: 11
 Керувати своєю музичною бібліотекою з Evermusic дуже просто — ви можете без зусиль організувати всі свої треки. У вас є два варіанти побудови музичної бібліотеки: ручне додавання або автоматична синхронізація.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Екран «Музична бібліотека» в Evermusic" image="/docs/guide/evermusic/evermusic-guide-music-library/img/music-library-main.webp" >}}
+  {{< ls-card title="" subtitle="Екран «Музична бібліотека» в Evermusic" image="/docs/guide/evermusic/evermusic-guide-music-library/img/music-library-main.webp" >}}
 {{< /cards >}}
 
 ## Ручне додавання
@@ -23,7 +23,7 @@ readingTime: 11
 Щоб вручну додати треки, натисніть на пункт меню «Додати музику» та виберіть папки/файли з підключеного хмарного сховища або файли на вашому пристрої. Коли ви додаєте треки до бібліотеки, створюються лише посилання на ці треки, зберігаючи реальні файли в їх оригінальних місцях для економії дискового простору. Якщо ви хочете зробити треки доступними офлайн, ви можете скористатися дією завантаження з меню параметрів або увімкнути офлайн-режим для плейлистів та колекцій треків.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Додавання пісень до Музичної бібліотеки" image="/docs/guide/evermusic/evermusic-guide-music-library/img/music-library-add-songs.webp" >}}
+  {{< ls-card title="" subtitle="Додавання пісень до Музичної бібліотеки" image="/docs/guide/evermusic/evermusic-guide-music-library/img/music-library-add-songs.webp" >}}
 {{< /cards >}}
 
 ## Швидкий доступ
@@ -75,7 +75,7 @@ readingTime: 11
 Розташована безпосередньо під навігаційною панеллю, верхня панель інструментів пропонує кілька зручних дій: «Пошук», «Відтворити все», «Перемішати все» та «Продовжити відтворення». Ви можете показати або приховати цю панель простим жестом проведення вниз.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Перегляд альбомів — згруповано за музичними тегами" image="/docs/guide/evermusic/evermusic-guide-music-library/img/music-library-albums.webp" >}}
+  {{< ls-card title="" subtitle="Перегляд альбомів — згруповано за музичними тегами" image="/docs/guide/evermusic/evermusic-guide-music-library/img/music-library-albums.webp" >}}
 {{< /cards >}}
 
 ## Пошук
@@ -83,7 +83,7 @@ readingTime: 11
 Функція пошуку дозволяє знайти конкретний трек, виконавця, альбом або жанр у вашій музичній бібліотеці. На «Екрані пошуку» вам доступні такі дії: «Сортувати», «Фільтр», «Сітка/Список».
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Результати пошуку в Музичній бібліотеці" image="/docs/guide/evermusic/evermusic-guide-music-library/img/music-library-search.webp" >}}
+  {{< ls-card title="" subtitle="Результати пошуку в Музичній бібліотеці" image="/docs/guide/evermusic/evermusic-guide-music-library/img/music-library-search.webp" >}}
 {{< /cards >}}
 
 ## Меню параметрів
@@ -91,7 +91,7 @@ readingTime: 11
 Кожна пісня у вашій музичній бібліотеці має меню з більшою кількістю дій, доступних натисканням кнопки з трьома крапками поруч із назвою пісні. Ці дії різняться залежно від того, чи це окрема пісня, чи частина колекції.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Більше дій для елемента бібліотеки" image="/docs/guide/evermusic/evermusic-guide-music-library/img/music-library-item-more-actions.webp" >}}
+  {{< ls-card title="" subtitle="Більше дій для елемента бібліотеки" image="/docs/guide/evermusic/evermusic-guide-music-library/img/music-library-item-more-actions.webp" >}}
 {{< /cards >}}
 
 ### Для окремих пісень
@@ -125,7 +125,7 @@ readingTime: 11
 Ви можете активувати режим вибору за допомогою кнопки «Більше дій» у верхньому правому куті. У цьому режимі ви можете вибрати кілька треків та виконувати різні дії.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Режим вибору в Музичній бібліотеці" image="/docs/guide/evermusic/evermusic-guide-music-library/img/music-library-selection-mode.webp" >}}
+  {{< ls-card title="" subtitle="Режим вибору в Музичній бібліотеці" image="/docs/guide/evermusic/evermusic-guide-music-library/img/music-library-selection-mode.webp" >}}
 {{< /cards >}}
 
 ## Групування за тегами
@@ -145,7 +145,7 @@ readingTime: 11
 Коли ви відкриваєте розділи Виконавець, Виконавець альбому або Композитор, ви побачите перемикач Пісні/Всі альбоми/Ексклюзивні альбоми/Сольні альбоми.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Деталі альбому з перемикачем Пісні / Всі / Ексклюзивні / Сольні" image="/docs/guide/evermusic/evermusic-guide-music-library/img/music-library-album-details.webp" >}}
+  {{< ls-card title="" subtitle="Деталі альбому з перемикачем Пісні / Всі / Ексклюзивні / Сольні" image="/docs/guide/evermusic/evermusic-guide-music-library/img/music-library-album-details.webp" >}}
 {{< /cards >}}
 
 - **Пісні**: відображає всі пісні, де цей Виконавець/Виконавець альбому/Композитор вказаний в аудіотегах.
@@ -166,7 +166,7 @@ readingTime: 11
 Натисніть пункт меню «Налаштування», щоб налаштувати параметри музичної бібліотеки.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Налаштування Музичної бібліотеки" image="/docs/guide/evermusic/evermusic-guide-music-library/img/music-library-settings.webp" >}}
+  {{< ls-card title="" subtitle="Налаштування Музичної бібліотеки" image="/docs/guide/evermusic/evermusic-guide-music-library/img/music-library-settings.webp" >}}
 {{< /cards >}}
 
 #### Читання метаданих

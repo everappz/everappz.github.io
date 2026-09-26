@@ -12,7 +12,7 @@ authors:
     image: "/images/about/artem-meleshko-founder-everappz.webp"
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 ## Зачем Экспортировать Посты Блога из Wix?
 
@@ -332,33 +332,33 @@ bash fetch_blog_posts.sh
 Проект с открытым исходным кодом. Отчёты об ошибках, предложения функций и pull request-ы приветствуются.
 
 {{< cards cols="1" >}}
-  {{< card link="https://github.com/everappz/wix-blog-export" title="Проект на GitHub" icon="github" tag="open source" >}}
+  {{< ls-card link="https://github.com/everappz/wix-blog-export" title="Проект на GitHub" icon="github" tag="open source" >}}
 {{< /cards >}}
 
 ---
 
 ## Часто Задаваемые Вопросы
 
-{{% details title="Почему нельзя просто использовать `requests` для скрапинга постов блога Wix?" closed="true" %}}
+{{% ls-details title="Почему нельзя просто использовать `requests` для скрапинга постов блога Wix?" closed="true" %}}
 Wix рендерит контент динамически с помощью JavaScript. Стандартный HTTP-запрос возвращает пустую оболочку страницы. Selenium запускает безголовый браузер для получения полностью отрендеренного HTML.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Это работает с любым блогом Wix?" closed="true" %}}
+{{% ls-details title="Это работает с любым блогом Wix?" closed="true" %}}
 Да. Скрапер читает XML карты сайта блога и обрабатывает каждый URL. Вам нужно только обновить переменную `SITEMAP_URL` в `parse_blog_sitemap.py`, указав на карту сайта вашего сайта.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Какую модель OpenAI это использует?" closed="true" %}}
+{{% ls-details title="Какую модель OpenAI это использует?" closed="true" %}}
 Скрипт использует GPT-4o по умолчанию. Вы можете изменить переменную `API_MODEL` в `generate_md.py` для использования другой модели.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Можно ли использовать это для миграции с Wix на Hugo?" closed="true" %}}
+{{% ls-details title="Можно ли использовать это для миграции с Wix на Hugo?" closed="true" %}}
 Да. Выходные данные — стандартный Markdown с локальными путями к изображениям, который работает напрямую с Hugo, Jekyll, Astro и другими генераторами статических сайтов. Добавьте front matter в сгенерированные файлы `_index.md` для завершения миграции.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Сколько стоит API OpenAI для этого?" closed="true" %}}
+{{% ls-details title="Сколько стоит API OpenAI для этого?" closed="true" %}}
 Стоимость зависит от количества и длины ваших постов. Типичный блог с 50 постами средней длины обходится в несколько долларов за использование API с GPT-4o.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Этот инструмент с открытым исходным кодом?" closed="true" %}}
+{{% ls-details title="Этот инструмент с открытым исходным кодом?" closed="true" %}}
 Да. Полный исходный код доступен на [GitHub](https://github.com/everappz/wix-blog-export) под открытой лицензией.
-{{% /details %}}
+{{% /ls-details %}}

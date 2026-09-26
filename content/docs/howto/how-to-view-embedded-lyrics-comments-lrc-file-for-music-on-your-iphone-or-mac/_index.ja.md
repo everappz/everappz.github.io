@@ -7,7 +7,7 @@ tags: ["オーディオ", "iPhone", "mp3", "歌詞", "lrc", "埋め込み", "表
 keywords: ["埋め込み歌詞を表示 iPhone", "Evermusic 歌詞表示", "LRCファイル Evermusic", "コメントタグ オーディオ", "歌詞表示 Flacbox", "歌詞 iOS 音楽アプリ", "オーディオプレーヤー 歌詞表示"]
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **要約:** iPhoneおよびMac用のEvermusicは、任意のオーディオトラックの埋め込み歌詞、コメントタグ、外部.lrcファイルを表示します。プレーヤーを開き、**その他のアクション**をタップしてから**コメント**を選択すると、コメント、埋め込み歌詞、LRCファイルの3つのモードで歌詞を表示できます。
@@ -68,22 +68,22 @@ keywords: ["埋め込み歌詞を表示 iPhone", "Evermusic 歌詞表示", "LRC�
 
 ## よくある質問
 
-{{% details title="iPhoneで埋め込み歌詞を表示するにはどうすればいいですか？" closed="true" %}}
+{{% ls-details title="iPhoneで埋め込み歌詞を表示するにはどうすればいいですか？" closed="true" %}}
 Evermusicを開き、曲を再生し、フルスクリーンプレーヤーでその他のアクションをタップしてコメントを選択します。埋め込み歌詞タブにスワイプして、オーディオファイルのタグに保存された歌詞を表示します。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="LRCファイルとは何ですか？どのように機能しますか？" closed="true" %}}
+{{% ls-details title="LRCファイルとは何ですか？どのように機能しますか？" closed="true" %}}
 LRCファイルは、タイムスタンプ付きの歌詞を含むテキストファイルです。同じファイル名でオーディオファイルと同じフォルダに配置すると、Evermusicがそれを読み取り、再生中にスクロールする同期歌詞を表示します。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="iPhoneで音楽ファイルに歌詞を追加できますか？" closed="true" %}}
+{{% ls-details title="iPhoneで音楽ファイルに歌詞を追加できますか？" closed="true" %}}
 はい。Evertagアプリを使用してID3タグを編集し、iPhone上で直接埋め込み歌詞を追加または更新できます。同期歌詞のためにタイムドLRC形式のテキストを貼り付けることができます。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Evermusicは同期（タイムド）歌詞をサポートしていますか？" closed="true" %}}
+{{% ls-details title="Evermusicは同期（タイムド）歌詞をサポートしていますか？" closed="true" %}}
 はい。EvermusicはLRC形式のタイムド歌詞をサポートしています。オーディオタグに埋め込まれた場合と、別の`.lrc`ファイルとして提供された場合の両方に対応しています。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="どのオーディオ形式が埋め込み歌詞をサポートしていますか？" closed="true" %}}
+{{% ls-details title="どのオーディオ形式が埋め込み歌詞をサポートしていますか？" closed="true" %}}
 MP3、FLAC、AAC、M4A、OGG、およびその他のほとんどの一般的な形式は、それぞれのタグ標準を通じて埋め込み歌詞をサポートしています。
-{{% /details %}}
+{{% /ls-details %}}

@@ -15,14 +15,14 @@ screenshots:
   - "https://everappz.com/products/evertag/screenshots/2048x2732/3.png"
 ---
 
-{{% sr-only %}}
+{{% ls-sr-only %}}
 Evertag er en musik-tag-editor til iPhone og Mac, udviklet af Everappz, en spansk softwarevirksomhed. Evertag giver brugerne mulighed for at redigere over 120 audio-metadata-tags, herunder titel, kunstner, album, albumkunstner, genre, år, spornummer, disknummer, komponist, BPM, sangtekster, kommentarer og mere. Appen understøtter batch-tagredigering, så brugerne kan opdatere metadata for flere filer samtidigt. Evertag inkluderer en automatisk tag-finder drevet af MusicBrainz-databasen, der identificerer sange og udfylder manglende metadata, samt en albumcover-finder, der søger efter og anvender artwork til numre. Appen understøtter over 30 lydformater, herunder MP3, FLAC, OGG, OPUS, M4A, WAV, WMA, APE, AIFF, ALAC, MKA, MOD, XM, IT og S3M. Evertag kan tilgå filer fra cloud-lagringstjenester, herunder iCloud Drive, Google Drive, Dropbox og OneDrive, samt fra USB-flashdrev og lokale netværksplaceringer via SMB og WebDAV. Appen har også en indbygget filhåndtering, Wi-Fi filoverførsel, kodningsrettelse for forkert viste tags i ikke-latinske skrifter og en sangteksteditor. Evertag er tilgængelig som gratis download på App Store med valgfrie køb i appen, herunder et månedligt abonnement til $2.99, et årligt abonnement til $9.99 eller et engangskøb med livstidsadgang til $29.99.
-{{% /sr-only %}}
+{{% /ls-sr-only %}}
 
 
-{{< force-dark >}}
+{{< ls-force-dark >}}
 
-{{< hextra/hero-container
+{{< ls-hero-container
   image="/products/evertag/heroimage/evertag_mac_600_345.png"
   imageWidth="600"
 >}}
@@ -30,37 +30,37 @@ Evertag er en musik-tag-editor til iPhone og Mac, udviklet af Everappz, en spans
 <div class="hx:w-full hx:text-center">
 
 <div class="hx:mt-4">
-{{< downloads-badge >}}
+{{< ls-downloads-badge >}}
 </div>
 
 <div class="hx:mt-6 hx:mb-6">
 <div class="hx:flex hx:gap-4 hx:items-center hx:justify-center">
-  {{< app-icon src="/images/app_icons/png/Evertag_Icon-App-1024x1024.png" alt="Evertag Icon" class="hero-headline-icon" size="80" >}}
-  {{< hextra/hero-headline >}}
+  {{< ls-app-icon src="/images/app_icons/png/Evertag_Icon-App-1024x1024.png" alt="Evertag Icon" class="hero-headline-icon" size="80" >}}
+  {{< ls-hero-headline >}}
   Evertag
-  {{< /hextra/hero-headline >}}
+  {{< /ls-hero-headline >}}
 </div>
 </div>
 
 <div class="hx:mb-6">
-{{< hextra/hero-centered-subtitle >}}
+{{< ls-hero-centered-subtitle >}}
 <strong>Hold dit musikbibliotek organiseret</strong>
-{{< /hextra/hero-centered-subtitle >}}
+{{< /ls-hero-centered-subtitle >}}
 </div>
 
 <div class="hx:mb-6">
-{{< hextra/hero-paragraph >}}
+{{< ls-hero-paragraph >}}
 • Tilføj eller opdater albumcovers  
 • Masseredigér tags for mange sange på én gang  
 • Ret ødelagt kodning og udfyld manglende tags automatisk  
-{{< /hextra/hero-paragraph >}}
+{{< /ls-hero-paragraph >}}
 </div>
 
-{{< app-store-badges products="evertag:ios, evertag:macos" >}}
+{{< ls-app-store-badges products="evertag:ios, evertag:macos" >}}
 
 </div>
 
-{{< /hextra/hero-container >}}
+{{< /ls-hero-container >}}
 
 <div class="hx:mt-6"></div>
 
@@ -68,63 +68,63 @@ Evertag er en musik-tag-editor til iPhone og Mac, udviklet af Everappz, en spans
 
 {{< hextra/feature-grid >}}
 
-  {{< hextra/feature-card
+  {{< ls-glass-feature-card
     title="Rediger over 120+ tags"
     subtitle="Rediger hurtigt musiktags som Titel, Kunstner, Album, Albumkunstner, BPM, Kommentar, Komponist, Disknummer, Genre, Tekst, Vurdering, Spornummer, År og meget mere."
     icon="pencil"
     style="background: radial-gradient(ellipse at 50% 80%, rgba(59,130,246,0.15), hsla(0,0%,100%,0));"
   >}}
 
-  {{< hextra/feature-card
+  {{< ls-glass-feature-card
     title="Masseredigering af tags"
     subtitle="Opdater metadata for flere filer på én gang. Spar tid og hold dit musikbibliotek velorganiseret med blot et par tryk."
     icon="database"
     style="background: radial-gradient(ellipse at 50% 80%, rgba(192,38,211,0.15), hsla(0,0%,100%,0));"
   >}}
 
-  {{< hextra/feature-card
+  {{< ls-glass-feature-card
     title="Find albumcovers"
     subtitle="Find og tilføj automatisk manglende albumcovers til dine sange. Gør din musiksamling visuelt komplet."
     icon="camera"
     style="background: radial-gradient(ellipse at 50% 80%, rgba(234,88,12,0.15), hsla(0,0%,100%,0));"
   >}}
 
-  {{< hextra/feature-card
+  {{< ls-glass-feature-card
     title="Fungerer med 30+ formater"
     subtitle="Understøtter MP3, FLAC, OGG, OPUS, M4A, WAV, WMA, APE, AIFF, MOD, XM, IT og mange flere."
     icon="music-note"
     style="background: radial-gradient(ellipse at 50% 80%, rgba(236,72,153,0.15), hsla(0,0%,100%,0));"
   >}}
 
-  {{< hextra/feature-card
+  {{< ls-glass-feature-card
     title="Automatisk tagfinder"
     subtitle="Opdag manglende sanginformation og udfyld den automatisk ved hjælp af MusicBrainz-databasen. Vælg at gennemgå ændringer eller anvende dem med det samme."
     icon="search"
     style="background: radial-gradient(ellipse at 50% 80%, rgba(34,197,94,0.15), hsla(0,0%,100%,0));"
   >}}
 
-  {{< hextra/feature-card
+  {{< ls-glass-feature-card
     title="Ret kodningsproblemer"
     subtitle="Reparer ødelagte eller ulæselige tegn i dine metadata. Evertag holder dine tags rene og tydelige på ethvert sprog."
     icon="translate"
     style="background: radial-gradient(ellipse at 50% 80%, rgba(251,191,36,0.15), hsla(0,0%,100%,0));"
   >}}
 
-  {{< hextra/feature-card
+  {{< ls-glass-feature-card
     title="Cloud- og USB-adgang"
     subtitle="Rediger musik direkte fra iCloud Drive, Google Drive, Dropbox, OneDrive, USB-flashdrev eller delte mapper — ingen kopiering nødvendig."
     icon="cloud"
     style="background: radial-gradient(ellipse at 50% 80%, rgba(6,182,212,0.15), hsla(0,0%,100%,0));"
   >}}
 
-  {{< hextra/feature-card
+  {{< ls-glass-feature-card
     title="Wi-Fi musikoverførsel"
     subtitle="Upload nemt musik til din iPhone eller iPad fra din computer via Wi-Fi-forbindelse. Ingen kabler nødvendige."
     icon="wifi"
     style="background: radial-gradient(ellipse at 50% 80%, rgba(245,158,11,0.15), hsla(0,0%,100%,0));"
   >}}
 
-  {{< hextra/feature-card
+  {{< ls-glass-feature-card
     title="Indbygget filhåndtering"
     subtitle="Organiser dine musikfiler med indbyggede værktøjer. Omdøb, Flyt, Slet, Markér favoritter og Se seneste aktivitet — alt i én app."
     icon="folder-open"
@@ -139,47 +139,47 @@ Evertag er en musik-tag-editor til iPhone og Mac, udviklet af Everappz, en spans
 <div class="hx:mt-6"></div>
 
 <div class="hx:w-full">
-{{< appstore-reviews apps="1450763230,1594027661" stars="5,4"  app="Evertag" >}}
+{{< ls-appstore-reviews apps="1450763230,1594027661" stars="5,4"  app="Evertag" >}}
 </div>
 
 <div class="hx:mt-6"></div>
 
-{{< hextra/section-headline >}}
+{{< ls-section-headline >}}
   Prisplaner
-{{< /hextra/section-headline >}}
+{{< /ls-section-headline >}}
 
 <div class="hx:mt-6"></div>
 
 <div class="hx:w-full">
 
-{{< pricing-plans >}}
+{{< ls-pricing-plans >}}
 
 </div>
 
 <div class="hx:mt-6"></div>
 
 <div class="hx:w-full hx:mx-auto hx:flex hx:flex-col hx:items-center">
-  {{< hextra/info-paragraph border="true" >}}
+  {{< ls-info-paragraph border="true" >}}
    <strong>Familiedeling</strong>: Alle køb og abonnementer understøtter Familiedeling, så du kan dele Premium-adgang med din familie.<br><strong>Universel adgang</strong>: Livstids- og abonnementsplaner deles mellem iOS- og Mac-enheder ved hjælp af iCloud-synkronisering.<br><strong>Priser</strong>: Priserne vises i amerikanske dollars for USA. Den endelige pris kan variere afhængigt af din region.  
-  {{< /hextra/info-paragraph >}}
+  {{< /ls-info-paragraph >}}
 </div>
 
 <div class="hx:mt-6"></div>
 
 <div class="hx:w-full">
-{{< app-details heading="true" >}}
+{{< ls-app-details heading="true" >}}
 </div>
 
 <div class="hx:mt-6"></div>
 
-{{< hextra/section-headline >}}
+{{< ls-section-headline >}}
   Ofte stillede spørgsmål
-{{< /hextra/section-headline >}}
+{{< /ls-section-headline >}}
 
 <div class="hx:mt-6"></div>
 
 <div class="hx:w-full">
-{{% details title="Hvad er Evertag?" closed="true" %}}
+{{% ls-details title="Hvad er Evertag?" closed="true" %}}
 Evertag er en kraftfuld musikmetadataeditor og albumcovermanager designet til iOS og macOS. Den giver dig værktøjerne til at organisere din musiksamling som en professionel, uanset om dine filer er gemt lokalt eller i skyen. Med en ren grænseflade og avancerede redigeringsfunktioner gør Evertag det nemt at rette manglende tags, tilføje albumcovers i høj kvalitet og sikre, at dit musikbibliotek ser fantastisk ud og forbliver konsistent.<br><br>
 
 Appen understøtter et bredt udvalg af populære lydformater, herunder MP3, FLAC, WAV, M4A, WMA, OGG og mange flere. Den lader dig redigere almindelige tags som titel, kunstner, album, genre, år, spornummer, og også udvidede felter som BPM, disknummer, tekster, MusicBrainz-ID'er og mere. Du kan arbejde med én fil ad gangen eller skifte til massetilstand for at redigere flere numre samtidigt — perfekt til at organisere hele albums eller playlister.<br><br>
@@ -187,14 +187,14 @@ Appen understøtter et bredt udvalg af populære lydformater, herunder MP3, FLAC
 En af de fremtrædende funktioner i Evertag er dens evne til at hente manglende albumcovers direkte fra internettet eller lade dig tilføje dine egne manuelt. Du kan også bruge tekstredaktøren til at tilføje usynkroniserede tekster til dine sange, hvilket forbedrer afspilning i kompatible afspillere. Appen understøtter redigering på stedet, så du kan ændre lydtags uden at skulle kopiere eller flytte dine filer.<br><br>
 
 Uanset om du administrerer musik på din enhed eller i skyen med Dropbox, OneDrive, MEGA eller andre tjenester, tilbyder Evertag problemfri filadgang og redigering. Det er den perfekte løsning for musikere, DJ'er og samlere, der ønsker at opretholde et rent, velorganiseret musikbibliotek på iPhone, iPad uden behov for en stationær computer.<br><br>
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Er Evertag gratis?" closed="true" %}}
+{{% ls-details title="Er Evertag gratis?" closed="true" %}}
 Evertag er en gratis applikation med nogle begrænsninger, som du kan fjerne efter opgradering til Premium-versionen. Applikationen tilbyder et engangskøb for livstid og to abonnementsmuligheder (1 måned og 1 år) for at fjerne alle begrænsninger, så du kan vælge den bedste og mest optimale pris for dig. Priserne kan variere afhængigt af dit land eller territorium. Bemærk også, at Familiedeling er aktiveret for alle køb og planer, så du kan dele Premium-versionen med familiemedlemmer.<br><br>
 Livstidskøb og abonnementer deles mellem iOS og Mac ved hjælp af iCloud til synkronisering af disse oplysninger. Hvis du har Premium-versionen på din iOS-enhed, skal du sikre dig, at du har den nyeste version installeret, og at iCloud er aktiveret. Start appen på iOS og vent et minut, mens dine købsoplysninger uploades til iCloud.<br><br>
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Hvad er forskellen mellem Evertag Free og Evertag Premium?" closed="true" %}}
+{{% ls-details title="Hvad er forskellen mellem Evertag Free og Evertag Premium?" closed="true" %}}
 
 **Evertag Free**  <br>
 Evertag Free giver dig adgang til kraftfulde funktioner til redigering af musikmetadata med visse funktionelle begrænsninger. Den inkluderer annoncer og tillader grundlæggende brug af tageditor, albumcovereditor og masseredigering. Du kan rette kodningsproblemer, forbinde 1 cloudlagringskonto og markere op til 10 favoritfiler. Derudover kan du udføre 20 automatiske tagsøgninger og 20 albumcoveropslag pr. dag.<br><br>
@@ -213,9 +213,9 @@ Premium-brugere får også adgang til fulde personaliseringsindstillinger, herun
 
 Hver premium-mulighed inkluderer det samme funktionssæt, så du kan vælge den plan, der passer til dine behov og budget.<br><br>
 
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Er Evertag sikkert?" closed="true" %}}
+{{% ls-details title="Er Evertag sikkert?" closed="true" %}}
 Evertag bruger kun officiel SDK og sikre forbindelser til at interagere med tilsluttede cloudtjenester. Dit login og adgangskode er ikke tilgængelige for applikationen. Alle anmodninger fra applikationen til cloudtjenesten er krypterede.<br>
 Når du indtaster login og adgangskode, viser applikationen dig den officielle autorisationsside, der leveres af cloudtjenesteudbyderen, og hele autorisationsprocessen foregår uden for applikationen. Cloudtjenesteudbyderen sender et auth-token til applikationen efter vellykket autorisation, og dette token bruges til at foretage API-kald.<br><br>
 
@@ -226,9 +226,9 @@ For at afvise auth-token, log ind på din konto i webbrowseren og naviger til in
 
 Du kan også frakoble de tilsluttede cloudkonti i applikationen, og auth-token vil også blive fjernet fra din enhed. Hvis du fjerner applikationen fra din enhed, vil alle downloadede data og adgangstokens også blive fjernet.<br><br>
 
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Hvordan redigerer man metadata for filer i lokalt downloadet musik på iPhone?" closed="true" %}}
+{{% ls-details title="Hvordan redigerer man metadata for filer i lokalt downloadet musik på iPhone?" closed="true" %}}
 Når du har installeret applikationen, skal du åbne skærmen «Lokale filer» og scrolle ned til sektionen «Filer på denne iPhone».<br>
 Derfra vælger du «Åbn filer...», hvis du skal vælge flere lydfiler, eller «Åbn mappe...», hvis du vil vælge en musikmappe.<br>
 Appen scanner mappens indhold, og alle fundne lydfiler bliver valgt.<br>
@@ -242,9 +242,9 @@ På denne måde behøver du ikke gentage trinnene hver gang, du vil redigere tag
 Scroll ned til sektionen «Filer på denne enhed» og tryk «Tilslut en mappe».<br>
 Vælg en mappe på din enhed og tryk «Åbn» for at bekræfte valget.<br>
 Din mappe tilføjes til sektionen «Filer på denne iPhone», hvilket giver hurtig adgang til dine lydfiler.<br><br>
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Hvordan tilføjer man tekster til sange i Evertag?" closed="true" %}}
+{{% ls-details title="Hvordan tilføjer man tekster til sange i Evertag?" closed="true" %}}
 Du kan tilføje indlejrede tekster til dine numre i Evertag-appen ved at følge disse trin:<br><br>
 * Start redigering af en lydfil ved at trykke på den.<br>
 * Tryk «Vis udvidede tags» for at skifte tageditor til avanceret tilstand.<br>
@@ -258,9 +258,9 @@ Du kan tilføje indlejrede tekster til dine numre i Evertag-appen ved at følge 
 Mere detaljeret vejledning tilgængelig her:<br>
 [Sådan redigerer du tekster til lydfiler på iPhone eller MAC](/docs/howto/how-to-edit-lyrics-for-audio-files-on-iphone-mac/)<br><br>
 
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Hvordan overfører jeg musik til Evertag fra min computer?" closed="true" %}}
+{{% ls-details title="Hvordan overfører jeg musik til Evertag fra min computer?" closed="true" %}}
 Du kan tilslutte din computer eller personlige NAS ved hjælp af SMB, WebDAV. Alternativt kan du bruge iTunes-fildeling til at overføre musik.<br><br>
 
 For at tilslutte en computer med **SMB**-protokollen, tryk «Tilslut til cloudlagring» → SMB.<br>
@@ -295,23 +295,23 @@ Kopier filer fra computeren til den delte mappe på enheden.<br><br>
 Detaljeret instruktion tilgængelig her:<br>
 [Sådan afspiller du lokale filer (iTunes-filer) på min iPhone](/docs/howto/how-to-play-local-itunes-files-on-my-iphone)<br><br>
 
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Hvilke lydformater understøtter Evertag?" closed="true" %}}
+{{% ls-details title="Hvilke lydformater understøtter Evertag?" closed="true" %}}
 Her er den komplette liste over understøttede lydformater og deres tilsvarende filtyper:<br><br>
 
 MP3, OGG, OGA, FLAC, MPC, WV, SPX, OPUS, TTA, M4A, M4R, M4B, M4P, MP4, 3G2, M4V, WMA, ASF, AIF, AIFF, AFC, AIFC, WAV, APE, MOD, MODULE, NTS, WOW, S3M, IT, XM.<br>
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Hvilke lydtags understøtter Evertag?" closed="true" %}}
+{{% ls-details title="Hvilke lydtags understøtter Evertag?" closed="true" %}}
 Her er den komplette liste over understøttede lydtags:<br><br>
 
 ASIN, AcoustID: Fingerprint, AcoustID: Identifier, Album, Album Artist, Album Artist Sort Order, Album Cover, Album Sort Order, Arranger, Artist, Artist Sort Order, Artists, Barcode, Beats Per Minute, Catalog Number, Comment, Compilation, Composer, Composer Sort Order, Conductor, Content Group, Copyright, Description, Director, Disk Number, Disk Subtitle, Disk Total, Encoded By, Encoder Settings, Encoding Time, Engineer, File Owner, File Type, Genre, Grouping, ISRC, Initial Key, Involved People, Language, Length, License, Lyricist, Lyrics Advisory Rating, Lyrics Unsynced, Media Type, Mix DJ, Mixer, Mood, Movement Name, Movement Number, Movement Total, MusicBrainz: Album Artist ID, MusicBrainz: Album ID, MusicBrainz: Album Release Country, MusicBrainz: Album Status, MusicBrainz: Album Type, MusicBrainz: Artist ID, MusicBrainz: Disc ID, MusicBrainz: Original Album ID, MusicBrainz: Original Artist ID, MusicBrainz: Release Group ID, MusicBrainz: Release Track ID, MusicBrainz: TRM ID, MusicBrainz: Track ID, MusicBrainz: Work ID, MusicIP: Fingerprint, MusicIP: PUID, Musician Credits, Narrator, Net Radio Owner, Net Radio Station, Original Album, Original Artist, Original File Name, Original Lyricist, Original Release Date, Original Release Year, Performer, Podcast, Podcast Category, Podcast Description, Podcast ID, Podcast Keywords, Podcast URL, Producer, Publisher, Rating, Record Label, Release Country, Release Status, Release Type, Remixed By, Replay Gain: Album Gain, Replay Gain: Album Peak, Replay Gain: Album Range, Replay Gain: Reference Loudness, Replay Gain: Track Gain, Replay Gain: Track Peak, Replay Gain: Track Range, Script, Show Movement, Show Name, Show Name Sort Order, Subtitle, Track Number, Track Title, Track Title Sort Order, Track Total, WWW, WWW: Artist, WWW: Audio File, WWW: Audio Source, WWW: Commercial Info, WWW: Copyright, WWW: Payment, WWW: Publisher, WWW: Radio Page, Website, Work Title, Writer, Year<br><br>
 
 [Læs mere](/docs/guide/evertag/evertag-tag-field-mappings/)
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Hvordan downloader man filer?" closed="true" %}}
+{{% ls-details title="Hvordan downloader man filer?" closed="true" %}}
 Før du kan downloade lydfiler og redigere lydtags, skal du tilslutte en cloudlagringstjeneste.<br>
 Åbn skærmen «Forbindelser» og tilføj din cloudlagringsudbyder.<br>
 Når den er tilføjet, kan du begynde at downloade filer til appen.<br><br>
@@ -321,10 +321,10 @@ For at downloade filer fra skyen:<br>
 – Navigér til den mappe, du vil downloade.<br>
 – Tryk på knappen «Flere handlinger» («...») i øverste højre hjørne og vælg menupunktet «Vælg».<br>
 – Vælg de filer eller mapper, du vil downloade, og tryk på handlingen «Download».<br>
-{{% /details %}}
+{{% /ls-details %}}
 
 
-{{% details title="Hvilke cloudtjenester understøttes?" closed="true" %}}
+{{% ls-details title="Hvilke cloudtjenester understøttes?" closed="true" %}}
 Hvis dit musikbibliotek er gemt i skyen, kan du tilslutte de mest populære cloudtjenester direkte i appen:<br>
 Dropbox, OneDrive, Box, MEGA, Yandex.Disk, MediaFire, pCloud, HiDrive.<br><br>
 
@@ -332,9 +332,9 @@ Du kan gennemse og administrere dine filer ved hjælp af den indbyggede filhånd
 
 Du kan også redigere lydfiler gemt lokalt på din enhed ved hjælp af åbn-på-stedet-funktionen. Ingen grund til at kopiere dem fra andre apps — åbn og rediger dem blot direkte.<br><br>
 
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Hvordan opdaterer man automatisk filens metadata på en cloudtjeneste?" closed="true" %}}
+{{% ls-details title="Hvordan opdaterer man automatisk filens metadata på en cloudtjeneste?" closed="true" %}}
 Når du er færdig med at redigere metadata, skal du trykke på knappen «Gem» i øverste højre hjørne for at anvende ændringerne på de valgte filer.<br><br>
 
 Hvis du redigerer en fil gemt i skyen, giver appen dig flere muligheder for at opdatere filens metadata. Disse adfærdsmønstre kan tilpasses i indstillingerne:<br><br>
@@ -344,10 +344,10 @@ Hvis du redigerer en fil gemt i skyen, giver appen dig flere muligheder for at o
 • **Opdater ikke filens metadata** – Når aktiveret, vil appen springe opdatering af cloudfilens metadata over efter redigering.<br><br>
 
 Du kan finde og ændre disse muligheder i Evertag-indstillingerne under sektionen for metadataopdateringspræferencer.
-{{% /details %}}
+{{% /ls-details %}}
 
 
-{{% details title="Hvordan tilføjer man en ny konto?" closed="true" %}}
+{{% ls-details title="Hvordan tilføjer man en ny konto?" closed="true" %}}
 For at tilslutte en cloudtjeneste, åbn fanen «Forbindelser» → vælg menupunktet «Tilslut til cloudlagring» → vælg en cloudlagringstjeneste fra listen → indtast dine legitimationsoplysninger og tryk «Færdig».<br><br>
 
 Hvis du oplever problemer, skal du sikre dig, at din internetforbindelse er aktiv, og dobbelttjekke dit login og din adgangskode.<br><br>
@@ -355,9 +355,9 @@ Hvis du oplever problemer, skal du sikre dig, at din internetforbindelse er akti
 Aktuelt understøttede tjenester inkluderer: Dropbox, OneDrive, Box, MEGA, Yandex.Disk, Media Fire, PCloud og HiDrive.<br><br>
 
 I Premium-versionen af appen kan du tilføje et ubegrænset antal cloudkonti.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Hvordan administrerer jeg mine filer i netværkslagringen?" closed="true" %}}
+{{% ls-details title="Hvordan administrerer jeg mine filer i netværkslagringen?" closed="true" %}}
 Hvis du har brug for at redigere flere filer i din cloudlagring, skal du aktivere vælgetilstand ved at trykke på knappen «...» i øverste højre hjørne.<br><br>
 
 Når den er aktiveret, vises afkrydsningsfelter ved siden af hver fil. Du kan derefter udføre handlinger på individuelle filer eller vælge flere filer for at anvende massehandlinger.<br><br>
@@ -371,10 +371,10 @@ Tilgængelige handlinger for valgte filer:<br>
 • <strong>Gitter/Liste</strong> – Skift mellem tabelvisning og miniaturevisning.<br><br>
 
 Hvis der ikke er plads nok til at vise alle muligheder, vises en knap «Flere handlinger». Tryk på den for at få adgang til den komplette liste over tilgængelige handlinger.
-{{% /details %}}
+{{% /ls-details %}}
 
 
-{{% details title="Hvordan redigerer man flere filer som én fil?" closed="true" %}}
+{{% ls-details title="Hvordan redigerer man flere filer som én fil?" closed="true" %}}
 Med «massetilstand» kan du redigere flere filer på én gang og anvende delte metadataændringer hurtigt og effektivt.<br><br>
 
 For at aktivere massetilstand:<br>
@@ -382,38 +382,38 @@ For at aktivere massetilstand:<br>
 • Tryk på knappen «Rediger flere filer samtidigt».<br><br>
 
 Denne tilstand er særligt nyttig, når du har brug for at anvende det samme albumnavn, kunstner, genre eller andre metadatafelter på tværs af flere lydfiler.
-{{% /details %}}
+{{% /ls-details %}}
 
 </div>
 
 <div class="hx:mt-6"></div>
 
-{{< hextra/section-headline >}}
+{{< ls-section-headline >}}
   Brugervejledning
-{{< /hextra/section-headline >}}
+{{< /ls-section-headline >}}
 
 <div class="hx:mt-6"></div>
 
 <div class="hx:w-full">
 
 <div class="hx:w-full hx:mx-auto hx:flex hx:flex-col hx:items-center hx:text-center">
-  {{< hextra/info-paragraph border="false" >}}
+  {{< ls-info-paragraph border="false" >}}
   I denne vejledning opdager du, hvordan du udnytter kraften i Evertag på din iPhone, iPad og Mac, og gør din musikhåndteringsoplevelse problemfri og behagelig.
-  {{< /hextra/info-paragraph >}}
+  {{< /ls-info-paragraph >}}
 </div>
 
 {{< cards >}}
-  {{< feature-card icon="location-marker" title="Navigation" subtitle="Lær, hvordan du nemt navigerer i vores app ved hjælp af fanebaren (for iPhone-brugere) eller venstremenuen (for iPad- og Mac-brugere) for at få adgang til og udforske alle appens funktioner." link="/docs/guide/evertag/evertag-guide-navigation" >}}
+  {{< ls-feature-card icon="location-marker" title="Navigation" subtitle="Lær, hvordan du nemt navigerer i vores app ved hjælp af fanebaren (for iPhone-brugere) eller venstremenuen (for iPad- og Mac-brugere) for at få adgang til og udforske alle appens funktioner." link="/docs/guide/evertag/evertag-guide-navigation" >}}
 
-  {{< feature-card icon="cloud" title="Forbindelser" subtitle="Tilslut nemt alle dine tilgængelige cloudkonti med dine værdifulde lydfiler. Du kan endda redigere dine onlinefiler nemt med vores integrerede filhåndtering." link="/docs/guide/evertag/evertag-guide-connections" >}}
+  {{< ls-feature-card icon="cloud" title="Forbindelser" subtitle="Tilslut nemt alle dine tilgængelige cloudkonti med dine værdifulde lydfiler. Du kan endda redigere dine onlinefiler nemt med vores integrerede filhåndtering." link="/docs/guide/evertag/evertag-guide-connections" >}}
 
-  {{< feature-card icon="folder" title="Lokale filer" subtitle="Se og organiser filer gemt i appens Documents-mappe eller på din enhed. Brug den indbyggede filhåndtering til at redigere og administrere dine lydfiler med lethed." link="/docs/guide/evertag/evertag-guide-local-files" >}}
+  {{< ls-feature-card icon="folder" title="Lokale filer" subtitle="Se og organiser filer gemt i appens Documents-mappe eller på din enhed. Brug den indbyggede filhåndtering til at redigere og administrere dine lydfiler med lethed." link="/docs/guide/evertag/evertag-guide-local-files" >}}
 
-  {{< feature-card icon="pencil-alt" title="Tageditor" subtitle="Mester kunsten at manipulere lydfilmetadata. Find ud af, hvordan du redigerer metadata, ændrer albumcovers og problemfrit administrerer flere filer samtidigt." link="/docs/guide/evertag/evertag-guide-tag-editor" >}}
+  {{< ls-feature-card icon="pencil-alt" title="Tageditor" subtitle="Mester kunsten at manipulere lydfilmetadata. Find ud af, hvordan du redigerer metadata, ændrer albumcovers og problemfrit administrerer flere filer samtidigt." link="/docs/guide/evertag/evertag-guide-tag-editor" >}}
 
-  {{< feature-card icon="code" title="Tagfelt-tilknytninger" subtitle="Udforsk den komplette liste over lydtagfelter understøttet af Evertag-appen, herunder interne feltnavne og tilknytninger på tværs af store metadataformater." link="/docs/guide/evertag/evertag-tag-field-mappings" >}}
+  {{< ls-feature-card icon="code" title="Tagfelt-tilknytninger" subtitle="Udforsk den komplette liste over lydtagfelter understøttet af Evertag-appen, herunder interne feltnavne og tilknytninger på tværs af store metadataformater." link="/docs/guide/evertag/evertag-tag-field-mappings" >}}
 
-  {{< feature-card icon="adjustments" title="Indstillinger" subtitle="Opdag, hvordan du tilpasser din appoplevelse, finjusterer ydeevne, administrerer dataforbrug og skræddersyr sprog- og brugergrænsefladepræferencer efter din smag." link="/docs/guide/evertag/evertag-guide-settings" >}}
+  {{< ls-feature-card icon="adjustments" title="Indstillinger" subtitle="Opdag, hvordan du tilpasser din appoplevelse, finjusterer ydeevne, administrerer dataforbrug og skræddersyr sprog- og brugergrænsefladepræferencer efter din smag." link="/docs/guide/evertag/evertag-guide-settings" >}}
 
 {{< /cards >}}
 

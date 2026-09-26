@@ -7,7 +7,7 @@ keywords: ["WebDAV सर्वर iPhone", "WebDAV सर्वर iPad", "iPho
 readingTime: 9
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 WebDAV किसी फोल्डर को एक नेटवर्क ड्राइव में बदल देता है जिसे कोई कंप्यूटर अपने आम फाइल मैनेजर में खोल सकता है. यह उसी वेब प्रोटोकॉल पर चलता है जो आपका ब्राउज़र इस्तेमाल करता है, यही वजह है कि यह बिना किसी खास ड्राइवर के Mac, Windows और Linux के बीच अच्छी तरह चलता है. [Everdisk](/products/everdisk) के साथ आप अपने iPhone या iPad पर एक WebDAV सर्वर चला सकते हैं, ताकि फोन एक ऐसी ड्राइव के रूप में दिखे जिसे आप लगभग किसी भी कंप्यूटर से ब्राउज़ करें, उससे कॉपी करें, और उसमें कॉपी करें.
 
@@ -104,40 +104,40 @@ Settings, शेयरिंग, एक्सेस में मौजूद **
 
 ## अक्सर पूछे जाने वाले सवाल
 
-{{% details title="मेरे iPhone के लिए WebDAV पता और पोर्ट क्या है?" closed="true" %}}
+{{% ls-details title="मेरे iPhone के लिए WebDAV पता और पोर्ट क्या है?" closed="true" %}}
 शेयरिंग शुरू करने के बाद, Everdisk शेयरिंग स्क्रीन पर पता दिखाता है. यह http://192.168.1.20:8080 जैसा दिखता है. 8080 वह पोर्ट है जो Everdisk WebDAV के लिए इस्तेमाल करता है, और पहला हिस्सा Wi-Fi पर आपके iPhone का पता है, इसलिए आपका अलग होगा.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="मैं Windows से अपने iPhone WebDAV से कैसे जुड़ूं?" closed="true" %}}
+{{% ls-details title="मैं Windows से अपने iPhone WebDAV से कैसे जुड़ूं?" closed="true" %}}
 File Explorer खोलें, This PC पर राइट-क्लिक करें, और Add a network location या Map network drive चुनें. Everdisk का WebDAV पता डालें, उदाहरण के लिए http://192.168.1.20:8080, फिर अगर आपने कोई सेट किया है तो अपना लॉगिन डालें. अगर Windows न जुड़े, तो पक्का करें कि WebClient सर्विस चल रही है (Services खोजें, WebClient ढूंढें, उसे शुरू करें) और दोबारा कोशिश करें.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="क्या मैं दो iPhone के बीच WebDAV इस्तेमाल कर सकता हूं?" closed="true" %}}
+{{% ls-details title="क्या मैं दो iPhone के बीच WebDAV इस्तेमाल कर सकता हूं?" closed="true" %}}
 हां, पर iOS Files ऐप में कोई WebDAV क्लाइंट नहीं है, इसलिए दूसरे डिवाइस पर Everdisk इस्तेमाल करें. डिवाइस टैब खोलें, नया कनेक्शन पर टैप करें, WebDAV चुनें, और पहले फोन पर दिखाया गया पता डालें. Documents by Readdle जैसा कोई WebDAV ऐप भी काम करता है.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="क्या WebDAV के लिए पासवर्ड चाहिए?" closed="true" %}}
+{{% ls-details title="क्या WebDAV के लिए पासवर्ड चाहिए?" closed="true" %}}
 नहीं, लॉगिन वैकल्पिक है. गेस्ट एक्सेस के लिए Settings, शेयरिंग, एक्सेस में लॉगिन और पासवर्ड खाली छोड़ दें, या अगर आप चाहते हैं कि कनेक्शन साइन इन करें तो उन्हें सेट करें.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="क्या दूसरे लोग WebDAV पर मेरी फाइलें बदल सकते हैं?" closed="true" %}}
+{{% ls-details title="क्या दूसरे लोग WebDAV पर मेरी फाइलें बदल सकते हैं?" closed="true" %}}
 सिर्फ तभी जब आप इजाजत दें. Settings, शेयरिंग, एक्सेस में मौजूद फ़ाइल एडिटिंग स्विच इसे नियंत्रित करता है. चालू जुड़े हुए डिवाइस को अपलोड, नाम बदल और डिलीट करने देता है. बंद ड्राइव को सिर्फ पढ़ने वाला बना देता है, इसलिए दूसरे लोग देख और कॉपी तो कर सकते हैं पर कुछ बदल नहीं सकते.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="WebDAV या SMB, क्या फर्क है?" closed="true" %}}
+{{% ls-details title="WebDAV या SMB, क्या फर्क है?" closed="true" %}}
 दोनों आपके iPhone को एक नेटवर्क ड्राइव के रूप में माउंट करते हैं. WebDAV वेब प्रोटोकॉल पर चलता है और Windows File Explorer से साफ-सुथरे तरीके से जुड़ता है, जो इसकी मुख्य ताकत है. SMB Mac, Linux और NAS डिवाइस पर मूल फाइल शेयरिंग है, आमतौर पर Mac पर तेज होती है, और Everdisk का इकलौता कनेक्शन है जो ट्रांसफर एन्क्रिप्ट कर सकता है. Everdisk दोनों को एक साथ चला सकता है.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="मेरी WebDAV ड्राइव क्यों डिस्कनेक्ट हो जाती है?" closed="true" %}}
+{{% ls-details title="मेरी WebDAV ड्राइव क्यों डिस्कनेक्ट हो जाती है?" closed="true" %}}
 आपका iPhone सर्वर है, और iOS उन ऐप्स को रोक देता है जो बहुत देर तक बैकग्राउंड में रहते हैं. जब कोई डिवाइस जुड़ा हो तब Everdisk को स्क्रीन पर खुला रखें, और लंबे ट्रांसफर के लिए पावर में लगाएं. यह भी पक्का करें कि दोनों डिवाइस अभी भी एक ही Wi-Fi पर हैं.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="क्या मैं बिना Wi-Fi के WebDAV पर जुड़ सकता हूं?" closed="true" %}}
+{{% ls-details title="क्या मैं बिना Wi-Fi के WebDAV पर जुड़ सकता हूं?" closed="true" %}}
 हां, अगर आप अपने iPhone को केबल से किसी Mac में प्लग करें. फिर Everdisk एक अतिरिक्त केबल कनेक्शन पता दिखाता है जिसे जुड़ा हुआ Mac Finder में खोल सकता है, जो बिल्कुल भी Wi-Fi न होने पर भी काम करता है. केबल पर, सिर्फ वही Mac डिवाइस तक पहुंच सकता है.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="क्या Everdisk मुफ्त है?" closed="true" %}}
+{{% ls-details title="क्या Everdisk मुफ्त है?" closed="true" %}}
 हां, Everdisk मुफ्त डाउनलोड है और WebDAV सर्वर इसमें शामिल है. एक वैकल्पिक वन-टाइम Premium खरीद कस्टम पोर्ट और फोटो तथा वीडियो कन्वर्जन जैसी चीजें जोड़ती है. आप बिना भुगतान किए WebDAV सेट कर सकते हैं और फाइलें शेयर कर सकते हैं.
-{{% /details %}}
+{{% /ls-details %}}
 
 इसे आजमाने के लिए तैयार हैं? [App Store से Everdisk डाउनलोड करें](https://apps.apple.com/app/apple-store/id6751851132?pt=95781850&ct=everappzcom&mt=8) और कुछ ही मिनटों में अपने iPhone को एक ड्राइव के रूप में माउंट करें. सवाल या सुझाव हैं? हमें **support@everappz.com** पर ईमेल करें.

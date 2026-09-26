@@ -12,7 +12,7 @@ authors:
     image: "/images/about/artem-meleshko-founder-everappz.webp"
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 **TL;DR:** Evermusic 3.6 додає інтеграцію з Apple CarPlay, повну доступність VoiceOver, змішаний аудіовихід, автоматичне відновлення відтворення, редагування обкладинок і тегів для FLAC/MP3/AIFF та імпорт файлів з iCloud Drive.
 
@@ -78,18 +78,18 @@ Evermusic автоматично зберігає вашу позицію про
 
 ## FAQ
 
-{{% details title="Чи працює Evermusic з CarPlay?" closed="true" %}}
+{{% ls-details title="Чи працює Evermusic з CarPlay?" closed="true" %}}
 Так. Починаючи з версії 3.6, Evermusic повністю підтримує Apple CarPlay. Ви можете переглядати та відтворювати свою музичну бібліотеку з вбудованого дисплея вашого автомобіля.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Чи доступний Evermusic для незрячих або слабозорих користувачів?" closed="true" %}}
+{{% ls-details title="Чи доступний Evermusic для незрячих або слабозорих користувачів?" closed="true" %}}
 Так. Evermusic 3.6 включає повну підтримку VoiceOver з описовими мітками, підказками та спрощеним режимом інтерфейсу.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Чи можу я редагувати теги FLAC на iPhone за допомогою Evermusic?" closed="true" %}}
+{{% ls-details title="Чи можу я редагувати теги FLAC на iPhone за допомогою Evermusic?" closed="true" %}}
 Так. Evermusic має вбудований редактор тегів, який працює з файлами FLAC, MP3 та AIFF. Ви можете редагувати назви, виконавців, альбоми та обкладинки.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Чи запам'ятовує Evermusic, де я зупинився?" closed="true" %}}
+{{% ls-details title="Чи запам'ятовує Evermusic, де я зупинився?" closed="true" %}}
 Так. Коли увімкнено «Save Audio Player State», Evermusic відновлює вашу чергу, поточний трек і точну позицію відтворення при повторному відкритті додатку.
-{{% /details %}}
+{{% /ls-details %}}

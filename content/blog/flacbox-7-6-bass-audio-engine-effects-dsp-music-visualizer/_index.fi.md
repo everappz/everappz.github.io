@@ -12,7 +12,7 @@ authors:
     image: "/images/about/artem-meleshko-founder-everappz.webp"
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 **Yhteenveto:** [Flacbox 7.6](/products/flacbox) on tähän mennessä suurin päivityksemme iPhonen, iPadin ja Macin hi-res-äänisoittimeen, ja se rakentuu aivan uuden **BASS™-äänimoottorin** ympärille häviöttömälle ja korkearesoluutioiselle kuuntelulle. Voit valita BASS™-moottorin vaihtoehtoiseksi toistoytimeksi ja avata täyden ketjun **reaaliaikaisia äänitehosteita**, **14 suodattimen DSP-prosessorin**, **koko näytön reaaliaikaisen musiikkivisualisoinnin** sekä klassisen **tracker- ja MOD-musiikin** toiston (MOD, XM, IT, S3M, MTM, UMX, MO3). Päivitys tuo myös **automaattisen äänekkyyteen perustuvan äänenvoimakkuuden tasauksen**, **yhdentoista efektin studiopaketin** (kaiku, viive, monitoistokaiku, chorus, flanger, phaser, auto-wah, säröefekti, kompressori, stereokierto ja crossfeed), **uudistetun efektien ja taajuuskorjaimen ulkoasun** modernein lasityylisin liukusäätimin sekä **CarPlay-parannuksia**, mukaan lukien DSP-asetukset autossa ja tarkemmat lukitusnäytön, kellon ja auton ohjaimet. Konepellin alla: luotettavampi suoratoistoperusta, parempi tiedostotyyppien käsittely, laajempi lokalisointi ja lukuisia vakaus- ja suorituskykykorjauksia.
 
@@ -139,50 +139,50 @@ Kiitos, että käytät Flacboxia. Musiikkisi kuulostaa nyt loistavalta ja näytt
 
 ## Usein kysytyt kysymykset
 
-{{% details title="Mitä uutta on Flacbox 7.6:ssa?" closed="true" %}}
+{{% ls-details title="Mitä uutta on Flacbox 7.6:ssa?" closed="true" %}}
 Flacbox 7.6 lisää uuden ammattitason **BASS™-äänimoottorin**, jonka voit valita vaihtoehtoiseksi toistoytimeksi, **automaattisen äänekkyyteen perustuvan äänenvoimakkuuden tasauksen**, **yhdentoista efektin studiopaketin** (kaiku, viive, monitoistokaiku, chorus, flanger, phaser, auto-wah, säröefekti, kompressori, stereokierto ja crossfeed), **14 suodattimen reaaliaikaisen DSP-prosessorin**, **koko näytön reaaliaikaisen musiikkivisualisoinnin**, natiivin **tracker- ja MOD**-toiston (MOD, XM, IT, S3M, MTM, UMX, MO3), **uudistetun efektien ja taajuuskorjaimen ulkoasun** sekä **CarPlay-parannuksia**. Se sisältää myös luotettavamman suoratoistoperustan, paremman tiedostotyyppien käsittelyn, laajemman lokalisoinnin ja lukuisia vakaus- ja suorituskykykorjauksia.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Mikä on Flacboxin uusi BASS™-äänimoottori?" closed="true" %}}
+{{% ls-details title="Mikä on Flacboxin uusi BASS™-äänimoottori?" closed="true" %}}
 [BASS™](https://www.un4seen.com)-äänimoottori, joka on rakennettu un4seen Developmentsin BASS™-äänikirjaston varaan, on ammattitason toistoydin, jonka voit valita **vaihtoehdoksi Flacboxin olemassa olevalle moottorille**. Sen valitseminen avaa täyden ketjun reaaliaikaisia äänitehosteita, DSP-prosessorin ja reaaliaikaisen visualisoinnin, ja se tuo mukanaan klassisen tracker- ja MOD-musiikin toiston. Se toistaa olemassa olevaa häviötöntä ja hi-res-kirjastoasi (FLAC, DSD, ALAC, APE ja muut) **korkealaatuisella uudelleennäytteistyksellä** ja **tarkalla sävelkorkeuden ja tempon hallinnalla**. Voit vaihtaa takaisin klassiseen moottoriin milloin tahansa.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Mitä ääniformaatteja ja tracker-/MOD-tyyppejä Flacbox 7.6 toistaa?" closed="true" %}}
+{{% ls-details title="Mitä ääniformaatteja ja tracker-/MOD-tyyppejä Flacbox 7.6 toistaa?" closed="true" %}}
 Flacbox pysyy hi-res- ja häviöttömänä soittimena, joka käsittelee **FLAC-, DSD-, APE-, ALAC-, WAV-, AIFF-, MP3-, AAC- ja Opus**-tiedostoja sekä muita. Uutta versiossa 7.6: BASS™-moottori toistaa myös klassista **tracker- ja moduulimusiikkia**: **MOD, XM, IT, S3M, MTM, UMX ja MO3** — kuvio- ja näyteformaatteja, joita käytetään chiptune- ja demoscene-musiikissa ja joita useimmat iPhone-soittimet eivät pysty avaamaan.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Miten automaattinen äänenvoimakkuuden tasaus toimii Flacboxissa?" closed="true" %}}
+{{% ls-details title="Miten automaattinen äänenvoimakkuuden tasaus toimii Flacboxissa?" closed="true" %}}
 Flacbox 7.6 käyttää **EBU R128 -äänekkyysmittausta** (ITU-R BS.1770 -standardi) pitääkseen eri albumeilta peräisin olevat kappaleet johdonmukaisella koetulla äänenvoimakkuudella, jotta sinun ei tarvitse säätää äänenvoimakkuutta kappaleiden välillä. **Paikallisten tiedostojen osalta kirjastosi esiskannataan**, joten toisto käynnistyy jo valmiiksi tasattuna — ei viivettä sillä aikaa, kun sovellus mittaa äänekkyyttä kappaleen alettua. Käytettävissä on neljä esiasetusta — **Kevyt** (−20 LUFS), **Vakio** (−16 LUFS), **Voimakas** (−14 LUFS) ja **Yö** (−23 LUFS) — ja se toimii sekalaisten kirjastojen, kokoelmalevyjen ja satunnaistoiston istuntojen kanssa.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Mitä äänitehosteita Flacbox 7.6:ssa on?" closed="true" %}}
+{{% ls-details title="Mitä äänitehosteita Flacbox 7.6:ssa on?" closed="true" %}}
 Yksitoista reaaliaikaista efektiä, joita voit pinota ja säätää musiikin soidessa: **kaiku, viive, monitoistokaiku, chorus, flanger, phaser, auto-wah, säröefekti, kompressori, stereokierto ja crossfeed**. Jokaisella efektillä on **oma näyttönsä, kirjasto esiasetuksia ja välitön päälle/pois-kytkin**, ja Flacbox muistaa asetuksesi istuntojen välillä. Erityisesti crossfeed saa jyrkästi panoroidut äänitteet kuulostamaan luonnollisemmilta kuulokkeissa.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Mikä DSP-prosessori on ja mitä suodattimia se sisältää?" closed="true" %}}
+{{% ls-details title="Mikä DSP-prosessori on ja mitä suodattimia se sisältää?" closed="true" %}}
 DSP-prosessorin avulla voit **rakentaa oman reaaliaikaisen signaaliketjusi 14 suodattimesta**: vahvistus, alipäästö-, ylipäästö-, kaistanpäästö- ja loveutussuodatin, peaking-taajuuskorjain, low-shelf- ja high-shelf-taajuuskorjain, soft-clip-saturaatio, bittimurskain, tremolo, viive, rengasmodulaattori ja stereoleveys. Jokaisella suodattimella on **esiasetukset ja välitön päälle/pois-kytkin**, joten voit korjata huoneen, taltuttaa karkeat äänitteet tai suunnitella täysin räätälöidyn sävyn.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Mikä crossfeed on ja miksi käyttäisin sitä kuulokkeissa?" closed="true" %}}
+{{% ls-details title="Mikä crossfeed on ja miksi käyttäisin sitä kuulokkeissa?" closed="true" %}}
 Crossfeed sekoittaa pienen, suodatetun määrän kutakin stereokanavaa toiseen, samalla tavalla kuin korvasi luonnostaan kuulevat oikeita kaiuttimia huoneessa. Kuulokkeissa tämä vähentää jyrkästi panoroitujen äänitteiden liioiteltua, ”pään sisäistä” erottelua ja tekee pitkästä kuuntelusta miellyttävämpää. Se on erityisen tehokas vanhemmissa 1960- ja 1970-luvun stereomiksauksissa.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Toimiiko Flacboxin musiikkivisualisointi kaikilla laitteilla?" closed="true" %}}
+{{% ls-details title="Toimiiko Flacboxin musiikkivisualisointi kaikilla laitteilla?" closed="true" %}}
 Kyllä. **Reaaliaikainen musiikkivisualisointi** näyttää koko näytön animoituja visuaaleja, jotka reagoivat musiikkiisi reaaliajassa, ja mukana on laaja esiasetuskirjasto, josta voit valita tai jonka voit antaa vaihtua automaattisesti. Se on **käytettävissä kaikkien toistomoottorien kanssa kaikilla laitteillasi**, ja sisäänrakennettu **näytön uniestäjä** pitää näytön hereillä, jotta visuaalit eivät katkea kesken kappaleen.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Voinko muuttaa sävelkorkeutta ja tempoa vaikuttamatta toiseen?" closed="true" %}}
+{{% ls-details title="Voinko muuttaa sävelkorkeutta ja tempoa vaikuttamatta toiseen?" closed="true" %}}
 Kyllä. Kun käytät uutta BASS™-moottoria, Flacbox 7.6 tarjoaa **tarkan, riippumattoman sävelkorkeuden ja tempon hallinnan** — muuta kappaleen nopeutta muuttamatta sen sävellajia tai siirrä sävellajia muuttamatta nopeutta. Se on hyödyllistä harjoitteluun, transkriptioon ja DJ-tyyliseen kuunteluun.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Mikä parani CarPlayssa Flacbox 7.6:ssa?" closed="true" %}}
+{{% ls-details title="Mikä parani CarPlayssa Flacbox 7.6:ssa?" closed="true" %}}
 CarPlay sisältää nyt **DSP-asetukset**, joten pääset kokoonpanoosi autosta, **korjatun albumin kansikuvan ja Toistetaan nyt** -renderöinnin sekä **tarkemmat lukitusnäytön, Apple Watchin ja auton ohjaimet**, jotka pysyvät synkronoituina toiston kanssa. Yhdistettynä luotettavampaan suoratoistoperustaan häviöttömän kirjastosi kuuntelu tien päällä on sujuvampaa.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Toimivatko efektit, DSP ja taajuuskorjain pilvisuoratoiston kanssa?" closed="true" %}}
+{{% ls-details title="Toimivatko efektit, DSP ja taajuuskorjain pilvisuoratoiston kanssa?" closed="true" %}}
 Kyllä. Efektit, DSP-suodattimet, taajuuskorjain ja äänenvoimakkuuden tasaus toimivat reaaliajassa BASS™-toistomoottorin sisällä, joten ne vaikuttavat kaikkeen, mitä Flacbox toistaa — **paikallisiin tiedostoihin, pilviasemiin (iCloud Drive, Google Drive, Dropbox, OneDrive ja muut), mediapalvelimiin ja verkkojakoihin** — ilman tiedostojesi uudelleenkoodausta.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Onko Flacbox 7.6 ilmainen päivitys, ja mitä laitteita se tukee?" closed="true" %}}
+{{% ls-details title="Onko Flacbox 7.6 ilmainen päivitys, ja mitä laitteita se tukee?" closed="true" %}}
 Kyllä. Flacbox on **ilmainen ladata** App Storesta, ja 7.6 on **ilmainen päivitys** nykyisille käyttäjille, ja edistyneille ominaisuuksille on valinnaisia sovelluksen sisäisiä päivityksiä. Se toimii **iPhonella, iPadilla ja Macilla**. CarPlay vaatii CarPlay-yhteensopivan ajoneuvon tai pääyksikön.
-{{% /details %}}
+{{% /ls-details %}}

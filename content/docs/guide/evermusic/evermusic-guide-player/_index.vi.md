@@ -17,7 +17,7 @@ Trình phát là màn hình ứng dụng chính nơi bạn có thể kiểm soá
 ## Truy cập Trình phát
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Màn hình Trình phát âm thanh Evermusic" image="/docs/guide/evermusic/evermusic-guide-player/img/player-main.webp" >}}
+  {{< ls-card title="" subtitle="Màn hình Trình phát âm thanh Evermusic" image="/docs/guide/evermusic/evermusic-guide-player/img/player-main.webp" >}}
 {{< /cards >}}
 
 Bạn có thể truy cập trình phát toàn màn hình từ chế độ xem mini player. Trên iPhone, bạn sẽ thấy mini player phía trên thanh tab trên màn hình chính. Trên iPad hoặc Mac, nó có thể truy cập từ menu bên trái. Để thu gọn mini player, nhấn vào biểu tượng của nó và vuốt xuống. Để hoàn toàn ẩn trình phát toàn màn hình, chỉ cần nhấn nút đóng ở góc dưới bên phải.
@@ -44,7 +44,7 @@ Nếu bạn muốn ngẫu nhiên, tùy chọn «Phát ngẫu nhiên» là lựa 
 ## Điều chỉnh âm lượng
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Điều chỉnh âm lượng với AirPlay và Google Cast" image="/docs/guide/evermusic/evermusic-guide-player/img/player-volume-control.webp" >}}
+  {{< ls-card title="" subtitle="Điều chỉnh âm lượng với AirPlay và Google Cast" image="/docs/guide/evermusic/evermusic-guide-player/img/player-volume-control.webp" >}}
 {{< /cards >}}
 
 Tìm thanh trượt âm lượng trên màn hình Cài đặt âm thanh bằng cách nhấn vào biểu tượng âm thanh bên dưới các điều khiển phát lại. Bạn có thể thay đổi âm lượng bằng thanh trượt này hoặc các nút âm lượng tiêu chuẩn trên thiết bị. Ngoài ra, bạn sẽ tìm thấy một số nút phát trực tuyến tiện dụng:
@@ -63,7 +63,7 @@ Mặt khác, nếu bạn thích AirPlay, hãy tìm nút AirPlay ở cuối màn 
 ## Bộ chỉnh âm
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Bộ chỉnh âm 10 dải" image="/docs/guide/evermusic/evermusic-guide-player/img/player-equalizer.webp" >}}
+  {{< ls-card title="" subtitle="Bộ chỉnh âm 10 dải" image="/docs/guide/evermusic/evermusic-guide-player/img/player-equalizer.webp" >}}
 {{< /cards >}}
 
 Evermusic được tích hợp bộ chỉnh âm 10 dải, hoàn chỉnh với các cài đặt trước theo phong cách iPod, bộ khuếch đại trước và cài đặt bộ chỉnh âm thủ công. Để kích hoạt bộ chỉnh âm, chỉ cần nhấn nút «Bộ chỉnh âm» trên thanh công cụ phía dưới và bật công tắc ở góc trên bên phải. Bạn có thể chọn từ nhiều cài đặt trước bộ chỉnh âm được xác định trước như «Acoustic», «Bass Booster», «Classical» và nhiều hơn nữa. Nếu bạn là người yêu âm thanh, bạn sẽ đánh giá cao khả năng tinh chỉnh từng dải tần số bằng thanh trượt. Hãy thoải mái tạo và lưu các cài đặt trước bộ chỉnh âm của riêng bạn. Nếu một bài không đủ to, bạn cũng có thể điều chỉnh độ khuếch đại preamplifier. Chúng tôi có hướng dẫn chi tiết hơn về cách sử dụng bộ chỉnh âm [tại đây](/docs/howto/how-to-use-the-audio-equalizer-on-your-iphone-ipad-mac-with-evermusic-and-flacbox).
@@ -71,7 +71,7 @@ Evermusic được tích hợp bộ chỉnh âm 10 dải, hoàn chỉnh với c�
 ## Thanh công cụ chế độ trình phát
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Thanh công cụ trên cùng của trình phát với Tìm kiếm và Tốc độ" image="/docs/guide/evermusic/evermusic-guide-player/img/player-top-toolbar.webp" >}}
+  {{< ls-card title="" subtitle="Thanh công cụ trên cùng của trình phát với Tìm kiếm và Tốc độ" image="/docs/guide/evermusic/evermusic-guide-player/img/player-top-toolbar.webp" >}}
 {{< /cards >}}
 
 Đối với một số kiểu màn hình trình phát, bạn sẽ thấy thanh công cụ chế độ trình phát ở đầu màn hình trình phát, ngay bên dưới thanh điều hướng. Thanh công cụ tiện dụng này chứa ba nút.
@@ -82,7 +82,7 @@ Evermusic được tích hợp bộ chỉnh âm 10 dải, hoàn chỉnh với c�
 ## Dấu trang âm thanh
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Dấu trang âm thanh cho sách nói và bài giảng" image="/docs/guide/evermusic/evermusic-guide-player/img/player-bookmarks.webp" >}}
+  {{< ls-card title="" subtitle="Dấu trang âm thanh cho sách nói và bài giảng" image="/docs/guide/evermusic/evermusic-guide-player/img/player-bookmarks.webp" >}}
 {{< /cards >}}
 
 Đây là nơi bạn có thể tạo nhiều dấu trang cho các bài trong thư viện nhạc của mình. Chúng tôi có hướng dẫn đầy đủ về cách sử dụng dấu trang [tại đây](/docs/howto/how-to-listen-to-audiobooks-on-iphone-ipad-mac-using-evermusic).
@@ -90,7 +90,7 @@ Evermusic được tích hợp bộ chỉnh âm 10 dải, hoàn chỉnh với c�
 ## Hàng đợi trình phát
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Hàng đợi trình phát" image="/docs/guide/evermusic/evermusic-guide-player/img/player-queue.webp" >}}
+  {{< ls-card title="" subtitle="Hàng đợi trình phát" image="/docs/guide/evermusic/evermusic-guide-player/img/player-queue.webp" >}}
 {{< /cards >}}
 
 Để truy cập hàng đợi trình phát, chỉ cần nhấn nút hàng đợi trình phát trên thanh công cụ phía dưới. Để di chuyển một bài trong hàng đợi, sử dụng chỉ báo sắp xếp lại gần tiêu đề.
@@ -98,7 +98,7 @@ Evermusic được tích hợp bộ chỉnh âm 10 dải, hoàn chỉnh với c�
 ## Nhận xét / Lời bài hát
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Nhận xét, Lời bài hát nhúng và Tệp LRC" image="/docs/guide/evermusic/evermusic-guide-player/img/player-lyrics.webp" >}}
+  {{< ls-card title="" subtitle="Nhận xét, Lời bài hát nhúng và Tệp LRC" image="/docs/guide/evermusic/evermusic-guide-player/img/player-lyrics.webp" >}}
 {{< /cards >}}
 
 Để xem nhận xét về bài hát và lời bài hát nhúng, cũng như các tệp LRC, hãy làm theo các bước sau:
@@ -114,7 +114,7 @@ Chúng tôi có hướng dẫn đầy đủ về cách xem lời bài hát [tạ
 ## Menu tùy chọn
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Menu tùy chọn cho một mục trong hàng đợi" image="/docs/guide/evermusic/evermusic-guide-player/img/player-queue-item-options-menu.webp" >}}
+  {{< ls-card title="" subtitle="Menu tùy chọn cho một mục trong hàng đợi" image="/docs/guide/evermusic/evermusic-guide-player/img/player-queue-item-options-menu.webp" >}}
 {{< /cards >}}
 
 Mỗi bài trong hàng đợi trình phát âm thanh của bạn có menu với nhiều hành động hơn, mà bạn có thể truy cập bằng cách nhấn nút ba chấm gần tiêu đề bài hát. Các hành động có sẵn là:
@@ -153,7 +153,7 @@ Nhấn nút hành động thêm «...» ở bên trái tiêu đề bài đang ph
 ## Gần đây và Yêu thích
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Các bài hát đã phát gần đây từ Trình phát" image="/docs/guide/evermusic/evermusic-guide-player/img/player-recents.webp" >}}
+  {{< ls-card title="" subtitle="Các bài hát đã phát gần đây từ Trình phát" image="/docs/guide/evermusic/evermusic-guide-player/img/player-recents.webp" >}}
 {{< /cards >}}
 
 Trên màn hình trình phát, bạn có thể truy cập các phần «Gần đây» và «Yêu thích» bằng cách nhấn nút Hành động thêm «…» và chọn mục menu tương ứng. Trong cả hai phần, bạn có thể tìm kiếm bài hát, phát tất cả bài, phát ngẫu nhiên tất cả bài, xuất danh sách và xóa danh sách. Chúng tôi có hướng dẫn chi tiết về cách xuất danh sách bài hát [tại đây](/docs/howto/export-tracks-collection-from-evermusic-flacbox-to-m3u-csv-txt/).
@@ -161,7 +161,7 @@ Trên màn hình trình phát, bạn có thể truy cập các phần «Gần đ
 ## Cửa sổ Mini Player (Chỉ dành cho Mac)
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Cửa sổ Mini Player Mac" image="/docs/guide/evermusic/evermusic-guide-player/img/player-mini-mac.webp" >}}
+  {{< ls-card title="" subtitle="Cửa sổ Mini Player Mac" image="/docs/guide/evermusic/evermusic-guide-player/img/player-mini-mac.webp" >}}
 {{< /cards >}}
 
 Đối với người dùng Mac, có một cửa sổ mini player tiện dụng. Để truy cập, chỉ cần di chuyển con trỏ đến góc dưới bên phải của cửa sổ ứng dụng và thay đổi kích thước xuống nhỏ nhất có thể. Sau đó, nhấn nút thu gọn (hiển thị dưới dạng mũi tên xuống) để kích hoạt cửa sổ mini player. Nếu bạn muốn giữ nó ở trên cùng của các cửa sổ khác, hãy vào thanh menu trên cùng của Mac, chọn «Cửa sổ» và chọn «Luôn hiển thị cửa sổ ở trên cùng». Tính năng này đặc biệt tiện lợi khi bạn đang nghe bài giảng âm thanh và không muốn bị gián đoạn.
@@ -169,7 +169,7 @@ Trên màn hình trình phát, bạn có thể truy cập các phần «Gần đ
 ## Phím tắt (Chỉ dành cho Mac)
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Menu Phát lại trong Thanh trạng thái Mac với Phím tắt" image="/docs/guide/evermusic/evermusic-guide-player/img/player-mac-shortcuts.webp" >}}
+  {{< ls-card title="" subtitle="Menu Phát lại trong Thanh trạng thái Mac với Phím tắt" image="/docs/guide/evermusic/evermusic-guide-player/img/player-mac-shortcuts.webp" >}}
 {{< /cards >}}
 
 Đối với người dùng Mac, có menu phát lại hệ thống trên thanh trạng thái với phím tắt. Ví dụ, để Phát/Tạm dừng, chỉ cần nhấn phím cách trên bàn phím. Các phím tắt cho Dừng, Bài tiếp theo, Bài trước, Bỏ qua thời gian, Lặp lại, Phát ngẫu nhiên và Tốc độ phát lại có sẵn như trong ảnh chụp màn hình.
@@ -177,7 +177,7 @@ Trên màn hình trình phát, bạn có thể truy cập các phần «Gần đ
 ## Cài đặt Trình phát âm thanh
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Cài đặt Trình phát âm thanh" image="/docs/guide/evermusic/evermusic-guide-player/img/player-settings.webp" >}}
+  {{< ls-card title="" subtitle="Cài đặt Trình phát âm thanh" image="/docs/guide/evermusic/evermusic-guide-player/img/player-settings.webp" >}}
 {{< /cards >}}
 
 Để truy cập cài đặt trình phát âm thanh, nhấn nút Thêm trên màn hình trình phát âm thanh và chọn «Cài đặt» từ menu thả xuống. Tại đây, bạn sẽ tìm thấy các phần khác nhau được nhóm theo chức năng:

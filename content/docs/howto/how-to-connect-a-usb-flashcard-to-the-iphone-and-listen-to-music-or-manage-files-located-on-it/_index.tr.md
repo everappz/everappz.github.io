@@ -7,7 +7,7 @@ tags: ["müzik", "dosyalar", "usb", "flash", "harici", "ixpand", "çalma", "kart
 readingTime: 2
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **Özet:** Apple adaptörü veya SanDisk iXpand sürücü kullanarak USB flash sürücü veya SD kartı iPhone'unuza bağlayın, ardından Evermusic, Flacbox veya Evertag kullanarak ses dosyalarınızı doğrudan harici depolamadan göz atın, çalın ve yönetin.
@@ -72,18 +72,18 @@ Bu basit adımlarla müziğinize zahmetsizce erişmenin ve yönetmenin özgürl�
 
 ## Sık Sorulan Sorular
 
-{{% details title="Müzik çalma için iPhone ile hangi USB adaptörleri çalışır?" closed="true" %}}
+{{% ls-details title="Müzik çalma için iPhone ile hangi USB adaptörleri çalışır?" closed="true" %}}
 Apple'ın Lightning to SD Card Camera Reader ve Lightning to USB 3 Camera Adapter'ı çalışır. USB-C adaptörleri USB-C bağlantı noktasına sahip yeni iPhone'larda çalışır. SanDisk iXpand Flash sürücüleri (V1-V7) de Evermusic, Flacbox ve Evertag tarafından yerel olarak desteklenir.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Dosyaları kopyalamadan USB sürücüden doğrudan müzik çalabilir miyim?" closed="true" %}}
+{{% ls-details title="Dosyaları kopyalamadan USB sürücüden doğrudan müzik çalabilir miyim?" closed="true" %}}
 Evet. SanDisk iXpand sürücüleriyle, dosyaları iPhone'unuza kopyalamadan doğrudan sürücüden müzik çalabilirsiniz. Apple adaptörleri kullanırken dosyalar içe aktarılır ancak yerel depolamaya kopyalamak isteyip istemediğinizi seçebilirsiniz.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="USB sürücülerden hangi ses formatları desteklenir?" closed="true" %}}
+{{% ls-details title="USB sürücülerden hangi ses formatları desteklenir?" closed="true" %}}
 Evermusic ve Flacbox, FLAC, MP3, AAC, WAV, ALAC, OGG, WMA ve daha fazlası dahil olmak üzere geniş bir format yelpazesini destekler. Desteklenen tüm formatlar USB depolamadan çalarken çalışır.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="SanDisk iXpand'm 'meşgul' hatası gösteriyor. Ne yapmalıyım?" closed="true" %}}
+{{% ls-details title="SanDisk iXpand'm 'meşgul' hatası gösteriyor. Ne yapmalıyım?" closed="true" %}}
 Başka bir uygulama sürücüye erişiyor olabilir. Flash sürücüyü kullanabilecek diğer tüm uygulamaları kapatın veya çıkarıp yeniden takın. Ardından Evermusic, Flacbox veya Evertag'ı yeniden açın.
-{{% /details %}}
+{{% /ls-details %}}

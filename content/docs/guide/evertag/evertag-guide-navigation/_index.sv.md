@@ -16,7 +16,7 @@ readingTime: 3
 Evertag erbjuder ett intuitivt användargränssnitt. Det som skiljer det från många populära appar är den inbyggda filhanteraren, som ger användarna kraften att redigera ljudfiler och sömlöst överföra dem till och från molnlagring.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evertag-skärm" image="/docs/guide/evertag/img/tag-editor.webp" >}}
+  {{< ls-card title="" subtitle="Evertag-skärm" image="/docs/guide/evertag/img/tag-editor.webp" >}}
 {{< /cards >}}
 
 ## Avsnitt
@@ -42,7 +42,7 @@ Avsnittet Lokala filer är indelat i två kategorier: **Filer i den här applika
 Praktiskt taget varje innehållsobjekt på skärmen har en knapp "Fler åtgärder". Tryck på den för att komma åt alla tillgängliga åtgärder.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evertag Fler åtgärder" image="/docs/guide/evertag/img/downloads-file-actions.webp" >}}
+  {{< ls-card title="" subtitle="Evertag Fler åtgärder" image="/docs/guide/evertag/img/downloads-file-actions.webp" >}}
 {{< /cards >}}
 
 ## Övre verktygsfält

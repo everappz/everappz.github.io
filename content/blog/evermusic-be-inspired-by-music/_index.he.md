@@ -14,7 +14,7 @@ authors:
     image: "/images/about/artem-meleshko-founder-everappz.webp"
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 **בקצרה:** צפו בסרטון הפרסומי הרשמי של Evermusic כדי לראות הזרמת מוזיקה מהענן, השמעה לא מקוונת והתאמה אישית של שמע בפעולה באייפון ו-Mac.
 
@@ -24,7 +24,7 @@ authors:
 
 צפו ב-Evermusic בפעולה — הזרמת מוזיקה מהענן, ניהול רשימות השמעה ואודיו באיכות גבוהה באייפון:
 
-{{< youtubecard id="6mm3LVT4rtA" title="Evermusic Promo Video" >}}
+{{< ls-youtubecard id="6mm3LVT4rtA" title="Evermusic Promo Video" >}}
 
 ## מה תראו בסרטון
 
@@ -41,14 +41,14 @@ Evermusic זמין ל-iPhone, iPad ו-Mac. [הורידו את Evermusic](https:/
 
 ## FAQ
 
-{{% details title="מהו Evermusic?" closed="true" %}}
+{{% ls-details title="מהו Evermusic?" closed="true" %}}
 Evermusic הוא נגן מוזיקה ל-iOS ו-macOS שמזרים שמע משירותי ענן כמו Dropbox, Google Drive, OneDrive ו-iCloud Drive. הוא גם תומך בהשמעה לא מקוונת וכולל אקולייזר מובנה.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="לאילו שירותי ענן Evermusic מתחבר?" closed="true" %}}
+{{% ls-details title="לאילו שירותי ענן Evermusic מתחבר?" closed="true" %}}
 Evermusic מתחבר ל-Dropbox, Google Drive, OneDrive, iCloud Drive, pCloud, Yandex.Disk ומספר ספקי אחסון ענן נוספים.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="האם Evermusic חינמי?" closed="true" %}}
+{{% ls-details title="האם Evermusic חינמי?" closed="true" %}}
 Evermusic חינמי להורדה עם תכונות פרימיום אופציונליות זמינות דרך רכישה בתוך האפליקציה.
-{{% /details %}}
+{{% /ls-details %}}

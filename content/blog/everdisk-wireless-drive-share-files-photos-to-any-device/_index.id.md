@@ -12,7 +12,7 @@ authors:
     image: "/images/about/artem-meleshko-founder-everappz.webp"
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 **Ringkasan:** [Everdisk](/products/everdisk) adalah aplikasi baru kami yang mengubah **iPhone atau iPad Anda menjadi drive nirkabel**, sekaligus pusat yang terhubung ke perangkat Anda yang lain. Ketuk **Start** dan Everdisk menjalankan **empat server sekaligus**: **DLNA** untuk smart TV dan pemutar media, **HTTP** untuk browser web apa pun, **WebDAV** untuk Finder, Windows, dan Linux, serta **FTP** untuk aplikasi file. Setiap perangkat terhubung dengan cara yang disukainya. Bagikan file, foto, video, dan musik Anda dengan apa pun di jaringan Anda, streaming ke TV tanpa kabel, pasang perangkat Anda sebagai drive jaringan, atau pindahkan file lewat **kabel USB** saat tidak ada Wi-Fi. Everdisk juga terhubung keluar ke server **DLNA, WebDAV, FTP, dan SFTP**, memiliki **pengelola file** bawaan dengan zip dan unzip, serta dapat **memindai dokumen ke PDF**, **menandai dan menandatangani PDF**, dan menjalankan **alat PDF** lengkap. Tanpa akun, tanpa cloud, dan tanpa aplikasi tambahan yang harus dipasang di sisi lain. Semuanya tetap di jaringan lokal Anda. Gratis untuk diunduh, dengan pembelian Premium Lifetime sekali bayar yang opsional.
 
@@ -133,46 +133,46 @@ Jika Anda menyukai aplikasinya, silakan beri penilaian di App Store. Itu sangat 
 
 ## Pertanyaan yang Sering Diajukan
 
-{{% details title="Apa itu Everdisk?" closed="true" %}}
+{{% ls-details title="Apa itu Everdisk?" closed="true" %}}
 Everdisk adalah aplikasi baru yang mengubah iPhone atau iPad Anda menjadi drive nirkabel sekaligus pusat yang terhubung ke perangkat Anda yang lain. Anda dapat membagikan file, foto, video, dan musik Anda dengan apa pun di jaringan Anda, menjelajahi dan streaming dari server lain, dan mengelola semuanya langsung di perangkat Anda. Tanpa akun, tanpa cloud, dan tanpa aplikasi tambahan yang harus dipasang di sisi lain. Anda cukup ketuk Start dan Anda siap. Aplikasi ini menjalankan empat server sekaligus: DLNA untuk smart TV dan pemutar media, HTTP untuk browser web apa pun, WebDAV untuk Finder, Windows, dan Linux, serta FTP untuk aplikasi file dan pengguna mahir.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Berapa harga Everdisk?" closed="true" %}}
+{{% ls-details title="Berapa harga Everdisk?" closed="true" %}}
 Everdisk gratis untuk diunduh. Anda dapat mengubah perangkat Anda menjadi drive nirkabel, membagikan file Anda dengan empat cara, streaming ke TV, memasang drive jaringan, transfer lewat USB, terhubung ke server lain, menggunakan pengelola file, memindai dokumen, dan menggunakan alat PDF tanpa biaya. Ada pembelian Premium Lifetime sekali bayar yang opsional, sekali bayar tanpa langganan, yang membuka folder bersama dan koneksi tersimpan tak terbatas, konversi foto dan video, port khusus, mulai berbagi otomatis, dan penyesuaian perangkat. Harga dapat berbeda menurut wilayah.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Apakah saya perlu memasang sesuatu di perangkat lain?" closed="true" %}}
+{{% ls-details title="Apakah saya perlu memasang sesuatu di perangkat lain?" closed="true" %}}
 Tidak. Itulah intinya. Perangkat lain terhubung menggunakan alat yang sudah dimilikinya. Smart TV menemukan pustaka Anda melalui DLNA dengan sendirinya, komputer atau ponsel apa pun membuka tautan di browser web, dan Mac Finder, Windows, serta Linux memasang perangkat Anda sebagai drive jaringan melalui WebDAV. Tidak ada yang perlu dipasang di sisi lain.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Bagaimana cara streaming foto dan video ke TV saya?" closed="true" %}}
+{{% ls-details title="Bagaimana cara streaming foto dan video ke TV saya?" closed="true" %}}
 Letakkan TV atau pemutar media Anda dan perangkat Anda di jaringan Wi-Fi yang sama, lalu ketuk Start di Everdisk dengan foto, video, atau musik Anda dibagikan. Perangkat Anda muncul dengan sendirinya di daftar server media TV, dengan thumbnail pratinjau. Buka di TV dan nikmati pustaka Anda di layar besar. Tanpa kabel dan tanpa aplikasi tambahan.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Bagaimana cara menghubungkan Everdisk dari Mac atau PC saya?" closed="true" %}}
+{{% ls-details title="Bagaimana cara menghubungkan Everdisk dari Mac atau PC saya?" closed="true" %}}
 Everdisk membuat perangkat Anda muncul sebagai drive jaringan biasa melalui WebDAV. Di Mac, buka Finder dan pilih Go, lalu Connect to Server, dan masukkan alamat WebDAV yang ditampilkan di aplikasi. Di Windows, petakan drive jaringan menggunakan alamat yang sama. Di Linux, hubungkan ke alamat WebDAV dari pengelola file Anda. Setelah terhubung, Anda dapat menyeret dan melepas dua arah. Jika Anda lebih suka tidak memasang drive, cukup buka tautan HTTP di browser web apa pun.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Bisakah saya mentransfer file tanpa Wi-Fi?" closed="true" %}}
+{{% ls-details title="Bisakah saya mentransfer file tanpa Wi-Fi?" closed="true" %}}
 Ya. Hubungkan perangkat Anda ke Mac dengan kabel USB yang sama yang Anda gunakan untuk mengisi daya, dan file berpindah langsung melalui kabel, lebih cepat daripada Wi-Fi. Karena tidak memerlukan jaringan nirkabel, ini tetap berfungsi di pesawat, di hotel, atau di jaringan terkunci atau publik mana pun tempat berbagi Wi-Fi diblokir.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Bisakah saya mengirim file dari satu iPhone ke iPhone lain?" closed="true" %}}
+{{% ls-details title="Bisakah saya mengirim file dari satu iPhone ke iPhone lain?" closed="true" %}}
 Ya. Mulai berbagi di satu perangkat dan buka tautannya di browser web di perangkat lain, atau terhubung melalui WebDAV atau FTP. Anda dapat menjelajahi, streaming, dan mengunduh dua arah, dan bahkan mengunggah foto, dokumen, dan seluruh folder kembali ke perangkat yang berbagi.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Everdisk bisa terhubung ke apa saja?" closed="true" %}}
+{{% ls-details title="Everdisk bisa terhubung ke apa saja?" closed="true" %}}
 Everdisk juga merupakan klien untuk perangkat lain di jaringan Anda. Anda dapat menemukan dan terhubung ke server DLNA, WebDAV, FTP, dan SFTP, termasuk perangkat NAS dan server media. Setelah terhubung, Anda dapat menjelajahi folder mereka, streaming audio dan video, mengunduh file, serta membuat folder, mengunggah, mengganti nama, memindahkan, atau menghapus saat server mengizinkan.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Bisakah saya memindai dokumen dan mengedit PDF di Everdisk?" closed="true" %}}
+{{% ls-details title="Bisakah saya memindai dokumen dan mengedit PDF di Everdisk?" closed="true" %}}
 Ya. Everdisk dapat memindai dokumen kertas dengan kamera Anda. Ia menemukan tepi dengan sendirinya, meluruskan setiap halaman, dan menyimpannya sebagai PDF multi-halaman yang rapi. Anda juga dapat membuka PDF atau foto dan menandainya (menggambar, menyorot, menambahkan teks dan bentuk, serta menandatangani dengan jari Anda), dengan perubahan disimpan kembali ke file. Alat PDF lengkap menambahkan kompresi, pengenalan teks (OCR) menjadi PDF yang dapat dicari, perlindungan kata sandi, tinjauan izin, pengeditan metadata, dan perataan.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Apakah Everdisk pribadi dan aman?" closed="true" %}}
+{{% ls-details title="Apakah Everdisk pribadi dan aman?" closed="true" %}}
 Ya. Semuanya tetap di jaringan lokal Anda dan tidak pernah menyentuh internet, sehingga file Anda tidak pernah meninggalkan rumah. Tanpa akun dan tanpa cloud di tengah. Anda dapat melindungi akses dengan login dan kata sandi sehingga perangkat yang terhubung harus memasukkan detail yang sama sebelum dapat melihat file Anda, dan Anda dapat memblokir perangkat mana pun dengan satu ketukan. Untuk privasi terbaik, aktifkan berbagi hanya saat Anda terhubung ke jaringan Wi-Fi yang Anda kenal dan percayai.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Perangkat apa saja yang menjalankan Everdisk?" closed="true" %}}
+{{% ls-details title="Perangkat apa saja yang menjalankan Everdisk?" closed="true" %}}
 Everdisk berjalan di iPhone dan iPad. Ia berbagi dengan, dan terhubung ke, smart TV, pemutar media, komputer Mac, Windows, dan Linux, browser web, ponsel dan tablet lain, drive NAS, dan server DLNA, WebDAV, FTP, atau SFTP mana pun di jaringan Anda.
-{{% /details %}}
+{{% /ls-details %}}

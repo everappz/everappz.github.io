@@ -14,7 +14,7 @@ authors:
     image: "/images/about/artem-meleshko-founder-everappz.webp"
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 **Ringkasan:** Evermusic menang dalam 5 daripada 8 kategori, dengan 3 seri. Ia menawarkan sokongan storan awan yang lebih luas (12+ perkhidmatan vs VOX Cloud sahaja), ciri buku audio terbina dalam, penyunting tag ID3, dan pemindahan fail tanpa wayar. VOX menarik pengguna yang lebih suka awan proprietari dan reka bentuk minimalis.
 
@@ -34,8 +34,8 @@ authors:
 | Kebolehcapaian (VoiceOver) | Ya | Ya | Seri |
 
 {{< cards >}}
-  {{< card link="https://apps.apple.com/us/app/evermusic-cloud-music-player/id885367198" title="Muat turun Evermusic" icon="download" tag="Percuma" >}}
-  {{< card link="https://apps.apple.com/us/app/vox-mp3-flac-music-player/id916215494" title="Muat turun VOX" icon="download" tag="Percuma" >}}
+  {{< ls-card link="https://apps.apple.com/us/app/evermusic-cloud-music-player/id885367198" title="Muat turun Evermusic" icon="download" tag="Percuma" >}}
+  {{< ls-card link="https://apps.apple.com/us/app/vox-mp3-flac-music-player/id916215494" title="Muat turun VOX" icon="download" tag="Percuma" >}}
 {{< /cards >}}
 
 ## Sokongan Storan Awan
@@ -107,18 +107,18 @@ Bagi kebanyakan pengguna iOS yang menguruskan koleksi muzik sendiri, Evermusic m
 
 ## Soalan Lazim
 
-{{% details title="Adakah Evermusic alternatif yang baik untuk VOX?" closed="true" %}}
+{{% ls-details title="Adakah Evermusic alternatif yang baik untuk VOX?" closed="true" %}}
 Ya. Evermusic menyokong 12+ perkhidmatan storan awan berbanding awan proprietari VOX sahaja. Ia juga menawarkan ciri buku audio, penyuntingan tag ID3, dan pemindahan fail Wi-Fi yang tidak dimiliki VOX. Evermusic percuma untuk dimuat turun dengan naik taraf Premium sekali sahaja.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Adakah VOX menyokong Dropbox atau Google Drive?" closed="true" %}}
+{{% ls-details title="Adakah VOX menyokong Dropbox atau Google Drive?" closed="true" %}}
 Tidak. VOX menggunakan storan VOX Cloud proprietarinya sendiri. Ia tidak bersambung ke perkhidmatan pihak ketiga seperti Dropbox, Google Drive, atau OneDrive. Evermusic menyokong semua ini dan banyak lagi.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Aplikasi mana yang lebih baik untuk buku audio: Evermusic atau VOX?" closed="true" %}}
+{{% ls-details title="Aplikasi mana yang lebih baik untuk buku audio: Evermusic atau VOX?" closed="true" %}}
 Evermusic jauh lebih baik untuk buku audio. Ia termasuk kawalan kelajuan main balik, penyimpanan posisi automatik, dan sokongan penanda buku. VOX tidak mempunyai ciri buku audio khusus.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Bolehkah saya menyunting tag muzik di iPhone dengan Evermusic?" closed="true" %}}
+{{% ls-details title="Bolehkah saya menyunting tag muzik di iPhone dengan Evermusic?" closed="true" %}}
 Ya. Evermusic termasuk penyunting tag ID3 terbina dalam yang membolehkan anda membetulkan tajuk trek, nama artis, maklumat album dan metadata lain terus di iPhone atau iPad anda.
-{{% /details %}}
+{{% /ls-details %}}

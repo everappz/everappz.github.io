@@ -7,7 +7,7 @@ tags: ["위젯", "ios17", "동적", "지금 재생 중", "홈 화면", "sonoma"]
 keywords: ["Evermusic 위젯", "Flacbox 위젯", "지금 재생 중 위젯 iOS", "macOS Sonoma 데스크톱 위젯", "오디오 북마크 iPhone", "음악 위젯 Evermusic", "재생 제어 홈 화면", "동적 위젯 iOS 17"]
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **요약:** Evermusic과 Flacbox는 iOS 17+ 및 macOS 14 Sonoma+에서 인터랙티브 지금 재생 중 위젯을 제공합니다. 앱을 열지 않고도 iPhone 홈 화면이나 Mac 데스크톱에서 직접 재생을 제어하고, 트랙을 건너뛰고, 즐겨찾기에 추가하고, 오디오 북마크를 만들 수 있습니다.
@@ -78,22 +78,22 @@ iOS에서 위젯을 추가하려면:
 
 ## 자주 묻는 질문
 
-{{% details title="앱을 열지 않아도 위젯이 작동하나요?" closed="true" %}}
+{{% ls-details title="앱을 열지 않아도 위젯이 작동하나요?" closed="true" %}}
 네. iOS 17 및 macOS 14 Sonoma에서 위젯 버튼은 인터랙티브하며 직접 재생을 제어합니다. 앱이 전면에 있을 필요가 없습니다.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="어떤 위젯 크기를 선택해야 하나요?" closed="true" %}}
+{{% ls-details title="어떤 위젯 크기를 선택해야 하나요?" closed="true" %}}
 기본 재생/일시정지 및 즐겨찾기에는 소형을 선택하세요. 건너뛰기 버튼이 필요하면 중형을 선택하세요. 오디오 북마크 기능도 원하면 대형을 선택하세요.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="위젯으로 오디오북을 이어서 들을 수 있나요?" closed="true" %}}
+{{% ls-details title="위젯으로 오디오북을 이어서 들을 수 있나요?" closed="true" %}}
 네. 설정에서 "오디오 플레이어 상태 저장"을 활성화하면, 앱이 종료된 후에도 위젯이 마지막 위치에서 재생을 재개합니다.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="iPad에서도 위젯을 사용할 수 있나요?" closed="true" %}}
+{{% ls-details title="iPad에서도 위젯을 사용할 수 있나요?" closed="true" %}}
 네. iPadOS 17은 iPhone과 동일한 인터랙티브 위젯을 지원합니다.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Evermusic과 Flacbox 모두 이 위젯을 제공하나요?" closed="true" %}}
+{{% ls-details title="Evermusic과 Flacbox 모두 이 위젯을 제공하나요?" closed="true" %}}
 네. 지금 재생 중 위젯은 Evermusic과 Flacbox 모두에서 동일한 기능으로 사용할 수 있습니다.
-{{% /details %}}
+{{% /ls-details %}}

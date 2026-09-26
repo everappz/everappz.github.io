@@ -21,7 +21,7 @@ aliases:
 The Settings screen is the control center of Evermusic. From here you can upgrade to Premium, configure the audio player, manage your music library, set up the file manager, customize the interface, enable widgets and CarPlay, back up your data, and access help and legal information. Sections are grouped under headers: **Purchases & updates**, app preferences, **Help**, and **Legal & privacy**.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evermusic Settings Screen" image="/docs/guide/evermusic/evermusic-guide-settings/img/settings-main-screen.webp" >}}
+  {{< ls-card title="" subtitle="Evermusic Settings Screen" image="/docs/guide/evermusic/evermusic-guide-settings/img/settings-main-screen.webp" >}}
 {{< /cards >}}
 
 ## Purchases & Updates

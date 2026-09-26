@@ -7,7 +7,7 @@ tags: ["evermusic", "audio", "editor", "tag", "komen"]
 readingTime: 4
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **Ringkasan:** Evermusic dan Flacbox membolehkan anda menambah komen teks dengan penanda masa pada mana-mana trek audio, kemudian memaparkannya secara segerak semasa main balik. Anda juga boleh melihat lirik terbenam dan fail LRC. Ciri komen dan lirik adalah percuma dalam kedua-dua aplikasi.
@@ -97,22 +97,22 @@ Penambahan komen pada trek audio dalam Evermusic dan Flacbox menandakan lonjakan
 
 ## Soalan Lazim
 
-{{% details title="Adakah ciri komen percuma dalam Evermusic dan Flacbox?" closed="true" %}}
+{{% ls-details title="Adakah ciri komen percuma dalam Evermusic dan Flacbox?" closed="true" %}}
 Ya. Menambah, mengedit dan melihat komen dan lirik adalah ciri percuma dalam kedua-dua Evermusic dan Flacbox.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Format apa yang perlu saya gunakan untuk komen bermasa?" closed="true" %}}
+{{% ls-details title="Format apa yang perlu saya gunakan untuk komen bermasa?" closed="true" %}}
 Gunakan format penanda masa LRC: `[MM:SS.SS]` diikuti teks anda. Contoh: `[01:23.45]Ini adalah komen saya`. Anda boleh menetapkan pelbagai cap masa pada satu baris.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Bolehkah saya melihat lirik dan fail LRC pada skrin yang sama?" closed="true" %}}
+{{% ls-details title="Bolehkah saya melihat lirik dan fail LRC pada skrin yang sama?" closed="true" %}}
 Ya. Skrin Komen menyokong tiga mod yang anda boleh leret antara: Komen, Lirik Terbenam dan Fail LRC.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Di mana saya boleh menemui fail lirik LRC?" closed="true" %}}
+{{% ls-details title="Di mana saya boleh menemui fail lirik LRC?" closed="true" %}}
 Lirik LRC percuma boleh didapati di laman web seperti Lyricsify.com. Anda boleh membenamkannya dalam tag lirik fail audio anda atau meletakkan fail `.lrc` berasingan di sebelah fail audio anda.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Adakah saya memerlukan aplikasi berasingan untuk mengedit tag lirik?" closed="true" %}}
+{{% ls-details title="Adakah saya memerlukan aplikasi berasingan untuk mengedit tag lirik?" closed="true" %}}
 Anda boleh mengedit komen secara langsung dalam Evermusic dan Flacbox. Untuk mengedit tag lirik secara khusus, gunakan Evertag, editor metadata audio percuma untuk iOS dan macOS.
-{{% /details %}}
+{{% /ls-details %}}

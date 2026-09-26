@@ -12,7 +12,7 @@ authors:
     image: "/images/about/artem-meleshko-founder-everappz.webp"
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 **V skratke:** [Evermusic 8.6](/products/evermusic) je veľká aktualizácia pre iPhone, iPad a Mac. CarPlay sme postavili od základu nanovo — rýchle radenie, niekoľko farebných schém, prepracovaná obrazovka Práve sa hrá, plné zobrazenie radu a rýchly abecedný index. Verzia pridáva viac ako 10 nových pripojení — **Plex**, **Jellyfin**, **Emby**, **Subsonic**, **Navidrome**, **Internxt**, **Proton Drive**, **QNAP**, **Nextcloud**, **Amazon S3** — plus protokoly **FTP**, **SFTP** a **NFS**. Nový **widget synchronizovaných textov na Domovskej obrazovke** zobrazuje časovo zarovnané texty počas počúvania. Wi-Fi Drive získava nové rozhranie, režim výberu a rýchlejší rad nahrávania. Celá aplikácia je upravená pre dizajn **Liquid Glass** a streamovanie z čínskych serverov ako **Baidu Netdisk (百度网盘)** a **Aliyun Drive (阿里云盘)** je spoľahlivejšie.
 
@@ -161,54 +161,54 @@ Ak sa vám aplikácia páči, zanechajte hodnotenie v App Store — naozaj to po
 
 ## Často kladené otázky
 
-{{% details title="Čo je nové v Evermusic 8.6?" closed="true" %}}
+{{% ls-details title="Čo je nové v Evermusic 8.6?" closed="true" %}}
 Evermusic 8.6 prináša úplne prepracovaný zážitok z CarPlay, podporu viac ako 10 nových pripojení (Plex, Jellyfin, Emby, Subsonic, Navidrome, Internxt, Proton Drive, QNAP, Nextcloud, Amazon S3, FTP, SFTP, NFS), nový widget synchronizovaných textov pre Domovskú obrazovku, vylepšenia rozhrania Wi-Fi Drive s režimom výberu, aktualizácie dizajnu Liquid Glass, lepšiu spoľahlivosť pre Baidu Netdisk a Aliyun Drive a mnoho opráv chýb.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Funguje Evermusic s Plex?" closed="true" %}}
+{{% ls-details title="Funguje Evermusic s Plex?" closed="true" %}}
 Áno. Od Evermusic 8.6 sa môžete pripojiť k serveru Plex Media a streamovať celú svoju hudobnú knižnicu. Plex Media Server je zadarmo na spustenie; Plex Pass je voliteľný. Evermusic podporuje bezplatné aj Plex Pass nastavenia.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Sú Jellyfin alebo Navidrome v Evermusic podporované?" closed="true" %}}
+{{% ls-details title="Sú Jellyfin alebo Navidrome v Evermusic podporované?" closed="true" %}}
 Áno. Jellyfin aj Navidrome sú v Evermusic 8.6 plne podporované. Jellyfin je bezplatný, otvorený mediálny server. Navidrome je bezplatný, otvorený hudobný server, ktorý implementuje Subsonic API. Evermusic sa k obom pripája natívne.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Sú Plex, Jellyfin, Emby, Navidrome a Subsonic zadarmo?" closed="true" %}}
+{{% ls-details title="Sú Plex, Jellyfin, Emby, Navidrome a Subsonic zadarmo?" closed="true" %}}
 - **Plex** — server je zadarmo; Plex Pass je voliteľný platený upgrade.
 - **Jellyfin** — úplne bezplatný a otvorený zdrojový kód.
 - **Emby** — server je zadarmo; Emby Premiere je platený a odomyká mobilnú a offline synchronizáciu.
 - **Navidrome** — úplne bezplatný a otvorený zdrojový kód.
 - **Subsonic** — oficiálny server stojí 1 $/mesiac po 30-dňovej skúšobnej dobe, ale jeho API je otvorené a mnoho bezplatných serverov (vrátane Navidrome) ho implementuje.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Môžem streamovať z domáceho NAS cez SFTP, FTP alebo NFS?" closed="true" %}}
+{{% ls-details title="Môžem streamovať z domáceho NAS cez SFTP, FTP alebo NFS?" closed="true" %}}
 Áno. Evermusic 8.6 pridáva SFTP, FTP a NFS ako natívne typy pripojenia. SFTP je odporúčaná voľba pre streamovanie z vlastného servera cez verejný internet, pretože všetka prevádzka je šifrovaná pomocou SSH. FTP a NFS je najlepšie používať v lokálnej sieti alebo za VPN.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Ako pripojím Evermusic k vlastnému serveru pomocou SFTP?" closed="true" %}}
+{{% ls-details title="Ako pripojím Evermusic k vlastnému serveru pomocou SFTP?" closed="true" %}}
 Otvorte Evermusic, prejdite na záložku Pripojenia, vyberte SFTP a zadajte hostiteľa alebo IP servera, port (zvyčajne 22), používateľské meno a heslo alebo súkromný SSH kľúč. Evermusic prejde vaše vzdialené priečinky a bude streamovať zvukové súbory priamo so šifrovaním z konca na koniec.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Podporuje Evermusic Internxt a Proton Drive?" closed="true" %}}
+{{% ls-details title="Podporuje Evermusic Internxt a Proton Drive?" closed="true" %}}
 Áno. Oba cloudy zamerané na súkromie sú podporované od Evermusic 8.6. Pridávajú sa k Mega a iným privacy-first službám, ktoré sú už v aplikácii dostupné.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Čo je Wi-Fi Drive v Evermusic?" closed="true" %}}
+{{% ls-details title="Čo je Wi-Fi Drive v Evermusic?" closed="true" %}}
 Wi-Fi Drive je vstavaná bezdrôtová funkcia prenosu súborov v Evermusic. Umožňuje vám nahrávať hudbu z počítača do iPhonu alebo iPadu cez lokálnu Wi-Fi sieť — bez iTunes, káblov alebo cloudového účtu. Môžete použiť ľubovoľný desktopový prehliadač alebo WebDAV klienta ako Mac Finder či Windows File Explorer. Pozri [úplný návod Wi-Fi Drive](/docs/howto/how-to-transfer-files-wirelessly-from-a-computer-to-an-iphone-using-wifi-drive/).
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Ako funguje nový widget textov?" closed="true" %}}
+{{% ls-details title="Ako funguje nový widget textov?" closed="true" %}}
 Widget textov zobrazuje časovo synchronizované texty na Domovskej obrazovke iPhonu, iPadu alebo Macu pre práve hranú skladbu. Zobrazený riadok sa automaticky posúva s piesňou. Pridajte ho dlhým stlačením Domovskej obrazovky, ťuknutím na Upraviť > Pridať widget, vyhľadaním Evermusic a výberom widgetu Texty.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Opravuje Evermusic 8.6 problémy s prehrávaním na Baidu Netdisk a Aliyun Drive?" closed="true" %}}
+{{% ls-details title="Opravuje Evermusic 8.6 problémy s prehrávaním na Baidu Netdisk a Aliyun Drive?" closed="true" %}}
 Áno. Vykonali sme významné zlepšenia spoľahlivosti pre 百度网盘 (Baidu Netdisk) a 阿里云盘 (Aliyun Drive), vrátane rýchlejšieho výpisu adresárov, inteligentnejších opätovných pokusov pri slabom pripojení a lepšieho obnovovania počas dlhých relácií prehrávania.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Je aktualizácia na Evermusic 8.6 zadarmo?" closed="true" %}}
+{{% ls-details title="Je aktualizácia na Evermusic 8.6 zadarmo?" closed="true" %}}
 Áno. Evermusic je bezplatné stiahnutie z App Store a 8.6 je bezplatná aktualizácia pre všetkých existujúcich používateľov. Nový CarPlay, widget textov a všetky nové serverové integrácie sú súčasťou základnej aktualizácie.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Na akých zariadeniach je Evermusic 8.6 dostupný?" closed="true" %}}
+{{% ls-details title="Na akých zariadeniach je Evermusic 8.6 dostupný?" closed="true" %}}
 Evermusic 8.6 funguje na iPhone, iPad a Mac. Podpora CarPlay vyžaduje vozidlo alebo doplnkovú hlavnú jednotku kompatibilnú s CarPlay.
-{{% /details %}}
+{{% /ls-details %}}

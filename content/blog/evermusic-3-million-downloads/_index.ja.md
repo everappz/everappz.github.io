@@ -12,7 +12,7 @@ authors:
     image: "/images/about/artem-meleshko-founder-everappz.webp"
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 ## 300万ダウンロード
 
@@ -98,22 +98,22 @@ Evermusicはオプションのプレミアム機能付きでApp Storeで無料�
 
 ## よくある質問
 
-{{% details title="Evermusicは無料ですか？" closed="true" %}}
+{{% ls-details title="Evermusicは無料ですか？" closed="true" %}}
 はい。Evermusicは基本機能を無料でダウンロードできます。イコライザーや高度なクラウドオプションなどのプレミアム機能はオプションのアップグレードで利用できます。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Evermusicでオーディオブックを再生できますか？" closed="true" %}}
+{{% ls-details title="Evermusicでオーディオブックを再生できますか？" closed="true" %}}
 はい。Evermusicは再生位置を保存し、ブックマーク、調整可能な再生速度（0.5倍～2.0倍）、スリープタイマーをサポートしているため、オーディオブックやポッドキャストに適しています。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Evermusicはどのクラウドサービスに接続しますか？" closed="true" %}}
+{{% ls-details title="Evermusicはどのクラウドサービスに接続しますか？" closed="true" %}}
 Dropbox、Google Drive、OneDrive、Box、MEGA、Yandex.Disk、MyDrive、pCloud、HiDrive、SMBファイル共有、WebDAVサーバー。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="EvermusicでSDカードを使用できますか？" closed="true" %}}
+{{% ls-details title="EvermusicでSDカードを使用できますか？" closed="true" %}}
 はい。iPhoneまたはiPadにLightningまたはUSB-C SDカードリーダーを接続し、Evermusicを通じてカードから直接音楽をストリーミングできます。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="EvermusicはMacで動作しますか？" closed="true" %}}
+{{% ls-details title="EvermusicはMacで動作しますか？" closed="true" %}}
 はい。EvermusicはiOSとmacOSの両方で利用可能で、すべてのプラットフォームでクラウドストリーミングとオフライン再生が可能です。
-{{% /details %}}
+{{% /ls-details %}}

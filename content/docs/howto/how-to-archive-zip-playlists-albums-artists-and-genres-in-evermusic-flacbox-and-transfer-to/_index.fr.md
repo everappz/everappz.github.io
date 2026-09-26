@@ -7,7 +7,7 @@ tags: ["evermusic", "flacbox", "archive", "sauvegarde", "exporter", "liste de le
 readingTime: 2
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **Résumé :** Evermusic et Flacbox peuvent archiver n'importe quelle liste de lecture, album, artiste ou genre dans un fichier ZIP avec une liste de lecture M3U, la pochette d'album et tous les fichiers audio. Transférez le ZIP vers un autre appareil, décompressez-le et importez le M3U pour reconstruire la liste de lecture instantanément.
@@ -104,22 +104,22 @@ En suivant ce guide, vous pouvez efficacement archiver et transférer vos listes
 
 ## Questions fréquemment posées
 
-{{% details title="Qu'est-ce qui est inclus dans l'archive ZIP ?" closed="true" %}}
+{{% ls-details title="Qu'est-ce qui est inclus dans l'archive ZIP ?" closed="true" %}}
 L'archive contient tous les fichiers audio, un fichier de liste de lecture M3U qui préserve l'ordre des pistes, et la pochette d'album de la liste de lecture sauvegardée comme fichier image séparé.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="L'archivage fonctionne-t-il avec les fichiers cloud ?" closed="true" %}}
+{{% ls-details title="L'archivage fonctionne-t-il avec les fichiers cloud ?" closed="true" %}}
 Oui. L'application télécharge automatiquement tous les fichiers stockés dans le cloud avant de les ajouter à l'archive. Vous pouvez surveiller la progression du téléchargement dans la section des transferts de fichiers.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Puis-je aussi archiver des albums, artistes et genres ?" closed="true" %}}
+{{% ls-details title="Puis-je aussi archiver des albums, artistes et genres ?" closed="true" %}}
 Oui. L'option « Ajouter à l'archive » est disponible pour les listes de lecture, albums, artistes et genres. Le processus est identique pour tous.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Comment transférer l'archive vers un autre appareil ?" closed="true" %}}
+{{% ls-details title="Comment transférer l'archive vers un autre appareil ?" closed="true" %}}
 Vous pouvez téléverser le ZIP vers un stockage cloud (Google Drive, Dropbox, etc.), utiliser AirDrop, ou transférer sans fil via la fonction intégrée Wi-Fi Drive dans Evermusic et Flacbox.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="La structure de la liste de lecture sera-t-elle préservée après le transfert ?" closed="true" %}}
+{{% ls-details title="La structure de la liste de lecture sera-t-elle préservée après le transfert ?" closed="true" %}}
 Oui. Le fichier M3U stocke la structure de la liste de lecture avec des chemins relatifs. Après décompression sur le nouvel appareil, importez le fichier M3U pour reconstruire la liste de lecture avec toutes les pistes dans l'ordre original.
-{{% /details %}}
+{{% /ls-details %}}

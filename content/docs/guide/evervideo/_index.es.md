@@ -74,18 +74,18 @@ Esta guía te lleva por cada parte de Evervideo en iPhone, iPad y Mac — desde 
 
 {{< cards cols="2">}}
 
-{{< card icon="map" link="/docs/guide/evervideo/evervideo-guide-navigation" title="Navegación" subtitle="Barra de pestañas en iPhone, menú izquierdo en iPad y Mac, reproductor multimedia compacto siempre visible." >}}
+{{< ls-card icon="map" link="/docs/guide/evervideo/evervideo-guide-navigation" title="Navegación" subtitle="Barra de pestañas en iPhone, menú izquierdo en iPad y Mac, reproductor multimedia compacto siempre visible." >}}
 
-{{< card icon="folder" link="/docs/guide/evervideo/evervideo-guide-files" title="Archivos" subtitle="Una pestaña unificada para cloud, NAS, transmisiones RTSP, archivos locales, unidades USB y la cola de transferencias." >}}
+{{< ls-card icon="folder" link="/docs/guide/evervideo/evervideo-guide-files" title="Archivos" subtitle="Una pestaña unificada para cloud, NAS, transmisiones RTSP, archivos locales, unidades USB y la cola de transferencias." >}}
 
-{{< card icon="collection" link="/docs/guide/evervideo/evervideo-guide-video-library" title="Biblioteca Multimedia" subtitle="Navega por Álbumes, Géneros, Recientes, Favoritos — más la biblioteca de Fotos de iOS y Apple Music." >}}
+{{< ls-card icon="collection" link="/docs/guide/evervideo/evervideo-guide-video-library" title="Biblioteca Multimedia" subtitle="Navega por Álbumes, Géneros, Recientes, Favoritos — más la biblioteca de Fotos de iOS y Apple Music." >}}
 
-{{< card icon="music-note" link="/docs/guide/evervideo/evervideo-guide-playlists" title="Listas de reproducción" subtitle="Crea listas de reproducción desde la nube, archivos locales, Fotos o la biblioteca de Música, importa M3U / M3U8 / CUE." >}}
+{{< ls-card icon="music-note" link="/docs/guide/evervideo/evervideo-guide-playlists" title="Listas de reproducción" subtitle="Crea listas de reproducción desde la nube, archivos locales, Fotos o la biblioteca de Música, importa M3U / M3U8 / CUE." >}}
 
-{{< card icon="play" link="/docs/guide/evervideo/evervideo-guide-player" title="Reproductor Multimedia" subtitle="Picture-in-Picture, pistas de audio y video, subtítulos, ecualizadores de audio + video, AirPlay, Chromecast." >}}
+{{< ls-card icon="play" link="/docs/guide/evervideo/evervideo-guide-player" title="Reproductor Multimedia" subtitle="Picture-in-Picture, pistas de audio y video, subtítulos, ecualizadores de audio + video, AirPlay, Chromecast." >}}
 
-{{< card icon="adjustments" link="/docs/guide/evervideo/evervideo-guide-settings" title="Ajustes" subtitle="Motor de audio, decodificador de video, subtítulos, biblioteca, gestor de archivos, widgets, personalización, idioma, copia de seguridad." >}}
+{{< ls-card icon="adjustments" link="/docs/guide/evervideo/evervideo-guide-settings" title="Ajustes" subtitle="Motor de audio, decodificador de video, subtítulos, biblioteca, gestor de archivos, widgets, personalización, idioma, copia de seguridad." >}}
 
-{{< card icon="question-mark-circle" link="/docs/faq/evervideo" title="FAQ" subtitle="Encuentra respuestas a las preguntas más frecuentes sobre Evervideo." >}}
+{{< ls-card icon="question-mark-circle" link="/docs/faq/evervideo" title="FAQ" subtitle="Encuentra respuestas a las preguntas más frecuentes sobre Evervideo." >}}
 
 {{< /cards >}}

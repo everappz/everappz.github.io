@@ -7,7 +7,7 @@ tags: ["hudba", "soubory", "usb", "flash", "externí", "ixpand", "přehrát", "k
 readingTime: 2
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **Shrnutí:** Připojte USB flash disk nebo SD kartu k vašemu iPhone pomocí adaptéru Apple nebo disku SanDisk iXpand a poté použijte Evermusic, Flacbox nebo Evertag k procházení, přehrávání a správě vašich audio souborů přímo z externího úložiště.
@@ -72,18 +72,18 @@ Užijte si svobodu přístupu a správy vaší hudby bez námahy s těmito jedno
 
 ## Často kladené otázky
 
-{{% details title="Které USB adaptéry fungují s iPhone pro přehrávání hudby?" closed="true" %}}
+{{% ls-details title="Které USB adaptéry fungují s iPhone pro přehrávání hudby?" closed="true" %}}
 Fungují jak Lightning to SD Card Camera Reader, tak Lightning to USB 3 Camera Adapter od Apple. Adaptéry USB-C fungují na novějších iPhonech s porty USB-C. Flash disky SanDisk iXpand (V1-V7) jsou také nativně podporovány aplikacemi Evermusic, Flacbox a Evertag.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Mohu přehrávat hudbu přímo z USB disku bez kopírování souborů?" closed="true" %}}
+{{% ls-details title="Mohu přehrávat hudbu přímo z USB disku bez kopírování souborů?" closed="true" %}}
 Ano. S disky SanDisk iXpand můžete přehrávat hudbu přímo z disku bez kopírování souborů do vašeho iPhone. Při použití adaptérů Apple jsou soubory importovány, ale můžete si vybrat, zda je chcete zkopírovat do místního úložiště.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Jaké audio formáty jsou podporovány z USB disků?" closed="true" %}}
+{{% ls-details title="Jaké audio formáty jsou podporovány z USB disků?" closed="true" %}}
 Evermusic a Flacbox podporují širokou škálu formátů včetně FLAC, MP3, AAC, WAV, ALAC, OGG, WMA a dalších. Všechny podporované formáty fungují při přehrávání z USB úložiště.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Můj SanDisk iXpand zobrazuje chybu 'zaneprázdněn'. Co mám dělat?" closed="true" %}}
+{{% ls-details title="Můj SanDisk iXpand zobrazuje chybu 'zaneprázdněn'. Co mám dělat?" closed="true" %}}
 K disku může přistupovat jiná aplikace. Zavřete všechny ostatní aplikace, které by mohly disk používat, nebo jej odpojte a znovu vložte. Poté znovu otevřete Evermusic, Flacbox nebo Evertag.
-{{% /details %}}
+{{% /ls-details %}}

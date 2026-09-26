@@ -28,19 +28,19 @@ Ce guide explique chaque partie de l'application, etape par etape. Choisissez un
 
 
 {{< cards >}}
-  {{< card icon="play" title="Partage" subtitle="Appuyez sur Demarrer, choisissez ce que vous voulez partager, et lancez les cinq serveurs d'un coup. Decouvrez l'ecran Partage de A a Z." link="/docs/guide/everdisk/everdisk-guide-sharing" >}}
+  {{< ls-card icon="play" title="Partage" subtitle="Appuyez sur Demarrer, choisissez ce que vous voulez partager, et lancez les cinq serveurs d'un coup. Decouvrez l'ecran Partage de A a Z." link="/docs/guide/everdisk/everdisk-guide-sharing" >}}
 
-  {{< card icon="desktop-computer" title="Connecter vos appareils" subtitle="Comment une TV, un Mac ou PC, un navigateur web, un autre telephone ou un cable USB se connecte a vos fichiers partages." link="/docs/guide/everdisk/everdisk-guide-connect" >}}
+  {{< ls-card icon="desktop-computer" title="Connecter vos appareils" subtitle="Comment une TV, un Mac ou PC, un navigateur web, un autre telephone ou un cable USB se connecte a vos fichiers partages." link="/docs/guide/everdisk/everdisk-guide-connect" >}}
 
-  {{< card icon="server" title="Se connecter a des serveurs" subtitle="Atteignez d'autres serveurs DLNA, WebDAV, FTP, SFTP et SMB et des NAS de votre reseau pour parcourir, diffuser et telecharger." link="/docs/guide/everdisk/everdisk-guide-devices" >}}
+  {{< ls-card icon="server" title="Se connecter a des serveurs" subtitle="Atteignez d'autres serveurs DLNA, WebDAV, FTP, SFTP et SMB et des NAS de votre reseau pour parcourir, diffuser et telecharger." link="/docs/guide/everdisk/everdisk-guide-devices" >}}
 
-  {{< card icon="folder" title="Fichiers et documents" subtitle="Parcourez, creez des dossiers, renommez, deplacez, copiez et supprimez, compressez et decompressez, connectez des dossiers externes et numerisez en PDF." link="/docs/guide/everdisk/everdisk-guide-files" >}}
+  {{< ls-card icon="folder" title="Fichiers et documents" subtitle="Parcourez, creez des dossiers, renommez, deplacez, copiez et supprimez, compressez et decompressez, connectez des dossiers externes et numerisez en PDF." link="/docs/guide/everdisk/everdisk-guide-files" >}}
 
-  {{< card icon="music-note" title="Photos, musique et video" subtitle="Partagez toute votre photothèque et votre bibliothèque musicale, ecoutez de l'audio dans le mini-lecteur, et regardez vos videos en plein ecran." link="/docs/guide/everdisk/everdisk-guide-media" >}}
+  {{< ls-card icon="music-note" title="Photos, musique et video" subtitle="Partagez toute votre photothèque et votre bibliothèque musicale, ecoutez de l'audio dans le mini-lecteur, et regardez vos videos en plein ecran." link="/docs/guide/everdisk/everdisk-guide-media" >}}
 
-  {{< card icon="lock-closed" title="Acces et confidentialite" subtitle="Protegez le partage avec un identifiant et un mot de passe, autorisez ou bloquez la modification, bloquez des appareils et gardez tout en local." link="/docs/guide/everdisk/everdisk-guide-access" >}}
+  {{< ls-card icon="lock-closed" title="Acces et confidentialite" subtitle="Protegez le partage avec un identifiant et un mot de passe, autorisez ou bloquez la modification, bloquez des appareils et gardez tout en local." link="/docs/guide/everdisk/everdisk-guide-access" >}}
 
-  {{< card icon="adjustments" title="Paramètres" subtitle="Chaque reglage explique : profil de l'appareil, connexions, qualite photo et video, ports, transferts, et bien plus." link="/docs/guide/everdisk/everdisk-guide-settings" >}}
+  {{< ls-card icon="adjustments" title="Paramètres" subtitle="Chaque reglage explique : profil de l'appareil, connexions, qualite photo et video, ports, transferts, et bien plus." link="/docs/guide/everdisk/everdisk-guide-settings" >}}
 
-  {{< card icon="question-mark-circle" title="FAQ" subtitle="Des reponses rapides aux questions les plus frequentes et aux situations concretes." link="/docs/faq/everdisk" >}}
+  {{< ls-card icon="question-mark-circle" title="FAQ" subtitle="Des reponses rapides aux questions les plus frequentes et aux situations concretes." link="/docs/faq/everdisk" >}}
 {{< /cards >}}

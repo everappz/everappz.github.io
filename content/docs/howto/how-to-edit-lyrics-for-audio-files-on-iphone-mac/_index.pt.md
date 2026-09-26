@@ -7,7 +7,7 @@ tags: ["lyrics", "mp3", "id3", "metadata", "iphone", "audio editing"]
 readingTime: 2
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **Resumo:** Use o aplicativo gratuito **Evertag** para editar letras não sincronizadas, classificações de conteúdo e mais de 120 tags de áudio no iPhone ou Mac. Funciona com arquivos locais e armazenados na nuvem, suporta edição em lote e salva letras visíveis no Evermusic, Flacbox e outros reprodutores.
@@ -23,8 +23,8 @@ Para demonstração, usaremos o aplicativo **Evertag**. Ele suporta **mais de 12
 Comece baixando o aplicativo **Evertag** na App Store. Está disponível para **iOS** e **macOS**, e é gratuito.
 
 {{< cards cols="2">}}
-{{< card link="https://apps.apple.com/app/apple-store/id1450763230?pt=95781850&ct=everappzcom&mt=8" title="Evertag para iOS" icon="download" tag="Free" >}}
-{{< card link="https://apps.apple.com/app/apple-store/id1594027661?pt=95781850&ct=everappzcom&mt=8" title="Evertag para macOS" icon="download" tag="Free" >}}
+{{< ls-card link="https://apps.apple.com/app/apple-store/id1450763230?pt=95781850&ct=everappzcom&mt=8" title="Evertag para iOS" icon="download" tag="Free" >}}
+{{< ls-card link="https://apps.apple.com/app/apple-store/id1594027661?pt=95781850&ct=everappzcom&mt=8" title="Evertag para macOS" icon="download" tag="Free" >}}
 {{< /cards >}}
 
 ## Conectar sua conta na nuvem
@@ -38,13 +38,13 @@ Para conectar um serviço de armazenamento em nuvem:
 - Toque em **Conectar ao armazenamento em nuvem**
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Conectar ao armazenamento em nuvem" image="/docs/howto/how-to-edit-lyrics-for-audio-files-on-iphone-mac/connect-to-cloud-storage.webp" >}}
+{{< ls-card title="" subtitle="Conectar ao armazenamento em nuvem" image="/docs/howto/how-to-edit-lyrics-for-audio-files-on-iphone-mac/connect-to-cloud-storage.webp" >}}
 {{< /cards >}}
 
 - Selecione um provedor suportado, insira suas credenciais e toque em **Concluído**
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Conectar ao armazenamento em nuvem" image="/docs/howto/how-to-edit-lyrics-for-audio-files-on-iphone-mac/connect-to-cloud-storage.webp" >}}
+{{< ls-card title="" subtitle="Conectar ao armazenamento em nuvem" image="/docs/howto/how-to-edit-lyrics-for-audio-files-on-iphone-mac/connect-to-cloud-storage.webp" >}}
 {{< /cards >}}
 
 - Uma vez conectado, seu armazenamento em nuvem aparecerá na seção **Armazenamento em nuvem** do aplicativo.
@@ -52,7 +52,7 @@ Para conectar um serviço de armazenamento em nuvem:
 - Toque no seu armazenamento em nuvem conectado para navegar e carregar o conteúdo de suas pastas.
   
 {{< cards cols="1">}}
-{{< card title="" subtitle="Lista de arquivos do armazenamento em nuvem" image="/docs/howto/how-to-edit-lyrics-for-audio-files-on-iphone-mac/cloud-storage-list-audio-files.webp" >}}
+{{< ls-card title="" subtitle="Lista de arquivos do armazenamento em nuvem" image="/docs/howto/how-to-edit-lyrics-for-audio-files-on-iphone-mac/cloud-storage-list-audio-files.webp" >}}
 {{< /cards >}}
 
 ## Conectar pasta local
@@ -74,7 +74,7 @@ Você pode editar tags de áudio para arquivos armazenados diretamente no seu di
 - Role para baixo até **Arquivos neste dispositivo** no menu da barra lateral
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Pastas do dispositivo" image="/docs/howto/how-to-edit-lyrics-for-audio-files-on-iphone-mac/device-folders.webp" >}}
+{{< ls-card title="" subtitle="Pastas do dispositivo" image="/docs/howto/how-to-edit-lyrics-for-audio-files-on-iphone-mac/device-folders.webp" >}}
 {{< /cards >}}
   
 - Toque no item de menu **Todas as pastas do dispositivo**
@@ -91,7 +91,7 @@ Você pode editar tags de áudio para arquivos armazenados diretamente no seu di
 O **Editor de tags** é a tela principal do aplicativo Evertag onde você pode visualizar e editar metadados de arquivos de áudio. Abra esta tela tocando em um arquivo da seção **Arquivos locais** ou de qualquer conta de **armazenamento em nuvem** conectada.
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Tela do Editor de tags do Evertag" image="/docs/howto/how-to-edit-lyrics-for-audio-files-on-iphone-mac/cloud-storage-audio-file-tag-editor.webp" >}}
+{{< ls-card title="" subtitle="Tela do Editor de tags do Evertag" image="/docs/howto/how-to-edit-lyrics-for-audio-files-on-iphone-mac/cloud-storage-audio-file-tag-editor.webp" >}}
 {{< /cards >}}
 
 ## Modos de edição
@@ -112,7 +112,7 @@ Por padrão, o aplicativo abre o editor de tags no modo de arquivo único com ap
 Para acessar todas as tags disponíveis, role até o final da tela e toque na opção **Mostrar tags estendidas**. Isso alternará o editor para o modo estendido, permitindo editar mais de **120 campos de metadados**, incluindo **tags MusicBrainz**, **letras**, **classificações de conteúdo** e mais.
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Painel de ações inferior" image="/docs/howto/how-to-edit-lyrics-for-audio-files-on-iphone-mac/show-extended-tags.webp" >}}
+{{< ls-card title="" subtitle="Painel de ações inferior" image="/docs/howto/how-to-edit-lyrics-for-audio-files-on-iphone-mac/show-extended-tags.webp" >}}
 {{< /cards >}}
 
 ## Modo em lote
@@ -137,7 +137,7 @@ Veja como adicionar ou atualizar **letras não sincronizadas** incorporadas nos 
 No modo **Tags estendidas**, role para baixo e toque no campo de texto **Letras não sincronizadas**.
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Campo de texto de letras não sincronizadas" image="/docs/howto/how-to-edit-lyrics-for-audio-files-on-iphone-mac/advisory-rating-2.webp" >}}
+{{< ls-card title="" subtitle="Campo de texto de letras não sincronizadas" image="/docs/howto/how-to-edit-lyrics-for-audio-files-on-iphone-mac/advisory-rating-2.webp" >}}
 {{< /cards >}}
 
 > Arquivos de áudio que suportam **tags ID3** (como `.mp3` ou `.wav`) permitem adicionar letras em vários idiomas. Se você está editando um arquivo com tags ID3, o Evertag habilita suporte multilíngue completo.  
@@ -148,7 +148,7 @@ No modo **Tags estendidas**, role para baixo e toque no campo de texto **Letras 
 Se você está editando tags ID3, a próxima tela mostrará um botão **Adicionar nova página**. Toque nele para começar a adicionar uma nova entrada de letras.
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Adicionar nova página de letras" image="/docs/howto/how-to-edit-lyrics-for-audio-files-on-iphone-mac/add-new-page.webp" >}}
+{{< ls-card title="" subtitle="Adicionar nova página de letras" image="/docs/howto/how-to-edit-lyrics-for-audio-files-on-iphone-mac/add-new-page.webp" >}}
 {{< /cards >}}
 
 ### Escolher idioma, comentário e conteúdo das letras
@@ -159,7 +159,7 @@ Na tela de entrada de letras, você poderá:
 - Inserir o **texto das letras** real
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Selecionar idioma" image="/docs/howto/how-to-edit-lyrics-for-audio-files-on-iphone-mac/choose-language.webp" >}}
+{{< ls-card title="" subtitle="Selecionar idioma" image="/docs/howto/how-to-edit-lyrics-for-audio-files-on-iphone-mac/choose-language.webp" >}}
 {{< /cards >}}
 
 ### Inserir as letras
@@ -169,7 +169,7 @@ Digite ou cole o conteúdo das suas letras. O Evertag suporta letras no formato 
 > Dica: Procurando letras de alta qualidade? Visite [lyricsify.com](https://www.lyricsify.com) para encontrar letras no formato LRC para milhares de faixas.
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Letras adicionadas" image="/docs/howto/how-to-edit-lyrics-for-audio-files-on-iphone-mac/added-lyrics.webp" >}}
+{{< ls-card title="" subtitle="Letras adicionadas" image="/docs/howto/how-to-edit-lyrics-for-audio-files-on-iphone-mac/added-lyrics.webp" >}}
 {{< /cards >}}
 
 ### Toque em "Concluído" para confirmar
@@ -177,7 +177,7 @@ Digite ou cole o conteúdo das suas letras. O Evertag suporta letras no formato 
 Após inserir suas letras, toque em **Concluído** na página de letras. Depois toque em **Concluído** novamente na tela anterior para confirmar suas alterações.
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Letras salvas" image="/docs/howto/how-to-edit-lyrics-for-audio-files-on-iphone-mac/saved-lyrics.webp" >}}
+{{< ls-card title="" subtitle="Letras salvas" image="/docs/howto/how-to-edit-lyrics-for-audio-files-on-iphone-mac/saved-lyrics.webp" >}}
 {{< /cards >}}
 
 ### Salvar as alterações das tags
@@ -185,7 +185,7 @@ Após inserir suas letras, toque em **Concluído** na página de letras. Depois 
 Por fim, na tela do **Editor de tags**, toque em **Salvar** para gravar as tags atualizadas — incluindo suas novas letras — de volta no arquivo.
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Editor de tags com letras" image="/docs/howto/how-to-edit-lyrics-for-audio-files-on-iphone-mac/tags-editor-with-lyrics.webp" >}}
+{{< ls-card title="" subtitle="Editor de tags com letras" image="/docs/howto/how-to-edit-lyrics-for-audio-files-on-iphone-mac/tags-editor-with-lyrics.webp" >}}
 {{< /cards >}}
 
 ### Definir a classificação de conteúdo das letras
@@ -204,22 +204,22 @@ Seguindo estes passos, suas letras serão devidamente incorporadas nos metadados
 
 ## Perguntas frequentes
 
-{{% details title="Quais formatos de áudio o Evertag suporta para edição de letras?" closed="true" %}}
+{{% ls-details title="Quais formatos de áudio o Evertag suporta para edição de letras?" closed="true" %}}
 O Evertag suporta mais de 30 formatos de áudio, incluindo MP3, FLAC, WAV, M4A, OGG, AIFF e mais. Você pode editar letras e outras tags de metadados em qualquer um desses formatos.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Posso adicionar letras em vários idiomas?" closed="true" %}}
+{{% ls-details title="Posso adicionar letras em vários idiomas?" closed="true" %}}
 Sim, mas apenas para arquivos de áudio que usam tags ID3 (como MP3 e WAV). Para outros formatos como FLAC ou M4A, apenas uma única entrada de letras é suportada.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="O Evertag suporta edição em lote de letras?" closed="true" %}}
+{{% ls-details title="O Evertag suporta edição em lote de letras?" closed="true" %}}
 Sim. Você pode entrar no modo em lote para editar metadados de vários arquivos de uma vez. Isso é útil para aplicar a mesma classificação de conteúdo de letras ou outras tags compartilhadas a um álbum inteiro.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="As letras editadas aparecerão no Apple Music ou Spotify?" closed="true" %}}
+{{% ls-details title="As letras editadas aparecerão no Apple Music ou Spotify?" closed="true" %}}
 Letras editadas com o Evertag são incorporadas nos metadados do arquivo de áudio. Elas aparecerão em qualquer reprodutor de música que leia tags de letras incorporadas, como Evermusic, Flacbox, VLC e foobar2000. Aplicativos de streaming como Spotify e Apple Music usam seus próprios bancos de dados de letras e não leem tags incorporadas.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Posso editar tags para arquivos armazenados na nuvem?" closed="true" %}}
+{{% ls-details title="Posso editar tags para arquivos armazenados na nuvem?" closed="true" %}}
 Sim. O Evertag suporta conexão com serviços de armazenamento em nuvem. O aplicativo baixa o arquivo, permite que você edite as tags e faz o upload do arquivo atualizado de volta para a nuvem automaticamente.
-{{% /details %}}
+{{% /ls-details %}}

@@ -9,7 +9,7 @@ aliases:
   - /post/how-to-record-video-while-playing-music-on-iphone/
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **TL;DR:** Set Evermusic's audio output to "Mixed mode," start playing a track, then open your Camera app and record. The music keeps playing in the background. Works with TikTok, Instagram, and any camera app.
@@ -47,22 +47,22 @@ This trick works on every iPhone.
 
 ## Frequently Asked Questions
 
-{{% details title="Does the background music get recorded into the video?" closed="true" %}}
+{{% ls-details title="Does the background music get recorded into the video?" closed="true" %}}
 The music plays through the iPhone speaker, so the microphone will pick it up along with other ambient sound. For cleaner audio, consider using an external speaker placed near the microphone.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Does this work with TikTok and Instagram?" closed="true" %}}
+{{% ls-details title="Does this work with TikTok and Instagram?" closed="true" %}}
 Yes. Once Evermusic is set to Mixed mode and a track is playing, the music continues when you open TikTok, Instagram, or any other camera or recording app.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="What is Mixed mode in Evermusic?" closed="true" %}}
+{{% ls-details title="What is Mixed mode in Evermusic?" closed="true" %}}
 Mixed mode is an audio output setting that allows Evermusic to share the audio session with other apps. This prevents the music from stopping when another app accesses the microphone or camera.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Can I use Flacbox instead of Evermusic for this?" closed="true" %}}
+{{% ls-details title="Can I use Flacbox instead of Evermusic for this?" closed="true" %}}
 Yes. Flacbox also supports Mixed audio output mode. The steps are the same: enable Mixed mode in Settings, start playback, and open your camera app.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Can I play a game while music from Evermusic plays in the background?" closed="true" %}}
+{{% ls-details title="Can I play a game while music from Evermusic plays in the background?" closed="true" %}}
 Yes. With Mixed mode enabled, music from Evermusic continues playing when you open any game or app. Both the game audio and your music will play at the same time.
-{{% /details %}}
+{{% /ls-details %}}

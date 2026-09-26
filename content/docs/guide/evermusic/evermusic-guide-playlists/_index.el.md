@@ -17,7 +17,7 @@ readingTime: 6
 Η ενότητα Λίστες αναπαραγωγής σας παρέχει τα εργαλεία για οργάνωση κομματιών σε λίστες. Περιλαμβάνει προβολή περιεχομένου με όλες τις λίστες αναπαραγωγής που έχετε δημιουργήσει, κουμπί "..." στη γραμμή πλοήγησης που προσφέρει διάφορες ενέργειες σχετικές με λίστες αναπαραγωγής, και γραμμή εργαλείων πλοήγησης με κουμπιά "Αναζήτηση", "Αναπαραγωγή όλων" και "Τυχαία αναπαραγωγή". Επιπλέον, κάθε μεμονωμένη λίστα αναπαραγωγής διαθέτει κουμπί "..." κοντά στον τίτλο της, προσφέροντας σειρά ενεργειών που αφορούν αποκλειστικά εκείνη τη λίστα.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Οθόνη Λιστών Αναπαραγωγής Evermusic" image="/docs/guide/evermusic/evermusic-guide-playlists/img/playlists-main.webp" >}}
+  {{< ls-card title="" subtitle="Οθόνη Λιστών Αναπαραγωγής Evermusic" image="/docs/guide/evermusic/evermusic-guide-playlists/img/playlists-main.webp" >}}
 {{< /cards >}}
 
 ## Δημιουργία Λίστας Αναπαραγωγής
@@ -25,7 +25,7 @@ readingTime: 6
 Για δημιουργία νέας λίστας αναπαραγωγής, πατήστε είτε το κουμπί "+" είτε το κουμπί "..." στην επάνω δεξιά γωνία της γραμμής πλοήγησης, επιλέξτε "Νέα λίστα αναπαραγωγής" και αναθέστε όνομα στη λίστα αναπαραγωγής σας. Μετά την ονομασία, πατήστε "Αποθήκευση".
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Δημιουργία Νέας Λίστας Αναπαραγωγής" image="/docs/guide/evermusic/evermusic-guide-playlists/img/playlists-add-new.webp" >}}
+  {{< ls-card title="" subtitle="Δημιουργία Νέας Λίστας Αναπαραγωγής" image="/docs/guide/evermusic/evermusic-guide-playlists/img/playlists-add-new.webp" >}}
 {{< /cards >}}
 
 Αυτό εμφανίζει το διάλογο "Προσθήκη τραγουδιών", όπου μπορείτε να επιλέξετε ποια κομμάτια θα προστεθούν στη νέα λίστα αναπαραγωγής. Τα κομμάτια κατηγοριοποιούνται κατά τύπο πηγής και έχετε πολλές επιλογές:
@@ -42,7 +42,7 @@ readingTime: 6
 Στο Evermusic, έχουμε προσθέσει λειτουργικότητα εισαγωγής αρχείων M3U, ώστε να μην χρειάζεται να δημιουργείτε λίστες αναπαραγωγής χειροκίνητα.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Εισαγωγή Λίστας Αναπαραγωγής από Πηγή Αρχείου" image="/docs/guide/evermusic/evermusic-guide-playlists/img/playlists-import-from-files.webp" >}}
+  {{< ls-card title="" subtitle="Εισαγωγή Λίστας Αναπαραγωγής από Πηγή Αρχείου" image="/docs/guide/evermusic/evermusic-guide-playlists/img/playlists-import-from-files.webp" >}}
 {{< /cards >}}
 
 Πρώτα, μεταβείτε στην ενότητα "Λίστες αναπαραγωγής". Στη συνέχεια, πατήστε το κουμπί "Περισσότερα" στην επάνω δεξιά γωνία. Από το μενού που εμφανίζεται, επιλέξτε την επιλογή "Εισαγωγή λίστας αναπαραγωγής".
@@ -62,7 +62,7 @@ readingTime: 6
 Όταν ανοίγετε μια λίστα αναπαραγωγής, εμφανίζεται η "Οθόνη Λεπτομερειών Λίστας Αναπαραγωγής". Σε αυτήν την οθόνη, θα βρείτε κουμπί "..." στην επάνω δεξιά γωνία με επιλογές λίστας αναπαραγωγής και τρία κουμπιά κάτω από την εικόνα artwork: "Αναζήτηση", "Συνέχιση αναπαραγωγής", "Αναπαραγωγή όλων" και "Τυχαία αναπαραγωγή". Επιπλέον, υπάρχει πλαίσιο ελέγχου "Εκτός σύνδεσης λειτουργία".
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Οθόνη Λεπτομερειών Λίστας Αναπαραγωγής" image="/docs/guide/evermusic/evermusic-guide-playlists/img/playlists-detail-screen.webp" >}}
+  {{< ls-card title="" subtitle="Οθόνη Λεπτομερειών Λίστας Αναπαραγωγής" image="/docs/guide/evermusic/evermusic-guide-playlists/img/playlists-detail-screen.webp" >}}
 {{< /cards >}}
 
 - **Συνέχιση αναπαραγωγής**: Επαναφορά θέσης αναπαραγωγής για αυτήν τη λίστα αναπαραγωγής.
@@ -87,7 +87,7 @@ readingTime: 6
 - **Διαγραφή λίστας αναπαραγωγής:** Διαγράψτε τη λίστα αναπαραγωγής από τη Βιβλιοθήκη Μουσικής. Λάβετε υπόψη ότι αυτή η ενέργεια δεν μπορεί να αναιρεθεί.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Μενού Περισσότερων Ενεργειών για Λίστα Αναπαραγωγής" image="/docs/guide/evermusic/evermusic-guide-playlists/img/playlists-more-actions-for-separate-playlist.webp" >}}
+  {{< ls-card title="" subtitle="Μενού Περισσότερων Ενεργειών για Λίστα Αναπαραγωγής" image="/docs/guide/evermusic/evermusic-guide-playlists/img/playlists-more-actions-for-separate-playlist.webp" >}}
 {{< /cards >}}
 
 ## Περισσότερες Ενέργειες για Λίστα Αναπαραγωγής στην Οθόνη Λεπτομερειών Λίστας Αναπαραγωγής
@@ -113,7 +113,7 @@ readingTime: 6
 Για αλλαγή της σειράς τραγουδιών σε λίστα αναπαραγωγής, πατήστε το κουμπί "..." στην επάνω δεξιά γωνία και επιλέξτε "Επιλογή" για είσοδο σε λειτουργία επιλογής. Χρησιμοποιήστε τον έλεγχο σειράς και χειρονομίες drag-and-drop κοντά σε κάθε κομμάτι για μετακίνησή του πάνω ή κάτω. Πάτημα στον έλεγχο σειράς θα μετακινήσει το κομμάτι στην κορυφή της λίστας. Για έξοδο από τη λειτουργία επιλογής και εφαρμογή αλλαγών, πατήστε "Ολοκλήρωση".
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Αλλαγή Σειράς Τραγουδιών σε Λίστα Αναπαραγωγής" image="/docs/guide/evermusic/evermusic-guide-playlists/img/playlists-change-songs-order.webp" >}}
+  {{< ls-card title="" subtitle="Αλλαγή Σειράς Τραγουδιών σε Λίστα Αναπαραγωγής" image="/docs/guide/evermusic/evermusic-guide-playlists/img/playlists-change-songs-order.webp" >}}
 {{< /cards >}}
 
 ## Αλλαγή Εικόνας Εξωφύλλου Λίστας Αναπαραγωγής
@@ -129,7 +129,7 @@ readingTime: 6
 Ανοίξτε τη λίστα αναπαραγωγής, πατήστε το κουμπί "..." στην επάνω δεξιά γωνία και επιλέξτε "Επιλογή" για είσοδο σε λειτουργία επιλογής. Επιλέξτε τα κομμάτια που θέλετε να διαγράψετε και πατήστε το κουμπί "Διαγραφή από λίστα αναπαραγωγής" στο κάτω μέρος της οθόνης. Επιβεβαιώστε τις αλλαγές πατώντας "Ολοκλήρωση".
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Λειτουργία Επιλογής Εντός Λίστας Αναπαραγωγής" image="/docs/guide/evermusic/evermusic-guide-playlists/img/playlists-selection-mode-in-playlist-details-screen.webp" >}}
+  {{< ls-card title="" subtitle="Λειτουργία Επιλογής Εντός Λίστας Αναπαραγωγής" image="/docs/guide/evermusic/evermusic-guide-playlists/img/playlists-selection-mode-in-playlist-details-screen.webp" >}}
 {{< /cards >}}
 
 ## Επιλογές Κομματιού
@@ -137,7 +137,7 @@ readingTime: 6
 Κάθε κομμάτι σε λίστα αναπαραγωγής έχει λίστα ενεργειών, προσβάσιμη πατώντας το κουμπί "...". Αν δεν μπορείτε να δείτε όλες τις ενέργειες, κυλήστε προς τα κάτω για να τις δείτε. Μπορείτε να διαγράψετε το κομμάτι από τη λίστα αναπαραγωγής, να το κατεβάσετε, να επεξεργαστείτε ετικέτες ήχου και άλλα.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Μενού Επιλογών Κομματιού σε Λίστα Αναπαραγωγής" image="/docs/guide/evermusic/evermusic-guide-playlists/img/playlists-track-options.webp" >}}
+  {{< ls-card title="" subtitle="Μενού Επιλογών Κομματιού σε Λίστα Αναπαραγωγής" image="/docs/guide/evermusic/evermusic-guide-playlists/img/playlists-track-options.webp" >}}
 {{< /cards >}}
 
 - **Αναπαραγωγή επόμενου:** Προσθέτει το κομμάτι στην κορυφή της ουράς αναπαραγωγής.

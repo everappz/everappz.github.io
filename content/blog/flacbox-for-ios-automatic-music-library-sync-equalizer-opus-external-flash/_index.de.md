@@ -12,7 +12,7 @@ authors:
     image: "/images/about/artem-meleshko-founder-everappz.webp"
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 **Flacbox 1.6** bringt wichtige neue Funktionen für den FLAC-Musikplayer für iPhone und iPad.
 
@@ -68,18 +68,18 @@ Haben Sie Feedback oder Funktionswünsche? Kontaktieren Sie uns -- wir entwickel
 
 ## Häufig gestellte Fragen
 
-{{% details title="Welche Audioformate unterstützt Flacbox?" closed="true" %}}
+{{% ls-details title="Welche Audioformate unterstützt Flacbox?" closed="true" %}}
 Flacbox unterstützt FLAC, ALAC, MP3, AAC, OGG, OPUS, WAV, AIFF, DSD und andere populäre Audioformate. Alle Formate funktionieren mit dem integrierten Equalizer.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Kann ich Musik von einer SD-Karte auf meinem iPhone abspielen?" closed="true" %}}
+{{% ls-details title="Kann ich Musik von einer SD-Karte auf meinem iPhone abspielen?" closed="true" %}}
 Ja. Verbinden Sie eine SD- oder microSD-Karte über einen Lightning to SD Card Camera Reader Adapter. Flacbox erkennt die Karte automatisch und lässt Sie Dateien direkt vom externen Speicher durchsuchen und abspielen.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Synchronisiert Flacbox automatisch mit Cloud-Speicher?" closed="true" %}}
+{{% ls-details title="Synchronisiert Flacbox automatisch mit Cloud-Speicher?" closed="true" %}}
 Ja. Ab Version 1.6 kann Flacbox Ihre Musikbibliothek automatisch aus Cloud-Ordnern synchronisieren. Aktivieren Sie die automatische Synchronisation in den Einstellungen und wählen Sie die zu überwachenden Ordner aus.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Ist der Flacbox-Equalizer anpassbar?" closed="true" %}}
+{{% ls-details title="Ist der Flacbox-Equalizer anpassbar?" closed="true" %}}
 Ja. Der 10-Band-Equalizer ermöglicht die Anpassung einzelner Frequenzpegel zwischen -12 dB und +12 dB. Sie können integrierte Voreinstellungen verwenden oder eigene Einstellungen speichern.
-{{% /details %}}
+{{% /ls-details %}}

@@ -19,7 +19,7 @@ readingTime: 12
 على هذه الشاشة، يمكنك توصيل كل مصدر يحتوي على موسيقاك. يمكنك دمج الخدمات السحابية الشائعة مثل Dropbox وGoogle Drive وiCloud Drive وOneDrive وMEGA وBox وpCloud وYandex Disk وSynology Drive وغيرها الكثير، فضلاً عن جهاز Mac أو PC أو NAS عبر البروتوكولات القياسية. سواء كانت مجموعتك على خدمة بث ودية مثل Dropbox أو على NAS شخصي مثل Synology أو QNAP أو Buffalo أو Apple Time Capsule أو WD My Cloud Home، يتصل Flacbox بها جميعاً من شاشة واحدة.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="شاشة الاتصالات في Flacbox" image="/docs/guide/flacbox/img/connections-main.webp" >}}
+  {{< ls-card title="" subtitle="شاشة الاتصالات في Flacbox" image="/docs/guide/flacbox/img/connections-main.webp" >}}
 {{< /cards >}}
 
 ## الاتصال بالتخزين السحابي
@@ -30,7 +30,7 @@ readingTime: 12
 - أدخل بيانات الاعتماد الخاصة بك على صفحة التفويض الرسمية التي يوفرها مزوّد الخدمة السحابية، ثم انقر على **تم**.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="إضافة خدمة تخزين سحابي في Flacbox" image="/docs/guide/flacbox/img/add-cloud-storage.webp" >}}
+  {{< ls-card title="" subtitle="إضافة خدمة تخزين سحابي في Flacbox" image="/docs/guide/flacbox/img/add-cloud-storage.webp" >}}
 {{< /cards >}}
 
 إذا واجهت أي مشاكل، تحقق من اتصالك بالإنترنت واسم المستخدم / كلمة المرور. في الإصدار المميّز من التطبيق، يمكنك إضافة عدد غير محدود من الخدمات؛ أما الإصدار المجاني فيدعم ما يصل إلى ثلاثة.
@@ -134,7 +134,7 @@ readingTime: 12
 هذه هي أسرع طريقة لاكتشاف مشاركة SMB أو WebDAV أو DLNA على شبكتك المنزلية دون كتابة عناوين IP يدوياً.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="الأجهزة المتاحة على الشبكة المحلية في Flacbox" image="/docs/guide/flacbox/img/available-devies.webp" >}}
+  {{< ls-card title="" subtitle="الأجهزة المتاحة على الشبكة المحلية في Flacbox" image="/docs/guide/flacbox/img/available-devies.webp" >}}
 {{< /cards >}}
 
 ## Wi-Fi Drive
@@ -149,7 +149,7 @@ Wi-Fi Drive تقنية مريحة تتيح نقل الملفات لاسلكيا�
 - انقر على **بدء Wi-Fi Drive** لتفعيل Wi-Fi Drive.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Wi-Fi Drive في Flacbox" image="/docs/guide/flacbox/img/wifi-drive.webp" >}}
+  {{< ls-card title="" subtitle="Wi-Fi Drive في Flacbox" image="/docs/guide/flacbox/img/wifi-drive.webp" >}}
 {{< /cards >}}
 
 ### الوصول إلى Wi-Fi Drive على حاسوبك
@@ -234,7 +234,7 @@ Wi-Fi Drive تقنية مريحة تتيح نقل الملفات لاسلكيا�
 - **حذف** — احذف الملف نهائياً من تخزينك السحابي. **لا يمكن التراجع عن هذا الإجراء.**
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="المزيد من الإجراءات لملف في التخزين السحابي المتصل في Flacbox" image="/docs/guide/flacbox/img/more-actions-for-file-in-connected-cloud-storage.webp" >}}
+  {{< ls-card title="" subtitle="المزيد من الإجراءات لملف في التخزين السحابي المتصل في Flacbox" image="/docs/guide/flacbox/img/more-actions-for-file-in-connected-cloud-storage.webp" >}}
 {{< /cards >}}
 
 إذا تجاوزت قائمة الإجراءات المساحة المتاحة على الشاشة، ما عليك سوى التمرير للأسفل داخل قائمة الإجراءات للوصول إلى الخيارات الإضافية.
@@ -261,7 +261,7 @@ Wi-Fi Drive تقنية مريحة تتيح نقل الملفات لاسلكيا�
 يقع قسم الوصول السريع في أعلى الشاشة. يمنحك وصولاً سريعاً إلى ملفاتك المفضّلة والمفتوحة مؤخراً من الخدمات السحابية المتصلة. في كل مرة تفتح فيها ملفاً أو مجلداً من السحابة، يُضاف إلى قائمة المفتوحة مؤخراً. لمسح هذه القائمة، افتح الأخيرة، انقر على زر المزيد من الإجراءات، واختر حذف القائمة. يمكنك أيضاً تمييز المجلدات المتداخلة كمفضّلة للوصول إليها بسرعة دون التنقل في بنية الدليل.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="روابط الإنترنت والوصول السريع في Flacbox" image="/docs/guide/flacbox/img/online-links.webp" >}}
+  {{< ls-card title="" subtitle="روابط الإنترنت والوصول السريع في Flacbox" image="/docs/guide/flacbox/img/online-links.webp" >}}
 {{< /cards >}}
 
 ## الخدمات الأخرى
@@ -269,5 +269,5 @@ Wi-Fi Drive تقنية مريحة تتيح نقل الملفات لاسلكيا�
 يعرض هذا القسم ميزات إضافية تعزّز تجربتك. حالياً، يدعم التطبيق تسجيل **Last.fm** — عند الاتصال، تُرسَل إحصاءات التشغيل تلقائياً إلى حساب Last.fm الخاص بك. يمكنك لاحقاً زيارة ملفك الشخصي على Last.fm لعرض تحليلات الاستماع والحصول على توصيات موسيقية مخصّصة. تتوفر تعليمات إعداد مفصّلة [هنا](/docs/howto/how-to-scrobble-your-music-history-from-evermusic-or-flacbox-to-last-fm).
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="اتصال Last.fm في Flacbox" image="/docs/guide/flacbox/img/last-fm-connect.webp" >}}
+  {{< ls-card title="" subtitle="اتصال Last.fm في Flacbox" image="/docs/guide/flacbox/img/last-fm-connect.webp" >}}
 {{< /cards >}}

@@ -7,14 +7,14 @@ keywords: ["zene átvitele iTunes nélkül", "wifi drive iphone", "zene vezeték
 readingTime: 2
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **Összefoglalás:** Használja a Wi-Fi Drive-ot az Evermusic, Flacbox vagy Evertag alkalmazásban, hogy zenét vigyen át számítógépéről iPhone-jára vagy iPadjére. Nem kell iTunes. Mindkét eszköznek ugyanazon a Wi-Fi hálózaton kell lennie. Vigye át webböngészőn vagy WebDAV-on keresztül (Mac Finder / Windows Fájlkezelő).
 
 Megtekinthet egy videós útmutatót a [**TECHGUYPH**](https://www.youtube.com/channel/UCgpf09gGFE_c_3pPTtTpnzg) csatornáján, vagy elolvashatja az alábbi szöveges verziót.
 <br><br>
-{{< youtubecard id="CqdqrQ0ge70" title="Can We Wirelessly Put Offline Music on iPhones?" >}}
+{{< ls-youtubecard id="CqdqrQ0ge70" title="Can We Wirelessly Put Offline Music on iPhones?" >}}
 
 A Wi-Fi Drive a tökéletes megoldás zenegyűjteményének zökkenőmentes átvitelére számítógépéről iPhone-jára vagy iPadjére iTunes nélkül. Ez a problémamentes módszer lehetővé teszi, hogy könnyedén töltsön le vagy töltsön fel több audiofájlt, sőt teljes mappákat is a helyi Wi-Fi kapcsolaton keresztül. A számítógépének és iOS eszközének ugyanahhoz a Wi-Fi hálózathoz kell csatlakoznia, hogy ez tökéletesen működjön.
 
@@ -84,22 +84,22 @@ A Wi-Fi Drive-val véget értek az iTunes-szal való küzdelem napjai. Élvezze 
 
 ## Gyakran ismételt kérdések
 
-{{% details title="Milyen audioformátumokat vihetek át a Wi-Fi Drive-val?" closed="true" %}}
+{{% ls-details title="Milyen audioformátumokat vihetek át a Wi-Fi Drive-val?" closed="true" %}}
 A Wi-Fi Drive bármilyen fájltípust átvísz. Az Evermusic és a Flacbox támogatja az MP3, FLAC, AAC, WAV, AIFF, OGG, WMA és számos más audioformátum lejátszását.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Szükségem van iTunesra ahhoz, hogy zenét tegyek az iPhone-omra?" closed="true" %}}
+{{% ls-details title="Szükségem van iTunesra ahhoz, hogy zenét tegyek az iPhone-omra?" closed="true" %}}
 Nem. A Wi-Fi Drive közvetlenül a helyi Wi-Fi hálózaton keresztül viszi át a zenét. Nincs szükség iTunesra.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Átvihetek teljes zenemappákat egyszerre?" closed="true" %}}
+{{% ls-details title="Átvihetek teljes zenemappákat egyszerre?" closed="true" %}}
 Igen. A webböngészős módszer támogatja teljes mappák feltöltését, beleértve a beágyazott almappákat is.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Biztonságos a zeneátvitelem?" closed="true" %}}
+{{% ls-details title="Biztonságos a zeneátvitelem?" closed="true" %}}
 A Wi-Fi Drive csak a helyi hálózaton fut. Felhasználónevet és jelszót is beállíthat a további biztonság érdekében.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Mely alkalmazások támogatják a Wi-Fi Drive-ot zenéhez?" closed="true" %}}
+{{% ls-details title="Mely alkalmazások támogatják a Wi-Fi Drive-ot zenéhez?" closed="true" %}}
 Az Evermusic, a Flacbox és az Evertag mind tartalmazzák a Wi-Fi Drive-ot audiofájlok átviteléhez a számítógépről.
-{{% /details %}}
+{{% /ls-details %}}

@@ -7,7 +7,7 @@ keywords: ["server WebDAV iPhone", "server WebDAV iPad", "cara menyiapkan WebDAV
 readingTime: 9
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 WebDAV mengubah sebuah folder menjadi network drive yang bisa dibuka komputer di pengelola filenya yang biasa. WebDAV berjalan di atas protokol web yang sama dengan yang dipakai browser Anda, itulah sebabnya ia bepergian dengan baik lintas Mac, Windows, dan Linux tanpa driver khusus. Dengan [Everdisk](/products/everdisk) Anda bisa menjalankan server WebDAV di iPhone atau iPad Anda, sehingga ponsel muncul sebagai drive yang bisa Anda jelajahi, salin darinya, dan salin ke dalamnya dari hampir semua komputer.
 
@@ -104,41 +104,41 @@ Sakelar **Pengeditan Berkas** di Pengaturan, Berbagi, Akses menentukan ini. Akti
 
 ## Pertanyaan yang Sering Diajukan
 
-{{% details title="Berapa alamat dan port WebDAV untuk iPhone saya?" closed="true" %}}
+{{% ls-details title="Berapa alamat dan port WebDAV untuk iPhone saya?" closed="true" %}}
 Setelah Anda mulai berbagi, Everdisk menampilkan alamatnya di layar Berbagi. Tampilannya seperti http://192.168.1.20:8080. Angka 8080 adalah port yang dipakai Everdisk untuk WebDAV, dan bagian pertama adalah alamat iPhone Anda di Wi-Fi, jadi milik Anda akan berbeda.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Bagaimana cara menyambung ke WebDAV iPhone dari Windows?" closed="true" %}}
+{{% ls-details title="Bagaimana cara menyambung ke WebDAV iPhone dari Windows?" closed="true" %}}
 Buka File Explorer, klik kanan This PC, dan pilih Add a network location atau Map network drive. Masukkan alamat WebDAV dari Everdisk, misalnya http://192.168.1.20:8080, lalu masukkan login Anda jika Anda mengaturnya. Jika Windows tidak mau menyambung, pastikan layanan WebClient berjalan (cari Services, temukan WebClient, mulai) lalu coba lagi.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Bisakah saya memakai WebDAV antara dua iPhone?" closed="true" %}}
+{{% ls-details title="Bisakah saya memakai WebDAV antara dua iPhone?" closed="true" %}}
 Ya, tetapi aplikasi Files iOS tidak punya klien WebDAV, jadi gunakan Everdisk di perangkat kedua. Buka tab Perangkat, ketuk Koneksi Baru, pilih WebDAV, dan masukkan alamat yang ditampilkan di ponsel pertama. Aplikasi WebDAV seperti Documents by Readdle juga berfungsi.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Apakah WebDAV memerlukan kata sandi?" closed="true" %}}
+{{% ls-details title="Apakah WebDAV memerlukan kata sandi?" closed="true" %}}
 Tidak, login bersifat opsional. Biarkan Info Masuk dan Kata Sandi kosong di Pengaturan, Berbagi, Akses untuk akses tamu, atau atur keduanya jika Anda ingin koneksi masuk terlebih dahulu.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Bisakah orang lain mengubah file saya lewat WebDAV?" closed="true" %}}
+{{% ls-details title="Bisakah orang lain mengubah file saya lewat WebDAV?" closed="true" %}}
 Hanya jika Anda mengizinkannya. Sakelar Pengeditan Berkas di Pengaturan, Berbagi, Akses mengendalikan ini. Aktif membuat perangkat yang terhubung bisa mengunggah, mengganti nama, dan menghapus. Mati membuat drive hanya-baca, jadi orang lain bisa melihat dan menyalin tetapi tidak bisa mengubah apa pun.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="WebDAV atau SMB, apa bedanya?" closed="true" %}}
+{{% ls-details title="WebDAV atau SMB, apa bedanya?" closed="true" %}}
 Keduanya memasang iPhone Anda sebagai network drive. WebDAV berjalan di atas protokol web dan menyambung dengan bersih dari Windows File Explorer, itulah kekuatan utamanya. SMB adalah berbagi file native di perangkat Mac, Linux, dan NAS, biasanya lebih cepat di Mac, dan merupakan satu-satunya koneksi Everdisk yang bisa mengenkripsi transfer. Everdisk bisa menjalankan keduanya sekaligus.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Mengapa drive WebDAV saya terputus?" closed="true" %}}
+{{% ls-details title="Mengapa drive WebDAV saya terputus?" closed="true" %}}
 iPhone Anda adalah server, dan iOS menjeda aplikasi yang terlalu lama berada di latar belakang. Biarkan Everdisk tetap terbuka di layar saat sebuah perangkat terhubung, dan colokkan ke sumber daya untuk transfer yang panjang. Pastikan juga kedua perangkat masih berada di Wi-Fi yang sama.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Bisakah saya menyambung lewat WebDAV tanpa Wi-Fi?" closed="true" %}}
+{{% ls-details title="Bisakah saya menyambung lewat WebDAV tanpa Wi-Fi?" closed="true" %}}
 Ya, jika Anda mencolokkan iPhone ke Mac dengan kabel. Everdisk kemudian menampilkan alamat koneksi kabel tambahan yang bisa dibuka Mac yang terhubung di Finder, yang berfungsi bahkan tanpa Wi-Fi sama sekali. Lewat kabel, hanya Mac itu yang bisa menjangkau perangkat.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Apakah Everdisk gratis?" closed="true" %}}
+{{% ls-details title="Apakah Everdisk gratis?" closed="true" %}}
 Ya, Everdisk gratis diunduh dan server WebDAV sudah termasuk. Pembelian Premium sekali bayar opsional menambahkan ekstra seperti port kustom serta konversi foto dan video. Anda bisa menyiapkan WebDAV dan berbagi file tanpa membayar.
-{{% /details %}}
+{{% /ls-details %}}
 
 Siap mencobanya? [Unduh Everdisk dari App Store](https://apps.apple.com/app/apple-store/id6751851132?pt=95781850&ct=everappzcom&mt=8) dan pasang iPhone Anda sebagai drive dalam beberapa menit. Ada pertanyaan atau masukan? Kirim email ke **support@everappz.com**.
 </content>

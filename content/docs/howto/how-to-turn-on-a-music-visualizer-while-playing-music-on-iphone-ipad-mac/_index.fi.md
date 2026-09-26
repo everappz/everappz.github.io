@@ -7,12 +7,12 @@ tags: ["Evermusic", "Flacbox", "Visualisointi", "Kuinka tehdä", "Milkdrop", "pr
 readingTime: 9
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 **Lyhyt vastaus:** [Evermusic](/products/evermusic)issa ja [Flacbox](/products/flacbox)issa on molemmissa koko näytön **musiikkivisualisointi**, joka maalaa liikkuvia, värikkäitä visuaaleja musiikkisi tahdissa. Avaa se **Nyt soi** -soittimesta (**⋯ Lisää > Visualisointi**) tai kohdasta **Asetukset > Visualisointi**, valitse sitten esiasetus tai **Auto** ja napauta **Aloita visualisointi**. Visualisointinäytöllä napauta kerran näyttääksesi tai piilottaaksesi säätimet ja käytä **Edellinen**- ja **Seuraava**-nuolia ulkoasun vaihtamiseen. Se käyttää tunnettua **Milkdrop (projectM)** -moottoria **500 esiasetuksella**, renderöi **OpenGL**:llä ja toimii **iPhonella, iPadilla ja Macilla**. Vaiheet ovat samat molemmissa sovelluksissa. Täydet ohjeet ovat alla.
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Musiikkivisualisointi: Starfield Sectors -esiasetus" image="/docs/howto/how-to-turn-on-a-music-visualizer-while-playing-music-on-iphone-ipad-mac/music-visualizer-starfield-sectors-preset.webp" imageStyle="border-radius: clamp(14px, 2vw, 28px);" >}}
+{{< ls-card title="" subtitle="Musiikkivisualisointi: Starfield Sectors -esiasetus" image="/docs/howto/how-to-turn-on-a-music-visualizer-while-playing-music-on-iphone-ipad-mac/music-visualizer-starfield-sectors-preset.webp" imageStyle="border-radius: clamp(14px, 2vw, 28px);" >}}
 {{< /cards >}}
 
 ## Mikä visualisointi on?
@@ -85,50 +85,50 @@ Kummallakin tavalla visuaalit reagoivat tarkalleen soittamaasi ääneen, oli se 
 
 ## UKK
 
-{{% details title="Kuinka otan visualisoinnin käyttöön Evermusicissa tai Flacboxissa?" closed="true" %}}
+{{% ls-details title="Kuinka otan visualisoinnin käyttöön Evermusicissa tai Flacboxissa?" closed="true" %}}
 Avaa Nyt soi -soitin, napauta ⋯ (Lisää) -painiketta ja valitse Visualisointi. Voit myös avata sen kohdasta Asetukset > Visualisointi. Valitse sitten esiasetus (tai Auto) ja napauta Aloita visualisointi. Vaiheet ovat samat molemmissa sovelluksissa.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Mihin visualisointi perustuu?" closed="true" %}}
+{{% ls-details title="Mihin visualisointi perustuu?" closed="true" %}}
 Se käyttää avoimen lähdekoodin projectM-moottoria, joka toistaa Milkdrop-tyylisiä esiasetuksia. Nämä ovat animoituja, musiikkiin reagoivia visuaaleja, jotka monet tuntevat työpöytämusiikkisoittimista. Sekä Evermusic että Flacbox sisältävät 500 esiasetusta ja piirtävät ne OpenGL:llä.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Kuinka monta visualisoinnin esiasetusta on?" closed="true" %}}
+{{% ls-details title="Kuinka monta visualisoinnin esiasetusta on?" closed="true" %}}
 500 esiasetusta. Jokainen on eri animoitu kohtaus, ja voit liikkua niiden läpi Seuraava- ja Edellinen-nuolilla, tai antaa Auto-tilan sekoittaa niitä puolestasi.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Reagoiko visualisointi musiikkiin?" closed="true" %}}
+{{% ls-details title="Reagoiko visualisointi musiikkiin?" closed="true" %}}
 Kyllä. Visuaalit reagoivat soittamaasi ääneen reaaliajassa, joten muodot, värit ja liike muuttuvat kappaleen sykkeen ja energian mukaan. Se toimii paikallisten tiedostojen, pilviasemien, mediapalvelimien ja internetradion kanssa.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Kuinka vaihdan visualisoinnin esiasetusta?" closed="true" %}}
+{{% ls-details title="Kuinka vaihdan visualisoinnin esiasetusta?" closed="true" %}}
 Napauta näyttöä kerran näyttääksesi säätimet, käytä sitten Edellinen- ja Seuraava-nuolia alhaalla liikkuaksesi esiasetusten välillä. Nimi ja laskuri yläreunassa (esimerkiksi 429 / 500) päivittyvät niitä vaihtaessasi. Voit myös käynnistää Auto-tilassa vaihtaaksesi esiasetuksia automaattisesti.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Mikä on Auto-tila?" closed="true" %}}
+{{% ls-details title="Mikä on Auto-tila?" closed="true" %}}
 Auto-tila, valittuna esiasetusvalitsimesta, sekoittaa esiasetuksia itsestään, vaihtaen uuteen joka 30 sekunti sulavalla ristihäivytyksellä. Se on helpoin tapa nauttia showsta koskematta näyttöön.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Kuinka piilotan näytön säätimet?" closed="true" %}}
+{{% ls-details title="Kuinka piilotan näytön säätimet?" closed="true" %}}
 Napauta näyttöä kerran piilottaaksesi säätimet puhtaaseen, koko näytön näkymään, ja napauta uudelleen tuodaksesi ne takaisin. Säätimet piiloutuvat myös itsestään muutaman sekunnin kuluttua.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Toimiiko visualisointi Macilla?" closed="true" %}}
+{{% ls-details title="Toimiiko visualisointi Macilla?" closed="true" %}}
 Kyllä. Macilla sekä Evermusic että Flacbox avaavat visualisoinnin omaan ikkunaansa ja piirtävät sen natiivilla työpöytä-OpenGL:llä, joten saat samat musiikkiin reagoivat Milkdrop-visuaalit isolle näytölle.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Toimiiko visualisointi iPhonella ja iPadilla?" closed="true" %}}
+{{% ls-details title="Toimiiko visualisointi iPhonella ja iPadilla?" closed="true" %}}
 Kyllä. iPhonella ja iPadilla se toimii koko näytöllä, piirrettynä OpenGL ES:llä sulavaan animaatioon Retina-näytöillä.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Himmeneekö tai lukittuuko näyttöni visualisoinnin ollessa käynnissä?" closed="true" %}}
+{{% ls-details title="Himmeneekö tai lukittuuko näyttöni visualisoinnin ollessa käynnissä?" closed="true" %}}
 Ei. Sovellus pitää näytön hereillä visualisoinnin ollessa päällä, joten showta ei keskeytä näytön himmeneminen tai lukittuminen.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Muistaako sovellus valitsemani esiasetuksen?" closed="true" %}}
+{{% ls-details title="Muistaako sovellus valitsemani esiasetuksen?" closed="true" %}}
 Kyllä. Viimeksi valitsemasi esiasetus tallennetaan ja korostetaan esiasetusvalitsimessa, joten suosikkiisi on helppo palata.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Missä nykyisen esiasetuksen nimi näkyy?" closed="true" %}}
+{{% ls-details title="Missä nykyisen esiasetuksen nimi näkyy?" closed="true" %}}
 Visualisointinäytön yläkeskellä, laskurin kera kuten 429 / 500, joka näyttää, missä esiasetuksessa olet koko joukosta. Esimerkkikuvakaappauksessa esiasetus on Starfield Sectors.
-{{% /details %}}
+{{% /ls-details %}}

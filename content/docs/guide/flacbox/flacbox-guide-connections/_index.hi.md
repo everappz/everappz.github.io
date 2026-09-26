@@ -19,7 +19,7 @@ readingTime: 12
 इस स्क्रीन पर आप हर वह स्रोत कनेक्ट कर सकते हैं जहाँ आपका म्यूज़िक संग्रहीत है। आप Dropbox, Google Drive, iCloud Drive, OneDrive, MEGA, Box, pCloud, Yandex Disk, Synology Drive और कई अन्य लोकप्रिय क्लाउड सेवाओं के साथ-साथ मानक प्रोटोकॉल पर अपने Mac, PC या NAS को भी इंटीग्रेट कर सकते हैं। चाहे आपका संग्रह Dropbox जैसी स्ट्रीमिंग-अनुकूल सेवा पर हो या Synology, QNAP, Buffalo, Apple Time Capsule, या WD My Cloud Home जैसे व्यक्तिगत NAS पर, Flacbox उन सभी से एक ही स्क्रीन से कनेक्ट होता है।
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox Connections Screen" image="/docs/guide/flacbox/img/connections-main.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox Connections Screen" image="/docs/guide/flacbox/img/connections-main.webp" >}}
 {{< /cards >}}
 
 ## क्लाउड स्टोरेज से कनेक्ट करें
@@ -30,7 +30,7 @@ readingTime: 12
 - क्लाउड प्रदाता द्वारा दिए गए आधिकारिक प्राधिकरण पृष्ठ पर अपनी क्रेडेंशियल दर्ज करें, फिर **पूर्ण करना** पर टैप करें।
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox Add a Cloud Storage Service" image="/docs/guide/flacbox/img/add-cloud-storage.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox Add a Cloud Storage Service" image="/docs/guide/flacbox/img/add-cloud-storage.webp" >}}
 {{< /cards >}}
 
 यदि आपको कोई समस्या आती है, तो अपना इंटरनेट कनेक्शन और अपना लॉगिन / पासवर्ड जांचें। ऐप के Premium संस्करण में आप असीमित सेवाएं जोड़ सकते हैं; निःशुल्क संस्करण तीन तक समर्थन करता है।
@@ -134,7 +134,7 @@ Flacbox Subsonic API बोलता है, जिसका मतलब है
 यह आपके होम नेटवर्क पर IP एड्रेस मैन्युअल रूप से टाइप किए बिना SMB, WebDAV, DLNA शेयर खोजने का सबसे तेज़ तरीका है।
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox Available Devices on the Local Network" image="/docs/guide/flacbox/img/available-devies.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox Available Devices on the Local Network" image="/docs/guide/flacbox/img/available-devies.webp" >}}
 {{< /cards >}}
 
 ## Wi-Fi Drive
@@ -149,7 +149,7 @@ Wi-Fi Drive एक सुविधाजनक तकनीक है जो क
 - Wi-Fi Drive सक्षम करने के लिए **Start Wi-Fi Drive** टैप करें।
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox Wi-Fi Drive" image="/docs/guide/flacbox/img/wifi-drive.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox Wi-Fi Drive" image="/docs/guide/flacbox/img/wifi-drive.webp" >}}
 {{< /cards >}}
 
 ### अपने कंप्यूटर पर Wi-Fi Drive एक्सेस करें
@@ -234,7 +234,7 @@ Finder File Sharing का उपयोग करने के विस्त�
 - **हटाना** — फ़ाइल को आपके क्लाउड स्टोरेज से स्थायी रूप से हटाएं। **यह क्रिया पूर्ववत नहीं की जा सकती।**
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox More Actions for a File in Connected Cloud Storage" image="/docs/guide/flacbox/img/more-actions-for-file-in-connected-cloud-storage.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox More Actions for a File in Connected Cloud Storage" image="/docs/guide/flacbox/img/more-actions-for-file-in-connected-cloud-storage.webp" >}}
 {{< /cards >}}
 
 यदि क्रियाओं की सूची उपलब्ध स्क्रीन स्थान से अधिक हो जाती है, तो अतिरिक्त विकल्पों तक पहुंचने के लिए क्रियाएं मेनू के भीतर बस स्क्रॉल करें।
@@ -261,7 +261,7 @@ Finder File Sharing का उपयोग करने के विस्त�
 त्वरित पहुंच सेक्शन स्क्रीन के शीर्ष पर स्थित है। यह आपको कनेक्टेड क्लाउड सेवाओं से आपकी पसंदीदा और हाल ही में खोली गई फाइलों तक त्वरित पहुंच देता है। जब भी आप क्लाउड से कोई फ़ाइल या फ़ोल्डर खोलते हैं, तो यह Recently Opened सूची में जोड़ा जाता है। इस सूची को साफ़ करने के लिए, Recents खोलें, More Actions बटन टैप करें, और Delete List चुनें। आप गहरे नेस्टेड फ़ोल्डरों को Favorites के रूप में भी चिह्नित कर सकते हैं ताकि निर्देशिका संरचना के माध्यम से खोज किए बिना उन्हें जल्दी से एक्सेस कर सकें।
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox Online Links and Quick Access" image="/docs/guide/flacbox/img/online-links.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox Online Links and Quick Access" image="/docs/guide/flacbox/img/online-links.webp" >}}
 {{< /cards >}}
 
 ## अन्य सेवाएं
@@ -269,5 +269,5 @@ Finder File Sharing का उपयोग करने के विस्त�
 यह सेक्शन अतिरिक्त सुविधाएं प्रदर्शित करता है जो आपके अनुभव को बेहतर बनाती हैं। वर्तमान में, ऐप **Last.fm** scrobbling का समर्थन करता है — जब कनेक्ट होता है, तो आपके प्लेबैक आँकड़े स्वचालित रूप से आपके Last.fm खाते पर भेजे जाते हैं। आप बाद में अपनी Last.fm प्रोफ़ाइल देखने के लिए जा सकते हैं और व्यक्तिगत म्यूज़िक अनुशंसाएं प्राप्त कर सकते हैं। विस्तृत सेटअप निर्देश [यहाँ](/docs/howto/how-to-scrobble-your-music-history-from-evermusic-or-flacbox-to-last-fm) उपलब्ध हैं।
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox Last.fm Connect" image="/docs/guide/flacbox/img/last-fm-connect.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox Last.fm Connect" image="/docs/guide/flacbox/img/last-fm-connect.webp" >}}
 {{< /cards >}}

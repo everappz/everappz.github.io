@@ -31,7 +31,7 @@ Anda dapat membuka pemutar layar penuh dari bilah pemutar kompak. Di iPhone, pem
 Pemutar kompak tetap terlihat saat Anda menelusuri perpustakaan, manajer file, atau pengaturan, sehingga Anda tidak pernah kehilangan video saat mencari video berikutnya.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Pemutar Media Layar Penuh Evervideo" image="/docs/guide/evervideo/img/evervideo-media-player-fullscreen.webp" >}}
+  {{< ls-card title="" subtitle="Pemutar Media Layar Penuh Evervideo" image="/docs/guide/evervideo/img/evervideo-media-player-fullscreen.webp" >}}
 {{< /cards >}}
 
 ## Format Video dan Audio yang Didukung
@@ -72,7 +72,7 @@ PiP bekerja dengan setiap format video yang diputar Evervideo, termasuk file yan
 Pemutar kompak adalah pemutar mini persisten yang tetap terlihat di bagian atas setiap layar di aplikasi saat Anda menelusuri perpustakaan, manajer file, atau pengaturan. Ketuk untuk memperluas ke pemutar layar penuh; geser ke bawah untuk melipatnya kembali.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Pengaturan Video Evervideo dari Tampilan Pemutar Kompak di Layar Utama" image="/docs/guide/evervideo/img/evervideo-video-settings-from-compact-player-view-on-the-main-screen.webp" >}}
+  {{< ls-card title="" subtitle="Pengaturan Video Evervideo dari Tampilan Pemutar Kompak di Layar Utama" image="/docs/guide/evervideo/img/evervideo-video-settings-from-compact-player-view-on-the-main-screen.webp" >}}
 {{< /cards >}}
 
 ## AirPlay 2
@@ -115,7 +115,7 @@ Evervideo menyertakan equalizer audio penuh untuk menyetel soundtrack video untu
 Untuk menyetel gambar, Evervideo menyediakan equalizer video khusus — sesuaikan kecerahan, kontras, saturasi, dan rona secara real time selama pemutaran. Seperti equalizer audio, preset video kustom dapat diekspor dan diimpor untuk berbagi atau pencadangan. Gunakan untuk mencerahkan adegan gelap di hari yang cerah, meningkatkan saturasi pada konten yang pudar, atau menghangatkan cast warna dingin.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Equalizer Video Evervideo" image="/docs/guide/evervideo/img/evervideo-video-equalizer.webp" >}}
+  {{< ls-card title="" subtitle="Equalizer Video Evervideo" image="/docs/guide/evervideo/img/evervideo-video-equalizer.webp" >}}
 {{< /cards >}}
 
 ## Mode Penskalaan Video
@@ -144,7 +144,7 @@ Evervideo menyertakan viewport VR / 360° untuk file video sferis. Saat memutar 
 Ketuk kontrol Kecepatan pada toolbar pemutar untuk mengubah kecepatan pemutaran — perlambat untuk analisis (0,25× atau 0,5×) atau percepat untuk tutorial dan kuliah (1,25×, 1,5×, 2×, dan hingga 3×). Ketuk ikon konfigurasi di pojok kanan atas layar Kecepatan untuk beralih ke mode presisi dengan penyesuaian yang lebih halus. Koreksi pitch per-trek juga tersedia.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Kecepatan Pemutaran Evervideo di Toolbar Utama" image="/docs/guide/evervideo/img/evervideo-media-player-playback-speed-on-main-toolbar.webp" >}}
+  {{< ls-card title="" subtitle="Kecepatan Pemutaran Evervideo di Toolbar Utama" image="/docs/guide/evervideo/img/evervideo-media-player-playback-speed-on-main-toolbar.webp" >}}
 {{< /cards >}}
 
 ## Antrean Pemutar
@@ -152,7 +152,7 @@ Ketuk kontrol Kecepatan pada toolbar pemutar untuk mengubah kecepatan pemutaran 
 Untuk melihat antrean pemutar, ketuk tombol antrean pada pemutar. Setiap video dalam antrean memiliki lebih banyak tindakan — ketuk tiga titik untuk melihatnya. Untuk menyusun ulang video dalam antrean, gunakan indikator urutan ulang dekat judul dan seret ke posisi baru.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Antrean Pemutaran Evervideo" image="/docs/guide/evervideo/img/evervideo-playback-queue.webp" >}}
+  {{< ls-card title="" subtitle="Antrean Pemutaran Evervideo" image="/docs/guide/evervideo/img/evervideo-playback-queue.webp" >}}
 {{< /cards >}}
 
 ## Sleep Timer
@@ -189,7 +189,7 @@ Ketuk tombol **Lebih banyak tindakan "..."** pada pemutar untuk mengakses fungsi
 - **Bantuan** — buka panduan.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Layar Lebih Banyak Tindakan Pemutar Evervideo" image="/docs/guide/evervideo/img/evervideo-media-player-more-actions.webp" >}}
+  {{< ls-card title="" subtitle="Layar Lebih Banyak Tindakan Pemutar Evervideo" image="/docs/guide/evervideo/img/evervideo-media-player-more-actions.webp" >}}
 {{< /cards >}}
 
 ## Pengaturan Pemutar

@@ -12,7 +12,7 @@ authors:
     image: "/images/about/artem-meleshko-founder-everappz.webp"
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 ## Evermusic: مشغل الموسيقى السحابي لـ iPhone وiPad
 
@@ -22,7 +22,7 @@ Evermusic هو مشغل موسيقى سحابي يتصل بتخزينك السح
 
 ## شاهد الفيديو الترويجي
 
-{{< youtubecard id="BwD0XLgdzEE" title="Evermusic Promo Video" >}}
+{{< ls-youtubecard id="BwD0XLgdzEE" title="Evermusic Promo Video" >}}
 
 ## الميزات الرئيسية المعروضة في الفيديو
 
@@ -36,14 +36,14 @@ Evermusic هو مشغل موسيقى سحابي يتصل بتخزينك السح
 
 ## الأسئلة الشائعة
 
-{{% details title="ما هو Evermusic؟" closed="true" %}}
+{{% ls-details title="ما هو Evermusic؟" closed="true" %}}
 Evermusic هو مشغل موسيقى سحابي لـ iPhone وiPad. يتصل بخدمات التخزين السحابي مثل Dropbox وGoogle Drive وOneDrive، مما يتيح لك بث وتحميل ملفات الموسيقى الخاصة بك. يدعم FLAC وMP3 وAAC وWAV وصيغ صوتية أخرى.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="هل Evermusic مجاني للتحميل؟" closed="true" %}}
+{{% ls-details title="هل Evermusic مجاني للتحميل؟" closed="true" %}}
 نعم. Evermusic مجاني للتحميل مع الميزات الأساسية. ترقية Premium لمرة واحدة تفتح معادل الصوت والتلاشي المتقاطع واتصالات حسابات سحابية إضافية.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="ما هي الخدمات السحابية التي يدعمها Evermusic؟" closed="true" %}}
+{{% ls-details title="ما هي الخدمات السحابية التي يدعمها Evermusic؟" closed="true" %}}
 يدعم Evermusic أكثر من 12 منصة سحابية بما في ذلك iCloud Drive وDropbox وGoogle Drive وOneDrive وBox وMEGA وYandex.Disk وpCloud وأي خادم يشغل بروتوكولات WebDAV أو SMB.
-{{% /details %}}
+{{% /ls-details %}}

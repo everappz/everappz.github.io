@@ -7,7 +7,7 @@ tags: ["música", "nuvem", "streaming", "sincronização", "icloud", "biblioteca
 keywords: ["importar música iCloud Evermusic", "Flacbox sincronização iCloud", "Evermusic streaming do iCloud", "biblioteca de música app iOS", "Flacbox leitor de metadados", "streaming música iCloud iPhone"]
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **Resumo:** Você pode transmitir sua biblioteca de música do iCloud Drive no Evermusic e Flacbox sem baixar arquivos para seu dispositivo. Conecte o iCloud Drive no app, ative a Sincronização de Música Online para construir sua biblioteca, configure o leitor de metadados para organizar por artista/álbum/gênero e, opcionalmente, ative o Modo Offline para baixar álbuns para ouvir sem internet. Esses passos também funcionam com Google Drive, Dropbox, OneDrive e outros serviços de nuvem suportados.
@@ -148,26 +148,26 @@ Isso é tudo por hoje! Esperamos que este guia ajude você a configurar a sincro
 
 ## FAQ
 
-{{% details title="Posso transmitir música do iCloud sem baixar arquivos para meu iPhone?" closed="true" %}}
+{{% ls-details title="Posso transmitir música do iCloud sem baixar arquivos para meu iPhone?" closed="true" %}}
 Sim. Quando você conecta o iCloud Drive no Evermusic ou Flacbox e usa a Sincronização de Música Online, o app cria links para seus arquivos de nuvem e os transmite sob demanda. Os arquivos não são baixados a menos que você ative explicitamente o Modo Offline.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Por que a importação de música do iCloud é lenta no Flacbox ou Evermusic?" closed="true" %}}
+{{% ls-details title="Por que a importação de música do iCloud é lenta no Flacbox ou Evermusic?" closed="true" %}}
 A importação lenta é geralmente causada pela leitura de metadados de uma grande biblioteca através de uma conexão móvel. Ative a Sincronização em segundo plano, inicie a reprodução de áudio para manter o app ativo e considere usar a versão Mac para a sincronização inicial de grandes coleções.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Este guia funciona com serviços de nuvem diferentes do iCloud?" closed="true" %}}
+{{% ls-details title="Este guia funciona com serviços de nuvem diferentes do iCloud?" closed="true" %}}
 Sim. Os mesmos passos se aplicam ao Google Drive, Dropbox, OneDrive, SMB, WebDAV e todos os outros serviços de nuvem suportados pelo Evermusic e Flacbox.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Como transfiro minha biblioteca de música do Mac para o iPhone?" closed="true" %}}
+{{% ls-details title="Como transfiro minha biblioteca de música do Mac para o iPhone?" closed="true" %}}
 Use o recurso de backup/restauração de dados nas configurações do app. Sincronize e leia os metadados na versão Mac primeiro, crie um backup e depois restaure-o na versão iOS. Esta é a maneira mais rápida de configurar uma grande biblioteca no iPhone.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="O leitor de metadados alterará meus arquivos de áudio originais?" closed="true" %}}
+{{% ls-details title="O leitor de metadados alterará meus arquivos de áudio originais?" closed="true" %}}
 Não. O leitor de metadados apenas atualiza as informações de exibição em sua biblioteca de música. Ele não modifica arquivos armazenados em sua conta de nuvem ou em seu dispositivo. Para editar tags de arquivos, use o editor de tags integrado.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Como tornar álbuns disponíveis offline?" closed="true" %}}
+{{% ls-details title="Como tornar álbuns disponíveis offline?" closed="true" %}}
 Use o recurso Modo Offline. Toque em **Mais ações** em qualquer pasta de nuvem e selecione **Ativar modo offline**. O app baixa todos os arquivos e os mantém sincronizados com a versão na nuvem automaticamente.
-{{% /details %}}
+{{% /ls-details %}}

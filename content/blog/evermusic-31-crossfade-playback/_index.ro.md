@@ -12,7 +12,7 @@ authors:
     image: "/images/about/artem-meleshko-founder-everappz.webp"
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 ## Evermusic 3.1: Ce s-a schimbat și de ce contează
 
@@ -89,22 +89,22 @@ Editați credențialele de autentificare pentru orice serviciu cloud conectat f�
 
 ## Întrebări frecvente
 
-{{% details title="Ce este redarea crossfade în Evermusic?" closed="true" %}}
+{{% ls-details title="Ce este redarea crossfade în Evermusic?" closed="true" %}}
 Redarea crossfade amestecă sfârșitul unei piese cu începutul celei următoare, creând tranziții fluide. Puteți seta durata între 3 și 15 secunde în Settings → Audio Player → Crossfade Playback.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Pot face backup la playlisturile Evermusic în stocarea cloud?" closed="true" %}}
+{{% ls-details title="Pot face backup la playlisturile Evermusic în stocarea cloud?" closed="true" %}}
 Da. Evermusic 3.1 vă permite să faceți backup la întreaga bibliotecă — inclusiv playlisturi, metadate, coperte și setări — la orice serviciu cloud conectat ca un singur fișier.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Suportă Evermusic navigarea în biblioteca iPod?" closed="true" %}}
+{{% ls-details title="Suportă Evermusic navigarea în biblioteca iPod?" closed="true" %}}
 Da. Puteți răsfoi biblioteca iPod după playlisturi, albume, artiști și genuri direct din ecranul principal Evermusic și puteți adăuga piese în coada dvs.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Cum corectez tagurile incorecte ale melodiilor în Evermusic?" closed="true" %}}
+{{% ls-details title="Cum corectez tagurile incorecte ale melodiilor în Evermusic?" closed="true" %}}
 Utilizați editorul de taguri integrat și atingeți acțiunea Identify. Evermusic scanează numele fișierelor și actualizează automat tagurile ID3 cu metadate corectate.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Ce servicii cloud suportă Evermusic?" closed="true" %}}
+{{% ls-details title="Ce servicii cloud suportă Evermusic?" closed="true" %}}
 Evermusic funcționează cu Dropbox, Google Drive, OneDrive, MEGA, Box, Yandex.Disk, WebDAV, SMB/CIFS și servere FTP.
-{{% /details %}}
+{{% /ls-details %}}

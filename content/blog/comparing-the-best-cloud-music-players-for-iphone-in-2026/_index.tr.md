@@ -12,7 +12,7 @@ authors:
     image: "/images/about/artem-meleshko-founder-everappz.webp"
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 ## iPhone için Hangi Bulut Müzik Oynatıcısı En İyi?
 
@@ -91,22 +91,22 @@ Müzik meraklıları ve bulut depolamada kişisel müzik koleksiyonu tutanlar i�
 
 ## Sık Sorulan Sorular
 
-{{% details title="iPhone'da FLAC dosyalarını dönüştürmeden çalabilir miyim?" closed="true" %}}
+{{% ls-details title="iPhone'da FLAC dosyalarını dönüştürmeden çalabilir miyim?" closed="true" %}}
 Evet. Evermusic, FLAC, DSD, WAV, ALAC ve diğer kayıpsız formatları iPhone'da yerel olarak çalar. Dosya dönüştürme gerekmez. Bulut depolama hesabınızı bağlayın ve FLAC dosyalarınızı doğrudan yayınlayın veya indirin.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Dropbox ve Google Drive ile hangi bulut müzik oynatıcısı çalışır?" closed="true" %}}
+{{% ls-details title="Dropbox ve Google Drive ile hangi bulut müzik oynatıcısı çalışır?" closed="true" %}}
 Evermusic, Dropbox, Google Drive, OneDrive, Box, MEGA, pCloud, WebDAV, SMB ve daha fazlasını destekler -- toplam 12'den fazla bulut hizmeti. Spotify ve Apple Music gibi çoğu ana akım yayın uygulaması üçüncü taraf bulut depolamasına bağlanmaz.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Bir bulut müzik oynatıcısı kullanmak için aboneliğe ihtiyacım var mı?" closed="true" %}}
+{{% ls-details title="Bir bulut müzik oynatıcısı kullanmak için aboneliğe ihtiyacım var mı?" closed="true" %}}
 Uygulamaya bağlıdır. Spotify, Apple Music ve Deezer aylık abonelik gerektirir. Evermusic, yinelenen ücretler olmadan ücretsiz katman ve tek seferlik Premium satın alımı sunar. Müzik dosyalarınızı barındırmak için kendi bulut depolama alanınızı kullanırsınız.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="iPhone'da çevrimdışı dinleme için en iyi müzik oynatıcısı nedir?" closed="true" %}}
+{{% ls-details title="iPhone'da çevrimdışı dinleme için en iyi müzik oynatıcısı nedir?" closed="true" %}}
 Tüm büyük oynatıcılar çevrimdışı indirmeleri destekler, ancak yaklaşım farklıdır. Spotify ve Apple Music, kataloglarından parça indirmenize izin verir. Evermusic, çevrimdışı oynatma için bulut depolama alanınızdan kendi dosyalarınızı indirmenize izin verir -- uçuşlar, işe gidiş gelişleri veya bağlantısız alanlar için idealdir.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="NAS'ım veya ev sunucumla bir bulut müzik oynatıcısı kullanabilir miyim?" closed="true" %}}
+{{% ls-details title="NAS'ım veya ev sunucumla bir bulut müzik oynatıcısı kullanabilir miyim?" closed="true" %}}
 Evet. Evermusic, WebDAV ve SMB protokollerini destekler; bu da Synology, QNAP ve Western Digital'in çoğu NAS cihazına bağlanabildiği anlamına gelir. Bu, iPhone'unuzu tüm ev müzik kütüphaneniz için uzak bir oynatıcıya dönüştürür.
-{{% /details %}}
+{{% /ls-details %}}

@@ -7,7 +7,7 @@ tags: ["evermusic", "flacbox", "arşiv", "yedekleme", "dışa aktarma", "çalma 
 readingTime: 2
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **Özet:** Evermusic ve Flacbox, herhangi bir çalma listesini, albümü, sanatçıyı veya türü M3U çalma listesi, albüm kapağı ve tüm ses dosyalarıyla birlikte ZIP dosyasına arşivleyebilir. ZIP'i başka bir cihaza aktarın, arşivden çıkarın ve çalma listesini anında yeniden oluşturmak için M3U'yu içe aktarın.
@@ -104,22 +104,22 @@ Bu kılavuzu izleyerek, Evermusic veya Flacbox kullanarak çalma listelerinizi, 
 
 ## Sıkça Sorulan Sorular
 
-{{% details title="ZIP arşivinde neler bulunur?" closed="true" %}}
+{{% ls-details title="ZIP arşivinde neler bulunur?" closed="true" %}}
 Arşiv tüm ses dosyalarını, parça sırasını koruyan bir M3U çalma listesi dosyasını ve ayrı bir görsel dosya olarak kaydedilen çalma listesinin albüm kapağını içerir.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Arşivleme bulut dosyalarıyla çalışır mı?" closed="true" %}}
+{{% ls-details title="Arşivleme bulut dosyalarıyla çalışır mı?" closed="true" %}}
 Evet. Uygulama, arşive eklemeden önce bulutta depolanan tüm dosyaları otomatik olarak indirir. İndirme ilerlemesini dosya aktarımları bölümünde izleyebilirsiniz.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Albümleri, sanatçıları ve türleri de arşivleyebilir miyim?" closed="true" %}}
+{{% ls-details title="Albümleri, sanatçıları ve türleri de arşivleyebilir miyim?" closed="true" %}}
 Evet. «Arşive Ekle» seçeneği çalma listeleri, albümler, sanatçılar ve türler için kullanılabilir. İşlem hepsi için aynıdır.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Arşivi başka bir cihaza nasıl aktarırım?" closed="true" %}}
+{{% ls-details title="Arşivi başka bir cihaza nasıl aktarırım?" closed="true" %}}
 ZIP'i bulut depolamaya (Google Drive, Dropbox vb.) yükleyebilir, AirDrop kullanabilir veya Evermusic ve Flacbox'taki yerleşik Wi-Fi Drive özelliği aracılığıyla kablosuz olarak aktarabilirsiniz.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Aktarımdan sonra çalma listesi yapısı korunacak mı?" closed="true" %}}
+{{% ls-details title="Aktarımdan sonra çalma listesi yapısı korunacak mı?" closed="true" %}}
 Evet. M3U dosyası çalma listesi yapısını göreli yollarla saklar. Yeni cihazda arşivden çıkardıktan sonra, tüm parçaları orijinal sırada içeren çalma listesini yeniden oluşturmak için M3U dosyasını içe aktarın.
-{{% /details %}}
+{{% /ls-details %}}

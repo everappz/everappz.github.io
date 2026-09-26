@@ -72,19 +72,19 @@ Tämä opas auttaa sinua saamaan kaiken irti Evermusicistä iPhonellasi, iPadill
 
 
 {{< cards >}}
-  {{< card icon="location-marker" title="Navigointi" subtitle="Opi navigoimaan Evermusicissä käyttämällä välilehtipalkkia iPhonessa tai vasenta valikkoa iPadissa ja Macissa." link="/docs/guide/evermusic/evermusic-guide-navigation" >}}
+  {{< ls-card icon="location-marker" title="Navigointi" subtitle="Opi navigoimaan Evermusicissä käyttämällä välilehtipalkkia iPhonessa tai vasenta valikkoa iPadissa ja Macissa." link="/docs/guide/evermusic/evermusic-guide-navigation" >}}
 
-  {{< card icon="cloud" title="Yhteydet" subtitle="Yhdistä pilvipalvelutilisi ja hallinnoi verkkotiedostoja sisäänrakennetulla tiedostonhallinnalla." link="/docs/guide/evermusic/evermusic-guide-connections" >}}
+  {{< ls-card icon="cloud" title="Yhteydet" subtitle="Yhdistä pilvipalvelutilisi ja hallinnoi verkkotiedostoja sisäänrakennetulla tiedostonhallinnalla." link="/docs/guide/evermusic/evermusic-guide-connections" >}}
 
-  {{< card icon="collection" title="Musiikkikirjasto" subtitle="Järjestä ja tutki kappaleita, albumeja ja artisteja Musiikkikirjastossa." link="/docs/guide/evermusic/evermusic-guide-music-library" >}}
+  {{< ls-card icon="collection" title="Musiikkikirjasto" subtitle="Järjestä ja tutki kappaleita, albumeja ja artisteja Musiikkikirjastossa." link="/docs/guide/evermusic/evermusic-guide-music-library" >}}
 
-  {{< card icon="music-note" title="Soittolistat" subtitle="Luo ja järjestä soittolistoja tunnelmasi tai tilanteen mukaan." link="/docs/guide/evermusic/evermusic-guide-playlists" >}}
+  {{< ls-card icon="music-note" title="Soittolistat" subtitle="Luo ja järjestä soittolistoja tunnelmasi tai tilanteen mukaan." link="/docs/guide/evermusic/evermusic-guide-playlists" >}}
 
-  {{< card icon="folder" title="Paikalliset tiedostot" subtitle="Käytä ja hallinnoi offline-musiikkia Paikalliset tiedostot -osion kautta." link="/docs/guide/evermusic/evermusic-guide-local-files" >}}
+  {{< ls-card icon="folder" title="Paikalliset tiedostot" subtitle="Käytä ja hallinnoi offline-musiikkia Paikalliset tiedostot -osion kautta." link="/docs/guide/evermusic/evermusic-guide-local-files" >}}
 
-  {{< card icon="play" title="Äänentoistin" subtitle="Hallinnoi toistoa, jonoa ja ääniasetuksia, kuten ekvalisaattoria ja unitaimeria." link="/docs/guide/evermusic/evermusic-guide-player" >}}
+  {{< ls-card icon="play" title="Äänentoistin" subtitle="Hallinnoi toistoa, jonoa ja ääniasetuksia, kuten ekvalisaattoria ja unitaimeria." link="/docs/guide/evermusic/evermusic-guide-player" >}}
 
-  {{< card icon="adjustments" title="Asetukset" subtitle="Mukauta Evermusicin ulkoasua, ominaisuuksia ja suorituskykyasetuksia." link="/docs/guide/evermusic/evermusic-guide-settings" >}}
+  {{< ls-card icon="adjustments" title="Asetukset" subtitle="Mukauta Evermusicin ulkoasua, ominaisuuksia ja suorituskykyasetuksia." link="/docs/guide/evermusic/evermusic-guide-settings" >}}
 
-  {{< card icon="question-mark-circle" title="FAQ" subtitle="Löydä nopeita vastauksia yleisiin kysymyksiin FAQ-osiostamme." link="/docs/faq/evermusic" >}}
+  {{< ls-card icon="question-mark-circle" title="FAQ" subtitle="Löydä nopeita vastauksia yleisiin kysymyksiin FAQ-osiostamme." link="/docs/faq/evermusic" >}}
 {{< /cards >}}

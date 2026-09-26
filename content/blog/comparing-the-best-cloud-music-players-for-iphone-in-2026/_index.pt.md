@@ -12,7 +12,7 @@ authors:
     image: "/images/about/artem-meleshko-founder-everappz.webp"
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 ## Qual Reprodutor de Música em Nuvem É Melhor para iPhone?
 
@@ -91,22 +91,22 @@ Para audiophiles e qualquer pessoa que mantém uma coleção de música pessoal 
 
 ## Perguntas Frequentes
 
-{{% details title="Posso tocar arquivos FLAC no iPhone sem convertê-los?" closed="true" %}}
+{{% ls-details title="Posso tocar arquivos FLAC no iPhone sem convertê-los?" closed="true" %}}
 Sim. O Evermusic toca FLAC, DSD, WAV, ALAC e outros formatos sem perdas nativamente no iPhone. Não é necessária conversão de arquivo. Basta conectar sua conta de armazenamento em nuvem e transmitir ou baixar seus arquivos FLAC diretamente.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Qual reprodutor de música em nuvem funciona com Dropbox e Google Drive?" closed="true" %}}
+{{% ls-details title="Qual reprodutor de música em nuvem funciona com Dropbox e Google Drive?" closed="true" %}}
 O Evermusic suporta Dropbox, Google Drive, OneDrive, Box, MEGA, pCloud, WebDAV, SMB e mais -- mais de 12 serviços de nuvem no total. A maioria dos aplicativos de streaming mainstream como Spotify e Apple Music não se conecta a armazenamento em nuvem de terceiros.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Preciso de uma assinatura para usar um reprodutor de música em nuvem?" closed="true" %}}
+{{% ls-details title="Preciso de uma assinatura para usar um reprodutor de música em nuvem?" closed="true" %}}
 Depende do aplicativo. Spotify, Apple Music e Deezer exigem assinaturas mensais. O Evermusic oferece um nível gratuito e uma compra Premium única sem taxas recorrentes. Você usa seu próprio armazenamento em nuvem para hospedar seus arquivos de música.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Qual é o melhor reprodutor de música para ouvir offline no iPhone?" closed="true" %}}
+{{% ls-details title="Qual é o melhor reprodutor de música para ouvir offline no iPhone?" closed="true" %}}
 Todos os principais reprodutores suportam downloads offline, mas a abordagem difere. Spotify e Apple Music permitem baixar faixas de seus catálogos. O Evermusic permite baixar seus próprios arquivos do armazenamento em nuvem para reprodução offline -- ideal para voos, deslocamentos ou áreas sem conectividade.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Posso usar um reprodutor de música em nuvem com meu NAS ou servidor doméstico?" closed="true" %}}
+{{% ls-details title="Posso usar um reprodutor de música em nuvem com meu NAS ou servidor doméstico?" closed="true" %}}
 Sim. O Evermusic suporta protocolos WebDAV e SMB, o que significa que pode se conectar à maioria dos dispositivos NAS da Synology, QNAP e Western Digital. Isso transforma seu iPhone em um reprodutor remoto para toda a sua biblioteca de música doméstica.
-{{% /details %}}
+{{% /ls-details %}}

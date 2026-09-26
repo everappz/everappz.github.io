@@ -6,7 +6,7 @@ tags: ["muzica locala", "muzica offline", "player muzical", "iPhone", "Mac", "Ev
 keywords: ["cum sa redai muzica locala pe iPhone", "redare muzica din stocarea dispozitivului", "player muzical offline iOS", "tutorial aplicatie Evermusic", "player FLAC Flacbox", "redare fisiere locale iOS", "biblioteca muzicala Mac", "aplicatie muzicala pentru fisiere locale", "iPhone redare melodii descarcate", "cum sa folosesti Evermusic cu fisiere locale"]
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **Rezumat:** Instaleaza [Evermusic](/products/evermusic) (MP3/WAV) sau [Flacbox](/products/flacbox) (FLAC/DSD), deschide orice fisier audio sau folder local si incepe redarea. Adauga foldere la **Preferinte** pentru acces rapid, importa piese in Biblioteca muzicala sau creeaza **Liste de redare**.
@@ -24,10 +24,10 @@ Vom explora metode si instrumente pentru a reda fara probleme muzica locala pe d
 Pentru a incepe calatoria in lumea muzicii locale pe iPhone si Mac, incepe prin a instala fie Evermusic (pentru formate audio standard precum mp3 si wav), fie Flacbox (pentru muzica fara pierderi in dsd si flac). Ambele aplicatii sunt disponibile pentru iOS si MacOS si le poti descarca gratuit.
 
 {{< cards >}}
-  {{< card link="https://apps.apple.com/us/app/evermusic-cloud-music-player/id885367198?pt=95781850&ct=everappzcom&mt=8" title="Descarca Evermusic pentru iOS" tag="iOS" >}}
-  {{< card link="https://apps.apple.com/us/app/flacbox-hi-res-equalizer/id1097564256?pt=95781850&ct=everappzcom&mt=8" title="Descarca Flacbox pentru iOS" tag="iOS" >}}
-  {{< card link="https://apps.apple.com/us/app/evermusic-hi-res-music-player/id1564384601?pt=95781850&ct=everappzcom&mt=8" title="Descarca Evermusic pentru Mac" tag="macOS" >}}
-  {{< card link="https://apps.apple.com/us/app/flacbox-hi-res-music-player/id1594027432?pt=95781850&ct=everappzcom&mt=8" title="Descarca Flacbox pentru Mac" tag="macOS" >}}
+  {{< ls-card link="https://apps.apple.com/us/app/evermusic-cloud-music-player/id885367198?pt=95781850&ct=everappzcom&mt=8" title="Descarca Evermusic pentru iOS" tag="iOS" >}}
+  {{< ls-card link="https://apps.apple.com/us/app/flacbox-hi-res-equalizer/id1097564256?pt=95781850&ct=everappzcom&mt=8" title="Descarca Flacbox pentru iOS" tag="iOS" >}}
+  {{< ls-card link="https://apps.apple.com/us/app/evermusic-hi-res-music-player/id1564384601?pt=95781850&ct=everappzcom&mt=8" title="Descarca Evermusic pentru Mac" tag="macOS" >}}
+  {{< ls-card link="https://apps.apple.com/us/app/flacbox-hi-res-music-player/id1594027432?pt=95781850&ct=everappzcom&mt=8" title="Descarca Flacbox pentru Mac" tag="macOS" >}}
 {{< /cards >}}
 
 
@@ -135,22 +135,22 @@ Cu acesti pasi simpli, poti debloca intregul potential al iPhone-ului si Mac-ulu
 
 ## FAQ
 
-{{% details title="Ce formate audio pot reda Evermusic si Flacbox?" closed="true" %}}
+{{% ls-details title="Ce formate audio pot reda Evermusic si Flacbox?" closed="true" %}}
 Evermusic reda MP3, WAV, AAC, M4A si alte formate standard. Flacbox adauga suport pentru FLAC, DSD, OGG, OPUS, APE, WMA si ALAC.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Aceste aplicatii copiaza fisierele in stocarea aplicatiei?" closed="true" %}}
+{{% ls-details title="Aceste aplicatii copiaza fisierele in stocarea aplicatiei?" closed="true" %}}
 Implicit, fisierele sunt redate din locatia lor originala fara a fi copiate. Pentru a schimba acest comportament, activeaza "Always copy files during opening" in **Setari** > File manager.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Pot organiza muzica locala dupa artist si album?" closed="true" %}}
+{{% ls-details title="Pot organiza muzica locala dupa artist si album?" closed="true" %}}
 Da. Importa fisierele in Biblioteca muzicala (Pasul 4) si aplicatia citeste metadatele pentru a grupa piesele dupa Artist, Album, Gen si Compozitor.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Cum transfer muzica de pe computer pe iPhone?" closed="true" %}}
+{{% ls-details title="Cum transfer muzica de pe computer pe iPhone?" closed="true" %}}
 Foloseste iTunes File Sharing (USB), WiFi Drive (wireless) sau SMB (streaming). Vezi ghidul nostru detaliat: [Transfera si reda fisiere locale pe iPhone](/docs/howto/how-to-play-local-itunes-files-on-my-iphone/).
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Sunt Evermusic si Flacbox gratuite?" closed="true" %}}
+{{% ls-details title="Sunt Evermusic si Flacbox gratuite?" closed="true" %}}
 Da, ambele aplicatii sunt gratuite de descarcat cu functii de baza incluzand redare, egalizator si streaming in cloud. Versiunile gratuite au cateva limitari (numar de **Liste de redare**, conturi cloud, foldere offline). Trecerea la Premium elimina aceste limitari.
-{{% /details %}}
+{{% /ls-details %}}

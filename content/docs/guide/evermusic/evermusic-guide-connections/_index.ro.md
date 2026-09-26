@@ -17,7 +17,7 @@ Pe ecranul Conexiuni puteți conecta orice sursă care vă stochează muzica —
 Ecranul este împărțit în secțiuni clar etichetate, astfel încât scalează de la un singur cont iCloud Drive la o bibliotecă distribuită pe mai multe cloud-uri și dispozitive NAS: Acces Rapid în partea de sus (folderele dvs. cloud preferate), Stocare cloud (conturile pe care le-ați adăugat), Rețea locală (dispozitive descoperite prin Bonjour), Calculator (Wi-Fi Drive, iTunes File Sharing, SMB), Accesorii externe (unități flash USB conectate) și Alte servicii (Last.fm și altele similare).
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Ecranul Conexiuni Evermusic" image="/docs/guide/evermusic/evermusic-guide-connections/img/connect-main.webp" >}}
+  {{< ls-card title="" subtitle="Ecranul Conexiuni Evermusic" image="/docs/guide/evermusic/evermusic-guide-connections/img/connect-main.webp" >}}
 {{< /cards >}}
 
 ## Conectare la stocarea cloud
@@ -29,7 +29,7 @@ Ecranul este împărțit în secțiuni clar etichetate, astfel încât scalează
 - Atingeți Finalizat.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Selectorul furnizorului de stocare cloud" image="/docs/guide/evermusic/evermusic-guide-connections/img/connect-add-storage.webp" >}}
+  {{< ls-card title="" subtitle="Selectorul furnizorului de stocare cloud" image="/docs/guide/evermusic/evermusic-guide-connections/img/connect-add-storage.webp" >}}
 {{< /cards >}}
 
 Dacă întâmpinați probleme, verificați din nou conexiunea la internet și datele de autentificare și asigurați-vă că autentificarea cu doi factori este configurată corect pentru acel serviciu.  
@@ -70,7 +70,7 @@ De asemenea, puteți deconecta conturile cloud conectate în aplicație și toke
   - **Deconectare**: dacă doriți să întrerupeți complet conexiunea dintre aplicație și serviciul cloud, selectați 'Deconectare'. Rețineți că alegerea acestei opțiuni va elimina toate melodiile asociate acestui serviciu cloud din biblioteca de muzică a aplicației, dar vor rămâne pe server.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Meniu Mai multe acțiuni pentru stocarea cloud conectată" image="/docs/guide/evermusic/evermusic-guide-connections/img/connect-storage-more-actions.webp" >}}
+  {{< ls-card title="" subtitle="Meniu Mai multe acțiuni pentru stocarea cloud conectată" image="/docs/guide/evermusic/evermusic-guide-connections/img/connect-storage-more-actions.webp" >}}
 {{< /cards >}}
 
 ## Conectare la Calculator sau NAS
@@ -89,7 +89,7 @@ Dacă conexiunea este reușită, veți vedea stocarea conectată în secțiunea 
 Un tutorial complet despre cum să conectați Mac-ul sau PC-ul dvs. folosind SMB este disponibil [aici](/docs/howto/stream-your-music-from-mac-or-pc-to-iphone-using-smb/).
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Setările Conexiunii SMB" image="/docs/guide/evermusic/evermusic-guide-connections/img/connect-smb-settings.webp" >}}
+  {{< ls-card title="" subtitle="Setările Conexiunii SMB" image="/docs/guide/evermusic/evermusic-guide-connections/img/connect-smb-settings.webp" >}}
 {{< /cards >}}
 
 ## Conectare la NAS prin WebDAV
@@ -99,7 +99,7 @@ URL-ul trebuie să fie în formatul http://numele-serverului, sau https://numele
 Un tutorial complet despre cum să conectați stocarea NAS folosind protocolul WebDAV este disponibil [aici](/docs/howto/how-to-connect-nas-storage-using-webdav-and-listen-to-music-on-your-iphone-or-mac).
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Setările Conexiunii WebDAV" image="/docs/guide/evermusic/evermusic-guide-connections/img/connect-webdav-settings.webp" >}}
+  {{< ls-card title="" subtitle="Setările Conexiunii WebDAV" image="/docs/guide/evermusic/evermusic-guide-connections/img/connect-webdav-settings.webp" >}}
 {{< /cards >}}
 
 ## Conectare la Calculator sau NAS prin DLNA
@@ -107,7 +107,7 @@ Un tutorial complet despre cum să conectați stocarea NAS folosind protocolul W
 De asemenea, puteți partaja o bibliotecă de muzică situată pe PC-ul dvs. Windows sau NAS-ul personal folosind protocolul DLNA și accesa acea bibliotecă în aplicație conform descrierii [aici](/docs/howto/how-to-enable-dlna-media-server-on-windows-10-and-play-your-music-on-iphone). DLNA este un protocol popular și larg utilizat, dar vă permite doar să redați sau să descărcați muzică. Nu puteți încărca fișiere sau crea foldere noi pe server.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Setările Conexiunii DLNA" image="/docs/guide/evermusic/evermusic-guide-connections/img/connect-dlna-settings.webp" >}}
+  {{< ls-card title="" subtitle="Setările Conexiunii DLNA" image="/docs/guide/evermusic/evermusic-guide-connections/img/connect-dlna-settings.webp" >}}
 {{< /cards >}}
 
 ## Dispozitive disponibile
@@ -120,7 +120,7 @@ Pentru a stabili o conexiune cu un dispozitiv, urmați acești pași:
 - Dacă este necesar, introduceți datele de autentificare pentru a finaliza conexiunea.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Dispozitive Disponibile în Rețeaua Locală" image="/docs/guide/evermusic/evermusic-guide-connections/img/connect-available-devices.webp" >}}
+  {{< ls-card title="" subtitle="Dispozitive Disponibile în Rețeaua Locală" image="/docs/guide/evermusic/evermusic-guide-connections/img/connect-available-devices.webp" >}}
 {{< /cards >}}
 
 ## Wi-Fi Drive
@@ -146,7 +146,7 @@ Odată ce pagina web corespunzătoare dispozitivului dvs. iOS se deschide în br
 Fișierele pe care le trageți și le plasați vor începe să se transfere pe dispozitivul dvs. iOS și vor fi accesibile în cadrul aplicației.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Setările Serverului Wi-Fi Drive" image="/docs/guide/evermusic/evermusic-guide-connections/img/connect-wifidrive-settings.webp" >}}
+  {{< ls-card title="" subtitle="Setările Serverului Wi-Fi Drive" image="/docs/guide/evermusic/evermusic-guide-connections/img/connect-wifidrive-settings.webp" >}}
 {{< /cards >}}
 
 Instrucțiuni detaliate despre cum să transferați fișiere fără fir folosind WiFi-Drive sunt disponibile [aici](/docs/howto/how-to-transfer-files-wirelessly-from-a-computer-to-an-iphone-using-wifi-drive).
@@ -162,7 +162,7 @@ iTunes File Sharing este o altă tehnologie care vă permite să transferați fi
 Instrucțiuni detaliate despre cum să utilizați iTunes File Sharing sunt disponibile [aici](/docs/howto/how-to-play-local-itunes-files-on-my-iphone/).
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="iTunes / Finder File Sharing pe Mac" image="/docs/guide/evermusic/evermusic-guide-connections/img/connect-itunes-file-sharing.webp" >}}
+  {{< ls-card title="" subtitle="iTunes / Finder File Sharing pe Mac" image="/docs/guide/evermusic/evermusic-guide-connections/img/connect-itunes-file-sharing.webp" >}}
 {{< /cards >}}
 
 ## Conectarea unui card flash USB
@@ -183,7 +183,7 @@ Bara de instrumente superioară, amplasată convenabil sub bara de navigare, ofe
 - **Amestecare Toate**: similar cu "Redare Toate", această acțiune scanează folderul curent și subfolderele sale, dar amestecă fișierele înainte de a le adăuga la coada playerului audio. Este o modalitate excelentă de a vă bucura de muzică într-o ordine aleatorie.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Bara de Instrumente Superioară Dintr-un Folder Cloud" image="/docs/guide/evermusic/evermusic-guide-connections/img/connect-top-toolbar.webp" >}}
+  {{< ls-card title="" subtitle="Bara de Instrumente Superioară Dintr-un Folder Cloud" image="/docs/guide/evermusic/evermusic-guide-connections/img/connect-top-toolbar.webp" >}}
 {{< /cards >}}
 
 ## Opțiuni Folder
@@ -200,7 +200,7 @@ Iată o descriere a acestor acțiuni:
 - **Vizualizare Grilă/Listă**: comutați între două moduri de vizualizare: vizualizare tabel și vizualizare miniaturi. Vizualizarea tabel prezintă fișierele într-o listă, în timp ce vizualizarea miniaturi afișează reprezentări vizuale ale fișierelor, facilitând identificarea conținutului dintr-o privire.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Meniu Mai multe acțiuni pentru folderul curent" image="/docs/guide/evermusic/evermusic-guide-connections/img/connect-folder-options.webp" >}}
+  {{< ls-card title="" subtitle="Meniu Mai multe acțiuni pentru folderul curent" image="/docs/guide/evermusic/evermusic-guide-connections/img/connect-folder-options.webp" >}}
 {{< /cards >}}
 
 ## Editarea Fișierelor Online
@@ -212,7 +212,7 @@ Când trebuie să gestionați mai multe fișiere în stocarea dvs. cloud pe Ever
 - **Efectuarea Diverselor Acțiuni**: odată ce ați selectat fișierele sau folderele pe care doriți să le gestionați, veți avea acces la mai multe acțiuni adaptate nevoilor dvs.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Modul de Selectare pentru Fișierele Online" image="/docs/guide/evermusic/evermusic-guide-connections/img/connect-selection-mode.webp" >}}
+  {{< ls-card title="" subtitle="Modul de Selectare pentru Fișierele Online" image="/docs/guide/evermusic/evermusic-guide-connections/img/connect-selection-mode.webp" >}}
 {{< /cards >}}
 
 ## Acțiuni pentru fișier
@@ -233,7 +233,7 @@ Atingeți-l pentru a dezvălui o listă de acțiuni disponibile:
 - **Șterge**: fiți precaut cu această acțiune, deoarece elimină permanent fișierul din stocarea dvs. cloud. Această ștergere nu poate fi anulată.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Meniu Mai multe acțiuni pentru un singur fișier" image="/docs/guide/evermusic/evermusic-guide-connections/img/connect-single-folder-more-options.webp" >}}
+  {{< ls-card title="" subtitle="Meniu Mai multe acțiuni pentru un singur fișier" image="/docs/guide/evermusic/evermusic-guide-connections/img/connect-single-folder-more-options.webp" >}}
 {{< /cards >}}
 
 Dacă lista de acțiuni depășește spațiul disponibil pe ecran, defilați pur și simplu în jos în meniul de acțiuni pentru a accesa opțiuni suplimentare.

@@ -7,7 +7,7 @@ keywords: ["SMB-palvelin iPhone", "SMB-palvelin iPad", "näin määrität SMB:n 
 readingTime: 10
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 SMB on macOS:ään, Windowsiin ja Linuxiin sekä lähes jokaiseen verkkolevyyn (NAS) sisäänrakennettu tiedostojen jakaminen. Kun yhdistät toisen tietokoneen jaettuun kansioon ja se avautuu tavallisena levynä Finderissa tai File Explorerissa, se on SMB:n työtä. [Everdiskin](/products/everdisk) avulla voit asettaa SMB-jaon iPhonellesi tai iPadillesi, jolloin puhelin itse näkyy verkkolevynä, jota muut laitteet selaavat, josta ne kopioivat ja johon ne kopioivat.
 
@@ -136,44 +136,44 @@ Jokainen SMB-siirto on tällöin suojattu **SMB3-salauksella (AES)**. Yhdistäv�
 
 ## Usein kysytyt kysymykset
 
-{{% details title="Mikä on iPhoneni SMB-osoite ja portti?" closed="true" %}}
+{{% ls-details title="Mikä on iPhoneni SMB-osoite ja portti?" closed="true" %}}
 Kun aloitat jakamisen, Everdisk näyttää osoitteen Jakaminen-näytöllä. Se näyttää tältä: smb://192.168.1.20:4455/Share. 4455 on portti, jota Everdisk käyttää SMB:hen, ja Share on jaetun kansion nimi. Ensimmäinen osa on iPhonesi osoite Wi-Fi-verkossa, joten omasi on erilainen.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Voinko yhdistää iPhoneni SMB-jakoon Windowsista?" closed="true" %}}
+{{% ls-details title="Voinko yhdistää iPhoneni SMB-jakoon Windowsista?" closed="true" %}}
 Windowsin File Explorer yhdistää SMB:hen vain vakioportissa eikä hyväksy mukautettua porttia polussa, kun taas Everdisk käyttää porttia 4455. Niinpä tavallinen Yhdistä verkkoasema -reitti ei useinkaan tavoita sitä. Käytä tiedostonhallintaa, joka antaa asettaa mukautetun portin, tai yhdistä Windowsista sen sijaan WebDAVilla, FTP:llä tai selainlinkillä. Kaikki nämä toimivat Windowsista ilman porttiongelmia.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Miten jaan tiedostoja kahden iPhonen välillä SMB:llä?" closed="true" %}}
+{{% ls-details title="Miten jaan tiedostoja kahden iPhonen välillä SMB:llä?" closed="true" %}}
 Aloita SMB-palvelin ensimmäisellä iPhonella Everdiskissä. Avaa toisella iPhonella Tiedostot-sovellus, napauta lisää-painiketta, valitse Yhdistä palvelimeen ja syötä Everdiskissä näkyvä smb-osoite (esimerkiksi smb://192.168.1.20:4455/Share). Yhdistä vieraana tai kirjautumistiedoillasi, ja jako näkyy Tiedostoissa. Voit myös käyttää Everdiskin omaa Laitteet-välilehteä toisessa puhelimessa.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Näkyykö iPhoneni Macin Finderin sivupalkissa automaattisesti?" closed="true" %}}
+{{% ls-details title="Näkyykö iPhoneni Macin Finderin sivupalkissa automaattisesti?" closed="true" %}}
 Yleensä kyllä. Everdisk ilmoittaa SMB-jaon Wi-Fi-verkossasi, joten iPhonesi ilmestyy usein Finderin sivupalkkiin kohtaan Sijainnit tai Verkko. Klikkaa sitä ja valitse Yhdistä nimellä, sitten Vieras tai kirjautumistietosi. Jos se ei ilmesty, yhdistä käsin toiminnolla Siirry, Yhdistä palvelimeen ja koko smb-osoitteella.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Tarvitsenko salasanan SMB:n käyttöön?" closed="true" %}}
+{{% ls-details title="Tarvitsenko salasanan SMB:n käyttöön?" closed="true" %}}
 Ei, kirjautuminen on valinnaista. Jätä Käyttäjätunnus ja Salasana tyhjiksi kohdassa Asetukset, Jakaminen, Käyttöoikeus salliaksesi vieraskäytön. Aseta ne, jos haluat yhteyksien kirjautuvan sisään. Käyttäjätunnus ja salasana vaaditaan vain, jos otat käyttöön Vaadi SMB-salaus, koska salatut yhteydet eivät voi olla nimettömiä.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Onko SMB-yhteys salattu?" closed="true" %}}
+{{% ls-details title="Onko SMB-yhteys salattu?" closed="true" %}}
 Se voi olla. SMB on ainoa Everdisk-yhteys, joka tukee salausta. Aseta käyttäjätunnus ja salasana, ota sitten käyttöön Vaadi SMB-salaus kohdassa Asetukset, Jakaminen. Jokainen siirto on tällöin suojattu SMB3:lla (AES). Toisen laitteen on tuettava SMB3:a, minkä nykyaikaiset Macit ja Windows 10 tai uudempi tekevät. Salaus on Premium-ominaisuus.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Voivatko ihmiset muuttaa tai poistaa tiedostojani SMB:n kautta?" closed="true" %}}
+{{% ls-details title="Voivatko ihmiset muuttaa tai poistaa tiedostojani SMB:n kautta?" closed="true" %}}
 Vain jos sallit sen. Tiedostojen muokkaus -kytkin kohdassa Asetukset, Jakaminen, Käyttöoikeus hallitsee tätä. Kun se on päällä, yhdistetyt laitteet voivat lähettää, nimetä uudelleen ja poistaa. Kun se on pois päältä, jako on vain luku -tilassa ja muut voivat selata ja kopioida tiedostoja pois puhelimestasi mutta eivät voi muuttaa mitään.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Miksi SMB-yhteyteni katkesi?" closed="true" %}}
+{{% ls-details title="Miksi SMB-yhteyteni katkesi?" closed="true" %}}
 iPhonesi on palvelin, ja iOS pysäyttää sovellukset, jotka pysyvät taustalla liian kauan. Pidä Everdisk avoinna näytöllä, kun laite on yhdistettynä, ja kytke puhelin virtalähteeseen pitkien siirtojen aikana. Varmista myös, että molemmat laitteet pysyivät samassa Wi-Fi-verkossa.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="SMB, WebDAV vai FTP, mitä minun tulisi käyttää?" closed="true" %}}
+{{% ls-details title="SMB, WebDAV vai FTP, mitä minun tulisi käyttää?" closed="true" %}}
 Käytä SMB:tä, kun haluat puhelimen käyttäytyvän kunnon verkkolevynä Macilla, toisella iPhonella, Linuxissa tai NAS-levyllä, ja kun haluat salauksen. Käytä WebDAVia, kun haluat verkkolevyn, joka toimii hyvin myös Windowsista. Käytä FTP:tä laajimpaan yhteensopivuuteen vanhempien laitteiden ja sovellusten kanssa. Everdisk voi pyörittää niitä kaikkia yhtä aikaa, joten et ole sidottu yhteen.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Onko Everdisk ilmainen?" closed="true" %}}
+{{% ls-details title="Onko Everdisk ilmainen?" closed="true" %}}
 Kyllä, Everdiskin voi ladata ilmaiseksi ja SMB-palvelin sisältyy siihen. Valinnainen kertaostoksena hankittava Premium lisää SMB-salauksen, mukautetut portit ja muutaman muun lisäominaisuuden. Voit ottaa SMB:n käyttöön ja jakaa tiedostoja maksamatta.
-{{% /details %}}
+{{% /ls-details %}}
 
 Valmis kokeilemaan? [Lataa Everdisk App Storesta](https://apps.apple.com/app/apple-store/id6751851132?pt=95781850&ct=everappzcom&mt=8) ja avaa iPhonesi Finderissa noin minuutissa. Kysymyksiä tai palautetta? Lähetä meille sähköpostia osoitteeseen **support@everappz.com**.

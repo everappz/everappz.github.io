@@ -6,7 +6,7 @@ keywords: ["evermusic eksport", "flacbox eksport", "eksport do m3u", "eksport pl
 tags: ["evermusic", "recents", "favorites", "export", "m3u", "playlist", "csv", "txt", "album"]
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **W skrócie:** Evermusic i Flacbox pozwalają eksportować dowolną kolekcję utworów (ostatnie, ulubione, playlisty, albumy) do plików CSV, TXT lub M3U. Używaj tych eksportów do scrobblowania na Last.fm, tworzenia kopii zapasowej biblioteki lub odtwarzania playlist na innych urządzeniach.
@@ -157,22 +157,22 @@ Eksportowanie utworów z Evermusic i Flacbox daje Ci pełną kontrolę nad danym
 
 ## FAQ
 
-{{% details title="Jakiego formatu eksportu powinienem użyć do scrobblowania na Last.fm?" closed="true" %}}
+{{% ls-details title="Jakiego formatu eksportu powinienem użyć do scrobblowania na Last.fm?" closed="true" %}}
 Użyj CSV. Zawiera znaczniki czasu i pełne metadane wymagane przez narzędzia scrobblerowe, takie jak Last.fm-Scrubbler-WPF.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Czy mogę eksportować dowolną kolekcję utworów, nie tylko playlisty?" closed="true" %}}
+{{% ls-details title="Czy mogę eksportować dowolną kolekcję utworów, nie tylko playlisty?" closed="true" %}}
 Tak. Możesz eksportować ostatnie, ulubione, albumy, playlisty i każdą inną kolekcję utworów w aplikacji, korzystając z tych samych kroków.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Czy moja playlista M3U będzie działać na innych urządzeniach?" closed="true" %}}
+{{% ls-details title="Czy moja playlista M3U będzie działać na innych urządzeniach?" closed="true" %}}
 Jeśli podczas eksportu wybierzesz opcję Bezwzględny URL, plik M3U można odtwarzać na dowolnym urządzeniu obsługującym playlisty M3U. Pamiętaj, że niektóre adresy URL chmury mogą wygasnąć z czasem.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Czy funkcja eksportu jest bezpłatna?" closed="true" %}}
+{{% ls-details title="Czy funkcja eksportu jest bezpłatna?" closed="true" %}}
 Tak. Eksport kolekcji utworów do M3U, CSV i TXT jest dostępny zarówno w wersji bezpłatnej, jak i premium Evermusic i Flacbox.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Jakie usługi chmurowe obsługują eksport z bezwzględnym URL?" closed="true" %}}
+{{% ls-details title="Jakie usługi chmurowe obsługują eksport z bezwzględnym URL?" closed="true" %}}
 Eksport z bezwzględnym URL jest obsługiwany dla iCloud Drive, pCloud, PanBaidu, MyCloudHome, DLNA, MediaFire, OneDrive, Box, Dropbox, Google Drive i WebDAV (tryb gościa).
-{{% /details %}}
+{{% /ls-details %}}

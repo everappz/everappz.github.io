@@ -20,7 +20,7 @@ readingTime: 7
 Flacbox의 재생 목록에는 온라인 클라우드 트랙, 오프라인 다운로드 파일 및 기기의 로컬 파일이 모두 하나의 재생 목록에 혼합될 수 있으며 끊김 없이 함께 재생됩니다.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox 재생 목록 메인 화면" image="/docs/guide/flacbox/img/playlists-main.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox 재생 목록 메인 화면" image="/docs/guide/flacbox/img/playlists-main.webp" >}}
 {{< /cards >}}
 
 ## 재생 목록 만들기
@@ -63,7 +63,7 @@ Flacbox에서는 다른 플레이어에서 전환한 후 재생 목록을 수동
 - **오프라인 모드** — 이 재생 목록의 모든 트랙을 로컬 파일로 다운로드합니다. 재생 목록에 새로 추가된 항목도 자동으로 다운로드됩니다.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox 재생 목록 세부 정보 화면" image="/docs/guide/flacbox/img/playlist-details-screen.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox 재생 목록 세부 정보 화면" image="/docs/guide/flacbox/img/playlist-details-screen.webp" >}}
 {{< /cards >}}
 
 ## 재생 목록 화면의 재생 목록에 대한 추가 작업
@@ -82,7 +82,7 @@ Flacbox에서는 다른 플레이어에서 전환한 후 재생 목록을 수동
 - **재생 목록 삭제** — 음악 라이브러리에서 재생 목록을 삭제합니다. **이 작업은 취소할 수 없습니다.**
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox 재생 목록 메인 화면의 재생 목록에 대한 추가 작업" image="/docs/guide/flacbox/img/more-actions-for-playlist-in-playlists-main-screen.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox 재생 목록 메인 화면의 재생 목록에 대한 추가 작업" image="/docs/guide/flacbox/img/more-actions-for-playlist-in-playlists-main-screen.webp" >}}
 {{< /cards >}}
 
 ## 재생 목록 세부 정보 화면의 재생 목록에 대한 추가 작업
@@ -110,7 +110,7 @@ Flacbox에서는 다른 플레이어에서 전환한 후 재생 목록을 수동
 긴 재생 목록에서 더 간단한 워크플로우를 위해 추가 작업 → 노래 재정렬을 선택하여 전용 드래그 앤 드롭 재정렬 모드로 전환하세요.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox 재생 목록에서 노래 재정렬" image="/docs/guide/flacbox/img/playlist-details-rearange-songs.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox 재생 목록에서 노래 재정렬" image="/docs/guide/flacbox/img/playlist-details-rearange-songs.webp" >}}
 {{< /cards >}}
 
 ## 재생 목록 커버 이미지 변경
@@ -126,7 +126,7 @@ Flacbox에서는 다른 플레이어에서 전환한 후 재생 목록을 수동
 재생 목록을 열고 오른쪽 상단의 **"..."** 버튼을 누른 다음 **선택하다**를 선택하여 선택 모드로 진입하세요. 삭제할 트랙을 선택하고 화면 하단의 **재생 목록에서 삭제**를 누르세요. **완료됨**을 눌러 확인하세요.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox 재생 목록 세부 정보 화면의 선택 모드" image="/docs/guide/flacbox/img/selection-mode-playlist-details-screen.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox 재생 목록 세부 정보 화면의 선택 모드" image="/docs/guide/flacbox/img/selection-mode-playlist-details-screen.webp" >}}
 {{< /cards >}}
 
 ## 트랙 옵션

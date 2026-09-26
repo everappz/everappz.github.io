@@ -7,7 +7,7 @@ tags: ["nhạc", "đám mây", "phát trực tuyến", "trình phát", "ổ đĩ
 readingTime: 5
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **Tóm tắt:** Tải nhạc lên iCloud Drive, cài đặt [Evermusic](/products/evermusic) (cho MP3/WAV) hoặc [Flacbox](/products/flacbox) (cho FLAC/DSD), kết nối thư mục iCloud Drive của bạn và phát trực tiếp mà không sử dụng bộ nhớ thiết bị.
@@ -29,8 +29,8 @@ Trước khi bắt đầu nghe nhạc từ iCloud Drive trên iPhone hoặc Mac,
 1. Vào App Store và tải **Evermusic** nếu nhạc của bạn được lưu ở các định dạng âm thanh tiêu chuẩn như mp3 hoặc wav. Nếu bạn có nhạc lossless ở định dạng dsd hoặc flac, hãy chọn **Flacbox**. Cả hai ứng dụng đều có sẵn cho iOS và MacOS.
 
 {{< cards >}}
-  {{< card link="https://apps.apple.com/us/app/evermusic-cloud-music-player/id885367198" title="Tải Evermusic cho iOS" icon="download" tag="Miễn phí" >}}
-  {{< card link="https://apps.apple.com/us/app/flacbox-flac-player-equalizer/id1097564256" title="Tải Flacbox cho iOS" icon="download" tag="Miễn phí" >}}
+  {{< ls-card link="https://apps.apple.com/us/app/evermusic-cloud-music-player/id885367198" title="Tải Evermusic cho iOS" icon="download" tag="Miễn phí" >}}
+  {{< ls-card link="https://apps.apple.com/us/app/flacbox-flac-player-equalizer/id1097564256" title="Tải Flacbox cho iOS" icon="download" tag="Miễn phí" >}}
 {{< /cards >}}
 
 - Cho MacOS:
@@ -38,8 +38,8 @@ Trước khi bắt đầu nghe nhạc từ iCloud Drive trên iPhone hoặc Mac,
 1. Truy cập App Store trên Mac và cài đặt **Evermusic** hoặc **Flacbox** tùy theo sở thích định dạng nhạc của bạn.
 
 {{< cards >}}
-  {{< card link="https://apps.apple.com/us/app/evermusic-cloud-music-player/id1564384601" title="Tải Evermusic cho Mac" icon="download" tag="Miễn phí" >}}
-  {{< card link="https://apps.apple.com/us/app/flacbox-hires-music-player/id1594027432" title="Tải Flacbox cho Mac" icon="download" tag="Miễn phí" >}}
+  {{< ls-card link="https://apps.apple.com/us/app/evermusic-cloud-music-player/id1564384601" title="Tải Evermusic cho Mac" icon="download" tag="Miễn phí" >}}
+  {{< ls-card link="https://apps.apple.com/us/app/flacbox-hires-music-player/id1594027432" title="Tải Flacbox cho Mac" icon="download" tag="Miễn phí" >}}
 {{< /cards >}}
 
 Sau khi cài đặt ứng dụng trên iPhone hoặc Mac, bạn đã sẵn sàng tiếp tục.
@@ -215,22 +215,22 @@ Giờ thì bắt đầu phát và để âm nhạc cất lên thôi!
 
 ## Câu hỏi thường gặp
 
-{{% details title="Tôi có thể phát những định dạng âm thanh nào từ iCloud Drive?" closed="true" %}}
+{{% ls-details title="Tôi có thể phát những định dạng âm thanh nào từ iCloud Drive?" closed="true" %}}
 Evermusic hỗ trợ MP3, WAV, AAC và các định dạng tiêu chuẩn khác. Flacbox bổ sung hỗ trợ cho FLAC, DSD, OGG và OPUS. Chọn ứng dụng phù hợp với bộ sưu tập nhạc của bạn.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Phát nhạc từ iCloud Drive có sử dụng bộ nhớ thiết bị không?" closed="true" %}}
+{{% ls-details title="Phát nhạc từ iCloud Drive có sử dụng bộ nhớ thiết bị không?" closed="true" %}}
 Không. Cả Evermusic và Flacbox đều phát âm thanh trực tiếp từ iCloud Drive mà không tải file về thiết bị. Bạn có thể tùy chọn tải các bản nhạc riêng lẻ để nghe ngoại tuyến.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Tôi có thể sử dụng nhạc iCloud Drive ngoại tuyến không?" closed="true" %}}
+{{% ls-details title="Tôi có thể sử dụng nhạc iCloud Drive ngoại tuyến không?" closed="true" %}}
 Có. Chạm menu ba chấm trên bất kỳ bản nhạc nào và chọn tùy chọn tải xuống. File sẽ được lưu cục bộ để phát ngoại tuyến.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Tại sao nhạc của tôi dừng hoặc bị giật khi phát?" closed="true" %}}
+{{% ls-details title="Tại sao nhạc của tôi dừng hoặc bị giật khi phát?" closed="true" %}}
 Điều này thường do kết nối internet chậm hoặc không ổn định. Bật bộ nhớ đệm trình phát âm thanh trong Cài đặt để tải trước các bản nhạc tiếp theo và ngăn gián đoạn.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Phát nhạc từ iCloud Drive có miễn phí không?" closed="true" %}}
+{{% ls-details title="Phát nhạc từ iCloud Drive có miễn phí không?" closed="true" %}}
 Cả Evermusic và Flacbox đều miễn phí để tải. iCloud Drive cung cấp 5 GB dung lượng lưu trữ miễn phí. Bạn có thể nâng cấp gói lưu trữ iCloud qua Apple nếu cần thêm dung lượng.
-{{% /details %}}
+{{% /ls-details %}}

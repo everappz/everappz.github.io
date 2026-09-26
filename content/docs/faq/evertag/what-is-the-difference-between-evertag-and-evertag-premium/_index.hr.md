@@ -11,7 +11,7 @@ tags: ["Evertag", "Premium", "Razlika", "Pro", "Besplatno vs Plaćeno", "Aplikac
 Evertag i Evertag Premium dvije su verzije iste moćne aplikacije za uređivanje oznaka. Dok vam Evertag Free daje pristup osnovnim alatima za uređivanje metapodataka, Evertag Premium otključava puno iskustvo — bez oglasa, neograničeno i prilagodljivo.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evertag Upgrade To Premium Screen" image="/docs/faq/evertag/what-is-the-difference-between-evertag-and-evertag-premium/upgrade-to-premium.webp" >}}
+  {{< ls-card title="" subtitle="Evertag Upgrade To Premium Screen" image="/docs/faq/evertag/what-is-the-difference-between-evertag-and-evertag-premium/upgrade-to-premium.webp" >}}
 {{< /cards >}}
 
 ## Odaberite svoj Premium plan
@@ -19,7 +19,7 @@ Evertag i Evertag Premium dvije su verzije iste moćne aplikacije za uređivanje
 Besplatna verzija aplikacije nudi jednokratnu doživotnu kupnju unutar aplikacije i dvije opcije pretplate (1 mjesec i 1 godina) za uklanjanje svih ograničenja i nadogradnju na Premium verziju, omogućujući vam odabir najpovoljnije i najoptimalnije cijene za vas. Cijene mogu varirati ovisno o vašoj državi ili teritoriju. Također, imajte na umu da je **Family Sharing** **omogućen** za sve kupnje i planove, tako da možete dijeliti Premium verziju s članovima svoje obitelji.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evertag Select Your Premium Plan Screen" image="/docs/faq/evertag/what-is-the-difference-between-evertag-and-evertag-premium/select-your-plan.webp" >}}
+  {{< ls-card title="" subtitle="Evertag Select Your Premium Plan Screen" image="/docs/faq/evertag/what-is-the-difference-between-evertag-and-evertag-premium/select-your-plan.webp" >}}
 {{< /cards >}}
 
 ## Dijeljenje kupnji između iOS i Mac
@@ -79,7 +79,7 @@ Kada nadogradite aplikaciju, vidjet ćete zaslon s Premium statusom s detaljima 
 Možete nadograditi na Premium verziju besplatno, ali samo na ograničeno vrijeme koristeći izbornik "Isprobajte Premium besplatno". Samo pogledajte oglas ili recite prijateljima o ovoj aplikaciji kako biste dobili Premium verziju besplatno.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evertag Try Premium For Free Screen" image="/docs/faq/evertag/what-is-the-difference-between-evertag-and-evertag-premium/try-premium-for-free.webp" >}}
+  {{< ls-card title="" subtitle="Evertag Try Premium For Free Screen" image="/docs/faq/evertag/what-is-the-difference-between-evertag-and-evertag-premium/try-premium-for-free.webp" >}}
 {{< /cards >}}
 
 ## Što odabrati?

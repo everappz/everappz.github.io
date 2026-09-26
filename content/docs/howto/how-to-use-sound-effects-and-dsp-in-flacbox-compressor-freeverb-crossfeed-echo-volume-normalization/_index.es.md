@@ -7,9 +7,9 @@ tags: ["Flacbox", "Efectos de Audio", "Cómo Hacer", "BASS", "Ecualizador", "Ref
 readingTime: 30
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
-{{< full-width-tables >}}
+{{< ls-full-width-tables >}}
 
 **Respuesta corta:** En Flacbox eliges un **Motor de reproducción** en **Ajustes > Reproductor de audio**: **Standard** (el motor del sistema de Apple), **Universal** (el motor FFmpeg) o **Sound FX** (el **motor BASS™**). El motor que elijas decide qué formatos de archivo se reproducen, así que la elección importa. El motor **Sound FX** reproduce formatos adicionales que la mayoría de las apps de iPhone omiten (FLAC, DSD, WavPack, APE, Musepack, TrueAudio, Opus y la vieja **música MOD y de tracker** como MOD, XM, IT y S3M), y es el único motor que activa las herramientas de sonido: un **ecualizador de 10 bandas**, **Normalización de volumen**, **Compressor**, **Freeverb**, **Auto Wah**, **Phaser**, **Flanger**, **Echo**, **Chorus**, **Distortion**, **Rotate**, **Crossfeed** y una **cadena de DSP** que construyes tú mismo. Así que, para usar los efectos de esta guía, primero configura tu Motor de reproducción en **Sound FX**. Cada herramienta tiene **preajustes** ya preparados. Ábrelos en **Ajustes > Reproductor de audio** (Efectos de audio, Ecualizador de audio, Procesamiento de señal), o toca el botón **⋯ (Más)** en el reproductor y elige **Efectos de audio**. Nada de lo que hagas aquí cambia nunca tus archivos.
 
@@ -657,93 +657,93 @@ Como todo esto funciona en vivo mientras suena la música, los efectos:
 
 ## Preguntas frecuentes
 
-{{% details title="¿Qué motor de sonido usa Flacbox?" closed="true" %}}
+{{% ls-details title="¿Qué motor de sonido usa Flacbox?" closed="true" %}}
 Eliges un Motor de reproducción en Ajustes > Reproductor de audio: Standard (el motor del sistema de Apple), Universal (el motor FFmpeg) o Sound FX (el motor BASS™ de Un4seen Developments, un4seen.com). El motor que elijas decide qué formatos de archivo se reproducen. Sound FX es el que reproduce formatos adicionales como FLAC, DSD, WavPack, APE, Musepack, TrueAudio, Opus y música MOD o tracker, y es el único motor que ofrece los efectos en vivo, el ecualizador de 10 bandas y la cadena de DSP. Para usar los efectos, configura el Motor de reproducción en Sound FX.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="¿Puede Flacbox reproducir MOD, XM, IT y otra música tracker o de módulos?" closed="true" %}}
+{{% ls-details title="¿Puede Flacbox reproducir MOD, XM, IT y otra música tracker o de módulos?" closed="true" %}}
 Sí. El motor BASS™ tiene un reproductor de módulos integrado que carga archivos MOD, XM, IT, S3M, MTM, UMX y MO3 y reconstruye la canción en vivo a partir de sus patrones y sonidos de instrumentos, tal como está destinada a reproducirse la música tracker. Los reproductores normales de iPhone no pueden hacer esto. Los efectos y el ecualizador también funcionan con la música de módulos.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="¿Admite Flacbox archivos DSD y de alta resolución?" closed="true" %}}
+{{% ls-details title="¿Admite Flacbox archivos DSD y de alta resolución?" closed="true" %}}
 Sí. Flacbox reproduce archivos DSD (DSF y DFF) a través del motor BASS™ usando DSD sobre PCM para que funcionen en hardware de salida normal, además de FLAC, WavPack, Monkey's Audio (APE), Musepack y TrueAudio para la reproducción sin pérdida.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="¿Qué efectos de sonido tiene Flacbox?" closed="true" %}}
+{{% ls-details title="¿Qué efectos de sonido tiene Flacbox?" closed="true" %}}
 Un ecualizador de 10 bandas, Normalización de volumen, Compressor, Freeverb, Auto Wah, Phaser, Flanger, Echo, Chorus, Distortion, Rotate y Crossfeed, además de una cadena de DSP que construyes tú mismo con filtros, shelves, gain, soft clip, bit crusher, ring modulator, tremolo, delay y stereo width. Cada uno es independiente y se puede combinar con los demás.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="¿Qué es un preajuste?" closed="true" %}}
+{{% ls-details title="¿Qué es un preajuste?" closed="true" %}}
 Un preajuste es un ajuste ya preparado para un efecto. En lugar de mover los controles deslizantes tú mismo, tocas un preajuste y el sonido cambia para coincidir. Cada efecto en Flacbox tiene varios preajustes, y esta guía enumera lo que hace cada uno. Si mueves un control deslizante tras elegir un preajuste, el efecto muestra «Manual» para indicarte que ahora usa tus propios valores.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="¿Cómo abro los efectos de audio en Flacbox?" closed="true" %}}
+{{% ls-details title="¿Cómo abro los efectos de audio en Flacbox?" closed="true" %}}
 Abre el reproductor Now Playing, toca el botón ⋯ (Más) y elige Efectos de audio. O ve a Ajustes > Reproductor de audio > Efectos de audio. Toca un efecto, enciende su interruptor y elige un preajuste, o abre los controles deslizantes para ajustar con precisión.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="¿Dónde está el ecualizador y cuáles son los mejores ajustes?" closed="true" %}}
+{{% ls-details title="¿Dónde está el ecualizador y cuáles son los mejores ajustes?" closed="true" %}}
 Ve a Ajustes > Reproductor de audio > Ecualizador de audio. Tiene 10 bandas de 32 Hz a 16 kHz, cada una de -12 a +12 dB, más un Preamplificador de -24 a +24 dB y 22 preajustes. Para más graves, usa Bass Booster. Para voces más claras, usa Vocal Booster o Pop. Para un sonido más brillante, usa Treble Booster. Luego ajusta bandas individuales a tu gusto.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="¿Cómo refuerzo los graves en Flacbox?" closed="true" %}}
+{{% ls-details title="¿Cómo refuerzo los graves en Flacbox?" closed="true" %}}
 Dos formas fáciles. En el Ecualizador de audio, elige Bass Booster (o sube las bandas de 32 Hz y 64 Hz unos pocos dB). O, en Procesamiento de señal, añade un bloque Low Shelf configurado en Bass Boost. En ambos casos, baja el Preamplificador o añade un bloque Gain de 1 a 2 dB para que los graves se mantengan limpios y no se distorsionen.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="¿Qué preajuste de ecualizador es mejor para mi música?" closed="true" %}}
+{{% ls-details title="¿Qué preajuste de ecualizador es mejor para mi música?" closed="true" %}}
 Rock y Electronic añaden energía con graves y agudos fuertes. Acoustic, Jazz y Classical se mantienen cálidos y naturales. Pop y Vocal Booster empujan las voces al frente. Bass Booster y Hip-Hop añaden peso. Deep y Loudness suenan más plenos a bajo volumen. Empieza con el que coincida con tu género, luego ajusta con precisión.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="¿Qué es la Normalización de volumen y en qué se diferencia de ReplayGain?" closed="true" %}}
+{{% ls-details title="¿Qué es la Normalización de volumen y en qué se diferencia de ReplayGain?" closed="true" %}}
 Hace que cada pista se reproduzca aproximadamente a la misma sonoridad. Mide la sonoridad real usando el estándar EBU R128 (en LUFS, como los servicios de streaming) y ajusta cada pista hacia tu objetivo, con un límite de refuerzo máximo. A diferencia de ReplayGain, no necesita etiquetas en tus archivos y funciona con cualquier fuente, en vivo, sin cambiar el audio. Preajustes: Light, Standard, Strong y Night.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="¿Qué es Crossfeed y debería usarlo?" closed="true" %}}
+{{% ls-details title="¿Qué es Crossfeed y debería usarlo?" closed="true" %}}
 Crossfeed mezcla un poco de los canales izquierdo y derecho para que los auriculares se sientan más como altavoces reales y menos como si el sonido estuviera atrapado en tu cabeza. Es solo para auriculares, así que apágalo para los altavoces. Flacbox usa el método bs2b (Bauer), con preajustes como Chu Moy y Jan Meier.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="¿Cuál es la diferencia entre el Compressor y la Normalización de volumen?" closed="true" %}}
+{{% ls-details title="¿Cuál es la diferencia entre el Compressor y la Normalización de volumen?" closed="true" %}}
 La Normalización de volumen iguala la sonoridad entre distintas canciones. El Compressor empareja las partes fuertes y silenciosas dentro de una misma canción. Resuelven problemas diferentes y funcionan bien juntos, especialmente en un coche o en un lugar ruidoso.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="¿Qué es la cadena de Procesamiento de señal (DSP)?" closed="true" %}}
+{{% ls-details title="¿Qué es la cadena de Procesamiento de señal (DSP)?" closed="true" %}}
 Es un rack que construyes tú mismo en Ajustes > Reproductor de audio > Procesamiento de señal. Añade bloques como filtros, shelves, gain, soft clip, bit crusher, ring modulator, tremolo, delay y stereo width, ponlos en cualquier orden, enciende o apaga cada uno, y dirige la cadena a todos los canales, el izquierdo o el derecho. Como el orden importa, puedes diseñar exactamente el sonido que quieres.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="¿Cuál es la diferencia entre el Ecualizador, los efectos y la cadena de DSP?" closed="true" %}}
+{{% ls-details title="¿Cuál es la diferencia entre el Ecualizador, los efectos y la cadena de DSP?" closed="true" %}}
 El Ecualizador es un control de tono simple de 10 bandas. Los Efectos de audio son herramientas ya preparadas (compresor, reverb, echo, etc.) con preajustes. La cadena de DSP es donde construyes tu propio orden de efectos a partir de bloques individuales. Puedes ejecutar los tres al mismo tiempo.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="¿Los efectos cambian o dañan mis archivos de música?" closed="true" %}}
+{{% ls-details title="¿Los efectos cambian o dañan mis archivos de música?" closed="true" %}}
 No. Todo se aplica en vivo mientras suena la música. Tus archivos nunca se cambian ni se vuelven a guardar. Apaga un efecto y el sonido original vuelve de inmediato.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="¿Puedo usar más de un efecto al mismo tiempo?" closed="true" %}}
+{{% ls-details title="¿Puedo usar más de un efecto al mismo tiempo?" closed="true" %}}
 Sí. Cada efecto tiene su propio interruptor y no hay un interruptor maestro, así que cualquier combinación funciona. Por ejemplo, Normalización de volumen más Compressor para una escucha pareja, o Freeverb más Crossfeed en auriculares, con el ecualizador encima.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="¿Por qué están atenuados los controles del efecto?" closed="true" %}}
+{{% ls-details title="¿Por qué están atenuados los controles del efecto?" closed="true" %}}
 El efecto está apagado. Enciende su interruptor en la parte superior del editor para usar los controles. Cada efecto está apagado de forma predeterminada.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="¿Qué significa la etiqueta Manual?" closed="true" %}}
+{{% ls-details title="¿Qué significa la etiqueta Manual?" closed="true" %}}
 Significa que moviste un control deslizante fuera de un preajuste, así que el efecto ahora usa tus propios valores personalizados en lugar de un preajuste con nombre. Cada control deslizante tiene un botón de reinicio, y elegir un preajuste de nuevo reemplaza tus valores manuales.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="¿Puedo guardar y compartir mis preajustes de ecualizador?" closed="true" %}}
+{{% ls-details title="¿Puedo guardar y compartir mis preajustes de ecualizador?" closed="true" %}}
 Sí. Además de los 22 preajustes integrados, puedes crear los tuyos, reordenarlos y exportarlos o importarlos para llevar tus ajustes a otro dispositivo.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="¿Funcionan los efectos con CarPlay, streaming y reproducción en segundo plano?" closed="true" %}}
+{{% ls-details title="¿Funcionan los efectos con CarPlay, streaming y reproducción en segundo plano?" closed="true" %}}
 Sí. Los efectos funcionan dentro del motor BASS™, así que se aplican a archivos locales, unidades en la nube, servidores multimedia, transmisiones y música de módulos, y siguen funcionando durante CarPlay y la reproducción en segundo plano.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="¿Puedo cambiar la calidad de salida de audio?" closed="true" %}}
+{{% ls-details title="¿Puedo cambiar la calidad de salida de audio?" closed="true" %}}
 Sí. En Ajustes > Reproductor de audio puedes configurar la frecuencia de muestreo de salida, el número de canales y el tamaño del búfer para que coincidan con tus auriculares, altavoces o DAC.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="¿Cuál es una buena configuración inicial para auriculares?" closed="true" %}}
+{{% ls-details title="¿Cuál es una buena configuración inicial para auriculares?" closed="true" %}}
 Activa la Normalización de volumen (Standard), añade un Compressor ligero (Soft), elige un preajuste de ecualizador que te guste y activa Crossfeed (Chu Moy o Jan Meier). Deja apagados la reverb, el echo y la distorsión a menos que quieras un sonido creativo.
-{{% /details %}}
+{{% /ls-details %}}
 
 ---
 

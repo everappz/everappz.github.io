@@ -7,9 +7,9 @@ tags: ["Flacbox", "Hiệu ứng âm thanh", "Hướng dẫn", "BASS", "Bộ ch�
 readingTime: 30
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
-{{< full-width-tables >}}
+{{< ls-full-width-tables >}}
 
 **Câu trả lời ngắn gọn:** Trong Flacbox bạn chọn một **Công cụ phát** trong **Cài đặt > Trình phát âm thanh**: **Standard** (công cụ hệ thống của Apple), **Universal** (công cụ FFmpeg), hoặc **Sound FX** (**công cụ BASS™**). Công cụ bạn chọn quyết định định dạng tệp nào phát được, nên lựa chọn này rất quan trọng. Công cụ **Sound FX** phát thêm những định dạng mà hầu hết ứng dụng iPhone bỏ qua (FLAC, DSD, WavPack, APE, Musepack, TrueAudio, Opus, và nhạc **MOD và tracker** cũ như MOD, XM, IT và S3M), và đây là công cụ duy nhất cung cấp các công cụ âm thanh: **bộ chỉnh âm 10 dải**, **Chuẩn hóa âm lượng**, **Compressor**, **Freeverb**, **Auto Wah**, **Phaser**, **Flanger**, **Echo**, **Chorus**, **Distortion**, **Rotate**, **Crossfeed**, và một **chuỗi DSP** tự dựng. Vậy nên để dùng các hiệu ứng trong hướng dẫn này, hãy đặt Công cụ phát của bạn thành **Sound FX** trước. Mỗi công cụ đều có sẵn các **cài đặt sẵn**. Mở chúng trong **Cài đặt > Trình phát âm thanh** (Hiệu ứng âm thanh, Bộ chỉnh âm, Xử lý tín hiệu), hoặc chạm nút **⋯ (Thêm)** trên trình phát và chọn **Hiệu ứng âm thanh**. Không có thao tác nào ở đây làm thay đổi tệp của bạn.
 
@@ -657,93 +657,93 @@ Vì tất cả những điều này chạy trực tiếp khi nhạc phát, các 
 
 ## Câu hỏi thường gặp
 
-{{% details title="Flacbox dùng công cụ âm thanh nào?" closed="true" %}}
+{{% ls-details title="Flacbox dùng công cụ âm thanh nào?" closed="true" %}}
 Bạn chọn một Công cụ phát trong Cài đặt > Trình phát âm thanh: Standard (công cụ hệ thống của Apple), Universal (công cụ FFmpeg), hoặc Sound FX (công cụ BASS™ từ Un4seen Developments, un4seen.com). Công cụ bạn chọn quyết định định dạng tệp nào phát được. Sound FX là công cụ phát các định dạng bổ sung như FLAC, DSD, WavPack, APE, Musepack, TrueAudio, Opus, và nhạc MOD hoặc tracker, và đây là công cụ duy nhất cung cấp các hiệu ứng trực tiếp, bộ chỉnh âm 10 dải, và chuỗi DSP. Để dùng các hiệu ứng, hãy đặt Công cụ phát thành Sound FX.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Flacbox có phát được MOD, XM, IT, và nhạc tracker hoặc module khác không?" closed="true" %}}
+{{% ls-details title="Flacbox có phát được MOD, XM, IT, và nhạc tracker hoặc module khác không?" closed="true" %}}
 Có. Công cụ BASS™ có một trình phát module tích hợp tải các tệp MOD, XM, IT, S3M, MTM, UMX, và MO3 và dựng lại bài hát trực tiếp từ các pattern và âm nhạc cụ của nó, đúng theo cách nhạc tracker được thiết kế để phát. Các trình phát iPhone thông thường không làm được điều này. Các hiệu ứng và bộ chỉnh âm cũng hoạt động trên nhạc module.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Flacbox có hỗ trợ DSD và các tệp độ phân giải cao không?" closed="true" %}}
+{{% ls-details title="Flacbox có hỗ trợ DSD và các tệp độ phân giải cao không?" closed="true" %}}
 Có. Flacbox phát các tệp DSD (DSF và DFF) qua công cụ BASS™ bằng DSD over PCM để chúng hoạt động trên phần cứng đầu ra thông thường, cùng với FLAC, WavPack, Monkey's Audio (APE), Musepack, và TrueAudio cho phát lossless.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Flacbox có những hiệu ứng âm thanh nào?" closed="true" %}}
+{{% ls-details title="Flacbox có những hiệu ứng âm thanh nào?" closed="true" %}}
 Một bộ chỉnh âm 10 dải, Chuẩn hóa âm lượng, Compressor, Freeverb, Auto Wah, Phaser, Flanger, Echo, Chorus, Distortion, Rotate, và Crossfeed, cùng một chuỗi DSP tự dựng với các bộ lọc, thềm, gain, soft clip, bit crusher, ring modulator, tremolo, delay, và stereo width. Mỗi cái là riêng biệt và có thể kết hợp với những cái khác.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Cài đặt sẵn là gì?" closed="true" %}}
+{{% ls-details title="Cài đặt sẵn là gì?" closed="true" %}}
 Cài đặt sẵn là một thiết lập có sẵn cho một hiệu ứng. Thay vì tự di chuyển các thanh trượt, bạn chạm một cài đặt sẵn và âm thanh thay đổi để khớp. Mọi hiệu ứng trong Flacbox đều có vài cài đặt sẵn, và hướng dẫn này liệt kê từng cái làm gì. Nếu bạn di chuyển một thanh trượt sau khi chọn một cài đặt sẵn, hiệu ứng hiển thị «Manual» để báo cho bạn biết nó giờ đang dùng các giá trị của riêng bạn.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Làm thế nào để mở các hiệu ứng âm thanh trong Flacbox?" closed="true" %}}
+{{% ls-details title="Làm thế nào để mở các hiệu ứng âm thanh trong Flacbox?" closed="true" %}}
 Mở trình phát Now Playing, chạm nút ⋯ (Thêm), và chọn Hiệu ứng âm thanh. Hoặc vào Cài đặt > Trình phát âm thanh > Hiệu ứng âm thanh. Chạm một hiệu ứng, bật công tắc của nó, và chọn một cài đặt sẵn, hoặc mở các thanh trượt để tinh chỉnh.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Bộ chỉnh âm ở đâu, và cài đặt tốt nhất là gì?" closed="true" %}}
+{{% ls-details title="Bộ chỉnh âm ở đâu, và cài đặt tốt nhất là gì?" closed="true" %}}
 Vào Cài đặt > Trình phát âm thanh > Bộ chỉnh âm. Nó có 10 dải từ 32 Hz đến 16 kHz, mỗi dải từ -12 đến +12 dB, cùng một Preamplifier từ -24 đến +24 dB và 22 cài đặt sẵn. Để nhiều bass hơn, dùng Bass Booster. Để giọng rõ hơn, dùng Vocal Booster hoặc Pop. Để âm sáng hơn, dùng Treble Booster. Rồi điều chỉnh từng dải theo ý thích.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Làm thế nào để tăng bass trong Flacbox?" closed="true" %}}
+{{% ls-details title="Làm thế nào để tăng bass trong Flacbox?" closed="true" %}}
 Hai cách dễ. Trong Bộ chỉnh âm, chọn Bass Booster (hoặc nâng các dải 32 Hz và 64 Hz vài dB). Hoặc, trong Xử lý tín hiệu, thêm một khối Low Shelf đặt ở Bass Boost. Trong cả hai trường hợp, hạ Preamplifier hoặc thêm một khối Gain 1 đến 2 dB để bass giữ sạch và không bị méo.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Cài đặt sẵn bộ chỉnh âm nào tốt nhất cho nhạc của tôi?" closed="true" %}}
+{{% ls-details title="Cài đặt sẵn bộ chỉnh âm nào tốt nhất cho nhạc của tôi?" closed="true" %}}
 Rock và Electronic thêm năng lượng với phần thấp và cao mạnh. Acoustic, Jazz, và Classical giữ ấm và tự nhiên. Pop và Vocal Booster đẩy giọng ra trước. Bass Booster và Hip-Hop thêm sức nặng. Deep và Loudness nghe đầy đặn hơn ở âm lượng thấp. Bắt đầu với cái khớp với thể loại của bạn, rồi tinh chỉnh.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Chuẩn hóa âm lượng là gì, và nó khác ReplayGain thế nào?" closed="true" %}}
+{{% ls-details title="Chuẩn hóa âm lượng là gì, và nó khác ReplayGain thế nào?" closed="true" %}}
 Nó làm mọi bản phát ở khoảng cùng một độ ồn. Nó đo độ ồn thực bằng chuẩn EBU R128 (theo LUFS, như các dịch vụ phát trực tuyến) và điều chỉnh mỗi bản hướng về mục tiêu của bạn, với một giới hạn max-boost. Không như ReplayGain, nó không cần thẻ nào trong tệp của bạn và hoạt động trên mọi nguồn, trực tiếp, mà không thay đổi âm thanh. Cài đặt sẵn: Light, Standard, Strong, và Night.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Crossfeed là gì, và tôi có nên dùng nó không?" closed="true" %}}
+{{% ls-details title="Crossfeed là gì, và tôi có nên dùng nó không?" closed="true" %}}
 Crossfeed trộn một chút kênh trái và phải với nhau để tai nghe cảm thấy giống loa thật hơn và ít giống như âm thanh bị kẹt trong đầu bạn hơn. Nó chỉ dành cho tai nghe, nên hãy tắt nó cho loa. Flacbox dùng phương pháp bs2b (Bauer), với các cài đặt sẵn như Chu Moy và Jan Meier.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Sự khác biệt giữa Compressor và Chuẩn hóa âm lượng là gì?" closed="true" %}}
+{{% ls-details title="Sự khác biệt giữa Compressor và Chuẩn hóa âm lượng là gì?" closed="true" %}}
 Chuẩn hóa âm lượng khớp độ ồn giữa các bài hát khác nhau. Compressor làm đều các phần to và nhỏ bên trong một bài hát duy nhất. Chúng giải quyết các vấn đề khác nhau và phối hợp tốt với nhau, đặc biệt trong xe hơi hay nơi ồn ào.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Chuỗi Xử lý tín hiệu (DSP) là gì?" closed="true" %}}
+{{% ls-details title="Chuỗi Xử lý tín hiệu (DSP) là gì?" closed="true" %}}
 Nó là một giá tự dựng trong Cài đặt > Trình phát âm thanh > Xử lý tín hiệu. Thêm các khối như bộ lọc, thềm, gain, soft clip, bit crusher, ring modulator, tremolo, delay, và stereo width, đặt chúng theo thứ tự bất kỳ, bật hoặc tắt từng cái, và hướng chuỗi vào tất cả các kênh, trái, hoặc phải. Vì thứ tự quan trọng, bạn có thể thiết kế chính xác âm thanh bạn muốn.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Sự khác biệt giữa Bộ chỉnh âm, các hiệu ứng, và chuỗi DSP là gì?" closed="true" %}}
+{{% ls-details title="Sự khác biệt giữa Bộ chỉnh âm, các hiệu ứng, và chuỗi DSP là gì?" closed="true" %}}
 Bộ chỉnh âm là một điều khiển âm sắc 10 dải đơn giản. Các Hiệu ứng âm thanh là các công cụ có sẵn (compressor, reverb, echo, và cứ thế) với các cài đặt sẵn. Chuỗi DSP là nơi bạn tự dựng thứ tự hiệu ứng của mình từ các khối riêng lẻ. Bạn có thể chạy cả ba cùng lúc.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Các hiệu ứng có thay đổi hoặc làm hỏng các tệp nhạc của tôi không?" closed="true" %}}
+{{% ls-details title="Các hiệu ứng có thay đổi hoặc làm hỏng các tệp nhạc của tôi không?" closed="true" %}}
 Không. Mọi thứ được áp dụng trực tiếp khi nhạc phát. Các tệp của bạn không bao giờ bị thay đổi hoặc lưu lại. Tắt một hiệu ứng và âm thanh gốc trở lại ngay lập tức.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Tôi có thể dùng nhiều hơn một hiệu ứng cùng lúc không?" closed="true" %}}
+{{% ls-details title="Tôi có thể dùng nhiều hơn một hiệu ứng cùng lúc không?" closed="true" %}}
 Có. Mỗi hiệu ứng có công tắc riêng và không có công tắc chính, nên bất kỳ tổ hợp nào cũng hoạt động. Ví dụ, Chuẩn hóa âm lượng cộng với Compressor cho nghe đều, hoặc Freeverb cộng với Crossfeed trên tai nghe, với bộ chỉnh âm ở trên cùng.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Tại sao các điều khiển hiệu ứng bị làm mờ?" closed="true" %}}
+{{% ls-details title="Tại sao các điều khiển hiệu ứng bị làm mờ?" closed="true" %}}
 Hiệu ứng đang tắt. Bật công tắc của nó ở phần trên của trình chỉnh sửa để dùng các điều khiển. Mọi hiệu ứng đều tắt theo mặc định.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Nhãn Manual nghĩa là gì?" closed="true" %}}
+{{% ls-details title="Nhãn Manual nghĩa là gì?" closed="true" %}}
 Nó nghĩa là bạn đã di chuyển một thanh trượt ra khỏi một cài đặt sẵn, nên hiệu ứng giờ đang dùng các giá trị tùy chỉnh của riêng bạn thay vì một cài đặt sẵn có tên. Mỗi thanh trượt đều có nút đặt lại, và chọn lại một cài đặt sẵn sẽ thay thế các giá trị thủ công của bạn.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Tôi có thể lưu và chia sẻ các cài đặt sẵn bộ chỉnh âm của mình không?" closed="true" %}}
+{{% ls-details title="Tôi có thể lưu và chia sẻ các cài đặt sẵn bộ chỉnh âm của mình không?" closed="true" %}}
 Có. Bên cạnh 22 cài đặt sẵn tích hợp, bạn có thể tạo cái của riêng mình, sắp xếp lại chúng, và xuất hoặc nhập chúng để chuyển cài đặt của bạn sang thiết bị khác.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Các hiệu ứng có hoạt động với CarPlay, phát trực tuyến, và phát nền không?" closed="true" %}}
+{{% ls-details title="Các hiệu ứng có hoạt động với CarPlay, phát trực tuyến, và phát nền không?" closed="true" %}}
 Có. Các hiệu ứng chạy bên trong công cụ BASS™, nên chúng áp dụng cho tệp cục bộ, ổ đám mây, máy chủ phương tiện, luồng, và nhạc module, và chúng vẫn hoạt động trong CarPlay và phát nền.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Tôi có thể thay đổi chất lượng đầu ra âm thanh không?" closed="true" %}}
+{{% ls-details title="Tôi có thể thay đổi chất lượng đầu ra âm thanh không?" closed="true" %}}
 Có. Trong Cài đặt > Trình phát âm thanh bạn có thể đặt tần số lấy mẫu đầu ra, số kênh, và kích thước bộ đệm để khớp với tai nghe, loa, hoặc DAC của bạn.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Thiết lập khởi đầu tốt cho tai nghe là gì?" closed="true" %}}
+{{% ls-details title="Thiết lập khởi đầu tốt cho tai nghe là gì?" closed="true" %}}
 Bật Chuẩn hóa âm lượng (Standard), thêm một Compressor nhẹ (Soft), chọn một cài đặt sẵn bộ chỉnh âm bạn thích, và bật Crossfeed (Chu Moy hoặc Jan Meier). Để reverb, echo, và distortion tắt trừ khi bạn muốn một âm thanh sáng tạo.
-{{% /details %}}
+{{% /ls-details %}}
 
 ---
 

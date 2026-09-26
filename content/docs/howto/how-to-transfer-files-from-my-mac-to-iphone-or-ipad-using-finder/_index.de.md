@@ -17,7 +17,7 @@ keywords: [
 readingTime: 3
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **Kurzfassung:** Verbinden Sie Ihr iPhone oder iPad mit Ihrem Mac (oder PC) über ein USB-Kabel. Unter macOS Catalina und neuer verwenden Sie Finder. Unter älteren macOS-Versionen oder Windows verwenden Sie iTunes. Ziehen Sie Dateien in eine App wie Evermusic, Flacbox oder Evertag, um sie sofort zu übertragen.
@@ -117,26 +117,26 @@ Mit der iTunes Dateifreigabe können Sie Dateien zwischen Ihrem Computer und iOS
 
 ## Häufig gestellte Fragen
 
-{{% details title="Benötige ich eine Internetverbindung, um Dateien über USB zu übertragen?" closed="true" %}}
+{{% ls-details title="Benötige ich eine Internetverbindung, um Dateien über USB zu übertragen?" closed="true" %}}
 Nein. Die Dateifreigabe funktioniert ausschließlich über die USB-Kabelverbindung zwischen Ihrem Computer und Ihrem iOS-Gerät. Kein Internet erforderlich.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Welche Dateiformate kann ich an Evermusic oder Flacbox übertragen?" closed="true" %}}
+{{% ls-details title="Welche Dateiformate kann ich an Evermusic oder Flacbox übertragen?" closed="true" %}}
 Beide Apps unterstützen eine breite Palette von Audioformaten, darunter MP3, FLAC, AAC, WAV, AIFF, OGG, WMA und mehr. Die vollständige Liste der unterstützten Formate finden Sie in der App-Dokumentation.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Warum sehe ich die Registerkarte Dateien nicht im Finder?" closed="true" %}}
+{{% ls-details title="Warum sehe ich die Registerkarte Dateien nicht im Finder?" closed="true" %}}
 Die Registerkarte Dateien wird nur angezeigt, wenn auf Ihrem Gerät mindestens eine App installiert ist, die die Dateifreigabe unterstützt. Installieren Sie Evermusic, Flacbox oder Evertag und verbinden Sie dann Ihr Gerät erneut.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Kann ich Dateien drahtlos anstatt über ein USB-Kabel übertragen?" closed="true" %}}
+{{% ls-details title="Kann ich Dateien drahtlos anstatt über ein USB-Kabel übertragen?" closed="true" %}}
 Ja. Evermusic und Flacbox unterstützen auch Cloud-Speicherdienste und Wi-Fi-Übertragung. Die USB-Dateifreigabe über Finder oder iTunes ist jedoch in der Regel schneller für große Musikbibliotheken.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Werden beim Übertragen von Dateien über Finder vorhandene Dateien auf meinem Gerät überschrieben?" closed="true" %}}
+{{% ls-details title="Werden beim Übertragen von Dateien über Finder vorhandene Dateien auf meinem Gerät überschrieben?" closed="true" %}}
 Nein. Neue Dateien werden neben den vorhandenen hinzugefügt. Wenn bereits eine Datei mit demselben Namen existiert, kann macOS die neue Datei automatisch umbenennen.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Funktioniert diese Methode mit Windows-PCs?" closed="true" %}}
+{{% ls-details title="Funktioniert diese Methode mit Windows-PCs?" closed="true" %}}
 Ja. Unter Windows verwenden Sie iTunes zum Übertragen von Dateien. Der Vorgang ist derselbe wie im iTunes-Abschnitt oben beschrieben. Installieren Sie iTunes aus dem Microsoft Store oder von der Apple-Website.
-{{% /details %}}
+{{% /ls-details %}}

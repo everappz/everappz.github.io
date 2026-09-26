@@ -7,7 +7,7 @@ tags: ["evermusic", "flacbox", "最近使用的", "lastfm", "匯出", "scrobbler
 readingTime: 5
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **摘要：** 將您的收聽記錄從Evermusic或Flacbox匯出為CSV檔案，然後使用Windows上的免費工具Last.fm-Scrubbler-WPF上傳到Last.fm。兩個應用程式都原生支援自動scrobble功能。
@@ -134,22 +134,22 @@ M3U：這種格式是建立播放清單的首選。它很棒，因為您可以�
 
 ## 常見問題
 
-{{% details title="我可以不匯出CSV檔案而自動scrobble嗎？" closed="true" %}}
+{{% ls-details title="我可以不匯出CSV檔案而自動scrobble嗎？" closed="true" %}}
 可以。Evermusic和Flacbox現在都支援自動Last.fm scrobble。請參閱指南：[如何Scrobble到Last.fm](/docs/howto/how-to-scrobble-your-music-history-from-evermusic-or-flacbox-to-last-fm)。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="如果我的CSV中有超過14天的曲目怎麼辦？" closed="true" %}}
+{{% ls-details title="如果我的CSV中有超過14天的曲目怎麼辦？" closed="true" %}}
 在Last.fm-Scrubbler-WPF中使用匯入模式。它從Finish Time重新計算時間戳記，允許您不受原始日期限制地scrobble曲目。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="我沒有Windows電腦。我還能使用Last.fm-Scrubbler嗎？" closed="true" %}}
+{{% ls-details title="我沒有Windows電腦。我還能使用Last.fm-Scrubbler嗎？" closed="true" %}}
 可以。在Mac上安裝VirtualBox並從Microsoft下載免費的Windows開發環境映像。在虛擬機器中執行Last.fm-Scrubbler-WPF。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="為什麼某些scrobble沒有被解析？" closed="true" %}}
+{{% ls-details title="為什麼某些scrobble沒有被解析？" closed="true" %}}
 缺少必要中繼資料（如藝術家名稱）的曲目無法被解析。這是正常的，不會影響檔案中的其他曲目。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="有每日scrobble限制嗎？" closed="true" %}}
+{{% ls-details title="有每日scrobble限制嗎？" closed="true" %}}
 有。Last.fm-Scrubbler-WPF允許每天最多2,800次scrobble。如果您需要scrobble更多，請將過程分散到多天進行。
-{{% /details %}}
+{{% /ls-details %}}

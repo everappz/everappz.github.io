@@ -25,7 +25,7 @@ La funcionalitat d'Evermusic es divideix reflexivament en dos components diferen
 Tant si uses un iPhone, iPad o mode compacte en un Mac, totes les funcions de l'app estan fàcilment accessibles a través de la barra de pestanyes a la part inferior de la pantalla. Per als usuaris d'iPad i Mac, el mateix menú es pot trobar al costat esquerre de la pantalla. Aquesta organització reflexiva categoritza totes les funcions de l'app en seccions fàcilment accessibles, garantint una experiència fàcil d'usar i eficient.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Barra lateral esquerra d'Evermusic a l'iPad i Mac" image="/docs/guide/evermusic/evermusic-guide-navigation/img/navigation-left-sidebar.webp" >}}
+  {{< ls-card title="" subtitle="Barra lateral esquerra d'Evermusic a l'iPad i Mac" image="/docs/guide/evermusic/evermusic-guide-navigation/img/navigation-left-sidebar.webp" >}}
 {{< /cards >}}
 
 **Connexions:** Pots connectar sense esforç serveis d'emmagatzematge al núvol com Google Drive, MEGA, OneDrive i Dropbox, així com el teu ordinador i NAS personal en aquesta pantalla.
@@ -47,7 +47,7 @@ La secció de fitxers locals es divideix en dues categories: Fitxers en aquesta 
 Activa un reproductor a pantalla completa tocant la icona del reproductor en miniatura i usant un gest de lliscar cap avall per ocultar-lo. A l'iPad i Mac, la pantalla del reproductor en miniatura es troba a la part superior de la pantalla i es pot ocultar en obrir el reproductor a pantalla completa via el menú principal.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Barra de pestanyes inferior de l'iPhone" image="/docs/guide/evermusic/evermusic-guide-navigation/img/navigation-bottom-tabbar.webp" >}}
+  {{< ls-card title="" subtitle="Barra de pestanyes inferior de l'iPhone" image="/docs/guide/evermusic/evermusic-guide-navigation/img/navigation-bottom-tabbar.webp" >}}
 {{< /cards >}}
 
 ## Finestra del reproductor en miniatura (exclusiu de Mac)
@@ -55,7 +55,7 @@ Activa un reproductor a pantalla completa tocant la icona del reproductor en min
 Per accedir a la finestra del reproductor en miniatura al teu Mac, simplement mou el cursor a la vora inferior dreta de la finestra de l'app i redimensiona-la a la mida mínima possible. A continuació, toca el botó de col·lapsar (representat com una fletxa cap avall) per activar la finestra del reproductor en miniatura. Per mantenir la finestra del reproductor en miniatura sempre per sobre d'altres finestres, navega a la barra de menú superior del teu Mac, selecciona 'Finestra' i a continuació tria 'Mostrar la finestra sempre al capdamunt.' Aquesta funció és útil per escoltar conferències d'àudio sense interrupcions.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Finestra del reproductor en miniatura al Mac" image="/docs/guide/evermusic/evermusic-guide-navigation/img/navigation-mac-exclusive-miniplayer.webp" >}}
+  {{< ls-card title="" subtitle="Finestra del reproductor en miniatura al Mac" image="/docs/guide/evermusic/evermusic-guide-navigation/img/navigation-mac-exclusive-miniplayer.webp" >}}
 {{< /cards >}}
 
 ## Més accions
@@ -63,7 +63,7 @@ Per accedir a la finestra del reproductor en miniatura al teu Mac, simplement mo
 Pràcticament cada element de contingut a la pantalla disposa d'un botó "Més accions". Toca'l per accedir a totes les accions disponibles.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Menú contextual de més accions" image="/docs/guide/evermusic/evermusic-guide-navigation/img/navigation-more-actions.webp" >}}
+  {{< ls-card title="" subtitle="Menú contextual de més accions" image="/docs/guide/evermusic/evermusic-guide-navigation/img/navigation-more-actions.webp" >}}
 {{< /cards >}}
 
 ## Barra d'eines superior
@@ -77,7 +77,7 @@ Pots revelar o ocultar fàcilment aquesta barra d'eines amb un simple gest de ll
 - **Reproduir aleatòriament:** Afegeix totes les cançons de la pàgina actual a la cua del reproductor d'àudio, barrejant-les abans d'afegir per a una experiència d'escolta deliciosa.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Barra d'eines superior amb Cerca, Reproduir tot i Reproduir aleatòriament" image="/docs/guide/evermusic/evermusic-guide-navigation/img/navigation-top-toolbar.webp" >}}
+  {{< ls-card title="" subtitle="Barra d'eines superior amb Cerca, Reproduir tot i Reproduir aleatòriament" image="/docs/guide/evermusic/evermusic-guide-navigation/img/navigation-top-toolbar.webp" >}}
 {{< /cards >}}
 
 ## Menú contextual
@@ -91,7 +91,7 @@ El menú contextual proporciona accés ràpid a opcions i accions addicionals pe
 **Clic amb el botó dret del ratolí:** Fes clic dret a les cel·les, el reproductor en miniatura o el reproductor compacte per mostrar el menú contextual.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Menú contextual a macOS" image="/docs/guide/evermusic/evermusic-guide-navigation/img/navigation-context-menu-macos.webp" >}}
+  {{< ls-card title="" subtitle="Menú contextual a macOS" image="/docs/guide/evermusic/evermusic-guide-navigation/img/navigation-context-menu-macos.webp" >}}
 {{< /cards >}}
 
 ## Accessibilitat
@@ -125,7 +125,7 @@ Evermusic inclou quatre ginys de pantalla d'inici / pantalla de bloqueig que mos
 Els quatre ginys estan disponibles en mides Petit, Mitjà i Gran perquè puguis triar el disseny que s'adapti a la teva pantalla.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Afegir ginys d'Evermusic" image="/docs/guide/evermusic/evermusic-guide-navigation/img/navigation-add-widgets.webp" >}}
+  {{< ls-card title="" subtitle="Afegir ginys d'Evermusic" image="/docs/guide/evermusic/evermusic-guide-navigation/img/navigation-add-widgets.webp" >}}
 {{< /cards >}}
 
 ### Afegir un giny a l'iPhone (pantalla d'inici)
@@ -175,7 +175,7 @@ El giny de CarPlay s'actualitza en directe mentre canvia la teva música i és p
 Evermusic inclou una interfície **Apple CarPlay** amb totes les funcions (només iOS) optimitzada per a la pantalla del cotxe. Un cop el teu iPhone estigui connectat a una unitat central de CarPlay compatible — via USB o sense fil — Evermusic apareix al costat d'Apple Music i Spotify a la graella d'apps de CarPlay, llest per fer streaming de la teva biblioteca al núvol per la carretera.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evermusic a la pantalla de CarPlay" image="/docs/guide/evermusic/evermusic-guide-navigation/img/navigation-carplay-menu.webp" >}}
+  {{< ls-card title="" subtitle="Evermusic a la pantalla de CarPlay" image="/docs/guide/evermusic/evermusic-guide-navigation/img/navigation-carplay-menu.webp" >}}
 {{< /cards >}}
 
 ### El que obtens a CarPlay

@@ -33,7 +33,7 @@ Het tabblad Bestanden is opgedeeld in duidelijke secties die in deze volgorde op
 In de rechterbovenhoek van het scherm Bestanden is een knop Overdrachten (een pictogram met draaiende pijlen). Tik erop om de Overdrachtsrij te openen waar u elke download en upload via al uw bronnen bijhoudt.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evervideo Bestanden Across Verbonden Opslagplaatsen" image="/docs/guide/evervideo/img/evervideo-files-connected-storages.webp" >}}
+  {{< ls-card title="" subtitle="Evervideo Bestanden Across Verbonden Opslagplaatsen" image="/docs/guide/evervideo/img/evervideo-files-connected-storages.webp" >}}
 {{< /cards >}}
 
 ## Verbinding maken met cloudopslag
@@ -41,7 +41,7 @@ In de rechterbovenhoek van het scherm Bestanden is een knop Overdrachten (een pi
 De sectie Cloudopslag van het tabblad Bestanden is waar elk verbonden account, NAS, mediaserver en stream zich bevindt — naast elkaar, in één scrollbare lijst.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evervideo Cloudopslag Sectie in het tabblad Bestanden" image="/docs/guide/evervideo/img/evervideo-connections.webp" >}}
+  {{< ls-card title="" subtitle="Evervideo Cloudopslag Sectie in het tabblad Bestanden" image="/docs/guide/evervideo/img/evervideo-connections.webp" >}}
 {{< /cards >}}
 
 - Open het tabblad **Bestanden**.
@@ -51,7 +51,7 @@ De sectie Cloudopslag van het tabblad Bestanden is waar elk verbonden account, N
 - Voer uw inloggegevens in op de officiële autorisatiepagina van de cloudprovider en tik op **Voltooid**.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evervideo Verbinding maken met een cloudopslagdienst" image="/docs/guide/evervideo/img/evervideo-connect-cloud-storage.webp" >}}
+  {{< ls-card title="" subtitle="Evervideo Verbinding maken met een cloudopslagdienst" image="/docs/guide/evervideo/img/evervideo-connect-cloud-storage.webp" >}}
 {{< /cards >}}
 
 Als u problemen ondervindt, controleer dan uw internetverbinding en uw gebruikersnaam / wachtwoord. In de Premium-versie van de app kunt u een onbeperkt aantal diensten toevoegen; de gratis versie ondersteunt maximaal drie.
@@ -161,7 +161,7 @@ Deze sectie toont elk apparaat op uw lokale netwerk waarmee u verbinding kunt ma
 - Voer indien nodig uw aanmeldingsgegevens in om de verbinding te voltooien.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evervideo Beschikbare apparaten op het lokale netwerk" image="/docs/guide/evervideo/img/evervideo-available-devices.webp" >}}
+  {{< ls-card title="" subtitle="Evervideo Beschikbare apparaten op het lokale netwerk" image="/docs/guide/evervideo/img/evervideo-available-devices.webp" >}}
 {{< /cards >}}
 
 ## Wi-Fi Drive
@@ -169,7 +169,7 @@ Deze sectie toont elk apparaat op uw lokale netwerk waarmee u verbinding kunt ma
 Met Wi-Fi Drive kunt u bestanden draadloos van uw computer naar uw iOS-apparaat overdragen via elke desktopbrowser, Finder of File Explorer. Uw apparaat en computer moeten op hetzelfde Wi-Fi-netwerk zijn.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evervideo Wi-Fi Drive" image="/docs/guide/evervideo/img/evervideo-wifi-drive.webp" >}}
+  {{< ls-card title="" subtitle="Evervideo Wi-Fi Drive" image="/docs/guide/evervideo/img/evervideo-wifi-drive.webp" >}}
 {{< /cards >}}
 
 ### Wi-Fi Drive inschakelen
@@ -201,7 +201,7 @@ Sluit een USB-schijf of SD-kaart aan op uw iPhone, iPad of Mac via de Lightning-
 Tik op een verbonden clouddienst om de bestandsbrowser te openen. Mappen tonen videominiaturen wanneer beschikbaar en het tikken op een video start het afspelen onmiddellijk terwijl het de rest van het bestand op de achtergrond blijft streamen.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evervideo Mappen bekijken in verbonden opslag" image="/docs/guide/evervideo/img/evervideo-all-connected-device-folders.webp" >}}
+  {{< ls-card title="" subtitle="Evervideo Mappen bekijken in verbonden opslag" image="/docs/guide/evervideo/img/evervideo-all-connected-device-folders.webp" >}}
 {{< /cards >}}
 
 ## Snelle toegang
@@ -209,7 +209,7 @@ Tik op een verbonden clouddienst om de bestandsbrowser te openen. Mappen tonen v
 De sectie Snelle toegang bevindt zich bovenaan het tabblad Bestanden. Het geeft u snelle toegang tot uw favoriete en onlangs geopende bestanden en mappen — zowel van clouddiensten als van apparaatopslag. Wanneer u een bestand of map van de cloud opent, wordt het toegevoegd aan de lijst Onlangs geopend. U kunt diep geneste mappen als Favorieten markeren om ze snel te openen zonder door de mapstructuur te graven.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evervideo Online links en snelle toegang" image="/docs/guide/evervideo/img/evervideo-connections-online-links.webp" >}}
+  {{< ls-card title="" subtitle="Evervideo Online links en snelle toegang" image="/docs/guide/evervideo/img/evervideo-connections-online-links.webp" >}}
 {{< /cards >}}
 
 ## Bestanden in deze applicatie
@@ -217,7 +217,7 @@ De sectie Snelle toegang bevindt zich bovenaan het tabblad Bestanden. Het geeft 
 Deze sectie toont bestanden en mappen die zijn opgeslagen in de sandbox-Documenten-map van Evervideo — alles wat u van de cloud hebt gedownload, via Wi-Fi Drive hebt overgedragen, via Finder-bestandsdeling hebt gekopieerd of vanuit een andere app hebt geïmporteerd.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evervideo Bestanden in deze applicatie" image="/docs/guide/evervideo/img/evervideo-files-in-this-application.webp" >}}
+  {{< ls-card title="" subtitle="Evervideo Bestanden in deze applicatie" image="/docs/guide/evervideo/img/evervideo-files-in-this-application.webp" >}}
 {{< /cards >}}
 
 ### Map Documenten
@@ -225,7 +225,7 @@ Deze sectie toont bestanden en mappen die zijn opgeslagen in de sandbox-Document
 De map Documenten is de root van alles in Bestanden in deze applicatie. U kunt submappen maken, bestanden hernoemen, verplaatsen en ze naar wens groeperen.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evervideo Lokale bestanden — Map Documenten" image="/docs/guide/evervideo/img/evervideo-local-files-documents.webp" >}}
+  {{< ls-card title="" subtitle="Evervideo Lokale bestanden — Map Documenten" image="/docs/guide/evervideo/img/evervideo-local-files-documents.webp" >}}
 {{< /cards >}}
 
 ## Bestanden op deze iPhone / iPad / Mac
@@ -238,7 +238,7 @@ Deze sectie toont video's die zich op uw apparaat maar in andere applicaties bev
 U kunt ook Map verbinden gebruiken om een koppeling te maken naar een map op uw apparaat met lees- / schrijftoegang — perfect voor werken met een map op iCloud Drive of een aangesloten USB-schijf zonder iets te kopiëren.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evervideo Bestanden op dit apparaat" image="/docs/guide/evervideo/img/evervideo-files-on-this-device.webp" >}}
+  {{< ls-card title="" subtitle="Evervideo Bestanden op dit apparaat" image="/docs/guide/evervideo/img/evervideo-files-on-this-device.webp" >}}
 {{< /cards >}}
 
 ## Speciale mappen
@@ -276,7 +276,7 @@ Wanneer u een map opent, tik op de **"..."** knop in de rechterbovenhoek voor de
 Tik op **"..."** in de rechterbovenhoek en kies **Selecteren** om de selectiemodus te activeren. Er verschijnen selectievakjes naast elk bestand en elke map. Tik om een of meerdere items te selecteren en voer vervolgens batchacties uit: Volgende afspelen, Later afspelen, Toevoegen aan mediabibliotheek, Toevoegen aan afspeellijst, Kopiëren, Uploaden, Verplaatsen, Hernoemen of Verwijderen.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evervideo Selectiemodus in de bestandsbeheerder" image="/docs/guide/evervideo/img/evervideo-selection-mode-in-files.webp" >}}
+  {{< ls-card title="" subtitle="Evervideo Selectiemodus in de bestandsbeheerder" image="/docs/guide/evervideo/img/evervideo-selection-mode-in-files.webp" >}}
 {{< /cards >}}
 
 Als u verbonden cloudopslag liever als alleen-lezen wilt behandelen (om onbedoeld verwijderen te voorkomen), schakel dan Instellingen → Bestandsbeheer → Online bestanden bewerken → Uit in om alle destructieve bewerkingen uit de UI te verbergen.
@@ -318,13 +318,13 @@ Voor elke map in uw cloudopslag zijn er veel acties beschikbaar door op het pict
 In de rechterbovenhoek van het tabblad Bestanden is een knop **Overdrachten** (een pictogram met draaiende pijlen). Tik erop om de Overdrachtsrij te openen — een lijst van elke actieve download en upload via al uw bronnen, met realtime voortgang, snelheid en ETA per bestand.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evervideo Bestandsoverdrachtsrij" image="/docs/guide/evervideo/img/evervideo-file-transfers.webp" >}}
+  {{< ls-card title="" subtitle="Evervideo Bestandsoverdrachtsrij" image="/docs/guide/evervideo/img/evervideo-file-transfers.webp" >}}
 {{< /cards >}}
 
 U kunt overdrachten pauzeren, hervatten, mislukte overdrachten opnieuw proberen, items herordenen om specifieke downloads te prioriteren of ze afzonderlijk annuleren. U kunt ook de overdrachtsrijsnelheid (maximale parallelle taken), het netwerktype (alleen Wi-Fi of Wi-Fi + mobiele data) en achtergrondoverdrachten aanpassen in Instellingen → Bestandsbeheer.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evervideo Acties op de bestandsoverdrachtsrij" image="/docs/guide/evervideo/img/evervideo-file-transfers-actions.webp" >}}
+  {{< ls-card title="" subtitle="Evervideo Acties op de bestandsoverdrachtsrij" image="/docs/guide/evervideo/img/evervideo-file-transfers-actions.webp" >}}
 {{< /cards >}}
 
 ## Offline modus en gesynchroniseerde offline mappen

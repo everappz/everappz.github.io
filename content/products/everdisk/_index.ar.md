@@ -16,15 +16,15 @@ screenshots:
   - "https://everappz.com/products/everdisk/screenshots/photo_gallery.png"
 ---
 
-{{% sr-only %}}
+{{% ls-sr-only %}}
 Everdisk تطبيق قرص لاسلكي لأجهزة iPhone وiPad من تطوير Everappz. يحوّل جهازك إلى مركز يشارك الملفات والصور والفيديوهات والموسيقى مع أي شيء على شبكتك المحلية، من دون حسابات ولا سحابة ولا حاجة لتثبيت أي تطبيق إضافي على الطرف الآخر. يشغّل التطبيق خمسة خوادم في الوقت نفسه - DLNA لأجهزة التلفاز الذكية ومشغّلات الوسائط، وHTTP لأي متصفح ويب، وWebDAV لـ Finder وWindows وLinux، وSMB لقرص شبكي على Mac وWindows وLinux (مع تشفير SMB3 اختياري)، وFTP لتطبيقات الملفات والمستخدمين المحترفين - فيتصل كل جهاز بالطريقة التي تناسبه. يمكنك بث الصور والفيديوهات والموسيقى مباشرة إلى أجهزة التلفاز الذكية عبر DLNA مع صور مصغّرة للمعاينة، أو مشاركة رابط بسيط يُفتح في أي متصفح لتصفح ملفاتك وتنزيلها، أو تركيب جهازك كقرص شبكي وسحب الملفات في الاتجاهين. يمكنك أيضاً تركيبه عبر SMB، وهو قرص شبكي لـ Mac وWindows وLinux يظهر من تلقاء نفسه في الشريط الجانبي لـ Finder على جهاز Mac، وتفعيل تشفير SMB3 (AES) كي لا يتمكن أحد آخر على الشبكة نفسها من قراءة عمليات النقل لديك. وحين لا يتوفر Wi-Fi يمكنك الاتصال بجهاز Mac عبر كابل USB ونقل الملفات بسرعة تفوق Wi-Fi، حتى على متن طائرة أو على شبكة مقفلة. كما يتصل Everdisk بخوادم DLNA وWebDAV وFTP وSFTP وSMB على شبكتك - بما في ذلك أجهزة Mac وأجهزة Windows وأجهزة Linux وأقراص NAS - لتصفح ملفاتها وبثها وتنزيلها. ويتيح لك مدير ملفات مدمج التصفح في قائمة أو شبكة، وإنشاء المجلدات وإعادة التسمية والنقل والنسخ والضغط وفك الضغط والحذف. يمكنك مسح المستندات الورقية إلى ملفات PDF نظيفة، وفتح ملف PDF أو صورة والتعليق عليها بالمحرر المدمج - رسم وتظليل وإضافة نص وتوقيع، مع حفظ التغييرات مباشرة في الملف - واستخدام مجموعة كاملة من أدوات PDF لضغط الملفات، والتعرّف على النص (OCR) وتحويله إلى PDF قابل للبحث، وإضافة كلمة مرور للفتح أو إزالتها، ومراجعة الصلاحيات، وتحرير البيانات الوصفية للمستند، وتسطيح التعليقات وحقول النماذج. كما يمكنك تشغيل الصوت في مشغّل مصغّر ومشاهدة الفيديوهات بملء الشاشة، ومشاركة مكتبة صورك وموسيقاك كاملة عبر الشبكة بالجودة الأصلية أو بصيغة أكثر توافقاً. يبقى كل شيء على شبكتك المحلية ولا يمرّ عبر الإنترنت أبداً، ويمكنك حماية الوصول باسم دخول وكلمة مرور وحظر أي جهاز بلمسة واحدة. Everdisk متاح للتنزيل مجاناً على App Store مع إمكانية شراء Premium Lifetime لمرة واحدة بشكل اختياري.
-{{% /sr-only %}}
+{{% /ls-sr-only %}}
 
 <!-- <body class="hx:bg-transparent" style="background: radial-gradient(ellipse at 50% 80%, rgba(59,130,246,0.05), hsla(0,0%,100%,0));"> -->
 
-{{< force-dark >}}
+{{< ls-force-dark >}}
 
-{{< hextra/hero-container
+{{< ls-hero-container
   image="/products/everdisk/heroimage/hero_1600.png"
   imageWidth="800"
   imageCard="true"
@@ -33,38 +33,38 @@ Everdisk تطبيق قرص لاسلكي لأجهزة iPhone وiPad من تطوي
 <div class="hx:w-full hx:text-center">
 
 <div class="hx:mt-4">
-{{< downloads-badge >}}
+{{< ls-downloads-badge >}}
 </div>
 
 <div class="hx:mt-6 hx:mb-6">
 <div class="hx:flex hx:gap-4 hx:items-center hx:justify-center">
-  {{< app-icon src="/images/app_icons/png/Everdisk_Icon-App-1024x1024.png" alt="Everdisk Icon" class="hero-headline-icon" size="80" >}}
-  {{< hextra/hero-headline >}}
+  {{< ls-app-icon src="/images/app_icons/png/Everdisk_Icon-App-1024x1024.png" alt="Everdisk Icon" class="hero-headline-icon" size="80" >}}
+  {{< ls-hero-headline >}}
   Everdisk
-  {{< /hextra/hero-headline >}}
+  {{< /ls-hero-headline >}}
 </div>
 </div>
 
 <div class="hx:mb-6">
-{{< hextra/hero-centered-subtitle >}}
+{{< ls-hero-centered-subtitle >}}
 حوّل جهاز iPhone أو iPad إلى قرص لاسلكي يشارك ملفاتك مع <strong>أي جهاز على شبكتك</strong>
-{{< /hextra/hero-centered-subtitle >}}
+{{< /ls-hero-centered-subtitle >}}
 </div>
 
 <div class="hx:mb-6">
-{{< hextra/hero-paragraph >}}
+{{< ls-hero-paragraph >}}
 • اضغط ابدأ وشارك بخمس طرق في آن واحد: DLNA وHTTP وWebDAV وSMB وFTP  
 • ابثّ الصور والفيديوهات والموسيقى مباشرة إلى أجهزة التلفاز الذكية عبر DLNA  
 • ركّب جهازك كقرص شبكي في Finder أو Windows أو Linux - مع تشفير SMB اختياري  
 • لا يوجد Wi-Fi؟ انقل الملفات عبر كابل USB بسرعة تفوق اللاسلكي  
-{{< /hextra/hero-paragraph >}}
+{{< /ls-hero-paragraph >}}
 </div>
 
-{{< app-store-badges products="everdisk:ios" >}}
+{{< ls-app-store-badges products="everdisk:ios" >}}
 
 </div>
 
-{{< /hextra/hero-container >}}
+{{< /ls-hero-container >}}
 
 <div class="hx:mt-6"></div>
 
@@ -72,42 +72,42 @@ Everdisk تطبيق قرص لاسلكي لأجهزة iPhone وiPad من تطوي
 
 {{< hextra/feature-grid >}}
 
-  {{< hextra/feature-card
+  {{< ls-glass-feature-card
     title="جهازك يصبح قرصاً"
     subtitle="اضغط ابدأ فيتحوّل جهاز iPhone أو iPad إلى قرص لاسلكي. يشغّل Everdisk خمسة خوادم في الوقت نفسه - DLNA وHTTP وWebDAV وSMB وFTP - فتتصل أجهزة التلفاز الذكية والحواسيب والمتصفحات وتطبيقات الملفات كل منها بالطريقة التي تناسبها. من دون حسابات ولا سحابة ولا شيء إضافي لتثبيته على الطرف الآخر."
     icon="server"
     style="background: radial-gradient(ellipse at 50% 80%, rgba(34,197,94,0.15), hsla(0,0%,100%,0));"
   >}}
 
-  {{< hextra/feature-card
+  {{< ls-glass-feature-card
     title="شاهد على تلفازك"
     subtitle="ابثّ الصور والفيديوهات والموسيقى مباشرة إلى أجهزة التلفاز الذكية ومشغّلات الوسائط عبر DLNA. تظهر مكتبتك على التلفاز من تلقاء نفسها مع صور مصغّرة للمعاينة، فتستمتع بها على الشاشة الكبيرة من دون أي كابلات أو تطبيقات إضافية."
     icon="desktop-computer"
     style="background: radial-gradient(ellipse at 50% 80%, rgba(234,88,12,0.15), hsla(0,0%,100%,0));"
   >}}
 
-  {{< hextra/feature-card
+  {{< ls-glass-feature-card
     title="افتح في أي متصفح ويب"
     subtitle="شارك رابطاً بسيطاً وما على الطرف الآخر إلا فتحه في المتصفح. يستطيع تصفح ملفاتك في شبكة أو قائمة أنيقة، ومشاهدة الصور في معرض بملء الشاشة، وتشغيل الموسيقى في المشغّل المدمج، وتنزيل أي شيء - من دون تثبيت أي شيء عنده."
     icon="globe-alt"
     style="background: radial-gradient(ellipse at 50% 80%, rgba(251,191,36,0.15), hsla(0,0%,100%,0));"
   >}}
 
-  {{< hextra/feature-card
+  {{< ls-glass-feature-card
     title="استخدمه كقرص شبكي"
     subtitle="اتصل من Finder على جهاز Mac، أو من Windows أو Linux عبر WebDAV، فيظهر جهازك مثل أي قرص شبكي عادي. اسحب وأفلت الملفات في الاتجاهين، أو ركّبه عبر SMB بدلاً من ذلك، مع تشفير SMB3 (AES)."
     icon="folder"
     style="background: radial-gradient(ellipse at 50% 80%, rgba(59,130,246,0.15), hsla(0,0%,100%,0));"
   >}}
 
-  {{< hextra/feature-card
+  {{< ls-glass-feature-card
     title="لا يوجد Wi-Fi؟ استخدم الكابل"
     subtitle="اربط جهازك بجهاز Mac بكابل USB نفسه الذي تشحن به. تنتقل الملفات مباشرة عبر الكابل بسرعة تفوق Wi-Fi، ويظل يعمل على متن طائرة أو في فندق أو على أي شبكة مقفلة يُحظر فيها Wi-Fi."
     icon="lightning-bolt"
     style="background: radial-gradient(ellipse at 50% 80%, rgba(192,38,211,0.15), hsla(0,0%,100%,0));"
   >}}
 
-  {{< hextra/feature-card
+  {{< ls-glass-feature-card
     title="اتصل بأجهزة أخرى"
     subtitle="ابحث عن خوادم DLNA وWebDAV وFTP وSFTP وSMB على شبكتك واتصل بها - أجهزة Mac وأجهزة Windows وأجهزة Linux وأقراص NAS. تصفّح مجلداتها، وابثّ الصوت والفيديو، ونزّل الملفات، وأنشئ المجلدات وارفع الملفات وأعد التسمية وانقل واحذف حين يسمح الخادم بذلك."
     icon="cloud-download"
@@ -120,9 +120,9 @@ Everdisk تطبيق قرص لاسلكي لأجهزة iPhone وiPad من تطوي
 
 <div class="hx:mt-6"></div>
 
-{{< hextra/section-headline >}}
+{{< ls-section-headline >}}
   تصميم أنيق وبسيط
-{{< /hextra/section-headline >}}
+{{< /ls-section-headline >}}
 
 <div class="hx:mt-6"></div>
 
@@ -130,7 +130,7 @@ Everdisk تطبيق قرص لاسلكي لأجهزة iPhone وiPad من تطوي
 
 {{< cards cols="4">}}
 
-  {{< design-feature-card 
+  {{< ls-design-feature-card 
     icon="globe-alt"
     image="/products/everdisk/screenshots/browser_access.png" 
     title="الوصول عبر المتصفح" 
@@ -139,7 +139,7 @@ Everdisk تطبيق قرص لاسلكي لأجهزة iPhone وiPad من تطوي
     subtitle="شارك رابطاً ودع أي شخص يتصفح ملفاتك ويعاينها وينزّلها من أي متصفح ويب. لا شيء لتثبيته على الطرف الآخر." 
   >}}
 
-  {{< design-feature-card 
+  {{< ls-design-feature-card 
     icon="server"
     image="/products/everdisk/screenshots/connect_to_servers.png"  
     title="الاتصال بالخوادم" 
@@ -148,7 +148,7 @@ Everdisk تطبيق قرص لاسلكي لأجهزة iPhone وiPad من تطوي
     subtitle="اكتشف خوادم DLNA وWebDAV وFTP وSFTP وSMB على شبكتك واتصل بها لتصفح ملفاتها وبثها وتنزيلها." 
   >}}
 
-  {{< design-feature-card 
+  {{< ls-design-feature-card 
     icon="folder"
     image="/products/everdisk/screenshots/file_manager.png"  
     title="مدير الملفات" 
@@ -157,7 +157,7 @@ Everdisk تطبيق قرص لاسلكي لأجهزة iPhone وiPad من تطوي
     subtitle="أدر كل شيء على جهازك: تصفّح في قائمة أو شبكة، وأنشئ المجلدات وأعد التسمية وانقل وانسخ واضغط وفك الضغط واحذف." 
   >}}
 
-  {{< design-feature-card 
+  {{< ls-design-feature-card 
     icon="play"
     image="/products/everdisk/screenshots/play_in_the_app.png"  
     title="التشغيل داخل التطبيق" 
@@ -166,7 +166,7 @@ Everdisk تطبيق قرص لاسلكي لأجهزة iPhone وiPad من تطوي
     subtitle="استمع إلى مقاطعك المحلية أو ابثّ من الأجهزة المتصلة، مع قائمة انتظار في مشغّل مصغّر وتشغيل فيديو بملء الشاشة." 
   >}}
 
-  {{< design-feature-card 
+  {{< ls-design-feature-card 
     icon="music-note"
     image="/products/everdisk/screenshots/share_your_library.png"  
     title="شارك مكتبتك" 
@@ -175,7 +175,7 @@ Everdisk تطبيق قرص لاسلكي لأجهزة iPhone وiPad من تطوي
     subtitle="فعّل مكتبة صورك وموسيقاك كاملة فيصبح كل ألبوم وكل مقطع متاحاً عبر الشبكة بالجودة الأصلية." 
   >}} 
 
-  {{< design-feature-card 
+  {{< ls-design-feature-card 
     icon="photograph"
     image="/products/everdisk/screenshots/photo_gallery.png"  
     title="معرض الصور" 
@@ -190,9 +190,9 @@ Everdisk تطبيق قرص لاسلكي لأجهزة iPhone وiPad من تطوي
 
 <div class="hx:mt-6"></div>
 
-{{< hextra/section-headline >}}
+{{< ls-section-headline >}}
   مجموعة الميزات الكاملة
-{{< /hextra/section-headline >}}
+{{< /ls-section-headline >}}
 
 <div class="hx:mt-6"></div>
 
@@ -200,53 +200,53 @@ Everdisk تطبيق قرص لاسلكي لأجهزة iPhone وiPad من تطوي
 
 {{< cards >}}
 
-  {{< feature-card title="خمسة خوادم في آن واحد" subtitle="اضغط ابدأ وشارك ملفاتك بخمس طرق في الوقت نفسه: DLNA لأجهزة التلفاز ومشغّلات الوسائط، وHTTP لأي متصفح ويب، وWebDAV لـ Finder وWindows وLinux، وSMB لقرص شبكي على Mac وWindows وLinux، وFTP لتطبيقات الملفات والمستخدمين المحترفين." icon="wifi" >}}
+  {{< ls-feature-card title="خمسة خوادم في آن واحد" subtitle="اضغط ابدأ وشارك ملفاتك بخمس طرق في الوقت نفسه: DLNA لأجهزة التلفاز ومشغّلات الوسائط، وHTTP لأي متصفح ويب، وWebDAV لـ Finder وWindows وLinux، وSMB لقرص شبكي على Mac وWindows وLinux، وFTP لتطبيقات الملفات والمستخدمين المحترفين." icon="wifi" >}}
 
-  {{< feature-card title="بث إلى أجهزة التلفاز الذكية" subtitle="أرسل الصور والفيديوهات والموسيقى مباشرة إلى أجهزة التلفاز الذكية ومشغّلات الوسائط عبر DLNA. تظهر مكتبتك على التلفاز من تلقاء نفسها مع صور مصغّرة للمعاينة، جاهزة للشاشة الكبيرة." icon="desktop-computer" >}}
+  {{< ls-feature-card title="بث إلى أجهزة التلفاز الذكية" subtitle="أرسل الصور والفيديوهات والموسيقى مباشرة إلى أجهزة التلفاز الذكية ومشغّلات الوسائط عبر DLNA. تظهر مكتبتك على التلفاز من تلقاء نفسها مع صور مصغّرة للمعاينة، جاهزة للشاشة الكبيرة." icon="desktop-computer" >}}
 
-  {{< feature-card title="مشاركة عبر متصفح الويب" subtitle="شارك رابطاً وما على الطرف الآخر إلا فتحه في المتصفح لتصفح ملفاتك في شبكة أو قائمة، ومشاهدة الصور بملء الشاشة، وتشغيل الموسيقى، وتنزيل أي شيء - من دون أي تثبيت." icon="globe-alt" >}}
+  {{< ls-feature-card title="مشاركة عبر متصفح الويب" subtitle="شارك رابطاً وما على الطرف الآخر إلا فتحه في المتصفح لتصفح ملفاتك في شبكة أو قائمة، ومشاهدة الصور بملء الشاشة، وتشغيل الموسيقى، وتنزيل أي شيء - من دون أي تثبيت." icon="globe-alt" >}}
 
-  {{< feature-card title="قرص شبكي عبر WebDAV" subtitle="اتصل من Finder على جهاز Mac، أو من Windows أو Linux عبر WebDAV فيظهر جهازك مثل أي قرص شبكي عادي. اسحب وأفلت الملفات في الاتجاهين." icon="folder" >}}
+  {{< ls-feature-card title="قرص شبكي عبر WebDAV" subtitle="اتصل من Finder على جهاز Mac، أو من Windows أو Linux عبر WebDAV فيظهر جهازك مثل أي قرص شبكي عادي. اسحب وأفلت الملفات في الاتجاهين." icon="folder" >}}
 
-  {{< feature-card title="قرص SMB مشفّر" subtitle="ركّب جهازك عبر SMB، وهو قرص شبكي لـ Mac وWindows وLinux - وعلى جهاز Mac يظهر من تلقاء نفسه في الشريط الجانبي لـ Finder. وهو الاتصال الوحيد الذي يمكن تشفيره: فعّل تشفير SMB3 (AES) مع اسم دخول وكلمة مرور لإبقاء كل عملية نقل خاصة." icon="lock-closed" >}}
+  {{< ls-feature-card title="قرص SMB مشفّر" subtitle="ركّب جهازك عبر SMB، وهو قرص شبكي لـ Mac وWindows وLinux - وعلى جهاز Mac يظهر من تلقاء نفسه في الشريط الجانبي لـ Finder. وهو الاتصال الوحيد الذي يمكن تشفيره: فعّل تشفير SMB3 (AES) مع اسم دخول وكلمة مرور لإبقاء كل عملية نقل خاصة." icon="lock-closed" >}}
 
-  {{< feature-card title="النقل عبر USB" subtitle="اربط بجهاز Mac بكابل الشحن الخاص بك وانقل الملفات مباشرة عبر الكابل بسرعة تفوق Wi-Fi. ويظل يعمل على متن طائرة أو في فندق أو على أي شبكة مقفلة." icon="lightning-bolt" >}}
+  {{< ls-feature-card title="النقل عبر USB" subtitle="اربط بجهاز Mac بكابل الشحن الخاص بك وانقل الملفات مباشرة عبر الكابل بسرعة تفوق Wi-Fi. ويظل يعمل على متن طائرة أو في فندق أو على أي شبكة مقفلة." icon="lightning-bolt" >}}
 
-  {{< feature-card title="الاتصال بـ DLNA وWebDAV وFTP وSFTP وSMB" subtitle="ابحث عن الخوادم وأقراص NAS على شبكتك واتصل بها، وتصفّح مجلداتها، وابثّ الصوت والفيديو، ونزّل الملفات، وأنشئ وارفع وأعد التسمية وانقل أو احذف حين يُسمح بذلك." icon="server" >}}
+  {{< ls-feature-card title="الاتصال بـ DLNA وWebDAV وFTP وSFTP وSMB" subtitle="ابحث عن الخوادم وأقراص NAS على شبكتك واتصل بها، وتصفّح مجلداتها، وابثّ الصوت والفيديو، ونزّل الملفات، وأنشئ وارفع وأعد التسمية وانقل أو احذف حين يُسمح بذلك." icon="server" >}}
 
-  {{< feature-card title="مدير ملفات مدمج" subtitle="مدير ملفات كامل لكل شيء على جهازك. تصفّح في قائمة أو شبكة، وأنشئ المجلدات وأعد التسمية وانقل وانسخ واحذف، واربط مجلدات من أي مكان على جهازك." icon="view-grid" >}}
+  {{< ls-feature-card title="مدير ملفات مدمج" subtitle="مدير ملفات كامل لكل شيء على جهازك. تصفّح في قائمة أو شبكة، وأنشئ المجلدات وأعد التسمية وانقل وانسخ واحذف، واربط مجلدات من أي مكان على جهازك." icon="view-grid" >}}
 
-  {{< feature-card title="ضغط وفك ضغط" subtitle="اضغط الملفات والمجلدات في أرشيف واحد لمشاركتها أو تخزينها، وفك ضغط الأرشيفات التي تصلك مباشرة على جهازك من دون أي أدوات إضافية." icon="document-duplicate" >}}
+  {{< ls-feature-card title="ضغط وفك ضغط" subtitle="اضغط الملفات والمجلدات في أرشيف واحد لمشاركتها أو تخزينها، وفك ضغط الأرشيفات التي تصلك مباشرة على جهازك من دون أي أدوات إضافية." icon="document-duplicate" >}}
 
-  {{< feature-card title="مسح المستندات إلى PDF" subtitle="امسح المستندات الورقية بالكاميرا. يعثر Everdisk على الحواف تلقائياً، ويعدّل استواء كل صفحة، ويحفظها كملف PDF نظيف جاهز للمشاركة أو التخزين." icon="document-text" >}}
+  {{< ls-feature-card title="مسح المستندات إلى PDF" subtitle="امسح المستندات الورقية بالكاميرا. يعثر Everdisk على الحواف تلقائياً، ويعدّل استواء كل صفحة، ويحفظها كملف PDF نظيف جاهز للمشاركة أو التخزين." icon="document-text" >}}
 
-  {{< feature-card title="التعليق على ملفات PDF وتوقيعها" subtitle="افتح ملف PDF أو صورة وعلّق عليها مباشرة داخل التطبيق: ارسم وظلّل وأضف نصاً وأشكالاً ووقّع بإصبعك. تُحفظ تغييراتك مباشرة في الملف." icon="pencil-alt" >}}
+  {{< ls-feature-card title="التعليق على ملفات PDF وتوقيعها" subtitle="افتح ملف PDF أو صورة وعلّق عليها مباشرة داخل التطبيق: ارسم وظلّل وأضف نصاً وأشكالاً ووقّع بإصبعك. تُحفظ تغييراتك مباشرة في الملف." icon="pencil-alt" >}}
 
-  {{< feature-card title="أدوات PDF" subtitle="مجموعة أدوات PDF كاملة مدمجة: اضغط الملفات، وتعرّف على النص (OCR) وحوّله إلى PDF قابل للبحث، واضبط كلمة مرور للفتح أو أزلها، وراجع الصلاحيات، وحرّر البيانات الوصفية للمستند، وسطّح التعليقات وحقول النماذج." icon="document-report" >}}
+  {{< ls-feature-card title="أدوات PDF" subtitle="مجموعة أدوات PDF كاملة مدمجة: اضغط الملفات، وتعرّف على النص (OCR) وحوّله إلى PDF قابل للبحث، واضبط كلمة مرور للفتح أو أزلها، وراجع الصلاحيات، وحرّر البيانات الوصفية للمستند، وسطّح التعليقات وحقول النماذج." icon="document-report" >}}
 
-  {{< feature-card title="معرض الصور" subtitle="صور مصغّرة حقيقية للمعاينة على أجهزة التلفاز وفي المتصفح، إضافة إلى معرض صور بملء الشاشة مع السحب والتكبير، فترى الصورة دائماً وليس مجرد أيقونة." icon="photograph" >}}
+  {{< ls-feature-card title="معرض الصور" subtitle="صور مصغّرة حقيقية للمعاينة على أجهزة التلفاز وفي المتصفح، إضافة إلى معرض صور بملء الشاشة مع السحب والتكبير، فترى الصورة دائماً وليس مجرد أيقونة." icon="photograph" >}}
 
-  {{< feature-card title="مشغّل صوت مصغّر" subtitle="استمتع بالصوت في مشغّل مصغّر مع قائمة انتظار وخلط وتكرار وأدوات تحكم على شاشة القفل. تُشغَّل مكتبتا الصور والموسيقى لديك هنا مباشرة داخل التطبيق." icon="music-note" >}}
+  {{< ls-feature-card title="مشغّل صوت مصغّر" subtitle="استمتع بالصوت في مشغّل مصغّر مع قائمة انتظار وخلط وتكرار وأدوات تحكم على شاشة القفل. تُشغَّل مكتبتا الصور والموسيقى لديك هنا مباشرة داخل التطبيق." icon="music-note" >}}
 
-  {{< feature-card title="فيديو بملء الشاشة" subtitle="شاهد فيديوهاتك بملء الشاشة، تُشغَّل من الملفات المحلية أو تُبثّ مباشرة من جهاز متصل، مع أدوات تحكم بسيطة ومألوفة." icon="film" >}}
+  {{< ls-feature-card title="فيديو بملء الشاشة" subtitle="شاهد فيديوهاتك بملء الشاشة، تُشغَّل من الملفات المحلية أو تُبثّ مباشرة من جهاز متصل، مع أدوات تحكم بسيطة ومألوفة." icon="film" >}}
 
-  {{< feature-card title="شارك مكتبتك كاملة" subtitle="فعّل مكتبة صورك وموسيقاك كاملة فيصبح كل ألبوم وكل مقطع متاحاً عبر الشبكة بالجودة الأصلية أو مُحوّلاً لأجل التوافق." icon="share" >}}
+  {{< ls-feature-card title="شارك مكتبتك كاملة" subtitle="فعّل مكتبة صورك وموسيقاك كاملة فيصبح كل ألبوم وكل مقطع متاحاً عبر الشبكة بالجودة الأصلية أو مُحوّلاً لأجل التوافق." icon="share" >}}
 
-  {{< feature-card title="أرسل الملفات في الاتجاه المعاكس" subtitle="يعمل في الاتجاهين. ارفع الصور والمستندات من أي حاسوب مباشرة إلى جهازك، وأضف مجلدات كاملة أيضاً، عبر الاتصال نفسه." icon="upload" >}}
+  {{< ls-feature-card title="أرسل الملفات في الاتجاه المعاكس" subtitle="يعمل في الاتجاهين. ارفع الصور والمستندات من أي حاسوب مباشرة إلى جهازك، وأضف مجلدات كاملة أيضاً، عبر الاتصال نفسه." icon="upload" >}}
 
-  {{< feature-card title="الحماية بكلمة مرور" subtitle="احمِ محتواك المشترك من الوصول غير المصرّح به باسم دخول وكلمة مرور، فتحتاج الأجهزة المتصلة إلى إدخال البيانات نفسها قبل أن ترى ملفاتك." icon="lock-closed" >}}
+  {{< ls-feature-card title="الحماية بكلمة مرور" subtitle="احمِ محتواك المشترك من الوصول غير المصرّح به باسم دخول وكلمة مرور، فتحتاج الأجهزة المتصلة إلى إدخال البيانات نفسها قبل أن ترى ملفاتك." icon="lock-closed" >}}
 
-  {{< feature-card title="احظر أي جهاز" subtitle="حافظ على التحكم بمن يتصل. احظر أي جهاز على شبكتك بلمسة واحدة فلا يعود قادراً على الوصول إلى المحتوى الذي تشاركه." icon="shield-check" >}}
+  {{< ls-feature-card title="احظر أي جهاز" subtitle="حافظ على التحكم بمن يتصل. احظر أي جهاز على شبكتك بلمسة واحدة فلا يعود قادراً على الوصول إلى المحتوى الذي تشاركه." icon="shield-check" >}}
 
-  {{< feature-card title="خاص ومحلي فقط" subtitle="يبقى كل شيء على شبكتك المحلية ولا يمرّ عبر الإنترنت أبداً. لا تغادر ملفاتك المنزل، ولا حسابات ولا سحابة في المنتصف." icon="eye" >}}
+  {{< ls-feature-card title="خاص ومحلي فقط" subtitle="يبقى كل شيء على شبكتك المحلية ولا يمرّ عبر الإنترنت أبداً. لا تغادر ملفاتك المنزل، ولا حسابات ولا سحابة في المنتصف." icon="eye" >}}
 
-  {{< feature-card title="أصلي أو مُحوّل" subtitle="احتفظ بصورك وفيديوهاتك بالجودة الأصلية، أو حوّلها إلى صيغة أكثر توافقاً حين يحتاج تلفاز أو متصفح أو جهاز آخر إلى ذلك." icon="switch-horizontal" >}}
+  {{< ls-feature-card title="أصلي أو مُحوّل" subtitle="احتفظ بصورك وفيديوهاتك بالجودة الأصلية، أو حوّلها إلى صيغة أكثر توافقاً حين يحتاج تلفاز أو متصفح أو جهاز آخر إلى ذلك." icon="switch-horizontal" >}}
 
-  {{< feature-card title="اربط مجلدات خارجية" subtitle="اربط مجلدات من أي مكان على جهازك واعمل عليها مباشرة داخل التطبيق، ثم شاركها عبر الشبكة إلى جانب كل شيء آخر." icon="collection" >}}
+  {{< ls-feature-card title="اربط مجلدات خارجية" subtitle="اربط مجلدات من أي مكان على جهازك واعمل عليها مباشرة داخل التطبيق، ثم شاركها عبر الشبكة إلى جانب كل شيء آخر." icon="collection" >}}
 
-  {{< feature-card title="عمليات النقل في الخلفية" subtitle="تستمر عمليات التنزيل والرفع في العمل بينما تتنقل داخل التطبيق. افتح لوحة عمليات نقل الملفات لمتابعة التقدّم وإيقاف أي مهمة مؤقتاً أو استئنافها أو إعادة محاولتها أو إلغائها." icon="download" >}}
+  {{< ls-feature-card title="عمليات النقل في الخلفية" subtitle="تستمر عمليات التنزيل والرفع في العمل بينما تتنقل داخل التطبيق. افتح لوحة عمليات نقل الملفات لمتابعة التقدّم وإيقاف أي مهمة مؤقتاً أو استئنافها أو إعادة محاولتها أو إلغائها." icon="download" >}}
 
-  {{< feature-card title="حذف آمن مع سلة المهملات" subtitle="تذهب الملفات المحذوفة إلى سلة مهملات قابلة للاسترجاع، فيمكنك إعادتها إن غيّرت رأيك. وإذا أردت حذف الملفات نهائياً بدلاً من ذلك، فعّل حذف الملفات نهائيًا في الإعدادات." icon="trash" >}}
+  {{< ls-feature-card title="حذف آمن مع سلة المهملات" subtitle="تذهب الملفات المحذوفة إلى سلة مهملات قابلة للاسترجاع، فيمكنك إعادتها إن غيّرت رأيك. وإذا أردت حذف الملفات نهائياً بدلاً من ذلك، فعّل حذف الملفات نهائيًا في الإعدادات." icon="trash" >}}
 
 {{< /cards >}}
 
@@ -259,55 +259,55 @@ Everdisk تطبيق قرص لاسلكي لأجهزة iPhone وiPad من تطوي
 <div class="hx:mt-6"></div>
 
 <div class="hx:w-full">
-{{< appstore-reviews apps="6751851132" stars="5,4"  app="Everdisk" >}}
+{{< ls-appstore-reviews apps="6751851132" stars="5,4"  app="Everdisk" >}}
 </div>
 
 <div class="hx:mt-6"></div>
 -->
 
-{{< hextra/section-headline >}}
+{{< ls-section-headline >}}
   خطط الأسعار
-{{< /hextra/section-headline >}}
+{{< /ls-section-headline >}}
 
 <div class="hx:mt-6"></div>
 
 <div class="hx:w-full">
-{{< pricing-plans >}}
+{{< ls-pricing-plans >}}
 
 </div>
 
 <div class="hx:mt-6"></div>
 
 <div class="hx:w-full hx:mx-auto hx:flex hx:flex-col hx:items-center">
-  {{< hextra/info-paragraph border="true" >}}
+  {{< ls-info-paragraph border="true" >}}
    <strong>الأسعار</strong>: الأسعار معروضة بالدولار الأمريكي للولايات المتحدة. وقد يختلف السعر النهائي حسب منطقتك.  
-  {{< /hextra/info-paragraph >}}
+  {{< /ls-info-paragraph >}}
 </div>
 
 <div class="hx:mt-6"></div>
 
 <div class="hx:w-full">
-{{< app-details heading="true" >}}
+{{< ls-app-details heading="true" >}}
 </div>
 
 <div class="hx:mt-6"></div>
 
-{{< hextra/section-headline >}}
+{{< ls-section-headline >}}
   الأسئلة الشائعة
-{{< /hextra/section-headline >}}
+{{< /ls-section-headline >}}
 
 <div class="hx:mt-6"></div>
 
 <div class="hx:w-full">
-{{% details title="ما هو Everdisk؟" closed="true" %}}
+{{% ls-details title="ما هو Everdisk؟" closed="true" %}}
 يحوّل Everdisk جهاز iPhone أو iPad إلى قرص لاسلكي، وإلى مركز يتصل بأجهزتك الأخرى أيضاً.<br>
 يمكنك مشاركة ملفاتك وصورك وفيديوهاتك وموسيقاك مع أي شيء على شبكتك، وتصفح خوادم أخرى والبث منها، وإدارة كل شيء مباشرة على جهازك.<br>
 لا حسابات ولا سحابة ولا تطبيق إضافي لتثبيته على الطرف الآخر - ما عليك إلا الضغط على ابدأ فتصبح جاهزاً.<br><br>
 
 يشغّل التطبيق خمسة خوادم في الوقت نفسه، فيتصل كل جهاز بالطريقة التي تناسبه: أجهزة التلفاز الذكية عبر DLNA، والحواسيب ومتصفحات الويب عبر HTTP، وFinder وWindows وLinux عبر WebDAV، وقرص شبكي عبر SMB (مع تشفير اختياري)، وتطبيقات الملفات عبر FTP.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="كيف يعمل Everdisk؟" closed="true" %}}
+{{% ls-details title="كيف يعمل Everdisk؟" closed="true" %}}
 عندما تضغط ابدأ، يشرع Everdisk في مشاركة المحتوى الذي اخترته ويشغّل خمسة خوادم في آن واحد ليتصل كل جهاز بالطريقة التي يفضّلها.<br><br>
 
 - يتيح <strong>DLNA</strong> لأجهزة التلفاز الذكية ومشغّلات الوسائط العثور على صورك وفيديوهاتك وموسيقاك تلقائياً وعرضها مع صور مصغّرة للمعاينة.<br>
@@ -317,15 +317,15 @@ Everdisk تطبيق قرص لاسلكي لأجهزة iPhone وiPad من تطوي
 - يعمل <strong>FTP</strong> مع تطبيقات الملفات والمستخدمين المحترفين.<br><br>
 
 كما يتصل Everdisk في الاتجاه المعاكس بخوادم DLNA وWebDAV وFTP وSFTP وSMB على شبكتك - بما في ذلك أجهزة Mac وأجهزة Windows وأجهزة Linux وأقراص NAS - فتتصفح مجلداتها وتبثّ الصوت والفيديو وتنزّل الملفات أو تديرها حين يسمح الخادم بذلك. يبقى كل شيء على شبكتك المحلية ولا يمرّ عبر الإنترنت أبداً.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="هل Everdisk مجاني؟" closed="true" %}}
+{{% ls-details title="هل Everdisk مجاني؟" closed="true" %}}
 نعم. Everdisk متاح للتنزيل مجاناً، ويمكنك تحويل جهازك إلى قرص لاسلكي، ومشاركة ملفاتك بخمس طرق، والاتصال بخوادم أخرى، واستخدام مدير الملفات المدمج من دون أي تكلفة.<br><br>
 
 وهناك عملية شراء اختيارية لمرة واحدة باسم <strong>Premium Lifetime</strong> - دفعة واحدة من دون أي اشتراك - تفتح لك مجلدات مشتركة واتصالات محفوظة غير محدودة، وتحويل الصور &amp; الفيديو، وتشفير SMB3 (AES)، ومنافذ مخصصة، وبدء المشاركة تلقائياً، وتخصيص الجهاز. وهي مرتبطة بـ Apple ID الخاص بك، فيمكنك استخدام «استعادة المشتريات» لفتحها على أجهزتك الأخرى. وقد يختلف السعر حسب بلدك أو منطقتك.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="كيف أتصل من حاسوبي؟" closed="true" %}}
+{{% ls-details title="كيف أتصل من حاسوبي؟" closed="true" %}}
 يجعل Everdisk جهازك يظهر كقرص شبكي عادي عبر WebDAV.<br><br>
 
 - على جهاز <strong>Mac</strong>، افتح Finder واختر <em>الانتقال ← الاتصال بالخادم</em>، وأدخِل عنوان WebDAV الظاهر في التطبيق.<br>
@@ -333,39 +333,39 @@ Everdisk تطبيق قرص لاسلكي لأجهزة iPhone وiPad من تطوي
 - على <strong>Linux</strong>، اتصل بعنوان WebDAV من مدير الملفات لديك.<br><br>
 
 بمجرد الاتصال، يمكنك السحب والإفلات في الاتجاهين: انسخ الملفات من حاسوبك إلى جهازك، أو استرجعها منه. ويمكنك أيضاً فتح رابط HTTP في أي متصفح ويب إن كنت تفضّل عدم تركيب قرص.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="هل يمكنني استخدام SMB وتشفير الاتصال؟" closed="true" %}}
+{{% ls-details title="هل يمكنني استخدام SMB وتشفير الاتصال؟" closed="true" %}}
 نعم. إلى جانب WebDAV، يشارك Everdisk عبر <strong>SMB</strong> - وهو قرص شبكي لـ Mac وWindows وLinux (يظهر في التطبيق باسم اتصال <strong>كمبيوتر (متقدّم)</strong>). على جهاز Mac يظهر من تلقاء نفسه في الشريط الجانبي لـ Finder ضمن المواقع؛ وعلى Windows افتحه في مستكشف الملفات باستخدام عنوان <code>smb://</code> الظاهر في التطبيق.<br><br>
 
 كما أن SMB هو الاتصال الوحيد الذي يمكنك <strong>تشفيره</strong>. عيّن اسم دخول وكلمة مرور، ثم فعّل <strong>طلب تشفير SMB</strong> في الإعدادات لحماية كل عملية نقل بتشفير <strong>SMB3 (AES)</strong>، كي لا يتمكن أحد آخر على الشبكة نفسها من قراءة ملفاتك. لا يمكن أن تكون الاتصالات المشفّرة مجهولة، لذا يلزم اسم دخول وكلمة مرور، وتحتاج إلى عميل يدعم SMB3 - وهو Finder على جهاز Mac حديث، أو Windows 10 وما بعده.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="كيف أبثّ إلى تلفازي؟" closed="true" %}}
+{{% ls-details title="كيف أبثّ إلى تلفازي؟" closed="true" %}}
 تأكد من أن تلفازك أو مشغّل الوسائط لديك وجهازك على شبكة Wi-Fi نفسها، ثم اضغط ابدأ في Everdisk مع مشاركة صورك أو فيديوهاتك أو موسيقاك.<br><br>
 
 سيظهر جهازك من تلقاء نفسه في قائمة خوادم الوسائط على التلفاز، مع صور مصغّرة للمعاينة. افتحه على التلفاز واستمتع بمكتبتك على الشاشة الكبيرة - من دون أي كابلات ولا تطبيقات إضافية.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="كيف أفتح ملفاتي في متصفح ويب؟" closed="true" %}}
+{{% ls-details title="كيف أفتح ملفاتي في متصفح ويب؟" closed="true" %}}
 اضغط ابدأ فيمنحك Everdisk عنوان ويب بسيطاً لخادم HTTP.<br><br>
 
 شارك هذا الرابط مع أي شخص على الشبكة نفسها. يفتحه في أي متصفح ويب ليتصفح ملفاتك في شبكة أو قائمة أنيقة، ويشاهد الصور في معرض بملء الشاشة، ويشغّل الموسيقى في المشغّل المدمج، وينزّل أي شيء. لا شيء لتثبيته عنده، مما يجعله أسرع طريقة لتسليم الملفات إلى هاتف أو حاسوب آخر.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="هل يعمل Everdisk من دون Wi-Fi؟" closed="true" %}}
+{{% ls-details title="هل يعمل Everdisk من دون Wi-Fi؟" closed="true" %}}
 نعم. اربط جهازك بجهاز Mac بكابل USB نفسه الذي تشحن به، فتنتقل الملفات مباشرة عبر الكابل بسرعة تفوق Wi-Fi.<br><br>
 
 ولأنه لا يعتمد على شبكة لاسلكية، فإنه يظل يعمل على متن طائرة أو في فندق أو على أي شبكة مقفلة أو عامة تُحظر فيها المشاركة عبر Wi-Fi.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="بماذا يمكنني الاتصال عبر Everdisk؟" closed="true" %}}
+{{% ls-details title="بماذا يمكنني الاتصال عبر Everdisk؟" closed="true" %}}
 Everdisk أيضاً عميل للأجهزة الأخرى على شبكتك. يمكنك العثور على خوادم <strong>DLNA</strong> و<strong>WebDAV</strong> و<strong>FTP</strong> و<strong>SFTP</strong> و<strong>SMB</strong> والاتصال بها، بما في ذلك أجهزة Mac وأجهزة Windows وأجهزة Linux وأجهزة NAS وخوادم الوسائط.<br><br>
 
 بمجرد الاتصال، يمكنك تصفح مجلداتها، وبثّ الصوت والفيديو، وتنزيل الملفات، وإنشاء المجلدات والرفع وإعادة التسمية والنقل أو الحذف حين يسمح الخادم بذلك.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="هل يمكنني مسح المستندات والعمل على ملفات PDF؟" closed="true" %}}
+{{% ls-details title="هل يمكنني مسح المستندات والعمل على ملفات PDF؟" closed="true" %}}
 نعم. يستطيع Everdisk مسح المستندات الورقية بالكاميرا - يعثر على الحواف تلقائياً، ويعدّل استواء كل صفحة، ويحفظها كملف PDF متعدد الصفحات ونظيف مباشرة على جهازك.<br><br>
 
 يمكنك أيضاً فتح ملف PDF (أو صورة) و<strong>التعليق عليه</strong> مباشرة في العارض المدمج - ارسم وظلّل وأضف نصاً وأشكالاً وأضف توقيعاً بإصبعك - وتُحفظ تغييراتك مباشرة في الملف.<br><br>
@@ -377,74 +377,74 @@ Everdisk أيضاً عميل للأجهزة الأخرى على شبكتك. يم
 • <strong>الصلاحيات</strong> - راجع ما يسمح به ملف PDF (الطباعة والنسخ وغيرهما).<br>
 • <strong>تحرير البيانات الوصفية</strong> - غيّر أو امسح العنوان والمؤلف والكلمات المفتاحية وغيرها من معلومات المستند.<br>
 • <strong>تسطيح</strong> - ادمج التعليقات ومدخلات النماذج في الصفحة كي لا يمكن تغييرها.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="هل Everdisk خاص وآمن؟" closed="true" %}}
+{{% ls-details title="هل Everdisk خاص وآمن؟" closed="true" %}}
 يبقى كل شيء على شبكتك المحلية ولا يمرّ عبر الإنترنت أبداً، فلا تغادر ملفاتك المنزل. ولا حسابات ولا سحابة في المنتصف.<br><br>
 
 يمكنك حماية الوصول باسم دخول وكلمة مرور فتضطر الأجهزة المتصلة إلى إدخال البيانات نفسها قبل أن ترى ملفاتك، ويمكنك حظر أي جهاز على شبكتك بلمسة واحدة. وللحصول على أفضل خصوصية، فعّل المشاركة فقط أثناء اتصالك بشبكة Wi-Fi تعرفها وتثق بها.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="ماذا يمكنني أن أفعل بمدير الملفات؟" closed="true" %}}
+{{% ls-details title="ماذا يمكنني أن أفعل بمدير الملفات؟" closed="true" %}}
 يتضمن Everdisk مدير ملفات كاملاً لكل شيء على جهازك.<br><br>
 
 يمكنك التصفح في قائمة أو شبكة، وإنشاء المجلدات وإعادة التسمية والنقل والنسخ والضغط وفك الضغط والحذف. ويمكنك أيضاً ربط مجلدات من أي مكان على جهازك والعمل عليها مباشرة داخل التطبيق، ثم مشاركتها عبر الشبكة إلى جانب كل شيء آخر.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="هل يمكنني تشغيل الموسيقى داخل التطبيق؟" closed="true" %}}
+{{% ls-details title="هل يمكنني تشغيل الموسيقى داخل التطبيق؟" closed="true" %}}
 نعم. اضغط أي ملف صوتي فيُشغَّل في المشغّل المصغّر الذي يبقى أسفل الشاشة بينما تواصل التصفح.<br><br>
 
 يحتوي المشغّل المصغّر على قائمة انتظار كاملة مع الخلط والتكرار (إيقاف، الكل، أو واحد)، وأدوات تحكم على شاشة القفل ومفاتيح الوسائط تعرض العنوان والفنان والألبوم الحقيقية. اضغط أو اسحب للأعلى لفتح المشغّل الكامل، واسحب للأسفل لتصغيره بينما يستمر تشغيل الصوت. وضغط مقطع واحد في مجلد يشغّل المجلد كله كقائمة انتظار.<br><br>
 
 يُشغَّل الصوت من ملفاتك المحلية، والمجلدات المتصلة، ومكتبة الموسيقى لديك، والخوادم التي تتصل بها في علامة تبويب الأجهزة.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="هل يمكنني مشاهدة الفيديوهات في التطبيق؟" closed="true" %}}
+{{% ls-details title="هل يمكنني مشاهدة الفيديوهات في التطبيق؟" closed="true" %}}
 نعم. اضغط فيديو لتشغيله بملء الشاشة. يستخدم Everdisk مشغّل الفيديو المدمج في النظام، فتحصل على أدوات التحكم المألوفة، بما في ذلك AirPlay وPicture in Picture وسرعة التشغيل.<br><br>
 
 تُشغَّل الفيديوهات من ملفاتك المحلية والمجلدات المتصلة، أو تُبثّ مباشرة من جهاز تتصل به في علامة تبويب الأجهزة، فلا تضطر إلى تنزيل الملف كاملاً أولاً.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="كيف أعرض صوري؟" closed="true" %}}
+{{% ls-details title="كيف أعرض صوري؟" closed="true" %}}
 افتح علامة تبويب المستندات وانتقل إلى وضع الصور لتصفح صورك وفيديوهاتك. اضغط صورة لفتحها بملء الشاشة، حيث يمكنك التكبير والتنقل بين الصور بالسحب والمشاركة.<br><br>
 
 كما تعرض صورك صوراً مصغّرة حقيقية للمعاينة على التلفاز عبر DLNA وفي متصفح الويب، حيث تُفتح في معرض بملء الشاشة مع السحب والتكبير بالقرص وعرض شرائح. أما الصور والفيديوهات التي تحمل بيانات الموقع فتعرض خريطة عليها دبوس في شاشة معلوماتها.
-{{% /details %}}
+{{% /ls-details %}}
 
 </div>
 
 <div class="hx:mt-6"></div>
 
-{{< hextra/section-headline >}}
+{{< ls-section-headline >}}
   دليل المستخدم
-{{< /hextra/section-headline >}}
+{{< /ls-section-headline >}}
 
 <div class="hx:mt-6"></div>
 
 <div class="hx:w-full">
 
 <div class="hx:w-full hx:mx-auto hx:flex hx:flex-col hx:items-center hx:text-center">
-  {{< hextra/info-paragraph border="false" >}}
+  {{< ls-info-paragraph border="false" >}}
   سيساعدك هذا الدليل على الاستفادة القصوى من Everdisk على جهاز iPhone وiPad. تعلّم كيف تحوّل جهازك إلى قرص لاسلكي، وتوصله بتلفاز أو حاسوب أو متصفح، وتصل إلى خوادمك الخاصة، وتدير ملفاتك وتشغّلها، وتحافظ على خصوصية كل شيء على شبكتك المحلية.
-  {{< /hextra/info-paragraph >}}
+  {{< /ls-info-paragraph >}}
 </div>
 
 {{< cards >}}
-  {{< feature-card icon="play" title="المشاركة" subtitle="اضغط ابدأ، واختر ما تريد مشاركته، وشغّل الخوادم الخمسة في آن واحد." link="/docs/guide/everdisk/everdisk-guide-sharing" >}}
+  {{< ls-feature-card icon="play" title="المشاركة" subtitle="اضغط ابدأ، واختر ما تريد مشاركته، وشغّل الخوادم الخمسة في آن واحد." link="/docs/guide/everdisk/everdisk-guide-sharing" >}}
 
-  {{< feature-card icon="desktop-computer" title="وصّل أجهزتك" subtitle="كيف يتصل تلفاز أو جهاز Mac أو PC أو متصفح أو هاتف آخر أو كابل USB بملفاتك." link="/docs/guide/everdisk/everdisk-guide-connect" >}}
+  {{< ls-feature-card icon="desktop-computer" title="وصّل أجهزتك" subtitle="كيف يتصل تلفاز أو جهاز Mac أو PC أو متصفح أو هاتف آخر أو كابل USB بملفاتك." link="/docs/guide/everdisk/everdisk-guide-connect" >}}
 
-  {{< feature-card icon="server" title="الاتصال بالخوادم" subtitle="صِل إلى خوادم DLNA وWebDAV وFTP وSFTP وSMB وأقراص NAS للتصفح والبث والتنزيل." link="/docs/guide/everdisk/everdisk-guide-devices" >}}
+  {{< ls-feature-card icon="server" title="الاتصال بالخوادم" subtitle="صِل إلى خوادم DLNA وWebDAV وFTP وSFTP وSMB وأقراص NAS للتصفح والبث والتنزيل." link="/docs/guide/everdisk/everdisk-guide-devices" >}}
 
-  {{< feature-card icon="folder" title="الملفات والمستندات" subtitle="تصفّح ونظّم واضغط وفك الضغط، واربط المجلدات الخارجية، وامسح المستندات إلى PDF." link="/docs/guide/everdisk/everdisk-guide-files" >}}
+  {{< ls-feature-card icon="folder" title="الملفات والمستندات" subtitle="تصفّح ونظّم واضغط وفك الضغط، واربط المجلدات الخارجية، وامسح المستندات إلى PDF." link="/docs/guide/everdisk/everdisk-guide-files" >}}
 
-  {{< feature-card icon="music-note" title="الصور والموسيقى والفيديو" subtitle="شارك مكتبتك كاملة، وشغّل الصوت في المشغّل المصغّر، وشاهد الفيديو بملء الشاشة." link="/docs/guide/everdisk/everdisk-guide-media" >}}
+  {{< ls-feature-card icon="music-note" title="الصور والموسيقى والفيديو" subtitle="شارك مكتبتك كاملة، وشغّل الصوت في المشغّل المصغّر، وشاهد الفيديو بملء الشاشة." link="/docs/guide/everdisk/everdisk-guide-media" >}}
 
-  {{< feature-card icon="lock-closed" title="الوصول والخصوصية" subtitle="أضف كلمة مرور، وتحكم في التحرير، واحظر الأجهزة، وأبقِ كل شيء على شبكتك." link="/docs/guide/everdisk/everdisk-guide-access" >}}
+  {{< ls-feature-card icon="lock-closed" title="الوصول والخصوصية" subtitle="أضف كلمة مرور، وتحكم في التحرير، واحظر الأجهزة، وأبقِ كل شيء على شبكتك." link="/docs/guide/everdisk/everdisk-guide-access" >}}
 
-  {{< feature-card icon="adjustments" title="الإعدادات" subtitle="شرح لكل إعداد، من ملف الجهاز والمنافذ إلى الجودة والنقل." link="/docs/guide/everdisk/everdisk-guide-settings" >}}
+  {{< ls-feature-card icon="adjustments" title="الإعدادات" subtitle="شرح لكل إعداد، من ملف الجهاز والمنافذ إلى الجودة والنقل." link="/docs/guide/everdisk/everdisk-guide-settings" >}}
 
-  {{< feature-card icon="question-mark-circle" title="الأسئلة الشائعة" subtitle="إجابات سريعة عن الأسئلة الشائعة والسيناريوهات الواقعية." link="/docs/faq/everdisk" >}}
+  {{< ls-feature-card icon="question-mark-circle" title="الأسئلة الشائعة" subtitle="إجابات سريعة عن الأسئلة الشائعة والسيناريوهات الواقعية." link="/docs/faq/everdisk" >}}
 
 {{< /cards >}}
 

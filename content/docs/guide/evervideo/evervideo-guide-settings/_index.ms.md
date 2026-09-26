@@ -22,7 +22,7 @@ readingTime: 16
 Skrin Tetapan adalah pusat kawalan Evervideo. Dari sini anda boleh menaik taraf ke Premium, mengkonfigurasi enjin video dan audio (kodek sistem atau FFmpeg), mengurus Picture-in-Picture, menyediakan sarikata (utama, sekunder, libass, fail luaran, fon), mengatur perpustakaan media, menyediakan pengurus fail, mendayakan widget Skrin Utama, menyandarkan data anda, dan mengakses bantuan serta maklumat undang-undang. Bahagian dikelompokkan di bawah pengepala: Pembelian & Kemaskini, Keutamaan Aplikasi, Bantuan, Undang-undang & Privasi.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Skrin Utama Tetapan Evervideo" image="/docs/guide/evervideo/img/evervideo-settings.webp" >}}
+  {{< ls-card title="" subtitle="Skrin Utama Tetapan Evervideo" image="/docs/guide/evervideo/img/evervideo-settings.webp" >}}
 {{< /cards >}}
 
 ## Naik Taraf ke Premium
@@ -30,13 +30,13 @@ Skrin Tetapan adalah pusat kawalan Evervideo. Dari sini anda boleh menaik taraf 
 Naik taraf aplikasi ke versi Premium untuk menghapuskan semua had. Versi percuma aplikasi menawarkan pembelian dalam aplikasi seumur hidup sekali dan dua pilihan langganan (1 bulan dan 1 tahun) untuk menghapuskan semua sekatan dan menaik taraf ke Premium.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evervideo Naik Taraf ke Premium" image="/docs/guide/evervideo/img/evervideo-upgrade-to-premium.webp" >}}
+  {{< ls-card title="" subtitle="Evervideo Naik Taraf ke Premium" image="/docs/guide/evervideo/img/evervideo-upgrade-to-premium.webp" >}}
 {{< /cards >}}
 
 **Perkongsian Keluarga** didayakan untuk semua pembelian dan pelan, jadi anda boleh berkongsi versi Premium dengan sehingga lima ahli keluarga anda tanpa kos tambahan.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evervideo Pilih Pelan Premium" image="/docs/guide/evervideo/img/evervideo-select-premium-plan.webp" >}}
+  {{< ls-card title="" subtitle="Evervideo Pilih Pelan Premium" image="/docs/guide/evervideo/img/evervideo-select-premium-plan.webp" >}}
 {{< /cards >}}
 
 ## Berkongsi Pembelian Antara iOS dan Mac
@@ -50,7 +50,7 @@ Anda juga boleh mengetuk butang **Pulihkan Pembelian** dalam tetapan apl. Pastik
 Untuk memulihkan pembelian anda pada peranti baharu, gunakan menu **Pembelian → Pulihkan Pembelian**. Anda akan melihat senarai pembelian anda. Jika anda tidak melihat semua pembelian, sahkan peranti disambungkan ke Apple ID yang sama yang digunakan untuk membuat pembelian, dan pastikan iCloud didayakan.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Menu Pembelian Evervideo dalam Tetapan" image="/docs/guide/evervideo/img/evervideo-purhases-menu-in-settings.webp" >}}
+  {{< ls-card title="" subtitle="Menu Pembelian Evervideo dalam Tetapan" image="/docs/guide/evervideo/img/evervideo-purhases-menu-in-settings.webp" >}}
 {{< /cards >}}
 
 ## Cuba Premium Secara Percuma

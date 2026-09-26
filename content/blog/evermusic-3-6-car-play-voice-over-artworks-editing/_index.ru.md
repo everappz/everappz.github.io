@@ -12,7 +12,7 @@ authors:
     image: "/images/about/artem-meleshko-founder-everappz.webp"
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 **Кратко:** Evermusic 3.6 добавляет интеграцию с Apple CarPlay, полную доступность VoiceOver, смешанный аудиовыход, автоматическое возобновление воспроизведения, редактирование обложек и тегов для FLAC/MP3/AIFF, а также импорт файлов из iCloud Drive.
 
@@ -78,18 +78,18 @@ Evermusic автоматически сохраняет позицию прос�
 
 ## FAQ
 
-{{% details title="Работает ли Evermusic с CarPlay?" closed="true" %}}
+{{% ls-details title="Работает ли Evermusic с CarPlay?" closed="true" %}}
 Да. Начиная с версии 3.6, Evermusic полностью поддерживает Apple CarPlay. Вы можете просматривать и воспроизводить свою музыкальную библиотеку с встроенного дисплея автомобиля.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Доступен ли Evermusic для незрячих пользователей или пользователей с ослабленным зрением?" closed="true" %}}
+{{% ls-details title="Доступен ли Evermusic для незрячих пользователей или пользователей с ослабленным зрением?" closed="true" %}}
 Да. Evermusic 3.6 включает полную поддержку VoiceOver с описательными метками, подсказками и упрощённым режимом интерфейса.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Могу ли я редактировать теги FLAC на iPhone с помощью Evermusic?" closed="true" %}}
+{{% ls-details title="Могу ли я редактировать теги FLAC на iPhone с помощью Evermusic?" closed="true" %}}
 Да. Evermusic включает встроенный редактор тегов, который работает с файлами FLAC, MP3 и AIFF. Вы можете редактировать названия, исполнителей, альбомы и обложки.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Запоминает ли Evermusic, где я остановил прослушивание?" closed="true" %}}
+{{% ls-details title="Запоминает ли Evermusic, где я остановил прослушивание?" closed="true" %}}
 Да. Когда включена опция «Save Audio Player State», Evermusic восстанавливает очередь, текущий трек и точную позицию воспроизведения при повторном открытии приложения.
-{{% /details %}}
+{{% /ls-details %}}

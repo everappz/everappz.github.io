@@ -21,7 +21,7 @@ readingTime: 16
 La pantalla de Configuració és el centre de control de Flacbox. Des d'aquí pots actualitzar a Premium, configurar el motor d'àudio (còdecs del sistema o FFmpeg), gestionar la teva biblioteca de música, configurar el gestor de fitxers, personalitzar l'editor d'etiquetes d'àudio, activar widgets de la pantalla d'inici i Apple CarPlay, fer còpies de seguretat de les teves dades i accedir a l'ajuda i informació legal. Les seccions s'agrupen sota encapçalaments: Compres i actualitzacions, Preferències de l'app, Ajuda, i Legal i privadesa.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Pantalla principal de configuració de Flacbox" image="/docs/guide/flacbox/img/settings-main.webp" >}}
+  {{< ls-card title="" subtitle="Pantalla principal de configuració de Flacbox" image="/docs/guide/flacbox/img/settings-main.webp" >}}
 {{< /cards >}}
 
 ## Actualització a Premium
@@ -29,13 +29,13 @@ La pantalla de Configuració és el centre de control de Flacbox. Des d'aquí po
 Actualitza l'aplicació a la versió Premium per eliminar tots els límits. La versió gratuïta de l'aplicació ofereix una compra d'una sola vegada per tota la vida i dues opcions de subscripció (1 mes i 1 any) per eliminar totes les restriccions i actualitzar a Premium.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Actualització a Premium de Flacbox" image="/docs/guide/flacbox/img/upgrade-to-premium.webp" >}}
+  {{< ls-card title="" subtitle="Actualització a Premium de Flacbox" image="/docs/guide/flacbox/img/upgrade-to-premium.webp" >}}
 {{< /cards >}}
 
 La **Compartició familiar** està activada per a totes les compres i plans, de manera que pots compartir la versió Premium amb fins a cinc membres de la teva família sense cap cost addicional.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Selecciona un pla Premium de Flacbox" image="/docs/guide/flacbox/img/select-premium-plan.webp" >}}
+  {{< ls-card title="" subtitle="Selecciona un pla Premium de Flacbox" image="/docs/guide/flacbox/img/select-premium-plan.webp" >}}
 {{< /cards >}}
 
 Pots llegir més sobre les compres i la versió Premium aquí: [Quina és la diferència entre Flacbox i Flacbox Premium](/docs/faq/flacbox/what-is-the-difference-between-flacbox-and-flacbox-premium/).

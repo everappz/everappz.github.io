@@ -184,3 +184,5 @@ everdiskFeatAdvancedServerSettings: "詳細なサーバー設定"
 everdiskFeatSMB3Encryption: "SMB3暗号化"
 everdiskFeatAutomaticSharing: "自動共有"
 everdiskFeatDevicePersonalization: "デバイスのカスタマイズ"
+
+searchDocsPlaceholder: "ドキュメント、よくある質問、ガイドを検索…"

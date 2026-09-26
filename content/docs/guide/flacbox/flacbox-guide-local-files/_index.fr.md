@@ -19,7 +19,7 @@ La section Fichiers locaux sert de hub pour gérer les fichiers situés dans le 
 Ce gestionnaire de fichiers intégré vous permet de modifier des fichiers (renommer, déplacer, copier, téléverser, supprimer), de surveiller les transferts et propose plusieurs méthodes pour importer des fichiers audio dans l'application — téléchargements directs depuis le nuage, synchronisation en mode hors ligne, clés USB, Wi-Fi Drive et Finder File Sharing.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Écran Fichiers locaux de Flacbox" image="/docs/guide/flacbox/img/local-files.webp" >}}
+  {{< ls-card title="" subtitle="Écran Fichiers locaux de Flacbox" image="/docs/guide/flacbox/img/local-files.webp" >}}
 {{< /cards >}}
 
 ## Télécharger des fichiers depuis le stockage en nuage
@@ -102,7 +102,7 @@ Affiche les fichiers et dossiers stockés dans le répertoire Documents de l'app
 Affiche les fichiers situés sur votre appareil mais dans d'autres applications. Vous pouvez les importer dans cette application à l'aide du sélecteur de fichiers système. Pour activer le sélecteur, choisissez **Ouvrir des fichiers…** pour sélectionner des fichiers ou **Ouvrir des dossiers…** pour sélectionner des dossiers. Des instructions détaillées sur l'importation de musique locale stockée sur votre iPhone ou Mac sont disponibles [ici](/docs/howto/how-to-play-local-music-stored-on-your-iphone-or-mac).
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox — Dossiers de l'appareil connecté" image="/docs/guide/flacbox/img/connected-device-folders.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox — Dossiers de l'appareil connecté" image="/docs/guide/flacbox/img/connected-device-folders.webp" >}}
 {{< /cards >}}
 
 Vous pouvez également connecter un dossier situé sur votre appareil et avoir un accès rapide à son contenu. Utilisez l'élément de menu **Connecter un dossier** et choisissez un dossier situé sur votre appareil. Appuyez sur **Fait**, et l'application crée un lien vers ce dossier avec accès en lecture / écriture, vous permettant de gérer les fichiers directement depuis cette application. Pour déconnecter un dossier situé sur votre appareil, appuyez sur le bouton **Plus d'actions** et choisissez **Se déconnecter**.
@@ -137,7 +137,7 @@ Si vous devez modifier plusieurs fichiers, activez le mode de sélection en appu
 - **Supprimer** — supprimer le fichier ou le dossier sélectionné de l'appareil. **Cette action est irréversible.**
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox — Mode de sélection des fichiers locaux" image="/docs/guide/flacbox/img/local-files-selection-mode.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox — Mode de sélection des fichiers locaux" image="/docs/guide/flacbox/img/local-files-selection-mode.webp" >}}
 {{< /cards >}}
 
 ## Menu Options
@@ -161,7 +161,7 @@ Pour chaque fichier ou dossier de l'application, plusieurs actions sont disponib
 - **Supprimer** — supprimer le fichier ou le dossier de l'appareil. **Cette action est irréversible** et vous ne pouvez pas restaurer les fichiers supprimés.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox — Plus d'actions pour un fichier local" image="/docs/guide/flacbox/img/local-files-more-actions-for-file.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox — Plus d'actions pour un fichier local" image="/docs/guide/flacbox/img/local-files-more-actions-for-file.webp" >}}
 {{< /cards >}}
 
 ## Dossiers hors ligne

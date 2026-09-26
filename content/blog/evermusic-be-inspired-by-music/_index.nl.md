@@ -14,7 +14,7 @@ authors:
     image: "/images/about/artem-meleshko-founder-everappz.webp"
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 **Samenvatting:** Bekijk de officiële Evermusic-promotievideo om cloudmuziekstreaming, offline afspelen en audiocustomisatie in actie te zien op iPhone en Mac.
 
@@ -24,7 +24,7 @@ We zijn verheugd de officiële Evermusic-promotievideo te delen, gemaakt met pas
 
 Bekijk Evermusic in actie -- muziek streamen vanuit de cloud, afspeellijsten beheren en hoogwaardige audio leveren op iPhone:
 
-{{< youtubecard id="6mm3LVT4rtA" title="Evermusic Promo Video" >}}
+{{< ls-youtubecard id="6mm3LVT4rtA" title="Evermusic Promo Video" >}}
 
 ## Wat je in de video ziet
 
@@ -41,14 +41,14 @@ Als je de video leuk vindt, deel hem dan met je vrienden en medemuziekliefhebber
 
 ## FAQ
 
-{{% details title="Wat is Evermusic?" closed="true" %}}
+{{% ls-details title="Wat is Evermusic?" closed="true" %}}
 Evermusic is een muziekspeler voor iOS en macOS die audio streamt van clouddiensten zoals Dropbox, Google Drive, OneDrive en iCloud Drive. Het ondersteunt ook offline afspelen en bevat een ingebouwde equalizer.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Welke clouddiensten ondersteunt Evermusic?" closed="true" %}}
+{{% ls-details title="Welke clouddiensten ondersteunt Evermusic?" closed="true" %}}
 Evermusic verbindt met Dropbox, Google Drive, OneDrive, iCloud Drive, pCloud, Yandex.Disk en diverse andere cloudopslagproviders.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Is Evermusic gratis?" closed="true" %}}
+{{% ls-details title="Is Evermusic gratis?" closed="true" %}}
 Evermusic is gratis te downloaden met optionele premiumfuncties beschikbaar via in-app aankoop.
-{{% /details %}}
+{{% /ls-details %}}

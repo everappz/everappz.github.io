@@ -23,7 +23,7 @@ readingTime: 16
 หน้าจอการตั้งค่าคือศูนย์ควบคุมของ Evervideo จากที่นี่คุณสามารถอัปเกรดเป็น Premium กำหนดค่าเอนจิ้นวิดีโอและเสียง (คอร์เดกระบบหรือ FFmpeg) จัดการ Picture-in-Picture ตั้งค่าคำบรรยาย (หลัก รอง libass ไฟล์ภายนอก ฟอนต์) จัดระเบียบไลบรารีสื่อ ตั้งค่าตัวจัดการไฟล์ เปิดใช้งานวิดเจ็ตหน้าจอหลัก สำรองข้อมูล และเข้าถึงข้อมูลช่วยเหลือและกฎหมาย ส่วนต่างๆ ถูกจัดกลุ่มภายใต้หัวข้อ: การซื้อและการอัปเดต การตั้งค่าแอป ความช่วยเหลือ กฎหมายและความเป็นส่วนตัว
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="หน้าจอหลักการตั้งค่า Evervideo" image="/docs/guide/evervideo/img/evervideo-settings.webp" >}}
+  {{< ls-card title="" subtitle="หน้าจอหลักการตั้งค่า Evervideo" image="/docs/guide/evervideo/img/evervideo-settings.webp" >}}
 {{< /cards >}}
 
 ## อัปเกรดเป็น Premium
@@ -31,13 +31,13 @@ readingTime: 16
 อัปเกรดแอปพลิเคชันเป็นเวอร์ชัน Premium เพื่อลบข้อจำกัดทั้งหมด เวอร์ชันฟรีของแอปพลิเคชันมีการซื้อในแอปแบบครั้งเดียวตลอดชีพและตัวเลือกการสมัครสมาชิกสองแบบ (1 เดือนและ 1 ปี) เพื่อลบข้อจำกัดทั้งหมดและอัปเกรดเป็น Premium
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evervideo อัปเกรดเป็น Premium" image="/docs/guide/evervideo/img/evervideo-upgrade-to-premium.webp" >}}
+  {{< ls-card title="" subtitle="Evervideo อัปเกรดเป็น Premium" image="/docs/guide/evervideo/img/evervideo-upgrade-to-premium.webp" >}}
 {{< /cards >}}
 
 **การแชร์กับครอบครัว** เปิดใช้งานสำหรับการซื้อและแผนทั้งหมด ดังนั้นคุณสามารถแชร์เวอร์ชัน Premium กับสมาชิกในครอบครัวสูงสุดห้าคนโดยไม่มีค่าใช้จ่ายเพิ่มเติม
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evervideo เลือกแผน Premium" image="/docs/guide/evervideo/img/evervideo-select-premium-plan.webp" >}}
+  {{< ls-card title="" subtitle="Evervideo เลือกแผน Premium" image="/docs/guide/evervideo/img/evervideo-select-premium-plan.webp" >}}
 {{< /cards >}}
 
 ## การแชร์การซื้อระหว่าง iOS และ Mac
@@ -51,7 +51,7 @@ readingTime: 16
 หากต้องการกู้คืนการซื้อบนอุปกรณ์ใหม่ ให้ใช้เมนู **การซื้อ → กู้คืนการซื้อ** คุณจะเห็นรายการการซื้อของคุณ หากคุณไม่เห็นทั้งหมด ให้ยืนยันว่าอุปกรณ์เชื่อมต่อกับ Apple ID เดิมที่ใช้ซื้อ และตรวจสอบให้แน่ใจว่าเปิดใช้งาน iCloud แล้ว
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="เมนูการซื้อ Evervideo ในการตั้งค่า" image="/docs/guide/evervideo/img/evervideo-purhases-menu-in-settings.webp" >}}
+  {{< ls-card title="" subtitle="เมนูการซื้อ Evervideo ในการตั้งค่า" image="/docs/guide/evervideo/img/evervideo-purhases-menu-in-settings.webp" >}}
 {{< /cards >}}
 
 ## ลอง Premium ฟรี

@@ -14,7 +14,7 @@ authors:
     image: "/images/about/artem-meleshko-founder-everappz.webp"
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 ## Neden App Store Anahtar Kelimeleri İndirme Sayılarınızı Belirliyor
 
@@ -104,29 +104,29 @@ App Store Optimizasyonu pahalı araçlar gerektirmez. Akıllı planlama ve [AppK
 Araç açık kaynaklıdır. Hata raporları, özellik önerileri ve pull request'ler hoş karşılanır.
 
 {{< cards cols="1" >}}
-  {{< card link="https://github.com/everappz/app-store-keyword-optimizer/tree/main" title="GitHub'da appkeywords.pro" icon="github" tag= "open source" >}}
+  {{< ls-card link="https://github.com/everappz/app-store-keyword-optimizer/tree/main" title="GitHub'da appkeywords.pro" icon="github" tag= "open source" >}}
 {{< /cards >}}
 
 ---
 
 ## Sık Sorulan Sorular
 
-{{% details title="AppKeywords.pro gerçekten ücretsiz mi?" closed="true" %}}
+{{% ls-details title="AppKeywords.pro gerçekten ücretsiz mi?" closed="true" %}}
 Evet. Kayıt, reklam ve veri toplama olmayan tamamen açık kaynaklı, tarayıcı tabanlı bir araçtır. Metadata'nız cihazınızı asla terk etmez.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Bu araç birden fazla App Store yerelleştirmesi için çalışır mı?" closed="true" %}}
+{{% ls-details title="Bu araç birden fazla App Store yerelleştirmesi için çalışır mı?" closed="true" %}}
 Evet. Her bölge için bağımsız olarak metadata ekleyebilirsiniz ve dışa aktarma Fastlane ile uyumlu tek bir JSON dosyasında tüm dilleri içerir.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Başlık anahtar kelimelerimi anahtar kelime alanında tekrarlamalı mıyım?" closed="true" %}}
+{{% ls-details title="Başlık anahtar kelimelerimi anahtar kelime alanında tekrarlamalı mıyım?" closed="true" %}}
 Hayır. Apple zaten başlığınızdan ve alt başlığınızdan kelimeleri dizinler. Bunları anahtar kelime alanında tekrarlamak karakter israfıdır.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="App Store anahtar kelimelerimi ne sıklıkla güncellemeliyim?" closed="true" %}}
+{{% ls-details title="App Store anahtar kelimelerimi ne sıklıkla güncellemeliyim?" closed="true" %}}
 Anahtar kelimelerinizi en az üç ayda bir gözden geçirin ve yenileyin. Sıralama düşüşleri veya arama davranışındaki mevsimsel değişiklikler fark ederseniz daha erken ayarlayın.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Bu aracı Fastlane ile kullanabilir miyim?" closed="true" %}}
+{{% ls-details title="Bu aracı Fastlane ile kullanabilir miyim?" closed="true" %}}
 Evet. GitHub repo'su Fastlane'in metadata klasör yapısı ile AppKeywords.pro tarafından kullanılan JSON formatı arasında dönüştürme yapan shell betikleri içerir.
-{{% /details %}}
+{{% /ls-details %}}

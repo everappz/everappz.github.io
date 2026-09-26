@@ -7,7 +7,7 @@ tags: ["dlna", "kodi", "evermusic", "iphone", "streaming musik", "mac", "nas", "
 readingTime: 5
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **Ringkasan:** Instal Kodi di Mac, PC, Linux, atau NAS Anda, aktifkan server DLNA/UPnP, dan streaming seluruh perpustakaan musik Anda ke iPhone atau iPad menggunakan aplikasi gratis Evermusic atau Flacbox melalui Wi-Fi. Tidak perlu langganan.
@@ -32,43 +32,43 @@ Pertama, kunjungi situs web resmi Kodi:
 🔗 https://kodi.tv/
 
 {{< cards cols="1">}}
-{{< card subtitle="Halaman utama Kodi" image="/docs/howto/how_to_play_your_music_from_mac_pc_on_iphone_using_kodi_dlna_server/1_kodi_main_page.webp" >}}
+{{< ls-card subtitle="Halaman utama Kodi" image="/docs/howto/how_to_play_your_music_from_mac_pc_on_iphone_using_kodi_dlna_server/1_kodi_main_page.webp" >}}
 {{< /cards >}}
 
 Klik **Unduh** dan gulir untuk menemukan versi untuk komputer Anda. Pilih sistem operasi Anda. Dalam contoh ini, kami akan menggunakan **macOS**.
 
 {{< cards cols="1">}}
-{{< card subtitle="Halaman unduhan Kodi" image="/docs/howto/how_to_play_your_music_from_mac_pc_on_iphone_using_kodi_dlna_server/2_kodi_downloads_page.webp" >}}
+{{< ls-card subtitle="Halaman unduhan Kodi" image="/docs/howto/how_to_play_your_music_from_mac_pc_on_iphone_using_kodi_dlna_server/2_kodi_downloads_page.webp" >}}
 {{< /cards >}}
 
 Klik **Intel (x86/64)** jika Anda memiliki Mac Intel atau **Apple Silicon** untuk M1, M2, M3 Mac untuk memulai unduhan.
 
 {{< cards cols="1">}}
-{{< card subtitle="Pilih installer macOS" image="/docs/howto/how_to_play_your_music_from_mac_pc_on_iphone_using_kodi_dlna_server/3_kodi_macos_downloads.webp" >}}
+{{< ls-card subtitle="Pilih installer macOS" image="/docs/howto/how_to_play_your_music_from_mac_pc_on_iphone_using_kodi_dlna_server/3_kodi_macos_downloads.webp" >}}
 {{< /cards >}}
 
 Harap tunggu sebentar sementara installer diunduh.
 
 {{< cards cols="1">}}
-{{< card subtitle="Kodi terunduh" image="/docs/howto/how_to_play_your_music_from_mac_pc_on_iphone_using_kodi_dlna_server/4_kodi_downloaded.webp" >}}
+{{< ls-card subtitle="Kodi terunduh" image="/docs/howto/how_to_play_your_music_from_mac_pc_on_iphone_using_kodi_dlna_server/4_kodi_downloaded.webp" >}}
 {{< /cards >}}
 
 Setelah diunduh, temukan file `.dmg` di folder **Unduhan** Anda.
 
 {{< cards cols="1">}}
-{{< card subtitle="Instal Kodi" image="/docs/howto/how_to_play_your_music_from_mac_pc_on_iphone_using_kodi_dlna_server/5_kodi_installer_in_downloads_folder.webp" >}}
+{{< ls-card subtitle="Instal Kodi" image="/docs/howto/how_to_play_your_music_from_mac_pc_on_iphone_using_kodi_dlna_server/5_kodi_installer_in_downloads_folder.webp" >}}
 {{< /cards >}}
 
 Klik dua kali file yang diunduh untuk meluncurkan installer. Seret Kodi ke folder **Aplikasi** untuk menginstal.
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Instal Kodi dengan menyeretnya ke Aplikasi" image="/docs/howto/how_to_play_your_music_from_mac_pc_on_iphone_using_kodi_dlna_server/6_install_kodi_mac.webp" >}}
+{{< ls-card title="" subtitle="Instal Kodi dengan menyeretnya ke Aplikasi" image="/docs/howto/how_to_play_your_music_from_mac_pc_on_iphone_using_kodi_dlna_server/6_install_kodi_mac.webp" >}}
 {{< /cards >}}
 
 Luncurkan Kodi. Anda mungkin perlu mengizinkannya di **Preferensi Sistem → Keamanan & Privasi → Buka Tetap**.
 
 {{< cards cols="1">}}
-{{< card subtitle="Layar utama Kodi" image="/docs/howto/how_to_play_your_music_from_mac_pc_on_iphone_using_kodi_dlna_server/7_kodi_main_screen.webp" >}}
+{{< ls-card subtitle="Layar utama Kodi" image="/docs/howto/how_to_play_your_music_from_mac_pc_on_iphone_using_kodi_dlna_server/7_kodi_main_screen.webp" >}}
 {{< /cards >}}
 
 ## Tambahkan Musik ke Perpustakaan Kodi
@@ -76,43 +76,43 @@ Luncurkan Kodi. Anda mungkin perlu mengizinkannya di **Preferensi Sistem → Kea
 Klik **ikon roda gigi** (Pengaturan) dari layar beranda.
 
 {{< cards cols="1">}}
-{{< card subtitle="Pengaturan Kodi" image="/docs/howto/how_to_play_your_music_from_mac_pc_on_iphone_using_kodi_dlna_server/8_kodi_settings.webp" >}}
+{{< ls-card subtitle="Pengaturan Kodi" image="/docs/howto/how_to_play_your_music_from_mac_pc_on_iphone_using_kodi_dlna_server/8_kodi_settings.webp" >}}
 {{< /cards >}}
 
 Navigasi ke **Pengaturan Media → Perpustakaan**. Aktifkan **Perbarui perpustakaan saat startup** untuk perpustakaan video dan musik untuk pengindeksan otomatis.
 
 {{< cards cols="1">}}
-{{< card subtitle="Pengaturan perpustakaan" image="/docs/howto/how_to_play_your_music_from_mac_pc_on_iphone_using_kodi_dlna_server/9_kodi_library_settings.webp" >}}
+{{< ls-card subtitle="Pengaturan perpustakaan" image="/docs/howto/how_to_play_your_music_from_mac_pc_on_iphone_using_kodi_dlna_server/9_kodi_library_settings.webp" >}}
 {{< /cards >}}
 
 Lalu pergi ke bagian **Musik** dan klik **Tambah Musik**.
 
 {{< cards cols="1">}}
-{{< card subtitle="Tambah folder musik" image="/docs/howto/how_to_play_your_music_from_mac_pc_on_iphone_using_kodi_dlna_server/12_kodi_add_music_folder.webp" >}}
+{{< ls-card subtitle="Tambah folder musik" image="/docs/howto/how_to_play_your_music_from_mac_pc_on_iphone_using_kodi_dlna_server/12_kodi_add_music_folder.webp" >}}
 {{< /cards >}}
 
 Jelajahi dan pilih folder tempat musik Anda disimpan.
 
 {{< cards cols="1">}}
-{{< card subtitle="Pilih sumber musik" image="/docs/howto/how_to_play_your_music_from_mac_pc_on_iphone_using_kodi_dlna_server/13_kodi_add_music_source.webp" >}}
+{{< ls-card subtitle="Pilih sumber musik" image="/docs/howto/how_to_play_your_music_from_mac_pc_on_iphone_using_kodi_dlna_server/13_kodi_add_music_source.webp" >}}
 {{< /cards >}}
 
 Tambahkan sumber musik ke Kodi.
 
 {{< cards cols="1">}}
-{{< card subtitle="Tambah sumber musik" image="/docs/howto/how_to_play_your_music_from_mac_pc_on_iphone_using_kodi_dlna_server/14_kodi_music_source_added.webp" >}}
+{{< ls-card subtitle="Tambah sumber musik" image="/docs/howto/how_to_play_your_music_from_mac_pc_on_iphone_using_kodi_dlna_server/14_kodi_music_source_added.webp" >}}
 {{< /cards >}}
 
 Konfirmasi dan biarkan Kodi memindai perpustakaan musik Anda.
 
 {{< cards cols="1">}}
-{{< card subtitle="Konfirmasi sumber musik" image="/docs/howto/how_to_play_your_music_from_mac_pc_on_iphone_using_kodi_dlna_server/15_kodi_add_media_to_library_confirmation.webp" >}}
+{{< ls-card subtitle="Konfirmasi sumber musik" image="/docs/howto/how_to_play_your_music_from_mac_pc_on_iphone_using_kodi_dlna_server/15_kodi_add_media_to_library_confirmation.webp" >}}
 {{< /cards >}}
 
 Tunggu sebentar sementara perpustakaan Anda dipindai dan dibangun sepenuhnya.
 
 {{< cards cols="1">}}
-{{< card subtitle="Memindai perpustakaan musik" image="/docs/howto/how_to_play_your_music_from_mac_pc_on_iphone_using_kodi_dlna_server/16_kodi_scanning_library.webp" >}}
+{{< ls-card subtitle="Memindai perpustakaan musik" image="/docs/howto/how_to_play_your_music_from_mac_pc_on_iphone_using_kodi_dlna_server/16_kodi_scanning_library.webp" >}}
 {{< /cards >}}
 
 ## Aktifkan Server DLNA Kodi
@@ -124,7 +124,7 @@ Aktifkan opsi: **Bagikan perpustakaan saya**.
 Kodi sekarang bertindak sebagai server DLNA di jaringan Wi-Fi lokal Anda.
 
 {{< cards cols="1">}}
-{{< card subtitle="Aktifkan DLNA di Kodi" image="/docs/howto/how_to_play_your_music_from_mac_pc_on_iphone_using_kodi_dlna_server/21_kodi_enable_dlna_server.webp" >}}
+{{< ls-card subtitle="Aktifkan DLNA di Kodi" image="/docs/howto/how_to_play_your_music_from_mac_pc_on_iphone_using_kodi_dlna_server/21_kodi_enable_dlna_server.webp" >}}
 {{< /cards >}}
 
 ## Buka Perpustakaan Kodi
@@ -132,7 +132,7 @@ Kodi sekarang bertindak sebagai server DLNA di jaringan Wi-Fi lokal Anda.
 Klik kanan untuk menutup jendela pengaturan dan membuka perpustakaan utama Kodi.
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Klik kanan untuk mengakses perpustakaan Kodi" image="/docs/howto/how_to_play_your_music_from_mac_pc_on_iphone_using_kodi_dlna_server/17_right_mouse_click_move_to_settings_and_main_library_showing_music.webp" >}}
+{{< ls-card title="" subtitle="Klik kanan untuk mengakses perpustakaan Kodi" image="/docs/howto/how_to_play_your_music_from_mac_pc_on_iphone_using_kodi_dlna_server/17_right_mouse_click_move_to_settings_and_main_library_showing_music.webp" >}}
 {{< /cards >}}
 
 ## Unduh Aplikasi Streaming Musik untuk iOS
@@ -145,8 +145,8 @@ Dapatkan aplikasi klien DLNA gratis untuk iOS yang memungkinkan Anda streaming m
 Kedua aplikasi tersedia untuk **iOS** dan **macOS**, dan gratis untuk digunakan.
 
 {{< cards cols="1">}}
-{{< card link="https://apps.apple.com/app/apple-store/id885367198?pt=95781850&ct=everappzcom&mt=8" title="Unduh Evermusic" icon="download" tag="Free" >}}
-{{< card link="https://apps.apple.com/app/apple-store/id1097564256?pt=95781850&ct=everappzcom&mt=8" title="Unduh Flacbox" icon="download" tag="Free" >}}
+{{< ls-card link="https://apps.apple.com/app/apple-store/id885367198?pt=95781850&ct=everappzcom&mt=8" title="Unduh Evermusic" icon="download" tag="Free" >}}
+{{< ls-card link="https://apps.apple.com/app/apple-store/id1097564256?pt=95781850&ct=everappzcom&mt=8" title="Unduh Flacbox" icon="download" tag="Free" >}}
 {{< /cards >}}
 
 ## Tambahkan Sumber DLNA
@@ -154,31 +154,31 @@ Kedua aplikasi tersedia untuk **iOS** dan **macOS**, dan gratis untuk digunakan.
 Setelah mengunduh aplikasi iOS, buka bagian **Semua Koneksi**.
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Sidebar utama aplikasi Evermusic" image="/docs/howto/how_to_play_your_music_from_mac_pc_on_iphone_using_kodi_dlna_server/18_evermusic_app_main_sidebar.webp" >}}
+{{< ls-card title="" subtitle="Sidebar utama aplikasi Evermusic" image="/docs/howto/how_to_play_your_music_from_mac_pc_on_iphone_using_kodi_dlna_server/18_evermusic_app_main_sidebar.webp" >}}
 {{< /cards >}}
 
 Gulir ke bawah dan ketuk **Jaringan Lokal - Perangkat yang Tersedia** untuk menemukan server DLNA. Di bagian ini, Anda akan melihat semua perangkat yang tersedia di jaringan lokal Anda. **Server Kodi DLNA** Anda seharusnya muncul di sini. Ketuk server Kodi untuk terhubung.
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Perangkat DLNA tersedia di Evermusic" image="/docs/howto/how_to_play_your_music_from_mac_pc_on_iphone_using_kodi_dlna_server/19_evermusic_app_available_devices.webp" >}}
+{{< ls-card title="" subtitle="Perangkat DLNA tersedia di Evermusic" image="/docs/howto/how_to_play_your_music_from_mac_pc_on_iphone_using_kodi_dlna_server/19_evermusic_app_available_devices.webp" >}}
 {{< /cards >}}
 
 Evermusic akan menampilkan folder perpustakaan yang dibagikan melalui Kodi.
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Perpustakaan musik Kodi di Evermusic" image="/docs/howto/how_to_play_your_music_from_mac_pc_on_iphone_using_kodi_dlna_server/22_evermusic_app_kodi_dlna_music_library.webp" >}}
+{{< ls-card title="" subtitle="Perpustakaan musik Kodi di Evermusic" image="/docs/howto/how_to_play_your_music_from_mac_pc_on_iphone_using_kodi_dlna_server/22_evermusic_app_kodi_dlna_music_library.webp" >}}
 {{< /cards >}}
 
 Navigasi ke folder **Lagu** untuk melihat semua file audio yang tersedia di server DLNA Anda.
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Lagu yang terdaftar dari folder jarak jauh" image="/docs/howto/how_to_play_your_music_from_mac_pc_on_iphone_using_kodi_dlna_server/23_evermusic_app_songs_on_remote_folder.webp" >}}
+{{< ls-card title="" subtitle="Lagu yang terdaftar dari folder jarak jauh" image="/docs/howto/how_to_play_your_music_from_mac_pc_on_iphone_using_kodi_dlna_server/23_evermusic_app_songs_on_remote_folder.webp" >}}
 {{< /cards >}}
 
 Ketuk file audio apa pun untuk mulai streaming secara instan.
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="File MP3 diputar di Evermusic" image="/docs/howto/how_to_play_your_music_from_mac_pc_on_iphone_using_kodi_dlna_server/24_evermusic_app_playing_mp3.webp" >}}
+{{< ls-card title="" subtitle="File MP3 diputar di Evermusic" image="/docs/howto/how_to_play_your_music_from_mac_pc_on_iphone_using_kodi_dlna_server/24_evermusic_app_playing_mp3.webp" >}}
 {{< /cards >}}
 
 Kembali ke bagian **Koneksi**. Server DLNA yang ditambahkan sekarang akan muncul di sini. Ketuk ikonnya untuk terhubung kembali kapan saja. Anda juga dapat menghubungkan layanan cloud lainnya dari layar ini menggunakan langkah yang sama.
@@ -186,7 +186,7 @@ Kembali ke bagian **Koneksi**. Server DLNA yang ditambahkan sekarang akan muncul
 Anda juga dapat mengaktifkan **scrobbling Last.fm** di sini. Statistik pemutaran akan disimpan ke akun Last.fm Anda, memberikan rekomendasi musik yang dipersonalisasi nanti.
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Koneksi di Evermusic" image="/docs/howto/how_to_play_your_music_from_mac_pc_on_iphone_using_kodi_dlna_server/25_evermusic_app_connections_with_dlna.webp" >}}
+{{< ls-card title="" subtitle="Koneksi di Evermusic" image="/docs/howto/how_to_play_your_music_from_mac_pc_on_iphone_using_kodi_dlna_server/25_evermusic_app_connections_with_dlna.webp" >}}
 {{< /cards >}}
 
 ## Bangun Perpustakaan Musik
@@ -196,31 +196,31 @@ Baik **Evermusic** maupun **Flacbox** memungkinkan Anda menambahkan musik ke per
 Untuk memulai, buka bagian **Perpustakaan Musik**. Gulir ke bawah ke **Alat dan Preferensi** dan ketuk **Tambah Musik**.
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Perpustakaan musik Evermusic" image="/docs/howto/how_to_play_your_music_from_mac_pc_on_iphone_using_kodi_dlna_server/26_evermusic_library_music.webp" >}}
+{{< ls-card title="" subtitle="Perpustakaan musik Evermusic" image="/docs/howto/how_to_play_your_music_from_mac_pc_on_iphone_using_kodi_dlna_server/26_evermusic_library_music.webp" >}}
 {{< /cards >}}
 
 Pilih sumber musik — dalam hal ini, pilih **Koneksi**.
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Tambah musik baru di Evermusic" image="/docs/howto/how_to_play_your_music_from_mac_pc_on_iphone_using_kodi_dlna_server/27_evermusic_add_music.webp" >}}
+{{< ls-card title="" subtitle="Tambah musik baru di Evermusic" image="/docs/howto/how_to_play_your_music_from_mac_pc_on_iphone_using_kodi_dlna_server/27_evermusic_add_music.webp" >}}
 {{< /cards >}}
 
 Temukan **server Kodi DLNA** di Koneksi dan ketuk untuk melihat folder dan file.
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Pilih server DLNA untuk mengimpor musik" image="/docs/howto/how_to_play_your_music_from_mac_pc_on_iphone_using_kodi_dlna_server/28_evermusic_select_dlna_server.webp" >}}
+{{< ls-card title="" subtitle="Pilih server DLNA untuk mengimpor musik" image="/docs/howto/how_to_play_your_music_from_mac_pc_on_iphone_using_kodi_dlna_server/28_evermusic_select_dlna_server.webp" >}}
 {{< /cards >}}
 
 Pilih folder atau file yang ingin Anda tambahkan dan ketuk **Selesai**.
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Pilih folder musik untuk ditambahkan" image="/docs/howto/how_to_play_your_music_from_mac_pc_on_iphone_using_kodi_dlna_server/29_evermusic_select_music_folder.webp" >}}
+{{< ls-card title="" subtitle="Pilih folder musik untuk ditambahkan" image="/docs/howto/how_to_play_your_music_from_mac_pc_on_iphone_using_kodi_dlna_server/29_evermusic_select_music_folder.webp" >}}
 {{< /cards >}}
 
 Aplikasi akan memindai file yang dipilih dan mengaturnya menggunakan metadata ke dalam bagian seperti Artis, Album, Genre, dan Komposer.
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Perpustakaan musik dengan kategori" image="/docs/howto/how_to_play_your_music_from_mac_pc_on_iphone_using_kodi_dlna_server/30_evermusic_library_with_categories.webp" >}}
+{{< ls-card title="" subtitle="Perpustakaan musik dengan kategori" image="/docs/howto/how_to_play_your_music_from_mac_pc_on_iphone_using_kodi_dlna_server/30_evermusic_library_with_categories.webp" >}}
 {{< /cards >}}
 
 ## Buat Daftar Putar
@@ -230,43 +230,43 @@ Anda juga dapat membuat daftar putar sendiri.
 Pertama, buka tab **Daftar Putar**.
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Tab Daftar Putar di Evermusic" image="/docs/howto/how_to_play_your_music_from_mac_pc_on_iphone_using_kodi_dlna_server/31_evermusic_playlists_tab.webp" >}}
+{{< ls-card title="" subtitle="Tab Daftar Putar di Evermusic" image="/docs/howto/how_to_play_your_music_from_mac_pc_on_iphone_using_kodi_dlna_server/31_evermusic_playlists_tab.webp" >}}
 {{< /cards >}}
 
 Ketuk tombol **plus (+)** dan pilih **Daftar Putar Baru**.
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Buat daftar putar baru" image="/docs/howto/how_to_play_your_music_from_mac_pc_on_iphone_using_kodi_dlna_server/32_evermusic_create_playlist.webp" >}}
+{{< ls-card title="" subtitle="Buat daftar putar baru" image="/docs/howto/how_to_play_your_music_from_mac_pc_on_iphone_using_kodi_dlna_server/32_evermusic_create_playlist.webp" >}}
 {{< /cards >}}
 
 Masukkan nama untuk daftar putar Anda dan ketuk **Simpan**.
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Masukkan nama daftar putar" image="/docs/howto/how_to_play_your_music_from_mac_pc_on_iphone_using_kodi_dlna_server/33_evermusic_enter_playlist_name.webp" >}}
+{{< ls-card title="" subtitle="Masukkan nama daftar putar" image="/docs/howto/how_to_play_your_music_from_mac_pc_on_iphone_using_kodi_dlna_server/33_evermusic_enter_playlist_name.webp" >}}
 {{< /cards >}}
 
 Selanjutnya, pilih sumber untuk menambahkan lagu — di sini, kami memilih **Perpustakaan**.
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Tambahkan lagu ke daftar putar baru" image="/docs/howto/how_to_play_your_music_from_mac_pc_on_iphone_using_kodi_dlna_server/34_evermusic_add_songs_to_playlist.webp" >}}
+{{< ls-card title="" subtitle="Tambahkan lagu ke daftar putar baru" image="/docs/howto/how_to_play_your_music_from_mac_pc_on_iphone_using_kodi_dlna_server/34_evermusic_add_songs_to_playlist.webp" >}}
 {{< /cards >}}
 
 Pilih lagu yang Anda inginkan dan ketuk **Selesai** untuk menambahkannya.
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Tambah musik dari perpustakaan ke daftar putar" image="/docs/howto/how_to_play_your_music_from_mac_pc_on_iphone_using_kodi_dlna_server/35_evermusic_add_songs_from_library_to_playlist.webp" >}}
+{{< ls-card title="" subtitle="Tambah musik dari perpustakaan ke daftar putar" image="/docs/howto/how_to_play_your_music_from_mac_pc_on_iphone_using_kodi_dlna_server/35_evermusic_add_songs_from_library_to_playlist.webp" >}}
 {{< /cards >}}
 
 Trek yang dipilih sekarang akan muncul di daftar putar yang dibuat.
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Daftar putar yang dibuat ditampilkan dalam daftar" image="/docs/howto/how_to_play_your_music_from_mac_pc_on_iphone_using_kodi_dlna_server/36_evermusic_created_playlist.webp" >}}
+{{< ls-card title="" subtitle="Daftar putar yang dibuat ditampilkan dalam daftar" image="/docs/howto/how_to_play_your_music_from_mac_pc_on_iphone_using_kodi_dlna_server/36_evermusic_created_playlist.webp" >}}
 {{< /cards >}}
 
 Secara default, lagu tersedia untuk streaming. Untuk mendengarkan offline, aktifkan **Mode Offline** — aplikasi akan mengunduh semua trek daftar putar.
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Mode offline diaktifkan untuk daftar putar" image="/docs/howto/how_to_play_your_music_from_mac_pc_on_iphone_using_kodi_dlna_server/37_evermusic_offline_mode_enabled_playlist.webp" >}}
+{{< ls-card title="" subtitle="Mode offline diaktifkan untuk daftar putar" image="/docs/howto/how_to_play_your_music_from_mac_pc_on_iphone_using_kodi_dlna_server/37_evermusic_offline_mode_enabled_playlist.webp" >}}
 {{< /cards >}}
 
 Ketuk tombol **Lebih banyak tindakan** untuk menjelajahi opsi tambahan. Anda dapat:
@@ -277,7 +277,7 @@ Ketuk tombol **Lebih banyak tindakan** untuk menjelajahi opsi tambahan. Anda dap
 - Dan fitur berguna lainnya
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Lebih banyak tindakan daftar putar tersedia" image="/docs/howto/how_to_play_your_music_from_mac_pc_on_iphone_using_kodi_dlna_server/38_evermusic_more_actions_for_playlist.webp" >}}
+{{< ls-card title="" subtitle="Lebih banyak tindakan daftar putar tersedia" image="/docs/howto/how_to_play_your_music_from_mac_pc_on_iphone_using_kodi_dlna_server/38_evermusic_more_actions_for_playlist.webp" >}}
 {{< /cards >}}
 
 
@@ -295,34 +295,34 @@ Dengan **Evermusic** dan **Flacbox**, mengubah iPhone, iPad, atau Mac Anda menja
 Baik Anda seorang audiofil atau pendengar kasual, Evermusic dan Flacbox menawarkan semua yang Anda butuhkan untuk streaming dan pengaturan musik yang mulus.
 
 {{< cards cols="1">}}
-{{< card link="https://apps.apple.com/app/apple-store/id885367198?pt=95781850&ct=everappzcom&mt=8" title="Unduh Evermusic" icon="download" tag="Free" >}}
-{{< card link="https://apps.apple.com/app/apple-store/id1097564256?pt=95781850&ct=everappzcom&mt=8" title="Unduh Flacbox" icon="download" tag="Free" >}}
+{{< ls-card link="https://apps.apple.com/app/apple-store/id885367198?pt=95781850&ct=everappzcom&mt=8" title="Unduh Evermusic" icon="download" tag="Free" >}}
+{{< ls-card link="https://apps.apple.com/app/apple-store/id1097564256?pt=95781850&ct=everappzcom&mt=8" title="Unduh Flacbox" icon="download" tag="Free" >}}
 {{< /cards >}}
 
 Mulai bangun pengalaman musik pribadi Anda hari ini.
 
 ## FAQ
 
-{{% details title="Apakah Kodi gratis untuk digunakan sebagai server DLNA?" closed="true" %}}
+{{% ls-details title="Apakah Kodi gratis untuk digunakan sebagai server DLNA?" closed="true" %}}
 Ya. Kodi sepenuhnya gratis dan open-source. Berjalan di macOS, Windows, Linux, dan banyak perangkat NAS.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Apakah Evermusic dan Flacbox mendukung streaming FLAC melalui DLNA?" closed="true" %}}
+{{% ls-details title="Apakah Evermusic dan Flacbox mendukung streaming FLAC melalui DLNA?" closed="true" %}}
 Ya. Flacbox dioptimalkan untuk format hi-res seperti FLAC, ALAC, dan DSD. Evermusic juga mendukung pemutaran FLAC bersama MP3 dan format standar lainnya.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Bisakah saya mendengarkan offline setelah streaming dari Kodi?" closed="true" %}}
+{{% ls-details title="Bisakah saya mendengarkan offline setelah streaming dari Kodi?" closed="true" %}}
 Ya. Aktifkan Mode Offline pada daftar putar apa pun, dan aplikasi akan mengunduh semua trek ke perangkat Anda untuk mendengarkan tanpa koneksi jaringan.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Apakah saya memerlukan langganan premium untuk menggunakan DLNA?" closed="true" %}}
+{{% ls-details title="Apakah saya memerlukan langganan premium untuk menggunakan DLNA?" closed="true" %}}
 Versi gratis mendukung hingga 3 koneksi cloud atau jaringan. Premium menghapus batasan ini dan memungkinkan Anda menghubungkan layanan dan server DLNA tak terbatas.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Apakah iPhone saya harus berada di jaringan Wi-Fi yang sama dengan Kodi?" closed="true" %}}
+{{% ls-details title="Apakah iPhone saya harus berada di jaringan Wi-Fi yang sama dengan Kodi?" closed="true" %}}
 Ya. Streaming DLNA bekerja melalui jaringan lokal Anda. Baik server Kodi maupun perangkat iOS Anda harus terhubung ke jaringan Wi-Fi yang sama.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Bisakah saya menggunakan pengaturan ini dengan NAS alih-alih Mac atau PC?" closed="true" %}}
+{{% ls-details title="Bisakah saya menggunakan pengaturan ini dengan NAS alih-alih Mac atau PC?" closed="true" %}}
 Ya. Banyak perangkat NAS (Synology, QNAP, dll.) mendukung Kodi atau memiliki server DLNA bawaan sendiri. Evermusic dan Flacbox dapat terhubung ke server DLNA/UPnP standar apa pun.
-{{% /details %}}
+{{% /ls-details %}}

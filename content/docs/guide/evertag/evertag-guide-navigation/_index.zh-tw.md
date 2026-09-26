@@ -16,7 +16,7 @@ readingTime: 3
 Evertag 擁有直觀的使用者介面。它與許多熱門應用程式的不同之處在於內建檔案管理器，使使用者能夠編輯音訊檔案並與雲端儲存之間無縫傳輸。
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evertag Screen" image="/docs/guide/evertag/img/tag-editor.webp" >}}
+  {{< ls-card title="" subtitle="Evertag Screen" image="/docs/guide/evertag/img/tag-editor.webp" >}}
 {{< /cards >}}
 
 ## 各部分
@@ -42,7 +42,7 @@ Evertag 擁有直觀的使用者介面。它與許多熱門應用程式的不同
 畫面上幾乎每個內容項目都有「更多操作」按鈕。點選它可存取所有可用操作。
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evertag More Actions" image="/docs/guide/evertag/img/downloads-file-actions.webp" >}}
+  {{< ls-card title="" subtitle="Evertag More Actions" image="/docs/guide/evertag/img/downloads-file-actions.webp" >}}
 {{< /cards >}}
 
 ## 頂部工具列

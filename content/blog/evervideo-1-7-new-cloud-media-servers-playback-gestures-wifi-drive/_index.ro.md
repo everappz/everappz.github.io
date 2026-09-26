@@ -12,7 +12,7 @@ authors:
     image: "/images/about/artem-meleshko-founder-everappz.webp"
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 **Pe scurt:** [Evervideo 1.7](/products/evervideo) este o actualizare majoră pentru playerul video HD pentru iPhone, iPad și Mac. Versiunea adaugă peste 10 conexiuni noi de cloud, NAS și servere media — **Internxt**, **Proton Drive**, **QNAP**, **Nextcloud**, **Amazon S3**, plus cele mai populare servere media **Plex**, **Subsonic**, **Navidrome**, **Jellyfin** și **Emby**, și trei protocoale de rețea: **FTP**, **SFTP** și **NFS**. Noile **gesturi de redare** vă permit să atingeți de două ori pentru a sări înainte sau înapoi, să atingeți și să țineți pentru a rula la 2x și să atingeți o dată pentru a comuta controalele — totul fără a părăsi modul ecran complet. Wi-Fi Drive primește o UI reîmprospătată cu mod de selecție și o coadă de încărcare mai inteligentă. Întreaga aplicație este ajustată pentru noul design **Liquid Glass** de la Apple.
 
@@ -147,58 +147,58 @@ Dacă îți place aplicația, te rugăm să lași o evaluare în App Store — a
 
 ## Întrebări frecvente
 
-{{% details title="Ce este nou în Evervideo 1.7?" closed="true" %}}
+{{% ls-details title="Ce este nou în Evervideo 1.7?" closed="true" %}}
 Evervideo 1.7 introduce suport pentru peste 10 conexiuni noi (Plex, Jellyfin, Emby, Subsonic, Navidrome, Internxt, Proton Drive, QNAP, Nextcloud, Amazon S3, FTP, SFTP, NFS), gesturi noi de redare (dublu tap pentru derulare, atinge și ține pentru viteză 2x, tap unic pentru comutarea controalelor), un Wi-Fi Drive reproiectat cu mod de selecție și o coadă de încărcare mai inteligentă, actualizări de design Liquid Glass, biblioteci de conexiune actualizate și multe remedieri de erori.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Evervideo funcționează cu Plex?" closed="true" %}}
+{{% ls-details title="Evervideo funcționează cu Plex?" closed="true" %}}
 Da. Începând cu Evervideo 1.7, te poți conecta la un Plex Media Server și transmite întreaga ta bibliotecă video — filme, seriale TV și video-uri de acasă. Plex Media Server este gratuit de rulat; Plex Pass este opțional. Evervideo suportă atât configurări gratuite, cât și Plex Pass, inclusiv redare directă a MKV, MP4, AVI, MOV și a altor formate fără re-codificare.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Jellyfin sau Navidrome sunt suportate în Evervideo?" closed="true" %}}
+{{% ls-details title="Jellyfin sau Navidrome sunt suportate în Evervideo?" closed="true" %}}
 Da. Atât Jellyfin, cât și Navidrome sunt complet suportate în Evervideo 1.7. Jellyfin este un server media gratuit, open-source, care gestionează video și audio. Navidrome este un server gratuit, open-source, care implementează API-ul Subsonic. Evervideo se conectează la ambele nativ.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Plex, Jellyfin, Emby, Navidrome și Subsonic sunt gratuite?" closed="true" %}}
+{{% ls-details title="Plex, Jellyfin, Emby, Navidrome și Subsonic sunt gratuite?" closed="true" %}}
 - **Plex** — serverul este gratuit; Plex Pass este un upgrade plătit opțional.
 - **Jellyfin** — complet gratuit și open-source.
 - **Emby** — serverul este gratuit; Emby Premiere este plătit și deblochează sincronizarea mobilă și offline.
 - **Navidrome** — complet gratuit și open-source.
 - **Subsonic** — serverul oficial costă 1 USD/lună după o perioadă de încercare de 30 de zile, dar API-ul său este deschis și multe servere gratuite (inclusiv Navidrome) îl implementează.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Pot transmite de pe NAS-ul meu de acasă prin SFTP, FTP sau NFS?" closed="true" %}}
+{{% ls-details title="Pot transmite de pe NAS-ul meu de acasă prin SFTP, FTP sau NFS?" closed="true" %}}
 Da. Evervideo 1.7 adaugă SFTP, FTP și NFS ca tipuri de conexiune native. SFTP este alegerea recomandată pentru streaming de pe propriul server prin internetul public, deoarece tot traficul este criptat prin SSH. FTP și NFS sunt cel mai bine folosite în interiorul rețelei tale locale sau în spatele unui VPN.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Cum conectez Evervideo la un server personalizat folosind SFTP?" closed="true" %}}
+{{% ls-details title="Cum conectez Evervideo la un server personalizat folosind SFTP?" closed="true" %}}
 Deschide Evervideo, mergi la fila Conexiuni, alege SFTP și introdu numele de gazdă sau IP-ul serverului tău, portul (de obicei 22), numele de utilizator și fie o parolă, fie o cheie privată SSH. Evervideo va naviga prin folderele tale de la distanță și va transmite fișiere video direct cu criptare end-to-end.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Evervideo suportă Internxt și Proton Drive?" closed="true" %}}
+{{% ls-details title="Evervideo suportă Internxt și Proton Drive?" closed="true" %}}
 Da. Ambele cloud-uri axate pe confidențialitate sunt suportate începând cu Evervideo 1.7. Se alătură MEGA și altor servicii axate pe confidențialitate deja disponibile în aplicație.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Cum funcționează noile gesturi de redare?" closed="true" %}}
+{{% ls-details title="Cum funcționează noile gesturi de redare?" closed="true" %}}
 În redarea video în ecran complet, **atinge de două ori partea dreaptă** pentru a sări înainte și **atinge de două ori partea stângă** pentru a sări înapoi cu un interval configurabil (implicit 10 secunde — schimbă-l în Setări). **Atinge și ține** oriunde pe ecran pentru a accelera temporar la 2x; eliberează pentru a reveni la normal. **Tap unic** oriunde pentru a comuta controalele de redare (afișează sau ascunde).
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Pot schimba intervalul de salt al dublului tap?" closed="true" %}}
+{{% ls-details title="Pot schimba intervalul de salt al dublului tap?" closed="true" %}}
 Da. Mergi la **Setări → Redare → Interval de salt prin gest** și alege o valoare între 5 și 60 de secunde. Majoritatea utilizatorilor o țin la 10 sau 15 secunde.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Ce este Wi-Fi Drive în Evervideo?" closed="true" %}}
+{{% ls-details title="Ce este Wi-Fi Drive în Evervideo?" closed="true" %}}
 Wi-Fi Drive este funcția integrată de transfer wireless de fișiere a Evervideo. Îți permite să încarci video-uri de pe computerul tău pe iPhone sau iPad prin rețeaua ta Wi-Fi locală — fără iTunes, fără cabluri, fără cont în cloud. Poți folosi orice browser desktop sau un client WebDAV precum Mac Finder sau Explorator de fișiere Windows. Vezi [ghidul complet Wi-Fi Drive](/docs/howto/how-to-transfer-files-wirelessly-from-a-computer-to-an-iphone-using-wifi-drive/).
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Evervideo redă MKV, AVI și alte formate din Plex sau Jellyfin?" closed="true" %}}
+{{% ls-details title="Evervideo redă MKV, AVI și alte formate din Plex sau Jellyfin?" closed="true" %}}
 Da. Evervideo redă practic orice format video — MKV, AVI, MP4, MOV, FLV, WMV, WEBM, M4V, TS, 3GP — și le transmite direct din Plex, Jellyfin, Emby și alte servere media fără a necesita transcodare pentru majoritatea codecurilor. Acest lucru înseamnă o sarcină de CPU mai mică pe serverul tău și timpi de pornire mai rapizi.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Evervideo 1.7 este gratuit pentru actualizare?" closed="true" %}}
+{{% ls-details title="Evervideo 1.7 este gratuit pentru actualizare?" closed="true" %}}
 Da. Evervideo este o descărcare gratuită din App Store, iar 1.7 este o actualizare gratuită pentru toți utilizatorii existenți. Noile integrări cloud, suportul pentru server media, gesturile de redare, îmbunătățirile Wi-Fi Drive și UI-ul Liquid Glass fac parte din actualizarea de bază.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Pe ce dispozitive este disponibil Evervideo 1.7?" closed="true" %}}
+{{% ls-details title="Pe ce dispozitive este disponibil Evervideo 1.7?" closed="true" %}}
 Evervideo 1.7 rulează pe iPhone, iPad și Mac. AirPlay și Chromecast îți permit să transmiți redarea pe un ecran mai mare. Sincronizarea iCloud Drive menține biblioteca și setările tale consistente între dispozitive.
-{{% /details %}}
+{{% /ls-details %}}

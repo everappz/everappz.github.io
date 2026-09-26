@@ -15,7 +15,7 @@ readingTime: 11
 Gestionar tu biblioteca de música es muy sencillo con Evermusic, donde puedes organizar todas tus pistas sin esfuerzo. Tienes dos opciones para crear tu biblioteca de música: añadir manualmente o sincronizar automáticamente.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Pantalla de Biblioteca de Música de Evermusic" image="/docs/guide/evermusic/evermusic-guide-music-library/img/music-library-main.webp" >}}
+  {{< ls-card title="" subtitle="Pantalla de Biblioteca de Música de Evermusic" image="/docs/guide/evermusic/evermusic-guide-music-library/img/music-library-main.webp" >}}
 {{< /cards >}}
 
 ## Añadir manualmente
@@ -23,7 +23,7 @@ Gestionar tu biblioteca de música es muy sencillo con Evermusic, donde puedes o
 Para añadir pistas manualmente, pulsa el elemento de menú 'Añadir música' y selecciona carpetas/archivos del servicio de almacenamiento en la nube conectado o archivos ubicados en tu dispositivo. Cuando añades pistas a la biblioteca, solo se crean enlaces a esas pistas, conservando los archivos reales en sus ubicaciones originales para ahorrar espacio en disco. Si quieres que las pistas estén disponibles sin conexión, puedes usar la acción de descarga del menú de opciones o activar el modo sin conexión para listas de reproducción y colecciones de pistas.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Añadir Canciones a la Biblioteca de Música" image="/docs/guide/evermusic/evermusic-guide-music-library/img/music-library-add-songs.webp" >}}
+  {{< ls-card title="" subtitle="Añadir Canciones a la Biblioteca de Música" image="/docs/guide/evermusic/evermusic-guide-music-library/img/music-library-add-songs.webp" >}}
 {{< /cards >}}
 
 ## Acceso rápido
@@ -75,7 +75,7 @@ Cuando añades pistas a tu biblioteca de música, la app lee automáticamente su
 Justo debajo de la barra de navegación, la barra de herramientas superior ofrece varias acciones convenientes: 'Buscar', 'Reproducir todo', 'Reproducción aleatoria' y 'Continuar reproducción'. Puedes revelar u ocultar esta barra con un sencillo gesto de deslizamiento hacia abajo.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Vista de Álbumes — Agrupada por Etiquetas de Música" image="/docs/guide/evermusic/evermusic-guide-music-library/img/music-library-albums.webp" >}}
+  {{< ls-card title="" subtitle="Vista de Álbumes — Agrupada por Etiquetas de Música" image="/docs/guide/evermusic/evermusic-guide-music-library/img/music-library-albums.webp" >}}
 {{< /cards >}}
 
 ## Búsqueda
@@ -83,7 +83,7 @@ Justo debajo de la barra de navegación, la barra de herramientas superior ofrec
 La función de búsqueda te permite localizar una pista, artista, álbum o género específico en tu biblioteca de música. En la 'Pantalla de búsqueda', tienes acceso a las siguientes acciones: 'Ordenar', 'Filtrar', 'Cuadrícula/Lista'.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Resultados de Búsqueda de la Biblioteca de Música" image="/docs/guide/evermusic/evermusic-guide-music-library/img/music-library-search.webp" >}}
+  {{< ls-card title="" subtitle="Resultados de Búsqueda de la Biblioteca de Música" image="/docs/guide/evermusic/evermusic-guide-music-library/img/music-library-search.webp" >}}
 {{< /cards >}}
 
 ## Menú de Opciones
@@ -91,7 +91,7 @@ La función de búsqueda te permite localizar una pista, artista, álbum o géne
 Cada canción de tu biblioteca de música tiene un menú con más acciones, al que se accede pulsando el botón de tres puntos cerca del título de la canción.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Más Acciones para un Elemento de la Biblioteca" image="/docs/guide/evermusic/evermusic-guide-music-library/img/music-library-item-more-actions.webp" >}}
+  {{< ls-card title="" subtitle="Más Acciones para un Elemento de la Biblioteca" image="/docs/guide/evermusic/evermusic-guide-music-library/img/music-library-item-more-actions.webp" >}}
 {{< /cards >}}
 
 ### Para Canciones Individuales
@@ -125,7 +125,7 @@ Para colecciones de canciones como Álbumes, Artistas, Géneros o Compositores, 
 Puedes activar el modo de selección usando el botón Más acciones en la esquina superior derecha.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Modo de Selección en la Biblioteca de Música" image="/docs/guide/evermusic/evermusic-guide-music-library/img/music-library-selection-mode.webp" >}}
+  {{< ls-card title="" subtitle="Modo de Selección en la Biblioteca de Música" image="/docs/guide/evermusic/evermusic-guide-music-library/img/music-library-selection-mode.webp" >}}
 {{< /cards >}}
 
 ## Agrupación de Etiquetas
@@ -145,7 +145,7 @@ Estas categorías te ayudan a organizar tus pistas por etiquetas de música: Can
 Cuando abres las secciones Artista, Artista de Álbum o Compositor, puedes ver un selector para Canciones / Todos los Álbumes / Álbumes Exclusivos / Álbumes en Solitario.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Detalle del Álbum con Selector Canciones / Todos / Exclusivos / En Solitario" image="/docs/guide/evermusic/evermusic-guide-music-library/img/music-library-album-details.webp" >}}
+  {{< ls-card title="" subtitle="Detalle del Álbum con Selector Canciones / Todos / Exclusivos / En Solitario" image="/docs/guide/evermusic/evermusic-guide-music-library/img/music-library-album-details.webp" >}}
 {{< /cards >}}
 
 - **Canciones**: Muestra todas las canciones donde este Artista/Artista de Álbum/Compositor está establecido en las etiquetas de audio.
@@ -166,7 +166,7 @@ Puedes usar esta función para encontrar rápidamente cualquier canción, artist
 Pulsa el elemento de menú 'Ajustes' para configurar tus preferencias de biblioteca de música.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Ajustes de Biblioteca de Música" image="/docs/guide/evermusic/evermusic-guide-music-library/img/music-library-settings.webp" >}}
+  {{< ls-card title="" subtitle="Ajustes de Biblioteca de Música" image="/docs/guide/evermusic/evermusic-guide-music-library/img/music-library-settings.webp" >}}
 {{< /cards >}}
 
 #### Lectura de Metadatos

@@ -7,7 +7,7 @@ tags: ["evermusic", "hudba", "cloud", "iphone", "úložisko", "nas", "počúvani
 readingTime: 4
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **Zhrnutie:** Použite Evermusic na streamovanie alebo sťahovanie hudby z vášho NAS WD My Cloud Home priamo na iPhone. Získajte prístup až k 8 TB hudby, prehrávajte offline a používajte vstavaný ekvalizér -- všetko bez mesačných predplatných.
@@ -87,26 +87,26 @@ Ak ste niekedy snívali o tom, že budete mať celú svoju hudobnú knižnicu, a
 
 ## FAQ
 
-{{% details title="Je Evermusic zadarmo na používanie s WD My Cloud Home?" closed="true" %}}
+{{% ls-details title="Je Evermusic zadarmo na používanie s WD My Cloud Home?" closed="true" %}}
 Evermusic je zadarmo na stiahnutie so základnými funkciami vrátane ekvalizéra, cloudového streamovania a offline prehrávania. Bezplatná verzia podporuje až 3 cloudové pripojenia. Upgrade na Premium odstraňuje limity na cloudové účty, zoznamy skladieb a offline priečinky.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Môžem počúvať hudbu offline z môjho NAS?" closed="true" %}}
+{{% ls-details title="Môžem počúvať hudbu offline z môjho NAS?" closed="true" %}}
 Áno. Evermusic vám umožňuje sťahovať skladby z WD My Cloud Home na iPhone na offline prehrávanie. Toto je užitočné pri cestovaní alebo pri obmedzenom prístupe k internetu.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Podporuje Evermusic bezstratové zvukové formáty z WD My Cloud?" closed="true" %}}
+{{% ls-details title="Podporuje Evermusic bezstratové zvukové formáty z WD My Cloud?" closed="true" %}}
 Áno. Evermusic podporuje FLAC, ALAC, WAV, AIFF a ďalšie bezstratové formáty. Môžete streamovať alebo sťahovať vysokokvalitné zvukové súbory z NAS bez konverzie formátu.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Môžem používať WD MyCloud EX2 Ultra s Evermusic?" closed="true" %}}
+{{% ls-details title="Môžem používať WD MyCloud EX2 Ultra s Evermusic?" closed="true" %}}
 Áno, s obchádzkou. Pripojte sa cez možnosť My Cloud Home, vytvorte priečinok pomocou správcu súborov Evermusic a nahrajte tam svoje hudobné súbory. Kvôli sandboxovému režimu sú dostupné iba súbory v priečinkoch vytvorených aplikáciou.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Koľko hudby môžem uložiť na WD My Cloud Home?" closed="true" %}}
+{{% ls-details title="Koľko hudby môžem uložiť na WD My Cloud Home?" closed="true" %}}
 WD My Cloud Home podporuje až 8 TB úložiska. Pri typických bitových rýchlostiach to môže obsahovať stovky tisíc skladieb vrátane veľkých knižníc bezstratovej hudby.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Je pripojenie medzi Evermusic a WD My Cloud Home bezpečné?" closed="true" %}}
+{{% ls-details title="Je pripojenie medzi Evermusic a WD My Cloud Home bezpečné?" closed="true" %}}
 Áno. Evermusic používa bezpečné pripojenie a oficiálne API Western Digital na prístup k vášmu NAS. Vaše údaje a prihlasovacie údaje sú chránené počas prenosu.
-{{% /details %}}
+{{% /ls-details %}}

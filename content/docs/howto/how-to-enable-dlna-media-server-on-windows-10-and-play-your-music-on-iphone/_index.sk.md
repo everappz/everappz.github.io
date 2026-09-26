@@ -7,7 +7,7 @@ tags: ["evermusic", "hudba", "cloud", "iphone", "úložisko", "lokálny", "nas",
 readingTime: 2
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **Zhrnutie:** Windows 10 má vstavaný DLNA server. Povoľte ho v nastaveniach Siete a zdieľania, potom použite bezplatnú aplikáciu **Evermusic** na vašom iPhone na streamovanie celej hudobnej knižnice cez Wi-Fi. Nie je potrebný žiadny serverový softvér tretích strán.
@@ -96,22 +96,22 @@ S DLNA Media Serverom v systéme Windows 10 a Evermusic na vašom iPhone si mô�
 
 ## Často kladené otázky
 
-{{% details title="Musím na Windows 10 inštalovať nejaký serverový softvér?" closed="true" %}}
+{{% ls-details title="Musím na Windows 10 inštalovať nejaký serverový softvér?" closed="true" %}}
 Nie. Windows 10 obsahuje vstavaný DLNA mediálny server. Stačí iba povoliť streamovanie médií v nastaveniach Centra sietí a zdieľania. Nie je potrebný žiadny softvér tretích strán.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Musí byť môj iPhone na rovnakej Wi-Fi sieti?" closed="true" %}}
+{{% ls-details title="Musí byť môj iPhone na rovnakej Wi-Fi sieti?" closed="true" %}}
 Áno. Streamovanie DLNA funguje cez vašu lokálnu sieť. Váš počítač s Windows 10 aj iPhone musia byť pripojené k rovnakej Wi-Fi sieti, aby Evermusic mohol objaviť DLNA server.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Aké audio formáty môžem streamovať cez DLNA?" closed="true" %}}
+{{% ls-details title="Aké audio formáty môžem streamovať cez DLNA?" closed="true" %}}
 Windows DLNA server zdieľa súbory z priečinka Hudba bez ohľadu na formát. Evermusic podporuje MP3, FLAC, AAC, WAV, OGG, AIFF a mnoho ďalších formátov, takže môžete prehrať prakticky akýkoľvek audio súbor zo servera.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Môžem použiť Flacbox namiesto Evermusic?" closed="true" %}}
+{{% ls-details title="Môžem použiť Flacbox namiesto Evermusic?" closed="true" %}}
 Áno. Flacbox tiež podporuje prehliadanie a prehrávanie DLNA/UPnP. Môžete použiť ktorúkoľvek z oboch aplikácií na objavenie a prehrávanie hudby z vášho Windows DLNA servera.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Spotrebuje streamovanie DLNA mobilné dáta?" closed="true" %}}
+{{% ls-details title="Spotrebuje streamovanie DLNA mobilné dáta?" closed="true" %}}
 Nie. DLNA funguje výhradne na vašej lokálnej Wi-Fi sieti. Nespotrebováva žiadne mobilné dáta. Obe zariadenia však musia zostať pripojené k rovnakej sieti počas prehrávania.
-{{% /details %}}
+{{% /ls-details %}}

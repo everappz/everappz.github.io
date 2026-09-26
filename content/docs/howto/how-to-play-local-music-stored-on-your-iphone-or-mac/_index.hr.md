@@ -6,7 +6,7 @@ tags: ["lokalna glazba", "offline glazba", "glazbeni player", "iPhone", "Mac", "
 keywords: ["kako reproducirati lokalnu glazbu na iPhoneu", "reproduciranje glazbe iz pohrane uređaja", "offline glazbeni player iOS", "Evermusic aplikacija upute", "Flacbox FLAC player", "iOS reprodukcija lokalnih datoteka", "Mac glazbena knjižnica", "glazbena aplikacija za lokalne datoteke", "iPhone reprodukcija preuzetih pjesama", "kako koristiti Evermusic s lokalnim datotekama"]
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **Sažetak:** Instalirajte [Evermusic](/products/evermusic) (MP3/WAV) ili [Flacbox](/products/flacbox) (FLAC/DSD), otvorite bilo koju lokalnu audio datoteku ili mapu i počnite reproducirati. Dodajte mape u **Omiljeni** za brzi pristup, uvezite pjesme u svoju glazbenu knjižnicu ili stvorite popise pjesama.
@@ -24,10 +24,10 @@ Istražit ćemo metode i alate za besprijekorno reproduciranje vaše lokalne gla
 Da biste započeli svoje putovanje u svijet lokalne glazbe na svom iPhoneu i Macu, počnite instaliranjem Evermusica (za standardne audio formate poput mp3 i wav) ili Flacboxa (za glazbu bez gubitaka u dsd i flac formatima). Obje aplikacije dostupne su za iOS i macOS, a možete ih preuzeti besplatno.
 
 {{< cards >}}
-  {{< card link="https://apps.apple.com/us/app/evermusic-cloud-music-player/id885367198?pt=95781850&ct=everappzcom&mt=8" title="Preuzmi Evermusic za iOS" tag="iOS" >}}
-  {{< card link="https://apps.apple.com/us/app/flacbox-hi-res-equalizer/id1097564256?pt=95781850&ct=everappzcom&mt=8" title="Preuzmi Flacbox za iOS" tag="iOS" >}}
-  {{< card link="https://apps.apple.com/us/app/evermusic-hi-res-music-player/id1564384601?pt=95781850&ct=everappzcom&mt=8" title="Preuzmi Evermusic za Mac" tag="macOS" >}}
-  {{< card link="https://apps.apple.com/us/app/flacbox-hi-res-music-player/id1594027432?pt=95781850&ct=everappzcom&mt=8" title="Preuzmi Flacbox za Mac" tag="macOS" >}}
+  {{< ls-card link="https://apps.apple.com/us/app/evermusic-cloud-music-player/id885367198?pt=95781850&ct=everappzcom&mt=8" title="Preuzmi Evermusic za iOS" tag="iOS" >}}
+  {{< ls-card link="https://apps.apple.com/us/app/flacbox-hi-res-equalizer/id1097564256?pt=95781850&ct=everappzcom&mt=8" title="Preuzmi Flacbox za iOS" tag="iOS" >}}
+  {{< ls-card link="https://apps.apple.com/us/app/evermusic-hi-res-music-player/id1564384601?pt=95781850&ct=everappzcom&mt=8" title="Preuzmi Evermusic za Mac" tag="macOS" >}}
+  {{< ls-card link="https://apps.apple.com/us/app/flacbox-hi-res-music-player/id1594027432?pt=95781850&ct=everappzcom&mt=8" title="Preuzmi Flacbox za Mac" tag="macOS" >}}
 {{< /cards >}}
 
 
@@ -135,22 +135,22 @@ S ovim jednostavnim koracima možete otključati puni potencijal svog iPhonea i 
 
 ## Često postavljana pitanja
 
-{{% details title="Koje audio formate mogu Evermusic i Flacbox reproducirati?" closed="true" %}}
+{{% ls-details title="Koje audio formate mogu Evermusic i Flacbox reproducirati?" closed="true" %}}
 Evermusic reproducira MP3, WAV, AAC, M4A i druge standardne formate. Flacbox dodaje podršku za FLAC, DSD, OGG, OPUS, APE, WMA i ALAC.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Kopiraju li ove aplikacije datoteke u pohranu aplikacije?" closed="true" %}}
+{{% ls-details title="Kopiraju li ove aplikacije datoteke u pohranu aplikacije?" closed="true" %}}
 Prema zadanim postavkama, datoteke se reproduciraju s izvornog mjesta bez kopiranja. Da biste promijenili ovo ponašanje, omogućite "Uvijek kopiraj datoteke pri otvaranju" u **Postavke** > Upravitelj datoteka.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Mogu li organizirati lokalnu glazbu po izvođaču i albumu?" closed="true" %}}
+{{% ls-details title="Mogu li organizirati lokalnu glazbu po izvođaču i albumu?" closed="true" %}}
 Da. Uvezite datoteke u glazbenu knjižnicu (Korak 4) i aplikacija čita metapodatke za grupiranje pjesama po izvođaču, albumu, žanru i skladatelju.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Kako prenijeti glazbu s računala na iPhone?" closed="true" %}}
+{{% ls-details title="Kako prenijeti glazbu s računala na iPhone?" closed="true" %}}
 Koristite iTunes dijeljenje datoteka (USB), WiFi Drive (bežično) ili SMB (streaming). Pogledajte naš detaljni vodič: [Prijenos i reprodukcija lokalnih datoteka na iPhoneu](/docs/howto/how-to-play-local-itunes-files-on-my-iphone/).
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Jesu li Evermusic i Flacbox besplatni?" closed="true" %}}
+{{% ls-details title="Jesu li Evermusic i Flacbox besplatni?" closed="true" %}}
 Da, obje aplikacije besplatne su za preuzimanje s osnovnim značajkama uključujući reprodukciju, ekvalizator i cloud streaming. Besplatne verzije imaju neka ograničenja (broj popisa pjesama, cloud računa, offline mapa). Nadogradnja na Premium uklanja ta ograničenja.
-{{% /details %}}
+{{% /ls-details %}}

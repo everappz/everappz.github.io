@@ -7,7 +7,7 @@ tags: ["evermusic", "importer", "listes de lecture", "m3u", "cue"]
 readingTime: 3
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **Résumé :** Evermusic et Flacbox prennent en charge l'importation de fichiers de listes de lecture M3U, M3U8 et CUE depuis le stockage cloud, les fichiers locaux de l'application ou votre appareil. Allez dans Listes de lecture > Plus > Importer une liste de lecture, sélectionnez une source, choisissez votre fichier, et l'application crée votre liste de lecture automatiquement.
@@ -84,22 +84,22 @@ De plus, vous pouvez importer plusieurs listes de lecture à la fois en appuyant
 
 ## Questions fréquemment posées
 
-{{% details title="Quels formats de listes de lecture Evermusic et Flacbox prennent-ils en charge ?" closed="true" %}}
+{{% ls-details title="Quels formats de listes de lecture Evermusic et Flacbox prennent-ils en charge ?" closed="true" %}}
 Les deux applications prennent en charge les formats de fichiers de listes de lecture M3U, M3U8 et CUE. Ceux-ci couvrent les standards de listes de lecture les plus courants utilisés par les lecteurs de musique et les logiciels multimédia.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Puis-je importer des listes de lecture depuis le stockage cloud ?" closed="true" %}}
+{{% ls-details title="Puis-je importer des listes de lecture depuis le stockage cloud ?" closed="true" %}}
 Oui. Vous pouvez importer des fichiers de listes de lecture depuis n'importe quel service de stockage cloud connecté, y compris Google Drive, Dropbox, OneDrive et les serveurs WebDAV.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Pourquoi certaines pistes manquent-elles après l'importation ?" closed="true" %}}
+{{% ls-details title="Pourquoi certaines pistes manquent-elles après l'importation ?" closed="true" %}}
 Le fichier de liste de lecture doit contenir des chemins corrects vers vos fichiers multimédia, et ces fichiers doivent exister aux emplacements spécifiés dans votre stockage. Vérifiez que les chemins de fichiers dans votre fichier M3U ou CUE correspondent aux emplacements réels des fichiers.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Puis-je importer plusieurs listes de lecture à la fois ?" closed="true" %}}
+{{% ls-details title="Puis-je importer plusieurs listes de lecture à la fois ?" closed="true" %}}
 Oui. Utilisez le bouton Plus d'actions et sélectionnez "Importer des listes de lecture depuis un dossier". L'application scanne le dossier pour tous les fichiers de listes de lecture pris en charge et les importe en une seule étape.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Dois-je créer les listes de lecture manuellement ?" closed="true" %}}
+{{% ls-details title="Dois-je créer les listes de lecture manuellement ?" closed="true" %}}
 Non. La fonction d'importation élimine la création manuelle de listes de lecture. Pointez simplement l'application vers votre fichier M3U, M3U8 ou CUE existant et elle crée la liste de lecture automatiquement.
-{{% /details %}}
+{{% /ls-details %}}

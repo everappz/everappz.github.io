@@ -7,7 +7,7 @@ keywords: ["Video aufnehmen während Musik auf dem iPhone spielt", "wie spielt m
 readingTime: 1
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **Kurzfassung:** Stellen Sie die Audioausgabe von Evermusic auf „Gemischter Modus", starten Sie die Wiedergabe eines Titels und öffnen Sie dann Ihre Kamera-App und nehmen Sie auf. Die Musik spielt im Hintergrund weiter. Funktioniert mit TikTok, Instagram und jeder Kamera-App.
@@ -45,22 +45,22 @@ Dieser Trick funktioniert auf jedem iPhone.
 
 ## Häufig gestellte Fragen
 
-{{% details title="Wird die Hintergrundmusik im Video aufgenommen?" closed="true" %}}
+{{% ls-details title="Wird die Hintergrundmusik im Video aufgenommen?" closed="true" %}}
 Die Musik wird über den iPhone-Lautsprecher wiedergegeben, sodass das Mikrofon sie zusammen mit anderen Umgebungsgeräuschen aufnimmt. Für saubereren Sound sollten Sie einen externen Lautsprecher in der Nähe des Mikrofons verwenden.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Funktioniert das mit TikTok und Instagram?" closed="true" %}}
+{{% ls-details title="Funktioniert das mit TikTok und Instagram?" closed="true" %}}
 Ja. Sobald Evermusic auf Gemischter Modus eingestellt ist und ein Titel abgespielt wird, läuft die Musik weiter, wenn Sie TikTok, Instagram oder eine andere Kamera- oder Aufnahme-App öffnen.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Was ist der Gemischte Modus in Evermusic?" closed="true" %}}
+{{% ls-details title="Was ist der Gemischte Modus in Evermusic?" closed="true" %}}
 Der Gemischte Modus ist eine Audio-Ausgabeeinstellung, die es Evermusic ermöglicht, die Audio-Sitzung mit anderen Apps zu teilen. Dies verhindert, dass die Musik stoppt, wenn eine andere App auf das Mikrofon oder die Kamera zugreift.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Kann ich Flacbox statt Evermusic dafür verwenden?" closed="true" %}}
+{{% ls-details title="Kann ich Flacbox statt Evermusic dafür verwenden?" closed="true" %}}
 Ja. Flacbox unterstützt ebenfalls den gemischten Audio-Ausgabemodus. Die Schritte sind dieselben: Aktivieren Sie den Gemischten Modus in den Einstellungen, starten Sie die Wiedergabe und öffnen Sie Ihre Kamera-App.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Kann ich ein Spiel spielen, während Musik von Evermusic im Hintergrund läuft?" closed="true" %}}
+{{% ls-details title="Kann ich ein Spiel spielen, während Musik von Evermusic im Hintergrund läuft?" closed="true" %}}
 Ja. Mit aktiviertem Gemischten Modus spielt die Musik von Evermusic weiter, wenn Sie ein beliebiges Spiel oder eine App öffnen. Sowohl der Spielsound als auch Ihre Musik werden gleichzeitig abgespielt.
-{{% /details %}}
+{{% /ls-details %}}

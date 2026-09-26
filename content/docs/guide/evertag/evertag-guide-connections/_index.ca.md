@@ -15,7 +15,7 @@ readingTime: 11
 En aquesta pantalla, pots connectar diverses fonts que contenen els teus fitxers d'àudio. Pots integrar serveis populars al núvol com Google Drive, Dropbox, OneDrive, iCloud i d'altres, així com connectar el teu Mac o PC. A més, tens l'opció d'editar fitxers d'àudio ubicats a Apple Time Capsule, WD Cloud Home o qualsevol NAS compatible amb SMB o WebDAV.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Pantalla de Connexions d'Evertag" image="/docs/guide/evertag/img/connections.webp" >}}
+  {{< ls-card title="" subtitle="Pantalla de Connexions d'Evertag" image="/docs/guide/evertag/img/connections.webp" >}}
 {{< /cards >}}
 
 ## Accés ràpid
@@ -151,7 +151,7 @@ Aquí tens un desglossament d'aquestes accions:
 - **Vista en quadrícula/llista**: canvia entre dos modes de visualització: vista de taula i vista de miniatures. La vista de taula presenta els fitxers en una llista, mentre que la vista de miniatures mostra representacions visuals dels fitxers, facilitant la identificació del contingut d'una ullada.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Ordenació de carpetes al núvol d'Evertag" image="/docs/guide/evertag/img/cloud-storage-sort.webp" >}}
+  {{< ls-card title="" subtitle="Ordenació de carpetes al núvol d'Evertag" image="/docs/guide/evertag/img/cloud-storage-sort.webp" >}}
 {{< /cards >}}
 
 ## Editar fitxers en línia
@@ -163,7 +163,7 @@ Quan necessites gestionar múltiples fitxers dins del teu emmagatzematge al núv
 - **Realitzar diverses accions**: un cop has seleccionat els fitxers o carpetes que vols gestionar, tindràs accés a diverses accions adaptades a les teves necessitats:
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Selecció de fitxers d'Evertag" image="/docs/guide/evertag/img/cloud-storage-file-select.webp" >}}
+  {{< ls-card title="" subtitle="Selecció de fitxers d'Evertag" image="/docs/guide/evertag/img/cloud-storage-file-select.webp" >}}
 {{< /cards >}}
 
 ## Accions de fitxer
@@ -180,7 +180,7 @@ Toca'l per revelar una llista d'accions disponibles:
 - **Eliminar**: tingues precaució amb aquesta acció, ja que elimina permanentment el fitxer del teu emmagatzematge al núvol. **Aquesta eliminació no es pot desfer**.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Opcions de fitxer d'Evertag" image="/docs/guide/evertag/img/cloud-storage-file-options.webp" >}}
+  {{< ls-card title="" subtitle="Opcions de fitxer d'Evertag" image="/docs/guide/evertag/img/cloud-storage-file-options.webp" >}}
 {{< /cards >}}
 
 Si la llista d'accions supera l'espai disponible de la pantalla, simplement desplaça't cap avall dins del menú d'accions per accedir a opcions addicionals.
@@ -196,5 +196,5 @@ Per a cada carpeta del teu emmagatzematge al núvol, tens diverses accions dispo
 - **Eliminar**: tingues precaució amb aquesta acció, ja que elimina permanentment la carpeta i el seu contingut del teu emmagatzematge al núvol. **Aquesta acció no es pot desfer**.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Opcions de carpeta d'Evertag" image="/docs/guide/evertag/img/cloud-storage-folder-options.webp" >}}
+  {{< ls-card title="" subtitle="Opcions de carpeta d'Evertag" image="/docs/guide/evertag/img/cloud-storage-folder-options.webp" >}}
 {{< /cards >}}

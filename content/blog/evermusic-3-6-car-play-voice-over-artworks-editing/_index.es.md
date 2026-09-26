@@ -12,7 +12,7 @@ authors:
     image: "/images/about/artem-meleshko-founder-everappz.webp"
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 **Resumen:** Evermusic 3.6 añade integración con Apple CarPlay, accesibilidad completa con VoiceOver, salida de audio mixta, reanudación automática de reproducción, edición de carátulas y etiquetas para FLAC/MP3/AIFF e importación de archivos desde iCloud Drive.
 
@@ -78,18 +78,18 @@ Importa archivos de música directamente desde iCloud Drive y otras aplicaciones
 
 ## Preguntas frecuentes
 
-{{% details title="¿Funciona Evermusic con CarPlay?" closed="true" %}}
+{{% ls-details title="¿Funciona Evermusic con CarPlay?" closed="true" %}}
 Sí. A partir de la versión 3.6, Evermusic es totalmente compatible con Apple CarPlay. Puedes navegar y reproducir tu biblioteca de música desde la pantalla integrada de tu coche.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="¿Es Evermusic accesible para usuarios ciegos o con baja visión?" closed="true" %}}
+{{% ls-details title="¿Es Evermusic accesible para usuarios ciegos o con baja visión?" closed="true" %}}
 Sí. Evermusic 3.6 incluye soporte completo de VoiceOver con etiquetas descriptivas, sugerencias y un modo de interfaz simplificada.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="¿Puedo editar etiquetas FLAC en el iPhone con Evermusic?" closed="true" %}}
+{{% ls-details title="¿Puedo editar etiquetas FLAC en el iPhone con Evermusic?" closed="true" %}}
 Sí. Evermusic incluye un editor de etiquetas integrado que funciona con archivos FLAC, MP3 y AIFF. Puedes editar títulos, artistas, álbumes y carátulas.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="¿Recuerda Evermusic dónde dejé de escuchar?" closed="true" %}}
+{{% ls-details title="¿Recuerda Evermusic dónde dejé de escuchar?" closed="true" %}}
 Sí. Cuando "Guardar estado del reproductor de audio" está activado, Evermusic restaura tu cola, pista actual y posición exacta de reproducción cuando vuelves a abrir la aplicación.
-{{% /details %}}
+{{% /ls-details %}}

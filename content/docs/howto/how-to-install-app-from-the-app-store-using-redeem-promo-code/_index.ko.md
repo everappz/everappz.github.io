@@ -7,7 +7,7 @@ tags: ["프로모", "앱스토어", "설치", "코드 사용", "코드", "무료
 readingTime: 2
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **요약:** 프로모 코드를 사용하면 유료 앱을 무료로 다운로드하거나 인앱 구매를 활성화할 수 있습니다. iOS: App Store > 계정 아이콘 > 기프트 카드 또는 코드 사용 > 코드 입력. Mac: App Store > 계정 > 기프트 카드 사용 > 코드 입력. 그런 다음 앱을 열고 필요한 경우 구매를 복원하세요.
@@ -94,22 +94,22 @@ readingTime: 2
 
 ## 자주 묻는 질문
 
-{{% details title="프로모 코드는 어디서 받을 수 있나요?" closed="true" %}}
+{{% ls-details title="프로모 코드는 어디서 받을 수 있나요?" closed="true" %}}
 프로모 코드는 앱 개발자가 리뷰, 이벤트 또는 프로모션을 위해 제공합니다. 개발자에게 직접 연락하여 요청하세요.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="프로모 코드에 만료일이 있나요?" closed="true" %}}
+{{% ls-details title="프로모 코드에 만료일이 있나요?" closed="true" %}}
 네. Apple App Store 프로모 코드는 생성 후 28일 후에 만료되며 한 번만 사용할 수 있습니다.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="다른 국가에서 프로모 코드를 사용할 수 있나요?" closed="true" %}}
+{{% ls-details title="다른 국가에서 프로모 코드를 사용할 수 있나요?" closed="true" %}}
 프로모 코드는 지역별로 제한됩니다. 코드는 Apple ID의 App Store 국가와 일치해야 합니다.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="프로모 코드로 인앱 구매를 어떻게 활성화하나요?" closed="true" %}}
+{{% ls-details title="프로모 코드로 인앱 구매를 어떻게 활성화하나요?" closed="true" %}}
 App Store에서 코드를 사용한 후 앱을 열고 설정 > 구매 복원으로 이동하세요. 프리미엄 콘텐츠가 자동으로 활성화됩니다.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="프로모 코드가 이미 사용되었다고 표시됩니다. 어떻게 해야 하나요?" closed="true" %}}
+{{% ls-details title="프로모 코드가 이미 사용되었다고 표시됩니다. 어떻게 해야 하나요?" closed="true" %}}
 각 프로모 코드는 한 번만 사용할 수 있습니다. 개발자에게 연락하여 새 코드를 요청하세요.
-{{% /details %}}
+{{% /ls-details %}}

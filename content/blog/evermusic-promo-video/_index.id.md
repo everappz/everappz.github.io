@@ -12,7 +12,7 @@ authors:
     image: "/images/about/artem-meleshko-founder-everappz.webp"
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 ## Evermusic: Pemutar Musik Cloud untuk iPhone dan iPad
 
@@ -22,7 +22,7 @@ Evermusic adalah pemutar musik cloud yang terhubung ke penyimpanan cloud pribadi
 
 ## Tonton Video Promo
 
-{{< youtubecard id="BwD0XLgdzEE" title="Evermusic Promo Video" >}}
+{{< ls-youtubecard id="BwD0XLgdzEE" title="Evermusic Promo Video" >}}
 
 ## Fitur Utama yang Ditampilkan dalam Video
 
@@ -36,14 +36,14 @@ Evermusic adalah pemutar musik cloud yang terhubung ke penyimpanan cloud pribadi
 
 ## Pertanyaan yang Sering Diajukan
 
-{{% details title="Apa itu Evermusic?" closed="true" %}}
+{{% ls-details title="Apa itu Evermusic?" closed="true" %}}
 Evermusic adalah pemutar musik cloud untuk iPhone dan iPad. Ia terhubung ke layanan penyimpanan cloud seperti Dropbox, Google Drive, dan OneDrive, memungkinkan Anda melakukan streaming dan mengunduh file musik Anda sendiri. Ia mendukung FLAC, MP3, AAC, WAV, dan format audio lainnya.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Apakah Evermusic gratis diunduh?" closed="true" %}}
+{{% ls-details title="Apakah Evermusic gratis diunduh?" closed="true" %}}
 Ya. Evermusic gratis diunduh dengan fitur dasar. Upgrade Premium sekali bayar membuka equalizer, crossfade, dan koneksi akun cloud tambahan.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Layanan cloud apa yang didukung Evermusic?" closed="true" %}}
+{{% ls-details title="Layanan cloud apa yang didukung Evermusic?" closed="true" %}}
 Evermusic mendukung lebih dari 12 platform cloud termasuk iCloud Drive, Dropbox, Google Drive, OneDrive, Box, MEGA, Yandex.Disk, pCloud, dan server apa pun yang menjalankan protokol WebDAV atau SMB.
-{{% /details %}}
+{{% /ls-details %}}

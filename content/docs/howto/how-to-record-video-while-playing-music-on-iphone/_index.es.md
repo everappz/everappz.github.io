@@ -7,7 +7,7 @@ keywords: ["grabar vídeo mientras se reproduce música en iPhone", "cómo repro
 readingTime: 1
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **En resumen:** Configura la salida de audio de Evermusic en "Modo mixto", comienza a reproducir una pista y luego abre la app de Cámara y graba. La música sigue sonando en segundo plano. Funciona con TikTok, Instagram y cualquier app de cámara.
@@ -45,22 +45,22 @@ Este truco funciona en todos los iPhone.
 
 ## Preguntas frecuentes
 
-{{% details title="¿La música de fondo se graba en el vídeo?" closed="true" %}}
+{{% ls-details title="¿La música de fondo se graba en el vídeo?" closed="true" %}}
 La música se reproduce a través del altavoz del iPhone, por lo que el micrófono la captará junto con otros sonidos ambientales. Para un audio más limpio, considera usar un altavoz externo colocado cerca del micrófono.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="¿Funciona con TikTok e Instagram?" closed="true" %}}
+{{% ls-details title="¿Funciona con TikTok e Instagram?" closed="true" %}}
 Sí. Una vez que Evermusic está configurado en Modo mixto y se reproduce una pista, la música continúa cuando abres TikTok, Instagram o cualquier otra app de cámara o grabación.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="¿Qué es el Modo mixto en Evermusic?" closed="true" %}}
+{{% ls-details title="¿Qué es el Modo mixto en Evermusic?" closed="true" %}}
 El Modo mixto es una configuración de salida de audio que permite a Evermusic compartir la sesión de audio con otras apps. Esto evita que la música se detenga cuando otra app accede al micrófono o la cámara.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="¿Puedo usar Flacbox en lugar de Evermusic para esto?" closed="true" %}}
+{{% ls-details title="¿Puedo usar Flacbox en lugar de Evermusic para esto?" closed="true" %}}
 Sí. Flacbox también admite el modo de salida de audio mixto. Los pasos son los mismos: activa el Modo mixto en Ajustes, inicia la reproducción y abre tu app de cámara.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="¿Puedo jugar un juego mientras la música de Evermusic suena en segundo plano?" closed="true" %}}
+{{% ls-details title="¿Puedo jugar un juego mientras la música de Evermusic suena en segundo plano?" closed="true" %}}
 Sí. Con el Modo mixto activado, la música de Evermusic continúa reproduciéndose cuando abres cualquier juego o app. Tanto el audio del juego como tu música sonarán al mismo tiempo.
-{{% /details %}}
+{{% /ls-details %}}

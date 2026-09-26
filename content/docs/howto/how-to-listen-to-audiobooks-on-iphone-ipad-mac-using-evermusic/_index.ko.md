@@ -7,7 +7,7 @@ tags: ["오디오북", "재생", "오프라인", "evermusic", "북마크"]
 readingTime: 5
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **요약:** Evermusic는 iOS 및 macOS에서 완전한 기능의 오디오북 플레이어로도 사용할 수 있습니다. iTunes, WiFi 또는 클라우드 스토리지를 통해 오디오북을 전송한 다음, 재생 속도 조절, 건너뛰기 버튼, 오디오 북마크, 이어듣기, 오프라인 다운로드를 사용하여 끊김 없는 청취 경험을 즐기세요.
@@ -151,26 +151,26 @@ Evermusic를 사용하면 오디오북 경험이 편리할 뿐만 아니라 선�
 
 ## 자주 묻는 질문
 
-{{% details title="Evermusic는 어떤 오디오북 형식을 지원하나요?" closed="true" %}}
+{{% ls-details title="Evermusic는 어떤 오디오북 형식을 지원하나요?" closed="true" %}}
 Evermusic는 MP3, M4A, M4B, FLAC, WAV, AIFF, OGG 및 기타 일반적인 오디오 형식을 지원합니다. Evermusic에서 재생되는 모든 오디오 파일은 오디오북으로 사용할 수 있습니다.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="클라우드 스토리지에서 오디오북을 들을 수 있나요?" closed="true" %}}
+{{% ls-details title="클라우드 스토리지에서 오디오북을 들을 수 있나요?" closed="true" %}}
 네. Evermusic는 iCloud Drive, Google Drive, Dropbox, OneDrive, Box 및 WebDAV 서버에 연결됩니다. 오디오북을 직접 스트리밍하거나 오프라인 청취를 위해 다운로드할 수 있습니다.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="북마크가 새 기기로 전송되나요?" closed="true" %}}
+{{% ls-details title="북마크가 새 기기로 전송되나요?" closed="true" %}}
 네. Evermusic는 오디오 북마크를 파일의 메타데이터에 저장하므로, 파일을 새 기기로 이동하면 자동으로 전송됩니다.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Evermusic는 듣기를 멈춘 위치를 기억하나요?" closed="true" %}}
+{{% ls-details title="Evermusic는 듣기를 멈춘 위치를 기억하나요?" closed="true" %}}
 네. 설정 > 오디오 플레이어 > 일반에서 "재생 위치 저장" 및 "오디오 플레이어 상태 저장"을 활성화하세요. 앱이 세션 간 정확한 위치를 저장하고 복원합니다.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="오디오북 재생 속도를 조절할 수 있나요?" closed="true" %}}
+{{% ls-details title="오디오북 재생 속도를 조절할 수 있나요?" closed="true" %}}
 네. 설정 > 오디오 플레이어 > 재생 속도로 이동하여 원하는 속도를 설정하세요. 청취 선호도에 맞게 내레이션 속도를 높이거나 낮출 수 있습니다.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="오디오북을 Evermusic로 어떻게 전송하나요?" closed="true" %}}
+{{% ls-details title="오디오북을 Evermusic로 어떻게 전송하나요?" closed="true" %}}
 iTunes/Finder 파일 공유, WiFi Drive(앱 내장) 또는 Evermusic 내에서 클라우드 스토리지 계정을 연결하여 파일을 전송할 수 있습니다.
-{{% /details %}}
+{{% /ls-details %}}

@@ -33,7 +33,7 @@ Der Dateien-Tab ist in klare Abschnitte unterteilt, die in dieser Reihenfolge au
 In der oberen rechten Ecke des Dateien-Bildschirms befindet sich eine Übertragungs-Schaltfläche (ein Symbol mit drehenden Pfeilen). Tippen Sie darauf, um die Übertragungswarteschlange zu öffnen, in der Sie jeden Download und Upload über alle Ihre Quellen hinweg überwachen.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evervideo Dateien über verbundene Speicher" image="/docs/guide/evervideo/img/evervideo-files-connected-storages.webp" >}}
+  {{< ls-card title="" subtitle="Evervideo Dateien über verbundene Speicher" image="/docs/guide/evervideo/img/evervideo-files-connected-storages.webp" >}}
 {{< /cards >}}
 
 ## Mit Cloud-Speicher verbinden
@@ -41,7 +41,7 @@ In der oberen rechten Ecke des Dateien-Bildschirms befindet sich eine Übertragu
 Der Cloud-Speicher-Abschnitt des Dateien-Tabs ist der Ort, an dem jedes verbundene Konto, jede NAS, jeder Medienserver und jeder Stream lebt — nebeneinander in einer einzigen scrollbaren Liste.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evervideo Cloud-Speicher-Abschnitt im Dateien-Tab" image="/docs/guide/evervideo/img/evervideo-connections.webp" >}}
+  {{< ls-card title="" subtitle="Evervideo Cloud-Speicher-Abschnitt im Dateien-Tab" image="/docs/guide/evervideo/img/evervideo-connections.webp" >}}
 {{< /cards >}}
 
 - Öffnen Sie den **Dateien**-Tab.
@@ -51,7 +51,7 @@ Der Cloud-Speicher-Abschnitt des Dateien-Tabs ist der Ort, an dem jedes verbunde
 - Geben Sie Ihre Anmeldedaten auf der offiziellen Autorisierungsseite des Cloud-Anbieters ein und tippen Sie auf **Fertig**.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evervideo Mit einem Cloud-Speicherdienst verbinden" image="/docs/guide/evervideo/img/evervideo-connect-cloud-storage.webp" >}}
+  {{< ls-card title="" subtitle="Evervideo Mit einem Cloud-Speicherdienst verbinden" image="/docs/guide/evervideo/img/evervideo-connect-cloud-storage.webp" >}}
 {{< /cards >}}
 
 Wenn Probleme auftreten, überprüfen Sie Ihre Internetverbindung und Ihren Benutzernamen / Ihr Passwort. In der Premium-Version der App können Sie eine unbegrenzte Anzahl von Diensten hinzufügen; die kostenlose Version unterstützt bis zu drei.
@@ -161,7 +161,7 @@ Dieser Abschnitt zeigt jedes Gerät in Ihrem lokalen Netzwerk, mit dem Sie sich 
 - Falls erforderlich, geben Sie Ihre Anmeldedaten ein, um die Verbindung abzuschließen.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evervideo Verfügbare Geräte im lokalen Netzwerk" image="/docs/guide/evervideo/img/evervideo-available-devices.webp" >}}
+  {{< ls-card title="" subtitle="Evervideo Verfügbare Geräte im lokalen Netzwerk" image="/docs/guide/evervideo/img/evervideo-available-devices.webp" >}}
 {{< /cards >}}
 
 ## Wi-Fi Drive
@@ -169,7 +169,7 @@ Dieser Abschnitt zeigt jedes Gerät in Ihrem lokalen Netzwerk, mit dem Sie sich 
 Wi-Fi Drive ermöglicht es Ihnen, Dateien kabellos von Ihrem Computer auf Ihr iOS-Gerät über einen Desktop-Browser, Finder oder den Datei-Explorer zu übertragen. Ihr Gerät und Ihr Computer müssen sich im gleichen Wi-Fi-Netzwerk befinden.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evervideo Wi-Fi Drive" image="/docs/guide/evervideo/img/evervideo-wifi-drive.webp" >}}
+  {{< ls-card title="" subtitle="Evervideo Wi-Fi Drive" image="/docs/guide/evervideo/img/evervideo-wifi-drive.webp" >}}
 {{< /cards >}}
 
 ### Wi-Fi Drive aktivieren
@@ -201,7 +201,7 @@ Schließen Sie ein USB-Laufwerk oder eine SD-Karte über den Lightning-zu-USB / 
 Tippen Sie auf einen verbundenen Cloud-Dienst, um seinen Datei-Browser zu öffnen. Ordner zeigen Video-Miniaturbilder, wenn verfügbar, und das Tippen auf ein Video startet die Wiedergabe sofort, während der Rest der Datei im Hintergrund weiter gestreamt wird.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evervideo Ordner in verbundenen Speichern durchsuchen" image="/docs/guide/evervideo/img/evervideo-all-connected-device-folders.webp" >}}
+  {{< ls-card title="" subtitle="Evervideo Ordner in verbundenen Speichern durchsuchen" image="/docs/guide/evervideo/img/evervideo-all-connected-device-folders.webp" >}}
 {{< /cards >}}
 
 ## Schnellzugriff
@@ -209,7 +209,7 @@ Tippen Sie auf einen verbundenen Cloud-Dienst, um seinen Datei-Browser zu öffne
 Der Schnellzugriff-Abschnitt befindet sich oben im Dateien-Tab. Er gibt Ihnen schnellen Zugriff auf Ihre favorisierten und zuletzt geöffneten Dateien und Ordner — sowohl aus Cloud-Diensten als auch aus dem Gerätespeicher. Immer wenn Sie eine Datei oder einen Ordner aus der Cloud öffnen, wird sie zur Liste Zuletzt geöffnet hinzugefügt. Sie können tief verschachtelte Ordner als Favoriten markieren, um schnell auf sie zugreifen zu können, ohne durch die Verzeichnisstruktur zu navigieren.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evervideo Online-Links und Schnellzugriff" image="/docs/guide/evervideo/img/evervideo-connections-online-links.webp" >}}
+  {{< ls-card title="" subtitle="Evervideo Online-Links und Schnellzugriff" image="/docs/guide/evervideo/img/evervideo-connections-online-links.webp" >}}
 {{< /cards >}}
 
 ## Dateien in dieser Anwendung
@@ -217,7 +217,7 @@ Der Schnellzugriff-Abschnitt befindet sich oben im Dateien-Tab. Er gibt Ihnen sc
 Dieser Abschnitt zeigt Dateien und Ordner, die im sandboxed-Dokumente-Verzeichnis von Evervideo gespeichert sind — alles, was Sie aus der Cloud heruntergeladen, über Wi-Fi Drive übertragen, durch die Finder-Dateifreigabe kopiert oder aus einer anderen App importiert haben.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evervideo Dateien in dieser Anwendung" image="/docs/guide/evervideo/img/evervideo-files-in-this-application.webp" >}}
+  {{< ls-card title="" subtitle="Evervideo Dateien in dieser Anwendung" image="/docs/guide/evervideo/img/evervideo-files-in-this-application.webp" >}}
 {{< /cards >}}
 
 ### Dokumente-Ordner
@@ -225,7 +225,7 @@ Dieser Abschnitt zeigt Dateien und Ordner, die im sandboxed-Dokumente-Verzeichni
 Der Dokumente-Ordner ist die Wurzel von allem innerhalb von Dateien in dieser Anwendung. Sie können Unterordner erstellen, Dateien umbenennen, sie verschieben und beliebig gruppieren.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evervideo Lokale Dateien — Dokumente-Ordner" image="/docs/guide/evervideo/img/evervideo-local-files-documents.webp" >}}
+  {{< ls-card title="" subtitle="Evervideo Lokale Dateien — Dokumente-Ordner" image="/docs/guide/evervideo/img/evervideo-local-files-documents.webp" >}}
 {{< /cards >}}
 
 ## Dateien auf diesem iPhone / iPad / Mac
@@ -238,7 +238,7 @@ Dieser Abschnitt zeigt Videos, die sich auf Ihrem Gerät, aber in anderen Anwend
 Sie können auch Einen Ordner verbinden verwenden, um einen Link zu einem Ordner auf Ihrem Gerät mit Lese- / Schreibzugriff zu erstellen — ideal für die Arbeit mit einem Ordner auf iCloud Drive oder einem angeschlossenen USB-Laufwerk, ohne etwas zu kopieren.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evervideo Dateien auf diesem Gerät" image="/docs/guide/evervideo/img/evervideo-files-on-this-device.webp" >}}
+  {{< ls-card title="" subtitle="Evervideo Dateien auf diesem Gerät" image="/docs/guide/evervideo/img/evervideo-files-on-this-device.webp" >}}
 {{< /cards >}}
 
 ## Spezielle Ordner
@@ -276,7 +276,7 @@ Wenn Sie einen Ordner öffnen, tippen Sie auf die **"..."**-Schaltfläche in der
 Tippen Sie auf **"..."** in der oberen rechten Ecke und wählen Sie **Auswählen**, um den Auswahlmodus zu aktivieren. Neben jeder Datei und jedem Ordner erscheinen Kontrollkästchen. Tippen Sie, um ein oder mehrere Elemente auszuwählen, und führen Sie dann Batch-Aktionen aus: Als nächstes abspielen, Später abspielen, Zur Mediathek hinzufügen, Zu einer Wiedergabeliste hinzufügen, Kopieren, Hochladen, Verschieben, Umbenennen oder Löschen.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evervideo Auswahlmodus im Dateimanager" image="/docs/guide/evervideo/img/evervideo-selection-mode-in-files.webp" >}}
+  {{< ls-card title="" subtitle="Evervideo Auswahlmodus im Dateimanager" image="/docs/guide/evervideo/img/evervideo-selection-mode-in-files.webp" >}}
 {{< /cards >}}
 
 Wenn Sie verbundenen Cloud-Speicher lieber als schreibgeschützt behandeln möchten (um versehentliche Löschungen zu verhindern), aktivieren Sie Einstellungen → Dateimanager → Online-Dateien bearbeiten → Aus, um alle destruktiven Operationen aus der Benutzeroberfläche auszublenden.
@@ -318,13 +318,13 @@ Für jeden Ordner in Ihrem Cloud-Speicher stehen viele Aktionen zur Verfügung, 
 In der oberen rechten Ecke des Dateien-Tabs befindet sich eine **Übertragungs**-Schaltfläche (ein Symbol mit drehenden Pfeilen). Tippen Sie darauf, um die Übertragungswarteschlange zu öffnen — eine Liste jedes aktiven Downloads und Uploads über alle Ihre Quellen hinweg, mit Echtzeit-Fortschritt, Geschwindigkeit und Restzeit pro Datei.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evervideo Dateiübertragungswarteschlange" image="/docs/guide/evervideo/img/evervideo-file-transfers.webp" >}}
+  {{< ls-card title="" subtitle="Evervideo Dateiübertragungswarteschlange" image="/docs/guide/evervideo/img/evervideo-file-transfers.webp" >}}
 {{< /cards >}}
 
 Sie können Übertragungen pausieren, fortsetzen, fehlgeschlagene wiederholen, Elemente neu anordnen, um bestimmte Downloads zu priorisieren, oder sie einzeln abbrechen. Sie können auch die Übertragungswarteschlangengeschwindigkeit (maximale parallele Aufgaben), den Netzwerktyp (nur Wi-Fi oder Wi-Fi + Mobilfunk) und Hintergrundübertragungen in Einstellungen → Dateimanager anpassen.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evervideo Aktionen in der Dateiübertragungswarteschlange" image="/docs/guide/evervideo/img/evervideo-file-transfers-actions.webp" >}}
+  {{< ls-card title="" subtitle="Evervideo Aktionen in der Dateiübertragungswarteschlange" image="/docs/guide/evervideo/img/evervideo-file-transfers-actions.webp" >}}
 {{< /cards >}}
 
 ## Offline-Modus und synchronisierte Offline-Ordner

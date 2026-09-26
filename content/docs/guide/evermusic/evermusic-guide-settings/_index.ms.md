@@ -18,7 +18,7 @@ readingTime: 16
 Skrin Tetapan adalah pusat kawalan Evermusic. Dari sini anda boleh menaik taraf ke Premium, mengkonfigurasi pemain audio, mengurus pustaka muzik anda, menyediakan pengurus fail, menyesuaikan antara muka, mengaktifkan widget dan CarPlay, menyandarkan data anda, dan mengakses bantuan serta maklumat undang-undang. Bahagian dikelompokkan di bawah pengepala: **Pembelian & kemas kini**, keutamaan aplikasi, **Bantuan**, dan **Undang-undang & privasi**.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Skrin Tetapan Evermusic" image="/docs/guide/evermusic/evermusic-guide-settings/img/settings-main-screen.webp" >}}
+  {{< ls-card title="" subtitle="Skrin Tetapan Evermusic" image="/docs/guide/evermusic/evermusic-guide-settings/img/settings-main-screen.webp" >}}
 {{< /cards >}}
 
 ## Pembelian & Kemas Kini

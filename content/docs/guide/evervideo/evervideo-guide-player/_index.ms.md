@@ -31,7 +31,7 @@ Anda boleh sampai ke pemain skrin penuh dari bar pemain kompak. Pada iPhone, pem
 Pemain kompak kekal kelihatan semasa anda melayari perpustakaan, pengurus fail, atau tetapan anda, supaya anda tidak pernah kehilangan video anda semasa mencari yang seterusnya.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Pemain Media Skrin Penuh Evervideo" image="/docs/guide/evervideo/img/evervideo-media-player-fullscreen.webp" >}}
+  {{< ls-card title="" subtitle="Pemain Media Skrin Penuh Evervideo" image="/docs/guide/evervideo/img/evervideo-media-player-fullscreen.webp" >}}
 {{< /cards >}}
 
 ## Format Video dan Audio yang Disokong
@@ -72,7 +72,7 @@ PiP berfungsi dengan setiap format video yang dimainkan Evervideo, termasuk fail
 Pemain kompak ialah pemain mini berterusan yang kekal kelihatan di bahagian atas setiap skrin dalam aplikasi semasa anda melayari perpustakaan, pengurus fail, atau tetapan. Ketiknya untuk mengembang ke pemain skrin penuh; leret ke bawah untuk melipatnya semula.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Tetapan Video Evervideo dari Paparan Pemain Kompak pada Skrin Utama" image="/docs/guide/evervideo/img/evervideo-video-settings-from-compact-player-view-on-the-main-screen.webp" >}}
+  {{< ls-card title="" subtitle="Tetapan Video Evervideo dari Paparan Pemain Kompak pada Skrin Utama" image="/docs/guide/evervideo/img/evervideo-video-settings-from-compact-player-view-on-the-main-screen.webp" >}}
 {{< /cards >}}
 
 ## AirPlay 2
@@ -115,7 +115,7 @@ Evervideo termasuk penyama audio penuh untuk menala saluran bunyi video untuk fo
 Untuk menala gambar, Evervideo menyediakan penyama video khusus — laraskan kecerahan, kontras, ketepuan, dan rona dalam masa nyata semasa main balik. Seperti penyama audio, pratetap video tersuai boleh dieksport dan diimport untuk perkongsian atau sandaran. Gunakannya untuk mencerahkan adegan gelap pada hari cerah, meningkatkan ketepuan pada kandungan yang pudar, atau menghangatkan warna yang sejuk.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Penyama Video Evervideo" image="/docs/guide/evervideo/img/evervideo-video-equalizer.webp" >}}
+  {{< ls-card title="" subtitle="Penyama Video Evervideo" image="/docs/guide/evervideo/img/evervideo-video-equalizer.webp" >}}
 {{< /cards >}}
 
 ## Mod Penskalaan Video
@@ -144,7 +144,7 @@ Evervideo termasuk viewport VR / 360° untuk fail video sfera. Apabila memainkan
 Ketik kawalan Kelajuan pada bar alat pemain untuk menukar kelajuan main balik — perlahankan untuk analisis (0.25× atau 0.5×) atau percepatkan untuk tutorial dan syarahan (1.25×, 1.5×, 2×, dan sehingga 3×). Ketik ikon konfigurasi di sudut kanan atas skrin Kelajuan untuk beralih ke mod tepat dengan pelarasan yang lebih halus. Pembetulan pic per trek juga tersedia.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Kelajuan Main Balik Evervideo pada Bar Alat Utama" image="/docs/guide/evervideo/img/evervideo-media-player-playback-speed-on-main-toolbar.webp" >}}
+  {{< ls-card title="" subtitle="Kelajuan Main Balik Evervideo pada Bar Alat Utama" image="/docs/guide/evervideo/img/evervideo-media-player-playback-speed-on-main-toolbar.webp" >}}
 {{< /cards >}}
 
 ## Baris Gilir Pemain
@@ -152,7 +152,7 @@ Ketik kawalan Kelajuan pada bar alat pemain untuk menukar kelajuan main balik �
 Untuk melihat baris gilir pemain anda, ketik butang baris gilir pada pemain. Setiap video dalam baris gilir mempunyai lebih banyak tindakan — ketik tiga titik untuk melihatnya. Untuk menyusun semula video dalam baris gilir, gunakan penunjuk susunan semula berhampiran tajuk dan seretnya ke kedudukan baru.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Baris Gilir Main Balik Evervideo" image="/docs/guide/evervideo/img/evervideo-playback-queue.webp" >}}
+  {{< ls-card title="" subtitle="Baris Gilir Main Balik Evervideo" image="/docs/guide/evervideo/img/evervideo-playback-queue.webp" >}}
 {{< /cards >}}
 
 ## Pemasa Tidur
@@ -189,7 +189,7 @@ Ketik butang **Lebih banyak tindakan "..."** pada pemain untuk mengakses fungsi 
 - **Bantuan** — buka panduan.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Skrin Lebih Banyak Tindakan Pemain Evervideo" image="/docs/guide/evervideo/img/evervideo-media-player-more-actions.webp" >}}
+  {{< ls-card title="" subtitle="Skrin Lebih Banyak Tindakan Pemain Evervideo" image="/docs/guide/evervideo/img/evervideo-media-player-more-actions.webp" >}}
 {{< /cards >}}
 
 ## Tetapan Pemain

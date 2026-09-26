@@ -7,7 +7,7 @@ tags: ["Evermusic", "Zvukové efekty", "Návod", "Dozvuk", "Echo", "Zkreslení",
 readingTime: 8
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 **Ve zkratce:** Evermusic obsahuje šest zvukových efektů v reálném čase – **normalizaci hlasitosti, kompresor, dozvuk, crossfeed, echo a zkreslení**. Otevřete je z nabídky přehrávače **⋯ (Více) > Zvukové efekty** nebo z **Nastavení > Zvukový přehrávač > Zvukové efekty**. Klepněte na efekt, přepněte jeho přepínač na **ZAPNUTO** (vpravo nahoře), vyberte **předvolbu** a případně otevřete **Pokročilý režim** a doladěte posuvníky. Každý efekt funguje nezávisle a použije se v reálném čase na vše, co přehráváte – místní soubory, cloudové streamy i internetové rádio – bez opětovného kódování.
 
@@ -162,38 +162,38 @@ Fungují také společně s **10pásmovým grafickým ekvalizérem** Evermusic a
 
 ## Časté dotazy
 
-{{% details title="Jak přidám do své hudby v Evermusic dozvuk, echo nebo jiné efekty?" closed="true" %}}
+{{% ls-details title="Jak přidám do své hudby v Evermusic dozvuk, echo nebo jiné efekty?" closed="true" %}}
 Otevřete přehrávač, klepněte na tlačítko ⋯ (Více) a zvolte Zvukové efekty (nebo přejděte do Nastavení > Zvukový přehrávač > Zvukové efekty). Klepněte na požadovaný efekt, přepněte jeho přepínač vpravo nahoře na ZAPNUTO a vyberte předvolbu. Otevřete Pokročilý režim a doladěte posuvníky. Efekt se okamžitě použije na to, co právě hraje.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Jaké zvukové efekty Evermusic má?" closed="true" %}}
+{{% ls-details title="Jaké zvukové efekty Evermusic má?" closed="true" %}}
 Šest efektů v reálném čase: normalizaci hlasitosti (vyrovnávání hlasitosti EBU R128), kompresor (dynamika), dozvuk (prostor a dozvukový ohon), crossfeed (přirozený obraz ve sluchátkách), echo a zkreslení (lo-fi drsnost). Každý je nezávislý a lze ho použít samostatně nebo v kombinaci.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Mění nebo poškozují efekty mé zvukové soubory?" closed="true" %}}
+{{% ls-details title="Mění nebo poškozují efekty mé zvukové soubory?" closed="true" %}}
 Ne. Všechny efekty se použijí v reálném čase pouze během přehrávání. Nikdy neupravují ani znovu nekódují vaše soubory. Vypněte efekt a váš původní zvuk se okamžitě vrátí.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Můžu použít více než jeden efekt najednou?" closed="true" %}}
+{{% ls-details title="Můžu použít více než jeden efekt najednou?" closed="true" %}}
 Ano. Každý efekt je nezávislý – není žádný hlavní přepínač – takže můžete zapnout libovolnou kombinaci. Například normalizaci hlasitosti plus kompresor pro konzistentní, pohodlný poslech, nebo dozvuk plus crossfeed ve sluchátkách.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Co je crossfeed a mám ho používat?" closed="true" %}}
+{{% ls-details title="Co je crossfeed a mám ho používat?" closed="true" %}}
 Crossfeed přimíchá malé, filtrované množství každého stereo kanálu do druhého, aby sluchátka zněla spíš jako skutečné reproduktory, a zmírní pocit „v hlavě“ u mixů s krajním panoramatem. Je to efekt pro sluchátka (u reproduktorů ho nechte vypnutý). Je postaven na algoritmu Bauer stereophonic-to-binaural (bs2b) a obsahuje předvolby jako Chu Moy a Jan Meier.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Co je normalizace hlasitosti a jak se liší od ReplayGain?" closed="true" %}}
+{{% ls-details title="Co je normalizace hlasitosti a jak se liší od ReplayGain?" closed="true" %}}
 Normalizace hlasitosti udržuje každou skladbu na konzistentní hlasitosti tím, že měří vnímanou hlasitost standardem EBU R128 a vyrovnává směrem k cíli. Na rozdíl od ReplayGain nepotřebuje hlasitostní značky ve vašich souborech a neupravuje zvuk – funguje živě na jakémkoli zdroji, včetně cloudových streamů a internetového rádia. Předvolby: Jemná, Standardní, Silná a Noční.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Jaký je rozdíl mezi Jednoduchým a Pokročilým režimem?" closed="true" %}}
+{{% ls-details title="Jaký je rozdíl mezi Jednoduchým a Pokročilým režimem?" closed="true" %}}
 Jednoduchý režim zobrazuje seznam předvoleb se srozumitelnými popisy, takže získáte dobrý zvuk jedním klepnutím. Pokročilý režim přidává posuvníky parametrů (například Mix u dozvuku nebo sedm ovládacích prvků kompresoru) pro přesné doladění. Přepínejte mezi nimi tlačítkem režimu vpravo nahoře v každém editoru efektů.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Proč jsou ovládací prvky efektu zašedlé?" closed="true" %}}
+{{% ls-details title="Proč jsou ovládací prvky efektu zašedlé?" closed="true" %}}
 Efekt je vypnutý. Zapněte přepínač efektu vpravo nahoře v jeho editoru, abyste ovládací prvky aktivovali. Každý efekt je ve výchozím nastavení vypnutý.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Fungují efekty se streamováním a CarPlay?" closed="true" %}}
+{{% ls-details title="Fungují efekty se streamováním a CarPlay?" closed="true" %}}
 Ano. Efekty běží uvnitř přehrávacího enginu, takže se použijí na místní soubory, cloudové disky, mediální servery a internetové rádio a fungují dál i během přehrávání přes CarPlay.
-{{% /details %}}
+{{% /ls-details %}}

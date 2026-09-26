@@ -72,19 +72,19 @@ Aquesta guia t'ajudarà a treure el màxim profit d'Evermusic al teu iPhone, iPa
 
 
 {{< cards >}}
-  {{< card icon="location-marker" title="Navegació" subtitle="Aprèn a navegar per Evermusic utilitzant la barra de pestanyes a l'iPhone o el menú esquerre a l'iPad i Mac." link="/docs/guide/evermusic/evermusic-guide-navigation" >}}
+  {{< ls-card icon="location-marker" title="Navegació" subtitle="Aprèn a navegar per Evermusic utilitzant la barra de pestanyes a l'iPhone o el menú esquerre a l'iPad i Mac." link="/docs/guide/evermusic/evermusic-guide-navigation" >}}
 
-  {{< card icon="cloud" title="Connexions" subtitle="Connecta els teus comptes al núvol i gestiona fitxers en línia utilitzant el gestor de fitxers integrat." link="/docs/guide/evermusic/evermusic-guide-connections" >}}
+  {{< ls-card icon="cloud" title="Connexions" subtitle="Connecta els teus comptes al núvol i gestiona fitxers en línia utilitzant el gestor de fitxers integrat." link="/docs/guide/evermusic/evermusic-guide-connections" >}}
 
-  {{< card icon="collection" title="Biblioteca de música" subtitle="Organitza i explora les teves cançons, àlbums i artistes a la Biblioteca de música." link="/docs/guide/evermusic/evermusic-guide-music-library" >}}
+  {{< ls-card icon="collection" title="Biblioteca de música" subtitle="Organitza i explora les teves cançons, àlbums i artistes a la Biblioteca de música." link="/docs/guide/evermusic/evermusic-guide-music-library" >}}
 
-  {{< card icon="music-note" title="Llistes de reproducció" subtitle="Crea i organitza llistes de reproducció per adaptar-les al teu estat d'ànim o ocasió." link="/docs/guide/evermusic/evermusic-guide-playlists" >}}
+  {{< ls-card icon="music-note" title="Llistes de reproducció" subtitle="Crea i organitza llistes de reproducció per adaptar-les al teu estat d'ànim o ocasió." link="/docs/guide/evermusic/evermusic-guide-playlists" >}}
 
-  {{< card icon="folder" title="Fitxers locals" subtitle="Accedeix i gestiona la música sense connexió a través de la secció de Fitxers locals." link="/docs/guide/evermusic/evermusic-guide-local-files" >}}
+  {{< ls-card icon="folder" title="Fitxers locals" subtitle="Accedeix i gestiona la música sense connexió a través de la secció de Fitxers locals." link="/docs/guide/evermusic/evermusic-guide-local-files" >}}
 
-  {{< card icon="play" title="Reproductor d'àudio" subtitle="Controla la reproducció, la cua i la configuració d'àudio com l'equalitzador i el temporitzador de son." link="/docs/guide/evermusic/evermusic-guide-player" >}}
+  {{< ls-card icon="play" title="Reproductor d'àudio" subtitle="Controla la reproducció, la cua i la configuració d'àudio com l'equalitzador i el temporitzador de son." link="/docs/guide/evermusic/evermusic-guide-player" >}}
 
-  {{< card icon="adjustments" title="Configuració" subtitle="Personalitza l'aspecte, les funcions i la configuració de rendiment d'Evermusic." link="/docs/guide/evermusic/evermusic-guide-settings" >}}
+  {{< ls-card icon="adjustments" title="Configuració" subtitle="Personalitza l'aspecte, les funcions i la configuració de rendiment d'Evermusic." link="/docs/guide/evermusic/evermusic-guide-settings" >}}
 
-  {{< card icon="question-mark-circle" title="FAQ" subtitle="Troba respostes ràpides a preguntes freqüents a la nostra secció de FAQ." link="/docs/faq/evermusic" >}}
+  {{< ls-card icon="question-mark-circle" title="FAQ" subtitle="Troba respostes ràpides a preguntes freqüents a la nostra secció de FAQ." link="/docs/faq/evermusic" >}}
 {{< /cards >}}

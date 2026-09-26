@@ -12,7 +12,7 @@ authors:
     image: "/images/about/artem-meleshko-founder-everappz.webp"
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 **要点速览：** [Evermusic 8.7](/products/evermusic) 是一次面向 iPhone、iPad 和 Mac 的音质更新。它带来了**真正的无缝播放**（曲目之间没有停顿、咔哒声或滴答声）、一整套**录音棚级音频效果**——混响、延迟、失真、压缩器和交叉馈送——以及**EBU R128 音量归一化**，无需 ReplayGain 标签即可让歌曲之间的响度保持一致。**10 段均衡器**经过重新设计，配有新滑块、更快的预设切换、可导入导出的自定义预设，以及更好的横屏和 iPad 布局。在底层，一个**重建的 AVAudioEngine 流式引擎**提升了可靠性和格式支持，包括 **FLAC** 和 **Ogg Vorbis**。**CarPlay** 和 **Now Playing** 在锁屏、车内以及通过耳机遥控时都更快、更准确。
 
@@ -129,50 +129,50 @@ Evermusic 8.7 围绕一个理念打造：**你的音乐应当在任何来源上�
 
 ## 常见问题
 
-{{% details title="Evermusic 8.7 有哪些新功能？" closed="true" %}}
+{{% ls-details title="Evermusic 8.7 有哪些新功能？" closed="true" %}}
 Evermusic 8.7 新增真正的无缝播放、五种录音棚级音频效果（混响、延迟、失真、压缩器和交叉馈送）、EBU R128 音量归一化、带自定义预设和导入/导出的全新 10 段均衡器、重建的 AVAudioEngine 流式引擎（格式支持改进，包括 FLAC 和 Ogg Vorbis）、更快更准确的 CarPlay 和 Now Playing、Liquid Glass 设计更新、焕新的主屏幕小组件，以及错误和本地化修复。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Evermusic 有真正的无缝播放吗？" closed="true" %}}
+{{% ls-details title="Evermusic 有真正的无缝播放吗？" closed="true" %}}
 有。从 Evermusic 8.7 起，播放真正做到无缝：曲目之间没有停顿、咔哒声或滴答声。引擎在当前曲目播放时预先缓冲并解码下一首，并在连续的环形缓冲区上于音频采样之间完成交接，因此切换不可闻。它适用于本地文件、云端流和媒体服务器，非常适合现场专辑、DJ 混音和概念专辑。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Evermusic 8.7 包含哪些音频效果？" closed="true" %}}
+{{% ls-details title="Evermusic 8.7 包含哪些音频效果？" closed="true" %}}
 五种实时效果：**混响**（13 种空间预设，干湿混合）、**延迟/回声**（10 种预设，含延迟时间、反馈、低通和混合）、**失真**（22 种特色预设，含前置增益和混合）、**压缩器**（一个完整的动态处理器，含阈值、比率、起音、释音、扩展和补偿增益，外加 10 种预设），以及**交叉馈送**（Bauer bs2b 耳机交叉馈送，含馈送量和截止控件及 6 种预设）。每种效果都随附精选预设，你的自定义设置会跨会话被记住。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="什么是交叉馈送，我为什么要用它？" closed="true" %}}
+{{% ls-details title="什么是交叉馈送，我为什么要用它？" closed="true" %}}
 交叉馈送会将每个立体声声道经过滤波的一小部分混入另一个声道，就像你的耳朵在房间里自然听到真实音箱那样。在耳机上，这会减轻硬声像录音那种夸张的"在脑袋里"的分离感，让长时间聆听更舒适。Evermusic 采用著名的 Bauer stereophonic-to-binaural (bs2b) 算法，并包含 Chu Moy 和 Jan Meier 等预设。它对 20 世纪 60 和 70 年代较老的立体声混音尤其有效。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Evermusic 中的音量归一化如何工作？" closed="true" %}}
+{{% ls-details title="Evermusic 中的音量归一化如何工作？" closed="true" %}}
 Evermusic 8.7 使用 EBU R128 标准（ITU-R BS.1770）实时测量每首曲目的感知响度，并温和地将电平调向一个一致的目标，使曲目之间不会在音量上跳变。它无需 ReplayGain 标签，也不会改动你的文件。共有四个预设——轻度（−20 LUFS）、标准（−16 LUFS）、强烈（−14 LUFS）和夜间（−23 LUFS）——归一化会在你拖动进度或切换曲目时干净地重置。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Evermusic 的音量归一化和 ReplayGain 是一回事吗？" closed="true" %}}
+{{% ls-details title="Evermusic 的音量归一化和 ReplayGain 是一回事吗？" closed="true" %}}
 它实现相同的目标——曲目之间响度一致——但工作方式不同。ReplayGain 依赖存储在文件内部的响度标签。Evermusic 的归一化器使用 EBU R128 实时测量响度，因此它对任何来源都有效，包括云端流和网络电台，即使文件完全没有标签也可以。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Evermusic 的均衡器有多少个频段，我能创建自己的预设吗？" closed="true" %}}
+{{% ls-details title="Evermusic 的均衡器有多少个频段，我能创建自己的预设吗？" closed="true" %}}
 Evermusic 均衡器是一个覆盖 32 Hz 到 16 kHz 的 10 段图形均衡器，每个频段可在 −12 dB 到 +12 dB 之间以 0.1 dB 步进调节，并配有 −24 dB 到 +24 dB 的前置放大。它包含内置预设，允许你创建并保存自定义预设，并支持将预设导入和导出为 .eqp 文件，以便在设备之间迁移或分享。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Evermusic 8.7 的均衡器有什么变化？" closed="true" %}}
+{{% ls-details title="Evermusic 8.7 的均衡器有什么变化？" closed="true" %}}
 均衡器经过重新设计，配有全新、更精确的滑块，采用 iOS 26 系统滑块和 Liquid Glass 外观，预设切换更快更顺滑，并在横屏和 iPad 上有更好的布局（竖屏为水平预设栏，横屏为垂直预设列）。支持自定义预设和 .eqp 导入/导出。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Evermusic 8.7 支持 FLAC 和 Ogg Vorbis 吗？" closed="true" %}}
+{{% ls-details title="Evermusic 8.7 支持 FLAC 和 Ogg Vorbis 吗？" closed="true" %}}
 支持。重建的引擎可播放 FLAC（通过 Core Audio）和 Ogg Vorbis（通过 libvorbisfile），以及 MP3、AAC、Apple Lossless (ALAC)、WAV、AIFF、AC-3、CAF 等，来源可以是本地文件、云盘和媒体服务器。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="CarPlay 和锁屏上有哪些改进？" closed="true" %}}
+{{% ls-details title="CarPlay 和锁屏上有哪些改进？" closed="true" %}}
 CarPlay 专辑封面在长列表中的加载速度快了数倍，并且现在会出现在此前不显示封面的 iOS 26 紧凑列表行中。锁屏和 CarPlay 上的 Now Playing 信息更准确——标题、已播时间、时长和播放/暂停状态被一起捕获，因此不会彼此矛盾，缓冲状态也能被正确报告。遥控控制（播放、暂停、下一首、上一首、拖动、随机、循环、速率）能从耳机和车内可靠响应，大型曲库上的 CarPlay 排序也更快。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="音频效果和均衡器在云端流式播放和 CarPlay 下有效吗？" closed="true" %}}
+{{% ls-details title="音频效果和均衡器在云端流式播放和 CarPlay 下有效吗？" closed="true" %}}
 有效。效果、均衡器和音量归一化都在播放引擎内部原生运行，因此它们适用于 Evermusic 播放的所有内容——本地文件、云盘、媒体服务器和网络电台——并在 CarPlay 播放期间持续工作，在支持的情况下也可通过 AirPlay 和 Chromecast 工作。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Evermusic 8.7 更新是免费的吗，它支持哪些设备？" closed="true" %}}
+{{% ls-details title="Evermusic 8.7 更新是免费的吗，它支持哪些设备？" closed="true" %}}
 是的。Evermusic 可从 App Store 免费下载，8.7 对现有用户是免费更新，并为高级功能提供可选的应用内升级。它可在 iPhone、iPad 和 Mac 上运行。CarPlay 需要一辆兼容 CarPlay 的车辆或主机。
-{{% /details %}}
+{{% /ls-details %}}

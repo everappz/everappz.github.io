@@ -1,0 +1,20 @@
+{{/*
+  Everappz — subscribe-only base template.
+
+  A deliberately chrome-free landing layout for the /subscribe/ section
+  (distraction-free conversion page): no navbar, footer, banner, or search.
+  It renders head + the page's "main" block + scripts only, and reuses the
+  page's own layout (currently `hextra-home`) for the centered content.
+
+  This is an INDEPENDENT file — it does NOT shadow the theme's baseof.html
+  (Hugo scopes it to the "subscribe" section), so the site-wide
+  layouts is the unmodified theme original. See MEMORY: ls-component-namespace.
+*/ -}}
+<!DOCTYPE html>
+<html lang="{{ .Site.Language.Lang }}" dir="{{ partial "utils/hugo-compat/language-direction.html" .Site.Language | default `ltr` }}">
+  {{- partial "head.html" . -}}
+  <body>
+    {{- block "main" . }}{{ end -}}
+    {{ partial "scripts.html" . }}
+  </body>
+</html>

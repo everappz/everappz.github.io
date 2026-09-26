@@ -7,7 +7,7 @@ tags: ["lyrics", "mp3", "id3", "metadata", "iphone", "audio editing"]
 readingTime: 2
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **Sažetak:** Koristite besplatnu aplikaciju **Evertag** za uređivanje nesinkroniziranih tekstova, ocjena sadržaja i 120+ audio oznaka na iPhone ili Mac. Radi s lokalnim i datotekama pohranjenim u oblaku, podržava skupno uređivanje i sprema tekstove vidljive u Evermusic, Flacbox i drugim playerima.
@@ -23,8 +23,8 @@ Za demonstraciju koristit ćemo aplikaciju **Evertag**. Podržava **120+ audio o
 Započnite preuzimanjem aplikacije **Evertag** iz App Storea. Dostupna je za **iOS** i **macOS** i besplatna je.
 
 {{< cards cols="2">}}
-{{< card link="https://apps.apple.com/app/apple-store/id1450763230?pt=95781850&ct=everappzcom&mt=8" title="Evertag za iOS" icon="download" tag="Free" >}}
-{{< card link="https://apps.apple.com/app/apple-store/id1594027661?pt=95781850&ct=everappzcom&mt=8" title="Evertag za macOS" icon="download" tag="Free" >}}
+{{< ls-card link="https://apps.apple.com/app/apple-store/id1450763230?pt=95781850&ct=everappzcom&mt=8" title="Evertag za iOS" icon="download" tag="Free" >}}
+{{< ls-card link="https://apps.apple.com/app/apple-store/id1594027661?pt=95781850&ct=everappzcom&mt=8" title="Evertag za macOS" icon="download" tag="Free" >}}
 {{< /cards >}}
 
 ## Povežite svoj račun u oblaku
@@ -38,13 +38,13 @@ Za povezivanje usluge pohrane u oblaku:
 - Dodirnite **Poveži se s pohranom u oblaku**
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Poveži se s pohranom u oblaku" image="/docs/howto/how-to-edit-lyrics-for-audio-files-on-iphone-mac/connect-to-cloud-storage.webp" >}}
+{{< ls-card title="" subtitle="Poveži se s pohranom u oblaku" image="/docs/howto/how-to-edit-lyrics-for-audio-files-on-iphone-mac/connect-to-cloud-storage.webp" >}}
 {{< /cards >}}
 
 - Odaberite podržanog pružatelja, unesite svoje vjerodajnice i dodirnite **Gotovo**
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Poveži se s pohranom u oblaku" image="/docs/howto/how-to-edit-lyrics-for-audio-files-on-iphone-mac/connect-to-cloud-storage.webp" >}}
+{{< ls-card title="" subtitle="Poveži se s pohranom u oblaku" image="/docs/howto/how-to-edit-lyrics-for-audio-files-on-iphone-mac/connect-to-cloud-storage.webp" >}}
 {{< /cards >}}
 
 - Nakon povezivanja, vaša pohrana u oblaku pojavit će se u odjeljku **Pohrana u oblaku** aplikacije.
@@ -52,7 +52,7 @@ Za povezivanje usluge pohrane u oblaku:
 - Dodirnite svoju povezanu pohranu u oblaku za pregledavanje i učitavanje sadržaja njezinih mapa.
   
 {{< cards cols="1">}}
-{{< card title="" subtitle="Popis datoteka pohrane u oblaku" image="/docs/howto/how-to-edit-lyrics-for-audio-files-on-iphone-mac/cloud-storage-list-audio-files.webp" >}}
+{{< ls-card title="" subtitle="Popis datoteka pohrane u oblaku" image="/docs/howto/how-to-edit-lyrics-for-audio-files-on-iphone-mac/cloud-storage-list-audio-files.webp" >}}
 {{< /cards >}}
 
 ## Poveži lokalnu mapu
@@ -74,7 +74,7 @@ Možete uređivati audio oznake za datoteke pohranjene izravno na vašem uređaj
 - Pomaknite se dolje do **Datoteke na ovom uređaju** u izborniku bočne trake
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Mape uređaja" image="/docs/howto/how-to-edit-lyrics-for-audio-files-on-iphone-mac/device-folders.webp" >}}
+{{< ls-card title="" subtitle="Mape uređaja" image="/docs/howto/how-to-edit-lyrics-for-audio-files-on-iphone-mac/device-folders.webp" >}}
 {{< /cards >}}
   
 - Dodirnite stavku izbornika **Sve mape uređaja**
@@ -91,7 +91,7 @@ Možete uređivati audio oznake za datoteke pohranjene izravno na vašem uređaj
 **Uređivač oznaka** je glavni zaslon aplikacije Evertag gdje možete pregledavati i uređivati metapodatke audio datoteka. Otvorite ovaj zaslon dodirom na datoteku iz odjeljka **Lokalne datoteke** ili iz bilo kojeg povezanog računa **pohrane u oblaku**.
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Zaslon uređivača oznaka Evertag" image="/docs/howto/how-to-edit-lyrics-for-audio-files-on-iphone-mac/cloud-storage-audio-file-tag-editor.webp" >}}
+{{< ls-card title="" subtitle="Zaslon uređivača oznaka Evertag" image="/docs/howto/how-to-edit-lyrics-for-audio-files-on-iphone-mac/cloud-storage-audio-file-tag-editor.webp" >}}
 {{< /cards >}}
 
 ## Načini uređivanja
@@ -112,7 +112,7 @@ Prema zadanim postavkama, aplikacija otvara uređivač oznaka u načinu pojedina
 Za pristup svim dostupnim oznakama, pomaknite se na dno zaslona i dodirnite opciju **Prikaži proširene oznake**. To će prebaciti uređivač u prošireni način, omogućujući uređivanje više od **120 polja metapodataka**, uključujući **MusicBrainz oznake**, **tekstove**, **ocjene sadržaja** i više.
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Donji panel radnji" image="/docs/howto/how-to-edit-lyrics-for-audio-files-on-iphone-mac/show-extended-tags.webp" >}}
+{{< ls-card title="" subtitle="Donji panel radnji" image="/docs/howto/how-to-edit-lyrics-for-audio-files-on-iphone-mac/show-extended-tags.webp" >}}
 {{< /cards >}}
 
 ## Skupni način
@@ -137,7 +137,7 @@ Evo kako dodati ili ažurirati **nesinkronizirane tekstove** ugrađene u vaše a
 U načinu **Proširene oznake**, pomaknite se dolje i dodirnite tekstualno polje **Nesinkronizirani tekstovi**.
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Tekstualno polje nesinkroniziranih tekstova" image="/docs/howto/how-to-edit-lyrics-for-audio-files-on-iphone-mac/advisory-rating-2.webp" >}}
+{{< ls-card title="" subtitle="Tekstualno polje nesinkroniziranih tekstova" image="/docs/howto/how-to-edit-lyrics-for-audio-files-on-iphone-mac/advisory-rating-2.webp" >}}
 {{< /cards >}}
 
 > Audio datoteke koje podržavaju **ID3 oznake** (kao `.mp3` ili `.wav`) omogućuju dodavanje tekstova na više jezika. Ako uređujete datoteku s ID3 oznakama, Evertag omogućuje punu višejezičnu podršku.  
@@ -148,7 +148,7 @@ U načinu **Proširene oznake**, pomaknite se dolje i dodirnite tekstualno polje
 Ako uređujete ID3 oznake, sljedeći zaslon prikazat će gumb **Dodaj novu stranicu**. Dodirnite ga za početak dodavanja novog unosa teksta.
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Dodaj novu stranicu tekstova" image="/docs/howto/how-to-edit-lyrics-for-audio-files-on-iphone-mac/add-new-page.webp" >}}
+{{< ls-card title="" subtitle="Dodaj novu stranicu tekstova" image="/docs/howto/how-to-edit-lyrics-for-audio-files-on-iphone-mac/add-new-page.webp" >}}
 {{< /cards >}}
 
 ### Odaberite jezik, komentar i sadržaj tekstova
@@ -159,7 +159,7 @@ Na zaslonu unosa tekstova moći ćete:
 - Unijeti stvarni **tekst pjesme**
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Odaberi jezik" image="/docs/howto/how-to-edit-lyrics-for-audio-files-on-iphone-mac/choose-language.webp" >}}
+{{< ls-card title="" subtitle="Odaberi jezik" image="/docs/howto/how-to-edit-lyrics-for-audio-files-on-iphone-mac/choose-language.webp" >}}
 {{< /cards >}}
 
 ### Unesite tekstove
@@ -169,7 +169,7 @@ Upišite ili zalijepite sadržaj svojih tekstova. Evertag podržava tekstove u L
 > Savjet: Tražite kvalitetne tekstove? Posjetite [lyricsify.com](https://www.lyricsify.com) za pronalaženje tekstova u LRC formatu za tisuće zapisa.
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Dodani tekstovi" image="/docs/howto/how-to-edit-lyrics-for-audio-files-on-iphone-mac/added-lyrics.webp" >}}
+{{< ls-card title="" subtitle="Dodani tekstovi" image="/docs/howto/how-to-edit-lyrics-for-audio-files-on-iphone-mac/added-lyrics.webp" >}}
 {{< /cards >}}
 
 ### Dodirnite "Gotovo" za potvrdu
@@ -177,7 +177,7 @@ Upišite ili zalijepite sadržaj svojih tekstova. Evertag podržava tekstove u L
 Nakon unosa tekstova, dodirnite **Gotovo** na stranici tekstova. Zatim dodirnite **Gotovo** ponovno na prethodnom zaslonu za potvrdu promjena.
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Spremljeni tekstovi" image="/docs/howto/how-to-edit-lyrics-for-audio-files-on-iphone-mac/saved-lyrics.webp" >}}
+{{< ls-card title="" subtitle="Spremljeni tekstovi" image="/docs/howto/how-to-edit-lyrics-for-audio-files-on-iphone-mac/saved-lyrics.webp" >}}
 {{< /cards >}}
 
 ### Spremi promjene oznaka
@@ -185,7 +185,7 @@ Nakon unosa tekstova, dodirnite **Gotovo** na stranici tekstova. Zatim dodirnite
 Na kraju, na zaslonu **Uređivač oznaka**, dodirnite **Spremi** za zapisivanje ažuriranih oznaka — uključujući vaše nove tekstove — natrag u datoteku.
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Uređivač oznaka s tekstovima" image="/docs/howto/how-to-edit-lyrics-for-audio-files-on-iphone-mac/tags-editor-with-lyrics.webp" >}}
+{{< ls-card title="" subtitle="Uređivač oznaka s tekstovima" image="/docs/howto/how-to-edit-lyrics-for-audio-files-on-iphone-mac/tags-editor-with-lyrics.webp" >}}
 {{< /cards >}}
 
 ### Postavite ocjenu sadržaja tekstova
@@ -204,22 +204,22 @@ Slijedeći ove korake, vaši tekstovi bit će ispravno ugrađeni u metapodatke a
 
 ## Često postavljana pitanja
 
-{{% details title="Koje audio formate Evertag podržava za uređivanje tekstova?" closed="true" %}}
+{{% ls-details title="Koje audio formate Evertag podržava za uređivanje tekstova?" closed="true" %}}
 Evertag podržava više od 30 audio formata, uključujući MP3, FLAC, WAV, M4A, OGG, AIFF i više. Možete uređivati tekstove i druge oznake metapodataka u bilo kojem od ovih formata.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Mogu li dodati tekstove na više jezika?" closed="true" %}}
+{{% ls-details title="Mogu li dodati tekstove na više jezika?" closed="true" %}}
 Da, ali samo za audio datoteke koje koriste ID3 oznake (kao MP3 i WAV). Za ostale formate poput FLAC ili M4A, podržan je samo jedan unos teksta.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Podržava li Evertag skupno uređivanje tekstova?" closed="true" %}}
+{{% ls-details title="Podržava li Evertag skupno uređivanje tekstova?" closed="true" %}}
 Da. Možete ući u skupni način za uređivanje metapodataka više datoteka odjednom. To je korisno za primjenu iste ocjene sadržaja ili drugih zajedničkih oznaka na cijeli album.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Hoće li se uređeni tekstovi pojaviti u Apple Music ili Spotify?" closed="true" %}}
+{{% ls-details title="Hoće li se uređeni tekstovi pojaviti u Apple Music ili Spotify?" closed="true" %}}
 Tekstovi uređeni Evertagom ugrađeni su u metapodatke audio datoteke. Pojavit će se u bilo kojem glazbenom playeru koji čita ugrađene oznake tekstova, kao Evermusic, Flacbox, VLC i foobar2000. Aplikacije za streaming poput Spotify i Apple Music koriste vlastite baze podataka tekstova i ne čitaju ugrađene oznake.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Mogu li uređivati oznake za datoteke pohranjene u oblaku?" closed="true" %}}
+{{% ls-details title="Mogu li uređivati oznake za datoteke pohranjene u oblaku?" closed="true" %}}
 Da. Evertag podržava povezivanje s uslugama pohrane u oblaku. Aplikacija preuzima datoteku, omogućuje vam uređivanje oznaka i automatski učitava ažuriranu datoteku natrag u oblak.
-{{% /details %}}
+{{% /ls-details %}}

@@ -12,7 +12,7 @@ authors:
     image: "/images/about/artem-meleshko-founder-everappz.webp"
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 **Flacbox 1.6** aduce funcții noi importante playerului de muzică FLAC pentru iPhone și iPad.
 
@@ -68,18 +68,18 @@ Aveți feedback sau solicitări de funcții? Contactați-ne -- construim Flacbox
 
 ## Întrebări Frecvente
 
-{{% details title="Ce formate audio suportă Flacbox?" closed="true" %}}
+{{% ls-details title="Ce formate audio suportă Flacbox?" closed="true" %}}
 Flacbox suportă FLAC, ALAC, MP3, AAC, OGG, OPUS, WAV, AIFF, DSD și alte formate audio populare. Toate formatele funcționează cu egalizatorul integrat.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Pot reda muzică de pe un card SD pe iPhone-ul meu?" closed="true" %}}
+{{% ls-details title="Pot reda muzică de pe un card SD pe iPhone-ul meu?" closed="true" %}}
 Da. Conectați un card SD sau microSD folosind un Lightning to SD Card Camera Reader Adapter. Flacbox detectează cardul automat și vă permite să răsfoiți și să redați fișiere direct de pe stocarea externă.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Flacbox se sincronizează automat cu stocarea cloud?" closed="true" %}}
+{{% ls-details title="Flacbox se sincronizează automat cu stocarea cloud?" closed="true" %}}
 Da. Începând cu versiunea 1.6, Flacbox poate sincroniza automat biblioteca muzicală din folderele cloud. Activați Sincronizarea Automată în Setări și selectați folderele pe care doriți să le monitorizați.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Este egalizatorul Flacbox personalizabil?" closed="true" %}}
+{{% ls-details title="Este egalizatorul Flacbox personalizabil?" closed="true" %}}
 Da. Egalizatorul de 10 benzi vă permite să ajustați nivelurile individuale de frecvență între -12 dB și +12 dB. Puteți utiliza presetări integrate sau salva propriile setări personalizate.
-{{% /details %}}
+{{% /ls-details %}}

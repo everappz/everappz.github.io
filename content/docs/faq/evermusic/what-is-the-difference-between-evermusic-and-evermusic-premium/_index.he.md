@@ -62,7 +62,7 @@ tags: ["Evermusic", "Premium", "Pro", "חינם לעומת בתשלום", "אפ�
 
 ### הורדה ב-App Store
 
-{{< app-details ids="885367198, 905746421, 1564384601" >}}
+{{< ls-app-details ids="885367198, 905746421, 1564384601" >}}
 
 ### אריזה ב-App Store
 
@@ -142,7 +142,7 @@ tags: ["Evermusic", "Premium", "Pro", "חינם לעומת בתשלום", "אפ�
 
 ## שאלות נפוצות
 
-{{% details title="רכשתי את Evermusic Pro (או Premium) עם חשבון Apple ישן. האם אני יכול להעביר אותו לחשבון Apple חדש?" closed="true" %}}
+{{% ls-details title="רכשתי את Evermusic Pro (או Premium) עם חשבון Apple ישן. האם אני יכול להעביר אותו לחשבון Apple חדש?" closed="true" %}}
 על פי התיעוד הרשמי של Apple, רכישות מחשבון Apple אחר יכולות להיות משותפות באמצעות שיתוף משפחתי / שיתוף רכישות, בתנאי שהחשבונות מוגדרים כראוי בתוך אותה קבוצת שיתוף משפחתי.
 
 אם Evermusic Pro נרכשה באמצעות חשבון Apple הישן שלכם, Apple מספקת אפשרות להשתמש בחשבון זה כחשבון Apple משני לשיתוף רכישות.
@@ -202,30 +202,30 @@ https://apps.apple.com/us/app/evermusic-cloud-music-player/id885367198?uo=4
 שימו לב ששיתוף משפחתי של Apple, שיתוף רכישות, חשבונות Apple והיסטוריית רכישות ב-App Store מנוהלים לחלוטין על ידי Apple. אין לנו גישה לחשבונות Apple של המשתמשים ואיננו יכולים להעביר רכישות מ-App Store מחשבון Apple אחד לאחר מצדנו.
 
 אם אתם נתקלים בבעיות כלשהן במיוחד עם שיתוף משפחתי או עם גישה לרכישה שבוצעה בחשבון Apple הישן שלכם, תמיכת Apple תצטרך לבדוק את תצורת החשבונות.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="כבר שדרגתי את Evermusic Free (כחולה) ל-Premium. האם אני צריך גם את Evermusic Pro (אדומה)?" closed="true" %}}
+{{% ls-details title="כבר שדרגתי את Evermusic Free (כחולה) ל-Premium. האם אני צריך גם את Evermusic Pro (אדומה)?" closed="true" %}}
 לא. Evermusic Pro (סמל אדום) היא אותה אפליקציה כמו Evermusic Free (סמל כחול) עם Premium שכבר נפתח. אם כבר שדרגתם את האפליקציה הכחולה ל-Premium, יש לכם את כל מה ש-Pro מציעה, כך שאין צורך להתקין או לקנות את האפליקציה האדומה.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="האם שיתוף משפחתי נתמך, וכמה אנשים יכולים להשתמש ברכישה שלי?" closed="true" %}}
+{{% ls-details title="האם שיתוף משפחתי נתמך, וכמה אנשים יכולים להשתמש ברכישה שלי?" closed="true" %}}
 כן. שיתוף משפחתי עובד עם כל הרכישות והמנויים של Evermusic, כך שתוכלו לשתף את Premium עם עד חמישה בני משפחה. הפעילו שיתוף רכישות בהגדרות → משפחה במכשיר שלכם. כל בן משפחה מוריד את האפליקציה עם חשבון Apple משלו ומקבל Premium באופן אוטומטי.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="שדרגתי ל-Premium ב-iPhone שלי, אבל ה-Mac שלי עדיין מציג את הגרסה החינמית. איך אני מתקן את זה?" closed="true" %}}
+{{% ls-details title="שדרגתי ל-Premium ב-iPhone שלי, אבל ה-Mac שלי עדיין מציג את הגרסה החינמית. איך אני מתקן את זה?" closed="true" %}}
 ‏Premium משותף בין iPhone ל-Mac דרך iCloud. ראשית, ודאו ששני המכשירים משתמשים באותו חשבון Apple ושה-iCloud מופעל. ב-iPhone שלכם, פתחו את הגרסה העדכנית ביותר של Evermusic והמתינו כדקה כדי שהרכישה שלכם תועלה ל-iCloud. תוכלו גם להקיש על 'שחזור רכישות' בהגדרות. לאחר מכן פתחו את הגרסה העדכנית ביותר ב-Mac שלכם, התחברו לאינטרנט והמתינו כדקה. Premium אמור להיות מופעל מעצמו.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="איך אני משחזר את הרכישה שלי במכשיר חדש?" closed="true" %}}
+{{% ls-details title="איך אני משחזר את הרכישה שלי במכשיר חדש?" closed="true" %}}
 פתחו את ההגדרות באפליקציה והקישו על 'שחזור רכישות'. תראו את הרכישות שלכם ו-Premium יופעל בחזרה. אם רכישה חסרה, ודאו שהמכשיר משתמש באותו חשבון Apple שאיתו קניתם, ושה-iCloud מופעל.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="אם אני מתקין את Evermusic Pro (אדומה), האם זה פותח את Premium ב-Evermusic Free (כחולה)?" closed="true" %}}
+{{% ls-details title="אם אני מתקין את Evermusic Pro (אדומה), האם זה פותח את Premium ב-Evermusic Free (כחולה)?" closed="true" %}}
 כן. אם תתקינו את Evermusic Pro האדומה במכשיר, Evermusic Free הכחולה באותו מכשיר מזהה אותה ומפעילה את Premium באופן אוטומטי. אינכם צריכים לקנות שוב את Premium באפליקציה הכחולה. אתם רק צריכים להשאיר את האפליקציה האדומה מותקנת.
 
 זה לא עובד בכיוון ההפוך. רכישת Premium בתוך האפליקציה הכחולה אינה הופכת את Evermusic Pro האדומה לחינמית, מכיוון שאלו אפליקציות נפרדות ב-App Store. רכישות באפליקציות הכחולות מסתנכרנות דרך iCloud בין אפליקציית ה-iPhone הכחולה לאפליקציית ה-Mac הכחולה.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="האם אני יכול להשתמש ב-Premium ב-Intel Mac?" closed="true" %}}
+{{% ls-details title="האם אני יכול להשתמש ב-Premium ב-Intel Mac?" closed="true" %}}
 כן. השתמשו באפליקציית Evermusic Free הכחולה ושדרגו ל-Premium. אפליקציית ה-Mac הכחולה פועלת גם על מחשבי Mac עם Apple Silicon וגם על Intel Mac. Evermusic Pro האדומה פועלת רק על מחשבי Mac עם Apple Silicon (M1 ואילך) ואי אפשר להתקין אותה על מחשבי Intel Mac.
-{{% /details %}}
+{{% /ls-details %}}

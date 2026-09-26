@@ -71,20 +71,20 @@ tags: ["flacbox", "οδηγός", "hi-res", "FLAC", "FFmpeg", "cloud", "CarPlay"
 
 {{< cards cols="2">}}
 
-{{< card icon="map" link="/docs/guide/flacbox/flacbox-guide-navigation" title="Πλοήγηση" subtitle="Tab Bar στο iPhone, αριστερό μενού σε iPad και Mac, mini player, widgets, CarPlay." >}}
+{{< ls-card icon="map" link="/docs/guide/flacbox/flacbox-guide-navigation" title="Πλοήγηση" subtitle="Tab Bar στο iPhone, αριστερό μενού σε iPad και Mac, mini player, widgets, CarPlay." >}}
 
-{{< card icon="cloud" link="/docs/guide/flacbox/flacbox-guide-connections" title="Συνδέσεις" subtitle="iCloud, Google Drive, Dropbox, OneDrive, NAS, WebDAV, SMB, DLNA." >}}
+{{< ls-card icon="cloud" link="/docs/guide/flacbox/flacbox-guide-connections" title="Συνδέσεις" subtitle="iCloud, Google Drive, Dropbox, OneDrive, NAS, WebDAV, SMB, DLNA." >}}
 
-{{< card icon="collection" link="/docs/guide/flacbox/flacbox-guide-music-library" title="Μουσική Βιβλιοθήκη" subtitle="Τραγούδια, Άλμπουμ, Καλλιτέχνες, Είδη, Συνθέτες — συγχρονισμός, αναζήτηση, επεξεργασία μεταδεδομένων." >}}
+{{< ls-card icon="collection" link="/docs/guide/flacbox/flacbox-guide-music-library" title="Μουσική Βιβλιοθήκη" subtitle="Τραγούδια, Άλμπουμ, Καλλιτέχνες, Είδη, Συνθέτες — συγχρονισμός, αναζήτηση, επεξεργασία μεταδεδομένων." >}}
 
-{{< card icon="music-note" link="/docs/guide/flacbox/flacbox-guide-playlists" title="Λίστες αναπαραγωγής" subtitle="Δημιουργία, εισαγωγή M3U / M3U8 / CUE, αναδιάταξη και εξαγωγή σε M3U / CSV / TXT." >}}
+{{< ls-card icon="music-note" link="/docs/guide/flacbox/flacbox-guide-playlists" title="Λίστες αναπαραγωγής" subtitle="Δημιουργία, εισαγωγή M3U / M3U8 / CUE, αναδιάταξη και εξαγωγή σε M3U / CSV / TXT." >}}
 
-{{< card icon="folder" link="/docs/guide/flacbox/flacbox-guide-local-files" title="Τοπικά Αρχεία" subtitle="Offline μουσική, USB drives, Wi-Fi Drive, διαχειριστής αρχείων, offline φάκελοι." >}}
+{{< ls-card icon="folder" link="/docs/guide/flacbox/flacbox-guide-local-files" title="Τοπικά Αρχεία" subtitle="Offline μουσική, USB drives, Wi-Fi Drive, διαχειριστής αρχείων, offline φάκελοι." >}}
 
-{{< card icon="play" link="/docs/guide/flacbox/flacbox-guide-player" title="Audio Player" subtitle="Έξοδος hi-res, equalizer, τόνος, σελιδοδείκτες, AirPlay, Chromecast, ταχύτητα, χρονοδιακόπτης ύπνου." >}}
+{{< ls-card icon="play" link="/docs/guide/flacbox/flacbox-guide-player" title="Audio Player" subtitle="Έξοδος hi-res, equalizer, τόνος, σελιδοδείκτες, AirPlay, Chromecast, ταχύτητα, χρονοδιακόπτης ύπνου." >}}
 
-{{< card icon="adjustments" link="/docs/guide/flacbox/flacbox-guide-settings" title="Ρυθμίσεις" subtitle="Μηχανή ήχου, βιβλιοθήκη, διαχειριστής αρχείων, CarPlay, widgets, εξατομίκευση, γλώσσα, backup." >}}
+{{< ls-card icon="adjustments" link="/docs/guide/flacbox/flacbox-guide-settings" title="Ρυθμίσεις" subtitle="Μηχανή ήχου, βιβλιοθήκη, διαχειριστής αρχείων, CarPlay, widgets, εξατομίκευση, γλώσσα, backup." >}}
 
-{{< card icon="question-mark-circle" link="/docs/faq/flacbox" title="FAQ" subtitle="Βρείτε απαντήσεις στις 50 πιο συνηθισμένες ερωτήσεις για το Flacbox." >}}
+{{< ls-card icon="question-mark-circle" link="/docs/faq/flacbox" title="FAQ" subtitle="Βρείτε απαντήσεις στις 50 πιο συνηθισμένες ερωτήσεις για το Flacbox." >}}
 
 {{< /cards >}}

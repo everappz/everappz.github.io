@@ -19,7 +19,7 @@ readingTime: 11
 Mengurus perpustakaan muzik anda adalah mudah dengan Flacbox, di mana anda boleh dengan mudah menganjurkan semua trek anda — FLAC, ALAC, DSD, MP3, M4A, OGG, WMA, APE tempatan dan berpuluh-puluh format lain — ke dalam satu koleksi yang boleh dicari. Anda mempunyai dua pilihan untuk membina perpustakaan muzik anda: penambahan manual (anda memilih tepat apa yang ditambah) atau penyegerakan automatik (Flacbox mengimbas folder awan yang ditetapkan dan menambah fail baru secara automatik apabila ia muncul).
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Paparan Album Perpustakaan Muzik Flacbox" image="/docs/guide/flacbox/img/media-library-albums.webp" >}}
+  {{< ls-card title="" subtitle="Paparan Album Perpustakaan Muzik Flacbox" image="/docs/guide/flacbox/img/media-library-albums.webp" >}}
 {{< /cards >}}
 
 ## Penambahan Manual
@@ -27,7 +27,7 @@ Mengurus perpustakaan muzik anda adalah mudah dengan Flacbox, di mana anda boleh
 Untuk menambah trek secara manual, ketik ikon **Tambah Muzik** yang terletak di sudut kiri atas dan pilih folder atau fail dari perkhidmatan storan awan yang disambungkan atau fail yang terletak pada peranti anda. Apabila anda menambah trek ke perpustakaan, hanya pautan ke trek tersebut yang dibuat — fail sebenar kekal di lokasi asal untuk menjimatkan ruang cakera yang berharga. Jika anda ingin menjadikan trek tersedia di luar talian, anda boleh menggunakan tindakan Muat Turun dari menu pilihan atau mengaktifkan Mod Luar Talian untuk senarai main dan koleksi trek.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox Tambah Lagu ke Perpustakaan Muzik" image="/docs/guide/flacbox/img/library-add-songs.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox Tambah Lagu ke Perpustakaan Muzik" image="/docs/guide/flacbox/img/library-add-songs.webp" >}}
 {{< /cards >}}
 
 Anda juga boleh menyeret-dan-melepaskan fail ke dalam perpustakaan pada versi Mac, atau menggunakan **Buka Fail…** / **Buka Folder…** dari pemilih fail sistem pada iPhone dan iPad.
@@ -89,7 +89,7 @@ Terletak tepat di bawah bar navigasi, bar alat atas menawarkan beberapa tindakan
 Ciri carian membolehkan anda mencari trek, artis, album atau genre tertentu dalam perpustakaan muzik anda. Carian berjalan secara tempatan terhadap pangkalan data perpustakaan muzik, jadi ia berfungsi sepenuhnya di luar talian dan mengembalikan hasil semasa anda menaip.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Carian Perpustakaan Muzik Flacbox" image="/docs/guide/flacbox/img/media-library-search.webp" >}}
+  {{< ls-card title="" subtitle="Carian Perpustakaan Muzik Flacbox" image="/docs/guide/flacbox/img/media-library-search.webp" >}}
 {{< /cards >}}
 
 ## Menu Pilihan
@@ -140,7 +140,7 @@ Apabila anda membuka bahagian Artis, Artis Album atau Penggubah, anda boleh meli
 Ini amat berguna untuk membersihkan kompilasi 'Pelbagai Artis' yang sesak dalam perpustakaan besar.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Skrin Butiran Album Flacbox" image="/docs/guide/flacbox/img/media-library-album-details-screen.webp" >}}
+  {{< ls-card title="" subtitle="Skrin Butiran Album Flacbox" image="/docs/guide/flacbox/img/media-library-album-details-screen.webp" >}}
 {{< /cards >}}
 
 ## Tetapan

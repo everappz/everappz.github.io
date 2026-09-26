@@ -7,7 +7,7 @@ tags: ["muzică", "cloud", "streaming", "player", "drive", "icloud"]
 readingTime: 5
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **Pe scurt:** Încărcați muzica pe iCloud Drive, instalați [Evermusic](/products/evermusic) (pentru MP3/WAV) sau [Flacbox](/products/flacbox) (pentru FLAC/DSD), conectați folderul iCloud Drive și transmiteți direct fără a utiliza spațiul de stocare al dispozitivului.
@@ -29,8 +29,8 @@ Așadar, dacă sunteți gata să vă bucurați de comoditatea transmiterii muzic
 1. Mergeți la App Store și descărcați **Evermusic** dacă muzica dvs. este stocată în formate audio standard precum mp3 sau wav. Dacă aveți muzică fără pierderi în format dsd sau flac, optați pentru **Flacbox**. Ambele aplicații sunt disponibile pentru iOS și MacOS.
 
 {{< cards >}}
-  {{< card link="https://apps.apple.com/us/app/evermusic-cloud-music-player/id885367198" title="Descărcați Evermusic pentru iOS" icon="download" tag="Gratuit" >}}
-  {{< card link="https://apps.apple.com/us/app/flacbox-flac-player-equalizer/id1097564256" title="Descărcați Flacbox pentru iOS" icon="download" tag="Gratuit" >}}
+  {{< ls-card link="https://apps.apple.com/us/app/evermusic-cloud-music-player/id885367198" title="Descărcați Evermusic pentru iOS" icon="download" tag="Gratuit" >}}
+  {{< ls-card link="https://apps.apple.com/us/app/flacbox-flac-player-equalizer/id1097564256" title="Descărcați Flacbox pentru iOS" icon="download" tag="Gratuit" >}}
 {{< /cards >}}
 
 - Pentru MacOS:
@@ -38,8 +38,8 @@ Așadar, dacă sunteți gata să vă bucurați de comoditatea transmiterii muzic
 1. Vizitați App Store pe Mac-ul dvs. și instalați **Evermusic** sau **Flacbox** în funcție de preferințele dvs. de format muzical.
 
 {{< cards >}}
-  {{< card link="https://apps.apple.com/us/app/evermusic-cloud-music-player/id1564384601" title="Descărcați Evermusic pentru Mac" icon="download" tag="Gratuit" >}}
-  {{< card link="https://apps.apple.com/us/app/flacbox-hires-music-player/id1594027432" title="Descărcați Flacbox pentru Mac" icon="download" tag="Gratuit" >}}
+  {{< ls-card link="https://apps.apple.com/us/app/evermusic-cloud-music-player/id1564384601" title="Descărcați Evermusic pentru Mac" icon="download" tag="Gratuit" >}}
+  {{< ls-card link="https://apps.apple.com/us/app/flacbox-hires-music-player/id1594027432" title="Descărcați Flacbox pentru Mac" icon="download" tag="Gratuit" >}}
 {{< /cards >}}
 
 După ce ați instalat aplicația pe iPhone sau Mac, sunteți gata să continuați.
@@ -215,22 +215,22 @@ Acum, mergeți mai departe, începeți transmiterea și lăsați muzica să cân
 
 ## FAQ
 
-{{% details title="Ce formate audio pot transmite din iCloud Drive?" closed="true" %}}
+{{% ls-details title="Ce formate audio pot transmite din iCloud Drive?" closed="true" %}}
 Evermusic suportă MP3, WAV, AAC și alte formate standard. Flacbox adaugă suport pentru FLAC, DSD, OGG și OPUS. Alegeți aplicația care corespunde colecției dvs. de muzică.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Transmiterea din iCloud Drive folosește spațiul de stocare al dispozitivului?" closed="true" %}}
+{{% ls-details title="Transmiterea din iCloud Drive folosește spațiul de stocare al dispozitivului?" closed="true" %}}
 Nu. Atât Evermusic, cât și Flacbox transmit audio direct din iCloud Drive fără a descărca fișiere pe dispozitivul dvs. Puteți descărca opțional piese individuale pentru ascultare offline.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Pot folosi muzica din iCloud Drive offline?" closed="true" %}}
+{{% ls-details title="Pot folosi muzica din iCloud Drive offline?" closed="true" %}}
 Da. Atingeți meniul cu trei puncte de pe orice piesă și alegeți opțiunea de descărcare. Fișierul va fi salvat local pentru redare offline.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="De ce se oprește sau face buffering muzica mea în timpul redării?" closed="true" %}}
+{{% ls-details title="De ce se oprește sau face buffering muzica mea în timpul redării?" closed="true" %}}
 Acest lucru este cauzat de obicei de o conexiune la internet lentă sau instabilă. Activați memoria cache a playerului audio în Setări pentru a pre-descărca piesele următoare și a preveni întreruperile.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Este gratuită transmiterea muzicii din iCloud Drive?" closed="true" %}}
+{{% ls-details title="Este gratuită transmiterea muzicii din iCloud Drive?" closed="true" %}}
 Atât Evermusic, cât și Flacbox sunt gratuite pentru descărcare. iCloud Drive oferă 5 GB de stocare gratuită. Puteți actualiza planul de stocare iCloud prin Apple dacă aveți nevoie de mai mult spațiu.
-{{% /details %}}
+{{% /ls-details %}}

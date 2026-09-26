@@ -12,7 +12,7 @@ authors:
     image: "/images/about/artem-meleshko-founder-everappz.webp"
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 **Ringkasan:** Instal [Flacbox dari App Store](https://apps.apple.com/us/app/flacbox-flac-player-music/id1097564256?mt=8) untuk memutar FLAC, DSD, ALAC, dan 120+ format audio lainnya di iPhone dan Mac. Impor file melalui iTunes File Sharing, Wi-Fi Drive, atau penyimpanan cloud. Tidak perlu konversi file. Flacbox mendekode format lossless secara native untuk pemutaran kualitas studio.
 
@@ -87,22 +87,22 @@ Aplikasi Musik bawaan Apple tidak mendukung FLAC. Flacbox menyediakan dekoder FL
 
 ## Pertanyaan yang Sering Diajukan
 
-{{< details title="Apakah Flacbox memerlukan langganan untuk memutar file lossless?" closed="true" >}}
+{{< ls-details title="Apakah Flacbox memerlukan langganan untuk memutar file lossless?" closed="true" >}}
 Flacbox menawarkan fungsionalitas pemutaran dasar tanpa langganan. Anda dapat mengimpor dan memutar FLAC, DSD, ALAC segera setelah mengunduh. Beberapa fitur lanjutan mungkin memerlukan upgrade premium, tetapi pemutaran lossless dasar tersedia segera.
-{{< /details >}}
+{{< /ls-details >}}
 
-{{< details title="Bisakah Flacbox memutar file DSD tanpa mengonversinya ke PCM?" closed="true" >}}
+{{< ls-details title="Bisakah Flacbox memutar file DSD tanpa mengonversinya ke PCM?" closed="true" >}}
 Ya, Flacbox mendukung pemutaran DSD native termasuk format DSD64, DSD128, dan DSD256. Untuk hasil terbaik, pasangkan perangkat Anda dengan DAC eksternal yang kompatibel dengan DSD.
-{{< /details >}}
+{{< /ls-details >}}
 
-{{< details title="Bagaimana cara mentransfer koleksi musik lossless besar ke iPhone saya?" closed="true" >}}
+{{< ls-details title="Bagaimana cara mentransfer koleksi musik lossless besar ke iPhone saya?" closed="true" >}}
 Flacbox menyediakan beberapa opsi transfer. Wi-Fi Drive memungkinkan upload dari browser mana pun di jaringan lokal. Untuk transfer tercepat, hubungkan drive eksternal langsung melalui adapter Lightning atau USB-C.
-{{< /details >}}
+{{< /ls-details >}}
 
-{{< details title="Apa cara terbaik memutar file FLAC di iPhone?" closed="true" >}}
+{{< ls-details title="Apa cara terbaik memutar file FLAC di iPhone?" closed="true" >}}
 Instal Flacbox dari App Store, lalu impor file FLAC Anda melalui iTunes File Sharing, Wi-Fi Drive, penyimpanan cloud, atau drive eksternal. Flacbox mendekode FLAC secara native tanpa konversi, mendukung resolusi hingga 32-bit/384 kHz.
-{{< /details >}}
+{{< /ls-details >}}
 
-{{< details title="Apakah Flacbox berfungsi dengan NAS dan server rumah?" closed="true" >}}
+{{< ls-details title="Apakah Flacbox berfungsi dengan NAS dan server rumah?" closed="true" >}}
 Ya. Flacbox terhubung ke perangkat NAS dan server rumah melalui protokol SMB, WebDAV, dan DLNA. Ini memungkinkan Anda streaming perpustakaan lossless tanpa menyalin file ke perangkat.
-{{< /details >}}
+{{< /ls-details >}}

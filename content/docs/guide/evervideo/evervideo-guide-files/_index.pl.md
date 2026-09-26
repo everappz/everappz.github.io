@@ -33,7 +33,7 @@ Karta Pliki jest podzielona na wyraźne sekcje, które pojawiają się w tej kol
 W prawym górnym rogu ekranu Pliki znajduje się przycisk Transfery (ikona obracających się strzałek). Dotknij go, aby otworzyć kolejkę transferów, gdzie monitorujesz każde pobranie i przesłanie z wszystkich źródeł.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evervideo — pliki w połączonych pamięciach masowych" image="/docs/guide/evervideo/img/evervideo-files-connected-storages.webp" >}}
+  {{< ls-card title="" subtitle="Evervideo — pliki w połączonych pamięciach masowych" image="/docs/guide/evervideo/img/evervideo-files-connected-storages.webp" >}}
 {{< /cards >}}
 
 ## Podłącz do pamięci masowej w chmurze
@@ -41,7 +41,7 @@ W prawym górnym rogu ekranu Pliki znajduje się przycisk Transfery (ikona obrac
 Sekcja Pamięć masowa w chmurze na karcie Pliki to miejsce, gdzie mieszkają wszystkie podłączone konta, NAS-y, serwery multimediów i strumienie — obok siebie na jednej przewijalnej liście.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Sekcja Pamięć masowa w chmurze na karcie Pliki w Evervideo" image="/docs/guide/evervideo/img/evervideo-connections.webp" >}}
+  {{< ls-card title="" subtitle="Sekcja Pamięć masowa w chmurze na karcie Pliki w Evervideo" image="/docs/guide/evervideo/img/evervideo-connections.webp" >}}
 {{< /cards >}}
 
 - Otwórz kartę **Pliki**.
@@ -51,7 +51,7 @@ Sekcja Pamięć masowa w chmurze na karcie Pliki to miejsce, gdzie mieszkają ws
 - Wprowadź swoje dane uwierzytelniające na oficjalnej stronie autoryzacji dostarczonej przez dostawcę chmury, a następnie dotknij **Gotowe**.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evervideo — podłącz usługę pamięci masowej w chmurze" image="/docs/guide/evervideo/img/evervideo-connect-cloud-storage.webp" >}}
+  {{< ls-card title="" subtitle="Evervideo — podłącz usługę pamięci masowej w chmurze" image="/docs/guide/evervideo/img/evervideo-connect-cloud-storage.webp" >}}
 {{< /cards >}}
 
 Jeśli napotkasz problemy, sprawdź połączenie internetowe oraz login / hasło. W wersji Premium aplikacji możesz dodać nieograniczoną liczbę usług; wersja bezpłatna obsługuje do trzech.
@@ -161,7 +161,7 @@ Ta sekcja wyświetla wszystkie urządzenia w sieci lokalnej, z którymi możesz 
 - W razie potrzeby wprowadź dane logowania, aby zakończyć połączenie.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evervideo — dostępne urządzenia w sieci lokalnej" image="/docs/guide/evervideo/img/evervideo-available-devices.webp" >}}
+  {{< ls-card title="" subtitle="Evervideo — dostępne urządzenia w sieci lokalnej" image="/docs/guide/evervideo/img/evervideo-available-devices.webp" >}}
 {{< /cards >}}
 
 ## Wi-Fi Drive
@@ -169,7 +169,7 @@ Ta sekcja wyświetla wszystkie urządzenia w sieci lokalnej, z którymi możesz 
 Wi-Fi Drive pozwala bezprzewodowo transferować pliki z komputera do urządzenia iOS przez dowolną przeglądarkę desktopową, Finder lub Eksplorator plików. Twoje urządzenie i komputer muszą być w tej samej sieci Wi-Fi.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evervideo Wi-Fi Drive" image="/docs/guide/evervideo/img/evervideo-wifi-drive.webp" >}}
+  {{< ls-card title="" subtitle="Evervideo Wi-Fi Drive" image="/docs/guide/evervideo/img/evervideo-wifi-drive.webp" >}}
 {{< /cards >}}
 
 ### Włącz Wi-Fi Drive
@@ -201,7 +201,7 @@ Podłącz pendrive USB lub kartę SD do iPhone, iPad lub Mac przez adapter Light
 Dotknij dowolnej podłączonej usługi w chmurze, aby otworzyć jej przeglądarkę plików. Foldery pokazują miniatury wideo, gdy są dostępne, a dotknięcie wideo natychmiast rozpoczyna odtwarzanie, kontynuując jednocześnie strumieniowanie reszty pliku w tle.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evervideo — przeglądanie folderów w podłączonych pamięciach masowych" image="/docs/guide/evervideo/img/evervideo-all-connected-device-folders.webp" >}}
+  {{< ls-card title="" subtitle="Evervideo — przeglądanie folderów w podłączonych pamięciach masowych" image="/docs/guide/evervideo/img/evervideo-all-connected-device-folders.webp" >}}
 {{< /cards >}}
 
 ## Szybki dostęp
@@ -209,7 +209,7 @@ Dotknij dowolnej podłączonej usługi w chmurze, aby otworzyć jej przeglądark
 Sekcja Szybki dostęp znajduje się na górze karty Pliki. Daje szybki dostęp do ulubionych i ostatnio otwartych plików i folderów — zarówno z usług w chmurze, jak i z pamięci na urządzeniu. Gdy otwierasz plik lub folder z chmury, jest on dodawany do listy Ostatnio otwarte. Możesz oznaczyć głęboko zagnieżdżone foldery jako Ulubione, aby uzyskać do nich szybki dostęp bez przeszukiwania struktury katalogów.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evervideo — łącza online i szybki dostęp" image="/docs/guide/evervideo/img/evervideo-connections-online-links.webp" >}}
+  {{< ls-card title="" subtitle="Evervideo — łącza online i szybki dostęp" image="/docs/guide/evervideo/img/evervideo-connections-online-links.webp" >}}
 {{< /cards >}}
 
 ## Pliki w tej aplikacji
@@ -217,7 +217,7 @@ Sekcja Szybki dostęp znajduje się na górze karty Pliki. Daje szybki dostęp d
 Ta sekcja pokazuje pliki i foldery przechowywane w piaskownicy katalogu Dokumenty Evervideo — wszystko, co pobrałeś z chmury, przetransferowałeś przez Wi-Fi Drive, skopiowałeś przez Finder File Sharing lub zaimportowałeś z innej aplikacji.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evervideo — pliki w tej aplikacji" image="/docs/guide/evervideo/img/evervideo-files-in-this-application.webp" >}}
+  {{< ls-card title="" subtitle="Evervideo — pliki w tej aplikacji" image="/docs/guide/evervideo/img/evervideo-files-in-this-application.webp" >}}
 {{< /cards >}}
 
 ### Folder Dokumenty
@@ -225,7 +225,7 @@ Ta sekcja pokazuje pliki i foldery przechowywane w piaskownicy katalogu Dokument
 Folder Dokumenty jest korzeniem wszystkiego wewnątrz Pliki w tej aplikacji. Możesz tworzyć podfoldery, zmieniać nazwy plików, przenosić je i grupować je dowolnie.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evervideo — pliki lokalne — folder Dokumenty" image="/docs/guide/evervideo/img/evervideo-local-files-documents.webp" >}}
+  {{< ls-card title="" subtitle="Evervideo — pliki lokalne — folder Dokumenty" image="/docs/guide/evervideo/img/evervideo-local-files-documents.webp" >}}
 {{< /cards >}}
 
 ## Pliki na tym iPhone / iPad / Mac
@@ -238,7 +238,7 @@ Ta sekcja pokazuje filmy znajdujące się na urządzeniu, ale w innych aplikacja
 Możesz też użyć Podłącz folder, aby utworzyć łącze do folderu na urządzeniu z dostępem do odczytu / zapisu — idealne do pracy z folderem na iCloud Drive lub podłączonym dysku USB bez kopiowania czegokolwiek.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evervideo — pliki na tym urządzeniu" image="/docs/guide/evervideo/img/evervideo-files-on-this-device.webp" >}}
+  {{< ls-card title="" subtitle="Evervideo — pliki na tym urządzeniu" image="/docs/guide/evervideo/img/evervideo-files-on-this-device.webp" >}}
 {{< /cards >}}
 
 ## Foldery specjalne
@@ -276,7 +276,7 @@ Gdy otwierasz folder, dotknij przycisku **„..."** w prawym górnym rogu, aby u
 Dotknij **„..."** w prawym górnym rogu i wybierz **Wybrać**, aby wejść w tryb wyboru. Przy każdym pliku i folderze pojawiają się pola wyboru. Dotknij, aby wybrać jeden lub kilka elementów, a następnie wykonaj działania zbiorcze: Odtwórz następny, Odtwórz później, Dodaj do biblioteki multimediów, Dodaj do listy odtwarzania, Kopiuj, Prześlij, Przenieś, Zmień nazwę lub Usuń.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evervideo — tryb wyboru w menedżerze plików" image="/docs/guide/evervideo/img/evervideo-selection-mode-in-files.webp" >}}
+  {{< ls-card title="" subtitle="Evervideo — tryb wyboru w menedżerze plików" image="/docs/guide/evervideo/img/evervideo-selection-mode-in-files.webp" >}}
 {{< /cards >}}
 
 Jeśli wolisz traktować podłączoną pamięć masową w chmurze jako tylko do odczytu (aby zapobiec przypadkowemu usuwaniu), włącz Ustawienia → Menedżer plików → Edytuj pliki online → Wył., aby ukryć wszystkie destrukcyjne operacje z interfejsu użytkownika.
@@ -318,13 +318,13 @@ Dla każdego folderu w pamięci masowej w chmurze masz wiele dostępnych akcji, 
 W prawym górnym rogu karty Pliki znajduje się przycisk **Transfery** (ikona obracających się strzałek). Dotknij go, aby otworzyć Kolejkę transferów — listę każdego aktywnego pobierania i przesyłania ze wszystkich źródeł, z postępem w czasie rzeczywistym, prędkością i szacowanym czasem ukończenia na plik.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evervideo — kolejka transferów plików" image="/docs/guide/evervideo/img/evervideo-file-transfers.webp" >}}
+  {{< ls-card title="" subtitle="Evervideo — kolejka transferów plików" image="/docs/guide/evervideo/img/evervideo-file-transfers.webp" >}}
 {{< /cards >}}
 
 Możesz wstrzymywać, wznawiać, ponawiać nieudane transfery, zmieniać kolejność elementów, aby nadać priorytet konkretnym pobieraniom, lub anulować je indywidualnie. Możesz również dostosować prędkość kolejki transferów (maksymalna liczba równoległych zadań), typ sieci (tylko Wi-Fi lub Wi-Fi + sieć komórkowa) i transfery w tle w Ustawienia → Menedżer plików.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evervideo — akcje w kolejce transferów plików" image="/docs/guide/evervideo/img/evervideo-file-transfers-actions.webp" >}}
+  {{< ls-card title="" subtitle="Evervideo — akcje w kolejce transferów plików" image="/docs/guide/evervideo/img/evervideo-file-transfers-actions.webp" >}}
 {{< /cards >}}
 
 ## Tryb offline i zsynchronizowane foldery offline

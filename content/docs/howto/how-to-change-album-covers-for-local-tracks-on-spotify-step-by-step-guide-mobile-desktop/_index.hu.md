@@ -7,7 +7,7 @@ tags: ["spotify", "albumborító", "mp3", "metaadatok", "zeneszerkesztő", "hely
 readingTime: 3
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **Röviden:** A Spotify nem engedi meg a streamelt zeneszámok albumborítóinak megváltoztatását, de a helyi fájlok borítóit frissítheted. Engedélyezd a Spotify Helyi fájlok funkcióját, másold a zenédet a Spotify mappába, majd használd az ingyenes Evertag alkalmazást az albumborítók és metaadatok szerkesztéséhez. A változtatások a Spotify újraindítása után jelennek meg.
@@ -25,8 +25,8 @@ A dolgok megkönnyítése érdekében bemutatjuk, hogyan szerkesztheted az album
 Kezdd az **Evertag** alkalmazás letöltésével az App Store-ból. Ingyenes és elérhető **iOS** és **macOS** rendszeren is.
 
 {{< cards cols="2">}}
-{{< card link="https://apps.apple.com/app/apple-store/id1450763230?pt=95781850&ct=everappzcom&mt=8" title="Evertag iOS-re" icon="download" tag="Free" >}}
-{{< card link="https://apps.apple.com/app/apple-store/id1594027661?pt=95781850&ct=everappzcom&mt=8" title="Evertag macOS-re" icon="download" tag="Free" >}}
+{{< ls-card link="https://apps.apple.com/app/apple-store/id1450763230?pt=95781850&ct=everappzcom&mt=8" title="Evertag iOS-re" icon="download" tag="Free" >}}
+{{< ls-card link="https://apps.apple.com/app/apple-store/id1594027661?pt=95781850&ct=everappzcom&mt=8" title="Evertag macOS-re" icon="download" tag="Free" >}}
 {{< /cards >}}
 
 ## Helyi könyvtár aktiválása a Spotifyon
@@ -36,7 +36,7 @@ Alapértelmezés szerint a **Helyi fájlok könyvtár** le van tiltva a Spotify 
 ### Nyisd meg a Spotify alkalmazást
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="A Spotify alkalmazás fő felülete" image="/docs/howto/how-to-change-album-covers-for-local-tracks-on-spotify-step-by-step-guide-mobile-desktop/spotify-main.webp" >}}
+{{< ls-card title="" subtitle="A Spotify alkalmazás fő felülete" image="/docs/howto/how-to-change-album-covers-for-local-tracks-on-spotify-step-by-step-guide-mobile-desktop/spotify-main.webp" >}}
 {{< /cards >}}
 
 ### Koppints a profil ikonodra
@@ -44,7 +44,7 @@ Alapértelmezés szerint a **Helyi fájlok könyvtár** le van tiltva a Spotify 
 Nézz a Spotify kezdőképernyőjének bal felső sarkába, és koppints a profilképedre a menü megnyitásához.
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Spotify avatar és opciók" image="/docs/howto/how-to-change-album-covers-for-local-tracks-on-spotify-step-by-step-guide-mobile-desktop/spotify-avatar-options.webp" >}}
+{{< ls-card title="" subtitle="Spotify avatar és opciók" image="/docs/howto/how-to-change-album-covers-for-local-tracks-on-spotify-step-by-step-guide-mobile-desktop/spotify-avatar-options.webp" >}}
 {{< /cards >}}
 
 ### Válaszd a «Beállítások és adatvédelem» lehetőséget
@@ -52,7 +52,7 @@ Nézz a Spotify kezdőképernyőjének bal felső sarkába, és koppints a profi
 Görgess lefelé a menüben, és válaszd a **Beállítások és adatvédelem** lehetőséget a teljes opciólista megnyitásához.
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Spotify beállítások menü" image="/docs/howto/how-to-change-album-covers-for-local-tracks-on-spotify-step-by-step-guide-mobile-desktop/spotify-settings.webp" >}}
+{{< ls-card title="" subtitle="Spotify beállítások menü" image="/docs/howto/how-to-change-album-covers-for-local-tracks-on-spotify-step-by-step-guide-mobile-desktop/spotify-settings.webp" >}}
 {{< /cards >}}
 
 ### Válaszd az «Alkalmazások és eszközök» lehetőséget
@@ -60,7 +60,7 @@ Görgess lefelé a menüben, és válaszd a **Beállítások és adatvédelem** 
 Keresd meg és koppints az **Alkalmazások és eszközök** menüpontra az eszközintegrációs beállítások megtekintéséhez.
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Spotify alkalmazások és eszközök" image="/docs/howto/how-to-change-album-covers-for-local-tracks-on-spotify-step-by-step-guide-mobile-desktop/spotify-apps-and-devices.webp" >}}
+{{< ls-card title="" subtitle="Spotify alkalmazások és eszközök" image="/docs/howto/how-to-change-album-covers-for-local-tracks-on-spotify-step-by-step-guide-mobile-desktop/spotify-apps-and-devices.webp" >}}
 {{< /cards >}}
 
 ### Kapcsold be a «Helyi hangfájlok» opciót
@@ -68,7 +68,7 @@ Keresd meg és koppints az **Alkalmazások és eszközök** menüpontra az eszk�
 Kapcsold be a **Helyi hangfájlok** kapcsolót. Amikor a rendszer kéri, add meg a Spotifynak az engedélyt a zenefájljaid eléréséhez.
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Adj hozzáférést a Spotifynak a zenefájlokhoz" image="/docs/howto/how-to-change-album-covers-for-local-tracks-on-spotify-step-by-step-guide-mobile-desktop/spotify-access-to-music.webp" >}}
+{{< ls-card title="" subtitle="Adj hozzáférést a Spotifynak a zenefájlokhoz" image="/docs/howto/how-to-change-album-covers-for-local-tracks-on-spotify-step-by-step-guide-mobile-desktop/spotify-access-to-music.webp" >}}
 {{< /cards >}}
 
 ### Ellenőrizd a Spotify mappát
@@ -76,7 +76,7 @@ Kapcsold be a **Helyi hangfájlok** kapcsolót. Amikor a rendszer kéri, add meg
 Az engedély megadása után nyisd meg a **Fájlok** alkalmazást, menj a **Helyek > Az iPhone-omon/iPademen** elemre, és keresd meg a **Spotify** mappát. Ide kell elhelyezni a helyi zenefájlokat.
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Spotify zenefájlok" image="/docs/howto/how-to-change-album-covers-for-local-tracks-on-spotify-step-by-step-guide-mobile-desktop/files-app-spotify-folder.webp" >}}
+{{< ls-card title="" subtitle="Spotify zenefájlok" image="/docs/howto/how-to-change-album-covers-for-local-tracks-on-spotify-step-by-step-guide-mobile-desktop/files-app-spotify-folder.webp" >}}
 {{< /cards >}}
 
 ## Zenefájlok elhelyezése a Spotify helyi könyvtár mappájában
@@ -90,7 +90,7 @@ Az alábbiakban a **Fájlok alkalmazás** módszer útmutatása olvasható.
 ### Nyisd meg a Fájlok alkalmazást – Helyek – Ezen az eszközön
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Spotify mappa" image="/docs/howto/how-to-change-album-covers-for-local-tracks-on-spotify-step-by-step-guide-mobile-desktop/files-app-spotify-folder.webp" >}}
+{{< ls-card title="" subtitle="Spotify mappa" image="/docs/howto/how-to-change-album-covers-for-local-tracks-on-spotify-step-by-step-guide-mobile-desktop/files-app-spotify-folder.webp" >}}
 {{< /cards >}}
 
 ### Másold a zenei mappát
@@ -98,7 +98,7 @@ Az alábbiakban a **Fájlok alkalmazás** módszer útmutatása olvasható.
 Navigálj a **Zene** mappádhoz. Koppints rá és tartsd nyomva a helyi menü megnyitásához, majd válaszd a **Másolás** lehetőséget.
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Mappa opciók elérése a Fájlok alkalmazásban" image="/docs/howto/how-to-change-album-covers-for-local-tracks-on-spotify-step-by-step-guide-mobile-desktop/files-app-folder-options.webp" >}}
+{{< ls-card title="" subtitle="Mappa opciók elérése a Fájlok alkalmazásban" image="/docs/howto/how-to-change-album-covers-for-local-tracks-on-spotify-step-by-step-guide-mobile-desktop/files-app-folder-options.webp" >}}
 {{< /cards >}}
 
 ### Illeszd be a zenei mappát
@@ -106,7 +106,7 @@ Navigálj a **Zene** mappádhoz. Koppints rá és tartsd nyomva a helyi menü me
 Navigálj a **Spotify** mappához, koppints és tartsd nyomva egy üres területen, majd válaszd a **Beillesztés** lehetőséget a helyi menüből.
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Mappa beillesztése a célhelyre" image="/docs/howto/how-to-change-album-covers-for-local-tracks-on-spotify-step-by-step-guide-mobile-desktop/files-app-paste-folder.webp" >}}
+{{< ls-card title="" subtitle="Mappa beillesztése a célhelyre" image="/docs/howto/how-to-change-album-covers-for-local-tracks-on-spotify-step-by-step-guide-mobile-desktop/files-app-paste-folder.webp" >}}
 {{< /cards >}}
 
 ### Várd meg a másolási folyamatot
@@ -114,7 +114,7 @@ Navigálj a **Spotify** mappához, koppints és tartsd nyomva egy üres terület
 Várd meg, amíg a rendszer befejezi a zenei mappád másolását a Spotify helyi könyvtárába.
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Zenefájlok másolása a Fájlok alkalmazással" image="/docs/howto/how-to-change-album-covers-for-local-tracks-on-spotify-step-by-step-guide-mobile-desktop/files-app-copying-music.webp" >}}
+{{< ls-card title="" subtitle="Zenefájlok másolása a Fájlok alkalmazással" image="/docs/howto/how-to-change-album-covers-for-local-tracks-on-spotify-step-by-step-guide-mobile-desktop/files-app-copying-music.webp" >}}
 {{< /cards >}}
 
 ### Nyisd meg a Spotify helyi könyvtárát
@@ -122,7 +122,7 @@ Várd meg, amíg a rendszer befejezi a zenei mappád másolását a Spotify hely
 Most menj vissza a Spotify alkalmazásba. Koppints a **Könyvtárad > Helyi fájlok** elemre, és látni fogod az imént másolt zenefájlokat.
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="A Spotify helyi zenei könyvtárat mutat" image="/docs/howto/how-to-change-album-covers-for-local-tracks-on-spotify-step-by-step-guide-mobile-desktop/spotify-local-music-library.webp" >}}
+{{< ls-card title="" subtitle="A Spotify helyi zenei könyvtárat mutat" image="/docs/howto/how-to-change-album-covers-for-local-tracks-on-spotify-step-by-step-guide-mobile-desktop/spotify-local-music-library.webp" >}}
 {{< /cards >}}
 
 ## A Spotify mappa csatlakoztatása az Evertag alkalmazásban
@@ -149,26 +149,26 @@ A metaadatokat közvetlenül mappákból szerkesztheted a fájlok importálása 
 - Görgess a **Fájlok ezen az eszközön** elemhez az oldalsávban
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Összes eszközmappa megtekintése az Evertagban" image="/docs/howto/how-to-change-album-covers-for-local-tracks-on-spotify-step-by-step-guide-mobile-desktop/evertag-all-device-folders.webp" >}}
+{{< ls-card title="" subtitle="Összes eszközmappa megtekintése az Evertagban" image="/docs/howto/how-to-change-album-covers-for-local-tracks-on-spotify-step-by-step-guide-mobile-desktop/evertag-all-device-folders.webp" >}}
 {{< /cards >}}
 
 - Koppints az **Összes eszközmappa** elemre
 - Koppints a **Mappa csatlakoztatása** gombra
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Mappa csatlakoztatása fájlválasztóval" image="/docs/howto/how-to-change-album-covers-for-local-tracks-on-spotify-step-by-step-guide-mobile-desktop/evertag-connect-folder-files-picker.webp" >}}
+{{< ls-card title="" subtitle="Mappa csatlakoztatása fájlválasztóval" image="/docs/howto/how-to-change-album-covers-for-local-tracks-on-spotify-step-by-step-guide-mobile-desktop/evertag-connect-folder-files-picker.webp" >}}
 {{< /cards >}}
 
 - Válaszd a **Spotify** mappát és koppints a **Megnyitás** gombra a megerősítéshez
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Mappa csatlakoztatása Spotify helyi fájlokkal" image="/docs/howto/how-to-change-album-covers-for-local-tracks-on-spotify-step-by-step-guide-mobile-desktop/evertag-connect-folder-spotify-local.webp" >}}
+{{< ls-card title="" subtitle="Mappa csatlakoztatása Spotify helyi fájlokkal" image="/docs/howto/how-to-change-album-covers-for-local-tracks-on-spotify-step-by-step-guide-mobile-desktop/evertag-connect-folder-spotify-local.webp" >}}
 {{< /cards >}}
 
 - Koppints a csatlakoztatott mappára a tartalmának megtekintéséhez és szerkesztéséhez
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Mappa sikeresen csatlakoztatva az Evertagban" image="/docs/howto/how-to-change-album-covers-for-local-tracks-on-spotify-step-by-step-guide-mobile-desktop/evertag-connected-folder.webp" >}}
+{{< ls-card title="" subtitle="Mappa sikeresen csatlakoztatva az Evertagban" image="/docs/howto/how-to-change-album-covers-for-local-tracks-on-spotify-step-by-step-guide-mobile-desktop/evertag-connected-folder.webp" >}}
 {{< /cards >}}
 
 ## Címkeszerkesztő
@@ -176,7 +176,7 @@ A metaadatokat közvetlenül mappákból szerkesztheted a fájlok importálása 
 A **Címkeszerkesztő** a fő munkaterület, ahol megtekinted és módosítod az audio fájljaid metaadatait.
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Csatlakoztatott mappa tartalmának böngészése" image="/docs/howto/how-to-change-album-covers-for-local-tracks-on-spotify-step-by-step-guide-mobile-desktop/evertag-connected-folder-content.webp" >}}
+{{< ls-card title="" subtitle="Csatlakoztatott mappa tartalmának böngészése" image="/docs/howto/how-to-change-album-covers-for-local-tracks-on-spotify-step-by-step-guide-mobile-desktop/evertag-connected-folder-content.webp" >}}
 {{< /cards >}}
 
 ## Szerkesztési módok
@@ -221,25 +221,25 @@ Albumborító cseréléséhez vagy új hozzáadásához:
 1. Koppints a **kamera ikonra** a borító karuszelben
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Egyéni albumborító fotó kiválasztása" image="/docs/howto/how-to-change-album-covers-for-local-tracks-on-spotify-step-by-step-guide-mobile-desktop/evertag-choose-photo.webp" >}}
+{{< ls-card title="" subtitle="Egyéni albumborító fotó kiválasztása" image="/docs/howto/how-to-change-album-covers-for-local-tracks-on-spotify-step-by-step-guide-mobile-desktop/evertag-choose-photo.webp" >}}
 {{< /cards >}}
 
 2. Válassz képforrást (Fotókönyvtár, Helyi fájlok, Felhő)
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Fotókönyvtár elérése borító kiválasztásához" image="/docs/howto/how-to-change-album-covers-for-local-tracks-on-spotify-step-by-step-guide-mobile-desktop/evertag-photo-library.webp" >}}
+{{< ls-card title="" subtitle="Fotókönyvtár elérése borító kiválasztásához" image="/docs/howto/how-to-change-album-covers-for-local-tracks-on-spotify-step-by-step-guide-mobile-desktop/evertag-photo-library.webp" >}}
 {{< /cards >}}
 
 3. Válaszd ki a borítóként használni kívánt képet
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Szerkesztett albumborító előnézete" image="/docs/howto/how-to-change-album-covers-for-local-tracks-on-spotify-step-by-step-guide-mobile-desktop/evertag-edited-album-cover.webp" >}}
+{{< ls-card title="" subtitle="Szerkesztett albumborító előnézete" image="/docs/howto/how-to-change-album-covers-for-local-tracks-on-spotify-step-by-step-guide-mobile-desktop/evertag-edited-album-cover.webp" >}}
 {{< /cards >}}
 
 4. Koppints a **Mentés** gombra a változtatások alkalmazásához
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Frissített audio címkék mentése" image="/docs/howto/how-to-change-album-covers-for-local-tracks-on-spotify-step-by-step-guide-mobile-desktop/evertag-save-tags.webp" >}}
+{{< ls-card title="" subtitle="Frissített audio címkék mentése" image="/docs/howto/how-to-change-album-covers-for-local-tracks-on-spotify-step-by-step-guide-mobile-desktop/evertag-save-tags.webp" >}}
 {{< /cards >}}
 
 ## Spotify könyvtár frissítése
@@ -247,7 +247,7 @@ Albumborító cseréléséhez vagy új hozzáadásához:
 A címkék mentése után menj vissza a Spotify alkalmazásba.
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Spotify zenei könyvtár böngészése" image="/docs/howto/how-to-change-album-covers-for-local-tracks-on-spotify-step-by-step-guide-mobile-desktop/spotify-library.webp" >}}
+{{< ls-card title="" subtitle="Spotify zenei könyvtár böngészése" image="/docs/howto/how-to-change-album-covers-for-local-tracks-on-spotify-step-by-step-guide-mobile-desktop/spotify-library.webp" >}}
 {{< /cards >}}
 
 Nyisd meg újra a **Helyi fájlok** szekciót. Most már látni fogod a frissített borítókat és címkéket a helyi zeneszámaidhoz.
@@ -255,7 +255,7 @@ Nyisd meg újra a **Helyi fájlok** szekciót. Most már látni fogod a frissít
 > Ha a frissítések nem jelennek meg azonnal, **kényszerítsd ki a Spotify bezárását** és nyisd meg újra. Ez kiváltja a metaadatok frissítését.
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Lejátszás alatt álló szám szerkesztett címkével" image="/docs/howto/how-to-change-album-covers-for-local-tracks-on-spotify-step-by-step-guide-mobile-desktop/spotify-playing-edited-tag.webp" >}}
+{{< ls-card title="" subtitle="Lejátszás alatt álló szám szerkesztett címkével" image="/docs/howto/how-to-change-album-covers-for-local-tracks-on-spotify-step-by-step-guide-mobile-desktop/spotify-playing-edited-tag.webp" >}}
 {{< /cards >}}
 
 ## Összefoglalás
@@ -268,26 +268,26 @@ Segítségre van szükséged FLAC, MP3 vagy más kiváló minőségű formátumo
 
 ## GYIK
 
-{{% details title="Megváltoztathatom az albumborítókat a Spotify streaming számokhoz?" closed="true" %}}
+{{% ls-details title="Megváltoztathatom az albumborítókat a Spotify streaming számokhoz?" closed="true" %}}
 Nem. A Spotify nem engedélyezi a borítók megváltoztatását a streaming katalógusában lévő számok esetében. Csak a Spotify könyvtáradhoz hozzáadott helyi fájlok albumborítóit szerkesztheted.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Ingyenes az Evertag?" closed="true" %}}
+{{% ls-details title="Ingyenes az Evertag?" closed="true" %}}
 Igen. Az Evertag ingyenesen letölthető és használható iOS és macOS rendszeren. Több mint 120 audio címkét és 30+ fájlformátumot támogat.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Milyen audio formátumokat támogat az Evertag?" closed="true" %}}
+{{% ls-details title="Milyen audio formátumokat támogat az Evertag?" closed="true" %}}
 Az Evertag 30+ formátumot támogat, beleértve az MP3, FLAC, AAC, ALAC, WAV, AIFF, OGG, WMA formátumokat és még többet.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Miért nem mutatja a Spotify a frissített albumborítómat?" closed="true" %}}
+{{% ls-details title="Miért nem mutatja a Spotify a frissített albumborítómat?" closed="true" %}}
 Kényszerítsd ki a Spotify alkalmazás bezárását és nyisd meg újra. A Spotify gyorsítótárazza a metaadatokat, és újraindításra van szüksége a helyi fájlok változásainak felismeréséhez.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Szerkeszthetem egyszerre több fájl címkéit?" closed="true" %}}
+{{% ls-details title="Szerkeszthetem egyszerre több fájl címkéit?" closed="true" %}}
 Igen. Az Evertag támogatja a kötegelt szerkesztést. Válassz ki több fájlt és koppints a «Több fájl egyidejű szerkesztése» gombra az összes kiválasztott szám címkéinek és borítóinak egyidejű frissítéséhez.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Kell fájlokat másolnom a Spotify mappába?" closed="true" %}}
+{{% ls-details title="Kell fájlokat másolnom a Spotify mappába?" closed="true" %}}
 Igen. A Spotify csak a saját dedikált mappájából olvas helyi fájlokat. Másold vagy helyezd át zenefájljaidat a Spotify mappába az eszközödön, majd engedélyezd a Helyi hangfájlok kapcsolót a Spotify beállításaiban.
-{{% /details %}}
+{{% /ls-details %}}

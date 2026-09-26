@@ -7,7 +7,7 @@ tags: ["google", "securitate", "confidențialitate", "aplicații", "cont", "acce
 readingTime: 2
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **Pe scurt:** Accesează [myaccount.google.com](https://myaccount.google.com/) > Securitate > Aplicații și servicii terțe. Dă clic pe aplicația pe care vrei să o elimini, apoi selectează „Elimină accesul" sau „Șterge toate conexiunile." Repetă pentru fiecare aplicație.
@@ -75,18 +75,18 @@ Preluarea controlului asupra securității și confidențialității tale online
 
 ## Întrebări frecvente
 
-{{% details title="Deconectarea unei aplicații va șterge datele mele din acea aplicație?" closed="true" %}}
+{{% ls-details title="Deconectarea unei aplicații va șterge datele mele din acea aplicație?" closed="true" %}}
 Nu. Eliminarea accesului oprește doar aplicația de a accesa contul tău Google pe viitor. Datele deja partajate cu aplicația pot exista în continuare pe serverele lor. Verifică propriile setări de confidențialitate ale aplicației pentru a șterge acele date.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Pot reconecta o aplicație după ce am deconectat-o?" closed="true" %}}
+{{% ls-details title="Pot reconecta o aplicație după ce am deconectat-o?" closed="true" %}}
 Da. Dacă ai nevoie din nou de aplicație, conectează-te pur și simplu cu Google când ți se solicită. Aplicația va cere din nou permisiuni, iar tu le poți revizui înainte de a acorda acces.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Cât de des ar trebui să revizuiesc accesul aplicațiilor terțe?" closed="true" %}}
+{{% ls-details title="Cât de des ar trebui să revizuiesc accesul aplicațiilor terțe?" closed="true" %}}
 Revizuiește aplicațiile conectate la fiecare 3-6 luni sau imediat după ce încetezi să utilizezi un serviciu. Auditurile regulate ajută la menținerea securității contului.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Afectează acest lucru aplicații precum Evermusic care se conectează la Google Drive?" closed="true" %}}
+{{% ls-details title="Afectează acest lucru aplicații precum Evermusic care se conectează la Google Drive?" closed="true" %}}
 Da. Dacă deconectezi o aplicație precum Evermusic sau Flacbox de la contul tău Google, aceasta va pierde accesul la fișierele tale de pe Google Drive. Te poți reconecta oricând din interiorul aplicației.
-{{% /details %}}
+{{% /ls-details %}}

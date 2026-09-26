@@ -55,17 +55,17 @@ Wi-Fi Drive機能を使ってコンピュータのウェブブラウザでオー
 このガイドでは、iPhone、iPad、MacでEvertagの力を活用して、音楽管理の体験をシームレスで楽しいものにする方法を学びます。
 
 {{< cards >}}
-  {{< card icon="location-marker" title="ナビゲーション" subtitle="タブバー（iPhoneユーザー向け）または左メニュー（iPadとMacユーザー向け）を使ってアプリのすべての機能にアクセスし、簡単にナビゲートする方法を学びましょう。" link="/docs/guide/evertag/evertag-guide-navigation" >}}
+  {{< ls-card icon="location-marker" title="ナビゲーション" subtitle="タブバー（iPhoneユーザー向け）または左メニュー（iPadとMacユーザー向け）を使ってアプリのすべての機能にアクセスし、簡単にナビゲートする方法を学びましょう。" link="/docs/guide/evertag/evertag-guide-navigation" >}}
 
-  {{< card icon="cloud" title="接続" subtitle="貴重なオーディオファイルと利用可能なすべてのクラウドアカウントを簡単にリンクできます。統合ファイルマネージャーを使ってオンラインファイルも簡単に編集できます。" link="/docs/guide/evertag/evertag-guide-connections" >}}
+  {{< ls-card icon="cloud" title="接続" subtitle="貴重なオーディオファイルと利用可能なすべてのクラウドアカウントを簡単にリンクできます。統合ファイルマネージャーを使ってオンラインファイルも簡単に編集できます。" link="/docs/guide/evertag/evertag-guide-connections" >}}
 
-  {{< card icon="folder" title="ローカルファイル" subtitle="アプリのDocumentsフォルダーまたはデバイスに保存されているファイルを表示・整理できます。組み込みファイルマネージャーを使ってオーディオファイルを簡単に編集・管理できます。" link="/docs/guide/evertag/evertag-guide-local-files" >}}
+  {{< ls-card icon="folder" title="ローカルファイル" subtitle="アプリのDocumentsフォルダーまたはデバイスに保存されているファイルを表示・整理できます。組み込みファイルマネージャーを使ってオーディオファイルを簡単に編集・管理できます。" link="/docs/guide/evertag/evertag-guide-local-files" >}}
 
-  {{< card icon="pencil-alt" title="タグエディタ" subtitle="オーディオファイルのメタデータ操作の技術をマスターしましょう。メタデータの編集方法、アルバムカバーの変換、複数ファイルの同時管理方法を学びます。" link="/docs/guide/evertag/evertag-guide-tag-editor" >}}
+  {{< ls-card icon="pencil-alt" title="タグエディタ" subtitle="オーディオファイルのメタデータ操作の技術をマスターしましょう。メタデータの編集方法、アルバムカバーの変換、複数ファイルの同時管理方法を学びます。" link="/docs/guide/evertag/evertag-guide-tag-editor" >}}
 
-  {{< card icon="code" title="タグフィールドマッピング" subtitle="内部フィールド名と主要なメタデータフォーマット間のマッピングを含む、Evertagアプリがサポートするオーディオタグフィールドの完全なリストを調べましょう。" link="/docs/guide/evertag/evertag-tag-field-mappings" >}}
+  {{< ls-card icon="code" title="タグフィールドマッピング" subtitle="内部フィールド名と主要なメタデータフォーマット間のマッピングを含む、Evertagアプリがサポートするオーディオタグフィールドの完全なリストを調べましょう。" link="/docs/guide/evertag/evertag-tag-field-mappings" >}}
 
-  {{< card icon="adjustments" title="設定" subtitle="アプリのエクスペリエンスをカスタマイズし、パフォーマンスを微調整し、データ使用量を管理し、言語とユーザーインターフェースの設定を好みに合わせる方法を学びましょう。" link="/docs/guide/evertag/evertag-guide-settings" >}}
+  {{< ls-card icon="adjustments" title="設定" subtitle="アプリのエクスペリエンスをカスタマイズし、パフォーマンスを微調整し、データ使用量を管理し、言語とユーザーインターフェースの設定を好みに合わせる方法を学びましょう。" link="/docs/guide/evertag/evertag-guide-settings" >}}
 
-  {{< card icon="question-mark-circle" title="よくある質問" subtitle="よくある質問セクションで一般的な質問への素早い回答を見つけましょう。" link="/docs/faq/evertag" >}}
+  {{< ls-card icon="question-mark-circle" title="よくある質問" subtitle="よくある質問セクションで一般的な質問への素早い回答を見つけましょう。" link="/docs/faq/evertag" >}}
 {{< /cards >}}

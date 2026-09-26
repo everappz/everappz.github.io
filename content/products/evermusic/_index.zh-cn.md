@@ -16,16 +16,16 @@ screenshots:
   - "https://everappz.com/products/evermusic/screenshots/2048x2732/6.png"
 ---
 
-{{% sr-only %}}
+{{% ls-sr-only %}}
 Evermusic 是一款适用于 iPhone 和 Mac 的免费离线音乐播放器，由西班牙软件公司 Everappz 开发。凭借全球超过 1100 万次下载以及 App Store 上超过 18,000 条评价中 4.6 星的评分，Evermusic 是 iOS 上最受欢迎的第三方音乐播放器之一。该应用连接超过 30 种云存储服务，包括 iCloud Drive、Google Drive、Dropbox、OneDrive、MEGA、Box、pCloud 和 Yandex.Disk，用户可以直接从云端串流个人音乐库，或下载曲目以供离线收听。Evermusic 支持多种音频格式，包括 MP3、FLAC、AAC、ALAC、WAV、AIFF、OGG、OPUS、WMA、APE 和 DSD。主要功能包括带预设的 10 段音频均衡器、交叉淡入淡出和无缝播放、M3U 播放列表导入和导出、歌词显示、音频书签、Apple CarPlay 集成、AirPlay 和 Chromecast 串流以及 Last.fm 记录。该应用还支持通过 SMB、WebDAV 和 DLNA 协议进行本地网络串流，以及通过 Lightning 或 USB-C 转接器播放 USB 闪存驱动器中的音乐。Evermusic 可在 App Store 免费下载，提供可选的应用内购买，包括每月订阅 $4.99、每年订阅 $19.99 或一次性终身购买 $59.99。该应用于 2014 年首次发布，并通过定期更新积极维护。
-{{% /sr-only %}}
+{{% /ls-sr-only %}}
 
 
 <!-- <body class="hx:bg-transparent" style="background: radial-gradient(ellipse at 50% 80%, rgba(59,130,246,0.05), hsla(0,0%,100%,0));"> -->
 
-{{< force-dark >}}
+{{< ls-force-dark >}}
 
-{{< hextra/hero-container
+{{< ls-hero-container
   image="/products/evermusic/heroimage/hero_1200.png"
   imageWidth="600"
   imageCard="true"
@@ -34,40 +34,40 @@ Evermusic 是一款适用于 iPhone 和 Mac 的免费离线音乐播放器，由
 <div class="hx:w-full hx:text-center">
 
 <div class="hx:mt-4">
-{{< downloads-badge >}}
+{{< ls-downloads-badge >}}
 </div>
 
 <div class="hx:mt-6 hx:mb-6">
 <div class="hx:flex hx:gap-4 hx:items-center hx:justify-center">
-  {{< app-icon src="/images/app_icons/png/Evermusic_Icon-App-1024x1024.png" alt="Evermusic Icon" class="hero-headline-icon" size="80" >}}
-  {{< hextra/hero-headline >}}
+  {{< ls-app-icon src="/images/app_icons/png/Evermusic_Icon-App-1024x1024.png" alt="Evermusic Icon" class="hero-headline-icon" size="80" >}}
+  {{< ls-hero-headline >}}
   Evermusic
-  {{< /hextra/hero-headline >}}
+  {{< /ls-hero-headline >}}
 </div>
 </div>
 
 <div class="hx:mb-6">
-{{< hextra/hero-centered-subtitle >}}
+{{< ls-hero-centered-subtitle >}}
 <a href="https://www.chip.de/downloads/Evermusic-Pro-iPhone-_-iPad-App_91614216.html" target="_blank" rel="noopener">
   是从云端整理和播放 您个人音乐的完美解决方案 <strong>chip.de</strong>
   </a>
-{{< /hextra/hero-centered-subtitle >}}
+{{< /ls-hero-centered-subtitle >}}
 </div>
 
 <div class="hx:mb-6">
-{{< hextra/hero-paragraph >}}
+{{< ls-hero-paragraph >}}
 • 支持淡入淡出、无缝播放和均衡器播放音乐  
 • 导入 M3U 播放列表并下载歌曲以供离线收听  
 • 从云盘、NAS、电脑或 USB 闪存驱动器串流音乐  
 • 在收听时查看歌词，添加音频书签以随时恢复播放  
-{{< /hextra/hero-paragraph >}}
+{{< /ls-hero-paragraph >}}
 </div>
 
-{{< app-store-badges products="evermusic:ios, evermusic:macos" >}}
+{{< ls-app-store-badges products="evermusic:ios, evermusic:macos" >}}
 
 </div>
 
-{{< /hextra/hero-container >}}
+{{< /ls-hero-container >}}
 
 <div class="hx:mt-6"></div>
 
@@ -75,42 +75,42 @@ Evermusic 是一款适用于 iPhone 和 Mac 的免费离线音乐播放器，由
 
 {{< hextra/feature-grid >}}
 
-  {{< hextra/feature-card
+  {{< ls-glass-feature-card
     title="您的云端音乐"
     subtitle="免费创建您自己的高级音乐串流服务！通过智能缓冲和无缝播放直接从云端串流您喜爱的曲目，同时节省设备存储空间。连接 iCloud Drive、Google Drive、Dropbox、OneDrive、Box、MEGA、pCloud、Proton Drive 等众多服务。"
     icon="cloud"
     style="background: radial-gradient(ellipse at 50% 80%, rgba(34,197,94,0.15), hsla(0,0%,100%,0));"
   >}}
 
-  {{< hextra/feature-card
+  {{< ls-glass-feature-card
     title="离线模式"
     subtitle="离线模式让您下载喜爱的专辑、曲目、艺术家、流派和播放列表以供离线播放。无论在飞机上、地铁里还是没有网络的地方，即使未连接互联网，也能随时随地聆听，无需串流，不耗流量。"
     icon="download"
     style="background: radial-gradient(ellipse at 50% 80%, rgba(234,88,12,0.15), hsla(0,0%,100%,0));"
   >}}
 
-  {{< hextra/feature-card
+  {{< ls-glass-feature-card
     title="轻松传输文件"
     subtitle="连接您的 Mac 或 PC，直接从家用电脑串流音乐。使用 Wi-Fi Drive 或 iTunes File Sharing 在电脑和 iOS 设备之间无缝传输音频文件。您还可以连接 NAS 或 USB 闪存驱动器，随时随地访问您的音乐库。"
     icon="duplicate"
     style="background: radial-gradient(ellipse at 50% 80%, rgba(251,191,36,0.15), hsla(0,0%,100%,0));"
   >}}
 
-  {{< hextra/feature-card
+  {{< ls-glass-feature-card
     title="媒体服务器与 NAS"
     subtitle="连接到您的个人媒体库和家庭服务器，如 Plex、Emby、Jellyfin、Subsonic 和 Navidrome。通过 SMB、WebDAV、FTP、SFTP、NFS 或 DLNA/UPnP 连接 Synology、QNAP、Nextcloud 和 WD My Cloud Home 等 NAS，随时随地访问您的整个音乐收藏。"
     icon="desktop-computer"
     style="background: radial-gradient(ellipse at 50% 80%, rgba(59,130,246,0.15), hsla(0,0%,100%,0));"
   >}}
 
-  {{< hextra/feature-card
+  {{< ls-glass-feature-card
     title="专业音频引擎"
     subtitle="享受真正的无缝播放和曲目间流畅的交叉淡入淡出。使用 10 段均衡器、自定义预设和前置放大器增益塑造音质，调节播放速度和音调，还有全套录音室效果，如混响、回声、合唱、镶边、低音增强、交叉馈送和音量标准化。"
     icon="adjustments"
     style="background: radial-gradient(ellipse at 50% 80%, rgba(192,38,211,0.15), hsla(0,0%,100%,0));"
   >}}
 
-  {{< hextra/feature-card
+  {{< ls-glass-feature-card
     title="歌词、小组件与 CarPlay"
     subtitle="阅读嵌入式和同步的 LRC 歌词，歌词随音乐实时滚动，甚至可在锁定屏幕、主屏幕小组件和 Apple CarPlay 上显示。添加正在播放、歌词、收藏和最近播放小组件，让您的音乐触手可及，始终保持同步。"
     icon="annotation"
@@ -123,9 +123,9 @@ Evermusic 是一款适用于 iPhone 和 Mac 的免费离线音乐播放器，由
 
 <div class="hx:mt-6"></div>
 
-{{< hextra/section-headline >}}
+{{< ls-section-headline >}}
   简洁优雅的设计
-{{< /hextra/section-headline >}}
+{{< /ls-section-headline >}}
 
 <div class="hx:mt-6"></div>
 
@@ -133,7 +133,7 @@ Evermusic 是一款适用于 iPhone 和 Mac 的免费离线音乐播放器，由
 
 {{< cards cols="4">}}
 
-  {{< design-feature-card 
+  {{< ls-design-feature-card 
     icon="adjustments"
     image="/products/evermusic/screenshots/2048x2732/3.png" 
     title="音频均衡器" 
@@ -142,7 +142,7 @@ Evermusic 是一款适用于 iPhone 和 Mac 的免费离线音乐播放器，由
     subtitle="使用 iPod 风格的音频均衡器、可自定义的预设和前置放大器增益，微调您的音质，获得最佳聆听体验。" 
   >}}
 
-  {{< design-feature-card 
+  {{< ls-design-feature-card 
     icon="annotation"
     image="/products/evermusic/screenshots/2048x2732/4.png"  
     title="歌词查看器" 
@@ -151,7 +151,7 @@ Evermusic 是一款适用于 iPhone 和 Mac 的免费离线音乐播放器，由
     subtitle="在聆听时阅读嵌入的歌词和曲目注释。享受同步歌词，获得更沉浸的音乐体验。" 
   >}}
 
-  {{< design-feature-card 
+  {{< ls-design-feature-card 
     icon="collection"
     image="/products/evermusic/screenshots/2048x2732/5.png"  
     title="播放列表管理器" 
@@ -160,7 +160,7 @@ Evermusic 是一款适用于 iPhone 和 Mac 的免费离线音乐播放器，由
     subtitle="创建和整理自定义播放列表，重新排列歌曲，导出为 M3U，或将其存档为 ZIP 文件，方便分享或备份。" 
   >}}
 
-  {{< design-feature-card 
+  {{< ls-design-feature-card 
     icon="cloud"
     image="/products/evermusic/screenshots/2048x2732/6.png"  
     title="云端音乐串流" 
@@ -169,7 +169,7 @@ Evermusic 是一款适用于 iPhone 和 Mac 的免费离线音乐播放器，由
     subtitle="连接 Google Drive、Dropbox 和 OneDrive 等顶级云存储平台，随时随地串流您的音乐收藏。" 
   >}}
 
-  {{< design-feature-card 
+  {{< ls-design-feature-card 
     icon="duplicate"
     image="/products/evermusic/screenshots/2048x2732/9.png"  
     title="文件管理器" 
@@ -178,7 +178,7 @@ Evermusic 是一款适用于 iPhone 和 Mac 的免费离线音乐播放器，由
     subtitle="轻松管理您的音频文件——重命名曲目、整理文件夹，使用内置工具在设备间传输音乐。" 
   >}} 
 
-  {{< design-feature-card 
+  {{< ls-design-feature-card 
     icon="sun"
     image="/products/evermusic/screenshots/2048x2732/10.png"  
     title="应用个性化" 
@@ -193,9 +193,9 @@ Evermusic 是一款适用于 iPhone 和 Mac 的免费离线音乐播放器，由
 
 <div class="hx:mt-6"></div>
 
-{{< hextra/section-headline >}}
+{{< ls-section-headline >}}
   完整功能集
-{{< /hextra/section-headline >}}
+{{< /ls-section-headline >}}
 
 <div class="hx:mt-6"></div>
 
@@ -203,47 +203,47 @@ Evermusic 是一款适用于 iPhone 和 Mac 的免费离线音乐播放器，由
 
 {{< cards >}}
 
-  {{< feature-card title="播放所有音频格式" subtitle="Evermusic 可播放最受欢迎的音频格式，包括 MP3、AAC、M4A、WAV、AIFF、ALAC 和 M4B，让您的整个音乐收藏可在任何设备上播放。" icon="music-note" >}}
+  {{< ls-feature-card title="播放所有音频格式" subtitle="Evermusic 可播放最受欢迎的音频格式，包括 MP3、AAC、M4A、WAV、AIFF、ALAC 和 M4B，让您的整个音乐收藏可在任何设备上播放。" icon="music-note" >}}
 
-  {{< feature-card title="连接您的云端" subtitle="将您的音乐库迁移到云端，释放 iPhone 空间，打造您自己的串流服务。连接 iCloud、Google Drive、Dropbox、OneDrive、MEGA、Internxt 和 Proton Drive。" icon="cloud" >}}
+  {{< ls-feature-card title="连接您的云端" subtitle="将您的音乐库迁移到云端，释放 iPhone 空间，打造您自己的串流服务。连接 iCloud、Google Drive、Dropbox、OneDrive、MEGA、Internxt 和 Proton Drive。" icon="cloud" >}}
 
-  {{< feature-card title="连接媒体服务器" subtitle="将您的个人媒体服务器直接连接到音乐库，包括 Plex、Subsonic、Navidrome、Jellyfin 和 Emby，轻松从家中串流您拥有的一切。" icon="server" >}}
+  {{< ls-feature-card title="连接媒体服务器" subtitle="将您的个人媒体服务器直接连接到音乐库，包括 Plex、Subsonic、Navidrome、Jellyfin 和 Emby，轻松从家中串流您拥有的一切。" icon="server" >}}
 
-  {{< feature-card title="连接您的电脑或 NAS" subtitle="通过 SMB、WebDAV、DLNA、FTP、SFTP 和 NFS 连接您的电脑或 NAS，借助 QNAP、Synology、Nextcloud 和 WD My Cloud Home 的原生 API，或通过 Wi-Fi 传输文件。" icon="desktop-computer" >}}
+  {{< ls-feature-card title="连接您的电脑或 NAS" subtitle="通过 SMB、WebDAV、DLNA、FTP、SFTP 和 NFS 连接您的电脑或 NAS，借助 QNAP、Synology、Nextcloud 和 WD My Cloud Home 的原生 API，或通过 Wi-Fi 传输文件。" icon="desktop-computer" >}}
 
-  {{< feature-card title="离线音乐" subtitle="下载您喜爱的歌曲、专辑和艺术家，随时随地离线享受。启用音频播放器缓存，自动保存最近播放的曲目以供离线收听。" icon="download" >}}
+  {{< ls-feature-card title="离线音乐" subtitle="下载您喜爱的歌曲、专辑和艺术家，随时随地离线享受。启用音频播放器缓存，自动保存最近播放的曲目以供离线收听。" icon="download" >}}
 
-  {{< feature-card title="音频均衡器" subtitle="使用内置均衡器塑造音质，配备针对热门音乐流派的现成预设以及手动控制，可完全按您的喜好微调和放大每一首曲目。" icon="adjustments" >}}
+  {{< ls-feature-card title="音频均衡器" subtitle="使用内置均衡器塑造音质，配备针对热门音乐流派的现成预设以及手动控制，可完全按您的喜好微调和放大每一首曲目。" icon="adjustments" >}}
 
-  {{< feature-card title="无缝播放" subtitle="享受流畅、不间断的播放，歌曲之间没有停顿，非常适合从头到尾完整聆听现场录音、概念专辑、DJ 混音和古典音乐。" icon="volume-up" >}}
+  {{< ls-feature-card title="无缝播放" subtitle="享受流畅、不间断的播放，歌曲之间没有停顿，非常适合从头到尾完整聆听现场录音、概念专辑、DJ 混音和古典音乐。" icon="volume-up" >}}
 
-  {{< feature-card title="交叉淡入淡出播放" subtitle="通过交叉淡入淡出让音乐持续流动，每首新歌在当前歌曲结束前轻柔地开始，实现无缝连续播放，没有任何静音间隙。" icon="switch-horizontal" >}}
+  {{< ls-feature-card title="交叉淡入淡出播放" subtitle="通过交叉淡入淡出让音乐持续流动，每首新歌在当前歌曲结束前轻柔地开始，实现无缝连续播放，没有任何静音间隙。" icon="switch-horizontal" >}}
 
-  {{< feature-card title="音频效果" subtitle="使用内置音频效果塑造音质。开启音量标准化，让每一首曲目保持相同的响度，并按喜好添加混响、延迟、失真和空间音频。" icon="chip" >}}
+  {{< ls-feature-card title="音频效果" subtitle="使用内置音频效果塑造音质。开启音量标准化，让每一首曲目保持相同的响度，并按喜好添加混响、延迟、失真和空间音频。" icon="chip" >}}
 
-  {{< feature-card title="音乐可视化" subtitle="观看全屏动画视觉效果，实时随您的音乐律动。从丰富的预设库中选择，或让它们在您聆听时自动循环切换。" icon="sparkles" >}}
+  {{< ls-feature-card title="音乐可视化" subtitle="观看全屏动画视觉效果，实时随您的音乐律动。从丰富的预设库中选择，或让它们在您聆听时自动循环切换。" icon="sparkles" >}}
 
-  {{< feature-card title="歌词和注释" subtitle="在音频曲目播放时查看嵌入的定时歌词和注释，并将歌词小组件添加到主屏幕，随时一目了然地快速访问。" icon="annotation" >}}
+  {{< ls-feature-card title="歌词和注释" subtitle="在音频曲目播放时查看嵌入的定时歌词和注释，并将歌词小组件添加到主屏幕，随时一目了然地快速访问。" icon="annotation" >}}
 
-  {{< feature-card title="AirPlay 和 Chromecast" subtitle="借助内置的 AirPlay 和 Google Chromecast 支持，将您的音乐无线串流到 Apple TV、智能音箱和其他设备，轻松实现全屋聆听。" icon="device-mobile" >}}
+  {{< ls-feature-card title="AirPlay 和 Chromecast" subtitle="借助内置的 AirPlay 和 Google Chromecast 支持，将您的音乐无线串流到 Apple TV、智能音箱和其他设备，轻松实现全屋聆听。" icon="device-mobile" >}}
 
-  {{< feature-card title="Apple CarPlay" subtitle="通过专用的 Apple CarPlay 界面安全驾驶并聆听，将您的音乐、播放列表和播放控制直接呈现在汽车仪表盘显示屏上。" icon="truck" >}}
+  {{< ls-feature-card title="Apple CarPlay" subtitle="通过专用的 Apple CarPlay 界面安全驾驶并聆听，将您的音乐、播放列表和播放控制直接呈现在汽车仪表盘显示屏上。" icon="truck" >}}
 
-  {{< feature-card title="小组件" subtitle="启用交互式主屏幕小组件，快速访问您的播放队列，只需轻点一下即可从上次保存的位置继续播放。" icon="view-grid" >}}
+  {{< ls-feature-card title="小组件" subtitle="启用交互式主屏幕小组件，快速访问您的播放队列，只需轻点一下即可从上次保存的位置继续播放。" icon="view-grid" >}}
 
-  {{< feature-card title="有声书" subtitle="借助音频书签、播放速度控制和已保存的媒体位置，将应用变为完整的有声书播放器，还可阅读文件元数据中存储的文本详情。" icon="book-open" >}}
+  {{< ls-feature-card title="有声书" subtitle="借助音频书签、播放速度控制和已保存的媒体位置，将应用变为完整的有声书播放器，还可阅读文件元数据中存储的文本详情。" icon="book-open" >}}
 
-  {{< feature-card title="自动同步" subtitle="您的音乐库在云端和设备之间自动同步，将每一首歌曲按艺术家、专辑和流派整齐分组，让您的收藏始终井井有条。" icon="refresh" >}}
+  {{< ls-feature-card title="自动同步" subtitle="您的音乐库在云端和设备之间自动同步，将每一首歌曲按艺术家、专辑和流派整齐分组，让您的收藏始终井井有条。" icon="refresh" >}}
 
-  {{< feature-card title="播放列表管理器" subtitle="创建和管理播放列表，重新排列歌曲，并让任意播放列表可离线使用。按名称、大小、歌曲编号或专辑对曲目排序，让一切井然有序。" icon="collection" >}}
+  {{< ls-feature-card title="播放列表管理器" subtitle="创建和管理播放列表，重新排列歌曲，并让任意播放列表可离线使用。按名称、大小、歌曲编号或专辑对曲目排序，让一切井然有序。" icon="collection" >}}
 
-  {{< feature-card title="ID3 标签编辑器" subtitle="使用内置 ID3 标签编辑器修复损坏或缺失的元数据，更新标题、艺术家、专辑等信息，让您的音乐库保持整洁有序。" icon="pencil-alt" >}}
+  {{< ls-feature-card title="ID3 标签编辑器" subtitle="使用内置 ID3 标签编辑器修复损坏或缺失的元数据，更新标题、艺术家、专辑等信息，让您的音乐库保持整洁有序。" icon="pencil-alt" >}}
 
-  {{< feature-card title="文件管理器" subtitle="使用集成的文件管理器整理您的音乐，处理复制、移动、重命名和删除等日常操作，让所有音频文件井井有条。" icon="folder" >}}
+  {{< ls-feature-card title="文件管理器" subtitle="使用集成的文件管理器整理您的音乐，处理复制、移动、重命名和删除等日常操作，让所有音频文件井井有条。" icon="folder" >}}
 
-  {{< feature-card title="高级搜索" subtitle="借助智能搜索引擎在几秒内找到任何内容，在您的整个音乐库中快速定位您喜爱的专辑、艺术家和歌曲。" icon="search" >}}
+  {{< ls-feature-card title="高级搜索" subtitle="借助智能搜索引擎在几秒内找到任何内容，在您的整个音乐库中快速定位您喜爱的专辑、艺术家和歌曲。" icon="search" >}}
 
-  {{< feature-card title="USB 闪存卡" subtitle="连接 SanDisk iXpand 等外部读卡器，直接从 SD 卡或 USB 闪存驱动器聆听音乐，无需额外同步或下载。" icon="inbox" >}}
+  {{< ls-feature-card title="USB 闪存卡" subtitle="连接 SanDisk iXpand 等外部读卡器，直接从 SD 卡或 USB 闪存驱动器聆听音乐，无需额外同步或下载。" icon="inbox" >}}
   
 {{< /cards >}}
 
@@ -254,55 +254,55 @@ Evermusic 是一款适用于 iPhone 和 Mac 的免费离线音乐播放器，由
 <div class="hx:mt-6"></div>
 
 <div class="hx:w-full">
-{{< appstore-reviews apps="885367198,1564384601" stars="5,4"  app="Evermusic" >}}
+{{< ls-appstore-reviews apps="885367198,1564384601" stars="5,4"  app="Evermusic" >}}
 </div>
 
 <div class="hx:mt-6"></div>
 
-{{< hextra/section-headline >}}
+{{< ls-section-headline >}}
   价格方案
-{{< /hextra/section-headline >}}
+{{< /ls-section-headline >}}
 
 <div class="hx:mt-6"></div>
 
 <div class="hx:w-full">
-{{< pricing-plans >}}
+{{< ls-pricing-plans >}}
 
 </div>
 
 <div class="hx:mt-6"></div>
 
 <div class="hx:w-full hx:mx-auto hx:flex hx:flex-col hx:items-center">
-  {{< hextra/info-paragraph border="true" >}}
+  {{< ls-info-paragraph border="true" >}}
    <strong>家庭共享</strong>：所有购买和订阅均支持家庭共享，允许您与家人共享高级版访问权限。<br><strong>通用访问</strong>：终身版和订阅方案通过 iCloud 同步在 iOS 和 Mac 设备之间共享。<br><strong>定价</strong>：价格以美元显示，适用于美国地区。最终价格可能因您所在地区而异。  
-  {{< /hextra/info-paragraph >}}
+  {{< /ls-info-paragraph >}}
 </div>
 
 <div class="hx:mt-6"></div>
 
 <div class="hx:w-full">
-{{< app-details heading="true" >}}
+{{< ls-app-details heading="true" >}}
 </div>
 
 <div class="hx:mt-6"></div>
 
-{{< hextra/section-headline >}}
+{{< ls-section-headline >}}
   常见问题
-{{< /hextra/section-headline >}}
+{{< /ls-section-headline >}}
 
 <div class="hx:mt-6"></div>
 
 <div class="hx:w-full">
-{{% details title="什么是 Evermusic？" closed="true" %}}
+{{% ls-details title="什么是 Evermusic？" closed="true" %}}
 Evermusic 是一款音乐播放器应用，帮助您从不同的云存储服务聆听您喜爱的歌曲。<br>
 您可以轻松下载音乐以供离线播放、创建和管理播放列表，并使用内置均衡器增强您的聆听体验。<br>
 它支持 Google Drive、Dropbox、OneDrive 等服务，让您可以将所有音乐集中在一个地方，并从任何设备访问。<br><br>
 该应用还支持多种音频格式，让您可以按艺术家、专辑、流派和作曲家整理您的音乐库。<br>
 您可以在云存储和设备之间同步您的音乐库，确保您随时都能听到喜爱的曲目。<br>
 此外，借助无缝播放、淡入淡出以及串流到 Chromecast 和 AirPlay 设备等功能，Evermusic 为您的所有音乐需求提供了完整的解决方案。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Evermusic 如何工作？" closed="true" %}}
+{{% ls-details title="Evermusic 如何工作？" closed="true" %}}
 Evermusic 通过连接各种云存储服务（如 Google Drive、Dropbox、OneDrive 等）来工作，让您可以从任何设备访问您的音乐库。<br>
 连接后，您可以直接从云端浏览和串流音乐，或下载喜爱的歌曲、专辑和播放列表以供离线播放。<br>
 该应用支持多种音频格式，让您轻松播放存储的任何音乐文件。<br><br>
@@ -322,15 +322,15 @@ Evermusic 通过连接各种云存储服务（如 Google Drive、Dropbox、OneDr
 - [如何使用 WiFi-Drive 从电脑无线传输文件到 iPhone。](/docs/howto/how-to-transfer-files-wirelessly-from-a-computer-to-an-iphone-using-wifi-drive)<br>
 - [如何将 USB 闪存卡连接到 iPhone 并收听或管理其中的音乐文件。](/docs/howto/how-to-connect-a-usb-flashcard-to-the-iphone-and-listen-to-music-or-manage-files-located-on-it)<br>
 - [如何在 iPhone 上播放 WD My Cloud Home 中的音乐。](/docs/howto/how-to-play-music-on-iphone-from-wd-my-cloud-home)
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Evermusic 免费吗？" closed="true" %}}
+{{% ls-details title="Evermusic 免费吗？" closed="true" %}}
 Evermusic 是一款免费应用，有一些限制，升级到高级版后可以解除。该应用提供一次性终身内购和两种订阅选项（1 个月和 1 年）以解除所有限制，让您选择最佳且最优惠的价格。价格可能因您所在的国家或地区而异。此外，请注意所有购买和方案均已启用家庭共享，因此您可以与家人共享高级版。<br><br>
 终身购买和订阅通过 iCloud 在 iOS 和 Mac 之间共享同步信息。如果您在 iOS 设备上拥有高级版，请确保已安装最新版本并启用了 iCloud。在 iOS 上启动应用并等待一分钟，让您的购买信息上传到 iCloud。<br><br>
 [了解更多](/docs/faq/evermusic/what-is-the-difference-between-evermusic-and-evermusic-premium/)
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Evermusic 免费版和 Evermusic 高级版有什么区别？" closed="true" %}}
+{{% ls-details title="Evermusic 免费版和 Evermusic 高级版有什么区别？" closed="true" %}}
 **Evermusic 免费版**<br>
 • 包含广告：免费版显示广告以产生收入，这可能偶尔会打断您的音乐聆听。<br>
 • 有限播放列表：在免费版中您最多可以创建 (10) 个播放列表。<br>
@@ -357,10 +357,10 @@ Evermusic 是一款免费应用，有一些限制，升级到高级版后可以�
 • 完全个性化：提供完全的个性化选项，包括更改应用图标的功能。<br><br>
 
 [了解更多](/docs/faq/evermusic/what-is-the-difference-between-evermusic-and-evermusic-premium/)
-{{% /details %}}
+{{% /ls-details %}}
 
 
-{{% details title="Evermusic 安全吗？" closed="true" %}}
+{{% ls-details title="Evermusic 安全吗？" closed="true" %}}
 Evermusic 仅使用官方 SDK 和安全连接与已连接的云服务交互。您的登录名和密码对应用不可见。应用向云服务发出的所有请求都经过加密。<br>
 当您输入登录名和密码时，应用会显示由云服务提供商提供的官方授权页面，所有授权过程都在应用外部完成。云服务提供商在授权成功后向应用发送一个授权令牌，该令牌用于进行 API 调用。<br><br>
 
@@ -372,24 +372,24 @@ Evermusic 仅使用官方 SDK 和安全连接与已连接的云服务交互。�
 您还可以在应用中断开已连接的云账户，授权令牌也将从您的设备中移除。如果您从设备中删除该应用，所有下载的数据和访问令牌也将被移除。<br><br>
 
 [了解更多](/docs/guide/evermusic/evermusic-guide-connections/)
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="如何在 Evermusic 中创建播放列表？" closed="true" %}}
+{{% ls-details title="如何在 Evermusic 中创建播放列表？" closed="true" %}}
 - 打开"播放列表"部分。<br>
 - 点击右上角的"+"按钮或"..."按钮，然后选择"新建播放列表"。<br>
 - 输入播放列表的名称并点击"保存"。将出现"添加歌曲"对话框。<br>
 - 选择您要添加到播放列表的曲目。<br><br>
 
 [了解更多](/docs/guide/evermusic/evermusic-guide-playlists/)
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Evermusic 支持哪些云服务？" closed="true" %}}
+{{% ls-details title="Evermusic 支持哪些云服务？" closed="true" %}}
 目前，该应用支持最受欢迎的云服务：iCloud Drive、Google Drive、Dropbox、OneDrive、Box、MEGA、Yandex.Disk、WD MyCloud Home、DLNA、MediaFire、WebDAV、SMB、pCloud、HiDrive、百度网盘、My Cloud Home、InfiniCLOUD、Cloud Mail.ru、Put.io、MyDrive。<br><br>
 
 [了解更多](/docs/guide/evermusic/evermusic-guide-connections/)
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="如何使用均衡器？" closed="true" %}}
+{{% ls-details title="如何使用均衡器？" closed="true" %}}
 - 打开音频播放器界面。<br>
 - 点击屏幕底部的"均衡器"图标。<br>
 - 切换均衡器屏幕右上角的开关控件以激活均衡器。<br>
@@ -397,9 +397,9 @@ Evermusic 仅使用官方 SDK 和安全连接与已连接的云服务交互。�
 
 完整教程请参阅：<br>
 [如何在 iPhone、iPad、Mac 上使用 Evermusic 和 Flacbox 的音频均衡器](/docs/howto/how-to-use-the-audio-equalizer-on-your-iphone-ipad-mac-with-evermusic-and-flacbox)
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="如何在 Evermusic 中启用离线模式？" closed="true" %}}
+{{% ls-details title="如何在 Evermusic 中启用离线模式？" closed="true" %}}
 - 连接云服务：<br>
  • 前往"连接"选项卡。<br>
  • 选择"连接云存储"并按照提示连接您所需的服务。<br><br>
@@ -423,9 +423,9 @@ Evermusic 仅使用官方 SDK 和安全连接与已连接的云服务交互。�
  • 点击"更多操作"并选择"开始同步"。<br><br>
 
 [了解更多](/docs/howto/play-offline-music-in-evermusic-flacbox-download-sync-from-cloud-to-local-files/)
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="如何在 iPhone 上播放本地下载的音乐？" closed="true" %}}
+{{% ls-details title="如何在 iPhone 上播放本地下载的音乐？" closed="true" %}}
 安装应用后，打开"本地文件"界面并向下滚动到"此 iPhone 上的文件"部分。<br>
 如果需要选择多个音频文件，请选择"打开文件..."；如果想选择一个音乐文件夹，请选择"打开文件夹..."。<br>
 应用将扫描文件夹内容，所有找到的音频文件都将被选中。<br>
@@ -456,15 +456,15 @@ Evermusic 仅使用官方 SDK 和安全连接与已连接的云服务交互。�
 通过这些简单的步骤，您可以释放 iPhone 和 Mac 的全部潜力，将其打造为享受珍藏本地音乐收藏的终极平台。<br><br>
 
 [了解更多](/docs/howto/how-to-play-local-music-stored-on-your-iphone-or-mac)
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="如何从上次中断的地方恢复播放列表？" closed="true" %}}
+{{% ls-details title="如何从上次中断的地方恢复播放列表？" closed="true" %}}
 首先，请确保在"设置">"音频播放器">"通用"中启用了"保存音频播放器状态"。<br>
 当您切换到另一个播放列表并返回时，您将在专辑封面下方的顶部工具栏上看到四个操作："搜索"、"继续播放"、"全部播放"和"随机播放全部"。<br>
 点击"继续播放"从上次保存的状态和媒体位置恢复播放列表。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="如何在 Evermusic 中查看歌词？" closed="true" %}}
+{{% ls-details title="如何在 Evermusic 中查看歌词？" closed="true" %}}
 您可以按照以下步骤在 Evermusic 应用中查看曲目的嵌入歌词：<br>
 1. 点击音频文件开始播放。<br>
 2. 打开全屏音频播放器。<br>
@@ -478,9 +478,9 @@ Evermusic 仅使用官方 SDK 和安全连接与已连接的云服务交互。�
 3. "LRC 文件模式"：您可以将 LRC 文件放在与原始音频文件相同的文件夹中，而无需编辑音频文件。两个文件应具有相同的名称但不同的扩展名。当您在注释界面滑动到第三页时，应用将在同一目录中搜索 LRC 文件并显示其内容。<br><br>
 
 [了解更多](/docs/howto/how-to-add-and-view-comments-to-your-audio-tracks-on-iphone-ipad-and-mac-with-evermusic-and-flacbox)
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="如何从电脑传输音乐到 Evermusic？" closed="true" %}}
+{{% ls-details title="如何从电脑传输音乐到 Evermusic？" closed="true" %}}
 您可以使用 SMB、WebDAV 或 DLNA 协议连接您的电脑或个人 NAS。或者，使用 iTunes 文件共享传输音乐。<br><br>
 
 要使用 **SMB** 协议连接电脑，请点击"连接云服务"→ SMB。<br>
@@ -517,9 +517,9 @@ URL 格式应为 http://服务器名称，如果服务器支持 SSL，则为 htt
 
 使用 **DLNA**，您还可以设置 DLNA 媒体服务器并从 Windows PC 串流音乐，如此处所述：<br>
 [如何在 Windows 10 上启用 DLNA 媒体服务器并在 iPhone 上播放音乐](/docs/howto/how-to-enable-dlna-media-server-on-windows-10-and-play-your-music-on-iphone)
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="如何下载音乐？" closed="true" %}}
+{{% ls-details title="如何下载音乐？" closed="true" %}}
 在下载音乐并离线收听之前，您应该连接网络账户。<br>
 只需打开"连接"界面并添加您的账户。<br>
 添加网络账户后，您就可以从云端下载音乐了。<br><br>
@@ -540,9 +540,9 @@ URL 格式应为 http://服务器名称，如果服务器支持 SSL，则为 htt
 
 另一个可用选项是从 Youtube 下载音乐并导入到 Evermusic 中，如此处所述：<br>
 [如何从 YouTube 下载音乐并在 iPhone 上离线收听](/docs/howto/how-to-download-music-from-youtube-and-listen-to-offline-music-on-iphone)
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Evermusic 支持 Apple CarPlay 吗？" closed="true" %}}
+{{% ls-details title="Evermusic 支持 Apple CarPlay 吗？" closed="true" %}}
 是的，**Evermusic 完全支持 Apple CarPlay**。您可以浏览音乐库、播放本地或离线文件、连接云存储，并直接从汽车信息娱乐屏幕控制播放。
 
 CarPlay 界面包括**音乐库**、**连接**、**本地文件**和**设置**的专用选项卡，让您在路上完全控制您的音乐。播放控制、随机播放、重复播放和队列管理功能也可使用。
@@ -550,9 +550,9 @@ CarPlay 界面包括**音乐库**、**连接**、**本地文件**和**设置**�
 要使用 CarPlay，请确保 Siri 已启用，并且您的 iPhone 已通过 USB 或无线连接。
 
 [阅读完整指南](/docs/howto/how-to-play-your-own-music-on-iphone-using-carplay/)
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Evermusic 支持哪些音频格式？" closed="true" %}}
+{{% ls-details title="Evermusic 支持哪些音频格式？" closed="true" %}}
 以下是支持的音频格式及其对应文件扩展名的完整列表：<br><br>
 
 **支持的音频格式：**<br>
@@ -570,40 +570,40 @@ CarPlay 界面包括**音乐库**、**连接**、**本地文件**和**设置**�
 mpeg, aifc, 3gp, avi, aif, latm, 3gpp, m4a, loas, cdda, aac, m4p, m4b, ac3, pls, mp4v, m3u, m4r, aiff, xhe, mp1, snd, mp2, wav, qt, wave, m3u8, m4v, mp3, 3g2, caf, mp4, flac, au, w64, ec3, adts, amr, vtt, mpa, aa<br><br>
 
 凭借如此广泛的支持格式和文件扩展名，您可以按自己喜欢的格式享受音乐。
-{{% /details %}}
+{{% /ls-details %}}
 
 </div>
 
 <div class="hx:mt-6"></div>
 
-{{< hextra/section-headline >}}
+{{< ls-section-headline >}}
   用户指南
-{{< /hextra/section-headline >}}
+{{< /ls-section-headline >}}
 
 <div class="hx:mt-6"></div>
 
 <div class="hx:w-full">
 
 <div class="hx:w-full hx:mx-auto hx:flex hx:flex-col hx:items-center hx:text-center">
-  {{< hextra/info-paragraph border="false" >}}
+  {{< ls-info-paragraph border="false" >}}
   本指南将帮助您在 iPhone、iPad 或 Mac 上充分利用 Evermusic。了解如何从云端串流音乐、管理有声书以及在设备之间传输音乐。Evermusic 让您在一个简单的应用中完全掌控您的音乐收藏。
-  {{< /hextra/info-paragraph >}}
+  {{< /ls-info-paragraph >}}
 </div>
 
 {{< cards >}}
-  {{< feature-card icon="location-marker" title="导航" subtitle="了解如何在 iPhone 上使用标签栏或在 iPad 和 Mac 上使用左侧菜单来导航 Evermusic。" link="/docs/guide/evermusic/evermusic-guide-navigation" >}}
+  {{< ls-feature-card icon="location-marker" title="导航" subtitle="了解如何在 iPhone 上使用标签栏或在 iPad 和 Mac 上使用左侧菜单来导航 Evermusic。" link="/docs/guide/evermusic/evermusic-guide-navigation" >}}
 
-  {{< feature-card icon="cloud" title="连接" subtitle="连接您的云账户并使用内置文件管理器管理在线文件。" link="/docs/guide/evermusic/evermusic-guide-connections" >}}
+  {{< ls-feature-card icon="cloud" title="连接" subtitle="连接您的云账户并使用内置文件管理器管理在线文件。" link="/docs/guide/evermusic/evermusic-guide-connections" >}}
 
-  {{< feature-card icon="library" title="音乐库" subtitle="在音乐库中整理和浏览您的曲目、专辑和艺术家。" link="/docs/guide/evermusic/evermusic-guide-music-library" >}}
+  {{< ls-feature-card icon="library" title="音乐库" subtitle="在音乐库中整理和浏览您的曲目、专辑和艺术家。" link="/docs/guide/evermusic/evermusic-guide-music-library" >}}
 
-  {{< feature-card icon="collection" title="播放列表" subtitle="创建和安排播放列表以匹配您的心情或场合。" link="/docs/guide/evermusic/evermusic-guide-playlists" >}}
+  {{< ls-feature-card icon="collection" title="播放列表" subtitle="创建和安排播放列表以匹配您的心情或场合。" link="/docs/guide/evermusic/evermusic-guide-playlists" >}}
 
-  {{< feature-card icon="folder" title="本地文件" subtitle="通过本地文件部分访问和管理离线音乐。" link="/docs/guide/evermusic/evermusic-guide-local-files" >}}
+  {{< ls-feature-card icon="folder" title="本地文件" subtitle="通过本地文件部分访问和管理离线音乐。" link="/docs/guide/evermusic/evermusic-guide-local-files" >}}
 
-  {{< feature-card icon="play" title="音频播放器" subtitle="控制您的播放、队列和音频设置，如均衡器和睡眠定时器。" link="/docs/guide/evermusic/evermusic-guide-player" >}}
+  {{< ls-feature-card icon="play" title="音频播放器" subtitle="控制您的播放、队列和音频设置，如均衡器和睡眠定时器。" link="/docs/guide/evermusic/evermusic-guide-player" >}}
 
-  {{< feature-card icon="adjustments" title="设置" subtitle="自定义 Evermusic 的外观、功能和性能设置。" link="/docs/guide/evermusic/evermusic-guide-settings" >}}
+  {{< ls-feature-card icon="adjustments" title="设置" subtitle="自定义 Evermusic 的外观、功能和性能设置。" link="/docs/guide/evermusic/evermusic-guide-settings" >}}
 
 {{< /cards >}}
 

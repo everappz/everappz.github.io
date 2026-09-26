@@ -31,7 +31,7 @@ readingTime: 14
 يظل المشغّل المدمج مرئياً أثناء تصفح مكتبتك أو مدير الملفات أو إعداداتك، لذلك لن تفقد فيديوك أبداً أثناء البحث عن الفيديو التالي.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="مشغّل الوسائط بملء الشاشة في Evervideo" image="/docs/guide/evervideo/img/evervideo-media-player-fullscreen.webp" >}}
+  {{< ls-card title="" subtitle="مشغّل الوسائط بملء الشاشة في Evervideo" image="/docs/guide/evervideo/img/evervideo-media-player-fullscreen.webp" >}}
 {{< /cards >}}
 
 ## صيغ الفيديو والصوت المدعومة
@@ -72,7 +72,7 @@ readingTime: 14
 المشغّل المدمج هو مشغّل مصغّر ثابت يظل مرئياً في أعلى كل شاشة في التطبيق أثناء تصفح المكتبة أو مدير الملفات أو الإعدادات. انقر عليه للتوسع إلى مشغّل ملء الشاشة؛ اسحب للأسفل لطيّه مجدداً.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="إعدادات الفيديو من المشغّل المدمج على الشاشة الرئيسية في Evervideo" image="/docs/guide/evervideo/img/evervideo-video-settings-from-compact-player-view-on-the-main-screen.webp" >}}
+  {{< ls-card title="" subtitle="إعدادات الفيديو من المشغّل المدمج على الشاشة الرئيسية في Evervideo" image="/docs/guide/evervideo/img/evervideo-video-settings-from-compact-player-view-on-the-main-screen.webp" >}}
 {{< /cards >}}
 
 ## AirPlay 2
@@ -115,7 +115,7 @@ readingTime: 14
 لضبط الصورة، يوفر Evervideo معادل فيديو مخصصاً — اضبط السطوع والتباين والتشبع والصبغة في الوقت الفعلي أثناء التشغيل. مثل معادل الصوت، يمكن تصدير الإعدادات المسبقة المخصصة للفيديو واستيرادها للمشاركة أو النسخ الاحتياطي. استخدمه لإضاءة مشهد مظلم في يوم مشمس أو تعزيز التشبع في محتوى باهت، أو تدفئة صبغة لون بارد.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="معادل الفيديو في Evervideo" image="/docs/guide/evervideo/img/evervideo-video-equalizer.webp" >}}
+  {{< ls-card title="" subtitle="معادل الفيديو في Evervideo" image="/docs/guide/evervideo/img/evervideo-video-equalizer.webp" >}}
 {{< /cards >}}
 
 ## وضع تكبير الفيديو
@@ -144,7 +144,7 @@ readingTime: 14
 انقر على عنصر التحكم بالسرعة في شريط المشغّل لتغيير سرعة التشغيل — أبطئها للتحليل (0.25× أو 0.5×) أو سرّعها للدروس والمحاضرات (1.25× و1.5× و2× وحتى 3×). انقر على أيقونة الإعداد في الزاوية العلوية اليمنى من شاشة السرعة للتبديل إلى الوضع الدقيق مع تعديلات أدق. تصحيح درجة الصوت لكل مسار متاح أيضاً.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="سرعة تشغيل Evervideo في شريط الأدوات الرئيسي" image="/docs/guide/evervideo/img/evervideo-media-player-playback-speed-on-main-toolbar.webp" >}}
+  {{< ls-card title="" subtitle="سرعة تشغيل Evervideo في شريط الأدوات الرئيسي" image="/docs/guide/evervideo/img/evervideo-media-player-playback-speed-on-main-toolbar.webp" >}}
 {{< /cards >}}
 
 ## قائمة انتظار المشغّل
@@ -152,7 +152,7 @@ readingTime: 14
 لعرض قائمة انتظار المشغّل، انقر على زر قائمة الانتظار في المشغّل. لكل فيديو في قائمة الانتظار إجراءات إضافية — انقر على النقاط الثلاث لعرضها. لإعادة ترتيب فيديو في قائمة الانتظار، استخدم مؤشر إعادة الترتيب بجانب العنوان واسحبه إلى موضع جديد.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="قائمة انتظار التشغيل في Evervideo" image="/docs/guide/evervideo/img/evervideo-playback-queue.webp" >}}
+  {{< ls-card title="" subtitle="قائمة انتظار التشغيل في Evervideo" image="/docs/guide/evervideo/img/evervideo-playback-queue.webp" >}}
 {{< /cards >}}
 
 ## موقّت النوم
@@ -189,7 +189,7 @@ readingTime: 14
 - **المساعدة** — فتح التوجيه.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="شاشة المزيد من الإجراءات للمشغّل في Evervideo" image="/docs/guide/evervideo/img/evervideo-media-player-more-actions.webp" >}}
+  {{< ls-card title="" subtitle="شاشة المزيد من الإجراءات للمشغّل في Evervideo" image="/docs/guide/evervideo/img/evervideo-media-player-more-actions.webp" >}}
 {{< /cards >}}
 
 ## إعدادات المشغّل

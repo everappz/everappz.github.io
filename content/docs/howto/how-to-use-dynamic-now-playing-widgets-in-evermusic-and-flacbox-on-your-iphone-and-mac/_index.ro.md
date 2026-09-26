@@ -7,7 +7,7 @@ tags: ["widgeturi", "ios17", "dinamic", "acum se redă", "ecran principal", "son
 keywords: ["Widget Evermusic", "Widget Flacbox", "Widget Acum se redă iOS", "widget desktop macOS Sonoma", "marcaje audio iPhone", "widget muzică Evermusic", "control redare ecran principal", "widgeturi dinamice iOS 17"]
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **Pe scurt:** Evermusic și Flacbox oferă widgeturi interactive Acum se redă pe iOS 17+ și macOS 14 Sonoma+. Puteți controla redarea, sări peste piese, adăuga la preferințe și crea marcaje audio direct de pe ecranul principal al iPhone-ului sau desktopul Mac-ului — fără a deschide aplicația.
@@ -78,22 +78,22 @@ Bucurați-vă de actualizare și ascultare plăcută!
 
 ## Întrebări Frecvente
 
-{{% details title="Funcționează widgeturile fără a deschide aplicația?" closed="true" %}}
+{{% ls-details title="Funcționează widgeturile fără a deschide aplicația?" closed="true" %}}
 Da. Pe iOS 17 și macOS 14 Sonoma, butoanele widgetului sunt interactive și controlează redarea direct. Aplicația nu trebuie să fie în prim-plan.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Ce dimensiune de widget ar trebui să aleg?" closed="true" %}}
+{{% ls-details title="Ce dimensiune de widget ar trebui să aleg?" closed="true" %}}
 Alegeți Mic pentru redare/pauză de bază și preferințe. Alegeți Mediu dacă doriți butoane de salt. Alegeți Mare dacă doriți și marcaje audio.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Pot folosi widgetul pentru a relua o carte audio?" closed="true" %}}
+{{% ls-details title="Pot folosi widgetul pentru a relua o carte audio?" closed="true" %}}
 Da. Activați "Salvare Stare Player Audio" în Setări, iar widgetul va relua redarea de la ultima poziție chiar și după ce aplicația a fost închisă.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Sunt widgeturile disponibile pe iPad?" closed="true" %}}
+{{% ls-details title="Sunt widgeturile disponibile pe iPad?" closed="true" %}}
 Da. iPadOS 17 suportă aceleași widgeturi interactive ca iPhone-ul.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Atât Evermusic, cât și Flacbox au aceste widgeturi?" closed="true" %}}
+{{% ls-details title="Atât Evermusic, cât și Flacbox au aceste widgeturi?" closed="true" %}}
 Da. Widgetul Acum se redă este disponibil atât în Evermusic, cât și în Flacbox cu funcționalitate identică.
-{{% /details %}}
+{{% /ls-details %}}

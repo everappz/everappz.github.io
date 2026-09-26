@@ -12,7 +12,7 @@ authors:
     image: "/images/about/artem-meleshko-founder-everappz.webp"
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 **Özet:** Evermusic 6.8, Aliyun Drive ve Synology NAS entegrasyonu (QuickConnect ile), altı yeni albüm kapağı kaydırma efekti, minimal tam ekran çalar, sürükle-bırak dosya yönetimi ve daha hızlı albüm kapağı yükleme ekliyor. iOS ve macOS için şimdi kullanılabilir.
 
@@ -77,18 +77,18 @@ Evermusic 6.8 üç alana odaklanıyor: daha geniş bulut uyumluluğu (Aliyun Dri
 
 ## Sık Sorulan Sorular
 
-{{% details title="Synology NAS'ı Evermusic'e nasıl bağlarım?" closed="true" %}}
+{{% ls-details title="Synology NAS'ı Evermusic'e nasıl bağlarım?" closed="true" %}}
 Bağlantılar sekmesine gidin, Synology'yi seçin ve QuickConnectID'nizi girin. Evermusic, IP adresleri veya VPN kurulumu gerektirmeden doğrudan bağlanır.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Aliyun Drive Evermusic ile ücretsiz mi?" closed="true" %}}
+{{% ls-details title="Aliyun Drive Evermusic ile ücretsiz mi?" closed="true" %}}
 Evet. Bir Aliyun Drive hesabınız varsa, ek maliyet olmadan Evermusic'e bağlayabilirsiniz. Depolama limitleri Aliyun Drive planınıza bağlıdır.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Albüm kapağı kaydırma stilini özelleştirebilir miyim?" closed="true" %}}
+{{% ls-details title="Albüm kapağı kaydırma stilini özelleştirebilir miyim?" closed="true" %}}
 Evet. Settings > Audio Player > Personalization > Album Covers Scrolling Style'a gidin ve altı seçenek arasından seçim yapın: MacDoc, Linear, Rotary, Inverted Rotary, Cylinder veya CoverFlow.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Minimal çalar ekranı tüm cihazlarda çalışır mı?" closed="true" %}}
+{{% ls-details title="Minimal çalar ekranı tüm cihazlarda çalışır mı?" closed="true" %}}
 Evet. Tam ekran albüm kapağı stili, Evermusic 6.8 veya sonraki sürümü çalıştıran desteklenen tüm iPhone, iPad ve Mac'lerde kullanılabilir.
-{{% /details %}}
+{{% /ls-details %}}

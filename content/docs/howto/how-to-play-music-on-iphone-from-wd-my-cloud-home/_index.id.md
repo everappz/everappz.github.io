@@ -7,7 +7,7 @@ tags: ["evermusic", "musik", "cloud", "iphone", "penyimpanan", "nas", "dengarkan
 readingTime: 4
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **Ringkasan:** Gunakan Evermusic untuk streaming atau mengunduh musik dari WD My Cloud Home NAS Anda langsung ke iPhone. Akses hingga 8 TB musik, putar secara offline, dan gunakan equalizer bawaan -- semua tanpa langganan bulanan.
@@ -87,26 +87,26 @@ Terima kasih telah menjelajahi panduan ini -- sekarang, selami koleksi musik pri
 
 ## FAQ
 
-{{% details title="Apakah Evermusic gratis digunakan dengan WD My Cloud Home?" closed="true" %}}
+{{% ls-details title="Apakah Evermusic gratis digunakan dengan WD My Cloud Home?" closed="true" %}}
 Evermusic gratis untuk diunduh dengan fitur inti termasuk equalizer, streaming cloud, dan pemutaran offline. Versi gratis mendukung hingga 3 koneksi cloud. Upgrade ke Premium menghapus batasan pada akun cloud, daftar putar, dan folder offline.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Bisakah saya mendengarkan musik offline dari NAS saya?" closed="true" %}}
+{{% ls-details title="Bisakah saya mendengarkan musik offline dari NAS saya?" closed="true" %}}
 Ya. Evermusic memungkinkan Anda mengunduh trek dari WD My Cloud Home ke iPhone Anda untuk pemutaran offline. Ini berguna saat Anda bepergian atau memiliki akses internet terbatas.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Apakah Evermusic mendukung format audio lossless dari WD My Cloud?" closed="true" %}}
+{{% ls-details title="Apakah Evermusic mendukung format audio lossless dari WD My Cloud?" closed="true" %}}
 Ya. Evermusic mendukung FLAC, ALAC, WAV, AIFF, dan format lossless lainnya. Anda dapat melakukan streaming atau mengunduh file audio berkualitas tinggi dari NAS Anda tanpa konversi format.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Bisakah saya menggunakan WD MyCloud EX2 Ultra dengan Evermusic?" closed="true" %}}
+{{% ls-details title="Bisakah saya menggunakan WD MyCloud EX2 Ultra dengan Evermusic?" closed="true" %}}
 Ya, dengan solusi alternatif. Hubungkan melalui opsi My Cloud Home, buat folder menggunakan pengelola file Evermusic, dan unggah file musik Anda ke sana. Karena mode sandbox, hanya file dalam folder yang dibuat aplikasi yang dapat diakses.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Berapa banyak musik yang dapat disimpan di WD My Cloud Home?" closed="true" %}}
+{{% ls-details title="Berapa banyak musik yang dapat disimpan di WD My Cloud Home?" closed="true" %}}
 WD My Cloud Home mendukung hingga 8 TB penyimpanan. Pada bitrate tipikal, ini dapat menampung ratusan ribu lagu, termasuk perpustakaan musik lossless yang besar.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Apakah koneksi antara Evermusic dan WD My Cloud Home aman?" closed="true" %}}
+{{% ls-details title="Apakah koneksi antara Evermusic dan WD My Cloud Home aman?" closed="true" %}}
 Ya. Evermusic menggunakan koneksi aman dan API resmi Western Digital untuk mengakses NAS Anda. Data dan kredensial login Anda dilindungi selama transmisi.
-{{% /details %}}
+{{% /ls-details %}}

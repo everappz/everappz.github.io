@@ -12,7 +12,7 @@ authors:
     image: "/images/about/artem-meleshko-founder-everappz.webp"
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 ![](/blog/evermusic-stream-your-music-from-the-cloud-and-free-up-space-on-your-iphone-or-ipad/21260c_00c5356db3a24db6a6a37e353b774d56~mv2.jpg)
 
@@ -82,22 +82,22 @@ Layari akaun awan yang disambungkan, buka folder muzik, dan ketik fail untuk dim
 
 ## Soalan Lazim
 
-{{% details title="Adakah Evermusic percuma?" closed="true" %}}
+{{% ls-details title="Adakah Evermusic percuma?" closed="true" %}}
 Evermusic percuma untuk dimuat turun dengan ciri premium pilihan. Penstriman awan asas dan main balik luar talian tersedia dalam versi percuma.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Perkhidmatan awan manakah yang disokong oleh Evermusic?" closed="true" %}}
+{{% ls-details title="Perkhidmatan awan manakah yang disokong oleh Evermusic?" closed="true" %}}
 Google Drive, Dropbox, Box, OneDrive, MediaFire, MEGA, Yandex.Disk, pCloud, HiDrive, MyDrive, perkongsian fail SMB, dan pelayan WebDAV.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Bolehkah saya mendengar muzik luar talian dengan Evermusic?" closed="true" %}}
+{{% ls-details title="Bolehkah saya mendengar muzik luar talian dengan Evermusic?" closed="true" %}}
 Ya. Muat turun mana-mana album, artis, senarai main, atau trek individu untuk main balik luar talian terus dalam aplikasi.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Apakah format audio yang dimainkan oleh Evermusic?" closed="true" %}}
+{{% ls-details title="Apakah format audio yang dimainkan oleh Evermusic?" closed="true" %}}
 Evermusic menyokong MP3, FLAC, AAC, WAV, ALAC, AIFF, OPUS, OGG, dan banyak format lain.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Adakah saya masih memerlukan iTunes untuk memindahkan muzik?" closed="true" %}}
+{{% ls-details title="Adakah saya masih memerlukan iTunes untuk memindahkan muzik?" closed="true" %}}
 Tidak. Muat naik muzik anda ke mana-mana perkhidmatan awan yang disokong dari komputer anda, kemudian strim atau muat turun melalui Evermusic pada iPhone atau iPad anda.
-{{% /details %}}
+{{% /ls-details %}}

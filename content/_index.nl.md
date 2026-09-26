@@ -20,16 +20,16 @@ headless: false
 ---
 
 <!-- force dark theme for this page -->
-{{< force-dark >}}
+{{< ls-force-dark >}}
 
-{{< dark-gradient-bg >}}
+{{< ls-dark-gradient-bg >}}
 
-{{< home-hero-banner >}}
+{{< ls-home-hero-banner >}}
 
 <div class="hx:mt-12"></div>
 
 <div class="hx:w-full">
-{{< hero-slideshow >}}
+{{< ls-hero-slideshow >}}
 </div>
 
 <div class="hx:mt-16"></div>
@@ -38,21 +38,21 @@ headless: false
 
 {{< hextra/feature-grid >}}
 
-  {{< hextra/feature-card
+  {{< ls-glass-feature-card
     title="Gebouwd voor jou. Verbeterd door jou."
     subtitle=`We lezen alle beoordelingen en gebruiken je feedback om elke update te verbeteren.`
     icon="code"
     style="background: radial-gradient(circle at 50% 80%, rgba(99,102,241,0.15), transparent);"
   >}}
 
-  {{< hextra/feature-card
+  {{< ls-glass-feature-card
     title="Prestaties met een doel."
     subtitle=`Geen overbodige ballast. Gewoon schone, stabiele apps met functies die ertoe doen.`
     icon="presentation-chart-line"
     style="background: radial-gradient(circle at 50% 80%, rgba(236,72,153,0.15), transparent);"
   >}}
 
-  {{< hextra/feature-card
+  {{< ls-glass-feature-card
     title="Privacy. Toegankelijkheid. Eenvoud."
     subtitle=`Gebruiksvriendelijk, volledig toegankelijk en gebouwd met jouw privacy in gedachten.`
     icon="shield-check"
@@ -66,20 +66,20 @@ headless: false
 <div class="hx:mt-12"></div>
 
 <div class="hx:w-full">
-{{< press-carousel >}}
+{{< ls-press-carousel >}}
 </div>
 
 <div class="hx:mt-12"></div>
 
-{{< hextra/section-headline >}}
+{{< ls-section-headline >}}
 Onze producten
-{{< /hextra/section-headline >}}
+{{< /ls-section-headline >}}
 
 <div class="hx:mt-6"></div>
 
 <div class="hx:w-full">
 
-{{< product-cards >}}
+{{< ls-product-cards >}}
 
 </div>
 
@@ -88,38 +88,38 @@ Onze producten
 <div class="hx:mt-6"></div>
 
 <div class="hx:w-full">
-{{< appstore-reviews apps="1097564256,1594027432,885367198,1564384601,1450763230,1594027661" stars="5,4" >}}
+{{< ls-appstore-reviews apps="1097564256,1594027432,885367198,1564384601,1450763230,1594027661" stars="5,4" >}}
 </div>
 
 <div class="hx:mt-6"></div>
 
-{{< hextra/section-headline >}}
+{{< ls-section-headline >}}
 Laatste nieuws
-{{< /hextra/section-headline >}}
+{{< /ls-section-headline >}}
 
 <div class="hx:mt-6"></div>
 
 <div class="hx:w-full">
 
-{{< blog-cards >}}
+{{< ls-blog-cards >}}
 
 </div>
 
 <div class="hx:mt-6"></div>
 
-{{< hextra/section-headline >}}
+{{< ls-section-headline >}}
 Abonneren
-{{< /hextra/section-headline >}}
+{{< /ls-section-headline >}}
 
 <div class="hx:mt-6"></div>
 
 <div class="hx:w-full hx:text-center">
 
-{{< hextra/hero-paragraph >}}
+{{< ls-hero-paragraph >}}
 Sluit je aan bij mensen die het laatste nieuws en exclusieve aanbiedingen van het Everappz-team ontvangen.  
 Vergeet niet ons te volgen op social media voor het laatste nieuws en updates over de app.  
 Door je te abonneren, ga je akkoord met ons [Privacybeleid](/legal/privacy-policy) en accepteer je de [Algemene voorwaarden](/legal/terms-and-conditions/).
-{{< /hextra/hero-paragraph >}}
+{{< /ls-hero-paragraph >}}
 
 </div>
 
@@ -127,7 +127,7 @@ Door je te abonneren, ga je akkoord met ons [Privacybeleid](/legal/privacy-polic
 
 <div class="hx:w-full hx:text-center">
 
-{{< rawhtml >}}
+{{< ls-rawhtml >}}
 
 <form action="https://everappz.us10.list-manage.com/subscribe/post?u=f758cdf6a38df2a75513ac5f1&amp;id=2373740226" 
 method="post" 
@@ -167,7 +167,7 @@ style="position: absolute; width: 0; height: 0; overflow: hidden;" aria-hidden="
 class="not-prose hx:font-bold hx:cursor-pointer hx:px-6 hx:py-3 hx:rounded-full hx:text-center hx:text-white hx:inline-flex hx:items-center hx:gap-2 hx:bg-primary-600 hx:hover:bg-primary-700 hx:focus:outline-hidden hx:focus:ring-4 hx:focus:ring-primary-300 hx:dark:bg-primary-600 hx:dark:hover:bg-primary-700 hx:dark:focus:ring-primary-800 hx:transition-all hx:ease-in hx:duration-200" 
 style="outline: none; box-shadow: none;">Abonneren</button>
 
-{{< /rawhtml >}}
+{{< /ls-rawhtml >}}
 
 </div>
 

@@ -18,7 +18,7 @@ readingTime: 16
 La pantalla de Configuració és el centre de control d'Evermusic. Des d'aquí pots actualitzar a Premium, configurar el reproductor d'àudio, gestionar la teva biblioteca de música, configurar el gestor de fitxers, personalitzar la interfície, activar ginys i CarPlay, fer còpia de seguretat de les teves dades, i accedir a l'ajuda i informació legal. Les seccions estan agrupades sota encapçalaments: **Compres i actualitzacions**, preferències de l'aplicació, **Ajuda** i **Legal i privadesa**.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Pantalla de configuració d'Evermusic" image="/docs/guide/evermusic/evermusic-guide-settings/img/settings-main-screen.webp" >}}
+  {{< ls-card title="" subtitle="Pantalla de configuració d'Evermusic" image="/docs/guide/evermusic/evermusic-guide-settings/img/settings-main-screen.webp" >}}
 {{< /cards >}}
 
 ## Compres i actualitzacions

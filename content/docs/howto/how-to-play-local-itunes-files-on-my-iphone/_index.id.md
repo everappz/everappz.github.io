@@ -7,7 +7,7 @@ tags: ["audio", "pemutar", "komputer", "file", "file", "pc", "mac", "berbagi", "
 keywords: ["berbagi file itunes", "putar musik lokal", "transfer musik ke iphone", "salin file ke ios", "audio mac ke iphone", "file lokal di iphone", "evermusic", "flacbox", "pemutar musik", "berbagi file", "wifi drive", "streaming musik smb", "aplikasi musik iphone", "impor musik ke ios"]
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **Ringkasan:** Transfer musik dari komputer ke iPhone menggunakan salah satu dari tiga metode: **Berbagi File iTunes/Finder** (kabel USB), **[WiFi Drive](/docs/howto/how-to-transfer-music-from-computer-to-iphone-without-itunes)** (nirkabel, tanpa kabel), atau **[SMB](/docs/howto/stream-your-music-from-mac-or-pc-to-iphone-using-smb/)** (streaming langsung tanpa menyalin). Kemudian putar dengan [Evermusic](/products/evermusic) atau [Flacbox](/products/flacbox).
@@ -134,22 +134,22 @@ Anda juga dapat menghubungkan komputer menggunakan protokol SMB untuk streaming 
 
 ## FAQ
 
-{{% details title="Apa cara tercepat untuk mentransfer musik ke iPhone?" closed="true" %}}
+{{% ls-details title="Apa cara tercepat untuk mentransfer musik ke iPhone?" closed="true" %}}
 Berbagi File iTunes/Finder melalui USB adalah metode tercepat untuk perpustakaan musik besar. Untuk transfer yang lebih kecil, WiFi Drive lebih nyaman karena tidak memerlukan kabel.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Bisakah saya mentransfer file FLAC ke iPhone saya?" closed="true" %}}
+{{% ls-details title="Bisakah saya mentransfer file FLAC ke iPhone saya?" closed="true" %}}
 Ya. Baik Evermusic maupun Flacbox menerima file FLAC melalui Berbagi File iTunes, WiFi Drive, atau SMB. Flacbox direkomendasikan untuk format lossless.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Apakah saya memerlukan iTunes di macOS Catalina atau lebih baru?" closed="true" %}}
+{{% ls-details title="Apakah saya memerlukan iTunes di macOS Catalina atau lebih baru?" closed="true" %}}
 Tidak. Apple mengganti iTunes dengan Finder untuk manajemen perangkat mulai dari macOS Catalina. Gunakan tab File di Finder untuk berbagi file.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Bisakah saya streaming musik tanpa menyalin file ke iPhone saya?" closed="true" %}}
+{{% ls-details title="Bisakah saya streaming musik tanpa menyalin file ke iPhone saya?" closed="true" %}}
 Ya. Gunakan protokol SMB untuk streaming musik langsung dari Mac atau PC Anda. Ini menghemat penyimpanan perangkat dan menjaga perpustakaan Anda tetap di komputer.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Aplikasi mana yang harus saya gunakan -- Evermusic atau Flacbox?" closed="true" %}}
+{{% ls-details title="Aplikasi mana yang harus saya gunakan -- Evermusic atau Flacbox?" closed="true" %}}
 Gunakan Evermusic untuk format standar seperti MP3, WAV, dan AAC. Pilih Flacbox jika perpustakaan Anda mencakup format lossless seperti FLAC, DSD, atau OGG.
-{{% /details %}}
+{{% /ls-details %}}

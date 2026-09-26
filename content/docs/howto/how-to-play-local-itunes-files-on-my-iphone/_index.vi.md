@@ -7,7 +7,7 @@ tags: ["âm thanh", "trình phát", "máy tính", "tệp", "tệp", "PC", "Mac",
 keywords: ["iTunes file sharing", "phát nhạc cục bộ", "chuyển nhạc sang iPhone", "sao chép tệp sang iOS", "Mac sang iPhone âm thanh", "tệp cục bộ trên iPhone", "Evermusic", "Flacbox", "trình phát nhạc", "chia sẻ tệp", "WiFi Drive", "phát nhạc SMB", "ứng dụng nhạc iPhone", "nhập nhạc vào iOS"]
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **Tóm tắt:** Chuyển nhạc từ máy tính sang iPhone bằng một trong ba phương pháp: **iTunes/Finder File Sharing** (cáp USB), **[WiFi Drive](/docs/howto/how-to-transfer-music-from-computer-to-iphone-without-itunes)** (không dây, không cần cáp), hoặc **[SMB](/docs/howto/stream-your-music-from-mac-or-pc-to-iphone-using-smb/)** (phát trực tiếp mà không cần sao chép). Sau đó phát bằng [Evermusic](/products/evermusic) hoặc [Flacbox](/products/flacbox).
@@ -134,22 +134,22 @@ Bạn cũng có thể kết nối máy tính bằng giao thức SMB để phát 
 
 ## FAQ
 
-{{% details title="Cách nhanh nhất để chuyển nhạc sang iPhone là gì?" closed="true" %}}
+{{% ls-details title="Cách nhanh nhất để chuyển nhạc sang iPhone là gì?" closed="true" %}}
 iTunes/Finder File Sharing qua USB là phương pháp nhanh nhất cho thư viện nhạc lớn. Đối với các lần chuyển nhỏ hơn, WiFi Drive tiện lợi hơn vì không cần cáp.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Tôi có thể chuyển tệp FLAC sang iPhone không?" closed="true" %}}
+{{% ls-details title="Tôi có thể chuyển tệp FLAC sang iPhone không?" closed="true" %}}
 Có. Cả Evermusic và Flacbox đều chấp nhận tệp FLAC qua iTunes File Sharing, WiFi Drive hoặc SMB. Flacbox được khuyến nghị cho các định dạng không mất dữ liệu.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Tôi có cần iTunes trên macOS Catalina hoặc mới hơn không?" closed="true" %}}
+{{% ls-details title="Tôi có cần iTunes trên macOS Catalina hoặc mới hơn không?" closed="true" %}}
 Không. Apple đã thay thế iTunes bằng Finder để quản lý thiết bị bắt đầu từ macOS Catalina. Sử dụng tab Tệp của Finder để chia sẻ tệp.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Tôi có thể phát nhạc mà không cần sao chép tệp sang iPhone không?" closed="true" %}}
+{{% ls-details title="Tôi có thể phát nhạc mà không cần sao chép tệp sang iPhone không?" closed="true" %}}
 Có. Sử dụng giao thức SMB để phát nhạc trực tiếp từ Mac hoặc PC. Điều này tiết kiệm dung lượng thiết bị và giữ thư viện trên máy tính.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Tôi nên sử dụng ứng dụng nào -- Evermusic hay Flacbox?" closed="true" %}}
+{{% ls-details title="Tôi nên sử dụng ứng dụng nào -- Evermusic hay Flacbox?" closed="true" %}}
 Sử dụng Evermusic cho các định dạng tiêu chuẩn như MP3, WAV và AAC. Chọn Flacbox nếu thư viện của bạn bao gồm các định dạng không mất dữ liệu như FLAC, DSD hoặc OGG.
-{{% /details %}}
+{{% /ls-details %}}

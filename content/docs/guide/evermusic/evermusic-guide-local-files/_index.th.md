@@ -20,7 +20,7 @@ readingTime: 8
 ตัวจัดการไฟล์ในตัวนี้ช่วยให้คุณแก้ไขไฟล์และมีวิธีต่างๆ ในการนำเข้าไฟล์เสียงเข้าสู่แอป
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evermusic Local Files Screen" image="/docs/guide/evermusic/evermusic-guide-local-files/img/local-files-main.webp" >}}
+  {{< ls-card title="" subtitle="Evermusic Local Files Screen" image="/docs/guide/evermusic/evermusic-guide-local-files/img/local-files-main.webp" >}}
 {{< /cards >}}
 
 ## ดาวน์โหลดไฟล์จากที่เก็บข้อมูลคลาวด์
@@ -40,7 +40,7 @@ readingTime: 8
 โอนไฟล์โดยใช้การเชื่อมต่อสายตามที่อธิบาย [ที่นี่](/docs/howto/how-to-transfer-files-from-my-mac-to-iphone-or-ipad-using-finder)
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="iTunes / Finder File Sharing" image="/docs/guide/evermusic/evermusic-guide-local-files/img/local-files-itunes-file-sharing.webp" >}}
+  {{< ls-card title="" subtitle="iTunes / Finder File Sharing" image="/docs/guide/evermusic/evermusic-guide-local-files/img/local-files-itunes-file-sharing.webp" >}}
 {{< /cards >}}
 
 ## Wi-Fi Drive
@@ -48,7 +48,7 @@ readingTime: 8
 โอนไฟล์แบบไร้สายตามที่อธิบาย [ที่นี่](/docs/howto/how-to-transfer-files-wirelessly-from-a-computer-to-an-iphone-using-wifi-drive)
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Wi-Fi Drive Server Settings" image="/docs/guide/evermusic/evermusic-guide-local-files/img/local-files-wifidrive-settings.webp" >}}
+  {{< ls-card title="" subtitle="Wi-Fi Drive Server Settings" image="/docs/guide/evermusic/evermusic-guide-local-files/img/local-files-wifidrive-settings.webp" >}}
 {{< /cards >}}
 
 ## คิวการโอน
@@ -56,7 +56,7 @@ readingTime: 8
 ที่มุมบนซ้ายของแถบนำทาง คุณจะพบปุ่ม 'การโอน' แตะเพื่อเข้าถึงคิวการโอน ซึ่งคุณสามารถติดตามและจัดการการดาวน์โหลดและอัปโหลดทั้งหมดของคุณ นอกจากนี้ คุณยังมีความยืดหยุ่นในการปรับความเร็วคิวการโอนและประเภทเครือข่ายในการตั้งค่าแอป
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="File Transfers Queue" image="/docs/guide/evermusic/evermusic-guide-local-files/img/local-files-file-transfers.webp" >}}
+  {{< ls-card title="" subtitle="File Transfers Queue" image="/docs/guide/evermusic/evermusic-guide-local-files/img/local-files-file-transfers.webp" >}}
 {{< /cards >}}
 
 ## ส่วนการเข้าถึงด่วน
@@ -68,7 +68,7 @@ readingTime: 8
 ส่วนนี้แสดงไฟล์หรือโฟลเดอร์ทั้งหมดที่เปิดล่าสุด
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Recently Opened Files and Folders" image="/docs/guide/evermusic/evermusic-guide-local-files/img/local-files-recents.webp" >}}
+  {{< ls-card title="" subtitle="Recently Opened Files and Folders" image="/docs/guide/evermusic/evermusic-guide-local-files/img/local-files-recents.webp" >}}
 {{< /cards >}}
 
 ## รายการโปรด
@@ -76,7 +76,7 @@ readingTime: 8
 คุณสามารถทำเครื่องหมายไฟล์หรือโฟลเดอร์เป็นรายการโปรดและเข้าถึงได้ในส่วนนี้ นอกจากนี้ คุณยังสามารถเพิ่มโฟลเดอร์ที่อยู่บนอุปกรณ์ของคุณในรายการโปรดได้ โดยเปิดส่วนรายการโปรด แตะจุดสามจุดที่มุมบนขวา และเลือกรายการเมนู "เพิ่มโฟลเดอร์" ทำตามขั้นตอนเพื่อเพิ่มโฟลเดอร์จากอุปกรณ์ของคุณในรายการโปรดเพื่อการเข้าถึงที่รวดเร็ว
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Favorites — Add Folder From Your Device" image="/docs/guide/evermusic/evermusic-guide-local-files/img/local-files-favorites.webp" >}}
+  {{< ls-card title="" subtitle="Favorites — Add Folder From Your Device" image="/docs/guide/evermusic/evermusic-guide-local-files/img/local-files-favorites.webp" >}}
 {{< /cards >}}
 
 ## แถบเครื่องมือด้านบน
@@ -91,7 +91,7 @@ readingTime: 8
 คุณสามารถแสดงหรือซ่อนแถบเครื่องมือได้โดยใช้ท่าทางปัดลง
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Top Toolbar for the Current Folder" image="/docs/guide/evermusic/evermusic-guide-local-files/img/local-files-top-toolbar.webp" >}}
+  {{< ls-card title="" subtitle="Top Toolbar for the Current Folder" image="/docs/guide/evermusic/evermusic-guide-local-files/img/local-files-top-toolbar.webp" >}}
 {{< /cards >}}
 
 ## โฟลเดอร์พิเศษ
@@ -128,7 +128,7 @@ readingTime: 8
 แสดงไฟล์ที่อยู่บนอุปกรณ์ของคุณแต่ในแอปพลิเคชันอื่น คุณสามารถนำเข้าไปยังแอปพลิเคชันนี้โดยใช้ตัวเลือกไฟล์ของระบบ หากต้องการเปิดใช้งานตัวเลือก ให้เลือก "เปิดไฟล์..." เพื่อเลือกไฟล์หรือ "เปิดโฟลเดอร์..." เพื่อเลือกโฟลเดอร์ มีคำแนะนำโดยละเอียดเกี่ยวกับวิธีนำเข้าเพลงท้องถิ่นที่เก็บอยู่บน iPhone หรือ Mac ของคุณ [ที่นี่](/docs/howto/how-to-play-local-music-stored-on-your-iphone-or-mac) คุณยังสามารถเชื่อมต่อโฟลเดอร์ที่อยู่บนอุปกรณ์ของคุณและมีการเข้าถึงอย่างรวดเร็วไปยังเนื้อหาของโฟลเดอร์ ใช้รายการเมนู "เชื่อมต่อโฟลเดอร์" และเลือกโฟลเดอร์ที่อยู่บนอุปกรณ์ของคุณ แตะ "เสร็จสิ้น" และแอปจะสร้างลิงก์ไปยังโฟลเดอร์นั้นด้วยการเข้าถึงแบบอ่าน/เขียน และคุณสามารถจัดการไฟล์ได้โดยตรงจากแอปนี้ หากต้องการยกเลิกการเชื่อมต่อโฟลเดอร์ที่อยู่บนอุปกรณ์ของคุณ ให้แตะปุ่ม "ดำเนินการเพิ่มเติม" และเลือก "ตัดการเชื่อมต่อ"
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Files on This iPhone / iPad / Mac" image="/docs/guide/evermusic/evermusic-guide-local-files/img/local-files-on-this-device.webp" >}}
+  {{< ls-card title="" subtitle="Files on This iPhone / iPad / Mac" image="/docs/guide/evermusic/evermusic-guide-local-files/img/local-files-on-this-device.webp" >}}
 {{< /cards >}}
 
 ## นำเข้าไฟล์ที่อยู่บน USB flash card ที่เชื่อมต่อ
@@ -151,7 +151,7 @@ readingTime: 8
 หากคุณต้องการแก้ไขไฟล์หลายไฟล์ ให้เปิดใช้งานโหมดการเลือกโดยแตะปุ่มดำเนินการเพิ่มเติม "..." บนแถบนำทางที่มุมบนขวา แล้วเลือกรายการเมนู "เลือก" ซึ่งจะแสดงช่องทำเครื่องหมายใกล้กับแต่ละไฟล์ เลือกไฟล์ที่ต้องการโดยแตะที่ช่องทำเครื่องหมาย คุณสามารถดำเนินการต่อไปนี้กับไฟล์ที่เลือก
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Selection Mode Actions for Local Files" image="/docs/guide/evermusic/evermusic-guide-local-files/img/local-files-selection-mode.webp" >}}
+  {{< ls-card title="" subtitle="Selection Mode Actions for Local Files" image="/docs/guide/evermusic/evermusic-guide-local-files/img/local-files-selection-mode.webp" >}}
 {{< /cards >}}
 
 - **เล่นต่อไป:** เพิ่มไฟล์หรือโฟลเดอร์ที่เลือกไปที่ด้านบนของคิวเครื่องเล่นตามลำดับการจัดเรียงปัจจุบัน
@@ -186,7 +186,7 @@ readingTime: 8
 ## โฟลเดอร์ออฟไลน์
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Offline Folder More Actions Menu" image="/docs/guide/evermusic/evermusic-guide-local-files/img/local-files-offline-folders.webp" >}}
+  {{< ls-card title="" subtitle="Offline Folder More Actions Menu" image="/docs/guide/evermusic/evermusic-guide-local-files/img/local-files-offline-folders.webp" >}}
 {{< /cards >}}
 
 โหมดออฟไลน์เป็นคุณสมบัติที่มีประโยชน์ซึ่งช่วยให้คุณเข้าถึงเพลงโปรดได้แม้ว่าจะไม่ได้เชื่อมต่ออินเทอร์เน็ต เมื่อคุณเปิดใช้งานโหมดออฟไลน์สำหรับอัลบั้ม ศิลปิน เพลย์ลิสต์ แนวเพลง หรือโฟลเดอร์ระยะไกลใดก็ตาม ไฟล์ทั้งหมดในคอลเลกชันนั้นจะถูกดาวน์โหลดไปยังอุปกรณ์ของคุณโดยอัตโนมัติสำหรับการเล่นออฟไลน์ คุณสามารถเข้าถึงไฟล์เหล่านี้ได้อย่างสะดวกในส่วน "โฟลเดอร์ออฟไลน์" ของแอป
@@ -204,7 +204,7 @@ readingTime: 8
 เกือบทุกพฤติกรรมของหน้าจอไฟล์ในเครื่อง — ตั้งแต่แบนด์วิดท์เครือข่ายไปจนถึงที่ที่การดาวน์โหลดไป ไปจนถึงวิธีแคชภาพขนาดย่อ — สามารถกำหนดค่าได้ภายใต้ **การตั้งค่า → ตัวจัดการไฟล์** เปิดเมื่อคุณต้องการปรับแต่งความเร็วการโอน ประหยัดพื้นที่เก็บข้อมูล หรือจำกัดแอปให้ใช้เฉพาะ Wi-Fi
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="File Manager Settings Screen" image="/docs/guide/evermusic/evermusic-guide-local-files/img/local-files-file-manager-settings.webp" >}}
+  {{< ls-card title="" subtitle="File Manager Settings Screen" image="/docs/guide/evermusic/evermusic-guide-local-files/img/local-files-file-manager-settings.webp" >}}
 {{< /cards >}}
 
 หน้าจอแสดงตัวเลือกทุกตัวเลือกที่จัดกลุ่มเป็นส่วนที่มีป้ายชัดเจน:

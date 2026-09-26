@@ -7,7 +7,7 @@ tags: ["hang", "lejátszó", "számítógép", "fájlok", "fájl", "pc", "mac", 
 keywords: ["itunes fájlmegosztás", "helyi zene lejátszása", "zene átvitele iphone-ra", "fájlok másolása ios-ra", "hang macről iphone-ra", "helyi fájlok iphone-on", "evermusic", "flacbox", "zenelejátszó", "fájlmegosztás", "wifi drive", "smb zene streaming", "iphone zene alkalmazás", "zene importálása ios-ra"]
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **Röviden:** Vigye át a zenét számítógépéről iPhone-ra a három módszer egyikével: **iTunes/Finder fájlmegosztás** (USB kábel), **[WiFi Drive](/docs/howto/how-to-transfer-music-from-computer-to-iphone-without-itunes)** (vezeték nélkül, kábel nélkül), vagy **[SMB](/docs/howto/stream-your-music-from-mac-or-pc-to-iphone-using-smb/)** (közvetlen streaming másolás nélkül). Majd játssza le az [Evermusic](/products/evermusic) vagy [Flacbox](/products/flacbox) alkalmazással.
@@ -134,22 +134,22 @@ Számítógépét az SMB protokoll segítségével is csatlakoztathatja, hogy k�
 
 ## FAQ
 
-{{% details title="Mi a leggyorsabb módja a zene iPhone-ra átvitelének?" closed="true" %}}
+{{% ls-details title="Mi a leggyorsabb módja a zene iPhone-ra átvitelének?" closed="true" %}}
 Az iTunes/Finder fájlmegosztás USB-n keresztül a leggyorsabb módszer nagy zenei könyvtárakhoz. Kisebb átvitelekhez a WiFi Drive kényelmesebb, mivel nem igényel kábelt.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Átvihetek FLAC fájlokat az iPhone-omra?" closed="true" %}}
+{{% ls-details title="Átvihetek FLAC fájlokat az iPhone-omra?" closed="true" %}}
 Igen. Mind az Evermusic, mind a Flacbox elfogadja a FLAC fájlokat iTunes fájlmegosztáson, WiFi Drive-on vagy SMB-n keresztül. A Flacbox ajánlott veszteségmentes formátumokhoz.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Szükségem van az iTunes-ra macOS Catalina vagy újabb rendszeren?" closed="true" %}}
+{{% ls-details title="Szükségem van az iTunes-ra macOS Catalina vagy újabb rendszeren?" closed="true" %}}
 Nem. Az Apple az iTunes-t a Finderrel váltotta fel az eszközkezeléshez a macOS Catalinától kezdve. Használja a Finder Fájlok fülét a fájlmegosztáshoz.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Streamelhetek zenét anélkül, hogy fájlokat másolnék az iPhone-omra?" closed="true" %}}
+{{% ls-details title="Streamelhetek zenét anélkül, hogy fájlokat másolnék az iPhone-omra?" closed="true" %}}
 Igen. Használja az SMB protokollt a zene közvetlen streameléséhez Mac-ről vagy PC-ről. Ez megtakarítja az eszköz tárhelyét, és a könyvtárát a számítógépén tartja.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Melyik alkalmazást használjam -- Evermusic vagy Flacbox?" closed="true" %}}
+{{% ls-details title="Melyik alkalmazást használjam -- Evermusic vagy Flacbox?" closed="true" %}}
 Használja az Evermusic-ot szabványos formátumokhoz, mint MP3, WAV és AAC. Válassza a Flacboxot, ha könyvtára veszteségmentes formátumokat tartalmaz, mint FLAC, DSD vagy OGG.
-{{% /details %}}
+{{% /ls-details %}}

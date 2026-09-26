@@ -15,7 +15,7 @@ readingTime: 11
 使用 Evermusic 管理您的音乐库非常简便，您可以轻松整理所有曲目。您有两种选择来构建音乐库：手动添加或自动同步。
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evermusic 音乐库屏幕" image="/docs/guide/evermusic/evermusic-guide-music-library/img/music-library-main.webp" >}}
+  {{< ls-card title="" subtitle="Evermusic 音乐库屏幕" image="/docs/guide/evermusic/evermusic-guide-music-library/img/music-library-main.webp" >}}
 {{< /cards >}}
 
 ## 手动添加
@@ -23,7 +23,7 @@ readingTime: 11
 要手动添加曲目，请点击「添加音乐」菜单项，从已连接的云存储服务或设备上的文件中选择文件夹/文件。当您将曲目添加到媒体库时，只会创建指向这些曲目的链接，将实际文件保留在其原始位置以节省宝贵的磁盘空间。如果您想让曲目可离线使用，可以使用选项菜单中的下载操作，或为播放列表和曲目集合启用离线模式。
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="将歌曲添加到音乐库" image="/docs/guide/evermusic/evermusic-guide-music-library/img/music-library-add-songs.webp" >}}
+  {{< ls-card title="" subtitle="将歌曲添加到音乐库" image="/docs/guide/evermusic/evermusic-guide-music-library/img/music-library-add-songs.webp" >}}
 {{< /cards >}}
 
 ## 快速访问
@@ -75,7 +75,7 @@ readingTime: 11
 位于导航栏正下方，顶部工具栏提供几个便捷操作：「搜索」、「全部播放」、「随机播放」和「继续播放」。您可以通过简单的向下滑动手势显示或隐藏此工具栏。
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="专辑视图 — 按音乐标签分组" image="/docs/guide/evermusic/evermusic-guide-music-library/img/music-library-albums.webp" >}}
+  {{< ls-card title="" subtitle="专辑视图 — 按音乐标签分组" image="/docs/guide/evermusic/evermusic-guide-music-library/img/music-library-albums.webp" >}}
 {{< /cards >}}
 
 ## 搜索
@@ -83,7 +83,7 @@ readingTime: 11
 搜索功能使您能够在音乐库中找到特定曲目、艺术家、专辑或流派。在「搜索屏幕」中，您可以访问以下操作：「排序」、「过滤」、「网格/列表」。
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="音乐库搜索结果" image="/docs/guide/evermusic/evermusic-guide-music-library/img/music-library-search.webp" >}}
+  {{< ls-card title="" subtitle="音乐库搜索结果" image="/docs/guide/evermusic/evermusic-guide-music-library/img/music-library-search.webp" >}}
 {{< /cards >}}
 
 ## 选项菜单
@@ -91,7 +91,7 @@ readingTime: 11
 音乐库中的每首歌曲都有更多操作的菜单，通过点击歌曲标题附近的三个点按钮访问。这些操作根据是单首歌曲还是集合的一部分而有所不同。
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="媒体库项目的更多操作" image="/docs/guide/evermusic/evermusic-guide-music-library/img/music-library-item-more-actions.webp" >}}
+  {{< ls-card title="" subtitle="媒体库项目的更多操作" image="/docs/guide/evermusic/evermusic-guide-music-library/img/music-library-item-more-actions.webp" >}}
 {{< /cards >}}
 
 ### 对于单首歌曲
@@ -125,7 +125,7 @@ readingTime: 11
 您可以使用右上角的更多操作按钮激活选择模式。在此模式下，您可以选择多首曲目并执行各种操作。
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="音乐库中的选择模式" image="/docs/guide/evermusic/evermusic-guide-music-library/img/music-library-selection-mode.webp" >}}
+  {{< ls-card title="" subtitle="音乐库中的选择模式" image="/docs/guide/evermusic/evermusic-guide-music-library/img/music-library-selection-mode.webp" >}}
 {{< /cards >}}
 
 ## 标签分组
@@ -145,7 +145,7 @@ readingTime: 11
 当您打开艺术家、专辑艺术家或作曲家部分时，您可以看到歌曲/所有专辑/独家专辑/独唱专辑的切换器。
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="带有歌曲 / 全部 / 独家 / 独唱切换器的专辑详情" image="/docs/guide/evermusic/evermusic-guide-music-library/img/music-library-album-details.webp" >}}
+  {{< ls-card title="" subtitle="带有歌曲 / 全部 / 独家 / 独唱切换器的专辑详情" image="/docs/guide/evermusic/evermusic-guide-music-library/img/music-library-album-details.webp" >}}
 {{< /cards >}}
 
 - **歌曲**：显示该艺术家/专辑艺术家/作曲家在音频标签中设置的所有歌曲。
@@ -166,7 +166,7 @@ readingTime: 11
 点击「设置」菜单项以配置您的音乐库首选项。
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="音乐库设置" image="/docs/guide/evermusic/evermusic-guide-music-library/img/music-library-settings.webp" >}}
+  {{< ls-card title="" subtitle="音乐库设置" image="/docs/guide/evermusic/evermusic-guide-music-library/img/music-library-settings.webp" >}}
 {{< /cards >}}
 
 #### 元数据读取

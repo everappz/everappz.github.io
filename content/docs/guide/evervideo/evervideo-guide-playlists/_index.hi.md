@@ -19,7 +19,7 @@ readingTime: 5
 Evervideo में प्लेलिस्ट में ऑनलाइन क्लाउड वीडियो, ऑफलाइन डाउनलोड की गई फाइलें, लोकल फाइलें, Photos लाइब्रेरी वीडियो, और iOS Music लाइब्रेरी वीडियो का मिश्रण हो सकता है — सभी एक प्लेलिस्ट में — और वे निर्बाध रूप से एक साथ चलती हैं।
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="मीडिया लाइब्रेरी में Evervideo प्लेलिस्ट" image="/docs/guide/evervideo/img/evervideo-playlists-in-media-library.webp" >}}
+  {{< ls-card title="" subtitle="मीडिया लाइब्रेरी में Evervideo प्लेलिस्ट" image="/docs/guide/evervideo/img/evervideo-playlists-in-media-library.webp" >}}
 {{< /cards >}}
 
 ## प्लेलिस्ट बनाना

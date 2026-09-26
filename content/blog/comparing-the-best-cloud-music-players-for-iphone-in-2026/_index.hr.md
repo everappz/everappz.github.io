@@ -12,7 +12,7 @@ authors:
     image: "/images/about/artem-meleshko-founder-everappz.webp"
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 ## Koji je cloud glazbeni player najbolji za iPhone?
 
@@ -91,22 +91,22 @@ Za audiofili i svakoga tko održava osobnu glazbenu zbirku u pohrani u oblaku, E
 
 ## Često postavljana pitanja
 
-{{% details title="Mogu li reproducirati FLAC datoteke na iPhoneu bez konvertiranja?" closed="true" %}}
+{{% ls-details title="Mogu li reproducirati FLAC datoteke na iPhoneu bez konvertiranja?" closed="true" %}}
 Da. Evermusic nativno reproducira FLAC, DSD, WAV, ALAC i ostale lossless formate na iPhoneu. Nije potrebna konverzija datoteka. Samo povežite račun pohrane u oblaku i streamajte ili preuzmite FLAC datoteke izravno.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Koji cloud glazbeni player radi s Dropboxom i Google Driveom?" closed="true" %}}
+{{% ls-details title="Koji cloud glazbeni player radi s Dropboxom i Google Driveom?" closed="true" %}}
 Evermusic podržava Dropbox, Google Drive, OneDrive, Box, MEGA, pCloud, WebDAV, SMB i više -- ukupno više od 12 cloud usluga. Većina mainstream streaming aplikacija poput Spotifya i Apple Musica ne spaja se na pohranu u oblaku trećih strana.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Trebam li pretplatu za korištenje cloud glazbenog playera?" closed="true" %}}
+{{% ls-details title="Trebam li pretplatu za korištenje cloud glazbenog playera?" closed="true" %}}
 Ovisi o aplikaciji. Spotify, Apple Music i Deezer zahtijevaju mjesečne pretplate. Evermusic nudi besplatnu razinu i jednokratnu Premium kupnju bez ponavljajućih naknada. Koristite vlastitu pohranu u oblaku za hostiranje glazbenih datoteka.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Koji je najbolji glazbeni player za offline slušanje na iPhoneu?" closed="true" %}}
+{{% ls-details title="Koji je najbolji glazbeni player za offline slušanje na iPhoneu?" closed="true" %}}
 Svi veliki playeri podržavaju offline preuzimanja, ali pristup se razlikuje. Spotify i Apple Music vam omogućuju preuzimanje pjesama iz njihovih kataloga. Evermusic vam omogućuje preuzimanje vlastitih datoteka iz pohrane u oblaku za offline reprodukciju -- idealno za letove, svakodnevne putnje ili područja bez povezivosti.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Mogu li koristiti cloud glazbeni player s mojim NAS-om ili kućnim poslužiteljem?" closed="true" %}}
+{{% ls-details title="Mogu li koristiti cloud glazbeni player s mojim NAS-om ili kućnim poslužiteljem?" closed="true" %}}
 Da. Evermusic podržava WebDAV i SMB protokole, što znači da se može spojiti na većinu NAS uređaja od Synologyja, QNAP-a i Western Digitala. To vaš iPhone pretvara u daljinski player za cijelu vašu kućnu glazbenu biblioteku.
-{{% /details %}}
+{{% /ls-details %}}

@@ -55,17 +55,17 @@ Legyen nyugodt, adatai biztonságban vannak. Az Evertag lehetővé teszi jelszó
 Ebben az útmutatóban megismerheti, hogyan aknázza ki az Evertag erejét iPhone-on, iPaden és Macen, hogy zenekezelési élménye gördülékeny és élvezetes legyen.
 
 {{< cards >}}
-  {{< card icon="location-marker" title="Navigáció" subtitle="Tanulja meg, hogyan navigáljon könnyedén az alkalmazásban a Tab Bar (iPhone felhasználók számára) vagy a Bal oldali menü (iPad és Mac felhasználók számára) segítségével az összes funkció eléréséhez." link="/docs/guide/evertag/evertag-guide-navigation" >}}
+  {{< ls-card icon="location-marker" title="Navigáció" subtitle="Tanulja meg, hogyan navigáljon könnyedén az alkalmazásban a Tab Bar (iPhone felhasználók számára) vagy a Bal oldali menü (iPad és Mac felhasználók számára) segítségével az összes funkció eléréséhez." link="/docs/guide/evertag/evertag-guide-navigation" >}}
 
-  {{< card icon="cloud" title="Kapcsolatok" subtitle="Könnyedén csatolja az összes elérhető felhőfiókját értékes hangfájljaival. Online fájljait is egyszerűen szerkesztheti beépített fájlkezelőnkkel." link="/docs/guide/evertag/evertag-guide-connections" >}}
+  {{< ls-card icon="cloud" title="Kapcsolatok" subtitle="Könnyedén csatolja az összes elérhető felhőfiókját értékes hangfájljaival. Online fájljait is egyszerűen szerkesztheti beépített fájlkezelőnkkel." link="/docs/guide/evertag/evertag-guide-connections" >}}
 
-  {{< card icon="folder" title="Helyi fájlok" subtitle="Tekintse meg és rendezze az alkalmazás Dokumentumok mappájában vagy eszközén tárolt fájlokat. Használja a beépített fájlkezelőt audio fájljai szerkesztéséhez és kezeléséhez." link="/docs/guide/evertag/evertag-guide-local-files" >}}
+  {{< ls-card icon="folder" title="Helyi fájlok" subtitle="Tekintse meg és rendezze az alkalmazás Dokumentumok mappájában vagy eszközén tárolt fájlokat. Használja a beépített fájlkezelőt audio fájljai szerkesztéséhez és kezeléséhez." link="/docs/guide/evertag/evertag-guide-local-files" >}}
 
-  {{< card icon="pencil-alt" title="Tag szerkesztő" subtitle="Sajátítsa el a hangfájl-metaadatok manipulálásának művészetét. Tudja meg, hogyan szerkesztheti a metaadatokat, alakíthatja át az albumborítókat, és kezelhet egyszerre több fájlt." link="/docs/guide/evertag/evertag-guide-tag-editor" >}}
+  {{< ls-card icon="pencil-alt" title="Tag szerkesztő" subtitle="Sajátítsa el a hangfájl-metaadatok manipulálásának művészetét. Tudja meg, hogyan szerkesztheti a metaadatokat, alakíthatja át az albumborítókat, és kezelhet egyszerre több fájlt." link="/docs/guide/evertag/evertag-guide-tag-editor" >}}
 
-  {{< card icon="code" title="Tag mező leképezések" subtitle="Fedezze fel az Evertag alkalmazás által támogatott audio tag mezők teljes listáját, beleértve a belső mezőneveket és a főbb metaadat-formátumok közötti leképezéseket." link="/docs/guide/evertag/evertag-tag-field-mappings" >}}
+  {{< ls-card icon="code" title="Tag mező leképezések" subtitle="Fedezze fel az Evertag alkalmazás által támogatott audio tag mezők teljes listáját, beleértve a belső mezőneveket és a főbb metaadat-formátumok közötti leképezéseket." link="/docs/guide/evertag/evertag-tag-field-mappings" >}}
 
-  {{< card icon="adjustments" title="Beállítások" subtitle="Fedezze fel, hogyan testreszabhatja az alkalmazás élményét, finomhangolhatja a teljesítményt, kezelheti az adatfelhasználást, és igazíthatja a nyelvi és felhasználói felület beállításait." link="/docs/guide/evertag/evertag-guide-settings" >}}
+  {{< ls-card icon="adjustments" title="Beállítások" subtitle="Fedezze fel, hogyan testreszabhatja az alkalmazás élményét, finomhangolhatja a teljesítményt, kezelheti az adatfelhasználást, és igazíthatja a nyelvi és felhasználói felület beállításait." link="/docs/guide/evertag/evertag-guide-settings" >}}
 
-  {{< card icon="question-mark-circle" title="GYIK" subtitle="Találjon gyors válaszokat a gyakori kérdésekre a GYIK részben." link="/docs/faq/evertag" >}}
+  {{< ls-card icon="question-mark-circle" title="GYIK" subtitle="Találjon gyors válaszokat a gyakori kérdésekre a GYIK részben." link="/docs/faq/evertag" >}}
 {{< /cards >}}

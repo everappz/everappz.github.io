@@ -17,7 +17,7 @@ readingTime: 6
 A Lejátszólisták szakasz eszközöket biztosít a számok listákba rendezéséhez. Tartalmaz egy tartalmi nézetet az összes létrehozott lejátszólistád bemutatásával, egy „..." gombot a navigációs sávban különböző lejátszólistához kapcsolódó műveletekkel, és egy navigációs eszköztárat „Keresés", „Összes lejátszása" és „Összes keverése" gombokkal. Ezenkívül minden egyes lejátszólistának van egy „..." gombja a lejátszólista cím mellett, amely az adott lejátszólistára vonatkozó különböző műveleteket kínál.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evermusic Lejátszólisták képernyő" image="/docs/guide/evermusic/evermusic-guide-playlists/img/playlists-main.webp" >}}
+  {{< ls-card title="" subtitle="Evermusic Lejátszólisták képernyő" image="/docs/guide/evermusic/evermusic-guide-playlists/img/playlists-main.webp" >}}
 {{< /cards >}}
 
 ## Lejátszólista létrehozása
@@ -25,7 +25,7 @@ A Lejátszólisták szakasz eszközöket biztosít a számok listákba rendezés
 Új lejátszólista létrehozásához koppints a „+" gombra vagy a navigációs sáv jobb felső sarkában lévő „..." gombra, válaszd az „Új lejátszólista" lehetőséget, és rendelj nevet a lejátszólistádhoz. Elnevezés után koppints a „Mentés" gombra.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Új lejátszólista létrehozása" image="/docs/guide/evermusic/evermusic-guide-playlists/img/playlists-add-new.webp" >}}
+  {{< ls-card title="" subtitle="Új lejátszólista létrehozása" image="/docs/guide/evermusic/evermusic-guide-playlists/img/playlists-add-new.webp" >}}
 {{< /cards >}}
 
 Ez elindítja a „Dalok hozzáadása" párbeszédet, ahol kiválaszthatod, mely számokat adjod hozzá az új lejátszólistához. A számok forrásfajta szerint vannak kategorizálva, és több lehetőséged van:
@@ -42,7 +42,7 @@ Alapértelmezés szerint csak egyszer adhatod hozzá a számot egy lejátszólis
 Az Evermusicba hozzáadtuk az M3U fájlimportálás funkcióját, így nem kell manuálisan létrehozni a lejátszólistákat.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Lejátszólista importálása fájlforrásból" image="/docs/guide/evermusic/evermusic-guide-playlists/img/playlists-import-from-files.webp" >}}
+  {{< ls-card title="" subtitle="Lejátszólista importálása fájlforrásból" image="/docs/guide/evermusic/evermusic-guide-playlists/img/playlists-import-from-files.webp" >}}
 {{< /cards >}}
 
 Először lépj a „Lejátszólisták" szakaszba. Ezután koppints a jobb felső sarokban lévő „Több" gombra. A megjelenő menüből válaszd az „Lejátszólista importálása" lehetőséget.
@@ -62,7 +62,7 @@ Az alkalmazás feldolgozza a lejátszólista fájlt, létrehoz egy számlista, m
 Lejátszólista megnyitásakor megjelenik a „Lejátszólista részletek képernyő". Ezen a képernyőn a jobb felső sarokban lévő „..." gombbal érheted el a lejátszólista beállításait, és az albumkép alatt három gomb található: „Keresés", „Lejátszás folytatása", „Összes lejátszása" és „Összes keverése". Ezenkívül van egy „Offline mód" jelölőnégyzet is.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Lejátszólista részletek képernyő" image="/docs/guide/evermusic/evermusic-guide-playlists/img/playlists-detail-screen.webp" >}}
+  {{< ls-card title="" subtitle="Lejátszólista részletek képernyő" image="/docs/guide/evermusic/evermusic-guide-playlists/img/playlists-detail-screen.webp" >}}
 {{< /cards >}}
 
 - **Lejátszás folytatása**: Az ehhez a lejátszólistához tartozó lejátszási pozíció visszaállítása.
@@ -87,7 +87,7 @@ A lejátszólistára vonatkozó műveleteket a lejátszólista cím melletti „
 - **Lejátszólista törlése:** A lejátszólista törlése a Zenei könyvtárból. Ne feledd, ez a művelet nem vonható vissza.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Lejátszólistához tartozó további műveletek menü" image="/docs/guide/evermusic/evermusic-guide-playlists/img/playlists-more-actions-for-separate-playlist.webp" >}}
+  {{< ls-card title="" subtitle="Lejátszólistához tartozó további műveletek menü" image="/docs/guide/evermusic/evermusic-guide-playlists/img/playlists-more-actions-for-separate-playlist.webp" >}}
 {{< /cards >}}
 
 ## További műveletek lejátszólistához a Lejátszólista részletek képernyőn
@@ -113,7 +113,7 @@ A lejátszólistára vonatkozó műveleteket a jobb felső sarokban lévő „..
 A lejátszólistában lévő dalok sorrendjének módosításához koppints a jobb felső sarokban lévő „..." gombra, és válaszd a „Kiválasztás" lehetőséget a kiválasztási módba való belépéshez. Használd az átrendezési vezérlőt és a fogd és húzd mozdulatokat az egyes számok mellett, hogy felfelé vagy lefelé mozgasd azokat. Az átrendezési vezérlőre koppintva a szám a lista tetejére kerül. A kiválasztási módból való kilépéshez és a változások alkalmazásához koppints a „Kész" gombra.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Dal sorrendjének módosítása egy lejátszólistában" image="/docs/guide/evermusic/evermusic-guide-playlists/img/playlists-change-songs-order.webp" >}}
+  {{< ls-card title="" subtitle="Dal sorrendjének módosítása egy lejátszólistában" image="/docs/guide/evermusic/evermusic-guide-playlists/img/playlists-change-songs-order.webp" >}}
 {{< /cards >}}
 
 ## Lejátszólista borítókép módosítása
@@ -129,7 +129,7 @@ Nyisd meg a lejátszólistát, koppints a jobb felső sarokban lévő „..." go
 Nyisd meg a lejátszólistát, koppints a jobb felső sarokban lévő „..." gombra, és válaszd a „Kiválasztás" lehetőséget a kiválasztási módba való belépéshez. Válaszd ki a törölni kívánt számokat, és koppints a képernyő alján lévő „Törlés a lejátszólistából" gombra. Erősítsd meg a változásokat a „Kész" gombra koppintva.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Kiválasztási mód egy lejátszólistában" image="/docs/guide/evermusic/evermusic-guide-playlists/img/playlists-selection-mode-in-playlist-details-screen.webp" >}}
+  {{< ls-card title="" subtitle="Kiválasztási mód egy lejátszólistában" image="/docs/guide/evermusic/evermusic-guide-playlists/img/playlists-selection-mode-in-playlist-details-screen.webp" >}}
 {{< /cards >}}
 
 ## Szám beállítások
@@ -137,7 +137,7 @@ Nyisd meg a lejátszólistát, koppints a jobb felső sarokban lévő „..." go
 A lejátszólistában minden számhoz van egy műveletek listája, amelyet a „..." gombra koppintva érhetsz el. Ha nem látod az összes műveletet, görgess le a megtekintésükhöz. Törölheted a számot a lejátszólistából, letöltheted, szerkesztheted a hangjelzőket és még sok mást.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Szám beállítások menü egy lejátszólistában" image="/docs/guide/evermusic/evermusic-guide-playlists/img/playlists-track-options.webp" >}}
+  {{< ls-card title="" subtitle="Szám beállítások menü egy lejátszólistában" image="/docs/guide/evermusic/evermusic-guide-playlists/img/playlists-track-options.webp" >}}
 {{< /cards >}}
 
 - **Következőként lejátszani:** A számot a lejátszóvárólistá tetejére adja.

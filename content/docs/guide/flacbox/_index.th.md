@@ -71,20 +71,20 @@ Flacbox ใช้เฉพาะ SDK อย่างเป็นทางกา�
 
 {{< cards cols="2">}}
 
-{{< card icon="map" link="/docs/guide/flacbox/flacbox-guide-navigation" title="การนำทาง" subtitle="แถบแท็บบน iPhone, เมนูซ้ายบน iPad และ Mac, มินิเพลเยอร์, วิดเจ็ต, CarPlay" >}}
+{{< ls-card icon="map" link="/docs/guide/flacbox/flacbox-guide-navigation" title="การนำทาง" subtitle="แถบแท็บบน iPhone, เมนูซ้ายบน iPad และ Mac, มินิเพลเยอร์, วิดเจ็ต, CarPlay" >}}
 
-{{< card icon="cloud" link="/docs/guide/flacbox/flacbox-guide-connections" title="การเชื่อมต่อ" subtitle="iCloud, Google Drive, Dropbox, OneDrive, NAS, WebDAV, SMB, DLNA" >}}
+{{< ls-card icon="cloud" link="/docs/guide/flacbox/flacbox-guide-connections" title="การเชื่อมต่อ" subtitle="iCloud, Google Drive, Dropbox, OneDrive, NAS, WebDAV, SMB, DLNA" >}}
 
-{{< card icon="collection" link="/docs/guide/flacbox/flacbox-guide-music-library" title="คลังเพลง" subtitle="เพลง, อัลบั้ม, ศิลปิน, แนวเพลง, นักแต่งเพลง — ซิงค์, ค้นหา, แก้ไขข้อมูลเมตา" >}}
+{{< ls-card icon="collection" link="/docs/guide/flacbox/flacbox-guide-music-library" title="คลังเพลง" subtitle="เพลง, อัลบั้ม, ศิลปิน, แนวเพลง, นักแต่งเพลง — ซิงค์, ค้นหา, แก้ไขข้อมูลเมตา" >}}
 
-{{< card icon="music-note" link="/docs/guide/flacbox/flacbox-guide-playlists" title="เพลย์ลิสต์" subtitle="สร้าง, นำเข้า M3U / M3U8 / CUE, จัดเรียงใหม่ และส่งออกเป็น M3U / CSV / TXT" >}}
+{{< ls-card icon="music-note" link="/docs/guide/flacbox/flacbox-guide-playlists" title="เพลย์ลิสต์" subtitle="สร้าง, นำเข้า M3U / M3U8 / CUE, จัดเรียงใหม่ และส่งออกเป็น M3U / CSV / TXT" >}}
 
-{{< card icon="folder" link="/docs/guide/flacbox/flacbox-guide-local-files" title="ไฟล์ในเครื่อง" subtitle="เพลงออฟไลน์, ไดรฟ์ USB, Wi-Fi Drive, ตัวจัดการไฟล์, โฟลเดอร์ออฟไลน์" >}}
+{{< ls-card icon="folder" link="/docs/guide/flacbox/flacbox-guide-local-files" title="ไฟล์ในเครื่อง" subtitle="เพลงออฟไลน์, ไดรฟ์ USB, Wi-Fi Drive, ตัวจัดการไฟล์, โฟลเดอร์ออฟไลน์" >}}
 
-{{< card icon="play" link="/docs/guide/flacbox/flacbox-guide-player" title="เครื่องเล่นเสียง" subtitle="เอาต์พุต Hi-res, equalizer, ระดับเสียง, บุ๊คมาร์ค, AirPlay, Chromecast, ความเร็ว, ตัวจับเวลาสลีป" >}}
+{{< ls-card icon="play" link="/docs/guide/flacbox/flacbox-guide-player" title="เครื่องเล่นเสียง" subtitle="เอาต์พุต Hi-res, equalizer, ระดับเสียง, บุ๊คมาร์ค, AirPlay, Chromecast, ความเร็ว, ตัวจับเวลาสลีป" >}}
 
-{{< card icon="adjustments" link="/docs/guide/flacbox/flacbox-guide-settings" title="การตั้งค่า" subtitle="Audio engine, คลัง, ตัวจัดการไฟล์, CarPlay, วิดเจ็ต, การปรับแต่งส่วนบุคคล, ภาษา, สำรองข้อมูล" >}}
+{{< ls-card icon="adjustments" link="/docs/guide/flacbox/flacbox-guide-settings" title="การตั้งค่า" subtitle="Audio engine, คลัง, ตัวจัดการไฟล์, CarPlay, วิดเจ็ต, การปรับแต่งส่วนบุคคล, ภาษา, สำรองข้อมูล" >}}
 
-{{< card icon="question-mark-circle" link="/docs/faq/flacbox" title="FAQ" subtitle="ค้นหาคำตอบสำหรับคำถาม 50 ข้อที่พบบ่อยที่สุดเกี่ยวกับ Flacbox" >}}
+{{< ls-card icon="question-mark-circle" link="/docs/faq/flacbox" title="FAQ" subtitle="ค้นหาคำตอบสำหรับคำถาม 50 ข้อที่พบบ่อยที่สุดเกี่ยวกับ Flacbox" >}}
 
 {{< /cards >}}

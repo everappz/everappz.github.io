@@ -12,7 +12,7 @@ authors:
     image: "/images/about/artem-meleshko-founder-everappz.webp"
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 **Kort fortalt:** [Everdisk](/products/everdisk) er vores nye app, der gør din **iPhone eller iPad til et trådløst drev** og et knudepunkt, der også forbinder til dine andre enheder. Tryk på **Start**, og Everdisk kører **fire servere på én gang**: **DLNA** til smart-tv og medieafspillere, **HTTP** til enhver webbrowser, **WebDAV** til Finder, Windows og Linux, og **FTP** til fil-apps. Hver enhed forbinder på den måde, den foretrækker. Del dine filer, fotos, videoer og musik med alt på dit netværk, stream til et tv uden kabler, monter din enhed som et netværksdrev, eller flyt filer via et **USB-kabel**, når der ikke er Wi-Fi. Everdisk forbinder også udad til **DLNA-, WebDAV-, FTP- og SFTP**-servere, har en indbygget **filhåndtering** med zip og udpakning, og kan **scanne dokumenter til PDF**, **markere og underskrive PDF'er** og køre et komplet **PDF-værktøjssæt**. Ingen konti, ingen sky og ingen ekstra app at installere i den anden ende. Alt bliver på dit lokale netværk. Gratis at downloade, med et valgfrit engangskøb af Premium Lifetime.
 
@@ -133,46 +133,46 @@ Hvis du kan lide appen, så efterlad venligst en bedømmelse på App Store. Det 
 
 ## Ofte stillede spørgsmål
 
-{{% details title="Hvad er Everdisk?" closed="true" %}}
+{{% ls-details title="Hvad er Everdisk?" closed="true" %}}
 Everdisk er en ny app, der gør din iPhone eller iPad til et trådløst drev og et knudepunkt, der også forbinder til dine andre enheder. Du kan dele dine filer, fotos, videoer og musik med alt på dit netværk, gennemse og streame fra andre servere, og administrere det hele direkte på din enhed. Ingen konti, ingen sky og ingen ekstra app at installere i den anden ende. Du trykker bare på Start, og så er du klar. Appen kører fire servere på samme tid: DLNA til smart-tv og medieafspillere, HTTP til enhver webbrowser, WebDAV til Finder, Windows og Linux, og FTP til fil-apps og avancerede brugere.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Hvad koster Everdisk?" closed="true" %}}
+{{% ls-details title="Hvad koster Everdisk?" closed="true" %}}
 Everdisk er en gratis download. Du kan gøre din enhed til et trådløst drev, dele dine filer på fire måder, streame til et tv, montere et netværksdrev, overføre via USB, forbinde til andre servere, bruge filhåndteringen, scanne dokumenter og bruge PDF-værktøjerne uden omkostninger. Der er et valgfrit engangskøb af Premium Lifetime, en enkelt betaling uden abonnement, der låser op for ubegrænsede delte mapper og gemte forbindelser, konvertering af fotos og video, brugerdefinerede porte, automatisk start af deling og tilpasning af enheden. Priser kan variere efter region.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Skal jeg installere noget på den anden enhed?" closed="true" %}}
+{{% ls-details title="Skal jeg installere noget på den anden enhed?" closed="true" %}}
 Nej. Det er hele pointen. Den anden enhed forbinder ved hjælp af værktøjer, den allerede har. Et smart-tv finder dit bibliotek via DLNA af sig selv, enhver computer eller telefon åbner et link i en webbrowser, og Mac Finder, Windows og Linux monterer din enhed som et netværksdrev via WebDAV. Intet at installere i den anden ende.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Hvordan streamer jeg fotos og videoer til mit tv?" closed="true" %}}
+{{% ls-details title="Hvordan streamer jeg fotos og videoer til mit tv?" closed="true" %}}
 Sæt dit tv eller din medieafspiller og din enhed på det samme Wi-Fi-netværk, og tryk så på Start i Everdisk med dine fotos, videoer eller musik delt. Din enhed dukker op af sig selv i tv'ets liste over medieservere, med miniaturer til forhåndsvisning. Åbn den på tv'et og nyd dit bibliotek på den store skærm. Ingen kabler og ingen ekstra apps.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Hvordan forbinder jeg Everdisk fra min Mac eller PC?" closed="true" %}}
+{{% ls-details title="Hvordan forbinder jeg Everdisk fra min Mac eller PC?" closed="true" %}}
 Everdisk får din enhed til at dukke op som et almindeligt netværksdrev via WebDAV. På en Mac åbner du Finder og vælger Gå, derefter Opret forbindelse til server, og indtaster den WebDAV-adresse, der vises i appen. På Windows tilknytter du et netværksdrev med den samme adresse. På Linux forbinder du til WebDAV-adressen fra din filhåndtering. Når du er forbundet, kan du trække og slippe begge veje. Hvis du hellere vil undgå at montere et drev, så åbn bare HTTP-linket i en hvilken som helst webbrowser.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Kan jeg overføre filer uden Wi-Fi?" closed="true" %}}
+{{% ls-details title="Kan jeg overføre filer uden Wi-Fi?" closed="true" %}}
 Ja. Forbind din enhed til en Mac med det samme USB-kabel, du bruger til at oplade den, og filerne flytter direkte gennem kablet, hurtigere end Wi-Fi. Fordi det ikke kræver et trådløst netværk, bliver det ved med at virke i et fly, på et hotel eller på ethvert låst eller offentligt netværk, hvor Wi-Fi-deling er blokeret.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Kan jeg sende filer fra én iPhone til en anden?" closed="true" %}}
+{{% ls-details title="Kan jeg sende filer fra én iPhone til en anden?" closed="true" %}}
 Ja. Start deling på den ene enhed og åbn linket i en webbrowser på den anden, eller forbind via WebDAV eller FTP. Du kan gennemse, streame og downloade begge veje, og endda uploade fotos, dokumenter og hele mapper tilbage til den enhed, der deler.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Hvad kan Everdisk forbinde til?" closed="true" %}}
+{{% ls-details title="Hvad kan Everdisk forbinde til?" closed="true" %}}
 Everdisk er også en klient til andre enheder på dit netværk. Du kan finde og forbinde til DLNA-, WebDAV-, FTP- og SFTP-servere, herunder NAS-enheder og medieservere. Når du er forbundet, kan du gennemse deres mapper, streame lyd og video, downloade filer, og oprette mapper, uploade, omdøbe, flytte eller slette, når serveren tillader det.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Kan jeg scanne dokumenter og redigere PDF'er i Everdisk?" closed="true" %}}
+{{% ls-details title="Kan jeg scanne dokumenter og redigere PDF'er i Everdisk?" closed="true" %}}
 Ja. Everdisk kan scanne papirdokumenter med dit kamera. Den finder kanterne af sig selv, retter hver side op og gemmer dem som en ren flersidet PDF. Du kan også åbne en PDF eller et foto og markere det (tegne, fremhæve, tilføje tekst og former, og underskrive med fingeren), med ændringerne gemt tilbage i filen. Et komplet PDF-værktøjssæt tilføjer komprimering, tekstgenkendelse (OCR) til en søgbar PDF, adgangskodebeskyttelse, gennemgang af tilladelser, redigering af metadata og fladgøring.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Er Everdisk privat og sikker?" closed="true" %}}
+{{% ls-details title="Er Everdisk privat og sikker?" closed="true" %}}
 Ja. Alt bliver på dit lokale netværk og rører aldrig internettet, så dine filer forlader aldrig hjemmet. Ingen konti og ingen sky i midten. Du kan beskytte adgangen med et brugernavn og en adgangskode, så forbundne enheder skal indtaste de samme oplysninger, før de kan se dine filer, og du kan blokere enhver enhed med ét enkelt tryk. For det bedste privatliv skal du kun slå deling til, mens du er forbundet til et Wi-Fi-netværk, du kender og stoler på.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Hvilke enheder kører Everdisk på?" closed="true" %}}
+{{% ls-details title="Hvilke enheder kører Everdisk på?" closed="true" %}}
 Everdisk kører på iPhone og iPad. Den deler med, og forbinder til, smart-tv, medieafspillere, Mac-, Windows- og Linux-computere, webbrowsere, andre telefoner og tablets, NAS-drev, og enhver DLNA-, WebDAV-, FTP- eller SFTP-server på dit netværk.
-{{% /details %}}
+{{% /ls-details %}}

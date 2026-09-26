@@ -17,7 +17,7 @@ readingTime: 6
 Phần Danh sách phát cung cấp cho bạn các công cụ để tổ chức các bài hát thành danh sách. Nó bao gồm chế độ xem nội dung hiển thị tất cả danh sách phát bạn đã tạo, nút «...» trong thanh điều hướng cung cấp các hành động liên quan đến danh sách phát, và thanh công cụ điều hướng với các nút «Tìm kiếm», «Phát tất cả» và «Phát ngẫu nhiên tất cả». Hơn nữa, mỗi danh sách phát riêng lẻ cũng có nút «...» gần tiêu đề danh sách phát, cung cấp nhiều hành động cụ thể cho danh sách phát đó.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Màn hình Danh sách phát Evermusic" image="/docs/guide/evermusic/evermusic-guide-playlists/img/playlists-main.webp" >}}
+  {{< ls-card title="" subtitle="Màn hình Danh sách phát Evermusic" image="/docs/guide/evermusic/evermusic-guide-playlists/img/playlists-main.webp" >}}
 {{< /cards >}}
 
 ## Tạo Danh sách phát
@@ -25,7 +25,7 @@ Phần Danh sách phát cung cấp cho bạn các công cụ để tổ chức c
 Để tạo danh sách phát mới, hãy nhấn nút «+» hoặc nút «...» ở góc trên bên phải của thanh điều hướng, chọn «Danh sách phát mới» và đặt tên cho danh sách phát của bạn. Sau khi đặt tên, nhấn «Lưu».
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Tạo Danh sách phát Mới" image="/docs/guide/evermusic/evermusic-guide-playlists/img/playlists-add-new.webp" >}}
+  {{< ls-card title="" subtitle="Tạo Danh sách phát Mới" image="/docs/guide/evermusic/evermusic-guide-playlists/img/playlists-add-new.webp" >}}
 {{< /cards >}}
 
 Điều này mở ra hộp thoại «Thêm bài hát», nơi bạn có thể chọn bài hát nào để thêm vào danh sách phát mới. Các bài hát được phân loại theo loại nguồn, và bạn có một số tùy chọn:
@@ -42,7 +42,7 @@ Theo mặc định, bạn chỉ có thể thêm một bài hát vào danh sách 
 Trong Evermusic, chúng tôi đã thêm chức năng nhập tệp M3U để bạn không cần tạo danh sách phát theo cách thủ công.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Nhập Danh sách phát Từ Nguồn Tệp" image="/docs/guide/evermusic/evermusic-guide-playlists/img/playlists-import-from-files.webp" >}}
+  {{< ls-card title="" subtitle="Nhập Danh sách phát Từ Nguồn Tệp" image="/docs/guide/evermusic/evermusic-guide-playlists/img/playlists-import-from-files.webp" >}}
 {{< /cards >}}
 
 Đầu tiên, hãy đến phần «Danh sách phát». Sau đó, nhấn nút «Thêm» ở góc trên bên phải. Từ menu xuất hiện, chọn tùy chọn «Nhập Danh sách phát».
@@ -62,7 +62,7 @@ Hãy chọn bộ nhớ đám mây đã kết nối và mở thư mục chứa t�
 Khi bạn mở một danh sách phát, «Màn hình chi tiết danh sách phát» xuất hiện. Trên màn hình này, bạn sẽ thấy nút «...» ở góc trên bên phải với các tùy chọn danh sách phát và ba nút bên dưới hình ảnh bìa: «Tìm kiếm», «Tiếp tục phát lại», «Phát tất cả» và «Phát ngẫu nhiên tất cả». Ngoài ra còn có hộp kiểm «Chế độ ngoại tuyến».
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Màn hình Chi tiết Danh sách phát" image="/docs/guide/evermusic/evermusic-guide-playlists/img/playlists-detail-screen.webp" >}}
+  {{< ls-card title="" subtitle="Màn hình Chi tiết Danh sách phát" image="/docs/guide/evermusic/evermusic-guide-playlists/img/playlists-detail-screen.webp" >}}
 {{< /cards >}}
 
 - **Tiếp tục phát lại**: Khôi phục vị trí phát lại cho danh sách phát này.
@@ -87,7 +87,7 @@ Bạn có thể truy cập các hành động cho một danh sách phát bằng 
 - **Xóa danh sách phát:** Xóa danh sách phát khỏi Thư viện nhạc. Xin lưu ý rằng hành động này không thể hoàn tác.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Menu Thêm Hành động cho một Danh sách phát" image="/docs/guide/evermusic/evermusic-guide-playlists/img/playlists-more-actions-for-separate-playlist.webp" >}}
+  {{< ls-card title="" subtitle="Menu Thêm Hành động cho một Danh sách phát" image="/docs/guide/evermusic/evermusic-guide-playlists/img/playlists-more-actions-for-separate-playlist.webp" >}}
 {{< /cards >}}
 
 ## Thêm Hành động cho Danh sách phát trên Màn hình Chi tiết Danh sách phát
@@ -113,7 +113,7 @@ Bạn có thể truy cập các hành động cho một danh sách phát bằng 
 Để thay đổi thứ tự bài hát trong danh sách phát, nhấn nút «...» ở góc trên bên phải và chọn «Chọn» để vào chế độ chọn. Sử dụng điều khiển sắp xếp lại và cử chỉ kéo và thả gần mỗi bài hát để di chuyển chúng lên hoặc xuống. Nhấn vào điều khiển sắp xếp lại sẽ di chuyển bài hát lên đầu danh sách. Để thoát chế độ chọn và áp dụng thay đổi, nhấn «Xong».
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Thay đổi Thứ tự Bài hát trong Danh sách phát" image="/docs/guide/evermusic/evermusic-guide-playlists/img/playlists-change-songs-order.webp" >}}
+  {{< ls-card title="" subtitle="Thay đổi Thứ tự Bài hát trong Danh sách phát" image="/docs/guide/evermusic/evermusic-guide-playlists/img/playlists-change-songs-order.webp" >}}
 {{< /cards >}}
 
 ## Thay đổi Hình ảnh Bìa Danh sách phát
@@ -129,7 +129,7 @@ Mở danh sách phát và nhấn nút «...» ở góc trên bên phải, sau đ
 Mở danh sách phát, nhấn nút «...» ở góc trên bên phải và chọn «Chọn» để vào chế độ chọn. Chọn các bài hát bạn muốn xóa và nhấn nút «Xóa khỏi danh sách phát» ở cuối màn hình. Xác nhận thay đổi bằng cách nhấn «Xong».
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Chế độ Chọn Bên trong Danh sách phát" image="/docs/guide/evermusic/evermusic-guide-playlists/img/playlists-selection-mode-in-playlist-details-screen.webp" >}}
+  {{< ls-card title="" subtitle="Chế độ Chọn Bên trong Danh sách phát" image="/docs/guide/evermusic/evermusic-guide-playlists/img/playlists-selection-mode-in-playlist-details-screen.webp" >}}
 {{< /cards >}}
 
 ## Tùy chọn Bài hát
@@ -137,7 +137,7 @@ Mở danh sách phát, nhấn nút «...» ở góc trên bên phải và chọn
 Mỗi bài hát trong danh sách phát có danh sách hành động, có thể truy cập bằng cách nhấn nút «...». Nếu bạn không thể thấy tất cả hành động, hãy cuộn xuống để xem chúng. Bạn có thể xóa bài hát khỏi danh sách phát, tải xuống, chỉnh sửa thẻ âm thanh và nhiều hơn nữa.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Menu Tùy chọn Bài hát trong Danh sách phát" image="/docs/guide/evermusic/evermusic-guide-playlists/img/playlists-track-options.webp" >}}
+  {{< ls-card title="" subtitle="Menu Tùy chọn Bài hát trong Danh sách phát" image="/docs/guide/evermusic/evermusic-guide-playlists/img/playlists-track-options.webp" >}}
 {{< /cards >}}
 
 - **Phát tiếp theo:** Thêm bài hát vào đầu hàng đợi trình phát.

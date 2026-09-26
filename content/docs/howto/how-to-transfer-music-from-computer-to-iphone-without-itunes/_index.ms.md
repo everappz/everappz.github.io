@@ -7,14 +7,14 @@ keywords: ["pindah muzik tanpa iTunes", "wifi drive iphone", "salin muzik ke iPh
 readingTime: 2
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **Ringkasan:** Gunakan Wi-Fi Drive dalam Evermusic, Flacbox, atau Evertag untuk memindahkan muzik dari komputer anda ke iPhone atau iPad. Tanpa iTunes diperlukan. Kedua-dua peranti mesti berada dalam rangkaian Wi-Fi yang sama. Pindahkan melalui pelayar web atau WebDAV (Mac Finder / Windows File Explorer).
 
 Anda boleh menonton tutorial video daripada [**TECHGUYPH**](https://www.youtube.com/channel/UCgpf09gGFE_c_3pPTtTpnzg) atau baca versi teks di bawah.
 <br><br>
-{{< youtubecard id="CqdqrQ0ge70" title="Can We Wirelessly Put Offline Music on iPhones?" >}}
+{{< ls-youtubecard id="CqdqrQ0ge70" title="Can We Wirelessly Put Offline Music on iPhones?" >}}
 
 Wi-Fi Drive adalah penyelesaian terbaik untuk memindahkan koleksi muzik anda dari komputer ke iPhone atau iPad dengan lancar tanpa memerlukan iTunes. Kaedah tanpa kerumitan ini membolehkan anda memuat turun atau memuat naik pelbagai fail audio dan juga keseluruhan folder dengan mudah menggunakan sambungan Wi-Fi tempatan anda. Kedua-dua komputer dan peranti iOS anda perlu disambungkan ke rangkaian Wi-Fi yang sama untuk ini berfungsi dengan sempurna.
 
@@ -84,22 +84,22 @@ Dengan Wi-Fi Drive, zaman bergelut dengan iTunes sudah berakhir. Nikmati cara ya
 
 ## Soalan Lazim
 
-{{% details title="Apakah format audio yang boleh saya pindahkan dengan Wi-Fi Drive?" closed="true" %}}
+{{% ls-details title="Apakah format audio yang boleh saya pindahkan dengan Wi-Fi Drive?" closed="true" %}}
 Wi-Fi Drive memindahkan sebarang jenis fail. Evermusic dan Flacbox menyokong MP3, FLAC, AAC, WAV, AIFF, OGG, WMA, dan banyak format audio lain untuk main balik.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Adakah saya memerlukan iTunes untuk meletakkan muzik pada iPhone saya?" closed="true" %}}
+{{% ls-details title="Adakah saya memerlukan iTunes untuk meletakkan muzik pada iPhone saya?" closed="true" %}}
 Tidak. Wi-Fi Drive memindahkan muzik secara terus melalui rangkaian Wi-Fi tempatan anda. iTunes tidak diperlukan.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Bolehkah saya memindahkan keseluruhan folder muzik sekaligus?" closed="true" %}}
+{{% ls-details title="Bolehkah saya memindahkan keseluruhan folder muzik sekaligus?" closed="true" %}}
 Ya. Kaedah pelayar web menyokong memuat naik keseluruhan folder, termasuk subfolder bersarang.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Adakah pemindahan muzik saya selamat?" closed="true" %}}
+{{% ls-details title="Adakah pemindahan muzik saya selamat?" closed="true" %}}
 Wi-Fi Drive berjalan pada rangkaian tempatan anda sahaja. Anda juga boleh menetapkan nama pengguna dan kata laluan untuk keselamatan tambahan.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Aplikasi mana yang menyokong Wi-Fi Drive untuk muzik?" closed="true" %}}
+{{% ls-details title="Aplikasi mana yang menyokong Wi-Fi Drive untuk muzik?" closed="true" %}}
 Evermusic, Flacbox, dan Evertag semuanya termasuk Wi-Fi Drive untuk memindahkan fail audio dari komputer anda.
-{{% /details %}}
+{{% /ls-details %}}

@@ -12,7 +12,7 @@ authors:
     image: "/images/about/artem-meleshko-founder-everappz.webp"
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 **Ringkasan:** [Evermusic 8.7](/products/evermusic) ialah keluaran berfokuskan kualiti bunyi untuk iPhone, iPad, dan Mac. Ia dilengkapi **main balik tanpa jeda sebenar** (tiada jeda, klik, atau bunyi tik antara trek), satu set penuh **kesan audio studio** — Reverb, Delay, Distortion, Compressor, dan Crossfeed — dan **penormalan kelantangan EBU R128** yang mengekalkan kelantangan konsisten dari lagu ke lagu tanpa tag ReplayGain. **Penyama 10 jalur** direka semula dengan peluncur baharu, penukaran pratetap lebih pantas, pratetap tersuai yang boleh anda import dan eksport, serta susun atur landskap dan iPad yang lebih baik. Di sebalik tabir, **enjin penstriman AVAudioEngine yang dibina semula** meningkatkan kebolehpercayaan dan sokongan format, termasuk **FLAC** dan **Ogg Vorbis**. **CarPlay** dan **Sedang Dimainkan** lebih pantas dan lebih tepat pada Skrin Kunci, dalam kereta, dan daripada alat kawalan jauh fon kepala.
 
@@ -129,50 +129,50 @@ Jika anda menikmati aplikasi ini, sila tinggalkan penilaian pada App Store — i
 
 ## Soalan Lazim
 
-{{% details title="Apa yang baharu dalam Evermusic 8.7?" closed="true" %}}
+{{% ls-details title="Apa yang baharu dalam Evermusic 8.7?" closed="true" %}}
 Evermusic 8.7 menambah main balik tanpa jeda sebenar, lima kesan audio studio (Reverb, Delay, Distortion, Compressor, dan Crossfeed), penormalan kelantangan EBU R128, penyama 10 jalur yang direka semula dengan pratetap tersuai dan import/eksport, enjin penstriman AVAudioEngine yang dibina semula dengan sokongan format bertambah baik (termasuk FLAC dan Ogg Vorbis), CarPlay dan Sedang Dimainkan yang lebih pantas dan lebih tepat, kemas kini reka bentuk Liquid Glass, widget Skrin Utama disegarkan, serta pembaikan pepijat dan penyetempatan.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Adakah Evermusic mempunyai main balik tanpa jeda sebenar?" closed="true" %}}
+{{% ls-details title="Adakah Evermusic mempunyai main balik tanpa jeda sebenar?" closed="true" %}}
 Ya. Bermula dengan Evermusic 8.7, main balik adalah benar-benar tanpa jeda: tiada jeda, klik, atau bunyi tik antara trek. Enjin pra-menimbal dan menyahkod trek seterusnya sementara trek semasa dimainkan dan menyerahkan antara sampel audio pada penimbal gelang berterusan, jadi peralihan tidak boleh didengar. Ia berfungsi untuk fail tempatan, strim awan, dan pelayan media, dan ia sesuai untuk album langsung, campuran DJ, dan album konsep.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Apakah kesan audio yang disertakan dalam Evermusic 8.7?" closed="true" %}}
+{{% ls-details title="Apakah kesan audio yang disertakan dalam Evermusic 8.7?" closed="true" %}}
 Lima kesan masa nyata: **Reverb** (13 pratetap bilik, campuran basah/kering), **Delay/Gema** (10 pratetap dengan masa delay, maklum balas, laluan rendah, dan campuran), **Distortion** (22 pratetap watak dengan pra-gain dan campuran), **Compressor** (pemproses dinamik penuh dengan ambang, nisbah, serangan, pelepasan, pengembangan, dan gain gantian, serta 10 pratetap), dan **Crossfeed** (crossfeed fon kepala Bauer bs2b dengan kawalan aras dan pemotong serta 6 pratetap). Setiap kesan dilengkapi pratetap terpilih, dan tetapan tersuai anda diingati antara sesi.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Apakah Crossfeed dan mengapa saya patut menggunakannya?" closed="true" %}}
+{{% ls-details title="Apakah Crossfeed dan mengapa saya patut menggunakannya?" closed="true" %}}
 Crossfeed mencampurkan sedikit jumlah tersaring setiap saluran stereo ke saluran satu lagi, sebagaimana telinga anda secara semula jadi mendengar pembesar suara sebenar dalam bilik. Pada fon kepala ini mengurangkan pemisahan "di dalam kepala" yang keterlaluan bagi rakaman yang dipanning keras dan membuat pendengaran panjang lebih selesa. Evermusic menggunakan algoritma Bauer stereophonic-to-binaural (bs2b) yang terkenal dan menyertakan pratetap seperti Chu Moy dan Jan Meier. Ia amat berkesan pada campuran stereo lama 1960-an dan 1970-an.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Bagaimana penormalan kelantangan berfungsi dalam Evermusic?" closed="true" %}}
+{{% ls-details title="Bagaimana penormalan kelantangan berfungsi dalam Evermusic?" closed="true" %}}
 Evermusic 8.7 mengukur kelantangan tanggapan setiap trek menggunakan standard EBU R128 (ITU-R BS.1770) dalam masa nyata dan melaraskan aras dengan lembut ke arah sasaran yang konsisten supaya trek tidak melompat dalam kelantangan. Ia tidak memerlukan tag ReplayGain dan tidak mengubah fail anda. Empat pratetap tersedia — Ringan (−20 LUFS), Standard (−16 LUFS), Kuat (−14 LUFS), dan Malam (−23 LUFS) — dan penormalan set semula dengan bersih apabila anda mencari atau menukar trek.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Adakah penormalan kelantangan Evermusic sama seperti ReplayGain?" closed="true" %}}
+{{% ls-details title="Adakah penormalan kelantangan Evermusic sama seperti ReplayGain?" closed="true" %}}
 Ia mencapai matlamat yang sama — kelantangan konsisten antara trek — tetapi berfungsi secara berbeza. ReplayGain bergantung pada tag kelantangan yang disimpan di dalam fail anda. Penormal Evermusic mengukur kelantangan secara langsung menggunakan EBU R128, jadi ia berfungsi pada mana-mana sumber, termasuk strim awan dan radio internet, walaupun fail langsung tiada tag.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Berapa banyak jalur yang ada pada penyama Evermusic, dan bolehkah saya membuat pratetap sendiri?" closed="true" %}}
+{{% ls-details title="Berapa banyak jalur yang ada pada penyama Evermusic, dan bolehkah saya membuat pratetap sendiri?" closed="true" %}}
 Penyama Evermusic ialah penyama grafik 10 jalur yang meliputi 32 Hz hingga 16 kHz, dengan setiap jalur boleh dilaraskan dari −12 dB hingga +12 dB dalam langkah 0.1 dB dan praamp dari −24 dB hingga +24 dB. Ia menyertakan pratetap terbina dalam, membolehkan anda mencipta dan menyimpan pratetap tersuai, dan menyokong pengimportan dan pengeksportan pratetap sebagai fail .eqp supaya anda boleh mengalih atau berkongsinya antara peranti.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Apa yang berubah dalam penyama Evermusic 8.7?" closed="true" %}}
+{{% ls-details title="Apa yang berubah dalam penyama Evermusic 8.7?" closed="true" %}}
 Penyama direka semula dengan peluncur baharu yang lebih tepat yang menerima pakai rupa peluncur sistem iOS 26 dan Liquid Glass, penukaran pratetap yang lebih pantas dan lebih lancar, dan susun atur lebih baik dalam landskap dan pada iPad (bar pratetap mendatar dalam potret dan lajur pratetap menegak dalam landskap). Pratetap tersuai dan import/eksport .eqp disokong.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Adakah Evermusic 8.7 menyokong FLAC dan Ogg Vorbis?" closed="true" %}}
+{{% ls-details title="Adakah Evermusic 8.7 menyokong FLAC dan Ogg Vorbis?" closed="true" %}}
 Ya. Enjin yang dibina semula memainkan FLAC (melalui Core Audio) dan Ogg Vorbis (melalui libvorbisfile), bersama MP3, AAC, Apple Lossless (ALAC), WAV, AIFF, AC-3, CAF, dan lagi, daripada fail tempatan, pemacu awan, dan pelayan media.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Apa yang bertambah baik dalam CarPlay dan pada Skrin Kunci?" closed="true" %}}
+{{% ls-details title="Apa yang bertambah baik dalam CarPlay dan pada Skrin Kunci?" closed="true" %}}
 Karya seni album CarPlay dimuatkan beberapa kali lebih pantas pada senarai panjang dan kini muncul dalam baris senarai iOS 26 padat yang sebelum ini tidak menunjukkan apa-apa. Maklumat Sedang Dimainkan pada Skrin Kunci dan dalam CarPlay lebih tepat — tajuk, masa berlalu, tempoh, dan keadaan main/jeda ditangkap bersama supaya ia tidak boleh bercanggah, dan keadaan penimbalan dilaporkan dengan betul. Kawalan jauh (main, jeda, seterusnya, sebelumnya, cari, rombak, ulang, kadar) bertindak balas dengan boleh dipercayai daripada fon kepala dan kereta, dan pengisihan CarPlay pada pustaka besar lebih pantas.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Adakah kesan audio dan penyama berfungsi dengan penstriman awan dan CarPlay?" closed="true" %}}
+{{% ls-details title="Adakah kesan audio dan penyama berfungsi dengan penstriman awan dan CarPlay?" closed="true" %}}
 Ya. Kesan, penyama, dan penormalan kelantangan berjalan secara asli di dalam enjin main balik, jadi ia digunakan pada segala yang dimainkan Evermusic — fail tempatan, pemacu awan, pelayan media, dan radio internet — dan ia terus berfungsi semasa main balik CarPlay dan, di mana disokong, melalui AirPlay dan Chromecast.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Adakah Evermusic 8.7 percuma untuk dikemas kini, dan peranti manakah yang disokongnya?" closed="true" %}}
+{{% ls-details title="Adakah Evermusic 8.7 percuma untuk dikemas kini, dan peranti manakah yang disokongnya?" closed="true" %}}
 Ya. Evermusic ialah muat turun percuma daripada App Store, dan 8.7 ialah kemas kini percuma untuk pengguna sedia ada, dengan naik taraf dalam aplikasi pilihan untuk ciri lanjutan. Ia berjalan pada iPhone, iPad, dan Mac. CarPlay memerlukan kenderaan atau unit kepala yang serasi CarPlay.
-{{% /details %}}
+{{% /ls-details %}}

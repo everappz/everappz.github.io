@@ -7,7 +7,7 @@ tags: ["musiikki", "ääni", "taajuuskorjain", "10-kaistainen", "vahvistus", "as
 keywords: ["äänitaajuuskorjain iPhone", "Evermusic EQ-esiasetukset", "Flacbox 10-kaistainen taajuuskorjain", "basso diskantti säätö iOS", "taajuuskorjain Mac musiikkisovellus", "äänen tehostaminen esivahvistimella", "mukautetut ääniesiasetukset"]
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **Tiivistelmä:** Evermusic ja Flacbox sisältävät ammattimaisen 10-kaistaisen äänitaajuuskorjaimen esiasetuksilla (Rock, Hip-Hop, Bass Booster ja muita), mukautettujen esiasetusten luonnilla ja esivahvistimella äänenvoimakkuuden tehostamiseen. Saatavilla iPhonessa, iPadissa ja Macissa.
@@ -105,26 +105,26 @@ Paranna musiikkikokemustasi, mukauta ääntäsi mihin tahansa tilanteeseen ja na
 
 ## Usein kysytyt kysymykset
 
-{{% details title="Toimiiko taajuuskorjain kaikkien äänimuotojen kanssa?" closed="true" %}}
+{{% ls-details title="Toimiiko taajuuskorjain kaikkien äänimuotojen kanssa?" closed="true" %}}
 Kyllä. Evermusic- ja Flacbox-sovellusten 10-kaistainen EQ toimii MP3-, FLAC-, AAC-, WAV-, ALAC-, OGG- ja kaikkien muiden tuettujen muotojen kanssa.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Sovelletaanko EQ-asetuksia kaikkiin kappaleisiin?" closed="true" %}}
+{{% ls-details title="Sovelletaanko EQ-asetuksia kaikkiin kappaleisiin?" closed="true" %}}
 Kyllä. Kun aktivoit taajuuskorjaimen ja valitset esiasetuksen, se koskee kaikkea toistoa, kunnes muutat sitä tai sammutat sen.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Voinko luoda useamman kuin yhden mukautetun esiasetuksen?" closed="true" %}}
+{{% ls-details title="Voinko luoda useamman kuin yhden mukautetun esiasetuksen?" closed="true" %}}
 Kyllä. Voit luoda, tallentaa ja vaihtaa useiden mukautettujen esiasetusten välillä. Käytä vientitoimintoa varmuuskopioidaksesi ne.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Aiheuttaako esivahvistin säröä?" closed="true" %}}
+{{% ls-details title="Aiheuttaako esivahvistin säröä?" closed="true" %}}
 Se voi aiheuttaa, jos se on asetettu liian korkealle. Tarkkaile äänitason ilmaisimia säätäessäsi. Jos tasot leikkautuvat (osuvat ylärajaan), vähennä esivahvistimen vahvistusta hieman.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Onko taajuuskorjain saatavilla sekä Evermusic- että Flacbox-sovelluksessa?" closed="true" %}}
+{{% ls-details title="Onko taajuuskorjain saatavilla sekä Evermusic- että Flacbox-sovelluksessa?" closed="true" %}}
 Kyllä. Molemmat sovellukset sisältävät saman 10-kaistaisen taajuuskorjaimen esiasetuksilla, mukautetuilla esiasetuksilla ja esivahvistimella.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Voinko jakaa EQ-esiasetukseni jonkun muun kanssa?" closed="true" %}}
+{{% ls-details title="Voinko jakaa EQ-esiasetukseni jonkun muun kanssa?" closed="true" %}}
 Kyllä. Käytä Vie asetus -vaihtoehtoa tallentaaksesi esiasetukset tiedostoon ja jaa se sitten. Toinen henkilö voi tuoda sen käyttämällä Tuo asetus -vaihtoehtoa.
-{{% /details %}}
+{{% /ls-details %}}

@@ -21,7 +21,7 @@ La **Médiathèque** est le cœur d'Evervideo. Elle rassemble chaque vidéo et f
 Vous avez deux façons d'ajouter des médias à votre bibliothèque : **l'ajout manuel** (vous choisissez exactement ce qui est ajouté) ou **la synchronisation automatique** (Evervideo scanne les dossiers cloud désignés et ajoute automatiquement les nouveaux fichiers au fur et à mesure).
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evervideo Médiathèque" image="/docs/guide/evervideo/img/evervideo-genres-in-media-library.webp" >}}
+  {{< ls-card title="" subtitle="Evervideo Médiathèque" image="/docs/guide/evervideo/img/evervideo-genres-in-media-library.webp" >}}
 {{< /cards >}}
 
 ## Ajout manuel
@@ -92,7 +92,7 @@ Si vous ne voyez pas tous vos titres, assurez-vous que l'application a analysé 
 Cette section affiche toutes les vidéos récemment lues avec leur dernière position de lecture, afin que vous puissiez reprendre n'importe laquelle d'un seul appui. Vous pouvez modifier le nombre d'entrées que la liste conserve dans Paramètres → Médiathèque → Récents → Modifier la taille de la liste, et exporter la liste en M3U / CSV / TXT pour sauvegarder votre historique de visionnage.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evervideo Récents — Vidéos récemment regardées" image="/docs/guide/evervideo/img/evervideo-recents.webp" >}}
+  {{< ls-card title="" subtitle="Evervideo Récents — Vidéos récemment regardées" image="/docs/guide/evervideo/img/evervideo-recents.webp" >}}
 {{< /cards >}}
 
 ## Favoris
@@ -104,7 +104,7 @@ Marquez des vidéos comme favoris sur l'écran du lecteur ou via le menu d'optio
 Evervideo suit la position de lecture de chaque vidéo que vous regardez. Chaque vidéo dans n'importe quelle liste — Récents, Favoris, un album, un genre, une liste de lecture, un dossier — affiche une petite barre de progression pour voir en un coup d'œil combien vous avez déjà regardé. Cela rend la gestion des saisons de longues séries TV, des playlists de cours et des nuits de binge-watching sans effort.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evervideo Détail de genre avec progression de visionnage par fichier" image="/docs/guide/evervideo/img/evervideo-genre-detail-with-playback-progress-for-watched-files.webp" >}}
+  {{< ls-card title="" subtitle="Evervideo Détail de genre avec progression de visionnage par fichier" image="/docs/guide/evervideo/img/evervideo-genre-detail-with-playback-progress-for-watched-files.webp" >}}
 {{< /cards >}}
 
 ## Barre d'outils supérieure
@@ -116,7 +116,7 @@ Située juste sous la barre de navigation, la barre d'outils supérieure offre p
 La fonction de recherche vous permet de localiser un titre, album, genre ou liste de lecture spécifique dans votre médiathèque. Dans l'écran de recherche, vous avez accès aux actions Trier, Filtrer et vue Grille / Liste. La recherche s'exécute localement sur la base de données de la médiathèque, elle fonctionne donc complètement hors ligne et retourne des résultats au fur et à mesure de votre saisie.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evervideo Recherche dans la médiathèque" image="/docs/guide/evervideo/img/evervideo-library-search.webp" >}}
+  {{< ls-card title="" subtitle="Evervideo Recherche dans la médiathèque" image="/docs/guide/evervideo/img/evervideo-library-search.webp" >}}
 {{< /cards >}}
 
 ## Menu d'options

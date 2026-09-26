@@ -7,7 +7,7 @@ tags: ["音樂", "串流", "儲存", "nas", "連接", "webdav"]
 readingTime: 2
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **摘要：**在 Synology NAS 上安裝並啟用 WebDAV，設定共用資料夾權限，然後使用 NAS IP 位址和 WebDAV 連接埠（預設 5005/5006）從 Evermusic 或 Flacbox 連接。您可以串流和管理整個音樂庫，無需將檔案複製到裝置。
@@ -87,22 +87,22 @@ readingTime: 2
 
 ## 常見問題
 
-{{% details title="哪些 NAS 裝置支援 WebDAV？" closed="true" %}}
+{{% ls-details title="哪些 NAS 裝置支援 WebDAV？" closed="true" %}}
 大多數熱門的 NAS 品牌都支援 WebDAV，包括 Synology、QNAP、TrueNAS 和 Western Digital。請查閱您的 NAS 製造商文件以取得 WebDAV 設定說明。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="WebDAV 和 SMB 在 NAS 音樂串流方面有什麼區別？" closed="true" %}}
+{{% ls-details title="WebDAV 和 SMB 在 NAS 音樂串流方面有什麼區別？" closed="true" %}}
 WebDAV 透過 HTTP/HTTPS 運作，更適合透過網際網路進行遠端存取。SMB 在區域網路中通常更快。Evermusic 和 Flacbox 支援這兩種通訊協定，因此根據您需要本地還是遠端存取來選擇。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="在 Synology 上使用 WebDAV 需要使用者名稱和密碼嗎？" closed="true" %}}
+{{% ls-details title="在 Synology 上使用 WebDAV 需要使用者名稱和密碼嗎？" closed="true" %}}
 不需要，如果您啟用了匿名 WebDAV 存取並在共用資料夾上設定了訪客權限。為了更好的安全性，您可以使用 Synology 憑證。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="我可以透過 WebDAV 從 NAS 串流 FLAC 和其他高解析度格式嗎？" closed="true" %}}
+{{% ls-details title="我可以透過 WebDAV 從 NAS 串流 FLAC 和其他高解析度格式嗎？" closed="true" %}}
 可以。Evermusic 和 Flacbox 在透過 WebDAV 從 NAS 儲存串流時都支援 FLAC、ALAC、WAV、DSD 和其他高解析度格式。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="為什麼應用程式在可用設備中找不到我的 NAS？" closed="true" %}}
+{{% ls-details title="為什麼應用程式在可用設備中找不到我的 NAS？" closed="true" %}}
 確保您的 iPhone/Mac 和 NAS 在同一個 Wi-Fi 網路上。如果自動探索不起作用，請使用手動連接選項並直接輸入 NAS IP 位址和 WebDAV 連接埠。
-{{% /details %}}
+{{% /ls-details %}}

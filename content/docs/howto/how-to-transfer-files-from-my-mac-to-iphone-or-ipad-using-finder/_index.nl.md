@@ -17,7 +17,7 @@ keywords: [
 readingTime: 3
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **Samenvatting:** Sluit uw iPhone of iPad aan op uw Mac (of PC) met een USB-kabel. Op macOS Catalina en later gebruikt u Finder. Op oudere macOS of Windows gebruikt u iTunes. Sleep bestanden naar een app zoals Evermusic, Flacbox of Evertag om ze direct over te zetten.
@@ -117,26 +117,26 @@ Met iTunes Bestandsdeling kunt u eenvoudig bestanden beheren tussen uw computer 
 
 ## Veelgestelde vragen
 
-{{% details title="Heb ik een internetverbinding nodig om bestanden via USB over te zetten?" closed="true" %}}
+{{% ls-details title="Heb ik een internetverbinding nodig om bestanden via USB over te zetten?" closed="true" %}}
 Nee. Bestandsdeling werkt volledig via de USB-kabelverbinding tussen uw computer en uw iOS-apparaat. Er is geen internet vereist.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Welke bestandsformaten kan ik overzetten naar Evermusic of Flacbox?" closed="true" %}}
+{{% ls-details title="Welke bestandsformaten kan ik overzetten naar Evermusic of Flacbox?" closed="true" %}}
 Beide apps ondersteunen een breed scala aan audioformaten, waaronder MP3, FLAC, AAC, WAV, AIFF, OGG, WMA en meer. Raadpleeg de documentatie van de app voor de volledige lijst met ondersteunde formaten.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Waarom zie ik het tabblad Bestanden niet in Finder?" closed="true" %}}
+{{% ls-details title="Waarom zie ik het tabblad Bestanden niet in Finder?" closed="true" %}}
 Het tabblad Bestanden verschijnt alleen wanneer uw apparaat ten minste één app heeft die Bestandsdeling ondersteunt. Installeer Evermusic, Flacbox of Evertag en sluit uw apparaat opnieuw aan.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Kan ik bestanden draadloos overzetten in plaats van een USB-kabel te gebruiken?" closed="true" %}}
+{{% ls-details title="Kan ik bestanden draadloos overzetten in plaats van een USB-kabel te gebruiken?" closed="true" %}}
 Ja. Evermusic en Flacbox ondersteunen ook cloudopslagdiensten en Wi-Fi-overdracht. USB-bestandsdeling via Finder of iTunes is echter doorgaans sneller voor grote muziekbibliotheken.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Worden bestaande bestanden op mijn apparaat overschreven bij het overzetten via Finder?" closed="true" %}}
+{{% ls-details title="Worden bestaande bestanden op mijn apparaat overschreven bij het overzetten via Finder?" closed="true" %}}
 Nee. Nieuwe bestanden worden naast bestaande bestanden toegevoegd. Als er al een bestand met dezelfde naam bestaat, kan macOS het nieuwe bestand automatisch hernoemen.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Werkt deze methode met Windows-PC's?" closed="true" %}}
+{{% ls-details title="Werkt deze methode met Windows-PC's?" closed="true" %}}
 Ja. Op Windows gebruikt u iTunes om bestanden over te zetten. Het proces is hetzelfde als beschreven in de iTunes-sectie hierboven. Installeer iTunes vanuit de Microsoft Store of de website van Apple.
-{{% /details %}}
+{{% /ls-details %}}

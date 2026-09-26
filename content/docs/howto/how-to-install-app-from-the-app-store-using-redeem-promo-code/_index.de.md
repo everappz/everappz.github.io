@@ -7,7 +7,7 @@ tags: ["Promo", "appstore", "installieren", "einlösen", "Code", "kostenlos"]
 readingTime: 2
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **Kurzfassung:** Mit einem Promo-Code können Sie eine kostenpflichtige App kostenlos herunterladen oder In-App-Käufe freischalten. Auf iOS: App Store > Kontosymbol > Geschenkkarte oder Code einlösen > Code eingeben. Auf dem Mac: App Store > Konto > Geschenkkarte einlösen > Code eingeben. Öffnen Sie dann die App und stellen Sie Käufe wieder her, falls erforderlich.
@@ -94,22 +94,22 @@ Viel Spaß mit Ihrer kostenlosen App oder dem In-App-Upgrade!
 
 ## Häufig gestellte Fragen
 
-{{% details title="Wo bekomme ich einen Promo-Code?" closed="true" %}}
+{{% ls-details title="Wo bekomme ich einen Promo-Code?" closed="true" %}}
 Promo-Codes werden von App-Entwicklern für Rezensionen, Verlosungen oder Werbeaktionen bereitgestellt. Kontaktieren Sie den Entwickler direkt, um einen anzufordern.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Laufen Promo-Codes ab?" closed="true" %}}
+{{% ls-details title="Laufen Promo-Codes ab?" closed="true" %}}
 Ja. Apple App Store Promo-Codes laufen 28 Tage nach ihrer Erstellung ab und können nur einmal eingelöst werden.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Kann ich einen Promo-Code in jedem Land verwenden?" closed="true" %}}
+{{% ls-details title="Kann ich einen Promo-Code in jedem Land verwenden?" closed="true" %}}
 Promo-Codes sind regionsspezifisch. Der Code muss mit dem App Store-Land Ihrer Apple ID übereinstimmen.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Wie aktiviere ich In-App-Käufe mit einem Promo-Code?" closed="true" %}}
+{{% ls-details title="Wie aktiviere ich In-App-Käufe mit einem Promo-Code?" closed="true" %}}
 Nach dem Einlösen des Codes im App Store öffnen Sie die App und gehen Sie zu Einstellungen > Käufe wiederherstellen. Die Premium-Inhalte werden automatisch freigeschaltet.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Der Promo-Code sagt, er wurde bereits eingelöst. Was soll ich tun?" closed="true" %}}
+{{% ls-details title="Der Promo-Code sagt, er wurde bereits eingelöst. Was soll ich tun?" closed="true" %}}
 Jeder Promo-Code kann nur einmal verwendet werden. Kontaktieren Sie den Entwickler, um einen neuen Code anzufordern.
-{{% /details %}}
+{{% /ls-details %}}

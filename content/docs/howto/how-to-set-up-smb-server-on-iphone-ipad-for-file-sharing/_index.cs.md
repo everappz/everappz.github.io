@@ -7,7 +7,7 @@ keywords: ["SMB server iPhone", "SMB server iPad", "jak nastavit SMB na iPhonu",
 readingTime: 10
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 SMB je sdílení souborů vestavěné do macOS, Windows a Linuxu a do téměř každého síťového disku (NAS). Když se připojíte ke sdílené složce na jiném počítači a ta se otevře jako běžný disk ve Finderu nebo Průzkumníku souborů, je to právě SMB, které tu práci odvádí. S aplikací [Everdisk](/products/everdisk) můžete sdílení SMB umístit na iPhone nebo iPad, takže se sám telefon zobrazí jako síťový disk, který ostatní zařízení procházejí, kopírují z něj i na něj.
 
@@ -136,44 +136,44 @@ Přepínač **Úpravy souborů** v Nastavení, Sdílení, Přístup toto řídí
 
 ## Často kladené otázky
 
-{{% details title="Jaká je adresa a port SMB pro můj iPhone?" closed="true" %}}
+{{% ls-details title="Jaká je adresa a port SMB pro můj iPhone?" closed="true" %}}
 Po spuštění sdílení Everdisk zobrazí adresu na obrazovce Sdílení. Vypadá jako smb://192.168.1.20:4455/Share. Číslo 4455 je port, který Everdisk používá pro SMB, a Share je název sdílené složky. První část je adresa vašeho iPhonu ve Wi-Fi, takže ta vaše bude jiná.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Můžu se ke sdílení SMB na svém iPhonu připojit z Windows?" closed="true" %}}
+{{% ls-details title="Můžu se ke sdílení SMB na svém iPhonu připojit z Windows?" closed="true" %}}
 Průzkumník souborů Windows se připojuje k SMB pouze na standardním portu a nepřijímá vlastní port v cestě, zatímco Everdisk používá port 4455. Takže obyčejná cesta přes Mapovat síťovou jednotku ho často nedosáhne. Použijte správce souborů, který umožňuje nastavit vlastní port, nebo se z Windows připojte přes WebDAV, FTP nebo odkaz na prohlížeč. Všechny tyto fungují z Windows bez potíží s portem.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Jak sdílím soubory mezi dvěma iPhony přes SMB?" closed="true" %}}
+{{% ls-details title="Jak sdílím soubory mezi dvěma iPhony přes SMB?" closed="true" %}}
 Spusťte server SMB na prvním iPhonu v Everdisku. Na druhém iPhonu otevřete aplikaci Files, klepněte na tlačítko more, zvolte Connect to Server a zadejte adresu smb zobrazenou v Everdisku (například smb://192.168.1.20:4455/Share). Připojte se jako Guest nebo se svým přihlašovacím jménem a sdílení se objeví v aplikaci Files. Na druhém telefonu můžete také použít vlastní kartu Zařízení v Everdisku.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Objeví se můj iPhone v postranním panelu Finderu na Macu automaticky?" closed="true" %}}
+{{% ls-details title="Objeví se můj iPhone v postranním panelu Finderu na Macu automaticky?" closed="true" %}}
 Obvykle ano. Everdisk ohlašuje sdílení SMB na vaší Wi-Fi, takže se váš iPhone často objeví pod Locations nebo Network v postranním panelu Finderu. Klikněte na něj a zvolte Connect As, poté Guest nebo své přihlašovací jméno. Pokud se neobjeví, připojte se ručně přes Go, Connect to Server a celou adresu smb.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Potřebuji k použití SMB heslo?" closed="true" %}}
+{{% ls-details title="Potřebuji k použití SMB heslo?" closed="true" %}}
 Ne, přihlášení je volitelné. Ponechte Přihlašovací jméno a Heslo prázdné v Nastavení, Sdílení, Přístup a povolíte hostovský přístup. Nastavte je, pokud chcete, aby se připojení přihlašovalo. Přihlašovací jméno a heslo jsou nutné jen tehdy, když zapnete Vyžadovat šifrování SMB, protože šifrovaná připojení nemohou být anonymní.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Je připojení SMB šifrované?" closed="true" %}}
+{{% ls-details title="Je připojení SMB šifrované?" closed="true" %}}
 Může být. SMB je jediné připojení Everdisku, které podporuje šifrování. Nastavte přihlašovací jméno a heslo, poté zapněte Vyžadovat šifrování SMB v Nastavení, Sdílení. Každý přenos je pak chráněn SMB3 (AES). Druhé zařízení musí podporovat SMB3, což moderní Macy a Windows 10 nebo novější splňují. Šifrování je funkce Premium.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Můžou lidé měnit nebo mazat moje soubory přes SMB?" closed="true" %}}
+{{% ls-details title="Můžou lidé měnit nebo mazat moje soubory přes SMB?" closed="true" %}}
 Jen pokud to povolíte. Řídí to přepínač Úpravy souborů v Nastavení, Sdílení, Přístup. Když je zapnutý, připojená zařízení mohou nahrávat, přejmenovávat a mazat. Když je vypnutý, je sdílení jen ke čtení a ostatní mohou procházet a kopírovat soubory z vašeho telefonu, ale nemohou nic měnit.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Proč se moje připojení SMB přerušilo?" closed="true" %}}
+{{% ls-details title="Proč se moje připojení SMB přerušilo?" closed="true" %}}
 Váš iPhone je server a iOS pozastavuje aplikace, které zůstávají příliš dlouho na pozadí. Během připojení zařízení mějte Everdisk otevřený na obrazovce a při dlouhých přenosech telefon připojte k napájení. Také se ujistěte, že obě zařízení zůstala na stejné Wi-Fi.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="SMB, WebDAV nebo FTP, které mám použít?" closed="true" %}}
+{{% ls-details title="SMB, WebDAV nebo FTP, které mám použít?" closed="true" %}}
 Použijte SMB, když chcete, aby se telefon choval jako opravdový síťový disk na Macu, dalším iPhonu, Linuxu nebo NAS, a když chcete šifrování. Použijte WebDAV, když chcete síťový disk, který dobře funguje i z Windows. Použijte FTP pro nejširší kompatibilitu se staršími zařízeními a aplikacemi. Everdisk umí všechny běžet najednou, takže nejste uzamčeni jen v jednom.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Je Everdisk zdarma?" closed="true" %}}
+{{% ls-details title="Je Everdisk zdarma?" closed="true" %}}
 Ano, Everdisk je zdarma ke stažení a server SMB je součástí. Volitelný jednorázový nákup Premium přidává šifrování SMB, vlastní porty a několik dalších doplňků. SMB můžete nastavit a sdílet soubory bez placení.
-{{% /details %}}
+{{% /ls-details %}}
 
 Chcete to vyzkoušet? [Stáhněte si Everdisk z App Store](https://apps.apple.com/app/apple-store/id6751851132?pt=95781850&ct=everappzcom&mt=8) a asi za minutu otevřete svůj iPhone ve Finderu. Máte dotazy nebo zpětnou vazbu? Napište nám na **support@everappz.com**.

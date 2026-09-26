@@ -19,7 +19,7 @@ readingTime: 12
 Op dit scherm kun je elke bron verbinden die je muziek bevat. Je kunt populaire cloudservices integreren zoals Dropbox, Google Drive, iCloud Drive, OneDrive, MEGA, Box, pCloud, Yandex Disk, Synology Drive en nog veel meer, evenals je Mac, pc of NAS via standaardprotocollen. Of je collectie nu op een streamingvriendelijke service als Dropbox staat of op een persoonlijke NAS zoals Synology, QNAP, Buffalo, Apple Time Capsule of WD My Cloud Home, Flacbox verbindt ze allemaal vanuit één scherm.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox Verbindingen Scherm" image="/docs/guide/flacbox/img/connections-main.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox Verbindingen Scherm" image="/docs/guide/flacbox/img/connections-main.webp" >}}
 {{< /cards >}}
 
 ## Verbinden met Cloudopslag
@@ -30,7 +30,7 @@ Op dit scherm kun je elke bron verbinden die je muziek bevat. Je kunt populaire 
 - Voer je gegevens in op de officiële autorisatiepagina van de cloudprovider en tik op **Voltooid**.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox Een Cloudopslagservice Toevoegen" image="/docs/guide/flacbox/img/add-cloud-storage.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox Een Cloudopslagservice Toevoegen" image="/docs/guide/flacbox/img/add-cloud-storage.webp" >}}
 {{< /cards >}}
 
 Als je problemen ondervindt, controleer dan je internetverbinding en je gebruikersnaam / wachtwoord. In de Premium-versie van de app kun je een onbeperkt aantal services toevoegen; de gratis versie ondersteunt tot drie.
@@ -132,7 +132,7 @@ Deze sectie toont elk apparaat op je lokale netwerk waarmee je vanuit Flacbox ve
 - Voer indien nodig je inloggegevens in om de verbinding te voltooien.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox Beschikbare Apparaten op het Lokale Netwerk" image="/docs/guide/flacbox/img/available-devies.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox Beschikbare Apparaten op het Lokale Netwerk" image="/docs/guide/flacbox/img/available-devies.webp" >}}
 {{< /cards >}}
 
 ## Wi-Fi Drive
@@ -147,7 +147,7 @@ Wi-Fi Drive is een handige technologie waarmee je bestanden draadloos kunt overz
 - Tik op **Wi-Fi Drive starten** om Wi-Fi Drive in te schakelen.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox Wi-Fi Drive" image="/docs/guide/flacbox/img/wifi-drive.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox Wi-Fi Drive" image="/docs/guide/flacbox/img/wifi-drive.webp" >}}
 {{< /cards >}}
 
 ### Wi-Fi Drive Openen op je Computer
@@ -230,7 +230,7 @@ Tik op het **"..."**-pictogram naast de bestandstitel om het actiemenu te openen
 - **Verwijderen** — verwijder het bestand permanent uit je cloudopslag. **Deze actie kan niet ongedaan worden gemaakt.**
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox Meer Acties voor een Bestand in Verbonden Cloudopslag" image="/docs/guide/flacbox/img/more-actions-for-file-in-connected-cloud-storage.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox Meer Acties voor een Bestand in Verbonden Cloudopslag" image="/docs/guide/flacbox/img/more-actions-for-file-in-connected-cloud-storage.webp" >}}
 {{< /cards >}}
 
 ## Mapacties
@@ -255,7 +255,7 @@ Voor elke map in je cloudopslag zijn een breed scala aan acties beschikbaar door
 De sectie Snelle toegang bevindt zich bovenaan het scherm. Het geeft je snelle toegang tot je favoriete en recent geopende bestanden van verbonden cloudservices.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox Online Links en Snelle Toegang" image="/docs/guide/flacbox/img/online-links.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox Online Links en Snelle Toegang" image="/docs/guide/flacbox/img/online-links.webp" >}}
 {{< /cards >}}
 
 ## Overige Services
@@ -263,5 +263,5 @@ De sectie Snelle toegang bevindt zich bovenaan het scherm. Het geeft je snelle t
 Deze sectie toont extra functies die je ervaring verbeteren. Momenteel ondersteunt de app **Last.fm**-scrobbling — wanneer verbonden worden je afspeelstatistieken automatisch naar je Last.fm-account gestuurd. Gedetailleerde installatie-instructies zijn beschikbaar [hier](/docs/howto/how-to-scrobble-your-music-history-from-evermusic-or-flacbox-to-last-fm).
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox Last.fm Verbinding" image="/docs/guide/flacbox/img/last-fm-connect.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox Last.fm Verbinding" image="/docs/guide/flacbox/img/last-fm-connect.webp" >}}
 {{< /cards >}}

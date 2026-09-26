@@ -55,17 +55,17 @@ Wees gerust dat je gegevens veilig zijn. Met Evertag kun je een wachtwoord inste
 In deze handleiding ontdek je hoe je de kracht van Evertag op je iPhone, iPad en Mac kunt benutten, zodat je muziekbeheerervaring naadloos en plezierig wordt.
 
 {{< cards >}}
-  {{< card icon="location-marker" title="Navigatie" subtitle="Leer hoe je moeiteloos door onze app kunt navigeren met de tabbalk (voor iPhone-gebruikers) of het linkermenu (voor iPad- en Mac-gebruikers) om alle functies van de app te openen en te verkennen." link="/docs/guide/evertag/evertag-guide-navigation" >}}
+  {{< ls-card icon="location-marker" title="Navigatie" subtitle="Leer hoe je moeiteloos door onze app kunt navigeren met de tabbalk (voor iPhone-gebruikers) of het linkermenu (voor iPad- en Mac-gebruikers) om alle functies van de app te openen en te verkennen." link="/docs/guide/evertag/evertag-guide-navigation" >}}
 
-  {{< card icon="cloud" title="Verbindingen" subtitle="Koppel moeiteloos al je beschikbare cloudaccounts met je waardevolle audiobestanden. Je kunt zelfs je online bestanden moeiteloos bewerken met onze geïntegreerde bestandsbeheerder." link="/docs/guide/evertag/evertag-guide-connections" >}}
+  {{< ls-card icon="cloud" title="Verbindingen" subtitle="Koppel moeiteloos al je beschikbare cloudaccounts met je waardevolle audiobestanden. Je kunt zelfs je online bestanden moeiteloos bewerken met onze geïntegreerde bestandsbeheerder." link="/docs/guide/evertag/evertag-guide-connections" >}}
 
-  {{< card icon="folder" title="Lokale bestanden" subtitle="Bekijk en organiseer bestanden die zijn opgeslagen in de documentenmap van de app of op je apparaat. Gebruik de ingebouwde bestandsbeheerder om je audiobestanden eenvoudig te bewerken en te beheren." link="/docs/guide/evertag/evertag-guide-local-files" >}}
+  {{< ls-card icon="folder" title="Lokale bestanden" subtitle="Bekijk en organiseer bestanden die zijn opgeslagen in de documentenmap van de app of op je apparaat. Gebruik de ingebouwde bestandsbeheerder om je audiobestanden eenvoudig te bewerken en te beheren." link="/docs/guide/evertag/evertag-guide-local-files" >}}
 
-  {{< card icon="pencil-alt" title="Taggeditor" subtitle="Beheers de kunst van het bewerken van audiometadata. Ontdek hoe je metadata kunt bewerken, albumhoezen kunt transformeren en meerdere bestanden tegelijkertijd kunt beheren." link="/docs/guide/evertag/evertag-guide-tag-editor" >}}
+  {{< ls-card icon="pencil-alt" title="Taggeditor" subtitle="Beheers de kunst van het bewerken van audiometadata. Ontdek hoe je metadata kunt bewerken, albumhoezen kunt transformeren en meerdere bestanden tegelijkertijd kunt beheren." link="/docs/guide/evertag/evertag-guide-tag-editor" >}}
 
-  {{< card icon="code" title="Tagveldtoewijzingen" subtitle="Verken de volledige lijst van audiotag-velden die worden ondersteund door de Evertag-app, inclusief interne veldnamen en toewijzingen in de belangrijkste metadataformaten." link="/docs/guide/evertag/evertag-tag-field-mappings" >}}
+  {{< ls-card icon="code" title="Tagveldtoewijzingen" subtitle="Verken de volledige lijst van audiotag-velden die worden ondersteund door de Evertag-app, inclusief interne veldnamen en toewijzingen in de belangrijkste metadataformaten." link="/docs/guide/evertag/evertag-tag-field-mappings" >}}
 
-  {{< card icon="adjustments" title="Instellingen" subtitle="Ontdek hoe je je app-ervaring kunt aanpassen, prestaties kunt finetunen, gegevensgebruik kunt beheren en taal- en gebruikersinterfacevoorkeuren naar wens kunt instellen." link="/docs/guide/evertag/evertag-guide-settings" >}}
+  {{< ls-card icon="adjustments" title="Instellingen" subtitle="Ontdek hoe je je app-ervaring kunt aanpassen, prestaties kunt finetunen, gegevensgebruik kunt beheren en taal- en gebruikersinterfacevoorkeuren naar wens kunt instellen." link="/docs/guide/evertag/evertag-guide-settings" >}}
 
-  {{< card icon="question-mark-circle" title="Veelgestelde vragen" subtitle="Vind snel antwoorden op veelgestelde vragen in onze FAQ-sectie." link="/docs/faq/evertag" >}}
+  {{< ls-card icon="question-mark-circle" title="Veelgestelde vragen" subtitle="Vind snel antwoorden op veelgestelde vragen in onze FAQ-sectie." link="/docs/faq/evertag" >}}
 {{< /cards >}}

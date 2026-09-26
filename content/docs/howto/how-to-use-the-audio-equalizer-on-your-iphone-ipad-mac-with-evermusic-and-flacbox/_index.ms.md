@@ -7,7 +7,7 @@ tags: ["muzik", "audio", "penyama", "10 jalur", "gandaan", "konfigurasi", "praam
 keywords: ["penyama audio iPhone", "pratetap EQ Evermusic", "penyama 10 jalur Flacbox", "laras bes treble iOS", "penyama Mac aplikasi muzik", "tingkatkan audio dengan praamplifier", "pratetap bunyi tersuai"]
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **Ringkasan:** Evermusic dan Flacbox menyertakan penyama audio 10 jalur profesional dengan pratetap (Rock, Hip-Hop, Bass Booster dan banyak lagi), penciptaan pratetap tersuai dan praamplifier untuk peningkatan kelantangan. Tersedia pada iPhone, iPad dan Mac.
@@ -105,26 +105,26 @@ Tingkatkan pengalaman muzik anda, sesuaikan audio anda untuk sebarang senario da
 
 ## Soalan Lazim
 
-{{% details title="Adakah penyama berfungsi dengan semua format audio?" closed="true" %}}
+{{% ls-details title="Adakah penyama berfungsi dengan semua format audio?" closed="true" %}}
 Ya. EQ 10 jalur dalam Evermusic dan Flacbox berfungsi dengan MP3, FLAC, AAC, WAV, ALAC, OGG dan semua format yang disokong.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Adakah tetapan EQ terpakai untuk semua lagu?" closed="true" %}}
+{{% ls-details title="Adakah tetapan EQ terpakai untuk semua lagu?" closed="true" %}}
 Ya. Setelah anda mengaktifkan penyama dan memilih pratetap, ia terpakai untuk semua main balik sehingga anda menukarnya atau mematikannya.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Bolehkah saya mencipta lebih daripada satu pratetap tersuai?" closed="true" %}}
+{{% ls-details title="Bolehkah saya mencipta lebih daripada satu pratetap tersuai?" closed="true" %}}
 Ya. Anda boleh mencipta, menyimpan dan bertukar antara pelbagai pratetap tersuai. Gunakan ciri Eksport untuk membuat sandaran.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Adakah praamplifier menyebabkan herotan?" closed="true" %}}
+{{% ls-details title="Adakah praamplifier menyebabkan herotan?" closed="true" %}}
 Ia boleh jika ditetapkan terlalu tinggi. Perhatikan penunjuk tahap audio semasa melaraskan. Jika tahap terlebih (mencecah bahagian atas), kurangkan gandaan praamplifier sedikit.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Adakah penyama tersedia pada kedua-dua Evermusic dan Flacbox?" closed="true" %}}
+{{% ls-details title="Adakah penyama tersedia pada kedua-dua Evermusic dan Flacbox?" closed="true" %}}
 Ya. Kedua-dua aplikasi menyertakan penyama 10 jalur yang sama dengan pratetap, pratetap tersuai dan praamplifier.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Bolehkah saya berkongsi pratetap EQ saya dengan orang lain?" closed="true" %}}
+{{% ls-details title="Bolehkah saya berkongsi pratetap EQ saya dengan orang lain?" closed="true" %}}
 Ya. Gunakan pilihan Eksport Konfigurasi untuk menyimpan pratetap anda ke fail, kemudian kongsinya. Orang lain boleh mengimportnya menggunakan Import Konfigurasi.
-{{% /details %}}
+{{% /ls-details %}}

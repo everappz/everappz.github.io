@@ -28,19 +28,19 @@ Aquesta guia explica cada part de l'app pas a pas. Tria una secció més avall p
 
 
 {{< cards >}}
-  {{< card icon="play" title="Compartir" subtitle="Prem Iniciar, tria què vols compartir i fes funcionar els cinc servidors alhora. Coneix la pantalla de Compartir de dalt a baix." link="/docs/guide/everdisk/everdisk-guide-sharing" >}}
+  {{< ls-card icon="play" title="Compartir" subtitle="Prem Iniciar, tria què vols compartir i fes funcionar els cinc servidors alhora. Coneix la pantalla de Compartir de dalt a baix." link="/docs/guide/everdisk/everdisk-guide-sharing" >}}
 
-  {{< card icon="desktop-computer" title="Connecta els teus dispositius" subtitle="Com es connecta als teus arxius compartits un televisor, un Mac o PC, un navegador web, un altre telèfon o un cable USB." link="/docs/guide/everdisk/everdisk-guide-connect" >}}
+  {{< ls-card icon="desktop-computer" title="Connecta els teus dispositius" subtitle="Com es connecta als teus arxius compartits un televisor, un Mac o PC, un navegador web, un altre telèfon o un cable USB." link="/docs/guide/everdisk/everdisk-guide-connect" >}}
 
-  {{< card icon="server" title="Connectar a servidors" subtitle="Arriba a altres servidors DLNA, WebDAV, FTP, SFTP i SMB i unitats NAS de la teva xarxa per explorar, reproduir i descarregar." link="/docs/guide/everdisk/everdisk-guide-devices" >}}
+  {{< ls-card icon="server" title="Connectar a servidors" subtitle="Arriba a altres servidors DLNA, WebDAV, FTP, SFTP i SMB i unitats NAS de la teva xarxa per explorar, reproduir i descarregar." link="/docs/guide/everdisk/everdisk-guide-devices" >}}
 
-  {{< card icon="folder" title="Arxius i documents" subtitle="Explora, crea carpetes, canvia el nom, mou, copia i elimina, comprimeix i descomprimeix, connecta carpetes externes i escaneja a PDF." link="/docs/guide/everdisk/everdisk-guide-files" >}}
+  {{< ls-card icon="folder" title="Arxius i documents" subtitle="Explora, crea carpetes, canvia el nom, mou, copia i elimina, comprimeix i descomprimeix, connecta carpetes externes i escaneja a PDF." link="/docs/guide/everdisk/everdisk-guide-files" >}}
 
-  {{< card icon="music-note" title="Fotos, música i vídeo" subtitle="Comparteix tota la teva biblioteca de fotos i música, reprodueix àudio al minireproductor i mira vídeo a pantalla completa." link="/docs/guide/everdisk/everdisk-guide-media" >}}
+  {{< ls-card icon="music-note" title="Fotos, música i vídeo" subtitle="Comparteix tota la teva biblioteca de fotos i música, reprodueix àudio al minireproductor i mira vídeo a pantalla completa." link="/docs/guide/everdisk/everdisk-guide-media" >}}
 
-  {{< card icon="lock-closed" title="Accés i privadesa" subtitle="Protegeix la compartició amb un inici de sessió i una contrasenya, permet o bloqueja l'edició, bloqueja dispositius i mantén-ho tot en local." link="/docs/guide/everdisk/everdisk-guide-access" >}}
+  {{< ls-card icon="lock-closed" title="Accés i privadesa" subtitle="Protegeix la compartició amb un inici de sessió i una contrasenya, permet o bloqueja l'edició, bloqueja dispositius i mantén-ho tot en local." link="/docs/guide/everdisk/everdisk-guide-access" >}}
 
-  {{< card icon="adjustments" title="Configuració" subtitle="Cada opció explicada: perfil del dispositiu, connexions, qualitat de fotos i vídeos, ports, transferències i molt més." link="/docs/guide/everdisk/everdisk-guide-settings" >}}
+  {{< ls-card icon="adjustments" title="Configuració" subtitle="Cada opció explicada: perfil del dispositiu, connexions, qualitat de fotos i vídeos, ports, transferències i molt més." link="/docs/guide/everdisk/everdisk-guide-settings" >}}
 
-  {{< card icon="question-mark-circle" title="Preguntes freqüents" subtitle="Respostes ràpides a les preguntes més habituals i a casos reals d'ús." link="/docs/faq/everdisk" >}}
+  {{< ls-card icon="question-mark-circle" title="Preguntes freqüents" subtitle="Respostes ràpides a les preguntes més habituals i a casos reals d'ús." link="/docs/faq/everdisk" >}}
 {{< /cards >}}

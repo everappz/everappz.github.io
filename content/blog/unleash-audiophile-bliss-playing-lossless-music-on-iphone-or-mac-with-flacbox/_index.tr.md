@@ -12,7 +12,7 @@ authors:
     image: "/images/about/artem-meleshko-founder-everappz.webp"
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 **Özet:** iPhone ve Mac'te FLAC, DSD, ALAC ve 120+ ses formatını çalmak için [Flacbox'ı App Store'dan](https://apps.apple.com/us/app/flacbox-flac-player-music/id1097564256?mt=8) yükleyin. iTunes File Sharing, Wi-Fi Drive veya bulut depolama ile dosya aktarın. Dosya dönüştürme gerekmez. Flacbox kayıpsız formatları stüdyo kalitesinde yerel olarak çözer.
 
@@ -59,26 +59,26 @@ Dosyaları şu yöntemlerle aktarın: **iTunes File Sharing**, **Wi-Fi Drive**, 
 
 ## Sık Sorulan Sorular
 
-{{< details title="Flacbox kayıpsız dosya çalmak için abonelik gerektiriyor mu?" closed="true" >}}
+{{< ls-details title="Flacbox kayıpsız dosya çalmak için abonelik gerektiriyor mu?" closed="true" >}}
 Flacbox temel oynatma işlevini abonelik olmadan sunar. FLAC, DSD, ALAC ve diğer kayıpsız formatları indirdikten hemen sonra içe aktarıp çalabilirsiniz.
-{{< /details >}}
+{{< /ls-details >}}
 
-{{< details title="Flacbox DSD dosyalarını önce PCM'ye dönüştürmeden çalabilir mi?" closed="true" >}}
+{{< ls-details title="Flacbox DSD dosyalarını önce PCM'ye dönüştürmeden çalabilir mi?" closed="true" >}}
 Evet, Flacbox DSD64, DSD128 ve DSD256 dahil yerel DSD oynatmayı destekler.
-{{< /details >}}
+{{< /ls-details >}}
 
-{{< details title="Büyük kayıpsız müzik koleksiyonlarını iPhone'uma nasıl aktarırım?" closed="true" >}}
+{{< ls-details title="Büyük kayıpsız müzik koleksiyonlarını iPhone'uma nasıl aktarırım?" closed="true" >}}
 Flacbox birçok aktarım seçeneği sunar. Wi-Fi Drive, iTunes File Sharing, bulut depolama veya Lightning/USB-C adaptörü ile harici sürücü bağlantısı.
-{{< /details >}}
+{{< /ls-details >}}
 
-{{< details title="Flacbox'ta FLAC ve ALAC arasında ses kalitesi farkı var mı?" closed="true" >}}
+{{< ls-details title="Flacbox'ta FLAC ve ALAC arasında ses kalitesi farkı var mı?" closed="true" >}}
 Her ikisi de kayıpsız codec'lerdir ve aynı ses çıkışını üretir. Flacbox her ikisini de eşit sadakatle işler.
-{{< /details >}}
+{{< /ls-details >}}
 
-{{< details title="iPhone'da FLAC dosyalarını çalmanın en iyi yolu nedir?" closed="true" >}}
+{{< ls-details title="iPhone'da FLAC dosyalarını çalmanın en iyi yolu nedir?" closed="true" >}}
 Flacbox'ı App Store'dan yükleyin, FLAC dosyalarını iTunes File Sharing, Wi-Fi Drive, bulut depolama veya harici sürücü ile içe aktarın. Flacbox FLAC'ı dönüştürme olmadan yerel olarak çözer.
-{{< /details >}}
+{{< /ls-details >}}
 
-{{< details title="Flacbox NAS ve ev sunucularıyla çalışır mı?" closed="true" >}}
+{{< ls-details title="Flacbox NAS ve ev sunucularıyla çalışır mı?" closed="true" >}}
 Evet. Flacbox, SMB, WebDAV ve DLNA protokolleri aracılığıyla NAS cihazlarına ve ev sunucularına bağlanır.
-{{< /details >}}
+{{< /ls-details >}}

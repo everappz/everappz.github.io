@@ -15,7 +15,7 @@ tags: [
 ---
 
 
-{{< lottie src="/images/juicy-json/juicy-woman-with-graph-chart.json" width="75%" >}}
+{{< ls-lottie src="/images/juicy-json/juicy-woman-with-graph-chart.json" width="75%" >}}
 
 ## 앱 사용 방법 알아보기
 
@@ -27,4 +27,4 @@ iPhone, iPad 또는 Mac에서 Everappz 앱을 설정하고 사용하는 방법�
 
 ## 제품 선택
 
-{{< product-doc-cards section="guide" >}}
+{{< ls-product-doc-cards section="guide" >}}

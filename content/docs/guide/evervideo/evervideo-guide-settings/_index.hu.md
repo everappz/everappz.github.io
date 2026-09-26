@@ -23,7 +23,7 @@ readingTime: 16
 A Beállítások képernyő az Evervideo vezérlőközpontja. Innen frissíthet Prémiumra, konfigurálhatja a videó- és hangmotorokat (rendszerkodekek vagy FFmpeg), kezelheti a Kép a képben funkciót, beállíthatja a feliratokat (elsődleges, másodlagos, libass, külső fájlok, betűtípusok), rendezheti a médiakönyvtárat, beállíthatja a fájlkezelőt, engedélyezheti a Kezdőképernyő widgeteit, biztonsági mentést készíthet az adatokról, és hozzáférhet a súgóhoz és jogi információkhoz. A szakaszok fejlécek alá vannak csoportosítva: Vásárlások és frissítések, Alkalmazásbeállítások, Súgó, Jogi és adatvédelem.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evervideo Beállítások főképernyő" image="/docs/guide/evervideo/img/evervideo-settings.webp" >}}
+  {{< ls-card title="" subtitle="Evervideo Beállítások főképernyő" image="/docs/guide/evervideo/img/evervideo-settings.webp" >}}
 {{< /cards >}}
 
 ## Frissítés Prémiumra
@@ -31,13 +31,13 @@ A Beállítások képernyő az Evervideo vezérlőközpontja. Innen frissíthet 
 Frissítse az alkalmazást a Prémium verzióra az összes korlát eltávolításához. Az alkalmazás ingyenes verziója egyszeri életre szóló alkalmazáson belüli vásárlást és két előfizetési lehetőséget kínál (1 hónap és 1 év) az összes korlátozás eltávolításához és a Prémiumra való frissítéshez.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evervideo Frissítés Prémiumra" image="/docs/guide/evervideo/img/evervideo-upgrade-to-premium.webp" >}}
+  {{< ls-card title="" subtitle="Evervideo Frissítés Prémiumra" image="/docs/guide/evervideo/img/evervideo-upgrade-to-premium.webp" >}}
 {{< /cards >}}
 
 A **Családi megosztás** minden vásárlásnál és tervnél engedélyezett, így legfeljebb öt családtagjával megoszthatja a Prémium verziót ingyenesen.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evervideo Prémium terv kiválasztása" image="/docs/guide/evervideo/img/evervideo-select-premium-plan.webp" >}}
+  {{< ls-card title="" subtitle="Evervideo Prémium terv kiválasztása" image="/docs/guide/evervideo/img/evervideo-select-premium-plan.webp" >}}
 {{< /cards >}}
 
 ## Vásárlások megosztása iOS és Mac között
@@ -51,7 +51,7 @@ A **Vásárlások visszaállítása** gombra is koppinthat az alkalmazásbeáll�
 A vásárlás új eszközön való visszaállításához használja a **Vásárlások → Vásárlások visszaállítása** menüt. Megjelenik a vásárlások listája. Ha nem látja az összeset, ellenőrizze, hogy az eszköz ugyanahhoz az Apple ID-hoz csatlakozik-e, amellyel a vásárlásokat végezte, és győződjön meg arról, hogy az iCloud engedélyezve van.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evervideo Vásárlások menü a Beállításokban" image="/docs/guide/evervideo/img/evervideo-purhases-menu-in-settings.webp" >}}
+  {{< ls-card title="" subtitle="Evervideo Vásárlások menü a Beállításokban" image="/docs/guide/evervideo/img/evervideo-purhases-menu-in-settings.webp" >}}
 {{< /cards >}}
 
 ## Próbálja ki a Prémiumot ingyen

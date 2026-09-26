@@ -12,7 +12,7 @@ authors:
     image: "/images/about/artem-meleshko-founder-everappz.webp"
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 **Περίληψη:** Το Evermusic 6.8 προσθέτει ενσωμάτωση Aliyun Drive και Synology NAS (με QuickConnect), έξι νέα εφέ κύλισης εξωφύλλων, ένα minimal αναπαραγωγέα πλήρους οθόνης, διαχείριση αρχείων με σύρσιμο και απόθεση, και ταχύτερη φόρτωση εξωφύλλων. Διαθέσιμο τώρα για iOS και macOS.
 
@@ -77,18 +77,18 @@ authors:
 
 ## Συχνές ερωτήσεις
 
-{{% details title="Πώς συνδέω το Synology NAS στο Evermusic;" closed="true" %}}
+{{% ls-details title="Πώς συνδέω το Synology NAS στο Evermusic;" closed="true" %}}
 Μεταβείτε στην καρτέλα Συνδέσεις, επιλέξτε Synology και εισαγάγετε το QuickConnectID σας. Το Evermusic συνδέεται απευθείας χωρίς να χρειάζονται διευθύνσεις IP ή ρύθμιση VPN.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Είναι δωρεάν η χρήση του Aliyun Drive με το Evermusic;" closed="true" %}}
+{{% ls-details title="Είναι δωρεάν η χρήση του Aliyun Drive με το Evermusic;" closed="true" %}}
 Ναι. Αν έχετε λογαριασμό Aliyun Drive, μπορείτε να τον συνδέσετε στο Evermusic χωρίς επιπλέον κόστος. Τα όρια αποθήκευσης εξαρτώνται από το πλάνο Aliyun Drive σας.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Μπορώ να προσαρμόσω το στυλ κύλισης εξωφύλλων;" closed="true" %}}
+{{% ls-details title="Μπορώ να προσαρμόσω το στυλ κύλισης εξωφύλλων;" closed="true" %}}
 Ναι. Μεταβείτε στο Settings > Audio Player > Personalization > Album Covers Scrolling Style και επιλέξτε από έξι επιλογές: MacDoc, Linear, Rotary, Inverted Rotary, Cylinder ή CoverFlow.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Λειτουργεί η minimal οθόνη αναπαραγωγής με όλες τις συσκευές;" closed="true" %}}
+{{% ls-details title="Λειτουργεί η minimal οθόνη αναπαραγωγής με όλες τις συσκευές;" closed="true" %}}
 Ναι. Το στυλ εξωφύλλου πλήρους οθόνης είναι διαθέσιμο σε όλα τα υποστηριζόμενα iPhone, iPad και Mac με Evermusic 6.8 ή νεότερο.
-{{% /details %}}
+{{% /ls-details %}}

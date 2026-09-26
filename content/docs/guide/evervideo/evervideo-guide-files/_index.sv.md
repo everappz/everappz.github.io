@@ -33,7 +33,7 @@ Fliken Filer är uppdelad i tydliga sektioner som visas i den här ordningen på
 I det övre högra hörnet av Filer-skärmen finns en Överföringsknapp (en ikon med roterande pilar). Tryck på den för att öppna Överföringskön där du övervakar varje nedladdning och uppladdning från alla dina källor.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evervideo filer över anslutna lagringar" image="/docs/guide/evervideo/img/evervideo-files-connected-storages.webp" >}}
+  {{< ls-card title="" subtitle="Evervideo filer över anslutna lagringar" image="/docs/guide/evervideo/img/evervideo-files-connected-storages.webp" >}}
 {{< /cards >}}
 
 ## Anslut till molnlagring
@@ -41,7 +41,7 @@ I det övre högra hörnet av Filer-skärmen finns en Överföringsknapp (en iko
 Sektionen Molnlagring i fliken Filer är där varje anslutet konto, NAS, mediaserver och ström finns — sida vid sida, i en rullningsbar lista.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evervideo molnlagringssektion i fliken Filer" image="/docs/guide/evervideo/img/evervideo-connections.webp" >}}
+  {{< ls-card title="" subtitle="Evervideo molnlagringssektion i fliken Filer" image="/docs/guide/evervideo/img/evervideo-connections.webp" >}}
 {{< /cards >}}
 
 - Öppna fliken **Filer**.
@@ -51,7 +51,7 @@ Sektionen Molnlagring i fliken Filer är där varje anslutet konto, NAS, mediase
 - Ange dina uppgifter på den officiella auktoriseringssidan som tillhandahålls av molnleverantören, tryck sedan på **Färdig**.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evervideo anslut en molnlagringstjänst" image="/docs/guide/evervideo/img/evervideo-connect-cloud-storage.webp" >}}
+  {{< ls-card title="" subtitle="Evervideo anslut en molnlagringstjänst" image="/docs/guide/evervideo/img/evervideo-connect-cloud-storage.webp" >}}
 {{< /cards >}}
 
 Om du stöter på problem, kontrollera din internetanslutning och ditt inloggning / lösenord. I Premium-versionen av appen kan du lägga till ett obegränsat antal tjänster; gratisversionen stöder upp till tre.
@@ -161,7 +161,7 @@ Den här sektionen visar varje enhet i ditt lokala nätverk som du kan ansluta t
 - Om det behövs, ange dina inloggningsuppgifter för att slutföra anslutningen.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evervideo tillgängliga enheter i det lokala nätverket" image="/docs/guide/evervideo/img/evervideo-available-devices.webp" >}}
+  {{< ls-card title="" subtitle="Evervideo tillgängliga enheter i det lokala nätverket" image="/docs/guide/evervideo/img/evervideo-available-devices.webp" >}}
 {{< /cards >}}
 
 ## Wi-Fi Drive
@@ -169,7 +169,7 @@ Den här sektionen visar varje enhet i ditt lokala nätverk som du kan ansluta t
 Wi-Fi Drive låter dig trådlöst överföra filer från din dator till din iOS-enhet via valfri skrivbordswebbläsare, Finder eller File Explorer. Din enhet och dator måste vara på samma Wi-Fi-nätverk.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evervideo Wi-Fi Drive" image="/docs/guide/evervideo/img/evervideo-wifi-drive.webp" >}}
+  {{< ls-card title="" subtitle="Evervideo Wi-Fi Drive" image="/docs/guide/evervideo/img/evervideo-wifi-drive.webp" >}}
 {{< /cards >}}
 
 ### Aktivera Wi-Fi Drive
@@ -201,7 +201,7 @@ Anslut ett USB-minne eller SD-kort till din iPhone, iPad eller Mac via Lightning
 Tryck på en ansluten molntjänst för att öppna dess filbläddrare. Mappar visar videominiatyrer när de är tillgängliga, och att trycka på en video startar uppspelning omedelbart medan resten av filen fortsätter att strömmas i bakgrunden.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evervideo bläddrar i mappar i anslutna lagringar" image="/docs/guide/evervideo/img/evervideo-all-connected-device-folders.webp" >}}
+  {{< ls-card title="" subtitle="Evervideo bläddrar i mappar i anslutna lagringar" image="/docs/guide/evervideo/img/evervideo-all-connected-device-folders.webp" >}}
 {{< /cards >}}
 
 ## Snabbåtkomst
@@ -209,7 +209,7 @@ Tryck på en ansluten molntjänst för att öppna dess filbläddrare. Mappar vis
 Sektionen Snabbåtkomst finns längst upp i fliken Filer. Den ger dig snabb åtkomst till dina favorit- och nyligen öppnade filer och mappar — både från molntjänster och från enhetslagring. Varje gång du öppnar en fil eller mapp från molnet läggs den till i listan Nyligen öppnade. Du kan markera djupt nästlade mappar som Favoriter för att komma åt dem snabbt utan att gräva igenom katalogstrukturen.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evervideo onlinelänkar och snabbåtkomst" image="/docs/guide/evervideo/img/evervideo-connections-online-links.webp" >}}
+  {{< ls-card title="" subtitle="Evervideo onlinelänkar och snabbåtkomst" image="/docs/guide/evervideo/img/evervideo-connections-online-links.webp" >}}
 {{< /cards >}}
 
 ## Filer i den här applikationen
@@ -217,7 +217,7 @@ Sektionen Snabbåtkomst finns längst upp i fliken Filer. Den ger dig snabb åtk
 Den här sektionen visar filer och mappar lagrade i Evervideo's sandboxade Documents-katalog — allt du har laddat ner från molnet, överfört via Wi-Fi Drive, kopierat via Finder File Sharing eller importerat från en annan app.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evervideo filer i den här applikationen" image="/docs/guide/evervideo/img/evervideo-files-in-this-application.webp" >}}
+  {{< ls-card title="" subtitle="Evervideo filer i den här applikationen" image="/docs/guide/evervideo/img/evervideo-files-in-this-application.webp" >}}
 {{< /cards >}}
 
 ### Documents-mappen
@@ -225,7 +225,7 @@ Den här sektionen visar filer och mappar lagrade i Evervideo's sandboxade Docum
 Documents-mappen är roten till allt inuti Filer i den här applikationen. Du kan skapa undermappar, byta namn på filer, flytta runt dem och gruppera dem hur du vill.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evervideo lokala filer — Documents-mappen" image="/docs/guide/evervideo/img/evervideo-local-files-documents.webp" >}}
+  {{< ls-card title="" subtitle="Evervideo lokala filer — Documents-mappen" image="/docs/guide/evervideo/img/evervideo-local-files-documents.webp" >}}
 {{< /cards >}}
 
 ## Filer på den här iPhone / iPad / Mac
@@ -238,7 +238,7 @@ Den här sektionen visar videor på din enhet men i olika applikationer. Du kan 
 Du kan också använda Anslut en mapp för att skapa en länk till en mapp på din enhet med läs / skrivåtkomst — perfekt för att arbeta med en mapp på iCloud Drive eller en ansluten USB-enhet utan att kopiera något.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evervideo filer på den här enheten" image="/docs/guide/evervideo/img/evervideo-files-on-this-device.webp" >}}
+  {{< ls-card title="" subtitle="Evervideo filer på den här enheten" image="/docs/guide/evervideo/img/evervideo-files-on-this-device.webp" >}}
 {{< /cards >}}
 
 ## Specialmappar
@@ -276,7 +276,7 @@ När du öppnar en mapp, tryck på **"..."-knappen** i det övre högra hörnet 
 Tryck på **"..."** i det övre högra hörnet och välj **Välja** för att gå in i urvalsläge. Kryssrutor visas bredvid varje fil och mapp. Tryck för att välja ett eller flera objekt, utför sedan batchåtgärder: Spela nästa, Spela senare, Lägg till i mediebibliotek, Lägg till i en spellista, Kopiera, Ladda upp, Flytta, Byt namn eller Ta bort.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evervideo urvalsläge i filhanteraren" image="/docs/guide/evervideo/img/evervideo-selection-mode-in-files.webp" >}}
+  {{< ls-card title="" subtitle="Evervideo urvalsläge i filhanteraren" image="/docs/guide/evervideo/img/evervideo-selection-mode-in-files.webp" >}}
 {{< /cards >}}
 
 Om du hellre behandlar ansluten molnlagring som skrivskyddad (för att förhindra oavsiktliga raderingar), aktivera Inställningar → Filhanterare → Redigera onlinefiler → Av för att dölja alla destruktiva åtgärder från UI.
@@ -318,13 +318,13 @@ För varje mapp i din molnlagring finns det många åtgärder tillgängliga geno
 I det övre högra hörnet av fliken Filer finns en **Överförings**-knapp (en ikon med roterande pilar). Tryck på den för att öppna Överföringskön — en lista över varje aktiv nedladdning och uppladdning från alla dina källor, med realtidsprogress, hastighet och ETA per fil.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evervideo filöverföringskö" image="/docs/guide/evervideo/img/evervideo-file-transfers.webp" >}}
+  {{< ls-card title="" subtitle="Evervideo filöverföringskö" image="/docs/guide/evervideo/img/evervideo-file-transfers.webp" >}}
 {{< /cards >}}
 
 Du kan pausa, återuppta, försöka igen med misslyckade överföringar, ordna om objekt för att prioritera specifika nedladdningar eller avbryta dem individuellt. Du kan också justera överföringskö-hastigheten (maximalt parallella uppgifter), nätverkstyp (endast Wi-Fi eller Wi-Fi + Cellular) och bakgrundsöverföringar i Inställningar → Filhanterare.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evervideo åtgärder för filöverföringskön" image="/docs/guide/evervideo/img/evervideo-file-transfers-actions.webp" >}}
+  {{< ls-card title="" subtitle="Evervideo åtgärder för filöverföringskön" image="/docs/guide/evervideo/img/evervideo-file-transfers-actions.webp" >}}
 {{< /cards >}}
 
 ## Offlineläge och synkroniserade offlinemappar

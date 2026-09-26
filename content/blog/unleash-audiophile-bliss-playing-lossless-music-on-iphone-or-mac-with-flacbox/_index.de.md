@@ -12,7 +12,7 @@ authors:
     image: "/images/about/artem-meleshko-founder-everappz.webp"
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 **Zusammenfassung:** Installieren Sie [Flacbox aus dem App Store](https://apps.apple.com/us/app/flacbox-flac-player-music/id1097564256?mt=8) um FLAC, DSD, ALAC und 120+ andere Audioformate auf iPhone und Mac abzuspielen. Importieren Sie Dateien über iTunes File Sharing, Wi-Fi Drive oder Cloud-Speicher. Keine Dateikonvertierung nötig.
 
@@ -52,26 +52,26 @@ Importieren Sie Dateien über **iTunes File Sharing**, **Wi-Fi Drive**, **Cloud-
 
 ## Häufig gestellte Fragen
 
-{{< details title="Benötigt Flacbox ein Abonnement für verlustfreie Wiedergabe?" closed="true" >}}
+{{< ls-details title="Benötigt Flacbox ein Abonnement für verlustfreie Wiedergabe?" closed="true" >}}
 Flacbox bietet grundlegende Wiedergabe ohne Abonnement. Sie können FLAC, DSD, ALAC sofort nach dem Download importieren und abspielen.
-{{< /details >}}
+{{< /ls-details >}}
 
-{{< details title="Kann Flacbox DSD-Dateien ohne Konvertierung zu PCM abspielen?" closed="true" >}}
+{{< ls-details title="Kann Flacbox DSD-Dateien ohne Konvertierung zu PCM abspielen?" closed="true" >}}
 Ja, Flacbox unterstützt native DSD-Wiedergabe einschließlich DSD64, DSD128 und DSD256.
-{{< /details >}}
+{{< /ls-details >}}
 
-{{< details title="Wie übertrage ich große verlustfreie Sammlungen auf mein iPhone?" closed="true" >}}
+{{< ls-details title="Wie übertrage ich große verlustfreie Sammlungen auf mein iPhone?" closed="true" >}}
 Wi-Fi Drive, iTunes File Sharing, Cloud-Speicher oder externes Laufwerk über Lightning/USB-C.
-{{< /details >}}
+{{< /ls-details >}}
 
-{{< details title="Gibt es einen Qualitätsunterschied zwischen FLAC und ALAC in Flacbox?" closed="true" >}}
+{{< ls-details title="Gibt es einen Qualitätsunterschied zwischen FLAC und ALAC in Flacbox?" closed="true" >}}
 Beide sind verlustfreie Codecs mit identischer Ausgabe. Flacbox verarbeitet beide mit gleicher Wiedergabetreue.
-{{< /details >}}
+{{< /ls-details >}}
 
-{{< details title="Was ist der beste Weg, FLAC-Dateien auf dem iPhone abzuspielen?" closed="true" >}}
+{{< ls-details title="Was ist der beste Weg, FLAC-Dateien auf dem iPhone abzuspielen?" closed="true" >}}
 Installieren Sie Flacbox und importieren Sie Dateien. Native Dekodierung bis 32-bit/384 kHz.
-{{< /details >}}
+{{< /ls-details >}}
 
-{{< details title="Funktioniert Flacbox mit NAS und Heimservern?" closed="true" >}}
+{{< ls-details title="Funktioniert Flacbox mit NAS und Heimservern?" closed="true" >}}
 Ja, über SMB, WebDAV und DLNA.
-{{< /details >}}
+{{< /ls-details >}}

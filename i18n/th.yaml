@@ -186,3 +186,5 @@ everdiskFeatAdvancedServerSettings: "การตั้งค่าเซิร�
 everdiskFeatSMB3Encryption: "การเข้ารหัส SMB3"
 everdiskFeatAutomaticSharing: "การแชร์อัตโนมัติ"
 everdiskFeatDevicePersonalization: "การปรับแต่งอุปกรณ์"
+
+searchDocsPlaceholder: "ค้นหาเอกสาร คำถามที่พบบ่อย และคู่มือการใช้งาน…"

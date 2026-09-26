@@ -7,7 +7,7 @@ tags: ["音樂", "音訊", "等化器", "10段", "增益", "設定", "前級放�
 keywords: ["音訊等化器 iPhone", "Evermusic EQ 預設", "Flacbox 10段等化器", "調整低音高音 iOS", "等化器 Mac 音樂應用程式", "前級放大器增強音訊", "自訂聲音預設"]
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **摘要：** Evermusic 和 Flacbox 包含專業的 10 段音訊等化器，附帶預設（Rock、Hip-Hop、Bass Booster 等）、自訂預設建立和用於音量增強的前級放大器。適用於 iPhone、iPad 和 Mac。
@@ -105,26 +105,26 @@ Evermusic 和 Flacbox 包含 22 個內建預設。10 個頻段對應頻率：32 
 
 ## 常見問題
 
-{{% details title="等化器是否適用於所有音訊格式？" closed="true" %}}
+{{% ls-details title="等化器是否適用於所有音訊格式？" closed="true" %}}
 是的。Evermusic 和 Flacbox 中的 10 段 EQ 適用於 MP3、FLAC、AAC、WAV、ALAC、OGG 和所有其他支援的格式。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="EQ 設定會套用於所有歌曲嗎？" closed="true" %}}
+{{% ls-details title="EQ 設定會套用於所有歌曲嗎？" closed="true" %}}
 是的。一旦您啟用等化器並選擇預設，它將套用於所有播放，直到您更改或關閉它。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="我可以建立多個自訂預設嗎？" closed="true" %}}
+{{% ls-details title="我可以建立多個自訂預設嗎？" closed="true" %}}
 是的。您可以建立、儲存並在多個自訂預設之間切換。使用匯出功能進行備份。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="前級放大器會導致失真嗎？" closed="true" %}}
+{{% ls-details title="前級放大器會導致失真嗎？" closed="true" %}}
 如果設定過高可能會。調整時注意音訊電平指示器。如果電平出現削波（達到頂部），請稍微降低前級放大器增益。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="等化器在 Evermusic 和 Flacbox 上都可用嗎？" closed="true" %}}
+{{% ls-details title="等化器在 Evermusic 和 Flacbox 上都可用嗎？" closed="true" %}}
 是的。兩個應用程式都包含相同的 10 段等化器，附帶預設、自訂預設和前級放大器。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="我可以與他人分享我的 EQ 預設嗎？" closed="true" %}}
+{{% ls-details title="我可以與他人分享我的 EQ 預設嗎？" closed="true" %}}
 是的。使用匯出設定選項將預設儲存到檔案，然後分享。對方可以使用匯入設定進行匯入。
-{{% /details %}}
+{{% /ls-details %}}

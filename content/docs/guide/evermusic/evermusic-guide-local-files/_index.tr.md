@@ -20,7 +20,7 @@ Yerel Dosyalar bölümü, uygulamanın "Documents" klasöründe bulunan dosyalar
 Bu yerleşik dosya yöneticisi dosyaları düzenlemenize olanak tanır ve uygulamaya ses dosyaları aktarmanın çeşitli yöntemlerini sunar.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evermusic Local Files Screen" image="/docs/guide/evermusic/evermusic-guide-local-files/img/local-files-main.webp" >}}
+  {{< ls-card title="" subtitle="Evermusic Local Files Screen" image="/docs/guide/evermusic/evermusic-guide-local-files/img/local-files-main.webp" >}}
 {{< /cards >}}
 
 ## Bulut depolamadan dosya indirme
@@ -40,7 +40,7 @@ Ses dosyalarını [burada](/docs/howto/how-to-upload-my-files-to-the-cloud-stora
 [Burada](/docs/howto/how-to-transfer-files-from-my-mac-to-iphone-or-ipad-using-finder) açıklandığı gibi kablo bağlantısı kullanarak dosya aktarın.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="iTunes / Finder File Sharing" image="/docs/guide/evermusic/evermusic-guide-local-files/img/local-files-itunes-file-sharing.webp" >}}
+  {{< ls-card title="" subtitle="iTunes / Finder File Sharing" image="/docs/guide/evermusic/evermusic-guide-local-files/img/local-files-itunes-file-sharing.webp" >}}
 {{< /cards >}}
 
 ## Wi-Fi Drive
@@ -48,7 +48,7 @@ Ses dosyalarını [burada](/docs/howto/how-to-upload-my-files-to-the-cloud-stora
 [Burada](/docs/howto/how-to-transfer-files-wirelessly-from-a-computer-to-an-iphone-using-wifi-drive) açıklandığı gibi dosyaları kablosuz aktarın.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Wi-Fi Drive Server Settings" image="/docs/guide/evermusic/evermusic-guide-local-files/img/local-files-wifidrive-settings.webp" >}}
+  {{< ls-card title="" subtitle="Wi-Fi Drive Server Settings" image="/docs/guide/evermusic/evermusic-guide-local-files/img/local-files-wifidrive-settings.webp" >}}
 {{< /cards >}}
 
 ## Aktarım Kuyruğu
@@ -56,7 +56,7 @@ Ses dosyalarını [burada](/docs/howto/how-to-upload-my-files-to-the-cloud-stora
 Gezinme çubuğunun sol üst köşesinde bir 'Aktarımlar' düğmesi bulacaksınız. Tüm indirmelerinizi ve yüklemelerinizi izleyip yönetebileceğiniz aktarım kuyruğuna erişmek için ona dokunun. Ayrıca uygulama ayarlarında aktarım kuyruğu hızını ve ağ türünü ayarlama esnekliğine sahipsiniz.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="File Transfers Queue" image="/docs/guide/evermusic/evermusic-guide-local-files/img/local-files-file-transfers.webp" >}}
+  {{< ls-card title="" subtitle="File Transfers Queue" image="/docs/guide/evermusic/evermusic-guide-local-files/img/local-files-file-transfers.webp" >}}
 {{< /cards >}}
 
 ## Hızlı Erişim Bölümü
@@ -68,7 +68,7 @@ Ekranın en üstünde, bir hızlı erişim bölümü son ve favori dosya ve klas
 Bu bölüm son açılan tüm dosya veya klasörleri gösterir.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Recently Opened Files and Folders" image="/docs/guide/evermusic/evermusic-guide-local-files/img/local-files-recents.webp" >}}
+  {{< ls-card title="" subtitle="Recently Opened Files and Folders" image="/docs/guide/evermusic/evermusic-guide-local-files/img/local-files-recents.webp" >}}
 {{< /cards >}}
 
 ## Favoriler
@@ -76,7 +76,7 @@ Bu bölüm son açılan tüm dosya veya klasörleri gösterir.
 Dosyaları veya klasörleri favorilere ekleyebilir ve bu bölümde onlara erişebilirsiniz. Ayrıca cihazınızda bulunan bir klasörü favorilerinize ekleyebilirsiniz. Bunu yapmak için favoriler bölümünü açın, sağ üst köşedeki üç noktaya dokunun ve "Klasör ekle" menü öğesini seçin. Cihazınızdan hızlı erişim için favorilerinize klasör eklemek üzere istemleri izleyin.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Favorites — Add Folder From Your Device" image="/docs/guide/evermusic/evermusic-guide-local-files/img/local-files-favorites.webp" >}}
+  {{< ls-card title="" subtitle="Favorites — Add Folder From Your Device" image="/docs/guide/evermusic/evermusic-guide-local-files/img/local-files-favorites.webp" >}}
 {{< /cards >}}
 
 ## Üst Araç Çubuğu
@@ -91,7 +91,7 @@ Gezinme çubuğunun altında bulunan üst araç çubuğu birkaç eylem sunar:
 Araç çubuğunu aşağı kaydırma hareketiyle gösterebilir veya gizleyebilirsiniz.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Top Toolbar for the Current Folder" image="/docs/guide/evermusic/evermusic-guide-local-files/img/local-files-top-toolbar.webp" >}}
+  {{< ls-card title="" subtitle="Top Toolbar for the Current Folder" image="/docs/guide/evermusic/evermusic-guide-local-files/img/local-files-top-toolbar.webp" >}}
 {{< /cards >}}
 
 ## Özel Klasörler
@@ -128,7 +128,7 @@ Uygulamanın Documents dizininde ve iCloud Drive'da depolanan dosya ve klasörle
 Cihazınızda ancak farklı uygulamalarda bulunan dosyaları gösterir. Sistem dosya seçiciyi kullanarak bunları bu uygulamaya aktarabilirsiniz. Seçiciyi etkinleştirmek için dosyaları seçmek üzere "Dosyaları aç..." veya klasörleri seçmek için "Klasörleri aç..." seçeneğini belirleyin. iPhone veya Mac'inizde depolanan yerel müziği nasıl içe aktaracağınıza dair ayrıntılı talimatlar [burada](/docs/howto/how-to-play-local-music-stored-on-your-iphone-or-mac) mevcuttur. Ayrıca cihazınızda bulunan bir klasörü bağlayabilir ve klasörün içeriğine hızlı erişim sağlayabilirsiniz. "Klasör bağla" menü öğesini kullanın ve cihazınızda bulunan bir klasör seçin. "Tamamlandı"ya dokunun ve uygulama okuma/yazma erişimiyle o klasöre bir bağlantı oluşturur; dosyaları doğrudan bu uygulamadan yönetebilirsiniz. Cihazınızda bulunan klasörün bağlantısını kesmek için "Daha fazla eylem" düğmesine dokunun ve "Bağlantıyı Kes"i seçin.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Files on This iPhone / iPad / Mac" image="/docs/guide/evermusic/evermusic-guide-local-files/img/local-files-on-this-device.webp" >}}
+  {{< ls-card title="" subtitle="Files on This iPhone / iPad / Mac" image="/docs/guide/evermusic/evermusic-guide-local-files/img/local-files-on-this-device.webp" >}}
 {{< /cards >}}
 
 ## Bağlı USB Flash Kartlarda Bulunan Dosyaları İçe Aktarma
@@ -151,7 +151,7 @@ Sağ üst köşede bulunan şu anda açık olan klasör için daha fazla eylem m
 Birkaç dosyayı düzenlemeniz gerekiyorsa, gezinme çubuğunun sağ üst köşesindeki "..." daha fazla eylem düğmesine dokunarak ve ardından "Seçmek" menü öğesini seçerek seçim modunu etkinleştirin. Bu, her dosyanın yanında onay kutuları görüntüler. İstenen dosyaları onay kutularına dokunarak seçin. Seçili dosyalar üzerinde aşağıdaki işlemleri gerçekleştirebilirsiniz.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Selection Mode Actions for Local Files" image="/docs/guide/evermusic/evermusic-guide-local-files/img/local-files-selection-mode.webp" >}}
+  {{< ls-card title="" subtitle="Selection Mode Actions for Local Files" image="/docs/guide/evermusic/evermusic-guide-local-files/img/local-files-selection-mode.webp" >}}
 {{< /cards >}}
 
 - **Sıradaki Çal:** Seçili dosya veya klasörleri mevcut sıralama düzeniyle oynatıcı kuyruğunun en üstüne ekleyin.
@@ -186,7 +186,7 @@ Uygulamadaki her dosya veya klasör için "..." düğmesine dokunarak birkaç ey
 ## Çevrimdışı Klasörler
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Offline Folder More Actions Menu" image="/docs/guide/evermusic/evermusic-guide-local-files/img/local-files-offline-folders.webp" >}}
+  {{< ls-card title="" subtitle="Offline Folder More Actions Menu" image="/docs/guide/evermusic/evermusic-guide-local-files/img/local-files-offline-folders.webp" >}}
 {{< /cards >}}
 
 Çevrimdışı mod, internete bağlı olmadığınızda bile favori müziğinize erişmenizi sağlayan kullanışlı bir özelliktir. Herhangi bir albüm, sanatçı, oynatma listesi, tür veya uzak klasör için çevrimdışı modu etkinleştirdiğinizde, o koleksiyondaki tüm dosyalar çevrimdışı oynatma için otomatik olarak cihazınıza indirilir. Bu dosyalara uygulamanın "Çevrimdışı Klasörler" bölümünden kolayca erişebilirsiniz.
@@ -204,7 +204,7 @@ Evermusic & Flacbox'ta çevrimdışı müzik çalma hakkında ayrıntılı talim
 Yerel Dosyalar ekranının neredeyse her davranışı — ağ bant genişliğinden indirmelerin nereye gideceğine, küçük resimlerin nasıl önbelleğe alındığına kadar — **Ayarlar → Dosya yöneticisi** altında yapılandırılabilir. Aktarım hızını ince ayarlamak, depolama alanı kazanmak veya uygulamayı yalnızca Wi-Fi ile sınırlamak istediğinizde açın.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="File Manager Settings Screen" image="/docs/guide/evermusic/evermusic-guide-local-files/img/local-files-file-manager-settings.webp" >}}
+  {{< ls-card title="" subtitle="File Manager Settings Screen" image="/docs/guide/evermusic/evermusic-guide-local-files/img/local-files-file-manager-settings.webp" >}}
 {{< /cards >}}
 
 Ekran, açıkça etiketlenmiş bölümlere göre gruplandırılmış her seçeneği ortaya çıkarır:

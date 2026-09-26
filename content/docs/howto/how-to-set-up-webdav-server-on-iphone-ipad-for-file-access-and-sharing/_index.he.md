@@ -7,7 +7,7 @@ keywords: ["שרת WebDAV ל-iPhone", "שרת WebDAV ל-iPad", "איך להקי�
 readingTime: 9
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 WebDAV הופך תיקייה לכונן רשת שמחשב יכול לפתוח במנהל הקבצים הרגיל שלו. הוא רץ על אותו פרוטוקול אינטרנט שהדפדפן שלכם משתמש בו, ולכן הוא נודד היטב בין Mac, Windows ו-Linux בלי מנהלי התקנים מיוחדים. עם [Everdisk](/products/everdisk) אפשר להריץ שרת WebDAV על ה-iPhone או ה-iPad שלכם, כך שהטלפון מופיע ככונן שאפשר לעיין בו, להעתיק ממנו ולהעתיק אליו כמעט מכל מחשב.
 
@@ -104,40 +104,40 @@ http://192.168.1.20:8080
 
 ## שאלות נפוצות
 
-{{% details title="מהי כתובת ה-WebDAV והפורט של ה-iPhone שלי?" closed="true" %}}
+{{% ls-details title="מהי כתובת ה-WebDAV והפורט של ה-iPhone שלי?" closed="true" %}}
 אחרי שאתם מתחילים לשתף, Everdisk מציגה את הכתובת במסך השיתוף. היא נראית כמו http://192.168.1.20:8080. ה-8080 הוא הפורט ש-Everdisk משתמשת בו ל-WebDAV, והחלק הראשון הוא כתובת ה-iPhone שלכם ברשת ה-Wi-Fi, ולכן שלכם תהיה שונה.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="איך מתחברים ל-WebDAV של ה-iPhone שלי מ-Windows?" closed="true" %}}
+{{% ls-details title="איך מתחברים ל-WebDAV של ה-iPhone שלי מ-Windows?" closed="true" %}}
 פתחו את File Explorer, הקליקו קליק ימני על This PC, ובחרו Add a network location או Map network drive. הזינו את כתובת ה-WebDAV מ-Everdisk, למשל http://192.168.1.20:8080, ואז הזינו את ההתחברות שלכם אם הגדרתם. אם Windows לא מתחבר, ודאו ששירות ה-WebClient פועל (חפשו Services, מצאו את WebClient, הפעילו אותו) ונסו שוב.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="האם אפשר להשתמש ב-WebDAV בין שני אייפונים?" closed="true" %}}
+{{% ls-details title="האם אפשר להשתמש ב-WebDAV בין שני אייפונים?" closed="true" %}}
 כן, אבל לאפליקציית Files של iOS אין לקוח WebDAV, ולכן השתמשו ב-Everdisk במכשיר השני. פתחו את לשונית מכשירים, הקישו על חיבור חדש, בחרו WebDAV, והזינו את הכתובת שמוצגת בטלפון הראשון. אפליקציית WebDAV כמו Documents by Readdle עובדת גם היא.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="האם WebDAV צריך סיסמה?" closed="true" %}}
+{{% ls-details title="האם WebDAV צריך סיסמה?" closed="true" %}}
 לא, ההתחברות אופציונלית. השאירו את ההתחברות והסיסמה ריקות בהגדרות, שיתוף, גישה לגישת אורח, או הגדירו אותן אם אתם רוצים שחיבורים ייכנסו למערכת.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="האם אנשים אחרים יכולים לשנות את הקבצים שלי דרך WebDAV?" closed="true" %}}
+{{% ls-details title="האם אנשים אחרים יכולים לשנות את הקבצים שלי דרך WebDAV?" closed="true" %}}
 רק אם תאפשרו זאת. מתג עריכת קבצים בהגדרות, שיתוף, גישה שולט בזה. מופעל מאפשר למכשירים מחוברים להעלות, לשנות שם ולמחוק. כבוי הופך את הכונן לקריאה בלבד, כך שאחרים יכולים לצפות ולהעתיק אך לא לשנות דבר.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="WebDAV או SMB, מה ההבדל?" closed="true" %}}
+{{% ls-details title="WebDAV או SMB, מה ההבדל?" closed="true" %}}
 שניהם מחברים את ה-iPhone שלכם ככונן רשת. WebDAV רץ על פרוטוקול האינטרנט ומתחבר בצורה נקייה מ-File Explorer ב-Windows, וזה כוחו העיקרי. SMB הוא שיתוף הקבצים המקורי ב-Mac, ב-Linux ובמכשירי NAS, בדרך כלל מהיר יותר ב-Mac, והוא החיבור היחיד של Everdisk שיכול להצפין העברות. Everdisk יכולה להריץ את שניהם בבת אחת.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="למה כונן ה-WebDAV שלי מתנתק?" closed="true" %}}
+{{% ls-details title="למה כונן ה-WebDAV שלי מתנתק?" closed="true" %}}
 ה-iPhone שלכם הוא השרת, ו-iOS משהה אפליקציות שנשארות ברקע יותר מדי זמן. השאירו את Everdisk פתוחה על המסך בזמן שמכשיר מחובר, וחברו לחשמל להעברות ארוכות. ודאו גם ששני המכשירים עדיין באותה רשת Wi-Fi.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="האם אפשר להתחבר דרך WebDAV בלי Wi-Fi?" closed="true" %}}
+{{% ls-details title="האם אפשר להתחבר דרך WebDAV בלי Wi-Fi?" closed="true" %}}
 כן, אם אתם מחברים את ה-iPhone שלכם ל-Mac בכבל. Everdisk אז מציגה כתובת חיבור בכבל נוספת שה-Mac המחובר יכול לפתוח ב-Finder, שעובדת גם בלי Wi-Fi בכלל. בכבל, רק אותו Mac יכול להגיע למכשיר.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="האם Everdisk בחינם?" closed="true" %}}
+{{% ls-details title="האם Everdisk בחינם?" closed="true" %}}
 כן, את Everdisk אפשר להוריד בחינם ושרת ה-WebDAV כלול. רכישת Premium חד פעמית ואופציונלית מוסיפה תוספות כמו פורטים מותאמים אישית והמרת תמונות וסרטונים. אפשר להקים WebDAV ולשתף קבצים בלי לשלם.
-{{% /details %}}
+{{% /ls-details %}}
 
 מוכנים לנסות? [הורידו את Everdisk מ-App Store](https://apps.apple.com/app/apple-store/id6751851132?pt=95781850&ct=everappzcom&mt=8) וחברו את ה-iPhone שלכם ככונן תוך כמה דקות. שאלות או משוב? כתבו לנו ל-**support@everappz.com**.

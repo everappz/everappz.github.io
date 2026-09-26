@@ -14,7 +14,7 @@ authors:
     image: "/images/about/artem-meleshko-founder-everappz.webp"
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 **TL;DR:** Se det officiella Evermusic-reklamvideon för att se molnmusikstreaming, offlineuppspelning och ljudanpassning i aktion på iPhone och Mac.
 
@@ -24,7 +24,7 @@ Vi är glada att dela det officiella Evermusic-reklamvideon, skapat med passion 
 
 Se Evermusic i aktion -- streaming av musik från molnet, hantering av spellistor och leverans av högkvalitativt ljud på iPhone:
 
-{{< youtubecard id="6mm3LVT4rtA" title="Evermusic Promo Video" >}}
+{{< ls-youtubecard id="6mm3LVT4rtA" title="Evermusic Promo Video" >}}
 
 ## Vad du ser i videon
 
@@ -41,14 +41,14 @@ Om du gillar videon, dela den med dina vänner och musikälskare.
 
 ## FAQ
 
-{{% details title="Vad är Evermusic?" closed="true" %}}
+{{% ls-details title="Vad är Evermusic?" closed="true" %}}
 Evermusic är en musikspelare för iOS och macOS som streamar ljud från molntjänster som Dropbox, Google Drive, OneDrive och iCloud Drive. Den stöder även offlineuppspelning och inkluderar en inbyggd equalizer.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Vilka molntjänster stöder Evermusic?" closed="true" %}}
+{{% ls-details title="Vilka molntjänster stöder Evermusic?" closed="true" %}}
 Evermusic ansluter till Dropbox, Google Drive, OneDrive, iCloud Drive, pCloud, Yandex.Disk och flera andra molnlagringsleverantörer.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Är Evermusic gratis?" closed="true" %}}
+{{% ls-details title="Är Evermusic gratis?" closed="true" %}}
 Evermusic är gratis att ladda ner med valfria premiumfunktioner tillgängliga via köp i appen.
-{{% /details %}}
+{{% /ls-details %}}

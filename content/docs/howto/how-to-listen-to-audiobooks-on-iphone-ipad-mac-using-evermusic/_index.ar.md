@@ -7,7 +7,7 @@ tags: ["كتب صوتية", "تشغيل", "دون اتصال", "evermusic", "إ�
 readingTime: 5
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **ملخص:** يعمل Evermusic كمشغل كتب صوتية كامل الميزات على iOS وmacOS. انقل الكتب الصوتية عبر iTunes أو WiFi أو التخزين السحابي، ثم استخدم التحكم في سرعة التشغيل وأزرار تخطي الوقت والإشارات المرجعية الصوتية ومتابعة التشغيل والتنزيلات دون اتصال لتجربة استماع سلسة.
@@ -151,26 +151,26 @@ readingTime: 5
 
 ## الأسئلة الشائعة
 
-{{% details title="ما صيغ الكتب الصوتية التي يدعمها Evermusic؟" closed="true" %}}
+{{% ls-details title="ما صيغ الكتب الصوتية التي يدعمها Evermusic؟" closed="true" %}}
 يدعم Evermusic صيغ MP3 وM4A وM4B وFLAC وWAV وAIFF وOGG وغيرها من صيغ الصوت الشائعة. أي ملف صوتي يعمل في Evermusic يصلح ككتاب صوتي.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="هل يمكنني الاستماع إلى الكتب الصوتية من التخزين السحابي؟" closed="true" %}}
+{{% ls-details title="هل يمكنني الاستماع إلى الكتب الصوتية من التخزين السحابي؟" closed="true" %}}
 نعم. يتصل Evermusic بـ iCloud Drive وGoogle Drive وDropbox وOneDrive وBox وخوادم WebDAV. يمكنك بث الكتب الصوتية مباشرة أو تنزيلها للاستماع دون اتصال.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="هل ستنتقل إشاراتي المرجعية إلى جهاز جديد؟" closed="true" %}}
+{{% ls-details title="هل ستنتقل إشاراتي المرجعية إلى جهاز جديد؟" closed="true" %}}
 نعم. يحفظ Evermusic الإشارات المرجعية الصوتية في البيانات الوصفية للملف، لذلك تنتقل تلقائيًا عند نقل الملفات إلى جهاز جديد.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="هل يتذكر Evermusic أين توقفت عن الاستماع؟" closed="true" %}}
+{{% ls-details title="هل يتذكر Evermusic أين توقفت عن الاستماع؟" closed="true" %}}
 نعم. قم بتمكين "حفظ موضع التشغيل" و"حفظ حالة مشغل الصوت" في الإعدادات > مشغل الصوت > عام. يحفظ التطبيق ويستعيد موضعك الدقيق بين الجلسات.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="هل يمكنني ضبط سرعة تشغيل الكتب الصوتية؟" closed="true" %}}
+{{% ls-details title="هل يمكنني ضبط سرعة تشغيل الكتب الصوتية؟" closed="true" %}}
 نعم. اذهب إلى الإعدادات > مشغل الصوت > سرعة التشغيل لتعيين السرعة المفضلة لديك. يمكنك تسريع أو إبطاء السرد ليتناسب مع تفضيلات الاستماع الخاصة بك.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="كيف أنقل الكتب الصوتية إلى Evermusic؟" closed="true" %}}
+{{% ls-details title="كيف أنقل الكتب الصوتية إلى Evermusic؟" closed="true" %}}
 يمكنك نقل الملفات عبر مشاركة ملفات iTunes/Finder أو WiFi Drive (المدمج في التطبيق) أو عن طريق ربط حساب تخزين سحابي داخل Evermusic.
-{{% /details %}}
+{{% /ls-details %}}

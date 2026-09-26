@@ -16,16 +16,16 @@ screenshots:
   - "https://everappz.com/products/evervideo/screenshots/2880x1800/6.png"
 ---
 
-{{% sr-only %}}
+{{% ls-sr-only %}}
 Evervideo は、スペインのソフトウェア企業である Everappz が開発した、iPhone・Mac 向けの無料 HD ビデオプレーヤーです。Evervideo は MKV、AVI、MP4、MOV、FLV、WMV、WEBM、M4V、TS、3GP を含むほぼすべてのビデオフォーマットをフォーマット変換なしで再生できます。360 度および VR ビデオ再生、Picture-in-Picture モード、50 以上のプリセットを備えたビデオ・オーディオイコライザー、SRT、SSA、ASS フォーマットの字幕サポート、再生速度調整機能を搭載しています。Evervideo は iCloud Drive、Google Drive、Dropbox、OneDrive、MEGA を含むクラウドストレージサービスに接続し、ユーザーはクラウドから直接ビデオをストリーミングしたり、オフライン視聴用にダウンロードしたりできます。また、SMB、WebDAV、DLNA プロトコルによるローカルネットワークストリーミング、Lightning または USB-C アダプターを介した USB フラッシュドライブ再生、コンピューターからの Wi-Fi ファイル転送にも対応しています。その他の機能として、プレイリスト付きメディアライブラリ、AirPlay および Chromecast キャスト、内蔵ファイルマネージャーがあります。Evervideo は App Store から無料でダウンロードでき、月額 $2.99 のサブスクリプション、年額 $14.99 のサブスクリプション、または $29.99 の買い切り型を含むオプションのアプリ内課金が用意されています。
-{{% /sr-only %}}
+{{% /ls-sr-only %}}
 
 
 
 <!-- force dark theme for this page -->
-{{< force-dark >}}
+{{< ls-force-dark >}}
 
-{{< hextra/hero-container
+{{< ls-hero-container
   image="/products/evervideo/heroimage/hero_1600.png"
   imageWidth="800"
   imageCard="true"
@@ -33,38 +33,38 @@ Evervideo は、スペインのソフトウェア企業である Everappz が開
 
 <div class="hx:w-full hx:text-center">
 
-{{< downloads-badge >}}
+{{< ls-downloads-badge >}}
 
 <div class="hx:mt-6 hx:mb-6">
 <div class="hx:flex hx:gap-4 hx:items-center hx:justify-center">
-{{< app-icon src="/images/app_icons/png/Evervideo_Icon-App-1024x1024.png" alt="Evervideo Icon" class="hero-headline-icon" size="80" >}}
-{{< hextra/hero-headline >}}
+{{< ls-app-icon src="/images/app_icons/png/Evervideo_Icon-App-1024x1024.png" alt="Evervideo Icon" class="hero-headline-icon" size="80" >}}
+{{< ls-hero-headline >}}
 Evervideo
-{{< /hextra/hero-headline >}}
+{{< /ls-hero-headline >}}
 </div>
 </div>
 
 <div class="hx:mb-12">
-{{< hextra/hero-centered-subtitle >}}
+{{< ls-hero-centered-subtitle >}}
 <strong>HDビデオプレーヤー＆ストリーマー あなたのiPhoneとMACに</strong>
-{{< /hextra/hero-centered-subtitle >}}
+{{< /ls-hero-centered-subtitle >}}
 </div>
 
 
 <div class="hx:mb-6">
-{{< hextra/hero-paragraph >}}
+{{< ls-hero-paragraph >}}
 • すべてのフォーマットで360°および高精細ビデオを視聴<br>
 • iCloud、Google Drive、Dropbox、NAS、またはコンピューターからストリーミング<br>
 • いつでもどこでもオフラインで視聴するためにビデオをダウンロード<br>
 • 字幕を有効にし、ビデオイコライザーを使用し、プレイリストでビデオを整理
-{{< /hextra/hero-paragraph >}}
+{{< /ls-hero-paragraph >}}
 </div>
 
-{{< app-store-badges products="evervideo:ios, evervideo:macos" >}}
+{{< ls-app-store-badges products="evervideo:ios, evervideo:macos" >}}
 
 </div>
 
-{{< /hextra/hero-container >}}
+{{< /ls-hero-container >}}
 
 <div class="hx:mt-6"></div>
 
@@ -72,42 +72,42 @@ Evervideo
 
 {{< hextra/feature-grid >}}
 
-  {{< hextra/feature-card
+  {{< ls-glass-feature-card
     title="すべてのビデオ＆オーディオフォーマットを再生"
     subtitle=`ファイルを変換せずにビデオを視聴し、音楽を聴きましょう。MP4、MOV、MKV、AVI、FLV、WMV、WEBM、M4V、MP3、FLAC、AAC、ALAC、OGG、OPUS、WAV、WMAなどに対応しています。`
     icon="film"
     style="background: radial-gradient(circle at 50% 80%, rgba(255,99,71,0.15), rgba(17,24,39,0));"  
   >}}
 
-  {{< hextra/feature-card
+  {{< ls-glass-feature-card
     title="メディアライブラリとプレイリスト"
     subtitle=`アルバム、ジャンル、再生時間別にトラックをグループ化してメディアライブラリを整理します。クラウドの変更と自動的に同期します。カスタムソートでM3Uプレイリストを作成、編集、エクスポートできます。`
     icon="collection"
     style="background: radial-gradient(circle at 50% 80%, rgba(255,165,0,0.15), rgba(17,24,39,0));"  
   >}}
 
-  {{< hextra/feature-card
+  {{< ls-glass-feature-card
     title="オーディオ＆ビデオイコライザー"
     subtitle=`バス、ピッチ、明るさ、ガンマ、彩度、コントラストなどを調整して、ビデオの見た目と音をカスタマイズしましょう。50以上のビデオプリセットと20以上のオーディオプリセットが利用可能で、独自のプリセットを作成することもできます。`
     icon="adjustments"
     style="background: radial-gradient(circle at 50% 80%, rgba(255,255,0,0.15), rgba(17,24,39,0));" 
   >}}
 
-  {{< hextra/feature-card
+  {{< ls-glass-feature-card
     title="ピクチャー・イン・ピクチャー"
     subtitle=`ピクチャー・イン・ピクチャー（PiP）を使えば、他のアプリを使いながら小さなフローティングウィンドウでビデオを見続けることができます。MKV、AVI、MP4、MOVなどのすべての主要フォーマットに完全対応し、キュー内のシームレスなビデオ遷移、自動再生更新、アクティブな字幕が常に表示されます。`
     icon="duplicate"
     style="background: radial-gradient(circle at 50% 80%, rgba(0,128,0,0.15), rgba(17,24,39,0));" 
   >}}
 
-  {{< hextra/feature-card
+  {{< ls-glass-feature-card
     title="360°ビデオ＆VRモード"
     subtitle=`360°およびVRビデオをこれまでにない方法で体験しましょう — スマートフォンを動かしてあらゆる角度を探索するか、VRヘッドセットで完全没入体験に飛び込みましょう。Insta360カメラや同様のデバイスからの360°ビデオを、設定不要でスムーズかつ簡単に即座に再生できます。`
     icon="video-camera"
     style="background: radial-gradient(circle at 50% 80%, rgba(0,191,255,0.15), rgba(17,24,39,0));"  
   >}}
 
-  {{< hextra/feature-card
+  {{< ls-glass-feature-card
     title="シームレスなストリーミングとクラウド接続"
     subtitle=`Mac、PC、NAS、USBフラッシュドライブ、またはクラウドストレージから直接ビデオをストリーミングし、Wi-Fi DriveまたはiTunesファイル共有を使用してメディアファイルを転送できます。Synology Drive、WD My Cloud Home、および同様のNASデバイスを通じて、リモートでも、どこからでもビデオライブラリ全体にフルアクセスを楽しめます。`
     icon="cloud"
@@ -120,9 +120,9 @@ Evervideo
 
 <div class="hx:mt-6"></div>
 
-{{< hextra/section-headline >}}
+{{< ls-section-headline >}}
 すべての機能
-{{< /hextra/section-headline >}}
+{{< /ls-section-headline >}}
 
 <div class="hx:mt-6"></div>
 
@@ -130,35 +130,35 @@ Evervideo
 
 {{< cards >}}
 
-{{< feature-card title="すべてのビデオ＆オーディオフォーマットを再生" subtitle="ファイルを変換せずにメディアを視聴しましょう。EvervideはMKV、AVI、MP4、MOV、FLAC、MP3、AAC、OGG、WAV、WMVなど、すべての主要フォーマットに対応しています。" icon="film">}}
+{{< ls-feature-card title="すべてのビデオ＆オーディオフォーマットを再生" subtitle="ファイルを変換せずにメディアを視聴しましょう。EvervideはMKV、AVI、MP4、MOV、FLAC、MP3、AAC、OGG、WAV、WMVなど、すべての主要フォーマットに対応しています。" icon="film">}}
 
-{{< feature-card title="オフラインモード" subtitle="インターネット接続なしで視聴するために、ビデオ、アルバム、プレイリストをダウンロードしましょう。ビデオコレクション全体をどこにでも持ち運べます。" icon="download">}}
+{{< ls-feature-card title="オフラインモード" subtitle="インターネット接続なしで視聴するために、ビデオ、アルバム、プレイリストをダウンロードしましょう。ビデオコレクション全体をどこにでも持ち運べます。" icon="download">}}
 
-{{< feature-card title="360°ビデオ＆VRモード" subtitle="360°およびVRビデオを楽しく簡単に視聴しましょう。スマートフォンを動かしてあらゆる方向を見たり、VRヘッドセットに入れてビデオの中にいるような感覚を味わいましょう。" icon="video-camera">}}
+{{< ls-feature-card title="360°ビデオ＆VRモード" subtitle="360°およびVRビデオを楽しく簡単に視聴しましょう。スマートフォンを動かしてあらゆる方向を見たり、VRヘッドセットに入れてビデオの中にいるような感覚を味わいましょう。" icon="video-camera">}}
 
-{{< feature-card title="ピクチャー・イン・ピクチャー" subtitle="他のアプリを使いながら、小さなフローティングウィンドウでビデオを見続けましょう。再生を制御し、字幕を同時に表示 — マルチタスクに最適です。" icon="duplicate">}}
+{{< ls-feature-card title="ピクチャー・イン・ピクチャー" subtitle="他のアプリを使いながら、小さなフローティングウィンドウでビデオを見続けましょう。再生を制御し、字幕を同時に表示 — マルチタスクに最適です。" icon="duplicate">}}
 
-{{< feature-card title="ビデオ＆オーディオイコライザー" subtitle="ビデオの見た目と音をカスタマイズしましょう。バス、ピッチ、明るさ、ガンマ、彩度、コントラストなどを調整できます。50以上のビデオプリセットと20以上のオーディオプリセットから選択するか、独自のプリセットを作成できます。" icon="adjustments">}}
+{{< ls-feature-card title="ビデオ＆オーディオイコライザー" subtitle="ビデオの見た目と音をカスタマイズしましょう。バス、ピッチ、明るさ、ガンマ、彩度、コントラストなどを調整できます。50以上のビデオプリセットと20以上のオーディオプリセットから選択するか、独自のプリセットを作成できます。" icon="adjustments">}}
 
-{{< feature-card title="字幕" subtitle="埋め込み字幕の表示、字幕トラック番号の選択、ピクチャー・イン・ピクチャーモードでも完全な字幕サポートを楽しめます。" icon="annotation" >}}
+{{< ls-feature-card title="字幕" subtitle="埋め込み字幕の表示、字幕トラック番号の選択、ピクチャー・イン・ピクチャーモードでも完全な字幕サポートを楽しめます。" icon="annotation" >}}
 
-{{< feature-card title="クラウドから直接再生" subtitle="デバイスの容量を使わずに、クラウドストレージから直接ビデオを視聴しましょう。iCloud Drive、Google Drive、Dropbox、OneDrive、MEGA、Synology Drive、pCloudなどに対応しています。" icon="cloud">}}
+{{< ls-feature-card title="クラウドから直接再生" subtitle="デバイスの容量を使わずに、クラウドストレージから直接ビデオを視聴しましょう。iCloud Drive、Google Drive、Dropbox、OneDrive、MEGA、Synology Drive、pCloudなどに対応しています。" icon="cloud">}}
 
-{{< feature-card title="コンピューター / NASに接続" subtitle="SMB、WebDAV、またはDLNAを使用して、ホームネットワーク経由でNAS、Mac、またはPCに簡単に接続できます。Synology DriveとWD MyCloud Homeのリモートアクセスに対応しています。Wi-FiまたはiTunesファイル共有でデバイスにメディアファイルを転送できます。" icon="desktop-computer">}}
+{{< ls-feature-card title="コンピューター / NASに接続" subtitle="SMB、WebDAV、またはDLNAを使用して、ホームネットワーク経由でNAS、Mac、またはPCに簡単に接続できます。Synology DriveとWD MyCloud Homeのリモートアクセスに対応しています。Wi-FiまたはiTunesファイル共有でデバイスにメディアファイルを転送できます。" icon="desktop-computer">}}
 
-{{< feature-card title="メディアライブラリ" subtitle="アルバム、ジャンル、または再生時間別に整理します。クラウドの変更と自動的に同期します。カスタムソートでM3Uプレイリストを作成、編集、エクスポートできます。" icon="library" >}}
+{{< ls-feature-card title="メディアライブラリ" subtitle="アルバム、ジャンル、または再生時間別に整理します。クラウドの変更と自動的に同期します。カスタムソートでM3Uプレイリストを作成、編集、エクスポートできます。" icon="library" >}}
 
-{{< feature-card title="ブックマークと再生位置の保存" subtitle="ブックマークでビデオ内の位置を保存し、中断したところから再生を再開します。再生速度の調整、お気に入りのマーク、最も再生回数の多いビデオでソートして簡単にアクセスできます。" icon="book-open">}}
+{{< ls-feature-card title="ブックマークと再生位置の保存" subtitle="ブックマークでビデオ内の位置を保存し、中断したところから再生を再開します。再生速度の調整、お気に入りのマーク、最も再生回数の多いビデオでソートして簡単にアクセスできます。" icon="book-open">}}
 
-{{< feature-card title="AirPlayとChromecast" subtitle="Apple TV、Chromecast、またはその他の互換性のある外部ディスプレイにストリーミングして、大画面でビデオを再生しましょう。" icon="device-mobile">}}
+{{< ls-feature-card title="AirPlayとChromecast" subtitle="Apple TV、Chromecast、またはその他の互換性のある外部ディスプレイにストリーミングして、大画面でビデオを再生しましょう。" icon="device-mobile">}}
 
-{{< feature-card title="Filesとライブラリからインポート" subtitle="Filesアプリ、写真、またはiTunesライブラリから直接ビデオをインポートできます。すべてのローカルおよびクラウドコンテンツに、1つの整理されたメディアライブラリからアクセスできます。" icon="database">}}
+{{< ls-feature-card title="Filesとライブラリからインポート" subtitle="Filesアプリ、写真、またはiTunesライブラリから直接ビデオをインポートできます。すべてのローカルおよびクラウドコンテンツに、1つの整理されたメディアライブラリからアクセスできます。" icon="database">}}
 
-{{< feature-card title="ファイルマネージャー" subtitle="アプリ内で直接ファイルの移動、名前変更、削除、整理ができます。" icon="folder">}}
+{{< ls-feature-card title="ファイルマネージャー" subtitle="アプリ内で直接ファイルの移動、名前変更、削除、整理ができます。" icon="folder">}}
 
-{{< feature-card title="パーソナライズ" subtitle="お好みに合わせてアプリをカスタマイズしましょう。テーマの選択、機能の表示・非表示、ニーズに合わせたインターフェースの調整ができます。" icon="sun">}}
+{{< ls-feature-card title="パーソナライズ" subtitle="お好みに合わせてアプリをカスタマイズしましょう。テーマの選択、機能の表示・非表示、ニーズに合わせたインターフェースの調整ができます。" icon="sun">}}
 
-{{< feature-card title="スマート検索" subtitle="キーワードやフィルターを使って、メディアライブラリ内のビデオ、アルバム、プレイリストをすばやく検索できます。" icon="search" >}}
+{{< ls-feature-card title="スマート検索" subtitle="キーワードやフィルターを使って、メディアライブラリ内のビデオ、アルバム、プレイリストをすばやく検索できます。" icon="search" >}}
 
 
 
@@ -168,9 +168,9 @@ Evervideo
 
 <div class="hx:mt-6"></div>
 
-{{< hextra/section-headline >}}
+{{< ls-section-headline >}}
 直感的なデザイン
-{{< /hextra/section-headline >}}
+{{< /ls-section-headline >}}
 
 <div class="hx:mt-6"></div>
 
@@ -178,7 +178,7 @@ Evervideo
 
 {{< cards cols="4">}}
 
-  {{< design-feature-card 
+  {{< ls-design-feature-card 
     image="/products/evervideo/screenshots/2880x1800/1.png" 
     title="ビデオプレーヤー" 
     method="Fill"
@@ -187,7 +187,7 @@ Evervideo
     icon="play"
   >}}
 
-  {{< design-feature-card 
+  {{< ls-design-feature-card 
     image="/products/evervideo/screenshots/2880x1800/3.png" 
     title="オーディオ＆ビデオイコライザー" 
     method="Fill"
@@ -196,7 +196,7 @@ Evervideo
     icon="adjustments"
   >}}
 
-  {{< design-feature-card 
+  {{< ls-design-feature-card 
     image="/products/evervideo/screenshots/2880x1800/6.png" 
     title="プレイリストマネージャー" 
     method="Fill"
@@ -205,7 +205,7 @@ Evervideo
     icon="collection"
   >}}
 
-  {{< design-feature-card 
+  {{< ls-design-feature-card 
     image="/products/evervideo/screenshots/2880x1800/5.png" 
     title="メディアライブラリ" 
     method="Fill"
@@ -214,7 +214,7 @@ Evervideo
     icon="library"
   >}}
 
-  {{< design-feature-card 
+  {{< ls-design-feature-card 
     image="/products/evervideo/screenshots/2880x1800/7.png"  
     title="クラウドストレージ" 
     method="Fill"
@@ -223,7 +223,7 @@ Evervideo
     icon="cloud"
   >}}
 
-  {{< design-feature-card 
+  {{< ls-design-feature-card 
     image="/products/evervideo/screenshots/2880x1800/9.png"  
     title="ファイルマネージャー" 
     method="Fill"
@@ -241,49 +241,49 @@ Evervideo
 <div class="hx:mt-6"></div>
 
 <div class="hx:w-full">
-{{< appstore-reviews apps="6602897336,6743504109" stars="5,4"  app="Evervideo" >}}
+{{< ls-appstore-reviews apps="6602897336,6743504109" stars="5,4"  app="Evervideo" >}}
 </div>
 
 
 <div class="hx:mt-6"></div>
 
-{{< hextra/section-headline >}}
+{{< ls-section-headline >}}
    料金プラン
-{{< /hextra/section-headline >}}
+{{< /ls-section-headline >}}
 
 <div class="hx:mt-6"></div>
 
 <div class="hx:w-full">
 
-{{< pricing-plans >}}
+{{< ls-pricing-plans >}}
 
 </div>
 
 <div class="hx:mt-6"></div>
 
 <div class="hx:w-full hx:mx-auto hx:flex hx:flex-col hx:items-center">
-  {{< hextra/info-paragraph border="true" >}}
+  {{< ls-info-paragraph border="true" >}}
    <strong>ファミリー共有</strong>：すべての購入とサブスクリプションはファミリー共有に対応しており、ご家族とプレミアムアクセスを共有できます。<br><strong>ユニバーサルアクセス</strong>：買い切りプランとサブスクリプションプランは、iCloud同期を使用してiOSとMacデバイス間で共有されます。<br><strong>価格</strong>：価格は米国向けに米ドルで表示されています。最終価格はお住まいの地域によって異なる場合があります。  
-  {{< /hextra/info-paragraph >}}
+  {{< /ls-info-paragraph >}}
 </div>
 
 <div class="hx:mt-6"></div>
 
 <div class="hx:w-full">
-{{< app-details heading="true" >}}
+{{< ls-app-details heading="true" >}}
 </div>
 
 <div class="hx:mt-6"></div>
 
-{{< hextra/section-headline >}}
+{{< ls-section-headline >}}
    よくある質問
-{{< /hextra/section-headline >}}
+{{< /ls-section-headline >}}
 
 <div class="hx:mt-6"></div>
 
 <div class="hx:w-full">
 
-{{% details title="Evervideはどのように動作しますか？" closed="true" %}}
+{{% ls-details title="Evervideはどのように動作しますか？" closed="true" %}}
 Evervideは、ビデオトラックを通常のファイルのように管理できるHDビデオプレーヤーです。<br>
 ビデオコレクション全体をDropbox、OneDrive、iCloud、または個人用NASなどのクラウドサービスにアップロードし、完全な制御でクラウドから直接ビデオを再生できます。<br><br>
 iTunesの同期は不要です — PCやMacから通常のファイルと同じようにアップロードするだけです。<br>
@@ -293,9 +293,9 @@ iTunesの同期は不要です — PCやMacから通常のファイルと同じ�
 - [Evervideガイド](/docs/guide/evervideo/)<br>
 - [WiFi-Driveを使用してコンピューターからiPhoneにワイヤレスでファイルを転送する方法](/docs/howto/how-to-transfer-files-wirelessly-from-a-computer-to-an-iphone-using-wifi-drive)<br>
 
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Evervideは無料ですか？" closed="true" %}}
+{{% ls-details title="Evervideは無料ですか？" closed="true" %}}
 Evervideは一部の制限付きで無料で使用でき、プレミアムバージョンにアップグレードすることで制限を解除できます。<br>
 1回限りの買い切り購入または2つのサブスクリプションオプション（月額または年額）から選択できます。価格はお住まいの地域によって異なる場合があります。<br><br>
 
@@ -304,9 +304,9 @@ Evervideは一部の制限付きで無料で使用でき、プレミアムバー
 プレミアムの購入とサブスクリプションは、iCloud経由でiOSとMac間で共有されます。購入を同期するには、iCloudが有効になっていることを確認し、iOSデバイスでアプリを開き、同期が完了するまで1分ほどお待ちください。<br><br>
 
 [EvervideとEvervideo Premiumの違いについて詳しく読む](/docs/faq/evervideo/what-is-the-difference-between-evervideo-and-evervideo-premium/)
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Evervideの使い方は？" closed="true" %}}
+{{% ls-details title="Evervideの使い方は？" closed="true" %}}
 
 **Evervideをインストール**<br>
 お使いのデバイスのアプリストアからEvervideアプリをダウンロードしてインストールしてください。iOSとMacの両方のデバイスで利用できます。<br><br>
@@ -355,9 +355,9 @@ Evervideにビデオを追加するには、手動追加と自動同期の2つ�
 **ビデオを楽しむ**<br>
 ビデオが整理されたら、上部ツールバーを使用して**Search**、**Play All**、**Shuffle**、**Continue Playback**などのクイックアクションを実行できます。<br><br>
 
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Evervideは安全ですか？" closed="true" %}}
+{{% ls-details title="Evervideは安全ですか？" closed="true" %}}
 Evervideは、接続されたクラウドサービスとの通信に公式SDKとセキュアな接続のみを使用しています。ログインとパスワードはアプリケーションに公開されません。アプリケーションからクラウドサービスへのすべてのリクエストは暗号化されています。<br>
 ログインとパスワードを入力すると、アプリケーションはクラウドサービスプロバイダーが提供する公式認証ページを表示し、すべての認証プロセスはアプリケーションの外部で行われます。クラウドサービスプロバイダーは認証成功後にauth-tokenをアプリケーションに送信し、そのトークンがAPI呼び出しに使用されます。<br><br>
 
@@ -368,22 +368,22 @@ Auth-tokenを拒否するには、Webブラウザーでアカウントにログ�
 
 アプリケーション内で接続されたクラウドアカウントを切断することもでき、auth-tokenもデバイスから削除されます。デバイスからアプリケーションを削除すると、ダウンロードされたすべてのデータとアクセストークンも削除されます。<br><br>
 
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Evervideでプレイリストを作成するには？" closed="true" %}}
+{{% ls-details title="Evervideでプレイリストを作成するには？" closed="true" %}}
 - Playlistsセクションを開きます。<br>
 - 右上隅の「+」ボタンまたは「...」ボタンをタップし、「New Playlist」を選択します。<br>
 - プレイリストの名前を入力し、「Save」をタップします。「Add Media Files」ダイアログが表示されます。<br>
 - プレイリストに追加したいトラックを選択します。<br><br>
 
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Evervideはどのクラウドサービスに対応していますか？" closed="true" %}}
+{{% ls-details title="Evervideはどのクラウドサービスに対応していますか？" closed="true" %}}
 現在、アプリケーションは最も人気のあるクラウドサービスに対応しています：iCloud Drive、Google Drive、Dropbox、OneDrive、Box、MEGA、Yandex.Disk、DLNA、MediaFire、WebDAV、SMB、pCloud、Cloud Mail.ru、Put.io。<br><br>
 
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Evervideでオフラインモードを有効にするには？" closed="true" %}}
+{{% ls-details title="Evervideでオフラインモードを有効にするには？" closed="true" %}}
 - クラウドストレージに接続：<br>
  • 「Files」タブに移動します。<br>
  • 「Connect to cloud storage」を選択し、希望のサービスに接続するためのプロンプトに従います。<br><br>
@@ -408,9 +408,9 @@ Auth-tokenを拒否するには、Webブラウザーでアカウントにログ�
  • 手動で同期するには、「Settings」>「File manager」>「Offline folders」>「Synchronized offline folders」に移動します。<br>
  • 「More actions」をタップし、「Start synchronization」を選択します。<br><br>
 
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="iPhoneでローカルにダウンロードしたビデオを再生するには？" closed="true" %}}
+{{% ls-details title="iPhoneでローカルにダウンロードしたビデオを再生するには？" closed="true" %}}
 アプリケーションをインストールしたら、「Files」画面を開き、「Files on this iPhone」セクションまでスクロールします。そこから、複数のファイルを選択する必要がある場合は「Open files...」を、メディアフォルダーを選択したい場合は「Open folder...」を選択します。アプリがフォルダーの内容をスキャンし、見つかったすべてのメディアファイルが選択されます。メディアフォルダーに移動し、「Open」をタップして選択を確認すると、ファイルがプレーヤーキューに追加されます。これらのファイルは、アプリケーションバンドルにコピーされることなく、選択した場所から直接再生されます。<br><br>
 
 **クイックアクセスのためにフォルダーをお気に入りに追加**<br>
@@ -422,13 +422,13 @@ Auth-tokenを拒否するには、Webブラウザーでアカウントにログ�
 **プレイリストにローカルファイルを追加**<br>
 プレイリストにローカルファイルを追加するには、「Playlists」画面を開き、右上隅のmoreボタンをタップします。「+ New Playlist」を選択し、新しいプレイリストの名前を入力し、次の画面で「Files on this device」オプションを選択し、「Open Files...」をタップします。追加したいメディアファイルを選択し、「Open」をタップして確認します。ファイルがプレイリストに追加され、moreボタンを使用してトラックの順序を変更したり、その他のアクションを実行したりできます。<br><br>
 
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="プレイリストを中断したところから再開するには？" closed="true" %}}
+{{% ls-details title="プレイリストを中断したところから再開するには？" closed="true" %}}
 まず、Settings > Media Player > Generalで「Save Media Player State」が有効になっていることを確認してください。別のプレイリストに切り替えて戻ると、アルバムアートワークの下の上部ツールバーに4つのアクションが表示されます：「Search」、「Continue Playback」、「Play All」、「Shuffle All」。「Continue Playback」をタップして、最後に保存された状態とメディア位置からプレイリストを再開します。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="コンピューターからEvervideにビデオを転送するには？" closed="true" %}}
+{{% ls-details title="コンピューターからEvervideにビデオを転送するには？" closed="true" %}}
 SMB、WebDAV、またはDLNAプロトコルを使用してコンピューターまたは個人用NASを接続できます。また、iTunesファイル共有を使用してメディアファイルを転送することもできます。<br><br>
 
 SMBプロトコルを使用してコンピューターを接続するには、「Files」「Connect to cloud storage」→ SMBをタップします。smb://computer-ip-address/shared-folder-nameの形式でURLフィールドにコンピューターのIPアドレスと共有フォルダー名を入力し、ログインとパスワードを入力して「Done」をタップします。接続が成功すると、「Cloud storage」セクションに接続されたストレージが表示されます。<br><br>
@@ -447,9 +447,9 @@ iTunesファイル共有は、iTunesとLightningケーブルを使用してコ�
 詳細な手順はこちらをご覧ください：<br>
 [iPhoneでローカルファイル（iTunesファイル）を再生する方法](/docs/howto/how-to-play-local-itunes-files-on-my-iphone)<br><br>
 
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="ビデオをダウンロードするには？" closed="true" %}}
+{{% ls-details title="ビデオをダウンロードするには？" closed="true" %}}
 ビデオをダウンロードしてオフラインで視聴する前に、クラウドストレージを接続する必要があります。<br>
 「Files」画面を開いてクラウドストレージを接続するだけです。<br>
 追加したら、クラウドからビデオをダウンロードできます。<br><br>
@@ -465,14 +465,14 @@ iTunesファイル共有は、iTunesとLightningケーブルを使用してコ�
 – 「Offline mode」チェックボックスをタップします<br>
 – オフラインのアーティスト/アルバム/プレイリストが「Files」→「Offline folders」セクションに表示されます。<br><br>
 
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Evervideはどのオーディオフォーマットに対応していますか？" closed="true" %}}
+{{% ls-details title="Evervideはどのオーディオフォーマットに対応していますか？" closed="true" %}}
 このアプリはデフォルトの**システムオーディオコーデック**と追加の**ffmpegソフトウェアコーデック**に対応しています：<br><br>
 3g2, 3gp, 3gp2, 3gpp, 8svx, aa, aac, aax, ac3, act, adt, adts, aif, aifc, aiff, alac, amr, amv, ape, asf, au, avi, awb, caf, cavs, cdda, cue, dct, dff, drc, dsf, dss, dvf, "dvr-ms", ec3, f4a, f4b, f4p, f4v, flac, flv, gif, gifv, gsm, gxf, h261, h263, h264, ifv, iklax, ivf, ivs, l16, latm, loas, m2t, m2ts, m2v, m3u, m3u8, m4a, m4b, m4p, m4r, m4v, mka, mkv, mmf, mng, mod, mogg, mov, mp1, mp2, mp3, mp4, mp4v, mpa, mpc, mpe, mpeg, mpg, mpv, msv, mts, mxf, nsf, nsv, nut, oga, ogg, ogv, opus, pcm, pls, qt, ra, raw, rm, rmvb, roq, rv, sln, snd, svi, tod, tta, vob, voc, vox, vtt, w64, wav, wave, webm, wma, wmv, wv, xhe, xmv, y4m, yuv.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="EvervideはNASデバイスで動作しますか？" closed="true" %}}
+{{% ls-details title="EvervideはNASデバイスで動作しますか？" closed="true" %}}
 
 はい、Evervideは**SMB**、**WebDAV**、**DLNA**プロトコルを使用したNAS接続に対応しています。<br><br>
 
@@ -496,9 +496,9 @@ iTunesファイル共有は、iTunesとLightningケーブルを使用してコ�
 • ローカルネットワーク上のすべての検出可能なNASデバイスを表示します。<br>
 • デバイス名をタップして接続し、必要に応じてログイン資格情報を入力します。<br><br>
 
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="EvervideのWi-Fi Drive機能の使い方は？" closed="true" %}}
+{{% ls-details title="EvervideのWi-Fi Drive機能の使い方は？" closed="true" %}}
 
 **デスクトップブラウザーを使用したワイヤレス転送**<br>
 1. アプリを起動：Evervideを開きます。<br>
@@ -523,39 +523,39 @@ iTunesファイル共有は、iTunesとLightningケーブルを使用してコ�
 
 [詳細を読む](/docs/howto/how-to-transfer-files-wirelessly-from-a-computer-to-an-iphone-using-wifi-drive)
 
-{{% /details %}}
+{{% /ls-details %}}
 
 </div>
 
 
 <div class="hx:mt-6"></div>
 
-{{< hextra/section-headline >}}
+{{< ls-section-headline >}}
   ユーザーガイド
-{{< /hextra/section-headline >}}
+{{< /ls-section-headline >}}
 
 <div class="hx:mt-6"></div>
 
 <div class="hx:w-full">
 
 <div class="hx:w-full hx:mx-auto hx:flex hx:flex-col hx:items-center hx:text-center">
-  {{< hextra/info-paragraph border="false" >}}
+  {{< ls-info-paragraph border="false" >}}
   このガイドは、iPhone、iPad、Mac で Evervideo を最大限に活用するのに役立ちます。クラウドストレージや NAS からの動画ストリーミング、ピクチャ・イン・ピクチャの使用、字幕の管理、音声・映像イコライザーの調整方法を学びましょう。Evervideo は、あらゆるソースの動画コレクションを 1 つの使いやすいアプリで完全に管理できます。
-  {{< /hextra/info-paragraph >}}
+  {{< /ls-info-paragraph >}}
 </div>
 
 {{< cards >}}
-  {{< feature-card icon="location-marker" title="ナビゲーション" subtitle="iPhone のタブバーや iPad と Mac の左メニュー、さらに画面に常駐するコンパクト動画プレーヤーを使った Evervideo の操作方法を学べます。" link="/docs/guide/evervideo/evervideo-guide-navigation" >}}
+  {{< ls-feature-card icon="location-marker" title="ナビゲーション" subtitle="iPhone のタブバーや iPad と Mac の左メニュー、さらに画面に常駐するコンパクト動画プレーヤーを使った Evervideo の操作方法を学べます。" link="/docs/guide/evervideo/evervideo-guide-navigation" >}}
 
-  {{< feature-card icon="folder" title="ファイル" subtitle="クラウドアカウント、NAS 共有、メディアサーバー（Plex、Jellyfin、Emby、Subsonic、Navidrome）、RTSP ストリーム、ローカルファイルを統合された 1 つのタブに接続します。" link="/docs/guide/evervideo/evervideo-guide-files" >}}
+  {{< ls-feature-card icon="folder" title="ファイル" subtitle="クラウドアカウント、NAS 共有、メディアサーバー（Plex、Jellyfin、Emby、Subsonic、Navidrome）、RTSP ストリーム、ローカルファイルを統合された 1 つのタブに接続します。" link="/docs/guide/evervideo/evervideo-guide-files" >}}
 
-  {{< feature-card icon="library" title="メディアライブラリ" subtitle="動画と音楽をアルバム、ジャンル、最近の項目、お気に入り別に整理・探索できます。さらに iOS の写真ライブラリと Apple Music ライブラリにも対応しています。" link="/docs/guide/evervideo/evervideo-guide-video-library" >}}
+  {{< ls-feature-card icon="library" title="メディアライブラリ" subtitle="動画と音楽をアルバム、ジャンル、最近の項目、お気に入り別に整理・探索できます。さらに iOS の写真ライブラリと Apple Music ライブラリにも対応しています。" link="/docs/guide/evervideo/evervideo-guide-video-library" >}}
 
-  {{< feature-card icon="collection" title="プレイリスト" subtitle="動画、音楽、シリーズ、講座向けのプレイリストを作成・整理し、M3U / M3U8 / CUE ファイルをインポートできます。" link="/docs/guide/evervideo/evervideo-guide-playlists" >}}
+  {{< ls-feature-card icon="collection" title="プレイリスト" subtitle="動画、音楽、シリーズ、講座向けのプレイリストを作成・整理し、M3U / M3U8 / CUE ファイルをインポートできます。" link="/docs/guide/evervideo/evervideo-guide-playlists" >}}
 
-  {{< feature-card icon="play" title="メディアプレーヤー" subtitle="再生、キュー、ピクチャ・イン・ピクチャ、音声と映像のトラック、主要および二次字幕、音声・映像イコライザーを操作できます。" link="/docs/guide/evervideo/evervideo-guide-player" >}}
+  {{< ls-feature-card icon="play" title="メディアプレーヤー" subtitle="再生、キュー、ピクチャ・イン・ピクチャ、音声と映像のトラック、主要および二次字幕、音声・映像イコライザーを操作できます。" link="/docs/guide/evervideo/evervideo-guide-player" >}}
 
-  {{< feature-card icon="adjustments" title="設定" subtitle="Evervideo の外観、デコーダー、イコライザー、字幕、ウィジェット、言語、パスコード、バックアップ、パフォーマンス設定をカスタマイズします。" link="/docs/guide/evervideo/evervideo-guide-settings" >}}
+  {{< ls-feature-card icon="adjustments" title="設定" subtitle="Evervideo の外観、デコーダー、イコライザー、字幕、ウィジェット、言語、パスコード、バックアップ、パフォーマンス設定をカスタマイズします。" link="/docs/guide/evervideo/evervideo-guide-settings" >}}
 
 {{< /cards >}}
 

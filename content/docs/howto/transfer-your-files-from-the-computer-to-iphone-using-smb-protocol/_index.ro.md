@@ -7,7 +7,7 @@ tags: ["cloud", "streaming", "computer", "mp3", "file", "downloader", "manager",
 keywords: ["transfer fișiere pe iPhone SMB", "streaming muzică PC pe iPhone", "conectare Mac la iPhone SMB", "configurare Evermusic SMB", "acces fișiere computer iPhone", "partajare muzică Windows iOS", "transfer fișiere SMB Evermusic"]
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **Rezumat:** Folosiți Evermusic pe iPhone sau iPad pentru a accesa fișierele stocate pe Mac sau PC Windows prin rețeaua locală via SMB. Fără cabluri, fără iTunes, fără încărcare în cloud necesară. Activați partajarea fișierelor pe computer, conectați-vă în aplicație și navigați sau redați fișierele fără fir.
@@ -142,26 +142,26 @@ Cu acești pași, puteți accesa cu ușurință colecția vastă de fișiere de 
 
 ## Întrebări frecvente
 
-{{% details title="Pot accesa fișierele de pe PC de pe iPhone fără iTunes?" closed="true" %}}
+{{% ls-details title="Pot accesa fișierele de pe PC de pe iPhone fără iTunes?" closed="true" %}}
 Da. Evermusic se conectează la computer prin SMB pe rețeaua Wi-Fi locală. Nu este necesară sincronizarea iTunes sau Finder. Activați partajarea fișierelor pe PC și conectați-vă direct din aplicație.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Funcționează accesul la fișiere SMB prin internet?" closed="true" %}}
+{{% ls-details title="Funcționează accesul la fișiere SMB prin internet?" closed="true" %}}
 Nu. SMB este un protocol de rețea locală. iPhone-ul și computerul trebuie să fie pe aceeași rețea Wi-Fi. Pentru acces la distanță, încărcați fișierele într-un serviciu cloud precum Google Drive sau Dropbox și conectați-vă la acesta în Evermusic.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Ce tipuri de fișiere pot accesa prin SMB?" closed="true" %}}
+{{% ls-details title="Ce tipuri de fișiere pot accesa prin SMB?" closed="true" %}}
 Evermusic suportă MP3, FLAC, AAC, WAV, AIFF, OGG, WMA, ALAC și alte formate audio. Puteți, de asemenea, să navigați și să gestionați fișiere non-audio folosind managerul de fișiere integrat.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Pot transfera fișiere de pe un NAS pe iPhone folosind SMB?" closed="true" %}}
+{{% ls-details title="Pot transfera fișiere de pe un NAS pe iPhone folosind SMB?" closed="true" %}}
 Da. Majoritatea dispozitivelor NAS (Synology, QNAP, WD My Cloud și altele) suportă SMB. Conectați-vă la NAS folosind aceiași pași din acest ghid.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Trebuie să copiez fișierele pe iPhone pentru a le reda?" closed="true" %}}
+{{% ls-details title="Trebuie să copiez fișierele pe iPhone pentru a le reda?" closed="true" %}}
 Nu. Evermusic transmite fișierele direct de pe computer sau NAS prin rețea. Fișierele nu sunt copiate pe iPhone decât dacă alegeți să le descărcați pentru redare offline.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Este securizată partajarea fișierelor SMB?" closed="true" %}}
+{{% ls-details title="Este securizată partajarea fișierelor SMB?" closed="true" %}}
 Partajarea fișierelor SMB funcționează doar pe rețeaua locală. Alte dispozitive din rețele diferite nu pot accesa folderele partajate. Pentru securitate suplimentară, folosiți un nume de utilizator și o parolă în loc de acces anonim (Toată lumea).
-{{% /details %}}
+{{% /ls-details %}}

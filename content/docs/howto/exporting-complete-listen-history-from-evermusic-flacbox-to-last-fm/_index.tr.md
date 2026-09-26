@@ -7,7 +7,7 @@ tags: ["evermusic", "flacbox", "sonlar", "lastfm", "dışa aktarma", "scrobbler"
 readingTime: 5
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **Özet:** Dinleme geçmişinizi Evermusic veya Flacbox'tan CSV dosyası olarak dışa aktarın, ardından Windows'taki ücretsiz Last.fm-Scrubbler-WPF aracını kullanarak Last.fm'e yükleyin. Otomatik scrobbling de her iki uygulamada yerel olarak mevcuttur.
@@ -134,22 +134,22 @@ Artık [Last.fm](http://Last.fm) sayfasında profilinizi açabilir ve tüm deği
 
 ## Sıkça Sorulan Sorular
 
-{{% details title="CSV dosyalarını dışa aktarmadan otomatik olarak scrobble yapabilir miyim?" closed="true" %}}
+{{% ls-details title="CSV dosyalarını dışa aktarmadan otomatik olarak scrobble yapabilir miyim?" closed="true" %}}
 Evet. Hem Evermusic hem de Flacbox artık otomatik Last.fm scrobbling'i desteklemektedir. Kılavuza bakın: [Last.fm'e Nasıl Scrobble Yapılır](/docs/howto/how-to-scrobble-your-music-history-from-evermusic-or-flacbox-to-last-fm).
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="CSV'mde 14 günden eski parçalar varsa ne olur?" closed="true" %}}
+{{% ls-details title="CSV'mde 14 günden eski parçalar varsa ne olur?" closed="true" %}}
 Last.fm-Scrubbler-WPF'de İçe Aktarma Modunu kullanın. Finish Time'dan zaman damgalarını yeniden hesaplar ve orijinal tarihlerine bakılmaksızın parçaları scrobble etmenizi sağlar.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Windows bilgisayarım yok. Yine de Last.fm-Scrubbler kullanabilir miyim?" closed="true" %}}
+{{% ls-details title="Windows bilgisayarım yok. Yine de Last.fm-Scrubbler kullanabilir miyim?" closed="true" %}}
 Evet. Mac'inize VirtualBox yükleyin ve Microsoft'tan ücretsiz Windows Geliştirme Ortamı imajını indirin. Last.fm-Scrubbler-WPF'yi sanal makine içinde çalıştırın.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Neden bazı scrobble'lar ayrıştırılmadı?" closed="true" %}}
+{{% ls-details title="Neden bazı scrobble'lar ayrıştırılmadı?" closed="true" %}}
 Temel meta verileri eksik olan parçalar (sanatçı adı gibi) ayrıştırılamaz. Bu beklenen bir durumdur ve dosyadaki diğer parçaları etkilemez.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Günlük scrobble sınırı var mı?" closed="true" %}}
+{{% ls-details title="Günlük scrobble sınırı var mı?" closed="true" %}}
 Evet. Last.fm-Scrubbler-WPF günde en fazla 2.800 scrobble'a izin verir. Daha fazla scrobble yapmanız gerekiyorsa işlemi birkaç güne yayın.
-{{% /details %}}
+{{% /ls-details %}}

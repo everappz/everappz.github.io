@@ -12,7 +12,7 @@ authors:
     image: "/images/about/artem-meleshko-founder-everappz.webp"
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 **בקצרה:** התקינו את [Flacbox מה-App Store](https://apps.apple.com/us/app/flacbox-flac-player-music/id1097564256?mt=8) כדי לנגן FLAC, DSD, ALAC ו-120+ פורמטי אודיו נוספים ב-iPhone ו-Mac. ייבאו קבצים דרך iTunes File Sharing, Wi-Fi Drive או אחסון ענן. ללא צורך בהמרת קבצים. Flacbox מפענח פורמטים lossless באופן מקורי להשמעה באיכות סטודיו.
 
@@ -114,26 +114,26 @@ Flacbox תומך ביותר מ-120 פורמטי אודיו. הנה הנפוצי�
 
 ## שאלות נפוצות
 
-{{< details title="האם Flacbox דורש מנוי לנגינת קבצי lossless?" closed="true" >}}
+{{< ls-details title="האם Flacbox דורש מנוי לנגינת קבצי lossless?" closed="true" >}}
 Flacbox מציע פונקציונליות השמעה בסיסית ללא מנוי. תוכלו לייבא ולנגן קבצי FLAC, DSD, ALAC ופורמטים lossless אחרים מיד לאחר הורדת האפליקציה. חלק מהתכונות המתקדמות כמו הזרמה מענן ואפשרויות התאמה אישית נוספות עשויות לדרוש שדרוג פרימיום, אך השמעת lossless בסיסית זמינה מיד.
-{{< /details >}}
+{{< /ls-details >}}
 
-{{< details title="האם Flacbox יכול לנגן קבצי DSD מבלי להמיר אותם ל-PCM?" closed="true" >}}
+{{< ls-details title="האם Flacbox יכול לנגן קבצי DSD מבלי להמיר אותם ל-PCM?" closed="true" >}}
 כן, Flacbox תומך בהשמעת DSD מקורית כולל פורמטים DSD64, DSD128 ו-DSD256. האפליקציה מפענחת זרמי DSD ישירות, שומרת על המאפיינים הצליליים הייחודיים של הפורמט. לתוצאות הטובות ביותר, שלבו את המכשיר עם DAC חיצוני תואם DSD.
-{{< /details >}}
+{{< /ls-details >}}
 
-{{< details title="כיצד להעביר אוספי מוזיקה lossless גדולים לאייפון?" closed="true" >}}
+{{< ls-details title="כיצד להעביר אוספי מוזיקה lossless גדולים לאייפון?" closed="true" >}}
 Flacbox מספק מספר אפשרויות העברה לספריות גדולות. Wi-Fi Drive מאפשר להעלות קבצים מכל דפדפן ברשת המקומית. תוכלו גם להשתמש ב-iTunes File Sharing דרך Finder ב-Mac או לחבר שירותי אחסון ענן כמו Google Drive או Dropbox. להעברה המהירה ביותר של אוספים גדולים מאוד, חברו כונן חיצוני ישירות באמצעות מתאם Lightning או USB-C.
-{{< /details >}}
+{{< /ls-details >}}
 
-{{< details title="האם יש הבדל באיכות הצליל בין FLAC ל-ALAC ב-Flacbox?" closed="true" >}}
+{{< ls-details title="האם יש הבדל באיכות הצליל בין FLAC ל-ALAC ב-Flacbox?" closed="true" >}}
 גם FLAC וגם ALAC הם קודקים lossless, כלומר הם מייצרים פלט אודיו זהה כשהם מפוענחים. ההבדל נמצא בתאימות וביעילות הדחיסה. FLAC נמצא בשימוש נרחב יותר בפלטפורמות ובדרך כלל משיג יחסי דחיסה מעט טובים יותר, בעוד ש-ALAC הוא הפורמט ה-lossless המקורי של Apple. Flacbox מטפל בשניהם בנאמנות שווה.
-{{< /details >}}
+{{< /ls-details >}}
 
-{{< details title="מהי הדרך הטובה ביותר לנגן קבצי FLAC באייפון?" closed="true" >}}
+{{< ls-details title="מהי הדרך הטובה ביותר לנגן קבצי FLAC באייפון?" closed="true" >}}
 התקינו Flacbox מה-App Store, ואז ייבאו את קבצי ה-FLAC באמצעות iTunes File Sharing, Wi-Fi Drive, אחסון ענן או כונן חיצוני USB/Lightning. Flacbox מפענח FLAC באופן מקורי ללא המרה, תומך ברזולוציות עד 32-bit/384 kHz. לאיכות האודיו הטובה ביותר, שלבו את האייפון עם DAC ייעודי USB-C או Lightning.
-{{< /details >}}
+{{< /ls-details >}}
 
-{{< details title="האם Flacbox עובד עם NAS ושרתים ביתיים?" closed="true" >}}
+{{< ls-details title="האם Flacbox עובד עם NAS ושרתים ביתיים?" closed="true" >}}
 כן. Flacbox מתחבר למכשירי NAS ושרתים ביתיים דרך פרוטוקולי SMB, WebDAV ו-DLNA. ב-Mac, תוכלו להוסיף מיקומי רשת ישירות. ב-iOS, התחברו דרך תפריט מקורות ענן/רשת. זה מאפשר להזרים את ספריית ה-lossless מבלי להעתיק קבצים למכשיר.
-{{< /details >}}
+{{< /ls-details >}}

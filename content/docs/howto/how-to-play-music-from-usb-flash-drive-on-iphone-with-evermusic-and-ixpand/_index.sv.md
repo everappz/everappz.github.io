@@ -7,7 +7,7 @@ tags: ["musik", "usb", "extern", "ixpand", "sandisk", "iphone", "evermusic"]
 readingTime: 3
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **Sammanfattning:** Evermusic låter dig spela musik direkt från en SanDisk iXpand Flash Drive på din iPhone eller iPad. Anslut enheten, öppna Evermusic och börja lyssna -- du behöver inte kopiera filer till din enhet. Stöder filhantering, spellistor, equalizer och AirPlay-strömning.
@@ -69,22 +69,22 @@ Med Evermusic och SanDisk iXpand Flash Drive har du friheten att njuta av din mu
 
 ## FAQ
 
-{{% details title="Vilka iXpand Flash Drive-modeller stöder Evermusic?" closed="true" %}}
+{{% ls-details title="Vilka iXpand Flash Drive-modeller stöder Evermusic?" closed="true" %}}
 Evermusic stöder SanDisk iXpand Flash Drives med protokollen V1, V2, V3, V6 och V7. Du kan kontrollera kompatibilitet i din iPhones Inställningar under Allmänt > Om > iXpand Flash Drive.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Kan jag spela musik från USB-enheten utan att kopiera filer till min iPhone?" closed="true" %}}
+{{% ls-details title="Kan jag spela musik från USB-enheten utan att kopiera filer till min iPhone?" closed="true" %}}
 Ja. Evermusic spelar ljudfiler direkt från iXpand Flash Drive. Du behöver inte kopiera något till enhetens interna lagring.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Vilka ljudformat stöder Evermusic från USB-enheter?" closed="true" %}}
+{{% ls-details title="Vilka ljudformat stöder Evermusic från USB-enheter?" closed="true" %}}
 Evermusic stöder alla stora ljudformat inklusive MP3, FLAC, AAC, WAV, AIFF, OGG och mer. Alla ljudfiler som lagras på din iXpand-enhet kan spelas direkt.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Kan jag strömma musik från iXpand-enheten till AirPlay-högtalare?" closed="true" %}}
+{{% ls-details title="Kan jag strömma musik från iXpand-enheten till AirPlay-högtalare?" closed="true" %}}
 Ja. Medan du spelar musik från USB-enheten kan du strömma ljud till AirPlay-kompatibla enheter som Sonos-högtalare, Apple TV och Google Chromecast.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Vad ska jag göra om min iXpand-enhet inte känns igen?" closed="true" %}}
+{{% ls-details title="Vad ska jag göra om min iXpand-enhet inte känns igen?" closed="true" %}}
 Se till att inga andra appar använder enheten. Försök koppla ur den och ansluta den igen. Om din modell inte stöds, använd en Apple Lightning till USB-adapter för att ansluta enheten som en standard USB-enhet.
-{{% /details %}}
+{{% /ls-details %}}

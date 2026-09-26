@@ -12,7 +12,7 @@ authors:
     image: "/images/about/artem-meleshko-founder-everappz.webp"
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 ![](/blog/evermusic-sync-your-music-library-save-playback-position-correct-music-tags/21260c_641f376e779e47d4927b43c210d3c87f~mv2.jpeg)
 
@@ -67,22 +67,22 @@ Evermusic upptäcker och korrigerar ogiltiga eller ofullständiga ID3-taggar med
 
 ## Vanliga frågor
 
-{{% details title="Fungerar Evermusic autosynk med alla molntjänster?" closed="true" %}}
+{{% ls-details title="Fungerar Evermusic autosynk med alla molntjänster?" closed="true" %}}
 Ja. Automatisk synkronisering fungerar med Dropbox, Google Drive, OneDrive, MEGA, WebDAV och SMB. Välj mapparna du vill övervaka så håller Evermusic ditt bibliotek uppdaterat.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Kan Evermusic spara min ljudboksposition?" closed="true" %}}
+{{% ls-details title="Kan Evermusic spara min ljudboksposition?" closed="true" %}}
 Ja. Aktivera sparande av uppspelningsposition i ljudinställningarna. Evermusic kommer ihåg var du slutade för varje fil, så du kan återuppta utan manuella bokmärken.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Hur fungerar metadataläsning i bakgrunden?" closed="true" %}}
+{{% ls-details title="Hur fungerar metadataläsning i bakgrunden?" closed="true" %}}
 Evermusic läser ID3-taggar och filmetadata i bakgrunden medan du använder andra funktioner. Det organiserar ditt bibliotek efter artist, album och genre automatiskt.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Fixar Evermusic mina trasiga musiktaggar?" closed="true" %}}
+{{% ls-details title="Fixar Evermusic mina trasiga musiktaggar?" closed="true" %}}
 Ja. Funktionen för automatisk taggkorrigering kontrollerar dina filer mot onlinedatabaser och fixar ogiltiga, ofullständiga eller saknade ID3-metadata.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Är Evermusic gratis att ladda ner?" closed="true" %}}
+{{% ls-details title="Är Evermusic gratis att ladda ner?" closed="true" %}}
 Evermusic är gratis att ladda ner med valfria premiumfunktioner tillgängliga via köp i appen.
-{{% /details %}}
+{{% /ls-details %}}

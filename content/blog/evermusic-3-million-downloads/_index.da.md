@@ -12,7 +12,7 @@ authors:
     image: "/images/about/artem-meleshko-founder-everappz.webp"
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 ## 3 millioner downloads
 
@@ -98,22 +98,22 @@ Evermusic er gratis i App Store med valgfrie premium-funktioner.
 
 ## Ofte stillede spørgsmål
 
-{{% details title="Er Evermusic gratis at bruge?" closed="true" %}}
+{{% ls-details title="Er Evermusic gratis at bruge?" closed="true" %}}
 Ja. Evermusic er gratis at downloade med kernefunktioner tilgængelige uden omkostninger. Premium-funktioner som equalizeren og avancerede cloud-muligheder er tilgængelige gennem en valgfri opgradering.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Kan Evermusic afspille lydbøger?" closed="true" %}}
+{{% ls-details title="Kan Evermusic afspille lydbøger?" closed="true" %}}
 Ja. Evermusic gemmer din afspilningsposition, understøtter bogmærker, justerbar afspilningshastighed (0,5x til 2,0x) og søvntimere — hvilket gør den velegnet til lydbøger og podcasts.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Hvilke cloud-tjenester forbinder Evermusic til?" closed="true" %}}
+{{% ls-details title="Hvilke cloud-tjenester forbinder Evermusic til?" closed="true" %}}
 Dropbox, Google Drive, OneDrive, Box, MEGA, Yandex.Disk, MyDrive, pCloud, HiDrive, SMB-fildelinger og WebDAV-servere.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Kan jeg bruge et SD-kort med Evermusic?" closed="true" %}}
+{{% ls-details title="Kan jeg bruge et SD-kort med Evermusic?" closed="true" %}}
 Ja. Tilslut en Lightning- eller USB-C SD-kortlæser til din iPhone eller iPad og stream musik direkte fra kortet gennem Evermusic.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Fungerer Evermusic på Mac?" closed="true" %}}
+{{% ls-details title="Fungerer Evermusic på Mac?" closed="true" %}}
 Ja. Evermusic er tilgængelig for både iOS og macOS med cloud-streaming og offline afspilning på alle platforme.
-{{% /details %}}
+{{% /ls-details %}}

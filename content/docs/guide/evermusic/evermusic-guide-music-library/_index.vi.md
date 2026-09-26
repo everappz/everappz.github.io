@@ -15,7 +15,7 @@ readingTime: 11
 Quản lý thư viện nhạc của bạn thật dễ dàng với Evermusic, nơi bạn có thể sắp xếp tất cả các bài hát một cách dễ dàng. Bạn có hai lựa chọn để xây dựng thư viện nhạc: thêm thủ công hoặc đồng bộ tự động.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Màn hình Thư viện nhạc Evermusic" image="/docs/guide/evermusic/evermusic-guide-music-library/img/music-library-main.webp" >}}
+  {{< ls-card title="" subtitle="Màn hình Thư viện nhạc Evermusic" image="/docs/guide/evermusic/evermusic-guide-music-library/img/music-library-main.webp" >}}
 {{< /cards >}}
 
 ## Thêm thủ công
@@ -23,7 +23,7 @@ Quản lý thư viện nhạc của bạn thật dễ dàng với Evermusic, nơ
 Để thêm bài hát thủ công, nhấn vào mục menu «Thêm nhạc» và chọn thư mục/tệp từ dịch vụ lưu trữ đám mây đã kết nối hoặc các tệp nằm trên thiết bị của bạn. Khi bạn thêm bài hát vào thư viện, chỉ các liên kết đến các bài hát đó được tạo, giữ nguyên các tệp thực tế ở vị trí gốc để tiết kiệm dung lượng đĩa. Nếu bạn muốn làm cho các bài hát khả dụng ngoại tuyến, bạn có thể sử dụng hành động tải xuống từ menu tùy chọn hoặc bật chế độ ngoại tuyến cho danh sách phát và bộ sưu tập bài hát.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Thêm bài hát vào Thư viện nhạc" image="/docs/guide/evermusic/evermusic-guide-music-library/img/music-library-add-songs.webp" >}}
+  {{< ls-card title="" subtitle="Thêm bài hát vào Thư viện nhạc" image="/docs/guide/evermusic/evermusic-guide-music-library/img/music-library-add-songs.webp" >}}
 {{< /cards >}}
 
 ## Truy cập nhanh
@@ -75,7 +75,7 @@ Khi bạn thêm bài hát vào thư viện nhạc, ứng dụng tự động đ�
 Nằm ngay bên dưới thanh điều hướng, thanh công cụ trên cùng cung cấp một số hành động tiện lợi: «Tìm kiếm», «Phát tất cả», «Phát ngẫu nhiên» và «Tiếp tục phát». Bạn có thể hiện hoặc ẩn thanh công cụ này bằng cử chỉ vuốt xuống đơn giản.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Chế độ xem Album — Nhóm theo thẻ nhạc" image="/docs/guide/evermusic/evermusic-guide-music-library/img/music-library-albums.webp" >}}
+  {{< ls-card title="" subtitle="Chế độ xem Album — Nhóm theo thẻ nhạc" image="/docs/guide/evermusic/evermusic-guide-music-library/img/music-library-albums.webp" >}}
 {{< /cards >}}
 
 ## Tìm kiếm
@@ -83,7 +83,7 @@ Nằm ngay bên dưới thanh điều hướng, thanh công cụ trên cùng cun
 Tính năng tìm kiếm cho phép bạn tìm bài hát, nghệ sĩ, album hoặc thể loại cụ thể trong thư viện nhạc của bạn. Trong «Màn hình tìm kiếm», bạn có quyền truy cập vào các hành động sau: «Sắp xếp», «Lọc», «Lưới/Danh sách».
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Kết quả tìm kiếm Thư viện nhạc" image="/docs/guide/evermusic/evermusic-guide-music-library/img/music-library-search.webp" >}}
+  {{< ls-card title="" subtitle="Kết quả tìm kiếm Thư viện nhạc" image="/docs/guide/evermusic/evermusic-guide-music-library/img/music-library-search.webp" >}}
 {{< /cards >}}
 
 ## Menu tùy chọn
@@ -91,7 +91,7 @@ Tính năng tìm kiếm cho phép bạn tìm bài hát, nghệ sĩ, album hoặc
 Mỗi bài hát trong thư viện nhạc của bạn có menu với nhiều hành động hơn, được truy cập bằng cách nhấn vào nút ba chấm gần tiêu đề bài hát. Các hành động này thay đổi tùy thuộc vào đó là một bài hát đơn lẻ hay một phần của bộ sưu tập.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Thêm hành động cho mục thư viện" image="/docs/guide/evermusic/evermusic-guide-music-library/img/music-library-item-more-actions.webp" >}}
+  {{< ls-card title="" subtitle="Thêm hành động cho mục thư viện" image="/docs/guide/evermusic/evermusic-guide-music-library/img/music-library-item-more-actions.webp" >}}
 {{< /cards >}}
 
 ### Đối với bài hát đơn lẻ
@@ -125,7 +125,7 @@ Mỗi bài hát trong thư viện nhạc của bạn có menu với nhiều hàn
 Bạn có thể kích hoạt chế độ chọn bằng nút Thêm hành động ở góc trên bên phải. Ở chế độ này, bạn có thể chọn nhiều bài hát và thực hiện các hành động khác nhau.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Chế độ chọn trong Thư viện nhạc" image="/docs/guide/evermusic/evermusic-guide-music-library/img/music-library-selection-mode.webp" >}}
+  {{< ls-card title="" subtitle="Chế độ chọn trong Thư viện nhạc" image="/docs/guide/evermusic/evermusic-guide-music-library/img/music-library-selection-mode.webp" >}}
 {{< /cards >}}
 
 ## Nhóm theo thẻ
@@ -145,7 +145,7 @@ Các danh mục này giúp bạn tổ chức bài hát theo thẻ nhạc: Bài h
 Khi bạn mở phần Nghệ sĩ, Nghệ sĩ album hoặc Nhạc sĩ, bạn có thể thấy bộ chuyển đổi cho Bài hát/Tất cả album/Album độc quyền/Album solo.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Chi tiết Album với bộ chuyển đổi Bài hát / Tất cả / Độc quyền / Solo" image="/docs/guide/evermusic/evermusic-guide-music-library/img/music-library-album-details.webp" >}}
+  {{< ls-card title="" subtitle="Chi tiết Album với bộ chuyển đổi Bài hát / Tất cả / Độc quyền / Solo" image="/docs/guide/evermusic/evermusic-guide-music-library/img/music-library-album-details.webp" >}}
 {{< /cards >}}
 
 - **Bài hát**: Hiển thị tất cả bài hát trong đó Nghệ sĩ/Nghệ sĩ album/Nhạc sĩ này được đặt trong thẻ âm thanh.
@@ -166,7 +166,7 @@ Bạn có thể sử dụng tính năng này để nhanh chóng tìm bất kỳ 
 Nhấn vào mục menu «Cài đặt» để cấu hình tùy chọn thư viện nhạc của bạn.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Cài đặt Thư viện nhạc" image="/docs/guide/evermusic/evermusic-guide-music-library/img/music-library-settings.webp" >}}
+  {{< ls-card title="" subtitle="Cài đặt Thư viện nhạc" image="/docs/guide/evermusic/evermusic-guide-music-library/img/music-library-settings.webp" >}}
 {{< /cards >}}
 
 #### Đọc siêu dữ liệu

@@ -7,7 +7,7 @@ tags: ["promo", "appstore", "installeren", "inwisselen", "code", "gratis"]
 readingTime: 2
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **Samenvatting:** Met een promotiecode kun je een betaalde app gratis downloaden of in-app aankopen ontgrendelen. Op iOS: App Store > Accountpictogram > Wissel cadeaukaart of code in > voer code in. Op Mac: App Store > Account > Wissel cadeaukaart in > voer code in. Open vervolgens de app en herstel aankopen indien nodig.
@@ -94,22 +94,22 @@ Geniet van je gratis app of in-app upgrade!
 
 ## Veelgestelde vragen
 
-{{% details title="Waar krijg ik een promotiecode?" closed="true" %}}
+{{% ls-details title="Waar krijg ik een promotiecode?" closed="true" %}}
 Promotiecodes worden verstrekt door app-ontwikkelaars voor recensies, weggeefacties of promoties. Neem rechtstreeks contact op met de ontwikkelaar om er een aan te vragen.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Verlopen promotiecodes?" closed="true" %}}
+{{% ls-details title="Verlopen promotiecodes?" closed="true" %}}
 Ja. Apple App Store-promotiecodes verlopen 28 dagen nadat ze zijn gegenereerd en kunnen slechts eenmaal worden ingewisseld.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Kan ik een promotiecode in elk land gebruiken?" closed="true" %}}
+{{% ls-details title="Kan ik een promotiecode in elk land gebruiken?" closed="true" %}}
 Promotiecodes zijn regiospecifiek. De code moet overeenkomen met het App Store-land van je Apple ID.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Hoe activeer ik in-app aankopen met een promotiecode?" closed="true" %}}
+{{% ls-details title="Hoe activeer ik in-app aankopen met een promotiecode?" closed="true" %}}
 Na het inwisselen van de code in de App Store, open je de app en ga je naar Instellingen > Herstel aankopen. De premiuminhoud wordt automatisch ontgrendeld.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="De promotiecode zegt dat deze al is ingewisseld. Wat moet ik doen?" closed="true" %}}
+{{% ls-details title="De promotiecode zegt dat deze al is ingewisseld. Wat moet ik doen?" closed="true" %}}
 Elke promotiecode kan slechts eenmaal worden gebruikt. Neem contact op met de ontwikkelaar om een nieuwe code aan te vragen.
-{{% /details %}}
+{{% /ls-details %}}

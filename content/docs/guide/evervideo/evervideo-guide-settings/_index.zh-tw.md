@@ -23,7 +23,7 @@ readingTime: 16
 設定畫面是 Evervideo 的控制中心。在這裡您可以升級到 Premium、設定視訊和音訊引擎（系統編解碼器或 FFmpeg）、管理子母畫面、設定字幕（主字幕、輔助字幕、libass、外部檔案、字型）、整理媒體資料庫、設定檔案管理員、啟用主畫面小工具、備份資料，以及存取說明和法律資訊。各部分按以下標題分組：購買與更新、應用程式偏好設定、說明、法律與隱私。
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evervideo 設定主畫面" image="/docs/guide/evervideo/img/evervideo-settings.webp" >}}
+  {{< ls-card title="" subtitle="Evervideo 設定主畫面" image="/docs/guide/evervideo/img/evervideo-settings.webp" >}}
 {{< /cards >}}
 
 ## 升級到 Premium
@@ -31,13 +31,13 @@ readingTime: 16
 將應用程式升級到 Premium 版本以移除所有限制。應用程式免費版本提供一次性終身應用程式內購買和兩種訂閱選項（1 個月和 1 年）來移除所有限制並升級到 Premium。
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evervideo 升級到 Premium" image="/docs/guide/evervideo/img/evervideo-upgrade-to-premium.webp" >}}
+  {{< ls-card title="" subtitle="Evervideo 升級到 Premium" image="/docs/guide/evervideo/img/evervideo-upgrade-to-premium.webp" >}}
 {{< /cards >}}
 
 **家人共享**適用於所有購買和計畫，因此您可以與最多五名家庭成員共享 Premium 版本，無需額外費用。
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evervideo 選擇 Premium 計畫" image="/docs/guide/evervideo/img/evervideo-select-premium-plan.webp" >}}
+  {{< ls-card title="" subtitle="Evervideo 選擇 Premium 計畫" image="/docs/guide/evervideo/img/evervideo-select-premium-plan.webp" >}}
 {{< /cards >}}
 
 ## 在 iOS 和 Mac 之間共享購買
@@ -51,7 +51,7 @@ readingTime: 16
 要在新裝置上還原購買項目，請使用**購買項目 → 還原購買項目**選單。您將看到購買列表。如果看不到所有購買項目，請確認裝置已連線到用於購買的同一 Apple ID，並確保 iCloud 已啟用。
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evervideo 設定中的購買項目選單" image="/docs/guide/evervideo/img/evervideo-purhases-menu-in-settings.webp" >}}
+  {{< ls-card title="" subtitle="Evervideo 設定中的購買項目選單" image="/docs/guide/evervideo/img/evervideo-purhases-menu-in-settings.webp" >}}
 {{< /cards >}}
 
 ## 免費試用 Premium

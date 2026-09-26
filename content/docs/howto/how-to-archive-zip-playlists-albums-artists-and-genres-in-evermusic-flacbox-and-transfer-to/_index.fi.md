@@ -7,7 +7,7 @@ tags: ["evermusic", "flacbox", "arkisto", "varmuuskopio", "vienti", "soittolista
 readingTime: 2
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **Yhteenveto:** Evermusic ja Flacbox voivat arkistoida minkä tahansa soittolistan, albumin, artistin tai genren ZIP-tiedostoksi M3U-soittolistalla, albumin kansikuvalla ja kaikilla äänitiedostoilla. Siirrä ZIP toiseen laitteeseen, pura se ja tuo M3U rakentaaksesi soittolistan uudelleen välittömästi.
@@ -104,22 +104,22 @@ Noudattamalla tätä opasta voit tehokkaasti arkistoida ja siirtää soittolisto
 
 ## Usein kysytyt kysymykset
 
-{{% details title="Mitä ZIP-arkisto sisältää?" closed="true" %}}
+{{% ls-details title="Mitä ZIP-arkisto sisältää?" closed="true" %}}
 Arkisto sisältää kaikki äänitiedostot, M3U-soittolistatiedoston, joka säilyttää kappalejärjestyksen, ja soittolistan albumin kansikuvan tallennettuna erillisenä kuvatiedostona.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Toimiiko arkistointi pilvitiedostojen kanssa?" closed="true" %}}
+{{% ls-details title="Toimiiko arkistointi pilvitiedostojen kanssa?" closed="true" %}}
 Kyllä. Sovellus lataa automaattisesti kaikki pilveen tallennetut tiedostot ennen niiden lisäämistä arkistoon. Voit seurata latauksen edistymistä tiedostosiirrot-osiossa.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Voinko arkistoida myös albumeita, artisteja ja genrejä?" closed="true" %}}
+{{% ls-details title="Voinko arkistoida myös albumeita, artisteja ja genrejä?" closed="true" %}}
 Kyllä. «Lisää arkistoon» -vaihtoehto on käytettävissä soittolistoille, albumeille, artisteille ja genreille. Prosessi on identtinen kaikille.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Kuinka siirrän arkiston toiseen laitteeseen?" closed="true" %}}
+{{% ls-details title="Kuinka siirrän arkiston toiseen laitteeseen?" closed="true" %}}
 Voit ladata ZIP-tiedoston pilvitallennustilaan (Google Drive, Dropbox jne.), käyttää AirDropia tai siirtää langattomasti Evermusicin ja Flacboxin sisäänrakennetun Wi-Fi Drive -ominaisuuden kautta.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Säilyykö soittolistan rakenne siirron jälkeen?" closed="true" %}}
+{{% ls-details title="Säilyykö soittolistan rakenne siirron jälkeen?" closed="true" %}}
 Kyllä. M3U-tiedosto tallentaa soittolistan rakenteen suhteellisilla poluilla. Purkamisen jälkeen uudella laitteella tuo M3U-tiedosto rakentaaksesi soittolistan uudelleen kaikkine kappaleineen alkuperäisessä järjestyksessä.
-{{% /details %}}
+{{% /ls-details %}}

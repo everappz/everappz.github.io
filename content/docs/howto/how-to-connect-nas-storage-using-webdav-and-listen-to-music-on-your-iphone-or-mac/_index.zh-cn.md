@@ -7,7 +7,7 @@ tags: ["音乐", "流式传输", "存储", "nas", "连接", "webdav"]
 readingTime: 2
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **概要：**在 Synology NAS 上安装并启用 WebDAV，配置共享文件夹权限，然后使用 NAS IP 地址和 WebDAV 端口（默认 5005/5006）从 Evermusic 或 Flacbox 连接。您可以流式传输和管理整个音乐库，无需将文件复制到设备。
@@ -87,22 +87,22 @@ readingTime: 2
 
 ## 常见问题
 
-{{% details title="哪些 NAS 设备支持 WebDAV？" closed="true" %}}
+{{% ls-details title="哪些 NAS 设备支持 WebDAV？" closed="true" %}}
 大多数流行的 NAS 品牌都支持 WebDAV，包括 Synology、QNAP、TrueNAS 和 Western Digital。请查看您的 NAS 制造商的文档以获取 WebDAV 设置说明。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="WebDAV 和 SMB 在 NAS 音乐流式传输方面有什么区别？" closed="true" %}}
+{{% ls-details title="WebDAV 和 SMB 在 NAS 音乐流式传输方面有什么区别？" closed="true" %}}
 WebDAV 通过 HTTP/HTTPS 工作，更适合通过互联网进行远程访问。SMB 在局域网中通常更快。Evermusic 和 Flacbox 支持这两种协议，因此根据您需要本地还是远程访问来选择。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="在 Synology 上使用 WebDAV 需要用户名和密码吗？" closed="true" %}}
+{{% ls-details title="在 Synology 上使用 WebDAV 需要用户名和密码吗？" closed="true" %}}
 不需要，如果您启用了匿名 WebDAV 访问并在共享文件夹上配置了访客权限。为了更好的安全性，您可以使用 Synology 凭据。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="我可以通过 WebDAV 从 NAS 流式传输 FLAC 和其他高分辨率格式吗？" closed="true" %}}
+{{% ls-details title="我可以通过 WebDAV 从 NAS 流式传输 FLAC 和其他高分辨率格式吗？" closed="true" %}}
 可以。Evermusic 和 Flacbox 在通过 WebDAV 从 NAS 存储流式传输时都支持 FLAC、ALAC、WAV、DSD 和其他高分辨率格式。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="为什么应用在可用设备中找不到我的 NAS？" closed="true" %}}
+{{% ls-details title="为什么应用在可用设备中找不到我的 NAS？" closed="true" %}}
 确保您的 iPhone/Mac 和 NAS 在同一个 Wi-Fi 网络上。如果自动发现不起作用，请使用手动连接选项并直接输入 NAS IP 地址和 WebDAV 端口。
-{{% /details %}}
+{{% /ls-details %}}

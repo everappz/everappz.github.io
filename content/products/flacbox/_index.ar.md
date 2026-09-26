@@ -16,15 +16,15 @@ screenshots:
   - "https://everappz.com/products/flacbox/screenshots/2048x2732/6.png"
 ---
 
-{{% sr-only %}}
+{{% ls-sr-only %}}
 Flacbox هو مشغل صوت عالي الدقة لأجهزة iPhone وMac، طوّرته شركة Everappz، وهي شركة برمجيات إسبانية. مع أكثر من مليون تنزيل حول العالم، صُمم Flacbox لعشاق الموسيقى ومحبي الصوتيات الذين يرغبون في تشغيل ملفات صوتية غير مضغوطة وعالية الدقة على أجهزة Apple الخاصة بهم دون الحاجة لتحويل الصيغ. يدعم التطبيق أصلياً أكثر من 120 صيغة صوتية بما في ذلك FLAC وDSD (DSD64، DSD128، DSD256) وALAC وAPE وWAV وAIFF وOGG وOPUS وWMA وMKA وMP3 وAAC والمزيد. يتصل Flacbox بأكثر من 30 خدمة تخزين سحابي بما في ذلك iCloud Drive وGoogle Drive وDropbox وOneDrive وMEGA وBox وpCloud، مما يتيح للمستخدمين بث مجموعتهم الموسيقية عالية الدقة مباشرة من السحابة أو تنزيل الملفات للتشغيل بدون اتصال. تشمل الميزات الرئيسية معادل صوتي من 10 نطاقات مع إعدادات مسبقة قابلة للتخصيص، وتشغيل متقاطع وبدون فجوات، والتحكم في طبقة الصوت والسرعة، وتعزيز الجهير، واستيراد وتصدير قوائم تشغيل M3U، وعرض كلمات الأغاني، وعلامات مرجعية صوتية، ومحرر بيانات وصفية مدمج، وتكامل مع Apple CarPlay، وبث عبر AirPlay وChromecast، وتسجيل Last.fm. يدعم التطبيق البث عبر الشبكة المحلية من خلال بروتوكولات SMB وWebDAV وDLNA، وتشغيل من محركات أقراص USB، ونقل الملفات عبر Wi-Fi. يتوفر Flacbox كتنزيل مجاني على App Store مع عمليات شراء اختيارية داخل التطبيق تشمل اشتراكًا شهريًا بسعر $4.99، واشتراكًا سنويًا بسعر $19.99، أو شراء مدى الحياة لمرة واحدة بسعر $59.99. تم إصدار التطبيق لأول مرة في عام 2016 ويتم صيانته بنشاط مع تحديثات منتظمة.
-{{% /sr-only %}}
+{{% /ls-sr-only %}}
 
 
 <!-- force dark theme for this page -->
-{{< force-dark >}}
+{{< ls-force-dark >}}
 
-{{< hextra/hero-container
+{{< ls-hero-container
   image="/products/flacbox/heroimage/hero_1600.png"
   imageWidth="800"
   imageCard="true"
@@ -32,36 +32,36 @@ Flacbox هو مشغل صوت عالي الدقة لأجهزة iPhone وMac، ط�
 
 <div class="hx:w-full hx:text-center">
 
-{{< downloads-badge >}}
+{{< ls-downloads-badge >}}
 
 <div class="hx:mt-6 hx:mb-6">
 <div class="hx:flex hx:gap-4 hx:items-center hx:justify-center">
-{{< app-icon src="/images/app_icons/png/Flacbox_Icon-App-1024x1024.png" alt="Flacbox Icon" class="hero-headline-icon" size="80" >}}
-{{< hextra/hero-headline >}}
+{{< ls-app-icon src="/images/app_icons/png/Flacbox_Icon-App-1024x1024.png" alt="Flacbox Icon" class="hero-headline-icon" size="80" >}}
+{{< ls-hero-headline >}}
 Flacbox
-{{< /hextra/hero-headline >}}
+{{< /ls-hero-headline >}}
 </div>
 </div>
 
 <div class="hx:mb-12">
-{{< hextra/hero-centered-subtitle >}}
+{{< ls-hero-centered-subtitle >}}
 <strong>مشغل وبث صوت عالي الدقة لـ iPhone و MAC</strong>
-{{< /hextra/hero-centered-subtitle >}}
+{{< /ls-hero-centered-subtitle >}}
 </div>
 
 <div class="hx:mb-6">
-{{< hextra/hero-paragraph >}}
+{{< ls-hero-paragraph >}}
 • قم بتشغيل FLAC و ALAC و APE و DSD والمزيد بجودة بدون فقدان  
 • قم بتنزيل الموسيقى واستمع بدون إنترنت مع تحكم كامل  
 • بث من Google Drive و Dropbox و NAS أو الكمبيوتر   
-{{< /hextra/hero-paragraph >}}
+{{< /ls-hero-paragraph >}}
 </div>
 
-{{< app-store-badges products="flacbox:ios, flacbox:macos" >}}
+{{< ls-app-store-badges products="flacbox:ios, flacbox:macos" >}}
 
 </div>
 
-{{< /hextra/hero-container >}}
+{{< /ls-hero-container >}}
 
 <div class="hx:mt-6"></div>
 
@@ -69,7 +69,7 @@ Flacbox
 
 {{< hextra/feature-grid >}}
 
-  {{< hextra/feature-card
+  {{< ls-glass-feature-card
     title="بث موسيقى بدون فقدان"
     subtitle=`استمتع بموسيقى بدون فقدان على iPhone و iPad و Mac بدون اشتراكات.<br><br>
 قم بتوصيل التخزين السحابي الخاص بك لبث FLAC و ALAC و MKA والمزيد مجاناً. قم بالبث بسهولة إلى أجهزة Chromecast و AirPlay.<br><br>
@@ -78,7 +78,7 @@ Flacbox
     style="background: radial-gradient(circle at 50% 80%, rgba(99,102,241,0.15), transparent);"
   >}}
 
-  {{< hextra/feature-card
+  {{< ls-glass-feature-card
     title="تشغيل صوت عالي الدقة"
     subtitle=`استمتع بجودة صوت الاستوديو مع دعم أكثر من 120 تنسيق صوتي، بما في ذلك FLAC و ALAC و WAV و AIFF و DSD.<br><br>
 Flacbox يشغل أيضاً MP3 و AAC و OGG و APE و MOD و MKA وحاويات متقدمة مثل MKV و MP4 و MOV.<br><br>
@@ -87,7 +87,7 @@ Flacbox يشغل أيضاً MP3 و AAC و OGG و APE و MOD و MKA وحاويا�
     style="background: radial-gradient(circle at 50% 80%, rgba(236,72,153,0.15), transparent);"
   >}}
 
-  {{< hextra/feature-card
+  {{< ls-glass-feature-card
     title="تنزيل والاستماع بدون إنترنت"
     subtitle=`ابق على اتصال بموسيقاك حتى عندما تكون بدون إنترنت.<br><br>
 قم بتنزيل ألبومات وأنواع وقوائم تشغيل ومسارات كاملة إلى جهازك. استخدم Wi-Fi Drive أو مشاركة ملفات iTunes لنقل الصوت من Mac أو PC.<br><br>
@@ -102,9 +102,9 @@ Flacbox يشغل أيضاً MP3 و AAC و OGG و APE و MOD و MKA وحاويا�
 
 <div class="hx:mt-6"></div>
 
-{{< hextra/section-headline >}}
+{{< ls-section-headline >}}
 ميزات شاملة
-{{< /hextra/section-headline >}}
+{{< /ls-section-headline >}}
 
 <div class="hx:mt-6"></div>
 
@@ -112,41 +112,41 @@ Flacbox يشغل أيضاً MP3 و AAC و OGG و APE و MOD و MKA وحاويا�
 
 {{< cards >}}
 
-  {{< feature-card title="جودة الصوت" subtitle="استمتع بإخراج عالي الدقة بمعدلات عينات من 8 kHz إلى 384 kHz، وأوضاع إخراج افتراضية أو مختلطة، ودعم من 1 إلى 7 قنوات صوتية." icon="volume-up" >}}
-  {{< feature-card title="صوت بدون فقدان وعالي الدقة" subtitle="شغّل تنسيقات بدون فقدان وعالية الدقة مثل FLAC و ALAC و WAV و AIFF و APE و WV و DSF (DSD)، بالإضافة إلى MP3 و AAC و OGG و OPUS، بمعدلات عينات تصل إلى 384 kHz." icon="music-note" >}}
-  {{< feature-card title="موسيقى Tracker و MOD" subtitle="شغّل موسيقى التراكر والوحدات الكلاسيكية أصلياً، بما في ذلك تنسيقات MOD و XM و IT و S3M من عالم الـ chiptune والديموسين التي يعجز معظم المشغلات عن فتحها." icon="table" >}}
+  {{< ls-feature-card title="جودة الصوت" subtitle="استمتع بإخراج عالي الدقة بمعدلات عينات من 8 kHz إلى 384 kHz، وأوضاع إخراج افتراضية أو مختلطة، ودعم من 1 إلى 7 قنوات صوتية." icon="volume-up" >}}
+  {{< ls-feature-card title="صوت بدون فقدان وعالي الدقة" subtitle="شغّل تنسيقات بدون فقدان وعالية الدقة مثل FLAC و ALAC و WAV و AIFF و APE و WV و DSF (DSD)، بالإضافة إلى MP3 و AAC و OGG و OPUS، بمعدلات عينات تصل إلى 384 kHz." icon="music-note" >}}
+  {{< ls-feature-card title="موسيقى Tracker و MOD" subtitle="شغّل موسيقى التراكر والوحدات الكلاسيكية أصلياً، بما في ذلك تنسيقات MOD و XM و IT و S3M من عالم الـ chiptune والديموسين التي يعجز معظم المشغلات عن فتحها." icon="table" >}}
 
-  {{< feature-card title="محركات الصوت" subtitle="اختر من بين ثلاثة محركات تشغيل: محرك النظام القياسي، ومحرك FFmpeg المتعدد الاستخدامات، ومحرك BASS™ الاحترافي الذي يفتح المؤثرات ومعالجة الإشارة الرقمية والمرئيات." icon="switch-horizontal" >}}
-  {{< feature-card title="مؤثرات صوتية" subtitle="شكّل صوتك في الوقت الفعلي باستخدام الصدى والتأخير والترديد والكورس والفلانجر والفيزر والأوتو-وا والتشويه وضاغط ودمج طبيعي لسماعات الرأس." icon="lightning-bolt" >}}
-  {{< feature-card title="سلسلة معالجة الإشارة الرقمية" subtitle="ابنِ سلسلة معالجة إشارة خاصة بك في الوقت الفعلي من مرشحات احترافية ونطاقات معادل، وتشبّع وسحق البتات، بالإضافة إلى معالجات إبداعية مثل التريمولو واتساع الستيريو." icon="chip" >}}
+  {{< ls-feature-card title="محركات الصوت" subtitle="اختر من بين ثلاثة محركات تشغيل: محرك النظام القياسي، ومحرك FFmpeg المتعدد الاستخدامات، ومحرك BASS™ الاحترافي الذي يفتح المؤثرات ومعالجة الإشارة الرقمية والمرئيات." icon="switch-horizontal" >}}
+  {{< ls-feature-card title="مؤثرات صوتية" subtitle="شكّل صوتك في الوقت الفعلي باستخدام الصدى والتأخير والترديد والكورس والفلانجر والفيزر والأوتو-وا والتشويه وضاغط ودمج طبيعي لسماعات الرأس." icon="lightning-bolt" >}}
+  {{< ls-feature-card title="سلسلة معالجة الإشارة الرقمية" subtitle="ابنِ سلسلة معالجة إشارة خاصة بك في الوقت الفعلي من مرشحات احترافية ونطاقات معادل، وتشبّع وسحق البتات، بالإضافة إلى معالجات إبداعية مثل التريمولو واتساع الستيريو." icon="chip" >}}
 
-  {{< feature-card title="معادل الصوت" subtitle="اضبط صوتك بدقة مع معادل متعدد النطاقات، وإعدادات مسبقة جاهزة حسب النوع، وتحكم يدوي، وكسب مضخم مسبق لتعزيز المسارات الهادئة دون تشويه." icon="adjustments" >}}
-  {{< feature-card title="مُرئيات الموسيقى" subtitle="شاهد مرئيات متحركة بملء الشاشة تتفاعل مباشرة مع موسيقاك، واختر من مكتبة كبيرة من الإعدادات المسبقة أو دعها تتبدّل تلقائياً." icon="sparkles" >}}
-  {{< feature-card title="عناصر التحكم في التشغيل" subtitle="اضبط سرعة التشغيل دون تغيير النغمة، واحفظ واستعد قائمة الانتظار والموضع، واستخدم مؤقت النوم والتبديل العشوائي والتكرار والتشغيل في الخلفية." icon="play" >}}
+  {{< ls-feature-card title="معادل الصوت" subtitle="اضبط صوتك بدقة مع معادل متعدد النطاقات، وإعدادات مسبقة جاهزة حسب النوع، وتحكم يدوي، وكسب مضخم مسبق لتعزيز المسارات الهادئة دون تشويه." icon="adjustments" >}}
+  {{< ls-feature-card title="مُرئيات الموسيقى" subtitle="شاهد مرئيات متحركة بملء الشاشة تتفاعل مباشرة مع موسيقاك، واختر من مكتبة كبيرة من الإعدادات المسبقة أو دعها تتبدّل تلقائياً." icon="sparkles" >}}
+  {{< ls-feature-card title="عناصر التحكم في التشغيل" subtitle="اضبط سرعة التشغيل دون تغيير النغمة، واحفظ واستعد قائمة الانتظار والموضع، واستخدم مؤقت النوم والتبديل العشوائي والتكرار والتشغيل في الخلفية." icon="play" >}}
 
-  {{< feature-card title="البث السحابي" subtitle="بث مباشرة من iCloud Drive و Google Drive و Dropbox و OneDrive و Box و MEGA و pCloud، بالإضافة إلى السحب التي تركّز على الخصوصية مثل Internxt و Proton Drive." icon="cloud" >}}
-  {{< feature-card title="خوادم الوسائط" subtitle="اتصل بخوادم الوسائط الشخصية الخاصة بك، بما في ذلك Plex و Subsonic و Navidrome و Jellyfin و Emby، لفتح وبث مكتبتك الموسيقية بالكامل." icon="server" >}}
-  {{< feature-card title="الكمبيوتر و NAS" subtitle="اتصل بكمبيوتر أو NAS عبر SMB أو WebDAV أو DLNA أو FTP أو SFTP أو NFS، مع دعم أصلي لـ QNAP و Synology و Nextcloud و WD My Cloud Home." icon="desktop-computer" >}}
+  {{< ls-feature-card title="البث السحابي" subtitle="بث مباشرة من iCloud Drive و Google Drive و Dropbox و OneDrive و Box و MEGA و pCloud، بالإضافة إلى السحب التي تركّز على الخصوصية مثل Internxt و Proton Drive." icon="cloud" >}}
+  {{< ls-feature-card title="خوادم الوسائط" subtitle="اتصل بخوادم الوسائط الشخصية الخاصة بك، بما في ذلك Plex و Subsonic و Navidrome و Jellyfin و Emby، لفتح وبث مكتبتك الموسيقية بالكامل." icon="server" >}}
+  {{< ls-feature-card title="الكمبيوتر و NAS" subtitle="اتصل بكمبيوتر أو NAS عبر SMB أو WebDAV أو DLNA أو FTP أو SFTP أو NFS، مع دعم أصلي لـ QNAP و Synology و Nextcloud و WD My Cloud Home." icon="desktop-computer" >}}
 
-  {{< feature-card title="بطاقات فلاش USB" subtitle="شغّل الموسيقى مباشرة من بطاقات SD ومحركات أقراص USB باستخدام قارئات خارجية مثل SanDisk iXpand، دون الحاجة إلى استيراد أو مزامنة." icon="inbox" >}}
-  {{< feature-card title="AirPlay و Chromecast" subtitle="أرسل موسيقاك لاسلكياً إلى Apple TV و HomePod ومكبرات الصوت الذكية والمزيد مع دعم مدمج لـ AirPlay و AirPlay 2 و Google Chromecast." icon="device-mobile" >}}
-  {{< feature-card title="Apple CarPlay" subtitle="قُد واستمع بأمان مع شاشة Apple CarPlay بسيطة ومخصصة لاختيار الموسيقى والتحكم بها من مصادر سحابية ومحلية وبدون اتصال." icon="map" >}}
+  {{< ls-feature-card title="بطاقات فلاش USB" subtitle="شغّل الموسيقى مباشرة من بطاقات SD ومحركات أقراص USB باستخدام قارئات خارجية مثل SanDisk iXpand، دون الحاجة إلى استيراد أو مزامنة." icon="inbox" >}}
+  {{< ls-feature-card title="AirPlay و Chromecast" subtitle="أرسل موسيقاك لاسلكياً إلى Apple TV و HomePod ومكبرات الصوت الذكية والمزيد مع دعم مدمج لـ AirPlay و AirPlay 2 و Google Chromecast." icon="device-mobile" >}}
+  {{< ls-feature-card title="Apple CarPlay" subtitle="قُد واستمع بأمان مع شاشة Apple CarPlay بسيطة ومخصصة لاختيار الموسيقى والتحكم بها من مصادر سحابية ومحلية وبدون اتصال." icon="map" >}}
 
-  {{< feature-card title="الاستماع بدون إنترنت" subtitle="نزّل الأغاني والألبومات والفنانين الكاملين للاستماع دون إنترنت، أو فعّل ذاكرة التخزين المؤقت الصوتية لحفظ المسارات المشغّلة مؤخراً تلقائياً." icon="download" >}}
-  {{< feature-card title="مزامنة تلقائية" subtitle="حافظ على مزامنة مكتبتك تلقائياً بين التخزين السحابي والمجلدات المحلية، بحيث تظهر الملفات المضافة حديثاً دون أي عمل يدوي." icon="refresh" >}}
-  {{< feature-card title="مكتبة الوسائط" subtitle="أضف موسيقاك ونظّمها تلقائياً حسب الألبوم والفنان وفنان الألبوم والنوع والملحن باستخدام العلامات المضمنة في ملفاتك." icon="library" >}}
+  {{< ls-feature-card title="الاستماع بدون إنترنت" subtitle="نزّل الأغاني والألبومات والفنانين الكاملين للاستماع دون إنترنت، أو فعّل ذاكرة التخزين المؤقت الصوتية لحفظ المسارات المشغّلة مؤخراً تلقائياً." icon="download" >}}
+  {{< ls-feature-card title="مزامنة تلقائية" subtitle="حافظ على مزامنة مكتبتك تلقائياً بين التخزين السحابي والمجلدات المحلية، بحيث تظهر الملفات المضافة حديثاً دون أي عمل يدوي." icon="refresh" >}}
+  {{< ls-feature-card title="مكتبة الوسائط" subtitle="أضف موسيقاك ونظّمها تلقائياً حسب الألبوم والفنان وفنان الألبوم والنوع والملحن باستخدام العلامات المضمنة في ملفاتك." icon="library" >}}
 
-  {{< feature-card title="قوائم تشغيل مخصصة" subtitle="أنشئ قوائم تشغيلك الخاصة وحرّرها وأعد ترتيبها، واجعلها متاحة بدون اتصال، واستوردها أو صدّرها بتنسيقات M3U و M3U8 و CUE." icon="collection" >}}
-  {{< feature-card title="مدير الملفات" subtitle="أدر موسيقاك باستخدام مدير الملفات المدمج، للتعامل مع العمليات اليومية مثل النسخ والنقل وإعادة التسمية والحذف للحفاظ على ترتيب الملفات." icon="folder" >}}
-  {{< feature-card title="محرر علامات ID3" subtitle="أصلح البيانات الوصفية الخاطئة أو المفقودة باستخدام محرر علامات ID3 المدمج، وحدّث العنوان والفنان والألبوم والنوع والمزيد بنقرات قليلة." icon="pencil-alt" >}}
+  {{< ls-feature-card title="قوائم تشغيل مخصصة" subtitle="أنشئ قوائم تشغيلك الخاصة وحرّرها وأعد ترتيبها، واجعلها متاحة بدون اتصال، واستوردها أو صدّرها بتنسيقات M3U و M3U8 و CUE." icon="collection" >}}
+  {{< ls-feature-card title="مدير الملفات" subtitle="أدر موسيقاك باستخدام مدير الملفات المدمج، للتعامل مع العمليات اليومية مثل النسخ والنقل وإعادة التسمية والحذف للحفاظ على ترتيب الملفات." icon="folder" >}}
+  {{< ls-feature-card title="محرر علامات ID3" subtitle="أصلح البيانات الوصفية الخاطئة أو المفقودة باستخدام محرر علامات ID3 المدمج، وحدّث العنوان والفنان والألبوم والنوع والمزيد بنقرات قليلة." icon="pencil-alt" >}}
 
-  {{< feature-card title="بحث متقدم" subtitle="اعثر بسرعة على أي أغنية أو فنان أو ألبوم عبر مجموعتك بالكامل ببحث ذكي وسريع مصمم للمكتبات الموسيقية الكبيرة جداً." icon="search" >}}
-  {{< feature-card title="وصول سريع" subtitle="ارجع مباشرة إلى ما يهمك مع المشغّلة مؤخراً والمفضلات والإشارات المرجعية، لتبقى مساراتك المفضلة دائماً على بُعد نقرة واحدة." icon="clock" >}}
-  {{< feature-card title="كلمات الأغاني والتعليقات" subtitle="اعرض كلمات الأغاني الموقوتة وملاحظات الأغنية داخل كل مسار أثناء تشغيله، وأضف أداة كلمات الأغاني إلى الشاشة الرئيسية للوصول السريع بلمحة." icon="annotation" >}}
+  {{< ls-feature-card title="بحث متقدم" subtitle="اعثر بسرعة على أي أغنية أو فنان أو ألبوم عبر مجموعتك بالكامل ببحث ذكي وسريع مصمم للمكتبات الموسيقية الكبيرة جداً." icon="search" >}}
+  {{< ls-feature-card title="وصول سريع" subtitle="ارجع مباشرة إلى ما يهمك مع المشغّلة مؤخراً والمفضلات والإشارات المرجعية، لتبقى مساراتك المفضلة دائماً على بُعد نقرة واحدة." icon="clock" >}}
+  {{< ls-feature-card title="كلمات الأغاني والتعليقات" subtitle="اعرض كلمات الأغاني الموقوتة وملاحظات الأغنية داخل كل مسار أثناء تشغيله، وأضف أداة كلمات الأغاني إلى الشاشة الرئيسية للوصول السريع بلمحة." icon="annotation" >}}
 
-  {{< feature-card title="الأدوات المصغّرة" subtitle="أضف أدوات مصغّرة للشاشة الرئيسية تعرض قائمة انتظار التشغيل وتتيح لك العودة مباشرة، لتكمل من حيث توقفت آخر مرة بالضبط." icon="view-grid" >}}
-  {{< feature-card title="دعم الكتب الصوتية" subtitle="استمع إلى الكتب الصوتية مع إشارات مرجعية ومؤقت نوم وسرعة قابلة للضبط واستئناف التشغيل الذي يبدأ من حيث توقفت آخر مرة بالضبط." icon="book-open" >}}
-  {{< feature-card title="تكامل Last.fm" subtitle="اربط حساب Last.fm الخاص بك لتسجيل المسارات ومتابعة إحصائيات استماعك والحصول على توصيات موسيقية مخصصة بمرور الوقت." icon="chart-bar" >}}
+  {{< ls-feature-card title="الأدوات المصغّرة" subtitle="أضف أدوات مصغّرة للشاشة الرئيسية تعرض قائمة انتظار التشغيل وتتيح لك العودة مباشرة، لتكمل من حيث توقفت آخر مرة بالضبط." icon="view-grid" >}}
+  {{< ls-feature-card title="دعم الكتب الصوتية" subtitle="استمع إلى الكتب الصوتية مع إشارات مرجعية ومؤقت نوم وسرعة قابلة للضبط واستئناف التشغيل الذي يبدأ من حيث توقفت آخر مرة بالضبط." icon="book-open" >}}
+  {{< ls-feature-card title="تكامل Last.fm" subtitle="اربط حساب Last.fm الخاص بك لتسجيل المسارات ومتابعة إحصائيات استماعك والحصول على توصيات موسيقية مخصصة بمرور الوقت." icon="chart-bar" >}}
 
 {{< /cards >}}
 
@@ -154,9 +154,9 @@ Flacbox يشغل أيضاً MP3 و AAC و OGG و APE و MOD و MKA وحاويا�
 
 <div class="hx:mt-6"></div>
 
-{{< hextra/section-headline >}}
+{{< ls-section-headline >}}
 تصميم بديهي
-{{< /hextra/section-headline >}}
+{{< /ls-section-headline >}}
 
 <div class="hx:mt-6"></div>
 
@@ -164,7 +164,7 @@ Flacbox يشغل أيضاً MP3 و AAC و OGG و APE و MOD و MKA وحاويا�
 
 {{< cards cols="4">}}
 
-  {{< design-feature-card 
+  {{< ls-design-feature-card 
     image="/products/flacbox/screenshots/2048x2732/1.png" 
     title="مشغل الصوت" 
     method="Fill"
@@ -173,7 +173,7 @@ Flacbox يشغل أيضاً MP3 و AAC و OGG و APE و MOD و MKA وحاويا�
     icon="play"
   >}}
 
-  {{< design-feature-card 
+  {{< ls-design-feature-card 
     image="/products/flacbox/screenshots/2048x2732/2.png"  
     title="معادل الصوت" 
     method="Fill"
@@ -182,7 +182,7 @@ Flacbox يشغل أيضاً MP3 و AAC و OGG و APE و MOD و MKA وحاويا�
     icon="adjustments"
   >}}
 
-  {{< design-feature-card 
+  {{< ls-design-feature-card 
     image="/products/flacbox/screenshots/2048x2732/3.png"  
     title="مدير قوائم التشغيل" 
     method="Fill"
@@ -191,7 +191,7 @@ Flacbox يشغل أيضاً MP3 و AAC و OGG و APE و MOD و MKA وحاويا�
     icon="collection"
   >}}
 
-  {{< design-feature-card 
+  {{< ls-design-feature-card 
     image="/products/flacbox/screenshots/2048x2732/5.png"  
     title="مكتبة الوسائط" 
     method="Fill"
@@ -200,7 +200,7 @@ Flacbox يشغل أيضاً MP3 و AAC و OGG و APE و MOD و MKA وحاويا�
     icon="library"
   >}}
 
-  {{< design-feature-card 
+  {{< ls-design-feature-card 
     image="/products/flacbox/screenshots/2048x2732/7.png"  
     title="التخزين السحابي" 
     method="Fill"
@@ -209,7 +209,7 @@ Flacbox يشغل أيضاً MP3 و AAC و OGG و APE و MOD و MKA وحاويا�
     icon="cloud"
   >}}
 
-  {{< design-feature-card 
+  {{< ls-design-feature-card 
     image="/products/flacbox/screenshots/2048x2732/8.png"  
     title="iCloud Drive" 
     method="Fill"
@@ -227,48 +227,48 @@ Flacbox يشغل أيضاً MP3 و AAC و OGG و APE و MOD و MKA وحاويا�
 <div class="hx:mt-6"></div>
 
 <div class="hx:w-full">
-{{< appstore-reviews apps="1097564256,1594027432" stars="5,4"  app="Flacbox" >}}
+{{< ls-appstore-reviews apps="1097564256,1594027432" stars="5,4"  app="Flacbox" >}}
 </div>
 
 <div class="hx:mt-6"></div>
 
-{{< hextra/section-headline >}}
+{{< ls-section-headline >}}
    خطط الأسعار
-{{< /hextra/section-headline >}}
+{{< /ls-section-headline >}}
 
 <div class="hx:mt-6"></div>
 
 <div class="hx:w-full">
 
-{{< pricing-plans >}}
+{{< ls-pricing-plans >}}
 
 </div>
 
 <div class="hx:mt-6"></div>
 
 <div class="hx:w-full hx:mx-auto hx:flex hx:flex-col hx:items-center">
-  {{< hextra/info-paragraph border="true" >}}
+  {{< ls-info-paragraph border="true" >}}
    <strong>مشاركة عائلية</strong>: جميع المشتريات والاشتراكات تدعم المشاركة العائلية، مما يتيح لك مشاركة الوصول المميز مع عائلتك.<br><strong>وصول شامل</strong>: خطط مدى الحياة والاشتراكات مشتركة بين أجهزة iOS و Mac باستخدام مزامنة iCloud.<br><strong>الأسعار</strong>: الأسعار معروضة بالدولار الأمريكي للولايات المتحدة. قد يختلف السعر النهائي بناءً على منطقتك.  
-  {{< /hextra/info-paragraph >}}
+  {{< /ls-info-paragraph >}}
 </div>
 
 <div class="hx:mt-6"></div>
 
 <div class="hx:w-full">
-{{< app-details heading="true" >}}
+{{< ls-app-details heading="true" >}}
 </div>
 
 <div class="hx:mt-6"></div>
 
-{{< hextra/section-headline >}}
+{{< ls-section-headline >}}
    الأسئلة الشائعة
-{{< /hextra/section-headline >}}
+{{< /ls-section-headline >}}
 
 <div class="hx:mt-6"></div>
 
 <div class="hx:w-full">
 
-{{% details title="كيف يعمل Flacbox؟" closed="true" %}}
+{{% ls-details title="كيف يعمل Flacbox؟" closed="true" %}}
 Flacbox هو مشغل موسيقى عالي الدقة يتيح لك إدارة المسارات الصوتية كملفات عادية.<br>
 يمكنك تحميل مجموعتك الموسيقية بالكامل إلى خدمات سحابية مثل Dropbox أو Google Drive أو NAS شخصي وتشغيل الموسيقى مباشرة من السحابة مع تحكم كامل.<br><br>
 لا حاجة لمزامنة iTunes — فقط قم بالتحميل من جهاز الكمبيوتر أو Mac كما تفعل مع أي ملف.<br>
@@ -282,9 +282,9 @@ Flacbox هو مشغل موسيقى عالي الدقة يتيح لك إدارة 
 - [كيفية نقل الملفات لاسلكياً من الكمبيوتر إلى iPhone باستخدام WiFi-Drive.](/docs/howto/how-to-transfer-files-wirelessly-from-a-computer-to-an-iphone-using-wifi-drive)<br>
 - [كيفية توصيل بطاقة فلاش USB بـ iPhone والاستماع إلى الموسيقى أو إدارة الملفات الموجودة عليها.](/docs/howto/how-to-connect-a-usb-flashcard-to-the-iphone-and-listen-to-music-or-manage-files-located-on-it)<br>
 - [كيفية تشغيل الموسيقى على iPhone من WD My Cloud Home.](/docs/howto/how-to-play-music-on-iphone-from-wd-my-cloud-home)
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="هل Flacbox مجاني؟" closed="true" %}}
+{{% ls-details title="هل Flacbox مجاني؟" closed="true" %}}
 Flacbox مجاني للاستخدام مع بعض القيود، والتي يمكن إزالتها بالترقية إلى الإصدار المميز.<br>
 يمكنك الاختيار بين شراء مدى الحياة لمرة واحدة أو خياري اشتراك (شهري أو سنوي). قد تختلف الأسعار بناءً على منطقتك.<br><br>
 
@@ -293,10 +293,10 @@ Flacbox مجاني للاستخدام مع بعض القيود، والتي يم
 المشتريات والاشتراكات المميزة مشتركة بين iOS و Mac عبر iCloud. لمزامنة عملية الشراء، تأكد من تمكين iCloud، وافتح التطبيق على جهاز iOS الخاص بك، وانتظر دقيقة لإكمال المزامنة.<br><br>
 
 [اقرأ المزيد عن الفروقات بين Flacbox و Flacbox Premium](/docs/faq/flacbox/what-is-the-difference-between-flacbox-and-flacbox-premium/)
-{{% /details %}}
+{{% /ls-details %}}
 
 
-{{% details title="ما الفرق بين Flacbox و Evermusic؟" closed="true" %}}
+{{% ls-details title="ما الفرق بين Flacbox و Evermusic؟" closed="true" %}}
 **Flacbox** مصمم لدعم جميع تنسيقات الصوت الافتراضية لـ iOS إلى جانب العديد من التنسيقات الإضافية غير المدعومة أصلاً على iPhone، مثل WMA و OGG و M4A و DSD والمزيد.<br>
 يستخدم محرك صوت مخصص للتعامل مع جميع التنسيقات تقريباً ويقدم ميزات مثل معدل عينة إخراج الصوت القابل للتعديل وتصحيح النغمة.<br><br>
 
@@ -306,9 +306,9 @@ Flacbox مجاني للاستخدام مع بعض القيود، والتي يم
 إذا كنت بحاجة إلى توافق واسع مع أنواع ملفات صوتية مختلفة، فإن **Flacbox** هو الخيار الصحيح.<br><br>
 
 [تعرف على المزيد حول الفروقات بين Flacbox و Evermusic](/docs/faq/evermusic/what-is-the-difference-between-evermusic-and-flacbox/)
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="كيف أقوم بمزامنة Flacbox؟" closed="true" %}}
+{{% ls-details title="كيف أقوم بمزامنة Flacbox؟" closed="true" %}}
 
 **مزامنة البيانات الوصفية**  
 عند إضافة مسارات إلى مكتبتك، يقوم قارئ البيانات الوصفية في الخلفية بمسح ملفاتك وتنظيمها حسب الفنان والألبوم والنوع والملحن.<br>
@@ -345,10 +345,10 @@ Flacbox مجاني للاستخدام مع بعض القيود، والتي يم
 
 [اقرأ المزيد](/docs/guide/flacbox/flacbox-guide-music-library)
 
-{{% /details %}}
+{{% /ls-details %}}
 
 
-{{% details title="كيف أستخدم Flacbox؟" closed="true" %}}
+{{% ls-details title="كيف أستخدم Flacbox؟" closed="true" %}}
 
 **تثبيت Flacbox**<br>
 قم بتنزيل وتثبيت تطبيق Flacbox من متجر التطبيقات على جهازك. متوفر لأجهزة iOS و Mac.<br><br>
@@ -408,10 +408,10 @@ Flacbox مجاني للاستخدام مع بعض القيود، والتي يم
 • [توصيل بطاقة فلاش USB](/docs/howto/how-to-connect-a-usb-flashcard-to-the-iphone-and-listen-to-music-or-manage-files-located-on-it)<br>
 • [نقل لاسلكي عبر WiFi-Drive](/docs/howto/how-to-transfer-files-wirelessly-from-a-computer-to-an-iphone-using-wifi-drive)
 
-{{% /details %}}
+{{% /ls-details %}}
 
 
-{{% details title="هل Flacbox آمن؟" closed="true" %}}
+{{% ls-details title="هل Flacbox آمن؟" closed="true" %}}
 يستخدم Flacbox فقط SDK الرسمي واتصالات آمنة للتفاعل مع الخدمات السحابية المتصلة. بيانات تسجيل الدخول وكلمة المرور الخاصة بك غير متاحة للتطبيق. جميع الطلبات من التطبيق إلى الخدمة السحابية مشفرة.<br>
 عند إدخال اسم المستخدم وكلمة المرور، يعرض لك التطبيق صفحة التفويض الرسمية المقدمة من مزود الخدمة السحابية وتتم عملية التفويض بالكامل خارج التطبيق. يرسل مزود الخدمة السحابية رمز مصادقة إلى التطبيق بعد التفويض الناجح ويُستخدم هذا الرمز لإجراء مكالمات API.<br><br>
 
@@ -423,24 +423,24 @@ Flacbox مجاني للاستخدام مع بعض القيود، والتي يم
 يمكنك أيضاً فصل الحسابات السحابية المتصلة في التطبيق وسيتم أيضاً إزالة رمز المصادقة من جهازك. إذا قمت بإزالة التطبيق من جهازك، فسيتم أيضاً إزالة جميع البيانات المنزلة ورموز الوصول.<br><br>
 
 [اقرأ المزيد](/docs/guide/flacbox/flacbox-guide-connections)
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="كيف أنشئ قائمة تشغيل في Flacbox؟" closed="true" %}}
+{{% ls-details title="كيف أنشئ قائمة تشغيل في Flacbox؟" closed="true" %}}
 - افتح قسم قوائم التشغيل.<br>
 - اضغط على زر "+" أو زر "..." في الزاوية العلوية اليمنى واختر "قائمة تشغيل جديدة".<br>
 - أدخل اسماً لقائمة التشغيل واضغط "حفظ". سيظهر مربع حوار "إضافة أغاني".<br>
 - حدد المسارات التي تريد إضافتها إلى قائمة التشغيل.<br><br>
 
 [اقرأ المزيد](/docs/guide/flacbox/flacbox-guide-playlists)
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="ما الخدمات السحابية التي يدعمها Flacbox؟" closed="true" %}}
+{{% ls-details title="ما الخدمات السحابية التي يدعمها Flacbox؟" closed="true" %}}
 حالياً، يدعم التطبيق أكثر الخدمات السحابية شيوعاً: iCloud Drive، Google Drive، Dropbox، OneDrive، Box، MEGA، Yandex.Disk، WD MyCloud Home، DLNA، MediaFire، WebDAV، SMB، pCloud، HiDrive، My Cloud Home، InfiniCLOUD، Cloud Mail.ru، Put.io، MyDrive.<br><br>
 
 [اقرأ المزيد](/docs/guide/flacbox/flacbox-guide-connections)
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="كيف يمكنني استخدام المعادل؟" closed="true" %}}
+{{% ls-details title="كيف يمكنني استخدام المعادل؟" closed="true" %}}
 - افتح شاشة مشغل الصوت.<br>
 - اضغط على أيقونة "المعادل" في أسفل الشاشة.<br>
 - شغّل مفتاح التحكم في الزاوية العلوية اليمنى من شاشة المعادل لتفعيل المعادل.<br>
@@ -448,9 +448,9 @@ Flacbox مجاني للاستخدام مع بعض القيود، والتي يم
 
 الدليل الكامل متاح هنا:<br>
 [كيفية استخدام معادل الصوت على iPhone و iPad و Mac مع Evermusic و Flacbox](/docs/howto/how-to-use-the-audio-equalizer-on-your-iphone-ipad-mac-with-evermusic-and-flacbox)
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="كيف أقوم بتمكين وضع عدم الاتصال في Flacbox؟" closed="true" %}}
+{{% ls-details title="كيف أقوم بتمكين وضع عدم الاتصال في Flacbox؟" closed="true" %}}
 - توصيل خدمة سحابية:<br>
  • انتقل إلى علامة تبويب "الاتصالات".<br>
  • اختر "توصيل خدمة سحابية" واتبع التعليمات لتوصيل الخدمة المطلوبة.<br><br>
@@ -476,9 +476,9 @@ Flacbox مجاني للاستخدام مع بعض القيود، والتي يم
  • اضغط "المزيد من الإجراءات" واختر "بدء المزامنة".<br><br>
 
 [اقرأ المزيد](/docs/howto/play-offline-music-in-evermusic-flacbox-download-sync-from-cloud-to-local-files/)
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="كيفية تشغيل الموسيقى المحملة محلياً على iPhone؟" closed="true" %}}
+{{% ls-details title="كيفية تشغيل الموسيقى المحملة محلياً على iPhone؟" closed="true" %}}
 بمجرد تثبيت التطبيق، افتح شاشة "الملفات المحلية" وانتقل لأسفل إلى قسم "الملفات على هذا الـ iPhone". من هناك، اختر "فتح ملفات..." إذا كنت بحاجة لتحديد عدة ملفات صوتية أو "فتح مجلد..." إذا كنت تريد اختيار مجلد موسيقى. سيقوم التطبيق بمسح محتوى المجلد، وسيتم تحديد جميع ملفات الصوت الموجودة. انتقل إلى مجلد الموسيقى الخاص بك، واضغط "فتح" لتأكيد اختيارك، وستتم إضافة الملفات إلى قائمة انتظار المشغل. سيتم تشغيل هذه الملفات مباشرة من الموقع المحدد دون نسخها إلى حزمة التطبيق.<br><br>
 
 **إضافة مجلد إلى المفضلة للوصول السريع**<br>
@@ -493,13 +493,13 @@ Flacbox مجاني للاستخدام مع بعض القيود، والتي يم
 مع هذه الخطوات البسيطة، يمكنك إطلاق العنان للإمكانات الكاملة لجهاز iPhone و Mac كمنصات مثالية للاستمتاع بمجموعتك الموسيقية المحلية العزيزة.<br><br>
 
 [اقرأ المزيد](/docs/howto/how-to-play-local-music-stored-on-your-iphone-or-mac)
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="كيف يمكنني استئناف قائمة تشغيل من حيث توقفت؟" closed="true" %}}
+{{% ls-details title="كيف يمكنني استئناف قائمة تشغيل من حيث توقفت؟" closed="true" %}}
 أولاً، تأكد من تمكين "حفظ حالة مشغل الصوت" في الإعدادات > مشغل الصوت > عام. عند التبديل إلى قائمة تشغيل أخرى والعودة، ستظهر أربعة إجراءات على شريط الأدوات العلوي تحت غلاف الألبوم: "بحث" و"استئناف التشغيل" و"تشغيل الكل" و"تبديل عشوائي". اضغط "استئناف التشغيل" لاستئناف قائمة التشغيل من آخر حالة محفوظة وموضع الوسائط.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="كيفية عرض كلمات الأغاني في Flacbox؟" closed="true" %}}
+{{% ls-details title="كيفية عرض كلمات الأغاني في Flacbox؟" closed="true" %}}
 يمكنك عرض كلمات الأغاني المضمنة للمسارات في التطبيق **باتباع هذه الخطوات**:<br>
 1. ابدأ تشغيل ملف صوتي بالنقر عليه.<br>
 2. افتح مشغل الصوت بملء الشاشة.<br>
@@ -513,9 +513,9 @@ Flacbox مجاني للاستخدام مع بعض القيود، والتي يم
 3. وضع ملف LRC: بدلاً من تحرير ملفات الصوت، يمكنك وضع ملف LRC في نفس المجلد مع ملف الصوت الأصلي. يجب أن يكون لكلا الملفين نفس الاسم ولكن بامتدادات مختلفة. عند التمرير إلى الصفحة الثالثة في شاشة التعليقات، سيبحث التطبيق عن ملف LRC في نفس الدليل ويعرض محتواه.<br><br>
 
 [اقرأ المزيد](/docs/howto/how-to-add-and-view-comments-to-your-audio-tracks-on-iphone-ipad-and-mac-with-evermusic-and-flacbox)
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="كيف أنقل الموسيقى إلى Flacbox من جهاز الكمبيوتر؟" closed="true" %}}
+{{% ls-details title="كيف أنقل الموسيقى إلى Flacbox من جهاز الكمبيوتر؟" closed="true" %}}
 يمكنك توصيل جهاز الكمبيوتر أو NAS الشخصي باستخدام بروتوكولات SMB أو WebDAV أو DLNA. بدلاً من ذلك، استخدم مشاركة ملفات iTunes لنقل الموسيقى.<br><br>
 
 لتوصيل كمبيوتر باستخدام بروتوكول SMB، اضغط "توصيل خدمة سحابية" → SMB. أدخل عنوان IP للكمبيوتر واسم المجلد المشترك في حقل URL باستخدام التنسيق smb://عنوان-ip-الكمبيوتر/اسم-المجلد-المشترك، أدخل اسم المستخدم وكلمة المرور واضغط "تم". إذا نجح الاتصال، ستظهر التخزين المتصل في قسم "الخدمات السحابية".<br><br>
@@ -536,9 +536,9 @@ Wi-Fi Drive هي تقنية شائعة تتيح لك نقل الملفات من 
 
 DLNA يمكنك أيضاً إعداد خادم وسائط DLNA وبث موسيقاك من Windows PC كما هو موضح هنا:<br>
 [كيفية تمكين خادم وسائط DLNA على Windows 10 وتشغيل موسيقاك على iPhone](/docs/howto/how-to-enable-dlna-media-server-on-windows-10-and-play-your-music-on-iphone)
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="كيفية تنزيل الموسيقى؟" closed="true" %}}
+{{% ls-details title="كيفية تنزيل الموسيقى؟" closed="true" %}}
 قبل أن تتمكن من تنزيل الموسيقى والاستماع إلى موسيقاك بدون إنترنت، يجب عليك توصيل حساب شبكة.<br>
 فقط افتح شاشة "الاتصالات" وأضف حسابك.<br>
 بمجرد إضافة حساب شبكة، يمكنك تنزيل موسيقاك من السحابة.<br><br>
@@ -559,15 +559,15 @@ DLNA يمكنك أيضاً إعداد خادم وسائط DLNA وبث موسيق
 
 خيار آخر متاح هو تنزيل الموسيقى من الخدمات السحابية واستيرادها في Evermusic كما هو موضح هنا:<br>
 [كيفية تنزيل الموسيقى من YouTube والاستماع إلى الموسيقى بدون إنترنت على iPhone](/docs/howto/how-to-download-music-from-youtube-and-listen-to-offline-music-on-iphone)
-{{% /details %}}
+{{% /ls-details %}}
 
 
-{{% details title="ما تنسيقات الصوت التي يدعمها Flacbox؟" closed="true" %}}
+{{% ls-details title="ما تنسيقات الصوت التي يدعمها Flacbox؟" closed="true" %}}
 يدعم هذا التطبيق **برامج ترميز صوت النظام** الافتراضية وبرامج **ترميز ffmpeg** البرمجية الإضافية:<br><br>
 3g2, 3gp, 3gp2, 3gpp, 8svx, aa, aac, aax, ac3, act, adt, adts, aif, aifc, aiff, alac, amr, amv, ape, asf, au, avi, awb, caf, cavs, cdda, cue, dct, dff, drc, dsf, dss, dvf, "dvr-ms", ec3, f4a, f4b, f4p, f4v, flac, flv, gif, gifv, gsm, gxf, h261, h263, h264, ifv, iklax, ivf, ivs, l16, latm, loas, m2t, m2ts, m2v, m3u, m3u8, m4a, m4b, m4p, m4r, m4v, mka, mkv, mmf, mng, mod, mogg, mov, mp1, mp2, mp3, mp4, mp4v, mpa, mpc, mpe, mpeg, mpg, mpv, msv, mts, mxf, nsf, nsv, nut, oga, ogg, ogv, opus, pcm, pls, qt, ra, raw, rm, rmvb, roq, rv, sln, snd, svi, tod, tta, vob, voc, vox, vtt, w64, wav, wave, webm, wma, wmv, wv, xhe, xmv, y4m, yuv.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="هل يمكنني استخدام Flacbox لتشغيل الكتب الصوتية؟" closed="true" %}}
+{{% ls-details title="هل يمكنني استخدام Flacbox لتشغيل الكتب الصوتية؟" closed="true" %}}
 
 نعم، يمكن استخدام Flacbox كمشغل كتب صوتية قوي.<br><br>
 
@@ -590,11 +590,11 @@ DLNA يمكنك أيضاً إعداد خادم وسائط DLNA وبث موسيق
 
 [اقرأ المزيد](/docs/howto/how-to-listen-to-audiobooks-on-iphone-ipad-mac-using-evermusic)
 
-{{% /details %}}
+{{% /ls-details %}}
 
 
 
-{{% details title="هل يعمل Flacbox مع أجهزة NAS؟" closed="true" %}}
+{{% ls-details title="هل يعمل Flacbox مع أجهزة NAS؟" closed="true" %}}
 
 نعم، يدعم Flacbox اتصالات NAS باستخدام بروتوكولات **SMB** و**WebDAV** و**DLNA**.<br><br>
 
@@ -625,10 +625,10 @@ DLNA يمكنك أيضاً إعداد خادم وسائط DLNA وبث موسيق
 • [توصيل تخزين Bluesound Vault](/docs/howto/how-to-connect-bluesound-vault-s-internal-storage-from-the-evermusic-flacbox-evertag)<br>
 • [توصيل تخزين NAS باستخدام WebDAV](/docs/howto/how-to-connect-nas-storage-using-webdav-and-listen-to-music-on-your-iphone-or-mac)
 
-{{% /details %}}
+{{% /ls-details %}}
 
 
-{{% details title="كيف أقوم باستيراد الموسيقى إلى Flacbox؟" closed="true" %}}
+{{% ls-details title="كيف أقوم باستيراد الموسيقى إلى Flacbox؟" closed="true" %}}
 
 **توصيل خدمتك السحابية**<br>
 • افتح علامة تبويب **الاتصالات**.<br>
@@ -674,10 +674,10 @@ DLNA يمكنك أيضاً إعداد خادم وسائط DLNA وبث موسيق
 • [نقل الملفات لاسلكياً باستخدام WiFi-Drive](/docs/howto/how-to-transfer-files-wirelessly-from-a-computer-to-an-iphone-using-wifi-drive)<br>
 • [نقل الملفات باستخدام بروتوكول SMB](/docs/howto/transfer-your-files-from-the-computer-to-iphone-using-smb-protocol/)
 
-{{% /details %}}
+{{% /ls-details %}}
 
 
-{{% details title="كيف أستخدم ميزة Wi-Fi Drive في Flacbox؟" closed="true" %}}
+{{% ls-details title="كيف أستخدم ميزة Wi-Fi Drive في Flacbox؟" closed="true" %}}
 
 **النقل اللاسلكي باستخدام متصفح سطح المكتب**<br>
 1. شغّل التطبيق: افتح Flacbox.<br>
@@ -702,9 +702,9 @@ DLNA يمكنك أيضاً إعداد خادم وسائط DLNA وبث موسيق
 
 [اقرأ المزيد](/docs/howto/how-to-transfer-files-wirelessly-from-a-computer-to-an-iphone-using-wifi-drive)
 
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="هل يدعم Flacbox Apple CarPlay؟" closed="true" %}}
+{{% ls-details title="هل يدعم Flacbox Apple CarPlay؟" closed="true" %}}
 نعم، **يدعم Flacbox Apple CarPlay بالكامل**. يمكنك تصفح مكتبتك الموسيقية وتشغيل الملفات المحلية أو بدون إنترنت والاتصال بالتخزين السحابي والتحكم في التشغيل مباشرة من شاشة المعلومات والترفيه في سيارتك.
 
 تتضمن واجهة CarPlay علامات تبويب مخصصة لـ **المكتبة** و**الاتصالات** و**الملفات المحلية** و**الإعدادات**، مما يمنحك تحكماً كاملاً في موسيقاك على الطريق. عناصر التحكم في التشغيل والتبديل العشوائي والتكرار وإدارة قائمة الانتظار متاحة أيضاً.
@@ -712,42 +712,42 @@ DLNA يمكنك أيضاً إعداد خادم وسائط DLNA وبث موسيق
 لاستخدام CarPlay، تأكد من تمكين Siri وأن iPhone متصل عبر USB أو لاسلكياً.
 
 [اقرأ الدليل الكامل](/docs/howto/how-to-play-your-own-music-on-iphone-using-carplay/)
-{{% /details %}}
+{{% /ls-details %}}
 
 </div>
 
 
 <div class="hx:mt-6"></div>
 
-{{< hextra/section-headline >}}
+{{< ls-section-headline >}}
   دليل المستخدم
-{{< /hextra/section-headline >}}
+{{< /ls-section-headline >}}
 
 <div class="hx:mt-6"></div>
 
 <div class="hx:w-full">
 
 <div class="hx:w-full hx:mx-auto hx:flex hx:flex-col hx:items-center hx:text-center">
-  {{< hextra/info-paragraph border="false" >}}
+  {{< ls-info-paragraph border="false" >}}
   سيساعدك هذا الدليل في الحصول على أقصى استفادة من Flacbox على iPhone أو iPad أو Mac الخاص بك. تعلم كيفية بث الموسيقى عالية الدقة من السحابة، وتنظيم مكتبتك، وإدارة الكتب الصوتية، ونقل الموسيقى بين الأجهزة.
-  {{< /hextra/info-paragraph >}}
+  {{< /ls-info-paragraph >}}
 </div>
 
 {{< cards >}}
 
-{{< feature-card icon="map" link="/docs/guide/flacbox/flacbox-guide-navigation" title="التنقل" subtitle="استخدم شريط التبويب على iPhone أو القائمة اليسرى على iPad و Mac." >}}
+{{< ls-feature-card icon="map" link="/docs/guide/flacbox/flacbox-guide-navigation" title="التنقل" subtitle="استخدم شريط التبويب على iPhone أو القائمة اليسرى على iPad و Mac." >}}
 
-{{< feature-card icon="cloud" link="/docs/guide/flacbox/flacbox-guide-connections" title="الاتصالات" subtitle="اتصل بـ Dropbox و Google Drive و iCloud أو NAS الخاص بك." >}}
+{{< ls-feature-card icon="cloud" link="/docs/guide/flacbox/flacbox-guide-connections" title="الاتصالات" subtitle="اتصل بـ Dropbox و Google Drive و iCloud أو NAS الخاص بك." >}}
 
-{{< feature-card icon="collection" link="/docs/guide/flacbox/flacbox-guide-music-library" title="مكتبة الموسيقى" subtitle="أدر وابحث عن المسارات حسب الفنان أو الألبوم أو النوع." >}}
+{{< ls-feature-card icon="collection" link="/docs/guide/flacbox/flacbox-guide-music-library" title="مكتبة الموسيقى" subtitle="أدر وابحث عن المسارات حسب الفنان أو الألبوم أو النوع." >}}
 
-{{< feature-card icon="music-note" link="/docs/guide/flacbox/flacbox-guide-playlists" title="قوائم التشغيل" subtitle="أنشئ ونظم قوائم التشغيل لأي مزاج أو مناسبة." >}}
+{{< ls-feature-card icon="music-note" link="/docs/guide/flacbox/flacbox-guide-playlists" title="قوائم التشغيل" subtitle="أنشئ ونظم قوائم التشغيل لأي مزاج أو مناسبة." >}}
 
-{{< feature-card icon="folder" link="/docs/guide/flacbox/flacbox-guide-local-files" title="الملفات المحلية" subtitle="حرر وشغل الموسيقى بدون إنترنت باستخدام مدير الملفات المدمج." >}}
+{{< ls-feature-card icon="folder" link="/docs/guide/flacbox/flacbox-guide-local-files" title="الملفات المحلية" subtitle="حرر وشغل الموسيقى بدون إنترنت باستخدام مدير الملفات المدمج." >}}
 
-{{< feature-card icon="play" link="/docs/guide/flacbox/flacbox-guide-player" title="مشغل الصوت" subtitle="تحكم في التشغيل، واضبط السرعة، وعيّن إشارات مرجعية، والمزيد." >}}
+{{< ls-feature-card icon="play" link="/docs/guide/flacbox/flacbox-guide-player" title="مشغل الصوت" subtitle="تحكم في التشغيل، واضبط السرعة، وعيّن إشارات مرجعية، والمزيد." >}}
 
-{{< feature-card icon="adjustments" link="/docs/guide/flacbox/flacbox-guide-settings" title="الإعدادات" subtitle="خصص المعادل والمظهر وسلوك التطبيق." >}}
+{{< ls-feature-card icon="adjustments" link="/docs/guide/flacbox/flacbox-guide-settings" title="الإعدادات" subtitle="خصص المعادل والمظهر وسلوك التطبيق." >}}
 
 {{< /cards >}}
 

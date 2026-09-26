@@ -7,9 +7,9 @@ tags: ["Flacbox", "Kesan Audio", "Cara", "BASS", "Penyama", "Peningkatan Bass", 
 readingTime: 30
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
-{{< full-width-tables >}}
+{{< ls-full-width-tables >}}
 
 **Jawapan ringkas:** Dalam Flacbox anda memilih satu **Enjin main balik** dalam **Tetapan > Pemain audio**: **Standard** (enjin sistem Apple), **Universal** (enjin FFmpeg), atau **Sound FX** (**enjin BASS™**). Enjin yang anda pilih menentukan format fail yang dimainkan, jadi pilihan itu penting. Enjin **Sound FX** memainkan format tambahan yang kebanyakan aplikasi iPhone langkau (FLAC, DSD, WavPack, APE, Musepack, TrueAudio, Opus, dan muzik **MOD dan tracker** lama seperti MOD, XM, IT, dan S3M), dan ia adalah satu-satunya enjin yang menggerakkan alat bunyi: **penyama 10 jalur**, **Penormalan Kelantangan**, **Compressor**, **Freeverb**, **Auto Wah**, **Phaser**, **Flanger**, **Echo**, **Chorus**, **Distortion**, **Rotate**, **Crossfeed**, dan **rantaian DSP** yang boleh anda bina sendiri. Jadi untuk menggunakan kesan dalam panduan ini, tetapkan Enjin main balik anda kepada **Sound FX** dahulu. Setiap alat mempunyai **pratetap** siap sedia. Buka ia dalam **Tetapan > Pemain audio** (Kesan audio, Penyama audio, Pemprosesan isyarat), atau ketik butang **⋯ (Lebih banyak tindakan)** pada pemain dan pilih **Kesan audio**. Tiada apa yang anda lakukan di sini akan mengubah fail anda.
 
@@ -657,93 +657,93 @@ Kerana semua ini berjalan secara langsung semasa muzik dimainkan, kesan:
 
 ## Soalan Lazim
 
-{{% details title="Enjin bunyi apa yang digunakan Flacbox?" closed="true" %}}
+{{% ls-details title="Enjin bunyi apa yang digunakan Flacbox?" closed="true" %}}
 Anda memilih satu Enjin main balik dalam Tetapan > Pemain audio: Standard (enjin sistem Apple), Universal (enjin FFmpeg), atau Sound FX (enjin BASS™ daripada Un4seen Developments, un4seen.com). Enjin yang anda pilih menentukan format fail yang dimainkan. Sound FX ialah yang memainkan format tambahan seperti FLAC, DSD, WavPack, APE, Musepack, TrueAudio, Opus, dan muzik MOD atau tracker, dan ia adalah satu-satunya enjin yang menyediakan kesan langsung, penyama 10 jalur, dan rantaian DSP. Untuk menggunakan kesan, tetapkan Enjin main balik kepada Sound FX.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Bolehkah Flacbox memainkan MOD, XM, IT, dan muzik tracker atau modul lain?" closed="true" %}}
+{{% ls-details title="Bolehkah Flacbox memainkan MOD, XM, IT, dan muzik tracker atau modul lain?" closed="true" %}}
 Ya. Enjin BASS™ mempunyai pemain modul terbina dalam yang memuatkan fail MOD, XM, IT, S3M, MTM, UMX, dan MO3 dan membina semula lagu secara langsung daripada corak dan bunyi instrumennya, mengikut cara muzik tracker sepatutnya dimainkan. Pemain iPhone biasa tidak boleh melakukan ini. Kesan dan penyama berfungsi pada muzik modul juga.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Adakah Flacbox menyokong fail DSD dan resolusi tinggi?" closed="true" %}}
+{{% ls-details title="Adakah Flacbox menyokong fail DSD dan resolusi tinggi?" closed="true" %}}
 Ya. Flacbox memainkan fail DSD (DSF dan DFF) melalui enjin BASS™ menggunakan DSD over PCM supaya ia berfungsi pada perkakasan output biasa, tambahan lagi FLAC, WavPack, Monkey's Audio (APE), Musepack, dan TrueAudio untuk main balik lossless.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Apakah kesan bunyi yang ada pada Flacbox?" closed="true" %}}
+{{% ls-details title="Apakah kesan bunyi yang ada pada Flacbox?" closed="true" %}}
 Penyama 10 jalur, Penormalan Kelantangan, Compressor, Freeverb, Auto Wah, Phaser, Flanger, Echo, Chorus, Distortion, Rotate, dan Crossfeed, tambahan lagi rantaian DSP yang boleh anda bina sendiri dengan penapis, shelf, gain, soft clip, bit crusher, ring modulator, tremolo, delay, dan stereo width. Setiap satu berasingan dan boleh digabungkan dengan yang lain.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Apakah pratetap itu?" closed="true" %}}
+{{% ls-details title="Apakah pratetap itu?" closed="true" %}}
 Pratetap ialah tetapan siap sedia untuk kesan. Daripada menggerakkan gelangsar sendiri, anda ketik pratetap dan bunyi berubah untuk sepadan. Setiap kesan dalam Flacbox mempunyai beberapa pratetap, dan panduan ini menyenaraikan apa yang dilakukan oleh setiap satu. Jika anda menggerakkan gelangsar selepas memilih pratetap, kesan menunjukkan 'Manual' untuk memberitahu anda ia kini menggunakan nilai anda sendiri.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Bagaimana saya membuka kesan audio dalam Flacbox?" closed="true" %}}
+{{% ls-details title="Bagaimana saya membuka kesan audio dalam Flacbox?" closed="true" %}}
 Buka pemain Now Playing, ketik butang ⋯ (Lebih banyak tindakan), dan pilih Kesan audio. Atau pergi ke Tetapan > Pemain audio > Kesan audio. Ketik kesan, hidupkan suisnya, dan pilih pratetap, atau buka gelangsar untuk memperhalusi.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Di mana penyama, dan apakah tetapan terbaik?" closed="true" %}}
+{{% ls-details title="Di mana penyama, dan apakah tetapan terbaik?" closed="true" %}}
 Pergi ke Tetapan > Pemain audio > Penyama audio. Ia mempunyai 10 jalur dari 32 Hz hingga 16 kHz, setiap satu dari -12 hingga +12 dB, tambahan lagi Praamplifier -24 hingga +24 dB dan 22 pratetap. Untuk lebih banyak bass, gunakan Bass Booster. Untuk suara lebih jelas, gunakan Vocal Booster atau Pop. Untuk bunyi lebih cerah, gunakan Treble Booster. Kemudian laraskan jalur tunggal mengikut selera.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Bagaimana saya meningkatkan bass dalam Flacbox?" closed="true" %}}
+{{% ls-details title="Bagaimana saya meningkatkan bass dalam Flacbox?" closed="true" %}}
 Dua cara mudah. Dalam Penyama audio, pilih Bass Booster (atau naikkan jalur 32 Hz dan 64 Hz beberapa dB). Atau, dalam Pemprosesan isyarat, tambah blok Low Shelf ditetapkan kepada Bass Boost. Dalam kedua-dua kes, turunkan Praamplifier atau tambah blok Gain 1 hingga 2 dB supaya bass kekal bersih dan tidak herot.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Pratetap penyama mana yang terbaik untuk muzik saya?" closed="true" %}}
+{{% ls-details title="Pratetap penyama mana yang terbaik untuk muzik saya?" closed="true" %}}
 Rock dan Electronic menambah tenaga dengan bahagian rendah dan tinggi yang kuat. Acoustic, Jazz, dan Classical kekal hangat dan semula jadi. Pop dan Vocal Booster menolak suara ke hadapan. Bass Booster dan Hip-Hop menambah berat. Deep dan Loudness berbunyi lebih penuh pada kelantangan rendah. Mula dengan yang sepadan dengan genre anda, kemudian perhalusi.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Apakah Penormalan Kelantangan, dan bagaimana ia berbeza daripada ReplayGain?" closed="true" %}}
+{{% ls-details title="Apakah Penormalan Kelantangan, dan bagaimana ia berbeza daripada ReplayGain?" closed="true" %}}
 Ia menjadikan setiap trek dimainkan pada kekuatan bunyi yang lebih kurang sama. Ia mengukur kekuatan bunyi sebenar menggunakan standard EBU R128 (dalam LUFS, seperti perkhidmatan penstriman) dan melaras setiap trek ke arah sasaran anda, dengan had naik maksimum. Tidak seperti ReplayGain, ia tidak memerlukan tag dalam fail anda dan berfungsi pada mana-mana sumber, secara langsung, tanpa mengubah audio. Pratetap: Light, Standard, Strong, dan Night.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Apakah Crossfeed, dan patutkah saya menggunakannya?" closed="true" %}}
+{{% ls-details title="Apakah Crossfeed, dan patutkah saya menggunakannya?" closed="true" %}}
 Crossfeed mencampurkan sedikit saluran kiri dan kanan bersama supaya fon kepala terasa lebih seperti pembesar suara sebenar dan kurang seperti bunyi tersekat di dalam kepala anda. Ia hanya untuk fon kepala, jadi matikannya untuk pembesar suara. Flacbox menggunakan kaedah bs2b (Bauer), dengan pratetap seperti Chu Moy dan Jan Meier.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Apakah perbezaan antara Compressor dan Penormalan Kelantangan?" closed="true" %}}
+{{% ls-details title="Apakah perbezaan antara Compressor dan Penormalan Kelantangan?" closed="true" %}}
 Penormalan Kelantangan memadankan kekuatan bunyi antara lagu berbeza. Compressor meratakan bahagian kuat dan perlahan di dalam satu lagu. Ia menyelesaikan masalah berbeza dan berfungsi dengan baik bersama-sama, terutamanya di dalam kereta atau tempat yang bising.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Apakah rantaian Pemprosesan isyarat (DSP)?" closed="true" %}}
+{{% ls-details title="Apakah rantaian Pemprosesan isyarat (DSP)?" closed="true" %}}
 Ia adalah rak yang boleh anda bina sendiri dalam Tetapan > Pemain audio > Pemprosesan isyarat. Tambah blok seperti penapis, shelf, gain, soft clip, bit crusher, ring modulator, tremolo, delay, dan stereo width, susun dalam sebarang susunan, hidupkan atau matikan setiap satu, dan halakan rantaian ke semua saluran, kiri, atau kanan. Kerana susunan penting, anda boleh mereka bentuk bunyi yang anda mahu dengan tepat.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Apakah perbezaan antara Penyama, kesan, dan rantaian DSP?" closed="true" %}}
+{{% ls-details title="Apakah perbezaan antara Penyama, kesan, dan rantaian DSP?" closed="true" %}}
 Penyama ialah kawalan nada 10 jalur yang mudah. Kesan audio ialah alat siap sedia (compressor, reverb, echo, dan sebagainya) dengan pratetap. Rantaian DSP ialah tempat anda membina susunan kesan anda sendiri daripada blok individu. Anda boleh menjalankan ketiga-tiganya pada masa yang sama.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Adakah kesan mengubah atau merosakkan fail muzik saya?" closed="true" %}}
+{{% ls-details title="Adakah kesan mengubah atau merosakkan fail muzik saya?" closed="true" %}}
 Tidak. Segalanya digunakan secara langsung semasa muzik dimainkan. Fail anda tidak pernah diubah atau disimpan semula. Matikan kesan dan bunyi asal kembali serta-merta.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Bolehkah saya menggunakan lebih daripada satu kesan pada masa yang sama?" closed="true" %}}
+{{% ls-details title="Bolehkah saya menggunakan lebih daripada satu kesan pada masa yang sama?" closed="true" %}}
 Ya. Setiap kesan mempunyai suisnya sendiri dan tiada suis induk, jadi sebarang gabungan berfungsi. Contohnya, Penormalan Kelantangan tambah Compressor untuk mendengar yang sekata, atau Freeverb tambah Crossfeed pada fon kepala, dengan penyama di atasnya.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Mengapa kawalan kesan kelabu?" closed="true" %}}
+{{% ls-details title="Mengapa kawalan kesan kelabu?" closed="true" %}}
 Kesan itu dimatikan. Hidupkan suisnya di bahagian atas editor untuk menggunakan kawalan. Setiap kesan mati secara lalai.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Apakah maksud label Manual?" closed="true" %}}
+{{% ls-details title="Apakah maksud label Manual?" closed="true" %}}
 Ia bermakna anda menggerakkan gelangsar jauh dari pratetap, jadi kesan kini menggunakan nilai tersuai anda sendiri dan bukan pratetap bernama. Setiap gelangsar mempunyai butang set semula, dan memilih pratetap sekali lagi menggantikan nilai manual anda.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Bolehkah saya menyimpan dan berkongsi pratetap penyama saya?" closed="true" %}}
+{{% ls-details title="Bolehkah saya menyimpan dan berkongsi pratetap penyama saya?" closed="true" %}}
 Ya. Selain 22 pratetap terbina dalam, anda boleh membuat sendiri, menyusun semula, dan eksport atau import ia untuk memindahkan tetapan anda ke peranti lain.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Adakah kesan berfungsi dengan CarPlay, penstriman, dan main balik latar belakang?" closed="true" %}}
+{{% ls-details title="Adakah kesan berfungsi dengan CarPlay, penstriman, dan main balik latar belakang?" closed="true" %}}
 Ya. Kesan berjalan di dalam enjin BASS™, jadi ia dikenakan pada fail tempatan, pemacu awan, pelayan media, strim, dan muzik modul, dan ia terus berfungsi semasa CarPlay dan main balik latar belakang.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Bolehkah saya menukar kualiti output audio?" closed="true" %}}
+{{% ls-details title="Bolehkah saya menukar kualiti output audio?" closed="true" %}}
 Ya. Dalam Tetapan > Pemain audio anda boleh menetapkan kadar sampel output, bilangan saluran, dan saiz penimbal untuk sepadan dengan fon kepala, pembesar suara, atau DAC anda.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Apakah persediaan permulaan yang baik untuk fon kepala?" closed="true" %}}
+{{% ls-details title="Apakah persediaan permulaan yang baik untuk fon kepala?" closed="true" %}}
 Hidupkan Penormalan Kelantangan (Standard), tambah Compressor ringan (Soft), pilih pratetap penyama yang anda suka, dan hidupkan Crossfeed (Chu Moy atau Jan Meier). Biarkan reverb, echo, dan distortion mati melainkan anda mahu bunyi kreatif.
-{{% /details %}}
+{{% /ls-details %}}
 
 ---
 

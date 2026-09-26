@@ -23,7 +23,7 @@ readingTime: 14
 Pääset koko näytön soittimeen mini-soittimen palkista. iPhonessa mini-soitin on pääruudun alareunassa. iPadilla ja Macilla se on vasemmalla puolella. Piilottaaksesi mini-soittimen iPhonessa napauta sitä kerran ja pyyhkäise alas. Sulkeaksesi koko näytön soittimen kokonaan napauta sulkemispainiketta oikeassa alakulmassa.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacboxin Äänisoittimen Pääruutu" image="/docs/guide/flacbox/img/audio-player-main-screen.webp" >}}
+  {{< ls-card title="" subtitle="Flacboxin Äänisoittimen Pääruutu" image="/docs/guide/flacbox/img/audio-player-main-screen.webp" >}}
 {{< /cards >}}
 
 ## Tuetut Äänimuodot
@@ -66,7 +66,7 @@ AirPlaylle etsi **AirPlay**-painike soittimen alareunasta. Napauta sitä ja vali
 Flacbox sisältää **10-kanavaiseen taajuuskorjaimen** iPod-tyylisillä esiasetuksilla. Napauta Taajuuskorjain äänenvoimakkuusnäkymässä, sitten kytke se päälle oikeassa yläkulmassa. Voit käyttää esiasetuksia kuten Akustinen ja Basso-tehostin, tai säätää jokaista taajuuskaistaa liukusäätimillä. Tee omat esiasetukset, tallenna ne minkä nimisiksi tahansa ja lisää kokonaisäänenvoimakkuutta esivahvistimella. Meillä on yksityiskohtaisemmat ohjeet taajuuskorjaimen käyttöön [täällä](/docs/howto/how-to-use-the-audio-equalizer-on-your-iphone-ipad-mac-with-evermusic-and-flacbox).
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacboxin Äänisoittimen Taajuuskorjain" image="/docs/guide/flacbox/img/audio-player-equalizer.webp" >}}
+  {{< ls-card title="" subtitle="Flacboxin Äänisoittimen Taajuuskorjain" image="/docs/guide/flacbox/img/audio-player-equalizer.webp" >}}
 {{< /cards >}}
 
 ## Soittimen Tilan Työkalupalkki
@@ -82,7 +82,7 @@ Joillekin soittimen tyyleille on koko näytön soittimen yläosassa omistettu ty
 Nähdäksesi toistojononsa napauta jonopainiketta nykyisen kappaleen oikealla puolella. Jokaisella jonon kappaleella on lisää toimintoja — napauta kolmea pistettä nähdäksesi ne. Järjestääksesi uudelleen kappaleen jonossa käytä uudelleenjärjestyssymbolia otsikon lähellä ja vedä se uuteen paikkaan.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacboxin Toistojono" image="/docs/guide/flacbox/img/playback_queue.webp" >}}
+  {{< ls-card title="" subtitle="Flacboxin Toistojono" image="/docs/guide/flacbox/img/playback_queue.webp" >}}
 {{< /cards >}}
 
 ## Kommentit / Lyriikat
@@ -98,7 +98,7 @@ Nähdäksesi kappaleen kommentit ja upotetut lyriikat sekä LRC-tiedostot, seura
 Tämän jälkeen napauta toistojono-painiketta ruudun alareunassa useita kertoja vaihtaaksesi kansikuva / jono -näkymästä kommenttinäkymään. Kommentit-ruudulla, pyyhkäise oikealle vaihtaaksesi **Kommenttien**, **Upotettujen Lyriikoiden** ja **LRC-tiedoston** välillä. Täydelliset ohjeet ovat saatavilla [täällä](/docs/howto/how-to-add-and-view-comments-to-your-audio-tracks-on-iphone-ipad-and-mac-with-evermusic-and-flacbox).
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacboxin Lyriikat ja Kommentit -ruutu" image="/docs/guide/flacbox/img/lyrics-screen.webp" >}}
+  {{< ls-card title="" subtitle="Flacboxin Lyriikat ja Kommentit -ruutu" image="/docs/guide/flacbox/img/lyrics-screen.webp" >}}
 {{< /cards >}}
 
 ## Valintavalikko
@@ -121,7 +121,7 @@ Jokaisella äänisoittimen jonon kappaleella on valikko lisätoiminnoille, joihi
 Samat vaihtoehdot ovat käytettävissä parhaillaan toistettavalle kohteelle äänisoittimen jonossa, johon pääset napauttamalla **Lisää toimintoja** -kuvaketta kappaleen otsikon lähellä.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacboxin Vaihtoehdot Toistojono-kohteelle" image="/docs/guide/flacbox/img/options-for-item-in-playback-queue.webp" >}}
+  {{< ls-card title="" subtitle="Flacboxin Vaihtoehdot Toistojono-kohteelle" image="/docs/guide/flacbox/img/options-for-item-in-playback-queue.webp" >}}
 {{< /cards >}}
 
 ## Soittimen Lisätoiminnot
@@ -143,7 +143,7 @@ Napauta **Lisää toimintoja** "..."-painiketta parhaillaan toistettavan kappale
 - **Ohje** — löydä apua ja ohjausta.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacboxin Äänisoittimen Lisätoiminnot -ruutu" image="/docs/guide/flacbox/img/audio-player-more-actions-screen.webp" >}}
+  {{< ls-card title="" subtitle="Flacboxin Äänisoittimen Lisätoiminnot -ruutu" image="/docs/guide/flacbox/img/audio-player-more-actions-screen.webp" >}}
 {{< /cards >}}
 
 ## Äänikirjanmerkit
@@ -161,7 +161,7 @@ Uuden kirjanmerkin luominen:
 Nykyisen kappaleen kirjanmerkkien muokkaaminen on helppoa: napauta Muokkaa oikeassa yläkulmassa siirtyäksesi muokkaustilaan. Tässä tilassa voit järjestää kirjanmerkkejä uudelleen, poistaa niitä, säätää kirjanmerkin aikaa ja muuttaa kirjanmerkin otsikkoja. Yksityiskohtaisemmat ohjeet äänikirjanmerkeistä ovat saatavilla [täällä](/docs/howto/how-to-listen-to-audiobooks-on-iphone-ipad-mac-using-evermusic).
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacboxin Äänikirjanmerkit-ruutu" image="/docs/guide/flacbox/img/audio-bookmarks.webp" >}}
+  {{< ls-card title="" subtitle="Flacboxin Äänikirjanmerkit-ruutu" image="/docs/guide/flacbox/img/audio-bookmarks.webp" >}}
 {{< /cards >}}
 
 ## Äskettäin ja Suosikit
@@ -175,7 +175,7 @@ Yhdistä iPhonesi autoosi USB:n tai langattoman Apple CarPlayn kautta ja Flacbox
 [Lue täydellinen CarPlay-opas](/docs/howto/how-to-play-your-own-music-on-iphone-using-carplay/).
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox Apple CarPlayssa" image="/docs/guide/flacbox/img/carplay-main.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox Apple CarPlayssa" image="/docs/guide/flacbox/img/carplay-main.webp" >}}
 {{< /cards >}}
 
 ## Aloitusnäytön Widgetit (iPhone ja iPad)
@@ -243,7 +243,7 @@ Mukauta äänitaajuuskorjaimen asetuksia. Voit lukea lisää äänitaajuuskorjai
 Säädä äänisoittimen toistonopeutta välillä **0,02× – 3,00×**. Napauta konfigurointikuvaketta oikeassa yläkulmassa vaihtaaksesi **tarkkaan tilaan** hienommille säädöille.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacboxin Toistonopeus-ruutu" image="/docs/guide/flacbox/img/playback-speed.webp" >}}
+  {{< ls-card title="" subtitle="Flacboxin Toistonopeus-ruutu" image="/docs/guide/flacbox/img/playback-speed.webp" >}}
 {{< /cards >}}
 
 ### Sävelkorkeuden Korjaus

@@ -17,7 +17,7 @@ keywords: [
 readingTime: 2
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **Περίληψη:** Τόσο το Evermusic όσο και το Flacbox διαθέτουν ενσωματωμένο scrobbling Last.fm. Συνδέστε τον λογαριασμό σας στην ενότητα **Συνδέσεις** και κάθε κομμάτι που αναπαράγετε καταγράφεται αυτόματα -- ακόμα και όταν είστε εκτός σύνδεσης. Η ρύθμιση διαρκεί λιγότερο από ένα λεπτό.
@@ -66,22 +66,22 @@ readingTime: 2
 
 ## Συχνές ερωτήσεις
 
-{{% details title="Είναι δωρεάν το scrobbling του Last.fm;" closed="true" %}}
+{{% ls-details title="Είναι δωρεάν το scrobbling του Last.fm;" closed="true" %}}
 Ναι. Το Last.fm προσφέρει δωρεάν λογαριασμό που περιλαμβάνει πλήρες scrobbling, ιστορικό ακρόασης και βασικές προτάσεις. Μια πληρωμένη συνδρομή Last.fm Pro προσθέτει επιπλέον λειτουργίες στον ιστότοπο του Last.fm αλλά δεν απαιτείται για scrobbling από το Evermusic ή το Flacbox.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Λειτουργεί το scrobbling όταν είμαι εκτός σύνδεσης;" closed="true" %}}
+{{% ls-details title="Λειτουργεί το scrobbling όταν είμαι εκτός σύνδεσης;" closed="true" %}}
 Ναι. Τόσο το Evermusic όσο και το Flacbox αποθηκεύουν το ιστορικό αναπαραγωγής σας τοπικά. Όταν επιστρέψετε σε σύνδεση, οι εφαρμογές ανεβάζουν αυτόματα τα εκκρεμή scrobbles στο Last.fm.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Αποθηκεύονται τα διαπιστευτήρια Last.fm μου από την εφαρμογή;" closed="true" %}}
+{{% ls-details title="Αποθηκεύονται τα διαπιστευτήρια Last.fm μου από την εφαρμογή;" closed="true" %}}
 Όχι. Η εφαρμογή αποθηκεύει μόνο ένα ασφαλές διακριτικό πρόσβασης στο κλειδοθήκη της συσκευής σας. Το όνομα χρήστη και ο κωδικός πρόσβασής σας δεν αποθηκεύονται.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Μπορώ να κάνω scrobble από iPhone και Mac;" closed="true" %}}
+{{% ls-details title="Μπορώ να κάνω scrobble από iPhone και Mac;" closed="true" %}}
 Ναι. Το Evermusic και το Flacbox υποστηρίζουν scrobbling Last.fm σε iPhone, iPad και Mac. Συνδέστε τον λογαριασμό σας σε κάθε συσκευή όπου θέλετε να παρακολουθείτε τις αναπαραγωγές.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Πώς σταματάω το scrobbling χωρίς να διαγράψω τον λογαριασμό μου στο Last.fm;" closed="true" %}}
+{{% ls-details title="Πώς σταματάω το scrobbling χωρίς να διαγράψω τον λογαριασμό μου στο Last.fm;" closed="true" %}}
 Ανοίξτε την ενότητα Συνδέσεις στο Evermusic ή το Flacbox και πατήστε Αποσύνδεση δίπλα στο Last.fm. Αυτό αφαιρεί το διακριτικό πρόσβασης και σταματά το scrobbling, ενώ ο λογαριασμός σας στο Last.fm και το ιστορικό σας παραμένουν ανέπαφα.
-{{% /details %}}
+{{% /ls-details %}}

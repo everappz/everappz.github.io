@@ -19,7 +19,7 @@ readingTime: 12
 Pada skrin ini, anda boleh menyambungkan setiap sumber yang menyimpan muzik anda. Anda boleh mengintegrasikan perkhidmatan awan popular seperti Dropbox, Google Drive, iCloud Drive, OneDrive, MEGA, Box, pCloud, Yandex Disk, Synology Drive dan banyak lagi, serta Mac, PC atau NAS anda melalui protokol standard. Sama ada koleksi anda berada di perkhidmatan mesra penstriman seperti Dropbox atau di NAS peribadi seperti Synology, QNAP, Buffalo, Apple Time Capsule atau WD My Cloud Home, Flacbox menyambungkan semuanya dari satu skrin.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Skrin Sambungan Flacbox" image="/docs/guide/flacbox/img/connections-main.webp" >}}
+  {{< ls-card title="" subtitle="Skrin Sambungan Flacbox" image="/docs/guide/flacbox/img/connections-main.webp" >}}
 {{< /cards >}}
 
 ## Sambungkan ke Storan Awan
@@ -30,7 +30,7 @@ Pada skrin ini, anda boleh menyambungkan setiap sumber yang menyimpan muzik anda
 - Masukkan kelayakan anda di halaman kebenaran rasmi yang disediakan oleh pembekal awan, kemudian ketik **Selesai**.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox Tambah Perkhidmatan Storan Awan" image="/docs/guide/flacbox/img/add-cloud-storage.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox Tambah Perkhidmatan Storan Awan" image="/docs/guide/flacbox/img/add-cloud-storage.webp" >}}
 {{< /cards >}}
 
 Jika anda menghadapi masalah, semak sambungan internet dan log masuk / kata laluan anda. Dalam versi Premium aplikasi, anda boleh menambah bilangan perkhidmatan yang tidak terhad; versi percuma menyokong sehingga tiga.
@@ -132,7 +132,7 @@ Bahagian ini memaparkan setiap peranti pada rangkaian tempatan anda yang boleh a
 - Jika perlu, masukkan butiran log masuk anda untuk melengkapkan sambungan.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox Peranti Tersedia di Rangkaian Tempatan" image="/docs/guide/flacbox/img/available-devies.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox Peranti Tersedia di Rangkaian Tempatan" image="/docs/guide/flacbox/img/available-devies.webp" >}}
 {{< /cards >}}
 
 ## Wi-Fi Drive
@@ -147,7 +147,7 @@ Wi-Fi Drive adalah teknologi yang membolehkan pemindahan fail wayarles dari komp
 - Ketik **Mulakan Wi-Fi Drive** untuk mengaktifkan Wi-Fi Drive.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox Wi-Fi Drive" image="/docs/guide/flacbox/img/wifi-drive.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox Wi-Fi Drive" image="/docs/guide/flacbox/img/wifi-drive.webp" >}}
 {{< /cards >}}
 
 ### Akses Wi-Fi Drive di Komputer Anda
@@ -230,7 +230,7 @@ Ketik ikon **"..."** berhampiran tajuk fail untuk mendedahkan menu tindakannya:
 - **Padam** — alih keluar fail secara kekal dari storan awan anda. **Tindakan ini tidak boleh dibatalkan.**
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox Lebih Banyak Tindakan untuk Fail dalam Storan Awan yang Disambungkan" image="/docs/guide/flacbox/img/more-actions-for-file-in-connected-cloud-storage.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox Lebih Banyak Tindakan untuk Fail dalam Storan Awan yang Disambungkan" image="/docs/guide/flacbox/img/more-actions-for-file-in-connected-cloud-storage.webp" >}}
 {{< /cards >}}
 
 ## Tindakan Folder
@@ -255,7 +255,7 @@ Untuk setiap folder dalam storan awan anda, pelbagai tindakan tersedia dengan me
 Bahagian Akses Pantas terletak di bahagian atas skrin. Ia memberi anda akses pantas ke fail dan folder kegemaran dan baru-baru ini dibuka dari perkhidmatan awan yang disambungkan.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox Pautan Dalam Talian dan Akses Pantas" image="/docs/guide/flacbox/img/online-links.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox Pautan Dalam Talian dan Akses Pantas" image="/docs/guide/flacbox/img/online-links.webp" >}}
 {{< /cards >}}
 
 ## Perkhidmatan Lain
@@ -263,5 +263,5 @@ Bahagian Akses Pantas terletak di bahagian atas skrin. Ia memberi anda akses pan
 Bahagian ini memaparkan ciri tambahan yang meningkatkan pengalaman anda. Pada masa ini, aplikasi menyokong scrobbling **Last.fm** — apabila disambungkan, statistik main balik anda dihantar secara automatik ke akaun Last.fm anda. Arahan persediaan terperinci tersedia [di sini](/docs/howto/how-to-scrobble-your-music-history-from-evermusic-or-flacbox-to-last-fm).
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox Sambungan Last.fm" image="/docs/guide/flacbox/img/last-fm-connect.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox Sambungan Last.fm" image="/docs/guide/flacbox/img/last-fm-connect.webp" >}}
 {{< /cards >}}

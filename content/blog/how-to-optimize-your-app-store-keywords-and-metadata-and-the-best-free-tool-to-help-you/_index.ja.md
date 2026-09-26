@@ -14,7 +14,7 @@ authors:
     image: "/images/about/artem-meleshko-founder-everappz.webp"
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 ## App Storeキーワードがダウンロード数を決める理由
 
@@ -74,29 +74,29 @@ json_dict_to_meta.sh       # Converts JSON back into Fastlane folders
 ツールはオープンソースです。
 
 {{< cards cols="1" >}}
-  {{< card link="https://github.com/everappz/app-store-keyword-optimizer/tree/main" title="appkeywords.pro on GitHub" icon="github" tag= "open source" >}}
+  {{< ls-card link="https://github.com/everappz/app-store-keyword-optimizer/tree/main" title="appkeywords.pro on GitHub" icon="github" tag= "open source" >}}
 {{< /cards >}}
 
 ---
 
 ## よくある質問
 
-{{% details title="AppKeywords.proは本当に無料ですか？" closed="true" %}}
+{{% ls-details title="AppKeywords.proは本当に無料ですか？" closed="true" %}}
 はい。完全オープンソースのブラウザベースツールで、登録、広告、データ収集はありません。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="このツールは複数のApp Storeローカリゼーションに対応していますか？" closed="true" %}}
+{{% ls-details title="このツールは複数のApp Storeローカリゼーションに対応していますか？" closed="true" %}}
 はい。各ロケールのメタデータを独立して追加でき、エクスポートにはFastlane互換の1つのJSONファイルにすべての言語が含まれます。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="タイトルのキーワードをキーワードフィールドで繰り返すべきですか？" closed="true" %}}
+{{% ls-details title="タイトルのキーワードをキーワードフィールドで繰り返すべきですか？" closed="true" %}}
 いいえ。Appleはタイトルとサブタイトルの単語をすでにインデックスしています。キーワードフィールドで繰り返すと文字の無駄になります。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="App Storeキーワードはどのくらいの頻度で更新すべきですか？" closed="true" %}}
+{{% ls-details title="App Storeキーワードはどのくらいの頻度で更新すべきですか？" closed="true" %}}
 少なくとも四半期に1回はキーワードを見直し、更新してください。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="このツールはFastlaneで使えますか？" closed="true" %}}
+{{% ls-details title="このツールはFastlaneで使えますか？" closed="true" %}}
 はい。GitHubリポジトリにFastlaneのメタデータフォルダ構造とAppKeywords.proのJSONフォーマット間の変換用シェルスクリプトが含まれています。
-{{% /details %}}
+{{% /ls-details %}}

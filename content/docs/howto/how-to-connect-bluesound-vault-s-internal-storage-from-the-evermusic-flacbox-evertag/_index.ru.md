@@ -7,7 +7,7 @@ tags: ["evermusic", "подключение", "bluesound vault"]
 readingTime: 1
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **Кратко:** Подключитесь к внутреннему хранилищу Bluesound VAULT через SMB с помощью Evermusic, Flacbox или Evertag. Найдите IP-адрес VAULT в приложении BluOS, введите его как SMB-подключение с гостевым доступом и начните воспроизводить или управлять своими музыкальными файлами.
@@ -58,18 +58,18 @@ Bluesound VAULT имеет внутренний жёсткий диск и ра�
 
 ## Часто задаваемые вопросы
 
-{{% details title="Нужны ли мне имя пользователя и пароль для подключения к Bluesound VAULT?" closed="true" %}}
+{{% ls-details title="Нужны ли мне имя пользователя и пароль для подключения к Bluesound VAULT?" closed="true" %}}
 Нет. Bluesound VAULT поддерживает гостевой (анонимный) доступ через SMB. Оставьте поля Логин и Пароль пустыми при настройке подключения.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Могу ли я редактировать музыкальные теги на Bluesound VAULT?" closed="true" %}}
+{{% ls-details title="Могу ли я редактировать музыкальные теги на Bluesound VAULT?" closed="true" %}}
 Да. С помощью Evertag вы можете редактировать теги метаданных (название, исполнитель, альбом и т.д.) аудиофайлов, хранящихся непосредственно на внутреннем жёстком диске VAULT.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Какие протоколы поддерживает Bluesound VAULT?" closed="true" %}}
+{{% ls-details title="Какие протоколы поддерживает Bluesound VAULT?" closed="true" %}}
 Bluesound VAULT предоставляет доступ к своему внутреннему хранилищу через SMB (Server Message Block). Evermusic, Flacbox и Evertag поддерживают SMB-подключения, что делает подключение простым.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Могу ли я транслировать музыку с VAULT без копирования файлов на iPhone?" closed="true" %}}
+{{% ls-details title="Могу ли я транслировать музыку с VAULT без копирования файлов на iPhone?" closed="true" %}}
 Да. После подключения через SMB вы можете транслировать аудиофайлы напрямую с внутреннего диска VAULT без копирования их на ваше устройство.
-{{% /details %}}
+{{% /ls-details %}}

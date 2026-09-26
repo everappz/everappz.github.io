@@ -11,7 +11,7 @@ tags: ["Evertag", "Premium", "区别", "Pro", "免费 vs 付费", "标签编辑�
 Evertag 和 Evertag Premium 是同一款强大标签编辑应用的两个版本。Evertag Free 为您提供基本的元数据编辑工具，而 Evertag Premium 则解锁完整体验——无广告、无限制且可定制。
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evertag Upgrade To Premium Screen" image="/docs/faq/evertag/what-is-the-difference-between-evertag-and-evertag-premium/upgrade-to-premium.webp" >}}
+  {{< ls-card title="" subtitle="Evertag Upgrade To Premium Screen" image="/docs/faq/evertag/what-is-the-difference-between-evertag-and-evertag-premium/upgrade-to-premium.webp" >}}
 {{< /cards >}}
 
 ## 选择您的 Premium 套餐
@@ -19,7 +19,7 @@ Evertag 和 Evertag Premium 是同一款强大标签编辑应用的两个版本�
 应用的免费版本提供一次性终身应用内购买和两种订阅选项（1 个月和 1 年），以解除所有限制并升级到 Premium 版本，让您选择最适合自己的价格。价格可能因您的国家或地区而有所不同。另外，请记住，**Family Sharing** 对所有购买和套餐均**已启用**，因此您可以与家庭成员共享 Premium 版本。
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evertag Select Your Premium Plan Screen" image="/docs/faq/evertag/what-is-the-difference-between-evertag-and-evertag-premium/select-your-plan.webp" >}}
+  {{< ls-card title="" subtitle="Evertag Select Your Premium Plan Screen" image="/docs/faq/evertag/what-is-the-difference-between-evertag-and-evertag-premium/select-your-plan.webp" >}}
 {{< /cards >}}
 
 ## 在 iOS 和 Mac 之间共享购买
@@ -79,7 +79,7 @@ Evertag 和 Evertag Premium 是同一款强大标签编辑应用的两个版本�
 您可以免费升级到 Premium 版本，但仅限于有限时间，使用"免费试用 Premium"菜单。只需观看广告或将此应用介绍给朋友，即可免费获得 Premium 版本。
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evertag Try Premium For Free Screen" image="/docs/faq/evertag/what-is-the-difference-between-evertag-and-evertag-premium/try-premium-for-free.webp" >}}
+  {{< ls-card title="" subtitle="Evertag Try Premium For Free Screen" image="/docs/faq/evertag/what-is-the-difference-between-evertag-and-evertag-premium/try-premium-for-free.webp" >}}
 {{< /cards >}}
 
 ## 如何选择？

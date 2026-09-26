@@ -16,16 +16,16 @@ screenshots:
   - "https://everappz.com/products/evermusic/screenshots/2048x2732/6.png"
 ---
 
-{{% sr-only %}}
+{{% ls-sr-only %}}
 Evermusic je besplatan offline glazbeni reproduktor za iPhone i Mac koji je razvila tvrtka Everappz, španjolska softverska tvrtka. S više od 11 milijuna preuzimanja diljem svijeta i ocjenom od 4,6 zvjezdica iz više od 18.000 recenzija na App Storeu, Evermusic je jedan od najpopularnijih glazbenih reproduktora trećih strana na iOS-u. Aplikacija se povezuje s više od 30 usluga pohrane u oblaku, uključujući iCloud Drive, Google Drive, Dropbox, OneDrive, MEGA, Box, pCloud i Yandex.Disk, omogućujući korisnicima strujanje osobne glazbene knjižnice izravno iz oblaka ili preuzimanje pjesama za offline slušanje. Evermusic podržava širok raspon audio formata uključujući MP3, FLAC, AAC, ALAC, WAV, AIFF, OGG, OPUS, WMA, APE i DSD. Ključne značajke uključuju 10-pojasni audio ekvilizator s predefiniranim postavkama, crossfade i neprekidnu reprodukciju, uvoz i izvoz M3U popisa za reprodukciju, prikaz tekstova pjesama, audio oznake, integraciju s Apple CarPlay, strujanje putem AirPlay i Chromecast te scrobbling na Last.fm. Aplikacija također podržava strujanje putem lokalne mreže preko protokola SMB, WebDAV i DLNA, kao i reprodukciju s USB flash pogona putem Lightning ili USB-C adaptera. Evermusic je dostupan kao besplatno preuzimanje na App Storeu s opcionim kupnjama unutar aplikacije koje uključuju mjesečnu pretplatu za $4.99, godišnju pretplatu za $19.99 ili jednokratnu doživotnu kupnju za $59.99. Aplikacija je prvi put objavljena 2014. godine i aktivno se održava s redovitim ažuriranjima.
-{{% /sr-only %}}
+{{% /ls-sr-only %}}
 
 
 <!-- <body class="hx:bg-transparent" style="background: radial-gradient(ellipse at 50% 80%, rgba(59,130,246,0.05), hsla(0,0%,100%,0));"> -->
 
-{{< force-dark >}}
+{{< ls-force-dark >}}
 
-{{< hextra/hero-container
+{{< ls-hero-container
   image="/products/evermusic/heroimage/hero_1200.png"
   imageWidth="600"
   imageCard="true"
@@ -34,40 +34,40 @@ Evermusic je besplatan offline glazbeni reproduktor za iPhone i Mac koji je razv
 <div class="hx:w-full hx:text-center">
 
 <div class="hx:mt-4">
-{{< downloads-badge >}}
+{{< ls-downloads-badge >}}
 </div>
 
 <div class="hx:mt-6 hx:mb-6">
 <div class="hx:flex hx:gap-4 hx:items-center hx:justify-center">
-  {{< app-icon src="/images/app_icons/png/Evermusic_Icon-App-1024x1024.png" alt="Evermusic Icon" class="hero-headline-icon" size="80" >}}
-  {{< hextra/hero-headline >}}
+  {{< ls-app-icon src="/images/app_icons/png/Evermusic_Icon-App-1024x1024.png" alt="Evermusic Icon" class="hero-headline-icon" size="80" >}}
+  {{< ls-hero-headline >}}
   Evermusic
-  {{< /hextra/hero-headline >}}
+  {{< /ls-hero-headline >}}
 </div>
 </div>
 
 <div class="hx:mb-6">
-{{< hextra/hero-centered-subtitle >}}
+{{< ls-hero-centered-subtitle >}}
 <a href="https://www.chip.de/downloads/Evermusic-Pro-iPhone-_-iPad-App_91614216.html" target="_blank" rel="noopener">
   Savršeno je rješenje za organiziranje i reprodukciju vlastite glazbe iz oblaka <strong>chip.de</strong>
   </a>
-{{< /hextra/hero-centered-subtitle >}}
+{{< /ls-hero-centered-subtitle >}}
 </div>
 
 <div class="hx:mb-6">
-{{< hextra/hero-paragraph >}}
+{{< ls-hero-paragraph >}}
 • Reproducirajte glazbu s crossfadeom, reprodukcijom bez pauza i ekvilajzerom  
 • Uvezite M3U popise za reprodukciju i preuzmite pjesme za offline slušanje  
 • Streamajte glazbu s cloud pogona, NAS-a, računala ili USB pogona  
 • Pregledajte tekstove tijekom slušanja i dodajte audio oznake za nastavak u bilo kojem trenutku  
-{{< /hextra/hero-paragraph >}}
+{{< /ls-hero-paragraph >}}
 </div>
 
-{{< app-store-badges products="evermusic:ios, evermusic:macos" >}}
+{{< ls-app-store-badges products="evermusic:ios, evermusic:macos" >}}
 
 </div>
 
-{{< /hextra/hero-container >}}
+{{< /ls-hero-container >}}
 
 <div class="hx:mt-6"></div>
 
@@ -75,42 +75,42 @@ Evermusic je besplatan offline glazbeni reproduktor za iPhone i Mac koji je razv
 
 {{< hextra/feature-grid >}}
 
-  {{< hextra/feature-card
+  {{< ls-glass-feature-card
     title="Vaša Glazba u Oblaku"
     subtitle="Stvorite vlastitu naprednu uslugu za streaming glazbe besplatno! Streamajte omiljene pjesme izravno iz oblaka uz pametno spremanje u međuspremnik i besprijekornu reprodukciju, štedeći pritom prostor na uređaju. Povežite usluge poput iCloud Drive, Google Drive, Dropbox, OneDrive, Box, MEGA, pCloud, Proton Drive i mnoge druge."
     icon="cloud"
     style="background: radial-gradient(ellipse at 50% 80%, rgba(34,197,94,0.15), hsla(0,0%,100%,0));"
   >}}
 
-  {{< hextra/feature-card
+  {{< ls-glass-feature-card
     title="Offline Način"
     subtitle="Offline način vam omogućuje preuzimanje omiljenih albuma, pjesama, izvođača, žanrova i popisa za reprodukciju za offline reprodukciju. Slušajte bilo gdje, bilo u avionu, u podzemnoj željeznici ili izvan dosega mreže, čak i kada niste povezani na Internet, bez streaminga i bez potrošnje podataka."
     icon="download"
     style="background: radial-gradient(ellipse at 50% 80%, rgba(234,88,12,0.15), hsla(0,0%,100%,0));"
   >}}
 
-  {{< hextra/feature-card
+  {{< ls-glass-feature-card
     title="Jednostavan Prijenos Datoteka"
     subtitle="Povežite svoj Mac ili PC i streamajte glazbu izravno s kućnog računala. Besprijekorno prenosite audio datoteke između računala i iOS uređaja koristeći Wi-Fi Drive ili iTunes File Sharing. Također možete povezati svoj NAS ili USB pogon i pristupiti svojoj biblioteci s bilo kojeg mjesta."
     icon="duplicate"
     style="background: radial-gradient(ellipse at 50% 80%, rgba(251,191,36,0.15), hsla(0,0%,100%,0));"
   >}}
 
-  {{< hextra/feature-card
+  {{< ls-glass-feature-card
     title="Media Serveri i NAS"
     subtitle="Povežite se sa svojim osobnim medijskim bibliotekama i kućnim serverima poput Plex, Emby, Jellyfin, Subsonic i Navidrome. Povežite svoj NAS poput Synology, QNAP, Nextcloud i WD My Cloud Home putem SMB, WebDAV, FTP, SFTP, NFS ili DLNA/UPnP i pristupite cijeloj svojoj glazbenoj zbirci s bilo kojeg mjesta."
     icon="desktop-computer"
     style="background: radial-gradient(ellipse at 50% 80%, rgba(59,130,246,0.15), hsla(0,0%,100%,0));"
   >}}
 
-  {{< hextra/feature-card
+  {{< ls-glass-feature-card
     title="Profesionalni Audio Engine"
     subtitle="Uživajte u istinskoj reprodukciji bez pauza i glatkom crossfadeu između pjesama. Oblikujte svoj zvuk s 10-pojasnim ekvilajzerom, prilagođenim postavkama i pojačanjem pretpojačala, podesivom brzinom i visinom reprodukcije te punim setom studijskih efekata poput reverba, eha, chorusa, flangera, bass boosta, crossfeeda i normalizacije glasnoće."
     icon="adjustments"
     style="background: radial-gradient(ellipse at 50% 80%, rgba(192,38,211,0.15), hsla(0,0%,100%,0));"
   >}}
 
-  {{< hextra/feature-card
+  {{< ls-glass-feature-card
     title="Tekstovi, Widgeti i CarPlay"
     subtitle="Čitajte ugrađene i sinkronizirane LRC tekstove koji se pomiču u ritmu glazbe, čak i na zaključanom zaslonu, u widgetima na početnom zaslonu i na Apple CarPlay. Dodajte widgete Sada svira, Tekstovi, Favoriti i Nedavno reproducirano kako bi vam glazba uvijek bila nadohvat ruke i uvijek sinkronizirana."
     icon="annotation"
@@ -123,9 +123,9 @@ Evermusic je besplatan offline glazbeni reproduktor za iPhone i Mac koji je razv
 
 <div class="hx:mt-6"></div>
 
-{{< hextra/section-headline >}}
+{{< ls-section-headline >}}
   Čist i Jednostavan Dizajn
-{{< /hextra/section-headline >}}
+{{< /ls-section-headline >}}
 
 <div class="hx:mt-6"></div>
 
@@ -133,7 +133,7 @@ Evermusic je besplatan offline glazbeni reproduktor za iPhone i Mac koji je razv
 
 {{< cards cols="4">}}
 
-  {{< design-feature-card 
+  {{< ls-design-feature-card 
     icon="adjustments"
     image="/products/evermusic/screenshots/2048x2732/3.png" 
     title="Audio Ekvilajzer" 
@@ -142,7 +142,7 @@ Evermusic je besplatan offline glazbeni reproduktor za iPhone i Mac koji je razv
     subtitle="Fino podesite zvuk s audio ekvilajzerom u iPod stilu, prilagodljivim postavkama i pojačanjem pretpojačala za najbolje iskustvo slušanja." 
   >}}
 
-  {{< design-feature-card 
+  {{< ls-design-feature-card 
     icon="annotation"
     image="/products/evermusic/screenshots/2048x2732/4.png"  
     title="Preglednik Tekstova" 
@@ -151,7 +151,7 @@ Evermusic je besplatan offline glazbeni reproduktor za iPhone i Mac koji je razv
     subtitle="Čitajte ugrađene tekstove i komentare pjesama tijekom slušanja. Uživajte u sinkroniziranim tekstovima za dublje glazbeno iskustvo." 
   >}}
 
-  {{< design-feature-card 
+  {{< ls-design-feature-card 
     icon="collection"
     image="/products/evermusic/screenshots/2048x2732/5.png"  
     title="Upravitelj Popisa za Reprodukciju" 
@@ -160,7 +160,7 @@ Evermusic je besplatan offline glazbeni reproduktor za iPhone i Mac koji je razv
     subtitle="Stvarajte i organizirajte prilagođene popise za reprodukciju, prerasporedite pjesme, izvezite u M3U ili arhivirajte kao ZIP datoteke za jednostavno dijeljenje ili sigurnosnu kopiju." 
   >}}
 
-  {{< design-feature-card 
+  {{< ls-design-feature-card 
     icon="cloud"
     image="/products/evermusic/screenshots/2048x2732/6.png"  
     title="Cloud Streaming Glazbe" 
@@ -169,7 +169,7 @@ Evermusic je besplatan offline glazbeni reproduktor za iPhone i Mac koji je razv
     subtitle="Povežite vodeće platforme za pohranu u oblaku poput Google Drivea, Dropboxa i OneDrivea za streaming vaše glazbene zbirke bilo kada i bilo gdje." 
   >}}
 
-  {{< design-feature-card 
+  {{< ls-design-feature-card 
     icon="duplicate"
     image="/products/evermusic/screenshots/2048x2732/9.png"  
     title="Upravitelj Datoteka" 
@@ -178,7 +178,7 @@ Evermusic je besplatan offline glazbeni reproduktor za iPhone i Mac koji je razv
     subtitle="Jednostavno upravljajte audio datotekama — preimenovajte pjesme, organizirajte mape i prenosite glazbu između uređaja koristeći ugrađene alate." 
   >}} 
 
-  {{< design-feature-card 
+  {{< ls-design-feature-card 
     icon="sun"
     image="/products/evermusic/screenshots/2048x2732/10.png"  
     title="Prilagodba Aplikacije" 
@@ -193,9 +193,9 @@ Evermusic je besplatan offline glazbeni reproduktor za iPhone i Mac koji je razv
 
 <div class="hx:mt-6"></div>
 
-{{< hextra/section-headline >}}
+{{< ls-section-headline >}}
   Potpuni Set Značajki
-{{< /hextra/section-headline >}}
+{{< /ls-section-headline >}}
 
 <div class="hx:mt-6"></div>
 
@@ -203,47 +203,47 @@ Evermusic je besplatan offline glazbeni reproduktor za iPhone i Mac koji je razv
 
 {{< cards >}}
 
-  {{< feature-card title="Reprodukcija Svih Audio Formata" subtitle="Evermusic reproducira najpopularnije audio formate, uključujući MP3, AAC, M4A, WAV, AIFF, ALAC i M4B, tako da je cijela vaša glazbena zbirka spremna za reprodukciju na svakom uređaju." icon="music-note" >}}
+  {{< ls-feature-card title="Reprodukcija Svih Audio Formata" subtitle="Evermusic reproducira najpopularnije audio formate, uključujući MP3, AAC, M4A, WAV, AIFF, ALAC i M4B, tako da je cijela vaša glazbena zbirka spremna za reprodukciju na svakom uređaju." icon="music-note" >}}
 
-  {{< feature-card title="Povežite Svoj Cloud" subtitle="Izgradite vlastitu uslugu za streaming premještanjem svoje biblioteke u oblak i oslobađanjem prostora na iPhoneu. Povežite iCloud, Google Drive, Dropbox, OneDrive, MEGA, Internxt i Proton Drive." icon="cloud" >}}
+  {{< ls-feature-card title="Povežite Svoj Cloud" subtitle="Izgradite vlastitu uslugu za streaming premještanjem svoje biblioteke u oblak i oslobađanjem prostora na iPhoneu. Povežite iCloud, Google Drive, Dropbox, OneDrive, MEGA, Internxt i Proton Drive." icon="cloud" >}}
 
-  {{< feature-card title="Povežite Media Servere" subtitle="Povežite svoje osobne media servere izravno sa svojom bibliotekom, uključujući Plex, Subsonic, Navidrome, Jellyfin i Emby, i streamajte sve što posjedujete iz udobnosti doma s lakoćom." icon="server" >}}
+  {{< ls-feature-card title="Povežite Media Servere" subtitle="Povežite svoje osobne media servere izravno sa svojom bibliotekom, uključujući Plex, Subsonic, Navidrome, Jellyfin i Emby, i streamajte sve što posjedujete iz udobnosti doma s lakoćom." icon="server" >}}
 
-  {{< feature-card title="Povežite Računalo ili NAS" subtitle="Povežite svoje računalo ili NAS putem SMB, WebDAV, DLNA, FTP, SFTP i NFS, uz native API-je za QNAP, Synology, Nextcloud i WD My Cloud Home, ili prenesite datoteke putem Wi-Fi-ja." icon="desktop-computer" >}}
+  {{< ls-feature-card title="Povežite Računalo ili NAS" subtitle="Povežite svoje računalo ili NAS putem SMB, WebDAV, DLNA, FTP, SFTP i NFS, uz native API-je za QNAP, Synology, Nextcloud i WD My Cloud Home, ili prenesite datoteke putem Wi-Fi-ja." icon="desktop-computer" >}}
 
-  {{< feature-card title="Offline Glazba" subtitle="Preuzmite omiljene pjesme, albume i izvođače kako biste u njima uživali offline bilo kada. Omogućite predmemoriju audio playera za automatsko spremanje nedavno reproduciranih pjesama za offline slušanje." icon="download" >}}
+  {{< ls-feature-card title="Offline Glazba" subtitle="Preuzmite omiljene pjesme, albume i izvođače kako biste u njima uživali offline bilo kada. Omogućite predmemoriju audio playera za automatsko spremanje nedavno reproduciranih pjesama za offline slušanje." icon="download" >}}
 
-  {{< feature-card title="Audio Ekvilajzer" subtitle="Oblikujte svoj zvuk pomoću ugrađenog ekvilajzera s gotovim postavkama za popularne glazbene žanrove te ručnim kontrolama za fino podešavanje i pojačavanje svake pjesme točno onako kako želite." icon="adjustments" >}}
+  {{< ls-feature-card title="Audio Ekvilajzer" subtitle="Oblikujte svoj zvuk pomoću ugrađenog ekvilajzera s gotovim postavkama za popularne glazbene žanrove te ručnim kontrolama za fino podešavanje i pojačavanje svake pjesme točno onako kako želite." icon="adjustments" >}}
 
-  {{< feature-card title="Reprodukcija bez Pauza" subtitle="Uživajte u glatkoj, neprekinutoj reprodukciji bez pauza između pjesama, savršenoj za snimke uživo, konceptualne albume, DJ mikseve i klasičnu glazbu od početka do kraja." icon="volume-up" >}}
+  {{< ls-feature-card title="Reprodukcija bez Pauza" subtitle="Uživajte u glatkoj, neprekinutoj reprodukciji bez pauza između pjesama, savršenoj za snimke uživo, konceptualne albume, DJ mikseve i klasičnu glazbu od početka do kraja." icon="volume-up" >}}
 
-  {{< feature-card title="Crossfade Reprodukcija" subtitle="Neka glazba neprekidno teče uz crossfade, gdje svaka nova pjesma nježno započinje prije nego što trenutna završi, za besprijekornu, neprekinutu reprodukciju bez tihih pauza." icon="switch-horizontal" >}}
+  {{< ls-feature-card title="Crossfade Reprodukcija" subtitle="Neka glazba neprekidno teče uz crossfade, gdje svaka nova pjesma nježno započinje prije nego što trenutna završi, za besprijekornu, neprekinutu reprodukciju bez tihih pauza." icon="switch-horizontal" >}}
 
-  {{< feature-card title="Audio Efekti" subtitle="Oblikujte svoj zvuk pomoću ugrađenih audio efekata. Uključite normalizaciju glasnoće kako bi svaka pjesma bila jednake glasnoće te po želji dodajte reverb, delay, distorziju i prostorni zvuk." icon="chip" >}}
+  {{< ls-feature-card title="Audio Efekti" subtitle="Oblikujte svoj zvuk pomoću ugrađenih audio efekata. Uključite normalizaciju glasnoće kako bi svaka pjesma bila jednake glasnoće te po želji dodajte reverb, delay, distorziju i prostorni zvuk." icon="chip" >}}
 
-  {{< feature-card title="Glazbeni Vizualizator" subtitle="Gledajte animirane vizuale preko cijelog zaslona koji reagiraju uživo na vašu glazbu u stvarnom vremenu. Odaberite iz velike knjižnice postavki ili ih pustite da se automatski izmjenjuju dok slušate." icon="sparkles" >}}
+  {{< ls-feature-card title="Glazbeni Vizualizator" subtitle="Gledajte animirane vizuale preko cijelog zaslona koji reagiraju uživo na vašu glazbu u stvarnom vremenu. Odaberite iz velike knjižnice postavki ili ih pustite da se automatski izmjenjuju dok slušate." icon="sparkles" >}}
 
-  {{< feature-card title="Tekstovi i Komentari" subtitle="Pregledajte ugrađene vremenski sinkronizirane tekstove i komentare za svoje audio pjesme dok se reproduciraju te dodajte widget s tekstovima na početni zaslon za brz pristup na prvi pogled u bilo kojem trenutku." icon="annotation" >}}
+  {{< ls-feature-card title="Tekstovi i Komentari" subtitle="Pregledajte ugrađene vremenski sinkronizirane tekstove i komentare za svoje audio pjesme dok se reproduciraju te dodajte widget s tekstovima na početni zaslon za brz pristup na prvi pogled u bilo kojem trenutku." icon="annotation" >}}
 
-  {{< feature-card title="AirPlay i Chromecast" subtitle="Streamajte svoju glazbu bežično na Apple TV, pametne zvučnike i druge uređaje uz ugrađenu podršku za AirPlay i Google Chromecast za bezbrižno slušanje u cijelom domu." icon="device-mobile" >}}
+  {{< ls-feature-card title="AirPlay i Chromecast" subtitle="Streamajte svoju glazbu bežično na Apple TV, pametne zvučnike i druge uređaje uz ugrađenu podršku za AirPlay i Google Chromecast za bezbrižno slušanje u cijelom domu." icon="device-mobile" >}}
 
-  {{< feature-card title="Apple CarPlay" subtitle="Vozite i slušajte sigurno uz namjensko Apple CarPlay sučelje koje stavlja vašu glazbu, popise za reprodukciju i kontrole reprodukcije izravno na zaslon nadzorne ploče vašeg automobila." icon="truck" >}}
+  {{< ls-feature-card title="Apple CarPlay" subtitle="Vozite i slušajte sigurno uz namjensko Apple CarPlay sučelje koje stavlja vašu glazbu, popise za reprodukciju i kontrole reprodukcije izravno na zaslon nadzorne ploče vašeg automobila." icon="truck" >}}
 
-  {{< feature-card title="Widgeti" subtitle="Aktivirajte interaktivne widgete na početnom zaslonu za brz pristup redu čekanja reprodukcije i nastavite točno tamo gdje ste stali od zadnje spremljene pozicije jednim dodirom." icon="view-grid" >}}
+  {{< ls-feature-card title="Widgeti" subtitle="Aktivirajte interaktivne widgete na početnom zaslonu za brz pristup redu čekanja reprodukcije i nastavite točno tamo gdje ste stali od zadnje spremljene pozicije jednim dodirom." icon="view-grid" >}}
 
-  {{< feature-card title="Audioknjige" subtitle="Pretvorite aplikaciju u potpuni player audioknjiga uz audio oznake, kontrolu brzine reprodukcije i spremljene pozicije medija te čitajte tekstualne detalje pohranjene u metapodacima vaših datoteka." icon="book-open" >}}
+  {{< ls-feature-card title="Audioknjige" subtitle="Pretvorite aplikaciju u potpuni player audioknjiga uz audio oznake, kontrolu brzine reprodukcije i spremljene pozicije medija te čitajte tekstualne detalje pohranjene u metapodacima vaših datoteka." icon="book-open" >}}
 
-  {{< feature-card title="Automatska Sinkronizacija" subtitle="Vaša glazbena biblioteka automatski se sinkronizira između oblaka i uređaja, uredno grupirajući svaku pjesmu po izvođaču, albumu i žanru tako da vaša zbirka uvijek ostaje organizirana." icon="refresh" >}}
+  {{< ls-feature-card title="Automatska Sinkronizacija" subtitle="Vaša glazbena biblioteka automatski se sinkronizira između oblaka i uređaja, uredno grupirajući svaku pjesmu po izvođaču, albumu i žanru tako da vaša zbirka uvijek ostaje organizirana." icon="refresh" >}}
 
-  {{< feature-card title="Upravitelj Popisa za Reprodukciju" subtitle="Stvarajte i upravljajte popisima za reprodukciju, preraspoređujte pjesme i učinite bilo koji popis dostupnim offline. Sortirajte pjesme po nazivu, veličini, broju pjesme ili albumu kako bi sve bilo u redu." icon="collection" >}}
+  {{< ls-feature-card title="Upravitelj Popisa za Reprodukciju" subtitle="Stvarajte i upravljajte popisima za reprodukciju, preraspoređujte pjesme i učinite bilo koji popis dostupnim offline. Sortirajte pjesme po nazivu, veličini, broju pjesme ili albumu kako bi sve bilo u redu." icon="collection" >}}
 
-  {{< feature-card title="ID3 Uređivač Oznaka" subtitle="Popravite oštećene ili nedostajuće metapodatke pomoću ugrađenog ID3 uređivača oznaka, ažurirajući naslove, izvođače, albume i više kako bi vaša glazbena biblioteka ostala uredna i dobro organizirana." icon="pencil-alt" >}}
+  {{< ls-feature-card title="ID3 Uređivač Oznaka" subtitle="Popravite oštećene ili nedostajuće metapodatke pomoću ugrađenog ID3 uređivača oznaka, ažurirajući naslove, izvođače, albume i više kako bi vaša glazbena biblioteka ostala uredna i dobro organizirana." icon="pencil-alt" >}}
 
-  {{< feature-card title="Upravitelj Datoteka" subtitle="Organizirajte svoju glazbu pomoću integriranog upravitelja datoteka koji obavlja svakodnevne operacije poput kopiranja, premještanja, preimenovanja i brisanja kako bi sve vaše audio datoteke bile uredno posložene." icon="folder" >}}
+  {{< ls-feature-card title="Upravitelj Datoteka" subtitle="Organizirajte svoju glazbu pomoću integriranog upravitelja datoteka koji obavlja svakodnevne operacije poput kopiranja, premještanja, preimenovanja i brisanja kako bi sve vaše audio datoteke bile uredno posložene." icon="folder" >}}
 
-  {{< feature-card title="Napredno Pretraživanje" subtitle="Pronađite bilo što u nekoliko sekundi pomoću pametnog pretraživača koji brzo locira vaše omiljene albume, izvođače i pjesme bilo gdje u cijeloj vašoj glazbenoj biblioteci." icon="search" >}}
+  {{< ls-feature-card title="Napredno Pretraživanje" subtitle="Pronađite bilo što u nekoliko sekundi pomoću pametnog pretraživača koji brzo locira vaše omiljene albume, izvođače i pjesme bilo gdje u cijeloj vašoj glazbenoj biblioteci." icon="search" >}}
 
-  {{< feature-card title="USB Flash Kartice" subtitle="Povežite vanjske čitače kartica poput SanDisk iXpand i slušajte svoju glazbu izravno s SD kartice ili USB pogona, bez dodatne sinkronizacije ili preuzimanja." icon="inbox" >}}
+  {{< ls-feature-card title="USB Flash Kartice" subtitle="Povežite vanjske čitače kartica poput SanDisk iXpand i slušajte svoju glazbu izravno s SD kartice ili USB pogona, bez dodatne sinkronizacije ili preuzimanja." icon="inbox" >}}
   
 {{< /cards >}}
 
@@ -254,55 +254,55 @@ Evermusic je besplatan offline glazbeni reproduktor za iPhone i Mac koji je razv
 <div class="hx:mt-6"></div>
 
 <div class="hx:w-full">
-{{< appstore-reviews apps="885367198,1564384601" stars="5,4"  app="Evermusic" >}}
+{{< ls-appstore-reviews apps="885367198,1564384601" stars="5,4"  app="Evermusic" >}}
 </div>
 
 <div class="hx:mt-6"></div>
 
-{{< hextra/section-headline >}}
+{{< ls-section-headline >}}
   Cjenovni Planovi
-{{< /hextra/section-headline >}}
+{{< /ls-section-headline >}}
 
 <div class="hx:mt-6"></div>
 
 <div class="hx:w-full">
-{{< pricing-plans >}}
+{{< ls-pricing-plans >}}
 
 </div>
 
 <div class="hx:mt-6"></div>
 
 <div class="hx:w-full hx:mx-auto hx:flex hx:flex-col hx:items-center">
-  {{< hextra/info-paragraph border="true" >}}
+  {{< ls-info-paragraph border="true" >}}
    <strong>Obiteljsko Dijeljenje</strong>: Sve kupnje i pretplate podržavaju Obiteljsko dijeljenje, omogućujući vam dijeljenje Premium pristupa s vašom obitelji.<br><strong>Univerzalni Pristup</strong>: Doživotni i pretplatnički planovi dijele se između iOS i Mac uređaja koristeći iCloud sinkronizaciju.<br><strong>Cijene</strong>: Cijene su prikazane u američkim dolarima za Sjedinjene Američke Države. Konačna cijena može varirati ovisno o vašoj regiji.  
-  {{< /hextra/info-paragraph >}}
+  {{< /ls-info-paragraph >}}
 </div>
 
 <div class="hx:mt-6"></div>
 
 <div class="hx:w-full">
-{{< app-details heading="true" >}}
+{{< ls-app-details heading="true" >}}
 </div>
 
 <div class="hx:mt-6"></div>
 
-{{< hextra/section-headline >}}
+{{< ls-section-headline >}}
   Često Postavljana Pitanja
-{{< /hextra/section-headline >}}
+{{< /ls-section-headline >}}
 
 <div class="hx:mt-6"></div>
 
 <div class="hx:w-full">
-{{% details title="Što je Evermusic?" closed="true" %}}
+{{% ls-details title="Što je Evermusic?" closed="true" %}}
 Evermusic je aplikacija za reprodukciju glazbe koja vam pomaže slušati omiljene pjesme s različitih usluga pohrane u oblaku.<br>
 Možete lako preuzeti glazbu za offline reprodukciju, stvarati i upravljati popisima za reprodukciju te koristiti ugrađeni ekvilajzer za poboljšanje iskustva slušanja.<br>
 Radi s uslugama poput Google Drivea, Dropboxa, OneDrivea i više, tako da možete držati svu svoju glazbu na jednom mjestu i pristupiti joj s bilo kojeg uređaja.<br><br>
 Aplikacija također podržava razne audio formate i omogućuje vam organiziranje glazbene biblioteke po izvođaču, albumu, žanru i skladatelju.<br>
 Možete sinkronizirati svoju biblioteku između pohrane u oblaku i uređaja, osiguravajući da su vaše omiljene melodije uvijek dostupne.<br>
 Osim toga, sa značajkama poput reprodukcije bez pauza, crossfadea i mogućnosti streaminga glazbe na Chromecast i AirPlay uređaje, Evermusic nudi potpuno rješenje za sve vaše glazbene potrebe.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Kako radi Evermusic?" closed="true" %}}
+{{% ls-details title="Kako radi Evermusic?" closed="true" %}}
 Evermusic radi povezivanjem s raznim uslugama pohrane u oblaku, poput Google Drivea, Dropboxa, OneDrivea i drugih, omogućujući vam pristup glazbenoj biblioteci s bilo kojeg uređaja.<br>
 Nakon povezivanja, možete pregledavati i streamati svoju glazbu izravno iz oblaka ili preuzeti omiljene pjesme, albume i popise za reprodukciju za offline reprodukciju.<br>
 Aplikacija podržava višestruke audio formate, čineći reprodukciju bilo koje glazbene datoteke jednostavnom.<br><br>
@@ -322,15 +322,15 @@ Istražite naše vodiče za više detalja:<br>
 - [Kako bežično prenijeti datoteke s računala na iPhone koristeći WiFi-Drive.](/docs/howto/how-to-transfer-files-wirelessly-from-a-computer-to-an-iphone-using-wifi-drive)<br>
 - [Kako povezati USB flash karticu s iPhoneom i slušati glazbu ili upravljati datotekama na njoj.](/docs/howto/how-to-connect-a-usb-flashcard-to-the-iphone-and-listen-to-music-or-manage-files-located-on-it)<br>
 - [Kako reproducirati glazbu na iPhoneu s WD My Cloud Home.](/docs/howto/how-to-play-music-on-iphone-from-wd-my-cloud-home)
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Je li Evermusic besplatan?" closed="true" %}}
+{{% ls-details title="Je li Evermusic besplatan?" closed="true" %}}
 Evermusic je besplatna aplikacija s nekim ograničenjima koja možete ukloniti nadogradnjom na Premium verziju. Aplikacija nudi jednokratnu doživotnu kupnju unutar aplikacije i dvije opcije pretplate (1 mjesec i 1 godina) za uklanjanje svih ograničenja, omogućujući vam odabir najbolje i najoptimalnije cijene za vas. Cijene mogu varirati ovisno o vašoj zemlji ili teritoriju. Također imajte na umu da je Obiteljsko dijeljenje omogućeno za sve kupnje i planove, tako da možete dijeliti Premium verziju s članovima svoje obitelji.<br><br>
 Doživotne kupnje i pretplate dijele se između iOS-a i Maca, koristeći iCloud za sinkronizaciju ovih informacija. Ako imate Premium verziju na svom iOS uređaju, provjerite imate li instaliranu najnoviju verziju i da je iCloud omogućen. Pokrenite aplikaciju na iOS-u i pričekajte minutu da se vaše informacije o kupnji prenesu na iCloud.<br><br>
 [Pročitajte više](/docs/faq/evermusic/what-is-the-difference-between-evermusic-and-evermusic-premium/)
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Koja je razlika između besplatnog Evermusica i Evermusic Premiuma?" closed="true" %}}
+{{% ls-details title="Koja je razlika između besplatnog Evermusica i Evermusic Premiuma?" closed="true" %}}
 **Evermusic Besplatno**<br>
 • Sadrži oglase: Besplatna verzija prikazuje oglase za generiranje prihoda, što povremeno može prekinuti vaše slušanje glazbe.<br>
 • Ograničeni popisi za reprodukciju: Možete stvoriti do (10) popisa za reprodukciju u besplatnoj verziji.<br>
@@ -357,10 +357,10 @@ Doživotne kupnje i pretplate dijele se između iOS-a i Maca, koristeći iCloud 
 • Potpuna personalizacija: Pruža potpune opcije personalizacije, uključujući mogućnost promjene ikone aplikacije.<br><br>
 
 [Pročitajte više](/docs/faq/evermusic/what-is-the-difference-between-evermusic-and-evermusic-premium/)
-{{% /details %}}
+{{% /ls-details %}}
 
 
-{{% details title="Je li Evermusic siguran?" closed="true" %}}
+{{% ls-details title="Je li Evermusic siguran?" closed="true" %}}
 Evermusic koristi samo službeni SDK i sigurne veze za interakciju s povezanim cloud uslugama. Vaše korisničko ime i lozinka nisu dostupni aplikaciji. Svi zahtjevi iz aplikacije prema cloud usluzi su šifrirani.<br>
 Kada unesete korisničko ime i lozinku, aplikacija vam prikazuje službenu stranicu za autorizaciju koju pruža pružatelj cloud usluge i cijeli proces autorizacije odvija se izvan aplikacije. Pružatelj cloud usluge šalje auth-token aplikaciji nakon uspješne autorizacije i taj token se koristi za API pozive.<br><br>
 
@@ -372,24 +372,24 @@ Za opoziv auth-tokena prijavite se na svoj račun u web pregledniku i navigirajt
 Također možete odspojiti povezane cloud račune u aplikaciji i auth-token će također biti uklonjen s vašeg uređaja. Ako uklonite aplikaciju s uređaja, svi preuzeti podaci i pristupni tokeni bit će također uklonjeni.<br><br>
 
 [Pročitajte više](/docs/guide/evermusic/evermusic-guide-connections/)
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Kako stvoriti popis za reprodukciju u Evermusicu?" closed="true" %}}
+{{% ls-details title="Kako stvoriti popis za reprodukciju u Evermusicu?" closed="true" %}}
 - Otvorite odjeljak Popisi za reprodukciju.<br>
 - Dodirnite gumb "+" ili gumb "..." u gornjem desnom kutu i odaberite "Novi popis za reprodukciju".<br>
 - Unesite naziv za popis za reprodukciju i dodirnite "Spremi". Pojavit će se dijaloški okvir "Dodaj pjesme".<br>
 - Odaberite pjesme koje želite dodati u popis za reprodukciju.<br><br>
 
 [Pročitajte više](/docs/guide/evermusic/evermusic-guide-playlists/)
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Koje cloud usluge Evermusic podržava?" closed="true" %}}
+{{% ls-details title="Koje cloud usluge Evermusic podržava?" closed="true" %}}
 Trenutno aplikacija podržava najpopularnije cloud usluge: iCloud Drive, Google Drive, Dropbox, OneDrive, Box, MEGA, Yandex.Disk, WD MyCloud Home, DLNA, MediaFire, WebDAV, SMB, pCloud, HiDrive, 百度网盘, My Cloud Home, InfiniCLOUD, Cloud Mail.ru, Put.io, MyDrive.<br><br>
 
 [Pročitajte više](/docs/guide/evermusic/evermusic-guide-connections/)
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Kako mogu koristiti ekvilajzer?" closed="true" %}}
+{{% ls-details title="Kako mogu koristiti ekvilajzer?" closed="true" %}}
 - Otvorite zaslon Audio playera.<br>
 - Dodirnite ikonu "Ekvilajzer" na dnu zaslona.<br>
 - Uključite prekidač u gornjem desnom kutu zaslona ekvilajzera za aktivaciju.<br>
@@ -397,9 +397,9 @@ Trenutno aplikacija podržava najpopularnije cloud usluge: iCloud Drive, Google 
 
 Potpuni vodič dostupan ovdje:<br>
 [Kako koristiti audio ekvilajzer na iPhoneu, iPadu, Macu s Evermusicom i Flacboxom](/docs/howto/how-to-use-the-audio-equalizer-on-your-iphone-ipad-mac-with-evermusic-and-flacbox)
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Kako omogućiti offline način u Evermusicu?" closed="true" %}}
+{{% ls-details title="Kako omogućiti offline način u Evermusicu?" closed="true" %}}
 - Povežite Cloud uslugu:<br>
  • Idite na karticu "Veze".<br>
  • Odaberite "Poveži pohranu u oblaku" i slijedite upute za povezivanje željene usluge.<br><br>
@@ -423,9 +423,9 @@ Potpuni vodič dostupan ovdje:<br>
  • Dodirnite "Više radnji" i odaberite "Pokreni sinkronizaciju".<br><br>
 
 [Pročitajte više](/docs/howto/play-offline-music-in-evermusic-flacbox-download-sync-from-cloud-to-local-files/)
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Kako reproducirati lokalno preuzetu glazbu na iPhoneu?" closed="true" %}}
+{{% ls-details title="Kako reproducirati lokalno preuzetu glazbu na iPhoneu?" closed="true" %}}
 Nakon instaliranja aplikacije, otvorite zaslon "Lokalne datoteke" i pomaknite se prema dolje do odjeljka "Datoteke na ovom iPhoneu".<br>
 Odatle odaberite "Otvori datoteke..." ako trebate odabrati nekoliko audio datoteka ili "Otvori mapu..." ako želite odabrati mapu s glazbom.<br>
 Aplikacija će skenirati sadržaj mape i sve pronađene audio datoteke bit će odabrane.<br>
@@ -452,15 +452,15 @@ Odaberite audio datoteke koje želite dodati i dodirnite "Otvori" za potvrdu.<br
 S ovim jednostavnim koracima možete otključati puni potencijal svog iPhonea i Maca kao ultimativnih platformi za uživanje u svojoj dragocjenoj lokalnoj glazbenoj zbirci.<br><br>
 
 [Pročitajte više](/docs/howto/how-to-play-local-music-stored-on-your-iphone-or-mac)
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Kako mogu nastaviti popis za reprodukciju od mjesta gdje sam stao?" closed="true" %}}
+{{% ls-details title="Kako mogu nastaviti popis za reprodukciju od mjesta gdje sam stao?" closed="true" %}}
 Prvo provjerite je li "Spremi stanje audio playera" omogućeno u Postavke > Audio player > Općenito.<br>
 Kada se prebacite na drugi popis za reprodukciju i vratite, vidjet ćete četiri radnje na gornjoj alatnoj traci ispod omota albuma: "Pretraži", "Nastavi reprodukciju", "Reproduciraj sve" i "Nasumično sve".<br>
 Dodirnite "Nastavi reprodukciju" za nastavak popisa za reprodukciju od zadnjeg spremljenog stanja i pozicije medija.<br>
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Kako vidjeti tekstove pjesama u Evermusicu?" closed="true" %}}
+{{% ls-details title="Kako vidjeti tekstove pjesama u Evermusicu?" closed="true" %}}
 Možete vidjeti ugrađene tekstove pjesama u Evermusic aplikaciji slijedeći ove korake:<br>
 1. Pokrenite reprodukciju audio datoteke dodirivanjem na nju.<br>
 2. Otvorite audio player na cijelom zaslonu.<br>
@@ -474,9 +474,9 @@ Možete vidjeti ugrađene tekstove pjesama u Evermusic aplikaciji slijedeći ove
 3. "Način LRC datoteke": Umjesto uređivanja audio datoteka, možete staviti LRC datoteku u istu mapu kao izvornu audio datoteku. Obje datoteke trebaju imati isto ime ali različite ekstenzije.<br><br>
 
 [Pročitajte više](/docs/howto/how-to-add-and-view-comments-to-your-audio-tracks-on-iphone-ipad-and-mac-with-evermusic-and-flacbox)
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Kako prenijeti glazbu u Evermusic s računala?" closed="true" %}}
+{{% ls-details title="Kako prenijeti glazbu u Evermusic s računala?" closed="true" %}}
 Možete povezati svoje računalo ili osobni NAS koristeći SMB, WebDAV ili DLNA protokole. Alternativno, koristite iTunes File Sharing za prijenos glazbe.<br><br>
 
 Za povezivanje računala koristeći **SMB** protokol dodirnite "Poveži cloud uslugu" → SMB.<br>
@@ -508,9 +508,9 @@ Detaljne upute dostupne ovdje:<br>
 
 S **DLNA** također možete postaviti DLNA media server i streamati glazbu s Windows PC-a kako je opisano ovdje:<br>
 [Kako omogućiti DLNA Media Server na Windowsima 10 i reproducirati glazbu na iPhoneu](/docs/howto/how-to-enable-dlna-media-server-on-windows-10-and-play-your-music-on-iphone)
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Kako preuzeti glazbu?" closed="true" %}}
+{{% ls-details title="Kako preuzeti glazbu?" closed="true" %}}
 Prije nego što možete preuzeti glazbu i slušati offline, trebate povezati mrežni račun.<br>
 Jednostavno otvorite zaslon "Veze" i dodajte svoj račun.<br>
 Nakon dodavanja mrežnog računa možete preuzeti glazbu iz oblaka.<br><br>
@@ -531,9 +531,9 @@ Detaljnije upute o offline načinu dostupne ovdje:<br>
 
 Druga dostupna opcija je preuzimanje glazbe s Youtubea i uvoz u Evermusic kako je opisano ovdje:<br>
 [Kako preuzeti glazbu s YouTubea i slušati offline glazbu na iPhoneu](/docs/howto/how-to-download-music-from-youtube-and-listen-to-offline-music-on-iphone)
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Podržava li Evermusic Apple CarPlay?" closed="true" %}}
+{{% ls-details title="Podržava li Evermusic Apple CarPlay?" closed="true" %}}
 Da, **Evermusic u potpunosti podržava Apple CarPlay**. Možete pregledavati svoju glazbenu biblioteku, reproducirati lokalne ili offline datoteke, povezati se s pohranom u oblaku i kontrolirati reprodukciju izravno sa zaslona infotainment sustava vašeg automobila.
 
 CarPlay sučelje uključuje namjenske kartice za **Biblioteku**, **Veze**, **Lokalne datoteke** i **Postavke**, dajući vam punu kontrolu nad glazbom na cesti. Kontrole reprodukcije, nasumična reprodukcija, ponavljanje i upravljanje redom čekanja također su dostupni.
@@ -541,9 +541,9 @@ CarPlay sučelje uključuje namjenske kartice za **Biblioteku**, **Veze**, **Lok
 Za korištenje CarPlaya provjerite je li Siri omogućena i je li vaš iPhone povezan putem USB-a ili bežično.
 
 [Pročitajte potpuni vodič](/docs/howto/how-to-play-your-own-music-on-iphone-using-carplay/)
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Koje audio formate Evermusic podržava?" closed="true" %}}
+{{% ls-details title="Koje audio formate Evermusic podržava?" closed="true" %}}
 Evo potpunog popisa podržanih audio formata i njihovih odgovarajućih ekstenzija datoteka:<br><br>
 
 **Podržani audio formati:**<br>
@@ -561,40 +561,40 @@ Evo potpunog popisa podržanih audio formata i njihovih odgovarajućih ekstenzij
 mpeg, aifc, 3gp, avi, aif, latm, 3gpp, m4a, loas, cdda, aac, m4p, m4b, ac3, pls, mp4v, m3u, m4r, aiff, xhe, mp1, snd, mp2, wav, qt, wave, m3u8, m4v, mp3, 3g2, caf, mp4, flac, au, w64, ec3, adts, amr, vtt, mpa, aa<br><br>
 
 S ovim širokim rasponom podržanih formata i ekstenzija datoteka, možete uživati u glazbi u formatu po svom izboru.
-{{% /details %}}
+{{% /ls-details %}}
 
 </div>
 
 <div class="hx:mt-6"></div>
 
-{{< hextra/section-headline >}}
+{{< ls-section-headline >}}
   Korisnički Vodič
-{{< /hextra/section-headline >}}
+{{< /ls-section-headline >}}
 
 <div class="hx:mt-6"></div>
 
 <div class="hx:w-full">
 
 <div class="hx:w-full hx:mx-auto hx:flex hx:flex-col hx:items-center hx:text-center">
-  {{< hextra/info-paragraph border="false" >}}
+  {{< ls-info-paragraph border="false" >}}
   Ovaj vodič pomoći će vam izvući najbolje iz Evermusica na vašem iPhoneu, iPadu ili Macu. Naučite kako streamati glazbu iz oblaka, upravljati audioknjigama i premještati glazbu između uređaja. Evermusic vam daje potpunu kontrolu nad vašom glazbenom zbirkom u jednoj jednostavnoj aplikaciji.
-  {{< /hextra/info-paragraph >}}
+  {{< /ls-info-paragraph >}}
 </div>
 
 {{< cards >}}
-  {{< feature-card icon="location-marker" title="Navigacija" subtitle="Naučite navigirati Evermusicom koristeći traku kartica na iPhoneu ili lijevi izbornik na iPadu i Macu." link="/docs/guide/evermusic/evermusic-guide-navigation" >}}
+  {{< ls-feature-card icon="location-marker" title="Navigacija" subtitle="Naučite navigirati Evermusicom koristeći traku kartica na iPhoneu ili lijevi izbornik na iPadu i Macu." link="/docs/guide/evermusic/evermusic-guide-navigation" >}}
 
-  {{< feature-card icon="cloud" title="Veze" subtitle="Povežite svoje cloud račune i upravljajte online datotekama koristeći ugrađeni upravitelj datoteka." link="/docs/guide/evermusic/evermusic-guide-connections" >}}
+  {{< ls-feature-card icon="cloud" title="Veze" subtitle="Povežite svoje cloud račune i upravljajte online datotekama koristeći ugrađeni upravitelj datoteka." link="/docs/guide/evermusic/evermusic-guide-connections" >}}
 
-  {{< feature-card icon="library" title="Glazbena Biblioteka" subtitle="Organizirajte i istražujte svoje pjesme, albume i izvođače u Glazbenoj biblioteci." link="/docs/guide/evermusic/evermusic-guide-music-library" >}}
+  {{< ls-feature-card icon="library" title="Glazbena Biblioteka" subtitle="Organizirajte i istražujte svoje pjesme, albume i izvođače u Glazbenoj biblioteci." link="/docs/guide/evermusic/evermusic-guide-music-library" >}}
 
-  {{< feature-card icon="collection" title="Popisi za Reprodukciju" subtitle="Stvarajte i raspoređujte popise za reprodukciju prema raspoloženju ili prigodi." link="/docs/guide/evermusic/evermusic-guide-playlists" >}}
+  {{< ls-feature-card icon="collection" title="Popisi za Reprodukciju" subtitle="Stvarajte i raspoređujte popise za reprodukciju prema raspoloženju ili prigodi." link="/docs/guide/evermusic/evermusic-guide-playlists" >}}
 
-  {{< feature-card icon="folder" title="Lokalne Datoteke" subtitle="Pristupite i upravljajte offline glazbom kroz odjeljak Lokalne datoteke." link="/docs/guide/evermusic/evermusic-guide-local-files" >}}
+  {{< ls-feature-card icon="folder" title="Lokalne Datoteke" subtitle="Pristupite i upravljajte offline glazbom kroz odjeljak Lokalne datoteke." link="/docs/guide/evermusic/evermusic-guide-local-files" >}}
 
-  {{< feature-card icon="play" title="Audio Player" subtitle="Kontrolirajte reprodukciju, red čekanja i audio postavke poput ekvilajzera i mjerača vremena za spavanje." link="/docs/guide/evermusic/evermusic-guide-player" >}}
+  {{< ls-feature-card icon="play" title="Audio Player" subtitle="Kontrolirajte reprodukciju, red čekanja i audio postavke poput ekvilajzera i mjerača vremena za spavanje." link="/docs/guide/evermusic/evermusic-guide-player" >}}
 
-  {{< feature-card icon="adjustments" title="Postavke" subtitle="Prilagodite izgled, značajke i postavke performansi Evermusica." link="/docs/guide/evermusic/evermusic-guide-settings" >}}
+  {{< ls-feature-card icon="adjustments" title="Postavke" subtitle="Prilagodite izgled, značajke i postavke performansi Evermusica." link="/docs/guide/evermusic/evermusic-guide-settings" >}}
 
 {{< /cards >}}
 

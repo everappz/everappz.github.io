@@ -12,7 +12,7 @@ authors:
     image: "/images/about/artem-meleshko-founder-everappz.webp"
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 ## لماذا تصدير مقالات المدونة من Wix؟
 
@@ -332,33 +332,33 @@ bash fetch_blog_posts.sh
 المشروع مفتوح المصدر. تقارير الأخطاء واقتراحات الميزات وطلبات السحب مرحب بها.
 
 {{< cards cols="1" >}}
-  {{< card link="https://github.com/everappz/wix-blog-export" title="المشروع على GitHub" icon="github" tag="open source" >}}
+  {{< ls-card link="https://github.com/everappz/wix-blog-export" title="المشروع على GitHub" icon="github" tag="open source" >}}
 {{< /cards >}}
 
 ---
 
 ## الأسئلة الشائعة
 
-{{% details title="لماذا لا يمكنني استخدام `requests` لاستخراج مقالات مدونة Wix؟" closed="true" %}}
+{{% ls-details title="لماذا لا يمكنني استخدام `requests` لاستخراج مقالات مدونة Wix؟" closed="true" %}}
 يعرض Wix المحتوى ديناميكياً بـ JavaScript. طلب HTTP عادي يُرجع هيكل صفحة فارغاً. يشغل Selenium متصفحاً بدون واجهة للحصول على HTML المعروض بالكامل.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="هل يعمل هذا مع أي مدونة Wix؟" closed="true" %}}
+{{% ls-details title="هل يعمل هذا مع أي مدونة Wix؟" closed="true" %}}
 نعم. يقرأ المستخرج XML خريطة الموقع ويعالج كل عنوان URL. تحتاج فقط إلى تحديث متغير `SITEMAP_URL` في `parse_blog_sitemap.py` للإشارة إلى خريطة موقعك.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="أي نموذج OpenAI يستخدمه هذا؟" closed="true" %}}
+{{% ls-details title="أي نموذج OpenAI يستخدمه هذا؟" closed="true" %}}
 يستخدم النص GPT-4o افتراضياً. يمكنك تغيير متغير `API_MODEL` في `generate_md.py` لاستخدام نموذج مختلف.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="هل يمكنني استخدام هذا للانتقال من Wix إلى Hugo؟" closed="true" %}}
+{{% ls-details title="هل يمكنني استخدام هذا للانتقال من Wix إلى Hugo؟" closed="true" %}}
 نعم. الإخراج هو Markdown قياسي مع مسارات صور محلية، يعمل مباشرة مع Hugo وJekyll وAstro ومنشئات المواقع الثابتة الأخرى. أضف front matter إلى ملفات `_index.md` المولدة لإكمال الترحيل.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="كم يكلف استخدام OpenAI API لهذا؟" closed="true" %}}
+{{% ls-details title="كم يكلف استخدام OpenAI API لهذا؟" closed="true" %}}
 تعتمد التكلفة على عدد وطول مقالات مدونتك. مدونة نموذجية تحتوي على 50 مقالاً بطول معتدل تكلف بضعة دولارات في استخدام API مع GPT-4o.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="هل هذه الأداة مفتوحة المصدر؟" closed="true" %}}
+{{% ls-details title="هل هذه الأداة مفتوحة المصدر؟" closed="true" %}}
 نعم. الكود المصدري الكامل متاح على [GitHub](https://github.com/everappz/wix-blog-export) بموجب ترخيص مفتوح المصدر.
-{{% /details %}}
+{{% /ls-details %}}

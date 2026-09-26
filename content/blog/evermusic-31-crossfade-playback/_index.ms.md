@@ -12,7 +12,7 @@ authors:
     image: "/images/about/artem-meleshko-founder-everappz.webp"
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 ## Evermusic 3.1: Apa yang Berubah dan Mengapa Ia Penting
 
@@ -89,22 +89,22 @@ Edit kelayakan log masuk untuk mana-mana perkhidmatan awan yang disambungkan tan
 
 ## Soalan Lazim
 
-{{% details title="Apakah main balik crossfade dalam Evermusic?" closed="true" %}}
+{{% ls-details title="Apakah main balik crossfade dalam Evermusic?" closed="true" %}}
 Main balik crossfade menggabungkan penghujung satu trek dengan permulaan trek seterusnya, mencipta peralihan yang lancar. Anda boleh menetapkan tempoh antara 3 dan 15 saat dalam Settings → Audio Player → Crossfade Playback.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Bolehkah saya menyandarkan senarai main Evermusic ke storan awan?" closed="true" %}}
+{{% ls-details title="Bolehkah saya menyandarkan senarai main Evermusic ke storan awan?" closed="true" %}}
 Ya. Evermusic 3.1 membolehkan anda menyandarkan keseluruhan pustaka anda — termasuk senarai main, metadata, seni kulit dan tetapan — ke mana-mana perkhidmatan awan yang disambungkan sebagai satu fail.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Adakah Evermusic menyokong penyemakan imbas pustaka iPod?" closed="true" %}}
+{{% ls-details title="Adakah Evermusic menyokong penyemakan imbas pustaka iPod?" closed="true" %}}
 Ya. Anda boleh melayari pustaka iPod anda mengikut senarai main, album, artis dan genre terus dari skrin utama Evermusic dan menambah trek ke baris gilir anda.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Bagaimana cara membetulkan tag lagu yang salah dalam Evermusic?" closed="true" %}}
+{{% ls-details title="Bagaimana cara membetulkan tag lagu yang salah dalam Evermusic?" closed="true" %}}
 Gunakan Editor Tag terbina dalam dan ketuk tindakan Identify. Evermusic mengimbas nama fail anda dan mengemas kini tag ID3 dengan metadata yang diperbetulkan secara automatik.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Perkhidmatan awan manakah yang disokong oleh Evermusic?" closed="true" %}}
+{{% ls-details title="Perkhidmatan awan manakah yang disokong oleh Evermusic?" closed="true" %}}
 Evermusic berfungsi dengan Dropbox, Google Drive, OneDrive, MEGA, Box, Yandex.Disk, WebDAV, SMB/CIFS dan pelayan FTP.
-{{% /details %}}
+{{% /ls-details %}}

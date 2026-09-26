@@ -20,7 +20,7 @@ A la secció de Llistes de reproducció, trobaràs eines útils per gestionar le
 Les llistes de reproducció a Flacbox poden contenir una barreja de pistes al núvol en línia, fitxers descarregats sense connexió i fitxers locals del teu dispositiu — tot en una sola llista de reproducció — i es reprodueix de manera fluida.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Pantalla principal de les llistes de reproducció de Flacbox" image="/docs/guide/flacbox/img/playlists-main.webp" >}}
+  {{< ls-card title="" subtitle="Pantalla principal de les llistes de reproducció de Flacbox" image="/docs/guide/flacbox/img/playlists-main.webp" >}}
 {{< /cards >}}
 
 ## Creació d'una llista de reproducció
@@ -63,7 +63,7 @@ Quan obres una llista de reproducció, apareix la pantalla de detalls. Trobaràs
 - **Mode sense connexió** — descarrega totes les pistes d'aquesta llista als fitxers locals. Qualsevol element nou afegit a la llista de reproducció també es descarrega automàticament.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Pantalla de detalls de la llista de reproducció de Flacbox" image="/docs/guide/flacbox/img/playlist-details-screen.webp" >}}
+  {{< ls-card title="" subtitle="Pantalla de detalls de la llista de reproducció de Flacbox" image="/docs/guide/flacbox/img/playlist-details-screen.webp" >}}
 {{< /cards >}}
 
 ## Més accions per a una llista de reproducció a la pantalla principal de Llistes de reproducció
@@ -82,7 +82,7 @@ Pots accedir a les accions d'una llista de reproducció tocant el botó **"..."*
 - **Eliminar la llista de reproducció** — elimina la llista de la biblioteca de música. **Aquesta acció no es pot desfer.**
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Més accions de Flacbox per a una llista de reproducció a la pantalla principal" image="/docs/guide/flacbox/img/more-actions-for-playlist-in-playlists-main-screen.webp" >}}
+  {{< ls-card title="" subtitle="Més accions de Flacbox per a una llista de reproducció a la pantalla principal" image="/docs/guide/flacbox/img/more-actions-for-playlist-in-playlists-main-screen.webp" >}}
 {{< /cards >}}
 
 ## Més accions per a una llista de reproducció a la pantalla de detalls
@@ -110,7 +110,7 @@ Per canviar l'ordre de les cançons en una llista de reproducció, toca el botó
 Per a un flux de treball encara més senzill en llistes llargues, tria Més accions → Reordenar cançons per entrar al mode de reordenació d'arrossegar i deixar anar dedicat.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Reordenar cançons en una llista de reproducció de Flacbox" image="/docs/guide/flacbox/img/playlist-details-rearange-songs.webp" >}}
+  {{< ls-card title="" subtitle="Reordenar cançons en una llista de reproducció de Flacbox" image="/docs/guide/flacbox/img/playlist-details-rearange-songs.webp" >}}
 {{< /cards >}}
 
 ## Canvi de la imatge de portada de la llista de reproducció
@@ -126,7 +126,7 @@ Obre la llista de reproducció i toca el botó **"..."** a la cantonada superior
 Obre la llista de reproducció, toca el botó **"..."** a la cantonada superior dreta i selecciona **Seleccionar** per entrar al mode de selecció. Tria les pistes que vols eliminar i toca **Eliminar de la llista de reproducció** a la part inferior de la pantalla. Confirma tocant **Fet**.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Mode de selecció a la pantalla de detalls de la llista de reproducció de Flacbox" image="/docs/guide/flacbox/img/selection-mode-playlist-details-screen.webp" >}}
+  {{< ls-card title="" subtitle="Mode de selecció a la pantalla de detalls de la llista de reproducció de Flacbox" image="/docs/guide/flacbox/img/selection-mode-playlist-details-screen.webp" >}}
 {{< /cards >}}
 
 ## Opcions de pista

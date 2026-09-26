@@ -12,7 +12,7 @@ authors:
     image: "/images/about/artem-meleshko-founder-everappz.webp"
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 **Tóm tắt:** Flacbox đã vượt 1 triệu lượt tải trên toàn thế giới. Hỗ trợ FLAC, ALAC, APE, DSD và các định dạng lossless khác với bộ cân bằng 10 dải, danh sách phát M3U/CUE, phát ngoại tuyến và đồng bộ xuyên thiết bị trên iPhone, iPad và Mac.
 
@@ -78,26 +78,26 @@ Phát triển sắp tới tập trung vào:
 
 ## Câu hỏi thường gặp
 
-{{% details title="Flacbox hỗ trợ những định dạng âm thanh nào?" closed="true" %}}
+{{% ls-details title="Flacbox hỗ trợ những định dạng âm thanh nào?" closed="true" %}}
 Flacbox phát FLAC, ALAC, APE, DSD, WavPack, TTA, RealAudio, MP3, AAC, OGG và nhiều định dạng khác. Nó được thiết kế chủ yếu cho âm thanh lossless và hi-res.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Flacbox có bộ cân bằng không?" closed="true" %}}
+{{% ls-details title="Flacbox có bộ cân bằng không?" closed="true" %}}
 Có. Flacbox bao gồm bộ cân bằng 10 dải với cài đặt sẵn theo thể loại và điều chỉnh tần số thủ công.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Tôi có thể nghe nhạc ngoại tuyến với Flacbox không?" closed="true" %}}
+{{% ls-details title="Tôi có thể nghe nhạc ngoại tuyến với Flacbox không?" closed="true" %}}
 Có. Tải tệp từ lưu trữ đám mây hoặc chuyển trực tiếp vào ứng dụng để phát ngoại tuyến mà không cần kết nối internet.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Flacbox có hoạt động trên Mac không?" closed="true" %}}
+{{% ls-details title="Flacbox có hoạt động trên Mac không?" closed="true" %}}
 Có. Flacbox chạy trên iPhone, iPad và Mac với thư viện và lịch sử phát được đồng bộ trên tất cả thiết bị.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Hỗ trợ CUE sheet là gì?" closed="true" %}}
+{{% ls-details title="Hỗ trợ CUE sheet là gì?" closed="true" %}}
 CUE sheet xác định ranh giới track trong một tệp âm thanh duy nhất. Flacbox đọc tệp CUE để chia album rip thành các track riêng lẻ với siêu dữ liệu chính xác.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Flacbox có miễn phí không?" closed="true" %}}
+{{% ls-details title="Flacbox có miễn phí không?" closed="true" %}}
 Flacbox miễn phí tải về với các tính năng cao cấp tùy chọn có sẵn thông qua mua hàng trong ứng dụng.
-{{% /details %}}
+{{% /ls-details %}}

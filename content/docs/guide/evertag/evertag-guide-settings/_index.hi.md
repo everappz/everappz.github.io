@@ -21,7 +21,7 @@ readingTime: 14
 - **कानूनी और गोपनीयता** — Terms, Privacy Policy, Legal Notices, Analytics और डेटा संग्रह
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evertag सेटिंग्स स्क्रीन" image="/docs/guide/evertag/img/settings.webp" >}}
+  {{< ls-card title="" subtitle="Evertag सेटिंग्स स्क्रीन" image="/docs/guide/evertag/img/settings.webp" >}}
 {{< /cards >}}
 
 ## Premium में अपग्रेड करें
@@ -63,7 +63,7 @@ readingTime: 14
 फ़ाइल मैनेजर कनेक्टेड cloud storage accounts तक पहुँच का समर्थन करता है और कई फ़ाइलों के त्वरित प्रबंधन के लिए batch operations प्रदान करता है।
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evertag सेटिंग्स फ़ाइल मैनेजर स्क्रीन" image="/docs/guide/evertag/img/settings-file-manager.webp" >}}
+  {{< ls-card title="" subtitle="Evertag सेटिंग्स फ़ाइल मैनेजर स्क्रीन" image="/docs/guide/evertag/img/settings-file-manager.webp" >}}
 {{< /cards >}}
 
 ### फ़ाइल ट्रांसफर
@@ -103,7 +103,7 @@ storage space पुनः प्राप्त करने के लिए �
 इस अनुभाग में, आप बिल्ट-इन ऑडियो टैग एडिटर कॉन्फ़िगर कर सकते हैं।
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evertag सेटिंग्स टैग एडिटर स्क्रीन" image="/docs/guide/evertag/img/settings-tag-editor.webp" >}}
+  {{< ls-card title="" subtitle="Evertag सेटिंग्स टैग एडिटर स्क्रीन" image="/docs/guide/evertag/img/settings-tag-editor.webp" >}}
 {{< /cards >}}
 
 ### एल्बम कवर स्केलिंग
@@ -136,7 +136,7 @@ storage space पुनः प्राप्त करने के लिए �
 इस अनुभाग में, आप अपनी प्राथमिकताओं के अनुसार user interface सेटिंग्स कस्टमाइज़ कर सकते हैं।
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evertag सेटिंग्स व्यक्तिगतकरण स्क्रीन" image="/docs/guide/evertag/img/settings-personalization.webp" >}}
+  {{< ls-card title="" subtitle="Evertag सेटिंग्स व्यक्तिगतकरण स्क्रीन" image="/docs/guide/evertag/img/settings-personalization.webp" >}}
 {{< /cards >}}
 
 ### एप्लिकेशन आइकन

@@ -14,7 +14,7 @@ authors:
     image: "/images/about/artem-meleshko-founder-everappz.webp"
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 **TL;DR:** ชมวิดีโอโปรโมทอย่างเป็นทางการของ Evermusic เพื่อดูการสตรีมเพลงคลาวด์ การเล่นออฟไลน์ และการปรับแต่งเสียงในการใช้งานจริงบน iPhone และ Mac
 
@@ -24,7 +24,7 @@ authors:
 
 ชม Evermusic ในการใช้งานจริง -- สตรีมเพลงจากคลาวด์ จัดการเพลย์ลิสต์ และส่งมอบเสียงคุณภาพสูงบน iPhone:
 
-{{< youtubecard id="6mm3LVT4rtA" title="Evermusic Promo Video" >}}
+{{< ls-youtubecard id="6mm3LVT4rtA" title="Evermusic Promo Video" >}}
 
 ## สิ่งที่คุณจะเห็นในวิดีโอ
 
@@ -41,14 +41,14 @@ Evermusic มีให้บริการสำหรับ iPhone, iPad แ�
 
 ## FAQ
 
-{{% details title="Evermusic คืออะไร?" closed="true" %}}
+{{% ls-details title="Evermusic คืออะไร?" closed="true" %}}
 Evermusic เป็นเครื่องเล่นเพลงสำหรับ iOS และ macOS ที่สตรีมเสียงจากบริการคลาวด์เช่น Dropbox, Google Drive, OneDrive และ iCloud Drive นอกจากนี้ยังรองรับการเล่นออฟไลน์และมีอีควอไลเซอร์ในตัว
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Evermusic รองรับบริการคลาวด์ใดบ้าง?" closed="true" %}}
+{{% ls-details title="Evermusic รองรับบริการคลาวด์ใดบ้าง?" closed="true" %}}
 Evermusic เชื่อมต่อกับ Dropbox, Google Drive, OneDrive, iCloud Drive, pCloud, Yandex.Disk และผู้ให้บริการคลาวด์สตอเรจอื่นๆ อีกหลายราย
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Evermusic ฟรีหรือไม่?" closed="true" %}}
+{{% ls-details title="Evermusic ฟรีหรือไม่?" closed="true" %}}
 Evermusic ดาวน์โหลดฟรีพร้อมฟีเจอร์พรีเมียมเสริมที่มีให้ผ่านการซื้อในแอป
-{{% /details %}}
+{{% /ls-details %}}

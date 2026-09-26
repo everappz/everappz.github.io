@@ -7,7 +7,7 @@ tags: ["musik", "cloud", "streaming", "sinkronisasi", "icloud", "perpustakaan"]
 keywords: ["impor musik iCloud Evermusic", "sinkronisasi iCloud Flacbox", "Evermusic streaming dari iCloud", "perpustakaan musik aplikasi iOS", "pembaca metadata Flacbox", "streaming musik iCloud iPhone"]
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **Ringkasan:** Anda dapat melakukan streaming perpustakaan musik iCloud Drive di Evermusic dan Flacbox tanpa mengunduh file ke perangkat Anda. Hubungkan iCloud Drive di aplikasi, aktifkan Sinkronisasi Musik Online untuk membangun perpustakaan Anda, konfigurasikan pembaca metadata untuk mengatur berdasarkan artis/album/genre, dan secara opsional aktifkan Mode Offline untuk mengunduh album untuk mendengarkan tanpa internet. Langkah-langkah ini juga berfungsi dengan Google Drive, Dropbox, OneDrive, dan layanan cloud lain yang didukung.
@@ -148,26 +148,26 @@ Itu semua untuk hari ini! Kami berharap panduan ini membantu Anda mengkonfiguras
 
 ## FAQ
 
-{{% details title="Bisakah saya melakukan streaming musik iCloud tanpa mengunduh file ke iPhone saya?" closed="true" %}}
+{{% ls-details title="Bisakah saya melakukan streaming musik iCloud tanpa mengunduh file ke iPhone saya?" closed="true" %}}
 Ya. Ketika Anda menghubungkan iCloud Drive di Evermusic atau Flacbox dan menggunakan Sinkronisasi Musik Online, aplikasi membuat tautan ke file cloud Anda dan melakukan streaming sesuai permintaan. File tidak diunduh kecuali Anda secara eksplisit mengaktifkan Mode Offline.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Mengapa impor musik iCloud lambat di Flacbox atau Evermusic?" closed="true" %}}
+{{% ls-details title="Mengapa impor musik iCloud lambat di Flacbox atau Evermusic?" closed="true" %}}
 Impor lambat biasanya disebabkan oleh pembacaan metadata pada perpustakaan besar melalui koneksi seluler. Aktifkan Sinkronisasi Latar Belakang, mulai pemutaran audio untuk menjaga aplikasi tetap aktif, dan pertimbangkan menggunakan versi Mac untuk sinkronisasi awal koleksi besar.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Apakah panduan ini berfungsi dengan layanan cloud selain iCloud?" closed="true" %}}
+{{% ls-details title="Apakah panduan ini berfungsi dengan layanan cloud selain iCloud?" closed="true" %}}
 Ya. Langkah-langkah yang sama berlaku untuk Google Drive, Dropbox, OneDrive, SMB, WebDAV, dan semua layanan cloud lain yang didukung oleh Evermusic dan Flacbox.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Bagaimana cara mentransfer perpustakaan musik saya dari Mac ke iPhone?" closed="true" %}}
+{{% ls-details title="Bagaimana cara mentransfer perpustakaan musik saya dari Mac ke iPhone?" closed="true" %}}
 Gunakan fitur pencadangan/pemulihan data di pengaturan aplikasi. Sinkronkan dan baca metadata di versi Mac terlebih dahulu, buat cadangan, lalu pulihkan di versi iOS. Ini adalah cara tercepat untuk mengatur perpustakaan besar di iPhone.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Apakah pembaca metadata akan mengubah file audio asli saya?" closed="true" %}}
+{{% ls-details title="Apakah pembaca metadata akan mengubah file audio asli saya?" closed="true" %}}
 Tidak. Pembaca metadata hanya memperbarui informasi tampilan di perpustakaan musik Anda. Ini tidak mengubah file yang disimpan di akun cloud atau di perangkat Anda. Untuk mengedit tag file, gunakan editor tag bawaan.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Bagaimana cara membuat album tersedia secara offline?" closed="true" %}}
+{{% ls-details title="Bagaimana cara membuat album tersedia secara offline?" closed="true" %}}
 Gunakan fitur Mode Offline. Ketuk **Lebih banyak tindakan** pada folder cloud mana pun dan pilih **Mengaktifkan mode offline**. Aplikasi mengunduh semua file dan menjaganya tetap sinkron dengan versi cloud secara otomatis.
-{{% /details %}}
+{{% /ls-details %}}

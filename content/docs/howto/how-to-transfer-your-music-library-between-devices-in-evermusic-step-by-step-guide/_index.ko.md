@@ -7,7 +7,7 @@ keywords: ["Evermusic 음악 라이브러리 전송", "Evermusic 재생 목록 �
 readingTime: 3
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **요약:** Evermusic 라이브러리를 새 기기로 전송하려면 원본 기기에서 백업을 생성하고, Wi-Fi Drive를 시작한 후, 같은 네트워크에서 두 번째 기기를 연결하고, 백업 및 음악 파일을 다운로드한 다음 백업에서 복원하세요. 전체 과정은 라이브러리 크기에 따라 약 10분 정도 소요됩니다.
@@ -144,22 +144,22 @@ readingTime: 3
 
 ## 자주 묻는 질문
 
-{{% details title="Wi-Fi 없이 Evermusic 라이브러리를 전송할 수 있나요?" closed="true" %}}
+{{% ls-details title="Wi-Fi 없이 Evermusic 라이브러리를 전송할 수 있나요?" closed="true" %}}
 Wi-Fi Drive는 두 기기가 동일한 Wi-Fi 네트워크에 있어야 합니다. 현재 블루투스 또는 셀룰러 전송 옵션은 없습니다. 대안으로 AirDrop 또는 파일 앱을 사용하여 백업 파일과 음악 폴더를 기기 간에 수동으로 이동할 수 있습니다.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="클라우드 서비스 연결이 백업과 함께 전송되나요?" closed="true" %}}
+{{% ls-details title="클라우드 서비스 연결이 백업과 함께 전송되나요?" closed="true" %}}
 백업에는 데이터베이스, 재생 목록, 앨범 커버 및 설정이 포함됩니다. 보안상의 이유로 클라우드 서비스 로그인 자격 증명은 포함되지 않습니다. 복원 후 새 기기에서 클라우드 계정을 다시 연결해야 합니다.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="두 번째 기기의 기존 라이브러리는 어떻게 되나요?" closed="true" %}}
+{{% ls-details title="두 번째 기기의 기존 라이브러리는 어떻게 되나요?" closed="true" %}}
 백업을 복원하면 두 번째 기기의 기존 음악 라이브러리 데이터, 재생 목록, 설정 및 앨범 아트워크가 모두 대체됩니다. 데이터를 보존하려면 먼저 두 번째 기기의 별도 백업을 만드세요.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="이 과정이 iPhone과 Mac 간에도 작동하나요?" closed="true" %}}
+{{% ls-details title="이 과정이 iPhone과 Mac 간에도 작동하나요?" closed="true" %}}
 네. Evermusic은 iPhone, iPad 및 Mac의 모든 조합 간에 Wi-Fi Drive 전송을 지원합니다. 두 기기가 동일한 Wi-Fi 네트워크에 있기만 하면 됩니다.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="전송에 얼마나 걸리나요?" closed="true" %}}
+{{% ls-details title="전송에 얼마나 걸리나요?" closed="true" %}}
 전송 시간은 음악 라이브러리의 크기와 Wi-Fi 속도에 따라 달라집니다. 일반적인 몇 기가바이트의 라이브러리는 표준 가정용 네트워크에서 5~15분 내에 전송됩니다.
-{{% /details %}}
+{{% /ls-details %}}

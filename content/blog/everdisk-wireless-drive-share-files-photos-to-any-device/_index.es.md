@@ -12,7 +12,7 @@ authors:
     image: "/images/about/artem-meleshko-founder-everappz.webp"
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 **En resumen:** [Everdisk](/products/everdisk) es nuestra nueva app que convierte tu **iPhone o iPad en una unidad inalámbrica** y en un centro que también se conecta a tus otros dispositivos. Pulsa **Iniciar** y Everdisk ejecuta **cuatro servidores a la vez**: **DLNA** para televisores inteligentes y reproductores multimedia, **HTTP** para cualquier navegador web, **WebDAV** para Finder, Windows y Linux, y **FTP** para apps de archivos. Cada dispositivo se conecta como prefiere. Comparte tus archivos, fotos, vídeos y música con cualquier cosa de tu red, transmite a un televisor sin cables, monta tu dispositivo como unidad de red o mueve archivos por un **cable USB** cuando no hay Wi-Fi. Everdisk también se conecta hacia fuera a servidores **DLNA, WebDAV, FTP y SFTP**, tiene un **gestor de archivos** integrado con compresión y descompresión, y puede **escanear documentos a PDF**, **anotar y firmar PDF** y ejecutar un completo **conjunto de herramientas de PDF**. Sin cuentas, sin nube y sin app adicional que instalar en el otro lado. Todo se queda en tu red local. Descarga gratuita, con una compra opcional única Premium Lifetime.
 
@@ -133,46 +133,46 @@ Si te gusta la app, deja una valoración en el App Store. Ayuda de verdad. ¿Tie
 
 ## Preguntas frecuentes
 
-{{% details title="¿Qué es Everdisk?" closed="true" %}}
+{{% ls-details title="¿Qué es Everdisk?" closed="true" %}}
 Everdisk es una nueva app que convierte tu iPhone o iPad en una unidad inalámbrica y en un centro que también se conecta a tus otros dispositivos. Puedes compartir tus archivos, fotos, vídeos y música con cualquier cosa de tu red, explorar y transmitir desde otros servidores, y gestionar todo directamente en tu dispositivo. Sin cuentas, sin nube y sin app adicional que instalar en el otro lado. Solo pulsas Iniciar y ya está listo. La app ejecuta cuatro servidores al mismo tiempo: DLNA para televisores inteligentes y reproductores multimedia, HTTP para cualquier navegador web, WebDAV para Finder, Windows y Linux, y FTP para apps de archivos y usuarios avanzados.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="¿Cuánto cuesta Everdisk?" closed="true" %}}
+{{% ls-details title="¿Cuánto cuesta Everdisk?" closed="true" %}}
 Everdisk es una descarga gratuita. Puedes convertir tu dispositivo en una unidad inalámbrica, compartir tus archivos de cuatro maneras, transmitir a un televisor, montar una unidad de red, transferir por USB, conectarte a otros servidores, usar el gestor de archivos, escanear documentos y usar las herramientas de PDF sin coste. Hay una compra opcional única Premium Lifetime, un solo pago sin suscripción, que desbloquea carpetas compartidas y conexiones guardadas ilimitadas, conversión de fotos y vídeos, puertos personalizados, inicio automático de la compartición y personalización del dispositivo. Los precios pueden variar según la región.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="¿Necesito instalar algo en el otro dispositivo?" closed="true" %}}
+{{% ls-details title="¿Necesito instalar algo en el otro dispositivo?" closed="true" %}}
 No. De eso se trata precisamente. El otro dispositivo se conecta usando herramientas que ya tiene. Un televisor inteligente encuentra tu biblioteca por DLNA por sí solo, cualquier ordenador o teléfono abre un enlace en un navegador web, y Mac Finder, Windows y Linux montan tu dispositivo como una unidad de red mediante WebDAV. Nada que instalar en el otro lado.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="¿Cómo transmito fotos y vídeos a mi televisor?" closed="true" %}}
+{{% ls-details title="¿Cómo transmito fotos y vídeos a mi televisor?" closed="true" %}}
 Pon tu televisor o reproductor multimedia y tu dispositivo en la misma red Wi-Fi, luego pulsa Iniciar en Everdisk con tus fotos, vídeos o música compartidos. Tu dispositivo aparece por sí solo en la lista de servidores multimedia del televisor, con miniaturas de vista previa. Ábrelo en el televisor y disfruta de tu biblioteca en la pantalla grande. Sin cables y sin apps adicionales.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="¿Cómo conecto Everdisk desde mi Mac o PC?" closed="true" %}}
+{{% ls-details title="¿Cómo conecto Everdisk desde mi Mac o PC?" closed="true" %}}
 Everdisk hace que tu dispositivo aparezca como una unidad de red normal mediante WebDAV. En un Mac, abre el Finder y elige Ir, luego Conectarse al servidor, e introduce la dirección WebDAV que se muestra en la app. En Windows, asigna una unidad de red con la misma dirección. En Linux, conéctate a la dirección WebDAV desde tu gestor de archivos. Una vez conectado, puedes arrastrar y soltar en ambos sentidos. Si prefieres no montar una unidad, simplemente abre el enlace HTTP en cualquier navegador web.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="¿Puedo transferir archivos sin Wi-Fi?" closed="true" %}}
+{{% ls-details title="¿Puedo transferir archivos sin Wi-Fi?" closed="true" %}}
 Sí. Conecta tu dispositivo a un Mac con el mismo cable USB que usas para cargarlo, y los archivos pasan directamente por el cable, más rápido que por Wi-Fi. Como no necesita una red inalámbrica, esto sigue funcionando en un avión, en un hotel o en cualquier red bloqueada o pública donde la compartición por Wi-Fi está bloqueada.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="¿Puedo enviar archivos de un iPhone a otro?" closed="true" %}}
+{{% ls-details title="¿Puedo enviar archivos de un iPhone a otro?" closed="true" %}}
 Sí. Empieza a compartir en un dispositivo y abre el enlace en un navegador web en el otro, o conéctate por WebDAV o FTP. Puedes explorar, transmitir y descargar en ambos sentidos, e incluso subir fotos, documentos y carpetas enteras de vuelta al dispositivo que comparte.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="¿A qué puede conectarse Everdisk?" closed="true" %}}
+{{% ls-details title="¿A qué puede conectarse Everdisk?" closed="true" %}}
 Everdisk también es un cliente para otros dispositivos de tu red. Puedes encontrar y conectarte a servidores DLNA, WebDAV, FTP y SFTP, incluidos dispositivos NAS y servidores multimedia. Una vez conectado, puedes explorar sus carpetas, transmitir audio y vídeo, descargar archivos, y crear carpetas, subir, renombrar, mover o eliminar cuando el servidor lo permita.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="¿Puedo escanear documentos y editar PDF en Everdisk?" closed="true" %}}
+{{% ls-details title="¿Puedo escanear documentos y editar PDF en Everdisk?" closed="true" %}}
 Sí. Everdisk puede escanear documentos en papel con tu cámara. Detecta los bordes por sí solo, endereza cada página y las guarda como un PDF de varias páginas limpio. También puedes abrir un PDF o una foto y anotarlo (dibujar, resaltar, añadir texto y formas, y firmar con el dedo), con los cambios guardados de vuelta en el archivo. Un conjunto completo de herramientas de PDF añade compresión, reconocimiento de texto (OCR) a un PDF con búsqueda, protección con contraseña, revisión de permisos, edición de metadatos y aplanado.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="¿Es Everdisk privado y seguro?" closed="true" %}}
+{{% ls-details title="¿Es Everdisk privado y seguro?" closed="true" %}}
 Sí. Todo se queda en tu red local y nunca toca internet, así que tus archivos nunca salen de casa. Sin cuentas y sin nube de por medio. Puedes proteger el acceso con un usuario y contraseña, de modo que los dispositivos conectados deban introducir los mismos datos antes de poder ver tus archivos, y puedes bloquear cualquier dispositivo con un solo toque. Para la mejor privacidad, activa la compartición solo mientras estás conectado a una red Wi-Fi que conoces y en la que confías.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="¿En qué dispositivos funciona Everdisk?" closed="true" %}}
+{{% ls-details title="¿En qué dispositivos funciona Everdisk?" closed="true" %}}
 Everdisk funciona en iPhone y iPad. Comparte con, y se conecta a, televisores inteligentes, reproductores multimedia, ordenadores Mac, Windows y Linux, navegadores web, otros teléfonos y tablets, unidades NAS, y cualquier servidor DLNA, WebDAV, FTP o SFTP de tu red.
-{{% /details %}}
+{{% /ls-details %}}

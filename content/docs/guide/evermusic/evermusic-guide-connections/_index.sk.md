@@ -17,7 +17,7 @@ Na obrazovke Pripojenia môžete pripojiť každý zdroj, ktorý obsahuje vašu 
 Obrazovka je rozdelená do zreteľne označených sekcií, takže sa škáluje od jedného účtu iCloud Drive až po knižnicu rozloženú naprieč viacerými cloudmi a NAS zariadeniami: Rýchly prístup v hornej časti (vaše obľúbené cloudové priečinky), Cloudové úložisko (účty, ktoré ste pridali), Lokálna sieť (zariadenia objavené cez Bonjour), Počítač (Wi-Fi Drive, iTunes File Sharing, SMB), Externé príslušenstvo (pripojené USB flash disky) a Ďalšie služby (Last.fm a podobné).
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evermusic Connections Screen" image="/docs/guide/evermusic/evermusic-guide-connections/img/connect-main.webp" >}}
+  {{< ls-card title="" subtitle="Evermusic Connections Screen" image="/docs/guide/evermusic/evermusic-guide-connections/img/connect-main.webp" >}}
 {{< /cards >}}
 
 ## Pripojiť sa ku cloudovému úložisku
@@ -29,7 +29,7 @@ Obrazovka je rozdelená do zreteľne označených sekcií, takže sa škáluje o
 - Klepnite na Hotovo.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Connect Cloud Storage Provider Picker" image="/docs/guide/evermusic/evermusic-guide-connections/img/connect-add-storage.webp" >}}
+  {{< ls-card title="" subtitle="Connect Cloud Storage Provider Picker" image="/docs/guide/evermusic/evermusic-guide-connections/img/connect-add-storage.webp" >}}
 {{< /cards >}}
 
 Ak narazíte na problémy, skontrolujte svoje internetové pripojenie a prihlasovacie údaje a uistite sa, že dvojfaktorová autentifikácia je správne nakonfigurovaná pre danú službu.  
@@ -70,7 +70,7 @@ Môžete tiež odpojiť pripojené cloudové účty v aplikácii a auth token bu
   - **Odpojiť**: ak chcete úplne prerušiť spojenie medzi aplikáciou a cloudovou službou, vyberte „Odpojiť". Majte na pamäti, že výberom tejto možnosti sa odstrá­nia všetky skladby priradené k tejto cloudovej službe z hudobnej knižnice aplikácie, ale zostanú na serveri.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Connected Cloud Storage More Actions Menu" image="/docs/guide/evermusic/evermusic-guide-connections/img/connect-storage-more-actions.webp" >}}
+  {{< ls-card title="" subtitle="Connected Cloud Storage More Actions Menu" image="/docs/guide/evermusic/evermusic-guide-connections/img/connect-storage-more-actions.webp" >}}
 {{< /cards >}}
 
 ## Pripojiť sa k počítaču alebo NAS
@@ -89,7 +89,7 @@ Ak je vaše pripojenie úspešné, uvidíte pripojené úložisko v sekcii „Cl
 Kompletný návod, ako pripojiť váš MAC alebo PC pomocou SMB, je dostupný [tu](/docs/howto/stream-your-music-from-mac-or-pc-to-iphone-using-smb/).
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="SMB Connection Settings" image="/docs/guide/evermusic/evermusic-guide-connections/img/connect-smb-settings.webp" >}}
+  {{< ls-card title="" subtitle="SMB Connection Settings" image="/docs/guide/evermusic/evermusic-guide-connections/img/connect-smb-settings.webp" >}}
 {{< /cards >}}
 
 ## Pripojiť sa k NAS pomocou WebDAV
@@ -99,7 +99,7 @@ URL by malo byť vo formáte http://server-name alebo https://server-name, ak se
 Kompletný návod, ako pripojiť NAS pomocou protokolu WebDAV, je dostupný [tu](/docs/howto/how-to-connect-nas-storage-using-webdav-and-listen-to-music-on-your-iphone-or-mac).
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="WebDAV Connection Settings" image="/docs/guide/evermusic/evermusic-guide-connections/img/connect-webdav-settings.webp" >}}
+  {{< ls-card title="" subtitle="WebDAV Connection Settings" image="/docs/guide/evermusic/evermusic-guide-connections/img/connect-webdav-settings.webp" >}}
 {{< /cards >}}
 
 ## Pripojiť sa k počítaču alebo NAS pomocou DLNA
@@ -107,7 +107,7 @@ Kompletný návod, ako pripojiť NAS pomocou protokolu WebDAV, je dostupný [tu]
 Môžete tiež zdieľať hudobnú knižnicu umiestnenú na vašom Windows PC alebo osobnom NAS pomocou protokolu DLNA a pristupovať k tejto knižnici v aplikácii ako je opísané [tu](/docs/howto/how-to-enable-dlna-media-server-on-windows-10-and-play-your-music-on-iphone). DLNA je populárny a široko používaný protokol, ale umožňuje len prehrávanie alebo sťahovanie hudby. Nemôžete nahrávať súbory ani vytvárať nové priečinky na serveri.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="DLNA Connection Settings" image="/docs/guide/evermusic/evermusic-guide-connections/img/connect-dlna-settings.webp" >}}
+  {{< ls-card title="" subtitle="DLNA Connection Settings" image="/docs/guide/evermusic/evermusic-guide-connections/img/connect-dlna-settings.webp" >}}
 {{< /cards >}}
 
 ## Dostupné zariadenia
@@ -120,7 +120,7 @@ Na nadviazanie spojenia so zariadením postupujte podľa nasledujúcich krokov:
 - Ak je to potrebné, zadajte svoje prihlasovacie údaje na dokončenie pripojenia.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Available Devices on the Local Network" image="/docs/guide/evermusic/evermusic-guide-connections/img/connect-available-devices.webp" >}}
+  {{< ls-card title="" subtitle="Available Devices on the Local Network" image="/docs/guide/evermusic/evermusic-guide-connections/img/connect-available-devices.webp" >}}
 {{< /cards >}}
 
 ## Wi-Fi Drive
@@ -146,7 +146,7 @@ Keď sa webová stránka zodpovedajúca vášmu iOS zariadeniu otvorí v prehlia
 Súbory, ktoré presúvate, sa začnú prenášať na vaše iOS zariadenie a budú prístupné v aplikácii.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Wi-Fi Drive Server Settings" image="/docs/guide/evermusic/evermusic-guide-connections/img/connect-wifidrive-settings.webp" >}}
+  {{< ls-card title="" subtitle="Wi-Fi Drive Server Settings" image="/docs/guide/evermusic/evermusic-guide-connections/img/connect-wifidrive-settings.webp" >}}
 {{< /cards >}}
 
 Podrobné pokyny o tom, ako bezdrôtovo prenášať súbory pomocou WiFi-Drive, sú dostupné [tu](/docs/howto/how-to-transfer-files-wirelessly-from-a-computer-to-an-iphone-using-wifi-drive).
@@ -162,7 +162,7 @@ iTunes File Sharing je ďalšia technológia, ktorá vám umožňuje prenášať
 Podrobné pokyny o tom, ako používať iTunes file sharing, sú dostupné [tu](/docs/howto/how-to-play-local-itunes-files-on-my-iphone/).
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="iTunes / Finder File Sharing on Mac" image="/docs/guide/evermusic/evermusic-guide-connections/img/connect-itunes-file-sharing.webp" >}}
+  {{< ls-card title="" subtitle="iTunes / Finder File Sharing on Mac" image="/docs/guide/evermusic/evermusic-guide-connections/img/connect-itunes-file-sharing.webp" >}}
 {{< /cards >}}
 
 ## Pripojiť USB flash disk
@@ -183,7 +183,7 @@ Horný panel nástrojov, umiestnený pod navigačnou lištou, ponúka niekoľko 
 - **Náhodne prehrať všetko**: Podobné ako „Prehrať všetko", táto akcia prehľadá aktuálny priečinok a jeho podpriečinky, ale zamieša súbory pred ich pridaním do frontu audio prehrávača. Je to skvelý spôsob, ako si vychutnať hudbu v náhodnom poradí pre trochu rozmanitosti.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Top Toolbar Inside a Cloud Folder" image="/docs/guide/evermusic/evermusic-guide-connections/img/connect-top-toolbar.webp" >}}
+  {{< ls-card title="" subtitle="Top Toolbar Inside a Cloud Folder" image="/docs/guide/evermusic/evermusic-guide-connections/img/connect-top-toolbar.webp" >}}
 {{< /cards >}}
 
 ## Možnosti priečinka
@@ -200,7 +200,7 @@ Tu je prehľad týchto akcií:
 - **Zobrazenie mriežky/zoznamu**: Prepínajte medzi dvoma režimami zobrazenia: tabuľkové zobrazenie a zobrazenie miniatúr. Tabuľkové zobrazenie prezentuje súbory v zozname, zatiaľ čo zobrazenie miniatúr zobrazuje vizuálne reprezentácie súborov, čo uľahčuje identifikáciu obsahu na prvý pohľad.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Current Folder More Actions Menu" image="/docs/guide/evermusic/evermusic-guide-connections/img/connect-folder-options.webp" >}}
+  {{< ls-card title="" subtitle="Current Folder More Actions Menu" image="/docs/guide/evermusic/evermusic-guide-connections/img/connect-folder-options.webp" >}}
 {{< /cards >}}
 
 ## Upraviť online súbory
@@ -212,7 +212,7 @@ Keď potrebujete spravovať viacero súborov v cloudovom úložisku v Evermusic,
 - **Vykonať rôzne akcie**: Po výbere súborov alebo priečinkov, ktoré chcete spravovať, budete mať prístup k niekoľkým akciám prispôsobeným vašim potrebám:
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Selection Mode for Online Files" image="/docs/guide/evermusic/evermusic-guide-connections/img/connect-selection-mode.webp" >}}
+  {{< ls-card title="" subtitle="Selection Mode for Online Files" image="/docs/guide/evermusic/evermusic-guide-connections/img/connect-selection-mode.webp" >}}
 {{< /cards >}}
 
 ## Akcie so súbormi
@@ -233,7 +233,7 @@ Klepnite naň pre zobrazenie zoznamu dostupných akcií:
 - **Vymazať**: Pri tejto akcii buďte opatrní, pretože trvalo odstraňuje súbor z vášho cloudového úložiska. Toto vymazanie nemožno vrátiť späť.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="More Actions Menu for a Single File" image="/docs/guide/evermusic/evermusic-guide-connections/img/connect-single-folder-more-options.webp" >}}
+  {{< ls-card title="" subtitle="More Actions Menu for a Single File" image="/docs/guide/evermusic/evermusic-guide-connections/img/connect-single-folder-more-options.webp" >}}
 {{< /cards >}}
 
 Ak zoznam akcií presahuje dostupný priestor na obrazovke, jednoducho sa posúvajte nadol v menu akcií pre prístup k ďalším možnostiam.

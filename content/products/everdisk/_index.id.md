@@ -16,15 +16,15 @@ screenshots:
   - "https://everappz.com/products/everdisk/screenshots/photo_gallery.png"
 ---
 
-{{% sr-only %}}
+{{% ls-sr-only %}}
 Everdisk adalah aplikasi drive nirkabel untuk iPhone dan iPad yang dikembangkan oleh Everappz. Aplikasi ini mengubah perangkat Anda menjadi pusat berbagi file, foto, video, dan musik ke apa pun di jaringan lokal Anda, tanpa akun, tanpa cloud, dan tanpa perlu memasang aplikasi tambahan di sisi lain. Everdisk menjalankan lima server sekaligus - DLNA untuk smart TV dan pemutar media, HTTP untuk browser web mana pun, WebDAV untuk Finder, Windows, dan Linux, SMB untuk network drive di Mac, Windows, dan Linux (dengan enkripsi SMB3 opsional), serta FTP untuk aplikasi file dan pengguna tingkat lanjut - jadi setiap perangkat terhubung dengan caranya sendiri. Anda bisa streaming foto, video, dan musik langsung ke smart TV lewat DLNA lengkap dengan thumbnail pratinjau, membagikan tautan sederhana yang bisa dibuka di browser mana pun untuk menjelajah dan mengunduh file Anda, atau memasang perangkat Anda sebagai network drive dan menyeret file ke dua arah. Anda juga bisa memasangnya lewat SMB, network drive untuk Mac, Windows, dan Linux yang muncul dengan sendirinya di bilah samping Finder pada Mac, dan mengaktifkan enkripsi SMB3 (AES) sehingga tidak ada orang lain di jaringan yang sama yang bisa membaca transfer Anda. Saat tidak ada Wi-Fi, Anda bisa menyambungkan ke Mac lewat kabel USB dan memindahkan file lebih cepat daripada Wi-Fi, bahkan di pesawat atau di jaringan yang terkunci. Everdisk juga terhubung ke server DLNA, WebDAV, FTP, SFTP, dan SMB di jaringan Anda - termasuk Mac, PC Windows, mesin Linux, dan drive NAS - untuk menjelajah, streaming, dan mengunduh file mereka. Pengelola file bawaan memungkinkan Anda menjelajah dalam tampilan daftar atau grid, membuat folder, mengganti nama, memindahkan, menyalin, zip dan unzip, serta menghapus. Anda bisa memindai dokumen kertas menjadi PDF yang rapi, membuka PDF atau foto lalu memberinya catatan dengan editor bawaan - menggambar, menyorot, menambah teks dan tanda tangan, dengan perubahan tersimpan kembali ke file - dan memakai seperangkat lengkap alat PDF untuk mengompres file, mengenali teks (OCR) menjadi PDF yang bisa dicari, menambah atau menghapus kata sandi pembuka, meninjau izin, mengedit metadata dokumen, serta meratakan anotasi dan kolom formulir. Anda juga bisa memutar audio di mini player dan menonton video layar penuh, serta membagikan seluruh koleksi foto dan musik Anda lewat jaringan dalam kualitas asli atau format yang lebih kompatibel. Semuanya tetap berada di jaringan lokal Anda dan tidak pernah menyentuh internet, dan Anda bisa melindungi akses dengan login dan kata sandi serta memblokir perangkat mana pun cukup dengan satu ketukan. Everdisk gratis diunduh di App Store dengan opsi pembelian sekali bayar Premium Lifetime.
-{{% /sr-only %}}
+{{% /ls-sr-only %}}
 
 <!-- <body class="hx:bg-transparent" style="background: radial-gradient(ellipse at 50% 80%, rgba(59,130,246,0.05), hsla(0,0%,100%,0));"> -->
 
-{{< force-dark >}}
+{{< ls-force-dark >}}
 
-{{< hextra/hero-container
+{{< ls-hero-container
   image="/products/everdisk/heroimage/hero_1600.png"
   imageWidth="800"
   imageCard="true"
@@ -33,38 +33,38 @@ Everdisk adalah aplikasi drive nirkabel untuk iPhone dan iPad yang dikembangkan 
 <div class="hx:w-full hx:text-center">
 
 <div class="hx:mt-4">
-{{< downloads-badge >}}
+{{< ls-downloads-badge >}}
 </div>
 
 <div class="hx:mt-6 hx:mb-6">
 <div class="hx:flex hx:gap-4 hx:items-center hx:justify-center">
-  {{< app-icon src="/images/app_icons/png/Everdisk_Icon-App-1024x1024.png" alt="Everdisk Icon" class="hero-headline-icon" size="80" >}}
-  {{< hextra/hero-headline >}}
+  {{< ls-app-icon src="/images/app_icons/png/Everdisk_Icon-App-1024x1024.png" alt="Everdisk Icon" class="hero-headline-icon" size="80" >}}
+  {{< ls-hero-headline >}}
   Everdisk
-  {{< /hextra/hero-headline >}}
+  {{< /ls-hero-headline >}}
 </div>
 </div>
 
 <div class="hx:mb-6">
-{{< hextra/hero-centered-subtitle >}}
+{{< ls-hero-centered-subtitle >}}
 Ubah iPhone atau iPad jadi drive nirkabel yang berbagi file dengan <strong>perangkat apa pun di jaringan Anda</strong>
-{{< /hextra/hero-centered-subtitle >}}
+{{< /ls-hero-centered-subtitle >}}
 </div>
 
 <div class="hx:mb-6">
-{{< hextra/hero-paragraph >}}
+{{< ls-hero-paragraph >}}
 • Ketuk Mulai dan bagikan lewat lima cara sekaligus: DLNA, HTTP, WebDAV, SMB, dan FTP  
 • Streaming foto, video, dan musik langsung ke smart TV lewat DLNA  
 • Pasang perangkat Anda sebagai network drive di Finder, Windows, atau Linux - dengan enkripsi SMB opsional  
 • Tidak ada Wi-Fi? Pindahkan file lewat kabel USB, lebih cepat daripada nirkabel  
-{{< /hextra/hero-paragraph >}}
+{{< /ls-hero-paragraph >}}
 </div>
 
-{{< app-store-badges products="everdisk:ios" >}}
+{{< ls-app-store-badges products="everdisk:ios" >}}
 
 </div>
 
-{{< /hextra/hero-container >}}
+{{< /ls-hero-container >}}
 
 <div class="hx:mt-6"></div>
 
@@ -72,42 +72,42 @@ Ubah iPhone atau iPad jadi drive nirkabel yang berbagi file dengan <strong>peran
 
 {{< hextra/feature-grid >}}
 
-  {{< hextra/feature-card
+  {{< ls-glass-feature-card
     title="Perangkat Anda Jadi Sebuah Drive"
     subtitle="Ketuk Mulai dan iPhone atau iPad Anda berubah jadi drive nirkabel. Everdisk menjalankan lima server sekaligus - DLNA, HTTP, WebDAV, SMB, dan FTP - jadi smart TV, komputer, browser web, dan aplikasi file masing-masing terhubung dengan caranya sendiri. Tanpa akun, tanpa cloud, dan tanpa perlu memasang apa pun di sisi lain."
     icon="server"
     style="background: radial-gradient(ellipse at 50% 80%, rgba(34,197,94,0.15), hsla(0,0%,100%,0));"
   >}}
 
-  {{< hextra/feature-card
+  {{< ls-glass-feature-card
     title="Tonton di TV Anda"
     subtitle="Streaming foto, video, dan musik langsung ke smart TV dan pemutar media lewat DLNA. Koleksi Anda muncul sendiri di TV lengkap dengan thumbnail pratinjau, jadi Anda bisa menikmatinya di layar besar tanpa kabel atau aplikasi tambahan."
     icon="desktop-computer"
     style="background: radial-gradient(ellipse at 50% 80%, rgba(234,88,12,0.15), hsla(0,0%,100%,0));"
   >}}
 
-  {{< hextra/feature-card
+  {{< ls-glass-feature-card
     title="Buka di Browser Web Mana Pun"
     subtitle="Bagikan tautan sederhana dan orang lain tinggal membukanya di browser. Mereka bisa menjelajah file Anda dalam grid atau daftar yang rapi, melihat foto di galeri layar penuh, memutar musik di pemutar bawaan, dan mengunduh apa pun - tanpa perlu memasang apa pun di sisi mereka."
     icon="globe-alt"
     style="background: radial-gradient(ellipse at 50% 80%, rgba(251,191,36,0.15), hsla(0,0%,100%,0));"
   >}}
 
-  {{< hextra/feature-card
+  {{< ls-glass-feature-card
     title="Pakai Sebagai Network Drive"
     subtitle="Sambungkan dari Finder di Mac, dari Windows, atau dari Linux lewat WebDAV, dan perangkat Anda muncul layaknya disk jaringan biasa. Seret dan lepas file ke dua arah, atau pasang lewat SMB sebagai gantinya, dengan enkripsi SMB3 (AES)."
     icon="folder"
     style="background: radial-gradient(ellipse at 50% 80%, rgba(59,130,246,0.15), hsla(0,0%,100%,0));"
   >}}
 
-  {{< hextra/feature-card
+  {{< ls-glass-feature-card
     title="Tidak Ada Wi-Fi? Pakai Kabel"
     subtitle="Sambungkan perangkat Anda ke Mac dengan kabel USB yang sama untuk mengisi daya. File mengalir langsung lewat kabel, lebih cepat daripada Wi-Fi, dan tetap bekerja di pesawat, di hotel, atau di jaringan terkunci mana pun tempat Wi-Fi diblokir."
     icon="lightning-bolt"
     style="background: radial-gradient(ellipse at 50% 80%, rgba(192,38,211,0.15), hsla(0,0%,100%,0));"
   >}}
 
-  {{< hextra/feature-card
+  {{< ls-glass-feature-card
     title="Sambungkan ke Perangkat Lain"
     subtitle="Temukan dan sambungkan ke server DLNA, WebDAV, FTP, SFTP, dan SMB di jaringan Anda - Mac, PC Windows, mesin Linux, dan drive NAS. Jelajahi folder mereka, streaming audio dan video, unduh file, serta buat folder, unggah, ganti nama, pindahkan, atau hapus saat server mengizinkan."
     icon="cloud-download"
@@ -120,9 +120,9 @@ Ubah iPhone atau iPad jadi drive nirkabel yang berbagi file dengan <strong>peran
 
 <div class="hx:mt-6"></div>
 
-{{< hextra/section-headline >}}
+{{< ls-section-headline >}}
   Desain Bersih & Sederhana
-{{< /hextra/section-headline >}}
+{{< /ls-section-headline >}}
 
 <div class="hx:mt-6"></div>
 
@@ -130,7 +130,7 @@ Ubah iPhone atau iPad jadi drive nirkabel yang berbagi file dengan <strong>peran
 
 {{< cards cols="4">}}
 
-  {{< design-feature-card 
+  {{< ls-design-feature-card 
     icon="globe-alt"
     image="/products/everdisk/screenshots/browser_access.png" 
     title="Akses Lewat Browser" 
@@ -139,7 +139,7 @@ Ubah iPhone atau iPad jadi drive nirkabel yang berbagi file dengan <strong>peran
     subtitle="Bagikan tautan dan biarkan siapa pun menjelajah, melihat pratinjau, serta mengunduh file Anda dari browser web mana pun. Tanpa perlu memasang apa pun di sisi lain." 
   >}}
 
-  {{< design-feature-card 
+  {{< ls-design-feature-card 
     icon="server"
     image="/products/everdisk/screenshots/connect_to_servers.png"  
     title="Sambungkan ke Server" 
@@ -148,7 +148,7 @@ Ubah iPhone atau iPad jadi drive nirkabel yang berbagi file dengan <strong>peran
     subtitle="Temukan dan sambungkan ke server DLNA, WebDAV, FTP, SFTP, dan SMB di jaringan Anda untuk menjelajah, streaming, dan mengunduh file mereka." 
   >}}
 
-  {{< design-feature-card 
+  {{< ls-design-feature-card 
     icon="folder"
     image="/products/everdisk/screenshots/file_manager.png"  
     title="Pengelola File" 
@@ -157,7 +157,7 @@ Ubah iPhone atau iPad jadi drive nirkabel yang berbagi file dengan <strong>peran
     subtitle="Kelola semua yang ada di perangkat Anda: jelajahi dalam daftar atau grid, buat folder, ganti nama, pindahkan, salin, zip dan unzip, serta hapus." 
   >}}
 
-  {{< design-feature-card 
+  {{< ls-design-feature-card 
     icon="play"
     image="/products/everdisk/screenshots/play_in_the_app.png"  
     title="Putar di Dalam Aplikasi" 
@@ -166,7 +166,7 @@ Ubah iPhone atau iPad jadi drive nirkabel yang berbagi file dengan <strong>peran
     subtitle="Dengarkan lagu lokal Anda atau streaming dari perangkat yang terhubung, lengkap dengan antrean mini player dan pemutaran video layar penuh." 
   >}}
 
-  {{< design-feature-card 
+  {{< ls-design-feature-card 
     icon="music-note"
     image="/products/everdisk/screenshots/share_your_library.png"  
     title="Bagikan Koleksi Anda" 
@@ -175,7 +175,7 @@ Ubah iPhone atau iPad jadi drive nirkabel yang berbagi file dengan <strong>peran
     subtitle="Aktifkan seluruh koleksi foto dan musik Anda dan setiap album serta lagu jadi tersedia lewat jaringan dalam kualitas asli." 
   >}} 
 
-  {{< design-feature-card 
+  {{< ls-design-feature-card 
     icon="photograph"
     image="/products/everdisk/screenshots/photo_gallery.png"  
     title="Galeri Foto" 
@@ -190,9 +190,9 @@ Ubah iPhone atau iPad jadi drive nirkabel yang berbagi file dengan <strong>peran
 
 <div class="hx:mt-6"></div>
 
-{{< hextra/section-headline >}}
+{{< ls-section-headline >}}
   Rangkaian Fitur Lengkap
-{{< /hextra/section-headline >}}
+{{< /ls-section-headline >}}
 
 <div class="hx:mt-6"></div>
 
@@ -200,53 +200,53 @@ Ubah iPhone atau iPad jadi drive nirkabel yang berbagi file dengan <strong>peran
 
 {{< cards >}}
 
-  {{< feature-card title="Lima Server Sekaligus" subtitle="Ketuk Mulai dan bagikan file Anda lewat lima cara sekaligus: DLNA untuk TV dan pemutar media, HTTP untuk browser web mana pun, WebDAV untuk Finder, Windows, dan Linux, SMB untuk network drive di Mac, Windows, dan Linux, serta FTP untuk aplikasi file dan pengguna tingkat lanjut." icon="wifi" >}}
+  {{< ls-feature-card title="Lima Server Sekaligus" subtitle="Ketuk Mulai dan bagikan file Anda lewat lima cara sekaligus: DLNA untuk TV dan pemutar media, HTTP untuk browser web mana pun, WebDAV untuk Finder, Windows, dan Linux, SMB untuk network drive di Mac, Windows, dan Linux, serta FTP untuk aplikasi file dan pengguna tingkat lanjut." icon="wifi" >}}
 
-  {{< feature-card title="Streaming ke Smart TV" subtitle="Kirim foto, video, dan musik langsung ke smart TV dan pemutar media lewat DLNA. Koleksi Anda muncul sendiri di TV lengkap dengan thumbnail pratinjau, siap untuk layar besar." icon="desktop-computer" >}}
+  {{< ls-feature-card title="Streaming ke Smart TV" subtitle="Kirim foto, video, dan musik langsung ke smart TV dan pemutar media lewat DLNA. Koleksi Anda muncul sendiri di TV lengkap dengan thumbnail pratinjau, siap untuk layar besar." icon="desktop-computer" >}}
 
-  {{< feature-card title="Berbagi Lewat Browser Web" subtitle="Bagikan tautan dan sisi lain tinggal membukanya di browser untuk menjelajah file Anda dalam grid atau daftar, melihat foto layar penuh, memutar musik, dan mengunduh apa pun - tanpa perlu memasang apa pun." icon="globe-alt" >}}
+  {{< ls-feature-card title="Berbagi Lewat Browser Web" subtitle="Bagikan tautan dan sisi lain tinggal membukanya di browser untuk menjelajah file Anda dalam grid atau daftar, melihat foto layar penuh, memutar musik, dan mengunduh apa pun - tanpa perlu memasang apa pun." icon="globe-alt" >}}
 
-  {{< feature-card title="Network Drive WebDAV" subtitle="Sambungkan dari Finder di Mac, dari Windows, atau dari Linux lewat WebDAV dan perangkat Anda muncul layaknya disk jaringan biasa. Seret dan lepas file ke dua arah." icon="folder" >}}
+  {{< ls-feature-card title="Network Drive WebDAV" subtitle="Sambungkan dari Finder di Mac, dari Windows, atau dari Linux lewat WebDAV dan perangkat Anda muncul layaknya disk jaringan biasa. Seret dan lepas file ke dua arah." icon="folder" >}}
 
-  {{< feature-card title="Network Drive SMB Terenkripsi" subtitle="Pasang perangkat Anda lewat SMB, network drive untuk Mac, Windows, dan Linux - di Mac muncul dengan sendirinya di bilah samping Finder. Ini satu-satunya koneksi yang bisa dienkripsi: aktifkan enkripsi SMB3 (AES) dengan login dan kata sandi untuk menjaga setiap transfer tetap privat." icon="lock-closed" >}}
+  {{< ls-feature-card title="Network Drive SMB Terenkripsi" subtitle="Pasang perangkat Anda lewat SMB, network drive untuk Mac, Windows, dan Linux - di Mac muncul dengan sendirinya di bilah samping Finder. Ini satu-satunya koneksi yang bisa dienkripsi: aktifkan enkripsi SMB3 (AES) dengan login dan kata sandi untuk menjaga setiap transfer tetap privat." icon="lock-closed" >}}
 
-  {{< feature-card title="Transfer Lewat USB" subtitle="Colokkan ke Mac dengan kabel pengisi daya Anda dan pindahkan file langsung lewat kabel, lebih cepat daripada Wi-Fi. Tetap bekerja di pesawat, di hotel, atau di jaringan terkunci mana pun." icon="lightning-bolt" >}}
+  {{< ls-feature-card title="Transfer Lewat USB" subtitle="Colokkan ke Mac dengan kabel pengisi daya Anda dan pindahkan file langsung lewat kabel, lebih cepat daripada Wi-Fi. Tetap bekerja di pesawat, di hotel, atau di jaringan terkunci mana pun." icon="lightning-bolt" >}}
 
-  {{< feature-card title="Sambungkan ke DLNA, WebDAV, FTP, SFTP & SMB" subtitle="Temukan dan sambungkan ke server serta drive NAS di jaringan Anda, jelajahi folder mereka, streaming audio dan video, unduh file, serta buat, unggah, ganti nama, pindahkan, atau hapus saat diizinkan." icon="server" >}}
+  {{< ls-feature-card title="Sambungkan ke DLNA, WebDAV, FTP, SFTP & SMB" subtitle="Temukan dan sambungkan ke server serta drive NAS di jaringan Anda, jelajahi folder mereka, streaming audio dan video, unduh file, serta buat, unggah, ganti nama, pindahkan, atau hapus saat diizinkan." icon="server" >}}
 
-  {{< feature-card title="Pengelola File Bawaan" subtitle="Pengelola file lengkap untuk semua yang ada di perangkat Anda. Jelajahi dalam daftar atau grid, buat folder, ganti nama, pindahkan, salin, dan hapus, serta sambungkan folder dari mana saja di perangkat Anda." icon="view-grid" >}}
+  {{< ls-feature-card title="Pengelola File Bawaan" subtitle="Pengelola file lengkap untuk semua yang ada di perangkat Anda. Jelajahi dalam daftar atau grid, buat folder, ganti nama, pindahkan, salin, dan hapus, serta sambungkan folder dari mana saja di perangkat Anda." icon="view-grid" >}}
 
-  {{< feature-card title="Zip & Unzip" subtitle="Kompres file dan folder jadi satu arsip untuk dibagikan atau disimpan, dan ekstrak arsip yang Anda terima langsung di perangkat Anda tanpa alat tambahan." icon="document-duplicate" >}}
+  {{< ls-feature-card title="Zip & Unzip" subtitle="Kompres file dan folder jadi satu arsip untuk dibagikan atau disimpan, dan ekstrak arsip yang Anda terima langsung di perangkat Anda tanpa alat tambahan." icon="document-duplicate" >}}
 
-  {{< feature-card title="Scan Dokumen ke PDF" subtitle="Pindai dokumen kertas dengan kamera Anda. Everdisk menemukan tepinya secara otomatis, meluruskan setiap halaman, dan menyimpannya sebagai PDF rapi, siap dibagikan atau disimpan." icon="document-text" >}}
+  {{< ls-feature-card title="Scan Dokumen ke PDF" subtitle="Pindai dokumen kertas dengan kamera Anda. Everdisk menemukan tepinya secara otomatis, meluruskan setiap halaman, dan menyimpannya sebagai PDF rapi, siap dibagikan atau disimpan." icon="document-text" >}}
 
-  {{< feature-card title="Beri Catatan & Tanda Tangani PDF" subtitle="Buka PDF atau foto lalu beri catatan langsung di aplikasi: menggambar, menyorot, menambah teks dan bentuk, serta menandatangani dengan jari Anda. Perubahan Anda tersimpan langsung kembali ke file." icon="pencil-alt" >}}
+  {{< ls-feature-card title="Beri Catatan & Tanda Tangani PDF" subtitle="Buka PDF atau foto lalu beri catatan langsung di aplikasi: menggambar, menyorot, menambah teks dan bentuk, serta menandatangani dengan jari Anda. Perubahan Anda tersimpan langsung kembali ke file." icon="pencil-alt" >}}
 
-  {{< feature-card title="Alat PDF" subtitle="Perangkat PDF lengkap yang langsung tersedia: kompres file, kenali teks (OCR) menjadi PDF yang bisa dicari, atur atau hapus kata sandi pembuka, tinjau izin, edit metadata dokumen, serta ratakan anotasi dan kolom formulir." icon="document-report" >}}
+  {{< ls-feature-card title="Alat PDF" subtitle="Perangkat PDF lengkap yang langsung tersedia: kompres file, kenali teks (OCR) menjadi PDF yang bisa dicari, atur atau hapus kata sandi pembuka, tinjau izin, edit metadata dokumen, serta ratakan anotasi dan kolom formulir." icon="document-report" >}}
 
-  {{< feature-card title="Galeri Foto" subtitle="Thumbnail pratinjau asli di TV dan di browser, plus galeri foto layar penuh dengan geser dan zoom, jadi Anda selalu melihat gambarnya, bukan ikon polos." icon="photograph" >}}
+  {{< ls-feature-card title="Galeri Foto" subtitle="Thumbnail pratinjau asli di TV dan di browser, plus galeri foto layar penuh dengan geser dan zoom, jadi Anda selalu melihat gambarnya, bukan ikon polos." icon="photograph" >}}
 
-  {{< feature-card title="Mini Player Audio" subtitle="Nikmati audio di mini player dengan antrean, acak, ulang, dan kontrol layar kunci. Koleksi Foto dan Musik Anda diputar langsung di sini, di dalam aplikasi." icon="music-note" >}}
+  {{< ls-feature-card title="Mini Player Audio" subtitle="Nikmati audio di mini player dengan antrean, acak, ulang, dan kontrol layar kunci. Koleksi Foto dan Musik Anda diputar langsung di sini, di dalam aplikasi." icon="music-note" >}}
 
-  {{< feature-card title="Video Layar Penuh" subtitle="Tonton video Anda dengan layar penuh, diputar dari file lokal atau di-streaming langsung dari perangkat yang terhubung, dengan kontrol pemutaran yang sederhana dan familier." icon="film" >}}
+  {{< ls-feature-card title="Video Layar Penuh" subtitle="Tonton video Anda dengan layar penuh, diputar dari file lokal atau di-streaming langsung dari perangkat yang terhubung, dengan kontrol pemutaran yang sederhana dan familier." icon="film" >}}
 
-  {{< feature-card title="Bagikan Seluruh Koleksi Anda" subtitle="Aktifkan seluruh koleksi foto dan musik Anda dan setiap album serta lagu jadi tersedia lewat jaringan dalam kualitas asli, atau dikonversi agar kompatibel." icon="share" >}}
+  {{< ls-feature-card title="Bagikan Seluruh Koleksi Anda" subtitle="Aktifkan seluruh koleksi foto dan musik Anda dan setiap album serta lagu jadi tersedia lewat jaringan dalam kualitas asli, atau dikonversi agar kompatibel." icon="share" >}}
 
-  {{< feature-card title="Kirim File Kembali" subtitle="Berfungsi dua arah. Unggah foto dan dokumen dari komputer mana pun langsung ke perangkat Anda, dan tambahkan seluruh folder juga, semua lewat koneksi yang sama." icon="upload" >}}
+  {{< ls-feature-card title="Kirim File Kembali" subtitle="Berfungsi dua arah. Unggah foto dan dokumen dari komputer mana pun langsung ke perangkat Anda, dan tambahkan seluruh folder juga, semua lewat koneksi yang sama." icon="upload" >}}
 
-  {{< feature-card title="Proteksi Kata Sandi" subtitle="Lindungi konten yang Anda bagikan dari akses tak sah dengan login dan kata sandi, jadi perangkat yang terhubung harus memasukkan detail yang sama sebelum bisa melihat file Anda." icon="lock-closed" >}}
+  {{< ls-feature-card title="Proteksi Kata Sandi" subtitle="Lindungi konten yang Anda bagikan dari akses tak sah dengan login dan kata sandi, jadi perangkat yang terhubung harus memasukkan detail yang sama sebelum bisa melihat file Anda." icon="lock-closed" >}}
 
-  {{< feature-card title="Blokir Perangkat Mana Pun" subtitle="Tetap kendalikan siapa yang terhubung. Blokir perangkat mana pun di jaringan Anda cukup dengan satu ketukan agar tidak bisa lagi menjangkau konten yang Anda bagikan." icon="shield-check" >}}
+  {{< ls-feature-card title="Blokir Perangkat Mana Pun" subtitle="Tetap kendalikan siapa yang terhubung. Blokir perangkat mana pun di jaringan Anda cukup dengan satu ketukan agar tidak bisa lagi menjangkau konten yang Anda bagikan." icon="shield-check" >}}
 
-  {{< feature-card title="Privat & Hanya Lokal" subtitle="Semuanya tetap berada di jaringan lokal Anda dan tidak pernah menyentuh internet. File Anda tidak pernah keluar rumah, dan tidak ada akun maupun cloud di tengahnya." icon="eye" >}}
+  {{< ls-feature-card title="Privat & Hanya Lokal" subtitle="Semuanya tetap berada di jaringan lokal Anda dan tidak pernah menyentuh internet. File Anda tidak pernah keluar rumah, dan tidak ada akun maupun cloud di tengahnya." icon="eye" >}}
 
-  {{< feature-card title="Asli atau Dikonversi" subtitle="Simpan foto dan video Anda dalam kualitas asli, atau konversikan ke format yang lebih kompatibel saat TV, browser, atau perangkat lain membutuhkannya." icon="switch-horizontal" >}}
+  {{< ls-feature-card title="Asli atau Dikonversi" subtitle="Simpan foto dan video Anda dalam kualitas asli, atau konversikan ke format yang lebih kompatibel saat TV, browser, atau perangkat lain membutuhkannya." icon="switch-horizontal" >}}
 
-  {{< feature-card title="Sambungkan Folder Eksternal" subtitle="Sambungkan folder dari mana saja di perangkat Anda dan kerjakan langsung di aplikasi, lalu bagikan lewat jaringan bersama semua yang lain." icon="collection" >}}
+  {{< ls-feature-card title="Sambungkan Folder Eksternal" subtitle="Sambungkan folder dari mana saja di perangkat Anda dan kerjakan langsung di aplikasi, lalu bagikan lewat jaringan bersama semua yang lain." icon="collection" >}}
 
-  {{< feature-card title="Transfer Latar Belakang" subtitle="Unduhan dan unggahan tetap berjalan sementara Anda berpindah-pindah di dalam aplikasi. Buka panel Transfer Berkas untuk memantau progres dan menjeda, melanjutkan, mencoba ulang, atau membatalkan tugas apa pun." icon="download" >}}
+  {{< ls-feature-card title="Transfer Latar Belakang" subtitle="Unduhan dan unggahan tetap berjalan sementara Anda berpindah-pindah di dalam aplikasi. Buka panel Transfer Berkas untuk memantau progres dan menjeda, melanjutkan, mencoba ulang, atau membatalkan tugas apa pun." icon="download" >}}
 
-  {{< feature-card title="Hapus Aman dengan Tempat Sampah" subtitle="File yang dihapus masuk ke tempat sampah yang bisa dipulihkan, jadi Anda bisa mengembalikannya jika berubah pikiran. Ingin file benar-benar hilang? Aktifkan Hapus File Secara Permanen di Pengaturan." icon="trash" >}}
+  {{< ls-feature-card title="Hapus Aman dengan Tempat Sampah" subtitle="File yang dihapus masuk ke tempat sampah yang bisa dipulihkan, jadi Anda bisa mengembalikannya jika berubah pikiran. Ingin file benar-benar hilang? Aktifkan Hapus File Secara Permanen di Pengaturan." icon="trash" >}}
 
 {{< /cards >}}
 
@@ -259,55 +259,55 @@ Ubah iPhone atau iPad jadi drive nirkabel yang berbagi file dengan <strong>peran
 <div class="hx:mt-6"></div>
 
 <div class="hx:w-full">
-{{< appstore-reviews apps="6751851132" stars="5,4"  app="Everdisk" >}}
+{{< ls-appstore-reviews apps="6751851132" stars="5,4"  app="Everdisk" >}}
 </div>
 
 <div class="hx:mt-6"></div>
 -->
 
-{{< hextra/section-headline >}}
+{{< ls-section-headline >}}
   Paket Harga
-{{< /hextra/section-headline >}}
+{{< /ls-section-headline >}}
 
 <div class="hx:mt-6"></div>
 
 <div class="hx:w-full">
-{{< pricing-plans >}}
+{{< ls-pricing-plans >}}
 
 </div>
 
 <div class="hx:mt-6"></div>
 
 <div class="hx:w-full hx:mx-auto hx:flex hx:flex-col hx:items-center">
-  {{< hextra/info-paragraph border="true" >}}
+  {{< ls-info-paragraph border="true" >}}
    <strong>Harga</strong>: Harga ditampilkan dalam dolar AS untuk Amerika Serikat. Harga akhir dapat berbeda tergantung wilayah Anda.  
-  {{< /hextra/info-paragraph >}}
+  {{< /ls-info-paragraph >}}
 </div>
 
 <div class="hx:mt-6"></div>
 
 <div class="hx:w-full">
-{{< app-details heading="true" >}}
+{{< ls-app-details heading="true" >}}
 </div>
 
 <div class="hx:mt-6"></div>
 
-{{< hextra/section-headline >}}
+{{< ls-section-headline >}}
   Pertanyaan yang Sering Diajukan
-{{< /hextra/section-headline >}}
+{{< /ls-section-headline >}}
 
 <div class="hx:mt-6"></div>
 
 <div class="hx:w-full">
-{{% details title="Apa itu Everdisk?" closed="true" %}}
+{{% ls-details title="Apa itu Everdisk?" closed="true" %}}
 Everdisk mengubah iPhone atau iPad Anda jadi drive nirkabel sekaligus pusat yang juga terhubung ke perangkat Anda yang lain.<br>
 Anda bisa membagikan file, foto, video, dan musik ke apa pun di jaringan Anda, menjelajah dan streaming dari server lain, serta mengelola semuanya langsung di perangkat Anda.<br>
 Tanpa akun, tanpa cloud, dan tanpa perlu memasang aplikasi tambahan di sisi lain - Anda tinggal ketuk Mulai dan siap.<br><br>
 
 Aplikasi ini menjalankan lima server sekaligus, jadi setiap perangkat terhubung dengan caranya sendiri: smart TV lewat DLNA, komputer dan browser web lewat HTTP, Finder, Windows, dan Linux lewat WebDAV, network drive lewat SMB (dengan enkripsi opsional), serta aplikasi file lewat FTP.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Bagaimana cara kerja Everdisk?" closed="true" %}}
+{{% ls-details title="Bagaimana cara kerja Everdisk?" closed="true" %}}
 Saat Anda mengetuk Mulai, Everdisk mulai membagikan konten yang Anda pilih dan menjalankan lima server sekaligus agar berbagai perangkat bisa terhubung dengan cara yang mereka sukai.<br><br>
 
 - <strong>DLNA</strong> membuat smart TV dan pemutar media menemukan foto, video, dan musik Anda secara otomatis lalu menampilkannya dengan thumbnail pratinjau.<br>
@@ -317,15 +317,15 @@ Saat Anda mengetuk Mulai, Everdisk mulai membagikan konten yang Anda pilih dan m
 - <strong>FTP</strong> bekerja dengan aplikasi file dan pengguna tingkat lanjut.<br><br>
 
 Everdisk juga terhubung ke arah sebaliknya, ke server DLNA, WebDAV, FTP, SFTP, dan SMB di jaringan Anda - termasuk Mac, PC Windows, mesin Linux, dan drive NAS - jadi Anda bisa menjelajah folder mereka, streaming audio dan video, serta mengunduh atau mengelola file saat server mengizinkan. Semuanya tetap berada di jaringan lokal Anda dan tidak pernah menyentuh internet.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Apakah Everdisk gratis?" closed="true" %}}
+{{% ls-details title="Apakah Everdisk gratis?" closed="true" %}}
 Ya. Everdisk gratis diunduh dan Anda bisa mengubah perangkat Anda jadi drive nirkabel, membagikan file lewat lima cara, menyambung ke server lain, serta memakai pengelola file bawaan tanpa biaya.<br><br>
 
 Ada opsi pembelian sekali bayar <strong>Premium Lifetime</strong> - satu kali pembayaran tanpa langganan - yang membuka folder berbagi dan koneksi tersimpan tanpa batas, konversi foto &amp; video, enkripsi SMB3 (AES), port kustom, mulai berbagi otomatis, serta kustomisasi perangkat. Pembelian ini terikat pada Apple ID Anda, jadi Anda bisa memakai Pulihkan Pembelian untuk membukanya di perangkat Anda yang lain. Harga dapat berbeda tergantung negara atau wilayah Anda.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Bagaimana cara menyambung dari komputer saya?" closed="true" %}}
+{{% ls-details title="Bagaimana cara menyambung dari komputer saya?" closed="true" %}}
 Everdisk membuat perangkat Anda muncul sebagai network drive biasa lewat WebDAV.<br><br>
 
 - Di <strong>Mac</strong>, buka Finder, pilih <em>Go → Connect to Server</em>, lalu masukkan alamat WebDAV yang ditampilkan di aplikasi.<br>
@@ -333,39 +333,39 @@ Everdisk membuat perangkat Anda muncul sebagai network drive biasa lewat WebDAV.
 - Di <strong>Linux</strong>, sambungkan ke alamat WebDAV dari pengelola file Anda.<br><br>
 
 Setelah terhubung, Anda bisa menyeret dan melepas ke dua arah: salin file dari komputer ke perangkat Anda, atau tarik kembali. Anda juga bisa membuka tautan HTTP di browser web mana pun jika lebih suka tidak memasang drive.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Bisakah saya memakai SMB dan mengenkripsi koneksinya?" closed="true" %}}
+{{% ls-details title="Bisakah saya memakai SMB dan mengenkripsi koneksinya?" closed="true" %}}
 Ya. Selain WebDAV, Everdisk berbagi lewat <strong>SMB</strong> - network drive untuk Mac, Windows, dan Linux (ditampilkan di aplikasi sebagai koneksi <strong>Komputer (Lanjutan)</strong>). Di Mac muncul dengan sendirinya di bilah samping Finder di bawah Locations; di Windows, buka lewat File Explorer menggunakan alamat <code>smb://</code> yang ditampilkan di aplikasi.<br><br>
 
 SMB juga satu-satunya koneksi yang bisa Anda <strong>enkripsi</strong>. Atur login dan kata sandi, lalu aktifkan <strong>Wajibkan enkripsi SMB</strong> di Pengaturan untuk melindungi setiap transfer dengan <strong>enkripsi SMB3 (AES)</strong>, sehingga tidak ada orang lain di jaringan yang sama yang bisa membaca file Anda. Koneksi terenkripsi tidak bisa anonim, jadi login dan kata sandi diperlukan, dan Anda memerlukan klien yang mendukung SMB3 - Finder di Mac modern, atau Windows 10 dan yang lebih baru.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Bagaimana cara streaming ke TV saya?" closed="true" %}}
+{{% ls-details title="Bagaimana cara streaming ke TV saya?" closed="true" %}}
 Pastikan TV atau pemutar media Anda dan perangkat Anda berada di jaringan Wi-Fi yang sama, lalu ketuk Mulai di Everdisk dengan foto, video, atau musik Anda dibagikan.<br><br>
 
 Perangkat Anda akan muncul sendiri di daftar media server pada TV, lengkap dengan thumbnail pratinjau. Buka di TV dan nikmati koleksi Anda di layar besar - tanpa kabel dan tanpa aplikasi tambahan.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Bagaimana cara membuka file saya di browser web?" closed="true" %}}
+{{% ls-details title="Bagaimana cara membuka file saya di browser web?" closed="true" %}}
 Ketuk Mulai dan Everdisk memberi Anda alamat web sederhana untuk server HTTP.<br><br>
 
 Bagikan tautan itu ke siapa pun di jaringan yang sama. Mereka membukanya di browser web mana pun untuk menjelajah file Anda dalam grid atau daftar yang rapi, melihat foto di galeri layar penuh, memutar musik di pemutar bawaan, dan mengunduh apa pun. Tidak ada yang perlu dipasang di sisi mereka, jadi ini cara tercepat untuk mengoper file ke ponsel atau komputer lain.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Apakah Everdisk bisa dipakai tanpa Wi-Fi?" closed="true" %}}
+{{% ls-details title="Apakah Everdisk bisa dipakai tanpa Wi-Fi?" closed="true" %}}
 Ya. Sambungkan perangkat Anda ke Mac dengan kabel USB yang sama untuk mengisi daya, dan file mengalir langsung lewat kabel, lebih cepat daripada Wi-Fi.<br><br>
 
 Karena tidak bergantung pada jaringan nirkabel, cara ini tetap bekerja di pesawat, di hotel, atau di jaringan terkunci maupun publik mana pun tempat berbagi Wi-Fi diblokir.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Apa saja yang bisa saya sambungkan dengan Everdisk?" closed="true" %}}
+{{% ls-details title="Apa saja yang bisa saya sambungkan dengan Everdisk?" closed="true" %}}
 Everdisk juga jadi klien untuk perangkat lain di jaringan Anda. Anda bisa menemukan dan menyambung ke server <strong>DLNA</strong>, <strong>WebDAV</strong>, <strong>FTP</strong>, <strong>SFTP</strong>, dan <strong>SMB</strong>, termasuk Mac, PC Windows, mesin Linux, perangkat NAS, dan media server.<br><br>
 
 Setelah terhubung, Anda bisa menjelajah folder mereka, streaming audio dan video, mengunduh file, serta membuat folder, mengunggah, mengganti nama, memindahkan, atau menghapus saat server mengizinkan.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Bisakah saya scan dokumen dan mengerjakan PDF?" closed="true" %}}
+{{% ls-details title="Bisakah saya scan dokumen dan mengerjakan PDF?" closed="true" %}}
 Ya. Everdisk bisa memindai dokumen kertas dengan kamera Anda - menemukan tepinya secara otomatis, meluruskan setiap halaman, dan menyimpannya sebagai PDF multi-halaman yang rapi langsung di perangkat Anda.<br><br>
 
 Anda juga bisa membuka PDF (atau foto) dan <strong>memberinya catatan</strong> langsung di penampil bawaan - menggambar, menyorot, menambah teks dan bentuk, serta menambahkan tanda tangan dengan jari Anda - dan perubahan Anda tersimpan kembali ke file.<br><br>
@@ -377,74 +377,74 @@ Selain itu, Everdisk menyertakan seperangkat lengkap <strong>Alat PDF</strong>, 
 • <strong>Izin</strong> - tinjau apa yang diizinkan PDF (mencetak, menyalin, dan lainnya).<br>
 • <strong>Edit Metadata</strong> - ubah atau kosongkan judul, penulis, kata kunci, dan info dokumen lainnya.<br>
 • <strong>Ratakan</strong> - satukan anotasi dan entri formulir ke halaman agar tidak bisa diubah.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Apakah Everdisk privat dan aman?" closed="true" %}}
+{{% ls-details title="Apakah Everdisk privat dan aman?" closed="true" %}}
 Semuanya tetap berada di jaringan lokal Anda dan tidak pernah menyentuh internet, jadi file Anda tidak pernah keluar rumah. Tidak ada akun dan tidak ada cloud di tengahnya.<br><br>
 
 Anda bisa melindungi akses dengan login dan kata sandi agar perangkat yang terhubung harus memasukkan detail yang sama sebelum bisa melihat file Anda, dan Anda bisa memblokir perangkat mana pun di jaringan Anda cukup dengan satu ketukan. Untuk privasi terbaik, aktifkan berbagi hanya saat Anda terhubung ke jaringan Wi-Fi yang Anda kenal dan percaya.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Apa saja yang bisa saya lakukan dengan pengelola file?" closed="true" %}}
+{{% ls-details title="Apa saja yang bisa saya lakukan dengan pengelola file?" closed="true" %}}
 Everdisk menyertakan pengelola file lengkap untuk semua yang ada di perangkat Anda.<br><br>
 
 Anda bisa menjelajah dalam daftar atau grid, membuat folder, mengganti nama, memindahkan, menyalin, zip dan unzip, serta menghapus. Anda juga bisa menyambungkan folder dari mana saja di perangkat Anda dan mengerjakannya langsung di aplikasi, lalu membagikannya lewat jaringan bersama semua yang lain.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Bisakah saya memutar musik di dalam aplikasi?" closed="true" %}}
+{{% ls-details title="Bisakah saya memutar musik di dalam aplikasi?" closed="true" %}}
 Ya. Ketuk file audio mana pun dan lagu itu diputar di mini player yang tetap berada di bagian bawah layar sementara Anda terus menjelajah.<br><br>
 
 Mini player punya antrean lengkap dengan acak dan ulang (mati, semua, atau satu), serta kontrol layar kunci dan tombol media yang menampilkan judul, artis, dan album yang sebenarnya. Ketuk atau geser ke atas untuk membuka pemutar penuh, dan geser ke bawah untuk mengecilkannya sementara audio tetap diputar. Mengetuk satu lagu di sebuah folder akan memutar seluruh folder sebagai antrean.<br><br>
 
 Audio diputar dari file lokal Anda, folder yang terhubung, koleksi Musik Anda, dan server yang Anda sambungkan di tab Perangkat.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Bisakah saya menonton video di aplikasi?" closed="true" %}}
+{{% ls-details title="Bisakah saya menonton video di aplikasi?" closed="true" %}}
 Ya. Ketuk video untuk memutarnya layar penuh. Everdisk memakai pemutar video sistem bawaan, jadi Anda mendapatkan kontrol yang familier, termasuk AirPlay, Picture in Picture, dan kecepatan pemutaran.<br><br>
 
 Video diputar dari file lokal Anda dan folder yang terhubung, atau di-streaming langsung dari perangkat yang Anda sambungkan di tab Perangkat, jadi Anda tidak perlu mengunduh seluruh file terlebih dahulu.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Bagaimana cara melihat foto saya?" closed="true" %}}
+{{% ls-details title="Bagaimana cara melihat foto saya?" closed="true" %}}
 Buka tab Dokumen dan beralih ke mode Foto untuk menjelajah foto dan video Anda. Ketuk foto untuk membukanya layar penuh, tempat Anda bisa zoom, menggeser antarfoto, dan membagikan.<br><br>
 
 Foto Anda juga menampilkan thumbnail pratinjau asli di TV lewat DLNA dan di browser web, tempat foto dibuka di galeri layar penuh dengan geser, cubit untuk zoom, dan tayangan slide. Foto dan video yang punya data lokasi menampilkan peta dengan penanda di layar Info-nya.
-{{% /details %}}
+{{% /ls-details %}}
 
 </div>
 
 <div class="hx:mt-6"></div>
 
-{{< hextra/section-headline >}}
+{{< ls-section-headline >}}
   Panduan Pengguna
-{{< /hextra/section-headline >}}
+{{< /ls-section-headline >}}
 
 <div class="hx:mt-6"></div>
 
 <div class="hx:w-full">
 
 <div class="hx:w-full hx:mx-auto hx:flex hx:flex-col hx:items-center hx:text-center">
-  {{< hextra/info-paragraph border="false" >}}
+  {{< ls-info-paragraph border="false" >}}
   Panduan ini akan membantu Anda memaksimalkan Everdisk di iPhone dan iPad Anda. Pelajari cara mengubah perangkat Anda jadi drive nirkabel, menyambungkan TV, komputer atau browser, menjangkau server Anda sendiri, mengelola dan memutar file Anda, serta menjaga semuanya tetap privat di jaringan lokal Anda.
-  {{< /hextra/info-paragraph >}}
+  {{< /ls-info-paragraph >}}
 </div>
 
 {{< cards >}}
-  {{< feature-card icon="play" title="Berbagi" subtitle="Ketuk Mulai, pilih apa yang mau dibagikan, dan jalankan kelima server sekaligus." link="/docs/guide/everdisk/everdisk-guide-sharing" >}}
+  {{< ls-feature-card icon="play" title="Berbagi" subtitle="Ketuk Mulai, pilih apa yang mau dibagikan, dan jalankan kelima server sekaligus." link="/docs/guide/everdisk/everdisk-guide-sharing" >}}
 
-  {{< feature-card icon="desktop-computer" title="Sambungkan Perangkat Anda" subtitle="Cara TV, Mac atau PC, browser, ponsel lain, atau kabel USB terhubung ke file Anda." link="/docs/guide/everdisk/everdisk-guide-connect" >}}
+  {{< ls-feature-card icon="desktop-computer" title="Sambungkan Perangkat Anda" subtitle="Cara TV, Mac atau PC, browser, ponsel lain, atau kabel USB terhubung ke file Anda." link="/docs/guide/everdisk/everdisk-guide-connect" >}}
 
-  {{< feature-card icon="server" title="Sambungkan ke Server" subtitle="Jangkau server DLNA, WebDAV, FTP, SFTP, dan SMB serta drive NAS untuk menjelajah, streaming, dan mengunduh." link="/docs/guide/everdisk/everdisk-guide-devices" >}}
+  {{< ls-feature-card icon="server" title="Sambungkan ke Server" subtitle="Jangkau server DLNA, WebDAV, FTP, SFTP, dan SMB serta drive NAS untuk menjelajah, streaming, dan mengunduh." link="/docs/guide/everdisk/everdisk-guide-devices" >}}
 
-  {{< feature-card icon="folder" title="File & Dokumen" subtitle="Jelajahi, atur, zip dan unzip, sambungkan folder eksternal, dan scan dokumen ke PDF." link="/docs/guide/everdisk/everdisk-guide-files" >}}
+  {{< ls-feature-card icon="folder" title="File & Dokumen" subtitle="Jelajahi, atur, zip dan unzip, sambungkan folder eksternal, dan scan dokumen ke PDF." link="/docs/guide/everdisk/everdisk-guide-files" >}}
 
-  {{< feature-card icon="music-note" title="Foto, Musik & Video" subtitle="Bagikan seluruh koleksi Anda, putar audio di mini player, dan tonton video layar penuh." link="/docs/guide/everdisk/everdisk-guide-media" >}}
+  {{< ls-feature-card icon="music-note" title="Foto, Musik & Video" subtitle="Bagikan seluruh koleksi Anda, putar audio di mini player, dan tonton video layar penuh." link="/docs/guide/everdisk/everdisk-guide-media" >}}
 
-  {{< feature-card icon="lock-closed" title="Akses & Privasi" subtitle="Tambahkan kata sandi, kendalikan penyuntingan, blokir perangkat, dan jaga semuanya di jaringan Anda." link="/docs/guide/everdisk/everdisk-guide-access" >}}
+  {{< ls-feature-card icon="lock-closed" title="Akses & Privasi" subtitle="Tambahkan kata sandi, kendalikan penyuntingan, blokir perangkat, dan jaga semuanya di jaringan Anda." link="/docs/guide/everdisk/everdisk-guide-access" >}}
 
-  {{< feature-card icon="adjustments" title="Pengaturan" subtitle="Setiap pengaturan dijelaskan, dari profil perangkat dan port hingga kualitas dan transfer." link="/docs/guide/everdisk/everdisk-guide-settings" >}}
+  {{< ls-feature-card icon="adjustments" title="Pengaturan" subtitle="Setiap pengaturan dijelaskan, dari profil perangkat dan port hingga kualitas dan transfer." link="/docs/guide/everdisk/everdisk-guide-settings" >}}
 
-  {{< feature-card icon="question-mark-circle" title="FAQ" subtitle="Jawaban cepat untuk pertanyaan umum dan skenario dunia nyata." link="/docs/faq/everdisk" >}}
+  {{< ls-feature-card icon="question-mark-circle" title="FAQ" subtitle="Jawaban cepat untuk pertanyaan umum dan skenario dunia nyata." link="/docs/faq/everdisk" >}}
 
 {{< /cards >}}
 

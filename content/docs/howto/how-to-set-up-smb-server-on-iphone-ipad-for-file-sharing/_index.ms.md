@@ -7,7 +7,7 @@ keywords: ["pelayan SMB iPhone", "pelayan SMB iPad", "cara menyediakan SMB pada 
 readingTime: 10
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 SMB ialah perkongsian fail yang terbina dalam macOS, Windows dan Linux, serta dalam hampir setiap pemacu rangkaian (NAS). Apabila anda menyambung ke folder kongsi pada komputer lain dan ia terbuka seperti cakera biasa dalam Finder atau File Explorer, itulah SMB yang bekerja. Dengan [Everdisk](/products/everdisk) anda boleh meletakkan perkongsian SMB pada iPhone atau iPad anda, jadi telefon itu sendiri muncul sebagai pemacu rangkaian yang boleh dilayari, disalin daripadanya, dan disalin kepadanya oleh peranti lain.
 
@@ -136,44 +136,44 @@ Suis **Penyuntingan Fail** dalam Tetapan, Perkongsian, Akses mengawal ini untuk 
 
 ## Soalan Lazim
 
-{{% details title="Apakah alamat dan port SMB untuk iPhone saya?" closed="true" %}}
+{{% ls-details title="Apakah alamat dan port SMB untuk iPhone saya?" closed="true" %}}
 Selepas anda mula berkongsi, Everdisk menunjukkan alamat pada skrin Perkongsian. Ia kelihatan seperti smb://192.168.1.20:4455/Share. 4455 ialah port yang Everdisk gunakan untuk SMB, dan Share ialah nama folder kongsi. Bahagian pertama ialah alamat iPhone anda pada Wi-Fi, jadi milik anda akan berbeza.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Boleh saya sambung ke perkongsian SMB iPhone saya daripada Windows?" closed="true" %}}
+{{% ls-details title="Boleh saya sambung ke perkongsian SMB iPhone saya daripada Windows?" closed="true" %}}
 Windows File Explorer hanya menyambung ke SMB pada port piawai dan tidak menerima port tersuai dalam laluan, manakala Everdisk menggunakan port 4455. Jadi laluan Map network drive biasa selalunya tidak akan sampai kepadanya. Gunakan pengurus fail yang membenarkan anda menetapkan port tersuai, atau sambung daripada Windows dengan WebDAV, FTP atau pautan pelayar sebagai ganti. Semua itu berfungsi daripada Windows tanpa masalah port.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Bagaimana saya kongsi fail antara dua iPhone dengan SMB?" closed="true" %}}
+{{% ls-details title="Bagaimana saya kongsi fail antara dua iPhone dengan SMB?" closed="true" %}}
 Mula pelayan SMB pada iPhone pertama dalam Everdisk. Pada iPhone kedua, buka aplikasi Files, ketik butang more, pilih Connect to Server, dan masukkan alamat smb yang ditunjukkan dalam Everdisk (contohnya smb://192.168.1.20:4455/Share). Sambung sebagai Guest atau dengan log masuk anda, dan perkongsian muncul dalam Files. Anda juga boleh menggunakan tab Peranti milik Everdisk pada telefon kedua.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Adakah iPhone saya muncul dalam bar sisi Mac Finder secara automatik?" closed="true" %}}
+{{% ls-details title="Adakah iPhone saya muncul dalam bar sisi Mac Finder secara automatik?" closed="true" %}}
 Biasanya ya. Everdisk mengumumkan perkongsian SMB pada Wi-Fi anda, jadi iPhone anda selalunya muncul di bawah Locations atau Network dalam bar sisi Finder. Klik padanya dan pilih Connect As, kemudian Guest atau log masuk anda. Jika ia tidak muncul, sambung secara manual dengan Go, Connect to Server dan alamat smb penuh.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Perlukah saya kata laluan untuk menggunakan SMB?" closed="true" %}}
+{{% ls-details title="Perlukah saya kata laluan untuk menggunakan SMB?" closed="true" %}}
 Tidak, log masuk adalah pilihan. Biarkan Log Masuk dan Kata Laluan kosong dalam Tetapan, Perkongsian, Akses untuk membenarkan akses tetamu. Tetapkannya jika anda mahu sambungan log masuk. Log masuk dan kata laluan diperlukan hanya jika anda menghidupkan Wajibkan penyulitan SMB, kerana sambungan yang disulitkan tidak boleh tanpa nama.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Adakah sambungan SMB disulitkan?" closed="true" %}}
+{{% ls-details title="Adakah sambungan SMB disulitkan?" closed="true" %}}
 Ia boleh. SMB ialah satu-satunya sambungan Everdisk yang menyokong penyulitan. Tetapkan log masuk dan kata laluan, kemudian hidupkan Wajibkan penyulitan SMB dalam Tetapan, Perkongsian. Setiap pemindahan kemudian dilindungi dengan SMB3 (AES). Peranti yang lain perlu menyokong SMB3, iaitu yang dilakukan oleh Mac moden dan Windows 10 atau lebih baharu. Penyulitan ialah ciri Premium.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Boleh orang mengubah atau memadam fail saya melalui SMB?" closed="true" %}}
+{{% ls-details title="Boleh orang mengubah atau memadam fail saya melalui SMB?" closed="true" %}}
 Hanya jika anda membenarkannya. Suis Penyuntingan Fail dalam Tetapan, Perkongsian, Akses mengawal ini. Dengan ia dihidupkan, peranti yang disambung boleh memuat naik, menamakan semula dan memadam. Dengan ia dimatikan, perkongsian adalah baca sahaja dan orang lain boleh melayari dan menyalin fail keluar dari telefon anda tetapi tidak boleh mengubah apa-apa.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Mengapa sambungan SMB saya terputus?" closed="true" %}}
+{{% ls-details title="Mengapa sambungan SMB saya terputus?" closed="true" %}}
 iPhone anda ialah pelayan, dan iOS menjeda aplikasi yang berada di latar belakang terlalu lama. Kekalkan Everdisk terbuka pada skrin semasa peranti disambung, dan palamkan telefon ke sumber kuasa semasa pemindahan yang panjang. Pastikan juga kedua-dua peranti kekal pada Wi-Fi yang sama.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="SMB, WebDAV atau FTP, yang mana patut saya gunakan?" closed="true" %}}
+{{% ls-details title="SMB, WebDAV atau FTP, yang mana patut saya gunakan?" closed="true" %}}
 Gunakan SMB apabila anda mahu telefon berkelakuan seperti pemacu rangkaian sebenar pada Mac, iPhone lain, Linux atau NAS, dan apabila anda mahukan penyulitan. Gunakan WebDAV apabila anda mahu pemacu rangkaian yang turut berfungsi dengan baik dari Windows. Gunakan FTP untuk keserasian paling luas dengan peranti dan aplikasi lama. Everdisk boleh menjalankan kesemuanya serentak, jadi anda tidak terkurung dengan satu sahaja.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Adakah Everdisk percuma?" closed="true" %}}
+{{% ls-details title="Adakah Everdisk percuma?" closed="true" %}}
 Ya, Everdisk percuma untuk dimuat turun dan pelayan SMB disertakan. Pembelian Premium sekali sahaja pilihan menambah penyulitan SMB, port tersuai dan beberapa tambahan lain. Anda boleh menyediakan SMB dan berkongsi fail tanpa membayar.
-{{% /details %}}
+{{% /ls-details %}}
 
 Sedia untuk mencuba? [Muat turun Everdisk dari App Store](https://apps.apple.com/app/apple-store/id6751851132?pt=95781850&ct=everappzcom&mt=8) dan buka iPhone anda dalam Finder dalam masa kira-kira seminit. Ada soalan atau maklum balas? E-mel kami di **support@everappz.com**.

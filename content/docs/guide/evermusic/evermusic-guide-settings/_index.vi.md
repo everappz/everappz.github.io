@@ -18,7 +18,7 @@ readingTime: 16
 Màn hình Cài đặt là trung tâm điều khiển của Evermusic. Từ đây bạn có thể nâng cấp lên Premium, cấu hình trình phát âm thanh, quản lý thư viện nhạc, thiết lập trình quản lý tệp, tùy chỉnh giao diện, bật widget và CarPlay, sao lưu dữ liệu và truy cập thông tin trợ giúp và pháp lý. Các phần được nhóm theo tiêu đề: **Mua hàng & cập nhật**, tùy chọn ứng dụng, **Trợ giúp** và **Pháp lý & quyền riêng tư**.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Màn hình Cài đặt Evermusic" image="/docs/guide/evermusic/evermusic-guide-settings/img/settings-main-screen.webp" >}}
+  {{< ls-card title="" subtitle="Màn hình Cài đặt Evermusic" image="/docs/guide/evermusic/evermusic-guide-settings/img/settings-main-screen.webp" >}}
 {{< /cards >}}
 
 ## Mua hàng & Cập nhật

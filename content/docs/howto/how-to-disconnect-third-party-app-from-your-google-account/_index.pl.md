@@ -7,7 +7,7 @@ tags: ["google", "bezpieczeństwo", "prywatność", "aplikacje", "konto", "dost�
 readingTime: 2
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **W skrócie:** Przejdź do [myaccount.google.com](https://myaccount.google.com/) > Bezpieczeństwo > Aplikacje i usługi innych firm. Kliknij aplikację, którą chcesz usunąć, a następnie wybierz „Usuń dostęp" lub „Usuń wszystkie połączenia." Powtórz dla każdej aplikacji.
@@ -75,18 +75,18 @@ Pamiętaj, że chociaż aplikacje innych firm mogą wzbogacić Twoje doświadcze
 
 ## Najczęściej zadawane pytania
 
-{{% details title="Czy odłączenie aplikacji usunie moje dane z tej aplikacji?" closed="true" %}}
+{{% ls-details title="Czy odłączenie aplikacji usunie moje dane z tej aplikacji?" closed="true" %}}
 Nie. Usunięcie dostępu uniemożliwia jedynie aplikacji dostęp do Twojego konta Google w przyszłości. Dane już udostępnione aplikacji mogą nadal istnieć na ich serwerach. Sprawdź własne ustawienia prywatności aplikacji, aby usunąć te dane.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Czy mogę ponownie połączyć aplikację po jej odłączeniu?" closed="true" %}}
+{{% ls-details title="Czy mogę ponownie połączyć aplikację po jej odłączeniu?" closed="true" %}}
 Tak. Jeśli ponownie potrzebujesz aplikacji, po prostu zaloguj się za pomocą Google, gdy zostaniesz o to poproszony. Aplikacja ponownie poprosi o uprawnienia, a Ty możesz je przejrzeć przed udzieleniem dostępu.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Jak często powinienem sprawdzać dostęp aplikacji innych firm?" closed="true" %}}
+{{% ls-details title="Jak często powinienem sprawdzać dostęp aplikacji innych firm?" closed="true" %}}
 Sprawdzaj połączone aplikacje co 3–6 miesięcy lub natychmiast po zaprzestaniu korzystania z usługi. Regularne audyty pomagają utrzymać bezpieczeństwo konta.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Czy to wpływa na aplikacje takie jak Evermusic, które łączą się z Google Drive?" closed="true" %}}
+{{% ls-details title="Czy to wpływa na aplikacje takie jak Evermusic, które łączą się z Google Drive?" closed="true" %}}
 Tak. Jeśli odłączysz aplikację taką jak Evermusic lub Flacbox od konta Google, utraci ona dostęp do Twoich plików na Google Drive. Możesz ponownie połączyć się w dowolnym momencie z poziomu aplikacji.
-{{% /details %}}
+{{% /ls-details %}}

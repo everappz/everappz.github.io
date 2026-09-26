@@ -17,7 +17,7 @@ keywords: [
 readingTime: 3
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **ملخص:** قم بتوصيل iPhone أو iPad بجهاز Mac (أو الكمبيوتر الشخصي) باستخدام كابل USB. على macOS Catalina والإصدارات الأحدث، استخدم Finder. على إصدارات macOS الأقدم أو Windows، استخدم iTunes. اسحب الملفات إلى تطبيق مثل Evermusic أو Flacbox أو Evertag لنقلها فوراً.
@@ -117,26 +117,26 @@ readingTime: 3
 
 ## الأسئلة الشائعة
 
-{{% details title="هل أحتاج إلى اتصال بالإنترنت لنقل الملفات عبر USB؟" closed="true" %}}
+{{% ls-details title="هل أحتاج إلى اتصال بالإنترنت لنقل الملفات عبر USB؟" closed="true" %}}
 لا. تعمل مشاركة الملفات بالكامل عبر اتصال كابل USB بين الكمبيوتر وجهاز iOS. لا حاجة للإنترنت.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="ما صيغ الملفات التي يمكنني نقلها إلى Evermusic أو Flacbox؟" closed="true" %}}
+{{% ls-details title="ما صيغ الملفات التي يمكنني نقلها إلى Evermusic أو Flacbox؟" closed="true" %}}
 يدعم كلا التطبيقين مجموعة واسعة من صيغ الصوت بما في ذلك MP3 وFLAC وAAC وWAV وAIFF وOGG وWMA والمزيد. تحقق من وثائق التطبيق للحصول على القائمة الكاملة للصيغ المدعومة.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="لماذا لا أرى علامة تبويب الملفات في Finder؟" closed="true" %}}
+{{% ls-details title="لماذا لا أرى علامة تبويب الملفات في Finder؟" closed="true" %}}
 تظهر علامة تبويب الملفات فقط عندما يحتوي جهازك على تطبيق واحد على الأقل مثبت يدعم مشاركة الملفات. قم بتثبيت Evermusic أو Flacbox أو Evertag، ثم أعد توصيل جهازك.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="هل يمكنني نقل الملفات لاسلكياً بدلاً من استخدام كابل USB؟" closed="true" %}}
+{{% ls-details title="هل يمكنني نقل الملفات لاسلكياً بدلاً من استخدام كابل USB؟" closed="true" %}}
 نعم. يدعم Evermusic وFlacbox أيضاً خدمات التخزين السحابي ونقل Wi-Fi. ومع ذلك، فإن مشاركة ملفات USB عبر Finder أو iTunes عادة ما تكون أسرع لمكتبات الموسيقى الكبيرة.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="هل سيؤدي نقل الملفات عبر Finder إلى الكتابة فوق الملفات الموجودة على جهازي؟" closed="true" %}}
+{{% ls-details title="هل سيؤدي نقل الملفات عبر Finder إلى الكتابة فوق الملفات الموجودة على جهازي؟" closed="true" %}}
 لا. تتم إضافة الملفات الجديدة بجانب الملفات الموجودة. إذا كان هناك ملف بنفس الاسم موجود بالفعل، فقد يقوم macOS بإعادة تسمية الملف الجديد تلقائياً.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="هل تعمل هذه الطريقة مع أجهزة كمبيوتر Windows؟" closed="true" %}}
+{{% ls-details title="هل تعمل هذه الطريقة مع أجهزة كمبيوتر Windows؟" closed="true" %}}
 نعم. على Windows، استخدم iTunes لنقل الملفات. العملية هي نفسها الموضحة في قسم iTunes أعلاه. قم بتثبيت iTunes من Microsoft Store أو موقع Apple.
-{{% /details %}}
+{{% /ls-details %}}

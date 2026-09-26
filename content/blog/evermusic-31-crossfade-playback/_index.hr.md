@@ -12,7 +12,7 @@ authors:
     image: "/images/about/artem-meleshko-founder-everappz.webp"
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 ## Evermusic 3.1: Što se promijenilo i zašto je to važno
 
@@ -89,22 +89,22 @@ Uredite podatke za prijavu za bilo koju povezanu uslugu u oblaku bez uklanjanja 
 
 ## Često postavljana pitanja
 
-{{% details title="Što je crossfade reprodukcija u Evermusic?" closed="true" %}}
+{{% ls-details title="Što je crossfade reprodukcija u Evermusic?" closed="true" %}}
 Crossfade reprodukcija miješa kraj jedne pjesme s početkom sljedeće, stvarajući besprijekorne prijelaze. Trajanje možete postaviti između 3 i 15 sekundi u Settings → Audio Player → Crossfade Playback.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Mogu li sigurnosno kopirati svoje Evermusic popise za reprodukciju u pohranu u oblaku?" closed="true" %}}
+{{% ls-details title="Mogu li sigurnosno kopirati svoje Evermusic popise za reprodukciju u pohranu u oblaku?" closed="true" %}}
 Da. Evermusic 3.1 vam omogućuje sigurnosno kopiranje cijele biblioteke — uključujući popise za reprodukciju, metapodatke, naslovnice i postavke — na bilo koju povezanu uslugu u oblaku kao jednu datoteku.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Podržava li Evermusic pregledavanje iPod biblioteke?" closed="true" %}}
+{{% ls-details title="Podržava li Evermusic pregledavanje iPod biblioteke?" closed="true" %}}
 Da. Možete pregledavati svoju iPod biblioteku po popisima za reprodukciju, albumima, izvođačima i žanrovima izravno s početnog zaslona Evermusic i dodavati pjesme u svoj red čekanja.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Kako ispraviti netočne oznake pjesama u Evermusic?" closed="true" %}}
+{{% ls-details title="Kako ispraviti netočne oznake pjesama u Evermusic?" closed="true" %}}
 Koristite ugrađeni uređivač oznaka i dodirnite akciju Identificiraj. Evermusic skenira vaše nazive datoteka i automatski ažurira ID3 oznake s ispravljenim metapodacima.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Koje usluge u oblaku Evermusic podržava?" closed="true" %}}
+{{% ls-details title="Koje usluge u oblaku Evermusic podržava?" closed="true" %}}
 Evermusic radi s Dropbox, Google Drive, OneDrive, MEGA, Box, Yandex.Disk, WebDAV, SMB/CIFS i FTP poslužiteljima.
-{{% /details %}}
+{{% /ls-details %}}

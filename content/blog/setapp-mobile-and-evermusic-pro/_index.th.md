@@ -12,7 +12,7 @@ authors:
     image: "/images/about/artem-meleshko-founder-everappz.webp"
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 ![](/blog/setapp-mobile-and-evermusic-pro/21260c_766c4fbc81e6433cb8fc21b9c2862ce0~mv2.png)
 
@@ -70,27 +70,27 @@ Evermusic Pro รวมอยู่ในสมาชิก Setapp Mobile คุ
 พร้อมลองหรือยัง? รับ Evermusic Pro ผ่าน Setapp Mobile แล้วเริ่มสตรีมไลบรารีเพลงคลาวด์ของคุณวันนี้
 
 {{< cards cols="1" >}}
-  {{< card link="https://go.setapp.com/stp435?_target=https://www.setapp.com/setapp-mobile&stc=mobile" title="ดาวน์โหลด Evermusic Pro กับ Setapp Mobile" icon="download" >}}
+  {{< ls-card link="https://go.setapp.com/stp435?_target=https://www.setapp.com/setapp-mobile&stc=mobile" title="ดาวน์โหลด Evermusic Pro กับ Setapp Mobile" icon="download" >}}
 {{< /cards >}}
 
 ## คำถามที่พบบ่อย
 
-{{% details title="Evermusic Pro ฟรีกับ Setapp Mobile หรือไม่?" closed="true" %}}
+{{% ls-details title="Evermusic Pro ฟรีกับ Setapp Mobile หรือไม่?" closed="true" %}}
 ใช่ Evermusic Pro รวมอยู่ในสมาชิก Setapp Mobile โดยไม่มีค่าใช้จ่ายเพิ่มเติม คุณจะได้เวอร์ชันพรีเมียมเต็มพร้อมฟีเจอร์ทั้งหมดที่ปลดล็อก
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Evermusic Pro รองรับบริการคลาวด์อะไรบ้าง?" closed="true" %}}
+{{% ls-details title="Evermusic Pro รองรับบริการคลาวด์อะไรบ้าง?" closed="true" %}}
 Evermusic Pro เชื่อมต่อกับ Google Drive, Dropbox, OneDrive, iCloud, Box, MEGA, Yandex.Disk, pCloud, HiDrive และ WebDAV servers ยังรองรับ SMB file shares และ NAS devices
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="ฉันสามารถฟังออฟไลน์กับ Evermusic Pro ได้หรือไม่?" closed="true" %}}
+{{% ls-details title="ฉันสามารถฟังออฟไลน์กับ Evermusic Pro ได้หรือไม่?" closed="true" %}}
 ได้ คุณสามารถดาวน์โหลดเพลงเดี่ยว อัลบั้ม ศิลปิน หรือเพลย์ลิสต์ทั้งหมดสำหรับเล่นออฟไลน์โดยตรงในแอป
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Evermusic Pro เล่นรูปแบบเสียงอะไรบ้าง?" closed="true" %}}
+{{% ls-details title="Evermusic Pro เล่นรูปแบบเสียงอะไรบ้าง?" closed="true" %}}
 Evermusic Pro รองรับ FLAC, MP3, AAC, WAV, ALAC, AIFF, OPUS, OGG และรูปแบบอื่นๆ อีกมากมาย รองรับทั้งไฟล์เสียงแบบ lossless และ lossy
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="ฉันต้องสมัครสมาชิก Setapp แยกต่างหากสำหรับ iPhone หรือไม่?" closed="true" %}}
+{{% ls-details title="ฉันต้องสมัครสมาชิก Setapp แยกต่างหากสำหรับ iPhone หรือไม่?" closed="true" %}}
 Setapp Mobile มีให้เป็นส่วนหนึ่งของแผนสมาชิก Setapp ที่รวมแอป iOS ตรวจสอบเว็บไซต์ Setapp สำหรับราคาและตัวเลือกแผนปัจจุบัน
-{{% /details %}}
+{{% /ls-details %}}

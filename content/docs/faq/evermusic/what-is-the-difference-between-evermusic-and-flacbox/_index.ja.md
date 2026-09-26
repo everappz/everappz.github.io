@@ -11,7 +11,7 @@ EvermusicとFlacboxは、Everappzが提供するiPhone、iPad、Mac向けの2つ
 
 **簡潔な答え：** 最もバランスの取れたスムーズなリスニング、シームレスなギャップレスおよびクロスフェードの切り替え、そしてApple Musicライブラリへのアクセスを求めるなら**Evermusic**を選びましょう。深いサウンドシェイピング（エフェクトラックとDSPチェーン）、選択可能なプロフェッショナルなオーディオエンジン、そしてDSD、APE、WavPackを含む最大限のハイレゾ・ロスレスフォーマット対応を求めるオーディオファイルなら**Flacbox**を選びましょう。
 
-{{< app-details ids="885367198, 1097564256" >}}
+{{< ls-app-details ids="885367198, 1097564256" >}}
 
 ## 機能比較表
 
@@ -129,38 +129,38 @@ EvermusicとFlacboxは同じ接続レイヤーを共有しているため、こ�
 
 ## よくある質問
 
-{{% details title="EvermusicとFlacboxの主な違いは何ですか？" closed="true" %}}
+{{% ls-details title="EvermusicとFlacboxの主な違いは何ですか？" closed="true" %}}
 両者は同じプラットフォームと接続を共有していますが、オーディオ面が異なります。Evermusicは、AppleのAVPlayerとCore Audioで動作し、真のギャップレス再生、クロスフェード、空間オーディオ、Apple Musicライブラリのインポートを備えた、幅広いフォーマットに対応する普段使いのプレーヤーです。Flacboxは、プロフェッショナルなBASS™オーディオエンジンとFFmpegデコードを追加し、14フィルターDSPチェーン、より多くのリアルタイムエフェクト、トラッカー/MOD再生、そしてDSD、APE、WavPackを含む最も幅広いハイレゾ・ロスレスフォーマットのサポートをもたらします。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="EvermusicとFlacboxのどちらが優れていますか？" closed="true" %}}
+{{% ls-details title="EvermusicとFlacboxのどちらが優れていますか？" closed="true" %}}
 どちらか一方が絶対的に優れているわけではなく、異なるリスナー向けに最適化されています。Evermusicは、ギャップレス再生、クロスフェード、空間オーディオのおかげで、スムーズな普段使いのリスニングや、Apple Musicライブラリも利用する人に適しています。Flacboxは、深いサウンドシェイピング、選択可能なプロフェッショナルなオーディオエンジン、最大限のハイレゾ・ロスレスフォーマット対応を求めるオーディオファイルに適しています。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="EvermusicはFFmpegを使用していますか？" closed="true" %}}
+{{% ls-details title="EvermusicはFFmpegを使用していますか？" closed="true" %}}
 いいえ。Evermusicは、AppleのネイティブオーディオスタックであるAVPlayerとCore Audioを通じて完全に再生し、Core Audioがエフェクトと処理を担当します。FFmpegデコードは、Flacboxの選択可能なBASSエンジンとともに、Flacboxの機能です。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Flacboxにはギャップレス再生やクロスフェードがありますか？" closed="true" %}}
+{{% ls-details title="Flacboxにはギャップレス再生やクロスフェードがありますか？" closed="true" %}}
 いいえ。真のギャップレス再生とクロスフェード（1〜30秒）はEvermusicの機能です。Flacboxは代わりに、ハイレゾ再生、プロフェッショナルなBASSエンジン、エフェクトラック、DSPチェーンに焦点を当てています。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="FLAC、DSD、APEにはどちらのアプリが適していますか？" closed="true" %}}
+{{% ls-details title="FLAC、DSD、APEにはどちらのアプリが適していますか？" closed="true" %}}
 Flacboxです。両方のアプリでFLACを再生できますが、Flacboxはハイレゾ・ロスレスの専門家であり、FFmpegとBASS™エンジンを通じてFLAC、ALAC、DSD（DSF/DFF）、APE、WavPack（WV）、TTA、OPUSなどにネイティブ対応しています。また、本格的なリスニングのためのより緻密な出力コントロールも提供します。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="どちらのアプリがより多くのオーディオエフェクトとDSPチェーンを備えていますか？" closed="true" %}}
+{{% ls-details title="どちらのアプリがより多くのオーディオエフェクトとDSPチェーンを備えていますか？" closed="true" %}}
 Flacboxです。Evermusicには6つのエフェクト（リバーブ、ディレイ、ディストーション、コンプレッサー、クロスフィード、音量正規化）があります。Flacboxには11のエフェクト（コーラス、フランジャー、フェイザー、オートワウ、ステレオローテーション、マルチタップエコーを追加）に加えて、自分だけの14フィルターDSPチェーンを構築できる機能があります。DSPチェーンはFlacbox専用です。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="両方のアプリは同じクラウドサービス、メディアサーバー、CarPlayに対応していますか？" closed="true" %}}
+{{% ls-details title="両方のアプリは同じクラウドサービス、メディアサーバー、CarPlayに対応していますか？" closed="true" %}}
 はい。EvermusicとFlacboxは、同じクラウドストレージ（iCloud Drive、Google Drive、Dropbox、OneDrive、MEGA、pCloud、Internxt、Proton Driveなど）、同じメディアサーバー（Plex、Subsonic、Navidrome、Jellyfin、Emby）、同じコンピューターおよびNASプロトコル（SMB、WebDAV、FTP、SFTP、NFS、DLNA）に接続し、QNAP、Synology、Nextcloud、WD My Cloud Homeにネイティブ対応しています。両方ともApple CarPlay、AirPlay、Google Chromecastにも対応しています。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Evermusicで私のApple MusicやiTunesライブラリを再生できますか？" closed="true" %}}
+{{% ls-details title="Evermusicで私のApple MusicやiTunesライブラリを再生できますか？" closed="true" %}}
 はい。Evermusicは、クラウドやネットワークのソースに加えて、あなたの Apple Music / iTunesライブラリから音楽をインポートして再生できます。Flacboxは、クラウド、NAS、ローカルストレージからのあなた自身のファイル向けに設計されており、Apple Musicライブラリはインポートしません。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="EvermusicとFlacboxを併用できますか？" closed="true" %}}
+{{% ls-details title="EvermusicとFlacboxを併用できますか？" closed="true" %}}
 はい、多くの人がそうしています。一般的な使い方は、日々のシームレスな再生とApple MusicライブラリへのアクセスにはEvermusic、BASSエンジン、エフェクト、DSPチェーンを備えた本格的なハイレゾリスニングにはFlacboxを使うことです。両方とも同じクラウドおよびNASソースから読み込むため、あなたのライブラリはどちらのアプリでも利用できます。どちらも無料でダウンロードでき、オプションのプレミアムアプリ内アップグレードがあります。
-{{% /details %}}
+{{% /ls-details %}}

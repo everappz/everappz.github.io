@@ -29,7 +29,7 @@ tags: [
 readingTime: 3
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **Zhrnutie:** Vložte akýkoľvek URL Internet Archive na [archivetom3u.com](https://archivetom3u.com), vyberte formát zvuku (MP3, FLAC, OGG) a stiahnite playlist M3U pripravený na prehrávanie -- bez účtu. Potom ho importujte do [Evermusic](https://apps.apple.com/app/apple-store/id885367198?pt=95781850&ct=everappzcom&mt=8) na iPhone alebo Mac pre okamžité prehrávanie.
@@ -69,7 +69,7 @@ Môžete si vybrať z nasledujúcich formátov:
 Prejdite na [archive.org](https://archive.org), klepnite na **Audio** a vyberte **Live Music Archive**. Pomocou vyhľadávacieho panela nájdite žáner, umelca alebo koncert.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Hľadajte hudbu na Internet Archive" image="/docs/howto/how-to-create-m3u-playlist-for-internet-archive-or-live-music-archive/1.internet-archive-search.webp" >}}
+  {{< ls-card title="" subtitle="Hľadajte hudbu na Internet Archive" image="/docs/howto/how-to-create-m3u-playlist-for-internet-archive-or-live-music-archive/1.internet-archive-search.webp" >}}
 {{< /cards >}}
 
 ### 2. Skopírujte URL položky
@@ -77,7 +77,7 @@ Prejdite na [archive.org](https://archive.org), klepnite na **Audio** a vyberte 
 Kliknite na požadovanú položku a skopírujte jej URL z adresného riadku prehliadača.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Skopírujte URL položky z Internet Archive" image="/docs/howto/how-to-create-m3u-playlist-for-internet-archive-or-live-music-archive/2.internet-archive-copy-item-url.webp" >}}
+  {{< ls-card title="" subtitle="Skopírujte URL položky z Internet Archive" image="/docs/howto/how-to-create-m3u-playlist-for-internet-archive-or-live-music-archive/2.internet-archive-copy-item-url.webp" >}}
 {{< /cards >}}
 
 ### 3. Vložte URL do generátora
@@ -85,7 +85,7 @@ Kliknite na požadovanú položku a skopírujte jej URL z adresného riadku preh
 Vráťte sa na [archivetom3u.com](https://archivetom3u.com) a vložte skopírovaný URL do vstupného poľa.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Vložte URL položky do generátora M3U" image="/docs/howto/how-to-create-m3u-playlist-for-internet-archive-or-live-music-archive/3.archive-to-m3u-paste-item-url.webp" >}}
+  {{< ls-card title="" subtitle="Vložte URL položky do generátora M3U" image="/docs/howto/how-to-create-m3u-playlist-for-internet-archive-or-live-music-archive/3.archive-to-m3u-paste-item-url.webp" >}}
 {{< /cards >}}
 
 ### 4. Vyberte zvukový formát
@@ -93,7 +93,7 @@ Vráťte sa na [archivetom3u.com](https://archivetom3u.com) a vložte skopírova
 Zvoľte požadovaný formát (MP3, FLAC atď.).
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Vyberte preferovaný zvukový formát" image="/docs/howto/how-to-create-m3u-playlist-for-internet-archive-or-live-music-archive/4.archive-to-m3u-select-format.webp" >}}
+  {{< ls-card title="" subtitle="Vyberte preferovaný zvukový formát" image="/docs/howto/how-to-create-m3u-playlist-for-internet-archive-or-live-music-archive/4.archive-to-m3u-select-format.webp" >}}
 {{< /cards >}}
 
 ### 5. Vygenerujte playlist
@@ -101,7 +101,7 @@ Zvoľte požadovaný formát (MP3, FLAC atď.).
 Kliknite na **Generate Playlist**. Obsah `.m3u` sa zobrazí nižšie. Môžete ho skopírovať alebo stiahnuť.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="M3U playlist je vygenerovaný automaticky" image="/docs/howto/how-to-create-m3u-playlist-for-internet-archive-or-live-music-archive/5.archive-to-m3u-generated-playlist.webp" >}}
+  {{< ls-card title="" subtitle="M3U playlist je vygenerovaný automaticky" image="/docs/howto/how-to-create-m3u-playlist-for-internet-archive-or-live-music-archive/5.archive-to-m3u-generated-playlist.webp" >}}
 {{< /cards >}}
 
 ### 6. Prezrite si skladby
@@ -109,7 +109,7 @@ Kliknite na **Generate Playlist**. Obsah `.m3u` sa zobrazí nižšie. Môžete h
 Posuňte sa nadol pre prezretie každej skladby. Uistite sa, že všetko hrá správne.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Prezrite si všetky skladby pred stiahnutím" image="/docs/howto/how-to-create-m3u-playlist-for-internet-archive-or-live-music-archive/6.archive-to-m3u-tracks-preview.webp" >}}
+  {{< ls-card title="" subtitle="Prezrite si všetky skladby pred stiahnutím" image="/docs/howto/how-to-create-m3u-playlist-for-internet-archive-or-live-music-archive/6.archive-to-m3u-tracks-preview.webp" >}}
 {{< /cards >}}
 
 ### 7. Stiahnite playlist
@@ -117,7 +117,7 @@ Posuňte sa nadol pre prezretie každej skladby. Uistite sa, že všetko hrá sp
 Kliknite na **Download Playlist** pre uloženie súboru `.m3u` na vaše zariadenie. Nie je potrebné prihlásenie ani účet.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Stiahnite M3U playlist na vaše zariadenie" image="/docs/howto/how-to-create-m3u-playlist-for-internet-archive-or-live-music-archive/7.downloaded-m3u-playlist.webp" >}}
+  {{< ls-card title="" subtitle="Stiahnite M3U playlist na vaše zariadenie" image="/docs/howto/how-to-create-m3u-playlist-for-internet-archive-or-live-music-archive/7.downloaded-m3u-playlist.webp" >}}
 {{< /cards >}}
 
 ## Ako prehrať M3U playlist na macOS alebo iOS
@@ -125,14 +125,14 @@ Kliknite na **Download Playlist** pre uloženie súboru `.m3u` na vaše zariaden
 Pre prehranie stiahnutého súboru `.m3u` na vašom zariadení Apple použite aplikáciu **Evermusic** (stiahnutie zadarmo):
 
 {{< cards cols="1">}}
-{{< card link="https://apps.apple.com/app/apple-store/id1564384601?pt=95781850&ct=everappzcom&mt=8" title="Evermusic macOS" icon="download" tag="Free" >}}
-{{< card link="https://apps.apple.com/app/apple-store/id885367198?pt=95781850&ct=everappzcom&mt=8" title="Evermusic iOS" icon="download" tag="Free" >}}
+{{< ls-card link="https://apps.apple.com/app/apple-store/id1564384601?pt=95781850&ct=everappzcom&mt=8" title="Evermusic macOS" icon="download" tag="Free" >}}
+{{< ls-card link="https://apps.apple.com/app/apple-store/id885367198?pt=95781850&ct=everappzcom&mt=8" title="Evermusic iOS" icon="download" tag="Free" >}}
 {{< /cards >}}
 
 ### 1. Otvorte Evermusic a prejdite na Playlisty
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Otvorte Evermusic a prejdite na Playlisty" image="/docs/howto/how-to-create-m3u-playlist-for-internet-archive-or-live-music-archive/8.evermusic-app-playlists.webp" >}}
+  {{< ls-card title="" subtitle="Otvorte Evermusic a prejdite na Playlisty" image="/docs/howto/how-to-create-m3u-playlist-for-internet-archive-or-live-music-archive/8.evermusic-app-playlists.webp" >}}
 {{< /cards >}}
 
 ### 2. Importujte playlist
@@ -140,7 +140,7 @@ Pre prehranie stiahnutého súboru `.m3u` na vašom zariadení Apple použite ap
 Klepnite na **Add Playlist**, potom zvoľte **Import Playlist**.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Klepnite na Import Playlist pre pridanie stiahnutého M3U" image="/docs/howto/how-to-create-m3u-playlist-for-internet-archive-or-live-music-archive/9.evermusic-app-import-playlist.webp" >}}
+  {{< ls-card title="" subtitle="Klepnite na Import Playlist pre pridanie stiahnutého M3U" image="/docs/howto/how-to-create-m3u-playlist-for-internet-archive-or-live-music-archive/9.evermusic-app-import-playlist.webp" >}}
 {{< /cards >}}
 
 ### 3. Vyberte umiestnenie playlistu
@@ -148,7 +148,7 @@ Klepnite na **Add Playlist**, potom zvoľte **Import Playlist**.
 Zvoľte **Files on this Mac** (alebo iné umiestnenie, kam ste súbor uložili).
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Vyberte umiestnenie stiahnutého súboru" image="/docs/howto/how-to-create-m3u-playlist-for-internet-archive-or-live-music-archive/10.select-location.webp" >}}
+  {{< ls-card title="" subtitle="Vyberte umiestnenie stiahnutého súboru" image="/docs/howto/how-to-create-m3u-playlist-for-internet-archive-or-live-music-archive/10.select-location.webp" >}}
 {{< /cards >}}
 
 ### 4. Udeľte prístup k priečinku
@@ -156,7 +156,7 @@ Zvoľte **Files on this Mac** (alebo iné umiestnenie, kam ste súbor uložili).
 Evermusic môže pristupovať k súborom len ak povolíte prístup na úrovni priečinka. Vyberte priečinok, ktorý obsahuje váš súbor `.m3u` **a** zvukové súbory prepojené vnútri.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Pripojte priečinok umiestnený na vašom zariadení" image="/docs/howto/how-to-create-m3u-playlist-for-internet-archive-or-live-music-archive/11.connect-folder-located-on-your-device.webp" >}}
+  {{< ls-card title="" subtitle="Pripojte priečinok umiestnený na vašom zariadení" image="/docs/howto/how-to-create-m3u-playlist-for-internet-archive-or-live-music-archive/11.connect-folder-located-on-your-device.webp" >}}
 {{< /cards >}}
 
 ### 5. Vyberte priečinok Stiahnuté
@@ -164,13 +164,13 @@ Evermusic môže pristupovať k súborom len ak povolíte prístup na úrovni pr
 Vo väčšine prípadov je playlist uložený vo vašom priečinku **Downloads**.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Vyberte priečinok Stiahnuté" image="/docs/howto/how-to-create-m3u-playlist-for-internet-archive-or-live-music-archive/12.select-downloads-folder.webp" >}}
+  {{< ls-card title="" subtitle="Vyberte priečinok Stiahnuté" image="/docs/howto/how-to-create-m3u-playlist-for-internet-archive-or-live-music-archive/12.select-downloads-folder.webp" >}}
 {{< /cards >}}
 
 Klepnite na **Open** pre potvrdenie výberu.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Váš priečinok Stiahnuté je teraz pripojený" image="/docs/howto/how-to-create-m3u-playlist-for-internet-archive-or-live-music-archive/13.downloads-folder-connected.webp" >}}
+  {{< ls-card title="" subtitle="Váš priečinok Stiahnuté je teraz pripojený" image="/docs/howto/how-to-create-m3u-playlist-for-internet-archive-or-live-music-archive/13.downloads-folder-connected.webp" >}}
 {{< /cards >}}
 
 ### 6. Vyberte súbor playlistu
@@ -180,7 +180,7 @@ Keď je priečinok pripojený, nájdite a vyberte svoj súbor `.m3u`.
 Klepnite na **Done** pre potvrdenie výberu.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Vyberte súbor M3U playlistu z priečinka" image="/docs/howto/how-to-create-m3u-playlist-for-internet-archive-or-live-music-archive/14.m3u-playlist-selected-from-connected-folder.webp" >}}
+  {{< ls-card title="" subtitle="Vyberte súbor M3U playlistu z priečinka" image="/docs/howto/how-to-create-m3u-playlist-for-internet-archive-or-live-music-archive/14.m3u-playlist-selected-from-connected-folder.webp" >}}
 {{< /cards >}}
 
 ### 7. Playlist úspešne importovaný
@@ -188,7 +188,7 @@ Klepnite na **Done** pre potvrdenie výberu.
 Aplikácia analyzuje playlist a pridá ho do vašej knižnice.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Playlist bol úspešne importovaný" image="/docs/howto/how-to-create-m3u-playlist-for-internet-archive-or-live-music-archive/15.playlist-imported.webp" >}}
+  {{< ls-card title="" subtitle="Playlist bol úspešne importovaný" image="/docs/howto/how-to-create-m3u-playlist-for-internet-archive-or-live-music-archive/15.playlist-imported.webp" >}}
 {{< /cards >}}
 
 ### 8. Otvorte a prehrajte playlist
@@ -196,13 +196,13 @@ Aplikácia analyzuje playlist a pridá ho do vašej knižnice.
 Klepnite na playlist pre zobrazenie všetkých skladieb a spustenie prehrávania.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Otvorte playlist a zobrazte zoznam skladieb" image="/docs/howto/how-to-create-m3u-playlist-for-internet-archive-or-live-music-archive/16.playlist-opened.webp" >}}
+  {{< ls-card title="" subtitle="Otvorte playlist a zobrazte zoznam skladieb" image="/docs/howto/how-to-create-m3u-playlist-for-internet-archive-or-live-music-archive/16.playlist-opened.webp" >}}
 {{< /cards >}}
 
 Po niekoľkých sekundách Evermusic načíta všetky metadáta a aktualizuje zobrazenie skladieb.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Váš playlist je pripravený na prehrávanie" image="/docs/howto/how-to-create-m3u-playlist-for-internet-archive-or-live-music-archive/17.playlist-opened-2.webp" >}}
+  {{< ls-card title="" subtitle="Váš playlist je pripravený na prehrávanie" image="/docs/howto/how-to-create-m3u-playlist-for-internet-archive-or-live-music-archive/17.playlist-opened-2.webp" >}}
 {{< /cards >}}
 
 ## Súkromie a open source
@@ -221,22 +221,22 @@ Teraz viete, ako vytvoriť a importovať M3U playlisty z Internet Archive a Live
 
 ## Často kladené otázky
 
-{{% details title="Je nástroj na generovanie M3U zadarmo?" closed="true" %}}
+{{% ls-details title="Je nástroj na generovanie M3U zadarmo?" closed="true" %}}
 Áno. Nástroj na [archivetom3u.com](https://archivetom3u.com) je úplne zadarmo, nevyžaduje účet a beží plne vo vašom prehliadači.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Aké zvukové formáty môžem zahrnúť do M3U playlistu?" closed="true" %}}
+{{% ls-details title="Aké zvukové formáty môžem zahrnúť do M3U playlistu?" closed="true" %}}
 Môžete si vybrať VBR MP3, FLAC, 24-bit FLAC alebo OGG Vorbis. V playliste sa zobrazia iba skladby dostupné vo zvolenom formáte.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Môžem prehrávať M3U playlisty na iPhone alebo Mac?" closed="true" %}}
+{{% ls-details title="Môžem prehrávať M3U playlisty na iPhone alebo Mac?" closed="true" %}}
 Áno. Stiahnite si bezplatnú aplikáciu Evermusic pre iOS alebo macOS a potom pomocou funkcie Import Playlist načítajte svoj súbor `.m3u`.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Ukladá nástroj moje údaje alebo hostuje nejakú hudbu?" closed="true" %}}
+{{% ls-details title="Ukladá nástroj moje údaje alebo hostuje nejakú hudbu?" closed="true" %}}
 Nie. Všetko spracovanie prebieha lokálne vo vašom prehliadači. Žiadne údaje nie sú uložené a všetky zvukové streamy pochádzajú priamo z archive.org.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Je tento nástroj spojený s Internet Archive?" closed="true" %}}
+{{% ls-details title="Je tento nástroj spojený s Internet Archive?" closed="true" %}}
 Nie. Ide o nezávislý open source projekt vytvorený pre pohodlie. Používa oficiálne API metadát Internet Archive na generovanie playlistov.
-{{% /details %}}
+{{% /ls-details %}}

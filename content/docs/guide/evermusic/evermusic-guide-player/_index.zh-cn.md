@@ -17,7 +17,7 @@ readingTime: 11
 ## 访问播放器
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evermusic 音频播放器屏幕" image="/docs/guide/evermusic/evermusic-guide-player/img/player-main.webp" >}}
+  {{< ls-card title="" subtitle="Evermusic 音频播放器屏幕" image="/docs/guide/evermusic/evermusic-guide-player/img/player-main.webp" >}}
 {{< /cards >}}
 
 您可以从迷你播放器视图访问全屏播放器。在 iPhone 上，您会在主屏幕标签栏上方找到迷你播放器。在 iPad 或 Mac 上，可以从左侧菜单访问。要收起迷你播放器，请点击其图标并向下滑动。要完全隐藏全屏播放器，只需点击右下角的关闭按钮。
@@ -44,7 +44,7 @@ readingTime: 11
 ## 音量控制
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="带 AirPlay 和 Google Cast 的音量控制" image="/docs/guide/evermusic/evermusic-guide-player/img/player-volume-control.webp" >}}
+  {{< ls-card title="" subtitle="带 AirPlay 和 Google Cast 的音量控制" image="/docs/guide/evermusic/evermusic-guide-player/img/player-volume-control.webp" >}}
 {{< /cards >}}
 
 在播放控制下方点击声音图标，在音频设置屏幕上找到音量滑块。您可以使用此滑块或设备上的标准音量按钮更改音量。此外，您还会发现一些便捷的流媒体按钮：
@@ -63,7 +63,7 @@ readingTime: 11
 ## 音频均衡器
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="10 段音频均衡器" image="/docs/guide/evermusic/evermusic-guide-player/img/player-equalizer.webp" >}}
+  {{< ls-card title="" subtitle="10 段音频均衡器" image="/docs/guide/evermusic/evermusic-guide-player/img/player-equalizer.webp" >}}
 {{< /cards >}}
 
 Evermusic 配备了 10 段均衡器，包含 iPod 风格预设、前置放大器和手动均衡器设置。要激活均衡器，只需点击底部工具栏上的「均衡器」按钮，然后切换右上角的开关控件。您可以从「声学」、「重低音增强」、「古典」等一系列预定义均衡器预设中进行选择。如果您是音频发烧友，您会欣赏使用滑块对每个频段进行精细调整的能力。您可以自由创建并保存自己的音频均衡器预设。如果曲目音量不够大，您也可以调整前置放大器增益。我们有关于如何使用均衡器的更详细说明，请见[此处](/docs/howto/how-to-use-the-audio-equalizer-on-your-iphone-ipad-mac-with-evermusic-and-flacbox)。
@@ -71,7 +71,7 @@ Evermusic 配备了 10 段均衡器，包含 iPod 风格预设、前置放大器
 ## 播放器模式工具栏
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="带搜索和速度的播放器顶部工具栏" image="/docs/guide/evermusic/evermusic-guide-player/img/player-top-toolbar.webp" >}}
+  {{< ls-card title="" subtitle="带搜索和速度的播放器顶部工具栏" image="/docs/guide/evermusic/evermusic-guide-player/img/player-top-toolbar.webp" >}}
 {{< /cards >}}
 
 对于少数播放器屏幕样式，您会在播放器屏幕顶部（导航栏正下方）找到播放器模式工具栏。这个便捷的工具栏包含三个按钮。
@@ -82,7 +82,7 @@ Evermusic 配备了 10 段均衡器，包含 iPod 风格预设、前置放大器
 ## 音频书签
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="有声书和讲座的音频书签" image="/docs/guide/evermusic/evermusic-guide-player/img/player-bookmarks.webp" >}}
+  {{< ls-card title="" subtitle="有声书和讲座的音频书签" image="/docs/guide/evermusic/evermusic-guide-player/img/player-bookmarks.webp" >}}
 {{< /cards >}}
 
 在这里，您可以为音乐库中的曲目创建多个书签。我们有关于如何使用书签的完整说明，请见[此处](/docs/howto/how-to-listen-to-audiobooks-on-iphone-ipad-mac-using-evermusic)。
@@ -90,7 +90,7 @@ Evermusic 配备了 10 段均衡器，包含 iPod 风格预设、前置放大器
 ## 播放器队列
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="播放器队列" image="/docs/guide/evermusic/evermusic-guide-player/img/player-queue.webp" >}}
+  {{< ls-card title="" subtitle="播放器队列" image="/docs/guide/evermusic/evermusic-guide-player/img/player-queue.webp" >}}
 {{< /cards >}}
 
 要访问播放器队列，只需点击底部工具栏上的播放器队列按钮。要移动队列中的歌曲，请使用标题旁边的重新排序指示器。
@@ -98,7 +98,7 @@ Evermusic 配备了 10 段均衡器，包含 iPod 风格预设、前置放大器
 ## 评论 / 歌词
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="评论、嵌入歌词和 LRC 文件" image="/docs/guide/evermusic/evermusic-guide-player/img/player-lyrics.webp" >}}
+  {{< ls-card title="" subtitle="评论、嵌入歌词和 LRC 文件" image="/docs/guide/evermusic/evermusic-guide-player/img/player-lyrics.webp" >}}
 {{< /cards >}}
 
 要查看曲目评论和嵌入歌词以及 LRC 文件，请按照以下步骤操作：
@@ -114,7 +114,7 @@ Evermusic 配备了 10 段均衡器，包含 iPod 风格预设、前置放大器
 ## 选项菜单
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="队列项目的选项菜单" image="/docs/guide/evermusic/evermusic-guide-player/img/player-queue-item-options-menu.webp" >}}
+  {{< ls-card title="" subtitle="队列项目的选项菜单" image="/docs/guide/evermusic/evermusic-guide-player/img/player-queue-item-options-menu.webp" >}}
 {{< /cards >}}
 
 您音频播放器队列中的每首歌曲都有更多操作的菜单，您可以通过点击歌曲标题附近的三点按钮访问。可用操作有：
@@ -153,7 +153,7 @@ Evermusic 配备了 10 段均衡器，包含 iPod 风格预设、前置放大器
 ## 最近使用和收藏夹
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="播放器中最近播放的歌曲" image="/docs/guide/evermusic/evermusic-guide-player/img/player-recents.webp" >}}
+  {{< ls-card title="" subtitle="播放器中最近播放的歌曲" image="/docs/guide/evermusic/evermusic-guide-player/img/player-recents.webp" >}}
 {{< /cards >}}
 
 在播放器屏幕上，您可以通过点击「更多操作」按钮「…」并选择相应菜单项来访问「最近使用」和「收藏夹」部分。在这两个部分中，您可以搜索歌曲、播放所有曲目、随机播放所有曲目、导出列表和删除列表。我们有关于如何导出歌曲列表的详细说明，请见[此处](/docs/howto/export-tracks-collection-from-evermusic-flacbox-to-m3u-csv-txt/)。
@@ -161,7 +161,7 @@ Evermusic 配备了 10 段均衡器，包含 iPod 风格预设、前置放大器
 ## 迷你播放器窗口（Mac 专属）
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Mac 迷你播放器窗口" image="/docs/guide/evermusic/evermusic-guide-player/img/player-mini-mac.webp" >}}
+  {{< ls-card title="" subtitle="Mac 迷你播放器窗口" image="/docs/guide/evermusic/evermusic-guide-player/img/player-mini-mac.webp" >}}
 {{< /cards >}}
 
 对于 Mac 用户，有一个便捷的迷你播放器窗口。要访问它，只需将光标移到应用程序窗口的右下角并将其调整为最小可能的尺寸。然后，点击折叠按钮（显示为向下箭头）以激活迷你播放器窗口。如果您想让它始终位于其他窗口之上，请转到 Mac 顶部菜单栏，选择「窗口」，并选择「始终在顶部显示窗口」。当您在收听音频讲座时不想有任何干扰，此功能特别方便。
@@ -169,7 +169,7 @@ Evermusic 配备了 10 段均衡器，包含 iPod 风格预设、前置放大器
 ## 键盘快捷键（Mac 专属）
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="带键盘快捷键的 Mac 状态栏播放菜单" image="/docs/guide/evermusic/evermusic-guide-player/img/player-mac-shortcuts.webp" >}}
+  {{< ls-card title="" subtitle="带键盘快捷键的 Mac 状态栏播放菜单" image="/docs/guide/evermusic/evermusic-guide-player/img/player-mac-shortcuts.webp" >}}
 {{< /cards >}}
 
 对于 Mac 用户，状态栏上有一个系统播放菜单，带有键盘快捷键。例如，要播放/暂停，只需点击键盘上的空格键。停止、下一首歌曲、上一首歌曲、跳过时间、重复、随机播放和播放速度的快捷键如截图所示。
@@ -177,7 +177,7 @@ Evermusic 配备了 10 段均衡器，包含 iPod 风格预设、前置放大器
 ## 音频播放器设置
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="音频播放器设置" image="/docs/guide/evermusic/evermusic-guide-player/img/player-settings.webp" >}}
+  {{< ls-card title="" subtitle="音频播放器设置" image="/docs/guide/evermusic/evermusic-guide-player/img/player-settings.webp" >}}
 {{< /cards >}}
 
 要访问音频播放器设置，请点击音频播放器屏幕上的「更多」按钮，然后从下拉菜单中选择「设置」。在这里，您会找到按功能分组的各个部分：

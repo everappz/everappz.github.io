@@ -12,7 +12,7 @@ authors:
     image: "/images/about/artem-meleshko-founder-everappz.webp"
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 ![](/blog/evermusic-sync-your-music-library-save-playback-position-correct-music-tags/21260c_641f376e779e47d4927b43c210d3c87f~mv2.jpeg)
 
@@ -67,22 +67,22 @@ Evermusic phát hiện và sửa các thẻ ID3 không hợp lệ hoặc không 
 
 ## Câu hỏi thường gặp
 
-{{% details title="Đồng bộ tự động của Evermusic có hoạt động với tất cả dịch vụ đám mây không?" closed="true" %}}
+{{% ls-details title="Đồng bộ tự động của Evermusic có hoạt động với tất cả dịch vụ đám mây không?" closed="true" %}}
 Có. Đồng bộ tự động hoạt động với Dropbox, Google Drive, OneDrive, MEGA, WebDAV và SMB. Chọn các thư mục bạn muốn theo dõi và Evermusic sẽ giữ cho thư viện của bạn luôn cập nhật.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Evermusic có thể lưu vị trí sách nói không?" closed="true" %}}
+{{% ls-details title="Evermusic có thể lưu vị trí sách nói không?" closed="true" %}}
 Có. Bật lưu vị trí phát trong cài đặt âm thanh. Evermusic ghi nhớ nơi bạn dừng lại cho mỗi tệp, để bạn có thể tiếp tục mà không cần đánh dấu thủ công.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Đọc metadata nền hoạt động như thế nào?" closed="true" %}}
+{{% ls-details title="Đọc metadata nền hoạt động như thế nào?" closed="true" %}}
 Evermusic đọc thẻ ID3 và metadata tệp ở nền trong khi bạn sử dụng các tính năng khác. Nó tự động sắp xếp thư viện theo Nghệ sĩ, Album và Thể loại.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Evermusic có sửa được thẻ nhạc bị hỏng không?" closed="true" %}}
+{{% ls-details title="Evermusic có sửa được thẻ nhạc bị hỏng không?" closed="true" %}}
 Có. Tính năng sửa thẻ tự động kiểm tra tệp của bạn với cơ sở dữ liệu trực tuyến và sửa metadata ID3 không hợp lệ, không đầy đủ hoặc bị thiếu.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Evermusic có miễn phí tải xuống không?" closed="true" %}}
+{{% ls-details title="Evermusic có miễn phí tải xuống không?" closed="true" %}}
 Evermusic miễn phí tải xuống với các tính năng cao cấp tùy chọn thông qua mua hàng trong ứng dụng.
-{{% /details %}}
+{{% /ls-details %}}

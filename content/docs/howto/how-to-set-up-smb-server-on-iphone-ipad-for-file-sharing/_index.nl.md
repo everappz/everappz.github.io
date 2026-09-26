@@ -7,7 +7,7 @@ keywords: ["SMB-server iPhone", "SMB-server iPad", "SMB instellen op iPhone", "i
 readingTime: 10
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 SMB is de bestandsdeling die is ingebouwd in macOS, Windows en Linux, en in bijna elke netwerkschijf (NAS). Als je verbindt met een gedeelde map op een andere computer en die opent als een gewone schijf in Finder of Verkenner, dan doet SMB het werk. Met [Everdisk](/products/everdisk) kun je een SMB-share op je iPhone of iPad zetten, zodat de telefoon zelf als netwerkschijf verschijnt waar andere apparaten doorheen bladeren, vanaf kopiëren en naartoe kopiëren.
 
@@ -136,44 +136,44 @@ De schakelaar **Bestanden bewerken** in Instellingen, Delen, Toegang bepaalt dit
 
 ## Veelgestelde vragen
 
-{{% details title="Wat is het SMB-adres en de poort voor mijn iPhone?" closed="true" %}}
+{{% ls-details title="Wat is het SMB-adres en de poort voor mijn iPhone?" closed="true" %}}
 Nadat je met delen begint, toont Everdisk het adres op het scherm Delen. Het ziet er zo uit: smb://192.168.1.20:4455/Share. De 4455 is de poort die Everdisk voor SMB gebruikt, en Share is de naam van de gedeelde map. Het eerste deel is het adres van je iPhone op het Wi-Fi, dus dat van jou is anders.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Kan ik vanaf Windows verbinden met mijn iPhone-SMB-share?" closed="true" %}}
+{{% ls-details title="Kan ik vanaf Windows verbinden met mijn iPhone-SMB-share?" closed="true" %}}
 De Windows Verkenner verbindt alleen met SMB op de standaardpoort en accepteert geen aangepaste poort in het pad, terwijl Everdisk poort 4455 gebruikt. Dus de gewone route via Netwerkstation toewijzen bereikt het vaak niet. Gebruik een bestandsbeheer waarmee je een aangepaste poort kunt instellen, of verbind vanaf Windows in plaats daarvan met WebDAV, FTP of de browserlink. Die werken allemaal vanaf Windows zonder poortproblemen.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Hoe deel ik bestanden tussen twee iPhones met SMB?" closed="true" %}}
+{{% ls-details title="Hoe deel ik bestanden tussen twee iPhones met SMB?" closed="true" %}}
 Start de SMB-server op de eerste iPhone in Everdisk. Open op de tweede iPhone de Bestanden-app, tik op de meer-knop, kies Verbind met server, en voer het smb-adres in dat in Everdisk wordt getoond (bijvoorbeeld smb://192.168.1.20:4455/Share). Verbind als Gast of met je login, en de share verschijnt in Bestanden. Je kunt ook het eigen tabblad Apparaten van Everdisk op de tweede telefoon gebruiken.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Verschijnt mijn iPhone automatisch in de Finder-zijbalk op de Mac?" closed="true" %}}
+{{% ls-details title="Verschijnt mijn iPhone automatisch in de Finder-zijbalk op de Mac?" closed="true" %}}
 Meestal wel. Everdisk kondigt de SMB-share aan op je Wi-Fi, dus je iPhone verschijnt vaak onder Locaties of Netwerk in de Finder-zijbalk. Klik erop en kies Verbind als, dan Gast of je login. Als hij niet verschijnt, verbind dan handmatig met Ga, Verbind met server en het volledige smb-adres.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Heb ik een wachtwoord nodig om SMB te gebruiken?" closed="true" %}}
+{{% ls-details title="Heb ik een wachtwoord nodig om SMB te gebruiken?" closed="true" %}}
 Nee, een login is optioneel. Laat de Inlognaam en het Wachtwoord leeg in Instellingen, Delen, Toegang om gasttoegang toe te staan. Stel ze in als je wilt dat verbindingen inloggen. Een inlognaam en wachtwoord zijn alleen vereist als je SMB-versleuteling vereisen aanzet, omdat versleutelde verbindingen niet anoniem kunnen zijn.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Is de SMB-verbinding versleuteld?" closed="true" %}}
+{{% ls-details title="Is de SMB-verbinding versleuteld?" closed="true" %}}
 Dat kan. SMB is de enige Everdisk-verbinding die versleuteling ondersteunt. Stel een inlognaam en wachtwoord in, zet dan SMB-versleuteling vereisen aan in Instellingen, Delen. Elke overdracht wordt dan beschermd met SMB3 (AES). Het andere apparaat moet SMB3 ondersteunen, wat moderne Macs en Windows 10 of later doen. Versleuteling is een Premium-functie.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Kunnen mensen mijn bestanden wijzigen of verwijderen via SMB?" closed="true" %}}
+{{% ls-details title="Kunnen mensen mijn bestanden wijzigen of verwijderen via SMB?" closed="true" %}}
 Alleen als je het toestaat. De schakelaar Bestanden bewerken in Instellingen, Delen, Toegang bepaalt dit. Als hij aanstaat, kunnen verbonden apparaten uploaden, hernoemen en verwijderen. Als hij uitstaat, is de share alleen-lezen en kunnen anderen bladeren en bestanden van je telefoon kopiëren, maar niets wijzigen.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Waarom viel mijn SMB-verbinding weg?" closed="true" %}}
+{{% ls-details title="Waarom viel mijn SMB-verbinding weg?" closed="true" %}}
 Je iPhone is de server, en iOS pauzeert apps die te lang op de achtergrond blijven. Houd Everdisk in beeld terwijl een apparaat verbonden is, en sluit de telefoon aan op stroom tijdens lange overdrachten. Zorg er ook voor dat beide apparaten op hetzelfde Wi-Fi zijn gebleven.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="SMB, WebDAV of FTP, welke moet ik gebruiken?" closed="true" %}}
+{{% ls-details title="SMB, WebDAV of FTP, welke moet ik gebruiken?" closed="true" %}}
 Gebruik SMB wanneer je wilt dat de telefoon zich gedraagt als een echte netwerkschijf op een Mac, een andere iPhone, Linux of een NAS, en wanneer je versleuteling wilt. Gebruik WebDAV wanneer je een netwerkschijf wilt die ook goed werkt vanaf Windows. Gebruik FTP voor de breedste compatibiliteit met oudere apparaten en apps. Everdisk kan ze allemaal tegelijk draaien, dus je zit niet vast aan één.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Is Everdisk gratis?" closed="true" %}}
+{{% ls-details title="Is Everdisk gratis?" closed="true" %}}
 Ja, Everdisk is gratis te downloaden en de SMB-server is inbegrepen. De optionele eenmalige Premium-aankoop voegt SMB-versleuteling, aangepaste poorten en een paar andere extra's toe. Je kunt SMB instellen en bestanden delen zonder te betalen.
-{{% /details %}}
+{{% /ls-details %}}
 
 Klaar om het te proberen? [Download Everdisk in de App Store](https://apps.apple.com/app/apple-store/id6751851132?pt=95781850&ct=everappzcom&mt=8) en open je iPhone in Finder in ongeveer een minuut. Vragen of feedback? Mail ons op **support@everappz.com**.

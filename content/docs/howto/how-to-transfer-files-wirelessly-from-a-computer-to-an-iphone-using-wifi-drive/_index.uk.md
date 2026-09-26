@@ -7,7 +7,7 @@ keywords: ["бездротова передача файлів на iPhone", "п
 readingTime: 2
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **Коротко:** Wi-Fi Drive дозволяє передавати файли з будь-якого комп'ютера на iPhone або iPad через Wi-Fi -- без iTunes та кабелів. Використовуйте веб-браузер, Mac Finder або Windows File Explorer. Обидва пристрої повинні бути в одній мережі Wi-Fi.
@@ -18,7 +18,7 @@ Wi-Fi Drive -- це найпростіший спосіб передачі фа�
 
 Ви можете переглянути відеоурок від [**TECHGUYPH**](https://www.youtube.com/channel/UCgpf09gGFE_c_3pPTtTpnzg) або прочитати текстову версію нижче.
 <br><br>
-{{< youtubecard id="CqdqrQ0ge70" title="Can We Wirelessly Put Offline Music on iPhones?" >}}
+{{< ls-youtubecard id="CqdqrQ0ge70" title="Can We Wirelessly Put Offline Music on iPhones?" >}}
 
 ## Бездротова передача файлів з комп'ютера через настільний веб-браузер
 
@@ -90,26 +90,26 @@ iTunes не потрібен!
 
 ## Поширені запитання
 
-{{% details title="Чи потрібен мені iTunes для передачі файлів на iPhone?" closed="true" %}}
+{{% ls-details title="Чи потрібен мені iTunes для передачі файлів на iPhone?" closed="true" %}}
 Ні. Wi-Fi Drive передає файли безпосередньо через вашу локальну мережу Wi-Fi. iTunes не потрібен.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Які додатки підтримують Wi-Fi Drive?" closed="true" %}}
+{{% ls-details title="Які додатки підтримують Wi-Fi Drive?" closed="true" %}}
 Wi-Fi Drive доступний в Evermusic, Flacbox, Evertag та Evervideo для iOS.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Чи повинні обидва пристрої бути в одній мережі Wi-Fi?" closed="true" %}}
+{{% ls-details title="Чи повинні обидва пристрої бути в одній мережі Wi-Fi?" closed="true" %}}
 Так. Ваш комп'ютер та iPhone або iPad повинні бути підключені до однієї локальної мережі Wi-Fi для роботи Wi-Fi Drive.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Чи можу я передавати цілі папки, а не лише окремі файли?" closed="true" %}}
+{{% ls-details title="Чи можу я передавати цілі папки, а не лише окремі файли?" closed="true" %}}
 Так. Wi-Fi Drive підтримує завантаження та скачування цілих папок через інтерфейс веб-браузера.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Чи працює Wi-Fi Drive з Windows?" closed="true" %}}
+{{% ls-details title="Чи працює Wi-Fi Drive з Windows?" closed="true" %}}
 Так. Ви можете використовувати будь-який веб-браузер у Windows або підключитися через Windows File Explorer за допомогою протоколу WebDAV.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Чи можу я використовувати USB-кабель для прискорення передачі?" closed="true" %}}
+{{% ls-details title="Чи можу я використовувати USB-кабель для прискорення передачі?" closed="true" %}}
 Так. Якщо ваш iPhone підключений до Mac через USB під час роботи Wi-Fi Drive, передача буде використовувати кабельне з'єднання для більшої швидкості.
-{{% /details %}}
+{{% /ls-details %}}

@@ -4,7 +4,9 @@ title: 'Documentation'
 ---
 
 
-{{< lottie src="/images/juicy-json/juicy-girl-and-boy-searching-for-the-right-files.json" width="90%" >}}
+{{< ls-lottie src="/images/juicy-json/juicy-girl-and-boy-searching-for-the-right-files.json" width="90%" >}}
+
+{{< ls-docs-search >}}
 
 This section includes helpful documentation for all Everappz apps — including setup instructions, feature breakdowns, and advanced tips.
 
@@ -13,9 +15,9 @@ If you're new or looking to learn more, our guides and FAQs are a great place to
 ## Get Started
 
 {{< cards >}}
-  {{< card icon="book-open" link="/docs/guide" title="User Guide" >}}
-  {{< card icon="question-mark-circle" link="/docs/faq" title="Frequently Asked Questions" >}}
-  {{< card icon="light-bulb" link="/docs/howto" title="How-To" >}}
+  {{< ls-card icon="book-open" link="/docs/guide" title="User Guide" >}}
+  {{< ls-card icon="question-mark-circle" link="/docs/faq" title="Frequently Asked Questions" >}}
+  {{< ls-card icon="light-bulb" link="/docs/howto" title="How-To" >}}
 {{< /cards >}}
 
 - The **User Guide** helps you install, configure, and make the most of our apps.
@@ -31,5 +33,5 @@ If your question isn’t answered in the documentation, please visit our [Suppor
 For legal policies, data handling practices, and user agreements related to our services, refer to the legal documents below:
 
 {{< cards >}}
-  {{< card icon="document-text" link="/legal" title="Legal Center" >}}
+  {{< ls-card icon="document-text" link="/legal" title="Legal Center" >}}
 {{< /cards >}}

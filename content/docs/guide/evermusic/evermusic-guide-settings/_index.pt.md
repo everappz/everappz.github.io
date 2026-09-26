@@ -18,7 +18,7 @@ readingTime: 16
 O ecrã de Configurações é o centro de controlo do Evermusic. A partir daqui pode atualizar para Premium, configurar o leitor de áudio, gerir a sua biblioteca de música, configurar o gestor de ficheiros, personalizar a interface, ativar widgets e CarPlay, fazer backup dos seus dados e aceder a ajuda e informações legais. As secções estão agrupadas sob cabeçalhos: **Compras e atualizações**, preferências da aplicação, **Ajuda** e **Legal e privacidade**.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Ecrã de Configurações do Evermusic" image="/docs/guide/evermusic/evermusic-guide-settings/img/settings-main-screen.webp" >}}
+  {{< ls-card title="" subtitle="Ecrã de Configurações do Evermusic" image="/docs/guide/evermusic/evermusic-guide-settings/img/settings-main-screen.webp" >}}
 {{< /cards >}}
 
 ## Compras e Atualizações

@@ -12,7 +12,7 @@ authors:
     image: "/images/about/artem-meleshko-founder-everappz.webp"
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 ## Care Player de Muzică din Cloud Este Cel Mai Bun pentru iPhone?
 
@@ -91,22 +91,22 @@ Pentru audiofili și oricine care menține o colecție muzicală personală în 
 
 ## Întrebări Frecvente
 
-{{% details title="Pot reda fișiere FLAC pe iPhone fără a le converti?" closed="true" %}}
+{{% ls-details title="Pot reda fișiere FLAC pe iPhone fără a le converti?" closed="true" %}}
 Da. Evermusic redă FLAC, DSD, WAV, ALAC și alte formate fără pierderi nativ pe iPhone. Nu este necesară nicio conversie de fișiere. Pur și simplu conectează-ți contul de stocare cloud și redă în flux sau descarcă fișierele FLAC direct.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Ce player de muzică din cloud funcționează cu Dropbox și Google Drive?" closed="true" %}}
+{{% ls-details title="Ce player de muzică din cloud funcționează cu Dropbox și Google Drive?" closed="true" %}}
 Evermusic suportă Dropbox, Google Drive, OneDrive, Box, MEGA, pCloud, WebDAV, SMB și altele -- peste 12 servicii cloud în total. Cele mai multe aplicații de streaming mainstream precum Spotify și Apple Music nu se conectează la stocarea cloud a terților.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Am nevoie de un abonament pentru a utiliza un player de muzică din cloud?" closed="true" %}}
+{{% ls-details title="Am nevoie de un abonament pentru a utiliza un player de muzică din cloud?" closed="true" %}}
 Depinde de aplicație. Spotify, Apple Music și Deezer necesită abonamente lunare. Evermusic oferă un nivel gratuit și o achiziție Premium unică fără taxe recurente. Îți folosești propriul stocare cloud pentru a-ți găzdui fișierele de muzică.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Care este cel mai bun player de muzică pentru ascultare offline pe iPhone?" closed="true" %}}
+{{% ls-details title="Care este cel mai bun player de muzică pentru ascultare offline pe iPhone?" closed="true" %}}
 Toți jucătorii majori suportă descărcări offline, dar abordarea diferă. Spotify și Apple Music îți permit să descarci piese din cataloagele lor. Evermusic îți permite să descarci propriile fișiere din stocarea cloud pentru redare offline -- ideal pentru zboruri, navete sau zone fără conectivitate.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Pot folosi un player de muzică din cloud cu NAS-ul sau serverul meu de acasă?" closed="true" %}}
+{{% ls-details title="Pot folosi un player de muzică din cloud cu NAS-ul sau serverul meu de acasă?" closed="true" %}}
 Da. Evermusic suportă protocoalele WebDAV și SMB, ceea ce înseamnă că se poate conecta la cele mai multe dispozitive NAS de la Synology, QNAP și Western Digital. Aceasta transformă iPhone-ul tău într-un player la distanță pentru întreaga ta bibliotecă muzicală de acasă.
-{{% /details %}}
+{{% /ls-details %}}

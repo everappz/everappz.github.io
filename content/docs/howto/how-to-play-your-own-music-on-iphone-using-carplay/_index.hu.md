@@ -7,7 +7,7 @@ tags: ["carplay", "iPhone", "helyi zene", "offline lejátszás", "evermusic", "f
 readingTime: 5
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **Röviden:** Használja az [Evermusic](https://apps.apple.com/app/apple-store/id885367198?pt=95781850&ct=everappzcom&mt=8) vagy a [Flacbox](https://apps.apple.com/app/apple-store/id1097564256?pt=95781850&ct=everappzcom&mt=8) alkalmazást saját MP3, FLAC vagy más hangfájlok lejátszásához iPhone-on az Apple CarPlay-en keresztül. Adjon hozzá zenét felhőtárolóból, USB-ről vagy Wi-Fi átvitellel, majd böngéssze könyvtárát, lejátszási listáit és mappáit közvetlenül az autó képernyőjén.
@@ -17,7 +17,7 @@ readingTime: 5
 Szeretné saját zenéjét lejátszani az autóban az Apple CarPlay segítségével? Akár az iPhone-ján, akár felhőtárolóban, akár offline tárolja a dalait, az **Evermusic** és a **Flacbox** alkalmazásokkal könnyedén hallgathatja személyes zenegyűjteményét vezetés közben.
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="CarPlay következő sor" image="/docs/howto/how-to-play-your-own-music-on-iphone-using-carplay/carplay-nowplaying-5.webp" imageStyle="border-radius: clamp(14px, 2vw, 28px);" >}}
+{{< ls-card title="" subtitle="CarPlay következő sor" image="/docs/howto/how-to-play-your-own-music-on-iphone-using-carplay/carplay-nowplaying-5.webp" imageStyle="border-radius: clamp(14px, 2vw, 28px);" >}}
 {{< /cards >}}
 
 Ebben az útmutatóban megmutatjuk, hogyan készítse elő zenefájljait a CarPlay-hez, hogyan rendezze el őket helyes albumborítókkal és száminformációkkal, és hogyan játssza le őket biztonságosan iPhone-járól. Az Evermusic vagy Flacbox segítségével lejátszási listákat hozhat létre, és streamelhet vagy letölthet dalokat olyan szolgáltatásokból, mint a **Google Drive**, **Dropbox**, **OneDrive**, **NAS** vagy az otthoni számítógépe.
@@ -25,8 +25,8 @@ Ebben az útmutatóban megmutatjuk, hogyan készítse elő zenefájljait a CarPl
 Ezek az alkalmazások tökéletesek mindenkinek, aki teljes kontrollt szeretne a zenei könyvtára felett.
 
 {{< cards cols="2">}}
-{{< card link="https://apps.apple.com/app/apple-store/id885367198?pt=95781850&ct=everappzcom&mt=8" title="Töltse le az Evermusic-ot" icon="download" tag="Free" >}}
-{{< card link="https://apps.apple.com/app/apple-store/id1097564256?pt=95781850&ct=everappzcom&mt=8" title="Töltse le a Flacbox-ot" icon="download" tag="Free" >}}
+{{< ls-card link="https://apps.apple.com/app/apple-store/id885367198?pt=95781850&ct=everappzcom&mt=8" title="Töltse le az Evermusic-ot" icon="download" tag="Free" >}}
+{{< ls-card link="https://apps.apple.com/app/apple-store/id1097564256?pt=95781850&ct=everappzcom&mt=8" title="Töltse le a Flacbox-ot" icon="download" tag="Free" >}}
 {{< /cards >}}
 
 ## Fájlok hozzáadása az alkalmazáshoz
@@ -106,7 +106,7 @@ Fájlok átvitele vezeték nélkül, ahogy [itt](/docs/howto/how-to-transfer-fil
 Miután elindította Evermusic vagy Flacbox alkalmazásainkat CarPlay módban, a fő felületet 4 fő lapra osztva fogja látni: Könyvtár, Kapcsolatok, Helyi fájlok, Beállítások.
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="CarPlay főmenü" image="/docs/howto/how-to-play-your-own-music-on-iphone-using-carplay/library-with-images.webp" imageStyle="border-radius: clamp(14px, 2vw, 28px);" >}}
+{{< ls-card title="" subtitle="CarPlay főmenü" image="/docs/howto/how-to-play-your-own-music-on-iphone-using-carplay/library-with-images.webp" imageStyle="border-radius: clamp(14px, 2vw, 28px);" >}}
 {{< /cards >}}
 
 ## Könyvtár
@@ -116,7 +116,7 @@ Az Evermusic **Könyvtár** lapja az a központi hely, ahol minden zenéje rends
 Ez a képernyő gyors hozzáférést biztosít kedvenceihez, legutóbbiakhoz, lejátszási listákhoz, könyvjelzőkhöz és az összes hozzáadott számhoz. Folytathatja a lejátszást az utolsó munkamenetből, megtekintheti a még nem lejátszott dalokat, és felfedezhet zenéket címkék vagy forrástípus szerint.
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Könyvtár" image="/docs/howto/how-to-play-your-own-music-on-iphone-using-carplay/library-with-images-3.webp" imageStyle="border-radius: clamp(14px, 2vw, 28px);" >}}
+{{< ls-card title="" subtitle="Könyvtár" image="/docs/howto/how-to-play-your-own-music-on-iphone-using-carplay/library-with-images-3.webp" imageStyle="border-radius: clamp(14px, 2vw, 28px);" >}}
 {{< /cards >}}
 
 A **Könyvtár** rész a következő kategóriákat tartalmazza:
@@ -139,7 +139,7 @@ A **Könyvtár** rész a következő kategóriákat tartalmazza:
 - **Online fájlok** – Közvetlenül felhőszolgáltatásokból streamelt zene
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Album nézet" image="/docs/howto/how-to-play-your-own-music-on-iphone-using-carplay/albums.webp" imageStyle="border-radius: clamp(14px, 2vw, 28px);" >}}
+{{< ls-card title="" subtitle="Album nézet" image="/docs/howto/how-to-play-your-own-music-on-iphone-using-carplay/albums.webp" imageStyle="border-radius: clamp(14px, 2vw, 28px);" >}}
 {{< /cards >}}
 
 Bármely almenüt megnyithatja, és egy számra koppintva azonnal elindíthatja a lejátszást. Részletesebb információkért tekintse meg a teljes [Zenei könyvtár útmutatót](/docs/guide/evermusic/evermusic-guide-music-library/).
@@ -150,7 +150,7 @@ Bármely almenüt megnyithatja, és egy számra koppintva azonnal elindíthatja 
 A **Kapcsolatok** lap az Ön központi helye az összes csatlakoztatott felhőtárolási szolgáltatás és helyi hálózati eszköz eléréséhez és kezeléséhez.
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Kapcsolatok" image="/docs/howto/how-to-play-your-own-music-on-iphone-using-carplay/connections-with-images-3.webp" imageStyle="border-radius: clamp(14px, 2vw, 28px);" >}}
+{{< ls-card title="" subtitle="Kapcsolatok" image="/docs/howto/how-to-play-your-own-music-on-iphone-using-carplay/connections-with-images-3.webp" imageStyle="border-radius: clamp(14px, 2vw, 28px);" >}}
 {{< /cards >}}
 
 Innen csatlakozhat népszerű felhőplatformokhoz, mint a Dropbox, Google Drive, OneDrive, MEGA, iCloud Drive, sőt hálózati meghajtókhoz is, mint az SMB, DLNA és WebDAV. Csatlakozás után böngészhet, streamelhet, letölthet és kezelhet fájlokat közvetlenül az alkalmazáson belül.
@@ -172,7 +172,7 @@ Ha többet szeretne megtudni a felhő- és hálózati könyvtárak csatlakoztat�
 A **Helyi fájlok** rész az Ön központi helye az eszközén vagy az Evermusic alkalmazás **Dokumentumok** könyvtárában közvetlenül tárolt hangfájlok kezeléséhez. Tartalmazza a felhőtárolóból letöltött offline fájlokat, a hanglejátszó gyorsítótár-fájljait és azokat a mappákat, amelyeket offline lejátszásra tett elérhetővé. Ez a rész biztosítja, hogy internetkapcsolat nélkül is élvezhesse zenei könyvtárát.
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Helyi fájlok" image="/docs/howto/how-to-play-your-own-music-on-iphone-using-carplay/local-files-with-images.webp" imageStyle="border-radius: clamp(14px, 2vw, 28px);" >}}
+{{< ls-card title="" subtitle="Helyi fájlok" image="/docs/howto/how-to-play-your-own-music-on-iphone-using-carplay/local-files-with-images.webp" imageStyle="border-radius: clamp(14px, 2vw, 28px);" >}}
 {{< /cards >}}
 
 A **Helyi fájlok** képernyő a következő fő részekre van osztva:
@@ -186,7 +186,7 @@ A **Helyi fájlok** képernyő a következő fő részekre van osztva:
 - **Hanglejátszó** – A crossfade és teljesítményoptimalizáláshoz használt gyorsítótármappa. A beállításokban letiltható vagy törölhető.
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Eszközmappák a Helyi fájlokban" image="/docs/howto/how-to-play-your-own-music-on-iphone-using-carplay/local-files-device-folders.webp" imageStyle="border-radius: clamp(14px, 2vw, 28px);" >}}
+{{< ls-card title="" subtitle="Eszközmappák a Helyi fájlokban" image="/docs/howto/how-to-play-your-own-music-on-iphone-using-carplay/local-files-device-folders.webp" imageStyle="border-radius: clamp(14px, 2vw, 28px);" >}}
 {{< /cards >}}
 
 Többet megtudhat a teljes [Helyi fájlok útmutatóban](/docs/guide/evermusic/evermusic-guide-local-files/).
@@ -194,7 +194,7 @@ Többet megtudhat a teljes [Helyi fájlok útmutatóban](/docs/guide/evermusic/e
 ## Mappa nézet
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Helyi mappa borítókkal" image="/docs/howto/how-to-play-your-own-music-on-iphone-using-carplay/local-folder-with-images-2.webp" imageStyle="border-radius: clamp(14px, 2vw, 28px);" >}}
+{{< ls-card title="" subtitle="Helyi mappa borítókkal" image="/docs/howto/how-to-play-your-own-music-on-iphone-using-carplay/local-folder-with-images-2.webp" imageStyle="border-radius: clamp(14px, 2vw, 28px);" >}}
 {{< /cards >}}
 
 Amikor megnyit egy mappát, a tetején hasznos műveletek készletét találja:
@@ -206,7 +206,7 @@ Amikor megnyit egy mappát, a tetején hasznos műveletek készletét találja:
 ## Tartalom mélységi korlát
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Tartalom mélységi korlát" image="/docs/howto/how-to-play-your-own-music-on-iphone-using-carplay/content-depth-limit.webp" imageStyle="border-radius: clamp(14px, 2vw, 28px);" >}}
+{{< ls-card title="" subtitle="Tartalom mélységi korlát" image="/docs/howto/how-to-play-your-own-music-on-iphone-using-carplay/content-depth-limit.webp" imageStyle="border-radius: clamp(14px, 2vw, 28px);" >}}
 {{< /cards >}}
 
 CarPlay használatakor előfordulhat a **"Tartalom mélységi korlát"** hiba — különösen, ha zenei könyvtárában sok mélyen beágyazott mappa van.
@@ -227,7 +227,7 @@ Ez a megoldás zökkenőmentes élményt biztosít a zene böngészése során a
 ## Most játszott képernyő
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="CarPlay Most játszott bejegyzés" image="/docs/howto/how-to-play-your-own-music-on-iphone-using-carplay/carplay-nowplaying.webp" imageStyle="border-radius: clamp(14px, 2vw, 28px);" >}}
+{{< ls-card title="" subtitle="CarPlay Most játszott bejegyzés" image="/docs/howto/how-to-play-your-own-music-on-iphone-using-carplay/carplay-nowplaying.webp" imageStyle="border-radius: clamp(14px, 2vw, 28px);" >}}
 {{< /cards >}}
 
 Bármely hangfájlra koppintva az automatikusan hozzáadódik a **lejátszó sorához**.
@@ -244,7 +244,7 @@ Ez a képernyő lehetővé teszi, hogy vezetés közben kézben tartsa a hallgat
 ## Beállítások
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Beállítások menü" image="/docs/howto/how-to-play-your-own-music-on-iphone-using-carplay/settings-2.webp" imageStyle="border-radius: clamp(14px, 2vw, 28px);" >}}
+{{< ls-card title="" subtitle="Beállítások menü" image="/docs/howto/how-to-play-your-own-music-on-iphone-using-carplay/settings-2.webp" imageStyle="border-radius: clamp(14px, 2vw, 28px);" >}}
 {{< /cards >}}
 
 A CarPlay felület **Beállítások** része lehetővé teszi az alkalmazás viselkedésének testreszabását vezetés közben. Ezek a beállítások segítenek a teljesítmény javításában, a zavaró tényezők csökkentésében és a simább hallgatási élmény biztosításában.
@@ -260,7 +260,7 @@ A CarPlay felület **Beállítások** része lehetővé teszi az alkalmazás vis
 - **Rendezés** – Állítsa be, hogyan legyen a tartalom rendezve a CarPlay menükben, mint a fájlok, zenei könyvtár és kapcsolatok.
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Rendezési opciók menü" image="/docs/howto/how-to-play-your-own-music-on-iphone-using-carplay/settings-sort.webp" imageStyle="border-radius: clamp(14px, 2vw, 28px);" >}}
+{{< ls-card title="" subtitle="Rendezési opciók menü" image="/docs/howto/how-to-play-your-own-music-on-iphone-using-carplay/settings-sort.webp" imageStyle="border-radius: clamp(14px, 2vw, 28px);" >}}
 {{< /cards >}}
 
 - **Tartalom betöltési korlát** – Állítsa be, hány elem jelenjen meg képernyőnként. Az alacsonyabb korlátok javítják a betöltési sebességet és csökkentik a görgetési erőfeszítést.
@@ -271,19 +271,19 @@ A CarPlay felület **Beállítások** része lehetővé teszi az alkalmazás vis
 - **Hangekvalizátor**
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Ekvalizátor konfigurációs panel" image="/docs/howto/how-to-play-your-own-music-on-iphone-using-carplay/settings-eq-configuration.webp" imageStyle="border-radius: clamp(14px, 2vw, 28px);" >}}
+{{< ls-card title="" subtitle="Ekvalizátor konfigurációs panel" image="/docs/howto/how-to-play-your-own-music-on-iphone-using-carplay/settings-eq-configuration.webp" imageStyle="border-radius: clamp(14px, 2vw, 28px);" >}}
 {{< /cards >}}
 
 Engedélyezze a beépített hangekvalizátort, állítsa be a frekvenciasávokat, és válasszon előre konfigurált beállítások közül a személyre szabott hangélményhez.
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Ekvalizátor előbeállítások listája" image="/docs/howto/how-to-play-your-own-music-on-iphone-using-carplay/settings-equalizer.webp" imageStyle="border-radius: clamp(14px, 2vw, 28px);" >}}
+{{< ls-card title="" subtitle="Ekvalizátor előbeállítások listája" image="/docs/howto/how-to-play-your-own-music-on-iphone-using-carplay/settings-equalizer.webp" imageStyle="border-radius: clamp(14px, 2vw, 28px);" >}}
 {{< /cards >}}
 
 - **Crossfade lejátszás**
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Crossfade lejátszás" image="/docs/howto/how-to-play-your-own-music-on-iphone-using-carplay/settings-crossfade-playback.webp" imageStyle="border-radius: clamp(14px, 2vw, 28px);" >}}
+{{< ls-card title="" subtitle="Crossfade lejátszás" image="/docs/howto/how-to-play-your-own-music-on-iphone-using-carplay/settings-crossfade-playback.webp" imageStyle="border-radius: clamp(14px, 2vw, 28px);" >}}
 {{< /cards >}}
 
 Hozzon létre sima átmeneteket a dalok között az egyik szám végének és a következő elejének átfedésével. A crossfade időtartama testreszabható.
@@ -291,7 +291,7 @@ Hozzon létre sima átmeneteket a dalok között az egyik szám végének és a 
 - **Szünetmentes lejátszás**
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Szünetmentes lejátszás" image="/docs/howto/how-to-play-your-own-music-on-iphone-using-carplay/settings-gapless-playback.webp" imageStyle="border-radius: clamp(14px, 2vw, 28px);" >}}
+{{< ls-card title="" subtitle="Szünetmentes lejátszás" image="/docs/howto/how-to-play-your-own-music-on-iphone-using-carplay/settings-gapless-playback.webp" imageStyle="border-radius: clamp(14px, 2vw, 28px);" >}}
 {{< /cards >}}
 
 Játssza le a számokat zökkenőmentesen, szünetek nélkül — ideális élő felvételekhez, DJ-mixekhez és konceptalbumokhoz.
@@ -307,7 +307,7 @@ További információkért olvassa el a teljes [Beállítások útmutatót](/doc
 Az **Evermusic** és a **Flacbox** segítségével a saját zene lejátszása az autóban az Apple CarPlay-en keresztül egyszerűvé, rugalmassá és megbízhatóvá válik. Akár felhőtárolóból streamel, akár helyi fájlokhoz fér hozzá, akár letöltött számokat játszik le offline — ezek az alkalmazások úgy vannak kialakítva, hogy teljes kontrollt biztosítsanak a hallgatási élmény felett vezetés közben.
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="CarPlay Most játszott képernyő" image="/docs/howto/how-to-play-your-own-music-on-iphone-using-carplay/carplay-nowplaying-2.webp" imageStyle="border-radius: clamp(14px, 2vw, 28px);" >}}
+{{< ls-card title="" subtitle="CarPlay Most játszott képernyő" image="/docs/howto/how-to-play-your-own-music-on-iphone-using-carplay/carplay-nowplaying-2.webp" imageStyle="border-radius: clamp(14px, 2vw, 28px);" >}}
 {{< /cards >}}
 
 A zökkenőmentes felhőintegrációtól az offline mappa szinkronizálásig, a mélyreható zenei könyvtár szervezéstől a testreszabható lejátszásig ekvalizátorokkal és crossfade-del — ezek a funkciók az Evermusic-ot és a Flacbox-ot többé teszik, mint egyszerű hanglejátszókat. Okos CarPlay társak, amelyeket audiofilek, ingázók és mindennapi felhasználók számára terveztek.
@@ -325,22 +325,22 @@ Fedezzen fel további funkciókat, beállításokat és útmutatókat teljes [Ev
 
 ## Gyakran ismételt kérdések
 
-{{% details title="Milyen zenefájl-formátumok működnek a CarPlay-jel az Evermusic-ban és a Flacbox-ban?" closed="true" %}}
+{{% ls-details title="Milyen zenefájl-formátumok működnek a CarPlay-jel az Evermusic-ban és a Flacbox-ban?" closed="true" %}}
 Az Evermusic és a Flacbox hangformátumok széles skáláját támogatja, beleértve az MP3, FLAC, AAC, WAV, AIFF, OGG, WMA és még sok mást. Minden támogatott formátum működik a CarPlay-en keresztül konverzió nélkül.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Lejátszhatok zenét a Google Drive-ról vagy a Dropboxból CarPlay-en?" closed="true" %}}
+{{% ls-details title="Lejátszhatok zenét a Google Drive-ról vagy a Dropboxból CarPlay-en?" closed="true" %}}
 Igen. Mind az Evermusic, mind a Flacbox lehetővé teszi a csatlakozást felhőtárolási szolgáltatásokhoz, mint a Google Drive, Dropbox, OneDrive, MEGA és mások. Közvetlenül streamelheti a zenét, vagy letöltheti offline CarPlay lejátszáshoz.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Szükségem van internetkapcsolatra a zene lejátszásához CarPlay-en?" closed="true" %}}
+{{% ls-details title="Szükségem van internetkapcsolatra a zene lejátszásához CarPlay-en?" closed="true" %}}
 Nem. Letölthet zenét a felhőtárolóból offline lejátszáshoz. Miután a fájlok helyileg vannak tárolva az iPhone-ján, CarPlay-en keresztül játszhatók le internetkapcsolat nélkül.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Miért jelenik meg a Tartalom mélységi korlát hiba CarPlay-en?" closed="true" %}}
+{{% ls-details title="Miért jelenik meg a Tartalom mélységi korlát hiba CarPlay-en?" closed="true" %}}
 A CarPlay korlátozza, hány mappaszintet tud megjeleníteni. Ha a zenéje mélyen beágyazott mappákban van, adja hozzá ezeket a mappákat a Kedvencekhez, hogy közvetlenül a Kedvencek menüből érhesse el őket a CarPlay-ben.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Ingyenesen használható az Evermusic vagy a Flacbox CarPlay-jel?" closed="true" %}}
+{{% ls-details title="Ingyenesen használható az Evermusic vagy a Flacbox CarPlay-jel?" closed="true" %}}
 Mindkét alkalmazás ingyenesen letölthető teljes CarPlay támogatással, ekvalizátorral és lejátszási funkciókkal. Az ingyenes verzióknak korlátai vannak a felhőkapcsolatok (3), lejátszási listák (10) és offline mappák (1) számában. A Premium eltávolít minden korlátot.
-{{% /details %}}
+{{% /ls-details %}}

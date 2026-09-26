@@ -7,7 +7,7 @@ tags: ["musik", "moln", "streaming", "synkronisering", "icloud", "bibliotek"]
 keywords: ["importera iCloud-musik Evermusic", "Flacbox iCloud-synkronisering", "Evermusic streama från iCloud", "musikbibliotek iOS-app", "Flacbox metadataläsare", "iCloud musikstreaming iPhone"]
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **Sammanfattning:** Du kan streama ditt iCloud Drive-musikbibliotek i Evermusic och Flacbox utan att ladda ner filer till din enhet. Anslut iCloud Drive i appen, aktivera Online musiksynkronisering för att bygga ditt bibliotek, konfigurera metadataläsaren för att organisera efter artist/album/genre, och valfritt aktivera Offline-läge för att ladda ner album för lyssning utan internet. Dessa steg fungerar också med Google Drive, Dropbox, OneDrive och andra molntjänster som stöds.
@@ -75,26 +75,26 @@ Det var allt för idag! Vi hoppas att denna guide hjälper dig konfigurera synkr
 
 ## Vanliga frågor
 
-{{% details title="Kan jag streama iCloud-musik utan att ladda ner filer till min iPhone?" closed="true" %}}
+{{% ls-details title="Kan jag streama iCloud-musik utan att ladda ner filer till min iPhone?" closed="true" %}}
 Ja. Appen skapar länkar till dina molnfiler och streamar dem på begäran. Filer laddas inte ner om du inte explicit aktiverar Offline-läge.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Varför är iCloud-musikimporten långsam?" closed="true" %}}
+{{% ls-details title="Varför är iCloud-musikimporten långsam?" closed="true" %}}
 Långsam import orsakas vanligen av metadataläsning på ett stort bibliotek via mobilanslutning. Aktivera Bakgrundssynkronisering och överväg Mac-versionen.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Fungerar denna guide med andra molntjänster?" closed="true" %}}
+{{% ls-details title="Fungerar denna guide med andra molntjänster?" closed="true" %}}
 Ja. Samma steg gäller för Google Drive, Dropbox, OneDrive, SMB, WebDAV och alla andra molntjänster som stöds.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Hur överför jag mitt musikbibliotek från Mac till iPhone?" closed="true" %}}
+{{% ls-details title="Hur överför jag mitt musikbibliotek från Mac till iPhone?" closed="true" %}}
 Använd funktionen för säkerhetskopiering/återställning i appinställningarna.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Kommer metadataläsaren att ändra mina originalljudfiler?" closed="true" %}}
+{{% ls-details title="Kommer metadataläsaren att ändra mina originalljudfiler?" closed="true" %}}
 Nej. Metadataläsaren uppdaterar bara visningsinformation i musikbiblioteket.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Hur gör jag album tillgängliga offline?" closed="true" %}}
+{{% ls-details title="Hur gör jag album tillgängliga offline?" closed="true" %}}
 Tryck **Fler åtgärder** på valfri molnmapp och välj **Aktivera offline-läge**. Appen laddar ner alla filer och håller dem synkroniserade automatiskt.
-{{% /details %}}
+{{% /ls-details %}}

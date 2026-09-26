@@ -33,7 +33,7 @@ readingTime: 14
 У верхньому правому куті екрана «Файли» є кнопка «Передачі» (значок з крутними стрілками). Натисніть її, щоб відкрити Чергу передач, де можна відстежувати всі завантаження та вивантаження з усіх джерел.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Файли Evervideo у підключених сховищах" image="/docs/guide/evervideo/img/evervideo-files-connected-storages.webp" >}}
+  {{< ls-card title="" subtitle="Файли Evervideo у підключених сховищах" image="/docs/guide/evervideo/img/evervideo-files-connected-storages.webp" >}}
 {{< /cards >}}
 
 ## Підключення до хмарного сховища
@@ -41,7 +41,7 @@ readingTime: 14
 Розділ «Хмарне сховище» вкладки «Файли» — це місце, де розташовані всі підключені облікові записи, NAS, медіасервери та потоки — поруч, в одному прокручуваному списку.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Розділ хмарного сховища у вкладці «Файли» Evervideo" image="/docs/guide/evervideo/img/evervideo-connections.webp" >}}
+  {{< ls-card title="" subtitle="Розділ хмарного сховища у вкладці «Файли» Evervideo" image="/docs/guide/evervideo/img/evervideo-connections.webp" >}}
 {{< /cards >}}
 
 - Відкрийте вкладку **Файли**.
@@ -51,7 +51,7 @@ readingTime: 14
 - Введіть свої облікові дані на офіційній сторінці авторизації хмарного провайдера, потім натисніть **Готово**.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Підключення сервісу хмарного сховища в Evervideo" image="/docs/guide/evervideo/img/evervideo-connect-cloud-storage.webp" >}}
+  {{< ls-card title="" subtitle="Підключення сервісу хмарного сховища в Evervideo" image="/docs/guide/evervideo/img/evervideo-connect-cloud-storage.webp" >}}
 {{< /cards >}}
 
 Якщо виникнуть проблеми, перевірте підключення до інтернету та логін / пароль. У Premium-версії застосунку можна додати необмежену кількість сервісів; безкоштовна версія підтримує до трьох.
@@ -161,7 +161,7 @@ Evervideo має нативну підтримку RTSP, тому можна в�
 - За потреби введіть облікові дані для завершення з'єднання.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Доступні пристрої Evervideo в локальній мережі" image="/docs/guide/evervideo/img/evervideo-available-devices.webp" >}}
+  {{< ls-card title="" subtitle="Доступні пристрої Evervideo в локальній мережі" image="/docs/guide/evervideo/img/evervideo-available-devices.webp" >}}
 {{< /cards >}}
 
 ## Wi-Fi Drive
@@ -169,7 +169,7 @@ Evervideo має нативну підтримку RTSP, тому можна в�
 Wi-Fi Drive дозволяє бездротово передавати файли з комп'ютера на iOS-пристрій через будь-який браузер на ПК, Finder або File Explorer. Пристрій і комп'ютер мають бути в одній Wi-Fi мережі.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Wi-Fi Drive Evervideo" image="/docs/guide/evervideo/img/evervideo-wifi-drive.webp" >}}
+  {{< ls-card title="" subtitle="Wi-Fi Drive Evervideo" image="/docs/guide/evervideo/img/evervideo-wifi-drive.webp" >}}
 {{< /cards >}}
 
 ### Увімкнення Wi-Fi Drive
@@ -201,7 +201,7 @@ iTunes File Sharing (тепер Finder File Sharing на macOS Catalina і пі�
 Натисніть на будь-який підключений хмарний сервіс, щоб відкрити файловий браузер. Папки показують відеомініатюри, коли вони доступні, і натискання на відео одразу починає відтворення, продовжуючи завантаження решти файлу у фоновому режимі.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Перегляд папок у підключених сховищах Evervideo" image="/docs/guide/evervideo/img/evervideo-all-connected-device-folders.webp" >}}
+  {{< ls-card title="" subtitle="Перегляд папок у підключених сховищах Evervideo" image="/docs/guide/evervideo/img/evervideo-all-connected-device-folders.webp" >}}
 {{< /cards >}}
 
 ## Швидкий доступ
@@ -209,7 +209,7 @@ iTunes File Sharing (тепер Finder File Sharing на macOS Catalina і пі�
 Розділ «Швидкий доступ» розташований у верхній частині вкладки «Файли». Він надає швидкий доступ до улюблених і нещодавно відкритих файлів і папок — як із хмарних сервісів, так і з локального сховища. Щоразу, коли ви відкриваєте файл або папку з хмари, вона додається до списку «Нещодавно відкриті». Можна позначати глибоко вкладені папки як «Улюблені», щоб швидко отримувати до них доступ без навігації через структуру каталогів.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Онлайн-посилання та швидкий доступ Evervideo" image="/docs/guide/evervideo/img/evervideo-connections-online-links.webp" >}}
+  {{< ls-card title="" subtitle="Онлайн-посилання та швидкий доступ Evervideo" image="/docs/guide/evervideo/img/evervideo-connections-online-links.webp" >}}
 {{< /cards >}}
 
 ## Файли в цьому застосунку
@@ -217,7 +217,7 @@ iTunes File Sharing (тепер Finder File Sharing на macOS Catalina і пі�
 Цей розділ показує файли та папки, збережені в ізольованій папці Documents Evervideo — все, що ви завантажили з хмари, передали через Wi-Fi Drive, скопіювали через Finder File Sharing або імпортували з іншого застосунку.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Файли в застосунку Evervideo" image="/docs/guide/evervideo/img/evervideo-files-in-this-application.webp" >}}
+  {{< ls-card title="" subtitle="Файли в застосунку Evervideo" image="/docs/guide/evervideo/img/evervideo-files-in-this-application.webp" >}}
 {{< /cards >}}
 
 ### Папка Documents
@@ -225,7 +225,7 @@ iTunes File Sharing (тепер Finder File Sharing на macOS Catalina і пі�
 Папка Documents є кореневою для всього в «Файлах у цьому застосунку». Можна створювати підпапки, перейменовувати файли, переміщувати їх і організовувати на свій розсуд.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Локальні файли Evervideo — папка Documents" image="/docs/guide/evervideo/img/evervideo-local-files-documents.webp" >}}
+  {{< ls-card title="" subtitle="Локальні файли Evervideo — папка Documents" image="/docs/guide/evervideo/img/evervideo-local-files-documents.webp" >}}
 {{< /cards >}}
 
 ## Файли на цьому iPhone / iPad / Mac
@@ -238,7 +238,7 @@ iTunes File Sharing (тепер Finder File Sharing на macOS Catalina і пі�
 Також можна використати «Підключити папку», щоб створити посилання на папку на пристрої з доступом для читання / запису — ідеально для роботи з папкою на iCloud Drive або підключеним USB-диском без копіювання.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Файли на цьому пристрої у Evervideo" image="/docs/guide/evervideo/img/evervideo-files-on-this-device.webp" >}}
+  {{< ls-card title="" subtitle="Файли на цьому пристрої у Evervideo" image="/docs/guide/evervideo/img/evervideo-files-on-this-device.webp" >}}
 {{< /cards >}}
 
 ## Спеціальні папки
@@ -276,7 +276,7 @@ iTunes File Sharing (тепер Finder File Sharing на macOS Catalina і пі�
 Натисніть **«...»** у верхньому правому куті і виберіть **Вибрати**, щоб увійти в режим вибору. Прапорці з'являться біля кожного файлу та папки. Натисніть, щоб вибрати один або кілька елементів, потім виконайте пакетні дії: «Відтворити наступним», «Відтворити пізніше», «Додати до медіатеки», «Додати до плейлисту», «Копіювати», «Вивантажити», «Перемістити», «Перейменувати» або «Видалити».
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Режим вибору у файловому менеджері Evervideo" image="/docs/guide/evervideo/img/evervideo-selection-mode-in-files.webp" >}}
+  {{< ls-card title="" subtitle="Режим вибору у файловому менеджері Evervideo" image="/docs/guide/evervideo/img/evervideo-selection-mode-in-files.webp" >}}
 {{< /cards >}}
 
 Якщо ви хочете використовувати підключене хмарне сховище лише для читання (щоб запобігти випадковому видаленню), увімкніть «Налаштування → Файловий менеджер → Редагувати онлайн файли → Вимк.», щоб приховати всі деструктивні операції з інтерфейсу.
@@ -318,13 +318,13 @@ iTunes File Sharing (тепер Finder File Sharing на macOS Catalina і пі�
 У верхньому правому куті вкладки «Файли» є кнопка **Передачі** (значок з крутними стрілками). Натисніть її, щоб відкрити Чергу передач — список усіх активних завантажень і вивантажень з усіх джерел із реальним часом, прогресом, швидкістю і ETA для кожного файлу.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Черга передач файлів Evervideo" image="/docs/guide/evervideo/img/evervideo-file-transfers.webp" >}}
+  {{< ls-card title="" subtitle="Черга передач файлів Evervideo" image="/docs/guide/evervideo/img/evervideo-file-transfers.webp" >}}
 {{< /cards >}}
 
 Можна поставити передачі на паузу, відновити, повторити невдалі, переставити елементи для пріоритизації конкретних завантажень або скасувати їх по одному. Також можна налаштувати швидкість черги передач (максимальна кількість паралельних завдань), тип мережі (тільки Wi-Fi або Wi-Fi + Мобільна мережа) і фонові передачі в «Налаштування → Файловий менеджер».
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Дії в черзі передач файлів Evervideo" image="/docs/guide/evervideo/img/evervideo-file-transfers-actions.webp" >}}
+  {{< ls-card title="" subtitle="Дії в черзі передач файлів Evervideo" image="/docs/guide/evervideo/img/evervideo-file-transfers-actions.webp" >}}
 {{< /cards >}}
 
 ## Офлайн режим та синхронізовані офлайн папки

@@ -33,7 +33,7 @@ Kartica Datoteke podijeljena je na jasne odjeljke koji se prikazuju ovim redosli
 U gornjem desnom kutu zaslona Datoteke nalazi se gumb Prijenosi (ikona strelica u vrtnji). Dodirnite ga za otvaranje Reda prijenosa gdje pratite svako preuzimanje i prijenose na svim vašim izvorima.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Datoteke Evervideo na povezanim pohranama" image="/docs/guide/evervideo/img/evervideo-files-connected-storages.webp" >}}
+  {{< ls-card title="" subtitle="Datoteke Evervideo na povezanim pohranama" image="/docs/guide/evervideo/img/evervideo-files-connected-storages.webp" >}}
 {{< /cards >}}
 
 ## Spajanje na pohranu u oblaku
@@ -41,7 +41,7 @@ U gornjem desnom kutu zaslona Datoteke nalazi se gumb Prijenosi (ikona strelica 
 Odjeljak Pohrana u oblaku kartice Datoteke je mjesto gdje živi svaki povezani račun, NAS, medijski server i stream — jedan pokraj drugog, u jednom pomičnom popisu.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Odjeljak pohrane u oblaku Evervideo u kartici Datoteke" image="/docs/guide/evervideo/img/evervideo-connections.webp" >}}
+  {{< ls-card title="" subtitle="Odjeljak pohrane u oblaku Evervideo u kartici Datoteke" image="/docs/guide/evervideo/img/evervideo-connections.webp" >}}
 {{< /cards >}}
 
 - Otvorite karticu **Datoteke**.
@@ -51,7 +51,7 @@ Odjeljak Pohrana u oblaku kartice Datoteke je mjesto gdje živi svaki povezani r
 - Unesite svoje vjerodajnice na službenoj stranici za autorizaciju koju je pružio cloud pružatelj, zatim dodirnite **Završeno**.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evervideo — Spajanje usluge pohrane u oblaku" image="/docs/guide/evervideo/img/evervideo-connect-cloud-storage.webp" >}}
+  {{< ls-card title="" subtitle="Evervideo — Spajanje usluge pohrane u oblaku" image="/docs/guide/evervideo/img/evervideo-connect-cloud-storage.webp" >}}
 {{< /cards >}}
 
 Ako naiđete na probleme, provjerite svoju internetsku vezu i lozinku. U Premium verziji aplikacije možete dodati neograničen broj usluga; besplatna verzija podržava do tri.
@@ -159,7 +159,7 @@ Ovaj odjeljak prikazuje svaki uređaj na vašoj lokalnoj mreži na koji se može
 - Ako je potrebno, unesite podatke za prijavu za dovršetak veze.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Dostupni uređaji Evervideo na lokalnoj mreži" image="/docs/guide/evervideo/img/evervideo-available-devices.webp" >}}
+  {{< ls-card title="" subtitle="Dostupni uređaji Evervideo na lokalnoj mreži" image="/docs/guide/evervideo/img/evervideo-available-devices.webp" >}}
 {{< /cards >}}
 
 ## Wi-Fi Drive
@@ -167,7 +167,7 @@ Ovaj odjeljak prikazuje svaki uređaj na vašoj lokalnoj mreži na koji se može
 Wi-Fi Drive omogućuje bežični prijenos datoteka s računala na vaš iOS uređaj putem bilo kojeg desktop preglednika, Findera ili File Explorera. Uređaj i računalo moraju biti na istoj Wi-Fi mreži.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evervideo Wi-Fi Drive" image="/docs/guide/evervideo/img/evervideo-wifi-drive.webp" >}}
+  {{< ls-card title="" subtitle="Evervideo Wi-Fi Drive" image="/docs/guide/evervideo/img/evervideo-wifi-drive.webp" >}}
 {{< /cards >}}
 
 ### Omogućavanje Wi-Fi Drive
@@ -199,7 +199,7 @@ Umetnite USB disk ili SD karticu u iPhone, iPad ili Mac putem Lightning-to-USB /
 Dodirnite bilo koju povezanu cloud uslugu za otvaranje njezina preglednika datoteka. Mape prikazuju video minijature kada su dostupne, a dodirivanje videozapisa odmah pokreće reprodukciju dok nastavlja streamati ostatak datoteke u pozadini.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evervideo — Pregledavanje mapa u povezanim pohranama" image="/docs/guide/evervideo/img/evervideo-all-connected-device-folders.webp" >}}
+  {{< ls-card title="" subtitle="Evervideo — Pregledavanje mapa u povezanim pohranama" image="/docs/guide/evervideo/img/evervideo-all-connected-device-folders.webp" >}}
 {{< /cards >}}
 
 ## Brzi pristup
@@ -207,7 +207,7 @@ Dodirnite bilo koju povezanu cloud uslugu za otvaranje njezina preglednika datot
 Odjeljak Brzi pristup nalazi se na vrhu kartice Datoteke. Daje vam brzi pristup omiljenim i nedavno otvorenim datotekama i mapama — i iz cloud usluga i iz pohrane na uređaju. Kad god otvorite datoteku ili mapu iz oblaka, dodaje se na popis Nedavno otvoreno. Možete označiti duboko ugniježđene mape kao Omiljene za brzi pristup bez kopanja kroz strukturu direktorija.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evervideo online veze i brzi pristup" image="/docs/guide/evervideo/img/evervideo-connections-online-links.webp" >}}
+  {{< ls-card title="" subtitle="Evervideo online veze i brzi pristup" image="/docs/guide/evervideo/img/evervideo-connections-online-links.webp" >}}
 {{< /cards >}}
 
 ## Datoteke u ovoj aplikaciji
@@ -215,7 +215,7 @@ Odjeljak Brzi pristup nalazi se na vrhu kartice Datoteke. Daje vam brzi pristup 
 Ovaj odjeljak prikazuje datoteke i mape pohranjene u sandboxiranom direktoriju Documents Evervideo — sve što ste preuzeli iz oblaka, prenijeli putem Wi-Fi Drive, kopirali kroz Finder File Sharing ili uvezli iz druge aplikacije.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evervideo — Datoteke u ovoj aplikaciji" image="/docs/guide/evervideo/img/evervideo-files-in-this-application.webp" >}}
+  {{< ls-card title="" subtitle="Evervideo — Datoteke u ovoj aplikaciji" image="/docs/guide/evervideo/img/evervideo-files-in-this-application.webp" >}}
 {{< /cards >}}
 
 ### Mapa Documents
@@ -223,7 +223,7 @@ Ovaj odjeljak prikazuje datoteke i mape pohranjene u sandboxiranom direktoriju D
 Mapa Documents je korijen svega unutar Datoteka u ovoj aplikaciji. Možete stvarati podmape, preimenovati datoteke, premještati ih i grupirati kako želite.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evervideo lokalne datoteke — Mapa Documents" image="/docs/guide/evervideo/img/evervideo-local-files-documents.webp" >}}
+  {{< ls-card title="" subtitle="Evervideo lokalne datoteke — Mapa Documents" image="/docs/guide/evervideo/img/evervideo-local-files-documents.webp" >}}
 {{< /cards >}}
 
 ## Datoteke na ovom iPhone / iPad / Mac
@@ -236,7 +236,7 @@ Ovaj odjeljak prikazuje videozapise smještene na vašem uređaju, ali u različ
 Možete koristiti i Spoji mapu za stvaranje veze na mapu na vašem uređaju s pristupom za čitanje / pisanje — savršeno za rad s mapom na iCloud Driveu ili priključenim USB diskom bez kopiranja bilo čega.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evervideo — Datoteke na ovom uređaju" image="/docs/guide/evervideo/img/evervideo-files-on-this-device.webp" >}}
+  {{< ls-card title="" subtitle="Evervideo — Datoteke na ovom uređaju" image="/docs/guide/evervideo/img/evervideo-files-on-this-device.webp" >}}
 {{< /cards >}}
 
 ## Posebne mape
@@ -274,7 +274,7 @@ Kada otvorite mapu, dodirnite gumb **"..."** u gornjem desnom kutu za ove radnje
 Dodirnite **"..."** u gornjem desnom kutu i odaberite **Odabrati** za ulazak u način odabira. Potvrdni okviri pojavljuju se pored svake datoteke i mape. Dodirnite za odabir jedne ili više stavki, zatim izvršite skupne radnje: Reproduciraj sljedeće, Reproduciraj kasnije, Dodaj u medijsku biblioteku, Dodaj u popis za reproduciju, Kopiraj, Prenesi, Premjesti, Preimenuj ili Izbriši.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evervideo — Način odabira u upravitelju datoteka" image="/docs/guide/evervideo/img/evervideo-selection-mode-in-files.webp" >}}
+  {{< ls-card title="" subtitle="Evervideo — Način odabira u upravitelju datoteka" image="/docs/guide/evervideo/img/evervideo-selection-mode-in-files.webp" >}}
 {{< /cards >}}
 
 Ako radije tretirate povezanu cloud pohranu kao read-only (za sprječavanje slučajnih brisanja), omogućite Postavke → Upravitelj datoteka → Uredi online datoteke → Isključeno za skrivanje svih destruktivnih operacija iz korisničkog sučelja.
@@ -316,13 +316,13 @@ Za svaku mapu u vašoj cloud pohrani dostupne su mnoge radnje dodirivanjem ikone
 U gornjem desnom kutu kartice Datoteke nalazi se gumb **Prijenosi** (ikona strelica u vrtnji). Dodirnite ga za otvaranje Reda prijenosa — popis svakog aktivnog preuzimanja i prijenosa na svim izvorima, s napretkom u stvarnom vremenu, brzinom i procijenjenim vremenom dolaska po datoteci.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evervideo red prijenosa datoteka" image="/docs/guide/evervideo/img/evervideo-file-transfers.webp" >}}
+  {{< ls-card title="" subtitle="Evervideo red prijenosa datoteka" image="/docs/guide/evervideo/img/evervideo-file-transfers.webp" >}}
 {{< /cards >}}
 
 Možete pauzirati, nastaviti, ponoviti neuspjele prijenose, preurediti stavke za prioritiziranje određenih preuzimanja ili ih pojednačno otkazati. Možete i podesiti brzinu reda prijenosa (maksimalan broj paralelnih zadataka), vrstu mreže (samo Wi-Fi ili Wi-Fi + Mobilna) i pozadinske prijenose u Postavke → Upravitelj datoteka.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evervideo radnje na redu prijenosa datoteka" image="/docs/guide/evervideo/img/evervideo-file-transfers-actions.webp" >}}
+  {{< ls-card title="" subtitle="Evervideo radnje na redu prijenosa datoteka" image="/docs/guide/evervideo/img/evervideo-file-transfers-actions.webp" >}}
 {{< /cards >}}
 
 ## Offline način rada i sinkronizirane offline mape

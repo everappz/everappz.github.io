@@ -12,7 +12,7 @@ authors:
     image: "/images/about/artem-meleshko-founder-everappz.webp"
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 **สรุป:** Evermusic 6.8 เพิ่มการรวม Aliyun Drive และ Synology NAS (พร้อม QuickConnect), เอฟเฟกต์การเลื่อนปกอัลบั้มใหม่หกแบบ, เครื่องเล่นเต็มจอแบบมินิมอล, การจัดการไฟล์ด้วยการลากและวาง และการโหลดปกอัลบั้มที่เร็วขึ้น พร้อมใช้งานแล้วสำหรับ iOS และ macOS
 
@@ -77,18 +77,18 @@ Evermusic 6.8 มุ่งเน้นสามด้าน: ความเข�
 
 ## คำถามที่พบบ่อย
 
-{{% details title="ฉันจะเชื่อมต่อ Synology NAS กับ Evermusic ได้อย่างไร?" closed="true" %}}
+{{% ls-details title="ฉันจะเชื่อมต่อ Synology NAS กับ Evermusic ได้อย่างไร?" closed="true" %}}
 ไปที่แท็บการเชื่อมต่อ เลือก Synology แล้วป้อน QuickConnectID ของคุณ Evermusic เชื่อมต่อโดยตรงโดยไม่ต้องใช้ที่อยู่ IP หรือการตั้งค่า VPN
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Aliyun Drive ใช้กับ Evermusic ฟรีหรือไม่?" closed="true" %}}
+{{% ls-details title="Aliyun Drive ใช้กับ Evermusic ฟรีหรือไม่?" closed="true" %}}
 ใช่ หากคุณมีบัญชี Aliyun Drive คุณสามารถเชื่อมต่อกับ Evermusic ได้โดยไม่มีค่าใช้จ่ายเพิ่มเติม ขีดจำกัดพื้นที่เก็บข้อมูลขึ้นอยู่กับแผน Aliyun Drive ของคุณ
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="ฉันสามารถปรับแต่งสไตล์การเลื่อนปกอัลบั้มได้หรือไม่?" closed="true" %}}
+{{% ls-details title="ฉันสามารถปรับแต่งสไตล์การเลื่อนปกอัลบั้มได้หรือไม่?" closed="true" %}}
 ได้ ไปที่ Settings > Audio Player > Personalization > Album Covers Scrolling Style แล้วเลือกจากหกตัวเลือก: MacDoc, Linear, Rotary, Inverted Rotary, Cylinder หรือ CoverFlow
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="หน้าจอเครื่องเล่นแบบมินิมอลใช้ได้กับทุกอุปกรณ์หรือไม่?" closed="true" %}}
+{{% ls-details title="หน้าจอเครื่องเล่นแบบมินิมอลใช้ได้กับทุกอุปกรณ์หรือไม่?" closed="true" %}}
 ใช่ สไตล์ปกอัลบั้มเต็มจอพร้อมใช้งานบน iPhone, iPad และ Mac ที่รองรับทุกรุ่นที่ใช้ Evermusic 6.8 หรือใหม่กว่า
-{{% /details %}}
+{{% /ls-details %}}

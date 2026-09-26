@@ -15,7 +15,7 @@ readingTime: 11
 Administration af dit musikbibliotek er en leg med Evermusic, hvor du ubesværet kan organisere alle dine spor. Du har to muligheder for at opbygge dit musikbibliotek: manuel tilføjelse eller automatisk synkronisering.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evermusic Musikbibliotek-skærm" image="/docs/guide/evermusic/evermusic-guide-music-library/img/music-library-main.webp" >}}
+  {{< ls-card title="" subtitle="Evermusic Musikbibliotek-skærm" image="/docs/guide/evermusic/evermusic-guide-music-library/img/music-library-main.webp" >}}
 {{< /cards >}}
 
 ## Manuel tilføjelse
@@ -23,7 +23,7 @@ Administration af dit musikbibliotek er en leg med Evermusic, hvor du ubesværet
 For manuelt at tilføje spor skal du trykke på menupunktet "Tilføj musik" og vælge mapper/filer fra den tilsluttede cloud-lagringstjeneste eller filer, der er placeret på din enhed. Når du tilføjer spor til biblioteket, oprettes der kun links til disse spor, og de faktiske filer bevares på deres oprindelige steder for at spare værdifuld diskplads. Hvis du vil gøre spor tilgængelige offline, kan du bruge download-handlingen fra indstillingsmenuen eller aktivere offline-tilstand for afspilningslister og sporsamlinger.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Tilføj sange til musikbiblioteket" image="/docs/guide/evermusic/evermusic-guide-music-library/img/music-library-add-songs.webp" >}}
+  {{< ls-card title="" subtitle="Tilføj sange til musikbiblioteket" image="/docs/guide/evermusic/evermusic-guide-music-library/img/music-library-add-songs.webp" >}}
 {{< /cards >}}
 
 ## Hurtig adgang
@@ -75,7 +75,7 @@ Når du tilføjer spor til dit musikbibliotek, læser appen automatisk deres lyd
 Placeret lige under navigationslinjen tilbyder den øverste værktøjslinje flere praktiske handlinger: "Søg", "Afspil alle", "Bland alle" og "Fortsæt afspilning". Du kan vise eller skjule denne værktøjslinje med en simpel stryg-nedad-gestus.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Albumvisning — grupperet efter musiktags" image="/docs/guide/evermusic/evermusic-guide-music-library/img/music-library-albums.webp" >}}
+  {{< ls-card title="" subtitle="Albumvisning — grupperet efter musiktags" image="/docs/guide/evermusic/evermusic-guide-music-library/img/music-library-albums.webp" >}}
 {{< /cards >}}
 
 ## Søg
@@ -83,7 +83,7 @@ Placeret lige under navigationslinjen tilbyder den øverste værktøjslinje fler
 Søgefunktionen giver dig mulighed for at finde et bestemt spor, kunstner, album eller genre i dit musikbibliotek. På "Søgeskærmen" har du adgang til følgende handlinger: "Sorter", "Filtrer", "Gitter/Liste".
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Søgeresultater i musikbiblioteket" image="/docs/guide/evermusic/evermusic-guide-music-library/img/music-library-search.webp" >}}
+  {{< ls-card title="" subtitle="Søgeresultater i musikbiblioteket" image="/docs/guide/evermusic/evermusic-guide-music-library/img/music-library-search.webp" >}}
 {{< /cards >}}
 
 ## Menuen Indstillinger
@@ -91,7 +91,7 @@ Søgefunktionen giver dig mulighed for at finde et bestemt spor, kunstner, album
 Hver sang i dit musikbibliotek har en menu med flere handlinger, der er tilgængeligt ved at trykke på knappen med tre prikker nær sangtitlen. Disse handlinger varierer afhængigt af, om det er en enkelt sang eller en del af en samling.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flere handlinger for et bibliotekselement" image="/docs/guide/evermusic/evermusic-guide-music-library/img/music-library-item-more-actions.webp" >}}
+  {{< ls-card title="" subtitle="Flere handlinger for et bibliotekselement" image="/docs/guide/evermusic/evermusic-guide-music-library/img/music-library-item-more-actions.webp" >}}
 {{< /cards >}}
 
 ### For individuelle sange
@@ -125,7 +125,7 @@ For sangsamlinger som Albums, Kunstnere, Genrer eller Komponister inkluderer ind
 Du kan aktivere valgstilstand ved hjælp af knappen Flere handlinger øverst til højre. I denne tilstand kan du vælge flere spor og udføre forskellige handlinger.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Valgstilstand i musikbiblioteket" image="/docs/guide/evermusic/evermusic-guide-music-library/img/music-library-selection-mode.webp" >}}
+  {{< ls-card title="" subtitle="Valgstilstand i musikbiblioteket" image="/docs/guide/evermusic/evermusic-guide-music-library/img/music-library-selection-mode.webp" >}}
 {{< /cards >}}
 
 ## Tag-gruppering
@@ -145,7 +145,7 @@ Disse kategorier hjælper dig med at organisere dine spor efter musiktags: Sange
 Når du åbner sektionerne Kunstner, Albumkunstner eller Komponist, kan du se en vælger til Sange/Alle albums/Eksklusive albums/Soloalbums.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Albumdetaljer med vælger til Sange / Alle / Eksklusive / Solo" image="/docs/guide/evermusic/evermusic-guide-music-library/img/music-library-album-details.webp" >}}
+  {{< ls-card title="" subtitle="Albumdetaljer med vælger til Sange / Alle / Eksklusive / Solo" image="/docs/guide/evermusic/evermusic-guide-music-library/img/music-library-album-details.webp" >}}
 {{< /cards >}}
 
 - **Sange**: Viser alle sange, hvor denne Kunstner/Albumkunstner/Komponist er indstillet i lydtagsne.
@@ -166,7 +166,7 @@ Du kan bruge denne funktion til hurtigt at finde en sang, kunstner, album eller 
 Tryk på menupunktet "Indstillinger" for at konfigurere dine musikbibliotekspræferencer.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Musikbibliotekindstillinger" image="/docs/guide/evermusic/evermusic-guide-music-library/img/music-library-settings.webp" >}}
+  {{< ls-card title="" subtitle="Musikbibliotekindstillinger" image="/docs/guide/evermusic/evermusic-guide-music-library/img/music-library-settings.webp" >}}
 {{< /cards >}}
 
 #### Metadataindlæsning

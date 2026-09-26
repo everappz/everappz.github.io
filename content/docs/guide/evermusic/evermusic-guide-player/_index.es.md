@@ -17,7 +17,7 @@ El Reproductor es la pantalla principal de la aplicación donde puedes controlar
 ## Acceso al Reproductor
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Pantalla del Reproductor de Audio de Evermusic" image="/docs/guide/evermusic/evermusic-guide-player/img/player-main.webp" >}}
+  {{< ls-card title="" subtitle="Pantalla del Reproductor de Audio de Evermusic" image="/docs/guide/evermusic/evermusic-guide-player/img/player-main.webp" >}}
 {{< /cards >}}
 
 Puedes acceder al reproductor a pantalla completa desde la vista del mini reproductor. En tu iPhone, encontrarás el mini reproductor sobre la barra de pestañas en la pantalla principal. En tu iPad o Mac, es accesible desde el menú izquierdo. Para plegar el mini reproductor, toca su ícono y desliza hacia abajo. Para ocultar completamente el reproductor a pantalla completa, simplemente toca el botón de cerrar ubicado en la esquina inferior derecha.
@@ -44,7 +44,7 @@ Si te apetece algo de aleatoriedad, la opción "Aleatorio" es tu mejor opción. 
 ## Control de volumen
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Control de Volumen con AirPlay y Google Cast" image="/docs/guide/evermusic/evermusic-guide-player/img/player-volume-control.webp" >}}
+  {{< ls-card title="" subtitle="Control de Volumen con AirPlay y Google Cast" image="/docs/guide/evermusic/evermusic-guide-player/img/player-volume-control.webp" >}}
 {{< /cards >}}
 
 Encuentra el control deslizante de volumen en la pantalla de Configuración de audio tocando el ícono de sonido debajo de los controles de reproducción. Puedes cambiar el volumen usando este control deslizante o los botones de volumen estándar de tu dispositivo. Además, encontrarás algunos prácticos botones de transmisión:
@@ -63,7 +63,7 @@ Por otro lado, si prefieres AirPlay, busca el botón de AirPlay en la parte infe
 ## Ecualizador de audio
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Ecualizador de Audio de 10 Bandas" image="/docs/guide/evermusic/evermusic-guide-player/img/player-equalizer.webp" >}}
+  {{< ls-card title="" subtitle="Ecualizador de Audio de 10 Bandas" image="/docs/guide/evermusic/evermusic-guide-player/img/player-equalizer.webp" >}}
 {{< /cards >}}
 
 Evermusic viene equipado con un ecualizador de 10 bandas, con presets estilo iPod, un preamplificador y configuraciones manuales del ecualizador. Para activar el ecualizador, simplemente toca el botón "Ecualizador" en la barra de herramientas inferior y activa el control de interruptor en la esquina superior derecha. Puedes seleccionar entre una variedad de presets de ecualizador predefinidos como "Acústico", "Bass Booster", "Clásico" y más. Si eres un entusiasta del sonido, apreciarás la capacidad de ajustar finamente cada banda de frecuencia usando controles deslizantes. No dudes en crear y guardar tus propios presets de ecualizador de audio. Si una pista no es lo suficientemente fuerte, también puedes ajustar la ganancia del preamplificador. Tenemos instrucciones más detalladas sobre cómo usar el ecualizador [aquí](/docs/howto/how-to-use-the-audio-equalizer-on-your-iphone-ipad-mac-with-evermusic-and-flacbox).
@@ -71,7 +71,7 @@ Evermusic viene equipado con un ecualizador de 10 bandas, con presets estilo iPo
 ## Barra de Herramientas del Modo del Reproductor
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Barra de Herramientas Superior del Reproductor con Búsqueda y Velocidad" image="/docs/guide/evermusic/evermusic-guide-player/img/player-top-toolbar.webp" >}}
+  {{< ls-card title="" subtitle="Barra de Herramientas Superior del Reproductor con Búsqueda y Velocidad" image="/docs/guide/evermusic/evermusic-guide-player/img/player-top-toolbar.webp" >}}
 {{< /cards >}}
 
 Para algunos estilos de pantalla del reproductor encontrarás una barra de herramientas del modo del reproductor en la parte superior de la pantalla del reproductor, justo debajo de la barra de navegación. Esta práctica barra de herramientas alberga tres botones:
@@ -82,7 +82,7 @@ Para algunos estilos de pantalla del reproductor encontrarás una barra de herra
 ## Marcadores de audio
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Marcadores de Audio para Audiolibros y Conferencias" image="/docs/guide/evermusic/evermusic-guide-player/img/player-bookmarks.webp" >}}
+  {{< ls-card title="" subtitle="Marcadores de Audio para Audiolibros y Conferencias" image="/docs/guide/evermusic/evermusic-guide-player/img/player-bookmarks.webp" >}}
 {{< /cards >}}
 
 Aquí puedes crear múltiples marcadores para pistas en tu biblioteca de música. Tenemos una instrucción completa sobre cómo usar marcadores [aquí](/docs/howto/how-to-listen-to-audiobooks-on-iphone-ipad-mac-using-evermusic).
@@ -90,7 +90,7 @@ Aquí puedes crear múltiples marcadores para pistas en tu biblioteca de música
 ## Cola del reproductor
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Cola del Reproductor" image="/docs/guide/evermusic/evermusic-guide-player/img/player-queue.webp" >}}
+  {{< ls-card title="" subtitle="Cola del Reproductor" image="/docs/guide/evermusic/evermusic-guide-player/img/player-queue.webp" >}}
 {{< /cards >}}
 
 Para acceder a tu cola del reproductor, simplemente toca el botón de cola del reproductor ubicado en la barra de herramientas inferior. Para mover una canción en la cola, usa el indicador de reordenación cerca del título.
@@ -98,7 +98,7 @@ Para acceder a tu cola del reproductor, simplemente toca el botón de cola del r
 ## Comentarios / Letras
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Comentarios, Letras Incrustadas y Archivos LRC" image="/docs/guide/evermusic/evermusic-guide-player/img/player-lyrics.webp" >}}
+  {{< ls-card title="" subtitle="Comentarios, Letras Incrustadas y Archivos LRC" image="/docs/guide/evermusic/evermusic-guide-player/img/player-lyrics.webp" >}}
 {{< /cards >}}
 
 Para ver comentarios de pistas y letras incrustadas, así como archivos LRC, sigue estos pasos:
@@ -114,7 +114,7 @@ Tenemos una instrucción completa sobre cómo ver letras [aquí](/docs/howto/how
 ## Menú de opciones
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Menú de Opciones para un Elemento de la Cola" image="/docs/guide/evermusic/evermusic-guide-player/img/player-queue-item-options-menu.webp" >}}
+  {{< ls-card title="" subtitle="Menú de Opciones para un Elemento de la Cola" image="/docs/guide/evermusic/evermusic-guide-player/img/player-queue-item-options-menu.webp" >}}
 {{< /cards >}}
 
 Cada canción en tu cola del reproductor de audio tiene un menú con más acciones, al que puedes acceder tocando el botón de tres puntos cerca del título de la canción. Las acciones disponibles son:
@@ -153,7 +153,7 @@ Toca el botón de más acciones "..." en el lado izquierdo del título de la can
 ## Recientes y Favoritos
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Canciones Reproducidas Recientemente desde el Reproductor" image="/docs/guide/evermusic/evermusic-guide-player/img/player-recents.webp" >}}
+  {{< ls-card title="" subtitle="Canciones Reproducidas Recientemente desde el Reproductor" image="/docs/guide/evermusic/evermusic-guide-player/img/player-recents.webp" >}}
 {{< /cards >}}
 
 En la pantalla del reproductor, puedes acceder a las secciones "Recientes" y "Favoritos" tocando el botón Más Acciones '…' y seleccionando el elemento del menú correspondiente. En ambas secciones, puedes buscar canciones, reproducir todas las pistas, reproducir todas las pistas aleatoriamente, exportar la lista y eliminar la lista. Tenemos instrucciones detalladas sobre cómo exportar listas de canciones [aquí](/docs/howto/export-tracks-collection-from-evermusic-flacbox-to-m3u-csv-txt/).
@@ -161,7 +161,7 @@ En la pantalla del reproductor, puedes acceder a las secciones "Recientes" y "Fa
 ## Ventana del mini reproductor (exclusivo de Mac)
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Ventana del Mini Reproductor de Mac" image="/docs/guide/evermusic/evermusic-guide-player/img/player-mini-mac.webp" >}}
+  {{< ls-card title="" subtitle="Ventana del Mini Reproductor de Mac" image="/docs/guide/evermusic/evermusic-guide-player/img/player-mini-mac.webp" >}}
 {{< /cards >}}
 
 Para usuarios de Mac, hay una práctica ventana del mini reproductor. Para acceder a ella, simplemente mueve el cursor al borde inferior derecho de la ventana de la app y cambia su tamaño al más pequeño posible. Luego toca el botón de colapsar (representado como una flecha hacia abajo) para activar la ventana del mini reproductor. Si quieres mantenerlo encima de otras ventanas, ve a la barra de menú superior de tu Mac, selecciona "Ventana" y elige "Mostrar ventana siempre encima". Esta función es especialmente conveniente cuando estás escuchando conferencias de audio y no quieres interrupciones.
@@ -169,7 +169,7 @@ Para usuarios de Mac, hay una práctica ventana del mini reproductor. Para acced
 ## Atajos de teclado (exclusivo de Mac)
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Menú de Reproducción de la Barra de Estado de Mac con Atajos de Teclado" image="/docs/guide/evermusic/evermusic-guide-player/img/player-mac-shortcuts.webp" >}}
+  {{< ls-card title="" subtitle="Menú de Reproducción de la Barra de Estado de Mac con Atajos de Teclado" image="/docs/guide/evermusic/evermusic-guide-player/img/player-mac-shortcuts.webp" >}}
 {{< /cards >}}
 
 Para usuarios de Mac, hay un menú de reproducción del sistema disponible en la barra de estado con atajos de teclado. Por ejemplo, para Reproducir/Pausar, simplemente toca la barra espaciadora en tu teclado. Los atajos para Detener, Canción siguiente, Canción anterior, Saltar tiempo, Repetir, Aleatorio y Velocidad de reproducción están disponibles como se muestra en la captura de pantalla.
@@ -177,7 +177,7 @@ Para usuarios de Mac, hay un menú de reproducción del sistema disponible en la
 ## Configuración del reproductor de audio
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Configuración del Reproductor de Audio" image="/docs/guide/evermusic/evermusic-guide-player/img/player-settings.webp" >}}
+  {{< ls-card title="" subtitle="Configuración del Reproductor de Audio" image="/docs/guide/evermusic/evermusic-guide-player/img/player-settings.webp" >}}
 {{< /cards >}}
 
 Para acceder a la configuración del reproductor de audio, toca el botón Más en la pantalla del reproductor de audio y selecciona "Ajustes" del menú desplegable. Aquí encontrarás varias secciones agrupadas por funcionalidad:

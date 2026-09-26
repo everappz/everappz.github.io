@@ -4,7 +4,9 @@ title: 'Documentació'
 ---
 
 
-{{< lottie src="/images/juicy-json/juicy-girl-and-boy-searching-for-the-right-files.json" width="90%" >}}
+{{< ls-lottie src="/images/juicy-json/juicy-girl-and-boy-searching-for-the-right-files.json" width="90%" >}}
+
+{{< ls-docs-search >}}
 
 Aquesta secció inclou documentació útil per a totes les aplicacions d'Everappz — incloent instruccions de configuració, descripció de funcionalitats i consells avançats.
 
@@ -13,9 +15,9 @@ Si sou nous o voleu aprendre més, les nostres guies i preguntes freqüents són
 ## Comença
 
 {{< cards >}}
-  {{< card icon="book-open" link="/docs/guide" title="Guia d'usuari" >}}
-  {{< card icon="question-mark-circle" link="/docs/faq" title="Preguntes freqüents" >}}
-  {{< card icon="light-bulb" link="/docs/howto" title="Com fer-ho" >}}
+  {{< ls-card icon="book-open" link="/docs/guide" title="Guia d'usuari" >}}
+  {{< ls-card icon="question-mark-circle" link="/docs/faq" title="Preguntes freqüents" >}}
+  {{< ls-card icon="light-bulb" link="/docs/howto" title="Com fer-ho" >}}
 {{< /cards >}}
 
 - La **Guia d'usuari** us ajuda a instal·lar, configurar i aprofitar al màxim les nostres aplicacions.
@@ -31,5 +33,5 @@ Si la vostra pregunta no té resposta a la documentació, visiteu la nostra pàg
 Per a polítiques legals, pràctiques de tractament de dades i acords d'usuari relacionats amb els nostres serveis, consulteu els documents legals següents:
 
 {{< cards >}}
-  {{< card icon="document-text" link="/legal" title="Centre legal" >}}
+  {{< ls-card icon="document-text" link="/legal" title="Centre legal" >}}
 {{< /cards >}}

@@ -28,19 +28,19 @@ readingTime: 4
 
 
 {{< cards >}}
-  {{< card icon="play" title="Κοινή χρήση" subtitle="Πατήστε Έναρξη, επιλέξτε τι θα μοιραστείτε και τρέξτε και τους πέντε διακομιστές ταυτόχρονα. Μάθετε την οθόνη Κοινής χρήσης από την αρχή ως το τέλος." link="/docs/guide/everdisk/everdisk-guide-sharing" >}}
+  {{< ls-card icon="play" title="Κοινή χρήση" subtitle="Πατήστε Έναρξη, επιλέξτε τι θα μοιραστείτε και τρέξτε και τους πέντε διακομιστές ταυτόχρονα. Μάθετε την οθόνη Κοινής χρήσης από την αρχή ως το τέλος." link="/docs/guide/everdisk/everdisk-guide-sharing" >}}
 
-  {{< card icon="desktop-computer" title="Συνδέστε τις συσκευές σας" subtitle="Πώς μια TV, ένα Mac ή PC, ένα πρόγραμμα περιήγησης, ένα άλλο κινητό ή ένα καλώδιο USB συνδέεται στα κοινόχρηστα αρχεία σας." link="/docs/guide/everdisk/everdisk-guide-connect" >}}
+  {{< ls-card icon="desktop-computer" title="Συνδέστε τις συσκευές σας" subtitle="Πώς μια TV, ένα Mac ή PC, ένα πρόγραμμα περιήγησης, ένα άλλο κινητό ή ένα καλώδιο USB συνδέεται στα κοινόχρηστα αρχεία σας." link="/docs/guide/everdisk/everdisk-guide-connect" >}}
 
-  {{< card icon="server" title="Σύνδεση σε διακομιστές" subtitle="Φτάστε άλλους διακομιστές DLNA, WebDAV, FTP, SFTP και SMB και δίσκους NAS στο δίκτυό σας για περιήγηση, μετάδοση και λήψη." link="/docs/guide/everdisk/everdisk-guide-devices" >}}
+  {{< ls-card icon="server" title="Σύνδεση σε διακομιστές" subtitle="Φτάστε άλλους διακομιστές DLNA, WebDAV, FTP, SFTP και SMB και δίσκους NAS στο δίκτυό σας για περιήγηση, μετάδοση και λήψη." link="/docs/guide/everdisk/everdisk-guide-devices" >}}
 
-  {{< card icon="folder" title="Αρχεία & Έγγραφα" subtitle="Περιηγηθείτε, δημιουργήστε φακέλους, μετονομάστε, μετακινήστε, αντιγράψτε και διαγράψτε, συμπιέστε και αποσυμπιέστε, συνδέστε εξωτερικούς φακέλους και σαρώστε σε PDF." link="/docs/guide/everdisk/everdisk-guide-files" >}}
+  {{< ls-card icon="folder" title="Αρχεία & Έγγραφα" subtitle="Περιηγηθείτε, δημιουργήστε φακέλους, μετονομάστε, μετακινήστε, αντιγράψτε και διαγράψτε, συμπιέστε και αποσυμπιέστε, συνδέστε εξωτερικούς φακέλους και σαρώστε σε PDF." link="/docs/guide/everdisk/everdisk-guide-files" >}}
 
-  {{< card icon="music-note" title="Φωτογραφίες, Μουσική & Βίντεο" subtitle="Μοιραστείτε ολόκληρη τη βιβλιοθήκη φωτογραφιών και μουσικής σας, αναπαράγετε ήχο στο mini player και δείτε βίντεο σε πλήρη οθόνη." link="/docs/guide/everdisk/everdisk-guide-media" >}}
+  {{< ls-card icon="music-note" title="Φωτογραφίες, Μουσική & Βίντεο" subtitle="Μοιραστείτε ολόκληρη τη βιβλιοθήκη φωτογραφιών και μουσικής σας, αναπαράγετε ήχο στο mini player και δείτε βίντεο σε πλήρη οθόνη." link="/docs/guide/everdisk/everdisk-guide-media" >}}
 
-  {{< card icon="lock-closed" title="Πρόσβαση & Απόρρητο" subtitle="Προστατέψτε την κοινή χρήση με σύνδεση και κωδικό, επιτρέψτε ή αποκλείστε την επεξεργασία, μπλοκάρετε συσκευές και κρατήστε τα πάντα τοπικά." link="/docs/guide/everdisk/everdisk-guide-access" >}}
+  {{< ls-card icon="lock-closed" title="Πρόσβαση & Απόρρητο" subtitle="Προστατέψτε την κοινή χρήση με σύνδεση και κωδικό, επιτρέψτε ή αποκλείστε την επεξεργασία, μπλοκάρετε συσκευές και κρατήστε τα πάντα τοπικά." link="/docs/guide/everdisk/everdisk-guide-access" >}}
 
-  {{< card icon="adjustments" title="Ρυθμίσεις" subtitle="Κάθε ρύθμιση εξηγημένη: προφίλ συσκευής, συνδέσεις, ποιότητα φωτογραφιών και βίντεο, θύρες, μεταφορές και άλλα." link="/docs/guide/everdisk/everdisk-guide-settings" >}}
+  {{< ls-card icon="adjustments" title="Ρυθμίσεις" subtitle="Κάθε ρύθμιση εξηγημένη: προφίλ συσκευής, συνδέσεις, ποιότητα φωτογραφιών και βίντεο, θύρες, μεταφορές και άλλα." link="/docs/guide/everdisk/everdisk-guide-settings" >}}
 
-  {{< card icon="question-mark-circle" title="Συχνές ερωτήσεις" subtitle="Γρήγορες απαντήσεις στις πιο κοινές ερωτήσεις και σε πραγματικά σενάρια." link="/docs/faq/everdisk" >}}
+  {{< ls-card icon="question-mark-circle" title="Συχνές ερωτήσεις" subtitle="Γρήγορες απαντήσεις στις πιο κοινές ερωτήσεις και σε πραγματικά σενάρια." link="/docs/faq/everdisk" >}}
 {{< /cards >}}

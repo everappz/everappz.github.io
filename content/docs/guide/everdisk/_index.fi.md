@@ -28,19 +28,19 @@ Tama opas selittaa jokaisen sovelluksen osan vaihe vaiheelta. Valitse alta osio 
 
 
 {{< cards >}}
-  {{< card icon="play" title="Jakaminen" subtitle="Napauta Aloita, valitse mita jaat ja pyorita kaikkia viitta palvelinta yhta aikaa. Opi Jakaminen-nayton kaikki toiminnot." link="/docs/guide/everdisk/everdisk-guide-sharing" >}}
+  {{< ls-card icon="play" title="Jakaminen" subtitle="Napauta Aloita, valitse mita jaat ja pyorita kaikkia viitta palvelinta yhta aikaa. Opi Jakaminen-nayton kaikki toiminnot." link="/docs/guide/everdisk/everdisk-guide-sharing" >}}
 
-  {{< card icon="desktop-computer" title="Yhdista laitteesi" subtitle="Miten TV, Mac tai PC, verkkoselain, toinen puhelin tai USB-kaapeli yhdistyy jakamiisi tiedostoihin." link="/docs/guide/everdisk/everdisk-guide-connect" >}}
+  {{< ls-card icon="desktop-computer" title="Yhdista laitteesi" subtitle="Miten TV, Mac tai PC, verkkoselain, toinen puhelin tai USB-kaapeli yhdistyy jakamiisi tiedostoihin." link="/docs/guide/everdisk/everdisk-guide-connect" >}}
 
-  {{< card icon="server" title="Yhdista palvelimiin" subtitle="Paase verkkosi muihin DLNA-, WebDAV-, FTP-, SFTP- ja SMB-palvelimiin ja NAS-asemiin selataksesi, suoratoistaaksesi ja ladataksesi." link="/docs/guide/everdisk/everdisk-guide-devices" >}}
+  {{< ls-card icon="server" title="Yhdista palvelimiin" subtitle="Paase verkkosi muihin DLNA-, WebDAV-, FTP-, SFTP- ja SMB-palvelimiin ja NAS-asemiin selataksesi, suoratoistaaksesi ja ladataksesi." link="/docs/guide/everdisk/everdisk-guide-devices" >}}
 
-  {{< card icon="folder" title="Tiedostot ja asiakirjat" subtitle="Selaa, luo kansioita, nimea uudelleen, siirra, kopioi ja poista, pakkaa ja pura, yhdista ulkoisia kansioita ja skannaa PDF-muotoon." link="/docs/guide/everdisk/everdisk-guide-files" >}}
+  {{< ls-card icon="folder" title="Tiedostot ja asiakirjat" subtitle="Selaa, luo kansioita, nimea uudelleen, siirra, kopioi ja poista, pakkaa ja pura, yhdista ulkoisia kansioita ja skannaa PDF-muotoon." link="/docs/guide/everdisk/everdisk-guide-files" >}}
 
-  {{< card icon="music-note" title="Kuvat, musiikki ja video" subtitle="Jaa koko kuva- ja musiikkikirjastosi, toista aanta minisoittimessa ja katso videoita koko naytolla." link="/docs/guide/everdisk/everdisk-guide-media" >}}
+  {{< ls-card icon="music-note" title="Kuvat, musiikki ja video" subtitle="Jaa koko kuva- ja musiikkikirjastosi, toista aanta minisoittimessa ja katso videoita koko naytolla." link="/docs/guide/everdisk/everdisk-guide-media" >}}
 
-  {{< card icon="lock-closed" title="Kaytto ja yksityisyys" subtitle="Suojaa jakaminen kayttajatunnuksella ja salasanalla, salli tai esta muokkaus, esta laitteita ja pida kaikki paikallisena." link="/docs/guide/everdisk/everdisk-guide-access" >}}
+  {{< ls-card icon="lock-closed" title="Kaytto ja yksityisyys" subtitle="Suojaa jakaminen kayttajatunnuksella ja salasanalla, salli tai esta muokkaus, esta laitteita ja pida kaikki paikallisena." link="/docs/guide/everdisk/everdisk-guide-access" >}}
 
-  {{< card icon="adjustments" title="Asetukset" subtitle="Kaikki asetukset selitettyna: laiteprofiili, yhteydet, kuvien ja videoiden laatu, portit, siirrot ja paljon muuta." link="/docs/guide/everdisk/everdisk-guide-settings" >}}
+  {{< ls-card icon="adjustments" title="Asetukset" subtitle="Kaikki asetukset selitettyna: laiteprofiili, yhteydet, kuvien ja videoiden laatu, portit, siirrot ja paljon muuta." link="/docs/guide/everdisk/everdisk-guide-settings" >}}
 
-  {{< card icon="question-mark-circle" title="UKK" subtitle="Nopeat vastaukset yleisimpiin kysymyksiin ja tosielaman tilanteisiin." link="/docs/faq/everdisk" >}}
+  {{< ls-card icon="question-mark-circle" title="UKK" subtitle="Nopeat vastaukset yleisimpiin kysymyksiin ja tosielaman tilanteisiin." link="/docs/faq/everdisk" >}}
 {{< /cards >}}

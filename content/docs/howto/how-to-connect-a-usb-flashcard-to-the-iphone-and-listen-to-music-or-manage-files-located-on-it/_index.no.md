@@ -7,7 +7,7 @@ tags: ["musikk", "filer", "usb", "flash", "ekstern", "ixpand", "spille", "kort",
 readingTime: 2
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **Sammendrag:** Koble en USB-flashstasjon eller et SD-kort til din iPhone ved hjelp av en Apple-adapter eller SanDisk iXpand-stasjon, og bruk deretter Evermusic, Flacbox eller Evertag til å bla gjennom, spille av og administrere lydfilene dine direkte fra den eksterne lagringen.
@@ -72,18 +72,18 @@ Nyt friheten til å få tilgang til og administrere musikken din uten anstrengel
 
 ## Ofte stilte spørsmål
 
-{{% details title="Hvilke USB-adaptere fungerer med iPhone for musikkavspilling?" closed="true" %}}
+{{% ls-details title="Hvilke USB-adaptere fungerer med iPhone for musikkavspilling?" closed="true" %}}
 Både Apples Lightning to SD Card Camera Reader og Lightning to USB 3 Camera Adapter fungerer. USB-C-adaptere fungerer på nyere iPhoner med USB-C-porter. SanDisk iXpand Flash-stasjoner (V1-V7) støttes også nativt av Evermusic, Flacbox og Evertag.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Kan jeg spille musikk direkte fra USB-stasjonen uten å kopiere filer?" closed="true" %}}
+{{% ls-details title="Kan jeg spille musikk direkte fra USB-stasjonen uten å kopiere filer?" closed="true" %}}
 Ja. Med SanDisk iXpand-stasjoner kan du spille musikk direkte fra stasjonen uten å kopiere filer til iPhone. Når du bruker Apple-adaptere, importeres filer, men du kan velge om du vil kopiere dem til lokal lagring.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Hvilke lydformater støttes fra USB-stasjoner?" closed="true" %}}
+{{% ls-details title="Hvilke lydformater støttes fra USB-stasjoner?" closed="true" %}}
 Evermusic og Flacbox støtter et bredt utvalg av formater, inkludert FLAC, MP3, AAC, WAV, ALAC, OGG, WMA og flere. Alle støttede formater fungerer ved avspilling fra USB-lagring.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="SanDisk iXpand-en min viser en 'opptatt'-feil. Hva bør jeg gjøre?" closed="true" %}}
+{{% ls-details title="SanDisk iXpand-en min viser en 'opptatt'-feil. Hva bør jeg gjøre?" closed="true" %}}
 En annen app kan ha tilgang til stasjonen. Lukk alle andre apper som kan bruke flashstasjonen, eller koble den fra og sett den inn igjen. Åpne deretter Evermusic, Flacbox eller Evertag på nytt.
-{{% /details %}}
+{{% /ls-details %}}

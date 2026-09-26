@@ -7,7 +7,7 @@ tags: ["google", "segurança", "privacidade", "aplicativos", "conta", "acesso"]
 readingTime: 2
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **Resumo:** Acesse [myaccount.google.com](https://myaccount.google.com/) > Segurança > Aplicativos e serviços de terceiros. Clique no aplicativo que deseja remover e selecione "Remover acesso" ou "Excluir todas as conexões." Repita para cada aplicativo.
@@ -75,18 +75,18 @@ Lembre-se de que, embora aplicativos de terceiros possam melhorar sua experiênc
 
 ## Perguntas frequentes
 
-{{% details title="Desconectar um aplicativo excluirá meus dados desse aplicativo?" closed="true" %}}
+{{% ls-details title="Desconectar um aplicativo excluirá meus dados desse aplicativo?" closed="true" %}}
 Não. Remover o acesso apenas impede o aplicativo de acessar sua conta Google daqui em diante. Dados já compartilhados com o aplicativo podem ainda existir nos servidores deles. Verifique as próprias configurações de privacidade do aplicativo para excluir esses dados.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Posso reconectar um aplicativo depois de desconectá-lo?" closed="true" %}}
+{{% ls-details title="Posso reconectar um aplicativo depois de desconectá-lo?" closed="true" %}}
 Sim. Se você precisar do aplicativo novamente, basta fazer login com o Google quando solicitado. O aplicativo solicitará permissões novamente, e você pode revisá-las antes de conceder acesso.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Com que frequência devo revisar o acesso de aplicativos de terceiros?" closed="true" %}}
+{{% ls-details title="Com que frequência devo revisar o acesso de aplicativos de terceiros?" closed="true" %}}
 Revise seus aplicativos conectados a cada 3-6 meses, ou imediatamente após parar de usar um serviço. Auditorias regulares ajudam a manter sua conta segura.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Isso afeta aplicativos como o Evermusic que se conectam ao Google Drive?" closed="true" %}}
+{{% ls-details title="Isso afeta aplicativos como o Evermusic que se conectam ao Google Drive?" closed="true" %}}
 Sim. Se você desconectar um aplicativo como o Evermusic ou Flacbox da sua conta Google, ele perderá o acesso aos seus arquivos do Google Drive. Você pode reconectar a qualquer momento de dentro do aplicativo.
-{{% /details %}}
+{{% /ls-details %}}

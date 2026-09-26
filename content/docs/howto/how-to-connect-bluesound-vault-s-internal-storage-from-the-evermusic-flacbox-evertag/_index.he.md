@@ -7,7 +7,7 @@ tags: ["evermusic", "חיבור", "bluesound vault"]
 readingTime: 1
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **תקציר:** התחברו לאחסון הפנימי של Bluesound VAULT דרך SMB באמצעות Evermusic, Flacbox או Evertag. מצאו את כתובת ה-IP של ה-VAULT באפליקציית BluOS, הזינו אותה כחיבור SMB עם גישת אורח, והתחילו להשמיע או לנהל את קבצי המוזיקה שלכם.
@@ -58,18 +58,18 @@ readingTime: 1
 
 ## שאלות נפוצות
 
-{{% details title="האם אני צריך שם משתמש וסיסמה כדי להתחבר ל-Bluesound VAULT?" closed="true" %}}
+{{% ls-details title="האם אני צריך שם משתמש וסיסמה כדי להתחבר ל-Bluesound VAULT?" closed="true" %}}
 לא. Bluesound VAULT תומך בגישת אורח (אנונימית) דרך SMB. השאירו את שדות שם המשתמש והסיסמה ריקים בעת הגדרת החיבור.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="האם אני יכול לערוך תגי מוזיקה ב-Bluesound VAULT?" closed="true" %}}
+{{% ls-details title="האם אני יכול לערוך תגי מוזיקה ב-Bluesound VAULT?" closed="true" %}}
 כן. באמצעות Evertag, תוכלו לערוך תגי מטאדטה (כותרת, אמן, אלבום וכו') עבור קבצי אודיו המאוחסנים ישירות בכונן הקשיח הפנימי של ה-VAULT.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="אילו פרוטוקולים תומך Bluesound VAULT?" closed="true" %}}
+{{% ls-details title="אילו פרוטוקולים תומך Bluesound VAULT?" closed="true" %}}
 Bluesound VAULT חושף את האחסון הפנימי שלו דרך SMB (Server Message Block). Evermusic, Flacbox ו-Evertag כולם תומכים בחיבורי SMB, מה שהופך את החיבור לפשוט.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="האם אני יכול להזרים מוזיקה מה-VAULT מבלי להעתיק קבצים ל-iPhone שלי?" closed="true" %}}
+{{% ls-details title="האם אני יכול להזרים מוזיקה מה-VAULT מבלי להעתיק קבצים ל-iPhone שלי?" closed="true" %}}
 כן. לאחר החיבור דרך SMB, תוכלו להזרים קבצי אודיו ישירות מהכונן הפנימי של ה-VAULT מבלי להעתיק אותם למכשיר שלכם.
-{{% /details %}}
+{{% /ls-details %}}

@@ -1,9 +1,10 @@
 ---
+excludeSearch: true
 date: '2025-06-12T17:00:00+00:00'
 title: 'Kontakt oss'
 ---
 
-{{< lottie src="/images/juicy-json/juicy-girl-typing-on-phone.json" width="60%" >}}
+{{< ls-lottie src="/images/juicy-json/juicy-girl-typing-on-phone.json" width="60%" >}}
 
 ## Postadresse
 
@@ -27,4 +28,4 @@ Ved å sende en e-post bekrefter du at du har lest og godtar vår [Personvernpol
 
 Følg oss på sosiale medier for å få de nyeste nyhetene, appoppdateringer, tips og nyttig informasjon:
 
-{{< social-cards >}}
+{{< ls-social-cards >}}

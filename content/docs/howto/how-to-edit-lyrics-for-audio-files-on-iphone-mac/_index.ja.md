@@ -7,7 +7,7 @@ tags: ["lyrics", "mp3", "id3", "metadata", "iphone", "audio editing"]
 readingTime: 2
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **要約:** 無料の**Evertag**アプリを使用して、iPhoneまたはMacで非同期歌詞、アドバイザリー評価、120以上のオーディオタグを編集できます。ローカルおよびクラウド保存ファイルに対応し、バッチ編集をサポートし、Evermusic、Flacbox、その他のプレーヤーで表示される歌詞を保存します。
@@ -23,8 +23,8 @@ readingTime: 2
 まず、App Storeから**Evertag**アプリをダウンロードします。**iOS**と**macOS**の両方で利用可能で、無料です。
 
 {{< cards cols="2">}}
-{{< card link="https://apps.apple.com/app/apple-store/id1450763230?pt=95781850&ct=everappzcom&mt=8" title="Evertag for iOS" icon="download" tag="Free" >}}
-{{< card link="https://apps.apple.com/app/apple-store/id1594027661?pt=95781850&ct=everappzcom&mt=8" title="Evertag for macOS" icon="download" tag="Free" >}}
+{{< ls-card link="https://apps.apple.com/app/apple-store/id1450763230?pt=95781850&ct=everappzcom&mt=8" title="Evertag for iOS" icon="download" tag="Free" >}}
+{{< ls-card link="https://apps.apple.com/app/apple-store/id1594027661?pt=95781850&ct=everappzcom&mt=8" title="Evertag for macOS" icon="download" tag="Free" >}}
 {{< /cards >}}
 
 ## クラウドアカウントを接続
@@ -38,13 +38,13 @@ readingTime: 2
 - **クラウドストレージに接続**をタップ
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="クラウドストレージに接続" image="/docs/howto/how-to-edit-lyrics-for-audio-files-on-iphone-mac/connect-to-cloud-storage.webp" >}}
+{{< ls-card title="" subtitle="クラウドストレージに接続" image="/docs/howto/how-to-edit-lyrics-for-audio-files-on-iphone-mac/connect-to-cloud-storage.webp" >}}
 {{< /cards >}}
 
 - サポートされているプロバイダーを選択し、資格情報を入力して**完了**をタップ
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="クラウドストレージに接続" image="/docs/howto/how-to-edit-lyrics-for-audio-files-on-iphone-mac/connect-to-cloud-storage.webp" >}}
+{{< ls-card title="" subtitle="クラウドストレージに接続" image="/docs/howto/how-to-edit-lyrics-for-audio-files-on-iphone-mac/connect-to-cloud-storage.webp" >}}
 {{< /cards >}}
 
 - 接続すると、クラウドストレージがアプリの**クラウドストレージ**セクションに表示されます。
@@ -52,7 +52,7 @@ readingTime: 2
 - 接続されたクラウドストレージをタップして、そのフォルダの内容を参照・読み込みます。
   
 {{< cards cols="1">}}
-{{< card title="" subtitle="クラウドストレージファイル一覧" image="/docs/howto/how-to-edit-lyrics-for-audio-files-on-iphone-mac/cloud-storage-list-audio-files.webp" >}}
+{{< ls-card title="" subtitle="クラウドストレージファイル一覧" image="/docs/howto/how-to-edit-lyrics-for-audio-files-on-iphone-mac/cloud-storage-list-audio-files.webp" >}}
 {{< /cards >}}
 
 ## ローカルフォルダを接続
@@ -74,7 +74,7 @@ readingTime: 2
 - サイドバーメニューで**このデバイス上のファイル**まで下にスクロール
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="デバイスフォルダ" image="/docs/howto/how-to-edit-lyrics-for-audio-files-on-iphone-mac/device-folders.webp" >}}
+{{< ls-card title="" subtitle="デバイスフォルダ" image="/docs/howto/how-to-edit-lyrics-for-audio-files-on-iphone-mac/device-folders.webp" >}}
 {{< /cards >}}
   
 - メニュー項目**すべてのデバイスフォルダ**をタップ
@@ -91,7 +91,7 @@ readingTime: 2
 **タグエディタ**はEvertagアプリのメイン画面で、オーディオファイルのメタデータを表示・編集できます。**ローカルファイル**セクションまたは接続された**クラウドストレージ**アカウントからファイルをタップしてこの画面を開きます。
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Evertagタグエディタ画面" image="/docs/howto/how-to-edit-lyrics-for-audio-files-on-iphone-mac/cloud-storage-audio-file-tag-editor.webp" >}}
+{{< ls-card title="" subtitle="Evertagタグエディタ画面" image="/docs/howto/how-to-edit-lyrics-for-audio-files-on-iphone-mac/cloud-storage-audio-file-tag-editor.webp" >}}
 {{< /cards >}}
 
 ## 編集モード
@@ -112,7 +112,7 @@ Evertagには2つの編集モードがあります：
 利用可能なすべてのタグにアクセスするには、画面の下部までスクロールし、**拡張タグを表示**オプションをタップします。これにより、エディタが拡張モードに切り替わり、**MusicBrainzタグ**、**歌詞**、**アドバイザリー評価**など、**120以上のメタデータフィールド**を編集できるようになります。
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="下部アクションパネル" image="/docs/howto/how-to-edit-lyrics-for-audio-files-on-iphone-mac/show-extended-tags.webp" >}}
+{{< ls-card title="" subtitle="下部アクションパネル" image="/docs/howto/how-to-edit-lyrics-for-audio-files-on-iphone-mac/show-extended-tags.webp" >}}
 {{< /cards >}}
 
 ## バッチモード
@@ -137,7 +137,7 @@ Evertagアプリを使用して、オーディオファイルに埋め込まれ�
 **拡張タグ**モードで、下にスクロールして**非同期歌詞**テキストフィールドをタップします。
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="非同期歌詞テキストフィールド" image="/docs/howto/how-to-edit-lyrics-for-audio-files-on-iphone-mac/advisory-rating-2.webp" >}}
+{{< ls-card title="" subtitle="非同期歌詞テキストフィールド" image="/docs/howto/how-to-edit-lyrics-for-audio-files-on-iphone-mac/advisory-rating-2.webp" >}}
 {{< /cards >}}
 
 > **ID3タグ**をサポートするオーディオファイル（`.mp3`や`.wav`など）では、複数の言語で歌詞を追加できます。ID3タグ付きファイルを編集している場合、Evertagは完全な多言語サポートを有効にします。  
@@ -148,7 +148,7 @@ Evertagアプリを使用して、オーディオファイルに埋め込まれ�
 ID3タグを編集している場合、次の画面に**新しいページを追加**ボタンが表示されます。タップして新しい歌詞エントリの追加を開始します。
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="新しい歌詞ページを追加" image="/docs/howto/how-to-edit-lyrics-for-audio-files-on-iphone-mac/add-new-page.webp" >}}
+{{< ls-card title="" subtitle="新しい歌詞ページを追加" image="/docs/howto/how-to-edit-lyrics-for-audio-files-on-iphone-mac/add-new-page.webp" >}}
 {{< /cards >}}
 
 ### 言語、コメント、歌詞の内容を選択
@@ -159,7 +159,7 @@ ID3タグを編集している場合、次の画面に**新しいページを追
 - 実際の**歌詞テキスト**を入力
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="言語を選択" image="/docs/howto/how-to-edit-lyrics-for-audio-files-on-iphone-mac/choose-language.webp" >}}
+{{< ls-card title="" subtitle="言語を選択" image="/docs/howto/how-to-edit-lyrics-for-audio-files-on-iphone-mac/choose-language.webp" >}}
 {{< /cards >}}
 
 ### 歌詞を入力
@@ -169,7 +169,7 @@ ID3タグを編集している場合、次の画面に**新しいページを追
 > ヒント：高品質な歌詞をお探しですか？[lyricsify.com](https://www.lyricsify.com)を訪れて、何千ものトラックのLRC形式の歌詞を見つけましょう。
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="追加された歌詞" image="/docs/howto/how-to-edit-lyrics-for-audio-files-on-iphone-mac/added-lyrics.webp" >}}
+{{< ls-card title="" subtitle="追加された歌詞" image="/docs/howto/how-to-edit-lyrics-for-audio-files-on-iphone-mac/added-lyrics.webp" >}}
 {{< /cards >}}
 
 ### 「完了」をタップして確認
@@ -177,7 +177,7 @@ ID3タグを編集している場合、次の画面に**新しいページを追
 歌詞を入力した後、歌詞ページで**完了**をタップします。次に、前の画面で再度**完了**をタップして変更を確認します。
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="保存された歌詞" image="/docs/howto/how-to-edit-lyrics-for-audio-files-on-iphone-mac/saved-lyrics.webp" >}}
+{{< ls-card title="" subtitle="保存された歌詞" image="/docs/howto/how-to-edit-lyrics-for-audio-files-on-iphone-mac/saved-lyrics.webp" >}}
 {{< /cards >}}
 
 ### タグの変更を保存
@@ -185,7 +185,7 @@ ID3タグを編集している場合、次の画面に**新しいページを追
 最後に、**タグエディタ**画面で**保存**をタップして、新しい歌詞を含む更新されたタグをファイルに書き戻します。
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="歌詞付きタグエディタ" image="/docs/howto/how-to-edit-lyrics-for-audio-files-on-iphone-mac/tags-editor-with-lyrics.webp" >}}
+{{< ls-card title="" subtitle="歌詞付きタグエディタ" image="/docs/howto/how-to-edit-lyrics-for-audio-files-on-iphone-mac/tags-editor-with-lyrics.webp" >}}
 {{< /cards >}}
 
 ### 歌詞アドバイザリー評価を設定
@@ -204,22 +204,22 @@ ID3タグを編集している場合、次の画面に**新しいページを追
 
 ## よくある質問
 
-{{% details title="Evertagは歌詞編集にどのオーディオフォーマットをサポートしていますか？" closed="true" %}}
+{{% ls-details title="Evertagは歌詞編集にどのオーディオフォーマットをサポートしていますか？" closed="true" %}}
 Evertagは、MP3、FLAC、WAV、M4A、OGG、AIFFなど、30以上のオーディオフォーマットをサポートしています。これらのフォーマットのいずれでも歌詞やその他のメタデータタグを編集できます。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="複数の言語で歌詞を追加できますか？" closed="true" %}}
+{{% ls-details title="複数の言語で歌詞を追加できますか？" closed="true" %}}
 はい。ただし、ID3タグを使用するオーディオファイル（MP3やWAVなど）のみです。FLACやM4Aなどの他のフォーマットでは、単一の歌詞エントリのみがサポートされます。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Evertagは歌詞のバッチ編集をサポートしていますか？" closed="true" %}}
+{{% ls-details title="Evertagは歌詞のバッチ編集をサポートしていますか？" closed="true" %}}
 はい。バッチモードに入って、複数のファイルのメタデータを一度に編集できます。これは、アルバム全体に同じ歌詞アドバイザリー評価やその他の共有タグを適用する場合に便利です。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="編集した歌詞はApple MusicやSpotifyに表示されますか？" closed="true" %}}
+{{% ls-details title="編集した歌詞はApple MusicやSpotifyに表示されますか？" closed="true" %}}
 Evertagで編集した歌詞は、オーディオファイルのメタデータに埋め込まれます。Evermusic、Flacbox、VLC、foobar2000など、埋め込み歌詞タグを読み取る任意の音楽プレーヤーに表示されます。SpotifyやApple Musicなどのストリーミングアプリは独自の歌詞データベースを使用し、埋め込みタグは読み取りません。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="クラウドストレージに保存されたファイルのタグを編集できますか？" closed="true" %}}
+{{% ls-details title="クラウドストレージに保存されたファイルのタグを編集できますか？" closed="true" %}}
 はい。Evertagはクラウドストレージサービスへの接続をサポートしています。アプリがファイルをダウンロードし、タグを編集できるようにし、更新されたファイルを自動的にクラウドにアップロードします。
-{{% /details %}}
+{{% /ls-details %}}

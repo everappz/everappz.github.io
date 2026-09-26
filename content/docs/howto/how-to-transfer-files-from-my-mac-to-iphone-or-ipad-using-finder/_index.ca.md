@@ -17,7 +17,7 @@ keywords: [
 readingTime: 3
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **Resum:** Connecteu el vostre iPhone o iPad al Mac (o PC) amb un cable USB. A macOS Catalina i versions posteriors, utilitzeu Finder. En versions anteriors de macOS o Windows, utilitzeu iTunes. Arrossegueu fitxers a una aplicació com Evermusic, Flacbox o Evertag per transferir-los instantàniament.
@@ -117,26 +117,26 @@ Amb la compartició de fitxers d'iTunes, podeu gestionar fàcilment fitxers entr
 
 ## Preguntes freqüents
 
-{{% details title="Necessito una connexió a internet per transferir fitxers via USB?" closed="true" %}}
+{{% ls-details title="Necessito una connexió a internet per transferir fitxers via USB?" closed="true" %}}
 No. La compartició de fitxers funciona completament a través de la connexió per cable USB entre el vostre ordinador i el dispositiu iOS. No cal internet.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Quins formats de fitxer puc transferir a Evermusic o Flacbox?" closed="true" %}}
+{{% ls-details title="Quins formats de fitxer puc transferir a Evermusic o Flacbox?" closed="true" %}}
 Ambdues aplicacions admeten una àmplia gamma de formats d'àudio, incloent MP3, FLAC, AAC, WAV, AIFF, OGG, WMA i més. Consulteu la documentació de l'aplicació per a la llista completa de formats admesos.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Per què no veig la pestanya Fitxers a Finder?" closed="true" %}}
+{{% ls-details title="Per què no veig la pestanya Fitxers a Finder?" closed="true" %}}
 La pestanya Fitxers només apareix quan el vostre dispositiu té almenys una aplicació instal·lada que admet la compartició de fitxers. Instal·leu Evermusic, Flacbox o Evertag i torneu a connectar el vostre dispositiu.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Puc transferir fitxers sense fils en lloc d'utilitzar un cable USB?" closed="true" %}}
+{{% ls-details title="Puc transferir fitxers sense fils en lloc d'utilitzar un cable USB?" closed="true" %}}
 Sí. Evermusic i Flacbox també admeten serveis d'emmagatzematge al núvol i transferència Wi-Fi. No obstant això, la compartició de fitxers USB a través de Finder o iTunes és normalment més ràpida per a grans biblioteques de música.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="La transferència de fitxers via Finder sobreescriurà els fitxers existents al meu dispositiu?" closed="true" %}}
+{{% ls-details title="La transferència de fitxers via Finder sobreescriurà els fitxers existents al meu dispositiu?" closed="true" %}}
 No. Els fitxers nous s'afegeixen al costat dels existents. Si ja existeix un fitxer amb el mateix nom, macOS pot canviar el nom del fitxer nou automàticament.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Aquest mètode funciona amb PC amb Windows?" closed="true" %}}
+{{% ls-details title="Aquest mètode funciona amb PC amb Windows?" closed="true" %}}
 Sí. A Windows, utilitzeu iTunes per transferir fitxers. El procés és el mateix que el descrit a la secció d'iTunes anterior. Instal·leu iTunes des de la Microsoft Store o el lloc web d'Apple.
-{{% /details %}}
+{{% /ls-details %}}

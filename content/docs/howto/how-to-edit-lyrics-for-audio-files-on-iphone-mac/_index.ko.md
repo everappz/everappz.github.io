@@ -7,7 +7,7 @@ tags: ["lyrics", "mp3", "id3", "metadata", "iphone", "audio editing"]
 readingTime: 2
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **요약:** 무료 **Evertag** 앱을 사용하여 iPhone 또는 Mac에서 비동기화 가사, 자문 등급 및 120개 이상의 오디오 태그를 편집하세요. 로컬 및 클라우드 저장 파일과 호환되며, 일괄 편집을 지원하고, Evermusic, Flacbox 및 기타 플레이어에서 볼 수 있는 가사를 저장합니다.
@@ -23,8 +23,8 @@ readingTime: 2
 App Store에서 **Evertag** 앱을 다운로드하여 시작하세요. **iOS**와 **macOS** 모두에서 사용 가능하며, 무료입니다.
 
 {{< cards cols="2">}}
-{{< card link="https://apps.apple.com/app/apple-store/id1450763230?pt=95781850&ct=everappzcom&mt=8" title="Evertag for iOS" icon="download" tag="Free" >}}
-{{< card link="https://apps.apple.com/app/apple-store/id1594027661?pt=95781850&ct=everappzcom&mt=8" title="Evertag for macOS" icon="download" tag="Free" >}}
+{{< ls-card link="https://apps.apple.com/app/apple-store/id1450763230?pt=95781850&ct=everappzcom&mt=8" title="Evertag for iOS" icon="download" tag="Free" >}}
+{{< ls-card link="https://apps.apple.com/app/apple-store/id1594027661?pt=95781850&ct=everappzcom&mt=8" title="Evertag for macOS" icon="download" tag="Free" >}}
 {{< /cards >}}
 
 ## 클라우드 계정 연결
@@ -38,13 +38,13 @@ App Store에서 **Evertag** 앱을 다운로드하여 시작하세요. **iOS**�
 - **클라우드 저장소에 연결**을 탭
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="클라우드 저장소에 연결" image="/docs/howto/how-to-edit-lyrics-for-audio-files-on-iphone-mac/connect-to-cloud-storage.webp" >}}
+{{< ls-card title="" subtitle="클라우드 저장소에 연결" image="/docs/howto/how-to-edit-lyrics-for-audio-files-on-iphone-mac/connect-to-cloud-storage.webp" >}}
 {{< /cards >}}
 
 - 지원되는 제공업체를 선택하고, 자격 증명을 입력한 후 **완료**를 탭
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="클라우드 저장소에 연결" image="/docs/howto/how-to-edit-lyrics-for-audio-files-on-iphone-mac/connect-to-cloud-storage.webp" >}}
+{{< ls-card title="" subtitle="클라우드 저장소에 연결" image="/docs/howto/how-to-edit-lyrics-for-audio-files-on-iphone-mac/connect-to-cloud-storage.webp" >}}
 {{< /cards >}}
 
 - 연결되면 클라우드 저장소가 앱의 **클라우드 저장소** 섹션에 나타납니다.
@@ -52,7 +52,7 @@ App Store에서 **Evertag** 앱을 다운로드하여 시작하세요. **iOS**�
 - 연결된 클라우드 저장소를 탭하여 폴더 내용을 탐색하고 로드합니다.
   
 {{< cards cols="1">}}
-{{< card title="" subtitle="클라우드 저장소 파일 목록" image="/docs/howto/how-to-edit-lyrics-for-audio-files-on-iphone-mac/cloud-storage-list-audio-files.webp" >}}
+{{< ls-card title="" subtitle="클라우드 저장소 파일 목록" image="/docs/howto/how-to-edit-lyrics-for-audio-files-on-iphone-mac/cloud-storage-list-audio-files.webp" >}}
 {{< /cards >}}
 
 ## 로컬 폴더 연결
@@ -74,7 +74,7 @@ App Store에서 **Evertag** 앱을 다운로드하여 시작하세요. **iOS**�
 - 사이드바 메뉴에서 **이 기기의 파일**까지 아래로 스크롤
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="기기 폴더" image="/docs/howto/how-to-edit-lyrics-for-audio-files-on-iphone-mac/device-folders.webp" >}}
+{{< ls-card title="" subtitle="기기 폴더" image="/docs/howto/how-to-edit-lyrics-for-audio-files-on-iphone-mac/device-folders.webp" >}}
 {{< /cards >}}
   
 - **모든 기기 폴더** 메뉴 항목을 탭
@@ -91,7 +91,7 @@ App Store에서 **Evertag** 앱을 다운로드하여 시작하세요. **iOS**�
 **태그 편집기**는 오디오 파일 메타데이터를 보고 편집할 수 있는 Evertag 앱의 메인 화면입니다. **로컬 파일** 섹션이나 연결된 **클라우드 저장소** 계정에서 파일을 탭하여 이 화면을 엽니다.
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Evertag 태그 편집기 화면" image="/docs/howto/how-to-edit-lyrics-for-audio-files-on-iphone-mac/cloud-storage-audio-file-tag-editor.webp" >}}
+{{< ls-card title="" subtitle="Evertag 태그 편집기 화면" image="/docs/howto/how-to-edit-lyrics-for-audio-files-on-iphone-mac/cloud-storage-audio-file-tag-editor.webp" >}}
 {{< /cards >}}
 
 ## 편집 모드
@@ -112,7 +112,7 @@ Evertag는 두 가지 편집 모드를 제공합니다:
 사용 가능한 모든 태그에 접근하려면 화면 하단으로 스크롤하여 **확장 태그 표시** 옵션을 탭합니다. 이렇게 하면 편집기가 확장 모드로 전환되어 **MusicBrainz 태그**, **가사**, **자문 등급** 등 **120개 이상의 메타데이터 필드**를 편집할 수 있습니다.
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="하단 작업 패널" image="/docs/howto/how-to-edit-lyrics-for-audio-files-on-iphone-mac/show-extended-tags.webp" >}}
+{{< ls-card title="" subtitle="하단 작업 패널" image="/docs/howto/how-to-edit-lyrics-for-audio-files-on-iphone-mac/show-extended-tags.webp" >}}
 {{< /cards >}}
 
 ## 일괄 모드
@@ -137,7 +137,7 @@ Evertag 앱을 사용하여 오디오 파일에 포함된 **비동기화 가사*
 **확장 태그** 모드에서 아래로 스크롤하여 **비동기화 가사** 텍스트 필드를 탭합니다.
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="비동기화 가사 텍스트 필드" image="/docs/howto/how-to-edit-lyrics-for-audio-files-on-iphone-mac/advisory-rating-2.webp" >}}
+{{< ls-card title="" subtitle="비동기화 가사 텍스트 필드" image="/docs/howto/how-to-edit-lyrics-for-audio-files-on-iphone-mac/advisory-rating-2.webp" >}}
 {{< /cards >}}
 
 > **ID3 태그**를 지원하는 오디오 파일(`.mp3` 또는 `.wav` 등)은 여러 언어로 가사를 추가할 수 있습니다. ID3 태그가 있는 파일을 편집하는 경우, Evertag는 전체 다국어 지원을 활성화합니다.  
@@ -148,7 +148,7 @@ Evertag 앱을 사용하여 오디오 파일에 포함된 **비동기화 가사*
 ID3 태그를 편집하는 경우, 다음 화면에 **새 페이지 추가** 버튼이 표시됩니다. 탭하여 새 가사 항목 추가를 시작합니다.
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="새 가사 페이지 추가" image="/docs/howto/how-to-edit-lyrics-for-audio-files-on-iphone-mac/add-new-page.webp" >}}
+{{< ls-card title="" subtitle="새 가사 페이지 추가" image="/docs/howto/how-to-edit-lyrics-for-audio-files-on-iphone-mac/add-new-page.webp" >}}
 {{< /cards >}}
 
 ### 언어, 코멘트 및 가사 내용 선택
@@ -159,7 +159,7 @@ ID3 태그를 편집하는 경우, 다음 화면에 **새 페이지 추가** 버
 - 실제 **가사 텍스트** 입력
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="언어 선택" image="/docs/howto/how-to-edit-lyrics-for-audio-files-on-iphone-mac/choose-language.webp" >}}
+{{< ls-card title="" subtitle="언어 선택" image="/docs/howto/how-to-edit-lyrics-for-audio-files-on-iphone-mac/choose-language.webp" >}}
 {{< /cards >}}
 
 ### 가사 입력
@@ -169,7 +169,7 @@ ID3 태그를 편집하는 경우, 다음 화면에 **새 페이지 추가** 버
 > 팁: 고품질 가사를 찾고 계신가요? [lyricsify.com](https://www.lyricsify.com)을 방문하여 수천 곡의 LRC 형식 가사를 찾아보세요.
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="추가된 가사" image="/docs/howto/how-to-edit-lyrics-for-audio-files-on-iphone-mac/added-lyrics.webp" >}}
+{{< ls-card title="" subtitle="추가된 가사" image="/docs/howto/how-to-edit-lyrics-for-audio-files-on-iphone-mac/added-lyrics.webp" >}}
 {{< /cards >}}
 
 ### "완료"를 탭하여 확인
@@ -177,7 +177,7 @@ ID3 태그를 편집하는 경우, 다음 화면에 **새 페이지 추가** 버
 가사를 입력한 후, 가사 페이지에서 **완료**를 탭합니다. 그런 다음 이전 화면에서 다시 **완료**를 탭하여 변경 사항을 확인합니다.
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="저장된 가사" image="/docs/howto/how-to-edit-lyrics-for-audio-files-on-iphone-mac/saved-lyrics.webp" >}}
+{{< ls-card title="" subtitle="저장된 가사" image="/docs/howto/how-to-edit-lyrics-for-audio-files-on-iphone-mac/saved-lyrics.webp" >}}
 {{< /cards >}}
 
 ### 태그 변경 사항 저장
@@ -185,7 +185,7 @@ ID3 태그를 편집하는 경우, 다음 화면에 **새 페이지 추가** 버
 마지막으로, **태그 편집기** 화면에서 **저장**을 탭하여 새 가사를 포함한 업데이트된 태그를 파일에 다시 기록합니다.
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="가사가 있는 태그 편집기" image="/docs/howto/how-to-edit-lyrics-for-audio-files-on-iphone-mac/tags-editor-with-lyrics.webp" >}}
+{{< ls-card title="" subtitle="가사가 있는 태그 편집기" image="/docs/howto/how-to-edit-lyrics-for-audio-files-on-iphone-mac/tags-editor-with-lyrics.webp" >}}
 {{< /cards >}}
 
 ### 가사 자문 등급 설정
@@ -204,22 +204,22 @@ ID3 태그를 편집하는 경우, 다음 화면에 **새 페이지 추가** 버
 
 ## 자주 묻는 질문
 
-{{% details title="Evertag는 가사 편집에 어떤 오디오 형식을 지원하나요?" closed="true" %}}
+{{% ls-details title="Evertag는 가사 편집에 어떤 오디오 형식을 지원하나요?" closed="true" %}}
 Evertag는 MP3, FLAC, WAV, M4A, OGG, AIFF 등 30개 이상의 오디오 형식을 지원합니다. 이러한 형식 중 어떤 것에서든 가사 및 기타 메타데이터 태그를 편집할 수 있습니다.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="여러 언어로 가사를 추가할 수 있나요?" closed="true" %}}
+{{% ls-details title="여러 언어로 가사를 추가할 수 있나요?" closed="true" %}}
 네, 하지만 ID3 태그를 사용하는 오디오 파일(MP3 및 WAV 등)에서만 가능합니다. FLAC 또는 M4A와 같은 다른 형식에서는 단일 가사 항목만 지원됩니다.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Evertag는 가사 일괄 편집을 지원하나요?" closed="true" %}}
+{{% ls-details title="Evertag는 가사 일괄 편집을 지원하나요?" closed="true" %}}
 네. 일괄 모드로 진입하여 여러 파일의 메타데이터를 한 번에 편집할 수 있습니다. 이는 전체 앨범에 동일한 가사 자문 등급이나 기타 공유 태그를 적용하는 데 유용합니다.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="편집된 가사가 Apple Music이나 Spotify에 나타나나요?" closed="true" %}}
+{{% ls-details title="편집된 가사가 Apple Music이나 Spotify에 나타나나요?" closed="true" %}}
 Evertag로 편집된 가사는 오디오 파일의 메타데이터에 포함됩니다. Evermusic, Flacbox, VLC, foobar2000 등 포함된 가사 태그를 읽는 모든 음악 플레이어에 나타납니다. Spotify 및 Apple Music과 같은 스트리밍 앱은 자체 가사 데이터베이스를 사용하며 포함된 태그를 읽지 않습니다.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="클라우드 저장소에 저장된 파일의 태그를 편집할 수 있나요?" closed="true" %}}
+{{% ls-details title="클라우드 저장소에 저장된 파일의 태그를 편집할 수 있나요?" closed="true" %}}
 네. Evertag는 클라우드 저장소 서비스 연결을 지원합니다. 앱이 파일을 다운로드하고, 태그를 편집할 수 있게 하며, 업데이트된 파일을 자동으로 클라우드에 다시 업로드합니다.
-{{% /details %}}
+{{% /ls-details %}}

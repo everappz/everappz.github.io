@@ -7,7 +7,7 @@ tags: ["evermusic", "flacbox", "pilvi", "tiedosto", "tili", "hallinta", "yhteys"
 keywords: ["yhdistä pilvipalvelu Evermusic-sovellukseen", "lataa tiedostoja Google Driveen", "Flacbox pilvi-integraatio", "käytä OneDrivea Evermusic-sovelluksen kanssa", "Evertag pilvitiedostojen käyttö", "yhdistä Dropbox iOS-musiikkisoittimeen", "tiedostonhallinta pilvipalveluille"]
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **Lyhyesti:** Lataa musiikki- tai mediatiedostosi mihin tahansa tuettuun pilvipalveluun (Google Drive, Dropbox, OneDrive ja muut), yhdistä sitten kyseinen palvelu Evermusic-, Flacbox- tai Evertag-sovelluksessa suoratoistaaksesi tai ladataksesi tiedostosi suoraan iPhonella, iPadilla tai Macilla.
@@ -76,38 +76,38 @@ Sano hyvästit tallennustilan rajoituksille ja tervetuloa mukavuudelle!
 
 ## Usein kysytyt kysymykset
 
-{{% details title="Mitkä pilvipalvelut ovat tuettuja?" closed="true" %}}
+{{% ls-details title="Mitkä pilvipalvelut ovat tuettuja?" closed="true" %}}
 Evermusic, Flacbox ja Evertag tukevat Google Drivea, Dropboxia, OneDrivea, Boxia, MediaFireä, Yandex.Diskiä, MEGAa, MyDrivea, pCloudia ja muita pilvipalveluntarjoajia. Voit myös yhdistää mukautettuja WebDAV-, SMB- ja FTP-palvelimia.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Voinko suoratoistaa musiikkia suoraan pilvestä lataamatta?" closed="true" %}}
+{{% ls-details title="Voinko suoratoistaa musiikkia suoraan pilvestä lataamatta?" closed="true" %}}
 Kyllä. Kaikki kolme sovellusta tukevat äänitiedostojen suoratoistoa suoraan yhdistetystä pilvitallennustilasta. Voit myös ladata tiedostoja offline-toistoa varten, kun sinulla ei ole internet-yhteyttä.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Onko sovelluksessa tiedostokoko- tai tallennustilarajoitusta?" closed="true" %}}
+{{% ls-details title="Onko sovelluksessa tiedostokoko- tai tallennustilarajoitusta?" closed="true" %}}
 Sovellukset eivät aseta omia tiedostokoko- tai tallennustilarajoituksia. Käytettävissä oleva tallennustila riippuu pilvipalvelusuunnitelmastasi ja laitteesi paikallisesta tallennustilasta ladatuille tiedostoille.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Voinko yhdistää useita pilvitilejä samanaikaisesti?" closed="true" %}}
+{{% ls-details title="Voinko yhdistää useita pilvitilejä samanaikaisesti?" closed="true" %}}
 Kyllä. Voit yhdistää useita pilvipalveluita ja useita tilejä samalta tarjoajalta samanaikaisesti. Kaikki yhdistetyt tilit näkyvät Yhteydet-välilehdellä helppoa vaihtamista varten.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Pitääkö minun ladata tiedostot uudelleen, jos vaihdan toiseen sovellukseen?" closed="true" %}}
+{{% ls-details title="Pitääkö minun ladata tiedostot uudelleen, jos vaihdan toiseen sovellukseen?" closed="true" %}}
 Ei. Koska tiedostosi on tallennettu pilveen, voit yhdistää saman pilvitilin Evermusic-, Flacbox- tai Evertag-sovellukseen lataamatta mitään uudelleen. Jokainen sovellus käyttää samoja tiedostoja pilvitallennustilastasi.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Ovatko pilvitilini tiedot turvassa?" closed="true" %}}
+{{% ls-details title="Ovatko pilvitilini tiedot turvassa?" closed="true" %}}
 Kyllä. Sovellus käyttää vain virallisia SDK:ita ja salattuja yhteyksiä vuorovaikutuksessa pilvipalveluiden kanssa. Kirjautumistunnustasi ja salasanaasi ei koskaan tallenneta sovellukseen. Kirjautuessasi sovellus näyttää pilvipalvelun tarjoaman virallisen valtuutussivun. Onnistuneen valtuutuksen jälkeen pilvipalveluntarjoaja lähettää sovellukselle todennustokenin, joka tallennetaan turvallisesti laitteen Keychainiin. Tätä tokenia käytetään kaikkiin API-pyyntöihin.<br><br>
 Sovellus ei jaa mitään tietoja pilvitililtäsi. Voit peruuttaa pääsyn milloin tahansa pilvitilisi asetussivulta verkkoselaimessa tai irrottaa tilin sovelluksen sisällä.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Kuinka irrotan pilvipalvelun tai muutan sen asetuksia?" closed="true" %}}
+{{% ls-details title="Kuinka irrotan pilvipalvelun tai muutan sen asetuksia?" closed="true" %}}
 Etsi pilvitallennustila sovelluksen **Yhteydet**-välilehdeltä ja napauta sen vieressä olevaa **...** -painiketta. Näet nämä vaihtoehdot:<br>
 - **Nimeä uudelleen** -- muuta pilvipalvelun näyttönimeä<br>
 - **Asetukset** -- muokkaa asetuksia tai valtuuta uudelleen, jos token on vanhentunut<br>
 - **Irrottaa** -- poista yhteys kokonaan. Tämä poistaa kaikki tämän pilvipalvelun kappaleet sovelluksen musiikkikirjastosta, mutta tiedostot säilyvät palvelimella
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Kuinka peruutan sovelluksen pääsyn pilvitiilleni?" closed="true" %}}
+{{% ls-details title="Kuinka peruutan sovelluksen pääsyn pilvitiilleni?" closed="true" %}}
 Kirjaudu pilvitilillesi verkkoselaimessa ja avaa tiliasetukset tai turvallisuussivu. Etsi yhdistettyjen kolmannen osapuolen sovellusten luettelo ja poista sovellus, jota et enää halua valtuuttaa. Voit myös irrottaa pilvitilin sovelluksen sisällä -- tämä poistaa todennustokenin laitteestasi. Jos poistat sovelluksen kokonaan, kaikki ladatut tiedot ja pääsytokenit poistetaan automaattisesti.
-{{% /details %}}
+{{% /ls-details %}}

@@ -7,7 +7,7 @@ tags: ["spotify", "एल्बम कवर", "mp3", "मेटाडेटा"
 readingTime: 3
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **संक्षेप में:** Spotify आपको स्ट्रीम किए गए ट्रैक के एल्बम कवर बदलने नहीं देता, लेकिन आप स्थानीय फ़ाइलों के आर्टवर्क को अपडेट कर सकते हैं। Spotify की स्थानीय फ़ाइलें सुविधा सक्षम करें, अपना संगीत Spotify फ़ोल्डर में कॉपी करें, फिर एल्बम कवर और मेटाडेटा संपादित करने के लिए मुफ़्त Evertag ऐप का उपयोग करें। परिवर्तन Spotify को रीस्टार्ट करने के बाद दिखाई देंगे।
@@ -25,8 +25,8 @@ readingTime: 3
 App Store से **Evertag** ऐप डाउनलोड करके शुरुआत करें। यह मुफ़्त है और **iOS** तथा **macOS** दोनों पर उपलब्ध है।
 
 {{< cards cols="2">}}
-{{< card link="https://apps.apple.com/app/apple-store/id1450763230?pt=95781850&ct=everappzcom&mt=8" title="Evertag iOS के लिए" icon="download" tag="Free" >}}
-{{< card link="https://apps.apple.com/app/apple-store/id1594027661?pt=95781850&ct=everappzcom&mt=8" title="Evertag macOS के लिए" icon="download" tag="Free" >}}
+{{< ls-card link="https://apps.apple.com/app/apple-store/id1450763230?pt=95781850&ct=everappzcom&mt=8" title="Evertag iOS के लिए" icon="download" tag="Free" >}}
+{{< ls-card link="https://apps.apple.com/app/apple-store/id1594027661?pt=95781850&ct=everappzcom&mt=8" title="Evertag macOS के लिए" icon="download" tag="Free" >}}
 {{< /cards >}}
 
 ## Spotify में स्थानीय लाइब्रेरी सक्रिय करें
@@ -36,7 +36,7 @@ App Store से **Evertag** ऐप डाउनलोड करके शुर
 ### Spotify ऐप खोलें
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Spotify ऐप का मुख्य इंटरफ़ेस" image="/docs/howto/how-to-change-album-covers-for-local-tracks-on-spotify-step-by-step-guide-mobile-desktop/spotify-main.webp" >}}
+{{< ls-card title="" subtitle="Spotify ऐप का मुख्य इंटरफ़ेस" image="/docs/howto/how-to-change-album-covers-for-local-tracks-on-spotify-step-by-step-guide-mobile-desktop/spotify-main.webp" >}}
 {{< /cards >}}
 
 ### अपने प्रोफ़ाइल आइकन पर टैप करें
@@ -44,7 +44,7 @@ App Store से **Evertag** ऐप डाउनलोड करके शुर
 Spotify होम स्क्रीन के ऊपरी बाएं कोने में देखें और मेनू खोलने के लिए अपनी प्रोफ़ाइल तस्वीर पर टैप करें।
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Spotify अवतार और विकल्प" image="/docs/howto/how-to-change-album-covers-for-local-tracks-on-spotify-step-by-step-guide-mobile-desktop/spotify-avatar-options.webp" >}}
+{{< ls-card title="" subtitle="Spotify अवतार और विकल्प" image="/docs/howto/how-to-change-album-covers-for-local-tracks-on-spotify-step-by-step-guide-mobile-desktop/spotify-avatar-options.webp" >}}
 {{< /cards >}}
 
 ### «सेटिंग्स और गोपनीयता» चुनें
@@ -52,7 +52,7 @@ Spotify होम स्क्रीन के ऊपरी बाएं को�
 मेनू में नीचे स्क्रॉल करें और विकल्पों की पूरी सूची खोलने के लिए **सेटिंग्स और गोपनीयता** चुनें।
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Spotify सेटिंग्स मेनू" image="/docs/howto/how-to-change-album-covers-for-local-tracks-on-spotify-step-by-step-guide-mobile-desktop/spotify-settings.webp" >}}
+{{< ls-card title="" subtitle="Spotify सेटिंग्स मेनू" image="/docs/howto/how-to-change-album-covers-for-local-tracks-on-spotify-step-by-step-guide-mobile-desktop/spotify-settings.webp" >}}
 {{< /cards >}}
 
 ### «ऐप्स और डिवाइस» चुनें
@@ -60,7 +60,7 @@ Spotify होम स्क्रीन के ऊपरी बाएं को�
 डिवाइस एकीकरण सेटिंग्स देखने के लिए **ऐप्स और डिवाइस** मेनू आइटम ढूंढें और टैप करें।
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Spotify ऐप्स और डिवाइस" image="/docs/howto/how-to-change-album-covers-for-local-tracks-on-spotify-step-by-step-guide-mobile-desktop/spotify-apps-and-devices.webp" >}}
+{{< ls-card title="" subtitle="Spotify ऐप्स और डिवाइस" image="/docs/howto/how-to-change-album-covers-for-local-tracks-on-spotify-step-by-step-guide-mobile-desktop/spotify-apps-and-devices.webp" >}}
 {{< /cards >}}
 
 ### «स्थानीय ऑडियो फ़ाइलें» चालू करें
@@ -68,7 +68,7 @@ Spotify होम स्क्रीन के ऊपरी बाएं को�
 **स्थानीय ऑडियो फ़ाइलें** के लिए स्विच चालू करें। जब संकेत दिया जाए, तो Spotify को अपनी संगीत फ़ाइलों तक पहुंच की अनुमति दें।
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Spotify को संगीत फ़ाइलों तक पहुंच प्रदान करें" image="/docs/howto/how-to-change-album-covers-for-local-tracks-on-spotify-step-by-step-guide-mobile-desktop/spotify-access-to-music.webp" >}}
+{{< ls-card title="" subtitle="Spotify को संगीत फ़ाइलों तक पहुंच प्रदान करें" image="/docs/howto/how-to-change-album-covers-for-local-tracks-on-spotify-step-by-step-guide-mobile-desktop/spotify-access-to-music.webp" >}}
 {{< /cards >}}
 
 ### Spotify फ़ोल्डर जांचें
@@ -76,7 +76,7 @@ Spotify होम स्क्रीन के ऊपरी बाएं को�
 अनुमति मिलने के बाद, **फ़ाइलें** ऐप खोलें, **स्थान > मेरे iPhone/iPad पर** जाएं और **Spotify** फ़ोल्डर खोजें। यहां स्थानीय संगीत फ़ाइलें रखी जानी चाहिए।
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Spotify संगीत फ़ाइलें" image="/docs/howto/how-to-change-album-covers-for-local-tracks-on-spotify-step-by-step-guide-mobile-desktop/files-app-spotify-folder.webp" >}}
+{{< ls-card title="" subtitle="Spotify संगीत फ़ाइलें" image="/docs/howto/how-to-change-album-covers-for-local-tracks-on-spotify-step-by-step-guide-mobile-desktop/files-app-spotify-folder.webp" >}}
 {{< /cards >}}
 
 ## Spotify की स्थानीय लाइब्रेरी फ़ोल्डर में संगीत फ़ाइलें डालें
@@ -90,7 +90,7 @@ Spotify होम स्क्रीन के ऊपरी बाएं को�
 ### फ़ाइलें ऐप खोलें – स्थान – इस डिवाइस पर
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Spotify फ़ोल्डर" image="/docs/howto/how-to-change-album-covers-for-local-tracks-on-spotify-step-by-step-guide-mobile-desktop/files-app-spotify-folder.webp" >}}
+{{< ls-card title="" subtitle="Spotify फ़ोल्डर" image="/docs/howto/how-to-change-album-covers-for-local-tracks-on-spotify-step-by-step-guide-mobile-desktop/files-app-spotify-folder.webp" >}}
 {{< /cards >}}
 
 ### संगीत फ़ोल्डर कॉपी करें
@@ -98,7 +98,7 @@ Spotify होम स्क्रीन के ऊपरी बाएं को�
 अपने **संगीत** फ़ोल्डर पर नेविगेट करें। संदर्भ मेनू खोलने के लिए टैप करके रखें, फिर **कॉपी करें** चुनें।
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="फ़ाइलें ऐप में फ़ोल्डर विकल्प एक्सेस करें" image="/docs/howto/how-to-change-album-covers-for-local-tracks-on-spotify-step-by-step-guide-mobile-desktop/files-app-folder-options.webp" >}}
+{{< ls-card title="" subtitle="फ़ाइलें ऐप में फ़ोल्डर विकल्प एक्सेस करें" image="/docs/howto/how-to-change-album-covers-for-local-tracks-on-spotify-step-by-step-guide-mobile-desktop/files-app-folder-options.webp" >}}
 {{< /cards >}}
 
 ### संगीत फ़ोल्डर पेस्ट करें
@@ -106,7 +106,7 @@ Spotify होम स्क्रीन के ऊपरी बाएं को�
 **Spotify** फ़ोल्डर पर नेविगेट करें, खाली क्षेत्र पर टैप करके रखें और संदर्भ मेनू से **पेस्ट करें** चुनें।
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="गंतव्य स्थान पर फ़ोल्डर पेस्ट करें" image="/docs/howto/how-to-change-album-covers-for-local-tracks-on-spotify-step-by-step-guide-mobile-desktop/files-app-paste-folder.webp" >}}
+{{< ls-card title="" subtitle="गंतव्य स्थान पर फ़ोल्डर पेस्ट करें" image="/docs/howto/how-to-change-album-covers-for-local-tracks-on-spotify-step-by-step-guide-mobile-desktop/files-app-paste-folder.webp" >}}
 {{< /cards >}}
 
 ### कॉपी प्रक्रिया की प्रतीक्षा करें
@@ -114,7 +114,7 @@ Spotify होम स्क्रीन के ऊपरी बाएं को�
 सिस्टम द्वारा आपके संगीत फ़ोल्डर को Spotify स्थानीय निर्देशिका में कॉपी करने तक प्रतीक्षा करें।
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="फ़ाइलें ऐप से संगीत फ़ाइलें कॉपी करना" image="/docs/howto/how-to-change-album-covers-for-local-tracks-on-spotify-step-by-step-guide-mobile-desktop/files-app-copying-music.webp" >}}
+{{< ls-card title="" subtitle="फ़ाइलें ऐप से संगीत फ़ाइलें कॉपी करना" image="/docs/howto/how-to-change-album-covers-for-local-tracks-on-spotify-step-by-step-guide-mobile-desktop/files-app-copying-music.webp" >}}
 {{< /cards >}}
 
 ### Spotify स्थानीय लाइब्रेरी खोलें
@@ -122,7 +122,7 @@ Spotify होम स्क्रीन के ऊपरी बाएं को�
 अब Spotify ऐप पर वापस जाएं। **आपकी लाइब्रेरी > स्थानीय फ़ाइलें** पर टैप करें, और आप अभी कॉपी की गई संगीत फ़ाइलें देखेंगे।
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Spotify स्थानीय संगीत लाइब्रेरी दिखा रहा है" image="/docs/howto/how-to-change-album-covers-for-local-tracks-on-spotify-step-by-step-guide-mobile-desktop/spotify-local-music-library.webp" >}}
+{{< ls-card title="" subtitle="Spotify स्थानीय संगीत लाइब्रेरी दिखा रहा है" image="/docs/howto/how-to-change-album-covers-for-local-tracks-on-spotify-step-by-step-guide-mobile-desktop/spotify-local-music-library.webp" >}}
 {{< /cards >}}
 
 ## Evertag ऐप में Spotify फ़ोल्डर कनेक्ट करें
@@ -149,26 +149,26 @@ Evertag के साथ, आप ऑडियो मेटाडेटा प्
 - साइडबार में **इस डिवाइस पर फ़ाइलें** तक स्क्रॉल करें
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Evertag में सभी डिवाइस फ़ोल्डर देखें" image="/docs/howto/how-to-change-album-covers-for-local-tracks-on-spotify-step-by-step-guide-mobile-desktop/evertag-all-device-folders.webp" >}}
+{{< ls-card title="" subtitle="Evertag में सभी डिवाइस फ़ोल्डर देखें" image="/docs/howto/how-to-change-album-covers-for-local-tracks-on-spotify-step-by-step-guide-mobile-desktop/evertag-all-device-folders.webp" >}}
 {{< /cards >}}
 
 - **सभी डिवाइस फ़ोल्डर** पर टैप करें
 - **एक फ़ोल्डर कनेक्ट करें** पर टैप करें
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="फ़ाइल पिकर से फ़ोल्डर कनेक्ट करें" image="/docs/howto/how-to-change-album-covers-for-local-tracks-on-spotify-step-by-step-guide-mobile-desktop/evertag-connect-folder-files-picker.webp" >}}
+{{< ls-card title="" subtitle="फ़ाइल पिकर से फ़ोल्डर कनेक्ट करें" image="/docs/howto/how-to-change-album-covers-for-local-tracks-on-spotify-step-by-step-guide-mobile-desktop/evertag-connect-folder-files-picker.webp" >}}
 {{< /cards >}}
 
 - **Spotify** फ़ोल्डर चुनें और पुष्टि के लिए **खोलें** पर टैप करें
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Spotify स्थानीय फ़ाइलों के साथ फ़ोल्डर कनेक्ट करें" image="/docs/howto/how-to-change-album-covers-for-local-tracks-on-spotify-step-by-step-guide-mobile-desktop/evertag-connect-folder-spotify-local.webp" >}}
+{{< ls-card title="" subtitle="Spotify स्थानीय फ़ाइलों के साथ फ़ोल्डर कनेक्ट करें" image="/docs/howto/how-to-change-album-covers-for-local-tracks-on-spotify-step-by-step-guide-mobile-desktop/evertag-connect-folder-spotify-local.webp" >}}
 {{< /cards >}}
 
 - इसकी सामग्री देखने और संपादित करने के लिए कनेक्टेड फ़ोल्डर पर टैप करें
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Evertag में फ़ोल्डर सफलतापूर्वक कनेक्ट हुआ" image="/docs/howto/how-to-change-album-covers-for-local-tracks-on-spotify-step-by-step-guide-mobile-desktop/evertag-connected-folder.webp" >}}
+{{< ls-card title="" subtitle="Evertag में फ़ोल्डर सफलतापूर्वक कनेक्ट हुआ" image="/docs/howto/how-to-change-album-covers-for-local-tracks-on-spotify-step-by-step-guide-mobile-desktop/evertag-connected-folder.webp" >}}
 {{< /cards >}}
 
 ## टैग संपादक
@@ -176,7 +176,7 @@ Evertag के साथ, आप ऑडियो मेटाडेटा प्
 **टैग संपादक** मुख्य कार्यक्षेत्र है जहां आप अपनी ऑडियो फ़ाइलों के मेटाडेटा देखते और संशोधित करते हैं।
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="कनेक्टेड फ़ोल्डर की सामग्री ब्राउज़ करें" image="/docs/howto/how-to-change-album-covers-for-local-tracks-on-spotify-step-by-step-guide-mobile-desktop/evertag-connected-folder-content.webp" >}}
+{{< ls-card title="" subtitle="कनेक्टेड फ़ोल्डर की सामग्री ब्राउज़ करें" image="/docs/howto/how-to-change-album-covers-for-local-tracks-on-spotify-step-by-step-guide-mobile-desktop/evertag-connected-folder-content.webp" >}}
 {{< /cards >}}
 
 ## संपादन मोड
@@ -221,25 +221,25 @@ Evertag दो संपादन मोड का समर्थन करत�
 1. आर्टवर्क कैरोसेल पर **कैमरा आइकन** पर टैप करें
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="कस्टम एल्बम कवर फ़ोटो चुनें" image="/docs/howto/how-to-change-album-covers-for-local-tracks-on-spotify-step-by-step-guide-mobile-desktop/evertag-choose-photo.webp" >}}
+{{< ls-card title="" subtitle="कस्टम एल्बम कवर फ़ोटो चुनें" image="/docs/howto/how-to-change-album-covers-for-local-tracks-on-spotify-step-by-step-guide-mobile-desktop/evertag-choose-photo.webp" >}}
 {{< /cards >}}
 
 2. एक छवि स्रोत चुनें (फ़ोटो लाइब्रेरी, स्थानीय फ़ाइलें, क्लाउड)
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="आर्टवर्क चुनने के लिए फ़ोटो लाइब्रेरी एक्सेस करें" image="/docs/howto/how-to-change-album-covers-for-local-tracks-on-spotify-step-by-step-guide-mobile-desktop/evertag-photo-library.webp" >}}
+{{< ls-card title="" subtitle="आर्टवर्क चुनने के लिए फ़ोटो लाइब्रेरी एक्सेस करें" image="/docs/howto/how-to-change-album-covers-for-local-tracks-on-spotify-step-by-step-guide-mobile-desktop/evertag-photo-library.webp" >}}
 {{< /cards >}}
 
 3. कवर के रूप में उपयोग करने के लिए छवि चुनें
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="संपादित एल्बम कवर पूर्वावलोकन" image="/docs/howto/how-to-change-album-covers-for-local-tracks-on-spotify-step-by-step-guide-mobile-desktop/evertag-edited-album-cover.webp" >}}
+{{< ls-card title="" subtitle="संपादित एल्बम कवर पूर्वावलोकन" image="/docs/howto/how-to-change-album-covers-for-local-tracks-on-spotify-step-by-step-guide-mobile-desktop/evertag-edited-album-cover.webp" >}}
 {{< /cards >}}
 
 4. परिवर्तन लागू करने के लिए **सहेजें** पर टैप करें
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="अपडेट किए गए ऑडियो टैग सहेजें" image="/docs/howto/how-to-change-album-covers-for-local-tracks-on-spotify-step-by-step-guide-mobile-desktop/evertag-save-tags.webp" >}}
+{{< ls-card title="" subtitle="अपडेट किए गए ऑडियो टैग सहेजें" image="/docs/howto/how-to-change-album-covers-for-local-tracks-on-spotify-step-by-step-guide-mobile-desktop/evertag-save-tags.webp" >}}
 {{< /cards >}}
 
 ## Spotify लाइब्रेरी अपडेट करें
@@ -247,7 +247,7 @@ Evertag दो संपादन मोड का समर्थन करत�
 अपने टैग सहेजने के बाद, Spotify ऐप पर वापस जाएं।
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Spotify संगीत लाइब्रेरी ब्राउज़ करें" image="/docs/howto/how-to-change-album-covers-for-local-tracks-on-spotify-step-by-step-guide-mobile-desktop/spotify-library.webp" >}}
+{{< ls-card title="" subtitle="Spotify संगीत लाइब्रेरी ब्राउज़ करें" image="/docs/howto/how-to-change-album-covers-for-local-tracks-on-spotify-step-by-step-guide-mobile-desktop/spotify-library.webp" >}}
 {{< /cards >}}
 
 **स्थानीय फ़ाइलें** अनुभाग फिर से खोलें। अब आपको अपने स्थानीय ट्रैक के लिए अपडेट किए गए आर्टवर्क और टैग दिखाई देने चाहिए।
@@ -255,7 +255,7 @@ Evertag दो संपादन मोड का समर्थन करत�
 > यदि अपडेट तुरंत नहीं दिखते, तो **Spotify को बलपूर्वक बंद करें** और फिर से खोलें। यह मेटाडेटा रिफ्रेश को ट्रिगर करता है।
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="संपादित टैग के साथ चल रहा ट्रैक" image="/docs/howto/how-to-change-album-covers-for-local-tracks-on-spotify-step-by-step-guide-mobile-desktop/spotify-playing-edited-tag.webp" >}}
+{{< ls-card title="" subtitle="संपादित टैग के साथ चल रहा ट्रैक" image="/docs/howto/how-to-change-album-covers-for-local-tracks-on-spotify-step-by-step-guide-mobile-desktop/spotify-playing-edited-tag.webp" >}}
 {{< /cards >}}
 
 ## निष्कर्ष
@@ -268,26 +268,26 @@ FLAC, MP3 या अन्य उच्च-गुणवत्ता वाले
 
 ## अक्सर पूछे जाने वाले प्रश्न
 
-{{% details title="क्या मैं Spotify स्ट्रीमिंग ट्रैक के एल्बम कवर बदल सकता हूं?" closed="true" %}}
+{{% ls-details title="क्या मैं Spotify स्ट्रीमिंग ट्रैक के एल्बम कवर बदल सकता हूं?" closed="true" %}}
 नहीं। Spotify अपने स्ट्रीमिंग कैटलॉग में ट्रैक के आर्टवर्क को बदलने की अनुमति नहीं देता। आप केवल अपनी Spotify लाइब्रेरी में जोड़ी गई स्थानीय फ़ाइलों के एल्बम कवर संपादित कर सकते हैं।
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="क्या Evertag मुफ़्त है?" closed="true" %}}
+{{% ls-details title="क्या Evertag मुफ़्त है?" closed="true" %}}
 हां। Evertag iOS और macOS दोनों पर मुफ़्त डाउनलोड और उपयोग करने के लिए है। यह 120 से अधिक ऑडियो टैग और 30+ फ़ाइल फ़ॉर्मेट का समर्थन करता है।
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Evertag किन ऑडियो फ़ॉर्मेट का समर्थन करता है?" closed="true" %}}
+{{% ls-details title="Evertag किन ऑडियो फ़ॉर्मेट का समर्थन करता है?" closed="true" %}}
 Evertag 30+ फ़ॉर्मेट का समर्थन करता है जिसमें MP3, FLAC, AAC, ALAC, WAV, AIFF, OGG, WMA और अन्य शामिल हैं।
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Spotify मेरा अपडेट किया गया एल्बम कवर क्यों नहीं दिखा रहा?" closed="true" %}}
+{{% ls-details title="Spotify मेरा अपडेट किया गया एल्बम कवर क्यों नहीं दिखा रहा?" closed="true" %}}
 Spotify ऐप को बलपूर्वक बंद करें और फिर से खोलें। Spotify मेटाडेटा को कैश करता है और स्थानीय फ़ाइलों में परिवर्तनों को पहचानने के लिए पुनरारंभ की आवश्यकता होती है।
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="क्या मैं एक बार में कई फ़ाइलों के टैग संपादित कर सकता हूं?" closed="true" %}}
+{{% ls-details title="क्या मैं एक बार में कई फ़ाइलों के टैग संपादित कर सकता हूं?" closed="true" %}}
 हां। Evertag बैच संपादन का समर्थन करता है। कई फ़ाइलें चुनें और सभी चयनित ट्रैक के टैग और आर्टवर्क एक साथ अपडेट करने के लिए «एक साथ कई फ़ाइलें संपादित करें» पर टैप करें।
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="क्या मुझे Spotify फ़ोल्डर में फ़ाइलें कॉपी करने की आवश्यकता है?" closed="true" %}}
+{{% ls-details title="क्या मुझे Spotify फ़ोल्डर में फ़ाइलें कॉपी करने की आवश्यकता है?" closed="true" %}}
 हां। Spotify केवल अपने समर्पित फ़ोल्डर से स्थानीय फ़ाइलें पढ़ता है। अपनी संगीत फ़ाइलों को अपने डिवाइस पर Spotify फ़ोल्डर में कॉपी या स्थानांतरित करें, फिर Spotify सेटिंग्स में स्थानीय ऑडियो फ़ाइलें टॉगल सक्षम करें।
-{{% /details %}}
+{{% /ls-details %}}

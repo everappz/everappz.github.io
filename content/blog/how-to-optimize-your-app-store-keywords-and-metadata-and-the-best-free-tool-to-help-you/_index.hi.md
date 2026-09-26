@@ -14,7 +14,7 @@ authors:
     image: "/images/about/artem-meleshko-founder-everappz.webp"
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 ## App Store कीवर्ड आपके डाउनलोड नंबर क्यों निर्धारित करते हैं
 
@@ -80,29 +80,29 @@ json_dict_to_meta.sh       # Converts JSON back into Fastlane folders
 टूल ओपन सोर्स है।
 
 {{< cards cols="1" >}}
-  {{< card link="https://github.com/everappz/app-store-keyword-optimizer/tree/main" title="appkeywords.pro GitHub पर" icon="github" tag= "open source" >}}
+  {{< ls-card link="https://github.com/everappz/app-store-keyword-optimizer/tree/main" title="appkeywords.pro GitHub पर" icon="github" tag= "open source" >}}
 {{< /cards >}}
 
 ---
 
 ## अक्सर पूछे जाने वाले प्रश्न
 
-{{% details title="क्या AppKeywords.pro वाकई मुफ़्त है?" closed="true" %}}
+{{% ls-details title="क्या AppKeywords.pro वाकई मुफ़्त है?" closed="true" %}}
 हाँ। यह पूरी तरह ओपन-सोर्स, ब्राउज़र-आधारित टूल है जिसमें कोई साइनअप, कोई विज्ञापन और कोई डेटा कलेक्शन नहीं है।
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="क्या यह टूल कई App Store लोकलाइज़ेशन के लिए काम करता है?" closed="true" %}}
+{{% ls-details title="क्या यह टूल कई App Store लोकलाइज़ेशन के लिए काम करता है?" closed="true" %}}
 हाँ। आप प्रत्येक लोकेल के लिए स्वतंत्र रूप से मेटाडेटा जोड़ सकते हैं, और एक्सपोर्ट में सभी भाषाएं एक Fastlane-संगत JSON फाइल में शामिल होती हैं।
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="क्या मुझे कीवर्ड फील्ड में टाइटल कीवर्ड दोहराने चाहिए?" closed="true" %}}
+{{% ls-details title="क्या मुझे कीवर्ड फील्ड में टाइटल कीवर्ड दोहराने चाहिए?" closed="true" %}}
 नहीं। Apple पहले से टाइटल और सबटाइटल के शब्दों को इंडेक्स करता है। उन्हें कीवर्ड फील्ड में दोहराना कैरेक्टर बर्बाद करता है।
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="मुझे अपने App Store कीवर्ड कितनी बार अपडेट करने चाहिए?" closed="true" %}}
+{{% ls-details title="मुझे अपने App Store कीवर्ड कितनी बार अपडेट करने चाहिए?" closed="true" %}}
 कम से कम हर तिमाही में अपने कीवर्ड की समीक्षा और रिफ्रेश करें।
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="क्या मैं इस टूल को Fastlane के साथ उपयोग कर सकता हूँ?" closed="true" %}}
+{{% ls-details title="क्या मैं इस टूल को Fastlane के साथ उपयोग कर सकता हूँ?" closed="true" %}}
 हाँ। GitHub रिपो में Fastlane मेटाडेटा फोल्डर स्ट्रक्चर और AppKeywords.pro द्वारा उपयोग किए जाने वाले JSON फॉर्मेट के बीच कन्वर्ट करने के लिए शेल स्क्रिप्ट शामिल हैं।
-{{% /details %}}
+{{% /ls-details %}}

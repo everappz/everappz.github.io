@@ -7,7 +7,7 @@ tags: ["lyrics", "mp3", "id3", "metadata", "iphone", "audio editing"]
 readingTime: 2
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **Resumé:** Brug den gratis **Evertag**-app til at redigere usynkroniserede sangtekster, indholdsklassificeringer og 120+ lyd-tags på iPhone eller Mac. Fungerer med lokale og cloud-lagrede filer, understøtter batchredigering og gemmer sangtekster synlige i Evermusic, Flacbox og andre afspillere.
@@ -23,8 +23,8 @@ Til demonstration bruger vi **Evertag**-appen. Den understøtter **120+ lyd-tags
 Begynd med at downloade **Evertag**-appen fra App Store. Den er tilgængelig for både **iOS** og **macOS** og gratis at bruge.
 
 {{< cards cols="2">}}
-{{< card link="https://apps.apple.com/app/apple-store/id1450763230?pt=95781850&ct=everappzcom&mt=8" title="Evertag til iOS" icon="download" tag="Free" >}}
-{{< card link="https://apps.apple.com/app/apple-store/id1594027661?pt=95781850&ct=everappzcom&mt=8" title="Evertag til macOS" icon="download" tag="Free" >}}
+{{< ls-card link="https://apps.apple.com/app/apple-store/id1450763230?pt=95781850&ct=everappzcom&mt=8" title="Evertag til iOS" icon="download" tag="Free" >}}
+{{< ls-card link="https://apps.apple.com/app/apple-store/id1594027661?pt=95781850&ct=everappzcom&mt=8" title="Evertag til macOS" icon="download" tag="Free" >}}
 {{< /cards >}}
 
 ## Tilslut din cloud-konto
@@ -38,13 +38,13 @@ For at tilslutte en cloud-lagringstjeneste:
 - Tryk på **Tilslut til cloud-lagring**
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Tilslut til cloud-lagring" image="/docs/howto/how-to-edit-lyrics-for-audio-files-on-iphone-mac/connect-to-cloud-storage.webp" >}}
+{{< ls-card title="" subtitle="Tilslut til cloud-lagring" image="/docs/howto/how-to-edit-lyrics-for-audio-files-on-iphone-mac/connect-to-cloud-storage.webp" >}}
 {{< /cards >}}
 
 - Vælg en understøttet udbyder, indtast dine legitimationsoplysninger og tryk på **Færdig**
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Tilslut til cloud-lagring" image="/docs/howto/how-to-edit-lyrics-for-audio-files-on-iphone-mac/connect-to-cloud-storage.webp" >}}
+{{< ls-card title="" subtitle="Tilslut til cloud-lagring" image="/docs/howto/how-to-edit-lyrics-for-audio-files-on-iphone-mac/connect-to-cloud-storage.webp" >}}
 {{< /cards >}}
 
 - Når den er tilsluttet, vises din cloud-lagring i sektionen **Cloud-lagring** i appen.
@@ -52,7 +52,7 @@ For at tilslutte en cloud-lagringstjeneste:
 - Tryk på din tilsluttede cloud-lagring for at gennemse og indlæse dens mappeindhold.
   
 {{< cards cols="1">}}
-{{< card title="" subtitle="Cloud-lagring filliste" image="/docs/howto/how-to-edit-lyrics-for-audio-files-on-iphone-mac/cloud-storage-list-audio-files.webp" >}}
+{{< ls-card title="" subtitle="Cloud-lagring filliste" image="/docs/howto/how-to-edit-lyrics-for-audio-files-on-iphone-mac/cloud-storage-list-audio-files.webp" >}}
 {{< /cards >}}
 
 ## Tilslut lokal mappe
@@ -74,7 +74,7 @@ Du kan redigere lyd-tags for filer gemt direkte på din enhed uden at importere 
 - Rul ned til **Filer på denne enhed** i sidebjælkemenuen
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Enhedsmapper" image="/docs/howto/how-to-edit-lyrics-for-audio-files-on-iphone-mac/device-folders.webp" >}}
+{{< ls-card title="" subtitle="Enhedsmapper" image="/docs/howto/how-to-edit-lyrics-for-audio-files-on-iphone-mac/device-folders.webp" >}}
 {{< /cards >}}
   
 - Tryk på menupunktet **Alle enhedsmapper**
@@ -91,7 +91,7 @@ Du kan redigere lyd-tags for filer gemt direkte på din enhed uden at importere 
 **Tag-editoren** er hovedskærmen i Evertag-appen, hvor du kan se og redigere lydfilmetadata. Åbn denne skærm ved at trykke på en fil fra sektionen **Lokale filer** eller fra en tilsluttet **cloud-lagrings**konto.
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Evertag tag-editor skærm" image="/docs/howto/how-to-edit-lyrics-for-audio-files-on-iphone-mac/cloud-storage-audio-file-tag-editor.webp" >}}
+{{< ls-card title="" subtitle="Evertag tag-editor skærm" image="/docs/howto/how-to-edit-lyrics-for-audio-files-on-iphone-mac/cloud-storage-audio-file-tag-editor.webp" >}}
 {{< /cards >}}
 
 ## Redigeringstilstande
@@ -112,7 +112,7 @@ Som standard åbner appen tag-editoren i enkeltfiltilstand med kun de vigtigste 
 For at få adgang til alle tilgængelige tags, rul til bunden af skærmen og tryk på muligheden **Vis udvidede tags**. Dette skifter editoren til udvidet tilstand, så du kan redigere over **120 metadatafelter**, herunder **MusicBrainz-tags**, **sangtekster**, **indholdsklassificeringer** og mere.
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Nedre handlingspanel" image="/docs/howto/how-to-edit-lyrics-for-audio-files-on-iphone-mac/show-extended-tags.webp" >}}
+{{< ls-card title="" subtitle="Nedre handlingspanel" image="/docs/howto/how-to-edit-lyrics-for-audio-files-on-iphone-mac/show-extended-tags.webp" >}}
 {{< /cards >}}
 
 ## Batchtilstand
@@ -137,7 +137,7 @@ Sådan tilføjer eller opdaterer du **usynkroniserede sangtekster** indlejret i 
 I tilstanden **Udvidede tags**, rul ned og tryk på tekstfeltet **Usynkroniserede sangtekster**.
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Tekstfelt for usynkroniserede sangtekster" image="/docs/howto/how-to-edit-lyrics-for-audio-files-on-iphone-mac/advisory-rating-2.webp" >}}
+{{< ls-card title="" subtitle="Tekstfelt for usynkroniserede sangtekster" image="/docs/howto/how-to-edit-lyrics-for-audio-files-on-iphone-mac/advisory-rating-2.webp" >}}
 {{< /cards >}}
 
 > Lydfiler der understøtter **ID3-tags** (som `.mp3` eller `.wav`) lader dig tilføje sangtekster på flere sprog. Hvis du redigerer en ID3-tagget fil, aktiverer Evertag fuld flersproget understøttelse.  
@@ -148,7 +148,7 @@ I tilstanden **Udvidede tags**, rul ned og tryk på tekstfeltet **Usynkronisered
 Hvis du redigerer ID3-tags, viser næste skærm en knap **Tilføj ny side**. Tryk på den for at begynde at tilføje en ny sangtekstpost.
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Tilføj ny sangtekstside" image="/docs/howto/how-to-edit-lyrics-for-audio-files-on-iphone-mac/add-new-page.webp" >}}
+{{< ls-card title="" subtitle="Tilføj ny sangtekstside" image="/docs/howto/how-to-edit-lyrics-for-audio-files-on-iphone-mac/add-new-page.webp" >}}
 {{< /cards >}}
 
 ### Vælg sprog, kommentar og sangtekstindhold
@@ -159,7 +159,7 @@ På sangtekstinputskærmen kan du:
 - Indtaste den faktiske **sangtekst**
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Vælg sprog" image="/docs/howto/how-to-edit-lyrics-for-audio-files-on-iphone-mac/choose-language.webp" >}}
+{{< ls-card title="" subtitle="Vælg sprog" image="/docs/howto/how-to-edit-lyrics-for-audio-files-on-iphone-mac/choose-language.webp" >}}
 {{< /cards >}}
 
 ### Indtast sangteksterne
@@ -169,7 +169,7 @@ Skriv eller indsæt dit sangtekstindhold. Evertag understøtter LRC-format sangt
 > Tip: Leder du efter sangtekster af høj kvalitet? Besøg [lyricsify.com](https://www.lyricsify.com) for at finde sangtekster i LRC-format til tusindvis af numre.
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Tilføjede sangtekster" image="/docs/howto/how-to-edit-lyrics-for-audio-files-on-iphone-mac/added-lyrics.webp" >}}
+{{< ls-card title="" subtitle="Tilføjede sangtekster" image="/docs/howto/how-to-edit-lyrics-for-audio-files-on-iphone-mac/added-lyrics.webp" >}}
 {{< /cards >}}
 
 ### Tryk på "Færdig" for at bekræfte
@@ -177,7 +177,7 @@ Skriv eller indsæt dit sangtekstindhold. Evertag understøtter LRC-format sangt
 Efter at have indtastet dine sangtekster, tryk på **Færdig** på sangtekstsiden. Tryk derefter på **Færdig** igen på den forrige skærm for at bekræfte dine ændringer.
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Gemte sangtekster" image="/docs/howto/how-to-edit-lyrics-for-audio-files-on-iphone-mac/saved-lyrics.webp" >}}
+{{< ls-card title="" subtitle="Gemte sangtekster" image="/docs/howto/how-to-edit-lyrics-for-audio-files-on-iphone-mac/saved-lyrics.webp" >}}
 {{< /cards >}}
 
 ### Gem tag-ændringerne
@@ -185,7 +185,7 @@ Efter at have indtastet dine sangtekster, tryk på **Færdig** på sangtekstside
 Til sidst, på skærmen **Tag-editor**, tryk på **Gem** for at skrive de opdaterede tags — inklusive dine nye sangtekster — tilbage til filen.
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Tag-editor med sangtekster" image="/docs/howto/how-to-edit-lyrics-for-audio-files-on-iphone-mac/tags-editor-with-lyrics.webp" >}}
+{{< ls-card title="" subtitle="Tag-editor med sangtekster" image="/docs/howto/how-to-edit-lyrics-for-audio-files-on-iphone-mac/tags-editor-with-lyrics.webp" >}}
 {{< /cards >}}
 
 ### Indstil indholdsklassificering for sangtekster
@@ -204,22 +204,22 @@ Ved at følge disse trin vil dine sangtekster være korrekt indlejret i lydfilen
 
 ## Ofte stillede spørgsmål
 
-{{% details title="Hvilke lydformater understøtter Evertag til redigering af sangtekster?" closed="true" %}}
+{{% ls-details title="Hvilke lydformater understøtter Evertag til redigering af sangtekster?" closed="true" %}}
 Evertag understøtter over 30 lydformater, herunder MP3, FLAC, WAV, M4A, OGG, AIFF og flere. Du kan redigere sangtekster og andre metadata-tags i alle disse formater.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Kan jeg tilføje sangtekster på flere sprog?" closed="true" %}}
+{{% ls-details title="Kan jeg tilføje sangtekster på flere sprog?" closed="true" %}}
 Ja, men kun for lydfiler der bruger ID3-tags (som MP3 og WAV). For andre formater som FLAC eller M4A understøttes kun en enkelt sangtekstpost.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Understøtter Evertag batchredigering af sangtekster?" closed="true" %}}
+{{% ls-details title="Understøtter Evertag batchredigering af sangtekster?" closed="true" %}}
 Ja. Du kan gå ind i batchtilstand for at redigere metadata for flere filer på én gang. Dette er nyttigt til at anvende den samme indholdsklassificering eller andre delte tags på et helt album.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Vil redigerede sangtekster vises i Apple Music eller Spotify?" closed="true" %}}
+{{% ls-details title="Vil redigerede sangtekster vises i Apple Music eller Spotify?" closed="true" %}}
 Sangtekster redigeret med Evertag er indlejret i lydfilens metadata. De vises i enhver musikafspiller der læser indlejrede sangtekst-tags, som Evermusic, Flacbox, VLC og foobar2000. Streaming-apps som Spotify og Apple Music bruger deres egne sangtekstdatabaser og læser ikke indlejrede tags.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Kan jeg redigere tags for filer gemt i cloud-lagring?" closed="true" %}}
+{{% ls-details title="Kan jeg redigere tags for filer gemt i cloud-lagring?" closed="true" %}}
 Ja. Evertag understøtter tilslutning til cloud-lagringstjenester. Appen downloader filen, lader dig redigere tags og uploader automatisk den opdaterede fil tilbage til skyen.
-{{% /details %}}
+{{% /ls-details %}}

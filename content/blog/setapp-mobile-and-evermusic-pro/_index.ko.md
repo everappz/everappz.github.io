@@ -12,7 +12,7 @@ authors:
     image: "/images/about/artem-meleshko-founder-everappz.webp"
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 ![](/blog/setapp-mobile-and-evermusic-pro/21260c_766c4fbc81e6433cb8fc21b9c2862ce0~mv2.png)
 
@@ -70,27 +70,27 @@ Google Drive, Dropbox, OneDrive 및 기타 서비스를 단일 플레이어에�
 사용해 보시겠습니까? Setapp Mobile을 통해 Evermusic Pro를 받고 오늘 클라우드 음악 라이브러리 스트리밍을 시작하세요.
 
 {{< cards cols="1" >}}
-  {{< card link="https://go.setapp.com/stp435?_target=https://www.setapp.com/setapp-mobile&stc=mobile" title="Setapp Mobile로 Evermusic Pro 다운로드" icon="download" >}}
+  {{< ls-card link="https://go.setapp.com/stp435?_target=https://www.setapp.com/setapp-mobile&stc=mobile" title="Setapp Mobile로 Evermusic Pro 다운로드" icon="download" >}}
 {{< /cards >}}
 
 ## 자주 묻는 질문
 
-{{% details title="Evermusic Pro는 Setapp Mobile에서 무료인가요?" closed="true" %}}
+{{% ls-details title="Evermusic Pro는 Setapp Mobile에서 무료인가요?" closed="true" %}}
 네. Evermusic Pro는 Setapp Mobile 구독에 추가 비용 없이 포함됩니다. 모든 기능이 잠금 해제된 전체 프리미엄 버전을 받을 수 있습니다.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Evermusic Pro는 어떤 클라우드 서비스를 지원하나요?" closed="true" %}}
+{{% ls-details title="Evermusic Pro는 어떤 클라우드 서비스를 지원하나요?" closed="true" %}}
 Evermusic Pro는 Google Drive, Dropbox, OneDrive, iCloud, Box, MEGA, Yandex.Disk, pCloud, HiDrive 및 WebDAV 서버에 연결됩니다. SMB 파일 공유와 NAS 장치도 지원합니다.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Evermusic Pro로 오프라인에서 들을 수 있나요?" closed="true" %}}
+{{% ls-details title="Evermusic Pro로 오프라인에서 들을 수 있나요?" closed="true" %}}
 네. 앱 내에서 개별 트랙, 앨범, 아티스트 또는 전체 재생 목록을 오프라인 재생을 위해 다운로드할 수 있습니다.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Evermusic Pro는 어떤 오디오 형식을 재생하나요?" closed="true" %}}
+{{% ls-details title="Evermusic Pro는 어떤 오디오 형식을 재생하나요?" closed="true" %}}
 Evermusic Pro는 FLAC, MP3, AAC, WAV, ALAC, AIFF, OPUS, OGG 및 기타 많은 형식을 지원합니다. 무손실과 손실 오디오 파일 모두를 처리합니다.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="iPhone용 별도의 Setapp 구독이 필요한가요?" closed="true" %}}
+{{% ls-details title="iPhone용 별도의 Setapp 구독이 필요한가요?" closed="true" %}}
 Setapp Mobile은 iOS 앱을 포함하는 Setapp 구독 플랜의 일부로 이용 가능합니다. 현재 가격과 플랜 옵션은 Setapp 웹사이트를 확인하세요.
-{{% /details %}}
+{{% /ls-details %}}

@@ -20,7 +20,7 @@ A secção Ficheiros Locais serve como um centro para gerir ficheiros localizado
 Este gestor de ficheiros integrado permite-lhe editar ficheiros e oferece vários métodos para importar ficheiros de áudio para a aplicação.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Ecrã de Ficheiros Locais do Evermusic" image="/docs/guide/evermusic/evermusic-guide-local-files/img/local-files-main.webp" >}}
+  {{< ls-card title="" subtitle="Ecrã de Ficheiros Locais do Evermusic" image="/docs/guide/evermusic/evermusic-guide-local-files/img/local-files-main.webp" >}}
 {{< /cards >}}
 
 ## Transferir ficheiros do armazenamento na nuvem
@@ -40,7 +40,7 @@ Importe facilmente ficheiros do seu dispositivo conforme descrito [aqui](/docs/h
 Transfira ficheiros usando uma ligação por cabo conforme descrito [aqui](/docs/howto/how-to-transfer-files-from-my-mac-to-iphone-or-ipad-using-finder).
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="iTunes / Finder File Sharing" image="/docs/guide/evermusic/evermusic-guide-local-files/img/local-files-itunes-file-sharing.webp" >}}
+  {{< ls-card title="" subtitle="iTunes / Finder File Sharing" image="/docs/guide/evermusic/evermusic-guide-local-files/img/local-files-itunes-file-sharing.webp" >}}
 {{< /cards >}}
 
 ## Wi-Fi Drive
@@ -48,7 +48,7 @@ Transfira ficheiros usando uma ligação por cabo conforme descrito [aqui](/docs
 Transfira ficheiros sem fios conforme descrito [aqui](/docs/howto/how-to-transfer-files-wirelessly-from-a-computer-to-an-iphone-using-wifi-drive).
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Definições do Servidor Wi-Fi Drive" image="/docs/guide/evermusic/evermusic-guide-local-files/img/local-files-wifidrive-settings.webp" >}}
+  {{< ls-card title="" subtitle="Definições do Servidor Wi-Fi Drive" image="/docs/guide/evermusic/evermusic-guide-local-files/img/local-files-wifidrive-settings.webp" >}}
 {{< /cards >}}
 
 ## Fila de Transferências
@@ -56,7 +56,7 @@ Transfira ficheiros sem fios conforme descrito [aqui](/docs/howto/how-to-transfe
 No canto superior esquerdo da barra de navegação, encontrará um botão 'Transferências'. Toque nele para aceder à fila de transferências, onde pode monitorizar e gerir todas as suas transferências. Adicionalmente, tem a flexibilidade de ajustar a velocidade da fila de transferência e o tipo de rede nas definições da aplicação.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Fila de Transferências de Ficheiros" image="/docs/guide/evermusic/evermusic-guide-local-files/img/local-files-file-transfers.webp" >}}
+  {{< ls-card title="" subtitle="Fila de Transferências de Ficheiros" image="/docs/guide/evermusic/evermusic-guide-local-files/img/local-files-file-transfers.webp" >}}
 {{< /cards >}}
 
 ## Secção de Acesso Rápido
@@ -68,7 +68,7 @@ No topo do ecrã, uma secção de acesso rápido fornece ligações convenientes
 Esta secção apresenta todos os ficheiros ou pastas abertos recentemente.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Ficheiros e Pastas Abertos Recentemente" image="/docs/guide/evermusic/evermusic-guide-local-files/img/local-files-recents.webp" >}}
+  {{< ls-card title="" subtitle="Ficheiros e Pastas Abertos Recentemente" image="/docs/guide/evermusic/evermusic-guide-local-files/img/local-files-recents.webp" >}}
 {{< /cards >}}
 
 ## Favoritos
@@ -76,7 +76,7 @@ Esta secção apresenta todos os ficheiros ou pastas abertos recentemente.
 Pode marcar ficheiros ou pastas como favoritos e aceder-lhes nesta secção. Além disso, pode adicionar uma pasta localizada no seu dispositivo aos seus favoritos. Para tal, abra a secção de favoritos, toque nos três pontos no canto superior direito e escolha o item de menu "Adicionar pasta". Siga as instruções para adicionar uma pasta do seu dispositivo aos seus favoritos para acesso rápido.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Favoritos — Adicionar Pasta Do Seu Dispositivo" image="/docs/guide/evermusic/evermusic-guide-local-files/img/local-files-favorites.webp" >}}
+  {{< ls-card title="" subtitle="Favoritos — Adicionar Pasta Do Seu Dispositivo" image="/docs/guide/evermusic/evermusic-guide-local-files/img/local-files-favorites.webp" >}}
 {{< /cards >}}
 
 ## Barra de Ferramentas Superior
@@ -91,7 +91,7 @@ A barra de ferramentas superior, localizada sob a barra de navegação, oferece 
 Pode mostrar ou ocultar a barra de ferramentas superior usando um gesto de deslizar para baixo.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Barra de Ferramentas Superior para a Pasta Atual" image="/docs/guide/evermusic/evermusic-guide-local-files/img/local-files-top-toolbar.webp" >}}
+  {{< ls-card title="" subtitle="Barra de Ferramentas Superior para a Pasta Atual" image="/docs/guide/evermusic/evermusic-guide-local-files/img/local-files-top-toolbar.webp" >}}
 {{< /cards >}}
 
 ## Pastas Especiais
@@ -128,7 +128,7 @@ Mostra ficheiros e pastas armazenados no diretório de Documentos da aplicação
 Mostra ficheiros localizados no seu dispositivo, mas em aplicações diferentes. Pode importá-los para esta aplicação usando o seletor de ficheiros do sistema. Para ativar o seletor, escolha "Abrir ficheiros..." para selecionar ficheiros ou "Abrir pastas..." para selecionar pastas. Instruções detalhadas sobre como importar música local armazenada no seu iPhone ou Mac estão disponíveis [aqui](/docs/howto/how-to-play-local-music-stored-on-your-iphone-or-mac). Também pode ligar uma pasta localizada no seu dispositivo e ter acesso rápido ao conteúdo da pasta. Use o item de menu "Ligar uma pasta" e escolha uma pasta no seu dispositivo. Toque em "Concluído" e a aplicação criará uma ligação para essa pasta com acesso de leitura/escrita, podendo gerir ficheiros diretamente a partir desta aplicação. Para desligar uma pasta localizada no seu dispositivo, toque no botão "Mais ações" e escolha "Desconectar".
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Ficheiros Neste iPhone / iPad / Mac" image="/docs/guide/evermusic/evermusic-guide-local-files/img/local-files-on-this-device.webp" >}}
+  {{< ls-card title="" subtitle="Ficheiros Neste iPhone / iPad / Mac" image="/docs/guide/evermusic/evermusic-guide-local-files/img/local-files-on-this-device.webp" >}}
 {{< /cards >}}
 
 ## Importar Ficheiros de Cartões USB Ligados
@@ -151,7 +151,7 @@ O menu de mais ações para a pasta atualmente aberta, localizado no canto super
 Se precisar de editar vários ficheiros, ative o modo de seleção tocando no botão de mais ações "..." na barra de navegação no canto superior direito e depois escolha o item de menu "Selecionar". Isto irá exibir caixas de verificação perto de cada ficheiro. Selecione os ficheiros desejados tocando nas suas caixas de verificação. Pode executar as seguintes ações nos ficheiros selecionados.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Ações do Modo de Seleção para Ficheiros Locais" image="/docs/guide/evermusic/evermusic-guide-local-files/img/local-files-selection-mode.webp" >}}
+  {{< ls-card title="" subtitle="Ações do Modo de Seleção para Ficheiros Locais" image="/docs/guide/evermusic/evermusic-guide-local-files/img/local-files-selection-mode.webp" >}}
 {{< /cards >}}
 
 - **Reproduzir a seguir:** Adicionar ficheiros ou pastas selecionados ao topo da fila do leitor com a ordem de classificação atual.
@@ -186,7 +186,7 @@ Para cada ficheiro ou pasta na aplicação, estão disponíveis várias ações,
 ## Pastas offline
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Menu de Mais Ações da Pasta Offline" image="/docs/guide/evermusic/evermusic-guide-local-files/img/local-files-offline-folders.webp" >}}
+  {{< ls-card title="" subtitle="Menu de Mais Ações da Pasta Offline" image="/docs/guide/evermusic/evermusic-guide-local-files/img/local-files-offline-folders.webp" >}}
 {{< /cards >}}
 
 O modo offline é uma funcionalidade útil que lhe permite aceder à sua música favorita mesmo quando não está ligado à internet. Quando ativa o modo offline para qualquer álbum, artista, lista de reprodução, género ou pasta remota, todos os ficheiros dessa coleção serão automaticamente transferidos para o seu dispositivo para reprodução offline. Pode aceder convenientemente a estes ficheiros na secção "Pastas Offline" da aplicação.
@@ -204,7 +204,7 @@ Instruções detalhadas sobre como Reproduzir Música Offline no Evermusic e Fla
 Quase todos os comportamentos do ecrã de Ficheiros Locais — desde a largura de banda de rede até onde ficam as transferências e como as miniaturas são colocadas em cache — são configuráveis em **Configurações → Gestor de ficheiros**. Abra-o sempre que quiser ajustar a velocidade de transferência, poupar espaço de armazenamento ou restringir a aplicação apenas a Wi-Fi.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Ecrã de Definições do Gestor de Ficheiros" image="/docs/guide/evermusic/evermusic-guide-local-files/img/local-files-file-manager-settings.webp" >}}
+  {{< ls-card title="" subtitle="Ecrã de Definições do Gestor de Ficheiros" image="/docs/guide/evermusic/evermusic-guide-local-files/img/local-files-file-manager-settings.webp" >}}
 {{< /cards >}}
 
 O ecrã expõe todas as opções agrupadas em secções claramente identificadas:

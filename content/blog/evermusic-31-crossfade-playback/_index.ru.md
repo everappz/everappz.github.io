@@ -12,7 +12,7 @@ authors:
     image: "/images/about/artem-meleshko-founder-everappz.webp"
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 ## Evermusic 3.1: что изменилось и почему это важно
 
@@ -89,22 +89,22 @@ authors:
 
 ## Часто задаваемые вопросы
 
-{{% details title="Что такое кроссфейд-воспроизведение в Evermusic?" closed="true" %}}
+{{% ls-details title="Что такое кроссфейд-воспроизведение в Evermusic?" closed="true" %}}
 Кроссфейд-воспроизведение плавно смешивает окончание одного трека с началом следующего, создавая бесшовные переходы. Вы можете установить продолжительность от 3 до 15 секунд в Settings → Audio Player → Crossfade Playback.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Могу ли я создать резервную копию плейлистов Evermusic в облачном хранилище?" closed="true" %}}
+{{% ls-details title="Могу ли я создать резервную копию плейлистов Evermusic в облачном хранилище?" closed="true" %}}
 Да. Evermusic 3.1 позволяет создать резервную копию всей библиотеки — включая плейлисты, метаданные, обложки и настройки — в любой подключённый облачный сервис в виде одного файла.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Поддерживает ли Evermusic просмотр библиотеки iPod?" closed="true" %}}
+{{% ls-details title="Поддерживает ли Evermusic просмотр библиотеки iPod?" closed="true" %}}
 Да. Вы можете просматривать свою библиотеку iPod по плейлистам, альбомам, исполнителям и жанрам прямо с главного экрана Evermusic и добавлять треки в свою очередь.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Как исправить неправильные теги песен в Evermusic?" closed="true" %}}
+{{% ls-details title="Как исправить неправильные теги песен в Evermusic?" closed="true" %}}
 Используйте встроенный редактор тегов и нажмите действие Identify. Evermusic сканирует имена файлов и автоматически обновляет теги ID3 исправленными метаданными.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Какие облачные сервисы поддерживает Evermusic?" closed="true" %}}
+{{% ls-details title="Какие облачные сервисы поддерживает Evermusic?" closed="true" %}}
 Evermusic работает с Dropbox, Google Drive, OneDrive, MEGA, Box, Yandex.Disk, WebDAV, SMB/CIFS и FTP-серверами.
-{{% /details %}}
+{{% /ls-details %}}

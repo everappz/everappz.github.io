@@ -7,7 +7,7 @@ tags: ["evermusic", "collegare", "bluesound vault"]
 readingTime: 1
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **Riepilogo:** Collegati all'archivio interno del tuo Bluesound VAULT tramite SMB utilizzando Evermusic, Flacbox o Evertag. Trova l'indirizzo IP del VAULT nell'app BluOS, inseriscilo come connessione SMB con accesso ospite e inizia a riprodurre o gestire i tuoi file musicali.
@@ -58,18 +58,18 @@ Con questi semplici passaggi, puoi accedere facilmente al disco rigido interno d
 
 ## FAQ
 
-{{% details title="Ho bisogno di un nome utente e una password per connettermi al Bluesound VAULT?" closed="true" %}}
+{{% ls-details title="Ho bisogno di un nome utente e una password per connettermi al Bluesound VAULT?" closed="true" %}}
 No. Il Bluesound VAULT supporta l'accesso ospite (anonimo) tramite SMB. Lascia vuoti i campi Login e Password durante la configurazione della connessione.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Posso modificare i tag musicali sul Bluesound VAULT?" closed="true" %}}
+{{% ls-details title="Posso modificare i tag musicali sul Bluesound VAULT?" closed="true" %}}
 Sì. Utilizzando Evertag, puoi modificare i tag dei metadati (titolo, artista, album, ecc.) per i file audio memorizzati direttamente sul disco rigido interno del VAULT.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Quali protocolli supporta il Bluesound VAULT?" closed="true" %}}
+{{% ls-details title="Quali protocolli supporta il Bluesound VAULT?" closed="true" %}}
 Il Bluesound VAULT espone il suo archivio interno tramite SMB (Server Message Block). Evermusic, Flacbox ed Evertag supportano tutti le connessioni SMB, rendendo la connessione semplice.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Posso riprodurre musica in streaming dal VAULT senza copiare file sul mio iPhone?" closed="true" %}}
+{{% ls-details title="Posso riprodurre musica in streaming dal VAULT senza copiare file sul mio iPhone?" closed="true" %}}
 Sì. Una volta connesso tramite SMB, puoi riprodurre in streaming file audio direttamente dall'unità interna del VAULT senza copiarli sul tuo dispositivo.
-{{% /details %}}
+{{% /ls-details %}}

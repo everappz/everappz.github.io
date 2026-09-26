@@ -11,7 +11,7 @@ tags: ["Evertag", "Premium", "Diferència", "Pro", "Gratuït vs. de pagament", "
 Evertag i Evertag Premium són dues versions de la mateixa i potent aplicació d'edició d'etiquetes. Mentre que Evertag Free et dóna accés a les eines essencials d'edició de metadades, Evertag Premium desbloqueja l'experiència completa — sense anuncis, il·limitada i personalitzable.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Pantalla de millora a Premium d'Evertag" image="/docs/faq/evertag/what-is-the-difference-between-evertag-and-evertag-premium/upgrade-to-premium.webp" >}}
+  {{< ls-card title="" subtitle="Pantalla de millora a Premium d'Evertag" image="/docs/faq/evertag/what-is-the-difference-between-evertag-and-evertag-premium/upgrade-to-premium.webp" >}}
 {{< /cards >}}
 
 ## Tria el teu pla Premium
@@ -19,7 +19,7 @@ Evertag i Evertag Premium són dues versions de la mateixa i potent aplicació d
 La versió gratuïta de l'aplicació ofereix una compra única de per vida i dues opcions de subscripció (1 mes i 1 any) per eliminar totes les restriccions i actualitzar a la versió Premium, permetent-te triar el millor preu i el més òptim per a tu. Els preus poden variar en funció del teu país o territori. Ten en compte també que **Family Sharing** està **activat** per a totes les compres i plans, de manera que pots compartir la versió Premium amb els membres de la teva família.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Pantalla de selecció del pla Premium d'Evertag" image="/docs/faq/evertag/what-is-the-difference-between-evertag-and-evertag-premium/select-your-plan.webp" >}}
+  {{< ls-card title="" subtitle="Pantalla de selecció del pla Premium d'Evertag" image="/docs/faq/evertag/what-is-the-difference-between-evertag-and-evertag-premium/select-your-plan.webp" >}}
 {{< /cards >}}
 
 ## Compartir compres entre iOS i Mac
@@ -79,7 +79,7 @@ Un cop actualitzis l'aplicació, veuràs la pantalla d'estat Premium amb detalls
 Pots actualitzar a la versió Premium de franc però durant un temps limitat usant el menú "Prova Premium de franc". Simplement mira un anunci o explica als teus amics sobre aquesta aplicació per obtenir la versió Premium de franc.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Pantalla de prova Premium de franc d'Evertag" image="/docs/faq/evertag/what-is-the-difference-between-evertag-and-evertag-premium/try-premium-for-free.webp" >}}
+  {{< ls-card title="" subtitle="Pantalla de prova Premium de franc d'Evertag" image="/docs/faq/evertag/what-is-the-difference-between-evertag-and-evertag-premium/try-premium-for-free.webp" >}}
 {{< /cards >}}
 
 ## Què triar?

@@ -19,7 +19,7 @@ readingTime: 8
 يتيح لك مدير الملفات المدمج هذا تعديل الملفات (إعادة التسمية والنقل والنسخ والرفع والحذف) ومراقبة عمليات النقل، كما يوفر عدة طرق لاستيراد الملفات الصوتية إلى التطبيق — التنزيلات المباشرة من السحابة ومزامنة وضع عدم الاتصال ومحركات USB الفلاشية وWi-Fi Drive ومشاركة ملفات Finder.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="شاشة الملفات المحلية في Flacbox" image="/docs/guide/flacbox/img/local-files.webp" >}}
+  {{< ls-card title="" subtitle="شاشة الملفات المحلية في Flacbox" image="/docs/guide/flacbox/img/local-files.webp" >}}
 {{< /cards >}}
 
 ## تنزيل الملفات من التخزين السحابي
@@ -102,7 +102,7 @@ readingTime: 8
 تعرض الملفات الموجودة على جهازك ولكن في تطبيقات مختلفة. يمكنك استيرادها إلى هذا التطبيق باستخدام منتقي الملفات النظامي. لتفعيل المنتقي، اختر **فتح الملفات…** لاختيار الملفات أو **فتح المجلدات…** لاختيار المجلدات. تتوفر تعليمات مفصّلة حول كيفية استيراد الموسيقى المحلية المخزّنة على iPhone أو Mac [هنا](/docs/howto/how-to-play-local-music-stored-on-your-iphone-or-mac).
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="مجلدات الجهاز المتصل في Flacbox" image="/docs/guide/flacbox/img/connected-device-folders.webp" >}}
+  {{< ls-card title="" subtitle="مجلدات الجهاز المتصل في Flacbox" image="/docs/guide/flacbox/img/connected-device-folders.webp" >}}
 {{< /cards >}}
 
 يمكنك أيضاً توصيل مجلد موجود على جهازك والوصول السريع إلى محتوياته. استخدم عنصر القائمة **توصيل مجلد** واختر مجلداً موجوداً على جهازك. انقر على **تم**، ويُنشئ التطبيق رابطاً لذلك المجلد مع صلاحية قراءة / كتابة، مما يتيح لك إدارة الملفات مباشرةً من هذا التطبيق. لقطع اتصال مجلد موجود على جهازك، انقر على زر **المزيد من الإجراءات** واختر **قطع الاتصال**.
@@ -137,7 +137,7 @@ readingTime: 8
 - **حذف** — إزالة الملف أو المجلد المختار من الجهاز. **هذا الإجراء لا يمكن التراجع عنه.**
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="وضع الاختيار للملفات المحلية في Flacbox" image="/docs/guide/flacbox/img/local-files-selection-mode.webp" >}}
+  {{< ls-card title="" subtitle="وضع الاختيار للملفات المحلية في Flacbox" image="/docs/guide/flacbox/img/local-files-selection-mode.webp" >}}
 {{< /cards >}}
 
 ## قائمة الخيارات
@@ -161,7 +161,7 @@ readingTime: 8
 - **حذف** — حذف الملف أو المجلد من الجهاز. **هذا الإجراء لا يمكن التراجع عنه** ولا يمكن استعادة الملفات المحذوفة.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="المزيد من الإجراءات لملف محلي في Flacbox" image="/docs/guide/flacbox/img/local-files-more-actions-for-file.webp" >}}
+  {{< ls-card title="" subtitle="المزيد من الإجراءات لملف محلي في Flacbox" image="/docs/guide/flacbox/img/local-files-more-actions-for-file.webp" >}}
 {{< /cards >}}
 
 ## المجلدات غير المتصلة

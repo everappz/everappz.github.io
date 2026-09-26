@@ -17,7 +17,7 @@ Afspilleren er applikationens hovedskærm, hvor du kan styre afspillerkøen og a
 ## Adgang til afspilleren
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evermusic lydafspiller-skærm" image="/docs/guide/evermusic/evermusic-guide-player/img/player-main.webp" >}}
+  {{< ls-card title="" subtitle="Evermusic lydafspiller-skærm" image="/docs/guide/evermusic/evermusic-guide-player/img/player-main.webp" >}}
 {{< /cards >}}
 
 Du kan få adgang til fuldskærmsafspilleren fra mini-afspiller-visningen. På din iPhone finder du mini-afspilleren over fanelinjen på hovedskærmen. På din iPad eller Mac er den tilgængelig fra venstre menu. For at gemme mini-afspilleren skal du trykke på dens ikon og stryge nedad. For at skjule fuldskærmsafspilleren fuldstændigt skal du blot trykke på lukknappen i nederste højre hjørne.
@@ -44,7 +44,7 @@ Hvis du er i humør til lidt tilfældighed, er "Bland"-indstillingen din go-to. 
 ## Lydstyrkeregulering
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Lydstyrkeregulering med AirPlay og Google Cast" image="/docs/guide/evermusic/evermusic-guide-player/img/player-volume-control.webp" >}}
+  {{< ls-card title="" subtitle="Lydstyrkeregulering med AirPlay og Google Cast" image="/docs/guide/evermusic/evermusic-guide-player/img/player-volume-control.webp" >}}
 {{< /cards >}}
 
 Find lydstyrkeglider på skærmen Lydindstillinger ved at trykke på lydikonet under afspilningskontrollerne. Du kan ændre lydstyrken ved hjælp af denne glider eller standardlydstyrkeknapperne på din enhed. Derudover finder du nogle praktiske streamingknapper:
@@ -63,7 +63,7 @@ På den anden side, hvis du foretrækker AirPlay, skal du kigge efter AirPlay-kn
 ## Lydequalizer
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="10-bånds lydequalizer" image="/docs/guide/evermusic/evermusic-guide-player/img/player-equalizer.webp" >}}
+  {{< ls-card title="" subtitle="10-bånds lydequalizer" image="/docs/guide/evermusic/evermusic-guide-player/img/player-equalizer.webp" >}}
 {{< /cards >}}
 
 Evermusic leveres med en 10-bånds equalizer komplet med iPod-stil forudindstillinger, en forforstærker og manuelle equalizer-indstillinger. For at aktivere equalizeren skal du blot trykke på "Equalizer"-knappen på den nederste værktøjslinje og skifte til afbryderkontrollen øverst til højre. Du kan vælge fra en række foruddefinerede equalizer-forudindstillinger som "Acoustic", "Bass Booster", "Classical" og mere. Hvis du er en lydbegejstring, vil du sætte pris på muligheden for at finjustere hvert frekvensband ved hjælp af glidere. Du kan oprette og gemme dine egne lydequalizer-forudindstillinger. Hvis et spor ikke er højt nok, kan du også justere forforstærkerstyringen. Vi har mere detaljerede instruktioner om, hvordan du bruger equalizeren [her](/docs/howto/how-to-use-the-audio-equalizer-on-your-iphone-ipad-mac-with-evermusic-and-flacbox).
@@ -71,7 +71,7 @@ Evermusic leveres med en 10-bånds equalizer komplet med iPod-stil forudindstill
 ## Afspillertilstands-værktøjslinje
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Øverste afspiller-værktøjslinje med søgning og hastighed" image="/docs/guide/evermusic/evermusic-guide-player/img/player-top-toolbar.webp" >}}
+  {{< ls-card title="" subtitle="Øverste afspiller-værktøjslinje med søgning og hastighed" image="/docs/guide/evermusic/evermusic-guide-player/img/player-top-toolbar.webp" >}}
 {{< /cards >}}
 
 For et udvalgt par afspillerskærm-stilarter finder du en afspillertilstands-værktøjslinje øverst på afspillerskærmen, lige under navigationslinjen. Denne praktiske værktøjslinje indeholder tre knapper.
@@ -82,7 +82,7 @@ For et udvalgt par afspillerskærm-stilarter finder du en afspillertilstands-væ
 ## Lydbogmærker
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Lydbogmærker til lydbøger og forelæsninger" image="/docs/guide/evermusic/evermusic-guide-player/img/player-bookmarks.webp" >}}
+  {{< ls-card title="" subtitle="Lydbogmærker til lydbøger og forelæsninger" image="/docs/guide/evermusic/evermusic-guide-player/img/player-bookmarks.webp" >}}
 {{< /cards >}}
 
 Her kan du oprette flere bogmærker til spor i dit musikbibliotek. Vi har en komplet instruktion om, hvordan du bruger bogmærker [her](/docs/howto/how-to-listen-to-audiobooks-on-iphone-ipad-mac-using-evermusic).
@@ -90,7 +90,7 @@ Her kan du oprette flere bogmærker til spor i dit musikbibliotek. Vi har en kom
 ## Afspillerkø
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Afspillerkø" image="/docs/guide/evermusic/evermusic-guide-player/img/player-queue.webp" >}}
+  {{< ls-card title="" subtitle="Afspillerkø" image="/docs/guide/evermusic/evermusic-guide-player/img/player-queue.webp" >}}
 {{< /cards >}}
 
 For at få adgang til din afspillerkø skal du blot trykke på afspillerkø-knappen på den nederste værktøjslinje. For at flytte en sang i køen skal du bruge omarrangerings-indikatoren nær titlen.
@@ -98,7 +98,7 @@ For at få adgang til din afspillerkø skal du blot trykke på afspillerkø-knap
 ## Kommentarer / Tekster
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Kommentarer, indlejrede tekster og LRC-filer" image="/docs/guide/evermusic/evermusic-guide-player/img/player-lyrics.webp" >}}
+  {{< ls-card title="" subtitle="Kommentarer, indlejrede tekster og LRC-filer" image="/docs/guide/evermusic/evermusic-guide-player/img/player-lyrics.webp" >}}
 {{< /cards >}}
 
 For at se sporkommentarer og indlejrede tekster samt LRC-filer skal du følge disse trin:
@@ -114,7 +114,7 @@ Vi har en komplet instruktion om, hvordan du ser tekster [her](/docs/howto/how-t
 ## Menuen Indstillinger
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Menuen Indstillinger for et kø-element" image="/docs/guide/evermusic/evermusic-guide-player/img/player-queue-item-options-menu.webp" >}}
+  {{< ls-card title="" subtitle="Menuen Indstillinger for et kø-element" image="/docs/guide/evermusic/evermusic-guide-player/img/player-queue-item-options-menu.webp" >}}
 {{< /cards >}}
 
 Hver sang i din lydafspillerkø har en menu med Flere handlinger, som du kan få adgang til ved at trykke på knappen med tre prikker nær sangtitlen. De tilgængelige handlinger er:
@@ -153,7 +153,7 @@ Tryk på knappen med Flere handlinger "..." på venstre side af den aktuelt afsp
 ## Seneste og Favoritter
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Senest afspillede sange fra afspilleren" image="/docs/guide/evermusic/evermusic-guide-player/img/player-recents.webp" >}}
+  {{< ls-card title="" subtitle="Senest afspillede sange fra afspilleren" image="/docs/guide/evermusic/evermusic-guide-player/img/player-recents.webp" >}}
 {{< /cards >}}
 
 På afspillerskærmen kan du få adgang til sektionerne "Seneste" og "Favoritter" ved at trykke på knappen Flere handlinger "…" og vælge det pågældende menupunkt. I begge sektioner kan du søge efter sange, afspille alle spor, blande alle spor, eksportere listen og slette listen. Vi har detaljerede instruktioner om, hvordan du eksporterer sanglister [her](/docs/howto/export-tracks-collection-from-evermusic-flacbox-to-m3u-csv-txt/).
@@ -161,7 +161,7 @@ På afspillerskærmen kan du få adgang til sektionerne "Seneste" og "Favoritter
 ## Mini-afspiller-vindue (kun Mac)
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Mac mini-afspiller-vindue" image="/docs/guide/evermusic/evermusic-guide-player/img/player-mini-mac.webp" >}}
+  {{< ls-card title="" subtitle="Mac mini-afspiller-vindue" image="/docs/guide/evermusic/evermusic-guide-player/img/player-mini-mac.webp" >}}
 {{< /cards >}}
 
 For Mac-brugere er der et praktisk mini-afspiller-vindue. For at få adgang til det skal du blot flytte markøren til det nedre højre hjørne af app-vinduet og ændre størrelsen til det mindst mulige. Tryk derefter på skjulknappen (vist som en pil nedad) for at aktivere mini-afspiller-vinduet. Hvis du vil holde det over andre vinduer, skal du gå til den øverste menulinje på din Mac, vælge "Vindue" og vælge "Vis vindue altid øverst". Denne funktion er særlig praktisk, når du lytter til lydforelæsninger og ikke vil have nogen afbrydelser.
@@ -169,7 +169,7 @@ For Mac-brugere er der et praktisk mini-afspiller-vindue. For at få adgang til 
 ## Tastaturgenveje (kun Mac)
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Mac statuslinjes afspilningsmenu med tastaturgenveje" image="/docs/guide/evermusic/evermusic-guide-player/img/player-mac-shortcuts.webp" >}}
+  {{< ls-card title="" subtitle="Mac statuslinjes afspilningsmenu med tastaturgenveje" image="/docs/guide/evermusic/evermusic-guide-player/img/player-mac-shortcuts.webp" >}}
 {{< /cards >}}
 
 For Mac-brugere er der en systemafspilningsmenu tilgængelig på statuslinjen med tastaturgenveje. For eksempel skal du blot trykke på mellemrumstasten på dit tastatur for at afspille/pausere. Genveje til Stop, Næste sang, Forrige sang, Spring tid over, Gentagelse, Bland og Afspilningshastighed er tilgængelige som vist på skærmbilledet.
@@ -177,7 +177,7 @@ For Mac-brugere er der en systemafspilningsmenu tilgængelig på statuslinjen me
 ## Lydafspillerindstillinger
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Lydafspillerindstillinger" image="/docs/guide/evermusic/evermusic-guide-player/img/player-settings.webp" >}}
+  {{< ls-card title="" subtitle="Lydafspillerindstillinger" image="/docs/guide/evermusic/evermusic-guide-player/img/player-settings.webp" >}}
 {{< /cards >}}
 
 For at få adgang til lydafspillerindstillinger skal du trykke på knappen Mere på lydafspillerskærmen og vælge "Indstillinger" fra rullemenuen. Her finder du forskellige sektioner grupperet efter funktionalitet:

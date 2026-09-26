@@ -14,7 +14,7 @@ authors:
     image: "/images/about/artem-meleshko-founder-everappz.webp"
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 ## Mengapa Kata Kunci App Store Menentukan Nombor Muat Turun Anda
 
@@ -104,29 +104,29 @@ Cuba sekarang — pengguna seterusnya anda hanya selangkah carian sahaja.
 Alat ini adalah sumber terbuka. Laporan pepijat, cadangan ciri dan pull request dialu-alukan.
 
 {{< cards cols="1" >}}
-  {{< card link="https://github.com/everappz/app-store-keyword-optimizer/tree/main" title="appkeywords.pro on GitHub" icon="github" tag= "open source" >}}
+  {{< ls-card link="https://github.com/everappz/app-store-keyword-optimizer/tree/main" title="appkeywords.pro on GitHub" icon="github" tag= "open source" >}}
 {{< /cards >}}
 
 ---
 
 ## Soalan Lazim
 
-{{% details title="Adakah AppKeywords.pro benar-benar percuma?" closed="true" %}}
+{{% ls-details title="Adakah AppKeywords.pro benar-benar percuma?" closed="true" %}}
 Ya. Ia adalah alat sumber terbuka sepenuhnya, berasaskan pelayar tanpa pendaftaran, tanpa iklan dan tanpa pengumpulan data. Metadata anda tidak pernah meninggalkan peranti anda.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Adakah alat ini berfungsi untuk pelbagai penyetempatan App Store?" closed="true" %}}
+{{% ls-details title="Adakah alat ini berfungsi untuk pelbagai penyetempatan App Store?" closed="true" %}}
 Ya. Anda boleh menambah metadata untuk setiap lokasi secara bebas, dan eksport merangkumi semua bahasa dalam satu fail JSON yang serasi dengan Fastlane.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Patutkah saya mengulang kata kunci tajuk dalam medan kata kunci?" closed="true" %}}
+{{% ls-details title="Patutkah saya mengulang kata kunci tajuk dalam medan kata kunci?" closed="true" %}}
 Tidak. Apple sudah mengindeks perkataan daripada tajuk dan sari kata anda. Mengulanginya dalam medan kata kunci membazir aksara.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Berapa kerap saya harus mengemas kini kata kunci App Store saya?" closed="true" %}}
+{{% ls-details title="Berapa kerap saya harus mengemas kini kata kunci App Store saya?" closed="true" %}}
 Semak dan segar semula kata kunci anda sekurang-kurangnya sekali setiap suku tahun. Sesuaikan lebih cepat jika anda perasan penurunan kedudukan atau perubahan bermusim dalam tingkah laku carian.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Bolehkah saya menggunakan alat ini dengan Fastlane?" closed="true" %}}
+{{% ls-details title="Bolehkah saya menggunakan alat ini dengan Fastlane?" closed="true" %}}
 Ya. Repo GitHub termasuk skrip shell untuk menukar antara struktur folder metadata Fastlane dan format JSON yang digunakan oleh AppKeywords.pro.
-{{% /details %}}
+{{% /ls-details %}}

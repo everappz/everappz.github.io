@@ -12,7 +12,7 @@ authors:
     image: "/images/about/artem-meleshko-founder-everappz.webp"
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 **Tiivistelmä:** Paras iPhonen musiikkisoitin riippuu tarpeistasi. **Evermusic** on ihanteellinen pilvitallennuksen toistoon ja muotojoustavuuteen. **Apple Music** sopii niille, jotka ovat syvästi Apple-ekosysteemissä. **Spotify** loistaa musiikin löytämisessä. **VLC** käsittelee jokaisen tiedostomuodon ilmaiseksi. **Amazon Music** sopii hyvin yhteen Alexan ja Primen kanssa.
 
@@ -128,22 +128,22 @@ Amazon Music integroituu Amazon-ekosysteemiin tarjoten ääniohjauksen Alexan ka
 
 ## Usein kysytyt kysymykset
 
-{{% details title="Mikä on paras ilmainen musiikkisoitin iPhonelle?" closed="true" %}}
+{{% ls-details title="Mikä on paras ilmainen musiikkisoitin iPhonelle?" closed="true" %}}
 Omien tiedostojen toistamiseen Evermusic ja VLC ovat molemmat ilmaisia vaihtoehtoja. Evermusic lisää pilvitallennusintegraation, kun taas VLC tukee laajinta valikoimaa tiedostomuotoja.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Voinko toistaa FLAC-tiedostoja iPhonella?" closed="true" %}}
+{{% ls-details title="Voinko toistaa FLAC-tiedostoja iPhonella?" closed="true" %}}
 Kyllä. Evermusic ja VLC tukevat molemmat FLAC-toistoa iPhonella. Apple Music ja Spotify eivät toista FLAC-tiedostoja suoraan.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Mikä musiikkisoitinsovellus toimii pilvitallennuksen kanssa?" closed="true" %}}
+{{% ls-details title="Mikä musiikkisoitinsovellus toimii pilvitallennuksen kanssa?" closed="true" %}}
 Evermusic on johtava iPhonen musiikkisoitin, jossa on sisäänrakennettu pilvitallennustuki. Se yhdistää iCloud Driveen, Dropboxiin, Google Driveen, OneDriveen, pCloudiin ja muihin palveluihin.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Onko Evermusic parempi kuin Apple Music?" closed="true" %}}
+{{% ls-details title="Onko Evermusic parempi kuin Apple Music?" closed="true" %}}
 Ne palvelevat eri tarkoituksia. Evermusic toistaa omia musiikkitiedostojasi pilvitallennuksesta ja paikallisesta tallennuksesta. Apple Music on tilausperusteinen suoratoistopalvelu, jossa on yli 100 miljoonan kappaleen kirjasto. Jos omistat omat musiikkitiedostosi, Evermusic on parempi valinta.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Voinko käyttää Spotifyta offline-tilassa iPhonella?" closed="true" %}}
+{{% ls-details title="Voinko käyttää Spotifyta offline-tilassa iPhonella?" closed="true" %}}
 Kyllä, mutta vain Spotify Premium -tilauksella. Ilmaiset Spotify-käyttäjät eivät voi ladata kappaleita offline-toistoa varten.
-{{% /details %}}
+{{% /ls-details %}}

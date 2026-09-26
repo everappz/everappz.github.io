@@ -7,7 +7,7 @@ tags: ["מוזיקה", "קבצים", "usb", "פלאש", "חיצוני", "ixpand"
 readingTime: 2
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **תקציר:** חברו כונן USB או כרטיס SD לאייפון שלכם באמצעות מתאם Apple או כונן SanDisk iXpand, ואז השתמשו ב-Evermusic, Flacbox או Evertag כדי לגלוש, להשמיע ולנהל את קבצי האודיו שלכם ישירות מהאחסון החיצוני.
@@ -72,18 +72,18 @@ readingTime: 2
 
 ## שאלות נפוצות
 
-{{% details title="אילו מתאמי USB עובדים עם iPhone להשמעת מוזיקה?" closed="true" %}}
+{{% ls-details title="אילו מתאמי USB עובדים עם iPhone להשמעת מוזיקה?" closed="true" %}}
 גם Lightning to SD Card Camera Reader וגם Lightning to USB 3 Camera Adapter של Apple עובדים. מתאמי USB-C עובדים באייפונים חדשים יותר עם יציאות USB-C. כונני SanDisk iXpand Flash (V1-V7) נתמכים גם באופן מקורי על ידי Evermusic, Flacbox ו-Evertag.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="האם אני יכול להשמיע מוזיקה ישירות מכונן ה-USB בלי להעתיק קבצים?" closed="true" %}}
+{{% ls-details title="האם אני יכול להשמיע מוזיקה ישירות מכונן ה-USB בלי להעתיק קבצים?" closed="true" %}}
 כן. עם כונני SanDisk iXpand, תוכלו להשמיע מוזיקה ישירות מהכונן בלי להעתיק קבצים לאייפון שלכם. בעת שימוש במתאמי Apple, הקבצים מיובאים אך תוכלו לבחור אם להעתיק אותם לאחסון המקומי.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="אילו פורמטי אודיו נתמכים מכונני USB?" closed="true" %}}
+{{% ls-details title="אילו פורמטי אודיו נתמכים מכונני USB?" closed="true" %}}
 Evermusic ו-Flacbox תומכים במגוון רחב של פורמטים כולל FLAC, MP3, AAC, WAV, ALAC, OGG, WMA ועוד. כל הפורמטים הנתמכים עובדים בעת השמעה מאחסון USB.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="כונן ה-SanDisk iXpand שלי מציג שגיאת 'עסוק'. מה עלי לעשות?" closed="true" %}}
+{{% ls-details title="כונן ה-SanDisk iXpand שלי מציג שגיאת 'עסוק'. מה עלי לעשות?" closed="true" %}}
 ייתכן שאפליקציה אחרת ניגשת לכונן. סגרו את כל האפליקציות האחרות שעשויות להשתמש בכונן הפלאש, או נתקו אותו והכניסו מחדש. לאחר מכן פתחו מחדש את Evermusic, Flacbox או Evertag.
-{{% /details %}}
+{{% /ls-details %}}

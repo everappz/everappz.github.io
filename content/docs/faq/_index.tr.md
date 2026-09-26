@@ -15,7 +15,7 @@ tags: [
 ---
 
 
-{{< lottie src="/images/juicy-json/juicy-woman-focused-on-online-learning.json" width="85%" >}}
+{{< ls-lottie src="/images/juicy-json/juicy-woman-focused-on-online-learning.json" width="85%" >}}
 
 ## Uygulamalarımızı Nasıl Kullanacağınızı Öğrenin
 
@@ -27,7 +27,7 @@ Başlamak için aşağıda uygulamanızın SSS'ini keşfedin veya kullanıcı e-
 
 ## Uygulamanızı Seçin
 
-{{< product-doc-cards section="faq" >}}
+{{< ls-product-doc-cards section="faq" >}}
 
 ## Yaygın Sorunlar ve Cevaplar
 
@@ -35,7 +35,7 @@ Başlamak için aşağıda uygulamanızın SSS'ini keşfedin veya kullanıcı e-
 
 <div class="hx:w-full">
 
-{{% details title="Eski bir iOS sürümünde (15.8.4) pCloud'a neden giriş yapamıyorum?" closed="true" %}}
+{{% ls-details title="Eski bir iOS sürümünde (15.8.4) pCloud'a neden giriş yapamıyorum?" closed="true" %}}
 pCloud'un web giriş sayfası, 15.8.4 gibi eski iOS sürümlerinde düzgün görüntülenmeyebilir ve bu da bulut bağlantı ekranında e-posta ve şifre girmenizi engelleyebilir.<br><br>
 
 Geçici çözüm olarak pCloud tarafından desteklenen ve tüm iOS sürümlerinde güvenilir şekilde çalışan **WebDAV** protokolünü kullanabilirsiniz.
@@ -49,9 +49,9 @@ Geçici çözüm olarak pCloud tarafından desteklenen ve tüm iOS sürümlerind
 Uygulamayı Açın → Bağlantılar → Bulut Depolamaya Bağlan → **WebDAV** seçin → Kimlik bilgilerinizi ve sunucu URL'sini girin.
 
 Bu yöntem, eski cihazlarda sorunsuz biçimde pCloud depolama alanınıza bağlanmanızı ve dosyalarınıza erişmenizi sağlar.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Mac'ten (macOS) AirPlay üzerinden müzik nasıl oynatılır?" closed="true" %}}
+{{% ls-details title="Mac'ten (macOS) AirPlay üzerinden müzik nasıl oynatılır?" closed="true" %}}
 Uygulamanın macOS sürümü, iOS'taki gibi yerleşik AirPlay, Chromecast veya Bluetooth bağlantı düğmelerine sahip değildir.<br><br>
 
 MacBook Pro'nuzda **AirPlay** kullanmak için şu adımları izleyin:
@@ -62,9 +62,9 @@ MacBook Pro'nuzda **AirPlay** kullanmak için şu adımları izleyin:
 4. Müziğinizi akışa başlamak için istediğiniz cihazı seçin.  
 
 Bu, tüm sistem sesini (Evermusic veya Flacbox dahil) seçtiğiniz AirPlay cihazına yönlendirecektir.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="iPhone'da satın aldığım Premium neden Mac'te etkinleştirilmiyor?" closed="true" %}}
+{{% ls-details title="iPhone'da satın aldığım Premium neden Mac'te etkinleştirilmiyor?" closed="true" %}}
 Ömür boyu satın almalar ve abonelikler **iCloud** aracılığıyla iOS ve Mac arasında senkronize edilir.<br><br>
 
 Mac'inizde Premium'u etkinleştirmek için:<br>
@@ -76,9 +76,9 @@ Mac'inizde Premium'u etkinleştirmek için:<br>
 - Alternatif olarak her iki cihazda da uygulama ayarlarında **Satın Alımları Geri Yükle**'ye dokunun<br><br>
 
 Premium özellikleriniz Mac'te otomatik olarak etkinleştirilmelidir.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Çalma listelerini cihazlar arasında otomatik olarak nasıl senkronize edebilirim?" closed="true" %}}
+{{% ls-details title="Çalma listelerini cihazlar arasında otomatik olarak nasıl senkronize edebilirim?" closed="true" %}}
 Şu anda çalma listeleri için **otomatik senkronizasyon yoktur**.<br><br>
 
 Aşağıdaki seçeneklerden birini kullanabilirsiniz:<br>
@@ -88,9 +88,9 @@ Aşağıdaki seçeneklerden birini kullanabilirsiniz:<br>
   - [Çalma Listeleri Nasıl İçe Aktarılır](/docs/howto/how-to-import-m3u-playlist-to-evermusic-and-flacbox/)<br>
 - **Çalma listesini veya albümleri arşivleyin** ve ZIP ile aktarın:<br>
   - [Çalma Listesi Arşiv Kılavuzu](/docs/howto/how-to-archive-zip-playlists-albums-artists-and-genres-in-evermusic-flacbox-and-transfer-to/)
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Uygulamalarınızı kullanmak güvenli mi? Analitikleri devre dışı bırakabilir miyim?" closed="true" %}}
+{{% ls-details title="Uygulamalarınızı kullanmak güvenli mi? Analitikleri devre dışı bırakabilir miyim?" closed="true" %}}
 Evet, gizliliğiniz en önemli önceliğimizdir.<br><br>
 
 - Tüm veriler — müzik dosyaları, ayarlar, bulut girişleri — cihazınızda kalır<br>
@@ -104,18 +104,18 @@ Daha fazla bilgi:<br>
 
 Kişiselleştirilmiş reklamlar kullanılıyorsa Google Mobile Ads, izin ayarlarının gösterilmesini gerektirir.<br>
 Premium kullanıcılar reklam görmez ve reklam SDK'sı tamamen devre dışıdır.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Uygulamalarınız Aile Paylaşımını destekliyor mu?" closed="true" %}}
+{{% ls-details title="Uygulamalarınız Aile Paylaşımını destekliyor mu?" closed="true" %}}
 Evet, Aile Paylaşımı desteklenmektedir.<br><br>
 
 Uygulama içi satın alımları paylaşmak için:<br>
 - Satın alımın aile grubunuzla paylaşılacak şekilde ayarlandığından emin olun<br>
 - Aile üyesinin cihazında **Ayarlar > Satın Alımlar > Satın Alımları Geri Yükle**'ye gidin<br>
 - Bu işlem Apple sunucularından satın alma verilerini isteyecek ve cihazda etkinleştirecektir
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Meta veri ve bulut senkronizasyonu nasıl hızlandırılır?" closed="true" %}}
+{{% ls-details title="Meta veri ve bulut senkronizasyonu nasıl hızlandırılır?" closed="true" %}}
 Senkronizasyon hızını artırmak için arka plan görevlerini etkinleştirin:<br><br>
 
 - **Ayarlar → Müzik Kütüphanesi → Meta Veri Okuma → Arka Planda Meta Veri Okuma**<br>
@@ -123,14 +123,14 @@ Senkronizasyon hızını artırmak için arka plan görevlerini etkinleştirin:<
 
 Ayrıca macOS'ta **Ayarlar → Müzik Kütüphanesi** üzerinden meta veri okuma hızını artırın.<br>
 Çalar aktifse (ses çalınıyorsa), iOS uygulamayı askıya almaz ve sürekli senkronizasyon sağlanır.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Aboneliğimi nasıl iptal edebilirim?" closed="true" %}}
+{{% ls-details title="Aboneliğimi nasıl iptal edebilirim?" closed="true" %}}
 Aboneliğinizi Apple'ın resmi talimatlarını kullanarak iptal edebilirsiniz:<br>
 👉 [Abonelik nasıl iptal edilir](https://support.apple.com/en-us/118428)
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="WD MyCloud EX2 Ultra'dan ses nasıl bağlanır ve akış yapılır?" closed="true" %}}
+{{% ls-details title="WD MyCloud EX2 Ultra'dan ses nasıl bağlanır ve akış yapılır?" closed="true" %}}
 
 Uygulamada **Bağlantılar > Bulut Depolamaya Bağlan > My Cloud Home** üzerinden bir bağlantı eklediğinizde, bu resmi olarak **WD MyCloud Home** cihazlarını desteklemek için tasarlanmıştır.<br>
 WD MyCloud EX2 Ultra, uygulamalar için kısıtlı erişim kullanır.<br><br>
@@ -144,16 +144,16 @@ Ancak bir **WD MyCloud EX2 Ultra**, **WD MyCloud Mirror** veya başka bir **WD M
 5. Artık bunları doğrudan akış yapabilir veya indirebilirsiniz<br><br>
 
 ⚠️ Yalnızca uygulama aracılığıyla oluşturulan klasörlere NAS üzerinden erişilebilir.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Koofr.eu'ya nasıl bağlanılır?" closed="true" %}}
+{{% ls-details title="Koofr.eu'ya nasıl bağlanılır?" closed="true" %}}
 Koofr'a **WebDAV** kullanarak bağlanabilirsiniz.<br><br>
 
 - Koofr WebDAV kurulum kılavuzu: [koofr.eu blog](https://koofr.eu/blog/posts/3-ways-to-map-koofr-as-a-network-drive-explained)<br>
 - Evermusic/Flacbox WebDAV kılavuzu: [WebDAV Kullanarak NAS Depolama Alanına Bağlanma ve iPhone veya Mac'te Müzik Dinleme](/docs/howto/how-to-connect-nas-storage-using-webdav-and-listen-to-music-on-your-iphone-or-mac/)
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Uygulamanın URL şemaları nelerdir?" closed="true" %}}
+{{% ls-details title="Uygulamanın URL şemaları nelerdir?" closed="true" %}}
 Desteklenen şemalar şunlardır:<br><br>
 
 **Evermusic**<br>
@@ -172,35 +172,35 @@ Desteklenen şemalar şunlardır:<br><br>
 **Evervideo**<br>
 - iOS: `lsevervideo://`<br>
 - macOS: `lsevervideomac://`
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Uygulama arka plandayken müzik duruyor — nasıl düzeltilir?" closed="true" %}}
+{{% ls-details title="Uygulama arka plandayken müzik duruyor — nasıl düzeltilir?" closed="true" %}}
 Uygulama arka planda çöküyor veya duraklatılıyorsa:<br>
 - **Ayarlar > Müzik Kütüphanesi > Çevrimiçi Müzik Senkronizasyonu > Arka Plan Senkronizasyonu → Devre Dışı Bırak**'a gidin<br>
 - **Ayarlar > Müzik Kütüphanesi > Meta Veri Okuma > Arka Planda Meta Veri Okuma → Devre Dışı Bırak**<br>
 - **Ayarlar > Dosya Yöneticisi > Arka Plan Aktarımları → Devre Dışı Bırak**
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Kesintisiz oynatma çalışmıyor — nasıl düzeltilir?" closed="true" %}}
+{{% ls-details title="Kesintisiz oynatma çalışmıyor — nasıl düzeltilir?" closed="true" %}}
 Kesintisiz oynatma, iOS sürümüne ve ses motoruna bağlıdır.<br>
 Ses motorunu değiştirmeyi deneyin:<br>
 - **Ayarlar → Ses Çalar → Genel → Ses İşlemcisi**'ne gidin<br>
 - Daha iyi kesintisiz destek için **Core Audio**'yu seçin
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Uygulama neden listede yalnızca 100 öğe gösteriyor?" closed="true" %}}
+{{% ls-details title="Uygulama neden listede yalnızca 100 öğe gösteriyor?" closed="true" %}}
 Uygulama performans için sayfalandırma kullanır.<br>
 Devre dışı bırakmak için:<br>
 - **Ayarlar → Kişiselleştirme → İçerik Yükleme Sınırı → Devre Dışı**'na gidin<br>
 Artık tüm öğeler aynı anda yüklenecektir.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Meta verilerde neden garip karakterler var?" closed="true" %}}
+{{% ls-details title="Meta verilerde neden garip karakterler var?" closed="true" %}}
 Meta veri normalleştirmeyi etkinleştirmeyi deneyin:<br>
 - **Ayarlar → Müzik Kütüphanesi → Meta Veri Okuma → Meta Veri Kodlamasını Normalleştir**
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Uygulama neden özel karakterli klasör adlarını okuyamıyor?" closed="true" %}}
+{{% ls-details title="Uygulama neden özel karakterli klasör adlarını okuyamıyor?" closed="true" %}}
 Bu, **SMB2 protokolü** ile bilinen bir sorundur.<br><br>
 
 Aşağıdaki çözümleri deneyin:<br>
@@ -210,9 +210,9 @@ Aşağıdaki çözümleri deneyin:<br>
   - Apple'ın yerel menüsünü kullanarak klasör/dosya seçin<br><br>
 
 Alternatif olarak NAS'ınız destekliyorsa **WebDAV** veya **DLNA** kullanarak bağlanın.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="iCloud'da müzik nasıl yüklenir ve yönetilir?" closed="true" %}}
+{{% ls-details title="iCloud'da müzik nasıl yüklenir ve yönetilir?" closed="true" %}}
 – **iCloud'a nasıl müzik yüklerim?**  <br>
 Tarayıcınızda [https://www.icloud.com](https://www.icloud.com) adresine gidin, bir klasör oluşturun ve müzik dosyalarınızı Mac veya PC'nizden doğrudan yükleyin.<br>
 
@@ -225,9 +225,9 @@ Tarayıcınızda [https://www.icloud.com](https://www.icloud.com) adresine gidin
 
 Daha fazla bilgi için buraya bakın: [iPhone veya Mac'imde iCloud Drive'dan Müzik Nasıl Akışlanır](/docs/howto/how-to-listen-to-music-from-icloud-drive-on-your-iphone-or-mac/)
 
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="10 GB müzik kütüphanesimi Windows 11'den çevrimdışı oynatma için iPhone'a nasıl aktarabilirim?" closed="true" %}}
+{{% ls-details title="10 GB müzik kütüphanesimi Windows 11'den çevrimdışı oynatma için iPhone'a nasıl aktarabilirim?" closed="true" %}}
 
 Müzik kütüphanenizi Windows 11 PC'nizden iPhone'a taşıyıp uygulamada çevrimdışı kullanmak için birkaç güvenilir seçeneğiniz vardır. Size en uygun yöntemi seçin:
 
@@ -253,6 +253,6 @@ Müzik kütüphanenizi Windows 11 PC'nizden iPhone'a taşıyıp uygulamada çevr
 
 ⚠️ Büyük kütüphaneler (10 GB+) aktarılırken, kablolu USB aktarımı genellikle en hızlı ve en kararlı seçenektir.
 
-{{% /details %}}
+{{% /ls-details %}}
 
 </div>

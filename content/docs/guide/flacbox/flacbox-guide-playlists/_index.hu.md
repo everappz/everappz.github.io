@@ -20,7 +20,7 @@ A Lejátszási listák szekcióban hasznos eszközöket talál a zenegyűjtemén
 A Flacbox lejátszási listái tartalmazhatnak online felhőbeli zeneszámokat, offline letöltött fájlokat és az eszközön lévő helyi fájlokat — mind egy lejátszási listában — és zökkenőmentesen játsszák le azokat egymás után.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox Lejátszási listák főképernyő" image="/docs/guide/flacbox/img/playlists-main.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox Lejátszási listák főképernyő" image="/docs/guide/flacbox/img/playlists-main.webp" >}}
 {{< /cards >}}
 
 ## Lejátszási lista létrehozása
@@ -63,7 +63,7 @@ Amikor megnyit egy lejátszási listát, megjelenik a Lejátszási lista részle
 - **Offline mód** — letölti az összes számot ebből a lejátszási listából a helyi fájlokba. A lejátszási listához hozzáadott új elemek is automatikusan letöltődnek.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox Lejátszási lista részletei képernyő" image="/docs/guide/flacbox/img/playlist-details-screen.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox Lejátszási lista részletei képernyő" image="/docs/guide/flacbox/img/playlist-details-screen.webp" >}}
 {{< /cards >}}
 
 ## További műveletek egy lejátszási listához a Lejátszási listák képernyőn
@@ -82,7 +82,7 @@ Egy lejátszási lista műveleteihez a lejátszási lista cím melletti **"..."*
 - **Lejátszási lista törlése** — törli a lejátszási listát a zenetárból. **Ez a művelet nem vonható vissza.**
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox További műveletek a lejátszási listához a főképernyőn" image="/docs/guide/flacbox/img/more-actions-for-playlist-in-playlists-main-screen.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox További műveletek a lejátszási listához a főképernyőn" image="/docs/guide/flacbox/img/more-actions-for-playlist-in-playlists-main-screen.webp" >}}
 {{< /cards >}}
 
 ## További műveletek a Lejátszási lista részletei képernyőn
@@ -110,7 +110,7 @@ A lejátszási lista dalainak sorrendjét a jobb felső sarokban lévő **"..."*
 A hosszabb lejátszási listáknál egyszerűbb munkamenethez válassza a További műveletek → Dalok átrendezése lehetőséget a dedikált húzás-és-ejtés átrendezési módba való belépéshez.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox Dalok átrendezése a lejátszási listában" image="/docs/guide/flacbox/img/playlist-details-rearange-songs.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox Dalok átrendezése a lejátszási listában" image="/docs/guide/flacbox/img/playlist-details-rearange-songs.webp" >}}
 {{< /cards >}}
 
 ## A lejátszási lista borítóképének megváltoztatása
@@ -126,7 +126,7 @@ Nyissa meg a lejátszási listát és koppintson a jobb felső sarokban lévő *
 Nyissa meg a lejátszási listát, koppintson a jobb felső sarokban lévő **"..."** gombra és válassza a **Kiválasztás** lehetőséget a kiválasztási módba való belépéshez. Válassza ki a törölni kívánt számokat és koppintson a képernyő alján lévő **Törlés a lejátszási listából** gombra. Erősítse meg a **Kész** gombra koppintással.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox Kiválasztási mód a lejátszási lista részletei képernyőn" image="/docs/guide/flacbox/img/selection-mode-playlist-details-screen.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox Kiválasztási mód a lejátszási lista részletei képernyőn" image="/docs/guide/flacbox/img/selection-mode-playlist-details-screen.webp" >}}
 {{< /cards >}}
 
 ## Szám opciók

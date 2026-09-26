@@ -17,7 +17,7 @@ Soitin on sovelluksen päänäyttö, jossa voit hallita soittojonoa ja toisto-om
 ## Soittimen käyttö
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evermusicin äänisoittimen näyttö" image="/docs/guide/evermusic/evermusic-guide-player/img/player-main.webp" >}}
+  {{< ls-card title="" subtitle="Evermusicin äänisoittimen näyttö" image="/docs/guide/evermusic/evermusic-guide-player/img/player-main.webp" >}}
 {{< /cards >}}
 
 Pääset koko näytön soittimeen mini-soittimen näkymästä. iPhonessa löydät mini-soittimen välilehtipalkin yläpuolelta päänäytöllä. iPadissa tai Macissa se on saatavilla vasemmasta valikosta. Piiloaksesi mini-soittimen, napauta sen kuvaketta ja pyyhkäise alaspäin. Piilottaaksesi koko näytön soittimen kokonaan, napauta sulkemispainiketta oikeassa alakulmassa.
@@ -44,7 +44,7 @@ Jos haluatkin jotain satunnaista, "Satunnaistoisto"-vaihtoehto on valintasi. Se 
 ## Äänenvoimakkuuden säätö
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Äänenvoimakkuuden säätö AirPlaylla ja Google Castilla" image="/docs/guide/evermusic/evermusic-guide-player/img/player-volume-control.webp" >}}
+  {{< ls-card title="" subtitle="Äänenvoimakkuuden säätö AirPlaylla ja Google Castilla" image="/docs/guide/evermusic/evermusic-guide-player/img/player-volume-control.webp" >}}
 {{< /cards >}}
 
 Löydät äänenvoimakkuuden liukusäätimen Ääniasetusten näytöltä napauttamalla ääni-kuvaketta toistosäätimien alla. Voit muuttaa äänenvoimakkuutta tällä liukusäätimellä tai laitteesi vakio-äänenvoimakkuuspainikkeilla. Lisäksi löydät muutamia käteviä suoratoistopainikkeita:
@@ -63,7 +63,7 @@ Jos taas pidät AirPlaysta, etsi AirPlay-painike äänisoittimen näytön alareu
 ## Äänen taajuuskorjain
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="10-bändinen äänen taajuuskorjain" image="/docs/guide/evermusic/evermusic-guide-player/img/player-equalizer.webp" >}}
+  {{< ls-card title="" subtitle="10-bändinen äänen taajuuskorjain" image="/docs/guide/evermusic/evermusic-guide-player/img/player-equalizer.webp" >}}
 {{< /cards >}}
 
 Evermusic sisältää 10-bändisen taajuuskorjaimen iPod-tyylisillä esiasetuksilla, etuasteella ja manuaalisilla taajuuskorjainasetuksilla. Aktivoidaksesi taajuuskorjaimen, napauta yksinkertaisesti "Taajuuskorjain"-painiketta alemmassa työkalupalkissa ja kytke kytkinsäädin oikeassa yläkulmassa. Voit valita useista ennalta määritellyistä taajuuskorjainesiasetuista kuten "Acoustic", "Bass Booster", "Classical" ja muut. Jos olet äänen harrastaja, arvostat kykyä hienosäätää jokaista taajuuskaistaa liukusäätimillä. Luo ja tallenna omia äänen taajuuskorjainesiasetteitasi. Jos kappale ei ole tarpeeksi voimakas, voit myös säätää etuasteen vahvistusta. Meillä on yksityiskohtaisemmat ohjeet taajuuskorjaimen käytöstä [täällä](/docs/howto/how-to-use-the-audio-equalizer-on-your-iphone-ipad-mac-with-evermusic-and-flacbox).
@@ -71,7 +71,7 @@ Evermusic sisältää 10-bändisen taajuuskorjaimen iPod-tyylisillä esiasetuksi
 ## Soittimen tilatyökalupalkki
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Soittimen ylätyökalupalkki Haulla ja Nopeudella" image="/docs/guide/evermusic/evermusic-guide-player/img/player-top-toolbar.webp" >}}
+  {{< ls-card title="" subtitle="Soittimen ylätyökalupalkki Haulla ja Nopeudella" image="/docs/guide/evermusic/evermusic-guide-player/img/player-top-toolbar.webp" >}}
 {{< /cards >}}
 
 Joillekin soittimen näyttötyyleille löydät soittimen tilatyökalupalkin soittimen näytön yläosasta, juuri navigointipalkin alla. Tässä kätevässä työkalupalkissa on kolme painiketta:
@@ -82,7 +82,7 @@ Joillekin soittimen näyttötyyleille löydät soittimen tilatyökalupalkin soit
 ## Äänikirjanmerkit
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Äänikirjanmerkit äänikirjoille ja luennoille" image="/docs/guide/evermusic/evermusic-guide-player/img/player-bookmarks.webp" >}}
+  {{< ls-card title="" subtitle="Äänikirjanmerkit äänikirjoille ja luennoille" image="/docs/guide/evermusic/evermusic-guide-player/img/player-bookmarks.webp" >}}
 {{< /cards >}}
 
 Täällä voit luoda useita kirjanmerkkejä musiikkikirjastosi kappaleille. Meillä on täydet ohjeet kirjanmerkkien käytöstä [täällä](/docs/howto/how-to-listen-to-audiobooks-on-iphone-ipad-mac-using-evermusic).
@@ -90,7 +90,7 @@ Täällä voit luoda useita kirjanmerkkejä musiikkikirjastosi kappaleille. Meil
 ## Soittojono
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Soittojono" image="/docs/guide/evermusic/evermusic-guide-player/img/player-queue.webp" >}}
+  {{< ls-card title="" subtitle="Soittojono" image="/docs/guide/evermusic/evermusic-guide-player/img/player-queue.webp" >}}
 {{< /cards >}}
 
 Päästäksesi soittojonoon, napauta yksinkertaisesti soittojonopainiketta alemmassa työkalupalkissa. Siirtääksesi kappaleen jonossa, käytä otsikon lähellä olevaa järjestysindikaattoria.
@@ -98,7 +98,7 @@ Päästäksesi soittojonoon, napauta yksinkertaisesti soittojonopainiketta alemm
 ## Kommentit / Sanoitukset
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Kommentit, upotetut sanoitukset ja LRC-tiedostot" image="/docs/guide/evermusic/evermusic-guide-player/img/player-lyrics.webp" >}}
+  {{< ls-card title="" subtitle="Kommentit, upotetut sanoitukset ja LRC-tiedostot" image="/docs/guide/evermusic/evermusic-guide-player/img/player-lyrics.webp" >}}
 {{< /cards >}}
 
 Kappaleiden kommenttien ja upotettujen sanoitusten sekä LRC-tiedostojen katselemiseksi seuraa näitä vaiheita:
@@ -114,7 +114,7 @@ Meillä on täydet ohjeet sanoitusten katselemiseen [täällä](/docs/howto/how-
 ## Asetusvalikko
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Jonoelementin asetusvalikko" image="/docs/guide/evermusic/evermusic-guide-player/img/player-queue-item-options-menu.webp" >}}
+  {{< ls-card title="" subtitle="Jonoelementin asetusvalikko" image="/docs/guide/evermusic/evermusic-guide-player/img/player-queue-item-options-menu.webp" >}}
 {{< /cards >}}
 
 Jokaisella kappaleella äänisoittimesi jonossa on valikko lisätoiminnoilla, joihin pääset napauttamalla kolmen pisteen painiketta kappaleen otsikon lähellä. Käytettävissä olevat toiminnot ovat:
@@ -153,7 +153,7 @@ Napauta lisätoiminnot-painiketta "..." parhaillaan soitettavan kappaleen otsiko
 ## Äskettäin ja Suosikit
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Äskettäin toistetut kappaleet soittimesta" image="/docs/guide/evermusic/evermusic-guide-player/img/player-recents.webp" >}}
+  {{< ls-card title="" subtitle="Äskettäin toistetut kappaleet soittimesta" image="/docs/guide/evermusic/evermusic-guide-player/img/player-recents.webp" >}}
 {{< /cards >}}
 
 Soittimen näytöllä voit käyttää "Äskettäin"- ja "Suosikit"-osioita napauttamalla Lisää toimintoja -painiketta '…' ja valitsemalla vastaavan valikkokohteen. Molemmissa osioissa voit hakea kappaleita, toistaa kaikki kappaleet, toistaa kaikki kappaleet satunnaisesti, viedä luettelon ja poistaa luettelon. Meillä on yksityiskohtaiset ohjeet kappaleiden luetteloiden vientiin [täällä](/docs/howto/export-tracks-collection-from-evermusic-flacbox-to-m3u-csv-txt/).
@@ -161,7 +161,7 @@ Soittimen näytöllä voit käyttää "Äskettäin"- ja "Suosikit"-osioita napau
 ## Mini-soittimen ikkuna (vain Mac)
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Macin mini-soittimen ikkuna" image="/docs/guide/evermusic/evermusic-guide-player/img/player-mini-mac.webp" >}}
+  {{< ls-card title="" subtitle="Macin mini-soittimen ikkuna" image="/docs/guide/evermusic/evermusic-guide-player/img/player-mini-mac.webp" >}}
 {{< /cards >}}
 
 Mac-käyttäjille on kätevä mini-soittimen ikkuna. Päästäksesi siihen, siirrä kursorisi yksinkertaisesti sovelluksen ikkunan oikeaan alakulmaan ja muuta sen koko mahdollisimman pieneksi. Napauta sitten tiivistämispainiketta (kuvattu alaspäin osoittavana nuolena) aktivoidaksesi mini-soittimen ikkunan. Jos haluat pitää sen muiden ikkunoiden päällä, siirry Macisi ylävalikkoriville, valitse "Ikkuna" ja valitse "Näytä ikkuna aina päällimmäisenä". Tämä ominaisuus on erityisen kätevä ääniluento-opiskelun aikana, kun et halua keskeytyksiä.
@@ -169,7 +169,7 @@ Mac-käyttäjille on kätevä mini-soittimen ikkuna. Päästäksesi siihen, siir
 ## Pikanäppäimet (vain Mac)
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Macin tilarivin toistovalikko pikanäppäimillä" image="/docs/guide/evermusic/evermusic-guide-player/img/player-mac-shortcuts.webp" >}}
+  {{< ls-card title="" subtitle="Macin tilarivin toistovalikko pikanäppäimillä" image="/docs/guide/evermusic/evermusic-guide-player/img/player-mac-shortcuts.webp" >}}
 {{< /cards >}}
 
 Mac-käyttäjille on saatavilla järjestelmän toistovalikko tilarivissä pikanäppäimillä. Esimerkiksi Toista/Tauko-toimintoa varten napauta vain välilyöntinäppäintä näppäimistölläsi. Pikanäppäimet Pysäytä, Seuraava kappale, Edellinen kappale, Ohita aika, Toista, Satunnaistoisto ja Toistonopeus ovat saatavilla kuvakaappauksen mukaisesti.
@@ -177,7 +177,7 @@ Mac-käyttäjille on saatavilla järjestelmän toistovalikko tilarivissä pikan�
 ## Äänisoittimen asetukset
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Äänisoittimen asetukset" image="/docs/guide/evermusic/evermusic-guide-player/img/player-settings.webp" >}}
+  {{< ls-card title="" subtitle="Äänisoittimen asetukset" image="/docs/guide/evermusic/evermusic-guide-player/img/player-settings.webp" >}}
 {{< /cards >}}
 
 Päästäksesi äänisoittimen asetuksiin, napauta Lisää-painiketta äänisoittimen näytöllä ja valitse "Asetukset" avautuvasta valikosta. Täältä löydät eri osioita toiminnallisuuden mukaan ryhmiteltyinä:

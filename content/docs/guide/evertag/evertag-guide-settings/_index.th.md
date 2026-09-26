@@ -21,7 +21,7 @@ readingTime: 14
 - **กฎหมายและความเป็นส่วนตัว** — ข้อกำหนด นโยบายความเป็นส่วนตัว ประกาศทางกฎหมาย การวิเคราะห์และการเก็บรวบรวมข้อมูล
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="หน้าจอการตั้งค่า Evertag" image="/docs/guide/evertag/img/settings.webp" >}}
+  {{< ls-card title="" subtitle="หน้าจอการตั้งค่า Evertag" image="/docs/guide/evertag/img/settings.webp" >}}
 {{< /cards >}}
 
 ## อัปเกรดเป็น Premium
@@ -63,7 +63,7 @@ readingTime: 14
 โปรแกรมจัดการไฟล์รองรับการเข้าถึงบัญชีที่จัดเก็บข้อมูลบนคลาวด์ที่เชื่อมต่อและมีการดำเนินการแบบกลุ่มสำหรับการจัดการไฟล์หลายไฟล์อย่างรวดเร็ว
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="หน้าจอการตั้งค่าโปรแกรมจัดการไฟล์ Evertag" image="/docs/guide/evertag/img/settings-file-manager.webp" >}}
+  {{< ls-card title="" subtitle="หน้าจอการตั้งค่าโปรแกรมจัดการไฟล์ Evertag" image="/docs/guide/evertag/img/settings-file-manager.webp" >}}
 {{< /cards >}}
 
 ### การถ่ายโอนไฟล์
@@ -103,7 +103,7 @@ readingTime: 14
 ในส่วนนี้ คุณสามารถกำหนดค่าโปรแกรมแก้ไขแท็กเสียงในตัว
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="หน้าจอการตั้งค่าโปรแกรมแก้ไขแท็ก Evertag" image="/docs/guide/evertag/img/settings-tag-editor.webp" >}}
+  {{< ls-card title="" subtitle="หน้าจอการตั้งค่าโปรแกรมแก้ไขแท็ก Evertag" image="/docs/guide/evertag/img/settings-tag-editor.webp" >}}
 {{< /cards >}}
 
 ### การปรับขนาดปกอัลบั้ม
@@ -136,7 +136,7 @@ readingTime: 14
 ในส่วนนี้ คุณสามารถปรับแต่งการตั้งค่าอินเทอร์เฟซผู้ใช้ตามความต้องการของคุณ
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="หน้าจอการตั้งค่าการปรับแต่งส่วนบุคคล Evertag" image="/docs/guide/evertag/img/settings-personalization.webp" >}}
+  {{< ls-card title="" subtitle="หน้าจอการตั้งค่าการปรับแต่งส่วนบุคคล Evertag" image="/docs/guide/evertag/img/settings-personalization.webp" >}}
 {{< /cards >}}
 
 ### ไอคอนแอปพลิเคชัน

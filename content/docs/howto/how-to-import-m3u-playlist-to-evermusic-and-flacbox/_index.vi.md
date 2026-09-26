@@ -7,7 +7,7 @@ tags: ["evermusic", "nhập", "danh sách phát", "m3u", "cue"]
 readingTime: 3
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **Tóm tắt:** Evermusic và Flacbox hỗ trợ nhập tệp danh sách phát M3U, M3U8 và CUE từ bộ nhớ đám mây, tệp ứng dụng cục bộ hoặc thiết bị của bạn. Đi tới Danh sách phát > Thêm > Nhập danh sách phát, chọn nguồn, chọn tệp của bạn và ứng dụng sẽ tự động tạo danh sách phát.
@@ -84,22 +84,22 @@ Ngoài ra, bạn có thể nhập nhiều danh sách phát cùng lúc bằng cá
 
 ## Câu hỏi thường gặp
 
-{{% details title="Evermusic và Flacbox hỗ trợ những định dạng danh sách phát nào?" closed="true" %}}
+{{% ls-details title="Evermusic và Flacbox hỗ trợ những định dạng danh sách phát nào?" closed="true" %}}
 Cả hai ứng dụng đều hỗ trợ các định dạng tệp danh sách phát M3U, M3U8 và CUE. Đây là những tiêu chuẩn danh sách phát phổ biến nhất được sử dụng bởi trình phát nhạc và phần mềm đa phương tiện.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Tôi có thể nhập danh sách phát từ bộ nhớ đám mây không?" closed="true" %}}
+{{% ls-details title="Tôi có thể nhập danh sách phát từ bộ nhớ đám mây không?" closed="true" %}}
 Có. Bạn có thể nhập tệp danh sách phát từ bất kỳ dịch vụ bộ nhớ đám mây nào đã kết nối bao gồm Google Drive, Dropbox, OneDrive và máy chủ WebDAV.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Tại sao một số bài hát bị thiếu sau khi nhập?" closed="true" %}}
+{{% ls-details title="Tại sao một số bài hát bị thiếu sau khi nhập?" closed="true" %}}
 Tệp danh sách phát phải chứa đường dẫn chính xác đến các tệp phương tiện của bạn và các tệp đó phải tồn tại tại các vị trí được chỉ định trên bộ nhớ của bạn. Kiểm tra lại rằng đường dẫn tệp trong tệp M3U hoặc CUE của bạn khớp với vị trí tệp thực tế.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Tôi có thể nhập nhiều danh sách phát cùng lúc không?" closed="true" %}}
+{{% ls-details title="Tôi có thể nhập nhiều danh sách phát cùng lúc không?" closed="true" %}}
 Có. Sử dụng nút Thêm hành động và chọn "Nhập danh sách phát từ thư mục". Ứng dụng quét thư mục tìm tất cả tệp danh sách phát được hỗ trợ và nhập chúng trong một bước.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Tôi có cần tạo danh sách phát thủ công không?" closed="true" %}}
+{{% ls-details title="Tôi có cần tạo danh sách phát thủ công không?" closed="true" %}}
 Không. Tính năng nhập loại bỏ việc tạo danh sách phát thủ công. Chỉ cần trỏ ứng dụng đến tệp M3U, M3U8 hoặc CUE hiện có của bạn và nó sẽ tự động tạo danh sách phát.
-{{% /details %}}
+{{% /ls-details %}}

@@ -7,7 +7,7 @@ tags: ["evermusic", "muzyka", "chmura", "iphone", "pamięć", "lokalny", "nas", 
 readingTime: 2
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **W skrócie:** Windows 10 ma wbudowany serwer DLNA. Włącz go w ustawieniach Sieci i udostępniania, a następnie użyj darmowej aplikacji **Evermusic** na iPhonie, aby strumieniować całą bibliotekę muzyczną przez Wi-Fi. Nie jest potrzebne oprogramowanie serwera firm trzecich.
@@ -96,22 +96,22 @@ Z serwerem multimediów DLNA w Windows 10 i Evermusic na iPhonie możesz cieszy�
 
 ## Często zadawane pytania
 
-{{% details title="Czy muszę instalować oprogramowanie serwera w Windows 10?" closed="true" %}}
+{{% ls-details title="Czy muszę instalować oprogramowanie serwera w Windows 10?" closed="true" %}}
 Nie. Windows 10 zawiera wbudowany serwer multimediów DLNA. Wystarczy włączyć strumieniowanie multimediów w ustawieniach Centrum sieci i udostępniania. Nie jest wymagane oprogramowanie firm trzecich.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Czy mój iPhone musi być w tej samej sieci Wi-Fi?" closed="true" %}}
+{{% ls-details title="Czy mój iPhone musi być w tej samej sieci Wi-Fi?" closed="true" %}}
 Tak. Strumieniowanie DLNA działa w sieci lokalnej. Zarówno komputer z Windows 10, jak i iPhone muszą być podłączone do tej samej sieci Wi-Fi, aby Evermusic mógł wykryć serwer DLNA.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Jakie formaty audio mogę strumieniować przez DLNA?" closed="true" %}}
+{{% ls-details title="Jakie formaty audio mogę strumieniować przez DLNA?" closed="true" %}}
 Serwer Windows DLNA udostępnia pliki z folderu Muzyka niezależnie od formatu. Evermusic obsługuje MP3, FLAC, AAC, WAV, OGG, AIFF i wiele innych formatów, więc możesz odtwarzać praktycznie każdy plik audio z serwera.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Czy mogę użyć Flacbox zamiast Evermusic?" closed="true" %}}
+{{% ls-details title="Czy mogę użyć Flacbox zamiast Evermusic?" closed="true" %}}
 Tak. Flacbox również obsługuje przeglądanie i odtwarzanie DLNA/UPnP. Możesz użyć dowolnej z tych aplikacji do wykrywania i odtwarzania muzyki z serwera Windows DLNA.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Czy strumieniowanie DLNA zużywa dane mobilne?" closed="true" %}}
+{{% ls-details title="Czy strumieniowanie DLNA zużywa dane mobilne?" closed="true" %}}
 Nie. DLNA działa wyłącznie w lokalnej sieci Wi-Fi. Nie zużywa żadnych danych mobilnych. Oba urządzenia muszą jednak pozostać podłączone do tej samej sieci podczas odtwarzania.
-{{% /details %}}
+{{% /ls-details %}}

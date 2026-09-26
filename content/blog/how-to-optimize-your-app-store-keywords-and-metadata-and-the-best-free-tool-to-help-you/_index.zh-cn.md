@@ -14,7 +14,7 @@ authors:
     image: "/images/about/artem-meleshko-founder-everappz.webp"
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 ## 为什么 App Store 关键词决定你的下载量
 
@@ -104,29 +104,29 @@ App Store 优化不需要昂贵的工具。通过智能规划和 [AppKeywords.pr
 该工具是开源的。欢迎提交错误报告、功能建议和 pull request。
 
 {{< cards cols="1" >}}
-  {{< card link="https://github.com/everappz/app-store-keyword-optimizer/tree/main" title="appkeywords.pro 在 GitHub" icon="github" tag= "open source" >}}
+  {{< ls-card link="https://github.com/everappz/app-store-keyword-optimizer/tree/main" title="appkeywords.pro 在 GitHub" icon="github" tag= "open source" >}}
 {{< /cards >}}
 
 ---
 
 ## 常见问题
 
-{{% details title="AppKeywords.pro 真的免费吗？" closed="true" %}}
+{{% ls-details title="AppKeywords.pro 真的免费吗？" closed="true" %}}
 是的。这是一个完全开源的浏览器端工具，无需注册、无广告、无数据收集。您的元数据永远不会离开设备。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="该工具支持多个 App Store 本地化吗？" closed="true" %}}
+{{% ls-details title="该工具支持多个 App Store 本地化吗？" closed="true" %}}
 支持。您可以为每个地区独立添加元数据，导出包含所有语言的单个 JSON 文件，兼容 Fastlane。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="应该在关键词字段中重复标题关键词吗？" closed="true" %}}
+{{% ls-details title="应该在关键词字段中重复标题关键词吗？" closed="true" %}}
 不应该。Apple 已经索引标题和副标题中的词。在关键词字段中重复会浪费字符。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="应该多久更新一次 App Store 关键词？" closed="true" %}}
+{{% ls-details title="应该多久更新一次 App Store 关键词？" closed="true" %}}
 至少每季度审查和刷新关键词。如果发现排名下降或搜索行为的季节性变化，请更早调整。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="可以与 Fastlane 一起使用吗？" closed="true" %}}
+{{% ls-details title="可以与 Fastlane 一起使用吗？" closed="true" %}}
 可以。GitHub 仓库包含 shell 脚本，用于在 Fastlane 元数据文件夹结构和 AppKeywords.pro 使用的 JSON 格式之间转换。
-{{% /details %}}
+{{% /ls-details %}}

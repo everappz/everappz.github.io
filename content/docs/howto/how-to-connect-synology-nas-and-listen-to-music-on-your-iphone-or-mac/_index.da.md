@@ -7,7 +7,7 @@ tags: ["musik", "streaming", "nas", "synology", "quickconnect"]
 readingTime: 4
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **Resumé:** Tilslut din Synology NAS til Evermusic eller Flacbox ved hjælp af Synologys native API -- enten manuelt via IP-adresse eller automatisk via QuickConnect ID. QuickConnect lader dig streame musik eksternt uden port forwarding. Begge apps understøtter FLAC, MP3, WAV og andre hi-res formater.
@@ -140,22 +140,22 @@ Med sikker fjernadgang via QuickConnect og understøttelse af en bred vifte af l
 
 ## Ofte stillede spørgsmål
 
-{{% details title="Hvad er forskellen mellem manuel forbindelse og QuickConnect?" closed="true" %}}
+{{% ls-details title="Hvad er forskellen mellem manuel forbindelse og QuickConnect?" closed="true" %}}
 Manuel forbindelse bruger NAS IP-adressen og porten, som fungerer på dit lokale netværk. QuickConnect bruger Synologys relay-tjeneste til at etablere en forbindelse fra hvor som helst over internettet, uden port forwarding.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Kan jeg streame musik fra Synology NAS uden for mit hjemmenetværk?" closed="true" %}}
+{{% ls-details title="Kan jeg streame musik fra Synology NAS uden for mit hjemmenetværk?" closed="true" %}}
 Ja. Aktiver QuickConnect på din Synology NAS og brug QuickConnect ID i Evermusic eller Flacbox til at streame musik fra hvor som helst med en internetforbindelse.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Hvilke lydformater understøttes ved streaming fra Synology NAS?" closed="true" %}}
+{{% ls-details title="Hvilke lydformater understøttes ved streaming fra Synology NAS?" closed="true" %}}
 Evermusic og Flacbox understøtter FLAC, MP3, AAC, WAV, ALAC, OGG, WMA, DSD og mange andre formater. Alle understøttede formater fungerer ved streaming fra Synology NAS.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Har jeg brug for to-faktor-godkendelse for at oprette forbindelse?" closed="true" %}}
+{{% ls-details title="Har jeg brug for to-faktor-godkendelse for at oprette forbindelse?" closed="true" %}}
 Nej, to-faktor-godkendelse er valgfrit. Men hvis du har aktiveret 2-trins-verifikation på din Synology DSM, vil appen bede om en engangskode under login. Du skal genautoriere, når sessionen udløber.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Skal jeg bruge Synology native API, WebDAV eller SMB til at oprette forbindelse?" closed="true" %}}
+{{% ls-details title="Skal jeg bruge Synology native API, WebDAV eller SMB til at oprette forbindelse?" closed="true" %}}
 Synology native API med QuickConnect er det bedste valg til fjernadgang. Til brug på lokalt netværk er SMB typisk den hurtigste mulighed. WebDAV fungerer godt til både lokal og ekstern adgang. Evermusic og Flacbox understøtter alle tre protokoller.
-{{% /details %}}
+{{% /ls-details %}}

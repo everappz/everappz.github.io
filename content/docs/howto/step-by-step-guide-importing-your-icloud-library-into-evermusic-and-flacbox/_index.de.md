@@ -7,7 +7,7 @@ tags: ["Musik", "Cloud", "Streaming", "Synchronisierung", "icloud", "Bibliothek"
 keywords: ["iCloud-Musik importieren Evermusic", "Flacbox iCloud-Synchronisierung", "Evermusic Stream von iCloud", "Musikbibliothek iOS-App", "Flacbox Metadaten-Leser", "iCloud-Musik-Streaming iPhone"]
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **Zusammenfassung:** Sie können Ihre iCloud Drive-Musikbibliothek in Evermusic und Flacbox streamen, ohne Dateien auf Ihr Gerät herunterzuladen. Verbinden Sie iCloud Drive in der App, aktivieren Sie die Online-Musiksynchronisierung zum Aufbau Ihrer Bibliothek, konfigurieren Sie den Metadaten-Leser zur Organisation nach Künstler/Album/Genre, und aktivieren Sie optional den Offline-Modus zum Herunterladen von Alben für das Hören ohne Internet. Diese Schritte funktionieren auch mit Google Drive, Dropbox, OneDrive und anderen unterstützten Cloud-Diensten.
@@ -148,26 +148,26 @@ Das ist alles für heute! Wir hoffen, dass diese Anleitung Ihnen hilft, die Sync
 
 ## FAQ
 
-{{% details title="Kann ich iCloud-Musik streamen, ohne Dateien auf mein iPhone herunterzuladen?" closed="true" %}}
+{{% ls-details title="Kann ich iCloud-Musik streamen, ohne Dateien auf mein iPhone herunterzuladen?" closed="true" %}}
 Ja. Wenn Sie iCloud Drive in Evermusic oder Flacbox verbinden und die Online-Musiksynchronisierung verwenden, erstellt die App Verknüpfungen zu Ihren Cloud-Dateien und streamt sie bei Bedarf. Dateien werden nicht heruntergeladen, es sei denn, Sie aktivieren explizit den Offline-Modus.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Warum ist der iCloud-Musikimport in Flacbox oder Evermusic langsam?" closed="true" %}}
+{{% ls-details title="Warum ist der iCloud-Musikimport in Flacbox oder Evermusic langsam?" closed="true" %}}
 Langsamer Import wird normalerweise durch Metadaten-Lesen einer großen Bibliothek über eine Mobilfunkverbindung verursacht. Aktivieren Sie die Hintergrundsynchronisierung, starten Sie die Audiowiedergabe, um die App aktiv zu halten, und erwägen Sie die Verwendung der Mac-Version für die anfängliche Synchronisierung großer Sammlungen.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Funktioniert diese Anleitung mit anderen Cloud-Diensten als iCloud?" closed="true" %}}
+{{% ls-details title="Funktioniert diese Anleitung mit anderen Cloud-Diensten als iCloud?" closed="true" %}}
 Ja. Die gleichen Schritte gelten für Google Drive, Dropbox, OneDrive, SMB, WebDAV und alle anderen von Evermusic und Flacbox unterstützten Cloud-Dienste.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Wie übertrage ich meine Musikbibliothek vom Mac auf das iPhone?" closed="true" %}}
+{{% ls-details title="Wie übertrage ich meine Musikbibliothek vom Mac auf das iPhone?" closed="true" %}}
 Verwenden Sie die Datensicherungs-/Wiederherstellungsfunktion in den App-Einstellungen. Synchronisieren und lesen Sie Metadaten zuerst auf der Mac-Version, erstellen Sie ein Backup und stellen Sie es dann auf der iOS-Version wieder her. Dies ist der schnellste Weg, eine große Bibliothek auf dem iPhone einzurichten.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Wird der Metadaten-Leser meine originalen Audiodateien verändern?" closed="true" %}}
+{{% ls-details title="Wird der Metadaten-Leser meine originalen Audiodateien verändern?" closed="true" %}}
 Nein. Der Metadaten-Leser aktualisiert nur die Anzeigeinformationen in Ihrer Musikbibliothek. Er verändert keine Dateien, die in Ihrem Cloud-Konto oder auf Ihrem Gerät gespeichert sind. Um Datei-Tags zu bearbeiten, verwenden Sie den integrierten Tag-Editor.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Wie mache ich Alben offline verfügbar?" closed="true" %}}
+{{% ls-details title="Wie mache ich Alben offline verfügbar?" closed="true" %}}
 Verwenden Sie die Offline-Modus-Funktion. Tippen Sie auf **Weitere Aktionen** bei einem beliebigen Cloud-Ordner und wählen Sie **Offline-Modus aktivieren**. Die App lädt alle Dateien herunter und hält sie automatisch mit der Cloud-Version synchronisiert.
-{{% /details %}}
+{{% /ls-details %}}

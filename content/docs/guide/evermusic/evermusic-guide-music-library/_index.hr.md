@@ -15,7 +15,7 @@ readingTime: 11
 Upravljanje glazbenom bibliotekom je jednostavno s Evermuzicom, gdje možete bez napora organizirati sve pjesme. Imate dvije mogućnosti za izgradnju glazbene biblioteke: ručno dodavanje ili automatska sinkronizacija.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Zaslon Evermusic glazbene biblioteke" image="/docs/guide/evermusic/evermusic-guide-music-library/img/music-library-main.webp" >}}
+  {{< ls-card title="" subtitle="Zaslon Evermusic glazbene biblioteke" image="/docs/guide/evermusic/evermusic-guide-music-library/img/music-library-main.webp" >}}
 {{< /cards >}}
 
 ## Ručno dodavanje
@@ -23,7 +23,7 @@ Upravljanje glazbenom bibliotekom je jednostavno s Evermuzicom, gdje možete bez
 Za ručno dodavanje pjesama, dodirnite stavku izbornika "Dodaj glazbu" i odaberite mape/datoteke iz spojene usluge pohrane u oblaku ili datoteke smještene na uređaju. Kada dodajete pjesme u biblioteku, kreiraju se samo veze na te pjesme, čuvajući stvarne datoteke na originalnim lokacijama radi uštede vrijednog prostora na disku. Ako želite učiniti pjesme dostupnima offline, možete koristiti radnju preuzimanja iz izbornika opcija ili omogućiti offline način rada za popise pjesama i kolekcije pjesama.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Dodavanje pjesama u glazbenu biblioteku" image="/docs/guide/evermusic/evermusic-guide-music-library/img/music-library-add-songs.webp" >}}
+  {{< ls-card title="" subtitle="Dodavanje pjesama u glazbenu biblioteku" image="/docs/guide/evermusic/evermusic-guide-music-library/img/music-library-add-songs.webp" >}}
 {{< /cards >}}
 
 ## Brzi pristup
@@ -75,7 +75,7 @@ Kada dodajete pjesme u glazbenu biblioteku, aplikacija automatski čita audio oz
 Smještena ispod navigacijske trake, gornja alatna traka nudi nekoliko prikladnih radnji: "Pretraži", "Reproduciraj sve", "Izmiješaj sve" i "Nastavi reprodukciju". Ovu alatnu traku možete otkriti ili sakriti jednostavnim gestom povlačenja prema dolje.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Prikaz albuma — Grupirano prema glazbenim oznakama" image="/docs/guide/evermusic/evermusic-guide-music-library/img/music-library-albums.webp" >}}
+  {{< ls-card title="" subtitle="Prikaz albuma — Grupirano prema glazbenim oznakama" image="/docs/guide/evermusic/evermusic-guide-music-library/img/music-library-albums.webp" >}}
 {{< /cards >}}
 
 ## Pretraži
@@ -83,7 +83,7 @@ Smještena ispod navigacijske trake, gornja alatna traka nudi nekoliko prikladni
 Značajka pretraživanja vam omogućuje pronalaženje određene pjesme, izvođača, albuma ili žanra unutar glazbene biblioteke. Unutar "Zaslona za pretraživanje" imate pristup sljedećim radnjama: "Sortiraj", "Filtriraj", "Mreža/popis".
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Rezultati pretraživanja glazbene biblioteke" image="/docs/guide/evermusic/evermusic-guide-music-library/img/music-library-search.webp" >}}
+  {{< ls-card title="" subtitle="Rezultati pretraživanja glazbene biblioteke" image="/docs/guide/evermusic/evermusic-guide-music-library/img/music-library-search.webp" >}}
 {{< /cards >}}
 
 ## Izbornik opcija
@@ -91,7 +91,7 @@ Značajka pretraživanja vam omogućuje pronalaženje određene pjesme, izvođa�
 Svaka pjesma u glazbenoj biblioteci ima izbornik s više radnji, kojemu se pristupa dodirivanjem gumba s tri točke pored naslova pjesme. Te radnje variraju ovisno o tome radi li se o jednoj pjesmi ili dijelu kolekcije.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Više radnji za stavku biblioteke" image="/docs/guide/evermusic/evermusic-guide-music-library/img/music-library-item-more-actions.webp" >}}
+  {{< ls-card title="" subtitle="Više radnji za stavku biblioteke" image="/docs/guide/evermusic/evermusic-guide-music-library/img/music-library-item-more-actions.webp" >}}
 {{< /cards >}}
 
 ### Za pojedinačne pjesme
@@ -125,7 +125,7 @@ Za kolekcije pjesama poput Albuma, Izvođača, Žanrova ili Skladatelja, izborni
 Način odabira možete aktivirati koristeći gumb Više radnji u gornjem desnom kutu. U ovom načinu možete odabrati više pjesama i izvesti različite radnje.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Način odabira u glazbenoj biblioteci" image="/docs/guide/evermusic/evermusic-guide-music-library/img/music-library-selection-mode.webp" >}}
+  {{< ls-card title="" subtitle="Način odabira u glazbenoj biblioteci" image="/docs/guide/evermusic/evermusic-guide-music-library/img/music-library-selection-mode.webp" >}}
 {{< /cards >}}
 
 ## Grupiranje prema oznakama
@@ -145,7 +145,7 @@ Ove kategorije vam pomažu organizirati pjesme prema glazbenim oznakama: Songs, 
 Kada otvorite odjeljke Izvođača, Albuma izvođača ili Skladatelja, možete vidjeti prekidač za Songs/All Albums/Exclusive Albums/Solo Albums.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Detalji albuma s prekidačem Songs / All / Exclusive / Solo" image="/docs/guide/evermusic/evermusic-guide-music-library/img/music-library-album-details.webp" >}}
+  {{< ls-card title="" subtitle="Detalji albuma s prekidačem Songs / All / Exclusive / Solo" image="/docs/guide/evermusic/evermusic-guide-music-library/img/music-library-album-details.webp" >}}
 {{< /cards >}}
 
 - **Songs**: Prikazuje sve pjesme gdje je ovaj Izvođač/Album izvođača/Skladatelj postavljen u audio oznakama.
@@ -166,7 +166,7 @@ Ovu značajku možete koristiti za brzo pronalaženje bilo koje pjesme, izvođa�
 Dodirnite stavku izbornika "Postavke" za konfiguriranje postavki glazbene biblioteke.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Postavke glazbene biblioteke" image="/docs/guide/evermusic/evermusic-guide-music-library/img/music-library-settings.webp" >}}
+  {{< ls-card title="" subtitle="Postavke glazbene biblioteke" image="/docs/guide/evermusic/evermusic-guide-music-library/img/music-library-settings.webp" >}}
 {{< /cards >}}
 
 #### Čitanje metapodataka

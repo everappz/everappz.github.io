@@ -12,7 +12,7 @@ authors:
     image: "/images/about/artem-meleshko-founder-everappz.webp"
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 ## Zašto izvoziti blog postove s Wixa?
 
@@ -84,33 +84,33 @@ bash fetch_blog_posts.sh
 Projekt je otvorenog koda.
 
 {{< cards cols="1" >}}
-  {{< card link="https://github.com/everappz/wix-blog-export" title="Projekt na GitHubu" icon="github" tag="open source" >}}
+  {{< ls-card link="https://github.com/everappz/wix-blog-export" title="Projekt na GitHubu" icon="github" tag="open source" >}}
 {{< /cards >}}
 
 ---
 
 ## Često postavljana pitanja
 
-{{% details title="Zašto ne mogu jednostavno koristiti `requests` za scrapanje Wix blog postova?" closed="true" %}}
+{{% ls-details title="Zašto ne mogu jednostavno koristiti `requests` za scrapanje Wix blog postova?" closed="true" %}}
 Wix renderira sadržaj dinamički JavaScriptom. Standardni HTTP zahtjev vraća praznu stranicu. Selenium pokreće headless preglednik za potpuno renderirani HTML.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Radi li ovo s bilo kojim Wix blogom?" closed="true" %}}
+{{% ls-details title="Radi li ovo s bilo kojim Wix blogom?" closed="true" %}}
 Da. Scraper čita XML sitemapa bloga i obrađuje svaki URL. Samo ažurirajte varijablu `SITEMAP_URL` u `parse_blog_sitemap.py`.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Koji OpenAI model se koristi?" closed="true" %}}
+{{% ls-details title="Koji OpenAI model se koristi?" closed="true" %}}
 Skripta koristi GPT-4o prema zadanim postavkama. Možete promijeniti varijablu `API_MODEL` u `generate_md.py`.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Mogu li ovo koristiti za migraciju s Wixa na Hugo?" closed="true" %}}
+{{% ls-details title="Mogu li ovo koristiti za migraciju s Wixa na Hugo?" closed="true" %}}
 Da. Izlaz je standardni Markdown s lokalnim putanjama slika, koji radi izravno s Hugom, Jekyllom, Astrom i drugim generatorima statičkih stranica.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Koliko košta OpenAI API za ovo?" closed="true" %}}
+{{% ls-details title="Koliko košta OpenAI API za ovo?" closed="true" %}}
 Cijena ovisi o broju i duljini vaših blog postova. Tipičan blog s 50 postova umjerene duljine košta nekoliko dolara korištenja API-ja s GPT-4o.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Je li ovaj alat otvorenog koda?" closed="true" %}}
+{{% ls-details title="Je li ovaj alat otvorenog koda?" closed="true" %}}
 Da. Potpuni izvorni kod dostupan je na [GitHubu](https://github.com/everappz/wix-blog-export) pod licencom otvorenog koda.
-{{% /details %}}
+{{% /ls-details %}}

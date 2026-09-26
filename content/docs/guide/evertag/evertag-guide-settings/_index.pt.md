@@ -21,7 +21,7 @@ Neste ecrã, pode aceder às configurações da aplicação e atualizá-la para 
 - **Legal e privacidade** — Termos, Política de Privacidade, Avisos Legais, Análises e recolha de dados
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evertag Settings Screen" image="/docs/guide/evertag/img/settings.webp" >}}
+  {{< ls-card title="" subtitle="Evertag Settings Screen" image="/docs/guide/evertag/img/settings.webp" >}}
 {{< /cards >}}
 
 ## Atualizar para Premium
@@ -63,7 +63,7 @@ Ativa o ecrã de proteção por palavra-passe se quiser proteger os dados da apl
 O gestor de ficheiros suporta acesso a contas de armazenamento na nuvem ligadas e oferece operações em lote para gestão rápida de múltiplos ficheiros.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evertag Settings File Manager Screen" image="/docs/guide/evertag/img/settings-file-manager.webp" >}}
+  {{< ls-card title="" subtitle="Evertag Settings File Manager Screen" image="/docs/guide/evertag/img/settings-file-manager.webp" >}}
 {{< /cards >}}
 
 ### Transferências de ficheiros
@@ -103,7 +103,7 @@ Limpe a pasta de cache da aplicação para recuperar espaço de armazenamento.
 Nesta secção, pode configurar o editor de tags de áudio integrado.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evertag Settings Tag Editor Screen" image="/docs/guide/evertag/img/settings-tag-editor.webp" >}}
+  {{< ls-card title="" subtitle="Evertag Settings Tag Editor Screen" image="/docs/guide/evertag/img/settings-tag-editor.webp" >}}
 {{< /cards >}}
 
 ### Dimensionamento de capa de álbum
@@ -136,7 +136,7 @@ Nesta secção, pode ativar a funcionalidade WiFi Drive, que lhe permite transfe
 Nesta secção, pode personalizar as configurações da interface de utilizador de acordo com as suas preferências.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evertag Settings Personalization Screen" image="/docs/guide/evertag/img/settings-personalization.webp" >}}
+  {{< ls-card title="" subtitle="Evertag Settings Personalization Screen" image="/docs/guide/evertag/img/settings-personalization.webp" >}}
 {{< /cards >}}
 
 ### Ícone da aplicação

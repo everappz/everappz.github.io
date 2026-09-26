@@ -12,7 +12,7 @@ authors:
     image: "/images/about/artem-meleshko-founder-everappz.webp"
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 **Özet:** Flacbox dünya genelinde 1 milyon indirmeyi aştı. 10 bantlı ekolayzır, M3U/CUE çalma listeleri, çevrimdışı oynatma ve iPhone, iPad ve Mac'te cihazlar arası senkronizasyon ile FLAC, ALAC, APE, DSD ve diğer kayıpsız formatları destekler.
 
@@ -78,26 +78,26 @@ Yaklaşan geliştirme şunlara odaklanıyor:
 
 ## Sık Sorulan Sorular
 
-{{% details title="Flacbox hangi ses formatlarını destekliyor?" closed="true" %}}
+{{% ls-details title="Flacbox hangi ses formatlarını destekliyor?" closed="true" %}}
 Flacbox FLAC, ALAC, APE, DSD, WavPack, TTA, RealAudio, MP3, AAC, OGG ve diğer birçok formatı çalar. Öncelikle kayıpsız ve hi-res ses için tasarlanmıştır.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Flacbox'ta ekolayzır var mı?" closed="true" %}}
+{{% ls-details title="Flacbox'ta ekolayzır var mı?" closed="true" %}}
 Evet. Flacbox, tür ön ayarları ve manuel frekans ayarı ile 10 bantlı bir ekolayzır içerir.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Flacbox ile çevrimdışı müzik dinleyebilir miyim?" closed="true" %}}
+{{% ls-details title="Flacbox ile çevrimdışı müzik dinleyebilir miyim?" closed="true" %}}
 Evet. Bulut depolamadan dosya indirin veya internet bağlantısı olmadan çevrimdışı oynatma için doğrudan uygulamaya aktarın.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Flacbox Mac'te çalışır mı?" closed="true" %}}
+{{% ls-details title="Flacbox Mac'te çalışır mı?" closed="true" %}}
 Evet. Flacbox, tüm cihazlarda senkronize kütüphaneler ve oynatma geçmişi ile iPhone, iPad ve Mac'te çalışır.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="CUE dosya desteği nedir?" closed="true" %}}
+{{% ls-details title="CUE dosya desteği nedir?" closed="true" %}}
 CUE dosyaları tek bir ses dosyası içindeki parça sınırlarını tanımlar. Flacbox, albüm riplerini uygun meta verilerle ayrı parçalara bölmek için CUE dosyalarını okur.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Flacbox ücretsiz mi?" closed="true" %}}
+{{% ls-details title="Flacbox ücretsiz mi?" closed="true" %}}
 Flacbox, uygulama içi satın alma yoluyla kullanılabilen isteğe bağlı premium özelliklerle ücretsiz olarak indirilebilir.
-{{% /details %}}
+{{% /ls-details %}}

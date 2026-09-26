@@ -17,7 +17,7 @@ keywords: [
 readingTime: 3
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **Ringkasan:** Hubungkan iPhone atau iPad Anda ke Mac (atau PC) dengan kabel USB. Di macOS Catalina dan yang lebih baru, gunakan Finder. Di macOS lama atau Windows, gunakan iTunes. Seret file ke aplikasi seperti Evermusic, Flacbox, atau Evertag untuk mentransfernya secara instan.
@@ -117,26 +117,26 @@ Dengan Berbagi File iTunes, Anda dapat dengan mudah mengelola file antara komput
 
 ## Pertanyaan yang Sering Diajukan
 
-{{% details title="Apakah saya memerlukan koneksi internet untuk mentransfer file melalui USB?" closed="true" %}}
+{{% ls-details title="Apakah saya memerlukan koneksi internet untuk mentransfer file melalui USB?" closed="true" %}}
 Tidak. Berbagi File bekerja sepenuhnya melalui koneksi kabel USB antara komputer dan perangkat iOS Anda. Tidak diperlukan internet.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Format file apa yang dapat saya transfer ke Evermusic atau Flacbox?" closed="true" %}}
+{{% ls-details title="Format file apa yang dapat saya transfer ke Evermusic atau Flacbox?" closed="true" %}}
 Kedua aplikasi mendukung berbagai format audio termasuk MP3, FLAC, AAC, WAV, AIFF, OGG, WMA, dan lainnya. Periksa dokumentasi aplikasi untuk daftar lengkap format yang didukung.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Mengapa saya tidak melihat tab File di Finder?" closed="true" %}}
+{{% ls-details title="Mengapa saya tidak melihat tab File di Finder?" closed="true" %}}
 Tab File hanya muncul ketika perangkat Anda memiliki setidaknya satu aplikasi yang terinstal yang mendukung Berbagi File. Instal Evermusic, Flacbox, atau Evertag, lalu hubungkan kembali perangkat Anda.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Bisakah saya mentransfer file secara nirkabel alih-alih menggunakan kabel USB?" closed="true" %}}
+{{% ls-details title="Bisakah saya mentransfer file secara nirkabel alih-alih menggunakan kabel USB?" closed="true" %}}
 Ya. Evermusic dan Flacbox juga mendukung layanan penyimpanan cloud dan transfer Wi-Fi. Namun, berbagi file USB melalui Finder atau iTunes biasanya lebih cepat untuk perpustakaan musik yang besar.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Apakah mentransfer file melalui Finder akan menimpa file yang ada di perangkat saya?" closed="true" %}}
+{{% ls-details title="Apakah mentransfer file melalui Finder akan menimpa file yang ada di perangkat saya?" closed="true" %}}
 Tidak. File baru ditambahkan bersama file yang sudah ada. Jika file dengan nama yang sama sudah ada, macOS mungkin secara otomatis mengganti nama file baru.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Apakah metode ini berfungsi dengan PC Windows?" closed="true" %}}
+{{% ls-details title="Apakah metode ini berfungsi dengan PC Windows?" closed="true" %}}
 Ya. Di Windows, gunakan iTunes untuk mentransfer file. Prosesnya sama seperti yang dijelaskan di bagian iTunes di atas. Instal iTunes dari Microsoft Store atau situs web Apple.
-{{% /details %}}
+{{% /ls-details %}}

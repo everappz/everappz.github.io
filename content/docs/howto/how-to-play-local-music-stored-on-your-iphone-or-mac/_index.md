@@ -8,7 +8,7 @@ aliases:
   - /post/how-to-play-local-music-stored-on-your-iphone-or-mac/
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **TL;DR:** Install [Evermusic](/products/evermusic) (MP3/WAV) or [Flacbox](/products/flacbox) (FLAC/DSD), open any local audio file or folder, and start playing. Add folders to Favorites for quick access, import tracks into your Music Library, or create playlists.
@@ -26,10 +26,10 @@ We'll explore methods and tools to seamlessly play your local music on your Appl
 To begin your journey into the world of local music on your iPhone and Mac, start by installing either Evermusic (for standard audio formats like mp3 and wav) or Flacbox (for lossless music in dsd and flac). Both of these apps are available for iOS and MacOS, and you can download them for free.
 
 {{< cards >}}
-  {{< card link="https://apps.apple.com/us/app/evermusic-cloud-music-player/id885367198?pt=95781850&ct=everappzcom&mt=8" title="Download Evermusic for iOS" tag="iOS" >}}
-  {{< card link="https://apps.apple.com/us/app/flacbox-hi-res-equalizer/id1097564256?pt=95781850&ct=everappzcom&mt=8" title="Download Flacbox for iOS" tag="iOS" >}}
-  {{< card link="https://apps.apple.com/us/app/evermusic-hi-res-music-player/id1564384601?pt=95781850&ct=everappzcom&mt=8" title="Download Evermusic for Mac" tag="macOS" >}}
-  {{< card link="https://apps.apple.com/us/app/flacbox-hi-res-music-player/id1594027432?pt=95781850&ct=everappzcom&mt=8" title="Download Flacbox for Mac" tag="macOS" >}}
+  {{< ls-card link="https://apps.apple.com/us/app/evermusic-cloud-music-player/id885367198?pt=95781850&ct=everappzcom&mt=8" title="Download Evermusic for iOS" tag="iOS" >}}
+  {{< ls-card link="https://apps.apple.com/us/app/flacbox-hi-res-equalizer/id1097564256?pt=95781850&ct=everappzcom&mt=8" title="Download Flacbox for iOS" tag="iOS" >}}
+  {{< ls-card link="https://apps.apple.com/us/app/evermusic-hi-res-music-player/id1564384601?pt=95781850&ct=everappzcom&mt=8" title="Download Evermusic for Mac" tag="macOS" >}}
+  {{< ls-card link="https://apps.apple.com/us/app/flacbox-hi-res-music-player/id1594027432?pt=95781850&ct=everappzcom&mt=8" title="Download Flacbox for Mac" tag="macOS" >}}
 {{< /cards >}}
 
 
@@ -137,22 +137,22 @@ With these simple steps, you can unlock the full potential of your iPhone and Ma
 
 ## FAQ
 
-{{% details title="What audio formats can Evermusic and Flacbox play?" closed="true" %}}
+{{% ls-details title="What audio formats can Evermusic and Flacbox play?" closed="true" %}}
 Evermusic plays MP3, WAV, AAC, M4A, and other standard formats. Flacbox adds support for FLAC, DSD, OGG, OPUS, APE, WMA, and ALAC.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Do these apps copy files to the app storage?" closed="true" %}}
+{{% ls-details title="Do these apps copy files to the app storage?" closed="true" %}}
 By default, files play from their original location without being copied. To change this behavior, enable "Always copy files during opening" in Settings > File manager.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Can I organize local music by artist and album?" closed="true" %}}
+{{% ls-details title="Can I organize local music by artist and album?" closed="true" %}}
 Yes. Import files into the Music Library (Step 4) and the app reads metadata to group tracks by Artist, Album, Genre, and Composer.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="How do I transfer music from my computer to iPhone?" closed="true" %}}
+{{% ls-details title="How do I transfer music from my computer to iPhone?" closed="true" %}}
 Use iTunes File Sharing (USB), WiFi Drive (wireless), or SMB (streaming). See our detailed guide: [Transfer and Play Local Files on iPhone](/docs/howto/how-to-play-local-itunes-files-on-my-iphone/).
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Are Evermusic and Flacbox free?" closed="true" %}}
+{{% ls-details title="Are Evermusic and Flacbox free?" closed="true" %}}
 Yes, both apps are free to download with core features including playback, equalizer, and cloud streaming. The free versions have some limits (number of playlists, cloud accounts, offline folders). Upgrading to Premium removes these limits.
-{{% /details %}}
+{{% /ls-details %}}

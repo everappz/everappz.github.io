@@ -7,7 +7,7 @@ tags: ["音楽", "オーディオ", "イコライザー", "10バンド", "ゲイ
 keywords: ["オーディオイコライザー iPhone", "Evermusic EQ プリセット", "Flacbox 10バンドイコライザー", "低音高音調整 iOS", "イコライザー Mac 音楽アプリ", "プリアンプでオーディオブースト", "カスタムサウンドプリセット"]
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **要約：** Evermusic と Flacbox には、プリセット（Rock、Hip-Hop、Bass Booster など）、カスタムプリセット作成、音量ブースト用プリアンプを備えたプロフェッショナルな10バンドオーディオイコライザーが搭載されています。iPhone、iPad、Mac で利用可能です。
@@ -105,26 +105,26 @@ Evermusic と Flacbox の多機能イコライザーで、音楽体験を向上�
 
 ## よくある質問
 
-{{% details title="イコライザーはすべてのオーディオ形式に対応していますか？" closed="true" %}}
+{{% ls-details title="イコライザーはすべてのオーディオ形式に対応していますか？" closed="true" %}}
 はい。Evermusic と Flacbox の10バンド EQ は、MP3、FLAC、AAC、WAV、ALAC、OGG、その他すべてのサポートされている形式に対応しています。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="EQ 設定はすべての曲に適用されますか？" closed="true" %}}
+{{% ls-details title="EQ 設定はすべての曲に適用されますか？" closed="true" %}}
 はい。イコライザーを有効にしてプリセットを選択すると、変更するかオフにするまで、すべての再生に適用されます。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="カスタムプリセットを複数作成できますか？" closed="true" %}}
+{{% ls-details title="カスタムプリセットを複数作成できますか？" closed="true" %}}
 はい。複数のカスタムプリセットを作成、保存し、切り替えることができます。エクスポート機能を使用してバックアップしてください。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="プリアンプは歪みを引き起こしますか？" closed="true" %}}
+{{% ls-details title="プリアンプは歪みを引き起こしますか？" closed="true" %}}
 高く設定しすぎると歪みが生じる可能性があります。調整中にオーディオレベルインジケーターを確認してください。レベルがクリッピング（上限に達する）している場合は、プリアンプゲインをわずかに下げてください。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="イコライザーは Evermusic と Flacbox の両方で利用できますか？" closed="true" %}}
+{{% ls-details title="イコライザーは Evermusic と Flacbox の両方で利用できますか？" closed="true" %}}
 はい。両方のアプリに、プリセット、カスタムプリセット、プリアンプを備えた同じ10バンドイコライザーが搭載されています。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="EQ プリセットを他の人と共有できますか？" closed="true" %}}
+{{% ls-details title="EQ プリセットを他の人と共有できますか？" closed="true" %}}
 はい。設定をエクスポートオプションを使用してプリセットをファイルに保存し、共有してください。相手は設定をインポートを使用してインポートできます。
-{{% /details %}}
+{{% /ls-details %}}

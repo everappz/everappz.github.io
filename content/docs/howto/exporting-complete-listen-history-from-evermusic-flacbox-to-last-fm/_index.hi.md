@@ -7,7 +7,7 @@ tags: ["evermusic", "flacbox", "हाल के", "lastfm", "निर्या
 readingTime: 5
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **सारांश:** Evermusic या Flacbox से अपना सुनने का इतिहास CSV फ़ाइल के रूप में निर्यात करें, फिर Windows पर मुफ्त Last.fm-Scrubbler-WPF टूल का उपयोग करके इसे Last.fm पर अपलोड करें। स्वचालित स्क्रॉबलिंग भी दोनों ऐप्स में मूल रूप से उपलब्ध है।
@@ -134,22 +134,22 @@ Evermusic ऐप से पहले से जनरेट किया गय�
 
 ## अक्सर पूछे जाने वाले प्रश्न
 
-{{% details title="क्या मैं CSV फ़ाइलें निर्यात किए बिना स्वचालित रूप से स्क्रॉबल कर सकता हूँ?" closed="true" %}}
+{{% ls-details title="क्या मैं CSV फ़ाइलें निर्यात किए बिना स्वचालित रूप से स्क्रॉबल कर सकता हूँ?" closed="true" %}}
 हाँ। Evermusic और Flacbox दोनों अब स्वचालित Last.fm स्क्रॉबलिंग का समर्थन करते हैं। गाइड देखें: [Last.fm पर स्क्रॉबल कैसे करें](/docs/howto/how-to-scrobble-your-music-history-from-evermusic-or-flacbox-to-last-fm)।
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="अगर मेरे CSV में 14 दिनों से पुराने ट्रैक हैं तो क्या होगा?" closed="true" %}}
+{{% ls-details title="अगर मेरे CSV में 14 दिनों से पुराने ट्रैक हैं तो क्या होगा?" closed="true" %}}
 Last.fm-Scrubbler-WPF में आयात मोड का उपयोग करें। यह समाप्ति समय से टाइमस्टैम्प की पुनर्गणना करता है, जिससे आप मूल तिथि की परवाह किए बिना ट्रैक स्क्रॉबल कर सकते हैं।
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="मेरे पास Windows कंप्यूटर नहीं है। क्या मैं अभी भी Last.fm-Scrubbler का उपयोग कर सकता हूँ?" closed="true" %}}
+{{% ls-details title="मेरे पास Windows कंप्यूटर नहीं है। क्या मैं अभी भी Last.fm-Scrubbler का उपयोग कर सकता हूँ?" closed="true" %}}
 हाँ। अपने Mac पर VirtualBox इंस्टॉल करें और Microsoft से मुफ्त Windows डेवलपमेंट एनवायरनमेंट इमेज डाउनलोड करें। वर्चुअल मशीन के अंदर Last.fm-Scrubbler-WPF चलाएं।
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="कुछ स्क्रॉबल पार्स क्यों नहीं किए जाते?" closed="true" %}}
+{{% ls-details title="कुछ स्क्रॉबल पार्स क्यों नहीं किए जाते?" closed="true" %}}
 जिन ट्रैक्स में आवश्यक मेटाडेटा (जैसे कलाकार का नाम) गायब है, उन्हें पार्स नहीं किया जा सकता। यह अपेक्षित है और फ़ाइल में अन्य ट्रैक्स को प्रभावित नहीं करता।
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="क्या दैनिक स्क्रॉबल सीमा है?" closed="true" %}}
+{{% ls-details title="क्या दैनिक स्क्रॉबल सीमा है?" closed="true" %}}
 हाँ। Last.fm-Scrubbler-WPF प्रतिदिन 2,800 स्क्रॉबल तक की अनुमति देता है। यदि आपको अधिक स्क्रॉबल करने की आवश्यकता है, तो प्रक्रिया को कई दिनों में विभाजित करें।
-{{% /details %}}
+{{% /ls-details %}}

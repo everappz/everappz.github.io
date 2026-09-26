@@ -12,7 +12,7 @@ authors:
     image: "/images/about/artem-meleshko-founder-everappz.webp"
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 ## 3 Milyon İndirme
 
@@ -98,22 +98,22 @@ Evermusic, isteğe bağlı premium özelliklerle App Store'da ücretsizdir.
 
 ## Sık Sorulan Sorular
 
-{{% details title="Evermusic'i kullanmak ücretsiz mi?" closed="true" %}}
+{{% ls-details title="Evermusic'i kullanmak ücretsiz mi?" closed="true" %}}
 Evet. Evermusic, temel özellikler ücretsiz olarak indirilebilir. Ekolayzır ve gelişmiş bulut seçenekleri gibi premium özellikler isteğe bağlı yükseltme ile kullanılabilir.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Evermusic sesli kitap çalabilir mi?" closed="true" %}}
+{{% ls-details title="Evermusic sesli kitap çalabilir mi?" closed="true" %}}
 Evet. Evermusic oynatma konumunuzu kaydeder, yer imlerini, ayarlanabilir oynatma hızını (0,5x - 2,0x) ve uyku zamanlayıcılarını destekler — bu da onu sesli kitaplar ve podcast'ler için uygun kılar.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Evermusic hangi bulut hizmetlerine bağlanır?" closed="true" %}}
+{{% ls-details title="Evermusic hangi bulut hizmetlerine bağlanır?" closed="true" %}}
 Dropbox, Google Drive, OneDrive, Box, MEGA, Yandex.Disk, MyDrive, pCloud, HiDrive, SMB dosya paylaşımları ve WebDAV sunucuları.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Evermusic ile SD kart kullanabilir miyim?" closed="true" %}}
+{{% ls-details title="Evermusic ile SD kart kullanabilir miyim?" closed="true" %}}
 Evet. Lightning veya USB-C SD kart okuyucuyu iPhone veya iPad'inize bağlayın ve Evermusic aracılığıyla karttan doğrudan müzik akışı yapın.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Evermusic Mac'te çalışır mı?" closed="true" %}}
+{{% ls-details title="Evermusic Mac'te çalışır mı?" closed="true" %}}
 Evet. Evermusic, tüm platformlarda bulut akışı ve çevrimdışı oynatma ile hem iOS hem de macOS için mevcuttur.
-{{% /details %}}
+{{% /ls-details %}}

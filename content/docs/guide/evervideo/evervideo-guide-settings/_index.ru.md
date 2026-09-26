@@ -23,7 +23,7 @@ readingTime: 16
 Экран «Настройки» — центр управления Evervideo. Здесь можно перейти на Premium, настроить движки воспроизведения видео и аудио (системные кодеки или FFmpeg), управлять «Картинкой в картинке», настроить субтитры (основные, дополнительные, libass, внешние файлы, шрифты), организовать медиатеку, настроить менеджер файлов, включить виджеты для экрана «Домой», создать резервную копию данных и получить доступ к справке и юридической информации. Разделы сгруппированы под заголовками: Покупки и обновления, Настройки приложения, Помощь, Юридические вопросы и конфиденциальность.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Главный экран настроек Evervideo" image="/docs/guide/evervideo/img/evervideo-settings.webp" >}}
+  {{< ls-card title="" subtitle="Главный экран настроек Evervideo" image="/docs/guide/evervideo/img/evervideo-settings.webp" >}}
 {{< /cards >}}
 
 ## Обновление до Premium
@@ -31,13 +31,13 @@ readingTime: 16
 Обновите приложение до версии Premium, чтобы снять все ограничения. Бесплатная версия приложения предлагает одноразовую пожизненную покупку и две варианта подписки (1 месяц и 1 год) для снятия всех ограничений и перехода на Premium.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evervideo — обновление до Premium" image="/docs/guide/evervideo/img/evervideo-upgrade-to-premium.webp" >}}
+  {{< ls-card title="" subtitle="Evervideo — обновление до Premium" image="/docs/guide/evervideo/img/evervideo-upgrade-to-premium.webp" >}}
 {{< /cards >}}
 
 Функция **Family Sharing** доступна для всех покупок и планов, так что вы можете поделиться версией Premium с до пятью членами семьи без дополнительных расходов.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evervideo — выбор плана Premium" image="/docs/guide/evervideo/img/evervideo-select-premium-plan.webp" >}}
+  {{< ls-card title="" subtitle="Evervideo — выбор плана Premium" image="/docs/guide/evervideo/img/evervideo-select-premium-plan.webp" >}}
 {{< /cards >}}
 
 ## Общий доступ к покупкам между iOS и Mac
@@ -51,7 +51,7 @@ readingTime: 16
 Для восстановления покупки на новом устройстве воспользуйтесь меню **Покупки → Восстановить покупки**. Отобразится список покупок. Если не все из них видны, убедитесь, что устройство подключено к тому же Apple ID, с которого осуществлялись покупки, и iCloud включён.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Меню покупок в Настройках Evervideo" image="/docs/guide/evervideo/img/evervideo-purhases-menu-in-settings.webp" >}}
+  {{< ls-card title="" subtitle="Меню покупок в Настройках Evervideo" image="/docs/guide/evervideo/img/evervideo-purhases-menu-in-settings.webp" >}}
 {{< /cards >}}
 
 ## Попробовать Premium бесплатно

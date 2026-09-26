@@ -12,7 +12,7 @@ authors:
     image: "/images/about/artem-meleshko-founder-everappz.webp"
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 ## Ποιο πρόγραμμα αναπαραγωγής μουσικής cloud είναι καλύτερο για iPhone;
 
@@ -91,22 +91,22 @@ authors:
 
 ## Συχνές ερωτήσεις
 
-{{% details title="Μπορώ να παίξω αρχεία FLAC στο iPhone χωρίς να τα μετατρέψω;" closed="true" %}}
+{{% ls-details title="Μπορώ να παίξω αρχεία FLAC στο iPhone χωρίς να τα μετατρέψω;" closed="true" %}}
 Ναι. Το Evermusic αναπαράγει FLAC, DSD, WAV, ALAC και άλλες μορφές χωρίς απώλειες εγγενώς στο iPhone. Δεν απαιτείται μετατροπή αρχείων. Απλώς συνδέστε τον λογαριασμό αποθήκευσής σας στο cloud και κάντε streaming ή κατεβάστε τα αρχεία FLAC σας απευθείας.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Ποιο πρόγραμμα αναπαραγωγής μουσικής cloud λειτουργεί με Dropbox και Google Drive;" closed="true" %}}
+{{% ls-details title="Ποιο πρόγραμμα αναπαραγωγής μουσικής cloud λειτουργεί με Dropbox και Google Drive;" closed="true" %}}
 Το Evermusic υποστηρίζει Dropbox, Google Drive, OneDrive, Box, MEGA, pCloud, WebDAV, SMB και άλλα -- συνολικά πάνω από 12 υπηρεσίες cloud. Οι περισσότερες κύριες εφαρμογές streaming όπως Spotify και Apple Music δεν συνδέονται σε αποθήκευση cloud τρίτων.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Χρειάζομαι συνδρομή για να χρησιμοποιήσω ένα πρόγραμμα αναπαραγωγής μουσικής cloud;" closed="true" %}}
+{{% ls-details title="Χρειάζομαι συνδρομή για να χρησιμοποιήσω ένα πρόγραμμα αναπαραγωγής μουσικής cloud;" closed="true" %}}
 Εξαρτάται από την εφαρμογή. Spotify, Apple Music και Deezer απαιτούν μηνιαίες συνδρομές. Το Evermusic προσφέρει δωρεάν επίπεδο και εφάπαξ Premium αγορά χωρίς επαναλαμβανόμενες χρεώσεις. Χρησιμοποιείτε τη δική σας αποθήκευση cloud για να φιλοξενείτε τα μουσικά σας αρχεία.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Ποιο είναι το καλύτερο πρόγραμμα αναπαραγωγής μουσικής για offline ακρόαση στο iPhone;" closed="true" %}}
+{{% ls-details title="Ποιο είναι το καλύτερο πρόγραμμα αναπαραγωγής μουσικής για offline ακρόαση στο iPhone;" closed="true" %}}
 Όλοι οι μεγάλοι αναπαραγωγείς υποστηρίζουν offline λήψεις, αλλά η προσέγγιση διαφέρει. Spotify και Apple Music σας επιτρέπουν να κατεβάζετε κομμάτια από τους καταλόγους τους. Το Evermusic σας επιτρέπει να κατεβάζετε τα δικά σας αρχεία από αποθήκευση cloud για offline αναπαραγωγή -- ιδανικό για πτήσεις, μετακινήσεις ή περιοχές χωρίς σύνδεση.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Μπορώ να χρησιμοποιήσω ένα πρόγραμμα αναπαραγωγής μουσικής cloud με το NAS ή τον οικιακό μου διακομιστή;" closed="true" %}}
+{{% ls-details title="Μπορώ να χρησιμοποιήσω ένα πρόγραμμα αναπαραγωγής μουσικής cloud με το NAS ή τον οικιακό μου διακομιστή;" closed="true" %}}
 Ναι. Το Evermusic υποστηρίζει πρωτόκολλα WebDAV και SMB, πράγμα που σημαίνει ότι μπορεί να συνδεθεί με τις περισσότερες συσκευές NAS από Synology, QNAP και Western Digital. Αυτό μετατρέπει το iPhone σας σε απομακρυσμένο αναπαραγωγέα για ολόκληρη τη μουσική σας βιβλιοθήκη στο σπίτι.
-{{% /details %}}
+{{% /ls-details %}}

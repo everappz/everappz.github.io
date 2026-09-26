@@ -7,7 +7,7 @@ tags: ["musikk", "lyd", "spiller", "frakoblet", "modus", "nedlasting", "mappe", 
 keywords: ["frakoblet musikk iPhone", "sky musikk synkronisering", "Evermusic frakoblet", "Flacbox synkroniser musikk", "spill musikk uten internett", "last ned lyd fra sky", "lokal filavspilling iOS"]
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **TL;DR:** Evermusic og Flacbox lar deg laste ned musikk fra skylagring (Google Drive, Dropbox, OneDrive og mer) til iPhone eller iPad for frakoblet avspilling. Du kan bruke tre metoder: direkte nedlasting, frakoblet modus med automatisk synkronisering, eller lydspiller-hurtigbuffer. Denne guiden dekker alle tre tilnærmingene steg for steg.
@@ -140,26 +140,26 @@ Ved å følge disse detaljerte trinnene kan du sømløst administrere og spille 
 
 ## Ofte stilte spørsmål
 
-{{% details title="Hvilke skytjenester støtter Evermusic og Flacbox?" closed="true" %}}
+{{% ls-details title="Hvilke skytjenester støtter Evermusic og Flacbox?" closed="true" %}}
 Begge appene støtter Google Drive, Dropbox, OneDrive, Box, MEGA, Yandex.Disk og andre store skylagringsleverandører. Du kan koble til flere tjenester samtidig.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Kan jeg synkronisere musikk automatisk fra skylagring til iPhonen min?" closed="true" %}}
+{{% ls-details title="Kan jeg synkronisere musikk automatisk fra skylagring til iPhonen min?" closed="true" %}}
 Ja. Aktiver frakoblet modus for en hvilken som helst mappe, spilleliste, album eller artist. Appen utfører en enveis synkronisering fra sky til enhet med et konfigurerbart intervall (standard: én gang per dag).
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Bruker frakoblet modus mye lagringsplass på enheten min?" closed="true" %}}
+{{% ls-details title="Bruker frakoblet modus mye lagringsplass på enheten min?" closed="true" %}}
 Lagringsbruken avhenger av størrelsen på musikksamlingen din og filformater. Du kan kontrollere dette ved å velge bestemte mapper å synkronisere, angi grenser for hurtigbufferstørrelse og overvåke lagring i appinnstillingene.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Hvilke lydformater støttes for frakoblet avspilling?" closed="true" %}}
+{{% ls-details title="Hvilke lydformater støttes for frakoblet avspilling?" closed="true" %}}
 Evermusic og Flacbox støtter MP3, FLAC, AAC, ALAC, WAV, AIFF, OGG, WMA og mange andre formater. Flacbox er optimalisert for tapsfrie formater som FLAC og ALAC.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Vil den frakoblede musikken min fortsette å spille hvis jeg lukker appen?" closed="true" %}}
+{{% ls-details title="Vil den frakoblede musikken min fortsette å spille hvis jeg lukker appen?" closed="true" %}}
 Ja. Nedlastede filer lagres lokalt på enheten din og spilles gjennom appens lydspiller uavhengig av internettforbindelse. Bakgrunnsavspilling støttes fullt ut.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Hvordan frigjør jeg plass brukt av frakoblet musikk?" closed="true" %}}
+{{% ls-details title="Hvordan frigjør jeg plass brukt av frakoblet musikk?" closed="true" %}}
 Deaktiver frakoblet modus for bestemte mapper i Innstillinger > Filbehandler > Synkroniserte offline-mapper. Dette fjerner lokale kopier fra enheten din. Du kan også tømme lydspiller-hurtigbufferen eller slette nedlastede filer manuelt.
-{{% /details %}}
+{{% /ls-details %}}

@@ -55,17 +55,17 @@ Wi-Fi Drive फीचर के साथ अपने कंप्यूटर 
 इस गाइड में, आप जानेंगे कि अपने iPhone, iPad और Mac पर Evertag की शक्ति का उपयोग कैसे करें, जिससे आपका म्यूज़िक प्रबंधन अनुभव सहज और आनंददायक बन सके।
 
 {{< cards >}}
-  {{< card icon="location-marker" title="नेविगेशन" subtitle="Tab Bar (iPhone उपयोगकर्ताओं के लिए) या Left Menu (iPad और Mac उपयोगकर्ताओं के लिए) का उपयोग करके हमारे ऐप में आसानी से नेविगेट करना सीखें और ऐप की सभी सुविधाओं तक पहुँचें।" link="/docs/guide/evertag/evertag-guide-navigation" >}}
+  {{< ls-card icon="location-marker" title="नेविगेशन" subtitle="Tab Bar (iPhone उपयोगकर्ताओं के लिए) या Left Menu (iPad और Mac उपयोगकर्ताओं के लिए) का उपयोग करके हमारे ऐप में आसानी से नेविगेट करना सीखें और ऐप की सभी सुविधाओं तक पहुँचें।" link="/docs/guide/evertag/evertag-guide-navigation" >}}
 
-  {{< card icon="cloud" title="संपर्क" subtitle="अपने सभी उपलब्ध क्लाउड अकाउंट को अपनी कीमती ऑडियो फ़ाइलों से आसानी से लिंक करें। आप हमारे एकीकृत फ़ाइल मैनेजर का उपयोग करके अपनी ऑनलाइन फ़ाइलें भी आसानी से संपादित कर सकते हैं।" link="/docs/guide/evertag/evertag-guide-connections" >}}
+  {{< ls-card icon="cloud" title="संपर्क" subtitle="अपने सभी उपलब्ध क्लाउड अकाउंट को अपनी कीमती ऑडियो फ़ाइलों से आसानी से लिंक करें। आप हमारे एकीकृत फ़ाइल मैनेजर का उपयोग करके अपनी ऑनलाइन फ़ाइलें भी आसानी से संपादित कर सकते हैं।" link="/docs/guide/evertag/evertag-guide-connections" >}}
 
-  {{< card icon="folder" title="स्थानीय फ़ाइलें" subtitle="ऐप के Documents फ़ोल्डर या अपने डिवाइस में संग्रहीत फ़ाइलें देखें और व्यवस्थित करें। अपनी ऑडियो फ़ाइलों को आसानी से संपादित और प्रबंधित करने के लिए बिल्ट-इन फ़ाइल मैनेजर का उपयोग करें।" link="/docs/guide/evertag/evertag-guide-local-files" >}}
+  {{< ls-card icon="folder" title="स्थानीय फ़ाइलें" subtitle="ऐप के Documents फ़ोल्डर या अपने डिवाइस में संग्रहीत फ़ाइलें देखें और व्यवस्थित करें। अपनी ऑडियो फ़ाइलों को आसानी से संपादित और प्रबंधित करने के लिए बिल्ट-इन फ़ाइल मैनेजर का उपयोग करें।" link="/docs/guide/evertag/evertag-guide-local-files" >}}
 
-  {{< card icon="pencil-alt" title="टैग एडिटर" subtitle="ऑडियो फ़ाइल मेटाडेटा मैनिपुलेशन की कला में महारत हासिल करें। जानें कि मेटाडेटा कैसे संपादित करें, एल्बम कवर कैसे बदलें और एक साथ कई फ़ाइलें सहजता से प्रबंधित करें।" link="/docs/guide/evertag/evertag-guide-tag-editor" >}}
+  {{< ls-card icon="pencil-alt" title="टैग एडिटर" subtitle="ऑडियो फ़ाइल मेटाडेटा मैनिपुलेशन की कला में महारत हासिल करें। जानें कि मेटाडेटा कैसे संपादित करें, एल्बम कवर कैसे बदलें और एक साथ कई फ़ाइलें सहजता से प्रबंधित करें।" link="/docs/guide/evertag/evertag-guide-tag-editor" >}}
 
-  {{< card icon="code" title="टैग फ़ील्ड मैपिंग" subtitle="Evertag ऐप द्वारा समर्थित ऑडियो टैग फ़ील्ड की पूरी सूची एक्सप्लोर करें, जिसमें आंतरिक फ़ील्ड नाम और प्रमुख मेटाडेटा फ़ॉर्मेट में मैपिंग शामिल हैं।" link="/docs/guide/evertag/evertag-tag-field-mappings" >}}
+  {{< ls-card icon="code" title="टैग फ़ील्ड मैपिंग" subtitle="Evertag ऐप द्वारा समर्थित ऑडियो टैग फ़ील्ड की पूरी सूची एक्सप्लोर करें, जिसमें आंतरिक फ़ील्ड नाम और प्रमुख मेटाडेटा फ़ॉर्मेट में मैपिंग शामिल हैं।" link="/docs/guide/evertag/evertag-tag-field-mappings" >}}
 
-  {{< card icon="adjustments" title="सेटिंग्स" subtitle="जानें कि अपने ऐप अनुभव को कैसे कस्टमाइज़ करें, प्रदर्शन को फाइन-ट्यून करें, डेटा उपयोग प्रबंधित करें और भाषा और उपयोगकर्ता इंटरफेस प्राथमिकताओं को अपनी पसंद के अनुसार अनुकूलित करें।" link="/docs/guide/evertag/evertag-guide-settings" >}}
+  {{< ls-card icon="adjustments" title="सेटिंग्स" subtitle="जानें कि अपने ऐप अनुभव को कैसे कस्टमाइज़ करें, प्रदर्शन को फाइन-ट्यून करें, डेटा उपयोग प्रबंधित करें और भाषा और उपयोगकर्ता इंटरफेस प्राथमिकताओं को अपनी पसंद के अनुसार अनुकूलित करें।" link="/docs/guide/evertag/evertag-guide-settings" >}}
 
-  {{< card icon="question-mark-circle" title="FAQ" subtitle="हमारे FAQ अनुभाग में सामान्य प्रश्नों के त्वरित उत्तर खोजें।" link="/docs/faq/evertag" >}}
+  {{< ls-card icon="question-mark-circle" title="FAQ" subtitle="हमारे FAQ अनुभाग में सामान्य प्रश्नों के त्वरित उत्तर खोजें।" link="/docs/faq/evertag" >}}
 {{< /cards >}}

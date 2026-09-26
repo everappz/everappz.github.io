@@ -7,7 +7,7 @@ tags: ["evermusic", "połączyć", "bluesound vault"]
 readingTime: 1
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **Podsumowanie:** Połącz się z wewnętrzną pamięcią Bluesound VAULT przez SMB za pomocą Evermusic, Flacbox lub Evertag. Znajdź adres IP VAULT w aplikacji BluOS, wprowadź go jako połączenie SMB z dostępem gościa i zacznij odtwarzać lub zarządzać plikami muzycznymi.
@@ -58,18 +58,18 @@ Dzięki tym prostym krokom możesz łatwo uzyskać dostęp do wewnętrznego dysk
 
 ## Często zadawane pytania
 
-{{% details title="Czy potrzebuję nazwy użytkownika i hasła, aby połączyć się z Bluesound VAULT?" closed="true" %}}
+{{% ls-details title="Czy potrzebuję nazwy użytkownika i hasła, aby połączyć się z Bluesound VAULT?" closed="true" %}}
 Nie. Bluesound VAULT obsługuje dostęp gościa (anonimowy) przez SMB. Pozostaw pola Login i Hasło puste podczas konfigurowania połączenia.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Czy mogę edytować tagi muzyczne na Bluesound VAULT?" closed="true" %}}
+{{% ls-details title="Czy mogę edytować tagi muzyczne na Bluesound VAULT?" closed="true" %}}
 Tak. Za pomocą Evertag możesz edytować tagi metadanych (tytuł, artysta, album itp.) plików audio przechowywanych bezpośrednio na wewnętrznym dysku twardym VAULT.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Jakie protokoły obsługuje Bluesound VAULT?" closed="true" %}}
+{{% ls-details title="Jakie protokoły obsługuje Bluesound VAULT?" closed="true" %}}
 Bluesound VAULT udostępnia swoją wewnętrzną pamięć przez SMB (Server Message Block). Evermusic, Flacbox i Evertag obsługują połączenia SMB, co ułatwia połączenie.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Czy mogę strumieniować muzykę z VAULT bez kopiowania plików na iPhone?" closed="true" %}}
+{{% ls-details title="Czy mogę strumieniować muzykę z VAULT bez kopiowania plików na iPhone?" closed="true" %}}
 Tak. Po połączeniu przez SMB możesz strumieniować pliki audio bezpośrednio z wewnętrznego dysku VAULT bez kopiowania ich na urządzenie.
-{{% /details %}}
+{{% /ls-details %}}

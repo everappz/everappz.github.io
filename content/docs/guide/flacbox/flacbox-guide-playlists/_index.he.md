@@ -20,7 +20,7 @@ readingTime: 7
 רשימות השמעה ב-Flacbox יכולות לכלול תמהיל של רצועות ענן מקוונות, קבצים שהורדו לא מקוון וקבצים מקומיים מהמכשיר שלכם — הכל בפלייליסט אחד — ולנגן ביחד בצורה חלקה.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="המסך הראשי של רשימות ההשמעה ב-Flacbox" image="/docs/guide/flacbox/img/playlists-main.webp" >}}
+  {{< ls-card title="" subtitle="המסך הראשי של רשימות ההשמעה ב-Flacbox" image="/docs/guide/flacbox/img/playlists-main.webp" >}}
 {{< /cards >}}
 
 ## יצירת רשימת השמעה
@@ -63,7 +63,7 @@ readingTime: 7
 - **מצב לא מקוון** — הורידו את כל הרצועות מרשימת השמעה זו לקבצים מקומיים. פריטים חדשים שנוספים לרשימת ההשמעה מורדים גם הם אוטומטית.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="מסך פרטי רשימת השמעה ב-Flacbox" image="/docs/guide/flacbox/img/playlist-details-screen.webp" >}}
+  {{< ls-card title="" subtitle="מסך פרטי רשימת השמעה ב-Flacbox" image="/docs/guide/flacbox/img/playlist-details-screen.webp" >}}
 {{< /cards >}}
 
 ## עוד פעולות לרשימת השמעה במסך רשימות ההשמעה
@@ -82,7 +82,7 @@ readingTime: 7
 - **מחק רשימת השמעה** — מחקו את רשימת ההשמעה מספריית המוזיקה. **לא ניתן לבטל פעולה זו.**
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="עוד פעולות לרשימת השמעה במסך הראשי של רשימות ההשמעה ב-Flacbox" image="/docs/guide/flacbox/img/more-actions-for-playlist-in-playlists-main-screen.webp" >}}
+  {{< ls-card title="" subtitle="עוד פעולות לרשימת השמעה במסך הראשי של רשימות ההשמעה ב-Flacbox" image="/docs/guide/flacbox/img/more-actions-for-playlist-in-playlists-main-screen.webp" >}}
 {{< /cards >}}
 
 ## עוד פעולות לרשימת השמעה במסך פרטי רשימת ההשמעה
@@ -110,7 +110,7 @@ readingTime: 7
 לתהליך עבודה פשוט עוד יותר ברשימות השמעה ארוכות, בחרו עוד פעולות ← סדר מחדש שירים כדי להיכנס למצב סדר מחדש ייעודי של גרירה ושחרור.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="סידור מחדש של שירים ברשימת השמעה ב-Flacbox" image="/docs/guide/flacbox/img/playlist-details-rearange-songs.webp" >}}
+  {{< ls-card title="" subtitle="סידור מחדש של שירים ברשימת השמעה ב-Flacbox" image="/docs/guide/flacbox/img/playlist-details-rearange-songs.webp" >}}
 {{< /cards >}}
 
 ## שינוי תמונת עטיפת רשימת ההשמעה
@@ -126,7 +126,7 @@ readingTime: 7
 פתחו את רשימת ההשמעה, הקישו על כפתור **"..."** בפינה הימנית העליונה ובחרו **בחר** כדי להיכנס למצב בחירה. בחרו את הרצועות שברצונכם למחוק והקישו **מחק מרשימת השמעה** בתחתית המסך. אשרו על ידי הקשה על **בוצע**.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="מצב בחירה במסך פרטי רשימת ההשמעה ב-Flacbox" image="/docs/guide/flacbox/img/selection-mode-playlist-details-screen.webp" >}}
+  {{< ls-card title="" subtitle="מצב בחירה במסך פרטי רשימת ההשמעה ב-Flacbox" image="/docs/guide/flacbox/img/selection-mode-playlist-details-screen.webp" >}}
 {{< /cards >}}
 
 ## אפשרויות רצועה

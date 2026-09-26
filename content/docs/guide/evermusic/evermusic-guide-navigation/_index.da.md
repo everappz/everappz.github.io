@@ -25,7 +25,7 @@ Evermusics funktionalitet er opdelt i to separate komponenter: Musikbiblioteket,
 Uanset om du bruger en iPhone, iPad eller kompakt tilstand på en Mac, er alle app-funktioner nemt tilgængelige via fanelinjen i bunden af skærmen. For iPad- og Mac-brugere kan den samme menu findes på venstre side af skærmen. Denne gennemtænkte organisation kategoriserer alle app-funktioner i let tilgængelige sektioner og sikrer en brugervenlig og effektiv oplevelse.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evermusic venstre sidepanel på iPad og Mac" image="/docs/guide/evermusic/evermusic-guide-navigation/img/navigation-left-sidebar.webp" >}}
+  {{< ls-card title="" subtitle="Evermusic venstre sidepanel på iPad og Mac" image="/docs/guide/evermusic/evermusic-guide-navigation/img/navigation-left-sidebar.webp" >}}
 {{< /cards >}}
 
 **Forbindelser:** Du kan nemt tilslutte cloud-lagringstjenester som Google Drive, MEGA, OneDrive og Dropbox samt din computer og personlige NAS på denne skærm.
@@ -47,7 +47,7 @@ Sektionen med lokale filer er opdelt i to kategorier: Filer i denne applikation 
 Aktiver en fuldskærmsafspiller ved at trykke på mini-afspiller-ikonet og bruge en stryg-nedad-gestus til at skjule den. På iPad og Mac er mini-afspillerens skærm placeret øverst på skærmen og kan skjules ved åbning af fuldskærmsafspilleren via hovedmenuen.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="iPhone-fanelinje" image="/docs/guide/evermusic/evermusic-guide-navigation/img/navigation-bottom-tabbar.webp" >}}
+  {{< ls-card title="" subtitle="iPhone-fanelinje" image="/docs/guide/evermusic/evermusic-guide-navigation/img/navigation-bottom-tabbar.webp" >}}
 {{< /cards >}}
 
 ## Mini-afspiller-vindue (kun Mac)
@@ -55,7 +55,7 @@ Aktiver en fuldskærmsafspiller ved at trykke på mini-afspiller-ikonet og bruge
 For at få adgang til mini-afspiller-vinduet på din Mac skal du blot flytte markøren til nederste højre hjørne af app-vinduet og ændre størrelsen til det mindst mulige. Tryk derefter på skjulknappen (vist som en pil nedad) for at aktivere mini-afspiller-vinduet. For at holde mini-afspiller-vinduet altid øverst over andre vinduer skal du navigere til den øverste menulinje på din Mac, vælge "Vindue" og derefter vælge "Vis vindue altid øverst". Denne funktion er nyttig til at lytte til lydforelæsninger uden afbrydelser.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Mac mini-afspiller-vindue" image="/docs/guide/evermusic/evermusic-guide-navigation/img/navigation-mac-exclusive-miniplayer.webp" >}}
+  {{< ls-card title="" subtitle="Mac mini-afspiller-vindue" image="/docs/guide/evermusic/evermusic-guide-navigation/img/navigation-mac-exclusive-miniplayer.webp" >}}
 {{< /cards >}}
 
 ## Flere handlinger
@@ -63,7 +63,7 @@ For at få adgang til mini-afspiller-vinduet på din Mac skal du blot flytte mar
 Praktisk talt hvert indholdselement på skærmen har en "Flere handlinger"-knap. Tryk på den for at få adgang til alle tilgængelige handlinger.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Kontekstmenu med Flere handlinger" image="/docs/guide/evermusic/evermusic-guide-navigation/img/navigation-more-actions.webp" >}}
+  {{< ls-card title="" subtitle="Kontekstmenu med Flere handlinger" image="/docs/guide/evermusic/evermusic-guide-navigation/img/navigation-more-actions.webp" >}}
 {{< /cards >}}
 
 ## Øverste værktøjslinje
@@ -77,7 +77,7 @@ Du kan nemt vise eller skjule denne værktøjslinje med en simpel stryg-nedad-ge
 - **Bland alle:** Tilføj alle spor fra den aktuelle side til lydafspillerkøen og bland dem, inden de tilføjes, for en dejlig lytteoplevelse.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Øverste værktøjslinje med Søg, Afspil alle og Bland alle" image="/docs/guide/evermusic/evermusic-guide-navigation/img/navigation-top-toolbar.webp" >}}
+  {{< ls-card title="" subtitle="Øverste værktøjslinje med Søg, Afspil alle og Bland alle" image="/docs/guide/evermusic/evermusic-guide-navigation/img/navigation-top-toolbar.webp" >}}
 {{< /cards >}}
 
 ## Kontekstmenu
@@ -91,7 +91,7 @@ Kontekstmenuen giver hurtig adgang til yderligere muligheder og handlinger for p
 **Højreklik:** Højreklik på celler, mini-afspilleren eller den kompakte afspiller for at vise kontekstmenuen.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Kontekstmenu på macOS" image="/docs/guide/evermusic/evermusic-guide-navigation/img/navigation-context-menu-macos.webp" >}}
+  {{< ls-card title="" subtitle="Kontekstmenu på macOS" image="/docs/guide/evermusic/evermusic-guide-navigation/img/navigation-context-menu-macos.webp" >}}
 {{< /cards >}}
 
 ## Tilgængelighed
@@ -125,7 +125,7 @@ Evermusic leveres med fire startskærm/låseskærm-widgets, der viser nøgledele
 Alle fire widgets er tilgængelige i små, mellemstore og store størrelser, så du kan vælge det layout, der passer til din skærm.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Tilføjelse af Evermusic-widgets" image="/docs/guide/evermusic/evermusic-guide-navigation/img/navigation-add-widgets.webp" >}}
+  {{< ls-card title="" subtitle="Tilføjelse af Evermusic-widgets" image="/docs/guide/evermusic/evermusic-guide-navigation/img/navigation-add-widgets.webp" >}}
 {{< /cards >}}
 
 ### Tilføj en widget på iPhone (startskærm)
@@ -175,7 +175,7 @@ CarPlay-widgetten opdateres live, efterhånden som din musik ændres, og er stor
 Evermusic inkluderer en fuldt udstyret **Apple CarPlay**-brugerflade (kun iOS), der er optimeret til bilskærmen. Når din iPhone er tilsluttet en kompatibel CarPlay-enhed — via USB eller trådløst — vises Evermusic sammen med Apple Music og Spotify i CarPlay-app-gitteret, klar til at streame dit cloud-bibliotek på vejen.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evermusic på CarPlay-skærmen" image="/docs/guide/evermusic/evermusic-guide-navigation/img/navigation-carplay-menu.webp" >}}
+  {{< ls-card title="" subtitle="Evermusic på CarPlay-skærmen" image="/docs/guide/evermusic/evermusic-guide-navigation/img/navigation-carplay-menu.webp" >}}
 {{< /cards >}}
 
 ### Hvad du får i CarPlay

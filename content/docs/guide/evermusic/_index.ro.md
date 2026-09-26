@@ -72,19 +72,19 @@ Acest ghid vă va ajuta să obțineți cel mai bun rezultat din Evermusic pe iPh
 
 
 {{< cards >}}
-  {{< card icon="location-marker" title="Navigare" subtitle="Aflați cum să navigați în Evermusic folosind Bara de File pe iPhone sau Meniul Stâng pe iPad și Mac." link="/docs/guide/evermusic/evermusic-guide-navigation" >}}
+  {{< ls-card icon="location-marker" title="Navigare" subtitle="Aflați cum să navigați în Evermusic folosind Bara de File pe iPhone sau Meniul Stâng pe iPad și Mac." link="/docs/guide/evermusic/evermusic-guide-navigation" >}}
 
-  {{< card icon="cloud" title="Conexiuni" subtitle="Conectați conturile dvs. cloud și gestionați fișierele online folosind managerul de fișiere integrat." link="/docs/guide/evermusic/evermusic-guide-connections" >}}
+  {{< ls-card icon="cloud" title="Conexiuni" subtitle="Conectați conturile dvs. cloud și gestionați fișierele online folosind managerul de fișiere integrat." link="/docs/guide/evermusic/evermusic-guide-connections" >}}
 
-  {{< card icon="collection" title="Biblioteca muzicală" subtitle="Organizați și explorați melodiile, albumele și artiștii din Biblioteca Muzicală." link="/docs/guide/evermusic/evermusic-guide-music-library" >}}
+  {{< ls-card icon="collection" title="Biblioteca muzicală" subtitle="Organizați și explorați melodiile, albumele și artiștii din Biblioteca Muzicală." link="/docs/guide/evermusic/evermusic-guide-music-library" >}}
 
-  {{< card icon="music-note" title="Liste de redare" subtitle="Creați și aranjați liste de redare pentru a se potrivi cu starea sau ocazia dvs." link="/docs/guide/evermusic/evermusic-guide-playlists" >}}
+  {{< ls-card icon="music-note" title="Liste de redare" subtitle="Creați și aranjați liste de redare pentru a se potrivi cu starea sau ocazia dvs." link="/docs/guide/evermusic/evermusic-guide-playlists" >}}
 
-  {{< card icon="folder" title="Fișiere locale" subtitle="Accesați și gestionați muzica offline prin secțiunea Fișiere Locale." link="/docs/guide/evermusic/evermusic-guide-local-files" >}}
+  {{< ls-card icon="folder" title="Fișiere locale" subtitle="Accesați și gestionați muzica offline prin secțiunea Fișiere Locale." link="/docs/guide/evermusic/evermusic-guide-local-files" >}}
 
-  {{< card icon="play" title="Player audio" subtitle="Controlați redarea, coada și setările audio precum egalizatorul și cronometrul de somn." link="/docs/guide/evermusic/evermusic-guide-player" >}}
+  {{< ls-card icon="play" title="Player audio" subtitle="Controlați redarea, coada și setările audio precum egalizatorul și cronometrul de somn." link="/docs/guide/evermusic/evermusic-guide-player" >}}
 
-  {{< card icon="adjustments" title="Setări" subtitle="Personalizați aspectul, funcțiile și setările de performanță ale Evermusic." link="/docs/guide/evermusic/evermusic-guide-settings" >}}
+  {{< ls-card icon="adjustments" title="Setări" subtitle="Personalizați aspectul, funcțiile și setările de performanță ale Evermusic." link="/docs/guide/evermusic/evermusic-guide-settings" >}}
 
-  {{< card icon="question-mark-circle" title="FAQ" subtitle="Găsiți răspunsuri rapide la întrebări frecvente în secțiunea noastră FAQ." link="/docs/faq/evermusic" >}}
+  {{< ls-card icon="question-mark-circle" title="FAQ" subtitle="Găsiți răspunsuri rapide la întrebări frecvente în secțiunea noastră FAQ." link="/docs/faq/evermusic" >}}
 {{< /cards >}}

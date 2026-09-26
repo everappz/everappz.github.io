@@ -7,7 +7,7 @@ tags: ["Musik", "Audio", "Equalizer", "10-Band", "Verstärkung", "Konfiguration"
 keywords: ["Audio-Equalizer iPhone", "Evermusic EQ-Voreinstellungen", "Flacbox 10-Band-Equalizer", "Bass Höhen anpassen iOS", "Equalizer Mac Musik-App", "Audio mit Vorverstärker verstärken", "benutzerdefinierte Klangvoreinstellungen"]
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **Zusammenfassung:** Evermusic und Flacbox enthalten einen professionellen 10-Band-Audio-Equalizer mit Voreinstellungen (Rock, Hip-Hop, Bass Booster und mehr), Erstellung benutzerdefinierter Voreinstellungen und einen Vorverstärker zur Lautstärkeverstärkung. Verfügbar auf iPhone, iPad und Mac.
@@ -105,26 +105,26 @@ Verbessern Sie Ihr Musikerlebnis, passen Sie Ihren Klang an jedes Szenario an un
 
 ## Häufig gestellte Fragen
 
-{{% details title="Funktioniert der Equalizer mit allen Audioformaten?" closed="true" %}}
+{{% ls-details title="Funktioniert der Equalizer mit allen Audioformaten?" closed="true" %}}
 Ja. Der 10-Band-EQ in Evermusic und Flacbox funktioniert mit MP3, FLAC, AAC, WAV, ALAC, OGG und allen anderen unterstützten Formaten.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Gelten die EQ-Einstellungen für alle Songs?" closed="true" %}}
+{{% ls-details title="Gelten die EQ-Einstellungen für alle Songs?" closed="true" %}}
 Ja. Sobald Sie den Equalizer aktivieren und eine Voreinstellung auswählen, gilt sie für die gesamte Wiedergabe, bis Sie sie ändern oder ausschalten.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Kann ich mehr als eine benutzerdefinierte Voreinstellung erstellen?" closed="true" %}}
+{{% ls-details title="Kann ich mehr als eine benutzerdefinierte Voreinstellung erstellen?" closed="true" %}}
 Ja. Sie können mehrere benutzerdefinierte Voreinstellungen erstellen, speichern und zwischen ihnen wechseln. Verwenden Sie die Exportfunktion, um sie zu sichern.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Verursacht der Vorverstärker Verzerrungen?" closed="true" %}}
+{{% ls-details title="Verursacht der Vorverstärker Verzerrungen?" closed="true" %}}
 Das kann er, wenn er zu hoch eingestellt ist. Beobachten Sie die Audio-Pegelanzeigen während der Anpassung. Wenn die Pegel clippen (den oberen Bereich erreichen), reduzieren Sie die Vorverstärkerverstärkung leicht.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Ist der Equalizer in sowohl Evermusic als auch Flacbox verfügbar?" closed="true" %}}
+{{% ls-details title="Ist der Equalizer in sowohl Evermusic als auch Flacbox verfügbar?" closed="true" %}}
 Ja. Beide Apps enthalten denselben 10-Band-Equalizer mit Voreinstellungen, benutzerdefinierten Voreinstellungen und Vorverstärker.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Kann ich meine EQ-Voreinstellungen mit jemand anderem teilen?" closed="true" %}}
+{{% ls-details title="Kann ich meine EQ-Voreinstellungen mit jemand anderem teilen?" closed="true" %}}
 Ja. Verwenden Sie die Option Konfiguration exportieren, um Ihre Voreinstellungen in einer Datei zu speichern, und teilen Sie diese. Die andere Person kann sie mit der Option Konfiguration importieren importieren.
-{{% /details %}}
+{{% /ls-details %}}

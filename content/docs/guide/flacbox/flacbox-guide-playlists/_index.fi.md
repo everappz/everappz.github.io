@@ -20,7 +20,7 @@ Soittolistat-osiossa löydät hyödyllisiä työkaluja musiikkikokoelmiesi halli
 Flacboxin soittolistat voivat sisältää sekoituksen online-pilvikappalleita, offline-ladattuja tiedostoja ja laitteesi paikallisia tiedostoja — kaikki yhdessä soittolistassa — ja ne toistetaan saumattomasti yhdessä.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacboxin Soittolistojen Pääruutu" image="/docs/guide/flacbox/img/playlists-main.webp" >}}
+  {{< ls-card title="" subtitle="Flacboxin Soittolistojen Pääruutu" image="/docs/guide/flacbox/img/playlists-main.webp" >}}
 {{< /cards >}}
 
 ## Soittolistan Luominen
@@ -63,7 +63,7 @@ Kun avaat soittolistan, Soittolistan Yksityiskohdat -ruutu ilmestyy. Löydät oi
 - **Offline-tila** — lataa kaikki tämän soittolistan kappaleet paikallisiin tiedostoihin. Soittolistaan lisätyt uudet kohteet ladataan myös automaattisesti.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacboxin Soittolistan Yksityiskohtaruutu" image="/docs/guide/flacbox/img/playlist-details-screen.webp" >}}
+  {{< ls-card title="" subtitle="Flacboxin Soittolistan Yksityiskohtaruutu" image="/docs/guide/flacbox/img/playlist-details-screen.webp" >}}
 {{< /cards >}}
 
 ## Soittolistan Lisätoiminnot Soittolistojen Pääruudulla
@@ -82,7 +82,7 @@ Voit käyttää soittolistan toimintoja napauttamalla soittolistan otsikon viere
 - **Poista Soittolista** — poistaa soittolistan musiikkikirjastosta. **Tätä toimintoa ei voi kumota.**
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox Lisätoiminnot Soittolistalle Pääruudulla" image="/docs/guide/flacbox/img/more-actions-for-playlist-in-playlists-main-screen.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox Lisätoiminnot Soittolistalle Pääruudulla" image="/docs/guide/flacbox/img/more-actions-for-playlist-in-playlists-main-screen.webp" >}}
 {{< /cards >}}
 
 ## Soittolistan Lisätoiminnot Yksityiskohtaruudulla
@@ -110,7 +110,7 @@ Muuttaaksesi kappaleiden järjestystä soittolistassa napauta **«...»**-painik
 Vielä yksinkertaisempaa työnkulkua varten pitkillä soittolistoilla valitse Lisätoiminnot → Järjestä Kappaleet Uudelleen siirtyäksesi omistettuun drag-and-drop-uudelleenjärjestysmoodiin.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox Kappaleiden Uudelleenjärjestäminen Soittolistassa" image="/docs/guide/flacbox/img/playlist-details-rearange-songs.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox Kappaleiden Uudelleenjärjestäminen Soittolistassa" image="/docs/guide/flacbox/img/playlist-details-rearange-songs.webp" >}}
 {{< /cards >}}
 
 ## Soittolistan Kansikuvan Muuttaminen
@@ -126,7 +126,7 @@ Avaa soittolista ja napauta **«...»**-painiketta oikeassa yläkulmassa, sitten
 Avaa soittolista, napauta **«...»**-painiketta oikeassa yläkulmassa ja valitse **Valita** siirtyäksesi valintatilaan. Valitse poistettavat kappaleet ja napauta **Poista Soittolistasta** ruudun alareunassa. Vahvista napauttamalla **Valmis**.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox Valintatila Soittolistan Yksityiskohtaruudulla" image="/docs/guide/flacbox/img/selection-mode-playlist-details-screen.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox Valintatila Soittolistan Yksityiskohtaruudulla" image="/docs/guide/flacbox/img/selection-mode-playlist-details-screen.webp" >}}
 {{< /cards >}}
 
 ## Kappaleiden Vaihtoehdot

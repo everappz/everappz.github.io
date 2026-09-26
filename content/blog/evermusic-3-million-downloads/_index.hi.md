@@ -12,7 +12,7 @@ authors:
     image: "/images/about/artem-meleshko-founder-everappz.webp"
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 ## 3 मिलियन डाउनलोड
 
@@ -98,22 +98,22 @@ Evermusic ऑप्शनल प्रीमियम फीचर्स के 
 
 ## अक्सर पूछे जाने वाले प्रश्न
 
-{{% details title="क्या Evermusic मुफ़्त है?" closed="true" %}}
+{{% ls-details title="क्या Evermusic मुफ़्त है?" closed="true" %}}
 हाँ। Evermusic बुनियादी फीचर्स के साथ मुफ़्त डाउनलोड है। इक्वलाइज़र और एडवांस्ड क्लाउड ऑप्शन जैसे प्रीमियम फीचर्स ऑप्शनल अपग्रेड के माध्यम से उपलब्ध हैं।
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="क्या Evermusic ऑडियोबुक चला सकता है?" closed="true" %}}
+{{% ls-details title="क्या Evermusic ऑडियोबुक चला सकता है?" closed="true" %}}
 हाँ। Evermusic आपकी प्लेबैक पोज़िशन सेव करता है, बुकमार्क, एडजस्टेबल प्लेबैक स्पीड (0.5x से 2.0x) और स्लीप टाइमर सपोर्ट करता है — जो इसे ऑडियोबुक और पॉडकास्ट के लिए उपयुक्त बनाता है।
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Evermusic किन क्लाउड सर्विसेज से कनेक्ट होता है?" closed="true" %}}
+{{% ls-details title="Evermusic किन क्लाउड सर्विसेज से कनेक्ट होता है?" closed="true" %}}
 Dropbox, Google Drive, OneDrive, Box, MEGA, Yandex.Disk, MyDrive, pCloud, HiDrive, SMB फ़ाइल शेयर और WebDAV सर्वर।
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="क्या मैं Evermusic के साथ SD कार्ड का उपयोग कर सकता हूँ?" closed="true" %}}
+{{% ls-details title="क्या मैं Evermusic के साथ SD कार्ड का उपयोग कर सकता हूँ?" closed="true" %}}
 हाँ। अपने iPhone या iPad में Lightning या USB-C SD कार्ड रीडर कनेक्ट करें और Evermusic के माध्यम से कार्ड से सीधे म्यूजिक स्ट्रीम करें।
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="क्या Evermusic Mac पर काम करता है?" closed="true" %}}
+{{% ls-details title="क्या Evermusic Mac पर काम करता है?" closed="true" %}}
 हाँ। Evermusic iOS और macOS दोनों के लिए उपलब्ध है, सभी प्लेटफ़ॉर्म पर क्लाउड स्ट्रीमिंग और ऑफलाइन प्लेबैक के साथ।
-{{% /details %}}
+{{% /ls-details %}}

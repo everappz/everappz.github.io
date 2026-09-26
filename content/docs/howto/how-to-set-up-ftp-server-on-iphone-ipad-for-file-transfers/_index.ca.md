@@ -7,7 +7,7 @@ keywords: ["servidor FTP iPhone", "servidor FTP iPad", "com configurar FTP a l'i
 readingTime: 9
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 FTP és el vell fiable de la transferència d'arxius. Fa dècades que existeix, que és exactament per què és tan útil: gairebé tot el que pot parlar amb un servidor l'entén. Càmeres, televisors intel·ligents, routers, unitats de xarxa, eines d'automatització i totes les apps FTP d'escriptori parlen FTP. Amb [Everdisk](/products/everdisk) pots fer funcionar un servidor FTP al teu iPhone o iPad, de manera que el telèfon esdevé un lloc al qual aquests dispositius i apps es poden connectar i moure arxius.
 
@@ -118,44 +118,44 @@ L'interruptor **Edició de fitxers** a Configuració, Compartició, Accés contr
 
 ## Preguntes freqüents
 
-{{% details title="Quina és l'adreça i el port FTP del meu iPhone?" closed="true" %}}
+{{% ls-details title="Quina és l'adreça i el port FTP del meu iPhone?" closed="true" %}}
 Després que comencis a compartir, Everdisk mostra l'adreça a la pantalla Compartició. Té l'aspecte ftp://192.168.1.20:2121. El 2121 és el port que Everdisk fa servir per a FTP, i la primera part és l'adreça del teu iPhone a la Wi-Fi, així que la teva serà diferent.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Com connecto FileZilla o Cyberduck al meu iPhone?" closed="true" %}}
+{{% ls-details title="Com connecto FileZilla o Cyberduck al meu iPhone?" closed="true" %}}
 Obre l'app i crea una connexió nova. Configura l'Host amb l'adreça Wi-Fi del teu iPhone i el Port amb 2121. Introdueix el teu Inici de sessió i Contrasenya, o tria Anonymous si no n'has definit cap a Everdisk. Connecta't, i pots arrossegar arxius en totes dues direccions quan Edició de fitxers està activada.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Puc connectar-me a l'FTP del meu iPhone des de Windows?" closed="true" %}}
+{{% ls-details title="Puc connectar-me a l'FTP del meu iPhone des de Windows?" closed="true" %}}
 Sí. Obre l'Explorador d'arxius, fes clic a la barra d'adreces, escriu l'adreça FTP d'Everdisk (per exemple ftp://192.168.1.20:2121) i prem Retorn. Introdueix el teu inici de sessió si n'has definit un, o continua com a convidat. Per a pujades i més control, fes servir una app FTP com FileZilla.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Necessito un inici de sessió per a l'FTP?" closed="true" %}}
+{{% ls-details title="Necessito un inici de sessió per a l'FTP?" closed="true" %}}
 No, un inici de sessió és opcional. Deixa l'Inici de sessió i la Contrasenya buits a Configuració, Compartició, Accés, i connecta't com a Anonymous, cosa que la majoria de clients FTP ofereixen. Defineix un inici de sessió si vols que les connexions iniciïn sessió primer.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Per què només puc baixar i no pujar per FTP?" closed="true" %}}
+{{% ls-details title="Per què només puc baixar i no pujar per FTP?" closed="true" %}}
 Dues raons són habituals. Primera, l'interruptor Edició de fitxers a Configuració, Compartició, Accés ha d'estar activat per permetre pujades, canvis de nom i eliminacions. Segona, el Finder del Mac obre l'FTP com a només lectura, així que fes servir una app FTP com FileZilla o Cyberduck quan vulguis pujar.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Puc fer servir FTP entre dos iPhones?" closed="true" %}}
+{{% ls-details title="Puc fer servir FTP entre dos iPhones?" closed="true" %}}
 Sí. Inicia el servidor FTP al primer iPhone. Al segon, obre Everdisk, ves a la pestanya Dispositius, toca Connexió nova, tria FTP, i introdueix l'adreça que es mostra al primer telèfon. Una app FTP dedicada per a iOS també funciona, ja que l'app Arxius d'iOS no inclou un client FTP.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="L'FTP és segur?" closed="true" %}}
+{{% ls-details title="L'FTP és segur?" closed="true" %}}
 L'FTP simple no xifra el seu trànsit, així que tracta'l com una eina per a xarxes en què confies, com la teva Wi-Fi de casa. En una xarxa que no controles, fes servir el servidor SMB amb Requereix xifratge SMB activat, que protegeix cada transferència.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Quins dispositius es poden connectar per FTP?" closed="true" %}}
+{{% ls-details title="Quins dispositius es poden connectar per FTP?" closed="true" %}}
 Gairebé qualsevol cosa amb un client FTP. Això inclou ordinadors Mac, Windows i Linux, apps FTP com FileZilla i Cyberduck, gestors d'arxius d'Android, i maquinari com càmeres, televisors intel·ligents, routers, caixes NAS i eines d'automatització. Aquest abast ampli és la raó principal per triar FTP.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Per què s'ha tallat la meva connexió FTP?" closed="true" %}}
+{{% ls-details title="Per què s'ha tallat la meva connexió FTP?" closed="true" %}}
 El teu iPhone és el servidor, i iOS posa en pausa les apps que estan massa estona en segon pla. Mantén Everdisk obert a la pantalla mentre hi hagi un dispositiu connectat, i connecta'l a l'electricitat durant les transferències llargues. També assegura't que tots dos dispositius encara són a la mateixa Wi-Fi.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Everdisk és gratis?" closed="true" %}}
+{{% ls-details title="Everdisk és gratis?" closed="true" %}}
 Sí, Everdisk es baixa gratis i el servidor FTP hi està inclòs. Una compra opcional única Premium afegeix extres com ports personalitzats i la conversió de fotos i vídeos. Pots configurar FTP i transferir arxius sense pagar.
-{{% /details %}}
+{{% /ls-details %}}
 
 Vols provar-ho? [Baixa Everdisk de l'App Store](https://apps.apple.com/app/apple-store/id6751851132?pt=95781850&ct=everappzcom&mt=8) i connecta el teu primer client FTP en un parell de minuts. Preguntes o comentaris? Escriu-nos a **support@everappz.com**.

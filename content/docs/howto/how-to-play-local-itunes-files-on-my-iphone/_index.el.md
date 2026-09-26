@@ -7,7 +7,7 @@ tags: ["ήχος", "αναπαραγωγέας", "υπολογιστής", "αρ
 keywords: ["κοινή χρήση αρχείων itunes", "αναπαραγωγή τοπικής μουσικής", "μεταφορά μουσικής στο iphone", "αντιγραφή αρχείων στο ios", "ήχος από mac σε iphone", "τοπικά αρχεία στο iphone", "evermusic", "flacbox", "αναπαραγωγέας μουσικής", "κοινή χρήση αρχείων", "wifi drive", "streaming μουσικής smb", "εφαρμογή μουσικής iphone", "εισαγωγή μουσικής στο ios"]
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **Περίληψη:** Μεταφέρετε μουσική από τον υπολογιστή σας στο iPhone χρησιμοποιώντας μία από τρεις μεθόδους: **Κοινή χρήση αρχείων iTunes/Finder** (καλώδιο USB), **[WiFi Drive](/docs/howto/how-to-transfer-music-from-computer-to-iphone-without-itunes)** (ασύρματα, χωρίς καλώδιο), ή **[SMB](/docs/howto/stream-your-music-from-mac-or-pc-to-iphone-using-smb/)** (απευθείας streaming χωρίς αντιγραφή). Στη συνέχεια αναπαράγετε με το [Evermusic](/products/evermusic) ή το [Flacbox](/products/flacbox).
@@ -134,22 +134,22 @@ keywords: ["κοινή χρήση αρχείων itunes", "αναπαραγωγ�
 
 ## FAQ
 
-{{% details title="Ποιος είναι ο ταχύτερος τρόπος μεταφοράς μουσικής στο iPhone;" closed="true" %}}
+{{% ls-details title="Ποιος είναι ο ταχύτερος τρόπος μεταφοράς μουσικής στο iPhone;" closed="true" %}}
 Η κοινή χρήση αρχείων iTunes/Finder μέσω USB είναι η ταχύτερη μέθοδος για μεγάλες μουσικές βιβλιοθήκες. Για μικρότερες μεταφορές, το WiFi Drive είναι πιο βολικό καθώς δεν απαιτεί καλώδιο.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Μπορώ να μεταφέρω αρχεία FLAC στο iPhone μου;" closed="true" %}}
+{{% ls-details title="Μπορώ να μεταφέρω αρχεία FLAC στο iPhone μου;" closed="true" %}}
 Ναι. Τόσο το Evermusic όσο και το Flacbox δέχονται αρχεία FLAC μέσω κοινής χρήσης αρχείων iTunes, WiFi Drive ή SMB. Το Flacbox συνιστάται για μορφές χωρίς απώλεια.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Χρειάζομαι το iTunes σε macOS Catalina ή μεταγενέστερο;" closed="true" %}}
+{{% ls-details title="Χρειάζομαι το iTunes σε macOS Catalina ή μεταγενέστερο;" closed="true" %}}
 Όχι. Η Apple αντικατέστησε το iTunes με το Finder για τη διαχείριση συσκευών ξεκινώντας από το macOS Catalina. Χρησιμοποιήστε την καρτέλα Αρχεία του Finder για κοινή χρήση αρχείων.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Μπορώ να κάνω streaming μουσικής χωρίς να αντιγράψω αρχεία στο iPhone μου;" closed="true" %}}
+{{% ls-details title="Μπορώ να κάνω streaming μουσικής χωρίς να αντιγράψω αρχεία στο iPhone μου;" closed="true" %}}
 Ναι. Χρησιμοποιήστε το πρωτόκολλο SMB για απευθείας streaming μουσικής από το Mac ή PC σας. Αυτό εξοικονομεί αποθηκευτικό χώρο στη συσκευή και διατηρεί τη βιβλιοθήκη σας στον υπολογιστή σας.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Ποια εφαρμογή πρέπει να χρησιμοποιήσω -- Evermusic ή Flacbox;" closed="true" %}}
+{{% ls-details title="Ποια εφαρμογή πρέπει να χρησιμοποιήσω -- Evermusic ή Flacbox;" closed="true" %}}
 Χρησιμοποιήστε το Evermusic για τυπικές μορφές όπως MP3, WAV και AAC. Επιλέξτε το Flacbox αν η βιβλιοθήκη σας περιλαμβάνει μορφές χωρίς απώλεια όπως FLAC, DSD ή OGG.
-{{% /details %}}
+{{% /ls-details %}}

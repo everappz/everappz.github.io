@@ -14,7 +14,7 @@ authors:
     image: "/images/about/artem-meleshko-founder-everappz.webp"
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 ## Tại sao từ khóa App Store quyết định số lượt tải của bạn
 
@@ -104,29 +104,29 @@ Thử ngay — người dùng tiếp theo chỉ cách một lần tìm kiếm.
 Công cụ là mã nguồn mở. Báo cáo lỗi, đề xuất tính năng và pull request được hoan nghênh.
 
 {{< cards cols="1" >}}
-  {{< card link="https://github.com/everappz/app-store-keyword-optimizer/tree/main" title="appkeywords.pro trên GitHub" icon="github" tag= "open source" >}}
+  {{< ls-card link="https://github.com/everappz/app-store-keyword-optimizer/tree/main" title="appkeywords.pro trên GitHub" icon="github" tag= "open source" >}}
 {{< /cards >}}
 
 ---
 
 ## Câu hỏi thường gặp
 
-{{% details title="AppKeywords.pro thực sự miễn phí không?" closed="true" %}}
+{{% ls-details title="AppKeywords.pro thực sự miễn phí không?" closed="true" %}}
 Có. Đây là công cụ mã nguồn mở hoàn toàn trong trình duyệt, không đăng ký, không quảng cáo, không thu thập dữ liệu. Siêu dữ liệu không bao giờ rời thiết bị.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Công cụ này có hỗ trợ nhiều bản địa hóa App Store không?" closed="true" %}}
+{{% ls-details title="Công cụ này có hỗ trợ nhiều bản địa hóa App Store không?" closed="true" %}}
 Có. Bạn có thể thêm siêu dữ liệu cho mỗi khu vực độc lập và xuất bao gồm tất cả ngôn ngữ trong một tệp JSON tương thích Fastlane.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Có nên lặp lại từ khóa tiêu đề trong trường từ khóa không?" closed="true" %}}
+{{% ls-details title="Có nên lặp lại từ khóa tiêu đề trong trường từ khóa không?" closed="true" %}}
 Không. Apple đã lập chỉ mục từ trong tiêu đề và phụ đề. Lặp lại trong trường từ khóa lãng phí ký tự.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Nên cập nhật từ khóa App Store bao lâu một lần?" closed="true" %}}
+{{% ls-details title="Nên cập nhật từ khóa App Store bao lâu một lần?" closed="true" %}}
 Xem xét và làm mới từ khóa ít nhất mỗi quý. Điều chỉnh sớm hơn nếu thấy xếp hạng giảm hoặc thay đổi theo mùa.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Tôi có thể sử dụng công cụ này với Fastlane không?" closed="true" %}}
+{{% ls-details title="Tôi có thể sử dụng công cụ này với Fastlane không?" closed="true" %}}
 Có. Repo GitHub bao gồm shell script để chuyển đổi giữa cấu trúc thư mục siêu dữ liệu Fastlane và định dạng JSON của AppKeywords.pro.
-{{% /details %}}
+{{% /ls-details %}}

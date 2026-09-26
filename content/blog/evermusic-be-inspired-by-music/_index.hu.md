@@ -14,7 +14,7 @@ authors:
     image: "/images/about/artem-meleshko-founder-everappz.webp"
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 **Röviden:** Nézd meg az Evermusic hivatalos promóciós videóját, hogy lásd a felhőzenei streaminget, az offline lejátszást és a hangtestreszabást működés közben iPhone-on és Macen.
 
@@ -24,7 +24,7 @@ authors:
 
 Nézd meg az Evermusic-ot működés közben — zene streamelése a felhőből, lejátszási listák kezelése és kiváló minőségű hang az iPhone-on:
 
-{{< youtubecard id="6mm3LVT4rtA" title="Evermusic Promo Video" >}}
+{{< ls-youtubecard id="6mm3LVT4rtA" title="Evermusic Promo Video" >}}
 
 ## Amit a videóban látsz
 
@@ -41,14 +41,14 @@ Ha tetszik a videó, oszd meg barátaiddal és zenekedvelő ismerőseiddel.
 
 ## FAQ
 
-{{% details title="Mi az Evermusic?" closed="true" %}}
+{{% ls-details title="Mi az Evermusic?" closed="true" %}}
 Az Evermusic egy zenelejátszó iOS-re és macOS-re, amely felhőszolgáltatásokról, például Dropboxról, Google Drive-ról, OneDrive-ról és iCloud Drive-ról streamel hangot. Támogatja az offline lejátszást is, és beépített hangszínszabályzót tartalmaz.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Milyen felhőszolgáltatásokat támogat az Evermusic?" closed="true" %}}
+{{% ls-details title="Milyen felhőszolgáltatásokat támogat az Evermusic?" closed="true" %}}
 Az Evermusic csatlakozik a Dropboxhoz, Google Drive-hoz, OneDrive-hoz, iCloud Drive-hoz, pCloudhoz, Yandex.Diskhez és számos más felhőtárhely-szolgáltatóhoz.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Ingyenes az Evermusic?" closed="true" %}}
+{{% ls-details title="Ingyenes az Evermusic?" closed="true" %}}
 Az Evermusic ingyenesen letölthető, opcionális prémium funkciókkal, amelyek alkalmazáson belüli vásárlással érhetők el.
-{{% /details %}}
+{{% /ls-details %}}

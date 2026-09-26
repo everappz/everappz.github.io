@@ -7,7 +7,7 @@ tags: ["موسيقى", "بث", "تخزين", "nas", "توصيل", "webdav"]
 readingTime: 2
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **ملخص:** قم بتثبيت وتفعيل WebDAV على Synology NAS، وتكوين أذونات المجلد المشترك، ثم الاتصال من Evermusic أو Flacbox باستخدام عنوان IP الخاص بـ NAS ومنفذ WebDAV (الافتراضي 5005/5006). يمكنك بث وإدارة مكتبة الموسيقى بالكامل دون نسخ الملفات إلى جهازك.
@@ -87,22 +87,22 @@ readingTime: 2
 
 ## الأسئلة الشائعة
 
-{{% details title="ما هي أجهزة NAS التي تدعم WebDAV؟" closed="true" %}}
+{{% ls-details title="ما هي أجهزة NAS التي تدعم WebDAV؟" closed="true" %}}
 تدعم معظم علامات NAS الشائعة WebDAV، بما في ذلك Synology وQNAP وTrueNAS وWestern Digital. تحقق من وثائق الشركة المصنعة لـ NAS للحصول على تعليمات إعداد WebDAV.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="ما الفرق بين WebDAV وSMB لبث الموسيقى من NAS؟" closed="true" %}}
+{{% ls-details title="ما الفرق بين WebDAV وSMB لبث الموسيقى من NAS؟" closed="true" %}}
 يعمل WebDAV عبر HTTP/HTTPS وهو أكثر ملاءمة للوصول عن بُعد عبر الإنترنت. عادةً ما يكون SMB أسرع على الشبكات المحلية. يدعم كل من Evermusic وFlacbox كلا البروتوكولين، لذا اختر بناءً على ما إذا كنت تحتاج إلى وصول محلي أو عن بُعد.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="هل أحتاج إلى اسم مستخدم وكلمة مرور لـ WebDAV على Synology؟" closed="true" %}}
+{{% ls-details title="هل أحتاج إلى اسم مستخدم وكلمة مرور لـ WebDAV على Synology؟" closed="true" %}}
 لا، إذا قمت بتفعيل وصول WebDAV المجهول وتكوين أذونات الضيف على المجلد المشترك. لمزيد من الأمان، يمكنك استخدام بيانات اعتماد Synology بدلاً من ذلك.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="هل يمكنني بث FLAC وتنسيقات عالية الدقة الأخرى من NAS عبر WebDAV؟" closed="true" %}}
+{{% ls-details title="هل يمكنني بث FLAC وتنسيقات عالية الدقة الأخرى من NAS عبر WebDAV؟" closed="true" %}}
 نعم. يدعم كل من Evermusic وFlacbox تنسيقات FLAC وALAC وWAV وDSD وغيرها من التنسيقات عالية الدقة عند البث من تخزين NAS عبر WebDAV.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="لماذا لا يمكن للتطبيق العثور على NAS في الأجهزة المتاحة؟" closed="true" %}}
+{{% ls-details title="لماذا لا يمكن للتطبيق العثور على NAS في الأجهزة المتاحة؟" closed="true" %}}
 تأكد من أن iPhone/Mac وNAS على نفس شبكة Wi-Fi. إذا لم يعمل الاكتشاف التلقائي، استخدم خيار الاتصال اليدوي وأدخل عنوان IP لـ NAS ومنفذ WebDAV مباشرة.
-{{% /details %}}
+{{% /ls-details %}}

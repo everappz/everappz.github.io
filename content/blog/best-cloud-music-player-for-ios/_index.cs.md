@@ -12,7 +12,7 @@ authors:
     image: "/images/about/artem-meleshko-founder-everappz.webp"
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 **Stručně:** Evermusic je cloudový hudební přehrávač pro iPhone a iPad, který se připojuje k Dropboxu, Google Drive, OneDrive a více než 9 dalším cloudovým službám. Přehrává FLAC, MP3, WAV a další formáty, podporuje offline stahování a obsahuje ekvalizér a editor tagů ID3. Stažení zdarma s jednorázovým upgradem na Premium. Více než 11 milionů stažení, hodnocení 4,6 hvězdy v App Storu.
 
@@ -20,7 +20,7 @@ authors:
 
 Podívejte se na úplnou videorecenzi od [@Massi_Media](https://www.youtube.com/@Massi_Media):
 
-{{< youtubecard id="pKUZmHy9dxc" >}}
+{{< ls-youtubecard id="pKUZmHy9dxc" >}}
 
 ## Jaký je nejlepší cloudový hudební přehrávač pro iPhone?
 
@@ -67,18 +67,18 @@ Protože Evermusic pracuje se soubory, které již vlastníte, a úložištěm, 
 
 ## Často kladené otázky
 
-{{% details title="Je Evermusic skutečně zdarma?" closed="true" %}}
+{{% ls-details title="Je Evermusic skutečně zdarma?" closed="true" %}}
 Ano, Evermusic nabízí bezplatnou verzi, která zahrnuje cloudové připojení, streamování a offline stahování. Bezplatná verze podporuje základní funkce přehrávání a omezený počet připojení cloudových účtů. Evermusic Pro, dostupný jako jednorázový nákup nebo předplatné, odemyká plný ekvalizér, prolínání, další cloudové účty a další pokročilé funkce. Pro přístup k vlastním hudebním souborům není vyžadováno žádné předplatné.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Mohu používat Evermusic bez připojení k internetu?" closed="true" %}}
+{{% ls-details title="Mohu používat Evermusic bez připojení k internetu?" closed="true" %}}
 Rozhodně. Evermusic vám umožňuje stahovat skladby z jakékoli připojené cloudové služby přímo do zařízení pro offline přehrávání. Po stažení jsou soubory uloženy lokálně a zůstávají dostupné i bez Wi-Fi nebo mobilních dat. Díky tomu je Evermusic ideální pro lety, přejezdy tunely nebo jakoukoli situaci, kdy je připojení nespolehlivé.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Podporuje Evermusic bezztrátové zvukové formáty jako FLAC?" closed="true" %}}
+{{% ls-details title="Podporuje Evermusic bezztrátové zvukové formáty jako FLAC?" closed="true" %}}
 Ano. Evermusic podporuje širokou škálu zvukových formátů včetně FLAC, ALAC, WAV, AIFF, OGG, MP3, AAC a M4A. Aplikace přehrává bezztrátové soubory v jejich nativní kvalitě bez překódování, takže audiofily si mohou užívat své vysoce rozlišené sbírky přesně tak, jak bylo zamýšleno.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Jak připojím NAS nebo domácí server k Evermusic?" closed="true" %}}
+{{% ls-details title="Jak připojím NAS nebo domácí server k Evermusic?" closed="true" %}}
 Pokud váš NAS nebo domácí server podporuje protokoly WebDAV nebo SMB, můžete ho připojit k Evermusic zadáním adresy serveru, portu a přihlašovacích údajů v nastavení cloudového připojení aplikace. Většina oblíbených značek NAS včetně Synology, QNAS a Western Digital MyCloud tyto protokoly podporuje ihned po vybalení. Po připojení Evermusic prohledá a indexuje vaše hudební soubory stejně jako jakýkoli jiný cloudový zdroj.
-{{% /details %}}
+{{% /ls-details %}}

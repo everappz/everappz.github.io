@@ -7,7 +7,7 @@ tags: ["lydbøker", "avspilling", "offline", "evermusic", "bokmerke"]
 readingTime: 5
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **Kort oppsummert:** Evermusic fungerer også som en fullverdig lydbokspiller på iOS og macOS. Overfør lydbøker via iTunes, WiFi eller skylagring, og bruk deretter avspillingshastighetskontroll, hoppetidsknapper, lydbokmerker, fortsett avspilling og offline nedlastinger for en sømløs lytteopplevelse.
@@ -151,26 +151,26 @@ God lytting!
 
 ## Ofte stilte spørsmål
 
-{{% details title="Hvilke lydbokformater støtter Evermusic?" closed="true" %}}
+{{% ls-details title="Hvilke lydbokformater støtter Evermusic?" closed="true" %}}
 Evermusic støtter MP3, M4A, M4B, FLAC, WAV, AIFF, OGG og andre vanlige lydformater. Enhver lydfil som spilles i Evermusic fungerer som en lydbok.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Kan jeg lytte til lydbøker fra skylagring?" closed="true" %}}
+{{% ls-details title="Kan jeg lytte til lydbøker fra skylagring?" closed="true" %}}
 Ja. Evermusic kobler til iCloud Drive, Google Drive, Dropbox, OneDrive, Box og WebDAV-servere. Du kan strømme lydbøker direkte eller laste dem ned for offline lytting.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Vil bokmerkene mine overføres til en ny enhet?" closed="true" %}}
+{{% ls-details title="Vil bokmerkene mine overføres til en ny enhet?" closed="true" %}}
 Ja. Evermusic lagrer lydbokmerker i filens metadata, så de overføres automatisk når du flytter filer til en ny enhet.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Husker Evermusic hvor jeg stoppet å lytte?" closed="true" %}}
+{{% ls-details title="Husker Evermusic hvor jeg stoppet å lytte?" closed="true" %}}
 Ja. Aktiver "Lagre avspillingsposisjon" og "Lagre lydspillerstatus" i Innstillinger > Lydspiller > Generelt. Appen lagrer og gjenoppretter din nøyaktige posisjon mellom økter.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Kan jeg justere avspillingshastigheten for lydbøker?" closed="true" %}}
+{{% ls-details title="Kan jeg justere avspillingshastigheten for lydbøker?" closed="true" %}}
 Ja. Gå til Innstillinger > Lydspiller > Avspillingshastighet for å angi ønsket hastighet. Du kan øke eller redusere hastigheten på fortellingen for å matche lyttepreferansen din.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Hvordan overfører jeg lydbøker til Evermusic?" closed="true" %}}
+{{% ls-details title="Hvordan overfører jeg lydbøker til Evermusic?" closed="true" %}}
 Du kan overføre filer via iTunes/Finder-fildeling, WiFi Drive (innebygd i appen), eller ved å koble til en skylagringskonto i Evermusic.
-{{% /details %}}
+{{% /ls-details %}}

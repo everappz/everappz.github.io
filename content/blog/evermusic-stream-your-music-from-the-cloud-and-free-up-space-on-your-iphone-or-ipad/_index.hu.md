@@ -12,7 +12,7 @@ authors:
     image: "/images/about/artem-meleshko-founder-everappz.webp"
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 ![](/blog/evermusic-stream-your-music-from-the-cloud-and-free-up-space-on-your-iphone-or-ipad/21260c_00c5356db3a24db6a6a37e353b774d56~mv2.jpg)
 
@@ -82,22 +82,22 @@ Böngészd a csatlakoztatott felhőfiókodat, nyiss meg egy zenemappát és kopp
 
 ## Gyakran ismételt kérdések
 
-{{% details title="Ingyenes az Evermusic?" closed="true" %}}
+{{% ls-details title="Ingyenes az Evermusic?" closed="true" %}}
 Az Evermusic ingyenesen letölthető opcionális prémium funkciókkal. Az alap felhő streamelés és offline lejátszás elérhető az ingyenes verzióban.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Mely felhőszolgáltatásokat támogatja az Evermusic?" closed="true" %}}
+{{% ls-details title="Mely felhőszolgáltatásokat támogatja az Evermusic?" closed="true" %}}
 Google Drive, Dropbox, Box, OneDrive, MediaFire, MEGA, Yandex.Disk, pCloud, HiDrive, MyDrive, SMB fájlmegosztások és WebDAV szerverek.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Hallgathatok zenét offline az Evermusickel?" closed="true" %}}
+{{% ls-details title="Hallgathatok zenét offline az Evermusickel?" closed="true" %}}
 Igen. Tölts le bármely albumot, előadót, lejátszási listát vagy egyéni számot offline lejátszáshoz közvetlenül az alkalmazáson belül.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Milyen hangformátumokat játszik le az Evermusic?" closed="true" %}}
+{{% ls-details title="Milyen hangformátumokat játszik le az Evermusic?" closed="true" %}}
 Az Evermusic támogatja az MP3, FLAC, AAC, WAV, ALAC, AIFF, OPUS, OGG és sok más formátumot.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Szükségem van még az iTunes-ra zenék átviteléhez?" closed="true" %}}
+{{% ls-details title="Szükségem van még az iTunes-ra zenék átviteléhez?" closed="true" %}}
 Nem. Töltsd fel a zenédet bármely támogatott felhőszolgáltatásra a számítógépedről, majd streameld vagy töltsd le az Evermusic segítségével iPhone-odon vagy iPadeden.
-{{% /details %}}
+{{% /ls-details %}}

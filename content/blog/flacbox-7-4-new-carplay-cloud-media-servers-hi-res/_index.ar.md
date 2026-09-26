@@ -12,7 +12,7 @@ authors:
     image: "/images/about/artem-meleshko-founder-everappz.webp"
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 **باختصار:** [Flacbox 7.4](/products/flacbox) إصدار رئيسي لمشغل الصوت hi-res لأجهزة iPhone وMac. أعدنا بناء CarPlay من الصفر — فرز سريع، وعدة أنظمة ألوان، وشاشة "قيد التشغيل" جديدة، وعرض كامل لقائمة التشغيل بنظرة واحدة، ومؤشر بالأحرف للمكتبات الضخمة. يضيف التحديث أكثر من 10 طرق جديدة للوصول إلى موسيقاك — سحابات تركز على الخصوصية **Internxt** و**Proton Drive**، وخوادم شخصية **QNAP** و**Nextcloud** و**Amazon S3**، وخوادم البث **Plex** و**Subsonic** و**Navidrome** و**Jellyfin** و**Emby**، بالإضافة إلى بروتوكولات الشبكة **FTP** و**SFTP** و**NFS**. تم ضبط الواجهة لمادة **Liquid Glass** الجديدة من Apple، وأصبحت مكتبات الشبكة الأساسية أقوى، وأصبحت وودجتات الشاشة الرئيسية تتحدث بموثوقية أكبر.
 
@@ -121,50 +121,50 @@ authors:
 
 ## الأسئلة الشائعة
 
-{{% details title="ما الجديد في Flacbox 7.4؟" closed="true" %}}
+{{% ls-details title="ما الجديد في Flacbox 7.4؟" closed="true" %}}
 يقدم Flacbox 7.4 تجربة CarPlay معاد بناؤها بالكامل ويضيف أكثر من 10 اتصالات جديدة — Plex وJellyfin وEmby وSubsonic وNavidrome وInternxt وProton Drive وQNAP وNextcloud وAmazon S3 وFTP وSFTP وNFS. يجلب الإصدار أيضًا تحديث تصميم Liquid Glass، ومكتبات شبكة أقوى، ووودجتات شاشة رئيسية معاد تصميمها بتحديث أكثر ذكاءً، وإصلاحات التشغيل على بعض الخوادم، وتحسينات الترجمة، والعديد من تلميعات التفاصيل الصغيرة.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="هل يعمل Flacbox مع Plex لـ FLAC والصوت بدون فقدان؟" closed="true" %}}
+{{% ls-details title="هل يعمل Flacbox مع Plex لـ FLAC والصوت بدون فقدان؟" closed="true" %}}
 نعم. بدءًا من Flacbox 7.4، يمكنك الاتصال بخادم Plex Media وبث مكتبتك hi-res الكاملة — FLAC وALAC وWAV وAIFF وOGG وOPUS وغيرها من التنسيقات بدون فقدان. خادم Plex Media مجاني للتشغيل؛ Plex Pass اختياري. يدعم Flacbox كلاً من الإعدادات المجانية وإعدادات Plex Pass.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="هل يدعم Flacbox كلاً من Jellyfin وNavidrome؟" closed="true" %}}
+{{% ls-details title="هل يدعم Flacbox كلاً من Jellyfin وNavidrome؟" closed="true" %}}
 نعم. كلاهما مدعومان بالكامل في Flacbox 7.4. Jellyfin هو خادم وسائط مجاني ومفتوح المصدر. Navidrome هو خادم موسيقى مجاني ومفتوح المصدر يدعم واجهة برمجة Subsonic. يتصل Flacbox بكليهما أصليًا ويبث مكتبتك بدون فقدان مع جميع البيانات الوصفية وصور الغلاف.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="هل Plex وJellyfin وEmby وNavidrome وSubsonic مجانية؟" closed="true" %}}
+{{% ls-details title="هل Plex وJellyfin وEmby وNavidrome وSubsonic مجانية؟" closed="true" %}}
 - **Plex** — الخادم مجاني؛ Plex Pass ترقية مدفوعة اختيارية.
 - **Jellyfin** — مجاني ومفتوح المصدر بالكامل.
 - **Emby** — الخادم مجاني؛ Emby Premiere مدفوع ويفتح المزامنة عبر الجوال ودون اتصال.
 - **Navidrome** — مجاني ومفتوح المصدر بالكامل.
 - **Subsonic** — الخادم الرسمي يكلف 1 دولار شهريًا بعد تجربة 30 يومًا، لكن واجهة برمجته مفتوحة وكثير من الخوادم المجانية (بما فيها Navidrome) تدعمها.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="هل يمكنني بث FLAC وDSD من NAS المنزلي عبر SFTP أو FTP أو NFS؟" closed="true" %}}
+{{% ls-details title="هل يمكنني بث FLAC وDSD من NAS المنزلي عبر SFTP أو FTP أو NFS؟" closed="true" %}}
 نعم. يضيف Flacbox 7.4 SFTP وFTP وNFS كأنواع اتصال أصلية. SFTP هو الخيار الموصى به للبث من خادمك عبر الإنترنت العام لأن جميع البيانات مشفرة عبر SSH. يفضل استخدام FTP وNFS داخل الشبكة المحلية أو خلف VPN.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="كيف أوصل Flacbox بخادم مخصص باستخدام SFTP؟" closed="true" %}}
+{{% ls-details title="كيف أوصل Flacbox بخادم مخصص باستخدام SFTP؟" closed="true" %}}
 افتح Flacbox، انتقل إلى تبويب الاتصالات، اختر SFTP، وأدخل اسم المضيف أو عنوان IP للخادم، والمنفذ (عادة 22)، واسم المستخدم، ثم كلمة مرور أو مفتاح SSH خاص. سيستعرض Flacbox مجلداتك البعيدة ويبث الملفات الصوتية مباشرة مع تشفير من طرف إلى طرف.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="هل يدعم Flacbox Internxt وProton Drive؟" closed="true" %}}
+{{% ls-details title="هل يدعم Flacbox Internxt وProton Drive؟" closed="true" %}}
 نعم. كلتا السحابتين اللتين تركزان على الخصوصية مدعومتان بدءًا من Flacbox 7.4. تنضمان إلى MEGA وخدمات الخصوصية الأخرى المتوفرة بالفعل في التطبيق.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="هل يشغل Flacbox ملفات DSD من Plex أو Jellyfin أو NAS؟" closed="true" %}}
+{{% ls-details title="هل يشغل Flacbox ملفات DSD من Plex أو Jellyfin أو NAS؟" closed="true" %}}
 نعم. يشغل Flacbox ملفات DSD64 وDSD128 وDSD256 (حاويات DSF وDFF) المبثوثة من Plex وJellyfin وEmby والخوادم المتوافقة مع Subsonic وQNAP وNextcloud وAmazon S3 وعبر SFTP وFTP وNFS. إخراج بت تام إلى أجهزة DAC عبر USB مدعوم على iPhone وiPad وMac.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="كيف تعمل شاشات CarPlay المعاد تصميمها؟" closed="true" %}}
+{{% ls-details title="كيف تعمل شاشات CarPlay المعاد تصميمها؟" closed="true" %}}
 تم إعادة بناء واجهة CarPlay الخاصة بـ Flacbox بفرز سريع عبر الألبومات والفنانين وقوائم التشغيل والمجلدات؛ وأنظمة ألوان متعددة تتناسب مع مختلف المقصورات الداخلية للسيارات؛ وشاشة "قيد التشغيل" جديدة بعناصر تحكم جديدة؛ وعرض كامل لقائمة التشغيل بنظرة واحدة؛ ومؤشر بالأحرف للقفز عبر المكتبات الكبيرة؛ وتحميل أسرع للمجلدات الكبيرة والأدلة السحابية.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="هل تحديث Flacbox 7.4 مجاني؟" closed="true" %}}
+{{% ls-details title="هل تحديث Flacbox 7.4 مجاني؟" closed="true" %}}
 نعم. Flacbox متاح للتنزيل مجانًا من App Store، و7.4 هو تحديث مجاني لجميع المستخدمين الحاليين. تجربة CarPlay المعاد بناؤها، وجميع الاتصالات الجديدة بالسحابة والخوادم، ووودجتات الشاشة الرئيسية المحدّثة، وواجهة Liquid Glass جزء من التحديث الأساسي.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="على أي أجهزة يتوفر Flacbox 7.4؟" closed="true" %}}
+{{% ls-details title="على أي أجهزة يتوفر Flacbox 7.4؟" closed="true" %}}
 يعمل Flacbox 7.4 على iPhone وiPad وMac. يتطلب دعم CarPlay سيارة متوافقة مع CarPlay أو وحدة رئيسية بديلة. يتيح AirPlay وChromecast إرسال التشغيل إلى نظام أكبر؛ أجهزة DAC عبر USB مدعومة للإخراج بت تام بدون فقدان.
-{{% /details %}}
+{{% /ls-details %}}

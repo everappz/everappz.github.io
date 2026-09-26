@@ -7,7 +7,7 @@ keywords: ["fájlok vezeték nélküli átvitele iPhone-ra", "wifi drive fájlá
 readingTime: 2
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **Összefoglalás:** A Wi-Fi Drive lehetővé teszi fájlok átvitelét bármely számítógépről iPhone-ra vagy iPadre Wi-Fi-n keresztül -- iTunes vagy kábelek nélkül. Használjon webböngészőt, Mac Findert vagy Windows File Explorert. Mindkét eszköznek ugyanazon a Wi-Fi hálózaton kell lennie.
@@ -18,7 +18,7 @@ Fájlokat vezeték nélkül vihet át asztali webböngésző vagy WebDAV kliens,
 
 Megtekinthet egy videós útmutatót a [**TECHGUYPH**](https://www.youtube.com/channel/UCgpf09gGFE_c_3pPTtTpnzg) csatornáról, vagy elolvashatja az alábbi szöveges verziót.
 <br><br>
-{{< youtubecard id="CqdqrQ0ge70" title="Can We Wirelessly Put Offline Music on iPhones?" >}}
+{{< ls-youtubecard id="CqdqrQ0ge70" title="Can We Wirelessly Put Offline Music on iPhones?" >}}
 
 ## Fájlok átvitele számítógépről vezeték nélkül asztali webböngészővel
 
@@ -90,26 +90,26 @@ Nincs szükség iTunes-ra!
 
 ## Gyakran ismételt kérdések
 
-{{% details title="Szükségem van iTunes-ra fájlok átviteléhez az iPhone-ra?" closed="true" %}}
+{{% ls-details title="Szükségem van iTunes-ra fájlok átviteléhez az iPhone-ra?" closed="true" %}}
 Nem. A Wi-Fi Drive közvetlenül a helyi Wi-Fi hálózaton keresztül viszi át a fájlokat. Nincs szükség iTunes-ra.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Mely alkalmazások támogatják a Wi-Fi Drive-ot?" closed="true" %}}
+{{% ls-details title="Mely alkalmazások támogatják a Wi-Fi Drive-ot?" closed="true" %}}
 A Wi-Fi Drive elérhető az Evermusic, Flacbox, Evertag és Evervideo alkalmazásokban iOS-re.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Mindkét eszköznek ugyanazon a Wi-Fi hálózaton kell lennie?" closed="true" %}}
+{{% ls-details title="Mindkét eszköznek ugyanazon a Wi-Fi hálózaton kell lennie?" closed="true" %}}
 Igen. A számítógépnek és az iPhone-nak vagy iPadnek ugyanahhoz a helyi Wi-Fi hálózathoz kell csatlakoznia, hogy a Wi-Fi Drive működjön.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Átvihetek teljes mappákat, nem csak egyedi fájlokat?" closed="true" %}}
+{{% ls-details title="Átvihetek teljes mappákat, nem csak egyedi fájlokat?" closed="true" %}}
 Igen. A Wi-Fi Drive támogatja teljes mappák feltöltését és letöltését a webböngésző felületén keresztül.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Működik a Wi-Fi Drive Windows-zal?" closed="true" %}}
+{{% ls-details title="Működik a Wi-Fi Drive Windows-zal?" closed="true" %}}
 Igen. Bármely webböngészőt használhatja Windows-on, vagy csatlakozhat a Windows File Explorer segítségével a WebDAV protokollon keresztül.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Használhatok USB kábelt az átvitel gyorsításához?" closed="true" %}}
+{{% ls-details title="Használhatok USB kábelt az átvitel gyorsításához?" closed="true" %}}
 Igen. Ha az iPhone USB-n keresztül csatlakozik a Machez, miközben a Wi-Fi Drive fut, az átvitel a kábelkapcsolatot használja a gyorsabb sebesség érdekében.
-{{% /details %}}
+{{% /ls-details %}}

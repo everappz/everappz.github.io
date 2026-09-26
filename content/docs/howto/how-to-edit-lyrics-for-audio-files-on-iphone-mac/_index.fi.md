@@ -7,7 +7,7 @@ tags: ["lyrics", "mp3", "id3", "metadata", "iphone", "audio editing"]
 readingTime: 2
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **Yhteenveto:** Käytä ilmaista **Evertag**-sovellusta muokataksesi synkronoimattomia sanoituksia, sisältöluokituksia ja yli 120 äänitagia iPhonella tai Macilla. Toimii paikallisten ja pilveen tallennettujen tiedostojen kanssa, tukee erämuokkausta ja tallentaa sanoitukset näkyviin Evermusicissa, Flacboxissa ja muissa soittimissa.
@@ -23,8 +23,8 @@ Esittelyyn käytämme **Evertag**-sovellusta. Se tukee **yli 120 äänitagia**, 
 Aloita lataamalla **Evertag**-sovellus App Storesta. Se on saatavilla sekä **iOS**:lle että **macOS**:lle ja on ilmainen.
 
 {{< cards cols="2">}}
-{{< card link="https://apps.apple.com/app/apple-store/id1450763230?pt=95781850&ct=everappzcom&mt=8" title="Evertag iOS:lle" icon="download" tag="Free" >}}
-{{< card link="https://apps.apple.com/app/apple-store/id1594027661?pt=95781850&ct=everappzcom&mt=8" title="Evertag macOS:lle" icon="download" tag="Free" >}}
+{{< ls-card link="https://apps.apple.com/app/apple-store/id1450763230?pt=95781850&ct=everappzcom&mt=8" title="Evertag iOS:lle" icon="download" tag="Free" >}}
+{{< ls-card link="https://apps.apple.com/app/apple-store/id1594027661?pt=95781850&ct=everappzcom&mt=8" title="Evertag macOS:lle" icon="download" tag="Free" >}}
 {{< /cards >}}
 
 ## Yhdistä pilvitilisi
@@ -38,13 +38,13 @@ Pilvipalvelun yhdistäminen:
 - Napauta **Yhdistä pilvitallennukseen**
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Yhdistä pilvitallennukseen" image="/docs/howto/how-to-edit-lyrics-for-audio-files-on-iphone-mac/connect-to-cloud-storage.webp" >}}
+{{< ls-card title="" subtitle="Yhdistä pilvitallennukseen" image="/docs/howto/how-to-edit-lyrics-for-audio-files-on-iphone-mac/connect-to-cloud-storage.webp" >}}
 {{< /cards >}}
 
 - Valitse tuettu palveluntarjoaja, syötä tunnistetietosi ja napauta **Valmis**
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Yhdistä pilvitallennukseen" image="/docs/howto/how-to-edit-lyrics-for-audio-files-on-iphone-mac/connect-to-cloud-storage.webp" >}}
+{{< ls-card title="" subtitle="Yhdistä pilvitallennukseen" image="/docs/howto/how-to-edit-lyrics-for-audio-files-on-iphone-mac/connect-to-cloud-storage.webp" >}}
 {{< /cards >}}
 
 - Yhdistämisen jälkeen pilvitallennuksesi näkyy sovelluksen **Pilvitallennus**-osiossa.
@@ -52,7 +52,7 @@ Pilvipalvelun yhdistäminen:
 - Napauta yhdistettyä pilvitallennustasi selataksesi ja ladataksesi sen kansiosisällön.
   
 {{< cards cols="1">}}
-{{< card title="" subtitle="Pilvitallennuksen tiedostolista" image="/docs/howto/how-to-edit-lyrics-for-audio-files-on-iphone-mac/cloud-storage-list-audio-files.webp" >}}
+{{< ls-card title="" subtitle="Pilvitallennuksen tiedostolista" image="/docs/howto/how-to-edit-lyrics-for-audio-files-on-iphone-mac/cloud-storage-list-audio-files.webp" >}}
 {{< /cards >}}
 
 ## Yhdistä paikallinen kansio
@@ -74,7 +74,7 @@ Voit muokata suoraan laitteellesi tallennettujen tiedostojen äänitageja tuomat
 - Vieritä alas kohtaan **Tiedostot tällä laitteella** sivupalkkivalikossa
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Laitteen kansiot" image="/docs/howto/how-to-edit-lyrics-for-audio-files-on-iphone-mac/device-folders.webp" >}}
+{{< ls-card title="" subtitle="Laitteen kansiot" image="/docs/howto/how-to-edit-lyrics-for-audio-files-on-iphone-mac/device-folders.webp" >}}
 {{< /cards >}}
   
 - Napauta valikkokohta **Kaikki laitteen kansiot**
@@ -91,7 +91,7 @@ Voit muokata suoraan laitteellesi tallennettujen tiedostojen äänitageja tuomat
 **Tagieditori** on Evertag-sovelluksen päänäyttö, jossa voit tarkastella ja muokata äänitiedostojen metatietoja. Avaa tämä näyttö napauttamalla tiedostoa **Paikalliset tiedostot** -osiosta tai mistä tahansa yhdistetystä **pilvitallennus**tilistä.
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Evertag tagieditorin näyttö" image="/docs/howto/how-to-edit-lyrics-for-audio-files-on-iphone-mac/cloud-storage-audio-file-tag-editor.webp" >}}
+{{< ls-card title="" subtitle="Evertag tagieditorin näyttö" image="/docs/howto/how-to-edit-lyrics-for-audio-files-on-iphone-mac/cloud-storage-audio-file-tag-editor.webp" >}}
 {{< /cards >}}
 
 ## Muokkaustilat
@@ -112,7 +112,7 @@ Oletuksena sovellus avaa tagieditorin yksittäistiedostotilassa vain päämuokka
 Päästäksesi kaikkiin käytettävissä oleviin tageihin vieritä näytön alareunaan ja napauta vaihtoehtoa **Näytä laajennetut tagit**. Tämä vaihtaa editorin laajennettuun tilaan, jossa voit muokata yli **120 metatietokenttää**, mukaan lukien **MusicBrainz-tagit**, **sanoitukset**, **sisältöluokitukset** ja paljon muuta.
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Alempi toimintopaneeli" image="/docs/howto/how-to-edit-lyrics-for-audio-files-on-iphone-mac/show-extended-tags.webp" >}}
+{{< ls-card title="" subtitle="Alempi toimintopaneeli" image="/docs/howto/how-to-edit-lyrics-for-audio-files-on-iphone-mac/show-extended-tags.webp" >}}
 {{< /cards >}}
 
 ## Erätila
@@ -137,7 +137,7 @@ Näin lisäät tai päivität äänitiedostoihisi upotetut **synkronoimattomat s
 **Laajennetut tagit** -tilassa vieritä alas ja napauta **Synkronoimattomat sanoitukset** -tekstikenttää.
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Synkronoimattomat sanoitukset -tekstikenttä" image="/docs/howto/how-to-edit-lyrics-for-audio-files-on-iphone-mac/advisory-rating-2.webp" >}}
+{{< ls-card title="" subtitle="Synkronoimattomat sanoitukset -tekstikenttä" image="/docs/howto/how-to-edit-lyrics-for-audio-files-on-iphone-mac/advisory-rating-2.webp" >}}
 {{< /cards >}}
 
 > Äänitiedostot, jotka tukevat **ID3-tageja** (kuten `.mp3` tai `.wav`), mahdollistavat sanoitusten lisäämisen useilla kielillä. Jos muokkaat ID3-tagattua tiedostoa, Evertag mahdollistaa täyden monikielituen.  
@@ -148,7 +148,7 @@ Näin lisäät tai päivität äänitiedostoihisi upotetut **synkronoimattomat s
 Jos muokkaat ID3-tageja, seuraava näyttö näyttää painikkeen **Lisää uusi sivu**. Napauta sitä aloittaaksesi uuden sanoitusmerkinnän lisäämisen.
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Lisää uusi sanoitussivu" image="/docs/howto/how-to-edit-lyrics-for-audio-files-on-iphone-mac/add-new-page.webp" >}}
+{{< ls-card title="" subtitle="Lisää uusi sanoitussivu" image="/docs/howto/how-to-edit-lyrics-for-audio-files-on-iphone-mac/add-new-page.webp" >}}
 {{< /cards >}}
 
 ### Valitse kieli, kommentti ja sanoitusten sisältö
@@ -159,7 +159,7 @@ Sanoitusten syöttönäytöllä voit:
 - Syöttää varsinaiset **sanoitukset**
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Valitse kieli" image="/docs/howto/how-to-edit-lyrics-for-audio-files-on-iphone-mac/choose-language.webp" >}}
+{{< ls-card title="" subtitle="Valitse kieli" image="/docs/howto/how-to-edit-lyrics-for-audio-files-on-iphone-mac/choose-language.webp" >}}
 {{< /cards >}}
 
 ### Syötä sanoitukset
@@ -169,7 +169,7 @@ Kirjoita tai liitä sanoitussisältösi. Evertag tukee LRC-muotoisia sanoituksia
 > Vinkki: Etsitkö laadukkaita sanoituksia? Käy [lyricsify.com](https://www.lyricsify.com) löytääksesi sanoituksia LRC-muodossa tuhansille kappaleille.
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Lisätyt sanoitukset" image="/docs/howto/how-to-edit-lyrics-for-audio-files-on-iphone-mac/added-lyrics.webp" >}}
+{{< ls-card title="" subtitle="Lisätyt sanoitukset" image="/docs/howto/how-to-edit-lyrics-for-audio-files-on-iphone-mac/added-lyrics.webp" >}}
 {{< /cards >}}
 
 ### Napauta "Valmis" vahvistaaksesi
@@ -177,7 +177,7 @@ Kirjoita tai liitä sanoitussisältösi. Evertag tukee LRC-muotoisia sanoituksia
 Sanoitusten syöttämisen jälkeen napauta **Valmis** sanoitussivulla. Napauta sitten **Valmis** uudelleen edellisellä näytöllä vahvistaaksesi muutoksesi.
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Tallennetut sanoitukset" image="/docs/howto/how-to-edit-lyrics-for-audio-files-on-iphone-mac/saved-lyrics.webp" >}}
+{{< ls-card title="" subtitle="Tallennetut sanoitukset" image="/docs/howto/how-to-edit-lyrics-for-audio-files-on-iphone-mac/saved-lyrics.webp" >}}
 {{< /cards >}}
 
 ### Tallenna tagimuutokset
@@ -185,7 +185,7 @@ Sanoitusten syöttämisen jälkeen napauta **Valmis** sanoitussivulla. Napauta s
 Lopuksi **Tagieditori**-näytöllä napauta **Tallenna** kirjoittaaksesi päivitetyt tagit — mukaan lukien uudet sanoituksesi — takaisin tiedostoon.
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Tagieditori sanoitusten kanssa" image="/docs/howto/how-to-edit-lyrics-for-audio-files-on-iphone-mac/tags-editor-with-lyrics.webp" >}}
+{{< ls-card title="" subtitle="Tagieditori sanoitusten kanssa" image="/docs/howto/how-to-edit-lyrics-for-audio-files-on-iphone-mac/tags-editor-with-lyrics.webp" >}}
 {{< /cards >}}
 
 ### Aseta sanoitusten sisältöluokitus
@@ -204,22 +204,22 @@ Näitä vaiheita noudattamalla sanoituksesi upotetaan oikein äänitiedoston met
 
 ## Usein kysytyt kysymykset
 
-{{% details title="Mitä ääniformaatteja Evertag tukee sanoitusten muokkaukseen?" closed="true" %}}
+{{% ls-details title="Mitä ääniformaatteja Evertag tukee sanoitusten muokkaukseen?" closed="true" %}}
 Evertag tukee yli 30 ääniformaattia, mukaan lukien MP3, FLAC, WAV, M4A, OGG, AIFF ja muut. Voit muokata sanoituksia ja muita metatietotageja missä tahansa näistä formaateista.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Voinko lisätä sanoituksia useilla kielillä?" closed="true" %}}
+{{% ls-details title="Voinko lisätä sanoituksia useilla kielillä?" closed="true" %}}
 Kyllä, mutta vain äänitiedostoille, jotka käyttävät ID3-tageja (kuten MP3 ja WAV). Muille formaateille kuten FLAC tai M4A tuetaan vain yksittäistä sanoitusmerkintää.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Tukeeko Evertag sanoitusten erämuokkausta?" closed="true" %}}
+{{% ls-details title="Tukeeko Evertag sanoitusten erämuokkausta?" closed="true" %}}
 Kyllä. Voit siirtyä erätilaan muokataksesi useiden tiedostojen metatietoja kerralla. Tämä on hyödyllistä saman sisältöluokituksen tai muiden jaettujen tagien soveltamiseen kokonaiseen albumiin.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Näkyvätkö muokatut sanoitukset Apple Musicissa tai Spotifyssa?" closed="true" %}}
+{{% ls-details title="Näkyvätkö muokatut sanoitukset Apple Musicissa tai Spotifyssa?" closed="true" %}}
 Evertagilla muokatut sanoitukset on upotettu äänitiedoston metatietoihin. Ne näkyvät kaikissa musiikkisoittimissa, jotka lukevat upotettuja sanoitustageja, kuten Evermusic, Flacbox, VLC ja foobar2000. Suoratoistopalvelut kuten Spotify ja Apple Music käyttävät omia sanoitustietokantojaan eivätkä lue upotettuja tageja.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Voinko muokata pilvitallennukseen tallennettujen tiedostojen tageja?" closed="true" %}}
+{{% ls-details title="Voinko muokata pilvitallennukseen tallennettujen tiedostojen tageja?" closed="true" %}}
 Kyllä. Evertag tukee yhdistämistä pilvipalveluihin. Sovellus lataa tiedoston, antaa sinun muokata tageja ja lähettää päivitetyn tiedoston automaattisesti takaisin pilveen.
-{{% /details %}}
+{{% /ls-details %}}

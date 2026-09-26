@@ -7,12 +7,12 @@ tags: ["Evermusic", "Flacbox", "ビジュアライザー", "使い方", "Milkdro
 readingTime: 9
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 **簡単な答え:** [Evermusic](/products/evermusic)と[Flacbox](/products/flacbox)はどちらも、音楽に合わせて動く色鮮やかなビジュアルを描くフルスクリーンの**ミュージックビジュアライザー**を備えています。**再生中**プレーヤー（**⋯（その他） > ビジュアライゼーション**）または**設定 > ビジュアライゼーション**から開き、プリセットまたは**Auto**を選んで**ビジュアライゼーションを開始**をタップします。ビジュアライザー画面では、一度タップするとコントロールが表示または非表示になり、**戻る**と**次へ**の矢印で見た目を変えられます。よく知られた**Milkdrop（projectM）**エンジンを使い、**500種類のプリセット**を備え、**OpenGL**で描画し、**iPhone、iPad、Mac**で動作します。手順は両方のアプリで同じです。詳しい手順は以下のとおりです。
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="ミュージックビジュアライザー: Starfield Sectorsプリセット" image="/docs/howto/how-to-turn-on-a-music-visualizer-while-playing-music-on-iphone-ipad-mac/music-visualizer-starfield-sectors-preset.webp" imageStyle="border-radius: clamp(14px, 2vw, 28px);" >}}
+{{< ls-card title="" subtitle="ミュージックビジュアライザー: Starfield Sectorsプリセット" image="/docs/howto/how-to-turn-on-a-music-visualizer-while-playing-music-on-iphone-ipad-mac/music-visualizer-starfield-sectors-preset.webp" imageStyle="border-radius: clamp(14px, 2vw, 28px);" >}}
 {{< /cards >}}
 
 ## ビジュアライザーとは？
@@ -85,50 +85,50 @@ readingTime: 9
 
 ## FAQ
 
-{{% details title="EvermusicやFlacboxでビジュアライザーをオンにするには？" closed="true" %}}
+{{% ls-details title="EvermusicやFlacboxでビジュアライザーをオンにするには？" closed="true" %}}
 再生中プレーヤーを開き、⋯（その他）ボタンをタップして、ビジュアライゼーションを選びます。設定 > ビジュアライゼーションからも開けます。次にプリセット（またはAuto）を選んで、ビジュアライゼーションを開始をタップします。手順は両方のアプリで同じです。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="ビジュアライザーは何をベースにしていますか？" closed="true" %}}
+{{% ls-details title="ビジュアライザーは何をベースにしていますか？" closed="true" %}}
 オープンソースのprojectMエンジンを使っており、Milkdropスタイルのプリセットを再生します。これらは、多くの人がデスクトップのミュージックプレーヤーで知っている、アニメーションで音楽に反応するビジュアルです。EvermusicとFlacboxの両方が500種類のプリセットを含み、OpenGLで描画します。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="ビジュアライザーのプリセットはいくつありますか？" closed="true" %}}
+{{% ls-details title="ビジュアライザーのプリセットはいくつありますか？" closed="true" %}}
 500種類のプリセットです。それぞれが異なるアニメーションのシーンで、次へと戻るの矢印で移動できますし、Autoモードに自分でシャッフルさせることもできます。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="ビジュアライザーは音楽に反応しますか？" closed="true" %}}
+{{% ls-details title="ビジュアライザーは音楽に反応しますか？" closed="true" %}}
 はい。ビジュアルは再生しているオーディオにリアルタイムで反応するので、形、色、動きがトラックのビートやエネルギーに合わせて変わります。ローカルファイル、クラウドドライブ、メディアサーバー、インターネットラジオで動作します。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="ビジュアライザーのプリセットを変更するには？" closed="true" %}}
+{{% ls-details title="ビジュアライザーのプリセットを変更するには？" closed="true" %}}
 画面を一度タップしてコントロールを表示し、下部の戻ると次への矢印を使ってプリセット間を移動します。上部の名前とカウンター（例: 429 / 500）は変更に合わせて更新されます。Autoモードで開始して、アプリに自動でプリセットを切り替えさせることもできます。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Autoモードとは？" closed="true" %}}
+{{% ls-details title="Autoモードとは？" closed="true" %}}
 Autoモードは、プリセットピッカーから選び、プリセットを自分でシャッフルして、30秒ごとに滑らかなクロスフェードで新しいものに切り替えます。画面に触れずにショーを楽しむ最も簡単な方法です。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="画面上のコントロールを非表示にするには？" closed="true" %}}
+{{% ls-details title="画面上のコントロールを非表示にするには？" closed="true" %}}
 画面を一度タップするとコントロールが非表示になり、きれいなフルスクリーン表示になります。もう一度タップすると戻ります。コントロールは数秒後に自分でも非表示になります。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="ビジュアライザーはMacで動作しますか？" closed="true" %}}
+{{% ls-details title="ビジュアライザーはMacで動作しますか？" closed="true" %}}
 はい。Macでは、EvermusicとFlacboxの両方がビジュアライザーを専用のウィンドウで開き、ネイティブのデスクトップOpenGLで描画するので、大きな画面でも同じ音楽に反応するMilkdropビジュアルが得られます。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="ビジュアライザーはiPhoneとiPadで動作しますか？" closed="true" %}}
+{{% ls-details title="ビジュアライザーはiPhoneとiPadで動作しますか？" closed="true" %}}
 はい。iPhoneとiPadではフルスクリーンで動作し、Retinaディスプレイでの滑らかなアニメーションのためにOpenGL ESで描画されます。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="ビジュアライザーの実行中に画面は暗くなったりロックされたりしますか？" closed="true" %}}
+{{% ls-details title="ビジュアライザーの実行中に画面は暗くなったりロックされたりしますか？" closed="true" %}}
 いいえ。ビジュアライザーがオンの間、アプリは画面をスリープさせないので、ディスプレイが暗くなったりロックされたりしてショーが中断されることはありません。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="アプリは選んだプリセットを記憶しますか？" closed="true" %}}
+{{% ls-details title="アプリは選んだプリセットを記憶しますか？" closed="true" %}}
 はい。最後に選択したプリセットは保存され、プリセットピッカーでハイライトされるので、お気に入りに簡単に戻れます。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="現在のプリセット名はどこに表示されますか？" closed="true" %}}
+{{% ls-details title="現在のプリセット名はどこに表示されますか？" closed="true" %}}
 ビジュアライザー画面の上部中央に、全体のうちどのプリセットにいるかを示す429 / 500などのカウンターとともに表示されます。例のスクリーンショットでは、プリセットはStarfield Sectorsです。
-{{% /details %}}
+{{% /ls-details %}}

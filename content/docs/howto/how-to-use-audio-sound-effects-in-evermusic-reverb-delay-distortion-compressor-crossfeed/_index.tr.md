@@ -7,7 +7,7 @@ tags: ["Evermusic", "Ses Efektleri", "Nasıl Yapılır", "Reverb", "Delay", "Dis
 readingTime: 8
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 **Özet:** Evermusic altı gerçek zamanlı ses efekti içerir — **Ses Düzeyi Normalizasyonu, Kompresör, Reverb, Crossfeed, Delay ve Distortion**. Bunları oynatıcının **⋯ (Daha fazla) menüsü > Ses efektleri** üzerinden veya **Ayarlar > Ses çalar > Ses efektleri** üzerinden açın. Bir efekte dokunun, düğmesini **AÇIK** konuma getirin (sağ üstte), bir **ön ayar** seçin ve isteğe bağlı olarak kaydırıcılara ince ayar yapmak için **Gelişmiş mod**'u açın. Her efekt bağımsız çalışır ve çaldığınız her şeye gerçek zamanlı uygulanır — yerel dosyalar, bulut yayınları ve internet radyosu — hiçbir yeniden kodlama olmadan.
 
@@ -162,38 +162,38 @@ Ayrıca Evermusic'in **10 bantlı grafik ekolayzeri** ve **boşluksuz çalması*
 
 ## Sık Sorulan Sorular
 
-{{% details title="Evermusic'te müziğime reverb, delay veya diğer efektleri nasıl eklerim?" closed="true" %}}
+{{% ls-details title="Evermusic'te müziğime reverb, delay veya diğer efektleri nasıl eklerim?" closed="true" %}}
 Oynatıcıyı açın, ⋯ (Daha fazla) düğmesine dokunun ve Ses efektleri'ni seçin (veya Ayarlar > Ses çalar > Ses efektleri bölümüne gidin). İstediğiniz efekte dokunun, sağ üstteki düğmesini AÇIK konuma getirin ve bir ön ayar seçin. Kaydırıcılara ince ayar yapmak için Gelişmiş modu açın. Efekt, çalan şeye anında uygulanır.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Evermusic'in hangi ses efektleri var?" closed="true" %}}
+{{% ls-details title="Evermusic'in hangi ses efektleri var?" closed="true" %}}
 Altı gerçek zamanlı efekt: Ses Düzeyi Normalizasyonu (EBU R128 ses yüksekliği dengeleme), Kompresör (dinamikler), Reverb (mekân ve eko kuyruğu), Crossfeed (doğal kulaklık görüntülemesi), Delay (eko) ve Distortion (lo-fi tırtık). Her biri bağımsızdır ve tek başına ya da birleştirilerek kullanılabilir.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Efektler ses dosyalarımı değiştirir veya bozar mı?" closed="true" %}}
+{{% ls-details title="Efektler ses dosyalarımı değiştirir veya bozar mı?" closed="true" %}}
 Hayır. Tüm efektler yalnızca çalma sırasında gerçek zamanlı uygulanır. Dosyalarınızı asla değiştirmez veya yeniden kodlamaz. Bir efekti kapatın, orijinal sesiniz anında geri gelsin.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Aynı anda birden fazla efekt kullanabilir miyim?" closed="true" %}}
+{{% ls-details title="Aynı anda birden fazla efekt kullanabilir miyim?" closed="true" %}}
 Evet. Her efekt bağımsızdır — ana düğme yoktur — bu yüzden herhangi bir kombinasyonu etkinleştirebilirsiniz. Örneğin tutarlı, rahat dinleme için Ses Düzeyi Normalizasyonu artı Kompresör veya kulaklıkta Reverb artı Crossfeed.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Crossfeed nedir ve kullanmalı mıyım?" closed="true" %}}
+{{% ls-details title="Crossfeed nedir ve kullanmalı mıyım?" closed="true" %}}
 Crossfeed, her stereo kanalın küçük, filtrelenmiş bir miktarını diğerine karıştırarak kulaklıkların daha çok gerçek hoparlörler gibi ses vermesini sağlar; sert pan yapılmış mikslerin "kafanın içinde" hissini azaltır. Bir kulaklık efektidir (hoparlörler için kapalı bırakın). Bauer stereophonic-to-binaural (bs2b) algoritması üzerine kuruludur ve Chu Moy ile Jan Meier gibi ön ayarlar içerir.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Ses Düzeyi Normalizasyonu nedir ve ReplayGain'den farkı nedir?" closed="true" %}}
+{{% ls-details title="Ses Düzeyi Normalizasyonu nedir ve ReplayGain'den farkı nedir?" closed="true" %}}
 Ses Düzeyi Normalizasyonu, algılanan ses yüksekliğini EBU R128 standardıyla ölçüp bir hedefe doğru dengeleyerek her parçayı tutarlı bir ses yüksekliğinde tutar. ReplayGain'in aksine, dosyalarınızda ses yüksekliği etiketlerine ihtiyaç duymaz ve sesi değiştirmez — bulut yayınları ve internet radyosu dâhil herhangi bir kaynakta canlı çalışır. Ön ayarlar: Light, Standard, Strong ve Night.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Basit ve Gelişmiş mod arasındaki fark nedir?" closed="true" %}}
+{{% ls-details title="Basit ve Gelişmiş mod arasındaki fark nedir?" closed="true" %}}
 Basit mod, sade açıklamalarla bir ön ayar listesi gösterir, böylece tek dokunuşta iyi bir ses elde edebilirsiniz. Gelişmiş mod, hassas ince ayar için parametre kaydırıcılarını ekler (örneğin Reverb için Mix veya yedi Kompresör denetimi). Her efekt düzenleyicisinin sağ üstündeki mod düğmesiyle aralarında geçiş yapın.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Efekt denetimleri neden gri görünüyor?" closed="true" %}}
+{{% ls-details title="Efekt denetimleri neden gri görünüyor?" closed="true" %}}
 Efekt kapalı. Denetimleri etkinleştirmek için düzenleyicisinin sağ üstündeki efekt düğmesini açın. Her efekt varsayılan olarak kapalıdır.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Efektler yayın ve CarPlay ile çalışır mı?" closed="true" %}}
+{{% ls-details title="Efektler yayın ve CarPlay ile çalışır mı?" closed="true" %}}
 Evet. Efektler çalma motorunun içinde çalışır, bu yüzden yerel dosyalara, bulut sürücülerine, medya sunucularına ve internet radyosuna uygulanır ve CarPlay çalma sırasında da çalışmaya devam eder.
-{{% /details %}}
+{{% /ls-details %}}

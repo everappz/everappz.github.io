@@ -16,7 +16,7 @@ readingTime: 3
 Evertag ofereix una interfície d'usuari intuïtiva. El que el diferencia de moltes aplicacions populars és el seu gestor de fitxers integrat, que dona als usuaris el poder d'editar fitxers d'àudio i transferir-los cap i des de l'emmagatzematge al núvol sense problemes.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Pantalla d'Evertag" image="/docs/guide/evertag/img/tag-editor.webp" >}}
+  {{< ls-card title="" subtitle="Pantalla d'Evertag" image="/docs/guide/evertag/img/tag-editor.webp" >}}
 {{< /cards >}}
 
 ## Seccions
@@ -42,7 +42,7 @@ La secció de Fitxers locals es divideix en dues categories: **Fitxers en aquest
 Pràcticament cada element de contingut a la pantalla té un botó "Més Accions". Toca'l per accedir a totes les accions disponibles.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Més Accions d'Evertag" image="/docs/guide/evertag/img/downloads-file-actions.webp" >}}
+  {{< ls-card title="" subtitle="Més Accions d'Evertag" image="/docs/guide/evertag/img/downloads-file-actions.webp" >}}
 {{< /cards >}}
 
 ## Barra d'eines superior

@@ -16,7 +16,7 @@ readingTime: 3
 Evertag offre un'interfaccia utente intuitiva. Ciò che la distingue da molte app popolari è il suo gestore file integrato, che offre agli utenti la possibilità di modificare i file audio e trasferirli da e verso l'archiviazione cloud senza problemi.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Schermata Evertag" image="/docs/guide/evertag/img/tag-editor.webp" >}}
+  {{< ls-card title="" subtitle="Schermata Evertag" image="/docs/guide/evertag/img/tag-editor.webp" >}}
 {{< /cards >}}
 
 ## Sezioni
@@ -42,7 +42,7 @@ La sezione File locali è divisa in due categorie: **File in questa applicazione
 Praticamente ogni elemento di contenuto sullo schermo ha un pulsante "Altre azioni". Toccalo per accedere a tutte le azioni disponibili.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Altre azioni Evertag" image="/docs/guide/evertag/img/downloads-file-actions.webp" >}}
+  {{< ls-card title="" subtitle="Altre azioni Evertag" image="/docs/guide/evertag/img/downloads-file-actions.webp" >}}
 {{< /cards >}}
 
 ## Barra degli strumenti superiore

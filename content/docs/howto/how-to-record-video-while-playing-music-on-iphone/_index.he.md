@@ -7,7 +7,7 @@ keywords: ["הקלטת וידאו בזמן השמעת מוזיקה באייפו�
 readingTime: 1
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **בקצרה:** הגדירו את פלט האודיו של Evermusic ל"מצב מעורב", התחילו להשמיע שיר, ואז פתחו את אפליקציית המצלמה והקליטו. המוזיקה ממשיכה לנגן ברקע. עובד עם TikTok, Instagram וכל אפליקציית מצלמה.
@@ -45,22 +45,22 @@ readingTime: 1
 
 ## שאלות נפוצות
 
-{{% details title="האם מוזיקת הרקע מוקלטת לתוך הווידאו?" closed="true" %}}
+{{% ls-details title="האם מוזיקת הרקע מוקלטת לתוך הווידאו?" closed="true" %}}
 המוזיקה מושמעת דרך הרמקול של האייפון, כך שהמיקרופון יקלוט אותה יחד עם רעשי סביבה אחרים. לאודיו נקי יותר, שקלו להשתמש ברמקול חיצוני הממוקם ליד המיקרופון.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="האם זה עובד עם TikTok ו-Instagram?" closed="true" %}}
+{{% ls-details title="האם זה עובד עם TikTok ו-Instagram?" closed="true" %}}
 כן. ברגע ש-Evermusic מוגדר למצב מעורב ושיר מתנגן, המוזיקה ממשיכה כשפותחים את TikTok, Instagram או כל אפליקציית מצלמה או הקלטה אחרת.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="מהו מצב מעורב ב-Evermusic?" closed="true" %}}
+{{% ls-details title="מהו מצב מעורב ב-Evermusic?" closed="true" %}}
 מצב מעורב הוא הגדרת פלט אודיו שמאפשרת ל-Evermusic לשתף את הפעלת האודיו עם אפליקציות אחרות. זה מונע מהמוזיקה להפסיק כאשר אפליקציה אחרת ניגשת למיקרופון או למצלמה.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="האם אפשר להשתמש ב-Flacbox במקום Evermusic לשם כך?" closed="true" %}}
+{{% ls-details title="האם אפשר להשתמש ב-Flacbox במקום Evermusic לשם כך?" closed="true" %}}
 כן. גם Flacbox תומך במצב פלט אודיו מעורב. השלבים זהים: הפעילו מצב מעורב בהגדרות, התחילו השמעה ופתחו את אפליקציית המצלמה.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="האם אפשר לשחק משחק בזמן שמוזיקה מ-Evermusic מתנגנת ברקע?" closed="true" %}}
+{{% ls-details title="האם אפשר לשחק משחק בזמן שמוזיקה מ-Evermusic מתנגנת ברקע?" closed="true" %}}
 כן. כאשר מצב מעורב מופעל, המוזיקה מ-Evermusic ממשיכה להתנגן כשפותחים כל משחק או אפליקציה. גם האודיו של המשחק וגם המוזיקה שלכם יושמעו בו-זמנית.
-{{% /details %}}
+{{% /ls-details %}}

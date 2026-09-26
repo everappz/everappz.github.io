@@ -7,7 +7,7 @@ keywords: ["máy chủ SMB iPhone", "máy chủ SMB iPad", "cách thiết lập 
 readingTime: 10
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 SMB là cơ chế chia sẻ tập tin tích hợp sẵn trong macOS, Windows và Linux, cùng gần như mọi ổ đĩa mạng (NAS). Khi bạn kết nối tới một thư mục chia sẻ trên một máy tính khác và nó mở ra như một ổ đĩa bình thường trong Finder hay File Explorer, đó chính là SMB đang làm việc. Với [Everdisk](/products/everdisk) bạn có thể đặt một thư mục chia sẻ SMB lên iPhone hoặc iPad, để chính chiếc điện thoại hiện ra như một ổ đĩa mạng mà các thiết bị khác duyệt, sao chép về và sao chép sang.
 
@@ -136,44 +136,44 @@ Công tắc **Chỉnh sửa tệp** trong Cài đặt, Chia sẻ, Truy cập ki�
 
 ## Câu hỏi thường gặp
 
-{{% details title="Địa chỉ và cổng SMB cho iPhone của tôi là gì?" closed="true" %}}
+{{% ls-details title="Địa chỉ và cổng SMB cho iPhone của tôi là gì?" closed="true" %}}
 Sau khi bạn bắt đầu chia sẻ, Everdisk hiển thị địa chỉ trên màn hình Chia sẻ. Nó trông như smb://192.168.1.20:4455/Share. Con số 4455 là cổng Everdisk dùng cho SMB, và Share là tên thư mục chia sẻ. Phần đầu là địa chỉ của iPhone trên Wi-Fi, nên của bạn sẽ khác.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Tôi có thể kết nối tới thư mục chia sẻ SMB của iPhone từ Windows không?" closed="true" %}}
+{{% ls-details title="Tôi có thể kết nối tới thư mục chia sẻ SMB của iPhone từ Windows không?" closed="true" %}}
 Windows File Explorer chỉ kết nối SMB trên cổng chuẩn và không chấp nhận cổng tùy chỉnh trong đường dẫn, trong khi Everdisk dùng cổng 4455. Nên cách Ánh xạ ổ đĩa mạng thông thường thường sẽ không chạm tới được. Hãy dùng một trình quản lý tập tin cho phép đặt cổng tùy chỉnh, hoặc kết nối từ Windows bằng WebDAV, FTP hay liên kết trình duyệt thay thế. Tất cả những cách đó đều hoạt động từ Windows mà không gặp rắc rối về cổng.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Làm sao để chia sẻ tập tin giữa hai iPhone bằng SMB?" closed="true" %}}
+{{% ls-details title="Làm sao để chia sẻ tập tin giữa hai iPhone bằng SMB?" closed="true" %}}
 Bắt đầu máy chủ SMB trên iPhone thứ nhất trong Everdisk. Trên iPhone thứ hai, mở ứng dụng Tệp, chạm nút thêm, chọn Kết nối tới Máy chủ, và nhập địa chỉ smb hiển thị trong Everdisk (ví dụ smb://192.168.1.20:4455/Share). Kết nối với tư cách Khách hoặc bằng tên đăng nhập của bạn, và thư mục chia sẻ hiện ra trong Tệp. Bạn cũng có thể dùng chính thẻ Thiết bị của Everdisk trên điện thoại thứ hai.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="iPhone của tôi có tự hiện trong thanh bên Finder của Mac không?" closed="true" %}}
+{{% ls-details title="iPhone của tôi có tự hiện trong thanh bên Finder của Mac không?" closed="true" %}}
 Thường là có. Everdisk thông báo thư mục chia sẻ SMB trên Wi-Fi của bạn, nên iPhone của bạn thường hiện ra dưới mục Locations hoặc Network trong thanh bên Finder. Nhấp vào nó và chọn Connect As, rồi Guest hoặc tên đăng nhập của bạn. Nếu nó không hiện ra, hãy kết nối bằng tay với Go, Connect to Server và địa chỉ smb đầy đủ.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Tôi có cần mật khẩu để dùng SMB không?" closed="true" %}}
+{{% ls-details title="Tôi có cần mật khẩu để dùng SMB không?" closed="true" %}}
 Không, tên đăng nhập là tùy chọn. Để trống Tên đăng nhập và Mật khẩu trong Cài đặt, Chia sẻ, Truy cập để cho phép truy cập khách. Đặt chúng nếu bạn muốn các kết nối phải đăng nhập. Tên đăng nhập và mật khẩu chỉ bắt buộc nếu bạn bật Yêu cầu mã hóa SMB, vì kết nối có mã hóa không thể ẩn danh.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Kết nối SMB có được mã hóa không?" closed="true" %}}
+{{% ls-details title="Kết nối SMB có được mã hóa không?" closed="true" %}}
 Có thể. SMB là kết nối Everdisk duy nhất hỗ trợ mã hóa. Đặt tên đăng nhập và mật khẩu, rồi bật Yêu cầu mã hóa SMB trong Cài đặt, Chia sẻ. Mọi lần truyền khi đó được bảo vệ bằng SMB3 (AES). Thiết bị kia cần hỗ trợ SMB3, điều mà các máy Mac hiện đại và Windows 10 trở lên đều làm được. Mã hóa là tính năng Premium.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Người khác có thể thay đổi hoặc xóa tập tin của tôi qua SMB không?" closed="true" %}}
+{{% ls-details title="Người khác có thể thay đổi hoặc xóa tập tin của tôi qua SMB không?" closed="true" %}}
 Chỉ khi bạn cho phép. Công tắc Chỉnh sửa tệp trong Cài đặt, Chia sẻ, Truy cập kiểm soát điều này. Khi bật, thiết bị đã kết nối có thể tải lên, đổi tên và xóa. Khi tắt, thư mục chia sẻ chỉ để đọc và người khác có thể duyệt cùng sao chép tập tin ra khỏi điện thoại của bạn nhưng không thể thay đổi gì.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Vì sao kết nối SMB của tôi bị rớt?" closed="true" %}}
+{{% ls-details title="Vì sao kết nối SMB của tôi bị rớt?" closed="true" %}}
 iPhone của bạn là máy chủ, và iOS tạm dừng các ứng dụng nằm ở nền quá lâu. Giữ Everdisk mở trên màn hình trong lúc một thiết bị đang kết nối, và cắm điện thoại vào nguồn điện trong những lần truyền dài. Cũng hãy đảm bảo cả hai thiết bị vẫn ở cùng mạng Wi-Fi.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="SMB, WebDAV hay FTP, tôi nên dùng cái nào?" closed="true" %}}
+{{% ls-details title="SMB, WebDAV hay FTP, tôi nên dùng cái nào?" closed="true" %}}
 Dùng SMB khi bạn muốn điện thoại hoạt động như một ổ đĩa mạng thực thụ trên Mac, một iPhone khác, Linux hay một NAS, và khi bạn muốn mã hóa. Dùng WebDAV khi bạn muốn một ổ đĩa mạng cũng hoạt động tốt từ Windows. Dùng FTP để tương thích rộng nhất với các thiết bị và ứng dụng cũ. Everdisk có thể chạy tất cả cùng lúc, nên bạn không bị khóa vào một cái.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Everdisk có miễn phí không?" closed="true" %}}
+{{% ls-details title="Everdisk có miễn phí không?" closed="true" %}}
 Có, Everdisk tải miễn phí và máy chủ SMB được bao gồm sẵn. Gói mua Premium một lần duy nhất tùy chọn thêm mã hóa SMB, cổng tùy chỉnh cùng vài tính năng bổ sung khác. Bạn có thể thiết lập SMB và chia sẻ tập tin mà không phải trả tiền.
-{{% /details %}}
+{{% /ls-details %}}
 
 Sẵn sàng thử chưa? [Tải Everdisk từ App Store](https://apps.apple.com/app/apple-store/id6751851132?pt=95781850&ct=everappzcom&mt=8) và mở iPhone của bạn trong Finder chỉ trong khoảng một phút. Có câu hỏi hay góp ý? Gửi email cho chúng tôi tại **support@everappz.com**.

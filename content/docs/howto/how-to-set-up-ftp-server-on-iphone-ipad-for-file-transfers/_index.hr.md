@@ -7,7 +7,7 @@ keywords: ["FTP poslužitelj iPhone", "FTP poslužitelj iPad", "kako postaviti F
 readingTime: 9
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 FTP je stari pouzdanik prijenosa datoteka. Postoji desetljećima, što je upravo razlog zašto je toliko koristan: gotovo sve što može razgovarati s poslužiteljem razumije ga. Kamere, pametni TV-i, usmjerivači, mrežni diskovi, alati za automatizaciju i svaka stolna FTP aplikacija govore FTP. Uz [Everdisk](/products/everdisk) možete pokrenuti FTP poslužitelj na svom iPhoneu ili iPadu, pa telefon postaje mjesto na koje se ti uređaji i aplikacije mogu povezati i premještati datoteke.
 
@@ -118,44 +118,44 @@ Preklopnik **Uređivanje datoteka** u Postavke, Dijeljenje, Pristup kontrolira o
 
 ## Često postavljana pitanja
 
-{{% details title="Koja je FTP adresa i port za moj iPhone?" closed="true" %}}
+{{% ls-details title="Koja je FTP adresa i port za moj iPhone?" closed="true" %}}
 Nakon što pokrenete dijeljenje, Everdisk prikazuje adresu na zaslonu Dijeljenje. Izgleda kao ftp://192.168.1.20:2121. Broj 2121 je port koji Everdisk koristi za FTP, a prvi dio je adresa vašeg iPhonea na Wi-Fi mreži, pa će vaša biti drugačija.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Kako povezati FileZillu ili Cyberduck sa svojim iPhoneom?" closed="true" %}}
+{{% ls-details title="Kako povezati FileZillu ili Cyberduck sa svojim iPhoneom?" closed="true" %}}
 Otvorite aplikaciju i stvorite novu vezu. Postavite Host na Wi-Fi adresu vašeg iPhonea, a Port na 2121. Unesite svoju Prijava i Lozinka ili odaberite Anonymous ako je niste postavili u Everdisku. Povežite se i možete povlačiti datoteke u oba smjera kad je Uređivanje datoteka uključeno.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Mogu li se povezati na FTP svog iPhonea s Windowsa?" closed="true" %}}
+{{% ls-details title="Mogu li se povezati na FTP svog iPhonea s Windowsa?" closed="true" %}}
 Da. Otvorite File Explorer, kliknite adresnu traku, upišite FTP adresu iz Everdiska (na primjer ftp://192.168.1.20:2121) i pritisnite Enter. Unesite svoju prijavu ako ste je postavili ili nastavite kao gost. Za prijenose i veću kontrolu umjesto toga koristite FTP aplikaciju poput FileZille.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Trebam li prijavu za FTP?" closed="true" %}}
+{{% ls-details title="Trebam li prijavu za FTP?" closed="true" %}}
 Ne, prijava je neobvezna. Ostavite Prijava i Lozinka prazne u Postavke, Dijeljenje, Pristup i povežite se kao Anonymous, što većina FTP klijenata nudi. Postavite prijavu ako želite da se veze prvo prijave.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Zašto mogu samo preuzimati, a ne i prenositi putem FTP-a?" closed="true" %}}
+{{% ls-details title="Zašto mogu samo preuzimati, a ne i prenositi putem FTP-a?" closed="true" %}}
 Dva su razloga uobičajena. Prvo, preklopnik Uređivanje datoteka u Postavke, Dijeljenje, Pristup mora biti uključen da bi se dopustili prijenosi, preimenovanja i brisanja. Drugo, Mac Finder otvara FTP samo za čitanje, pa koristite FTP aplikaciju poput FileZille ili Cyberduck kad želite prenositi.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Mogu li koristiti FTP između dva iPhonea?" closed="true" %}}
+{{% ls-details title="Mogu li koristiti FTP između dva iPhonea?" closed="true" %}}
 Da. Pokrenite FTP poslužitelj na prvom iPhoneu. Na drugom otvorite Everdisk, idite na karticu Uređaji, dodirnite Nova veza, odaberite FTP i unesite adresu prikazanu na prvom telefonu. Radi i namjenska FTP aplikacija za iOS jer iOS aplikacija Datoteke ne uključuje FTP klijent.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Je li FTP siguran?" closed="true" %}}
+{{% ls-details title="Je li FTP siguran?" closed="true" %}}
 Obični FTP ne šifrira svoj promet, pa ga tretirajte kao alat za mreže kojima vjerujete, poput svoje kućne Wi-Fi mreže. Na mreži koju ne kontrolirate koristite SMB poslužitelj s uključenim Zahtijevaj SMB šifriranje, koji štiti svaki prijenos.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Koji se uređaji mogu povezati putem FTP-a?" closed="true" %}}
+{{% ls-details title="Koji se uređaji mogu povezati putem FTP-a?" closed="true" %}}
 Gotovo sve s FTP klijentom. To uključuje računala s Macom, Windowsom i Linuxom, FTP aplikacije poput FileZille i Cyberducka, Android upravitelje datoteka te hardver poput kamera, pametnih TV-a, usmjerivača, NAS kutija i alata za automatizaciju. Taj širok domet glavni je razlog da odaberete FTP.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Zašto mi je FTP veza prekinuta?" closed="true" %}}
+{{% ls-details title="Zašto mi je FTP veza prekinuta?" closed="true" %}}
 Vaš je iPhone poslužitelj, a iOS pauzira aplikacije koje predugo ostaju u pozadini. Dok je uređaj povezan, držite Everdisk otvorenim na zaslonu i priključite na napajanje za duge prijenose. Provjerite i jesu li oba uređaja i dalje na istoj Wi-Fi mreži.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Je li Everdisk besplatan?" closed="true" %}}
+{{% ls-details title="Je li Everdisk besplatan?" closed="true" %}}
 Da, Everdisk je besplatan za preuzimanje, a FTP poslužitelj je uključen. Neobvezna jednokratna Premium kupnja dodaje dodatke poput prilagođenih portova te pretvorbe fotografija i videa. FTP možete postaviti i prenositi datoteke bez plaćanja.
-{{% /details %}}
+{{% /ls-details %}}
 
 Spremni za isprobati? [Preuzmite Everdisk s App Storea](https://apps.apple.com/app/apple-store/id6751851132?pt=95781850&ct=everappzcom&mt=8) i povežite svoj prvi FTP klijent u nekoliko minuta. Pitanja ili povratne informacije? Pišite nam na **support@everappz.com**.

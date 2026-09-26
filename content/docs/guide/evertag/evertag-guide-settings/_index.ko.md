@@ -21,7 +21,7 @@ readingTime: 14
 - **법적 정보 및 개인 정보 보호** — 이용 약관, 개인 정보 처리 방침, 법적 공지, 분석 및 데이터 수집
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evertag 설정 화면" image="/docs/guide/evertag/img/settings.webp" >}}
+  {{< ls-card title="" subtitle="Evertag 설정 화면" image="/docs/guide/evertag/img/settings.webp" >}}
 {{< /cards >}}
 
 ## 프리미엄으로 업그레이드
@@ -63,7 +63,7 @@ readingTime: 14
 파일 관리자는 연결된 클라우드 스토리지 계정에 대한 액세스를 지원하고 여러 파일의 빠른 관리를 위한 일괄 작업을 제공합니다.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evertag 설정 파일 관리자 화면" image="/docs/guide/evertag/img/settings-file-manager.webp" >}}
+  {{< ls-card title="" subtitle="Evertag 설정 파일 관리자 화면" image="/docs/guide/evertag/img/settings-file-manager.webp" >}}
 {{< /cards >}}
 
 ### 파일 전송
@@ -103,7 +103,7 @@ readingTime: 14
 이 섹션에서 내장 오디오 태그 편집기를 구성할 수 있습니다.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evertag 설정 태그 편집기 화면" image="/docs/guide/evertag/img/settings-tag-editor.webp" >}}
+  {{< ls-card title="" subtitle="Evertag 설정 태그 편집기 화면" image="/docs/guide/evertag/img/settings-tag-editor.webp" >}}
 {{< /cards >}}
 
 ### 앨범 커버 크기 조정
@@ -136,7 +136,7 @@ readingTime: 14
 이 섹션에서 기본 설정에 맞게 사용자 인터페이스 설정을 사용자 지정할 수 있습니다.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evertag 설정 개인화 화면" image="/docs/guide/evertag/img/settings-personalization.webp" >}}
+  {{< ls-card title="" subtitle="Evertag 설정 개인화 화면" image="/docs/guide/evertag/img/settings-personalization.webp" >}}
 {{< /cards >}}
 
 ### 앱 아이콘

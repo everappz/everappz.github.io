@@ -74,18 +74,18 @@ tags: ["evervideo", "οδηγός", "βιντεοαναπαραγωγός", "PiP
 
 {{< cards cols="2">}}
 
-{{< card icon="map" link="/docs/guide/evervideo/evervideo-guide-navigation" title="Πλοήγηση" subtitle="Tab Bar στο iPhone, αριστερό μενού σε iPad και Mac, compact always-on-screen media player." >}}
+{{< ls-card icon="map" link="/docs/guide/evervideo/evervideo-guide-navigation" title="Πλοήγηση" subtitle="Tab Bar στο iPhone, αριστερό μενού σε iPad και Mac, compact always-on-screen media player." >}}
 
-{{< card icon="folder" link="/docs/guide/evervideo/evervideo-guide-files" title="Αρχεία" subtitle="Ένα ενοποιημένο tab για cloud, NAS, ροές RTSP, τοπικά αρχεία, μονάδες USB και την ουρά μεταφορών." >}}
+{{< ls-card icon="folder" link="/docs/guide/evervideo/evervideo-guide-files" title="Αρχεία" subtitle="Ένα ενοποιημένο tab για cloud, NAS, ροές RTSP, τοπικά αρχεία, μονάδες USB και την ουρά μεταφορών." >}}
 
-{{< card icon="collection" link="/docs/guide/evervideo/evervideo-guide-video-library" title="Βιβλιοθήκη Πολυμέσων" subtitle="Περιήγηση κατά Άλμπουμ, Είδη, Πρόσφατα, Αγαπημένα — συν τη βιβλιοθήκη Φωτογραφιών iOS και Apple Music." >}}
+{{< ls-card icon="collection" link="/docs/guide/evervideo/evervideo-guide-video-library" title="Βιβλιοθήκη Πολυμέσων" subtitle="Περιήγηση κατά Άλμπουμ, Είδη, Πρόσφατα, Αγαπημένα — συν τη βιβλιοθήκη Φωτογραφιών iOS και Apple Music." >}}
 
-{{< card icon="music-note" link="/docs/guide/evervideo/evervideo-guide-playlists" title="Λίστες αναπαραγωγής" subtitle="Δημιουργία λιστών αναπαραγωγής από cloud, τοπικά αρχεία, Φωτογραφίες ή βιβλιοθήκη Μουσικής, εισαγωγή M3U / M3U8 / CUE." >}}
+{{< ls-card icon="music-note" link="/docs/guide/evervideo/evervideo-guide-playlists" title="Λίστες αναπαραγωγής" subtitle="Δημιουργία λιστών αναπαραγωγής από cloud, τοπικά αρχεία, Φωτογραφίες ή βιβλιοθήκη Μουσικής, εισαγωγή M3U / M3U8 / CUE." >}}
 
-{{< card icon="play" link="/docs/guide/evervideo/evervideo-guide-player" title="Media Player" subtitle="Picture-in-Picture, ηχητικοί και βιντεοτράκ, υπότιτλοι, ισοσταθμιστές ήχου + βίντεο, AirPlay, Chromecast." >}}
+{{< ls-card icon="play" link="/docs/guide/evervideo/evervideo-guide-player" title="Media Player" subtitle="Picture-in-Picture, ηχητικοί και βιντεοτράκ, υπότιτλοι, ισοσταθμιστές ήχου + βίντεο, AirPlay, Chromecast." >}}
 
-{{< card icon="adjustments" link="/docs/guide/evervideo/evervideo-guide-settings" title="Ρυθμίσεις" subtitle="Μηχανή ήχου, αποκωδικοποιητής βίντεο, υπότιτλοι, βιβλιοθήκη, διαχειριστής αρχείων, widgets, εξατομίκευση, γλώσσα, αντίγραφο ασφαλείας." >}}
+{{< ls-card icon="adjustments" link="/docs/guide/evervideo/evervideo-guide-settings" title="Ρυθμίσεις" subtitle="Μηχανή ήχου, αποκωδικοποιητής βίντεο, υπότιτλοι, βιβλιοθήκη, διαχειριστής αρχείων, widgets, εξατομίκευση, γλώσσα, αντίγραφο ασφαλείας." >}}
 
-{{< card icon="question-mark-circle" link="/docs/faq/evervideo" title="FAQ" subtitle="Βρείτε απαντήσεις στις πιο συχνές ερωτήσεις σχετικά με το Evervideo." >}}
+{{< ls-card icon="question-mark-circle" link="/docs/faq/evervideo" title="FAQ" subtitle="Βρείτε απαντήσεις στις πιο συχνές ερωτήσεις σχετικά με το Evervideo." >}}
 
 {{< /cards >}}

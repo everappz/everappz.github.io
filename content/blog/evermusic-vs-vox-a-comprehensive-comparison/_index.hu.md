@@ -14,7 +14,7 @@ authors:
     image: "/images/about/artem-meleshko-founder-everappz.webp"
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 **Összefoglalva:** Az Evermusic 8-ból 5 kategóriában nyer, 3 döntetlennel. Szélesebb felhőtárhely-támogatást kínál (12+ szolgáltatás szemben a kizárólag VOX Cloud-dal), beépített hangoskönyv-funkciókat, ID3 címkeszerkesztőt és vezeték nélküli fájlátvitelt. A VOX azoknak a felhasználóknak vonzó, akik a saját felhőjét és minimalista dizájnját részesítik előnyben.
 
@@ -34,8 +34,8 @@ Az **Evermusic** és a **VOX** két népszerű iOS zenelejátszó audiofil és h
 | Akadálymentesítés (VoiceOver) | Igen | Igen | Döntetlen |
 
 {{< cards >}}
-  {{< card link="https://apps.apple.com/us/app/evermusic-cloud-music-player/id885367198" title="Evermusic letöltése" icon="download" tag="Ingyenes" >}}
-  {{< card link="https://apps.apple.com/us/app/vox-mp3-flac-music-player/id916215494" title="VOX letöltése" icon="download" tag="Ingyenes" >}}
+  {{< ls-card link="https://apps.apple.com/us/app/evermusic-cloud-music-player/id885367198" title="Evermusic letöltése" icon="download" tag="Ingyenes" >}}
+  {{< ls-card link="https://apps.apple.com/us/app/vox-mp3-flac-music-player/id916215494" title="VOX letöltése" icon="download" tag="Ingyenes" >}}
 {{< /cards >}}
 
 ## Felhőtárhely-támogatás
@@ -107,18 +107,18 @@ A legtöbb iOS-felhasználó számára, aki saját zenegyűjteményét kezeli, a
 
 ## Gyakran ismételt kérdések
 
-{{% details title="Az Evermusic jó alternatíva a VOX-hoz?" closed="true" %}}
+{{% ls-details title="Az Evermusic jó alternatíva a VOX-hoz?" closed="true" %}}
 Igen. Az Evermusic 12+ felhőtárhely-szolgáltatást támogat a VOX kizárólag saját felhőjéhez képest. Hangoskönyv-funkciókat, ID3 címkeszerkesztést és Wi-Fi fájlátvitelt is kínál, amelyek a VOX-ból hiányoznak. Az Evermusic ingyenesen letölthető, egyszeri Premium frissítés érhető el.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Támogatja a VOX a Dropbox-ot vagy a Google Drive-ot?" closed="true" %}}
+{{% ls-details title="Támogatja a VOX a Dropbox-ot vagy a Google Drive-ot?" closed="true" %}}
 Nem. A VOX a saját VOX Cloud tárhelyét használja. Nem csatlakozik harmadik fél szolgáltatásaihoz, mint a Dropbox, Google Drive vagy OneDrive. Az Evermusic mindezt és még többet is támogat.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Melyik alkalmazás jobb hangoskönyvekhez: Evermusic vagy VOX?" closed="true" %}}
+{{% ls-details title="Melyik alkalmazás jobb hangoskönyvekhez: Evermusic vagy VOX?" closed="true" %}}
 Az Evermusic jelentősen jobb hangoskönyvekhez. Tartalmaz lejátszási sebesség szabályozást, automatikus pozíciómentést és könyvjelző-támogatást. A VOX nem rendelkezik dedikált hangoskönyv-funkciókkal.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Szerkeszthetem a zenei címkéket iPhone-on az Evermusic-kal?" closed="true" %}}
+{{% ls-details title="Szerkeszthetem a zenei címkéket iPhone-on az Evermusic-kal?" closed="true" %}}
 Igen. Az Evermusic beépített ID3 címkeszerkesztőt tartalmaz, amellyel közvetlenül az iPhone-odon vagy iPadeden javíthatod a számcímeket, előadóneveket, albuminformációkat és egyéb metaadatokat.
-{{% /details %}}
+{{% /ls-details %}}

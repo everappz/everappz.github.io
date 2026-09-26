@@ -11,7 +11,7 @@ readingTime: 3
 Evervideo 提供免費版（具有一定使用限制）和高級版（具有額外功能，可透過應用程式內購買解鎖）兩個版本。
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="預設方案升級介面" image="/docs/faq/evervideo/what-is-the-difference-between-evervideo-and-evervideo-premium/upgrade-default.webp" >}}
+  {{< ls-card title="" subtitle="預設方案升級介面" image="/docs/faq/evervideo/what-is-the-difference-between-evervideo-and-evervideo-premium/upgrade-default.webp" >}}
 {{< /cards >}}
 
 ## 選擇您的 Premium 方案
@@ -19,7 +19,7 @@ Evervideo 提供免費版（具有一定使用限制）和高級版（具有額�
 應用程式的免費版提供一次性買斷應用程式內購買和兩種訂閱選項（1個月和1年），以解除所有限制並升級到 Premium 版本，讓您選擇最好且最優惠的價格。價格可能因您的國家或地區而異。另外請記住，**Family Sharing** 已為所有購買和方案啟用，因此您可以與家庭成員共享 Premium 版本。
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evervideo 方案選擇介面" image="/docs/faq/evervideo/what-is-the-difference-between-evervideo-and-evervideo-premium/plan-select.webp" >}}
+  {{< ls-card title="" subtitle="Evervideo 方案選擇介面" image="/docs/faq/evervideo/what-is-the-difference-between-evervideo-and-evervideo-premium/plan-select.webp" >}}
 {{< /cards >}}
 
 ## 在 iOS 和 Mac 之間共享購買
@@ -31,13 +31,13 @@ Evervideo 提供免費版（具有一定使用限制）和高級版（具有額�
 要在新裝置上還原購買，只需使用「還原購買」選單。您將看到您的購買清單。如果您看不到所有購買，請檢查裝置是否連接到了用於購買的同一 iTunes 帳戶，並確保 iCloud 已啟用。
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="購買已還原介面" image="/docs/faq/evervideo/what-is-the-difference-between-evervideo-and-evervideo-premium/purchase-restored.webp" >}}
+  {{< ls-card title="" subtitle="購買已還原介面" image="/docs/faq/evervideo/what-is-the-difference-between-evervideo-and-evervideo-premium/purchase-restored.webp" >}}
 {{< /cards >}}
 
 升級應用程式後，您將看到 Premium 狀態介面，其中包含目前購買的詳情。
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="您正在使用 Premium 介面" image="/docs/faq/evervideo/what-is-the-difference-between-evervideo-and-evervideo-premium/you-are-using-premium.webp" >}}
+  {{< ls-card title="" subtitle="您正在使用 Premium 介面" image="/docs/faq/evervideo/what-is-the-difference-between-evervideo-and-evervideo-premium/you-are-using-premium.webp" >}}
 {{< /cards >}}
 
 ## 免費試用 Premium
@@ -45,7 +45,7 @@ Evervideo 提供免費版（具有一定使用限制）和高級版（具有額�
 此外，還有一個限時機會「**免費試用 Premium**」。您可以透過「免費試用 Premium」選單存取此功能。只需觀看一個廣告或向朋友推廣應用程式，您就可以在此促銷期間免費解鎖 Premium 版本。這為您提供了無需任何財務承諾即可體驗 Premium 功能的機會。
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="免費試用 Premium 介面" image="/docs/faq/evervideo/what-is-the-difference-between-evervideo-and-evervideo-premium/premium-for-free.webp" >}}
+  {{< ls-card title="" subtitle="免費試用 Premium 介面" image="/docs/faq/evervideo/what-is-the-difference-between-evervideo-and-evervideo-premium/premium-for-free.webp" >}}
 {{< /cards >}}
 
 ## Evervideo 免費版
@@ -62,7 +62,7 @@ Evervideo 提供免費版（具有一定使用限制）和高級版（具有額�
 - 沒有自訂或個人化選項。
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="升級雲端儲存介面" image="/docs/faq/evervideo/what-is-the-difference-between-evervideo-and-evervideo-premium/upgrade-cloud-storage.webp" >}}
+  {{< ls-card title="" subtitle="升級雲端儲存介面" image="/docs/faq/evervideo/what-is-the-difference-between-evervideo-and-evervideo-premium/upgrade-cloud-storage.webp" >}}
 {{< /cards >}}
 
 ## Evervideo Premium
@@ -106,7 +106,7 @@ Evervideo 提供免費版（具有一定使用限制）和高級版（具有額�
 另一方面，**Evervideo Premium** 解鎖了完整體驗。您將享受無廣告介面、無限播放清單和佇列支援、完整離線功能、雲端儲存彈性以及進階匯出和個人化選項。對於擁有大型影片資料庫、從多個來源觀看內容或追求更專業、更流暢媒體播放器的使用者來說，這是最佳選擇。
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="您已購買 Premium 介面" image="/docs/faq/evervideo/what-is-the-difference-between-evervideo-and-evervideo-premium/you-have-purchased-premium.webp" >}}
+  {{< ls-card title="" subtitle="您已購買 Premium 介面" image="/docs/faq/evervideo/what-is-the-difference-between-evervideo-and-evervideo-premium/you-have-purchased-premium.webp" >}}
 {{< /cards >}}
 
 如果您追求彈性，請嘗試**月付方案**。如需長期價值，請選擇**年付**或**買斷**升級——兩者均以更優惠的價格提供完整存取權限。

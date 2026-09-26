@@ -12,7 +12,7 @@ authors:
     image: "/images/about/artem-meleshko-founder-everappz.webp"
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 **Tóm tắt:** [Evertag 4.2](/products/evertag) là một bản cập nhật lớn cho trình chỉnh sửa thẻ âm thanh trên iPhone, iPad và Mac. Chúng tôi đã xử lý các lỗi quan trọng trong chỉnh sửa thẻ và bổ sung hơn 6 kết nối đám mây và máy chủ mới — **Internxt**, **Proton Drive**, **QNAP**, **Nextcloud**, **Amazon S3**, cùng các giao thức **FTP**, **SFTP** và **NFS**. Wi-Fi Drive được làm mới giao diện, có chế độ chọn nhiều, hàng đợi tải lên thông minh hơn và truyền nhanh hơn. Toàn bộ ứng dụng được tinh chỉnh cho thiết kế **Liquid Glass**. Bài viết này cũng đi sâu vào các cài đặt của trình chỉnh sửa thẻ Evertag — giải thích **ID3v2.4 vs ID3v2.3**, **co giãn ảnh bìa album**, **sao chép thẻ**, **các chế độ tải lên đám mây**, **xóa tệp đã tải xuống** và chính xác những tùy chọn nào cần chọn nếu bạn đang chuẩn bị âm thanh cho **Spotify**, **Apple Music**, **Plex**, **Jellyfin** hay bất kỳ dịch vụ phát trực tuyến nào khác.
 
@@ -229,50 +229,50 @@ Nếu bạn yêu thích ứng dụng, vui lòng để lại đánh giá trên Ap
 
 ## Câu hỏi thường gặp
 
-{{% details title="Có gì mới trong Evertag 4.2?" closed="true" %}}
+{{% ls-details title="Có gì mới trong Evertag 4.2?" closed="true" %}}
 Evertag 4.2 thêm hơn 6 kết nối đám mây và máy chủ mới (Internxt, Proton Drive, QNAP, Nextcloud, Amazon S3, FTP, SFTP, NFS), Wi-Fi Drive được làm mới với chế độ chọn nhiều và hàng đợi tải lên thông minh hơn, các cập nhật giao diện Liquid Glass, các thư viện kết nối được cập nhật, các bản sửa lỗi quan trọng trong chỉnh sửa thẻ và các cải tiến về bản dịch.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Trong Evertag nên dùng ID3v2.4 hay ID3v2.3?" closed="true" %}}
+{{% ls-details title="Trong Evertag nên dùng ID3v2.4 hay ID3v2.3?" closed="true" %}}
 Dùng **ID3v2.4** cho các trình phát hiện đại (Evermusic, Plex, Jellyfin, Apple Music, foobar2000, VLC, các ứng dụng Android hiện đại) và cho các thư viện chứa ký tự không phải Latin — hỗ trợ UTF-8 đồng nghĩa thẻ tiếng Trung, Hàn, Nhật, Nga, Ả Rập và Do Thái sạch sẽ hơn. Dùng **ID3v2.3** nếu thẻ của bạn hiển thị sai trong một số ứng dụng, nếu bạn nhắm tới dàn âm thanh ô tô cũ hơn, hoặc nếu một quy trình của nhà phân phối phát trực tuyến từ chối v2.4. Bạn luôn có thể chuyển và lưu lại.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Vì sao thẻ của tôi sai trong Spotify sau khi chỉnh sửa?" closed="true" %}}
+{{% ls-details title="Vì sao thẻ của tôi sai trong Spotify sau khi chỉnh sửa?" closed="true" %}}
 Spotify chủ yếu hiển thị metadata từ danh mục riêng của họ — thẻ cục bộ của bạn chỉ được dùng cho «Local Files» hoặc nội dung bạn đã tải lên với tư cách nghệ sĩ. Nếu bạn gắn thẻ tệp cho Spotify Local Files mà chúng không hiển thị đúng, hãy thử tắt ID3v2.4 trong Evertag và lưu dưới dạng ID3v2.3 — bộ phân tích cú pháp của Spotify trong lịch sử thận trọng với v2.4.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Trong Evertag nên chọn kích thước ảnh bìa album nào?" closed="true" %}}
+{{% ls-details title="Trong Evertag nên chọn kích thước ảnh bìa album nào?" closed="true" %}}
 Với hầu hết người dùng: **Lớn**. Trông tuyệt trên điện thoại, iPad, Mac và màn hình ô tô hiện đại mà không làm phình các tệp quá nhiều. Dùng **Trung bình** nếu thư viện rất lớn và bạn muốn tiết kiệm dung lượng. Chỉ dùng **Gốc** (không co giãn) cho master lưu trữ hoặc khi bạn thật sự cần chất lượng tối đa — nhưng lưu ý rằng một số trình phát cũ có thể gặp khó khăn với ảnh bìa nhúng rất lớn. **Gốc** thuộc bản nâng cấp tùy chỉnh cao cấp của Evertag.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Ảnh bìa lớn hơn có làm tệp của tôi to hơn không?" closed="true" %}}
+{{% ls-details title="Ảnh bìa lớn hơn có làm tệp của tôi to hơn không?" closed="true" %}}
 Có. Nhúng ảnh bìa 3.000 × 3.000 px có thể thêm vài megabyte cho một tệp âm thanh duy nhất. Trên thư viện 1.000 bản, con số đó lên tới gigabyte. Nếu hạn chế dung lượng, dùng Trung bình hoặc Lớn; nếu bạn phát từ NAS không quan tâm kích thước, Rất lớn hoặc Gốc cũng được.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Sao chép thẻ là gì và có nên bật không?" closed="true" %}}
+{{% ls-details title="Sao chép thẻ là gì và có nên bật không?" closed="true" %}}
 Sao chép thẻ ghi metadata cốt lõi vào cả ID3v1 (di sản 128 byte) và ID3v2 (hiện đại) của tệp. Chỉ bật nếu bạn nhắm tới các trình phát rất cũ hoặc phần cứng đọc ID3v1. Với mọi thiết bị hiện đại (smartphone, máy tính, dàn âm thanh ô tô đời mới), hãy để tắt.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Evertag có chỉnh sửa thẻ trực tiếp trên tệp đám mây không?" closed="true" %}}
+{{% ls-details title="Evertag có chỉnh sửa thẻ trực tiếp trên tệp đám mây không?" closed="true" %}}
 Có. Kết nối tới đám mây của bạn (Google Drive, Dropbox, OneDrive, iCloud Drive, Internxt, Proton Drive, QNAP, Nextcloud, Amazon S3, v.v.) hoặc qua FTP/SFTP/NFS, mở một tệp và chỉnh sửa thẻ như thể nó là cục bộ. Evertag tải tệp về, áp dụng các chỉnh sửa của bạn, rồi tải bản đã cập nhật lên lại. Bạn có thể chọn giữa các chế độ «Luôn hỏi», «Tự động tải lên» hoặc «Không tải lên» trong cài đặt.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Có thể chỉnh sửa thẻ FLAC trên iPhone bằng Evertag không?" closed="true" %}}
+{{% ls-details title="Có thể chỉnh sửa thẻ FLAC trên iPhone bằng Evertag không?" closed="true" %}}
 Có. Evertag hỗ trợ FLAC, MP3, M4A/MP4, AIFF, WAV, OGG, APE và các định dạng quan trọng khác với hỗ trợ đầy đủ đọc/ghi thẻ, bao gồm ảnh bìa nhúng.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Làm thế nào để chỉnh sửa thẻ an toàn trên máy chủ tại nhà bằng SFTP?" closed="true" %}}
+{{% ls-details title="Làm thế nào để chỉnh sửa thẻ an toàn trên máy chủ tại nhà bằng SFTP?" closed="true" %}}
 Mở Evertag, vào Connections, chọn SFTP và nhập tên máy chủ hoặc IP, cổng (thường là 22), tên người dùng và mật khẩu hoặc khóa SSH riêng. Evertag sẽ duyệt các thư mục từ xa của bạn và chỉnh sửa thẻ trực tiếp với mã hóa đầu cuối qua SSH.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Có thể chỉnh sửa thẻ cùng lúc trên nhiều tệp không?" closed="true" %}}
+{{% ls-details title="Có thể chỉnh sửa thẻ cùng lúc trên nhiều tệp không?" closed="true" %}}
 Có. Bật **Chỉnh sửa tệp đồng thời** trong cài đặt. Chọn nhiều tệp, mở trình chỉnh sửa thẻ và bất kỳ trường nào bạn thay đổi sẽ áp dụng cho tất cả các tệp đã chọn. Đây là cách nhanh nhất để đặt cùng một album artist, năm hoặc thể loại cho toàn bộ album.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Cập nhật lên Evertag 4.2 có miễn phí không?" closed="true" %}}
+{{% ls-details title="Cập nhật lên Evertag 4.2 có miễn phí không?" closed="true" %}}
 Có. Evertag là bản tải miễn phí từ App Store, và 4.2 là bản cập nhật miễn phí cho mọi người dùng hiện có. Các tích hợp đám mây mới, cải tiến Wi-Fi Drive và giao diện Liquid Glass đều thuộc bản cập nhật cơ sở.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Evertag 4.2 có sẵn trên thiết bị nào?" closed="true" %}}
+{{% ls-details title="Evertag 4.2 có sẵn trên thiết bị nào?" closed="true" %}}
 Evertag 4.2 chạy trên iPhone, iPad và Mac. Đồng bộ iCloud Drive giữ cho cài đặt trình chỉnh sửa thẻ của bạn nhất quán giữa các thiết bị.
-{{% /details %}}
+{{% /ls-details %}}

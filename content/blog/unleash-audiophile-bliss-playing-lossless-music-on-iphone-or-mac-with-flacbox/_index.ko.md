@@ -12,7 +12,7 @@ authors:
     image: "/images/about/artem-meleshko-founder-everappz.webp"
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 **요약:** [App Store에서 Flacbox](https://apps.apple.com/us/app/flacbox-flac-player-music/id1097564256?mt=8)를 설치하여 iPhone과 Mac에서 FLAC, DSD, ALAC 및 120개 이상의 오디오 형식을 재생하세요. iTunes 파일 공유, Wi-Fi Drive 또는 클라우드 저장소를 통해 파일을 가져오세요. 파일 변환이 필요 없습니다. Flacbox는 무손실 형식을 네이티브로 디코딩하여 완전한 스튜디오 품질 재생을 제공합니다.
 
@@ -114,26 +114,26 @@ Mac App Store에서 Flacbox를 다운로드하세요. macOS 버전은 iOS와 동
 
 ## 자주 묻는 질문
 
-{{< details title="Flacbox는 무손실 파일 재생에 구독이 필요한가요?" closed="true" >}}
+{{< ls-details title="Flacbox는 무손실 파일 재생에 구독이 필요한가요?" closed="true" >}}
 Flacbox는 구독 없이 핵심 재생 기능을 제공합니다. 앱 다운로드 후 바로 FLAC, DSD, ALAC 및 기타 무손실 형식을 가져와 재생할 수 있습니다. 클라우드 스트리밍과 추가 사용자 정의 옵션 같은 일부 고급 기능은 프리미엄 업그레이드가 필요할 수 있지만, 기본 무손실 재생은 즉시 사용 가능합니다.
-{{< /details >}}
+{{< /ls-details >}}
 
-{{< details title="Flacbox는 DSD 파일을 PCM으로 변환하지 않고 재생할 수 있나요?" closed="true" >}}
+{{< ls-details title="Flacbox는 DSD 파일을 PCM으로 변환하지 않고 재생할 수 있나요?" closed="true" >}}
 네, Flacbox는 DSD64, DSD128, DSD256 형식을 포함한 네이티브 DSD 재생을 지원합니다. 앱은 DSD 스트림을 직접 디코딩하여 형식의 고유한 음질 특성을 보존합니다. 최상의 결과를 위해 DSD 호환 외부 DAC와 함께 사용하세요.
-{{< /details >}}
+{{< /ls-details >}}
 
-{{< details title="대규모 무손실 음악 컬렉션을 iPhone으로 어떻게 전송하나요?" closed="true" >}}
+{{< ls-details title="대규모 무손실 음악 컬렉션을 iPhone으로 어떻게 전송하나요?" closed="true" >}}
 Flacbox는 대규모 라이브러리를 위한 여러 전송 옵션을 제공합니다. Wi-Fi Drive를 사용하면 로컬 네트워크의 모든 브라우저에서 파일을 업로드할 수 있습니다. Mac의 Finder를 통한 iTunes 파일 공유를 사용하거나 Google Drive나 Dropbox 같은 클라우드 저장소 서비스를 연결할 수도 있습니다. 매우 큰 컬렉션의 가장 빠른 전송을 위해 Lightning 또는 USB-C 어댑터를 사용하여 외부 드라이브를 직접 연결하세요.
-{{< /details >}}
+{{< /ls-details >}}
 
-{{< details title="Flacbox에서 FLAC과 ALAC의 음질 차이가 있나요?" closed="true" >}}
+{{< ls-details title="Flacbox에서 FLAC과 ALAC의 음질 차이가 있나요?" closed="true" >}}
 FLAC과 ALAC 모두 무손실 코덱이므로 디코딩 시 동일한 오디오 출력을 생성합니다. 차이점은 호환성과 압축 효율성에 있습니다. FLAC은 플랫폼 간 더 널리 사용되며 일반적으로 약간 더 나은 압축률을 달성하고, ALAC는 Apple의 네이티브 무손실 형식입니다. Flacbox는 두 형식 모두 동일한 충실도로 처리합니다.
-{{< /details >}}
+{{< /ls-details >}}
 
-{{< details title="iPhone에서 FLAC 파일을 재생하는 가장 좋은 방법은 무엇인가요?" closed="true" >}}
+{{< ls-details title="iPhone에서 FLAC 파일을 재생하는 가장 좋은 방법은 무엇인가요?" closed="true" >}}
 App Store에서 Flacbox를 설치한 다음 iTunes 파일 공유, Wi-Fi Drive, 클라우드 저장소 또는 USB/Lightning 외부 드라이브를 사용하여 FLAC 파일을 가져오세요. Flacbox는 32-bit/384 kHz까지의 해상도를 지원하며 변환 없이 FLAC를 네이티브로 디코딩합니다. 최상의 오디오 품질을 위해 전용 USB-C 또는 Lightning DAC와 함께 사용하세요.
-{{< /details >}}
+{{< /ls-details >}}
 
-{{< details title="Flacbox는 NAS와 홈 서버에서 작동하나요?" closed="true" >}}
+{{< ls-details title="Flacbox는 NAS와 홈 서버에서 작동하나요?" closed="true" >}}
 네. Flacbox는 SMB, WebDAV, DLNA 프로토콜을 통해 NAS 장치와 홈 서버에 연결됩니다. Mac에서는 네트워크 위치를 직접 추가할 수 있습니다. iOS에서는 클라우드/네트워크 소스 메뉴를 통해 연결하세요. 이를 통해 파일을 기기에 복사하지 않고도 무손실 라이브러리를 스트리밍할 수 있습니다.
-{{< /details >}}
+{{< /ls-details >}}

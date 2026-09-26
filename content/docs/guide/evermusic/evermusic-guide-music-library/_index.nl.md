@@ -15,7 +15,7 @@ readingTime: 11
 Het beheren van uw muziekbibliotheek is een fluitje van een cent met Evermusic, waar u moeiteloos al uw nummers kunt organiseren. U heeft twee opties voor het opbouwen van uw muziekbibliotheek: handmatige toevoeging of automatische synchronisatie.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evermusic scherm muziekbibliotheek" image="/docs/guide/evermusic/evermusic-guide-music-library/img/music-library-main.webp" >}}
+  {{< ls-card title="" subtitle="Evermusic scherm muziekbibliotheek" image="/docs/guide/evermusic/evermusic-guide-music-library/img/music-library-main.webp" >}}
 {{< /cards >}}
 
 ## Handmatige toevoeging
@@ -23,7 +23,7 @@ Het beheren van uw muziekbibliotheek is een fluitje van een cent met Evermusic, 
 Om nummers handmatig toe te voegen, tikt u op het menu-item "Muziek toevoegen" en selecteert u mappen/bestanden van de verbonden cloudopslagservice of bestanden op uw apparaat. Wanneer u nummers aan de bibliotheek toevoegt, worden alleen koppelingen naar die nummers gemaakt, waarbij de eigenlijke bestanden op hun oorspronkelijke locaties bewaard blijven om waardevolle schijfruimte te besparen. Als u nummers offline beschikbaar wilt maken, kunt u de downloadactie gebruiken in het opties-menu of de offline modus inschakelen voor afspeellijsten en nummerscollecties.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Nummers toevoegen aan de muziekbibliotheek" image="/docs/guide/evermusic/evermusic-guide-music-library/img/music-library-add-songs.webp" >}}
+  {{< ls-card title="" subtitle="Nummers toevoegen aan de muziekbibliotheek" image="/docs/guide/evermusic/evermusic-guide-music-library/img/music-library-add-songs.webp" >}}
 {{< /cards >}}
 
 ## Snelle toegang
@@ -75,7 +75,7 @@ Wanneer u nummers aan uw muziekbibliotheek toevoegt, leest de app automatisch hu
 Vlak onder de navigatiebalk biedt de bovenste werkbalk verschillende handige acties: "Zoeken", "Alles afspelen", "Alles willekeurig afspelen" en "Afspelen hervatten". U kunt deze werkbalk tonen of verbergen met een eenvoudige veegbeweging naar beneden.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Albumweergave — Gegroepeerd op muziektags" image="/docs/guide/evermusic/evermusic-guide-music-library/img/music-library-albums.webp" >}}
+  {{< ls-card title="" subtitle="Albumweergave — Gegroepeerd op muziektags" image="/docs/guide/evermusic/evermusic-guide-music-library/img/music-library-albums.webp" >}}
 {{< /cards >}}
 
 ## Zoeken
@@ -83,7 +83,7 @@ Vlak onder de navigatiebalk biedt de bovenste werkbalk verschillende handige act
 De zoekfunctie stelt u in staat een specifiek nummer, artiest, album of genre te vinden in uw muziekbibliotheek. Op het "Zoekscherm" heeft u toegang tot de volgende acties: "Sorteren", "Filteren", "Raster/Lijst".
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Zoekresultaten muziekbibliotheek" image="/docs/guide/evermusic/evermusic-guide-music-library/img/music-library-search.webp" >}}
+  {{< ls-card title="" subtitle="Zoekresultaten muziekbibliotheek" image="/docs/guide/evermusic/evermusic-guide-music-library/img/music-library-search.webp" >}}
 {{< /cards >}}
 
 ## Opties-menu
@@ -91,7 +91,7 @@ De zoekfunctie stelt u in staat een specifiek nummer, artiest, album of genre te
 Elk nummer in uw muziekbibliotheek heeft een menu met meer acties, toegankelijk door op de drie-puntjesknop naast de nummertitel te tikken. Deze acties variëren afhankelijk van of het een enkel nummer is of deel uitmaakt van een collectie.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Meer acties voor een bibliotheekitem" image="/docs/guide/evermusic/evermusic-guide-music-library/img/music-library-item-more-actions.webp" >}}
+  {{< ls-card title="" subtitle="Meer acties voor een bibliotheekitem" image="/docs/guide/evermusic/evermusic-guide-music-library/img/music-library-item-more-actions.webp" >}}
 {{< /cards >}}
 
 ### Voor individuele nummers
@@ -126,7 +126,7 @@ Voor nummerscollecties zoals Albums, Artiesten, Genres of Componisten bevat het 
 U kunt de selectiemodus activeren via de knop Meer acties in de rechterbovenhoek. In deze modus kunt u meerdere nummers selecteren en verschillende acties uitvoeren.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Selectiemodus in de muziekbibliotheek" image="/docs/guide/evermusic/evermusic-guide-music-library/img/music-library-selection-mode.webp" >}}
+  {{< ls-card title="" subtitle="Selectiemodus in de muziekbibliotheek" image="/docs/guide/evermusic/evermusic-guide-music-library/img/music-library-selection-mode.webp" >}}
 {{< /cards >}}
 
 ## Tags groeperen
@@ -146,7 +146,7 @@ Deze categorieën helpen u uw nummers te organiseren op muziektags: Nummers, Alb
 Wanneer u de secties Artiest, Albumartiest of Componist opent, ziet u een schakelaar voor Nummers/Alle albums/Exclusieve albums/Solo albums.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Albumdetails met schakelaar Nummers / Alle / Exclusief / Solo" image="/docs/guide/evermusic/evermusic-guide-music-library/img/music-library-album-details.webp" >}}
+  {{< ls-card title="" subtitle="Albumdetails met schakelaar Nummers / Alle / Exclusief / Solo" image="/docs/guide/evermusic/evermusic-guide-music-library/img/music-library-album-details.webp" >}}
 {{< /cards >}}
 
 - **Nummers**: Toont alle nummers waarbij deze Artiest/Albumartiest/Componist is ingesteld in de audiotags.
@@ -167,7 +167,7 @@ U kunt deze functie gebruiken om snel een nummer, artiest, album of genre in uw 
 Tik op het menu-item "Instellingen" om uw voorkeuren voor de muziekbibliotheek te configureren.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Instellingen muziekbibliotheek" image="/docs/guide/evermusic/evermusic-guide-music-library/img/music-library-settings.webp" >}}
+  {{< ls-card title="" subtitle="Instellingen muziekbibliotheek" image="/docs/guide/evermusic/evermusic-guide-music-library/img/music-library-settings.webp" >}}
 {{< /cards >}}
 
 #### Metadata lezen

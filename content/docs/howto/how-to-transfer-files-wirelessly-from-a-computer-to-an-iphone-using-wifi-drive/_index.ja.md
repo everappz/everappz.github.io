@@ -7,7 +7,7 @@ keywords: ["iPhoneにワイヤレスでファイル転送", "wifi driveファイ
 readingTime: 2
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **要約:** Wi-Fi Driveを使えば、どのパソコンからでもiPhoneやiPadにWi-Fi経由でファイルを転送できます -- iTunesやケーブルは不要です。Webブラウザ、Mac Finder、またはWindows File Explorerを使用してください。両方のデバイスが同じWi-Fiネットワークに接続されている必要があります。
@@ -18,7 +18,7 @@ Wi-Fi Driveは、iTunesなしでパソコンからiPhoneやiPadにファイル�
 
 [**TECHGUYPH**](https://www.youtube.com/channel/UCgpf09gGFE_c_3pPTtTpnzg)のビデオチュートリアルを視聴するか、以下のテキスト版をお読みください。
 <br><br>
-{{< youtubecard id="CqdqrQ0ge70" title="Can We Wirelessly Put Offline Music on iPhones?" >}}
+{{< ls-youtubecard id="CqdqrQ0ge70" title="Can We Wirelessly Put Offline Music on iPhones?" >}}
 
 ## デスクトップWebブラウザを使ってパソコンからワイヤレスでファイルを転送する
 
@@ -90,26 +90,26 @@ iTunesは不要です！
 
 ## よくある質問
 
-{{% details title="iPhoneにファイルを転送するのにiTunesは必要ですか？" closed="true" %}}
+{{% ls-details title="iPhoneにファイルを転送するのにiTunesは必要ですか？" closed="true" %}}
 いいえ。Wi-Fi Driveはローカルの Wi-Fiネットワークを介してファイルを直接転送します。iTunesは必要ありません。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="どのアプリがWi-Fi Driveをサポートしていますか？" closed="true" %}}
+{{% ls-details title="どのアプリがWi-Fi Driveをサポートしていますか？" closed="true" %}}
 Wi-Fi DriveはiOS用のEvermusic、Flacbox、Evertag、Evervideoで利用できます。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="両方のデバイスが同じWi-Fiネットワークに接続されている必要がありますか？" closed="true" %}}
+{{% ls-details title="両方のデバイスが同じWi-Fiネットワークに接続されている必要がありますか？" closed="true" %}}
 はい。Wi-Fi Driveが動作するには、パソコンとiPhoneまたはiPadが同じローカルWi-Fiネットワークに接続されている必要があります。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="個別のファイルだけでなく、フォルダ全体を転送できますか？" closed="true" %}}
+{{% ls-details title="個別のファイルだけでなく、フォルダ全体を転送できますか？" closed="true" %}}
 はい。Wi-Fi DriveはWebブラウザインターフェースを通じてフォルダ全体のアップロードとダウンロードをサポートしています。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Wi-Fi DriveはWindowsで動作しますか？" closed="true" %}}
+{{% ls-details title="Wi-Fi DriveはWindowsで動作しますか？" closed="true" %}}
 はい。Windows上の任意のWebブラウザを使用するか、WebDAVプロトコルを使用してWindows File Explorer経由で接続できます。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="USBケーブルを使って転送を高速化できますか？" closed="true" %}}
+{{% ls-details title="USBケーブルを使って転送を高速化できますか？" closed="true" %}}
 はい。Wi-Fi Driveの実行中にiPhoneがUSBでMacに接続されている場合、転送はケーブル接続を使用してより高速な速度を実現します。
-{{% /details %}}
+{{% /ls-details %}}

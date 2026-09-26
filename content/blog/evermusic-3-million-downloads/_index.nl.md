@@ -12,7 +12,7 @@ authors:
     image: "/images/about/artem-meleshko-founder-everappz.webp"
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 ## 3 Miljoen Downloads
 
@@ -98,22 +98,22 @@ Evermusic is gratis in de App Store met optionele premiumfuncties.
 
 ## Veelgestelde vragen
 
-{{% details title="Is Evermusic gratis te gebruiken?" closed="true" %}}
+{{% ls-details title="Is Evermusic gratis te gebruiken?" closed="true" %}}
 Ja. Evermusic is gratis te downloaden met kernfuncties zonder kosten. Premiumfuncties zoals de equalizer en geavanceerde cloudopties zijn beschikbaar via een optionele upgrade.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Kan Evermusic audioboeken afspelen?" closed="true" %}}
+{{% ls-details title="Kan Evermusic audioboeken afspelen?" closed="true" %}}
 Ja. Evermusic slaat je afspeelpositie op, ondersteunt bladwijzers, instelbare afspeelsnelheid (0,5x tot 2,0x) en slaaptimers — waardoor het geschikt is voor audioboeken en podcasts.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Met welke clouddiensten verbindt Evermusic?" closed="true" %}}
+{{% ls-details title="Met welke clouddiensten verbindt Evermusic?" closed="true" %}}
 Dropbox, Google Drive, OneDrive, Box, MEGA, Yandex.Disk, MyDrive, pCloud, HiDrive, SMB-bestandsshares en WebDAV-servers.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Kan ik een SD-kaart gebruiken met Evermusic?" closed="true" %}}
+{{% ls-details title="Kan ik een SD-kaart gebruiken met Evermusic?" closed="true" %}}
 Ja. Sluit een Lightning of USB-C SD-kaartlezer aan op je iPhone of iPad en stream muziek rechtstreeks vanaf de kaart via Evermusic.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Werkt Evermusic op Mac?" closed="true" %}}
+{{% ls-details title="Werkt Evermusic op Mac?" closed="true" %}}
 Ja. Evermusic is beschikbaar voor zowel iOS als macOS, met cloudstreaming en offline afspelen op alle platforms.
-{{% /details %}}
+{{% /ls-details %}}

@@ -20,7 +20,7 @@ readingTime: 7
 Οι λίστες αναπαραγωγής στο Flacbox μπορούν να περιέχουν συνδυασμό διαδικτυακών κομματιών cloud, αρχείων που έχουν ληφθεί εκτός σύνδεσης και τοπικών αρχείων από τη συσκευή σας — όλα σε μία λίστα — και αναπαράγονται απρόσκοπτα μαζί.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Κύρια Οθόνη Λιστών Αναπαραγωγής Flacbox" image="/docs/guide/flacbox/img/playlists-main.webp" >}}
+  {{< ls-card title="" subtitle="Κύρια Οθόνη Λιστών Αναπαραγωγής Flacbox" image="/docs/guide/flacbox/img/playlists-main.webp" >}}
 {{< /cards >}}
 
 ## Δημιουργία Λίστας Αναπαραγωγής
@@ -63,7 +63,7 @@ readingTime: 7
 - **Λειτουργία Εκτός Σύνδεσης** — λαμβάνει όλα τα κομμάτια αυτής της λίστας στα τοπικά αρχεία. Τυχόν νέα στοιχεία που προστίθενται στη λίστα λαμβάνονται επίσης αυτόματα.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Οθόνη Λεπτομερειών Λίστας Αναπαραγωγής Flacbox" image="/docs/guide/flacbox/img/playlist-details-screen.webp" >}}
+  {{< ls-card title="" subtitle="Οθόνη Λεπτομερειών Λίστας Αναπαραγωγής Flacbox" image="/docs/guide/flacbox/img/playlist-details-screen.webp" >}}
 {{< /cards >}}
 
 ## Περισσότερες Ενέργειες για Λίστα Αναπαραγωγής στην Κύρια Οθόνη Λιστών
@@ -82,7 +82,7 @@ readingTime: 7
 - **Διαγραφή Λίστας** — διαγράφει τη λίστα αναπαραγωγής από τη μουσική βιβλιοθήκη. **Αυτή η ενέργεια δεν μπορεί να αναιρεθεί.**
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox Περισσότερες Ενέργειες για Λίστα στην Κύρια Οθόνη" image="/docs/guide/flacbox/img/more-actions-for-playlist-in-playlists-main-screen.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox Περισσότερες Ενέργειες για Λίστα στην Κύρια Οθόνη" image="/docs/guide/flacbox/img/more-actions-for-playlist-in-playlists-main-screen.webp" >}}
 {{< /cards >}}
 
 ## Περισσότερες Ενέργειες για Λίστα Αναπαραγωγής στην Οθόνη Λεπτομερειών
@@ -110,7 +110,7 @@ readingTime: 7
 Για ακόμα απλούστερη ροή εργασίας σε μεγάλες λίστες, επιλέξτε Περισσότερες Ενέργειες → Αναδιάταξη Τραγουδιών για είσοδο σε αποκλειστική λειτουργία drag-and-drop.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox Αναδιάταξη Τραγουδιών σε Λίστα Αναπαραγωγής" image="/docs/guide/flacbox/img/playlist-details-rearange-songs.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox Αναδιάταξη Τραγουδιών σε Λίστα Αναπαραγωγής" image="/docs/guide/flacbox/img/playlist-details-rearange-songs.webp" >}}
 {{< /cards >}}
 
 ## Αλλαγή Εξωφύλλου Λίστας Αναπαραγωγής
@@ -126,7 +126,7 @@ readingTime: 7
 Ανοίξτε τη λίστα, πατήστε το κουμπί **«...»** στην επάνω δεξιά γωνία και επιλέξτε **Επιλογή** για να μπείτε σε λειτουργία επιλογής. Επιλέξτε τα κομμάτια που θέλετε να διαγράψετε και πατήστε **Διαγραφή από Λίστα** στο κάτω μέρος της οθόνης. Επιβεβαιώστε πατώντας **Ολοκλήρωση**.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox Λειτουργία Επιλογής στην Οθόνη Λεπτομερειών Λίστας" image="/docs/guide/flacbox/img/selection-mode-playlist-details-screen.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox Λειτουργία Επιλογής στην Οθόνη Λεπτομερειών Λίστας" image="/docs/guide/flacbox/img/selection-mode-playlist-details-screen.webp" >}}
 {{< /cards >}}
 
 ## Επιλογές Κομματιού

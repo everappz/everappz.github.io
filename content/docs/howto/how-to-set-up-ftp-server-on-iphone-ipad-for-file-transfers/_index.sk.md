@@ -7,7 +7,7 @@ keywords: ["FTP server iPhone", "FTP server iPad", "ako nastaviť FTP na iPhone"
 readingTime: 9
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 FTP je stará spoľahlivá klasika prenosu súborov. Je tu desaťročia, a práve preto je taký užitočný: rozumie mu takmer čokoľvek, čo dokáže komunikovať so serverom. Fotoaparáty, smart TV, smerovače, sieťové disky, automatizačné nástroje a každá stolná FTP aplikácia ovládajú FTP. S aplikáciou [Everdisk](/products/everdisk) môžete spustiť server FTP na svojom iPhone alebo iPade, takže telefón sa stane miestom, ku ktorému sa tieto zariadenia a aplikácie môžu pripojiť a presúvať súbory.
 
@@ -118,44 +118,44 @@ Toto ovláda prepínač **Úprava súborov** v Nastavenia, Zdieľanie, Prístup.
 
 ## Často kladené otázky
 
-{{% details title="Aká je adresa a port FTP pre môj iPhone?" closed="true" %}}
+{{% ls-details title="Aká je adresa a port FTP pre môj iPhone?" closed="true" %}}
 Po spustení zdieľania Everdisk zobrazí adresu na obrazovke Zdieľanie. Vyzerá ako ftp://192.168.1.20:2121. 2121 je port, ktorý Everdisk používa pre FTP, a prvá časť je adresa vášho iPhonu vo Wi-Fi, takže vaša bude iná.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Ako pripojím FileZilla alebo Cyberduck k svojmu iPhonu?" closed="true" %}}
+{{% ls-details title="Ako pripojím FileZilla alebo Cyberduck k svojmu iPhonu?" closed="true" %}}
 Otvorte aplikáciu a vytvorte nové pripojenie. Nastavte Host na adresu vášho iPhonu vo Wi-Fi a Port na 2121. Zadajte svoje Prihlasovacie meno a Heslo, alebo zvoľte Anonymous, ak ste v aplikácii Everdisk žiadne nenastavili. Pripojte sa a môžete presúvať súbory oboma smermi, keď je zapnutá Úprava súborov.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Môžem sa pripojiť k FTP svojho iPhonu z Windowsu?" closed="true" %}}
+{{% ls-details title="Môžem sa pripojiť k FTP svojho iPhonu z Windowsu?" closed="true" %}}
 Áno. Otvorte File Explorer, kliknite na panel s adresou, napíšte adresu FTP z aplikácie Everdisk (napríklad ftp://192.168.1.20:2121) a stlačte Enter. Zadajte svoje prihlásenie, ak ste ho nastavili, alebo pokračujte ako hosť. Na nahrávanie a väčšiu kontrolu použite namiesto toho FTP aplikáciu ako FileZilla.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Potrebujem prihlásenie pre FTP?" closed="true" %}}
+{{% ls-details title="Potrebujem prihlásenie pre FTP?" closed="true" %}}
 Nie, prihlásenie je voliteľné. Nechajte Prihlasovacie meno a Heslo prázdne v Nastavenia, Zdieľanie, Prístup a pripojte sa ako Anonymous, čo väčšina FTP klientov ponúka. Nastavte prihlásenie, ak chcete, aby sa pripojenia najprv prihlásili.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Prečo môžem len sťahovať a nie nahrávať cez FTP?" closed="true" %}}
+{{% ls-details title="Prečo môžem len sťahovať a nie nahrávať cez FTP?" closed="true" %}}
 Bežné sú dva dôvody. Po prvé, prepínač Úprava súborov v Nastavenia, Zdieľanie, Prístup musí byť zapnutý, aby povolil nahrávanie, premenovanie a mazanie. Po druhé, Finder na Macu otvára FTP len na čítanie, preto na nahrávanie použite FTP aplikáciu ako FileZilla alebo Cyberduck.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Môžem použiť FTP medzi dvoma iPhonmi?" closed="true" %}}
+{{% ls-details title="Môžem použiť FTP medzi dvoma iPhonmi?" closed="true" %}}
 Áno. Spustite server FTP na prvom iPhone. Na druhom otvorte Everdisk, prejdite na kartu Zariadenia, ťuknite na Nové pripojenie, zvoľte FTP a zadajte adresu zobrazenú na prvom telefóne. Funguje aj špecializovaná FTP aplikácia pre iOS, keďže aplikácia Súbory v iOS neobsahuje klienta FTP.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Je FTP bezpečné?" closed="true" %}}
+{{% ls-details title="Je FTP bezpečné?" closed="true" %}}
 Obyčajné FTP nešifruje svoju komunikáciu, preto ho berte ako nástroj pre siete, ktorým dôverujete, ako je vaša domáca Wi-Fi. V sieti, ktorú neovládate, použite server SMB so zapnutým Vyžadovať šifrovanie SMB, ktorý chráni každý prenos.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Ktoré zariadenia sa môžu pripojiť cez FTP?" closed="true" %}}
+{{% ls-details title="Ktoré zariadenia sa môžu pripojiť cez FTP?" closed="true" %}}
 Takmer čokoľvek s FTP klientom. To zahŕňa počítače Mac, Windows a Linux, FTP aplikácie ako FileZilla a Cyberduck, správcov súborov pre Android a hardvér ako fotoaparáty, smart TV, smerovače, boxy NAS a automatizačné nástroje. Práve tento široký dosah je hlavným dôvodom voľby FTP.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Prečo mi vypadlo pripojenie FTP?" closed="true" %}}
+{{% ls-details title="Prečo mi vypadlo pripojenie FTP?" closed="true" %}}
 Váš iPhone je server a iOS pozastavuje aplikácie, ktoré zostávajú príliš dlho na pozadí. Nechajte Everdisk otvorený na obrazovke, kým je zariadenie pripojené, a počas dlhých prenosov pripojte k napájaniu. Tiež sa uistite, že obe zariadenia sú stále v tej istej Wi-Fi.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Je Everdisk zadarmo?" closed="true" %}}
+{{% ls-details title="Je Everdisk zadarmo?" closed="true" %}}
 Áno, Everdisk je zadarmo na stiahnutie a server FTP je súčasťou. Voliteľný jednorazový nákup Premium pridáva extra funkcie ako vlastné porty a prevod fotiek a videí. FTP môžete nastaviť a prenášať súbory bez platenia.
-{{% /details %}}
+{{% /ls-details %}}
 
 Chcete to vyskúšať? [Stiahnite si Everdisk z App Store](https://apps.apple.com/app/apple-store/id6751851132?pt=95781850&ct=everappzcom&mt=8) a za pár minút pripojte svojho prvého FTP klienta. Otázky alebo spätná väzba? Napíšte nám na **support@everappz.com**.

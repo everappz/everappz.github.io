@@ -12,7 +12,7 @@ authors:
     image: "/images/about/artem-meleshko-founder-everappz.webp"
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 **Shrnutí:** Evermusic překonal 11 milionů stažení po celém světě. Klíčové funkce zahrnují 10pásmový ekvalizér, offline přehrávání, streamování z iCloud Drive, podporu 10+ cloudových služeb, synchronizaci mezi zařízeními a vestavěný editor tagů ID3.
 
@@ -70,22 +70,22 @@ Evermusic je vytvořen pro každého, kdo ukládá hudbu v cloudu nebo na lokál
 
 ## Často kladené dotazy
 
-{{% details title="Jaké audio formáty Evermusic podporuje?" closed="true" %}}
+{{% ls-details title="Jaké audio formáty Evermusic podporuje?" closed="true" %}}
 Evermusic přehrává MP3, FLAC, WAV, AAC, M4A, AIFF, OGG, WMA a další populární audio formáty.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Mohu používat Evermusic bez internetového připojení?" closed="true" %}}
+{{% ls-details title="Mohu používat Evermusic bez internetového připojení?" closed="true" %}}
 Ano. Stáhněte skladby z cloudového úložiště pro offline přehrávání. Po stažení není internet potřeba.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Funguje Evermusic na Macu?" closed="true" %}}
+{{% ls-details title="Funguje Evermusic na Macu?" closed="true" %}}
 Ano. Evermusic je k dispozici na iOS (iPhone/iPad) i macOS se synchronizací knihovny na všech zařízeních.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Je Evermusic zdarma ke stažení?" closed="true" %}}
+{{% ls-details title="Je Evermusic zdarma ke stažení?" closed="true" %}}
 Ano. Evermusic je zdarma ke stažení s volitelnými prémiovými funkcemi dostupnými prostřednictvím nákupu v aplikaci.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Jak funguje streamování z iCloud Drive v Evermusic?" closed="true" %}}
+{{% ls-details title="Jak funguje streamování z iCloud Drive v Evermusic?" closed="true" %}}
 Připojte svůj účet iCloud Drive v aplikaci, procházejte hudební soubory a klepněte pro přehrání. Skladby se streamují přímo bez nutnosti předchozího stažení.
-{{% /details %}}
+{{% /ls-details %}}

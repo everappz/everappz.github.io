@@ -12,7 +12,7 @@ authors:
     image: "/images/about/artem-meleshko-founder-everappz.webp"
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 **요약:** 최고의 iPhone 음악 플레이어는 사용자의 필요에 따라 다릅니다. **Evermusic**은 클라우드 스토리지 재생과 포맷 유연성에 이상적입니다. **Apple Music**은 Apple 생태계에 깊이 관여된 사용자에게 적합합니다. **Spotify**는 음악 발견에 탁월합니다. **VLC**는 모든 파일 형식을 무료로 처리합니다. **Amazon Music**은 Alexa 및 Prime과 잘 어울립니다.
 
@@ -128,22 +128,22 @@ Amazon Music은 Amazon 생태계와 통합되어 Alexa를 통한 음성 제어�
 
 ## FAQ
 
-{{% details title="iPhone에 가장 좋은 무료 음악 플레이어는?" closed="true" %}}
+{{% ls-details title="iPhone에 가장 좋은 무료 음악 플레이어는?" closed="true" %}}
 자신의 파일을 재생하려면 Evermusic과 VLC가 모두 무료 옵션입니다. Evermusic은 클라우드 스토리지 통합을 추가하고, VLC는 가장 넓은 범위의 파일 형식을 지원합니다.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="iPhone에서 FLAC 파일을 재생할 수 있나요?" closed="true" %}}
+{{% ls-details title="iPhone에서 FLAC 파일을 재생할 수 있나요?" closed="true" %}}
 네. Evermusic과 VLC는 모두 iPhone에서 FLAC 재생을 지원합니다. Apple Music과 Spotify는 FLAC 파일을 직접 재생하지 않습니다.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="클라우드 스토리지와 호환되는 음악 플레이어 앱은?" closed="true" %}}
+{{% ls-details title="클라우드 스토리지와 호환되는 음악 플레이어 앱은?" closed="true" %}}
 Evermusic은 클라우드 스토리지 지원이 내장된 대표적인 iPhone 음악 플레이어입니다. iCloud Drive, Dropbox, Google Drive, OneDrive, pCloud 및 기타 서비스에 연결됩니다.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Evermusic이 Apple Music보다 나은가요?" closed="true" %}}
+{{% ls-details title="Evermusic이 Apple Music보다 나은가요?" closed="true" %}}
 서로 다른 목적을 가지고 있습니다. Evermusic은 클라우드 스토리지와 로컬 스토리지에서 자신의 음악 파일을 재생합니다. Apple Music은 1억 곡 이상의 카탈로그를 갖춘 구독 스트리밍 서비스입니다. 자신의 음악 파일을 소유하고 있다면 Evermusic이 더 나은 선택입니다.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="iPhone에서 Spotify를 오프라인으로 사용할 수 있나요?" closed="true" %}}
+{{% ls-details title="iPhone에서 Spotify를 오프라인으로 사용할 수 있나요?" closed="true" %}}
 네, 하지만 Spotify Premium 구독이 있어야만 가능합니다. 무료 Spotify 사용자는 오프라인 재생을 위해 노래를 다운로드할 수 없습니다.
-{{% /details %}}
+{{% /ls-details %}}

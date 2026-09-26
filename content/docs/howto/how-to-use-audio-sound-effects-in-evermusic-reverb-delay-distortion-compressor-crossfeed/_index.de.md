@@ -7,7 +7,7 @@ tags: ["Evermusic", "Audioeffekte", "Anleitung", "Hall", "Delay", "Verzerrung", 
 readingTime: 8
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 **Kurzfassung:** Evermusic enthält sechs Echtzeit-Audioeffekte: **Lautstärkenormalisierung, Kompressor, Hall, Crossfeed, Delay und Verzerrung**. Öffnen Sie sie über das **⋯ (Mehr)-Menü > Audioeffekte** des Players oder über **Einstellungen > Audioplayer > Audioeffekte**. Tippen Sie auf einen Effekt, schalten Sie seinen Schalter **EIN** (oben rechts), wählen Sie ein **Preset** und öffnen Sie bei Bedarf den **Erweiterten Modus**, um die Regler fein abzustimmen. Jeder Effekt arbeitet unabhängig und wird in Echtzeit auf alles angewendet, was Sie abspielen: lokale Dateien, Cloud-Streams und Internetradio, ohne erneute Kodierung.
 
@@ -162,38 +162,38 @@ Sie funktionieren außerdem zusammen mit Evermusics **grafischem 10-Band-Equaliz
 
 ## FAQ
 
-{{% details title="Wie füge ich meiner Musik in Evermusic Hall, Delay oder andere Effekte hinzu?" closed="true" %}}
+{{% ls-details title="Wie füge ich meiner Musik in Evermusic Hall, Delay oder andere Effekte hinzu?" closed="true" %}}
 Öffnen Sie den Player, tippen Sie auf die Schaltfläche ⋯ (Mehr) und wählen Sie Audioeffekte (oder gehen Sie zu Einstellungen > Audioplayer > Audioeffekte). Tippen Sie auf den gewünschten Effekt, schalten Sie seinen Schalter oben rechts EIN und wählen Sie ein Preset. Öffnen Sie den erweiterten Modus, um die Regler fein abzustimmen. Der Effekt wird sofort auf das angewendet, was gerade läuft.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Welche Audioeffekte hat Evermusic?" closed="true" %}}
+{{% ls-details title="Welche Audioeffekte hat Evermusic?" closed="true" %}}
 Sechs Echtzeiteffekte: Lautstärkenormalisierung (Lautheitsnivellierung nach EBU R128), Kompressor (Dynamik), Hall (Raum und Echofahne), Crossfeed (natürliche Kopfhörer-Abbildung), Delay (Echo) und Verzerrung (Lo-Fi-Grit). Jeder ist unabhängig und kann allein oder in Kombination verwendet werden.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Verändern oder beschädigen die Effekte meine Audiodateien?" closed="true" %}}
+{{% ls-details title="Verändern oder beschädigen die Effekte meine Audiodateien?" closed="true" %}}
 Nein. Alle Effekte werden nur in Echtzeit während der Wiedergabe angewendet. Sie verändern oder rekodieren Ihre Dateien niemals. Schalten Sie einen Effekt aus, und Ihr Originalklang kehrt sofort zurück.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Kann ich mehr als einen Effekt gleichzeitig verwenden?" closed="true" %}}
+{{% ls-details title="Kann ich mehr als einen Effekt gleichzeitig verwenden?" closed="true" %}}
 Ja. Jeder Effekt ist unabhängig – es gibt keinen Hauptschalter –, sodass Sie jede beliebige Kombination aktivieren können. Zum Beispiel Lautstärkenormalisierung plus Kompressor für ein gleichmäßiges, angenehmes Hören oder Hall plus Crossfeed über Kopfhörer.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Was ist Crossfeed und sollte ich es verwenden?" closed="true" %}}
+{{% ls-details title="Was ist Crossfeed und sollte ich es verwenden?" closed="true" %}}
 Crossfeed mischt einen kleinen, gefilterten Anteil jedes Stereokanals in den anderen, sodass Kopfhörer eher wie echte Lautsprecher klingen und das "im-Kopf"-Gefühl hart gepannter Mischungen reduziert wird. Es ist ein Kopfhörereffekt (lassen Sie ihn für Lautsprecher aus). Er basiert auf dem Algorithmus Bauer stereophonic-to-binaural (bs2b) und enthält Presets wie Chu Moy und Jan Meier.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Was ist die Lautstärkenormalisierung und wie unterscheidet sie sich von ReplayGain?" closed="true" %}}
+{{% ls-details title="Was ist die Lautstärkenormalisierung und wie unterscheidet sie sich von ReplayGain?" closed="true" %}}
 Die Lautstärkenormalisierung hält jeden Titel auf einer gleichbleibenden Lautheit, indem sie die wahrgenommene Lautheit mit dem Standard EBU R128 misst und auf ein Ziel nivelliert. Anders als ReplayGain benötigt sie keine Lautheits-Tags in Ihren Dateien und verändert das Audiomaterial nicht. Sie arbeitet live auf jeder Quelle, einschließlich Cloud-Streams und Internetradio. Presets: Leicht, Standard, Stark und Nacht.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Was ist der Unterschied zwischen dem einfachen und dem erweiterten Modus?" closed="true" %}}
+{{% ls-details title="Was ist der Unterschied zwischen dem einfachen und dem erweiterten Modus?" closed="true" %}}
 Der einfache Modus zeigt eine Liste von Presets mit verständlichen Beschreibungen, sodass Sie mit einem Tipp einen guten Klang erhalten. Der erweiterte Modus fügt die Parameter-Regler hinzu (zum Beispiel Mix beim Hall oder die sieben Kompressor-Regler) für eine präzise Feinabstimmung. Schalten Sie mit der Modus-Schaltfläche oben rechts in jedem Effekt-Editor zwischen ihnen um.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Warum sind die Effekt-Bedienelemente ausgegraut?" closed="true" %}}
+{{% ls-details title="Warum sind die Effekt-Bedienelemente ausgegraut?" closed="true" %}}
 Der Effekt ist ausgeschaltet. Schalten Sie den Schalter des Effekts oben rechts in seinem Editor ein, um die Bedienelemente zu aktivieren. Jeder Effekt ist standardmäßig ausgeschaltet.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Funktionieren die Effekte mit Streaming und CarPlay?" closed="true" %}}
+{{% ls-details title="Funktionieren die Effekte mit Streaming und CarPlay?" closed="true" %}}
 Ja. Die Effekte laufen innerhalb der Wiedergabe-Engine, sodass sie auf lokale Dateien, Cloud-Laufwerke, Medienserver und Internetradio angewendet werden und während der CarPlay-Wiedergabe weiterhin funktionieren.
-{{% /details %}}
+{{% /ls-details %}}

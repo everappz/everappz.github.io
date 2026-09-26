@@ -28,19 +28,19 @@ Everdisk는 무료로 내려받을 수 있으며, 원한다면 한 번만 결제
 
 
 {{< cards >}}
-  {{< card icon="play" title="공유" subtitle="시작을 누르고, 공유할 항목을 고르고, 다섯 가지 서버를 한 번에 실행하세요. 공유 화면을 처음부터 끝까지 알아봅니다." link="/docs/guide/everdisk/everdisk-guide-sharing" >}}
+  {{< ls-card icon="play" title="공유" subtitle="시작을 누르고, 공유할 항목을 고르고, 다섯 가지 서버를 한 번에 실행하세요. 공유 화면을 처음부터 끝까지 알아봅니다." link="/docs/guide/everdisk/everdisk-guide-sharing" >}}
 
-  {{< card icon="desktop-computer" title="기기 연결하기" subtitle="TV, Mac이나 PC, 웹 브라우저, 다른 휴대폰, USB 케이블이 공유한 파일에 연결하는 방법을 알아봅니다." link="/docs/guide/everdisk/everdisk-guide-connect" >}}
+  {{< ls-card icon="desktop-computer" title="기기 연결하기" subtitle="TV, Mac이나 PC, 웹 브라우저, 다른 휴대폰, USB 케이블이 공유한 파일에 연결하는 방법을 알아봅니다." link="/docs/guide/everdisk/everdisk-guide-connect" >}}
 
-  {{< card icon="server" title="서버에 연결하기" subtitle="네트워크에 있는 다른 DLNA, WebDAV, FTP, SFTP, SMB 서버와 NAS 드라이브에 접근해 탐색하고 스트리밍하고 내려받습니다." link="/docs/guide/everdisk/everdisk-guide-devices" >}}
+  {{< ls-card icon="server" title="서버에 연결하기" subtitle="네트워크에 있는 다른 DLNA, WebDAV, FTP, SFTP, SMB 서버와 NAS 드라이브에 접근해 탐색하고 스트리밍하고 내려받습니다." link="/docs/guide/everdisk/everdisk-guide-devices" >}}
 
-  {{< card icon="folder" title="파일 및 문서" subtitle="탐색, 폴더 만들기, 이름 변경, 이동, 복사, 삭제, 압축과 압축 해제, 외부 폴더 연결, PDF 스캔까지." link="/docs/guide/everdisk/everdisk-guide-files" >}}
+  {{< ls-card icon="folder" title="파일 및 문서" subtitle="탐색, 폴더 만들기, 이름 변경, 이동, 복사, 삭제, 압축과 압축 해제, 외부 폴더 연결, PDF 스캔까지." link="/docs/guide/everdisk/everdisk-guide-files" >}}
 
-  {{< card icon="music-note" title="사진, 음악, 동영상" subtitle="사진과 음악 라이브러리 전체를 공유하고, 미니 플레이어로 오디오를 재생하며, 동영상을 전체 화면으로 감상하세요." link="/docs/guide/everdisk/everdisk-guide-media" >}}
+  {{< ls-card icon="music-note" title="사진, 음악, 동영상" subtitle="사진과 음악 라이브러리 전체를 공유하고, 미니 플레이어로 오디오를 재생하며, 동영상을 전체 화면으로 감상하세요." link="/docs/guide/everdisk/everdisk-guide-media" >}}
 
-  {{< card icon="lock-closed" title="접근 및 개인정보 보호" subtitle="로그인과 비밀번호로 공유를 보호하고, 편집을 허용하거나 차단하고, 기기를 차단하며, 모든 것을 로컬에 유지하세요." link="/docs/guide/everdisk/everdisk-guide-access" >}}
+  {{< ls-card icon="lock-closed" title="접근 및 개인정보 보호" subtitle="로그인과 비밀번호로 공유를 보호하고, 편집을 허용하거나 차단하고, 기기를 차단하며, 모든 것을 로컬에 유지하세요." link="/docs/guide/everdisk/everdisk-guide-access" >}}
 
-  {{< card icon="adjustments" title="설정" subtitle="모든 설정을 설명합니다: 기기 프로필, 연결하기, 사진 및 동영상 품질, 포트, 전송 등." link="/docs/guide/everdisk/everdisk-guide-settings" >}}
+  {{< ls-card icon="adjustments" title="설정" subtitle="모든 설정을 설명합니다: 기기 프로필, 연결하기, 사진 및 동영상 품질, 포트, 전송 등." link="/docs/guide/everdisk/everdisk-guide-settings" >}}
 
-  {{< card icon="question-mark-circle" title="자주 묻는 질문" subtitle="가장 흔한 질문과 실제 상황에 대한 빠른 답변을 확인하세요." link="/docs/faq/everdisk" >}}
+  {{< ls-card icon="question-mark-circle" title="자주 묻는 질문" subtitle="가장 흔한 질문과 실제 상황에 대한 빠른 답변을 확인하세요." link="/docs/faq/everdisk" >}}
 {{< /cards >}}

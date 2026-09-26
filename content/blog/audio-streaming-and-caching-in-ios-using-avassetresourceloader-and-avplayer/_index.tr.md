@@ -12,7 +12,7 @@ authors:
     image: "/images/about/artem-meleshko-founder-everappz.webp"
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 ![](/blog/audio-streaming-and-caching-in-ios-using-avassetresourceloader-and-avplayer/diagram.png)
 
@@ -140,18 +140,18 @@ Bu yaklaşım, iOS ve macOS'ta Dropbox, Google Drive, OneDrive, Yandex.Disk ve d
 
 ## Sıkça Sorulan Sorular
 
-{{% details title="AVAssetResourceLoaderDelegate'i doğrudan URL yerine ne zaman kullanmalıyım?" closed="true" %}}
+{{% ls-details title="AVAssetResourceLoaderDelegate'i doğrudan URL yerine ne zaman kullanmalıyım?" closed="true" %}}
 Bulut hizmeti özel yetkilendirme başlıkları gerektirdiğinde, akışlı ses için disk önbelleğine ihtiyaç duyduğunuzda veya verinin nasıl yüklenip arabelleğe alındığı konusunda ayrıntılı kontrol istediğinizde kullanın.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Bu yaklaşım Swift ile çalışır mı?" closed="true" %}}
+{{% ls-details title="Bu yaklaşım Swift ile çalışır mı?" closed="true" %}}
 Evet. `AVAssetResourceLoaderDelegate` protokolü Swift'te aynı şekilde çalışır. Buradaki Objective-C örnekleri doğrudan çevrilebilir.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Bunu video akışı için de kullanabilir miyim?" closed="true" %}}
+{{% ls-details title="Bunu video akışı için de kullanabilir miyim?" closed="true" %}}
 Evet. `AVAssetResourceLoaderDelegate`, video dahil AVPlayer'ın desteklediği tüm medya türleriyle çalışır. Aynı özel şema yaklaşımı geçerlidir.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Bu arka plan ses çalmayı destekliyor mu?" closed="true" %}}
+{{% ls-details title="Bu arka plan ses çalmayı destekliyor mu?" closed="true" %}}
 Evet, uygulamanızın yeteneklerinde "Audio, AirPlay ve Picture in Picture" arka plan modunu etkinleştirdiğiniz ve `AVAudioSession`'ı doğru şekilde yapılandırdığınız sürece.
-{{% /details %}}
+{{% /ls-details %}}

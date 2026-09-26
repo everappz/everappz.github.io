@@ -17,7 +17,7 @@ keywords: [
 readingTime: 2
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **Shrnutí:** Evermusic i Flacbox mají vestavěný scrobbling Last.fm. Připojte svůj účet v sekci **Připojení** a každá skladba, kterou přehrajete, bude automaticky zaznamenána -- i když jste offline. Nastavení zabere méně než minutu.
@@ -66,22 +66,22 @@ Scrobblování historie poslechu z Evermusic nebo Flacbox na [Last.fm](http://La
 
 ## Často kladené otázky
 
-{{% details title="Je scrobbling Last.fm zdarma?" closed="true" %}}
+{{% ls-details title="Je scrobbling Last.fm zdarma?" closed="true" %}}
 Ano. Last.fm nabízí bezplatný účet, který zahrnuje plný scrobbling, historii poslechu a základní doporučení. Placené předplatné Last.fm Pro přidává další funkce na webu Last.fm, ale není vyžadováno pro scrobbling z Evermusic nebo Flacbox.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Funguje scrobbling, když jsem offline?" closed="true" %}}
+{{% ls-details title="Funguje scrobbling, když jsem offline?" closed="true" %}}
 Ano. Evermusic i Flacbox ukládají historii přehrávání lokálně. Jakmile se vrátíte online, aplikace automaticky nahrají čekající scrobble na Last.fm.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Ukládá aplikace mé přihlašovací údaje Last.fm?" closed="true" %}}
+{{% ls-details title="Ukládá aplikace mé přihlašovací údaje Last.fm?" closed="true" %}}
 Ne. Aplikace ukládá pouze zabezpečený přístupový token v klíčence vašeho zařízení. Vaše uživatelské jméno a heslo se neukládají.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Mohu scrobblovat z iPhone i Mac?" closed="true" %}}
+{{% ls-details title="Mohu scrobblovat z iPhone i Mac?" closed="true" %}}
 Ano. Evermusic a Flacbox podporují scrobbling Last.fm na iPhone, iPad a Mac. Připojte svůj účet na každém zařízení, kde chcete sledovat přehrávání.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Jak zastavím scrobbling bez smazání účtu Last.fm?" closed="true" %}}
+{{% ls-details title="Jak zastavím scrobbling bez smazání účtu Last.fm?" closed="true" %}}
 Otevřete sekci Připojení v Evermusic nebo Flacbox a klepněte na Odpojit vedle Last.fm. Tím se odstraní přístupový token a zastaví scrobbling, zatímco váš účet Last.fm a historie zůstanou zachovány.
-{{% /details %}}
+{{% /ls-details %}}

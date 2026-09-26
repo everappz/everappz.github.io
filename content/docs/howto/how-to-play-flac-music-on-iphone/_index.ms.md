@@ -8,7 +8,7 @@ tags: ["muzik", "awan", "pemain", "pemuat turun", "penyama", "lossless", "hi-res
 readingTime: 8
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **Ringkasan:** Untuk memainkan FLAC pada iPhone anda memerlukan pemain pihak ketiga, kerana aplikasi Music Apple tidak menyokong FLAC. Pasang [Flacbox](/products/flacbox) (ia percuma), kemudian sama ada pindahkan fail anda melalui Wi-Fi Drive atau USB, atau sambungkan storan awan atau NAS anda. Pustaka FLAC anda dimainkan pada kualiti penuh, sehingga 384 kHz dan 32-bit melalui USB DAC. Flacbox juga memainkan lebih daripada 120 format, termasuk FLAC, DSD, ALAC, APE, WAV, OGG, dan OPUS, dan ia menambah penyama 10 jalur, enjin audio BASS profesional dengan kesan masa nyata, pemproses DSP, dan penggambar visual muzik skrin penuh.
@@ -34,7 +34,7 @@ Flacbox ialah pemain muzik hi-res untuk iPhone, iPad, dan Mac. Ia mengubah stora
 
 Flacbox ialah muat turun percuma dan berjalan pada iPhone, iPad, dan Mac.
 
-{{< app-details product="flacbox" >}}
+{{< ls-app-details product="flacbox" >}}
 
 ### Langkah 2. Masukkan Fail FLAC Anda
 
@@ -82,7 +82,7 @@ Anda boleh memilih enjin main balik dalam Tetapan, kemudian Audio Player, kemudi
 Flacbox termasuk penyama grafik 10 jalur dengan pratetap gaya iPod seperti Acoustic, Bass Booster, Rock, Pop, Jazz, Classical, dan Dance. Terdapat pra-amplifier untuk mengangkat trek senyap tanpa keratan, dan anda boleh menyimpan pratetap anda sendiri. Laraskan ia untuk pemantau dalam telinga, HomePod, atau stereo kereta. Untuk panduan lengkap, lihat [panduan penyama](/docs/howto/how-to-use-the-audio-equalizer-on-your-iphone-ipad-mac-with-evermusic-and-flacbox).
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Penyama Audio Player Flacbox" image="/docs/guide/flacbox/img/audio-player-equalizer.webp" >}}
+  {{< ls-card title="" subtitle="Penyama Audio Player Flacbox" image="/docs/guide/flacbox/img/audio-player-equalizer.webp" >}}
 {{< /cards >}}
 
 ## Kesan Audio Masa Nyata
@@ -106,7 +106,7 @@ Selain kesan, Flacbox memberi anda pemproses DSP 14-penapis masa nyata yang anda
 Flacbox mempunyai penggambar visual muzik terbina dalam yang melukis visual bergerak dan berwarna-warni seiring dengan muzik anda. Ia menggunakan enjin Milkdrop yang terkenal (projectM) dengan 500 pratetap, dilukis dengan OpenGL pada iPhone, iPad, dan Mac. Buka ia daripada pemain dengan mengetik butang Lebih banyak tindakan dan kemudian Visualization. Pilih pratetap, atau gunakan mod Auto untuk mengocoknya setiap 30 saat dengan crossfade yang lancar. Untuk bantuan langkah demi langkah, lihat panduan tentang [cara menghidupkan penggambar visual muzik](/docs/howto/how-to-turn-on-a-music-visualizer-while-playing-music-on-iphone-ipad-mac).
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Penggambar Visual Muzik Flacbox (Milkdrop and projectM)" image="/docs/howto/how-to-turn-on-a-music-visualizer-while-playing-music-on-iphone-ipad-mac/music-visualizer-starfield-sectors-preset.webp" >}}
+  {{< ls-card title="" subtitle="Penggambar Visual Muzik Flacbox (Milkdrop and projectM)" image="/docs/howto/how-to-turn-on-a-music-visualizer-while-playing-music-on-iphone-ipad-mac/music-visualizer-starfield-sectors-preset.webp" >}}
 {{< /cards >}}
 
 ## Awan, NAS, dan Main Balik Luar Talian
@@ -127,7 +127,7 @@ Apabila anda mahu muzik bersama anda, pengurus muat turun terbina dalam menyimpa
 
 Flacbox percuma untuk dimuat turun. Premium mengeluarkan had versi percuma pada akaun awan, senarai main, dan folder luar talian, dan ia tersedia sebagai pembelian seumur hidup satu kali atau langganan bulanan atau tahunan, dengan Perkongsian Keluarga.
 
-{{< app-details product="flacbox" >}}
+{{< ls-app-details product="flacbox" >}}
 
 ## Pilihan 2: Tukar FLAC kepada ALAC untuk Aplikasi Music
 
@@ -141,34 +141,34 @@ Pertukaran itu adalah nyata. Anda kini menyimpan dua salinan pustaka anda, setia
 
 ## Soalan Lazim
 
-{{% details title="Bolehkah iPhone memainkan fail FLAC secara asli?" closed="true" %}}
+{{% ls-details title="Bolehkah iPhone memainkan fail FLAC secara asli?" closed="true" %}}
 Hanya dengan cara yang terhad. Aplikasi Files boleh pratonton satu fail FLAC sejak iOS 11, tetapi tiada pustaka, senarai main, baris gilir, penyama, atau penstriman awan. Untuk mendengar sebenar, gunakan aplikasi pemain seperti Flacbox.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Bolehkah saya memainkan FLAC 24-bit atau 96kHz (atau lebih tinggi) pada iPhone?" closed="true" %}}
+{{% ls-details title="Bolehkah saya memainkan FLAC 24-bit atau 96kHz (atau lebih tinggi) pada iPhone?" closed="true" %}}
 Ya. Flacbox menyokong output hi-res sehingga 384 kHz. Untuk main melebihi 48 kHz pada resolusi sebenar, sambungkan USB DAC luaran, kerana output terbina dalam iPhone mensampel semula audio untuk setiap aplikasi.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Adakah Flacbox menukar FLAC kepada format lain?" closed="true" %}}
+{{% ls-details title="Adakah Flacbox menukar FLAC kepada format lain?" closed="true" %}}
 Tidak. Flacbox memainkan FLAC dalam kualiti lossless asalnya tanpa penukaran. Kesan dan DSP digunakan secara langsung semasa main balik sahaja, dan ia tidak pernah mengubah fail anda.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Adakah saya hilang kualiti apabila menukar FLAC kepada ALAC?" closed="true" %}}
+{{% ls-details title="Adakah saya hilang kualiti apabila menukar FLAC kepada ALAC?" closed="true" %}}
 Tidak. FLAC dan ALAC kedua-duanya lossless, jadi penukaran adalah bit-sempurna. Anda hanya menghabiskan masa dan melepaskan kemudahan, kerana anda berakhir dengan dua pustaka untuk diselenggara dan anda perlu menyelaras semula selepas suntingan.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Apakah format audio yang disokong Flacbox?" closed="true" %}}
+{{% ls-details title="Apakah format audio yang disokong Flacbox?" closed="true" %}}
 Lebih daripada 120 format, termasuk FLAC, DSD (DSF dan DFF), ALAC, APE, WAV, AIFF, WV, OGG, OPUS, MP3, AAC, M4A, WMA, dan juga muzik tracker dan MOD seperti MOD, XM, IT, dan S3M.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Adakah Flacbox mempunyai penyama, kesan, dan penggambar visual?" closed="true" %}}
+{{% ls-details title="Adakah Flacbox mempunyai penyama, kesan, dan penggambar visual?" closed="true" %}}
 Ya. Ia mempunyai penyama 10 jalur dengan pratetap dan pra-amp. Ia juga mempunyai enjin BASS profesional dengan sebelas kesan masa nyata (reverb, delay, gema multi-tap, crossfeed, compressor, chorus, flanger, phaser, auto-wah, distortion, dan stereo rotation), ditambah perataan kelantangan EBU R128, pemproses DSP 14-penapis, dan penggambar visual Milkdrop skrin penuh dengan 500 pratetap.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Bolehkah saya menstrim FLAC daripada NAS atau awan saya?" closed="true" %}}
+{{% ls-details title="Bolehkah saya menstrim FLAC daripada NAS atau awan saya?" closed="true" %}}
 Ya. Flacbox menyambung ke lebih daripada 30 perkhidmatan awan dan ke NAS atau komputer melalui SMB, WebDAV, DLNA, FTP, SFTP, dan NFS. Keseluruhan pustaka anda tersedia tanpa menyalin fail ke iPhone anda, dan anda boleh memuat turun trek untuk main balik luar talian bila-bila masa.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Adakah Flacbox benar-benar percuma?" closed="true" %}}
+{{% ls-details title="Adakah Flacbox benar-benar percuma?" closed="true" %}}
 Flacbox percuma untuk dimuat turun, dengan ciri teras seperti penyama, penstriman awan, dan main balik luar talian. Premium mengeluarkan had versi percuma pada akaun awan, senarai main, dan folder luar talian, dan ia datang sebagai pembelian seumur hidup satu kali atau langganan bulanan atau tahunan, dengan Perkongsian Keluarga.
-{{% /details %}}
+{{% /ls-details %}}

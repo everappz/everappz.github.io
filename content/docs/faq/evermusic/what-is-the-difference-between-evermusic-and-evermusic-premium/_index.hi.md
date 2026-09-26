@@ -62,7 +62,7 @@ Evermusic और Evermusic Premium एक ही म्यूज़िक प्
 
 ### App Store पर डाउनलोड करें
 
-{{< app-details ids="885367198, 905746421, 1564384601" >}}
+{{< ls-app-details ids="885367198, 905746421, 1564384601" >}}
 
 ### App Store पैकेजिंग
 
@@ -142,7 +142,7 @@ Evermusic और Evermusic Premium एक ही म्यूज़िक प्
 
 ## अक्सर पूछे जाने वाले प्रश्न
 
-{{% details title="मैंने Evermusic Pro (या Premium) एक पुराने Apple Account से खरीदा था। क्या मैं इसे किसी नए Apple Account में स्थानांतरित कर सकता हूँ?" closed="true" %}}
+{{% ls-details title="मैंने Evermusic Pro (या Premium) एक पुराने Apple Account से खरीदा था। क्या मैं इसे किसी नए Apple Account में स्थानांतरित कर सकता हूँ?" closed="true" %}}
 Apple के आधिकारिक दस्तावेज़ों के अनुसार, किसी अन्य Apple Account से की गई खरीदारियाँ Family Sharing / Purchase Sharing के माध्यम से साझा की जा सकती हैं, बशर्ते खाते एक ही Family Sharing समूह के भीतर उचित रूप से कॉन्फ़िगर किए गए हों।
 
 यदि Evermusic Pro को आपके पुराने Apple Account का उपयोग करके खरीदा गया था, तो Apple उस खाते को Purchase Sharing के लिए एक द्वितीयक Apple Account के रूप में उपयोग करने का विकल्प प्रदान करता है।
@@ -202,30 +202,30 @@ https://apps.apple.com/us/app/evermusic-cloud-music-player/id885367198?uo=4
 कृपया ध्यान दें कि Apple Family Sharing, Purchase Sharing, Apple Accounts और App Store खरीदारी इतिहास पूरी तरह से Apple द्वारा प्रबंधित किए जाते हैं। हमारे पास उपयोगकर्ताओं के Apple Accounts तक पहुँच नहीं है और हम अपनी ओर से एक Apple Account से दूसरे में App Store खरीदारियाँ स्थानांतरित नहीं कर सकते।
 
 यदि आपको विशेष रूप से Family Sharing के साथ या अपने पुराने Apple Account से की गई खरीदारी तक पहुँचने में कोई समस्या आती है, तो Apple Support को खातों के कॉन्फ़िगरेशन की जाँच करनी होगी।
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="मैंने पहले ही Evermusic Free (नीला) को Premium में अपग्रेड कर लिया है। क्या मुझे Evermusic Pro (लाल) की भी आवश्यकता है?" closed="true" %}}
+{{% ls-details title="मैंने पहले ही Evermusic Free (नीला) को Premium में अपग्रेड कर लिया है। क्या मुझे Evermusic Pro (लाल) की भी आवश्यकता है?" closed="true" %}}
 नहीं। Evermusic Pro (लाल आइकन) वही ऐप है जो Evermusic Free (नीला आइकन) है, जिसमें Premium पहले से अनलॉक है। यदि आपने पहले ही नीले ऐप को Premium में अपग्रेड कर लिया है, तो आपके पास वह सब कुछ है जो Pro प्रदान करता है, इसलिए लाल ऐप इंस्टॉल करने या खरीदने की कोई आवश्यकता नहीं है।
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="क्या Family Sharing समर्थित है, और मेरी खरीदारी का उपयोग कितने लोग कर सकते हैं?" closed="true" %}}
+{{% ls-details title="क्या Family Sharing समर्थित है, और मेरी खरीदारी का उपयोग कितने लोग कर सकते हैं?" closed="true" %}}
 हाँ। Family Sharing सभी Evermusic खरीदारियों और सदस्यताओं के साथ काम करता है, इसलिए आप अधिकतम पाँच परिवार सदस्यों के साथ Premium साझा कर सकते हैं। अपने डिवाइस पर Settings → Family में Purchase Sharing चालू करें। प्रत्येक परिवार सदस्य अपने स्वयं के Apple Account से ऐप डाउनलोड करता है और स्वचालित रूप से Premium प्राप्त करता है।
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="मैंने अपने iPhone पर Premium में अपग्रेड किया, लेकिन मेरा Mac अभी भी मुफ़्त संस्करण दिखाता है। मैं इसे कैसे ठीक करूँ?" closed="true" %}}
+{{% ls-details title="मैंने अपने iPhone पर Premium में अपग्रेड किया, लेकिन मेरा Mac अभी भी मुफ़्त संस्करण दिखाता है। मैं इसे कैसे ठीक करूँ?" closed="true" %}}
 Premium को iPhone और Mac के बीच iCloud के माध्यम से साझा किया जाता है। सबसे पहले, सुनिश्चित करें कि दोनों डिवाइस एक ही Apple Account का उपयोग करते हैं और iCloud चालू है। अपने iPhone पर, Evermusic का नवीनतम संस्करण खोलें और लगभग एक मिनट प्रतीक्षा करें ताकि आपकी खरीदारी iCloud पर अपलोड हो जाए। आप सेटिंग्स में Restore Purchases पर भी टैप कर सकते हैं। फिर अपने Mac पर नवीनतम संस्करण खोलें, इंटरनेट से कनेक्ट करें, और लगभग एक मिनट प्रतीक्षा करें। Premium अपने आप चालू हो जाना चाहिए।
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="मैं किसी नए डिवाइस पर अपनी खरीदारी कैसे पुनर्स्थापित करूँ?" closed="true" %}}
+{{% ls-details title="मैं किसी नए डिवाइस पर अपनी खरीदारी कैसे पुनर्स्थापित करूँ?" closed="true" %}}
 ऐप में सेटिंग्स खोलें और Restore Purchases पर टैप करें। आपको अपनी खरीदारियाँ दिखाई देंगी और Premium फिर से चालू हो जाएगा। यदि कोई खरीदारी गायब है, तो सुनिश्चित करें कि डिवाइस उसी Apple Account का उपयोग करता है जिससे आपने खरीदी थी, और iCloud चालू है।
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="यदि मैं Evermusic Pro (लाल) इंस्टॉल करूँ, तो क्या यह Evermusic Free (नीला) में Premium अनलॉक कर देता है?" closed="true" %}}
+{{% ls-details title="यदि मैं Evermusic Pro (लाल) इंस्टॉल करूँ, तो क्या यह Evermusic Free (नीला) में Premium अनलॉक कर देता है?" closed="true" %}}
 हाँ। यदि आप किसी डिवाइस पर लाल Evermusic Pro इंस्टॉल करते हैं, तो उसी डिवाइस पर नीला Evermusic Free इसका पता लगा लेता है और अपने आप Premium चालू कर देता है। आपको नीले ऐप में फिर से Premium खरीदने की आवश्यकता नहीं है। आपको केवल लाल ऐप को इंस्टॉल रखना होगा।
 
 यह इसके विपरीत काम नहीं करता। नीले ऐप के अंदर Premium खरीदने से लाल Evermusic Pro मुफ़्त नहीं हो जाता, क्योंकि App Store पर ये अलग-अलग ऐप्स हैं। नीले ऐप्स में की गई खरीदारियाँ नीले iPhone ऐप और नीले Mac ऐप के बीच iCloud के माध्यम से सिंक होती हैं।
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="क्या मैं Intel Mac पर Premium का उपयोग कर सकता हूँ?" closed="true" %}}
+{{% ls-details title="क्या मैं Intel Mac पर Premium का उपयोग कर सकता हूँ?" closed="true" %}}
 हाँ। नीले Evermusic Free ऐप का उपयोग करें और Premium में अपग्रेड करें। नीला Mac ऐप Apple Silicon और Intel Macs दोनों पर चलता है। लाल Evermusic Pro केवल Apple Silicon Macs (M1 और बाद के) पर चलता है और इसे Intel Macs पर इंस्टॉल नहीं किया जा सकता।
-{{% /details %}}
+{{% /ls-details %}}

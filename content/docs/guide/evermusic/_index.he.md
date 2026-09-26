@@ -72,19 +72,19 @@ Evermusic כולל אקולייזר שמע מלא של 10 פסים עם פריס
 
 
 {{< cards >}}
-  {{< card icon="location-marker" title="ניווט" subtitle="למד כיצד לנווט ב-Evermusic באמצעות סרגל הכרטיסיות ב-iPhone או התפריט השמאלי ב-iPad וב-Mac." link="/docs/guide/evermusic/evermusic-guide-navigation" >}}
+  {{< ls-card icon="location-marker" title="ניווט" subtitle="למד כיצד לנווט ב-Evermusic באמצעות סרגל הכרטיסיות ב-iPhone או התפריט השמאלי ב-iPad וב-Mac." link="/docs/guide/evermusic/evermusic-guide-navigation" >}}
 
-  {{< card icon="cloud" title="חיבורים" subtitle="חבר את חשבונות הענן שלך ונהל קבצים מקוונים באמצעות מנהל הקבצים המובנה." link="/docs/guide/evermusic/evermusic-guide-connections" >}}
+  {{< ls-card icon="cloud" title="חיבורים" subtitle="חבר את חשבונות הענן שלך ונהל קבצים מקוונים באמצעות מנהל הקבצים המובנה." link="/docs/guide/evermusic/evermusic-guide-connections" >}}
 
-  {{< card icon="collection" title="ספריית מוזיקה" subtitle="ארגן ועיין במסלולים, אלבומים ואמנים שלך בספריית המוזיקה." link="/docs/guide/evermusic/evermusic-guide-music-library" >}}
+  {{< ls-card icon="collection" title="ספריית מוזיקה" subtitle="ארגן ועיין במסלולים, אלבומים ואמנים שלך בספריית המוזיקה." link="/docs/guide/evermusic/evermusic-guide-music-library" >}}
 
-  {{< card icon="music-note" title="רשימות השמעה" subtitle="צור וארגן פלייליסטים שיתאימו למצב הרוח או האירוע שלך." link="/docs/guide/evermusic/evermusic-guide-playlists" >}}
+  {{< ls-card icon="music-note" title="רשימות השמעה" subtitle="צור וארגן פלייליסטים שיתאימו למצב הרוח או האירוע שלך." link="/docs/guide/evermusic/evermusic-guide-playlists" >}}
 
-  {{< card icon="folder" title="קבצים מקומיים" subtitle="גש ונהל מוזיקה לא מקוונת דרך סעיף הקבצים המקומיים." link="/docs/guide/evermusic/evermusic-guide-local-files" >}}
+  {{< ls-card icon="folder" title="קבצים מקומיים" subtitle="גש ונהל מוזיקה לא מקוונת דרך סעיף הקבצים המקומיים." link="/docs/guide/evermusic/evermusic-guide-local-files" >}}
 
-  {{< card icon="play" title="נגן שמע" subtitle="שלוט בניגון, בתור ובהגדרות שמע כמו אקולייזר וטיימר שינה." link="/docs/guide/evermusic/evermusic-guide-player" >}}
+  {{< ls-card icon="play" title="נגן שמע" subtitle="שלוט בניגון, בתור ובהגדרות שמע כמו אקולייזר וטיימר שינה." link="/docs/guide/evermusic/evermusic-guide-player" >}}
 
-  {{< card icon="adjustments" title="הגדרות" subtitle="התאם אישית את המראה, התכונות והגדרות הביצועים של Evermusic." link="/docs/guide/evermusic/evermusic-guide-settings" >}}
+  {{< ls-card icon="adjustments" title="הגדרות" subtitle="התאם אישית את המראה, התכונות והגדרות הביצועים של Evermusic." link="/docs/guide/evermusic/evermusic-guide-settings" >}}
 
-  {{< card icon="question-mark-circle" title="שאלות נפוצות" subtitle="מצא תשובות מהירות לשאלות נפוצות בסעיף השאלות הנפוצות שלנו." link="/docs/faq/evermusic" >}}
+  {{< ls-card icon="question-mark-circle" title="שאלות נפוצות" subtitle="מצא תשובות מהירות לשאלות נפוצות בסעיף השאלות הנפוצות שלנו." link="/docs/faq/evermusic" >}}
 {{< /cards >}}

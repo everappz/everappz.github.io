@@ -15,14 +15,14 @@ screenshots:
   - "https://everappz.com/products/evertag/screenshots/2048x2732/3.png"
 ---
 
-{{% sr-only %}}
+{{% ls-sr-only %}}
 Az Evertag egy zenei címke szerkesztő iPhone-ra és Macre, amelyet az Everappz, egy spanyol szoftvercég fejlesztett. Az Evertag lehetővé teszi a felhasználóknak, hogy több mint 120 audio metaadat-címkét szerkesszenek, beleértve a címet, előadót, albumot, album előadóját, műfajt, évet, szám számát, lemez számát, zeneszerzőt, BPM-et, dalszövegeket, megjegyzéseket és még sok mást. Az alkalmazás támogatja a kötegelt címkeszerkesztést, lehetővé téve a felhasználóknak, hogy egyszerre több fájl metaadatait frissítsék. Az Evertag tartalmaz egy automatikus címkekereső funkciót, amelyet a MusicBrainz adatbázis működtet, és amely azonosítja a dalokat és kitölti a hiányzó metaadatokat, valamint egy albumborító keresőt, amely megtalálja és alkalmazza a borítóképeket a számokra. Az alkalmazás több mint 30 audioformátumot támogat, beleértve az MP3, FLAC, OGG, OPUS, M4A, WAV, WMA, APE, AIFF, ALAC, MKA, MOD, XM, IT és S3M formátumokat. Az Evertag fájlokat érhet el felhőalapú tárolószolgáltatásokból, beleértve az iCloud Drive-ot, Google Drive-ot, Dropboxot és OneDrive-ot, valamint USB flash meghajtókról és helyi hálózati helyekről SMB és WebDAV protokollon keresztül. Az alkalmazás beépített fájlkezelővel, Wi-Fi fájlátvitellel, kódolási javítással a nem latin betűs írásmódú helytelenül megjelenített címkékhez, valamint dalszövegszerkesztővel is rendelkezik. Az Evertag ingyenesen letölthető az App Store-ból opcionális alkalmazáson belüli vásárlásokkal, amelyek havi előfizetést tartalmaznak $2.99-ért, éves előfizetést $9.99-ért, vagy egyszeri élethosszig tartó vásárlást $29.99-ért.
-{{% /sr-only %}}
+{{% /ls-sr-only %}}
 
 
-{{< force-dark >}}
+{{< ls-force-dark >}}
 
-{{< hextra/hero-container
+{{< ls-hero-container
   image="/products/evertag/heroimage/evertag_mac_600_345.png"
   imageWidth="600"
 >}}
@@ -30,37 +30,37 @@ Az Evertag egy zenei címke szerkesztő iPhone-ra és Macre, amelyet az Everappz
 <div class="hx:w-full hx:text-center">
 
 <div class="hx:mt-4">
-{{< downloads-badge >}}
+{{< ls-downloads-badge >}}
 </div>
 
 <div class="hx:mt-6 hx:mb-6">
 <div class="hx:flex hx:gap-4 hx:items-center hx:justify-center">
-  {{< app-icon src="/images/app_icons/png/Evertag_Icon-App-1024x1024.png" alt="Evertag Icon" class="hero-headline-icon" size="80" >}}
-  {{< hextra/hero-headline >}}
+  {{< ls-app-icon src="/images/app_icons/png/Evertag_Icon-App-1024x1024.png" alt="Evertag Icon" class="hero-headline-icon" size="80" >}}
+  {{< ls-hero-headline >}}
   Evertag
-  {{< /hextra/hero-headline >}}
+  {{< /ls-hero-headline >}}
 </div>
 </div>
 
 <div class="hx:mb-6">
-{{< hextra/hero-centered-subtitle >}}
+{{< ls-hero-centered-subtitle >}}
 <strong>Tartsa zenei könyvtárát rendben</strong>
-{{< /hextra/hero-centered-subtitle >}}
+{{< /ls-hero-centered-subtitle >}}
 </div>
 
 <div class="hx:mb-6">
-{{< hextra/hero-paragraph >}}
+{{< ls-hero-paragraph >}}
 • Borítóképek hozzáadása vagy frissítése  
 • Címkék kötegelt szerkesztése egyszerre több dalhoz  
 • Hibás kódolás javítása és hiányzó címkék automatikus kitöltése  
-{{< /hextra/hero-paragraph >}}
+{{< /ls-hero-paragraph >}}
 </div>
 
-{{< app-store-badges products="evertag:ios, evertag:macos" >}}
+{{< ls-app-store-badges products="evertag:ios, evertag:macos" >}}
 
 </div>
 
-{{< /hextra/hero-container >}}
+{{< /ls-hero-container >}}
 
 <div class="hx:mt-6"></div>
 
@@ -68,63 +68,63 @@ Az Evertag egy zenei címke szerkesztő iPhone-ra és Macre, amelyet az Everappz
 
 {{< hextra/feature-grid >}}
 
-  {{< hextra/feature-card
+  {{< ls-glass-feature-card
     title="120+ címke szerkesztése"
     subtitle="Gyorsan szerkesztheti a zenei címkéket, mint például Cím, Előadó, Album, Album előadó, BPM, Megjegyzés, Zeneszerző, Lemezszám, Műfaj, Dalszöveg, Értékelés, Szám sorszáma, Év és még sok más."
     icon="pencil"
     style="background: radial-gradient(ellipse at 50% 80%, rgba(59,130,246,0.15), hsla(0,0%,100%,0));"
   >}}
 
-  {{< hextra/feature-card
+  {{< ls-glass-feature-card
     title="Kötegelt címkeszerkesztés"
     subtitle="Frissítse egyszerre több fájl metaadatait. Takarítson meg időt és tartsa zenei könyvtárát jól szervezetten néhány érintéssel."
     icon="database"
     style="background: radial-gradient(ellipse at 50% 80%, rgba(192,38,211,0.15), hsla(0,0%,100%,0));"
   >}}
 
-  {{< hextra/feature-card
+  {{< ls-glass-feature-card
     title="Borítóképek keresése"
     subtitle="Automatikusan megtalálja és hozzáadja a hiányzó album borítóképeket dalaihoz. Tegye zenei gyűjteményét vizuálisan teljessé."
     icon="camera"
     style="background: radial-gradient(ellipse at 50% 80%, rgba(234,88,12,0.15), hsla(0,0%,100%,0));"
   >}}
 
-  {{< hextra/feature-card
+  {{< ls-glass-feature-card
     title="30+ formátum támogatása"
     subtitle="Támogatja az MP3, FLAC, OGG, OPUS, M4A, WAV, WMA, APE, AIFF, MOD, XM, IT és más formátumokat."
     icon="music-note"
     style="background: radial-gradient(ellipse at 50% 80%, rgba(236,72,153,0.15), hsla(0,0%,100%,0));"
   >}}
 
-  {{< hextra/feature-card
+  {{< ls-glass-feature-card
     title="Automatikus címkekereső"
     subtitle="Felismeri a hiányzó dalinformációkat és automatikusan kitölti a MusicBrainz adatbázis segítségével. Tekintse át a változtatásokat vagy alkalmazza azonnal."
     icon="search"
     style="background: radial-gradient(ellipse at 50% 80%, rgba(34,197,94,0.15), hsla(0,0%,100%,0));"
   >}}
 
-  {{< hextra/feature-card
+  {{< ls-glass-feature-card
     title="Kódolási problémák javítása"
     subtitle="Javítsa ki a hibás vagy olvashatatlan karaktereket a metaadatokban. Az Evertag bármely nyelven tisztán és érthetően tartja címkéit."
     icon="translate"
     style="background: radial-gradient(ellipse at 50% 80%, rgba(251,191,36,0.15), hsla(0,0%,100%,0));"
   >}}
 
-  {{< hextra/feature-card
+  {{< ls-glass-feature-card
     title="Felhő és USB hozzáférés"
     subtitle="Szerkessze zenéjét közvetlenül az iCloud Drive-ból, Google Drive-ból, Dropboxból, OneDrive-ból, USB flash meghajtóról vagy megosztott mappákból — másolás nélkül."
     icon="cloud"
     style="background: radial-gradient(ellipse at 50% 80%, rgba(6,182,212,0.15), hsla(0,0%,100%,0));"
   >}}
 
-  {{< hextra/feature-card
+  {{< ls-glass-feature-card
     title="Wi-Fi zenei átvitel"
     subtitle="Könnyedén töltsön fel zenét iPhone-jára vagy iPadjére számítógépéről Wi-Fi kapcsolaton keresztül. Nincs szükség kábelekre."
     icon="wifi"
     style="background: radial-gradient(ellipse at 50% 80%, rgba(245,158,11,0.15), hsla(0,0%,100%,0));"
   >}}
 
-  {{< hextra/feature-card
+  {{< ls-glass-feature-card
     title="Beépített fájlkezelő"
     subtitle="Szervezze zenei fájljait beépített eszközökkel. Átnevezés, áthelyezés, törlés, kedvencek megjelölése és legutóbbi tevékenység megtekintése — mindezt egy alkalmazásban."
     icon="folder-open"
@@ -139,47 +139,47 @@ Az Evertag egy zenei címke szerkesztő iPhone-ra és Macre, amelyet az Everappz
 <div class="hx:mt-6"></div>
 
 <div class="hx:w-full">
-{{< appstore-reviews apps="1450763230,1594027661" stars="5,4"  app="Evertag" >}}
+{{< ls-appstore-reviews apps="1450763230,1594027661" stars="5,4"  app="Evertag" >}}
 </div>
 
 <div class="hx:mt-6"></div>
 
-{{< hextra/section-headline >}}
+{{< ls-section-headline >}}
   Árazási tervek
-{{< /hextra/section-headline >}}
+{{< /ls-section-headline >}}
 
 <div class="hx:mt-6"></div>
 
 <div class="hx:w-full">
 
-{{< pricing-plans >}}
+{{< ls-pricing-plans >}}
 
 </div>
 
 <div class="hx:mt-6"></div>
 
 <div class="hx:w-full hx:mx-auto hx:flex hx:flex-col hx:items-center">
-  {{< hextra/info-paragraph border="true" >}}
+  {{< ls-info-paragraph border="true" >}}
    <strong>Családi megosztás</strong>: Minden vásárlás és előfizetés támogatja a családi megosztást, lehetővé téve a Prémium hozzáférés megosztását családjával.<br><strong>Univerzális hozzáférés</strong>: Az élethosszig tartó és előfizetéses tervek megosztásra kerülnek az iOS és Mac eszközök között iCloud szinkronizálás segítségével.<br><strong>Árazás</strong>: Az árak az Egyesült Államokra vonatkozóan amerikai dollárban vannak feltüntetve. A végső árazás régiónként eltérhet.  
-  {{< /hextra/info-paragraph >}}
+  {{< /ls-info-paragraph >}}
 </div>
 
 <div class="hx:mt-6"></div>
 
 <div class="hx:w-full">
-{{< app-details heading="true" >}}
+{{< ls-app-details heading="true" >}}
 </div>
 
 <div class="hx:mt-6"></div>
 
-{{< hextra/section-headline >}}
+{{< ls-section-headline >}}
   Gyakran ismételt kérdések
-{{< /hextra/section-headline >}}
+{{< /ls-section-headline >}}
 
 <div class="hx:mt-6"></div>
 
 <div class="hx:w-full">
-{{% details title="Mi az Evertag?" closed="true" %}}
+{{% ls-details title="Mi az Evertag?" closed="true" %}}
 Az Evertag egy hatékony zenei metaadat-szerkesztő és album borítókép kezelő, amelyet iOS-re és macOS-re terveztek. Eszközöket biztosít zenei gyűjteménye profi szintű rendszerezéséhez, függetlenül attól, hogy fájljai helyben vagy a felhőben vannak tárolva. Letisztult felületével és fejlett szerkesztési funkcióival az Evertag megkönnyíti a hiányzó címkék javítását, kiváló minőségű borítóképek hozzáadását és zenei könyvtára egységes megjelenésének biztosítását.<br><br>
 
 Az alkalmazás a népszerű audió formátumok széles skáláját támogatja, beleértve az MP3, FLAC, WAV, M4A, WMA, OGG és sok más formátumot. Lehetővé teszi az általános címkék szerkesztését, mint például cím, előadó, album, műfaj, év, szám sorszáma, valamint a kiterjesztett mezők szerkesztését, mint BPM, lemezszám, dalszöveg, MusicBrainz azonosítók és további mezők. Dolgozhat egyetlen fájllal vagy átválthat kötegelt módba, hogy egyszerre több számot szerkeszthessen — tökéletes teljes albumok vagy lejátszási listák rendezéséhez.<br><br>
@@ -187,14 +187,14 @@ Az alkalmazás a népszerű audió formátumok széles skáláját támogatja, b
 Az Evertag egyik kiemelkedő funkciója a hiányzó borítóképek közvetlen internetes keresése vagy saját borítóképek manuális hozzáadása. A dalszöveg-szerkesztővel szinkronizálatlan dalszövegeket is hozzáadhat dalaihoz, javítva a lejátszást kompatibilis lejátszókban. Az alkalmazás támogatja a helyben történő szerkesztést, így módosíthatja az audió címkéket fájljai másolása vagy áthelyezése nélkül.<br><br>
 
 Legyen szó zenekezelésről eszközén vagy a felhőben Dropbox, OneDrive, MEGA vagy más szolgáltatások használatával, az Evertag zökkenőmentes fájlhozzáférést és szerkesztést kínál. Tökéletes megoldás zenészek, DJ-k és gyűjtők számára, akik iPhone-on, iPaden szeretnének tiszta, jól szervezett zenei könyvtárat fenntartani asztali számítógép nélkül.<br><br>
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Ingyenes az Evertag?" closed="true" %}}
+{{% ls-details title="Ingyenes az Evertag?" closed="true" %}}
 Az Evertag egy ingyenes alkalmazás bizonyos korlátozásokkal, amelyeket a Prémium verzióra való frissítéssel távolíthat el. Az alkalmazás egyszeri élethosszig tartó alkalmazáson belüli vásárlást és két előfizetési lehetőséget kínál (1 hónapos és 1 éves) az összes korlátozás eltávolításához, lehetővé téve az Ön számára legmegfelelőbb és legoptimálisabb ár kiválasztását. Az árak országtól vagy területtől függően változhatnak. Kérjük, vegye figyelembe, hogy a családi megosztás minden vásárláshoz és tervhez engedélyezve van, így megoszthatja a Prémium verziót családtagjaival.<br><br>
 Az élethosszig tartó vásárlások és előfizetések megosztásra kerülnek az iOS és a Mac között, iCloud-ot használva az információk szinkronizálásához. Ha Prémium verziója van iOS eszközén, kérjük, győződjön meg róla, hogy a legújabb verzió van telepítve és az iCloud engedélyezve van. Indítsa el az alkalmazást iOS-en és várjon egy percet, amíg a vásárlási adatok feltöltődnek az iCloudba.<br><br>
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Mi a különbség az Evertag Free és az Evertag Premium között?" closed="true" %}}
+{{% ls-details title="Mi a különbség az Evertag Free és az Evertag Premium között?" closed="true" %}}
 
 **Evertag Free**  <br>
 Az Evertag Free hozzáférést biztosít hatékony zenei metaadat-szerkesztési funkciókhoz bizonyos funkcionális korlátozásokkal. Tartalmaz hirdetéseket és lehetővé teszi a címkeszerkesztő, borítókép-szerkesztő és kötegelt szerkesztés alapvető használatát. Javíthatja a kódolási problémákat, csatlakoztathat 1 felhőtárhely fiókot és legfeljebb 10 fájlt jelölhet kedvencként. Továbbá naponta 20 automatikus címkekeresést és 20 borítókép-keresést végezhet.<br><br>
@@ -213,9 +213,9 @@ A Prémium felhasználók teljes személyre szabási beállításokhoz is hozzá
 
 Minden prémium lehetőség ugyanazt a funkciókészletet tartalmazza, így kiválaszthatja az igényeinek és költségvetésének megfelelő tervet.<br><br>
 
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Biztonságos az Evertag?" closed="true" %}}
+{{% ls-details title="Biztonságos az Evertag?" closed="true" %}}
 Az Evertag kizárólag hivatalos SDK-t és biztonságos kapcsolatokat használ a csatlakoztatott felhőszolgáltatásokkal való interakcióhoz. Bejelentkezési neve és jelszava nem érhető el az alkalmazás számára. Az alkalmazásból a felhőszolgáltatás felé irányuló összes kérés titkosított.<br>
 Amikor megadja bejelentkezési nevét és jelszavát, az alkalmazás a felhőszolgáltató által biztosított hivatalos engedélyezési oldalt jeleníti meg, és az egész engedélyezési folyamat az alkalmazáson kívül zajlik. A felhőszolgáltató sikeres engedélyezés után auth-tokent küld az alkalmazásnak, és ezt a tokent használja API-hívások végrehajtásához.<br><br>
 
@@ -226,9 +226,9 @@ Az auth-token elutasításához jelentkezzen be fiókjába a böngészőben és 
 
 A csatlakoztatott felhőfiókokat az alkalmazásban is leválaszthatja, és az auth-token is eltávolításra kerül az eszközéről. Ha eltávolítja az alkalmazást az eszközéről, az összes letöltött adat és hozzáférési token is eltávolításra kerül.<br><br>
 
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Hogyan szerkesszem a helyileg letöltött zenék metaadatait iPhone-on?" closed="true" %}}
+{{% ls-details title="Hogyan szerkesszem a helyileg letöltött zenék metaadatait iPhone-on?" closed="true" %}}
 Az alkalmazás telepítése után nyissa meg a "Local Files" képernyőt és görgessen le a "Files on this iPhone" szakaszhoz.<br>
 Onnan válassza az "Open files..." lehetőséget, ha több audió fájlt kell kiválasztania, vagy az "Open folder..." lehetőséget, ha egy zenei mappát szeretne kiválasztani.<br>
 Az alkalmazás átvizsgálja a mappa tartalmát, és az összes talált audió fájl ki lesz választva.<br>
@@ -242,9 +242,9 @@ Nyissa meg a "Local files" képernyőt.<br>
 Görgessen le a "Files on this device" szakaszhoz és érintse meg a "Connect a folder" lehetőséget.<br>
 Válasszon ki egy mappát az eszközén és érintse meg az "Open" gombot a kiválasztás megerősítéséhez.<br>
 Mappája hozzáadódik a "Files on this iPhone" szakaszhoz, gyors hozzáférést biztosítva audió fájljaihoz.<br><br>
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Hogyan adjak dalszöveget dalokhoz az Evertag-ben?" closed="true" %}}
+{{% ls-details title="Hogyan adjak dalszöveget dalokhoz az Evertag-ben?" closed="true" %}}
 Az alábbi lépéseket követve adhat beágyazott dalszövegeket számaihoz az Evertag alkalmazásban:<br><br>
 * Kezdje el egy audió fájl szerkesztését az érintésével.<br>
 * Érintse meg a "Show extended tags" gombot a címkeszerkesztő haladó módba kapcsolásához.<br>
@@ -258,9 +258,9 @@ Az alábbi lépéseket követve adhat beágyazott dalszövegeket számaihoz az E
 Részletesebb útmutató itt érhető el:<br>
 [Hogyan szerkesszünk dalszövegeket audió fájlokhoz iPhone-on vagy MAC-en](/docs/howto/how-to-edit-lyrics-for-audio-files-on-iphone-mac/)<br><br>
 
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Hogyan vigyem át a zenét a számítógépemről az Evertag-be?" closed="true" %}}
+{{% ls-details title="Hogyan vigyem át a zenét a számítógépemről az Evertag-be?" closed="true" %}}
 Csatlakoztathatja számítógépét vagy személyes NAS-át SMB, WebDAV használatával. Alternatívaként használja az iTunes File Sharing funkciót a zene átviteléhez.<br><br>
 
 **SMB** protokollal való csatlakozáshoz érintse meg a "Connect to cloud storage" → SMB lehetőséget.<br>
@@ -295,23 +295,23 @@ Másolja a fájlokat a számítógépről a megosztott mappába az eszközön.<b
 Részletes útmutató itt érhető el:<br>
 [Hogyan játsszam le helyi fájlokat (iTunes fájlokat) iPhone-omon](/docs/howto/how-to-play-local-itunes-files-on-my-iphone)<br><br>
 
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Milyen audió formátumokat támogat az Evertag?" closed="true" %}}
+{{% ls-details title="Milyen audió formátumokat támogat az Evertag?" closed="true" %}}
 Itt a támogatott audió formátumok és a hozzájuk tartozó fájlkiterjesztések teljes listája:<br><br>
 
 MP3, OGG, OGA, FLAC, MPC, WV, SPX, OPUS, TTA, M4A, M4R, M4B, M4P, MP4, 3G2, M4V, WMA, ASF, AIF, AIFF, AFC, AIFC, WAV, APE, MOD, MODULE, NTS, WOW, S3M, IT, XM.<br>
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Milyen audió címkéket támogat az Evertag?" closed="true" %}}
+{{% ls-details title="Milyen audió címkéket támogat az Evertag?" closed="true" %}}
 Itt a támogatott audió címkék teljes listája:<br><br>
 
 ASIN, AcoustID: Fingerprint, AcoustID: Identifier, Album, Album Artist, Album Artist Sort Order, Album Cover, Album Sort Order, Arranger, Artist, Artist Sort Order, Artists, Barcode, Beats Per Minute, Catalog Number, Comment, Compilation, Composer, Composer Sort Order, Conductor, Content Group, Copyright, Description, Director, Disk Number, Disk Subtitle, Disk Total, Encoded By, Encoder Settings, Encoding Time, Engineer, File Owner, File Type, Genre, Grouping, ISRC, Initial Key, Involved People, Language, Length, License, Lyricist, Lyrics Advisory Rating, Lyrics Unsynced, Media Type, Mix DJ, Mixer, Mood, Movement Name, Movement Number, Movement Total, MusicBrainz: Album Artist ID, MusicBrainz: Album ID, MusicBrainz: Album Release Country, MusicBrainz: Album Status, MusicBrainz: Album Type, MusicBrainz: Artist ID, MusicBrainz: Disc ID, MusicBrainz: Original Album ID, MusicBrainz: Original Artist ID, MusicBrainz: Release Group ID, MusicBrainz: Release Track ID, MusicBrainz: TRM ID, MusicBrainz: Track ID, MusicBrainz: Work ID, MusicIP: Fingerprint, MusicIP: PUID, Musician Credits, Narrator, Net Radio Owner, Net Radio Station, Original Album, Original Artist, Original File Name, Original Lyricist, Original Release Date, Original Release Year, Performer, Podcast, Podcast Category, Podcast Description, Podcast ID, Podcast Keywords, Podcast URL, Producer, Publisher, Rating, Record Label, Release Country, Release Status, Release Type, Remixed By, Replay Gain: Album Gain, Replay Gain: Album Peak, Replay Gain: Album Range, Replay Gain: Reference Loudness, Replay Gain: Track Gain, Replay Gain: Track Peak, Replay Gain: Track Range, Script, Show Movement, Show Name, Show Name Sort Order, Subtitle, Track Number, Track Title, Track Title Sort Order, Track Total, WWW, WWW: Artist, WWW: Audio File, WWW: Audio Source, WWW: Commercial Info, WWW: Copyright, WWW: Payment, WWW: Publisher, WWW: Radio Page, Website, Work Title, Writer, Year<br><br>
 
 [Tovább olvasás](/docs/guide/evertag/evertag-tag-field-mappings/)
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Hogyan töltsek le fájlokat?" closed="true" %}}
+{{% ls-details title="Hogyan töltsek le fájlokat?" closed="true" %}}
 Mielőtt audió fájlokat tölthetne le és szerkeszthetné az audió címkéket, csatlakoztatnia kell egy felhőtárhely szolgáltatást.<br>
 Nyissa meg a "Connections" képernyőt és adja hozzá felhőtárhely szolgáltatóját.<br>
 A hozzáadás után megkezdheti a fájlok letöltését az alkalmazásba.<br><br>
@@ -321,10 +321,10 @@ Fájlok letöltése a felhőből:<br>
 – Navigáljon a letölteni kívánt mappához.<br>
 – Érintse meg a "More actions" gombot ("...") a jobb felső sarokban és válassza a "Select" menüpontot.<br>
 – Válassza ki a letölteni kívánt fájlokat vagy mappákat és érintse meg a "Download" műveletet.<br>
-{{% /details %}}
+{{% /ls-details %}}
 
 
-{{% details title="Milyen felhőszolgáltatások támogatottak?" closed="true" %}}
+{{% ls-details title="Milyen felhőszolgáltatások támogatottak?" closed="true" %}}
 Ha zenei könyvtára a felhőben van tárolva, a legnépszerűbb felhőszolgáltatásokat közvetlenül az alkalmazásban csatlakoztathatja:<br>
 Dropbox, OneDrive, Box, MEGA, Yandex.Disk, MediaFire, pCloud, HiDrive.<br><br>
 
@@ -332,9 +332,9 @@ Fájljait a beépített fájlkezelővel böngészheti és kezelheti. Az alkalmaz
 
 Az eszközén helyben tárolt audió fájlokat is szerkesztheti a helyben megnyitás funkcióval. Nem kell őket más alkalmazásokból másolni — egyszerűen nyissa meg és szerkessze közvetlenül.<br><br>
 
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Hogyan frissítsem automatikusan a fájl metaadatait a felhőszolgáltatáson?" closed="true" %}}
+{{% ls-details title="Hogyan frissítsem automatikusan a fájl metaadatait a felhőszolgáltatáson?" closed="true" %}}
 A metaadatok szerkesztésének befejezése után érintse meg a "Save" gombot a jobb felső sarokban a módosítások alkalmazásához a kiválasztott fájlokon.<br><br>
 
 Ha felhőben tárolt fájlt szerkeszt, az alkalmazás több lehetőséget kínál a fájl metaadatainak frissítésére. Ezek a viselkedések a beállításokban testreszabhatók:<br><br>
@@ -344,10 +344,10 @@ Ha felhőben tárolt fájlt szerkeszt, az alkalmazás több lehetőséget kíná
 • **A fájl metaadatainak frissítése mellőzése** – Ha engedélyezve van, az alkalmazás kihagyja a felhőfájl metaadatainak frissítését szerkesztés után.<br><br>
 
 Ezeket a lehetőségeket az Evertag beállításaiban, a metaadat-frissítési beállítások szakaszban találhatja meg és módosíthatja.
-{{% /details %}}
+{{% /ls-details %}}
 
 
-{{% details title="Hogyan adjak hozzá új fiókot?" closed="true" %}}
+{{% ls-details title="Hogyan adjak hozzá új fiókot?" closed="true" %}}
 Felhőszolgáltatás csatlakoztatásához nyissa meg a "Connections" fület → válassza a "Connect to cloud storage" menüpontot → válasszon felhőtárhely szolgáltatást a listából → adja meg hitelesítő adatait és érintse meg a "Done" gombot.<br><br>
 
 Ha problémákat tapasztal, győződjön meg róla, hogy internetkapcsolata aktív, és ellenőrizze bejelentkezési nevét és jelszavát.<br><br>
@@ -355,9 +355,9 @@ Ha problémákat tapasztal, győződjön meg róla, hogy internetkapcsolata akt�
 Jelenleg támogatott szolgáltatások: Dropbox, OneDrive, Box, MEGA, Yandex.Disk, Media Fire, PCloud és HiDrive.<br><br>
 
 Az alkalmazás Prémium verziójában korlátlan számú felhőfiókot adhat hozzá.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Hogyan kezeljem fájljaimat a hálózati tárhelyen?" closed="true" %}}
+{{% ls-details title="Hogyan kezeljem fájljaimat a hálózati tárhelyen?" closed="true" %}}
 Ha több, a felhőtárhelyén található fájlt kell szerkesztenie, aktiválja a kiválasztási módot a jobb felső sarokban lévő "..." gomb megérintésével.<br><br>
 
 Aktiválás után jelölőnégyzetek jelennek meg minden fájl mellett. Ezután műveleteket hajthat végre egyedi fájlokon, vagy kiválaszthat több fájlt tömeges műveletek alkalmazásához.<br><br>
@@ -371,10 +371,10 @@ Elérhető műveletek a kiválasztott fájlokhoz:<br>
 • <strong>Rács/Lista</strong> – Váltás táblázatos és miniatűr nézet között.<br><br>
 
 Ha nincs elég hely az összes lehetőség megjelenítéséhez, megjelenik a "More actions" gomb. Érintse meg az elérhető műveletek teljes listájának eléréséhez.
-{{% /details %}}
+{{% /ls-details %}}
 
 
-{{% details title="Hogyan szerkesszek több fájlt egyetlen fájlként?" closed="true" %}}
+{{% ls-details title="Hogyan szerkesszek több fájlt egyetlen fájlként?" closed="true" %}}
 A "kötegelt mód" segítségével egyszerre több fájlt szerkeszthet és gyorsan, hatékonyan alkalmazhat közös metaadat-módosításokat.<br><br>
 
 A kötegelt mód aktiválásához:<br>
@@ -382,38 +382,38 @@ A kötegelt mód aktiválásához:<br>
 • Érintse meg az "Edit several files simultaneously" gombot.<br><br>
 
 Ez a mód különösen hasznos, ha ugyanazt az albumcímet, előadót, műfajt vagy más metaadat-mezőket kell alkalmaznia több audió fájlra.
-{{% /details %}}
+{{% /ls-details %}}
 
 </div>
 
 <div class="hx:mt-6"></div>
 
-{{< hextra/section-headline >}}
+{{< ls-section-headline >}}
   Felhasználói útmutató
-{{< /hextra/section-headline >}}
+{{< /ls-section-headline >}}
 
 <div class="hx:mt-6"></div>
 
 <div class="hx:w-full">
 
 <div class="hx:w-full hx:mx-auto hx:flex hx:flex-col hx:items-center hx:text-center">
-  {{< hextra/info-paragraph border="false" >}}
+  {{< ls-info-paragraph border="false" >}}
   Ebben az útmutatóban megtudhatja, hogyan használhatja ki az Evertag erejét iPhone-ján, iPadjén és Macjén, hogy zenekezelési élménye zökkenőmentes és élvezetes legyen.
-  {{< /hextra/info-paragraph >}}
+  {{< /ls-info-paragraph >}}
 </div>
 
 {{< cards >}}
-  {{< feature-card icon="location-marker" title="Navigáció" subtitle="Ismerje meg, hogyan navigálhat könnyedén alkalmazásunkban a Tab Bar (iPhone felhasználók számára) vagy a Left Menu (iPad és Mac felhasználók számára) segítségével az alkalmazás összes funkciójának eléréséhez és felfedezéséhez." link="/docs/guide/evertag/evertag-guide-navigation" >}}
+  {{< ls-feature-card icon="location-marker" title="Navigáció" subtitle="Ismerje meg, hogyan navigálhat könnyedén alkalmazásunkban a Tab Bar (iPhone felhasználók számára) vagy a Left Menu (iPad és Mac felhasználók számára) segítségével az alkalmazás összes funkciójának eléréséhez és felfedezéséhez." link="/docs/guide/evertag/evertag-guide-navigation" >}}
 
-  {{< feature-card icon="cloud" title="Kapcsolatok" subtitle="Könnyedén összekapcsolhatja az összes elérhető felhőfiókját értékes audió fájljaival. Online fájljait is könnyedén szerkesztheti integrált fájlkezelőnk segítségével." link="/docs/guide/evertag/evertag-guide-connections" >}}
+  {{< ls-feature-card icon="cloud" title="Kapcsolatok" subtitle="Könnyedén összekapcsolhatja az összes elérhető felhőfiókját értékes audió fájljaival. Online fájljait is könnyedén szerkesztheti integrált fájlkezelőnk segítségével." link="/docs/guide/evertag/evertag-guide-connections" >}}
 
-  {{< feature-card icon="folder" title="Helyi fájlok" subtitle="Tekintse meg és rendezze az alkalmazás Documents mappájában vagy eszközén tárolt fájlokat. Használja a beépített fájlkezelőt audió fájljai egyszerű szerkesztéséhez és kezeléséhez." link="/docs/guide/evertag/evertag-guide-local-files" >}}
+  {{< ls-feature-card icon="folder" title="Helyi fájlok" subtitle="Tekintse meg és rendezze az alkalmazás Documents mappájában vagy eszközén tárolt fájlokat. Használja a beépített fájlkezelőt audió fájljai egyszerű szerkesztéséhez és kezeléséhez." link="/docs/guide/evertag/evertag-guide-local-files" >}}
 
-  {{< feature-card icon="pencil-alt" title="Címkeszerkesztő" subtitle="Sajátítsa el az audió fájlok metaadat-kezelésének művészetét. Tudja meg, hogyan szerkesztheti a metaadatokat, módosíthatja a borítóképeket és hogyan kezelheti egyszerre több fájlt zökkenőmentesen." link="/docs/guide/evertag/evertag-guide-tag-editor" >}}
+  {{< ls-feature-card icon="pencil-alt" title="Címkeszerkesztő" subtitle="Sajátítsa el az audió fájlok metaadat-kezelésének művészetét. Tudja meg, hogyan szerkesztheti a metaadatokat, módosíthatja a borítóképeket és hogyan kezelheti egyszerre több fájlt zökkenőmentesen." link="/docs/guide/evertag/evertag-guide-tag-editor" >}}
 
-  {{< feature-card icon="code" title="Címkemező-leképezések" subtitle="Fedezze fel az Evertag alkalmazás által támogatott audió címkemezők teljes listáját, beleértve a belső mezőneveket és a főbb metaadat-formátumok közötti leképezéseket." link="/docs/guide/evertag/evertag-tag-field-mappings" >}}
+  {{< ls-feature-card icon="code" title="Címkemező-leképezések" subtitle="Fedezze fel az Evertag alkalmazás által támogatott audió címkemezők teljes listáját, beleértve a belső mezőneveket és a főbb metaadat-formátumok közötti leképezéseket." link="/docs/guide/evertag/evertag-tag-field-mappings" >}}
 
-  {{< feature-card icon="adjustments" title="Beállítások" subtitle="Fedezze fel, hogyan szabhatja testre alkalmazás-élményét, finomhangolhatja a teljesítményt, kezelheti az adathasználatot, és hogyan igazíthatja a nyelvi és felhasználói felület beállításait ízlése szerint." link="/docs/guide/evertag/evertag-guide-settings" >}}
+  {{< ls-feature-card icon="adjustments" title="Beállítások" subtitle="Fedezze fel, hogyan szabhatja testre alkalmazás-élményét, finomhangolhatja a teljesítményt, kezelheti az adathasználatot, és hogyan igazíthatja a nyelvi és felhasználói felület beállításait ízlése szerint." link="/docs/guide/evertag/evertag-guide-settings" >}}
 
 {{< /cards >}}
 

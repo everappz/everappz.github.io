@@ -7,7 +7,7 @@ tags: ["מוזיקה", "usb", "חיצוני", "ixpand", "sandisk", "iphone", "ev
 readingTime: 3
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **תקציר:** Evermusic מאפשר לכם לנגן מוזיקה ישירות מכונן הבזק SanDisk iXpand באייפון או אייפד. חברו את הכונן, פתחו את Evermusic והתחילו להאזין -- אין צורך להעתיק קבצים למכשיר שלכם. תומך בניהול קבצים, רשימות השמעה, אקולייזר וסטרימינג באמצעות AirPlay.
@@ -69,22 +69,22 @@ Evermusic משמש כמנהל קבצים, המאפשר לכם לבצע פעול�
 
 ## שאלות נפוצות
 
-{{% details title="אילו דגמי כונן הבזק iXpand תומך Evermusic?" closed="true" %}}
+{{% ls-details title="אילו דגמי כונן הבזק iXpand תומך Evermusic?" closed="true" %}}
 Evermusic תומך בכונני הבזק SanDisk iXpand עם פרוטוקולים V1, V2, V3, V6 ו-V7. תוכלו לבדוק תאימות בהגדרות האייפון שלכם תחת כללי > אודות > iXpand Flash Drive.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="האם אני יכול לנגן מוזיקה מכונן USB מבלי להעתיק קבצים לאייפון שלי?" closed="true" %}}
+{{% ls-details title="האם אני יכול לנגן מוזיקה מכונן USB מבלי להעתיק קבצים לאייפון שלי?" closed="true" %}}
 כן. Evermusic מנגן קבצי אודיו ישירות מכונן הבזק iXpand. אין צורך להעתיק דבר לאחסון הפנימי של המכשיר שלכם.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="אילו פורמטי אודיו תומך Evermusic מכונני USB?" closed="true" %}}
+{{% ls-details title="אילו פורמטי אודיו תומך Evermusic מכונני USB?" closed="true" %}}
 Evermusic תומך בכל פורמטי האודיו העיקריים כולל MP3, FLAC, AAC, WAV, AIFF, OGG ועוד. כל קובץ אודיו המאוחסן בכונן iXpand שלכם יכול להתנגן ישירות.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="האם אני יכול לשדר מוזיקה מכונן iXpand לרמקולי AirPlay?" closed="true" %}}
+{{% ls-details title="האם אני יכול לשדר מוזיקה מכונן iXpand לרמקולי AirPlay?" closed="true" %}}
 כן. בזמן ניגון מוזיקה מכונן USB, תוכלו לשדר אודיו למכשירים תואמי AirPlay כגון רמקולי Sonos, Apple TV ו-Google Chromecast.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="מה עלי לעשות אם כונן iXpand שלי אינו מזוהה?" closed="true" %}}
+{{% ls-details title="מה עלי לעשות אם כונן iXpand שלי אינו מזוהה?" closed="true" %}}
 ודאו שאף אפליקציה אחרת אינה משתמשת בכונן. נסו לנתק ולחבר אותו מחדש. אם הדגם שלכם אינו נתמך, השתמשו במתאם Apple Lightning ל-USB כדי לחבר את הכונן כמכשיר USB סטנדרטי.
-{{% /details %}}
+{{% /ls-details %}}

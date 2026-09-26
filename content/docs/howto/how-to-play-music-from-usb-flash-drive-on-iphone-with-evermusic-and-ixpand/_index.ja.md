@@ -7,7 +7,7 @@ tags: ["音楽", "usb", "外部", "ixpand", "sandisk", "iphone", "evermusic"]
 readingTime: 3
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **要約:** Evermusicを使えば、SanDisk iXpand Flash DriveからiPhoneやiPadで直接音楽を再生できます。ドライブを接続し、Evermusicを開いて聴き始めましょう -- デバイスにファイルをコピーする必要はありません。ファイル管理、プレイリスト、イコライザー、AirPlayストリーミングに対応しています。
@@ -69,22 +69,22 @@ EvermusicとSanDisk iXpand Flash Driveがあれば、ストレージの制限を
 
 ## よくある質問
 
-{{% details title="EvermusicはどのiXpand Flash Driveモデルに対応していますか？" closed="true" %}}
+{{% ls-details title="EvermusicはどのiXpand Flash Driveモデルに対応していますか？" closed="true" %}}
 EvermusicはV1、V2、V3、V6、V7プロトコルのSanDisk iXpand Flash Driveに対応しています。iPhoneの設定の一般 > 情報 > iXpand Flash Driveで互換性を確認できます。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="iPhoneにファイルをコピーせずにUSBドライブから音楽を再生できますか？" closed="true" %}}
+{{% ls-details title="iPhoneにファイルをコピーせずにUSBドライブから音楽を再生できますか？" closed="true" %}}
 はい。EvermusicはiXpand Flash Driveから直接オーディオファイルを再生します。デバイスの内部ストレージに何もコピーする必要はありません。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="EvermusicはUSBドライブからどのオーディオフォーマットに対応していますか？" closed="true" %}}
+{{% ls-details title="EvermusicはUSBドライブからどのオーディオフォーマットに対応していますか？" closed="true" %}}
 EvermusicはMP3、FLAC、AAC、WAV、AIFF、OGGなど、すべての主要なオーディオフォーマットに対応しています。iXpandドライブに保存されているオーディオファイルはすべて直接再生できます。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="iXpandドライブからAirPlayスピーカーに音楽をストリーミングできますか？" closed="true" %}}
+{{% ls-details title="iXpandドライブからAirPlayスピーカーに音楽をストリーミングできますか？" closed="true" %}}
 はい。USBドライブから音楽を再生しながら、Sonosスピーカー、Apple TV、Google ChromecastなどのAirPlay対応デバイスにオーディオをストリーミングできます。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="iXpandドライブが認識されない場合はどうすればよいですか？" closed="true" %}}
+{{% ls-details title="iXpandドライブが認識されない場合はどうすればよいですか？" closed="true" %}}
 他のアプリがドライブを使用していないことを確認してください。ドライブを抜いて再接続してみてください。お使いのモデルが対応していない場合は、Apple Lightning-USBアダプタを使用してドライブを標準USBデバイスとして接続してください。
-{{% /details %}}
+{{% /ls-details %}}

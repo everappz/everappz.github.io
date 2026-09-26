@@ -7,12 +7,12 @@ tags: ["Evermusic", "Flacbox", "Visualizzatore", "Come fare", "Milkdrop", "proje
 readingTime: 9
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 **Risposta breve:** [Evermusic](/products/evermusic) e [Flacbox](/products/flacbox) hanno entrambi un **visualizzatore musicale** a schermo intero che dipinge grafiche in movimento e colorate a tempo con la tua musica. Aprilo dal lettore **Now Playing** (**⋯ Altre azioni > Visualizzazione**) oppure da **Impostazioni > Visualizzazione**, poi scegli un preset o **Auto** e tocca **Avvia visualizzazione**. Sulla schermata del visualizzatore, tocca una volta per mostrare o nascondere i controlli e usa le frecce **Precedente** e **Successivo** per cambiare l'aspetto. Usa il ben noto motore **Milkdrop (projectM)** con **500 preset**, renderizza con **OpenGL** e funziona su **iPhone, iPad e Mac**. I passaggi sono gli stessi in entrambe le app. I passaggi completi sono qui sotto.
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Visualizzatore musicale: preset Starfield Sectors" image="/docs/howto/how-to-turn-on-a-music-visualizer-while-playing-music-on-iphone-ipad-mac/music-visualizer-starfield-sectors-preset.webp" imageStyle="border-radius: clamp(14px, 2vw, 28px);" >}}
+{{< ls-card title="" subtitle="Visualizzatore musicale: preset Starfield Sectors" image="/docs/howto/how-to-turn-on-a-music-visualizer-while-playing-music-on-iphone-ipad-mac/music-visualizer-starfield-sectors-preset.webp" imageStyle="border-radius: clamp(14px, 2vw, 28px);" >}}
 {{< /cards >}}
 
 ## Cos'è il visualizzatore?
@@ -85,50 +85,50 @@ In entrambi i casi, le grafiche reagiscono all'audio esatto che stai riproducend
 
 ## Domande frequenti
 
-{{% details title="Come attivo il visualizzatore in Evermusic o Flacbox?" closed="true" %}}
+{{% ls-details title="Come attivo il visualizzatore in Evermusic o Flacbox?" closed="true" %}}
 Apri il lettore Now Playing, tocca il pulsante ⋯ (Altre azioni) e scegli Visualizzazione. Puoi anche aprirlo da Impostazioni > Visualizzazione. Poi scegli un preset (o Auto) e tocca Avvia visualizzazione. I passaggi sono gli stessi in entrambe le app.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Su cosa si basa il visualizzatore?" closed="true" %}}
+{{% ls-details title="Su cosa si basa il visualizzatore?" closed="true" %}}
 Usa il motore open-source projectM, che riproduce preset in stile Milkdrop. Queste sono le grafiche animate e reattive alla musica che molte persone conoscono dai lettori musicali per desktop. Sia Evermusic sia Flacbox includono 500 preset e li disegnano con OpenGL.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Quanti preset del visualizzatore ci sono?" closed="true" %}}
+{{% ls-details title="Quanti preset del visualizzatore ci sono?" closed="true" %}}
 500 preset. Ognuno è una scena animata diversa, e puoi muoverti tra di essi con le frecce Successivo e Precedente, oppure lasciare che la modalità Auto scorra tra di essi per te.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Il visualizzatore reagisce alla musica?" closed="true" %}}
+{{% ls-details title="Il visualizzatore reagisce alla musica?" closed="true" %}}
 Sì. Le grafiche rispondono all'audio che stai riproducendo in tempo reale, così le forme, i colori e il movimento cambiano con il ritmo e l'energia del brano. Funziona con file locali, drive su cloud, media server e radio internet.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Come cambio il preset del visualizzatore?" closed="true" %}}
+{{% ls-details title="Come cambio il preset del visualizzatore?" closed="true" %}}
 Tocca lo schermo una volta per mostrare i controlli, poi usa le frecce Precedente e Successivo in basso per muoverti tra i preset. Il nome e il contatore in alto (per esempio, 429 / 500) si aggiornano man mano che li cambi. Puoi anche partire in modalità Auto per far cambiare i preset all'app automaticamente.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Cos'è la modalità Auto?" closed="true" %}}
+{{% ls-details title="Cos'è la modalità Auto?" closed="true" %}}
 La modalità Auto, scelta dal selettore di preset, scorre tra i preset da sola, passando a uno nuovo ogni 30 secondi con una dissolvenza incrociata morbida. È il modo più facile per goderti lo spettacolo senza toccare lo schermo.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Come nascondo i controlli su schermo?" closed="true" %}}
+{{% ls-details title="Come nascondo i controlli su schermo?" closed="true" %}}
 Tocca lo schermo una volta per nascondere i controlli per una vista pulita a schermo intero, e tocca di nuovo per farli ricomparire. I controlli si nascondono anche da soli dopo qualche secondo.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Il visualizzatore funziona su Mac?" closed="true" %}}
+{{% ls-details title="Il visualizzatore funziona su Mac?" closed="true" %}}
 Sì. Su Mac, sia Evermusic sia Flacbox aprono il visualizzatore nella propria finestra e lo disegnano con OpenGL desktop nativo, così ottieni le stesse grafiche Milkdrop reattive alla musica su un grande schermo.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Il visualizzatore funziona su iPhone e iPad?" closed="true" %}}
+{{% ls-details title="Il visualizzatore funziona su iPhone e iPad?" closed="true" %}}
 Sì. Su iPhone e iPad funziona a schermo intero, disegnato con OpenGL ES per un'animazione fluida sui display Retina.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Il mio schermo si oscura o si blocca mentre il visualizzatore è in esecuzione?" closed="true" %}}
+{{% ls-details title="Il mio schermo si oscura o si blocca mentre il visualizzatore è in esecuzione?" closed="true" %}}
 No. L'app tiene lo schermo acceso mentre il visualizzatore è attivo, così lo spettacolo non viene interrotto dall'oscuramento o dal blocco del display.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="L'app ricorda il preset che ho scelto?" closed="true" %}}
+{{% ls-details title="L'app ricorda il preset che ho scelto?" closed="true" %}}
 Sì. L'ultimo preset che hai selezionato viene salvato ed evidenziato nel selettore di preset, così è facile tornare al tuo preferito.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Dove viene mostrato il nome del preset corrente?" closed="true" %}}
+{{% ls-details title="Dove viene mostrato il nome del preset corrente?" closed="true" %}}
 In alto al centro della schermata del visualizzatore, insieme a un contatore come 429 / 500 che mostra su quale preset sei rispetto all'intero set. Nello screenshot di esempio, il preset è Starfield Sectors.
-{{% /details %}}
+{{% /ls-details %}}

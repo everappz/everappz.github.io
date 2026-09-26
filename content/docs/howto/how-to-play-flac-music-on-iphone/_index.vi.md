@@ -8,7 +8,7 @@ tags: ["nhạc", "đám mây", "trình phát", "trình tải xuống", "bộ ch�
 readingTime: 8
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **Tóm lại:** Để phát FLAC trên iPhone, bạn cần một trình phát của bên thứ ba, vì ứng dụng Music của Apple không hỗ trợ FLAC. Cài đặt [Flacbox](/products/flacbox) (miễn phí), sau đó chuyển các tệp của bạn qua Wi-Fi Drive hoặc USB, hoặc kết nối bộ lưu trữ đám mây hay NAS của bạn. Thư viện FLAC của bạn phát ở chất lượng đầy đủ, lên đến 384 kHz và 32-bit thông qua USB DAC. Flacbox cũng phát hơn 120 định dạng, bao gồm FLAC, DSD, ALAC, APE, WAV, OGG và OPUS, đồng thời bổ sung bộ chỉnh âm 10 dải, engine âm thanh chuyên nghiệp BASS với các hiệu ứng thời gian thực, bộ xử lý DSP và trình trực quan hóa nhạc toàn màn hình.
@@ -34,7 +34,7 @@ Flacbox là trình phát nhạc hi-res dành cho iPhone, iPad và Mac. Nó biế
 
 Flacbox miễn phí để tải xuống và chạy trên iPhone, iPad và Mac.
 
-{{< app-details product="flacbox" >}}
+{{< ls-app-details product="flacbox" >}}
 
 ### Bước 2. Đưa các tệp FLAC của bạn vào
 
@@ -82,7 +82,7 @@ Bạn có thể chọn engine phát trong Cài đặt, sau đó Trình phát âm
 Flacbox bao gồm một bộ chỉnh âm đồ họa 10 dải với các preset kiểu iPod như Acoustic, Bass Booster, Rock, Pop, Jazz, Classical và Dance. Có một bộ tiền khuếch đại để nâng các bản nhạc nhỏ mà không bị méo, và bạn có thể lưu preset của riêng mình. Tinh chỉnh nó cho tai nghe in-ear, HomePod hoặc dàn âm thanh xe hơi. Để xem hướng dẫn đầy đủ, hãy xem [hướng dẫn bộ chỉnh âm](/docs/howto/how-to-use-the-audio-equalizer-on-your-iphone-ipad-mac-with-evermusic-and-flacbox).
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Bộ chỉnh âm Trình phát âm thanh Flacbox" image="/docs/guide/flacbox/img/audio-player-equalizer.webp" >}}
+  {{< ls-card title="" subtitle="Bộ chỉnh âm Trình phát âm thanh Flacbox" image="/docs/guide/flacbox/img/audio-player-equalizer.webp" >}}
 {{< /cards >}}
 
 ## Hiệu ứng âm thanh thời gian thực
@@ -106,7 +106,7 @@ Ngoài các hiệu ứng, Flacbox cung cấp cho bạn một bộ xử lý DSP 1
 Flacbox có một trình trực quan hóa nhạc tích hợp vẽ các hình ảnh chuyển động, đầy màu sắc theo nhịp nhạc của bạn. Nó sử dụng engine Milkdrop nổi tiếng (projectM) với 500 preset, được vẽ bằng OpenGL trên iPhone, iPad và Mac. Mở nó từ trình phát bằng cách nhấn nút Thêm hành động rồi Trực quan hóa. Chọn một preset, hoặc sử dụng chế độ Auto để xáo trộn chúng mỗi 30 giây với hiệu ứng chuyển cảnh mượt mà. Để được trợ giúp từng bước, hãy xem hướng dẫn về [cách bật trình trực quan hóa nhạc](/docs/howto/how-to-turn-on-a-music-visualizer-while-playing-music-on-iphone-ipad-mac).
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Trình trực quan hóa nhạc Flacbox (Milkdrop and projectM)" image="/docs/howto/how-to-turn-on-a-music-visualizer-while-playing-music-on-iphone-ipad-mac/music-visualizer-starfield-sectors-preset.webp" >}}
+  {{< ls-card title="" subtitle="Trình trực quan hóa nhạc Flacbox (Milkdrop and projectM)" image="/docs/howto/how-to-turn-on-a-music-visualizer-while-playing-music-on-iphone-ipad-mac/music-visualizer-starfield-sectors-preset.webp" >}}
 {{< /cards >}}
 
 ## Đám mây, NAS và phát ngoại tuyến
@@ -127,7 +127,7 @@ Khi bạn muốn mang nhạc theo bên mình, trình quản lý tải xuống t�
 
 Flacbox miễn phí để tải xuống. Premium loại bỏ các giới hạn của phiên bản miễn phí đối với tài khoản đám mây, danh sách phát và thư mục ngoại tuyến, và nó có sẵn dưới dạng mua trọn đời một lần hoặc đăng ký hàng tháng hay hàng năm, với Chia sẻ trong gia đình.
 
-{{< app-details product="flacbox" >}}
+{{< ls-app-details product="flacbox" >}}
 
 ## Lựa chọn 2: Chuyển đổi FLAC sang ALAC cho ứng dụng Music
 
@@ -141,34 +141,34 @@ Các đánh đổi là có thật. Bây giờ bạn giữ hai bản sao thư vi�
 
 ## Câu hỏi thường gặp
 
-{{% details title="iPhone có thể phát tệp FLAC một cách tự nhiên không?" closed="true" %}}
+{{% ls-details title="iPhone có thể phát tệp FLAC một cách tự nhiên không?" closed="true" %}}
 Chỉ ở mức hạn chế. Ứng dụng Files có thể xem trước một tệp FLAC duy nhất kể từ iOS 11, nhưng không có thư viện, danh sách phát, hàng đợi, bộ chỉnh âm hay phát trực tuyến từ đám mây. Để nghe thực sự, hãy dùng một ứng dụng trình phát như Flacbox.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Tôi có thể phát FLAC 24-bit hoặc 96kHz (hoặc cao hơn) trên iPhone không?" closed="true" %}}
+{{% ls-details title="Tôi có thể phát FLAC 24-bit hoặc 96kHz (hoặc cao hơn) trên iPhone không?" closed="true" %}}
 Có. Flacbox hỗ trợ xuất hi-res lên đến 384 kHz. Để phát trên 48 kHz ở độ phân giải thực, hãy kết nối một USB DAC ngoài, vì đầu ra tích hợp của iPhone lấy mẫu lại âm thanh cho mọi ứng dụng.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Flacbox có chuyển đổi FLAC sang định dạng khác không?" closed="true" %}}
+{{% ls-details title="Flacbox có chuyển đổi FLAC sang định dạng khác không?" closed="true" %}}
 Không. Flacbox phát FLAC ở chất lượng lossless gốc mà không cần chuyển đổi. Các hiệu ứng và DSP chỉ được áp dụng trực tiếp trong khi phát, và chúng không bao giờ thay đổi các tệp của bạn.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Tôi có mất chất lượng khi chuyển đổi FLAC sang ALAC không?" closed="true" %}}
+{{% ls-details title="Tôi có mất chất lượng khi chuyển đổi FLAC sang ALAC không?" closed="true" %}}
 Không. FLAC và ALAC đều là lossless, nên việc chuyển đổi là chính xác từng bit. Bạn chỉ tốn thời gian và từ bỏ sự tiện lợi, vì cuối cùng bạn có hai thư viện để duy trì và phải đồng bộ lại sau khi chỉnh sửa.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Flacbox hỗ trợ những định dạng âm thanh nào?" closed="true" %}}
+{{% ls-details title="Flacbox hỗ trợ những định dạng âm thanh nào?" closed="true" %}}
 Hơn 120 định dạng, bao gồm FLAC, DSD (DSF và DFF), ALAC, APE, WAV, AIFF, WV, OGG, OPUS, MP3, AAC, M4A, WMA, và thậm chí cả nhạc tracker và MOD như MOD, XM, IT và S3M.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Flacbox có bộ chỉnh âm, hiệu ứng và trình trực quan hóa không?" closed="true" %}}
+{{% ls-details title="Flacbox có bộ chỉnh âm, hiệu ứng và trình trực quan hóa không?" closed="true" %}}
 Có. Nó có một bộ chỉnh âm 10 dải với các preset và một bộ tiền khuếch đại. Nó cũng có một engine BASS chuyên nghiệp với mười một hiệu ứng thời gian thực (reverb, delay, multi-tap echo, crossfeed, compressor, chorus, flanger, phaser, auto-wah, distortion và stereo rotation), cùng cân bằng âm lượng EBU R128, một bộ xử lý DSP 14 bộ lọc và một trình trực quan hóa Milkdrop toàn màn hình với 500 preset.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Tôi có thể phát trực tuyến FLAC từ NAS hoặc đám mây của mình không?" closed="true" %}}
+{{% ls-details title="Tôi có thể phát trực tuyến FLAC từ NAS hoặc đám mây của mình không?" closed="true" %}}
 Có. Flacbox kết nối với hơn 30 dịch vụ đám mây và với một NAS hoặc máy tính qua SMB, WebDAV, DLNA, FTP, SFTP và NFS. Toàn bộ thư viện của bạn có sẵn mà không cần sao chép tệp vào iPhone, và bạn có thể tải xuống các bản nhạc để phát ngoại tuyến bất cứ lúc nào.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Flacbox có thực sự miễn phí không?" closed="true" %}}
+{{% ls-details title="Flacbox có thực sự miễn phí không?" closed="true" %}}
 Flacbox miễn phí để tải xuống, với các tính năng cốt lõi như bộ chỉnh âm, phát trực tuyến từ đám mây và phát ngoại tuyến. Premium loại bỏ các giới hạn của phiên bản miễn phí đối với tài khoản đám mây, danh sách phát và thư mục ngoại tuyến, và nó đi kèm dưới dạng mua trọn đời một lần hoặc đăng ký hàng tháng hay hàng năm, với Chia sẻ trong gia đình.
-{{% /details %}}
+{{% /ls-details %}}

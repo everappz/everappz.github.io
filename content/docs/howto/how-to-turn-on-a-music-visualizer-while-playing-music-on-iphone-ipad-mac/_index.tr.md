@@ -7,12 +7,12 @@ tags: ["Evermusic", "Flacbox", "Görselleştirici", "Nasıl Yapılır", "Milkdro
 readingTime: 9
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 **Kısa cevap:** [Evermusic](/products/evermusic) ve [Flacbox](/products/flacbox)'ın her ikisinde de müziğinizle uyumlu olarak hareket eden, renkli görseller çizen tam ekran bir **müzik görselleştiricisi** vardır. Onu **Şimdi Çalınıyor** çalarından (**⋯ Daha fazla eylem > Görselleştirme**) veya **Ayarlar > Görselleştirme**'den açın, ardından bir ön ayar veya **Auto** seçin ve **Görselleştirmeyi başlat**'a dokunun. Görselleştirici ekranında, denetimleri göstermek veya gizlemek için bir kez dokunun ve görünümü değiştirmek için **Önceki** ve **Sonraki** oklarını kullanın. İyi bilinen **Milkdrop (projectM)** motorunu **500 ön ayarla** kullanır, **OpenGL** ile işler ve **iPhone, iPad ve Mac**'te çalışır. Adımlar her iki uygulamada da aynıdır. Tüm adımlar aşağıdadır.
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Müzik görselleştiricisi: Starfield Sectors ön ayarı" image="/docs/howto/how-to-turn-on-a-music-visualizer-while-playing-music-on-iphone-ipad-mac/music-visualizer-starfield-sectors-preset.webp" imageStyle="border-radius: clamp(14px, 2vw, 28px);" >}}
+{{< ls-card title="" subtitle="Müzik görselleştiricisi: Starfield Sectors ön ayarı" image="/docs/howto/how-to-turn-on-a-music-visualizer-while-playing-music-on-iphone-ipad-mac/music-visualizer-starfield-sectors-preset.webp" imageStyle="border-radius: clamp(14px, 2vw, 28px);" >}}
 {{< /cards >}}
 
 ## Görselleştirici Nedir?
@@ -85,50 +85,50 @@ Her iki durumda da görseller, ister yerel bir FLAC dosyası, ister bir bulut s�
 
 ## SSS
 
-{{% details title="Evermusic veya Flacbox'ta görselleştiriciyi nasıl açarım?" closed="true" %}}
+{{% ls-details title="Evermusic veya Flacbox'ta görselleştiriciyi nasıl açarım?" closed="true" %}}
 Şimdi Çalınıyor çalarını açın, ⋯ (Daha fazla eylem) düğmesine dokunun ve Görselleştirme'yi seçin. Ayrıca Ayarlar > Görselleştirme'den de açabilirsiniz. Sonra bir ön ayar (veya Auto) seçin ve Görselleştirmeyi başlat'a dokunun. Adımlar her iki uygulamada da aynıdır.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Görselleştirici neye dayanıyor?" closed="true" %}}
+{{% ls-details title="Görselleştirici neye dayanıyor?" closed="true" %}}
 Milkdrop tarzı ön ayarları oynatan açık kaynaklı projectM motorunu kullanır. Bunlar, birçok kişinin masaüstü müzik çalarlardan bildiği animasyonlu, müziğe tepki veren görsellerdir. Hem Evermusic hem de Flacbox 500 ön ayar içerir ve bunları OpenGL ile çizer.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Kaç tane görselleştirici ön ayarı var?" closed="true" %}}
+{{% ls-details title="Kaç tane görselleştirici ön ayarı var?" closed="true" %}}
 500 ön ayar. Her biri farklı bir animasyonlu sahnedir ve bunlar arasında Sonraki ve Önceki oklarıyla ilerleyebilir veya Auto modunun sizin için karıştırmasına izin verebilirsiniz.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Görselleştirici müziğe tepki verir mi?" closed="true" %}}
+{{% ls-details title="Görselleştirici müziğe tepki verir mi?" closed="true" %}}
 Evet. Görseller, çaldığınız sese gerçek zamanlı olarak tepki verir, böylece şekiller, renkler ve hareket parçanın ritmi ve enerjisiyle değişir. Yerel dosyalar, bulut sürücüleri, medya sunucuları ve internet radyosuyla çalışır.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Görselleştirici ön ayarını nasıl değiştiririm?" closed="true" %}}
+{{% ls-details title="Görselleştirici ön ayarını nasıl değiştiririm?" closed="true" %}}
 Denetimleri göstermek için ekrana bir kez dokunun, ardından ön ayarlar arasında geçiş yapmak için alttaki Önceki ve Sonraki oklarını kullanın. Değiştirdikçe üstteki ad ve sayaç (örneğin, 429 / 500) güncellenir. Uygulamanın ön ayarları otomatik olarak değiştirmesi için Auto modunda da başlayabilirsiniz.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Auto modu nedir?" closed="true" %}}
+{{% ls-details title="Auto modu nedir?" closed="true" %}}
 Ön ayar seçiciden seçilen Auto modu, ön ayarları kendi başına karıştırır ve yumuşak bir çapraz geçişle her 30 saniyede bir yenisine geçer. Ekrana dokunmadan gösterinin tadını çıkarmanın en kolay yoludur.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Ekran üstü denetimleri nasıl gizlerim?" closed="true" %}}
+{{% ls-details title="Ekran üstü denetimleri nasıl gizlerim?" closed="true" %}}
 Temiz, tam ekran bir görünüm için ekrana bir kez dokunarak denetimleri gizleyin ve geri getirmek için tekrar dokunun. Denetimler ayrıca birkaç saniye sonra kendiliğinden gizlenir.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Görselleştirici Mac'te çalışır mı?" closed="true" %}}
+{{% ls-details title="Görselleştirici Mac'te çalışır mı?" closed="true" %}}
 Evet. Mac'te, hem Evermusic hem de Flacbox görselleştiriciyi kendi penceresinde açar ve onu yerel masaüstü OpenGL ile çizer, böylece büyük bir ekranda aynı müziğe tepki veren Milkdrop görsellerini elde edersiniz.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Görselleştirici iPhone ve iPad'de çalışır mı?" closed="true" %}}
+{{% ls-details title="Görselleştirici iPhone ve iPad'de çalışır mı?" closed="true" %}}
 Evet. iPhone ve iPad'de tam ekran çalışır ve Retina ekranlarda akıcı animasyon için OpenGL ES ile çizilir.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Görselleştirici çalışırken ekranım kararır veya kilitlenir mi?" closed="true" %}}
+{{% ls-details title="Görselleştirici çalışırken ekranım kararır veya kilitlenir mi?" closed="true" %}}
 Hayır. Uygulama, görselleştirici açıkken ekranı açık tutar, böylece gösteri ekranın kararması veya kilitlenmesiyle kesintiye uğramaz.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Uygulama seçtiğim ön ayarı hatırlar mı?" closed="true" %}}
+{{% ls-details title="Uygulama seçtiğim ön ayarı hatırlar mı?" closed="true" %}}
 Evet. Seçtiğiniz son ön ayar kaydedilir ve ön ayar seçicide vurgulanır, böylece favorinize dönmek kolaydır.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Geçerli ön ayar adı nerede gösterilir?" closed="true" %}}
+{{% ls-details title="Geçerli ön ayar adı nerede gösterilir?" closed="true" %}}
 Görselleştirici ekranının üst ortasında, tüm setin içinde hangi ön ayarda olduğunuzu gösteren 429 / 500 gibi bir sayaçla birlikte. Örnek ekran görüntüsünde ön ayar Starfield Sectors'tür.
-{{% /details %}}
+{{% /ls-details %}}

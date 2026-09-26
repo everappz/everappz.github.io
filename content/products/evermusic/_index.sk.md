@@ -16,16 +16,16 @@ screenshots:
   - "https://everappz.com/products/evermusic/screenshots/2048x2732/6.png"
 ---
 
-{{% sr-only %}}
+{{% ls-sr-only %}}
 Evermusic je bezplatný offline hudobný prehrávač pre iPhone a Mac vyvinutý spoločnosťou Everappz, španielskou softvérovou firmou. S viac ako 11 miliónmi stiahnutí po celom svete a hodnotením 4,6 hviezdičky z viac ako 18 000 recenzií na App Store je Evermusic jedným z najpopulárnejších hudobných prehrávačov tretích strán na iOS. Aplikácia sa pripája k viac ako 30 službám cloudového úložiska vrátane iCloud Drive, Google Drive, Dropbox, OneDrive, MEGA, Box, pCloud a Yandex.Disk, čo umožňuje používateľom streamovať ich osobnú hudobnú knižnicu priamo z cloudu alebo sťahovať skladby na offline počúvanie. Evermusic podporuje širokú škálu audio formátov vrátane MP3, FLAC, AAC, ALAC, WAV, AIFF, OGG, OPUS, WMA, APE a DSD. Medzi kľúčové funkcie patrí 10-pásmový audio ekvalizér s predvoľbami, crossfade a plynulé prehrávanie bez medzier, import a export playlistov M3U, zobrazenie textov, audio záložky, integrácia s Apple CarPlay, streamovanie cez AirPlay a Chromecast a scrobbling na Last.fm. Aplikácia tiež podporuje streamovanie v lokálnej sieti prostredníctvom protokolov SMB, WebDAV a DLNA, ako aj prehrávanie z USB flash diskov cez adaptéry Lightning alebo USB-C. Evermusic je k dispozícii na bezplatné stiahnutie v App Store s voliteľnými nákupmi v aplikácii vrátane mesačného predplatného za $4.99, ročného predplatného za $19.99 alebo jednorazového doživotného nákupu za $59.99. Aplikácia bola prvýkrát vydaná v roku 2014 a je aktívne udržiavaná s pravidelnými aktualizáciami.
-{{% /sr-only %}}
+{{% /ls-sr-only %}}
 
 
 <!-- <body class="hx:bg-transparent" style="background: radial-gradient(ellipse at 50% 80%, rgba(59,130,246,0.05), hsla(0,0%,100%,0));"> -->
 
-{{< force-dark >}}
+{{< ls-force-dark >}}
 
-{{< hextra/hero-container
+{{< ls-hero-container
   image="/products/evermusic/heroimage/hero_1200.png"
   imageWidth="600"
   imageCard="true"
@@ -34,40 +34,40 @@ Evermusic je bezplatný offline hudobný prehrávač pre iPhone a Mac vyvinutý 
 <div class="hx:w-full hx:text-center">
 
 <div class="hx:mt-4">
-{{< downloads-badge >}}
+{{< ls-downloads-badge >}}
 </div>
 
 <div class="hx:mt-6 hx:mb-6">
 <div class="hx:flex hx:gap-4 hx:items-center hx:justify-center">
-  {{< app-icon src="/images/app_icons/png/Evermusic_Icon-App-1024x1024.png" alt="Evermusic Icon" class="hero-headline-icon" size="80" >}}
-  {{< hextra/hero-headline >}}
+  {{< ls-app-icon src="/images/app_icons/png/Evermusic_Icon-App-1024x1024.png" alt="Evermusic Icon" class="hero-headline-icon" size="80" >}}
+  {{< ls-hero-headline >}}
   Evermusic
-  {{< /hextra/hero-headline >}}
+  {{< /ls-hero-headline >}}
 </div>
 </div>
 
 <div class="hx:mb-6">
-{{< hextra/hero-centered-subtitle >}}
+{{< ls-hero-centered-subtitle >}}
 <a href="https://www.chip.de/downloads/Evermusic-Pro-iPhone-_-iPad-App_91614216.html" target="_blank" rel="noopener">
   Je dokonalým riešením na organizáciu a prehrávanie vlastnej hudby z cloudu <strong>chip.de</strong>
   </a>
-{{< /hextra/hero-centered-subtitle >}}
+{{< /ls-hero-centered-subtitle >}}
 </div>
 
 <div class="hx:mb-6">
-{{< hextra/hero-paragraph >}}
+{{< ls-hero-paragraph >}}
 • Prehrávajte hudbu s crossfade, plynulým prehrávaním a ekvalizérom  
 • Importujte playlisty M3U a sťahujte piesne na offline počúvanie  
 • Streamujte hudbu z cloudových úložísk, NAS, počítača alebo USB flash diskov  
 • Zobrazujte texty piesní počas počúvania a pridávajte audio záložky na obnovenie kedykoľvek  
-{{< /hextra/hero-paragraph >}}
+{{< /ls-hero-paragraph >}}
 </div>
 
-{{< app-store-badges products="evermusic:ios, evermusic:macos" >}}
+{{< ls-app-store-badges products="evermusic:ios, evermusic:macos" >}}
 
 </div>
 
-{{< /hextra/hero-container >}}
+{{< /ls-hero-container >}}
 
 <div class="hx:mt-6"></div>
 
@@ -75,42 +75,42 @@ Evermusic je bezplatný offline hudobný prehrávač pre iPhone a Mac vyvinutý 
 
 {{< hextra/feature-grid >}}
 
-  {{< hextra/feature-card
+  {{< ls-glass-feature-card
     title="Vaša hudba v cloude"
     subtitle="Vytvorte si vlastnú pokročilú službu streamovania hudby zadarmo! Streamujte obľúbené skladby priamo z cloudu s inteligentným vyrovnávacím ukladaním a plynulým prehrávaním a zároveň šetrite úložisko zariadenia. Pripojte služby ako iCloud Drive, Google Drive, Dropbox, OneDrive, Box, MEGA, pCloud, Proton Drive a mnohé ďalšie."
     icon="cloud"
     style="background: radial-gradient(ellipse at 50% 80%, rgba(34,197,94,0.15), hsla(0,0%,100%,0));"
   >}}
 
-  {{< hextra/feature-card
+  {{< ls-glass-feature-card
     title="Offline režim"
     subtitle="Offline režim vám umožňuje sťahovať obľúbené albumy, skladby, interpretov, žánre a playlisty na offline prehrávanie. Počúvajte kdekoľvek, či už v lietadle, v metre alebo mimo dosahu siete, aj keď nie ste pripojení k internetu, bez streamovania a bez spotreby dát."
     icon="download"
     style="background: radial-gradient(ellipse at 50% 80%, rgba(234,88,12,0.15), hsla(0,0%,100%,0));"
   >}}
 
-  {{< hextra/feature-card
+  {{< ls-glass-feature-card
     title="Jednoduchý prenos súborov"
     subtitle="Pripojte Mac alebo PC a streamujte hudbu priamo z domáceho počítača. Prenášajte audio súbory bezproblémovo medzi počítačom a iOS zariadením pomocou Wi-Fi Drive alebo iTunes File Sharing. Môžete tiež pripojiť NAS alebo USB flash disk a pristupovať ku knižnici odkiaľkoľvek."
     icon="duplicate"
     style="background: radial-gradient(ellipse at 50% 80%, rgba(251,191,36,0.15), hsla(0,0%,100%,0));"
   >}}
 
-  {{< hextra/feature-card
+  {{< ls-glass-feature-card
     title="Mediálne servery a NAS"
     subtitle="Pripojte sa k svojim osobným mediálnym knižniciam a domácim serverom ako Plex, Emby, Jellyfin, Subsonic a Navidrome. Prepojte svoj NAS ako Synology, QNAP, Nextcloud a WD My Cloud Home cez SMB, WebDAV, FTP, SFTP, NFS alebo DLNA/UPnP a pristupujte k celej hudobnej zbierke odkiaľkoľvek."
     icon="desktop-computer"
     style="background: radial-gradient(ellipse at 50% 80%, rgba(59,130,246,0.15), hsla(0,0%,100%,0));"
   >}}
 
-  {{< hextra/feature-card
+  {{< ls-glass-feature-card
     title="Profesionálny audio engine"
     subtitle="Vychutnajte si skutočne plynulé prehrávanie bez medzier a jemné prelínanie medzi skladbami. Vytvarujte si zvuk pomocou 10-pásmového ekvalizéra, vlastných predvolieb a zosilnenia predzosilňovača, nastaviteľnej rýchlosti a výšky prehrávania a plnej sady štúdiových efektov ako reverb, echo, chorus, flanger, bass boost, crossfeed a normalizácia hlasitosti."
     icon="adjustments"
     style="background: radial-gradient(ellipse at 50% 80%, rgba(192,38,211,0.15), hsla(0,0%,100%,0));"
   >}}
 
-  {{< hextra/feature-card
+  {{< ls-glass-feature-card
     title="Texty, widgety a CarPlay"
     subtitle="Čítajte vložené a synchronizované LRC texty piesní, ktoré sa posúvajú v rytme hudby, dokonca aj na uzamknutej obrazovke, vo widgetoch na domovskej obrazovke a v Apple CarPlay. Pridajte widgety Práve hrá, Texty, Obľúbené a Nedávno prehrané, aby ste mali hudbu vždy poruke a stále synchronizovanú."
     icon="annotation"
@@ -123,9 +123,9 @@ Evermusic je bezplatný offline hudobný prehrávač pre iPhone a Mac vyvinutý 
 
 <div class="hx:mt-6"></div>
 
-{{< hextra/section-headline >}}
+{{< ls-section-headline >}}
   Čistý a jednoduchý dizajn
-{{< /hextra/section-headline >}}
+{{< /ls-section-headline >}}
 
 <div class="hx:mt-6"></div>
 
@@ -133,7 +133,7 @@ Evermusic je bezplatný offline hudobný prehrávač pre iPhone a Mac vyvinutý 
 
 {{< cards cols="4">}}
 
-  {{< design-feature-card 
+  {{< ls-design-feature-card 
     icon="adjustments"
     image="/products/evermusic/screenshots/2048x2732/3.png" 
     title="Audio ekvalizér" 
@@ -142,7 +142,7 @@ Evermusic je bezplatný offline hudobný prehrávač pre iPhone a Mac vyvinutý 
     subtitle="Dolaďte zvuk pomocou audio ekvalizéra v štýle iPod, prispôsobiteľných predvolieb a zosilnenia predzosilňovača pre najlepší hudobný zážitok." 
   >}}
 
-  {{< design-feature-card 
+  {{< ls-design-feature-card 
     icon="annotation"
     image="/products/evermusic/screenshots/2048x2732/4.png"  
     title="Prehliadač textov" 
@@ -151,7 +151,7 @@ Evermusic je bezplatný offline hudobný prehrávač pre iPhone a Mac vyvinutý 
     subtitle="Čítajte vložené texty piesní a komentáre k skladbám počas počúvania. Užívajte si synchronizované texty pre hlbší hudobný zážitok." 
   >}}
 
-  {{< design-feature-card 
+  {{< ls-design-feature-card 
     icon="collection"
     image="/products/evermusic/screenshots/2048x2732/5.png"  
     title="Správca playlistov" 
@@ -160,7 +160,7 @@ Evermusic je bezplatný offline hudobný prehrávač pre iPhone a Mac vyvinutý 
     subtitle="Vytvárajte a organizujte vlastné playlisty, meniete poradie skladieb, exportujte do M3U alebo archivujte ako ZIP súbory na jednoduché zdieľanie alebo zálohovanie." 
   >}}
 
-  {{< design-feature-card 
+  {{< ls-design-feature-card 
     icon="cloud"
     image="/products/evermusic/screenshots/2048x2732/6.png"  
     title="Streamovanie hudby z cloudu" 
@@ -169,7 +169,7 @@ Evermusic je bezplatný offline hudobný prehrávač pre iPhone a Mac vyvinutý 
     subtitle="Pripojte populárne cloudové platformy ako Google Drive, Dropbox a OneDrive a streamujte svoju hudobnú zbierku kedykoľvek a kdekoľvek." 
   >}}
 
-  {{< design-feature-card 
+  {{< ls-design-feature-card 
     icon="duplicate"
     image="/products/evermusic/screenshots/2048x2732/9.png"  
     title="Správca súborov" 
@@ -178,7 +178,7 @@ Evermusic je bezplatný offline hudobný prehrávač pre iPhone a Mac vyvinutý 
     subtitle="Jednoducho spravujte audio súbory — premenúvajte skladby, organizujte priečinky a prenášajte hudbu medzi zariadeniami pomocou vstavaných nástrojov." 
   >}} 
 
-  {{< design-feature-card 
+  {{< ls-design-feature-card 
     icon="sun"
     image="/products/evermusic/screenshots/2048x2732/10.png"  
     title="Prispôsobenie aplikácie" 
@@ -193,9 +193,9 @@ Evermusic je bezplatný offline hudobný prehrávač pre iPhone a Mac vyvinutý 
 
 <div class="hx:mt-6"></div>
 
-{{< hextra/section-headline >}}
+{{< ls-section-headline >}}
   Kompletná sada funkcií
-{{< /hextra/section-headline >}}
+{{< /ls-section-headline >}}
 
 <div class="hx:mt-6"></div>
 
@@ -203,47 +203,47 @@ Evermusic je bezplatný offline hudobný prehrávač pre iPhone a Mac vyvinutý 
 
 {{< cards >}}
 
-  {{< feature-card title="Prehrávanie všetkých audio formátov" subtitle="Evermusic prehráva najpopulárnejšie audio formáty vrátane MP3, AAC, M4A, WAV, AIFF, ALAC a M4B, takže celá vaša hudobná zbierka je pripravená na prehrávanie na akomkoľvek zariadení." icon="music-note" >}}
+  {{< ls-feature-card title="Prehrávanie všetkých audio formátov" subtitle="Evermusic prehráva najpopulárnejšie audio formáty vrátane MP3, AAC, M4A, WAV, AIFF, ALAC a M4B, takže celá vaša hudobná zbierka je pripravená na prehrávanie na akomkoľvek zariadení." icon="music-note" >}}
 
-  {{< feature-card title="Pripojte svoj cloud" subtitle="Vytvorte si vlastnú streamovaciu službu presunutím knižnice do cloudu a uvoľnením miesta na iPhone. Pripojte iCloud, Google Drive, Dropbox, OneDrive, MEGA, Internxt a Proton Drive." icon="cloud" >}}
+  {{< ls-feature-card title="Pripojte svoj cloud" subtitle="Vytvorte si vlastnú streamovaciu službu presunutím knižnice do cloudu a uvoľnením miesta na iPhone. Pripojte iCloud, Google Drive, Dropbox, OneDrive, MEGA, Internxt a Proton Drive." icon="cloud" >}}
 
-  {{< feature-card title="Pripojte mediálne servery" subtitle="Pripojte svoje osobné mediálne servery priamo k knižnici vrátane Plex, Subsonic, Navidrome, Jellyfin a Emby a streamujte všetko, čo vlastníte, z domova s ľahkosťou." icon="server" >}}
+  {{< ls-feature-card title="Pripojte mediálne servery" subtitle="Pripojte svoje osobné mediálne servery priamo k knižnici vrátane Plex, Subsonic, Navidrome, Jellyfin a Emby a streamujte všetko, čo vlastníte, z domova s ľahkosťou." icon="server" >}}
 
-  {{< feature-card title="Pripojte počítač alebo NAS" subtitle="Pripojte počítač alebo NAS cez SMB, WebDAV, DLNA, FTP, SFTP a NFS s natívnymi API pre QNAP, Synology, Nextcloud a WD My Cloud Home, alebo prenášajte súbory cez Wi-Fi." icon="desktop-computer" >}}
+  {{< ls-feature-card title="Pripojte počítač alebo NAS" subtitle="Pripojte počítač alebo NAS cez SMB, WebDAV, DLNA, FTP, SFTP a NFS s natívnymi API pre QNAP, Synology, Nextcloud a WD My Cloud Home, alebo prenášajte súbory cez Wi-Fi." icon="desktop-computer" >}}
 
-  {{< feature-card title="Offline hudba" subtitle="Sťahujte obľúbené piesne, albumy a interpretov, aby ste si ich mohli vychutnať offline kedykoľvek. Zapnite vyrovnávaciu pamäť audio prehrávača na automatické ukladanie nedávno prehrávaných skladieb na offline počúvanie." icon="download" >}}
+  {{< ls-feature-card title="Offline hudba" subtitle="Sťahujte obľúbené piesne, albumy a interpretov, aby ste si ich mohli vychutnať offline kedykoľvek. Zapnite vyrovnávaciu pamäť audio prehrávača na automatické ukladanie nedávno prehrávaných skladieb na offline počúvanie." icon="download" >}}
 
-  {{< feature-card title="Audio ekvalizér" subtitle="Vytvarujte si zvuk pomocou vstavaného ekvalizéra s hotovými predvoľbami pre populárne hudobné žánre a manuálnym ovládaním na presné doladenie a zosilnenie každej skladby presne podľa vašich predstáv." icon="adjustments" >}}
+  {{< ls-feature-card title="Audio ekvalizér" subtitle="Vytvarujte si zvuk pomocou vstavaného ekvalizéra s hotovými predvoľbami pre populárne hudobné žánre a manuálnym ovládaním na presné doladenie a zosilnenie každej skladby presne podľa vašich predstáv." icon="adjustments" >}}
 
-  {{< feature-card title="Plynulé prehrávanie bez medzier" subtitle="Vychutnajte si plynulé, neprerušované prehrávanie bez páuz medzi piesňami, ideálne pre živé nahrávky, konceptuálne albumy, DJ mixy a klasickú hudbu od začiatku do konca." icon="volume-up" >}}
+  {{< ls-feature-card title="Plynulé prehrávanie bez medzier" subtitle="Vychutnajte si plynulé, neprerušované prehrávanie bez páuz medzi piesňami, ideálne pre živé nahrávky, konceptuálne albumy, DJ mixy a klasickú hudbu od začiatku do konca." icon="volume-up" >}}
 
-  {{< feature-card title="Prehrávanie s crossfade" subtitle="Udržte hudbu v pohybe s prelínaním, kde každá nová pieseň jemne začne pred skončením aktuálnej pre plynulé, nepretržité prehrávanie bez tichých medzier." icon="switch-horizontal" >}}
+  {{< ls-feature-card title="Prehrávanie s crossfade" subtitle="Udržte hudbu v pohybe s prelínaním, kde každá nová pieseň jemne začne pred skončením aktuálnej pre plynulé, nepretržité prehrávanie bez tichých medzier." icon="switch-horizontal" >}}
 
-  {{< feature-card title="Audio efekty" subtitle="Vytvarujte si zvuk pomocou vstavaných audio efektov. Zapnite normalizáciu hlasitosti, aby každá skladba mala rovnakú hlasitosť, a pridajte reverb, delay, distortion a priestorový zvuk podľa chuti." icon="chip" >}}
+  {{< ls-feature-card title="Audio efekty" subtitle="Vytvarujte si zvuk pomocou vstavaných audio efektov. Zapnite normalizáciu hlasitosti, aby každá skladba mala rovnakú hlasitosť, a pridajte reverb, delay, distortion a priestorový zvuk podľa chuti." icon="chip" >}}
 
-  {{< feature-card title="Hudobný vizualizér" subtitle="Sledujte celoobrazovkové animované vizuály, ktoré reagujú naživo na vašu hudbu v reálnom čase. Vyberte si z veľkej knižnice predvolieb alebo ich nechajte automaticky striedať počas počúvania." icon="sparkles" >}}
+  {{< ls-feature-card title="Hudobný vizualizér" subtitle="Sledujte celoobrazovkové animované vizuály, ktoré reagujú naživo na vašu hudbu v reálnom čase. Vyberte si z veľkej knižnice predvolieb alebo ich nechajte automaticky striedať počas počúvania." icon="sparkles" >}}
 
-  {{< feature-card title="Texty a komentáre" subtitle="Zobrazujte vložené časované texty piesní a komentáre k audio skladbám počas prehrávania a pridajte widget textov na domovskú obrazovku pre rýchly prehľad kedykoľvek." icon="annotation" >}}
+  {{< ls-feature-card title="Texty a komentáre" subtitle="Zobrazujte vložené časované texty piesní a komentáre k audio skladbám počas prehrávania a pridajte widget textov na domovskú obrazovku pre rýchly prehľad kedykoľvek." icon="annotation" >}}
 
-  {{< feature-card title="AirPlay a Chromecast" subtitle="Streamujte hudbu bezdrôtovo na Apple TV, inteligentné reproduktory a ďalšie zariadenia so vstavanou podporou AirPlay a Google Chromecast pre bezstarostné počúvanie po celom dome." icon="device-mobile" >}}
+  {{< ls-feature-card title="AirPlay a Chromecast" subtitle="Streamujte hudbu bezdrôtovo na Apple TV, inteligentné reproduktory a ďalšie zariadenia so vstavanou podporou AirPlay a Google Chromecast pre bezstarostné počúvanie po celom dome." icon="device-mobile" >}}
 
-  {{< feature-card title="Apple CarPlay" subtitle="Jazdite a počúvajte bezpečne s dedikovaným rozhraním Apple CarPlay, ktoré vám umiestni hudbu, playlisty a ovládanie prehrávania priamo na displej palubnej dosky auta." icon="truck" >}}
+  {{< ls-feature-card title="Apple CarPlay" subtitle="Jazdite a počúvajte bezpečne s dedikovaným rozhraním Apple CarPlay, ktoré vám umiestni hudbu, playlisty a ovládanie prehrávania priamo na displej palubnej dosky auta." icon="truck" >}}
 
-  {{< feature-card title="Widgety" subtitle="Aktivujte interaktívne widgety na domovskej obrazovke pre rýchly prístup k radu prehrávania a pokračujte presne tam, kde ste skončili, z poslednej uloženej pozície jediným ťuknutím." icon="view-grid" >}}
+  {{< ls-feature-card title="Widgety" subtitle="Aktivujte interaktívne widgety na domovskej obrazovke pre rýchly prístup k radu prehrávania a pokračujte presne tam, kde ste skončili, z poslednej uloženej pozície jediným ťuknutím." icon="view-grid" >}}
 
-  {{< feature-card title="Audioknihy" subtitle="Premeňte aplikáciu na plnohodnotný prehrávač audiokníh s audio záložkami, ovládaním rýchlosti prehrávania a uloženými pozíciami médií, plus čítajte textové detaily uložené v metadátach vašich súborov." icon="book-open" >}}
+  {{< ls-feature-card title="Audioknihy" subtitle="Premeňte aplikáciu na plnohodnotný prehrávač audiokníh s audio záložkami, ovládaním rýchlosti prehrávania a uloženými pozíciami médií, plus čítajte textové detaily uložené v metadátach vašich súborov." icon="book-open" >}}
 
-  {{< feature-card title="Automatická synchronizácia" subtitle="Vaša hudobná knižnica sa automaticky synchronizuje medzi cloudom a zariadením, pričom prehľadne zoskupuje každú pieseň podľa interpreta, albumu a žánru, takže vaša zbierka zostáva vždy organizovaná." icon="refresh" >}}
+  {{< ls-feature-card title="Automatická synchronizácia" subtitle="Vaša hudobná knižnica sa automaticky synchronizuje medzi cloudom a zariadením, pričom prehľadne zoskupuje každú pieseň podľa interpreta, albumu a žánru, takže vaša zbierka zostáva vždy organizovaná." icon="refresh" >}}
 
-  {{< feature-card title="Správca playlistov" subtitle="Vytvárajte a spravujte playlisty, meňte poradie skladieb a sprístupnite ktorýkoľvek playlist offline. Zoraďte skladby podľa názvu, veľkosti, čísla piesne alebo albumu, aby ste udržali všetko v poriadku." icon="collection" >}}
+  {{< ls-feature-card title="Správca playlistov" subtitle="Vytvárajte a spravujte playlisty, meňte poradie skladieb a sprístupnite ktorýkoľvek playlist offline. Zoraďte skladby podľa názvu, veľkosti, čísla piesne alebo albumu, aby ste udržali všetko v poriadku." icon="collection" >}}
 
-  {{< feature-card title="Editor ID3 tagov" subtitle="Opravte poškodené alebo chýbajúce metadáta pomocou vstavaného editora ID3 tagov, aktualizujte názvy, interpretov, albumy a ďalšie, aby vaša hudobná knižnica zostala čistá a dobre organizovaná." icon="pencil-alt" >}}
+  {{< ls-feature-card title="Editor ID3 tagov" subtitle="Opravte poškodené alebo chýbajúce metadáta pomocou vstavaného editora ID3 tagov, aktualizujte názvy, interpretov, albumy a ďalšie, aby vaša hudobná knižnica zostala čistá a dobre organizovaná." icon="pencil-alt" >}}
 
-  {{< feature-card title="Správca súborov" subtitle="Organizujte hudbu pomocou integrovaného správcu súborov, ktorý zvláda každodenné operácie ako kopírovanie, presúvanie, premenovanie a mazanie, aby boli všetky vaše audio súbory prehľadne usporiadané." icon="folder" >}}
+  {{< ls-feature-card title="Správca súborov" subtitle="Organizujte hudbu pomocou integrovaného správcu súborov, ktorý zvláda každodenné operácie ako kopírovanie, presúvanie, premenovanie a mazanie, aby boli všetky vaše audio súbory prehľadne usporiadané." icon="folder" >}}
 
-  {{< feature-card title="Pokročilé vyhľadávanie" subtitle="Nájdite čokoľvek v priebehu sekúnd pomocou inteligentného vyhľadávača, ktorý rýchlo lokalizuje vaše obľúbené albumy, interpretov a piesne kdekoľvek v celej vašej hudobnej knižnici." icon="search" >}}
+  {{< ls-feature-card title="Pokročilé vyhľadávanie" subtitle="Nájdite čokoľvek v priebehu sekúnd pomocou inteligentného vyhľadávača, ktorý rýchlo lokalizuje vaše obľúbené albumy, interpretov a piesne kdekoľvek v celej vašej hudobnej knižnici." icon="search" >}}
 
-  {{< feature-card title="USB flash disky" subtitle="Pripojte externé čítačky kariet ako SanDisk iXpand a počúvajte hudbu priamo z SD karty alebo USB flash disku bez potreby ďalšej synchronizácie alebo sťahovania." icon="inbox" >}}
+  {{< ls-feature-card title="USB flash disky" subtitle="Pripojte externé čítačky kariet ako SanDisk iXpand a počúvajte hudbu priamo z SD karty alebo USB flash disku bez potreby ďalšej synchronizácie alebo sťahovania." icon="inbox" >}}
   
 {{< /cards >}}
 
@@ -254,55 +254,55 @@ Evermusic je bezplatný offline hudobný prehrávač pre iPhone a Mac vyvinutý 
 <div class="hx:mt-6"></div>
 
 <div class="hx:w-full">
-{{< appstore-reviews apps="885367198,1564384601" stars="5,4"  app="Evermusic" >}}
+{{< ls-appstore-reviews apps="885367198,1564384601" stars="5,4"  app="Evermusic" >}}
 </div>
 
 <div class="hx:mt-6"></div>
 
-{{< hextra/section-headline >}}
+{{< ls-section-headline >}}
   Cenové plány
-{{< /hextra/section-headline >}}
+{{< /ls-section-headline >}}
 
 <div class="hx:mt-6"></div>
 
 <div class="hx:w-full">
-{{< pricing-plans >}}
+{{< ls-pricing-plans >}}
 
 </div>
 
 <div class="hx:mt-6"></div>
 
 <div class="hx:w-full hx:mx-auto hx:flex hx:flex-col hx:items-center">
-  {{< hextra/info-paragraph border="true" >}}
+  {{< ls-info-paragraph border="true" >}}
    <strong>Rodinné zdieľanie</strong>: Všetky nákupy a predplatné podporujú Rodinné zdieľanie, čo vám umožňuje zdieľať Premium prístup s rodinou.<br><strong>Univerzálny prístup</strong>: Doživotné a predplatné plány sú zdieľané medzi zariadeniami iOS a Mac pomocou synchronizácie iCloud.<br><strong>Ceny</strong>: Ceny sú uvedené v amerických dolároch pre Spojené štáty. Konečná cena sa môže líšiť v závislosti od vášho regiónu.  
-  {{< /hextra/info-paragraph >}}
+  {{< /ls-info-paragraph >}}
 </div>
 
 <div class="hx:mt-6"></div>
 
 <div class="hx:w-full">
-{{< app-details heading="true" >}}
+{{< ls-app-details heading="true" >}}
 </div>
 
 <div class="hx:mt-6"></div>
 
-{{< hextra/section-headline >}}
+{{< ls-section-headline >}}
   Často kladené otázky
-{{< /hextra/section-headline >}}
+{{< /ls-section-headline >}}
 
 <div class="hx:mt-6"></div>
 
 <div class="hx:w-full">
-{{% details title="Čo je Evermusic?" closed="true" %}}
+{{% ls-details title="Čo je Evermusic?" closed="true" %}}
 Evermusic je aplikácia prehrávača hudby, ktorá vám pomáha počúvať obľúbené piesne z rôznych služieb cloudového úložiska.<br>
 Môžete jednoducho sťahovať hudbu na offline prehrávanie, vytvárať a spravovať playlisty a používať vstavaný ekvalizér na zlepšenie zážitku z počúvania.<br>
 Funguje so službami ako Google Drive, Dropbox, OneDrive a ďalšie, takže môžete mať všetku hudbu na jednom mieste a pristupovať k nej z akéhokoľvek zariadenia.<br><br>
 Aplikácia tiež podporuje rôzne audio formáty a umožňuje organizovať hudobnú knižnicu podľa interpreta, albumu, žánru a skladateľa.<br>
 Môžete synchronizovať knižnicu medzi cloudovým úložiskom a zariadením, čím zabezpečíte, že obľúbené skladby budú vždy dostupné.<br>
 Navyše, s funkciami ako plynulé prehrávanie, crossfade a možnosť streamovania hudby na zariadenia Chromecast a AirPlay, Evermusic ponúka kompletné riešenie pre všetky vaše hudobné potreby.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Ako funguje Evermusic?" closed="true" %}}
+{{% ls-details title="Ako funguje Evermusic?" closed="true" %}}
 Evermusic funguje pripojením k rôznym službám cloudového úložiska, ako sú Google Drive, Dropbox, OneDrive a ďalšie, čo vám umožňuje pristupovať k hudobnej knižnici z akéhokoľvek zariadenia.<br>
 Po pripojení môžete prehliadať a streamovať hudbu priamo z cloudu alebo sťahovať obľúbené piesne, albumy a playlisty na offline prehrávanie.<br>
 Aplikácia podporuje viaceré audio formáty, čo uľahčuje prehrávanie akéhokoľvek hudobného súboru.<br><br>
@@ -322,15 +322,15 @@ Preskúmajte naše praktické návody pre viac detailov:<br>
 - [Ako bezdrôtovo prenášať súbory z počítača na iPhone pomocou WiFi-Drive.](/docs/howto/how-to-transfer-files-wirelessly-from-a-computer-to-an-iphone-using-wifi-drive)<br>
 - [Ako pripojiť USB flash disk k iPhone a počúvať hudbu alebo spravovať súbory.](/docs/howto/how-to-connect-a-usb-flashcard-to-the-iphone-and-listen-to-music-or-manage-files-located-on-it)<br>
 - [Ako prehrávať hudbu na iPhone z WD My Cloud Home.](/docs/howto/how-to-play-music-on-iphone-from-wd-my-cloud-home)
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Je Evermusic zadarmo?" closed="true" %}}
+{{% ls-details title="Je Evermusic zadarmo?" closed="true" %}}
 Evermusic je bezplatná aplikácia s niektorými obmedzeniami, ktoré je možné odstrániť po inovácii na Premium verziu. Aplikácia ponúka jednorazový doživotný nákup a dve možnosti predplatného (1 mesiac a 1 rok) na odstránenie všetkých obmedzení, čo vám umožňuje vybrať si najlepšiu a najoptimálnejšiu cenu. Ceny sa môžu líšiť v závislosti od krajiny alebo územia. Tiež majte na pamäti, že Rodinné zdieľanie je povolené pre všetky nákupy a plány, takže Premium verziu môžete zdieľať s členmi rodiny.<br><br>
 Doživotné nákupy a predplatné sú zdieľané medzi iOS a Mac pomocou iCloud na synchronizáciu týchto informácií. Ak máte Premium verziu na iOS zariadení, uistite sa, že máte nainštalovanú najnovšiu verziu a že iCloud je povolený. Spustite aplikáciu na iOS a počkajte minútu, kým sa informácie o nákupe nahrajú do iCloud.<br><br>
 [Čítať viac](/docs/faq/evermusic/what-is-the-difference-between-evermusic-and-evermusic-premium/)
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Aký je rozdiel medzi bezplatným Evermusic a Evermusic Premium?" closed="true" %}}
+{{% ls-details title="Aký je rozdiel medzi bezplatným Evermusic a Evermusic Premium?" closed="true" %}}
 **Bezplatný Evermusic**<br>
 • Obsahuje reklamy: Bezplatná verzia zobrazuje reklamy na generovanie príjmu, čo môže občas narušiť počúvanie hudby.<br>
 • Obmedzené playlisty: V bezplatnej verzii môžete vytvoriť až (10) playlistov.<br>
@@ -357,10 +357,10 @@ Doživotné nákupy a predplatné sú zdieľané medzi iOS a Mac pomocou iCloud 
 • Plná personalizácia: Poskytuje plné možnosti personalizácie vrátane zmeny ikony aplikácie.<br><br>
 
 [Čítať viac](/docs/faq/evermusic/what-is-the-difference-between-evermusic-and-evermusic-premium/)
-{{% /details %}}
+{{% /ls-details %}}
 
 
-{{% details title="Je Evermusic bezpečný?" closed="true" %}}
+{{% ls-details title="Je Evermusic bezpečný?" closed="true" %}}
 Evermusic používa len oficiálne SDK a bezpečné pripojenia na interakciu s pripojenými cloudovými službami. Vaše prihlasovacie meno a heslo nie sú pre aplikáciu dostupné. Všetky požiadavky z aplikácie na cloudovú službu sú šifrované.<br>
 Keď zadáte prihlasovacie meno a heslo, aplikácia vám zobrazí oficiálnu autorizačnú stránku poskytnutú poskytovateľom cloudovej služby a celý autorizačný proces prebieha mimo aplikácie. Poskytovateľ cloudovej služby odošle autorizačný token aplikácii po úspešnej autorizácii a tento token sa používa na vykonávanie API volaní.<br><br>
 
@@ -372,24 +372,24 @@ Na zrušenie autorizačného tokenu sa prihláste do účtu vo webovom prehliada
 Pripojené cloudové účty môžete tiež odpojiť v aplikácii a autorizačný token bude tiež odstránený z vášho zariadenia. Ak aplikáciu odstránite zo zariadenia, všetky stiahnuté dáta a prístupové tokeny budú tiež odstránené.<br><br>
 
 [Čítať viac](/docs/guide/evermusic/evermusic-guide-connections/)
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Ako vytvorím playlist v Evermusic?" closed="true" %}}
+{{% ls-details title="Ako vytvorím playlist v Evermusic?" closed="true" %}}
 - Otvorte sekciu Playlisty.<br>
 - Ťuknite na tlačidlo „+" alebo tlačidlo „..." v pravom hornom rohu a vyberte „Nový playlist".<br>
 - Zadajte názov playlistu a ťuknite na „Uložiť". Zobrazí sa dialóg „Pridať skladby".<br>
 - Vyberte skladby, ktoré chcete pridať do playlistu.<br><br>
 
 [Čítať viac](/docs/guide/evermusic/evermusic-guide-playlists/)
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Aké cloudové služby Evermusic podporuje?" closed="true" %}}
+{{% ls-details title="Aké cloudové služby Evermusic podporuje?" closed="true" %}}
 V súčasnosti aplikácia podporuje najpopulárnejšie cloudové služby: iCloud Drive, Google Drive, Dropbox, OneDrive, Box, MEGA, Yandex.Disk, WD MyCloud Home, DLNA, MediaFire, WebDAV, SMB, pCloud, HiDrive, 百度网盘, My Cloud Home, InfiniCLOUD, Cloud Mail.ru, Put.io, MyDrive.<br><br>
 
 [Čítať viac](/docs/guide/evermusic/evermusic-guide-connections/)
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Ako môžem používať ekvalizér?" closed="true" %}}
+{{% ls-details title="Ako môžem používať ekvalizér?" closed="true" %}}
 - Otvorte obrazovku audio prehrávača.<br>
 - Ťuknite na ikonu „Ekvalizér" v spodnej časti obrazovky.<br>
 - Zapnite prepínač v pravom hornom rohu obrazovky ekvalizéra na jeho aktiváciu.<br>
@@ -397,9 +397,9 @@ V súčasnosti aplikácia podporuje najpopulárnejšie cloudové služby: iCloud
 
 Kompletný návod dostupný tu:<br>
 [Ako používať audio ekvalizér na iPhone, iPad, Mac s Evermusic a Flacbox](/docs/howto/how-to-use-the-audio-equalizer-on-your-iphone-ipad-mac-with-evermusic-and-flacbox)
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Ako povolím offline režim v Evermusic?" closed="true" %}}
+{{% ls-details title="Ako povolím offline režim v Evermusic?" closed="true" %}}
 - Pripojte cloudovú službu:<br>
  • Prejdite na kartu „Pripojenia".<br>
  • Vyberte „Pripojiť cloudové úložisko" a postupujte podľa pokynov na pripojenie požadovanej služby.<br><br>
@@ -423,9 +423,9 @@ Kompletný návod dostupný tu:<br>
  • Ťuknite na „Viac akcií" a vyberte „Spustiť synchronizáciu".<br><br>
 
 [Čítať viac](/docs/howto/play-offline-music-in-evermusic-flacbox-download-sync-from-cloud-to-local-files/)
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Ako prehrávať lokálne stiahnutú hudbu na iPhone?" closed="true" %}}
+{{% ls-details title="Ako prehrávať lokálne stiahnutú hudbu na iPhone?" closed="true" %}}
 Po nainštalovaní aplikácie otvorte obrazovku „Lokálne súbory" a posuňte sa nadol do sekcie „Súbory na tomto iPhone".<br>
 Odtiaľ vyberte „Otvoriť súbory...", ak potrebujete vybrať niekoľko audio súborov, alebo „Otvoriť priečinok...", ak chcete vybrať priečinok s hudbou.<br>
 Aplikácia naskenuje obsah priečinka a všetky nájdené audio súbory sa označia.<br>
@@ -456,15 +456,15 @@ Súbory sa pridajú do playlistu, kde môžete meniť poradie skladieb a vykoná
 Pomocou týchto jednoduchých krokov môžete odomknúť plný potenciál iPhone a Mac ako dokonalých platforiem na vychutnávanie si lokálnej hudobnej zbierky.<br><br>
 
 [Čítať viac](/docs/howto/how-to-play-local-music-stored-on-your-iphone-or-mac)
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Ako môžem obnoviť playlist od miesta, kde som skončil?" closed="true" %}}
+{{% ls-details title="Ako môžem obnoviť playlist od miesta, kde som skončil?" closed="true" %}}
 Najprv sa uistite, že je povolená možnosť „Uložiť stav audio prehrávača" v Nastavenia > Audio prehrávač > Všeobecné.<br>
 Keď prepnete na iný playlist a vrátite sa, uvidíte štyri akcie na hornej lište nástrojov pod obalom albumu: „Hľadať", „Pokračovať v prehrávaní", „Prehrať všetko" a „Premiešať všetko".<br>
 Ťuknite na „Pokračovať v prehrávaní" na obnovenie playlistu z posledného uloženého stavu a pozície média.<br>
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Ako zobraziť texty piesní v Evermusic?" closed="true" %}}
+{{% ls-details title="Ako zobraziť texty piesní v Evermusic?" closed="true" %}}
 Vložené texty piesní v aplikácii Evermusic môžete zobraziť podľa týchto krokov:<br>
 1. Začnite prehrávanie audio súboru ťuknutím naň.<br>
 2. Otvorte celoobrazovkový audio prehrávač.<br>
@@ -478,9 +478,9 @@ Vložené texty piesní v aplikácii Evermusic môžete zobraziť podľa týchto
 3. „Režim LRC súboru": Namiesto úpravy audio súborov môžete umiestniť LRC súbor do rovnakého priečinka ako pôvodný audio súbor. Oba súbory by mali mať rovnaký názov, ale rôzne prípony. Keď prejdete na tretiu stránku na obrazovke Komentáre, aplikácia vyhľadá LRC súbor v rovnakom adresári a zobrazí jeho obsah.<br><br>
 
 [Čítať viac](/docs/howto/how-to-add-and-view-comments-to-your-audio-tracks-on-iphone-ipad-and-mac-with-evermusic-and-flacbox)
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Ako prenesiem hudbu do Evermusic z počítača?" closed="true" %}}
+{{% ls-details title="Ako prenesiem hudbu do Evermusic z počítača?" closed="true" %}}
 Môžete pripojiť počítač alebo osobný NAS pomocou protokolov SMB, WebDAV alebo DLNA. Alternatívne použite iTunes File Sharing na prenos hudby.<br><br>
 
 Na pripojenie počítača pomocou protokolu **SMB** ťuknite na „Pripojiť cloudovú službu" → SMB.<br>
@@ -517,9 +517,9 @@ Podrobný návod dostupný tu:<br>
 
 S **DLNA** môžete tiež nastaviť DLNA mediálny server a streamovať hudbu z Windows PC, ako je popísané tu:<br>
 [Ako povoliť DLNA mediálny server na Windows 10 a prehrávať hudbu na iPhone](/docs/howto/how-to-enable-dlna-media-server-on-windows-10-and-play-your-music-on-iphone)
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Ako stiahnuť hudbu?" closed="true" %}}
+{{% ls-details title="Ako stiahnuť hudbu?" closed="true" %}}
 Pred sťahovaním hudby a offline počúvaním musíte pripojiť sieťový účet.<br>
 Stačí otvoriť obrazovku „Pripojenia" a pridať účet.<br>
 Po pridaní sieťového účtu môžete sťahovať hudbu z cloudu.<br><br>
@@ -540,9 +540,9 @@ Podrobnejší návod o offline režime dostupný tu:<br>
 
 Ďalšou dostupnou možnosťou je stiahnutie hudby z YouTube a jej import do Evermusic, ako je popísané tu:<br>
 [Ako stiahnuť hudbu z YouTube a počúvať offline hudbu na iPhone](/docs/howto/how-to-download-music-from-youtube-and-listen-to-offline-music-on-iphone)
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Podporuje Evermusic Apple CarPlay?" closed="true" %}}
+{{% ls-details title="Podporuje Evermusic Apple CarPlay?" closed="true" %}}
 Áno, **Evermusic plne podporuje Apple CarPlay**. Môžete prehliadať hudobnú knižnicu, prehrávať lokálne alebo offline súbory, pripájať sa ku cloudovému úložisku a ovládať prehrávanie priamo z obrazovky infotainmentu vášho auta.
 
 Rozhranie CarPlay obsahuje dedikované karty pre **Knižnicu**, **Pripojenia**, **Lokálne súbory** a **Nastavenia**, čo vám dáva plnú kontrolu nad hudbou na ceste. K dispozícii sú tiež ovládanie prehrávania, premiešanie, opakovanie a správa radu.
@@ -550,9 +550,9 @@ Rozhranie CarPlay obsahuje dedikované karty pre **Knižnicu**, **Pripojenia**, 
 Na použitie CarPlay sa uistite, že Siri je povolená a iPhone je pripojený cez USB alebo bezdrôtovo.
 
 [Prečítajte si kompletný návod](/docs/howto/how-to-play-your-own-music-on-iphone-using-carplay/)
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Aké audio formáty Evermusic podporuje?" closed="true" %}}
+{{% ls-details title="Aké audio formáty Evermusic podporuje?" closed="true" %}}
 Tu je kompletný zoznam podporovaných audio formátov a ich zodpovedajúcich prípon súborov:<br><br>
 
 **Podporované audio formáty:**<br>
@@ -570,40 +570,40 @@ Tu je kompletný zoznam podporovaných audio formátov a ich zodpovedajúcich pr
 mpeg, aifc, 3gp, avi, aif, latm, 3gpp, m4a, loas, cdda, aac, m4p, m4b, ac3, pls, mp4v, m3u, m4r, aiff, xhe, mp1, snd, mp2, wav, qt, wave, m3u8, m4v, mp3, 3g2, caf, mp4, flac, au, w64, ec3, adts, amr, vtt, mpa, aa<br><br>
 
 S touto širokou škálou podporovaných formátov a prípon si môžete vychutnať hudbu vo formáte podľa vlastného výberu.
-{{% /details %}}
+{{% /ls-details %}}
 
 </div>
 
 <div class="hx:mt-6"></div>
 
-{{< hextra/section-headline >}}
+{{< ls-section-headline >}}
   Používateľská príručka
-{{< /hextra/section-headline >}}
+{{< /ls-section-headline >}}
 
 <div class="hx:mt-6"></div>
 
 <div class="hx:w-full">
 
 <div class="hx:w-full hx:mx-auto hx:flex hx:flex-col hx:items-center hx:text-center">
-  {{< hextra/info-paragraph border="false" >}}
+  {{< ls-info-paragraph border="false" >}}
   Táto príručka vám pomôže naplno využiť Evermusic na iPhone, iPad alebo Mac. Naučte sa, ako streamovať hudbu z cloudu, spravovať audioknihy a prenášať hudbu medzi zariadeniami. Evermusic vám dáva plnú kontrolu nad hudobnou zbierkou v jednej jednoduchej aplikácii.
-  {{< /hextra/info-paragraph >}}
+  {{< /ls-info-paragraph >}}
 </div>
 
 {{< cards >}}
-  {{< feature-card icon="location-marker" title="Navigácia" subtitle="Naučte sa navigovať v Evermusic pomocou lišty kariet na iPhone alebo ľavého menu na iPad a Mac." link="/docs/guide/evermusic/evermusic-guide-navigation" >}}
+  {{< ls-feature-card icon="location-marker" title="Navigácia" subtitle="Naučte sa navigovať v Evermusic pomocou lišty kariet na iPhone alebo ľavého menu na iPad a Mac." link="/docs/guide/evermusic/evermusic-guide-navigation" >}}
 
-  {{< feature-card icon="cloud" title="Pripojenia" subtitle="Pripojte cloudové účty a spravujte online súbory pomocou vstavaného správcu súborov." link="/docs/guide/evermusic/evermusic-guide-connections" >}}
+  {{< ls-feature-card icon="cloud" title="Pripojenia" subtitle="Pripojte cloudové účty a spravujte online súbory pomocou vstavaného správcu súborov." link="/docs/guide/evermusic/evermusic-guide-connections" >}}
 
-  {{< feature-card icon="library" title="Hudobná knižnica" subtitle="Organizujte a objavujte skladby, albumy a interpretov v Hudobnej knižnici." link="/docs/guide/evermusic/evermusic-guide-music-library" >}}
+  {{< ls-feature-card icon="library" title="Hudobná knižnica" subtitle="Organizujte a objavujte skladby, albumy a interpretov v Hudobnej knižnici." link="/docs/guide/evermusic/evermusic-guide-music-library" >}}
 
-  {{< feature-card icon="collection" title="Playlisty" subtitle="Vytvárajte a usporiadajte playlisty podľa nálady alebo príležitosti." link="/docs/guide/evermusic/evermusic-guide-playlists" >}}
+  {{< ls-feature-card icon="collection" title="Playlisty" subtitle="Vytvárajte a usporiadajte playlisty podľa nálady alebo príležitosti." link="/docs/guide/evermusic/evermusic-guide-playlists" >}}
 
-  {{< feature-card icon="folder" title="Lokálne súbory" subtitle="Pristupujte k offline hudbe a spravujte ju prostredníctvom sekcie Lokálne súbory." link="/docs/guide/evermusic/evermusic-guide-local-files" >}}
+  {{< ls-feature-card icon="folder" title="Lokálne súbory" subtitle="Pristupujte k offline hudbe a spravujte ju prostredníctvom sekcie Lokálne súbory." link="/docs/guide/evermusic/evermusic-guide-local-files" >}}
 
-  {{< feature-card icon="play" title="Audio prehrávač" subtitle="Ovládajte prehrávanie, rad a nastavenia zvuku ako ekvalizér a časovač spánku." link="/docs/guide/evermusic/evermusic-guide-player" >}}
+  {{< ls-feature-card icon="play" title="Audio prehrávač" subtitle="Ovládajte prehrávanie, rad a nastavenia zvuku ako ekvalizér a časovač spánku." link="/docs/guide/evermusic/evermusic-guide-player" >}}
 
-  {{< feature-card icon="adjustments" title="Nastavenia" subtitle="Prispôsobte vzhľad, funkcie a nastavenia výkonu Evermusic." link="/docs/guide/evermusic/evermusic-guide-settings" >}}
+  {{< ls-feature-card icon="adjustments" title="Nastavenia" subtitle="Prispôsobte vzhľad, funkcie a nastavenia výkonu Evermusic." link="/docs/guide/evermusic/evermusic-guide-settings" >}}
 
 {{< /cards >}}
 

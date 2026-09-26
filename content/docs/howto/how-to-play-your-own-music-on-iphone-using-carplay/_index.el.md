@@ -7,7 +7,7 @@ tags: ["carplay", "iphone", "τοπική μουσική", "offline αναπαρ
 readingTime: 5
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **Σύνοψη:** Χρησιμοποιήστε το [Evermusic](https://apps.apple.com/app/apple-store/id885367198?pt=95781850&ct=everappzcom&mt=8) ή το [Flacbox](https://apps.apple.com/app/apple-store/id1097564256?pt=95781850&ct=everappzcom&mt=8) για να αναπαράγετε τα δικά σας αρχεία MP3, FLAC ή άλλα αρχεία ήχου στο iPhone μέσω Apple CarPlay. Προσθέστε μουσική από αποθηκευτικό χώρο cloud, USB ή μεταφορά Wi-Fi και στη συνέχεια περιηγηθείτε στη βιβλιοθήκη σας, τις λίστες αναπαραγωγής και τους φακέλους απευθείας στην οθόνη του αυτοκινήτου σας.
@@ -17,7 +17,7 @@ readingTime: 5
 Θέλετε να αναπαράγετε τη δική σας μουσική στο αυτοκίνητο χρησιμοποιώντας το Apple CarPlay; Είτε τα τραγούδια σας είναι αποθηκευμένα στο iPhone σας, στο cloud ή offline, εφαρμογές όπως **Evermusic** και **Flacbox** διευκολύνουν την ακρόαση της προσωπικής σας συλλογής μουσικής κατά την οδήγηση.
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Ουρά επόμενων τραγουδιών CarPlay" image="/docs/howto/how-to-play-your-own-music-on-iphone-using-carplay/carplay-nowplaying-5.webp" imageStyle="border-radius: clamp(14px, 2vw, 28px);" >}}
+{{< ls-card title="" subtitle="Ουρά επόμενων τραγουδιών CarPlay" image="/docs/howto/how-to-play-your-own-music-on-iphone-using-carplay/carplay-nowplaying-5.webp" imageStyle="border-radius: clamp(14px, 2vw, 28px);" >}}
 {{< /cards >}}
 
 Σε αυτόν τον οδηγό, θα σας δείξουμε πώς να προετοιμάσετε τα αρχεία μουσικής σας για το CarPlay, να τα οργανώσετε με σωστά εξώφυλλα άλμπουμ και πληροφορίες κομματιών και να τα αναπαράγετε με ασφάλεια από το iPhone σας. Με το Evermusic ή το Flacbox, μπορείτε να δημιουργήσετε λίστες αναπαραγωγής και να κάνετε streaming ή λήψη τραγουδιών από υπηρεσίες όπως **Google Drive**, **Dropbox**, **OneDrive**, **NAS** ή τον οικιακό σας υπολογιστή.
@@ -25,8 +25,8 @@ readingTime: 5
 Αυτές οι εφαρμογές είναι ιδανικές για όποιον θέλει πλήρη έλεγχο της μουσικής βιβλιοθήκης του.
 
 {{< cards cols="2">}}
-{{< card link="https://apps.apple.com/app/apple-store/id885367198?pt=95781850&ct=everappzcom&mt=8" title="Λήψη Evermusic" icon="download" tag="Free" >}}
-{{< card link="https://apps.apple.com/app/apple-store/id1097564256?pt=95781850&ct=everappzcom&mt=8" title="Λήψη Flacbox" icon="download" tag="Free" >}}
+{{< ls-card link="https://apps.apple.com/app/apple-store/id885367198?pt=95781850&ct=everappzcom&mt=8" title="Λήψη Evermusic" icon="download" tag="Free" >}}
+{{< ls-card link="https://apps.apple.com/app/apple-store/id1097564256?pt=95781850&ct=everappzcom&mt=8" title="Λήψη Flacbox" icon="download" tag="Free" >}}
 {{< /cards >}}
 
 ## Προσθέστε αρχεία στην εφαρμογή
@@ -106,7 +106,7 @@ readingTime: 5
 Αφού εκκινήσετε τις εφαρμογές μας Evermusic ή Flacbox σε λειτουργία CarPlay, θα δείτε την κύρια διεπαφή χωρισμένη σε 4 κύριες καρτέλες: Βιβλιοθήκη, Συνδέσεις, Τοπικά αρχεία, Ρυθμίσεις. 
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Κύριο μενού CarPlay" image="/docs/howto/how-to-play-your-own-music-on-iphone-using-carplay/library-with-images.webp" imageStyle="border-radius: clamp(14px, 2vw, 28px);" >}}
+{{< ls-card title="" subtitle="Κύριο μενού CarPlay" image="/docs/howto/how-to-play-your-own-music-on-iphone-using-carplay/library-with-images.webp" imageStyle="border-radius: clamp(14px, 2vw, 28px);" >}}
 {{< /cards >}}
 
 ## Βιβλιοθήκη
@@ -116,7 +116,7 @@ readingTime: 5
 Αυτή η οθόνη σας δίνει γρήγορη πρόσβαση στα αγαπημένα σας, τα πρόσφατα, τις λίστες αναπαραγωγής, τους σελιδοδείκτες και όλα τα προστιθέμενα κομμάτια. Μπορείτε επίσης να συνεχίσετε την αναπαραγωγή από την τελευταία σας συνεδρία, να δείτε τραγούδια που δεν έχετε ακούσει και να εξερευνήσετε μουσική ανά ετικέτες ή τύπο πηγής.
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Βιβλιοθήκη" image="/docs/howto/how-to-play-your-own-music-on-iphone-using-carplay/library-with-images-3.webp" imageStyle="border-radius: clamp(14px, 2vw, 28px);" >}}
+{{< ls-card title="" subtitle="Βιβλιοθήκη" image="/docs/howto/how-to-play-your-own-music-on-iphone-using-carplay/library-with-images-3.webp" imageStyle="border-radius: clamp(14px, 2vw, 28px);" >}}
 {{< /cards >}}
 
 Η ενότητα **Βιβλιοθήκη** περιέχει τις ακόλουθες κατηγορίες:
@@ -139,7 +139,7 @@ readingTime: 5
 - **Online αρχεία** – Μουσική που μεταδίδεται απευθείας από υπηρεσίες cloud
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Προβολή άλμπουμ" image="/docs/howto/how-to-play-your-own-music-on-iphone-using-carplay/albums.webp" imageStyle="border-radius: clamp(14px, 2vw, 28px);" >}}
+{{< ls-card title="" subtitle="Προβολή άλμπουμ" image="/docs/howto/how-to-play-your-own-music-on-iphone-using-carplay/albums.webp" imageStyle="border-radius: clamp(14px, 2vw, 28px);" >}}
 {{< /cards >}}
 
 Μπορείτε να ανοίξετε οποιοδήποτε υπομενού και να πατήσετε ένα κομμάτι για να ξεκινήσετε αμέσως την αναπαραγωγή. Για πιο λεπτομερείς πληροφορίες, δείτε τον πλήρη [οδηγό μουσικής βιβλιοθήκης](/docs/guide/evermusic/evermusic-guide-music-library/).
@@ -150,7 +150,7 @@ readingTime: 5
 Η καρτέλα **Συνδέσεις** είναι ο κεντρικός κόμβος για πρόσβαση και διαχείριση όλων των συνδεδεμένων υπηρεσιών αποθηκευτικού χώρου cloud και συσκευών τοπικού δικτύου.
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Συνδέσεις" image="/docs/howto/how-to-play-your-own-music-on-iphone-using-carplay/connections-with-images-3.webp" imageStyle="border-radius: clamp(14px, 2vw, 28px);" >}}
+{{< ls-card title="" subtitle="Συνδέσεις" image="/docs/howto/how-to-play-your-own-music-on-iphone-using-carplay/connections-with-images-3.webp" imageStyle="border-radius: clamp(14px, 2vw, 28px);" >}}
 {{< /cards >}}
 
 Από εδώ, μπορείτε να συνδεθείτε σε δημοφιλείς πλατφόρμες cloud όπως Dropbox, Google Drive, OneDrive, MEGA, iCloud Drive, ακόμα και σε δικτυακούς δίσκους όπως SMB, DLNA και WebDAV. Μόλις συνδεθείτε, μπορείτε να περιηγηθείτε, να κάνετε streaming, να κατεβάσετε και να διαχειριστείτε αρχεία απευθείας μέσα από την εφαρμογή.
@@ -172,7 +172,7 @@ readingTime: 5
 Η ενότητα **Τοπικά αρχεία** είναι ο κεντρικός κόμβος για τη διαχείριση αρχείων ήχου που είναι αποθηκευμένα απευθείας στη συσκευή σας ή στον κατάλογο **Έγγραφα** της εφαρμογής Evermusic. Περιλαμβάνει επίσης αρχεία εκτός σύνδεσης που κατεβάσατε από τον αποθηκευτικό χώρο cloud, αρχεία cache του ηχητικού player και φακέλους που έχετε κάνει διαθέσιμους για αναπαραγωγή εκτός σύνδεσης. Αυτή η ενότητα εξασφαλίζει ότι μπορείτε να απολαμβάνετε τη μουσική βιβλιοθήκη σας ακόμα και χωρίς σύνδεση στο διαδίκτυο.
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Τοπικά αρχεία" image="/docs/howto/how-to-play-your-own-music-on-iphone-using-carplay/local-files-with-images.webp" imageStyle="border-radius: clamp(14px, 2vw, 28px);" >}}
+{{< ls-card title="" subtitle="Τοπικά αρχεία" image="/docs/howto/how-to-play-your-own-music-on-iphone-using-carplay/local-files-with-images.webp" imageStyle="border-radius: clamp(14px, 2vw, 28px);" >}}
 {{< /cards >}}
 
 Η οθόνη **Τοπικά αρχεία** είναι οργανωμένη στις ακόλουθες βασικές ενότητες:
@@ -186,7 +186,7 @@ readingTime: 5
 - **Ηχητικός player** – Φάκελος cache που χρησιμοποιείται για crossfade και βελτιστοποίηση απόδοσης. Μπορεί να απενεργοποιηθεί ή να καθαριστεί στις ρυθμίσεις.
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Φάκελοι συσκευής στα Τοπικά αρχεία" image="/docs/howto/how-to-play-your-own-music-on-iphone-using-carplay/local-files-device-folders.webp" imageStyle="border-radius: clamp(14px, 2vw, 28px);" >}}
+{{< ls-card title="" subtitle="Φάκελοι συσκευής στα Τοπικά αρχεία" image="/docs/howto/how-to-play-your-own-music-on-iphone-using-carplay/local-files-device-folders.webp" imageStyle="border-radius: clamp(14px, 2vw, 28px);" >}}
 {{< /cards >}}
 
 Μπορείτε να μάθετε περισσότερα στον πλήρη [οδηγό τοπικών αρχείων](/docs/guide/evermusic/evermusic-guide-local-files/).
@@ -194,7 +194,7 @@ readingTime: 5
 ## Προβολή φακέλου
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Τοπικός φάκελος με εξώφυλλα" image="/docs/howto/how-to-play-your-own-music-on-iphone-using-carplay/local-folder-with-images-2.webp" imageStyle="border-radius: clamp(14px, 2vw, 28px);" >}}
+{{< ls-card title="" subtitle="Τοπικός φάκελος με εξώφυλλα" image="/docs/howto/how-to-play-your-own-music-on-iphone-using-carplay/local-folder-with-images-2.webp" imageStyle="border-radius: clamp(14px, 2vw, 28px);" >}}
 {{< /cards >}}
 
 Όταν ανοίξετε έναν φάκελο, θα βρείτε ένα σύνολο χρήσιμων ενεργειών στο επάνω μέρος:
@@ -206,7 +206,7 @@ readingTime: 5
 ## Όριο βάθους περιεχομένου
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Όριο βάθους περιεχομένου" image="/docs/howto/how-to-play-your-own-music-on-iphone-using-carplay/content-depth-limit.webp" imageStyle="border-radius: clamp(14px, 2vw, 28px);" >}}
+{{< ls-card title="" subtitle="Όριο βάθους περιεχομένου" image="/docs/howto/how-to-play-your-own-music-on-iphone-using-carplay/content-depth-limit.webp" imageStyle="border-radius: clamp(14px, 2vw, 28px);" >}}
 {{< /cards >}}
 
 Κατά τη χρήση του CarPlay, μπορεί να αντιμετωπίσετε ένα σφάλμα **«Όριο βάθους περιεχομένου»** — ειδικά εάν η μουσική βιβλιοθήκη σας έχει πολλούς βαθιά ενσωματωμένους φακέλους.  
@@ -227,7 +227,7 @@ readingTime: 5
 ## Οθόνη τρέχουσας αναπαραγωγής
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Είσοδος τρέχουσας αναπαραγωγής CarPlay" image="/docs/howto/how-to-play-your-own-music-on-iphone-using-carplay/carplay-nowplaying.webp" imageStyle="border-radius: clamp(14px, 2vw, 28px);" >}}
+{{< ls-card title="" subtitle="Είσοδος τρέχουσας αναπαραγωγής CarPlay" image="/docs/howto/how-to-play-your-own-music-on-iphone-using-carplay/carplay-nowplaying.webp" imageStyle="border-radius: clamp(14px, 2vw, 28px);" >}}
 {{< /cards >}}
 
 Αφού πατήσετε σε οποιοδήποτε αρχείο ήχου, προστίθεται αυτόματα στην **ουρά αναπαραγωγής**.  
@@ -244,7 +244,7 @@ readingTime: 5
 ## Ρυθμίσεις
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Μενού ρυθμίσεων" image="/docs/howto/how-to-play-your-own-music-on-iphone-using-carplay/settings-2.webp" imageStyle="border-radius: clamp(14px, 2vw, 28px);" >}}
+{{< ls-card title="" subtitle="Μενού ρυθμίσεων" image="/docs/howto/how-to-play-your-own-music-on-iphone-using-carplay/settings-2.webp" imageStyle="border-radius: clamp(14px, 2vw, 28px);" >}}
 {{< /cards >}}
 
 Η ενότητα **Ρυθμίσεις** στη διεπαφή CarPlay σας επιτρέπει να προσαρμόσετε τη συμπεριφορά της εφαρμογής κατά την οδήγηση. Αυτές οι ρυθμίσεις βοηθούν στη βελτίωση της απόδοσης, τη μείωση των περισπασμών και την παροχή μιας πιο ομαλής εμπειρίας ακρόασης.
@@ -260,7 +260,7 @@ readingTime: 5
 - **Ταξινόμηση** – Ρυθμίστε τον τρόπο ταξινόμησης περιεχομένου στα μενού CarPlay όπως αρχεία, μουσική βιβλιοθήκη και συνδέσεις.
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Μενού επιλογών ταξινόμησης" image="/docs/howto/how-to-play-your-own-music-on-iphone-using-carplay/settings-sort.webp" imageStyle="border-radius: clamp(14px, 2vw, 28px);" >}}
+{{< ls-card title="" subtitle="Μενού επιλογών ταξινόμησης" image="/docs/howto/how-to-play-your-own-music-on-iphone-using-carplay/settings-sort.webp" imageStyle="border-radius: clamp(14px, 2vw, 28px);" >}}
 {{< /cards >}}
 
 - **Όριο φόρτωσης περιεχομένου** – Ορίστε πόσα στοιχεία θα εμφανίζονται ανά οθόνη. Χαμηλότερα όρια βελτιώνουν την ταχύτητα φόρτωσης και μειώνουν την κύλιση.
@@ -271,19 +271,19 @@ readingTime: 5
 - **Ισοσταθμιστής ήχου**
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Πίνακας ρύθμισης ισοσταθμιστή" image="/docs/howto/how-to-play-your-own-music-on-iphone-using-carplay/settings-eq-configuration.webp" imageStyle="border-radius: clamp(14px, 2vw, 28px);" >}}
+{{< ls-card title="" subtitle="Πίνακας ρύθμισης ισοσταθμιστή" image="/docs/howto/how-to-play-your-own-music-on-iphone-using-carplay/settings-eq-configuration.webp" imageStyle="border-radius: clamp(14px, 2vw, 28px);" >}}
 {{< /cards >}}
 
 Ενεργοποιήστε τον ενσωματωμένο ισοσταθμιστή ήχου, ρυθμίστε ζώνες συχνοτήτων και επιλέξτε από προρυθμισμένα presets για μια εξατομικευμένη εμπειρία ήχου.
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Λίστα presets ισοσταθμιστή" image="/docs/howto/how-to-play-your-own-music-on-iphone-using-carplay/settings-equalizer.webp" imageStyle="border-radius: clamp(14px, 2vw, 28px);" >}}
+{{< ls-card title="" subtitle="Λίστα presets ισοσταθμιστή" image="/docs/howto/how-to-play-your-own-music-on-iphone-using-carplay/settings-equalizer.webp" imageStyle="border-radius: clamp(14px, 2vw, 28px);" >}}
 {{< /cards >}}
 
 - **Αναπαραγωγή crossfade**
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Αναπαραγωγή crossfade" image="/docs/howto/how-to-play-your-own-music-on-iphone-using-carplay/settings-crossfade-playback.webp" imageStyle="border-radius: clamp(14px, 2vw, 28px);" >}}
+{{< ls-card title="" subtitle="Αναπαραγωγή crossfade" image="/docs/howto/how-to-play-your-own-music-on-iphone-using-carplay/settings-crossfade-playback.webp" imageStyle="border-radius: clamp(14px, 2vw, 28px);" >}}
 {{< /cards >}}
 
 Δημιουργήστε ομαλές μεταβάσεις μεταξύ τραγουδιών επικαλύπτοντας το τέλος ενός κομματιού με την αρχή του επόμενου. Η διάρκεια crossfade μπορεί να προσαρμοστεί.
@@ -291,7 +291,7 @@ readingTime: 5
 - **Αναπαραγωγή χωρίς κενά**
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Αναπαραγωγή χωρίς κενά" image="/docs/howto/how-to-play-your-own-music-on-iphone-using-carplay/settings-gapless-playback.webp" imageStyle="border-radius: clamp(14px, 2vw, 28px);" >}}
+{{< ls-card title="" subtitle="Αναπαραγωγή χωρίς κενά" image="/docs/howto/how-to-play-your-own-music-on-iphone-using-carplay/settings-gapless-playback.webp" imageStyle="border-radius: clamp(14px, 2vw, 28px);" >}}
 {{< /cards >}}
 
 Αναπαράγετε κομμάτια αδιάλειπτα χωρίς παύσεις — ιδανικό για ζωντανές ηχογραφήσεις, DJ mixes και concept albums.
@@ -307,7 +307,7 @@ readingTime: 5
 Με τα **Evermusic** και **Flacbox**, η αναπαραγωγή της δικής σας μουσικής στο αυτοκίνητο χρησιμοποιώντας το Apple CarPlay γίνεται απλή, ευέλικτη και αξιόπιστη. Είτε κάνετε streaming από αποθηκευτικό χώρο cloud, αποκτάτε πρόσβαση σε τοπικά αρχεία ή αναπαράγετε κατεβασμένα κομμάτια εκτός σύνδεσης — αυτές οι εφαρμογές είναι σχεδιασμένες για να σας δώσουν πλήρη έλεγχο της εμπειρίας ακρόασης κατά την οδήγηση.
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Οθόνη τρέχουσας αναπαραγωγής CarPlay" image="/docs/howto/how-to-play-your-own-music-on-iphone-using-carplay/carplay-nowplaying-2.webp" imageStyle="border-radius: clamp(14px, 2vw, 28px);" >}}
+{{< ls-card title="" subtitle="Οθόνη τρέχουσας αναπαραγωγής CarPlay" image="/docs/howto/how-to-play-your-own-music-on-iphone-using-carplay/carplay-nowplaying-2.webp" imageStyle="border-radius: clamp(14px, 2vw, 28px);" >}}
 {{< /cards >}}
 
 Από την απρόσκοπτη ενσωμάτωση cloud έως τον συγχρονισμό φακέλων εκτός σύνδεσης, από τη βαθιά οργάνωση μουσικής βιβλιοθήκης έως την προσαρμόσιμη αναπαραγωγή με ισοσταθμιστές και crossfade — αυτές οι δυνατότητες κάνουν τα Evermusic και Flacbox κάτι περισσότερο από απλούς ηχητικούς players. Είναι έξυπνοι σύντροφοι CarPlay σχεδιασμένοι για αυδιόφιλους, καθημερινούς χρήστες και όσους μετακινούνται καθημερινά.
@@ -325,22 +325,22 @@ readingTime: 5
 
 ## Συχνές ερωτήσεις
 
-{{% details title="Ποιες μορφές αρχείων μουσικής λειτουργούν με το CarPlay στα Evermusic και Flacbox;" closed="true" %}}
+{{% ls-details title="Ποιες μορφές αρχείων μουσικής λειτουργούν με το CarPlay στα Evermusic και Flacbox;" closed="true" %}}
 Τα Evermusic και Flacbox υποστηρίζουν ένα ευρύ φάσμα μορφών ήχου, συμπεριλαμβανομένων MP3, FLAC, AAC, WAV, AIFF, OGG, WMA και άλλων. Όλες οι υποστηριζόμενες μορφές λειτουργούν μέσω CarPlay χωρίς καμία μετατροπή.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Μπορώ να αναπαράγω μουσική από το Google Drive ή το Dropbox στο CarPlay;" closed="true" %}}
+{{% ls-details title="Μπορώ να αναπαράγω μουσική από το Google Drive ή το Dropbox στο CarPlay;" closed="true" %}}
 Ναι. Τόσο το Evermusic όσο και το Flacbox σας επιτρέπουν να συνδεθείτε σε υπηρεσίες αποθηκευτικού χώρου cloud όπως Google Drive, Dropbox, OneDrive, MEGA και άλλες. Μπορείτε να κάνετε streaming μουσικής απευθείας ή να την κατεβάσετε για αναπαραγωγή εκτός σύνδεσης στο CarPlay.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Χρειάζομαι σύνδεση στο διαδίκτυο για να αναπαράγω μουσική στο CarPlay;" closed="true" %}}
+{{% ls-details title="Χρειάζομαι σύνδεση στο διαδίκτυο για να αναπαράγω μουσική στο CarPlay;" closed="true" %}}
 Όχι. Μπορείτε να κατεβάσετε μουσική από τον αποθηκευτικό χώρο cloud για αναπαραγωγή εκτός σύνδεσης. Μόλις τα αρχεία αποθηκευτούν τοπικά στο iPhone σας, αναπαράγονται μέσω CarPlay χωρίς σύνδεση στο διαδίκτυο.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Γιατί βλέπω σφάλμα Ορίου βάθους περιεχομένου στο CarPlay;" closed="true" %}}
+{{% ls-details title="Γιατί βλέπω σφάλμα Ορίου βάθους περιεχομένου στο CarPlay;" closed="true" %}}
 Το CarPlay περιορίζει πόσα επίπεδα φακέλων μπορεί να εμφανίσει. Εάν η μουσική σας βρίσκεται σε βαθιά ενσωματωμένους φακέλους, προσθέστε αυτούς τους φακέλους στα Αγαπημένα ώστε να έχετε πρόσβαση σε αυτούς απευθείας από το μενού Αγαπημένα στο CarPlay.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Είναι δωρεάν η χρήση των Evermusic ή Flacbox με το CarPlay;" closed="true" %}}
+{{% ls-details title="Είναι δωρεάν η χρήση των Evermusic ή Flacbox με το CarPlay;" closed="true" %}}
 Και οι δύο εφαρμογές είναι δωρεάν για λήψη με πλήρη υποστήριξη CarPlay, ισοσταθμιστή και δυνατότητες αναπαραγωγής. Οι δωρεάν εκδόσεις έχουν όρια στις συνδέσεις cloud (3), τις λίστες αναπαραγωγής (10) και τους φακέλους εκτός σύνδεσης (1). Η Premium αφαιρεί όλα τα όρια.
-{{% /details %}}
+{{% /ls-details %}}

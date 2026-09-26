@@ -7,7 +7,7 @@ tags: ["mp3", "düzenleyici", "iPhone", "etiketler", "meta veri", "id3"]
 readingTime: 2
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **Özet:** iPhone veya Mac'te ID3 etiketlerini düzenlemek için Evermusic veya Flacbox'taki yerleşik etiket düzenleyiciyi kullanın -- hem bulut hem de yerel dosyalar için. Toplu düzenlemeye veya 120'den fazla etiket alanına mı ihtiyacınız var? Bunun yerine [Evertag](https://apps.apple.com/app/apple-store/id1450763230?pt=95781850&ct=everappzcom&mt=8) kullanın.
@@ -21,8 +21,8 @@ Müzik kitaplığınıza şarkılar aktardığınızda, bunlar sanatçılara, al
 Birçok masaüstü uygulama meta veri düzenleme sunarken, Evermusic ve Flacbox bir ID3 etiket düzenleyici ekleyerek basitliği bir sonraki seviyeye taşır. Artık müzik kitaplığınızı oluşturmak, parçalarınızın keyfini çıkarmak ve ses etiketlerini düzeltmek için tek bir uygulama kullanabilirsiniz.
 
 {{< cards cols="2">}}
-{{< card link="https://apps.apple.com/app/apple-store/id885367198?pt=95781850&ct=everappzcom&mt=8" title="Evermusic İndir" icon="download" tag="Free" >}}
-{{< card link="https://apps.apple.com/app/apple-store/id1097564256?pt=95781850&ct=everappzcom&mt=8" title="Flacbox İndir" icon="download" tag="Free" >}}
+{{< ls-card link="https://apps.apple.com/app/apple-store/id885367198?pt=95781850&ct=everappzcom&mt=8" title="Evermusic İndir" icon="download" tag="Free" >}}
+{{< ls-card link="https://apps.apple.com/app/apple-store/id1097564256?pt=95781850&ct=everappzcom&mt=8" title="Flacbox İndir" icon="download" tag="Free" >}}
 {{< /cards >}}
 
 ## Profesyonel Düzenleyici
@@ -30,7 +30,7 @@ Birçok masaüstü uygulama meta veri düzenleme sunarken, Evermusic ve Flacbox 
 Ancak başlamadan önce **Evertag** uygulamasına göz atın — **120'den fazla ses etiketi**, **30'dan fazla ses formatı** destekler ve güçlü **toplu düzenleme** sunar. Tam özellikli bir etiket yönetim aracı arıyorsanız, Evertag doğru seçimdir. Ancak, yalnızca **basit bir etiket düzenleyiciye** ihtiyacınız varsa, bu kılavuzla devam edin.
 
 {{< cards >}}
-{{< card link="https://apps.apple.com/app/apple-store/id1450763230?pt=95781850&ct=everappzcom&mt=8" title="Evertag İndir" icon="download" tag="Free" >}}
+{{< ls-card link="https://apps.apple.com/app/apple-store/id1450763230?pt=95781850&ct=everappzcom&mt=8" title="Evertag İndir" icon="download" tag="Free" >}}
 {{< /cards >}}
 
 
@@ -38,21 +38,21 @@ Ancak başlamadan önce **Evertag** uygulamasına göz atın — **120'den fazla
 Tercih ettiğiniz bulut hesabını uygulama içinde bağlayın.
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Bulut Sunucusunu Bağla" image="/docs/howto/how-to-edit-id3-tags-on-iphone/connect_cloud_server.webp" >}}
+{{< ls-card title="" subtitle="Bulut Sunucusunu Bağla" image="/docs/howto/how-to-edit-id3-tags-on-iphone/connect_cloud_server.webp" >}}
 {{< /cards >}}
 
 ## Ses Dosyalarınıza Gidin  
 Bağlı bulut hesabında ses dosyalarınızı içeren klasörü açın.
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Bulut Klasörleri" image="/docs/howto/how-to-edit-id3-tags-on-iphone/cloud_server_folders.webp" >}}
+{{< ls-card title="" subtitle="Bulut Klasörleri" image="/docs/howto/how-to-edit-id3-tags-on-iphone/cloud_server_folders.webp" >}}
 {{< /cards >}}
 
 ## Dosya Seçeneklerine Erişin  
 Düzenlemek istediğiniz dosyanın yanındaki 'Daha Fazla' düğmesine ('...') dokunun.
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Daha Fazla İşlem" image="/docs/howto/how-to-edit-id3-tags-on-iphone/cloud_server_audio_more_actions.webp" >}}
+{{< ls-card title="" subtitle="Daha Fazla İşlem" image="/docs/howto/how-to-edit-id3-tags-on-iphone/cloud_server_audio_more_actions.webp" >}}
 {{< /cards >}}
 
 ## 'Ses Etiketlerini Düzenle' Seçin  
@@ -70,7 +70,7 @@ Dosya önbelleğe indirilirken ve düzenleme ekranı görünürken bekleyin.
 Düzenlemeyi bitirdikten sonra değişikliklerinizi kaydetmek için 'Kaydet' düğmesine dokunun.
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Etiket Düzenleyici" image="/docs/howto/how-to-edit-id3-tags-on-iphone/tags_editor.webp" >}}
+{{< ls-card title="" subtitle="Etiket Düzenleyici" image="/docs/howto/how-to-edit-id3-tags-on-iphone/tags_editor.webp" >}}
 {{< /cards >}}
 
 ## Akıllı Otomatik Tamamlama  
@@ -88,7 +88,7 @@ Etiket düzenleyiciyi kapattığınızda, uygulama düzenlenen ses dosyasını o
 - **"Yerel Dosyalar" bölümüne gidin**, ardından **"Bu Cihazdaki Dosyalar"** bölümüne aşağı kaydırın.
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Bu Cihazdaki Dosyalar" image="/docs/howto/how-to-edit-id3-tags-on-iphone/local_files.webp" >}}
+{{< ls-card title="" subtitle="Bu Cihazdaki Dosyalar" image="/docs/howto/how-to-edit-id3-tags-on-iphone/local_files.webp" >}}
 {{< /cards >}}
 
 - **"Klasör Bağla"** düğmesine dokunun.
@@ -96,25 +96,25 @@ Etiket düzenleyiciyi kapattığınızda, uygulama düzenlenen ses dosyasını o
 - Klasör seçicide, erişmek istediğiniz dizini seçin ve onaylamak için **"Aç"** düğmesine dokunun.
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Harici Klasör Bağla" image="/docs/howto/how-to-edit-id3-tags-on-iphone/connect_external_folder.webp" >}}
+{{< ls-card title="" subtitle="Harici Klasör Bağla" image="/docs/howto/how-to-edit-id3-tags-on-iphone/connect_external_folder.webp" >}}
 {{< /cards >}}
 
 - Klasörü ekledikten sonra, içindeki dosyaları görmek için üzerine dokunun.
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Harici Klasör İçeriği" image="/docs/howto/how-to-edit-id3-tags-on-iphone/connected_external_folder.webp" >}}
+{{< ls-card title="" subtitle="Harici Klasör İçeriği" image="/docs/howto/how-to-edit-id3-tags-on-iphone/connected_external_folder.webp" >}}
 {{< /cards >}}
 
 - Bulut dosyalarında olduğu gibi, bir ses dosyasının yanındaki **"Daha Fazla İşlem"** düğmesine dokunun ve **"Ses Etiketlerini Düzenle"** seçin.
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Daha Fazla İşlem - Yerel Dosya" image="/docs/howto/how-to-edit-id3-tags-on-iphone/more_actions_local_file.webp" >}}
+{{< ls-card title="" subtitle="Daha Fazla İşlem - Yerel Dosya" image="/docs/howto/how-to-edit-id3-tags-on-iphone/more_actions_local_file.webp" >}}
 {{< /cards >}}
 
 - Etiket Düzenleyici açılacaktır. Değişikliklerinizi yapın ve **"Kaydet"** düğmesine dokunun. Bu kadar! Düzenlemeleriniz doğrudan dosyaya uygulanır — kopyalamaya veya taşımaya gerek yok.
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Etiket Düzenleyici - Yerel Dosya" image="/docs/howto/how-to-edit-id3-tags-on-iphone/tag_editor_local_file.webp" >}}
+{{< ls-card title="" subtitle="Etiket Düzenleyici - Yerel Dosya" image="/docs/howto/how-to-edit-id3-tags-on-iphone/tag_editor_local_file.webp" >}}
 {{< /cards >}}
 
 ## Albüm Kapağını Düzenle
@@ -126,7 +126,7 @@ Albüm kapağını değiştirmek için:
 3. Kapak olarak uygulamak için bir görüntü seçin.
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Görüntü Seç" image="/docs/howto/how-to-edit-id3-tags-on-iphone/tags_editor_choose_image.webp" >}}
+{{< ls-card title="" subtitle="Görüntü Seç" image="/docs/howto/how-to-edit-id3-tags-on-iphone/tags_editor_choose_image.webp" >}}
 {{< /cards >}}
 
 ## Etiket Düzenleyicide Daha Fazla İşlem
@@ -134,7 +134,7 @@ Albüm kapağını değiştirmek için:
 Ek düzenleme seçenekleri, kapak görünümünün altındaki araç çubuğundan kullanılabilir.
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Daha Fazla İşlem Menüsü" image="/docs/howto/how-to-edit-id3-tags-on-iphone/tags_edito_more_actions.webp" >}}
+{{< ls-card title="" subtitle="Daha Fazla İşlem Menüsü" image="/docs/howto/how-to-edit-id3-tags-on-iphone/tags_edito_more_actions.webp" >}}
 {{< /cards >}}
 
 ### Otomatik Ses Etiketi Arama
@@ -195,22 +195,22 @@ Evermusic ve Flacbox ile müzik kitaplığı yönetiminizi ve etiket düzenlemen
 
 ## SSS
 
-{{% details title="Hangi ses formatlarının etiketlerini düzenleyebilirim?" closed="true" %}}
+{{% ls-details title="Hangi ses formatlarının etiketlerini düzenleyebilirim?" closed="true" %}}
 Evermusic ve Flacbox, MP3, FLAC, AAC, OGG ve diğer yaygın ses formatları için etiket düzenlemeyi destekler. Evertag, WAV, AIFF, WMA ve APE dahil 30'dan fazla formatı destekler.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Bulut hizmetlerinde depolanan dosyaların etiketlerini düzenleyebilir miyim?" closed="true" %}}
+{{% ls-details title="Bulut hizmetlerinde depolanan dosyaların etiketlerini düzenleyebilir miyim?" closed="true" %}}
 Evet. Dropbox, Google Drive, OneDrive veya diğer bulut hesabınızı bağlayın. Uygulama dosyayı indirir, etiketleri düzenlemenize izin verir ve değiştirilen dosyayı otomatik olarak buluta geri yükler.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Evermusic/Flacbox ile Evertag arasındaki fark nedir?" closed="true" %}}
+{{% ls-details title="Evermusic/Flacbox ile Evertag arasındaki fark nedir?" closed="true" %}}
 Evermusic ve Flacbox, yerleşik temel etiket düzenleyicisi olan müzik çalarlardır. Evertag, 120'den fazla ses etiketi, toplu düzenleme ve 30'dan fazla format destekleyen özel bir etiket düzenleyicidir -- büyük kitaplıkları yönetmek için idealdir.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Otomatik arama özelliği internet bağlantısı gerektirir mi?" closed="true" %}}
+{{% ls-details title="Otomatik arama özelliği internet bağlantısı gerektirir mi?" closed="true" %}}
 Evet. Otomatik Ses Etiketi Arama özelliği, meta verileri bulmak ve doldurmak için MusicBrainz çevrimiçi veritabanını sorgular. Bu özellik için aktif bir internet bağlantısı gereklidir.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Etiketleri düzenlemek ses kalitemi değiştirir mi?" closed="true" %}}
+{{% ls-details title="Etiketleri düzenlemek ses kalitemi değiştirir mi?" closed="true" %}}
 Hayır. Etiket düzenleme yalnızca dosyaya gömülü meta verileri değiştirir. Ses verilerinin kendisi dokunulmadan kalır -- yeniden kodlama yapılmaz.
-{{% /details %}}
+{{% /ls-details %}}

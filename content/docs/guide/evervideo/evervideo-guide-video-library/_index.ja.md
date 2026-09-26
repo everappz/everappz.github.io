@@ -21,7 +21,7 @@ readingTime: 8
 ライブラリにメディアを追加する方法は2つあります：**手動追加**（追加するものを正確に選択）または**自動同期**（Evervideoが指定されたクラウドフォルダーをスキャンし、新しいファイルが現れると自動的に追加）。
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evervideoメディアライブラリ" image="/docs/guide/evervideo/img/evervideo-genres-in-media-library.webp" >}}
+  {{< ls-card title="" subtitle="Evervideoメディアライブラリ" image="/docs/guide/evervideo/img/evervideo-genres-in-media-library.webp" >}}
 {{< /cards >}}
 
 ## 手動追加
@@ -92,7 +92,7 @@ Evervideoはミュージックアプリライブラリからもビデオを読�
 このセクションでは、最後の再生位置とともにすべての最近再生したビデオが表示されるので、1回のタップでどれも再開できます。設定 → メディアライブラリ → 最近再生したもの → リストサイズを変更でリストが保持するエントリ数を変更でき、視聴履歴をバックアップするためにリストをM3U / CSV / TXTにエクスポートできます。
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evervideo最近再生したもの — 最近視聴したビデオ" image="/docs/guide/evervideo/img/evervideo-recents.webp" >}}
+  {{< ls-card title="" subtitle="Evervideo最近再生したもの — 最近視聴したビデオ" image="/docs/guide/evervideo/img/evervideo-recents.webp" >}}
 {{< /cards >}}
 
 ## お気に入り
@@ -104,7 +104,7 @@ Evervideoはミュージックアプリライブラリからもビデオを読�
 Evervideoは視聴したすべてのビデオの再生位置を追跡します。どのリストのビデオも — 最近再生したもの、お気に入り、アルバム、ジャンル、プレイリスト、フォルダー — どのくらい視聴済みかを一目で確認できる小さな進捗バーが表示されます。これにより、長いTVシリーズの季節、コースのプレイリスト、一気視聴の夜の管理が楽になります。
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="ファイルごとの視聴進捗付きEvervideoジャンル詳細" image="/docs/guide/evervideo/img/evervideo-genre-detail-with-playback-progress-for-watched-files.webp" >}}
+  {{< ls-card title="" subtitle="ファイルごとの視聴進捗付きEvervideoジャンル詳細" image="/docs/guide/evervideo/img/evervideo-genre-detail-with-playback-progress-for-watched-files.webp" >}}
 {{< /cards >}}
 
 ## トップツールバー
@@ -116,7 +116,7 @@ Evervideoは視聴したすべてのビデオの再生位置を追跡します�
 検索機能を使用すると、メディアライブラリ内の特定のタイトル、アルバム、ジャンル、またはプレイリストを見つけることができます。検索画面内では、並べ替え、フィルター、グリッド / リストビューアクションにアクセスできます。検索はメディアライブラリデータベースに対してローカルで実行されるので、完全にオフラインで機能し、入力中に結果を返します。
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evervideoメディアライブラリ検索" image="/docs/guide/evervideo/img/evervideo-library-search.webp" >}}
+  {{< ls-card title="" subtitle="Evervideoメディアライブラリ検索" image="/docs/guide/evervideo/img/evervideo-library-search.webp" >}}
 {{< /cards >}}
 
 ## オプションメニュー

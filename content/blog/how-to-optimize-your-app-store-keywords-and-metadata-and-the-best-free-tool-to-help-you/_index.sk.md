@@ -22,7 +22,7 @@ authors:
     image: "/images/about/artem-meleshko-founder-everappz.webp"
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 ## Prečo kľúčové slová App Store určujú vaše čísla stiahnutí
 
@@ -112,29 +112,29 @@ Vyskúšajte to teraz — váš ďalší používateľ je jedno vyhľadávanie p
 Nástroj je open source. Hlásenia chýb, návrhy funkcií a pull requesty sú vítané.
 
 {{< cards cols="1" >}}
-  {{< card link="https://github.com/everappz/app-store-keyword-optimizer/tree/main" title="appkeywords.pro na GitHub" icon="github" tag= "open source" >}}
+  {{< ls-card link="https://github.com/everappz/app-store-keyword-optimizer/tree/main" title="appkeywords.pro na GitHub" icon="github" tag= "open source" >}}
 {{< /cards >}}
 
 ---
 
 ## Často kladené otázky
 
-{{% details title="Je AppKeywords.pro naozaj zadarmo?" closed="true" %}}
+{{% ls-details title="Je AppKeywords.pro naozaj zadarmo?" closed="true" %}}
 Áno. Je to plne open-source nástroj v prehliadači bez registrácie, bez reklám a bez zberu dát. Vaše metadáta nikdy neopustia vaše zariadenie.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Funguje tento nástroj pre viacero lokalizácií App Store?" closed="true" %}}
+{{% ls-details title="Funguje tento nástroj pre viacero lokalizácií App Store?" closed="true" %}}
 Áno. Môžete pridať metadáta pre každú lokalizáciu nezávisle a export obsahuje všetky jazyky v jednom JSON súbore kompatibilnom s Fastlane.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Mám opakovať kľúčové slová z titulu v poli kľúčových slov?" closed="true" %}}
+{{% ls-details title="Mám opakovať kľúčové slová z titulu v poli kľúčových slov?" closed="true" %}}
 Nie. Apple už indexuje slová z vášho titulu a podtitulu. Ich opakovanie v poli kľúčových slov plytvá znakmi.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Ako často by som mal aktualizovať kľúčové slová v App Store?" closed="true" %}}
+{{% ls-details title="Ako často by som mal aktualizovať kľúčové slová v App Store?" closed="true" %}}
 Preskúmajte a obnovte kľúčové slová aspoň raz za štvrťrok. Upravte skôr, ak zaznamenáte pokles hodnotenia alebo sezónne zmeny vo vyhľadávaní.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Môžem tento nástroj použiť s Fastlane?" closed="true" %}}
+{{% ls-details title="Môžem tento nástroj použiť s Fastlane?" closed="true" %}}
 Áno. GitHub repozitár obsahuje shell skripty na konverziu medzi štruktúrou priečinkov metadát Fastlane a JSON formátom používaným AppKeywords.pro.
-{{% /details %}}
+{{% /ls-details %}}

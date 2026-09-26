@@ -7,7 +7,7 @@ tags: ["mp3", "编辑器", "iPhone", "标签", "元数据", "id3"]
 readingTime: 2
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **摘要：** 使用 Evermusic 或 Flacbox 中的内置标签编辑器在 iPhone 或 Mac 上编辑 ID3 标签——适用于云端和本地文件。需要批量编辑或 120+ 标签字段？请使用 [Evertag](https://apps.apple.com/app/apple-store/id1450763230?pt=95781850&ct=everappzcom&mt=8)。
@@ -21,8 +21,8 @@ readingTime: 2
 虽然许多桌面应用提供元数据编辑功能，但 Evermusic 和 Flacbox 通过内置 ID3 标签编辑器将简便性提升到了新的水平。现在，您可以使用一个应用来构建音乐库、欣赏曲目和修复音频标签。
 
 {{< cards cols="2">}}
-{{< card link="https://apps.apple.com/app/apple-store/id885367198?pt=95781850&ct=everappzcom&mt=8" title="下载 Evermusic" icon="download" tag="Free" >}}
-{{< card link="https://apps.apple.com/app/apple-store/id1097564256?pt=95781850&ct=everappzcom&mt=8" title="下载 Flacbox" icon="download" tag="Free" >}}
+{{< ls-card link="https://apps.apple.com/app/apple-store/id885367198?pt=95781850&ct=everappzcom&mt=8" title="下载 Evermusic" icon="download" tag="Free" >}}
+{{< ls-card link="https://apps.apple.com/app/apple-store/id1097564256?pt=95781850&ct=everappzcom&mt=8" title="下载 Flacbox" icon="download" tag="Free" >}}
 {{< /cards >}}
 
 ## 专业编辑器
@@ -30,7 +30,7 @@ readingTime: 2
 但在开始之前，请了解 **Evertag** 应用——它支持 **120+ 音频标签**、**30+ 音频格式**，并提供强大的**批量编辑**功能。如果您在寻找功能齐全的标签管理工具，Evertag 是最佳选择。但如果您只需要一个**简单的标签编辑器**，请继续阅读本指南。
 
 {{< cards >}}
-{{< card link="https://apps.apple.com/app/apple-store/id1450763230?pt=95781850&ct=everappzcom&mt=8" title="下载 Evertag" icon="download" tag="Free" >}}
+{{< ls-card link="https://apps.apple.com/app/apple-store/id1450763230?pt=95781850&ct=everappzcom&mt=8" title="下载 Evertag" icon="download" tag="Free" >}}
 {{< /cards >}}
 
 
@@ -38,21 +38,21 @@ readingTime: 2
 在应用中关联您的首选云账户。
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="连接云服务器" image="/docs/howto/how-to-edit-id3-tags-on-iphone/connect_cloud_server.webp" >}}
+{{< ls-card title="" subtitle="连接云服务器" image="/docs/howto/how-to-edit-id3-tags-on-iphone/connect_cloud_server.webp" >}}
 {{< /cards >}}
 
 ## 导航到音频文件  
 在已连接的云账户中打开包含音频文件的文件夹。
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="云文件夹" image="/docs/howto/how-to-edit-id3-tags-on-iphone/cloud_server_folders.webp" >}}
+{{< ls-card title="" subtitle="云文件夹" image="/docs/howto/how-to-edit-id3-tags-on-iphone/cloud_server_folders.webp" >}}
 {{< /cards >}}
 
 ## 访问文件选项  
 点击要编辑的文件旁边的"更多"按钮（'...'）。
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="更多操作" image="/docs/howto/how-to-edit-id3-tags-on-iphone/cloud_server_audio_more_actions.webp" >}}
+{{< ls-card title="" subtitle="更多操作" image="/docs/howto/how-to-edit-id3-tags-on-iphone/cloud_server_audio_more_actions.webp" >}}
 {{< /cards >}}
 
 ## 选择"编辑音频标签"  
@@ -70,7 +70,7 @@ readingTime: 2
 编辑完成后，点击"保存"按钮保存更改。
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="标签编辑器" image="/docs/howto/how-to-edit-id3-tags-on-iphone/tags_editor.webp" >}}
+{{< ls-card title="" subtitle="标签编辑器" image="/docs/howto/how-to-edit-id3-tags-on-iphone/tags_editor.webp" >}}
 {{< /cards >}}
 
 ## 智能自动补全  
@@ -88,7 +88,7 @@ readingTime: 2
 - **转到"本地文件"部分**，然后向下滚动到**"此设备上的文件"。**
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="此设备上的文件" image="/docs/howto/how-to-edit-id3-tags-on-iphone/local_files.webp" >}}
+{{< ls-card title="" subtitle="此设备上的文件" image="/docs/howto/how-to-edit-id3-tags-on-iphone/local_files.webp" >}}
 {{< /cards >}}
 
 - 点击**"连接文件夹"**。
@@ -96,25 +96,25 @@ readingTime: 2
 - 在文件夹选择器中，选择要访问的目录，然后点击**"打开"**确认。
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="连接外部文件夹" image="/docs/howto/how-to-edit-id3-tags-on-iphone/connect_external_folder.webp" >}}
+{{< ls-card title="" subtitle="连接外部文件夹" image="/docs/howto/how-to-edit-id3-tags-on-iphone/connect_external_folder.webp" >}}
 {{< /cards >}}
 
 - 添加文件夹后，点击它查看里面的文件。
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="外部文件夹内容" image="/docs/howto/how-to-edit-id3-tags-on-iphone/connected_external_folder.webp" >}}
+{{< ls-card title="" subtitle="外部文件夹内容" image="/docs/howto/how-to-edit-id3-tags-on-iphone/connected_external_folder.webp" >}}
 {{< /cards >}}
 
 - 与云文件一样，点击音频文件旁边的**"更多操作"**按钮，然后选择**"编辑音频标签"。**
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="更多操作 - 本地文件" image="/docs/howto/how-to-edit-id3-tags-on-iphone/more_actions_local_file.webp" >}}
+{{< ls-card title="" subtitle="更多操作 - 本地文件" image="/docs/howto/how-to-edit-id3-tags-on-iphone/more_actions_local_file.webp" >}}
 {{< /cards >}}
 
 - 标签编辑器将打开。进行更改并点击**"保存"**。就这样！您的编辑直接应用到文件——无需复制或移动任何内容。
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="标签编辑器 - 本地文件" image="/docs/howto/how-to-edit-id3-tags-on-iphone/tag_editor_local_file.webp" >}}
+{{< ls-card title="" subtitle="标签编辑器 - 本地文件" image="/docs/howto/how-to-edit-id3-tags-on-iphone/tag_editor_local_file.webp" >}}
 {{< /cards >}}
 
 ## 编辑专辑封面
@@ -126,7 +126,7 @@ readingTime: 2
 3. 选择要用作封面的图片。
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="选择图片" image="/docs/howto/how-to-edit-id3-tags-on-iphone/tags_editor_choose_image.webp" >}}
+{{< ls-card title="" subtitle="选择图片" image="/docs/howto/how-to-edit-id3-tags-on-iphone/tags_editor_choose_image.webp" >}}
 {{< /cards >}}
 
 ## 标签编辑器中的更多操作
@@ -134,7 +134,7 @@ readingTime: 2
 封面视图下方的工具栏提供了额外的编辑选项。
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="更多操作菜单" image="/docs/howto/how-to-edit-id3-tags-on-iphone/tags_edito_more_actions.webp" >}}
+{{< ls-card title="" subtitle="更多操作菜单" image="/docs/howto/how-to-edit-id3-tags-on-iphone/tags_edito_more_actions.webp" >}}
 {{< /cards >}}
 
 ### 自动搜索音频标签
@@ -195,22 +195,22 @@ readingTime: 2
 
 ## 常见问题
 
-{{% details title="我可以编辑哪些音频格式的标签？" closed="true" %}}
+{{% ls-details title="我可以编辑哪些音频格式的标签？" closed="true" %}}
 Evermusic 和 Flacbox 支持编辑 MP3、FLAC、AAC、OGG 和其他常见音频格式的标签。Evertag 支持 30+ 种格式，包括 WAV、AIFF、WMA 和 APE。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="我可以编辑存储在云服务中的文件的标签吗？" closed="true" %}}
+{{% ls-details title="我可以编辑存储在云服务中的文件的标签吗？" closed="true" %}}
 可以。连接您的 Dropbox、Google Drive、OneDrive 或其他云账户。应用会下载文件，让您编辑标签，然后自动将修改后的文件上传回云端。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Evermusic/Flacbox 和 Evertag 有什么区别？" closed="true" %}}
+{{% ls-details title="Evermusic/Flacbox 和 Evertag 有什么区别？" closed="true" %}}
 Evermusic 和 Flacbox 是带有内置基本标签编辑器的音乐播放器。Evertag 是专用标签编辑器，支持 120+ 音频标签、批量编辑和 30+ 格式——非常适合管理大型音乐库。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="自动搜索功能需要互联网连接吗？" closed="true" %}}
+{{% ls-details title="自动搜索功能需要互联网连接吗？" closed="true" %}}
 是的。自动搜索音频标签功能会查询 MusicBrainz 在线数据库来查找和填充元数据。此功能需要有效的互联网连接。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="编辑标签会改变我的音频质量吗？" closed="true" %}}
+{{% ls-details title="编辑标签会改变我的音频质量吗？" closed="true" %}}
 不会。标签编辑只修改嵌入文件中的元数据。音频数据本身保持不变——不会进行重新编码。
-{{% /details %}}
+{{% /ls-details %}}

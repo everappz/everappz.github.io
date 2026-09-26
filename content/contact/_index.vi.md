@@ -1,9 +1,10 @@
 ---
+excludeSearch: true
 date: '2025-06-12T17:00:00+00:00'
 title: 'Liên hệ với chúng tôi'
 ---
 
-{{< lottie src="/images/juicy-json/juicy-girl-typing-on-phone.json" width="60%" >}}
+{{< ls-lottie src="/images/juicy-json/juicy-girl-typing-on-phone.json" width="60%" >}}
 
 ## Địa chỉ bưu điện
 
@@ -27,4 +28,4 @@ Bằng việc gửi email, bạn xác nhận rằng bạn đã đọc và đồn
 
 Theo dõi chúng tôi trên mạng xã hội để nhận tin tức mới nhất, cập nhật ứng dụng, mẹo và thông tin hữu ích:
 
-{{< social-cards >}}
+{{< ls-social-cards >}}

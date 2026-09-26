@@ -12,7 +12,7 @@ authors:
     image: "/images/about/artem-meleshko-founder-everappz.webp"
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 ![](/blog/evermusic-stream-your-music-from-the-cloud-and-free-up-space-on-your-iphone-or-ipad/21260c_00c5356db3a24db6a6a37e353b774d56~mv2.jpg)
 
@@ -82,22 +82,22 @@ Procházejte připojený cloudový účet, otevřete složku s hudbou a klepnět
 
 ## Často kladené dotazy
 
-{{% details title="Je Evermusic zdarma?" closed="true" %}}
+{{% ls-details title="Je Evermusic zdarma?" closed="true" %}}
 Evermusic je zdarma ke stažení s volitelnými prémiovými funkcemi. Základní cloudové streamování a offline přehrávání jsou dostupné v bezplatné verzi.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Které cloudové služby Evermusic podporuje?" closed="true" %}}
+{{% ls-details title="Které cloudové služby Evermusic podporuje?" closed="true" %}}
 Google Drive, Dropbox, Box, OneDrive, MediaFire, MEGA, Yandex.Disk, pCloud, HiDrive, MyDrive, sdílené složky SMB a servery WebDAV.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Mohu poslouchat hudbu offline s Evermusic?" closed="true" %}}
+{{% ls-details title="Mohu poslouchat hudbu offline s Evermusic?" closed="true" %}}
 Ano. Stáhněte si jakékoli album, interpreta, playlist nebo jednotlivou skladbu pro offline přehrávání přímo v aplikaci.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Jaké zvukové formáty Evermusic přehrává?" closed="true" %}}
+{{% ls-details title="Jaké zvukové formáty Evermusic přehrává?" closed="true" %}}
 Evermusic podporuje MP3, FLAC, AAC, WAV, ALAC, AIFF, OPUS, OGG a mnoho dalších formátů.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Potřebuji stále iTunes k přenosu hudby?" closed="true" %}}
+{{% ls-details title="Potřebuji stále iTunes k přenosu hudby?" closed="true" %}}
 Ne. Nahrajte svou hudbu do jakékoli podporované cloudové služby z vašeho počítače a poté ji streamujte nebo stáhněte přes Evermusic na vašem iPhone nebo iPad.
-{{% /details %}}
+{{% /ls-details %}}

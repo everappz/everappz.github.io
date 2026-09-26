@@ -7,14 +7,14 @@ keywords: ["iTunesなしで音楽を転送", "wifi drive iphone", "ワイヤレ�
 readingTime: 2
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **要約:** Evermusic、Flacbox、またはEvertagのWi-Fi Driveを使って、パソコンからiPhoneやiPadに音楽を転送できます。iTunesは必要ありません。両方のデバイスが同じWi-Fiネットワークに接続されている必要があります。ウェブブラウザまたはWebDAV（Mac Finder / Windows エクスプローラー）を使って転送できます。
 
 [**TECHGUYPH**](https://www.youtube.com/channel/UCgpf09gGFE_c_3pPTtTpnzg)のビデオチュートリアルを視聴するか、以下のテキスト版をお読みください。
 <br><br>
-{{< youtubecard id="CqdqrQ0ge70" title="Can We Wirelessly Put Offline Music on iPhones?" >}}
+{{< ls-youtubecard id="CqdqrQ0ge70" title="Can We Wirelessly Put Offline Music on iPhones?" >}}
 
 Wi-Fi Driveは、iTunesを必要とせずに、パソコンからiPhoneやiPadに音楽コレクションをシームレスに転送するための究極のソリューションです。この手軽な方法により、ローカルWi-Fi接続を使って複数のオーディオファイルやフォルダ全体を簡単にダウンロードまたはアップロードできます。これがスムーズに動作するためには、パソコンとiOSデバイスの両方が同じWi-Fiネットワークに接続されている必要があります。
 
@@ -84,22 +84,22 @@ Wi-Fi Driveがあれば、iTunesに苦労する日々は終わりです。ロー
 
 ## よくある質問
 
-{{% details title="Wi-Fi Driveで転送できるオーディオフォーマットは？" closed="true" %}}
+{{% ls-details title="Wi-Fi Driveで転送できるオーディオフォーマットは？" closed="true" %}}
 Wi-Fi Driveはあらゆるファイルタイプを転送できます。EvermusucとFlacboxは、MP3、FLAC、AAC、WAV、AIFF、OGG、WMA、その他多くのオーディオフォーマットの再生をサポートしています。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="iPhoneに音楽を入れるのにiTunesは必要ですか？" closed="true" %}}
+{{% ls-details title="iPhoneに音楽を入れるのにiTunesは必要ですか？" closed="true" %}}
 いいえ。Wi-Fi Driveはローカルの Wi-Fiネットワークを通じて直接音楽を転送します。iTunesは必要ありません。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="音楽フォルダ全体を一度に転送できますか？" closed="true" %}}
+{{% ls-details title="音楽フォルダ全体を一度に転送できますか？" closed="true" %}}
 はい。ウェブブラウザ方式では、ネストされたサブフォルダを含むフォルダ全体のアップロードに対応しています。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="音楽の転送は安全ですか？" closed="true" %}}
+{{% ls-details title="音楽の転送は安全ですか？" closed="true" %}}
 Wi-Fi Driveはローカルネットワーク上でのみ動作します。追加のセキュリティのために、ユーザー名とパスワードを設定することもできます。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="音楽用のWi-Fi Driveに対応しているアプリは？" closed="true" %}}
+{{% ls-details title="音楽用のWi-Fi Driveに対応しているアプリは？" closed="true" %}}
 Evermusic、Flacbox、Evertagのすべてに、パソコンからオーディオファイルを転送するためのWi-Fi Driveが搭載されています。
-{{% /details %}}
+{{% /ls-details %}}

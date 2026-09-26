@@ -15,7 +15,7 @@ readingTime: 11
 På denne skærm kan du forbinde forskellige kilder, der indeholder dine lydfiler. Du kan integrere populære cloudtjenester som Google Drive, Dropbox, OneDrive, iCloud og andre samt forbinde din Mac eller PC. Derudover har du mulighed for at redigere lydfiler placeret i Apple Time Capsule, WD Cloud Home eller enhver NAS, der taler SMB eller WebDAV.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evertag Forbindelsesskærm" image="/docs/guide/evertag/img/connections.webp" >}}
+  {{< ls-card title="" subtitle="Evertag Forbindelsesskærm" image="/docs/guide/evertag/img/connections.webp" >}}
 {{< /cards >}}
 
 ## Hurtig adgang
@@ -151,7 +151,7 @@ Her er en oversigt over disse handlinger:
 - **Gitter/Listevisning**: Skift mellem to visningstilstande: tabelvisning og miniaturevisning. Tabelvisningen præsenterer filer i en liste, mens miniaturevisningen viser visuelle repræsentationer af filerne, hvilket gør det lettere at identificere indhold ved første øjekast.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evertag Cloudmappe Sorter" image="/docs/guide/evertag/img/cloud-storage-sort.webp" >}}
+  {{< ls-card title="" subtitle="Evertag Cloudmappe Sorter" image="/docs/guide/evertag/img/cloud-storage-sort.webp" >}}
 {{< /cards >}}
 
 ## Rediger onlinefiler
@@ -163,7 +163,7 @@ Når du har brug for at administrere flere filer i dit cloudlager i denne app, k
 - **Udfør forskellige handlinger**: Når du har valgt de filer eller mapper, du vil administrere, har du adgang til flere handlinger skræddersyet til dine behov:
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evertag Filvælg" image="/docs/guide/evertag/img/cloud-storage-file-select.webp" >}}
+  {{< ls-card title="" subtitle="Evertag Filvælg" image="/docs/guide/evertag/img/cloud-storage-file-select.webp" >}}
 {{< /cards >}}
 
 ## Filhandlinger
@@ -180,7 +180,7 @@ Tryk på det for at afsløre en liste over tilgængelige handlinger:
 - **Slet**: Vær forsigtig med denne handling, da den permanent fjerner filen fra dit cloudlager. **Denne sletning kan ikke fortrydes**.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evertag Filindstillinger" image="/docs/guide/evertag/img/cloud-storage-file-options.webp" >}}
+  {{< ls-card title="" subtitle="Evertag Filindstillinger" image="/docs/guide/evertag/img/cloud-storage-file-options.webp" >}}
 {{< /cards >}}
 
 Hvis listen over handlinger overskrider den tilgængelige skærmsplads, skal du blot scrolle ned i handlingsmenuen for at få adgang til yderligere indstillinger.
@@ -196,5 +196,5 @@ For hver mappe i dit cloudlager har du forskellige handlinger tilgængelige. For
 - **Slet**: Vær forsigtig med denne handling, da den permanent fjerner mappen og dens indhold fra dit cloudlager. **Denne handling kan ikke fortrydes**.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evertag Mappeindstillinger" image="/docs/guide/evertag/img/cloud-storage-folder-options.webp" >}}
+  {{< ls-card title="" subtitle="Evertag Mappeindstillinger" image="/docs/guide/evertag/img/cloud-storage-folder-options.webp" >}}
 {{< /cards >}}

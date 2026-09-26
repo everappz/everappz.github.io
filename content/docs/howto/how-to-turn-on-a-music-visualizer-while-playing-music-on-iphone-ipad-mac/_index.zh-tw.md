@@ -7,12 +7,12 @@ tags: ["Evermusic", "Flacbox", "視覺化工具", "教學", "Milkdrop", "project
 readingTime: 9
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 **簡短回答：** [Evermusic](/products/evermusic) 與 [Flacbox](/products/flacbox) 兩者都有一個全螢幕的 **音樂視覺化工具**，能隨你的音樂繪製移動、繽紛的視覺效果。從 **正在播放** 的播放器（**⋯ 更多操作 > 視覺化**）或從 **設定 > 視覺化** 開啟它，然後選一個預設或 **Auto** 並點按 **開始視覺化**。在視覺化工具畫面上，點一下以顯示或隱藏控制項，並用 **上一個** 與 **下一個** 箭頭來更換外觀。它使用著名的 **Milkdrop（projectM）** 引擎搭配 **500 個預設**、以 **OpenGL** 算繪，並可在 **iPhone、iPad 與 Mac** 上運作。兩個應用程式的步驟相同。完整步驟如下。
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="音樂視覺化工具：Starfield Sectors 預設" image="/docs/howto/how-to-turn-on-a-music-visualizer-while-playing-music-on-iphone-ipad-mac/music-visualizer-starfield-sectors-preset.webp" imageStyle="border-radius: clamp(14px, 2vw, 28px);" >}}
+{{< ls-card title="" subtitle="音樂視覺化工具：Starfield Sectors 預設" image="/docs/howto/how-to-turn-on-a-music-visualizer-while-playing-music-on-iphone-ipad-mac/music-visualizer-starfield-sectors-preset.webp" imageStyle="border-radius: clamp(14px, 2vw, 28px);" >}}
 {{< /cards >}}
 
 ## 什麼是視覺化工具？
@@ -85,50 +85,50 @@ readingTime: 9
 
 ## 常見問題
 
-{{% details title="我要如何在 Evermusic 或 Flacbox 中開啟視覺化工具？" closed="true" %}}
+{{% ls-details title="我要如何在 Evermusic 或 Flacbox 中開啟視覺化工具？" closed="true" %}}
 開啟正在播放的播放器，點按 ⋯（更多操作）按鈕，並選擇 視覺化。你也可以從 設定 > 視覺化 開啟它。然後選一個預設（或 Auto）並點按 開始視覺化。兩個應用程式的步驟相同。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="視覺化工具是以什麼為基礎？" closed="true" %}}
+{{% ls-details title="視覺化工具是以什麼為基礎？" closed="true" %}}
 它使用開源的 projectM 引擎，該引擎播放 Milkdrop 風格的預設。這些是許多人從桌面音樂播放器所知的動畫、隨音樂反應的視覺效果。Evermusic 與 Flacbox 兩者都包含 500 個預設，並以 OpenGL 繪製它們。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="總共有多少個視覺化工具預設？" closed="true" %}}
+{{% ls-details title="總共有多少個視覺化工具預設？" closed="true" %}}
 500 個預設。每一個都是不同的動畫場景，你可以用下一個與上一個箭頭在它們之間移動，或讓 Auto 模式為你隨機切換。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="視覺化工具會隨音樂反應嗎？" closed="true" %}}
+{{% ls-details title="視覺化工具會隨音樂反應嗎？" closed="true" %}}
 會。這些視覺效果即時反應你正在播放的音訊，所以形狀、顏色與動態會隨曲目的節拍與能量變化。它能與本機檔案、雲端硬碟、媒體伺服器與網路廣播搭配運作。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="我要如何更換視覺化工具預設？" closed="true" %}}
+{{% ls-details title="我要如何更換視覺化工具預設？" closed="true" %}}
 點一下螢幕以顯示控制項，然後用底部的上一個與下一個箭頭在預設之間移動。頂部的名稱與計數器（例如 429 / 500）會隨著你更換而更新。你也可以以 Auto 模式啟動，讓應用程式自動切換預設。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="什麼是 Auto 模式？" closed="true" %}}
+{{% ls-details title="什麼是 Auto 模式？" closed="true" %}}
 Auto 模式從預設選擇器中選取，會自行在預設之間隨機切換，每 30 秒以平順的淡入淡出換成一個新的。這是不用碰螢幕就能享受這場秀最簡單的方式。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="我要如何隱藏螢幕上的控制項？" closed="true" %}}
+{{% ls-details title="我要如何隱藏螢幕上的控制項？" closed="true" %}}
 點一下螢幕以隱藏控制項，得到乾淨、全螢幕的檢視，然後再點一下把它們叫回來。控制項也會在幾秒鐘後自行隱藏。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="視覺化工具能在 Mac 上運作嗎？" closed="true" %}}
+{{% ls-details title="視覺化工具能在 Mac 上運作嗎？" closed="true" %}}
 可以。在 Mac 上，Evermusic 與 Flacbox 兩者都會在它自己的視窗中開啟視覺化工具，並以原生桌面 OpenGL 繪製，所以你能在大螢幕上得到相同的、隨音樂反應的 Milkdrop 視覺效果。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="視覺化工具能在 iPhone 與 iPad 上運作嗎？" closed="true" %}}
+{{% ls-details title="視覺化工具能在 iPhone 與 iPad 上運作嗎？" closed="true" %}}
 可以。在 iPhone 與 iPad 上它以全螢幕運行，並以 OpenGL ES 繪製，在 Retina 顯示器上得到平順的動畫。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="視覺化工具運行時我的螢幕會變暗或鎖定嗎？" closed="true" %}}
+{{% ls-details title="視覺化工具運行時我的螢幕會變暗或鎖定嗎？" closed="true" %}}
 不會。當視覺化工具開啟時，應用程式會讓螢幕保持喚醒，所以這場秀不會因顯示器變暗或鎖定而被打斷。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="應用程式會記住我選擇的預設嗎？" closed="true" %}}
+{{% ls-details title="應用程式會記住我選擇的預設嗎？" closed="true" %}}
 會。你最後選擇的預設會被儲存並在預設選擇器中標示出來，所以很容易回到你的最愛。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="目前的預設名稱顯示在哪裡？" closed="true" %}}
+{{% ls-details title="目前的預設名稱顯示在哪裡？" closed="true" %}}
 在視覺化工具畫面的頂部中央，連同一個像 429 / 500 這樣的計數器，顯示你在整組中處於哪一個預設。在範例截圖中，預設是 Starfield Sectors。
-{{% /details %}}
+{{% /ls-details %}}

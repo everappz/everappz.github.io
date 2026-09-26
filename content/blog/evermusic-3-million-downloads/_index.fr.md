@@ -12,7 +12,7 @@ authors:
     image: "/images/about/artem-meleshko-founder-everappz.webp"
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 ## 3 millions de téléchargements
 
@@ -98,22 +98,22 @@ Evermusic est gratuit sur l'App Store avec des fonctionnalités premium optionne
 
 ## Questions fréquemment posées
 
-{{% details title="Evermusic est-il gratuit ?" closed="true" %}}
+{{% ls-details title="Evermusic est-il gratuit ?" closed="true" %}}
 Oui. Evermusic est gratuit à télécharger avec les fonctionnalités de base disponibles sans frais. Les fonctionnalités premium comme l'égaliseur et les options cloud avancées sont disponibles via une mise à niveau optionnelle.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Evermusic peut-il lire des livres audio ?" closed="true" %}}
+{{% ls-details title="Evermusic peut-il lire des livres audio ?" closed="true" %}}
 Oui. Evermusic sauvegarde votre position de lecture, prend en charge les signets, la vitesse de lecture réglable (0,5x à 2,0x) et les minuteries de sommeil, ce qui le rend adapté aux livres audio et aux podcasts.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="À quels services cloud Evermusic se connecte-t-il ?" closed="true" %}}
+{{% ls-details title="À quels services cloud Evermusic se connecte-t-il ?" closed="true" %}}
 Dropbox, Google Drive, OneDrive, Box, MEGA, Yandex.Disk, MyDrive, pCloud, HiDrive, les partages de fichiers SMB et les serveurs WebDAV.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Puis-je utiliser une carte SD avec Evermusic ?" closed="true" %}}
+{{% ls-details title="Puis-je utiliser une carte SD avec Evermusic ?" closed="true" %}}
 Oui. Connectez un lecteur de carte SD Lightning ou USB-C à votre iPhone ou iPad et streamez la musique directement depuis la carte via Evermusic.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Evermusic fonctionne-t-il sur Mac ?" closed="true" %}}
+{{% ls-details title="Evermusic fonctionne-t-il sur Mac ?" closed="true" %}}
 Oui. Evermusic est disponible pour iOS et macOS, avec le streaming cloud et la lecture hors ligne sur toutes les plateformes.
-{{% /details %}}
+{{% /ls-details %}}

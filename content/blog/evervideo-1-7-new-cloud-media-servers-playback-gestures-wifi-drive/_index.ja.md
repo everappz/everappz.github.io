@@ -12,7 +12,7 @@ authors:
     image: "/images/about/artem-meleshko-founder-everappz.webp"
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 **要点:** [Evervideo 1.7](/products/evervideo) はiPhone、iPad、Mac向けHD動画プレイヤーの大型アップデートです。本リリースでは10件以上の新しいクラウド/NAS/メディアサーバー接続(**Internxt**、**Proton Drive**、**QNAP**、**Nextcloud**、**Amazon S3**)に加え、最も人気のあるメディアサーバー(**Plex**、**Subsonic**、**Navidrome**、**Jellyfin**、**Emby**)、3つのネットワークプロトコル(**FTP**、**SFTP**、**NFS**)を追加しました。新しい**再生ジェスチャ**では、ダブルタップで前後にジャンプ、長押しで2倍速再生、シングルタップでコントロールの表示/非表示を切り替えられます — すべてフルスクリーンを抜けずに行えます。Wi-Fi Driveは複数選択モードとよりスマートなアップロードキューを備えたUIに刷新されました。アプリ全体はAppleの新しい**Liquid Glass**デザインに合わせて調整されています。
 
@@ -147,58 +147,58 @@ Evervideo 1.7は3つのアイデアを軸にしています:
 
 ## よくある質問
 
-{{% details title="Evervideo 1.7の新機能は?" closed="true" %}}
+{{% ls-details title="Evervideo 1.7の新機能は?" closed="true" %}}
 Evervideo 1.7は10件以上の新しい接続(Plex、Jellyfin、Emby、Subsonic、Navidrome、Internxt、Proton Drive、QNAP、Nextcloud、Amazon S3、FTP、SFTP、NFS)、新しい再生ジェスチャ(ダブルタップでシーク、長押しで2倍速、シングルタップでコントロール表示の切り替え)、選択モードとよりスマートなアップロードキューを備えた再設計されたWi-Fi Drive、Liquid Glassデザインの更新、接続ライブラリの更新、多くのバグ修正を導入します。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="EvervideoはPlexで動作しますか?" closed="true" %}}
+{{% ls-details title="EvervideoはPlexで動作しますか?" closed="true" %}}
 はい。Evervideo 1.7からPlex Media Serverに接続して、映画、TV番組、ホームビデオを含む動画ライブラリ全体をストリーミングできます。Plex Media Serverは無料で動作し、Plex Passは任意です。EvervideoはFree版とPlex Passの双方の構成をサポートし、再エンコードなしでのMKV、MP4、AVI、MOVなどの直接再生も可能です。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="EvervideoはJellyfinやNavidromeをサポートしていますか?" closed="true" %}}
+{{% ls-details title="EvervideoはJellyfinやNavidromeをサポートしていますか?" closed="true" %}}
 はい。JellyfinもNavidromeもEvervideo 1.7で完全にサポートされています。Jellyfinは動画と音声を扱う無料のオープンソース・メディアサーバーです。NavidromeはSubsonic APIを実装した無料のオープンソース・サーバーです。Evervideoはどちらにもネイティブに接続します。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Plex、Jellyfin、Emby、Navidrome、Subsonicは無料ですか?" closed="true" %}}
+{{% ls-details title="Plex、Jellyfin、Emby、Navidrome、Subsonicは無料ですか?" closed="true" %}}
 - **Plex** — サーバーは無料、Plex Passは任意の有料アップグレード。
 - **Jellyfin** — 完全に無料でオープンソース。
 - **Emby** — サーバーは無料、Emby Premiereは有料でモバイル同期とオフラインをアンロック。
 - **Navidrome** — 完全に無料でオープンソース。
 - **Subsonic** — 公式サーバーは30日トライアル後、月額1ドル。ただしAPIはオープンで、多くの無料サーバー(Navidromeを含む)が実装。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="自宅のNASからSFTP、FTP、NFSでストリーミングできますか?" closed="true" %}}
+{{% ls-details title="自宅のNASからSFTP、FTP、NFSでストリーミングできますか?" closed="true" %}}
 はい。Evervideo 1.7はSFTP、FTP、NFSをネイティブの接続タイプとして追加します。SFTPはトラフィック全体がSSH経由で暗号化されるため、パブリック・インターネット越しに自分のサーバーからストリーミングする場合の推奨選択肢です。FTPとNFSはローカルネットワーク内、またはVPNの背後で使用するのが最適です。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="EvervideoをSFTPでカスタムサーバーに接続するには?" closed="true" %}}
+{{% ls-details title="EvervideoをSFTPでカスタムサーバーに接続するには?" closed="true" %}}
 Evervideoを開き、接続タブへ行き、SFTPを選び、サーバーのホスト名またはIP、ポート(通常は22)、ユーザー名、パスワードまたはSSH秘密鍵を入力します。Evervideoはリモートフォルダを参照し、エンドツーエンド暗号化で動画ファイルを直接ストリーミングします。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="EvervideoはInternxtとProton Driveをサポートしていますか?" closed="true" %}}
+{{% ls-details title="EvervideoはInternxtとProton Driveをサポートしていますか?" closed="true" %}}
 はい。両方のプライバシー重視クラウドはEvervideo 1.7時点でサポートされています。これらはアプリ内ですでに利用可能なMEGAなどのプライバシーファースト・サービスに加わります。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="新しい再生ジェスチャはどのように動作しますか?" closed="true" %}}
+{{% ls-details title="新しい再生ジェスチャはどのように動作しますか?" closed="true" %}}
 フルスクリーン動画再生中、**画面の右側をダブルタップ**すると早送り、**左側をダブルタップ**すると巻き戻し(設定可能な間隔、デフォルト10秒 — 設定で変更可能)になります。画面上のどこでも**長押し**すると一時的に2倍速になり、離すと通常速度に戻ります。どこでも**シングルタップ**すると再生コントロールの表示/非表示が切り替わります。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="ダブルタップのスキップ間隔は変更できますか?" closed="true" %}}
+{{% ls-details title="ダブルタップのスキップ間隔は変更できますか?" closed="true" %}}
 はい。**設定 → 再生 → ジェスチャ・スキップ間隔**で、5秒から60秒の間で値を選べます。多くのユーザーは10秒または15秒のままにしています。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="EvervideoのWi-Fi Driveとは何ですか?" closed="true" %}}
+{{% ls-details title="EvervideoのWi-Fi Driveとは何ですか?" closed="true" %}}
 Wi-Fi DriveはEvervideoに内蔵されたワイヤレスファイル転送機能です。ローカルWi-Fiネットワーク経由で、iTunes、ケーブル、クラウドアカウントなしに、コンピューターからiPhoneやiPadへ動画をアップロードできます。任意のデスクトップブラウザや、Mac FinderまたはWindowsエクスプローラーのようなWebDAVクライアントを使用できます。[Wi-Fi Drive完全ガイドはこちら](/docs/howto/how-to-transfer-files-wirelessly-from-a-computer-to-an-iphone-using-wifi-drive/)。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="EvervideoはPlexやJellyfinからMKV、AVIなどの形式を再生しますか?" closed="true" %}}
+{{% ls-details title="EvervideoはPlexやJellyfinからMKV、AVIなどの形式を再生しますか?" closed="true" %}}
 はい。Evervideoは事実上あらゆる動画形式(MKV、AVI、MP4、MOV、FLV、WMV、WEBM、M4V、TS、3GP)を再生し、ほとんどのコーデックでトランスコードを必要とせずにPlex、Jellyfin、Embyなどのメディアサーバーから直接ストリーミングします。これによりサーバー側のCPU負荷が下がり、起動時間も短縮されます。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Evervideo 1.7のアップデートは無料ですか?" closed="true" %}}
+{{% ls-details title="Evervideo 1.7のアップデートは無料ですか?" closed="true" %}}
 はい。EvervideoはApp Storeから無料でダウンロードでき、1.7は既存ユーザー全員に対する無料アップデートです。新しいクラウド統合、メディアサーバー対応、再生ジェスチャ、Wi-Fi Driveの改善、Liquid Glass UIは、ベースのアップデートの一部です。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Evervideo 1.7はどのデバイスで利用できますか?" closed="true" %}}
+{{% ls-details title="Evervideo 1.7はどのデバイスで利用できますか?" closed="true" %}}
 Evervideo 1.7はiPhone、iPad、Macで動作します。AirPlayとChromecastで大画面に再生をキャストできます。iCloud Drive同期により、デバイス間でライブラリと設定が一貫して保たれます。
-{{% /details %}}
+{{% /ls-details %}}

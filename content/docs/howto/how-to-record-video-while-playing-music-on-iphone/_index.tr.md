@@ -7,7 +7,7 @@ keywords: ["iPhone'da müzik çalarken video kaydetme", "iPhone'da çekim yapark
 readingTime: 1
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **Özet:** Evermusic'in ses çıkışını "Karma mod" olarak ayarlayın, bir parça çalmaya başlayın, ardından Kamera uygulamanızı açın ve kaydedin. Müzik arka planda çalmaya devam eder. TikTok, Instagram ve tüm kamera uygulamalarıyla çalışır.
@@ -45,22 +45,22 @@ Bu ipucu her iPhone'da çalışır.
 
 ## Sık Sorulan Sorular
 
-{{% details title="Arka plan müziği videoya kaydedilir mi?" closed="true" %}}
+{{% ls-details title="Arka plan müziği videoya kaydedilir mi?" closed="true" %}}
 Müzik iPhone hoparlöründen çalar, bu yüzden mikrofon müziği diğer ortam sesleriyle birlikte yakalar. Daha temiz ses için mikrofona yakın yerleştirilen harici bir hoparlör kullanmayı düşünebilirsiniz.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Bu TikTok ve Instagram ile çalışır mı?" closed="true" %}}
+{{% ls-details title="Bu TikTok ve Instagram ile çalışır mı?" closed="true" %}}
 Evet. Evermusic Karma mod olarak ayarlandığında ve bir parça çalındığında, TikTok, Instagram veya başka herhangi bir kamera ya da kayıt uygulamasını açtığınızda müzik çalmaya devam eder.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Evermusic'te Karma mod nedir?" closed="true" %}}
+{{% ls-details title="Evermusic'te Karma mod nedir?" closed="true" %}}
 Karma mod, Evermusic'in ses oturumunu diğer uygulamalarla paylaşmasını sağlayan bir ses çıkış ayarıdır. Bu, başka bir uygulama mikrofona veya kameraya eriştiğinde müziğin durmasını önler.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Bunun için Evermusic yerine Flacbox kullanabilir miyim?" closed="true" %}}
+{{% ls-details title="Bunun için Evermusic yerine Flacbox kullanabilir miyim?" closed="true" %}}
 Evet. Flacbox da Karma ses çıkış modunu destekler. Adımlar aynıdır: Ayarlar'da Karma modu etkinleştirin, çalmaya başlayın ve kamera uygulamanızı açın.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Evermusic'ten müzik arka planda çalarken oyun oynayabilir miyim?" closed="true" %}}
+{{% ls-details title="Evermusic'ten müzik arka planda çalarken oyun oynayabilir miyim?" closed="true" %}}
 Evet. Karma mod etkinleştirildiğinde, herhangi bir oyun veya uygulama açtığınızda Evermusic'ten müzik çalmaya devam eder. Hem oyun sesi hem de müziğiniz aynı anda çalar.
-{{% /details %}}
+{{% /ls-details %}}

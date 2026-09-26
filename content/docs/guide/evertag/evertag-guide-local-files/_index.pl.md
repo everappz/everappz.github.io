@@ -18,7 +18,7 @@ Sekcja Pliki lokalne służy jako centrum zarządzania plikami znajdującymi si�
 Ten wbudowany menedżer plików pozwala edytować pliki i oferuje różne metody importowania plików audio do aplikacji. Pliki, które ostatnio otworzyłeś, automatycznie pojawiają się w zakładce **Ostatnie**, a elementy oznaczone gwiazdką trafiają do **Ulubionych** — dzięki temu możesz szybko przejść do plików, z którymi pracujesz najczęściej, bez konieczności powrotu do tego ekranu.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evertag Downloads Screen" image="/docs/guide/evertag/img/downloads.webp" >}}
+  {{< ls-card title="" subtitle="Evertag Downloads Screen" image="/docs/guide/evertag/img/downloads.webp" >}}
 {{< /cards >}}
 
 ## Pobieranie plików z chmury
@@ -74,7 +74,7 @@ Pokazuje pliki i foldery przechowywane w katalogu Dokumenty aplikacji oraz iClou
 Pokazuje pliki znajdujące się na urządzeniu, ale w innych aplikacjach. Możesz importować je do tej aplikacji za pomocą systemowego selektora plików. Aby aktywować selektor, wybierz „Otwórz pliki...", aby wybrać pliki, lub „Otwórz foldery...", aby wybrać foldery. Szczegółowe instrukcje dotyczące importowania lokalnej muzyki przechowywanej na iPhone lub Mac są dostępne [tutaj](/docs/howto/how-to-play-local-music-stored-on-your-iphone-or-mac). Możesz również połączyć folder na urządzeniu i mieć szybki dostęp do jego zawartości. Użyj elementu menu „Połącz folder" i wybierz folder na urządzeniu. Naciśnij „Zrobione" — aplikacja utworzy link do tego folderu z dostępem do odczytu/zapisu, umożliwiając zarządzanie plikami bezpośrednio z tej aplikacji. Aby rozłączyć folder na urządzeniu, naciśnij przycisk „Więcej akcji" i wybierz „Rozłącz."
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evertag Import Files From My Device" image="/docs/guide/evertag/img/open-files.webp" >}}
+  {{< ls-card title="" subtitle="Evertag Import Files From My Device" image="/docs/guide/evertag/img/open-files.webp" >}}
 {{< /cards >}}
 
 ## Importowanie plików z podłączonych pamięci USB
@@ -86,7 +86,7 @@ Szczegółowe instrukcje dotyczące podłączania pamięci USB do iPhone i zarz�
 Menu Więcej akcji dla aktualnie otwartego folderu jest umieszczone w prawym górnym rogu i zapewnia dostęp do różnych akcji.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evertag Import Files From My Device" image="/docs/guide/evertag/img/downloads-current-folder-actions.webp" >}}
+  {{< ls-card title="" subtitle="Evertag Import Files From My Device" image="/docs/guide/evertag/img/downloads-current-folder-actions.webp" >}}
 {{< /cards >}}
 
 - **Wybrać:** Przełącz do trybu wyboru plików i folderów.  

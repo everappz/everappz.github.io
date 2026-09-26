@@ -17,7 +17,7 @@ keywords: [
 readingTime: 3
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **Ringkasan:** Sambungkan iPhone atau iPad anda ke Mac (atau PC) anda dengan kabel USB. Pada macOS Catalina dan yang lebih baharu, gunakan Finder. Pada macOS lama atau Windows, gunakan iTunes. Seret fail ke dalam aplikasi seperti Evermusic, Flacbox atau Evertag untuk memindahkannya dengan serta-merta.
@@ -117,26 +117,26 @@ Dengan Perkongsian Fail iTunes, anda boleh mengurus fail antara komputer dan apl
 
 ## Soalan Lazim
 
-{{% details title="Adakah saya memerlukan sambungan internet untuk memindahkan fail melalui USB?" closed="true" %}}
+{{% ls-details title="Adakah saya memerlukan sambungan internet untuk memindahkan fail melalui USB?" closed="true" %}}
 Tidak. Perkongsian Fail berfungsi sepenuhnya melalui sambungan kabel USB antara komputer dan peranti iOS anda. Internet tidak diperlukan.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Format fail apa yang boleh saya pindahkan ke Evermusic atau Flacbox?" closed="true" %}}
+{{% ls-details title="Format fail apa yang boleh saya pindahkan ke Evermusic atau Flacbox?" closed="true" %}}
 Kedua-dua aplikasi menyokong pelbagai format audio termasuk MP3, FLAC, AAC, WAV, AIFF, OGG, WMA dan banyak lagi. Semak dokumentasi aplikasi untuk senarai penuh format yang disokong.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Mengapa saya tidak melihat tab Fail dalam Finder?" closed="true" %}}
+{{% ls-details title="Mengapa saya tidak melihat tab Fail dalam Finder?" closed="true" %}}
 Tab Fail hanya muncul apabila peranti anda mempunyai sekurang-kurangnya satu aplikasi yang dipasang yang menyokong Perkongsian Fail. Pasang Evermusic, Flacbox atau Evertag, kemudian sambungkan semula peranti anda.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Bolehkah saya memindahkan fail secara wayarles dan bukannya menggunakan kabel USB?" closed="true" %}}
+{{% ls-details title="Bolehkah saya memindahkan fail secara wayarles dan bukannya menggunakan kabel USB?" closed="true" %}}
 Ya. Evermusic dan Flacbox juga menyokong perkhidmatan storan awan dan pemindahan Wi-Fi. Walau bagaimanapun, perkongsian fail USB melalui Finder atau iTunes biasanya lebih cepat untuk perpustakaan muzik yang besar.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Adakah memindahkan fail melalui Finder akan menimpa fail sedia ada pada peranti saya?" closed="true" %}}
+{{% ls-details title="Adakah memindahkan fail melalui Finder akan menimpa fail sedia ada pada peranti saya?" closed="true" %}}
 Tidak. Fail baharu ditambah bersama fail sedia ada. Jika fail dengan nama yang sama sudah wujud, macOS mungkin menamakan semula fail baharu secara automatik.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Adakah kaedah ini berfungsi dengan PC Windows?" closed="true" %}}
+{{% ls-details title="Adakah kaedah ini berfungsi dengan PC Windows?" closed="true" %}}
 Ya. Pada Windows, gunakan iTunes untuk memindahkan fail. Prosesnya sama seperti yang diterangkan dalam bahagian iTunes di atas. Pasang iTunes dari Microsoft Store atau laman web Apple.
-{{% /details %}}
+{{% /ls-details %}}

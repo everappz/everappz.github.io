@@ -12,7 +12,7 @@ authors:
     image: "/images/about/artem-meleshko-founder-everappz.webp"
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 **Flacbox 1.6**, iPhone ve iPad için FLAC müzik çalara önemli yeni özellikler getiriyor.
 
@@ -68,18 +68,18 @@ Geri bildiriminiz veya özellik istekleriniz mi var? Bize ulaşın -- Flacbox'ı
 
 ## Sık Sorulan Sorular
 
-{{% details title="Flacbox hangi ses formatlarını destekliyor?" closed="true" %}}
+{{% ls-details title="Flacbox hangi ses formatlarını destekliyor?" closed="true" %}}
 Flacbox FLAC, ALAC, MP3, AAC, OGG, OPUS, WAV, AIFF, DSD ve diğer popüler ses formatlarını destekler. Tüm formatlar yerleşik ekolayzır ile çalışır.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="iPhone'umda SD karttan müzik çalabilir miyim?" closed="true" %}}
+{{% ls-details title="iPhone'umda SD karttan müzik çalabilir miyim?" closed="true" %}}
 Evet. Lightning to SD Card Camera Reader Adapter kullanarak bir SD veya microSD kart bağlayın. Flacbox kartı otomatik olarak algılar ve doğrudan harici depolamadan dosyaları göz atmanıza ve çalmanıza olanak tanır.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Flacbox bulut depolama ile otomatik senkronize oluyor mu?" closed="true" %}}
+{{% ls-details title="Flacbox bulut depolama ile otomatik senkronize oluyor mu?" closed="true" %}}
 Evet. Sürüm 1.6'dan itibaren Flacbox müzik kütüphanenizi bulut klasörlerinden otomatik olarak senkronize edebilir. Ayarlarda Otomatik Senkronizasyonu etkinleştirin ve izlemek istediğiniz klasörleri seçin.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Flacbox ekolayzırı özelleştirilebilir mi?" closed="true" %}}
+{{% ls-details title="Flacbox ekolayzırı özelleştirilebilir mi?" closed="true" %}}
 Evet. 10 bantlı ekolayzır, -12 dB ile +12 dB arasında bireysel frekans seviyelerini ayarlamanıza olanak tanır. Yerleşik ön ayarları kullanabilir veya kendi özel ayarlarınızı kaydedebilirsiniz.
-{{% /details %}}
+{{% /ls-details %}}

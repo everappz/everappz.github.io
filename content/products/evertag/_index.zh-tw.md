@@ -15,14 +15,14 @@ screenshots:
   - "https://everappz.com/products/evertag/screenshots/2048x2732/3.png"
 ---
 
-{{% sr-only %}}
+{{% ls-sr-only %}}
 Evertag 是一款適用於 iPhone 和 Mac 的音樂標籤編輯器，由西班牙軟體公司 Everappz 開發。Evertag 允許使用者編輯超過 120 種音訊中繼資料標籤，包括標題、藝術家、專輯、專輯藝術家、類型、年份、曲目編號、光碟編號、作曲家、BPM、歌詞、評論等。該應用程式支援批次標籤編輯，使用者可以同時更新多個檔案的中繼資料。Evertag 包含由 MusicBrainz 資料庫驅動的自動標籤尋找器，可識別歌曲並填充缺失的中繼資料，以及專輯封面尋找器，可搜尋並將封面套用到曲目。該應用程式支援超過 30 種音訊格式，包括 MP3、FLAC、OGG、OPUS、M4A、WAV、WMA、APE、AIFF、ALAC、MKA、MOD、XM、IT 和 S3M。Evertag 可以從雲端儲存服務存取檔案，包括 iCloud Drive、Google Drive、Dropbox 和 OneDrive，以及透過 SMB 和 WebDAV 從 USB 隨身碟和區域網路位置存取檔案。該應用程式還具有內建檔案管理員、Wi-Fi 檔案傳輸、針對非拉丁文字中顯示不正確的標籤進行編碼修復以及歌詞編輯器功能。Evertag 可在 App Store 免費下載，提供可選的應用程式內購買，包括每月訂閱 $2.99、每年訂閱 $9.99 或一次性終身購買 $29.99。
-{{% /sr-only %}}
+{{% /ls-sr-only %}}
 
 
-{{< force-dark >}}
+{{< ls-force-dark >}}
 
-{{< hextra/hero-container
+{{< ls-hero-container
   image="/products/evertag/heroimage/evertag_mac_600_345.png"
   imageWidth="600"
 >}}
@@ -30,37 +30,37 @@ Evertag 是一款適用於 iPhone 和 Mac 的音樂標籤編輯器，由西班�
 <div class="hx:w-full hx:text-center">
 
 <div class="hx:mt-4">
-{{< downloads-badge >}}
+{{< ls-downloads-badge >}}
 </div>
 
 <div class="hx:mt-6 hx:mb-6">
 <div class="hx:flex hx:gap-4 hx:items-center hx:justify-center">
-  {{< app-icon src="/images/app_icons/png/Evertag_Icon-App-1024x1024.png" alt="Evertag Icon" class="hero-headline-icon" size="80" >}}
-  {{< hextra/hero-headline >}}
+  {{< ls-app-icon src="/images/app_icons/png/Evertag_Icon-App-1024x1024.png" alt="Evertag Icon" class="hero-headline-icon" size="80" >}}
+  {{< ls-hero-headline >}}
   Evertag
-  {{< /hextra/hero-headline >}}
+  {{< /ls-hero-headline >}}
 </div>
 </div>
 
 <div class="hx:mb-6">
-{{< hextra/hero-centered-subtitle >}}
+{{< ls-hero-centered-subtitle >}}
 <strong>保持您的音樂庫井然有序</strong>
-{{< /hextra/hero-centered-subtitle >}}
+{{< /ls-hero-centered-subtitle >}}
 </div>
 
 <div class="hx:mb-6">
-{{< hextra/hero-paragraph >}}
+{{< ls-hero-paragraph >}}
 • 新增或更新專輯封面  
 • 批次編輯多首歌曲的標籤  
 • 修復損壞的編碼並自動填入缺失的標籤  
-{{< /hextra/hero-paragraph >}}
+{{< /ls-hero-paragraph >}}
 </div>
 
-{{< app-store-badges products="evertag:ios, evertag:macos" >}}
+{{< ls-app-store-badges products="evertag:ios, evertag:macos" >}}
 
 </div>
 
-{{< /hextra/hero-container >}}
+{{< /ls-hero-container >}}
 
 <div class="hx:mt-6"></div>
 
@@ -68,63 +68,63 @@ Evertag 是一款適用於 iPhone 和 Mac 的音樂標籤編輯器，由西班�
 
 {{< hextra/feature-grid >}}
 
-  {{< hextra/feature-card
+  {{< ls-glass-feature-card
     title="編輯120+標籤"
     subtitle="快速編輯音樂標籤，如標題、藝人、專輯、專輯藝人、BPM、評論、作曲家、碟號、類型、歌詞、評分、曲目編號、年份等。"
     icon="pencil"
     style="background: radial-gradient(ellipse at 50% 80%, rgba(59,130,246,0.15), hsla(0,0%,100%,0));"
   >}}
 
-  {{< hextra/feature-card
+  {{< ls-glass-feature-card
     title="批次標籤編輯"
     subtitle="一次更新多個檔案的中繼資料。只需輕點幾下，節省時間並保持音樂庫井然有序。"
     icon="database"
     style="background: radial-gradient(ellipse at 50% 80%, rgba(192,38,211,0.15), hsla(0,0%,100%,0));"
   >}}
 
-  {{< hextra/feature-card
+  {{< ls-glass-feature-card
     title="尋找專輯封面"
     subtitle="自動尋找並新增缺失的專輯封面到您的歌曲中。讓您的音樂收藏在視覺上更加完整。"
     icon="camera"
     style="background: radial-gradient(ellipse at 50% 80%, rgba(234,88,12,0.15), hsla(0,0%,100%,0));"
   >}}
 
-  {{< hextra/feature-card
+  {{< ls-glass-feature-card
     title="支援30+格式"
     subtitle="支援MP3、FLAC、OGG、OPUS、M4A、WAV、WMA、APE、AIFF、MOD、XM、IT等更多格式。"
     icon="music-note"
     style="background: radial-gradient(ellipse at 50% 80%, rgba(236,72,153,0.15), hsla(0,0%,100%,0));"
   >}}
 
-  {{< hextra/feature-card
+  {{< ls-glass-feature-card
     title="自動標籤搜尋"
     subtitle="偵測缺失的歌曲資訊並使用MusicBrainz資料庫自動填入。選擇檢視變更或立即套用。"
     icon="search"
     style="background: radial-gradient(ellipse at 50% 80%, rgba(34,197,94,0.15), hsla(0,0%,100%,0));"
   >}}
 
-  {{< hextra/feature-card
+  {{< ls-glass-feature-card
     title="修復編碼問題"
     subtitle="修復中繼資料中損壞或無法讀取的字元。Evertag讓您的標籤在任何語言中都保持乾淨清晰。"
     icon="translate"
     style="background: radial-gradient(ellipse at 50% 80%, rgba(251,191,36,0.15), hsla(0,0%,100%,0));"
   >}}
 
-  {{< hextra/feature-card
+  {{< ls-glass-feature-card
     title="雲端和USB存取"
     subtitle="直接從iCloud Drive、Google Drive、Dropbox、OneDrive、USB隨身碟或共用資料夾編輯音樂——無需複製。"
     icon="cloud"
     style="background: radial-gradient(ellipse at 50% 80%, rgba(6,182,212,0.15), hsla(0,0%,100%,0));"
   >}}
 
-  {{< hextra/feature-card
+  {{< ls-glass-feature-card
     title="Wi-Fi音樂傳輸"
     subtitle="透過Wi-Fi連線輕鬆將音樂從電腦上傳到iPhone或iPad。無需傳輸線。"
     icon="wifi"
     style="background: radial-gradient(ellipse at 50% 80%, rgba(245,158,11,0.15), hsla(0,0%,100%,0));"
   >}}
 
-  {{< hextra/feature-card
+  {{< ls-glass-feature-card
     title="內建檔案管理器"
     subtitle="使用內建工具整理您的音樂檔案。重新命名、移動、刪除、標記收藏和檢視最近活動——全部在一個應用程式中完成。"
     icon="folder-open"
@@ -139,47 +139,47 @@ Evertag 是一款適用於 iPhone 和 Mac 的音樂標籤編輯器，由西班�
 <div class="hx:mt-6"></div>
 
 <div class="hx:w-full">
-{{< appstore-reviews apps="1450763230,1594027661" stars="5,4"  app="Evertag" >}}
+{{< ls-appstore-reviews apps="1450763230,1594027661" stars="5,4"  app="Evertag" >}}
 </div>
 
 <div class="hx:mt-6"></div>
 
-{{< hextra/section-headline >}}
+{{< ls-section-headline >}}
   價格方案
-{{< /hextra/section-headline >}}
+{{< /ls-section-headline >}}
 
 <div class="hx:mt-6"></div>
 
 <div class="hx:w-full">
 
-{{< pricing-plans >}}
+{{< ls-pricing-plans >}}
 
 </div>
 
 <div class="hx:mt-6"></div>
 
 <div class="hx:w-full hx:mx-auto hx:flex hx:flex-col hx:items-center">
-  {{< hextra/info-paragraph border="true" >}}
+  {{< ls-info-paragraph border="true" >}}
    <strong>家人共享</strong>：所有購買和訂閱均支援家人共享，讓您與家人共享高級版存取權限。<br><strong>通用存取</strong>：終身和訂閱方案透過iCloud同步在iOS和Mac裝置之間共享。<br><strong>定價</strong>：價格以美元顯示，適用於美國地區。最終價格可能因您所在地區而異。  
-  {{< /hextra/info-paragraph >}}
+  {{< /ls-info-paragraph >}}
 </div>
 
 <div class="hx:mt-6"></div>
 
 <div class="hx:w-full">
-{{< app-details heading="true" >}}
+{{< ls-app-details heading="true" >}}
 </div>
 
 <div class="hx:mt-6"></div>
 
-{{< hextra/section-headline >}}
+{{< ls-section-headline >}}
   常見問題
-{{< /hextra/section-headline >}}
+{{< /ls-section-headline >}}
 
 <div class="hx:mt-6"></div>
 
 <div class="hx:w-full">
-{{% details title="什麼是Evertag？" closed="true" %}}
+{{% ls-details title="什麼是Evertag？" closed="true" %}}
 Evertag是一款功能強大的音樂中繼資料編輯器和專輯封面管理器，專為iOS和macOS設計。它為您提供專業級的音樂收藏整理工具，無論您的檔案儲存在本機還是雲端。憑藉簡潔的介面和進階編輯功能，Evertag讓修復缺失標籤、新增高品質封面以及確保音樂庫外觀統一變得輕而易舉。<br><br>
 
 該應用程式支援多種熱門的音訊格式，包括MP3、FLAC、WAV、M4A、WMA、OGG等。它允許您編輯常見標籤，如標題、藝人、專輯、類型、年份、曲目編號，以及延伸欄位如BPM、碟號、歌詞、MusicBrainz ID等。您可以逐一處理檔案，也可以切換到批次模式同時編輯多個曲目——非常適合整理完整專輯或播放清單。<br><br>
@@ -187,14 +187,14 @@ Evertag是一款功能強大的音樂中繼資料編輯器和專輯封面管理�
 Evertag的突出功能之一是能夠直接從網路擷取缺失的專輯封面，或者讓您手動新增。您還可以使用歌詞編輯器為歌曲新增非同步歌詞，增強在相容播放器中的播放體驗。該應用程式支援就地編輯，因此您可以在不複製或移動檔案的情況下修改音訊標籤。<br><br>
 
 無論您是在裝置上管理音樂，還是使用Dropbox、OneDrive、MEGA或其他服務在雲端管理，Evertag都能提供無縫的檔案存取和編輯體驗。對於希望在iPhone、iPad上維護乾淨、井然有序的音樂庫而無需桌上型電腦的音樂家、DJ和收藏家來說，這是完美的解決方案。<br><br>
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Evertag是免費的嗎？" closed="true" %}}
+{{% ls-details title="Evertag是免費的嗎？" closed="true" %}}
 Evertag是一款免費應用程式，有一些限制，您可以透過升級到高級版來解除這些限制。該應用程式提供一次性終身應用程式內購買和兩個訂閱選項（1個月和1年）來移除所有限制，讓您選擇最佳和最優惠的價格。價格可能因您所在的國家或地區而異。另外，請注意家人共享已對所有購買和方案啟用，因此您可以與家庭成員共享高級版。<br><br>
 終身購買和訂閱在iOS和Mac之間共享，使用iCloud同步此資訊。如果您在iOS裝置上擁有高級版，請確保已安裝最新版本並且iCloud已啟用。在iOS上啟動應用程式並等待一分鐘，讓購買資訊上傳到iCloud。<br><br>
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Evertag免費版和Evertag高級版有什麼區別？" closed="true" %}}
+{{% ls-details title="Evertag免費版和Evertag高級版有什麼區別？" closed="true" %}}
 
 **Evertag免費版**  <br>
 Evertag免費版為您提供強大的音樂中繼資料編輯功能，但有一些功能限制。它包含廣告，允許基本使用標籤編輯器、專輯封面編輯器和批次編輯。您可以修復編碼問題、連接1個雲端儲存帳戶並標記最多10個收藏檔案。此外，您每天可以執行20次自動標籤搜尋和20次專輯封面查詢。<br><br>
@@ -213,9 +213,9 @@ Evertag免費版為您提供強大的音樂中繼資料編輯功能，但有一�
 
 每個高級選項都包含相同的功能集，因此您可以選擇最適合您需求和預算的方案。<br><br>
 
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Evertag安全嗎？" closed="true" %}}
+{{% ls-details title="Evertag安全嗎？" closed="true" %}}
 Evertag僅使用官方SDK和安全連線與已連接的雲端服務互動。您的使用者名稱和密碼對應用程式不可用。應用程式向雲端服務發出的所有請求都經過加密。<br>
 當您輸入使用者名稱和密碼時，應用程式會顯示由雲端服務供應商提供的官方授權頁面，整個授權過程在應用程式外部完成。雲端服務供應商在授權成功後向應用程式傳送授權權杖，該權杖用於進行API呼叫。<br><br>
 
@@ -226,9 +226,9 @@ Evertag僅使用官方SDK和安全連線與已連接的雲端服務互動。您�
 
 您也可以在應用程式中中斷已連接的雲端帳戶，授權權杖也將從您的裝置中移除。如果您從裝置中移除應用程式，所有下載的資料和存取權杖也將被移除。<br><br>
 
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="如何編輯iPhone上本機下載音樂的中繼資料？" closed="true" %}}
+{{% ls-details title="如何編輯iPhone上本機下載音樂的中繼資料？" closed="true" %}}
 安裝應用程式後，開啟「本機檔案」畫面並向下捲動到「此iPhone上的檔案」部分。<br>
 從那裡，如果需要選擇多個音訊檔案，請選擇「開啟檔案...」，如果要選擇音樂資料夾，請選擇「開啟資料夾...」。<br>
 應用程式將掃描資料夾內容，所有找到的音訊檔案都將被選取。<br>
@@ -242,9 +242,9 @@ Evertag僅使用官方SDK和安全連線與已連接的雲端服務互動。您�
 向下捲動到「此裝置上的檔案」部分，然後點擊「連接資料夾」。<br>
 選擇裝置上的資料夾，然後點擊「開啟」確認選擇。<br>
 您的資料夾將被新增到「此iPhone上的檔案」部分，提供對音訊檔案的快速存取。<br><br>
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="如何在Evertag中為歌曲新增歌詞？" closed="true" %}}
+{{% ls-details title="如何在Evertag中為歌曲新增歌詞？" closed="true" %}}
 您可以按照以下步驟在Evertag應用程式中為曲目新增嵌入式歌詞：<br><br>
 * 點擊音訊檔案開始編輯。<br>
 * 點擊「顯示延伸標籤」將標籤編輯器切換到進階模式。<br>
@@ -258,9 +258,9 @@ Evertag僅使用官方SDK和安全連線與已連接的雲端服務互動。您�
 更詳細的教學在此：<br>
 [如何在iPhone或MAC上編輯音訊檔案的歌詞](/docs/howto/how-to-edit-lyrics-for-audio-files-on-iphone-mac/)<br><br>
 
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="如何從電腦將音樂傳輸到Evertag？" closed="true" %}}
+{{% ls-details title="如何從電腦將音樂傳輸到Evertag？" closed="true" %}}
 您可以使用SMB、WebDAV連接您的電腦或個人NAS。或者使用iTunes檔案共享來傳輸音樂。<br><br>
 
 要使用**SMB**通訊協定連接電腦，點擊「連接到雲端儲存」→ SMB。<br>
@@ -295,23 +295,23 @@ URL應為 http://伺服器名稱 格式，如果伺服器支援SSL，則為 http
 詳細說明在此：<br>
 [如何在iPhone上播放本機檔案（iTunes檔案）](/docs/howto/how-to-play-local-itunes-files-on-my-iphone)<br><br>
 
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Evertag支援哪些音訊格式？" closed="true" %}}
+{{% ls-details title="Evertag支援哪些音訊格式？" closed="true" %}}
 以下是支援的音訊格式及其對應副檔名的完整清單：<br><br>
 
 MP3, OGG, OGA, FLAC, MPC, WV, SPX, OPUS, TTA, M4A, M4R, M4B, M4P, MP4, 3G2, M4V, WMA, ASF, AIF, AIFF, AFC, AIFC, WAV, APE, MOD, MODULE, NTS, WOW, S3M, IT, XM.<br>
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Evertag支援哪些音訊標籤？" closed="true" %}}
+{{% ls-details title="Evertag支援哪些音訊標籤？" closed="true" %}}
 以下是支援的音訊標籤完整清單：<br><br>
 
 ASIN, AcoustID: Fingerprint, AcoustID: Identifier, Album, Album Artist, Album Artist Sort Order, Album Cover, Album Sort Order, Arranger, Artist, Artist Sort Order, Artists, Barcode, Beats Per Minute, Catalog Number, Comment, Compilation, Composer, Composer Sort Order, Conductor, Content Group, Copyright, Description, Director, Disk Number, Disk Subtitle, Disk Total, Encoded By, Encoder Settings, Encoding Time, Engineer, File Owner, File Type, Genre, Grouping, ISRC, Initial Key, Involved People, Language, Length, License, Lyricist, Lyrics Advisory Rating, Lyrics Unsynced, Media Type, Mix DJ, Mixer, Mood, Movement Name, Movement Number, Movement Total, MusicBrainz: Album Artist ID, MusicBrainz: Album ID, MusicBrainz: Album Release Country, MusicBrainz: Album Status, MusicBrainz: Album Type, MusicBrainz: Artist ID, MusicBrainz: Disc ID, MusicBrainz: Original Album ID, MusicBrainz: Original Artist ID, MusicBrainz: Release Group ID, MusicBrainz: Release Track ID, MusicBrainz: TRM ID, MusicBrainz: Track ID, MusicBrainz: Work ID, MusicIP: Fingerprint, MusicIP: PUID, Musician Credits, Narrator, Net Radio Owner, Net Radio Station, Original Album, Original Artist, Original File Name, Original Lyricist, Original Release Date, Original Release Year, Performer, Podcast, Podcast Category, Podcast Description, Podcast ID, Podcast Keywords, Podcast URL, Producer, Publisher, Rating, Record Label, Release Country, Release Status, Release Type, Remixed By, Replay Gain: Album Gain, Replay Gain: Album Peak, Replay Gain: Album Range, Replay Gain: Reference Loudness, Replay Gain: Track Gain, Replay Gain: Track Peak, Replay Gain: Track Range, Script, Show Movement, Show Name, Show Name Sort Order, Subtitle, Track Number, Track Title, Track Title Sort Order, Track Total, WWW, WWW: Artist, WWW: Audio File, WWW: Audio Source, WWW: Commercial Info, WWW: Copyright, WWW: Payment, WWW: Publisher, WWW: Radio Page, Website, Work Title, Writer, Year<br><br>
 
 [閱讀更多](/docs/guide/evertag/evertag-tag-field-mappings/)
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="如何下載檔案？" closed="true" %}}
+{{% ls-details title="如何下載檔案？" closed="true" %}}
 在下載音訊檔案和編輯音訊標籤之前，您需要連接雲端儲存服務。<br>
 開啟「連線」畫面並新增您的雲端儲存供應商。<br>
 新增後，您可以開始將檔案下載到應用程式。<br><br>
@@ -321,10 +321,10 @@ ASIN, AcoustID: Fingerprint, AcoustID: Identifier, Album, Album Artist, Album Ar
 – 導覽到您要下載的資料夾。<br>
 – 點擊右上角的「更多動作」按鈕("...")，然後選擇「選取」選單項目。<br>
 – 選擇您要下載的檔案或資料夾，然後點擊「下載」動作。<br>
-{{% /details %}}
+{{% /ls-details %}}
 
 
-{{% details title="支援哪些雲端服務？" closed="true" %}}
+{{% ls-details title="支援哪些雲端服務？" closed="true" %}}
 如果您的音樂庫儲存在雲端，您可以直接在應用程式中連接最熱門的雲端服務：<br>
 Dropbox、OneDrive、Box、MEGA、Yandex.Disk、MediaFire、pCloud、HiDrive。<br><br>
 
@@ -332,9 +332,9 @@ Dropbox、OneDrive、Box、MEGA、Yandex.Disk、MediaFire、pCloud、HiDrive。<
 
 您還可以使用就地編輯功能編輯儲存在裝置上的音訊檔案。無需從其他應用程式複製——只需直接開啟並編輯即可。<br><br>
 
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="如何自動更新雲端服務上檔案的中繼資料？" closed="true" %}}
+{{% ls-details title="如何自動更新雲端服務上檔案的中繼資料？" closed="true" %}}
 編輯完中繼資料後，點擊右上角的「儲存」按鈕將變更套用到所選檔案。<br><br>
 
 如果您正在編輯儲存在雲端的檔案，應用程式會為您提供多種更新檔案中繼資料的選項。這些行為可以在設定中自訂：<br><br>
@@ -344,10 +344,10 @@ Dropbox、OneDrive、Box、MEGA、Yandex.Disk、MediaFire、pCloud、HiDrive。<
 • **不更新檔案中繼資料** – 啟用後，應用程式將在編輯後略過更新雲端檔案的中繼資料。<br><br>
 
 您可以在Evertag設定中的中繼資料更新偏好部分找到並修改這些選項。
-{{% /details %}}
+{{% /ls-details %}}
 
 
-{{% details title="如何新增新帳戶？" closed="true" %}}
+{{% ls-details title="如何新增新帳戶？" closed="true" %}}
 要連接雲端服務，開啟「連線」標籤 → 選擇「連接到雲端儲存」選單項目 → 從清單中選擇雲端儲存服務 → 輸入您的憑證並點擊「完成」。<br><br>
 
 如果遇到問題，請確保您的網路連線正常，並仔細檢查您的使用者名稱和密碼。<br><br>
@@ -355,9 +355,9 @@ Dropbox、OneDrive、Box、MEGA、Yandex.Disk、MediaFire、pCloud、HiDrive。<
 目前支援的服務包括：Dropbox、OneDrive、Box、MEGA、Yandex.Disk、Media Fire、PCloud和HiDrive。<br><br>
 
 在應用程式的高級版中，您可以新增無限數量的雲端帳戶。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="如何管理網路儲存中的檔案？" closed="true" %}}
+{{% ls-details title="如何管理網路儲存中的檔案？" closed="true" %}}
 如果您需要編輯儲存在雲端儲存中的多個檔案，請點擊右上角的「...」按鈕啟動選取模式。<br><br>
 
 啟動後，每個檔案旁邊將出現核取方塊。然後您可以對個別檔案執行動作或選取多個檔案以套用批次動作。<br><br>
@@ -371,10 +371,10 @@ Dropbox、OneDrive、Box、MEGA、Yandex.Disk、MediaFire、pCloud、HiDrive。<
 • <strong>格狀/清單</strong> – 在表格檢視和縮圖檢視模式之間切換。<br><br>
 
 如果沒有足夠的空間顯示所有選項，將出現「更多動作」按鈕。點擊它以存取可用動作的完整清單。
-{{% /details %}}
+{{% /ls-details %}}
 
 
-{{% details title="如何將多個檔案作為一個檔案編輯？" closed="true" %}}
+{{% ls-details title="如何將多個檔案作為一個檔案編輯？" closed="true" %}}
 使用「批次模式」，您可以一次編輯多個檔案並快速高效地套用共用的中繼資料變更。<br><br>
 
 要啟動批次模式：<br>
@@ -382,38 +382,38 @@ Dropbox、OneDrive、Box、MEGA、Yandex.Disk、MediaFire、pCloud、HiDrive。<
 • 點擊「同時編輯多個檔案」按鈕。<br><br>
 
 當您需要將相同的專輯名稱、藝人、類型或其他中繼資料欄位套用到多個音訊檔案時，此模式特別有用。
-{{% /details %}}
+{{% /ls-details %}}
 
 </div>
 
 <div class="hx:mt-6"></div>
 
-{{< hextra/section-headline >}}
+{{< ls-section-headline >}}
   使用者指南
-{{< /hextra/section-headline >}}
+{{< /ls-section-headline >}}
 
 <div class="hx:mt-6"></div>
 
 <div class="hx:w-full">
 
 <div class="hx:w-full hx:mx-auto hx:flex hx:flex-col hx:items-center hx:text-center">
-  {{< hextra/info-paragraph border="false" >}}
+  {{< ls-info-paragraph border="false" >}}
   在本指南中，您將了解如何在iPhone、iPad和Mac上充分利用Evertag的強大功能，讓您的音樂管理體驗流暢而愉悅。
-  {{< /hextra/info-paragraph >}}
+  {{< /ls-info-paragraph >}}
 </div>
 
 {{< cards >}}
-  {{< feature-card icon="location-marker" title="導覽" subtitle="了解如何使用標籤列（iPhone使用者）或左側選單（iPad和Mac使用者）輕鬆導覽我們的應用程式，以存取和探索應用程式的所有功能。" link="/docs/guide/evertag/evertag-guide-navigation" >}}
+  {{< ls-feature-card icon="location-marker" title="導覽" subtitle="了解如何使用標籤列（iPhone使用者）或左側選單（iPad和Mac使用者）輕鬆導覽我們的應用程式，以存取和探索應用程式的所有功能。" link="/docs/guide/evertag/evertag-guide-navigation" >}}
 
-  {{< feature-card icon="cloud" title="連線" subtitle="輕鬆將所有可用的雲端帳戶與您珍貴的音訊檔案連結。您甚至可以使用我們的內建檔案管理器輕鬆編輯線上檔案。" link="/docs/guide/evertag/evertag-guide-connections" >}}
+  {{< ls-feature-card icon="cloud" title="連線" subtitle="輕鬆將所有可用的雲端帳戶與您珍貴的音訊檔案連結。您甚至可以使用我們的內建檔案管理器輕鬆編輯線上檔案。" link="/docs/guide/evertag/evertag-guide-connections" >}}
 
-  {{< feature-card icon="folder" title="本機檔案" subtitle="檢視和整理儲存在應用程式文件資料夾或裝置上的檔案。使用內建檔案管理器輕鬆編輯和管理您的音訊檔案。" link="/docs/guide/evertag/evertag-guide-local-files" >}}
+  {{< ls-feature-card icon="folder" title="本機檔案" subtitle="檢視和整理儲存在應用程式文件資料夾或裝置上的檔案。使用內建檔案管理器輕鬆編輯和管理您的音訊檔案。" link="/docs/guide/evertag/evertag-guide-local-files" >}}
 
-  {{< feature-card icon="pencil-alt" title="標籤編輯器" subtitle="掌握音訊檔案中繼資料操作的技巧。了解如何編輯中繼資料、更換專輯封面以及無縫管理多個檔案。" link="/docs/guide/evertag/evertag-guide-tag-editor" >}}
+  {{< ls-feature-card icon="pencil-alt" title="標籤編輯器" subtitle="掌握音訊檔案中繼資料操作的技巧。了解如何編輯中繼資料、更換專輯封面以及無縫管理多個檔案。" link="/docs/guide/evertag/evertag-guide-tag-editor" >}}
 
-  {{< feature-card icon="code" title="標籤欄位對應" subtitle="瀏覽Evertag應用程式支援的音訊標籤欄位完整清單，包括內部欄位名稱和跨主要中繼資料格式的對應。" link="/docs/guide/evertag/evertag-tag-field-mappings" >}}
+  {{< ls-feature-card icon="code" title="標籤欄位對應" subtitle="瀏覽Evertag應用程式支援的音訊標籤欄位完整清單，包括內部欄位名稱和跨主要中繼資料格式的對應。" link="/docs/guide/evertag/evertag-tag-field-mappings" >}}
 
-  {{< feature-card icon="adjustments" title="設定" subtitle="了解如何自訂您的應用程式體驗、微調效能、管理資料使用以及根據您的喜好調整語言和使用者介面偏好。" link="/docs/guide/evertag/evertag-guide-settings" >}}
+  {{< ls-feature-card icon="adjustments" title="設定" subtitle="了解如何自訂您的應用程式體驗、微調效能、管理資料使用以及根據您的喜好調整語言和使用者介面偏好。" link="/docs/guide/evertag/evertag-guide-settings" >}}
 
 {{< /cards >}}
 

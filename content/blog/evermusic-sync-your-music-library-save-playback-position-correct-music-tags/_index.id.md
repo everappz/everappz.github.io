@@ -12,7 +12,7 @@ authors:
     image: "/images/about/artem-meleshko-founder-everappz.webp"
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 ![](/blog/evermusic-sync-your-music-library-save-playback-position-correct-music-tags/21260c_641f376e779e47d4927b43c210d3c87f~mv2.jpeg)
 
@@ -67,22 +67,22 @@ Evermusic mendeteksi dan memperbaiki tag ID3 yang tidak valid atau tidak lengkap
 
 ## Pertanyaan yang Sering Diajukan
 
-{{% details title="Apakah sinkronisasi otomatis Evermusic bekerja dengan semua layanan cloud?" closed="true" %}}
+{{% ls-details title="Apakah sinkronisasi otomatis Evermusic bekerja dengan semua layanan cloud?" closed="true" %}}
 Ya. Sinkronisasi otomatis bekerja dengan Dropbox, Google Drive, OneDrive, MEGA, WebDAV, dan SMB. Pilih folder yang ingin dipantau dan Evermusic menjaga perpustakaan Anda tetap terkini.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Bisakah Evermusic menyimpan posisi buku audio saya?" closed="true" %}}
+{{% ls-details title="Bisakah Evermusic menyimpan posisi buku audio saya?" closed="true" %}}
 Ya. Aktifkan penyimpanan posisi pemutaran di pengaturan audio. Evermusic mengingat di mana Anda berhenti untuk setiap file, sehingga Anda bisa melanjutkan tanpa penanda manual.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Bagaimana cara kerja pembacaan metadata di latar belakang?" closed="true" %}}
+{{% ls-details title="Bagaimana cara kerja pembacaan metadata di latar belakang?" closed="true" %}}
 Evermusic membaca tag ID3 dan metadata file di latar belakang saat Anda menggunakan fitur lain. Secara otomatis mengorganisir perpustakaan Anda berdasarkan Artis, Album, dan Genre.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Apakah Evermusic akan memperbaiki tag musik saya yang rusak?" closed="true" %}}
+{{% ls-details title="Apakah Evermusic akan memperbaiki tag musik saya yang rusak?" closed="true" %}}
 Ya. Fitur koreksi tag otomatis memeriksa file Anda terhadap database online dan memperbaiki metadata ID3 yang tidak valid, tidak lengkap, atau hilang.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Apakah Evermusic gratis untuk diunduh?" closed="true" %}}
+{{% ls-details title="Apakah Evermusic gratis untuk diunduh?" closed="true" %}}
 Evermusic gratis untuk diunduh dengan fitur premium opsional yang tersedia melalui pembelian dalam aplikasi.
-{{% /details %}}
+{{% /ls-details %}}

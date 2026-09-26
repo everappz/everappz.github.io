@@ -9,7 +9,7 @@ aliases:
   - /post/how-to-disconnect-third-party-app-from-your-google-account/
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **TL;DR:** Go to [myaccount.google.com](https://myaccount.google.com/) > Security > Third-party apps & services. Click the app you want to remove, then select "Remove Access" or "Delete all connections." Repeat for each app.
@@ -77,18 +77,18 @@ Remember that while third-party apps can enhance your digital experience, it's c
 
 ## FAQ
 
-{{% details title="Will disconnecting an app delete my data from that app?" closed="true" %}}
+{{% ls-details title="Will disconnecting an app delete my data from that app?" closed="true" %}}
 No. Removing access only stops the app from accessing your Google account going forward. Data already shared with the app may still exist on their servers. Check the app's own privacy settings to delete that data.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Can I reconnect an app after disconnecting it?" closed="true" %}}
+{{% ls-details title="Can I reconnect an app after disconnecting it?" closed="true" %}}
 Yes. If you need the app again, simply sign in with Google when prompted. The app will request permissions again, and you can review them before granting access.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="How often should I review third-party app access?" closed="true" %}}
+{{% ls-details title="How often should I review third-party app access?" closed="true" %}}
 Review your connected apps every 3-6 months, or immediately after you stop using a service. Regular audits help keep your account secure.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Does this affect apps like Evermusic that connect to Google Drive?" closed="true" %}}
+{{% ls-details title="Does this affect apps like Evermusic that connect to Google Drive?" closed="true" %}}
 Yes. If you disconnect an app like Evermusic or Flacbox from your Google account, it will lose access to your Google Drive files. You can reconnect at any time from within the app.
-{{% /details %}}
+{{% /ls-details %}}

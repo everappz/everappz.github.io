@@ -12,7 +12,7 @@ authors:
     image: "/images/about/artem-meleshko-founder-everappz.webp"
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 ## Evermusic 3.1：有何变化及其重要性
 
@@ -89,22 +89,22 @@ authors:
 
 ## 常见问题
 
-{{% details title="Evermusic 中的交叉淡入淡出播放是什么？" closed="true" %}}
+{{% ls-details title="Evermusic 中的交叉淡入淡出播放是什么？" closed="true" %}}
 交叉淡入淡出播放将一首曲目的结尾与下一首的开头混合，创造无缝过渡。您可以在 Settings → Audio Player → Crossfade Playback 中将时长设置为 3 到 15 秒。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="我可以将 Evermusic 播放列表备份到云存储吗？" closed="true" %}}
+{{% ls-details title="我可以将 Evermusic 播放列表备份到云存储吗？" closed="true" %}}
 可以。Evermusic 3.1 允许您将整个音乐库——包括播放列表、元数据、封面和设置——备份到任何已连接的云服务，保存为单个文件。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Evermusic 支持 iPod 音乐库浏览吗？" closed="true" %}}
+{{% ls-details title="Evermusic 支持 iPod 音乐库浏览吗？" closed="true" %}}
 支持。您可以直接从 Evermusic 主屏幕按播放列表、专辑、艺术家和流派浏览 iPod 音乐库，并将曲目添加到队列。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="如何修复 Evermusic 中不正确的歌曲标签？" closed="true" %}}
+{{% ls-details title="如何修复 Evermusic 中不正确的歌曲标签？" closed="true" %}}
 使用内置的 Tags Editor 并点击 Identify 操作。Evermusic 会扫描您的文件名并自动用纠正后的元数据更新 ID3 标签。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Evermusic 支持哪些云服务？" closed="true" %}}
+{{% ls-details title="Evermusic 支持哪些云服务？" closed="true" %}}
 Evermusic 支持 Dropbox、Google Drive、OneDrive、MEGA、Box、Yandex.Disk、WebDAV、SMB/CIFS 和 FTP 服务器。
-{{% /details %}}
+{{% /ls-details %}}

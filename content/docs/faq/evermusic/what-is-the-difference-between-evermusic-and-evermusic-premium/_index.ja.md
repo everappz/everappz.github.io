@@ -62,7 +62,7 @@ EvermusicとEvermusic Premiumは、同じ音楽プレーヤーアプリケーシ
 
 ### App Storeでダウンロード
 
-{{< app-details ids="885367198, 905746421, 1564384601" >}}
+{{< ls-app-details ids="885367198, 905746421, 1564384601" >}}
 
 ### App Storeのパッケージ化
 
@@ -142,7 +142,7 @@ EvermusicとEvermusic Premiumは、同じ音楽プレーヤーアプリケーシ
 
 ## よくある質問
 
-{{% details title="古いApple AccountでEvermusic Pro（またはPremium）を購入しました。新しいApple Accountに移行できますか？" closed="true" %}}
+{{% ls-details title="古いApple AccountでEvermusic Pro（またはPremium）を購入しました。新しいApple Accountに移行できますか？" closed="true" %}}
 Appleの公式ドキュメントによると、別のApple Accountからの購入は、アカウントが同じファミリー共有グループ内で適切に設定されていれば、ファミリー共有/購入の共有を通じて共有できます。
 
 Evermusic Proが古いApple Accountを使用して購入された場合、Appleはそのアカウントを購入の共有のための第2のApple Accountとして使用するオプションを提供しています。
@@ -202,30 +202,30 @@ https://apps.apple.com/us/app/evermusic-cloud-music-player/id885367198?uo=4
 Apple ファミリー共有、購入の共有、Apple Account、そしてApp Storeの購入履歴は、すべてAppleによって完全に管理されていることにご注意ください。私たちはユーザーのApple Accountにアクセスできず、当社側からApp Storeの購入をあるApple Accountから別のApple Accountに移行することはできません。
 
 ファミリー共有または古いApple Accountで行った購入へのアクセスに関して問題が発生した場合は、Appleサポートがアカウントの設定を確認する必要があります。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="すでにEvermusic Free（青）をPremiumにアップグレードしました。Evermusic Pro（赤）も必要ですか？" closed="true" %}}
+{{% ls-details title="すでにEvermusic Free（青）をPremiumにアップグレードしました。Evermusic Pro（赤）も必要ですか？" closed="true" %}}
 いいえ。Evermusic Pro（赤いアイコン）は、PremiumがすでにアンロックされているEvermusic Free（青いアイコン）と同じアプリです。すでに青いアプリをPremiumにアップグレードしている場合は、Proが提供するすべてをお持ちですので、赤いアプリをインストールまたは購入する必要はありません。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="ファミリー共有はサポートされていますか、また何人が私の購入を利用できますか？" closed="true" %}}
+{{% ls-details title="ファミリー共有はサポートされていますか、また何人が私の購入を利用できますか？" closed="true" %}}
 はい。ファミリー共有はすべてのEvermusicの購入とサブスクリプションで機能するため、最大5人の家族メンバーとPremiumを共有できます。デバイスの設定 → ファミリーで購入の共有をオンにします。各家族メンバーは自分のApple Accountでアプリをダウンロードし、自動的にPremiumを取得します。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="iPhoneでPremiumにアップグレードしましたが、Macにはまだ無料版が表示されます。どうすれば修正できますか？" closed="true" %}}
+{{% ls-details title="iPhoneでPremiumにアップグレードしましたが、Macにはまだ無料版が表示されます。どうすれば修正できますか？" closed="true" %}}
 PremiumはiCloudを通じてiPhoneとMac間で共有されます。まず、両方のデバイスが同じApple Accountを使用し、iCloudがオンになっていることを確認してください。iPhoneで最新バージョンのEvermusicを開き、購入がiCloudにアップロードされるまで約1分間お待ちください。設定で購入の復元をタップすることもできます。次にMacで最新バージョンを開き、インターネットに接続して約1分間お待ちください。Premiumはひとりでにオンになるはずです。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="新しいデバイスで購入を復元するにはどうすればよいですか？" closed="true" %}}
+{{% ls-details title="新しいデバイスで購入を復元するにはどうすればよいですか？" closed="true" %}}
 アプリで設定を開き、購入の復元をタップします。購入が表示され、Premiumが再びオンになります。購入が見つからない場合は、デバイスが購入に使用したのと同じApple Accountを使用していること、およびiCloudがオンになっていることを確認してください。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Evermusic Pro（赤）をインストールすると、Evermusic Free（青）でPremiumがアンロックされますか？" closed="true" %}}
+{{% ls-details title="Evermusic Pro（赤）をインストールすると、Evermusic Free（青）でPremiumがアンロックされますか？" closed="true" %}}
 はい。デバイスに赤いEvermusic Proをインストールすると、同じデバイス上の青いEvermusic Freeがそれを検出し、自動的にPremiumをオンにします。青いアプリでPremiumをもう一度購入する必要はありません。赤いアプリをインストールしたままにしておくだけで済みます。
 
 逆方向には機能しません。青いアプリと赤いアプリはApp Store上の別々のアプリなので、青いアプリでPremiumを購入しても赤いEvermusic Proが無料になることはありません。青いアプリでの購入は、青いiPhoneアプリと青いMacアプリの間でiCloudを通じて同期されます。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Intel MacでPremiumを使用できますか？" closed="true" %}}
+{{% ls-details title="Intel MacでPremiumを使用できますか？" closed="true" %}}
 はい。青いEvermusic Freeアプリを使用してPremiumにアップグレードしてください。青いMacアプリはApple SiliconとIntel Macの両方で動作します。赤いEvermusic ProはApple Silicon Mac（M1以降）でのみ動作し、Intel Macにはインストールできません。
-{{% /details %}}
+{{% /ls-details %}}

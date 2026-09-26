@@ -12,7 +12,7 @@ authors:
     image: "/images/about/artem-meleshko-founder-everappz.webp"
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 ## 3 milioane de descărcări
 
@@ -98,22 +98,22 @@ Evermusic este gratuit în App Store cu funcții premium opționale.
 
 ## Întrebări frecvente
 
-{{% details title="Este Evermusic gratuit?" closed="true" %}}
+{{% ls-details title="Este Evermusic gratuit?" closed="true" %}}
 Da. Evermusic poate fi descărcat gratuit, cu funcțiile de bază disponibile fără costuri. Funcțiile premium precum egalizatorul și opțiunile avansate de cloud sunt disponibile printr-un upgrade opțional.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Poate Evermusic să redea cărți audio?" closed="true" %}}
+{{% ls-details title="Poate Evermusic să redea cărți audio?" closed="true" %}}
 Da. Evermusic salvează poziția de redare, suportă semne de carte, viteză de redare reglabilă (0,5x până la 2,0x) și temporizatoare de somn — fiind potrivit pentru cărți audio și podcasturi.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="La ce servicii cloud se conectează Evermusic?" closed="true" %}}
+{{% ls-details title="La ce servicii cloud se conectează Evermusic?" closed="true" %}}
 Dropbox, Google Drive, OneDrive, Box, MEGA, Yandex.Disk, MyDrive, pCloud, HiDrive, partajări de fișiere SMB și servere WebDAV.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Pot folosi un card SD cu Evermusic?" closed="true" %}}
+{{% ls-details title="Pot folosi un card SD cu Evermusic?" closed="true" %}}
 Da. Conectați un cititor de carduri SD Lightning sau USB-C la iPhone sau iPad și redați muzică direct de pe card prin Evermusic.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Funcționează Evermusic pe Mac?" closed="true" %}}
+{{% ls-details title="Funcționează Evermusic pe Mac?" closed="true" %}}
 Da. Evermusic este disponibil atât pentru iOS, cât și pentru macOS, cu streaming cloud și redare offline pe toate platformele.
-{{% /details %}}
+{{% /ls-details %}}

@@ -7,7 +7,7 @@ tags: ["carplay", "iphone", "paikallinen musiikki", "offline toisto", "evermusic
 readingTime: 5
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **Tiivistelmä:** Käytä [Evermusic](https://apps.apple.com/app/apple-store/id885367198?pt=95781850&ct=everappzcom&mt=8)- tai [Flacbox](https://apps.apple.com/app/apple-store/id1097564256?pt=95781850&ct=everappzcom&mt=8)-sovellusta omien MP3-, FLAC- tai muiden äänitiedostojesi toistamiseen iPhonella Apple CarPlayn kautta. Lisää musiikkia pilvipalvelusta, USB:ltä tai Wi-Fi-siirrolla ja selaa sitten kirjastoasi, soittolistojasi ja kansioitasi suoraan autosi näytöltä.
@@ -17,7 +17,7 @@ readingTime: 5
 Haluatko toistaa omaa musiikkiasi autossa Apple CarPlayn avulla? Olivatpa kappaleesi tallennettuna iPhonellesi, pilvipalveluun tai offline-tilassa, sovellukset kuten **Evermusic** ja **Flacbox** tekevät henkilökohtaisen musiikkikokoelmasi kuuntelemisesta helppoa ajon aikana.
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="CarPlay seuraavien kappaleiden jono" image="/docs/howto/how-to-play-your-own-music-on-iphone-using-carplay/carplay-nowplaying-5.webp" imageStyle="border-radius: clamp(14px, 2vw, 28px);" >}}
+{{< ls-card title="" subtitle="CarPlay seuraavien kappaleiden jono" image="/docs/howto/how-to-play-your-own-music-on-iphone-using-carplay/carplay-nowplaying-5.webp" imageStyle="border-radius: clamp(14px, 2vw, 28px);" >}}
 {{< /cards >}}
 
 Tässä oppaassa näytämme, kuinka valmistellaan musiikkitiedostot CarPlayta varten, järjestetään ne oikeilla albumikansilla ja kappaletiedoilla ja toistetaan ne turvallisesti iPhonesta. Evermusicilla tai Flacboxilla voit luoda soittolistoja sekä suoratoistaa tai ladata kappaleita palveluista kuten **Google Drive**, **Dropbox**, **OneDrive**, **NAS** tai kotitietokoneeltasi.
@@ -25,8 +25,8 @@ Tässä oppaassa näytämme, kuinka valmistellaan musiikkitiedostot CarPlayta va
 Nämä sovellukset ovat täydellisiä kaikille, jotka haluavat täyden hallinnan musiikkikirjastostaan.
 
 {{< cards cols="2">}}
-{{< card link="https://apps.apple.com/app/apple-store/id885367198?pt=95781850&ct=everappzcom&mt=8" title="Lataa Evermusic" icon="download" tag="Free" >}}
-{{< card link="https://apps.apple.com/app/apple-store/id1097564256?pt=95781850&ct=everappzcom&mt=8" title="Lataa Flacbox" icon="download" tag="Free" >}}
+{{< ls-card link="https://apps.apple.com/app/apple-store/id885367198?pt=95781850&ct=everappzcom&mt=8" title="Lataa Evermusic" icon="download" tag="Free" >}}
+{{< ls-card link="https://apps.apple.com/app/apple-store/id1097564256?pt=95781850&ct=everappzcom&mt=8" title="Lataa Flacbox" icon="download" tag="Free" >}}
 {{< /cards >}}
 
 ## Lisää tiedostot sovellukseen
@@ -106,7 +106,7 @@ Siirrä tiedostoja langattomasti kuten kuvataan [täällä](/docs/howto/how-to-t
 Kun olet käynnistänyt Evermusic- tai Flacbox-sovelluksemme CarPlay-tilassa, näet pääkäyttöliittymän jaettuna neljään päävälilehteen: Kirjasto, Yhteydet, Paikalliset tiedostot, Asetukset. 
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="CarPlay-päävalikko" image="/docs/howto/how-to-play-your-own-music-on-iphone-using-carplay/library-with-images.webp" imageStyle="border-radius: clamp(14px, 2vw, 28px);" >}}
+{{< ls-card title="" subtitle="CarPlay-päävalikko" image="/docs/howto/how-to-play-your-own-music-on-iphone-using-carplay/library-with-images.webp" imageStyle="border-radius: clamp(14px, 2vw, 28px);" >}}
 {{< /cards >}}
 
 ## Kirjasto
@@ -116,7 +116,7 @@ Kun olet käynnistänyt Evermusic- tai Flacbox-sovelluksemme CarPlay-tilassa, n�
 Tämä näyttö antaa sinulle nopean pääsyn suosikkeihisi, viimeaikaisiin, soittolistoihin, kirjanmerkkeihin ja kaikkiin lisättyihin kappaleisiin. Voit myös jatkaa toistoa edellisestä istunnostasi, tarkastella toistamattomia kappaleita ja selata musiikkia tunnisteiden tai lähdetyypin mukaan.
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Kirjasto" image="/docs/howto/how-to-play-your-own-music-on-iphone-using-carplay/library-with-images-3.webp" imageStyle="border-radius: clamp(14px, 2vw, 28px);" >}}
+{{< ls-card title="" subtitle="Kirjasto" image="/docs/howto/how-to-play-your-own-music-on-iphone-using-carplay/library-with-images-3.webp" imageStyle="border-radius: clamp(14px, 2vw, 28px);" >}}
 {{< /cards >}}
 
 **Kirjasto**-osio sisältää seuraavat kategoriat:
@@ -139,7 +139,7 @@ Tämä näyttö antaa sinulle nopean pääsyn suosikkeihisi, viimeaikaisiin, soi
 - **Online-tiedostot** – Suoraan pilvipalveluista suoratoistettu musiikki
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Albuminäkymä" image="/docs/howto/how-to-play-your-own-music-on-iphone-using-carplay/albums.webp" imageStyle="border-radius: clamp(14px, 2vw, 28px);" >}}
+{{< ls-card title="" subtitle="Albuminäkymä" image="/docs/howto/how-to-play-your-own-music-on-iphone-using-carplay/albums.webp" imageStyle="border-radius: clamp(14px, 2vw, 28px);" >}}
 {{< /cards >}}
 
 Voit avata minkä tahansa alivalikon ja napauttaa kappaletta aloittaaksesi toiston välittömästi. Tarkempia tietoja löydät kattavasta [musiikkikirjaston oppaasta](/docs/guide/evermusic/evermusic-guide-music-library/).
@@ -150,7 +150,7 @@ Voit avata minkä tahansa alivalikon ja napauttaa kappaletta aloittaaksesi toist
 **Yhteydet**-välilehti on keskuspaikkasi kaikkien yhdistettyjen pilvipalveluiden ja paikallisten verkkolaitteiden hallintaan.
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Yhteydet" image="/docs/howto/how-to-play-your-own-music-on-iphone-using-carplay/connections-with-images-3.webp" imageStyle="border-radius: clamp(14px, 2vw, 28px);" >}}
+{{< ls-card title="" subtitle="Yhteydet" image="/docs/howto/how-to-play-your-own-music-on-iphone-using-carplay/connections-with-images-3.webp" imageStyle="border-radius: clamp(14px, 2vw, 28px);" >}}
 {{< /cards >}}
 
 Täältä voit yhdistää suosittuihin pilvipalveluihin kuten Dropbox, Google Drive, OneDrive, MEGA, iCloud Drive ja jopa verkkolevyihin kuten SMB, DLNA ja WebDAV. Yhdistämisen jälkeen voit selata, suoratoistaa, ladata ja hallita tiedostoja suoraan sovelluksesta.
@@ -172,7 +172,7 @@ Saat lisätietoja kaikista tavoista yhdistää ja hallita pilvi- ja verkkokirjas
 **Paikalliset tiedostot** -osio on keskuspaikkasi laitteeseesi suoraan tai Evermusic-sovelluksen **Asiakirjat**-hakemistoon tallennettujen äänitiedostojen hallintaan. Se sisältää myös pilvipalvelusta ladatut offline-tiedostot, äänisoittimen välimuistitiedostot ja kansiot, jotka olet asettanut saataville offline-toistoa varten. Tämä osio varmistaa, että voit nauttia musiikkikirjastostasi myös ilman internet-yhteyttä.
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Paikalliset tiedostot" image="/docs/howto/how-to-play-your-own-music-on-iphone-using-carplay/local-files-with-images.webp" imageStyle="border-radius: clamp(14px, 2vw, 28px);" >}}
+{{< ls-card title="" subtitle="Paikalliset tiedostot" image="/docs/howto/how-to-play-your-own-music-on-iphone-using-carplay/local-files-with-images.webp" imageStyle="border-radius: clamp(14px, 2vw, 28px);" >}}
 {{< /cards >}}
 
 **Paikalliset tiedostot** -näyttö on järjestetty seuraaviin avainosioihin:
@@ -186,7 +186,7 @@ Saat lisätietoja kaikista tavoista yhdistää ja hallita pilvi- ja verkkokirjas
 - **Äänisoitin** – Välimuistikansio, jota käytetään ristiinhäivytykseen ja suorituskyvyn optimointiin. Voidaan poistaa käytöstä tai tyhjentää asetuksissa.
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Laitekansiot paikallisissa tiedostoissa" image="/docs/howto/how-to-play-your-own-music-on-iphone-using-carplay/local-files-device-folders.webp" imageStyle="border-radius: clamp(14px, 2vw, 28px);" >}}
+{{< ls-card title="" subtitle="Laitekansiot paikallisissa tiedostoissa" image="/docs/howto/how-to-play-your-own-music-on-iphone-using-carplay/local-files-device-folders.webp" imageStyle="border-radius: clamp(14px, 2vw, 28px);" >}}
 {{< /cards >}}
 
 Saat lisätietoja kattavasta [paikallisten tiedostojen oppaasta](/docs/guide/evermusic/evermusic-guide-local-files/).
@@ -194,7 +194,7 @@ Saat lisätietoja kattavasta [paikallisten tiedostojen oppaasta](/docs/guide/eve
 ## Kansionäkymä
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Paikallinen kansio kansikuvilla" image="/docs/howto/how-to-play-your-own-music-on-iphone-using-carplay/local-folder-with-images-2.webp" imageStyle="border-radius: clamp(14px, 2vw, 28px);" >}}
+{{< ls-card title="" subtitle="Paikallinen kansio kansikuvilla" image="/docs/howto/how-to-play-your-own-music-on-iphone-using-carplay/local-folder-with-images-2.webp" imageStyle="border-radius: clamp(14px, 2vw, 28px);" >}}
 {{< /cards >}}
 
 Kun avaat kansion, löydät ylhäältä joukon käteviä toimintoja:
@@ -206,7 +206,7 @@ Kun avaat kansion, löydät ylhäältä joukon käteviä toimintoja:
 ## Sisällön syvyysrajoitus
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Sisällön syvyysrajoitus" image="/docs/howto/how-to-play-your-own-music-on-iphone-using-carplay/content-depth-limit.webp" imageStyle="border-radius: clamp(14px, 2vw, 28px);" >}}
+{{< ls-card title="" subtitle="Sisällön syvyysrajoitus" image="/docs/howto/how-to-play-your-own-music-on-iphone-using-carplay/content-depth-limit.webp" imageStyle="border-radius: clamp(14px, 2vw, 28px);" >}}
 {{< /cards >}}
 
 CarPlayta käytettäessä saatat kohdata **«Sisällön syvyysrajoitus»** -virheen — erityisesti jos musiikkikirjastossasi on monia syvälle sisäkkäistettyjä kansioita.  
@@ -227,7 +227,7 @@ Tämä kiertotapa varmistaa saumattoman kokemuksen musiikkia selatessa autossa.
 ## Nyt toistetaan -näyttö
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="CarPlay Nyt toistetaan -sisäänkäynti" image="/docs/howto/how-to-play-your-own-music-on-iphone-using-carplay/carplay-nowplaying.webp" imageStyle="border-radius: clamp(14px, 2vw, 28px);" >}}
+{{< ls-card title="" subtitle="CarPlay Nyt toistetaan -sisäänkäynti" image="/docs/howto/how-to-play-your-own-music-on-iphone-using-carplay/carplay-nowplaying.webp" imageStyle="border-radius: clamp(14px, 2vw, 28px);" >}}
 {{< /cards >}}
 
 Kun napautat mitä tahansa äänitiedostoa, se lisätään automaattisesti **soittimen jonoon**.  
@@ -244,7 +244,7 @@ Tämä näyttö pitää sinut kuuntelukokemuksesi hallinnassa ajon aikana — tu
 ## Asetukset
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Asetusvalikko" image="/docs/howto/how-to-play-your-own-music-on-iphone-using-carplay/settings-2.webp" imageStyle="border-radius: clamp(14px, 2vw, 28px);" >}}
+{{< ls-card title="" subtitle="Asetusvalikko" image="/docs/howto/how-to-play-your-own-music-on-iphone-using-carplay/settings-2.webp" imageStyle="border-radius: clamp(14px, 2vw, 28px);" >}}
 {{< /cards >}}
 
 **Asetukset**-osio CarPlay-käyttöliittymässä mahdollistaa sovelluksen toiminnan mukauttamisen ajon aikana. Nämä asetukset auttavat parantamaan suorituskykyä, vähentämään häiriötekijöitä ja tarjoamaan sujuvamman kuuntelukokemuksen.
@@ -260,7 +260,7 @@ Tämä näyttö pitää sinut kuuntelukokemuksesi hallinnassa ajon aikana — tu
 - **Lajittelu** – Säädä sisällön lajittelua CarPlay-valikoissa kuten tiedostot, musiikkikirjasto ja yhteydet.
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Lajitteluvaihtoehtojen valikko" image="/docs/howto/how-to-play-your-own-music-on-iphone-using-carplay/settings-sort.webp" imageStyle="border-radius: clamp(14px, 2vw, 28px);" >}}
+{{< ls-card title="" subtitle="Lajitteluvaihtoehtojen valikko" image="/docs/howto/how-to-play-your-own-music-on-iphone-using-carplay/settings-sort.webp" imageStyle="border-radius: clamp(14px, 2vw, 28px);" >}}
 {{< /cards >}}
 
 - **Sisällön latausrajoitus** – Aseta kuinka monta kohdetta näytetään näyttöä kohti. Alhaisemmat rajoitukset parantavat latausnopeutta ja vähentävät vieritystä.
@@ -271,19 +271,19 @@ Tämä näyttö pitää sinut kuuntelukokemuksesi hallinnassa ajon aikana — tu
 - **Äänitaajuuskorjain**
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Taajuuskorjaimen määrityspaneeli" image="/docs/howto/how-to-play-your-own-music-on-iphone-using-carplay/settings-eq-configuration.webp" imageStyle="border-radius: clamp(14px, 2vw, 28px);" >}}
+{{< ls-card title="" subtitle="Taajuuskorjaimen määrityspaneeli" image="/docs/howto/how-to-play-your-own-music-on-iphone-using-carplay/settings-eq-configuration.webp" imageStyle="border-radius: clamp(14px, 2vw, 28px);" >}}
 {{< /cards >}}
 
 Ota käyttöön sisäänrakennettu äänitaajuuskorjain, säädä taajuuskaistoja ja valitse esimääritetyistä asetuksista henkilökohtaista äänikokemusta varten.
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Taajuuskorjaimen esiasetusluettelo" image="/docs/howto/how-to-play-your-own-music-on-iphone-using-carplay/settings-equalizer.webp" imageStyle="border-radius: clamp(14px, 2vw, 28px);" >}}
+{{< ls-card title="" subtitle="Taajuuskorjaimen esiasetusluettelo" image="/docs/howto/how-to-play-your-own-music-on-iphone-using-carplay/settings-equalizer.webp" imageStyle="border-radius: clamp(14px, 2vw, 28px);" >}}
 {{< /cards >}}
 
 - **Ristiinhäivytystoisto**
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Ristiinhäivytystoisto" image="/docs/howto/how-to-play-your-own-music-on-iphone-using-carplay/settings-crossfade-playback.webp" imageStyle="border-radius: clamp(14px, 2vw, 28px);" >}}
+{{< ls-card title="" subtitle="Ristiinhäivytystoisto" image="/docs/howto/how-to-play-your-own-music-on-iphone-using-carplay/settings-crossfade-playback.webp" imageStyle="border-radius: clamp(14px, 2vw, 28px);" >}}
 {{< /cards >}}
 
 Luo sujuvia siirtymiä kappaleiden välille limittämällä yhden kappaleen loppu seuraavan alkuun. Ristiinhäivytyksen kesto on mukautettavissa.
@@ -291,7 +291,7 @@ Luo sujuvia siirtymiä kappaleiden välille limittämällä yhden kappaleen lopp
 - **Tauoton toisto**
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Tauoton toisto" image="/docs/howto/how-to-play-your-own-music-on-iphone-using-carplay/settings-gapless-playback.webp" imageStyle="border-radius: clamp(14px, 2vw, 28px);" >}}
+{{< ls-card title="" subtitle="Tauoton toisto" image="/docs/howto/how-to-play-your-own-music-on-iphone-using-carplay/settings-gapless-playback.webp" imageStyle="border-radius: clamp(14px, 2vw, 28px);" >}}
 {{< /cards >}}
 
 Toista kappaleita saumattomasti ilman taukoja — ihanteellinen live-tallenteille, DJ-miksauksille ja konseptialbumille.
@@ -307,7 +307,7 @@ Saat lisätietoja kattavasta [asetusten oppaasta](/docs/guide/evermusic/evermusi
 **Evermusicin** ja **Flacboxin** avulla oman musiikin toistaminen autossa Apple CarPlayn kautta on yksinkertaista, joustavaa ja luotettavaa. Suoratoistatpa pilvipalvelusta, käytät paikallisia tiedostoja tai toistat ladattuja kappaleita offline — nämä sovellukset on rakennettu antamaan sinulle täysi hallinta kuuntelukokemukseesi ajon aikana.
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="CarPlay Nyt toistetaan -näyttö" image="/docs/howto/how-to-play-your-own-music-on-iphone-using-carplay/carplay-nowplaying-2.webp" imageStyle="border-radius: clamp(14px, 2vw, 28px);" >}}
+{{< ls-card title="" subtitle="CarPlay Nyt toistetaan -näyttö" image="/docs/howto/how-to-play-your-own-music-on-iphone-using-carplay/carplay-nowplaying-2.webp" imageStyle="border-radius: clamp(14px, 2vw, 28px);" >}}
 {{< /cards >}}
 
 Saumattomasta pilvi-integraatiosta offline-kansioiden synkronointiin, syvästä musiikkikirjaston organisoinnista mukautettavaan toistoon taajuuskorjaimilla ja ristiinhäivytyksellä — nämä ominaisuudet tekevät Evermusicista ja Flacboxista enemmän kuin pelkkiä äänisoittimia. Ne ovat älykkäitä CarPlay-kumppaneita, jotka on suunniteltu audiofiileille, työmatkustajille ja jokapäiväisille käyttäjille.
@@ -325,22 +325,22 @@ Tutustu lisäominaisuuksiin, asetuksiin ja ohjeisiin kattavassa [Evermusic-käyt
 
 ## Usein kysytyt kysymykset
 
-{{% details title="Mitkä musiikkitiedostomuodot toimivat CarPlayssa Evermusicin ja Flacboxin kanssa?" closed="true" %}}
+{{% ls-details title="Mitkä musiikkitiedostomuodot toimivat CarPlayssa Evermusicin ja Flacboxin kanssa?" closed="true" %}}
 Evermusic ja Flacbox tukevat laajaa valikoimaa ääniformaatteja, mukaan lukien MP3, FLAC, AAC, WAV, AIFF, OGG, WMA ja muut. Kaikki tuetut muodot toimivat CarPlayn kautta ilman muunnostarvetta.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Voinko toistaa musiikkia Google Drivesta tai Dropboxista CarPlayssa?" closed="true" %}}
+{{% ls-details title="Voinko toistaa musiikkia Google Drivesta tai Dropboxista CarPlayssa?" closed="true" %}}
 Kyllä. Sekä Evermusic että Flacbox mahdollistavat yhdistämisen pilvipalveluihin kuten Google Drive, Dropbox, OneDrive, MEGA ja muut. Voit suoratoistaa musiikkia suoraan tai ladata sen offline-CarPlay-toistoa varten.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Tarvitsenko internet-yhteyden musiikin toistamiseen CarPlayssa?" closed="true" %}}
+{{% ls-details title="Tarvitsenko internet-yhteyden musiikin toistamiseen CarPlayssa?" closed="true" %}}
 Et. Voit ladata musiikkia pilvipalvelusta offline-toistoa varten. Kun tiedostot on tallennettu paikallisesti iPhoneesi, ne toistuvat CarPlayn kautta ilman internet-yhteyttä.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Miksi näen Sisällön syvyysrajoitus -virheen CarPlayssa?" closed="true" %}}
+{{% ls-details title="Miksi näen Sisällön syvyysrajoitus -virheen CarPlayssa?" closed="true" %}}
 CarPlay rajoittaa näytettävien kansiotasojen määrää. Jos musiikkisi on syvälle sisäkkäistetyissä kansioissa, lisää ne Suosikkeihin, jotta pääset niihin suoraan Suosikit-valikosta CarPlayssa.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Onko Evermusic tai Flacbox ilmainen käyttää CarPlayn kanssa?" closed="true" %}}
+{{% ls-details title="Onko Evermusic tai Flacbox ilmainen käyttää CarPlayn kanssa?" closed="true" %}}
 Molemmat sovellukset ovat ilmaisia ladata täydellä CarPlay-tuella, taajuuskorjaimella ja toisto-ominaisuuksilla. Ilmaisversioissa on rajoituksia pilviyhteyksille (3), soittolistoille (10) ja offline-kansioille (1). Premium poistaa kaikki rajoitukset.
-{{% /details %}}
+{{% /ls-details %}}

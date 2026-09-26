@@ -29,7 +29,7 @@ tags: [
 readingTime: 3
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **Özet:** Herhangi bir Internet Archive URL'sini [archivetom3u.com](https://archivetom3u.com) adresine yapıştırın, ses formatınızı (MP3, FLAC, OGG) seçin ve çalmaya hazır bir M3U çalma listesi indirin -- hesap gerekmez. Ardından anında oynatma için iPhone veya Mac'te [Evermusic](https://apps.apple.com/app/apple-store/id885367198?pt=95781850&ct=everappzcom&mt=8) uygulamasına aktarın.
@@ -69,7 +69,7 @@ Aşağıdaki formatlardan seçim yapabilirsiniz:
 [archive.org](https://archive.org) adresine gidin, **Audio** öğesine dokunun ve **Live Music Archive**'ı seçin. İstediğiniz türü, sanatçıyı veya konseri bulmak için arama çubuğunu kullanın.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Internet Archive'da müzik arayın" image="/docs/howto/how-to-create-m3u-playlist-for-internet-archive-or-live-music-archive/1.internet-archive-search.webp" >}}
+  {{< ls-card title="" subtitle="Internet Archive'da müzik arayın" image="/docs/howto/how-to-create-m3u-playlist-for-internet-archive-or-live-music-archive/1.internet-archive-search.webp" >}}
 {{< /cards >}}
 
 ### 2. Öğe URL'sini Kopyalayın
@@ -77,7 +77,7 @@ Aşağıdaki formatlardan seçim yapabilirsiniz:
 İstediğiniz öğeye tıklayın ve tarayıcı adres çubuğundan URL'sini kopyalayın.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Internet Archive'dan öğe URL'sini kopyalayın" image="/docs/howto/how-to-create-m3u-playlist-for-internet-archive-or-live-music-archive/2.internet-archive-copy-item-url.webp" >}}
+  {{< ls-card title="" subtitle="Internet Archive'dan öğe URL'sini kopyalayın" image="/docs/howto/how-to-create-m3u-playlist-for-internet-archive-or-live-music-archive/2.internet-archive-copy-item-url.webp" >}}
 {{< /cards >}}
 
 ### 3. URL'yi Oluşturucuya Yapıştırın
@@ -85,7 +85,7 @@ Aşağıdaki formatlardan seçim yapabilirsiniz:
 [archivetom3u.com](https://archivetom3u.com) adresine geri dönün ve kopyalanan URL'yi giriş alanına yapıştırın.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Öğe URL'sini M3U oluşturucuya yapıştırın" image="/docs/howto/how-to-create-m3u-playlist-for-internet-archive-or-live-music-archive/3.archive-to-m3u-paste-item-url.webp" >}}
+  {{< ls-card title="" subtitle="Öğe URL'sini M3U oluşturucuya yapıştırın" image="/docs/howto/how-to-create-m3u-playlist-for-internet-archive-or-live-music-archive/3.archive-to-m3u-paste-item-url.webp" >}}
 {{< /cards >}}
 
 ### 4. Ses Formatınızı Seçin
@@ -93,7 +93,7 @@ Aşağıdaki formatlardan seçim yapabilirsiniz:
 İstediğiniz formatı seçin (MP3, FLAC vb.).
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Tercih ettiğiniz ses formatını seçin" image="/docs/howto/how-to-create-m3u-playlist-for-internet-archive-or-live-music-archive/4.archive-to-m3u-select-format.webp" >}}
+  {{< ls-card title="" subtitle="Tercih ettiğiniz ses formatını seçin" image="/docs/howto/how-to-create-m3u-playlist-for-internet-archive-or-live-music-archive/4.archive-to-m3u-select-format.webp" >}}
 {{< /cards >}}
 
 ### 5. Çalma Listesini Oluşturun
@@ -101,7 +101,7 @@ Aşağıdaki formatlardan seçim yapabilirsiniz:
 **Generate Playlist** düğmesine tıklayın. `.m3u` içeriği aşağıda görüntülenecektir. Kopyalayabilir veya indirebilirsiniz.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="M3U çalma listesi otomatik olarak oluşturulur" image="/docs/howto/how-to-create-m3u-playlist-for-internet-archive-or-live-music-archive/5.archive-to-m3u-generated-playlist.webp" >}}
+  {{< ls-card title="" subtitle="M3U çalma listesi otomatik olarak oluşturulur" image="/docs/howto/how-to-create-m3u-playlist-for-internet-archive-or-live-music-archive/5.archive-to-m3u-generated-playlist.webp" >}}
 {{< /cards >}}
 
 ### 6. Parçaları Önizleyin
@@ -109,7 +109,7 @@ Aşağıdaki formatlardan seçim yapabilirsiniz:
 Her parçayı önizlemek için aşağı kaydırın. Her şeyin doğru çaldığından emin olun.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="İndirmeden önce tüm parçaları önizleyin" image="/docs/howto/how-to-create-m3u-playlist-for-internet-archive-or-live-music-archive/6.archive-to-m3u-tracks-preview.webp" >}}
+  {{< ls-card title="" subtitle="İndirmeden önce tüm parçaları önizleyin" image="/docs/howto/how-to-create-m3u-playlist-for-internet-archive-or-live-music-archive/6.archive-to-m3u-tracks-preview.webp" >}}
 {{< /cards >}}
 
 ### 7. Çalma Listesini İndirin
@@ -117,7 +117,7 @@ Her parçayı önizlemek için aşağı kaydırın. Her şeyin doğru çaldığ�
 `.m3u` dosyasını cihazınıza kaydetmek için **Download Playlist** düğmesine tıklayın. Giriş veya hesap gerekmez.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="M3U çalma listesini cihazınıza indirin" image="/docs/howto/how-to-create-m3u-playlist-for-internet-archive-or-live-music-archive/7.downloaded-m3u-playlist.webp" >}}
+  {{< ls-card title="" subtitle="M3U çalma listesini cihazınıza indirin" image="/docs/howto/how-to-create-m3u-playlist-for-internet-archive-or-live-music-archive/7.downloaded-m3u-playlist.webp" >}}
 {{< /cards >}}
 
 ## macOS veya iOS'ta M3U Çalma Listesi Nasıl Oynatılır
@@ -125,14 +125,14 @@ Her parçayı önizlemek için aşağı kaydırın. Her şeyin doğru çaldığ�
 İndirilen `.m3u` dosyasını Apple cihazınızda oynatmak için **Evermusic** uygulamasını kullanın (ücretsiz indirme):
 
 {{< cards cols="1">}}
-{{< card link="https://apps.apple.com/app/apple-store/id1564384601?pt=95781850&ct=everappzcom&mt=8" title="Evermusic macOS" icon="download" tag="Free" >}}
-{{< card link="https://apps.apple.com/app/apple-store/id885367198?pt=95781850&ct=everappzcom&mt=8" title="Evermusic iOS" icon="download" tag="Free" >}}
+{{< ls-card link="https://apps.apple.com/app/apple-store/id1564384601?pt=95781850&ct=everappzcom&mt=8" title="Evermusic macOS" icon="download" tag="Free" >}}
+{{< ls-card link="https://apps.apple.com/app/apple-store/id885367198?pt=95781850&ct=everappzcom&mt=8" title="Evermusic iOS" icon="download" tag="Free" >}}
 {{< /cards >}}
 
 ### 1. Evermusic'i Açın ve Çalma Listelerine Gidin
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evermusic'i açın ve Çalma Listelerine gidin" image="/docs/howto/how-to-create-m3u-playlist-for-internet-archive-or-live-music-archive/8.evermusic-app-playlists.webp" >}}
+  {{< ls-card title="" subtitle="Evermusic'i açın ve Çalma Listelerine gidin" image="/docs/howto/how-to-create-m3u-playlist-for-internet-archive-or-live-music-archive/8.evermusic-app-playlists.webp" >}}
 {{< /cards >}}
 
 ### 2. Çalma Listesini İçe Aktarın
@@ -140,7 +140,7 @@ Her parçayı önizlemek için aşağı kaydırın. Her şeyin doğru çaldığ�
 **Add Playlist** öğesine dokunun, ardından **Import Playlist**'i seçin.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="İndirilen M3U'yu eklemek için Import Playlist'e dokunun" image="/docs/howto/how-to-create-m3u-playlist-for-internet-archive-or-live-music-archive/9.evermusic-app-import-playlist.webp" >}}
+  {{< ls-card title="" subtitle="İndirilen M3U'yu eklemek için Import Playlist'e dokunun" image="/docs/howto/how-to-create-m3u-playlist-for-internet-archive-or-live-music-archive/9.evermusic-app-import-playlist.webp" >}}
 {{< /cards >}}
 
 ### 3. Çalma Listesi Konumunu Seçin
@@ -148,7 +148,7 @@ Her parçayı önizlemek için aşağı kaydırın. Her şeyin doğru çaldığ�
 **Files on this Mac**'i (veya dosyayı kaydettiğiniz başka bir konumu) seçin.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="İndirilen dosyanızın konumunu seçin" image="/docs/howto/how-to-create-m3u-playlist-for-internet-archive-or-live-music-archive/10.select-location.webp" >}}
+  {{< ls-card title="" subtitle="İndirilen dosyanızın konumunu seçin" image="/docs/howto/how-to-create-m3u-playlist-for-internet-archive-or-live-music-archive/10.select-location.webp" >}}
 {{< /cards >}}
 
 ### 4. Klasör Erişimi Verin
@@ -156,7 +156,7 @@ Her parçayı önizlemek için aşağı kaydırın. Her şeyin doğru çaldığ�
 Evermusic dosyalara yalnızca klasör düzeyinde erişime izin verirseniz erişebilir. `.m3u` dosyanızı **ve** içinde bağlantılı ses dosyalarını içeren klasörü seçin.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Cihazınızdaki klasörü bağlayın" image="/docs/howto/how-to-create-m3u-playlist-for-internet-archive-or-live-music-archive/11.connect-folder-located-on-your-device.webp" >}}
+  {{< ls-card title="" subtitle="Cihazınızdaki klasörü bağlayın" image="/docs/howto/how-to-create-m3u-playlist-for-internet-archive-or-live-music-archive/11.connect-folder-located-on-your-device.webp" >}}
 {{< /cards >}}
 
 ### 5. İndirilenler Klasörünü Seçin
@@ -164,13 +164,13 @@ Evermusic dosyalara yalnızca klasör düzeyinde erişime izin verirseniz erişe
 Çoğu durumda çalma listesi **Downloads** klasörünüze kaydedilir.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="İndirilenler klasörünü seçin" image="/docs/howto/how-to-create-m3u-playlist-for-internet-archive-or-live-music-archive/12.select-downloads-folder.webp" >}}
+  {{< ls-card title="" subtitle="İndirilenler klasörünü seçin" image="/docs/howto/how-to-create-m3u-playlist-for-internet-archive-or-live-music-archive/12.select-downloads-folder.webp" >}}
 {{< /cards >}}
 
 Seçimi onaylamak için **Open**'a dokunun.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="İndirilenler klasörünüz artık bağlandı" image="/docs/howto/how-to-create-m3u-playlist-for-internet-archive-or-live-music-archive/13.downloads-folder-connected.webp" >}}
+  {{< ls-card title="" subtitle="İndirilenler klasörünüz artık bağlandı" image="/docs/howto/how-to-create-m3u-playlist-for-internet-archive-or-live-music-archive/13.downloads-folder-connected.webp" >}}
 {{< /cards >}}
 
 ### 6. Çalma Listesi Dosyasını Seçin
@@ -180,7 +180,7 @@ Klasör bağlandıktan sonra `.m3u` dosyanızı bulun ve seçin.
 Seçimi onaylamak için **Done**'a dokunun.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Klasörden M3U çalma listesi dosyasını seçin" image="/docs/howto/how-to-create-m3u-playlist-for-internet-archive-or-live-music-archive/14.m3u-playlist-selected-from-connected-folder.webp" >}}
+  {{< ls-card title="" subtitle="Klasörden M3U çalma listesi dosyasını seçin" image="/docs/howto/how-to-create-m3u-playlist-for-internet-archive-or-live-music-archive/14.m3u-playlist-selected-from-connected-folder.webp" >}}
 {{< /cards >}}
 
 ### 7. Çalma Listesi Başarıyla İçe Aktarıldı
@@ -188,7 +188,7 @@ Seçimi onaylamak için **Done**'a dokunun.
 Uygulama çalma listesini analiz edecek ve kütüphanenize ekleyecektir.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Çalma listesi başarıyla içe aktarıldı" image="/docs/howto/how-to-create-m3u-playlist-for-internet-archive-or-live-music-archive/15.playlist-imported.webp" >}}
+  {{< ls-card title="" subtitle="Çalma listesi başarıyla içe aktarıldı" image="/docs/howto/how-to-create-m3u-playlist-for-internet-archive-or-live-music-archive/15.playlist-imported.webp" >}}
 {{< /cards >}}
 
 ### 8. Çalma Listesini Açın ve Oynatın
@@ -196,13 +196,13 @@ Uygulama çalma listesini analiz edecek ve kütüphanenize ekleyecektir.
 Tüm parçaları görmek ve oynatmayı başlatmak için çalma listesine dokunun.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Çalma listesini açın ve parça listesini görüntüleyin" image="/docs/howto/how-to-create-m3u-playlist-for-internet-archive-or-live-music-archive/16.playlist-opened.webp" >}}
+  {{< ls-card title="" subtitle="Çalma listesini açın ve parça listesini görüntüleyin" image="/docs/howto/how-to-create-m3u-playlist-for-internet-archive-or-live-music-archive/16.playlist-opened.webp" >}}
 {{< /cards >}}
 
 Birkaç saniye sonra Evermusic tüm meta verileri yükleyecek ve parça görünümünü güncelleyecektir.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Çalma listeniz oynatmaya hazır" image="/docs/howto/how-to-create-m3u-playlist-for-internet-archive-or-live-music-archive/17.playlist-opened-2.webp" >}}
+  {{< ls-card title="" subtitle="Çalma listeniz oynatmaya hazır" image="/docs/howto/how-to-create-m3u-playlist-for-internet-archive-or-live-music-archive/17.playlist-opened-2.webp" >}}
 {{< /cards >}}
 
 ## Gizlilik ve Açık Kaynak
@@ -221,22 +221,22 @@ Artık Internet Archive ve Live Music Archive'dan sadece birkaç tıklamayla M3U
 
 ## SSS
 
-{{% details title="M3U oluşturucu aracı ücretsiz mi?" closed="true" %}}
+{{% ls-details title="M3U oluşturucu aracı ücretsiz mi?" closed="true" %}}
 Evet. [archivetom3u.com](https://archivetom3u.com) adresindeki araç tamamen ücretsizdir, hesap gerektirmez ve tamamen tarayıcınızda çalışır.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="M3U çalma listesine hangi ses formatlarını ekleyebilirim?" closed="true" %}}
+{{% ls-details title="M3U çalma listesine hangi ses formatlarını ekleyebilirim?" closed="true" %}}
 VBR MP3, FLAC, 24-bit FLAC veya OGG Vorbis seçebilirsiniz. Yalnızca seçilen formatta mevcut olan parçalar çalma listesinde görünecektir.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="iPhone veya Mac'te M3U çalma listelerini oynatabilir miyim?" closed="true" %}}
+{{% ls-details title="iPhone veya Mac'te M3U çalma listelerini oynatabilir miyim?" closed="true" %}}
 Evet. iOS veya macOS için ücretsiz Evermusic uygulamasını indirin, ardından `.m3u` dosyanızı yüklemek için Import Playlist özelliğini kullanın.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Araç verilerimi saklar mı veya müzik barındırır mı?" closed="true" %}}
+{{% ls-details title="Araç verilerimi saklar mı veya müzik barındırır mı?" closed="true" %}}
 Hayır. Tüm işlemler tarayıcınızda yerel olarak gerçekleşir. Hiçbir veri saklanmaz ve tüm ses akışları doğrudan archive.org'dan gelir.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Bu araç Internet Archive ile bağlantılı mı?" closed="true" %}}
+{{% ls-details title="Bu araç Internet Archive ile bağlantılı mı?" closed="true" %}}
 Hayır. Kolaylık için oluşturulmuş bağımsız, açık kaynaklı bir projedir. Çalma listelerini oluşturmak için resmi Internet Archive Metadata API'sini kullanır.
-{{% /details %}}
+{{% /ls-details %}}

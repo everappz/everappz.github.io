@@ -12,7 +12,7 @@ authors:
     image: "/images/about/artem-meleshko-founder-everappz.webp"
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 ![](/blog/audio-streaming-and-caching-in-ios-using-avassetresourceloader-and-avplayer/diagram.png)
 
@@ -140,18 +140,18 @@ self.player = [AVPlayer playerWithPlayerItem:item];
 
 ## Часті запитання
 
-{{% details title="Коли варто використовувати AVAssetResourceLoaderDelegate замість прямого URL?" closed="true" %}}
+{{% ls-details title="Коли варто використовувати AVAssetResourceLoaderDelegate замість прямого URL?" closed="true" %}}
 Використовуйте його, коли хмарний сервіс вимагає власних заголовків авторизації, коли потрібне дискове кешування для потокового аудіо або коли ви хочете детально контролювати спосіб завантаження та буферизації даних.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Чи працює цей підхід зі Swift?" closed="true" %}}
+{{% ls-details title="Чи працює цей підхід зі Swift?" closed="true" %}}
 Так. Протокол `AVAssetResourceLoaderDelegate` працює однаково у Swift. Наведені приклади на Objective-C безпосередньо перекладаються.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Чи можна використовувати це для потокової передачі відео?" closed="true" %}}
+{{% ls-details title="Чи можна використовувати це для потокової передачі відео?" closed="true" %}}
 Так. `AVAssetResourceLoaderDelegate` працює з будь-яким типом медіа, який підтримує AVPlayer, включно з відео. Той самий підхід із власною схемою застосовується й тут.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Чи підтримується фонове відтворення аудіо?" closed="true" %}}
+{{% ls-details title="Чи підтримується фонове відтворення аудіо?" closed="true" %}}
 Так, за умови що ви ввімкнули фоновий режим "Audio, AirPlay, and Picture in Picture" в можливостях вашого застосунку та правильно налаштували `AVAudioSession`.
-{{% /details %}}
+{{% /ls-details %}}

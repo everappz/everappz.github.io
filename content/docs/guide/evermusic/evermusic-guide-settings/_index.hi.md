@@ -18,7 +18,7 @@ readingTime: 16
 Settings screen Evermusic का control center है। यहां से आप Premium पर upgrade कर सकते हैं, audio player configure कर सकते हैं, अपनी music library manage कर सकते हैं, file manager set up कर सकते हैं, interface customize कर सकते हैं, widgets और CarPlay enable कर सकते हैं, अपना data backup कर सकते हैं, और help और legal information access कर सकते हैं। Sections headers के अंतर्गत grouped हैं: **Purchases & updates**, app preferences, **Help**, और **Legal & privacy**।
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evermusic सेटिंग्स स्क्रीन" image="/docs/guide/evermusic/evermusic-guide-settings/img/settings-main-screen.webp" >}}
+  {{< ls-card title="" subtitle="Evermusic सेटिंग्स स्क्रीन" image="/docs/guide/evermusic/evermusic-guide-settings/img/settings-main-screen.webp" >}}
 {{< /cards >}}
 
 ## Purchases & Updates

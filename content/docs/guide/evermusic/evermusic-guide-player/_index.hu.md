@@ -17,7 +17,7 @@ A lejátszó a fő alkalmazásképernyő, ahol vezérelheted a lejátszóváról
 ## A lejátszó elérése
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evermusic hanglejátszó képernyő" image="/docs/guide/evermusic/evermusic-guide-player/img/player-main.webp" >}}
+  {{< ls-card title="" subtitle="Evermusic hanglejátszó képernyő" image="/docs/guide/evermusic/evermusic-guide-player/img/player-main.webp" >}}
 {{< /cards >}}
 
 A teljes képernyős lejátszót a mini-lejátszó nézetből érheted el. iPhone-on a mini lejátszót a tab bar felett a főképernyőn találod. iPaden vagy Macon a bal oldali menüből érhető el. A mini lejátszó elrejtéséhez koppints az ikonjára, és húzd lefelé. A teljes képernyős lejátszó teljes elrejtéséhez egyszerűen koppints a jobb alsó sarokban lévő bezárás gombra.
@@ -44,7 +44,7 @@ Ha véletlenszerűséget szeretnél, a „Keverés" opció az, amire szükséged
 ## Hangerő-vezérlés
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Hangerő-vezérlés AirPlay-jel és Google Cast-tal" image="/docs/guide/evermusic/evermusic-guide-player/img/player-volume-control.webp" >}}
+  {{< ls-card title="" subtitle="Hangerő-vezérlés AirPlay-jel és Google Cast-tal" image="/docs/guide/evermusic/evermusic-guide-player/img/player-volume-control.webp" >}}
 {{< /cards >}}
 
 A hangerő csúszkát a Hangbeállítások képernyőn találod meg, ha koppintasz a lejátszásvezérlők alatti hangszimbólumra. A hangerőt a csúszkával vagy az eszközöd szokványos hangerőgombjaival módosíthatod. Ezenkívül néhány hasznos streaming gomb is elérhető:
@@ -63,7 +63,7 @@ Ha az AirPlay-t részesíted előnyben, keresd az AirPlay gombot a hanglejátsz�
 ## Hangequalizer
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="10 sávos hangequalizer" image="/docs/guide/evermusic/evermusic-guide-player/img/player-equalizer.webp" >}}
+  {{< ls-card title="" subtitle="10 sávos hangequalizer" image="/docs/guide/evermusic/evermusic-guide-player/img/player-equalizer.webp" >}}
 {{< /cards >}}
 
 Az Evermusic tartalmaz egy 10 sávos hangszínszabályozót, iPod stílusú előbeállításokkal, előerősítővel és kézi hangszínszabályozó beállításokkal. Az hangszínszabályozó aktiválásához egyszerűen koppints az alsó eszköztár „Hangszínszabályozó" gombjára, és kapcsold be a jobb felső sarokban lévő kapcsolót. Kiválaszthatsz számos előre definiált hangszínszabályozó előbeállítás közül, például „Akusztikus", „Basszuserősítő", „Klasszikus" és más lehetőségek. Ha hangrajongó vagy, értékelni fogod a lehetőséget, hogy minden frekvenciasávot finomhangolhatsz csúszkákkal. Létrehozhatsz és elmenthetsz saját hangszínszabályozó előbeállításokat. Ha egy szám nem elég hangos, a preamplifier erősítőt is módosíthatod. Részletesebb utasítások az hangszínszabályozó használatáról [itt](/docs/howto/how-to-use-the-audio-equalizer-on-your-iphone-ipad-mac-with-evermusic-and-flacbox) találhatók.
@@ -71,7 +71,7 @@ Az Evermusic tartalmaz egy 10 sávos hangszínszabályozót, iPod stílusú elő
 ## Lejátszómód eszköztár
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Lejátszó felső eszköztár keresési és sebességvezérlővel" image="/docs/guide/evermusic/evermusic-guide-player/img/player-top-toolbar.webp" >}}
+  {{< ls-card title="" subtitle="Lejátszó felső eszköztár keresési és sebességvezérlővel" image="/docs/guide/evermusic/evermusic-guide-player/img/player-top-toolbar.webp" >}}
 {{< /cards >}}
 
 Néhány kiválasztott lejátszóképernyő-stílusnál a lejátszóképernyő tetején, a navigációs sáv alatt egy lejátszómód eszköztár található. Ez a hasznos eszköztár három gombot tartalmaz.
@@ -82,7 +82,7 @@ Néhány kiválasztott lejátszóképernyő-stílusnál a lejátszóképernyő t
 ## Hangos könyvjelzők
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Hangos könyvjelzők hangoskönyvekhez és előadásokhoz" image="/docs/guide/evermusic/evermusic-guide-player/img/player-bookmarks.webp" >}}
+  {{< ls-card title="" subtitle="Hangos könyvjelzők hangoskönyvekhez és előadásokhoz" image="/docs/guide/evermusic/evermusic-guide-player/img/player-bookmarks.webp" >}}
 {{< /cards >}}
 
 Itt több könyvjelzőt hozhatsz létre a zenei könyvtárban lévő számokhoz. Teljes útmutató a könyvjelzők használatáról [itt](/docs/howto/how-to-listen-to-audiobooks-on-iphone-ipad-mac-using-evermusic) található.
@@ -90,7 +90,7 @@ Itt több könyvjelzőt hozhatsz létre a zenei könyvtárban lévő számokhoz.
 ## Lejátszóvárólistá
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Lejátszóvárólistá" image="/docs/guide/evermusic/evermusic-guide-player/img/player-queue.webp" >}}
+  {{< ls-card title="" subtitle="Lejátszóvárólistá" image="/docs/guide/evermusic/evermusic-guide-player/img/player-queue.webp" >}}
 {{< /cards >}}
 
 A lejátszóvárólistád eléréséhez egyszerűen koppints az alsó eszköztáron lévő lejátszóvárólistá gombra. Egy dal sorrendjének módosításához használd a cím melletti átrendezési jelzőt.
@@ -98,7 +98,7 @@ A lejátszóvárólistád eléréséhez egyszerűen koppints az alsó eszköztá
 ## Megjegyzések / Dalszövegek
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Megjegyzések, beágyazott dalszövegek és LRC fájlok" image="/docs/guide/evermusic/evermusic-guide-player/img/player-lyrics.webp" >}}
+  {{< ls-card title="" subtitle="Megjegyzések, beágyazott dalszövegek és LRC fájlok" image="/docs/guide/evermusic/evermusic-guide-player/img/player-lyrics.webp" >}}
 {{< /cards >}}
 
 A szám megjegyzéseinek és beágyazott dalszövegeinek, valamint az LRC fájloknak a megtekintéséhez kövesd az alábbi lépéseket:
@@ -114,7 +114,7 @@ Teljes útmutató a dalszövegek megtekintéséről [itt](/docs/howto/how-to-vie
 ## Opciók menü
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Várólistaelement opciók menüje" image="/docs/guide/evermusic/evermusic-guide-player/img/player-queue-item-options-menu.webp" >}}
+  {{< ls-card title="" subtitle="Várólistaelement opciók menüje" image="/docs/guide/evermusic/evermusic-guide-player/img/player-queue-item-options-menu.webp" >}}
 {{< /cards >}}
 
 A hanglejátszó várólistán lévő minden dalhoz van egy menü több művelettel, amelyet a dal cím melletti három pont gombra koppintva érhetsz el. Az elérhető műveletek:
@@ -153,7 +153,7 @@ Koppints a jelenleg lejátszott dal cím bal oldalán lévő további műveletek
 ## Legutóbbiak és Kedvencek
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Nemrég lejátszott dalok a lejátszóból" image="/docs/guide/evermusic/evermusic-guide-player/img/player-recents.webp" >}}
+  {{< ls-card title="" subtitle="Nemrég lejátszott dalok a lejátszóból" image="/docs/guide/evermusic/evermusic-guide-player/img/player-recents.webp" >}}
 {{< /cards >}}
 
 A lejátszóképernyőn a „Legutóbbiak" és „Kedvencek" szekciókat a Több műveletek gomb „…" megnyomásával és a megfelelő menüpont kiválasztásával érheted el. Mindkét szekcióban kereshetsz dalokat, lejátszhatod az összes számot, összekeverheted az összes számot, exportálhatod és törölheted a listát. Részletes útmutatók a dallisták exportálásáról [itt](/docs/howto/export-tracks-collection-from-evermusic-flacbox-to-m3u-csv-txt/) találhatók.
@@ -161,7 +161,7 @@ A lejátszóképernyőn a „Legutóbbiak" és „Kedvencek" szekciókat a Több
 ## Mini lejátszó ablak (csak Mac)
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Mac mini lejátszó ablak" image="/docs/guide/evermusic/evermusic-guide-player/img/player-mini-mac.webp" >}}
+  {{< ls-card title="" subtitle="Mac mini lejátszó ablak" image="/docs/guide/evermusic/evermusic-guide-player/img/player-mini-mac.webp" >}}
 {{< /cards >}}
 
 Mac felhasználóknak van egy hasznos mini-lejátszó ablak. Az eléréséhez egyszerűen mozgasd a kurzort az alkalmazásablak jobb alsó szélére, és méretezd a lehető legkisebb méretre. Ezután koppints az összecsukó gombra (lefele mutató nyíl jelzi), hogy aktiváld a mini-lejátszó ablakot. Ha más ablakok felett szeretnéd tartani, lépj a Mac felső menüsorába, válaszd az „Ablak" lehetőséget, és válaszd a „Mindig felső ablak megjelenítése" opciót. Ez a funkció különösen kényelmes, ha hangos előadásokat hallgatsz, és nem szeretnél megszakításokat.
@@ -169,7 +169,7 @@ Mac felhasználóknak van egy hasznos mini-lejátszó ablak. Az eléréséhez eg
 ## Billentyűparancsok (csak Mac)
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Mac állapotsáv lejátszási menüje billentyűparancsokkal" image="/docs/guide/evermusic/evermusic-guide-player/img/player-mac-shortcuts.webp" >}}
+  {{< ls-card title="" subtitle="Mac állapotsáv lejátszási menüje billentyűparancsokkal" image="/docs/guide/evermusic/evermusic-guide-player/img/player-mac-shortcuts.webp" >}}
 {{< /cards >}}
 
 Mac felhasználóknak van egy rendszer lejátszási menü az állapotsávon billentyűparancsokkal. Például a lejátszáshoz/szüneteltetéshez egyszerűen nyomd meg a szóköz billentyűt a billentyűzeten. A Leállítás, Következő szám, Előző szám, Időugrás, Ismétlés, Keverés és Lejátszási sebesség parancsai elérhetők, ahogy a képernyőképen is látható.
@@ -177,7 +177,7 @@ Mac felhasználóknak van egy rendszer lejátszási menü az állapotsávon bill
 ## Hanglejátszó beállítások
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Hanglejátszó beállítások" image="/docs/guide/evermusic/evermusic-guide-player/img/player-settings.webp" >}}
+  {{< ls-card title="" subtitle="Hanglejátszó beállítások" image="/docs/guide/evermusic/evermusic-guide-player/img/player-settings.webp" >}}
 {{< /cards >}}
 
 A hanglejátszó beállításainak eléréséhez koppints a Több gombra a hanglejátszó képernyőn, és válaszd a „Beállítások" lehetőséget a legördülő menüből. Különböző szakaszokat találsz, amelyek funkcionalitás szerint csoportosítottak:

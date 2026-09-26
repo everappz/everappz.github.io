@@ -16,15 +16,15 @@ screenshots:
   - "https://everappz.com/products/flacbox/screenshots/2048x2732/6.png"
 ---
 
-{{% sr-only %}}
+{{% ls-sr-only %}}
 Flacbox는 스페인 소프트웨어 회사인 Everappz가 개발한 iPhone 및 Mac용 하이레즈 오디오 플레이어입니다. 전 세계적으로 100만 회 이상 다운로드된 Flacbox는 포맷 변환 없이 Apple 기기에서 무손실 및 고해상도 오디오 파일을 재생하고자 하는 오디오파일과 음악 애호가를 위해 설계되었습니다. 이 앱은 FLAC, DSD(DSD64, DSD128, DSD256), ALAC, APE, WAV, AIFF, OGG, OPUS, WMA, MKA, MP3, AAC 등 120개 이상의 오디오 형식을 기본적으로 지원합니다. Flacbox는 iCloud Drive, Google Drive, Dropbox, OneDrive, MEGA, Box, pCloud를 포함한 30개 이상의 클라우드 저장 서비스에 연결하여 사용자가 클라우드에서 직접 하이레즈 음악 컬렉션을 스트리밍하거나 오프라인 재생을 위해 파일을 다운로드할 수 있습니다. 주요 기능으로는 사용자 정의 프리셋이 포함된 10밴드 오디오 이퀄라이저, 크로스페이드 및 끊김 없는 재생, 피치 및 속도 조절, 베이스 부스트, M3U 재생 목록 가져오기/내보내기, 가사 표시, 오디오 북마크, 내장 메타데이터 태그 편집기, Apple CarPlay 통합, AirPlay 및 Chromecast 스트리밍, Last.fm 스크로블링이 있습니다. 또한 SMB, WebDAV, DLNA 프로토콜을 통한 로컬 네트워크 스트리밍, USB 플래시 드라이브 재생, Wi-Fi 파일 전송도 지원합니다. Flacbox는 App Store에서 무료로 다운로드할 수 있으며, 월 $4.99 구독, 연간 $19.99 구독, 또는 $59.99 일회성 평생 구매를 포함한 선택적 인앱 구매가 제공됩니다. 이 앱은 2016년에 처음 출시되었으며 정기적인 업데이트를 통해 적극적으로 유지 관리되고 있습니다.
-{{% /sr-only %}}
+{{% /ls-sr-only %}}
 
 
 <!-- force dark theme for this page -->
-{{< force-dark >}}
+{{< ls-force-dark >}}
 
-{{< hextra/hero-container
+{{< ls-hero-container
   image="/products/flacbox/heroimage/hero_1600.png"
   imageWidth="800"
   imageCard="true"
@@ -32,36 +32,36 @@ Flacbox는 스페인 소프트웨어 회사인 Everappz가 개발한 iPhone 및 
 
 <div class="hx:w-full hx:text-center">
 
-{{< downloads-badge >}}
+{{< ls-downloads-badge >}}
 
 <div class="hx:mt-6 hx:mb-6">
 <div class="hx:flex hx:gap-4 hx:items-center hx:justify-center">
-{{< app-icon src="/images/app_icons/png/Flacbox_Icon-App-1024x1024.png" alt="Flacbox Icon" class="hero-headline-icon" size="80" >}}
-{{< hextra/hero-headline >}}
+{{< ls-app-icon src="/images/app_icons/png/Flacbox_Icon-App-1024x1024.png" alt="Flacbox Icon" class="hero-headline-icon" size="80" >}}
+{{< ls-hero-headline >}}
 Flacbox
-{{< /hextra/hero-headline >}}
+{{< /ls-hero-headline >}}
 </div>
 </div>
 
 <div class="hx:mb-12">
-{{< hextra/hero-centered-subtitle >}}
+{{< ls-hero-centered-subtitle >}}
 <strong>iPhone 및 MAC용 하이레스 오디오 플레이어 및 스트리머</strong>
-{{< /hextra/hero-centered-subtitle >}}
+{{< /ls-hero-centered-subtitle >}}
 </div>
 
 <div class="hx:mb-6">
-{{< hextra/hero-paragraph >}}
+{{< ls-hero-paragraph >}}
 • FLAC, ALAC, APE, DSD 등을 무손실 품질로 재생  
 • 음악을 다운로드하고 완전한 제어로 오프라인 청취  
 • Google Drive, Dropbox, NAS 또는 컴퓨터에서 스트리밍   
-{{< /hextra/hero-paragraph >}}
+{{< /ls-hero-paragraph >}}
 </div>
 
-{{< app-store-badges products="flacbox:ios, flacbox:macos" >}}
+{{< ls-app-store-badges products="flacbox:ios, flacbox:macos" >}}
 
 </div>
 
-{{< /hextra/hero-container >}}
+{{< /ls-hero-container >}}
 
 <div class="hx:mt-6"></div>
 
@@ -69,7 +69,7 @@ Flacbox
 
 {{< hextra/feature-grid >}}
 
-  {{< hextra/feature-card
+  {{< ls-glass-feature-card
     title="무손실 음악 스트리밍"
     subtitle=`구독 없이 iPhone, iPad, Mac에서 무손실 음악을 즐기세요.<br><br>
 클라우드 스토리지를 연결하여 FLAC, ALAC, MKA 등을 무료로 스트리밍하세요. Chromecast 및 AirPlay 기기로 간편하게 캐스트하세요.<br><br>
@@ -78,7 +78,7 @@ Flacbox
     style="background: radial-gradient(circle at 50% 80%, rgba(99,102,241,0.15), transparent);"
   >}}
 
-  {{< hextra/feature-card
+  {{< ls-glass-feature-card
     title="하이레스 오디오 재생"
     subtitle=`FLAC, ALAC, WAV, AIFF, DSD를 포함한 120가지 이상의 오디오 포맷을 지원하여 스튜디오 품질의 사운드를 즐기세요.<br><br>
 Flacbox는 MP3, AAC, OGG, APE, MOD, MKA 및 MKV, MP4, MOV와 같은 고급 컨테이너도 재생합니다.<br><br>
@@ -87,7 +87,7 @@ Flacbox는 MP3, AAC, OGG, APE, MOD, MKA 및 MKV, MP4, MOV와 같은 고급 컨�
     style="background: radial-gradient(circle at 50% 80%, rgba(236,72,153,0.15), transparent);"
   >}}
 
-  {{< hextra/feature-card
+  {{< ls-glass-feature-card
     title="다운로드 후 오프라인 청취"
     subtitle=`오프라인에서도 음악과 연결을 유지하세요.<br><br>
 전체 앨범, 장르, 재생목록, 트랙을 기기에 다운로드하세요. Wi-Fi Drive 또는 iTunes 파일 공유를 사용하여 Mac이나 PC에서 오디오를 전송하세요.<br><br>
@@ -102,9 +102,9 @@ USB 플래시 드라이브나 네트워크 스토리지(NAS)에서 스트리밍�
 
 <div class="hx:mt-6"></div>
 
-{{< hextra/section-headline >}}
+{{< ls-section-headline >}}
 올인클루시브 기능
-{{< /hextra/section-headline >}}
+{{< /ls-section-headline >}}
 
 <div class="hx:mt-6"></div>
 
@@ -112,41 +112,41 @@ USB 플래시 드라이브나 네트워크 스토리지(NAS)에서 스트리밍�
 
 {{< cards >}}
 
-  {{< feature-card title="오디오 품질" subtitle="8 kHz에서 384 kHz까지의 샘플레이트, 기본 또는 혼합 출력 모드, 1에서 7개의 오디오 채널 지원으로 고음질 출력을 즐기세요." icon="volume-up" >}}
-  {{< feature-card title="무손실 및 하이레스 오디오" subtitle="FLAC, ALAC, WAV, AIFF, APE, WV, DSF(DSD) 같은 무손실 및 하이레스 포맷은 물론 MP3, AAC, OGG, OPUS까지 최대 384 kHz 샘플레이트로 재생합니다." icon="music-note" >}}
-  {{< feature-card title="트래커 및 MOD 음악" subtitle="칩튠과 데모신에서 유래한 MOD, XM, IT, S3M 포맷을 포함해 대부분의 플레이어가 열지 못하는 클래식 트래커 및 모듈 음악을 기본으로 재생합니다." icon="table" >}}
+  {{< ls-feature-card title="오디오 품질" subtitle="8 kHz에서 384 kHz까지의 샘플레이트, 기본 또는 혼합 출력 모드, 1에서 7개의 오디오 채널 지원으로 고음질 출력을 즐기세요." icon="volume-up" >}}
+  {{< ls-feature-card title="무손실 및 하이레스 오디오" subtitle="FLAC, ALAC, WAV, AIFF, APE, WV, DSF(DSD) 같은 무손실 및 하이레스 포맷은 물론 MP3, AAC, OGG, OPUS까지 최대 384 kHz 샘플레이트로 재생합니다." icon="music-note" >}}
+  {{< ls-feature-card title="트래커 및 MOD 음악" subtitle="칩튠과 데모신에서 유래한 MOD, XM, IT, S3M 포맷을 포함해 대부분의 플레이어가 열지 못하는 클래식 트래커 및 모듈 음악을 기본으로 재생합니다." icon="table" >}}
 
-  {{< feature-card title="오디오 엔진" subtitle="표준 시스템 엔진, 다재다능한 FFmpeg 엔진, 그리고 이펙트와 DSP, 비주얼을 열어주는 전문가용 BASS™ 엔진 중에서 재생 엔진을 선택하세요." icon="switch-horizontal" >}}
-  {{< feature-card title="오디오 이펙트" subtitle="리버브, 딜레이, 에코, 코러스, 플랜저, 페이저, 오토와우, 디스토션, 컴프레서, 자연스러운 헤드폰 크로스피드로 실시간으로 사운드를 다듬으세요." icon="lightning-bolt" >}}
-  {{< feature-card title="DSP 체인" subtitle="전문가용 필터와 EQ 밴드, 새추레이션과 비트 크러셔, 트레몰로와 스테레오 폭 같은 창의적인 프로세서로 나만의 실시간 시그널 체인을 구성하세요." icon="chip" >}}
+  {{< ls-feature-card title="오디오 엔진" subtitle="표준 시스템 엔진, 다재다능한 FFmpeg 엔진, 그리고 이펙트와 DSP, 비주얼을 열어주는 전문가용 BASS™ 엔진 중에서 재생 엔진을 선택하세요." icon="switch-horizontal" >}}
+  {{< ls-feature-card title="오디오 이펙트" subtitle="리버브, 딜레이, 에코, 코러스, 플랜저, 페이저, 오토와우, 디스토션, 컴프레서, 자연스러운 헤드폰 크로스피드로 실시간으로 사운드를 다듬으세요." icon="lightning-bolt" >}}
+  {{< ls-feature-card title="DSP 체인" subtitle="전문가용 필터와 EQ 밴드, 새추레이션과 비트 크러셔, 트레몰로와 스테레오 폭 같은 창의적인 프로세서로 나만의 실시간 시그널 체인을 구성하세요." icon="chip" >}}
 
-  {{< feature-card title="오디오 이퀄라이저" subtitle="멀티밴드 이퀄라이저, 장르별 프리셋, 수동 조절, 그리고 클리핑 없이 조용한 트랙을 키우는 프리앰프 게인으로 사운드를 정밀하게 조정하세요." icon="adjustments" >}}
-  {{< feature-card title="음악 비주얼라이저" subtitle="음악에 실시간으로 반응하는 전체 화면 애니메이션 비주얼을 감상하세요. 다양한 프리셋 라이브러리에서 고르거나 자동으로 순환시킬 수 있습니다." icon="sparkles" >}}
-  {{< feature-card title="재생 컨트롤" subtitle="피치를 바꾸지 않고 재생 속도를 조절하고, 대기열과 위치를 저장 및 복원하며, 수면 타이머, 셔플, 반복, 백그라운드 재생을 사용하세요." icon="play" >}}
+  {{< ls-feature-card title="오디오 이퀄라이저" subtitle="멀티밴드 이퀄라이저, 장르별 프리셋, 수동 조절, 그리고 클리핑 없이 조용한 트랙을 키우는 프리앰프 게인으로 사운드를 정밀하게 조정하세요." icon="adjustments" >}}
+  {{< ls-feature-card title="음악 비주얼라이저" subtitle="음악에 실시간으로 반응하는 전체 화면 애니메이션 비주얼을 감상하세요. 다양한 프리셋 라이브러리에서 고르거나 자동으로 순환시킬 수 있습니다." icon="sparkles" >}}
+  {{< ls-feature-card title="재생 컨트롤" subtitle="피치를 바꾸지 않고 재생 속도를 조절하고, 대기열과 위치를 저장 및 복원하며, 수면 타이머, 셔플, 반복, 백그라운드 재생을 사용하세요." icon="play" >}}
 
-  {{< feature-card title="클라우드 스트리밍" subtitle="iCloud Drive, Google Drive, Dropbox, OneDrive, Box, MEGA, pCloud는 물론 Internxt, Proton Drive 같은 프라이버시 중심 클라우드에서 직접 스트리밍하세요." icon="cloud" >}}
-  {{< feature-card title="미디어 서버" subtitle="Plex, Subsonic, Navidrome, Jellyfin, Emby를 포함한 개인 미디어 서버에 연결하여 전체 음악 라이브러리를 열고 스트리밍하세요." icon="server" >}}
-  {{< feature-card title="컴퓨터 및 NAS" subtitle="SMB, WebDAV, DLNA, FTP, SFTP, NFS로 컴퓨터나 NAS에 연결하며 QNAP, Synology, Nextcloud, WD My Cloud Home을 기본으로 지원합니다." icon="desktop-computer" >}}
+  {{< ls-feature-card title="클라우드 스트리밍" subtitle="iCloud Drive, Google Drive, Dropbox, OneDrive, Box, MEGA, pCloud는 물론 Internxt, Proton Drive 같은 프라이버시 중심 클라우드에서 직접 스트리밍하세요." icon="cloud" >}}
+  {{< ls-feature-card title="미디어 서버" subtitle="Plex, Subsonic, Navidrome, Jellyfin, Emby를 포함한 개인 미디어 서버에 연결하여 전체 음악 라이브러리를 열고 스트리밍하세요." icon="server" >}}
+  {{< ls-feature-card title="컴퓨터 및 NAS" subtitle="SMB, WebDAV, DLNA, FTP, SFTP, NFS로 컴퓨터나 NAS에 연결하며 QNAP, Synology, Nextcloud, WD My Cloud Home을 기본으로 지원합니다." icon="desktop-computer" >}}
 
-  {{< feature-card title="USB 플래시 카드" subtitle="SanDisk iXpand 같은 외장 리더를 사용해 SD 카드와 USB 플래시 드라이브에서 바로 음악을 재생하며, 가져오기나 동기화가 필요 없습니다." icon="inbox" >}}
-  {{< feature-card title="AirPlay 및 Chromecast" subtitle="내장 AirPlay, AirPlay 2, Google Chromecast 지원으로 Apple TV, HomePod, 스마트 스피커 등에 음악을 무선으로 전송하세요." icon="device-mobile" >}}
-  {{< feature-card title="Apple CarPlay" subtitle="클라우드, 로컬, 오프라인 소스에서 음악을 선택하고 제어할 수 있는 간편한 전용 Apple CarPlay 화면으로 안전하게 운전하며 감상하세요." icon="map" >}}
+  {{< ls-feature-card title="USB 플래시 카드" subtitle="SanDisk iXpand 같은 외장 리더를 사용해 SD 카드와 USB 플래시 드라이브에서 바로 음악을 재생하며, 가져오기나 동기화가 필요 없습니다." icon="inbox" >}}
+  {{< ls-feature-card title="AirPlay 및 Chromecast" subtitle="내장 AirPlay, AirPlay 2, Google Chromecast 지원으로 Apple TV, HomePod, 스마트 스피커 등에 음악을 무선으로 전송하세요." icon="device-mobile" >}}
+  {{< ls-feature-card title="Apple CarPlay" subtitle="클라우드, 로컬, 오프라인 소스에서 음악을 선택하고 제어할 수 있는 간편한 전용 Apple CarPlay 화면으로 안전하게 운전하며 감상하세요." icon="map" >}}
 
-  {{< feature-card title="오프라인 청취" subtitle="노래, 앨범, 아티스트 전체를 다운로드하여 인터넷 없이 듣거나, 오디오 캐시를 켜서 최근 재생한 트랙을 자동으로 저장하세요." icon="download" >}}
-  {{< feature-card title="자동 동기화" subtitle="클라우드 스토리지와 로컬 폴더 간에 라이브러리를 자동으로 동기화하여 새로 추가된 파일이 수동 작업 없이 나타나게 하세요." icon="refresh" >}}
-  {{< feature-card title="미디어 라이브러리" subtitle="음악을 추가하면 파일에 내장된 태그를 사용하여 앨범, 아티스트, 앨범 아티스트, 장르, 작곡가별로 자동으로 정리됩니다." icon="library" >}}
+  {{< ls-feature-card title="오프라인 청취" subtitle="노래, 앨범, 아티스트 전체를 다운로드하여 인터넷 없이 듣거나, 오디오 캐시를 켜서 최근 재생한 트랙을 자동으로 저장하세요." icon="download" >}}
+  {{< ls-feature-card title="자동 동기화" subtitle="클라우드 스토리지와 로컬 폴더 간에 라이브러리를 자동으로 동기화하여 새로 추가된 파일이 수동 작업 없이 나타나게 하세요." icon="refresh" >}}
+  {{< ls-feature-card title="미디어 라이브러리" subtitle="음악을 추가하면 파일에 내장된 태그를 사용하여 앨범, 아티스트, 앨범 아티스트, 장르, 작곡가별로 자동으로 정리됩니다." icon="library" >}}
 
-  {{< feature-card title="사용자 정의 재생목록" subtitle="나만의 재생목록을 만들고 편집하고 재정렬하며, 오프라인으로 사용할 수 있게 하고 M3U, M3U8, CUE 포맷으로 가져오거나 내보내세요." icon="collection" >}}
-  {{< feature-card title="파일 관리자" subtitle="내장 파일 관리자로 음악을 관리하며 복사, 이동, 이름 변경, 삭제 같은 일상적인 작업을 처리해 파일을 정돈된 상태로 유지하세요." icon="folder" >}}
-  {{< feature-card title="ID3 태그 편집기" subtitle="내장 ID3 태그 편집기로 잘못되거나 누락된 메타데이터를 수정하고 제목, 아티스트, 앨범, 장르 등을 몇 번의 탭으로 업데이트하세요." icon="pencil-alt" >}}
+  {{< ls-feature-card title="사용자 정의 재생목록" subtitle="나만의 재생목록을 만들고 편집하고 재정렬하며, 오프라인으로 사용할 수 있게 하고 M3U, M3U8, CUE 포맷으로 가져오거나 내보내세요." icon="collection" >}}
+  {{< ls-feature-card title="파일 관리자" subtitle="내장 파일 관리자로 음악을 관리하며 복사, 이동, 이름 변경, 삭제 같은 일상적인 작업을 처리해 파일을 정돈된 상태로 유지하세요." icon="folder" >}}
+  {{< ls-feature-card title="ID3 태그 편집기" subtitle="내장 ID3 태그 편집기로 잘못되거나 누락된 메타데이터를 수정하고 제목, 아티스트, 앨범, 장르 등을 몇 번의 탭으로 업데이트하세요." icon="pencil-alt" >}}
 
-  {{< feature-card title="고급 검색" subtitle="아주 큰 음악 라이브러리를 위해 만들어진 스마트하고 빠른 검색으로 전체 컬렉션에서 노래, 아티스트, 앨범을 빠르게 찾으세요." icon="search" >}}
-  {{< feature-card title="빠른 액세스" subtitle="최근 재생, 즐겨찾기, 북마크로 중요한 항목에 바로 돌아가, 자주 듣는 트랙을 언제나 한 번의 탭으로 이용하세요." icon="clock" >}}
-  {{< feature-card title="가사 및 댓글" subtitle="재생 중인 각 트랙 안에서 시간 동기화 가사와 곡 메모를 확인하고, 홈 화면에 가사 위젯을 추가해 한눈에 빠르게 확인하세요." icon="annotation" >}}
+  {{< ls-feature-card title="고급 검색" subtitle="아주 큰 음악 라이브러리를 위해 만들어진 스마트하고 빠른 검색으로 전체 컬렉션에서 노래, 아티스트, 앨범을 빠르게 찾으세요." icon="search" >}}
+  {{< ls-feature-card title="빠른 액세스" subtitle="최근 재생, 즐겨찾기, 북마크로 중요한 항목에 바로 돌아가, 자주 듣는 트랙을 언제나 한 번의 탭으로 이용하세요." icon="clock" >}}
+  {{< ls-feature-card title="가사 및 댓글" subtitle="재생 중인 각 트랙 안에서 시간 동기화 가사와 곡 메모를 확인하고, 홈 화면에 가사 위젯을 추가해 한눈에 빠르게 확인하세요." icon="annotation" >}}
 
-  {{< feature-card title="위젯" subtitle="재생 대기열을 보여주고 마지막으로 멈춘 지점에서 그대로 이어갈 수 있는 홈 화면 위젯을 추가하세요." icon="view-grid" >}}
-  {{< feature-card title="오디오북 지원" subtitle="북마크, 수면 타이머, 조절 가능한 속도, 그리고 마지막으로 멈춘 지점에서 이어지는 재생 재개 기능으로 오디오북을 들으세요." icon="book-open" >}}
-  {{< feature-card title="Last.fm 연동" subtitle="Last.fm 계정을 연결하여 트랙을 스크로블하고, 청취 통계를 따라가며, 시간이 지나면서 개인화된 음악 추천을 받으세요." icon="chart-bar" >}}
+  {{< ls-feature-card title="위젯" subtitle="재생 대기열을 보여주고 마지막으로 멈춘 지점에서 그대로 이어갈 수 있는 홈 화면 위젯을 추가하세요." icon="view-grid" >}}
+  {{< ls-feature-card title="오디오북 지원" subtitle="북마크, 수면 타이머, 조절 가능한 속도, 그리고 마지막으로 멈춘 지점에서 이어지는 재생 재개 기능으로 오디오북을 들으세요." icon="book-open" >}}
+  {{< ls-feature-card title="Last.fm 연동" subtitle="Last.fm 계정을 연결하여 트랙을 스크로블하고, 청취 통계를 따라가며, 시간이 지나면서 개인화된 음악 추천을 받으세요." icon="chart-bar" >}}
 
 {{< /cards >}}
 
@@ -154,9 +154,9 @@ USB 플래시 드라이브나 네트워크 스토리지(NAS)에서 스트리밍�
 
 <div class="hx:mt-6"></div>
 
-{{< hextra/section-headline >}}
+{{< ls-section-headline >}}
 직관적인 디자인
-{{< /hextra/section-headline >}}
+{{< /ls-section-headline >}}
 
 <div class="hx:mt-6"></div>
 
@@ -164,7 +164,7 @@ USB 플래시 드라이브나 네트워크 스토리지(NAS)에서 스트리밍�
 
 {{< cards cols="4">}}
 
-  {{< design-feature-card 
+  {{< ls-design-feature-card 
     image="/products/flacbox/screenshots/2048x2732/1.png" 
     title="오디오 플레이어" 
     method="Fill"
@@ -173,7 +173,7 @@ USB 플래시 드라이브나 네트워크 스토리지(NAS)에서 스트리밍�
     icon="play"
   >}}
 
-  {{< design-feature-card 
+  {{< ls-design-feature-card 
     image="/products/flacbox/screenshots/2048x2732/2.png"  
     title="오디오 이퀄라이저" 
     method="Fill"
@@ -182,7 +182,7 @@ USB 플래시 드라이브나 네트워크 스토리지(NAS)에서 스트리밍�
     icon="adjustments"
   >}}
 
-  {{< design-feature-card 
+  {{< ls-design-feature-card 
     image="/products/flacbox/screenshots/2048x2732/3.png"  
     title="재생목록 관리자" 
     method="Fill"
@@ -191,7 +191,7 @@ USB 플래시 드라이브나 네트워크 스토리지(NAS)에서 스트리밍�
     icon="collection"
   >}}
 
-  {{< design-feature-card 
+  {{< ls-design-feature-card 
     image="/products/flacbox/screenshots/2048x2732/5.png"  
     title="미디어 라이브러리" 
     method="Fill"
@@ -200,7 +200,7 @@ USB 플래시 드라이브나 네트워크 스토리지(NAS)에서 스트리밍�
     icon="library"
   >}}
 
-  {{< design-feature-card 
+  {{< ls-design-feature-card 
     image="/products/flacbox/screenshots/2048x2732/7.png"  
     title="클라우드 스토리지" 
     method="Fill"
@@ -209,7 +209,7 @@ USB 플래시 드라이브나 네트워크 스토리지(NAS)에서 스트리밍�
     icon="cloud"
   >}}
 
-  {{< design-feature-card 
+  {{< ls-design-feature-card 
     image="/products/flacbox/screenshots/2048x2732/8.png"  
     title="iCloud Drive" 
     method="Fill"
@@ -227,48 +227,48 @@ USB 플래시 드라이브나 네트워크 스토리지(NAS)에서 스트리밍�
 <div class="hx:mt-6"></div>
 
 <div class="hx:w-full">
-{{< appstore-reviews apps="1097564256,1594027432" stars="5,4"  app="Flacbox" >}}
+{{< ls-appstore-reviews apps="1097564256,1594027432" stars="5,4"  app="Flacbox" >}}
 </div>
 
 <div class="hx:mt-6"></div>
 
-{{< hextra/section-headline >}}
+{{< ls-section-headline >}}
    요금제
-{{< /hextra/section-headline >}}
+{{< /ls-section-headline >}}
 
 <div class="hx:mt-6"></div>
 
 <div class="hx:w-full">
 
-{{< pricing-plans >}}
+{{< ls-pricing-plans >}}
 
 </div>
 
 <div class="hx:mt-6"></div>
 
 <div class="hx:w-full hx:mx-auto hx:flex hx:flex-col hx:items-center">
-  {{< hextra/info-paragraph border="true" >}}
+  {{< ls-info-paragraph border="true" >}}
    <strong>가족 공유</strong>: 모든 구매 및 구독은 가족 공유를 지원하여 가족과 프리미엄 액세스를 공유할 수 있습니다.<br><strong>유니버설 액세스</strong>: 평생 및 구독 플랜은 iCloud 동기화를 통해 iOS와 Mac 기기 간에 공유됩니다.<br><strong>가격</strong>: 가격은 미국 기준 미국 달러로 표시됩니다. 최종 가격은 지역에 따라 다를 수 있습니다.  
-  {{< /hextra/info-paragraph >}}
+  {{< /ls-info-paragraph >}}
 </div>
 
 <div class="hx:mt-6"></div>
 
 <div class="hx:w-full">
-{{< app-details heading="true" >}}
+{{< ls-app-details heading="true" >}}
 </div>
 
 <div class="hx:mt-6"></div>
 
-{{< hextra/section-headline >}}
+{{< ls-section-headline >}}
    자주 묻는 질문
-{{< /hextra/section-headline >}}
+{{< /ls-section-headline >}}
 
 <div class="hx:mt-6"></div>
 
 <div class="hx:w-full">
 
-{{% details title="Flacbox는 어떻게 작동하나요?" closed="true" %}}
+{{% ls-details title="Flacbox는 어떻게 작동하나요?" closed="true" %}}
 Flacbox는 오디오 트랙을 일반 파일처럼 관리할 수 있는 하이레스 음악 플레이어입니다.<br>
 전체 음악 컬렉션을 Dropbox, Google Drive 또는 개인 NAS와 같은 클라우드 서비스에 업로드하고 완전한 제어로 클라우드에서 직접 음악을 재생할 수 있습니다.<br><br>
 iTunes 동기화가 필요 없습니다. 일반 파일처럼 PC나 Mac에서 업로드하기만 하면 됩니다.<br>
@@ -282,9 +282,9 @@ iTunes 동기화가 필요 없습니다. 일반 파일처럼 PC나 Mac에서 업
 - [WiFi-Drive를 사용하여 컴퓨터에서 iPhone으로 무선으로 파일을 전송하는 방법.](/docs/howto/how-to-transfer-files-wirelessly-from-a-computer-to-an-iphone-using-wifi-drive)<br>
 - [USB 플래시 카드를 iPhone에 연결하고 음악을 듣거나 파일을 관리하는 방법.](/docs/howto/how-to-connect-a-usb-flashcard-to-the-iphone-and-listen-to-music-or-manage-files-located-on-it)<br>
 - [WD My Cloud Home에서 iPhone으로 음악을 재생하는 방법.](/docs/howto/how-to-play-music-on-iphone-from-wd-my-cloud-home)
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Flacbox는 무료인가요?" closed="true" %}}
+{{% ls-details title="Flacbox는 무료인가요?" closed="true" %}}
 Flacbox는 일부 제한이 있는 무료로 사용할 수 있으며, 프리미엄 버전으로 업그레이드하면 제한을 해제할 수 있습니다.<br>
 일회성 평생 구매 또는 두 가지 구독 옵션(월간 또는 연간) 중에서 선택할 수 있습니다. 가격은 지역에 따라 다를 수 있습니다.<br><br>
 
@@ -293,9 +293,9 @@ Flacbox는 일부 제한이 있는 무료로 사용할 수 있으며, 프리미�
 프리미엄 구매 및 구독은 iCloud를 통해 iOS와 Mac 간에 공유됩니다. 구매를 동기화하려면 iCloud가 활성화되어 있는지 확인하고 iOS 기기에서 앱을 열고 동기화가 완료될 때까지 1분 정도 기다리세요.<br><br>
 
 [Flacbox와 Flacbox Premium의 차이점에 대해 자세히 읽기](/docs/faq/flacbox/what-is-the-difference-between-flacbox-and-flacbox-premium/)
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Flacbox와 Evermusic의 차이점은 무엇인가요?" closed="true" %}}
+{{% ls-details title="Flacbox와 Evermusic의 차이점은 무엇인가요?" closed="true" %}}
 **Flacbox**는 iPhone에서 기본적으로 지원되지 않는 WMA, OGG, M4A, DSD 등 많은 추가 포맷과 함께 모든 기본 iOS 오디오 포맷을 지원하도록 만들어졌습니다.<br>
 거의 모든 포맷을 처리하는 사용자 정의 오디오 엔진을 사용하며 조정 가능한 오디오 출력 샘플 레이트 및 피치 보정과 같은 기능을 제공합니다.<br><br>
 
@@ -305,9 +305,9 @@ Flacbox는 일부 제한이 있는 무료로 사용할 수 있으며, 프리미�
 다양한 오디오 파일 유형과의 광범위한 호환성이 필요하다면 **Flacbox**가 올바른 선택입니다.<br><br>
 
 [Flacbox와 Evermusic의 차이점에 대해 자세히 알아보기](/docs/faq/evermusic/what-is-the-difference-between-evermusic-and-flacbox/)
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Flacbox를 동기화하는 방법은?" closed="true" %}}
+{{% ls-details title="Flacbox를 동기화하는 방법은?" closed="true" %}}
 
 **메타데이터 동기화**  
 라이브러리에 트랙을 추가하면 백그라운드 메타데이터 리더가 파일을 스캔하고 아티스트, 앨범, 장르, 작곡가별로 정리합니다.<br>
@@ -344,9 +344,9 @@ Flacbox는 일부 제한이 있는 무료로 사용할 수 있으며, 프리미�
 
 [자세히 읽기](/docs/guide/flacbox/flacbox-guide-music-library)
 
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Flacbox 사용 방법은?" closed="true" %}}
+{{% ls-details title="Flacbox 사용 방법은?" closed="true" %}}
 
 **Flacbox 설치**<br>
 기기의 앱 스토어에서 Flacbox 앱을 다운로드하고 설치합니다. iOS 및 Mac 기기 모두에서 사용할 수 있습니다.<br><br>
@@ -406,9 +406,9 @@ Flacbox에 음악을 추가하는 두 가지 옵션이 있습니다: 수동 추�
 • [USB 플래시 카드 연결](/docs/howto/how-to-connect-a-usb-flashcard-to-the-iphone-and-listen-to-music-or-manage-files-located-on-it)<br>
 • [WiFi-Drive 무선 전송](/docs/howto/how-to-transfer-files-wirelessly-from-a-computer-to-an-iphone-using-wifi-drive)
 
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Flacbox는 안전한가요?" closed="true" %}}
+{{% ls-details title="Flacbox는 안전한가요?" closed="true" %}}
 Flacbox는 연결된 클라우드 서비스와의 상호 작용에 공식 SDK와 보안 연결만 사용합니다. 로그인과 비밀번호는 애플리케이션에서 사용할 수 없습니다. 애플리케이션에서 클라우드 서비스로의 모든 요청은 암호화됩니다.<br>
 로그인과 비밀번호를 입력하면 애플리케이션은 클라우드 서비스 제공업체가 제공하는 공식 인증 페이지를 표시하며 전체 인증 프로세스는 애플리케이션 외부에서 이루어집니다. 클라우드 서비스 제공업체는 성공적인 인증 후 애플리케이션에 auth-token을 보내고 해당 토큰은 API 호출에 사용됩니다.<br><br>
 
@@ -420,24 +420,24 @@ auth-token을 거부하려면 웹 브라우저에서 계정에 로그인하고 �
 애플리케이션에서 연결된 클라우드 계정을 분리할 수도 있으며 auth-token도 기기에서 제거됩니다. 기기에서 애플리케이션을 제거하면 모든 다운로드된 데이터와 액세스 토큰도 제거됩니다.<br><br>
 
 [자세히 읽기](/docs/guide/flacbox/flacbox-guide-connections)
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Flacbox에서 재생목록을 만드는 방법은?" closed="true" %}}
+{{% ls-details title="Flacbox에서 재생목록을 만드는 방법은?" closed="true" %}}
 - 재생목록 섹션을 엽니다.<br>
 - 오른쪽 상단의 "+" 버튼 또는 "..." 버튼을 탭하고 "새 재생목록"을 선택합니다.<br>
 - 재생목록 이름을 입력하고 "저장"을 탭합니다. "곡 추가" 대화 상자가 나타납니다.<br>
 - 재생목록에 추가할 트랙을 선택합니다.<br><br>
 
 [자세히 읽기](/docs/guide/flacbox/flacbox-guide-playlists)
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Flacbox가 지원하는 클라우드 서비스는?" closed="true" %}}
+{{% ls-details title="Flacbox가 지원하는 클라우드 서비스는?" closed="true" %}}
 현재 애플리케이션은 가장 인기 있는 클라우드 서비스를 지원합니다: iCloud Drive, Google Drive, Dropbox, OneDrive, Box, MEGA, Yandex.Disk, WD MyCloud Home, DLNA, MediaFire, WebDAV, SMB, pCloud, HiDrive, My Cloud Home, InfiniCLOUD, Cloud Mail.ru, Put.io, MyDrive.<br><br>
 
 [자세히 읽기](/docs/guide/flacbox/flacbox-guide-connections)
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="이퀄라이저 사용 방법은?" closed="true" %}}
+{{% ls-details title="이퀄라이저 사용 방법은?" closed="true" %}}
 - 오디오 플레이어 화면을 엽니다.<br>
 - 화면 하단의 "이퀄라이저" 아이콘을 탭합니다.<br>
 - 이퀄라이저 화면 오른쪽 상단의 스위치를 켜서 이퀄라이저를 활성화합니다.<br>
@@ -445,9 +445,9 @@ auth-token을 거부하려면 웹 브라우저에서 계정에 로그인하고 �
 
 전체 튜토리얼은 여기에서 확인하세요:<br>
 [iPhone, iPad, Mac에서 Evermusic과 Flacbox로 오디오 이퀄라이저 사용하는 방법](/docs/howto/how-to-use-the-audio-equalizer-on-your-iphone-ipad-mac-with-evermusic-and-flacbox)
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Flacbox에서 오프라인 모드를 활성화하는 방법은?" closed="true" %}}
+{{% ls-details title="Flacbox에서 오프라인 모드를 활성화하는 방법은?" closed="true" %}}
 - 클라우드 서비스 연결:<br>
  • "연결" 탭으로 이동합니다.<br>
  • "클라우드 서비스 연결"을 선택하고 안내에 따라 원하는 서비스를 연결합니다.<br><br>
@@ -473,9 +473,9 @@ auth-token을 거부하려면 웹 브라우저에서 계정에 로그인하고 �
  • "추가 작업"을 탭하고 "동기화 시작"을 선택합니다.<br><br>
 
 [자세히 읽기](/docs/howto/play-offline-music-in-evermusic-flacbox-download-sync-from-cloud-to-local-files/)
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="iPhone에서 로컬로 다운로드한 음악을 재생하는 방법은?" closed="true" %}}
+{{% ls-details title="iPhone에서 로컬로 다운로드한 음악을 재생하는 방법은?" closed="true" %}}
 애플리케이션을 설치한 후 "로컬 파일" 화면을 열고 "이 iPhone의 파일" 섹션으로 스크롤합니다. 여러 오디오 파일을 선택해야 하는 경우 "파일 열기..."를, 음악 폴더를 선택하려면 "폴더 열기..."를 선택합니다. 앱이 폴더 콘텐츠를 스캔하고 발견된 모든 오디오 파일이 선택됩니다. 음악 폴더로 이동하여 "열기"를 탭하여 선택을 확인하면 파일이 플레이어 대기열에 추가됩니다. 이 파일들은 애플리케이션 번들에 복사되지 않고 선택한 위치에서 직접 재생됩니다.<br><br>
 
 **빠른 액세스를 위해 폴더를 즐겨찾기에 추가**<br>
@@ -490,13 +490,13 @@ auth-token을 거부하려면 웹 브라우저에서 계정에 로그인하고 �
 이 간단한 단계들로 소중한 로컬 음악 컬렉션을 즐기기 위한 궁극의 플랫폼으로 iPhone과 Mac의 잠재력을 최대한 활용할 수 있습니다.<br><br>
 
 [자세히 읽기](/docs/howto/how-to-play-local-music-stored-on-your-iphone-or-mac)
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="재생목록을 중단한 곳에서 다시 시작하는 방법은?" closed="true" %}}
+{{% ls-details title="재생목록을 중단한 곳에서 다시 시작하는 방법은?" closed="true" %}}
 먼저 설정 > 오디오 플레이어 > 일반에서 "오디오 플레이어 상태 저장"이 활성화되어 있는지 확인합니다. 다른 재생목록으로 전환하고 돌아오면 앨범 아트워크 아래 상단 툴바에 네 가지 작업이 표시됩니다: "검색," "재생 계속," "모두 재생," "모두 셔플." "재생 계속"을 탭하여 마지막으로 저장된 상태와 미디어 위치에서 재생목록을 재개합니다.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Flacbox에서 노래 가사를 보는 방법은?" closed="true" %}}
+{{% ls-details title="Flacbox에서 노래 가사를 보는 방법은?" closed="true" %}}
 앱에서 트랙의 내장 가사를 **다음 단계에 따라** 볼 수 있습니다:<br>
 1. 오디오 파일을 탭하여 재생을 시작합니다.<br>
 2. 전체 화면 오디오 플레이어를 엽니다.<br>
@@ -510,9 +510,9 @@ auth-token을 거부하려면 웹 브라우저에서 계정에 로그인하고 �
 3. LRC 파일 모드: 오디오 파일을 편집하는 대신 원본 오디오 파일과 같은 폴더에 LRC 파일을 놓을 수 있습니다. 두 파일은 이름이 같고 확장자가 달라야 합니다. 댓글 화면의 세 번째 페이지로 스와이프하면 앱이 같은 디렉토리에서 LRC 파일을 검색하여 내용을 표시합니다.<br><br>
 
 [자세히 읽기](/docs/howto/how-to-add-and-view-comments-to-your-audio-tracks-on-iphone-ipad-and-mac-with-evermusic-and-flacbox)
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="컴퓨터에서 Flacbox로 음악을 전송하는 방법은?" closed="true" %}}
+{{% ls-details title="컴퓨터에서 Flacbox로 음악을 전송하는 방법은?" closed="true" %}}
 SMB, WebDAV 또는 DLNA 프로토콜을 사용하여 컴퓨터나 개인 NAS를 연결할 수 있습니다. 또는 iTunes 파일 공유를 사용하여 음악을 전송합니다.<br><br>
 
 SMB 프로토콜을 사용하여 컴퓨터를 연결하려면 "클라우드 서비스 연결" → SMB를 탭합니다. URL 필드에 smb://컴퓨터-ip-주소/공유-폴더-이름 형식으로 컴퓨터 IP 주소와 공유 폴더 이름을 입력하고 로그인과 비밀번호를 입력한 다음 "완료"를 탭합니다. 연결이 성공하면 "클라우드 서비스" 섹션에 연결된 스토리지가 표시됩니다.<br><br>
@@ -533,9 +533,9 @@ iTunes 파일 공유는 iTunes와 라이트닝 케이블을 사용하여 컴퓨�
 
 DLNA DLNA 미디어 서버를 설정하고 여기에 설명된 대로 Windows PC에서 음악을 스트리밍할 수도 있습니다:<br>
 [Windows 10에서 DLNA 미디어 서버를 활성화하고 iPhone에서 음악을 재생하는 방법](/docs/howto/how-to-enable-dlna-media-server-on-windows-10-and-play-your-music-on-iphone)
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="음악을 다운로드하는 방법은?" closed="true" %}}
+{{% ls-details title="음악을 다운로드하는 방법은?" closed="true" %}}
 음악을 다운로드하고 오프라인으로 듣기 전에 네트워크 계정을 연결해야 합니다.<br>
 "연결" 화면을 열고 계정을 추가하기만 하면 됩니다.<br>
 네트워크 계정을 추가하면 클라우드에서 음악을 다운로드할 수 있습니다.<br><br>
@@ -556,14 +556,14 @@ DLNA DLNA 미디어 서버를 설정하고 여기에 설명된 대로 Windows PC
 
 또 다른 옵션은 클라우드 서비스에서 음악을 다운로드하고 Evermusic으로 가져오는 것입니다:<br>
 [YouTube에서 음악을 다운로드하고 iPhone에서 오프라인 음악 듣는 방법](/docs/howto/how-to-download-music-from-youtube-and-listen-to-offline-music-on-iphone)
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Flacbox가 지원하는 오디오 포맷은?" closed="true" %}}
+{{% ls-details title="Flacbox가 지원하는 오디오 포맷은?" closed="true" %}}
 이 앱은 기본 **시스템 오디오 코덱**과 추가 **ffmpeg 소프트웨어 코덱**을 지원합니다:<br><br>
 3g2, 3gp, 3gp2, 3gpp, 8svx, aa, aac, aax, ac3, act, adt, adts, aif, aifc, aiff, alac, amr, amv, ape, asf, au, avi, awb, caf, cavs, cdda, cue, dct, dff, drc, dsf, dss, dvf, "dvr-ms", ec3, f4a, f4b, f4p, f4v, flac, flv, gif, gifv, gsm, gxf, h261, h263, h264, ifv, iklax, ivf, ivs, l16, latm, loas, m2t, m2ts, m2v, m3u, m3u8, m4a, m4b, m4p, m4r, m4v, mka, mkv, mmf, mng, mod, mogg, mov, mp1, mp2, mp3, mp4, mp4v, mpa, mpc, mpe, mpeg, mpg, mpv, msv, mts, mxf, nsf, nsv, nut, oga, ogg, ogv, opus, pcm, pls, qt, ra, raw, rm, rmvb, roq, rv, sln, snd, svi, tod, tta, vob, voc, vox, vtt, w64, wav, wave, webm, wma, wmv, wv, xhe, xmv, y4m, yuv.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Flacbox로 오디오북을 재생할 수 있나요?" closed="true" %}}
+{{% ls-details title="Flacbox로 오디오북을 재생할 수 있나요?" closed="true" %}}
 
 네, Flacbox는 강력한 오디오북 플레이어로 사용할 수 있습니다.<br><br>
 
@@ -586,9 +586,9 @@ Flacbox는 iPhone, iPad, Mac에서 오디오북 애호가를 위한 완전한 �
 
 [자세히 읽기](/docs/howto/how-to-listen-to-audiobooks-on-iphone-ipad-mac-using-evermusic)
 
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Flacbox는 NAS 기기와 작동하나요?" closed="true" %}}
+{{% ls-details title="Flacbox는 NAS 기기와 작동하나요?" closed="true" %}}
 
 네, Flacbox는 **SMB**, **WebDAV**, **DLNA** 프로토콜을 사용한 NAS 연결을 지원합니다.<br><br>
 
@@ -619,9 +619,9 @@ Flacbox는 iPhone, iPad, Mac에서 오디오북 애호가를 위한 완전한 �
 • [Bluesound Vault 스토리지 연결](/docs/howto/how-to-connect-bluesound-vault-s-internal-storage-from-the-evermusic-flacbox-evertag)<br>
 • [WebDAV를 사용하여 NAS 스토리지 연결](/docs/howto/how-to-connect-nas-storage-using-webdav-and-listen-to-music-on-your-iphone-or-mac)
 
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Flacbox에 음악을 가져오는 방법은?" closed="true" %}}
+{{% ls-details title="Flacbox에 음악을 가져오는 방법은?" closed="true" %}}
 
 **클라우드 서비스 연결**<br>
 • **연결** 탭을 엽니다.<br>
@@ -667,9 +667,9 @@ Flacbox는 iPhone, iPad, Mac에서 오디오북 애호가를 위한 완전한 �
 • [WiFi-Drive를 사용하여 무선으로 파일 전송](/docs/howto/how-to-transfer-files-wirelessly-from-a-computer-to-an-iphone-using-wifi-drive)<br>
 • [SMB 프로토콜을 사용하여 파일 전송](/docs/howto/transfer-your-files-from-the-computer-to-iphone-using-smb-protocol/)
 
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Flacbox의 Wi-Fi Drive 기능 사용 방법은?" closed="true" %}}
+{{% ls-details title="Flacbox의 Wi-Fi Drive 기능 사용 방법은?" closed="true" %}}
 
 **데스크톱 브라우저를 사용한 무선 전송**<br>
 1. 앱 실행: Flacbox를 엽니다.<br>
@@ -694,9 +694,9 @@ Flacbox는 iPhone, iPad, Mac에서 오디오북 애호가를 위한 완전한 �
 
 [자세히 읽기](/docs/howto/how-to-transfer-files-wirelessly-from-a-computer-to-an-iphone-using-wifi-drive)
 
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Flacbox는 Apple CarPlay를 지원하나요?" closed="true" %}}
+{{% ls-details title="Flacbox는 Apple CarPlay를 지원하나요?" closed="true" %}}
 네, **Flacbox는 Apple CarPlay를 완벽하게 지원합니다**. 음악 라이브러리 탐색, 로컬 또는 오프라인 파일 재생, 클라우드 스토리지 연결, 차량 인포테인먼트 화면에서 직접 재생 제어가 가능합니다.
 
 CarPlay 인터페이스에는 **라이브러리**, **연결**, **로컬 파일**, **설정**을 위한 전용 탭이 포함되어 있어 이동 중에도 음악을 완벽하게 제어할 수 있습니다. 재생 컨트롤, 셔플, 반복, 대기열 관리도 사용할 수 있습니다.
@@ -704,42 +704,42 @@ CarPlay 인터페이스에는 **라이브러리**, **연결**, **로컬 파일**
 CarPlay를 사용하려면 Siri가 활성화되어 있고 iPhone이 USB 또는 무선으로 연결되어 있는지 확인하세요.
 
 [전체 가이드 읽기](/docs/howto/how-to-play-your-own-music-on-iphone-using-carplay/)
-{{% /details %}}
+{{% /ls-details %}}
 
 </div>
 
 
 <div class="hx:mt-6"></div>
 
-{{< hextra/section-headline >}}
+{{< ls-section-headline >}}
   사용자 가이드
-{{< /hextra/section-headline >}}
+{{< /ls-section-headline >}}
 
 <div class="hx:mt-6"></div>
 
 <div class="hx:w-full">
 
 <div class="hx:w-full hx:mx-auto hx:flex hx:flex-col hx:items-center hx:text-center">
-  {{< hextra/info-paragraph border="false" >}}
+  {{< ls-info-paragraph border="false" >}}
   이 가이드는 iPhone, iPad 또는 Mac에서 Flacbox를 최대한 활용하는 데 도움이 됩니다. 클라우드에서 고해상도 음악을 스트리밍하는 방법, 라이브러리 정리, 오디오북 관리, 기기 간 음악 전송에 대해 알아보세요.
-  {{< /hextra/info-paragraph >}}
+  {{< /ls-info-paragraph >}}
 </div>
 
 {{< cards >}}
 
-{{< feature-card icon="map" link="/docs/guide/flacbox/flacbox-guide-navigation" title="내비게이션" subtitle="iPhone에서는 탭 바, iPad 및 Mac에서는 왼쪽 메뉴를 사용합니다." >}}
+{{< ls-feature-card icon="map" link="/docs/guide/flacbox/flacbox-guide-navigation" title="내비게이션" subtitle="iPhone에서는 탭 바, iPad 및 Mac에서는 왼쪽 메뉴를 사용합니다." >}}
 
-{{< feature-card icon="cloud" link="/docs/guide/flacbox/flacbox-guide-connections" title="연결" subtitle="Dropbox, Google Drive, iCloud 또는 NAS를 연결합니다." >}}
+{{< ls-feature-card icon="cloud" link="/docs/guide/flacbox/flacbox-guide-connections" title="연결" subtitle="Dropbox, Google Drive, iCloud 또는 NAS를 연결합니다." >}}
 
-{{< feature-card icon="collection" link="/docs/guide/flacbox/flacbox-guide-music-library" title="음악 라이브러리" subtitle="아티스트, 앨범 또는 장르별로 트랙을 관리하고 검색합니다." >}}
+{{< ls-feature-card icon="collection" link="/docs/guide/flacbox/flacbox-guide-music-library" title="음악 라이브러리" subtitle="아티스트, 앨범 또는 장르별로 트랙을 관리하고 검색합니다." >}}
 
-{{< feature-card icon="music-note" link="/docs/guide/flacbox/flacbox-guide-playlists" title="재생목록" subtitle="모든 분위기나 상황에 맞는 재생목록을 만들고 정리합니다." >}}
+{{< ls-feature-card icon="music-note" link="/docs/guide/flacbox/flacbox-guide-playlists" title="재생목록" subtitle="모든 분위기나 상황에 맞는 재생목록을 만들고 정리합니다." >}}
 
-{{< feature-card icon="folder" link="/docs/guide/flacbox/flacbox-guide-local-files" title="로컬 파일" subtitle="내장 파일 관리자로 오프라인 음악을 편집하고 재생합니다." >}}
+{{< ls-feature-card icon="folder" link="/docs/guide/flacbox/flacbox-guide-local-files" title="로컬 파일" subtitle="내장 파일 관리자로 오프라인 음악을 편집하고 재생합니다." >}}
 
-{{< feature-card icon="play" link="/docs/guide/flacbox/flacbox-guide-player" title="오디오 플레이어" subtitle="재생 제어, 속도 조정, 북마크 설정 등." >}}
+{{< ls-feature-card icon="play" link="/docs/guide/flacbox/flacbox-guide-player" title="오디오 플레이어" subtitle="재생 제어, 속도 조정, 북마크 설정 등." >}}
 
-{{< feature-card icon="adjustments" link="/docs/guide/flacbox/flacbox-guide-settings" title="설정" subtitle="이퀄라이저, 외관, 앱 동작을 사용자 정의합니다." >}}
+{{< ls-feature-card icon="adjustments" link="/docs/guide/flacbox/flacbox-guide-settings" title="설정" subtitle="이퀄라이저, 외관, 앱 동작을 사용자 정의합니다." >}}
 
 {{< /cards >}}
 

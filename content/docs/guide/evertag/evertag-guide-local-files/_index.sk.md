@@ -18,7 +18,7 @@ Sekcia Lokálne súbory slúži ako centrum pre správu súborov umiestnených v
 Tento vstavaný správca súborov umožňuje upravovať súbory a ponúka rôzne metódy na import audio súborov do aplikácie. Súbory, ktoré ste nedávno otvorili, sa automaticky zobrazujú v záložke **Nedávne** a položky, ktoré označíte hviezdičkou, sa zobrazujú v **Obľúbených**, takže môžete priamo prejsť na súbory, s ktorými pracujete najčastejšie, bez toho, aby ste sa vracali na túto obrazovku.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Obrazovka Stiahnuté Evertag" image="/docs/guide/evertag/img/downloads.webp" >}}
+  {{< ls-card title="" subtitle="Obrazovka Stiahnuté Evertag" image="/docs/guide/evertag/img/downloads.webp" >}}
 {{< /cards >}}
 
 ## Stiahnutie súborov z cloudového úložiska
@@ -74,7 +74,7 @@ Zobrazuje súbory a priečinky uložené v adresári Dokumenty aplikácie a iClo
 Zobrazuje súbory umiestnené na vašom zariadení, ale v rôznych aplikáciách. Môžete ich importovať do tejto aplikácie pomocou systémového výberu súborov. Na aktiváciu výberu zvoľte "Otvoriť súbory..." na výber súborov alebo "Otvoriť priečinky..." na výber priečinkov. Podrobné pokyny na import lokálnej hudby uloženej na iPhone alebo Mac sú dostupné [tu](/docs/howto/how-to-play-local-music-stored-on-your-iphone-or-mac). Môžete tiež pripojiť priečinok umiestnený na zariadení a mať rýchly prístup k jeho obsahu. Použite položku ponuky "Pripojiť priečinok" a vyberte priečinok na zariadení. Klepnite na "Hotovo" a aplikácia vytvorí odkaz na tento priečinok s prístupom na čítanie/zápis, čo vám umožňuje spravovať súbory priamo z tejto aplikácie. Na odpojenie priečinka umiestneného na zariadení klepnite na tlačidlo "Viac akcií" a zvoľte "Odpojiť."
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Import súborov zo zariadenia Evertag" image="/docs/guide/evertag/img/open-files.webp" >}}
+  {{< ls-card title="" subtitle="Import súborov zo zariadenia Evertag" image="/docs/guide/evertag/img/open-files.webp" >}}
 {{< /cards >}}
 
 ## Import súborov umiestnených na prepojených USB flash kartách
@@ -86,7 +86,7 @@ Podrobné pokyny na pripojenie USB flash karty k iPhone a správu súborov na ne
 Ponuka Viac akcií pre aktuálne otvorený priečinok sa nachádza v pravom hornom rohu a poskytuje prístup k rôznym akciám.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Import súborov zo zariadenia Evertag" image="/docs/guide/evertag/img/downloads-current-folder-actions.webp" >}}
+  {{< ls-card title="" subtitle="Import súborov zo zariadenia Evertag" image="/docs/guide/evertag/img/downloads-current-folder-actions.webp" >}}
 {{< /cards >}}
 
 - **Vybrať:** Prepnúť do režimu výberu súborov a priečinkov.

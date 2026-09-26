@@ -14,7 +14,7 @@ authors:
     image: "/images/about/artem-meleshko-founder-everappz.webp"
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 ## Pourquoi les mots-clés de l'App Store déterminent vos téléchargements
 
@@ -104,29 +104,29 @@ Essayez maintenant — votre prochain utilisateur est à une recherche de vous.
 L'outil est open source. Les rapports de bugs, suggestions et pull requests sont les bienvenus.
 
 {{< cards cols="1" >}}
-  {{< card link="https://github.com/everappz/app-store-keyword-optimizer/tree/main" title="appkeywords.pro sur GitHub" icon="github" tag= "open source" >}}
+  {{< ls-card link="https://github.com/everappz/app-store-keyword-optimizer/tree/main" title="appkeywords.pro sur GitHub" icon="github" tag= "open source" >}}
 {{< /cards >}}
 
 ---
 
 ## Questions fréquemment posées
 
-{{% details title="AppKeywords.pro est-il vraiment gratuit ?" closed="true" %}}
+{{% ls-details title="AppKeywords.pro est-il vraiment gratuit ?" closed="true" %}}
 Oui. C'est un outil entièrement open source, basé sur navigateur, sans inscription, sans publicité et sans collecte de données. Vos métadonnées ne quittent jamais votre appareil.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Cet outil fonctionne-t-il pour plusieurs localisations App Store ?" closed="true" %}}
+{{% ls-details title="Cet outil fonctionne-t-il pour plusieurs localisations App Store ?" closed="true" %}}
 Oui. Vous pouvez ajouter des métadonnées pour chaque locale indépendamment, et l'export inclut toutes les langues dans un seul fichier JSON compatible Fastlane.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Dois-je répéter les mots-clés du titre dans le champ de mots-clés ?" closed="true" %}}
+{{% ls-details title="Dois-je répéter les mots-clés du titre dans le champ de mots-clés ?" closed="true" %}}
 Non. Apple indexe déjà les mots de votre titre et sous-titre. Les répéter dans le champ de mots-clés gaspille des caractères.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="À quelle fréquence dois-je mettre à jour mes mots-clés App Store ?" closed="true" %}}
+{{% ls-details title="À quelle fréquence dois-je mettre à jour mes mots-clés App Store ?" closed="true" %}}
 Révisez et rafraîchissez vos mots-clés au moins une fois par trimestre. Ajustez plus tôt si vous remarquez des baisses de classement ou des changements saisonniers.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Puis-je utiliser cet outil avec Fastlane ?" closed="true" %}}
+{{% ls-details title="Puis-je utiliser cet outil avec Fastlane ?" closed="true" %}}
 Oui. Le dépôt GitHub inclut des scripts shell pour convertir entre la structure de métadonnées Fastlane et le format JSON utilisé par AppKeywords.pro.
-{{% /details %}}
+{{% /ls-details %}}

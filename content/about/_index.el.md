@@ -1,10 +1,11 @@
 ---
+excludeSearch: true
 date: '2025-06-12T17:00:00+00:00'
 title: 'Σχετικά'
 description: 'Η Everappz S.L. είναι μια ισπανική εταιρεία λογισμικού που αναπτύσσει εφαρμογές iOS και macOS για ήχο και βίντεο. Δημιουργοί του Evermusic (11 εκατ. λήψεις), Flacbox, EverTag, EverVideo — πάνω από 14 εκατομμύρια λήψεις παγκοσμίως.'
 ---
 
-{{< lottie src="/images/juicy-json/juicy-girl-and-guy-preparing-start-up-rocket-to-launch-with-ideas.json" width="65%" >}}
+{{< ls-lottie src="/images/juicy-json/juicy-girl-and-guy-preparing-start-up-rocket-to-launch-with-ideas.json" width="65%" >}}
 
 ## Ποιοι είμαστε
 
@@ -35,7 +36,7 @@ description: 'Η Everappz S.L. είναι μια ισπανική εταιρεί
 ### Artem Meleshko
 
 {{< cards cols="1" >}}
-  {{< card
+  {{< ls-card
     link="https://www.linkedin.com/in/artem-meleshko-s/"
     title="Artem Meleshko"
     tag="Ιδρυτής & Μηχανικός"
@@ -60,7 +61,7 @@ description: 'Η Everappz S.L. είναι μια ισπανική εταιρεί
 ### Anna Kosenko
 
 {{< cards cols="1" >}}
-  {{< card
+  {{< ls-card
     link="https://www.linkedin.com/in/anna-kosenko-kosenko/"
     title="Anna Kosenko"
     tag="Διευθύντρια"
@@ -86,4 +87,4 @@ description: 'Η Everappz S.L. είναι μια ισπανική εταιρεί
 
 Εγγραφείτε στα κοινωνικά μας δίκτυα για να λαμβάνετε τα πιο ενημερωμένα νέα, ενημερώσεις εφαρμογών, συμβουλές και χρήσιμες πληροφορίες:
 
-{{< social-cards >}}
+{{< ls-social-cards >}}

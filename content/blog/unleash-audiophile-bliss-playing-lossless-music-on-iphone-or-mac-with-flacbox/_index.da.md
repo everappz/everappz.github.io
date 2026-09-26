@@ -12,7 +12,7 @@ authors:
     image: "/images/about/artem-meleshko-founder-everappz.webp"
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 **Resumé:** Installer [Flacbox fra App Store](https://apps.apple.com/us/app/flacbox-flac-player-music/id1097564256?mt=8) for at afspille FLAC, DSD, ALAC og 120+ andre lydformater på iPhone og Mac. Importer filer via iTunes File Sharing, Wi-Fi Drive eller cloud-lagring. Ingen filkonvertering nødvendig.
 
@@ -52,26 +52,26 @@ Importer filer via **iTunes File Sharing**, **Wi-Fi Drive**, **cloud-lagring** e
 
 ## Ofte stillede spørgsmål
 
-{{< details title="Kræver Flacbox abonnement for at afspille tabsfrie filer?" closed="true" >}}
+{{< ls-details title="Kræver Flacbox abonnement for at afspille tabsfrie filer?" closed="true" >}}
 Flacbox tilbyder grundlæggende afspilning uden abonnement. Du kan importere og afspille FLAC, DSD, ALAC med det samme.
-{{< /details >}}
+{{< /ls-details >}}
 
-{{< details title="Kan Flacbox afspille DSD-filer uden at konvertere dem til PCM?" closed="true" >}}
+{{< ls-details title="Kan Flacbox afspille DSD-filer uden at konvertere dem til PCM?" closed="true" >}}
 Ja, Flacbox understøtter nativ DSD-afspilning inklusiv DSD64, DSD128 og DSD256.
-{{< /details >}}
+{{< /ls-details >}}
 
-{{< details title="Hvordan overfører jeg store tabsfrie samlinger til min iPhone?" closed="true" >}}
+{{< ls-details title="Hvordan overfører jeg store tabsfrie samlinger til min iPhone?" closed="true" >}}
 Wi-Fi Drive, iTunes File Sharing, cloud-lagring eller eksternt drev via Lightning/USB-C.
-{{< /details >}}
+{{< /ls-details >}}
 
-{{< details title="Er der forskel i lydkvalitet mellem FLAC og ALAC i Flacbox?" closed="true" >}}
+{{< ls-details title="Er der forskel i lydkvalitet mellem FLAC og ALAC i Flacbox?" closed="true" >}}
 Begge er tabsfrie codecs med identisk output. Flacbox håndterer begge med samme kvalitet.
-{{< /details >}}
+{{< /ls-details >}}
 
-{{< details title="Hvad er den bedste måde at afspille FLAC-filer på iPhone?" closed="true" >}}
+{{< ls-details title="Hvad er den bedste måde at afspille FLAC-filer på iPhone?" closed="true" >}}
 Installer Flacbox og importer filer. Nativ afkodning op til 32-bit/384 kHz.
-{{< /details >}}
+{{< /ls-details >}}
 
-{{< details title="Fungerer Flacbox med NAS og hjemmeservere?" closed="true" >}}
+{{< ls-details title="Fungerer Flacbox med NAS og hjemmeservere?" closed="true" >}}
 Ja, via SMB, WebDAV og DLNA.
-{{< /details >}}
+{{< /ls-details >}}

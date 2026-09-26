@@ -14,7 +14,7 @@ authors:
     image: "/images/about/artem-meleshko-founder-everappz.webp"
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 **Yhteenveto:** Evermusic voittaa 5 kategoriassa 8:sta, 3 tasapeliä. Se tarjoaa laajemman pilvitallennustuen (yli 12 palvelua vs. vain VOX Cloud), sisäänrakennetut äänikirjaominaisuudet, ID3-tunnisteen muokkaimen ja langattoman tiedostonsiirron. VOX vetoaa käyttäjiin, jotka suosivat sen omaa pilvipalvelua ja minimalistista muotoilua.
 
@@ -34,8 +34,8 @@ authors:
 | Saavutettavuus (VoiceOver) | Kyllä | Kyllä | Tasapeli |
 
 {{< cards >}}
-  {{< card link="https://apps.apple.com/us/app/evermusic-cloud-music-player/id885367198" title="Lataa Evermusic" icon="download" tag="Ilmainen" >}}
-  {{< card link="https://apps.apple.com/us/app/vox-mp3-flac-music-player/id916215494" title="Lataa VOX" icon="download" tag="Ilmainen" >}}
+  {{< ls-card link="https://apps.apple.com/us/app/evermusic-cloud-music-player/id885367198" title="Lataa Evermusic" icon="download" tag="Ilmainen" >}}
+  {{< ls-card link="https://apps.apple.com/us/app/vox-mp3-flac-music-player/id916215494" title="Lataa VOX" icon="download" tag="Ilmainen" >}}
 {{< /cards >}}
 
 ## Pilvitallennustuki
@@ -107,18 +107,18 @@ Useimmille iOS-käyttäjille, jotka hallitsevat omaa musiikkikokoelmaansa, Everm
 
 ## Usein kysytyt kysymykset
 
-{{% details title="Onko Evermusic hyvä vaihtoehto VOX:lle?" closed="true" %}}
+{{% ls-details title="Onko Evermusic hyvä vaihtoehto VOX:lle?" closed="true" %}}
 Kyllä. Evermusic tukee yli 12 pilvitallennuspalvelua verrattuna VOX:n omaan pilveen. Se tarjoaa myös äänikirjaominaisuuksia, ID3-tunnisteiden muokkausta ja Wi-Fi-tiedostonsiirtoa, joita VOX:lta puuttuu. Evermusic on ilmainen ladata, ja kertamaksullinen Premium-päivitys on saatavilla.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Tukeeko VOX Dropboxia tai Google Drivea?" closed="true" %}}
+{{% ls-details title="Tukeeko VOX Dropboxia tai Google Drivea?" closed="true" %}}
 Ei. VOX käyttää omaa VOX Cloud -tallennustaan. Se ei yhdistä kolmannen osapuolen palveluihin kuten Dropbox, Google Drive tai OneDrive. Evermusic tukee kaikkia näitä ja muita.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Kumpi sovellus on parempi äänikirjoille: Evermusic vai VOX?" closed="true" %}}
+{{% ls-details title="Kumpi sovellus on parempi äänikirjoille: Evermusic vai VOX?" closed="true" %}}
 Evermusic on huomattavasti parempi äänikirjoille. Se sisältää toistonopeuden säädön, automaattisen sijainnin tallennuksen ja kirjanmerkkituen. VOX:lla ei ole erityisiä äänikirjaominaisuuksia.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Voinko muokata musiikin tunnisteita iPhonella Evermusicilla?" closed="true" %}}
+{{% ls-details title="Voinko muokata musiikin tunnisteita iPhonella Evermusicilla?" closed="true" %}}
 Kyllä. Evermusic sisältää sisäänrakennetun ID3-tunnisteen muokkaimen, jolla voit korjata kappaleiden nimiä, artistien nimiä, albumitietoja ja muita metatietoja suoraan iPhonellasi tai iPadillasi.
-{{% /details %}}
+{{% /ls-details %}}

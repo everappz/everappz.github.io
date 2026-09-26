@@ -55,17 +55,17 @@ Verilerinizin güvende olduğundan emin olun. Evertag, uygulamaya parola belirle
 Bu kılavuzda, iPhone, iPad ve Mac'inizde Evertag'ın gücünden nasıl yararlanacağınızı keşfedecek ve müzik yönetimi deneyiminizi sorunsuz ve keyifli hale getireceksiniz.
 
 {{< cards >}}
-  {{< card icon="location-marker" title="Gezinme" subtitle="Tüm uygulama özelliklerine erişmek ve keşfetmek için Sekme Çubuğunu (iPhone kullanıcıları için) veya Sol Menüyü (iPad ve Mac kullanıcıları için) kullanarak uygulamamızda zahmetsizce nasıl gezineceğinizi öğrenin." link="/docs/guide/evertag/evertag-guide-navigation" >}}
+  {{< ls-card icon="location-marker" title="Gezinme" subtitle="Tüm uygulama özelliklerine erişmek ve keşfetmek için Sekme Çubuğunu (iPhone kullanıcıları için) veya Sol Menüyü (iPad ve Mac kullanıcıları için) kullanarak uygulamamızda zahmetsizce nasıl gezineceğinizi öğrenin." link="/docs/guide/evertag/evertag-guide-navigation" >}}
 
-  {{< card icon="cloud" title="Bağlantılar" subtitle="Mevcut tüm bulut hesaplarınızı değerli ses dosyalarınızla zahmetsizce bağlayın. Entegre dosya yöneticimizi kullanarak çevrimiçi dosyalarınızı bile zahmetsizce düzenleyebilirsiniz." link="/docs/guide/evertag/evertag-guide-connections" >}}
+  {{< ls-card icon="cloud" title="Bağlantılar" subtitle="Mevcut tüm bulut hesaplarınızı değerli ses dosyalarınızla zahmetsizce bağlayın. Entegre dosya yöneticimizi kullanarak çevrimiçi dosyalarınızı bile zahmetsizce düzenleyebilirsiniz." link="/docs/guide/evertag/evertag-guide-connections" >}}
 
-  {{< card icon="folder" title="Yerel Dosyalar" subtitle="Uygulamanın Belgeler klasöründe veya cihazınızda depolanan dosyaları görüntüleyin ve düzenleyin. Ses dosyalarınızı kolaylıkla düzenlemek ve yönetmek için yerleşik dosya yöneticisini kullanın." link="/docs/guide/evertag/evertag-guide-local-files" >}}
+  {{< ls-card icon="folder" title="Yerel Dosyalar" subtitle="Uygulamanın Belgeler klasöründe veya cihazınızda depolanan dosyaları görüntüleyin ve düzenleyin. Ses dosyalarınızı kolaylıkla düzenlemek ve yönetmek için yerleşik dosya yöneticisini kullanın." link="/docs/guide/evertag/evertag-guide-local-files" >}}
 
-  {{< card icon="pencil-alt" title="Etiket Düzenleyicisi" subtitle="Ses dosyası meta verilerini değiştirme sanatında ustalaşın. Meta verileri nasıl düzenleyeceğinizi, albüm kapaklarını nasıl dönüştüreceğinizi ve birden fazla dosyayı aynı anda sorunsuz şekilde nasıl yöneteceğinizi keşfedin." link="/docs/guide/evertag/evertag-guide-tag-editor" >}}
+  {{< ls-card icon="pencil-alt" title="Etiket Düzenleyicisi" subtitle="Ses dosyası meta verilerini değiştirme sanatında ustalaşın. Meta verileri nasıl düzenleyeceğinizi, albüm kapaklarını nasıl dönüştüreceğinizi ve birden fazla dosyayı aynı anda sorunsuz şekilde nasıl yöneteceğinizi keşfedin." link="/docs/guide/evertag/evertag-guide-tag-editor" >}}
 
-  {{< card icon="code" title="Etiket Alanı Eşlemeleri" subtitle="İç alan adları ve başlıca meta veri formatları arasındaki eşlemeler dahil Evertag uygulaması tarafından desteklenen ses etiketi alanlarının tam listesini keşfedin." link="/docs/guide/evertag/evertag-tag-field-mappings" >}}
+  {{< ls-card icon="code" title="Etiket Alanı Eşlemeleri" subtitle="İç alan adları ve başlıca meta veri formatları arasındaki eşlemeler dahil Evertag uygulaması tarafından desteklenen ses etiketi alanlarının tam listesini keşfedin." link="/docs/guide/evertag/evertag-tag-field-mappings" >}}
 
-  {{< card icon="adjustments" title="Ayarlar" subtitle="Uygulama deneyiminizi nasıl özelleştireceğinizi, performansı nasıl ince ayarlayacağınızı, veri kullanımını nasıl yöneteceğinizi ve dil ile kullanıcı arayüzü tercihlerini zevkinize göre nasıl ayarlayacağınızı keşfedin." link="/docs/guide/evertag/evertag-guide-settings" >}}
+  {{< ls-card icon="adjustments" title="Ayarlar" subtitle="Uygulama deneyiminizi nasıl özelleştireceğinizi, performansı nasıl ince ayarlayacağınızı, veri kullanımını nasıl yöneteceğinizi ve dil ile kullanıcı arayüzü tercihlerini zevkinize göre nasıl ayarlayacağınızı keşfedin." link="/docs/guide/evertag/evertag-guide-settings" >}}
 
-  {{< card icon="question-mark-circle" title="FAQ" subtitle="SSS bölümümüzde yaygın sorulara hızlı yanıtlar bulun." link="/docs/faq/evertag" >}}
+  {{< ls-card icon="question-mark-circle" title="FAQ" subtitle="SSS bölümümüzde yaygın sorulara hızlı yanıtlar bulun." link="/docs/faq/evertag" >}}
 {{< /cards >}}

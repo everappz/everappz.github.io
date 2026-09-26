@@ -7,7 +7,7 @@ keywords: ["iPhone SMB 伺服器", "iPad SMB 伺服器", "如何在 iPhone 設�
 readingTime: 10
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 SMB 是 macOS、Windows 和 Linux，以及幾乎每一台網路磁碟（NAS）內建的檔案分享方式。當你連上另一台電腦上的共享資料夾，而它在 Finder 或檔案總管裡像一般磁碟一樣打開時，那就是 SMB 在做的工作。有了 [Everdisk](/products/everdisk)，你可以在 iPhone 或 iPad 上放一個 SMB 共享，讓手機本身以網路磁碟的形式出現，供其他裝置瀏覽、從中複製，以及複製檔案進去。
 
@@ -136,44 +136,44 @@ SMB 是 Everdisk 裡唯一能加密每一次傳輸的連線，這在你無法完
 
 ## 常見問題
 
-{{% details title="我 iPhone 的 SMB 位址和連接埠是什麼？" closed="true" %}}
+{{% ls-details title="我 iPhone 的 SMB 位址和連接埠是什麼？" closed="true" %}}
 在你開始分享後，Everdisk 會在「共享」畫面上顯示位址。它看起來像 smb://192.168.1.20:4455/Share。4455 是 Everdisk 用於 SMB 的連接埠，Share 是共享資料夾的名稱。第一部分是你 iPhone 在 Wi-Fi 上的位址，所以你的會不一樣。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="我可以從 Windows 連上我 iPhone 的 SMB 共享嗎？" closed="true" %}}
+{{% ls-details title="我可以從 Windows 連上我 iPhone 的 SMB 共享嗎？" closed="true" %}}
 Windows 檔案總管只會透過標準連接埠連接 SMB，而且不接受路徑裡的自訂連接埠，而 Everdisk 使用連接埠 4455。所以單純的「對應網路磁碟機」這條路通常連不上。請使用能設定自訂連接埠的檔案管理程式，或改用 WebDAV、FTP 或瀏覽器連結從 Windows 連接。那些方式從 Windows 都不會有連接埠問題。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="我要怎麼用 SMB 在兩支 iPhone 之間分享檔案？" closed="true" %}}
+{{% ls-details title="我要怎麼用 SMB 在兩支 iPhone 之間分享檔案？" closed="true" %}}
 在第一支 iPhone 上用 Everdisk 開始 SMB 伺服器。在第二支 iPhone 上，打開「檔案」App，點一下「更多」按鈕，選擇「連接伺服器」，然後輸入 Everdisk 裡顯示的 smb 位址（例如 smb://192.168.1.20:4455/Share）。以訪客身分或用你的登入資訊連接，這個共享就會出現在「檔案」裡。你也可以用第二支手機上 Everdisk 自己的「裝置」分頁。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="我的 iPhone 會自動出現在 Mac 的 Finder 側邊欄嗎？" closed="true" %}}
+{{% ls-details title="我的 iPhone 會自動出現在 Mac 的 Finder 側邊欄嗎？" closed="true" %}}
 通常會。Everdisk 會在你的 Wi-Fi 上宣告 SMB 共享，所以你的 iPhone 常常會出現在 Finder 側邊欄的「位置」或「網路」底下。點它一下並選擇「連接身分」，然後選「訪客」或你的登入資訊。如果它沒有出現，就用「前往」、「連接伺服器」搭配完整的 smb 位址手動連接。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="我需要密碼才能用 SMB 嗎？" closed="true" %}}
+{{% ls-details title="我需要密碼才能用 SMB 嗎？" closed="true" %}}
 不需要，登入是選用的。在「設定」、「共享」、「存取權」裡把「登入名稱」和「密碼」留空，就會允許訪客存取。如果你想要連線先登入，就設定它們。只有在你開啟「要求 SMB 加密」時才需要登入名稱和密碼，因為加密的連線不能匿名。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="SMB 連線有加密嗎？" closed="true" %}}
+{{% ls-details title="SMB 連線有加密嗎？" closed="true" %}}
 可以有。SMB 是 Everdisk 裡唯一支援加密的連線。設定登入名稱和密碼，然後在「設定」、「共享」裡開啟「要求 SMB 加密」。之後每一次傳輸都會用 SMB3 (AES) 保護。另一台裝置需要支援 SMB3，新型 Mac 和 Windows 10 以上版本都支援。加密是 Premium 功能。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="別人可以透過 SMB 更改或刪除我的檔案嗎？" closed="true" %}}
+{{% ls-details title="別人可以透過 SMB 更改或刪除我的檔案嗎？" closed="true" %}}
 只有在你允許時才行。「設定」、「共享」、「存取權」裡的「檔案編輯」開關會控制這一點。開啟時，連接的裝置可以上傳、重新命名和刪除。關閉時，這個共享就是唯讀的，別人可以瀏覽並把檔案從你的手機複製出去，但不能更改任何東西。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="我的 SMB 連線為什麼中斷了？" closed="true" %}}
+{{% ls-details title="我的 SMB 連線為什麼中斷了？" closed="true" %}}
 你的 iPhone 是伺服器，而 iOS 會暫停在背景待太久的 App。裝置連著的時候，請讓 Everdisk 保持開在畫面上，並在長時間傳輸時把手機接上電源。也要確認兩台裝置仍在同一個 Wi-Fi 上。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="SMB、WebDAV 還是 FTP，我該用哪一個？" closed="true" %}}
+{{% ls-details title="SMB、WebDAV 還是 FTP，我該用哪一個？" closed="true" %}}
 當你想讓手機在 Mac、另一支 iPhone、Linux 或 NAS 上表現得像一個真正的網路磁碟，而且想要加密時，就用 SMB。當你想要一個也能從 Windows 順利運作的網路磁碟時，就用 WebDAV。想要和較舊裝置及 App 有最廣泛的相容性時，就用 FTP。Everdisk 可以同時執行全部三種，所以你不會被綁在其中一種上。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Everdisk 是免費的嗎？" closed="true" %}}
+{{% ls-details title="Everdisk 是免費的嗎？" closed="true" %}}
 是的，Everdisk 免費下載，而且內含 SMB 伺服器。選購的一次性 Premium 購買會加入 SMB 加密、自訂連接埠和其他幾項額外功能。你不用付費就能設定 SMB 並分享檔案。
-{{% /details %}}
+{{% /ls-details %}}
 
 準備好試試看了嗎？[從 App Store 下載 Everdisk](https://apps.apple.com/app/apple-store/id6751851132?pt=95781850&ct=everappzcom&mt=8)，大約一分鐘就能在 Finder 裡打開你的 iPhone。有問題或建議嗎？寄信給我們：**support@everappz.com**。

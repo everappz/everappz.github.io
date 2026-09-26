@@ -7,7 +7,7 @@ tags: ["クラウド", "ストリーミング", "iPhone", "MP3", "ストレー�
 keywords: ["Dropbox iPhone 音楽再生", "オフライン音楽 Dropbox iOS", "Evermusic Dropbox", "MP3プレーヤー クラウド", "Dropbox オーディオストリーミング", "Evermusic ファイルマネージャー", "Dropbox iOS オーディオ"]
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **要約:** 音楽をDropboxにアップロードし、iPhoneに無料のEvermusicアプリをインストールし、Dropboxアカウントを接続して、オフラインで曲を再生またはダウンロードしましょう。EvermusicはMP3、FLAC、WAV、AACなどに対応しています。10バンドイコライザー、プレイリスト、ファイル管理機能を搭載しています。
@@ -35,7 +35,7 @@ Evermusicは完全無料で、iPhoneとiPadの両方に対応し、iOS 8.0以降
 
 {{< cards cols="1">}}
 
-  {{< card title="Evermusicをダウンロード" subtitle="iPhone・iPad用オフライン音楽プレーヤー＆クラウドドライブストリーマー。" icon="download" link="https://itunes.apple.com/us/app/evermusic-offline-music/id885367198?mt=8" >}}
+  {{< ls-card title="Evermusicをダウンロード" subtitle="iPhone・iPad用オフライン音楽プレーヤー＆クラウドドライブストリーマー。" icon="download" link="https://itunes.apple.com/us/app/evermusic-offline-music/id885367198?mt=8" >}}
 
 {{< /cards >}}
 
@@ -67,26 +67,26 @@ Evermusicは、基本操作をサポートする本格的なファイルマネ�
 
 ## よくある質問
 
-{{% details title="iPhoneでDropboxの音楽をオフラインで再生できますか？" closed="true" %}}
+{{% ls-details title="iPhoneでDropboxの音楽をオフラインで再生できますか？" closed="true" %}}
 はい。Evermusicを使ってDropboxを接続し、任意のトラックやプレイリストをオフライン視聴用にダウンロードしてください。ダウンロードしたファイルはデバイスに保存され、インターネット接続なしで再生できます。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Evermusicは無料ですか？" closed="true" %}}
+{{% ls-details title="Evermusicは無料ですか？" closed="true" %}}
 Evermusicはイコライザー、クラウドストリーミング、オフライン再生などのコア機能を含め、無料でダウンロードできます。無料版は最大3つのクラウド接続と10のプレイリストをサポートします。Premiumにアップグレードすると、すべての制限が解除されます。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="EvermusicはDropboxからどのオーディオフォーマットをサポートしていますか？" closed="true" %}}
+{{% ls-details title="EvermusicはDropboxからどのオーディオフォーマットをサポートしていますか？" closed="true" %}}
 EvermusicはMP3、FLAC、WAV、AAC、AIFF、OGG、WMAなど、多くのフォーマットをDropboxから直接再生します。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="複数のクラウドサービスを接続できますか？" closed="true" %}}
+{{% ls-details title="複数のクラウドサービスを接続できますか？" closed="true" %}}
 はい。EvermusicはDropbox、Google Drive、OneDrive、Box、WebDAV、SMB、MEGAなどをサポートしています。無制限のアカウントを接続し、すべてを1つのライブラリで閲覧できます。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Evermusicはデバイス間でプレイリストを同期しますか？" closed="true" %}}
+{{% ls-details title="Evermusicはデバイス間でプレイリストを同期しますか？" closed="true" %}}
 Evermusicで作成されたプレイリストはデバイスにローカルに保存されます。Dropboxファイルは、Dropbox自体を通じてすべてのデバイス間で同期されたままです。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Dropboxの音楽でiPhoneのストレージを解放するにはどうすればよいですか？" closed="true" %}}
+{{% ls-details title="Dropboxの音楽でiPhoneのストレージを解放するにはどうすればよいですか？" closed="true" %}}
 音楽ファイルをDropboxに移動し、iPhoneに保存する代わりにEvermusicでストリーミングしてください。オフライン視聴に必要なトラックだけをダウンロードしましょう。
-{{% /details %}}
+{{% /ls-details %}}

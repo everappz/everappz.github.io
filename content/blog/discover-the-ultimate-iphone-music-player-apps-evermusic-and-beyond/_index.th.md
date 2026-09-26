@@ -12,7 +12,7 @@ authors:
     image: "/images/about/artem-meleshko-founder-everappz.webp"
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 **สรุป:** เครื่องเล่นเพลง iPhone ที่ดีที่สุดขึ้นอยู่กับความต้องการของคุณ **Evermusic** เหมาะสำหรับการเล่นเพลงจากคลาวด์สตอเรจและความยืดหยุ่นของฟอร์แมต **Apple Music** เหมาะกับผู้ที่อยู่ในระบบนิเวศของ Apple **Spotify** เชี่ยวชาญด้านการค้นพบเพลง **VLC** รองรับทุกฟอร์แมตไฟล์ฟรี **Amazon Music** เข้ากันได้ดีกับ Alexa และ Prime
 
@@ -128,22 +128,22 @@ Amazon Music ผสานกับระบบนิเวศของ Amazon �
 
 ## คำถามที่พบบ่อย
 
-{{% details title="เครื่องเล่นเพลงฟรีที่ดีที่สุดสำหรับ iPhone คืออะไร?" closed="true" %}}
+{{% ls-details title="เครื่องเล่นเพลงฟรีที่ดีที่สุดสำหรับ iPhone คืออะไร?" closed="true" %}}
 สำหรับการเล่นไฟล์ของคุณเอง Evermusic และ VLC เป็นตัวเลือกฟรีทั้งคู่ Evermusic เพิ่มการผสานกับคลาวด์สตอเรจ ในขณะที่ VLC รองรับฟอร์แมตไฟล์ที่หลากหลายที่สุด
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="ฉันสามารถเล่นไฟล์ FLAC บน iPhone ได้หรือไม่?" closed="true" %}}
+{{% ls-details title="ฉันสามารถเล่นไฟล์ FLAC บน iPhone ได้หรือไม่?" closed="true" %}}
 ได้ Evermusic และ VLC ทั้งคู่รองรับการเล่น FLAC บน iPhone Apple Music และ Spotify ไม่สามารถเล่นไฟล์ FLAC โดยตรง
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="แอปเครื่องเล่นเพลงใดที่ทำงานร่วมกับคลาวด์สตอเรจ?" closed="true" %}}
+{{% ls-details title="แอปเครื่องเล่นเพลงใดที่ทำงานร่วมกับคลาวด์สตอเรจ?" closed="true" %}}
 Evermusic เป็นเครื่องเล่นเพลง iPhone ชั้นนำที่มีการรองรับคลาวด์สตอเรจในตัว เชื่อมต่อกับ iCloud Drive, Dropbox, Google Drive, OneDrive, pCloud และบริการอื่นๆ
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Evermusic ดีกว่า Apple Music หรือไม่?" closed="true" %}}
+{{% ls-details title="Evermusic ดีกว่า Apple Music หรือไม่?" closed="true" %}}
 ทั้งสองมีวัตถุประสงค์ต่างกัน Evermusic เล่นไฟล์เพลงของคุณเองจากคลาวด์สตอเรจและสตอเรจในเครื่อง Apple Music เป็นบริการสตรีมมิ่งแบบสมัครสมาชิกที่มีแคตตาล็อกเพลง 100M+ เพลง หากคุณเป็นเจ้าของไฟล์เพลง Evermusic เป็นตัวเลือกที่ดีกว่า
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="ฉันสามารถใช้ Spotify แบบออฟไลน์บน iPhone ได้หรือไม่?" closed="true" %}}
+{{% ls-details title="ฉันสามารถใช้ Spotify แบบออฟไลน์บน iPhone ได้หรือไม่?" closed="true" %}}
 ได้ แต่เฉพาะกับการสมัครสมาชิก Spotify Premium เท่านั้น ผู้ใช้ Spotify ฟรีไม่สามารถดาวน์โหลดเพลงสำหรับการเล่นออฟไลน์
-{{% /details %}}
+{{% /ls-details %}}

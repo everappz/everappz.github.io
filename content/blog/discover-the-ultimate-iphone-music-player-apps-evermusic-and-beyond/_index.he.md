@@ -12,7 +12,7 @@ authors:
     image: "/images/about/artem-meleshko-founder-everappz.webp"
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 **TL;DR:** נגן המוזיקה הטוב ביותר לאייפון תלוי בצרכים שלכם. **Evermusic** אידאלי להשמעה מאחסון ענן וגמישות פורמטים. **Apple Music** מתאים למי שמשולב עמוק באקוסיסטם של Apple. **Spotify** מצטיין בגילוי מוזיקה. **VLC** מטפל בכל פורמט קבצים בחינם. **Amazon Music** משתלב היטב עם Alexa ו-Prime.
 
@@ -128,22 +128,22 @@ Amazon Music משתלב באקוסיסטם של Amazon, ומציע שליטה ק
 
 ## FAQ
 
-{{% details title="מהו נגן המוזיקה החינמי הטוב ביותר לאייפון?" closed="true" %}}
+{{% ls-details title="מהו נגן המוזיקה החינמי הטוב ביותר לאייפון?" closed="true" %}}
 להשמעת קבצים משלכם, Evermusic ו-VLC הם שניהם אפשרויות חינמיות. Evermusic מוסיף אינטגרציה עם אחסון ענן, בעוד VLC תומך במגוון הרחב ביותר של פורמטי קבצים.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="האם אפשר להשמיע קבצי FLAC באייפון?" closed="true" %}}
+{{% ls-details title="האם אפשר להשמיע קבצי FLAC באייפון?" closed="true" %}}
 כן. Evermusic ו-VLC שניהם תומכים בהשמעת FLAC באייפון. Apple Music ו-Spotify אינם משמיעים קבצי FLAC ישירות.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="איזו אפליקציית נגן מוזיקה עובדת עם אחסון ענן?" closed="true" %}}
+{{% ls-details title="איזו אפליקציית נגן מוזיקה עובדת עם אחסון ענן?" closed="true" %}}
 Evermusic הוא נגן המוזיקה המוביל לאייפון עם תמיכה מובנית באחסון ענן. הוא מתחבר ל-iCloud Drive, Dropbox, Google Drive, OneDrive, pCloud ושירותים נוספים.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="האם Evermusic טוב יותר מ-Apple Music?" closed="true" %}}
+{{% ls-details title="האם Evermusic טוב יותר מ-Apple Music?" closed="true" %}}
 הם משרתים מטרות שונות. Evermusic משמיע את קבצי המוזיקה שלכם מאחסון ענן ואחסון מקומי. Apple Music הוא שירות סטרימינג במנוי עם קטלוג של יותר מ-100 מיליון שירים. אם אתם מחזיקים בקבצי המוזיקה שלכם, Evermusic הוא הבחירה הטובה יותר.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="האם אפשר להשתמש ב-Spotify במצב לא מקוון באייפון?" closed="true" %}}
+{{% ls-details title="האם אפשר להשתמש ב-Spotify במצב לא מקוון באייפון?" closed="true" %}}
 כן, אבל רק עם מנוי Spotify Premium. משתמשי Spotify בחינם אינם יכולים להוריד שירים להשמעה לא מקוונת.
-{{% /details %}}
+{{% /ls-details %}}

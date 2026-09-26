@@ -20,7 +20,7 @@ Nella sezione Playlist troverai strumenti utili per gestire le tue raccolte musi
 Le playlist in Flacbox possono contenere un mix di tracce cloud online, file scaricati offline e file locali dal tuo dispositivo — tutto in una playlist — e vengono riprodotte insieme senza interruzioni.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Schermata principale Playlist Flacbox" image="/docs/guide/flacbox/img/playlists-main.webp" >}}
+  {{< ls-card title="" subtitle="Schermata principale Playlist Flacbox" image="/docs/guide/flacbox/img/playlists-main.webp" >}}
 {{< /cards >}}
 
 ## Creare una Playlist
@@ -63,7 +63,7 @@ Quando apri una playlist, appare la schermata Dettaglio Playlist. Troverai un pu
 - **Modalità Offline** — scarica tutte le tracce di questa playlist nei file locali. I nuovi elementi aggiunti alla playlist vengono scaricati automaticamente.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Schermata Dettaglio Playlist Flacbox" image="/docs/guide/flacbox/img/playlist-details-screen.webp" >}}
+  {{< ls-card title="" subtitle="Schermata Dettaglio Playlist Flacbox" image="/docs/guide/flacbox/img/playlist-details-screen.webp" >}}
 {{< /cards >}}
 
 ## Altre Azioni per una Playlist nella Schermata Playlist
@@ -82,7 +82,7 @@ Puoi accedere alle azioni per una playlist toccando il pulsante **"..."** vicino
 - **Elimina Playlist** — elimina la playlist dalla libreria musicale. **Questa azione non può essere annullata.**
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox Altre Azioni per una Playlist nella Schermata Principale Playlist" image="/docs/guide/flacbox/img/more-actions-for-playlist-in-playlists-main-screen.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox Altre Azioni per una Playlist nella Schermata Principale Playlist" image="/docs/guide/flacbox/img/more-actions-for-playlist-in-playlists-main-screen.webp" >}}
 {{< /cards >}}
 
 ## Altre Azioni per una Playlist nella Schermata Dettaglio Playlist
@@ -110,7 +110,7 @@ Per cambiare l'ordine dei brani in una playlist, tocca il pulsante **"..."** nel
 Per un flusso di lavoro ancora più semplice su playlist lunghe, scegli Altre Azioni → Riordina Brani per entrare in modalità dedicata di riordino tramite trascinamento.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox Riordina Brani in una Playlist" image="/docs/guide/flacbox/img/playlist-details-rearange-songs.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox Riordina Brani in una Playlist" image="/docs/guide/flacbox/img/playlist-details-rearange-songs.webp" >}}
 {{< /cards >}}
 
 ## Modifica dell'Immagine di Copertina della Playlist
@@ -126,7 +126,7 @@ Apri la playlist e tocca il pulsante **"..."** nell'angolo in alto a destra, poi
 Apri la playlist, tocca il pulsante **"..."** nell'angolo in alto a destra, e seleziona **Seleziona** per entrare in modalità di selezione. Scegli le tracce che vuoi eliminare e tocca **Elimina dalla Playlist** in fondo allo schermo. Conferma toccando **Fine**.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox Modalità di Selezione nella Schermata Dettaglio Playlist" image="/docs/guide/flacbox/img/selection-mode-playlist-details-screen.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox Modalità di Selezione nella Schermata Dettaglio Playlist" image="/docs/guide/flacbox/img/selection-mode-playlist-details-screen.webp" >}}
 {{< /cards >}}
 
 ## Opzioni Traccia

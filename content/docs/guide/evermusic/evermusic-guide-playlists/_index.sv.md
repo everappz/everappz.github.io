@@ -17,7 +17,7 @@ readingTime: 6
 Sektionen Spellistor ger dig verktyg för att organisera dina spår i listor. Det inkluderar en innehållsvy som visar alla dina skapade spellistor, en "..."-knapp i navigeringsfältet som erbjuder olika spellistarelaterade åtgärder, och ett navigeringsverktygsfält med "Sök", "Spela alla" och "Blanda alla"-knappar. Dessutom har varje enskild spellista en "..."-knapp nära spellistetiteln, med ett antal åtgärder specifika för just den spellistan.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evermusic Spellisteskärm" image="/docs/guide/evermusic/evermusic-guide-playlists/img/playlists-main.webp" >}}
+  {{< ls-card title="" subtitle="Evermusic Spellisteskärm" image="/docs/guide/evermusic/evermusic-guide-playlists/img/playlists-main.webp" >}}
 {{< /cards >}}
 
 ## Skapa en Spellista
@@ -25,7 +25,7 @@ Sektionen Spellistor ger dig verktyg för att organisera dina spår i listor. De
 Skapa en ny spellista genom att antingen trycka på "+"-knappen eller "..."-knappen i det övre högra hörnet av navigeringsfältet, välj "Ny spellista" och ge din spellista ett namn. Tryck på "Spara" efter att du har namngett den.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Skapa en ny spellista" image="/docs/guide/evermusic/evermusic-guide-playlists/img/playlists-add-new.webp" >}}
+  {{< ls-card title="" subtitle="Skapa en ny spellista" image="/docs/guide/evermusic/evermusic-guide-playlists/img/playlists-add-new.webp" >}}
 {{< /cards >}}
 
 Det öppnar dialogrutan "Lägg till låtar", där du kan välja vilka spår som ska läggas till i den nya spellistan. Spår kategoriseras efter källtyp och du har flera alternativ:
@@ -42,7 +42,7 @@ Som standard kan du bara lägga till ett spår i en spellista en gång. För att
 I Evermusic har vi lagt till M3U-filimportfunktionalitet, så att du inte behöver skapa spellistor manuellt.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Importera spellista från en filkälla" image="/docs/guide/evermusic/evermusic-guide-playlists/img/playlists-import-from-files.webp" >}}
+  {{< ls-card title="" subtitle="Importera spellista från en filkälla" image="/docs/guide/evermusic/evermusic-guide-playlists/img/playlists-import-from-files.webp" >}}
 {{< /cards >}}
 
 Gå först till avsnittet 'Spellistor'. Tryck sedan på 'Mer'-knappen i det övre högra hörnet. Välj alternativet 'Importera spellista' från menyn som visas.
@@ -62,7 +62,7 @@ Appen tolkar spellistefilen, skapar en lista med spår och hittar de filerna på
 När du öppnar en spellista visas "Spellistans detaljskärm". På den här skärmen hittar du en "..."-knapp i det övre högra hörnet med spelliste-alternativ och tre knappar under omslagsbilden: "Sök", "Fortsätt uppspelning", "Spela alla" och "Blanda alla". Dessutom finns en kryssruta för "Offlineläge".
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Spellistans detaljskärm" image="/docs/guide/evermusic/evermusic-guide-playlists/img/playlists-detail-screen.webp" >}}
+  {{< ls-card title="" subtitle="Spellistans detaljskärm" image="/docs/guide/evermusic/evermusic-guide-playlists/img/playlists-detail-screen.webp" >}}
 {{< /cards >}}
 
 - **Fortsätt uppspelning**: Återställ uppspelningsposition för den här spellistan.
@@ -87,7 +87,7 @@ Du kan komma åt åtgärder för en spellista genom att trycka på "..."-knappen
 - **Ta bort spellista:** Ta bort spellistan från Musikbiblioteket. Observera att den här åtgärden inte kan ångras.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Menyn Fler åtgärder för en spellista" image="/docs/guide/evermusic/evermusic-guide-playlists/img/playlists-more-actions-for-separate-playlist.webp" >}}
+  {{< ls-card title="" subtitle="Menyn Fler åtgärder för en spellista" image="/docs/guide/evermusic/evermusic-guide-playlists/img/playlists-more-actions-for-separate-playlist.webp" >}}
 {{< /cards >}}
 
 ## Fler åtgärder för Spellista på Spellistas Detaljskärm
@@ -113,7 +113,7 @@ Du kan komma åt åtgärder för en spellista genom att trycka på "..."-knappen
 För att ändra ordningen på låtar i en spellista, tryck på "..."-knappen i det övre högra hörnet och välj "Välj" för att gå in i valläge. Använd ordningskontrollen och dra-och-släpp-gester nära varje spår för att flytta dem upp eller ned. Om du trycker på ordningskontrollen flyttas spåret högst upp i listan. Tryck på "Klar" för att avsluta valläget och tillämpa ändringarna.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Ändra låtordning i en spellista" image="/docs/guide/evermusic/evermusic-guide-playlists/img/playlists-change-songs-order.webp" >}}
+  {{< ls-card title="" subtitle="Ändra låtordning i en spellista" image="/docs/guide/evermusic/evermusic-guide-playlists/img/playlists-change-songs-order.webp" >}}
 {{< /cards >}}
 
 ## Ändra Spellistans Omslagsbild
@@ -129,7 +129,7 @@ För att ändra omslagsbilden för en spellista, tryck på "..."-knappen i det �
 Öppna spellistan, tryck på "..."-knappen i det övre högra hörnet och välj "Välj" för att gå in i valläge. Välj de spår du vill ta bort och tryck på knappen "Ta bort från spellista" längst ner på skärmen. Bekräfta ändringarna genom att trycka på "Klar".
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Valläge inuti en spellista" image="/docs/guide/evermusic/evermusic-guide-playlists/img/playlists-selection-mode-in-playlist-details-screen.webp" >}}
+  {{< ls-card title="" subtitle="Valläge inuti en spellista" image="/docs/guide/evermusic/evermusic-guide-playlists/img/playlists-selection-mode-in-playlist-details-screen.webp" >}}
 {{< /cards >}}
 
 ## Spåralternativ
@@ -137,7 +137,7 @@ För att ändra omslagsbilden för en spellista, tryck på "..."-knappen i det �
 Varje spår i en spellista har en lista med åtgärder, åtkomlig genom att trycka på "..."-knappen. Om du inte kan se alla åtgärder rullar du ned för att se dem. Du kan ta bort spåret från spellistan, ladda ned det, redigera ljudtaggar och mer.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Spåralternativsmeny i en spellista" image="/docs/guide/evermusic/evermusic-guide-playlists/img/playlists-track-options.webp" >}}
+  {{< ls-card title="" subtitle="Spåralternativsmeny i en spellista" image="/docs/guide/evermusic/evermusic-guide-playlists/img/playlists-track-options.webp" >}}
 {{< /cards >}}
 
 - **Spela nästa:** Lägger till spåret överst i spelarköen.

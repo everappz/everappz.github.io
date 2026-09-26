@@ -12,7 +12,7 @@ authors:
     image: "/images/about/artem-meleshko-founder-everappz.webp"
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 **Tóm tắt nhanh:** [Evermusic 8.7](/products/evermusic) là một bản phát hành về chất lượng âm thanh cho iPhone, iPad và Mac. Nó mang đến **phát liền mạch thực sự** (không có khoảng dừng, tiếng lách cách hay tiếng tích giữa các bài), một bộ **hiệu ứng âm thanh phòng thu** đầy đủ — Reverb, Delay, Distortion, Compressor và Crossfeed — cùng **chuẩn hóa âm lượng EBU R128** giữ độ lớn đồng nhất từ bài này sang bài khác mà không cần thẻ ReplayGain. **Bộ chỉnh âm 10 dải** được thiết kế lại với thanh trượt mới, chuyển preset nhanh hơn, preset tùy chỉnh mà bạn có thể nhập và xuất, cùng bố cục ngang và iPad tốt hơn. Bên trong, một **bộ máy phát trực tuyến AVAudioEngine được xây dựng lại** cải thiện độ tin cậy và hỗ trợ định dạng, bao gồm **FLAC** và **Ogg Vorbis**. **CarPlay** và **Now Playing** nhanh hơn và chính xác hơn trên Màn hình khóa, trong xe và từ nút điều khiển của tai nghe.
 
@@ -129,50 +129,50 @@ Nếu bạn thích ứng dụng, xin hãy để lại đánh giá trên App Stor
 
 ## Câu hỏi thường gặp
 
-{{% details title="Có gì mới trong Evermusic 8.7?" closed="true" %}}
+{{% ls-details title="Có gì mới trong Evermusic 8.7?" closed="true" %}}
 Evermusic 8.7 bổ sung phát liền mạch thực sự, năm hiệu ứng âm thanh phòng thu (Reverb, Delay, Distortion, Compressor và Crossfeed), chuẩn hóa âm lượng EBU R128, bộ chỉnh âm 10 dải được thiết kế lại có preset tùy chỉnh và nhập/xuất, bộ máy phát trực tuyến AVAudioEngine được xây dựng lại với hỗ trợ định dạng cải thiện (gồm FLAC và Ogg Vorbis), CarPlay và Now Playing nhanh hơn và chính xác hơn, cập nhật thiết kế Liquid Glass, widget Màn hình chính mới, cùng sửa lỗi và bản địa hóa.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Evermusic có phát liền mạch thực sự không?" closed="true" %}}
+{{% ls-details title="Evermusic có phát liền mạch thực sự không?" closed="true" %}}
 Có. Kể từ Evermusic 8.7, việc phát thực sự liền mạch: không có khoảng dừng, tiếng lách cách hay tiếng tích giữa các bài. Bộ máy nạp bộ đệm trước và giải mã bài kế tiếp trong khi bài hiện tại phát, rồi chuyển giao giữa các mẫu âm thanh trên một bộ đệm vòng liên tục, nên quá trình chuyển tiếp không nghe được. Nó hoạt động với tệp cục bộ, luồng đám mây và máy chủ phương tiện, và lý tưởng cho album trực tiếp, bản phối DJ và album concept.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Evermusic 8.7 bao gồm những hiệu ứng âm thanh nào?" closed="true" %}}
+{{% ls-details title="Evermusic 8.7 bao gồm những hiệu ứng âm thanh nào?" closed="true" %}}
 Năm hiệu ứng thời gian thực: **Reverb** (13 preset không gian, mix wet/dry), **Delay/Echo** (10 preset với thời gian delay, feedback, low-pass và mix), **Distortion** (22 preset đặc trưng với pre-gain và mix), **Compressor** (một bộ xử lý dải động đầy đủ với ngưỡng, tỷ lệ, attack, release, mở rộng và makeup gain, cùng 10 preset), và **Crossfeed** (crossfeed tai nghe Bauer bs2b với điều khiển mức và cutoff cùng 6 preset). Mỗi hiệu ứng đi kèm preset được tuyển chọn, và cài đặt tùy chỉnh của bạn được ghi nhớ giữa các phiên.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Crossfeed là gì và vì sao tôi nên dùng?" closed="true" %}}
+{{% ls-details title="Crossfeed là gì và vì sao tôi nên dùng?" closed="true" %}}
 Crossfeed trộn một lượng nhỏ đã lọc của mỗi kênh stereo vào kênh kia, theo cách tai bạn nghe loa thật trong một căn phòng một cách tự nhiên. Trên tai nghe, điều này giảm sự tách kênh cường điệu, "trong đầu" của các bản thu panning gắt và khiến việc nghe lâu thoải mái hơn. Evermusic dùng thuật toán nổi tiếng Bauer stereophonic-to-binaural (bs2b) và có các preset như Chu Moy và Jan Meier. Nó đặc biệt hiệu quả với các bản phối stereo cũ của thập niên 1960 và 1970.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Chuẩn hóa âm lượng hoạt động thế nào trong Evermusic?" closed="true" %}}
+{{% ls-details title="Chuẩn hóa âm lượng hoạt động thế nào trong Evermusic?" closed="true" %}}
 Evermusic 8.7 đo độ lớn cảm nhận của mỗi bài bằng chuẩn EBU R128 (ITU-R BS.1770) theo thời gian thực và nhẹ nhàng điều chỉnh mức về một mục tiêu đồng nhất để các bài không nhảy âm lượng. Nó không cần thẻ ReplayGain và không thay đổi tệp của bạn. Có bốn preset — Nhẹ (−20 LUFS), Tiêu chuẩn (−16 LUFS), Mạnh (−14 LUFS) và Ban đêm (−23 LUFS) — và việc chuẩn hóa đặt lại gọn gàng khi bạn tua hoặc đổi bài.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Chuẩn hóa âm lượng của Evermusic có giống ReplayGain không?" closed="true" %}}
+{{% ls-details title="Chuẩn hóa âm lượng của Evermusic có giống ReplayGain không?" closed="true" %}}
 Nó đạt cùng mục tiêu — độ lớn đồng nhất giữa các bài — nhưng hoạt động khác. ReplayGain dựa vào các thẻ độ lớn lưu trong tệp của bạn. Bộ chuẩn hóa của Evermusic đo độ lớn trực tiếp bằng EBU R128, nên nó hoạt động trên mọi nguồn, kể cả luồng đám mây và đài phát thanh internet, ngay cả khi tệp hoàn toàn không có thẻ.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Bộ chỉnh âm Evermusic có bao nhiêu dải, và tôi có thể tạo preset riêng không?" closed="true" %}}
+{{% ls-details title="Bộ chỉnh âm Evermusic có bao nhiêu dải, và tôi có thể tạo preset riêng không?" closed="true" %}}
 Bộ chỉnh âm Evermusic là một bộ chỉnh âm đồ họa 10 dải bao phủ từ 32 Hz đến 16 kHz, với mỗi dải điều chỉnh được từ −12 dB đến +12 dB theo bước 0,1 dB và một preamp từ −24 dB đến +24 dB. Nó bao gồm các preset tích hợp, cho phép tạo và lưu preset tùy chỉnh, và hỗ trợ nhập và xuất preset dưới dạng tệp .eqp để bạn có thể chuyển hoặc chia sẻ giữa các thiết bị.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Bộ chỉnh âm của Evermusic 8.7 đã thay đổi gì?" closed="true" %}}
+{{% ls-details title="Bộ chỉnh âm của Evermusic 8.7 đã thay đổi gì?" closed="true" %}}
 Bộ chỉnh âm được thiết kế lại với các thanh trượt mới, chính xác hơn mang diện mạo thanh trượt hệ thống iOS 26 và Liquid Glass, chuyển preset nhanh hơn và mượt hơn, cùng bố cục tốt hơn ở chế độ ngang và trên iPad (một thanh preset ngang ở chế độ dọc và một cột preset dọc ở chế độ ngang). Hỗ trợ preset tùy chỉnh và nhập/xuất .eqp.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Evermusic 8.7 có hỗ trợ FLAC và Ogg Vorbis không?" closed="true" %}}
+{{% ls-details title="Evermusic 8.7 có hỗ trợ FLAC và Ogg Vorbis không?" closed="true" %}}
 Có. Bộ máy được xây dựng lại phát FLAC (qua Core Audio) và Ogg Vorbis (qua libvorbisfile), cùng với MP3, AAC, Apple Lossless (ALAC), WAV, AIFF, AC-3, CAF và nhiều nữa, từ tệp cục bộ, ổ đám mây và máy chủ phương tiện.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Có gì cải thiện trong CarPlay và trên Màn hình khóa?" closed="true" %}}
+{{% ls-details title="Có gì cải thiện trong CarPlay và trên Màn hình khóa?" closed="true" %}}
 Ảnh bìa album CarPlay tải nhanh hơn nhiều lần trên các danh sách dài và giờ xuất hiện trong các hàng danh sách iOS 26 nhỏ gọn mà trước đây không hiển thị. Thông tin Now Playing trên Màn hình khóa và trong CarPlay chính xác hơn — tiêu đề, thời gian đã trôi, thời lượng và trạng thái phát/tạm dừng được nắm bắt cùng nhau để không thể mâu thuẫn, và trạng thái nạp bộ đệm được báo cáo chính xác. Điều khiển từ xa (phát, tạm dừng, tiếp theo, trước đó, tua, xáo trộn, lặp lại, tốc độ) phản hồi đáng tin cậy từ tai nghe và xe, và việc sắp xếp CarPlay trên các thư viện lớn nhanh hơn.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Các hiệu ứng âm thanh và bộ chỉnh âm có hoạt động với phát trực tuyến đám mây và CarPlay không?" closed="true" %}}
+{{% ls-details title="Các hiệu ứng âm thanh và bộ chỉnh âm có hoạt động với phát trực tuyến đám mây và CarPlay không?" closed="true" %}}
 Có. Các hiệu ứng, bộ chỉnh âm và chuẩn hóa âm lượng chạy gốc bên trong bộ máy phát nhạc, nên chúng áp dụng cho mọi thứ Evermusic phát — tệp cục bộ, ổ đám mây, máy chủ phương tiện và đài phát thanh internet — và tiếp tục hoạt động trong khi phát qua CarPlay và, ở nơi được hỗ trợ, qua AirPlay và Chromecast.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Cập nhật Evermusic 8.7 có miễn phí không, và nó hỗ trợ những thiết bị nào?" closed="true" %}}
+{{% ls-details title="Cập nhật Evermusic 8.7 có miễn phí không, và nó hỗ trợ những thiết bị nào?" closed="true" %}}
 Có. Evermusic tải về miễn phí từ App Store, và 8.7 là một bản cập nhật miễn phí cho người dùng hiện có, với các nâng cấp tùy chọn trong ứng dụng cho các tính năng nâng cao. Nó chạy trên iPhone, iPad và Mac. CarPlay yêu cầu một xe hoặc đầu phát tương thích với CarPlay.
-{{% /details %}}
+{{% /ls-details %}}

@@ -7,7 +7,7 @@ tags: ["muziek", "audio", "equalizer", "10-bands", "versterking", "configuratie"
 keywords: ["audio-equalizer iPhone", "Evermusic EQ-presets", "Flacbox 10-bands equalizer", "bas treble aanpassen iOS", "equalizer Mac muziek-app", "audio versterken met voorversterker", "aangepaste geluidspresets"]
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **Samenvatting:** Evermusic en Flacbox bevatten een professionele 10-bands audio-equalizer met presets (Rock, Hip-Hop, Bass Booster en meer), aangepaste presetcreatie en een voorversterker voor volumeversterking. Beschikbaar op iPhone, iPad en Mac.
@@ -105,26 +105,26 @@ Verbeter uw muziekervaring, pas uw audio aan voor elk scenario en geniet van het
 
 ## Veelgestelde vragen
 
-{{% details title="Werkt de equalizer met alle audioformaten?" closed="true" %}}
+{{% ls-details title="Werkt de equalizer met alle audioformaten?" closed="true" %}}
 Ja. De 10-bands EQ in Evermusic en Flacbox werkt met MP3, FLAC, AAC, WAV, ALAC, OGG en alle andere ondersteunde formaten.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Worden de EQ-instellingen op alle nummers toegepast?" closed="true" %}}
+{{% ls-details title="Worden de EQ-instellingen op alle nummers toegepast?" closed="true" %}}
 Ja. Zodra u de equalizer activeert en een preset selecteert, wordt deze toegepast op alle weergave totdat u deze wijzigt of uitschakelt.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Kan ik meer dan één aangepaste preset maken?" closed="true" %}}
+{{% ls-details title="Kan ik meer dan één aangepaste preset maken?" closed="true" %}}
 Ja. U kunt meerdere aangepaste presets maken, opslaan en ertussen schakelen. Gebruik de exportfunctie om een back-up te maken.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Veroorzaakt de voorversterker vervorming?" closed="true" %}}
+{{% ls-details title="Veroorzaakt de voorversterker vervorming?" closed="true" %}}
 Dat kan als deze te hoog is ingesteld. Let op de audioniveau-indicatoren tijdens het aanpassen. Als de niveaus clippen (de bovenkant bereiken), verlaag dan de voorversterkerwinst iets.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Is de equalizer beschikbaar op zowel Evermusic als Flacbox?" closed="true" %}}
+{{% ls-details title="Is de equalizer beschikbaar op zowel Evermusic als Flacbox?" closed="true" %}}
 Ja. Beide apps bevatten dezelfde 10-bands equalizer met presets, aangepaste presets en voorversterker.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Kan ik mijn EQ-presets met iemand anders delen?" closed="true" %}}
+{{% ls-details title="Kan ik mijn EQ-presets met iemand anders delen?" closed="true" %}}
 Ja. Gebruik de optie Configuratie exporteren om uw presets in een bestand op te slaan en deel het vervolgens. De andere persoon kan het importeren met Configuratie importeren.
-{{% /details %}}
+{{% /ls-details %}}

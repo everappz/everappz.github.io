@@ -18,7 +18,7 @@ aliases:
 Managing your music library is a breeze with Evermusic, where you can effortlessly organize all your tracks. You have two options for building your music library: manual addition or automatic synchronization.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evermusic Music Library Screen" image="/docs/guide/evermusic/evermusic-guide-music-library/img/music-library-main.webp" >}}
+  {{< ls-card title="" subtitle="Evermusic Music Library Screen" image="/docs/guide/evermusic/evermusic-guide-music-library/img/music-library-main.webp" >}}
 {{< /cards >}}
 
 ## Manual Addition
@@ -26,7 +26,7 @@ Managing your music library is a breeze with Evermusic, where you can effortless
 To manually add tracks, tap on the "Add music" menu item and select folders/files from the connected cloud storage service or files located on your device. When you add tracks to the library, only links to those tracks are created, preserving the actual files in their original locations to save valuable disk space. If you want to make tracks available offline, you can use the download action from the options menu or enable offline mode for playlists and track collections.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Add Songs to the Music Library" image="/docs/guide/evermusic/evermusic-guide-music-library/img/music-library-add-songs.webp" >}}
+  {{< ls-card title="" subtitle="Add Songs to the Music Library" image="/docs/guide/evermusic/evermusic-guide-music-library/img/music-library-add-songs.webp" >}}
 {{< /cards >}}
 
 ## Quick Access
@@ -78,7 +78,7 @@ When you add tracks to your music library, the app automatically reads their aud
 Located just beneath the navigation bar, the top toolbar offers several convenient actions: "Search," "Play all," "Shuffle all," and "Continue playback." You can reveal or hide this toolbar with a simple swipe-down gesture.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Albums View — Grouped by Music Tags" image="/docs/guide/evermusic/evermusic-guide-music-library/img/music-library-albums.webp" >}}
+  {{< ls-card title="" subtitle="Albums View — Grouped by Music Tags" image="/docs/guide/evermusic/evermusic-guide-music-library/img/music-library-albums.webp" >}}
 {{< /cards >}}
 
 ## Search
@@ -86,7 +86,7 @@ Located just beneath the navigation bar, the top toolbar offers several convenie
 The search feature empowers you to locate a specific track, artist, album, or genre within your music library. Within the "Search screen," you have access to the following actions: "Sort," "Filter," "Grid/List."
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Music Library Search Results" image="/docs/guide/evermusic/evermusic-guide-music-library/img/music-library-search.webp" >}}
+  {{< ls-card title="" subtitle="Music Library Search Results" image="/docs/guide/evermusic/evermusic-guide-music-library/img/music-library-search.webp" >}}
 {{< /cards >}}
 
 ## Options Menu
@@ -94,7 +94,7 @@ The search feature empowers you to locate a specific track, artist, album, or ge
 Each song in your music library boasts a menu with more actions, accessed by tapping the three dots button near the song title. These actions vary depending on whether it's a single song or part of a collection.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="More Actions for a Library Item" image="/docs/guide/evermusic/evermusic-guide-music-library/img/music-library-item-more-actions.webp" >}}
+  {{< ls-card title="" subtitle="More Actions for a Library Item" image="/docs/guide/evermusic/evermusic-guide-music-library/img/music-library-item-more-actions.webp" >}}
 {{< /cards >}}
 
 ### For Individual Songs
@@ -129,7 +129,7 @@ For song collections like Albums, Artists, Genres, or Composers, the options men
 You can activate selection mode using the More Actions button in the top right corner. In this mode, you can select multiple tracks and perform various actions.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Selection Mode in the Music Library" image="/docs/guide/evermusic/evermusic-guide-music-library/img/music-library-selection-mode.webp" >}}
+  {{< ls-card title="" subtitle="Selection Mode in the Music Library" image="/docs/guide/evermusic/evermusic-guide-music-library/img/music-library-selection-mode.webp" >}}
 {{< /cards >}}
 
 ## Tags Grouping
@@ -149,7 +149,7 @@ These categories help you organize your tracks by music tags: Songs, Albums, Alb
 When you open the Artist, Album Artist, or Composer sections, you can see a switcher for Songs/All Albums/Exclusive Albums/Solo Albums.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Album Detail with Songs / All / Exclusive / Solo Switcher" image="/docs/guide/evermusic/evermusic-guide-music-library/img/music-library-album-details.webp" >}}
+  {{< ls-card title="" subtitle="Album Detail with Songs / All / Exclusive / Solo Switcher" image="/docs/guide/evermusic/evermusic-guide-music-library/img/music-library-album-details.webp" >}}
 {{< /cards >}}
 
 - **Songs**: Displays all songs where this Artist/Album Artist/Composer is set in the audio tags.
@@ -170,7 +170,7 @@ You can use this feature to quickly find any song, artist, album, or genre in yo
 Tap the "Settings" menu item to configure your music library preferences.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Music Library Settings" image="/docs/guide/evermusic/evermusic-guide-music-library/img/music-library-settings.webp" >}}
+  {{< ls-card title="" subtitle="Music Library Settings" image="/docs/guide/evermusic/evermusic-guide-music-library/img/music-library-settings.webp" >}}
 {{< /cards >}}
 
 #### Metadata Reading

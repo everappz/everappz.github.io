@@ -12,7 +12,7 @@ authors:
     image: "/images/about/artem-meleshko-founder-everappz.webp"
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 ![](/blog/evermusic-stream-your-music-from-the-cloud-and-free-up-space-on-your-iphone-or-ipad/21260c_00c5356db3a24db6a6a37e353b774d56~mv2.jpg)
 
@@ -82,22 +82,22 @@ Bläddra i ditt anslutna molnkonto, öppna en musikmapp och tryck på en fil fö
 
 ## Vanliga frågor
 
-{{% details title="Är Evermusic gratis?" closed="true" %}}
+{{% ls-details title="Är Evermusic gratis?" closed="true" %}}
 Evermusic är gratis att ladda ner med valfria premiumfunktioner. Grundläggande molnstreaming och offline-uppspelning finns tillgängliga i gratisversionen.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Vilka molntjänster stöder Evermusic?" closed="true" %}}
+{{% ls-details title="Vilka molntjänster stöder Evermusic?" closed="true" %}}
 Google Drive, Dropbox, Box, OneDrive, MediaFire, MEGA, Yandex.Disk, pCloud, HiDrive, MyDrive, SMB-fildelning och WebDAV-servrar.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Kan jag lyssna på musik offline med Evermusic?" closed="true" %}}
+{{% ls-details title="Kan jag lyssna på musik offline med Evermusic?" closed="true" %}}
 Ja. Ladda ner valfritt album, artist, spellista eller enskild låt för offline-uppspelning direkt i appen.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Vilka ljudformat spelar Evermusic?" closed="true" %}}
+{{% ls-details title="Vilka ljudformat spelar Evermusic?" closed="true" %}}
 Evermusic stöder MP3, FLAC, AAC, WAV, ALAC, AIFF, OPUS, OGG och många andra format.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Behöver jag fortfarande iTunes för att överföra musik?" closed="true" %}}
+{{% ls-details title="Behöver jag fortfarande iTunes för att överföra musik?" closed="true" %}}
 Nej. Ladda upp din musik till valfri molntjänst som stöds från din dator och streama eller ladda sedan ner den genom Evermusic på din iPhone eller iPad.
-{{% /details %}}
+{{% /ls-details %}}

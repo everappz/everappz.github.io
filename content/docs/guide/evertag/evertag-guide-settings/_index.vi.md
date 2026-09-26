@@ -21,7 +21,7 @@ Trên màn hình này, bạn có thể truy cập cài đặt ứng dụng và n
 - **Pháp lý & quyền riêng tư** — Điều khoản, Chính sách quyền riêng tư, Thông báo pháp lý, Phân tích & thu thập dữ liệu
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evertag Settings Screen" image="/docs/guide/evertag/img/settings.webp" >}}
+  {{< ls-card title="" subtitle="Evertag Settings Screen" image="/docs/guide/evertag/img/settings.webp" >}}
 {{< /cards >}}
 
 ## Nâng cấp lên Premium
@@ -63,7 +63,7 @@ Kích hoạt màn hình bảo vệ mật khẩu nếu bạn muốn bảo vệ d�
 Trình quản lý tệp hỗ trợ truy cập vào các tài khoản lưu trữ đám mây đã kết nối và cung cấp các thao tác hàng loạt để quản lý nhanh nhiều tệp.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evertag Settings File Manager Screen" image="/docs/guide/evertag/img/settings-file-manager.webp" >}}
+  {{< ls-card title="" subtitle="Evertag Settings File Manager Screen" image="/docs/guide/evertag/img/settings-file-manager.webp" >}}
 {{< /cards >}}
 
 ### Truyền tệp
@@ -103,7 +103,7 @@ Xóa thư mục bộ nhớ đệm của ứng dụng để lấy lại dung lư�
 Trong phần này, bạn có thể cấu hình trình chỉnh sửa thẻ âm thanh tích hợp.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evertag Settings Tag Editor Screen" image="/docs/guide/evertag/img/settings-tag-editor.webp" >}}
+  {{< ls-card title="" subtitle="Evertag Settings Tag Editor Screen" image="/docs/guide/evertag/img/settings-tag-editor.webp" >}}
 {{< /cards >}}
 
 ### Thu phóng ảnh bìa album
@@ -136,7 +136,7 @@ Trong phần này, bạn có thể kích hoạt tính năng WiFi Drive cho phép
 Trong phần này, bạn có thể tùy chỉnh cài đặt giao diện người dùng theo sở thích của mình.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evertag Settings Personalization Screen" image="/docs/guide/evertag/img/settings-personalization.webp" >}}
+  {{< ls-card title="" subtitle="Evertag Settings Personalization Screen" image="/docs/guide/evertag/img/settings-personalization.webp" >}}
 {{< /cards >}}
 
 ### Biểu tượng ứng dụng

@@ -33,7 +33,7 @@ readingTime: 14
 檔案畫面右上角有一個傳輸按鈕（旋轉箭頭圖示）。點選它可開啟傳輸佇列，在這裡您可以監控所有來源的每次下載和上傳。
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evervideo 已連線儲存中的檔案" image="/docs/guide/evervideo/img/evervideo-files-connected-storages.webp" >}}
+  {{< ls-card title="" subtitle="Evervideo 已連線儲存中的檔案" image="/docs/guide/evervideo/img/evervideo-files-connected-storages.webp" >}}
 {{< /cards >}}
 
 ## 連線到雲端儲存
@@ -41,7 +41,7 @@ readingTime: 14
 檔案標籤頁的雲端儲存部分是所有已連線帳戶、NAS、媒體伺服器和串流所在的地方——並排，在一個可捲動的清單中。
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evervideo 檔案標籤頁中的雲端儲存部分" image="/docs/guide/evervideo/img/evervideo-connections.webp" >}}
+  {{< ls-card title="" subtitle="Evervideo 檔案標籤頁中的雲端儲存部分" image="/docs/guide/evervideo/img/evervideo-connections.webp" >}}
 {{< /cards >}}
 
 - 開啟**檔案**標籤頁。
@@ -51,7 +51,7 @@ readingTime: 14
 - 在雲端服務提供商提供的官方授權頁面上輸入您的憑據，然後點選**完成**。
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evervideo 連線雲端儲存服務" image="/docs/guide/evervideo/img/evervideo-connect-cloud-storage.webp" >}}
+  {{< ls-card title="" subtitle="Evervideo 連線雲端儲存服務" image="/docs/guide/evervideo/img/evervideo-connect-cloud-storage.webp" >}}
 {{< /cards >}}
 
 如果遇到問題，請檢查您的網路連線和登入 / 密碼。在應用程式的 Premium 版本中，您可以新增無限數量的服務；免費版本最多支援三個。
@@ -161,7 +161,7 @@ Evervideo 具有原生 RTSP 支援，因此您可以將其指向任何 RTSP 來�
 - 如需，輸入登入詳細資訊以完成連線。
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evervideo 本機網路上的可用設備" image="/docs/guide/evervideo/img/evervideo-available-devices.webp" >}}
+  {{< ls-card title="" subtitle="Evervideo 本機網路上的可用設備" image="/docs/guide/evervideo/img/evervideo-available-devices.webp" >}}
 {{< /cards >}}
 
 ## Wi-Fi Drive
@@ -169,7 +169,7 @@ Evervideo 具有原生 RTSP 支援，因此您可以將其指向任何 RTSP 來�
 Wi-Fi Drive 讓您可以透過任何桌面瀏覽器、Finder 或 File Explorer 從電腦無線傳輸檔案到 iOS 裝置。您的裝置和電腦必須在同一 Wi-Fi 網路上。
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evervideo Wi-Fi Drive" image="/docs/guide/evervideo/img/evervideo-wifi-drive.webp" >}}
+  {{< ls-card title="" subtitle="Evervideo Wi-Fi Drive" image="/docs/guide/evervideo/img/evervideo-wifi-drive.webp" >}}
 {{< /cards >}}
 
 ### 啟用 Wi-Fi Drive
@@ -201,7 +201,7 @@ iTunes 檔案共享（macOS Catalina 及更高版本中現為 Finder 檔案共�
 點選任何已連線的雲端服務開啟其檔案瀏覽器。資料夾在可用時顯示視訊縮圖，點選視訊會立即開始播放，同時在背景中繼續串流檔案的其餘部分。
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evervideo 在已連線儲存中瀏覽資料夾" image="/docs/guide/evervideo/img/evervideo-all-connected-device-folders.webp" >}}
+  {{< ls-card title="" subtitle="Evervideo 在已連線儲存中瀏覽資料夾" image="/docs/guide/evervideo/img/evervideo-all-connected-device-folders.webp" >}}
 {{< /cards >}}
 
 ## 快速存取
@@ -209,7 +209,7 @@ iTunes 檔案共享（macOS Catalina 及更高版本中現為 Finder 檔案共�
 快速存取部分位於檔案標籤頁的頂部。它提供對您最愛的和最近開啟的檔案和資料夾的快速存取——來自雲端服務和裝置儲存。每當您從雲端開啟檔案或資料夾時，它都會被新增到最近開啟清單中。您可以將深層巢狀的資料夾標記為最愛，以便快速存取而無需遍歷目錄結構。
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evervideo 線上連結和快速存取" image="/docs/guide/evervideo/img/evervideo-connections-online-links.webp" >}}
+  {{< ls-card title="" subtitle="Evervideo 線上連結和快速存取" image="/docs/guide/evervideo/img/evervideo-connections-online-links.webp" >}}
 {{< /cards >}}
 
 ## 此應用程式中的檔案
@@ -217,7 +217,7 @@ iTunes 檔案共享（macOS Catalina 及更高版本中現為 Finder 檔案共�
 此部分顯示儲存在 Evervideo 沙盒 Documents 目錄中的檔案和資料夾——您從雲端下載的所有內容、透過 Wi-Fi Drive 傳輸的、透過 Finder 檔案共享複製的或從其他應用程式匯入的。
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evervideo 應用程式中的檔案" image="/docs/guide/evervideo/img/evervideo-files-in-this-application.webp" >}}
+  {{< ls-card title="" subtitle="Evervideo 應用程式中的檔案" image="/docs/guide/evervideo/img/evervideo-files-in-this-application.webp" >}}
 {{< /cards >}}
 
 ### Documents 資料夾
@@ -225,7 +225,7 @@ iTunes 檔案共享（macOS Catalina 及更高版本中現為 Finder 檔案共�
 Documents 資料夾是「此應用程式中的檔案」內所有內容的根目錄。您可以建立子資料夾、重新命名檔案、移動它們，以及按您喜歡的方式整理。
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evervideo 本機檔案 — Documents 資料夾" image="/docs/guide/evervideo/img/evervideo-local-files-documents.webp" >}}
+  {{< ls-card title="" subtitle="Evervideo 本機檔案 — Documents 資料夾" image="/docs/guide/evervideo/img/evervideo-local-files-documents.webp" >}}
 {{< /cards >}}
 
 ## 此 iPhone / iPad / Mac 上的檔案
@@ -238,7 +238,7 @@ Documents 資料夾是「此應用程式中的檔案」內所有內容的根目�
 您還可以使用連接資料夾來建立裝置上具有讀 / 寫存取權限的資料夾連結——非常適合在不複製任何內容的情況下處理 iCloud Drive 上的資料夾或附加的 USB 磁碟機。
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evervideo 此裝置上的檔案" image="/docs/guide/evervideo/img/evervideo-files-on-this-device.webp" >}}
+  {{< ls-card title="" subtitle="Evervideo 此裝置上的檔案" image="/docs/guide/evervideo/img/evervideo-files-on-this-device.webp" >}}
 {{< /cards >}}
 
 ## 特殊資料夾
@@ -276,7 +276,7 @@ Documents 資料夾是「此應用程式中的檔案」內所有內容的根目�
 點選右上角的 **「...」** 並選擇**選擇**進入選擇模式。每個檔案和資料夾旁邊會出現核取方塊。點選選擇一個或多個項目，然後執行批次操作：播放下一個、稍後播放、新增到媒體資料庫、新增到播放清單、複製、上傳、移動、重新命名或刪除。
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evervideo 檔案管理員中的選擇模式" image="/docs/guide/evervideo/img/evervideo-selection-mode-in-files.webp" >}}
+  {{< ls-card title="" subtitle="Evervideo 檔案管理員中的選擇模式" image="/docs/guide/evervideo/img/evervideo-selection-mode-in-files.webp" >}}
 {{< /cards >}}
 
 如果您希望將已連線的雲端儲存視為唯讀（防止意外刪除），請啟用設定 → 檔案管理員 → 編輯線上檔案 → 關閉，以從介面中隱藏所有破壞性操作。
@@ -318,13 +318,13 @@ Documents 資料夾是「此應用程式中的檔案」內所有內容的根目�
 檔案標籤頁右上角有一個**傳輸**按鈕（旋轉箭頭圖示）。點選它可開啟傳輸佇列——所有來源的每個活動下載和上傳的清單，附帶即時進度、速度和每個檔案的預計時間。
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evervideo 檔案傳輸佇列" image="/docs/guide/evervideo/img/evervideo-file-transfers.webp" >}}
+  {{< ls-card title="" subtitle="Evervideo 檔案傳輸佇列" image="/docs/guide/evervideo/img/evervideo-file-transfers.webp" >}}
 {{< /cards >}}
 
 您可以暫停、恢復、重試失敗的傳輸、重新排列項目以優先處理特定下載，或逐個取消。您還可以在設定 → 檔案管理員中調整傳輸佇列速度（最大平行任務數）、網路類型（僅 Wi-Fi 或 Wi-Fi + 行動網路）和背景傳輸。
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evervideo 檔案傳輸佇列上的操作" image="/docs/guide/evervideo/img/evervideo-file-transfers-actions.webp" >}}
+  {{< ls-card title="" subtitle="Evervideo 檔案傳輸佇列上的操作" image="/docs/guide/evervideo/img/evervideo-file-transfers-actions.webp" >}}
 {{< /cards >}}
 
 ## 離線模式和同步離線資料夾

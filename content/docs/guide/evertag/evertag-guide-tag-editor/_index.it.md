@@ -15,7 +15,7 @@ readingTime: 5
 **L'Editor tag** è la schermata principale dell'app Evertag dove puoi visualizzare e modificare i metadati dei file audio. Apri questa schermata toccando un file dalla sezione **File locali** o da qualsiasi account di **archiviazione cloud** connesso.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Schermata Editor tag Evertag" image="/docs/guide/evertag/img/tag-editor.webp" >}}
+  {{< ls-card title="" subtitle="Schermata Editor tag Evertag" image="/docs/guide/evertag/img/tag-editor.webp" >}}
 {{< /cards >}}
 
 ## Modalità di modifica
@@ -38,7 +38,7 @@ Per impostazione predefinita, l'app apre l'editor tag in modalità file singolo 
 Per accedere a tutti i tag disponibili, scorri fino in fondo alla schermata e tocca l'opzione **Mostra tag estesi**. Questo commuta l'editor in modalità estesa, permettendoti di modificare oltre **120 campi di metadati**, inclusi **Tag MusicBrainz**, **Testi**, **Classificazioni consultive**, valori replay-gain, ordini di ordinamento, metadati podcast e altro. Usa **Impostazioni → Editor tag audio → Pulsanti sulla schermata principale** per attivare in modo permanente Mostra tag estesi in modo che sia sempre attivo.
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Pannello azioni in basso" image="/docs/guide/evertag/img/tag-editor-bottom-actions.webp" >}}
+{{< ls-card title="" subtitle="Pannello azioni in basso" image="/docs/guide/evertag/img/tag-editor-bottom-actions.webp" >}}
 {{< /cards >}}
 
 ## Modalità batch
@@ -53,7 +53,7 @@ Puoi accedere alla modifica batch in due modi:
    - Apri qualsiasi file, scorri in basso e tocca **Modifica file contemporaneamente** per caricare tutti i file dalla stessa cartella.
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Modalità modifica batch" image="/docs/guide/evertag/img/tag-editor-batch-editing.webp" >}}
+{{< ls-card title="" subtitle="Modalità modifica batch" image="/docs/guide/evertag/img/tag-editor-batch-editing.webp" >}}
 {{< /cards >}}
 
 Dopo la modifica, tocca **Salvare** per applicare le modifiche.
@@ -72,19 +72,19 @@ Non devi digitare i testi da zero. L'editor include scorciatoie di ricerca con u
 Ogni scorciatoia appare solo quando il servizio corrispondente è raggiungibile dal tuo dispositivo. Tocca un servizio, copia i testi (o i timestamp LRC) che desideri, torna su Evertag e incollali nel campo di testo — poi **Salvare** per scrivere i testi nei tag del file audio.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Pagine testi" image="/docs/guide/evertag/img/tag-editor-lyrics-pages.webp" >}}
+  {{< ls-card title="" subtitle="Pagine testi" image="/docs/guide/evertag/img/tag-editor-lyrics-pages.webp" >}}
 {{< /cards >}}
 
 Scegli una lingua dal selettore:
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Selettore lingua testi" image="/docs/guide/evertag/img/tag-editor-lyrics-language-select.webp" >}}
+  {{< ls-card title="" subtitle="Selettore lingua testi" image="/docs/guide/evertag/img/tag-editor-lyrics-language-select.webp" >}}
 {{< /cards >}}
 
 Poi incolla o digita il testo dei testi. Evertag supporta sia testo normale che testi temporizzati (sincronizzati) — il segnaposto mostra un esempio del formato in stile LRC, che è esattamente ciò che Lrclib e Lyricsify restituiscono per i risultati sincronizzati.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Editor di testo testi" image="/docs/guide/evertag/img/tag-editor-lyrics-text.webp" >}}
+  {{< ls-card title="" subtitle="Editor di testo testi" image="/docs/guide/evertag/img/tag-editor-lyrics-text.webp" >}}
 {{< /cards >}}
 
 ## Imposta una valutazione e una valutazione consultiva
@@ -96,7 +96,7 @@ L'editor esteso offre un controllo a stelle **Valutazione** insieme a un control
 Usa il campo **Valutazione** per assegnare a un brano un punteggio personale da una a cinque stelle. Il valore viene scritto nel tag di valutazione standard del file (POPM per ID3, `rate` per MP4, `RATING` per Vorbis/APE, ecc.), quindi altre app che leggono questo tag — inclusa l'app Musica, Plex, Roon e la maggior parte degli editor tag desktop — raccoglieranno immediatamente i tuoi punteggi.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Valutazione" image="/docs/guide/evertag/img/tag-editor-rating.webp" >}}
+  {{< ls-card title="" subtitle="Valutazione" image="/docs/guide/evertag/img/tag-editor-rating.webp" >}}
 {{< /cards >}}
 
 ### Valutazione consultiva
@@ -117,7 +117,7 @@ Vuoi impostare o correggere questo campo quando:
 Il valore è memorizzato nel campo di valutazione consultiva standard per il formato file (`rtng` per MP4, `TXXX:ITUNESADVISORY` per ID3, `ITUNESADVISORY` per Vorbis), quindi qualsiasi lettore che legge i metadati di controllo parentale vedrà il tuo aggiornamento.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Valutazione consultiva testi" image="/docs/guide/evertag/img/lyrics-advisory-rating.webp" >}}
+  {{< ls-card title="" subtitle="Valutazione consultiva testi" image="/docs/guide/evertag/img/lyrics-advisory-rating.webp" >}}
 {{< /cards >}}
 
 ## Modifica la copertina dell'album
@@ -129,7 +129,7 @@ Per cambiare una copertina dell'album:
 3. Seleziona un'immagine da applicare come copertina.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Seleziona immagine" image="/docs/guide/evertag/img/select-image.webp" >}}
+  {{< ls-card title="" subtitle="Seleziona immagine" image="/docs/guide/evertag/img/select-image.webp" >}}
 {{< /cards >}}
 
 ## Altre azioni nell'Editor tag
@@ -137,7 +137,7 @@ Per cambiare una copertina dell'album:
 Ulteriori opzioni di modifica sono disponibili tramite la barra degli strumenti sotto la vista delle copertine.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Menu altre azioni" image="/docs/guide/evertag/img/tag-editor-more-actions.webp" >}}
+  {{< ls-card title="" subtitle="Menu altre azioni" image="/docs/guide/evertag/img/tag-editor-more-actions.webp" >}}
 {{< /cards >}}
 
 ### Ricerca automatica tag audio
@@ -150,13 +150,13 @@ L'app usa il database MusicBrainz — uno dei database tag più completi — con
 Usa i metadati per cercare sul web la copertina dell'album corretta.  
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Cerca copertina album" image="/docs/guide/evertag/img/search-album-cover.webp" >}}
+  {{< ls-card title="" subtitle="Cerca copertina album" image="/docs/guide/evertag/img/search-album-cover.webp" >}}
 {{< /cards >}}
 
 Una volta trovata, salva l'immagine nelle tue **Foto** usando il menu contestuale di sistema.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Aggiungi immagine a Foto" image="/docs/guide/evertag/img/add-image-to-photos.webp" >}}
+  {{< ls-card title="" subtitle="Aggiungi immagine a Foto" image="/docs/guide/evertag/img/add-image-to-photos.webp" >}}
 {{< /cards >}}
 
 Successivamente, torna all'editor tag, tocca l'icona Fotocamera, vai alla **Libreria Foto** e seleziona l'immagine salvata. L'app la imposterà come copertina per il tuo file audio.
@@ -178,19 +178,19 @@ Cerca i metadati dell'album manualmente usando il database MusicBrainz.
 - Seleziona l'album  
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Seleziona album" image="/docs/guide/evertag/img/select-album-results.webp" >}}
+  {{< ls-card title="" subtitle="Seleziona album" image="/docs/guide/evertag/img/select-album-results.webp" >}}
 {{< /cards >}}
 
 - Scegli la canzone corretta  
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Seleziona canzone" image="/docs/guide/evertag/img/select-a-song.webp" >}}
+  {{< ls-card title="" subtitle="Seleziona canzone" image="/docs/guide/evertag/img/select-a-song.webp" >}}
 {{< /cards >}}
 
 - Scegli quali tag applicare  
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Seleziona tag audio" image="/docs/guide/evertag/img/select-audio-tags.webp" >}}
+  {{< ls-card title="" subtitle="Seleziona tag audio" image="/docs/guide/evertag/img/select-audio-tags.webp" >}}
 {{< /cards >}}
 
 Tocca **Fatto** per applicare i metadati selezionati al tuo brano.

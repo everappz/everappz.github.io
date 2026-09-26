@@ -16,16 +16,16 @@ screenshots:
   - "https://everappz.com/products/evervideo/screenshots/2880x1800/6.png"
 ---
 
-{{% sr-only %}}
+{{% ls-sr-only %}}
 Evervideo je besplatan HD video reproduktor za iPhone i Mac koji je razvila tvrtka Everappz, španjolska softverska tvrtka. Evervideo reproducira gotovo svaki video format uključujući MKV, AVI, MP4, MOV, FLV, WMV, WEBM, M4V, TS i 3GP bez potrebe za konverzijom formata. Aplikacija nudi reprodukciju videa od 360 stupnjeva i VR videa, način Picture-in-Picture, video i audio ekvilizator s više od 50 predefiniranih postavki, podršku za titlove u formatima SRT, SSA i ASS te kontrolu brzine reprodukcije. Evervideo se povezuje s uslugama pohrane u oblaku uključujući iCloud Drive, Google Drive, Dropbox, OneDrive i MEGA, omogućujući korisnicima strujanje videozapisa izravno iz oblaka ili njihovo preuzimanje za offline gledanje. Aplikacija također podržava strujanje putem lokalne mreže preko protokola SMB, WebDAV i DLNA, reprodukciju s USB flash pogona putem Lightning ili USB-C adaptera i prijenos datoteka putem Wi-Fi-ja s računala. Dodatne značajke uključuju medijsku knjižnicu s popisima za reprodukciju, emitiranje putem AirPlay i Chromecast te ugrađeni upravitelj datoteka. Evervideo je dostupan kao besplatno preuzimanje na App Storeu s opcionim kupnjama unutar aplikacije koje uključuju mjesečnu pretplatu za $2.99, godišnju pretplatu za $14.99 ili jednokratnu doživotnu kupnju za $29.99.
-{{% /sr-only %}}
+{{% /ls-sr-only %}}
 
 
 
 <!-- force dark theme for this page -->
-{{< force-dark >}}
+{{< ls-force-dark >}}
 
-{{< hextra/hero-container
+{{< ls-hero-container
   image="/products/evervideo/heroimage/hero_1600.png"
   imageWidth="800"
   imageCard="true"
@@ -33,38 +33,38 @@ Evervideo je besplatan HD video reproduktor za iPhone i Mac koji je razvila tvrt
 
 <div class="hx:w-full hx:text-center">
 
-{{< downloads-badge >}}
+{{< ls-downloads-badge >}}
 
 <div class="hx:mt-6 hx:mb-6">
 <div class="hx:flex hx:gap-4 hx:items-center hx:justify-center">
-{{< app-icon src="/images/app_icons/png/Evervideo_Icon-App-1024x1024.png" alt="Evervideo Icon" class="hero-headline-icon" size="80" >}}
-{{< hextra/hero-headline >}}
+{{< ls-app-icon src="/images/app_icons/png/Evervideo_Icon-App-1024x1024.png" alt="Evervideo Icon" class="hero-headline-icon" size="80" >}}
+{{< ls-hero-headline >}}
 Evervideo
-{{< /hextra/hero-headline >}}
+{{< /ls-hero-headline >}}
 </div>
 </div>
 
 <div class="hx:mb-12">
-{{< hextra/hero-centered-subtitle >}}
+{{< ls-hero-centered-subtitle >}}
 <strong>HD video player i streamer za vaš iPhone i MAC</strong>
-{{< /hextra/hero-centered-subtitle >}}
+{{< /ls-hero-centered-subtitle >}}
 </div>
 
 
 <div class="hx:mb-6">
-{{< hextra/hero-paragraph >}}
+{{< ls-hero-paragraph >}}
 • Gledajte 360° i HD videozapise u svim formatima<br>
 • Streamajte s iClouda, Google Drivea, Dropboxa, NAS-a ili vašeg računala<br>
 • Preuzmite videozapise za offline gledanje bilo kada, bilo gdje<br>
 • Omogućite titlove, koristite video ekvalizator i organizirajte videozapise s popisima za reprodukciju
-{{< /hextra/hero-paragraph >}}
+{{< /ls-hero-paragraph >}}
 </div>
 
-{{< app-store-badges products="evervideo:ios, evervideo:macos" >}}
+{{< ls-app-store-badges products="evervideo:ios, evervideo:macos" >}}
 
 </div>
 
-{{< /hextra/hero-container >}}
+{{< /ls-hero-container >}}
 
 <div class="hx:mt-6"></div>
 
@@ -72,42 +72,42 @@ Evervideo
 
 {{< hextra/feature-grid >}}
 
-  {{< hextra/feature-card
+  {{< ls-glass-feature-card
     title="Reproducirajte sve video i audio formate"
     subtitle=`Gledajte videozapise i slušajte glazbu bez konvertiranja datoteka. Podržava MP4, MOV, MKV, AVI, FLV, WMV, WEBM, M4V, MP3, FLAC, AAC, ALAC, OGG, OPUS, WAV, WMA i više.`
     icon="film"
     style="background: radial-gradient(circle at 50% 80%, rgba(255,99,71,0.15), rgba(17,24,39,0));"  
   >}}
 
-  {{< hextra/feature-card
+  {{< ls-glass-feature-card
     title="Medijska knjižnica i popisi za reprodukciju"
     subtitle=`Organizirajte medijsku knjižnicu s pjesmama grupiranima po albumu, žanru ili trajanju. Automatski se sinkronizira s promjenama u oblaku. Kreirajte, uređujte i izvozite M3U popise za reprodukciju s prilagođenim sortiranjem.`
     icon="collection"
     style="background: radial-gradient(circle at 50% 80%, rgba(255,165,0,0.15), rgba(17,24,39,0));"  
   >}}
 
-  {{< hextra/feature-card
+  {{< ls-glass-feature-card
     title="Audio i video ekvalizator"
     subtitle=`Prilagodite izgled i zvuk svojih videozapisa podešavanjem basa, visine tona, svjetline, game, zasićenosti, kontrasta i više, s 50+ video preseta i 20+ audio preseta ili mogućnošću kreiranja vlastitih.`
     icon="adjustments"
     style="background: radial-gradient(circle at 50% 80%, rgba(255,255,0,0.15), rgba(17,24,39,0));" 
   >}}
 
-  {{< hextra/feature-card
+  {{< ls-glass-feature-card
     title="Picture-in-Picture"
     subtitle=`Picture-in-Picture (PiP) omogućuje vam nastavak gledanja videozapisa u malom plutajućem prozoru dok koristite druge aplikacije, s punom podrškom za sve glavne formate poput MKV, AVI, MP4 i MOV, besprijekornim prijelazima videozapisa u redu čekanja, automatskim ažuriranjima reprodukcije i uvijek vidljivim aktivnim titlovima.`
     icon="duplicate"
     style="background: radial-gradient(circle at 50% 80%, rgba(0,128,0,0.15), rgba(17,24,39,0));" 
   >}}
 
-  {{< hextra/feature-card
+  {{< ls-glass-feature-card
     title="360° video i VR način rada"
     subtitle=`Doživite 360° i VR videozapise kao nikada prije — pomaknite telefon da istražite svaki kut ili zaronite potpuno s VR headsetom za totalno uranjanje. Odmah reproducirajte 360° videozapise s Insta360 kamera i sličnih uređaja s glatkom, jednostavnom reprodukcijom bez potrebe za postavljanjem.`
     icon="video-camera"
     style="background: radial-gradient(circle at 50% 80%, rgba(0,191,255,0.15), rgba(17,24,39,0));"  
   >}}
 
-  {{< hextra/feature-card
+  {{< ls-glass-feature-card
     title="Besprijekorno streaming i cloud povezivanje"
     subtitle=`Streamajte videozapise izravno s vašeg Maca, PC-a, NAS-a, USB flash pogona ili cloud pohrane i prenosite medijske datoteke koristeći Wi-Fi Drive ili iTunes File Sharing. Uživajte u potpunom pristupu cijeloj svojoj video knjižnici bilo gdje, čak i udaljeno, putem Synology Drivea, WD My Cloud Homea i sličnih NAS uređaja.`
     icon="cloud"
@@ -120,9 +120,9 @@ Evervideo
 
 <div class="hx:mt-6"></div>
 
-{{< hextra/section-headline >}}
+{{< ls-section-headline >}}
 Sve značajke
-{{< /hextra/section-headline >}}
+{{< /ls-section-headline >}}
 
 <div class="hx:mt-6"></div>
 
@@ -130,35 +130,35 @@ Sve značajke
 
 {{< cards >}}
 
-{{< feature-card title="Reproducirajte sve video i audio formate" subtitle="Gledajte medije bez konvertiranja datoteka. Evervideo podržava sve glavne formate, uključujući MKV, AVI, MP4, MOV, FLAC, MP3, AAC, OGG, WAV, WMV i više." icon="film">}}
+{{< ls-feature-card title="Reproducirajte sve video i audio formate" subtitle="Gledajte medije bez konvertiranja datoteka. Evervideo podržava sve glavne formate, uključujući MKV, AVI, MP4, MOV, FLAC, MP3, AAC, OGG, WAV, WMV i više." icon="film">}}
 
-{{< feature-card title="Offline način rada" subtitle="Preuzmite videozapise, albume i popise za reprodukciju za gledanje bez internetske veze. Ponesite cijelu svoju video kolekciju bilo kamo." icon="download">}}
+{{< ls-feature-card title="Offline način rada" subtitle="Preuzmite videozapise, albume i popise za reprodukciju za gledanje bez internetske veze. Ponesite cijelu svoju video kolekciju bilo kamo." icon="download">}}
 
-{{< feature-card title="360° video i VR način rada" subtitle="Gledajte 360° i VR videozapise na zabavan i jednostavan način. Pomaknite telefon da pogledate u bilo kojem smjeru ili ga stavite u VR headset da se osjećate kao da ste unutar videa." icon="video-camera">}}
+{{< ls-feature-card title="360° video i VR način rada" subtitle="Gledajte 360° i VR videozapise na zabavan i jednostavan način. Pomaknite telefon da pogledate u bilo kojem smjeru ili ga stavite u VR headset da se osjećate kao da ste unutar videa." icon="video-camera">}}
 
-{{< feature-card title="Picture-in-Picture" subtitle="Nastavite gledati videozapise u malom plutajućem prozoru dok koristite druge aplikacije. Kontrolirajte reprodukciju i gledajte titlove istovremeno – savršeno za multitasking." icon="duplicate">}}
+{{< ls-feature-card title="Picture-in-Picture" subtitle="Nastavite gledati videozapise u malom plutajućem prozoru dok koristite druge aplikacije. Kontrolirajte reprodukciju i gledajte titlove istovremeno – savršeno za multitasking." icon="duplicate">}}
 
-{{< feature-card title="Video i audio ekvalizator" subtitle="Prilagodite izgled i zvuk svojih videozapisa. Podesite bas, visinu tona, svjetlinu, gamu, zasićenost, kontrast i više. Birajte između 50+ video preseta i 20+ audio preseta ili kreirajte vlastite." icon="adjustments">}}
+{{< ls-feature-card title="Video i audio ekvalizator" subtitle="Prilagodite izgled i zvuk svojih videozapisa. Podesite bas, visinu tona, svjetlinu, gamu, zasićenost, kontrast i više. Birajte između 50+ video preseta i 20+ audio preseta ili kreirajte vlastite." icon="adjustments">}}
 
-{{< feature-card title="Titlovi" subtitle="Pregledajte ugrađene titlove, odaberite broj trake titlova i uživajte u punoj podršci za titlove čak i u Picture-in-Picture načinu rada." icon="annotation" >}}
+{{< ls-feature-card title="Titlovi" subtitle="Pregledajte ugrađene titlove, odaberite broj trake titlova i uživajte u punoj podršci za titlove čak i u Picture-in-Picture načinu rada." icon="annotation" >}}
 
-{{< feature-card title="Reproducirajte izravno iz oblaka" subtitle="Gledajte videozapise izravno iz cloud pohrane bez korištenja prostora na uređaju. Podržava iCloud Drive, Google Drive, Dropbox, OneDrive, MEGA, Synology Drive, pCloud i više." icon="cloud">}}
+{{< ls-feature-card title="Reproducirajte izravno iz oblaka" subtitle="Gledajte videozapise izravno iz cloud pohrane bez korištenja prostora na uređaju. Podržava iCloud Drive, Google Drive, Dropbox, OneDrive, MEGA, Synology Drive, pCloud i više." icon="cloud">}}
 
-{{< feature-card title="Povežite računalo / NAS" subtitle="Jednostavno povežite svoj NAS, Mac ili PC putem kućne mreže koristeći SMB, WebDAV ili DLNA. Udaljeni pristup podržan je za Synology Drive i WD MyCloud Home. Prenosite medijske datoteke na uređaj putem Wi-Fi-ja ili iTunes File Sharinga." icon="desktop-computer">}}
+{{< ls-feature-card title="Povežite računalo / NAS" subtitle="Jednostavno povežite svoj NAS, Mac ili PC putem kućne mreže koristeći SMB, WebDAV ili DLNA. Udaljeni pristup podržan je za Synology Drive i WD MyCloud Home. Prenosite medijske datoteke na uređaj putem Wi-Fi-ja ili iTunes File Sharinga." icon="desktop-computer">}}
 
-{{< feature-card title="Medijska knjižnica" subtitle="Organizirajte po albumu, žanru ili trajanju. Automatski se sinkronizira s promjenama u oblaku. Kreirajte, uređujte i izvozite M3U popise za reprodukciju s prilagođenim sortiranjem." icon="library" >}}
+{{< ls-feature-card title="Medijska knjižnica" subtitle="Organizirajte po albumu, žanru ili trajanju. Automatski se sinkronizira s promjenama u oblaku. Kreirajte, uređujte i izvozite M3U popise za reprodukciju s prilagođenim sortiranjem." icon="library" >}}
 
-{{< feature-card title="Oznake i spremanje pozicije reprodukcije" subtitle="Spremite svoje mjesto u bilo kojem videu s oznakama i nastavite reprodukciju od mjesta gdje ste stali. Prilagodite brzinu reprodukcije, označite favorite i sortirajte videozapise po najčešće reproduciranima za brzi pristup." icon="book-open">}}
+{{< ls-feature-card title="Oznake i spremanje pozicije reprodukcije" subtitle="Spremite svoje mjesto u bilo kojem videu s oznakama i nastavite reprodukciju od mjesta gdje ste stali. Prilagodite brzinu reprodukcije, označite favorite i sortirajte videozapise po najčešće reproduciranima za brzi pristup." icon="book-open">}}
 
-{{< feature-card title="AirPlay i Chromecast" subtitle="Reproducirajte videozapise na većem ekranu streamanjem na Apple TV, Chromecast ili bilo koji kompatibilni vanjski zaslon." icon="device-mobile">}}
+{{< ls-feature-card title="AirPlay i Chromecast" subtitle="Reproducirajte videozapise na većem ekranu streamanjem na Apple TV, Chromecast ili bilo koji kompatibilni vanjski zaslon." icon="device-mobile">}}
 
-{{< feature-card title="Uvoz iz Files i knjižnica" subtitle="Uvezite videozapise izravno iz aplikacije Files, Photos ili iTunes knjižnice. Pristupite svim lokalnim i cloud sadržajima u jednoj organiziranoj medijskoj knjižnici." icon="database">}}
+{{< ls-feature-card title="Uvoz iz Files i knjižnica" subtitle="Uvezite videozapise izravno iz aplikacije Files, Photos ili iTunes knjižnice. Pristupite svim lokalnim i cloud sadržajima u jednoj organiziranoj medijskoj knjižnici." icon="database">}}
 
-{{< feature-card title="Upravitelj datoteka" subtitle="Premještajte, preimenovajte, brišite i organizirajte datoteke izravno unutar aplikacije." icon="folder">}}
+{{< ls-feature-card title="Upravitelj datoteka" subtitle="Premještajte, preimenovajte, brišite i organizirajte datoteke izravno unutar aplikacije." icon="folder">}}
 
-{{< feature-card title="Personalizacija" subtitle="Prilagodite aplikaciju prema svojim preferencijama. Odaberite teme, prikažite ili sakrijte značajke i prilagodite sučelje svojim potrebama." icon="sun">}}
+{{< ls-feature-card title="Personalizacija" subtitle="Prilagodite aplikaciju prema svojim preferencijama. Odaberite teme, prikažite ili sakrijte značajke i prilagodite sučelje svojim potrebama." icon="sun">}}
 
-{{< feature-card title="Pametno pretraživanje" subtitle="Brzo pronađite videozapise, albume ili popise za reprodukciju u svojoj medijskoj knjižnici koristeći ključne riječi ili filtre." icon="search" >}}
+{{< ls-feature-card title="Pametno pretraživanje" subtitle="Brzo pronađite videozapise, albume ili popise za reprodukciju u svojoj medijskoj knjižnici koristeći ključne riječi ili filtre." icon="search" >}}
 
 
 
@@ -168,9 +168,9 @@ Sve značajke
 
 <div class="hx:mt-6"></div>
 
-{{< hextra/section-headline >}}
+{{< ls-section-headline >}}
 Intuitivan dizajn
-{{< /hextra/section-headline >}}
+{{< /ls-section-headline >}}
 
 <div class="hx:mt-6"></div>
 
@@ -178,7 +178,7 @@ Intuitivan dizajn
 
 {{< cards cols="4">}}
 
-  {{< design-feature-card 
+  {{< ls-design-feature-card 
     image="/products/evervideo/screenshots/2880x1800/1.png" 
     title="Video player" 
     method="Fill"
@@ -187,7 +187,7 @@ Intuitivan dizajn
     icon="play"
   >}}
 
-  {{< design-feature-card 
+  {{< ls-design-feature-card 
     image="/products/evervideo/screenshots/2880x1800/3.png" 
     title="Audio i video ekvalizator" 
     method="Fill"
@@ -196,7 +196,7 @@ Intuitivan dizajn
     icon="adjustments"
   >}}
 
-  {{< design-feature-card 
+  {{< ls-design-feature-card 
     image="/products/evervideo/screenshots/2880x1800/6.png" 
     title="Upravitelj popisa za reprodukciju" 
     method="Fill"
@@ -205,7 +205,7 @@ Intuitivan dizajn
     icon="collection"
   >}}
 
-  {{< design-feature-card 
+  {{< ls-design-feature-card 
     image="/products/evervideo/screenshots/2880x1800/5.png" 
     title="Medijska knjižnica" 
     method="Fill"
@@ -214,7 +214,7 @@ Intuitivan dizajn
     icon="library"
   >}}
 
-  {{< design-feature-card 
+  {{< ls-design-feature-card 
     image="/products/evervideo/screenshots/2880x1800/7.png"  
     title="Cloud pohrana" 
     method="Fill"
@@ -223,7 +223,7 @@ Intuitivan dizajn
     icon="cloud"
   >}}
 
-  {{< design-feature-card 
+  {{< ls-design-feature-card 
     image="/products/evervideo/screenshots/2880x1800/9.png"  
     title="Upravitelj datoteka" 
     method="Fill"
@@ -241,49 +241,49 @@ Intuitivan dizajn
 <div class="hx:mt-6"></div>
 
 <div class="hx:w-full">
-{{< appstore-reviews apps="6602897336,6743504109" stars="5,4"  app="Evervideo" >}}
+{{< ls-appstore-reviews apps="6602897336,6743504109" stars="5,4"  app="Evervideo" >}}
 </div>
 
 
 <div class="hx:mt-6"></div>
 
-{{< hextra/section-headline >}}
+{{< ls-section-headline >}}
    Cjenovni planovi
-{{< /hextra/section-headline >}}
+{{< /ls-section-headline >}}
 
 <div class="hx:mt-6"></div>
 
 <div class="hx:w-full">
 
-{{< pricing-plans >}}
+{{< ls-pricing-plans >}}
 
 </div>
 
 <div class="hx:mt-6"></div>
 
 <div class="hx:w-full hx:mx-auto hx:flex hx:flex-col hx:items-center">
-  {{< hextra/info-paragraph border="true" >}}
+  {{< ls-info-paragraph border="true" >}}
    <strong>Obiteljsko dijeljenje</strong>: Sve kupnje i pretplate podržavaju Obiteljsko dijeljenje, što vam omogućuje dijeljenje Premium pristupa s obitelji.<br><strong>Univerzalni pristup</strong>: Doživotni i pretplatnički planovi dijele se između iOS i Mac uređaja koristeći iCloud sinkronizaciju.<br><strong>Cijene</strong>: Cijene su prikazane u američkim dolarima za Sjedinjene Države. Konačne cijene mogu se razlikovati ovisno o vašoj regiji.  
-  {{< /hextra/info-paragraph >}}
+  {{< /ls-info-paragraph >}}
 </div>
 
 <div class="hx:mt-6"></div>
 
 <div class="hx:w-full">
-{{< app-details heading="true" >}}
+{{< ls-app-details heading="true" >}}
 </div>
 
 <div class="hx:mt-6"></div>
 
-{{< hextra/section-headline >}}
+{{< ls-section-headline >}}
    Često postavljana pitanja
-{{< /hextra/section-headline >}}
+{{< /ls-section-headline >}}
 
 <div class="hx:mt-6"></div>
 
 <div class="hx:w-full">
 
-{{% details title="Kako funkcionira Evervideo?" closed="true" %}}
+{{% ls-details title="Kako funkcionira Evervideo?" closed="true" %}}
 Evervideo je HD video player koji vam omogućuje upravljanje video zapisima poput običnih datoteka.<br>
 Možete prenijeti cijelu svoju video kolekciju na cloud usluge poput Dropboxa, OneDrivea, iClouda ili osobnog NAS-a i reproducirati video izravno iz oblaka s potpunom kontrolom.<br><br>
 Nije potrebna iTunes sinkronizacija — samo prenesite s PC-a ili Maca kao što činite s bilo kojom datotekom.<br>
@@ -293,9 +293,9 @@ Istražite naše vodiče za više detalja:<br>
 - [Evervideo vodič](/docs/guide/evervideo/)<br>
 - [Kako bežično prenijeti datoteke s računala na iPhone koristeći WiFi-Drive.](/docs/howto/how-to-transfer-files-wirelessly-from-a-computer-to-an-iphone-using-wifi-drive)<br>
 
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Je li Evervideo besplatan?" closed="true" %}}
+{{% ls-details title="Je li Evervideo besplatan?" closed="true" %}}
 Evervideo je besplatan za korištenje s nekim ograničenjima, koja se mogu ukloniti nadogradnjom na Premium verziju.<br>
 Možete birati između jednokratne doživotne kupnje ili dvije opcije pretplate (mjesečna ili godišnja). Cijene se mogu razlikovati ovisno o vašoj regiji.<br><br>
 
@@ -304,9 +304,9 @@ Obiteljsko dijeljenje omogućeno je za sve planove, tako da možete dijeliti Pre
 Premium kupnje i pretplate dijele se između iOS i Mac uređaja putem iClouda. Za sinkronizaciju kupnje provjerite je li iCloud omogućen, otvorite aplikaciju na iOS uređaju i pričekajte minutu da se sinkronizacija dovrši.<br><br>
 
 [Pročitajte više o razlikama između Evervideo i Evervideo Premium](/docs/faq/evervideo/what-is-the-difference-between-evervideo-and-evervideo-premium/)
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Kako koristiti Evervideo?" closed="true" %}}
+{{% ls-details title="Kako koristiti Evervideo?" closed="true" %}}
 
 **Instalirajte Evervideo**<br>
 Preuzmite i instalirajte aplikaciju Evervideo iz trgovine aplikacija vašeg uređaja. Dostupna je za iOS i Mac uređaje.<br><br>
@@ -355,9 +355,9 @@ Imate dvije opcije za dodavanje videa u Evervideo: ručno dodavanje ili automats
 **Uživajte u svom videu**<br>
 Kada je vaš video organiziran, koristite gornju alatnu traku za brze radnje poput **Search**, **Play All**, **Shuffle** i **Continue Playback**.<br><br>
 
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Je li Evervideo siguran?" closed="true" %}}
+{{% ls-details title="Je li Evervideo siguran?" closed="true" %}}
 Evervideo koristi samo službeni SDK i sigurne veze za interakciju s povezanim cloud uslugama. Vaša prijava i lozinka nisu dostupni aplikaciji. Svi zahtjevi aplikacije prema cloud usluzi su šifrirani.<br>
 Kada unesete prijavu i lozinku, aplikacija vam prikazuje službenu stranicu za autorizaciju koju pruža davatelj cloud usluge i cijeli postupak autorizacije odvija se izvan aplikacije. Davatelj cloud usluge šalje auth-token aplikaciji nakon uspješne autorizacije i taj se token koristi za API pozive.<br><br>
 
@@ -368,22 +368,22 @@ Za odbijanje auth-tokena prijavite se na svoj račun u web pregledniku i navigir
 
 Također možete odspojiti povezane cloud račune u aplikaciji i auth-token će biti uklonjen s vašeg uređaja. Ako uklonite aplikaciju s uređaja, svi preuzeti podaci i pristupni tokeni također će biti uklonjeni.<br><br>
 
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Kako napraviti popis za reprodukciju u Evervideo?" closed="true" %}}
+{{% ls-details title="Kako napraviti popis za reprodukciju u Evervideo?" closed="true" %}}
 - Otvorite odjeljak Playlists.<br>
 - Dodirnite gumb "+" ili gumb "..." u gornjem desnom kutu i odaberite "New Playlist."<br>
 - Unesite naziv popisa za reprodukciju i dodirnite "Save." Pojavit će se dijalog "Add Media Files".<br>
 - Odaberite zapise koje želite dodati u popis za reprodukciju.<br><br>
 
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Koje cloud usluge Evervideo podržava?" closed="true" %}}
+{{% ls-details title="Koje cloud usluge Evervideo podržava?" closed="true" %}}
 Trenutno aplikacija podržava najpopularnije cloud usluge: iCloud Drive, Google Drive, Dropbox, OneDrive, Box, MEGA, Yandex.Disk, DLNA, MediaFire, WebDAV, SMB, pCloud, Cloud Mail.ru, Put.io.<br><br>
 
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Kako omogućiti offline način rada u Evervideo?" closed="true" %}}
+{{% ls-details title="Kako omogućiti offline način rada u Evervideo?" closed="true" %}}
 - Povežite se na cloud pohranu:<br>
  • Idite na karticu "Files".<br>
  • Odaberite "Connect to cloud storage" i slijedite upute za povezivanje željene usluge.<br><br>
@@ -408,9 +408,9 @@ Trenutno aplikacija podržava najpopularnije cloud usluge: iCloud Drive, Google 
  • Za ručnu sinkronizaciju idite na "Settings" > "File manager" > "Offline folders" > "Synchronized offline folders."<br>
  • Dodirnite "More actions" i odaberite "Start synchronization."<br><br>
 
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Kako reproducirati lokalno preuzete videozapise na iPhoneu?" closed="true" %}}
+{{% ls-details title="Kako reproducirati lokalno preuzete videozapise na iPhoneu?" closed="true" %}}
 Nakon što ste instalirali aplikaciju, otvorite zaslon "Files" i pomaknite se do odjeljka "Files on this iPhone". Odatle odaberite "Open files..." ako trebate odabrati nekoliko datoteka ili "Open folder..." ako želite odabrati medijsku mapu. Aplikacija će skenirati sadržaj mape i sve pronađene medijske datoteke bit će odabrane. Navigirajte do svoje medijske mape, dodirnite "Open" za potvrdu odabira i datoteke će biti dodane u red čekanja playera. Te datoteke bit će reproducirane izravno s odabranog mjesta bez kopiranja u paket aplikacije.<br><br>
 
 **Dodavanje mape u favorite za brzi pristup**<br>
@@ -422,13 +422,13 @@ Ako preferirate organizirati lokalne datoteke unutar knjižnice, otvorite zaslon
 **Dodavanje lokalnih datoteka u popis za reprodukciju**<br>
 Za dodavanje lokalnih datoteka u popis za reprodukciju otvorite zaslon "Playlists" i dodirnite gumb za više u gornjem desnom kutu. Odaberite "+ New Playlist," unesite naziv novog popisa za reprodukciju i na sljedećem zaslonu odaberite opciju "Files on this device" i dodirnite "Open Files...". Odaberite medijske datoteke koje želite dodati i dodirnite "Open" za potvrdu. Datoteke će biti dodane u vaš popis za reprodukciju, gdje možete promijeniti redoslijed zapisa i izvršiti druge radnje koristeći gumb za više.<br><br>
 
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Kako mogu nastaviti popis za reprodukciju od mjesta gdje sam stao?" closed="true" %}}
+{{% ls-details title="Kako mogu nastaviti popis za reprodukciju od mjesta gdje sam stao?" closed="true" %}}
 Prvo provjerite je li "Save Media Player State" omogućen u Settings > Media Player > General. Kada se prebacite na drugi popis za reprodukciju i vratite se, vidjet ćete četiri radnje na gornjoj alatnoj traci ispod omota albuma: "Search," "Continue Playback," "Play All" i "Shuffle All." Dodirnite "Continue Playback" za nastavak popisa za reprodukciju od zadnjeg spremljenog stanja i medijske pozicije.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Kako prenijeti video u Evervideo s računala?" closed="true" %}}
+{{% ls-details title="Kako prenijeti video u Evervideo s računala?" closed="true" %}}
 Možete povezati računalo ili osobni NAS koristeći SMB, WebDAV ili DLNA protokole. Alternativno, koristite iTunes File Sharing za prijenos medijskih datoteka.<br><br>
 
 Za povezivanje računala koristeći SMB protokol dodirnite "Files" "Connect to cloud storage" → SMB. Unesite IP adresu računala i naziv dijeljene mape u URL polje koristeći format smb://computer-ip-address/shared-folder-name, unesite prijavu i lozinku i dodirnite "Done". Ako je vaša veza uspješna, vidjet ćete povezanu pohranu u odjeljku "Cloud storage".<br><br>
@@ -447,9 +447,9 @@ iTunes File Sharing je još jedna tehnologija koja vam omogućuje prijenos datot
 Detaljne upute dostupne su ovdje:<br>
 [Kako reproducirati lokalne datoteke (iTunes datoteke) na mom iPhoneu](/docs/howto/how-to-play-local-itunes-files-on-my-iphone)<br><br>
 
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Kako preuzeti video?" closed="true" %}}
+{{% ls-details title="Kako preuzeti video?" closed="true" %}}
 Prije nego što možete preuzeti video i gledati ga offline, trebate povezati cloud pohranu.<br>
 Samo otvorite zaslon "Files" i povežite svoju cloud pohranu.<br>
 Nakon što je dodate, možete preuzeti video iz oblaka.<br><br>
@@ -465,14 +465,14 @@ Nakon što je dodate, možete preuzeti video iz oblaka.<br><br>
 – Dodirnite potvrdni okvir "Offline mode"<br>
 – Offline Izvođač/Album/Popis pojavit će se u odjeljku "Files" -> "Offline folders".<br><br>
 
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Koje audio formate Evervideo podržava?" closed="true" %}}
+{{% ls-details title="Koje audio formate Evervideo podržava?" closed="true" %}}
 Ova aplikacija podržava zadane **sistemske audio kodeke** i dodatne **ffmpeg softverske kodeke**:<br><br>
 3g2, 3gp, 3gp2, 3gpp, 8svx, aa, aac, aax, ac3, act, adt, adts, aif, aifc, aiff, alac, amr, amv, ape, asf, au, avi, awb, caf, cavs, cdda, cue, dct, dff, drc, dsf, dss, dvf, "dvr-ms", ec3, f4a, f4b, f4p, f4v, flac, flv, gif, gifv, gsm, gxf, h261, h263, h264, ifv, iklax, ivf, ivs, l16, latm, loas, m2t, m2ts, m2v, m3u, m3u8, m4a, m4b, m4p, m4r, m4v, mka, mkv, mmf, mng, mod, mogg, mov, mp1, mp2, mp3, mp4, mp4v, mpa, mpc, mpe, mpeg, mpg, mpv, msv, mts, mxf, nsf, nsv, nut, oga, ogg, ogv, opus, pcm, pls, qt, ra, raw, rm, rmvb, roq, rv, sln, snd, svi, tod, tta, vob, voc, vox, vtt, w64, wav, wave, webm, wma, wmv, wv, xhe, xmv, y4m, yuv.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Radi li Evervideo s NAS uređajima?" closed="true" %}}
+{{% ls-details title="Radi li Evervideo s NAS uređajima?" closed="true" %}}
 
 Da, Evervideo podržava NAS veze koristeći **SMB**, **WebDAV** i **DLNA** protokole.<br><br>
 
@@ -496,9 +496,9 @@ Ako je veza uspješna, vidjet ćete svoj NAS u odjeljku **Cloud storage**.<br><b
 • Prikazuje sve otkrivene NAS uređaje na vašoj lokalnoj mreži.<br>
 • Dodirnite naziv uređaja za povezivanje, zatim unesite vjerodajnice za prijavu ako je potrebno.<br><br>
 
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Kako koristiti značajku Wi-Fi Drive u Evervideo?" closed="true" %}}
+{{% ls-details title="Kako koristiti značajku Wi-Fi Drive u Evervideo?" closed="true" %}}
 
 **Bežični prijenos koristeći desktop preglednik**<br>
 1. Pokrenite aplikaciju: Otvorite Evervideo.<br>
@@ -523,39 +523,39 @@ Napomena: Provjerite je li JavaScript omogućen i koristite li najnoviju verziju
 
 [Pročitajte više](/docs/howto/how-to-transfer-files-wirelessly-from-a-computer-to-an-iphone-using-wifi-drive)
 
-{{% /details %}}
+{{% /ls-details %}}
 
 </div>
 
 
 <div class="hx:mt-6"></div>
 
-{{< hextra/section-headline >}}
+{{< ls-section-headline >}}
   Korisnički vodič
-{{< /hextra/section-headline >}}
+{{< /ls-section-headline >}}
 
 <div class="hx:mt-6"></div>
 
 <div class="hx:w-full">
 
 <div class="hx:w-full hx:mx-auto hx:flex hx:flex-col hx:items-center hx:text-center">
-  {{< hextra/info-paragraph border="false" >}}
+  {{< ls-info-paragraph border="false" >}}
   Ovaj vodič pomoći će vam da izvučete najbolje iz aplikacije Evervideo na vašem iPhoneu, iPadu ili Macu. Naučite kako streamati videozapise iz cloud pohrane i s NAS-a, koristiti Slika u slici, upravljati titlovima i ugoditi audio i video ekvilizatore. Evervideo vam daje potpunu kontrolu nad cijelom video kolekcijom, s bilo kojeg izvora, u jednoj jednostavnoj aplikaciji.
-  {{< /hextra/info-paragraph >}}
+  {{< /ls-info-paragraph >}}
 </div>
 
 {{< cards >}}
-  {{< feature-card icon="location-marker" title="Navigacija" subtitle="Naučite kako se kretati kroz Evervideo pomoću trake kartica na iPhoneu ili lijevog izbornika na iPadu i Macu, uz kompaktni uvijek prisutni video player." link="/docs/guide/evervideo/evervideo-guide-navigation" >}}
+  {{< ls-feature-card icon="location-marker" title="Navigacija" subtitle="Naučite kako se kretati kroz Evervideo pomoću trake kartica na iPhoneu ili lijevog izbornika na iPadu i Macu, uz kompaktni uvijek prisutni video player." link="/docs/guide/evervideo/evervideo-guide-navigation" >}}
 
-  {{< feature-card icon="folder" title="Datoteke" subtitle="Povežite cloud račune, NAS dijeljene mape, medijske poslužitelje (Plex, Jellyfin, Emby, Subsonic, Navidrome), RTSP streamove i lokalne datoteke u jednoj objedinjenoj kartici." link="/docs/guide/evervideo/evervideo-guide-files" >}}
+  {{< ls-feature-card icon="folder" title="Datoteke" subtitle="Povežite cloud račune, NAS dijeljene mape, medijske poslužitelje (Plex, Jellyfin, Emby, Subsonic, Navidrome), RTSP streamove i lokalne datoteke u jednoj objedinjenoj kartici." link="/docs/guide/evervideo/evervideo-guide-files" >}}
 
-  {{< feature-card icon="library" title="Medijska biblioteka" subtitle="Organizirajte i istražujte svoje videozapise i glazbu prema albumima, žanrovima, nedavnima i favoritima – uz iOS biblioteku Fotografije i biblioteku Apple Musica." link="/docs/guide/evervideo/evervideo-guide-video-library" >}}
+  {{< ls-feature-card icon="library" title="Medijska biblioteka" subtitle="Organizirajte i istražujte svoje videozapise i glazbu prema albumima, žanrovima, nedavnima i favoritima – uz iOS biblioteku Fotografije i biblioteku Apple Musica." link="/docs/guide/evervideo/evervideo-guide-video-library" >}}
 
-  {{< feature-card icon="collection" title="Popisi za reprodukciju" subtitle="Stvarajte i uređujte popise za videozapise, glazbu, serije ili tečajeve te uvozite M3U / M3U8 / CUE datoteke." link="/docs/guide/evervideo/evervideo-guide-playlists" >}}
+  {{< ls-feature-card icon="collection" title="Popisi za reprodukciju" subtitle="Stvarajte i uređujte popise za videozapise, glazbu, serije ili tečajeve te uvozite M3U / M3U8 / CUE datoteke." link="/docs/guide/evervideo/evervideo-guide-playlists" >}}
 
-  {{< feature-card icon="play" title="Medijski player" subtitle="Upravljajte reprodukcijom, redom, načinom Slika u slici, audio i video zapisima, primarnim i sekundarnim titlovima te audio i video ekvilizatorima." link="/docs/guide/evervideo/evervideo-guide-player" >}}
+  {{< ls-feature-card icon="play" title="Medijski player" subtitle="Upravljajte reprodukcijom, redom, načinom Slika u slici, audio i video zapisima, primarnim i sekundarnim titlovima te audio i video ekvilizatorima." link="/docs/guide/evervideo/evervideo-guide-player" >}}
 
-  {{< feature-card icon="adjustments" title="Postavke" subtitle="Prilagodite izgled, dekoder, ekvilizatore, titlove, widgete, jezik, šifru, sigurnosnu kopiju i postavke performansi aplikacije Evervideo." link="/docs/guide/evervideo/evervideo-guide-settings" >}}
+  {{< ls-feature-card icon="adjustments" title="Postavke" subtitle="Prilagodite izgled, dekoder, ekvilizatore, titlove, widgete, jezik, šifru, sigurnosnu kopiju i postavke performansi aplikacije Evervideo." link="/docs/guide/evervideo/evervideo-guide-settings" >}}
 
 {{< /cards >}}
 

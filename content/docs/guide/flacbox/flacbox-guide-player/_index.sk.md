@@ -23,7 +23,7 @@ Audio prehrávač je hlavná obrazovka aplikácie, kde ovládate hudbu a väčš
 Na prehrávač na celú obrazovku sa dostanete z lišty mini prehrávača. Na iPhone sedí mini prehrávač v dolnej časti hlavnej obrazovky. Na iPad a Mac je na ľavej strane. Ak chcete skryť mini prehrávač na iPhone, klepnite naň raz a potiahnite nadol. Ak chcete úplne zavrieť prehrávač na celú obrazovku, klepnite na tlačidlo zavrieť v pravom dolnom rohu.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox — hlavná obrazovka audio prehrávača" image="/docs/guide/flacbox/img/audio-player-main-screen.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox — hlavná obrazovka audio prehrávača" image="/docs/guide/flacbox/img/audio-player-main-screen.webp" >}}
 {{< /cards >}}
 
 ## Podporované zvukové formáty
@@ -66,7 +66,7 @@ Pre AirPlay hľadajte tlačidlo **AirPlay** v dolnej časti prehrávača. Klepni
 Flacbox obsahuje **10-pásmový ekvalizér** s predvoľbami v štýle iPod. Klepnite na Ekvalizér v zobrazení hlasitosti, potom ho zapnite v pravom hornom rohu. Môžete použiť predvoľby ako Acoustic a Bass Booster alebo nastaviť každé frekvenčné pásmo pomocou posúvačov. Vytvárajte vlastné predvoľby, ukladajte ich pod ľubovoľným názvom a zvyšujte celkovú hlasitosť preamplifik átorom. Máme podrobnejšie pokyny na používanie ekvalizéra [tu](/docs/howto/how-to-use-the-audio-equalizer-on-your-iphone-ipad-mac-with-evermusic-and-flacbox).
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox — ekvalizér audio prehrávača" image="/docs/guide/flacbox/img/audio-player-equalizer.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox — ekvalizér audio prehrávača" image="/docs/guide/flacbox/img/audio-player-equalizer.webp" >}}
 {{< /cards >}}
 
 ## Lišta nástrojov režimu prehrávača
@@ -82,7 +82,7 @@ Pre niektoré štýly prehrávača existuje vyhradená lišta nástrojov v horne
 Ak chcete zobraziť frontu prehrávača, klepnite na tlačidlo fronty na pravej strane aktuálnej skladby. Každá skladba vo fronte má ďalšie akcie — klepnite na tri bodky a zobrazte ich. Ak chcete preusporiadať skladbu vo fronte, použite indikátor preusporiadania pri názve a presuňte ho na nové miesto.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox — fronta prehrávania" image="/docs/guide/flacbox/img/playback_queue.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox — fronta prehrávania" image="/docs/guide/flacbox/img/playback_queue.webp" >}}
 {{< /cards >}}
 
 ## Komentáre / Texty
@@ -98,7 +98,7 @@ Ak chcete zobraziť komentáre k skladbe a vložené texty, ako aj súbory LRC, 
 Potom klepnite niekoľkokrát na tlačidlo fronty prehrávača v dolnej časti obrazovky, aby ste prepínali z pohľadu na obal / frontu na pohľad komentárov. Na obrazovke Komentáre posuňte doprava, aby ste prepínali medzi **Komentármi**, **Vloženými textami** a **Súborom LRC**. Úplné pokyny sú dostupné [tu](/docs/howto/how-to-add-and-view-comments-to-your-audio-tracks-on-iphone-ipad-and-mac-with-evermusic-and-flacbox).
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox — obrazovka textov a komentárov" image="/docs/guide/flacbox/img/lyrics-screen.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox — obrazovka textov a komentárov" image="/docs/guide/flacbox/img/lyrics-screen.webp" >}}
 {{< /cards >}}
 
 ## Ponuka možností
@@ -121,7 +121,7 @@ Každá skladba vo fronte audio prehrávača má ponuku s ďalšími akciami, do
 Rovnaké možnosti sú dostupné pre aktuálne prehrávanú položku vo fronte audio prehrávača, ku ktorej môžete pristupovať klepnutím na ikonu **Viac akcií** pri názve skladby.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox — možnosti pre položku vo fronte prehrávania" image="/docs/guide/flacbox/img/options-for-item-in-playback-queue.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox — možnosti pre položku vo fronte prehrávania" image="/docs/guide/flacbox/img/options-for-item-in-playback-queue.webp" >}}
 {{< /cards >}}
 
 ## Ďalšie akcie prehrávača
@@ -143,7 +143,7 @@ Klepnutím na tlačidlo **Viac akcií** „..." na ľavej strane názvu aktuáln
 - **Pomocník** — nájdite pomoc a návod.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox — obrazovka ďalšieho menu audio prehrávača" image="/docs/guide/flacbox/img/audio-player-more-actions-screen.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox — obrazovka ďalšieho menu audio prehrávača" image="/docs/guide/flacbox/img/audio-player-more-actions-screen.webp" >}}
 {{< /cards >}}
 
 ## Audio záložky
@@ -161,7 +161,7 @@ Ak chcete vytvoriť novú záložku:
 Úprava záložiek pre aktuálnu skladbu je jednoduchá: klepnite na Upraviť v pravom hornom rohu a vstúpite do režimu úprav. V tomto režime môžete preusporiadať záložky, odstrániť ich, upraviť čas záložky a zmeniť názvy záložiek. Podrobnejšie pokyny na audio záložky sú dostupné [tu](/docs/howto/how-to-listen-to-audiobooks-on-iphone-ipad-mac-using-evermusic).
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox — obrazovka audio záložiek" image="/docs/guide/flacbox/img/audio-bookmarks.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox — obrazovka audio záložiek" image="/docs/guide/flacbox/img/audio-bookmarks.webp" >}}
 {{< /cards >}}
 
 ## Nedávne a obľúbené
@@ -175,7 +175,7 @@ Pripojte iPhone k autu cez USB alebo bezdrôtový Apple CarPlay a Flacbox sa zob
 [Prečítajte si úplného sprievodcu CarPlay](/docs/howto/how-to-play-your-own-music-on-iphone-using-carplay/).
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox na Apple CarPlay" image="/docs/guide/flacbox/img/carplay-main.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox na Apple CarPlay" image="/docs/guide/flacbox/img/carplay-main.webp" >}}
 {{< /cards >}}
 
 ## Widgety domovskej obrazovky (iPhone a iPad)
@@ -243,7 +243,7 @@ Prispôsobte nastavenia audio ekvalizéra. O konfigurácii audio ekvalizéra si 
 Nastavte rýchlosť prehrávania audio prehrávača od **0,02× do 3,00×**. Klepnutím na ikonu konfigurácie v pravom hornom rohu prepnete do **presného režimu** pre jemnejšie nastavenia.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox — obrazovka rýchlosti prehrávania" image="/docs/guide/flacbox/img/playback-speed.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox — obrazovka rýchlosti prehrávania" image="/docs/guide/flacbox/img/playback-speed.webp" >}}
 {{< /cards >}}
 
 ### Korekcia výšky tónu

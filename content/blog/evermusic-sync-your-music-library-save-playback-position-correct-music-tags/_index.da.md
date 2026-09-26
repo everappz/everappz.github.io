@@ -12,7 +12,7 @@ authors:
     image: "/images/about/artem-meleshko-founder-everappz.webp"
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 ![](/blog/evermusic-sync-your-music-library-save-playback-position-correct-music-tags/21260c_641f376e779e47d4927b43c210d3c87f~mv2.jpeg)
 
@@ -67,22 +67,22 @@ Evermusic registrerer og retter ugyldige eller ufuldstændige ID3-tags ved hjæl
 
 ## Ofte stillede spørgsmål
 
-{{% details title="Fungerer Evermusicens automatiske synkronisering med alle cloud-tjenester?" closed="true" %}}
+{{% ls-details title="Fungerer Evermusicens automatiske synkronisering med alle cloud-tjenester?" closed="true" %}}
 Ja. Automatisk synkronisering fungerer med Dropbox, Google Drive, OneDrive, MEGA, WebDAV og SMB. Vælg de mapper, du vil have overvåget, og Evermusic holder dit bibliotek opdateret.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Kan Evermusic gemme min lydbogsposition?" closed="true" %}}
+{{% ls-details title="Kan Evermusic gemme min lydbogsposition?" closed="true" %}}
 Ja. Aktivér lagring af afspilningsposition i lydindstillingerne. Evermusic husker, hvor du stoppede for hver fil, så du kan genoptage uden manuelle bogmærker.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Hvordan fungerer baggrundsmetadatalæsning?" closed="true" %}}
+{{% ls-details title="Hvordan fungerer baggrundsmetadatalæsning?" closed="true" %}}
 Evermusic læser ID3-tags og filmetadata i baggrunden, mens du bruger andre funktioner. Den organiserer dit bibliotek efter Kunstner, Album og Genre automatisk.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Vil Evermusic rette mine ødelagte musiktags?" closed="true" %}}
+{{% ls-details title="Vil Evermusic rette mine ødelagte musiktags?" closed="true" %}}
 Ja. Den automatiske tagkorrektionsfunktion tjekker dine filer mod onlinedatabaser og retter ugyldige, ufuldstændige eller manglende ID3-metadata.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Er Evermusic gratis at downloade?" closed="true" %}}
+{{% ls-details title="Er Evermusic gratis at downloade?" closed="true" %}}
 Evermusic er gratis at downloade med valgfrie premiumfunktioner tilgængelige via køb i appen.
-{{% /details %}}
+{{% /ls-details %}}

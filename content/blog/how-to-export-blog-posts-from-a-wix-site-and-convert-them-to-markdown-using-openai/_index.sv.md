@@ -12,7 +12,7 @@ authors:
     image: "/images/about/artem-meleshko-founder-everappz.webp"
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 ## Varfor exportera blogginlagg fran Wix?
 
@@ -332,33 +332,33 @@ Detta enda kommando konfigurerar miljön, scrapar alla blogginlägg från sitema
 Projektet är öppen källkod. Felrapporter, funktionsförslag och pull requests är välkomna.
 
 {{< cards cols="1" >}}
-  {{< card link="https://github.com/everappz/wix-blog-export" title="Projekt på GitHub" icon="github" tag="open source" >}}
+  {{< ls-card link="https://github.com/everappz/wix-blog-export" title="Projekt på GitHub" icon="github" tag="open source" >}}
 {{< /cards >}}
 
 ---
 
 ## Vanliga frågor
 
-{{% details title="Varför kan jag inte bara använda `requests` för att scrapa Wix-blogginlägg?" closed="true" %}}
+{{% ls-details title="Varför kan jag inte bara använda `requests` för att scrapa Wix-blogginlägg?" closed="true" %}}
 Wix renderar innehåll dynamiskt med JavaScript. En standard HTTP-begäran returnerar en tom sidmall. Selenium kör en headless webbläsare för att få den fullständigt renderade HTML:en.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Fungerar detta med vilken Wix-blogg som helst?" closed="true" %}}
+{{% ls-details title="Fungerar detta med vilken Wix-blogg som helst?" closed="true" %}}
 Ja. Scrapern läser bloggens sitemap-XML och bearbetar varje URL. Du behöver bara uppdatera variabeln `SITEMAP_URL` i `parse_blog_sitemap.py` så att den pekar på din sajts sitemap.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Vilken OpenAI-modell använder detta?" closed="true" %}}
+{{% ls-details title="Vilken OpenAI-modell använder detta?" closed="true" %}}
 Skriptet använder GPT-4o som standard. Du kan ändra variabeln `API_MODEL` i `generate_md.py` för att använda en annan modell.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Kan jag använda detta för att migrera från Wix till Hugo?" closed="true" %}}
+{{% ls-details title="Kan jag använda detta för att migrera från Wix till Hugo?" closed="true" %}}
 Ja. Utdata är standard Markdown med lokala bildsökvägar, vilket fungerar direkt med Hugo, Jekyll, Astro och andra statiska sajtgeneratorer. Lägg till front matter till de genererade `_index.md`-filerna för att slutföra migreringen.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Hur mycket kostar OpenAI API för detta?" closed="true" %}}
+{{% ls-details title="Hur mycket kostar OpenAI API för detta?" closed="true" %}}
 Kostnaden beror på antalet och längden på dina blogginlägg. En typisk blogg med 50 inlägg av måttlig längd kostar några dollar i API-användning med GPT-4o.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Är detta verktyg öppen källkod?" closed="true" %}}
+{{% ls-details title="Är detta verktyg öppen källkod?" closed="true" %}}
 Ja. Den fullständiga källkoden finns tillgänglig på [GitHub](https://github.com/everappz/wix-blog-export) under en öppen källkodslicens.
-{{% /details %}}
+{{% /ls-details %}}

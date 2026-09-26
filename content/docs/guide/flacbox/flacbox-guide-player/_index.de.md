@@ -23,7 +23,7 @@ Der Audio-Player ist der Hauptbildschirm der App, auf dem Sie die Musik steuern 
 Sie können den Vollbild-Player über die Mini-Player-Leiste aufrufen. Auf iPhone befindet sich der Mini-Player am unteren Rand des Hauptbildschirms. Auf iPad und Mac befindet er sich auf der linken Seite. Um den Mini-Player auf iPhone auszublenden, tippen Sie einmal darauf und wischen Sie nach unten.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox Audio-Player Hauptbildschirm" image="/docs/guide/flacbox/img/audio-player-main-screen.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox Audio-Player Hauptbildschirm" image="/docs/guide/flacbox/img/audio-player-main-screen.webp" >}}
 {{< /cards >}}
 
 ## Unterstützte Audioformate
@@ -64,7 +64,7 @@ Für AirPlay tippen Sie auf die **AirPlay**-Schaltfläche am unteren Rand des Pl
 Flacbox enthält einen **10-Band-Equalizer** mit iPod-artigen Presets. Tippen Sie auf „Equalizer" in der Lautstärkeansicht, schalten Sie ihn dann oben rechts ein. Wir haben detailliertere Anweisungen zur Verwendung des Equalizers [hier](/docs/howto/how-to-use-the-audio-equalizer-on-your-iphone-ipad-mac-with-evermusic-and-flacbox).
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox Audio-Player Equalizer" image="/docs/guide/flacbox/img/audio-player-equalizer.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox Audio-Player Equalizer" image="/docs/guide/flacbox/img/audio-player-equalizer.webp" >}}
 {{< /cards >}}
 
 ## Player-Modus-Symbolleiste
@@ -80,7 +80,7 @@ Für einige Player-Stile gibt es eine dedizierte Symbolleiste am oberen Rand des
 Um Ihre Player-Warteschlange anzuzeigen, tippen Sie auf die Warteschlange-Schaltfläche rechts neben dem aktuellen Song. Jeder Song in der Warteschlange hat weitere Aktionen.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox Wiedergabe-Warteschlange" image="/docs/guide/flacbox/img/playback_queue.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox Wiedergabe-Warteschlange" image="/docs/guide/flacbox/img/playback_queue.webp" >}}
 {{< /cards >}}
 
 ## Kommentare / Liedtexte
@@ -94,7 +94,7 @@ Um Track-Kommentare und eingebettete Liedtexte sowie LRC-Dateien anzuzeigen:
 5. Aktivieren Sie **Kommentare**.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox Liedtexte und Kommentare Bildschirm" image="/docs/guide/flacbox/img/lyrics-screen.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox Liedtexte und Kommentare Bildschirm" image="/docs/guide/flacbox/img/lyrics-screen.webp" >}}
 {{< /cards >}}
 
 ## Optionsmenü
@@ -115,7 +115,7 @@ Jeder Song in der Audio-Player-Warteschlange hat ein Menü mit weiteren Aktionen
 - **Aus Musikbibliothek löschen** — löscht den Song aus Ihrer Bibliothek, während die Datei im Speicher verbleibt.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox Optionen für ein Element in der Wiedergabe-Warteschlange" image="/docs/guide/flacbox/img/options-for-item-in-playback-queue.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox Optionen für ein Element in der Wiedergabe-Warteschlange" image="/docs/guide/flacbox/img/options-for-item-in-playback-queue.webp" >}}
 {{< /cards >}}
 
 ## Zusätzliche Player-Aktionen
@@ -137,7 +137,7 @@ Tippen Sie auf die **Weitere Aktionen** „..."-Schaltfläche auf der linken Sei
 - **Hilfe** — Hilfe und Anleitung finden.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox Audio-Player Weitere Aktionen Bildschirm" image="/docs/guide/flacbox/img/audio-player-more-actions-screen.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox Audio-Player Weitere Aktionen Bildschirm" image="/docs/guide/flacbox/img/audio-player-more-actions-screen.webp" >}}
 {{< /cards >}}
 
 ## Audio-Lesezeichen
@@ -153,7 +153,7 @@ So erstellen Sie ein neues Lesezeichen:
 - Wählen Sie die Lesezeichenzeit und tippen Sie oben rechts auf **Fertig**.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox Audio-Lesezeichen Bildschirm" image="/docs/guide/flacbox/img/audio-bookmarks.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox Audio-Lesezeichen Bildschirm" image="/docs/guide/flacbox/img/audio-bookmarks.webp" >}}
 {{< /cards >}}
 
 ## Aktuell und Favoriten
@@ -167,7 +167,7 @@ Verbinden Sie Ihr iPhone über USB oder kabelloses Apple CarPlay mit Ihrem Auto,
 [Lesen Sie den vollständigen CarPlay-Leitfaden](/docs/howto/how-to-play-your-own-music-on-iphone-using-carplay/).
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox auf Apple CarPlay" image="/docs/guide/flacbox/img/carplay-main.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox auf Apple CarPlay" image="/docs/guide/flacbox/img/carplay-main.webp" >}}
 {{< /cards >}}
 
 ## Home-Screen-Widgets (iPhone & iPad)
@@ -221,7 +221,7 @@ Passen Sie die Audio-Equalizer-Einstellungen an. Mehr über die Konfiguration de
 Passen Sie die Wiedergabegeschwindigkeit von **0,02× bis 3,00×** an.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox Wiedergabegeschwindigkeit Bildschirm" image="/docs/guide/flacbox/img/playback-speed.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox Wiedergabegeschwindigkeit Bildschirm" image="/docs/guide/flacbox/img/playback-speed.webp" >}}
 {{< /cards >}}
 
 ### Tonhöhenkorrektur

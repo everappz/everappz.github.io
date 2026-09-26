@@ -15,7 +15,7 @@ readingTime: 11
 Müzik kütüphanenizi yönetmek Evermusic ile çok kolaydır; tüm parçalarınızı zahmetsizce düzenleyebilirsiniz. Müzik kütüphanenizi oluşturmak için iki seçeneğiniz vardır: manuel ekleme veya otomatik senkronizasyon.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evermusic Müzik Kütüphanesi Ekranı" image="/docs/guide/evermusic/evermusic-guide-music-library/img/music-library-main.webp" >}}
+  {{< ls-card title="" subtitle="Evermusic Müzik Kütüphanesi Ekranı" image="/docs/guide/evermusic/evermusic-guide-music-library/img/music-library-main.webp" >}}
 {{< /cards >}}
 
 ## Manuel Ekleme
@@ -23,7 +23,7 @@ Müzik kütüphanenizi yönetmek Evermusic ile çok kolaydır; tüm parçaların
 Parçaları manuel olarak eklemek için "Müzik ekle" menü öğesine dokunun ve bağlı bulut depolama hizmetinden klasörler/dosyalar veya cihazınızda bulunan dosyaları seçin. Kütüphaneye parça eklediğinizde yalnızca bu parçalara bağlantılar oluşturulur; gerçek dosyalar orijinal konumlarında korunarak değerli disk alanından tasarruf edilir. Parçaları çevrimdışı kullanılabilir hale getirmek istiyorsanız seçenekler menüsündeki indirme işlemini kullanabilir veya çalma listeleri ve parça koleksiyonları için çevrimdışı modu etkinleştirebilirsiniz.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Müzik Kütüphanesine Şarkı Ekleme" image="/docs/guide/evermusic/evermusic-guide-music-library/img/music-library-add-songs.webp" >}}
+  {{< ls-card title="" subtitle="Müzik Kütüphanesine Şarkı Ekleme" image="/docs/guide/evermusic/evermusic-guide-music-library/img/music-library-add-songs.webp" >}}
 {{< /cards >}}
 
 ## Hızlı Erişim
@@ -75,7 +75,7 @@ Müzik kütüphanenize parça eklediğinizde, uygulama otomatik olarak ses etike
 Gezinme çubuğunun hemen altında bulunan üst araç çubuğu birkaç pratik eylem sunar: "Ara," "Tümünü oynat," "Tümünü karıştır" ve "Çalmayı sürdür." Bu araç çubuğunu basit bir aşağı kaydırma hareketiyle gösterebilir veya gizleyebilirsiniz.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Albüm Görünümü — Müzik Etiketlerine Göre Gruplandırılmış" image="/docs/guide/evermusic/evermusic-guide-music-library/img/music-library-albums.webp" >}}
+  {{< ls-card title="" subtitle="Albüm Görünümü — Müzik Etiketlerine Göre Gruplandırılmış" image="/docs/guide/evermusic/evermusic-guide-music-library/img/music-library-albums.webp" >}}
 {{< /cards >}}
 
 ## Arama
@@ -83,7 +83,7 @@ Gezinme çubuğunun hemen altında bulunan üst araç çubuğu birkaç pratik ey
 Arama özelliği, müzik kütüphanenizde belirli bir parçayı, sanatçıyı, albümü veya türü bulmanızı sağlar. "Arama ekranında" şu eylemlere erişebilirsiniz: "Sırala," "Filtrele," "Izgara/Liste."
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Müzik Kütüphanesi Arama Sonuçları" image="/docs/guide/evermusic/evermusic-guide-music-library/img/music-library-search.webp" >}}
+  {{< ls-card title="" subtitle="Müzik Kütüphanesi Arama Sonuçları" image="/docs/guide/evermusic/evermusic-guide-music-library/img/music-library-search.webp" >}}
 {{< /cards >}}
 
 ## Seçenekler Menüsü
@@ -91,7 +91,7 @@ Arama özelliği, müzik kütüphanenizde belirli bir parçayı, sanatçıyı, a
 Müzik kütüphanenizdeki her şarkı, şarkı başlığının yakınındaki üç nokta düğmesine dokunularak erişilen daha fazla eylem içeren bir menüye sahiptir. Bu eylemler, tek bir şarkı mı yoksa bir koleksiyonun parçası mı olduğuna bağlı olarak değişir.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Kütüphane Öğesi için Daha Fazla Eylem" image="/docs/guide/evermusic/evermusic-guide-music-library/img/music-library-item-more-actions.webp" >}}
+  {{< ls-card title="" subtitle="Kütüphane Öğesi için Daha Fazla Eylem" image="/docs/guide/evermusic/evermusic-guide-music-library/img/music-library-item-more-actions.webp" >}}
 {{< /cards >}}
 
 ### Bireysel Şarkılar İçin
@@ -126,7 +126,7 @@ Albümler, Sanatçılar, Türler veya Besteciler gibi şarkı koleksiyonları i�
 Sağ üst köşedeki Daha Fazla Eylem düğmesini kullanarak seçim modunu etkinleştirebilirsiniz. Bu modda birden fazla parça seçebilir ve çeşitli eylemler gerçekleştirebilirsiniz.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Müzik Kütüphanesinde Seçim Modu" image="/docs/guide/evermusic/evermusic-guide-music-library/img/music-library-selection-mode.webp" >}}
+  {{< ls-card title="" subtitle="Müzik Kütüphanesinde Seçim Modu" image="/docs/guide/evermusic/evermusic-guide-music-library/img/music-library-selection-mode.webp" >}}
 {{< /cards >}}
 
 ## Etiket Gruplandırma
@@ -146,7 +146,7 @@ Bu kategoriler parçalarınızı müzik etiketlerine göre düzenlemenize yardı
 Sanatçı, Albüm Sanatçısı veya Besteci bölümlerini açtığınızda Şarkılar/Tüm Albümler/Özel Albümler/Solo Albümler için bir geçiş görebilirsiniz.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Şarkılar / Tümü / Özel / Solo Geçişli Albüm Ayrıntısı" image="/docs/guide/evermusic/evermusic-guide-music-library/img/music-library-album-details.webp" >}}
+  {{< ls-card title="" subtitle="Şarkılar / Tümü / Özel / Solo Geçişli Albüm Ayrıntısı" image="/docs/guide/evermusic/evermusic-guide-music-library/img/music-library-album-details.webp" >}}
 {{< /cards >}}
 
 - **Şarkılar**: Bu Sanatçı/Albüm Sanatçısı/Bestecinin ses etiketlerinde ayarlandığı tüm şarkıları görüntüler.
@@ -167,7 +167,7 @@ Müzik kütüphanenizde herhangi bir şarkıyı, sanatçıyı, albümü veya tü
 Müzik kütüphanesi tercihlerinizi yapılandırmak için "Ayarlar" menü öğesine dokunun.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Müzik Kütüphanesi Ayarları" image="/docs/guide/evermusic/evermusic-guide-music-library/img/music-library-settings.webp" >}}
+  {{< ls-card title="" subtitle="Müzik Kütüphanesi Ayarları" image="/docs/guide/evermusic/evermusic-guide-music-library/img/music-library-settings.webp" >}}
 {{< /cards >}}
 
 #### Meta Veri Okuma

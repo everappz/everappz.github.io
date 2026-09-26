@@ -17,7 +17,7 @@ readingTime: 6
 Playlists section आपको अपने tracks को lists में organize करने के tools प्रदान करता है। इसमें आपके सभी created playlists showcase करने वाला एक content view, navigation bar में एक "..." button जो विभिन्न playlist-related actions offer करता है, और "खोजें," "सभी चलाएं," और "सभी फेरबदल करें" buttons के साथ एक navigation toolbar शामिल है। इसके अलावा, हर individual playlist में playlist title के पास एक "..." button है जो उस playlist के specific actions की range offer करता है।
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evermusic Playlists स्क्रीन" image="/docs/guide/evermusic/evermusic-guide-playlists/img/playlists-main.webp" >}}
+  {{< ls-card title="" subtitle="Evermusic Playlists स्क्रीन" image="/docs/guide/evermusic/evermusic-guide-playlists/img/playlists-main.webp" >}}
 {{< /cards >}}
 
 ## Playlist बनाना
@@ -25,7 +25,7 @@ Playlists section आपको अपने tracks को lists में organi
 New playlist create करने के लिए, navigation bar के top right corner में "+" button या "..." button टैप करें, "New playlist" select करें और अपनी playlist को एक name assign करें। Name देने के बाद, "Save" टैप करें।
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="New Playlist बनाएं" image="/docs/guide/evermusic/evermusic-guide-playlists/img/playlists-add-new.webp" >}}
+  {{< ls-card title="" subtitle="New Playlist बनाएं" image="/docs/guide/evermusic/evermusic-guide-playlists/img/playlists-add-new.webp" >}}
 {{< /cards >}}
 
 यह "Add songs" dialog prompt करता है, जहां आप choose कर सकते हैं कि new playlist में कौन से tracks add करने हैं। Tracks source type के अनुसार categorized हैं, और आपके पास कई options हैं:
@@ -42,7 +42,7 @@ Default रूप से, आप एक track को playlist में के�
 Evermusic में, हमने M3U file import functionality add की है, ताकि आपको playlists manually create न करनी पड़े।
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="File Source से Playlist Import करें" image="/docs/guide/evermusic/evermusic-guide-playlists/img/playlists-import-from-files.webp" >}}
+  {{< ls-card title="" subtitle="File Source से Playlist Import करें" image="/docs/guide/evermusic/evermusic-guide-playlists/img/playlists-import-from-files.webp" >}}
 {{< /cards >}}
 
 पहले, 'प्लेलिस्ट्स' section पर जाएं। फिर, top right corner में 'More' button टैप करें। Appear होने वाले menu से, 'Import Playlist' option select करें।
@@ -62,7 +62,7 @@ App playlist file parse करेगी, tracks की list create करेग�
 जब आप कोई playlist खोलते हैं, तो "Playlist detail screen" appear होती है। इस screen पर, top right corner में playlist options के साथ एक "..." button और artwork image के नीचे तीन buttons मिलेंगे: "खोजें," "Continue playback", "सभी चलाएं," और "सभी फेरबदल करें।" इसके अलावा, एक "Offline mode" checkbox है।
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Playlist Detail Screen" image="/docs/guide/evermusic/evermusic-guide-playlists/img/playlists-detail-screen.webp" >}}
+  {{< ls-card title="" subtitle="Playlist Detail Screen" image="/docs/guide/evermusic/evermusic-guide-playlists/img/playlists-detail-screen.webp" >}}
 {{< /cards >}}
 
 - **Continue playback**: इस playlist के लिए playback position restore करें।
@@ -87,7 +87,7 @@ App playlist file parse करेगी, tracks की list create करेग�
 - **Delete playlist:** Playlist को Music library से delete करें। कृपया ध्यान दें कि यह action undone नहीं की जा सकती।
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Playlist के लिए अधिक क्रियाएँ मेनू" image="/docs/guide/evermusic/evermusic-guide-playlists/img/playlists-more-actions-for-separate-playlist.webp" >}}
+  {{< ls-card title="" subtitle="Playlist के लिए अधिक क्रियाएँ मेनू" image="/docs/guide/evermusic/evermusic-guide-playlists/img/playlists-more-actions-for-separate-playlist.webp" >}}
 {{< /cards >}}
 
 ## Playlist Detail Screen में Playlist के लिए अधिक क्रियाएँ
@@ -113,7 +113,7 @@ App playlist file parse करेगी, tracks की list create करेग�
 Playlist में songs का order change करने के लिए, top right corner में "..." button टैप करें और selection mode enter करने के लिए "चुनें" select करें। हर track के पास reorder control और drag-and-drop gestures का उपयोग करके उन्हें up या down move करें। Reorder control पर टैप करने से track list के top पर move हो जाएगा। Selection mode exit करने और changes apply करने के लिए, "Done" टैप करें।
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Playlist में Song Order बदलें" image="/docs/guide/evermusic/evermusic-guide-playlists/img/playlists-change-songs-order.webp" >}}
+  {{< ls-card title="" subtitle="Playlist में Song Order बदलें" image="/docs/guide/evermusic/evermusic-guide-playlists/img/playlists-change-songs-order.webp" >}}
 {{< /cards >}}
 
 ## Playlist Cover Image बदलना
@@ -129,7 +129,7 @@ Playlist खोलें और top right corner में "..." button टै�
 Playlist खोलें, top right corner में "..." button टैप करें, और selection mode enter करने के लिए "चुनें" select करें। जो tracks delete करने हैं उन्हें choose करें और screen के bottom पर "Delete from playlist" button टैप करें। "Done" टैप करके changes confirm करें।
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Playlist Details Screen के अंदर Selection Mode" image="/docs/guide/evermusic/evermusic-guide-playlists/img/playlists-selection-mode-in-playlist-details-screen.webp" >}}
+  {{< ls-card title="" subtitle="Playlist Details Screen के अंदर Selection Mode" image="/docs/guide/evermusic/evermusic-guide-playlists/img/playlists-selection-mode-in-playlist-details-screen.webp" >}}
 {{< /cards >}}
 
 ## Track Options
@@ -137,7 +137,7 @@ Playlist खोलें, top right corner में "..." button टैप क�
 Playlist के हर track में actions की एक list है, "..." button टैप करके accessible। अगर आप सभी actions नहीं देख सकते, तो उन्हें view करने के लिए scroll down करें। आप track को playlist से delete कर सकते हैं, download कर सकते हैं, audio tags edit कर सकते हैं, और अधिक।
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Playlist में Track Options Menu" image="/docs/guide/evermusic/evermusic-guide-playlists/img/playlists-track-options.webp" >}}
+  {{< ls-card title="" subtitle="Playlist में Track Options Menu" image="/docs/guide/evermusic/evermusic-guide-playlists/img/playlists-track-options.webp" >}}
 {{< /cards >}}
 
 - **Play next:** Track को player queue के top पर adds करता है।

@@ -7,7 +7,7 @@ tags: ["evermusic", "ses", "düzenleyici", "etiketler", "yorumlar"]
 readingTime: 4
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **Özet:** Evermusic ve Flacbox, herhangi bir ses parçasına zaman işaretçili metin yorumları eklemenize ve bunları çalma sırasında senkronize olarak görüntülemenize olanak tanır. Gömülü şarkı sözlerini ve LRC dosyalarını da görüntüleyebilirsiniz. Yorum ve şarkı sözü özellikleri her iki uygulamada da ücretsizdir.
@@ -97,22 +97,22 @@ Evermusic ve Flacbox'ta ses parçalarına yorum eklenmesi, kullanıcı etkileşi
 
 ## Sık Sorulan Sorular
 
-{{% details title="Evermusic ve Flacbox'ta yorum özelliği ücretsiz mi?" closed="true" %}}
+{{% ls-details title="Evermusic ve Flacbox'ta yorum özelliği ücretsiz mi?" closed="true" %}}
 Evet. Yorum ve şarkı sözü ekleme, düzenleme ve görüntüleme hem Evermusic hem de Flacbox'ta ücretsiz bir özelliktir.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Zamanlı yorumlar için hangi formatı kullanmalıyım?" closed="true" %}}
+{{% ls-details title="Zamanlı yorumlar için hangi formatı kullanmalıyım?" closed="true" %}}
 LRC zaman işaretçisi formatını kullanın: `[MM:SS.SS]` ardından metniniz. Örneğin: `[01:23.45]Bu benim yorumum`. Tek bir satıra birden fazla zaman damgası atayabilirsiniz.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Şarkı sözlerini ve LRC dosyalarını aynı ekranda görüntüleyebilir miyim?" closed="true" %}}
+{{% ls-details title="Şarkı sözlerini ve LRC dosyalarını aynı ekranda görüntüleyebilir miyim?" closed="true" %}}
 Evet. Yorumlar ekranı, kaydırarak geçiş yapabileceğiniz üç modu destekler: Yorumlar, Gömülü Şarkı Sözleri ve LRC Dosyası.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="LRC şarkı sözü dosyalarını nerede bulabilirim?" closed="true" %}}
+{{% ls-details title="LRC şarkı sözü dosyalarını nerede bulabilirim?" closed="true" %}}
 Ücretsiz LRC şarkı sözleri Lyricsify.com gibi web sitelerinde mevcuttur. Bunları ses dosyanızın şarkı sözü etiketine gömebilir veya ses dosyanızın yanına ayrı bir `.lrc` dosyası yerleştirebilirsiniz.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Şarkı sözü etiketlerini düzenlemek için ayrı bir uygulamaya ihtiyacım var mı?" closed="true" %}}
+{{% ls-details title="Şarkı sözü etiketlerini düzenlemek için ayrı bir uygulamaya ihtiyacım var mı?" closed="true" %}}
 Yorumları doğrudan Evermusic ve Flacbox'ta düzenleyebilirsiniz. Özellikle şarkı sözü etiketini düzenlemek için iOS ve macOS için ücretsiz bir ses meta veri düzenleyicisi olan Evertag'i kullanın.
-{{% /details %}}
+{{% /ls-details %}}

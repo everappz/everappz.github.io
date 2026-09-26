@@ -17,7 +17,7 @@ readingTime: 6
 סעיף רשימות ההשמעה מספק לך את הכלים לארגן את המסלולים שלך לרשימות. הוא כולל תצוגת תוכן המציגה את כל הפלייליסטים שיצרת, כפתור "..." בסרגל הניווט המציע פעולות שונות הקשורות לפלייליסטים, וסרגל כלים ניווט עם כפתורי "חיפוש", "נגן הכל" ו"נגן באקראי". יתר על כן, לכל פלייליסט בנפרד יש כפתור "..." ליד כותרת הפלייליסט, המציע מגוון פעולות ספציפיות לאותו פלייליסט.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="מסך רשימות ההשמעה של Evermusic" image="/docs/guide/evermusic/evermusic-guide-playlists/img/playlists-main.webp" >}}
+  {{< ls-card title="" subtitle="מסך רשימות ההשמעה של Evermusic" image="/docs/guide/evermusic/evermusic-guide-playlists/img/playlists-main.webp" >}}
 {{< /cards >}}
 
 ## יצירת פלייליסט
@@ -25,7 +25,7 @@ readingTime: 6
 ליצירת פלייליסט חדש, הקש על כפתור "+" או כפתור "..." בפינה הימנית העליונה של סרגל הניווט, בחר "פלייליסט חדש" ותקצה שם לפלייליסט שלך. לאחר שמתת לו שם, הקש "שמור".
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="צור פלייליסט חדש" image="/docs/guide/evermusic/evermusic-guide-playlists/img/playlists-add-new.webp" >}}
+  {{< ls-card title="" subtitle="צור פלייליסט חדש" image="/docs/guide/evermusic/evermusic-guide-playlists/img/playlists-add-new.webp" >}}
 {{< /cards >}}
 
 זה פותח את תיבת הדו-שיח "הוסף שירים", שבה ניתן לבחור אילו מסלולים להוסיף לפלייליסט החדש. המסלולים מסווגים לפי סוג מקור, ויש לך מספר אפשרויות:
@@ -42,7 +42,7 @@ readingTime: 6
 ב-Evermusic, הוספנו פונקציונליות ייבוא קבצי M3U, כך שלא תצטרך ליצור פלייליסטים ידנית.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="ייבא פלייליסט ממקור קבצים" image="/docs/guide/evermusic/evermusic-guide-playlists/img/playlists-import-from-files.webp" >}}
+  {{< ls-card title="" subtitle="ייבא פלייליסט ממקור קבצים" image="/docs/guide/evermusic/evermusic-guide-playlists/img/playlists-import-from-files.webp" >}}
 {{< /cards >}}
 
 ראשית, עבור לסעיף 'רשימות השמעה'. לאחר מכן, הקש על כפתור 'עוד' בפינה הימנית העליונה. מהתפריט שמופיע, בחר באפשרות 'ייבא פלייליסט'.
@@ -62,7 +62,7 @@ readingTime: 6
 כאשר אתה פותח פלייליסט, מופיע "מסך פרטי הפלייליסט". במסך זה, תמצא כפתור "..." בפינה הימנית העליונה עם אפשרויות פלייליסט ושלושה כפתורים מתחת לתמונת העטיפה: "חיפוש", "המשך ניגון", "נגן הכל" ו"נגן באקראי". בנוסף, ישנה תיבת סימון "מצב לא מקוון".
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="מסך פרטי הפלייליסט" image="/docs/guide/evermusic/evermusic-guide-playlists/img/playlists-detail-screen.webp" >}}
+  {{< ls-card title="" subtitle="מסך פרטי הפלייליסט" image="/docs/guide/evermusic/evermusic-guide-playlists/img/playlists-detail-screen.webp" >}}
 {{< /cards >}}
 
 - **המשך ניגון**: שחזר את מיקום הניגון עבור פלייליסט זה.
@@ -87,7 +87,7 @@ readingTime: 6
 - **מחק פלייליסט:** מחק את הפלייליסט מספריית המוזיקה. שים לב שלא ניתן לבטל פעולה זו.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="תפריט עוד פעולות עבור פלייליסט" image="/docs/guide/evermusic/evermusic-guide-playlists/img/playlists-more-actions-for-separate-playlist.webp" >}}
+  {{< ls-card title="" subtitle="תפריט עוד פעולות עבור פלייליסט" image="/docs/guide/evermusic/evermusic-guide-playlists/img/playlists-more-actions-for-separate-playlist.webp" >}}
 {{< /cards >}}
 
 ## עוד פעולות לפלייליסט במסך פרטי הפלייליסט
@@ -113,7 +113,7 @@ readingTime: 6
 לשינוי סדר השירים בפלייליסט, הקש על כפתור "..." בפינה הימנית העליונה ובחר "בחר" לכניסה למצב בחירה. השתמש בפקד הסידור מחדש ובתנועות גרירה ושחרור ליד כל מסלול להזזתם למעלה או למטה. הקשה על פקד הסידור מחדש תעביר את המסלול לראש הרשימה. ליציאה ממצב הבחירה ולהחלת השינויים, הקש "בוצע".
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="שינוי סדר שירים בפלייליסט" image="/docs/guide/evermusic/evermusic-guide-playlists/img/playlists-change-songs-order.webp" >}}
+  {{< ls-card title="" subtitle="שינוי סדר שירים בפלייליסט" image="/docs/guide/evermusic/evermusic-guide-playlists/img/playlists-change-songs-order.webp" >}}
 {{< /cards >}}
 
 ## שינוי תמונת העטיפה של הפלייליסט
@@ -129,7 +129,7 @@ readingTime: 6
 פתח את הפלייליסט, הקש על כפתור "..." בפינה הימנית העליונה ובחר "בחר" לכניסה למצב בחירה. בחר את המסלולים שברצונך למחוק והקש על כפתור "מחק מהפלייליסט" בתחתית המסך. אשר את השינויים על ידי הקשה על "בוצע".
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="מצב בחירה בתוך פלייליסט" image="/docs/guide/evermusic/evermusic-guide-playlists/img/playlists-selection-mode-in-playlist-details-screen.webp" >}}
+  {{< ls-card title="" subtitle="מצב בחירה בתוך פלייליסט" image="/docs/guide/evermusic/evermusic-guide-playlists/img/playlists-selection-mode-in-playlist-details-screen.webp" >}}
 {{< /cards >}}
 
 ## אפשרויות מסלול
@@ -137,7 +137,7 @@ readingTime: 6
 לכל מסלול בפלייליסט יש רשימת פעולות, נגישות על ידי הקשה על כפתור "...". אם אינך יכול לראות את כל הפעולות, גלול למטה לצפייה בהן. ניתן למחוק את המסלול מהפלייליסט, להוריד אותו, לערוך תגיות שמע ועוד.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="תפריט אפשרויות מסלול בפלייליסט" image="/docs/guide/evermusic/evermusic-guide-playlists/img/playlists-track-options.webp" >}}
+  {{< ls-card title="" subtitle="תפריט אפשרויות מסלול בפלייליסט" image="/docs/guide/evermusic/evermusic-guide-playlists/img/playlists-track-options.webp" >}}
 {{< /cards >}}
 
 - **נגן הבא:** מוסיף את המסלול לראש תור הנגן.

@@ -12,7 +12,7 @@ authors:
     image: "/images/about/artem-meleshko-founder-everappz.webp"
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 **Resum:** [Everdisk](/products/everdisk) és la nostra nova aplicació que converteix el teu **iPhone o iPad en una unitat sense fils**, i un centre que també es connecta als teus altres dispositius. Toca **Start** i Everdisk executa **quatre servidors alhora**: **DLNA** per a televisors intel·ligents i reproductors multimèdia, **HTTP** per a qualsevol navegador web, **WebDAV** per al Finder, Windows i Linux, i **FTP** per a aplicacions de fitxers. Cada dispositiu es connecta com prefereix. Comparteix els teus fitxers, fotos, vídeos i música amb qualsevol cosa de la teva xarxa, reprodueix en un televisor sense cables, munta el teu dispositiu com a unitat de xarxa, o mou fitxers per un **cable USB** quan no hi ha Wi-Fi. Everdisk també es connecta cap enfora a servidors **DLNA, WebDAV, FTP i SFTP**, té un **gestor de fitxers** integrat amb comprimir i descomprimir, i pot **escanejar documents a PDF**, **anotar i signar PDF**, i executar un **conjunt d'eines PDF** complet. Sense comptes, sense núvol i sense cap aplicació addicional per instal·lar a l'altre costat. Tot es queda a la teva xarxa local. Descàrrega gratuïta, amb una compra opcional Premium Lifetime d'un sol pagament.
 
@@ -133,46 +133,46 @@ Si t'agrada l'aplicació, deixa una valoració a l'App Store. Ajuda molt. Tens c
 
 ## Preguntes freqüents
 
-{{% details title="Què és Everdisk?" closed="true" %}}
+{{% ls-details title="Què és Everdisk?" closed="true" %}}
 Everdisk és una nova aplicació que converteix el teu iPhone o iPad en una unitat sense fils i un centre que també es connecta als teus altres dispositius. Pots compartir els teus fitxers, fotos, vídeos i música amb qualsevol cosa de la teva xarxa, navegar i reproduir des d'altres servidors, i gestionar-ho tot directament al teu dispositiu. Sense comptes, sense núvol i sense cap aplicació addicional per instal·lar a l'altre costat. Només toques Start i ja estàs a punt. L'aplicació executa quatre servidors al mateix temps: DLNA per a televisors intel·ligents i reproductors multimèdia, HTTP per a qualsevol navegador web, WebDAV per al Finder, Windows i Linux, i FTP per a aplicacions de fitxers i usuaris avançats.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Quant costa Everdisk?" closed="true" %}}
+{{% ls-details title="Quant costa Everdisk?" closed="true" %}}
 Everdisk és una descàrrega gratuïta. Pots convertir el teu dispositiu en una unitat sense fils, compartir els teus fitxers de quatre maneres, reproduir en un televisor, muntar una unitat de xarxa, transferir per USB, connectar-te a altres servidors, fer servir el gestor de fitxers, escanejar documents i fer servir les eines PDF sense cap cost. Hi ha una compra opcional Premium Lifetime d'un sol pagament, un únic pagament sense subscripció, que desbloqueja carpetes compartides i connexions desades il·limitades, conversió de fotos i vídeo, ports personalitzats, inici automàtic de la compartició i personalització del dispositiu. Els preus poden variar segons la regió.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Necessito instal·lar res a l'altre dispositiu?" closed="true" %}}
+{{% ls-details title="Necessito instal·lar res a l'altre dispositiu?" closed="true" %}}
 No. Aquest és tot el sentit. L'altre dispositiu es connecta fent servir les eines que ja té. Un televisor intel·ligent troba la teva biblioteca per DLNA pel seu compte, qualsevol ordinador o telèfon obre un enllaç en un navegador web, i el Finder del Mac, Windows i Linux munten el teu dispositiu com una unitat de xarxa mitjançant WebDAV. Res per instal·lar a l'altre costat.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Com reprodueixo fotos i vídeos al meu televisor?" closed="true" %}}
+{{% ls-details title="Com reprodueixo fotos i vídeos al meu televisor?" closed="true" %}}
 Posa el teu televisor o reproductor multimèdia i el teu dispositiu a la mateixa xarxa Wi-Fi, i després toca Start a Everdisk amb les teves fotos, vídeos o música compartits. El teu dispositiu apareix tot sol a la llista de servidors multimèdia del televisor, amb miniatures de previsualització. Obre'l al televisor i gaudeix de la teva biblioteca a la pantalla gran. Sense cables i sense aplicacions addicionals.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Com connecto Everdisk des del meu Mac o PC?" closed="true" %}}
+{{% ls-details title="Com connecto Everdisk des del meu Mac o PC?" closed="true" %}}
 Everdisk fa que el teu dispositiu aparegui com una unitat de xarxa normal mitjançant WebDAV. En un Mac, obre el Finder i tria Anar, i després Connecta't al servidor, i introdueix l'adreça WebDAV que es mostra a l'aplicació. A Windows, mapeja una unitat de xarxa fent servir la mateixa adreça. A Linux, connecta't a l'adreça WebDAV des del teu gestor de fitxers. Un cop connectat, pots arrossegar i deixar anar en tots dos sentits. Si prefereixes no muntar una unitat, només has d'obrir l'enllaç HTTP en qualsevol navegador web.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Puc transferir fitxers sense Wi-Fi?" closed="true" %}}
+{{% ls-details title="Puc transferir fitxers sense Wi-Fi?" closed="true" %}}
 Sí. Connecta el teu dispositiu a un Mac amb el mateix cable USB que fas servir per carregar-lo, i els fitxers passen directament pel cable, més ràpid que el Wi-Fi. Com que no necessita una xarxa sense fils, això continua funcionant en un avió, en un hotel o en qualsevol xarxa bloquejada o pública on la compartició per Wi-Fi estigui restringida.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Puc enviar fitxers d'un iPhone a un altre?" closed="true" %}}
+{{% ls-details title="Puc enviar fitxers d'un iPhone a un altre?" closed="true" %}}
 Sí. Comença a compartir en un dispositiu i obre l'enllaç en un navegador web a l'altre, o connecta't per WebDAV o FTP. Pots navegar, reproduir i descarregar en tots dos sentits, i fins i tot pujar fotos, documents i carpetes senceres de tornada al dispositiu que comparteix.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="A què es pot connectar Everdisk?" closed="true" %}}
+{{% ls-details title="A què es pot connectar Everdisk?" closed="true" %}}
 Everdisk també és un client per a altres dispositius de la teva xarxa. Pots trobar i connectar-te a servidors DLNA, WebDAV, FTP i SFTP, inclosos els NAS i els servidors multimèdia. Un cop connectat, pots navegar per les seves carpetes, reproduir àudio i vídeo, descarregar fitxers, i crear carpetes, pujar, canviar el nom, moure o eliminar quan el servidor ho permet.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Puc escanejar documents i editar PDF a Everdisk?" closed="true" %}}
+{{% ls-details title="Puc escanejar documents i editar PDF a Everdisk?" closed="true" %}}
 Sí. Everdisk pot escanejar documents en paper amb la teva càmera. Troba les vores pel seu compte, endreça cada pàgina i les desa com un PDF net de diverses pàgines. També pots obrir un PDF o una foto i anotar-los (dibuixar, ressaltar, afegir text i formes, i signar amb el dit), amb els canvis desats al fitxer. Un conjunt d'eines PDF complet afegeix compressió, reconeixement de text (OCR) en un PDF on es pot cercar, protecció amb contrasenya, revisió de permisos, edició de metadades i aplanament.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Everdisk és privat i segur?" closed="true" %}}
+{{% ls-details title="Everdisk és privat i segur?" closed="true" %}}
 Sí. Tot es queda a la teva xarxa local i mai no arriba a internet, així que els teus fitxers mai no surten de casa. Sense comptes ni núvol pel mig. Pots protegir l'accés amb un nom d'usuari i una contrasenya perquè els dispositius connectats hagin d'introduir les mateixes dades abans de poder veure els teus fitxers, i pots bloquejar qualsevol dispositiu amb un sol toc. Per a la millor privadesa, activa la compartició només mentre estiguis connectat a una xarxa Wi-Fi que coneixes i en què confies.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="En quins dispositius funciona Everdisk?" closed="true" %}}
+{{% ls-details title="En quins dispositius funciona Everdisk?" closed="true" %}}
 Everdisk funciona a l'iPhone i a l'iPad. Comparteix amb, i es connecta a, televisors intel·ligents, reproductors multimèdia, ordinadors Mac, Windows i Linux, navegadors web, altres telèfons i tauletes, unitats NAS, i qualsevol servidor DLNA, WebDAV, FTP o SFTP de la teva xarxa.
-{{% /details %}}
+{{% /ls-details %}}

@@ -12,7 +12,7 @@ authors:
     image: "/images/about/artem-meleshko-founder-everappz.webp"
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 ## Evermusic: iPhone과 iPad를 위한 클라우드 음악 플레이어
 
@@ -22,7 +22,7 @@ Evermusic은 개인 클라우드 스토리지에 연결하여 완전한 음악 �
 
 ## 프로모션 영상 시청
 
-{{< youtubecard id="BwD0XLgdzEE" title="Evermusic Promo Video" >}}
+{{< ls-youtubecard id="BwD0XLgdzEE" title="Evermusic Promo Video" >}}
 
 ## 영상에서 보여주는 주요 기능
 
@@ -36,14 +36,14 @@ App Store에서 [Evermusic을 무료로 다운로드](https://apps.apple.com/app
 
 ## 자주 묻는 질문
 
-{{% details title="Evermusic이란 무엇인가요?" closed="true" %}}
+{{% ls-details title="Evermusic이란 무엇인가요?" closed="true" %}}
 Evermusic은 iPhone과 iPad를 위한 클라우드 음악 플레이어입니다. Dropbox, Google Drive, OneDrive와 같은 클라우드 스토리지 서비스에 연결하여 자신의 음악 파일을 스트리밍하고 다운로드할 수 있습니다. FLAC, MP3, AAC, WAV 및 기타 오디오 형식을 지원합니다.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Evermusic은 무료로 다운로드할 수 있나요?" closed="true" %}}
+{{% ls-details title="Evermusic은 무료로 다운로드할 수 있나요?" closed="true" %}}
 네. Evermusic은 기본 기능이 포함된 무료 다운로드입니다. 일회성 프리미엄 업그레이드로 이퀄라이저, 크로스페이드 및 추가 클라우드 계정 연결이 잠금 해제됩니다.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Evermusic은 어떤 클라우드 서비스를 지원하나요?" closed="true" %}}
+{{% ls-details title="Evermusic은 어떤 클라우드 서비스를 지원하나요?" closed="true" %}}
 Evermusic은 iCloud Drive, Dropbox, Google Drive, OneDrive, Box, MEGA, Yandex.Disk, pCloud 및 WebDAV 또는 SMB 프로토콜을 실행하는 모든 서버를 포함하여 12개 이상의 클라우드 플랫폼을 지원합니다.
-{{% /details %}}
+{{% /ls-details %}}

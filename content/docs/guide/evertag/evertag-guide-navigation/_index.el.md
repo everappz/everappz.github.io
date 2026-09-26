@@ -16,7 +16,7 @@ readingTime: 3
 Το Evertag προσφέρει μια διαισθητική διεπαφή χρήστη. Αυτό που το ξεχωρίζει από πολλές δημοφιλείς εφαρμογές είναι ο ενσωματωμένος διαχειριστής αρχείων, ο οποίος δίνει στους χρήστες τη δυνατότητα να επεξεργάζονται αρχεία ήχου και να τα μεταφέρουν απρόσκοπτα προς και από αποθήκευση cloud.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evertag Screen" image="/docs/guide/evertag/img/tag-editor.webp" >}}
+  {{< ls-card title="" subtitle="Evertag Screen" image="/docs/guide/evertag/img/tag-editor.webp" >}}
 {{< /cards >}}
 
 ## Ενότητες
@@ -42,7 +42,7 @@ readingTime: 3
 Σχεδόν κάθε στοιχείο περιεχομένου στην οθόνη διαθέτει ένα κουμπί «Περισσότερες ενέργειες». Πατήστε το για πρόσβαση σε όλες τις διαθέσιμες ενέργειες.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evertag More Actions" image="/docs/guide/evertag/img/downloads-file-actions.webp" >}}
+  {{< ls-card title="" subtitle="Evertag More Actions" image="/docs/guide/evertag/img/downloads-file-actions.webp" >}}
 {{< /cards >}}
 
 ## Επάνω Γραμμή Εργαλείων

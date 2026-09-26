@@ -1,10 +1,11 @@
 ---
+excludeSearch: true
 date: '2025-06-12T17:00:00+00:00'
 title: '회사 소개'
 description: 'Everappz S.L.은 오디오 및 비디오용 iOS 및 macOS 앱을 개발하는 스페인 소프트웨어 회사입니다. Evermusic(1,100만 다운로드), Flacbox, EverTag, EverVideo, Soundy의 제작사 — 전 세계 1,400만 이상 다운로드.'
 ---
 
-{{< lottie src="/images/juicy-json/juicy-girl-and-guy-preparing-start-up-rocket-to-launch-with-ideas.json" width="65%" >}}
+{{< ls-lottie src="/images/juicy-json/juicy-girl-and-guy-preparing-start-up-rocket-to-launch-with-ideas.json" width="65%" >}}
 
 ## 우리는 누구인가
 
@@ -35,7 +36,7 @@ Everappz S.L.은 스페인에 본사를 둔 독립 소프트웨어 회사입니�
 ### Artem Meleshko
 
 {{< cards cols="1" >}}
-  {{< card
+  {{< ls-card
     link="https://www.linkedin.com/in/artem-meleshko-s/"
     title="Artem Meleshko"
     tag="창립자 겸 엔지니어"
@@ -60,7 +61,7 @@ Everappz 브랜드 아래 Artem은 Flacbox(오디오파일을 위한 하이레�
 ### Anna Kosenko
 
 {{< cards cols="1" >}}
-  {{< card
+  {{< ls-card
     link="https://www.linkedin.com/in/anna-kosenko-kosenko/"
     title="Anna Kosenko"
     tag="디렉터"
@@ -86,4 +87,4 @@ Anna는 Colegio Internacional Lope de Vega에서 경영학 및 재무 학위를 
 
 최신 뉴스, 앱 업데이트, 팁, 유용한 정보를 받으시려면 소셜 네트워크에서 구독해 주세요:
 
-{{< social-cards >}}
+{{< ls-social-cards >}}

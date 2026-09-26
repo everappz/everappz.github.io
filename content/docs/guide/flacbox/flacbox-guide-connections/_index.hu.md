@@ -19,7 +19,7 @@ readingTime: 12
 Ezen a képernyőn csatlakoztathatja az összes zenéjét tároló forrást. Integrálhat népszerű felhőszolgáltatásokat, mint a Dropbox, a Google Drive, az iCloud Drive, az OneDrive, a MEGA, a Box, a pCloud, a Yandex Disk, a Synology Drive és még sok más, valamint Mac-et, PC-t vagy NAS-t szabványos protokollokon keresztül. Akár a Dropbox-hoz hasonló streaming-barát szolgáltatáson, akár személyes NAS-on (Synology, QNAP, Buffalo, Apple Time Capsule vagy WD My Cloud Home) él a gyűjteménye, a Flacbox egyetlen képernyőről mindenhez csatlakozik.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox Kapcsolatok képernyő" image="/docs/guide/flacbox/img/connections-main.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox Kapcsolatok képernyő" image="/docs/guide/flacbox/img/connections-main.webp" >}}
 {{< /cards >}}
 
 ## Csatlakozás felhőtárhelyhez
@@ -30,7 +30,7 @@ Ezen a képernyőn csatlakoztathatja az összes zenéjét tároló forrást. Int
 - Adja meg a hitelesítő adatait a felhőszolgáltató által biztosított hivatalos engedélyezési oldalon, majd koppintson a **Kész** gombra.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox Felhőtárhely-szolgáltatás hozzáadása" image="/docs/guide/flacbox/img/add-cloud-storage.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox Felhőtárhely-szolgáltatás hozzáadása" image="/docs/guide/flacbox/img/add-cloud-storage.webp" >}}
 {{< /cards >}}
 
 Ha problémákba ütközik, ellenőrizze az internetkapcsolatát és a bejelentkezési adatait / jelszavát. Az alkalmazás prémium verziójában korlátlan számú szolgáltatást adhat hozzá; az ingyenes verzió legfeljebb három szolgáltatást támogat.
@@ -134,7 +134,7 @@ Ez a szakasz minden olyan eszközt megjelenít a helyi hálózaton, amelyhez a B
 Ez a leggyorsabb módja SMB, WebDAV, DLNA-megosztás felfedezésének az otthoni hálózaton IP-cím manuális beírása nélkül.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox Elérhető eszközök a helyi hálózaton" image="/docs/guide/flacbox/img/available-devies.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox Elérhető eszközök a helyi hálózaton" image="/docs/guide/flacbox/img/available-devies.webp" >}}
 {{< /cards >}}
 
 ## Wi-Fi Drive
@@ -149,7 +149,7 @@ A Wi-Fi Drive egy kényelmes technológia, amely lehetővé teszi a vezeték né
 - Koppintson a **Wi-Fi Drive indítása** gombra a Wi-Fi Drive engedélyezéséhez.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox Wi-Fi Drive" image="/docs/guide/flacbox/img/wifi-drive.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox Wi-Fi Drive" image="/docs/guide/flacbox/img/wifi-drive.webp" >}}
 {{< /cards >}}
 
 ### Wi-Fi Drive elérése a számítógépen
@@ -234,7 +234,7 @@ Koppintson a fájl neve melletti **"..."** ikonra a műveletek menüjének megje
 - **Törlés** — a fájl végleges eltávolítása a felhőtárhelyéről. **Ez a művelet nem vonható vissza.**
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox További műveletek a csatlakoztatott felhőtárhelyen lévő fájlhoz" image="/docs/guide/flacbox/img/more-actions-for-file-in-connected-cloud-storage.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox További műveletek a csatlakoztatott felhőtárhelyen lévő fájlhoz" image="/docs/guide/flacbox/img/more-actions-for-file-in-connected-cloud-storage.webp" >}}
 {{< /cards >}}
 
 Ha a műveletek listája meghaladja a rendelkezésre álló képernyőterületet, egyszerűen görgessen le a műveletek menüjében a további lehetőségek eléréséhez.
@@ -261,7 +261,7 @@ A felhőtárhelyen lévő minden mappához számos művelet érhető el a mappa 
 A Gyors hozzáférés szakasz a képernyő tetején található. Gyors hozzáférést biztosít a csatlakoztatott felhőszolgáltatások kedvenc és nemrég megnyitott fájljaihoz. Amikor megnyit egy fájlt vagy mappát a felhőből, az hozzáadódik a Legutóbb megnyitott listához. A lista törléséhez nyissa meg a Legutóbbiakat, koppintson a További műveletek gombra, és válassza a Lista törlése lehetőséget.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox Online hivatkozások és gyors hozzáférés" image="/docs/guide/flacbox/img/online-links.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox Online hivatkozások és gyors hozzáférés" image="/docs/guide/flacbox/img/online-links.webp" >}}
 {{< /cards >}}
 
 ## Egyéb szolgáltatások
@@ -269,5 +269,5 @@ A Gyors hozzáférés szakasz a képernyő tetején található. Gyors hozzáfé
 Ez a szakasz olyan extra funkciókat jelenít meg, amelyek javítják az élményt. Jelenleg az alkalmazás a **Last.fm** scrobbling-ot támogatja — csatlakoztatva a lejátszási statisztikáit automatikusan elküldi Last.fm-fiókjára. Részletes beállítási utasítások [itt](/docs/howto/how-to-scrobble-your-music-history-from-evermusic-or-flacbox-to-last-fm) érhetők el.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox Last.fm csatlakoztatása" image="/docs/guide/flacbox/img/last-fm-connect.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox Last.fm csatlakoztatása" image="/docs/guide/flacbox/img/last-fm-connect.webp" >}}
 {{< /cards >}}

@@ -7,7 +7,7 @@ tags: ["google", "keselamatan", "privasi", "apl", "akaun", "akses"]
 readingTime: 2
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **Ringkasan:** Pergi ke [myaccount.google.com](https://myaccount.google.com/) > Keselamatan > Apl & perkhidmatan pihak ketiga. Klik apl yang anda mahu alih keluar, kemudian pilih "Alih Keluar Akses" atau "Padam semua sambungan." Ulangi untuk setiap apl.
@@ -75,18 +75,18 @@ Ingat bahawa walaupun apl pihak ketiga boleh meningkatkan pengalaman digital and
 
 ## Soalan Lazim
 
-{{% details title="Adakah memutuskan sambungan apl akan memadam data saya daripada apl tersebut?" closed="true" %}}
+{{% ls-details title="Adakah memutuskan sambungan apl akan memadam data saya daripada apl tersebut?" closed="true" %}}
 Tidak. Mengalih keluar akses hanya menghalang apl daripada mengakses akaun Google anda pada masa hadapan. Data yang telah dikongsi dengan apl mungkin masih wujud di pelayan mereka. Semak tetapan privasi apl itu sendiri untuk memadam data tersebut.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Bolehkah saya menyambung semula apl selepas memutuskan sambungannya?" closed="true" %}}
+{{% ls-details title="Bolehkah saya menyambung semula apl selepas memutuskan sambungannya?" closed="true" %}}
 Ya. Jika anda memerlukan apl itu semula, cukup log masuk dengan Google apabila digesa. Apl akan meminta kebenaran semula, dan anda boleh menyemaknya sebelum memberikan akses.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Berapa kerapkah saya perlu menyemak akses apl pihak ketiga?" closed="true" %}}
+{{% ls-details title="Berapa kerapkah saya perlu menyemak akses apl pihak ketiga?" closed="true" %}}
 Semak apl yang disambungkan anda setiap 3-6 bulan, atau serta-merta selepas anda berhenti menggunakan sesuatu perkhidmatan. Semakan berkala membantu memastikan akaun anda selamat.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Adakah ini menjejaskan apl seperti Evermusic yang menyambung ke Google Drive?" closed="true" %}}
+{{% ls-details title="Adakah ini menjejaskan apl seperti Evermusic yang menyambung ke Google Drive?" closed="true" %}}
 Ya. Jika anda memutuskan sambungan apl seperti Evermusic atau Flacbox daripada akaun Google anda, ia akan kehilangan akses kepada fail Google Drive anda. Anda boleh menyambung semula pada bila-bila masa dari dalam apl.
-{{% /details %}}
+{{% /ls-details %}}

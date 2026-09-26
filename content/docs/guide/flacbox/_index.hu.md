@@ -71,20 +71,20 @@ Ez az útmutató végigvezeti Önt a Flacbox minden részén iPhone-on, iPaden �
 
 {{< cards cols="2">}}
 
-{{< card icon="map" link="/docs/guide/flacbox/flacbox-guide-navigation" title="Navigáció" subtitle="Tab sor iPhone-on, bal oldali menü iPaden és Macon, mini lejátszó, widgetek, CarPlay." >}}
+{{< ls-card icon="map" link="/docs/guide/flacbox/flacbox-guide-navigation" title="Navigáció" subtitle="Tab sor iPhone-on, bal oldali menü iPaden és Macon, mini lejátszó, widgetek, CarPlay." >}}
 
-{{< card icon="cloud" link="/docs/guide/flacbox/flacbox-guide-connections" title="Kapcsolatok" subtitle="iCloud, Google Drive, Dropbox, OneDrive, NAS, WebDAV, SMB, DLNA." >}}
+{{< ls-card icon="cloud" link="/docs/guide/flacbox/flacbox-guide-connections" title="Kapcsolatok" subtitle="iCloud, Google Drive, Dropbox, OneDrive, NAS, WebDAV, SMB, DLNA." >}}
 
-{{< card icon="collection" link="/docs/guide/flacbox/flacbox-guide-music-library" title="Zenetár" subtitle="Dalok, Albumok, Előadók, Műfajok, Szerzők — szinkronizálás, keresés, metaadatok szerkesztése." >}}
+{{< ls-card icon="collection" link="/docs/guide/flacbox/flacbox-guide-music-library" title="Zenetár" subtitle="Dalok, Albumok, Előadók, Műfajok, Szerzők — szinkronizálás, keresés, metaadatok szerkesztése." >}}
 
-{{< card icon="music-note" link="/docs/guide/flacbox/flacbox-guide-playlists" title="Lejátszási listák" subtitle="Hozzon létre, importáljon M3U / M3U8 / CUE-t, rendezze át és exportálja M3U / CSV / TXT formátumba." >}}
+{{< ls-card icon="music-note" link="/docs/guide/flacbox/flacbox-guide-playlists" title="Lejátszási listák" subtitle="Hozzon létre, importáljon M3U / M3U8 / CUE-t, rendezze át és exportálja M3U / CSV / TXT formátumba." >}}
 
-{{< card icon="folder" link="/docs/guide/flacbox/flacbox-guide-local-files" title="Helyi fájlok" subtitle="Offline zene, USB meghajtók, Wi-Fi Drive, fájlkezelő, offline mappák." >}}
+{{< ls-card icon="folder" link="/docs/guide/flacbox/flacbox-guide-local-files" title="Helyi fájlok" subtitle="Offline zene, USB meghajtók, Wi-Fi Drive, fájlkezelő, offline mappák." >}}
 
-{{< card icon="play" link="/docs/guide/flacbox/flacbox-guide-player" title="Audiojátszó" subtitle="Hi-res kimenet, equalizer, hangmagasság, könyvjelzők, AirPlay, Chromecast, sebesség, alvásidőzítő." >}}
+{{< ls-card icon="play" link="/docs/guide/flacbox/flacbox-guide-player" title="Audiojátszó" subtitle="Hi-res kimenet, equalizer, hangmagasság, könyvjelzők, AirPlay, Chromecast, sebesség, alvásidőzítő." >}}
 
-{{< card icon="adjustments" link="/docs/guide/flacbox/flacbox-guide-settings" title="Beállítások" subtitle="Hangmotor, könyvtár, fájlkezelő, CarPlay, widgetek, személyre szabás, nyelv, biztonsági mentés." >}}
+{{< ls-card icon="adjustments" link="/docs/guide/flacbox/flacbox-guide-settings" title="Beállítások" subtitle="Hangmotor, könyvtár, fájlkezelő, CarPlay, widgetek, személyre szabás, nyelv, biztonsági mentés." >}}
 
-{{< card icon="question-mark-circle" link="/docs/faq/flacbox" title="GYIK" subtitle="Találja meg a Flacboxra vonatkozó 50 leggyakoribb kérdésre adott választ." >}}
+{{< ls-card icon="question-mark-circle" link="/docs/faq/flacbox" title="GYIK" subtitle="Találja meg a Flacboxra vonatkozó 50 leggyakoribb kérdésre adott választ." >}}
 
 {{< /cards >}}

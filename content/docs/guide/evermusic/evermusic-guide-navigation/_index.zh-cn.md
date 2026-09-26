@@ -25,7 +25,7 @@ Evermusic 的功能被精心划分为两个独立组件：音乐库（通过「�
 无论您使用的是 iPhone、iPad 还是 Mac 上的紧凑模式，所有应用功能都可通过屏幕底部的标签栏轻松访问。对于 iPad 和 Mac 用户，相同的菜单位于屏幕左侧。这种周到的组织方式将所有应用功能分类到易于访问的分区中，确保用户友好且高效的体验。
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="iPad 和 Mac 上的 Evermusic 左侧边栏" image="/docs/guide/evermusic/evermusic-guide-navigation/img/navigation-left-sidebar.webp" >}}
+  {{< ls-card title="" subtitle="iPad 和 Mac 上的 Evermusic 左侧边栏" image="/docs/guide/evermusic/evermusic-guide-navigation/img/navigation-left-sidebar.webp" >}}
 {{< /cards >}}
 
 **连接：** 您可以在此屏幕上轻松连接 Google Drive、MEGA、OneDrive 和 Dropbox 等云存储服务，以及您的计算机和个人 NAS。
@@ -47,7 +47,7 @@ Evermusic 的功能被精心划分为两个独立组件：音乐库（通过「�
 点击迷你播放器图标并使用向下滑动手势将其隐藏，以激活全屏播放器。在 iPad 和 Mac 上，迷你播放器屏幕位于屏幕顶部，可在通过主菜单打开全屏播放器时隐藏。
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="iPhone 标签栏" image="/docs/guide/evermusic/evermusic-guide-navigation/img/navigation-bottom-tabbar.webp" >}}
+  {{< ls-card title="" subtitle="iPhone 标签栏" image="/docs/guide/evermusic/evermusic-guide-navigation/img/navigation-bottom-tabbar.webp" >}}
 {{< /cards >}}
 
 ## 迷你播放器窗口（Mac 专属）
@@ -55,7 +55,7 @@ Evermusic 的功能被精心划分为两个独立组件：音乐库（通过「�
 要在 Mac 上访问迷你播放器窗口，只需将光标移动到应用程序窗口的右下角并将其调整到最小尺寸。然后，点击折叠按钮（显示为向下箭头）以激活迷你播放器窗口。要使迷你播放器窗口始终置于其他窗口之上，请导航到 Mac 顶部菜单栏，选择「窗口」，然后选择「始终在顶部显示窗口」。此功能对于不间断收听音频讲座非常有用。
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Mac 迷你播放器窗口" image="/docs/guide/evermusic/evermusic-guide-navigation/img/navigation-mac-exclusive-miniplayer.webp" >}}
+  {{< ls-card title="" subtitle="Mac 迷你播放器窗口" image="/docs/guide/evermusic/evermusic-guide-navigation/img/navigation-mac-exclusive-miniplayer.webp" >}}
 {{< /cards >}}
 
 ## 更多操作
@@ -63,7 +63,7 @@ Evermusic 的功能被精心划分为两个独立组件：音乐库（通过「�
 屏幕上几乎每个内容项都有「更多操作」按钮。点击它可访问所有可用操作。
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="更多操作上下文菜单" image="/docs/guide/evermusic/evermusic-guide-navigation/img/navigation-more-actions.webp" >}}
+  {{< ls-card title="" subtitle="更多操作上下文菜单" image="/docs/guide/evermusic/evermusic-guide-navigation/img/navigation-more-actions.webp" >}}
 {{< /cards >}}
 
 ## 顶部工具栏
@@ -77,7 +77,7 @@ Evermusic 的功能被精心划分为两个独立组件：音乐库（通过「�
 - **随机播放：** 将当前页面的所有曲目添加到音频播放器队列，在添加前对其进行随机排序，带来愉悦的聆听体验。
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="包含搜索、全部播放和随机播放的顶部工具栏" image="/docs/guide/evermusic/evermusic-guide-navigation/img/navigation-top-toolbar.webp" >}}
+  {{< ls-card title="" subtitle="包含搜索、全部播放和随机播放的顶部工具栏" image="/docs/guide/evermusic/evermusic-guide-navigation/img/navigation-top-toolbar.webp" >}}
 {{< /cards >}}
 
 ## 上下文菜单
@@ -91,7 +91,7 @@ Evermusic 的功能被精心划分为两个独立组件：音乐库（通过「�
 **鼠标右键：** 右键单击单元格、迷你播放器或紧凑播放器以显示上下文菜单。
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="macOS 上的上下文菜单" image="/docs/guide/evermusic/evermusic-guide-navigation/img/navigation-context-menu-macos.webp" >}}
+  {{< ls-card title="" subtitle="macOS 上的上下文菜单" image="/docs/guide/evermusic/evermusic-guide-navigation/img/navigation-context-menu-macos.webp" >}}
 {{< /cards >}}
 
 ## 辅助功能
@@ -125,7 +125,7 @@ Evermusic 附带四个主屏幕/锁定屏幕小组件，在所有 Apple 平台�
 所有四个小组件均提供小型、中型和大型尺寸，您可以选择适合您屏幕的布局。
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="添加 Evermusic 小组件" image="/docs/guide/evermusic/evermusic-guide-navigation/img/navigation-add-widgets.webp" >}}
+  {{< ls-card title="" subtitle="添加 Evermusic 小组件" image="/docs/guide/evermusic/evermusic-guide-navigation/img/navigation-add-widgets.webp" >}}
 {{< /cards >}}
 
 ### 在 iPhone 上添加小组件（主屏幕）
@@ -175,7 +175,7 @@ CarPlay 小组件随着音乐变化实时更新，并且对大手指友好，因
 Evermusic 包含完整功能的 **Apple CarPlay** 界面（仅限 iOS），针对车载显示屏进行了优化。一旦您的 iPhone 通过 USB 或无线方式连接到兼容的 CarPlay 主机，Evermusic 就会与 Apple Music 和 Spotify 一起出现在 CarPlay 应用网格中，随时准备在路途中串流您的云端音乐库。
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="CarPlay 屏幕上的 Evermusic" image="/docs/guide/evermusic/evermusic-guide-navigation/img/navigation-carplay-menu.webp" >}}
+  {{< ls-card title="" subtitle="CarPlay 屏幕上的 Evermusic" image="/docs/guide/evermusic/evermusic-guide-navigation/img/navigation-carplay-menu.webp" >}}
 {{< /cards >}}
 
 ### CarPlay 中的功能

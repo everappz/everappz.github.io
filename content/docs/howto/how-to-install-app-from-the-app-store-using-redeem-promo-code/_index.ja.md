@@ -7,7 +7,7 @@ tags: ["プロモ", "appstore", "インストール", "引き換え", "コード
 readingTime: 2
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **要約:** プロモコードを使用すると、有料アプリを無料でダウンロードしたり、アプリ内課金をアンロックしたりできます。iOSの場合：App Store > アカウントアイコン > ギフトカードまたはコードを使う > コードを入力。Macの場合：App Store > アカウント > ギフトカードを使う > コードを入力。その後、アプリを開き、必要に応じて購入を復元してください。
@@ -94,22 +94,22 @@ readingTime: 2
 
 ## よくある質問
 
-{{% details title="プロモコードはどこで入手できますか？" closed="true" %}}
+{{% ls-details title="プロモコードはどこで入手できますか？" closed="true" %}}
 プロモコードは、レビュー、プレゼント企画、またはプロモーションのためにアプリ開発者から提供されます。開発者に直接連絡してリクエストしてください。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="プロモコードには有効期限がありますか？" closed="true" %}}
+{{% ls-details title="プロモコードには有効期限がありますか？" closed="true" %}}
 はい。Apple App Storeのプロモコードは生成後28日で期限切れとなり、一度しか引き換えできません。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="どの国でもプロモコードを使用できますか？" closed="true" %}}
+{{% ls-details title="どの国でもプロモコードを使用できますか？" closed="true" %}}
 プロモコードは地域固有です。コードはApple IDのApp Store国と一致する必要があります。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="プロモコードでアプリ内課金を有効にするにはどうすればよいですか？" closed="true" %}}
+{{% ls-details title="プロモコードでアプリ内課金を有効にするにはどうすればよいですか？" closed="true" %}}
 App Storeでコードを引き換えた後、アプリを開いて設定 > 購入を復元に移動してください。プレミアムコンテンツが自動的にアンロックされます。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="プロモコードがすでに引き換え済みと表示されます。どうすればよいですか？" closed="true" %}}
+{{% ls-details title="プロモコードがすでに引き換え済みと表示されます。どうすればよいですか？" closed="true" %}}
 各プロモコードは一度しか使用できません。新しいコードをリクエストするには、開発者に連絡してください。
-{{% /details %}}
+{{% /ls-details %}}

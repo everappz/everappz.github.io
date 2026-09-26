@@ -7,7 +7,7 @@ tags: ["evermusic", "povezati", "bluesound vault"]
 readingTime: 1
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **Sažetak:** Povežite se s internom pohranom vašeg Bluesound VAULT-a putem SMB-a koristeći Evermusic, Flacbox ili Evertag. Pronađite IP adresu VAULT-a u BluOS aplikaciji, unesite je kao SMB vezu s pristupom gosta i počnite reproducirati ili upravljati svojim glazbenim datotekama.
@@ -58,18 +58,18 @@ Ovim jednostavnim koracima možete lako pristupiti unutarnjem tvrdom disku vaše
 
 ## Često postavljana pitanja
 
-{{% details title="Trebam li korisničko ime i lozinku za povezivanje s Bluesound VAULT-om?" closed="true" %}}
+{{% ls-details title="Trebam li korisničko ime i lozinku za povezivanje s Bluesound VAULT-om?" closed="true" %}}
 Ne. Bluesound VAULT podržava pristup gosta (anonimni) putem SMB-a. Ostavite polja za prijavu i lozinku prazna prilikom konfiguriranja veze.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Mogu li uređivati glazbene oznake na Bluesound VAULT-u?" closed="true" %}}
+{{% ls-details title="Mogu li uređivati glazbene oznake na Bluesound VAULT-u?" closed="true" %}}
 Da. Koristeći Evertag, možete uređivati oznake metapodataka (naslov, umjetnik, album itd.) za audio datoteke pohranjene izravno na unutarnjem tvrdom disku VAULT-a.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Koje protokole Bluesound VAULT podržava?" closed="true" %}}
+{{% ls-details title="Koje protokole Bluesound VAULT podržava?" closed="true" %}}
 Bluesound VAULT izlaže svoju internu pohranu putem SMB-a (Server Message Block). Evermusic, Flacbox i Evertag svi podržavaju SMB veze, što čini povezivanje jednostavnim.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Mogu li streamati glazbu s VAULT-a bez kopiranja datoteka na svoj iPhone?" closed="true" %}}
+{{% ls-details title="Mogu li streamati glazbu s VAULT-a bez kopiranja datoteka na svoj iPhone?" closed="true" %}}
 Da. Nakon što se povežete putem SMB-a, možete streamati audio datoteke izravno s unutarnjeg pogona VAULT-a bez kopiranja na vaš uređaj.
-{{% /details %}}
+{{% /ls-details %}}

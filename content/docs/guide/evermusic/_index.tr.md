@@ -72,19 +72,19 @@ Bu rehber, iPhone, iPad veya Mac'inizde Evermusic'ten en iyi şekilde yararlanma
 
 
 {{< cards >}}
-  {{< card icon="location-marker" title="Gezinme" subtitle="iPhone'da Sekme Çubuğu'nu veya iPad ve Mac'te Sol Menü'yü kullanarak Evermusic'te nasıl gezineceğinizi öğrenin." link="/docs/guide/evermusic/evermusic-guide-navigation" >}}
+  {{< ls-card icon="location-marker" title="Gezinme" subtitle="iPhone'da Sekme Çubuğu'nu veya iPad ve Mac'te Sol Menü'yü kullanarak Evermusic'te nasıl gezineceğinizi öğrenin." link="/docs/guide/evermusic/evermusic-guide-navigation" >}}
 
-  {{< card icon="cloud" title="Bağlantılar" subtitle="Bulut hesaplarınızı bağlayın ve yerleşik dosya yöneticisini kullanarak çevrimiçi dosyaları yönetin." link="/docs/guide/evermusic/evermusic-guide-connections" >}}
+  {{< ls-card icon="cloud" title="Bağlantılar" subtitle="Bulut hesaplarınızı bağlayın ve yerleşik dosya yöneticisini kullanarak çevrimiçi dosyaları yönetin." link="/docs/guide/evermusic/evermusic-guide-connections" >}}
 
-  {{< card icon="collection" title="Müzik Kütüphanesi" subtitle="Parçalarınızı, albümlerinizi ve sanatçılarınızı Müzik Kütüphanesi'nde düzenleyin ve keşfedin." link="/docs/guide/evermusic/evermusic-guide-music-library" >}}
+  {{< ls-card icon="collection" title="Müzik Kütüphanesi" subtitle="Parçalarınızı, albümlerinizi ve sanatçılarınızı Müzik Kütüphanesi'nde düzenleyin ve keşfedin." link="/docs/guide/evermusic/evermusic-guide-music-library" >}}
 
-  {{< card icon="music-note" title="Çalma Listeleri" subtitle="Ruh halinize veya olaya göre oynatma listeleri oluşturun ve düzenleyin." link="/docs/guide/evermusic/evermusic-guide-playlists" >}}
+  {{< ls-card icon="music-note" title="Çalma Listeleri" subtitle="Ruh halinize veya olaya göre oynatma listeleri oluşturun ve düzenleyin." link="/docs/guide/evermusic/evermusic-guide-playlists" >}}
 
-  {{< card icon="folder" title="Yerel Dosyalar" subtitle="Yerel Dosyalar bölümü aracılığıyla çevrimdışı müziğe erişin ve yönetin." link="/docs/guide/evermusic/evermusic-guide-local-files" >}}
+  {{< ls-card icon="folder" title="Yerel Dosyalar" subtitle="Yerel Dosyalar bölümü aracılığıyla çevrimdışı müziğe erişin ve yönetin." link="/docs/guide/evermusic/evermusic-guide-local-files" >}}
 
-  {{< card icon="play" title="Ses Çalar" subtitle="Oynatmayı, kuyruğu ve ekolayzer ile uyku zamanlayıcısı gibi ses ayarlarını kontrol edin." link="/docs/guide/evermusic/evermusic-guide-player" >}}
+  {{< ls-card icon="play" title="Ses Çalar" subtitle="Oynatmayı, kuyruğu ve ekolayzer ile uyku zamanlayıcısı gibi ses ayarlarını kontrol edin." link="/docs/guide/evermusic/evermusic-guide-player" >}}
 
-  {{< card icon="adjustments" title="Ayarlar" subtitle="Evermusic'in görünümünü, özelliklerini ve performans ayarlarını özelleştirin." link="/docs/guide/evermusic/evermusic-guide-settings" >}}
+  {{< ls-card icon="adjustments" title="Ayarlar" subtitle="Evermusic'in görünümünü, özelliklerini ve performans ayarlarını özelleştirin." link="/docs/guide/evermusic/evermusic-guide-settings" >}}
 
-  {{< card icon="question-mark-circle" title="SSS" subtitle="SSS bölümümüzde sık sorulan sorulara hızlı cevaplar bulun." link="/docs/faq/evermusic" >}}
+  {{< ls-card icon="question-mark-circle" title="SSS" subtitle="SSS bölümümüzde sık sorulan sorulara hızlı cevaplar bulun." link="/docs/faq/evermusic" >}}
 {{< /cards >}}

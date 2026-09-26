@@ -17,7 +17,7 @@ keywords: [
 readingTime: 3
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **בקצרה:** חברו את ה-iPhone או ה-iPad שלכם ל-Mac (או למחשב) באמצעות כבל USB. ב-macOS Catalina ואילך, השתמשו ב-Finder. בגרסאות ישנות יותר של macOS או ב-Windows, השתמשו ב-iTunes. גררו קבצים לאפליקציה כמו Evermusic, Flacbox או Evertag כדי להעביר אותם מיידית.
@@ -117,26 +117,26 @@ readingTime: 3
 
 ## שאלות נפוצות
 
-{{% details title="האם אני צריך חיבור אינטרנט כדי להעביר קבצים דרך USB?" closed="true" %}}
+{{% ls-details title="האם אני צריך חיבור אינטרנט כדי להעביר קבצים דרך USB?" closed="true" %}}
 לא. שיתוף קבצים פועל לחלוטין דרך חיבור כבל ה-USB בין המחשב למכשיר ה-iOS. אין צורך באינטרנט.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="אילו פורמטי קבצים אני יכול להעביר ל-Evermusic או Flacbox?" closed="true" %}}
+{{% ls-details title="אילו פורמטי קבצים אני יכול להעביר ל-Evermusic או Flacbox?" closed="true" %}}
 שתי האפליקציות תומכות במגוון רחב של פורמטי שמע כולל MP3, FLAC, AAC, WAV, AIFF, OGG, WMA ועוד. בדקו את תיעוד האפליקציה לרשימה המלאה של פורמטים נתמכים.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="למה אני לא רואה את כרטיסיית הקבצים ב-Finder?" closed="true" %}}
+{{% ls-details title="למה אני לא רואה את כרטיסיית הקבצים ב-Finder?" closed="true" %}}
 כרטיסיית הקבצים מופיעה רק כאשר למכשיר שלכם מותקנת לפחות אפליקציה אחת התומכת בשיתוף קבצים. התקינו Evermusic, Flacbox או Evertag, ואז חברו מחדש את המכשיר שלכם.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="האם אני יכול להעביר קבצים באופן אלחוטי במקום להשתמש בכבל USB?" closed="true" %}}
+{{% ls-details title="האם אני יכול להעביר קבצים באופן אלחוטי במקום להשתמש בכבל USB?" closed="true" %}}
 כן. Evermusic ו-Flacbox תומכים גם בשירותי אחסון ענן והעברת Wi-Fi. עם זאת, שיתוף קבצים דרך USB באמצעות Finder או iTunes הוא בדרך כלל מהיר יותר עבור ספריות מוזיקה גדולות.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="האם העברת קבצים דרך Finder תדרוס קבצים קיימים במכשיר שלי?" closed="true" %}}
+{{% ls-details title="האם העברת קבצים דרך Finder תדרוס קבצים קיימים במכשיר שלי?" closed="true" %}}
 לא. קבצים חדשים מתווספים לצד הקיימים. אם כבר קיים קובץ עם אותו שם, macOS עשוי לשנות את שם הקובץ החדש באופן אוטומטי.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="האם שיטה זו עובדת עם מחשבי Windows?" closed="true" %}}
+{{% ls-details title="האם שיטה זו עובדת עם מחשבי Windows?" closed="true" %}}
 כן. ב-Windows, השתמשו ב-iTunes להעברת קבצים. התהליך זהה לזה המתואר בקטע iTunes למעלה. התקינו את iTunes מ-Microsoft Store או מאתר Apple.
-{{% /details %}}
+{{% /ls-details %}}

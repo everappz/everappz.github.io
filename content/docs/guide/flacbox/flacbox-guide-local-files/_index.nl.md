@@ -19,7 +19,7 @@ De sectie Lokale bestanden fungeert als een hub voor het beheren van bestanden i
 Deze ingebouwde bestandsbeheerder stelt je in staat bestanden te bewerken (hernoemen, verplaatsen, kopiëren, uploaden, verwijderen), overdrachten te bewaken en biedt verschillende methoden om audiobestanden in de app te importeren — directe downloads van de cloud, offline-modus synchronisatie, USB-flashdrives, Wi-Fi Drive en Finder Bestandsdeling.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox Lokale Bestanden Scherm" image="/docs/guide/flacbox/img/local-files.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox Lokale Bestanden Scherm" image="/docs/guide/flacbox/img/local-files.webp" >}}
 {{< /cards >}}
 
 ## Bestanden Downloaden van Cloudopslag
@@ -102,7 +102,7 @@ Toont bestanden en mappen die zijn opgeslagen in de Documents-map van de app en 
 Toont bestanden op je apparaat maar in andere applicaties. Je kunt ze in deze applicatie importeren via de systeembestandselecteur. Om de selecteur te activeren, kies **Bestanden openen…** om bestanden te selecteren of **Mappen openen…** om mappen te selecteren. Gedetailleerde instructies over het importeren van lokale muziek op je iPhone of Mac zijn beschikbaar [hier](/docs/howto/how-to-play-local-music-stored-on-your-iphone-or-mac).
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox Verbonden Apparaatmappen" image="/docs/guide/flacbox/img/connected-device-folders.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox Verbonden Apparaatmappen" image="/docs/guide/flacbox/img/connected-device-folders.webp" >}}
 {{< /cards >}}
 
 Je kunt ook een map op je apparaat verbinden en snel toegang krijgen tot de inhoud. Gebruik het menu-item **Een map verbinden** en kies een map op je apparaat. Tik op **Voltooid** en de app maakt een koppeling naar die map met lees- / schrijftoegang, waardoor je bestanden direct vanuit deze app kunt beheren. Om een map op je apparaat te ontkoppelen, tik op de knop **Meer acties** en kies **Ontkoppelen**.
@@ -137,7 +137,7 @@ Als je meerdere bestanden wilt bewerken, activeer selectiemodus door op de knop 
 - **Verwijderen** — verwijder het geselecteerde bestand of map van het apparaat. **Deze actie is onomkeerbaar.**
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox Selectiemodus Lokale Bestanden" image="/docs/guide/flacbox/img/local-files-selection-mode.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox Selectiemodus Lokale Bestanden" image="/docs/guide/flacbox/img/local-files-selection-mode.webp" >}}
 {{< /cards >}}
 
 ## Optiesmenu
@@ -161,7 +161,7 @@ Voor elk bestand of map in de app zijn er verschillende acties beschikbaar via d
 - **Verwijderen** — verwijder het bestand of de map van het apparaat. **Deze actie is onomkeerbaar** en je kunt verwijderde bestanden niet herstellen.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox Meer Acties voor een Lokaal Bestand" image="/docs/guide/flacbox/img/local-files-more-actions-for-file.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox Meer Acties voor een Lokaal Bestand" image="/docs/guide/flacbox/img/local-files-more-actions-for-file.webp" >}}
 {{< /cards >}}
 
 ## Offline Mappen

@@ -7,7 +7,7 @@ tags: ["mp3", "editor", "iPhone", "tags", "metadata", "id3"]
 readingTime: 2
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **Resumé:** Brug den indbyggede tag-editor i Evermusic eller Flacbox til at redigere ID3-tags på iPhone eller Mac -- til både cloud- og lokale filer. Har du brug for batchredigering eller 120+ tag-felter? Brug [Evertag](https://apps.apple.com/app/apple-store/id1450763230?pt=95781850&ct=everappzcom&mt=8) i stedet.
@@ -21,8 +21,8 @@ Når du importerer sange til dit musikbibliotek, grupperes de intelligent efter 
 Mens mange desktop-apps tilbyder metadataredigering, tager Evermusic og Flacbox enkelheden til næste niveau ved at inkludere en ID3 tag-editor. Nu kan du bruge én app til at opbygge dit musikbibliotek, nyde dine numre og rette lydtags.
 
 {{< cards cols="2">}}
-{{< card link="https://apps.apple.com/app/apple-store/id885367198?pt=95781850&ct=everappzcom&mt=8" title="Download Evermusic" icon="download" tag="Free" >}}
-{{< card link="https://apps.apple.com/app/apple-store/id1097564256?pt=95781850&ct=everappzcom&mt=8" title="Download Flacbox" icon="download" tag="Free" >}}
+{{< ls-card link="https://apps.apple.com/app/apple-store/id885367198?pt=95781850&ct=everappzcom&mt=8" title="Download Evermusic" icon="download" tag="Free" >}}
+{{< ls-card link="https://apps.apple.com/app/apple-store/id1097564256?pt=95781850&ct=everappzcom&mt=8" title="Download Flacbox" icon="download" tag="Free" >}}
 {{< /cards >}}
 
 ## Professionel editor
@@ -30,7 +30,7 @@ Mens mange desktop-apps tilbyder metadataredigering, tager Evermusic og Flacbox 
 Men før du begynder, tjek **Evertag** appen — den understøtter **120+ lydtags**, **30+ lydformater** og tilbyder kraftfuld **batchredigering**. Hvis du leder efter et fuldt udstyret tag-administrationsværktøj, er Evertag vejen at gå. Hvis du dog bare har brug for en **simpel tag-editor**, så fortsæt med denne guide.
 
 {{< cards >}}
-{{< card link="https://apps.apple.com/app/apple-store/id1450763230?pt=95781850&ct=everappzcom&mt=8" title="Download Evertag" icon="download" tag="Free" >}}
+{{< ls-card link="https://apps.apple.com/app/apple-store/id1450763230?pt=95781850&ct=everappzcom&mt=8" title="Download Evertag" icon="download" tag="Free" >}}
 {{< /cards >}}
 
 
@@ -38,21 +38,21 @@ Men før du begynder, tjek **Evertag** appen — den understøtter **120+ lydtag
 Link din foretrukne cloud-konto i appen.
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Tilslut cloudserver" image="/docs/howto/how-to-edit-id3-tags-on-iphone/connect_cloud_server.webp" >}}
+{{< ls-card title="" subtitle="Tilslut cloudserver" image="/docs/howto/how-to-edit-id3-tags-on-iphone/connect_cloud_server.webp" >}}
 {{< /cards >}}
 
 ## Naviger til dine lydfiler  
 Åbn mappen med dine lydfiler i den tilsluttede cloud-konto.
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Cloud-mapper" image="/docs/howto/how-to-edit-id3-tags-on-iphone/cloud_server_folders.webp" >}}
+{{< ls-card title="" subtitle="Cloud-mapper" image="/docs/howto/how-to-edit-id3-tags-on-iphone/cloud_server_folders.webp" >}}
 {{< /cards >}}
 
 ## Adgang til filindstillinger  
 Tryk på knappen 'Mere' ('...') ved filen, du vil redigere.
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Flere handlinger" image="/docs/howto/how-to-edit-id3-tags-on-iphone/cloud_server_audio_more_actions.webp" >}}
+{{< ls-card title="" subtitle="Flere handlinger" image="/docs/howto/how-to-edit-id3-tags-on-iphone/cloud_server_audio_more_actions.webp" >}}
 {{< /cards >}}
 
 ## Vælg 'Rediger lydtags'  
@@ -70,7 +70,7 @@ På 'Tag Editor'-skærmen kan du ændre metadatafelter som Titel, Kunstner, Albu
 Når du er færdig med at redigere, tryk på knappen 'Gem' for at gemme dine ændringer.
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Tag Editor" image="/docs/howto/how-to-edit-id3-tags-on-iphone/tags_editor.webp" >}}
+{{< ls-card title="" subtitle="Tag Editor" image="/docs/howto/how-to-edit-id3-tags-on-iphone/tags_editor.webp" >}}
 {{< /cards >}}
 
 ## Smart autoudfyldning  
@@ -88,7 +88,7 @@ Du kan redigere lydtags for filer gemt **direkte på din enhed** — uden at imp
 - **Gå til sektionen "Lokale filer"**, scroll derefter ned til **"Filer på denne enhed."**
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Filer på denne enhed" image="/docs/howto/how-to-edit-id3-tags-on-iphone/local_files.webp" >}}
+{{< ls-card title="" subtitle="Filer på denne enhed" image="/docs/howto/how-to-edit-id3-tags-on-iphone/local_files.webp" >}}
 {{< /cards >}}
 
 - Tryk på **"Tilslut en mappe"**.
@@ -96,25 +96,25 @@ Du kan redigere lydtags for filer gemt **direkte på din enhed** — uden at imp
 - I mappevælgeren skal du vælge den mappe, du vil have adgang til, og trykke på **"Åbn"** for at bekræfte.
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Tilslut ekstern mappe" image="/docs/howto/how-to-edit-id3-tags-on-iphone/connect_external_folder.webp" >}}
+{{< ls-card title="" subtitle="Tilslut ekstern mappe" image="/docs/howto/how-to-edit-id3-tags-on-iphone/connect_external_folder.webp" >}}
 {{< /cards >}}
 
 - Efter at have tilføjet mappen, tryk på den for at se filerne indeni.
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Ekstern mappeindhold" image="/docs/howto/how-to-edit-id3-tags-on-iphone/connected_external_folder.webp" >}}
+{{< ls-card title="" subtitle="Ekstern mappeindhold" image="/docs/howto/how-to-edit-id3-tags-on-iphone/connected_external_folder.webp" >}}
 {{< /cards >}}
 
 - Ligesom med cloud-filer, tryk på knappen **"Flere handlinger"** ved siden af en lydfil og vælg **"Rediger lydtags".**
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Flere handlinger - Lokal fil" image="/docs/howto/how-to-edit-id3-tags-on-iphone/more_actions_local_file.webp" >}}
+{{< ls-card title="" subtitle="Flere handlinger - Lokal fil" image="/docs/howto/how-to-edit-id3-tags-on-iphone/more_actions_local_file.webp" >}}
 {{< /cards >}}
 
 - Tag Editoren åbnes. Foretag dine ændringer og tryk på **"Gem"**. Det er det! Dine redigeringer anvendes direkte på filen — ingen grund til at kopiere eller flytte noget.
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Tag Editor - Lokal fil" image="/docs/howto/how-to-edit-id3-tags-on-iphone/tag_editor_local_file.webp" >}}
+{{< ls-card title="" subtitle="Tag Editor - Lokal fil" image="/docs/howto/how-to-edit-id3-tags-on-iphone/tag_editor_local_file.webp" >}}
 {{< /cards >}}
 
 ## Rediger albumcover
@@ -126,7 +126,7 @@ Sådan ændrer du et albumcover:
 3. Vælg et billede at anvende som coverart.
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Vælg billede" image="/docs/howto/how-to-edit-id3-tags-on-iphone/tags_editor_choose_image.webp" >}}
+{{< ls-card title="" subtitle="Vælg billede" image="/docs/howto/how-to-edit-id3-tags-on-iphone/tags_editor_choose_image.webp" >}}
 {{< /cards >}}
 
 ## Flere handlinger i Tag Editor
@@ -134,7 +134,7 @@ Sådan ændrer du et albumcover:
 Ekstra redigeringsmuligheder er tilgængelige via værktøjslinjen under artwork-visningen.
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Menu for flere handlinger" image="/docs/howto/how-to-edit-id3-tags-on-iphone/tags_edito_more_actions.webp" >}}
+{{< ls-card title="" subtitle="Menu for flere handlinger" image="/docs/howto/how-to-edit-id3-tags-on-iphone/tags_edito_more_actions.webp" >}}
 {{< /cards >}}
 
 ### Auto-søg lydtags
@@ -195,22 +195,22 @@ Forenkl din musikbiblioteksadministration og tag-redigering med Evermusic og Fla
 
 ## FAQ
 
-{{% details title="Hvilke lydformater kan jeg redigere tags for?" closed="true" %}}
+{{% ls-details title="Hvilke lydformater kan jeg redigere tags for?" closed="true" %}}
 Evermusic og Flacbox understøtter redigering af tags for MP3, FLAC, AAC, OGG og andre almindelige lydformater. Evertag understøtter 30+ formater inklusive WAV, AIFF, WMA og APE.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Kan jeg redigere tags for filer gemt i cloud-tjenester?" closed="true" %}}
+{{% ls-details title="Kan jeg redigere tags for filer gemt i cloud-tjenester?" closed="true" %}}
 Ja. Tilslut din Dropbox, Google Drive, OneDrive eller anden cloud-konto. Appen downloader filen, lader dig redigere tags og uploader automatisk den ændrede fil tilbage til clouden.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Hvad er forskellen mellem Evermusic/Flacbox og Evertag?" closed="true" %}}
+{{% ls-details title="Hvad er forskellen mellem Evermusic/Flacbox og Evertag?" closed="true" %}}
 Evermusic og Flacbox er musikafspillere med en indbygget grundlæggende tag-editor. Evertag er en dedikeret tag-editor, der understøtter 120+ lydtags, batchredigering og 30+ formater -- ideel til administration af store biblioteker.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Kræver auto-søgefunktionen en internetforbindelse?" closed="true" %}}
+{{% ls-details title="Kræver auto-søgefunktionen en internetforbindelse?" closed="true" %}}
 Ja. Auto-søg lydtags-funktionen forespørger MusicBrainz online-databasen for at finde og udfylde metadata. En aktiv internetforbindelse er påkrævet for denne funktion.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Vil redigering af tags ændre min lydkvalitet?" closed="true" %}}
+{{% ls-details title="Vil redigering af tags ændre min lydkvalitet?" closed="true" %}}
 Nej. Tag-redigering ændrer kun de metadata, der er indlejret i filen. Selve lyddataene forbliver uberørte -- der sker ingen genkodning.
-{{% /details %}}
+{{% /ls-details %}}

@@ -7,14 +7,14 @@ keywords: ["transfer muzică fără iTunes", "wifi drive iphone", "copiere wirel
 readingTime: 2
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **Pe scurt:** Folosește Wi-Fi Drive în Evermusic, Flacbox sau Evertag pentru a transfera muzică de pe computer pe iPhone sau iPad. Fără iTunes necesar. Ambele dispozitive trebuie să fie pe aceeași rețea Wi-Fi. Transferă prin browser web sau WebDAV (Mac Finder / Windows File Explorer).
 
 Poți viziona un tutorial video de la [**TECHGUYPH**](https://www.youtube.com/channel/UCgpf09gGFE_c_3pPTtTpnzg) sau citește versiunea text de mai jos.
 <br><br>
-{{< youtubecard id="CqdqrQ0ge70" title="Can We Wirelessly Put Offline Music on iPhones?" >}}
+{{< ls-youtubecard id="CqdqrQ0ge70" title="Can We Wirelessly Put Offline Music on iPhones?" >}}
 
 Wi-Fi Drive este soluția supremă pentru transferul fără probleme al colecției tale de muzică de pe computer pe iPhone sau iPad, fără a avea nevoie de iTunes. Această metodă fără bătăi de cap îți permite să descarci sau să încarci cu ușurință mai multe fișiere audio și chiar foldere întregi folosind conexiunea Wi-Fi locală. Atât computerul, cât și dispozitivul iOS trebuie să fie conectate la aceeași rețea Wi-Fi pentru ca totul să funcționeze perfect.
 
@@ -84,22 +84,22 @@ Cu Wi-Fi Drive, zilele în care te chinuiai cu iTunes s-au terminat. Bucură-te 
 
 ## Întrebări frecvente
 
-{{% details title="Ce formate audio pot transfera cu Wi-Fi Drive?" closed="true" %}}
+{{% ls-details title="Ce formate audio pot transfera cu Wi-Fi Drive?" closed="true" %}}
 Wi-Fi Drive transferă orice tip de fișier. Evermusic și Flacbox suportă MP3, FLAC, AAC, WAV, AIFF, OGG, WMA și multe alte formate audio pentru redare.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Am nevoie de iTunes pentru a pune muzică pe iPhone?" closed="true" %}}
+{{% ls-details title="Am nevoie de iTunes pentru a pune muzică pe iPhone?" closed="true" %}}
 Nu. Wi-Fi Drive transferă muzica direct prin rețeaua Wi-Fi locală. iTunes nu este necesar.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Pot transfera foldere întregi de muzică deodată?" closed="true" %}}
+{{% ls-details title="Pot transfera foldere întregi de muzică deodată?" closed="true" %}}
 Da. Metoda browserului web suportă încărcarea folderelor întregi, inclusiv subfoldere imbricate.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Transferul meu de muzică este sigur?" closed="true" %}}
+{{% ls-details title="Transferul meu de muzică este sigur?" closed="true" %}}
 Wi-Fi Drive funcționează doar în rețeaua locală. Poți seta și un nume de utilizator și o parolă pentru securitate suplimentară.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Ce aplicații suportă Wi-Fi Drive pentru muzică?" closed="true" %}}
+{{% ls-details title="Ce aplicații suportă Wi-Fi Drive pentru muzică?" closed="true" %}}
 Evermusic, Flacbox și Evertag includ toate Wi-Fi Drive pentru transferul fișierelor audio de pe computer.
-{{% /details %}}
+{{% /ls-details %}}

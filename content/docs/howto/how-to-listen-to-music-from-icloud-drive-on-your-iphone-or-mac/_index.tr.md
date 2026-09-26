@@ -7,7 +7,7 @@ tags: ["müzik", "bulut", "akış", "çalar", "sürücü", "icloud"]
 readingTime: 5
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **Özet:** Müziklerinizi iCloud Drive'a yükleyin, [Evermusic](/products/evermusic) (MP3/WAV için) veya [Flacbox](/products/flacbox) (FLAC/DSD için) uygulamasını yükleyin, iCloud Drive klasörünüzü bağlayın ve cihaz depolama alanı kullanmadan doğrudan akış yapın.
@@ -29,8 +29,8 @@ iPhone veya Mac'inizde iCloud Drive müziğinizin keyfini çıkarmaya başlamada
 1. App Store'a gidin ve müzikleriniz mp3 veya wav gibi standart ses formatlarında depolanmışsa **Evermusic** uygulamasını indirin. Kayıpsız müzikleriniz dsd veya flac formatındaysa **Flacbox** uygulamasını tercih edin. Her iki uygulama da iOS ve MacOS için mevcuttur.
 
 {{< cards >}}
-  {{< card link="https://apps.apple.com/us/app/evermusic-cloud-music-player/id885367198" title="iOS için Evermusic İndir" icon="download" tag="Ücretsiz" >}}
-  {{< card link="https://apps.apple.com/us/app/flacbox-flac-player-equalizer/id1097564256" title="iOS için Flacbox İndir" icon="download" tag="Ücretsiz" >}}
+  {{< ls-card link="https://apps.apple.com/us/app/evermusic-cloud-music-player/id885367198" title="iOS için Evermusic İndir" icon="download" tag="Ücretsiz" >}}
+  {{< ls-card link="https://apps.apple.com/us/app/flacbox-flac-player-equalizer/id1097564256" title="iOS için Flacbox İndir" icon="download" tag="Ücretsiz" >}}
 {{< /cards >}}
 
 - MacOS için:
@@ -38,8 +38,8 @@ iPhone veya Mac'inizde iCloud Drive müziğinizin keyfini çıkarmaya başlamada
 1. Mac'inizdeki App Store'u ziyaret edin ve müzik format tercihlerinize göre **Evermusic** veya **Flacbox** uygulamasını yükleyin.
 
 {{< cards >}}
-  {{< card link="https://apps.apple.com/us/app/evermusic-cloud-music-player/id1564384601" title="Mac için Evermusic İndir" icon="download" tag="Ücretsiz" >}}
-  {{< card link="https://apps.apple.com/us/app/flacbox-hires-music-player/id1594027432" title="Mac için Flacbox İndir" icon="download" tag="Ücretsiz" >}}
+  {{< ls-card link="https://apps.apple.com/us/app/evermusic-cloud-music-player/id1564384601" title="Mac için Evermusic İndir" icon="download" tag="Ücretsiz" >}}
+  {{< ls-card link="https://apps.apple.com/us/app/flacbox-hires-music-player/id1594027432" title="Mac için Flacbox İndir" icon="download" tag="Ücretsiz" >}}
 {{< /cards >}}
 
 Uygulamayı iPhone veya Mac'inize yükledikten sonra devam etmeye hazırsınız.
@@ -215,22 +215,22 @@ iCloud Drive ve doğru uygulama ile iPhone ve Mac'iniz müzik merkezlerinize dö
 
 ## Sıkça Sorulan Sorular
 
-{{% details title="iCloud Drive'dan hangi ses formatlarını akış yapabilirim?" closed="true" %}}
+{{% ls-details title="iCloud Drive'dan hangi ses formatlarını akış yapabilirim?" closed="true" %}}
 Evermusic MP3, WAV, AAC ve diğer standart formatları destekler. Flacbox, FLAC, DSD, OGG ve OPUS desteği ekler. Müzik koleksiyonunuza uygun uygulamayı seçin.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="iCloud Drive'dan akış cihaz depolama alanı kullanır mı?" closed="true" %}}
+{{% ls-details title="iCloud Drive'dan akış cihaz depolama alanı kullanır mı?" closed="true" %}}
 Hayır. Hem Evermusic hem de Flacbox, sesi doğrudan iCloud Drive'ınızdan dosyaları cihazınıza indirmeden akış yapar. İsteğe bağlı olarak çevrimdışı dinleme için bireysel parçaları indirebilirsiniz.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="iCloud Drive müziğimi çevrimdışı kullanabilir miyim?" closed="true" %}}
+{{% ls-details title="iCloud Drive müziğimi çevrimdışı kullanabilir miyim?" closed="true" %}}
 Evet. Herhangi bir parçadaki üç nokta menüsüne dokunun ve indirme seçeneğini seçin. Dosya çevrimdışı oynatma için yerel olarak kaydedilecektir.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Müziğim çalma sırasında neden duruyor veya tamponlanıyor?" closed="true" %}}
+{{% ls-details title="Müziğim çalma sırasında neden duruyor veya tamponlanıyor?" closed="true" %}}
 Bu genellikle yavaş veya kararsız bir internet bağlantısından kaynaklanır. Yaklaşan parçaları önceden indirmek ve kesintileri önlemek için Ayarlar'da ses çalar önbelleğini etkinleştirin.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="iCloud Drive müzik akışı ücretsiz mi?" closed="true" %}}
+{{% ls-details title="iCloud Drive müzik akışı ücretsiz mi?" closed="true" %}}
 Hem Evermusic hem de Flacbox ücretsiz olarak indirilebilir. iCloud Drive 5 GB ücretsiz depolama alanı sunar. Daha fazla alana ihtiyacınız varsa Apple üzerinden iCloud depolama planınızı yükseltebilirsiniz.
-{{% /details %}}
+{{% /ls-details %}}

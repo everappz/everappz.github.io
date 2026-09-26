@@ -7,7 +7,7 @@ tags: ["evermusic", "glazba", "oblak", "iphone", "pohrana", "lokalno", "nas", "w
 readingTime: 2
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **Ukratko:** Windows 10 ima ugrađeni DLNA poslužitelj. Omogućite ga u postavkama Mreže i dijeljenja, zatim koristite besplatnu aplikaciju **Evermusic** na svom iPhoneu za streaming cijele glazbene biblioteke putem Wi-Fi. Nije potreban softver poslužitelja treće strane.
@@ -96,22 +96,22 @@ S DLNA Media Serverom na Windows 10 i Evermusicom na vašem iPhoneu, možete už
 
 ## Često postavljana pitanja
 
-{{% details title="Trebam li instalirati softver poslužitelja na Windows 10?" closed="true" %}}
+{{% ls-details title="Trebam li instalirati softver poslužitelja na Windows 10?" closed="true" %}}
 Ne. Windows 10 uključuje ugrađeni DLNA medijski poslužitelj. Trebate samo omogućiti streaming medija u postavkama Centra za mrežu i dijeljenje. Nije potreban softver treće strane.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Mora li moj iPhone biti na istoj Wi-Fi mreži?" closed="true" %}}
+{{% ls-details title="Mora li moj iPhone biti na istoj Wi-Fi mreži?" closed="true" %}}
 Da. DLNA streaming radi preko vaše lokalne mreže. I vaše Windows 10 računalo i iPhone moraju biti povezani na istu Wi-Fi mrežu kako bi Evermusic mogao otkriti DLNA poslužitelj.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Koje audio formate mogu streamati putem DLNA?" closed="true" %}}
+{{% ls-details title="Koje audio formate mogu streamati putem DLNA?" closed="true" %}}
 Windows DLNA poslužitelj dijeli datoteke iz vaše mape Glazba bez obzira na format. Evermusic podržava MP3, FLAC, AAC, WAV, OGG, AIFF i mnoge druge formate, tako da možete reproducirati praktički bilo koju audio datoteku s poslužitelja.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Mogu li koristiti Flacbox umjesto Evermusica?" closed="true" %}}
+{{% ls-details title="Mogu li koristiti Flacbox umjesto Evermusica?" closed="true" %}}
 Da. Flacbox također podržava DLNA/UPnP pregledavanje i reprodukciju. Možete koristiti bilo koju od dvije aplikacije za otkrivanje i reprodukciju glazbe s vašeg Windows DLNA poslužitelja.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Hoće li DLNA streaming koristiti mobilne podatke?" closed="true" %}}
+{{% ls-details title="Hoće li DLNA streaming koristiti mobilne podatke?" closed="true" %}}
 Ne. DLNA radi isključivo na vašoj lokalnoj Wi-Fi mreži. Ne koristi nikakve mobilne podatke. Međutim, oba uređaja moraju ostati povezana na istu mrežu tijekom reprodukcije.
-{{% /details %}}
+{{% /ls-details %}}

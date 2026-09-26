@@ -23,7 +23,7 @@ readingTime: 16
 設定画面はEvervideoのコントロールセンターです。ここからプレミアムへのアップグレード、ビデオおよびオーディオエンジンの設定（システムコーデックまたはFFmpeg）、ピクチャーインピクチャーの管理、字幕の設定（プライマリ、セカンダリ、libass、外部ファイル、フォント）、メディアライブラリの整理、ファイルマネージャーの設定、ホーム画面ウィジェットの有効化、データのバックアップ、ヘルプと法的情報へのアクセスができます。セクションはヘッダーの下にグループ化されています：購入とアップデート、アプリ設定、ヘルプ、法的事項とプライバシー。
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evervideo設定メイン画面" image="/docs/guide/evervideo/img/evervideo-settings.webp" >}}
+  {{< ls-card title="" subtitle="Evervideo設定メイン画面" image="/docs/guide/evervideo/img/evervideo-settings.webp" >}}
 {{< /cards >}}
 
 ## プレミアムへのアップグレード
@@ -31,13 +31,13 @@ readingTime: 16
 すべての制限を解除するためにアプリをプレミアムバージョンにアップグレードしてください。アプリの無料バージョンは、すべての制限を解除してプレミアムにアップグレードするための1回限りの永続的なアプリ内購入と2つのサブスクリプションオプション（1か月と1年）を提供しています。
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evervideoプレミアムへのアップグレード" image="/docs/guide/evervideo/img/evervideo-upgrade-to-premium.webp" >}}
+  {{< ls-card title="" subtitle="Evervideoプレミアムへのアップグレード" image="/docs/guide/evervideo/img/evervideo-upgrade-to-premium.webp" >}}
 {{< /cards >}}
 
 **ファミリー共有**はすべての購入とプランで有効になっており、追加費用なしで最大5人の家族とプレミアムバージョンを共有できます。
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evervideoプレミアムプランの選択" image="/docs/guide/evervideo/img/evervideo-select-premium-plan.webp" >}}
+  {{< ls-card title="" subtitle="Evervideoプレミアムプランの選択" image="/docs/guide/evervideo/img/evervideo-select-premium-plan.webp" >}}
 {{< /cards >}}
 
 ## iOSとMac間での購入の共有
@@ -51,7 +51,7 @@ readingTime: 16
 新しいデバイスで購入を復元するには、**購入 → 購入を復元**メニューを使用してください。購入のリストが表示されます。すべて表示されない場合は、デバイスが購入に使用したApple IDと同じものに接続されていることを確認し、iCloudが有効になっていることを確認してください。
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="設定のEvervideo購入メニュー" image="/docs/guide/evervideo/img/evervideo-purhases-menu-in-settings.webp" >}}
+  {{< ls-card title="" subtitle="設定のEvervideo購入メニュー" image="/docs/guide/evervideo/img/evervideo-purhases-menu-in-settings.webp" >}}
 {{< /cards >}}
 
 ## プレミアムを無料で試す

@@ -12,7 +12,7 @@ authors:
     image: "/images/about/artem-meleshko-founder-everappz.webp"
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 ![](/blog/evermusic-stream-your-music-from-the-cloud-and-free-up-space-on-your-iphone-or-ipad/21260c_00c5356db3a24db6a6a37e353b774d56~mv2.jpg)
 
@@ -82,22 +82,22 @@ Selaa yhdistettyä pilvitiliäsi, avaa musiikkikansio ja napauta tiedostoa toist
 
 ## Usein kysytyt kysymykset
 
-{{% details title="Onko Evermusic ilmainen?" closed="true" %}}
+{{% ls-details title="Onko Evermusic ilmainen?" closed="true" %}}
 Evermusic on ilmainen ladata valinnaisilla premium-ominaisuuksilla. Peruspilvisuoratoisto ja offline-toisto ovat saatavilla ilmaisversiossa.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Mitä pilvipalveluita Evermusic tukee?" closed="true" %}}
+{{% ls-details title="Mitä pilvipalveluita Evermusic tukee?" closed="true" %}}
 Google Drive, Dropbox, Box, OneDrive, MediaFire, MEGA, Yandex.Disk, pCloud, HiDrive, MyDrive, SMB-tiedostojaot ja WebDAV-palvelimet.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Voinko kuunnella musiikkia offline-tilassa Evermusicilla?" closed="true" %}}
+{{% ls-details title="Voinko kuunnella musiikkia offline-tilassa Evermusicilla?" closed="true" %}}
 Kyllä. Lataa mikä tahansa albumi, artisti, soittolista tai yksittäinen kappale offline-toistoa varten suoraan sovelluksessa.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Mitä äänimuotoja Evermusic toistaa?" closed="true" %}}
+{{% ls-details title="Mitä äänimuotoja Evermusic toistaa?" closed="true" %}}
 Evermusic tukee muotoja MP3, FLAC, AAC, WAV, ALAC, AIFF, OPUS, OGG ja monia muita.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Tarvitsenko vielä iTunesia musiikin siirtämiseen?" closed="true" %}}
+{{% ls-details title="Tarvitsenko vielä iTunesia musiikin siirtämiseen?" closed="true" %}}
 Ei. Lataa musiikkisi mihin tahansa tuettuun pilvipalveluun tietokoneeltasi ja suoratoista tai lataa se sitten Evermusicin kautta iPhonellasi tai iPadillasi.
-{{% /details %}}
+{{% /ls-details %}}

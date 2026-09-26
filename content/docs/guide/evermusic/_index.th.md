@@ -72,19 +72,19 @@ Evermusic มีอีควอไลเซอร์เสียง 10 แบน
 
 
 {{< cards >}}
-  {{< card icon="location-marker" title="การนำทาง" subtitle="เรียนรู้วิธีนำทางใน Evermusic โดยใช้แถบแท็บบน iPhone หรือเมนูซ้ายบน iPad และ Mac" link="/docs/guide/evermusic/evermusic-guide-navigation" >}}
+  {{< ls-card icon="location-marker" title="การนำทาง" subtitle="เรียนรู้วิธีนำทางใน Evermusic โดยใช้แถบแท็บบน iPhone หรือเมนูซ้ายบน iPad และ Mac" link="/docs/guide/evermusic/evermusic-guide-navigation" >}}
 
-  {{< card icon="cloud" title="การเชื่อมต่อ" subtitle="เชื่อมต่อบัญชีคลาวด์และจัดการไฟล์ออนไลน์โดยใช้ตัวจัดการไฟล์ในตัว" link="/docs/guide/evermusic/evermusic-guide-connections" >}}
+  {{< ls-card icon="cloud" title="การเชื่อมต่อ" subtitle="เชื่อมต่อบัญชีคลาวด์และจัดการไฟล์ออนไลน์โดยใช้ตัวจัดการไฟล์ในตัว" link="/docs/guide/evermusic/evermusic-guide-connections" >}}
 
-  {{< card icon="collection" title="ไลบรารีเพลง" subtitle="จัดระเบียบและสำรวจเพลง อัลบั้ม และศิลปินในไลบรารีเพลง" link="/docs/guide/evermusic/evermusic-guide-music-library" >}}
+  {{< ls-card icon="collection" title="ไลบรารีเพลง" subtitle="จัดระเบียบและสำรวจเพลง อัลบั้ม และศิลปินในไลบรารีเพลง" link="/docs/guide/evermusic/evermusic-guide-music-library" >}}
 
-  {{< card icon="music-note" title="เพลย์ลิสต์" subtitle="สร้างและจัดเรียงเพลย์ลิสต์ให้เข้ากับอารมณ์หรือโอกาสของคุณ" link="/docs/guide/evermusic/evermusic-guide-playlists" >}}
+  {{< ls-card icon="music-note" title="เพลย์ลิสต์" subtitle="สร้างและจัดเรียงเพลย์ลิสต์ให้เข้ากับอารมณ์หรือโอกาสของคุณ" link="/docs/guide/evermusic/evermusic-guide-playlists" >}}
 
-  {{< card icon="folder" title="ไฟล์ในเครื่อง" subtitle="เข้าถึงและจัดการเพลงออฟไลน์ผ่านส่วนไฟล์ในเครื่อง" link="/docs/guide/evermusic/evermusic-guide-local-files" >}}
+  {{< ls-card icon="folder" title="ไฟล์ในเครื่อง" subtitle="เข้าถึงและจัดการเพลงออฟไลน์ผ่านส่วนไฟล์ในเครื่อง" link="/docs/guide/evermusic/evermusic-guide-local-files" >}}
 
-  {{< card icon="play" title="เครื่องเล่นเสียง" subtitle="ควบคุมการเล่น คิว และการตั้งค่าเสียง เช่น อีควอไลเซอร์และตั้งเวลานอน" link="/docs/guide/evermusic/evermusic-guide-player" >}}
+  {{< ls-card icon="play" title="เครื่องเล่นเสียง" subtitle="ควบคุมการเล่น คิว และการตั้งค่าเสียง เช่น อีควอไลเซอร์และตั้งเวลานอน" link="/docs/guide/evermusic/evermusic-guide-player" >}}
 
-  {{< card icon="adjustments" title="การตั้งค่า" subtitle="ปรับแต่งรูปลักษณ์ ฟีเจอร์ และการตั้งค่าประสิทธิภาพของ Evermusic" link="/docs/guide/evermusic/evermusic-guide-settings" >}}
+  {{< ls-card icon="adjustments" title="การตั้งค่า" subtitle="ปรับแต่งรูปลักษณ์ ฟีเจอร์ และการตั้งค่าประสิทธิภาพของ Evermusic" link="/docs/guide/evermusic/evermusic-guide-settings" >}}
 
-  {{< card icon="question-mark-circle" title="FAQ" subtitle="ค้นหาคำตอบสำหรับคำถามที่พบบ่อยในส่วน FAQ ของเรา" link="/docs/faq/evermusic" >}}
+  {{< ls-card icon="question-mark-circle" title="FAQ" subtitle="ค้นหาคำตอบสำหรับคำถามที่พบบ่อยในส่วน FAQ ของเรา" link="/docs/faq/evermusic" >}}
 {{< /cards >}}

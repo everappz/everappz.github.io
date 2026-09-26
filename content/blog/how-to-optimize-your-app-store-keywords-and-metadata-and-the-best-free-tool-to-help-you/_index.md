@@ -24,7 +24,7 @@ authors:
     image: "/images/about/artem-meleshko-founder-everappz.webp"
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 ## Why App Store Keywords Determine Your Download Numbers
 
@@ -114,29 +114,29 @@ Try it now — your next user is one search away.
 The tool is open source. Bug reports, feature suggestions, and pull requests are welcome.
 
 {{< cards cols="1" >}}
-  {{< card link="https://github.com/everappz/app-store-keyword-optimizer/tree/main" title="appkeywords.pro on GitHub" icon="github" tag= "open source" >}}
+  {{< ls-card link="https://github.com/everappz/app-store-keyword-optimizer/tree/main" title="appkeywords.pro on GitHub" icon="github" tag= "open source" >}}
 {{< /cards >}}
 
 ---
 
 ## Frequently Asked Questions
 
-{{% details title="Is AppKeywords.pro really free?" closed="true" %}}
+{{% ls-details title="Is AppKeywords.pro really free?" closed="true" %}}
 Yes. It is a fully open-source, browser-based tool with no signup, no ads, and no data collection. Your metadata never leaves your device.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Does this tool work for multiple App Store localizations?" closed="true" %}}
+{{% ls-details title="Does this tool work for multiple App Store localizations?" closed="true" %}}
 Yes. You can add metadata for each locale independently, and the export includes all languages in a single JSON file compatible with Fastlane.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Should I repeat my title keywords in the keyword field?" closed="true" %}}
+{{% ls-details title="Should I repeat my title keywords in the keyword field?" closed="true" %}}
 No. Apple already indexes words from your title and subtitle. Repeating them in the keyword field wastes characters.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="How often should I update my App Store keywords?" closed="true" %}}
+{{% ls-details title="How often should I update my App Store keywords?" closed="true" %}}
 Review and refresh your keywords at least once per quarter. Adjust sooner if you notice ranking drops or seasonal shifts in search behavior.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Can I use this tool with Fastlane?" closed="true" %}}
+{{% ls-details title="Can I use this tool with Fastlane?" closed="true" %}}
 Yes. The GitHub repo includes shell scripts to convert between Fastlane's metadata folder structure and the JSON format used by AppKeywords.pro.
-{{% /details %}}
+{{% /ls-details %}}

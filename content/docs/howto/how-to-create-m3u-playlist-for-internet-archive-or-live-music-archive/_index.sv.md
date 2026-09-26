@@ -29,7 +29,7 @@ tags: [
 readingTime: 3
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **Sammanfattning:** Klistra in valfri Internet Archive URL på [archivetom3u.com](https://archivetom3u.com), välj ditt ljudformat (MP3, FLAC, OGG) och ladda ner en spelklar M3U-spellista -- inget konto krävs. Importera den sedan till [Evermusic](https://apps.apple.com/app/apple-store/id885367198?pt=95781850&ct=everappzcom&mt=8) på iPhone eller Mac för omedelbar uppspelning.
@@ -69,7 +69,7 @@ Du kan välja mellan följande format:
 Gå till [archive.org](https://archive.org), tryck på **Audio** och välj **Live Music Archive**. Använd sökfältet för att hitta en genre, artist eller konsert du vill ha.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Sök efter musik på Internet Archive" image="/docs/howto/how-to-create-m3u-playlist-for-internet-archive-or-live-music-archive/1.internet-archive-search.webp" >}}
+  {{< ls-card title="" subtitle="Sök efter musik på Internet Archive" image="/docs/howto/how-to-create-m3u-playlist-for-internet-archive-or-live-music-archive/1.internet-archive-search.webp" >}}
 {{< /cards >}}
 
 ### 2. Kopiera objekt-URL:en
@@ -77,7 +77,7 @@ Gå till [archive.org](https://archive.org), tryck på **Audio** och välj **Liv
 Klicka på det objekt du vill ha och kopiera dess URL från webbläsarens adressfält.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Kopiera objekt-URL:en från Internet Archive" image="/docs/howto/how-to-create-m3u-playlist-for-internet-archive-or-live-music-archive/2.internet-archive-copy-item-url.webp" >}}
+  {{< ls-card title="" subtitle="Kopiera objekt-URL:en från Internet Archive" image="/docs/howto/how-to-create-m3u-playlist-for-internet-archive-or-live-music-archive/2.internet-archive-copy-item-url.webp" >}}
 {{< /cards >}}
 
 ### 3. Klistra in URL:en i generatorn
@@ -85,7 +85,7 @@ Klicka på det objekt du vill ha och kopiera dess URL från webbläsarens adress
 Gå tillbaka till [archivetom3u.com](https://archivetom3u.com) och klistra in den kopierade URL:en i inmatningsfältet.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Klistra in objekt-URL:en i M3U-generatorn" image="/docs/howto/how-to-create-m3u-playlist-for-internet-archive-or-live-music-archive/3.archive-to-m3u-paste-item-url.webp" >}}
+  {{< ls-card title="" subtitle="Klistra in objekt-URL:en i M3U-generatorn" image="/docs/howto/how-to-create-m3u-playlist-for-internet-archive-or-live-music-archive/3.archive-to-m3u-paste-item-url.webp" >}}
 {{< /cards >}}
 
 ### 4. Välj ditt ljudformat
@@ -93,7 +93,7 @@ Gå tillbaka till [archivetom3u.com](https://archivetom3u.com) och klistra in de
 Välj det format du vill ha (MP3, FLAC osv.).
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Välj ditt föredragna ljudformat" image="/docs/howto/how-to-create-m3u-playlist-for-internet-archive-or-live-music-archive/4.archive-to-m3u-select-format.webp" >}}
+  {{< ls-card title="" subtitle="Välj ditt föredragna ljudformat" image="/docs/howto/how-to-create-m3u-playlist-for-internet-archive-or-live-music-archive/4.archive-to-m3u-select-format.webp" >}}
 {{< /cards >}}
 
 ### 5. Generera spellistan
@@ -101,7 +101,7 @@ Välj det format du vill ha (MP3, FLAC osv.).
 Klicka på **Generate Playlist**. `.m3u`-innehållet visas nedan. Du kan kopiera eller ladda ner det.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="M3U-spellistan genereras automatiskt" image="/docs/howto/how-to-create-m3u-playlist-for-internet-archive-or-live-music-archive/5.archive-to-m3u-generated-playlist.webp" >}}
+  {{< ls-card title="" subtitle="M3U-spellistan genereras automatiskt" image="/docs/howto/how-to-create-m3u-playlist-for-internet-archive-or-live-music-archive/5.archive-to-m3u-generated-playlist.webp" >}}
 {{< /cards >}}
 
 ### 6. Förhandsgranska spåren
@@ -109,7 +109,7 @@ Klicka på **Generate Playlist**. `.m3u`-innehållet visas nedan. Du kan kopiera
 Scrolla ner för att förhandsgranska varje spår. Se till att allt spelas upp korrekt.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Förhandsgranska alla spår innan nedladdning" image="/docs/howto/how-to-create-m3u-playlist-for-internet-archive-or-live-music-archive/6.archive-to-m3u-tracks-preview.webp" >}}
+  {{< ls-card title="" subtitle="Förhandsgranska alla spår innan nedladdning" image="/docs/howto/how-to-create-m3u-playlist-for-internet-archive-or-live-music-archive/6.archive-to-m3u-tracks-preview.webp" >}}
 {{< /cards >}}
 
 ### 7. Ladda ner spellistan
@@ -117,7 +117,7 @@ Scrolla ner för att förhandsgranska varje spår. Se till att allt spelas upp k
 Klicka på **Download Playlist** för att spara `.m3u`-filen till din enhet. Ingen inloggning eller konto behövs.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Ladda ner M3U-spellistan till din enhet" image="/docs/howto/how-to-create-m3u-playlist-for-internet-archive-or-live-music-archive/7.downloaded-m3u-playlist.webp" >}}
+  {{< ls-card title="" subtitle="Ladda ner M3U-spellistan till din enhet" image="/docs/howto/how-to-create-m3u-playlist-for-internet-archive-or-live-music-archive/7.downloaded-m3u-playlist.webp" >}}
 {{< /cards >}}
 
 ## Hur man spelar upp en M3U-spellista på macOS eller iOS
@@ -125,14 +125,14 @@ Klicka på **Download Playlist** för att spara `.m3u`-filen till din enhet. Ing
 För att spela upp den nedladdade `.m3u`-filen på din Apple-enhet, använd appen **Evermusic** (gratis nedladdning):
 
 {{< cards cols="1">}}
-{{< card link="https://apps.apple.com/app/apple-store/id1564384601?pt=95781850&ct=everappzcom&mt=8" title="Evermusic macOS" icon="download" tag="Free" >}}
-{{< card link="https://apps.apple.com/app/apple-store/id885367198?pt=95781850&ct=everappzcom&mt=8" title="Evermusic iOS" icon="download" tag="Free" >}}
+{{< ls-card link="https://apps.apple.com/app/apple-store/id1564384601?pt=95781850&ct=everappzcom&mt=8" title="Evermusic macOS" icon="download" tag="Free" >}}
+{{< ls-card link="https://apps.apple.com/app/apple-store/id885367198?pt=95781850&ct=everappzcom&mt=8" title="Evermusic iOS" icon="download" tag="Free" >}}
 {{< /cards >}}
 
 ### 1. Öppna Evermusic och gå till Spellistor
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Öppna Evermusic och gå till Spellistor" image="/docs/howto/how-to-create-m3u-playlist-for-internet-archive-or-live-music-archive/8.evermusic-app-playlists.webp" >}}
+  {{< ls-card title="" subtitle="Öppna Evermusic och gå till Spellistor" image="/docs/howto/how-to-create-m3u-playlist-for-internet-archive-or-live-music-archive/8.evermusic-app-playlists.webp" >}}
 {{< /cards >}}
 
 ### 2. Importera spellistan
@@ -140,7 +140,7 @@ För att spela upp den nedladdade `.m3u`-filen på din Apple-enhet, använd appe
 Tryck på **Add Playlist**, välj sedan **Import Playlist**.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Tryck på Import Playlist för att lägga till den nedladdade M3U:n" image="/docs/howto/how-to-create-m3u-playlist-for-internet-archive-or-live-music-archive/9.evermusic-app-import-playlist.webp" >}}
+  {{< ls-card title="" subtitle="Tryck på Import Playlist för att lägga till den nedladdade M3U:n" image="/docs/howto/how-to-create-m3u-playlist-for-internet-archive-or-live-music-archive/9.evermusic-app-import-playlist.webp" >}}
 {{< /cards >}}
 
 ### 3. Välj spellistans plats
@@ -148,7 +148,7 @@ Tryck på **Add Playlist**, välj sedan **Import Playlist**.
 Välj **Files on this Mac** (eller en annan plats där du sparade filen).
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Välj platsen för din nedladdade fil" image="/docs/howto/how-to-create-m3u-playlist-for-internet-archive-or-live-music-archive/10.select-location.webp" >}}
+  {{< ls-card title="" subtitle="Välj platsen för din nedladdade fil" image="/docs/howto/how-to-create-m3u-playlist-for-internet-archive-or-live-music-archive/10.select-location.webp" >}}
 {{< /cards >}}
 
 ### 4. Ge mappåtkomst
@@ -156,7 +156,7 @@ Välj **Files on this Mac** (eller en annan plats där du sparade filen).
 Evermusic kan bara komma åt filer om du tillåter åtkomst på mappnivå. Välj mappen som innehåller din `.m3u`-fil **och** ljudfilerna som länkas inuti den.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Anslut mappen på din enhet" image="/docs/howto/how-to-create-m3u-playlist-for-internet-archive-or-live-music-archive/11.connect-folder-located-on-your-device.webp" >}}
+  {{< ls-card title="" subtitle="Anslut mappen på din enhet" image="/docs/howto/how-to-create-m3u-playlist-for-internet-archive-or-live-music-archive/11.connect-folder-located-on-your-device.webp" >}}
 {{< /cards >}}
 
 ### 5. Välj mappen Nedladdningar
@@ -164,13 +164,13 @@ Evermusic kan bara komma åt filer om du tillåter åtkomst på mappnivå. Välj
 I de flesta fall sparas spellistan i din **Downloads**-mapp.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Välj mappen Nedladdningar" image="/docs/howto/how-to-create-m3u-playlist-for-internet-archive-or-live-music-archive/12.select-downloads-folder.webp" >}}
+  {{< ls-card title="" subtitle="Välj mappen Nedladdningar" image="/docs/howto/how-to-create-m3u-playlist-for-internet-archive-or-live-music-archive/12.select-downloads-folder.webp" >}}
 {{< /cards >}}
 
 Tryck på **Open** för att bekräfta valet.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Din Downloads-mapp är nu ansluten" image="/docs/howto/how-to-create-m3u-playlist-for-internet-archive-or-live-music-archive/13.downloads-folder-connected.webp" >}}
+  {{< ls-card title="" subtitle="Din Downloads-mapp är nu ansluten" image="/docs/howto/how-to-create-m3u-playlist-for-internet-archive-or-live-music-archive/13.downloads-folder-connected.webp" >}}
 {{< /cards >}}
 
 ### 6. Välj spellistfilen
@@ -180,7 +180,7 @@ När mappen är ansluten, hitta och välj din `.m3u`-fil.
 Tryck på **Done** för att bekräfta valet.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Välj M3U-spellistfilen från mappen" image="/docs/howto/how-to-create-m3u-playlist-for-internet-archive-or-live-music-archive/14.m3u-playlist-selected-from-connected-folder.webp" >}}
+  {{< ls-card title="" subtitle="Välj M3U-spellistfilen från mappen" image="/docs/howto/how-to-create-m3u-playlist-for-internet-archive-or-live-music-archive/14.m3u-playlist-selected-from-connected-folder.webp" >}}
 {{< /cards >}}
 
 ### 7. Spellista importerad
@@ -188,7 +188,7 @@ Tryck på **Done** för att bekräfta valet.
 Appen kommer att analysera spellistan och lägga till den i ditt bibliotek.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Spellistan har importerats framgångsrikt" image="/docs/howto/how-to-create-m3u-playlist-for-internet-archive-or-live-music-archive/15.playlist-imported.webp" >}}
+  {{< ls-card title="" subtitle="Spellistan har importerats framgångsrikt" image="/docs/howto/how-to-create-m3u-playlist-for-internet-archive-or-live-music-archive/15.playlist-imported.webp" >}}
 {{< /cards >}}
 
 ### 8. Öppna och spela upp spellistan
@@ -196,13 +196,13 @@ Appen kommer att analysera spellistan och lägga till den i ditt bibliotek.
 Tryck på spellistan för att se alla spår och starta uppspelning.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Öppna spellistan och visa spårlistan" image="/docs/howto/how-to-create-m3u-playlist-for-internet-archive-or-live-music-archive/16.playlist-opened.webp" >}}
+  {{< ls-card title="" subtitle="Öppna spellistan och visa spårlistan" image="/docs/howto/how-to-create-m3u-playlist-for-internet-archive-or-live-music-archive/16.playlist-opened.webp" >}}
 {{< /cards >}}
 
 Efter några sekunder laddar Evermusic all metadata och uppdaterar spårvyn.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Din spellista är redo att spelas" image="/docs/howto/how-to-create-m3u-playlist-for-internet-archive-or-live-music-archive/17.playlist-opened-2.webp" >}}
+  {{< ls-card title="" subtitle="Din spellista är redo att spelas" image="/docs/howto/how-to-create-m3u-playlist-for-internet-archive-or-live-music-archive/17.playlist-opened-2.webp" >}}
 {{< /cards >}}
 
 ## Integritet och öppen källkod
@@ -221,22 +221,22 @@ Nu vet du hur du skapar och importerar M3U-spellistor från Internet Archive och
 
 ## Vanliga frågor
 
-{{% details title="Är M3U-generatorverktyget gratis att använda?" closed="true" %}}
+{{% ls-details title="Är M3U-generatorverktyget gratis att använda?" closed="true" %}}
 Ja. Verktyget på [archivetom3u.com](https://archivetom3u.com) är helt gratis, kräver inget konto och körs helt i din webbläsare.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Vilka ljudformat kan jag inkludera i M3U-spellistan?" closed="true" %}}
+{{% ls-details title="Vilka ljudformat kan jag inkludera i M3U-spellistan?" closed="true" %}}
 Du kan välja VBR MP3, FLAC, 24-bit FLAC eller OGG Vorbis. Bara spår som finns tillgängliga i det valda formatet kommer att visas i spellistan.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Kan jag spela M3U-spellistor på iPhone eller Mac?" closed="true" %}}
+{{% ls-details title="Kan jag spela M3U-spellistor på iPhone eller Mac?" closed="true" %}}
 Ja. Ladda ner den gratis Evermusic-appen för iOS eller macOS och använd sedan funktionen Import Playlist för att ladda din `.m3u`-fil.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Lagrar verktyget mina data eller hostar det musik?" closed="true" %}}
+{{% ls-details title="Lagrar verktyget mina data eller hostar det musik?" closed="true" %}}
 Nej. All bearbetning sker lokalt i din webbläsare. Ingen data lagras och alla ljudströmmar kommer direkt från archive.org.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Är detta verktyg anslutet till Internet Archive?" closed="true" %}}
+{{% ls-details title="Är detta verktyg anslutet till Internet Archive?" closed="true" %}}
 Nej. Det är ett oberoende öppen källkodsprojekt skapat för bekvämlighet. Det använder det officiella Internet Archive Metadata API för att generera spellistor.
-{{% /details %}}
+{{% /ls-details %}}

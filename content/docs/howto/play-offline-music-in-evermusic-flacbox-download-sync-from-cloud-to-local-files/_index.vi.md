@@ -7,7 +7,7 @@ tags: ["nhạc", "âm thanh", "trình phát", "ngoại tuyến", "chế độ", 
 keywords: ["nhạc ngoại tuyến iPhone", "đồng bộ nhạc đám mây", "Evermusic ngoại tuyến", "Flacbox đồng bộ nhạc", "phát nhạc không cần internet", "tải âm thanh từ đám mây", "phát tệp cục bộ iOS"]
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **Tóm tắt:** Evermusic và Flacbox cho phép bạn tải nhạc từ bộ nhớ đám mây (Google Drive, Dropbox, OneDrive và nhiều hơn nữa) về iPhone hoặc iPad để phát ngoại tuyến. Bạn có thể sử dụng ba phương pháp: tải xuống trực tiếp, chế độ ngoại tuyến với đồng bộ tự động hoặc bộ nhớ đệm trình phát âm thanh. Hướng dẫn này bao gồm cả ba cách tiếp cận từng bước một.
@@ -140,26 +140,26 @@ Bằng cách làm theo các bước chi tiết này, bạn có thể quản lý 
 
 ## Câu hỏi thường gặp
 
-{{% details title="Evermusic và Flacbox hỗ trợ những dịch vụ đám mây nào?" closed="true" %}}
+{{% ls-details title="Evermusic và Flacbox hỗ trợ những dịch vụ đám mây nào?" closed="true" %}}
 Cả hai ứng dụng đều hỗ trợ Google Drive, Dropbox, OneDrive, Box, MEGA, Yandex.Disk và các nhà cung cấp bộ nhớ đám mây lớn khác. Bạn có thể kết nối nhiều dịch vụ cùng lúc.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Tôi có thể tự động đồng bộ nhạc từ bộ nhớ đám mây vào iPhone không?" closed="true" %}}
+{{% ls-details title="Tôi có thể tự động đồng bộ nhạc từ bộ nhớ đám mây vào iPhone không?" closed="true" %}}
 Có. Bật Chế độ ngoại tuyến cho bất kỳ thư mục, danh sách phát, album hoặc nghệ sĩ nào. Ứng dụng thực hiện đồng bộ một chiều từ đám mây sang thiết bị theo khoảng thời gian có thể cấu hình (mặc định: mỗi ngày một lần).
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Chế độ ngoại tuyến có sử dụng nhiều dung lượng lưu trữ trên thiết bị của tôi không?" closed="true" %}}
+{{% ls-details title="Chế độ ngoại tuyến có sử dụng nhiều dung lượng lưu trữ trên thiết bị của tôi không?" closed="true" %}}
 Việc sử dụng dung lượng phụ thuộc vào kích thước bộ sưu tập nhạc và định dạng tệp của bạn. Bạn có thể kiểm soát điều này bằng cách chọn các thư mục cụ thể để đồng bộ, đặt giới hạn kích thước bộ nhớ đệm và theo dõi dung lượng trong cài đặt ứng dụng.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Những định dạng âm thanh nào được hỗ trợ cho phát ngoại tuyến?" closed="true" %}}
+{{% ls-details title="Những định dạng âm thanh nào được hỗ trợ cho phát ngoại tuyến?" closed="true" %}}
 Evermusic và Flacbox hỗ trợ MP3, FLAC, AAC, ALAC, WAV, AIFF, OGG, WMA và nhiều định dạng khác. Flacbox được tối ưu hóa cho các định dạng không mất dữ liệu như FLAC và ALAC.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Nhạc ngoại tuyến của tôi có tiếp tục phát nếu tôi đóng ứng dụng không?" closed="true" %}}
+{{% ls-details title="Nhạc ngoại tuyến của tôi có tiếp tục phát nếu tôi đóng ứng dụng không?" closed="true" %}}
 Có. Các tệp đã tải xuống được lưu trữ cục bộ trên thiết bị của bạn và phát qua trình phát âm thanh của ứng dụng bất kể kết nối internet. Phát nền được hỗ trợ đầy đủ.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Làm cách nào để giải phóng dung lượng bị chiếm bởi nhạc ngoại tuyến?" closed="true" %}}
+{{% ls-details title="Làm cách nào để giải phóng dung lượng bị chiếm bởi nhạc ngoại tuyến?" closed="true" %}}
 Tắt Chế độ ngoại tuyến cho các thư mục cụ thể trong Cài đặt > Trình quản lý tệp > Thư mục ngoại tuyến đồng bộ hóa. Điều này sẽ xóa bản sao cục bộ khỏi thiết bị của bạn. Bạn cũng có thể xóa bộ nhớ đệm trình phát âm thanh hoặc xóa thủ công các tệp đã tải xuống.
-{{% /details %}}
+{{% /ls-details %}}

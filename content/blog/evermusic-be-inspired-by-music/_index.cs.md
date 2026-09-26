@@ -14,7 +14,7 @@ authors:
     image: "/images/about/artem-meleshko-founder-everappz.webp"
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 **Shrnutí:** Podívejte se na oficiální propagační video Evermusic a uvidíte cloudový streaming hudby, offline přehrávání a přizpůsobení zvuku v akci na iPhone a Mac.
 
@@ -24,7 +24,7 @@ S nadšením sdílíme oficiální propagační video Evermusic, vytvořené s v
 
 Podívejte se na Evermusic v akci -- streamování hudby z cloudu, správa playlistů a poskytování vysoce kvalitního zvuku na iPhone:
 
-{{< youtubecard id="6mm3LVT4rtA" title="Evermusic Promo Video" >}}
+{{< ls-youtubecard id="6mm3LVT4rtA" title="Evermusic Promo Video" >}}
 
 ## Co uvidíte ve videu
 
@@ -41,14 +41,14 @@ Pokud se vám video líbí, sdílejte ho se svými přáteli a milovníky hudby.
 
 ## Často kladené dotazy
 
-{{% details title="Co je Evermusic?" closed="true" %}}
+{{% ls-details title="Co je Evermusic?" closed="true" %}}
 Evermusic je hudební přehrávač pro iOS a macOS, který streamuje zvuk z cloudových služeb jako Dropbox, Google Drive, OneDrive a iCloud Drive. Podporuje také offline přehrávání a obsahuje vestavěný ekvalizér.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Které cloudové služby Evermusic podporuje?" closed="true" %}}
+{{% ls-details title="Které cloudové služby Evermusic podporuje?" closed="true" %}}
 Evermusic se připojuje k Dropbox, Google Drive, OneDrive, iCloud Drive, pCloud, Yandex.Disk a několika dalším poskytovatelům cloudového úložiště.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Je Evermusic zdarma?" closed="true" %}}
+{{% ls-details title="Je Evermusic zdarma?" closed="true" %}}
 Evermusic je zdarma ke stažení s volitelnými prémiovými funkcemi dostupnými prostřednictvím nákupu v aplikaci.
-{{% /details %}}
+{{% /ls-details %}}

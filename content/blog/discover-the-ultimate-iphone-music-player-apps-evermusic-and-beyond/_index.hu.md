@@ -12,7 +12,7 @@ authors:
     image: "/images/about/artem-meleshko-founder-everappz.webp"
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 **TL;DR:** A legjobb iPhone zenelejátszó az igényeidtől függ. Az **Evermusic** ideális a felhőtárhely lejátszásához és a formátum rugalmassághoz. Az **Apple Music** azoknak való, akik mélyen az Apple ökoszisztémában vannak. A **Spotify** a zenefelfedezésben jeleskedik. A **VLC** minden fájlformátumot ingyen kezel. Az **Amazon Music** jól párosul az Alexával és a Prime-mal.
 
@@ -128,22 +128,22 @@ Az Amazon Music integrálódik az Amazon ökoszisztémájába, hangvezérlést k
 
 ## FAQ
 
-{{% details title="Melyik a legjobb ingyenes zenelejátszó iPhone-ra?" closed="true" %}}
+{{% ls-details title="Melyik a legjobb ingyenes zenelejátszó iPhone-ra?" closed="true" %}}
 Saját fájlok lejátszásához az Evermusic és a VLC egyaránt ingyenes lehetőségek. Az Evermusic felhőtárhely integrációt ad hozzá, míg a VLC a legszélesebb fájlformátum-támogatást nyújtja.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Lejátszhatok FLAC fájlokat iPhone-on?" closed="true" %}}
+{{% ls-details title="Lejátszhatok FLAC fájlokat iPhone-on?" closed="true" %}}
 Igen. Az Evermusic és a VLC egyaránt támogatja a FLAC lejátszást iPhone-on. Az Apple Music és a Spotify nem játszik le közvetlenül FLAC fájlokat.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Melyik zenelejátszó alkalmazás működik felhőtárhellyel?" closed="true" %}}
+{{% ls-details title="Melyik zenelejátszó alkalmazás működik felhőtárhellyel?" closed="true" %}}
 Az Evermusic a vezető iPhone zenelejátszó beépített felhőtárhely támogatással. Csatlakozik az iCloud Drive-hoz, Dropboxhoz, Google Drive-hoz, OneDrive-hoz, pCloudhoz és más szolgáltatásokhoz.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Jobb az Evermusic, mint az Apple Music?" closed="true" %}}
+{{% ls-details title="Jobb az Evermusic, mint az Apple Music?" closed="true" %}}
 Különböző célokat szolgálnak. Az Evermusic a saját zenefájljaidat játssza le felhőtárhelyről és helyi tárhelyről. Az Apple Music egy előfizetéses streaming szolgáltatás 100M+ dalos katalógussal. Ha a saját zenefájljaid vannak, az Evermusic a jobb választás.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Használhatom a Spotify-t offline iPhone-on?" closed="true" %}}
+{{% ls-details title="Használhatom a Spotify-t offline iPhone-on?" closed="true" %}}
 Igen, de csak Spotify Premium előfizetéssel. Az ingyenes Spotify felhasználók nem tölthetnek le dalokat offline lejátszásra.
-{{% /details %}}
+{{% /ls-details %}}

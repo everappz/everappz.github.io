@@ -33,7 +33,7 @@ Files टैब स्पष्ट सेक्शन में विभाज�
 Files स्क्रीन के ऊपरी-दाएं कोने में एक ट्रांसफर बटन (स्पिनिंग-एरो आइकन) है। ट्रांसफर कतार खोलने के लिए उस पर टैप करें जहां आप अपने सभी स्रोतों के पार हर डाउनलोड और अपलोड की निगरानी करते हैं।
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="कनेक्टेड स्टोरेज पर Evervideo फाइलें" image="/docs/guide/evervideo/img/evervideo-files-connected-storages.webp" >}}
+  {{< ls-card title="" subtitle="कनेक्टेड स्टोरेज पर Evervideo फाइलें" image="/docs/guide/evervideo/img/evervideo-files-connected-storages.webp" >}}
 {{< /cards >}}
 
 ## क्लाउड स्टोरेज से कनेक्ट करें
@@ -41,7 +41,7 @@ Files स्क्रीन के ऊपरी-दाएं कोने मे
 Files टैब का क्लाउड स्टोरेज सेक्शन वह जगह है जहां हर कनेक्टेड अकाउंट, NAS, मीडिया सर्वर और स्ट्रीम रहता है — एक स्क्रॉलेबल सूची में साथ-साथ।
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Files टैब में Evervideo क्लाउड स्टोरेज सेक्शन" image="/docs/guide/evervideo/img/evervideo-connections.webp" >}}
+  {{< ls-card title="" subtitle="Files टैब में Evervideo क्लाउड स्टोरेज सेक्शन" image="/docs/guide/evervideo/img/evervideo-connections.webp" >}}
 {{< /cards >}}
 
 - **फाइलें** टैब खोलें।
@@ -51,7 +51,7 @@ Files टैब का क्लाउड स्टोरेज सेक्श�
 - क्लाउड प्रदाता द्वारा प्रदान किए गए आधिकारिक ऑथोराइज़ेशन पेज पर अपना क्रेडेंशियल दर्ज करें, फिर **पूर्ण करना** टैप करें।
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evervideo — क्लाउड स्टोरेज सेवा कनेक्ट करें" image="/docs/guide/evervideo/img/evervideo-connect-cloud-storage.webp" >}}
+  {{< ls-card title="" subtitle="Evervideo — क्लाउड स्टोरेज सेवा कनेक्ट करें" image="/docs/guide/evervideo/img/evervideo-connect-cloud-storage.webp" >}}
 {{< /cards >}}
 
 अगर आपको कोई समस्या आती है, तो अपना इंटरनेट कनेक्शन और अपना लॉगिन / पासवर्ड जांचें। ऐप के Premium संस्करण में, आप असीमित संख्या में सेवाएं जोड़ सकते हैं; फ्री संस्करण तीन तक सपोर्ट करता है।
@@ -159,7 +159,7 @@ Evervideo में नेटिव RTSP सपोर्ट है, इसलि
 - यदि आवश्यक हो, कनेक्शन पूरा करने के लिए अपना लॉगिन विवरण दर्ज करें।
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="लोकल नेटवर्क पर Evervideo के उपलब्ध उपकरण" image="/docs/guide/evervideo/img/evervideo-available-devices.webp" >}}
+  {{< ls-card title="" subtitle="लोकल नेटवर्क पर Evervideo के उपलब्ध उपकरण" image="/docs/guide/evervideo/img/evervideo-available-devices.webp" >}}
 {{< /cards >}}
 
 ## Wi-Fi Drive
@@ -167,7 +167,7 @@ Evervideo में नेटिव RTSP सपोर्ट है, इसलि
 Wi-Fi Drive आपको किसी भी डेस्कटॉप ब्राउज़र, Finder या File Explorer के माध्यम से अपने कंप्यूटर से अपने iOS डिवाइस पर फाइलें वायरलेस तरीके से ट्रांसफर करने देता है। आपका डिवाइस और कंप्यूटर उसी Wi-Fi नेटवर्क पर होने चाहिए।
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evervideo Wi-Fi Drive" image="/docs/guide/evervideo/img/evervideo-wifi-drive.webp" >}}
+  {{< ls-card title="" subtitle="Evervideo Wi-Fi Drive" image="/docs/guide/evervideo/img/evervideo-wifi-drive.webp" >}}
 {{< /cards >}}
 
 ### Wi-Fi Drive सक्षम करें
@@ -199,7 +199,7 @@ Lightning-to-USB / USB-C एडाप्टर या कार्ड रीड�
 इसका फाइल ब्राउज़र खोलने के लिए किसी भी कनेक्टेड क्लाउड सेवा पर टैप करें। फोल्डर उपलब्ध होने पर वीडियो थंबनेल दिखाते हैं, और वीडियो पर टैप करने से तुरंत प्लेबैक शुरू हो जाता है जबकि बाकी फाइल बैकग्राउंड में स्ट्रीम होती रहती है।
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evervideo — कनेक्टेड स्टोरेज में फोल्डर ब्राउज़ करना" image="/docs/guide/evervideo/img/evervideo-all-connected-device-folders.webp" >}}
+  {{< ls-card title="" subtitle="Evervideo — कनेक्टेड स्टोरेज में फोल्डर ब्राउज़ करना" image="/docs/guide/evervideo/img/evervideo-all-connected-device-folders.webp" >}}
 {{< /cards >}}
 
 ## त्वरित पहुंच
@@ -207,7 +207,7 @@ Lightning-to-USB / USB-C एडाप्टर या कार्ड रीड�
 त्वरित पहुंच सेक्शन Files टैब के शीर्ष पर है। यह आपको अपने पसंदीदा और हाल ही में खोले गए फाइलों और फोल्डर तक त्वरित पहुंच देता है — क्लाउड सेवाओं और डिवाइस स्टोरेज दोनों से। जब भी आप क्लाउड से कोई फाइल या फोल्डर खोलते हैं, तो वह हाल ही में खोले गए सूची में जुड़ जाती है। आप डायरेक्टरी स्ट्रक्चर के माध्यम से खोदे बिना त्वरित पहुंच के लिए गहराई से नेस्टेड फोल्डर को पसंदीदा के रूप में चिह्नित कर सकते हैं।
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evervideo ऑनलाइन लिंक और त्वरित पहुंच" image="/docs/guide/evervideo/img/evervideo-connections-online-links.webp" >}}
+  {{< ls-card title="" subtitle="Evervideo ऑनलाइन लिंक और त्वरित पहुंच" image="/docs/guide/evervideo/img/evervideo-connections-online-links.webp" >}}
 {{< /cards >}}
 
 ## इस एप्लिकेशन में फाइलें
@@ -215,7 +215,7 @@ Lightning-to-USB / USB-C एडाप्टर या कार्ड रीड�
 यह सेक्शन Evervideo के sandboxed Documents डायरेक्टरी में संग्रहीत फाइलें और फोल्डर दिखाता है — वह सब कुछ जो आपने क्लाउड से डाउनलोड किया है, Wi-Fi Drive के माध्यम से ट्रांसफर किया है, Finder File Sharing के माध्यम से कॉपी किया है, या किसी अन्य ऐप से इम्पोर्ट किया है।
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evervideo — इस एप्लिकेशन में फाइलें" image="/docs/guide/evervideo/img/evervideo-files-in-this-application.webp" >}}
+  {{< ls-card title="" subtitle="Evervideo — इस एप्लिकेशन में फाइलें" image="/docs/guide/evervideo/img/evervideo-files-in-this-application.webp" >}}
 {{< /cards >}}
 
 ### Documents फोल्डर
@@ -223,7 +223,7 @@ Lightning-to-USB / USB-C एडाप्टर या कार्ड रीड�
 Documents फोल्डर इस एप्लिकेशन में फाइलों के अंदर सब कुछ की जड़ है। आप सब-फोल्डर बना सकते हैं, फाइलों का नाम बदल सकते हैं, उन्हें इधर-उधर मूव कर सकते हैं, और जैसे चाहें उन्हें ग्रुप कर सकते हैं।
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evervideo लोकल फाइलें — Documents फोल्डर" image="/docs/guide/evervideo/img/evervideo-local-files-documents.webp" >}}
+  {{< ls-card title="" subtitle="Evervideo लोकल फाइलें — Documents फोल्डर" image="/docs/guide/evervideo/img/evervideo-local-files-documents.webp" >}}
 {{< /cards >}}
 
 ## इस iPhone / iPad / Mac पर फाइलें
@@ -236,7 +236,7 @@ Documents फोल्डर इस एप्लिकेशन में फा
 आप रीड / राइट एक्सेस के साथ अपने डिवाइस पर किसी फोल्डर से लिंक बनाने के लिए फोल्डर कनेक्ट करें का भी उपयोग कर सकते हैं — iCloud Drive या अटैच किए USB ड्राइव पर फोल्डर के साथ कुछ भी कॉपी किए बिना काम करने के लिए एकदम सही।
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evervideo — इस डिवाइस पर फाइलें" image="/docs/guide/evervideo/img/evervideo-files-on-this-device.webp" >}}
+  {{< ls-card title="" subtitle="Evervideo — इस डिवाइस पर फाइलें" image="/docs/guide/evervideo/img/evervideo-files-on-this-device.webp" >}}
 {{< /cards >}}
 
 ## विशेष फोल्डर
@@ -274,7 +274,7 @@ Files टैब के अंदर आपको कई विशेष फो�
 शीर्ष-दाएं कोने में **"..."** टैप करें और चयन मोड में प्रवेश करने के लिए **चुनें** चुनें। हर फाइल और फोल्डर के बगल में चेकबॉक्स दिखाई देते हैं। एक या कई आइटम चुनने के लिए टैप करें, फिर बैच क्रियाएं करें: अगला चलाएं, बाद में चलाएं, मीडिया लाइब्रेरी में जोड़ें, प्लेलिस्ट में जोड़ें, कॉपी करें, अपलोड करें, मूव करें, नाम बदलें, या हटाएं।
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evervideo — फाइल मैनेजर में चयन मोड" image="/docs/guide/evervideo/img/evervideo-selection-mode-in-files.webp" >}}
+  {{< ls-card title="" subtitle="Evervideo — फाइल मैनेजर में चयन मोड" image="/docs/guide/evervideo/img/evervideo-selection-mode-in-files.webp" >}}
 {{< /cards >}}
 
 यदि आप कनेक्टेड क्लाउड स्टोरेज को रीड-ओनली मानना पसंद करते हैं (आकस्मिक डिलीशन से बचने के लिए), UI से सभी विनाशकारी ऑपरेशन छुपाने के लिए सेटिंग्स → फाइल मैनेजर → ऑनलाइन फाइलें एडिट करें → बंद सक्षम करें।
@@ -316,13 +316,13 @@ Files टैब के अंदर आपको कई विशेष फो�
 Files टैब के शीर्ष-दाएं कोने में एक **ट्रांसफर** बटन (स्पिनिंग-एरो आइकन) है। ट्रांसफर कतार खोलने के लिए उस पर टैप करें — आपके सभी स्रोतों के पार हर सक्रिय डाउनलोड और अपलोड की सूची, प्रति-फाइल रियल-टाइम प्रोग्रेस, गति और ETA के साथ।
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evervideo फाइल ट्रांसफर कतार" image="/docs/guide/evervideo/img/evervideo-file-transfers.webp" >}}
+  {{< ls-card title="" subtitle="Evervideo फाइल ट्रांसफर कतार" image="/docs/guide/evervideo/img/evervideo-file-transfers.webp" >}}
 {{< /cards >}}
 
 आप विफल ट्रांसफर को रोक, फिर से शुरू, पुनः प्रयास कर सकते हैं, विशिष्ट डाउनलोड को प्राथमिकता देने के लिए आइटम पुनर्व्यवस्थित कर सकते हैं, या उन्हें व्यक्तिगत रूप से रद्द कर सकते हैं। आप सेटिंग्स → फाइल मैनेजर में ट्रांसफर कतार गति (अधिकतम समानांतर कार्य), नेटवर्क प्रकार (केवल Wi-Fi या Wi-Fi + सेल्युलर), और बैकग्राउंड ट्रांसफर भी एडजस्ट कर सकते हैं।
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evervideo फाइल ट्रांसफर कतार पर क्रियाएं" image="/docs/guide/evervideo/img/evervideo-file-transfers-actions.webp" >}}
+  {{< ls-card title="" subtitle="Evervideo फाइल ट्रांसफर कतार पर क्रियाएं" image="/docs/guide/evervideo/img/evervideo-file-transfers-actions.webp" >}}
 {{< /cards >}}
 
 ## ऑफलाइन मोड और सिंक्रनाइज़्ड ऑफलाइन फोल्डर

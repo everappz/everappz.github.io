@@ -12,7 +12,7 @@ authors:
     image: "/images/about/artem-meleshko-founder-everappz.webp"
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 ![](/blog/evermusic-sync-your-music-library-save-playback-position-correct-music-tags/21260c_641f376e779e47d4927b43c210d3c87f~mv2.jpeg)
 
@@ -67,22 +67,22 @@ Evermusic detecteert en corrigeert ongeldige of onvolledige ID3-tags met behulp 
 
 ## Veelgestelde vragen
 
-{{% details title="Werkt de automatische synchronisatie van Evermusic met alle cloudservices?" closed="true" %}}
+{{% ls-details title="Werkt de automatische synchronisatie van Evermusic met alle cloudservices?" closed="true" %}}
 Ja. Automatische synchronisatie werkt met Dropbox, Google Drive, OneDrive, MEGA, WebDAV en SMB. Selecteer de mappen die je wilt bewaken en Evermusic houdt je bibliotheek actueel.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Kan Evermusic mijn audioboekpositie opslaan?" closed="true" %}}
+{{% ls-details title="Kan Evermusic mijn audioboekpositie opslaan?" closed="true" %}}
 Ja. Schakel het opslaan van de afspeelpositie in via de audio-instellingen. Evermusic onthoudt waar je bent gestopt voor elk bestand, zodat je kunt hervatten zonder handmatige bladwijzers.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Hoe werkt het lezen van metadata op de achtergrond?" closed="true" %}}
+{{% ls-details title="Hoe werkt het lezen van metadata op de achtergrond?" closed="true" %}}
 Evermusic leest ID3-tags en bestandsmetadata op de achtergrond terwijl je andere functies gebruikt. Het organiseert je bibliotheek automatisch op Artiest, Album en Genre.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Repareert Evermusic mijn kapotte muziektags?" closed="true" %}}
+{{% ls-details title="Repareert Evermusic mijn kapotte muziektags?" closed="true" %}}
 Ja. De automatische tagcorrectie controleert je bestanden aan de hand van online databases en herstelt ongeldige, onvolledige of ontbrekende ID3-metadata.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Is Evermusic gratis te downloaden?" closed="true" %}}
+{{% ls-details title="Is Evermusic gratis te downloaden?" closed="true" %}}
 Evermusic is gratis te downloaden met optionele premiumfuncties beschikbaar via in-app aankoop.
-{{% /details %}}
+{{% /ls-details %}}

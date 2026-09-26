@@ -7,7 +7,7 @@ tags: ["evermusic", "音樂", "雲端", "iphone", "儲存", "本地", "nas", "wi
 readingTime: 2
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **摘要：** Windows 10 內建了 DLNA 伺服器。在網路和共用設定中啟用它，然後使用 iPhone 上的免費 **Evermusic** 應用程式透過 Wi-Fi 串流整個音樂庫。無需第三方伺服器軟體。
@@ -96,22 +96,22 @@ DLNA（數位生活網路聯盟）是一個強大的工具，可讓您輕鬆地�
 
 ## 常見問題
 
-{{% details title="我需要在 Windows 10 上安裝伺服器軟體嗎？" closed="true" %}}
+{{% ls-details title="我需要在 Windows 10 上安裝伺服器軟體嗎？" closed="true" %}}
 不需要。Windows 10 包含內建的 DLNA 媒體伺服器。您只需在網路和共用中心設定中啟用媒體串流即可。無需第三方軟體。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="我的 iPhone 需要在同一個 Wi-Fi 網路上嗎？" closed="true" %}}
+{{% ls-details title="我的 iPhone 需要在同一個 Wi-Fi 網路上嗎？" closed="true" %}}
 是的。DLNA 串流透過本地網路工作。您的 Windows 10 電腦和 iPhone 都必須連接到同一個 Wi-Fi 網路，Evermusic 才能發現 DLNA 伺服器。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="我可以透過 DLNA 串流哪些音訊格式？" closed="true" %}}
+{{% ls-details title="我可以透過 DLNA 串流哪些音訊格式？" closed="true" %}}
 Windows DLNA 伺服器會共用音樂資料夾中的檔案，不受格式限制。Evermusic 支援 MP3、FLAC、AAC、WAV、OGG、AIFF 等多種格式，因此您幾乎可以播放伺服器上的任何音訊檔案。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="我可以使用 Flacbox 代替 Evermusic 嗎？" closed="true" %}}
+{{% ls-details title="我可以使用 Flacbox 代替 Evermusic 嗎？" closed="true" %}}
 可以。Flacbox 也支援 DLNA/UPnP 瀏覽和播放。您可以使用任一應用程式來發現和播放 Windows DLNA 伺服器上的音樂。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="DLNA 串流會使用行動數據嗎？" closed="true" %}}
+{{% ls-details title="DLNA 串流會使用行動數據嗎？" closed="true" %}}
 不會。DLNA 完全在本地 Wi-Fi 網路上運作。不使用任何行動數據。但是，播放期間兩台裝置都必須保持連接到同一網路。
-{{% /details %}}
+{{% /ls-details %}}

@@ -17,7 +17,7 @@ Odtwarzacz to główny ekran aplikacji, w którym możesz sterować kolejką odt
 ## Dostęp do odtwarzacza
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Ekran odtwarzacza audio Evermusic" image="/docs/guide/evermusic/evermusic-guide-player/img/player-main.webp" >}}
+  {{< ls-card title="" subtitle="Ekran odtwarzacza audio Evermusic" image="/docs/guide/evermusic/evermusic-guide-player/img/player-main.webp" >}}
 {{< /cards >}}
 
 Dostęp do odtwarzacza pełnoekranowego możesz uzyskać z widoku mini odtwarzacza. Na iPhone znajdziesz mini odtwarzacz powyżej paska kart na głównym ekranie. Na iPad lub Mac jest on dostępny z lewego menu. Aby schować mini odtwarzacz, dotknij jego ikony i przesuń w dół. Aby całkowicie ukryć odtwarzacz pełnoekranowy, po prostu dotknij przycisku zamknięcia znajdującego się w prawym dolnym rogu.
@@ -44,7 +44,7 @@ Jeśli masz ochotę na losowość, opcja „Odtwarzaj losowo" jest właśnie dla
 ## Regulacja głośności
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Regulacja głośności z AirPlay i Google Cast" image="/docs/guide/evermusic/evermusic-guide-player/img/player-volume-control.webp" >}}
+  {{< ls-card title="" subtitle="Regulacja głośności z AirPlay i Google Cast" image="/docs/guide/evermusic/evermusic-guide-player/img/player-volume-control.webp" >}}
 {{< /cards >}}
 
 Znajdź suwak głośności na ekranie Ustawień audio, dotykając ikony dźwięku pod elementami sterowania odtwarzaniem. Możesz zmieniać głośność za pomocą tego suwaka lub standardowych przycisków głośności na urządzeniu. Znajdziesz tam również kilka przydatnych przycisków przesyłania strumieniowego:
@@ -63,7 +63,7 @@ Z drugiej strony, jeśli wolisz AirPlay, poszukaj przycisku AirPlay w dolnej cz�
 ## Korektor audio
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="10-pasmowy korektor audio" image="/docs/guide/evermusic/evermusic-guide-player/img/player-equalizer.webp" >}}
+  {{< ls-card title="" subtitle="10-pasmowy korektor audio" image="/docs/guide/evermusic/evermusic-guide-player/img/player-equalizer.webp" >}}
 {{< /cards >}}
 
 Evermusic jest wyposażony w 10-pasmowy korektor z presetami w stylu iPod, przedwzmacniaczem i ręcznymi ustawieniami korektora. Aby aktywować korektor, po prostu dotknij przycisku „Korektor" na dolnym pasku narzędzi i przestaw przełącznik w prawym górnym rogu. Możesz wybierać spośród wielu predefiniowanych presetów korektora, takich jak „Akustyczny", „Wzmocnienie basów", „Klasyczny" i innych. Jeśli jesteś entuzjastą dźwięku, docenisz możliwość precyzyjnego dostosowania każdego pasma częstotliwości za pomocą suwaków. Możesz tworzyć i zapisywać własne presety korektora audio. Jeśli utwór nie jest wystarczająco głośny, możesz również dostosować wzmocnienie przedwzmacniacza. Mamy bardziej szczegółowe instrukcje dotyczące używania korektora [tutaj](/docs/howto/how-to-use-the-audio-equalizer-on-your-iphone-ipad-mac-with-evermusic-and-flacbox).
@@ -71,7 +71,7 @@ Evermusic jest wyposażony w 10-pasmowy korektor z presetami w stylu iPod, przed
 ## Pasek narzędzi trybu odtwarzacza
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Górny pasek narzędzi odtwarzacza z wyszukiwaniem i prędkością" image="/docs/guide/evermusic/evermusic-guide-player/img/player-top-toolbar.webp" >}}
+  {{< ls-card title="" subtitle="Górny pasek narzędzi odtwarzacza z wyszukiwaniem i prędkością" image="/docs/guide/evermusic/evermusic-guide-player/img/player-top-toolbar.webp" >}}
 {{< /cards >}}
 
 W kilku wybranych stylach ekranu odtwarzacza znajdziesz pasek narzędzi trybu odtwarzacza u góry ekranu, tuż poniżej paska nawigacyjnego. Ten przydatny pasek narzędzi zawiera trzy przyciski.
@@ -82,7 +82,7 @@ W kilku wybranych stylach ekranu odtwarzacza znajdziesz pasek narzędzi trybu od
 ## Zakładki audio
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Zakładki audio do audiobooków i wykładów" image="/docs/guide/evermusic/evermusic-guide-player/img/player-bookmarks.webp" >}}
+  {{< ls-card title="" subtitle="Zakładki audio do audiobooków i wykładów" image="/docs/guide/evermusic/evermusic-guide-player/img/player-bookmarks.webp" >}}
 {{< /cards >}}
 
 Tutaj możesz tworzyć wiele zakładek dla utworów w bibliotece muzyki. Mamy pełną instrukcję dotyczącą używania zakładek [tutaj](/docs/howto/how-to-listen-to-audiobooks-on-iphone-ipad-mac-using-evermusic).
@@ -90,7 +90,7 @@ Tutaj możesz tworzyć wiele zakładek dla utworów w bibliotece muzyki. Mamy pe
 ## Kolejka odtwarzacza
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Kolejka odtwarzacza" image="/docs/guide/evermusic/evermusic-guide-player/img/player-queue.webp" >}}
+  {{< ls-card title="" subtitle="Kolejka odtwarzacza" image="/docs/guide/evermusic/evermusic-guide-player/img/player-queue.webp" >}}
 {{< /cards >}}
 
 Aby uzyskać dostęp do kolejki odtwarzacza, po prostu dotknij przycisku kolejki odtwarzacza znajdującego się na dolnym pasku narzędzi. Aby przenieść utwór w kolejce, użyj wskaźnika kolejności obok tytułu.
@@ -98,7 +98,7 @@ Aby uzyskać dostęp do kolejki odtwarzacza, po prostu dotknij przycisku kolejki
 ## Komentarze / Teksty
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Komentarze, osadzone teksty i pliki LRC" image="/docs/guide/evermusic/evermusic-guide-player/img/player-lyrics.webp" >}}
+  {{< ls-card title="" subtitle="Komentarze, osadzone teksty i pliki LRC" image="/docs/guide/evermusic/evermusic-guide-player/img/player-lyrics.webp" >}}
 {{< /cards >}}
 
 Aby wyświetlić komentarze do ścieżki i osadzone teksty oraz pliki LRC, wykonaj następujące kroki:
@@ -114,7 +114,7 @@ Mamy pełną instrukcję dotyczącą wyświetlania tekstów [tutaj](/docs/howto/
 ## Menu opcji
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Menu opcji dla elementu kolejki" image="/docs/guide/evermusic/evermusic-guide-player/img/player-queue-item-options-menu.webp" >}}
+  {{< ls-card title="" subtitle="Menu opcji dla elementu kolejki" image="/docs/guide/evermusic/evermusic-guide-player/img/player-queue-item-options-menu.webp" >}}
 {{< /cards >}}
 
 Każdy utwór w kolejce odtwarzacza audio ma menu z dodatkowymi akcjami, do którego możesz uzyskać dostęp, dotykając przycisku z trzema kropkami obok tytułu utworu. Dostępne akcje to:
@@ -153,7 +153,7 @@ Dotknij przycisku dodatkowych akcji „..." po lewej stronie tytułu aktualnie o
 ## Ostatnie i Ulubione
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Ostatnio odtwarzane utwory z odtwarzacza" image="/docs/guide/evermusic/evermusic-guide-player/img/player-recents.webp" >}}
+  {{< ls-card title="" subtitle="Ostatnio odtwarzane utwory z odtwarzacza" image="/docs/guide/evermusic/evermusic-guide-player/img/player-recents.webp" >}}
 {{< /cards >}}
 
 Na ekranie odtwarzacza możesz uzyskać dostęp do sekcji „Ostatnie" i „Ulubione", dotykając przycisku Więcej Akcji „…" i wybierając odpowiednią pozycję menu. W obu sekcjach możesz wyszukiwać utwory, odtwarzać wszystkie ścieżki, odtwarzać wszystkie ścieżki losowo, eksportować listę i usuwać listę. Mamy szczegółowe instrukcje dotyczące eksportowania list utworów [tutaj](/docs/howto/export-tracks-collection-from-evermusic-flacbox-to-m3u-csv-txt/).
@@ -161,7 +161,7 @@ Na ekranie odtwarzacza możesz uzyskać dostęp do sekcji „Ostatnie" i „Ulub
 ## Okno mini odtwarzacza (tylko Mac)
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Okno mini odtwarzacza Mac" image="/docs/guide/evermusic/evermusic-guide-player/img/player-mini-mac.webp" >}}
+  {{< ls-card title="" subtitle="Okno mini odtwarzacza Mac" image="/docs/guide/evermusic/evermusic-guide-player/img/player-mini-mac.webp" >}}
 {{< /cards >}}
 
 Dla użytkowników Mac dostępne jest przydatne okno mini odtwarzacza. Aby uzyskać do niego dostęp, po prostu przesuń kursor do prawego dolnego rogu okna aplikacji i zmień jego rozmiar do najmniejszego możliwego. Następnie dotknij przycisku zwijania (przedstawionego jako strzałka skierowana w dół), aby aktywować okno mini odtwarzacza. Jeśli chcesz, aby było zawsze na wierzchu innych okien, przejdź do górnego paska menu Mac, wybierz „Okno" i wybierz „Pokaż okno zawsze na wierzchu". Ta funkcja jest szczególnie wygodna podczas słuchania wykładów audio, gdy nie chcesz żadnych przerw.
@@ -169,7 +169,7 @@ Dla użytkowników Mac dostępne jest przydatne okno mini odtwarzacza. Aby uzysk
 ## Skróty klawiaturowe (tylko Mac)
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Menu odtwarzania na pasku stanu Mac ze skrótami klawiaturowymi" image="/docs/guide/evermusic/evermusic-guide-player/img/player-mac-shortcuts.webp" >}}
+  {{< ls-card title="" subtitle="Menu odtwarzania na pasku stanu Mac ze skrótami klawiaturowymi" image="/docs/guide/evermusic/evermusic-guide-player/img/player-mac-shortcuts.webp" >}}
 {{< /cards >}}
 
 Dla użytkowników Mac dostępne jest systemowe menu odtwarzania na pasku stanu ze skrótami klawiaturowymi. Na przykład, aby odtworzyć/wstrzymać, wystarczy dotknąć spacji na klawiaturze. Skróty dla Zatrzymaj, Następny utwór, Poprzedni utwór, Pomiń czas, Powtarzaj, Losowo i Prędkość odtwarzania są dostępne jak pokazano na zrzucie ekranu.
@@ -177,7 +177,7 @@ Dla użytkowników Mac dostępne jest systemowe menu odtwarzania na pasku stanu 
 ## Ustawienia odtwarzacza audio
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Ustawienia odtwarzacza audio" image="/docs/guide/evermusic/evermusic-guide-player/img/player-settings.webp" >}}
+  {{< ls-card title="" subtitle="Ustawienia odtwarzacza audio" image="/docs/guide/evermusic/evermusic-guide-player/img/player-settings.webp" >}}
 {{< /cards >}}
 
 Aby uzyskać dostęp do ustawień odtwarzacza audio, dotknij przycisku Więcej na ekranie odtwarzacza audio i wybierz „Ustawienia" z menu rozwijanego. Znajdziesz tam różne sekcje pogrupowane według funkcjonalności:

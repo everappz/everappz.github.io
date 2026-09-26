@@ -19,7 +19,7 @@ readingTime: 12
 במסך זה תוכלו לחבר כל מקור שמחזיק את המוזיקה שלכם. ניתן לשלב שירותי ענן פופולריים כמו Dropbox, Google Drive, iCloud Drive, OneDrive, MEGA, Box, pCloud, Yandex Disk, Synology Drive ועוד רבים, כמו גם את ה-Mac, ה-PC או ה-NAS שלכם דרך פרוטוקולים סטנדרטיים. בין אם האוסף שלכם נמצא בשירות ידידותי לסטרימינג כמו Dropbox או ב-NAS אישי כמו Synology, QNAP, Buffalo, Apple Time Capsule או WD My Cloud Home, Flacbox מתחבר לכולם ממסך אחד.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="מסך חיבורים של Flacbox" image="/docs/guide/flacbox/img/connections-main.webp" >}}
+  {{< ls-card title="" subtitle="מסך חיבורים של Flacbox" image="/docs/guide/flacbox/img/connections-main.webp" >}}
 {{< /cards >}}
 
 ## חיבור לאחסון ענן
@@ -30,7 +30,7 @@ readingTime: 12
 - הזינו את פרטי הגישה שלכם בדף ההרשאה הרשמי של ספק הענן, ולאחר מכן הקישו **בוצע**.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="הוספת שירות אחסון ענן ב-Flacbox" image="/docs/guide/flacbox/img/add-cloud-storage.webp" >}}
+  {{< ls-card title="" subtitle="הוספת שירות אחסון ענן ב-Flacbox" image="/docs/guide/flacbox/img/add-cloud-storage.webp" >}}
 {{< /cards >}}
 
 אם נתקלתם בבעיות, בדקו את חיבור האינטרנט ואת שם המשתמש / הסיסמה שלכם. בגרסת Premium של האפליקציה תוכלו להוסיף מספר בלתי מוגבל של שירותים; הגרסה החינמית תומכת בעד שלושה.
@@ -134,7 +134,7 @@ Flacbox מדבר את ה-API של Subsonic, מה שאומר שהוא עובד ע
 זו הדרך המהירה ביותר לגלות שיתוף SMB, WebDAV, DLNA ברשת הביתית שלכם מבלי להקליד כתובות IP ידנית.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="מכשירים זמינים ברשת המקומית ב-Flacbox" image="/docs/guide/flacbox/img/available-devies.webp" >}}
+  {{< ls-card title="" subtitle="מכשירים זמינים ברשת המקומית ב-Flacbox" image="/docs/guide/flacbox/img/available-devies.webp" >}}
 {{< /cards >}}
 
 ## Wi-Fi Drive
@@ -149,7 +149,7 @@ Wi-Fi Drive היא טכנולוגיה נוחה המאפשרת העברות קב�
 - הקישו **הפעל Wi-Fi Drive** כדי להפעיל את Wi-Fi Drive.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox Wi-Fi Drive" image="/docs/guide/flacbox/img/wifi-drive.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox Wi-Fi Drive" image="/docs/guide/flacbox/img/wifi-drive.webp" >}}
 {{< /cards >}}
 
 ### גישה ל-Wi-Fi Drive מהמחשב שלכם
@@ -234,7 +234,7 @@ iTunes File Sharing (כעת Finder File Sharing ב-macOS Catalina ואילך) ה
 - **למחוק** — הסירו לצמיתות את הקובץ מאחסון הענן שלכם. **לא ניתן לבטל פעולה זו.**
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="עוד פעולות עבור קובץ באחסון ענן מחובר ב-Flacbox" image="/docs/guide/flacbox/img/more-actions-for-file-in-connected-cloud-storage.webp" >}}
+  {{< ls-card title="" subtitle="עוד פעולות עבור קובץ באחסון ענן מחובר ב-Flacbox" image="/docs/guide/flacbox/img/more-actions-for-file-in-connected-cloud-storage.webp" >}}
 {{< /cards >}}
 
 אם רשימת הפעולות חורגת ממרחב המסך הזמין, פשוט גללו מטה בתפריט הפעולות כדי לגשת לאפשרויות נוספות.
@@ -261,7 +261,7 @@ iTunes File Sharing (כעת Finder File Sharing ב-macOS Catalina ואילך) ה
 חלק הגישה המהירה ממוקם בראש המסך. הוא מעניק לכם גישה מהירה לקבצים ותיקיות המועדפים ופתוחים לאחרונה מ שירותי ענן מחוברים. בכל פעם שאתם פותחים קובץ או תיקייה מהענן, הוא מתווסף לרשימת פתוח לאחרונה. לניקוי רשימה זו, פתחו עדכונים אחרונים, הקישו על כפתור עוד פעולות ובחרו מחק רשימה. ניתן גם לסמן תיקיות מקוננות עמוק כמועדפות כדי לגשת אליהן במהירות מבלי לחפש דרך מבנה הספרייה.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="קישורים מקוונים וגישה מהירה ב-Flacbox" image="/docs/guide/flacbox/img/online-links.webp" >}}
+  {{< ls-card title="" subtitle="קישורים מקוונים וגישה מהירה ב-Flacbox" image="/docs/guide/flacbox/img/online-links.webp" >}}
 {{< /cards >}}
 
 ## שירותים אחרים
@@ -269,5 +269,5 @@ iTunes File Sharing (כעת Finder File Sharing ב-macOS Catalina ואילך) ה
 חלק זה מציג תכונות נוספות המשפרות את החוויה שלכם. כרגע, האפליקציה תומכת ב-scrobbling של **Last.fm** — כאשר מחובר, סטטיסטיקות ההשמעה שלכם נשלחות אוטומטית לחשבון Last.fm שלכם. לאחר מכן תוכלו לבקר בפרופיל Last.fm שלכם כדי לצפות בנתוני האזנה ולקבל המלצות מוזיקה מותאמות אישית. הוראות הגדרה מפורטות זמינות [כאן](/docs/howto/how-to-scrobble-your-music-history-from-evermusic-or-flacbox-to-last-fm).
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox Last.fm Connect" image="/docs/guide/flacbox/img/last-fm-connect.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox Last.fm Connect" image="/docs/guide/flacbox/img/last-fm-connect.webp" >}}
 {{< /cards >}}

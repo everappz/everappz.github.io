@@ -7,7 +7,7 @@ tags: ["Musik", "Streaming", "nas", "synology", "quickconnect"]
 readingTime: 4
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **Zusammenfassung:** Verbinden Sie Ihr Synology NAS mit Evermusic oder Flacbox über die native Synology-API -- entweder manuell über die IP-Adresse oder automatisch über die QuickConnect ID. QuickConnect ermöglicht es Ihnen, Musik aus der Ferne zu streamen, ohne Portweiterleitung. Beide Apps unterstützen FLAC, MP3, WAV und andere Hi-Res-Formate.
@@ -140,22 +140,22 @@ Mit sicherem Fernzugriff über QuickConnect und Unterstützung für eine breite 
 
 ## FAQ
 
-{{% details title="Was ist der Unterschied zwischen manueller Verbindung und QuickConnect?" closed="true" %}}
+{{% ls-details title="Was ist der Unterschied zwischen manueller Verbindung und QuickConnect?" closed="true" %}}
 Die manuelle Verbindung verwendet die IP-Adresse und den Port des NAS, was in Ihrem lokalen Netzwerk funktioniert. QuickConnect nutzt den Relay-Dienst von Synology, um eine Verbindung von überall über das Internet herzustellen, ohne Portweiterleitung.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Kann ich Musik vom Synology NAS außerhalb meines Heimnetzwerks streamen?" closed="true" %}}
+{{% ls-details title="Kann ich Musik vom Synology NAS außerhalb meines Heimnetzwerks streamen?" closed="true" %}}
 Ja. Aktivieren Sie QuickConnect auf Ihrem Synology NAS und verwenden Sie die QuickConnect ID in Evermusic oder Flacbox, um Musik von überall mit einer Internetverbindung zu streamen.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Welche Audioformate werden beim Streaming vom Synology NAS unterstützt?" closed="true" %}}
+{{% ls-details title="Welche Audioformate werden beim Streaming vom Synology NAS unterstützt?" closed="true" %}}
 Evermusic und Flacbox unterstützen FLAC, MP3, AAC, WAV, ALAC, OGG, WMA, DSD und viele andere Formate. Alle unterstützten Formate funktionieren beim Streaming vom Synology NAS.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Benötige ich Zwei-Faktor-Authentifizierung zum Verbinden?" closed="true" %}}
+{{% ls-details title="Benötige ich Zwei-Faktor-Authentifizierung zum Verbinden?" closed="true" %}}
 Nein, 2FA ist optional. Wenn Sie jedoch die 2-Schritt-Verifizierung auf Ihrem Synology DSM aktiviert haben, fragt die App während der Anmeldung nach einem Einmalpasswort. Sie müssen sich erneut autorisieren, wenn die Sitzung abläuft.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Sollte ich die native Synology-API, WebDAV oder SMB zum Verbinden verwenden?" closed="true" %}}
+{{% ls-details title="Sollte ich die native Synology-API, WebDAV oder SMB zum Verbinden verwenden?" closed="true" %}}
 Die native Synology-API mit QuickConnect ist die beste Wahl für den Fernzugriff. Für die Nutzung im lokalen Netzwerk ist SMB typischerweise die schnellste Option. WebDAV funktioniert gut für lokalen und Fernzugriff. Evermusic und Flacbox unterstützen alle drei Protokolle.
-{{% /details %}}
+{{% /ls-details %}}

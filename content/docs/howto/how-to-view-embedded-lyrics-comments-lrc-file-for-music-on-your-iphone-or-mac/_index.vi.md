@@ -7,7 +7,7 @@ tags: ["âm thanh", "iphone", "mp3", "lời bài hát", "lrc", "nhúng", "xem", 
 keywords: ["xem lời bài hát nhúng iPhone", "Evermusic hiển thị lời bài hát", "tệp LRC Evermusic", "thẻ nhận xét âm thanh", "hiển thị lời bài hát Flacbox", "lời bài hát iOS ứng dụng nhạc", "trình phát âm thanh hiển thị lời bài hát"]
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **TL;DR:** Evermusic cho iPhone và Mac hiển thị lời bài hát nhúng, thẻ nhận xét và tệp .lrc bên ngoài cho bất kỳ bản nhạc nào. Mở trình phát, chạm **Thêm hành động**, sau đó chọn **Nhận xét** để xem lời bài hát trong ba chế độ: Nhận xét, Lời bài hát nhúng và Tệp LRC.
@@ -68,22 +68,22 @@ Xem lời bài hát nhúng, nhận xét hoặc tệp `.lrc` đồng bộ trong *
 
 ## Câu hỏi thường gặp
 
-{{% details title="Làm cách nào để xem lời bài hát nhúng trên iPhone?" closed="true" %}}
+{{% ls-details title="Làm cách nào để xem lời bài hát nhúng trên iPhone?" closed="true" %}}
 Mở Evermusic, phát một bài hát, chạm Thêm hành động trong trình phát toàn màn hình và chọn Nhận xét. Vuốt đến tab Lời bài hát nhúng để xem lời bài hát được lưu trong thẻ của tệp âm thanh.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Tệp LRC là gì và hoạt động như thế nào?" closed="true" %}}
+{{% ls-details title="Tệp LRC là gì và hoạt động như thế nào?" closed="true" %}}
 Tệp LRC là tệp văn bản chứa lời bài hát có đồng bộ thời gian. Khi được đặt trong cùng thư mục với tệp âm thanh có cùng tên tệp, Evermusic sẽ đọc và hiển thị lời bài hát đồng bộ cuộn theo trong khi phát.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Tôi có thể thêm lời bài hát vào tệp nhạc trên iPhone không?" closed="true" %}}
+{{% ls-details title="Tôi có thể thêm lời bài hát vào tệp nhạc trên iPhone không?" closed="true" %}}
 Có. Sử dụng ứng dụng Evertag để chỉnh sửa thẻ ID3 và thêm hoặc cập nhật lời bài hát nhúng trực tiếp trên iPhone. Bạn có thể dán văn bản định dạng LRC có đồng bộ thời gian cho lời bài hát đồng bộ.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Evermusic có hỗ trợ lời bài hát đồng bộ (có thời gian) không?" closed="true" %}}
+{{% ls-details title="Evermusic có hỗ trợ lời bài hát đồng bộ (có thời gian) không?" closed="true" %}}
 Có. Evermusic hỗ trợ lời bài hát có thời gian theo định dạng LRC, cả khi nhúng trong thẻ âm thanh và khi được cung cấp dưới dạng tệp `.lrc` riêng biệt.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Những định dạng âm thanh nào hỗ trợ lời bài hát nhúng?" closed="true" %}}
+{{% ls-details title="Những định dạng âm thanh nào hỗ trợ lời bài hát nhúng?" closed="true" %}}
 MP3, FLAC, AAC, M4A, OGG và hầu hết các định dạng phổ biến khác hỗ trợ lời bài hát nhúng thông qua các tiêu chuẩn thẻ tương ứng.
-{{% /details %}}
+{{% /ls-details %}}

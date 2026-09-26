@@ -17,7 +17,7 @@ Trên màn hình Kết nối bạn có thể kết nối mọi nguồn chứa nh
 Màn hình được chia thành các phần được đánh nhãn rõ ràng: Truy cập nhanh ở trên cùng (thư mục đám mây yêu thích của bạn), Lưu trữ đám mây (các tài khoản đã thêm), Mạng cục bộ (thiết bị được Bonjour phát hiện), Máy tính (Wi-Fi Drive, iTunes File Sharing, SMB), Phụ kiện ngoài (USB flash drive đã kết nối), và Dịch vụ khác (Last.fm và tương tự).
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Màn hình Kết nối Evermusic" image="/docs/guide/evermusic/evermusic-guide-connections/img/connect-main.webp" >}}
+  {{< ls-card title="" subtitle="Màn hình Kết nối Evermusic" image="/docs/guide/evermusic/evermusic-guide-connections/img/connect-main.webp" >}}
 {{< /cards >}}
 
 ## Kết nối lưu trữ đám mây
@@ -29,7 +29,7 @@ Màn hình được chia thành các phần được đánh nhãn rõ ràng: Tru
 - Nhấn Hoàn tất.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Bộ chọn nhà cung cấp lưu trữ đám mây" image="/docs/guide/evermusic/evermusic-guide-connections/img/connect-add-storage.webp" >}}
+  {{< ls-card title="" subtitle="Bộ chọn nhà cung cấp lưu trữ đám mây" image="/docs/guide/evermusic/evermusic-guide-connections/img/connect-add-storage.webp" >}}
 {{< /cards >}}
 
 Nếu gặp sự cố, hãy kiểm tra kết nối internet và thông tin đăng nhập, đồng thời đảm bảo xác thực hai yếu tố được cấu hình đúng cho dịch vụ đó.  
@@ -70,7 +70,7 @@ Bạn cũng có thể ngắt kết nối các tài khoản đám mây đã kết
   - **Ngắt kết nối**: nếu bạn muốn ngắt hoàn toàn kết nối giữa ứng dụng và dịch vụ đám mây, chọn «Ngắt kết nối». Lưu ý rằng việc chọn tùy chọn này sẽ xóa tất cả bài hát liên quan đến dịch vụ đám mây này khỏi thư viện nhạc của ứng dụng, nhưng chúng sẽ vẫn còn trên máy chủ.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Menu Thêm hành động cho lưu trữ đám mây đã kết nối" image="/docs/guide/evermusic/evermusic-guide-connections/img/connect-storage-more-actions.webp" >}}
+  {{< ls-card title="" subtitle="Menu Thêm hành động cho lưu trữ đám mây đã kết nối" image="/docs/guide/evermusic/evermusic-guide-connections/img/connect-storage-more-actions.webp" >}}
 {{< /cards >}}
 
 ## Kết nối đến Máy tính hoặc NAS
@@ -89,7 +89,7 @@ Nếu kết nối thành công, bạn sẽ thấy lưu trữ đã kết nối tr
 Hướng dẫn đầy đủ về cách kết nối Mac hoặc PC bằng SMB có tại [đây](/docs/howto/stream-your-music-from-mac-or-pc-to-iphone-using-smb/).
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Cài đặt kết nối SMB" image="/docs/guide/evermusic/evermusic-guide-connections/img/connect-smb-settings.webp" >}}
+  {{< ls-card title="" subtitle="Cài đặt kết nối SMB" image="/docs/guide/evermusic/evermusic-guide-connections/img/connect-smb-settings.webp" >}}
 {{< /cards >}}
 
 ## Kết nối đến NAS bằng WebDAV
@@ -99,7 +99,7 @@ URL phải theo định dạng http://server-name hoặc https://server-name n�
 Hướng dẫn đầy đủ về cách kết nối NAS bằng giao thức WebDAV có tại [đây](/docs/howto/how-to-connect-nas-storage-using-webdav-and-listen-to-music-on-your-iphone-or-mac).
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Cài đặt kết nối WebDAV" image="/docs/guide/evermusic/evermusic-guide-connections/img/connect-webdav-settings.webp" >}}
+  {{< ls-card title="" subtitle="Cài đặt kết nối WebDAV" image="/docs/guide/evermusic/evermusic-guide-connections/img/connect-webdav-settings.webp" >}}
 {{< /cards >}}
 
 ## Kết nối đến Máy tính hoặc NAS bằng DLNA
@@ -107,7 +107,7 @@ Hướng dẫn đầy đủ về cách kết nối NAS bằng giao thức WebDAV
 Bạn cũng có thể chia sẻ thư viện nhạc trên Windows PC hoặc NAS cá nhân bằng giao thức DLNA và truy cập thư viện đó trong ứng dụng như được mô tả [tại đây](/docs/howto/how-to-enable-dlna-media-server-on-windows-10-and-play-your-music-on-iphone). DLNA là giao thức phổ biến và được sử dụng rộng rãi, nhưng nó chỉ cho phép bạn phát hoặc tải xuống nhạc. Bạn không thể tải tệp lên hoặc tạo thư mục mới trên máy chủ.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Cài đặt kết nối DLNA" image="/docs/guide/evermusic/evermusic-guide-connections/img/connect-dlna-settings.webp" >}}
+  {{< ls-card title="" subtitle="Cài đặt kết nối DLNA" image="/docs/guide/evermusic/evermusic-guide-connections/img/connect-dlna-settings.webp" >}}
 {{< /cards >}}
 
 ## Thiết bị có sẵn
@@ -120,7 +120,7 @@ Phần này hiển thị tất cả các thiết bị trong mạng cục bộ c�
 - Nếu cần, nhập thông tin đăng nhập để hoàn tất kết nối.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Thiết bị có sẵn trên mạng cục bộ" image="/docs/guide/evermusic/evermusic-guide-connections/img/connect-available-devices.webp" >}}
+  {{< ls-card title="" subtitle="Thiết bị có sẵn trên mạng cục bộ" image="/docs/guide/evermusic/evermusic-guide-connections/img/connect-available-devices.webp" >}}
 {{< /cards >}}
 
 ## Wi-Fi Drive
@@ -146,7 +146,7 @@ Sau khi trang web tương ứng với thiết bị iOS của bạn mở trong tr
 Các tệp bạn kéo và thả sẽ bắt đầu truyền sang thiết bị iOS của bạn và có thể truy cập trong ứng dụng.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Cài đặt máy chủ Wi-Fi Drive" image="/docs/guide/evermusic/evermusic-guide-connections/img/connect-wifidrive-settings.webp" >}}
+  {{< ls-card title="" subtitle="Cài đặt máy chủ Wi-Fi Drive" image="/docs/guide/evermusic/evermusic-guide-connections/img/connect-wifidrive-settings.webp" >}}
 {{< /cards >}}
 
 Hướng dẫn chi tiết về cách truyền tệp không dây bằng WiFi-Drive có tại [đây](/docs/howto/how-to-transfer-files-wirelessly-from-a-computer-to-an-iphone-using-wifi-drive).
@@ -162,7 +162,7 @@ iTunes File Sharing là công nghệ khác cho phép bạn truyền tệp từ m
 Hướng dẫn chi tiết về cách sử dụng iTunes file sharing có tại [đây](/docs/howto/how-to-play-local-itunes-files-on-my-iphone/).
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="iTunes / Finder File Sharing trên Mac" image="/docs/guide/evermusic/evermusic-guide-connections/img/connect-itunes-file-sharing.webp" >}}
+  {{< ls-card title="" subtitle="iTunes / Finder File Sharing trên Mac" image="/docs/guide/evermusic/evermusic-guide-connections/img/connect-itunes-file-sharing.webp" >}}
 {{< /cards >}}
 
 ## Kết nối USB flash drive
@@ -183,7 +183,7 @@ Thanh công cụ trên cùng, nằm thuận tiện dưới thanh điều hướn
 - **Phát ngẫu nhiên**: tương tự «Phát tất cả», nhưng trộn các tệp trước khi thêm vào hàng đợi trình phát âm thanh.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Thanh công cụ trên cùng bên trong thư mục đám mây" image="/docs/guide/evermusic/evermusic-guide-connections/img/connect-top-toolbar.webp" >}}
+  {{< ls-card title="" subtitle="Thanh công cụ trên cùng bên trong thư mục đám mây" image="/docs/guide/evermusic/evermusic-guide-connections/img/connect-top-toolbar.webp" >}}
 {{< /cards >}}
 
 ## Tùy chọn thư mục
@@ -200,7 +200,7 @@ Dưới đây là mô tả các hành động này:
 - **Chế độ lưới/danh sách**: chuyển đổi giữa hai chế độ xem: dạng bảng và dạng hình thu nhỏ.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Menu Thêm hành động cho thư mục hiện tại" image="/docs/guide/evermusic/evermusic-guide-connections/img/connect-folder-options.webp" >}}
+  {{< ls-card title="" subtitle="Menu Thêm hành động cho thư mục hiện tại" image="/docs/guide/evermusic/evermusic-guide-connections/img/connect-folder-options.webp" >}}
 {{< /cards >}}
 
 ## Chỉnh sửa tệp trực tuyến
@@ -212,7 +212,7 @@ Khi bạn cần quản lý nhiều tệp trong lưu trữ đám mây trên Everm
 - **Thực hiện các hành động khác nhau**: sau khi chọn tệp hoặc thư mục bạn muốn quản lý, bạn sẽ có quyền truy cập vào một số hành động.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Chế độ chọn cho tệp trực tuyến" image="/docs/guide/evermusic/evermusic-guide-connections/img/connect-selection-mode.webp" >}}
+  {{< ls-card title="" subtitle="Chế độ chọn cho tệp trực tuyến" image="/docs/guide/evermusic/evermusic-guide-connections/img/connect-selection-mode.webp" >}}
 {{< /cards >}}
 
 ## Hành động tệp
@@ -233,7 +233,7 @@ Nhấn vào đó để xem danh sách các hành động có sẵn:
 - **Xóa**: hành động này sẽ xóa vĩnh viễn tệp khỏi lưu trữ đám mây của bạn.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Menu Thêm hành động cho một tệp đơn lẻ" image="/docs/guide/evermusic/evermusic-guide-connections/img/connect-single-folder-more-options.webp" >}}
+  {{< ls-card title="" subtitle="Menu Thêm hành động cho một tệp đơn lẻ" image="/docs/guide/evermusic/evermusic-guide-connections/img/connect-single-folder-more-options.webp" >}}
 {{< /cards >}}
 
 Nếu danh sách hành động vượt quá không gian màn hình hiện có, chỉ cần cuộn xuống trong menu hành động để truy cập các tùy chọn bổ sung.

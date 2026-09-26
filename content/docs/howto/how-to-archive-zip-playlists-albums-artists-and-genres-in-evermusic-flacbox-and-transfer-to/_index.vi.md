@@ -7,7 +7,7 @@ tags: ["evermusic", "flacbox", "lưu trữ", "sao lưu", "xuất", "danh sách p
 readingTime: 2
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **Tóm tắt:** Evermusic và Flacbox có thể lưu trữ bất kỳ danh sách phát, album, nghệ sĩ hoặc thể loại nào thành tệp ZIP với danh sách phát M3U, ảnh bìa album và tất cả các tệp âm thanh. Chuyển ZIP sang thiết bị khác, giải nén và nhập M3U để xây dựng lại danh sách phát ngay lập tức.
@@ -104,22 +104,22 @@ Bằng cách làm theo hướng dẫn này, bạn có thể lưu trữ và chuy�
 
 ## Câu hỏi thường gặp
 
-{{% details title="Tệp ZIP lưu trữ bao gồm những gì?" closed="true" %}}
+{{% ls-details title="Tệp ZIP lưu trữ bao gồm những gì?" closed="true" %}}
 Tệp lưu trữ chứa tất cả các tệp âm thanh, tệp danh sách phát M3U giữ nguyên thứ tự bài hát và ảnh bìa album của danh sách phát được lưu dưới dạng tệp hình ảnh riêng biệt.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Lưu trữ có hoạt động với tệp đám mây không?" closed="true" %}}
+{{% ls-details title="Lưu trữ có hoạt động với tệp đám mây không?" closed="true" %}}
 Có. Ứng dụng tự động tải xuống tất cả các tệp được lưu trữ trên đám mây trước khi thêm chúng vào tệp lưu trữ. Bạn có thể theo dõi tiến trình tải xuống trong phần truyền tệp.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Tôi có thể lưu trữ album, nghệ sĩ và thể loại không?" closed="true" %}}
+{{% ls-details title="Tôi có thể lưu trữ album, nghệ sĩ và thể loại không?" closed="true" %}}
 Có. Tùy chọn «Thêm vào lưu trữ» có sẵn cho danh sách phát, album, nghệ sĩ và thể loại. Quy trình giống nhau cho tất cả.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Làm cách nào để chuyển tệp lưu trữ sang thiết bị khác?" closed="true" %}}
+{{% ls-details title="Làm cách nào để chuyển tệp lưu trữ sang thiết bị khác?" closed="true" %}}
 Bạn có thể tải ZIP lên bộ nhớ đám mây (Google Drive, Dropbox, v.v.), sử dụng AirDrop hoặc chuyển không dây qua tính năng Wi-Fi Drive tích hợp trong Evermusic và Flacbox.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Cấu trúc danh sách phát có được bảo toàn sau khi chuyển không?" closed="true" %}}
+{{% ls-details title="Cấu trúc danh sách phát có được bảo toàn sau khi chuyển không?" closed="true" %}}
 Có. Tệp M3U lưu trữ cấu trúc danh sách phát với đường dẫn tương đối. Sau khi giải nén trên thiết bị mới, nhập tệp M3U để xây dựng lại danh sách phát với tất cả các bài hát theo thứ tự ban đầu.
-{{% /details %}}
+{{% /ls-details %}}

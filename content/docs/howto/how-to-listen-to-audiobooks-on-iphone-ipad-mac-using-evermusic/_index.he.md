@@ -7,7 +7,7 @@ tags: ["ספרי שמע", "השמעה", "לא מקוון", "evermusic", "סימ�
 readingTime: 5
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **בקצרה:** Evermusic משמש גם כנגן ספרי שמע מלא ב-iOS וב-macOS. העבירו ספרי שמע דרך iTunes, WiFi או אחסון ענן, ואז השתמשו בבקרת מהירות השמעה, כפתורי דילוג, סימניות שמע, המשך השמעה והורדות לא מקוונות לחוויית האזנה חלקה.
@@ -151,26 +151,26 @@ Evermusic מצטיין בתמיכה בהאזנה לא מקוונת, ומאפשר
 
 ## שאלות נפוצות
 
-{{% details title="אילו פורמטים של ספרי שמע Evermusic תומך?" closed="true" %}}
+{{% ls-details title="אילו פורמטים של ספרי שמע Evermusic תומך?" closed="true" %}}
 Evermusic תומך ב-MP3, M4A, M4B, FLAC, WAV, AIFF, OGG ופורמטי שמע נפוצים אחרים. כל קובץ שמע שמתנגן ב-Evermusic עובד כספר שמע.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="האם אני יכול להאזין לספרי שמע מאחסון ענן?" closed="true" %}}
+{{% ls-details title="האם אני יכול להאזין לספרי שמע מאחסון ענן?" closed="true" %}}
 כן. Evermusic מתחבר ל-iCloud Drive, Google Drive, Dropbox, OneDrive, Box ולשרתי WebDAV. תוכלו להזרים ספרי שמע ישירות או להוריד אותם להאזנה לא מקוונת.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="האם הסימניות שלי יועברו למכשיר חדש?" closed="true" %}}
+{{% ls-details title="האם הסימניות שלי יועברו למכשיר חדש?" closed="true" %}}
 כן. Evermusic שומר סימניות שמע במטא-נתונים של הקובץ, כך שהן מועברות אוטומטית כשאתם מעבירים קבצים למכשיר חדש.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="האם Evermusic זוכר היכן הפסקתי להאזין?" closed="true" %}}
+{{% ls-details title="האם Evermusic זוכר היכן הפסקתי להאזין?" closed="true" %}}
 כן. הפעילו "שמירת מיקום השמעה" ו"שמירת מצב נגן שמע" ב-הגדרות > נגן שמע > כללי. האפליקציה שומרת ומשחזרת את המיקום המדויק שלכם בין הפעלות.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="האם אני יכול להתאים את מהירות השמעת ספרי שמע?" closed="true" %}}
+{{% ls-details title="האם אני יכול להתאים את מהירות השמעת ספרי שמע?" closed="true" %}}
 כן. עברו אל הגדרות > נגן שמע > מהירות השמעה כדי להגדיר את המהירות המועדפת עליכם. תוכלו להאיץ או להאט את הקריינות בהתאם להעדפות ההאזנה שלכם.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="כיצד להעביר ספרי שמע ל-Evermusic?" closed="true" %}}
+{{% ls-details title="כיצד להעביר ספרי שמע ל-Evermusic?" closed="true" %}}
 תוכלו להעביר קבצים דרך שיתוף קבצים של iTunes/Finder, WiFi Drive (מובנה באפליקציה) או על ידי חיבור חשבון אחסון ענן בתוך Evermusic.
-{{% /details %}}
+{{% /ls-details %}}

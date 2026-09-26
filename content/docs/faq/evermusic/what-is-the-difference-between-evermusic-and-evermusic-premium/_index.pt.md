@@ -62,7 +62,7 @@ O que difere entre o azul e o vermelho é **a forma como estão organizados na A
 
 ### Descarregar na App Store
 
-{{< app-details ids="885367198, 905746421, 1564384601" >}}
+{{< ls-app-details ids="885367198, 905746421, 1564384601" >}}
 
 ### Organização na App Store
 
@@ -142,7 +142,7 @@ A versão gratuita é ótima para ouvintes ocasionais, enquanto o Premium e o Pr
 
 ## Perguntas frequentes
 
-{{% details title="Comprei o Evermusic Pro (ou Premium) com uma Conta Apple antiga. Posso transferi-lo para uma nova Conta Apple?" closed="true" %}}
+{{% ls-details title="Comprei o Evermusic Pro (ou Premium) com uma Conta Apple antiga. Posso transferi-lo para uma nova Conta Apple?" closed="true" %}}
 De acordo com a documentação oficial da Apple, as compras de outra Conta Apple podem ser partilhadas através da Partilha com a Família / Partilha de Compras, desde que as contas estejam configuradas adequadamente dentro do mesmo grupo de Partilha com a Família.
 
 Se o Evermusic Pro foi comprado com a sua Conta Apple antiga, a Apple disponibiliza uma opção para utilizar essa conta como Conta Apple secundária para a Partilha de Compras.
@@ -202,30 +202,30 @@ Por isso, se configurar a Partilha com a Família da Apple com a conta antiga fo
 Tenha em atenção que a Partilha com a Família da Apple, a Partilha de Compras, as Contas Apple e o histórico de compras da App Store são geridos inteiramente pela Apple. Não temos acesso às Contas Apple dos utilizadores e não podemos transferir compras da App Store de uma Conta Apple para outra do nosso lado.
 
 Se tiver algum problema especificamente com a Partilha com a Família ou com o acesso à compra efetuada com a sua Conta Apple antiga, o Suporte da Apple terá de verificar a configuração das contas.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Já atualizei o Evermusic Free (azul) para Premium. Também preciso do Evermusic Pro (vermelho)?" closed="true" %}}
+{{% ls-details title="Já atualizei o Evermusic Free (azul) para Premium. Também preciso do Evermusic Pro (vermelho)?" closed="true" %}}
 Não. O Evermusic Pro (ícone vermelho) é a mesma aplicação que o Evermusic Free (ícone azul) com o Premium já desbloqueado. Se já atualizou a aplicação azul para Premium, tem tudo o que o Pro oferece, pelo que não é necessário instalar ou comprar a aplicação vermelha.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="A Partilha com a Família é suportada e quantas pessoas podem utilizar a minha compra?" closed="true" %}}
+{{% ls-details title="A Partilha com a Família é suportada e quantas pessoas podem utilizar a minha compra?" closed="true" %}}
 Sim. A Partilha com a Família funciona com todas as compras e subscrições do Evermusic, pelo que pode partilhar o Premium com até cinco membros da família. Ative a Partilha de Compras em Definições → Família no seu dispositivo. Cada membro da família descarrega a aplicação com a sua própria Conta Apple e obtém o Premium automaticamente.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Atualizei para Premium no meu iPhone, mas o meu Mac continua a mostrar a versão gratuita. Como resolvo isto?" closed="true" %}}
+{{% ls-details title="Atualizei para Premium no meu iPhone, mas o meu Mac continua a mostrar a versão gratuita. Como resolvo isto?" closed="true" %}}
 O Premium é partilhado entre o iPhone e o Mac através do iCloud. Primeiro, certifique-se de que ambos os dispositivos utilizam a mesma Conta Apple e têm o iCloud ativado. No seu iPhone, abra a versão mais recente do Evermusic e aguarde cerca de um minuto para que a sua compra seja carregada para o iCloud. Também pode tocar em Restaurar compras nas Definições. Em seguida, abra a versão mais recente no seu Mac, ligue-se à Internet e aguarde cerca de um minuto. O Premium deverá ativar-se sozinho.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Como restauro a minha compra num novo dispositivo?" closed="true" %}}
+{{% ls-details title="Como restauro a minha compra num novo dispositivo?" closed="true" %}}
 Abra as Definições na aplicação e toque em Restaurar compras. Verá as suas compras e o Premium será reativado. Se faltar alguma compra, certifique-se de que o dispositivo utiliza a mesma Conta Apple com que a comprou e de que o iCloud está ativado.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Se instalar o Evermusic Pro (vermelho), este desbloqueia o Premium no Evermusic Free (azul)?" closed="true" %}}
+{{% ls-details title="Se instalar o Evermusic Pro (vermelho), este desbloqueia o Premium no Evermusic Free (azul)?" closed="true" %}}
 Sim. Se instalar o Evermusic Pro vermelho num dispositivo, o Evermusic Free azul no mesmo dispositivo deteta-o e ativa o Premium automaticamente. Não precisa de comprar o Premium novamente na aplicação azul. Só precisa de manter a aplicação vermelha instalada.
 
 Não funciona ao contrário. Comprar o Premium dentro da aplicação azul não torna o Evermusic Pro vermelho gratuito, porque são aplicações separadas na App Store. As compras nas aplicações azuis sincronizam através do iCloud entre a aplicação azul do iPhone e a aplicação azul do Mac.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Posso utilizar o Premium num Mac Intel?" closed="true" %}}
+{{% ls-details title="Posso utilizar o Premium num Mac Intel?" closed="true" %}}
 Sim. Utilize a aplicação azul Evermusic Free e atualize para Premium. A aplicação azul para Mac funciona tanto em Macs com Apple Silicon como em Macs Intel. O Evermusic Pro vermelho funciona apenas em Macs com Apple Silicon (M1 e posteriores) e não pode ser instalado em Macs Intel.
-{{% /details %}}
+{{% /ls-details %}}

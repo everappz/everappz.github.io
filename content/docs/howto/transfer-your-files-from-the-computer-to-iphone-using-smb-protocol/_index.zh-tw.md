@@ -7,7 +7,7 @@ tags: ["cloud", "streaming", "computer", "mp3", "file", "downloader", "manager",
 keywords: ["傳輸檔案到iPhone SMB", "在iPhone上串流PC音樂", "Mac連接iPhone SMB", "Evermusic SMB設定", "存取電腦檔案iPhone", "Windows音樂共享iOS", "SMB檔案傳輸Evermusic"]
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **摘要：** 在iPhone或iPad上使用Evermusic，透過SMB在本地網路上存取儲存在Mac或Windows PC上的檔案。無需傳輸線、無需iTunes、無需上傳到雲端。在電腦上啟用檔案共享，在應用程式中連接，即可無線瀏覽或播放檔案。
@@ -142,26 +142,26 @@ keywords: ["傳輸檔案到iPhone SMB", "在iPhone上串流PC音樂", "Mac連接
 
 ## 常見問題
 
-{{% details title="我可以不用iTunes從iPhone存取PC上的檔案嗎？" closed="true" %}}
+{{% ls-details title="我可以不用iTunes從iPhone存取PC上的檔案嗎？" closed="true" %}}
 可以。Evermusic透過本地Wi-Fi網路上的SMB連接到您的電腦。不需要iTunes或Finder同步。在PC上啟用檔案共享，直接從應用程式連接即可。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="SMB檔案存取可以透過網際網路運作嗎？" closed="true" %}}
+{{% ls-details title="SMB檔案存取可以透過網際網路運作嗎？" closed="true" %}}
 不可以。SMB是本地網路協議。您的iPhone和電腦必須在同一個Wi-Fi網路上。要遠端存取，請將檔案上傳到Google Drive或Dropbox等雲端服務，然後在Evermusic中連接。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="我可以透過SMB存取哪些檔案類型？" closed="true" %}}
+{{% ls-details title="我可以透過SMB存取哪些檔案類型？" closed="true" %}}
 Evermusic支援MP3、FLAC、AAC、WAV、AIFF、OGG、WMA、ALAC和其他音訊格式。您還可以使用內建檔案管理器瀏覽和管理非音訊檔案。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="我可以使用SMB將檔案從NAS傳輸到iPhone嗎？" closed="true" %}}
+{{% ls-details title="我可以使用SMB將檔案從NAS傳輸到iPhone嗎？" closed="true" %}}
 可以。大多數NAS裝置（Synology、QNAP、WD My Cloud等）都支援SMB。使用本指南中的相同步驟連接到您的NAS。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="我需要將檔案複製到iPhone才能播放嗎？" closed="true" %}}
+{{% ls-details title="我需要將檔案複製到iPhone才能播放嗎？" closed="true" %}}
 不需要。Evermusic透過網路直接從您的電腦或NAS串流檔案。除非您選擇下載檔案進行離線播放，否則檔案不會複製到iPhone。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="SMB檔案共享安全嗎？" closed="true" %}}
+{{% ls-details title="SMB檔案共享安全嗎？" closed="true" %}}
 SMB檔案共享僅在本地網路上運作。其他網路上的裝置無法存取您的共享資料夾。為了額外安全，請使用使用者名稱和密碼而不是匿名（所有人）存取。
-{{% /details %}}
+{{% /ls-details %}}

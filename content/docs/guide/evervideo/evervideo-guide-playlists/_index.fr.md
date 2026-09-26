@@ -19,7 +19,7 @@ Dans la section Listes de lecture, vous trouverez des outils utiles pour gérer 
 Les listes de lecture dans Evervideo peuvent contenir un mélange de vidéos cloud en ligne, de fichiers téléchargés hors ligne, de fichiers locaux, de vidéos de la bibliothèque Photos et de vidéos de la bibliothèque iOS Music — toutes dans une seule liste de lecture — et se lisent parfaitement ensemble.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Listes de lecture Evervideo dans la médiathèque" image="/docs/guide/evervideo/img/evervideo-playlists-in-media-library.webp" >}}
+  {{< ls-card title="" subtitle="Listes de lecture Evervideo dans la médiathèque" image="/docs/guide/evervideo/img/evervideo-playlists-in-media-library.webp" >}}
 {{< /cards >}}
 
 ## Créer une liste de lecture

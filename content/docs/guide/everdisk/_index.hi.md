@@ -28,19 +28,19 @@ Everdisk मुफ़्त में डाउनलोड किया जा 
 
 
 {{< cards >}}
-  {{< card icon="play" title="शेयरिंग" subtitle="Start पर टैप करें, चुनें कि क्या शेयर करना है, और एक साथ पांचों सर्वर चलाएँ। शेयरिंग स्क्रीन को शुरू से अंत तक समझें।" link="/docs/guide/everdisk/everdisk-guide-sharing" >}}
+  {{< ls-card icon="play" title="शेयरिंग" subtitle="Start पर टैप करें, चुनें कि क्या शेयर करना है, और एक साथ पांचों सर्वर चलाएँ। शेयरिंग स्क्रीन को शुरू से अंत तक समझें।" link="/docs/guide/everdisk/everdisk-guide-sharing" >}}
 
-  {{< card icon="desktop-computer" title="अपने डिवाइस जोड़ें" subtitle="कैसे एक TV, एक Mac या PC, एक वेब ब्राउज़र, दूसरा फ़ोन, या एक USB केबल आपकी शेयर की गई फ़ाइलों से जुड़ता है।" link="/docs/guide/everdisk/everdisk-guide-connect" >}}
+  {{< ls-card icon="desktop-computer" title="अपने डिवाइस जोड़ें" subtitle="कैसे एक TV, एक Mac या PC, एक वेब ब्राउज़र, दूसरा फ़ोन, या एक USB केबल आपकी शेयर की गई फ़ाइलों से जुड़ता है।" link="/docs/guide/everdisk/everdisk-guide-connect" >}}
 
-  {{< card icon="server" title="सर्वरों से जुड़ें" subtitle="अपने नेटवर्क पर मौजूद दूसरे DLNA, WebDAV, FTP, SFTP और SMB सर्वरों और NAS ड्राइव तक पहुँचें और ब्राउज़, स्ट्रीम व डाउनलोड करें।" link="/docs/guide/everdisk/everdisk-guide-devices" >}}
+  {{< ls-card icon="server" title="सर्वरों से जुड़ें" subtitle="अपने नेटवर्क पर मौजूद दूसरे DLNA, WebDAV, FTP, SFTP और SMB सर्वरों और NAS ड्राइव तक पहुँचें और ब्राउज़, स्ट्रीम व डाउनलोड करें।" link="/docs/guide/everdisk/everdisk-guide-devices" >}}
 
-  {{< card icon="folder" title="फ़ाइलें और दस्तावेज़" subtitle="ब्राउज़ करें, फ़ोल्डर बनाएँ, नाम बदलें, मूव, कॉपी और डिलीट करें, zip और unzip करें, बाहरी फ़ोल्डर जोड़ें, और PDF में स्कैन करें।" link="/docs/guide/everdisk/everdisk-guide-files" >}}
+  {{< ls-card icon="folder" title="फ़ाइलें और दस्तावेज़" subtitle="ब्राउज़ करें, फ़ोल्डर बनाएँ, नाम बदलें, मूव, कॉपी और डिलीट करें, zip और unzip करें, बाहरी फ़ोल्डर जोड़ें, और PDF में स्कैन करें।" link="/docs/guide/everdisk/everdisk-guide-files" >}}
 
-  {{< card icon="music-note" title="फ़ोटो, म्यूज़िक और वीडियो" subtitle="अपनी पूरी फ़ोटो और म्यूज़िक लाइब्रेरी शेयर करें, मिनी प्लेयर में ऑडियो चलाएँ, और वीडियो को फ़ुल स्क्रीन देखें।" link="/docs/guide/everdisk/everdisk-guide-media" >}}
+  {{< ls-card icon="music-note" title="फ़ोटो, म्यूज़िक और वीडियो" subtitle="अपनी पूरी फ़ोटो और म्यूज़िक लाइब्रेरी शेयर करें, मिनी प्लेयर में ऑडियो चलाएँ, और वीडियो को फ़ुल स्क्रीन देखें।" link="/docs/guide/everdisk/everdisk-guide-media" >}}
 
-  {{< card icon="lock-closed" title="एक्सेस और प्राइवेसी" subtitle="शेयरिंग को लॉगिन और पासवर्ड से सुरक्षित करें, एडिटिंग की अनुमति दें या रोकें, डिवाइस ब्लॉक करें, और सब कुछ लोकल रखें।" link="/docs/guide/everdisk/everdisk-guide-access" >}}
+  {{< ls-card icon="lock-closed" title="एक्सेस और प्राइवेसी" subtitle="शेयरिंग को लॉगिन और पासवर्ड से सुरक्षित करें, एडिटिंग की अनुमति दें या रोकें, डिवाइस ब्लॉक करें, और सब कुछ लोकल रखें।" link="/docs/guide/everdisk/everdisk-guide-access" >}}
 
-  {{< card icon="adjustments" title="सेटिंग्स" subtitle="हर सेटिंग का ब्योरा: डिवाइस प्रोफ़ाइल, कनेक्शन, फ़ोटो और वीडियो क्वालिटी, पोर्ट, ट्रांसफ़र, और बहुत कुछ।" link="/docs/guide/everdisk/everdisk-guide-settings" >}}
+  {{< ls-card icon="adjustments" title="सेटिंग्स" subtitle="हर सेटिंग का ब्योरा: डिवाइस प्रोफ़ाइल, कनेक्शन, फ़ोटो और वीडियो क्वालिटी, पोर्ट, ट्रांसफ़र, और बहुत कुछ।" link="/docs/guide/everdisk/everdisk-guide-settings" >}}
 
-  {{< card icon="question-mark-circle" title="FAQ" subtitle="सबसे आम सवालों और असल दुनिया की स्थितियों के त्वरित जवाब।" link="/docs/faq/everdisk" >}}
+  {{< ls-card icon="question-mark-circle" title="FAQ" subtitle="सबसे आम सवालों और असल दुनिया की स्थितियों के त्वरित जवाब।" link="/docs/faq/everdisk" >}}
 {{< /cards >}}

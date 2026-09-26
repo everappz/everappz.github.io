@@ -16,16 +16,16 @@ screenshots:
   - "https://everappz.com/products/evervideo/screenshots/2880x1800/6.png"
 ---
 
-{{% sr-only %}}
+{{% ls-sr-only %}}
 Evervideo on ilmainen HD-videosoitin iPhonelle ja Macille, jonka on kehittänyt Everappz, espanjalainen ohjelmistoyritys. Evervideo toistaa lähes kaikkia videomuotoja, mukaan lukien MKV, AVI, MP4, MOV, FLV, WMV, WEBM, M4V, TS ja 3GP ilman formaattimuunnosta. Sovellus tarjoaa 360 asteen ja VR-videotoiston, Picture-in-Picture-tilan, video- ja äänitaajuuskorjaimen yli 50 esiasetuksella, tekstitystuen SRT-, SSA- ja ASS-muodoille sekä toistonopeuden säädön. Evervideo yhdistää pilvitallennuspalveluihin, mukaan lukien iCloud Drive, Google Drive, Dropbox, OneDrive ja MEGA, jolloin käyttäjät voivat suoratoistaa videoita suoraan pilvestä tai ladata ne offline-katselua varten. Sovellus tukee myös paikallisen verkon suoratoistoa SMB-, WebDAV- ja DLNA-protokollien kautta, USB-muistitikun toistoa Lightning- tai USB-C-sovittimilla ja Wi-Fi-tiedostonsiirtoa tietokoneelta. Lisäominaisuuksiin kuuluvat mediakirjasto soittolistoilla, AirPlay- ja Chromecast-suoratoisto sekä sisäänrakennettu tiedostonhallinta. Evervideo on saatavilla ilmaiseksi App Storesta valinnaisilla sovelluksen sisäisillä ostoilla, joihin kuuluvat kuukausitilaus hintaan $2.99, vuositilaus hintaan $14.99 tai kertaluonteinen elinikäinen osto hintaan $29.99.
-{{% /sr-only %}}
+{{% /ls-sr-only %}}
 
 
 
 <!-- force dark theme for this page -->
-{{< force-dark >}}
+{{< ls-force-dark >}}
 
-{{< hextra/hero-container
+{{< ls-hero-container
   image="/products/evervideo/heroimage/hero_1600.png"
   imageWidth="800"
   imageCard="true"
@@ -33,38 +33,38 @@ Evervideo on ilmainen HD-videosoitin iPhonelle ja Macille, jonka on kehittänyt 
 
 <div class="hx:w-full hx:text-center">
 
-{{< downloads-badge >}}
+{{< ls-downloads-badge >}}
 
 <div class="hx:mt-6 hx:mb-6">
 <div class="hx:flex hx:gap-4 hx:items-center hx:justify-center">
-{{< app-icon src="/images/app_icons/png/Evervideo_Icon-App-1024x1024.png" alt="Evervideo Icon" class="hero-headline-icon" size="80" >}}
-{{< hextra/hero-headline >}}
+{{< ls-app-icon src="/images/app_icons/png/Evervideo_Icon-App-1024x1024.png" alt="Evervideo Icon" class="hero-headline-icon" size="80" >}}
+{{< ls-hero-headline >}}
 Evervideo
-{{< /hextra/hero-headline >}}
+{{< /ls-hero-headline >}}
 </div>
 </div>
 
 <div class="hx:mb-12">
-{{< hextra/hero-centered-subtitle >}}
+{{< ls-hero-centered-subtitle >}}
 <strong>HD-videosoitin ja suoratoistin iPhonellesi ja MACille</strong>
-{{< /hextra/hero-centered-subtitle >}}
+{{< /ls-hero-centered-subtitle >}}
 </div>
 
 
 <div class="hx:mb-6">
-{{< hextra/hero-paragraph >}}
+{{< ls-hero-paragraph >}}
 • Katso 360° ja teräväpiirtovideoita kaikissa muodoissa<br>
 • Suoratoista iCloudista, Google Drivesta, Dropboxista, NAS:sta tai tietokoneeltasi<br>
 • Lataa videoita katsottavaksi offline milloin tahansa, missä tahansa<br>
 • Ota tekstitykset käyttöön, käytä videotaajuuskorjainta ja järjestä videot soittolistoilla
-{{< /hextra/hero-paragraph >}}
+{{< /ls-hero-paragraph >}}
 </div>
 
-{{< app-store-badges products="evervideo:ios, evervideo:macos" >}}
+{{< ls-app-store-badges products="evervideo:ios, evervideo:macos" >}}
 
 </div>
 
-{{< /hextra/hero-container >}}
+{{< /ls-hero-container >}}
 
 <div class="hx:mt-6"></div>
 
@@ -72,42 +72,42 @@ Evervideo
 
 {{< hextra/feature-grid >}}
 
-  {{< hextra/feature-card
+  {{< ls-glass-feature-card
     title="Toista kaikki video- ja äänimuodot"
     subtitle=`Katso videoitasi ja kuuntele musiikkia ilman tiedostojen muuntamista. Tukee MP4, MOV, MKV, AVI, FLV, WMV, WEBM, M4V, MP3, FLAC, AAC, ALAC, OGG, OPUS, WAV, WMA ja muita.`
     icon="film"
     style="background: radial-gradient(circle at 50% 80%, rgba(255,99,71,0.15), rgba(17,24,39,0));"  
   >}}
 
-  {{< hextra/feature-card
+  {{< ls-glass-feature-card
     title="Mediakirjasto ja soittolistat"
     subtitle=`Järjestä mediakirjasto kappaleilla ryhmitettynä albumin, genren tai keston mukaan. Synkronoi automaattisesti pilvimuutosten kanssa. Luo, muokkaa ja vie M3U-soittolistoja mukautetulla lajittelulla.`
     icon="collection"
     style="background: radial-gradient(circle at 50% 80%, rgba(255,165,0,0.15), rgba(17,24,39,0));"  
   >}}
 
-  {{< hextra/feature-card
+  {{< ls-glass-feature-card
     title="Ääni- ja videotaajuuskorjain"
     subtitle=`Mukauta videoidesi ulkoasua ja ääntä säätämällä bassoa, sävelkorkeutta, kirkkautta, gammaa, kylläisyyttä, kontrastia ja muuta, yli 50 videoesiasetuksella ja yli 20 ääniesiasetuksella tai mahdollisuudella luoda omia.`
     icon="adjustments"
     style="background: radial-gradient(circle at 50% 80%, rgba(255,255,0,0.15), rgba(17,24,39,0));" 
   >}}
 
-  {{< hextra/feature-card
+  {{< ls-glass-feature-card
     title="Kuva kuvassa"
     subtitle=`Kuva kuvassa (PiP) antaa sinun jatkaa videoiden katselua pienessä kelluvassa ikkunassa käyttäessäsi muita sovelluksia, täydellä tuella kaikille päämuodoille kuten MKV, AVI, MP4 ja MOV, saumattomilla videosiirtymillä jonossa, automaattisilla toistopäivityksillä ja aktiivisilla tekstityksillä aina näkyvillä.`
     icon="duplicate"
     style="background: radial-gradient(circle at 50% 80%, rgba(0,128,0,0.15), rgba(17,24,39,0));" 
   >}}
 
-  {{< hextra/feature-card
+  {{< ls-glass-feature-card
     title="360° video ja VR-tila"
     subtitle=`Koe 360° ja VR-videot kuten ei koskaan ennen — liikuta puhelintasi tutkiaksesi joka kulmaa tai uppoudu täysin VR-laseilla täydelliseen immersioon. Toista 360°-videoita välittömästi Insta360-kameroista ja vastaavista laitteista sulavalla, vaivattomalla toistolla ilman asetuksia.`
     icon="video-camera"
     style="background: radial-gradient(circle at 50% 80%, rgba(0,191,255,0.15), rgba(17,24,39,0));"  
   >}}
 
-  {{< hextra/feature-card
+  {{< ls-glass-feature-card
     title="Saumaton suoratoisto ja pilviyhteys"
     subtitle=`Suoratoista videoita suoraan Maciltasi, PC:ltä, NAS:sta, USB-muistitikulta tai pilvitallennustilasta ja siirrä mediatiedostoja Wi-Fi Driven tai iTunes-tiedostonjaon avulla. Nauti täydestä pääsystä koko videokirjastoosi missä tahansa, jopa etänä, Synology Driven, WD My Cloud Homen ja vastaavien NAS-laitteiden kautta.`
     icon="cloud"
@@ -120,9 +120,9 @@ Evervideo
 
 <div class="hx:mt-6"></div>
 
-{{< hextra/section-headline >}}
+{{< ls-section-headline >}}
 Kaikki ominaisuudet
-{{< /hextra/section-headline >}}
+{{< /ls-section-headline >}}
 
 <div class="hx:mt-6"></div>
 
@@ -130,35 +130,35 @@ Kaikki ominaisuudet
 
 {{< cards >}}
 
-{{< feature-card title="Toista kaikki video- ja äänimuodot" subtitle="Katso mediaasi ilman tiedostojen muuntamista. Evervideo tukee kaikkia päämuotoja, mukaan lukien MKV, AVI, MP4, MOV, FLAC, MP3, AAC, OGG, WAV, WMV ja muut." icon="film">}}
+{{< ls-feature-card title="Toista kaikki video- ja äänimuodot" subtitle="Katso mediaasi ilman tiedostojen muuntamista. Evervideo tukee kaikkia päämuotoja, mukaan lukien MKV, AVI, MP4, MOV, FLAC, MP3, AAC, OGG, WAV, WMV ja muut." icon="film">}}
 
-{{< feature-card title="Offline-tila" subtitle="Lataa videoita, albumeita ja soittolistoja katsottavaksi ilman internet-yhteyttä. Ota koko videokirjastosi mukaasi minne tahansa." icon="download">}}
+{{< ls-feature-card title="Offline-tila" subtitle="Lataa videoita, albumeita ja soittolistoja katsottavaksi ilman internet-yhteyttä. Ota koko videokirjastosi mukaasi minne tahansa." icon="download">}}
 
-{{< feature-card title="360° video ja VR-tila" subtitle="Katso 360° ja VR-videoita hauskalla ja helpolla tavalla. Liikuta puhelintasi katsoaksesi mihin tahansa suuntaan tai aseta se VR-laseihin tunteaksesi olevasi videon sisällä." icon="video-camera">}}
+{{< ls-feature-card title="360° video ja VR-tila" subtitle="Katso 360° ja VR-videoita hauskalla ja helpolla tavalla. Liikuta puhelintasi katsoaksesi mihin tahansa suuntaan tai aseta se VR-laseihin tunteaksesi olevasi videon sisällä." icon="video-camera">}}
 
-{{< feature-card title="Kuva kuvassa" subtitle="Jatka videoiden katselua pienessä kelluvassa ikkunassa käyttäessäsi muita sovelluksia. Hallitse toistoa ja näe tekstitykset samaan aikaan — täydellinen moniajoon." icon="duplicate">}}
+{{< ls-feature-card title="Kuva kuvassa" subtitle="Jatka videoiden katselua pienessä kelluvassa ikkunassa käyttäessäsi muita sovelluksia. Hallitse toistoa ja näe tekstitykset samaan aikaan — täydellinen moniajoon." icon="duplicate">}}
 
-{{< feature-card title="Video- ja äänitaajuuskorjain" subtitle="Mukauta videoidesi ulkoasua ja ääntä. Säädä bassoa, sävelkorkeutta, kirkkautta, gammaa, kylläisyyttä, kontrastia ja muuta. Valitse yli 50 videoesiasetuksesta ja yli 20 ääniesiasetuksesta tai luo omasi." icon="adjustments">}}
+{{< ls-feature-card title="Video- ja äänitaajuuskorjain" subtitle="Mukauta videoidesi ulkoasua ja ääntä. Säädä bassoa, sävelkorkeutta, kirkkautta, gammaa, kylläisyyttä, kontrastia ja muuta. Valitse yli 50 videoesiasetuksesta ja yli 20 ääniesiasetuksesta tai luo omasi." icon="adjustments">}}
 
-{{< feature-card title="Tekstitykset" subtitle="Näytä upotetut tekstitykset, valitse tekstitysraidan numero ja nauti täydestä tekstitystuesta myös Kuva kuvassa -tilassa." icon="annotation" >}}
+{{< ls-feature-card title="Tekstitykset" subtitle="Näytä upotetut tekstitykset, valitse tekstitysraidan numero ja nauti täydestä tekstitystuesta myös Kuva kuvassa -tilassa." icon="annotation" >}}
 
-{{< feature-card title="Toista suoraan pilvestä" subtitle="Katso videoita suoraan pilvitallennustilastasi käyttämättä laitteen tilaa. Tukee iCloud Drivea, Google Drivea, Dropboxia, OneDrivea, MEGAa, Synology Drivea, pCloudia ja muita." icon="cloud">}}
+{{< ls-feature-card title="Toista suoraan pilvestä" subtitle="Katso videoita suoraan pilvitallennustilastasi käyttämättä laitteen tilaa. Tukee iCloud Drivea, Google Drivea, Dropboxia, OneDrivea, MEGAa, Synology Drivea, pCloudia ja muita." icon="cloud">}}
 
-{{< feature-card title="Yhdistä tietokone / NAS" subtitle="Yhdistä helposti NAS, Mac tai PC kotiverkossasi käyttäen SMB:tä, WebDAV:ia tai DLNA:ta. Etäyhteys tuetaan Synology Drivelle ja WD MyCloud Homelle. Siirrä mediatiedostoja laitteeseesi Wi-Fin tai iTunes-tiedostonjaon kautta." icon="desktop-computer">}}
+{{< ls-feature-card title="Yhdistä tietokone / NAS" subtitle="Yhdistä helposti NAS, Mac tai PC kotiverkossasi käyttäen SMB:tä, WebDAV:ia tai DLNA:ta. Etäyhteys tuetaan Synology Drivelle ja WD MyCloud Homelle. Siirrä mediatiedostoja laitteeseesi Wi-Fin tai iTunes-tiedostonjaon kautta." icon="desktop-computer">}}
 
-{{< feature-card title="Mediakirjasto" subtitle="Järjestä albumin, genren tai keston mukaan. Synkronoi automaattisesti pilvimuutosten kanssa. Luo, muokkaa ja vie M3U-soittolistoja mukautetulla lajittelulla." icon="library" >}}
+{{< ls-feature-card title="Mediakirjasto" subtitle="Järjestä albumin, genren tai keston mukaan. Synkronoi automaattisesti pilvimuutosten kanssa. Luo, muokkaa ja vie M3U-soittolistoja mukautetulla lajittelulla." icon="library" >}}
 
-{{< feature-card title="Kirjanmerkit ja toiston sijainnin tallennus" subtitle="Tallenna paikkasi missä tahansa videossa kirjanmerkeillä ja jatka toistoa siitä, mihin jäit. Säädä toistonopeutta, merkitse suosikit ja lajittele videot eniten toistettujen mukaan helppoa pääsyä varten." icon="book-open">}}
+{{< ls-feature-card title="Kirjanmerkit ja toiston sijainnin tallennus" subtitle="Tallenna paikkasi missä tahansa videossa kirjanmerkeillä ja jatka toistoa siitä, mihin jäit. Säädä toistonopeutta, merkitse suosikit ja lajittele videot eniten toistettujen mukaan helppoa pääsyä varten." icon="book-open">}}
 
-{{< feature-card title="AirPlay ja Chromecast" subtitle="Toista videoita isommalla näytöllä suoratoistamalla Apple TV:hen, Chromecastiin tai mihin tahansa yhteensopivaan ulkoiseen näyttöön." icon="device-mobile">}}
+{{< ls-feature-card title="AirPlay ja Chromecast" subtitle="Toista videoita isommalla näytöllä suoratoistamalla Apple TV:hen, Chromecastiin tai mihin tahansa yhteensopivaan ulkoiseen näyttöön." icon="device-mobile">}}
 
-{{< feature-card title="Tuo tiedostoista ja kirjastoista" subtitle="Tuo videoita suoraan Tiedostot-sovelluksesta, Kuvista tai iTunes-kirjastostasi. Pääse kaikkeen paikalliseen ja pilvisisältöösi yhdessä järjestetyssä mediakirjastossa." icon="database">}}
+{{< ls-feature-card title="Tuo tiedostoista ja kirjastoista" subtitle="Tuo videoita suoraan Tiedostot-sovelluksesta, Kuvista tai iTunes-kirjastostasi. Pääse kaikkeen paikalliseen ja pilvisisältöösi yhdessä järjestetyssä mediakirjastossa." icon="database">}}
 
-{{< feature-card title="Tiedostonhallinta" subtitle="Siirrä, nimeä uudelleen, poista ja järjestä tiedostoja suoraan sovelluksessa." icon="folder">}}
+{{< ls-feature-card title="Tiedostonhallinta" subtitle="Siirrä, nimeä uudelleen, poista ja järjestä tiedostoja suoraan sovelluksessa." icon="folder">}}
 
-{{< feature-card title="Mukauttaminen" subtitle="Mukauta sovellus mieltymystesi mukaan. Valitse teemoja, näytä tai piilota ominaisuuksia ja säädä käyttöliittymää tarpeidesi mukaan." icon="sun">}}
+{{< ls-feature-card title="Mukauttaminen" subtitle="Mukauta sovellus mieltymystesi mukaan. Valitse teemoja, näytä tai piilota ominaisuuksia ja säädä käyttöliittymää tarpeidesi mukaan." icon="sun">}}
 
-{{< feature-card title="Älyhaku" subtitle="Löydä nopeasti videoita, albumeita tai soittolistoja mediakirjastostasi avainsanoilla tai suodattimilla." icon="search" >}}
+{{< ls-feature-card title="Älyhaku" subtitle="Löydä nopeasti videoita, albumeita tai soittolistoja mediakirjastostasi avainsanoilla tai suodattimilla." icon="search" >}}
 
 
 
@@ -168,9 +168,9 @@ Kaikki ominaisuudet
 
 <div class="hx:mt-6"></div>
 
-{{< hextra/section-headline >}}
+{{< ls-section-headline >}}
 Intuitiivinen muotoilu
-{{< /hextra/section-headline >}}
+{{< /ls-section-headline >}}
 
 <div class="hx:mt-6"></div>
 
@@ -178,7 +178,7 @@ Intuitiivinen muotoilu
 
 {{< cards cols="4">}}
 
-  {{< design-feature-card 
+  {{< ls-design-feature-card 
     image="/products/evervideo/screenshots/2880x1800/1.png" 
     title="Videosoitin" 
     method="Fill"
@@ -187,7 +187,7 @@ Intuitiivinen muotoilu
     icon="play"
   >}}
 
-  {{< design-feature-card 
+  {{< ls-design-feature-card 
     image="/products/evervideo/screenshots/2880x1800/3.png" 
     title="Ääni- ja videotaajuuskorjain" 
     method="Fill"
@@ -196,7 +196,7 @@ Intuitiivinen muotoilu
     icon="adjustments"
   >}}
 
-  {{< design-feature-card 
+  {{< ls-design-feature-card 
     image="/products/evervideo/screenshots/2880x1800/6.png" 
     title="Soittolistojen hallinta" 
     method="Fill"
@@ -205,7 +205,7 @@ Intuitiivinen muotoilu
     icon="collection"
   >}}
 
-  {{< design-feature-card 
+  {{< ls-design-feature-card 
     image="/products/evervideo/screenshots/2880x1800/5.png" 
     title="Mediakirjasto" 
     method="Fill"
@@ -214,7 +214,7 @@ Intuitiivinen muotoilu
     icon="library"
   >}}
 
-  {{< design-feature-card 
+  {{< ls-design-feature-card 
     image="/products/evervideo/screenshots/2880x1800/7.png"  
     title="Pilvitallennustila" 
     method="Fill"
@@ -223,7 +223,7 @@ Intuitiivinen muotoilu
     icon="cloud"
   >}}
 
-  {{< design-feature-card 
+  {{< ls-design-feature-card 
     image="/products/evervideo/screenshots/2880x1800/9.png"  
     title="Tiedostonhallinta" 
     method="Fill"
@@ -241,49 +241,49 @@ Intuitiivinen muotoilu
 <div class="hx:mt-6"></div>
 
 <div class="hx:w-full">
-{{< appstore-reviews apps="6602897336,6743504109" stars="5,4"  app="Evervideo" >}}
+{{< ls-appstore-reviews apps="6602897336,6743504109" stars="5,4"  app="Evervideo" >}}
 </div>
 
 
 <div class="hx:mt-6"></div>
 
-{{< hextra/section-headline >}}
+{{< ls-section-headline >}}
    Hinnoittelusuunnitelmat
-{{< /hextra/section-headline >}}
+{{< /ls-section-headline >}}
 
 <div class="hx:mt-6"></div>
 
 <div class="hx:w-full">
 
-{{< pricing-plans >}}
+{{< ls-pricing-plans >}}
 
 </div>
 
 <div class="hx:mt-6"></div>
 
 <div class="hx:w-full hx:mx-auto hx:flex hx:flex-col hx:items-center">
-  {{< hextra/info-paragraph border="true" >}}
+  {{< ls-info-paragraph border="true" >}}
    <strong>Perhejako</strong>: Kaikki ostokset ja tilaukset tukevat Perhejakoa, jotta voit jakaa Premium-käyttöoikeuden perheesi kanssa.<br><strong>Universaali pääsy</strong>: Elinikäiset ja tilaussuunnitelmat jaetaan iOS- ja Mac-laitteiden välillä iCloud-synkronoinnilla.<br><strong>Hinnat</strong>: Hinnat näytetään Yhdysvaltain dollareissa. Lopulliset hinnat voivat vaihdella alueesi mukaan.  
-  {{< /hextra/info-paragraph >}}
+  {{< /ls-info-paragraph >}}
 </div>
 
 <div class="hx:mt-6"></div>
 
 <div class="hx:w-full">
-{{< app-details heading="true" >}}
+{{< ls-app-details heading="true" >}}
 </div>
 
 <div class="hx:mt-6"></div>
 
-{{< hextra/section-headline >}}
+{{< ls-section-headline >}}
    Usein kysytyt kysymykset
-{{< /hextra/section-headline >}}
+{{< /ls-section-headline >}}
 
 <div class="hx:mt-6"></div>
 
 <div class="hx:w-full">
 
-{{% details title="Miten Evervideo toimii?" closed="true" %}}
+{{% ls-details title="Miten Evervideo toimii?" closed="true" %}}
 Evervideo on HD-videosoitin, joka antaa sinun hallita videoraitoja tavallisina tiedostoina.<br>
 Voit ladata koko videokirjastosi pilvipalveluihin kuten Dropbox, OneDrive, iCloud tai henkilökohtaiseen NAS:iin ja toistaa videoita suoraan pilvestä täydellä hallinnalla.<br><br>
 iTunes-synkronointia ei tarvita — lataa vain PC:ltä tai Macilta kuten minkä tahansa tiedoston.<br>
@@ -293,9 +293,9 @@ Tutustu oppaisiimme lisätietoja varten:<br>
 - [Evervideo-opas](/docs/guide/evervideo/)<br>
 - [Kuinka siirtää tiedostoja langattomasti tietokoneelta iPhoneen WiFi-Driven avulla.](/docs/howto/how-to-transfer-files-wirelessly-from-a-computer-to-an-iphone-using-wifi-drive)<br>
 
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Onko Evervideo ilmainen?" closed="true" %}}
+{{% ls-details title="Onko Evervideo ilmainen?" closed="true" %}}
 Evervideo on ilmainen käyttää joillakin rajoituksilla, jotka voidaan poistaa päivittämällä Premium-versioon.<br>
 Voit valita kertaluonteisen elinikäisen oston tai kaksi tilausvaihtoehtoa (kuukausittain tai vuosittain). Hinnat voivat vaihdella alueesi mukaan.<br><br>
 
@@ -304,9 +304,9 @@ Perhejako on käytössä kaikissa suunnitelmissa, joten voit jakaa Premium-versi
 Premium-ostokset ja -tilaukset jaetaan iOS:n ja Macin välillä iCloudin kautta. Synkronoidaksesi ostoksesi, varmista että iCloud on käytössä, avaa sovellus iOS-laitteellasi ja odota minuutti synkronoinnin valmistumista.<br><br>
 
 [Lue lisää Evervideo- ja Evervideo Premium -versioiden eroista](/docs/faq/evervideo/what-is-the-difference-between-evervideo-and-evervideo-premium/)
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Kuinka käytän Evervideoita?" closed="true" %}}
+{{% ls-details title="Kuinka käytän Evervideoita?" closed="true" %}}
 
 **Asenna Evervideo**<br>
 Lataa ja asenna Evervideo-sovellus laitteesi sovelluskaupasta. Se on saatavilla sekä iOS- että Mac-laitteille.<br><br>
@@ -355,9 +355,9 @@ Sinulla on kaksi vaihtoehtoa videon lisäämiseen Evervideooon: manuaalinen lis�
 **Nauti videostasi**<br>
 Kun videosi on järjestetty, käytä ylätyökalupalkkia pikatoimintoihin kuten **Haku**, **Toista kaikki**, **Satunnaistoisto** ja **Jatka toistoa**.<br><br>
 
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Onko Evervideo turvallinen?" closed="true" %}}
+{{% ls-details title="Onko Evervideo turvallinen?" closed="true" %}}
 Evervideo käyttää vain virallista SDK:ta ja suojattuja yhteyksiä yhdistettyjen pilvipalvelujen kanssa. Kirjautumistietosi ja salasanasi eivät ole sovelluksen saatavilla. Kaikki sovelluksen pyynnöt pilvipalveluun ovat salattuja.<br>
 Kun syötät kirjautumistiedot ja salasanan, sovellus näyttää pilvipalveluntarjoajan virallisen valtuutussivun ja koko valtuutusprosessi tapahtuu sovelluksen ulkopuolella. Pilvipalveluntarjoaja lähettää valtuutustokenin sovellukseen onnistuneen valtuutuksen jälkeen ja tätä tokenia käytetään API-kutsuihin.<br><br>
 
@@ -368,22 +368,22 @@ Hylätäksesi valtuutustokenin, kirjaudu tiliisi selaimessa ja siirry asetussivu
 
 Voit myös katkaista yhdistetyt pilvitilit sovelluksessa ja valtuutustoken poistetaan myös laitteestasi. Jos poistat sovelluksen laitteestasi, kaikki ladatut tiedot ja pääsytokenit poistetaan myös.<br><br>
 
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Kuinka luon soittolistan Evervideoissa?" closed="true" %}}
+{{% ls-details title="Kuinka luon soittolistan Evervideoissa?" closed="true" %}}
 - Avaa Soittolistat-osio.<br>
 - Napauta «+»-painiketta tai «...»-painiketta oikeassa yläkulmassa ja valitse «Uusi soittolista».<br>
 - Syötä soittolistan nimi ja napauta «Tallenna». «Lisää mediatiedostoja» -ikkuna tulee näkyviin.<br>
 - Valitse kappaleet, jotka haluat lisätä soittolistaan.<br><br>
 
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Mitä pilvipalveluita Evervideo tukee?" closed="true" %}}
+{{% ls-details title="Mitä pilvipalveluita Evervideo tukee?" closed="true" %}}
 Tällä hetkellä sovellus tukee suosituimpia pilvipalveluita: iCloud Drive, Google Drive, Dropbox, OneDrive, Box, MEGA, Yandex.Disk, DLNA, MediaFire, WebDAV, SMB, pCloud, Cloud Mail.ru, Put.io.<br><br>
 
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Kuinka otan offline-tilan käyttöön Evervideoissa?" closed="true" %}}
+{{% ls-details title="Kuinka otan offline-tilan käyttöön Evervideoissa?" closed="true" %}}
 - Yhdistä pilvitallennustilaan:<br>
  • Siirry «Tiedostot»-välilehteen.<br>
  • Valitse «Yhdistä pilvitallennustilaan» ja seuraa ohjeita haluamasi palvelun yhdistämiseksi.<br><br>
@@ -408,9 +408,9 @@ Tällä hetkellä sovellus tukee suosituimpia pilvipalveluita: iCloud Drive, Goo
  • Synkronoidaksesi manuaalisesti, siirry «Asetukset» > «Tiedostonhallinta» > «Offline-kansiot» > «Synkronoidut offline-kansiot».<br>
  • Napauta «Lisää toimintoja» ja valitse «Aloita synkronointi».<br><br>
 
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Kuinka toistaa paikallisesti ladattuja videoita iPhonella?" closed="true" %}}
+{{% ls-details title="Kuinka toistaa paikallisesti ladattuja videoita iPhonella?" closed="true" %}}
 Kun olet asentanut sovelluksen, avaa «Tiedostot»-näyttö ja vieritä alas «Tiedostot tässä iPhonessa» -osioon. Valitse sieltä «Avaa tiedostot...» jos sinun täytyy valita useita tiedostoja tai «Avaa kansio...» jos haluat valita mediakansion. Sovellus skannaa kansion sisällön ja kaikki löydetyt mediatiedostot valitaan. Siirry mediakansioon, napauta «Avaa» vahvistaaksesi valintasi ja tiedostot lisätään soittimen jonoon. Nämä tiedostot toistetaan suoraan valitusta sijainnista ilman kopiointia sovelluspakettiin.<br><br>
 
 **Kansion lisääminen suosikkeihin nopeaa pääsyä varten**<br>
@@ -422,13 +422,13 @@ Jos haluat järjestää paikalliset tiedostosi kirjastossasi, avaa «Kirjasto»-
 **Paikallisten tiedostojen lisääminen soittolistaan**<br>
 Lisätäksesi paikallisia tiedostoja soittolistaan, avaa «Soittolistat»-näyttö ja napauta lisää-painiketta oikeassa yläkulmassa. Valitse «+ Uusi soittolista», syötä nimi uudelle soittolistalle ja seuraavalla näytöllä valitse «Tiedostot tässä laitteessa» -vaihtoehto ja napauta «Avaa tiedostot...». Valitse lisättävät mediatiedostot ja napauta «Avaa» vahvistaaksesi. Tiedostot lisätään soittolistaasi, jossa voit muuttaa kappaleiden järjestystä ja suorittaa muita toimintoja lisää-painikkeella.<br><br>
 
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Kuinka voin jatkaa soittolistaa siitä, mihin jäin?" closed="true" %}}
+{{% ls-details title="Kuinka voin jatkaa soittolistaa siitä, mihin jäin?" closed="true" %}}
 Varmista ensin, että «Tallenna mediasoittimen tila» on käytössä kohdassa Asetukset > Mediasoitin > Yleiset. Kun vaihdat toiseen soittolistaan ja palaat, näet neljä toimintoa ylätyökalupalkissa albumin kansikuvan alla: «Haku», «Jatka toistoa», «Toista kaikki» ja «Satunnaistoisto». Napauta «Jatka toistoa» jatkaaksesi soittolistaa viimeksi tallennetusta tilasta ja mediapaikasta.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Kuinka siirrän videoita Evervideooon tietokoneeltani?" closed="true" %}}
+{{% ls-details title="Kuinka siirrän videoita Evervideooon tietokoneeltani?" closed="true" %}}
 Voit yhdistää tietokoneesi tai henkilökohtaisen NAS:si käyttäen SMB-, WebDAV- tai DLNA-protokollia. Vaihtoehtoisesti käytä iTunes-tiedostonjakoa mediatiedostojen siirtämiseen.<br><br>
 
 Yhdistääksesi tietokoneen SMB-protokollalla, napauta «Tiedostot» «Yhdistä pilvitallennustilaan» → SMB. Syötä tietokoneen IP-osoite ja jaetun kansion nimi URL-kenttään muodossa smb://tietokoneen-ip-osoite/jaetun-kansion-nimi, syötä käyttäjätunnus ja salasana ja napauta «Valmis». Jos yhteys onnistuu, näet yhdistetyn tallennustilan «Pilvitallennustila»-osiossa.<br><br>
@@ -447,9 +447,9 @@ iTunes-tiedostonjako on toinen teknologia, joka antaa sinun siirtää tiedostoja
 Yksityiskohtaiset ohjeet saatavilla täällä:<br>
 [Kuinka toistaa paikallisia tiedostoja (iTunes-tiedostoja) iPhonella](/docs/howto/how-to-play-local-itunes-files-on-my-iphone)<br><br>
 
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Kuinka ladata video?" closed="true" %}}
+{{% ls-details title="Kuinka ladata video?" closed="true" %}}
 Ennen kuin voit ladata videon ja katsoa sen offline, sinun on yhdistettävä pilvitallennustila.<br>
 Avaa vain «Tiedostot»-näyttö ja yhdistä pilvitallennustilasi.<br>
 Kun olet lisännyt sen, voit ladata videosi pilvestä.<br><br>
@@ -465,14 +465,14 @@ Kun olet lisännyt sen, voit ladata videosi pilvestä.<br><br>
 – Napauta «Offline-tila»-valintaruutua<br>
 – Offline Artisti/Albumi/Soittolista ilmestyy «Tiedostot» -> «Offline-kansiot» -osioon.<br><br>
 
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Mitä äänimuotoja Evervideo tukee?" closed="true" %}}
+{{% ls-details title="Mitä äänimuotoja Evervideo tukee?" closed="true" %}}
 Tämä sovellus tukee oletusarvoisia **järjestelmän äänikoodekkeja** ja lisä **ffmpeg-ohjelmistokoodekkeja**:<br><br>
 3g2, 3gp, 3gp2, 3gpp, 8svx, aa, aac, aax, ac3, act, adt, adts, aif, aifc, aiff, alac, amr, amv, ape, asf, au, avi, awb, caf, cavs, cdda, cue, dct, dff, drc, dsf, dss, dvf, "dvr-ms", ec3, f4a, f4b, f4p, f4v, flac, flv, gif, gifv, gsm, gxf, h261, h263, h264, ifv, iklax, ivf, ivs, l16, latm, loas, m2t, m2ts, m2v, m3u, m3u8, m4a, m4b, m4p, m4r, m4v, mka, mkv, mmf, mng, mod, mogg, mov, mp1, mp2, mp3, mp4, mp4v, mpa, mpc, mpe, mpeg, mpg, mpv, msv, mts, mxf, nsf, nsv, nut, oga, ogg, ogv, opus, pcm, pls, qt, ra, raw, rm, rmvb, roq, rv, sln, snd, svi, tod, tta, vob, voc, vox, vtt, w64, wav, wave, webm, wma, wmv, wv, xhe, xmv, y4m, yuv.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Toimiiko Evervideo NAS-laitteiden kanssa?" closed="true" %}}
+{{% ls-details title="Toimiiko Evervideo NAS-laitteiden kanssa?" closed="true" %}}
 
 Kyllä, Evervideo tukee NAS-yhteyksiä **SMB**-, **WebDAV**- ja **DLNA**-protokollilla.<br><br>
 
@@ -496,9 +496,9 @@ Jos yhteys onnistuu, näet NAS:si **Pilvitallennustila**-osiossa.<br><br>
 • Näyttää kaikki löydettävissä olevat NAS-laitteet paikallisverkossasi.<br>
 • Napauta laitteen nimeä yhdistääksesi ja syötä kirjautumistiedot tarvittaessa.<br><br>
 
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Kuinka käytän Wi-Fi Drive -ominaisuutta Evervideoissa?" closed="true" %}}
+{{% ls-details title="Kuinka käytän Wi-Fi Drive -ominaisuutta Evervideoissa?" closed="true" %}}
 
 **Langaton siirto työpöytäselaimella**<br>
 1. Käynnistä sovellus: Avaa Evervideo.<br>
@@ -523,39 +523,39 @@ Huomio: Varmista, että JavaScript on käytössä ja käytät uusinta selainvers
 
 [Lue lisää](/docs/howto/how-to-transfer-files-wirelessly-from-a-computer-to-an-iphone-using-wifi-drive)
 
-{{% /details %}}
+{{% /ls-details %}}
 
 </div>
 
 
 <div class="hx:mt-6"></div>
 
-{{< hextra/section-headline >}}
+{{< ls-section-headline >}}
   Käyttöopas
-{{< /hextra/section-headline >}}
+{{< /ls-section-headline >}}
 
 <div class="hx:mt-6"></div>
 
 <div class="hx:w-full">
 
 <div class="hx:w-full hx:mx-auto hx:flex hx:flex-col hx:items-center hx:text-center">
-  {{< hextra/info-paragraph border="false" >}}
+  {{< ls-info-paragraph border="false" >}}
   Tämä opas auttaa sinua saamaan parhaan irti Evervideosta iPhonella, iPadilla tai Macilla. Opettele suoratoistamaan videoita pilvitallennuksesta ja NAS-laitteilta, käyttämään Kuva kuvassa -tilaa, hallitsemaan tekstityksiä ja säätämään äänen ja kuvan taajuuskorjaimia. Evervideo antaa sinulle täyden hallinnan koko videokokoelmaasi mistä tahansa lähteestä yhdessä helppokäyttöisessä sovelluksessa.
-  {{< /hextra/info-paragraph >}}
+  {{< /ls-info-paragraph >}}
 </div>
 
 {{< cards >}}
-  {{< feature-card icon="location-marker" title="Navigointi" subtitle="Opi navigoimaan Evervideossa iPhonen välilehtipalkin tai iPadin ja Macin vasemman valikon avulla – mukaan lukien kompakti aina näkyvä videosoitin." link="/docs/guide/evervideo/evervideo-guide-navigation" >}}
+  {{< ls-feature-card icon="location-marker" title="Navigointi" subtitle="Opi navigoimaan Evervideossa iPhonen välilehtipalkin tai iPadin ja Macin vasemman valikon avulla – mukaan lukien kompakti aina näkyvä videosoitin." link="/docs/guide/evervideo/evervideo-guide-navigation" >}}
 
-  {{< feature-card icon="folder" title="Tiedostot" subtitle="Liitä pilvitilit, NAS-jaot, mediapalvelimet (Plex, Jellyfin, Emby, Subsonic, Navidrome), RTSP-suoratoistot ja paikalliset tiedostot yhteen yhtenäiseen välilehteen." link="/docs/guide/evervideo/evervideo-guide-files" >}}
+  {{< ls-feature-card icon="folder" title="Tiedostot" subtitle="Liitä pilvitilit, NAS-jaot, mediapalvelimet (Plex, Jellyfin, Emby, Subsonic, Navidrome), RTSP-suoratoistot ja paikalliset tiedostot yhteen yhtenäiseen välilehteen." link="/docs/guide/evervideo/evervideo-guide-files" >}}
 
-  {{< feature-card icon="library" title="Mediakirjasto" subtitle="Järjestä ja selaa videoitasi ja musiikkiasi albumin, genren, viimeksi toistettujen ja suosikkien mukaan – mukana myös iOS:n Kuvat-kirjasto ja Apple Music -kirjasto." link="/docs/guide/evervideo/evervideo-guide-video-library" >}}
+  {{< ls-feature-card icon="library" title="Mediakirjasto" subtitle="Järjestä ja selaa videoitasi ja musiikkiasi albumin, genren, viimeksi toistettujen ja suosikkien mukaan – mukana myös iOS:n Kuvat-kirjasto ja Apple Music -kirjasto." link="/docs/guide/evervideo/evervideo-guide-video-library" >}}
 
-  {{< feature-card icon="collection" title="Soittolistat" subtitle="Luo ja järjestä soittolistat videoille, musiikille, sarjoille tai kursseille ja tuo M3U / M3U8 / CUE -tiedostoja." link="/docs/guide/evervideo/evervideo-guide-playlists" >}}
+  {{< ls-feature-card icon="collection" title="Soittolistat" subtitle="Luo ja järjestä soittolistat videoille, musiikille, sarjoille tai kursseille ja tuo M3U / M3U8 / CUE -tiedostoja." link="/docs/guide/evervideo/evervideo-guide-playlists" >}}
 
-  {{< feature-card icon="play" title="Mediasoitin" subtitle="Hallitse toistoa, jonoa, Kuva kuvassa -tilaa, ääni- ja videoraitoja, ensisijaisia ja toissijaisia tekstityksiä sekä äänen ja kuvan taajuuskorjaimia." link="/docs/guide/evervideo/evervideo-guide-player" >}}
+  {{< ls-feature-card icon="play" title="Mediasoitin" subtitle="Hallitse toistoa, jonoa, Kuva kuvassa -tilaa, ääni- ja videoraitoja, ensisijaisia ja toissijaisia tekstityksiä sekä äänen ja kuvan taajuuskorjaimia." link="/docs/guide/evervideo/evervideo-guide-player" >}}
 
-  {{< feature-card icon="adjustments" title="Asetukset" subtitle="Mukauta Evervideon ulkoasu, dekooderi, taajuuskorjaimet, tekstitykset, widgetit, kieli, pääsykoodi, varmuuskopiointi ja suorituskykyasetukset." link="/docs/guide/evervideo/evervideo-guide-settings" >}}
+  {{< ls-feature-card icon="adjustments" title="Asetukset" subtitle="Mukauta Evervideon ulkoasu, dekooderi, taajuuskorjaimet, tekstitykset, widgetit, kieli, pääsykoodi, varmuuskopiointi ja suorituskykyasetukset." link="/docs/guide/evervideo/evervideo-guide-settings" >}}
 
 {{< /cards >}}
 

@@ -19,7 +19,7 @@ readingTime: 11
 Das Verwalten Ihrer Musikbibliothek ist mit Flacbox ein Kinderspiel, wo Sie mühelos alle Ihre Titel — lokale FLAC, ALAC, DSD, MP3, M4A, OGG, WMA, APE und Dutzende anderer Formate — in einer einzigen, durchsuchbaren Sammlung organisieren können. Sie haben zwei Optionen zum Aufbau Ihrer Musikbibliothek: manuelle Hinzufügung oder automatische Synchronisation.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox Musikbibliothek Albenansicht" image="/docs/guide/flacbox/img/media-library-albums.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox Musikbibliothek Albenansicht" image="/docs/guide/flacbox/img/media-library-albums.webp" >}}
 {{< /cards >}}
 
 ## Manuelle Hinzufügung
@@ -27,7 +27,7 @@ Das Verwalten Ihrer Musikbibliothek ist mit Flacbox ein Kinderspiel, wo Sie müh
 Um Titel manuell hinzuzufügen, tippen Sie auf das **Musik hinzufügen**-Symbol oben links und wählen Sie Ordner oder Dateien aus einem verbundenen Cloud-Speicherdienst oder Dateien auf Ihrem Gerät aus. Beim Hinzufügen von Titeln werden nur Links zu diesen Titeln erstellt — die eigentlichen Dateien verbleiben an ihren ursprünglichen Speicherorten.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox Songs zur Musikbibliothek hinzufügen" image="/docs/guide/flacbox/img/library-add-songs.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox Songs zur Musikbibliothek hinzufügen" image="/docs/guide/flacbox/img/library-add-songs.webp" >}}
 {{< /cards >}}
 
 Sie können auf der Mac-Version auch Dateien per Drag-and-Drop in die Bibliothek ziehen oder auf iPhone und iPad **Dateien öffnen…** / **Ordner öffnen…** aus der Systemdateiauswahl verwenden.
@@ -89,7 +89,7 @@ Die obere Symbolleiste bietet mehrere praktische Aktionen: Suchen, Alle abspiele
 Die Suchfunktion ermöglicht es Ihnen, einen bestimmten Titel, Künstler, Album oder Genre in Ihrer Musikbibliothek zu finden. Die Suche läuft lokal gegen die Musikbibliotheksdatenbank.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox Musikbibliothek Suche" image="/docs/guide/flacbox/img/media-library-search.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox Musikbibliothek Suche" image="/docs/guide/flacbox/img/media-library-search.webp" >}}
 {{< /cards >}}
 
 ## Optionsmenü
@@ -138,7 +138,7 @@ Wenn Sie die Bereiche Künstler, Albumkünstler oder Komponisten öffnen, sehen 
 - **Solo-Alben** — zeigt Alben, bei denen nur die Titel des angegebenen Künstlers erscheinen.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox Album-Detail-Bildschirm" image="/docs/guide/flacbox/img/media-library-album-details-screen.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox Album-Detail-Bildschirm" image="/docs/guide/flacbox/img/media-library-album-details-screen.webp" >}}
 {{< /cards >}}
 
 ## Einstellungen

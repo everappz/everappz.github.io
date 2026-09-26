@@ -7,7 +7,7 @@ tags: ["muzică", "transmitere", "nas", "synology", "quickconnect"]
 readingTime: 4
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **Rezumat:** Conectează-ți Synology NAS la Evermusic sau Flacbox folosind API-ul nativ Synology -- fie manual prin adresa IP, fie automat prin QuickConnect ID. QuickConnect îți permite să transmiți muzică de la distanță fără redirecționarea porturilor. Ambele aplicații suportă FLAC, MP3, WAV și alte formate hi-res.
@@ -140,22 +140,22 @@ Cu acces securizat de la distanță prin QuickConnect și suport pentru o gamă 
 
 ## FAQ
 
-{{% details title="Care este diferența dintre conexiunea manuală și QuickConnect?" closed="true" %}}
+{{% ls-details title="Care este diferența dintre conexiunea manuală și QuickConnect?" closed="true" %}}
 Conexiunea manuală folosește adresa IP și portul NAS, care funcționează în rețeaua ta locală. QuickConnect folosește serviciul de releu Synology pentru a stabili o conexiune de oriunde prin internet, fără redirecționarea porturilor.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Pot transmite muzică de pe Synology NAS în afara rețelei de acasă?" closed="true" %}}
+{{% ls-details title="Pot transmite muzică de pe Synology NAS în afara rețelei de acasă?" closed="true" %}}
 Da. Activează QuickConnect pe Synology NAS și folosește QuickConnect ID în Evermusic sau Flacbox pentru a transmite muzică de oriunde cu o conexiune la internet.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Ce formate audio sunt suportate la transmiterea de pe Synology NAS?" closed="true" %}}
+{{% ls-details title="Ce formate audio sunt suportate la transmiterea de pe Synology NAS?" closed="true" %}}
 Evermusic și Flacbox suportă FLAC, MP3, AAC, WAV, ALAC, OGG, WMA, DSD și multe alte formate. Toate formatele suportate funcționează la transmiterea de pe Synology NAS.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Am nevoie de autentificare cu doi factori pentru a mă conecta?" closed="true" %}}
+{{% ls-details title="Am nevoie de autentificare cu doi factori pentru a mă conecta?" closed="true" %}}
 Nu, 2FA este opțional. Totuși, dacă ai activat verificarea în doi pași pe Synology DSM, aplicația va cere o parolă unică în timpul conectării. Va trebui să reautorizezi când sesiunea expiră.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Ar trebui să folosesc API-ul nativ Synology, WebDAV sau SMB pentru conectare?" closed="true" %}}
+{{% ls-details title="Ar trebui să folosesc API-ul nativ Synology, WebDAV sau SMB pentru conectare?" closed="true" %}}
 API-ul nativ Synology cu QuickConnect este cea mai bună alegere pentru accesul de la distanță. Pentru utilizarea în rețeaua locală, SMB este de obicei cea mai rapidă opțiune. WebDAV funcționează bine atât pentru accesul local, cât și pentru cel de la distanță. Evermusic și Flacbox suportă toate cele trei protocoale.
-{{% /details %}}
+{{% /ls-details %}}

@@ -62,7 +62,7 @@ Ami a kék és a piros között eltér, az az, **hogyan vannak csomagolva az App
 
 ### Töltse le az App Store-ból
 
-{{< app-details ids="885367198, 905746421, 1564384601" >}}
+{{< ls-app-details ids="885367198, 905746421, 1564384601" >}}
 
 ### App Store csomagolás
 
@@ -142,7 +142,7 @@ Az ingyenes verzió kiváló az alkalmi hallgatók számára, míg a Premium és
 
 ## Gyakran Ismételt Kérdések
 
-{{% details title="Evermusic Pro-t (vagy Premiumot) egy régi Apple-fiókkal vásároltam. Átvihetem egy új Apple-fiókra?" closed="true" %}}
+{{% ls-details title="Evermusic Pro-t (vagy Premiumot) egy régi Apple-fiókkal vásároltam. Átvihetem egy új Apple-fiókra?" closed="true" %}}
 Az Apple hivatalos dokumentációja szerint egy másik Apple-fiókból származó vásárlások megoszthatók a Családi megosztáson / Vásárlások megosztásán keresztül, feltéve, hogy a fiókok megfelelően vannak beállítva ugyanazon a Családi megosztás csoporton belül.
 
 Ha az Evermusic Pro-t a régi Apple-fiókjával vásárolta, az Apple lehetőséget biztosít arra, hogy ezt a fiókot másodlagos Apple-fiókként használja a Vásárlások megosztásához.
@@ -202,30 +202,30 @@ Ezért, ha az Apple Családi megosztás beállítása a régi fiókkal kényelme
 Kérjük, vegye figyelembe, hogy az Apple Családi megosztást, a Vásárlások megosztását, az Apple-fiókokat és az App Store vásárlási előzményeket teljes mértékben az Apple kezeli. Nincs hozzáférésünk a felhasználók Apple-fiókjaihoz, és nem tudunk App Store-vásárlásokat átvinni egyik Apple-fiókról a másikra a mi oldalunkról.
 
 Ha bármilyen problémát tapasztal kifejezetten a Családi megosztással vagy a régi Apple-fiókjával végzett vásárláshoz való hozzáféréssel kapcsolatban, az Apple ügyfélszolgálatának kellene ellenőriznie a fiókok beállítását.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Már bővítettem az Evermusic Free-t (kék) Premiumra. Szükségem van az Evermusic Pro-ra (piros) is?" closed="true" %}}
+{{% ls-details title="Már bővítettem az Evermusic Free-t (kék) Premiumra. Szükségem van az Evermusic Pro-ra (piros) is?" closed="true" %}}
 Nem. Az Evermusic Pro (piros ikon) ugyanaz az alkalmazás, mint az Evermusic Free (kék ikon), már feloldott Premiummal. Ha már bővítette a kék alkalmazást Premiumra, akkor mindennel rendelkezik, amit a Pro kínál, így nincs szükség a piros alkalmazás telepítésére vagy megvásárlására.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Támogatott a Családi megosztás, és hányan használhatják a vásárlásomat?" closed="true" %}}
+{{% ls-details title="Támogatott a Családi megosztás, és hányan használhatják a vásárlásomat?" closed="true" %}}
 Igen. A Családi megosztás minden Evermusic vásárlással és előfizetéssel működik, így megoszthatja a Premiumot legfeljebb öt családtaggal. Kapcsolja be a Vásárlások megosztását a Beállítások → Család menüpontban az eszközén. Minden családtag a saját Apple-fiókjával tölti le az alkalmazást, és automatikusan megkapja a Premiumot.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="iPhone-omon bővítettem Premiumra, de a Macem továbbra is az ingyenes verziót mutatja. Hogyan javíthatom ki?" closed="true" %}}
+{{% ls-details title="iPhone-omon bővítettem Premiumra, de a Macem továbbra is az ingyenes verziót mutatja. Hogyan javíthatom ki?" closed="true" %}}
 A Premium megoszlik az iPhone és a Mac között az iCloudon keresztül. Először győződjön meg róla, hogy mindkét eszköz ugyanazt az Apple-fiókot használja, és be van kapcsolva az iCloud. Az iPhone-ján nyissa meg az Evermusic legújabb verzióját, és várjon körülbelül egy percet, amíg a vásárlása feltöltődik az iCloudra. A Beállításokban a Vásárlások visszaállítása lehetőségre is koppinthat. Ezután nyissa meg a legújabb verziót a Macjén, csatlakozzon az internethez, és várjon körülbelül egy percet. A Premiumnak magától be kell kapcsolnia.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Hogyan állíthatom vissza a vásárlásomat egy új eszközön?" closed="true" %}}
+{{% ls-details title="Hogyan állíthatom vissza a vásárlásomat egy új eszközön?" closed="true" %}}
 Nyissa meg a Beállításokat az alkalmazásban, és koppintson a Vásárlások visszaállítása lehetőségre. Megjelennek a vásárlásai, és a Premium ismét bekapcsol. Ha egy vásárlás hiányzik, győződjön meg róla, hogy az eszköz ugyanazt az Apple-fiókot használja, amellyel vásárolt, és hogy be van kapcsolva az iCloud.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Ha telepítem az Evermusic Pro-t (piros), feloldja a Premiumot az Evermusic Free-ben (kék)?" closed="true" %}}
+{{% ls-details title="Ha telepítem az Evermusic Pro-t (piros), feloldja a Premiumot az Evermusic Free-ben (kék)?" closed="true" %}}
 Igen. Ha telepíti a piros Evermusic Pro-t egy eszközre, az ugyanazon az eszközön lévő kék Evermusic Free észleli, és automatikusan bekapcsolja a Premiumot. Nem kell újra megvásárolnia a Premiumot a kék alkalmazásban. Csak telepítve kell tartania a piros alkalmazást.
 
 Fordítva ez nem működik. Ha a kék alkalmazásban vásárol Premiumot, attól a piros Evermusic Pro nem lesz ingyenes, mert ezek külön alkalmazások az App Store-ban. A kék alkalmazásokban végzett vásárlások az iCloudon keresztül szinkronizálódnak a kék iPhone-alkalmazás és a kék Mac-alkalmazás között.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Használhatom a Premiumot Intel Macen?" closed="true" %}}
+{{% ls-details title="Használhatom a Premiumot Intel Macen?" closed="true" %}}
 Igen. Használja a kék Evermusic Free alkalmazást, és bővítsen Premiumra. A kék Mac-alkalmazás fut mind az Apple Silicon, mind az Intel Maceken. A piros Evermusic Pro csak Apple Silicon Maceken (M1 és későbbiek) fut, és nem telepíthető Intel Macekre.
-{{% /details %}}
+{{% /ls-details %}}

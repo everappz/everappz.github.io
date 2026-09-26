@@ -15,7 +15,7 @@ readingTime: 11
 Ezen a képernyőn különböző forrásokat csatlakoztathat, amelyek audio fájljait tartalmazzák. Integrálhat népszerű felhőszolgáltatásokat, mint a Google Drive, Dropbox, OneDrive, iCloud és másokat, valamint csatlakoztathatja Mac-ét vagy PC-jét. Emellett szerkesztheti az Apple Time Capsule-on, WD Cloud Home-on vagy bármely SMB vagy WebDAV protokollt támogató NAS-on lévő audio fájlokat.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evertag Kapcsolatok képernyő" image="/docs/guide/evertag/img/connections.webp" >}}
+  {{< ls-card title="" subtitle="Evertag Kapcsolatok képernyő" image="/docs/guide/evertag/img/connections.webp" >}}
 {{< /cards >}}
 
 ## Gyorselérés
@@ -151,7 +151,7 @@ Ezek a műveletek:
 - **Rács/Lista nézet**: Váltás kétféle megjelenítési mód között: táblázat nézet és miniatűr nézet.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evertag felhőmappa rendezés" image="/docs/guide/evertag/img/cloud-storage-sort.webp" >}}
+  {{< ls-card title="" subtitle="Evertag felhőmappa rendezés" image="/docs/guide/evertag/img/cloud-storage-sort.webp" >}}
 {{< /cards >}}
 
 ## Online fájlok szerkesztése
@@ -163,7 +163,7 @@ Ha az alkalmazásban több fájlt kell kezelni a felhőtárolójában, a kivála
 - **Különböző műveletek végrehajtása**: Miután kiválasztotta a kezelni kívánt fájlokat vagy mappákat, számos műveletet hajthat végre:
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evertag fájl kiválasztás" image="/docs/guide/evertag/img/cloud-storage-file-select.webp" >}}
+  {{< ls-card title="" subtitle="Evertag fájl kiválasztás" image="/docs/guide/evertag/img/cloud-storage-file-select.webp" >}}
 {{< /cards >}}
 
 ## Fájlműveletek
@@ -180,7 +180,7 @@ Koppintson rá az elérhető műveletek listájának megjelenítéséhez:
 - **Törlés**: Legyen óvatos ezzel a művelettel, mivel véglegesen eltávolítja a fájlt a felhőtárolóból. **Ez a törlés nem vonható vissza**.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evertag fájl opciók" image="/docs/guide/evertag/img/cloud-storage-file-options.webp" >}}
+  {{< ls-card title="" subtitle="Evertag fájl opciók" image="/docs/guide/evertag/img/cloud-storage-file-options.webp" >}}
 {{< /cards >}}
 
 Ha a műveletek listája meghaladja a rendelkezésre álló képernyőterületet, egyszerűen görgessen le a műveleti menüben a további opciók eléréséhez.
@@ -196,5 +196,5 @@ A felhőtárolón lévő minden mappához különböző műveletek állnak rende
 - **Törlés**: Legyen óvatos ezzel a művelettel, mivel véglegesen eltávolítja a mappát és tartalmát a felhőtárolóból. **Ez a művelet nem vonható vissza**.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evertag mappa opciók" image="/docs/guide/evertag/img/cloud-storage-folder-options.webp" >}}
+  {{< ls-card title="" subtitle="Evertag mappa opciók" image="/docs/guide/evertag/img/cloud-storage-folder-options.webp" >}}
 {{< /cards >}}

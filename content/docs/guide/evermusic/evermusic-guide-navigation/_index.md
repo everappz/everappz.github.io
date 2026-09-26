@@ -28,7 +28,7 @@ Evermusic's functionality is thoughtfully divided into two distinct components: 
 Whether you're using an iPhone, iPad, or compact mode on a Mac, all app features are easily accessible through the tab bar at the bottom of the screen. For iPad and Mac users, the same menu can be found on the left side of the screen. This thoughtful organization categorizes all app features into easily accessible sections, ensuring a user-friendly and efficient experience.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evermusic Left Sidebar on iPad and Mac" image="/docs/guide/evermusic/evermusic-guide-navigation/img/navigation-left-sidebar.webp" >}}
+  {{< ls-card title="" subtitle="Evermusic Left Sidebar on iPad and Mac" image="/docs/guide/evermusic/evermusic-guide-navigation/img/navigation-left-sidebar.webp" >}}
 {{< /cards >}}
 
 **Connections:** You can effortlessly connect cloud storage services such as Google Drive, MEGA, OneDrive, and Dropbox, as well as your computer and personal NAS on this screen.
@@ -50,7 +50,7 @@ The local files section is divided into two categories: Files in this applicatio
 Activate a full-screen player by tapping the mini player icon and using a swipe-down gesture to hide it. On iPad and Mac, the mini player screen is located at the top of the screen and can be hidden when opening the full-screen player via the main menu.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="iPhone Tab Bar" image="/docs/guide/evermusic/evermusic-guide-navigation/img/navigation-bottom-tabbar.webp" >}}
+  {{< ls-card title="" subtitle="iPhone Tab Bar" image="/docs/guide/evermusic/evermusic-guide-navigation/img/navigation-bottom-tabbar.webp" >}}
 {{< /cards >}}
 
 ## Mini Player Window (Mac Exclusive)
@@ -58,7 +58,7 @@ Activate a full-screen player by tapping the mini player icon and using a swipe-
 To access the mini player window on your Mac, simply move your cursor to the bottom-right edge of the app window and resize it to the smallest possible size. Then, tap the collapse button (depicted as a downward arrow) to activate the mini-player window. To keep the mini player window always on top of other windows, navigate to the top menu bar of your Mac, select 'Window,' and then choose 'Show Window Always On Top.' This feature is useful for listening to audio lectures without interruptions.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Mac Mini Player Window" image="/docs/guide/evermusic/evermusic-guide-navigation/img/navigation-mac-exclusive-miniplayer.webp" >}}
+  {{< ls-card title="" subtitle="Mac Mini Player Window" image="/docs/guide/evermusic/evermusic-guide-navigation/img/navigation-mac-exclusive-miniplayer.webp" >}}
 {{< /cards >}}
 
 ## More Actions
@@ -66,7 +66,7 @@ To access the mini player window on your Mac, simply move your cursor to the bot
 Virtually every content item on the screen features a "More Actions" button. Tap it to access all available actions.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="More Actions Context Menu" image="/docs/guide/evermusic/evermusic-guide-navigation/img/navigation-more-actions.webp" >}}
+  {{< ls-card title="" subtitle="More Actions Context Menu" image="/docs/guide/evermusic/evermusic-guide-navigation/img/navigation-more-actions.webp" >}}
 {{< /cards >}}
 
 ## Top Toolbar
@@ -80,7 +80,7 @@ You can easily reveal or conceal this toolbar with a straightforward swipe-down 
 - **Shuffle All:** Add all tracks from the current page to the audio player queue, shuffling them before adding for a delightful listening experience.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Top Toolbar with Search, Play All, and Shuffle All" image="/docs/guide/evermusic/evermusic-guide-navigation/img/navigation-top-toolbar.webp" >}}
+  {{< ls-card title="" subtitle="Top Toolbar with Search, Play All, and Shuffle All" image="/docs/guide/evermusic/evermusic-guide-navigation/img/navigation-top-toolbar.webp" >}}
 {{< /cards >}}
 
 ## Context menu
@@ -94,7 +94,7 @@ Context menu provides quick access to additional options and actions for seamles
 **Right Mouse Click:** Right-click on cells, the mini player, or the compact player to show the context menu.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Context Menu on macOS" image="/docs/guide/evermusic/evermusic-guide-navigation/img/navigation-context-menu-macos.webp" >}}
+  {{< ls-card title="" subtitle="Context Menu on macOS" image="/docs/guide/evermusic/evermusic-guide-navigation/img/navigation-context-menu-macos.webp" >}}
 {{< /cards >}}
 
 ## Accessibility
@@ -128,7 +128,7 @@ Evermusic ships with four Home Screen / Lock Screen widgets that surface key par
 All four widgets are available in Small, Medium, and Large sizes so you can pick the layout that fits your screen.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Adding Evermusic Widgets" image="/docs/guide/evermusic/evermusic-guide-navigation/img/navigation-add-widgets.webp" >}}
+  {{< ls-card title="" subtitle="Adding Evermusic Widgets" image="/docs/guide/evermusic/evermusic-guide-navigation/img/navigation-add-widgets.webp" >}}
 {{< /cards >}}
 
 ### Add a widget on iPhone (Home Screen)
@@ -178,7 +178,7 @@ The CarPlay widget updates live as your music changes and is large-fingertip fri
 Evermusic includes a fully-featured **Apple CarPlay** interface (iOS only) optimized for the car display. Once your iPhone is connected to a compatible CarPlay head unit — over USB or wirelessly — Evermusic appears alongside Apple Music and Spotify in the CarPlay app grid, ready to stream your cloud library on the road.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evermusic on the CarPlay Screen" image="/docs/guide/evermusic/evermusic-guide-navigation/img/navigation-carplay-menu.webp" >}}
+  {{< ls-card title="" subtitle="Evermusic on the CarPlay Screen" image="/docs/guide/evermusic/evermusic-guide-navigation/img/navigation-carplay-menu.webp" >}}
 {{< /cards >}}
 
 ### What you get in CarPlay

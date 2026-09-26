@@ -7,7 +7,7 @@ tags: ["evermusic", "importar", "llistes de reproducció", "m3u", "cue"]
 readingTime: 3
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **Resum:** Evermusic i Flacbox admeten la importació de fitxers de llistes de reproducció M3U, M3U8 i CUE des de l'emmagatzematge al núvol, fitxers locals de l'aplicació o el vostre dispositiu. Aneu a Llistes de reproducció > Més > Importar llista de reproducció, seleccioneu una font, trieu el fitxer i l'aplicació crearà la llista de reproducció automàticament.
@@ -84,22 +84,22 @@ A més, podeu importar diverses llistes de reproducció alhora tocant el botó "
 
 ## Preguntes freqüents
 
-{{% details title="Quins formats de llistes de reproducció admeten Evermusic i Flacbox?" closed="true" %}}
+{{% ls-details title="Quins formats de llistes de reproducció admeten Evermusic i Flacbox?" closed="true" %}}
 Ambdues aplicacions admeten els formats de fitxer de llistes de reproducció M3U, M3U8 i CUE. Aquests cobreixen els estàndards de llistes de reproducció més comuns utilitzats pels reproductors de música i el programari multimèdia.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Puc importar llistes de reproducció des de l'emmagatzematge al núvol?" closed="true" %}}
+{{% ls-details title="Puc importar llistes de reproducció des de l'emmagatzematge al núvol?" closed="true" %}}
 Sí. Podeu importar fitxers de llistes de reproducció des de qualsevol servei d'emmagatzematge al núvol connectat, inclosos Google Drive, Dropbox, OneDrive i servidors WebDAV.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Per què falten algunes pistes després de la importació?" closed="true" %}}
+{{% ls-details title="Per què falten algunes pistes després de la importació?" closed="true" %}}
 El fitxer de la llista de reproducció ha de contenir camins correctes als vostres fitxers multimèdia, i aquests fitxers han d'existir a les ubicacions especificades al vostre emmagatzematge. Comproveu que els camins dels fitxers al vostre fitxer M3U o CUE coincideixin amb les ubicacions reals dels fitxers.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Puc importar diverses llistes de reproducció alhora?" closed="true" %}}
+{{% ls-details title="Puc importar diverses llistes de reproducció alhora?" closed="true" %}}
 Sí. Utilitzeu el botó Més accions i seleccioneu "Importar llistes de reproducció des d'una carpeta". L'aplicació escaneja la carpeta per trobar tots els fitxers de llistes de reproducció compatibles i els importa en un sol pas.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Necessito crear les llistes de reproducció manualment?" closed="true" %}}
+{{% ls-details title="Necessito crear les llistes de reproducció manualment?" closed="true" %}}
 No. La funció d'importació elimina la creació manual de llistes de reproducció. Simplement apunteu l'aplicació al vostre fitxer M3U, M3U8 o CUE existent i crearà la llista de reproducció automàticament.
-{{% /details %}}
+{{% /ls-details %}}

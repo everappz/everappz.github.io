@@ -7,7 +7,7 @@ tags: ["lyrics", "mp3", "id3", "metadata", "iphone", "audio editing"]
 readingTime: 2
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **सारांश:** iPhone या Mac पर असिंक्रोनाइज़्ड गीत, सलाहकार रेटिंग और 120+ ऑडियो टैग संपादित करने के लिए मुफ्त **Evertag** ऐप का उपयोग करें। स्थानीय और क्लाउड-संग्रहीत फ़ाइलों के साथ काम करता है, बैच संपादन का समर्थन करता है, और Evermusic, Flacbox और अन्य प्लेयर में दिखाई देने वाले गीत सहेजता है।
@@ -23,8 +23,8 @@ readingTime: 2
 App Store से **Evertag** ऐप डाउनलोड करके शुरू करें। यह **iOS** और **macOS** दोनों के लिए उपलब्ध है, और उपयोग करने के लिए मुफ्त है।
 
 {{< cards cols="2">}}
-{{< card link="https://apps.apple.com/app/apple-store/id1450763230?pt=95781850&ct=everappzcom&mt=8" title="Evertag iOS के लिए" icon="download" tag="Free" >}}
-{{< card link="https://apps.apple.com/app/apple-store/id1594027661?pt=95781850&ct=everappzcom&mt=8" title="Evertag macOS के लिए" icon="download" tag="Free" >}}
+{{< ls-card link="https://apps.apple.com/app/apple-store/id1450763230?pt=95781850&ct=everappzcom&mt=8" title="Evertag iOS के लिए" icon="download" tag="Free" >}}
+{{< ls-card link="https://apps.apple.com/app/apple-store/id1594027661?pt=95781850&ct=everappzcom&mt=8" title="Evertag macOS के लिए" icon="download" tag="Free" >}}
 {{< /cards >}}
 
 ## अपना क्लाउड खाता कनेक्ट करें
@@ -38,13 +38,13 @@ App Store से **Evertag** ऐप डाउनलोड करके शुर
 - **क्लाउड स्टोरेज से कनेक्ट करें** पर टैप करें
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="क्लाउड स्टोरेज से कनेक्ट करें" image="/docs/howto/how-to-edit-lyrics-for-audio-files-on-iphone-mac/connect-to-cloud-storage.webp" >}}
+{{< ls-card title="" subtitle="क्लाउड स्टोरेज से कनेक्ट करें" image="/docs/howto/how-to-edit-lyrics-for-audio-files-on-iphone-mac/connect-to-cloud-storage.webp" >}}
 {{< /cards >}}
 
 - एक समर्थित प्रदाता चुनें, अपने क्रेडेंशियल दर्ज करें, और **पूर्ण** पर टैप करें
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="क्लाउड स्टोरेज से कनेक्ट करें" image="/docs/howto/how-to-edit-lyrics-for-audio-files-on-iphone-mac/connect-to-cloud-storage.webp" >}}
+{{< ls-card title="" subtitle="क्लाउड स्टोरेज से कनेक्ट करें" image="/docs/howto/how-to-edit-lyrics-for-audio-files-on-iphone-mac/connect-to-cloud-storage.webp" >}}
 {{< /cards >}}
 
 - कनेक्ट होने के बाद, आपका क्लाउड स्टोरेज ऐप के **क्लाउड स्टोरेज** अनुभाग में दिखाई देगा।
@@ -52,7 +52,7 @@ App Store से **Evertag** ऐप डाउनलोड करके शुर
 - इसके फ़ोल्डर सामग्री ब्राउज़ और लोड करने के लिए अपने कनेक्टेड क्लाउड स्टोरेज पर टैप करें।
   
 {{< cards cols="1">}}
-{{< card title="" subtitle="क्लाउड स्टोरेज फ़ाइल सूची" image="/docs/howto/how-to-edit-lyrics-for-audio-files-on-iphone-mac/cloud-storage-list-audio-files.webp" >}}
+{{< ls-card title="" subtitle="क्लाउड स्टोरेज फ़ाइल सूची" image="/docs/howto/how-to-edit-lyrics-for-audio-files-on-iphone-mac/cloud-storage-list-audio-files.webp" >}}
 {{< /cards >}}
 
 ## स्थानीय फ़ोल्डर कनेक्ट करें
@@ -74,7 +74,7 @@ App Store से **Evertag** ऐप डाउनलोड करके शुर
 - साइडबार मेनू में **इस डिवाइस पर फ़ाइलें** तक नीचे स्क्रॉल करें
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="डिवाइस फ़ोल्डर" image="/docs/howto/how-to-edit-lyrics-for-audio-files-on-iphone-mac/device-folders.webp" >}}
+{{< ls-card title="" subtitle="डिवाइस फ़ोल्डर" image="/docs/howto/how-to-edit-lyrics-for-audio-files-on-iphone-mac/device-folders.webp" >}}
 {{< /cards >}}
   
 - **सभी डिवाइस फ़ोल्डर** मेनू आइटम पर टैप करें
@@ -91,7 +91,7 @@ App Store से **Evertag** ऐप डाउनलोड करके शुर
 **टैग एडिटर** Evertag ऐप की मुख्य स्क्रीन है जहाँ आप ऑडियो फ़ाइल मेटाडेटा देख और संपादित कर सकते हैं। **स्थानीय फ़ाइलें** अनुभाग या किसी कनेक्टेड **क्लाउड स्टोरेज** खाते से फ़ाइल पर टैप करके इस स्क्रीन को खोलें।
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Evertag टैग एडिटर स्क्रीन" image="/docs/howto/how-to-edit-lyrics-for-audio-files-on-iphone-mac/cloud-storage-audio-file-tag-editor.webp" >}}
+{{< ls-card title="" subtitle="Evertag टैग एडिटर स्क्रीन" image="/docs/howto/how-to-edit-lyrics-for-audio-files-on-iphone-mac/cloud-storage-audio-file-tag-editor.webp" >}}
 {{< /cards >}}
 
 ## संपादन मोड
@@ -112,7 +112,7 @@ Evertag दो संपादन मोड प्रदान करता ह�
 सभी उपलब्ध टैग तक पहुँचने के लिए, स्क्रीन के नीचे तक स्क्रॉल करें और **विस्तारित टैग दिखाएँ** विकल्प पर टैप करें। यह एडिटर को विस्तारित मोड में बदल देगा, जिससे आप **120 से अधिक मेटाडेटा फ़ील्ड** संपादित कर सकेंगे, जिसमें **MusicBrainz टैग**, **गीत**, **सलाहकार रेटिंग** और बहुत कुछ शामिल हैं।
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="निचला क्रिया पैनल" image="/docs/howto/how-to-edit-lyrics-for-audio-files-on-iphone-mac/show-extended-tags.webp" >}}
+{{< ls-card title="" subtitle="निचला क्रिया पैनल" image="/docs/howto/how-to-edit-lyrics-for-audio-files-on-iphone-mac/show-extended-tags.webp" >}}
 {{< /cards >}}
 
 ## बैच मोड
@@ -137,7 +137,7 @@ Evertag ऐप का उपयोग करके अपनी ऑडियो 
 **विस्तारित टैग** मोड में, नीचे स्क्रॉल करें और **असिंक्रोनाइज़्ड गीत** टेक्स्ट फ़ील्ड पर टैप करें।
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="असिंक्रोनाइज़्ड गीत टेक्स्ट फ़ील्ड" image="/docs/howto/how-to-edit-lyrics-for-audio-files-on-iphone-mac/advisory-rating-2.webp" >}}
+{{< ls-card title="" subtitle="असिंक्रोनाइज़्ड गीत टेक्स्ट फ़ील्ड" image="/docs/howto/how-to-edit-lyrics-for-audio-files-on-iphone-mac/advisory-rating-2.webp" >}}
 {{< /cards >}}
 
 > **ID3 टैग** का समर्थन करने वाली ऑडियो फ़ाइलें (जैसे `.mp3` या `.wav`) आपको कई भाषाओं में गीत जोड़ने की अनुमति देती हैं। यदि आप ID3-टैग वाली फ़ाइल संपादित कर रहे हैं, तो Evertag पूर्ण बहु-भाषा समर्थन सक्षम करता है।  
@@ -148,7 +148,7 @@ Evertag ऐप का उपयोग करके अपनी ऑडियो 
 यदि आप ID3 टैग संपादित कर रहे हैं, तो अगली स्क्रीन **नया पेज जोड़ें** बटन दिखाएगी। नई गीत प्रविष्टि जोड़ना शुरू करने के लिए इसे टैप करें।
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="नया गीत पेज जोड़ें" image="/docs/howto/how-to-edit-lyrics-for-audio-files-on-iphone-mac/add-new-page.webp" >}}
+{{< ls-card title="" subtitle="नया गीत पेज जोड़ें" image="/docs/howto/how-to-edit-lyrics-for-audio-files-on-iphone-mac/add-new-page.webp" >}}
 {{< /cards >}}
 
 ### भाषा, टिप्पणी और गीत सामग्री चुनें
@@ -159,7 +159,7 @@ Evertag ऐप का उपयोग करके अपनी ऑडियो 
 - वास्तविक **गीत पाठ** दर्ज करें
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="भाषा चुनें" image="/docs/howto/how-to-edit-lyrics-for-audio-files-on-iphone-mac/choose-language.webp" >}}
+{{< ls-card title="" subtitle="भाषा चुनें" image="/docs/howto/how-to-edit-lyrics-for-audio-files-on-iphone-mac/choose-language.webp" >}}
 {{< /cards >}}
 
 ### गीत दर्ज करें
@@ -169,7 +169,7 @@ Evertag ऐप का उपयोग करके अपनी ऑडियो 
 > सुझाव: उच्च गुणवत्ता वाले गीत खोज रहे हैं? हजारों ट्रैक के लिए LRC फॉर्मेट में गीत खोजने के लिए [lyricsify.com](https://www.lyricsify.com) पर जाएँ।
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="जोड़े गए गीत" image="/docs/howto/how-to-edit-lyrics-for-audio-files-on-iphone-mac/added-lyrics.webp" >}}
+{{< ls-card title="" subtitle="जोड़े गए गीत" image="/docs/howto/how-to-edit-lyrics-for-audio-files-on-iphone-mac/added-lyrics.webp" >}}
 {{< /cards >}}
 
 ### पुष्टि के लिए "पूर्ण" पर टैप करें
@@ -177,7 +177,7 @@ Evertag ऐप का उपयोग करके अपनी ऑडियो 
 अपने गीत दर्ज करने के बाद, गीत पेज पर **पूर्ण** पर टैप करें। फिर अपने परिवर्तनों की पुष्टि करने के लिए पिछली स्क्रीन पर फिर से **पूर्ण** पर टैप करें।
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="सहेजे गए गीत" image="/docs/howto/how-to-edit-lyrics-for-audio-files-on-iphone-mac/saved-lyrics.webp" >}}
+{{< ls-card title="" subtitle="सहेजे गए गीत" image="/docs/howto/how-to-edit-lyrics-for-audio-files-on-iphone-mac/saved-lyrics.webp" >}}
 {{< /cards >}}
 
 ### टैग परिवर्तन सहेजें
@@ -185,7 +185,7 @@ Evertag ऐप का उपयोग करके अपनी ऑडियो 
 अंत में, **टैग एडिटर** स्क्रीन पर, अपडेटेड टैग — जिसमें आपके नए गीत शामिल हैं — को फ़ाइल में वापस लिखने के लिए **सहेजें** पर टैप करें।
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="गीतों के साथ टैग एडिटर" image="/docs/howto/how-to-edit-lyrics-for-audio-files-on-iphone-mac/tags-editor-with-lyrics.webp" >}}
+{{< ls-card title="" subtitle="गीतों के साथ टैग एडिटर" image="/docs/howto/how-to-edit-lyrics-for-audio-files-on-iphone-mac/tags-editor-with-lyrics.webp" >}}
 {{< /cards >}}
 
 ### गीत सलाहकार रेटिंग सेट करें
@@ -204,22 +204,22 @@ Evertag ऐप का उपयोग करके अपनी ऑडियो 
 
 ## अक्सर पूछे जाने वाले प्रश्न
 
-{{% details title="Evertag गीत संपादन के लिए किन ऑडियो फॉर्मेट का समर्थन करता है?" closed="true" %}}
+{{% ls-details title="Evertag गीत संपादन के लिए किन ऑडियो फॉर्मेट का समर्थन करता है?" closed="true" %}}
 Evertag MP3, FLAC, WAV, M4A, OGG, AIFF और अधिक सहित 30 से अधिक ऑडियो फॉर्मेट का समर्थन करता है। आप इनमें से किसी भी फॉर्मेट में गीत और अन्य मेटाडेटा टैग संपादित कर सकते हैं।
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="क्या मैं कई भाषाओं में गीत जोड़ सकता हूँ?" closed="true" %}}
+{{% ls-details title="क्या मैं कई भाषाओं में गीत जोड़ सकता हूँ?" closed="true" %}}
 हाँ, लेकिन केवल ID3 टैग का उपयोग करने वाली ऑडियो फ़ाइलों के लिए (जैसे MP3 और WAV)। FLAC या M4A जैसे अन्य फॉर्मेट के लिए, केवल एक गीत प्रविष्टि समर्थित है।
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="क्या Evertag गीतों का बैच संपादन समर्थन करता है?" closed="true" %}}
+{{% ls-details title="क्या Evertag गीतों का बैच संपादन समर्थन करता है?" closed="true" %}}
 हाँ। आप एक साथ कई फ़ाइलों के मेटाडेटा को संपादित करने के लिए बैच मोड में प्रवेश कर सकते हैं। यह एक पूरे एल्बम पर समान गीत सलाहकार रेटिंग या अन्य साझा टैग लागू करने के लिए उपयोगी है।
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="क्या संपादित गीत Apple Music या Spotify में दिखाई देंगे?" closed="true" %}}
+{{% ls-details title="क्या संपादित गीत Apple Music या Spotify में दिखाई देंगे?" closed="true" %}}
 Evertag से संपादित गीत ऑडियो फ़ाइल के मेटाडेटा में एम्बेड होते हैं। वे किसी भी म्यूजिक प्लेयर में दिखाई देंगे जो एम्बेडेड गीत टैग पढ़ता है, जैसे Evermusic, Flacbox, VLC और foobar2000। Spotify और Apple Music जैसे स्ट्रीमिंग ऐप्स अपने स्वयं के गीत डेटाबेस का उपयोग करते हैं और एम्बेडेड टैग नहीं पढ़ते।
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="क्या मैं क्लाउड स्टोरेज में संग्रहीत फ़ाइलों के टैग संपादित कर सकता हूँ?" closed="true" %}}
+{{% ls-details title="क्या मैं क्लाउड स्टोरेज में संग्रहीत फ़ाइलों के टैग संपादित कर सकता हूँ?" closed="true" %}}
 हाँ। Evertag क्लाउड स्टोरेज सेवाओं से कनेक्ट करने का समर्थन करता है। ऐप फ़ाइल डाउनलोड करता है, आपको टैग संपादित करने देता है, और स्वचालित रूप से अपडेटेड फ़ाइल वापस क्लाउड पर अपलोड करता है।
-{{% /details %}}
+{{% /ls-details %}}

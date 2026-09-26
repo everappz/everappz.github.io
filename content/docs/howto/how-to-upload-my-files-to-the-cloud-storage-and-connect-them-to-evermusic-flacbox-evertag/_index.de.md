@@ -7,7 +7,7 @@ tags: ["evermusic", "flacbox", "cloud", "datei", "konto", "manager", "verbindung
 keywords: ["Cloud-Dienst mit Evermusic verbinden", "Dateien auf Google Drive hochladen", "Flacbox Cloud-Integration", "OneDrive mit Evermusic verwenden", "Evertag Cloud-Dateizugriff", "Dropbox mit iOS-Musikplayer verbinden", "Dateimanager für Cloud-Dienste"]
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **Kurzfassung:** Laden Sie Ihre Musik- oder Mediendateien in einen beliebigen unterstützten Cloud-Dienst hoch (Google Drive, Dropbox, OneDrive und mehr) und verbinden Sie diesen Dienst dann in Evermusic, Flacbox oder Evertag, um Ihre Dateien direkt auf iPhone, iPad oder Mac zu streamen oder herunterzuladen.
@@ -76,38 +76,38 @@ Verabschieden Sie sich von Speicherbeschränkungen und begrüßen Sie den Komfor
 
 ## Häufig gestellte Fragen
 
-{{% details title="Welche Cloud-Dienste werden unterstützt?" closed="true" %}}
+{{% ls-details title="Welche Cloud-Dienste werden unterstützt?" closed="true" %}}
 Evermusic, Flacbox und Evertag unterstützen Google Drive, Dropbox, OneDrive, Box, MediaFire, Yandex.Disk, MEGA, MyDrive, pCloud und andere Cloud-Anbieter. Sie können auch benutzerdefinierte WebDAV-, SMB- und FTP-Server verbinden.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Kann ich Musik direkt aus der Cloud streamen, ohne sie herunterzuladen?" closed="true" %}}
+{{% ls-details title="Kann ich Musik direkt aus der Cloud streamen, ohne sie herunterzuladen?" closed="true" %}}
 Ja. Alle drei Apps unterstützen das Streaming von Audiodateien direkt aus Ihrem verbundenen Cloud-Speicher. Sie können Dateien auch für die Offline-Wiedergabe herunterladen, wenn Sie keinen Internetzugang haben.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Gibt es ein Dateigrößen- oder Speicherlimit in der App?" closed="true" %}}
+{{% ls-details title="Gibt es ein Dateigrößen- oder Speicherlimit in der App?" closed="true" %}}
 Die Apps legen keine eigenen Dateigrößen- oder Speicherlimits fest. Ihr verfügbarer Speicher hängt von Ihrem Cloud-Dienst-Plan und dem lokalen Speicher Ihres Geräts für heruntergeladene Dateien ab.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Kann ich mehrere Cloud-Konten gleichzeitig verbinden?" closed="true" %}}
+{{% ls-details title="Kann ich mehrere Cloud-Konten gleichzeitig verbinden?" closed="true" %}}
 Ja. Sie können mehrere Cloud-Dienste und mehrere Konten desselben Anbieters gleichzeitig verbinden. Alle verbundenen Konten erscheinen im Tab Verbindungen zum einfachen Wechseln.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Muss ich Dateien erneut hochladen, wenn ich zu einer anderen App wechsle?" closed="true" %}}
+{{% ls-details title="Muss ich Dateien erneut hochladen, wenn ich zu einer anderen App wechsle?" closed="true" %}}
 Nein. Da Ihre Dateien in der Cloud gespeichert sind, können Sie dasselbe Cloud-Konto mit Evermusic, Flacbox oder Evertag verbinden, ohne etwas erneut hochzuladen. Jede App greift auf dieselben Dateien in Ihrem Cloud-Speicher zu.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Sind meine Cloud-Kontodaten sicher?" closed="true" %}}
+{{% ls-details title="Sind meine Cloud-Kontodaten sicher?" closed="true" %}}
 Ja. Die App verwendet ausschließlich offizielle SDKs und verschlüsselte Verbindungen zur Interaktion mit Cloud-Diensten. Ihr Login und Passwort werden niemals von der App gespeichert. Bei der Anmeldung zeigt die App die offizielle Autorisierungsseite des Cloud-Dienstes an. Nach erfolgreicher Autorisierung sendet der Cloud-Anbieter ein Auth-Token an die App, das sicher im Keychain des Geräts gespeichert wird. Dieses Token wird für alle API-Anfragen verwendet.<br><br>
 Die App teilt keine Informationen aus Ihrem Cloud-Konto. Sie können den Zugriff jederzeit über die Einstellungsseite Ihres Cloud-Kontos in einem Webbrowser widerrufen oder das Konto in der App trennen.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Wie trenne ich einen Cloud-Dienst oder ändere seine Konfiguration?" closed="true" %}}
+{{% ls-details title="Wie trenne ich einen Cloud-Dienst oder ändere seine Konfiguration?" closed="true" %}}
 Suchen Sie den Cloud-Speicher im Tab **Verbindungen** der App und tippen Sie auf die Schaltfläche **...** daneben. Sie sehen diese Optionen:<br>
 - **Umbenennen** -- den Anzeigenamen des Cloud-Dienstes ändern<br>
 - **Einstellungen** -- Konfiguration ändern oder erneut autorisieren, wenn das Token abgelaufen ist<br>
 - **Trennen** -- die Verbindung vollständig entfernen. Dadurch werden alle Songs dieses Cloud-Dienstes aus der Musikbibliothek der App entfernt, die Dateien bleiben jedoch auf dem Server
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Wie widerrufe ich den Zugriff der App auf mein Cloud-Konto?" closed="true" %}}
+{{% ls-details title="Wie widerrufe ich den Zugriff der App auf mein Cloud-Konto?" closed="true" %}}
 Melden Sie sich bei Ihrem Cloud-Konto in einem Webbrowser an und öffnen Sie die Kontoeinstellungen oder die Sicherheitsseite. Suchen Sie die Liste der verbundenen Drittanbieter-Apps und entfernen Sie die App, die Sie nicht mehr autorisieren möchten. Sie können das Cloud-Konto auch in der App trennen -- dadurch wird das Auth-Token von Ihrem Gerät entfernt. Wenn Sie die App vollständig löschen, werden alle heruntergeladenen Daten und Zugriffstoken automatisch entfernt.
-{{% /details %}}
+{{% /ls-details %}}

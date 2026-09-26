@@ -19,7 +19,7 @@ readingTime: 12
 На цьому екрані можна підключити кожне джерело, де зберігається ваша музика. Ви можете інтегрувати популярні хмарні сервіси, такі як Dropbox, Google Drive, iCloud Drive, OneDrive, MEGA, Box, pCloud, Yandex Disk, Synology Drive тощо, а також свій Mac, PC або NAS через стандартні протоколи. Незалежно від того, де зберігається ваша колекція — на зручному для стримінгу сервісі, як-от Dropbox, чи на персональному NAS — Synology, QNAP, Buffalo, Apple Time Capsule або WD My Cloud Home — Flacbox підключається до всіх із єдиного екрана.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Екран З'єднань Flacbox" image="/docs/guide/flacbox/img/connections-main.webp" >}}
+  {{< ls-card title="" subtitle="Екран З'єднань Flacbox" image="/docs/guide/flacbox/img/connections-main.webp" >}}
 {{< /cards >}}
 
 ## Підключення до хмарного сховища
@@ -30,7 +30,7 @@ readingTime: 12
 - Введіть облікові дані на офіційній сторінці авторизації провайдера та натисніть **Готово**.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox — Додати хмарний сервіс" image="/docs/guide/flacbox/img/add-cloud-storage.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox — Додати хмарний сервіс" image="/docs/guide/flacbox/img/add-cloud-storage.webp" >}}
 {{< /cards >}}
 
 Якщо виникають проблеми, перевірте підключення до інтернету та логін / пароль. У Premium версії додатка можна додати необмежену кількість сервісів; безкоштовна версія підтримує до трьох.
@@ -132,7 +132,7 @@ Natisniit **Підключити до хмарного сховища → S3 с�
 - За потреби введіть облікові дані для завершення з'єднання.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox — Доступні пристрої в локальній мережі" image="/docs/guide/flacbox/img/available-devies.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox — Доступні пристрої в локальній мережі" image="/docs/guide/flacbox/img/available-devies.webp" >}}
 {{< /cards >}}
 
 ## Wi-Fi Drive
@@ -147,7 +147,7 @@ Wi-Fi Drive — зручна технологія, яка дозволяє пе�
 - Натисніть **Запустити Wi-Fi Drive** для увімкнення.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox Wi-Fi Drive" image="/docs/guide/flacbox/img/wifi-drive.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox Wi-Fi Drive" image="/docs/guide/flacbox/img/wifi-drive.webp" >}}
 {{< /cards >}}
 
 ### Доступ до Wi-Fi Drive з комп'ютера
@@ -230,7 +230,7 @@ iTunes File Sharing (тепер Finder File Sharing на macOS Catalina і но�
 - **Видалити** — назавжди видалити файл із хмарного сховища. **Цю дію не можна скасувати.**
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox — Більше дій для файлу в хмарному сховищі" image="/docs/guide/flacbox/img/more-actions-for-file-in-connected-cloud-storage.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox — Більше дій для файлу в хмарному сховищі" image="/docs/guide/flacbox/img/more-actions-for-file-in-connected-cloud-storage.webp" >}}
 {{< /cards >}}
 
 ## Дії з папкою
@@ -255,7 +255,7 @@ iTunes File Sharing (тепер Finder File Sharing на macOS Catalina і но�
 Розділ «Швидкий доступ» знаходиться у верхній частині екрана. Він надає швидкий доступ до обраних і нещодавно відкритих файлів із підключених хмарних сервісів.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox — Онлайн посилання та швидкий доступ" image="/docs/guide/flacbox/img/online-links.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox — Онлайн посилання та швидкий доступ" image="/docs/guide/flacbox/img/online-links.webp" >}}
 {{< /cards >}}
 
 ## Інші сервіси
@@ -263,5 +263,5 @@ iTunes File Sharing (тепер Finder File Sharing на macOS Catalina і но�
 У цьому розділі відображаються додаткові функції. Наразі додаток підтримує скроблінг **Last.fm** — після підключення статистика прослуховування автоматично надсилається до вашого акаунта Last.fm. Детальні інструкції з налаштування доступні [тут](/docs/howto/how-to-scrobble-your-music-history-from-evermusic-or-flacbox-to-last-fm).
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox — Підключення Last.fm" image="/docs/guide/flacbox/img/last-fm-connect.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox — Підключення Last.fm" image="/docs/guide/flacbox/img/last-fm-connect.webp" >}}
 {{< /cards >}}

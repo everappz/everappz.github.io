@@ -7,7 +7,7 @@ keywords: ["傳輸音樂庫Evermusic", "備份和還原播放列表Evermusic", "
 readingTime: 3
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **摘要：** 要將Evermusic庫傳輸到新裝置，請在來源裝置上建立備份，啟動Wi-Fi Drive，透過同一網路連接第二台裝置，下載備份和音樂檔案，然後從備份還原。整個過程大約需要10分鐘，視庫的大小而定。
@@ -144,22 +144,22 @@ readingTime: 3
 
 ## 常見問題
 
-{{% details title="我可以在沒有Wi-Fi的情況下傳輸Evermusic庫嗎？" closed="true" %}}
+{{% ls-details title="我可以在沒有Wi-Fi的情況下傳輸Evermusic庫嗎？" closed="true" %}}
 Wi-Fi Drive要求兩台裝置在同一Wi-Fi網路上。目前沒有藍牙或行動網路傳輸選項。您也可以使用AirDrop或檔案應用程式在裝置之間手動移動備份檔案和音樂資料夾。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="雲端服務連接會隨備份一起傳輸嗎？" closed="true" %}}
+{{% ls-details title="雲端服務連接會隨備份一起傳輸嗎？" closed="true" %}}
 備份包括資料庫、播放列表、專輯封面和設定。出於安全原因，不包括雲端服務登入憑證。還原後，您需要在新裝置上重新連接雲端帳戶。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="第二台裝置上的現有庫會怎樣？" closed="true" %}}
+{{% ls-details title="第二台裝置上的現有庫會怎樣？" closed="true" %}}
 還原備份將替換第二台裝置上所有現有的音樂庫資料、播放列表、設定和專輯封面。如果您想保留其資料，請先為第二台裝置建立單獨的備份。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="此過程在iPhone和Mac之間是否有效？" closed="true" %}}
+{{% ls-details title="此過程在iPhone和Mac之間是否有效？" closed="true" %}}
 是的。Evermusic支援在iPhone、iPad和Mac的任意組合之間進行Wi-Fi Drive傳輸。兩台裝置只需在同一Wi-Fi網路上即可。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="傳輸需要多長時間？" closed="true" %}}
+{{% ls-details title="傳輸需要多長時間？" closed="true" %}}
 傳輸時間取決於音樂庫的大小和Wi-Fi速度。幾個GB的典型庫透過標準家庭網路傳輸需要5-15分鐘。
-{{% /details %}}
+{{% /ls-details %}}

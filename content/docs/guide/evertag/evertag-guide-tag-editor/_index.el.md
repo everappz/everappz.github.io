@@ -15,7 +15,7 @@ readingTime: 5
 Ο **Επεξεργαστής Ετικετών** είναι η κύρια οθόνη της εφαρμογής Evertag όπου μπορείτε να προβάλλετε και να επεξεργάζεστε μεταδεδομένα αρχείων ήχου. Ανοίξτε αυτή την οθόνη πατώντας ένα αρχείο από την ενότητα **Τοπικά Αρχεία** ή από οποιοδήποτε συνδεδεμένο λογαριασμό **αποθήκευσης cloud**.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evertag Tag Editor Screen" image="/docs/guide/evertag/img/tag-editor.webp" >}}
+  {{< ls-card title="" subtitle="Evertag Tag Editor Screen" image="/docs/guide/evertag/img/tag-editor.webp" >}}
 {{< /cards >}}
 
 ## Λειτουργίες Επεξεργασίας
@@ -38,7 +38,7 @@ readingTime: 5
 Για πρόσβαση σε όλες τις διαθέσιμες ετικέτες, μετακινηθείτε στο κάτω μέρος της οθόνης και πατήστε την επιλογή **Εμφάνιση εκτεταμένων ετικετών**. Αυτό θα αλλάξει τον επεξεργαστή σε εκτεταμένη λειτουργία, επιτρέποντάς σας να επεξεργαστείτε πάνω από **120 πεδία μεταδεδομένων**, συμπεριλαμβανομένων **Ετικετών MusicBrainz**, **Στίχων**, **Βαθμολογιών Γονικής Προειδοποίησης**, τιμών replay-gain, σειρών ταξινόμησης, μεταδεδομένων podcast και άλλων. Χρησιμοποιήστε **Ρυθμίσεις → Επεξεργαστής ετικετών ήχου → Κουμπιά κύριας οθόνης** για να εναλλάξετε μόνιμα την Εμφάνιση εκτεταμένων ετικετών ώστε να είναι πάντα ενεργή.
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Bottom Actions Panel" image="/docs/guide/evertag/img/tag-editor-bottom-actions.webp" >}}
+{{< ls-card title="" subtitle="Bottom Actions Panel" image="/docs/guide/evertag/img/tag-editor-bottom-actions.webp" >}}
 {{< /cards >}}
 
 ## Λειτουργία Παρτίδας
@@ -53,7 +53,7 @@ readingTime: 5
    - Ανοίξτε οποιοδήποτε αρχείο, μετακινηθείτε στο κάτω μέρος και πατήστε **Επεξεργασία αρχείων ταυτόχρονα** για φόρτωση όλων των αρχείων από τον ίδιο φάκελο.
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Batch Editing Mode" image="/docs/guide/evertag/img/tag-editor-batch-editing.webp" >}}
+{{< ls-card title="" subtitle="Batch Editing Mode" image="/docs/guide/evertag/img/tag-editor-batch-editing.webp" >}}
 {{< /cards >}}
 
 Μετά την επεξεργασία, πατήστε **Αποθήκευση** για εφαρμογή αλλαγών.
@@ -72,19 +72,19 @@ readingTime: 5
 Κάθε συντόμευση εμφανίζεται μόνο όταν η αντίστοιχη υπηρεσία είναι προσβάσιμη από τη συσκευή σας. Πατήστε μια υπηρεσία, αντιγράψτε τους στίχους (ή τις χρονικές σημάνσεις LRC) που θέλετε, επιστρέψτε στο Evertag και επικολλήστε τους στο πεδίο κειμένου — στη συνέχεια **Αποθήκευση** για να γράψετε τους στίχους πίσω στις ετικέτες του αρχείου ήχου.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Lyrics Pages" image="/docs/guide/evertag/img/tag-editor-lyrics-pages.webp" >}}
+  {{< ls-card title="" subtitle="Lyrics Pages" image="/docs/guide/evertag/img/tag-editor-lyrics-pages.webp" >}}
 {{< /cards >}}
 
 Επιλέξτε γλώσσα από τον επιλογέα:
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Lyrics Language Selector" image="/docs/guide/evertag/img/tag-editor-lyrics-language-select.webp" >}}
+  {{< ls-card title="" subtitle="Lyrics Language Selector" image="/docs/guide/evertag/img/tag-editor-lyrics-language-select.webp" >}}
 {{< /cards >}}
 
 Έπειτα επικολλήστε ή πληκτρολογήστε το κείμενο στίχων. Το Evertag υποστηρίζει τόσο απλό κείμενο όσο και χρονικά επισημαινόμενους (συγχρονισμένους) στίχους — ο πλαισιωτός κείμενος δείχνει παράδειγμα μορφής LRC-style, που είναι ακριβώς αυτό που επιστρέφουν το Lrclib και το Lyricsify για συγχρονισμένα αποτελέσματα.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Lyrics Text Editor" image="/docs/guide/evertag/img/tag-editor-lyrics-text.webp" >}}
+  {{< ls-card title="" subtitle="Lyrics Text Editor" image="/docs/guide/evertag/img/tag-editor-lyrics-text.webp" >}}
 {{< /cards >}}
 
 ## Ορισμός Αξιολόγησης και Γονικής Αξιολόγησης
@@ -96,7 +96,7 @@ readingTime: 5
 Χρησιμοποιήστε το πεδίο **Αξιολόγηση** για να δώσετε σε ένα κομμάτι προσωπική βαθμολογία από ένα έως πέντε αστέρια. Η τιμή γράφεται στο τυπικό πεδίο ετικέτας αξιολόγησης της αρχείο (POPM για ID3, `rate` για MP4, `RATING` για Vorbis/APE κ.λπ.), οπότε άλλες εφαρμογές που διαβάζουν αυτή την ετικέτα — συμπεριλαμβανομένης της εφαρμογής Μουσική, του Plex, του Roon και των περισσότερων επεξεργαστών ετικετών επιφάνειας εργασίας — θα λαμβάνουν αμέσως τις βαθμολογίες σας.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Rating" image="/docs/guide/evertag/img/tag-editor-rating.webp" >}}
+  {{< ls-card title="" subtitle="Rating" image="/docs/guide/evertag/img/tag-editor-rating.webp" >}}
 {{< /cards >}}
 
 ### Γονική Αξιολόγηση
@@ -115,7 +115,7 @@ readingTime: 5
 - Θέλετε το CarPlay, την Οθόνη Κλειδώματος, αναπαραγωγείς τύπου Apple Music ή λογισμικό DJ να εμφανίζει το σωστό σήμα **E** / **C** δίπλα στον τίτλο κομματιού.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Lyrics Advisory Rating" image="/docs/guide/evertag/img/lyrics-advisory-rating.webp" >}}
+  {{< ls-card title="" subtitle="Lyrics Advisory Rating" image="/docs/guide/evertag/img/lyrics-advisory-rating.webp" >}}
 {{< /cards >}}
 
 ## Επεξεργασία Εξωφύλλου Άλμπουμ
@@ -127,7 +127,7 @@ readingTime: 5
 3. Επιλέξτε μια εικόνα για εφαρμογή ως εξώφυλλο.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Select Image" image="/docs/guide/evertag/img/select-image.webp" >}}
+  {{< ls-card title="" subtitle="Select Image" image="/docs/guide/evertag/img/select-image.webp" >}}
 {{< /cards >}}
 
 ## Περισσότερες Ενέργειες στον Επεξεργαστή Ετικετών
@@ -135,7 +135,7 @@ readingTime: 5
 Επιπλέον επιλογές επεξεργασίας είναι διαθέσιμες μέσω της γραμμής εργαλείων κάτω από την προβολή εξωφύλλου.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="More Actions Menu" image="/docs/guide/evertag/img/tag-editor-more-actions.webp" >}}
+  {{< ls-card title="" subtitle="More Actions Menu" image="/docs/guide/evertag/img/tag-editor-more-actions.webp" >}}
 {{< /cards >}}
 
 ### Αυτόματη Αναζήτηση Ετικετών Ήχου
@@ -148,13 +148,13 @@ readingTime: 5
 Χρησιμοποιήστε μεταδεδομένα για αναζήτηση στο διαδίκτυο του σωστού εξωφύλλου άλμπουμ.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Search Album Cover" image="/docs/guide/evertag/img/search-album-cover.webp" >}}
+  {{< ls-card title="" subtitle="Search Album Cover" image="/docs/guide/evertag/img/search-album-cover.webp" >}}
 {{< /cards >}}
 
 Μόλις βρεθεί, αποθηκεύστε την εικόνα στις **Φωτογραφίες** σας χρησιμοποιώντας το μενού περιβάλλοντος συστήματος.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Add Image to Photos" image="/docs/guide/evertag/img/add-image-to-photos.webp" >}}
+  {{< ls-card title="" subtitle="Add Image to Photos" image="/docs/guide/evertag/img/add-image-to-photos.webp" >}}
 {{< /cards >}}
 
 Μετά από αυτό, επιστρέψτε στον επεξεργαστή ετικετών, πατήστε το εικονίδιο Κάμερας, μεταβείτε στη **Βιβλιοθήκη Φωτογραφιών** και επιλέξτε την αποθηκευμένη εικόνα. Η εφαρμογή θα τη ορίσει ως εξώφυλλο για το αρχείο ήχου σας.
@@ -176,19 +176,19 @@ readingTime: 5
 - Επιλέξτε το άλμπουμ
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Select Album" image="/docs/guide/evertag/img/select-album-results.webp" >}}
+  {{< ls-card title="" subtitle="Select Album" image="/docs/guide/evertag/img/select-album-results.webp" >}}
 {{< /cards >}}
 
 - Επιλέξτε το σωστό τραγούδι
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Select Song" image="/docs/guide/evertag/img/select-a-song.webp" >}}
+  {{< ls-card title="" subtitle="Select Song" image="/docs/guide/evertag/img/select-a-song.webp" >}}
 {{< /cards >}}
 
 - Επιλέξτε ποιες ετικέτες να εφαρμοστούν
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Select Audio Tags" image="/docs/guide/evertag/img/select-audio-tags.webp" >}}
+  {{< ls-card title="" subtitle="Select Audio Tags" image="/docs/guide/evertag/img/select-audio-tags.webp" >}}
 {{< /cards >}}
 
 Πατήστε **Ολοκλήρωση** για εφαρμογή των επιλεγμένων μεταδεδομένων στο κομμάτι σας.

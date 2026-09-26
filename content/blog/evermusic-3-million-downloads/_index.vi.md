@@ -12,7 +12,7 @@ authors:
     image: "/images/about/artem-meleshko-founder-everappz.webp"
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 ## 3 triệu lượt tải
 
@@ -98,22 +98,22 @@ Evermusic miễn phí trên App Store với các tính năng cao cấp tùy ch�
 
 ## Câu hỏi thường gặp
 
-{{% details title="Evermusic có miễn phí không?" closed="true" %}}
+{{% ls-details title="Evermusic có miễn phí không?" closed="true" %}}
 Có. Evermusic miễn phí tải về với các tính năng cốt lõi không mất phí. Các tính năng cao cấp như bộ cân bằng và tùy chọn đám mây nâng cao có sẵn thông qua nâng cấp tùy chọn.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Evermusic có thể phát sách nói không?" closed="true" %}}
+{{% ls-details title="Evermusic có thể phát sách nói không?" closed="true" %}}
 Có. Evermusic lưu vị trí phát, hỗ trợ đánh dấu trang, tốc độ phát điều chỉnh được (0.5x đến 2.0x) và hẹn giờ ngủ — phù hợp cho sách nói và podcast.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Evermusic kết nối với những dịch vụ đám mây nào?" closed="true" %}}
+{{% ls-details title="Evermusic kết nối với những dịch vụ đám mây nào?" closed="true" %}}
 Dropbox, Google Drive, OneDrive, Box, MEGA, Yandex.Disk, MyDrive, pCloud, HiDrive, chia sẻ tệp SMB và máy chủ WebDAV.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Tôi có thể sử dụng thẻ SD với Evermusic không?" closed="true" %}}
+{{% ls-details title="Tôi có thể sử dụng thẻ SD với Evermusic không?" closed="true" %}}
 Có. Kết nối đầu đọc thẻ SD Lightning hoặc USB-C với iPhone hoặc iPad và phát nhạc trực tiếp từ thẻ qua Evermusic.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Evermusic có hoạt động trên Mac không?" closed="true" %}}
+{{% ls-details title="Evermusic có hoạt động trên Mac không?" closed="true" %}}
 Có. Evermusic có sẵn cho cả iOS và macOS, với phát trực tuyến đám mây và phát offline trên tất cả nền tảng.
-{{% /details %}}
+{{% /ls-details %}}

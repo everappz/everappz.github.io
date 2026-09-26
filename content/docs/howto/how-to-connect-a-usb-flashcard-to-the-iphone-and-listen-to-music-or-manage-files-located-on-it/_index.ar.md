@@ -7,7 +7,7 @@ tags: ["موسيقى", "ملفات", "usb", "فلاش", "خارجي", "ixpand", 
 readingTime: 2
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **ملخص:** قم بتوصيل محرك أقراص USB فلاش أو بطاقة SD بجهاز iPhone باستخدام محول Apple أو محرك SanDisk iXpand، ثم استخدم Evermusic أو Flacbox أو Evertag لتصفح ملفات الصوت وتشغيلها وإدارتها مباشرة من وحدة التخزين الخارجية.
@@ -72,18 +72,18 @@ readingTime: 2
 
 ## الأسئلة الشائعة
 
-{{% details title="ما هي محولات USB التي تعمل مع iPhone لتشغيل الموسيقى؟" closed="true" %}}
+{{% ls-details title="ما هي محولات USB التي تعمل مع iPhone لتشغيل الموسيقى؟" closed="true" %}}
 يعمل كل من Lightning to SD Card Camera Reader وLightning to USB 3 Camera Adapter من Apple. تعمل محولات USB-C على أجهزة iPhone الأحدث المزودة بمنافذ USB-C. كما يتم دعم محركات أقراص SanDisk iXpand Flash (V1-V7) بشكل أصلي بواسطة Evermusic وFlacbox وEvertag.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="هل يمكنني تشغيل الموسيقى مباشرة من محرك USB دون نسخ الملفات؟" closed="true" %}}
+{{% ls-details title="هل يمكنني تشغيل الموسيقى مباشرة من محرك USB دون نسخ الملفات؟" closed="true" %}}
 نعم. مع محركات أقراص SanDisk iXpand، يمكنك تشغيل الموسيقى مباشرة من المحرك دون نسخ الملفات إلى iPhone. عند استخدام محولات Apple، يتم استيراد الملفات ولكن يمكنك اختيار ما إذا كنت تريد نسخها إلى التخزين المحلي.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="ما هي تنسيقات الصوت المدعومة من محركات USB؟" closed="true" %}}
+{{% ls-details title="ما هي تنسيقات الصوت المدعومة من محركات USB؟" closed="true" %}}
 يدعم Evermusic وFlacbox مجموعة واسعة من التنسيقات بما في ذلك FLAC وMP3 وAAC وWAV وALAC وOGG وWMA والمزيد. جميع التنسيقات المدعومة تعمل عند التشغيل من وحدة تخزين USB.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="يظهر محرك SanDisk iXpand الخاص بي خطأ 'مشغول'. ماذا أفعل؟" closed="true" %}}
+{{% ls-details title="يظهر محرك SanDisk iXpand الخاص بي خطأ 'مشغول'. ماذا أفعل؟" closed="true" %}}
 قد يكون تطبيق آخر يصل إلى المحرك. أغلق جميع التطبيقات الأخرى التي قد تستخدم محرك الأقراص، أو افصله وأعد إدخاله. ثم أعد فتح Evermusic أو Flacbox أو Evertag.
-{{% /details %}}
+{{% /ls-details %}}

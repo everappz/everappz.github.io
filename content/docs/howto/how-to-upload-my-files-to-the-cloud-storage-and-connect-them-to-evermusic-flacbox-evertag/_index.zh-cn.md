@@ -7,7 +7,7 @@ tags: ["evermusic", "flacbox", "云", "文件", "账户", "管理器", "连接",
 keywords: ["将云服务连接到 Evermusic", "上传文件到 Google Drive", "Flacbox 云集成", "在 Evermusic 中使用 OneDrive", "Evertag 云文件访问", "将 Dropbox 连接到 iOS 音乐播放器", "云服务文件管理器"]
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **摘要：** 将您的音乐或媒体文件上传到任何受支持的云服务（Google Drive、Dropbox、OneDrive 等），然后在 Evermusic、Flacbox 或 Evertag 中连接该服务，即可直接在 iPhone、iPad 或 Mac 上串流或下载您的文件。
@@ -76,38 +76,38 @@ keywords: ["将云服务连接到 Evermusic", "上传文件到 Google Drive", "F
 
 ## 常见问题
 
-{{% details title="支持哪些云服务？" closed="true" %}}
+{{% ls-details title="支持哪些云服务？" closed="true" %}}
 Evermusic、Flacbox 和 Evertag 支持 Google Drive、Dropbox、OneDrive、Box、MediaFire、Yandex.Disk、MEGA、MyDrive、pCloud 和其他云服务提供商。您还可以连接自定义的 WebDAV、SMB 和 FTP 服务器。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="我可以直接从云端串流音乐而不下载吗？" closed="true" %}}
+{{% ls-details title="我可以直接从云端串流音乐而不下载吗？" closed="true" %}}
 可以。三款应用都支持直接从连接的云存储串流音频文件。您也可以下载文件以便在没有网络连接时离线播放。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="应用中有文件大小或存储限制吗？" closed="true" %}}
+{{% ls-details title="应用中有文件大小或存储限制吗？" closed="true" %}}
 应用本身不设置文件大小或存储限制。您的可用存储空间取决于云服务套餐和设备的本地存储空间。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="我可以同时连接多个云账户吗？" closed="true" %}}
+{{% ls-details title="我可以同时连接多个云账户吗？" closed="true" %}}
 可以。您可以同时连接多个云服务和同一提供商的多个账户。所有连接的账户都显示在连接标签页中，方便切换。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="切换到其他应用时需要重新上传文件吗？" closed="true" %}}
+{{% ls-details title="切换到其他应用时需要重新上传文件吗？" closed="true" %}}
 不需要。由于文件存储在云端，您可以将同一云账户连接到 Evermusic、Flacbox 或 Evertag，无需重新上传任何内容。每个应用都访问云存储中的相同文件。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="我的云账户数据安全吗？" closed="true" %}}
+{{% ls-details title="我的云账户数据安全吗？" closed="true" %}}
 安全。应用仅使用官方 SDK 和加密连接与云服务交互。您的登录信息和密码绝不会被应用存储。登录时，应用会显示云服务提供的官方授权页面。授权成功后，云服务提供商会向应用发送授权令牌，该令牌安全存储在设备钥匙串中。此令牌用于所有 API 请求。<br><br>
 应用不会分享您云账户中的任何信息。您可以随时在网页浏览器的云账户设置页面撤销访问权限，或在应用内断开账户连接。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="如何断开云服务连接或更改其配置？" closed="true" %}}
+{{% ls-details title="如何断开云服务连接或更改其配置？" closed="true" %}}
 在应用的连接标签页中找到云存储，点击旁边的 **...** 按钮。您将看到以下选项：<br>
 - **重命名** -- 更改云服务的显示名称<br>
 - **设置** -- 修改配置或在令牌过期时重新授权<br>
 - **断开连接** -- 完全移除连接。这将从应用的音乐库中移除该云服务的所有歌曲，但文件仍保留在服务器上
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="如何撤销应用对我云账户的访问权限？" closed="true" %}}
+{{% ls-details title="如何撤销应用对我云账户的访问权限？" closed="true" %}}
 在网页浏览器中登录您的云账户，打开账户设置或安全页面。找到已连接的第三方应用列表，移除您不再想授权的应用。您也可以在应用内断开云账户连接——这将从您的设备中移除授权令牌。如果您完全删除应用，所有下载的数据和访问令牌将自动移除。
-{{% /details %}}
+{{% /ls-details %}}

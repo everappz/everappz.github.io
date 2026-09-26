@@ -14,7 +14,7 @@ authors:
     image: "/images/about/artem-meleshko-founder-everappz.webp"
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 ## Miért határozzák meg az App Store kulcsszavak a letöltéseidet
 
@@ -76,29 +76,29 @@ Az [AppKeywords.pro](https://appkeywords.pro)-val percek alatt javíthatod az al
 Az eszköz nyílt forráskódú.
 
 {{< cards cols="1" >}}
-  {{< card link="https://github.com/everappz/app-store-keyword-optimizer/tree/main" title="appkeywords.pro a GitHubon" icon="github" tag= "open source" >}}
+  {{< ls-card link="https://github.com/everappz/app-store-keyword-optimizer/tree/main" title="appkeywords.pro a GitHubon" icon="github" tag= "open source" >}}
 {{< /cards >}}
 
 ---
 
 ## Gyakran ismételt kérdések
 
-{{% details title="Tényleg ingyenes az AppKeywords.pro?" closed="true" %}}
+{{% ls-details title="Tényleg ingyenes az AppKeywords.pro?" closed="true" %}}
 Igen. Teljesen nyílt forráskódú, böngésző alapú eszköz regisztráció, hirdetések és adatgyűjtés nélkül.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Működik ez az eszköz több App Store lokalizációval?" closed="true" %}}
+{{% ls-details title="Működik ez az eszköz több App Store lokalizációval?" closed="true" %}}
 Igen. Minden lokálhoz külön adhatsz hozzá metaadatokat, az export pedig minden nyelvet tartalmaz egyetlen Fastlane-kompatibilis JSON fájlban.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Meg kell ismételnem a cím kulcsszavait a kulcsszómezőben?" closed="true" %}}
+{{% ls-details title="Meg kell ismételnem a cím kulcsszavait a kulcsszómezőben?" closed="true" %}}
 Nem. Az Apple már indexeli a címed és alcímed szavait. Az ismétlés karaktereket pazarol.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Milyen gyakran frissítsem az App Store kulcsszavaimat?" closed="true" %}}
+{{% ls-details title="Milyen gyakran frissítsem az App Store kulcsszavaimat?" closed="true" %}}
 Legalább negyedévente tekintsd át és frissítsd a kulcsszavaidat.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Használhatom ezt az eszközt Fastlane-nel?" closed="true" %}}
+{{% ls-details title="Használhatom ezt az eszközt Fastlane-nel?" closed="true" %}}
 Igen. A GitHub repo tartalmaz shell szkripteket a Fastlane metaadat mappastruktúra és az AppKeywords.pro JSON formátum közötti konvertáláshoz.
-{{% /details %}}
+{{% /ls-details %}}

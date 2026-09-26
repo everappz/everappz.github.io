@@ -11,7 +11,7 @@ readingTime: 3
 Evervideo oferă atât o versiune gratuită cu anumite limitări de utilizare, cât și o versiune premium cu funcții adăugate, care pot fi deblocate prin achiziții în aplicație.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Ecranul de actualizare a planului implicit" image="/docs/faq/evervideo/what-is-the-difference-between-evervideo-and-evervideo-premium/upgrade-default.webp" >}}
+  {{< ls-card title="" subtitle="Ecranul de actualizare a planului implicit" image="/docs/faq/evervideo/what-is-the-difference-between-evervideo-and-evervideo-premium/upgrade-default.webp" >}}
 {{< /cards >}}
 
 ## Alegeți Planul Dvs. Premium
@@ -19,7 +19,7 @@ Evervideo oferă atât o versiune gratuită cu anumite limitări de utilizare, c
 Versiunea gratuită a aplicației oferă o achiziție unică pe viață în aplicație și două opțiuni de abonament (1 lună și 1 an) pentru a elimina toate restricțiile și a face upgrade la versiunea Premium, permițându-vă să alegeți cel mai bun și mai optim preț pentru dvs. Prețurile pot varia în funcție de țara sau teritoriul dvs. De asemenea, rețineți că **Partajarea în Familie** este activată pentru toate achizițiile și planurile, astfel încât să puteți partaja versiunea Premium cu membrii familiei dvs.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Ecranul de selectare a planului Evervideo" image="/docs/faq/evervideo/what-is-the-difference-between-evervideo-and-evervideo-premium/plan-select.webp" >}}
+  {{< ls-card title="" subtitle="Ecranul de selectare a planului Evervideo" image="/docs/faq/evervideo/what-is-the-difference-between-evervideo-and-evervideo-premium/plan-select.webp" >}}
 {{< /cards >}}
 
 ## Partajarea Achizițiilor Între iOS și Mac
@@ -31,13 +31,13 @@ Puteți de asemenea încerca să apăsați butonul "Restaurare Achiziții" din s
 Pentru a vă restaura achiziția pe noul dispozitiv, utilizați meniul "Restaurare achiziții". Veți vedea lista achizițiilor dvs. Dacă nu vedeți toate achizițiile, verificați dacă dispozitivul este conectat la același cont iTunes care a fost utilizat pentru a face achizițiile și asigurați-vă că iCloud este activat.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Ecranul de achiziție restaurată" image="/docs/faq/evervideo/what-is-the-difference-between-evervideo-and-evervideo-premium/purchase-restored.webp" >}}
+  {{< ls-card title="" subtitle="Ecranul de achiziție restaurată" image="/docs/faq/evervideo/what-is-the-difference-between-evervideo-and-evervideo-premium/purchase-restored.webp" >}}
 {{< /cards >}}
 
 Odată ce faceți upgrade aplicației, veți vedea ecranul de stare Premium cu detaliile achizițiilor curente.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Ecranul 'Folosiți Premium'" image="/docs/faq/evervideo/what-is-the-difference-between-evervideo-and-evervideo-premium/you-are-using-premium.webp" >}}
+  {{< ls-card title="" subtitle="Ecranul 'Folosiți Premium'" image="/docs/faq/evervideo/what-is-the-difference-between-evervideo-and-evervideo-premium/you-are-using-premium.webp" >}}
 {{< /cards >}}
 
 ## Încercați Premium Gratuit
@@ -45,7 +45,7 @@ Odată ce faceți upgrade aplicației, veți vedea ecranul de stare Premium cu d
 În plus, există o oportunitate pe durată limitată de a "**Încerca Premium Gratuit**". Puteți accesa această funcție prin meniul "Încearcă Premium Gratuit". Simplu vizionând o reclamă sau răspândind vestea despre aplicație prietenilor dvs., puteți debloca versiunea Premium gratuit în această perioadă promoțională. Aceasta vă oferă șansa de a experimenta funcțiile premium fără niciun angajament financiar.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Ecranul de încercare Premium gratuit" image="/docs/faq/evervideo/what-is-the-difference-between-evervideo-and-evervideo-premium/premium-for-free.webp" >}}
+  {{< ls-card title="" subtitle="Ecranul de încercare Premium gratuit" image="/docs/faq/evervideo/what-is-the-difference-between-evervideo-and-evervideo-premium/premium-for-free.webp" >}}
 {{< /cards >}}
 
 ## Evervideo Free
@@ -62,7 +62,7 @@ Odată ce faceți upgrade aplicației, veți vedea ecranul de stare Premium cu d
 - Fără opțiuni de personalizare.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Ecranul de actualizare stocare cloud" image="/docs/faq/evervideo/what-is-the-difference-between-evervideo-and-evervideo-premium/upgrade-cloud-storage.webp" >}}
+  {{< ls-card title="" subtitle="Ecranul de actualizare stocare cloud" image="/docs/faq/evervideo/what-is-the-difference-between-evervideo-and-evervideo-premium/upgrade-cloud-storage.webp" >}}
 {{< /cards >}}
 
 ## Evervideo Premium
@@ -106,7 +106,7 @@ Dacă tocmai ați început sau aveți nevoie doar de funcții de bază de redare
 Pe de altă parte, **Evervideo Premium** deblochează experiența completă. Vă veți bucura de o interfață fără reclame, suport nelimitat pentru liste de redare și coadă, funcționalitate offline completă, flexibilitate cloud și opțiuni avansate de export și personalizare. Este cea mai bună opțiune pentru utilizatorii cu biblioteci video mari, cei care vizionează conținut din mai multe surse sau oricine caută un player media mai profesional și mai fluid.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Ecranul 'Ați achiziționat Premium'" image="/docs/faq/evervideo/what-is-the-difference-between-evervideo-and-evervideo-premium/you-have-purchased-premium.webp" >}}
+  {{< ls-card title="" subtitle="Ecranul 'Ați achiziționat Premium'" image="/docs/faq/evervideo/what-is-the-difference-between-evervideo-and-evervideo-premium/you-have-purchased-premium.webp" >}}
 {{< /cards >}}
 
 Dacă căutați flexibilitate, încercați **planul lunar**. Pentru valoare pe termen lung, alegeți upgrade-ul **anual** sau **pe viață** — ambele oferă acces complet la un preț mai bun.

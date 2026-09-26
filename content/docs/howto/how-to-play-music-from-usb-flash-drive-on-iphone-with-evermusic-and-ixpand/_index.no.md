@@ -7,7 +7,7 @@ tags: ["musikk", "usb", "ekstern", "ixpand", "sandisk", "iphone", "evermusic"]
 readingTime: 3
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **Kort oppsummert:** Evermusic lar deg spille musikk direkte fra en SanDisk iXpand Flash Drive på iPhone eller iPad. Koble til stasjonen, åpne Evermusic og begynn å lytte -- du trenger ikke kopiere filer til enheten din. Støtter filbehandling, spillelister, equalizer og AirPlay-strømming.
@@ -69,22 +69,22 @@ Med Evermusic og SanDisk iXpand Flash Drive vil du ha friheten til å nyte musik
 
 ## FAQ
 
-{{% details title="Hvilke iXpand Flash Drive-modeller støtter Evermusic?" closed="true" %}}
+{{% ls-details title="Hvilke iXpand Flash Drive-modeller støtter Evermusic?" closed="true" %}}
 Evermusic støtter SanDisk iXpand Flash Drives med protokollene V1, V2, V3, V6 og V7. Du kan sjekke kompatibilitet i iPhone-innstillingene under Generelt > Om > iXpand Flash Drive.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Kan jeg spille musikk fra USB-stasjonen uten å kopiere filer til iPhone?" closed="true" %}}
+{{% ls-details title="Kan jeg spille musikk fra USB-stasjonen uten å kopiere filer til iPhone?" closed="true" %}}
 Ja. Evermusic spiller av lydfiler direkte fra iXpand Flash Drive. Du trenger ikke kopiere noe til enhetens interne lagring.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Hvilke lydformater støtter Evermusic fra USB-stasjoner?" closed="true" %}}
+{{% ls-details title="Hvilke lydformater støtter Evermusic fra USB-stasjoner?" closed="true" %}}
 Evermusic støtter alle store lydformater inkludert MP3, FLAC, AAC, WAV, AIFF, OGG og mer. Alle lydfiler lagret på iXpand-stasjonen kan spilles direkte.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Kan jeg strømme musikk fra iXpand-stasjonen til AirPlay-høyttalere?" closed="true" %}}
+{{% ls-details title="Kan jeg strømme musikk fra iXpand-stasjonen til AirPlay-høyttalere?" closed="true" %}}
 Ja. Mens du spiller musikk fra USB-stasjonen, kan du strømme lyd til AirPlay-kompatible enheter som Sonos-høyttalere, Apple TV og Google Chromecast.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Hva bør jeg gjøre hvis iXpand-stasjonen min ikke blir gjenkjent?" closed="true" %}}
+{{% ls-details title="Hva bør jeg gjøre hvis iXpand-stasjonen min ikke blir gjenkjent?" closed="true" %}}
 Sørg for at ingen andre apper bruker stasjonen. Prøv å koble den fra og koble den til igjen. Hvis modellen din ikke støttes, bruk en Apple Lightning til USB-adapter for å koble stasjonen til som en standard USB-enhet.
-{{% /details %}}
+{{% /ls-details %}}

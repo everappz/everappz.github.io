@@ -7,7 +7,7 @@ tags: ["musik", "ljud", "spelare", "offline", "läge", "ladda ner", "mapp", "cac
 keywords: ["offlinemusik iPhone", "molnmusik synkronisering", "Evermusic offline", "Flacbox synkronisera musik", "spela musik utan internet", "ladda ner ljud från molnet", "lokal filuppspelning iOS"]
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **TL;DR:** Evermusic och Flacbox låter dig ladda ner musik från molnlagring (Google Drive, Dropbox, OneDrive med mera) till din iPhone eller iPad för offlineuppspelning. Du kan använda tre metoder: direkt nedladdning, offlineläge med automatisk synkronisering eller ljudspelarens cache. Den här guiden täcker alla tre metoderna steg för steg.
@@ -140,26 +140,26 @@ Genom att följa dessa detaljerade steg kan du sömlöst hantera och spela din l
 
 ## Vanliga frågor
 
-{{% details title="Vilka molntjänster stöder Evermusic och Flacbox?" closed="true" %}}
+{{% ls-details title="Vilka molntjänster stöder Evermusic och Flacbox?" closed="true" %}}
 Båda apparna stöder Google Drive, Dropbox, OneDrive, Box, MEGA, Yandex.Disk och andra stora molnlagringsleverantörer. Du kan ansluta flera tjänster samtidigt.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Kan jag synkronisera musik automatiskt från molnlagring till min iPhone?" closed="true" %}}
+{{% ls-details title="Kan jag synkronisera musik automatiskt från molnlagring till min iPhone?" closed="true" %}}
 Ja. Aktivera Offlineläge för valfri mapp, spellista, album eller artist. Appen utför en envägssynkronisering från moln till enhet med ett konfigurerbart intervall (standard: en gång per dag).
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Använder offlineläge mycket lagringsutrymme på min enhet?" closed="true" %}}
+{{% ls-details title="Använder offlineläge mycket lagringsutrymme på min enhet?" closed="true" %}}
 Lagringsanvändningen beror på storleken på din musiksamling och filformat. Du kan kontrollera detta genom att välja specifika mappar att synkronisera, ställa in gränser för cachestorlek och övervaka lagring i appinställningarna.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Vilka ljudformat stöds för offlineuppspelning?" closed="true" %}}
+{{% ls-details title="Vilka ljudformat stöds för offlineuppspelning?" closed="true" %}}
 Evermusic och Flacbox stöder MP3, FLAC, AAC, ALAC, WAV, AIFF, OGG, WMA och många andra format. Flacbox är optimerad för förlustfria format som FLAC och ALAC.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Kommer min offlinemusik att fortsätta spelas om jag stänger appen?" closed="true" %}}
+{{% ls-details title="Kommer min offlinemusik att fortsätta spelas om jag stänger appen?" closed="true" %}}
 Ja. Nedladdade filer lagras lokalt på din enhet och spelas genom appens ljudspelare oavsett internetanslutning. Bakgrundsuppspelning stöds fullt ut.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Hur frigör jag utrymme som upptas av offlinemusik?" closed="true" %}}
+{{% ls-details title="Hur frigör jag utrymme som upptas av offlinemusik?" closed="true" %}}
 Inaktivera Offlineläge för specifika mappar i Inställningar > Filhanterare > Synkroniserade offline-mappar. Detta tar bort lokala kopior från din enhet. Du kan också rensa ljudspelarens cache eller ta bort nedladdade filer manuellt.
-{{% /details %}}
+{{% /ls-details %}}

@@ -1,9 +1,10 @@
 ---
+excludeSearch: true
 date: '2025-06-12T17:00:00+00:00'
 title: '문의하기'
 ---
 
-{{< lottie src="/images/juicy-json/juicy-girl-typing-on-phone.json" width="60%" >}}
+{{< ls-lottie src="/images/juicy-json/juicy-girl-typing-on-phone.json" width="60%" >}}
 
 ## 우편 주소
 
@@ -27,4 +28,4 @@ title: '문의하기'
 
 소셜 네트워크에서 팔로우하여 최신 뉴스, 앱 업데이트, 팁 및 유용한 정보를 받아보세요:
 
-{{< social-cards >}}
+{{< ls-social-cards >}}

@@ -33,7 +33,7 @@ Karta Súbory je rozdelená do jasných sekcií, ktoré sa na vašej obrazovke z
 V pravom hornom rohu obrazovky Súbory je tlačidlo Prenosy (ikona točiacich sa šípok). Klepnutím na ňu otvoríte frontu prenosov, kde monitorujete každé stiahnutie a nahrávanie naprieč všetkými vašimi zdrojmi.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evervideo súbory naprieč pripojenými úložiskami" image="/docs/guide/evervideo/img/evervideo-files-connected-storages.webp" >}}
+  {{< ls-card title="" subtitle="Evervideo súbory naprieč pripojenými úložiskami" image="/docs/guide/evervideo/img/evervideo-files-connected-storages.webp" >}}
 {{< /cards >}}
 
 ## Pripojenie k cloudovému úložisku
@@ -41,7 +41,7 @@ V pravom hornom rohu obrazovky Súbory je tlačidlo Prenosy (ikona točiacich sa
 Sekcia Cloudové úložisko karty Súbory je miestom, kde žije každý pripojený účet, NAS, mediálny server a stream — vedľa seba, v jednom posúvacom zozname.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Sekcia cloudového úložiska Evervideo v karte Súbory" image="/docs/guide/evervideo/img/evervideo-connections.webp" >}}
+  {{< ls-card title="" subtitle="Sekcia cloudového úložiska Evervideo v karte Súbory" image="/docs/guide/evervideo/img/evervideo-connections.webp" >}}
 {{< /cards >}}
 
 - Otvorte kartu **Súbory**.
@@ -51,7 +51,7 @@ Sekcia Cloudové úložisko karty Súbory je miestom, kde žije každý pripojen
 - Zadajte svoje prihlasovacie údaje na oficiálnej autorizačnej stránke poskytovateľa cloudu, potom klepnite na **Hotovo**.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evervideo pripojenie cloudovej úložnej služby" image="/docs/guide/evervideo/img/evervideo-connect-cloud-storage.webp" >}}
+  {{< ls-card title="" subtitle="Evervideo pripojenie cloudovej úložnej služby" image="/docs/guide/evervideo/img/evervideo-connect-cloud-storage.webp" >}}
 {{< /cards >}}
 
 Ak narazíte na problémy, skontrolujte svoje internetové pripojenie a prihlasovacie meno / heslo. V Premium verzii aplikácie môžete pridať neobmedzený počet služieb; bezplatná verzia podporuje až tri.
@@ -161,7 +161,7 @@ Táto sekcia zobrazuje každé zariadenie na vašej lokálnej sieti, ku ktorému
 - Ak je potrebné, zadajte prihlasovacie údaje na dokončenie pripojenia.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evervideo dostupné zariadenia na lokálnej sieti" image="/docs/guide/evervideo/img/evervideo-available-devices.webp" >}}
+  {{< ls-card title="" subtitle="Evervideo dostupné zariadenia na lokálnej sieti" image="/docs/guide/evervideo/img/evervideo-available-devices.webp" >}}
 {{< /cards >}}
 
 ## Wi-Fi Drive
@@ -169,7 +169,7 @@ Táto sekcia zobrazuje každé zariadenie na vašej lokálnej sieti, ku ktorému
 Wi-Fi Drive vám umožňuje prenášať súbory bezdrôtovo z počítača na iOS zariadenie cez akýkoľvek desktopový prehliadač, Finder alebo File Explorer. Vaše zariadenie a počítač musia byť v rovnakej Wi-Fi sieti.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evervideo Wi-Fi Drive" image="/docs/guide/evervideo/img/evervideo-wifi-drive.webp" >}}
+  {{< ls-card title="" subtitle="Evervideo Wi-Fi Drive" image="/docs/guide/evervideo/img/evervideo-wifi-drive.webp" >}}
 {{< /cards >}}
 
 ### Povolenie Wi-Fi Drive
@@ -201,7 +201,7 @@ Zapojte USB disk alebo SD kartu do iPhone, iPad alebo Mac cez adaptér Lightning
 Klepnutím na akúkoľvek pripojenú cloudovú službu otvoríte jej prehliadač súborov. Priečinky zobrazujú miniatúry videa, keď sú dostupné, a klepnutím na video sa okamžite spustí prehrávanie, pričom sa na pozadí pokračuje v streamovaní zvyšku súboru.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evervideo prehliadanie priečinkov v pripojených úložiskách" image="/docs/guide/evervideo/img/evervideo-all-connected-device-folders.webp" >}}
+  {{< ls-card title="" subtitle="Evervideo prehliadanie priečinkov v pripojených úložiskách" image="/docs/guide/evervideo/img/evervideo-all-connected-device-folders.webp" >}}
 {{< /cards >}}
 
 ## Rýchly prístup
@@ -209,7 +209,7 @@ Klepnutím na akúkoľvek pripojenú cloudovú službu otvoríte jej prehliadač
 Sekcia Rýchly prístup sa nachádza v hornej časti karty Súbory. Poskytuje rýchly prístup k obľúbeným a naposledy otvoreným súborom a priečinkom — z cloudových služieb aj z úložiska na zariadení. Vždy keď otvoríte súbor alebo priečinok z cloudu, pridá sa do zoznamu Naposledy otvorené. Hlboko vnorené priečinky môžete označiť ako Obľúbené, aby ste k nim mali rýchly prístup bez prehliadania adresárovej štruktúry.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evervideo online linky a rýchly prístup" image="/docs/guide/evervideo/img/evervideo-connections-online-links.webp" >}}
+  {{< ls-card title="" subtitle="Evervideo online linky a rýchly prístup" image="/docs/guide/evervideo/img/evervideo-connections-online-links.webp" >}}
 {{< /cards >}}
 
 ## Súbory v tejto aplikácii
@@ -217,7 +217,7 @@ Sekcia Rýchly prístup sa nachádza v hornej časti karty Súbory. Poskytuje r�
 Táto sekcia zobrazuje súbory a priečinky uložené v ohraničenom adresári Documents Evervideo — všetko, čo ste stiahli z cloudu, preniesli cez Wi-Fi Drive, skopírovali cez Zdieľanie súborov Finder alebo importovali z inej aplikácie.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evervideo súbory v tejto aplikácii" image="/docs/guide/evervideo/img/evervideo-files-in-this-application.webp" >}}
+  {{< ls-card title="" subtitle="Evervideo súbory v tejto aplikácii" image="/docs/guide/evervideo/img/evervideo-files-in-this-application.webp" >}}
 {{< /cards >}}
 
 ### Priečinok Documents
@@ -225,7 +225,7 @@ Táto sekcia zobrazuje súbory a priečinky uložené v ohraničenom adresári D
 Priečinok Documents je koreňom všetkého v Súboroch v tejto aplikácii. Môžete vytvárať podpriečinky, premenovávať súbory, presúvať ich a triediť ich podľa potreby.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evervideo miestne súbory — priečinok Documents" image="/docs/guide/evervideo/img/evervideo-local-files-documents.webp" >}}
+  {{< ls-card title="" subtitle="Evervideo miestne súbory — priečinok Documents" image="/docs/guide/evervideo/img/evervideo-local-files-documents.webp" >}}
 {{< /cards >}}
 
 ## Súbory na tomto iPhone / iPad / Mac
@@ -238,7 +238,7 @@ Táto sekcia zobrazuje videá nachádzajúce sa na vašom zariadení, ale v rôz
 Môžete tiež použiť Pripojiť priečinok na vytvorenie odkazu na priečinok na vašom zariadení s prístupom na čítanie / zápis — ideálne pre prácu s priečinkom na iCloud Drive alebo pripojeným USB diskom bez kopírovania čohokoľvek.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evervideo súbory na tomto zariadení" image="/docs/guide/evervideo/img/evervideo-files-on-this-device.webp" >}}
+  {{< ls-card title="" subtitle="Evervideo súbory na tomto zariadení" image="/docs/guide/evervideo/img/evervideo-files-on-this-device.webp" >}}
 {{< /cards >}}
 
 ## Špeciálne priečinky
@@ -276,7 +276,7 @@ Keď otvoríte priečinok, klepnite na tlačidlo **"..."** v pravom hornom rohu 
 Klepnite na **"..."** v pravom hornom rohu a vyberte **Vybrať** na vstup do režimu výberu. Vedľa každého súboru a priečinka sa zobrazia zaškrtávacie políčka. Klepnutím vyberte jeden alebo viac položiek, potom vykonajte hromadné akcie: Prehrať ďalej, Prehrať neskôr, Pridať do mediálnej knižnice, Pridať do playlistu, Kopírovať, Nahrať, Presunúť, Premenovať alebo Odstrániť.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evervideo režim výberu v správcovi súborov" image="/docs/guide/evervideo/img/evervideo-selection-mode-in-files.webp" >}}
+  {{< ls-card title="" subtitle="Evervideo režim výberu v správcovi súborov" image="/docs/guide/evervideo/img/evervideo-selection-mode-in-files.webp" >}}
 {{< /cards >}}
 
 Ak radšej považujete pripojené cloudové úložisko za iba na čítanie (aby ste zabránili náhodným vymazaniam), povolte Nastavenia → Správca súborov → Upraviť online súbory → Vypnúť na skrytie všetkých deštruktívnych operácií z UI.
@@ -318,13 +318,13 @@ Pre každý priečinok v cloudovom úložisku máte k dispozícii mnohé akcie k
 V pravom hornom rohu karty Súbory je tlačidlo **Prenosy** (ikona točiacich sa šípok). Klepnutím na ňu otvoríte Frontu prenosov — zoznam každého aktívneho stiahnutia a nahrávania naprieč všetkými vašimi zdrojmi, s reálnym časom, rýchlosťou a odhadovaným časom dokončenia pre každý súbor.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evervideo fronta prenosov súborov" image="/docs/guide/evervideo/img/evervideo-file-transfers.webp" >}}
+  {{< ls-card title="" subtitle="Evervideo fronta prenosov súborov" image="/docs/guide/evervideo/img/evervideo-file-transfers.webp" >}}
 {{< /cards >}}
 
 Môžete pozastaviť, obnoviť, zopakovať neúspešné prenosy, preskupovať položky na uprednostnenie konkrétnych stiahnutí alebo ich jednotlivo zrušiť. Môžete tiež nastaviť rýchlosť fronty prenosov (maximálne paralelné úlohy), typ siete (iba Wi-Fi alebo Wi-Fi + Mobilné dáta) a prenosy na pozadí v Nastavenia → Správca súborov.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evervideo akcie v fronte prenosov súborov" image="/docs/guide/evervideo/img/evervideo-file-transfers-actions.webp" >}}
+  {{< ls-card title="" subtitle="Evervideo akcie v fronte prenosov súborov" image="/docs/guide/evervideo/img/evervideo-file-transfers-actions.webp" >}}
 {{< /cards >}}
 
 ## Offline režim a synchronizované offline priečinky

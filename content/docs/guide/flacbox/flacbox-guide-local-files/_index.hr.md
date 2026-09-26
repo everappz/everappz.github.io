@@ -19,7 +19,7 @@ Odjeljak Lokalne datoteke služi kao čvorište za upravljanje datotekama smješ
 Ovaj ugrađeni upravitelj datoteka omogućuje uređivanje datoteka (preimenovanje, premještanje, kopiranje, prijenos, brisanje), praćenje prijenosa i nudi nekoliko metoda za uvoz audio datoteka u aplikaciju — izravna preuzimanja iz clouda, sinkronizacija u offline načinu rada, USB flash diskovi, Wi-Fi Drive i Finder File Sharing.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Zaslon Lokalnih datoteka u Flacboxu" image="/docs/guide/flacbox/img/local-files.webp" >}}
+  {{< ls-card title="" subtitle="Zaslon Lokalnih datoteka u Flacboxu" image="/docs/guide/flacbox/img/local-files.webp" >}}
 {{< /cards >}}
 
 ## Preuzimanje datoteka iz cloud pohrane
@@ -102,7 +102,7 @@ Prikazuje datoteke i mape pohranjene u direktoriju Dokumenti aplikacije i iCloud
 Prikazuje datoteke smještene na vašem uređaju, ali u različitim aplikacijama. Možete ih uvesti u ovu aplikaciju koristeći sistemski birač datoteka. Za aktiviranje birača, odaberite **Otvori datoteke…** za odabir datoteka ili **Otvori mape…** za odabir mapa. Detaljne upute o tome kako uvesti lokalnu glazbu pohranjenu na iPhoneu ili Macu dostupne su [ovdje](/docs/howto/how-to-play-local-music-stored-on-your-iphone-or-mac).
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Mape spojenog uređaja u Flacboxu" image="/docs/guide/flacbox/img/connected-device-folders.webp" >}}
+  {{< ls-card title="" subtitle="Mape spojenog uređaja u Flacboxu" image="/docs/guide/flacbox/img/connected-device-folders.webp" >}}
 {{< /cards >}}
 
 Možete i spojiti mapu smještenu na vašem uređaju i imati brzi pristup njezinom sadržaju. Koristite stavku izbornika **Poveži mapu** i odaberite mapu smještenu na vašem uređaju. Tapnite **Završeno** i aplikacija stvara vezu na tu mapu s pristupom za čitanje / pisanje, omogućujući vam upravljanje datotekama izravno iz ove aplikacije. Za prekid veze s mapom smještenom na vašem uređaju, tapnite gumb **Više radnji** i odaberite **Odspoji**.
@@ -137,7 +137,7 @@ Ako trebate urediti nekoliko datoteka, aktivirajte način odabira tapnutjem na g
 - **Izbriši** — uklonite odabranu datoteku ili mapu s uređaja. **Ova radnja je nepovratna.**
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Način odabira lokalnih datoteka u Flacboxu" image="/docs/guide/flacbox/img/local-files-selection-mode.webp" >}}
+  {{< ls-card title="" subtitle="Način odabira lokalnih datoteka u Flacboxu" image="/docs/guide/flacbox/img/local-files-selection-mode.webp" >}}
 {{< /cards >}}
 
 ## Izbornik opcija
@@ -161,7 +161,7 @@ Za svaku datoteku ili mapu u aplikaciji dostupno je nekoliko radnji, kojima se p
 - **Izbriši** — obrišite datoteku ili mapu s uređaja. **Ova radnja je nepovratna** i ne možete obnoviti obrisane datoteke.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Više radnji za lokalnu datoteku u Flacboxu" image="/docs/guide/flacbox/img/local-files-more-actions-for-file.webp" >}}
+  {{< ls-card title="" subtitle="Više radnji za lokalnu datoteku u Flacboxu" image="/docs/guide/flacbox/img/local-files-more-actions-for-file.webp" >}}
 {{< /cards >}}
 
 ## Offline mape

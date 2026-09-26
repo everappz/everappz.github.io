@@ -12,7 +12,7 @@ authors:
     image: "/images/about/artem-meleshko-founder-everappz.webp"
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 ## Evermusic 3.1: 변경 사항과 중요한 이유
 
@@ -89,22 +89,22 @@ Evermusic 홈 화면에서 직접 iPod 라이브러리를 탐색하세요. iPod 
 
 ## 자주 묻는 질문
 
-{{% details title="Evermusic의 크로스페이드 재생이란 무엇인가요?" closed="true" %}}
+{{% ls-details title="Evermusic의 크로스페이드 재생이란 무엇인가요?" closed="true" %}}
 크로스페이드 재생은 한 트랙의 끝부분을 다음 트랙의 시작 부분과 블렌딩하여 매끄러운 전환을 만듭니다. Settings → Audio Player → Crossfade Playback에서 지속 시간을 3~15초로 설정할 수 있습니다.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Evermusic 재생목록을 클라우드 스토리지에 백업할 수 있나요?" closed="true" %}}
+{{% ls-details title="Evermusic 재생목록을 클라우드 스토리지에 백업할 수 있나요?" closed="true" %}}
 네. Evermusic 3.1에서는 재생목록, 메타데이터, 커버 아트, 설정을 포함한 전체 라이브러리를 단일 파일로 연결된 클라우드 서비스에 백업할 수 있습니다.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Evermusic이 iPod 라이브러리 탐색을 지원하나요?" closed="true" %}}
+{{% ls-details title="Evermusic이 iPod 라이브러리 탐색을 지원하나요?" closed="true" %}}
 네. Evermusic 홈 화면에서 재생목록, 앨범, 아티스트, 장르별로 iPod 라이브러리를 탐색하고 대기열에 트랙을 추가할 수 있습니다.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Evermusic에서 잘못된 곡 태그를 어떻게 수정하나요?" closed="true" %}}
+{{% ls-details title="Evermusic에서 잘못된 곡 태그를 어떻게 수정하나요?" closed="true" %}}
 내장 태그 편집기를 사용하여 식별 작업을 탭하세요. Evermusic이 파일명을 스캔하고 수정된 메타데이터로 ID3 태그를 자동으로 업데이트합니다.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Evermusic은 어떤 클라우드 서비스를 지원하나요?" closed="true" %}}
+{{% ls-details title="Evermusic은 어떤 클라우드 서비스를 지원하나요?" closed="true" %}}
 Evermusic은 Dropbox, Google Drive, OneDrive, MEGA, Box, Yandex.Disk, WebDAV, SMB/CIFS, FTP 서버와 호환됩니다.
-{{% /details %}}
+{{% /ls-details %}}

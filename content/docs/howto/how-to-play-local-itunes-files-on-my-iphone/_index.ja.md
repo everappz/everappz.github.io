@@ -7,7 +7,7 @@ tags: ["オーディオ", "プレーヤー", "コンピュータ", "ファイル
 keywords: ["iTunesファイル共有", "ローカル音楽を再生", "iPhoneに音楽を転送", "iosにファイルをコピー", "macからiPhoneにオーディオ", "iPhoneのローカルファイル", "evermusic", "flacbox", "音楽プレーヤー", "ファイル共有", "wifi drive", "smb音楽ストリーミング", "iPhone音楽アプリ", "iosに音楽をインポート"]
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **要約：** 3つの方法のいずれかを使用して、コンピュータからiPhoneに音楽を転送します：**iTunes/Finderファイル共有**（USBケーブル）、**[WiFi Drive](/docs/howto/how-to-transfer-music-from-computer-to-iphone-without-itunes)**（ワイヤレス、ケーブル不要）、または**[SMB](/docs/howto/stream-your-music-from-mac-or-pc-to-iphone-using-smb/)**（コピーせずに直接ストリーミング）。その後、[Evermusic](/products/evermusic)または[Flacbox](/products/flacbox)で再生します。
@@ -134,22 +134,22 @@ SMBプロトコルを使用してコンピュータを接続し、MAC/PCからiO
 
 ## FAQ
 
-{{% details title="iPhoneに音楽を転送する最も速い方法は？" closed="true" %}}
+{{% ls-details title="iPhoneに音楽を転送する最も速い方法は？" closed="true" %}}
 USB経由のiTunes/Finderファイル共有は、大きな音楽ライブラリに最も速い方法です。小さな転送の場合は、ケーブルが不要なWiFi Driveがより便利です。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="FLACファイルをiPhoneに転送できますか？" closed="true" %}}
+{{% ls-details title="FLACファイルをiPhoneに転送できますか？" closed="true" %}}
 はい。EvermusicとFlacboxの両方がiTunesファイル共有、WiFi Drive、またはSMBを通じてFLACファイルを受け入れます。ロスレスフォーマットにはFlacboxが推奨されます。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="macOS Catalina以降でiTunesは必要ですか？" closed="true" %}}
+{{% ls-details title="macOS Catalina以降でiTunesは必要ですか？" closed="true" %}}
 いいえ。AppleはmacOS Catalinaからデバイス管理のためにiTunesをFinderに置き換えました。ファイル共有にはFinderの「ファイル」タブを使用してください。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="iPhoneにファイルをコピーせずに音楽をストリーミングできますか？" closed="true" %}}
+{{% ls-details title="iPhoneにファイルをコピーせずに音楽をストリーミングできますか？" closed="true" %}}
 はい。SMBプロトコルを使用して、MacまたはPCから直接音楽をストリーミングできます。これによりデバイスのストレージを節約し、ライブラリをコンピュータに保持できます。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="どのアプリを使うべきですか -- EvermusicそれともFlacbox？" closed="true" %}}
+{{% ls-details title="どのアプリを使うべきですか -- EvermusicそれともFlacbox？" closed="true" %}}
 MP3、WAV、AACなどの標準フォーマットにはEvermusicを使用してください。ライブラリにFLAC、DSD、OGGなどのロスレスフォーマットが含まれている場合はFlacboxを選択してください。
-{{% /details %}}
+{{% /ls-details %}}

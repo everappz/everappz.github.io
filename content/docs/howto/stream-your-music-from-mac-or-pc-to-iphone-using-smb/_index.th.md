@@ -7,7 +7,7 @@ tags: ["cloud", "streaming", "computer", "mp3", "file", "downloader", "manager",
 keywords: ["สตรีมเพลงจาก Mac ไปยัง iPhone", "SMB สตรีมเสียง iOS", "ตั้งค่า Evermusic SMB", "เชื่อมต่อเพลง PC iPhone", "แชร์เพลง Mac iOS", "SMB Windows สตรีมไฟล์", "เข้าถึงโฟลเดอร์ PC ด้วย Evermusic"]
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **สรุป:** ใช้แอป Evermusic สำหรับ iPhone หรือ iPad เพื่อสตรีมเพลงจาก Mac หรือ Windows PC ผ่านเครือข่ายท้องถิ่นโดยใช้ SMB ไม่ต้องซิงค์ ไม่ต้องคัดลอก -- เพียงเปิดการแชร์ไฟล์บนคอมพิวเตอร์ เชื่อมต่อในแอป แล้วเล่น การตั้งค่าใช้เวลาไม่ถึง 5 นาที
@@ -102,26 +102,26 @@ keywords: ["สตรีมเพลงจาก Mac ไปยัง iPhone", "S
 
 ## คำถามที่พบบ่อย
 
-{{% details title="ฉันสามารถสตรีมเพลงจาก PC ไปยัง iPhone โดยไม่ใช้ iTunes ได้หรือไม่?" closed="true" %}}
+{{% ls-details title="ฉันสามารถสตรีมเพลงจาก PC ไปยัง iPhone โดยไม่ใช้ iTunes ได้หรือไม่?" closed="true" %}}
 ได้ Evermusic เชื่อมต่อกับ PC ของคุณผ่าน SMB บนเครือข่าย Wi-Fi ท้องถิ่น ไม่ต้องใช้ iTunes เพียงเปิดการแชร์ไฟล์บน PC แล้วเชื่อมต่อในแอป
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="การสตรีม SMB ใช้ข้อมูลมือถือหรือไม่?" closed="true" %}}
+{{% ls-details title="การสตรีม SMB ใช้ข้อมูลมือถือหรือไม่?" closed="true" %}}
 ไม่ SMB ทำงานผ่านเครือข่าย Wi-Fi ท้องถิ่นของคุณ ไม่จำเป็นต้องมีการเชื่อมต่ออินเทอร์เน็ตหรือข้อมูลมือถือ
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Evermusic รองรับรูปแบบเสียงอะไรบ้างผ่าน SMB?" closed="true" %}}
+{{% ls-details title="Evermusic รองรับรูปแบบเสียงอะไรบ้างผ่าน SMB?" closed="true" %}}
 Evermusic รองรับ MP3, FLAC, AAC, WAV, AIFF, OGG, WMA, ALAC และรูปแบบเสียงทั่วไปอื่นๆ ไฟล์จะเล่นโดยตรงจากแชร์ SMB
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="ฉันสามารถสตรีมเพลงจาก NAS ไปยัง iPhone ได้หรือไม่?" closed="true" %}}
+{{% ls-details title="ฉันสามารถสตรีมเพลงจาก NAS ไปยัง iPhone ได้หรือไม่?" closed="true" %}}
 ได้ หาก NAS ของคุณรองรับ SMB (ส่วนใหญ่รองรับ รวมถึง Synology, QNAP และ WD My Cloud) คุณสามารถเชื่อมต่อโดยใช้ขั้นตอนเดียวกันในคู่มือนี้
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="ฉันต้องเปิดคอมพิวเตอร์ไว้ขณะสตรีมหรือไม่?" closed="true" %}}
+{{% ls-details title="ฉันต้องเปิดคอมพิวเตอร์ไว้ขณะสตรีมหรือไม่?" closed="true" %}}
 ใช่ เนื่องจาก Evermusic สตรีมไฟล์โดยตรงจากคอมพิวเตอร์ของคุณ จึงต้องเปิดอยู่และเชื่อมต่อกับเครือข่ายเดียวกันกับ iPhone ของคุณ
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="มีข้อจำกัดขนาดไฟล์สำหรับการสตรีม SMB หรือไม่?" closed="true" %}}
+{{% ls-details title="มีข้อจำกัดขนาดไฟล์สำหรับการสตรีม SMB หรือไม่?" closed="true" %}}
 ไม่ Evermusic สตรีมไฟล์ทุกขนาดผ่าน SMB ไฟล์ lossless ขนาดใหญ่ (FLAC, WAV) ทำงานได้โดยไม่มีปัญหา
-{{% /details %}}
+{{% /ls-details %}}

@@ -15,7 +15,7 @@ readingTime: 11
 การจัดการไลบรารีเพลงเป็นเรื่องง่ายด้วย Evermusic — คุณสามารถจัดระเบียบเพลงทั้งหมดได้อย่างสบาย คุณมีสองตัวเลือกในการสร้างไลบรารีเพลง: การเพิ่มด้วยตนเองหรือการซิงโครไนซ์อัตโนมัติ
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evermusic Music Library Screen" image="/docs/guide/evermusic/evermusic-guide-music-library/img/music-library-main.webp" >}}
+  {{< ls-card title="" subtitle="Evermusic Music Library Screen" image="/docs/guide/evermusic/evermusic-guide-music-library/img/music-library-main.webp" >}}
 {{< /cards >}}
 
 ## การเพิ่มด้วยตนเอง
@@ -23,7 +23,7 @@ readingTime: 11
 หากต้องการเพิ่มเพลงด้วยตนเอง แตะที่รายการเมนู "เพิ่มเพลง" และเลือกโฟลเดอร์/ไฟล์จากบริการที่เก็บข้อมูลคลาวด์ที่เชื่อมต่อหรือไฟล์ที่อยู่บนอุปกรณ์ของคุณ เมื่อคุณเพิ่มเพลงในไลบรารี จะมีการสร้างเพียงลิงก์ไปยังเพลงเหล่านั้น โดยรักษาไฟล์จริงไว้ที่ตำแหน่งเดิมเพื่อประหยัดพื้นที่ดิสก์อันมีค่า หากคุณต้องการทำให้เพลงพร้อมใช้งานออฟไลน์ คุณสามารถใช้การดำเนินการดาวน์โหลดจากเมนูตัวเลือกหรือเปิดใช้งานโหมดออฟไลน์สำหรับเพลย์ลิสต์และคอลเลกชันเพลง
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Add Songs to the Music Library" image="/docs/guide/evermusic/evermusic-guide-music-library/img/music-library-add-songs.webp" >}}
+  {{< ls-card title="" subtitle="Add Songs to the Music Library" image="/docs/guide/evermusic/evermusic-guide-music-library/img/music-library-add-songs.webp" >}}
 {{< /cards >}}
 
 ## การเข้าถึงด่วน
@@ -75,7 +75,7 @@ readingTime: 11
 ตั้งอยู่ใต้แถบนำทาง แถบเครื่องมือด้านบนมีการดำเนินการที่สะดวกหลายอย่าง: "ค้นหา", "เล่นทั้งหมด", "สับเปลี่ยนทั้งหมด" และ "เล่นต่อ" คุณสามารถแสดงหรือซ่อนแถบเครื่องมือนี้ได้ด้วยท่าทางปัดลง
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Albums View — Grouped by Music Tags" image="/docs/guide/evermusic/evermusic-guide-music-library/img/music-library-albums.webp" >}}
+  {{< ls-card title="" subtitle="Albums View — Grouped by Music Tags" image="/docs/guide/evermusic/evermusic-guide-music-library/img/music-library-albums.webp" >}}
 {{< /cards >}}
 
 ## ค้นหา
@@ -83,7 +83,7 @@ readingTime: 11
 คุณสมบัติการค้นหาช่วยให้คุณค้นหาเพลง ศิลปิน อัลบั้ม หรือแนวเพลงเฉพาะในไลบรารีเพลงของคุณ ในหน้าจอค้นหา คุณสามารถเข้าถึงการดำเนินการต่อไปนี้: "จัดเรียง", "กรอง", "กริด/รายการ"
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Music Library Search Results" image="/docs/guide/evermusic/evermusic-guide-music-library/img/music-library-search.webp" >}}
+  {{< ls-card title="" subtitle="Music Library Search Results" image="/docs/guide/evermusic/evermusic-guide-music-library/img/music-library-search.webp" >}}
 {{< /cards >}}
 
 ## เมนูตัวเลือก
@@ -91,7 +91,7 @@ readingTime: 11
 แต่ละเพลงในไลบรารีเพลงของคุณมีเมนูพร้อมการดำเนินการเพิ่มเติม เข้าถึงได้โดยแตะปุ่มจุดสามจุดใกล้ชื่อเพลง การดำเนินการเหล่านี้แตกต่างกันไปขึ้นอยู่กับว่าเป็นเพลงเดี่ยวหรือส่วนหนึ่งของคอลเลกชัน
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="More Actions for a Library Item" image="/docs/guide/evermusic/evermusic-guide-music-library/img/music-library-item-more-actions.webp" >}}
+  {{< ls-card title="" subtitle="More Actions for a Library Item" image="/docs/guide/evermusic/evermusic-guide-music-library/img/music-library-item-more-actions.webp" >}}
 {{< /cards >}}
 
 ### สำหรับเพลงแต่ละเพลง
@@ -125,7 +125,7 @@ readingTime: 11
 คุณสามารถเปิดใช้งานโหมดการเลือกโดยใช้ปุ่มดำเนินการเพิ่มเติมที่มุมบนขวา ในโหมดนี้ คุณสามารถเลือกหลายเพลงและดำเนินการต่างๆ
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Selection Mode in the Music Library" image="/docs/guide/evermusic/evermusic-guide-music-library/img/music-library-selection-mode.webp" >}}
+  {{< ls-card title="" subtitle="Selection Mode in the Music Library" image="/docs/guide/evermusic/evermusic-guide-music-library/img/music-library-selection-mode.webp" >}}
 {{< /cards >}}
 
 ## การจัดกลุ่มแท็ก
@@ -145,7 +145,7 @@ readingTime: 11
 เมื่อคุณเปิดส่วน ศิลปิน, ศิลปินอัลบั้ม หรือ นักแต่งเพลง คุณสามารถเห็นตัวสลับสำหรับ เพลง/อัลบั้มทั้งหมด/อัลบั้มเอกสิทธิ์/อัลบั้มเดี่ยว
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Album Detail with Songs / All / Exclusive / Solo Switcher" image="/docs/guide/evermusic/evermusic-guide-music-library/img/music-library-album-details.webp" >}}
+  {{< ls-card title="" subtitle="Album Detail with Songs / All / Exclusive / Solo Switcher" image="/docs/guide/evermusic/evermusic-guide-music-library/img/music-library-album-details.webp" >}}
 {{< /cards >}}
 
 - **เพลง**: แสดงเพลงทั้งหมดที่ตั้งค่าศิลปิน/ศิลปินอัลบั้ม/นักแต่งเพลงนี้ในแท็กเสียง
@@ -166,7 +166,7 @@ readingTime: 11
 แตะที่รายการเมนู "การตั้งค่า" เพื่อกำหนดค่าการตั้งค่าไลบรารีเพลงของคุณ
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Music Library Settings" image="/docs/guide/evermusic/evermusic-guide-music-library/img/music-library-settings.webp" >}}
+  {{< ls-card title="" subtitle="Music Library Settings" image="/docs/guide/evermusic/evermusic-guide-music-library/img/music-library-settings.webp" >}}
 {{< /cards >}}
 
 #### การอ่าน Metadata

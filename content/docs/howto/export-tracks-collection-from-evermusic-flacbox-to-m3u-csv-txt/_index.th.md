@@ -6,7 +6,7 @@ keywords: ["ส่งออก evermusic", "ส่งออก flacbox", "ส่
 tags: ["evermusic", "ล่าสุด", "รายการโปรด", "ส่งออก", "m3u", "เพลย์ลิสต์", "csv", "txt", "อัลบั้ม"]
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **สรุป:** Evermusic และ Flacbox ให้คุณส่งออกคอลเลกชันเพลงใดก็ได้ (ล่าสุด, รายการโปรด, เพลย์ลิสต์, อัลบั้ม) เป็นไฟล์ CSV, TXT หรือ M3U ใช้การส่งออกเหล่านี้เพื่อ scrobble ไปยัง Last.fm สำรองข้อมูลคลังเพลง หรือเล่นเพลย์ลิสต์บนอุปกรณ์อื่น
@@ -157,22 +157,22 @@ https://cloud.com/dfgfdguh45tgkbfgr/filecontent
 
 ## คำถามที่พบบ่อย
 
-{{% details title="ควรใช้รูปแบบส่งออกใดสำหรับการ scrobble Last.fm?" closed="true" %}}
+{{% ls-details title="ควรใช้รูปแบบส่งออกใดสำหรับการ scrobble Last.fm?" closed="true" %}}
 ใช้ CSV เนื่องจากมีการประทับเวลาและข้อมูลเมตาครบถ้วนที่เครื่องมือ scrobbling เช่น Last.fm-Scrubbler-WPF ต้องการ
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="ฉันสามารถส่งออกคอลเลกชันเพลงใดก็ได้ ไม่ใช่แค่เพลย์ลิสต์ใช่ไหม?" closed="true" %}}
+{{% ls-details title="ฉันสามารถส่งออกคอลเลกชันเพลงใดก็ได้ ไม่ใช่แค่เพลย์ลิสต์ใช่ไหม?" closed="true" %}}
 ใช่ คุณสามารถส่งออกล่าสุด รายการโปรด อัลบั้ม เพลย์ลิสต์ และคอลเลกชันเพลงอื่นๆ ในแอปโดยใช้ขั้นตอนเดียวกัน
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="เพลย์ลิสต์ M3U ของฉันจะทำงานบนอุปกรณ์อื่นได้ไหม?" closed="true" %}}
+{{% ls-details title="เพลย์ลิสต์ M3U ของฉันจะทำงานบนอุปกรณ์อื่นได้ไหม?" closed="true" %}}
 หากคุณเลือกตัวเลือก URL แบบสัมบูรณ์ระหว่างการส่งออก ไฟล์ M3U สามารถเล่นบนอุปกรณ์ใดก็ได้ที่รองรับเพลย์ลิสต์ M3U โปรดทราบว่า URL คลาวด์บางรายการอาจหมดอายุเมื่อเวลาผ่านไป
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="ฟีเจอร์ส่งออกฟรีหรือไม่?" closed="true" %}}
+{{% ls-details title="ฟีเจอร์ส่งออกฟรีหรือไม่?" closed="true" %}}
 ใช่ การส่งออกคอลเลกชันเพลงเป็น M3U, CSV และ TXT มีให้ทั้งในเวอร์ชันฟรีและพรีเมียมของ Evermusic และ Flacbox
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="บริการคลาวด์ใดรองรับการส่งออกด้วย URL แบบสัมบูรณ์?" closed="true" %}}
+{{% ls-details title="บริการคลาวด์ใดรองรับการส่งออกด้วย URL แบบสัมบูรณ์?" closed="true" %}}
 การส่งออกด้วย URL แบบสัมบูรณ์รองรับสำหรับ iCloud Drive, pCloud, PanBaidu, MyCloudHome, DLNA, MediaFire, OneDrive, Box, Dropbox, Google Drive และ WebDAV (โหมดผู้เยี่ยมชม)
-{{% /details %}}
+{{% /ls-details %}}

@@ -7,7 +7,7 @@ tags: ["Evermusic", "Kesan Audio", "Panduan", "Reverb", "Delay", "Distortion", "
 readingTime: 8
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 **Ringkasan:** Evermusic menyertakan enam kesan audio masa nyata — **Penormalan Kelantangan, Compressor, Reverb, Crossfeed, Delay, dan Distortion**. Buka daripada **menu ⋯ (Lagi) > Kesan audio** pemain, atau daripada **Tetapan > Pemain audio > Kesan audio**. Ketik satu kesan, hidupkan suisnya (kanan atas), pilih satu **pratetap**, dan secara pilihan buka **Mod lanjutan** untuk menala peluncur. Setiap kesan berfungsi secara bebas dan digunakan dalam masa nyata pada segala yang anda mainkan — fail tempatan, strim awan, dan radio internet — tanpa pengekodan semula.
 
@@ -162,38 +162,38 @@ Ia juga berfungsi bersama **penyama grafik 10 jalur** Evermusic dan **main balik
 
 ## Soalan Lazim
 
-{{% details title="Bagaimana saya menambah reverb, delay, atau kesan lain pada muzik saya dalam Evermusic?" closed="true" %}}
+{{% ls-details title="Bagaimana saya menambah reverb, delay, atau kesan lain pada muzik saya dalam Evermusic?" closed="true" %}}
 Buka pemain, ketik butang ⋯ (Lagi), dan pilih Kesan audio (atau pergi ke Tetapan > Pemain audio > Kesan audio). Ketik kesan yang anda mahu, hidupkan suisnya di kanan atas, dan pilih satu pratetap. Buka Mod lanjutan untuk menala peluncur. Kesan digunakan serta-merta pada apa sahaja yang sedang dimainkan.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Apakah kesan audio yang ada pada Evermusic?" closed="true" %}}
+{{% ls-details title="Apakah kesan audio yang ada pada Evermusic?" closed="true" %}}
 Enam kesan masa nyata: Penormalan Kelantangan (perataan kelantangan EBU R128), Compressor (dinamik), Reverb (ruang dan ekor gema), Crossfeed (pengimejan fon kepala semula jadi), Delay (gema), dan Distortion (kekasaran lo-fi). Setiap satu adalah bebas dan boleh digunakan bersendirian atau digabungkan.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Adakah kesan ini mengubah atau merosakkan fail audio saya?" closed="true" %}}
+{{% ls-details title="Adakah kesan ini mengubah atau merosakkan fail audio saya?" closed="true" %}}
 Tidak. Semua kesan digunakan dalam masa nyata semasa main balik sahaja. Ia tidak pernah mengubah suai atau mengekod semula fail anda. Matikan satu kesan dan bunyi asal anda kembali serta-merta.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Bolehkah saya menggunakan lebih daripada satu kesan pada masa yang sama?" closed="true" %}}
+{{% ls-details title="Bolehkah saya menggunakan lebih daripada satu kesan pada masa yang sama?" closed="true" %}}
 Ya. Setiap kesan adalah bebas — tiada suis induk — jadi anda boleh mendayakan mana-mana gabungan. Contohnya, Penormalan Kelantangan tambah Compressor untuk pendengaran yang konsisten dan mudah, atau Reverb tambah Crossfeed pada fon kepala.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Apakah Crossfeed dan patutkah saya menggunakannya?" closed="true" %}}
+{{% ls-details title="Apakah Crossfeed dan patutkah saya menggunakannya?" closed="true" %}}
 Crossfeed mengadun sedikit jumlah tersaring setiap saluran stereo ke saluran satu lagi supaya fon kepala berbunyi lebih seperti pembesar suara sebenar, mengurangkan rasa "di dalam kepala" bagi campuran yang dipanning keras. Ia adalah kesan fon kepala (biarkan ia dimatikan untuk pembesar suara). Ia dibina atas algoritma Bauer stereophonic-to-binaural (bs2b) dan menyertakan pratetap seperti Chu Moy dan Jan Meier.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Apakah Penormalan Kelantangan dan bagaimana ia berbeza daripada ReplayGain?" closed="true" %}}
+{{% ls-details title="Apakah Penormalan Kelantangan dan bagaimana ia berbeza daripada ReplayGain?" closed="true" %}}
 Penormalan Kelantangan mengekalkan setiap trek pada kelantangan yang konsisten dengan mengukur kelantangan tanggapan menggunakan standard EBU R128 dan meratakan ke arah sasaran. Tidak seperti ReplayGain, ia tidak memerlukan tag kelantangan dalam fail anda dan tidak mengubah audio — ia berfungsi secara langsung pada mana-mana sumber, termasuk strim awan dan radio internet. Pratetap: Ringan, Standard, Kuat, dan Malam.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Apakah perbezaan antara mod Mudah dan Lanjutan?" closed="true" %}}
+{{% ls-details title="Apakah perbezaan antara mod Mudah dan Lanjutan?" closed="true" %}}
 Mod Mudah menunjukkan senarai pratetap dengan penerangan biasa, supaya anda boleh mendapatkan bunyi yang baik dengan satu ketikan. Mod Lanjutan menambah peluncur parameter (contohnya, Campuran untuk Reverb, atau tujuh kawalan Compressor) untuk penalaan halus yang tepat. Togol antara keduanya dengan butang mod di kanan atas setiap editor kesan.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Mengapa kawalan kesan kelihatan kelabu?" closed="true" %}}
+{{% ls-details title="Mengapa kawalan kesan kelihatan kelabu?" closed="true" %}}
 Kesan itu dimatikan. Hidupkan suis kesan di kanan atas editornya untuk mengaktifkan kawalan. Setiap kesan dimatikan secara lalai.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Adakah kesan ini berfungsi dengan penstriman dan CarPlay?" closed="true" %}}
+{{% ls-details title="Adakah kesan ini berfungsi dengan penstriman dan CarPlay?" closed="true" %}}
 Ya. Kesan ini berjalan di dalam enjin main balik, jadi ia digunakan pada fail tempatan, pemacu awan, pelayan media, dan radio internet, dan ia terus berfungsi semasa main balik CarPlay.
-{{% /details %}}
+{{% /ls-details %}}

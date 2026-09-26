@@ -12,7 +12,7 @@ authors:
     image: "/images/about/artem-meleshko-founder-everappz.webp"
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 **Sammendrag:** Flacbox har passert 1 million nedlastinger over hele verden. Den støtter FLAC, ALAC, APE, DSD og andre lossless formater med en 10-bånds equalizer, M3U/CUE spillelister, frakoblet avspilling og synkronisering på tvers av enheter på iPhone, iPad og Mac.
 
@@ -78,26 +78,26 @@ Kommende utvikling fokuserer på:
 
 ## Ofte Stilte Spørsmål
 
-{{% details title="Hvilke lydformater støtter Flacbox?" closed="true" %}}
+{{% ls-details title="Hvilke lydformater støtter Flacbox?" closed="true" %}}
 Flacbox spiller FLAC, ALAC, APE, DSD, WavPack, TTA, RealAudio, MP3, AAC, OGG og mange andre formater. Den er primært designet for lossless og hi-res lyd.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Har Flacbox en equalizer?" closed="true" %}}
+{{% ls-details title="Har Flacbox en equalizer?" closed="true" %}}
 Ja. Flacbox inkluderer en 10-bånds equalizer med sjangerforhåndsinnstillinger og manuell frekvensjustering.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Kan jeg lytte til musikk frakoblet med Flacbox?" closed="true" %}}
+{{% ls-details title="Kan jeg lytte til musikk frakoblet med Flacbox?" closed="true" %}}
 Ja. Last ned filer fra skylagring eller overfør dem direkte til appen for frakoblet avspilling uten internettforbindelse.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Fungerer Flacbox på Mac?" closed="true" %}}
+{{% ls-details title="Fungerer Flacbox på Mac?" closed="true" %}}
 Ja. Flacbox kjører på iPhone, iPad og Mac med synkroniserte biblioteker og avspillingshistorikk på alle enheter.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Hva er CUE-ark støtte?" closed="true" %}}
+{{% ls-details title="Hva er CUE-ark støtte?" closed="true" %}}
 CUE-ark definerer sporgrenser innenfor en enkelt lydfil. Flacbox leser CUE-filer for å dele albumkopier inn i individuelle spor med riktig metadata.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Er Flacbox gratis?" closed="true" %}}
+{{% ls-details title="Er Flacbox gratis?" closed="true" %}}
 Flacbox er gratis å laste ned med valgfrie premiumfunksjoner tilgjengelig gjennom kjøp i appen.
-{{% /details %}}
+{{% /ls-details %}}

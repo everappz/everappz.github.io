@@ -12,7 +12,7 @@ authors:
     image: "/images/about/artem-meleshko-founder-everappz.webp"
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 **संक्षेप में:** Flacbox दुनिया भर में 10 लाख डाउनलोड पार कर चुका है। यह FLAC, ALAC, APE, DSD और अन्य lossless फॉर्मेट को 10-बैंड इक्वलाइज़र, M3U/CUE प्लेलिस्ट, ऑफ़लाइन प्लेबैक और iPhone, iPad और Mac पर क्रॉस-डिवाइस सिंक के साथ सपोर्ट करता है।
 
@@ -78,26 +78,26 @@ Flacbox आपकी मुज़िक को बिल्कुल वैस�
 
 ## अक्सर पूछे जाने वाले प्रश्न
 
-{{% details title="Flacbox किन ऑडियो फॉर्मेट को सपोर्ट करता है?" closed="true" %}}
+{{% ls-details title="Flacbox किन ऑडियो फॉर्मेट को सपोर्ट करता है?" closed="true" %}}
 Flacbox FLAC, ALAC, APE, DSD, WavPack, TTA, RealAudio, MP3, AAC, OGG और कई अन्य फॉर्मेट चलाता है। यह मुख्य रूप से lossless और hi-res ऑडियो के लिए डिज़ाइन किया गया है।
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="क्या Flacbox में इक्वलाइज़र है?" closed="true" %}}
+{{% ls-details title="क्या Flacbox में इक्वलाइज़र है?" closed="true" %}}
 हाँ। Flacbox में शैली प्रीसेट और मैन्युअल फ्रीक्वेंसी एडजस्टमेंट के साथ 10-बैंड इक्वलाइज़र शामिल है।
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="क्या मैं Flacbox के साथ ऑफ़लाइन मुज़िक सुन सकता हूँ?" closed="true" %}}
+{{% ls-details title="क्या मैं Flacbox के साथ ऑफ़लाइन मुज़िक सुन सकता हूँ?" closed="true" %}}
 हाँ। क्लाउड स्टोरेज से फ़ाइलें डाउनलोड करें या इंटरनेट कनेक्शन के बिना ऑफ़लाइन प्लेबैक के लिए उन्हें सीधे ऐप में ट्रांसफर करें।
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="क्या Flacbox Mac पर काम करता है?" closed="true" %}}
+{{% ls-details title="क्या Flacbox Mac पर काम करता है?" closed="true" %}}
 हाँ। Flacbox iPhone, iPad और Mac पर सभी डिवाइस में सिंक्रनाइज़ लाइब्रेरी और प्लेबैक हिस्ट्री के साथ चलता है।
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="CUE शीट सपोर्ट क्या है?" closed="true" %}}
+{{% ls-details title="CUE शीट सपोर्ट क्या है?" closed="true" %}}
 CUE शीट एक ऑडियो फ़ाइल के भीतर ट्रैक सीमाओं को परिभाषित करती हैं। Flacbox CUE फ़ाइलों को पढ़ता है ताकि एल्बम रिप्स को उचित मेटाडेटा के साथ व्यक्तिगत ट्रैक में विभाजित किया जा सके।
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="क्या Flacbox मुफ़्त है?" closed="true" %}}
+{{% ls-details title="क्या Flacbox मुफ़्त है?" closed="true" %}}
 Flacbox इन-ऐप खरीदारी के माध्यम से उपलब्ध वैकल्पिक प्रीमियम फीचर्स के साथ मुफ़्त डाउनलोड के लिए उपलब्ध है।
-{{% /details %}}
+{{% /ls-details %}}

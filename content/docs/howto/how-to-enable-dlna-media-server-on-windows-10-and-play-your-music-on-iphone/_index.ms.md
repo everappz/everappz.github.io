@@ -7,7 +7,7 @@ tags: ["evermusic", "muzik", "awan", "iphone", "storan", "tempatan", "nas", "win
 readingTime: 2
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **Ringkasan:** Windows 10 mempunyai pelayan DLNA terbina dalam. Aktifkan ia dalam tetapan Rangkaian dan Perkongsian, kemudian gunakan aplikasi percuma **Evermusic** pada iPhone anda untuk menstrim seluruh pustaka muzik melalui Wi-Fi. Tiada perisian pelayan pihak ketiga diperlukan.
@@ -96,22 +96,22 @@ Dengan Pelayan Media DLNA pada Windows 10 dan Evermusic pada iPhone anda, anda b
 
 ## Soalan Lazim
 
-{{% details title="Adakah saya perlu memasang perisian pelayan pada Windows 10?" closed="true" %}}
+{{% ls-details title="Adakah saya perlu memasang perisian pelayan pada Windows 10?" closed="true" %}}
 Tidak. Windows 10 sudah menyertakan pelayan media DLNA terbina dalam. Anda hanya perlu mengaktifkan penstriman media dalam tetapan Pusat Rangkaian dan Perkongsian. Tiada perisian pihak ketiga diperlukan.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Adakah iPhone saya perlu berada pada rangkaian Wi-Fi yang sama?" closed="true" %}}
+{{% ls-details title="Adakah iPhone saya perlu berada pada rangkaian Wi-Fi yang sama?" closed="true" %}}
 Ya. Penstriman DLNA berfungsi melalui rangkaian tempatan anda. Kedua-dua PC Windows 10 dan iPhone anda mesti disambungkan ke rangkaian Wi-Fi yang sama untuk Evermusic menemui pelayan DLNA.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Format audio apa yang boleh saya strim melalui DLNA?" closed="true" %}}
+{{% ls-details title="Format audio apa yang boleh saya strim melalui DLNA?" closed="true" %}}
 Pelayan Windows DLNA berkongsi fail dari folder Muzik anda tanpa mengira format. Evermusic menyokong MP3, FLAC, AAC, WAV, OGG, AIFF dan banyak format lain, jadi anda boleh memainkan hampir mana-mana fail audio dari pelayan.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Bolehkah saya menggunakan Flacbox sebagai ganti Evermusic?" closed="true" %}}
+{{% ls-details title="Bolehkah saya menggunakan Flacbox sebagai ganti Evermusic?" closed="true" %}}
 Ya. Flacbox juga menyokong pelayaran dan main balik DLNA/UPnP. Anda boleh menggunakan mana-mana aplikasi untuk menemui dan memainkan muzik dari pelayan Windows DLNA anda.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Adakah penstriman DLNA menggunakan data mudah alih?" closed="true" %}}
+{{% ls-details title="Adakah penstriman DLNA menggunakan data mudah alih?" closed="true" %}}
 Tidak. DLNA beroperasi sepenuhnya pada rangkaian Wi-Fi tempatan anda. Ia tidak menggunakan sebarang data mudah alih. Walau bagaimanapun, kedua-dua peranti mesti kekal disambungkan ke rangkaian yang sama semasa main balik.
-{{% /details %}}
+{{% /ls-details %}}

@@ -7,7 +7,7 @@ tags: ["núvol", "transmissió", "iphone", "mp3", "emmagatzematge", "dropbox"]
 keywords: ["reproduir música Dropbox iPhone", "música fora de línia Dropbox iOS", "Evermusic Dropbox", "reproductor mp3 núvol", "transmetre àudio Dropbox", "gestor de fitxers Evermusic", "Dropbox iOS àudio"]
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **Resum:** Puja la teva música a Dropbox, instal·la l'aplicació gratuïta Evermusic al teu iPhone, connecta el teu compte de Dropbox i reprodueix o descarrega les teves pistes per escoltar-les fora de línia. Evermusic és compatible amb MP3, FLAC, WAV, AAC i més. Inclou un equalitzador de 10 bandes, llistes de reproducció i gestió de fitxers.
@@ -35,7 +35,7 @@ Evermusic és completament gratuït i disponible tant per a iPhone com per a iPa
 
 {{< cards cols="1">}}
 
-  {{< card title="Descarregar Evermusic" subtitle="Reproductor de música fora de línia i transmissor d'emmagatzematge al núvol per a iPhone i iPad." icon="download" link="https://itunes.apple.com/us/app/evermusic-offline-music/id885367198?mt=8" >}}
+  {{< ls-card title="Descarregar Evermusic" subtitle="Reproductor de música fora de línia i transmissor d'emmagatzematge al núvol per a iPhone i iPad." icon="download" link="https://itunes.apple.com/us/app/evermusic-offline-music/id885367198?mt=8" >}}
 
 {{< /cards >}}
 
@@ -67,26 +67,26 @@ Evermusic també és un gestor de fitxers complet que suporta operacions bàsiqu
 
 ## Preguntes freqüents
 
-{{% details title="Puc reproduir música de Dropbox fora de línia al meu iPhone?" closed="true" %}}
+{{% ls-details title="Puc reproduir música de Dropbox fora de línia al meu iPhone?" closed="true" %}}
 Sí. Utilitza Evermusic per connectar el teu Dropbox, després descarrega qualsevol pista o llista de reproducció per escoltar fora de línia. Els fitxers descarregats s'emmagatzemen al teu dispositiu i es reprodueixen sense connexió a Internet.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Evermusic és gratuït?" closed="true" %}}
+{{% ls-details title="Evermusic és gratuït?" closed="true" %}}
 Evermusic és gratuït per descarregar amb funcions bàsiques que inclouen l'equalitzador, la transmissió al núvol i la reproducció fora de línia. La versió gratuïta admet fins a 3 connexions al núvol i 10 llistes de reproducció. Actualitzar a Premium elimina tots els límits.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Quins formats d'àudio suporta Evermusic des de Dropbox?" closed="true" %}}
+{{% ls-details title="Quins formats d'àudio suporta Evermusic des de Dropbox?" closed="true" %}}
 Evermusic reprodueix MP3, FLAC, WAV, AAC, AIFF, OGG, WMA i molts altres formats directament des de Dropbox.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Puc connectar múltiples serveis al núvol?" closed="true" %}}
+{{% ls-details title="Puc connectar múltiples serveis al núvol?" closed="true" %}}
 Sí. Evermusic és compatible amb Dropbox, Google Drive, OneDrive, Box, WebDAV, SMB, MEGA i més. Pots connectar comptes il·limitats i navegar-los tots en una sola biblioteca.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Evermusic sincronitza les llistes de reproducció entre dispositius?" closed="true" %}}
+{{% ls-details title="Evermusic sincronitza les llistes de reproducció entre dispositius?" closed="true" %}}
 Les llistes de reproducció creades a Evermusic s'emmagatzemen localment al teu dispositiu. Els teus fitxers de Dropbox es mantenen sincronitzats a tots els dispositius a través del propi Dropbox.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Com allibero espai d'emmagatzematge a l'iPhone amb música de Dropbox?" closed="true" %}}
+{{% ls-details title="Com allibero espai d'emmagatzematge a l'iPhone amb música de Dropbox?" closed="true" %}}
 Mou els teus fitxers de música a Dropbox i transmet-los a través d'Evermusic en lloc d'emmagatzemar-los a l'iPhone. Descarrega només les pistes que necessitis per escoltar fora de línia.
-{{% /details %}}
+{{% /ls-details %}}

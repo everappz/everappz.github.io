@@ -7,7 +7,7 @@ tags: ["evermusic", "flacbox", "归档", "备份", "导出", "播放列表", "m3
 readingTime: 2
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **摘要：** Evermusic 和 Flacbox 可以将任何播放列表、专辑、艺术家或流派归档为 ZIP 文件，其中包含 M3U 播放列表、专辑封面和所有音频文件。将 ZIP 传输到另一台设备，解压缩并导入 M3U 即可立即重建播放列表。
@@ -104,22 +104,22 @@ readingTime: 2
 
 ## 常见问题
 
-{{% details title="ZIP 归档中包含什么？" closed="true" %}}
+{{% ls-details title="ZIP 归档中包含什么？" closed="true" %}}
 归档包含所有音频文件、保留曲目顺序的 M3U 播放列表文件，以及作为单独图像文件保存的播放列表专辑封面。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="归档是否适用于云文件？" closed="true" %}}
+{{% ls-details title="归档是否适用于云文件？" closed="true" %}}
 是的。应用会在将文件添加到归档之前自动下载所有云存储的文件。您可以在文件传输部分监控下载进度。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="我可以归档专辑、艺术家和流派吗？" closed="true" %}}
+{{% ls-details title="我可以归档专辑、艺术家和流派吗？" closed="true" %}}
 是的。「添加到归档」选项适用于播放列表、专辑、艺术家和流派。所有项目的过程完全相同。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="如何将归档传输到另一台设备？" closed="true" %}}
+{{% ls-details title="如何将归档传输到另一台设备？" closed="true" %}}
 您可以将 ZIP 上传到云存储（Google Drive、Dropbox 等），使用 AirDrop，或通过 Evermusic 和 Flacbox 内置的 Wi-Fi Drive 功能无线传输。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="传输后播放列表结构是否会保留？" closed="true" %}}
+{{% ls-details title="传输后播放列表结构是否会保留？" closed="true" %}}
 是的。M3U 文件使用相对路径存储播放列表结构。在新设备上解压后，导入 M3U 文件即可以原始顺序重建包含所有曲目的播放列表。
-{{% /details %}}
+{{% /ls-details %}}

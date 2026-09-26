@@ -7,7 +7,7 @@ tags: ["evermusic", "flacbox", "chmura", "plik", "konto", "menedżer", "połącz
 keywords: ["połączyć usługę chmurową z Evermusic", "przesłać pliki do Google Drive", "integracja chmurowa Flacbox", "użycie OneDrive z Evermusic", "dostęp do plików w chmurze Evertag", "połączyć Dropbox z odtwarzaczem muzyki iOS", "menedżer plików dla usług chmurowych"]
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **W skrócie:** Prześlij swoje pliki muzyczne lub multimedialne do dowolnej obsługiwanej usługi chmurowej (Google Drive, Dropbox, OneDrive i inne), a następnie połącz tę usługę w Evermusic, Flacbox lub Evertag, aby przesyłać strumieniowo lub pobierać pliki bezpośrednio na iPhone, iPad lub Mac.
@@ -76,38 +76,38 @@ Pożegnaj się z ograniczeniami pamięci i przywitaj się z wygodą!
 
 ## Najczęściej zadawane pytania
 
-{{% details title="Jakie usługi chmurowe są obsługiwane?" closed="true" %}}
+{{% ls-details title="Jakie usługi chmurowe są obsługiwane?" closed="true" %}}
 Evermusic, Flacbox i Evertag obsługują Google Drive, Dropbox, OneDrive, Box, MediaFire, Yandex.Disk, MEGA, MyDrive, pCloud i innych dostawców chmury. Możesz także połączyć niestandardowe serwery WebDAV, SMB i FTP.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Czy mogę przesyłać strumieniowo muzykę bezpośrednio z chmury bez pobierania?" closed="true" %}}
+{{% ls-details title="Czy mogę przesyłać strumieniowo muzykę bezpośrednio z chmury bez pobierania?" closed="true" %}}
 Tak. Wszystkie trzy aplikacje obsługują strumieniowe przesyłanie plików audio bezpośrednio z połączonej chmury. Możesz także pobierać pliki do odtwarzania offline, gdy nie masz dostępu do internetu.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Czy w aplikacji jest limit rozmiaru pliku lub pamięci?" closed="true" %}}
+{{% ls-details title="Czy w aplikacji jest limit rozmiaru pliku lub pamięci?" closed="true" %}}
 Aplikacje nie narzucają własnych limitów rozmiaru plików ani pamięci. Dostępna pamięć zależy od planu usługi chmurowej i lokalnej pamięci urządzenia na pobrane pliki.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Czy mogę jednocześnie połączyć wiele kont chmurowych?" closed="true" %}}
+{{% ls-details title="Czy mogę jednocześnie połączyć wiele kont chmurowych?" closed="true" %}}
 Tak. Możesz jednocześnie połączyć wiele usług chmurowych i wiele kont od tego samego dostawcy. Wszystkie połączone konta pojawiają się w karcie Połączenia, co ułatwia przełączanie.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Czy muszę ponownie przesyłać pliki, jeśli przejdę do innej aplikacji?" closed="true" %}}
+{{% ls-details title="Czy muszę ponownie przesyłać pliki, jeśli przejdę do innej aplikacji?" closed="true" %}}
 Nie. Ponieważ pliki są przechowywane w chmurze, możesz połączyć to samo konto chmurowe z Evermusic, Flacbox lub Evertag bez ponownego przesyłania czegokolwiek. Każda aplikacja uzyskuje dostęp do tych samych plików z Twojej chmury.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Czy dane mojego konta chmurowego są bezpieczne?" closed="true" %}}
+{{% ls-details title="Czy dane mojego konta chmurowego są bezpieczne?" closed="true" %}}
 Tak. Aplikacja używa wyłącznie oficjalnych SDK i szyfrowanych połączeń do komunikacji z usługami chmurowymi. Twój login i hasło nigdy nie są przechowywane przez aplikację. Podczas logowania aplikacja wyświetla oficjalną stronę autoryzacji dostarczaną przez usługę chmurową. Po pomyślnej autoryzacji dostawca chmury wysyła token autoryzacyjny do aplikacji, który jest bezpiecznie przechowywany w pęku kluczy urządzenia. Ten token jest używany do wszystkich żądań API.<br><br>
 Aplikacja nie udostępnia żadnych informacji z Twojego konta chmurowego. Możesz cofnąć dostęp w dowolnym momencie ze strony ustawień konta chmurowego w przeglądarce internetowej lub odłączyć konto w aplikacji.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Jak odłączyć usługę chmurową lub zmienić jej konfigurację?" closed="true" %}}
+{{% ls-details title="Jak odłączyć usługę chmurową lub zmienić jej konfigurację?" closed="true" %}}
 Znajdź chmurę w karcie Połączenia aplikacji i stuknij przycisk **...** obok niej. Zobaczysz następujące opcje:<br>
 - **Zmień nazwę** -- zmień nazwę wyświetlaną usługi chmurowej<br>
 - **Ustawienia** -- zmodyfikuj konfigurację lub ponownie autoryzuj, jeśli token wygasł<br>
 - **Rozłączyć** -- całkowicie usuń połączenie. Spowoduje to usunięcie wszystkich utworów z tej usługi chmurowej z biblioteki muzycznej aplikacji, ale pliki pozostaną na serwerze
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Jak cofnąć dostęp aplikacji do mojego konta chmurowego?" closed="true" %}}
+{{% ls-details title="Jak cofnąć dostęp aplikacji do mojego konta chmurowego?" closed="true" %}}
 Zaloguj się na swoje konto chmurowe w przeglądarce internetowej i otwórz stronę ustawień konta lub zabezpieczeń. Znajdź listę połączonych aplikacji innych firm i usuń aplikację, której nie chcesz już autoryzować. Możesz także odłączyć konto chmurowe w aplikacji -- spowoduje to usunięcie tokenu autoryzacyjnego z Twojego urządzenia. Jeśli całkowicie usuniesz aplikację, wszystkie pobrane dane i tokeny dostępu zostaną automatycznie usunięte.
-{{% /details %}}
+{{% /ls-details %}}

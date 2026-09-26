@@ -1,9 +1,10 @@
 ---
+excludeSearch: true
 date: '2025-06-12T17:00:00+00:00'
 title: 'Επικοινωνήστε μαζί μας'
 ---
 
-{{< lottie src="/images/juicy-json/juicy-girl-typing-on-phone.json" width="60%" >}}
+{{< ls-lottie src="/images/juicy-json/juicy-girl-typing-on-phone.json" width="60%" >}}
 
 ## Ταχυδρομική διεύθυνση
 
@@ -27,4 +28,4 @@ title: 'Επικοινωνήστε μαζί μας'
 
 Ακολουθήστε μας στα κοινωνικά δίκτυα για να λαμβάνετε τα πιο πρόσφατα νέα, ενημερώσεις εφαρμογών, συμβουλές και χρήσιμες πληροφορίες:
 
-{{< social-cards >}}
+{{< ls-social-cards >}}

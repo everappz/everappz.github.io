@@ -12,7 +12,7 @@ authors:
     image: "/images/about/artem-meleshko-founder-everappz.webp"
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 **Ukratko:** Evermusic je cloud glazbeni player za iPhone i iPad koji se povezuje s Dropboxom, Google Driveom, OneDriveom i 9+ ostalih cloud usluga. Reproducira FLAC, MP3, WAV i druge formate, podržava offline preuzimanja i uključuje ekvilajzer i uređivač ID3 oznaka. Besplatno preuzimanje s jednokratnom nadogradnjom na Premium. Više od 11 milijuna preuzimanja, ocjena 4,6 zvjezdica u App Storeu.
 
@@ -20,7 +20,7 @@ authors:
 
 Pogledajte cijelu video recenziju od [@Massi_Media](https://www.youtube.com/@Massi_Media):
 
-{{< youtubecard id="pKUZmHy9dxc" >}}
+{{< ls-youtubecard id="pKUZmHy9dxc" >}}
 
 ## Koji je najbolji cloud glazbeni player za iPhone?
 
@@ -67,18 +67,18 @@ Budući da Evermusic radi s datotekama koje već imate i pohranom za koju već p
 
 ## Često postavljana pitanja
 
-{{% details title="Je li Evermusic stvarno besplatan za korištenje?" closed="true" %}}
+{{% ls-details title="Je li Evermusic stvarno besplatan za korištenje?" closed="true" %}}
 Da, Evermusic nudi besplatnu razinu koja uključuje cloud povezivost, streaming i offline preuzimanja. Besplatna verzija podržava osnovne značajke reprodukcije i ograničen broj cloud veza. Evermusic Pro, dostupan kao jednokratna kupnja ili pretplata, otključava puni ekvilajzer, crossfade, dodatne cloud račune i ostale napredne značajke. Nije potrebna pretplata za pristup vlastitim glazbenim datotekama.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Mogu li koristiti Evermusic bez internetske veze?" closed="true" %}}
+{{% ls-details title="Mogu li koristiti Evermusic bez internetske veze?" closed="true" %}}
 Apsolutno. Evermusic vam omogućuje preuzimanje pjesama iz bilo koje povezane cloud usluge izravno na vaš uređaj za offline reprodukciju. Nakon preuzimanja, datoteke se pohranjuju lokalno i ostaju dostupne čak i bez Wi-Fi-ja ili mobilnih podataka. To Evermusic čini idealnim za letove, putovanje kroz tunele ili bilo kakvu situaciju gdje je veza nepouzdana.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Podržava li Evermusic lossless audio formate poput FLAC-a?" closed="true" %}}
+{{% ls-details title="Podržava li Evermusic lossless audio formate poput FLAC-a?" closed="true" %}}
 Da. Evermusic podržava široki raspon audio formata uključujući FLAC, ALAC, WAV, AIFF, OGG, MP3, AAC i M4A. Aplikacija reproducira lossless datoteke u njihovoj izvornoj kvaliteti bez ponovnog kodiranja, pa audiofili mogu uživati u svojim visokokvalitetnim zbirkama točno onako kako je zamišljeno.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Kako da povežem NAS ili kućni poslužitelj s Evermusicom?" closed="true" %}}
+{{% ls-details title="Kako da povežem NAS ili kućni poslužitelj s Evermusicom?" closed="true" %}}
 Ako vaš NAS ili kućni poslužitelj podržava WebDAV ili SMB protokole, možete ga povezati s Evermusicom unosom adrese poslužitelja, porta i vjerodajnica u postavkama cloud veze u aplikaciji. Većina popularnih NAS marki uključujući Synology, QNAS i Western Digital MyCloud podržava ove protokole odmah iz kutije. Nakon povezivanja, Evermusic će skenirati i indeksirati vaše glazbene datoteke baš kao i bilo koji drugi cloud izvor.
-{{% /details %}}
+{{% /ls-details %}}

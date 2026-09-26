@@ -1,10 +1,11 @@
 ---
+excludeSearch: true
 date: '2025-06-12T17:00:00+00:00'
 title: 'O nama'
 description: 'Everappz S.L. je španjolska softverska tvrtka koja razvija iOS i macOS aplikacije za audio i video. Tvorci Evermusica (11M preuzimanja), Flacboxa, EverTaga, EverVidea i Soundyja — preko 14 milijuna preuzimanja diljem svijeta.'
 ---
 
-{{< lottie src="/images/juicy-json/juicy-girl-and-guy-preparing-start-up-rocket-to-launch-with-ideas.json" width="65%" >}}
+{{< ls-lottie src="/images/juicy-json/juicy-girl-and-guy-preparing-start-up-rocket-to-launch-with-ideas.json" width="65%" >}}
 
 ## Tko smo mi
 
@@ -35,7 +36,7 @@ Tu smo da nastavimo graditi bolji softver — jedno promišljeno ažuriranje u i
 ### Artem Meleshko
 
 {{< cards cols="1" >}}
-  {{< card
+  {{< ls-card
     link="https://www.linkedin.com/in/artem-meleshko-s/"
     title="Artem Meleshko"
     tag="Osnivač i inženjer"
@@ -60,7 +61,7 @@ Studirao je na Nacionalnom sveučilištu za brodogradnju Admiral Makarov, aktiva
 ### Anna Kosenko
 
 {{< cards cols="1" >}}
-  {{< card
+  {{< ls-card
     link="https://www.linkedin.com/in/anna-kosenko-kosenko/"
     title="Anna Kosenko"
     tag="Direktorica"
@@ -86,4 +87,4 @@ Hvala što koristite naše aplikacije i podržavate neovisni razvoj. Ako ikada i
 
 Pretplatite se na nas na društvenim mrežama kako biste dobili najnovije vijesti, ažuriranja aplikacija, savjete i korisne informacije:
 
-{{< social-cards >}}
+{{< ls-social-cards >}}

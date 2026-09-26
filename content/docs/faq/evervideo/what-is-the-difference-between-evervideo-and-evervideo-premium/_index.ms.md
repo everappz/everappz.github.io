@@ -11,7 +11,7 @@ readingTime: 3
 Evervideo menawarkan versi percuma dengan had penggunaan tertentu dan versi premium dengan ciri tambahan, yang boleh dibuka kunci melalui pembelian dalam apl.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Skrin Naik Taraf Pelan Lalai" image="/docs/faq/evervideo/what-is-the-difference-between-evervideo-and-evervideo-premium/upgrade-default.webp" >}}
+  {{< ls-card title="" subtitle="Skrin Naik Taraf Pelan Lalai" image="/docs/faq/evervideo/what-is-the-difference-between-evervideo-and-evervideo-premium/upgrade-default.webp" >}}
 {{< /cards >}}
 
 ## Pilih Pelan Premium Anda
@@ -19,7 +19,7 @@ Evervideo menawarkan versi percuma dengan had penggunaan tertentu dan versi prem
 Versi percuma aplikasi menawarkan pembelian dalam apl seumur hidup satu kali dan dua pilihan langganan (1 bulan dan 1 tahun) untuk menghapuskan semua sekatan dan naik taraf ke versi Premium, membolehkan anda memilih harga terbaik dan paling optimum untuk anda. Harga mungkin berbeza bergantung kepada negara atau wilayah anda. Juga, sila ingat bahawa **Family Sharing** didayakan untuk semua pembelian dan pelan, jadi anda boleh berkongsi versi Premium dengan ahli keluarga anda.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Skrin Pemilihan Pelan Evervideo" image="/docs/faq/evervideo/what-is-the-difference-between-evervideo-and-evervideo-premium/plan-select.webp" >}}
+  {{< ls-card title="" subtitle="Skrin Pemilihan Pelan Evervideo" image="/docs/faq/evervideo/what-is-the-difference-between-evervideo-and-evervideo-premium/plan-select.webp" >}}
 {{< /cards >}}
 
 ## Berkongsi Pembelian Antara iOS dan Mac
@@ -31,13 +31,13 @@ Anda juga boleh mencuba menekan butang 'Pulihkan Pembelian' dalam tetapan apl. S
 Untuk memulihkan pembelian anda pada peranti baharu, gunakan sahaja menu 'Pulihkan pembelian'. Anda akan melihat senarai pembelian anda. Jika anda tidak melihat semua pembelian anda, sila semak sama ada peranti disambungkan ke akaun iTunes yang sama yang digunakan untuk membuat pembelian, dan pastikan iCloud didayakan.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Skrin Pembelian Dipulihkan" image="/docs/faq/evervideo/what-is-the-difference-between-evervideo-and-evervideo-premium/purchase-restored.webp" >}}
+  {{< ls-card title="" subtitle="Skrin Pembelian Dipulihkan" image="/docs/faq/evervideo/what-is-the-difference-between-evervideo-and-evervideo-premium/purchase-restored.webp" >}}
 {{< /cards >}}
 
 Setelah anda menaik taraf apl anda, anda akan melihat skrin status Premium dengan butiran pembelian semasa anda.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Skrin Anda Menggunakan Premium" image="/docs/faq/evervideo/what-is-the-difference-between-evervideo-and-evervideo-premium/you-are-using-premium.webp" >}}
+  {{< ls-card title="" subtitle="Skrin Anda Menggunakan Premium" image="/docs/faq/evervideo/what-is-the-difference-between-evervideo-and-evervideo-premium/you-are-using-premium.webp" >}}
 {{< /cards >}}
 
 ## Cuba Premium Secara Percuma
@@ -45,7 +45,7 @@ Setelah anda menaik taraf apl anda, anda akan melihat skrin status Premium denga
 Selain itu, terdapat peluang terhad masa untuk '**Cuba Premium Secara Percuma**'. Anda boleh mengakses ciri ini melalui menu 'Cuba Premium Secara Percuma'. Dengan hanya menonton iklan atau menyebarkan berita tentang apl kepada rakan-rakan anda, anda boleh membuka kunci versi Premium secara percuma semasa tempoh promosi ini. Ini memberi anda peluang untuk mengalami ciri premium tanpa sebarang komitmen kewangan.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Skrin Cuba Premium Secara Percuma" image="/docs/faq/evervideo/what-is-the-difference-between-evervideo-and-evervideo-premium/premium-for-free.webp" >}}
+  {{< ls-card title="" subtitle="Skrin Cuba Premium Secara Percuma" image="/docs/faq/evervideo/what-is-the-difference-between-evervideo-and-evervideo-premium/premium-for-free.webp" >}}
 {{< /cards >}}
 
 ## Evervideo Free
@@ -62,7 +62,7 @@ Selain itu, terdapat peluang terhad masa untuk '**Cuba Premium Secara Percuma**'
 - Tiada pilihan penyesuaian atau pemperibadian.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Skrin Naik Taraf Storan Awan" image="/docs/faq/evervideo/what-is-the-difference-between-evervideo-and-evervideo-premium/upgrade-cloud-storage.webp" >}}
+  {{< ls-card title="" subtitle="Skrin Naik Taraf Storan Awan" image="/docs/faq/evervideo/what-is-the-difference-between-evervideo-and-evervideo-premium/upgrade-cloud-storage.webp" >}}
 {{< /cards >}}
 
 ## Evervideo Premium
@@ -106,7 +106,7 @@ Jika anda baru bermula atau hanya memerlukan ciri main balik video asas, **Everv
 Sebaliknya, **Evervideo Premium** membuka kunci pengalaman penuh. Anda akan menikmati antara muka bebas iklan, sokongan senarai main dan baris tanpa had, fungsi luar talian penuh, fleksibiliti awan, dan pilihan eksport dan pemperibadian lanjutan. Ia adalah pilihan terbaik untuk pengguna dengan pustaka video besar, mereka yang menonton kandungan dari pelbagai sumber, atau sesiapa yang mencari pemain media yang lebih profesional dan lancar.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Skrin Anda Telah Membeli Premium" image="/docs/faq/evervideo/what-is-the-difference-between-evervideo-and-evervideo-premium/you-have-purchased-premium.webp" >}}
+  {{< ls-card title="" subtitle="Skrin Anda Telah Membeli Premium" image="/docs/faq/evervideo/what-is-the-difference-between-evervideo-and-evervideo-premium/you-have-purchased-premium.webp" >}}
 {{< /cards >}}
 
 Jika anda mencari fleksibiliti, cuba **pelan bulanan**. Untuk nilai jangka panjang, pilih naik taraf **tahunan** atau **seumur hidup** — kedua-duanya menawarkan akses penuh pada harga yang lebih baik.

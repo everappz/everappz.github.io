@@ -7,7 +7,7 @@ tags: ["muziek", "audio", "speler", "iphone", "afspelen", "offline", "downloaden
 readingTime: 5
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **Samenvatting:** Converteer YouTube-video's naar MP3 met een browsergebaseerde converter of de gratis ClipGrab desktop-app. Importeer vervolgens de audiobestanden in Evermusic op je iPhone of Mac voor offline afspelen -- geen internet vereist.
@@ -221,30 +221,30 @@ Als je onzeker bent over je opties, overweeg dan om meer informatie te vragen aa
 
 P.S. Er zijn ook verschillende **videotutorials** beschikbaar op YouTube:
 <br><br>
-{{< youtubecard id="TlVpbRvAiwA" title="Descargar Música Gratis Para IOS" >}}
+{{< ls-youtubecard id="TlVpbRvAiwA" title="Descargar Música Gratis Para IOS" >}}
 <br><br>
-{{< youtubecard id="jSDuNguZZNE" title="Evermusic: Free Offline Music Player for iOS (iPhone/iPod/iPad) | Music Files Organization" >}}
+{{< ls-youtubecard id="jSDuNguZZNE" title="Evermusic: Free Offline Music Player for iOS (iPhone/iPod/iPad) | Music Files Organization" >}}
 <br><br>
-{{< youtubecard id="-kY48ktbo2M" title="テクノロジー塾】おすすめiPhone 音楽アプリ「ever music」ストック型篇" >}}
+{{< ls-youtubecard id="-kY48ktbo2M" title="テクノロジー塾】おすすめiPhone 音楽アプリ「ever music」ストック型篇" >}}
 
 ## Veelgestelde vragen
 
-{{% details title="Is het legaal om muziek van YouTube te downloaden?" closed="true" %}}
+{{% ls-details title="Is het legaal om muziek van YouTube te downloaden?" closed="true" %}}
 Het hangt af van de auteursrechtstatus van de inhoud. Royaltyvrije en Creative Commons-inhoud kan doorgaans worden gedownload voor persoonlijk gebruik. Auteursrechtelijk beschermde muziek vereist de juiste licentie of toestemming.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Welke audioformaten ondersteunt Evermusic?" closed="true" %}}
+{{% ls-details title="Welke audioformaten ondersteunt Evermusic?" closed="true" %}}
 Evermusic ondersteunt MP3, FLAC, AAC, WAV, OGG, AIFF en vele andere audioformaten. Je kunt vrijwel elk audiobestand afspelen dat je downloadt.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Kan ik Evermusic gebruiken zonder internetverbinding?" closed="true" %}}
+{{% ls-details title="Kan ik Evermusic gebruiken zonder internetverbinding?" closed="true" %}}
 Ja. Zodra audiobestanden zijn geïmporteerd in Evermusic, kun je ze volledig offline afspelen -- geen internetverbinding vereist.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Is ClipGrab gratis?" closed="true" %}}
+{{% ls-details title="Is ClipGrab gratis?" closed="true" %}}
 Ja. ClipGrab is gratis en beschikbaar voor zowel Mac als Windows. Het gebruikt de open-source youtube-dlp-bibliotheek voor downloads.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Hoe zet ik gedownloade muziek over van Mac naar iPhone?" closed="true" %}}
+{{% ls-details title="Hoe zet ik gedownloade muziek over van Mac naar iPhone?" closed="true" %}}
 Je kunt AirDrop, iTunes File Sharing of de ingebouwde Wi-Fi Drive-functie van Evermusic gebruiken om audiobestanden van je Mac naar je iPhone over te zetten.
-{{% /details %}}
+{{% /ls-details %}}

@@ -21,7 +21,7 @@ Evertag هو محرر بيانات وصفية موسيقية لأجهزة **iPho
 
 <div class="hx:w-full">
 
-{{% details title="ما هو Evertag؟" closed="true" %}}
+{{% ls-details title="ما هو Evertag؟" closed="true" %}}
 Evertag هو محرر بيانات وصفية موسيقية ومدير أعمال فنية للألبومات لأجهزة **iOS وmacOS** يتيح لك إصلاح العلامات، وإضافة أغلفة الألبومات، وتنظيف ملفات الصوت المخزنة على جهازك أو في السحابة.<br><br>
 
 يدعم التطبيق مجموعة واسعة من تنسيقات الصوت الشائعة — MP3 وFLAC وWAV وM4A وAIFF وOGG وOPUS وWMA وAPE وغيرها الكثير — ويتيح لك تحرير العلامات الشائعة مثل **TITLE** و**ARTIST** و**ALBUM** و**GENRE** و**YEAR** و**TRACK NUMBER**، إضافة إلى الحقول الموسّعة مثل **BPM** و**DISC NUMBER** و**LYRICS** ومعرّفات **MUSICBRAINZ** وقيم **REPLAY-GAIN** وتصنيفات **PARENTAL ADVISORY**. يمكنك العمل على ملف واحد في كل مرة أو التبديل إلى **وضع الدفعة** لتحرير مسارات متعددة في وقت واحد — مثالي لتنظيم ألبومات أو قوائم تشغيل كاملة.<br><br>
@@ -29,21 +29,21 @@ Evertag هو محرر بيانات وصفية موسيقية ومدير أعما
 من أبرز ميزات Evertag قدرته على جلب أغلفة الألبومات المفقودة من الإنترنت (عبر MusicBrainz) أو السماح لك بإضافة أغلفتك الخاصة من مكتبة الصور. يدعم محرر كلمات الأغاني المدمج كلًا من الكلمات العادية و**المتزامنة (LRC)** ويتضمن اختصارات بنقرة واحدة إلى Lrclib وGenius وLyricsify وبحث Google. يدعم التطبيق التحرير **المباشر في المكان** (open-in-place)، مما يتيح لك تعديل علامات الصوت دون نسخ الملفات.<br><br>
 
 سواء كنت تدير الموسيقى على جهازك أو في السحابة (iCloud Drive وGoogle Drive وDropbox وOneDrive وMEGA وSynology وpCloud والمزيد)، يوفر Evertag وصولًا سلسًا للملفات وتحريرها — مثالي للموسيقيين ومديري الأقراص والمدوّنين الصوتيين وهواة الجمع الذين يريدون مكتبة نظيفة ومنظمة على iPhone أو iPad أو Mac دون استخدام محرر علامات سطح المكتب. راجع [دليل المستخدم](/docs/guide/evertag/) الكامل للحصول على لقطات الشاشة والدروس التعليمية.<br><br>
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="هل يعمل Evertag على iPhone وiPad وMac؟" closed="true" %}}
+{{% ls-details title="هل يعمل Evertag على iPhone وiPad وMac؟" closed="true" %}}
 نعم — Evertag تطبيق **عالمي**. يغطي نفس الشراء iPhone وiPad وMac (كلٌّ من Intel وApple Silicon عبر Mac Catalyst)، وتتزامن إعداداتك ومفضلاتك وحالة Premium بين الأجهزة عبر iCloud.<br><br>
 
 يتكيف التخطيط مع الجهاز: شريط علامات تبويب سفلي على iPhone، وعرض مقسم مع شريط جانبي على iPad وMac، ودعم كامل لاختصارات لوحة المفاتيح على Mac. جميع ميزات محرر العلامات — بما في ذلك وضع الدفعة وبحث الكلمات والحقول الموسّعة والتكامل السحابي — متاحة على كل المنصات.<br><br>
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="هل Evertag مجاني؟" closed="true" %}}
+{{% ls-details title="هل Evertag مجاني؟" closed="true" %}}
 نعم، Evertag **مجاني للتنزيل** مع عمليات شراء داخل التطبيق اختيارية لرفع القيود. يقدم التطبيق **شراءً مدى الحياة لمرة واحدة** وخيارَي اشتراك (شهري وسنوي) حتى تتمكن من اختيار الخطة الأنسب لك. قد تختلف الأسعار حسب الدولة أو الإقليم، و**Family Sharing مفعّلة** لجميع الخطط — شارك Premium مع ما يصل إلى خمسة أفراد من العائلة.<br><br>
 
 تتم مشاركة مشتريات مدى الحياة والاشتراكات بين iOS وMac عبر iCloud. إذا كنت قد دفعت بالفعل على iOS، فثبّت أحدث إصدار من التطبيق، وتأكد من تفعيل iCloud، وانتظر دقيقة تقريبًا حتى يُرفع شراؤك — ثم ابدأ التطبيق على Mac (بنفس Apple ID وiCloud) وسيتفعّل Premium تلقائيًا. يمكنك أيضًا النقر على **الإعدادات ← المشتريات ← استعادة المشتريات** في أي وقت.<br><br>
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="ما الفرق بين Evertag Free وEvertag Premium؟" closed="true" %}}
+{{% ls-details title="ما الفرق بين Evertag Free وEvertag Premium؟" closed="true" %}}
 
 يمنحك **Evertag Free** وصولًا إلى ميزات تحرير العلامات الأساسية مع بعض القيود. يتضمن إعلانات ويتيح لك استخدام محرر العلامات ومحرر أغلفة الألبومات ووضع الدفعة بطريقة محدودة: حساب سحابي واحد مرتبط، وما يصل إلى 10 مفضلات، وما يصل إلى 20 عملية بحث تلقائي يوميًا، وما يصل إلى 20 عملية بحث عن غلاف الألبوم يوميًا. لا يزال بإمكانك تحرير أكثر من 120 علامة صوتية وإدارة الملفات محليًا أو من خلال مدير الملفات المدمج.<br><br>
 
@@ -55,9 +55,9 @@ Evertag هو محرر بيانات وصفية موسيقية ومدير أعما
 • Premium مدى الحياة — 24.99 دولار (شراء لمرة واحدة)<br><br>
 
 جميع خيارات Premium تفتح نفس مجموعة الميزات. تعرض [صفحة المقارنة المخصصة](/docs/faq/evertag/what-is-the-difference-between-evertag-and-evertag-premium/) الفروق بالتفصيل.<br><br>
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="كيف أستعيد مشتريات Premium على iPhone أو iPad أو Mac جديد؟" closed="true" %}}
+{{% ls-details title="كيف أستعيد مشتريات Premium على iPhone أو iPad أو Mac جديد؟" closed="true" %}}
 سجّل الدخول إلى **نفس Apple ID** الذي استخدمته في الشراء الأصلي ثم انقر على **الإعدادات ← المشتريات ← استعادة المشتريات** في Evertag.<br><br>
 
 إذا لم تُعد الاستعادة حالة Premium لديك:<br>
@@ -67,9 +67,9 @@ Evertag هو محرر بيانات وصفية موسيقية ومدير أعما
 • تحقق من أن جهازك متصل بالإنترنت وأن حساب App Store في **iOS Settings ← Apple ID ← Media & Purchases** يطابق الحساب الذي اشترى الترقية.<br><br>
 
 تتم مشاركة الاشتراكات ومشتريات مدى الحياة بين iOS وMac (Mac Catalyst)، و**Family Sharing** يتيح لما يصل إلى خمسة أفراد من العائلة إعادة استخدام نفس خطة Premium.<br><br>
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="هل Evertag آمن؟" closed="true" %}}
+{{% ls-details title="هل Evertag آمن؟" closed="true" %}}
 نعم. يستخدم Evertag فقط **حزم SDK الرسمية لمزودي السحابة والاتصالات المشفرة** للوصول إلى حساباتك، ولا يتم مشاركة كلمة مرورك مع التطبيق أبدًا. عند توصيل خدمة سحابية، تظهر صفحة التفويض الرسمية المقدمة من مزود السحابة — تتم عملية تسجيل الدخول بالكامل خارج Evertag، ويُعيد المزود رمز مصادقة يستخدمه التطبيق لاستدعاءات API.<br><br>
 
 يتم تخزين رمز المصادقة على جهازك في **Keychain** الآمن للنظام، ولا يُرسل أبدًا إلى خوادمنا. تُوضع الملفات التي تنزّلها من خدمة سحابية مرتبطة في مجلد "المستندات" الخاص بالتطبيق، ويمكنك إزالتها في أي وقت من مدير الملفات المدمج.<br><br>
@@ -79,29 +79,29 @@ Evertag هو محرر بيانات وصفية موسيقية ومدير أعما
 • على موقع مزود السحابة — سجّل الدخول، وانتقل إلى صفحة تطبيقات الطرف الثالث / التطبيقات المتصلة وأزل Evertag من القائمة.<br><br>
 
 إذا حذفت Evertag من جهازك، تتم إزالة جميع البيانات المنزّلة ورموز الوصول معه.<br><br>
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="هل يجمع Evertag بياناتي الشخصية أو يشاركها؟" closed="true" %}}
+{{% ls-details title="هل يجمع Evertag بياناتي الشخصية أو يشاركها؟" closed="true" %}}
 لا يخزّن التطبيق أي شيء عن مكتبتك الموسيقية على خوادمنا؛ كل ما تحرره يبقى على جهازك أو في حسابك السحابي الخاص.<br><br>
 
 يستخدم Evertag مجموعة محدودة من الخدمات للتحليلات وتقارير الأعطال (Firebase Analytics وCrashlytics) ويعرض إعلانات في النسخة المجانية عبر AdMob. يمكنك مراجعة هذه الخدمات وإيقافها في **الإعدادات ← التحليلات وجمع البيانات**. تتيح لك أيضًا موجّه Apple's App Tracking Transparency رفض التتبع في المرة الأولى التي يبدأ فيها التطبيق. راجع [سياسة الخصوصية](/legal/privacy-policy/) للاطلاع على التفاصيل الكاملة.<br><br>
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="هل يمكنني حماية Evertag برمز مرور أو Face ID؟" closed="true" %}}
+{{% ls-details title="هل يمكنني حماية Evertag برمز مرور أو Face ID؟" closed="true" %}}
 نعم. افتح **الإعدادات ← رمز المرور** واضبط رمزًا مكوّنًا من 4 أو 6 أرقام. بمجرد التفعيل، سيطلب Evertag رمز المرور (أو Face ID / Touch ID، إذا اخترت ذلك) في كل مرة يعود فيها التطبيق إلى المقدمة.<br><br>
 
 يتم تخزين رمز المرور محليًا في iOS Keychain — لا يوجد استرداد عبر الإنترنت. عطّله من نفس شاشة الإعدادات إذا لم تعد بحاجة إلى الحماية.<br><br>
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="ما تنسيقات الصوت التي يدعمها Evertag؟" closed="true" %}}
+{{% ls-details title="ما تنسيقات الصوت التي يدعمها Evertag؟" closed="true" %}}
 يقرأ Evertag العلامات ويكتبها في أكثر من 30 تنسيق صوتي:<br><br>
 
 **MP3, OGG, OGA, FLAC, MPC, WV, SPX, OPUS, TTA, M4A, M4R, M4B, M4P, MP4, 3G2, M4V, WMA, ASF, AIF, AIFF, AFC, AIFC, WAV, APE, MOD, MODULE, NTS, WOW, S3M, IT, XM.**<br><br>
 
 يغطي هذا كل شيء من أكثر التنسيقات بدون فقدان شيوعًا (FLAC وWAV وAIFF وALAC داخل M4A وAPE) إلى التنسيقات مع فقدان (MP3 وAAC داخل M4A وOGG Vorbis وOPUS وWMA) وحتى تنسيقات المتتبعات الكلاسيكية (MOD وS3M وIT وXM). إذا كان التنسيق الذي تحتاجه مفقودًا، أخبرنا عبر **الإعدادات ← إرسال ملاحظات**.<br><br>
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="ما علامات الصوت التي يدعمها Evertag؟" closed="true" %}}
+{{% ls-details title="ما علامات الصوت التي يدعمها Evertag؟" closed="true" %}}
 يدعم Evertag أكثر من **120 حقل علامة** عبر كل معيار بيانات وصفية رئيسي — **ID3v1 وID3v2.3 وID3v2.4 وMP4 / iTunes وVorbis Comments وAPE وASF / Windows Media**.<br><br>
 
 القائمة الأبجدية الكاملة:<br><br>
@@ -109,18 +109,18 @@ Evertag هو محرر بيانات وصفية موسيقية ومدير أعما
 ASIN, AcoustID: Fingerprint, AcoustID: Identifier, Album, Album Artist, Album Artist Sort Order, Album Cover, Album Sort Order, Arranger, Artist, Artist Sort Order, Artists, Barcode, Beats Per Minute, Catalog Number, Comment, Compilation, Composer, Composer Sort Order, Conductor, Content Group, Copyright, Description, Director, Disk Number, Disk Subtitle, Disk Total, Encoded By, Encoder Settings, Encoding Time, Engineer, File Owner, File Type, Genre, Grouping, ISRC, Initial Key, Involved People, Language, Length, License, Lyricist, Lyrics Advisory Rating, Lyrics Unsynced, Media Type, Mix DJ, Mixer, Mood, Movement Name, Movement Number, Movement Total, MusicBrainz: Album Artist ID, MusicBrainz: Album ID, MusicBrainz: Album Release Country, MusicBrainz: Album Status, MusicBrainz: Album Type, MusicBrainz: Artist ID, MusicBrainz: Disc ID, MusicBrainz: Original Album ID, MusicBrainz: Original Artist ID, MusicBrainz: Release Group ID, MusicBrainz: Release Track ID, MusicBrainz: TRM ID, MusicBrainz: Track ID, MusicBrainz: Work ID, MusicIP: Fingerprint, MusicIP: PUID, Musician Credits, Narrator, Net Radio Owner, Net Radio Station, Original Album, Original Artist, Original File Name, Original Lyricist, Original Release Date, Original Release Year, Performer, Podcast, Podcast Category, Podcast Description, Podcast ID, Podcast Keywords, Podcast URL, Producer, Publisher, Rating, Record Label, Release Country, Release Status, Release Type, Remixed By, Replay Gain: Album Gain, Replay Gain: Album Peak, Replay Gain: Album Range, Replay Gain: Reference Loudness, Replay Gain: Track Gain, Replay Gain: Track Peak, Replay Gain: Track Range, Script, Show Movement, Show Name, Show Name Sort Order, Subtitle, Track Number, Track Title, Track Title Sort Order, Track Total, WWW, WWW: Artist, WWW: Audio File, WWW: Audio Source, WWW: Commercial Info, WWW: Copyright, WWW: Payment, WWW: Publisher, WWW: Radio Page, Website, Work Title, Writer, Year.<br><br>
 
 راجع مرجع [تعيينات حقول العلامات](/docs/guide/evertag/evertag-tag-field-mappings/) لأسماء الحقول الدقيقة المستخدمة في كل تنسيق.<br><br>
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="هل يمكن لـ Evertag كتابة العلامات بتنسيق ID3v2.3 أو ID3v2.4؟" closed="true" %}}
+{{% ls-details title="هل يمكن لـ Evertag كتابة العلامات بتنسيق ID3v2.3 أو ID3v2.4؟" closed="true" %}}
 نعم. افتح **الإعدادات ← محرر علامات الصوت ← خيارات حفظ العلامات** وقم بتشغيل **ID3v2.4** أو إيقافه.<br><br>
 
 • **ID3v2.4 مشغّل** (الافتراضي) — المعيار الحديث مع دعم كامل لـ UTF-8، وإطارات متعددة القيمة، وبيانات وصفية أغنى. مثالي لمشغلات سطح المكتب الحالية ومديري الموسيقى وأغلب أجهزة استريو السيارات الحديثة.<br>
 • **ID3v2.4 مطفأ** — يحفظ العلامات بتنسيق **ID3v2.3** الأكثر دعمًا على نطاق واسع. استخدم هذا إذا كان جهاز قديم أو وحدة رأس سيارة أو برنامج DJ يُظهر علامات فارغة بعد التحرير.<br><br>
 
 تعرض نفس صفحة الإعدادات خيار **علامات مكررة**، الذي يكتب البيانات الوصفية الشائعة في كلا قسمَي ID3 بالملف لتحقيق أقصى توافق مع المشغلات القديمة.<br><br>
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="هل يمكن لـ Evertag إصلاح الأحرف المشوّهة أو التالفة في علامات الصوت (السيريلية والصينية واليابانية وغيرها)؟" closed="true" %}}
+{{% ls-details title="هل يمكن لـ Evertag إصلاح الأحرف المشوّهة أو التالفة في علامات الصوت (السيريلية والصينية واليابانية وغيرها)؟" closed="true" %}}
 نعم. يتضمن Evertag **أداة تطبيع ترميز** مدمجة تحوّل النصوص المُشفَّرة بشكل خاطئ (على سبيل المثال، علامات السيريلية أو الصينية أو اليابانية أو الكورية التي تظهر كأحرف غير مقروءة مثل `Ðàñêîëüíèêîâ`) إلى UTF-8 قابل للقراءة.<br><br>
 
 لاستخدامها:<br>
@@ -129,23 +129,23 @@ ASIN, AcoustID: Fingerprint, AcoustID: Identifier, Album, Album Artist, Album Ar
 3. احفظ الملف.<br><br>
 
 إذا لم يظهر الزر، فعّله من **الإعدادات ← محرر علامات الصوت ← أزرار الشاشة الرئيسية**. تعديلات الترميز مفيدة بشكل خاص للمكتبات المُصنَّفة في الأصل على Windows حيث تكون قراءات العلامات افتراضيًا بتشفير ANSI / CP-1251 / Shift-JIS بدلًا من UTF-8.<br><br>
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="ما الخدمات السحابية المدعومة؟" closed="true" %}}
+{{% ls-details title="ما الخدمات السحابية المدعومة؟" closed="true" %}}
 يتصل Evertag بمجموعة كاملة من الخدمات السحابية الشائعة ويتيح لك تحرير العلامات مباشرة على الملفات البعيدة:<br><br>
 
 **iCloud Drive, Google Drive, Dropbox, OneDrive, Box, MEGA, Yandex.Disk, pCloud, Synology Drive, MediaFire, WD My Cloud Home, InfiniCLOUD (TeraCLOUD), HiDrive, OpenDrive, MyDrive, Put.io, Cloud Mail.ru, Baidu Pan (百度网盘)**.<br><br>
 
 يمكنك أيضًا توصيل أي NAS شخصي أو Apple Time Capsule أو كمبيوتر يدعم **SMB** أو **WebDAV** — راجع [دليل الاتصالات](/docs/guide/evertag/evertag-guide-connections/) للإعداد خطوة بخطوة. في النسخة المجانية يمكنك إضافة حساب سحابي واحد؛ **Premium** يتيح لك توصيل أي عدد من الحسابات التي تحتاجها.<br><br>
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="كيف أضيف حسابًا سحابيًا جديدًا؟" closed="true" %}}
+{{% ls-details title="كيف أضيف حسابًا سحابيًا جديدًا؟" closed="true" %}}
 افتح علامة التبويب **الاتصالات** ← انقر على **الاتصال بالتخزين السحابي** ← اختر مزودًا من القائمة (iCloud Drive أو Google Drive أو Dropbox أو OneDrive أو Box أو MEGA أو Yandex.Disk أو pCloud أو Synology Drive أو MediaFire أو WD My Cloud Home أو InfiniCLOUD أو HiDrive أو OpenDrive أو MyDrive أو Put.io أو Cloud Mail.ru أو Baidu Pan) ← سجّل الدخول على الصفحة الرسمية للمزود ← انقر على **تم**.<br><br>
 
 إذا فشل الاتصال، تحقق مرة أخرى من اتصالك بالإنترنت وبياناتك الاعتمادية، وتأكد من إعداد المصادقة الثنائية بشكل صحيح لتلك الخدمة. في إصدار **Premium** يمكنك إضافة عدد غير محدود من الحسابات وتثبيت المجلدات العميقة في قائمة **الوصول السريع** أعلى شاشة الاتصالات للتصفح بنقرة واحدة.<br><br>
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="هل يمكنني تحرير علامات الصوت في Google Drive أو Dropbox أو iCloud Drive دون تنزيل المكتبة بأكملها؟" closed="true" %}}
+{{% ls-details title="هل يمكنني تحرير علامات الصوت في Google Drive أو Dropbox أو iCloud Drive دون تنزيل المكتبة بأكملها؟" closed="true" %}}
 نعم. بعد توصيل حساب سحابي، يبثّ Evertag فقط الملف الذي توشك على تحريره — لا داعي لمزامنة مكتبتك بأكملها محليًا.<br><br>
 
 عند النقر على ملف بعيد:<br>
@@ -155,9 +155,9 @@ ASIN, AcoustID: Fingerprint, AcoustID: Identifier, Album, Album Artist, Album Ar
 4. تتم إزالة النسخة المؤقتة (أو الاحتفاظ بها، حسب **الإعدادات ← محرر علامات الصوت ← تحرير الملفات عبر الإنترنت**).<br><br>
 
 يمكنك التحكم في سلوك الحفظ من **الإعدادات ← محرر علامات الصوت ← تحديث الملفات عبر الإنترنت**: الطلب قبل كل حفظ، أو الرفع التلقائي الصامت، أو تخطي الرفع كليًا (تعديلات محلية فقط).<br><br>
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="هل يمكنني استخدام Evertag مع NAS مثل Synology أو QNAP أو Asustor أو Apple Time Capsule؟" closed="true" %}}
+{{% ls-details title="هل يمكنني استخدام Evertag مع NAS مثل Synology أو QNAP أو Asustor أو Apple Time Capsule؟" closed="true" %}}
 نعم. قم بتوصيل أي NAS باستخدام **SMB** أو **WebDAV** — وهما البروتوكولان اللذان يدعمهما كل بائع رئيسي لـ NAS (Synology وQNAP وAsustor وTerraMaster وWestern Digital وBuffalo وApple Time Capsule) بشكل افتراضي.<br><br>
 
 • **SMB** — انقر على **الاتصال بالتخزين السحابي ← SMB**، أدخل `smb://nas-ip-address/shared-folder-name`، اختر إصدار البروتوكول (Auto / SMB1 / SMB2)، أدخل اسم المستخدم وكلمة المرور، انقر على **تم**. الدليل الكامل: [بث الموسيقى من Mac أو PC عبر SMB](/docs/howto/stream-your-music-from-mac-or-pc-to-iphone-using-smb/).<br>
@@ -165,9 +165,9 @@ ASIN, AcoustID: Fingerprint, AcoustID: Identifier, Album, Album Artist, Album Ar
 • **Synology Drive** — مدعوم كتكامل من الدرجة الأولى (منفصل عن WebDAV العام). الدليل الكامل: [توصيل Synology NAS والاستماع إلى الموسيقى على iPhone أو Mac](/docs/howto/how-to-connect-synology-nas-and-listen-to-music-on-your-iphone-or-mac/).<br><br>
 
 تظهر الأجهزة التي تبث على الشبكة المحلية تلقائيًا في قسم **الأجهزة المتاحة** في شاشة الاتصالات.<br><br>
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="كيف أحدّث بيانات الملف الوصفية تلقائيًا على خدمة سحابية بعد التحرير؟" closed="true" %}}
+{{% ls-details title="كيف أحدّث بيانات الملف الوصفية تلقائيًا على خدمة سحابية بعد التحرير؟" closed="true" %}}
 يتم التحكم في سلوك الحفظ لملفات السحابة في **الإعدادات ← محرر علامات الصوت ← تحديث الملفات عبر الإنترنت** بثلاثة خيارات:<br><br>
 
 • **عرض رسالة تأكيد** *(الافتراضي)* — يطالبك التطبيق قبل رفع الملف المحرَّر مجددًا إلى السحابة.<br>
@@ -175,9 +175,9 @@ ASIN, AcoustID: Fingerprint, AcoustID: Identifier, Album, Album Artist, Album Ar
 • **عدم تحديث بيانات الملف الوصفية** — يتخطى التطبيق الرفع كليًا؛ تبقى تغييراتك محلية ولا تتأثر نسخة السحابة.<br><br>
 
 اقرن هذا مع **الإعدادات ← محرر علامات الصوت ← تحرير الملفات عبر الإنترنت** لتحديد ما إذا كانت النسخة المحلية المنزَّلة تُحذف (توفير مساحة) أو تُحفظ (إعادة فتح أسرع) بعد كل تحرير.<br><br>
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="لماذا لا تظهر تغييراتي بعد تحرير ملف سحابي؟" closed="true" %}}
+{{% ls-details title="لماذا لا تظهر تغييراتي بعد تحرير ملف سحابي؟" closed="true" %}}
 أولًا، تحقق من أن تفضيل **تحديث الملفات عبر الإنترنت** ليس مضبوطًا على **عدم تحديث بيانات الملف الوصفية** — يحتفظ هذا الوضع بالتغييرات محليًا ولا يُعيد الرفع إلى السحابة أبدًا. افتح **الإعدادات ← محرر علامات الصوت ← تحديث الملفات عبر الإنترنت** واختر **عرض رسالة تأكيد** أو **تحديث بيانات الملف الوصفية تلقائيًا** بدلًا من ذلك.<br><br>
 
 أشياء أخرى للتحقق منها:<br>
@@ -187,9 +187,9 @@ ASIN, AcoustID: Fingerprint, AcoustID: Identifier, Album, Album Artist, Album Ar
 • إذا كنت تستخدم **iCloud Drive**، قد يكون الملف لا يزال يُرفع من جهاز آخر. افتح الملف في تطبيق iOS Files وتأكد من أن مؤشر المزامنة توقف عن الدوران.<br><br>
 
 لا تزال عالقًا؟ استخدم **الإعدادات ← إرسال ملاحظات** مع تنسيق الملف والخدمة السحابية ووصف مختصر.<br><br>
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="كيف أنزّل ملفات من التخزين السحابي؟" closed="true" %}}
+{{% ls-details title="كيف أنزّل ملفات من التخزين السحابي؟" closed="true" %}}
 تحتاج أولًا إلى حساب سحابي مرتبط على الأقل — افتح شاشة **الاتصالات** وأضف مزودًا.<br><br>
 
 لتنزيل الملفات أو المجلدات:<br>
@@ -199,9 +199,9 @@ ASIN, AcoustID: Fingerprint, AcoustID: Identifier, Album, Album Artist, Album Ar
 4. ضع علامة على الملفات أو المجلدات التي تحتاجها، ثم انقر على **تحميل**.<br><br>
 
 تصل التنزيلات إلى مجلد **الملفات المحلية ← التنزيلات** وتظهر في **قائمة انتظار النقل** — افتحها من أيقونة الأسهم الدوارة في أعلى يسار شاشة الملفات المحلية. يمكنك تغيير الوجهة الافتراضية من **الإعدادات ← مدير الملفات ← حفظ الملفات المنزَّلة إلى** وتبديل النقل في الخلفية من نفس الشاشة.<br><br>
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="كيف أدير الملفات في التخزين الشبكي؟" closed="true" %}}
+{{% ls-details title="كيف أدير الملفات في التخزين الشبكي؟" closed="true" %}}
 افتح مجلدًا سحابيًا، انقر على زر **…** في أعلى اليمين واختر **اختيار** للدخول إلى وضع الاختيار. تظهر مربعات اختيار بجانب كل ملف ومجلد حتى تتمكن من اختيار عنصر واحد أو عدة عناصر.<br><br>
 
 الإجراءات المتاحة على الاختيار:<br>
@@ -214,9 +214,9 @@ ASIN, AcoustID: Fingerprint, AcoustID: Identifier, Album, Album Artist, Album Ar
 • **شبكة / قائمة** — التبديل بين عرض الجدول والصور المصغرة.<br><br>
 
 إذا لم يكن هناك مساحة لكل الإجراءات، يُظهر شريط الأدوات زر تجاوز **المزيد من الإجراءات** — انقر عليه لرؤية القائمة الكاملة.<br><br>
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="كيف أحرّر بيانات وصفية لملفات موسيقى مخزنة محليًا على iPhone أو iPad؟" closed="true" %}}
+{{% ls-details title="كيف أحرّر بيانات وصفية لملفات موسيقى مخزنة محليًا على iPhone أو iPad؟" closed="true" %}}
 افتح **الملفات المحلية** ومرّر إلى قسم **الملفات على هذا الـ iPhone** (أو iPad / Mac).<br><br>
 
 • اختر **فتح ملفات…** لاختيار ملف صوتي واحد أو أكثر في أي مكان على الجهاز، أو **فتح مجلد…** لاختيار مجلد كامل.<br>
@@ -228,9 +228,9 @@ ASIN, AcoustID: Fingerprint, AcoustID: Identifier, Album, Album Artist, Album Ar
 3. اختر مجلد الموسيقى وانقر على **فتح**.<br><br>
 
 يظهر المجلد في قائمة **الملفات على هذا الـ iPhone** بصلاحيات قراءة/كتابة — مثالي لمكتبات الموسيقى المخزنة في تطبيق Files النظامي أو في مجلد مكشوف لتطبيق آخر. لفصله لاحقًا، انقر على **…** بجانب المجلد واختر **فصل الاتصال**. الدليل التفصيلي: [تشغيل الموسيقى المحلية المخزنة على iPhone أو Mac](/docs/howto/how-to-play-local-music-stored-on-your-iphone-or-mac).<br><br>
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="كيف أنقل الموسيقى إلى Evertag من جهاز الكمبيوتر الخاص بي؟" closed="true" %}}
+{{% ls-details title="كيف أنقل الموسيقى إلى Evertag من جهاز الكمبيوتر الخاص بي؟" closed="true" %}}
 يمكنك توصيل جهاز الكمبيوتر أو NAS باستخدام **SMB** أو **WebDAV** أو **Wi-Fi Drive** أو **Finder File Sharing** (iTunes File Sharing على macOS الأقدم).<br><br>
 
 **SMB** — انقر على **الاتصال بالتخزين السحابي ← SMB**، أدخل `smb://computer-ip-address/shared-folder-name`، اضبط بيانات الاعتماد، انقر على **تم**. الدليل الكامل: [نقل الملفات من الكمبيوتر إلى iPhone باستخدام SMB](/docs/howto/transfer-your-files-from-the-computer-to-iphone-using-smb-protocol/).<br><br>
@@ -240,15 +240,15 @@ ASIN, AcoustID: Fingerprint, AcoustID: Identifier, Album, Album Artist, Album Ar
 **Wi-Fi Drive** — لاسلكي بالكامل. افتح **الاتصالات ← الكمبيوتر ← الاتصال عبر Wi-Fi** وشغّل الخادم، ثم افتح العنوان URL المُعروض في متصفح الكمبيوتر و**اسحب وأفلت** الملفات على الصفحة. يجب أن يكون كلا الجهازين متصلَين بنفس شبكة Wi-Fi. الدليل الكامل: [نقل الملفات لاسلكيًا باستخدام Wi-Fi Drive](/docs/howto/how-to-transfer-files-wirelessly-from-a-computer-to-an-iphone-using-wifi-drive).<br><br>
 
 **Finder File Sharing** (أو iTunes File Sharing على macOS الأقدم / Windows) — وصّل iPhone/iPad بالكمبيوتر بكابل، افتح **Finder ← جهازك ← الملفات ← Evertag**، واسحب الملفات إلى المجلد المشترك. الدليل الكامل: [تشغيل ملفات iTunes المحلية على iPhone](/docs/howto/how-to-play-local-itunes-files-on-my-iphone).<br><br>
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="هل يمكنني تحرير علامات الصوت دون اتصال بالإنترنت؟" closed="true" %}}
+{{% ls-details title="هل يمكنني تحرير علامات الصوت دون اتصال بالإنترنت؟" closed="true" %}}
 نعم. تحرير الملفات المحلية يعمل بالكامل دون اتصال — محرر العلامات ووضع الدفعة واستبدال غلاف الألبوم وإصلاح الترميز ومحرر الكلمات لا تحتاج إلى اتصال بالإنترنت.<br><br>
 
 الميزات التي تحتاج إلى إنترنت مُعلَّمة بوضوح: البحث التلقائي عبر MusicBrainz، والبحث اليدوي عن علامات MusicBrainz، والبحث على الويب عن أغلفة الألبومات، واختصارات البحث عن الكلمات (Lrclib وGenius وLyricsify وGoogle). إذا انقطع الاتصال خلال الجلسة، تتعطل تلك الخدمات ببساطة — تعديلاتك المحلية غير متأثرة.<br><br>
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="كيف أحرّر عدة ملفات في آنٍ واحد (وضع الدفعة)؟" closed="true" %}}
+{{% ls-details title="كيف أحرّر عدة ملفات في آنٍ واحد (وضع الدفعة)؟" closed="true" %}}
 استخدم **وضع الدفعة** لتطبيق نفس تغيير البيانات الوصفية على عدة مسارات في آنٍ واحد. هناك طريقتان لبدء التشغيل:<br><br>
 
 **من مدير الملفات**<br>
@@ -263,9 +263,9 @@ ASIN, AcoustID: Fingerprint, AcoustID: Identifier, Album, Album Artist, Album Ar
 3. انقر على **تحرير الملفات في وقت واحد** — يتم تحميل جميع الملفات الصوتية في نفس المجلد معًا.<br><br>
 
 قم بتغييراتك مرة واحدة وانقر على **حفظ** — تُكتب القيم الجديدة في كل ملف محدد. مثالي لإصلاح اسم الألبوم وفنان الألبوم والنوع والسنة أو إجماليات المسارات عبر ألبوم كامل.<br><br>
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="كيف أغيّر غلاف الألبوم على عدة أغانٍ في آنٍ واحد؟" closed="true" %}}
+{{% ls-details title="كيف أغيّر غلاف الألبوم على عدة أغانٍ في آنٍ واحد؟" closed="true" %}}
 فعّل **وضع الدفعة** (انظر أعلاه)، انقر على **أيقونة الكاميرا** على عرض الأعمال الفنية، واختر الصورة الجديدة — تُكتب نفس الأعمال الفنية في كل ملف محدد في حفظ واحد.<br><br>
 
 يمكنك الحصول على الغلاف الجديد من:<br>
@@ -274,17 +274,17 @@ ASIN, AcoustID: Fingerprint, AcoustID: Identifier, Album, Album Artist, Album Ar
 • **حساب سحابي مرتبط** — أشّر Evertag إلى JPG/PNG في سحابتك.<br><br>
 
 تحكم في جودة الصورة المحفوظة من **الإعدادات ← محرر علامات الصوت ← قياس غلاف الألبوم** — صغير / متوسط / كبير / كبير جدًا، أو "معطّل" (Premium) للاحتفاظ بالحجم الأصلي.<br><br>
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="كيف أجد أغلفة الألبومات المفقودة تلقائيًا؟" closed="true" %}}
+{{% ls-details title="كيف أجد أغلفة الألبومات المفقودة تلقائيًا؟" closed="true" %}}
 انقر على زر **البحث عن غلاف الألبوم** أسفل الأعمال الفنية في محرر العلامات. يستخدم Evertag البيانات الوصفية الحالية للفنان والألبوم للمسار للبحث عن غلاف مطابق عبر الإنترنت.<br><br>
 
 عندما تظهر نتائج البحث، اضغط مطولًا على الصورة التي تعجبك واختر **حفظ في الصور** من قائمة النظام. ارجع إلى Evertag، انقر على **أيقونة الكاميرا** على الأعمال الفنية، اختر **مكتبة الصور**، وحدد الصورة المحفوظة — يُطبَّق الغلاف على الملف. يتيح لك زر حفظ الأعمال الفنية للألبوم (تحت نفس القائمة) أيضًا نسخ الأعمال الفنية الحالية احتياطيًا إلى مجلد المستندات لإعادة استخدامها لاحقًا.<br><br>
 
 إذا لم يظهر زر البحث عن غلاف الألبوم، فعّله من **الإعدادات ← محرر علامات الصوت ← أزرار الشاشة الرئيسية**.<br><br>
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="هل يستخدم Evertag MusicBrainz؟" closed="true" %}}
+{{% ls-details title="هل يستخدم Evertag MusicBrainz؟" closed="true" %}}
 نعم. يعمل البحث التلقائي واليدوي عن العلامات في Evertag بواسطة قاعدة بيانات **MusicBrainz** — أحد أكبر مشاريع البيانات الوصفية الموسيقية المفتوحة المصدر بأكثر من 50 مليون مسار.<br><br>
 
 تتوفر مسارَان من شريط الأدوات السفلي لمحرر العلامات:<br>
@@ -292,9 +292,9 @@ ASIN, AcoustID: Fingerprint, AcoustID: Identifier, Album, Album Artist, Album Ar
 • **بحث يدوي عن علامات الصوت** — اختر الألبوم والأغنية والمجموعة الدقيقة من الحقول للتطبيق.<br><br>
 
 يمكنك أيضًا تخزين معرّفات MusicBrainz مباشرة: معرّف الألبوم، ومعرّف فنان الألبوم، ومعرّف الفنان، ومعرّف القرص، ومعرّف مجموعة الإصدار، ومعرّف مسار الإصدار، ومعرّف المسار، ومعرّف العمل والمزيد (راجع مرجع [تعيينات حقول العلامات](/docs/guide/evertag/evertag-tag-field-mappings/)). تتيح هذه المعرّفات للتطبيقات الأخرى الواعية بـ MusicBrainz (Picard وMusicBrainz Browser وRoon وPlex) الإسناد المتقاطع الموثوق لمساراتك.<br><br>
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="كيف أضيف كلمات الأغاني في Evertag؟" closed="true" %}}
+{{% ls-details title="كيف أضيف كلمات الأغاني في Evertag؟" closed="true" %}}
 تقع كلمات الأغاني في **محرر العلامات الموسَّع**. إليك المسار السريع:<br><br>
 
 1. انقر على ملف لفتح محرر العلامات.<br>
@@ -313,15 +313,15 @@ ASIN, AcoustID: Fingerprint, AcoustID: Identifier, Album, Album Artist, Album Ar
 يظهر كل زر فقط عندما تكون الخدمة المقابلة متاحة. الشرح الكامل: [كيفية تحرير كلمات الأغاني لملفات الصوت على iPhone أو Mac](/docs/howto/how-to-edit-lyrics-for-audio-files-on-iphone-mac/).<br><br>
 
 **كلمات LRC المتزامنة.** يقبل المحرر النص العادي **وكذلك** كلمات بتنسيق LRC (`[mm:ss.ms]` طوابع زمنية لكل سطر) — الصق نص LRC في الحقل واحفظ، وستخزّن علامة كلمات ملف الصوت المحتوى حرفيًا، جاهزة لأي مشغل يدعم LRC. تُعيد اختصارات **Lrclib** و**Lyricsify** المدمجة سلاسل LRC بشكل افتراضي، لذا يمكنك بناء مكتبة كلمات متزامنة بالكامل في ثوانٍ دون مغادرة التطبيق.<br><br>
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="كيف أبلّغ عن خطأ أو أتواصل مع الدعم؟" closed="true" %}}
+{{% ls-details title="كيف أبلّغ عن خطأ أو أتواصل مع الدعم؟" closed="true" %}}
 افتح **الإعدادات ← إرسال ملاحظات** لمراسلة فريق الدعم لدينا مع إرفاق السجلات. يجعل تضمين تنسيق الملف (مثل FLAC) والخدمة السحابية (إن وجدت) وإصدار iOS / macOS التشخيص أسرع بكثير.<br><br>
 
 للحصول على إجابات بالخدمة الذاتية، راجع [دليل المستخدم](/docs/guide/evertag/) ومقالات [الكيفية](/docs/howto/) أو هذه الأسئلة الشائعة. إذا لاحظت خطأً إملائيًا أو موضوعًا ناقصًا في المستندات، أخبرنا بنفس الطريقة — نحدّث الدليل بانتظام.<br><br>
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="كيف أزيل تثبيت Evertag وأحذف جميع بياناتي؟" closed="true" %}}
+{{% ls-details title="كيف أزيل تثبيت Evertag وأحذف جميع بياناتي؟" closed="true" %}}
 يؤدي حذف التطبيق من iOS أو iPadOS أو macOS إلى إزالة **جميع** الملفات التي أنشأها Evertag، بما في ذلك الأغاني المنزَّلة، والصور المصغرة المخزنة مؤقتًا، وأغلفة الألبومات، والإعدادات، ورمز المرور، ورموز المصادقة للحسابات السحابية المرتبطة.<br><br>
 
 إذا أردت الاحتفاظ بالتطبيق لكن تحرير المساحة دون إلغاء التثبيت:<br>
@@ -331,6 +331,6 @@ ASIN, AcoustID: Fingerprint, AcoustID: Identifier, Album, Album Artist, Album Ar
 • افصل الحسابات السحابية من شاشة **الاتصالات** لإزالة رموز المصادقة الخاصة بها.<br><br>
 
 لا يتم حذف الملفات الموجودة على السحابة أبدًا بإلغاء تثبيت Evertag — تبقى على خوادم مزود السحابة ويمكن الوصول إليها من أي عميل ويب.<br><br>
-{{% /details %}}
+{{% /ls-details %}}
 
 </div>

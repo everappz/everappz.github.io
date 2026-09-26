@@ -21,7 +21,7 @@ readingTime: 8
 Du har to måder at tilføje medier til dit bibliotek: **manuel tilføjelse** (du vælger præcis, hvad der tilføjes) eller **automatisk synkronisering** (Evervideo scanner udpegede cloudmapper og tilføjer automatisk nye filer, efterhånden som de vises).
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evervideo mediebibliotek" image="/docs/guide/evervideo/img/evervideo-genres-in-media-library.webp" >}}
+  {{< ls-card title="" subtitle="Evervideo mediebibliotek" image="/docs/guide/evervideo/img/evervideo-genres-in-media-library.webp" >}}
 {{< /cards >}}
 
 ## Manuel tilføjelse
@@ -92,7 +92,7 @@ Hvis du ikke kan se alle dine titler, skal du sikre, at appen har scannet alle f
 Denne sektion viser alle senest afspillede videoer med deres sidste afspilningsposition, så du kan genoptage dem med ét tryk. Du kan ændre, hvor mange poster listen holder i Indstillinger → Mediebibliotek → Seneste → Ændr listestørrelse og eksportere listen til M3U / CSV / TXT for at sikkerhedskopiere din seehistorik.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evervideo Seneste — senest sete videoer" image="/docs/guide/evervideo/img/evervideo-recents.webp" >}}
+  {{< ls-card title="" subtitle="Evervideo Seneste — senest sete videoer" image="/docs/guide/evervideo/img/evervideo-recents.webp" >}}
 {{< /cards >}}
 
 ## Favoritter
@@ -104,7 +104,7 @@ Markér videoer som favoritter på afspillerskærmen eller via indstillingsmenue
 Evervideo sporer afspilningspositionen for alle videoer, du ser. Alle videoer på en liste — Seneste, Favoritter, et album, en genre, en afspilningsliste, en mappe — viser en lille fremskridtslinje, så du på et øjeblik kan se, hvor meget af den du allerede har set. Det gør lange TV-show-sæsoner, kursusafspilningslister og bingewatching-aftener ubesværede at administrere.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evervideo genredetalje med per-fil se-fremskridt" image="/docs/guide/evervideo/img/evervideo-genre-detail-with-playback-progress-for-watched-files.webp" >}}
+  {{< ls-card title="" subtitle="Evervideo genredetalje med per-fil se-fremskridt" image="/docs/guide/evervideo/img/evervideo-genre-detail-with-playback-progress-for-watched-files.webp" >}}
 {{< /cards >}}
 
 ## Øverste værktøjslinje
@@ -116,7 +116,7 @@ Placeret lige under navigationsbaren tilbyder den øverste værktøjslinje adski
 Søgefunktionen giver dig mulighed for at finde en specifik titel, album, genre eller afspilningsliste i dit mediebibliotek. På søgeskærmen har du adgang til handlinger for Sorter, Filtrer og Gitter / Listevisning. Søgning kører lokalt mod mediebiblioteksdatabasen, så det fungerer fuldt offline og returnerer resultater, mens du skriver.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evervideo mediebibliotek søgning" image="/docs/guide/evervideo/img/evervideo-library-search.webp" >}}
+  {{< ls-card title="" subtitle="Evervideo mediebibliotek søgning" image="/docs/guide/evervideo/img/evervideo-library-search.webp" >}}
 {{< /cards >}}
 
 ## Indstillingsmenu

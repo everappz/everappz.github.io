@@ -7,9 +7,9 @@ tags: ["Flacbox", "Efectes d'àudio", "Com fer-ho", "BASS", "Equalitzador", "Ref
 readingTime: 30
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
-{{< full-width-tables >}}
+{{< ls-full-width-tables >}}
 
 **Resposta ràpida:** A Flacbox tries un **Motor de reproducció** a **Configuració > Reproductor d'àudio**: **Standard** (el motor del sistema d'Apple), **Universal** (el motor FFmpeg) o **Sound FX** (el **motor BASS™**). El motor que tries decideix quins formats de fitxer es reprodueixen, així que l'elecció importa. El motor **Sound FX** reprodueix formats addicionals que la majoria d'aplicacions de l'iPhone ignoren (FLAC, DSD, WavPack, APE, Musepack, TrueAudio, Opus i vella **música MOD i tracker** com MOD, XM, IT i S3M), i és l'únic motor que impulsa les eines de so: un **equalitzador de 10 bandes**, **Normalització de volum**, **Compressor**, **Freeverb**, **Auto Wah**, **Phaser**, **Flanger**, **Echo**, **Chorus**, **Distorsió**, **Rotate**, **Crossfeed** i una **cadena DSP** que crees tu mateix. Així que per utilitzar els efectes d'aquesta guia, primer estableix el teu Motor de reproducció a **Sound FX**. Cada eina té **preajustos** preparats. Obre'ls a **Configuració > Reproductor d'àudio** (Efectes d'àudio, Equalitzador d'àudio, Processament de senyal), o toca el botó **⋯ (Més accions)** al reproductor i tria **Efectes d'àudio**. Res del que facis aquí canvia mai els teus fitxers.
 
@@ -657,93 +657,93 @@ Com que tot això s'executa en directe mentre sona la música, els efectes:
 
 ## Preguntes freqüents
 
-{{% details title="Quin motor de so utilitza Flacbox?" closed="true" %}}
+{{% ls-details title="Quin motor de so utilitza Flacbox?" closed="true" %}}
 Tries un Motor de reproducció a Configuració > Reproductor d'àudio: Standard (el motor del sistema d'Apple), Universal (el motor FFmpeg) o Sound FX (el motor BASS™ de Un4seen Developments, un4seen.com). El motor que tries decideix quins formats de fitxer es reprodueixen. Sound FX és el que reprodueix formats addicionals com FLAC, DSD, WavPack, APE, Musepack, TrueAudio, Opus i música MOD o tracker, i és l'únic motor que proporciona els efectes en directe, l'equalitzador de 10 bandes i la cadena DSP. Per utilitzar els efectes, estableix el Motor de reproducció a Sound FX.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Pot Flacbox reproduir música MOD, XM, IT i altra música tracker o de mòdul?" closed="true" %}}
+{{% ls-details title="Pot Flacbox reproduir música MOD, XM, IT i altra música tracker o de mòdul?" closed="true" %}}
 Sí. El motor BASS™ té un reproductor de mòduls integrat que carrega fitxers MOD, XM, IT, S3M, MTM, UMX i MO3 i reconstrueix la cançó en directe a partir dels seus patrons i sons d'instruments, tal com la música tracker està pensada per reproduir-se. Els reproductors normals de l'iPhone no poden fer-ho. Els efectes i l'equalitzador també funcionen amb la música de mòdul.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Admet Flacbox fitxers DSD i d'alta resolució?" closed="true" %}}
+{{% ls-details title="Admet Flacbox fitxers DSD i d'alta resolució?" closed="true" %}}
 Sí. Flacbox reprodueix fitxers DSD (DSF i DFF) a través del motor BASS™ utilitzant DSD sobre PCM perquè funcionin en maquinari de sortida normal, a més de FLAC, WavPack, Monkey's Audio (APE), Musepack i TrueAudio per a reproducció sense pèrdua.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Quins efectes de so té Flacbox?" closed="true" %}}
+{{% ls-details title="Quins efectes de so té Flacbox?" closed="true" %}}
 Un equalitzador de 10 bandes, Normalització de volum, Compressor, Freeverb, Auto Wah, Phaser, Flanger, Echo, Chorus, Distorsió, Rotate i Crossfeed, a més d'una cadena DSP que crees tu mateix amb filtres, shelves, gain, soft clip, bit crusher, ring modulator, tremolo, delay i stereo width. Cadascun és independent i es pot combinar amb els altres.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Què és un preajust?" closed="true" %}}
+{{% ls-details title="Què és un preajust?" closed="true" %}}
 Un preajust és una configuració preparada per a un efecte. En lloc de moure els controls lliscants tu mateix, toques un preajust i el so canvia per coincidir-hi. Cada efecte de Flacbox té diversos preajustos, i aquesta guia enumera què fa cadascun. Si mous un control lliscant després de triar un preajust, l'efecte mostra «Manual» per dir-te que ara utilitza els teus propis valors.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Com obro els efectes d'àudio a Flacbox?" closed="true" %}}
+{{% ls-details title="Com obro els efectes d'àudio a Flacbox?" closed="true" %}}
 Obre el reproductor En reproducció, toca el botó ⋯ (Més accions) i tria Efectes d'àudio. O ves a Configuració > Reproductor d'àudio > Efectes d'àudio. Toca un efecte, activa el seu interruptor i tria un preajust, o obre els controls lliscants per ajustar amb precisió.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="On és l'equalitzador i quins són els millors ajustos?" closed="true" %}}
+{{% ls-details title="On és l'equalitzador i quins són els millors ajustos?" closed="true" %}}
 Ves a Configuració > Reproductor d'àudio > Equalitzador d'àudio. Té 10 bandes de 32 Hz a 16 kHz, cadascuna de -12 a +12 dB, més un Preamplificador de -24 a +24 dB i 22 preajustos. Per a més greus, utilitza Bass Booster. Per a veus més clares, utilitza Vocal Booster o Pop. Per a un so més brillant, utilitza Treble Booster. Després ajusta bandes individuals al teu gust.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Com reforço els greus a Flacbox?" closed="true" %}}
+{{% ls-details title="Com reforço els greus a Flacbox?" closed="true" %}}
 Dues maneres fàcils. A l'Equalitzador d'àudio, tria Bass Booster (o puja les bandes de 32 Hz i 64 Hz uns pocs dB). O, a Processament de senyal, afegeix un bloc Low Shelf establert a Bass Boost. En tots dos casos, baixa el Preamplificador o afegeix un bloc Gain d'1 o 2 dB perquè els greus es mantinguin nets i no es distorsionin.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Quin preajust d'equalitzador és millor per a la meva música?" closed="true" %}}
+{{% ls-details title="Quin preajust d'equalitzador és millor per a la meva música?" closed="true" %}}
 Rock i Electronic afegeixen energia amb greus i aguts forts. Acoustic, Jazz i Classical es mantenen càlids i naturals. Pop i Vocal Booster porten les veus endavant. Bass Booster i Hip-Hop afegeixen pes. Deep i Loudness sonen més plens a volum baix. Comença amb el que coincideixi amb el teu gènere, després ajusta amb precisió.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Què és la Normalització de volum i en què es diferencia de ReplayGain?" closed="true" %}}
+{{% ls-details title="Què és la Normalització de volum i en què es diferencia de ReplayGain?" closed="true" %}}
 Fa que cada pista es reprodueixi a més o menys la mateixa sonoritat. Mesura la sonoritat real utilitzant l'estàndard EBU R128 (en LUFS, com els serveis de streaming) i ajusta cada pista cap al teu objectiu, amb un límit de reforç màxim. A diferència de ReplayGain, no necessita etiquetes als teus fitxers i funciona amb qualsevol font, en directe, sense canviar l'àudio. Preajustos: Light, Standard, Strong i Night.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Què és Crossfeed i l'hauria d'utilitzar?" closed="true" %}}
+{{% ls-details title="Què és Crossfeed i l'hauria d'utilitzar?" closed="true" %}}
 Crossfeed barreja una mica dels canals esquerre i dret perquè els auriculars se sentin més com altaveus reals i menys com si el so estigués atrapat al teu cap. És només per a auriculars, així que apaga'l per a altaveus. Flacbox utilitza el mètode bs2b (Bauer), amb preajustos com Chu Moy i Jan Meier.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Quina és la diferència entre el Compressor i la Normalització de volum?" closed="true" %}}
+{{% ls-details title="Quina és la diferència entre el Compressor i la Normalització de volum?" closed="true" %}}
 La Normalització de volum iguala la sonoritat entre cançons diferents. El Compressor iguala les parts fortes i fluixes dins d'una sola cançó. Resolen problemes diferents i funcionen bé junts, especialment en un cotxe o en un lloc sorollós.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Què és la cadena de Processament de senyal (DSP)?" closed="true" %}}
+{{% ls-details title="Què és la cadena de Processament de senyal (DSP)?" closed="true" %}}
 És un rack que crees tu mateix a Configuració > Reproductor d'àudio > Processament de senyal. Afegeix blocs com filtres, shelves, gain, soft clip, bit crusher, ring modulator, tremolo, delay i stereo width, posa'ls en qualsevol ordre, activa o desactiva cadascun, i dirigeix la cadena a tots els canals, l'esquerre o el dret. Com que l'ordre importa, pots dissenyar exactament el so que vols.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Quina és la diferència entre l'Equalitzador, els efectes i la cadena DSP?" closed="true" %}}
+{{% ls-details title="Quina és la diferència entre l'Equalitzador, els efectes i la cadena DSP?" closed="true" %}}
 L'Equalitzador és un simple control de to de 10 bandes. Els Efectes d'àudio són eines preparades (compressor, reverberació, echo, etc.) amb preajustos. La cadena DSP és on construeixes el teu propi ordre d'efectes a partir de blocs individuals. Pots executar tots tres alhora.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Els efectes canvien o malmeten els meus fitxers de música?" closed="true" %}}
+{{% ls-details title="Els efectes canvien o malmeten els meus fitxers de música?" closed="true" %}}
 No. Tot s'aplica en directe mentre sona la música. Els teus fitxers no es canvien ni es tornen a desar mai. Apaga un efecte i el so original torna a l'instant.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Puc utilitzar més d'un efecte alhora?" closed="true" %}}
+{{% ls-details title="Puc utilitzar més d'un efecte alhora?" closed="true" %}}
 Sí. Cada efecte té el seu propi interruptor i no hi ha cap interruptor mestre, així que qualsevol combinació funciona. Per exemple, Normalització de volum més Compressor per a una escolta uniforme, o Freeverb més Crossfeed amb auriculars, amb l'equalitzador a sobre.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Per què els controls de l'efecte estan atenuats?" closed="true" %}}
+{{% ls-details title="Per què els controls de l'efecte estan atenuats?" closed="true" %}}
 L'efecte està apagat. Activa el seu interruptor a la part superior de l'editor per utilitzar els controls. Cada efecte està apagat de manera predeterminada.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Què significa l'etiqueta Manual?" closed="true" %}}
+{{% ls-details title="Què significa l'etiqueta Manual?" closed="true" %}}
 Significa que has mogut un control lliscant lluny d'un preajust, així que l'efecte ara utilitza els teus propis valors personalitzats en lloc d'un preajust amb nom. Cada control lliscant té un botó de restabliment, i triar un preajust de nou substitueix els teus valors manuals.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Puc desar i compartir els meus preajustos d'equalitzador?" closed="true" %}}
+{{% ls-details title="Puc desar i compartir els meus preajustos d'equalitzador?" closed="true" %}}
 Sí. A més dels 22 preajustos integrats, pots fer-ne de propis, reordenar-los i exportar-los o importar-los per moure els teus ajustos a un altre dispositiu.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Els efectes funcionen amb CarPlay, streaming i reproducció en segon pla?" closed="true" %}}
+{{% ls-details title="Els efectes funcionen amb CarPlay, streaming i reproducció en segon pla?" closed="true" %}}
 Sí. Els efectes s'executen dins del motor BASS™, així que s'apliquen a fitxers locals, unitats al núvol, servidors multimèdia, transmissions i música de mòdul, i continuen funcionant durant CarPlay i la reproducció en segon pla.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Puc canviar la qualitat de sortida d'àudio?" closed="true" %}}
+{{% ls-details title="Puc canviar la qualitat de sortida d'àudio?" closed="true" %}}
 Sí. A Configuració > Reproductor d'àudio pots establir la freqüència de mostreig de sortida, el nombre de canals i la mida del buffer per adaptar-se als teus auriculars, altaveus o DAC.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Quina és una bona configuració inicial per a auriculars?" closed="true" %}}
+{{% ls-details title="Quina és una bona configuració inicial per a auriculars?" closed="true" %}}
 Activa la Normalització de volum (Standard), afegeix un Compressor lleuger (Soft), tria un preajust d'equalitzador que t'agradi, i activa el Crossfeed (Chu Moy o Jan Meier). Deixa la reverberació, l'echo i la distorsió apagats tret que vulguis un so creatiu.
-{{% /details %}}
+{{% /ls-details %}}
 
 ---
 

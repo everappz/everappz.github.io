@@ -12,7 +12,7 @@ authors:
     image: "/images/about/artem-meleshko-founder-everappz.webp"
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 ## 3 millones de descargas
 
@@ -98,22 +98,22 @@ Evermusic es gratuito en la App Store con funciones premium opcionales.
 
 ## Preguntas frecuentes
 
-{{% details title="¿Es Evermusic gratuito?" closed="true" %}}
+{{% ls-details title="¿Es Evermusic gratuito?" closed="true" %}}
 Sí. Evermusic es gratuito para descargar con las funciones principales disponibles sin costo. Las funciones premium como el ecualizador y las opciones avanzadas de nube están disponibles mediante una actualización opcional.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="¿Puede Evermusic reproducir audiolibros?" closed="true" %}}
+{{% ls-details title="¿Puede Evermusic reproducir audiolibros?" closed="true" %}}
 Sí. Evermusic guarda tu posición de reproducción, soporta marcadores, velocidad de reproducción ajustable (0,5x a 2,0x) y temporizadores de sueño — lo que lo hace adecuado para audiolibros y podcasts.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="¿A qué servicios en la nube se conecta Evermusic?" closed="true" %}}
+{{% ls-details title="¿A qué servicios en la nube se conecta Evermusic?" closed="true" %}}
 Dropbox, Google Drive, OneDrive, Box, MEGA, Yandex.Disk, MyDrive, pCloud, HiDrive, recursos compartidos SMB y servidores WebDAV.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="¿Puedo usar una tarjeta SD con Evermusic?" closed="true" %}}
+{{% ls-details title="¿Puedo usar una tarjeta SD con Evermusic?" closed="true" %}}
 Sí. Conecta un lector de tarjetas SD Lightning o USB-C a tu iPhone o iPad y transmite música directamente desde la tarjeta a través de Evermusic.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="¿Funciona Evermusic en Mac?" closed="true" %}}
+{{% ls-details title="¿Funciona Evermusic en Mac?" closed="true" %}}
 Sí. Evermusic está disponible tanto para iOS como para macOS, con transmisión en la nube y reproducción sin conexión en todas las plataformas.
-{{% /details %}}
+{{% /ls-details %}}

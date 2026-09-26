@@ -12,7 +12,7 @@ authors:
     image: "/images/about/artem-meleshko-founder-everappz.webp"
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 ## Evermusic 3.1: Hva som er endret og hvorfor det er viktig
 
@@ -89,22 +89,22 @@ Rediger påloggingsinformasjon for enhver tilkoblet skytjeneste uten å fjerne o
 
 ## Ofte stilte spørsmål
 
-{{% details title="Hva er crossfade-avspilling i Evermusic?" closed="true" %}}
+{{% ls-details title="Hva er crossfade-avspilling i Evermusic?" closed="true" %}}
 Crossfade-avspilling blander slutten av ett spor inn i begynnelsen av det neste, og skaper sømløse overganger. Du kan stille inn varigheten mellom 3 og 15 sekunder i Settings → Audio Player → Crossfade Playback.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Kan jeg sikkerhetskopiere Evermusic-spillelistene mine til skylagring?" closed="true" %}}
+{{% ls-details title="Kan jeg sikkerhetskopiere Evermusic-spillelistene mine til skylagring?" closed="true" %}}
 Ja. Evermusic 3.1 lar deg sikkerhetskopiere hele biblioteket ditt — inkludert spillelister, metadata, albumomslag og innstillinger — til enhver tilkoblet skytjeneste som én fil.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Støtter Evermusic iPod-bibliotekbrowsing?" closed="true" %}}
+{{% ls-details title="Støtter Evermusic iPod-bibliotekbrowsing?" closed="true" %}}
 Ja. Du kan bla gjennom iPod-biblioteket ditt etter spillelister, album, artister og sjangre direkte fra Evermusic-startskjermen og legge til spor i køen din.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Hvordan fikser jeg feil sangtagger i Evermusic?" closed="true" %}}
+{{% ls-details title="Hvordan fikser jeg feil sangtagger i Evermusic?" closed="true" %}}
 Bruk den innebygde tag-editoren og trykk på Identify-handlingen. Evermusic skanner filnavnene dine og oppdaterer ID3-tagger med korrigert metadata automatisk.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Hvilke skytjenester støtter Evermusic?" closed="true" %}}
+{{% ls-details title="Hvilke skytjenester støtter Evermusic?" closed="true" %}}
 Evermusic fungerer med Dropbox, Google Drive, OneDrive, MEGA, Box, Yandex.Disk, WebDAV, SMB/CIFS og FTP-servere.
-{{% /details %}}
+{{% /ls-details %}}

@@ -14,7 +14,7 @@ authors:
     image: "/images/about/artem-meleshko-founder-everappz.webp"
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 **Ukratko:** Pogledajte službeni Evermusic promotivni video kako biste vidjeli streaming glazbe iz oblaka, izvanmrežnu reprodukciju i prilagodbu zvuka u akciji na iPhoneu i Macu.
 
@@ -24,7 +24,7 @@ S uzbuđenjem dijelimo službeni Evermusic promotivni video, izrađen sa straš�
 
 Pogledajte Evermusic u akciji — streaming glazbe iz oblaka, upravljanje popisima za reprodukciju i isporuka visokokvalitetnog zvuka na iPhoneu:
 
-{{< youtubecard id="6mm3LVT4rtA" title="Evermusic Promo Video" >}}
+{{< ls-youtubecard id="6mm3LVT4rtA" title="Evermusic Promo Video" >}}
 
 ## Što ćete vidjeti u videu
 
@@ -41,14 +41,14 @@ Ako vam se sviđa video, podijelite ga s prijateljima i ljubiteljima glazbe.
 
 ## FAQ
 
-{{% details title="Što je Evermusic?" closed="true" %}}
+{{% ls-details title="Što je Evermusic?" closed="true" %}}
 Evermusic je glazbeni player za iOS i macOS koji streama zvuk iz usluga u oblaku poput Dropbox, Google Drive, OneDrive i iCloud Drive. Također podržava izvanmrežnu reprodukciju i uključuje ugrađeni ekvilajzer.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Koje usluge u oblaku Evermusic podržava?" closed="true" %}}
+{{% ls-details title="Koje usluge u oblaku Evermusic podržava?" closed="true" %}}
 Evermusic se povezuje s Dropbox, Google Drive, OneDrive, iCloud Drive, pCloud, Yandex.Disk i nekoliko drugih pružatelja pohrane u oblaku.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Je li Evermusic besplatan?" closed="true" %}}
+{{% ls-details title="Je li Evermusic besplatan?" closed="true" %}}
 Evermusic je besplatan za preuzimanje s opcionim premium značajkama dostupnim putem kupnje unutar aplikacije.
-{{% /details %}}
+{{% /ls-details %}}

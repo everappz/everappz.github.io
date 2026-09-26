@@ -3,7 +3,9 @@ date: '2025-06-12T17:00:00+00:00'
 title: 'Tuki'
 ---
 
-{{< lottie src="/images/juicy-json/juicy-girl-is-working-on-laptop-at-a-remote-job.json" width="80%" >}}
+{{< ls-lottie src="/images/juicy-json/juicy-girl-is-working-on-laptop-at-a-remote-job.json" width="80%" >}}
+
+{{< ls-docs-search >}}
 
 ## Tarvitsetko apua? Olemme täällä sinua varten
 
@@ -19,9 +21,9 @@ Ottamalla meihin yhteyttä vahvistat, että olet lukenut ja hyväksynyt [Tietosu
 Säästääksesi aikaa ja saadaksesi välittömiä vastauksia, tutustu hyödyllisimpiin resursseihin. Monet yleiset kysymykset on jo käsitelty:
 
 {{< cards >}}
-  {{< card icon="book-open" link="/docs/guide" title="Käyttöopas" >}}
-  {{< card icon="question-mark-circle" link="/docs/faq" title="Usein kysytyt kysymykset" >}}
-  {{< card icon="light-bulb" link="/docs/howto" title="Näin teet" >}}
+  {{< ls-card icon="book-open" link="/docs/guide" title="Käyttöopas" >}}
+  {{< ls-card icon="question-mark-circle" link="/docs/faq" title="Usein kysytyt kysymykset" >}}
+  {{< ls-card icon="light-bulb" link="/docs/howto" title="Näin teet" >}}
 {{< /cards >}}
 
 Nämä oppaat on suunniteltu auttamaan sinua saamaan kaiken irti sovelluksistamme — asennuksesta edistyneisiin ominaisuuksiin.

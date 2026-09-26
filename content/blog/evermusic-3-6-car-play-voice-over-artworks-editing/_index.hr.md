@@ -12,7 +12,7 @@ authors:
     image: "/images/about/artem-meleshko-founder-everappz.webp"
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 **Ukratko:** Evermusic 3.6 dodaje integraciju s Apple CarPlay, potpunu pristupačnost VoiceOver, mješoviti audio izlaz, automatski nastavak reprodukcije, uređivanje naslovnica i oznaka za FLAC/MP3/AIFF te uvoz datoteka iz iCloud Drive.
 
@@ -78,18 +78,18 @@ Uvezite glazbene datoteke izravno iz iCloud Drive i drugih aplikacija:
 
 ## FAQ
 
-{{% details title="Radi li Evermusic s CarPlay?" closed="true" %}}
+{{% ls-details title="Radi li Evermusic s CarPlay?" closed="true" %}}
 Da. Počevši od verzije 3.6, Evermusic u potpunosti podržava Apple CarPlay. Možete pregledavati i reproducirati svoju glazbenu biblioteku s ugrađenog zaslona vašeg automobila.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Je li Evermusic pristupačan za slijepe korisnike ili korisnike s oštećenjem vida?" closed="true" %}}
+{{% ls-details title="Je li Evermusic pristupačan za slijepe korisnike ili korisnike s oštećenjem vida?" closed="true" %}}
 Da. Evermusic 3.6 uključuje potpunu podršku za VoiceOver s opisnim oznakama, savjetima i pojednostavljenim načinom sučelja.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Mogu li uređivati FLAC oznake na iPhoneu s Evermusic?" closed="true" %}}
+{{% ls-details title="Mogu li uređivati FLAC oznake na iPhoneu s Evermusic?" closed="true" %}}
 Da. Evermusic uključuje ugrađeni uređivač oznaka koji radi s FLAC, MP3 i AIFF datotekama. Možete uređivati naslove, izvođače, albume i naslovnice.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Pamti li Evermusic gdje sam prestao slušati?" closed="true" %}}
+{{% ls-details title="Pamti li Evermusic gdje sam prestao slušati?" closed="true" %}}
 Da. Kada je "Save Audio Player State" omogućen, Evermusic vraća vaš red čekanja, trenutnu pjesmu i točnu poziciju reprodukcije kada ponovno otvorite aplikaciju.
-{{% /details %}}
+{{% /ls-details %}}

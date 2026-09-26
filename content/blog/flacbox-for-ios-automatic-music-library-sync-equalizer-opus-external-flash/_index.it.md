@@ -12,7 +12,7 @@ authors:
     image: "/images/about/artem-meleshko-founder-everappz.webp"
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 **Flacbox 1.6** porta importanti nuove funzionalità al lettore musicale FLAC per iPhone e iPad.
 
@@ -68,18 +68,18 @@ Hai feedback o richieste di funzionalità? Contattaci -- costruiamo Flacbox in b
 
 ## Domande frequenti
 
-{{% details title="Quali formati audio supporta Flacbox?" closed="true" %}}
+{{% ls-details title="Quali formati audio supporta Flacbox?" closed="true" %}}
 Flacbox supporta FLAC, ALAC, MP3, AAC, OGG, OPUS, WAV, AIFF, DSD e altri formati audio popolari. Tutti i formati funzionano con l'equalizzatore integrato.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Posso riprodurre musica da una scheda SD sul mio iPhone?" closed="true" %}}
+{{% ls-details title="Posso riprodurre musica da una scheda SD sul mio iPhone?" closed="true" %}}
 Sì. Collega una scheda SD o microSD usando un adattatore Lightning per lettore di schede SD. Flacbox rileva automaticamente la scheda e ti permette di sfogliare e riprodurre i file direttamente dall'archiviazione esterna.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Flacbox si sincronizza automaticamente con l'archiviazione cloud?" closed="true" %}}
+{{% ls-details title="Flacbox si sincronizza automaticamente con l'archiviazione cloud?" closed="true" %}}
 Sì. A partire dalla versione 1.6, Flacbox può sincronizzare automaticamente la tua libreria musicale dalle cartelle cloud. Attiva la sincronizzazione automatica nelle impostazioni e seleziona le cartelle da monitorare.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="L'equalizzatore di Flacbox è personalizzabile?" closed="true" %}}
+{{% ls-details title="L'equalizzatore di Flacbox è personalizzabile?" closed="true" %}}
 Sì. L'equalizzatore a 10 bande ti permette di regolare i livelli di frequenza individuali tra -12 dB e +12 dB. Puoi usare i preset integrati o salvare le tue impostazioni personalizzate.
-{{% /details %}}
+{{% /ls-details %}}

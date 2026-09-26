@@ -21,7 +21,7 @@ readingTime: 16
 Obrazovka Nastavenia je riadiace centrum Flacbox. Odtiaľto môžete upgradovať na Premium, konfigurovať audio engine (systémové kodeky alebo FFmpeg), spravovať hudobnú knižnicu, nastaviť správcu súborov, prispôsobiť editor audio tagov, povoliť widgety domovskej obrazovky a Apple CarPlay, zálohovať dáta a pristupovať k pomoci a právnym informáciám. Sekcie sú zoskupené pod hlavičkami: Nákupy a aktualizácie, Predvoľby aplikácie, Pomoc a Právne informácie a súkromie.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox — hlavná obrazovka Nastavenia" image="/docs/guide/flacbox/img/settings-main.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox — hlavná obrazovka Nastavenia" image="/docs/guide/flacbox/img/settings-main.webp" >}}
 {{< /cards >}}
 
 ## Upgrade na Premium
@@ -29,13 +29,13 @@ Obrazovka Nastavenia je riadiace centrum Flacbox. Odtiaľto môžete upgradovať
 Upgradujte aplikáciu na verziu Premium a odstráňte všetky obmedzenia. Bezplatná verzia aplikácie ponúka jednorazový doživotný nákup v aplikácii a dve možnosti predplatného (1 mesiac a 1 rok) na odstránenie všetkých obmedzení a upgrade na Premium.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox — upgrade na Premium" image="/docs/guide/flacbox/img/upgrade-to-premium.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox — upgrade na Premium" image="/docs/guide/flacbox/img/upgrade-to-premium.webp" >}}
 {{< /cards >}}
 
 **Family Sharing** je povolený pre všetky nákupy a plány, takže môžete zdieľať verziu Premium s až piatimi členmi rodiny bez ďalších nákladov.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox — výber Premium plánu" image="/docs/guide/flacbox/img/select-premium-plan.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox — výber Premium plánu" image="/docs/guide/flacbox/img/select-premium-plan.webp" >}}
 {{< /cards >}}
 
 Viac o nákupoch a verzii Premium si môžete prečítať tu: [Aký je rozdiel medzi Flacbox a Flacbox Premium](/docs/faq/flacbox/what-is-the-difference-between-flacbox-and-flacbox-premium/).

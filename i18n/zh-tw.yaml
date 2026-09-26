@@ -184,3 +184,5 @@ everdiskFeatAdvancedServerSettings: "進階伺服器設定"
 everdiskFeatSMB3Encryption: "SMB3 加密"
 everdiskFeatAutomaticSharing: "自動共享"
 everdiskFeatDevicePersonalization: "裝置個人化"
+
+searchDocsPlaceholder: "搜尋文件、常見問題和操作指南…"

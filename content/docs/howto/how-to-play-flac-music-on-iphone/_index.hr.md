@@ -8,7 +8,7 @@ tags: ["glazba", "oblak", "reproduktor", "preuzimatelj", "ekvilizator", "lossles
 readingTime: 8
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **Ukratko:** Za reprodukciju FLAC-a na iPhoneu potreban vam je reproduktor treće strane, jer Appleova aplikacija Glazba ne podržava FLAC. Instalirajte [Flacbox](/products/flacbox) (besplatan je), a zatim ili prenesite datoteke putem Wi-Fi Drivea ili USB-a, ili povežite svoju pohranu u oblaku ili NAS. Vaša FLAC biblioteka reproducira se u punoj kvaliteti, do 384 kHz i 32-bit putem USB DAC-a. Flacbox također reproducira više od 120 formata, uključujući FLAC, DSD, ALAC, APE, WAV, OGG i OPUS, a dodaje i 10-pojasni ekvilizator, profesionalni BASS audio pogon s efektima u stvarnom vremenu, DSP procesor i glazbeni vizualizator preko cijelog zaslona.
@@ -34,7 +34,7 @@ Flacbox je hi-res glazbeni reproduktor za iPhone, iPad i Mac. Pretvara vašu poh
 
 Flacbox je besplatan za preuzimanje i radi na iPhoneu, iPadu i Macu.
 
-{{< app-details product="flacbox" >}}
+{{< ls-app-details product="flacbox" >}}
 
 ### Korak 2. Unesite svoje FLAC datoteke
 
@@ -82,7 +82,7 @@ Pogon reprodukcije možete odabrati u Postavke, zatim Audio reproduktor, pa Audi
 Flacbox uključuje 10-pojasni grafički ekvilizator s presetovima u stilu iPoda poput Acoustic, Bass Booster, Rock, Pop, Jazz, Classical i Dance. Postoji pretpojačalo za podizanje tihih pjesama bez izobličenja, a možete spremiti i vlastite presetove. Podesite ga za slušalice u uhu, HomePod ili automobilski stereo. Za potpuni vodič pogledajte [vodič za ekvilizator](/docs/howto/how-to-use-the-audio-equalizer-on-your-iphone-ipad-mac-with-evermusic-and-flacbox).
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Ekvilizator Flacbox audio reproduktora" image="/docs/guide/flacbox/img/audio-player-equalizer.webp" >}}
+  {{< ls-card title="" subtitle="Ekvilizator Flacbox audio reproduktora" image="/docs/guide/flacbox/img/audio-player-equalizer.webp" >}}
 {{< /cards >}}
 
 ## Audio efekti u stvarnom vremenu
@@ -106,7 +106,7 @@ Osim efekata, Flacbox vam daje DSP procesor s 14 filtara u stvarnom vremenu koji
 Flacbox ima ugrađeni glazbeni vizualizator koji slika pokretne, šarene vizuale u ritmu vaše glazbe. Koristi poznati Milkdrop pogon (projectM) s 500 presetova, iscrtane pomoću OpenGL na iPhoneu, iPadu i Macu. Otvorite ga iz reproduktora dodirom na gumb Više radnji, a zatim Vizualizacija. Odaberite preset ili upotrijebite Auto način rada da ih promiješate svakih 30 sekundi uz glatki crossfade. Za pomoć korak po korak pogledajte vodič o tome [kako uključiti glazbeni vizualizator](/docs/howto/how-to-turn-on-a-music-visualizer-while-playing-music-on-iphone-ipad-mac).
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox glazbeni vizualizator (Milkdrop i projectM)" image="/docs/howto/how-to-turn-on-a-music-visualizer-while-playing-music-on-iphone-ipad-mac/music-visualizer-starfield-sectors-preset.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox glazbeni vizualizator (Milkdrop i projectM)" image="/docs/howto/how-to-turn-on-a-music-visualizer-while-playing-music-on-iphone-ipad-mac/music-visualizer-starfield-sectors-preset.webp" >}}
 {{< /cards >}}
 
 ## Oblak, NAS i reprodukcija izvan mreže
@@ -127,7 +127,7 @@ Kada želite glazbu sa sobom, ugrađeni upravitelj preuzimanja sprema cijele pop
 
 Flacbox je besplatan za preuzimanje. Premium uklanja ograničenja besplatne verzije na račune u oblaku, popise pjesama i mape izvan mreže, a dostupan je kao jednokratna doživotna kupnja ili kao mjesečna ili godišnja pretplata, uz Obiteljsko dijeljenje.
 
-{{< app-details product="flacbox" >}}
+{{< ls-app-details product="flacbox" >}}
 
 ## Mogućnost 2: pretvorite FLAC u ALAC za aplikaciju Glazba
 
@@ -141,34 +141,34 @@ Kompromisi su stvarni. Sada čuvate dvije kopije svoje biblioteke, svaka izmjena
 
 ## Česta pitanja
 
-{{% details title="Može li iPhone izvorno reproducirati FLAC datoteke?" closed="true" %}}
+{{% ls-details title="Može li iPhone izvorno reproducirati FLAC datoteke?" closed="true" %}}
 Samo na ograničen način. Aplikacija Datoteke može prikazati pretpregled jedne FLAC datoteke od iOS 11, ali nema biblioteke, popisa pjesama, reda čekanja, ekvilizatora ni streaminga iz oblaka. Za pravo slušanje upotrijebite aplikaciju reproduktora poput Flacboxa.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Mogu li reproducirati 24-bit ili 96kHz (ili više) FLAC na iPhoneu?" closed="true" %}}
+{{% ls-details title="Mogu li reproducirati 24-bit ili 96kHz (ili više) FLAC na iPhoneu?" closed="true" %}}
 Da. Flacbox podržava hi-res izlaz do 384 kHz. Za reprodukciju iznad 48 kHz u pravoj rezoluciji povežite vanjski USB DAC, jer ugrađeni izlaz iPhonea ponovno uzorkuje zvuk za svaku aplikaciju.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Pretvara li Flacbox FLAC u drugi format?" closed="true" %}}
+{{% ls-details title="Pretvara li Flacbox FLAC u drugi format?" closed="true" %}}
 Ne. Flacbox reproducira FLAC u njegovoj izvornoj lossless kvaliteti bez pretvorbe. Efekti i DSP primjenjuju se uživo samo tijekom reprodukcije i nikada ne mijenjaju vaše datoteke.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Gubim li kvalitetu pretvaranjem FLAC-a u ALAC?" closed="true" %}}
+{{% ls-details title="Gubim li kvalitetu pretvaranjem FLAC-a u ALAC?" closed="true" %}}
 Ne. FLAC i ALAC oba su lossless, pa je pretvorba bit-perfect. Samo trošite vrijeme i odričete se praktičnosti, jer završite s dvjema bibliotekama za održavanje i morate ponovno sinkronizirati nakon izmjena.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Koje audio formate Flacbox podržava?" closed="true" %}}
+{{% ls-details title="Koje audio formate Flacbox podržava?" closed="true" %}}
 Više od 120 formata, uključujući FLAC, DSD (DSF i DFF), ALAC, APE, WAV, AIFF, WV, OGG, OPUS, MP3, AAC, M4A, WMA, pa čak i tracker i MOD glazbu poput MOD, XM, IT i S3M.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Ima li Flacbox ekvilizator, efekte i vizualizator?" closed="true" %}}
+{{% ls-details title="Ima li Flacbox ekvilizator, efekte i vizualizator?" closed="true" %}}
 Da. Ima 10-pojasni ekvilizator s presetovima i pretpojačalom. Ima i profesionalni BASS pogon s jedanaest efekata u stvarnom vremenu (reverb, delay, multi-tap echo, crossfeed, kompresor, chorus, flanger, phaser, auto-wah, distortion i stereo rotacija), uz EBU R128 izjednačavanje glasnoće, DSP procesor s 14 filtara i Milkdrop vizualizator preko cijelog zaslona s 500 presetova.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Mogu li reproducirati FLAC streamingom sa svog NAS-a ili iz oblaka?" closed="true" %}}
+{{% ls-details title="Mogu li reproducirati FLAC streamingom sa svog NAS-a ili iz oblaka?" closed="true" %}}
 Da. Flacbox se povezuje s više od 30 usluga u oblaku te s NAS-om ili računalom putem SMB, WebDAV, DLNA, FTP, SFTP i NFS. Cijela vaša biblioteka dostupna je bez kopiranja datoteka na iPhone, a pjesme možete preuzeti za reprodukciju izvan mreže bilo kada.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Je li Flacbox doista besplatan?" closed="true" %}}
+{{% ls-details title="Je li Flacbox doista besplatan?" closed="true" %}}
 Flacbox je besplatan za preuzimanje, s osnovnim značajkama poput ekvilizatora, streaminga iz oblaka i reprodukcije izvan mreže. Premium uklanja ograničenja besplatne verzije na račune u oblaku, popise pjesama i mape izvan mreže, a dolazi kao jednokratna doživotna kupnja ili kao mjesečna ili godišnja pretplata, uz Obiteljsko dijeljenje.
-{{% /details %}}
+{{% /ls-details %}}

@@ -19,7 +19,7 @@ En la sección Listas de reproducción encontrarás herramientas útiles para ge
 Las listas de reproducción en Evervideo pueden contener una mezcla de vídeos online en la nube, archivos descargados sin conexión, archivos locales, vídeos de la biblioteca de Fotos y vídeos de la biblioteca de Música de iOS — todo en una sola lista — y se reproducen de forma fluida juntos.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evervideo Listas de reproducción en la Biblioteca multimedia" image="/docs/guide/evervideo/img/evervideo-playlists-in-media-library.webp" >}}
+  {{< ls-card title="" subtitle="Evervideo Listas de reproducción en la Biblioteca multimedia" image="/docs/guide/evervideo/img/evervideo-playlists-in-media-library.webp" >}}
 {{< /cards >}}
 
 ## Crear una lista de reproducción

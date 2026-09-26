@@ -7,7 +7,7 @@ tags: ["carplay", "iPhone", "lokalna glazba", "offline reprodukcija", "evermusic
 readingTime: 5
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **Ukratko:** Koristite [Evermusic](https://apps.apple.com/app/apple-store/id885367198?pt=95781850&ct=everappzcom&mt=8) ili [Flacbox](https://apps.apple.com/app/apple-store/id1097564256?pt=95781850&ct=everappzcom&mt=8) za reprodukciju vlastitih MP3, FLAC ili drugih audio datoteka na iPhoneu putem Apple CarPlay. Dodajte glazbu iz pohrane u oblaku, USB-a ili Wi-Fi prijenosa, a zatim pregledavajte svoju biblioteku, popise pjesama i mape izravno na zaslonu automobila.
@@ -17,7 +17,7 @@ readingTime: 5
 Želite reproducirati vlastitu glazbu u automobilu koristeći Apple CarPlay? Bez obzira jesu li vaše pjesme pohranjene na iPhoneu, u pohrani u oblaku ili offline, aplikacije poput **Evermusic** i **Flacbox** olakšavaju slušanje vaše osobne glazbene kolekcije tijekom vožnje.
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="CarPlay Red čekanja za reprodukciju" image="/docs/howto/how-to-play-your-own-music-on-iphone-using-carplay/carplay-nowplaying-5.webp" imageStyle="border-radius: clamp(14px, 2vw, 28px);" >}}
+{{< ls-card title="" subtitle="CarPlay Red čekanja za reprodukciju" image="/docs/howto/how-to-play-your-own-music-on-iphone-using-carplay/carplay-nowplaying-5.webp" imageStyle="border-radius: clamp(14px, 2vw, 28px);" >}}
 {{< /cards >}}
 
 U ovom vodiču pokazat ćemo vam kako pripremiti glazbene datoteke za CarPlay, organizirati ih s ispravnim omotima albuma i informacijama o pjesmama te ih sigurno reproducirati s iPhonea. S Evermusic ili Flacbox možete stvarati popise pjesama te streamati ili preuzimati pjesme s usluga poput **Google Drive**, **Dropbox**, **OneDrive**, **NAS** ili vašeg kućnog računala.
@@ -25,8 +25,8 @@ U ovom vodiču pokazat ćemo vam kako pripremiti glazbene datoteke za CarPlay, o
 Ove aplikacije savršene su za svakoga tko želi potpunu kontrolu nad svojom glazbenom bibliotekom.
 
 {{< cards cols="2">}}
-{{< card link="https://apps.apple.com/app/apple-store/id885367198?pt=95781850&ct=everappzcom&mt=8" title="Preuzmite Evermusic" icon="download" tag="Free" >}}
-{{< card link="https://apps.apple.com/app/apple-store/id1097564256?pt=95781850&ct=everappzcom&mt=8" title="Preuzmite Flacbox" icon="download" tag="Free" >}}
+{{< ls-card link="https://apps.apple.com/app/apple-store/id885367198?pt=95781850&ct=everappzcom&mt=8" title="Preuzmite Evermusic" icon="download" tag="Free" >}}
+{{< ls-card link="https://apps.apple.com/app/apple-store/id1097564256?pt=95781850&ct=everappzcom&mt=8" title="Preuzmite Flacbox" icon="download" tag="Free" >}}
 {{< /cards >}}
 
 ## Stavite datoteke u aplikaciju
@@ -106,7 +106,7 @@ Prenesite datoteke bežično kako je opisano [ovdje](/docs/howto/how-to-transfer
 Nakon što pokrenete naše aplikacije Evermusic ili Flacbox u CarPlay načinu, vidjet ćete glavno sučelje podijeljeno na 4 glavne kartice: Biblioteka, Povezivanja, Lokalne datoteke, Postavke.
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="CarPlay glavni izbornik" image="/docs/howto/how-to-play-your-own-music-on-iphone-using-carplay/library-with-images.webp" imageStyle="border-radius: clamp(14px, 2vw, 28px);" >}}
+{{< ls-card title="" subtitle="CarPlay glavni izbornik" image="/docs/howto/how-to-play-your-own-music-on-iphone-using-carplay/library-with-images.webp" imageStyle="border-radius: clamp(14px, 2vw, 28px);" >}}
 {{< /cards >}}
 
 ## Biblioteka
@@ -116,7 +116,7 @@ Kartica **Biblioteka** u Evermusicku centralno je čvorište gdje je sva vaša g
 Ovaj zaslon pruža brz pristup vašim omiljenima, nedavnima, popisima pjesama, zabilješkama i svim dodanim pjesmama. Također možete nastaviti reprodukciju iz posljednje sesije, pregledati nereproducirane pjesme i istraživati glazbu po oznakama ili vrsti izvora.
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Biblioteka" image="/docs/howto/how-to-play-your-own-music-on-iphone-using-carplay/library-with-images-3.webp" imageStyle="border-radius: clamp(14px, 2vw, 28px);" >}}
+{{< ls-card title="" subtitle="Biblioteka" image="/docs/howto/how-to-play-your-own-music-on-iphone-using-carplay/library-with-images-3.webp" imageStyle="border-radius: clamp(14px, 2vw, 28px);" >}}
 {{< /cards >}}
 
 Odjeljak **Biblioteka** sadrži sljedeće kategorije:
@@ -139,7 +139,7 @@ Odjeljak **Biblioteka** sadrži sljedeće kategorije:
 - **Online datoteke** – Glazba streamana izravno iz usluga u oblaku
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Prikaz albuma" image="/docs/howto/how-to-play-your-own-music-on-iphone-using-carplay/albums.webp" imageStyle="border-radius: clamp(14px, 2vw, 28px);" >}}
+{{< ls-card title="" subtitle="Prikaz albuma" image="/docs/howto/how-to-play-your-own-music-on-iphone-using-carplay/albums.webp" imageStyle="border-radius: clamp(14px, 2vw, 28px);" >}}
 {{< /cards >}}
 
 Možete otvoriti bilo koji podizbornik i dodirnuti pjesmu za trenutno pokretanje reprodukcije. Za detaljnije informacije, pogledajte potpuni [Vodič za glazbenu biblioteku](/docs/guide/evermusic/evermusic-guide-music-library/).
@@ -150,7 +150,7 @@ Možete otvoriti bilo koji podizbornik i dodirnuti pjesmu za trenutno pokretanje
 Kartica **Povezivanja** vaše je centralno čvorište za pristup i upravljanje svim povezanim uslugama pohrane u oblaku i lokalnim mrežnim uređajima.
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Povezivanja" image="/docs/howto/how-to-play-your-own-music-on-iphone-using-carplay/connections-with-images-3.webp" imageStyle="border-radius: clamp(14px, 2vw, 28px);" >}}
+{{< ls-card title="" subtitle="Povezivanja" image="/docs/howto/how-to-play-your-own-music-on-iphone-using-carplay/connections-with-images-3.webp" imageStyle="border-radius: clamp(14px, 2vw, 28px);" >}}
 {{< /cards >}}
 
 Odavde se možete povezati s popularnim platformama u oblaku poput Dropbox, Google Drive, OneDrive, MEGA, iCloud Drive, pa čak i s mrežnim pogonima poput SMB, DLNA i WebDAV. Nakon povezivanja možete pregledavati, streamati, preuzimati i upravljati datotekama izravno iz aplikacije.
@@ -172,7 +172,7 @@ Za više informacija o svim načinima povezivanja i upravljanja vašim bibliotek
 Odjeljak **Lokalne datoteke** vaše je centralno čvorište za upravljanje audio datotekama pohranjenim izravno na uređaju ili unutar direktorija **Dokumenti** aplikacije Evermusic. Također uključuje offline datoteke preuzete iz pohrane u oblaku, datoteke predmemorije audio playera i mape koje ste učinili dostupnima za offline reprodukciju. Ovaj odjeljak osigurava da možete uživati u glazbenoj biblioteci čak i bez internetske veze.
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Lokalne datoteke" image="/docs/howto/how-to-play-your-own-music-on-iphone-using-carplay/local-files-with-images.webp" imageStyle="border-radius: clamp(14px, 2vw, 28px);" >}}
+{{< ls-card title="" subtitle="Lokalne datoteke" image="/docs/howto/how-to-play-your-own-music-on-iphone-using-carplay/local-files-with-images.webp" imageStyle="border-radius: clamp(14px, 2vw, 28px);" >}}
 {{< /cards >}}
 
 Zaslon **Lokalne datoteke** organiziran je u sljedeće ključne odjeljke:
@@ -186,7 +186,7 @@ Zaslon **Lokalne datoteke** organiziran je u sljedeće ključne odjeljke:
 - **Audio player** – Mapa predmemorije koja se koristi za crossfade i optimizaciju performansi. Može se onemogućiti ili očistiti u postavkama.
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Mape uređaja u Lokalnim datotekama" image="/docs/howto/how-to-play-your-own-music-on-iphone-using-carplay/local-files-device-folders.webp" imageStyle="border-radius: clamp(14px, 2vw, 28px);" >}}
+{{< ls-card title="" subtitle="Mape uređaja u Lokalnim datotekama" image="/docs/howto/how-to-play-your-own-music-on-iphone-using-carplay/local-files-device-folders.webp" imageStyle="border-radius: clamp(14px, 2vw, 28px);" >}}
 {{< /cards >}}
 
 Više možete saznati u potpunom [Vodiču za lokalne datoteke](/docs/guide/evermusic/evermusic-guide-local-files/).
@@ -194,7 +194,7 @@ Više možete saznati u potpunom [Vodiču za lokalne datoteke](/docs/guide/everm
 ## Prikaz mape
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Lokalna mapa s omotima" image="/docs/howto/how-to-play-your-own-music-on-iphone-using-carplay/local-folder-with-images-2.webp" imageStyle="border-radius: clamp(14px, 2vw, 28px);" >}}
+{{< ls-card title="" subtitle="Lokalna mapa s omotima" image="/docs/howto/how-to-play-your-own-music-on-iphone-using-carplay/local-folder-with-images-2.webp" imageStyle="border-radius: clamp(14px, 2vw, 28px);" >}}
 {{< /cards >}}
 
 Kada otvorite mapu, na vrhu ćete pronaći skup korisnih radnji:
@@ -206,7 +206,7 @@ Kada otvorite mapu, na vrhu ćete pronaći skup korisnih radnji:
 ## Ograničenje dubine sadržaja
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Ograničenje dubine sadržaja" image="/docs/howto/how-to-play-your-own-music-on-iphone-using-carplay/content-depth-limit.webp" imageStyle="border-radius: clamp(14px, 2vw, 28px);" >}}
+{{< ls-card title="" subtitle="Ograničenje dubine sadržaja" image="/docs/howto/how-to-play-your-own-music-on-iphone-using-carplay/content-depth-limit.webp" imageStyle="border-radius: clamp(14px, 2vw, 28px);" >}}
 {{< /cards >}}
 
 Prilikom korištenja CarPlaya, možete naići na pogrešku **"Ograničenje dubine sadržaja"** — posebno ako vaša glazbena biblioteka ima mnogo duboko ugniježđenih mapa.
@@ -227,7 +227,7 @@ Ovo zaobilazno rješenje osigurava besprijekorno iskustvo pri pregledavanju glaz
 ## Zaslon Sada se reproducira
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="CarPlay Unos sada se reproducira" image="/docs/howto/how-to-play-your-own-music-on-iphone-using-carplay/carplay-nowplaying.webp" imageStyle="border-radius: clamp(14px, 2vw, 28px);" >}}
+{{< ls-card title="" subtitle="CarPlay Unos sada se reproducira" image="/docs/howto/how-to-play-your-own-music-on-iphone-using-carplay/carplay-nowplaying.webp" imageStyle="border-radius: clamp(14px, 2vw, 28px);" >}}
 {{< /cards >}}
 
 Nakon dodirivanja bilo koje audio datoteke, ona se automatski dodaje u **red čekanja playera**.
@@ -244,7 +244,7 @@ Ovaj vam zaslon omogućuje da ostanete u kontroli svog iskustva slušanja tijeko
 ## Postavke
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Izbornik postavki" image="/docs/howto/how-to-play-your-own-music-on-iphone-using-carplay/settings-2.webp" imageStyle="border-radius: clamp(14px, 2vw, 28px);" >}}
+{{< ls-card title="" subtitle="Izbornik postavki" image="/docs/howto/how-to-play-your-own-music-on-iphone-using-carplay/settings-2.webp" imageStyle="border-radius: clamp(14px, 2vw, 28px);" >}}
 {{< /cards >}}
 
 Odjeljak **Postavke** u CarPlay sučelju omogućuje vam prilagodbu ponašanja aplikacije tijekom vožnje. Ove postavke pomažu poboljšati performanse, smanjiti smetnje i pružiti bolje iskustvo slušanja.
@@ -260,7 +260,7 @@ Odjeljak **Postavke** u CarPlay sučelju omogućuje vam prilagodbu ponašanja ap
 - **Sortiranje** – Prilagodite način sortiranja sadržaja u CarPlay izbornicima poput datoteka, glazbene biblioteke i povezivanja.
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Izbornik opcija sortiranja" image="/docs/howto/how-to-play-your-own-music-on-iphone-using-carplay/settings-sort.webp" imageStyle="border-radius: clamp(14px, 2vw, 28px);" >}}
+{{< ls-card title="" subtitle="Izbornik opcija sortiranja" image="/docs/howto/how-to-play-your-own-music-on-iphone-using-carplay/settings-sort.webp" imageStyle="border-radius: clamp(14px, 2vw, 28px);" >}}
 {{< /cards >}}
 
 - **Ograničenje učitavanja sadržaja** – Postavite koliko stavki treba prikazati po zaslonu. Niža ograničenja poboljšavaju brzinu učitavanja i smanjuju napor pri pomicanju.
@@ -271,19 +271,19 @@ Odjeljak **Postavke** u CarPlay sučelju omogućuje vam prilagodbu ponašanja ap
 - **Audio ekvalizator**
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Ploča za konfiguraciju ekvalizatora" image="/docs/howto/how-to-play-your-own-music-on-iphone-using-carplay/settings-eq-configuration.webp" imageStyle="border-radius: clamp(14px, 2vw, 28px);" >}}
+{{< ls-card title="" subtitle="Ploča za konfiguraciju ekvalizatora" image="/docs/howto/how-to-play-your-own-music-on-iphone-using-carplay/settings-eq-configuration.webp" imageStyle="border-radius: clamp(14px, 2vw, 28px);" >}}
 {{< /cards >}}
 
 Omogućite ugrađeni audio ekvalizator, prilagodite frekvencijske pojaseve i odaberite iz unaprijed konfiguriranih preset-a za personalizirano iskustvo zvuka.
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Popis preset-a ekvalizatora" image="/docs/howto/how-to-play-your-own-music-on-iphone-using-carplay/settings-equalizer.webp" imageStyle="border-radius: clamp(14px, 2vw, 28px);" >}}
+{{< ls-card title="" subtitle="Popis preset-a ekvalizatora" image="/docs/howto/how-to-play-your-own-music-on-iphone-using-carplay/settings-equalizer.webp" imageStyle="border-radius: clamp(14px, 2vw, 28px);" >}}
 {{< /cards >}}
 
 - **Crossfade reprodukcija**
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Crossfade reprodukcija" image="/docs/howto/how-to-play-your-own-music-on-iphone-using-carplay/settings-crossfade-playback.webp" imageStyle="border-radius: clamp(14px, 2vw, 28px);" >}}
+{{< ls-card title="" subtitle="Crossfade reprodukcija" image="/docs/howto/how-to-play-your-own-music-on-iphone-using-carplay/settings-crossfade-playback.webp" imageStyle="border-radius: clamp(14px, 2vw, 28px);" >}}
 {{< /cards >}}
 
 Stvorite glatke prijelaze između pjesama preklapanjem kraja jedne pjesme s početkom sljedeće. Trajanje crossfadea može se prilagoditi.
@@ -291,7 +291,7 @@ Stvorite glatke prijelaze između pjesama preklapanjem kraja jedne pjesme s poč
 - **Reprodukcija bez pauza**
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Reprodukcija bez pauza" image="/docs/howto/how-to-play-your-own-music-on-iphone-using-carplay/settings-gapless-playback.webp" imageStyle="border-radius: clamp(14px, 2vw, 28px);" >}}
+{{< ls-card title="" subtitle="Reprodukcija bez pauza" image="/docs/howto/how-to-play-your-own-music-on-iphone-using-carplay/settings-gapless-playback.webp" imageStyle="border-radius: clamp(14px, 2vw, 28px);" >}}
 {{< /cards >}}
 
 Reproducirajte pjesme bez prekida — idealno za snimke uživo, DJ mikseve i konceptualne albume.
@@ -307,7 +307,7 @@ Za više informacija, pročitajte potpuni [Vodič za postavke](/docs/guide/everm
 S **Evermusic** i **Flacbox**, reprodukcija vlastite glazbe u automobilu koristeći Apple CarPlay postaje jednostavna, fleksibilna i pouzdana. Bez obzira streamate li iz pohrane u oblaku, pristupate lokalnim datotekama ili reproducirate preuzete pjesme offline — ove su aplikacije izgrađene da vam pruže potpunu kontrolu nad iskustvom slušanja tijekom vožnje.
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="CarPlay zaslon Sada se reproducira" image="/docs/howto/how-to-play-your-own-music-on-iphone-using-carplay/carplay-nowplaying-2.webp" imageStyle="border-radius: clamp(14px, 2vw, 28px);" >}}
+{{< ls-card title="" subtitle="CarPlay zaslon Sada se reproducira" image="/docs/howto/how-to-play-your-own-music-on-iphone-using-carplay/carplay-nowplaying-2.webp" imageStyle="border-radius: clamp(14px, 2vw, 28px);" >}}
 {{< /cards >}}
 
 Od besprijekorne integracije s oblakom do sinkronizacije offline mapa, od duboke organizacije glazbene biblioteke do prilagodljive reprodukcije s ekvalizatorima i crossfadeom — ove značajke čine Evermusic i Flacbox više od običnih audio playera. Oni su pametni CarPlay pratitelji dizajnirani za audiofile, putnike i svakodnevne korisnike.
@@ -325,22 +325,22 @@ Istražite više značajki, postavki i uputa u našem potpunom [Korisničkom vod
 
 ## Često postavljana pitanja
 
-{{% details title="Koji formati glazbenih datoteka rade s CarPlayom u Evermusicku i Flacboxu?" closed="true" %}}
+{{% ls-details title="Koji formati glazbenih datoteka rade s CarPlayom u Evermusicku i Flacboxu?" closed="true" %}}
 Evermusic i Flacbox podržavaju širok raspon audio formata uključujući MP3, FLAC, AAC, WAV, AIFF, OGG, WMA i više. Svi podržani formati rade putem CarPlaya bez potrebe za konverzijom.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Mogu li reproducirati glazbu s Google Drive ili Dropbox na CarPlayu?" closed="true" %}}
+{{% ls-details title="Mogu li reproducirati glazbu s Google Drive ili Dropbox na CarPlayu?" closed="true" %}}
 Da. I Evermusic i Flacbox omogućuju vam povezivanje s uslugama pohrane u oblaku poput Google Drive, Dropbox, OneDrive, MEGA i drugih. Možete streamati glazbu izravno ili je preuzeti za offline CarPlay reprodukciju.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Trebam li internetsku vezu za reprodukciju glazbe na CarPlayu?" closed="true" %}}
+{{% ls-details title="Trebam li internetsku vezu za reprodukciju glazbe na CarPlayu?" closed="true" %}}
 Ne. Možete preuzeti glazbu iz pohrane u oblaku za offline reprodukciju. Nakon što su datoteke pohranjene lokalno na vašem iPhoneu, reproduciraju se putem CarPlaya bez ikakve internetske veze.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Zašto vidim pogrešku Ograničenje dubine sadržaja na CarPlayu?" closed="true" %}}
+{{% ls-details title="Zašto vidim pogrešku Ograničenje dubine sadržaja na CarPlayu?" closed="true" %}}
 CarPlay ograničava koliko razina mapa može prikazati. Ako je vaša glazba u duboko ugniježđenim mapama, dodajte te mape u Omiljene kako biste im mogli pristupiti izravno iz izbornika Omiljeni u CarPlayu.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Je li Evermusic ili Flacbox besplatan za korištenje s CarPlayom?" closed="true" %}}
+{{% ls-details title="Je li Evermusic ili Flacbox besplatan za korištenje s CarPlayom?" closed="true" %}}
 Obje su aplikacije besplatne za preuzimanje s potpunom CarPlay podrškom, ekvalizatorom i značajkama reprodukcije. Besplatne verzije imaju ograničenja na pohrane u oblaku (3), popise pjesama (10) i offline mape (1). Premium uklanja sva ograničenja.
-{{% /details %}}
+{{% /ls-details %}}

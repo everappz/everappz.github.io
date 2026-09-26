@@ -12,7 +12,7 @@ authors:
     image: "/images/about/artem-meleshko-founder-everappz.webp"
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 **Підсумок:** Flacbox перевищив 1 мільйон завантажень у всьому світі. Підтримує FLAC, ALAC, APE, DSD та інші безвтратні формати з 10-смуговим еквалайзером, плейлистами M3U/CUE, офлайн відтворенням та синхронізацією між пристроями на iPhone, iPad та Mac.
 
@@ -78,26 +78,26 @@ Flacbox відтворює вашу музику точно так, як вон�
 
 ## Часті запитання
 
-{{% details title="Які аудіо формати підтримує Flacbox?" closed="true" %}}
+{{% ls-details title="Які аудіо формати підтримує Flacbox?" closed="true" %}}
 Flacbox відтворює FLAC, ALAC, APE, DSD, WavPack, TTA, RealAudio, MP3, AAC, OGG та багато інших форматів. Він розроблений переважно для безвтратного та hi-res аудіо.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Чи є у Flacbox еквалайзер?" closed="true" %}}
+{{% ls-details title="Чи є у Flacbox еквалайзер?" closed="true" %}}
 Так. Flacbox включає 10-смуговий еквалайзер з жанровими пресетами та ручним налаштуванням частот.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Чи можу я слухати музику офлайн з Flacbox?" closed="true" %}}
+{{% ls-details title="Чи можу я слухати музику офлайн з Flacbox?" closed="true" %}}
 Так. Завантажте файли з хмарного сховища або перенесіть їх безпосередньо в додаток для офлайн відтворення без інтернет-з'єднання.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Чи працює Flacbox на Mac?" closed="true" %}}
+{{% ls-details title="Чи працює Flacbox на Mac?" closed="true" %}}
 Так. Flacbox працює на iPhone, iPad та Mac з синхронізованими бібліотеками та історією відтворення на всіх пристроях.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Що таке підтримка CUE файлів?" closed="true" %}}
+{{% ls-details title="Що таке підтримка CUE файлів?" closed="true" %}}
 CUE файли визначають межі треків у межах одного аудіо файлу. Flacbox читає CUE файли для розділення альбомних ріпів на окремі треки з правильними метаданими.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Чи безкоштовний Flacbox?" closed="true" %}}
+{{% ls-details title="Чи безкоштовний Flacbox?" closed="true" %}}
 Flacbox безкоштовний для завантаження з додатковими преміум-функціями, доступними через покупку в додатку.
-{{% /details %}}
+{{% /ls-details %}}

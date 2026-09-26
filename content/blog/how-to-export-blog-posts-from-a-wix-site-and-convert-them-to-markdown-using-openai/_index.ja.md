@@ -12,7 +12,7 @@ authors:
     image: "/images/about/artem-meleshko-founder-everappz.webp"
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 ## なぜWixからブログ記事をエクスポートするのか？
 
@@ -78,33 +78,33 @@ bash fetch_blog_posts.sh
 プロジェクトはオープンソースです。
 
 {{< cards cols="1" >}}
-  {{< card link="https://github.com/everappz/wix-blog-export" title="GitHubのプロジェクト" icon="github" tag="open source" >}}
+  {{< ls-card link="https://github.com/everappz/wix-blog-export" title="GitHubのプロジェクト" icon="github" tag="open source" >}}
 {{< /cards >}}
 
 ---
 
 ## よくある質問
 
-{{% details title="Wixブログ記事のスクレイプに`requests`を使えないのはなぜ？" closed="true" %}}
+{{% ls-details title="Wixブログ記事のスクレイプに`requests`を使えないのはなぜ？" closed="true" %}}
 WixはJavaScriptで動的にコンテンツをレンダリングします。標準的なHTTPリクエストでは空のページシェルが返されます。Seleniumはヘッドレスブラウザを実行して完全にレンダリングされたHTMLを取得します。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="どのWixブログでも動作しますか？" closed="true" %}}
+{{% ls-details title="どのWixブログでも動作しますか？" closed="true" %}}
 はい。スクレイパーはブログのサイトマップXMLを読み取り、各URLを処理します。`parse_blog_sitemap.py`の`SITEMAP_URL`変数を更新するだけです。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="どのOpenAIモデルを使用していますか？" closed="true" %}}
+{{% ls-details title="どのOpenAIモデルを使用していますか？" closed="true" %}}
 スクリプトはデフォルトでGPT-4oを使用します。`generate_md.py`の`API_MODEL`変数を変更して別のモデルを使用できます。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="WixからHugoへの移行に使えますか？" closed="true" %}}
+{{% ls-details title="WixからHugoへの移行に使えますか？" closed="true" %}}
 はい。出力はローカル画像パス付きの標準Markdownで、Hugo、Jekyll、Astroなどの静的サイトジェネレーターで直接動作します。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="OpenAI APIの費用はいくらですか？" closed="true" %}}
+{{% ls-details title="OpenAI APIの費用はいくらですか？" closed="true" %}}
 費用はブログ記事の数と長さによります。中程度の長さの記事50件の一般的なブログで、GPT-4oのAPI使用料は数ドルです。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="このツールはオープンソースですか？" closed="true" %}}
+{{% ls-details title="このツールはオープンソースですか？" closed="true" %}}
 はい。完全なソースコードは[GitHub](https://github.com/everappz/wix-blog-export)でオープンソースライセンスの下で利用可能です。
-{{% /details %}}
+{{% /ls-details %}}

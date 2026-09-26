@@ -7,7 +7,7 @@ tags: ["evermusic", "audio", "éditeur", "balises", "commentaires"]
 readingTime: 4
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **Résumé :** Evermusic et Flacbox vous permettent d'ajouter des commentaires textuels avec des marqueurs temporels à n'importe quelle piste audio, puis de les afficher de manière synchronisée pendant la lecture. Vous pouvez également afficher les paroles intégrées et les fichiers LRC. Les fonctions de commentaires et de paroles sont gratuites dans les deux applications.
@@ -97,22 +97,22 @@ L'ajout de commentaires aux pistes audio dans Evermusic et Flacbox marque un bon
 
 ## FAQ
 
-{{% details title="La fonction de commentaires est-elle gratuite dans Evermusic et Flacbox ?" closed="true" %}}
+{{% ls-details title="La fonction de commentaires est-elle gratuite dans Evermusic et Flacbox ?" closed="true" %}}
 Oui. L'ajout, la modification et l'affichage des commentaires et des paroles est une fonctionnalité gratuite dans Evermusic et Flacbox.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Quel format dois-je utiliser pour les commentaires horodatés ?" closed="true" %}}
+{{% ls-details title="Quel format dois-je utiliser pour les commentaires horodatés ?" closed="true" %}}
 Utilisez le format de marqueur temporel LRC : `[MM:SS.SS]` suivi de votre texte. Par exemple : `[01:23.45]Ceci est mon commentaire`. Vous pouvez attribuer plusieurs horodatages à une seule ligne.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Puis-je voir les paroles et les fichiers LRC sur le même écran ?" closed="true" %}}
+{{% ls-details title="Puis-je voir les paroles et les fichiers LRC sur le même écran ?" closed="true" %}}
 Oui. L'écran Commentaires prend en charge trois modes entre lesquels vous pouvez glisser : Commentaires, Paroles intégrées et Fichier LRC.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Où puis-je trouver des fichiers de paroles LRC ?" closed="true" %}}
+{{% ls-details title="Où puis-je trouver des fichiers de paroles LRC ?" closed="true" %}}
 Des paroles LRC gratuites sont disponibles sur des sites web comme Lyricsify.com. Vous pouvez soit les intégrer dans la balise de paroles de votre fichier audio, soit placer un fichier `.lrc` séparé à côté de votre fichier audio.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Ai-je besoin d'une application séparée pour modifier les balises de paroles ?" closed="true" %}}
+{{% ls-details title="Ai-je besoin d'une application séparée pour modifier les balises de paroles ?" closed="true" %}}
 Vous pouvez modifier les commentaires directement dans Evermusic et Flacbox. Pour modifier spécifiquement la balise de paroles, utilisez Evertag, un éditeur de métadonnées audio gratuit pour iOS et macOS.
-{{% /details %}}
+{{% /ls-details %}}

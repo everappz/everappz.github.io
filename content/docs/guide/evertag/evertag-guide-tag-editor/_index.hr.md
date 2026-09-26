@@ -15,7 +15,7 @@ readingTime: 5
 **Uređivač oznaka** je glavni zaslon aplikacije Evertag gdje možete pregledavati i uređivati metapodatke audio datoteka. Otvorite ovaj zaslon tapkanjem datoteke iz odjeljka **Lokalne datoteke** ili s bilo kojeg povezanog računa **pohrane u oblaku**.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Zaslon Uređivača oznaka u Evertagu" image="/docs/guide/evertag/img/tag-editor.webp" >}}
+  {{< ls-card title="" subtitle="Zaslon Uređivača oznaka u Evertagu" image="/docs/guide/evertag/img/tag-editor.webp" >}}
 {{< /cards >}}
 
 ## Načini uređivanja
@@ -38,7 +38,7 @@ Prema zadanim postavkama, aplikacija otvara uređivač oznaka u načinu rada s j
 Za pristup svim dostupnim oznakama, pomaknite se do dna zaslona i tapnite opciju **Prikaži proširene oznake**. To će prebaciti uređivač u prošireni način rada, omogućujući vam uređivanje više od **120 polja metapodataka**, uključujući **MusicBrainz oznake**, **Tekst pjesme**, **Savjetodavne ocjene**, replay-gain vrijednosti, redoslijede sortiranja, metapodatke podcastova i još mnogo toga. Koristite **Postavke → Uređivač audio oznaka → Gumbi na glavnom zaslonu** za trajno uključivanje opcije Prikaži proširene oznake tako da uvijek bude uključena.
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Panel akcija na dnu" image="/docs/guide/evertag/img/tag-editor-bottom-actions.webp" >}}
+{{< ls-card title="" subtitle="Panel akcija na dnu" image="/docs/guide/evertag/img/tag-editor-bottom-actions.webp" >}}
 {{< /cards >}}
 
 ## Grupni način rada
@@ -53,7 +53,7 @@ Grupno uređivanje možete pokrenuti na dva načina:
    - Otvorite bilo koju datoteku, pomaknite se do dna i tapnite **Uredi datoteke istovremeno** za učitavanje svih datoteka iz iste mape.
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Grupni način uređivanja" image="/docs/guide/evertag/img/tag-editor-batch-editing.webp" >}}
+{{< ls-card title="" subtitle="Grupni način uređivanja" image="/docs/guide/evertag/img/tag-editor-batch-editing.webp" >}}
 {{< /cards >}}
 
 Nakon uređivanja, tapnite **Spremi** za primjenu promjena.
@@ -72,19 +72,19 @@ Ne morate sami tipkati tekst pjesme. Uređivač uključuje prečace za pretraži
 Svaki prečac se pojavljuje samo kada je odgovarajuća usluga dostupna s vašeg uređaja. Tapnite uslugu, kopirajte tekst (ili LRC vremenske oznake) koji želite, vratite se na Evertag i zalijepite ih u tekstualno polje — zatim **Spremi** za pisanje teksta natrag u oznake audio datoteke.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Stranice teksta pjesme" image="/docs/guide/evertag/img/tag-editor-lyrics-pages.webp" >}}
+  {{< ls-card title="" subtitle="Stranice teksta pjesme" image="/docs/guide/evertag/img/tag-editor-lyrics-pages.webp" >}}
 {{< /cards >}}
 
 Odaberite jezik iz birača:
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Birač jezika teksta pjesme" image="/docs/guide/evertag/img/tag-editor-lyrics-language-select.webp" >}}
+  {{< ls-card title="" subtitle="Birač jezika teksta pjesme" image="/docs/guide/evertag/img/tag-editor-lyrics-language-select.webp" >}}
 {{< /cards >}}
 
 Zatim zalijepite ili utipkajte tekst pjesme. Evertag podržava i plain tekst i vremenski označene (sinhronizirane) tekstove — rezervirano mjesto prikazuje primjer LRC-style formata, što je točno ono što Lrclib i Lyricsify vraćaju za sinhronizirane rezultate.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Uređivač teksta pjesme" image="/docs/guide/evertag/img/tag-editor-lyrics-text.webp" >}}
+  {{< ls-card title="" subtitle="Uređivač teksta pjesme" image="/docs/guide/evertag/img/tag-editor-lyrics-text.webp" >}}
 {{< /cards >}}
 
 ## Postavljanje ocjene i savjetodavne ocjene
@@ -96,7 +96,7 @@ Prošireni uređivač nudi kontrolu zvjezdice **Ocjena** uz segmentiranu kontrol
 Koristite polje **Ocjena** za davanje osobnog rezultata od jedne do pet zvjezdica tracku. Vrijednost se upisuje u standardnu oznaku ocjene datoteke (POPM za ID3, `rate` za MP4, `RATING` za Vorbis/APE, itd.), tako da će druge aplikacije koje čitaju ovu oznaku — uključujući Music app, Plex, Roon i većinu desktop uređivača oznaka — odmah preuzeti vaše ocjene.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Ocjena" image="/docs/guide/evertag/img/tag-editor-rating.webp" >}}
+  {{< ls-card title="" subtitle="Ocjena" image="/docs/guide/evertag/img/tag-editor-rating.webp" >}}
 {{< /cards >}}
 
 ### Savjetodavna ocjena
@@ -117,7 +117,7 @@ Postat ćete svjesni potrebe za postavljanjem ili ispravljanjem ovog polja kada:
 Vrijednost se pohranjuje u standardno polje savjetodavne ocjene za format datoteke (`rtng` za MP4, `TXXX:ITUNESADVISORY` za ID3, `ITUNESADVISORY` za Vorbis), tako da će svaki player koji čita metapodatke roditeljskog nadzora vidjeti vaše ažuriranje.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Savjetodavna ocjena teksta pjesme" image="/docs/guide/evertag/img/lyrics-advisory-rating.webp" >}}
+  {{< ls-card title="" subtitle="Savjetodavna ocjena teksta pjesme" image="/docs/guide/evertag/img/lyrics-advisory-rating.webp" >}}
 {{< /cards >}}
 
 ## Uređivanje naslovnice albuma
@@ -129,7 +129,7 @@ Za promjenu naslovnice albuma:
 3. Odaberite sliku za primjenu kao naslovnica albuma.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Odabir slike" image="/docs/guide/evertag/img/select-image.webp" >}}
+  {{< ls-card title="" subtitle="Odabir slike" image="/docs/guide/evertag/img/select-image.webp" >}}
 {{< /cards >}}
 
 ## Više radnji u Uređivaču oznaka
@@ -137,7 +137,7 @@ Za promjenu naslovnice albuma:
 Dodatne opcije uređivanja dostupne su putem alatne trake ispod prikaza grafike.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Izbornik Više radnji" image="/docs/guide/evertag/img/tag-editor-more-actions.webp" >}}
+  {{< ls-card title="" subtitle="Izbornik Više radnji" image="/docs/guide/evertag/img/tag-editor-more-actions.webp" >}}
 {{< /cards >}}
 
 ### Auto-pretraži audio oznake
@@ -150,13 +150,13 @@ Aplikacija koristi MusicBrainz bazu podataka — jednu od najsveobuhvatnijih baz
 Koristite metapodatke za pretraživanje weba za ispravnu grafiku albuma.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Pretraži naslovnicu albuma" image="/docs/guide/evertag/img/search-album-cover.webp" >}}
+  {{< ls-card title="" subtitle="Pretraži naslovnicu albuma" image="/docs/guide/evertag/img/search-album-cover.webp" >}}
 {{< /cards >}}
 
 Nakon pronalaska, sačuvajte sliku u **Fotografijama** koristeći sistemski kontekstni izbornik.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Dodaj sliku u Fotografije" image="/docs/guide/evertag/img/add-image-to-photos.webp" >}}
+  {{< ls-card title="" subtitle="Dodaj sliku u Fotografije" image="/docs/guide/evertag/img/add-image-to-photos.webp" >}}
 {{< /cards >}}
 
 Nakon toga, vratite se na uređivač oznaka, tapnite ikonu Kamere, idite na **Biblioteku fotografija** i odaberite spremljenu sliku. Aplikacija će je postaviti kao naslovnicu vaše audio datoteke.
@@ -178,19 +178,19 @@ Ručno pretražujte metapodatke albuma koristeći MusicBrainz bazu podataka.
 - Odaberite album
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Odabir albuma" image="/docs/guide/evertag/img/select-album-results.webp" >}}
+  {{< ls-card title="" subtitle="Odabir albuma" image="/docs/guide/evertag/img/select-album-results.webp" >}}
 {{< /cards >}}
 
 - Odaberite ispravnu pjesmu
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Odabir pjesme" image="/docs/guide/evertag/img/select-a-song.webp" >}}
+  {{< ls-card title="" subtitle="Odabir pjesme" image="/docs/guide/evertag/img/select-a-song.webp" >}}
 {{< /cards >}}
 
 - Odaberite koje oznake primijeniti
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Odabir audio oznaka" image="/docs/guide/evertag/img/select-audio-tags.webp" >}}
+  {{< ls-card title="" subtitle="Odabir audio oznaka" image="/docs/guide/evertag/img/select-audio-tags.webp" >}}
 {{< /cards >}}
 
 Tapnite **Gotovo** za primjenu odabranih metapodataka na track.

@@ -7,7 +7,7 @@ tags: ["evermusic", "zene", "felhő", "iphone", "tárhely", "nas", "hallgatás",
 readingTime: 4
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **Összefoglaló:** Használd az Evermusic-ot a WD My Cloud Home NAS-ról közvetlenül az iPhone-odra történő zene streameléshez vagy letöltéshez. Hozzáférhetsz akár 8 TB zenéhez, offline lejátszáshoz és a beépített hangszínszabályzó használatához -- mindezt havi előfizetések nélkül.
@@ -87,26 +87,26 @@ Köszönjük, hogy felkerestetted ezt az útmutatót -- most merülj el a szemé
 
 ## Gyakran ismételt kérdések
 
-{{% details title="Ingyenes az Evermusic a WD My Cloud Home-mal?" closed="true" %}}
+{{% ls-details title="Ingyenes az Evermusic a WD My Cloud Home-mal?" closed="true" %}}
 Az Evermusic ingyenesen letölthető alapfunkciókkal, beleértve a hangszínszabályzót, a felhő streamelést és az offline lejátszást. Az ingyenes verzió legfeljebb 3 felhőkapcsolatot támogat. A Premium verzióra való frissítés eltávolítja a felhőfiókok, lejátszási listák és offline mappák korlátait.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Hallgathatok zenét offline a NAS-omról?" closed="true" %}}
+{{% ls-details title="Hallgathatok zenét offline a NAS-omról?" closed="true" %}}
 Igen. Az Evermusic lehetővé teszi, hogy dalokat tölts le a WD My Cloud Home-ról az iPhone-odra offline lejátszáshoz. Ez hasznos, amikor utazol vagy korlátozott az internet-hozzáférésed.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Támogatja az Evermusic a veszteségmentes hangformátumokat a WD My Cloudról?" closed="true" %}}
+{{% ls-details title="Támogatja az Evermusic a veszteségmentes hangformátumokat a WD My Cloudról?" closed="true" %}}
 Igen. Az Evermusic támogatja a FLAC, ALAC, WAV, AIFF és más veszteségmentes formátumokat. Kiváló minőségű hangfájlokat streamelhetsz vagy tölthetsz le a NAS-odról formátumkonverzió nélkül.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Használhatom a WD MyCloud EX2 Ultrát az Evermusic-kal?" closed="true" %}}
+{{% ls-details title="Használhatom a WD MyCloud EX2 Ultrát az Evermusic-kal?" closed="true" %}}
 Igen, egy megkerülő megoldással. Csatlakozz a My Cloud Home opcióval, hozz létre egy mappát az Evermusic fájlkezelőjével, és töltsd fel a zenei fájljaidat oda. A sandbox mód miatt csak az alkalmazás által létrehozott mappákban lévő fájlok érhetők el.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Mennyi zenét tárolhatok a WD My Cloud Home-on?" closed="true" %}}
+{{% ls-details title="Mennyi zenét tárolhatok a WD My Cloud Home-on?" closed="true" %}}
 A WD My Cloud Home legfeljebb 8 TB tárhelyet támogat. Tipikus bitrátáknál ez több százezer dal tárolására alkalmas, beleértve a nagy veszteségmentes zenei könyvtárakat.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Biztonságos a kapcsolat az Evermusic és a WD My Cloud Home között?" closed="true" %}}
+{{% ls-details title="Biztonságos a kapcsolat az Evermusic és a WD My Cloud Home között?" closed="true" %}}
 Igen. Az Evermusic biztonságos kapcsolatot és a Western Digital hivatalos API-ját használja a NAS-od eléréséhez. Az adataid és bejelentkezési adataid védve vannak az átvitel során.
-{{% /details %}}
+{{% /ls-details %}}

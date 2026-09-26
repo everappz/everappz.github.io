@@ -7,7 +7,7 @@ tags: ["오디오", "플레이어", "컴퓨터", "파일", "파일", "PC", "Mac"
 keywords: ["iTunes 파일 공유", "로컬 음악 재생", "iPhone으로 음악 전송", "iOS로 파일 복사", "Mac에서 iPhone 오디오", "iPhone의 로컬 파일", "Evermusic", "Flacbox", "음악 플레이어", "파일 공유", "WiFi Drive", "SMB 음악 스트리밍", "iPhone 음악 앱", "iOS로 음악 가져오기"]
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **요약:** 세 가지 방법 중 하나를 사용하여 컴퓨터에서 iPhone으로 음악을 전송하세요: **iTunes/Finder 파일 공유** (USB 케이블), **[WiFi Drive](/docs/howto/how-to-transfer-music-from-computer-to-iphone-without-itunes)** (무선, 케이블 불필요), 또는 **[SMB](/docs/howto/stream-your-music-from-mac-or-pc-to-iphone-using-smb/)** (복사 없이 직접 스트리밍). 그런 다음 [Evermusic](/products/evermusic) 또는 [Flacbox](/products/flacbox)로 재생하세요.
@@ -134,22 +134,22 @@ SMB 프로토콜을 사용하여 컴퓨터를 연결하면 MAC/PC에서 iOS 기�
 
 ## FAQ
 
-{{% details title="iPhone으로 음악을 전송하는 가장 빠른 방법은 무엇인가요?" closed="true" %}}
+{{% ls-details title="iPhone으로 음악을 전송하는 가장 빠른 방법은 무엇인가요?" closed="true" %}}
 USB를 통한 iTunes/Finder 파일 공유가 대용량 음악 라이브러리에 가장 빠른 방법입니다. 소량의 전송에는 케이블이 필요 없는 WiFi Drive가 더 편리합니다.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="iPhone에 FLAC 파일을 전송할 수 있나요?" closed="true" %}}
+{{% ls-details title="iPhone에 FLAC 파일을 전송할 수 있나요?" closed="true" %}}
 네. Evermusic과 Flacbox 모두 iTunes 파일 공유, WiFi Drive 또는 SMB를 통해 FLAC 파일을 지원합니다. 무손실 형식에는 Flacbox를 권장합니다.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="macOS Catalina 이상에서 iTunes가 필요한가요?" closed="true" %}}
+{{% ls-details title="macOS Catalina 이상에서 iTunes가 필요한가요?" closed="true" %}}
 아니요. Apple은 macOS Catalina부터 기기 관리를 위해 iTunes를 Finder로 대체했습니다. 파일 공유에는 Finder의 파일 탭을 사용하세요.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="파일을 iPhone에 복사하지 않고 음악을 스트리밍할 수 있나요?" closed="true" %}}
+{{% ls-details title="파일을 iPhone에 복사하지 않고 음악을 스트리밍할 수 있나요?" closed="true" %}}
 네. SMB 프로토콜을 사용하여 Mac 또는 PC에서 직접 음악을 스트리밍할 수 있습니다. 이렇게 하면 기기 저장 공간을 절약하고 라이브러리를 컴퓨터에 유지할 수 있습니다.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Evermusic과 Flacbox 중 어떤 앱을 사용해야 하나요?" closed="true" %}}
+{{% ls-details title="Evermusic과 Flacbox 중 어떤 앱을 사용해야 하나요?" closed="true" %}}
 MP3, WAV, AAC 같은 표준 형식에는 Evermusic을 사용하세요. 라이브러리에 FLAC, DSD 또는 OGG 같은 무손실 형식이 포함되어 있다면 Flacbox를 선택하세요.
-{{% /details %}}
+{{% /ls-details %}}

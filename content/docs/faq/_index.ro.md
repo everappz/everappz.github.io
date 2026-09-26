@@ -15,7 +15,7 @@ tags: [
 ---
 
 
-{{< lottie src="/images/juicy-json/juicy-woman-focused-on-online-learning.json" width="85%" >}}
+{{< ls-lottie src="/images/juicy-json/juicy-woman-focused-on-online-learning.json" width="85%" >}}
 
 ## Află cum să folosești aplicațiile noastre
 
@@ -27,7 +27,7 @@ Explorează întrebările frecvente pentru aplicația ta de mai jos pentru a în
 
 ## Alege aplicația ta
 
-{{< product-doc-cards section="faq" >}}
+{{< ls-product-doc-cards section="faq" >}}
 
 ## Probleme comune și răspunsuri
 
@@ -35,7 +35,7 @@ Explorează întrebările frecvente pentru aplicația ta de mai jos pentru a în
 
 <div class="hx:w-full">
 
-{{% details title="De ce nu mă pot autentifica în pCloud pe o versiune mai veche de iOS (15.8.4)?" closed="true" %}}
+{{% ls-details title="De ce nu mă pot autentifica în pCloud pe o versiune mai veche de iOS (15.8.4)?" closed="true" %}}
 Pagina de autentificare web pCloud poate să nu se afișeze corect pe versiunile mai vechi de iOS, cum ar fi 15.8.4, ceea ce împiedică introducerea adresei de e-mail și a parolei în ecranul de conectare la cloud.<br><br>
 
 Ca soluție alternativă, poți folosi protocolul **WebDAV**, care este acceptat de pCloud și funcționează fiabil pe toate versiunile de iOS.
@@ -49,9 +49,9 @@ Ca soluție alternativă, poți folosi protocolul **WebDAV**, care este acceptat
 Deschide aplicația → Conexiuni → Conectare la stocare cloud → Alege **WebDAV** → Introdu datele de autentificare și URL-ul serverului.
 
 Această metodă îți va permite să te conectezi la stocarea pCloud și să ai acces la fișierele tale fără probleme pe dispozitivele mai vechi.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Cum să redai muzică prin AirPlay de pe Mac (macOS)?" closed="true" %}}
+{{% ls-details title="Cum să redai muzică prin AirPlay de pe Mac (macOS)?" closed="true" %}}
 Versiunea macOS a aplicației nu include butoane de conectare AirPlay, Chromecast sau Bluetooth integrate, ca pe iOS.<br><br>
 
 Pentru a utiliza **AirPlay** pe MacBook Pro, urmează acești pași:
@@ -62,9 +62,9 @@ Pentru a utiliza **AirPlay** pe MacBook Pro, urmează acești pași:
 4. Selectează dispozitivul dorit pentru a începe să transmiți muzica.  
 
 Aceasta va redirecționa tot sunetul sistemului (inclusiv din Evermusic sau Flacbox) către dispozitivul AirPlay ales.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="De ce achiziția mea Premium nu este activată pe Mac dacă am cumpărat-o pe iPhone?" closed="true" %}}
+{{% ls-details title="De ce achiziția mea Premium nu este activată pe Mac dacă am cumpărat-o pe iPhone?" closed="true" %}}
 Achizițiile pe viață și abonamentele sunt sincronizate între iOS și Mac prin **iCloud**.<br><br>
 
 Pentru a activa Premium pe Mac:<br>
@@ -76,9 +76,9 @@ Pentru a activa Premium pe Mac:<br>
 - Alternativ, apasă **Restaurare achiziții** în setările aplicației pe ambele dispozitive<br><br>
 
 Funcțiile Premium ar trebui să se activeze apoi automat pe Mac.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Cum pot sincroniza automat listele de redare între dispozitive?" closed="true" %}}
+{{% ls-details title="Cum pot sincroniza automat listele de redare între dispozitive?" closed="true" %}}
 În prezent **nu există sincronizare automată** pentru listele de redare.<br><br>
 
 Poți folosi una din următoarele opțiuni:<br>
@@ -88,9 +88,9 @@ Poți folosi una din următoarele opțiuni:<br>
   - [Cum să importați listele de redare](/docs/howto/how-to-import-m3u-playlist-to-evermusic-and-flacbox/)<br>
 - **Arhivați lista de redare sau albumele** și transferați prin ZIP:<br>
   - [Ghid arhivare liste de redare](/docs/howto/how-to-archive-zip-playlists-albums-artists-and-genres-in-evermusic-flacbox-and-transfer-to/)
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Este sigur să folosești aplicațiile tale? Pot dezactiva analiza?" closed="true" %}}
+{{% ls-details title="Este sigur să folosești aplicațiile tale? Pot dezactiva analiza?" closed="true" %}}
 Da, confidențialitatea ta este prioritatea noastră principală.<br><br>
 
 - Toate datele — fișiere muzicale, setări, autentificări cloud — rămân pe dispozitivul tău<br>
@@ -104,18 +104,18 @@ Mai multe informații:<br>
 
 Dacă utilizezi reclame personalizate, Google Mobile Ads necesită afișarea setărilor de consimțământ.<br>
 Utilizatorii Premium nu văd reclame, iar SDK-ul de reclame este complet dezactivat.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Aplicațiile tale acceptă Partajarea familiei?" closed="true" %}}
+{{% ls-details title="Aplicațiile tale acceptă Partajarea familiei?" closed="true" %}}
 Da, Partajarea familiei este acceptată.<br><br>
 
 Pentru a partaja achizițiile din aplicație:<br>
 - Asigură-te că achiziția este setată să fie partajată cu grupul tău familial<br>
 - Pe dispozitivul membrului familiei, mergi la **Setări > Achiziții > Restaurare achiziții**<br>
 - Aceasta va solicita datele de achiziție de la serverele Apple și le va activa pe dispozitivul lor
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Cum să accelerezi metadatele și sincronizarea cloud?" closed="true" %}}
+{{% ls-details title="Cum să accelerezi metadatele și sincronizarea cloud?" closed="true" %}}
 Pentru a îmbunătăți viteza de sincronizare, activează sarcinile de fundal:<br><br>
 
 - **Setări → Biblioteca muzicală → Citire metadate → Citire metadate în fundal**<br>
@@ -123,14 +123,14 @@ Pentru a îmbunătăți viteza de sincronizare, activează sarcinile de fundal:<
 
 De asemenea, pe macOS, crește viteza de citire a metadatelor prin **Setări → Biblioteca muzicală**.<br>
 Dacă playerul este activ (redare audio), iOS nu va suspenda aplicația, permițând sincronizarea continuă.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Cum pot anula abonamentul meu?" closed="true" %}}
+{{% ls-details title="Cum pot anula abonamentul meu?" closed="true" %}}
 Poți anula abonamentul urmând instrucțiunile oficiale Apple:<br>
 👉 [Cum să anulezi un abonament](https://support.apple.com/en-us/118428)
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Cum să mă conectez și să transmit audio de la WD MyCloud EX2 Ultra?" closed="true" %}}
+{{% ls-details title="Cum să mă conectez și să transmit audio de la WD MyCloud EX2 Ultra?" closed="true" %}}
 
 Când adaugi o conexiune în aplicație prin **Conexiuni > Conectare la stocare cloud > My Cloud Home**, aceasta este proiectată oficial pentru a suporta dispozitivele **WD MyCloud Home**.<br>
 WD MyCloud EX2 Ultra folosește acces restricționat pentru aplicații.<br><br>
@@ -144,16 +144,16 @@ Cu toate acestea, dacă te-ai conectat cu succes la un **WD MyCloud EX2 Ultra**,
 5. Acum poți să le transmiti sau să le descarci direct<br><br>
 
 ⚠️ Doar dosarele create prin aplicație vor fi accesibile de pe NAS.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Cum să mă conectez la Koofr.eu?" closed="true" %}}
+{{% ls-details title="Cum să mă conectez la Koofr.eu?" closed="true" %}}
 Poți conecta Koofr folosind **WebDAV**.<br><br>
 
 - Ghid de configurare Koofr WebDAV: [blog koofr.eu](https://koofr.eu/blog/posts/3-ways-to-map-koofr-as-a-network-drive-explained)<br>
 - Ghid WebDAV Evermusic/Flacbox: [Cum să conectezi stocarea NAS folosind WebDAV și să asculți muzică pe iPhone sau Mac](/docs/howto/how-to-connect-nas-storage-using-webdav-and-listen-to-music-on-your-iphone-or-mac/)
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Care sunt schemele URL ale aplicației?" closed="true" %}}
+{{% ls-details title="Care sunt schemele URL ale aplicației?" closed="true" %}}
 Iată schemele acceptate:<br><br>
 
 **Evermusic**<br>
@@ -172,35 +172,35 @@ Iată schemele acceptate:<br><br>
 **Evervideo**<br>
 - iOS: `lsevervideo://`<br>
 - macOS: `lsevervideomac://`
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Muzica se oprește din redare când aplicația este în fundal — cum să rezolv?" closed="true" %}}
+{{% ls-details title="Muzica se oprește din redare când aplicația este în fundal — cum să rezolv?" closed="true" %}}
 Dacă aplicația se blochează sau se oprește în fundal:<br>
 - Mergi la **Setări > Biblioteca muzicală > Sincronizare muzică online > Sincronizare în fundal → Dezactivare**<br>
 - **Setări > Biblioteca muzicală > Citire metadate > Citire metadate în fundal → Dezactivare**<br>
 - **Setări > Manager fișiere > Transferuri în fundal → Dezactivare**
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Redarea fără pauze nu funcționează — cum să rezolv?" closed="true" %}}
+{{% ls-details title="Redarea fără pauze nu funcționează — cum să rezolv?" closed="true" %}}
 Redarea fără pauze depinde de versiunea iOS și de motorul audio.<br>
 Încearcă să schimbi motorul audio:<br>
 - Mergi la **Setări → Player audio → General → Procesor audio**<br>
 - Selectează **Core Audio** pentru suport mai bun fără pauze
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="De ce aplicația afișează doar 100 de elemente într-o listă?" closed="true" %}}
+{{% ls-details title="De ce aplicația afișează doar 100 de elemente într-o listă?" closed="true" %}}
 Aplicația folosește paginare pentru performanță.<br>
 Pentru a o dezactiva:<br>
 - Mergi la **Setări → Personalizare → Limită de încărcare a conținutului → Dezactivat**<br>
 Acum toate elementele se vor încărca dintr-o dată.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="De ce există caractere ciudate în metadate?" closed="true" %}}
+{{% ls-details title="De ce există caractere ciudate în metadate?" closed="true" %}}
 Încearcă să activezi normalizarea metadatelor:<br>
 - **Setări → Biblioteca muzicală → Citire metadate → Normalizare codificare metadate**
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="De ce aplicația nu poate citi numele dosarelor cu caractere speciale?" closed="true" %}}
+{{% ls-details title="De ce aplicația nu poate citi numele dosarelor cu caractere speciale?" closed="true" %}}
 Aceasta este o problemă cunoscută cu **protocolul SMB2**.<br><br>
 
 Încearcă următoarele soluții:<br>
@@ -210,9 +210,9 @@ Aceasta este o problemă cunoscută cu **protocolul SMB2**.<br><br>
   - Selectează dosarele/fișierele folosind meniul nativ Apple<br><br>
 
 Alternativ, conectează-te folosind **WebDAV** sau **DLNA** dacă NAS-ul tău le acceptă.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Cum să încarci și să gestionezi muzica în iCloud?" closed="true" %}}
+{{% ls-details title="Cum să încarci și să gestionezi muzica în iCloud?" closed="true" %}}
 – **Cum încarc muzică în iCloud?**  <br>
 Accesează [https://www.icloud.com](https://www.icloud.com) în browser, creează un dosar și încarcă fișierele muzicale direct de pe Mac sau PC.<br>
 
@@ -225,9 +225,9 @@ Ai două opțiuni:  <br>
 
 Află mai multe aici: [Cum să transmiți muzică din iCloud Drive pe iPhone sau Mac](/docs/howto/how-to-listen-to-music-from-icloud-drive-on-your-iphone-or-mac/)
 
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Cum să transfer biblioteca mea muzicală de 10 GB din Windows 11 pe iPhone pentru redare offline?" closed="true" %}}
+{{% ls-details title="Cum să transfer biblioteca mea muzicală de 10 GB din Windows 11 pe iPhone pentru redare offline?" closed="true" %}}
 
 Ai mai multe opțiuni fiabile pentru a muta biblioteca muzicală de pe PC-ul cu Windows 11 pe iPhone și a o folosi offline în aplicație. Alege metoda care funcționează cel mai bine pentru tine:
 
@@ -253,6 +253,6 @@ Ai mai multe opțiuni fiabile pentru a muta biblioteca muzicală de pe PC-ul cu 
 
 ⚠️ Când transferi biblioteci mari (10 GB+), un transfer USB cu cablu este de obicei cea mai rapidă și mai stabilă opțiune.
 
-{{% /details %}}
+{{% /ls-details %}}
 
 </div>

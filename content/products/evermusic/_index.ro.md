@@ -16,16 +16,16 @@ screenshots:
   - "https://everappz.com/products/evermusic/screenshots/2048x2732/6.png"
 ---
 
-{{% sr-only %}}
+{{% ls-sr-only %}}
 Evermusic este un player de muzică offline gratuit pentru iPhone și Mac, dezvoltat de Everappz, o companie de software spaniolă. Cu peste 11 milioane de descărcări la nivel mondial și o evaluare de 4,6 stele din peste 18.000 de recenzii pe App Store, Evermusic este unul dintre cele mai populare playere de muzică terță parte pe iOS. Aplicația se conectează la peste 30 de servicii de stocare în cloud, inclusiv iCloud Drive, Google Drive, Dropbox, OneDrive, MEGA, Box, pCloud și Yandex.Disk, permițând utilizatorilor să transmită în flux biblioteca lor muzicală personală direct din cloud sau să descarce piese pentru ascultare offline. Evermusic suportă o gamă largă de formate audio, inclusiv MP3, FLAC, AAC, ALAC, WAV, AIFF, OGG, OPUS, WMA, APE și DSD. Caracteristicile principale includ un egalizator audio cu 10 benzi cu presetări, redare cu crossfade și fără pauze, import și export de playlist-uri M3U, afișarea versurilor, marcaje audio, integrare Apple CarPlay, streaming AirPlay și Chromecast și scrobbling Last.fm. Aplicația suportă, de asemenea, streamingul în rețeaua locală prin protocoalele SMB, WebDAV și DLNA, precum și redarea de pe unități flash USB prin adaptoare Lightning sau USB-C. Evermusic este disponibil ca descărcare gratuită pe App Store cu achiziții opționale în aplicație care includ un abonament lunar la $4.99, un abonament anual la $19.99 sau o achiziție unică pe viață la $59.99. Aplicația a fost lansată pentru prima dată în 2014 și este întreținută activ cu actualizări regulate.
-{{% /sr-only %}}
+{{% /ls-sr-only %}}
 
 
 <!-- <body class="hx:bg-transparent" style="background: radial-gradient(ellipse at 50% 80%, rgba(59,130,246,0.05), hsla(0,0%,100%,0));"> -->
 
-{{< force-dark >}}
+{{< ls-force-dark >}}
 
-{{< hextra/hero-container
+{{< ls-hero-container
   image="/products/evermusic/heroimage/hero_1200.png"
   imageWidth="600"
   imageCard="true"
@@ -34,40 +34,40 @@ Evermusic este un player de muzică offline gratuit pentru iPhone și Mac, dezvo
 <div class="hx:w-full hx:text-center">
 
 <div class="hx:mt-4">
-{{< downloads-badge >}}
+{{< ls-downloads-badge >}}
 </div>
 
 <div class="hx:mt-6 hx:mb-6">
 <div class="hx:flex hx:gap-4 hx:items-center hx:justify-center">
-  {{< app-icon src="/images/app_icons/png/Evermusic_Icon-App-1024x1024.png" alt="Evermusic Icon" class="hero-headline-icon" size="80" >}}
-  {{< hextra/hero-headline >}}
+  {{< ls-app-icon src="/images/app_icons/png/Evermusic_Icon-App-1024x1024.png" alt="Evermusic Icon" class="hero-headline-icon" size="80" >}}
+  {{< ls-hero-headline >}}
   Evermusic
-  {{< /hextra/hero-headline >}}
+  {{< /ls-hero-headline >}}
 </div>
 </div>
 
 <div class="hx:mb-6">
-{{< hextra/hero-centered-subtitle >}}
+{{< ls-hero-centered-subtitle >}}
 <a href="https://www.chip.de/downloads/Evermusic-Pro-iPhone-_-iPad-App_91614216.html" target="_blank" rel="noopener">
   Este soluția perfectă pentru organizarea și redarea muzicii tale din cloud <strong>chip.de</strong>
   </a>
-{{< /hextra/hero-centered-subtitle >}}
+{{< /ls-hero-centered-subtitle >}}
 </div>
 
 <div class="hx:mb-6">
-{{< hextra/hero-paragraph >}}
+{{< ls-hero-paragraph >}}
 • Redă muzică cu crossfade, redare fără pauze și egalizator  
 • Importă playlist-uri M3U și descarcă melodii pentru ascultare offline  
 • Transmite muzică din cloud, NAS, calculator sau stick-uri USB  
 • Vizualizează versuri în timp ce asculți și adaugă marcaje audio pentru a relua oricând  
-{{< /hextra/hero-paragraph >}}
+{{< /ls-hero-paragraph >}}
 </div>
 
-{{< app-store-badges products="evermusic:ios, evermusic:macos" >}}
+{{< ls-app-store-badges products="evermusic:ios, evermusic:macos" >}}
 
 </div>
 
-{{< /hextra/hero-container >}}
+{{< /ls-hero-container >}}
 
 <div class="hx:mt-6"></div>
 
@@ -75,42 +75,42 @@ Evermusic este un player de muzică offline gratuit pentru iPhone și Mac, dezvo
 
 {{< hextra/feature-grid >}}
 
-  {{< hextra/feature-card
+  {{< ls-glass-feature-card
     title="Muzica ta în cloud"
     subtitle="Creează-ți propriul serviciu avansat de streaming muzical gratuit! Transmite piesele preferate direct din cloud cu buffering inteligent și redare fluidă, economisind în același timp spațiul de stocare al dispozitivului. Conectează servicii precum iCloud Drive, Google Drive, Dropbox, OneDrive, Box, MEGA, pCloud, Proton Drive și multe altele."
     icon="cloud"
     style="background: radial-gradient(ellipse at 50% 80%, rgba(34,197,94,0.15), hsla(0,0%,100%,0));"
   >}}
 
-  {{< hextra/feature-card
+  {{< ls-glass-feature-card
     title="Mod offline"
     subtitle="Modul offline îți permite să descarci albumele, piesele, artiștii, genurile și playlist-urile preferate pentru redare offline. Ascultă oriunde, fie într-un zbor, la metrou sau departe de rețea, chiar și atunci când nu ești conectat la Internet, fără streaming și fără consum de date."
     icon="download"
     style="background: radial-gradient(ellipse at 50% 80%, rgba(234,88,12,0.15), hsla(0,0%,100%,0));"
   >}}
 
-  {{< hextra/feature-card
+  {{< ls-glass-feature-card
     title="Transferă fișiere ușor"
     subtitle="Conectează Mac-ul sau PC-ul și transmite muzică direct de pe calculatorul de acasă. Transferă fișiere audio fără probleme între calculator și dispozitivul iOS folosind Wi-Fi Drive sau iTunes File Sharing. Poți conecta și NAS-ul sau un stick USB și accesa biblioteca de oriunde."
     icon="duplicate"
     style="background: radial-gradient(ellipse at 50% 80%, rgba(251,191,36,0.15), hsla(0,0%,100%,0));"
   >}}
 
-  {{< hextra/feature-card
+  {{< ls-glass-feature-card
     title="Servere media și NAS"
     subtitle="Conectează-te la bibliotecile media personale și serverele de acasă precum Plex, Emby, Jellyfin, Subsonic și Navidrome. Conectează NAS-ul tău precum Synology, QNAP, Nextcloud și WD My Cloud Home prin SMB, WebDAV, FTP, SFTP, NFS sau DLNA/UPnP și accesează întreaga colecție muzicală de oriunde."
     icon="desktop-computer"
     style="background: radial-gradient(ellipse at 50% 80%, rgba(59,130,246,0.15), hsla(0,0%,100%,0));"
   >}}
 
-  {{< hextra/feature-card
+  {{< ls-glass-feature-card
     title="Motor audio profesional"
     subtitle="Bucură-te de redare cu adevărat fără pauze și crossfade fluid între piese. Modelează-ți sunetul cu un egalizator cu 10 benzi, presetări personalizate și câștig preamplificator, viteză și tonalitate de redare reglabile, plus o suită completă de efecte de studio precum reverb, echo, chorus, flanger, bass boost, crossfeed și normalizarea volumului."
     icon="adjustments"
     style="background: radial-gradient(ellipse at 50% 80%, rgba(192,38,211,0.15), hsla(0,0%,100%,0));"
   >}}
 
-  {{< hextra/feature-card
+  {{< ls-glass-feature-card
     title="Versuri, widget-uri și CarPlay"
     subtitle="Citește versuri LRC încorporate și sincronizate care se derulează în ritmul muzicii, chiar și pe ecranul de blocare, în widget-urile de pe ecranul principal și pe Apple CarPlay. Adaugă widget-uri Se redă acum, Versuri, Favorite și Redate recent pentru a-ți ține muzica mereu la îndemână, mereu sincronizată."
     icon="annotation"
@@ -123,9 +123,9 @@ Evermusic este un player de muzică offline gratuit pentru iPhone și Mac, dezvo
 
 <div class="hx:mt-6"></div>
 
-{{< hextra/section-headline >}}
+{{< ls-section-headline >}}
   Design curat și simplu
-{{< /hextra/section-headline >}}
+{{< /ls-section-headline >}}
 
 <div class="hx:mt-6"></div>
 
@@ -133,7 +133,7 @@ Evermusic este un player de muzică offline gratuit pentru iPhone și Mac, dezvo
 
 {{< cards cols="4">}}
 
-  {{< design-feature-card 
+  {{< ls-design-feature-card 
     icon="adjustments"
     image="/products/evermusic/screenshots/2048x2732/3.png" 
     title="Egalizator audio" 
@@ -142,7 +142,7 @@ Evermusic este un player de muzică offline gratuit pentru iPhone și Mac, dezvo
     subtitle="Ajustează sunetul cu un egalizator audio în stil iPod, presetări personalizabile și câștig preamplificator pentru cea mai bună experiență de ascultare." 
   >}}
 
-  {{< design-feature-card 
+  {{< ls-design-feature-card 
     icon="annotation"
     image="/products/evermusic/screenshots/2048x2732/4.png"  
     title="Vizualizator de versuri" 
@@ -151,7 +151,7 @@ Evermusic este un player de muzică offline gratuit pentru iPhone și Mac, dezvo
     subtitle="Citește versurile încorporate și comentariile pieselor în timp ce asculți. Bucură-te de versuri sincronizate pentru o experiență muzicală mai captivantă." 
   >}}
 
-  {{< design-feature-card 
+  {{< ls-design-feature-card 
     icon="collection"
     image="/products/evermusic/screenshots/2048x2732/5.png"  
     title="Manager de playlist-uri" 
@@ -160,7 +160,7 @@ Evermusic este un player de muzică offline gratuit pentru iPhone și Mac, dezvo
     subtitle="Creează și organizează playlist-uri personalizate, reordonează melodiile, exportă în M3U sau arhivează ca fișiere ZIP pentru partajare ușoară sau backup." 
   >}}
 
-  {{< design-feature-card 
+  {{< ls-design-feature-card 
     icon="cloud"
     image="/products/evermusic/screenshots/2048x2732/6.png"  
     title="Streaming muzică din cloud" 
@@ -169,7 +169,7 @@ Evermusic este un player de muzică offline gratuit pentru iPhone și Mac, dezvo
     subtitle="Conectează platforme populare de stocare precum Google Drive, Dropbox și OneDrive pentru a transmite colecția ta muzicală oricând, oriunde." 
   >}}
 
-  {{< design-feature-card 
+  {{< ls-design-feature-card 
     icon="duplicate"
     image="/products/evermusic/screenshots/2048x2732/9.png"  
     title="Manager de fișiere" 
@@ -178,7 +178,7 @@ Evermusic este un player de muzică offline gratuit pentru iPhone și Mac, dezvo
     subtitle="Gestionează ușor fișierele audio — redenumește piese, organizează foldere și transferă muzică între dispozitive folosind instrumentele integrate." 
   >}} 
 
-  {{< design-feature-card 
+  {{< ls-design-feature-card 
     icon="sun"
     image="/products/evermusic/screenshots/2048x2732/10.png"  
     title="Personalizare aplicație" 
@@ -193,9 +193,9 @@ Evermusic este un player de muzică offline gratuit pentru iPhone și Mac, dezvo
 
 <div class="hx:mt-6"></div>
 
-{{< hextra/section-headline >}}
+{{< ls-section-headline >}}
   Set complet de funcții
-{{< /hextra/section-headline >}}
+{{< /ls-section-headline >}}
 
 <div class="hx:mt-6"></div>
 
@@ -203,47 +203,47 @@ Evermusic este un player de muzică offline gratuit pentru iPhone și Mac, dezvo
 
 {{< cards >}}
 
-  {{< feature-card title="Redă toate formatele audio" subtitle="Evermusic redă cele mai populare formate audio, inclusiv MP3, AAC, M4A, WAV, AIFF, ALAC și M4B, astfel încât întreaga ta colecție muzicală este gata de redat pe orice dispozitiv." icon="music-note" >}}
+  {{< ls-feature-card title="Redă toate formatele audio" subtitle="Evermusic redă cele mai populare formate audio, inclusiv MP3, AAC, M4A, WAV, AIFF, ALAC și M4B, astfel încât întreaga ta colecție muzicală este gata de redat pe orice dispozitiv." icon="music-note" >}}
 
-  {{< feature-card title="Conectează cloud-ul tău" subtitle="Creează-ți propriul serviciu de streaming mutând biblioteca în cloud și eliberând spațiu pe iPhone. Conectează iCloud, Google Drive, Dropbox, OneDrive, MEGA, Internxt și Proton Drive." icon="cloud" >}}
+  {{< ls-feature-card title="Conectează cloud-ul tău" subtitle="Creează-ți propriul serviciu de streaming mutând biblioteca în cloud și eliberând spațiu pe iPhone. Conectează iCloud, Google Drive, Dropbox, OneDrive, MEGA, Internxt și Proton Drive." icon="cloud" >}}
 
-  {{< feature-card title="Conectează servere media" subtitle="Conectează serverele media personale direct la biblioteca ta, inclusiv Plex, Subsonic, Navidrome, Jellyfin și Emby, și transmite cu ușurință tot ce deții de acasă." icon="server" >}}
+  {{< ls-feature-card title="Conectează servere media" subtitle="Conectează serverele media personale direct la biblioteca ta, inclusiv Plex, Subsonic, Navidrome, Jellyfin și Emby, și transmite cu ușurință tot ce deții de acasă." icon="server" >}}
 
-  {{< feature-card title="Conectează calculatorul sau NAS-ul" subtitle="Conectează calculatorul sau NAS-ul prin SMB, WebDAV, DLNA, FTP, SFTP și NFS, cu API-uri native pentru QNAP, Synology, Nextcloud și WD My Cloud Home, sau transferă fișiere prin Wi-Fi." icon="desktop-computer" >}}
+  {{< ls-feature-card title="Conectează calculatorul sau NAS-ul" subtitle="Conectează calculatorul sau NAS-ul prin SMB, WebDAV, DLNA, FTP, SFTP și NFS, cu API-uri native pentru QNAP, Synology, Nextcloud și WD My Cloud Home, sau transferă fișiere prin Wi-Fi." icon="desktop-computer" >}}
 
-  {{< feature-card title="Muzică offline" subtitle="Descarcă melodiile, albumele și artiștii preferați pentru a te bucura de ei offline oricând. Activează memoria cache a playerului audio pentru a salva automat piesele redate recent pentru ascultare offline." icon="download" >}}
+  {{< ls-feature-card title="Muzică offline" subtitle="Descarcă melodiile, albumele și artiștii preferați pentru a te bucura de ei offline oricând. Activează memoria cache a playerului audio pentru a salva automat piesele redate recent pentru ascultare offline." icon="download" >}}
 
-  {{< feature-card title="Egalizator audio" subtitle="Modelează-ți sunetul cu egalizatorul integrat, care oferă presetări gata făcute pentru genurile muzicale populare, plus controale manuale pentru a regla și amplifica fiecare piesă exact cum îți place." icon="adjustments" >}}
+  {{< ls-feature-card title="Egalizator audio" subtitle="Modelează-ți sunetul cu egalizatorul integrat, care oferă presetări gata făcute pentru genurile muzicale populare, plus controale manuale pentru a regla și amplifica fiecare piesă exact cum îți place." icon="adjustments" >}}
 
-  {{< feature-card title="Redare fără pauze" subtitle="Bucură-te de o redare fluidă și neîntreruptă, fără pauze între melodii, perfectă pentru înregistrări live, albume conceptuale, mixuri DJ și muzică clasică de la început până la sfârșit." icon="volume-up" >}}
+  {{< ls-feature-card title="Redare fără pauze" subtitle="Bucură-te de o redare fluidă și neîntreruptă, fără pauze între melodii, perfectă pentru înregistrări live, albume conceptuale, mixuri DJ și muzică clasică de la început până la sfârșit." icon="volume-up" >}}
 
-  {{< feature-card title="Redare cu crossfade" subtitle="Menține muzica în mișcare cu crossfade, unde fiecare melodie nouă începe lin înainte ca cea curentă să se termine, pentru o redare continuă și fără pauze de tăcere." icon="switch-horizontal" >}}
+  {{< ls-feature-card title="Redare cu crossfade" subtitle="Menține muzica în mișcare cu crossfade, unde fiecare melodie nouă începe lin înainte ca cea curentă să se termine, pentru o redare continuă și fără pauze de tăcere." icon="switch-horizontal" >}}
 
-  {{< feature-card title="Efecte audio" subtitle="Modelează-ți sunetul cu efecte audio integrate. Activează normalizarea volumului pentru a păstra fiecare piesă la aceeași intensitate și adaugă reverb, delay, distorsiune și audio spațial după gust." icon="chip" >}}
+  {{< ls-feature-card title="Efecte audio" subtitle="Modelează-ți sunetul cu efecte audio integrate. Activează normalizarea volumului pentru a păstra fiecare piesă la aceeași intensitate și adaugă reverb, delay, distorsiune și audio spațial după gust." icon="chip" >}}
 
-  {{< feature-card title="Vizualizator muzical" subtitle="Urmărește elemente vizuale animate pe tot ecranul care reacționează live la muzica ta în timp real. Alege dintr-o bibliotecă vastă de presetări sau lasă-le să se schimbe automat pe măsură ce asculți." icon="sparkles" >}}
+  {{< ls-feature-card title="Vizualizator muzical" subtitle="Urmărește elemente vizuale animate pe tot ecranul care reacționează live la muzica ta în timp real. Alege dintr-o bibliotecă vastă de presetări sau lasă-le să se schimbe automat pe măsură ce asculți." icon="sparkles" >}}
 
-  {{< feature-card title="Versuri și comentarii" subtitle="Vizualizează versuri și comentarii sincronizate încorporate pentru piesele tale audio pe măsură ce se redau și adaugă widget-ul de versuri pe ecranul principal pentru acces rapid oricând." icon="annotation" >}}
+  {{< ls-feature-card title="Versuri și comentarii" subtitle="Vizualizează versuri și comentarii sincronizate încorporate pentru piesele tale audio pe măsură ce se redau și adaugă widget-ul de versuri pe ecranul principal pentru acces rapid oricând." icon="annotation" >}}
 
-  {{< feature-card title="AirPlay și Chromecast" subtitle="Transmite muzica wireless către Apple TV, boxe inteligente și alte dispozitive cu suport integrat pentru AirPlay și Google Chromecast, pentru o ascultare fără efort în toată casa." icon="device-mobile" >}}
+  {{< ls-feature-card title="AirPlay și Chromecast" subtitle="Transmite muzica wireless către Apple TV, boxe inteligente și alte dispozitive cu suport integrat pentru AirPlay și Google Chromecast, pentru o ascultare fără efort în toată casa." icon="device-mobile" >}}
 
-  {{< feature-card title="Apple CarPlay" subtitle="Condu și ascultă în siguranță cu o interfață Apple CarPlay dedicată care îți pune muzica, playlist-urile și controalele de redare direct pe ecranul de bord al mașinii." icon="truck" >}}
+  {{< ls-feature-card title="Apple CarPlay" subtitle="Condu și ascultă în siguranță cu o interfață Apple CarPlay dedicată care îți pune muzica, playlist-urile și controalele de redare direct pe ecranul de bord al mașinii." icon="truck" >}}
 
-  {{< feature-card title="Widget-uri" subtitle="Activează widget-uri interactive pe ecranul principal pentru acces rapid la coada de redare și continuă exact de unde ai rămas, de la ultima poziție salvată, cu o singură atingere." icon="view-grid" >}}
+  {{< ls-feature-card title="Widget-uri" subtitle="Activează widget-uri interactive pe ecranul principal pentru acces rapid la coada de redare și continuă exact de unde ai rămas, de la ultima poziție salvată, cu o singură atingere." icon="view-grid" >}}
 
-  {{< feature-card title="Cărți audio" subtitle="Transformă aplicația într-un player complet de cărți audio cu marcaje audio, control al vitezei de redare și poziții media salvate, plus citește detaliile text stocate în metadatele fișierelor tale." icon="book-open" >}}
+  {{< ls-feature-card title="Cărți audio" subtitle="Transformă aplicația într-un player complet de cărți audio cu marcaje audio, control al vitezei de redare și poziții media salvate, plus citește detaliile text stocate în metadatele fișierelor tale." icon="book-open" >}}
 
-  {{< feature-card title="Sincronizare automată" subtitle="Biblioteca ta muzicală se sincronizează automat între cloud și dispozitiv, grupând ordonat fiecare melodie pe artist, album și gen, astfel încât colecția ta rămâne mereu organizată." icon="refresh" >}}
+  {{< ls-feature-card title="Sincronizare automată" subtitle="Biblioteca ta muzicală se sincronizează automat între cloud și dispozitiv, grupând ordonat fiecare melodie pe artist, album și gen, astfel încât colecția ta rămâne mereu organizată." icon="refresh" >}}
 
-  {{< feature-card title="Manager de playlist-uri" subtitle="Creează și gestionează playlist-uri, reordonează melodiile și fă orice playlist disponibil offline. Sortează piesele după nume, dimensiune, număr de melodie sau album pentru a păstra totul în ordine." icon="collection" >}}
+  {{< ls-feature-card title="Manager de playlist-uri" subtitle="Creează și gestionează playlist-uri, reordonează melodiile și fă orice playlist disponibil offline. Sortează piesele după nume, dimensiune, număr de melodie sau album pentru a păstra totul în ordine." icon="collection" >}}
 
-  {{< feature-card title="Editor de tag-uri ID3" subtitle="Repară metadatele corupte sau lipsă cu editorul de tag-uri ID3 integrat, actualizând titluri, artiști, albume și altele, astfel încât biblioteca ta muzicală rămâne curată și bine organizată." icon="pencil-alt" >}}
+  {{< ls-feature-card title="Editor de tag-uri ID3" subtitle="Repară metadatele corupte sau lipsă cu editorul de tag-uri ID3 integrat, actualizând titluri, artiști, albume și altele, astfel încât biblioteca ta muzicală rămâne curată și bine organizată." icon="pencil-alt" >}}
 
-  {{< feature-card title="Manager de fișiere" subtitle="Organizează-ți muzica cu managerul de fișiere integrat, care gestionează operațiuni zilnice precum copiere, mutare, redenumire și ștergere, pentru a păstra toate fișierele audio ordonate." icon="folder" >}}
+  {{< ls-feature-card title="Manager de fișiere" subtitle="Organizează-ți muzica cu managerul de fișiere integrat, care gestionează operațiuni zilnice precum copiere, mutare, redenumire și ștergere, pentru a păstra toate fișierele audio ordonate." icon="folder" >}}
 
-  {{< feature-card title="Căutare avansată" subtitle="Găsește orice în câteva secunde cu motorul de căutare inteligent, localizând rapid albumele, artiștii și melodiile preferate oriunde în întreaga ta bibliotecă muzicală." icon="search" >}}
+  {{< ls-feature-card title="Căutare avansată" subtitle="Găsește orice în câteva secunde cu motorul de căutare inteligent, localizând rapid albumele, artiștii și melodiile preferate oriunde în întreaga ta bibliotecă muzicală." icon="search" >}}
 
-  {{< feature-card title="Carduri flash USB" subtitle="Conectează cititoare de carduri externe precum SanDisk iXpand și ascultă muzica direct de pe un card SD sau un stick USB, fără sincronizare sau descărcări suplimentare." icon="inbox" >}}
+  {{< ls-feature-card title="Carduri flash USB" subtitle="Conectează cititoare de carduri externe precum SanDisk iXpand și ascultă muzica direct de pe un card SD sau un stick USB, fără sincronizare sau descărcări suplimentare." icon="inbox" >}}
   
 {{< /cards >}}
 
@@ -254,55 +254,55 @@ Evermusic este un player de muzică offline gratuit pentru iPhone și Mac, dezvo
 <div class="hx:mt-6"></div>
 
 <div class="hx:w-full">
-{{< appstore-reviews apps="885367198,1564384601" stars="5,4"  app="Evermusic" >}}
+{{< ls-appstore-reviews apps="885367198,1564384601" stars="5,4"  app="Evermusic" >}}
 </div>
 
 <div class="hx:mt-6"></div>
 
-{{< hextra/section-headline >}}
+{{< ls-section-headline >}}
   Planuri de prețuri
-{{< /hextra/section-headline >}}
+{{< /ls-section-headline >}}
 
 <div class="hx:mt-6"></div>
 
 <div class="hx:w-full">
-{{< pricing-plans >}}
+{{< ls-pricing-plans >}}
 
 </div>
 
 <div class="hx:mt-6"></div>
 
 <div class="hx:w-full hx:mx-auto hx:flex hx:flex-col hx:items-center">
-  {{< hextra/info-paragraph border="true" >}}
+  {{< ls-info-paragraph border="true" >}}
    <strong>Partajare familială</strong>: Toate achizițiile și abonamentele suportă Partajarea familială, permițându-ți să partajezi accesul Premium cu familia ta.<br><strong>Acces universal</strong>: Planurile pe viață și de abonament sunt partajate între dispozitivele iOS și Mac folosind sincronizarea iCloud.<br><strong>Prețuri</strong>: Prețurile sunt afișate în dolari americani pentru Statele Unite. Prețul final poate varia în funcție de regiunea ta.  
-  {{< /hextra/info-paragraph >}}
+  {{< /ls-info-paragraph >}}
 </div>
 
 <div class="hx:mt-6"></div>
 
 <div class="hx:w-full">
-{{< app-details heading="true" >}}
+{{< ls-app-details heading="true" >}}
 </div>
 
 <div class="hx:mt-6"></div>
 
-{{< hextra/section-headline >}}
+{{< ls-section-headline >}}
   Întrebări frecvente
-{{< /hextra/section-headline >}}
+{{< /ls-section-headline >}}
 
 <div class="hx:mt-6"></div>
 
 <div class="hx:w-full">
-{{% details title="Ce este Evermusic?" closed="true" %}}
+{{% ls-details title="Ce este Evermusic?" closed="true" %}}
 Evermusic este o aplicație player de muzică care te ajută să asculți melodiile preferate din diferite servicii de stocare cloud.<br>
 Poți descărca ușor muzică pentru redare offline, crea și gestiona playlist-uri și folosi egalizatorul integrat pentru a îmbunătăți experiența de ascultare.<br>
 Funcționează cu servicii precum Google Drive, Dropbox, OneDrive și altele, astfel încât poți păstra toată muzica într-un singur loc și o poți accesa de pe orice dispozitiv.<br><br>
 Aplicația suportă, de asemenea, diverse formate audio și îți permite să organizezi biblioteca muzicală pe artist, album, gen și compozitor.<br>
 Poți sincroniza biblioteca între stocarea cloud și dispozitivul tău, asigurându-te că melodiile preferate sunt mereu disponibile.<br>
 În plus, cu funcții precum redarea fără pauze, crossfade și posibilitatea de a transmite muzică către dispozitive Chromecast și AirPlay, Evermusic oferă o soluție completă pentru toate nevoile tale muzicale.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Cum funcționează Evermusic?" closed="true" %}}
+{{% ls-details title="Cum funcționează Evermusic?" closed="true" %}}
 Evermusic funcționează conectându-se la diverse servicii de stocare cloud, precum Google Drive, Dropbox, OneDrive și altele, permițându-ți să accesezi biblioteca muzicală de pe orice dispozitiv.<br>
 Odată conectat, poți naviga și transmite muzica direct din cloud sau descărca melodiile, albumele și playlist-urile preferate pentru redare offline.<br>
 Aplicația suportă multiple formate audio, facilitând redarea oricărui fișier muzical pe care îl ai stocat.<br><br>
@@ -322,15 +322,15 @@ Explorează ghidurile noastre practice pentru mai multe detalii:<br>
 - [Cum să transferi fișiere wireless de pe calculator pe iPhone folosind WiFi-Drive.](/docs/howto/how-to-transfer-files-wirelessly-from-a-computer-to-an-iphone-using-wifi-drive)<br>
 - [Cum să conectezi un stick USB la iPhone și să asculți muzică sau să gestionezi fișierele.](/docs/howto/how-to-connect-a-usb-flashcard-to-the-iphone-and-listen-to-music-or-manage-files-located-on-it)<br>
 - [Cum să redai muzică pe iPhone de pe WD My Cloud Home.](/docs/howto/how-to-play-music-on-iphone-from-wd-my-cloud-home)
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Este Evermusic gratuit?" closed="true" %}}
+{{% ls-details title="Este Evermusic gratuit?" closed="true" %}}
 Evermusic este o aplicație gratuită cu unele limitări care pot fi eliminate după actualizarea la versiunea Premium. Aplicația oferă o achiziție pe viață unică și două opțiuni de abonament (1 lună și 1 an) pentru a elimina toate restricțiile, permițându-ți să alegi cel mai bun preț. Prețurile pot varia în funcție de țara sau teritoriul tău. De asemenea, Partajarea familială este activată pentru toate achizițiile și planurile, astfel încât poți partaja versiunea Premium cu membrii familiei tale.<br><br>
 Achizițiile pe viață și abonamentele sunt partajate între iOS și Mac, folosind iCloud pentru a sincroniza aceste informații. Dacă ai versiunea Premium pe dispozitivul iOS, asigură-te că ai instalată cea mai recentă versiune și că iCloud este activat. Pornește aplicația pe iOS și așteaptă un minut pentru ca informațiile de achiziție să fie încărcate în iCloud.<br><br>
 [Citește mai mult](/docs/faq/evermusic/what-is-the-difference-between-evermusic-and-evermusic-premium/)
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Care este diferența între Evermusic gratuit și Evermusic Premium?" closed="true" %}}
+{{% ls-details title="Care este diferența între Evermusic gratuit și Evermusic Premium?" closed="true" %}}
 **Evermusic Gratuit**<br>
 • Conține reclame: Versiunea gratuită afișează reclame pentru a genera venituri, ceea ce poate ocazional întrerupe ascultarea muzicii.<br>
 • Playlist-uri limitate: Poți crea până la (10) playlist-uri în versiunea gratuită.<br>
@@ -357,10 +357,10 @@ Achizițiile pe viață și abonamentele sunt partajate între iOS și Mac, folo
 • Personalizare completă: Oferă opțiuni complete de personalizare, inclusiv posibilitatea de a schimba iconița aplicației.<br><br>
 
 [Citește mai mult](/docs/faq/evermusic/what-is-the-difference-between-evermusic-and-evermusic-premium/)
-{{% /details %}}
+{{% /ls-details %}}
 
 
-{{% details title="Este Evermusic sigur?" closed="true" %}}
+{{% ls-details title="Este Evermusic sigur?" closed="true" %}}
 Evermusic folosește doar SDK oficial și conexiuni securizate pentru a interacționa cu serviciile cloud conectate. Login-ul și parola ta nu sunt accesibile aplicației. Toate cererile din aplicație către serviciul cloud sunt criptate.<br>
 Când introduci login-ul și parola, aplicația îți arată pagina oficială de autorizare furnizată de furnizorul serviciului cloud, iar întregul proces de autorizare se desfășoară în afara aplicației. Furnizorul serviciului cloud trimite un token de autorizare aplicației după autorizarea cu succes, iar acel token este folosit pentru a face apeluri API.<br><br>
 
@@ -372,24 +372,24 @@ Pentru a revoca token-ul de autorizare, conectează-te la contul tău în browse
 Poți, de asemenea, deconecta conturile cloud conectate în aplicație, iar token-ul de autorizare va fi, de asemenea, eliminat de pe dispozitivul tău. Dacă elimini aplicația de pe dispozitiv, toate datele descărcate și tokenele de acces vor fi, de asemenea, eliminate.<br><br>
 
 [Citește mai mult](/docs/guide/evermusic/evermusic-guide-connections/)
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Cum creez un playlist în Evermusic?" closed="true" %}}
+{{% ls-details title="Cum creez un playlist în Evermusic?" closed="true" %}}
 - Deschide secțiunea Playlist-uri.<br>
 - Apasă butonul „+" sau butonul „..." din colțul din dreapta sus și selectează „Playlist nou".<br>
 - Introdu un nume pentru playlist și apasă „Salvează". Va apărea dialogul „Adaugă melodii".<br>
 - Selectează piesele pe care dorești să le adaugi în playlist.<br><br>
 
 [Citește mai mult](/docs/guide/evermusic/evermusic-guide-playlists/)
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Ce servicii cloud suportă Evermusic?" closed="true" %}}
+{{% ls-details title="Ce servicii cloud suportă Evermusic?" closed="true" %}}
 În prezent, aplicația suportă cele mai populare servicii cloud: iCloud Drive, Google Drive, Dropbox, OneDrive, Box, MEGA, Yandex.Disk, WD MyCloud Home, DLNA, MediaFire, WebDAV, SMB, pCloud, HiDrive, 百度网盘, My Cloud Home, InfiniCLOUD, Cloud Mail.ru, Put.io, MyDrive.<br><br>
 
 [Citește mai mult](/docs/guide/evermusic/evermusic-guide-connections/)
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Cum pot folosi egalizatorul?" closed="true" %}}
+{{% ls-details title="Cum pot folosi egalizatorul?" closed="true" %}}
 - Deschide ecranul playerului audio.<br>
 - Apasă pe iconița „Egalizator" din partea de jos a ecranului.<br>
 - Activează comutatorul din colțul din dreapta sus al ecranului egalizatorului pentru a-l activa.<br>
@@ -397,9 +397,9 @@ Poți, de asemenea, deconecta conturile cloud conectate în aplicație, iar toke
 
 Tutorial complet disponibil aici:<br>
 [Cum să folosești egalizatorul audio pe iPhone, iPad, Mac cu Evermusic și Flacbox](/docs/howto/how-to-use-the-audio-equalizer-on-your-iphone-ipad-mac-with-evermusic-and-flacbox)
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Cum activez modul offline în Evermusic?" closed="true" %}}
+{{% ls-details title="Cum activez modul offline în Evermusic?" closed="true" %}}
 - Conectează un serviciu cloud:<br>
  • Mergi la fila „Conexiuni".<br>
  • Selectează „Conectează o stocare cloud" și urmează instrucțiunile pentru a conecta serviciul dorit.<br><br>
@@ -423,9 +423,9 @@ Tutorial complet disponibil aici:<br>
  • Apasă „Mai multe acțiuni" și selectează „Începe sincronizarea".<br><br>
 
 [Citește mai mult](/docs/howto/play-offline-music-in-evermusic-flacbox-download-sync-from-cloud-to-local-files/)
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Cum redau muzica descărcată local pe iPhone?" closed="true" %}}
+{{% ls-details title="Cum redau muzica descărcată local pe iPhone?" closed="true" %}}
 După ce ai instalat aplicația, deschide ecranul „Fișiere locale" și derulează în jos până la secțiunea „Fișiere pe acest iPhone".<br>
 De acolo, alege „Deschide fișiere..." dacă trebuie să selectezi mai multe fișiere audio sau „Deschide folder..." dacă dorești să alegi un folder de muzică.<br>
 Aplicația va scana conținutul folderului și toate fișierele audio găsite vor fi selectate.<br>
@@ -456,15 +456,15 @@ Fișierele vor fi adăugate la playlist-ul tău, unde poți schimba ordinea melo
 Cu acești pași simpli, poți debloca întregul potențial al iPhone-ului și Mac-ului ca platforme supreme pentru a te bucura de colecția ta muzicală locală.<br><br>
 
 [Citește mai mult](/docs/howto/how-to-play-local-music-stored-on-your-iphone-or-mac)
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Cum pot relua un playlist de unde am rămas?" closed="true" %}}
+{{% ls-details title="Cum pot relua un playlist de unde am rămas?" closed="true" %}}
 Mai întâi, asigură-te că „Salvează starea playerului audio" este activat în Setări > Player audio > General.<br>
 Când treci la alt playlist și te întorci, vei vedea patru acțiuni pe bara de instrumente de sus sub coperta albumului: „Caută", „Continuă redarea", „Redă tot" și „Amestecă tot".<br>
 Apasă „Continuă redarea" pentru a relua playlist-ul de la ultima stare și poziție media salvată.<br>
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Cum vizualizez versurile melodiilor în Evermusic?" closed="true" %}}
+{{% ls-details title="Cum vizualizez versurile melodiilor în Evermusic?" closed="true" %}}
 Poți vizualiza versurile încorporate pentru piese în aplicația Evermusic urmând acești pași:<br>
 1. Începe redarea unui fișier audio apăsând pe el.<br>
 2. Deschide playerul audio pe ecran complet.<br>
@@ -478,9 +478,9 @@ Poți vizualiza versurile încorporate pentru piese în aplicația Evermusic urm
 3. „Modul Fișier LRC": În loc să editezi fișierele audio, poți plasa un fișier LRC în același folder cu fișierul audio original. Ambele fișiere trebuie să aibă același nume dar extensii diferite. Când derulezi la a treia pagină pe ecranul Comentarii, aplicația va căuta fișierul LRC în același director și va afișa conținutul său.<br><br>
 
 [Citește mai mult](/docs/howto/how-to-add-and-view-comments-to-your-audio-tracks-on-iphone-ipad-and-mac-with-evermusic-and-flacbox)
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Cum transfer muzică în Evermusic de pe calculator?" closed="true" %}}
+{{% ls-details title="Cum transfer muzică în Evermusic de pe calculator?" closed="true" %}}
 Poți conecta calculatorul sau NAS-ul personal folosind protocoale SMB, WebDAV sau DLNA. Alternativ, folosește iTunes File Sharing pentru a transfera muzică.<br><br>
 
 Pentru a conecta un calculator folosind protocolul **SMB**, apasă „Conectează un serviciu cloud" → SMB.<br>
@@ -517,9 +517,9 @@ Instrucțiuni detaliate disponibile aici:<br>
 
 Cu **DLNA** poți, de asemenea, configura un server media DLNA și transmite muzica de pe Windows PC, așa cum este descris aici:<br>
 [Cum să activezi serverul media DLNA pe Windows 10 și să redai muzica pe iPhone](/docs/howto/how-to-enable-dlna-media-server-on-windows-10-and-play-your-music-on-iphone)
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Cum descarc muzică?" closed="true" %}}
+{{% ls-details title="Cum descarc muzică?" closed="true" %}}
 Înainte de a putea descărca muzică și a asculta offline, trebuie să conectezi un cont de rețea.<br>
 Deschide ecranul „Conexiuni" și adaugă contul tău.<br>
 După ce ai adăugat un cont de rețea, poți descărca muzica din cloud.<br><br>
@@ -540,9 +540,9 @@ Instrucțiuni mai detaliate despre modul offline disponibile aici:<br>
 
 O altă opțiune disponibilă este descărcarea muzicii de pe YouTube și importarea în Evermusic, așa cum este descris aici:<br>
 [Cum să descarci muzică de pe YouTube și să asculți muzică offline pe iPhone](/docs/howto/how-to-download-music-from-youtube-and-listen-to-offline-music-on-iphone)
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Suportă Evermusic Apple CarPlay?" closed="true" %}}
+{{% ls-details title="Suportă Evermusic Apple CarPlay?" closed="true" %}}
 Da, **Evermusic suportă complet Apple CarPlay**. Poți naviga în biblioteca muzicală, reda fișiere locale sau offline, te conecta la stocare cloud și controla redarea direct de pe ecranul sistemului de infodivertisment al mașinii.
 
 Interfața CarPlay include file dedicate pentru **Bibliotecă**, **Conexiuni**, **Fișiere locale** și **Setări**, oferindu-ți control complet asupra muzicii pe drum. Controale de redare, amestecare, repetare și gestionare a cozii sunt, de asemenea, disponibile.
@@ -550,9 +550,9 @@ Interfața CarPlay include file dedicate pentru **Bibliotecă**, **Conexiuni**, 
 Pentru a folosi CarPlay, asigură-te că Siri este activat și iPhone-ul tău este conectat prin USB sau wireless.
 
 [Citește ghidul complet](/docs/howto/how-to-play-your-own-music-on-iphone-using-carplay/)
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Ce formate audio suportă Evermusic?" closed="true" %}}
+{{% ls-details title="Ce formate audio suportă Evermusic?" closed="true" %}}
 Iată lista completă a formatelor audio suportate și extensiile de fișier corespunzătoare:<br><br>
 
 **Formate audio suportate:**<br>
@@ -570,40 +570,40 @@ Iată lista completă a formatelor audio suportate și extensiile de fișier cor
 mpeg, aifc, 3gp, avi, aif, latm, 3gpp, m4a, loas, cdda, aac, m4p, m4b, ac3, pls, mp4v, m3u, m4r, aiff, xhe, mp1, snd, mp2, wav, qt, wave, m3u8, m4v, mp3, 3g2, caf, mp4, flac, au, w64, ec3, adts, amr, vtt, mpa, aa<br><br>
 
 Cu această gamă largă de formate și extensii suportate, te poți bucura de muzica ta în formatul preferat.
-{{% /details %}}
+{{% /ls-details %}}
 
 </div>
 
 <div class="hx:mt-6"></div>
 
-{{< hextra/section-headline >}}
+{{< ls-section-headline >}}
   Ghidul utilizatorului
-{{< /hextra/section-headline >}}
+{{< /ls-section-headline >}}
 
 <div class="hx:mt-6"></div>
 
 <div class="hx:w-full">
 
 <div class="hx:w-full hx:mx-auto hx:flex hx:flex-col hx:items-center hx:text-center">
-  {{< hextra/info-paragraph border="false" >}}
+  {{< ls-info-paragraph border="false" >}}
   Acest ghid te va ajuta să profiți la maximum de Evermusic pe iPhone, iPad sau Mac. Învață cum să transmiți muzică din cloud, să gestionezi cărțile audio și să muți muzica între dispozitive. Evermusic îți oferă control complet asupra colecției muzicale într-o singură aplicație simplă.
-  {{< /hextra/info-paragraph >}}
+  {{< /ls-info-paragraph >}}
 </div>
 
 {{< cards >}}
-  {{< feature-card icon="location-marker" title="Navigare" subtitle="Învață cum să navighezi în Evermusic folosind bara de file pe iPhone sau meniul din stânga pe iPad și Mac." link="/docs/guide/evermusic/evermusic-guide-navigation" >}}
+  {{< ls-feature-card icon="location-marker" title="Navigare" subtitle="Învață cum să navighezi în Evermusic folosind bara de file pe iPhone sau meniul din stânga pe iPad și Mac." link="/docs/guide/evermusic/evermusic-guide-navigation" >}}
 
-  {{< feature-card icon="cloud" title="Conexiuni" subtitle="Conectează conturile cloud și gestionează fișierele online folosind managerul de fișiere integrat." link="/docs/guide/evermusic/evermusic-guide-connections" >}}
+  {{< ls-feature-card icon="cloud" title="Conexiuni" subtitle="Conectează conturile cloud și gestionează fișierele online folosind managerul de fișiere integrat." link="/docs/guide/evermusic/evermusic-guide-connections" >}}
 
-  {{< feature-card icon="library" title="Biblioteca muzicală" subtitle="Organizează și explorează piesele, albumele și artiștii în Biblioteca muzicală." link="/docs/guide/evermusic/evermusic-guide-music-library" >}}
+  {{< ls-feature-card icon="library" title="Biblioteca muzicală" subtitle="Organizează și explorează piesele, albumele și artiștii în Biblioteca muzicală." link="/docs/guide/evermusic/evermusic-guide-music-library" >}}
 
-  {{< feature-card icon="collection" title="Playlist-uri" subtitle="Creează și aranjează playlist-uri pentru a se potrivi cu starea ta de spirit sau ocazia." link="/docs/guide/evermusic/evermusic-guide-playlists" >}}
+  {{< ls-feature-card icon="collection" title="Playlist-uri" subtitle="Creează și aranjează playlist-uri pentru a se potrivi cu starea ta de spirit sau ocazia." link="/docs/guide/evermusic/evermusic-guide-playlists" >}}
 
-  {{< feature-card icon="folder" title="Fișiere locale" subtitle="Accesează și gestionează muzica offline prin secțiunea Fișiere locale." link="/docs/guide/evermusic/evermusic-guide-local-files" >}}
+  {{< ls-feature-card icon="folder" title="Fișiere locale" subtitle="Accesează și gestionează muzica offline prin secțiunea Fișiere locale." link="/docs/guide/evermusic/evermusic-guide-local-files" >}}
 
-  {{< feature-card icon="play" title="Player audio" subtitle="Controlează redarea, coada și setările audio precum egalizatorul și timerul de somn." link="/docs/guide/evermusic/evermusic-guide-player" >}}
+  {{< ls-feature-card icon="play" title="Player audio" subtitle="Controlează redarea, coada și setările audio precum egalizatorul și timerul de somn." link="/docs/guide/evermusic/evermusic-guide-player" >}}
 
-  {{< feature-card icon="adjustments" title="Setări" subtitle="Personalizează aspectul, funcțiile și setările de performanță ale Evermusic." link="/docs/guide/evermusic/evermusic-guide-settings" >}}
+  {{< ls-feature-card icon="adjustments" title="Setări" subtitle="Personalizează aspectul, funcțiile și setările de performanță ale Evermusic." link="/docs/guide/evermusic/evermusic-guide-settings" >}}
 
 {{< /cards >}}
 

@@ -105,3 +105,63 @@ document.addEventListener('click', function(e) {
   localStorage.setItem('preferred-lang', clickedLang);
 });
 </script>
+
+{{- /* Everappz: docs/support inline search (ls-docs-search). Load the scoped
+       index + JS on the docs and support section landing pages only. Built here
+       (in <head>, before body content) so building the index never re-enters the
+       page whose content contains the search shortcode. The shortcode itself is
+       markup-only. */ -}}
+{{- if and (in (slice "docs" "support") .Section) .Parent .Parent.IsHome -}}
+  {{- $lsSearchJs := resources.Get "js/ls-docs-search.js" | resources.ExecuteAsTemplate (printf "%s.ls-docs-search.js" .Language.Lang) . -}}
+  {{- if hugo.IsProduction -}}{{- $lsSearchJs = $lsSearchJs | minify | fingerprint -}}{{- end -}}
+  <script defer src="{{ $lsSearchJs.RelPermalink }}"></script>
+{{- end -}}
+
+{{- /* Everappz: when a URL hash targets a collapsed <details> (e.g. a FAQ answer
+       linked from docs search), expand it and scroll to it on arrival. */ -}}
+<script>
+(function () {
+  // Once the user scrolls/keys themselves we stop auto-scrolling so we never
+  // yank them back after they've started reading. Reset on each new navigation.
+  var locked = false;
+  ['wheel', 'touchmove', 'keydown'].forEach(function (ev) {
+    window.addEventListener(ev, function () { locked = true; }, { passive: true });
+  });
+
+  function getEl() {
+    var hash = window.location.hash;
+    if (!hash || hash.length < 2) return null;
+    var id;
+    try { id = decodeURIComponent(hash.slice(1)); } catch (e) { id = hash.slice(1); }
+    return document.getElementById(id);
+  }
+  function openTarget() {
+    var el = getEl();
+    if (!el) return null;
+    var d = el.tagName === 'DETAILS' ? el : (el.closest ? el.closest('details') : null);
+    if (d && !d.open) d.open = true;
+    return el;
+  }
+  function scrollTo(el, smooth) {
+    if (!el || locked) return;
+    el.scrollIntoView({ behavior: smooth ? 'smooth' : 'auto', block: 'start' });
+  }
+  function onArrive() {
+    locked = false; // a fresh navigation may re-align
+    var el = openTarget();
+    if (!el) return;
+    scrollTo(el, false);                                  // jump immediately
+    requestAnimationFrame(function () { scrollTo(el, false); });
+    setTimeout(function () { scrollTo(el, true); }, 250);  // after initial layout
+  }
+  // Content above the target (hero lottie, images) loads late and shifts the
+  // page, so re-align once everything has loaded — unless the user has scrolled.
+  window.addEventListener('load', function () { scrollTo(getEl(), true); });
+  window.addEventListener('hashchange', onArrive);
+  if (document.readyState === 'loading') {
+    document.addEventListener('DOMContentLoaded', onArrive);
+  } else {
+    onArrive();
+  }
+})();
+</script>

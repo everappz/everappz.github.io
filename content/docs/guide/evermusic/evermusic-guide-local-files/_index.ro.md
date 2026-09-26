@@ -20,7 +20,7 @@ Secțiunea Fișiere Locale servește ca un hub pentru gestionarea fișierelor lo
 Acest manager de fișiere integrat vă permite să editați fișiere și oferă diverse metode pentru importarea fișierelor audio în aplicație.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Ecranul Fișiere Locale al Evermusic" image="/docs/guide/evermusic/evermusic-guide-local-files/img/local-files-main.webp" >}}
+  {{< ls-card title="" subtitle="Ecranul Fișiere Locale al Evermusic" image="/docs/guide/evermusic/evermusic-guide-local-files/img/local-files-main.webp" >}}
 {{< /cards >}}
 
 ## Descărcarea fișierelor din stocarea cloud
@@ -40,7 +40,7 @@ Importați ușor fișiere de pe dispozitivul dvs. conform descrierii [aici](/doc
 Transferați fișiere folosind o conexiune prin cablu conform descrierii [aici](/docs/howto/how-to-transfer-files-from-my-mac-to-iphone-or-ipad-using-finder).
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="iTunes / Finder File Sharing" image="/docs/guide/evermusic/evermusic-guide-local-files/img/local-files-itunes-file-sharing.webp" >}}
+  {{< ls-card title="" subtitle="iTunes / Finder File Sharing" image="/docs/guide/evermusic/evermusic-guide-local-files/img/local-files-itunes-file-sharing.webp" >}}
 {{< /cards >}}
 
 ## Wi-Fi Drive
@@ -48,7 +48,7 @@ Transferați fișiere folosind o conexiune prin cablu conform descrierii [aici](
 Transferați fișiere fără fir conform descrierii [aici](/docs/howto/how-to-transfer-files-wirelessly-from-a-computer-to-an-iphone-using-wifi-drive).
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Setările Serverului Wi-Fi Drive" image="/docs/guide/evermusic/evermusic-guide-local-files/img/local-files-wifidrive-settings.webp" >}}
+  {{< ls-card title="" subtitle="Setările Serverului Wi-Fi Drive" image="/docs/guide/evermusic/evermusic-guide-local-files/img/local-files-wifidrive-settings.webp" >}}
 {{< /cards >}}
 
 ## Coada de Transferuri
@@ -56,7 +56,7 @@ Transferați fișiere fără fir conform descrierii [aici](/docs/howto/how-to-tr
 În colțul din stânga sus al barei de navigare, veți găsi un buton 'Transferuri'. Atingeți-l pentru a accesa coada de transferuri, unde puteți monitoriza și gestiona toate descărcările și încărcările. În plus, aveți flexibilitatea de a ajusta viteza cozii de transfer și tipul de rețea în setările aplicației.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Coada de Transferuri de Fișiere" image="/docs/guide/evermusic/evermusic-guide-local-files/img/local-files-file-transfers.webp" >}}
+  {{< ls-card title="" subtitle="Coada de Transferuri de Fișiere" image="/docs/guide/evermusic/evermusic-guide-local-files/img/local-files-file-transfers.webp" >}}
 {{< /cards >}}
 
 ## Secțiunea de Acces Rapid
@@ -68,7 +68,7 @@ Transferați fișiere fără fir conform descrierii [aici](/docs/howto/how-to-tr
 Această secțiune afișează toate fișierele sau folderele deschise recent.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Fișiere și Foldere Deschise Recent" image="/docs/guide/evermusic/evermusic-guide-local-files/img/local-files-recents.webp" >}}
+  {{< ls-card title="" subtitle="Fișiere și Foldere Deschise Recent" image="/docs/guide/evermusic/evermusic-guide-local-files/img/local-files-recents.webp" >}}
 {{< /cards >}}
 
 ## Preferințe
@@ -76,7 +76,7 @@ Această secțiune afișează toate fișierele sau folderele deschise recent.
 Puteți marca fișierele sau folderele ca preferate și le puteți accesa în această secțiune. Mai mult, puteți adăuga un folder aflat pe dispozitivul dvs. la preferințele dvs. Pentru a face acest lucru, deschideți secțiunea preferințe, atingeți cele trei puncte din colțul din dreapta sus și alegeți elementul de meniu "Adăugare folder". Urmați instrucțiunile pentru a adăuga un folder de pe dispozitivul dvs. la preferințele dvs. pentru acces rapid.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Preferințe — Adăugați un Folder de pe Dispozitivul Dvs." image="/docs/guide/evermusic/evermusic-guide-local-files/img/local-files-favorites.webp" >}}
+  {{< ls-card title="" subtitle="Preferințe — Adăugați un Folder de pe Dispozitivul Dvs." image="/docs/guide/evermusic/evermusic-guide-local-files/img/local-files-favorites.webp" >}}
 {{< /cards >}}
 
 ## Bara de Instrumente Superioară
@@ -91,7 +91,7 @@ Bara de instrumente superioară, situată sub bara de navigare, oferă mai multe
 Puteți afișa sau ascunde bara de instrumente superioară folosind un gest de glisare în jos.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Bara de Instrumente Superioară pentru Folderul Curent" image="/docs/guide/evermusic/evermusic-guide-local-files/img/local-files-top-toolbar.webp" >}}
+  {{< ls-card title="" subtitle="Bara de Instrumente Superioară pentru Folderul Curent" image="/docs/guide/evermusic/evermusic-guide-local-files/img/local-files-top-toolbar.webp" >}}
 {{< /cards >}}
 
 ## Foldere Speciale
@@ -128,7 +128,7 @@ Afișează fișierele și folderele stocate în directorul Documente al aplicaț
 Afișează fișierele aflate pe dispozitivul dvs., dar în aplicații diferite. Le puteți importa în această aplicație folosind selectorul de fișiere al sistemului. Pentru a activa selectorul, alegeți "Deschide fișiere..." pentru a selecta fișiere sau "Deschide foldere..." pentru a selecta foldere. Instrucțiuni detaliate despre cum să importați muzica locală stocată pe iPhone sau Mac sunt disponibile [aici](/docs/howto/how-to-play-local-music-stored-on-your-iphone-or-mac). De asemenea, puteți conecta un folder aflat pe dispozitivul dvs. și să aveți acces rapid la conținutul folderului. Utilizați elementul de meniu "Conectare folder" și alegeți un folder de pe dispozitivul dvs. Atingeți "Finalizat" și aplicația va crea o legătură la acel folder cu acces citire/scriere și puteți gestiona fișierele direct din această aplicație. Pentru a deconecta un folder aflat pe dispozitivul dvs., atingeți butonul "Mai Multe Acțiuni" și alegeți "Deconectare".
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Fișiere pe Acest iPhone / iPad / Mac" image="/docs/guide/evermusic/evermusic-guide-local-files/img/local-files-on-this-device.webp" >}}
+  {{< ls-card title="" subtitle="Fișiere pe Acest iPhone / iPad / Mac" image="/docs/guide/evermusic/evermusic-guide-local-files/img/local-files-on-this-device.webp" >}}
 {{< /cards >}}
 
 ## Importarea Fișierelor de pe Carduri USB Conectate
@@ -151,7 +151,7 @@ Meniul de mai multe acțiuni pentru folderul deschis în prezent, aflat în col�
 Dacă trebuie să editați mai multe fișiere, activați modul de selectare atingând butonul de mai multe acțiuni "..." pe bara de navigare din colțul din dreapta sus și apoi alegeți elementul de meniu "Selectați". Aceasta va afișa casete de selectare lângă fiecare fișier. Selectați fișierele dorite atingând casetele lor de selectare. Puteți efectua următoarele acțiuni asupra fișierelor selectate.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Acțiunile Modului de Selectare pentru Fișierele Locale" image="/docs/guide/evermusic/evermusic-guide-local-files/img/local-files-selection-mode.webp" >}}
+  {{< ls-card title="" subtitle="Acțiunile Modului de Selectare pentru Fișierele Locale" image="/docs/guide/evermusic/evermusic-guide-local-files/img/local-files-selection-mode.webp" >}}
 {{< /cards >}}
 
 - **Redare următoare:** Adăugați fișierele sau folderele selectate în partea de sus a cozii playerului cu ordinea de sortare curentă.
@@ -186,7 +186,7 @@ Pentru fiecare fișier sau folder din aplicație, sunt disponibile mai multe ac�
 ## Foldere offline
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Meniu Mai Multe Acțiuni pentru Folderul Offline" image="/docs/guide/evermusic/evermusic-guide-local-files/img/local-files-offline-folders.webp" >}}
+  {{< ls-card title="" subtitle="Meniu Mai Multe Acțiuni pentru Folderul Offline" image="/docs/guide/evermusic/evermusic-guide-local-files/img/local-files-offline-folders.webp" >}}
 {{< /cards >}}
 
 Modul offline este o funcție utilă care vă permite să accesați muzica preferată chiar și când nu sunteți conectat la internet. Când activați modul offline pentru orice album, artist, listă de redare, gen sau folder de la distanță, toate fișierele din acea colecție vor fi descărcate automat pe dispozitivul dvs. pentru redare offline. Puteți accesa convenabil aceste fișiere în secțiunea "Foldere Offline" a aplicației.
@@ -204,7 +204,7 @@ Instrucțiuni detaliate despre Cum să Redați Muzică Offline în Evermusic și
 Aproape fiecare comportament al ecranului Fișiere Locale — de la lățimea de bandă a rețelei la locul unde ajung descărcările și cum sunt memorate în cache miniaturile — este configurabil în **Setări → Manager de fișiere**. Deschideți-l ori de câte ori doriți să ajustați viteza de transfer, să economisiți spațiu de stocare sau să restricționați aplicația doar la Wi-Fi.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Ecranul Setărilor Managerului de Fișiere" image="/docs/guide/evermusic/evermusic-guide-local-files/img/local-files-file-manager-settings.webp" >}}
+  {{< ls-card title="" subtitle="Ecranul Setărilor Managerului de Fișiere" image="/docs/guide/evermusic/evermusic-guide-local-files/img/local-files-file-manager-settings.webp" >}}
 {{< /cards >}}
 
 Ecranul expune fiecare opțiune grupată în secțiuni clar etichetate:

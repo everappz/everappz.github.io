@@ -7,7 +7,7 @@ tags: ["Evermusic", "Lydeffekter", "Sådan gør du", "Rumklang", "Delay", "Forvr
 readingTime: 8
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 **Kort fortalt:** Evermusic indeholder seks lydeffekter i realtid – **volumennormalisering, kompressor, rumklang, crossfeed, delay og forvrængning**. Åbn dem fra afspillerens **⋯ (Mere)-menu > Lydeffekter** eller fra **Indstillinger > Lydafspiller > Lydeffekter**. Tryk på en effekt, sæt dens kontakt på **TIL** (øverst til højre), vælg en **forudindstilling**, og åbn eventuelt **Avanceret tilstand** for at finjustere skyderne. Hver effekt fungerer uafhængigt og anvendes i realtid på alt, du afspiller – lokale filer, skystreams og internetradio – uden genkodning.
 
@@ -162,38 +162,38 @@ De fungerer også sammen med Evermusics **10-bånds grafiske equalizer** og dens
 
 ## Ofte stillede spørgsmål
 
-{{% details title="Hvordan tilføjer jeg rumklang, delay eller andre effekter til min musik i Evermusic?" closed="true" %}}
+{{% ls-details title="Hvordan tilføjer jeg rumklang, delay eller andre effekter til min musik i Evermusic?" closed="true" %}}
 Åbn afspilleren, tryk på ⋯ (Mere)-knappen, og vælg Lydeffekter (eller gå til Indstillinger > Lydafspiller > Lydeffekter). Tryk på den ønskede effekt, sæt dens kontakt på TIL øverst til højre, og vælg en forudindstilling. Åbn Avanceret tilstand for at finjustere skyderne. Effekten anvendes straks på det, der spiller.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Hvilke lydeffekter har Evermusic?" closed="true" %}}
+{{% ls-details title="Hvilke lydeffekter har Evermusic?" closed="true" %}}
 Seks effekter i realtid: volumennormalisering (EBU R128 loudness-nivellering), kompressor (dynamik), rumklang (rum og ekkohale), crossfeed (naturligt hovedtelefonbillede), delay (ekko) og forvrængning (lo-fi-grovhed). Hver er uafhængig og kan bruges alene eller kombineret.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Ændrer eller beskadiger effekterne mine lydfiler?" closed="true" %}}
+{{% ls-details title="Ændrer eller beskadiger effekterne mine lydfiler?" closed="true" %}}
 Nej. Alle effekter anvendes i realtid kun under afspilning. De ændrer eller genkoder aldrig dine filer. Slå en effekt fra, og din oprindelige lyd vender øjeblikkeligt tilbage.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Kan jeg bruge mere end én effekt ad gangen?" closed="true" %}}
+{{% ls-details title="Kan jeg bruge mere end én effekt ad gangen?" closed="true" %}}
 Ja. Hver effekt er uafhængig – der er ingen hovedkontakt – så du kan aktivere enhver kombination. For eksempel volumennormalisering plus kompressor for ensartet, behagelig lytning, eller rumklang plus crossfeed i hovedtelefoner.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Hvad er crossfeed, og bør jeg bruge det?" closed="true" %}}
+{{% ls-details title="Hvad er crossfeed, og bør jeg bruge det?" closed="true" %}}
 Crossfeed blander en lille, filtreret mængde af hver stereokanal ind i den anden, så hovedtelefoner lyder mere som rigtige højttalere, og reducerer "inde i hovedet"-fornemmelsen af hårdt panorerede mix. Det er en hovedtelefoneffekt (lad den være slået fra ved højttalere). Den er bygget på Bauer stereophonic-to-binaural (bs2b)-algoritmen og indeholder forudindstillinger som Chu Moy og Jan Meier.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Hvad er volumennormalisering, og hvordan adskiller det sig fra ReplayGain?" closed="true" %}}
+{{% ls-details title="Hvad er volumennormalisering, og hvordan adskiller det sig fra ReplayGain?" closed="true" %}}
 Volumennormalisering holder hvert nummer på en ensartet loudness ved at måle oplevet loudness med EBU R128-standarden og nivellere mod et mål. I modsætning til ReplayGain kræver det ingen loudness-tags i dine filer og ændrer ikke lyden – det fungerer live på enhver kilde, inklusive skystreams og internetradio. Forudindstillinger: Let, Standard, Kraftig og Nat.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Hvad er forskellen mellem Enkel og Avanceret tilstand?" closed="true" %}}
+{{% ls-details title="Hvad er forskellen mellem Enkel og Avanceret tilstand?" closed="true" %}}
 Enkel tilstand viser en liste over forudindstillinger med almindelige beskrivelser, så du kan få en god lyd med ét tryk. Avanceret tilstand tilføjer parameterskyderne (for eksempel Mix til rumklang eller de syv kompressorkontroller) til præcis finjustering. Skift mellem dem med tilstandsknappen øverst til højre i hver effekt-editor.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Hvorfor er effektens kontroller gråtonede?" closed="true" %}}
+{{% ls-details title="Hvorfor er effektens kontroller gråtonede?" closed="true" %}}
 Effekten er slået fra. Slå effektens kontakt til øverst til højre i dens editor for at aktivere kontrollerne. Hver effekt er slået fra som standard.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Virker effekterne med streaming og CarPlay?" closed="true" %}}
+{{% ls-details title="Virker effekterne med streaming og CarPlay?" closed="true" %}}
 Ja. Effekterne kører inde i afspilningsmotoren, så de anvendes på lokale filer, skydrev, medieservere og internetradio, og de bliver ved med at fungere under CarPlay-afspilning.
-{{% /details %}}
+{{% /ls-details %}}

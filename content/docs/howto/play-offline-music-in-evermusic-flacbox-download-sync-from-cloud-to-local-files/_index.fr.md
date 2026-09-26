@@ -7,7 +7,7 @@ tags: ["musique", "audio", "lecteur", "hors ligne", "mode", "téléchargement", 
 keywords: ["musique hors ligne iPhone", "synchronisation musique cloud", "Evermusic hors ligne", "Flacbox synchroniser musique", "écouter musique sans internet", "télécharger audio depuis le cloud", "lecture fichiers locaux iOS"]
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **Résumé :** Evermusic et Flacbox vous permettent de télécharger de la musique depuis le stockage cloud (Google Drive, Dropbox, OneDrive et plus) vers votre iPhone ou iPad pour une lecture hors ligne. Vous pouvez utiliser trois méthodes : téléchargement direct, mode hors ligne avec synchronisation automatique ou cache du lecteur audio. Ce guide couvre les trois approches étape par étape.
@@ -140,26 +140,26 @@ En suivant ces étapes détaillées, vous pouvez gérer et écouter sans problè
 
 ## Questions fréquemment posées
 
-{{% details title="Quels services cloud Evermusic et Flacbox prennent-ils en charge ?" closed="true" %}}
+{{% ls-details title="Quels services cloud Evermusic et Flacbox prennent-ils en charge ?" closed="true" %}}
 Les deux applications prennent en charge Google Drive, Dropbox, OneDrive, Box, MEGA, Yandex.Disk et d'autres grands fournisseurs de stockage cloud. Vous pouvez connecter plusieurs services à la fois.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Puis-je synchroniser automatiquement la musique depuis le stockage cloud vers mon iPhone ?" closed="true" %}}
+{{% ls-details title="Puis-je synchroniser automatiquement la musique depuis le stockage cloud vers mon iPhone ?" closed="true" %}}
 Oui. Activez le Mode hors ligne pour n'importe quel dossier, liste de lecture, album ou artiste. L'application effectue une synchronisation unidirectionnelle du cloud vers l'appareil à un intervalle configurable (par défaut : une fois par jour).
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Le mode hors ligne utilise-t-il beaucoup d'espace de stockage sur mon appareil ?" closed="true" %}}
+{{% ls-details title="Le mode hors ligne utilise-t-il beaucoup d'espace de stockage sur mon appareil ?" closed="true" %}}
 L'utilisation du stockage dépend de la taille de votre collection musicale et des formats de fichiers. Vous pouvez contrôler cela en choisissant des dossiers spécifiques à synchroniser, en définissant des limites de taille de cache et en surveillant le stockage dans les paramètres de l'application.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Quels formats audio sont pris en charge pour la lecture hors ligne ?" closed="true" %}}
+{{% ls-details title="Quels formats audio sont pris en charge pour la lecture hors ligne ?" closed="true" %}}
 Evermusic et Flacbox prennent en charge MP3, FLAC, AAC, ALAC, WAV, AIFF, OGG, WMA et de nombreux autres formats. Flacbox est optimisé pour les formats sans perte comme FLAC et ALAC.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Ma musique hors ligne continuera-t-elle à jouer si je ferme l'application ?" closed="true" %}}
+{{% ls-details title="Ma musique hors ligne continuera-t-elle à jouer si je ferme l'application ?" closed="true" %}}
 Oui. Les fichiers téléchargés sont stockés localement sur votre appareil et sont lus via le lecteur audio de l'application indépendamment de la connectivité Internet. La lecture en arrière-plan est entièrement prise en charge.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Comment libérer de l'espace occupé par la musique hors ligne ?" closed="true" %}}
+{{% ls-details title="Comment libérer de l'espace occupé par la musique hors ligne ?" closed="true" %}}
 Désactivez le Mode hors ligne pour des dossiers spécifiques dans **Paramètres** > Gestionnaire de fichiers > **Dossiers hors ligne synchronisés**. Cela supprime les copies locales de votre appareil. Vous pouvez également vider le cache du lecteur audio ou supprimer manuellement les fichiers téléchargés.
-{{% /details %}}
+{{% /ls-details %}}

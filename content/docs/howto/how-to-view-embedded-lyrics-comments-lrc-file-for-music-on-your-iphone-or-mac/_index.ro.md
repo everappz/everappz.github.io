@@ -7,7 +7,7 @@ tags: ["audio", "iphone", "mp3", "versuri", "lrc", "încorporat", "vizualizare",
 keywords: ["vizualizare versuri încorporate iPhone", "Evermusic afișare versuri", "fișier LRC Evermusic", "tag comentariu audio", "afișare versuri Flacbox", "versuri iOS aplicație muzică", "player audio afișare versuri"]
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **TL;DR:** Evermusic pentru iPhone și Mac afișează versuri încorporate, taguri de comentarii și fișiere .lrc externe pentru orice pistă audio. Deschideți playerul, atingeți **Mai multe acțiuni**, apoi selectați **Comentarii** pentru a vizualiza versurile în trei moduri: Comentarii, Versuri încorporate și Fișier LRC.
@@ -68,22 +68,22 @@ Vizualizarea versurilor încorporate, comentariilor sau fișierelor `.lrc` sincr
 
 ## Întrebări frecvente
 
-{{% details title="Cum vizualizez versurile încorporate pe iPhone-ul meu?" closed="true" %}}
+{{% ls-details title="Cum vizualizez versurile încorporate pe iPhone-ul meu?" closed="true" %}}
 Deschideți Evermusic, redați o melodie, atingeți Mai multe acțiuni în playerul pe ecran complet și selectați Comentarii. Glisați la fila Versuri încorporate pentru a vedea versurile stocate în tagurile fișierului audio.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Ce este un fișier LRC și cum funcționează?" closed="true" %}}
+{{% ls-details title="Ce este un fișier LRC și cum funcționează?" closed="true" %}}
 Un fișier LRC este un fișier text care conține versuri sincronizate cu timpul. Când este plasat în același folder ca un fișier audio cu același nume de fișier, Evermusic îl citește și afișează versuri sincronizate care defilează în timpul redării.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Pot adăuga versuri la fișierele mele muzicale pe iPhone?" closed="true" %}}
+{{% ls-details title="Pot adăuga versuri la fișierele mele muzicale pe iPhone?" closed="true" %}}
 Da. Utilizați aplicația Evertag pentru a edita tagurile ID3 și a adăuga sau actualiza versuri încorporate direct pe iPhone. Puteți lipi text în format LRC sincronizat pentru versuri sincronizate.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Evermusic suportă versuri sincronizate (cu timp)?" closed="true" %}}
+{{% ls-details title="Evermusic suportă versuri sincronizate (cu timp)?" closed="true" %}}
 Da. Evermusic suportă versuri sincronizate în format LRC, atât când sunt încorporate în taguri audio, cât și când sunt furnizate ca fișier `.lrc` separat.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Ce formate audio suportă versuri încorporate?" closed="true" %}}
+{{% ls-details title="Ce formate audio suportă versuri încorporate?" closed="true" %}}
 MP3, FLAC, AAC, M4A, OGG și majoritatea celorlalte formate comune suportă versuri încorporate prin standardele lor respective de taguri.
-{{% /details %}}
+{{% /ls-details %}}

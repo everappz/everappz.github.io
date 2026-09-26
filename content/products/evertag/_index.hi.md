@@ -15,14 +15,14 @@ screenshots:
   - "https://everappz.com/products/evertag/screenshots/2048x2732/3.png"
 ---
 
-{{% sr-only %}}
+{{% ls-sr-only %}}
 Evertag iPhone और Mac के लिए एक म्यूज़िक टैग एडिटर है, जिसे Everappz नामक एक स्पेनिश सॉफ़्टवेयर कंपनी ने विकसित किया है। Evertag उपयोगकर्ताओं को शीर्षक, कलाकार, एल्बम, एल्बम कलाकार, शैली, वर्ष, ट्रैक नंबर, डिस्क नंबर, संगीतकार, BPM, गीत, टिप्पणियाँ और अन्य सहित 120 से अधिक ऑडियो मेटाडेटा टैग संपादित करने की अनुमति देता है। यह ऐप बैच टैग संपादन का समर्थन करता है, जिससे उपयोगकर्ता एक साथ कई फ़ाइलों के मेटाडेटा को अपडेट कर सकते हैं। Evertag में MusicBrainz डेटाबेस द्वारा संचालित एक स्वचालित टैग खोजक शामिल है जो गीतों की पहचान करता है और गायब मेटाडेटा भरता है, साथ ही एक एल्बम कवर खोजक जो ट्रैक्स के लिए कलाकृति खोजता और लागू करता है। यह ऐप MP3, FLAC, OGG, OPUS, M4A, WAV, WMA, APE, AIFF, ALAC, MKA, MOD, XM, IT और S3M सहित 30 से अधिक ऑडियो प्रारूपों का समर्थन करता है। Evertag iCloud Drive, Google Drive, Dropbox और OneDrive सहित क्लाउड स्टोरेज सेवाओं से फ़ाइलें एक्सेस कर सकता है, साथ ही USB फ़्लैश ड्राइव और SMB तथा WebDAV के माध्यम से स्थानीय नेटवर्क स्थानों से भी। इस ऐप में अंतर्निहित फ़ाइल प्रबंधक, Wi-Fi फ़ाइल ट्रांसफ़र, गैर-लैटिन लिपियों में गलत तरीके से प्रदर्शित टैग के लिए एन्कोडिंग सुधार, और एक गीत संपादक भी शामिल है। Evertag App Store पर निःशुल्क डाउनलोड के रूप में उपलब्ध है, जिसमें वैकल्पिक इन-ऐप खरीदारी शामिल है जिसमें $2.99 पर मासिक सदस्यता, $9.99 पर वार्षिक सदस्यता, या $29.99 पर एक बार की आजीवन खरीदारी शामिल है।
-{{% /sr-only %}}
+{{% /ls-sr-only %}}
 
 
-{{< force-dark >}}
+{{< ls-force-dark >}}
 
-{{< hextra/hero-container
+{{< ls-hero-container
   image="/products/evertag/heroimage/evertag_mac_600_345.png"
   imageWidth="600"
 >}}
@@ -30,37 +30,37 @@ Evertag iPhone और Mac के लिए एक म्यूज़िक ट�
 <div class="hx:w-full hx:text-center">
 
 <div class="hx:mt-4">
-{{< downloads-badge >}}
+{{< ls-downloads-badge >}}
 </div>
 
 <div class="hx:mt-6 hx:mb-6">
 <div class="hx:flex hx:gap-4 hx:items-center hx:justify-center">
-  {{< app-icon src="/images/app_icons/png/Evertag_Icon-App-1024x1024.png" alt="Evertag Icon" class="hero-headline-icon" size="80" >}}
-  {{< hextra/hero-headline >}}
+  {{< ls-app-icon src="/images/app_icons/png/Evertag_Icon-App-1024x1024.png" alt="Evertag Icon" class="hero-headline-icon" size="80" >}}
+  {{< ls-hero-headline >}}
   Evertag
-  {{< /hextra/hero-headline >}}
+  {{< /ls-hero-headline >}}
 </div>
 </div>
 
 <div class="hx:mb-6">
-{{< hextra/hero-centered-subtitle >}}
+{{< ls-hero-centered-subtitle >}}
 <strong>अपनी म्यूज़िक लाइब्रेरी को व्यवस्थित रखें</strong>
-{{< /hextra/hero-centered-subtitle >}}
+{{< /ls-hero-centered-subtitle >}}
 </div>
 
 <div class="hx:mb-6">
-{{< hextra/hero-paragraph >}}
+{{< ls-hero-paragraph >}}
 • एल्बम कवर जोड़ें या अपडेट करें  
 • एक साथ कई गानों के टैग बैच एडिट करें  
 • टूटी एन्कोडिंग ठीक करें और गुम टैग ऑटो-फिल करें  
-{{< /hextra/hero-paragraph >}}
+{{< /ls-hero-paragraph >}}
 </div>
 
-{{< app-store-badges products="evertag:ios, evertag:macos" >}}
+{{< ls-app-store-badges products="evertag:ios, evertag:macos" >}}
 
 </div>
 
-{{< /hextra/hero-container >}}
+{{< /ls-hero-container >}}
 
 <div class="hx:mt-6"></div>
 
@@ -68,63 +68,63 @@ Evertag iPhone और Mac के लिए एक म्यूज़िक ट�
 
 {{< hextra/feature-grid >}}
 
-  {{< hextra/feature-card
+  {{< ls-glass-feature-card
     title="120+ टैग एडिट करें"
     subtitle="Title, Artist, Album, Album Artist, BPM, Comment, Composer, Disk Number, Genre, Lyrics, Rating, Track Number, Year और अन्य जैसे म्यूज़िक टैग तेज़ी से एडिट करें।"
     icon="pencil"
     style="background: radial-gradient(ellipse at 50% 80%, rgba(59,130,246,0.15), hsla(0,0%,100%,0));"
   >}}
 
-  {{< hextra/feature-card
+  {{< ls-glass-feature-card
     title="बैच टैग एडिटिंग"
     subtitle="एक साथ कई फाइलों का मेटाडेटा अपडेट करें। समय बचाएँ और बस कुछ टैप से अपनी म्यूज़िक लाइब्रेरी को व्यवस्थित रखें।"
     icon="database"
     style="background: radial-gradient(ellipse at 50% 80%, rgba(192,38,211,0.15), hsla(0,0%,100%,0));"
   >}}
 
-  {{< hextra/feature-card
+  {{< ls-glass-feature-card
     title="एल्बम कवर खोजें"
     subtitle="अपने गानों में गुम एल्बम आर्टवर्क अपने आप खोजें और जोड़ें। अपने म्यूज़िक कलेक्शन को विज़ुअली पूरा बनाएँ।"
     icon="camera"
     style="background: radial-gradient(ellipse at 50% 80%, rgba(234,88,12,0.15), hsla(0,0%,100%,0));"
   >}}
 
-  {{< hextra/feature-card
+  {{< ls-glass-feature-card
     title="30+ फॉर्मेट के साथ काम करता है"
     subtitle="MP3, FLAC, OGG, OPUS, M4A, WAV, WMA, APE, AIFF, MOD, XM, IT और अन्य सपोर्ट करता है।"
     icon="music-note"
     style="background: radial-gradient(ellipse at 50% 80%, rgba(236,72,153,0.15), hsla(0,0%,100%,0));"
   >}}
 
-  {{< hextra/feature-card
+  {{< ls-glass-feature-card
     title="ऑटो टैग खोजक"
     subtitle="गुम गाने की जानकारी पहचानें और MusicBrainz डेटाबेस का उपयोग करके अपने आप भरें। बदलाव रिव्यू करें या तुरंत लागू करें।"
     icon="search"
     style="background: radial-gradient(ellipse at 50% 80%, rgba(34,197,94,0.15), hsla(0,0%,100%,0));"
   >}}
 
-  {{< hextra/feature-card
+  {{< ls-glass-feature-card
     title="एन्कोडिंग समस्याएँ ठीक करें"
     subtitle="अपने मेटाडेटा में टूटे या अपठनीय कैरेक्टर ठीक करें। Evertag किसी भी भाषा में आपके टैग को साफ और स्पष्ट रखता है।"
     icon="translate"
     style="background: radial-gradient(ellipse at 50% 80%, rgba(251,191,36,0.15), hsla(0,0%,100%,0));"
   >}}
 
-  {{< hextra/feature-card
+  {{< ls-glass-feature-card
     title="क्लाउड और USB एक्सेस"
     subtitle="iCloud Drive, Google Drive, Dropbox, OneDrive, USB फ्लैश ड्राइव या शेयर्ड फोल्डर से सीधे म्यूज़िक एडिट करें—कॉपी करने की ज़रूरत नहीं।"
     icon="cloud"
     style="background: radial-gradient(ellipse at 50% 80%, rgba(6,182,212,0.15), hsla(0,0%,100%,0));"
   >}}
 
-  {{< hextra/feature-card
+  {{< ls-glass-feature-card
     title="Wi-Fi म्यूज़िक ट्रांसफर"
     subtitle="Wi-Fi कनेक्शन का उपयोग करके अपने कंप्यूटर से आसानी से अपने iPhone या iPad पर म्यूज़िक अपलोड करें। केबल की ज़रूरत नहीं।"
     icon="wifi"
     style="background: radial-gradient(ellipse at 50% 80%, rgba(245,158,11,0.15), hsla(0,0%,100%,0));"
   >}}
 
-  {{< hextra/feature-card
+  {{< ls-glass-feature-card
     title="बिल्ट-इन फाइल मैनेजर"
     subtitle="बिल्ट-इन टूल्स से अपनी म्यूज़िक फाइलें व्यवस्थित करें। रीनेम, मूव, डिलीट, फेवरिट मार्क करें और हालिया गतिविधि देखें — सब एक ऐप में।"
     icon="folder-open"
@@ -139,47 +139,47 @@ Evertag iPhone और Mac के लिए एक म्यूज़िक ट�
 <div class="hx:mt-6"></div>
 
 <div class="hx:w-full">
-{{< appstore-reviews apps="1450763230,1594027661" stars="5,4"  app="Evertag" >}}
+{{< ls-appstore-reviews apps="1450763230,1594027661" stars="5,4"  app="Evertag" >}}
 </div>
 
 <div class="hx:mt-6"></div>
 
-{{< hextra/section-headline >}}
+{{< ls-section-headline >}}
   मूल्य योजनाएँ
-{{< /hextra/section-headline >}}
+{{< /ls-section-headline >}}
 
 <div class="hx:mt-6"></div>
 
 <div class="hx:w-full">
 
-{{< pricing-plans >}}
+{{< ls-pricing-plans >}}
 
 </div>
 
 <div class="hx:mt-6"></div>
 
 <div class="hx:w-full hx:mx-auto hx:flex hx:flex-col hx:items-center">
-  {{< hextra/info-paragraph border="true" >}}
+  {{< ls-info-paragraph border="true" >}}
    <strong>फैमिली शेयरिंग</strong>: सभी खरीदारी और सब्सक्रिप्शन फैमिली शेयरिंग सपोर्ट करते हैं, जिससे आप अपने परिवार के साथ प्रीमियम एक्सेस शेयर कर सकते हैं।<br><strong>यूनिवर्सल एक्सेस</strong>: लाइफटाइम और सब्सक्रिप्शन प्लान iCloud सिंक्रनाइज़ेशन का उपयोग करके iOS और Mac डिवाइस के बीच शेयर किए जाते हैं।<br><strong>मूल्य</strong>: कीमतें संयुक्त राज्य अमेरिका के लिए US डॉलर में दिखाई जाती हैं। अंतिम कीमत आपके क्षेत्र के आधार पर भिन्न हो सकती है।  
-  {{< /hextra/info-paragraph >}}
+  {{< /ls-info-paragraph >}}
 </div>
 
 <div class="hx:mt-6"></div>
 
 <div class="hx:w-full">
-{{< app-details heading="true" >}}
+{{< ls-app-details heading="true" >}}
 </div>
 
 <div class="hx:mt-6"></div>
 
-{{< hextra/section-headline >}}
+{{< ls-section-headline >}}
   अक्सर पूछे जाने वाले प्रश्न
-{{< /hextra/section-headline >}}
+{{< /ls-section-headline >}}
 
 <div class="hx:mt-6"></div>
 
 <div class="hx:w-full">
-{{% details title="Evertag क्या है?" closed="true" %}}
+{{% ls-details title="Evertag क्या है?" closed="true" %}}
 Evertag iOS और macOS के लिए डिज़ाइन किया गया एक शक्तिशाली म्यूज़िक मेटाडेटा एडिटर और एल्बम आर्टवर्क मैनेजर है। यह आपको अपने म्यूज़िक कलेक्शन को प्रोफेशनल तरीके से व्यवस्थित करने के टूल्स देता है, चाहे आपकी फाइलें लोकली स्टोर हों या क्लाउड में। एक साफ इंटरफेस और एडवांस्ड एडिटिंग फीचर्स के साथ, Evertag गुम टैग ठीक करना, उच्च-गुणवत्ता कवर आर्ट जोड़ना और आपकी म्यूज़िक लाइब्रेरी को शानदार और सुसंगत बनाना आसान बनाता है।<br><br>
 
 ऐप MP3, FLAC, WAV, M4A, WMA, OGG और कई अन्य सहित लोकप्रिय ऑडियो फॉर्मेट की विस्तृत श्रृंखला सपोर्ट करता है। यह आपको title, artist, album, genre, year, track number जैसे सामान्य टैग और BPM, disc number, lyrics, MusicBrainz IDs जैसे एक्सटेंडेड फील्ड एडिट करने की अनुमति देता है। आप एक बार में एक फाइल पर काम कर सकते हैं या कई ट्रैक एक साथ एडिट करने के लिए बैच मोड पर स्विच कर सकते हैं—पूरे एल्बम या प्लेलिस्ट व्यवस्थित करने के लिए एकदम सही।<br><br>
@@ -187,14 +187,14 @@ Evertag iOS और macOS के लिए डिज़ाइन किया ग
 Evertag की प्रमुख विशेषताओं में से एक है इंटरनेट से सीधे गुम एल्बम कवर खोजने या मैन्युअल रूप से अपने खुद के जोड़ने की क्षमता। आप अपने गानों में अनसिंक्ड लिरिक्स जोड़ने के लिए लिरिक्स एडिटर का भी उपयोग कर सकते हैं, जो संगत प्लेयर्स में प्लेबैक को बेहतर बनाता है। ऐप ओपन-इन-प्लेस एडिटिंग सपोर्ट करता है, ताकि आप अपनी फाइलें कॉपी या मूव किए बिना ऑडियो टैग संशोधित कर सकें।<br><br>
 
 चाहे आप अपने डिवाइस पर म्यूज़िक मैनेज कर रहे हों या Dropbox, OneDrive, MEGA या अन्य सेवाओं का उपयोग करके क्लाउड में, Evertag सहज फाइल एक्सेस और एडिटिंग प्रदान करता है। यह म्यूज़िशियंस, DJs और कलेक्टर्स के लिए सही समाधान है जो डेस्कटॉप कंप्यूटर की आवश्यकता के बिना iPhone, iPad पर एक साफ, अच्छी तरह से व्यवस्थित म्यूज़िक लाइब्रेरी बनाए रखना चाहते हैं।<br><br>
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="क्या Evertag मुफ़्त है?" closed="true" %}}
+{{% ls-details title="क्या Evertag मुफ़्त है?" closed="true" %}}
 Evertag कुछ सीमाओं के साथ एक मुफ़्त एप्लिकेशन है जिन्हें आप प्रीमियम संस्करण में अपग्रेड करके हटा सकते हैं। एप्लिकेशन एक बार की लाइफटाइम इन-ऐप खरीदारी और सभी प्रतिबंधों को हटाने के लिए दो सब्सक्रिप्शन विकल्प (1 माह और 1 वर्ष) प्रदान करता है, जिससे आप अपने लिए सबसे अच्छी और सबसे इष्टतम कीमत चुन सकते हैं। कीमतें आपके देश या क्षेत्र के अनुसार भिन्न हो सकती हैं। साथ ही, कृपया ध्यान रखें कि सभी खरीदारी और योजनाओं के लिए फैमिली शेयरिंग सक्षम है, ताकि आप प्रीमियम संस्करण अपने परिवार के सदस्यों के साथ शेयर कर सकें।<br><br>
 लाइफटाइम खरीदारी और सब्सक्रिप्शन iCloud का उपयोग करके iOS और Mac के बीच शेयर किए जाते हैं। यदि आपके पास अपने iOS डिवाइस पर प्रीमियम संस्करण है, तो कृपया सुनिश्चित करें कि आपके पास नवीनतम संस्करण इंस्टॉल है और iCloud सक्षम है। iOS पर ऐप शुरू करें और अपनी खरीदारी जानकारी iCloud पर अपलोड होने के लिए एक मिनट प्रतीक्षा करें।<br><br>
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Evertag मुफ़्त और Evertag प्रीमियम में क्या अंतर है?" closed="true" %}}
+{{% ls-details title="Evertag मुफ़्त और Evertag प्रीमियम में क्या अंतर है?" closed="true" %}}
 
 **Evertag मुफ़्त**  <br>
 Evertag मुफ़्त आपको कुछ कार्यात्मक सीमाओं के साथ शक्तिशाली म्यूज़िक मेटाडेटा एडिटिंग फीचर्स तक पहुँच देता है। इसमें विज्ञापन शामिल हैं और टैग एडिटर, एल्बम कवर एडिटर और बैच एडिटिंग का बुनियादी उपयोग करने की अनुमति देता है। आप एन्कोडिंग समस्याएँ ठीक कर सकते हैं, 1 क्लाउड स्टोरेज अकाउंट कनेक्ट कर सकते हैं और 10 तक फेवरिट फाइलें मार्क कर सकते हैं। इसके अतिरिक्त, आप प्रतिदिन 20 स्वचालित टैग खोज और 20 एल्बम कवर लुकअप कर सकते हैं।<br><br>
@@ -213,9 +213,9 @@ Evertag मुफ़्त आपको कुछ कार्यात्मक
 
 प्रत्येक प्रीमियम विकल्प में समान फीचर सेट शामिल है, ताकि आप अपनी ज़रूरतों और बजट के अनुसार प्लान चुन सकें।<br><br>
 
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="क्या Evertag सुरक्षित है?" closed="true" %}}
+{{% ls-details title="क्या Evertag सुरक्षित है?" closed="true" %}}
 Evertag कनेक्टेड क्लाउड सेवाओं के साथ इंटरैक्ट करने के लिए केवल आधिकारिक SDK और सुरक्षित कनेक्शन का उपयोग करता है। आपका लॉगिन और पासवर्ड एप्लिकेशन के लिए उपलब्ध नहीं है। एप्लिकेशन से क्लाउड सेवा तक सभी अनुरोध एन्क्रिप्टेड हैं।<br>
 जब आप लॉगिन और पासवर्ड दर्ज करते हैं तो एप्लिकेशन आपको क्लाउड सेवा प्रदाता द्वारा प्रदान किया गया आधिकारिक प्राधिकरण पृष्ठ दिखाता है और सभी प्राधिकरण प्रक्रिया एप्लिकेशन के बाहर की जाती है। सफल प्राधिकरण के बाद क्लाउड सेवा प्रदाता एप्लिकेशन को एक auth-token भेजता है और उस टोकन का उपयोग API कॉल करने के लिए किया जाता है।<br><br>
 
@@ -226,9 +226,9 @@ Auth-token को अस्वीकार करने के लिए अप�
 
 आप एप्लिकेशन में कनेक्टेड क्लाउड अकाउंट भी डिस्कनेक्ट कर सकते हैं और auth-token भी आपके डिवाइस से हटा दिया जाएगा। यदि आप अपने डिवाइस से एप्लिकेशन हटाते हैं तो सभी डाउनलोड किया गया डेटा और एक्सेस टोकन भी हटा दिए जाएँगे।<br><br>
 
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="iPhone पर लोकली डाउनलोड किए गए म्यूज़िक के लिए मेटाडेटा कैसे एडिट करें?" closed="true" %}}
+{{% ls-details title="iPhone पर लोकली डाउनलोड किए गए म्यूज़िक के लिए मेटाडेटा कैसे एडिट करें?" closed="true" %}}
 एप्लिकेशन इंस्टॉल करने के बाद, "Local Files" स्क्रीन खोलें और "Files on this iPhone" सेक्शन तक स्क्रॉल करें।<br>
 वहाँ से, "Open files..." चुनें यदि आपको कई ऑडियो फाइलें चुननी हैं या "Open folder..." यदि आप एक म्यूज़िक फोल्डर चुनना चाहते हैं।<br>
 ऐप फोल्डर की सामग्री स्कैन करेगा, और सभी पाई गई ऑडियो फाइलें चयनित हो जाएँगी।<br>
@@ -242,9 +242,9 @@ Auth-token को अस्वीकार करने के लिए अप�
 "Files on this device" सेक्शन तक स्क्रॉल करें और "Connect a folder" टैप करें।<br>
 अपने डिवाइस पर स्थित फोल्डर चुनें और चयन की पुष्टि के लिए "Open" टैप करें।<br>
 आपका फोल्डर "Files on this iPhone" सेक्शन में जोड़ दिया जाएगा जो आपकी ऑडियो फाइलों तक त्वरित एक्सेस प्रदान करता है।<br><br>
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Evertag में गानों के लिए लिरिक्स कैसे जोड़ें?" closed="true" %}}
+{{% ls-details title="Evertag में गानों के लिए लिरिक्स कैसे जोड़ें?" closed="true" %}}
 आप इन चरणों का पालन करके Evertag ऐप में अपने ट्रैक्स में एम्बेडेड लिरिक्स जोड़ सकते हैं:<br><br>
 * ऑडियो फाइल पर टैप करके एडिटिंग शुरू करें।<br>
 * टैग एडिटर को एडवांस्ड मोड में स्विच करने के लिए "Show extended tags" टैप करें।<br>
@@ -258,9 +258,9 @@ Auth-token को अस्वीकार करने के लिए अप�
 अधिक विस्तृत ट्यूटोरियल यहाँ उपलब्ध है:<br>
 [iPhone या MAC पर ऑडियो फाइलों के लिए लिरिक्स कैसे एडिट करें](/docs/howto/how-to-edit-lyrics-for-audio-files-on-iphone-mac/)<br><br>
 
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="मैं अपने कंप्यूटर से Evertag में म्यूज़िक कैसे ट्रांसफर करूँ?" closed="true" %}}
+{{% ls-details title="मैं अपने कंप्यूटर से Evertag में म्यूज़िक कैसे ट्रांसफर करूँ?" closed="true" %}}
 आप SMB, WebDAV का उपयोग करके अपने कंप्यूटर या पर्सनल NAS को कनेक्ट कर सकते हैं। वैकल्पिक रूप से, म्यूज़िक ट्रांसफर करने के लिए iTunes File Sharing का उपयोग करें।<br><br>
 
 **SMB** प्रोटोकॉल का उपयोग करके कंप्यूटर कनेक्ट करने के लिए "Connect to cloud storage" → SMB टैप करें।<br>
@@ -295,23 +295,23 @@ iTunes → "Applications section" खोलें → और Evertag खोज�
 विस्तृत निर्देश यहाँ उपलब्ध हैं:<br>
 [मेरे iPhone पर लोकल फाइलें (iTunes फाइलें) कैसे चलाएँ](/docs/howto/how-to-play-local-itunes-files-on-my-iphone)<br><br>
 
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Evertag कौन से ऑडियो फॉर्मेट सपोर्ट करता है?" closed="true" %}}
+{{% ls-details title="Evertag कौन से ऑडियो फॉर्मेट सपोर्ट करता है?" closed="true" %}}
 सपोर्टेड ऑडियो फॉर्मेट और उनके संबंधित फाइल एक्सटेंशन की पूरी सूची यहाँ है:<br><br>
 
 MP3, OGG, OGA, FLAC, MPC, WV, SPX, OPUS, TTA, M4A, M4R, M4B, M4P, MP4, 3G2, M4V, WMA, ASF, AIF, AIFF, AFC, AIFC, WAV, APE, MOD, MODULE, NTS, WOW, S3M, IT, XM.<br>
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Evertag कौन से ऑडियो टैग सपोर्ट करता है?" closed="true" %}}
+{{% ls-details title="Evertag कौन से ऑडियो टैग सपोर्ट करता है?" closed="true" %}}
 सपोर्टेड ऑडियो टैग की पूरी सूची यहाँ है:<br><br>
 
 ASIN, AcoustID: Fingerprint, AcoustID: Identifier, Album, Album Artist, Album Artist Sort Order, Album Cover, Album Sort Order, Arranger, Artist, Artist Sort Order, Artists, Barcode, Beats Per Minute, Catalog Number, Comment, Compilation, Composer, Composer Sort Order, Conductor, Content Group, Copyright, Description, Director, Disk Number, Disk Subtitle, Disk Total, Encoded By, Encoder Settings, Encoding Time, Engineer, File Owner, File Type, Genre, Grouping, ISRC, Initial Key, Involved People, Language, Length, License, Lyricist, Lyrics Advisory Rating, Lyrics Unsynced, Media Type, Mix DJ, Mixer, Mood, Movement Name, Movement Number, Movement Total, MusicBrainz: Album Artist ID, MusicBrainz: Album ID, MusicBrainz: Album Release Country, MusicBrainz: Album Status, MusicBrainz: Album Type, MusicBrainz: Artist ID, MusicBrainz: Disc ID, MusicBrainz: Original Album ID, MusicBrainz: Original Artist ID, MusicBrainz: Release Group ID, MusicBrainz: Release Track ID, MusicBrainz: TRM ID, MusicBrainz: Track ID, MusicBrainz: Work ID, MusicIP: Fingerprint, MusicIP: PUID, Musician Credits, Narrator, Net Radio Owner, Net Radio Station, Original Album, Original Artist, Original File Name, Original Lyricist, Original Release Date, Original Release Year, Performer, Podcast, Podcast Category, Podcast Description, Podcast ID, Podcast Keywords, Podcast URL, Producer, Publisher, Rating, Record Label, Release Country, Release Status, Release Type, Remixed By, Replay Gain: Album Gain, Replay Gain: Album Peak, Replay Gain: Album Range, Replay Gain: Reference Loudness, Replay Gain: Track Gain, Replay Gain: Track Peak, Replay Gain: Track Range, Script, Show Movement, Show Name, Show Name Sort Order, Subtitle, Track Number, Track Title, Track Title Sort Order, Track Total, WWW, WWW: Artist, WWW: Audio File, WWW: Audio Source, WWW: Commercial Info, WWW: Copyright, WWW: Payment, WWW: Publisher, WWW: Radio Page, Website, Work Title, Writer, Year<br><br>
 
 [और पढ़ें](/docs/guide/evertag/evertag-tag-field-mappings/)
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="फाइलें कैसे डाउनलोड करें?" closed="true" %}}
+{{% ls-details title="फाइलें कैसे डाउनलोड करें?" closed="true" %}}
 ऑडियो फाइलें डाउनलोड करने और ऑडियो टैग एडिट करने से पहले, आपको एक क्लाउड स्टोरेज सेवा कनेक्ट करनी होगी।<br>
 "Connections" स्क्रीन खोलें और अपना क्लाउड स्टोरेज प्रदाता जोड़ें।<br>
 जोड़ने के बाद, आप ऐप में फाइलें डाउनलोड करना शुरू कर सकते हैं।<br><br>
@@ -321,10 +321,10 @@ ASIN, AcoustID: Fingerprint, AcoustID: Identifier, Album, Album Artist, Album Ar
 – जिस फोल्डर को डाउनलोड करना चाहते हैं उस पर जाएँ।<br>
 – ऊपरी दाएँ कोने में "More actions" बटन ("...") टैप करें और "Select" मेनू आइटम चुनें।<br>
 – जो फाइलें या फोल्डर डाउनलोड करना चाहते हैं उन्हें चुनें और "Download" एक्शन पर टैप करें।<br>
-{{% /details %}}
+{{% /ls-details %}}
 
 
-{{% details title="कौन सी क्लाउड सेवाएँ सपोर्टेड हैं?" closed="true" %}}
+{{% ls-details title="कौन सी क्लाउड सेवाएँ सपोर्टेड हैं?" closed="true" %}}
 यदि आपकी म्यूज़िक लाइब्रेरी क्लाउड में स्टोर है, तो आप सबसे लोकप्रिय क्लाउड सेवाओं को सीधे ऐप में कनेक्ट कर सकते हैं:<br>
 Dropbox, OneDrive, Box, MEGA, Yandex.Disk, MediaFire, pCloud, HiDrive।<br><br>
 
@@ -332,9 +332,9 @@ Dropbox, OneDrive, Box, MEGA, Yandex.Disk, MediaFire, pCloud, HiDrive।<br><br>
 
 आप ओपन-इन-प्लेस फीचर का उपयोग करके अपने डिवाइस पर लोकली स्टोर ऑडियो फाइलें भी एडिट कर सकते हैं। उन्हें अन्य ऐप्स से कॉपी करने की ज़रूरत नहीं — बस सीधे खोलें और एडिट करें।<br><br>
 
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="क्लाउड सेवा पर फाइल का मेटाडेटा स्वचालित रूप से कैसे अपडेट करें?" closed="true" %}}
+{{% ls-details title="क्लाउड सेवा पर फाइल का मेटाडेटा स्वचालित रूप से कैसे अपडेट करें?" closed="true" %}}
 मेटाडेटा एडिट करना समाप्त करने के बाद, चयनित फाइलों में परिवर्तन लागू करने के लिए ऊपरी दाएँ कोने में "Save" बटन टैप करें।<br><br>
 
 यदि आप क्लाउड में स्टोर फाइल एडिट कर रहे हैं, तो ऐप आपको फाइल का मेटाडेटा अपडेट करने के लिए कई विकल्प देता है। इन व्यवहारों को सेटिंग्स में कस्टमाइज़ किया जा सकता है:<br><br>
@@ -344,10 +344,10 @@ Dropbox, OneDrive, Box, MEGA, Yandex.Disk, MediaFire, pCloud, HiDrive।<br><br>
 • **फाइल का मेटाडेटा अपडेट न करें** – सक्षम होने पर, ऐप एडिटिंग के बाद क्लाउड फाइल का मेटाडेटा अपडेट करना छोड़ देगा।<br><br>
 
 आप इन विकल्पों को Evertag सेटिंग्स में मेटाडेटा अपडेट प्राथमिकताएँ सेक्शन के अंतर्गत ढूँढ और बदल सकते हैं।
-{{% /details %}}
+{{% /ls-details %}}
 
 
-{{% details title="नया अकाउंट कैसे जोड़ें?" closed="true" %}}
+{{% ls-details title="नया अकाउंट कैसे जोड़ें?" closed="true" %}}
 क्लाउड सेवा कनेक्ट करने के लिए, "Connections" टैब खोलें → "Connect to cloud storage" मेनू आइटम चुनें → सूची से क्लाउड स्टोरेज सेवा चुनें → अपने क्रेडेंशियल दर्ज करें और "Done" टैप करें।<br><br>
 
 यदि आपको समस्याएँ आती हैं, तो सुनिश्चित करें कि आपका इंटरनेट कनेक्शन सक्रिय है और अपना लॉगिन और पासवर्ड दोबारा जाँचें।<br><br>
@@ -355,9 +355,9 @@ Dropbox, OneDrive, Box, MEGA, Yandex.Disk, MediaFire, pCloud, HiDrive।<br><br>
 वर्तमान में सपोर्टेड सेवाओं में शामिल हैं: Dropbox, OneDrive, Box, MEGA, Yandex.Disk, Media Fire, PCloud और HiDrive।<br><br>
 
 ऐप के प्रीमियम संस्करण में, आप असीमित संख्या में क्लाउड अकाउंट जोड़ सकते हैं।
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="नेटवर्क स्टोरेज में अपनी फाइलें कैसे मैनेज करें?" closed="true" %}}
+{{% ls-details title="नेटवर्क स्टोरेज में अपनी फाइलें कैसे मैनेज करें?" closed="true" %}}
 यदि आपको अपने क्लाउड स्टोरेज पर स्थित कई फाइलें एडिट करनी हैं, तो ऊपरी दाएँ कोने में "..." बटन टैप करके सेलेक्ट मोड सक्रिय करें।<br><br>
 
 सक्रिय होने पर, प्रत्येक फाइल के बगल में चेकबॉक्स दिखाई देंगे। फिर आप व्यक्तिगत फाइलों पर एक्शन कर सकते हैं या बल्क एक्शन लागू करने के लिए कई फाइलें चुन सकते हैं।<br><br>
@@ -371,10 +371,10 @@ Dropbox, OneDrive, Box, MEGA, Yandex.Disk, MediaFire, pCloud, HiDrive।<br><br>
 • <strong>ग्रिड/लिस्ट</strong> – टेबल व्यू और थंबनेल व्यू मोड के बीच स्विच करें।<br><br>
 
 यदि सभी विकल्प प्रदर्शित करने के लिए पर्याप्त स्थान नहीं है, तो "More actions" बटन दिखाई देगा। उपलब्ध एक्शन की पूरी सूची एक्सेस करने के लिए इसे टैप करें।
-{{% /details %}}
+{{% /ls-details %}}
 
 
-{{% details title="कई फाइलों को एक फाइल के रूप में कैसे एडिट करें?" closed="true" %}}
+{{% ls-details title="कई फाइलों को एक फाइल के रूप में कैसे एडिट करें?" closed="true" %}}
 "बैच मोड" से आप एक साथ कई फाइलें एडिट कर सकते हैं और शेयर्ड मेटाडेटा परिवर्तन तेज़ी से और कुशलता से लागू कर सकते हैं।<br><br>
 
 बैच मोड सक्रिय करने के लिए:<br>
@@ -382,38 +382,38 @@ Dropbox, OneDrive, Box, MEGA, Yandex.Disk, MediaFire, pCloud, HiDrive।<br><br>
 • "Edit several files simultaneously" बटन टैप करें।<br><br>
 
 यह मोड विशेष रूप से तब उपयोगी है जब आपको कई ऑडियो फाइलों में समान एल्बम नाम, कलाकार, शैली या अन्य मेटाडेटा फील्ड लागू करने की ज़रूरत हो।
-{{% /details %}}
+{{% /ls-details %}}
 
 </div>
 
 <div class="hx:mt-6"></div>
 
-{{< hextra/section-headline >}}
+{{< ls-section-headline >}}
   उपयोगकर्ता गाइड
-{{< /hextra/section-headline >}}
+{{< /ls-section-headline >}}
 
 <div class="hx:mt-6"></div>
 
 <div class="hx:w-full">
 
 <div class="hx:w-full hx:mx-auto hx:flex hx:flex-col hx:items-center hx:text-center">
-  {{< hextra/info-paragraph border="false" >}}
+  {{< ls-info-paragraph border="false" >}}
   इस गाइड में, आप जानेंगे कि अपने iPhone, iPad और Mac पर Evertag की शक्ति का उपयोग कैसे करें, जिससे आपका म्यूज़िक प्रबंधन अनुभव सहज और आनंददायक बन सके।
-  {{< /hextra/info-paragraph >}}
+  {{< /ls-info-paragraph >}}
 </div>
 
 {{< cards >}}
-  {{< feature-card icon="location-marker" title="नेविगेशन" subtitle="जानें कि Tab Bar (iPhone उपयोगकर्ताओं के लिए) या Left Menu (iPad और Mac उपयोगकर्ताओं के लिए) का उपयोग करके ऐप के सभी फीचर्स तक पहुँचने और एक्सप्लोर करने के लिए हमारे ऐप को आसानी से कैसे नेविगेट करें।" link="/docs/guide/evertag/evertag-guide-navigation" >}}
+  {{< ls-feature-card icon="location-marker" title="नेविगेशन" subtitle="जानें कि Tab Bar (iPhone उपयोगकर्ताओं के लिए) या Left Menu (iPad और Mac उपयोगकर्ताओं के लिए) का उपयोग करके ऐप के सभी फीचर्स तक पहुँचने और एक्सप्लोर करने के लिए हमारे ऐप को आसानी से कैसे नेविगेट करें।" link="/docs/guide/evertag/evertag-guide-navigation" >}}
 
-  {{< feature-card icon="cloud" title="कनेक्शन" subtitle="अपनी कीमती ऑडियो फाइलों के साथ अपने सभी उपलब्ध क्लाउड अकाउंट को आसानी से लिंक करें। आप हमारे इंटीग्रेटेड फाइल मैनेजर का उपयोग करके अपनी ऑनलाइन फाइलें आसानी से एडिट भी कर सकते हैं।" link="/docs/guide/evertag/evertag-guide-connections" >}}
+  {{< ls-feature-card icon="cloud" title="कनेक्शन" subtitle="अपनी कीमती ऑडियो फाइलों के साथ अपने सभी उपलब्ध क्लाउड अकाउंट को आसानी से लिंक करें। आप हमारे इंटीग्रेटेड फाइल मैनेजर का उपयोग करके अपनी ऑनलाइन फाइलें आसानी से एडिट भी कर सकते हैं।" link="/docs/guide/evertag/evertag-guide-connections" >}}
 
-  {{< feature-card icon="folder" title="लोकल फाइलें" subtitle="ऐप के Documents फोल्डर या अपने डिवाइस पर स्टोर फाइलें देखें और व्यवस्थित करें। बिल्ट-इन फाइल मैनेजर का उपयोग करके अपनी ऑडियो फाइलें आसानी से एडिट और मैनेज करें।" link="/docs/guide/evertag/evertag-guide-local-files" >}}
+  {{< ls-feature-card icon="folder" title="लोकल फाइलें" subtitle="ऐप के Documents फोल्डर या अपने डिवाइस पर स्टोर फाइलें देखें और व्यवस्थित करें। बिल्ट-इन फाइल मैनेजर का उपयोग करके अपनी ऑडियो फाइलें आसानी से एडिट और मैनेज करें।" link="/docs/guide/evertag/evertag-guide-local-files" >}}
 
-  {{< feature-card icon="pencil-alt" title="टैग एडिटर" subtitle="ऑडियो फाइल मेटाडेटा मैनिपुलेशन की कला में महारत हासिल करें। जानें कि मेटाडेटा कैसे एडिट करें, एल्बम कवर कैसे बदलें और कई फाइलें एक साथ कैसे मैनेज करें।" link="/docs/guide/evertag/evertag-guide-tag-editor" >}}
+  {{< ls-feature-card icon="pencil-alt" title="टैग एडिटर" subtitle="ऑडियो फाइल मेटाडेटा मैनिपुलेशन की कला में महारत हासिल करें। जानें कि मेटाडेटा कैसे एडिट करें, एल्बम कवर कैसे बदलें और कई फाइलें एक साथ कैसे मैनेज करें।" link="/docs/guide/evertag/evertag-guide-tag-editor" >}}
 
-  {{< feature-card icon="code" title="टैग फील्ड मैपिंग" subtitle="Evertag ऐप द्वारा सपोर्टेड ऑडियो टैग फील्ड की पूरी सूची एक्सप्लोर करें, जिसमें आंतरिक फील्ड नाम और प्रमुख मेटाडेटा फॉर्मेट के बीच मैपिंग शामिल हैं।" link="/docs/guide/evertag/evertag-tag-field-mappings" >}}
+  {{< ls-feature-card icon="code" title="टैग फील्ड मैपिंग" subtitle="Evertag ऐप द्वारा सपोर्टेड ऑडियो टैग फील्ड की पूरी सूची एक्सप्लोर करें, जिसमें आंतरिक फील्ड नाम और प्रमुख मेटाडेटा फॉर्मेट के बीच मैपिंग शामिल हैं।" link="/docs/guide/evertag/evertag-tag-field-mappings" >}}
 
-  {{< feature-card icon="adjustments" title="सेटिंग्स" subtitle="जानें कि अपने ऐप अनुभव को कैसे कस्टमाइज़ करें, परफॉर्मेंस को फाइन-ट्यून करें, डेटा उपयोग मैनेज करें और भाषा और यूज़र इंटरफेस प्राथमिकताओं को अपनी पसंद के अनुसार अनुकूलित करें।" link="/docs/guide/evertag/evertag-guide-settings" >}}
+  {{< ls-feature-card icon="adjustments" title="सेटिंग्स" subtitle="जानें कि अपने ऐप अनुभव को कैसे कस्टमाइज़ करें, परफॉर्मेंस को फाइन-ट्यून करें, डेटा उपयोग मैनेज करें और भाषा और यूज़र इंटरफेस प्राथमिकताओं को अपनी पसंद के अनुसार अनुकूलित करें।" link="/docs/guide/evertag/evertag-guide-settings" >}}
 
 {{< /cards >}}
 

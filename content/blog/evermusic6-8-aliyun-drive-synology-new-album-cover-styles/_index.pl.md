@@ -12,7 +12,7 @@ authors:
     image: "/images/about/artem-meleshko-founder-everappz.webp"
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 **Podsumowanie:** Evermusic 6.8 dodaje integrację Aliyun Drive i Synology NAS (z QuickConnect), sześć nowych efektów przewijania okładek albumów, minimalny odtwarzacz pełnoekranowy, zarządzanie plikami przeciągnij i upuść oraz szybsze ładowanie grafik albumów. Dostępne teraz na iOS i macOS.
 
@@ -77,18 +77,18 @@ Evermusic 6.8 koncentruje się na trzech obszarach: szerszej kompatybilności z 
 
 ## Często Zadawane Pytania
 
-{{% details title="Jak podłączyć Synology NAS do Evermusic?" closed="true" %}}
+{{% ls-details title="Jak podłączyć Synology NAS do Evermusic?" closed="true" %}}
 Przejdź do karty Połączenia, wybierz Synology i wprowadź swój QuickConnectID. Evermusic łączy się bezpośrednio bez potrzeby podawania adresów IP lub konfiguracji VPN.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Czy Aliyun Drive jest darmowy w użyciu z Evermusic?" closed="true" %}}
+{{% ls-details title="Czy Aliyun Drive jest darmowy w użyciu z Evermusic?" closed="true" %}}
 Tak. Jeśli masz konto Aliyun Drive, możesz je podłączyć do Evermusic bez dodatkowych kosztów. Limity przechowywania zależą od planu Aliyun Drive.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Czy mogę dostosować styl przewijania okładek albumów?" closed="true" %}}
+{{% ls-details title="Czy mogę dostosować styl przewijania okładek albumów?" closed="true" %}}
 Tak. Przejdź do Settings > Audio Player > Personalization > Album Covers Scrolling Style i wybierz spośród sześciu opcji: MacDoc, Linear, Rotary, Inverted Rotary, Cylinder lub CoverFlow.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Czy minimalny ekran odtwarzacza działa ze wszystkimi urządzeniami?" closed="true" %}}
+{{% ls-details title="Czy minimalny ekran odtwarzacza działa ze wszystkimi urządzeniami?" closed="true" %}}
 Tak. Pełnoekranowy styl okładki albumu jest dostępny na wszystkich obsługiwanych iPhone'ach, iPadach i Macach z Evermusic 6.8 lub nowszym.
-{{% /details %}}
+{{% /ls-details %}}

@@ -25,7 +25,7 @@ Evermusic की functionality दो distinct components में thoughtfully
 चाहे आप iPhone, iPad, या Mac पर compact mode में हों, सभी app features screen के bottom पर tab bar के माध्यम से easily accessible हैं। iPad और Mac users के लिए, same menu screen के left side पर मिल सकता है। यह thoughtful organization सभी app features को easily accessible sections में categorize करता है, एक user-friendly और efficient experience सुनिश्चित करते हुए।
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="iPad और Mac पर Evermusic Left Sidebar" image="/docs/guide/evermusic/evermusic-guide-navigation/img/navigation-left-sidebar.webp" >}}
+  {{< ls-card title="" subtitle="iPad और Mac पर Evermusic Left Sidebar" image="/docs/guide/evermusic/evermusic-guide-navigation/img/navigation-left-sidebar.webp" >}}
 {{< /cards >}}
 
 **संपर्क:** आप इस screen पर Google Drive, MEGA, OneDrive, और Dropbox जैसी cloud storage services, साथ ही आपका computer और personal NAS effortlessly connect कर सकते हैं।
@@ -47,7 +47,7 @@ Local files section दो categories में divided है: Files in this ap
 Full-screen player activate करने के लिए mini player icon टैप करें और इसे hide करने के लिए swipe-down gesture का उपयोग करें। iPad और Mac पर, mini player screen screen के top पर located है और main menu के माध्यम से full-screen player opening करने पर hidden किया जा सकता है।
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="iPhone Tab Bar" image="/docs/guide/evermusic/evermusic-guide-navigation/img/navigation-bottom-tabbar.webp" >}}
+  {{< ls-card title="" subtitle="iPhone Tab Bar" image="/docs/guide/evermusic/evermusic-guide-navigation/img/navigation-bottom-tabbar.webp" >}}
 {{< /cards >}}
 
 ## Mini Player Window (Mac Exclusive)
@@ -55,7 +55,7 @@ Full-screen player activate करने के लिए mini player icon ट�
 अपने Mac पर mini player window access करने के लिए, simply अपना cursor app window के bottom-right edge पर move करें और इसे smallest possible size पर resize करें। फिर, mini-player window activate करने के लिए collapse button (downward arrow के रूप में depicted) टैप करें। Mini player window को अन्य windows के ऊपर हमेशा रखने के लिए, अपने Mac के top menu bar पर navigate करें, 'Window' select करें, और फिर 'Show Window Always On Top' choose करें। यह feature audio lectures सुनने के लिए useful है बिना interruptions के।
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Mac Mini Player Window" image="/docs/guide/evermusic/evermusic-guide-navigation/img/navigation-mac-exclusive-miniplayer.webp" >}}
+  {{< ls-card title="" subtitle="Mac Mini Player Window" image="/docs/guide/evermusic/evermusic-guide-navigation/img/navigation-mac-exclusive-miniplayer.webp" >}}
 {{< /cards >}}
 
 ## अधिक क्रियाएँ
@@ -63,7 +63,7 @@ Full-screen player activate करने के लिए mini player icon ट�
 Screen पर virtually every content item एक "अधिक क्रियाएँ" button feature करता है। सभी available actions access करने के लिए उस पर टैप करें।
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="अधिक क्रियाएँ Context Menu" image="/docs/guide/evermusic/evermusic-guide-navigation/img/navigation-more-actions.webp" >}}
+  {{< ls-card title="" subtitle="अधिक क्रियाएँ Context Menu" image="/docs/guide/evermusic/evermusic-guide-navigation/img/navigation-more-actions.webp" >}}
 {{< /cards >}}
 
 ## Top Toolbar
@@ -77,7 +77,7 @@ Top toolbar, navigation bar के ठीक नीचे conveniently situated,
 - **सभी फेरबदल करें:** Current page के सभी tracks को audio player queue में add करें, एक delightful listening experience के लिए adding से पहले उन्हें shuffle करते हुए।
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Search, Play All, और Shuffle All के साथ Top Toolbar" image="/docs/guide/evermusic/evermusic-guide-navigation/img/navigation-top-toolbar.webp" >}}
+  {{< ls-card title="" subtitle="Search, Play All, और Shuffle All के साथ Top Toolbar" image="/docs/guide/evermusic/evermusic-guide-navigation/img/navigation-top-toolbar.webp" >}}
 {{< /cards >}}
 
 ## Context menu
@@ -91,7 +91,7 @@ Context menu devices across seamless interaction के लिए additional opt
 **Right Mouse Click:** Context menu show करने के लिए cells, mini player, या compact player पर right-click करें।
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="macOS पर Context Menu" image="/docs/guide/evermusic/evermusic-guide-navigation/img/navigation-context-menu-macos.webp" >}}
+  {{< ls-card title="" subtitle="macOS पर Context Menu" image="/docs/guide/evermusic/evermusic-guide-navigation/img/navigation-context-menu-macos.webp" >}}
 {{< /cards >}}
 
 ## Accessibility
@@ -125,7 +125,7 @@ Evermusic चार Home Screen / Lock Screen widgets के साथ आता
 सभी चार widgets Small, Medium, और Large sizes में available हैं ताकि आप वह layout pick कर सकें जो आपकी screen पर fit हो।
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evermusic Widgets जोड़ना" image="/docs/guide/evermusic/evermusic-guide-navigation/img/navigation-add-widgets.webp" >}}
+  {{< ls-card title="" subtitle="Evermusic Widgets जोड़ना" image="/docs/guide/evermusic/evermusic-guide-navigation/img/navigation-add-widgets.webp" >}}
 {{< /cards >}}
 
 ### iPhone पर widget add करें (Home Screen)
@@ -175,7 +175,7 @@ CarPlay widget आपका music change होने पर live update हो�
 Evermusic में एक fully-featured **Apple CarPlay** interface (iOS only) है जो car display के लिए optimized है। एक बार आपका iPhone compatible CarPlay head unit से connected हो — USB या wirelessly — Evermusic CarPlay app grid में Apple Music और Spotify के साथ appear होता है, road पर आपकी cloud library stream करने के लिए ready।
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="CarPlay Screen पर Evermusic" image="/docs/guide/evermusic/evermusic-guide-navigation/img/navigation-carplay-menu.webp" >}}
+  {{< ls-card title="" subtitle="CarPlay Screen पर Evermusic" image="/docs/guide/evermusic/evermusic-guide-navigation/img/navigation-carplay-menu.webp" >}}
 {{< /cards >}}
 
 ### CarPlay में आपको क्या मिलता है

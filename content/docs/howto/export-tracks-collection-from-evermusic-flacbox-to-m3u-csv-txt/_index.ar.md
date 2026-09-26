@@ -6,7 +6,7 @@ keywords: ["تصدير evermusic", "تصدير flacbox", "تصدير إلى m3u"
 tags: ["evermusic", "الأخيرة", "المفضلات", "تصدير", "m3u", "قائمة تشغيل", "csv", "txt", "ألبوم"]
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **ملخص:** يتيح لك Evermusic و Flacbox تصدير أي مجموعة مسارات (الأخيرة، المفضلات، قوائم التشغيل، الألبومات) إلى ملفات CSV أو TXT أو M3U. استخدم هذه الصادرات لتسجيل الاستماع على Last.fm أو نسخ مكتبتك احتياطياً أو تشغيل قوائم التشغيل على أجهزة أخرى.
@@ -157,22 +157,22 @@ https://cloud.com/dfgfdguh45tgkbfgr/filecontent
 
 ## الأسئلة الشائعة
 
-{{% details title="أي تنسيق تصدير يجب أن أستخدمه لتسجيل الاستماع على Last.fm؟" closed="true" %}}
+{{% ls-details title="أي تنسيق تصدير يجب أن أستخدمه لتسجيل الاستماع على Last.fm؟" closed="true" %}}
 استخدم CSV. يتضمن الطوابع الزمنية والبيانات الوصفية الكاملة المطلوبة بواسطة أدوات التسجيل مثل Last.fm-Scrubbler-WPF.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="هل يمكنني تصدير أي مجموعة مسارات، وليس فقط قوائم التشغيل؟" closed="true" %}}
+{{% ls-details title="هل يمكنني تصدير أي مجموعة مسارات، وليس فقط قوائم التشغيل؟" closed="true" %}}
 نعم. يمكنك تصدير الأخيرة والمفضلات والألبومات وقوائم التشغيل وأي مجموعة مسارات أخرى في التطبيق باستخدام نفس الخطوات.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="هل ستعمل قائمة تشغيل M3U الخاصة بي على أجهزة أخرى؟" closed="true" %}}
+{{% ls-details title="هل ستعمل قائمة تشغيل M3U الخاصة بي على أجهزة أخرى؟" closed="true" %}}
 إذا اخترت خيار عنوان URL المطلق أثناء التصدير، يمكن تشغيل ملف M3U على أي جهاز يدعم قوائم تشغيل M3U. لاحظ أن بعض عناوين URL السحابية قد تنتهي صلاحيتها بمرور الوقت.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="هل ميزة التصدير مجانية؟" closed="true" %}}
+{{% ls-details title="هل ميزة التصدير مجانية؟" closed="true" %}}
 نعم. تصدير مجموعات المسارات إلى M3U وCSV وTXT متاح في كل من الإصدارات المجانية والمميزة من Evermusic و Flacbox.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="ما هي خدمات التخزين السحابي التي تدعم تصدير عنوان URL المطلق؟" closed="true" %}}
+{{% ls-details title="ما هي خدمات التخزين السحابي التي تدعم تصدير عنوان URL المطلق؟" closed="true" %}}
 يتم دعم تصدير عنوان URL المطلق لـ iCloud Drive وpCloud وPanBaidu وMyCloudHome وDLNA وMediaFire وOneDrive وBox وDropbox وGoogle Drive وWebDAV (وضع الضيف).
-{{% /details %}}
+{{% /ls-details %}}

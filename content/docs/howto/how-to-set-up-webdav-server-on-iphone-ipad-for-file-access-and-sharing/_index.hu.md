@@ -7,7 +7,7 @@ keywords: ["WebDAV szerver iPhone", "WebDAV szerver iPad", "hogyan állíts be W
 readingTime: 9
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 A WebDAV egy mappát olyan hálózati meghajtóvá alakít, amelyet egy számítógép meg tud nyitni a normál fájlkezelőjében. Ugyanazon a webprotokollon fut, amelyet a böngésződ használ, ezért jól utazik Mac, Windows és Linux között speciális illesztőprogramok nélkül. Az [Everdisk](/products/everdisk) segítségével WebDAV szervert futtathatsz az iPhone-odon vagy iPad-eden, így a telefon meghajtóként jelenik meg, amelyet böngészhetsz, amelyről másolhatsz, és amelyre másolhatsz szinte bármelyik számítógépről.
 
@@ -104,40 +104,40 @@ A **Fájlszerkesztés** kapcsoló a Beállítások, Megosztás, Hozzáférés me
 
 ## Gyakran ismételt kérdések
 
-{{% details title="Mi az iPhone-om WebDAV-címe és portja?" closed="true" %}}
+{{% ls-details title="Mi az iPhone-om WebDAV-címe és portja?" closed="true" %}}
 Miután elindítod a megosztást, az Everdisk mutatja a címet a Megosztás képernyőn. Így néz ki: http://192.168.1.20:8080. A 8080 az a port, amelyet az Everdisk a WebDAV-hoz használ, az első rész pedig az iPhone-od Wi-Fi-címe, így a tiéd más lesz.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Hogyan csatlakozom az iPhone-om WebDAV-jához Windowsról?" closed="true" %}}
+{{% ls-details title="Hogyan csatlakozom az iPhone-om WebDAV-jához Windowsról?" closed="true" %}}
 Nyisd meg a Fájlkezelőt, kattints jobb gombbal az Ez a gép elemre, és válaszd a Hálózati hely hozzáadása vagy a Hálózati meghajtó csatlakoztatása lehetőséget. Add meg az Everdiskből származó WebDAV-címet, például http://192.168.1.20:8080, majd add meg a bejelentkezésedet, ha beállítottál egyet. Ha a Windows nem hajlandó csatlakozni, győződj meg róla, hogy a WebClient szolgáltatás fut (keresd a Szolgáltatásokat, keresd meg a WebClientet, indítsd el) és próbáld újra.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Használhatok WebDAV-ot két iPhone között?" closed="true" %}}
+{{% ls-details title="Használhatok WebDAV-ot két iPhone között?" closed="true" %}}
 Igen, de az iOS Fájlok appjának nincs WebDAV-kliense, ezért használd az Everdisket a második készüléken. Nyisd meg az Eszközök fület, érintsd meg az Új kapcsolat lehetőséget, válaszd a WebDAV lehetőséget, és add meg az első telefonon megjelenő címet. Egy WebDAV-alkalmazás, mint a Documents by Readdle, szintén működik.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Kell jelszó a WebDAV-hoz?" closed="true" %}}
+{{% ls-details title="Kell jelszó a WebDAV-hoz?" closed="true" %}}
 Nem, a bejelentkezés opcionális. Hagyd a Felhasználónevet és a Jelszót üresen a Beállítások, Megosztás, Hozzáférés menüben a vendéghozzáféréshez, vagy állítsd be őket, ha azt szeretnéd, hogy a kapcsolatok bejelentkezzenek.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Módosíthatják mások a fájljaimat WebDAV felett?" closed="true" %}}
+{{% ls-details title="Módosíthatják mások a fájljaimat WebDAV felett?" closed="true" %}}
 Csak ha megengeded. A Fájlszerkesztés kapcsoló a Beállítások, Megosztás, Hozzáférés menüben szabályozza ezt. A bekapcsolt állapot engedi a csatlakozó eszközöknek a feltöltést, átnevezést és törlést. A kikapcsolt állapot csak olvashatóvá teszi a meghajtót, így mások megtekinthetik és lemásolhatják, de nem módosíthatnak semmit.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="WebDAV vagy SMB, mi a különbség?" closed="true" %}}
+{{% ls-details title="WebDAV vagy SMB, mi a különbség?" closed="true" %}}
 Mindkettő hálózati meghajtóként csatlakoztatja az iPhone-odat. A WebDAV a webprotokollon fut és tisztán csatlakozik a Windows Fájlkezelőből, ami a fő erőssége. Az SMB a natív fájlmegosztás Macen, Linuxon és NAS-eszközökön, általában gyorsabb egy Macen, és ez az egyetlen Everdisk-kapcsolat, amely titkosítani tudja az átviteleket. Az Everdisk mindkettőt egyszerre futtatja.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Miért szakad meg a WebDAV meghajtóm?" closed="true" %}}
+{{% ls-details title="Miért szakad meg a WebDAV meghajtóm?" closed="true" %}}
 Az iPhone-od a szerver, és az iOS szünetelteti a túl sokáig a háttérben maradó alkalmazásokat. Tartsd az Everdisket a képernyőn, amíg egy eszköz csatlakozik, és csatlakoztasd a hálózathoz a hosszú átvitelekhez. Győződj meg arról is, hogy mindkét eszköz még mindig ugyanazon a Wi-Fi hálózaton van.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Csatlakozhatok WebDAV felett Wi-Fi nélkül?" closed="true" %}}
+{{% ls-details title="Csatlakozhatok WebDAV felett Wi-Fi nélkül?" closed="true" %}}
 Igen, ha az iPhone-odat egy Machez csatlakoztatod egy kábellel. Az Everdisk ekkor mutat egy extra kábeles kapcsolat címet, amelyet a csatlakoztatott Mac megnyithat a Finderben, ami Wi-Fi nélkül is működik. A kábelen csak az a Mac éri el a készüléket.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Ingyenes az Everdisk?" closed="true" %}}
+{{% ls-details title="Ingyenes az Everdisk?" closed="true" %}}
 Igen, az Everdisk ingyenesen letölthető és a WebDAV szerver benne van. Egy opcionális egyszeri Premium vásárlás olyan extrákat ad hozzá, mint az egyéni portok és a fénykép- és videóátalakítás. A WebDAV-ot fizetés nélkül beállíthatod és megoszthatsz fájlokat.
-{{% /details %}}
+{{% /ls-details %}}
 
 Készen állsz kipróbálni? [Töltsd le az Everdisket az App Store-ból](https://apps.apple.com/app/apple-store/id6751851132?pt=95781850&ct=everappzcom&mt=8) és pár perc alatt csatlakoztasd az iPhone-odat meghajtóként. Kérdés vagy visszajelzés? Írj nekünk a **support@everappz.com** címre.

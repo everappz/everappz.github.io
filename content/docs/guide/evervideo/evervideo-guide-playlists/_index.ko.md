@@ -19,7 +19,7 @@ readingTime: 5
 Evervideo의 재생 목록에는 온라인 클라우드 비디오, 오프라인 다운로드된 파일, 로컬 파일, 사진 라이브러리 비디오, iOS 음악 라이브러리 비디오를 혼합하여 포함할 수 있습니다 — 모두 하나의 재생 목록에서 — 원활하게 함께 재생됩니다.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="미디어 라이브러리의 Evervideo 재생 목록" image="/docs/guide/evervideo/img/evervideo-playlists-in-media-library.webp" >}}
+  {{< ls-card title="" subtitle="미디어 라이브러리의 Evervideo 재생 목록" image="/docs/guide/evervideo/img/evervideo-playlists-in-media-library.webp" >}}
 {{< /cards >}}
 
 ## 재생 목록 만들기

@@ -7,7 +7,7 @@ tags: ["evermusic", "flacbox", "gần đây", "lastfm", "xuất", "scrobbler"]
 readingTime: 5
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **Tóm tắt:** Xuất lịch sử nghe nhạc từ Evermusic hoặc Flacbox dưới dạng tệp CSV, sau đó tải lên Last.fm bằng công cụ miễn phí Last.fm-Scrubbler-WPF trên Windows. Scrobble tự động cũng có sẵn trong cả hai ứng dụng.
@@ -134,22 +134,22 @@ Bây giờ bạn có thể mở hồ sơ của mình trên trang [Last.fm](http:
 
 ## Câu hỏi thường gặp
 
-{{% details title="Tôi có thể scrobble tự động mà không cần xuất tệp CSV không?" closed="true" %}}
+{{% ls-details title="Tôi có thể scrobble tự động mà không cần xuất tệp CSV không?" closed="true" %}}
 Có. Cả Evermusic và Flacbox đều hỗ trợ scrobble tự động sang Last.fm. Xem hướng dẫn: [Cách Scrobble sang Last.fm](/docs/howto/how-to-scrobble-your-music-history-from-evermusic-or-flacbox-to-last-fm).
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Nếu CSV của tôi có bản nhạc cũ hơn 14 ngày thì sao?" closed="true" %}}
+{{% ls-details title="Nếu CSV của tôi có bản nhạc cũ hơn 14 ngày thì sao?" closed="true" %}}
 Sử dụng Chế độ Nhập trong Last.fm-Scrubbler-WPF. Nó tính lại dấu thời gian từ Finish Time, cho phép bạn scrobble bản nhạc bất kể ngày gốc.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Tôi không có máy tính Windows. Tôi vẫn có thể sử dụng Last.fm-Scrubbler không?" closed="true" %}}
+{{% ls-details title="Tôi không có máy tính Windows. Tôi vẫn có thể sử dụng Last.fm-Scrubbler không?" closed="true" %}}
 Có. Cài đặt VirtualBox trên Mac của bạn và tải hình ảnh Môi trường Phát triển Windows miễn phí từ Microsoft. Chạy Last.fm-Scrubbler-WPF bên trong máy ảo.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Tại sao một số scrobble không được phân tích?" closed="true" %}}
+{{% ls-details title="Tại sao một số scrobble không được phân tích?" closed="true" %}}
 Các bản nhạc thiếu siêu dữ liệu cần thiết (như tên nghệ sĩ) không thể được phân tích. Điều này là bình thường và không ảnh hưởng đến các bản nhạc khác trong tệp.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Có giới hạn scrobble hàng ngày không?" closed="true" %}}
+{{% ls-details title="Có giới hạn scrobble hàng ngày không?" closed="true" %}}
 Có. Last.fm-Scrubbler-WPF cho phép tối đa 2.800 scrobble mỗi ngày. Nếu bạn cần scrobble nhiều hơn, hãy chia quy trình thành nhiều ngày.
-{{% /details %}}
+{{% /ls-details %}}

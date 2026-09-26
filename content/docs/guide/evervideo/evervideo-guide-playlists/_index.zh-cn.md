@@ -19,7 +19,7 @@ readingTime: 5
 Evervideo 中的播放列表可以包含在线云端视频、离线下载文件、本地文件、Photos 库视频和 iOS Music 库视频的混合——全部在一个播放列表中——并无缝一起播放。
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evervideo 媒体资料库中的播放列表" image="/docs/guide/evervideo/img/evervideo-playlists-in-media-library.webp" >}}
+  {{< ls-card title="" subtitle="Evervideo 媒体资料库中的播放列表" image="/docs/guide/evervideo/img/evervideo-playlists-in-media-library.webp" >}}
 {{< /cards >}}
 
 ## 创建播放列表

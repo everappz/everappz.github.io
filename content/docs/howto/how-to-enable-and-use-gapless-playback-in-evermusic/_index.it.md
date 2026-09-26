@@ -7,7 +7,7 @@ tags: ["Evermusic", "Riproduzione gapless", "Guida", "Audio", "Riproduzione", "C
 readingTime: 4
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 **In breve:** apri **Impostazioni > Lettore audio > Riproduzione gapless** e attiva l'interruttore su **ON**. Da quel momento le canzoni vengono riprodotte senza pause, click o scatti tra l'una e l'altra. Evermusic pre-carica e decodifica il brano successivo mentre quello corrente è ancora in riproduzione, poi effettua il passaggio tra i campioni audio su un buffer continuo, così la transizione è davvero perfetta. È una vera riproduzione gapless accurata al campione, non un crossfade.
 
@@ -73,30 +73,30 @@ Il risultato è che un album live, un DJ set sincronizzato a tempo o un concept 
 
 ## Domande frequenti
 
-{{% details title="Come attivo la riproduzione gapless in Evermusic?" closed="true" %}}
+{{% ls-details title="Come attivo la riproduzione gapless in Evermusic?" closed="true" %}}
 Apri Evermusic, vai su Impostazioni > Lettore audio > Riproduzione gapless e attiva l'interruttore su ON. È disattivata per impostazione predefinita. Una volta attivata, si applica a tutto ciò che riproduci e resta attiva finché non la disattivi.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="La riproduzione gapless di Evermusic è vero gapless o solo crossfade?" closed="true" %}}
+{{% ls-details title="La riproduzione gapless di Evermusic è vero gapless o solo crossfade?" closed="true" %}}
 È una vera riproduzione gapless accurata al campione. Evermusic decodifica e pre-carica il brano successivo mentre quello corrente è in riproduzione, poi effettua il passaggio tra i campioni audio su un buffer continuo, così non viene inserito alcun silenzio, click o padding e non si verifica alcuna pausa di riavvio del decoder. Il crossfade è una funzione separata e diversa che sovrappone e fonde i brani; il gapless mantiene l'audio esattamente come masterizzato e si limita a eliminare la pausa.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Perché sento ancora una pausa tra alcuni brani?" closed="true" %}}
+{{% ls-details title="Perché sento ancora una pausa tra alcuni brani?" closed="true" %}}
 Assicurati che la riproduzione gapless sia attivata su ON in Impostazioni > Lettore audio > Riproduzione gapless. Se una pausa rimane, potrebbe essere incorporata nella registrazione stessa (alcuni file includono qualche secondo di vero silenzio all'inizio o alla fine di un brano). Il gapless elimina la pausa che il lettore aggiungerebbe normalmente tra i brani; non può eliminare il silenzio che fa parte del file audio.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="La riproduzione gapless funziona con FLAC e altri file lossless?" closed="true" %}}
+{{% ls-details title="La riproduzione gapless funziona con FLAC e altri file lossless?" closed="true" %}}
 Sì. La riproduzione gapless funziona con FLAC, Apple Lossless (ALAC) e formati lossy come MP3 e AAC, che i file siano archiviati localmente, nel cloud o su un media server.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Posso usare la riproduzione gapless e il crossfade contemporaneamente?" closed="true" %}}
+{{% ls-details title="Posso usare la riproduzione gapless e il crossfade contemporaneamente?" closed="true" %}}
 No. Fanno cose opposte, quindi attivare la riproduzione gapless disattiva automaticamente il crossfade. Usa il gapless per album live, DJ mix e concept album dove l'audio va conservato esattamente; usa il crossfade se vuoi che le canzoni sfumino l'una nell'altra.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="La riproduzione gapless funziona durante lo streaming dal cloud?" closed="true" %}}
+{{% ls-details title="La riproduzione gapless funziona durante lo streaming dal cloud?" closed="true" %}}
 Sì. Evermusic inizia a bufferizzare e decodificare il brano successivo in anticipo, anche per unità cloud e media server, così il passaggio resta senza interruzioni. Su connessioni più lente inizia semplicemente a preparare il brano successivo un po' prima.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="La riproduzione gapless riduce la qualità audio?" closed="true" %}}
+{{% ls-details title="La riproduzione gapless riduce la qualità audio?" closed="true" %}}
 No. La riproduzione gapless non ricodifica né elabora il tuo audio. Cambia solo il modo in cui i brani sono programmati e bufferizzati così non c'è pausa tra loro. Ogni campione viene riprodotto esattamente com'è nel file.
-{{% /details %}}
+{{% /ls-details %}}

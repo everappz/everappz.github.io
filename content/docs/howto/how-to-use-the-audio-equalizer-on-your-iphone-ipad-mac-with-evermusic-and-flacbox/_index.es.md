@@ -7,7 +7,7 @@ tags: ["música", "audio", "ecualizador", "10 bandas", "ganancia", "configuraci�
 keywords: ["ecualizador de audio iPhone", "preajustes EQ Evermusic", "ecualizador 10 bandas Flacbox", "ajustar graves agudos iOS", "ecualizador app música Mac", "aumentar audio con preamplificador", "preajustes de sonido personalizados"]
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **Resumen:** Evermusic y Flacbox incluyen un ecualizador de audio profesional de 10 bandas con preajustes (Rock, Hip-Hop, Bass Booster y más), creación de preajustes personalizados y un preamplificador para aumentar el volumen. Disponible en iPhone, iPad y Mac.
@@ -105,26 +105,26 @@ Eleva tu experiencia musical, adapta tu audio a cualquier escenario y disfruta d
 
 ## Preguntas frecuentes
 
-{{% details title="¿Funciona el ecualizador con todos los formatos de audio?" closed="true" %}}
+{{% ls-details title="¿Funciona el ecualizador con todos los formatos de audio?" closed="true" %}}
 Sí. El EQ de 10 bandas en Evermusic y Flacbox funciona con MP3, FLAC, AAC, WAV, ALAC, OGG y todos los demás formatos compatibles.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="¿Se aplicarán los ajustes de EQ a todas las canciones?" closed="true" %}}
+{{% ls-details title="¿Se aplicarán los ajustes de EQ a todas las canciones?" closed="true" %}}
 Sí. Una vez que activas el ecualizador y seleccionas un preajuste, se aplica a toda la reproducción hasta que lo cambies o lo desactives.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="¿Puedo crear más de un preajuste personalizado?" closed="true" %}}
+{{% ls-details title="¿Puedo crear más de un preajuste personalizado?" closed="true" %}}
 Sí. Puedes crear, guardar y alternar entre múltiples preajustes personalizados. Usa la función de exportación para respaldarlos.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="¿El preamplificador causa distorsión?" closed="true" %}}
+{{% ls-details title="¿El preamplificador causa distorsión?" closed="true" %}}
 Puede hacerlo si se establece demasiado alto. Observa los indicadores de nivel de audio mientras ajustas. Si los niveles están recortando (llegando al máximo), reduce ligeramente la ganancia del preamplificador.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="¿Está el ecualizador disponible tanto en Evermusic como en Flacbox?" closed="true" %}}
+{{% ls-details title="¿Está el ecualizador disponible tanto en Evermusic como en Flacbox?" closed="true" %}}
 Sí. Ambas aplicaciones incluyen el mismo ecualizador de 10 bandas con preajustes, preajustes personalizados y preamplificador.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="¿Puedo compartir mis preajustes de EQ con alguien más?" closed="true" %}}
+{{% ls-details title="¿Puedo compartir mis preajustes de EQ con alguien más?" closed="true" %}}
 Sí. Usa la opción de Exportar configuración para guardar tus preajustes en un archivo y luego compártelo. La otra persona puede importarlo usando Importar configuración.
-{{% /details %}}
+{{% /ls-details %}}

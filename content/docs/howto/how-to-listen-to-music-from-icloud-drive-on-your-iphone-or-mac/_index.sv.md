@@ -7,7 +7,7 @@ tags: ["musik", "moln", "streaming", "spelare", "enhet", "icloud"]
 readingTime: 5
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **Sammanfattning:** Ladda upp musik till iCloud Drive, installera [Evermusic](/products/evermusic) (för MP3/WAV) eller [Flacbox](/products/flacbox) (för FLAC/DSD), anslut din iCloud Drive-mapp och streama direkt utan att använda enhetens lagringsutrymme.
@@ -29,8 +29,8 @@ Innan du kan börja njuta av din iCloud Drive-musik på din iPhone eller Mac beh
 1. Gå till App Store och ladda ner **Evermusic** om din musik är lagrad i standardljudformat som mp3 eller wav. Om du har förlustfri musik i dsd eller flac, välj **Flacbox**. Båda apparna finns tillgängliga för iOS och MacOS.
 
 {{< cards >}}
-  {{< card link="https://apps.apple.com/us/app/evermusic-cloud-music-player/id885367198" title="Ladda ner Evermusic för iOS" icon="download" tag="Gratis" >}}
-  {{< card link="https://apps.apple.com/us/app/flacbox-flac-player-equalizer/id1097564256" title="Ladda ner Flacbox för iOS" icon="download" tag="Gratis" >}}
+  {{< ls-card link="https://apps.apple.com/us/app/evermusic-cloud-music-player/id885367198" title="Ladda ner Evermusic för iOS" icon="download" tag="Gratis" >}}
+  {{< ls-card link="https://apps.apple.com/us/app/flacbox-flac-player-equalizer/id1097564256" title="Ladda ner Flacbox för iOS" icon="download" tag="Gratis" >}}
 {{< /cards >}}
 
 - För MacOS:
@@ -38,8 +38,8 @@ Innan du kan börja njuta av din iCloud Drive-musik på din iPhone eller Mac beh
 1. Besök App Store på din Mac och installera **Evermusic** eller **Flacbox** baserat på dina musikformatpreferenser.
 
 {{< cards >}}
-  {{< card link="https://apps.apple.com/us/app/evermusic-cloud-music-player/id1564384601" title="Ladda ner Evermusic för Mac" icon="download" tag="Gratis" >}}
-  {{< card link="https://apps.apple.com/us/app/flacbox-hires-music-player/id1594027432" title="Ladda ner Flacbox för Mac" icon="download" tag="Gratis" >}}
+  {{< ls-card link="https://apps.apple.com/us/app/evermusic-cloud-music-player/id1564384601" title="Ladda ner Evermusic för Mac" icon="download" tag="Gratis" >}}
+  {{< ls-card link="https://apps.apple.com/us/app/flacbox-hires-music-player/id1594027432" title="Ladda ner Flacbox för Mac" icon="download" tag="Gratis" >}}
 {{< /cards >}}
 
 När du har installerat appen på din iPhone eller Mac är du redo att fortsätta.
@@ -215,22 +215,22 @@ Nu, sätt igång, börja streama och låt musiken spela!
 
 ## Vanliga frågor
 
-{{% details title="Vilka ljudformat kan jag streama från iCloud Drive?" closed="true" %}}
+{{% ls-details title="Vilka ljudformat kan jag streama från iCloud Drive?" closed="true" %}}
 Evermusic stöder MP3, WAV, AAC och andra standardformat. Flacbox lägger till stöd för FLAC, DSD, OGG och OPUS. Välj den app som matchar din musiksamling.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Använder streaming från iCloud Drive enhetens lagringsutrymme?" closed="true" %}}
+{{% ls-details title="Använder streaming från iCloud Drive enhetens lagringsutrymme?" closed="true" %}}
 Nej. Både Evermusic och Flacbox streamar ljud direkt från din iCloud Drive utan att ladda ner filer till din enhet. Du kan valfritt ladda ner enskilda spår för offline-lyssning.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Kan jag använda iCloud Drive-musik offline?" closed="true" %}}
+{{% ls-details title="Kan jag använda iCloud Drive-musik offline?" closed="true" %}}
 Ja. Tryck på trepunktsmenyn på valfritt spår och välj nedladdningsalternativet. Filen sparas lokalt för offline-uppspelning.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Varför stannar eller buffrar min musik under uppspelning?" closed="true" %}}
+{{% ls-details title="Varför stannar eller buffrar min musik under uppspelning?" closed="true" %}}
 Detta orsakas vanligtvis av en långsam eller instabil internetanslutning. Aktivera ljudspelarens cache i Inställningar för att förladda kommande spår och förhindra avbrott.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Är musikstreaming från iCloud Drive gratis?" closed="true" %}}
+{{% ls-details title="Är musikstreaming från iCloud Drive gratis?" closed="true" %}}
 Både Evermusic och Flacbox är gratis att ladda ner. iCloud Drive erbjuder 5 GB gratis lagringsutrymme. Du kan uppgradera din iCloud-lagringsplan via Apple om du behöver mer utrymme.
-{{% /details %}}
+{{% /ls-details %}}

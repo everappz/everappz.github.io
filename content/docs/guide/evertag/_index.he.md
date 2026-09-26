@@ -55,17 +55,17 @@ Evertag כולל מנהל קבצים מובנה התומך בכל פעולות �
 במדריך זה, תגלו כיצד לרתום את עוצמת Evertag ב-iPhone, iPad ו-Mac שלכם, ולהפוך את חוויית ניהול המוזיקה שלכם לחלקה ומהנה.
 
 {{< cards >}}
-  {{< card icon="location-marker" title="ניווט" subtitle="למדו כיצד לנווט ללא מאמץ באפליקציה שלנו באמצעות סרגל הכרטיסיות (למשתמשי iPhone) או התפריט השמאלי (למשתמשי iPad ו-Mac) כדי לגשת ולחקור את כל תכונות האפליקציה." link="/docs/guide/evertag/evertag-guide-navigation" >}}
+  {{< ls-card icon="location-marker" title="ניווט" subtitle="למדו כיצד לנווט ללא מאמץ באפליקציה שלנו באמצעות סרגל הכרטיסיות (למשתמשי iPhone) או התפריט השמאלי (למשתמשי iPad ו-Mac) כדי לגשת ולחקור את כל תכונות האפליקציה." link="/docs/guide/evertag/evertag-guide-navigation" >}}
 
-  {{< card icon="cloud" title="חיבורים" subtitle="חברו ללא מאמץ את כל חשבונות הענן הזמינים שלכם עם קבצי האודיו היקרים שלכם. אתם יכולים אפילו לערוך את הקבצים המקוונים שלכם ללא מאמץ באמצעות מנהל הקבצים המשולב שלנו." link="/docs/guide/evertag/evertag-guide-connections" >}}
+  {{< ls-card icon="cloud" title="חיבורים" subtitle="חברו ללא מאמץ את כל חשבונות הענן הזמינים שלכם עם קבצי האודיו היקרים שלכם. אתם יכולים אפילו לערוך את הקבצים המקוונים שלכם ללא מאמץ באמצעות מנהל הקבצים המשולב שלנו." link="/docs/guide/evertag/evertag-guide-connections" >}}
 
-  {{< card icon="folder" title="קבצים מקומיים" subtitle="הציגו וארגנו קבצים המאוחסנים בתיקיית המסמכים של האפליקציה או במכשיר שלכם. השתמשו במנהל הקבצים המובנה כדי לערוך ולנהל את קבצי האודיו שלכם בקלות." link="/docs/guide/evertag/evertag-guide-local-files" >}}
+  {{< ls-card icon="folder" title="קבצים מקומיים" subtitle="הציגו וארגנו קבצים המאוחסנים בתיקיית המסמכים של האפליקציה או במכשיר שלכם. השתמשו במנהל הקבצים המובנה כדי לערוך ולנהל את קבצי האודיו שלכם בקלות." link="/docs/guide/evertag/evertag-guide-local-files" >}}
 
-  {{< card icon="pencil-alt" title="עורך תגים" subtitle="שלטו באמנות מניפולציית מטאדטה של קבצי אודיו. גלו כיצד לערוך מטאדטה, לשנות עטיפות אלבום ולנהל מספר קבצים בו-זמנית." link="/docs/guide/evertag/evertag-guide-tag-editor" >}}
+  {{< ls-card icon="pencil-alt" title="עורך תגים" subtitle="שלטו באמנות מניפולציית מטאדטה של קבצי אודיו. גלו כיצד לערוך מטאדטה, לשנות עטיפות אלבום ולנהל מספר קבצים בו-זמנית." link="/docs/guide/evertag/evertag-guide-tag-editor" >}}
 
-  {{< card icon="code" title="מיפויי שדות תגים" subtitle="חקרו את הרשימה המלאה של שדות תגי אודיו הנתמכים על ידי אפליקציית Evertag, כולל שמות שדות פנימיים ומיפויים בין פורמטי מטאדטה עיקריים." link="/docs/guide/evertag/evertag-tag-field-mappings" >}}
+  {{< ls-card icon="code" title="מיפויי שדות תגים" subtitle="חקרו את הרשימה המלאה של שדות תגי אודיו הנתמכים על ידי אפליקציית Evertag, כולל שמות שדות פנימיים ומיפויים בין פורמטי מטאדטה עיקריים." link="/docs/guide/evertag/evertag-tag-field-mappings" >}}
 
-  {{< card icon="adjustments" title="הגדרות" subtitle="גלו כיצד להתאים אישית את חוויית האפליקציה שלכם, לכוונן ביצועים, לנהל שימוש בנתונים ולהתאים העדפות שפה וממשק משתמש לטעמכם." link="/docs/guide/evertag/evertag-guide-settings" >}}
+  {{< ls-card icon="adjustments" title="הגדרות" subtitle="גלו כיצד להתאים אישית את חוויית האפליקציה שלכם, לכוונן ביצועים, לנהל שימוש בנתונים ולהתאים העדפות שפה וממשק משתמש לטעמכם." link="/docs/guide/evertag/evertag-guide-settings" >}}
 
-  {{< card icon="question-mark-circle" title="שאלות נפוצות" subtitle="מצאו תשובות מהירות לשאלות נפוצות בסעיף השאלות הנפוצות שלנו." link="/docs/faq/evertag" >}}
+  {{< ls-card icon="question-mark-circle" title="שאלות נפוצות" subtitle="מצאו תשובות מהירות לשאלות נפוצות בסעיף השאלות הנפוצות שלנו." link="/docs/faq/evertag" >}}
 {{< /cards >}}

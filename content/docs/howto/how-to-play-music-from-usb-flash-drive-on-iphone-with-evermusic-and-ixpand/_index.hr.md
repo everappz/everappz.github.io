@@ -7,7 +7,7 @@ tags: ["glazba", "usb", "vanjski", "ixpand", "sandisk", "iphone", "evermusic"]
 readingTime: 3
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **Sažetak:** Evermusic vam omogućuje reprodukciju glazbe izravno sa SanDisk iXpand Flash Drive na vašem iPhoneu ili iPadu. Priključite pogon, otvorite Evermusic i počnite slušati -- nema potrebe kopirati datoteke na vaš uređaj. Podržava upravljanje datotekama, popise pjesama, ekvalizator i AirPlay streaming.
@@ -69,22 +69,22 @@ S Evermusic i SanDisk iXpand Flash Drive, imat ćete slobodu uživati u svojoj g
 
 ## Česta pitanja
 
-{{% details title="Koje modele iXpand Flash Drive podržava Evermusic?" closed="true" %}}
+{{% ls-details title="Koje modele iXpand Flash Drive podržava Evermusic?" closed="true" %}}
 Evermusic podržava SanDisk iXpand Flash Drive s protokolima V1, V2, V3, V6 i V7. Kompatibilnost možete provjeriti u Postavkama vašeg iPhonea pod Općenito > O uređaju > iXpand Flash Drive.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Mogu li reproducirati glazbu s USB pogona bez kopiranja datoteka na iPhone?" closed="true" %}}
+{{% ls-details title="Mogu li reproducirati glazbu s USB pogona bez kopiranja datoteka na iPhone?" closed="true" %}}
 Da. Evermusic reproducira audio datoteke izravno s iXpand Flash Drive. Nema potrebe kopirati ništa u internu pohranu vašeg uređaja.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Koje audio formate Evermusic podržava s USB pogona?" closed="true" %}}
+{{% ls-details title="Koje audio formate Evermusic podržava s USB pogona?" closed="true" %}}
 Evermusic podržava sve glavne audio formate uključujući MP3, FLAC, AAC, WAV, AIFF, OGG i druge. Bilo koja audio datoteka pohranjena na vašem iXpand pogonu može se reproducirati izravno.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Mogu li streamati glazbu s iXpand pogona na AirPlay zvučnike?" closed="true" %}}
+{{% ls-details title="Mogu li streamati glazbu s iXpand pogona na AirPlay zvučnike?" closed="true" %}}
 Da. Tijekom reprodukcije glazbe s USB pogona, možete streamati audio na uređaje kompatibilne s AirPlay poput Sonos zvučnika, Apple TV i Google Chromecast.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Što trebam učiniti ako moj iXpand pogon nije prepoznat?" closed="true" %}}
+{{% ls-details title="Što trebam učiniti ako moj iXpand pogon nije prepoznat?" closed="true" %}}
 Provjerite da nijedna druga aplikacija ne koristi pogon. Pokušajte ga odspojiti i ponovno spojiti. Ako vaš model nije podržan, koristite Apple Lightning na USB adapter za povezivanje pogona kao standardnog USB uređaja.
-{{% /details %}}
+{{% /ls-details %}}

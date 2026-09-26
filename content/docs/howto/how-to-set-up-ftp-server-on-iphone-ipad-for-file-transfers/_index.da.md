@@ -7,7 +7,7 @@ keywords: ["FTP-server iPhone", "FTP-server iPad", "sådan opsætter du FTP på 
 readingTime: 9
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 FTP er den gamle pålidelige inden for filoverførsel. Den har eksisteret i årtier, hvilket er præcis grunden til, at den er så nyttig: næsten alt, der kan tale med en server, forstår den. Kameraer, smart-TV, routere, netværksdrev, automatiseringsværktøjer og enhver desktop-FTP-app taler FTP. Med [Everdisk](/products/everdisk) kan du køre en FTP-server på din iPhone eller iPad, så telefonen bliver et sted, som de enheder og apps kan forbinde til og flytte filer.
 
@@ -118,44 +118,44 @@ Kontakten **Filredigering** i Indstillinger, Deling, Adgang styrer dette. Slået
 
 ## Ofte stillede spørgsmål
 
-{{% details title="Hvad er FTP-adressen og porten til min iPhone?" closed="true" %}}
+{{% ls-details title="Hvad er FTP-adressen og porten til min iPhone?" closed="true" %}}
 Efter du starter deling, viser Everdisk adressen på Deling-skærmen. Den ser ud som ftp://192.168.1.20:2121. 2121 er den port, Everdisk bruger til FTP, og den første del er din iPhones adresse på Wi-Fi, så din vil være anderledes.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Hvordan forbinder jeg FileZilla eller Cyberduck til min iPhone?" closed="true" %}}
+{{% ls-details title="Hvordan forbinder jeg FileZilla eller Cyberduck til min iPhone?" closed="true" %}}
 Åbn appen, og opret en ny forbindelse. Sæt Host til din iPhones Wi-Fi-adresse og Port til 2121. Indtast dit Login og din Adgangskode, eller vælg Anonymous, hvis du ikke har indstillet et i Everdisk. Forbind, og du kan trække filer i begge retninger, når Filredigering er slået til.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Kan jeg forbinde til min iPhones FTP fra Windows?" closed="true" %}}
+{{% ls-details title="Kan jeg forbinde til min iPhones FTP fra Windows?" closed="true" %}}
 Ja. Åbn File Explorer, klik på adresselinjen, skriv FTP-adressen fra Everdisk (for eksempel ftp://192.168.1.20:2121), og tryk på Enter. Indtast dit login, hvis du har indstillet et, eller fortsæt som gæst. Til uploads og mere kontrol bruger du i stedet en FTP-app som FileZilla.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Kræver FTP et login?" closed="true" %}}
+{{% ls-details title="Kræver FTP et login?" closed="true" %}}
 Nej, et login er valgfrit. Lad Login og Adgangskode stå tomme i Indstillinger, Deling, Adgang, og forbind som Anonymous, hvilket de fleste FTP-klienter tilbyder. Indstil et login, hvis du vil have forbindelser til at logge ind først.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Hvorfor kan jeg kun downloade og ikke uploade over FTP?" closed="true" %}}
+{{% ls-details title="Hvorfor kan jeg kun downloade og ikke uploade over FTP?" closed="true" %}}
 To grunde er almindelige. For det første skal kontakten Filredigering i Indstillinger, Deling, Adgang være slået til for at tillade uploads, omdøbninger og sletninger. For det andet åbner Mac Finder FTP som skrivebeskyttet, så brug en FTP-app som FileZilla eller Cyberduck, når du vil uploade.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Kan jeg bruge FTP mellem to iPhones?" closed="true" %}}
+{{% ls-details title="Kan jeg bruge FTP mellem to iPhones?" closed="true" %}}
 Ja. Start FTP-serveren på den første iPhone. På den anden åbner du Everdisk, går til fanen Enheder, trykker på Ny forbindelse, vælger FTP og indtaster den adresse, der vises på den første telefon. En dedikeret FTP-app til iOS virker også, da iOS Filer-appen ikke indeholder en FTP-klient.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Er FTP sikkert?" closed="true" %}}
+{{% ls-details title="Er FTP sikkert?" closed="true" %}}
 Almindelig FTP krypterer ikke sin trafik, så behandl det som et værktøj til netværk, du har tillid til, som dit hjemme-Wi-Fi. På et netværk, du ikke kontrollerer, bruger du SMB-serveren med Kræv SMB-kryptering slået til, hvilket beskytter hver overførsel.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Hvilke enheder kan forbinde over FTP?" closed="true" %}}
+{{% ls-details title="Hvilke enheder kan forbinde over FTP?" closed="true" %}}
 Næsten alt med en FTP-klient. Det inkluderer Mac-, Windows- og Linux-computere, FTP-apps som FileZilla og Cyberduck, Android-filhåndteringer og hardware som kameraer, smart-TV, routere, NAS-bokse og automatiseringsværktøjer. Den brede rækkevidde er hovedgrunden til at vælge FTP.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Hvorfor faldt min FTP-forbindelse?" closed="true" %}}
+{{% ls-details title="Hvorfor faldt min FTP-forbindelse?" closed="true" %}}
 Din iPhone er serveren, og iOS sætter apps på pause, der ligger for længe i baggrunden. Hold Everdisk åben på skærmen, mens en enhed er forbundet, og sæt til strøm ved lange overførsler. Sørg også for, at begge enheder stadig er på det samme Wi-Fi.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Er Everdisk gratis?" closed="true" %}}
+{{% ls-details title="Er Everdisk gratis?" closed="true" %}}
 Ja, Everdisk er gratis at downloade, og FTP-serveren er inkluderet. Et valgfrit engangskøb af Premium tilføjer ekstra funktioner som brugerdefinerede porte og billed- og videokonvertering. Du kan opsætte FTP og overføre filer uden at betale.
-{{% /details %}}
+{{% /ls-details %}}
 
 Klar til at prøve det? [Download Everdisk fra App Store](https://apps.apple.com/app/apple-store/id6751851132?pt=95781850&ct=everappzcom&mt=8), og forbind din første FTP-klient på et par minutter. Spørgsmål eller feedback? Skriv til os på **support@everappz.com**.

@@ -12,7 +12,7 @@ authors:
     image: "/images/about/artem-meleshko-founder-everappz.webp"
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 **Samenvatting:** Installeer [Flacbox uit de App Store](https://apps.apple.com/us/app/flacbox-flac-player-music/id1097564256?mt=8) om FLAC, DSD, ALAC en 120+ andere audioformaten af te spelen op iPhone en Mac. Importeer bestanden via iTunes-bestandsdeling, Wi-Fi Drive of cloudopslag. Geen bestandsconversie nodig. Flacbox decodeert lossless formaten native voor volledige studio-kwaliteit afspelen.
 
@@ -114,26 +114,26 @@ Download Flacbox uit de Mac App Store. De macOS-versie biedt dezelfde afspeelkwa
 
 ## Veelgestelde Vragen
 
-{{< details title="Heeft Flacbox een abonnement nodig om lossless bestanden af te spelen?" closed="true" >}}
+{{< ls-details title="Heeft Flacbox een abonnement nodig om lossless bestanden af te spelen?" closed="true" >}}
 Flacbox biedt kernfunctionaliteit voor afspelen zonder abonnement. U kunt FLAC, DSD, ALAC en andere lossless formaten importeren en afspelen direct na het downloaden van de app. Sommige geavanceerde functies zoals cloudstreaming en extra aanpassingsopties kunnen een premium upgrade vereisen, maar basis lossless afspelen is direct beschikbaar.
-{{< /details >}}
+{{< /ls-details >}}
 
-{{< details title="Kan Flacbox DSD-bestanden afspelen zonder ze eerst naar PCM te converteren?" closed="true" >}}
+{{< ls-details title="Kan Flacbox DSD-bestanden afspelen zonder ze eerst naar PCM te converteren?" closed="true" >}}
 Ja, Flacbox ondersteunt native DSD-weergave inclusief DSD64, DSD128 en DSD256 formaten. De app decodeert DSD-streams direct en bewaart de unieke sonische kenmerken van het formaat. Voor de beste resultaten, koppel uw apparaat met een DSD-compatibele externe DAC.
-{{< /details >}}
+{{< /ls-details >}}
 
-{{< details title="Hoe breng ik grote lossless muziekcollecties over naar mijn iPhone?" closed="true" >}}
+{{< ls-details title="Hoe breng ik grote lossless muziekcollecties over naar mijn iPhone?" closed="true" >}}
 Flacbox biedt verschillende overdrachtsopties voor grote bibliotheken. Wi-Fi Drive laat u bestanden uploaden vanuit elke browser op uw lokale netwerk. U kunt ook iTunes-bestandsdeling via Finder op Mac gebruiken of cloudopslagdiensten zoals Google Drive of Dropbox verbinden. Voor de snelste overdracht van zeer grote collecties, sluit een externe schijf rechtstreeks aan met een Lightning of USB-C adapter.
-{{< /details >}}
+{{< /ls-details >}}
 
-{{< details title="Is er een verschil in geluidskwaliteit tussen FLAC en ALAC in Flacbox?" closed="true" >}}
+{{< ls-details title="Is er een verschil in geluidskwaliteit tussen FLAC en ALAC in Flacbox?" closed="true" >}}
 Zowel FLAC als ALAC zijn lossless codecs, wat betekent dat ze identieke audio-uitvoer produceren bij het decoderen. Het verschil zit in compatibiliteit en compressie-efficiëntie. FLAC wordt breder gebruikt over platforms en bereikt over het algemeen iets betere compressieverhoudingen, terwijl ALAC Apple's native lossless formaat is. Flacbox verwerkt beide met gelijke trouw.
-{{< /details >}}
+{{< /ls-details >}}
 
-{{< details title="Wat is de beste manier om FLAC-bestanden af te spelen op iPhone?" closed="true" >}}
+{{< ls-details title="Wat is de beste manier om FLAC-bestanden af te spelen op iPhone?" closed="true" >}}
 Installeer Flacbox uit de App Store en importeer vervolgens uw FLAC-bestanden via iTunes-bestandsdeling, Wi-Fi Drive, cloudopslag of een USB/Lightning externe schijf. Flacbox decodeert FLAC native zonder conversie en ondersteunt resoluties tot 32-bit/384 kHz. Voor de beste audiokwaliteit, koppel uw iPhone met een dedicated USB-C of Lightning DAC.
-{{< /details >}}
+{{< /ls-details >}}
 
-{{< details title="Werkt Flacbox met NAS en thuisservers?" closed="true" >}}
+{{< ls-details title="Werkt Flacbox met NAS en thuisservers?" closed="true" >}}
 Ja. Flacbox verbindt met NAS-apparaten en thuisservers via SMB, WebDAV en DLNA-protocollen. Op Mac kunt u netwerklocaties direct toevoegen. Op iOS verbindt u via het cloud/netwerk bronnenmenu. Hiermee kunt u uw lossless bibliotheek streamen zonder bestanden naar uw apparaat te kopiëren.
-{{< /details >}}
+{{< /ls-details >}}

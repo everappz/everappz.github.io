@@ -16,16 +16,16 @@ screenshots:
   - "https://everappz.com/products/evervideo/screenshots/2880x1800/6.png"
 ---
 
-{{% sr-only %}}
+{{% ls-sr-only %}}
 Evervideo là trình phát video HD miễn phí dành cho iPhone và Mac, được phát triển bởi Everappz, một công ty phần mềm Tây Ban Nha. Evervideo phát được hầu hết mọi định dạng video bao gồm MKV, AVI, MP4, MOV, FLV, WMV, WEBM, M4V, TS và 3GP mà không cần chuyển đổi định dạng. Ứng dụng có tính năng phát video 360 độ và VR, chế độ Picture-in-Picture, bộ cân bằng video và âm thanh với hơn 50 cài đặt sẵn, hỗ trợ phụ đề cho các định dạng SRT, SSA và ASS, cùng điều khiển tốc độ phát. Evervideo kết nối với các dịch vụ lưu trữ đám mây bao gồm iCloud Drive, Google Drive, Dropbox, OneDrive và MEGA, cho phép người dùng phát trực tuyến video trực tiếp từ đám mây hoặc tải xuống để xem ngoại tuyến. Ứng dụng cũng hỗ trợ phát trực tuyến qua mạng cục bộ thông qua các giao thức SMB, WebDAV và DLNA, phát từ ổ USB flash qua bộ chuyển đổi Lightning hoặc USB-C, và truyền tệp qua Wi-Fi từ máy tính. Các tính năng bổ sung bao gồm thư viện đa phương tiện với danh sách phát, truyền qua AirPlay và Chromecast, và trình quản lý tệp tích hợp. Evervideo có sẵn để tải miễn phí trên App Store với các giao dịch mua tùy chọn trong ứng dụng bao gồm đăng ký hàng tháng $2.99, đăng ký hàng năm $14.99, hoặc mua trọn đời một lần $29.99.
-{{% /sr-only %}}
+{{% /ls-sr-only %}}
 
 
 
 <!-- force dark theme for this page -->
-{{< force-dark >}}
+{{< ls-force-dark >}}
 
-{{< hextra/hero-container
+{{< ls-hero-container
   image="/products/evervideo/heroimage/hero_1600.png"
   imageWidth="800"
   imageCard="true"
@@ -33,38 +33,38 @@ Evervideo là trình phát video HD miễn phí dành cho iPhone và Mac, đư�
 
 <div class="hx:w-full hx:text-center">
 
-{{< downloads-badge >}}
+{{< ls-downloads-badge >}}
 
 <div class="hx:mt-6 hx:mb-6">
 <div class="hx:flex hx:gap-4 hx:items-center hx:justify-center">
-{{< app-icon src="/images/app_icons/png/Evervideo_Icon-App-1024x1024.png" alt="Evervideo Icon" class="hero-headline-icon" size="80" >}}
-{{< hextra/hero-headline >}}
+{{< ls-app-icon src="/images/app_icons/png/Evervideo_Icon-App-1024x1024.png" alt="Evervideo Icon" class="hero-headline-icon" size="80" >}}
+{{< ls-hero-headline >}}
 Evervideo
-{{< /hextra/hero-headline >}}
+{{< /ls-hero-headline >}}
 </div>
 </div>
 
 <div class="hx:mb-12">
-{{< hextra/hero-centered-subtitle >}}
+{{< ls-hero-centered-subtitle >}}
 <strong>Trình phát & phát trực tuyến video HD cho iPhone & MAC của bạn</strong>
-{{< /hextra/hero-centered-subtitle >}}
+{{< /ls-hero-centered-subtitle >}}
 </div>
 
 
 <div class="hx:mb-6">
-{{< hextra/hero-paragraph >}}
+{{< ls-hero-paragraph >}}
 • Xem video 360° và video độ phân giải cao ở mọi định dạng<br>
 • Phát trực tuyến từ iCloud, Google Drive, Dropbox, NAS hoặc máy tính của bạn<br>
 • Tải video để xem ngoại tuyến mọi lúc, mọi nơi<br>
 • Bật phụ đề, sử dụng bộ cân bằng video và sắp xếp video bằng danh sách phát
-{{< /hextra/hero-paragraph >}}
+{{< /ls-hero-paragraph >}}
 </div>
 
-{{< app-store-badges products="evervideo:ios, evervideo:macos" >}}
+{{< ls-app-store-badges products="evervideo:ios, evervideo:macos" >}}
 
 </div>
 
-{{< /hextra/hero-container >}}
+{{< /ls-hero-container >}}
 
 <div class="hx:mt-6"></div>
 
@@ -72,42 +72,42 @@ Evervideo
 
 {{< hextra/feature-grid >}}
 
-  {{< hextra/feature-card
+  {{< ls-glass-feature-card
     title="Phát mọi định dạng video và âm thanh"
     subtitle=`Xem video và nghe nhạc mà không cần chuyển đổi tệp. Hỗ trợ MP4, MOV, MKV, AVI, FLV, WMV, WEBM, M4V, MP3, FLAC, AAC, ALAC, OGG, OPUS, WAV, WMA và nhiều hơn nữa.`
     icon="film"
     style="background: radial-gradient(circle at 50% 80%, rgba(255,99,71,0.15), rgba(17,24,39,0));"  
   >}}
 
-  {{< hextra/feature-card
+  {{< ls-glass-feature-card
     title="Thư viện phương tiện & Danh sách phát"
     subtitle=`Sắp xếp thư viện phương tiện với các bản nhạc được nhóm theo album, thể loại hoặc thời lượng. Tự động đồng bộ với thay đổi trên đám mây. Tạo, chỉnh sửa và xuất danh sách phát M3U với sắp xếp tùy chỉnh.`
     icon="collection"
     style="background: radial-gradient(circle at 50% 80%, rgba(255,165,0,0.15), rgba(17,24,39,0));"  
   >}}
 
-  {{< hextra/feature-card
+  {{< ls-glass-feature-card
     title="Bộ cân bằng âm thanh & Video"
     subtitle=`Tùy chỉnh cách video trông và nghe bằng cách điều chỉnh bass, cao độ, độ sáng, gamma, độ bão hòa, độ tương phản và nhiều hơn nữa, với hơn 50 cài đặt sẵn video và hơn 20 cài đặt sẵn âm thanh hoặc tùy chọn tạo riêng.`
     icon="adjustments"
     style="background: radial-gradient(circle at 50% 80%, rgba(255,255,0,0.15), rgba(17,24,39,0));" 
   >}}
 
-  {{< hextra/feature-card
+  {{< ls-glass-feature-card
     title="Hình trong hình"
     subtitle=`Hình trong hình (PiP) cho phép bạn tiếp tục xem video trong cửa sổ nổi nhỏ khi sử dụng ứng dụng khác, với hỗ trợ đầy đủ cho tất cả các định dạng chính như MKV, AVI, MP4 và MOV, chuyển video liền mạch trong hàng đợi, cập nhật phát tự động và phụ đề luôn hiển thị.`
     icon="duplicate"
     style="background: radial-gradient(circle at 50% 80%, rgba(0,128,0,0.15), rgba(17,24,39,0));" 
   >}}
 
-  {{< hextra/feature-card
+  {{< ls-glass-feature-card
     title="Video 360° & Chế độ VR"
     subtitle=`Trải nghiệm video 360° và VR chưa từng có — di chuyển điện thoại để khám phá mọi góc nhìn hoặc đắm chìm hoàn toàn với kính VR. Phát ngay video 360° từ camera Insta360 và các thiết bị tương tự với phát mượt mà, không cần cài đặt.`
     icon="video-camera"
     style="background: radial-gradient(circle at 50% 80%, rgba(0,191,255,0.15), rgba(17,24,39,0));"  
   >}}
 
-  {{< hextra/feature-card
+  {{< ls-glass-feature-card
     title="Phát trực tuyến liền mạch & Kết nối đám mây"
     subtitle=`Phát trực tuyến video từ Mac, PC, NAS, ổ USB hoặc lưu trữ đám mây và truyền tệp phương tiện bằng Wi-Fi Drive hoặc iTunes File Sharing. Truy cập toàn bộ thư viện video mọi nơi, kể cả từ xa, qua Synology Drive, WD My Cloud Home và các thiết bị NAS tương tự.`
     icon="cloud"
@@ -120,9 +120,9 @@ Evervideo
 
 <div class="hx:mt-6"></div>
 
-{{< hextra/section-headline >}}
+{{< ls-section-headline >}}
 Tất cả tính năng
-{{< /hextra/section-headline >}}
+{{< /ls-section-headline >}}
 
 <div class="hx:mt-6"></div>
 
@@ -130,35 +130,35 @@ Tất cả tính năng
 
 {{< cards >}}
 
-{{< feature-card title="Phát mọi định dạng video và âm thanh" subtitle="Xem phương tiện mà không cần chuyển đổi tệp. Evervideo hỗ trợ tất cả các định dạng chính, bao gồm MKV, AVI, MP4, MOV, FLAC, MP3, AAC, OGG, WAV, WMV và nhiều hơn nữa." icon="film">}}
+{{< ls-feature-card title="Phát mọi định dạng video và âm thanh" subtitle="Xem phương tiện mà không cần chuyển đổi tệp. Evervideo hỗ trợ tất cả các định dạng chính, bao gồm MKV, AVI, MP4, MOV, FLAC, MP3, AAC, OGG, WAV, WMV và nhiều hơn nữa." icon="film">}}
 
-{{< feature-card title="Chế độ ngoại tuyến" subtitle="Tải video, album và danh sách phát để xem không cần kết nối internet. Mang theo toàn bộ bộ sưu tập video mọi nơi." icon="download">}}
+{{< ls-feature-card title="Chế độ ngoại tuyến" subtitle="Tải video, album và danh sách phát để xem không cần kết nối internet. Mang theo toàn bộ bộ sưu tập video mọi nơi." icon="download">}}
 
-{{< feature-card title="Video 360° & Chế độ VR" subtitle="Xem video 360° và VR một cách thú vị và dễ dàng. Di chuyển điện thoại để nhìn mọi hướng, hoặc đeo kính VR để cảm giác như đang ở trong video." icon="video-camera">}}
+{{< ls-feature-card title="Video 360° & Chế độ VR" subtitle="Xem video 360° và VR một cách thú vị và dễ dàng. Di chuyển điện thoại để nhìn mọi hướng, hoặc đeo kính VR để cảm giác như đang ở trong video." icon="video-camera">}}
 
-{{< feature-card title="Hình trong hình" subtitle="Tiếp tục xem video trong cửa sổ nổi nhỏ khi sử dụng ứng dụng khác. Điều khiển phát và xem phụ đề cùng lúc – hoàn hảo cho đa nhiệm." icon="duplicate">}}
+{{< ls-feature-card title="Hình trong hình" subtitle="Tiếp tục xem video trong cửa sổ nổi nhỏ khi sử dụng ứng dụng khác. Điều khiển phát và xem phụ đề cùng lúc – hoàn hảo cho đa nhiệm." icon="duplicate">}}
 
-{{< feature-card title="Bộ cân bằng video & Âm thanh" subtitle="Tùy chỉnh cách video trông và nghe. Điều chỉnh bass, cao độ, độ sáng, gamma, độ bão hòa, độ tương phản và nhiều hơn nữa. Chọn từ hơn 50 cài đặt sẵn video và hơn 20 cài đặt sẵn âm thanh, hoặc tạo riêng." icon="adjustments">}}
+{{< ls-feature-card title="Bộ cân bằng video & Âm thanh" subtitle="Tùy chỉnh cách video trông và nghe. Điều chỉnh bass, cao độ, độ sáng, gamma, độ bão hòa, độ tương phản và nhiều hơn nữa. Chọn từ hơn 50 cài đặt sẵn video và hơn 20 cài đặt sẵn âm thanh, hoặc tạo riêng." icon="adjustments">}}
 
-{{< feature-card title="Phụ đề" subtitle="Xem phụ đề nhúng, chọn số track phụ đề và tận hưởng hỗ trợ phụ đề đầy đủ ngay cả trong chế độ Hình trong hình." icon="annotation" >}}
+{{< ls-feature-card title="Phụ đề" subtitle="Xem phụ đề nhúng, chọn số track phụ đề và tận hưởng hỗ trợ phụ đề đầy đủ ngay cả trong chế độ Hình trong hình." icon="annotation" >}}
 
-{{< feature-card title="Phát trực tiếp từ đám mây" subtitle="Xem video trực tiếp từ lưu trữ đám mây mà không tốn dung lượng thiết bị. Hỗ trợ iCloud Drive, Google Drive, Dropbox, OneDrive, MEGA, Synology Drive, pCloud và nhiều hơn nữa." icon="cloud">}}
+{{< ls-feature-card title="Phát trực tiếp từ đám mây" subtitle="Xem video trực tiếp từ lưu trữ đám mây mà không tốn dung lượng thiết bị. Hỗ trợ iCloud Drive, Google Drive, Dropbox, OneDrive, MEGA, Synology Drive, pCloud và nhiều hơn nữa." icon="cloud">}}
 
-{{< feature-card title="Kết nối máy tính / NAS" subtitle="Dễ dàng kết nối NAS, Mac hoặc PC qua mạng gia đình sử dụng SMB, WebDAV hoặc DLNA. Hỗ trợ truy cập từ xa cho Synology Drive và WD MyCloud Home. Truyền tệp phương tiện đến thiết bị qua Wi-Fi hoặc iTunes File Sharing." icon="desktop-computer">}}
+{{< ls-feature-card title="Kết nối máy tính / NAS" subtitle="Dễ dàng kết nối NAS, Mac hoặc PC qua mạng gia đình sử dụng SMB, WebDAV hoặc DLNA. Hỗ trợ truy cập từ xa cho Synology Drive và WD MyCloud Home. Truyền tệp phương tiện đến thiết bị qua Wi-Fi hoặc iTunes File Sharing." icon="desktop-computer">}}
 
-{{< feature-card title="Thư viện phương tiện" subtitle="Sắp xếp theo album, thể loại hoặc thời lượng. Tự động đồng bộ với thay đổi trên đám mây. Tạo, chỉnh sửa và xuất danh sách phát M3U với sắp xếp tùy chỉnh." icon="library" >}}
+{{< ls-feature-card title="Thư viện phương tiện" subtitle="Sắp xếp theo album, thể loại hoặc thời lượng. Tự động đồng bộ với thay đổi trên đám mây. Tạo, chỉnh sửa và xuất danh sách phát M3U với sắp xếp tùy chỉnh." icon="library" >}}
 
-{{< feature-card title="Đánh dấu & Lưu vị trí phát" subtitle="Lưu vị trí trong bất kỳ video nào bằng đánh dấu và tiếp tục phát từ nơi bạn dừng lại. Điều chỉnh tốc độ phát, đánh dấu yêu thích và sắp xếp video theo lượt phát để truy cập nhanh." icon="book-open">}}
+{{< ls-feature-card title="Đánh dấu & Lưu vị trí phát" subtitle="Lưu vị trí trong bất kỳ video nào bằng đánh dấu và tiếp tục phát từ nơi bạn dừng lại. Điều chỉnh tốc độ phát, đánh dấu yêu thích và sắp xếp video theo lượt phát để truy cập nhanh." icon="book-open">}}
 
-{{< feature-card title="AirPlay & Chromecast" subtitle="Phát video trên màn hình lớn hơn bằng cách phát trực tuyến đến Apple TV, Chromecast hoặc bất kỳ màn hình ngoài tương thích nào." icon="device-mobile">}}
+{{< ls-feature-card title="AirPlay & Chromecast" subtitle="Phát video trên màn hình lớn hơn bằng cách phát trực tuyến đến Apple TV, Chromecast hoặc bất kỳ màn hình ngoài tương thích nào." icon="device-mobile">}}
 
-{{< feature-card title="Nhập từ Files & Thư viện" subtitle="Nhập video trực tiếp từ ứng dụng Files, Photos hoặc Thư viện iTunes. Truy cập tất cả nội dung cục bộ và đám mây trong một thư viện phương tiện có tổ chức." icon="database">}}
+{{< ls-feature-card title="Nhập từ Files & Thư viện" subtitle="Nhập video trực tiếp từ ứng dụng Files, Photos hoặc Thư viện iTunes. Truy cập tất cả nội dung cục bộ và đám mây trong một thư viện phương tiện có tổ chức." icon="database">}}
 
-{{< feature-card title="Quản lý tệp" subtitle="Di chuyển, đổi tên, xóa và sắp xếp tệp trực tiếp trong ứng dụng." icon="folder">}}
+{{< ls-feature-card title="Quản lý tệp" subtitle="Di chuyển, đổi tên, xóa và sắp xếp tệp trực tiếp trong ứng dụng." icon="folder">}}
 
-{{< feature-card title="Cá nhân hóa" subtitle="Tùy chỉnh ứng dụng theo sở thích của bạn. Chọn giao diện, hiển thị hoặc ẩn tính năng và điều chỉnh giao diện theo nhu cầu." icon="sun">}}
+{{< ls-feature-card title="Cá nhân hóa" subtitle="Tùy chỉnh ứng dụng theo sở thích của bạn. Chọn giao diện, hiển thị hoặc ẩn tính năng và điều chỉnh giao diện theo nhu cầu." icon="sun">}}
 
-{{< feature-card title="Tìm kiếm thông minh" subtitle="Tìm nhanh video, album hoặc danh sách phát trong thư viện phương tiện bằng từ khóa hoặc bộ lọc." icon="search" >}}
+{{< ls-feature-card title="Tìm kiếm thông minh" subtitle="Tìm nhanh video, album hoặc danh sách phát trong thư viện phương tiện bằng từ khóa hoặc bộ lọc." icon="search" >}}
 
 
 
@@ -168,9 +168,9 @@ Tất cả tính năng
 
 <div class="hx:mt-6"></div>
 
-{{< hextra/section-headline >}}
+{{< ls-section-headline >}}
 Thiết kế trực quan
-{{< /hextra/section-headline >}}
+{{< /ls-section-headline >}}
 
 <div class="hx:mt-6"></div>
 
@@ -178,7 +178,7 @@ Thiết kế trực quan
 
 {{< cards cols="4">}}
 
-  {{< design-feature-card 
+  {{< ls-design-feature-card 
     image="/products/evervideo/screenshots/2880x1800/1.png" 
     title="Trình phát video" 
     method="Fill"
@@ -187,7 +187,7 @@ Thiết kế trực quan
     icon="play"
   >}}
 
-  {{< design-feature-card 
+  {{< ls-design-feature-card 
     image="/products/evervideo/screenshots/2880x1800/3.png" 
     title="Bộ cân bằng âm thanh & Video" 
     method="Fill"
@@ -196,7 +196,7 @@ Thiết kế trực quan
     icon="adjustments"
   >}}
 
-  {{< design-feature-card 
+  {{< ls-design-feature-card 
     image="/products/evervideo/screenshots/2880x1800/6.png" 
     title="Quản lý danh sách phát" 
     method="Fill"
@@ -205,7 +205,7 @@ Thiết kế trực quan
     icon="collection"
   >}}
 
-  {{< design-feature-card 
+  {{< ls-design-feature-card 
     image="/products/evervideo/screenshots/2880x1800/5.png" 
     title="Thư viện phương tiện" 
     method="Fill"
@@ -214,7 +214,7 @@ Thiết kế trực quan
     icon="library"
   >}}
 
-  {{< design-feature-card 
+  {{< ls-design-feature-card 
     image="/products/evervideo/screenshots/2880x1800/7.png"  
     title="Lưu trữ đám mây" 
     method="Fill"
@@ -223,7 +223,7 @@ Thiết kế trực quan
     icon="cloud"
   >}}
 
-  {{< design-feature-card 
+  {{< ls-design-feature-card 
     image="/products/evervideo/screenshots/2880x1800/9.png"  
     title="Quản lý tệp" 
     method="Fill"
@@ -241,49 +241,49 @@ Thiết kế trực quan
 <div class="hx:mt-6"></div>
 
 <div class="hx:w-full">
-{{< appstore-reviews apps="6602897336,6743504109" stars="5,4"  app="Evervideo" >}}
+{{< ls-appstore-reviews apps="6602897336,6743504109" stars="5,4"  app="Evervideo" >}}
 </div>
 
 
 <div class="hx:mt-6"></div>
 
-{{< hextra/section-headline >}}
+{{< ls-section-headline >}}
    Gói giá
-{{< /hextra/section-headline >}}
+{{< /ls-section-headline >}}
 
 <div class="hx:mt-6"></div>
 
 <div class="hx:w-full">
 
-{{< pricing-plans >}}
+{{< ls-pricing-plans >}}
 
 </div>
 
 <div class="hx:mt-6"></div>
 
 <div class="hx:w-full hx:mx-auto hx:flex hx:flex-col hx:items-center">
-  {{< hextra/info-paragraph border="true" >}}
+  {{< ls-info-paragraph border="true" >}}
    <strong>Chia sẻ gia đình</strong>: Tất cả giao dịch mua và đăng ký đều hỗ trợ Chia sẻ gia đình, cho phép bạn chia sẻ quyền truy cập Premium với gia đình.<br><strong>Truy cập đa thiết bị</strong>: Gói trọn đời và đăng ký được chia sẻ giữa thiết bị iOS và Mac thông qua đồng bộ iCloud.<br><strong>Giá cả</strong>: Giá hiển thị bằng đô la Mỹ cho Hoa Kỳ. Giá cuối cùng có thể thay đổi tùy theo khu vực của bạn.  
-  {{< /hextra/info-paragraph >}}
+  {{< /ls-info-paragraph >}}
 </div>
 
 <div class="hx:mt-6"></div>
 
 <div class="hx:w-full">
-{{< app-details heading="true" >}}
+{{< ls-app-details heading="true" >}}
 </div>
 
 <div class="hx:mt-6"></div>
 
-{{< hextra/section-headline >}}
+{{< ls-section-headline >}}
    Câu hỏi thường gặp
-{{< /hextra/section-headline >}}
+{{< /ls-section-headline >}}
 
 <div class="hx:mt-6"></div>
 
 <div class="hx:w-full">
 
-{{% details title="Evervideo hoạt động như thế nào?" closed="true" %}}
+{{% ls-details title="Evervideo hoạt động như thế nào?" closed="true" %}}
 Evervideo là trình phát video HD cho phép bạn quản lý video như tệp thông thường.<br>
 Bạn có thể tải toàn bộ bộ sưu tập video lên các dịch vụ đám mây như Dropbox, OneDrive, iCloud hoặc NAS cá nhân và phát video trực tiếp từ đám mây với toàn quyền kiểm soát.<br><br>
 Không cần đồng bộ iTunes—chỉ cần tải lên từ PC hoặc Mac như bạn làm với bất kỳ tệp nào.<br>
@@ -293,9 +293,9 @@ Khám phá hướng dẫn sử dụng để biết thêm chi tiết:<br>
 - [Hướng dẫn Evervideo](/docs/guide/evervideo/)<br>
 - [Cách truyền tệp không dây từ máy tính sang iPhone bằng WiFi-Drive.](/docs/howto/how-to-transfer-files-wirelessly-from-a-computer-to-an-iphone-using-wifi-drive)<br>
 
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Evervideo có miễn phí không?" closed="true" %}}
+{{% ls-details title="Evervideo có miễn phí không?" closed="true" %}}
 Evervideo miễn phí sử dụng với một số giới hạn, có thể được gỡ bỏ bằng cách nâng cấp lên phiên bản Premium.<br>
 Bạn có thể chọn mua trọn đời một lần hoặc hai tùy chọn đăng ký (hàng tháng hoặc hàng năm). Giá có thể thay đổi tùy theo khu vực.<br><br>
 
@@ -304,9 +304,9 @@ Chia sẻ gia đình được kích hoạt cho tất cả các gói, vì vậy b
 Giao dịch mua và đăng ký Premium được chia sẻ giữa iOS và Mac qua iCloud. Để đồng bộ giao dịch mua, hãy đảm bảo iCloud được bật, mở ứng dụng trên thiết bị iOS và đợi một phút để đồng bộ hoàn tất.<br><br>
 
 [Đọc thêm về sự khác biệt giữa Evervideo và Evervideo Premium](/docs/faq/evervideo/what-is-the-difference-between-evervideo-and-evervideo-premium/)
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Cách sử dụng Evervideo?" closed="true" %}}
+{{% ls-details title="Cách sử dụng Evervideo?" closed="true" %}}
 
 **Cài đặt Evervideo**<br>
 Tải và cài đặt ứng dụng Evervideo từ cửa hàng ứng dụng của thiết bị. Có sẵn cho cả thiết bị iOS và Mac.<br><br>
@@ -355,9 +355,9 @@ Bạn có hai tùy chọn để thêm video vào Evervideo: thêm thủ công ho
 **Thưởng thức video**<br>
 Khi video đã được sắp xếp, sử dụng thanh công cụ trên cùng cho các thao tác nhanh như **Search**, **Play All**, **Shuffle** và **Continue Playback**.<br><br>
 
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Evervideo có an toàn không?" closed="true" %}}
+{{% ls-details title="Evervideo có an toàn không?" closed="true" %}}
 Evervideo chỉ sử dụng SDK chính thức và kết nối bảo mật để tương tác với các dịch vụ đám mây đã kết nối. Tên đăng nhập và mật khẩu của bạn không được ứng dụng truy cập. Tất cả yêu cầu từ ứng dụng đến dịch vụ đám mây đều được mã hóa.<br>
 Khi bạn nhập tên đăng nhập và mật khẩu, ứng dụng hiển thị trang ủy quyền chính thức do nhà cung cấp dịch vụ đám mây cung cấp và toàn bộ quá trình ủy quyền được thực hiện bên ngoài ứng dụng. Nhà cung cấp dịch vụ đám mây gửi auth-token đến ứng dụng sau khi ủy quyền thành công và token đó được sử dụng để thực hiện lệnh gọi API.<br><br>
 
@@ -368,22 +368,22 @@ Auth-token là khóa kỹ thuật số cho phép ứng dụng bên thứ ba tư�
 
 Bạn cũng có thể ngắt kết nối các tài khoản đám mây đã kết nối trong ứng dụng và auth-token cũng sẽ bị xóa khỏi thiết bị. Nếu bạn gỡ ứng dụng khỏi thiết bị, tất cả dữ liệu đã tải và token truy cập cũng sẽ bị xóa.<br><br>
 
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Cách tạo danh sách phát trên Evervideo?" closed="true" %}}
+{{% ls-details title="Cách tạo danh sách phát trên Evervideo?" closed="true" %}}
 - Mở phần Playlists.<br>
 - Nhấn nút "+" hoặc nút "..." ở góc trên bên phải và chọn "New Playlist."<br>
 - Nhập tên cho danh sách phát và nhấn "Save." Hộp thoại "Add Media Files" sẽ xuất hiện.<br>
 - Chọn các bản nhạc bạn muốn thêm vào danh sách phát.<br><br>
 
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Evervideo hỗ trợ những dịch vụ đám mây nào?" closed="true" %}}
+{{% ls-details title="Evervideo hỗ trợ những dịch vụ đám mây nào?" closed="true" %}}
 Hiện tại, ứng dụng hỗ trợ các dịch vụ đám mây phổ biến nhất: iCloud Drive, Google Drive, Dropbox, OneDrive, Box, MEGA, Yandex.Disk, DLNA, MediaFire, WebDAV, SMB, pCloud, Cloud Mail.ru, Put.io.<br><br>
 
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Cách bật chế độ ngoại tuyến trong Evervideo?" closed="true" %}}
+{{% ls-details title="Cách bật chế độ ngoại tuyến trong Evervideo?" closed="true" %}}
 - Kết nối lưu trữ đám mây:<br>
  • Vào tab "Files".<br>
  • Chọn "Connect to cloud storage" và làm theo hướng dẫn để kết nối dịch vụ mong muốn.<br><br>
@@ -408,9 +408,9 @@ Hiện tại, ứng dụng hỗ trợ các dịch vụ đám mây phổ biến n
  • Để đồng bộ thủ công, vào "Settings" > "File manager" > "Offline folders" > "Synchronized offline folders."<br>
  • Nhấn "More actions" và chọn "Start synchronization."<br><br>
 
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Cách phát video đã tải về trên iPhone?" closed="true" %}}
+{{% ls-details title="Cách phát video đã tải về trên iPhone?" closed="true" %}}
 Sau khi cài đặt ứng dụng, mở màn hình "Files" và cuộn xuống phần "Files on this iPhone". Từ đó, chọn "Open files..." nếu bạn cần chọn nhiều tệp hoặc "Open folder..." nếu bạn muốn chọn thư mục phương tiện. Ứng dụng sẽ quét nội dung thư mục và tất cả tệp phương tiện tìm thấy sẽ được chọn. Điều hướng đến thư mục phương tiện, nhấn "Open" để xác nhận lựa chọn và các tệp sẽ được thêm vào hàng đợi phát. Các tệp này sẽ được phát trực tiếp từ vị trí đã chọn mà không bị sao chép vào gói ứng dụng.<br><br>
 
 **Thêm thư mục vào Yêu thích để truy cập nhanh**<br>
@@ -422,13 +422,13 @@ Nếu bạn muốn sắp xếp tệp cục bộ trong thư viện, mở màn hì
 **Thêm tệp cục bộ vào danh sách phát**<br>
 Để thêm tệp cục bộ vào danh sách phát, mở màn hình "Playlists" và nhấn nút thêm ở góc trên bên phải. Chọn "+ New Playlist," nhập tên cho danh sách phát mới và trên màn hình tiếp theo, chọn tùy chọn "Files on this device" và nhấn "Open Files...". Chọn tệp phương tiện bạn muốn thêm và nhấn "Open" để xác nhận. Các tệp sẽ được thêm vào danh sách phát, nơi bạn có thể thay đổi thứ tự bản nhạc và thực hiện các thao tác khác bằng nút thêm.<br><br>
 
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Cách tiếp tục danh sách phát từ nơi đã dừng?" closed="true" %}}
+{{% ls-details title="Cách tiếp tục danh sách phát từ nơi đã dừng?" closed="true" %}}
 Trước tiên, đảm bảo "Save Media Player State" được bật trong Settings > Media Player > General. Khi bạn chuyển sang danh sách phát khác và quay lại, bạn sẽ thấy bốn thao tác trên thanh công cụ trên cùng dưới ảnh bìa album: "Search," "Continue Playback," "Play All," và "Shuffle All." Nhấn "Continue Playback" để tiếp tục danh sách phát từ trạng thái và vị trí phương tiện đã lưu cuối cùng.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Cách truyền video đến Evervideo từ máy tính?" closed="true" %}}
+{{% ls-details title="Cách truyền video đến Evervideo từ máy tính?" closed="true" %}}
 Bạn có thể kết nối máy tính hoặc NAS cá nhân bằng giao thức SMB, WebDAV hoặc DLNA. Ngoài ra, sử dụng iTunes File Sharing để truyền tệp phương tiện.<br><br>
 
 Để kết nối máy tính bằng giao thức SMB, nhấn "Files" "Connect to cloud storage" → SMB. Nhập địa chỉ IP máy tính và tên thư mục chia sẻ trong trường URL theo định dạng smb://computer-ip-address/shared-folder-name, nhập tên đăng nhập và mật khẩu và nhấn "Done". Nếu kết nối thành công, bạn sẽ thấy kho lưu trữ đã kết nối trong phần "Cloud storage".<br><br>
@@ -447,9 +447,9 @@ iTunes File Sharing là công nghệ khác cho phép bạn truyền tệp từ m
 Hướng dẫn chi tiết có tại đây:<br>
 [Cách phát tệp cục bộ (tệp iTunes) trên iPhone](/docs/howto/how-to-play-local-itunes-files-on-my-iphone)<br><br>
 
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Cách tải video?" closed="true" %}}
+{{% ls-details title="Cách tải video?" closed="true" %}}
 Trước khi bạn có thể tải video và xem ngoại tuyến, bạn cần kết nối lưu trữ đám mây.<br>
 Chỉ cần mở màn hình "Files" và kết nối lưu trữ đám mây.<br>
 Sau khi thêm, bạn có thể tải video từ đám mây.<br><br>
@@ -465,14 +465,14 @@ Sau khi thêm, bạn có thể tải video từ đám mây.<br><br>
 – Nhấn ô "Offline mode"<br>
 – Nghệ sĩ/Album/Danh sách phát ngoại tuyến sẽ xuất hiện trong phần "Files" -> "Offline folders".<br><br>
 
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Evervideo hỗ trợ những định dạng âm thanh nào?" closed="true" %}}
+{{% ls-details title="Evervideo hỗ trợ những định dạng âm thanh nào?" closed="true" %}}
 Ứng dụng này hỗ trợ **codec âm thanh hệ thống** mặc định và **codec phần mềm ffmpeg** bổ sung:<br><br>
 3g2, 3gp, 3gp2, 3gpp, 8svx, aa, aac, aax, ac3, act, adt, adts, aif, aifc, aiff, alac, amr, amv, ape, asf, au, avi, awb, caf, cavs, cdda, cue, dct, dff, drc, dsf, dss, dvf, "dvr-ms", ec3, f4a, f4b, f4p, f4v, flac, flv, gif, gifv, gsm, gxf, h261, h263, h264, ifv, iklax, ivf, ivs, l16, latm, loas, m2t, m2ts, m2v, m3u, m3u8, m4a, m4b, m4p, m4r, m4v, mka, mkv, mmf, mng, mod, mogg, mov, mp1, mp2, mp3, mp4, mp4v, mpa, mpc, mpe, mpeg, mpg, mpv, msv, mts, mxf, nsf, nsv, nut, oga, ogg, ogv, opus, pcm, pls, qt, ra, raw, rm, rmvb, roq, rv, sln, snd, svi, tod, tta, vob, voc, vox, vtt, w64, wav, wave, webm, wma, wmv, wv, xhe, xmv, y4m, yuv.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Evervideo có hoạt động với thiết bị NAS không?" closed="true" %}}
+{{% ls-details title="Evervideo có hoạt động với thiết bị NAS không?" closed="true" %}}
 
 Có, Evervideo hỗ trợ kết nối NAS bằng giao thức **SMB**, **WebDAV** và **DLNA**.<br><br>
 
@@ -496,9 +496,9 @@ Nếu kết nối thành công, bạn sẽ thấy NAS trong phần **Cloud stora
 • Hiển thị tất cả thiết bị NAS có thể phát hiện trên mạng cục bộ.<br>
 • Nhấn tên thiết bị để kết nối, sau đó nhập thông tin đăng nhập nếu cần.<br><br>
 
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Cách sử dụng tính năng Wi-Fi Drive trong Evervideo?" closed="true" %}}
+{{% ls-details title="Cách sử dụng tính năng Wi-Fi Drive trong Evervideo?" closed="true" %}}
 
 **Truyền không dây bằng trình duyệt desktop**<br>
 1. Khởi chạy ứng dụng: Mở Evervideo.<br>
@@ -523,39 +523,39 @@ Lưu ý: Đảm bảo JavaScript được bật và bạn đang sử dụng phi�
 
 [Đọc thêm](/docs/howto/how-to-transfer-files-wirelessly-from-a-computer-to-an-iphone-using-wifi-drive)
 
-{{% /details %}}
+{{% /ls-details %}}
 
 </div>
 
 
 <div class="hx:mt-6"></div>
 
-{{< hextra/section-headline >}}
+{{< ls-section-headline >}}
   Hướng dẫn người dùng
-{{< /hextra/section-headline >}}
+{{< /ls-section-headline >}}
 
 <div class="hx:mt-6"></div>
 
 <div class="hx:w-full">
 
 <div class="hx:w-full hx:mx-auto hx:flex hx:flex-col hx:items-center hx:text-center">
-  {{< hextra/info-paragraph border="false" >}}
+  {{< ls-info-paragraph border="false" >}}
   Hướng dẫn này sẽ giúp bạn tận dụng tối đa Evervideo trên iPhone, iPad hoặc Mac. Tìm hiểu cách phát trực tuyến video từ bộ nhớ đám mây và NAS, sử dụng chế độ Hình trong Hình, quản lý phụ đề và tinh chỉnh bộ chỉnh âm thanh và video. Evervideo cho phép bạn kiểm soát hoàn toàn bộ sưu tập video của mình — từ mọi nguồn — trong một ứng dụng đơn giản.
-  {{< /hextra/info-paragraph >}}
+  {{< /ls-info-paragraph >}}
 </div>
 
 {{< cards >}}
-  {{< feature-card icon="location-marker" title="Điều hướng" subtitle="Tìm hiểu cách điều hướng trong Evervideo bằng Thanh thẻ trên iPhone hoặc Menu bên trái trên iPad và Mac, cùng với trình phát video gọn nhẹ luôn hiển thị trên màn hình." link="/docs/guide/evervideo/evervideo-guide-navigation" >}}
+  {{< ls-feature-card icon="location-marker" title="Điều hướng" subtitle="Tìm hiểu cách điều hướng trong Evervideo bằng Thanh thẻ trên iPhone hoặc Menu bên trái trên iPad và Mac, cùng với trình phát video gọn nhẹ luôn hiển thị trên màn hình." link="/docs/guide/evervideo/evervideo-guide-navigation" >}}
 
-  {{< feature-card icon="folder" title="Tệp" subtitle="Kết nối tài khoản đám mây, chia sẻ NAS, máy chủ phương tiện (Plex, Jellyfin, Emby, Subsonic, Navidrome), luồng RTSP và tệp cục bộ trong một thẻ thống nhất." link="/docs/guide/evervideo/evervideo-guide-files" >}}
+  {{< ls-feature-card icon="folder" title="Tệp" subtitle="Kết nối tài khoản đám mây, chia sẻ NAS, máy chủ phương tiện (Plex, Jellyfin, Emby, Subsonic, Navidrome), luồng RTSP và tệp cục bộ trong một thẻ thống nhất." link="/docs/guide/evervideo/evervideo-guide-files" >}}
 
-  {{< feature-card icon="library" title="Thư viện phương tiện" subtitle="Sắp xếp và khám phá video và nhạc của bạn theo Album, Thể loại, Gần đây và Yêu thích — cùng với thư viện Ảnh của iOS và thư viện Apple Music." link="/docs/guide/evervideo/evervideo-guide-video-library" >}}
+  {{< ls-feature-card icon="library" title="Thư viện phương tiện" subtitle="Sắp xếp và khám phá video và nhạc của bạn theo Album, Thể loại, Gần đây và Yêu thích — cùng với thư viện Ảnh của iOS và thư viện Apple Music." link="/docs/guide/evervideo/evervideo-guide-video-library" >}}
 
-  {{< feature-card icon="collection" title="Danh sách phát" subtitle="Tạo và sắp xếp danh sách phát cho video, nhạc, loạt phim hoặc khóa học và nhập tệp M3U / M3U8 / CUE." link="/docs/guide/evervideo/evervideo-guide-playlists" >}}
+  {{< ls-feature-card icon="collection" title="Danh sách phát" subtitle="Tạo và sắp xếp danh sách phát cho video, nhạc, loạt phim hoặc khóa học và nhập tệp M3U / M3U8 / CUE." link="/docs/guide/evervideo/evervideo-guide-playlists" >}}
 
-  {{< feature-card icon="play" title="Trình phát phương tiện" subtitle="Điều khiển phát, hàng đợi, Hình trong Hình, các bản âm thanh và video, phụ đề chính và phụ và bộ chỉnh âm thanh + video." link="/docs/guide/evervideo/evervideo-guide-player" >}}
+  {{< ls-feature-card icon="play" title="Trình phát phương tiện" subtitle="Điều khiển phát, hàng đợi, Hình trong Hình, các bản âm thanh và video, phụ đề chính và phụ và bộ chỉnh âm thanh + video." link="/docs/guide/evervideo/evervideo-guide-player" >}}
 
-  {{< feature-card icon="adjustments" title="Cài đặt" subtitle="Tùy chỉnh giao diện, bộ giải mã, bộ chỉnh, phụ đề, tiện ích, ngôn ngữ, mật mã, sao lưu và cài đặt hiệu suất của Evervideo." link="/docs/guide/evervideo/evervideo-guide-settings" >}}
+  {{< ls-feature-card icon="adjustments" title="Cài đặt" subtitle="Tùy chỉnh giao diện, bộ giải mã, bộ chỉnh, phụ đề, tiện ích, ngôn ngữ, mật mã, sao lưu và cài đặt hiệu suất của Evervideo." link="/docs/guide/evervideo/evervideo-guide-settings" >}}
 
 {{< /cards >}}
 

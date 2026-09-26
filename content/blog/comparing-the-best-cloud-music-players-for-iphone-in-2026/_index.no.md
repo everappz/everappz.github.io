@@ -12,7 +12,7 @@ authors:
     image: "/images/about/artem-meleshko-founder-everappz.webp"
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 ## Hvilken Sky-musikkspiller Er Best for iPhone?
 
@@ -91,22 +91,22 @@ For audiofiler og alle som opprettholder en personlig musikk-samling i skylagrin
 
 ## Ofte Stilte Spørsmål
 
-{{% details title="Kan jeg spille FLAC-filer på iPhone uten å konvertere dem?" closed="true" %}}
+{{% ls-details title="Kan jeg spille FLAC-filer på iPhone uten å konvertere dem?" closed="true" %}}
 Ja. Evermusic spiller FLAC, DSD, WAV, ALAC og andre tapsfrie formater naturlig på iPhone. Det er ikke nødvendig med filkonvertering. Koble bare til skylagringskontoen din og strøm eller last ned FLAC-filene dine direkte.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Hvilken sky-musikkspiller fungerer med Dropbox og Google Drive?" closed="true" %}}
+{{% ls-details title="Hvilken sky-musikkspiller fungerer med Dropbox og Google Drive?" closed="true" %}}
 Evermusic støtter Dropbox, Google Drive, OneDrive, Box, MEGA, pCloud, WebDAV, SMB og mer -- over 12 skytjenester totalt. De fleste vanlige strømmingapper som Spotify og Apple Music kobler ikke til tredjeparts skylagring.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Trenger jeg et abonnement for å bruke en sky-musikkspiller?" closed="true" %}}
+{{% ls-details title="Trenger jeg et abonnement for å bruke en sky-musikkspiller?" closed="true" %}}
 Det avhenger av appen. Spotify, Apple Music og Deezer krever månedlige abonnementer. Evermusic tilbyr et gratis nivå og et engangs Premium-kjøp uten gjentakende avgifter. Du bruker din egen skylagring til å hoste musikkfilene dine.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Hva er den beste musikkspilleren for offline lytting på iPhone?" closed="true" %}}
+{{% ls-details title="Hva er den beste musikkspilleren for offline lytting på iPhone?" closed="true" %}}
 Alle store spillere støtter offline-nedlastinger, men tilnærmingen er forskjellig. Spotify og Apple Music lar deg laste ned spor fra katalogene deres. Evermusic lar deg laste ned dine egne filer fra skylagring for offline avspilling -- ideelt for flyreiser, pendling eller områder uten tilkobling.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Kan jeg bruke en sky-musikkspiller med min NAS eller hjemmeserver?" closed="true" %}}
+{{% ls-details title="Kan jeg bruke en sky-musikkspiller med min NAS eller hjemmeserver?" closed="true" %}}
 Ja. Evermusic støtter WebDAV og SMB-protokoller, noe som betyr at det kan koble til de fleste NAS-enheter fra Synology, QNAP og Western Digital. Dette gjør iPhone til en fjernspiller for hele hjemme-musikkbiblioteket ditt.
-{{% /details %}}
+{{% /ls-details %}}

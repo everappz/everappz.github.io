@@ -12,7 +12,7 @@ authors:
     image: "/images/about/artem-meleshko-founder-everappz.webp"
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 **Tóm tắt:** Evermusic 6.8 thêm tích hợp Aliyun Drive và Synology NAS (với QuickConnect), sáu hiệu ứng cuộn bìa album mới, trình phát toàn màn hình tối giản, quản lý tệp kéo-thả và tải bìa album nhanh hơn. Có sẵn ngay cho iOS và macOS.
 
@@ -77,18 +77,18 @@ Evermusic 6.8 tập trung vào ba lĩnh vực: tương thích đám mây rộng 
 
 ## Câu hỏi thường gặp
 
-{{% details title="Làm cách nào để kết nối Synology NAS với Evermusic?" closed="true" %}}
+{{% ls-details title="Làm cách nào để kết nối Synology NAS với Evermusic?" closed="true" %}}
 Đi đến tab Kết nối, chọn Synology và nhập QuickConnectID của bạn. Evermusic kết nối trực tiếp mà không cần địa chỉ IP hoặc thiết lập VPN.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Aliyun Drive có miễn phí sử dụng với Evermusic không?" closed="true" %}}
+{{% ls-details title="Aliyun Drive có miễn phí sử dụng với Evermusic không?" closed="true" %}}
 Có. Nếu bạn có tài khoản Aliyun Drive, bạn có thể kết nối với Evermusic mà không tốn thêm chi phí. Giới hạn lưu trữ phụ thuộc vào gói Aliyun Drive của bạn.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Tôi có thể tùy chỉnh phong cách cuộn bìa album không?" closed="true" %}}
+{{% ls-details title="Tôi có thể tùy chỉnh phong cách cuộn bìa album không?" closed="true" %}}
 Có. Đi đến Settings > Audio Player > Personalization > Album Covers Scrolling Style và chọn từ sáu tùy chọn: MacDoc, Linear, Rotary, Inverted Rotary, Cylinder hoặc CoverFlow.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Màn hình trình phát tối giản có hoạt động trên tất cả thiết bị không?" closed="true" %}}
+{{% ls-details title="Màn hình trình phát tối giản có hoạt động trên tất cả thiết bị không?" closed="true" %}}
 Có. Phong cách bìa album toàn màn hình có sẵn trên tất cả iPhone, iPad và Mac được hỗ trợ chạy Evermusic 6.8 trở lên.
-{{% /details %}}
+{{% /ls-details %}}

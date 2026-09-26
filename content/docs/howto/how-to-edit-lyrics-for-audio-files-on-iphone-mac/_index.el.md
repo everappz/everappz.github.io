@@ -7,7 +7,7 @@ tags: ["lyrics", "mp3", "id3", "metadata", "iphone", "audio editing"]
 readingTime: 2
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **Περίληψη:** Χρησιμοποιήστε τη δωρεάν εφαρμογή **Evertag** για να επεξεργαστείτε μη συγχρονισμένους στίχους, αξιολογήσεις περιεχομένου και 120+ ετικέτες ήχου σε iPhone ή Mac. Λειτουργεί με τοπικά και αποθηκευμένα στο cloud αρχεία, υποστηρίζει μαζική επεξεργασία και αποθηκεύει στίχους ορατούς στο Evermusic, Flacbox και άλλα προγράμματα αναπαραγωγής.
@@ -23,8 +23,8 @@ readingTime: 2
 Ξεκινήστε κατεβάζοντας την εφαρμογή **Evertag** από το App Store. Είναι διαθέσιμη τόσο για **iOS** όσο και για **macOS** και είναι δωρεάν.
 
 {{< cards cols="2">}}
-{{< card link="https://apps.apple.com/app/apple-store/id1450763230?pt=95781850&ct=everappzcom&mt=8" title="Evertag για iOS" icon="download" tag="Free" >}}
-{{< card link="https://apps.apple.com/app/apple-store/id1594027661?pt=95781850&ct=everappzcom&mt=8" title="Evertag για macOS" icon="download" tag="Free" >}}
+{{< ls-card link="https://apps.apple.com/app/apple-store/id1450763230?pt=95781850&ct=everappzcom&mt=8" title="Evertag για iOS" icon="download" tag="Free" >}}
+{{< ls-card link="https://apps.apple.com/app/apple-store/id1594027661?pt=95781850&ct=everappzcom&mt=8" title="Evertag για macOS" icon="download" tag="Free" >}}
 {{< /cards >}}
 
 ## Σύνδεση του λογαριασμού cloud
@@ -38,13 +38,13 @@ readingTime: 2
 - Πατήστε **Σύνδεση σε αποθήκευση cloud**
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Σύνδεση σε αποθήκευση cloud" image="/docs/howto/how-to-edit-lyrics-for-audio-files-on-iphone-mac/connect-to-cloud-storage.webp" >}}
+{{< ls-card title="" subtitle="Σύνδεση σε αποθήκευση cloud" image="/docs/howto/how-to-edit-lyrics-for-audio-files-on-iphone-mac/connect-to-cloud-storage.webp" >}}
 {{< /cards >}}
 
 - Επιλέξτε έναν υποστηριζόμενο πάροχο, εισάγετε τα διαπιστευτήριά σας και πατήστε **Τέλος**
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Σύνδεση σε αποθήκευση cloud" image="/docs/howto/how-to-edit-lyrics-for-audio-files-on-iphone-mac/connect-to-cloud-storage.webp" >}}
+{{< ls-card title="" subtitle="Σύνδεση σε αποθήκευση cloud" image="/docs/howto/how-to-edit-lyrics-for-audio-files-on-iphone-mac/connect-to-cloud-storage.webp" >}}
 {{< /cards >}}
 
 - Μόλις συνδεθεί, η αποθήκευση cloud θα εμφανιστεί στην ενότητα **Αποθήκευση cloud** της εφαρμογής.
@@ -52,7 +52,7 @@ readingTime: 2
 - Πατήστε στη συνδεδεμένη αποθήκευση cloud για να περιηγηθείτε και να φορτώσετε τα περιεχόμενα των φακέλων της.
   
 {{< cards cols="1">}}
-{{< card title="" subtitle="Λίστα αρχείων αποθήκευσης cloud" image="/docs/howto/how-to-edit-lyrics-for-audio-files-on-iphone-mac/cloud-storage-list-audio-files.webp" >}}
+{{< ls-card title="" subtitle="Λίστα αρχείων αποθήκευσης cloud" image="/docs/howto/how-to-edit-lyrics-for-audio-files-on-iphone-mac/cloud-storage-list-audio-files.webp" >}}
 {{< /cards >}}
 
 ## Σύνδεση τοπικού φακέλου
@@ -74,7 +74,7 @@ readingTime: 2
 - Κάντε κύλιση προς τα κάτω στα **Αρχεία σε αυτή τη συσκευή** στο μενού πλαϊνής γραμμής
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Φάκελοι συσκευής" image="/docs/howto/how-to-edit-lyrics-for-audio-files-on-iphone-mac/device-folders.webp" >}}
+{{< ls-card title="" subtitle="Φάκελοι συσκευής" image="/docs/howto/how-to-edit-lyrics-for-audio-files-on-iphone-mac/device-folders.webp" >}}
 {{< /cards >}}
   
 - Πατήστε το στοιχείο μενού **Όλοι οι φάκελοι συσκευής**
@@ -91,7 +91,7 @@ readingTime: 2
 Ο **Επεξεργαστής ετικετών** είναι η κύρια οθόνη της εφαρμογής Evertag όπου μπορείτε να δείτε και να επεξεργαστείτε τα μεταδεδομένα αρχείων ήχου. Ανοίξτε αυτή την οθόνη πατώντας ένα αρχείο από την ενότητα **Τοπικά αρχεία** ή από οποιονδήποτε συνδεδεμένο λογαριασμό **αποθήκευσης cloud**.
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Οθόνη επεξεργαστή ετικετών Evertag" image="/docs/howto/how-to-edit-lyrics-for-audio-files-on-iphone-mac/cloud-storage-audio-file-tag-editor.webp" >}}
+{{< ls-card title="" subtitle="Οθόνη επεξεργαστή ετικετών Evertag" image="/docs/howto/how-to-edit-lyrics-for-audio-files-on-iphone-mac/cloud-storage-audio-file-tag-editor.webp" >}}
 {{< /cards >}}
 
 ## Λειτουργίες επεξεργασίας
@@ -112,7 +112,7 @@ readingTime: 2
 Για πρόσβαση σε όλες τις διαθέσιμες ετικέτες, κάντε κύλιση στο κάτω μέρος της οθόνης και πατήστε την επιλογή **Εμφάνιση εκτεταμένων ετικετών**. Αυτό θα αλλάξει τον επεξεργαστή σε εκτεταμένη λειτουργία, επιτρέποντάς σας να επεξεργαστείτε πάνω από **120 πεδία μεταδεδομένων**, συμπεριλαμβανομένων **ετικετών MusicBrainz**, **στίχων**, **αξιολογήσεων περιεχομένου** και πολλών άλλων.
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Κάτω πάνελ ενεργειών" image="/docs/howto/how-to-edit-lyrics-for-audio-files-on-iphone-mac/show-extended-tags.webp" >}}
+{{< ls-card title="" subtitle="Κάτω πάνελ ενεργειών" image="/docs/howto/how-to-edit-lyrics-for-audio-files-on-iphone-mac/show-extended-tags.webp" >}}
 {{< /cards >}}
 
 ## Μαζική λειτουργία
@@ -137,7 +137,7 @@ readingTime: 2
 Σε λειτουργία **Εκτεταμένες ετικέτες**, κάντε κύλιση προς τα κάτω και πατήστε το πεδίο κειμένου **Μη συγχρονισμένοι στίχοι**.
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Πεδίο κειμένου μη συγχρονισμένων στίχων" image="/docs/howto/how-to-edit-lyrics-for-audio-files-on-iphone-mac/advisory-rating-2.webp" >}}
+{{< ls-card title="" subtitle="Πεδίο κειμένου μη συγχρονισμένων στίχων" image="/docs/howto/how-to-edit-lyrics-for-audio-files-on-iphone-mac/advisory-rating-2.webp" >}}
 {{< /cards >}}
 
 > Τα αρχεία ήχου που υποστηρίζουν **ετικέτες ID3** (όπως `.mp3` ή `.wav`) σας επιτρέπουν να προσθέσετε στίχους σε πολλές γλώσσες. Αν επεξεργάζεστε ένα αρχείο με ετικέτες ID3, το Evertag ενεργοποιεί πλήρη υποστήριξη πολλαπλών γλωσσών.  
@@ -148,7 +148,7 @@ readingTime: 2
 Αν επεξεργάζεστε ετικέτες ID3, η επόμενη οθόνη θα εμφανίσει ένα κουμπί **Προσθήκη νέας σελίδας**. Πατήστε το για να ξεκινήσετε την προσθήκη μιας νέας καταχώρησης στίχων.
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Προσθήκη νέας σελίδας στίχων" image="/docs/howto/how-to-edit-lyrics-for-audio-files-on-iphone-mac/add-new-page.webp" >}}
+{{< ls-card title="" subtitle="Προσθήκη νέας σελίδας στίχων" image="/docs/howto/how-to-edit-lyrics-for-audio-files-on-iphone-mac/add-new-page.webp" >}}
 {{< /cards >}}
 
 ### Επιλέξτε γλώσσα, σχόλιο και περιεχόμενο στίχων
@@ -159,7 +159,7 @@ readingTime: 2
 - Να εισάγετε το πραγματικό **κείμενο στίχων**
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Επιλογή γλώσσας" image="/docs/howto/how-to-edit-lyrics-for-audio-files-on-iphone-mac/choose-language.webp" >}}
+{{< ls-card title="" subtitle="Επιλογή γλώσσας" image="/docs/howto/how-to-edit-lyrics-for-audio-files-on-iphone-mac/choose-language.webp" >}}
 {{< /cards >}}
 
 ### Εισαγωγή στίχων
@@ -169,7 +169,7 @@ readingTime: 2
 > Συμβουλή: Ψάχνετε στίχους υψηλής ποιότητας; Επισκεφτείτε το [lyricsify.com](https://www.lyricsify.com) για να βρείτε στίχους σε μορφή LRC για χιλιάδες κομμάτια.
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Προστιθέμενοι στίχοι" image="/docs/howto/how-to-edit-lyrics-for-audio-files-on-iphone-mac/added-lyrics.webp" >}}
+{{< ls-card title="" subtitle="Προστιθέμενοι στίχοι" image="/docs/howto/how-to-edit-lyrics-for-audio-files-on-iphone-mac/added-lyrics.webp" >}}
 {{< /cards >}}
 
 ### Πατήστε «Τέλος» για επιβεβαίωση
@@ -177,7 +177,7 @@ readingTime: 2
 Αφού εισάγετε τους στίχους σας, πατήστε **Τέλος** στη σελίδα στίχων. Στη συνέχεια πατήστε **Τέλος** ξανά στην προηγούμενη οθόνη για να επιβεβαιώσετε τις αλλαγές σας.
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Αποθηκευμένοι στίχοι" image="/docs/howto/how-to-edit-lyrics-for-audio-files-on-iphone-mac/saved-lyrics.webp" >}}
+{{< ls-card title="" subtitle="Αποθηκευμένοι στίχοι" image="/docs/howto/how-to-edit-lyrics-for-audio-files-on-iphone-mac/saved-lyrics.webp" >}}
 {{< /cards >}}
 
 ### Αποθήκευση αλλαγών ετικετών
@@ -185,7 +185,7 @@ readingTime: 2
 Τέλος, στην οθόνη **Επεξεργαστή ετικετών**, πατήστε **Αποθήκευση** για να γράψετε τις ενημερωμένες ετικέτες — συμπεριλαμβανομένων των νέων στίχων σας — πίσω στο αρχείο.
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Επεξεργαστής ετικετών με στίχους" image="/docs/howto/how-to-edit-lyrics-for-audio-files-on-iphone-mac/tags-editor-with-lyrics.webp" >}}
+{{< ls-card title="" subtitle="Επεξεργαστής ετικετών με στίχους" image="/docs/howto/how-to-edit-lyrics-for-audio-files-on-iphone-mac/tags-editor-with-lyrics.webp" >}}
 {{< /cards >}}
 
 ### Ορισμός αξιολόγησης περιεχομένου στίχων
@@ -204,22 +204,22 @@ readingTime: 2
 
 ## Συχνές ερωτήσεις
 
-{{% details title="Ποιες μορφές ήχου υποστηρίζει το Evertag για επεξεργασία στίχων;" closed="true" %}}
+{{% ls-details title="Ποιες μορφές ήχου υποστηρίζει το Evertag για επεξεργασία στίχων;" closed="true" %}}
 Το Evertag υποστηρίζει πάνω από 30 μορφές ήχου, συμπεριλαμβανομένων MP3, FLAC, WAV, M4A, OGG, AIFF και άλλων. Μπορείτε να επεξεργαστείτε στίχους και άλλες ετικέτες μεταδεδομένων σε οποιαδήποτε από αυτές τις μορφές.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Μπορώ να προσθέσω στίχους σε πολλές γλώσσες;" closed="true" %}}
+{{% ls-details title="Μπορώ να προσθέσω στίχους σε πολλές γλώσσες;" closed="true" %}}
 Ναι, αλλά μόνο για αρχεία ήχου που χρησιμοποιούν ετικέτες ID3 (όπως MP3 και WAV). Για άλλες μορφές όπως FLAC ή M4A, υποστηρίζεται μόνο μία καταχώρηση στίχων.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Υποστηρίζει το Evertag μαζική επεξεργασία στίχων;" closed="true" %}}
+{{% ls-details title="Υποστηρίζει το Evertag μαζική επεξεργασία στίχων;" closed="true" %}}
 Ναι. Μπορείτε να εισέλθετε σε μαζική λειτουργία για να επεξεργαστείτε μεταδεδομένα πολλών αρχείων ταυτόχρονα. Αυτό είναι χρήσιμο για την εφαρμογή της ίδιας αξιολόγησης περιεχομένου ή άλλων κοινών ετικετών σε ένα ολόκληρο άλμπουμ.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Θα εμφανιστούν οι επεξεργασμένοι στίχοι στο Apple Music ή στο Spotify;" closed="true" %}}
+{{% ls-details title="Θα εμφανιστούν οι επεξεργασμένοι στίχοι στο Apple Music ή στο Spotify;" closed="true" %}}
 Οι στίχοι που επεξεργάζονται με το Evertag είναι ενσωματωμένοι στα μεταδεδομένα του αρχείου ήχου. Θα εμφανιστούν σε οποιοδήποτε πρόγραμμα αναπαραγωγής μουσικής που διαβάζει ενσωματωμένες ετικέτες στίχων, όπως Evermusic, Flacbox, VLC και foobar2000. Οι εφαρμογές streaming όπως Spotify και Apple Music χρησιμοποιούν τις δικές τους βάσεις δεδομένων στίχων και δεν διαβάζουν ενσωματωμένες ετικέτες.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Μπορώ να επεξεργαστώ ετικέτες για αρχεία αποθηκευμένα στο cloud;" closed="true" %}}
+{{% ls-details title="Μπορώ να επεξεργαστώ ετικέτες για αρχεία αποθηκευμένα στο cloud;" closed="true" %}}
 Ναι. Το Evertag υποστηρίζει τη σύνδεση σε υπηρεσίες αποθήκευσης cloud. Η εφαρμογή κατεβάζει το αρχείο, σας επιτρέπει να επεξεργαστείτε τις ετικέτες και ανεβάζει αυτόματα το ενημερωμένο αρχείο πίσω στο cloud.
-{{% /details %}}
+{{% /ls-details %}}

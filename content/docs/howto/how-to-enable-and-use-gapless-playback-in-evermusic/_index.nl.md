@@ -7,7 +7,7 @@ tags: ["Evermusic", "Naadloos afspelen", "Handleiding", "Audio", "Afspelen", "Cr
 readingTime: 4
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 **Kort samengevat:** Open **Instellingen > Audiospeler > Naadloos afspelen** en zet de schakelaar **AAN**. Vanaf dat moment worden nummers afgespeeld zonder pauze, klik of tik ertussen. Evermusic buffert en decodeert het volgende nummer alvast terwijl het huidige nog speelt, en draagt de overdracht dan over tussen audiosamples op een doorlopende buffer, zodat de overgang echt naadloos is. Het is echt naadloos afspelen op sample-niveau, geen crossfade.
 
@@ -73,30 +73,30 @@ Het resultaat is dat een livealbum, een beatgematchte DJ-set of een conceptplaat
 
 ## Veelgestelde vragen
 
-{{% details title="Hoe zet ik naadloos afspelen aan in Evermusic?" closed="true" %}}
+{{% ls-details title="Hoe zet ik naadloos afspelen aan in Evermusic?" closed="true" %}}
 Open Evermusic, ga naar Instellingen > Audiospeler > Naadloos afspelen en zet de schakelaar AAN. Het staat standaard uit. Eenmaal ingeschakeld geldt het voor alles wat je afspeelt en blijft het aan totdat je het uitzet.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Is het naadloos afspelen van Evermusic echt naadloos of gewoon crossfade?" closed="true" %}}
+{{% ls-details title="Is het naadloos afspelen van Evermusic echt naadloos of gewoon crossfade?" closed="true" %}}
 Het is echt naadloos afspelen op sample-niveau. Evermusic decodeert en buffert het volgende nummer alvast terwijl het huidige speelt, en draagt de overdracht dan over tussen audiosamples op een doorlopende buffer, zodat er geen stilte, klik of opvulling wordt ingevoegd en er geen decoder-herstartpauze optreedt. Crossfade is een aparte, andere functie die nummers laat overlappen en versmelten; naadloos afspelen behoudt de audio precies zoals gemasterd en verwijdert alleen het gaatje.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Waarom hoor ik nog steeds een gaatje tussen sommige nummers?" closed="true" %}}
+{{% ls-details title="Waarom hoor ik nog steeds een gaatje tussen sommige nummers?" closed="true" %}}
 Zorg dat naadloos afspelen AAN staat in Instellingen > Audiospeler > Naadloos afspelen. Als er een gaatje blijft, kan het in de opname zelf zitten (sommige bestanden bevatten een paar seconden echte stilte aan het begin of einde van een nummer). Naadloos afspelen verwijdert het gaatje dat de speler normaal tussen nummers zou toevoegen; het kan geen stilte verwijderen die deel uitmaakt van het audiobestand.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Werkt naadloos afspelen met FLAC en andere lossless-bestanden?" closed="true" %}}
+{{% ls-details title="Werkt naadloos afspelen met FLAC en andere lossless-bestanden?" closed="true" %}}
 Ja. Naadloos afspelen werkt met FLAC, Apple Lossless (ALAC) en lossy-formaten zoals MP3 en AAC, of de bestanden nu lokaal, in de cloud of op een mediaserver zijn opgeslagen.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Kan ik naadloos afspelen en crossfade tegelijk gebruiken?" closed="true" %}}
+{{% ls-details title="Kan ik naadloos afspelen en crossfade tegelijk gebruiken?" closed="true" %}}
 Nee. Ze doen het tegenovergestelde, dus het inschakelen van naadloos afspelen schakelt crossfade automatisch uit. Gebruik naadloos afspelen voor livealbums, DJ-mixen en conceptplaten waar de audio precies bewaard moet blijven; gebruik crossfade als je wilt dat nummers in elkaar overvloeien.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Werkt naadloos afspelen bij streamen vanuit de cloud?" closed="true" %}}
+{{% ls-details title="Werkt naadloos afspelen bij streamen vanuit de cloud?" closed="true" %}}
 Ja. Evermusic begint het volgende nummer vroeg te bufferen en te decoderen, ook voor cloudschijven en mediaservers, zodat de overdracht naadloos blijft. Bij tragere verbindingen begint het simpelweg iets eerder met het voorbereiden van het volgende nummer.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Vermindert naadloos afspelen de audiokwaliteit?" closed="true" %}}
+{{% ls-details title="Vermindert naadloos afspelen de audiokwaliteit?" closed="true" %}}
 Nee. Naadloos afspelen codeert of bewerkt je audio niet opnieuw. Het verandert alleen hoe nummers worden gepland en gebufferd, zodat er geen gaatje tussen zit. Elke sample wordt precies afgespeeld zoals hij in het bestand staat.
-{{% /details %}}
+{{% /ls-details %}}

@@ -18,7 +18,7 @@ Paikalliset tiedostot -osio toimii keskuksena sovelluksen 'Asiakirjat'-kansiossa
 Tämä sisäänrakennettu tiedostonhallinta mahdollistaa tiedostojen muokkaamisen ja tarjoaa erilaisia tapoja tuoda äänitiedostoja sovellukseen.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evermusicin Paikalliset tiedostot -näyttö" image="/docs/guide/evermusic/evermusic-guide-local-files/img/local-files-main.webp" >}}
+  {{< ls-card title="" subtitle="Evermusicin Paikalliset tiedostot -näyttö" image="/docs/guide/evermusic/evermusic-guide-local-files/img/local-files-main.webp" >}}
 {{< /cards >}}
 
 ## Lataa tiedostoja pilvipalvelusta
@@ -38,7 +38,7 @@ Tuo tiedostoja helposti laitteeltasi kuten kuvattu [täällä](/docs/howto/how-t
 Siirrä tiedostoja kaapeliyhteyden kautta kuten kuvattu [täällä](/docs/howto/how-to-transfer-files-from-my-mac-to-iphone-or-ipad-using-finder).
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="iTunes / Finder File Sharing" image="/docs/guide/evermusic/evermusic-guide-local-files/img/local-files-itunes-file-sharing.webp" >}}
+  {{< ls-card title="" subtitle="iTunes / Finder File Sharing" image="/docs/guide/evermusic/evermusic-guide-local-files/img/local-files-itunes-file-sharing.webp" >}}
 {{< /cards >}}
 
 ## Wi-Fi Drive
@@ -46,7 +46,7 @@ Siirrä tiedostoja kaapeliyhteyden kautta kuten kuvattu [täällä](/docs/howto/
 Siirrä tiedostoja langattomasti kuten kuvattu [täällä](/docs/howto/how-to-transfer-files-wirelessly-from-a-computer-to-an-iphone-using-wifi-drive).
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Wi-Fi Drive -palvelimen asetukset" image="/docs/guide/evermusic/evermusic-guide-local-files/img/local-files-wifidrive-settings.webp" >}}
+  {{< ls-card title="" subtitle="Wi-Fi Drive -palvelimen asetukset" image="/docs/guide/evermusic/evermusic-guide-local-files/img/local-files-wifidrive-settings.webp" >}}
 {{< /cards >}}
 
 ## Siirtojono
@@ -54,7 +54,7 @@ Siirrä tiedostoja langattomasti kuten kuvattu [täällä](/docs/howto/how-to-tr
 Navigointipalkin vasemmassa yläkulmassa on 'Siirrot'-painike. Napauta sitä päästäksesi siirtojonoon, jossa voit seurata ja hallita kaikkia latauksiasi ja lataamisesi. Lisäksi voit säätää siirtojonon nopeutta ja verkkotyyppiä sovelluksen asetuksissa.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Tiedostojen siirtojono" image="/docs/guide/evermusic/evermusic-guide-local-files/img/local-files-file-transfers.webp" >}}
+  {{< ls-card title="" subtitle="Tiedostojen siirtojono" image="/docs/guide/evermusic/evermusic-guide-local-files/img/local-files-file-transfers.webp" >}}
 {{< /cards >}}
 
 ## Pikakäyttö-osio
@@ -66,7 +66,7 @@ Näytön yläosassa pikakäyttö-osio tarjoaa kätevät linkit viimeisimpiin ja 
 Tässä osiossa näytetään kaikki äskettäin avatut tiedostot tai kansiot.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Äskettäin avatut tiedostot ja kansiot" image="/docs/guide/evermusic/evermusic-guide-local-files/img/local-files-recents.webp" >}}
+  {{< ls-card title="" subtitle="Äskettäin avatut tiedostot ja kansiot" image="/docs/guide/evermusic/evermusic-guide-local-files/img/local-files-recents.webp" >}}
 {{< /cards >}}
 
 ## Suosikit
@@ -74,7 +74,7 @@ Tässä osiossa näytetään kaikki äskettäin avatut tiedostot tai kansiot.
 Voit merkitä tiedostoja tai kansioita suosikeiksi ja käyttää niitä tässä osiossa. Lisäksi voit lisätä laitteellasi olevan kansion suosikkeihisi. Tee se avaamalla suosikit-osio, napauttamalla kolmea pistettä oikeassa yläkulmassa ja valitsemalla 'Lisää kansio'.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Suosikit — Lisää kansio laitteeltasi" image="/docs/guide/evermusic/evermusic-guide-local-files/img/local-files-favorites.webp" >}}
+  {{< ls-card title="" subtitle="Suosikit — Lisää kansio laitteeltasi" image="/docs/guide/evermusic/evermusic-guide-local-files/img/local-files-favorites.webp" >}}
 {{< /cards >}}
 
 ## Ylätyökalupalkki
@@ -89,7 +89,7 @@ Navigointipalkin alla oleva ylätyökalupalkki tarjoaa useita toimintoja:
 Voit näyttää tai piilottaa ylätyökalupalkin alaspäin pyyhkäisyelkeellä.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Ylätyökalupalkki nykyiselle kansiolle" image="/docs/guide/evermusic/evermusic-guide-local-files/img/local-files-top-toolbar.webp" >}}
+  {{< ls-card title="" subtitle="Ylätyökalupalkki nykyiselle kansiolle" image="/docs/guide/evermusic/evermusic-guide-local-files/img/local-files-top-toolbar.webp" >}}
 {{< /cards >}}
 
 ## Erityiset kansiot
@@ -126,7 +126,7 @@ Näyttää sovelluksen Asiakirjat-hakemistossa ja iCloud Drivessa tallennetut ti
 Näyttää laitteellasi olevat tiedostot eri sovelluksissa. Voit tuoda ne tähän sovellukseen järjestelmän tiedostovalitsimella. Aktivoi valitsin valitsemalla 'Avaa tiedostoja...' tiedostojen valitsemiseksi tai 'Avaa kansioita...' kansioiden valitsemiseksi. Yksityiskohtaiset ohjeet ovat saatavilla [täältä](/docs/howto/how-to-play-local-music-stored-on-your-iphone-or-mac). Voit myös yhdistää laitteellasi olevan kansion 'Yhdistä kansio' -valikkokohdan avulla. Katkaistaksesi kansion, napauta 'Lisää toimintoja' ja valitse 'Irrottaa'.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Tiedostot tällä iPhone / iPad / Mac -laitteella" image="/docs/guide/evermusic/evermusic-guide-local-files/img/local-files-on-this-device.webp" >}}
+  {{< ls-card title="" subtitle="Tiedostot tällä iPhone / iPad / Mac -laitteella" image="/docs/guide/evermusic/evermusic-guide-local-files/img/local-files-on-this-device.webp" >}}
 {{< /cards >}}
 
 ## Tuo tiedostoja yhdistetyiltä USB-muistikorteita
@@ -149,7 +149,7 @@ Nykyisen avatun kansion lisätoimintovalikko sijaitsee oikeassa yläkulmassa ja 
 Jos sinun täytyy muokata useita tiedostoja, aktivoi valintamoodi napauttamalla lisätoimintopainiketta '...' navigointipalkin oikeassa yläkulmassa ja valitsemalla sitten 'Valita'. Tämä näyttää valintaruudut jokaisen tiedoston lähellä. Valitse haluamasi tiedostot napauttamalla niiden valintaruutuja. Voit suorittaa seuraavat toiminnot valituille tiedostoille.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Valintamoodin toiminnot paikallisille tiedostoille" image="/docs/guide/evermusic/evermusic-guide-local-files/img/local-files-selection-mode.webp" >}}
+  {{< ls-card title="" subtitle="Valintamoodin toiminnot paikallisille tiedostoille" image="/docs/guide/evermusic/evermusic-guide-local-files/img/local-files-selection-mode.webp" >}}
 {{< /cards >}}
 
 - **Toista seuraavana:** Lisää valitut tiedostot tai kansiot soitinjonon alkuun.
@@ -184,7 +184,7 @@ Jokaiselle tiedostolle tai kansiolle sovelluksessa on saatavilla useita toiminto
 ## Offline-kansiot
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Offline-kansion lisätoimintojen valikko" image="/docs/guide/evermusic/evermusic-guide-local-files/img/local-files-offline-folders.webp" >}}
+  {{< ls-card title="" subtitle="Offline-kansion lisätoimintojen valikko" image="/docs/guide/evermusic/evermusic-guide-local-files/img/local-files-offline-folders.webp" >}}
 {{< /cards >}}
 
 Offline-tila on kätevä ominaisuus, jonka avulla voit kuunnella suosikkimusiikkiasi myös ilman internet-yhteyttä. Kun otat offline-tilan käyttöön mille tahansa albumille, artistille, soittolistalle, genrelle tai etäkansioon, kaikki kyseisen kokoelman tiedostot ladataan automaattisesti laitteellesi offline-toistoa varten. Voit käyttää näitä tiedostoja kätevästi sovelluksen 'Offline-kansiot' -osiosta.
@@ -198,7 +198,7 @@ Yksityiskohtaiset ohjeet offline-musiikin toistoon Evermusicissä & Flacboxissa 
 Lähes jokainen Paikalliset tiedostot -näytön toiminta on konfiguroitavissa kohdassa **Asetukset → Tiedostonhallinta**.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Tiedostonhallinnan asetusnäyttö" image="/docs/guide/evermusic/evermusic-guide-local-files/img/local-files-file-manager-settings.webp" >}}
+  {{< ls-card title="" subtitle="Tiedostonhallinnan asetusnäyttö" image="/docs/guide/evermusic/evermusic-guide-local-files/img/local-files-file-manager-settings.webp" >}}
 {{< /cards >}}
 
 ### Tiedostosiirrot (verkkotyyppi)

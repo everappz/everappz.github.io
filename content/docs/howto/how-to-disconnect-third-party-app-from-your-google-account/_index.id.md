@@ -7,7 +7,7 @@ tags: ["google", "keamanan", "privasi", "aplikasi", "akun", "akses"]
 readingTime: 2
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **Ringkasan:** Buka [myaccount.google.com](https://myaccount.google.com/) > Keamanan > Aplikasi & layanan pihak ketiga. Klik aplikasi yang ingin Anda hapus, lalu pilih "Hapus Akses" atau "Hapus semua koneksi." Ulangi untuk setiap aplikasi.
@@ -75,18 +75,18 @@ Ingat bahwa meskipun aplikasi pihak ketiga dapat meningkatkan pengalaman digital
 
 ## FAQ
 
-{{% details title="Apakah memutuskan koneksi aplikasi akan menghapus data saya dari aplikasi tersebut?" closed="true" %}}
+{{% ls-details title="Apakah memutuskan koneksi aplikasi akan menghapus data saya dari aplikasi tersebut?" closed="true" %}}
 Tidak. Menghapus akses hanya menghentikan aplikasi dari mengakses akun Google Anda ke depannya. Data yang sudah dibagikan dengan aplikasi mungkin masih ada di server mereka. Periksa pengaturan privasi aplikasi itu sendiri untuk menghapus data tersebut.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Bisakah saya menghubungkan kembali aplikasi setelah memutuskan koneksinya?" closed="true" %}}
+{{% ls-details title="Bisakah saya menghubungkan kembali aplikasi setelah memutuskan koneksinya?" closed="true" %}}
 Ya. Jika Anda membutuhkan aplikasi lagi, cukup masuk dengan Google saat diminta. Aplikasi akan meminta izin lagi, dan Anda dapat meninjaunya sebelum memberikan akses.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Seberapa sering saya harus meninjau akses aplikasi pihak ketiga?" closed="true" %}}
+{{% ls-details title="Seberapa sering saya harus meninjau akses aplikasi pihak ketiga?" closed="true" %}}
 Tinjau aplikasi terhubung Anda setiap 3-6 bulan, atau segera setelah Anda berhenti menggunakan suatu layanan. Audit rutin membantu menjaga akun Anda tetap aman.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Apakah ini memengaruhi aplikasi seperti Evermusic yang terhubung ke Google Drive?" closed="true" %}}
+{{% ls-details title="Apakah ini memengaruhi aplikasi seperti Evermusic yang terhubung ke Google Drive?" closed="true" %}}
 Ya. Jika Anda memutuskan koneksi aplikasi seperti Evermusic atau Flacbox dari akun Google Anda, aplikasi tersebut akan kehilangan akses ke file Google Drive Anda. Anda dapat menghubungkan kembali kapan saja dari dalam aplikasi.
-{{% /details %}}
+{{% /ls-details %}}

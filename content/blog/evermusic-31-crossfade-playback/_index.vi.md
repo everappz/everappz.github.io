@@ -12,7 +12,7 @@ authors:
     image: "/images/about/artem-meleshko-founder-everappz.webp"
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 ## Evermusic 3.1: Có gì thay đổi và tại sao quan trọng
 
@@ -89,22 +89,22 @@ Chỉnh sửa thông tin đăng nhập cho bất kỳ dịch vụ đám mây đ�
 
 ## Câu hỏi thường gặp
 
-{{% details title="Phát crossfade trong Evermusic là gì?" closed="true" %}}
+{{% ls-details title="Phát crossfade trong Evermusic là gì?" closed="true" %}}
 Phát crossfade pha trộn phần cuối của bài hát này với phần đầu của bài tiếp theo, tạo ra các chuyển tiếp liền mạch. Bạn có thể đặt thời lượng từ 3 đến 15 giây trong Settings → Audio Player → Crossfade Playback.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Tôi có thể sao lưu danh sách phát Evermusic vào bộ nhớ đám mây không?" closed="true" %}}
+{{% ls-details title="Tôi có thể sao lưu danh sách phát Evermusic vào bộ nhớ đám mây không?" closed="true" %}}
 Có. Evermusic 3.1 cho phép bạn sao lưu toàn bộ thư viện — bao gồm danh sách phát, siêu dữ liệu, ảnh bìa và cài đặt — vào bất kỳ dịch vụ đám mây đã kết nối nào dưới dạng một tệp duy nhất.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Evermusic có hỗ trợ duyệt thư viện iPod không?" closed="true" %}}
+{{% ls-details title="Evermusic có hỗ trợ duyệt thư viện iPod không?" closed="true" %}}
 Có. Bạn có thể duyệt thư viện iPod theo danh sách phát, album, nghệ sĩ và thể loại trực tiếp từ màn hình chính Evermusic và thêm bài hát vào hàng đợi.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Làm thế nào để sửa thẻ bài hát không chính xác trong Evermusic?" closed="true" %}}
+{{% ls-details title="Làm thế nào để sửa thẻ bài hát không chính xác trong Evermusic?" closed="true" %}}
 Sử dụng trình chỉnh sửa Tags Editor tích hợp và nhấn hành động Identify. Evermusic quét tên tệp và tự động cập nhật thẻ ID3 với siêu dữ liệu đã sửa.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Evermusic hỗ trợ những dịch vụ đám mây nào?" closed="true" %}}
+{{% ls-details title="Evermusic hỗ trợ những dịch vụ đám mây nào?" closed="true" %}}
 Evermusic hoạt động với Dropbox, Google Drive, OneDrive, MEGA, Box, Yandex.Disk, WebDAV, SMB/CIFS và máy chủ FTP.
-{{% /details %}}
+{{% /ls-details %}}

@@ -7,7 +7,7 @@ tags: ["evermusic", "flacbox", "archiv", "záloha", "export", "seznam skladeb", 
 readingTime: 2
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **Shrnutí:** Evermusic a Flacbox mohou archivovat jakýkoli seznam skladeb, album, interpreta nebo žánr do souboru ZIP s playlistem M3U, obalem alba a všemi zvukovými soubory. Přeneste ZIP na jiné zařízení, rozbalte ho a importujte M3U pro okamžité obnovení playlistu.
@@ -104,22 +104,22 @@ Podle tohoto průvodce můžete efektivně archivovat a přenášet své seznamy
 
 ## Často kladené otázky
 
-{{% details title="Co je zahrnuto v archivu ZIP?" closed="true" %}}
+{{% ls-details title="Co je zahrnuto v archivu ZIP?" closed="true" %}}
 Archiv obsahuje všechny zvukové soubory, soubor playlistu M3U, který zachovává pořadí skladeb, a obal alba playlistu uložený jako samostatný obrazový soubor.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Funguje archivace s cloudovými soubory?" closed="true" %}}
+{{% ls-details title="Funguje archivace s cloudovými soubory?" closed="true" %}}
 Ano. Aplikace automaticky stáhne všechny soubory uložené v cloudu před jejich přidáním do archivu. Průběh stahování můžete sledovat v sekci přenosů souborů.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Mohu archivovat také alba, interprety a žánry?" closed="true" %}}
+{{% ls-details title="Mohu archivovat také alba, interprety a žánry?" closed="true" %}}
 Ano. Možnost «Přidat do archivu» je dostupná pro seznamy skladeb, alba, interprety a žánry. Proces je pro všechny identický.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Jak přenesu archiv na jiné zařízení?" closed="true" %}}
+{{% ls-details title="Jak přenesu archiv na jiné zařízení?" closed="true" %}}
 Můžete nahrát ZIP do cloudového úložiště (Google Drive, Dropbox atd.), použít AirDrop nebo přenést bezdrátově pomocí vestavěné funkce Wi-Fi Drive v Evermusic a Flacbox.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Bude struktura seznamu skladeb zachována po přenosu?" closed="true" %}}
+{{% ls-details title="Bude struktura seznamu skladeb zachována po přenosu?" closed="true" %}}
 Ano. Soubor M3U ukládá strukturu seznamu skladeb s relativními cestami. Po rozbalení na novém zařízení importujte soubor M3U pro obnovení seznamu skladeb se všemi skladbami v původním pořadí.
-{{% /details %}}
+{{% /ls-details %}}

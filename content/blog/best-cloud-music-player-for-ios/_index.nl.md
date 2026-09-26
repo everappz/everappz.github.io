@@ -12,7 +12,7 @@ authors:
     image: "/images/about/artem-meleshko-founder-everappz.webp"
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 **Samenvatting:** Evermusic is een cloud muziekspeler voor iPhone en iPad die verbinding maakt met Dropbox, Google Drive, OneDrive en 9+ andere clouddiensten. Het speelt FLAC, MP3, WAV en andere formaten af, ondersteunt offline downloads en bevat een equalizer en ID3-tag editor. Gratis te downloaden met een eenmalige Premium upgrade. 11 miljoen+ downloads, 4.6-sterren App Store beoordeling.
 
@@ -20,7 +20,7 @@ authors:
 
 Bekijk de volledige videobeoordeling door [@Massi_Media](https://www.youtube.com/@Massi_Media):
 
-{{< youtubecard id="pKUZmHy9dxc" >}}
+{{< ls-youtubecard id="pKUZmHy9dxc" >}}
 
 ## Wat Is de Beste Cloud Muziekspeler voor iPhone?
 
@@ -67,18 +67,18 @@ Omdat Evermusic werkt met bestanden die je al hebt en opslag waarvoor je al beta
 
 ## Veelgestelde Vragen
 
-{{% details title="Is Evermusic echt gratis te gebruiken?" closed="true" %}}
+{{% ls-details title="Is Evermusic echt gratis te gebruiken?" closed="true" %}}
 Ja, Evermusic biedt een gratis tier die cloudconnectiviteit, streaming en offline downloads omvat. De gratis versie ondersteunt basisfuncties voor afspelen en een beperkt aantal cloudaccountverbindingen. Evermusic Pro, beschikbaar als eenmalige aankoop of abonnement, ontgrendelt de volledige equalizer, crossfade, extra cloudaccounts en andere geavanceerde functies. Er is geen abonnement vereist om toegang te krijgen tot je eigen muziekbestanden.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Kan ik Evermusic gebruiken zonder internetverbinding?" closed="true" %}}
+{{% ls-details title="Kan ik Evermusic gebruiken zonder internetverbinding?" closed="true" %}}
 Absoluut. Met Evermusic kun je nummers van elke verbonden clouddienst rechtstreeks naar je apparaat downloaden voor offline afspelen. Eenmaal gedownload worden de bestanden lokaal opgeslagen en blijven ze beschikbaar zelfs zonder Wi-Fi of mobiele data. Dit maakt Evermusic ideaal voor vluchten, forenzeritten door tunnels of elke situatie waarbij de connectiviteit onbetrouwbaar is.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Ondersteunt Evermusic verliesloze audioformaten zoals FLAC?" closed="true" %}}
+{{% ls-details title="Ondersteunt Evermusic verliesloze audioformaten zoals FLAC?" closed="true" %}}
 Ja. Evermusic ondersteunt een breed scala aan audioformaten waaronder FLAC, ALAC, WAV, AIFF, OGG, MP3, AAC en M4A. De app speelt verliesloze bestanden af in hun oorspronkelijke kwaliteit zonder hercodering, zodat audiofielen kunnen genieten van hun hoge-resolutie collecties precies zoals bedoeld.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Hoe verbind ik mijn NAS of thuisserver met Evermusic?" closed="true" %}}
+{{% ls-details title="Hoe verbind ik mijn NAS of thuisserver met Evermusic?" closed="true" %}}
 Als je NAS of thuisserver WebDAV- of SMB-protocollen ondersteunt, kun je deze verbinden met Evermusic door je serveradres, poort en inloggegevens in te voeren in de cloudverbindingsinstellingen van de app. De meeste populaire NAS-merken waaronder Synology, QNAS en Western Digital MyCloud ondersteunen deze protocollen standaard. Eenmaal verbonden scant en indexeert Evermusic je muziekbestanden zoals elke andere cloudbron.
-{{% /details %}}
+{{% /ls-details %}}

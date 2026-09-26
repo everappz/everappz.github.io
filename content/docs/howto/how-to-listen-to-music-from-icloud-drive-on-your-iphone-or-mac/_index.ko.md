@@ -7,7 +7,7 @@ tags: ["음악", "클라우드", "스트리밍", "플레이어", "드라이브",
 readingTime: 5
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **요약:** iCloud Drive에 음악을 업로드하고, [Evermusic](/products/evermusic)(MP3/WAV용) 또는 [Flacbox](/products/flacbox)(FLAC/DSD용)를 설치한 다음, iCloud Drive 폴더를 연결하면 기기 저장 공간을 사용하지 않고 직접 스트리밍할 수 있습니다.
@@ -29,8 +29,8 @@ iPhone 또는 Mac에서 iCloud Drive 음악을 즐기기 전에 적합한 앱을
 1. App Store로 이동하여 음악이 mp3 또는 wav와 같은 표준 오디오 형식으로 저장되어 있다면 **Evermusic**을 다운로드하세요. dsd 또는 flac의 무손실 음악이 있다면 **Flacbox**를 선택하세요. 두 앱 모두 iOS 및 MacOS에서 사용할 수 있습니다.
 
 {{< cards >}}
-  {{< card link="https://apps.apple.com/us/app/evermusic-cloud-music-player/id885367198" title="iOS용 Evermusic 다운로드" icon="download" tag="무료" >}}
-  {{< card link="https://apps.apple.com/us/app/flacbox-flac-player-equalizer/id1097564256" title="iOS용 Flacbox 다운로드" icon="download" tag="무료" >}}
+  {{< ls-card link="https://apps.apple.com/us/app/evermusic-cloud-music-player/id885367198" title="iOS용 Evermusic 다운로드" icon="download" tag="무료" >}}
+  {{< ls-card link="https://apps.apple.com/us/app/flacbox-flac-player-equalizer/id1097564256" title="iOS용 Flacbox 다운로드" icon="download" tag="무료" >}}
 {{< /cards >}}
 
 - MacOS의 경우:
@@ -38,8 +38,8 @@ iPhone 또는 Mac에서 iCloud Drive 음악을 즐기기 전에 적합한 앱을
 1. Mac의 App Store를 방문하여 음악 형식에 따라 **Evermusic** 또는 **Flacbox**를 설치하세요.
 
 {{< cards >}}
-  {{< card link="https://apps.apple.com/us/app/evermusic-cloud-music-player/id1564384601" title="Mac용 Evermusic 다운로드" icon="download" tag="무료" >}}
-  {{< card link="https://apps.apple.com/us/app/flacbox-hires-music-player/id1594027432" title="Mac용 Flacbox 다운로드" icon="download" tag="무료" >}}
+  {{< ls-card link="https://apps.apple.com/us/app/evermusic-cloud-music-player/id1564384601" title="Mac용 Evermusic 다운로드" icon="download" tag="무료" >}}
+  {{< ls-card link="https://apps.apple.com/us/app/flacbox-hires-music-player/id1594027432" title="Mac용 Flacbox 다운로드" icon="download" tag="무료" >}}
 {{< /cards >}}
 
 iPhone 또는 Mac에 앱을 설치했으면 다음 단계로 진행할 준비가 된 것입니다.
@@ -215,22 +215,22 @@ iCloud Drive와 적합한 앱만 있으면 iPhone과 Mac은 언제 어디서나 
 
 ## FAQ
 
-{{% details title="iCloud Drive에서 어떤 오디오 형식을 스트리밍할 수 있나요?" closed="true" %}}
+{{% ls-details title="iCloud Drive에서 어떤 오디오 형식을 스트리밍할 수 있나요?" closed="true" %}}
 Evermusic은 MP3, WAV, AAC 및 기타 표준 형식을 지원합니다. Flacbox는 FLAC, DSD, OGG 및 OPUS 지원을 추가합니다. 음악 컬렉션에 맞는 앱을 선택하세요.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="iCloud Drive에서 스트리밍하면 기기 저장 공간을 사용하나요?" closed="true" %}}
+{{% ls-details title="iCloud Drive에서 스트리밍하면 기기 저장 공간을 사용하나요?" closed="true" %}}
 아니요. Evermusic과 Flacbox 모두 파일을 기기에 다운로드하지 않고 iCloud Drive에서 직접 오디오를 스트리밍합니다. 오프라인 청취를 위해 개별 트랙을 선택적으로 다운로드할 수 있습니다.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="iCloud Drive 음악을 오프라인으로 사용할 수 있나요?" closed="true" %}}
+{{% ls-details title="iCloud Drive 음악을 오프라인으로 사용할 수 있나요?" closed="true" %}}
 네. 트랙의 점 세 개 메뉴를 탭하고 다운로드 옵션을 선택하세요. 파일이 오프라인 재생을 위해 로컬에 저장됩니다.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="재생 중에 음악이 멈추거나 버퍼링되는 이유는 무엇인가요?" closed="true" %}}
+{{% ls-details title="재생 중에 음악이 멈추거나 버퍼링되는 이유는 무엇인가요?" closed="true" %}}
 이는 보통 느리거나 불안정한 인터넷 연결로 인해 발생합니다. 설정에서 오디오 플레이어 캐시를 활성화하여 다음 트랙을 미리 다운로드하고 중단을 방지하세요.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="iCloud Drive 음악 스트리밍은 무료인가요?" closed="true" %}}
+{{% ls-details title="iCloud Drive 음악 스트리밍은 무료인가요?" closed="true" %}}
 Evermusic과 Flacbox 모두 무료로 다운로드할 수 있습니다. iCloud Drive는 5GB의 무료 저장 공간을 제공합니다. 더 많은 공간이 필요하면 Apple을 통해 iCloud 저장 공간 요금제를 업그레이드할 수 있습니다.
-{{% /details %}}
+{{% /ls-details %}}

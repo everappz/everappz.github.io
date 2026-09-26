@@ -7,7 +7,7 @@ keywords: ["FTP-palvelin iPhone", "FTP-palvelin iPad", "näin määrität FTP:n 
 readingTime: 9
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 FTP on tiedostonsiirron vanha luotettava. Se on ollut olemassa vuosikymmeniä, mikä on juuri se syy, miksi se on niin hyödyllinen: lähes kaikki, mikä osaa keskustella palvelimen kanssa, ymmärtää sitä. Kamerat, älytelevisiot, reitittimet, verkkolevyt, automaatiotyökalut ja jokainen työpöydän FTP-sovellus puhuvat FTP:tä. [Everdiskin](/products/everdisk) avulla voit pyörittää FTP-palvelinta iPhonellasi tai iPadillasi, jolloin puhelimesta tulee paikka, johon nuo laitteet ja sovellukset voivat yhdistää ja siirtää tiedostoja.
 
@@ -118,44 +118,44 @@ Osoita ne iPhonesi Wi-Fi-osoitteeseen, porttiin **2121** ja kirjautumistietoihis
 
 ## Usein kysytyt kysymykset
 
-{{% details title="Mikä on iPhoneni FTP-osoite ja portti?" closed="true" %}}
+{{% ls-details title="Mikä on iPhoneni FTP-osoite ja portti?" closed="true" %}}
 Kun aloitat jakamisen, Everdisk näyttää osoitteen Jakaminen-näytöllä. Se näyttää tältä: ftp://192.168.1.20:2121. 2121 on portti, jota Everdisk käyttää FTP:hen, ja ensimmäinen osa on iPhonesi osoite Wi-Fi-verkossa, joten omasi on erilainen.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Miten yhdistän FileZillan tai Cyberduckin iPhoneeni?" closed="true" %}}
+{{% ls-details title="Miten yhdistän FileZillan tai Cyberduckin iPhoneeni?" closed="true" %}}
 Avaa sovellus ja luo uusi yhteys. Aseta Host iPhonesi Wi-Fi-osoitteeksi ja Port arvoon 2121. Syötä Käyttäjätunnus ja Salasana, tai valitse Anonymous, jos et asettanut sellaista Everdiskissä. Yhdistä, ja voit vetää tiedostoja molempiin suuntiin, kun Tiedostojen muokkaus on päällä.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Voinko yhdistää iPhoneni FTP:hen Windowsista?" closed="true" %}}
+{{% ls-details title="Voinko yhdistää iPhoneni FTP:hen Windowsista?" closed="true" %}}
 Kyllä. Avaa File Explorer, klikkaa osoiteriviä, kirjoita Everdiskin FTP-osoite (esimerkiksi ftp://192.168.1.20:2121) ja paina Enter. Syötä kirjautumistietosi, jos asetit sellaisen, tai jatka vieraana. Lähetyksiä ja enemmän hallintaa varten käytä sen sijaan FTP-sovellusta, kuten FileZillaa.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Tarvitsenko kirjautumisen FTP:tä varten?" closed="true" %}}
+{{% ls-details title="Tarvitsenko kirjautumisen FTP:tä varten?" closed="true" %}}
 Ei, kirjautuminen on valinnaista. Jätä Käyttäjätunnus ja Salasana tyhjiksi kohdassa Asetukset, Jakaminen, Käyttöoikeus, ja yhdistä Anonymous-tunnuksella, jota useimmat FTP-asiakkaat tarjoavat. Aseta kirjautuminen, jos haluat yhteyksien kirjautuvan ensin sisään.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Miksi voin vain ladata enkä lähettää FTP:n kautta?" closed="true" %}}
+{{% ls-details title="Miksi voin vain ladata enkä lähettää FTP:n kautta?" closed="true" %}}
 Kaksi syytä on yleisiä. Ensinnäkin Tiedostojen muokkaus -kytkimen kohdassa Asetukset, Jakaminen, Käyttöoikeus on oltava päällä salliakseen lähetykset, uudelleennimeämiset ja poistot. Toiseksi Macin Finder avaa FTP:n vain luku -tilassa, joten käytä FTP-sovellusta, kuten FileZillaa tai Cyberduckia, kun haluat lähettää.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Voinko käyttää FTP:tä kahden iPhonen välillä?" closed="true" %}}
+{{% ls-details title="Voinko käyttää FTP:tä kahden iPhonen välillä?" closed="true" %}}
 Kyllä. Aloita FTP-palvelin ensimmäisellä iPhonella. Avaa toisella Everdisk, siirry Laitteet-välilehdelle, napauta Uusi yhteys, valitse FTP ja syötä ensimmäisellä puhelimella näkyvä osoite. Erillinen FTP-sovellus iOS:lle toimii myös, koska iOS:n Tiedostot-sovelluksessa ei ole FTP-asiakasta.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Onko FTP turvallinen?" closed="true" %}}
+{{% ls-details title="Onko FTP turvallinen?" closed="true" %}}
 Tavallinen FTP ei salaa liikennettään, joten kohtele sitä työkaluna verkoille, joihin luotat, kuten kotisi Wi-Fi. Verkossa, jota et hallitse, käytä SMB-palvelinta Vaadi SMB-salaus käytössä, mikä suojaa jokaisen siirron.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Mitkä laitteet voivat yhdistää FTP:n kautta?" closed="true" %}}
+{{% ls-details title="Mitkä laitteet voivat yhdistää FTP:n kautta?" closed="true" %}}
 Lähes kaikki, joissa on FTP-asiakas. Tämä sisältää Mac-, Windows- ja Linux-tietokoneet, FTP-sovellukset kuten FileZilla ja Cyberduck, Androidin tiedostonhallinnat sekä laitteet, kuten kamerat, älytelevisiot, reitittimet, NAS-laatikot ja automaatiotyökalut. Tuo laaja tavoittavuus on tärkein syy valita FTP.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Miksi FTP-yhteyteni katkesi?" closed="true" %}}
+{{% ls-details title="Miksi FTP-yhteyteni katkesi?" closed="true" %}}
 iPhonesi on palvelin, ja iOS pysäyttää sovellukset, jotka pysyvät taustalla liian kauan. Pidä Everdisk avoinna näytöllä, kun laite on yhdistettynä, ja kytke virtalähteeseen pitkien siirtojen aikana. Varmista myös, että molemmat laitteet ovat edelleen samassa Wi-Fi-verkossa.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Onko Everdisk ilmainen?" closed="true" %}}
+{{% ls-details title="Onko Everdisk ilmainen?" closed="true" %}}
 Kyllä, Everdiskin voi ladata ilmaiseksi ja FTP-palvelin sisältyy siihen. Valinnainen kertaostoksena hankittava Premium lisää lisäominaisuuksia, kuten mukautetut portit sekä kuvien ja videoiden muunnoksen. Voit ottaa FTP:n käyttöön ja siirtää tiedostoja maksamatta.
-{{% /details %}}
+{{% /ls-details %}}
 
 Valmis kokeilemaan? [Lataa Everdisk App Storesta](https://apps.apple.com/app/apple-store/id6751851132?pt=95781850&ct=everappzcom&mt=8) ja yhdistä ensimmäinen FTP-asiakkaasi parissa minuutissa. Kysymyksiä tai palautetta? Lähetä meille sähköpostia osoitteeseen **support@everappz.com**.

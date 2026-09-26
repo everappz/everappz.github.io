@@ -21,7 +21,7 @@ readingTime: 8
 لديك طريقتان لإضافة وسائط إلى مكتبتك: **الإضافة اليدوية** (أنت تختار بالضبط ما يُضاف) أو **المزامنة التلقائية** (يفحص Evervideo المجلدات السحابية المحددة ويضيف الملفات الجديدة تلقائياً عند ظهورها).
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="مكتبة الوسائط في Evervideo" image="/docs/guide/evervideo/img/evervideo-genres-in-media-library.webp" >}}
+  {{< ls-card title="" subtitle="مكتبة الوسائط في Evervideo" image="/docs/guide/evervideo/img/evervideo-genres-in-media-library.webp" >}}
 {{< /cards >}}
 
 ## الإضافة اليدوية
@@ -92,7 +92,7 @@ readingTime: 8
 يعرض هذا القسم جميع مقاطع الفيديو المشغَّلة مؤخراً مع آخر موضع تشغيل لها، حتى تتمكن من استئناف أي منها بنقرة واحدة. يمكنك تغيير عدد الإدخالات التي تحتفظ بها القائمة في الإعدادات ← مكتبة الوسائط ← الأخيرة ← تغيير حجم القائمة، وتصدير القائمة إلى M3U/CSV/TXT لنسخ سجل المشاهدة احتياطياً.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="الأخيرة في Evervideo — مقاطع الفيديو المشاهَدة مؤخراً" image="/docs/guide/evervideo/img/evervideo-recents.webp" >}}
+  {{< ls-card title="" subtitle="الأخيرة في Evervideo — مقاطع الفيديو المشاهَدة مؤخراً" image="/docs/guide/evervideo/img/evervideo-recents.webp" >}}
 {{< /cards >}}
 
 ## المفضلة
@@ -104,7 +104,7 @@ readingTime: 8
 يتتبّع Evervideo موضع التشغيل لكل فيديو تشاهده. يعرض كل فيديو في أي قائمة — الأخيرة والمفضلة والألبوم والنوع وقائمة التشغيل والمجلد — شريطاً صغيراً للتقدم حتى ترى بلمحة مقدار ما شاهدته منه بالفعل. هذا يجعل موسم المسلسل الطويل وقوائم تشغيل الدورات وليالي المشاهدة المتواصلة سهلة الإدارة بلا جهد.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="تفاصيل النوع مع تقدم المشاهدة لكل ملف في Evervideo" image="/docs/guide/evervideo/img/evervideo-genre-detail-with-playback-progress-for-watched-files.webp" >}}
+  {{< ls-card title="" subtitle="تفاصيل النوع مع تقدم المشاهدة لكل ملف في Evervideo" image="/docs/guide/evervideo/img/evervideo-genre-detail-with-playback-progress-for-watched-files.webp" >}}
 {{< /cards >}}
 
 ## شريط الأدوات العلوي
@@ -116,7 +116,7 @@ readingTime: 8
 تمكّنك ميزة البحث من تحديد موقع عنوان أو ألبوم أو نوع أو قائمة تشغيل محددة داخل مكتبة الوسائط. داخل شاشة البحث، يمكنك الوصول إلى إجراءات الترتيب والتصفية وعرض الشبكي/القائمة. يعمل البحث محلياً على قاعدة بيانات مكتبة الوسائط، لذا يعمل بشكل كامل غير متصل ويعيد النتائج أثناء الكتابة.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="بحث مكتبة الوسائط في Evervideo" image="/docs/guide/evervideo/img/evervideo-library-search.webp" >}}
+  {{< ls-card title="" subtitle="بحث مكتبة الوسائط في Evervideo" image="/docs/guide/evervideo/img/evervideo-library-search.webp" >}}
 {{< /cards >}}
 
 ## قائمة الخيارات

@@ -19,7 +19,7 @@ Yerel Dosyalar bölümü, uygulamanın Documents klasöründe bulunan ve çevrim
 Bu yerleşik dosya yöneticisi; dosyaları düzenlemenize (yeniden adlandırma, taşıma, kopyalama, yükleme, silme), aktarımları izlemenize ve ses dosyalarını uygulamaya aktarmak için çeşitli yöntemler sunmasına olanak tanır — buluttan doğrudan indirme, çevrimdışı mod eşitlemesi, USB flash sürücüler, Wi-Fi Drive ve Finder Dosya Paylaşımı.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox Yerel Dosyalar Ekranı" image="/docs/guide/flacbox/img/local-files.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox Yerel Dosyalar Ekranı" image="/docs/guide/flacbox/img/local-files.webp" >}}
 {{< /cards >}}
 
 ## Bulut Depolama Alanından Dosya İndirme
@@ -102,7 +102,7 @@ Uygulamanın Documents dizininde ve iCloud Drive'da depolanan dosya ve klasörle
 Cihazınızda ancak farklı uygulamalarda bulunan dosyaları gösterir. Sistem dosya seçiciyi kullanarak bunları bu uygulamaya aktarabilirsiniz. Seçiciyi etkinleştirmek için dosyaları seçmek üzere **Dosyaları Aç…** veya klasörleri seçmek için **Klasörleri Aç…** seçeneğini belirleyin. iPhone veya Mac'inizde depolanan yerel müziği nasıl aktaracağınıza ilişkin ayrıntılı talimatlar [burada](/docs/howto/how-to-play-local-music-stored-on-your-iphone-or-mac) mevcuttur.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox Bağlı Cihaz Klasörleri" image="/docs/guide/flacbox/img/connected-device-folders.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox Bağlı Cihaz Klasörleri" image="/docs/guide/flacbox/img/connected-device-folders.webp" >}}
 {{< /cards >}}
 
 Cihazınızda bulunan bir klasörü bağlayabilir ve içeriğine hızlıca erişebilirsiniz. **Klasör Bağla** menü öğesini kullanın ve cihazınızda bulunan bir klasörü seçin. **Tamamlandı** seçeneğine dokunun; uygulama, bu klasörü okuma / yazma erişimiyle bağlayarak dosyaları doğrudan bu uygulamadan yönetmenizi sağlar. Cihazınızdaki bir klasörün bağlantısını kesmek için **Daha Fazla Eylem** düğmesine dokunun ve **Bağlantıyı Kes** seçeneğini belirleyin.
@@ -137,7 +137,7 @@ Birkaç dosyayı düzenlemeniz gerekiyorsa, gezinme çubuğunun sağ üst köşe
 - **Sil** — seçili dosya veya klasörü cihazdan kaldırır. **Bu işlem geri alınamaz.**
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox Yerel Dosyalar Seçim Modu" image="/docs/guide/flacbox/img/local-files-selection-mode.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox Yerel Dosyalar Seçim Modu" image="/docs/guide/flacbox/img/local-files-selection-mode.webp" >}}
 {{< /cards >}}
 
 ## Seçenekler Menüsü
@@ -161,7 +161,7 @@ Uygulamadaki her dosya veya klasör için **Daha Fazla** düğmesi **"..."** se�
 - **Sil** — dosyayı veya klasörü cihazdan siler. **Bu işlem geri alınamaz** ve silinen dosyalar kurtarılamaz.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox Yerel Dosya İçin Daha Fazla Eylem" image="/docs/guide/flacbox/img/local-files-more-actions-for-file.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox Yerel Dosya İçin Daha Fazla Eylem" image="/docs/guide/flacbox/img/local-files-more-actions-for-file.webp" >}}
 {{< /cards >}}
 
 ## Çevrimdışı Klasörler

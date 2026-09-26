@@ -20,7 +20,7 @@ I Spillelister-seksjonen finner du nyttige verktøy for å administrere musikksa
 Spillelister i Flacbox kan inneholde en blanding av online skysanger, offline nedlastede filer og lokale filer fra enheten din — alle i én spilleliste — og spilles sømløst sammen.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox Spillelister Hovedskjerm" image="/docs/guide/flacbox/img/playlists-main.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox Spillelister Hovedskjerm" image="/docs/guide/flacbox/img/playlists-main.webp" >}}
 {{< /cards >}}
 
 ## Opprette en Spilleliste
@@ -63,7 +63,7 @@ Når du åpner en spilleliste, vises Spilleliste Detaljskjermen. Du finner en **
 - **Frakoblet modus** — last ned alle spor fra denne spillelisten til lokale filer. Nye elementer som legges til i spillelisten, lastes også automatisk ned.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox Spilleliste Detaljskjerm" image="/docs/guide/flacbox/img/playlist-details-screen.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox Spilleliste Detaljskjerm" image="/docs/guide/flacbox/img/playlist-details-screen.webp" >}}
 {{< /cards >}}
 
 ## Flere Handlinger for en Spilleliste på Spillelister-Skjermen
@@ -82,7 +82,7 @@ Du kan åpne handlinger for en spilleliste ved å trykke på **"..."**-knappen v
 - **Slett spilleliste** — slett spillelisten fra musikkbiblioteket. **Denne handlingen kan ikke angres.**
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox Flere Handlinger for en Spilleliste på Spillelister Hovedskjermen" image="/docs/guide/flacbox/img/more-actions-for-playlist-in-playlists-main-screen.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox Flere Handlinger for en Spilleliste på Spillelister Hovedskjermen" image="/docs/guide/flacbox/img/more-actions-for-playlist-in-playlists-main-screen.webp" >}}
 {{< /cards >}}
 
 ## Flere Handlinger for en Spilleliste på Spilleliste Detaljskjermen
@@ -110,7 +110,7 @@ For å endre rekkefølgen på sanger i en spilleliste, trykk på **"..."**-knapp
 For en enda enklere arbeidsflyt på lange spillelister, velg Flere handlinger → Omorganiser sanger for å gå inn i dedikert dra-og-slipp omorganiserings-modus.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox Omorganiser Sanger i en Spilleliste" image="/docs/guide/flacbox/img/playlist-details-rearange-songs.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox Omorganiser Sanger i en Spilleliste" image="/docs/guide/flacbox/img/playlist-details-rearange-songs.webp" >}}
 {{< /cards >}}
 
 ## Endre Spillelistens Omslagsbilde
@@ -126,7 +126,7 @@ For å endre omslagsbildet for en spilleliste, trykk på **"..."**-knappen øver
 Åpne spillelisten, trykk på **"..."**-knappen øverst til høyre og velg **Velg** for å gå inn i valg-modus. Velg sporene du vil slette og trykk på **Slett fra spilleliste** nederst på skjermen. Bekreft ved å trykke på **Ferdig**.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox Valg-Modus i Spilleliste Detaljskjermen" image="/docs/guide/flacbox/img/selection-mode-playlist-details-screen.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox Valg-Modus i Spilleliste Detaljskjermen" image="/docs/guide/flacbox/img/selection-mode-playlist-details-screen.webp" >}}
 {{< /cards >}}
 
 ## Sporalternativer

@@ -11,7 +11,7 @@ readingTime: 3
 Evervideo biedt zowel een gratis versie met bepaalde gebruikslimieten als een premiumversie met extra functies, die kunnen worden ontgrendeld via in-app aankopen.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Scherm Standaard Abonnement Upgraden" image="/docs/faq/evervideo/what-is-the-difference-between-evervideo-and-evervideo-premium/upgrade-default.webp" >}}
+  {{< ls-card title="" subtitle="Scherm Standaard Abonnement Upgraden" image="/docs/faq/evervideo/what-is-the-difference-between-evervideo-and-evervideo-premium/upgrade-default.webp" >}}
 {{< /cards >}}
 
 ## Kies uw premiumabonnement
@@ -19,7 +19,7 @@ Evervideo biedt zowel een gratis versie met bepaalde gebruikslimieten als een pr
 De gratis versie van de applicatie biedt een eenmalige levenslange in-app aankoop en twee abonnementsopties (1 maand en 1 jaar) om alle beperkingen te verwijderen en te upgraden naar de premiumversie, zodat u de beste en meest optimale prijs voor u kunt kiezen. Prijzen kunnen variëren afhankelijk van uw land of regio. Houd er ook rekening mee dat **Family Sharing** is ingeschakeld voor alle aankopen en abonnementen, zodat u de premiumversie kunt delen met leden van uw gezin.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Scherm Abonnementsselectie Evervideo" image="/docs/faq/evervideo/what-is-the-difference-between-evervideo-and-evervideo-premium/plan-select.webp" >}}
+  {{< ls-card title="" subtitle="Scherm Abonnementsselectie Evervideo" image="/docs/faq/evervideo/what-is-the-difference-between-evervideo-and-evervideo-premium/plan-select.webp" >}}
 {{< /cards >}}
 
 ## Aankopen delen tussen iOS en Mac
@@ -31,13 +31,13 @@ U kunt ook proberen op de knop 'Aankopen herstellen' in de app-instellingen te d
 Om uw aankoop op het nieuwe apparaat te herstellen, gebruikt u gewoon het menu 'Aankopen herstellen'. U ziet de lijst met uw aankopen. Als u niet alle aankopen ziet, controleer dan of het apparaat is verbonden met hetzelfde iTunes-account dat is gebruikt voor de aankopen en zorg ervoor dat iCloud is ingeschakeld.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Scherm Aankoop Hersteld" image="/docs/faq/evervideo/what-is-the-difference-between-evervideo-and-evervideo-premium/purchase-restored.webp" >}}
+  {{< ls-card title="" subtitle="Scherm Aankoop Hersteld" image="/docs/faq/evervideo/what-is-the-difference-between-evervideo-and-evervideo-premium/purchase-restored.webp" >}}
 {{< /cards >}}
 
 Zodra u uw app hebt geüpgraded, ziet u het Premium-statusscherm met details van uw huidige aankopen.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Scherm U Gebruikt Premium" image="/docs/faq/evervideo/what-is-the-difference-between-evervideo-and-evervideo-premium/you-are-using-premium.webp" >}}
+  {{< ls-card title="" subtitle="Scherm U Gebruikt Premium" image="/docs/faq/evervideo/what-is-the-difference-between-evervideo-and-evervideo-premium/you-are-using-premium.webp" >}}
 {{< /cards >}}
 
 ## Premium gratis uitproberen
@@ -45,7 +45,7 @@ Zodra u uw app hebt geüpgraded, ziet u het Premium-statusscherm met details van
 Daarnaast is er een tijdelijke mogelijkheid om '**Premium gratis uit te proberen**'. U kunt toegang krijgen tot deze functie via het menu 'Premium gratis uitproberen'. Door gewoon een advertentie te bekijken of het woord over de app te verspreiden naar uw vrienden, kunt u de premiumversie gratis ontgrendelen gedurende deze promotieperiode. Dit geeft u de kans om de premiumfuncties te ervaren zonder financiële verplichtingen.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Scherm Premium Gratis Uitproberen" image="/docs/faq/evervideo/what-is-the-difference-between-evervideo-and-evervideo-premium/premium-for-free.webp" >}}
+  {{< ls-card title="" subtitle="Scherm Premium Gratis Uitproberen" image="/docs/faq/evervideo/what-is-the-difference-between-evervideo-and-evervideo-premium/premium-for-free.webp" >}}
 {{< /cards >}}
 
 ## Evervideo Free
@@ -62,7 +62,7 @@ Daarnaast is er een tijdelijke mogelijkheid om '**Premium gratis uit te proberen
 - Geen aanpassings- of personalisatieopties.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Scherm Cloudopslag Upgraden" image="/docs/faq/evervideo/what-is-the-difference-between-evervideo-and-evervideo-premium/upgrade-cloud-storage.webp" >}}
+  {{< ls-card title="" subtitle="Scherm Cloudopslag Upgraden" image="/docs/faq/evervideo/what-is-the-difference-between-evervideo-and-evervideo-premium/upgrade-cloud-storage.webp" >}}
 {{< /cards >}}
 
 ## Evervideo Premium
@@ -106,7 +106,7 @@ Als u net begint of alleen basisfuncties voor video afspelen nodig heeft, is **E
 Aan de andere kant ontgrendelt **Evervideo Premium** de volledige ervaring. U geniet van een advertentievrije interface, onbeperkte ondersteuning voor afspeellijsten en wachtrijen, volledige offline functionaliteit, cloudflexibiliteit en geavanceerde export- en personalisatieopties. Het is de beste optie voor gebruikers met grote videobibliotheken, mensen die inhoud van meerdere bronnen bekijken of iedereen die op zoek is naar een professionelere en naadloze mediaspeler.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Scherm U Hebt Premium Gekocht" image="/docs/faq/evervideo/what-is-the-difference-between-evervideo-and-evervideo-premium/you-have-purchased-premium.webp" >}}
+  {{< ls-card title="" subtitle="Scherm U Hebt Premium Gekocht" image="/docs/faq/evervideo/what-is-the-difference-between-evervideo-and-evervideo-premium/you-have-purchased-premium.webp" >}}
 {{< /cards >}}
 
 Als u op zoek bent naar flexibiliteit, probeer dan het **maandelijkse abonnement**. Voor langetermijnwaarde, kies voor de **jaarlijkse** of **levenslange** upgrade — beide bieden volledige toegang voor een betere prijs.

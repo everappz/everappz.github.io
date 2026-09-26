@@ -7,7 +7,7 @@ tags: ["Evermusic", "Přehrávání bez mezer", "Návod", "Zvuk", "Přehráván�
 readingTime: 4
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 **Ve zkratce:** Otevřete **Nastavení > Zvukový přehrávač > Přehrávání bez mezer** a přepněte přepínač na **ZAPNUTO**. Od té chvíle se skladby přehrávají bez pauzy, lupnutí nebo cvaknutí mezi sebou. Evermusic předem vyrovná do vyrovnávací paměti a dekóduje následující skladbu, zatímco ta aktuální ještě hraje, a poté předá řízení mezi zvukovými vzorky na souvislé vyrovnávací paměti, takže přechod je skutečně plynulý. Jde o skutečné přehrávání bez mezer přesné na úrovni vzorku, nikoli o prolínání.
 
@@ -73,30 +73,30 @@ Výsledkem je, že živé album, beatově navázaný DJ set nebo koncepční nah
 
 ## Časté dotazy
 
-{{% details title="Jak zapnu přehrávání bez mezer v Evermusic?" closed="true" %}}
+{{% ls-details title="Jak zapnu přehrávání bez mezer v Evermusic?" closed="true" %}}
 Otevřete Evermusic, přejděte do Nastavení > Zvukový přehrávač > Přehrávání bez mezer a přepněte přepínač na ZAPNUTO. Ve výchozím nastavení je vypnuté. Jakmile je zapnuté, použije se na vše, co přehrajete, a zůstane zapnuté, dokud ho nevypnete.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Je přehrávání bez mezer v Evermusic skutečné, nebo jen prolínání?" closed="true" %}}
+{{% ls-details title="Je přehrávání bez mezer v Evermusic skutečné, nebo jen prolínání?" closed="true" %}}
 Jde o skutečné přehrávání bez mezer přesné na úrovni vzorku. Evermusic dekóduje a předem vyrovná do paměti následující skladbu, zatímco aktuální hraje, a poté předá řízení mezi zvukovými vzorky na souvislé vyrovnávací paměti, takže se nevkládá žádné ticho, lupnutí ani výplň a nevzniká mezera z restartu dekodéru. Prolínání je samostatná, odlišná funkce, která skladby překrývá a mísí; přehrávání bez mezer zachová zvuk přesně tak, jak byl masterován, a jen odstraní mezeru.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Proč mezi některými skladbami stále slyším mezeru?" closed="true" %}}
+{{% ls-details title="Proč mezi některými skladbami stále slyším mezeru?" closed="true" %}}
 Ujistěte se, že je přehrávání bez mezer ZAPNUTO v Nastavení > Zvukový přehrávač > Přehrávání bez mezer. Pokud mezera zůstává, může být zapečená v samotné nahrávce (některé soubory obsahují několik sekund skutečného ticha na začátku nebo konci skladby). Přehrávání bez mezer odstraňuje mezeru, kterou by přehrávač mezi skladby běžně přidal; nedokáže odstranit ticho, které je součástí zvukového souboru.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Funguje přehrávání bez mezer s FLAC a dalšími bezztrátovými soubory?" closed="true" %}}
+{{% ls-details title="Funguje přehrávání bez mezer s FLAC a dalšími bezztrátovými soubory?" closed="true" %}}
 Ano. Přehrávání bez mezer funguje s FLAC, Apple Lossless (ALAC) a ztrátovými formáty jako MP3 a AAC, ať už jsou soubory uložené lokálně, v cloudu nebo na mediálním serveru.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Můžu používat přehrávání bez mezer a prolínání současně?" closed="true" %}}
+{{% ls-details title="Můžu používat přehrávání bez mezer a prolínání současně?" closed="true" %}}
 Ne. Dělají opačné věci, takže zapnutí přehrávání bez mezer automaticky vypne prolínání. Použijte přehrávání bez mezer pro živá alba, DJ mixy a koncepční nahrávky, kde má být zvuk zachován přesně; použijte prolínání, pokud chcete, aby se skladby prolínaly jedna do druhé.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Funguje přehrávání bez mezer při streamování z cloudu?" closed="true" %}}
+{{% ls-details title="Funguje přehrávání bez mezer při streamování z cloudu?" closed="true" %}}
 Ano. Evermusic začne s vyrovnáváním do paměti a dekódováním následující skladby s předstihem, včetně cloudových disků a mediálních serverů, takže přechod zůstává plynulý. Na pomalejších připojeních jednoduše začne připravovat následující skladbu o něco dříve.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Snižuje přehrávání bez mezer kvalitu zvuku?" closed="true" %}}
+{{% ls-details title="Snižuje přehrávání bez mezer kvalitu zvuku?" closed="true" %}}
 Ne. Přehrávání bez mezer váš zvuk znovu nekóduje ani nezpracovává. Mění pouze to, jak jsou skladby plánovány a vyrovnávány do paměti, aby mezi nimi nebyla mezera. Každý vzorek se přehraje přesně tak, jak je v souboru.
-{{% /details %}}
+{{% /ls-details %}}

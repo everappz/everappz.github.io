@@ -12,7 +12,7 @@ authors:
     image: "/images/about/artem-meleshko-founder-everappz.webp"
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 **요약:** [Evertag 4.2](/products/evertag)는 iPhone, iPad, Mac용 오디오 태그 편집기에 대한 큰 업데이트입니다. 핵심 태그 편집 버그를 잡고 6개 이상의 새 클라우드 및 서버 연결 — **Internxt**, **Proton Drive**, **QNAP**, **Nextcloud**, **Amazon S3**, 그리고 **FTP**, **SFTP**, **NFS** 프로토콜 — 을 추가했습니다. Wi-Fi Drive는 새로워진 UI, 다중 선택 모드, 더 똑똑해진 업로드 큐, 더 빠른 전송을 갖췄습니다. 앱 전체가 **Liquid Glass** 디자인에 맞춰 다듬어졌습니다. 이 글은 또한 Evertag의 태그 편집기 설정을 깊이 다룹니다 — **ID3v2.4 vs ID3v2.3**, **앨범 커버 스케일링**, **태그 중복**, **클라우드 업로드 모드**, **다운로드 파일 삭제**, 그리고 **Spotify**, **Apple Music**, **Plex**, **Jellyfin** 또는 어떤 스트리밍 서비스용 오디오를 준비할 때 정확히 어떤 옵션을 골라야 하는지를 설명합니다.
 
@@ -229,50 +229,50 @@ App Store 리뷰와 support@everappz.com으로 받은 직접적인 피드백을 
 
 ## 자주 묻는 질문
 
-{{% details title="Evertag 4.2의 새로운 점은?" closed="true" %}}
+{{% ls-details title="Evertag 4.2의 새로운 점은?" closed="true" %}}
 Evertag 4.2는 6개 이상의 새로운 클라우드 및 서버 연결(Internxt, Proton Drive, QNAP, Nextcloud, Amazon S3, FTP, SFTP, NFS), 다중 선택과 더 똑똑해진 업로드 큐를 갖춘 새로워진 Wi-Fi Drive, Liquid Glass UI 업데이트, 업데이트된 연결 라이브러리, 핵심 태그 편집 버그 수정, 번역 개선을 도입합니다.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Evertag에서 ID3v2.4와 ID3v2.3 중 무엇을 사용해야 하나요?" closed="true" %}}
+{{% ls-details title="Evertag에서 ID3v2.4와 ID3v2.3 중 무엇을 사용해야 하나요?" closed="true" %}}
 Evermusic, Plex, Jellyfin, Apple Music, foobar2000, VLC, 현대적인 Android 앱과 같은 **현대적인 플레이어**와 비라틴 문자를 포함하는 라이브러리에는 **ID3v2.4**를 사용하세요 — UTF-8 지원으로 중국어, 한국어, 일본어, 러시아어, 아랍어, 히브리어 태그가 더 깨끗해집니다. 일부 앱에서 태그가 잘못 표시되거나, 더 오래된 차량용 스테레오를 대상으로 하거나, 스트리밍 유통사 파이프라인이 v2.4를 거부하는 경우 **ID3v2.3**을 사용하세요. 언제든지 전환하고 다시 저장할 수 있습니다.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="편집 후 Spotify에서 태그가 잘못 나오는 이유는?" closed="true" %}}
+{{% ls-details title="편집 후 Spotify에서 태그가 잘못 나오는 이유는?" closed="true" %}}
 Spotify는 주로 자체 카탈로그의 메타데이터를 표시합니다 — 로컬 태그는 「Local Files」 또는 아티스트로 업로드한 콘텐츠에만 사용됩니다. Spotify Local Files용 파일을 태깅했는데 올바르게 표시되지 않는다면 Evertag에서 ID3v2.4를 비활성화하고 ID3v2.3으로 저장해 보세요 — Spotify의 파서는 역사적으로 v2.4에 대해 보수적이었습니다.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Evertag에서 어떤 앨범 커버 크기를 선택해야 하나요?" closed="true" %}}
+{{% ls-details title="Evertag에서 어떤 앨범 커버 크기를 선택해야 하나요?" closed="true" %}}
 대부분의 사용자에게: **대**. 폰, iPad, Mac, 현대적인 차량용 디스플레이에서 멋지게 보이며 파일 크기를 너무 부풀리지 않습니다. 라이브러리가 거대하고 디스크를 절약하고 싶다면 **중**을 사용하세요. 아카이브 마스터나 정말로 최대 품질이 필요한 경우에만 **원본**(스케일링 없음)을 사용하세요 — 다만 일부 더 오래된 플레이어가 매우 큰 임베디드 아트워크에 어려움을 겪는다는 점을 유의하세요. **원본**은 Evertag의 프리미엄 개인화 업그레이드의 일부입니다.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="더 큰 앨범 커버는 파일을 더 크게 만드나요?" closed="true" %}}
+{{% ls-details title="더 큰 앨범 커버는 파일을 더 크게 만드나요?" closed="true" %}}
 네. 3,000 × 3,000픽셀의 아트워크를 임베드하면 단일 오디오 파일에 수 메가바이트가 추가될 수 있습니다. 1,000곡 라이브러리에서는 기가바이트가 됩니다. 저장 공간이 빠듯하면 중 또는 대를 사용하세요. 크기가 중요하지 않은 NAS에서 스트리밍한다면 특대 또는 원본도 괜찮습니다.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="태그 중복이란 무엇이고 활성화해야 하나요?" closed="true" %}}
+{{% ls-details title="태그 중복이란 무엇이고 활성화해야 하나요?" closed="true" %}}
 태그 중복은 핵심 메타데이터를 파일의 ID3v1(레거시 128바이트)과 ID3v2(현대) 섹션 모두에 작성합니다. 매우 오래된 플레이어나 ID3v1을 읽는 하드웨어를 대상으로 하는 경우에만 활성화하세요. 현대적인 모든 것(스마트폰, 컴퓨터, 최근 차량용 스테레오)에는 비활성화로 두세요.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Evertag는 클라우드 파일에서 직접 태그를 편집하나요?" closed="true" %}}
+{{% ls-details title="Evertag는 클라우드 파일에서 직접 태그를 편집하나요?" closed="true" %}}
 네. 클라우드(Google Drive, Dropbox, OneDrive, iCloud Drive, Internxt, Proton Drive, QNAP, Nextcloud, Amazon S3 등) 또는 FTP/SFTP/NFS를 통해 연결한 다음, 파일을 열고 마치 로컬인 것처럼 태그를 편집하세요. Evertag가 파일을 다운로드하고, 편집을 적용하고, 업데이트된 버전을 다시 업로드합니다. 설정에서 「항상 묻기」, 「자동 업로드」, 「업로드 안 함」 모드 중에서 선택할 수 있습니다.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="iPhone에서 Evertag로 FLAC 태그를 편집할 수 있나요?" closed="true" %}}
+{{% ls-details title="iPhone에서 Evertag로 FLAC 태그를 편집할 수 있나요?" closed="true" %}}
 네. Evertag는 임베디드 아트워크를 포함한 태그의 완전한 읽기/쓰기 지원으로 FLAC, MP3, M4A/MP4, AIFF, WAV, OGG, APE 및 기타 주요 형식을 지원합니다.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="SFTP를 사용하여 홈 서버에서 태그를 안전하게 편집하려면?" closed="true" %}}
+{{% ls-details title="SFTP를 사용하여 홈 서버에서 태그를 안전하게 편집하려면?" closed="true" %}}
 Evertag를 열고, 연결하기 탭으로 이동해 SFTP를 선택한 다음, 서버의 호스트 이름이나 IP, 포트(보통 22), 사용자 이름, 그리고 비밀번호 또는 SSH 개인 키를 입력하세요. Evertag가 원격 폴더를 탐색하고 SSH 위에서 엔드 투 엔드 암호화로 태그를 직접 편집합니다.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="여러 파일의 태그를 한 번에 편집할 수 있나요?" closed="true" %}}
+{{% ls-details title="여러 파일의 태그를 한 번에 편집할 수 있나요?" closed="true" %}}
 네. 설정에서 **파일 동시 편집**을 활성화하세요. 여러 파일을 선택하고 태그 편집기를 열면, 변경하는 모든 필드가 선택된 모든 파일에 적용됩니다. 전체 앨범에 동일한 album artist, 연도, 장르를 설정하는 가장 빠른 방법입니다.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Evertag 4.2 업데이트는 무료인가요?" closed="true" %}}
+{{% ls-details title="Evertag 4.2 업데이트는 무료인가요?" closed="true" %}}
 네. Evertag는 App Store에서 무료로 다운로드할 수 있고, 4.2는 모든 기존 사용자를 위한 무료 업데이트입니다. 새로운 클라우드 통합, Wi-Fi Drive 개선, Liquid Glass UI는 기본 업데이트에 포함되어 있습니다.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Evertag 4.2는 어떤 기기에서 사용할 수 있나요?" closed="true" %}}
+{{% ls-details title="Evertag 4.2는 어떤 기기에서 사용할 수 있나요?" closed="true" %}}
 Evertag 4.2는 iPhone, iPad, Mac에서 작동합니다. iCloud Drive 동기화는 기기 간에 태그 편집기 설정을 일관되게 유지합니다.
-{{% /details %}}
+{{% /ls-details %}}

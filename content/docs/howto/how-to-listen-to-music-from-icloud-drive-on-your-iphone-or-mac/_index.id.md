@@ -7,7 +7,7 @@ tags: ["musik", "cloud", "streaming", "pemutar", "drive", "icloud"]
 readingTime: 5
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **Ringkasan:** Unggah musik ke iCloud Drive, instal [Evermusic](/products/evermusic) (untuk MP3/WAV) atau [Flacbox](/products/flacbox) (untuk FLAC/DSD), hubungkan folder iCloud Drive Anda, dan streaming langsung tanpa menggunakan penyimpanan perangkat.
@@ -29,8 +29,8 @@ Sebelum Anda dapat mulai menikmati musik iCloud Drive di iPhone atau Mac, Anda p
 1. Buka App Store dan unduh **Evermusic** jika musik Anda disimpan dalam format audio standar seperti mp3 atau wav. Jika Anda memiliki musik lossless dalam format dsd atau flac, pilih **Flacbox**. Kedua aplikasi tersedia untuk iOS dan MacOS.
 
 {{< cards >}}
-  {{< card link="https://apps.apple.com/us/app/evermusic-cloud-music-player/id885367198" title="Unduh Evermusic untuk iOS" icon="download" tag="Gratis" >}}
-  {{< card link="https://apps.apple.com/us/app/flacbox-flac-player-equalizer/id1097564256" title="Unduh Flacbox untuk iOS" icon="download" tag="Gratis" >}}
+  {{< ls-card link="https://apps.apple.com/us/app/evermusic-cloud-music-player/id885367198" title="Unduh Evermusic untuk iOS" icon="download" tag="Gratis" >}}
+  {{< ls-card link="https://apps.apple.com/us/app/flacbox-flac-player-equalizer/id1097564256" title="Unduh Flacbox untuk iOS" icon="download" tag="Gratis" >}}
 {{< /cards >}}
 
 - Untuk MacOS:
@@ -38,8 +38,8 @@ Sebelum Anda dapat mulai menikmati musik iCloud Drive di iPhone atau Mac, Anda p
 1. Kunjungi App Store di Mac Anda dan instal **Evermusic** atau **Flacbox** berdasarkan preferensi format musik Anda.
 
 {{< cards >}}
-  {{< card link="https://apps.apple.com/us/app/evermusic-cloud-music-player/id1564384601" title="Unduh Evermusic untuk Mac" icon="download" tag="Gratis" >}}
-  {{< card link="https://apps.apple.com/us/app/flacbox-hires-music-player/id1594027432" title="Unduh Flacbox untuk Mac" icon="download" tag="Gratis" >}}
+  {{< ls-card link="https://apps.apple.com/us/app/evermusic-cloud-music-player/id1564384601" title="Unduh Evermusic untuk Mac" icon="download" tag="Gratis" >}}
+  {{< ls-card link="https://apps.apple.com/us/app/flacbox-hires-music-player/id1594027432" title="Unduh Flacbox untuk Mac" icon="download" tag="Gratis" >}}
 {{< /cards >}}
 
 Setelah Anda menginstal aplikasi di iPhone atau Mac, Anda siap untuk melanjutkan.
@@ -215,22 +215,22 @@ Sekarang, mulailah streaming, dan biarkan musik mengalun!
 
 ## FAQ
 
-{{% details title="Format audio apa yang bisa saya streaming dari iCloud Drive?" closed="true" %}}
+{{% ls-details title="Format audio apa yang bisa saya streaming dari iCloud Drive?" closed="true" %}}
 Evermusic mendukung MP3, WAV, AAC, dan format standar lainnya. Flacbox menambahkan dukungan untuk FLAC, DSD, OGG, dan OPUS. Pilih aplikasi yang sesuai dengan koleksi musik Anda.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Apakah streaming dari iCloud Drive menggunakan penyimpanan perangkat?" closed="true" %}}
+{{% ls-details title="Apakah streaming dari iCloud Drive menggunakan penyimpanan perangkat?" closed="true" %}}
 Tidak. Baik Evermusic maupun Flacbox streaming audio langsung dari iCloud Drive Anda tanpa mengunduh file ke perangkat. Anda dapat secara opsional mengunduh lagu individual untuk mendengarkan offline.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Bisakah saya menggunakan musik iCloud Drive secara offline?" closed="true" %}}
+{{% ls-details title="Bisakah saya menggunakan musik iCloud Drive secara offline?" closed="true" %}}
 Ya. Ketuk menu tiga titik pada lagu apa pun dan pilih opsi unduh. File akan disimpan secara lokal untuk pemutaran offline.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Mengapa musik saya berhenti atau buffering saat pemutaran?" closed="true" %}}
+{{% ls-details title="Mengapa musik saya berhenti atau buffering saat pemutaran?" closed="true" %}}
 Ini biasanya disebabkan oleh koneksi internet yang lambat atau tidak stabil. Aktifkan cache pemutar audio di Pengaturan untuk mengunduh lagu berikutnya terlebih dahulu dan mencegah gangguan.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Apakah streaming musik dari iCloud Drive gratis?" closed="true" %}}
+{{% ls-details title="Apakah streaming musik dari iCloud Drive gratis?" closed="true" %}}
 Baik Evermusic maupun Flacbox gratis untuk diunduh. iCloud Drive menawarkan penyimpanan gratis 5 GB. Anda dapat meningkatkan paket penyimpanan iCloud melalui Apple jika membutuhkan lebih banyak ruang.
-{{% /details %}}
+{{% /ls-details %}}

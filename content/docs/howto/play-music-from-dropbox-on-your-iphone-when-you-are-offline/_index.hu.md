@@ -7,7 +7,7 @@ tags: ["felhő", "streaming", "iphone", "mp3", "tárhely", "dropbox"]
 keywords: ["zene lejátszása Dropbox iPhone", "offline zene Dropbox iOS", "Evermusic Dropbox", "mp3 lejátszó felhő", "Dropbox audió stream", "Evermusic fájlkezelő", "Dropbox iOS audió"]
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **Röviden:** Töltse fel zenéit a Dropboxba, telepítse az ingyenes Evermusic alkalmazást iPhone-jára, csatlakoztassa Dropbox-fiókját, és játssza le vagy töltse le számait offline hallgatáshoz. Az Evermusic támogatja az MP3, FLAC, WAV, AAC és más formátumokat. Tartalmaz egy 10 sávos hangszínszabályzót, lejátszási listákat és fájlkezelést.
@@ -35,7 +35,7 @@ Az Evermusic teljesen ingyenes, és iPhone-ra és iPadre egyaránt elérhető, i
 
 {{< cards cols="1">}}
 
-  {{< card title="Evermusic letöltése" subtitle="Offline zenelejátszó és felhőalapú streamer iPhone-ra és iPadre." icon="download" link="https://itunes.apple.com/us/app/evermusic-offline-music/id885367198?mt=8" >}}
+  {{< ls-card title="Evermusic letöltése" subtitle="Offline zenelejátszó és felhőalapú streamer iPhone-ra és iPadre." icon="download" link="https://itunes.apple.com/us/app/evermusic-offline-music/id885367198?mt=8" >}}
 
 {{< /cards >}}
 
@@ -67,26 +67,26 @@ Az Evermusic egy teljes értékű fájlkezelő is, amely támogatja az alapvető
 
 ## Gyakran ismételt kérdések
 
-{{% details title="Lejátszhatom a Dropbox zenéjét offline az iPhone-omon?" closed="true" %}}
+{{% ls-details title="Lejátszhatom a Dropbox zenéjét offline az iPhone-omon?" closed="true" %}}
 Igen. Használja az Evermusicot a Dropbox csatlakoztatásához, majd töltsön le bármely számot vagy lejátszási listát offline hallgatáshoz. A letöltött fájlok az eszközén tárolódnak és internetkapcsolat nélkül játszhatók le.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Ingyenes az Evermusic?" closed="true" %}}
+{{% ls-details title="Ingyenes az Evermusic?" closed="true" %}}
 Az Evermusic ingyenesen letölthető az alapvető funkciókkal, beleértve a hangszínszabályzót, a felhő streaminget és az offline lejátszást. Az ingyenes verzió legfeljebb 3 felhőkapcsolatot és 10 lejátszási listát támogat. A Premium-ra való frissítés eltávolítja az összes korlátozást.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Milyen audio formátumokat támogat az Evermusic a Dropboxból?" closed="true" %}}
+{{% ls-details title="Milyen audio formátumokat támogat az Evermusic a Dropboxból?" closed="true" %}}
 Az Evermusic MP3, FLAC, WAV, AAC, AIFF, OGG, WMA és sok más formátumot játszik le közvetlenül a Dropboxból.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Csatlakoztathatok több felhőszolgáltatást?" closed="true" %}}
+{{% ls-details title="Csatlakoztathatok több felhőszolgáltatást?" closed="true" %}}
 Igen. Az Evermusic támogatja a Dropboxot, a Google Drive-ot, a OneDrive-ot, a Boxot, a WebDAV-ot, az SMB-t, a MEGA-t és más szolgáltatásokat. Korlátlan számú fiókot csatlakoztathat és mindet egyetlen könyvtárban böngészheti.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Szinkronizálja az Evermusic a lejátszási listákat az eszközök között?" closed="true" %}}
+{{% ls-details title="Szinkronizálja az Evermusic a lejátszási listákat az eszközök között?" closed="true" %}}
 Az Evermusicban létrehozott lejátszási listák helyben tárolódnak az eszközön. Dropbox fájljai az összes eszközön szinkronizálva maradnak magán a Dropboxon keresztül.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Hogyan szabadíthatok fel iPhone tárhelyet a Dropbox zenével?" closed="true" %}}
+{{% ls-details title="Hogyan szabadíthatok fel iPhone tárhelyet a Dropbox zenével?" closed="true" %}}
 Helyezze át zenefájljait a Dropboxba, és streamelje őket az Evermusicon keresztül ahelyett, hogy az iPhone-on tárolná. Csak azokat a számokat töltse le, amelyekre szüksége van offline hallgatáshoz.
-{{% /details %}}
+{{% /ls-details %}}

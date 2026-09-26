@@ -7,7 +7,7 @@ tags: ["Evermusic", "Lydeffekter", "Veiledning", "Reverb", "Delay", "Distortion"
 readingTime: 8
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 **Kort oppsummert:** Evermusic inneholder seks sanntids lydeffekter — **Volumnormalisering, Compressor, Reverb, Crossfeed, Delay og Distortion**. Åpne dem fra spillerens **⋯ (Mer)-meny > Lydeffekter**, eller fra **Innstillinger > Lydspiller > Lydeffekter**. Trykk på en effekt, slå bryteren **PÅ** (øverst til høyre), velg en **forhåndsinnstilling**, og eventuelt åpne **Avansert modus** for å finjustere glidebryterne. Hver effekt fungerer uavhengig og brukes i sanntid på alt du spiller — lokale filer, skystrømmer og internettradio — uten omkoding.
 
@@ -162,38 +162,38 @@ De fungerer også sammen med Evermusics **10-bånds grafiske equalizer** og dens
 
 ## Ofte stilte spørsmål
 
-{{% details title="Hvordan legger jeg til reverb, delay eller andre effekter på musikken min i Evermusic?" closed="true" %}}
+{{% ls-details title="Hvordan legger jeg til reverb, delay eller andre effekter på musikken min i Evermusic?" closed="true" %}}
 Åpne spilleren, trykk på ⋯ (Mer)-knappen, og velg Lydeffekter (eller gå til Innstillinger > Lydspiller > Lydeffekter). Trykk på effekten du vil ha, slå bryteren PÅ øverst til høyre, og velg en forhåndsinnstilling. Åpne Avansert modus for å finjustere glidebryterne. Effekten brukes umiddelbart på det som spilles.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Hvilke lydeffekter har Evermusic?" closed="true" %}}
+{{% ls-details title="Hvilke lydeffekter har Evermusic?" closed="true" %}}
 Seks sanntidseffekter: Volumnormalisering (EBU R128 lydstyrkejevning), Compressor (dynamikk), Reverb (rom og ekkohale), Crossfeed (naturlig hodetelefonavbildning), Delay (ekko) og Distortion (lo-fi grus). Hver er uavhengig og kan brukes alene eller kombinert.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Endrer eller skader effektene lydfilene mine?" closed="true" %}}
+{{% ls-details title="Endrer eller skader effektene lydfilene mine?" closed="true" %}}
 Nei. Alle effekter brukes i sanntid kun under avspilling. De endrer eller omkoder aldri filene dine. Slå av en effekt, og den originale lyden din er tilbake umiddelbart.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Kan jeg bruke mer enn én effekt samtidig?" closed="true" %}}
+{{% ls-details title="Kan jeg bruke mer enn én effekt samtidig?" closed="true" %}}
 Ja. Hver effekt er uavhengig — det finnes ingen hovedbryter — så du kan aktivere hvilken som helst kombinasjon. For eksempel Volumnormalisering pluss Compressor for konsistent, lettlytt lytting, eller Reverb pluss Crossfeed på hodetelefoner.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Hva er Crossfeed og bør jeg bruke den?" closed="true" %}}
+{{% ls-details title="Hva er Crossfeed og bør jeg bruke den?" closed="true" %}}
 Crossfeed blander en liten, filtrert mengde av hver stereokanal inn i den andre slik at hodetelefoner høres mer ut som ekte høyttalere, og reduserer «inne-i-hodet»-følelsen av hardt panorerte mikser. Det er en hodetelefoneffekt (la den være av for høyttalere). Den er bygget på Bauer stereophonic-to-binaural (bs2b)-algoritmen og inkluderer forhåndsinnstillinger som Chu Moy og Jan Meier.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Hva er volumnormalisering og hvordan skiller det seg fra ReplayGain?" closed="true" %}}
+{{% ls-details title="Hva er volumnormalisering og hvordan skiller det seg fra ReplayGain?" closed="true" %}}
 Volumnormalisering holder hvert spor på en konsistent lydstyrke ved å måle opplevd lydstyrke med EBU R128-standarden og jevne mot et mål. I motsetning til ReplayGain trenger den ingen lydstyrke-tagger i filene dine og endrer ikke lyden — den fungerer direkte på alle kilder, inkludert skystrømmer og internettradio. Forhåndsinnstillinger: Lett, Standard, Sterk og Natt.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Hva er forskjellen mellom Enkel og Avansert modus?" closed="true" %}}
+{{% ls-details title="Hva er forskjellen mellom Enkel og Avansert modus?" closed="true" %}}
 Enkel modus viser en liste med forhåndsinnstillinger med enkle beskrivelser, så du kan få en god lyd med ett trykk. Avansert modus legger til parameterglidebryterne (for eksempel Miks for Reverb, eller de sju Compressor-kontrollene) for presis finjustering. Veksle mellom dem med modusknappen øverst til høyre i hver effekteditor.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Hvorfor er effektkontrollene nedtonet?" closed="true" %}}
+{{% ls-details title="Hvorfor er effektkontrollene nedtonet?" closed="true" %}}
 Effekten er slått av. Slå på effektens bryter øverst til høyre i editoren for å aktivere kontrollene. Hver effekt er av som standard.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Fungerer effektene med strømming og CarPlay?" closed="true" %}}
+{{% ls-details title="Fungerer effektene med strømming og CarPlay?" closed="true" %}}
 Ja. Effektene kjører inne i avspillingsmotoren, så de brukes på lokale filer, skystasjoner, medieservere og internettradio, og de fortsetter å fungere under CarPlay-avspilling.
-{{% /details %}}
+{{% /ls-details %}}

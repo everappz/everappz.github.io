@@ -7,7 +7,7 @@ tags: ["evermusic", "Audio", "Editor", "Tags", "Kommentare"]
 readingTime: 4
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **Zusammenfassung:** Evermusic und Flacbox ermöglichen es Ihnen, Textkommentare mit Zeitmarkierungen zu jeder Audiospur hinzuzufügen und diese dann synchron während der Wiedergabe anzuzeigen. Sie können auch eingebettete Liedtexte und LRC-Dateien anzeigen. Die Kommentar- und Liedtextfunktionen sind in beiden Apps kostenlos.
@@ -97,22 +97,22 @@ Das Hinzufügen von Kommentaren zu Audiospuren in Evermusic und Flacbox markiert
 
 ## Häufig gestellte Fragen
 
-{{% details title="Ist die Kommentarfunktion in Evermusic und Flacbox kostenlos?" closed="true" %}}
+{{% ls-details title="Ist die Kommentarfunktion in Evermusic und Flacbox kostenlos?" closed="true" %}}
 Ja. Das Hinzufügen, Bearbeiten und Anzeigen von Kommentaren und Liedtexten ist eine kostenlose Funktion in sowohl Evermusic als auch Flacbox.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Welches Format sollte ich für zeitgesteuerte Kommentare verwenden?" closed="true" %}}
+{{% ls-details title="Welches Format sollte ich für zeitgesteuerte Kommentare verwenden?" closed="true" %}}
 Verwenden Sie das LRC-Zeitmarkierungsformat: `[MM:SS.SS]` gefolgt von Ihrem Text. Zum Beispiel: `[01:23.45]Dies ist mein Kommentar`. Sie können einer einzelnen Zeile mehrere Zeitstempel zuweisen.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Kann ich Liedtexte und LRC-Dateien auf demselben Bildschirm anzeigen?" closed="true" %}}
+{{% ls-details title="Kann ich Liedtexte und LRC-Dateien auf demselben Bildschirm anzeigen?" closed="true" %}}
 Ja. Der Kommentare-Bildschirm unterstützt drei Modi, zwischen denen Sie wischen können: Kommentare, Eingebettete Liedtexte und LRC-Datei.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Wo finde ich LRC-Liedtextdateien?" closed="true" %}}
+{{% ls-details title="Wo finde ich LRC-Liedtextdateien?" closed="true" %}}
 Kostenlose LRC-Liedtexte sind auf Websites wie Lyricsify.com verfügbar. Sie können sie entweder in den Liedtext-Tag Ihrer Audiodatei einbetten oder eine separate `.lrc`-Datei neben Ihrer Audiodatei platzieren.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Brauche ich eine separate App zum Bearbeiten von Liedtext-Tags?" closed="true" %}}
+{{% ls-details title="Brauche ich eine separate App zum Bearbeiten von Liedtext-Tags?" closed="true" %}}
 Sie können Kommentare direkt in Evermusic und Flacbox bearbeiten. Zum speziellen Bearbeiten des Liedtext-Tags verwenden Sie Evertag, einen kostenlosen Audio-Metadaten-Editor für iOS und macOS.
-{{% /details %}}
+{{% /ls-details %}}

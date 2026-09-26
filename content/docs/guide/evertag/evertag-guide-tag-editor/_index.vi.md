@@ -15,7 +15,7 @@ readingTime: 5
 **Trình chỉnh sửa thẻ** là màn hình chính của ứng dụng Evertag nơi bạn có thể xem và chỉnh sửa siêu dữ liệu tệp âm thanh. Mở màn hình này bằng cách nhấn vào tệp từ phần **Tệp cục bộ** hoặc từ bất kỳ tài khoản **bộ nhớ đám mây** nào đã kết nối.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evertag Tag Editor Screen" image="/docs/guide/evertag/img/tag-editor.webp" >}}
+  {{< ls-card title="" subtitle="Evertag Tag Editor Screen" image="/docs/guide/evertag/img/tag-editor.webp" >}}
 {{< /cards >}}
 
 ## Chế độ chỉnh sửa
@@ -38,7 +38,7 @@ Theo mặc định, ứng dụng mở trình chỉnh sửa thẻ ở chế độ
 Để truy cập tất cả các thẻ có sẵn, cuộn xuống dưới màn hình và nhấn tùy chọn **Hiển thị thẻ mở rộng**. Điều này sẽ chuyển trình chỉnh sửa sang chế độ mở rộng, cho phép bạn chỉnh sửa hơn **120 trường siêu dữ liệu**, bao gồm **Thẻ MusicBrainz**, **Lời bài hát**, **Xếp hạng nội dung**, giá trị replay-gain, thứ tự sắp xếp, siêu dữ liệu podcast và nhiều hơn nữa. Sử dụng **Cài đặt → Trình chỉnh sửa thẻ âm thanh → Nút trên màn hình chính** để bật vĩnh viễn Hiển thị thẻ mở rộng.
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Bottom Actions Panel" image="/docs/guide/evertag/img/tag-editor-bottom-actions.webp" >}}
+{{< ls-card title="" subtitle="Bottom Actions Panel" image="/docs/guide/evertag/img/tag-editor-bottom-actions.webp" >}}
 {{< /cards >}}
 
 ## Chế độ hàng loạt
@@ -53,7 +53,7 @@ Bạn có thể vào chỉnh sửa hàng loạt theo hai cách:
    - Mở bất kỳ tệp nào, cuộn xuống dưới và nhấn **Chỉnh sửa tệp đồng thời** để tải tất cả tệp từ cùng một thư mục.
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Batch Editing Mode" image="/docs/guide/evertag/img/tag-editor-batch-editing.webp" >}}
+{{< ls-card title="" subtitle="Batch Editing Mode" image="/docs/guide/evertag/img/tag-editor-batch-editing.webp" >}}
 {{< /cards >}}
 
 Sau khi chỉnh sửa, nhấn **Lưu** để áp dụng các thay đổi.
@@ -72,19 +72,19 @@ Bạn không cần phải gõ lời bài hát từ đầu. Trình chỉnh sửa 
 Mỗi phím tắt chỉ xuất hiện khi dịch vụ tương ứng có thể truy cập từ thiết bị của bạn. Nhấn vào dịch vụ, sao chép lời bài hát (hoặc dấu thời gian LRC) bạn muốn, quay lại Evertag và dán vào trường văn bản — sau đó nhấn **Lưu** để ghi lời bài hát vào thẻ tệp âm thanh.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Lyrics Pages" image="/docs/guide/evertag/img/tag-editor-lyrics-pages.webp" >}}
+  {{< ls-card title="" subtitle="Lyrics Pages" image="/docs/guide/evertag/img/tag-editor-lyrics-pages.webp" >}}
 {{< /cards >}}
 
 Chọn ngôn ngữ từ bộ chọn:
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Lyrics Language Selector" image="/docs/guide/evertag/img/tag-editor-lyrics-language-select.webp" >}}
+  {{< ls-card title="" subtitle="Lyrics Language Selector" image="/docs/guide/evertag/img/tag-editor-lyrics-language-select.webp" >}}
 {{< /cards >}}
 
 Sau đó dán hoặc gõ văn bản lời bài hát. Evertag hỗ trợ cả văn bản đơn giản và lời bài hát có dấu thời gian (đồng bộ) — trình giữ chỗ hiển thị ví dụ về định dạng LRC-style, là chính xác những gì Lrclib và Lyricsify trả về cho kết quả đồng bộ.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Lyrics Text Editor" image="/docs/guide/evertag/img/tag-editor-lyrics-text.webp" >}}
+  {{< ls-card title="" subtitle="Lyrics Text Editor" image="/docs/guide/evertag/img/tag-editor-lyrics-text.webp" >}}
 {{< /cards >}}
 
 ## Đặt xếp hạng và xếp hạng nội dung
@@ -96,7 +96,7 @@ Trình chỉnh sửa mở rộng cung cấp điều khiển sao **Xếp hạng**
 Sử dụng trường **Xếp hạng** để cho track điểm cá nhân từ một đến năm sao. Giá trị được ghi vào thẻ xếp hạng tiêu chuẩn của tệp (POPM cho ID3, `rate` cho MP4, `RATING` cho Vorbis/APE, v.v.), vì vậy các ứng dụng khác đọc thẻ này — bao gồm ứng dụng Nhạc, Plex, Roon và hầu hết các trình chỉnh sửa thẻ trên máy tính — sẽ nhận được điểm của bạn ngay lập tức.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Rating" image="/docs/guide/evertag/img/tag-editor-rating.webp" >}}
+  {{< ls-card title="" subtitle="Rating" image="/docs/guide/evertag/img/tag-editor-rating.webp" >}}
 {{< /cards >}}
 
 ### Xếp hạng nội dung
@@ -117,7 +117,7 @@ Bạn sẽ muốn đặt hoặc sửa trường này khi:
 Giá trị được lưu trữ trong trường xếp hạng nội dung tiêu chuẩn cho định dạng tệp (`rtng` cho MP4, `TXXX:ITUNESADVISORY` cho ID3, `ITUNESADVISORY` cho Vorbis), vì vậy bất kỳ trình phát nào đọc siêu dữ liệu kiểm soát của phụ huynh sẽ thấy bản cập nhật của bạn.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Lyrics Advisory Rating" image="/docs/guide/evertag/img/lyrics-advisory-rating.webp" >}}
+  {{< ls-card title="" subtitle="Lyrics Advisory Rating" image="/docs/guide/evertag/img/lyrics-advisory-rating.webp" >}}
 {{< /cards >}}
 
 ## Chỉnh sửa ảnh bìa album
@@ -129,7 +129,7 @@ Giá trị được lưu trữ trong trường xếp hạng nội dung tiêu chu
 3. Chọn hình ảnh để áp dụng làm ảnh bìa.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Select Image" image="/docs/guide/evertag/img/select-image.webp" >}}
+  {{< ls-card title="" subtitle="Select Image" image="/docs/guide/evertag/img/select-image.webp" >}}
 {{< /cards >}}
 
 ## Thêm hành động trong Trình chỉnh sửa thẻ
@@ -137,7 +137,7 @@ Giá trị được lưu trữ trong trường xếp hạng nội dung tiêu chu
 Các tùy chọn chỉnh sửa bổ sung có sẵn qua thanh công cụ bên dưới khung nhìn ảnh bìa.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="More Actions Menu" image="/docs/guide/evertag/img/tag-editor-more-actions.webp" >}}
+  {{< ls-card title="" subtitle="More Actions Menu" image="/docs/guide/evertag/img/tag-editor-more-actions.webp" >}}
 {{< /cards >}}
 
 ### Tự động tìm thẻ âm thanh
@@ -150,13 +150,13 @@ Hành động này kích hoạt công cụ tìm kiếm thẻ thông minh, tìm v
 Sử dụng siêu dữ liệu để tìm kiếm ảnh bìa album đúng trên web.  
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Search Album Cover" image="/docs/guide/evertag/img/search-album-cover.webp" >}}
+  {{< ls-card title="" subtitle="Search Album Cover" image="/docs/guide/evertag/img/search-album-cover.webp" >}}
 {{< /cards >}}
 
 Sau khi tìm thấy, lưu hình ảnh vào **Ảnh** của bạn bằng menu ngữ cảnh hệ thống.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Add Image to Photos" image="/docs/guide/evertag/img/add-image-to-photos.webp" >}}
+  {{< ls-card title="" subtitle="Add Image to Photos" image="/docs/guide/evertag/img/add-image-to-photos.webp" >}}
 {{< /cards >}}
 
 Sau đó, quay lại trình chỉnh sửa thẻ, nhấn biểu tượng Camera, đi đến **Thư viện Ảnh** và chọn hình ảnh đã lưu. Ứng dụng sẽ đặt nó làm ảnh bìa cho tệp âm thanh của bạn.
@@ -178,19 +178,19 @@ Tìm kiếm siêu dữ liệu album theo cách thủ công bằng cơ sở dữ 
 - Chọn album  
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Select Album" image="/docs/guide/evertag/img/select-album-results.webp" >}}
+  {{< ls-card title="" subtitle="Select Album" image="/docs/guide/evertag/img/select-album-results.webp" >}}
 {{< /cards >}}
 
 - Chọn bài hát đúng  
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Select Song" image="/docs/guide/evertag/img/select-a-song.webp" >}}
+  {{< ls-card title="" subtitle="Select Song" image="/docs/guide/evertag/img/select-a-song.webp" >}}
 {{< /cards >}}
 
 - Chọn những thẻ nào để áp dụng  
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Select Audio Tags" image="/docs/guide/evertag/img/select-audio-tags.webp" >}}
+  {{< ls-card title="" subtitle="Select Audio Tags" image="/docs/guide/evertag/img/select-audio-tags.webp" >}}
 {{< /cards >}}
 
 Nhấn **Hoàn tất** để áp dụng siêu dữ liệu đã chọn cho track của bạn.

@@ -12,7 +12,7 @@ authors:
     image: "/images/about/artem-meleshko-founder-everappz.webp"
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 **重點:** [Evermusic 8.6](/products/evermusic) 是針對 iPhone、iPad 與 Mac 的重大更新。我們從零開始重建了 CarPlay,帶來快速排序、多種色彩配置、重新設計的「正在播放」畫面、完整的播放佇列檢視,以及按字母快速捲動索引。本次更新新增了超過 10 項連線方式 — **Plex**、**Jellyfin**、**Emby**、**Subsonic**、**Navidrome**、**Internxt**、**Proton Drive**、**QNAP**、**Nextcloud**、**Amazon S3**,以及 **FTP**、**SFTP** 與 **NFS** 網路協定。全新的 **主畫面同步歌詞小工具** 會在播放音樂時,根據時間軸即時顯示歌詞。Wi-Fi Drive 擁有全新介面、選擇模式與更快的上傳佇列。整個應用程式皆已套用 **Liquid Glass** 設計;從 **百度網盤** 與 **阿里雲盤** 等中國伺服器串流的可靠性也有所提升。
 
@@ -161,54 +161,54 @@ Evermusic 8.6 圍繞三個想法打造:
 
 ## 常見問題
 
-{{% details title="Evermusic 8.6 有什麼新功能?" closed="true" %}}
+{{% ls-details title="Evermusic 8.6 有什麼新功能?" closed="true" %}}
 Evermusic 8.6 帶來完全重新設計的 CarPlay 體驗、超過 10 項全新連線(Plex、Jellyfin、Emby、Subsonic、Navidrome、Internxt、Proton Drive、QNAP、Nextcloud、Amazon S3、FTP、SFTP、NFS)、全新主畫面同步歌詞小工具、附選擇模式的 Wi-Fi Drive 介面改進、Liquid Glass 設計更新、針對百度網盤與阿里雲盤的更佳穩定性,以及多項錯誤修正。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Evermusic 支援 Plex 嗎?" closed="true" %}}
+{{% ls-details title="Evermusic 支援 Plex 嗎?" closed="true" %}}
 是的。從 Evermusic 8.6 開始,你可以連線至 Plex Media Server,並串流整個音樂資料庫。Plex Media Server 可免費執行;Plex Pass 為可選。Evermusic 同時支援免費與 Plex Pass 設定。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Evermusic 支援 Jellyfin 與 Navidrome 嗎?" closed="true" %}}
+{{% ls-details title="Evermusic 支援 Jellyfin 與 Navidrome 嗎?" closed="true" %}}
 是的。Jellyfin 與 Navidrome 都在 Evermusic 8.6 中獲得完整支援。Jellyfin 是免費、開源的媒體伺服器;Navidrome 是實作 Subsonic API 的免費、開源音樂伺服器。Evermusic 以原生方式連線兩者。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Plex、Jellyfin、Emby、Navidrome 與 Subsonic 是免費的嗎?" closed="true" %}}
+{{% ls-details title="Plex、Jellyfin、Emby、Navidrome 與 Subsonic 是免費的嗎?" closed="true" %}}
 - **Plex** — 伺服器免費;Plex Pass 為可選的付費升級。
 - **Jellyfin** — 完全免費且開源。
 - **Emby** — 伺服器免費;Emby Premiere 為付費,可解鎖行動同步與離線同步。
 - **Navidrome** — 完全免費且開源。
 - **Subsonic** — 官方伺服器在 30 天試用後每月 1 美元,但其 API 為開放,許多免費伺服器(包含 Navidrome)都實作了它。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="可以透過 SFTP、FTP 或 NFS 從家用 NAS 串流嗎?" closed="true" %}}
+{{% ls-details title="可以透過 SFTP、FTP 或 NFS 從家用 NAS 串流嗎?" closed="true" %}}
 可以。Evermusic 8.6 將 SFTP、FTP 與 NFS 加入為原生連線型別。SFTP 是從自己的伺服器透過開放網際網路串流的建議選擇,因為所有流量都會透過 SSH 加密。FTP 與 NFS 較適合在區域網路或 VPN 內使用。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="如何使用 SFTP 將 Evermusic 連線至自訂伺服器?" closed="true" %}}
+{{% ls-details title="如何使用 SFTP 將 Evermusic 連線至自訂伺服器?" closed="true" %}}
 開啟 Evermusic,前往連線分頁,選擇 SFTP,然後輸入伺服器的主機名稱或 IP、連接埠(通常為 22)、使用者名稱,以及密碼或 SSH 私密金鑰。Evermusic 會瀏覽你的遠端資料夾,並以端對端加密直接串流音訊檔。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Evermusic 支援 Internxt 與 Proton Drive 嗎?" closed="true" %}}
+{{% ls-details title="Evermusic 支援 Internxt 與 Proton Drive 嗎?" closed="true" %}}
 支援。兩款重視隱私的雲端皆從 Evermusic 8.6 起獲得支援。它們與 App 中已有的 Mega 等重視隱私的服務並列。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Evermusic 中的 Wi-Fi Drive 是什麼?" closed="true" %}}
+{{% ls-details title="Evermusic 中的 Wi-Fi Drive 是什麼?" closed="true" %}}
 Wi-Fi Drive 是 Evermusic 內建的無線檔案傳輸功能。它可讓你透過區域 Wi-Fi 網路把音樂從電腦上傳到 iPhone 或 iPad,無需 iTunes、傳輸線或雲端帳號。你可以使用任何桌面瀏覽器,或像 Mac Finder、Windows File Explorer 這樣的 WebDAV 用戶端。請參考 [完整 Wi-Fi Drive 指南](/docs/howto/how-to-transfer-files-wirelessly-from-a-computer-to-an-iphone-using-wifi-drive/)。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="新歌詞小工具的運作方式是什麼?" closed="true" %}}
+{{% ls-details title="新歌詞小工具的運作方式是什麼?" closed="true" %}}
 歌詞小工具會在 iPhone、iPad 或 Mac 主畫面顯示目前播放曲目的時間同步歌詞。顯示的行會隨著歌曲自動推進。長按主畫面,點選「編輯 > 加入小工具」,搜尋 Evermusic,然後選擇歌詞小工具,即可加入。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Evermusic 8.6 修復了百度網盤與阿里雲盤的播放問題嗎?" closed="true" %}}
+{{% ls-details title="Evermusic 8.6 修復了百度網盤與阿里雲盤的播放問題嗎?" closed="true" %}}
 是的。我們對百度網盤與阿里雲盤進行了顯著的穩定性改進,包含更快的目錄列示、針對較弱連線更聰明的重試,以及在長時間播放時更佳的續傳行為。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Evermusic 8.6 是免費更新嗎?" closed="true" %}}
+{{% ls-details title="Evermusic 8.6 是免費更新嗎?" closed="true" %}}
 是的。Evermusic 在 App Store 為免費下載,8.6 也是針對所有現有使用者的免費更新。新的 CarPlay、歌詞小工具與所有全新的伺服器整合都包含在基礎更新內。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Evermusic 8.6 在哪些裝置上可用?" closed="true" %}}
+{{% ls-details title="Evermusic 8.6 在哪些裝置上可用?" closed="true" %}}
 Evermusic 8.6 可在 iPhone、iPad 與 Mac 上執行。CarPlay 支援需要相容 CarPlay 的車輛或售後主機。
-{{% /details %}}
+{{% /ls-details %}}

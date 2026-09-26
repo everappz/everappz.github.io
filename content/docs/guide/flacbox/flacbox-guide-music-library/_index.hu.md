@@ -19,7 +19,7 @@ readingTime: 11
 A zenetár kezelése egyszerű a Flacboxban, ahol könnyedén rendszerezheti az összes számát — helyi FLAC, ALAC, DSD, MP3, M4A, OGG, WMA, APE és tucatnyi más formátum — egyetlen, kereshető gyűjteménybe. Két lehetőség áll rendelkezésére a zenetár felépítéséhez: manuális hozzáadás (pontosan kiválasztja, mit adjon hozzá) vagy automatikus szinkronizálás (a Flacbox megvizsgálja a kijelölt felhőmappákat és automatikusan hozzáadja az új fájlokat, amint megjelennek).
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox Zenetár Albumok nézet" image="/docs/guide/flacbox/img/media-library-albums.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox Zenetár Albumok nézet" image="/docs/guide/flacbox/img/media-library-albums.webp" >}}
 {{< /cards >}}
 
 ## Manuális hozzáadás
@@ -27,7 +27,7 @@ A zenetár kezelése egyszerű a Flacboxban, ahol könnyedén rendszerezheti az 
 A számok manuális hozzáadásához koppintson a bal felső sarokban lévő **Zene hozzáadása** ikonra, és válasszon mappákat vagy fájlokat egy csatlakoztatott felhőtárhely-szolgáltatásból vagy az eszközén lévő fájlokból. Amikor számokat ad hozzá a könyvtárhoz, csak hivatkozások jönnek létre azokra a számokra — a tényleges fájlok az eredeti helyükön maradnak az értékes lemezterület megőrzése érdekében.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox Dalok hozzáadása a zenetárhoz" image="/docs/guide/flacbox/img/library-add-songs.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox Dalok hozzáadása a zenetárhoz" image="/docs/guide/flacbox/img/library-add-songs.webp" >}}
 {{< /cards >}}
 
 A Mac verzióban fájlokat is húzhat és ejthet a könyvtárba, vagy az iPhone-on és iPaden a **Fájlok megnyitása…** / **Mappa megnyitása…** lehetőséget használhatja a rendszer fájlválasztójából.
@@ -89,7 +89,7 @@ A navigációs sáv alatt elhelyezett felső eszköztár számos kényelmes műv
 A keresési funkció lehetővé teszi egy adott szám, előadó, album vagy műfaj megtalálását a zenetárban. A keresés az offline zenetár-adatbázison fut, tehát teljesen offline működik és gépelés közben megjeleníti az eredményeket.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox Zenetár keresés" image="/docs/guide/flacbox/img/media-library-search.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox Zenetár keresés" image="/docs/guide/flacbox/img/media-library-search.webp" >}}
 {{< /cards >}}
 
 ## Beállítások menü
@@ -136,7 +136,7 @@ Az Előadó, Album előadó vagy Szerző szakasz megnyitásakor egy Dalok / Öss
 - **Szóló albumok** — megjeleníti azokat az albumokat, ahol csak a megadott előadó számai jelennek meg.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox Album részletek képernyő" image="/docs/guide/flacbox/img/media-library-album-details-screen.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox Album részletek képernyő" image="/docs/guide/flacbox/img/media-library-album-details-screen.webp" >}}
 {{< /cards >}}
 
 ## Beállítások

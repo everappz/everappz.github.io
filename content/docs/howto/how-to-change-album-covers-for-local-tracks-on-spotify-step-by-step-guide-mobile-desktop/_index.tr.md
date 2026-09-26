@@ -7,7 +7,7 @@ tags: ["spotify", "albüm kapağı", "mp3", "meta veri", "müzik düzenleyici", 
 readingTime: 3
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **Özet:** Spotify, akış parçaları için albüm kapaklarını değiştirmenize izin vermez, ancak yerel dosyalar için kapakları güncelleyebilirsiniz. Spotify'ın Yerel Dosyalar özelliğini etkinleştirin, müziğinizi Spotify klasörüne kopyalayın, ardından albüm kapaklarını ve meta verileri düzenlemek için ücretsiz Evertag uygulamasını kullanın. Değişiklikler Spotify yeniden başlatıldıktan sonra görünür.
@@ -25,8 +25,8 @@ Bu adım adım kılavuzda, **mobil (iOS)** ve **masaüstü (Mac)** uygulamaları
 App Store'dan **Evertag** uygulamasını indirerek başlayın. Ücretsizdir ve **iOS** ile **macOS**'ta kullanılabilir.
 
 {{< cards cols="2">}}
-{{< card link="https://apps.apple.com/app/apple-store/id1450763230?pt=95781850&ct=everappzcom&mt=8" title="Evertag iOS için" icon="download" tag="Free" >}}
-{{< card link="https://apps.apple.com/app/apple-store/id1594027661?pt=95781850&ct=everappzcom&mt=8" title="Evertag macOS için" icon="download" tag="Free" >}}
+{{< ls-card link="https://apps.apple.com/app/apple-store/id1450763230?pt=95781850&ct=everappzcom&mt=8" title="Evertag iOS için" icon="download" tag="Free" >}}
+{{< ls-card link="https://apps.apple.com/app/apple-store/id1594027661?pt=95781850&ct=everappzcom&mt=8" title="Evertag macOS için" icon="download" tag="Free" >}}
 {{< /cards >}}
 
 ## Spotify'da Yerel Kütüphaneyi Etkinleştirin
@@ -35,37 +35,37 @@ Varsayılan olarak, Spotify uygulamasında **Yerel Dosyalar Kütüphanesi** devr
 
 ### Spotify Uygulamasını Açın
 {{< cards cols="1">}}
-{{< card title="" subtitle="Spotify uygulaması ana arayüzü" image="/docs/howto/how-to-change-album-covers-for-local-tracks-on-spotify-step-by-step-guide-mobile-desktop/spotify-main.webp" >}}
+{{< ls-card title="" subtitle="Spotify uygulaması ana arayüzü" image="/docs/howto/how-to-change-album-covers-for-local-tracks-on-spotify-step-by-step-guide-mobile-desktop/spotify-main.webp" >}}
 {{< /cards >}}
 
 ### Profil Simgenize Dokunun
 Spotify ana ekranının sol üst köşesine bakın ve menüyü açmak için profil resminize dokunun.
 {{< cards cols="1">}}
-{{< card title="" subtitle="Spotify avatarı ve seçenekler" image="/docs/howto/how-to-change-album-covers-for-local-tracks-on-spotify-step-by-step-guide-mobile-desktop/spotify-avatar-options.webp" >}}
+{{< ls-card title="" subtitle="Spotify avatarı ve seçenekler" image="/docs/howto/how-to-change-album-covers-for-local-tracks-on-spotify-step-by-step-guide-mobile-desktop/spotify-avatar-options.webp" >}}
 {{< /cards >}}
 
 ### «Ayarlar ve Gizlilik» Seçin
 Menüde aşağı kaydırın ve seçeneklerin tam listesini açmak için **Ayarlar ve Gizlilik**'i seçin.
 {{< cards cols="1">}}
-{{< card title="" subtitle="Spotify ayarlar menüsü" image="/docs/howto/how-to-change-album-covers-for-local-tracks-on-spotify-step-by-step-guide-mobile-desktop/spotify-settings.webp" >}}
+{{< ls-card title="" subtitle="Spotify ayarlar menüsü" image="/docs/howto/how-to-change-album-covers-for-local-tracks-on-spotify-step-by-step-guide-mobile-desktop/spotify-settings.webp" >}}
 {{< /cards >}}
 
 ### «Uygulamalar ve Cihazlar» Seçin
 **Uygulamalar ve Cihazlar** menü öğesini bulun ve dokunun.
 {{< cards cols="1">}}
-{{< card title="" subtitle="Spotify uygulamaları ve cihazları" image="/docs/howto/how-to-change-album-covers-for-local-tracks-on-spotify-step-by-step-guide-mobile-desktop/spotify-apps-and-devices.webp" >}}
+{{< ls-card title="" subtitle="Spotify uygulamaları ve cihazları" image="/docs/howto/how-to-change-album-covers-for-local-tracks-on-spotify-step-by-step-guide-mobile-desktop/spotify-apps-and-devices.webp" >}}
 {{< /cards >}}
 
 ### «Yerel Ses Dosyaları» Açın
 **Yerel Ses Dosyaları** anahtarını açın. İstendiğinde Spotify'a müzik dosyalarınıza erişim izni verin.
 {{< cards cols="1">}}
-{{< card title="" subtitle="Spotify'a müzik dosyalarına erişim izni verin" image="/docs/howto/how-to-change-album-covers-for-local-tracks-on-spotify-step-by-step-guide-mobile-desktop/spotify-access-to-music.webp" >}}
+{{< ls-card title="" subtitle="Spotify'a müzik dosyalarına erişim izni verin" image="/docs/howto/how-to-change-album-covers-for-local-tracks-on-spotify-step-by-step-guide-mobile-desktop/spotify-access-to-music.webp" >}}
 {{< /cards >}}
 
 ### Spotify Klasörünü Kontrol Edin
 İzin verildikten sonra **Dosyalar** uygulamasını açın, **Konumlar > iPhone/iPad'imde** gidin ve **Spotify** klasörünü bulun. Yerel müzik dosyaları buraya yerleştirilmelidir.
 {{< cards cols="1">}}
-{{< card title="" subtitle="Spotify müzik dosyaları" image="/docs/howto/how-to-change-album-covers-for-local-tracks-on-spotify-step-by-step-guide-mobile-desktop/files-app-spotify-folder.webp" >}}
+{{< ls-card title="" subtitle="Spotify müzik dosyaları" image="/docs/howto/how-to-change-album-covers-for-local-tracks-on-spotify-step-by-step-guide-mobile-desktop/files-app-spotify-folder.webp" >}}
 {{< /cards >}}
 
 ## Müzik Dosyalarını Spotify'ın Yerel Kütüphane Klasörüne Koyun
@@ -78,31 +78,31 @@ Aşağıda **Dosyalar uygulaması** yöntemiyle talimatlar verilmiştir.
 
 ### Dosyalar Uygulamasını Açın – Konumlar – Bu Cihazda
 {{< cards cols="1">}}
-{{< card title="" subtitle="Spotify klasörü" image="/docs/howto/how-to-change-album-covers-for-local-tracks-on-spotify-step-by-step-guide-mobile-desktop/files-app-spotify-folder.webp" >}}
+{{< ls-card title="" subtitle="Spotify klasörü" image="/docs/howto/how-to-change-album-covers-for-local-tracks-on-spotify-step-by-step-guide-mobile-desktop/files-app-spotify-folder.webp" >}}
 {{< /cards >}}
 
 ### Müzik Klasörünü Kopyalayın
 **Müzik** klasörünüze gidin. Bağlam menüsünü açmak için basılı tutun, ardından **Kopyala**'yı seçin.
 {{< cards cols="1">}}
-{{< card title="" subtitle="Dosyalar uygulamasında klasör seçeneklerine erişin" image="/docs/howto/how-to-change-album-covers-for-local-tracks-on-spotify-step-by-step-guide-mobile-desktop/files-app-folder-options.webp" >}}
+{{< ls-card title="" subtitle="Dosyalar uygulamasında klasör seçeneklerine erişin" image="/docs/howto/how-to-change-album-covers-for-local-tracks-on-spotify-step-by-step-guide-mobile-desktop/files-app-folder-options.webp" >}}
 {{< /cards >}}
 
 ### Müzik Klasörünü Yapıştırın
 **Spotify** klasörüne gidin, boş bir alana basılı tutun ve bağlam menüsünden **Yapıştır**'ı seçin.
 {{< cards cols="1">}}
-{{< card title="" subtitle="Klasörü hedef konuma yapıştırın" image="/docs/howto/how-to-change-album-covers-for-local-tracks-on-spotify-step-by-step-guide-mobile-desktop/files-app-paste-folder.webp" >}}
+{{< ls-card title="" subtitle="Klasörü hedef konuma yapıştırın" image="/docs/howto/how-to-change-album-covers-for-local-tracks-on-spotify-step-by-step-guide-mobile-desktop/files-app-paste-folder.webp" >}}
 {{< /cards >}}
 
 ### Kopyalama İşlemini Bekleyin
 Sistem müzik klasörünüzü Spotify'ın yerel dizinine kopyalamayı bitirene kadar bekleyin.
 {{< cards cols="1">}}
-{{< card title="" subtitle="Dosyalar uygulamasıyla müzik dosyalarını kopyalama" image="/docs/howto/how-to-change-album-covers-for-local-tracks-on-spotify-step-by-step-guide-mobile-desktop/files-app-copying-music.webp" >}}
+{{< ls-card title="" subtitle="Dosyalar uygulamasıyla müzik dosyalarını kopyalama" image="/docs/howto/how-to-change-album-covers-for-local-tracks-on-spotify-step-by-step-guide-mobile-desktop/files-app-copying-music.webp" >}}
 {{< /cards >}}
 
 ### Spotify Yerel Kütüphanesini Açın
 Şimdi Spotify uygulamasına geri dönün. **Kütüphaneniz > Yerel Dosyalar**'a dokunun ve az önce kopyaladığınız müzik dosyalarını göreceksiniz.
 {{< cards cols="1">}}
-{{< card title="" subtitle="Spotify yerel müzik kütüphanesini gösteriyor" image="/docs/howto/how-to-change-album-covers-for-local-tracks-on-spotify-step-by-step-guide-mobile-desktop/spotify-local-music-library.webp" >}}
+{{< ls-card title="" subtitle="Spotify yerel müzik kütüphanesini gösteriyor" image="/docs/howto/how-to-change-album-covers-for-local-tracks-on-spotify-step-by-step-guide-mobile-desktop/spotify-local-music-library.webp" >}}
 {{< /cards >}}
 
 ## Evertag Uygulamasında Spotify Klasörünü Bağlayın
@@ -125,29 +125,29 @@ Dosyaları içe aktarmadan doğrudan klasörlerden meta verileri düzenleyebilir
 #### macOS / iPadOS
 - Kenar çubuğunda **Bu Cihazdaki Dosyalar**'a kaydırın
 {{< cards cols="1">}}
-{{< card title="" subtitle="Evertag'da tüm cihaz klasörlerini görüntüleyin" image="/docs/howto/how-to-change-album-covers-for-local-tracks-on-spotify-step-by-step-guide-mobile-desktop/evertag-all-device-folders.webp" >}}
+{{< ls-card title="" subtitle="Evertag'da tüm cihaz klasörlerini görüntüleyin" image="/docs/howto/how-to-change-album-covers-for-local-tracks-on-spotify-step-by-step-guide-mobile-desktop/evertag-all-device-folders.webp" >}}
 {{< /cards >}}
 
 - **Tüm Cihaz Klasörleri**'ne dokunun
 - **Klasör Bağla**'ya dokunun
 {{< cards cols="1">}}
-{{< card title="" subtitle="Dosya seçici ile klasör bağlayın" image="/docs/howto/how-to-change-album-covers-for-local-tracks-on-spotify-step-by-step-guide-mobile-desktop/evertag-connect-folder-files-picker.webp" >}}
+{{< ls-card title="" subtitle="Dosya seçici ile klasör bağlayın" image="/docs/howto/how-to-change-album-covers-for-local-tracks-on-spotify-step-by-step-guide-mobile-desktop/evertag-connect-folder-files-picker.webp" >}}
 {{< /cards >}}
 
 - **Spotify** klasörünü seçin ve onaylamak için **Aç**'a dokunun
 {{< cards cols="1">}}
-{{< card title="" subtitle="Spotify yerel dosyalarıyla klasör bağlayın" image="/docs/howto/how-to-change-album-covers-for-local-tracks-on-spotify-step-by-step-guide-mobile-desktop/evertag-connect-folder-spotify-local.webp" >}}
+{{< ls-card title="" subtitle="Spotify yerel dosyalarıyla klasör bağlayın" image="/docs/howto/how-to-change-album-covers-for-local-tracks-on-spotify-step-by-step-guide-mobile-desktop/evertag-connect-folder-spotify-local.webp" >}}
 {{< /cards >}}
 
 - İçeriğini görüntülemek ve düzenlemek için bağlı klasöre dokunun
 {{< cards cols="1">}}
-{{< card title="" subtitle="Evertag'da klasör başarıyla bağlandı" image="/docs/howto/how-to-change-album-covers-for-local-tracks-on-spotify-step-by-step-guide-mobile-desktop/evertag-connected-folder.webp" >}}
+{{< ls-card title="" subtitle="Evertag'da klasör başarıyla bağlandı" image="/docs/howto/how-to-change-album-covers-for-local-tracks-on-spotify-step-by-step-guide-mobile-desktop/evertag-connected-folder.webp" >}}
 {{< /cards >}}
 
 ## Etiket Düzenleyici
 **Etiket Düzenleyici**, ses dosyalarınızın meta verilerini görüntülediğiniz ve değiştirdiğiniz ana çalışma alanıdır.
 {{< cards cols="1">}}
-{{< card title="" subtitle="Bağlı klasör içeriğine göz atın" image="/docs/howto/how-to-change-album-covers-for-local-tracks-on-spotify-step-by-step-guide-mobile-desktop/evertag-connected-folder-content.webp" >}}
+{{< ls-card title="" subtitle="Bağlı klasör içeriğine göz atın" image="/docs/howto/how-to-change-album-covers-for-local-tracks-on-spotify-step-by-step-guide-mobile-desktop/evertag-connected-folder-content.webp" >}}
 {{< /cards >}}
 
 ## Düzenleme Modları
@@ -187,28 +187,28 @@ Albüm kapağını değiştirmek veya yeni eklemek için:
 
 1. Kapak karuselindeki **Kamera simgesine** dokunun
 {{< cards cols="1">}}
-{{< card title="" subtitle="Özel albüm kapağı fotoğrafı seçin" image="/docs/howto/how-to-change-album-covers-for-local-tracks-on-spotify-step-by-step-guide-mobile-desktop/evertag-choose-photo.webp" >}}
+{{< ls-card title="" subtitle="Özel albüm kapağı fotoğrafı seçin" image="/docs/howto/how-to-change-album-covers-for-local-tracks-on-spotify-step-by-step-guide-mobile-desktop/evertag-choose-photo.webp" >}}
 {{< /cards >}}
 
 2. Bir görüntü kaynağı seçin (Fotoğraf Kütüphanesi, Yerel Dosyalar, Bulut)
 {{< cards cols="1">}}
-{{< card title="" subtitle="Kapak seçmek için fotoğraf kütüphanesine erişin" image="/docs/howto/how-to-change-album-covers-for-local-tracks-on-spotify-step-by-step-guide-mobile-desktop/evertag-photo-library.webp" >}}
+{{< ls-card title="" subtitle="Kapak seçmek için fotoğraf kütüphanesine erişin" image="/docs/howto/how-to-change-album-covers-for-local-tracks-on-spotify-step-by-step-guide-mobile-desktop/evertag-photo-library.webp" >}}
 {{< /cards >}}
 
 3. Kapak olarak kullanılacak görüntüyü seçin
 {{< cards cols="1">}}
-{{< card title="" subtitle="Düzenlenmiş albüm kapağı önizlemesi" image="/docs/howto/how-to-change-album-covers-for-local-tracks-on-spotify-step-by-step-guide-mobile-desktop/evertag-edited-album-cover.webp" >}}
+{{< ls-card title="" subtitle="Düzenlenmiş albüm kapağı önizlemesi" image="/docs/howto/how-to-change-album-covers-for-local-tracks-on-spotify-step-by-step-guide-mobile-desktop/evertag-edited-album-cover.webp" >}}
 {{< /cards >}}
 
 4. Değişiklikleri uygulamak için **Kaydet**'e dokunun
 {{< cards cols="1">}}
-{{< card title="" subtitle="Güncellenmiş ses etiketlerini kaydedin" image="/docs/howto/how-to-change-album-covers-for-local-tracks-on-spotify-step-by-step-guide-mobile-desktop/evertag-save-tags.webp" >}}
+{{< ls-card title="" subtitle="Güncellenmiş ses etiketlerini kaydedin" image="/docs/howto/how-to-change-album-covers-for-local-tracks-on-spotify-step-by-step-guide-mobile-desktop/evertag-save-tags.webp" >}}
 {{< /cards >}}
 
 ## Spotify Kütüphanesini Güncelleyin
 Etiketlerinizi kaydettikten sonra Spotify uygulamasına geri dönün.
 {{< cards cols="1">}}
-{{< card title="" subtitle="Spotify müzik kütüphanesine göz atın" image="/docs/howto/how-to-change-album-covers-for-local-tracks-on-spotify-step-by-step-guide-mobile-desktop/spotify-library.webp" >}}
+{{< ls-card title="" subtitle="Spotify müzik kütüphanesine göz atın" image="/docs/howto/how-to-change-album-covers-for-local-tracks-on-spotify-step-by-step-guide-mobile-desktop/spotify-library.webp" >}}
 {{< /cards >}}
 
 **Yerel Dosyalar** bölümünü tekrar açın. Artık yerel parçalarınız için güncellenmiş kapakları ve etiketleri görmelisiniz.
@@ -216,7 +216,7 @@ Etiketlerinizi kaydettikten sonra Spotify uygulamasına geri dönün.
 > Güncellemeler hemen görünmezse, **Spotify'ı zorla kapatın** ve yeniden açın. Bu, meta veri yenilemesini tetikler.
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Düzenlenmiş etiketle çalan parça" image="/docs/howto/how-to-change-album-covers-for-local-tracks-on-spotify-step-by-step-guide-mobile-desktop/spotify-playing-edited-tag.webp" >}}
+{{< ls-card title="" subtitle="Düzenlenmiş etiketle çalan parça" image="/docs/howto/how-to-change-album-covers-for-local-tracks-on-spotify-step-by-step-guide-mobile-desktop/spotify-playing-edited-tag.webp" >}}
 {{< /cards >}}
 
 ## Sonuç
@@ -229,26 +229,26 @@ FLAC, MP3 veya diğer yüksek kaliteli biçimleri etiketleme konusunda yardıma 
 
 ## Sıkça Sorulan Sorular
 
-{{% details title="Spotify akış parçaları için albüm kapaklarını değiştirebilir miyim?" closed="true" %}}
+{{% ls-details title="Spotify akış parçaları için albüm kapaklarını değiştirebilir miyim?" closed="true" %}}
 Hayır. Spotify, akış kataloğundaki parçalar için kapak değiştirmeye izin vermez. Yalnızca Spotify kütüphanenize eklenen yerel dosyalar için albüm kapaklarını düzenleyebilirsiniz.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Evertag ücretsiz mi?" closed="true" %}}
+{{% ls-details title="Evertag ücretsiz mi?" closed="true" %}}
 Evet. Evertag, iOS ve macOS'ta ücretsiz olarak indirilebilir ve kullanılabilir. 120'den fazla ses etiketini ve 30'dan fazla dosya biçimini destekler.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Evertag hangi ses biçimlerini destekler?" closed="true" %}}
+{{% ls-details title="Evertag hangi ses biçimlerini destekler?" closed="true" %}}
 Evertag; MP3, FLAC, AAC, ALAC, WAV, AIFF, OGG, WMA ve daha fazlası dahil 30'dan fazla biçimi destekler.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Spotify neden güncellenmiş albüm kapağımı göstermiyor?" closed="true" %}}
+{{% ls-details title="Spotify neden güncellenmiş albüm kapağımı göstermiyor?" closed="true" %}}
 Spotify uygulamasını zorla kapatın ve yeniden açın. Spotify meta verileri önbelleğe alır ve yerel dosyalardaki değişiklikleri algılamak için yeniden başlatma gerektirir.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Birden fazla dosya için etiketleri aynı anda düzenleyebilir miyim?" closed="true" %}}
+{{% ls-details title="Birden fazla dosya için etiketleri aynı anda düzenleyebilir miyim?" closed="true" %}}
 Evet. Evertag toplu düzenlemeyi destekler. Birden fazla dosya seçin ve seçilen tüm parçaların etiketlerini ve kapaklarını aynı anda güncellemek için «Birden fazla dosyayı aynı anda düzenleyin»'e dokunun.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Dosyaları Spotify klasörüne kopyalamam gerekiyor mu?" closed="true" %}}
+{{% ls-details title="Dosyaları Spotify klasörüne kopyalamam gerekiyor mu?" closed="true" %}}
 Evet. Spotify yerel dosyaları yalnızca kendi özel klasöründen okur. Müzik dosyalarınızı cihazınızdaki Spotify klasörüne kopyalayın veya taşıyın, ardından Spotify ayarlarında Yerel Ses Dosyaları anahtarını etkinleştirin.
-{{% /details %}}
+{{% /ls-details %}}

@@ -11,7 +11,7 @@ readingTime: 3
 Evervideo มีทั้งเวอร์ชันฟรีที่มีข้อจำกัดการใช้งานบางอย่างและเวอร์ชันพรีเมียมที่มีฟีเจอร์เพิ่มเติม ซึ่งสามารถปลดล็อกได้ผ่านการซื้อในแอป
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="หน้าจออัปเกรดแผนเริ่มต้น" image="/docs/faq/evervideo/what-is-the-difference-between-evervideo-and-evervideo-premium/upgrade-default.webp" >}}
+  {{< ls-card title="" subtitle="หน้าจออัปเกรดแผนเริ่มต้น" image="/docs/faq/evervideo/what-is-the-difference-between-evervideo-and-evervideo-premium/upgrade-default.webp" >}}
 {{< /cards >}}
 
 ## เลือกแผนพรีเมียมของคุณ
@@ -19,7 +19,7 @@ Evervideo มีทั้งเวอร์ชันฟรีที่มีข�
 เวอร์ชันฟรีของแอปพลิเคชันนำเสนอการซื้อตลอดชีพแบบครั้งเดียวและตัวเลือกการสมัครสมาชิกสองแบบ (1 เดือนและ 1 ปี) เพื่อลบข้อจำกัดทั้งหมดและอัปเกรดเป็นเวอร์ชันพรีเมียม ช่วยให้คุณเลือกราคาที่ดีที่สุดและเหมาะสมที่สุดสำหรับคุณ ราคาอาจแตกต่างกันไปขึ้นอยู่กับประเทศหรือดินแดนของคุณ โปรดทราบว่า **Family Sharing** เปิดใช้งานสำหรับการซื้อและแผนทั้งหมด ดังนั้นคุณสามารถแชร์เวอร์ชันพรีเมียมกับสมาชิกในครอบครัวได้
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="หน้าจอเลือกแผน Evervideo" image="/docs/faq/evervideo/what-is-the-difference-between-evervideo-and-evervideo-premium/plan-select.webp" >}}
+  {{< ls-card title="" subtitle="หน้าจอเลือกแผน Evervideo" image="/docs/faq/evervideo/what-is-the-difference-between-evervideo-and-evervideo-premium/plan-select.webp" >}}
 {{< /cards >}}
 
 ## การแชร์การซื้อระหว่าง iOS และ Mac
@@ -31,13 +31,13 @@ Evervideo มีทั้งเวอร์ชันฟรีที่มีข�
 ในการกู้คืนการซื้อบนอุปกรณ์ใหม่ เพียงใช้เมนู "กู้คืนการซื้อ" คุณจะเห็นรายการการซื้อของคุณ หากคุณไม่เห็นการซื้อทั้งหมด โปรดตรวจสอบว่าอุปกรณ์เชื่อมต่อกับบัญชี iTunes เดียวกันที่ใช้ซื้อ และตรวจสอบให้แน่ใจว่า iCloud เปิดใช้งาน
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="หน้าจอกู้คืนการซื้อ" image="/docs/faq/evervideo/what-is-the-difference-between-evervideo-and-evervideo-premium/purchase-restored.webp" >}}
+  {{< ls-card title="" subtitle="หน้าจอกู้คืนการซื้อ" image="/docs/faq/evervideo/what-is-the-difference-between-evervideo-and-evervideo-premium/purchase-restored.webp" >}}
 {{< /cards >}}
 
 เมื่อคุณอัปเกรดแอป คุณจะเห็นหน้าจอสถานะพรีเมียมพร้อมรายละเอียดการซื้อปัจจุบันของคุณ
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="หน้าจอ: คุณกำลังใช้พรีเมียม" image="/docs/faq/evervideo/what-is-the-difference-between-evervideo-and-evervideo-premium/you-are-using-premium.webp" >}}
+  {{< ls-card title="" subtitle="หน้าจอ: คุณกำลังใช้พรีเมียม" image="/docs/faq/evervideo/what-is-the-difference-between-evervideo-and-evervideo-premium/you-are-using-premium.webp" >}}
 {{< /cards >}}
 
 ## ลองพรีเมียมฟรี
@@ -45,7 +45,7 @@ Evervideo มีทั้งเวอร์ชันฟรีที่มีข�
 นอกจากนี้ ยังมีโอกาสช่วงเวลาจำกัด "**ลองพรีเมียมฟรี**" คุณสามารถเข้าถึงฟีเจอร์นี้ผ่านเมนู "ลองพรีเมียมฟรี" เพียงแค่ดูโฆษณาหรือบอกเพื่อนเกี่ยวกับแอป คุณสามารถปลดล็อกเวอร์ชันพรีเมียมได้ฟรีในช่วงโปรโมชันนี้ สิ่งนี้ให้โอกาสคุณได้สัมผัสฟีเจอร์พรีเมียมโดยไม่มีข้อผูกมัดทางการเงิน
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="หน้าจอ: ลองพรีเมียมฟรี" image="/docs/faq/evervideo/what-is-the-difference-between-evervideo-and-evervideo-premium/premium-for-free.webp" >}}
+  {{< ls-card title="" subtitle="หน้าจอ: ลองพรีเมียมฟรี" image="/docs/faq/evervideo/what-is-the-difference-between-evervideo-and-evervideo-premium/premium-for-free.webp" >}}
 {{< /cards >}}
 
 ## Evervideo ฟรี
@@ -62,7 +62,7 @@ Evervideo มีทั้งเวอร์ชันฟรีที่มีข�
 - ไม่มีตัวเลือกการปรับแต่งหรือการปรับแต่งส่วนบุคคล
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="หน้าจออัปเกรดที่เก็บข้อมูลบนคลาวด์" image="/docs/faq/evervideo/what-is-the-difference-between-evervideo-and-evervideo-premium/upgrade-cloud-storage.webp" >}}
+  {{< ls-card title="" subtitle="หน้าจออัปเกรดที่เก็บข้อมูลบนคลาวด์" image="/docs/faq/evervideo/what-is-the-difference-between-evervideo-and-evervideo-premium/upgrade-cloud-storage.webp" >}}
 {{< /cards >}}
 
 ## Evervideo Premium
@@ -106,7 +106,7 @@ Evervideo มีทั้งเวอร์ชันฟรีที่มีข�
 ในทางกลับกัน **Evervideo Premium** ปลดล็อกประสบการณ์เต็มรูปแบบ คุณจะเพลิดเพลินกับอินเตอร์เฟสไม่มีโฆษณา การรองรับเพลย์ลิสต์และคิวไม่จำกัด ฟังก์ชันออฟไลน์เต็มรูปแบบ ความยืดหยุ่นของคลาวด์ และตัวเลือกการส่งออกและการปรับแต่งส่วนบุคคลขั้นสูง เป็นตัวเลือกที่ดีที่สุดสำหรับผู้ใช้ที่มีคลังวิดีโอขนาดใหญ่ ผู้ที่ดูเนื้อหาจากหลายแหล่ง หรือผู้ที่มองหาเครื่องเล่นสื่อที่เป็นมืออาชีพและราบรื่นกว่า
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="หน้าจอ: คุณซื้อพรีเมียมแล้ว" image="/docs/faq/evervideo/what-is-the-difference-between-evervideo-and-evervideo-premium/you-have-purchased-premium.webp" >}}
+  {{< ls-card title="" subtitle="หน้าจอ: คุณซื้อพรีเมียมแล้ว" image="/docs/faq/evervideo/what-is-the-difference-between-evervideo-and-evervideo-premium/you-have-purchased-premium.webp" >}}
 {{< /cards >}}
 
 หากคุณกำลังมองหาความยืดหยุ่น ลอง**แผนรายเดือน** สำหรับคุณค่าระยะยาว เลือก**รายปี**หรือ**ตลอดชีพ** — ทั้งสองให้การเข้าถึงเต็มรูปแบบในราคาที่ดีกว่า

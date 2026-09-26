@@ -7,7 +7,7 @@ keywords: ["server DLNA iPhone", "server UPnP iPad", "cum configurez DLNA pe iPh
 readingTime: 9
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 DLNA (numit și UPnP AV) este forța discretă din spatele majorității televizoarelor smart. Este un limbaj comun care permite unui televizor sau player media să găsească o bibliotecă media aflată în aceeași rețea Wi-Fi și să redea din ea, fără nimic de instalat pe televizor. Dacă iPhone-ul sau iPad-ul tău poate fi acea bibliotecă, fotografiile, videoclipurile și muzica ta apar singure pe ecranul mare.
 
@@ -127,44 +127,44 @@ DLNA predă fișierul televizorului așa cum este, iar televizorul trebuie să f
 
 ## Întrebări frecvente
 
-{{% details title="Care este diferența dintre DLNA și UPnP?" closed="true" %}}
+{{% ls-details title="Care este diferența dintre DLNA și UPnP?" closed="true" %}}
 Sunt strâns înrudite. UPnP este standardul de rețea de bază, iar DLNA este profilul media construit peste el pe care televizoarele și playerele îl folosesc pentru a partaja și reda fotografii, videoclipuri și muzică. În uzul zilnic cuvintele sunt interschimbabile. Când activezi TV și centru media în Everdisk, dispozitivul tău devine un server media DLNA/UPnP pe care orice client DLNA îl poate răsfoi.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Trebuie să instalez ceva pe televizorul meu?" closed="true" %}}
+{{% ls-details title="Trebuie să instalez ceva pe televizorul meu?" closed="true" %}}
 Nu. Dacă televizorul tău acceptă DLNA, are deja un player media care îți poate găsi dispozitivul în rețeaua Wi-Fi. Instalezi Everdisk doar pe iPhone-ul sau iPad-ul care conține conținutul. Dacă televizorul tău nu acceptă DLNA, instalează un player precum VLC sau Kodi pe un dispozitiv conectat la el.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="De ce nu apare iPhone-ul meu pe televizor?" closed="true" %}}
+{{% ls-details title="De ce nu apare iPhone-ul meu pe televizor?" closed="true" %}}
 Verifică dacă ambele dispozitive sunt în aceeași rețea Wi-Fi. Rețelele de invitați și unele rețele de birou sau de hotel blochează dispozitivele să se vadă între ele, ceea ce oprește DLNA. Apoi confirmă că Everdisk este deschis cu partajarea pornită și că TV și centru media este activat în Setări, Partajare, Conexiuni. Dacă televizorul tot nu îl găsește, adaugă serverul manual folosind adresa de descriere a dispozitivului care se termină în /device-desc.xml.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Streamingul DLNA are nevoie de o parolă?" closed="true" %}}
+{{% ls-details title="Streamingul DLNA are nevoie de o parolă?" closed="true" %}}
 Nu. DLNA este mereu deschis oricui se află în aceeași rețea Wi-Fi cât timp este activat, motiv pentru care nu există autentificare pe partea televizorului. Este în regulă într-o rețea de acasă în care ai încredere. Într-o rețea în care nu ai încredere, dezactivează TV și centru media când ai terminat sau folosește în schimb serverul SMB cu criptare.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Pot transmite pe un Chromecast sau Roku?" closed="true" %}}
+{{% ls-details title="Pot transmite pe un Chromecast sau Roku?" closed="true" %}}
 Chromecast și Roku nu funcționează ca playere DLNA din start, așa că nu îți vor găsi dispozitivul direct. Soluția este să instalezi o aplicație DLNA care poate face cast, precum VLC sau BubbleUPnP pe un telefon, și să trimiți redarea către Chromecast sau Roku de acolo. Pe majoritatea celorlalte televizoare smart, DLNA funcționează fără nimic din toate acestea.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Un videoclip se redă fără sunet sau nu se deschide. Ce pot face?" closed="true" %}}
+{{% ls-details title="Un videoclip se redă fără sunet sau nu se deschide. Ce pot face?" closed="true" %}}
 Este un format pe care televizorul nu îl poate decoda. Deschide Setări, Partajare, Videoclipuri în Everdisk și scade Calitate, astfel încât aplicația să convertească videoclipul într-un format mai compatibil pe măsură ce îl transmite. Poți deschide și același fișier prin link-ul de browser, care gestionează mai multe formate.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Pot transmite muzică, nu doar video?" closed="true" %}}
+{{% ls-details title="Pot transmite muzică, nu doar video?" closed="true" %}}
 Da. Activează Permite accesul la toată biblioteca muzicală sau adaugă piese specifice, apoi începe partajarea. Piesele tale apar pe orice difuzor DLNA, receiver AV sau televizor, cu grafică și detalii despre piesă. Muzica este întotdeauna partajată în calitatea sa originală.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Aplicația trebuie să rămână deschisă în timp ce mă uit?" closed="true" %}}
+{{% ls-details title="Aplicația trebuie să rămână deschisă în timp ce mă uit?" closed="true" %}}
 Da. iPhone-ul tău funcționează ca server, iar iOS pune pe pauză aplicațiile trimise complet în fundal pentru mult timp. Ține Everdisk pe ecran în timp ce transmiți și conectează-l la sursa de alimentare pentru sesiuni lungi.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Cum transmit de pe un iPhone pe alt iPad?" closed="true" %}}
+{{% ls-details title="Cum transmit de pe un iPhone pe alt iPad?" closed="true" %}}
 Începe partajarea pe iPhone, apoi deschide Everdisk pe iPad și mergi la fila Dispozitive. iPhone-ul apare sub Dispozitive disponibile ca server media. Apasă-l pentru a răsfoi și a reda. Everdisk funcționează atât ca client DLNA, cât și ca server, așa că nu ai nevoie de altă aplicație.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Everdisk este gratuit?" closed="true" %}}
+{{% ls-details title="Everdisk este gratuit?" closed="true" %}}
 Da, Everdisk se descarcă gratuit, iar serverul media DLNA este inclus. O achiziție opțională unică Premium Lifetime adaugă suplimente precum conversia fotografiilor și videoclipurilor pentru televizoare mai vechi, porturi personalizate și altele. Poți configura și folosi streamingul DLNA fără să plătești.
-{{% /details %}}
+{{% /ls-details %}}
 
 Gata să încerci? [Descarcă Everdisk din App Store](https://apps.apple.com/app/apple-store/id6751851132?pt=95781850&ct=everappzcom&mt=8) și transmite primul tău album pe televizor în câteva minute. Întrebări sau feedback? Scrie-ne la **support@everappz.com**.

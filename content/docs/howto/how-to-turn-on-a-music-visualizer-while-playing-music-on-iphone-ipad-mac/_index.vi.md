@@ -7,12 +7,12 @@ tags: ["Evermusic", "Flacbox", "Trực quan hóa", "Hướng dẫn", "Milkdrop",
 readingTime: 9
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 **Câu trả lời ngắn gọn:** Cả [Evermusic](/products/evermusic) và [Flacbox](/products/flacbox) đều có một **trình trực quan hóa nhạc** toàn màn hình vẽ các hình ảnh chuyển động, đầy màu sắc theo nhịp nhạc của bạn. Mở nó từ trình phát **Now Playing** (**⋯ Thêm > Trực quan hóa**) hoặc từ **Cài đặt > Trực quan hóa**, rồi chọn một cài đặt sẵn hoặc **Auto** và chạm **Bắt đầu trực quan hóa**. Trên màn hình trình trực quan hóa, chạm một lần để hiện hoặc ẩn các điều khiển và dùng các mũi tên **Trước** và **Tiếp** để đổi giao diện. Nó dùng công cụ **Milkdrop (projectM)** nổi tiếng với **500 cài đặt sẵn**, kết xuất bằng **OpenGL**, và hoạt động trên **iPhone, iPad và Mac**. Các bước giống nhau trong cả hai ứng dụng. Các bước đầy đủ ở dưới đây.
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Trình trực quan hóa nhạc: cài đặt sẵn Starfield Sectors" image="/docs/howto/how-to-turn-on-a-music-visualizer-while-playing-music-on-iphone-ipad-mac/music-visualizer-starfield-sectors-preset.webp" imageStyle="border-radius: clamp(14px, 2vw, 28px);" >}}
+{{< ls-card title="" subtitle="Trình trực quan hóa nhạc: cài đặt sẵn Starfield Sectors" image="/docs/howto/how-to-turn-on-a-music-visualizer-while-playing-music-on-iphone-ipad-mac/music-visualizer-starfield-sectors-preset.webp" imageStyle="border-radius: clamp(14px, 2vw, 28px);" >}}
 {{< /cards >}}
 
 ## Trình trực quan hóa là gì?
@@ -85,50 +85,50 @@ Dù cách nào, các hình ảnh phản ứng với chính âm thanh bạn đang
 
 ## Câu hỏi thường gặp
 
-{{% details title="Làm thế nào để bật trình trực quan hóa trong Evermusic hoặc Flacbox?" closed="true" %}}
+{{% ls-details title="Làm thế nào để bật trình trực quan hóa trong Evermusic hoặc Flacbox?" closed="true" %}}
 Mở trình phát Now Playing, chạm nút ⋯ (Thêm), và chọn Trực quan hóa. Bạn cũng có thể mở nó từ Cài đặt > Trực quan hóa. Rồi chọn một cài đặt sẵn (hoặc Auto) và chạm Bắt đầu trực quan hóa. Các bước giống nhau trong cả hai ứng dụng.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Trình trực quan hóa dựa trên cái gì?" closed="true" %}}
+{{% ls-details title="Trình trực quan hóa dựa trên cái gì?" closed="true" %}}
 Nó dùng công cụ mã nguồn mở projectM, chơi các cài đặt sẵn kiểu Milkdrop. Đây là các hình ảnh động, phản ứng với nhạc mà nhiều người biết từ các trình phát nhạc trên máy tính để bàn. Cả Evermusic và Flacbox đều bao gồm 500 cài đặt sẵn và vẽ chúng bằng OpenGL.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Có bao nhiêu cài đặt sẵn trực quan hóa?" closed="true" %}}
+{{% ls-details title="Có bao nhiêu cài đặt sẵn trực quan hóa?" closed="true" %}}
 500 cài đặt sẵn. Mỗi cái là một cảnh động khác nhau, và bạn có thể di chuyển qua chúng bằng các mũi tên Tiếp và Trước, hoặc để chế độ Auto xáo trộn qua chúng cho bạn.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Trình trực quan hóa có phản ứng với nhạc không?" closed="true" %}}
+{{% ls-details title="Trình trực quan hóa có phản ứng với nhạc không?" closed="true" %}}
 Có. Các hình ảnh phản ứng với âm thanh bạn đang phát theo thời gian thực, nên các hình khối, màu sắc và chuyển động thay đổi theo nhịp và năng lượng của bản nhạc. Nó hoạt động với tệp cục bộ, ổ đám mây, máy chủ phương tiện, và radio internet.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Làm thế nào để thay đổi cài đặt sẵn trực quan hóa?" closed="true" %}}
+{{% ls-details title="Làm thế nào để thay đổi cài đặt sẵn trực quan hóa?" closed="true" %}}
 Chạm màn hình một lần để hiện các điều khiển, rồi dùng các mũi tên Trước và Tiếp ở dưới cùng để di chuyển giữa các cài đặt sẵn. Tên và bộ đếm ở trên cùng (ví dụ, 429 / 500) cập nhật khi bạn thay đổi chúng. Bạn cũng có thể khởi động ở chế độ Auto để ứng dụng tự đổi cài đặt sẵn.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Chế độ Auto là gì?" closed="true" %}}
+{{% ls-details title="Chế độ Auto là gì?" closed="true" %}}
 Chế độ Auto, chọn từ bộ chọn cài đặt sẵn, xáo trộn qua các cài đặt sẵn một cách tự động, đổi sang một cái mới mỗi 30 giây với một crossfade mượt mà. Đây là cách dễ nhất để thưởng thức màn trình diễn mà không cần chạm màn hình.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Làm thế nào để ẩn các điều khiển trên màn hình?" closed="true" %}}
+{{% ls-details title="Làm thế nào để ẩn các điều khiển trên màn hình?" closed="true" %}}
 Chạm màn hình một lần để ẩn các điều khiển cho một khung nhìn sạch sẽ, toàn màn hình, và chạm lại để đưa chúng trở lại. Các điều khiển cũng tự ẩn sau vài giây.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Trình trực quan hóa có hoạt động trên Mac không?" closed="true" %}}
+{{% ls-details title="Trình trực quan hóa có hoạt động trên Mac không?" closed="true" %}}
 Có. Trên Mac, cả Evermusic và Flacbox đều mở trình trực quan hóa trong cửa sổ riêng của nó và vẽ nó bằng OpenGL máy tính để bàn gốc, nên bạn có được cùng các hình ảnh Milkdrop phản ứng với nhạc trên một màn hình lớn.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Trình trực quan hóa có hoạt động trên iPhone và iPad không?" closed="true" %}}
+{{% ls-details title="Trình trực quan hóa có hoạt động trên iPhone và iPad không?" closed="true" %}}
 Có. Trên iPhone và iPad nó chạy toàn màn hình, được vẽ bằng OpenGL ES để có hoạt hình mượt mà trên màn hình Retina.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Màn hình của tôi có mờ đi hoặc khóa khi trình trực quan hóa đang chạy không?" closed="true" %}}
+{{% ls-details title="Màn hình của tôi có mờ đi hoặc khóa khi trình trực quan hóa đang chạy không?" closed="true" %}}
 Không. Ứng dụng giữ màn hình luôn sáng khi trình trực quan hóa đang bật, nên màn trình diễn sẽ không bị gián đoạn bởi màn hình mờ đi hoặc khóa.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Ứng dụng có ghi nhớ cài đặt sẵn tôi đã chọn không?" closed="true" %}}
+{{% ls-details title="Ứng dụng có ghi nhớ cài đặt sẵn tôi đã chọn không?" closed="true" %}}
 Có. Cài đặt sẵn cuối cùng bạn chọn được lưu và làm nổi bật trong bộ chọn cài đặt sẵn, nên dễ trở lại cái yêu thích của bạn.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Tên cài đặt sẵn hiện tại hiển thị ở đâu?" closed="true" %}}
+{{% ls-details title="Tên cài đặt sẵn hiện tại hiển thị ở đâu?" closed="true" %}}
 Ở trên cùng, giữa màn hình trình trực quan hóa, cùng với một bộ đếm như 429 / 500 cho biết bạn đang ở cài đặt sẵn nào trong toàn bộ tập. Trong ảnh chụp màn hình ví dụ, cài đặt sẵn là Starfield Sectors.
-{{% /details %}}
+{{% /ls-details %}}

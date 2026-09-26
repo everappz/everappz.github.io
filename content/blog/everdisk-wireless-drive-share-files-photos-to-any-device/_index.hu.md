@@ -12,7 +12,7 @@ authors:
     image: "/images/about/artem-meleshko-founder-everappz.webp"
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 **Röviden:** Az [Everdisk](/products/everdisk) az új alkalmazásunk, amely az **iPhone-odat vagy iPadedet vezeték nélküli meghajtóvá** alakítja, és egyben központtá, amely a többi eszközödhöz is csatlakozik. Koppints a **Start** gombra, és az Everdisk **négy szervert futtat egyszerre**: **DLNA** az okostévékhez és médialejátszókhoz, **HTTP** bármely böngészőhöz, **WebDAV** a Finderhez, Windowshoz és Linuxhoz, és **FTP** a fájlkezelő alkalmazásokhoz. Minden eszköz úgy csatlakozik, ahogy szeret. Oszd meg fájljaidat, fotóidat, videóidat és zenédet bármivel a hálózatodon, streamelj tévére kábel nélkül, csatlakoztasd az eszközödet hálózati meghajtóként, vagy mozgasd a fájlokat **USB-kábelen** keresztül, amikor nincs Wi-Fi. Az Everdisk kifelé is csatlakozik **DLNA, WebDAV, FTP és SFTP** szerverekhez, beépített **fájlkezelővel** rendelkezik tömörítéssel és kicsomagolással, valamint képes **dokumentumokat PDF-be szkennelni**, **PDF-eket megjegyzésekkel ellátni és aláírni**, és egy teljes **PDF-eszköztárat** futtatni. Nincsenek fiókok, nincs felhő, és nincs telepítendő extra alkalmazás a másik oldalon. Minden a helyi hálózatodon marad. Ingyenesen letölthető, opcionális egyszeri Premium Lifetime vásárlással.
 
@@ -133,46 +133,46 @@ Ha tetszik az alkalmazás, kérjük, hagyj értékelést az App Store-ban. Ez t�
 
 ## Gyakran ismételt kérdések
 
-{{% details title="Mi az Everdisk?" closed="true" %}}
+{{% ls-details title="Mi az Everdisk?" closed="true" %}}
 Az Everdisk egy új alkalmazás, amely az iPhone-odat vagy iPadedet vezeték nélküli meghajtóvá és egyben olyan központtá alakítja, amely a többi eszközödhöz is csatlakozik. Megoszthatod fájljaidat, fotóidat, videóidat és zenédet bármivel a hálózatodon, böngészhetsz és streamelhetsz más szerverekről, és kezelhetsz mindent közvetlenül az eszközödön. Nincsenek fiókok, nincs felhő, és nincs telepítendő extra alkalmazás a másik oldalon. Csak koppintasz a Start gombra, és készen is állsz. Az alkalmazás négy szervert futtat egyszerre: DLNA az okostévékhez és médialejátszókhoz, HTTP bármely böngészőhöz, WebDAV a Finderhez, Windowshoz és Linuxhoz, és FTP a fájlkezelő alkalmazásokhoz és haladó felhasználókhoz.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Mennyibe kerül az Everdisk?" closed="true" %}}
+{{% ls-details title="Mennyibe kerül az Everdisk?" closed="true" %}}
 Az Everdisk ingyenesen letölthető. Ingyen alakíthatod az eszközödet vezeték nélküli meghajtóvá, oszthatod meg fájljaidat négyféleképpen, streamelhetsz tévére, csatlakoztathatsz hálózati meghajtót, vihetsz át USB-n, csatlakozhatsz más szerverekhez, használhatod a fájlkezelőt, szkennelhetsz dokumentumokat és használhatod a PDF-eszközöket. Van egy opcionális egyszeri Premium Lifetime vásárlás, egyetlen fizetés előfizetés nélkül, amely korlátlan megosztott mappát és mentett kapcsolatot, fotó- és videókonverziót, egyéni portokat, automatikus megosztásindítást és eszköztestreszabást old fel. Az árak régiónként változhatnak.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Kell telepítenem valamit a másik eszközre?" closed="true" %}}
+{{% ls-details title="Kell telepítenem valamit a másik eszközre?" closed="true" %}}
 Nem. Pontosan ez a lényeg. A másik eszköz olyan eszközökkel csatlakozik, amelyekkel már rendelkezik. Egy okostévé magától megtalálja a könyvtáradat DLNA-n keresztül, bármely számítógép vagy telefon megnyit egy linket egy böngészőben, a Mac Finder, a Windows és a Linux pedig hálózati meghajtóként csatlakoztatja az eszközödet WebDAV-on keresztül. Semmit sem kell telepíteni a másik oldalon.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Hogyan streamelek fotókat és videókat a tévémre?" closed="true" %}}
+{{% ls-details title="Hogyan streamelek fotókat és videókat a tévémre?" closed="true" %}}
 Tedd a tévédet vagy médialejátszódat és az eszközödet ugyanarra a Wi-Fi hálózatra, majd koppints a Start gombra az Everdiskben úgy, hogy a fotóid, videóid vagy zenéd meg van osztva. Az eszközöd magától megjelenik a tévé médiaszerver-listájában, előnézeti bélyegképekkel. Nyisd meg a tévén, és élvezd a könyvtáradat a nagy képernyőn. Kábelek és extra alkalmazások nélkül.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Hogyan csatlakoztatom az Everdisket a Macemről vagy a PC-mről?" closed="true" %}}
+{{% ls-details title="Hogyan csatlakoztatom az Everdisket a Macemről vagy a PC-mről?" closed="true" %}}
 Az Everdisk normál hálózati meghajtóként jeleníti meg az eszközödet WebDAV-on keresztül. Macen nyisd meg a Findert, válaszd az Ugrás, majd a Csatlakozás a kiszolgálóhoz lehetőséget, és add meg az alkalmazásban megjelenített WebDAV-címet. Windowson csatlakoztass egy hálózati meghajtót ugyanazzal a címmel. Linuxon csatlakozz a WebDAV-címhez a fájlkezelődből. A csatlakozás után oda-vissza húzhatod a fájlokat. Ha inkább nem csatlakoztatnál meghajtót, csak nyisd meg a HTTP-linket bármelyik böngészőben.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Átvihetek fájlokat Wi-Fi nélkül?" closed="true" %}}
+{{% ls-details title="Átvihetek fájlokat Wi-Fi nélkül?" closed="true" %}}
 Igen. Csatlakoztasd az eszközödet egy Machez ugyanazzal az USB-kábellel, amellyel töltöd, és a fájlok egyenesen a kábelen keresztül mozognak, gyorsabban, mint a Wi-Fin. Mivel nincs szüksége vezeték nélküli hálózatra, ez tovább működik repülőn, szállodában vagy bármely zárolt vagy nyilvános hálózaton, ahol a Wi-Fi-megosztás blokkolva van.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Küldhetek fájlokat egyik iPhone-ról a másikra?" closed="true" %}}
+{{% ls-details title="Küldhetek fájlokat egyik iPhone-ról a másikra?" closed="true" %}}
 Igen. Indítsd el a megosztást az egyik eszközön, és nyisd meg a linket egy böngészőben a másikon, vagy csatlakozz WebDAV-on vagy FTP-n keresztül. Böngészhetsz, streamelhetsz és letölthetsz mindkét irányban, sőt fotókat, dokumentumokat és egész mappákat is feltölthetsz vissza a megosztó eszközre.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Mihez csatlakozhat az Everdisk?" closed="true" %}}
+{{% ls-details title="Mihez csatlakozhat az Everdisk?" closed="true" %}}
 Az Everdisk egyben kliens is a hálózatodon lévő más eszközökhöz. Megkeresheted és csatlakozhatsz DLNA, WebDAV, FTP és SFTP szerverekhez, beleértve a NAS-eszközöket és médiaszervereket. A csatlakozás után böngészheted a mappáikat, streamelhetsz hangot és videót, letölthetsz fájlokat, valamint mappákat hozhatsz létre, feltölthetsz, átnevezhetsz, mozgathatsz vagy törölhetsz, amikor a szerver engedi.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Szkennelhetek dokumentumokat és szerkeszthetek PDF-eket az Everdiskben?" closed="true" %}}
+{{% ls-details title="Szkennelhetek dokumentumokat és szerkeszthetek PDF-eket az Everdiskben?" closed="true" %}}
 Igen. Az Everdisk papírdokumentumokat szkennelhet a kameráddal. Magától megtalálja a széleket, kiegyenesíti minden oldalt, és letisztult, többoldalas PDF-ként menti őket. Megnyithatsz egy PDF-et vagy fotót is, és elláthatod megjegyzésekkel (rajzolhatsz, kiemelhetsz, szöveget és alakzatokat adhatsz hozzá, és aláírhatsz az ujjaddal), a változtatásokat pedig visszamenti a fájlba. Egy teljes PDF-eszköztár hozzáad tömörítést, szövegfelismerést (OCR) kereshető PDF-be, jelszavas védelmet, engedélyek áttekintését, metaadat-szerkesztést és lapítást.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Privát és biztonságos az Everdisk?" closed="true" %}}
+{{% ls-details title="Privát és biztonságos az Everdisk?" closed="true" %}}
 Igen. Minden a helyi hálózatodon marad és soha nem érinti az internetet, így a fájljaid soha nem hagyják el az otthonodat. Nincsenek fiókok és nincs felhő a közepén. Bejelentkezéssel és jelszóval védheted a hozzáférést, így a csatlakozó eszközöknek ugyanazokat az adatokat kell megadniuk, mielőtt láthatnák a fájljaidat, és bármely eszközt blokkolhatsz egyetlen koppintással. A legjobb adatvédelemhez csak akkor kapcsold be a megosztást, amikor egy általad ismert és megbízható Wi-Fi hálózathoz csatlakozol.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Mely eszközökön fut az Everdisk?" closed="true" %}}
+{{% ls-details title="Mely eszközökön fut az Everdisk?" closed="true" %}}
 Az Everdisk iPhone-on és iPaden fut. Megoszt és csatlakozik okostévékkel, médialejátszókkal, Mac, Windows és Linux számítógépekkel, böngészőkkel, más telefonokkal és táblagépekkel, NAS-meghajtókkal, és bármely DLNA, WebDAV, FTP vagy SFTP szerverrel a hálózatodon.
-{{% /details %}}
+{{% /ls-details %}}

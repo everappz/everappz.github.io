@@ -7,7 +7,7 @@ tags: ["Evermusic", "Lecture sans blanc", "Guide pratique", "Audio", "Lecture", 
 readingTime: 4
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 **En bref :** Ouvrez **Réglages > Lecteur audio > Lecture sans blanc** et mettez l'interrupteur sur **ACTIVÉ**. Dès lors, les morceaux s'enchaînent sans pause, sans clic ni craquement. Evermusic met en mémoire tampon et décode le morceau suivant pendant que le morceau en cours joue encore, puis effectue le relais entre les échantillons audio sur un tampon continu, de sorte que la transition est parfaitement fluide. Il s'agit d'une véritable lecture sans blanc, précise à l'échantillon près, et non d'un fondu enchaîné.
 
@@ -73,30 +73,30 @@ Résultat : un album live, un set DJ calé en rythme ou un disque concept se jou
 
 ## FAQ
 
-{{% details title="Comment activer la lecture sans blanc dans Evermusic ?" closed="true" %}}
+{{% ls-details title="Comment activer la lecture sans blanc dans Evermusic ?" closed="true" %}}
 Ouvrez Evermusic, allez dans Réglages > Lecteur audio > Lecture sans blanc et mettez l'interrupteur sur ACTIVÉ. Elle est désactivée par défaut. Une fois activée, elle s'applique à tout ce que vous lisez et reste active jusqu'à ce que vous la désactiviez.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="La lecture sans blanc d'Evermusic est-elle un vrai gapless ou juste un fondu enchaîné ?" closed="true" %}}
+{{% ls-details title="La lecture sans blanc d'Evermusic est-elle un vrai gapless ou juste un fondu enchaîné ?" closed="true" %}}
 C'est une véritable lecture sans blanc, précise à l'échantillon près. Evermusic décode et met en mémoire tampon à l'avance le morceau suivant pendant que le morceau en cours joue, puis effectue le relais entre les échantillons audio sur un tampon continu, de sorte qu'aucun silence, clic ou remplissage n'est inséré et qu'aucun blanc dû au redémarrage du décodeur ne se produit. Le fondu enchaîné est une fonction distincte et différente qui superpose et mélange les morceaux ; le gapless conserve l'audio exactement tel qu'il a été masterisé et supprime seulement le blanc.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Pourquoi est-ce que j'entends encore un blanc entre certains morceaux ?" closed="true" %}}
+{{% ls-details title="Pourquoi est-ce que j'entends encore un blanc entre certains morceaux ?" closed="true" %}}
 Assurez-vous que la lecture sans blanc est ACTIVÉE dans Réglages > Lecteur audio > Lecture sans blanc. S'il reste un blanc, il est peut-être intégré à l'enregistrement lui-même (certains fichiers comportent quelques secondes de véritable silence au début ou à la fin d'un morceau). Le gapless supprime le blanc que le lecteur ajouterait normalement entre les morceaux ; il ne peut pas supprimer un silence qui fait partie du fichier audio.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="La lecture sans blanc fonctionne-t-elle avec les fichiers FLAC et autres formats sans perte ?" closed="true" %}}
+{{% ls-details title="La lecture sans blanc fonctionne-t-elle avec les fichiers FLAC et autres formats sans perte ?" closed="true" %}}
 Oui. La lecture sans blanc fonctionne avec FLAC, Apple Lossless (ALAC) et les formats avec perte comme MP3 et AAC, que les fichiers soient stockés localement, dans le cloud ou sur un serveur multimédia.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Puis-je utiliser la lecture sans blanc et le fondu enchaîné en même temps ?" closed="true" %}}
+{{% ls-details title="Puis-je utiliser la lecture sans blanc et le fondu enchaîné en même temps ?" closed="true" %}}
 Non. Ils font des choses opposées : activer la lecture sans blanc désactive donc automatiquement le fondu enchaîné. Utilisez le gapless pour les albums live, les mix DJ et les disques concepts où l'audio doit être préservé exactement ; utilisez le fondu enchaîné si vous voulez que les morceaux se fondent l'un dans l'autre.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="La lecture sans blanc fonctionne-t-elle en streaming depuis le cloud ?" closed="true" %}}
+{{% ls-details title="La lecture sans blanc fonctionne-t-elle en streaming depuis le cloud ?" closed="true" %}}
 Oui. Evermusic commence à mettre en mémoire tampon et à décoder le morceau suivant en avance, y compris pour les espaces cloud et les serveurs multimédias, afin que le relais reste fluide. Sur les connexions plus lentes, il commence simplement à préparer le morceau suivant un peu plus tôt.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="La lecture sans blanc réduit-elle la qualité audio ?" closed="true" %}}
+{{% ls-details title="La lecture sans blanc réduit-elle la qualité audio ?" closed="true" %}}
 Non. La lecture sans blanc ne réencode ni ne traite votre audio. Elle change seulement la façon dont les morceaux sont planifiés et mis en mémoire tampon pour qu'il n'y ait pas de blanc entre eux. Chaque échantillon est joué exactement tel qu'il est dans le fichier.
-{{% /details %}}
+{{% /ls-details %}}

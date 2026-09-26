@@ -12,7 +12,7 @@ authors:
     image: "/images/about/artem-meleshko-founder-everappz.webp"
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 ## 3 миллиона загрузок
 
@@ -98,22 +98,22 @@ Evermusic бесплатен в App Store с дополнительными пр
 
 ## Часто задаваемые вопросы
 
-{{% details title="Evermusic бесплатен?" closed="true" %}}
+{{% ls-details title="Evermusic бесплатен?" closed="true" %}}
 Да. Evermusic можно скачать бесплатно, основные функции доступны без оплаты. Премиум-функции, такие как эквалайзер и расширенные облачные опции, доступны через дополнительное обновление.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Может ли Evermusic воспроизводить аудиокниги?" closed="true" %}}
+{{% ls-details title="Может ли Evermusic воспроизводить аудиокниги?" closed="true" %}}
 Да. Evermusic сохраняет позицию воспроизведения, поддерживает закладки, регулируемую скорость воспроизведения (от 0,5x до 2,0x) и таймеры сна — что делает его подходящим для аудиокниг и подкастов.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="К каким облачным сервисам подключается Evermusic?" closed="true" %}}
+{{% ls-details title="К каким облачным сервисам подключается Evermusic?" closed="true" %}}
 Dropbox, Google Drive, OneDrive, Box, MEGA, Yandex.Disk, MyDrive, pCloud, HiDrive, файловые ресурсы SMB и серверы WebDAV.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Можно ли использовать SD-карту с Evermusic?" closed="true" %}}
+{{% ls-details title="Можно ли использовать SD-карту с Evermusic?" closed="true" %}}
 Да. Подключите Lightning или USB-C SD-картридер к iPhone или iPad и стримите музыку напрямую с карты через Evermusic.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Работает ли Evermusic на Mac?" closed="true" %}}
+{{% ls-details title="Работает ли Evermusic на Mac?" closed="true" %}}
 Да. Evermusic доступен как для iOS, так и для macOS, с облачным стримингом и офлайн-воспроизведением на всех платформах.
-{{% /details %}}
+{{% /ls-details %}}

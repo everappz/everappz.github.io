@@ -12,7 +12,7 @@ authors:
     image: "/images/about/artem-meleshko-founder-everappz.webp"
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 ![](/blog/setapp-mobile-and-evermusic-pro/21260c_766c4fbc81e6433cb8fc21b9c2862ce0~mv2.png)
 
@@ -49,27 +49,27 @@ Ecualizador de 10 bandas y potenciador de graves.
 Conéctate a **NAS, recursos compartidos SMB** y **servidores WebDAV**.
 
 {{< cards cols="1" >}}
-  {{< card link="https://go.setapp.com/stp435?_target=https://www.setapp.com/setapp-mobile&stc=mobile" title="Descarga Evermusic Pro con Setapp Mobile" icon="download" >}}
+  {{< ls-card link="https://go.setapp.com/stp435?_target=https://www.setapp.com/setapp-mobile&stc=mobile" title="Descarga Evermusic Pro con Setapp Mobile" icon="download" >}}
 {{< /cards >}}
 
 ## Preguntas frecuentes
 
-{{% details title="¿Es Evermusic Pro gratuito con Setapp Mobile?" closed="true" %}}
+{{% ls-details title="¿Es Evermusic Pro gratuito con Setapp Mobile?" closed="true" %}}
 Sí. Está incluido en la suscripción Setapp Mobile sin coste adicional.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="¿Qué servicios en la nube soporta Evermusic Pro?" closed="true" %}}
+{{% ls-details title="¿Qué servicios en la nube soporta Evermusic Pro?" closed="true" %}}
 Google Drive, Dropbox, OneDrive, iCloud, Box, MEGA, Yandex.Disk, pCloud, HiDrive, WebDAV, SMB y NAS.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="¿Puedo escuchar sin conexión con Evermusic Pro?" closed="true" %}}
+{{% ls-details title="¿Puedo escuchar sin conexión con Evermusic Pro?" closed="true" %}}
 Sí. Puedes descargar pistas, álbumes, artistas o listas de reproducción completas.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="¿Qué formatos de audio reproduce Evermusic Pro?" closed="true" %}}
+{{% ls-details title="¿Qué formatos de audio reproduce Evermusic Pro?" closed="true" %}}
 FLAC, MP3, AAC, WAV, ALAC, AIFF, OPUS, OGG y muchos más.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="¿Necesito una suscripción Setapp separada para iPhone?" closed="true" %}}
+{{% ls-details title="¿Necesito una suscripción Setapp separada para iPhone?" closed="true" %}}
 Setapp Mobile está disponible como parte del plan de suscripción Setapp que incluye aplicaciones iOS.
-{{% /details %}}
+{{% /ls-details %}}

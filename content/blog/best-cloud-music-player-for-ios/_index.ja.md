@@ -12,7 +12,7 @@ authors:
     image: "/images/about/artem-meleshko-founder-everappz.webp"
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 **要約:** Evermusicは、Dropbox、Google Drive、OneDrive、および9つ以上のクラウドサービスに接続するiPhoneとiPad向けクラウド音楽プレイヤーです。FLAC、MP3、WAV、その他の形式を再生し、オフラインダウンロードをサポートし、イコライザーとID3タグエディターを含んでいます。一回限りのPremiumアップグレードで無料ダウンロード。1,100万回以上のダウンロード、App Storeで4.6つ星評価。
 
@@ -20,7 +20,7 @@ authors:
 
 [@Massi_Media](https://www.youtube.com/@Massi_Media)による完全なビデオレビューをご覧ください:
 
-{{< youtubecard id="pKUZmHy9dxc" >}}
+{{< ls-youtubecard id="pKUZmHy9dxc" >}}
 
 ## iPhone向け最高のクラウド音楽プレイヤーとは?
 
@@ -67,18 +67,18 @@ Evermusicは既に所有しているファイルと既に支払っているス�
 
 ## よくある質問
 
-{{% details title="Evermusicは本当に無料で使えますか?" closed="true" %}}
+{{% ls-details title="Evermusicは本当に無料で使えますか?" closed="true" %}}
 はい、Evermusicはクラウド接続、ストリーミング、オフラインダウンロードを含む無料プランを提供しています。無料版は基本的な再生機能と限られた数のクラウドアカウント接続をサポートしています。一回限りの購入またはサブスクリプションとして利用可能なEvermusic Proは、フルイコライザー、クロスフェード、追加のクラウドアカウント、その他の高度な機能を解放します。自分の音楽ファイルにアクセスするためのサブスクリプションは必要ありません。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="インターネット接続なしでEvermusicを使えますか?" closed="true" %}}
+{{% ls-details title="インターネット接続なしでEvermusicを使えますか?" closed="true" %}}
 もちろんです。Evermusicは接続されたクラウドサービスからトラックをデバイスに直接ダウンロードしてオフライン再生することができます。ダウンロード後、ファイルはローカルに保存され、Wi-Fiやモバイルデータなしでも利用可能なままです。これによりEvermusicは、フライト、トンネルを通る通勤、または接続が信頼できない状況に最適です。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="EvermusicはFLACなどのロスレスオーディオ形式をサポートしていますか?" closed="true" %}}
+{{% ls-details title="EvermusicはFLACなどのロスレスオーディオ形式をサポートしていますか?" closed="true" %}}
 はい。EvermusicはFLAC、ALAC、WAV、AIFF、OGG、MP3、AAC、M4Aを含む幅広いオーディオ形式をサポートしています。アプリは再エンコードなしでネイティブ品質でロスレスファイルを再生するため、オーディオファイルは意図した通りにハイレゾコレクションを楽しめます。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="NASまたはホームサーバーをEvermusicに接続するにはどうすればいいですか?" closed="true" %}}
+{{% ls-details title="NASまたはホームサーバーをEvermusicに接続するにはどうすればいいですか?" closed="true" %}}
 NASまたはホームサーバーがWebDAVまたはSMBプロトコルをサポートしている場合、アプリのクラウド接続設定にサーバーアドレス、ポート、認証情報を入力することでEvermusicに接続できます。Synology、QNAS、Western Digital MyCloudを含むほとんどの人気NASブランドは、これらのプロトコルをすぐにサポートしています。接続後、Evermusicは他のクラウドソースと同様に音楽ファイルをスキャンしてインデックスを作成します。
-{{% /details %}}
+{{% /ls-details %}}

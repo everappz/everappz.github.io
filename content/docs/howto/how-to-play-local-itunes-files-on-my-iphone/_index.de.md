@@ -7,7 +7,7 @@ tags: ["Audio", "Player", "Computer", "Dateien", "Datei", "PC", "Mac", "Freigabe
 keywords: ["iTunes Dateifreigabe", "lokale Musik abspielen", "Musik auf iPhone übertragen", "Dateien auf iOS kopieren", "Audio vom Mac auf iPhone", "lokale Dateien auf iPhone", "Evermusic", "Flacbox", "Musikplayer", "Dateifreigabe", "WiFi Drive", "SMB Musikstreaming", "iPhone Musik-App", "Musik auf iOS importieren"]
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **Kurzfassung:** Übertragen Sie Musik von Ihrem Computer auf das iPhone mit einer von drei Methoden: **iTunes/Finder Dateifreigabe** (USB-Kabel), **[WiFi Drive](/docs/howto/how-to-transfer-music-from-computer-to-iphone-without-itunes)** (kabellos, kein Kabel erforderlich) oder **[SMB](/docs/howto/stream-your-music-from-mac-or-pc-to-iphone-using-smb/)** (direktes Streaming ohne Kopieren). Spielen Sie dann mit [Evermusic](/products/evermusic) oder [Flacbox](/products/flacbox) ab.
@@ -134,22 +134,22 @@ Sie können Ihren Computer auch über das SMB-Protokoll verbinden, um Musik dire
 
 ## FAQ
 
-{{% details title="Was ist der schnellste Weg, Musik auf das iPhone zu übertragen?" closed="true" %}}
+{{% ls-details title="Was ist der schnellste Weg, Musik auf das iPhone zu übertragen?" closed="true" %}}
 Die iTunes/Finder-Dateifreigabe über USB ist die schnellste Methode für große Musikbibliotheken. Für kleinere Übertragungen ist WiFi Drive bequemer, da kein Kabel benötigt wird.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Kann ich FLAC-Dateien auf mein iPhone übertragen?" closed="true" %}}
+{{% ls-details title="Kann ich FLAC-Dateien auf mein iPhone übertragen?" closed="true" %}}
 Ja. Sowohl Evermusic als auch Flacbox akzeptieren FLAC-Dateien über iTunes-Dateifreigabe, WiFi Drive oder SMB. Flacbox wird für verlustfreie Formate empfohlen.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Brauche ich iTunes unter macOS Catalina oder neuer?" closed="true" %}}
+{{% ls-details title="Brauche ich iTunes unter macOS Catalina oder neuer?" closed="true" %}}
 Nein. Apple hat iTunes durch den Finder für die Geräteverwaltung ab macOS Catalina ersetzt. Verwenden Sie den Tab "Dateien" im Finder für die Dateifreigabe.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Kann ich Musik streamen, ohne Dateien auf mein iPhone zu kopieren?" closed="true" %}}
+{{% ls-details title="Kann ich Musik streamen, ohne Dateien auf mein iPhone zu kopieren?" closed="true" %}}
 Ja. Verwenden Sie das SMB-Protokoll, um Musik direkt von Ihrem Mac oder PC zu streamen. Dies spart Gerätespeicher und hält Ihre Bibliothek auf Ihrem Computer.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Welche App sollte ich verwenden -- Evermusic oder Flacbox?" closed="true" %}}
+{{% ls-details title="Welche App sollte ich verwenden -- Evermusic oder Flacbox?" closed="true" %}}
 Verwenden Sie Evermusic für Standardformate wie MP3, WAV und AAC. Wählen Sie Flacbox, wenn Ihre Bibliothek verlustfreie Formate wie FLAC, DSD oder OGG enthält.
-{{% /details %}}
+{{% /ls-details %}}

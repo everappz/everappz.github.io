@@ -21,7 +21,7 @@ readingTime: 16
 Η οθόνη Ρυθμίσεων είναι το κέντρο ελέγχου του Flacbox. Από εδώ μπορείτε να αναβαθμίσετε σε Premium, να διαμορφώσετε τη μηχανή ήχου (κωδικοποιητές συστήματος ή FFmpeg), να διαχειριστείτε τη μουσική σας βιβλιοθήκη, να ρυθμίσετε τον διαχειριστή αρχείων, να προσαρμόσετε τον editor ετικετών ήχου, να ενεργοποιήσετε widgets αρχικής οθόνης και Apple CarPlay, να δημιουργήσετε αντίγραφα ασφαλείας των δεδομένων σας και να αποκτήσετε πρόσβαση σε βοήθεια και νομικές πληροφορίες. Οι ενότητες είναι ομαδοποιημένες υπό τις κεφαλίδες: Αγορές & Ενημερώσεις, Προτιμήσεις Εφαρμογής, Βοήθεια και Νομικά & Απόρρητο.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Κύρια Οθόνη Ρυθμίσεων Flacbox" image="/docs/guide/flacbox/img/settings-main.webp" >}}
+  {{< ls-card title="" subtitle="Κύρια Οθόνη Ρυθμίσεων Flacbox" image="/docs/guide/flacbox/img/settings-main.webp" >}}
 {{< /cards >}}
 
 ## Αναβάθμιση σε Premium
@@ -29,13 +29,13 @@ readingTime: 16
 Αναβαθμίστε την εφαρμογή στην έκδοση Premium για να αφαιρέσετε όλους τους περιορισμούς. Η δωρεάν έκδοση προσφέρει εφάπαξ αγορά ισόβιας πρόσβασης και δύο επιλογές συνδρομής (1 μήνα και 1 έτος) για την αφαίρεση όλων των περιορισμών.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Αναβάθμιση Flacbox σε Premium" image="/docs/guide/flacbox/img/upgrade-to-premium.webp" >}}
+  {{< ls-card title="" subtitle="Αναβάθμιση Flacbox σε Premium" image="/docs/guide/flacbox/img/upgrade-to-premium.webp" >}}
 {{< /cards >}}
 
 Η **Οικογενειακή Κοινή Χρήση** είναι ενεργοποιημένη για όλες τις αγορές και τα πλάνα, οπότε μπορείτε να μοιραστείτε την έκδοση Premium με έως πέντε μέλη της οικογένειάς σας χωρίς επιπλέον κόστος.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox Επιλογή Πλάνου Premium" image="/docs/guide/flacbox/img/select-premium-plan.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox Επιλογή Πλάνου Premium" image="/docs/guide/flacbox/img/select-premium-plan.webp" >}}
 {{< /cards >}}
 
 Μπορείτε να διαβάσετε περισσότερα για αγορές και την έκδοση Premium εδώ: [Ποια είναι η διαφορά μεταξύ Flacbox και Flacbox Premium](/docs/faq/flacbox/what-is-the-difference-between-flacbox-and-flacbox-premium/).

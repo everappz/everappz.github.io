@@ -12,7 +12,7 @@ authors:
     image: "/images/about/artem-meleshko-founder-everappz.webp"
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 ![](/blog/setapp-mobile-and-evermusic-pro/21260c_766c4fbc81e6433cb8fc21b9c2862ce0~mv2.png)
 
@@ -70,27 +70,27 @@ Evermusic Pro مشمول في اشتراك Setapp Mobile. تحصل على الن
 هل أنت مستعد للتجربة؟ احصل على Evermusic Pro من خلال Setapp Mobile وابدأ ببث مكتبتك الموسيقية السحابية اليوم.
 
 {{< cards cols="1" >}}
-  {{< card link="https://go.setapp.com/stp435?_target=https://www.setapp.com/setapp-mobile&stc=mobile" title="حمّل Evermusic Pro مع Setapp Mobile" icon="download" >}}
+  {{< ls-card link="https://go.setapp.com/stp435?_target=https://www.setapp.com/setapp-mobile&stc=mobile" title="حمّل Evermusic Pro مع Setapp Mobile" icon="download" >}}
 {{< /cards >}}
 
 ## الأسئلة الشائعة
 
-{{% details title="هل Evermusic Pro مجاني مع Setapp Mobile؟" closed="true" %}}
+{{% ls-details title="هل Evermusic Pro مجاني مع Setapp Mobile؟" closed="true" %}}
 نعم. Evermusic Pro مشمول في اشتراك Setapp Mobile بدون تكلفة إضافية. تحصل على النسخة المميزة الكاملة مع جميع الميزات مفتوحة.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="ما الخدمات السحابية التي يدعمها Evermusic Pro؟" closed="true" %}}
+{{% ls-details title="ما الخدمات السحابية التي يدعمها Evermusic Pro؟" closed="true" %}}
 يتصل Evermusic Pro بـ Google Drive وDropbox وOneDrive وiCloud وBox وMEGA وYandex.Disk وpCloud وHiDrive وخوادم WebDAV. كما يدعم مشاركات ملفات SMB وأجهزة NAS.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="هل يمكنني الاستماع بدون إنترنت مع Evermusic Pro؟" closed="true" %}}
+{{% ls-details title="هل يمكنني الاستماع بدون إنترنت مع Evermusic Pro؟" closed="true" %}}
 نعم. يمكنك تحميل مسارات فردية أو ألبومات أو فنانين أو قوائم تشغيل كاملة للتشغيل بدون إنترنت مباشرة داخل التطبيق.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="ما صيغ الصوت التي يشغلها Evermusic Pro؟" closed="true" %}}
+{{% ls-details title="ما صيغ الصوت التي يشغلها Evermusic Pro؟" closed="true" %}}
 يدعم Evermusic Pro صيغ FLAC وMP3 وAAC وWAV وALAC وAIFF وOPUS وOGG والعديد من الصيغ الأخرى. يتعامل مع الملفات الصوتية بلا فقدان وبفقدان.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="هل أحتاج اشتراك Setapp منفصل لـ iPhone؟" closed="true" %}}
+{{% ls-details title="هل أحتاج اشتراك Setapp منفصل لـ iPhone؟" closed="true" %}}
 Setapp Mobile متاح كجزء من خطة اشتراك Setapp التي تتضمن تطبيقات iOS. تحقق من موقع Setapp للتعرف على الأسعار وخيارات الخطط الحالية.
-{{% /details %}}
+{{% /ls-details %}}

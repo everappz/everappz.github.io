@@ -12,7 +12,7 @@ authors:
     image: "/images/about/artem-meleshko-founder-everappz.webp"
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 ![](/blog/evermusic-stream-your-music-from-the-cloud-and-free-up-space-on-your-iphone-or-ipad/21260c_00c5356db3a24db6a6a37e353b774d56~mv2.jpg)
 
@@ -82,22 +82,22 @@ Evermusic 支援 Google Drive、Dropbox、Box、OneDrive、MediaFire、MEGA、Ya
 
 ## 常見問題
 
-{{% details title="Evermusic 免費嗎？" closed="true" %}}
+{{% ls-details title="Evermusic 免費嗎？" closed="true" %}}
 Evermusic 可免費下載，提供可選的進階功能。基本的雲端播放和離線播放在免費版本中可用。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Evermusic 支援哪些雲端服務？" closed="true" %}}
+{{% ls-details title="Evermusic 支援哪些雲端服務？" closed="true" %}}
 Google Drive、Dropbox、Box、OneDrive、MediaFire、MEGA、Yandex.Disk、pCloud、HiDrive、MyDrive、SMB 檔案分享和 WebDAV 伺服器。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="我可以用 Evermusic 離線聽音樂嗎？" closed="true" %}}
+{{% ls-details title="我可以用 Evermusic 離線聽音樂嗎？" closed="true" %}}
 可以。在應用程式內直接下載任何專輯、藝人、播放清單或單曲進行離線播放。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Evermusic 支援哪些音訊格式？" closed="true" %}}
+{{% ls-details title="Evermusic 支援哪些音訊格式？" closed="true" %}}
 Evermusic 支援 MP3、FLAC、AAC、WAV、ALAC、AIFF、OPUS、OGG 和許多其他格式。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="我還需要 iTunes 來傳輸音樂嗎？" closed="true" %}}
+{{% ls-details title="我還需要 iTunes 來傳輸音樂嗎？" closed="true" %}}
 不需要。從電腦將音樂上傳到任何支援的雲端服務，然後透過 iPhone 或 iPad 上的 Evermusic 播放或下載。
-{{% /details %}}
+{{% /ls-details %}}

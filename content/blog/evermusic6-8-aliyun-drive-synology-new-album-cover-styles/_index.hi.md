@@ -12,7 +12,7 @@ authors:
     image: "/images/about/artem-meleshko-founder-everappz.webp"
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 **संक्षेप में:** Evermusic 6.8 में Aliyun Drive और Synology NAS इंटीग्रेशन (QuickConnect के साथ), छह नए एल्बम कवर स्क्रॉल इफेक्ट्स, एक मिनिमल फुलस्क्रीन प्लेयर, ड्रैग-एंड-ड्रॉप फाइल मैनेजमेंट और तेज़ एल्बम आर्ट लोडिंग जोड़ी गई है। अब iOS और macOS के लिए उपलब्ध।
 
@@ -77,18 +77,18 @@ Evermusic 6.8 तीन क्षेत्रों पर केंद्रि
 
 ## अक्सर पूछे जाने वाले प्रश्न
 
-{{% details title="Synology NAS को Evermusic से कैसे कनेक्ट करें?" closed="true" %}}
+{{% ls-details title="Synology NAS को Evermusic से कैसे कनेक्ट करें?" closed="true" %}}
 कनेक्शन्स टैब पर जाएं, Synology चुनें और अपना QuickConnectID दर्ज करें। Evermusic IP एड्रेस या VPN सेटअप की आवश्यकता के बिना सीधे कनेक्ट होता है।
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="क्या Evermusic के साथ Aliyun Drive का उपयोग मुफ़्त है?" closed="true" %}}
+{{% ls-details title="क्या Evermusic के साथ Aliyun Drive का उपयोग मुफ़्त है?" closed="true" %}}
 हाँ। यदि आपके पास Aliyun Drive अकाउंट है, तो आप इसे बिना किसी अतिरिक्त लागत के Evermusic से कनेक्ट कर सकते हैं। स्टोरेज सीमाएं आपकी Aliyun Drive योजना पर निर्भर करती हैं।
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="क्या मैं एल्बम कवर स्क्रॉल स्टाइल को कस्टमाइज़ कर सकता हूँ?" closed="true" %}}
+{{% ls-details title="क्या मैं एल्बम कवर स्क्रॉल स्टाइल को कस्टमाइज़ कर सकता हूँ?" closed="true" %}}
 हाँ। Settings > Audio Player > Personalization > Album Covers Scrolling Style पर जाएं और छह विकल्पों में से चुनें: MacDoc, Linear, Rotary, Inverted Rotary, Cylinder या CoverFlow।
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="क्या मिनिमल प्लेयर स्क्रीन सभी डिवाइस के साथ काम करती है?" closed="true" %}}
+{{% ls-details title="क्या मिनिमल प्लेयर स्क्रीन सभी डिवाइस के साथ काम करती है?" closed="true" %}}
 हाँ। फुलस्क्रीन एल्बम कवर स्टाइल Evermusic 6.8 या बाद के संस्करण चलाने वाले सभी समर्थित iPhones, iPads और Macs पर उपलब्ध है।
-{{% /details %}}
+{{% /ls-details %}}

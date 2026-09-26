@@ -12,7 +12,7 @@ authors:
     image: "/images/about/artem-meleshko-founder-everappz.webp"
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 ## Evermusic: Molnmusikspelaren för iPhone och iPad
 
@@ -22,7 +22,7 @@ Evermusic är en molnmusikspelare som ansluter till din personliga molnlagring o
 
 ## Se reklamvideon
 
-{{< youtubecard id="BwD0XLgdzEE" title="Evermusic Promo Video" >}}
+{{< ls-youtubecard id="BwD0XLgdzEE" title="Evermusic Promo Video" >}}
 
 ## Nyckelfunktioner som visas i videon
 
@@ -36,14 +36,14 @@ Evermusic är en molnmusikspelare som ansluter till din personliga molnlagring o
 
 ## Vanliga frågor
 
-{{% details title="Vad är Evermusic?" closed="true" %}}
+{{% ls-details title="Vad är Evermusic?" closed="true" %}}
 Evermusic är en molnmusikspelare för iPhone och iPad. Den ansluter till molnlagringstjänster som Dropbox, Google Drive och OneDrive, och låter dig streama och ladda ner dina egna musikfiler. Den stöder FLAC, MP3, AAC, WAV och andra ljudformat.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Är Evermusic gratis att ladda ner?" closed="true" %}}
+{{% ls-details title="Är Evermusic gratis att ladda ner?" closed="true" %}}
 Ja. Evermusic är gratis att ladda ner med grundläggande funktioner. En engångs Premium-uppgradering låser upp equalizern, crossfade och ytterligare molnkontoanslutningar.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Vilka molntjänster stöder Evermusic?" closed="true" %}}
+{{% ls-details title="Vilka molntjänster stöder Evermusic?" closed="true" %}}
 Evermusic stöder över 12 molnplattformar inklusive iCloud Drive, Dropbox, Google Drive, OneDrive, Box, MEGA, Yandex.Disk, pCloud och alla servrar som kör WebDAV- eller SMB-protokoll.
-{{% /details %}}
+{{% /ls-details %}}

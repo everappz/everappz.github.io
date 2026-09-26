@@ -9,7 +9,7 @@ aliases:
   - /post/how-to-install-app-from-the-app-store-using-redeem-promo-code/
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **TL;DR:** A promo code lets you download a paid app for free or unlock in-app purchases. On iOS: App Store > Account icon > Redeem Gift Card or Code > enter code. On Mac: App Store > Account > Redeem Gift Card > enter code. Then open the app and restore purchases if needed.
@@ -96,22 +96,22 @@ Enjoy your free app or in-app upgrade!
 
 ## Frequently Asked Questions
 
-{{% details title="Where do I get a promo code?" closed="true" %}}
+{{% ls-details title="Where do I get a promo code?" closed="true" %}}
 Promo codes are provided by app developers for reviews, giveaways, or promotions. Contact the developer directly to request one.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Do promo codes expire?" closed="true" %}}
+{{% ls-details title="Do promo codes expire?" closed="true" %}}
 Yes. Apple App Store promo codes expire 28 days after they are generated and can only be redeemed once.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Can I use a promo code in any country?" closed="true" %}}
+{{% ls-details title="Can I use a promo code in any country?" closed="true" %}}
 Promo codes are region-specific. The code must match the App Store country of your Apple ID.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="How do I activate in-app purchases with a promo code?" closed="true" %}}
+{{% ls-details title="How do I activate in-app purchases with a promo code?" closed="true" %}}
 After redeeming the code in the App Store, open the app and go to Settings > Restore Purchases. The premium content will be unlocked automatically.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="The promo code says it has already been redeemed. What should I do?" closed="true" %}}
+{{% ls-details title="The promo code says it has already been redeemed. What should I do?" closed="true" %}}
 Each promo code can only be used once. Contact the developer to request a new code.
-{{% /details %}}
+{{% /ls-details %}}

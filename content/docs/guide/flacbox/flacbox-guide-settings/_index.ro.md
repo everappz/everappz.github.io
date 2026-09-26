@@ -21,7 +21,7 @@ readingTime: 16
 Ecranul Setări este centrul de control al Flacbox. De aici puteți face upgrade la Premium, configura motorul audio (codecuri de sistem sau FFmpeg), gestiona biblioteca muzicală, configura managerul de fișiere, personaliza editorul de etichete audio, activa widget-urile ecranului principal și Apple CarPlay, face backup datelor și accesa ajutor și informații juridice. Secțiunile sunt grupate sub anteturi: Achiziții și Actualizări, Preferințe Aplicație, Ajutor și Legal & Confidențialitate.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox Settings Main Screen" image="/docs/guide/flacbox/img/settings-main.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox Settings Main Screen" image="/docs/guide/flacbox/img/settings-main.webp" >}}
 {{< /cards >}}
 
 ## Actualizare la Premium
@@ -29,13 +29,13 @@ Ecranul Setări este centrul de control al Flacbox. De aici puteți face upgrade
 Actualizați aplicația la versiunea Premium pentru a elimina toate limitele. Versiunea gratuită a aplicației oferă o achiziție unică pe viață în aplicație și două opțiuni de abonament (1 lună și 1 an) pentru a elimina toate restricțiile și a face upgrade la Premium.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox Upgrade to Premium" image="/docs/guide/flacbox/img/upgrade-to-premium.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox Upgrade to Premium" image="/docs/guide/flacbox/img/upgrade-to-premium.webp" >}}
 {{< /cards >}}
 
 **Partajarea în Familie** este activată pentru toate achizițiile și planurile, astfel puteți partaja versiunea Premium cu până la cinci membri ai familiei fără costuri suplimentare.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox Select a Premium Plan" image="/docs/guide/flacbox/img/select-premium-plan.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox Select a Premium Plan" image="/docs/guide/flacbox/img/select-premium-plan.webp" >}}
 {{< /cards >}}
 
 Puteți citi mai mult despre achiziții și versiunea Premium aici: [Care este diferența dintre Flacbox și Flacbox Premium](/docs/faq/flacbox/what-is-the-difference-between-flacbox-and-flacbox-premium/).

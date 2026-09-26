@@ -12,7 +12,7 @@ authors:
     image: "/images/about/artem-meleshko-founder-everappz.webp"
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 **Ringkasan:** Evermusic 6.8 menambahkan integrasi Aliyun Drive dan Synology NAS (dengan QuickConnect), enam efek gulir sampul album baru, pemutar layar penuh minimal, manajemen file seret dan lepas, dan pemuatan seni album lebih cepat. Tersedia sekarang untuk iOS dan macOS.
 
@@ -77,18 +77,18 @@ Evermusic 6.8 berfokus pada tiga area: kompatibilitas cloud yang lebih luas (Ali
 
 ## Pertanyaan yang Sering Diajukan
 
-{{% details title="Bagaimana cara menghubungkan Synology NAS ke Evermusic?" closed="true" %}}
+{{% ls-details title="Bagaimana cara menghubungkan Synology NAS ke Evermusic?" closed="true" %}}
 Buka tab Koneksi, pilih Synology, dan masukkan QuickConnectID Anda. Evermusic terhubung langsung tanpa memerlukan alamat IP atau pengaturan VPN.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Apakah Aliyun Drive gratis digunakan dengan Evermusic?" closed="true" %}}
+{{% ls-details title="Apakah Aliyun Drive gratis digunakan dengan Evermusic?" closed="true" %}}
 Ya. Jika Anda memiliki akun Aliyun Drive, Anda dapat menghubungkannya ke Evermusic tanpa biaya tambahan. Batas penyimpanan tergantung pada paket Aliyun Drive Anda.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Bisakah saya menyesuaikan gaya gulir sampul album?" closed="true" %}}
+{{% ls-details title="Bisakah saya menyesuaikan gaya gulir sampul album?" closed="true" %}}
 Ya. Buka Settings > Audio Player > Personalization > Album Covers Scrolling Style dan pilih dari enam opsi: MacDoc, Linear, Rotary, Inverted Rotary, Cylinder, atau CoverFlow.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Apakah layar pemutar minimal berfungsi di semua perangkat?" closed="true" %}}
+{{% ls-details title="Apakah layar pemutar minimal berfungsi di semua perangkat?" closed="true" %}}
 Ya. Gaya sampul album layar penuh tersedia di semua iPhone, iPad, dan Mac yang didukung yang menjalankan Evermusic 6.8 atau yang lebih baru.
-{{% /details %}}
+{{% /ls-details %}}

@@ -15,7 +15,7 @@ readingTime: 11
 이 화면에서 오디오 파일이 포함된 다양한 소스를 연결할 수 있습니다. Google Drive, Dropbox, OneDrive, iCloud 등 인기 있는 클라우드 서비스를 통합하고 Mac 또는 PC를 연결할 수 있습니다. 또한 Apple Time Capsule, WD Cloud Home 또는 SMB나 WebDAV를 사용하는 모든 NAS에 있는 오디오 파일을 편집하는 옵션도 있습니다.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evertag 연결 화면" image="/docs/guide/evertag/img/connections.webp" >}}
+  {{< ls-card title="" subtitle="Evertag 연결 화면" image="/docs/guide/evertag/img/connections.webp" >}}
 {{< /cards >}}
 
 ## 빠른 액세스
@@ -151,7 +151,7 @@ SD 카드나 USB 스틱이 있는 경우 iPhone/iPad에서 Lightning 또는 USB-
 - **그리드/목록 보기**: 테이블 보기와 썸네일 보기 두 가지 보기 모드 간에 전환하세요. 테이블 보기는 파일을 목록으로 표시하고, 썸네일 보기는 파일의 시각적 표현을 보여주어 한 눈에 내용을 쉽게 식별할 수 있습니다.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evertag 클라우드 폴더 정렬" image="/docs/guide/evertag/img/cloud-storage-sort.webp" >}}
+  {{< ls-card title="" subtitle="Evertag 클라우드 폴더 정렬" image="/docs/guide/evertag/img/cloud-storage-sort.webp" >}}
 {{< /cards >}}
 
 ## 온라인 파일 편집
@@ -163,7 +163,7 @@ SD 카드나 USB 스틱이 있는 경우 iPhone/iPad에서 Lightning 또는 USB-
 - **다양한 작업 수행**: 관리하려는 파일이나 폴더를 선택한 후 필요에 맞게 맞춤화된 여러 작업에 액세스할 수 있습니다:
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evertag 파일 선택" image="/docs/guide/evertag/img/cloud-storage-file-select.webp" >}}
+  {{< ls-card title="" subtitle="Evertag 파일 선택" image="/docs/guide/evertag/img/cloud-storage-file-select.webp" >}}
 {{< /cards >}}
 
 ## 파일 작업
@@ -180,7 +180,7 @@ SD 카드나 USB 스틱이 있는 경우 iPhone/iPad에서 Lightning 또는 USB-
 - **삭제하기**: 이 작업은 파일을 클라우드 스토리지에서 영구적으로 제거하므로 주의하세요. **이 삭제는 취소할 수 없습니다**.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evertag 파일 옵션" image="/docs/guide/evertag/img/cloud-storage-file-options.webp" >}}
+  {{< ls-card title="" subtitle="Evertag 파일 옵션" image="/docs/guide/evertag/img/cloud-storage-file-options.webp" >}}
 {{< /cards >}}
 
 작업 목록이 사용 가능한 화면 공간을 초과하는 경우 작업 메뉴 내에서 아래로 스크롤하여 추가 옵션에 액세스하세요.
@@ -196,5 +196,5 @@ SD 카드나 USB 스틱이 있는 경우 iPhone/iPad에서 Lightning 또는 USB-
 - **삭제하기**: 이 작업은 폴더와 그 내용을 클라우드 스토리지에서 영구적으로 제거하므로 주의하세요. **이 작업은 취소할 수 없습니다**.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evertag 폴더 옵션" image="/docs/guide/evertag/img/cloud-storage-folder-options.webp" >}}
+  {{< ls-card title="" subtitle="Evertag 폴더 옵션" image="/docs/guide/evertag/img/cloud-storage-folder-options.webp" >}}
 {{< /cards >}}

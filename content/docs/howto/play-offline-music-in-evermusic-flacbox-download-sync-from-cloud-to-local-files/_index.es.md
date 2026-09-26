@@ -7,7 +7,7 @@ tags: ["música", "audio", "reproductor", "sin conexión", "modo", "descargar", 
 keywords: ["música sin conexión iPhone", "sincronización música en la nube", "Evermusic sin conexión", "Flacbox sincronizar música", "reproducir música sin internet", "descargar audio desde la nube", "reproducción de archivos locales iOS"]
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **Resumen:** Evermusic y Flacbox te permiten descargar música desde el almacenamiento en la nube (Google Drive, Dropbox, OneDrive y más) a tu iPhone o iPad para reproducción sin conexión. Puedes usar tres métodos: descarga directa, modo sin conexión con sincronización automática o caché del reproductor de audio. Esta guía cubre los tres enfoques paso a paso.
@@ -140,26 +140,26 @@ Siguiendo estos pasos detallados, puedes gestionar y reproducir sin problemas tu
 
 ## Preguntas frecuentes
 
-{{% details title="¿Qué servicios en la nube soportan Evermusic y Flacbox?" closed="true" %}}
+{{% ls-details title="¿Qué servicios en la nube soportan Evermusic y Flacbox?" closed="true" %}}
 Ambas aplicaciones soportan Google Drive, Dropbox, OneDrive, Box, MEGA, Yandex.Disk y otros proveedores principales de almacenamiento en la nube. Puedes conectar múltiples servicios a la vez.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="¿Puedo sincronizar música automáticamente desde el almacenamiento en la nube a mi iPhone?" closed="true" %}}
+{{% ls-details title="¿Puedo sincronizar música automáticamente desde el almacenamiento en la nube a mi iPhone?" closed="true" %}}
 Sí. Activa el Modo sin conexión para cualquier carpeta, lista de reproducción, álbum o artista. La aplicación realiza una sincronización unidireccional de la nube al dispositivo en un intervalo configurable (por defecto: una vez al día).
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="¿El modo sin conexión usa mucho almacenamiento en mi dispositivo?" closed="true" %}}
+{{% ls-details title="¿El modo sin conexión usa mucho almacenamiento en mi dispositivo?" closed="true" %}}
 El uso de almacenamiento depende del tamaño de tu colección de música y los formatos de archivo. Puedes controlar esto eligiendo carpetas específicas para sincronizar, estableciendo límites de tamaño de caché y monitorizando el almacenamiento en los ajustes de la aplicación.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="¿Qué formatos de audio se soportan para reproducción sin conexión?" closed="true" %}}
+{{% ls-details title="¿Qué formatos de audio se soportan para reproducción sin conexión?" closed="true" %}}
 Evermusic y Flacbox soportan MP3, FLAC, AAC, ALAC, WAV, AIFF, OGG, WMA y muchos otros formatos. Flacbox está optimizado para formatos sin pérdida como FLAC y ALAC.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="¿Mi música sin conexión seguirá reproduciéndose si cierro la aplicación?" closed="true" %}}
+{{% ls-details title="¿Mi música sin conexión seguirá reproduciéndose si cierro la aplicación?" closed="true" %}}
 Sí. Los archivos descargados se almacenan localmente en tu dispositivo y se reproducen a través del reproductor de audio de la aplicación independientemente de la conectividad a internet. La reproducción en segundo plano es totalmente compatible.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="¿Cómo libero espacio ocupado por música sin conexión?" closed="true" %}}
+{{% ls-details title="¿Cómo libero espacio ocupado por música sin conexión?" closed="true" %}}
 Desactiva el Modo sin conexión para carpetas específicas en **Ajustes** > Gestor de archivos > **Carpetas offline sincronizadas**. Esto elimina las copias locales de tu dispositivo. También puedes limpiar la caché del reproductor de audio o eliminar manualmente los archivos descargados.
-{{% /details %}}
+{{% /ls-details %}}

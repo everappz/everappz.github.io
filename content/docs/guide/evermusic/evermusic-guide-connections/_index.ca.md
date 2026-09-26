@@ -17,7 +17,7 @@ A la pantalla de Connexions pots connectar cada font que contingui la teva músi
 La pantalla està dividida en seccions clarament etiquetades perquè escali des d'un únic compte d'iCloud Drive fins a una biblioteca distribuïda a través de múltiples núvols i dispositius NAS: Accés ràpid a la part superior (les teves carpetes al núvol favorites), Emmagatzematge al núvol (els comptes que has afegit), Xarxa local (dispositius descoberts via Bonjour), Ordinador (Wi-Fi Drive, compartició de fitxers iTunes, SMB), Accessoris externs (unitats flaix USB connectades) i Altres serveis (Last.fm i similars).
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Pantalla de Connexions d'Evermusic" image="/docs/guide/evermusic/evermusic-guide-connections/img/connect-main.webp" >}}
+  {{< ls-card title="" subtitle="Pantalla de Connexions d'Evermusic" image="/docs/guide/evermusic/evermusic-guide-connections/img/connect-main.webp" >}}
 {{< /cards >}}
 
 ## Connectar a l'emmagatzematge al núvol
@@ -29,7 +29,7 @@ La pantalla està dividida en seccions clarament etiquetades perquè escali des 
 - Toca Fet.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Selector de proveïdor d'emmagatzematge al núvol" image="/docs/guide/evermusic/evermusic-guide-connections/img/connect-add-storage.webp" >}}
+  {{< ls-card title="" subtitle="Selector de proveïdor d'emmagatzematge al núvol" image="/docs/guide/evermusic/evermusic-guide-connections/img/connect-add-storage.webp" >}}
 {{< /cards >}}
 
 Si trobes problemes, verifica la teva connexió a Internet i les credencials d'inici de sessió, i assegura't que l'autenticació de dos factors estigui configurada correctament per a aquest servei.  
@@ -70,7 +70,7 @@ També pots desconnectar els comptes al núvol connectats a l'aplicació i el te
   - **Desconnectar**: si vols trencar completament la connexió entre l'app i el servei al núvol, selecciona 'Desconnectar.' Tingues en compte que triar aquesta opció eliminarà totes les cançons associades a aquest servei al núvol de la biblioteca de música de l'app, però romandran al servidor.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Menú de més accions de l'emmagatzematge al núvol connectat" image="/docs/guide/evermusic/evermusic-guide-connections/img/connect-storage-more-actions.webp" >}}
+  {{< ls-card title="" subtitle="Menú de més accions de l'emmagatzematge al núvol connectat" image="/docs/guide/evermusic/evermusic-guide-connections/img/connect-storage-more-actions.webp" >}}
 {{< /cards >}}
 
 ## Connectar a l'ordinador o NAS
@@ -89,7 +89,7 @@ Si la connexió és satisfactòria, veuràs l'emmagatzematge connectat a la secc
 Un tutorial complet sobre com connectar el teu MAC o PC mitjançant SMB està disponible [aquí](/docs/howto/stream-your-music-from-mac-or-pc-to-iphone-using-smb/).
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Configuració de connexió SMB" image="/docs/guide/evermusic/evermusic-guide-connections/img/connect-smb-settings.webp" >}}
+  {{< ls-card title="" subtitle="Configuració de connexió SMB" image="/docs/guide/evermusic/evermusic-guide-connections/img/connect-smb-settings.webp" >}}
 {{< /cards >}}
 
 ## Connectar al NAS mitjançant WebDAV
@@ -99,7 +99,7 @@ L'URL ha de tenir el format http://server-name o https://server-name si el servi
 Un tutorial complet sobre com connectar NAS mitjançant el protocol WebDAV està disponible [aquí](/docs/howto/how-to-connect-nas-storage-using-webdav-and-listen-to-music-on-your-iphone-or-mac).
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Configuració de connexió WebDAV" image="/docs/guide/evermusic/evermusic-guide-connections/img/connect-webdav-settings.webp" >}}
+  {{< ls-card title="" subtitle="Configuració de connexió WebDAV" image="/docs/guide/evermusic/evermusic-guide-connections/img/connect-webdav-settings.webp" >}}
 {{< /cards >}}
 
 ## Connectar a l'ordinador o NAS mitjançant DLNA
@@ -107,7 +107,7 @@ Un tutorial complet sobre com connectar NAS mitjançant el protocol WebDAV està
 També pots compartir una biblioteca de música ubicada al teu Windows PC o NAS personal utilitzant el protocol DLNA i accedir a aquesta biblioteca a l'app tal com es descriu [aquí](/docs/howto/how-to-enable-dlna-media-server-on-windows-10-and-play-your-music-on-iphone). DLNA és un protocol popular i àmpliament utilitzat, però només permet reproduir o descarregar música. No pots pujar fitxers ni crear noves carpetes al servidor.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Configuració de connexió DLNA" image="/docs/guide/evermusic/evermusic-guide-connections/img/connect-dlna-settings.webp" >}}
+  {{< ls-card title="" subtitle="Configuració de connexió DLNA" image="/docs/guide/evermusic/evermusic-guide-connections/img/connect-dlna-settings.webp" >}}
 {{< /cards >}}
 
 ## Dispositius disponibles
@@ -120,7 +120,7 @@ Per establir una connexió amb un dispositiu, segueix aquests passos:
 - Si cal, introdueix les teves dades d'inici de sessió per completar la connexió.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Dispositius disponibles a la xarxa local" image="/docs/guide/evermusic/evermusic-guide-connections/img/connect-available-devices.webp" >}}
+  {{< ls-card title="" subtitle="Dispositius disponibles a la xarxa local" image="/docs/guide/evermusic/evermusic-guide-connections/img/connect-available-devices.webp" >}}
 {{< /cards >}}
 
 ## Wi-Fi Drive 
@@ -146,7 +146,7 @@ Un cop la pàgina web corresponent al teu dispositiu iOS s'obri al navegador, po
 Els fitxers que arrosseguis i deixis anar començaran a transferir-se al teu dispositiu iOS i seran accessibles dins de l'aplicació.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Configuració del servidor Wi-Fi Drive" image="/docs/guide/evermusic/evermusic-guide-connections/img/connect-wifidrive-settings.webp" >}}
+  {{< ls-card title="" subtitle="Configuració del servidor Wi-Fi Drive" image="/docs/guide/evermusic/evermusic-guide-connections/img/connect-wifidrive-settings.webp" >}}
 {{< /cards >}}
 
 Les instruccions detallades sobre com transferir fitxers sense fil mitjançant WiFi-Drive estan disponibles [aquí](/docs/howto/how-to-transfer-files-wirelessly-from-a-computer-to-an-iphone-using-wifi-drive).
@@ -162,7 +162,7 @@ La compartició de fitxers iTunes és una altra tecnologia que et permet transfe
 Les instruccions detallades sobre com usar la compartició de fitxers iTunes estan disponibles [aquí](/docs/howto/how-to-play-local-itunes-files-on-my-iphone/).
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Compartició de fitxers iTunes / Finder al Mac" image="/docs/guide/evermusic/evermusic-guide-connections/img/connect-itunes-file-sharing.webp" >}}
+  {{< ls-card title="" subtitle="Compartició de fitxers iTunes / Finder al Mac" image="/docs/guide/evermusic/evermusic-guide-connections/img/connect-itunes-file-sharing.webp" >}}
 {{< /cards >}}
 
 ## Connectar una targeta USB
@@ -183,7 +183,7 @@ La barra d'eines superior, convenientment ubicada sota la barra de navegació, o
 - **Reproduir aleatòriament**: Similar a "Reproduir tot", aquesta acció escaneja la carpeta actual i les seves subcarpetes però barreja els fitxers abans d'afegir-los a la cua del reproductor d'àudio. És una manera excel·lent de gaudir de la teva música en ordre aleatori per a una mica de varietat.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Barra d'eines superior dins d'una carpeta al núvol" image="/docs/guide/evermusic/evermusic-guide-connections/img/connect-top-toolbar.webp" >}}
+  {{< ls-card title="" subtitle="Barra d'eines superior dins d'una carpeta al núvol" image="/docs/guide/evermusic/evermusic-guide-connections/img/connect-top-toolbar.webp" >}}
 {{< /cards >}}
 
 ## Opcions de carpeta
@@ -200,7 +200,7 @@ Aquí tens un desglossament d'aquestes accions:
 - **Vista graella/llista**: Canvia entre dos modes de visualització: vista de taula i vista de miniatures. La vista de taula presenta els fitxers en una llista, mentre que la vista de miniatures mostra representacions visuals dels fitxers, facilitant identificar el contingut d'un cop d'ull.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Menú de més accions de la carpeta actual" image="/docs/guide/evermusic/evermusic-guide-connections/img/connect-folder-options.webp" >}}
+  {{< ls-card title="" subtitle="Menú de més accions de la carpeta actual" image="/docs/guide/evermusic/evermusic-guide-connections/img/connect-folder-options.webp" >}}
 {{< /cards >}}
 
 ## Editar fitxers en línia
@@ -212,7 +212,7 @@ Quan necessites gestionar múltiples fitxers dins del teu emmagatzematge al núv
 - **Realitza diverses accions**: Un cop hagis seleccionat els fitxers o carpetes que vols gestionar, tindràs accés a diverses accions adaptades a les teves necessitats:
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Mode de selecció per a fitxers en línia" image="/docs/guide/evermusic/evermusic-guide-connections/img/connect-selection-mode.webp" >}}
+  {{< ls-card title="" subtitle="Mode de selecció per a fitxers en línia" image="/docs/guide/evermusic/evermusic-guide-connections/img/connect-selection-mode.webp" >}}
 {{< /cards >}}
 
 ## Accions de fitxer
@@ -233,7 +233,7 @@ Toca'l per revelar una llista d'accions disponibles:
 - **Eliminar**: Procedeix amb precaució amb aquesta acció, ja que elimina permanentment el fitxer del teu emmagatzematge al núvol. Aquesta eliminació no es pot desfer.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Menú de més accions per a un sol fitxer" image="/docs/guide/evermusic/evermusic-guide-connections/img/connect-single-folder-more-options.webp" >}}
+  {{< ls-card title="" subtitle="Menú de més accions per a un sol fitxer" image="/docs/guide/evermusic/evermusic-guide-connections/img/connect-single-folder-more-options.webp" >}}
 {{< /cards >}}
 
 Si la llista d'accions supera l'espai disponible a la pantalla, simplement desplaça't cap avall dins del menú d'accions per accedir a opcions addicionals.

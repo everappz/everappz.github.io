@@ -19,7 +19,7 @@ readingTime: 11
 在 Flacbox 中管理音乐库非常简单，您可以轻松地将所有 FLAC、ALAC、DSD、MP3、M4A、OGG、WMA、APE 等数十种格式的曲目整理成一个可搜索的统一收藏。您有两种构建音乐库的方式：手动添加（您精确选择要添加的内容）或自动同步（Flacbox 扫描指定的云文件夹并在新文件出现时自动添加）。
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox 音乐库专辑视图" image="/docs/guide/flacbox/img/media-library-albums.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox 音乐库专辑视图" image="/docs/guide/flacbox/img/media-library-albums.webp" >}}
 {{< /cards >}}
 
 ## 手动添加
@@ -27,7 +27,7 @@ readingTime: 11
 要手动添加曲目，点击左上角的**添加音乐**图标，从连接的云存储服务或设备上的文件中选择文件夹或文件。向库中添加曲目时，只会创建指向这些曲目的链接——实际文件保留在原始位置以节省宝贵的磁盘空间。
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox 向音乐库添加歌曲" image="/docs/guide/flacbox/img/library-add-songs.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox 向音乐库添加歌曲" image="/docs/guide/flacbox/img/library-add-songs.webp" >}}
 {{< /cards >}}
 
 在 Mac 版本上，您还可以将文件拖放到库中，或在 iPhone 和 iPad 上使用系统文件选取器中的**打开文件…** / **打开文件夹…**。
@@ -89,7 +89,7 @@ readingTime: 11
 搜索功能让您可以在音乐库中找到特定曲目、艺术家、专辑或流派。
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox 音乐库搜索" image="/docs/guide/flacbox/img/media-library-search.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox 音乐库搜索" image="/docs/guide/flacbox/img/media-library-search.webp" >}}
 {{< /cards >}}
 
 ## 选项菜单
@@ -138,7 +138,7 @@ readingTime: 11
 - **独奏专辑** — 显示只有指定艺术家曲目出现的专辑。
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox 专辑详情屏幕" image="/docs/guide/flacbox/img/media-library-album-details-screen.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox 专辑详情屏幕" image="/docs/guide/flacbox/img/media-library-album-details-screen.webp" >}}
 {{< /cards >}}
 
 ## 设置

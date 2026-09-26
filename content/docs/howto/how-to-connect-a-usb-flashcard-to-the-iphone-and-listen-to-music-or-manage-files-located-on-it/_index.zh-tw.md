@@ -7,7 +7,7 @@ tags: ["音樂", "檔案", "usb", "快閃", "外部", "ixpand", "播放", "卡",
 readingTime: 2
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **摘要：** 使用Apple轉接器或SanDisk iXpand隨身碟將USB隨身碟或SD卡連接到iPhone，然後使用Evermusic、Flacbox或Evertag直接從外部儲存裝置瀏覽、播放和管理您的音訊檔案。
@@ -72,18 +72,18 @@ readingTime: 2
 
 ## 常見問題
 
-{{% details title="哪些USB轉接器適用於iPhone播放音樂？" closed="true" %}}
+{{% ls-details title="哪些USB轉接器適用於iPhone播放音樂？" closed="true" %}}
 Apple的Lightning to SD Card Camera Reader和Lightning to USB 3 Camera Adapter都可以使用。USB-C轉接器適用於配備USB-C連接埠的較新iPhone。SanDisk iXpand Flash隨身碟（V1-V7）也被Evermusic、Flacbox和Evertag原生支援。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="我可以直接從USB隨身碟播放音樂而不複製檔案嗎？" closed="true" %}}
+{{% ls-details title="我可以直接從USB隨身碟播放音樂而不複製檔案嗎？" closed="true" %}}
 可以。使用SanDisk iXpand隨身碟，您可以直接從隨身碟播放音樂而無需將檔案複製到iPhone。使用Apple轉接器時，檔案會被匯入，但您可以選擇是否將它們複製到本機儲存空間。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="USB隨身碟支援哪些音訊格式？" closed="true" %}}
+{{% ls-details title="USB隨身碟支援哪些音訊格式？" closed="true" %}}
 Evermusic和Flacbox支援多種格式，包括FLAC、MP3、AAC、WAV、ALAC、OGG、WMA等。從USB儲存裝置播放時，所有支援的格式都可以正常運作。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="我的SanDisk iXpand顯示「忙碌」錯誤。我該怎麼辦？" closed="true" %}}
+{{% ls-details title="我的SanDisk iXpand顯示「忙碌」錯誤。我該怎麼辦？" closed="true" %}}
 另一個應用程式可能正在存取隨身碟。關閉可能正在使用隨身碟的所有其他應用程式，或拔出後重新插入。然後重新開啟Evermusic、Flacbox或Evertag。
-{{% /details %}}
+{{% /ls-details %}}

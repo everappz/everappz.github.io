@@ -32,9 +32,9 @@ Each translated file is an EXACT copy of the English original with ONLY these te
 - Hero subtitle text inside `<strong>` tags
 - Hero paragraph bullet points (the text, not the `•` bullets)
 - Feature card `title="..."` and `subtitle=`...`` values
-- Section headline text (inside `{{< hextra/section-headline >}}...{{< /hextra/section-headline >}}`)
+- Section headline text (inside `{{< ls-section-headline >}}...{{< /ls-section-headline >}}`)
 - Product card `tag="..."` and `subtitle="..."` values
-- Info paragraph text (inside `{{< hextra/info-paragraph >}}...{{< /hextra/info-paragraph >}}`)
+- Info paragraph text (inside `{{< ls-info-paragraph >}}...{{< /ls-info-paragraph >}}`)
 - FAQ detail `title="..."` values and FAQ content text
 - Guide card `title="..."` and `subtitle="..."` values
 - Subscribe/contact paragraph text (keep markdown links intact)
@@ -80,10 +80,10 @@ The English posts follow a specific readability style. Preserve it in every tran
 ## What NOT to Translate or Modify
 
 ### Never Change
-- ALL `{{< rawhtml >}}...{{< /rawhtml >}}` blocks (CSS, JavaScript)
+- ALL `{{< ls-rawhtml >}}...{{< /ls-rawhtml >}}` blocks (CSS, JavaScript)
 - ALL `<style>...</style>` and `<script>...</script>` blocks
 - Shortcode names: `hextra/feature-card`, `hextra/hero-badge`, `hextra/section-headline`, `card`, `cards`, `lottie`, `force-dark`, `appstore-reviews`, `social-cards`, `author-byline`, `figure`, `app-details`, `app-store-badges`, etc.
-- The dynamic app card `{{< app-details product="..." >}}` (or `{{< app-details ids="..." >}}`) — keep it exactly as-is; it fetches live App Store data and has no translatable text
+- The dynamic app card `{{< ls-app-details product="..." >}}` (or `{{< ls-app-details ids="..." >}}`) — keep it exactly as-is; it fetches live App Store data and has no translatable text
 - Shortcode parameter NAMES: `title=`, `subtitle=`, `icon=`, `style=`, `link=`, `image=`, `method=`, `options=`, `imageStyle=`, `lottie=`, `lottieWidth=`, `apps=`, `stars=`, `cols=`, `border=`
 - Product names: EVERAPPZ, Evervideo, Evermusic, Flacbox, Evertag, Everdisk
 - CSS classes (anything with `hx:`, `hextra-`, etc.)
@@ -170,7 +170,7 @@ Hugo shortcode parameters and YAML frontmatter use ASCII double quotes `"` as de
 
 English:
 ```
-{{< hextra/feature-card
+{{< ls-glass-feature-card
     title="Built for You. Improved by You."
     subtitle=`We read all reviews and use your feedback to improve every update.`
     icon="code"
@@ -180,7 +180,7 @@ English:
 
 Spanish:
 ```
-{{< hextra/feature-card
+{{< ls-glass-feature-card
     title="Hecho para ti. Mejorado por ti."
     subtitle=`Leemos todas las reseñas y usamos tus comentarios para mejorar cada actualización.`
     icon="code"

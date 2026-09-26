@@ -12,7 +12,7 @@ authors:
     image: "/images/about/artem-meleshko-founder-everappz.webp"
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 ## Evermusic 3.1: Τι άλλαξε και γιατί έχει σημασία
 
@@ -89,22 +89,22 @@ authors:
 
 ## Συχνές ερωτήσεις
 
-{{% details title="Τι είναι η αναπαραγωγή crossfade στο Evermusic;" closed="true" %}}
+{{% ls-details title="Τι είναι η αναπαραγωγή crossfade στο Evermusic;" closed="true" %}}
 Η αναπαραγωγή crossfade αναμειγνύει το τέλος ενός κομματιού με την αρχή του επόμενου, δημιουργώντας ομαλές μεταβάσεις. Μπορείτε να ρυθμίσετε τη διάρκεια μεταξύ 3 και 15 δευτερολέπτων στο Settings → Audio Player → Crossfade Playback.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Μπορώ να δημιουργήσω αντίγραφο ασφαλείας των λιστών αναπαραγωγής του Evermusic στον αποθηκευτικό χώρο cloud;" closed="true" %}}
+{{% ls-details title="Μπορώ να δημιουργήσω αντίγραφο ασφαλείας των λιστών αναπαραγωγής του Evermusic στον αποθηκευτικό χώρο cloud;" closed="true" %}}
 Ναι. Το Evermusic 3.1 σας επιτρέπει να δημιουργήσετε αντίγραφο ασφαλείας ολόκληρης της βιβλιοθήκης σας — συμπεριλαμβανομένων λιστών αναπαραγωγής, μεταδεδομένων, εξωφύλλων και ρυθμίσεων — σε οποιαδήποτε συνδεδεμένη υπηρεσία cloud ως ένα μοναδικό αρχείο.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Υποστηρίζει το Evermusic περιήγηση στη βιβλιοθήκη iPod;" closed="true" %}}
+{{% ls-details title="Υποστηρίζει το Evermusic περιήγηση στη βιβλιοθήκη iPod;" closed="true" %}}
 Ναι. Μπορείτε να περιηγηθείτε στη βιβλιοθήκη iPod σας ανά λίστες αναπαραγωγής, άλμπουμ, καλλιτέχνες και είδη απευθείας από την αρχική οθόνη του Evermusic και να προσθέσετε κομμάτια στην ουρά σας.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Πώς μπορώ να διορθώσω λανθασμένες ετικέτες τραγουδιών στο Evermusic;" closed="true" %}}
+{{% ls-details title="Πώς μπορώ να διορθώσω λανθασμένες ετικέτες τραγουδιών στο Evermusic;" closed="true" %}}
 Χρησιμοποιήστε τον ενσωματωμένο Επεξεργαστή ετικετών και πατήστε τη δράση Αναγνώριση. Το Evermusic σαρώνει τα ονόματα αρχείων σας και ενημερώνει τις ετικέτες ID3 με διορθωμένα μεταδεδομένα αυτόματα.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Ποιες υπηρεσίες cloud υποστηρίζει το Evermusic;" closed="true" %}}
+{{% ls-details title="Ποιες υπηρεσίες cloud υποστηρίζει το Evermusic;" closed="true" %}}
 Το Evermusic λειτουργεί με Dropbox, Google Drive, OneDrive, MEGA, Box, Yandex.Disk, WebDAV, SMB/CIFS και διακομιστές FTP.
-{{% /details %}}
+{{% /ls-details %}}

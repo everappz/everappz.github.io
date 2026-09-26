@@ -23,7 +23,7 @@ authors:
     image: "/images/about/artem-meleshko-founder-everappz.webp"
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 ## Obtén datos de la App Store en segundos
 
@@ -134,53 +134,53 @@ No necesitas una clave de API, una cuenta de desarrollador ni un plan de pago pa
 AppLookup.pro es de código abierto. Los informes de errores, los nuevos países y los pull requests son bienvenidos.
 
 {{< cards cols="1" >}}
-  {{< card link="https://github.com/everappz/AppStoreLookup" title="AppLookup.pro en GitHub" icon="github" tag="código abierto" >}}
+  {{< ls-card link="https://github.com/everappz/AppStoreLookup" title="AppLookup.pro en GitHub" icon="github" tag="código abierto" >}}
 {{< /cards >}}
 
 ---
 
 ## Preguntas frecuentes
 
-{{% details title="¿AppLookup.pro es realmente gratis?" closed="true" %}}
+{{% ls-details title="¿AppLookup.pro es realmente gratis?" closed="true" %}}
 Sí. AppLookup.pro es 100 por cien gratis y de código abierto. Funciona en tu navegador. No hay registro, ni nivel de pago, ni límite de uso más allá de los propios límites de la API de búsqueda de iTunes de Apple.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="¿De dónde vienen los datos?" closed="true" %}}
+{{% ls-details title="¿De dónde vienen los datos?" closed="true" %}}
 Cada resultado se obtiene en tiempo real desde la [API oficial de búsqueda de iTunes](https://developer.apple.com/library/archive/documentation/AudioVideo/Conceptual/iTuneSearchAPI/index.html) de Apple. La herramienta no hace scraping de las páginas de la App Store y no guarda respuestas en ningún servidor.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="¿Puedo descargar el icono de la app en alta resolución?" closed="true" %}}
+{{% ls-details title="¿Puedo descargar el icono de la app en alta resolución?" closed="true" %}}
 Sí. La sección **App Icon** muestra todas las URLs de icono que devuelve Apple. Cada tarjeta tiene un Direct Link y un botón Download, y un botón Download All Icons ZIP los empaqueta todos en un único archivo.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="¿Puedo descargar todas las capturas de la App Store de una vez?" closed="true" %}}
+{{% ls-details title="¿Puedo descargar todas las capturas de la App Store de una vez?" closed="true" %}}
 Sí. Cada sección de capturas de pantalla (iPhone, iPad, macOS y Apple TV) tiene un botón **Download All (ZIP)** que reúne todas las capturas a resolución completa.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="¿Cómo veo cómo se muestra una app en otro país?" closed="true" %}}
+{{% ls-details title="¿Cómo veo cómo se muestra una app en otro país?" closed="true" %}}
 Elige un país en el desplegable de la parte superior de la página. Hay más de 40 tiendas compatibles. Haz clic en **Lookup** de nuevo y la herramienta vuelve a consultar la app para ese país, mostrando el título, descripción, capturas, novedades y precio localizados.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="¿Puedo copiar campos individuales como el bundle ID o la fecha de lanzamiento?" closed="true" %}}
+{{% ls-details title="¿Puedo copiar campos individuales como el bundle ID o la fecha de lanzamiento?" closed="true" %}}
 Sí. Cada campo de texto en el resultado tiene su propio botón Copy: nombre de la app, desarrollador, descripción, novedades, bundle ID, versión, precio, tamaño del archivo, SO mínimo, fecha de lanzamiento, clasificación de contenido, idiomas, dispositivos compatibles y JSON sin procesar.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="¿AppLookup.pro funciona con cualquier app de iOS?" closed="true" %}}
+{{% ls-details title="¿AppLookup.pro funciona con cualquier app de iOS?" closed="true" %}}
 Funciona con cualquier app que esté listada públicamente en al menos un país de la App Store y que devuelva la API de búsqueda de iTunes. Las apps no listadas, retiradas o de distribución empresarial no aparecerán.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="¿Admite apps de macOS y Apple TV?" closed="true" %}}
+{{% ls-details title="¿Admite apps de macOS y Apple TV?" closed="true" %}}
 Sí. Si la app tiene capturas de pantalla de macOS o Apple TV en la respuesta de la API de búsqueda de iTunes, AppLookup.pro las muestra en su propio panel desplazable con botones de descarga.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="¿Puedo usar el JSON sin procesar en mi propio código?" closed="true" %}}
+{{% ls-details title="¿Puedo usar el JSON sin procesar en mi propio código?" closed="true" %}}
 Sí. La sección Raw API Response muestra el JSON exacto que devuelve Apple. Cópialo en Postman, en un test unitario o en un pipeline de backend. Respeta los términos de la API de Apple y unos límites de tasa razonables.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="¿Es seguro pegar URLs de la App Store en la herramienta?" closed="true" %}}
+{{% ls-details title="¿Es seguro pegar URLs de la App Store en la herramienta?" closed="true" %}}
 Sí. La URL se analiza en tu navegador. La única llamada de red saliente es la consulta a la API de búsqueda de iTunes de Apple.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="¿Cuál es la diferencia entre AppLookup.pro y AppKeywords.pro?" closed="true" %}}
+{{% ls-details title="¿Cuál es la diferencia entre AppLookup.pro y AppKeywords.pro?" closed="true" %}}
 [AppLookup.pro](https://applookup.pro) sirve para leer los metadatos de la App Store de cualquier app publicada: investigación de competencia, descarga de recursos, comprobaciones de localización. [AppKeywords.pro](https://appkeywords.pro) sirve para escribir los metadatos de la App Store de tu propia app: optimización de título, subtítulo y palabras clave con soporte para Fastlane. Las dos herramientas funcionan muy bien juntas.
-{{% /details %}}
+{{% /ls-details %}}

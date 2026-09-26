@@ -12,7 +12,7 @@ authors:
     image: "/images/about/artem-meleshko-founder-everappz.webp"
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 ![](/blog/evermusic-stream-your-music-from-the-cloud-and-free-up-space-on-your-iphone-or-ipad/21260c_00c5356db3a24db6a6a37e353b774d56~mv2.jpg)
 
@@ -82,22 +82,22 @@ Sfoglia il tuo account cloud collegato, apri una cartella musicale e tocca un fi
 
 ## Domande frequenti
 
-{{% details title="Evermusic è gratuito?" closed="true" %}}
+{{% ls-details title="Evermusic è gratuito?" closed="true" %}}
 Evermusic è gratuito da scaricare con funzionalità premium opzionali. Lo streaming cloud di base e la riproduzione offline sono disponibili nella versione gratuita.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Quali servizi cloud supporta Evermusic?" closed="true" %}}
+{{% ls-details title="Quali servizi cloud supporta Evermusic?" closed="true" %}}
 Google Drive, Dropbox, Box, OneDrive, MediaFire, MEGA, Yandex.Disk, pCloud, HiDrive, MyDrive, condivisioni file SMB e server WebDAV.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Posso ascoltare musica offline con Evermusic?" closed="true" %}}
+{{% ls-details title="Posso ascoltare musica offline con Evermusic?" closed="true" %}}
 Sì. Scarica qualsiasi album, artista, playlist o singolo brano per la riproduzione offline direttamente nell'app.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Quali formati audio riproduce Evermusic?" closed="true" %}}
+{{% ls-details title="Quali formati audio riproduce Evermusic?" closed="true" %}}
 Evermusic supporta MP3, FLAC, AAC, WAV, ALAC, AIFF, OPUS, OGG e molti altri formati.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Ho ancora bisogno di iTunes per trasferire la musica?" closed="true" %}}
+{{% ls-details title="Ho ancora bisogno di iTunes per trasferire la musica?" closed="true" %}}
 No. Carica la tua musica su qualsiasi servizio cloud supportato dal tuo computer, poi ascoltala in streaming o scaricala tramite Evermusic sul tuo iPhone o iPad.
-{{% /details %}}
+{{% /ls-details %}}

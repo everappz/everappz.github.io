@@ -1,10 +1,11 @@
 ---
+excludeSearch: true
 date: '2025-06-12T17:00:00+00:00'
 title: 'Rólunk'
 description: 'Az Everappz S.L. egy spanyol szoftvercég, amely iOS és macOS alkalmazásokat fejleszt hang és videó lejátszáshoz. Az Evermusic (11M letöltés), Flacbox, EverTag, EverVideo készítői — világszerte több mint 14 millió letöltés.'
 ---
 
-{{< lottie src="/images/juicy-json/juicy-girl-and-guy-preparing-start-up-rocket-to-launch-with-ideas.json" width="65%" >}}
+{{< ls-lottie src="/images/juicy-json/juicy-girl-and-guy-preparing-start-up-rocket-to-launch-with-ideas.json" width="65%" >}}
 
 ## Kik vagyunk
 
@@ -35,7 +36,7 @@ Azért vagyunk itt, hogy továbbra is jobb szoftvereket készítsünk — egy á
 ### Artem Meleshko
 
 {{< cards cols="1" >}}
-  {{< card
+  {{< ls-card
     link="https://www.linkedin.com/in/artem-meleshko-s/"
     title="Artem Meleshko"
     tag="Alapító és mérnök"
@@ -60,7 +61,7 @@ Az Admiral Makarov Nemzeti Hajóépítési Egyetemen tanult, aktív nyílt forr�
 ### Anna Kosenko
 
 {{< cards cols="1" >}}
-  {{< card
+  {{< ls-card
     link="https://www.linkedin.com/in/anna-kosenko-kosenko/"
     title="Anna Kosenko"
     tag="Igazgató"
@@ -86,4 +87,4 @@ Köszönjük, hogy használja alkalmazásainkat és támogatja a független fejl
 
 Iratkozzon fel közösségi média csatornáinkra a legfrissebb hírekért, alkalmazásfrissítésekért, tippekért és hasznos információkért:
 
-{{< social-cards >}}
+{{< ls-social-cards >}}

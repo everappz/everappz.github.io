@@ -7,7 +7,7 @@ tags: ["Evermusic", "Reprodukcija bez pauza", "Upute", "Audio", "Reprodukcija", 
 readingTime: 4
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 **Ukratko:** Otvorite **Postavke > Audio player > Reprodukcija bez pauza** i uključite prekidač na **UKLJUČENO**. Od tada pjesme sviraju bez pauze, klika ili tiktaka između njih. Evermusic unaprijed pohranjuje u međuspremnik i dekodira sljedeću pjesmu dok trenutna još svira, a zatim predaje reprodukciju između audio uzoraka na neprekinutom međuspremniku, tako da je prijelaz uistinu besprijekoran. To je prava reprodukcija bez pauza, točna do razine uzorka, a ne pretapanje.
 
@@ -73,30 +73,30 @@ Rezultat je da live album, ritmički usklađen DJ set ili koncept ploča sviraju
 
 ## Česta pitanja
 
-{{% details title="Kako uključiti reprodukciju bez pauza u Evermusicu?" closed="true" %}}
+{{% ls-details title="Kako uključiti reprodukciju bez pauza u Evermusicu?" closed="true" %}}
 Otvorite Evermusic, idite na Postavke > Audio player > Reprodukcija bez pauza i uključite prekidač na UKLJUČENO. Prema zadanim postavkama je isključena. Nakon što je omogućite, primjenjuje se na sve što reproducirate i ostaje uključena dok je ne isključite.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Je li Evermusicova reprodukcija bez pauza prava gapless ili samo pretapanje?" closed="true" %}}
+{{% ls-details title="Je li Evermusicova reprodukcija bez pauza prava gapless ili samo pretapanje?" closed="true" %}}
 To je prava reprodukcija bez pauza, točna do razine uzorka. Evermusic dekodira i unaprijed pohranjuje u međuspremnik sljedeću pjesmu dok trenutna svira, a zatim predaje reprodukciju između audio uzoraka na neprekinutom međuspremniku, pa se ne umeće nikakva tišina, klik ili ispuna i ne nastaje pauza zbog ponovnog pokretanja dekodera. Pretapanje je zasebna, drukčija značajka koja preklapa i stapa pjesme; reprodukcija bez pauza čuva audio točno onako kako je masteriran i samo uklanja pauzu.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Zašto i dalje čujem pauzu između nekih pjesama?" closed="true" %}}
+{{% ls-details title="Zašto i dalje čujem pauzu između nekih pjesama?" closed="true" %}}
 Provjerite je li reprodukcija bez pauza UKLJUČENA u Postavke > Audio player > Reprodukcija bez pauza. Ako pauza i dalje postoji, možda je ugrađena u samu snimku (neke datoteke sadrže nekoliko sekundi stvarne tišine na početku ili kraju pjesme). Reprodukcija bez pauza uklanja pauzu koju bi player inače dodao između pjesama; ne može ukloniti tišinu koja je dio audio datoteke.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Radi li reprodukcija bez pauza s FLAC-om i drugim bezgubitnim datotekama?" closed="true" %}}
+{{% ls-details title="Radi li reprodukcija bez pauza s FLAC-om i drugim bezgubitnim datotekama?" closed="true" %}}
 Da. Reprodukcija bez pauza radi s FLAC-om, Apple Losslessom (ALAC) i gubitnim formatima poput MP3-a i AAC-a, bez obzira jesu li datoteke pohranjene lokalno, u oblaku ili na medijskom poslužitelju.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Mogu li istovremeno koristiti reprodukciju bez pauza i pretapanje?" closed="true" %}}
+{{% ls-details title="Mogu li istovremeno koristiti reprodukciju bez pauza i pretapanje?" closed="true" %}}
 Ne. Rade suprotne stvari, pa uključivanje reprodukcije bez pauza automatski onemogućuje pretapanje. Koristite reprodukciju bez pauza za live albume, DJ mixeve i koncept ploče gdje audio treba ostati točno očuvan; koristite pretapanje ako želite da se pjesme utapaju jedna u drugu.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Radi li reprodukcija bez pauza pri streamanju iz oblaka?" closed="true" %}}
+{{% ls-details title="Radi li reprodukcija bez pauza pri streamanju iz oblaka?" closed="true" %}}
 Da. Evermusic počinje ranije pohranjivati u međuspremnik i dekodirati sljedeću pjesmu, uključujući za pogone u oblaku i medijske poslužitelje, pa predaja ostaje besprijekorna. Na sporijim vezama jednostavno počinje pripremati sljedeću pjesmu malo ranije.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Smanjuje li reprodukcija bez pauza kvalitetu zvuka?" closed="true" %}}
+{{% ls-details title="Smanjuje li reprodukcija bez pauza kvalitetu zvuka?" closed="true" %}}
 Ne. Reprodukcija bez pauza ne kodira ponovno niti obrađuje vaš audio. Mijenja samo način na koji se pjesme raspoređuju i pohranjuju u međuspremnik tako da između njih nema pauze. Svaki se uzorak reproducira točno onako kako je u datoteci.
-{{% /details %}}
+{{% /ls-details %}}

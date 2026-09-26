@@ -12,7 +12,7 @@ authors:
     image: "/images/about/artem-meleshko-founder-everappz.webp"
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 **Összefoglalva:** A Flacbox túllépte az 1 millió letöltést világszerte. Támogatja a FLAC, ALAC, APE, DSD és más veszteségmentes formátumokat 10 sávos hangszínszabályzóval, M3U/CUE lejátszási listákkal, offline lejátszással és eszközök közötti szinkronizálással iPhone-on, iPaden és Macen.
 
@@ -78,26 +78,26 @@ A következő fejlesztések fókuszai:
 
 ## Gyakran ismételt kérdések
 
-{{% details title="Milyen audio formátumokat támogat a Flacbox?" closed="true" %}}
+{{% ls-details title="Milyen audio formátumokat támogat a Flacbox?" closed="true" %}}
 A Flacbox lejátszik FLAC, ALAC, APE, DSD, WavPack, TTA, RealAudio, MP3, AAC, OGG és sok más formátumot. Elsősorban veszteségmentes és hi-res hangzásra tervezték.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Van a Flacboxnak hangszínszabályzója?" closed="true" %}}
+{{% ls-details title="Van a Flacboxnak hangszínszabályzója?" closed="true" %}}
 Igen. A Flacbox 10 sávos hangszínszabályzót tartalmaz műfaj előbeállításokkal és kézi frekvencia beállítással.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Hallgathatok zenét offline a Flacbox-szal?" closed="true" %}}
+{{% ls-details title="Hallgathatok zenét offline a Flacbox-szal?" closed="true" %}}
 Igen. Tölts le fájlokat felhőtárhelyről vagy vidd át közvetlenül az alkalmazásba offline lejátszáshoz internetkapcsolat nélkül.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Működik a Flacbox Macen?" closed="true" %}}
+{{% ls-details title="Működik a Flacbox Macen?" closed="true" %}}
 Igen. A Flacbox fut iPhone-on, iPaden és Macen szinkronizált könyvtárakkal és lejátszási előzményekkel minden eszközön.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Mi az a CUE fájl támogatás?" closed="true" %}}
+{{% ls-details title="Mi az a CUE fájl támogatás?" closed="true" %}}
 A CUE fájlok meghatározzák a számhatárokat egyetlen hangfájlon belül. A Flacbox olvassa a CUE fájlokat, hogy album ripeket egyedi számokra ossza megfelelő metaadatokkal.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Ingyenes a Flacbox?" closed="true" %}}
+{{% ls-details title="Ingyenes a Flacbox?" closed="true" %}}
 A Flacbox ingyenesen letölthető opcionális prémium funkciókkal, amelyek alkalmazáson belüli vásárlással érhetők el.
-{{% /details %}}
+{{% /ls-details %}}

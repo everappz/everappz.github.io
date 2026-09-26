@@ -7,7 +7,7 @@ tags: ["müzik", "bulut", "yayın", "senkronizasyon", "icloud", "kütüphane"]
 keywords: ["iCloud müzik aktarma Evermusic", "Flacbox iCloud senkronizasyon", "Evermusic iCloud'dan yayın", "müzik kütüphanesi iOS uygulama", "Flacbox meta veri okuyucu", "iCloud müzik yayını iPhone"]
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **Özet:** Evermusic ve Flacbox'ta iCloud Drive müzik kütüphanenizi cihazınıza dosya indirmeden yayınlayabilirsiniz. Uygulamada iCloud Drive'ı bağlayın, kütüphanenizi oluşturmak için Çevrimiçi Müzik Senkronizasyonunu etkinleştirin, sanatçı/albüm/tür'e göre düzenlemek için meta veri okuyucuyu yapılandırın ve isteğe bağlı olarak internet olmadan dinlemek için albüm indirmek üzere Çevrimdışı Modu etkinleştirin. Bu adımlar Google Drive, Dropbox, OneDrive ve diğer desteklenen bulut hizmetleriyle de çalışır.
@@ -75,26 +75,26 @@ Bugün için bu kadar! Bu kılavuzun bulut sunucunuz ile cihazınız arasındaki
 
 ## SSS
 
-{{% details title="iPhone'uma dosya indirmeden iCloud müzik yayınlayabilir miyim?" closed="true" %}}
+{{% ls-details title="iPhone'uma dosya indirmeden iCloud müzik yayınlayabilir miyim?" closed="true" %}}
 Evet. iCloud Drive'ı bağladığınızda ve Çevrimiçi Müzik Senkronizasyonunu kullandığınızda, uygulama bulut dosyalarınıza bağlantılar oluşturur ve talep üzerine yayınlar. Çevrimdışı Modu açıkça etkinleştirmediğiniz sürece dosyalar indirilmez.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="iCloud müzik aktarımı neden yavaş?" closed="true" %}}
+{{% ls-details title="iCloud müzik aktarımı neden yavaş?" closed="true" %}}
 Yavaş aktarım genellikle büyük bir kütüphanede mobil bağlantı üzerinden meta veri okumasından kaynaklanır. Arka Plan Senkronizasyonunu etkinleştirin ve Mac versiyonunu kullanmayı düşünün.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Bu kılavuz iCloud dışındaki bulut hizmetleriyle çalışır mı?" closed="true" %}}
+{{% ls-details title="Bu kılavuz iCloud dışındaki bulut hizmetleriyle çalışır mı?" closed="true" %}}
 Evet. Aynı adımlar Google Drive, Dropbox, OneDrive, SMB, WebDAV ve desteklenen tüm diğer bulut hizmetleri için geçerlidir.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Müzik kütüphanemi Mac'ten iPhone'a nasıl aktarırım?" closed="true" %}}
+{{% ls-details title="Müzik kütüphanemi Mac'ten iPhone'a nasıl aktarırım?" closed="true" %}}
 Uygulama ayarlarındaki veri yedekleme/geri yükleme özelliğini kullanın. Mac versiyonunda senkronize edin, yedek oluşturun ve iOS versiyonunda geri yükleyin.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Meta veri okuyucu orijinal ses dosyalarımı değiştirir mi?" closed="true" %}}
+{{% ls-details title="Meta veri okuyucu orijinal ses dosyalarımı değiştirir mi?" closed="true" %}}
 Hayır. Meta veri okuyucu yalnızca müzik kütüphanesindeki görüntüleme bilgilerini günceller. Dosya etiketlerini düzenlemek için yerleşik etiket düzenleyicisini kullanın.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Albümleri çevrimdışı nasıl kullanılabilir yaparım?" closed="true" %}}
+{{% ls-details title="Albümleri çevrimdışı nasıl kullanılabilir yaparım?" closed="true" %}}
 **Daha fazla eylem**'e dokunun ve **Çevrimdışı modu etkinleştirmek**'i seçin. Uygulama tüm dosyaları indirir ve bulut versiyonuyla otomatik olarak senkronize tutar.
-{{% /details %}}
+{{% /ls-details %}}

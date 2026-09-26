@@ -17,7 +17,7 @@ Sur l'écran Connexions, vous pouvez connecter toutes les sources contenant votr
 L'écran est divisé en sections clairement étiquetées pour s'adapter d'un seul compte iCloud Drive à une bibliothèque répartie sur plusieurs clouds et NAS : Accès rapide en haut (vos dossiers cloud favoris), Stockage cloud (les comptes que vous avez ajoutés), Réseau local (appareils découverts par Bonjour), Ordinateur (Wi-Fi Drive, iTunes File Sharing, SMB), Accessoires externes (clés USB connectées) et Autres services (Last.fm et similaires).
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Écran Connexions d'Evermusic" image="/docs/guide/evermusic/evermusic-guide-connections/img/connect-main.webp" >}}
+  {{< ls-card title="" subtitle="Écran Connexions d'Evermusic" image="/docs/guide/evermusic/evermusic-guide-connections/img/connect-main.webp" >}}
 {{< /cards >}}
 
 ## Se connecter au stockage cloud
@@ -29,7 +29,7 @@ L'écran est divisé en sections clairement étiquetées pour s'adapter d'un seu
 - Appuyez sur Terminé.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Sélecteur de fournisseur de stockage cloud" image="/docs/guide/evermusic/evermusic-guide-connections/img/connect-add-storage.webp" >}}
+  {{< ls-card title="" subtitle="Sélecteur de fournisseur de stockage cloud" image="/docs/guide/evermusic/evermusic-guide-connections/img/connect-add-storage.webp" >}}
 {{< /cards >}}
 
 Si vous rencontrez des problèmes, vérifiez votre connexion Internet et vos identifiants, et assurez-vous que l'authentification à deux facteurs est correctement configurée pour ce service.  
@@ -70,7 +70,7 @@ Vous pouvez également déconnecter les comptes cloud connectés dans l'applicat
   - **Se déconnecter** : si vous souhaitez couper complètement la connexion entre l'application et le service cloud, sélectionnez 'Se déconnecter'. Sachez que cette option supprimera toutes les chansons associées à ce service cloud de la bibliothèque musicale de l'application, mais elles resteront sur le serveur.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Menu Plus d'actions pour le stockage cloud connecté" image="/docs/guide/evermusic/evermusic-guide-connections/img/connect-storage-more-actions.webp" >}}
+  {{< ls-card title="" subtitle="Menu Plus d'actions pour le stockage cloud connecté" image="/docs/guide/evermusic/evermusic-guide-connections/img/connect-storage-more-actions.webp" >}}
 {{< /cards >}}
 
 ## Se connecter à un ordinateur ou un NAS
@@ -89,7 +89,7 @@ Si votre connexion est réussie, vous verrez le stockage connecté dans la secti
 Un tutoriel complet sur la façon de connecter votre Mac ou PC via SMB est disponible [ici](/docs/howto/stream-your-music-from-mac-or-pc-to-iphone-using-smb/).
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Paramètres de connexion SMB" image="/docs/guide/evermusic/evermusic-guide-connections/img/connect-smb-settings.webp" >}}
+  {{< ls-card title="" subtitle="Paramètres de connexion SMB" image="/docs/guide/evermusic/evermusic-guide-connections/img/connect-smb-settings.webp" >}}
 {{< /cards >}}
 
 ## Se connecter à un NAS via WebDAV
@@ -99,7 +99,7 @@ L'URL doit être au format http://nom-serveur, ou https://nom-serveur si le serv
 Un tutoriel complet sur la connexion d'un NAS via le protocole WebDAV est disponible [ici](/docs/howto/how-to-connect-nas-storage-using-webdav-and-listen-to-music-on-your-iphone-or-mac).
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Paramètres de connexion WebDAV" image="/docs/guide/evermusic/evermusic-guide-connections/img/connect-webdav-settings.webp" >}}
+  {{< ls-card title="" subtitle="Paramètres de connexion WebDAV" image="/docs/guide/evermusic/evermusic-guide-connections/img/connect-webdav-settings.webp" >}}
 {{< /cards >}}
 
 ## Se connecter à un ordinateur ou NAS via DLNA
@@ -107,7 +107,7 @@ Un tutoriel complet sur la connexion d'un NAS via le protocole WebDAV est dispon
 Vous pouvez également partager une bibliothèque musicale sur votre PC Windows ou NAS personnel en utilisant le protocole DLNA et accéder à cette bibliothèque dans l'application comme décrit [ici](/docs/howto/how-to-enable-dlna-media-server-on-windows-10-and-play-your-music-on-iphone). DLNA est un protocole populaire et largement utilisé, mais il vous permet uniquement de lire ou de télécharger de la musique. Vous ne pouvez pas téléverser des fichiers ni créer de nouveaux dossiers sur le serveur.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Paramètres de connexion DLNA" image="/docs/guide/evermusic/evermusic-guide-connections/img/connect-dlna-settings.webp" >}}
+  {{< ls-card title="" subtitle="Paramètres de connexion DLNA" image="/docs/guide/evermusic/evermusic-guide-connections/img/connect-dlna-settings.webp" >}}
 {{< /cards >}}
 
 ## Appareils disponibles
@@ -120,7 +120,7 @@ Pour établir une connexion avec un appareil, suivez ces étapes :
 - Si nécessaire, entrez vos identifiants de connexion pour compléter la connexion.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Appareils disponibles sur le réseau local" image="/docs/guide/evermusic/evermusic-guide-connections/img/connect-available-devices.webp" >}}
+  {{< ls-card title="" subtitle="Appareils disponibles sur le réseau local" image="/docs/guide/evermusic/evermusic-guide-connections/img/connect-available-devices.webp" >}}
 {{< /cards >}}
 
 ## Wi-Fi Drive
@@ -146,7 +146,7 @@ Une fois que la page web correspondant à votre appareil iOS s'ouvre dans le nav
 Les fichiers que vous glissez-déposez commenceront à être transférés vers votre appareil iOS et seront accessibles dans l'application.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Paramètres du serveur Wi-Fi Drive" image="/docs/guide/evermusic/evermusic-guide-connections/img/connect-wifidrive-settings.webp" >}}
+  {{< ls-card title="" subtitle="Paramètres du serveur Wi-Fi Drive" image="/docs/guide/evermusic/evermusic-guide-connections/img/connect-wifidrive-settings.webp" >}}
 {{< /cards >}}
 
 Des instructions détaillées sur la façon de transférer des fichiers sans fil via WiFi-Drive sont disponibles [ici](/docs/howto/how-to-transfer-files-wirelessly-from-a-computer-to-an-iphone-using-wifi-drive).
@@ -162,7 +162,7 @@ iTunes File Sharing est une autre technologie qui vous permet de transférer des
 Des instructions détaillées sur l'utilisation du partage de fichiers iTunes sont disponibles [ici](/docs/howto/how-to-play-local-itunes-files-on-my-iphone/).
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="iTunes / Finder File Sharing sur Mac" image="/docs/guide/evermusic/evermusic-guide-connections/img/connect-itunes-file-sharing.webp" >}}
+  {{< ls-card title="" subtitle="iTunes / Finder File Sharing sur Mac" image="/docs/guide/evermusic/evermusic-guide-connections/img/connect-itunes-file-sharing.webp" >}}
 {{< /cards >}}
 
 ## Connecter une clé USB
@@ -183,7 +183,7 @@ La barre d'outils supérieure, pratiquement située sous la barre de navigation,
 - **Lecture aléatoire** : similaire à « Tout lire », cette action analyse le dossier actuel et ses sous-dossiers mais mélange les fichiers avant de les ajouter à la file d'attente du lecteur audio. C'est une excellente façon de profiter de votre musique dans un ordre aléatoire pour un peu de variété.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Barre d'outils supérieure dans un dossier cloud" image="/docs/guide/evermusic/evermusic-guide-connections/img/connect-top-toolbar.webp" >}}
+  {{< ls-card title="" subtitle="Barre d'outils supérieure dans un dossier cloud" image="/docs/guide/evermusic/evermusic-guide-connections/img/connect-top-toolbar.webp" >}}
 {{< /cards >}}
 
 ## Options du dossier
@@ -200,7 +200,7 @@ Voici une description de ces actions :
 - **Vue grille/liste** : basculez entre deux modes d'affichage : vue tableau et vue miniature. La vue tableau présente les fichiers sous forme de liste, tandis que la vue miniature affiche des représentations visuelles des fichiers, facilitant l'identification du contenu en un coup d'œil.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Menu Plus d'actions pour le dossier actuel" image="/docs/guide/evermusic/evermusic-guide-connections/img/connect-folder-options.webp" >}}
+  {{< ls-card title="" subtitle="Menu Plus d'actions pour le dossier actuel" image="/docs/guide/evermusic/evermusic-guide-connections/img/connect-folder-options.webp" >}}
 {{< /cards >}}
 
 ## Modifier les fichiers en ligne
@@ -212,7 +212,7 @@ Lorsque vous avez besoin de gérer plusieurs fichiers dans votre stockage cloud 
 - **Effectuer diverses actions** : une fois que vous avez sélectionné les fichiers ou dossiers à gérer, vous aurez accès à plusieurs actions adaptées à vos besoins.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Mode de sélection pour les fichiers en ligne" image="/docs/guide/evermusic/evermusic-guide-connections/img/connect-selection-mode.webp" >}}
+  {{< ls-card title="" subtitle="Mode de sélection pour les fichiers en ligne" image="/docs/guide/evermusic/evermusic-guide-connections/img/connect-selection-mode.webp" >}}
 {{< /cards >}}
 
 ## Actions sur les fichiers
@@ -233,7 +233,7 @@ Appuyez dessus pour révéler une liste d'actions disponibles :
 - **Supprimer** : soyez prudent avec cette action, car elle supprime définitivement le fichier de votre stockage cloud. Cette suppression ne peut pas être annulée.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Menu Plus d'actions pour un seul fichier" image="/docs/guide/evermusic/evermusic-guide-connections/img/connect-single-folder-more-options.webp" >}}
+  {{< ls-card title="" subtitle="Menu Plus d'actions pour un seul fichier" image="/docs/guide/evermusic/evermusic-guide-connections/img/connect-single-folder-more-options.webp" >}}
 {{< /cards >}}
 
 Si la liste des actions dépasse l'espace disponible à l'écran, faites simplement défiler vers le bas dans le menu des actions pour accéder aux options supplémentaires.

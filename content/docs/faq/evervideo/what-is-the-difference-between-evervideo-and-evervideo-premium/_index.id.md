@@ -11,7 +11,7 @@ readingTime: 3
 Evervideo menawarkan versi gratis dengan batasan penggunaan tertentu dan versi premium dengan fitur tambahan, yang dapat dibuka melalui pembelian dalam aplikasi.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Layar Upgrade Paket Default" image="/docs/faq/evervideo/what-is-the-difference-between-evervideo-and-evervideo-premium/upgrade-default.webp" >}}
+  {{< ls-card title="" subtitle="Layar Upgrade Paket Default" image="/docs/faq/evervideo/what-is-the-difference-between-evervideo-and-evervideo-premium/upgrade-default.webp" >}}
 {{< /cards >}}
 
 ## Pilih Paket Premium Anda
@@ -19,7 +19,7 @@ Evervideo menawarkan versi gratis dengan batasan penggunaan tertentu dan versi p
 Versi gratis aplikasi menawarkan pembelian dalam aplikasi seumur hidup sekali bayar dan dua opsi berlangganan (1 bulan dan 1 tahun) untuk menghapus semua batasan dan meningkatkan ke versi Premium, memungkinkan Anda memilih harga terbaik dan paling optimal untuk Anda. Harga mungkin bervariasi tergantung pada negara atau wilayah Anda. Juga, harap diingat bahwa **Family Sharing** diaktifkan untuk semua pembelian dan paket, sehingga Anda dapat berbagi versi Premium dengan anggota keluarga Anda.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Layar Pemilihan Paket Evervideo" image="/docs/faq/evervideo/what-is-the-difference-between-evervideo-and-evervideo-premium/plan-select.webp" >}}
+  {{< ls-card title="" subtitle="Layar Pemilihan Paket Evervideo" image="/docs/faq/evervideo/what-is-the-difference-between-evervideo-and-evervideo-premium/plan-select.webp" >}}
 {{< /cards >}}
 
 ## Berbagi Pembelian Antara iOS dan Mac
@@ -31,13 +31,13 @@ Anda juga dapat mencoba menekan tombol "Pulihkan Pembelian" di pengaturan aplika
 Untuk memulihkan pembelian Anda di perangkat baru, cukup gunakan menu "Pulihkan pembelian". Anda akan melihat daftar pembelian Anda. Jika Anda tidak melihat semua pembelian, periksa apakah perangkat terhubung ke akun iTunes yang sama yang digunakan untuk melakukan pembelian, dan pastikan iCloud diaktifkan.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Layar Pembelian Dipulihkan" image="/docs/faq/evervideo/what-is-the-difference-between-evervideo-and-evervideo-premium/purchase-restored.webp" >}}
+  {{< ls-card title="" subtitle="Layar Pembelian Dipulihkan" image="/docs/faq/evervideo/what-is-the-difference-between-evervideo-and-evervideo-premium/purchase-restored.webp" >}}
 {{< /cards >}}
 
 Setelah Anda meningkatkan aplikasi, Anda akan melihat layar status Premium dengan detail pembelian Anda saat ini.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Anda Menggunakan Layar Premium" image="/docs/faq/evervideo/what-is-the-difference-between-evervideo-and-evervideo-premium/you-are-using-premium.webp" >}}
+  {{< ls-card title="" subtitle="Anda Menggunakan Layar Premium" image="/docs/faq/evervideo/what-is-the-difference-between-evervideo-and-evervideo-premium/you-are-using-premium.webp" >}}
 {{< /cards >}}
 
 ## Coba Premium Gratis
@@ -45,7 +45,7 @@ Setelah Anda meningkatkan aplikasi, Anda akan melihat layar status Premium denga
 Selain itu, ada kesempatan terbatas waktu untuk "**Coba Premium Gratis**". Anda dapat mengakses fitur ini melalui menu "Coba Premium Gratis". Dengan hanya menonton iklan atau menyebarkan informasi tentang aplikasi kepada teman-teman Anda, Anda dapat membuka kunci versi Premium secara gratis selama periode promosi ini. Ini memberi Anda kesempatan untuk merasakan fitur premium tanpa komitmen finansial.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Layar Coba Premium Gratis" image="/docs/faq/evervideo/what-is-the-difference-between-evervideo-and-evervideo-premium/premium-for-free.webp" >}}
+  {{< ls-card title="" subtitle="Layar Coba Premium Gratis" image="/docs/faq/evervideo/what-is-the-difference-between-evervideo-and-evervideo-premium/premium-for-free.webp" >}}
 {{< /cards >}}
 
 ## Evervideo Gratis
@@ -62,7 +62,7 @@ Selain itu, ada kesempatan terbatas waktu untuk "**Coba Premium Gratis**". Anda 
 - Tidak ada opsi kustomisasi atau personalisasi.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Layar Upgrade Penyimpanan Cloud" image="/docs/faq/evervideo/what-is-the-difference-between-evervideo-and-evervideo-premium/upgrade-cloud-storage.webp" >}}
+  {{< ls-card title="" subtitle="Layar Upgrade Penyimpanan Cloud" image="/docs/faq/evervideo/what-is-the-difference-between-evervideo-and-evervideo-premium/upgrade-cloud-storage.webp" >}}
 {{< /cards >}}
 
 ## Evervideo Premium
@@ -106,7 +106,7 @@ Jika Anda baru memulai atau hanya memerlukan fitur pemutaran video dasar, **Ever
 Di sisi lain, **Evervideo Premium** membuka pengalaman penuh. Anda akan menikmati antarmuka bebas iklan, dukungan daftar putar dan antrean tanpa batas, fungsionalitas offline penuh, fleksibilitas cloud, serta opsi ekspor dan personalisasi lanjutan. Ini adalah pilihan terbaik untuk pengguna dengan perpustakaan video besar, mereka yang menonton konten dari berbagai sumber, atau siapa pun yang mencari pemutar media yang lebih profesional dan mulus.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Layar Anda Telah Membeli Premium" image="/docs/faq/evervideo/what-is-the-difference-between-evervideo-and-evervideo-premium/you-have-purchased-premium.webp" >}}
+  {{< ls-card title="" subtitle="Layar Anda Telah Membeli Premium" image="/docs/faq/evervideo/what-is-the-difference-between-evervideo-and-evervideo-premium/you-have-purchased-premium.webp" >}}
 {{< /cards >}}
 
 Jika Anda mencari fleksibilitas, coba **paket bulanan**. Untuk nilai jangka panjang, pilih upgrade **tahunan** atau **seumur hidup** — keduanya menawarkan akses penuh dengan harga lebih baik.

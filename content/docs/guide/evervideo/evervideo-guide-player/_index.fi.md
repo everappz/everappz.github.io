@@ -31,7 +31,7 @@ Pääset koko näytön soittimeen kompaktin soitinpalkin kautta. iPhonella kompa
 Kompakti soitin pysyy näkyvissä samalla kun selaat kirjastoasi, tiedostohallintaasi tai asetuksiasi, joten et koskaan menetä videotasi seuraavaa etsiessäsi.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evervideo koko näytön mediasoitin" image="/docs/guide/evervideo/img/evervideo-media-player-fullscreen.webp" >}}
+  {{< ls-card title="" subtitle="Evervideo koko näytön mediasoitin" image="/docs/guide/evervideo/img/evervideo-media-player-fullscreen.webp" >}}
 {{< /cards >}}
 
 ## Tuetut Video- ja Ääniformaatit
@@ -72,7 +72,7 @@ PiP toimii kaikilla videoformaateilla, joita Evervideo toistaa, mukaan lukien pi
 Kompakti soitin on pysyvä mini-soitin, joka pysyy näkyvissä jokaisen sovelluksen näytön yläosassa samalla kun selaat kirjastoa, tiedostohallintaa tai asetuksia. Napauta sitä laajentaaksesi koko näytön soittimeksi; pyyhkäise alas supistaaksesi sen takaisin.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evervideo Videoasetukset kompaktista soittimesta päänäytöllä" image="/docs/guide/evervideo/img/evervideo-video-settings-from-compact-player-view-on-the-main-screen.webp" >}}
+  {{< ls-card title="" subtitle="Evervideo Videoasetukset kompaktista soittimesta päänäytöllä" image="/docs/guide/evervideo/img/evervideo-video-settings-from-compact-player-view-on-the-main-screen.webp" >}}
 {{< /cards >}}
 
 ## AirPlay 2
@@ -115,7 +115,7 @@ Evervideo sisältää täyden äänentaajuuskorjaimen videon ääniraitojen viri
 Kuvan virittämistä varten Evervideo tarjoaa erillisen videotaajuuskorjaimen — säädä kirkkautta, kontrastia, kylläisyyttä ja värisävyä reaaliajassa toiston aikana. Kuten äänentaajuuskorjain, mukautettuja videoesiasemuksia voidaan viedä ja tuoda jakamista tai varmuuskopiointia varten. Käytä sitä tumman kohtauksen kirkastamiseen aurinkoisena päivänä, kylläisyyden lisäämiseen haalistuneessa sisällössä tai kylmän värisävyn lämmittämiseen.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evervideo videotaajuuskorjain" image="/docs/guide/evervideo/img/evervideo-video-equalizer.webp" >}}
+  {{< ls-card title="" subtitle="Evervideo videotaajuuskorjain" image="/docs/guide/evervideo/img/evervideo-video-equalizer.webp" >}}
 {{< /cards >}}
 
 ## Videon Skaalausmoodi
@@ -144,7 +144,7 @@ Evervideo sisältää VR / 360° -näkymän sfäärisiä videotiedostoja varten.
 Napauta Nopeus-säätöä soittimen työkalupalkissa muuttaaksesi toistonopeutta — hidasta analyysia varten (0,25× tai 0,5×) tai nopeuta opaskirjojen ja luentojen osalta (1,25×, 1,5×, 2× ja jopa 3×). Napauta asetuskuvaketta Nopeus-näytön oikeassa yläkulmassa siirtyäksesi tarkkaan tilaan hienommilla säädöillä. Myös raitakohtainen sävelkorjaus on saatavilla.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evervideo toistonopeus päätyökalupalkissa" image="/docs/guide/evervideo/img/evervideo-media-player-playback-speed-on-main-toolbar.webp" >}}
+  {{< ls-card title="" subtitle="Evervideo toistonopeus päätyökalupalkissa" image="/docs/guide/evervideo/img/evervideo-media-player-playback-speed-on-main-toolbar.webp" >}}
 {{< /cards >}}
 
 ## Soittimen Jono
@@ -152,7 +152,7 @@ Napauta Nopeus-säätöä soittimen työkalupalkissa muuttaaksesi toistonopeutta
 Nähdäksesi soittimen jonon, napauta jono-painiketta soittimessa. Jokaisella jonossa olevalla videolla on lisää toimintoja — napauta kolmea pistettä nähdäksesi ne. Videoa uudelleenjärjestääksesi jonossa käytä otsikon lähellä olevaa järjestämisohjainta ja vedä se uuteen sijaintiin.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evervideo toistojono" image="/docs/guide/evervideo/img/evervideo-playback-queue.webp" >}}
+  {{< ls-card title="" subtitle="Evervideo toistojono" image="/docs/guide/evervideo/img/evervideo-playback-queue.webp" >}}
 {{< /cards >}}
 
 ## Uniajastin
@@ -189,7 +189,7 @@ Napauta soittimen Lisää toimintoja "..." -painiketta päästäksesi lisätoimi
 - **Ohje** — avaa opaskirja.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evervideo soittimen lisää toimintoja -näyttö" image="/docs/guide/evervideo/img/evervideo-media-player-more-actions.webp" >}}
+  {{< ls-card title="" subtitle="Evervideo soittimen lisää toimintoja -näyttö" image="/docs/guide/evervideo/img/evervideo-media-player-more-actions.webp" >}}
 {{< /cards >}}
 
 ## Soittimen Asetukset

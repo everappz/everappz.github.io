@@ -12,7 +12,7 @@ authors:
     image: "/images/about/artem-meleshko-founder-everappz.webp"
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 **Samenvatting:** Evermusic heeft de grens van 11 miljoen downloads wereldwijd overschreden. Belangrijkste functies zijn een 10-bands equalizer, offline afspelen, iCloud Drive-streaming, ondersteuning voor 10+ clouddiensten, synchronisatie tussen apparaten en een ingebouwde ID3-tag-editor.
 
@@ -70,22 +70,22 @@ Evermusic is gebouwd voor iedereen die muziek opslaat in de cloud of op lokale o
 
 ## FAQ
 
-{{% details title="Welke audioformaten ondersteunt Evermusic?" closed="true" %}}
+{{% ls-details title="Welke audioformaten ondersteunt Evermusic?" closed="true" %}}
 Evermusic speelt MP3, FLAC, WAV, AAC, M4A, AIFF, OGG, WMA en andere populaire audioformaten af.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Kan ik Evermusic gebruiken zonder internetverbinding?" closed="true" %}}
+{{% ls-details title="Kan ik Evermusic gebruiken zonder internetverbinding?" closed="true" %}}
 Ja. Download nummers vanuit je cloudopslag voor offline afspelen. Eenmaal gedownload is er geen internet nodig.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Werkt Evermusic op Mac?" closed="true" %}}
+{{% ls-details title="Werkt Evermusic op Mac?" closed="true" %}}
 Ja. Evermusic is beschikbaar op zowel iOS (iPhone/iPad) als macOS, met bibliotheeksynchronisatie op alle apparaten.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Is Evermusic gratis te downloaden?" closed="true" %}}
+{{% ls-details title="Is Evermusic gratis te downloaden?" closed="true" %}}
 Ja. Evermusic is gratis te downloaden met optionele premiumfuncties beschikbaar via in-app aankoop.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Hoe werkt iCloud Drive-streaming in Evermusic?" closed="true" %}}
+{{% ls-details title="Hoe werkt iCloud Drive-streaming in Evermusic?" closed="true" %}}
 Verbind je iCloud Drive-account in de app, blader door je muziekbestanden en tik om af te spelen. Nummers worden direct gestreamd zonder eerst te hoeven downloaden.
-{{% /details %}}
+{{% /ls-details %}}

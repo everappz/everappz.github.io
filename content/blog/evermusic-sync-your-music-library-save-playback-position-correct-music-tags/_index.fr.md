@@ -12,7 +12,7 @@ authors:
     image: "/images/about/artem-meleshko-founder-everappz.webp"
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 ![](/blog/evermusic-sync-your-music-library-save-playback-position-correct-music-tags/21260c_641f376e779e47d4927b43c210d3c87f~mv2.jpeg)
 
@@ -67,22 +67,22 @@ Evermusic détecte et corrige les tags ID3 invalides ou incomplets en utilisant 
 
 ## Questions fréquemment posées
 
-{{% details title="La synchronisation automatique d'Evermusic fonctionne-t-elle avec tous les services cloud ?" closed="true" %}}
+{{% ls-details title="La synchronisation automatique d'Evermusic fonctionne-t-elle avec tous les services cloud ?" closed="true" %}}
 Oui. La synchronisation automatique fonctionne avec Dropbox, Google Drive, OneDrive, MEGA, WebDAV et SMB. Sélectionnez les dossiers à surveiller et Evermusic maintient votre bibliothèque à jour.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Evermusic peut-il sauvegarder ma position dans un livre audio ?" closed="true" %}}
+{{% ls-details title="Evermusic peut-il sauvegarder ma position dans un livre audio ?" closed="true" %}}
 Oui. Activez la sauvegarde de la position de lecture dans les paramètres audio. Evermusic se souvient où vous vous êtes arrêté pour chaque fichier, vous permettant de reprendre sans signets manuels.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Comment fonctionne la lecture des métadonnées en arrière-plan ?" closed="true" %}}
+{{% ls-details title="Comment fonctionne la lecture des métadonnées en arrière-plan ?" closed="true" %}}
 Evermusic lit les tags ID3 et les métadonnées des fichiers en arrière-plan pendant que vous utilisez d'autres fonctionnalités. Il organise automatiquement votre bibliothèque par Artiste, Album et Genre.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Evermusic corrigera-t-il mes tags musicaux défectueux ?" closed="true" %}}
+{{% ls-details title="Evermusic corrigera-t-il mes tags musicaux défectueux ?" closed="true" %}}
 Oui. La fonction de correction automatique des tags vérifie vos fichiers dans des bases de données en ligne et corrige les métadonnées ID3 invalides, incomplètes ou manquantes.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Evermusic est-il gratuit à télécharger ?" closed="true" %}}
+{{% ls-details title="Evermusic est-il gratuit à télécharger ?" closed="true" %}}
 Evermusic est gratuit à télécharger avec des fonctionnalités premium optionnelles disponibles via achat intégré.
-{{% /details %}}
+{{% /ls-details %}}

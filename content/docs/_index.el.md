@@ -4,7 +4,9 @@ title: 'Τεκμηρίωση'
 ---
 
 
-{{< lottie src="/images/juicy-json/juicy-girl-and-boy-searching-for-the-right-files.json" width="90%" >}}
+{{< ls-lottie src="/images/juicy-json/juicy-girl-and-boy-searching-for-the-right-files.json" width="90%" >}}
+
+{{< ls-docs-search >}}
 
 Αυτή η ενότητα περιλαμβάνει χρήσιμη τεκμηρίωση για όλες τις εφαρμογές Everappz — συμπεριλαμβανομένων οδηγιών εγκατάστασης, επεξηγήσεων λειτουργιών και προχωρημένων συμβουλών.
 
@@ -13,9 +15,9 @@ title: 'Τεκμηρίωση'
 ## Ξεκινήστε
 
 {{< cards >}}
-  {{< card icon="book-open" link="/docs/guide" title="Οδηγός χρήστη" >}}
-  {{< card icon="question-mark-circle" link="/docs/faq" title="Συχνές ερωτήσεις" >}}
-  {{< card icon="light-bulb" link="/docs/howto" title="Οδηγίες χρήσης" >}}
+  {{< ls-card icon="book-open" link="/docs/guide" title="Οδηγός χρήστη" >}}
+  {{< ls-card icon="question-mark-circle" link="/docs/faq" title="Συχνές ερωτήσεις" >}}
+  {{< ls-card icon="light-bulb" link="/docs/howto" title="Οδηγίες χρήσης" >}}
 {{< /cards >}}
 
 - Ο **Οδηγός χρήστη** σας βοηθά να εγκαταστήσετε, να ρυθμίσετε και να αξιοποιήσετε στο έπακρο τις εφαρμογές μας.
@@ -31,5 +33,5 @@ title: 'Τεκμηρίωση'
 Για νομικές πολιτικές, πρακτικές διαχείρισης δεδομένων και συμφωνίες χρήστη που σχετίζονται με τις υπηρεσίες μας, ανατρέξτε στα νομικά έγγραφα παρακάτω:
 
 {{< cards >}}
-  {{< card icon="document-text" link="/legal" title="Νομικό κέντρο" >}}
+  {{< ls-card icon="document-text" link="/legal" title="Νομικό κέντρο" >}}
 {{< /cards >}}

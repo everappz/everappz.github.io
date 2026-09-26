@@ -7,7 +7,7 @@ tags: ["Evermusic", "Audio efekti", "Upute", "Reverb", "Delay", "Distorzija", "K
 readingTime: 8
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 **Ukratko:** Evermusic uključuje šest audio efekata u stvarnom vremenu — **Normalizaciju glasnoće, Kompresor, Reverb, Crossfeed, Delay i Distorziju**. Otvorite ih iz playerova izbornika **⋯ (Više) > Audio efekti**, ili iz **Postavke > Audio player > Audio efekti**. Dodirnite efekt, uključite njegov prekidač na **UKLJUČENO** (gore desno), odaberite **predložak** i po želji otvorite **Napredni način** za fino podešavanje klizača. Svaki efekt radi neovisno i primjenjuje se u stvarnom vremenu na sve što reproducirate — lokalne datoteke, streamove iz oblaka i internetski radio — bez ponovnog kodiranja.
 
@@ -162,38 +162,38 @@ Također rade uz Evermusicov **10-pojasni grafički ekvilajzer** i njegovu **rep
 
 ## Česta pitanja
 
-{{% details title="Kako dodati reverb, delay ili druge efekte svojoj glazbi u Evermusicu?" closed="true" %}}
+{{% ls-details title="Kako dodati reverb, delay ili druge efekte svojoj glazbi u Evermusicu?" closed="true" %}}
 Otvorite player, dodirnite gumb ⋯ (Više) i odaberite Audio efekti (ili idite na Postavke > Audio player > Audio efekti). Dodirnite željeni efekt, uključite njegov prekidač na UKLJUČENO gore desno i odaberite predložak. Otvorite Napredni način za fino podešavanje klizača. Efekt se odmah primjenjuje na ono što svira.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Koje audio efekte Evermusic ima?" closed="true" %}}
+{{% ls-details title="Koje audio efekte Evermusic ima?" closed="true" %}}
 Šest efekata u stvarnom vremenu: Normalizacija glasnoće (izjednačavanje glasnoće EBU R128), Kompresor (dinamika), Reverb (prostor i rep jeke), Crossfeed (prirodna slika na slušalicama), Delay (jeka) i Distorzija (lo-fi hrapavost). Svaki je neovisan i može se koristiti sam ili u kombinaciji.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Mijenjaju li efekti ili oštećuju moje audio datoteke?" closed="true" %}}
+{{% ls-details title="Mijenjaju li efekti ili oštećuju moje audio datoteke?" closed="true" %}}
 Ne. Svi se efekti primjenjuju u stvarnom vremenu samo tijekom reprodukcije. Nikad ne mijenjaju niti ponovno kodiraju vaše datoteke. Isključite efekt i vaš se izvorni zvuk odmah vraća.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Mogu li istovremeno koristiti više od jednog efekta?" closed="true" %}}
+{{% ls-details title="Mogu li istovremeno koristiti više od jednog efekta?" closed="true" %}}
 Da. Svaki je efekt neovisan — nema glavnog prekidača — pa možete omogućiti bilo koju kombinaciju. Na primjer, Normalizaciju glasnoće plus Kompresor za dosljedno, ugodno slušanje, ili Reverb plus Crossfeed na slušalicama.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Što je Crossfeed i trebam li ga koristiti?" closed="true" %}}
+{{% ls-details title="Što je Crossfeed i trebam li ga koristiti?" closed="true" %}}
 Crossfeed umiješava malu, filtriranu količinu svakog stereo kanala u drugi tako da slušalice zvuče više poput pravih zvučnika, smanjujući osjećaj „unutar glave” kod mikseva s oštrom panoramom. To je efekt za slušalice (ostavite ga isključenim za zvučnike). Izrađen je na algoritmu Bauer stereophonic-to-binaural (bs2b) i uključuje predloške poput Chu Moy i Jan Meier.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Što je Normalizacija glasnoće i po čemu se razlikuje od ReplayGaina?" closed="true" %}}
+{{% ls-details title="Što je Normalizacija glasnoće i po čemu se razlikuje od ReplayGaina?" closed="true" %}}
 Normalizacija glasnoće drži svaku pjesmu na dosljednoj glasnoći mjerenjem percipirane glasnoće standardom EBU R128 i izjednačavanjem prema cilju. Za razliku od ReplayGaina, ne treba oznake glasnoće u vašim datotekama i ne mijenja audio — radi uživo na bilo kojem izvoru, uključujući streamove iz oblaka i internetski radio. Predlošci: Lagana, Standardna, Jaka i Noć.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Koja je razlika između Jednostavnog i Naprednog načina?" closed="true" %}}
+{{% ls-details title="Koja je razlika između Jednostavnog i Naprednog načina?" closed="true" %}}
 Jednostavni način prikazuje popis predložaka s jednostavnim opisima, pa možete dobiti dobar zvuk jednim dodirom. Napredni način dodaje klizače parametara (na primjer, Miješanje za Reverb ili sedam kontrola Kompresora) za precizno fino podešavanje. Prebacujte se između njih pomoću gumba za način gore desno u svakom uređivaču efekta.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Zašto su kontrole efekta zasivljene?" closed="true" %}}
+{{% ls-details title="Zašto su kontrole efekta zasivljene?" closed="true" %}}
 Efekt je isključen. Uključite prekidač efekta gore desno u njegovu uređivaču kako biste aktivirali kontrole. Svaki je efekt prema zadanim postavkama isključen.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Rade li efekti sa streamingom i CarPlayem?" closed="true" %}}
+{{% ls-details title="Rade li efekti sa streamingom i CarPlayem?" closed="true" %}}
 Da. Efekti se pokreću unutar mehanizma za reprodukciju, pa se primjenjuju na lokalne datoteke, pogone u oblaku, medijske poslužitelje i internetski radio te nastavljaju raditi tijekom reprodukcije putem CarPlaya.
-{{% /details %}}
+{{% /ls-details %}}

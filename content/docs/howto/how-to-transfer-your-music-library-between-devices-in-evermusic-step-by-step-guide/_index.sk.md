@@ -7,7 +7,7 @@ keywords: ["prenos hudobnej knižnice Evermusic", "zálohovanie a obnovenie preh
 readingTime: 3
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **Zhrnutie:** Na prenos knižnice Evermusic na nové zariadenie vytvorte zálohu na zdrojovom zariadení, spustite Wi-Fi Drive, pripojte druhé zariadenie cez rovnakú sieť, stiahnite zálohu a hudobné súbory a potom obnovte zo zálohy. Celý proces trvá približne 10 minút v závislosti od veľkosti knižnice.
@@ -144,22 +144,22 @@ Podľa týchto krokov úspešne prenesiete hudobnú knižnicu, prehrávače a na
 
 ## Často kladené otázky
 
-{{% details title="Môžem preniesť knižnicu Evermusic bez Wi-Fi?" closed="true" %}}
+{{% ls-details title="Môžem preniesť knižnicu Evermusic bez Wi-Fi?" closed="true" %}}
 Wi-Fi Drive vyžaduje, aby obe zariadenia boli na rovnakej Wi-Fi sieti. V súčasnosti nie je k dispozícii možnosť prenosu cez Bluetooth alebo mobilnú sieť. Alternatívne môžete použiť AirDrop alebo aplikáciu Súbory na manuálny prenos záložného súboru a hudobných priečinkov medzi zariadeniami.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Prenesú sa pripojenia ku cloudovým službám so zálohou?" closed="true" %}}
+{{% ls-details title="Prenesú sa pripojenia ku cloudovým službám so zálohou?" closed="true" %}}
 Záloha zahŕňa databázu, prehrávače, obaly albumov a nastavenia. Prihlasovacie údaje cloudových služieb nie sú zahrnuté z bezpečnostných dôvodov. Po obnovení budete musieť znova pripojiť cloudové účty na novom zariadení.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Čo sa stane s existujúcou knižnicou na druhom zariadení?" closed="true" %}}
+{{% ls-details title="Čo sa stane s existujúcou knižnicou na druhom zariadení?" closed="true" %}}
 Obnovenie zálohy nahradí všetky existujúce údaje hudobnej knižnice, prehrávače, nastavenia a obaly albumov na druhom zariadení. Ak chcete zachovať údaje druhého zariadenia, najskôr vytvorte samostatnú zálohu.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Funguje tento proces medzi iPhonom a Macom?" closed="true" %}}
+{{% ls-details title="Funguje tento proces medzi iPhonom a Macom?" closed="true" %}}
 Áno. Evermusic podporuje prenos cez Wi-Fi Drive medzi akoukoľvek kombináciou iPhonu, iPadu a Macu. Obe zariadenia musia byť na rovnakej Wi-Fi sieti.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Ako dlho trvá prenos?" closed="true" %}}
+{{% ls-details title="Ako dlho trvá prenos?" closed="true" %}}
 Čas prenosu závisí od veľkosti hudobnej knižnice a rýchlosti Wi-Fi. Typická knižnica s niekoľkými gigabajtmi sa prenesie za 5-15 minút cez štandardnú domácu sieť.
-{{% /details %}}
+{{% /ls-details %}}

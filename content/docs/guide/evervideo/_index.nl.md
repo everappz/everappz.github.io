@@ -74,18 +74,18 @@ Deze handleiding neemt u mee door elk onderdeel van Evervideo op iPhone, iPad en
 
 {{< cards cols="2">}}
 
-{{< card icon="map" link="/docs/guide/evervideo/evervideo-guide-navigation" title="Navigatie" subtitle="Tabbalk op iPhone, Linkermenu op iPad en Mac, compacte altijd-zichtbare mediaspeler." >}}
+{{< ls-card icon="map" link="/docs/guide/evervideo/evervideo-guide-navigation" title="Navigatie" subtitle="Tabbalk op iPhone, Linkermenu op iPad en Mac, compacte altijd-zichtbare mediaspeler." >}}
 
-{{< card icon="folder" link="/docs/guide/evervideo/evervideo-guide-files" title="Bestanden" subtitle="Één uniforme tab voor cloud, NAS, RTSP-streams, lokale bestanden, USB-schijven en de overdrachtsrij." >}}
+{{< ls-card icon="folder" link="/docs/guide/evervideo/evervideo-guide-files" title="Bestanden" subtitle="Één uniforme tab voor cloud, NAS, RTSP-streams, lokale bestanden, USB-schijven en de overdrachtsrij." >}}
 
-{{< card icon="collection" link="/docs/guide/evervideo/evervideo-guide-video-library" title="Mediabibliotheek" subtitle="Blader op Albums, Genres, Recenties, Favorieten — plus de iOS Foto's-bibliotheek en Apple Music-bibliotheek." >}}
+{{< ls-card icon="collection" link="/docs/guide/evervideo/evervideo-guide-video-library" title="Mediabibliotheek" subtitle="Blader op Albums, Genres, Recenties, Favorieten — plus de iOS Foto's-bibliotheek en Apple Music-bibliotheek." >}}
 
-{{< card icon="music-note" link="/docs/guide/evervideo/evervideo-guide-playlists" title="Afspeellijsten" subtitle="Maak afspeellijsten van cloud, lokaal, Foto's of Muziek-bibliotheek, importeer M3U / M3U8 / CUE." >}}
+{{< ls-card icon="music-note" link="/docs/guide/evervideo/evervideo-guide-playlists" title="Afspeellijsten" subtitle="Maak afspeellijsten van cloud, lokaal, Foto's of Muziek-bibliotheek, importeer M3U / M3U8 / CUE." >}}
 
-{{< card icon="play" link="/docs/guide/evervideo/evervideo-guide-player" title="Mediaspeler" subtitle="Picture-in-Picture, audio- en videosporen, ondertitels, audio + video-equalizers, AirPlay, Chromecast." >}}
+{{< ls-card icon="play" link="/docs/guide/evervideo/evervideo-guide-player" title="Mediaspeler" subtitle="Picture-in-Picture, audio- en videosporen, ondertitels, audio + video-equalizers, AirPlay, Chromecast." >}}
 
-{{< card icon="adjustments" link="/docs/guide/evervideo/evervideo-guide-settings" title="Instellingen" subtitle="Audio-engine, videodecoder, ondertitels, bibliotheek, bestandsbeheer, widgets, aanpassing, taal, back-up." >}}
+{{< ls-card icon="adjustments" link="/docs/guide/evervideo/evervideo-guide-settings" title="Instellingen" subtitle="Audio-engine, videodecoder, ondertitels, bibliotheek, bestandsbeheer, widgets, aanpassing, taal, back-up." >}}
 
-{{< card icon="question-mark-circle" link="/docs/faq/evervideo" title="Veelgestelde vragen" subtitle="Vind antwoorden op de meest gestelde vragen over Evervideo." >}}
+{{< ls-card icon="question-mark-circle" link="/docs/faq/evervideo" title="Veelgestelde vragen" subtitle="Vind antwoorden op de meest gestelde vragen over Evervideo." >}}
 
 {{< /cards >}}

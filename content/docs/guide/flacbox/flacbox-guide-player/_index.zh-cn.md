@@ -23,7 +23,7 @@ readingTime: 14
 您可以从迷你播放器栏进入全屏播放器。在 iPhone 上，迷你播放器位于主界面底部。在 iPad 和 Mac 上，它位于左侧。要在 iPhone 上隐藏迷你播放器，点击一次然后向下滑动。要完全关闭全屏播放器，点击右下角的关闭按钮。
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox 音频播放器主界面" image="/docs/guide/flacbox/img/audio-player-main-screen.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox 音频播放器主界面" image="/docs/guide/flacbox/img/audio-player-main-screen.webp" >}}
 {{< /cards >}}
 
 ## 支持的音频格式
@@ -66,7 +66,7 @@ Flacbox 可播放最流行的音频格式——包括 Apple 系统编解码器�
 Flacbox 包含一个带有 iPod 风格预设的 **10 段均衡器**。在音量视图上点击均衡器，然后在右上角打开它。您可以使用 Acoustic 和 Bass Booster 等预设，或用滑块调整每个频段。制作您自己的预设，以任意名称保存，并用前置放大器提升整体音量。我们有关于如何使用均衡器的更详细说明[在这里](/docs/howto/how-to-use-the-audio-equalizer-on-your-iphone-ipad-mac-with-evermusic-and-flacbox)。
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox 音频播放器均衡器" image="/docs/guide/flacbox/img/audio-player-equalizer.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox 音频播放器均衡器" image="/docs/guide/flacbox/img/audio-player-equalizer.webp" >}}
 {{< /cards >}}
 
 ## 播放器模式工具栏
@@ -82,7 +82,7 @@ Flacbox 包含一个带有 iPod 风格预设的 **10 段均衡器**。在音量�
 要查看播放队列，点击当前歌曲右侧的队列按钮。队列中的每首歌都有更多操作——点击三点图标查看。要在队列中重新排序歌曲，使用标题旁边的重新排序指示器将其拖到新位置。
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox 播放队列" image="/docs/guide/flacbox/img/playback_queue.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox 播放队列" image="/docs/guide/flacbox/img/playback_queue.webp" >}}
 {{< /cards >}}
 
 ## 评论 / 歌词
@@ -98,7 +98,7 @@ Flacbox 包含一个带有 iPod 风格预设的 **10 段均衡器**。在音量�
 之后，多次点击界面底部的播放器队列按钮，从专辑封面 / 队列视图切换到评论视图。在评论界面，向右滑动以在**评论**、**嵌入歌词**和 **LRC 文件**之间切换。完整说明请见[这里](/docs/howto/how-to-add-and-view-comments-to-your-audio-tracks-on-iphone-ipad-and-mac-with-evermusic-and-flacbox)。
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox 歌词和评论界面" image="/docs/guide/flacbox/img/lyrics-screen.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox 歌词和评论界面" image="/docs/guide/flacbox/img/lyrics-screen.webp" >}}
 {{< /cards >}}
 
 ## 选项菜单
@@ -121,7 +121,7 @@ Flacbox 包含一个带有 iPod 风格预设的 **10 段均衡器**。在音量�
 对于音频播放器队列中正在播放的项目，也提供相同的选项，可通过点击曲目标题旁的**更多操作**图标访问。
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox 播放队列中项目的选项" image="/docs/guide/flacbox/img/options-for-item-in-playback-queue.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox 播放队列中项目的选项" image="/docs/guide/flacbox/img/options-for-item-in-playback-queue.webp" >}}
 {{< /cards >}}
 
 ## 其他播放器操作
@@ -143,7 +143,7 @@ Flacbox 包含一个带有 iPod 风格预设的 **10 段均衡器**。在音量�
 - **帮助** — 查找帮助和指导。
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox 音频播放器更多操作界面" image="/docs/guide/flacbox/img/audio-player-more-actions-screen.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox 音频播放器更多操作界面" image="/docs/guide/flacbox/img/audio-player-more-actions-screen.webp" >}}
 {{< /cards >}}
 
 ## 音频书签
@@ -161,7 +161,7 @@ Flacbox 包含一个带有 iPod 风格预设的 **10 段均衡器**。在音量�
 编辑当前曲目的书签很简单：点击右上角的编辑进入编辑模式。在此模式下，您可以重新排列书签、删除书签、调整书签时间以及更改书签标题。关于音频书签的更详细说明[在这里](/docs/howto/how-to-listen-to-audiobooks-on-iphone-ipad-mac-using-evermusic)。
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox 音频书签界面" image="/docs/guide/flacbox/img/audio-bookmarks.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox 音频书签界面" image="/docs/guide/flacbox/img/audio-bookmarks.webp" >}}
 {{< /cards >}}
 
 ## 最近和收藏夹
@@ -175,7 +175,7 @@ Flacbox 包含一个带有 iPod 风格预设的 **10 段均衡器**。在音量�
 [阅读完整 CarPlay 指南](/docs/howto/how-to-play-your-own-music-on-iphone-using-carplay/)。
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox 在 Apple CarPlay 上" image="/docs/guide/flacbox/img/carplay-main.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox 在 Apple CarPlay 上" image="/docs/guide/flacbox/img/carplay-main.webp" >}}
 {{< /cards >}}
 
 ## 主屏幕小组件（iPhone & iPad）
@@ -243,7 +243,7 @@ Mac 用户可以使用紧凑的始终置顶迷你播放器。将光标移到 Fla
 将音频播放器的播放速度从 **0.02× 调整到 3.00×**。点击右上角的配置图标切换到**精确模式**以进行更精细的调整。
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox 播放速度界面" image="/docs/guide/flacbox/img/playback-speed.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox 播放速度界面" image="/docs/guide/flacbox/img/playback-speed.webp" >}}
 {{< /cards >}}
 
 ### 音调校正

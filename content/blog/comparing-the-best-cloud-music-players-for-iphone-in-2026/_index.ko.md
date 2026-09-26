@@ -12,7 +12,7 @@ authors:
     image: "/images/about/artem-meleshko-founder-everappz.webp"
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 ## iPhone에 최고의 클라우드 음악 플레이어는?
 
@@ -91,22 +91,22 @@ Deezer는 수천만 곡과 Flow라는 뛰어난 기능을 갖춘 글로벌 음�
 
 ## 자주 묻는 질문
 
-{{% details title="iPhone에서 FLAC 파일을 변환 없이 재생할 수 있나요?" closed="true" %}}
+{{% ls-details title="iPhone에서 FLAC 파일을 변환 없이 재생할 수 있나요?" closed="true" %}}
 예. Evermusic는 iPhone에서 FLAC, DSD, WAV, ALAC 및 기타 무손실 형식을 기본적으로 재생합니다. 파일 변환이 필요 없습니다. 클라우드 스토리지 계정을 연결하고 FLAC 파일을 직접 스트리밍하거나 다운로드하면 됩니다.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Dropbox 및 Google Drive와 작동하는 클라우드 음악 플레이어는?" closed="true" %}}
+{{% ls-details title="Dropbox 및 Google Drive와 작동하는 클라우드 음악 플레이어는?" closed="true" %}}
 Evermusic는 Dropbox, Google Drive, OneDrive, Box, MEGA, pCloud, WebDAV, SMB 등 12개 이상의 클라우드 서비스를 지원합니다. Spotify 및 Apple Music과 같은 대부분의 주류 스트리밍 앱은 타사 클라우드 스토리지에 연결하지 않습니다.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="클라우드 음악 플레이어를 사용하기 위해 구독이 필요한가요?" closed="true" %}}
+{{% ls-details title="클라우드 음악 플레이어를 사용하기 위해 구독이 필요한가요?" closed="true" %}}
 앱에 따라 다릅니다. Spotify, Apple Music 및 Deezer는 월정액 구독이 필요합니다. Evermusic은 무료 티어와 정기 요금 없이 일회성 프리미엄 구매를 제공합니다. 음악 파일을 호스팅하기 위해 자신의 클라우드 스토리지를 사용합니다.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="iPhone에서 오프라인 청취를 위한 최고의 음악 플레이어는?" closed="true" %}}
+{{% ls-details title="iPhone에서 오프라인 청취를 위한 최고의 음악 플레이어는?" closed="true" %}}
 모든 주요 플레이어가 오프라인 다운로드를 지원하지만 접근 방식이 다릅니다. Spotify와 Apple Music은 카탈로그에서 트랙을 다운로드합니다. Evermusic은 오프라인 재생을 위해 클라우드 스토리지에서 자신의 파일을 다운로드합니다 -- 비행기, 통근 또는 연결이 없는 지역에 이상적입니다.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="NAS 또는 홈 서버에서 클라우드 음악 플레이어를 사용할 수 있나요?" closed="true" %}}
+{{% ls-details title="NAS 또는 홈 서버에서 클라우드 음악 플레이어를 사용할 수 있나요?" closed="true" %}}
 예. Evermusic는 WebDAV 및 SMB 프로토콜을 지원하므로 Synology, QNAP 및 Western Digital의 대부분의 NAS 장치에 연결할 수 있습니다. 이렇게 하면 iPhone이 전체 홈 음악 라이브러리의 원격 플레이어가 됩니다.
-{{% /details %}}
+{{% /ls-details %}}

@@ -7,7 +7,7 @@ keywords: ["FTP sunucusu iPhone", "FTP sunucusu iPad", "iPhone'da FTP nasıl kur
 readingTime: 9
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 FTP, dosya aktarımının eski güvenilir aracıdır. Onlarca yıldır ortalıktadır ve bu kadar kullanışlı olmasının nedeni tam da budur: bir sunucuyla konuşabilen hemen hemen her şey onu anlar. Kameralar, akıllı TV'ler, yönlendiriciler, ağ sürücüleri, otomasyon araçları ve her masaüstü FTP uygulaması FTP konuşur. [Everdisk](/products/everdisk) ile iPhone veya iPad cihazınızda bir FTP sunucusu çalıştırabilirsiniz; böylece telefon, bu cihazların ve uygulamaların bağlanıp dosya taşıyabileceği bir yer olur.
 
@@ -118,44 +118,44 @@ Ayarlar, Paylaşım, Erişim'deki **Dosya Düzenleme** anahtarı bunu kontrol ed
 
 ## Sıkça Sorulan Sorular
 
-{{% details title="iPhone'um için FTP adresi ve bağlantı noktası nedir?" closed="true" %}}
+{{% ls-details title="iPhone'um için FTP adresi ve bağlantı noktası nedir?" closed="true" %}}
 Paylaşımı başlattıktan sonra Everdisk adresi Paylaşım ekranında gösterir. ftp://192.168.1.20:2121 gibi görünür. 2121, Everdisk'in FTP için kullandığı bağlantı noktasıdır ve ilk kısım iPhone'unuzun Wi-Fi'deki adresidir; bu nedenle sizinki farklı olacaktır.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="FileZilla veya Cyberduck'ı iPhone'uma nasıl bağlarım?" closed="true" %}}
+{{% ls-details title="FileZilla veya Cyberduck'ı iPhone'uma nasıl bağlarım?" closed="true" %}}
 Uygulamayı açın ve yeni bir bağlantı oluşturun. Host'u iPhone'unuzun Wi-Fi adresine ve Port'u 2121'e ayarlayın. Kullanıcı Adı ve Parola'nızı girin ya da Everdisk'te birini ayarlamadıysanız Anonymous'u seçin. Bağlanın; Dosya Düzenleme açıkken dosyaları her iki yönde sürükleyebilirsiniz.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="iPhone FTP'me Windows'tan bağlanabilir miyim?" closed="true" %}}
+{{% ls-details title="iPhone FTP'me Windows'tan bağlanabilir miyim?" closed="true" %}}
 Evet. Dosya Gezgini'ni açın, adres çubuğuna tıklayın, Everdisk'teki FTP adresini yazın (örneğin ftp://192.168.1.20:2121) ve Enter'a basın. Ayarladıysanız oturum açma bilgilerinizi girin veya konuk olarak devam edin. Yüklemeler ve daha fazla kontrol için bunun yerine FileZilla gibi bir FTP uygulaması kullanın.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="FTP için bir oturum açmaya ihtiyacım var mı?" closed="true" %}}
+{{% ls-details title="FTP için bir oturum açmaya ihtiyacım var mı?" closed="true" %}}
 Hayır, oturum açma isteğe bağlıdır. Ayarlar, Paylaşım, Erişim'de Kullanıcı Adı ve Parola'yı boş bırakın ve çoğu FTP istemcisinin sunduğu Anonymous olarak bağlanın. Bağlantıların önce oturum açmasını istiyorsanız bir oturum açma ayarlayın.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="FTP üzerinden neden yalnızca indirebiliyorum ama yükleyemiyorum?" closed="true" %}}
+{{% ls-details title="FTP üzerinden neden yalnızca indirebiliyorum ama yükleyemiyorum?" closed="true" %}}
 İki neden yaygındır. İlk olarak, yüklemelere, yeniden adlandırmalara ve silmelere izin vermek için Ayarlar, Paylaşım, Erişim'deki Dosya Düzenleme anahtarı açık olmalıdır. İkinci olarak, Mac Finder FTP'yi salt okunur olarak açar; bu nedenle yüklemek istediğinizde FileZilla veya Cyberduck gibi bir FTP uygulaması kullanın.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="İki iPhone arasında FTP kullanabilir miyim?" closed="true" %}}
+{{% ls-details title="İki iPhone arasında FTP kullanabilir miyim?" closed="true" %}}
 Evet. İlk iPhone'da FTP sunucusunu başlatın. İkincide Everdisk'i açın, Cihazlar sekmesine gidin, Yeni Bağlantı'ya dokunun, FTP'yi seçin ve ilk telefonda gösterilen adresi girin. iOS için özel bir FTP uygulaması da çalışır, çünkü iOS Dosyalar uygulaması bir FTP istemcisi içermez.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="FTP güvenli mi?" closed="true" %}}
+{{% ls-details title="FTP güvenli mi?" closed="true" %}}
 Düz FTP trafiğini şifrelemez; bu nedenle onu ev Wi-Fi'niz gibi güvendiğiniz ağlar için bir araç olarak görün. Kontrol etmediğiniz bir ağda, her aktarımı koruyan SMB şifrelemesi iste'nin açık olduğu SMB sunucusunu kullanın.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="FTP üzerinden hangi cihazlar bağlanabilir?" closed="true" %}}
+{{% ls-details title="FTP üzerinden hangi cihazlar bağlanabilir?" closed="true" %}}
 FTP istemcisi olan hemen hemen her şey. Buna Mac, Windows ve Linux bilgisayarları, FileZilla ve Cyberduck gibi FTP uygulamaları, Android dosya yöneticileri ve kameralar, akıllı TV'ler, yönlendiriciler, NAS kutuları ve otomasyon araçları gibi donanımlar dahildir. Bu geniş erişim, FTP'yi seçmenin ana nedenidir.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="FTP bağlantım neden düştü?" closed="true" %}}
+{{% ls-details title="FTP bağlantım neden düştü?" closed="true" %}}
 iPhone'unuz sunucudur ve iOS çok uzun süre arka planda kalan uygulamaları duraklatır. Bir cihaz bağlıyken Everdisk'i ekranda açık tutun ve uzun aktarımlar için güce takın. Ayrıca her iki cihazın da hâlâ aynı Wi-Fi'de olduğundan emin olun.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Everdisk ücretsiz mi?" closed="true" %}}
+{{% ls-details title="Everdisk ücretsiz mi?" closed="true" %}}
 Evet, Everdisk ücretsiz indirilir ve FTP sunucusu dahildir. İsteğe bağlı, tek seferlik Premium satın alma, özel bağlantı noktaları ve fotoğraf ve video dönüştürme gibi ekstralar ekler. FTP'yi ödeme yapmadan kurabilir ve dosya aktarabilirsiniz.
-{{% /details %}}
+{{% /ls-details %}}
 
 Denemeye hazır mısınız? [Everdisk'i App Store'dan indirin](https://apps.apple.com/app/apple-store/id6751851132?pt=95781850&ct=everappzcom&mt=8) ve birkaç dakika içinde ilk FTP istemcinizi bağlayın. Sorularınız veya geri bildiriminiz mi var? Bize **support@everappz.com** adresinden e-posta gönderin.

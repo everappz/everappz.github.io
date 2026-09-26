@@ -28,19 +28,19 @@ Questa guida spiega ogni parte dell'app passo dopo passo. Scegli una sezione qui
 
 
 {{< cards >}}
-  {{< card icon="play" title="Condivisione" subtitle="Tocca Avvia, scegli cosa condividere ed esegui tutti e cinque i server insieme. Impara a usare la schermata Condivisione dall'inizio alla fine." link="/docs/guide/everdisk/everdisk-guide-sharing" >}}
+  {{< ls-card icon="play" title="Condivisione" subtitle="Tocca Avvia, scegli cosa condividere ed esegui tutti e cinque i server insieme. Impara a usare la schermata Condivisione dall'inizio alla fine." link="/docs/guide/everdisk/everdisk-guide-sharing" >}}
 
-  {{< card icon="desktop-computer" title="Collega i tuoi dispositivi" subtitle="Come una TV, un Mac o PC, un browser web, un altro telefono o un cavo USB si collegano ai tuoi file condivisi." link="/docs/guide/everdisk/everdisk-guide-connect" >}}
+  {{< ls-card icon="desktop-computer" title="Collega i tuoi dispositivi" subtitle="Come una TV, un Mac o PC, un browser web, un altro telefono o un cavo USB si collegano ai tuoi file condivisi." link="/docs/guide/everdisk/everdisk-guide-connect" >}}
 
-  {{< card icon="server" title="Collegati ai server" subtitle="Raggiungi altri server DLNA, WebDAV, FTP, SFTP e SMB e unità NAS sulla tua rete per sfogliare, riprodurre in streaming e scaricare." link="/docs/guide/everdisk/everdisk-guide-devices" >}}
+  {{< ls-card icon="server" title="Collegati ai server" subtitle="Raggiungi altri server DLNA, WebDAV, FTP, SFTP e SMB e unità NAS sulla tua rete per sfogliare, riprodurre in streaming e scaricare." link="/docs/guide/everdisk/everdisk-guide-devices" >}}
 
-  {{< card icon="folder" title="File e documenti" subtitle="Sfoglia, crea cartelle, rinomina, sposta, copia ed elimina, comprimi ed estrai, collega cartelle esterne e scansiona in PDF." link="/docs/guide/everdisk/everdisk-guide-files" >}}
+  {{< ls-card icon="folder" title="File e documenti" subtitle="Sfoglia, crea cartelle, rinomina, sposta, copia ed elimina, comprimi ed estrai, collega cartelle esterne e scansiona in PDF." link="/docs/guide/everdisk/everdisk-guide-files" >}}
 
-  {{< card icon="music-note" title="Foto, musica e video" subtitle="Condividi tutta la tua libreria di foto e musica, riproduci l'audio nel mini player e guarda i video a schermo intero." link="/docs/guide/everdisk/everdisk-guide-media" >}}
+  {{< ls-card icon="music-note" title="Foto, musica e video" subtitle="Condividi tutta la tua libreria di foto e musica, riproduci l'audio nel mini player e guarda i video a schermo intero." link="/docs/guide/everdisk/everdisk-guide-media" >}}
 
-  {{< card icon="lock-closed" title="Accesso e privacy" subtitle="Proteggi la condivisione con login e password, consenti o blocca le modifiche, blocca i dispositivi e mantieni tutto locale." link="/docs/guide/everdisk/everdisk-guide-access" >}}
+  {{< ls-card icon="lock-closed" title="Accesso e privacy" subtitle="Proteggi la condivisione con login e password, consenti o blocca le modifiche, blocca i dispositivi e mantieni tutto locale." link="/docs/guide/everdisk/everdisk-guide-access" >}}
 
-  {{< card icon="adjustments" title="Impostazioni" subtitle="Ogni impostazione spiegata: profilo del dispositivo, connessioni, qualità di foto e video, porte, trasferimenti e altro ancora." link="/docs/guide/everdisk/everdisk-guide-settings" >}}
+  {{< ls-card icon="adjustments" title="Impostazioni" subtitle="Ogni impostazione spiegata: profilo del dispositivo, connessioni, qualità di foto e video, porte, trasferimenti e altro ancora." link="/docs/guide/everdisk/everdisk-guide-settings" >}}
 
-  {{< card icon="question-mark-circle" title="FAQ" subtitle="Risposte rapide alle domande più comuni e agli scenari reali." link="/docs/faq/everdisk" >}}
+  {{< ls-card icon="question-mark-circle" title="FAQ" subtitle="Risposte rapide alle domande più comuni e agli scenari reali." link="/docs/faq/everdisk" >}}
 {{< /cards >}}

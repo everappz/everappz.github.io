@@ -12,7 +12,7 @@ authors:
     image: "/images/about/artem-meleshko-founder-everappz.webp"
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 **Özet:** [Everdisk](/products/everdisk), **iPhone veya iPad'inizi kablosuz bir sürücüye** ve diğer cihazlarınıza da bağlanan bir merkeze dönüştüren yeni uygulamamızdır. **Start** düğmesine dokunun ve Everdisk **aynı anda dört sunucu** çalıştırsın: akıllı TV'ler ve medya oynatıcıları için **DLNA**, herhangi bir web tarayıcısı için **HTTP**, Finder, Windows ve Linux için **WebDAV** ve dosya uygulamaları için **FTP**. Her cihaz sevdiği şekilde bağlanır. Dosyalarınızı, fotoğraflarınızı, videolarınızı ve müziğinizi ağınızdaki her şeyle paylaşın, kablosuz olarak bir TV'ye akış yapın, cihazınızı ağ sürücüsü olarak bağlayın veya Wi-Fi olmadığında dosyaları bir **USB kablosu** üzerinden taşıyın. Everdisk ayrıca **DLNA, WebDAV, FTP ve SFTP** sunucularına dışarı doğru bağlanır, sıkıştırma ve açma özellikli yerleşik bir **dosya yöneticisine** sahiptir ve **belgeleri PDF olarak tarayabilir**, **PDF'leri işaretleyip imzalayabilir** ve eksiksiz bir **PDF araç takımı** çalıştırabilir. Hesap yok, bulut yok ve karşı tarafta yüklenecek ek uygulama yok. Her şey yerel ağınızda kalır. Ücretsiz indirme, isteğe bağlı tek seferlik Premium Lifetime satın alma seçeneğiyle.
 
@@ -133,46 +133,46 @@ Uygulamayı beğendiyseniz, lütfen App Store'da bir puan bırakın. Gerçekten 
 
 ## Sıkça Sorulan Sorular
 
-{{% details title="Everdisk nedir?" closed="true" %}}
+{{% ls-details title="Everdisk nedir?" closed="true" %}}
 Everdisk, iPhone veya iPad'inizi kablosuz bir sürücüye ve diğer cihazlarınıza da bağlanan bir merkeze dönüştüren yeni bir uygulamadır. Dosyalarınızı, fotoğraflarınızı, videolarınızı ve müziğinizi ağınızdaki her şeyle paylaşabilir, diğer sunuculardan göz atıp akış yapabilir ve her şeyi doğrudan cihazınızda yönetebilirsiniz. Hesap yok, bulut yok ve karşı tarafta yüklenecek ek uygulama yok. Sadece Start düğmesine dokunun ve hazırsınız. Uygulama aynı anda dört sunucu çalıştırır: akıllı TV'ler ve medya oynatıcıları için DLNA, herhangi bir web tarayıcısı için HTTP, Finder, Windows ve Linux için WebDAV ve dosya uygulamaları ile ileri düzey kullanıcılar için FTP.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Everdisk ne kadar?" closed="true" %}}
+{{% ls-details title="Everdisk ne kadar?" closed="true" %}}
 Everdisk ücretsiz bir indirmedir. Cihazınızı kablosuz bir sürücüye dönüştürebilir, dosyalarınızı dört şekilde paylaşabilir, bir TV'ye akış yapabilir, bir ağ sürücüsü bağlayabilir, USB üzerinden aktarabilir, diğer sunuculara bağlanabilir, dosya yöneticisini kullanabilir, belgeleri tarayabilir ve PDF araçlarını ücretsiz olarak kullanabilirsiniz. İsteğe bağlı tek seferlik bir Premium Lifetime satın alma vardır; aboneliksiz tek bir ödemedir ve sınırsız paylaşılan klasörler ve kaydedilmiş bağlantılar, fotoğraf ve video dönüştürme, özel bağlantı noktaları, otomatik başlatmalı paylaşım ve cihaz özelleştirmesinin kilidini açar. Fiyatlar bölgeye göre değişebilir.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Diğer cihaza bir şey yüklemem gerekiyor mu?" closed="true" %}}
+{{% ls-details title="Diğer cihaza bir şey yüklemem gerekiyor mu?" closed="true" %}}
 Hayır. Bütün mesele bu. Diğer cihaz, zaten sahip olduğu araçları kullanarak bağlanır. Bir akıllı TV kitaplığınızı DLNA üzerinden kendi başına bulur, herhangi bir bilgisayar veya telefon bir bağlantıyı web tarayıcısında açar ve Mac Finder, Windows ve Linux cihazınızı WebDAV üzerinden bir ağ sürücüsü olarak bağlar. Karşı tarafta yüklenecek bir şey yok.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Fotoğrafları ve videoları TV'me nasıl akış yaparım?" closed="true" %}}
+{{% ls-details title="Fotoğrafları ve videoları TV'me nasıl akış yaparım?" closed="true" %}}
 TV'nizi veya medya oynatıcınızı ve cihazınızı aynı Wi-Fi ağına koyun, ardından fotoğraflarınız, videolarınız veya müziğiniz paylaşılmış halde Everdisk'te Start düğmesine dokunun. Cihazınız TV'nin medya sunucuları listesinde önizleme küçük resimleriyle kendiliğinden görünür. Onu TV'de açın ve kitaplığınızın keyfini büyük ekranda çıkarın. Kablo yok ve ek uygulama yok.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Everdisk'e Mac'imden veya PC'mden nasıl bağlanırım?" closed="true" %}}
+{{% ls-details title="Everdisk'e Mac'imden veya PC'mden nasıl bağlanırım?" closed="true" %}}
 Everdisk, cihazınızın WebDAV üzerinden normal bir ağ sürücüsü olarak görünmesini sağlar. Bir Mac'te Finder'ı açın ve Git'i, ardından Sunucuya Bağlan'ı seçin ve uygulamada gösterilen WebDAV adresini girin. Windows'ta aynı adresi kullanarak bir ağ sürücüsü eşleyin. Linux'ta dosya yöneticinizden WebDAV adresine bağlanın. Bağlandıktan sonra her iki yönde de sürükleyip bırakabilirsiniz. Bir sürücü bağlamak istemiyorsanız, HTTP bağlantısını herhangi bir web tarayıcısında açmanız yeterli.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Wi-Fi olmadan dosya aktarabilir miyim?" closed="true" %}}
+{{% ls-details title="Wi-Fi olmadan dosya aktarabilir miyim?" closed="true" %}}
 Evet. Cihazınızı onu şarj etmek için kullandığınız aynı USB kablosuyla bir Mac'e bağlayın ve dosyalar kablonun içinden doğrudan geçsin, Wi-Fi'den daha hızlı. Kablosuz bir ağa ihtiyaç duymadığından, Wi-Fi paylaşımının engellendiği bir uçakta, bir otelde veya herhangi bir kilitli ya da genel ağda çalışmaya devam eder.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Bir iPhone'dan diğerine dosya gönderebilir miyim?" closed="true" %}}
+{{% ls-details title="Bir iPhone'dan diğerine dosya gönderebilir miyim?" closed="true" %}}
 Evet. Bir cihazda paylaşımı başlatın ve bağlantıyı diğerinde bir web tarayıcısında açın veya WebDAV ya da FTP üzerinden bağlanın. Her iki yönde de göz atabilir, akış yapabilir ve indirebilir, hatta fotoğrafları, belgeleri ve tüm klasörleri paylaşan cihaza geri yükleyebilirsiniz.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Everdisk neye bağlanabilir?" closed="true" %}}
+{{% ls-details title="Everdisk neye bağlanabilir?" closed="true" %}}
 Everdisk aynı zamanda ağınızdaki diğer cihazlar için bir istemcidir. NAS cihazları ve medya sunucuları dahil olmak üzere DLNA, WebDAV, FTP ve SFTP sunucularını bulup bunlara bağlanabilirsiniz. Bağlandıktan sonra klasörlerine göz atabilir, ses ve videoyu akış yapabilir, dosyaları indirebilir ve sunucu izin verdiğinde klasör oluşturabilir, yükleyebilir, yeniden adlandırabilir, taşıyabilir veya silebilirsiniz.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Everdisk'te belge tarayıp PDF düzenleyebilir miyim?" closed="true" %}}
+{{% ls-details title="Everdisk'te belge tarayıp PDF düzenleyebilir miyim?" closed="true" %}}
 Evet. Everdisk kağıt belgeleri kameranızla tarayabilir. Kenarları kendi başına bulur, her sayfayı düzleştirir ve bunları temiz, çok sayfalı bir PDF olarak kaydeder. Ayrıca bir PDF'yi veya fotoğrafı açıp işaretleyebilirsiniz (çizin, vurgulayın, metin ve şekiller ekleyin ve parmağınızla imzalayın); değişiklikler dosyaya geri kaydedilir. Eksiksiz bir PDF araç takımı; sıkıştırma, aranabilir bir PDF'ye metin tanıma (OCR), parola koruması, izin incelemesi, meta veri düzenleme ve düzleştirme ekler.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Everdisk özel ve güvenli mi?" closed="true" %}}
+{{% ls-details title="Everdisk özel ve güvenli mi?" closed="true" %}}
 Evet. Her şey yerel ağınızda kalır ve internete asla dokunmaz, böylece dosyalarınız evden asla ayrılmaz. Ortada hesap ve bulut yok. Erişimi bir kullanıcı adı ve parolayla koruyabilirsiniz, böylece bağlı cihazlar dosyalarınızı görmeden önce aynı bilgileri girmek zorunda kalır ve herhangi bir cihazı tek dokunuşla engelleyebilirsiniz. En iyi gizlilik için paylaşımı yalnızca tanıdığınız ve güvendiğiniz bir Wi-Fi ağına bağlıyken açın.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Everdisk hangi cihazlarda çalışır?" closed="true" %}}
+{{% ls-details title="Everdisk hangi cihazlarda çalışır?" closed="true" %}}
 Everdisk iPhone ve iPad'de çalışır. Akıllı TV'ler, medya oynatıcıları, Mac, Windows ve Linux bilgisayarlar, web tarayıcıları, diğer telefonlar ve tabletler, NAS sürücüleri ve ağınızdaki herhangi bir DLNA, WebDAV, FTP veya SFTP sunucusuyla paylaşır ve bunlara bağlanır.
-{{% /details %}}
+{{% /ls-details %}}

@@ -17,7 +17,7 @@ readingTime: 6
 La section Listes de lecture vous fournit les outils pour organiser vos pistes en listes. Elle comprend une vue du contenu présentant toutes vos playlists créées, un bouton « ... » dans la barre de navigation offrant diverses actions liées aux playlists, et une barre d'outils de navigation avec les boutons « Rechercher », « Tout lire » et « Lecture aléatoire ». De plus, chaque playlist individuelle dispose d'un bouton « ... » près du titre de la playlist, offrant une gamme d'actions spécifiques à cette playlist.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Écran Listes de lecture d'Evermusic" image="/docs/guide/evermusic/evermusic-guide-playlists/img/playlists-main.webp" >}}
+  {{< ls-card title="" subtitle="Écran Listes de lecture d'Evermusic" image="/docs/guide/evermusic/evermusic-guide-playlists/img/playlists-main.webp" >}}
 {{< /cards >}}
 
 ## Créer une playlist
@@ -25,7 +25,7 @@ La section Listes de lecture vous fournit les outils pour organiser vos pistes e
 Pour créer une nouvelle playlist, appuyez sur le bouton « + » ou le bouton « ... » dans le coin supérieur droit de la barre de navigation, sélectionnez « Nouvelle playlist » et attribuez un nom à votre playlist. Après l'avoir nommée, appuyez sur « Enregistrer ».
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Créer une nouvelle playlist" image="/docs/guide/evermusic/evermusic-guide-playlists/img/playlists-add-new.webp" >}}
+  {{< ls-card title="" subtitle="Créer une nouvelle playlist" image="/docs/guide/evermusic/evermusic-guide-playlists/img/playlists-add-new.webp" >}}
 {{< /cards >}}
 
 Cela ouvre la boîte de dialogue « Ajouter des chansons », où vous pouvez choisir les pistes à ajouter à la nouvelle playlist. Les pistes sont catégorisées par type de source, et vous avez plusieurs options :
@@ -42,7 +42,7 @@ Par défaut, vous ne pouvez ajouter une piste à une playlist qu'une seule fois.
 Dans Evermusic, nous avons ajouté la fonctionnalité d'import de fichiers M3U, afin que vous n'ayez pas à créer des playlists manuellement.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Importer une playlist depuis une source de fichiers" image="/docs/guide/evermusic/evermusic-guide-playlists/img/playlists-import-from-files.webp" >}}
+  {{< ls-card title="" subtitle="Importer une playlist depuis une source de fichiers" image="/docs/guide/evermusic/evermusic-guide-playlists/img/playlists-import-from-files.webp" >}}
 {{< /cards >}}
 
 D'abord, accédez à la section « Listes de lecture ». Ensuite, appuyez sur le bouton « Plus » dans le coin supérieur droit. Dans le menu qui apparaît, sélectionnez l'option « Importer une playlist ».
@@ -62,7 +62,7 @@ L'application analysera le fichier de playlist, créera une liste de pistes et l
 Lorsque vous ouvrez une playlist, l'« Écran de détail de la playlist » apparaît. Sur cet écran, vous trouverez un bouton « ... » dans le coin supérieur droit avec les options de playlist et trois boutons sous l'image de la pochette : « Rechercher », « Continuer la lecture », « Tout lire » et « Lecture aléatoire ». Il y a également une case à cocher « Mode hors ligne ».
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Écran de détail de la playlist" image="/docs/guide/evermusic/evermusic-guide-playlists/img/playlists-detail-screen.webp" >}}
+  {{< ls-card title="" subtitle="Écran de détail de la playlist" image="/docs/guide/evermusic/evermusic-guide-playlists/img/playlists-detail-screen.webp" >}}
 {{< /cards >}}
 
 - **Continuer la lecture** : restaurez la position de lecture pour cette playlist.
@@ -87,7 +87,7 @@ Vous pouvez accéder aux actions pour une playlist en appuyant sur le bouton « 
 - **Supprimer la playlist :** supprimez la playlist de la bibliothèque musicale. Veuillez noter que cette action ne peut pas être annulée.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Menu Plus d'actions pour une playlist" image="/docs/guide/evermusic/evermusic-guide-playlists/img/playlists-more-actions-for-separate-playlist.webp" >}}
+  {{< ls-card title="" subtitle="Menu Plus d'actions pour une playlist" image="/docs/guide/evermusic/evermusic-guide-playlists/img/playlists-more-actions-for-separate-playlist.webp" >}}
 {{< /cards >}}
 
 ## Plus d'actions pour la playlist dans l'écran de détail de la playlist
@@ -113,7 +113,7 @@ Vous pouvez accéder aux actions pour une playlist en appuyant sur le bouton « 
 Pour changer l'ordre des chansons dans une playlist, appuyez sur le bouton « ... » dans le coin supérieur droit et sélectionnez « Sélectionner » pour entrer en mode de sélection. Utilisez le contrôle de réorganisation et les gestes de glisser-déposer près de chaque piste pour les déplacer vers le haut ou le bas. Appuyer sur le contrôle de réorganisation déplacera la piste en haut de la liste. Pour quitter le mode de sélection et appliquer les changements, appuyez sur « Terminé ».
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Changer l'ordre des chansons dans une playlist" image="/docs/guide/evermusic/evermusic-guide-playlists/img/playlists-change-songs-order.webp" >}}
+  {{< ls-card title="" subtitle="Changer l'ordre des chansons dans une playlist" image="/docs/guide/evermusic/evermusic-guide-playlists/img/playlists-change-songs-order.webp" >}}
 {{< /cards >}}
 
 ## Changer l'image de couverture de la playlist
@@ -129,7 +129,7 @@ Ouvrez la playlist et appuyez sur le bouton « ... » dans le coin supérieur dr
 Ouvrez la playlist, appuyez sur le bouton « ... » dans le coin supérieur droit et sélectionnez « Sélectionner » pour entrer en mode de sélection. Choisissez les pistes que vous souhaitez supprimer et appuyez sur le bouton « Supprimer de la playlist » en bas de l'écran. Confirmez les changements en appuyant sur « Terminé ».
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Mode de sélection dans une playlist" image="/docs/guide/evermusic/evermusic-guide-playlists/img/playlists-selection-mode-in-playlist-details-screen.webp" >}}
+  {{< ls-card title="" subtitle="Mode de sélection dans une playlist" image="/docs/guide/evermusic/evermusic-guide-playlists/img/playlists-selection-mode-in-playlist-details-screen.webp" >}}
 {{< /cards >}}
 
 ## Options de la piste
@@ -137,7 +137,7 @@ Ouvrez la playlist, appuyez sur le bouton « ... » dans le coin supérieur droi
 Chaque piste dans une playlist dispose d'une liste d'actions, accessibles en appuyant sur le bouton « ... ». Si vous ne pouvez pas voir toutes les actions, faites défiler vers le bas pour les afficher. Vous pouvez supprimer la piste de la playlist, la télécharger, modifier les tags audio et plus encore.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Menu Options de la piste dans une playlist" image="/docs/guide/evermusic/evermusic-guide-playlists/img/playlists-track-options.webp" >}}
+  {{< ls-card title="" subtitle="Menu Options de la piste dans une playlist" image="/docs/guide/evermusic/evermusic-guide-playlists/img/playlists-track-options.webp" >}}
 {{< /cards >}}
 
 - **Lire ensuite :** ajoute la piste en haut de la file d'attente du lecteur.

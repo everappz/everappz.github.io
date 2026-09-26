@@ -7,7 +7,7 @@ keywords: ["înregistrare video în timp ce redai muzică pe iPhone", "cum să r
 readingTime: 1
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **Pe scurt:** Setează ieșirea audio a Evermusic pe "Mod mixt," începe redarea unei piese, apoi deschide aplicația Cameră și înregistrează. Muzica continuă să se redea în fundal. Funcționează cu TikTok, Instagram și orice aplicație de cameră.
@@ -45,22 +45,22 @@ Acest truc funcționează pe orice iPhone.
 
 ## Întrebări frecvente
 
-{{% details title="Muzica de fundal se înregistrează în video?" closed="true" %}}
+{{% ls-details title="Muzica de fundal se înregistrează în video?" closed="true" %}}
 Muzica se redă prin difuzorul iPhone-ului, deci microfonul o va capta împreună cu alte sunete ambientale. Pentru un audio mai curat, ia în considerare folosirea unui difuzor extern plasat lângă microfon.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Funcționează cu TikTok și Instagram?" closed="true" %}}
+{{% ls-details title="Funcționează cu TikTok și Instagram?" closed="true" %}}
 Da. Odată ce Evermusic este setat pe Mod mixt și o piesă se redă, muzica continuă când deschizi TikTok, Instagram sau orice altă aplicație de cameră sau înregistrare.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Ce este Mod mixt în Evermusic?" closed="true" %}}
+{{% ls-details title="Ce este Mod mixt în Evermusic?" closed="true" %}}
 Mod mixt este o setare de ieșire audio care permite Evermusic să partajeze sesiunea audio cu alte aplicații. Aceasta previne oprirea muzicii când o altă aplicație accesează microfonul sau camera.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Pot folosi Flacbox în loc de Evermusic pentru asta?" closed="true" %}}
+{{% ls-details title="Pot folosi Flacbox în loc de Evermusic pentru asta?" closed="true" %}}
 Da. Flacbox suportă și modul de ieșire audio Mixt. Pașii sunt aceiași: activează Mod mixt în Setări, pornește redarea și deschide aplicația cameră.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Pot juca un joc în timp ce muzica din Evermusic se redă în fundal?" closed="true" %}}
+{{% ls-details title="Pot juca un joc în timp ce muzica din Evermusic se redă în fundal?" closed="true" %}}
 Da. Cu Mod mixt activat, muzica din Evermusic continuă să se redea când deschizi orice joc sau aplicație. Atât sunetul jocului, cât și muzica ta se vor reda în același timp.
-{{% /details %}}
+{{% /ls-details %}}

@@ -26,7 +26,7 @@ The Audio Player is the main screen of the app where you control the music and m
 You can get to the full-screen player from the mini player bar. On iPhone, the mini player sits at the bottom of the main screen. On iPad and Mac, it’s on the left side. To hide the mini player on iPhone, tap it once and swipe down. To fully close the full-screen player, tap the close button in the bottom-right corner.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox Audio Player Main Screen" image="/docs/guide/flacbox/img/audio-player-main-screen.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox Audio Player Main Screen" image="/docs/guide/flacbox/img/audio-player-main-screen.webp" >}}
 {{< /cards >}}
 
 ## Supported Audio Formats
@@ -69,7 +69,7 @@ For AirPlay, look for the **AirPlay** button at the bottom of the player. Tap it
 Flacbox includes a **10-band equalizer** with iPod-style presets. Tap Equalizer on the volume view, then switch it on in the top-right corner. You can use presets like Acoustic and Bass Booster, or adjust each frequency band with sliders. Make your own presets, save them under any name, and boost overall volume with the preamplifier. We have more detailed instructions on how to use the equalizer [here](/docs/howto/how-to-use-the-audio-equalizer-on-your-iphone-ipad-mac-with-evermusic-and-flacbox).
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox Audio Player Equalizer" image="/docs/guide/flacbox/img/audio-player-equalizer.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox Audio Player Equalizer" image="/docs/guide/flacbox/img/audio-player-equalizer.webp" >}}
 {{< /cards >}}
 
 ## Player Mode Toolbar
@@ -85,7 +85,7 @@ For some player styles, there’s a dedicated toolbar at the top of the full-scr
 To see your player queue, tap the queue button on the right side of the current song. Each song in the queue has more actions — tap the three dots to view them. To reorder a song in the queue, use the reorder indicator near the title and drag it to a new position.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox Playback Queue" image="/docs/guide/flacbox/img/playback_queue.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox Playback Queue" image="/docs/guide/flacbox/img/playback_queue.webp" >}}
 {{< /cards >}}
 
 ## Comments / Lyrics
@@ -101,7 +101,7 @@ To view track comments and embedded lyrics, as well as LRC files, follow these s
 After this, tap the player queue button at the bottom of the screen several times to switch from the artwork / queue view to the comments view. On the Comments screen, scroll right to switch between **Comments**, **Embedded Lyrics**, and the **LRC File**. Full instructions are available [here](/docs/howto/how-to-add-and-view-comments-to-your-audio-tracks-on-iphone-ipad-and-mac-with-evermusic-and-flacbox).
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox Lyrics and Comments Screen" image="/docs/guide/flacbox/img/lyrics-screen.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox Lyrics and Comments Screen" image="/docs/guide/flacbox/img/lyrics-screen.webp" >}}
 {{< /cards >}}
 
 ## Options Menu
@@ -124,7 +124,7 @@ Each song in the audio player queue has a menu with more actions, accessed by ta
 The same options are available for the now-playing item in the audio player queue, which you can access by tapping the **More Actions** icon near the track title.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox Options for an Item in the Playback Queue" image="/docs/guide/flacbox/img/options-for-item-in-playback-queue.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox Options for an Item in the Playback Queue" image="/docs/guide/flacbox/img/options-for-item-in-playback-queue.webp" >}}
 {{< /cards >}}
 
 ## Additional Player Actions
@@ -146,7 +146,7 @@ Tap the **More Actions** "..." button on the left side of the currently playing 
 - **Help** — find assistance and guidance.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox Audio Player More Actions Screen" image="/docs/guide/flacbox/img/audio-player-more-actions-screen.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox Audio Player More Actions Screen" image="/docs/guide/flacbox/img/audio-player-more-actions-screen.webp" >}}
 {{< /cards >}}
 
 ## Audio Bookmarks
@@ -164,7 +164,7 @@ To create a new bookmark:
 Editing bookmarks for the current track is easy: tap Edit in the top-right corner to enter edit mode. In this mode, you can rearrange bookmarks, delete them, adjust bookmark time, and change bookmark titles. More detailed instructions on audio bookmarks are available [here](/docs/howto/how-to-listen-to-audiobooks-on-iphone-ipad-mac-using-evermusic).
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox Audio Bookmarks Screen" image="/docs/guide/flacbox/img/audio-bookmarks.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox Audio Bookmarks Screen" image="/docs/guide/flacbox/img/audio-bookmarks.webp" >}}
 {{< /cards >}}
 
 ## Recents and Favorites
@@ -178,7 +178,7 @@ Connect your iPhone to your car via USB or wireless Apple CarPlay and Flacbox ap
 [Read the full CarPlay guide](/docs/howto/how-to-play-your-own-music-on-iphone-using-carplay/).
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox on Apple CarPlay" image="/docs/guide/flacbox/img/carplay-main.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox on Apple CarPlay" image="/docs/guide/flacbox/img/carplay-main.webp" >}}
 {{< /cards >}}
 
 ## Home Screen Widgets (iPhone & iPad)
@@ -246,7 +246,7 @@ Customize the audio equalizer settings. You can read more about configuring the 
 Adjust the playback speed of the audio player from **0.02× to 3.00×**. Tap the configuration icon in the top-right corner to switch to **precise mode** for finer adjustments.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox Playback Speed Screen" image="/docs/guide/flacbox/img/playback-speed.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox Playback Speed Screen" image="/docs/guide/flacbox/img/playback-speed.webp" >}}
 {{< /cards >}}
 
 ### Pitch Correction

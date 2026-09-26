@@ -7,7 +7,7 @@ tags: ["google", "sikkerhet", "personvern", "apper", "konto", "tilgang"]
 readingTime: 2
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **Kort oppsummert:** Gå til [myaccount.google.com](https://myaccount.google.com/) > Sikkerhet > Tredjepartsapper og -tjenester. Klikk på appen du vil fjerne, og velg deretter "Fjern tilgang" eller "Slett alle tilkoblinger." Gjenta for hver app.
@@ -75,18 +75,18 @@ Husk at selv om tredjepartsapper kan forbedre din digitale opplevelse, er det av
 
 ## Vanlige spørsmål
 
-{{% details title="Vil frakobling av en app slette dataene mine fra den appen?" closed="true" %}}
+{{% ls-details title="Vil frakobling av en app slette dataene mine fra den appen?" closed="true" %}}
 Nei. Fjerning av tilgang hindrer bare appen fra å få tilgang til Google-kontoen din fremover. Data som allerede er delt med appen, kan fortsatt eksistere på deres servere. Sjekk appens egne personverninnstillinger for å slette disse dataene.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Kan jeg koble til en app igjen etter å ha koblet den fra?" closed="true" %}}
+{{% ls-details title="Kan jeg koble til en app igjen etter å ha koblet den fra?" closed="true" %}}
 Ja. Hvis du trenger appen igjen, logger du bare inn med Google når du blir bedt om det. Appen vil be om tillatelser igjen, og du kan gjennomgå dem før du gir tilgang.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Hvor ofte bør jeg gjennomgå tilgangen til tredjepartsapper?" closed="true" %}}
+{{% ls-details title="Hvor ofte bør jeg gjennomgå tilgangen til tredjepartsapper?" closed="true" %}}
 Gjennomgå de tilkoblede appene dine hver 3.–6. måned, eller umiddelbart etter at du slutter å bruke en tjeneste. Regelmessige gjennomganger bidrar til å holde kontoen din sikker.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Påvirker dette apper som Evermusic som kobler til Google Drive?" closed="true" %}}
+{{% ls-details title="Påvirker dette apper som Evermusic som kobler til Google Drive?" closed="true" %}}
 Ja. Hvis du kobler fra en app som Evermusic eller Flacbox fra Google-kontoen din, mister den tilgang til Google Drive-filene dine. Du kan koble til igjen når som helst fra appen.
-{{% /details %}}
+{{% /ls-details %}}

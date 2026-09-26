@@ -23,7 +23,7 @@ readingTime: 16
 La pantalla de configuració és el centre de control d'Evervideo. Des d'aquí pots actualitzar a Premium, configurar els motors de vídeo i àudio (còdecs del sistema o FFmpeg), gestionar Picture-in-Picture, configurar subtítols (primaris, secundaris, libass, fitxers externs, fonts), organitzar la biblioteca multimèdia, configurar el gestor de fitxers, activar ginys de pantalla d'inici, fer còpies de seguretat de les dades i accedir a l'ajuda i informació legal. Les seccions s'agrupen sota encapçalaments: Compres i actualitzacions, Preferències de l'app, Ajuda, Legal i privadesa.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Pantalla principal de Configuració d'Evervideo" image="/docs/guide/evervideo/img/evervideo-settings.webp" >}}
+  {{< ls-card title="" subtitle="Pantalla principal de Configuració d'Evervideo" image="/docs/guide/evervideo/img/evervideo-settings.webp" >}}
 {{< /cards >}}
 
 ## Actualitzar a Premium
@@ -31,13 +31,13 @@ La pantalla de configuració és el centre de control d'Evervideo. Des d'aquí p
 Actualitza l'aplicació a la versió Premium per eliminar tots els límits. La versió gratuïta de l'aplicació ofereix una compra única per vida i dues opcions de subscripció (1 mes i 1 any) per eliminar totes les restriccions i actualitzar a Premium.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Actualitzar a Premium a Evervideo" image="/docs/guide/evervideo/img/evervideo-upgrade-to-premium.webp" >}}
+  {{< ls-card title="" subtitle="Actualitzar a Premium a Evervideo" image="/docs/guide/evervideo/img/evervideo-upgrade-to-premium.webp" >}}
 {{< /cards >}}
 
 **Family Sharing** s'activa per a totes les compres i plans, de manera que pots compartir la versió Premium amb fins a cinc membres de la família sense cost addicional.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Seleccionar un pla Premium a Evervideo" image="/docs/guide/evervideo/img/evervideo-select-premium-plan.webp" >}}
+  {{< ls-card title="" subtitle="Seleccionar un pla Premium a Evervideo" image="/docs/guide/evervideo/img/evervideo-select-premium-plan.webp" >}}
 {{< /cards >}}
 
 ## Compartir compres entre iOS i Mac
@@ -51,7 +51,7 @@ També pots tocar el botó **Restaurar compres** a la configuració de l'app. As
 Per restaurar la compra en un dispositiu nou, usa el menú **Compres → Restaurar compres**. Veuràs la llista de les compres. Si no veus totes les compres, confirma que el dispositiu està connectat al mateix Apple ID que es va usar per fer les compres, i assegura't que iCloud està activat.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Menú de compres a la configuració d'Evervideo" image="/docs/guide/evervideo/img/evervideo-purhases-menu-in-settings.webp" >}}
+  {{< ls-card title="" subtitle="Menú de compres a la configuració d'Evervideo" image="/docs/guide/evervideo/img/evervideo-purhases-menu-in-settings.webp" >}}
 {{< /cards >}}
 
 ## Prova Premium gratuïtament

@@ -12,7 +12,7 @@ authors:
     image: "/images/about/artem-meleshko-founder-everappz.webp"
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 ## Per què exportar articles de blog de Wix?
 
@@ -332,33 +332,33 @@ Aquesta única comanda configura l'entorn, extreu tots els articles del blog del
 El projecte és de codi obert. Els informes d'errors, suggeriments de funcions i pull requests són benvinguts.
 
 {{< cards cols="1" >}}
-  {{< card link="https://github.com/everappz/wix-blog-export" title="Projecte a GitHub" icon="github" tag="open source" >}}
+  {{< ls-card link="https://github.com/everappz/wix-blog-export" title="Projecte a GitHub" icon="github" tag="open source" >}}
 {{< /cards >}}
 
 ---
 
 ## Preguntes freqüents
 
-{{% details title="Per què no puc simplement usar `requests` per extreure articles de blog de Wix?" closed="true" %}}
+{{% ls-details title="Per què no puc simplement usar `requests` per extreure articles de blog de Wix?" closed="true" %}}
 Wix renderitza contingut dinàmicament amb JavaScript. Una petició HTTP estàndard retorna un esquelet de pàgina buit. Selenium executa un navegador sense interfície per obtenir l'HTML completament renderitzat.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Funciona amb qualsevol blog de Wix?" closed="true" %}}
+{{% ls-details title="Funciona amb qualsevol blog de Wix?" closed="true" %}}
 Sí. L'scraper llegeix el XML del sitemap i processa cada URL. Només cal actualitzar la variable `SITEMAP_URL` a `parse_blog_sitemap.py` per apuntar al sitemap del teu lloc.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Quin model d'OpenAI utilitza?" closed="true" %}}
+{{% ls-details title="Quin model d'OpenAI utilitza?" closed="true" %}}
 L'script utilitza GPT-4o per defecte. Pots canviar la variable `API_MODEL` a `generate_md.py` per usar un model diferent.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Puc usar això per migrar de Wix a Hugo?" closed="true" %}}
+{{% ls-details title="Puc usar això per migrar de Wix a Hugo?" closed="true" %}}
 Sí. La sortida és Markdown estàndard amb rutes d'imatges locals, que funciona directament amb Hugo, Jekyll, Astro i altres generadors de llocs estàtics. Afegeix front matter als arxius `_index.md` generats per completar la migració.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Quant costa l'API d'OpenAI per a això?" closed="true" %}}
+{{% ls-details title="Quant costa l'API d'OpenAI per a això?" closed="true" %}}
 El cost depèn del nombre i longitud dels teus articles. Un blog típic amb 50 articles de longitud moderada costa uns quants dòlars en ús d'API amb GPT-4o.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Aquesta eina és de codi obert?" closed="true" %}}
+{{% ls-details title="Aquesta eina és de codi obert?" closed="true" %}}
 Sí. El codi font complet està disponible a [GitHub](https://github.com/everappz/wix-blog-export) sota una llicència de codi obert.
-{{% /details %}}
+{{% /ls-details %}}

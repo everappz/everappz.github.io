@@ -19,7 +19,7 @@ Evervideo tarjoaa selkeän, intuitiivisen käyttöliittymän, joka tuntuu tutult
 Toisin kuin useimmat mediasovellukset, Evervideo yhdistää pilvipalvelutilisi, NAS-jako-kansiot, mediapalvelimet ja paikalliset tiedostot yhdeksi, yhdistetyksi Tiedostot-välilehdeksi — joten et pompi eri näyttöjen välillä. Tämä tekee videon siirtämisestä Plex-palvelimelta iCloud Drive -kansioon ja sitten iPhonen Asiakirjat-kansioon yhden näytön ja yhden napautuksen toiminnon.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evervideo Päänäyttö" image="/docs/guide/evervideo/img/evervideo-main.webp" >}}
+  {{< ls-card title="" subtitle="Evervideo Päänäyttö" image="/docs/guide/evervideo/img/evervideo-main.webp" >}}
 {{< /cards >}}
 
 ## Välilehdet
@@ -53,7 +53,7 @@ PiP toimii kaikilla videoformaateilla, joita Evervideo toistaa, mukaan lukien pi
 Käytännöllisesti katsoen jokaisella sisältökohteella näytöllä on Lisää toimintoja -painike ("⋯" kolme pistettä -kuvake). Napauta sitä avataksesi kontekstisensitiivisen valikon, jossa on kaikki kyseiselle kohteelle käytettävissä olevat toiminnot — toista seuraavaksi, toista myöhemmin, lisää soittolistaan, lisää suosikkeihin, muokkaa tunnisteita, lataa, jaa, nimeä uudelleen, siirrä ja niin edelleen. Pitkät listat vierivät pystysuunnassa, jotta pääset vähemmän yleisiin toimintoihin täyttämättä pääkäyttöliittymää.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evervideo Suosikkien Lisää Toimintoja -valikko" image="/docs/guide/evervideo/img/evervideo-favorites-more-actions.webp" >}}
+  {{< ls-card title="" subtitle="Evervideo Suosikkien Lisää Toimintoja -valikko" image="/docs/guide/evervideo/img/evervideo-favorites-more-actions.webp" >}}
 {{< /cards >}}
 
 ## Ylätyökalupalkki

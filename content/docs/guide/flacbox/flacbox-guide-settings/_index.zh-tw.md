@@ -21,7 +21,7 @@ readingTime: 16
 設定畫面是 Flacbox 的控制中心。從這裡您可以升級到 Premium、配置音訊引擎（系統編解碼器或 FFmpeg）、管理音樂庫、設定檔案管理員、自訂音訊標籤編輯器、啟用主畫面小工具和 Apple CarPlay、備份資料，以及存取說明和法律資訊。各部分按以下標題分組：購買與更新、應用程式偏好、說明以及法律與隱私。
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox 設定主畫面" image="/docs/guide/flacbox/img/settings-main.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox 設定主畫面" image="/docs/guide/flacbox/img/settings-main.webp" >}}
 {{< /cards >}}
 
 ## 升級到 Premium
@@ -29,13 +29,13 @@ readingTime: 16
 將應用程式升級到 Premium 版本以移除所有限制。免費版本提供一次性終身應用程式內購買和兩種訂閱選項（1 個月和 1 年），以移除所有限制並升級到 Premium。
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox 升級到 Premium" image="/docs/guide/flacbox/img/upgrade-to-premium.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox 升級到 Premium" image="/docs/guide/flacbox/img/upgrade-to-premium.webp" >}}
 {{< /cards >}}
 
 所有購買和套餐均啟用了**家庭共享**，因此您可以與最多五名家庭成員共享 Premium 版本，無需額外費用。
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox 選擇 Premium 套餐" image="/docs/guide/flacbox/img/select-premium-plan.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox 選擇 Premium 套餐" image="/docs/guide/flacbox/img/select-premium-plan.webp" >}}
 {{< /cards >}}
 
 您可以在這裡了解更多關於購買和 Premium 版本的資訊：[Flacbox 和 Flacbox Premium 的差異是什麼](/docs/faq/flacbox/what-is-the-difference-between-flacbox-and-flacbox-premium/)。

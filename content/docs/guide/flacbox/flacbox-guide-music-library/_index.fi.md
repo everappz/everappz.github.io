@@ -19,7 +19,7 @@ readingTime: 11
 Musiikkikirjastosi hallinta on helppoa Flacboxilla, jossa voit vaivattomasti järjestää kaikki kappaleesi — paikalliset FLAC, ALAC, DSD, MP3, M4A, OGG, WMA, APE ja kymmeniä muita formaatteja — yhteen hakukelpoiseen kokoelmaan.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox Musiikkikirjaston Albumit-näkymä" image="/docs/guide/flacbox/img/media-library-albums.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox Musiikkikirjaston Albumit-näkymä" image="/docs/guide/flacbox/img/media-library-albums.webp" >}}
 {{< /cards >}}
 
 ## Manuaalinen Lisääminen
@@ -27,7 +27,7 @@ Musiikkikirjastosi hallinta on helppoa Flacboxilla, jossa voit vaivattomasti jä
 Lisätäksesi kappaleita manuaalisesti, napauta **Lisää musiikkia** -kuvaketta vasemmassa yläkulmassa ja valitse kansioita tai tiedostoja. Kappaleita lisätessä luodaan vain linkkejä — varsinaiset tiedostot pysyvät alkuperäisissä sijainneissaan.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox Lisää Kappaleita Musiikkikirjastoon" image="/docs/guide/flacbox/img/library-add-songs.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox Lisää Kappaleita Musiikkikirjastoon" image="/docs/guide/flacbox/img/library-add-songs.webp" >}}
 {{< /cards >}}
 
 Mac-versiossa voit myös vetää ja pudottaa tiedostoja kirjastoon, tai käyttää **Avaa tiedostoja…** / **Avaa kansio…** järjestelmän tiedostovalitsimesta iPhonella ja iPadilla.
@@ -87,7 +87,7 @@ Ylätyökalupalkki tarjoaa useita käteviä toimintoja: Hae, Toista kaikki, Tois
 Hakuominaisuus mahdollistaa tietyn kappaleen, artistin, albumin tai genren löytämisen musiikkikirjastostasi.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox Musiikkikirjaston Haku" image="/docs/guide/flacbox/img/media-library-search.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox Musiikkikirjaston Haku" image="/docs/guide/flacbox/img/media-library-search.webp" >}}
 {{< /cards >}}
 
 ## Asetusvalikko
@@ -129,7 +129,7 @@ Voit aktivoida valintatilan käyttäen Lisää toimintoja -painiketta oikeassa y
 Kun avaat Artisti-, Albumiartisti- tai Säveltäjä-osiot, näet valitsimen Kappaleet / Kaikki albumit / Eksklusiiviset albumit / Solo-albumit.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox Albumin Yksityiskohtanäyttö" image="/docs/guide/flacbox/img/media-library-album-details-screen.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox Albumin Yksityiskohtanäyttö" image="/docs/guide/flacbox/img/media-library-album-details-screen.webp" >}}
 {{< /cards >}}
 
 ## Asetukset

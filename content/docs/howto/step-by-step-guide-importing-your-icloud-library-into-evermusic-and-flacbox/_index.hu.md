@@ -7,7 +7,7 @@ tags: ["zene", "felhő", "streaming", "szinkronizálás", "icloud", "könyvtár"
 keywords: ["iCloud zene importálás Evermusic", "Flacbox iCloud szinkronizálás", "Evermusic streaming iCloudból", "zenei könyvtár iOS alkalmazás", "Flacbox metaadat-olvasó", "iCloud zene streaming iPhone"]
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **Összefoglaló:** Streamelheti iCloud Drive zenei könyvtárát az Evermusic és Flacbox alkalmazásokban anélkül, hogy fájlokat töltene le eszközére. Csatlakoztassa az iCloud Drive-ot az alkalmazásban, engedélyezze az Online zeneszinkronizálást könyvtára felépítéséhez, konfigurálja a metaadat-olvasót az előadó/album/műfaj szerinti rendezéshez, és opcionálisan engedélyezze az Offline módot albumok letöltéséhez internet nélküli hallgatáshoz. Ezek a lépések a Google Drive, Dropbox, OneDrive és más támogatott felhőszolgáltatásokkal is működnek.
@@ -148,26 +148,26 @@ Ez minden mára! Reméljük, hogy ez az útmutató segít konfigurálni a szinkr
 
 ## GYIK
 
-{{% details title="Streamelhetem az iCloud zenét fájlok letöltése nélkül az iPhone-omra?" closed="true" %}}
+{{% ls-details title="Streamelhetem az iCloud zenét fájlok letöltése nélkül az iPhone-omra?" closed="true" %}}
 Igen. Amikor csatlakoztatja az iCloud Drive-ot az Evermusic vagy Flacbox alkalmazásban és használja az Online zeneszinkronizálást, az alkalmazás hivatkozásokat hoz létre a felhőfájljaihoz és igény szerint streameli őket. A fájlok nem töltődnek le, hacsak nem engedélyezi kifejezetten az Offline módot.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Miért lassú az iCloud zene importálás a Flacbox vagy Evermusic alkalmazásban?" closed="true" %}}
+{{% ls-details title="Miért lassú az iCloud zene importálás a Flacbox vagy Evermusic alkalmazásban?" closed="true" %}}
 A lassú importálást általában a nagy könyvtár metaadat-olvasása okozza mobilkapcsolaton keresztül. Engedélyezze a Háttérszinkronizálást, indítsa el a hanglejátszást az alkalmazás aktívan tartásához, és fontolja meg a Mac verzió használatát nagy gyűjtemények kezdeti szinkronizálásához.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Működik ez az útmutató az iCloudon kívüli felhőszolgáltatásokkal?" closed="true" %}}
+{{% ls-details title="Működik ez az útmutató az iCloudon kívüli felhőszolgáltatásokkal?" closed="true" %}}
 Igen. Ugyanazok a lépések vonatkoznak a Google Drive, Dropbox, OneDrive, SMB, WebDAV és az Evermusic és Flacbox által támogatott összes többi felhőszolgáltatásra.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Hogyan vihetem át zenei könyvtáramat Macről iPhone-ra?" closed="true" %}}
+{{% ls-details title="Hogyan vihetem át zenei könyvtáramat Macről iPhone-ra?" closed="true" %}}
 Használja az adat biztonsági mentés/visszaállítás funkciót az alkalmazás beállításaiban. Először szinkronizálja és olvassa a metaadatokat a Mac verzión, hozzon létre biztonsági mentést, majd állítsa vissza az iOS verzión. Ez a leggyorsabb módja nagy könyvtár beállításának iPhone-on.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="A metaadat-olvasó megváltoztatja az eredeti hangfájljaimat?" closed="true" %}}
+{{% ls-details title="A metaadat-olvasó megváltoztatja az eredeti hangfájljaimat?" closed="true" %}}
 Nem. A metaadat-olvasó csak a megjelenítési információkat frissíti a zenei könyvtárában. Nem módosítja a felhőfiókjában vagy eszközén tárolt fájlokat. A fájlcímkék szerkesztéséhez használja a beépített címkeszerkesztőt.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Hogyan tehetem elérhetővé az albumokat offline?" closed="true" %}}
+{{% ls-details title="Hogyan tehetem elérhetővé az albumokat offline?" closed="true" %}}
 Használja az Offline mód funkciót. Koppintson a **További műveletek** gombra bármely felhőmappán és válassza az **Offline mód engedélyezése** lehetőséget. Az alkalmazás letölti az összes fájlt és automatikusan szinkronban tartja őket a felhőverzióval.
-{{% /details %}}
+{{% /ls-details %}}

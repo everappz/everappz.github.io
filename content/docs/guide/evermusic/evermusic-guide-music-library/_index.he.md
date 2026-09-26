@@ -15,7 +15,7 @@ readingTime: 11
 ניהול ספריית המוזיקה שלך הוא משחק ילדים עם Evermusic, שבה תוכל לארגן את כל המסלולים שלך ללא מאמץ. יש לך שתי אפשרויות לבניית ספריית המוזיקה שלך: הוספה ידנית או סנכרון אוטומטי.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="מסך ספריית המוזיקה של Evermusic" image="/docs/guide/evermusic/evermusic-guide-music-library/img/music-library-main.webp" >}}
+  {{< ls-card title="" subtitle="מסך ספריית המוזיקה של Evermusic" image="/docs/guide/evermusic/evermusic-guide-music-library/img/music-library-main.webp" >}}
 {{< /cards >}}
 
 ## הוספה ידנית
@@ -23,7 +23,7 @@ readingTime: 11
 להוספה ידנית של מסלולים, הקש על פריט התפריט "הוסף מוזיקה" ובחר תיקיות/קבצים משירות אחסון הענן המחובר או קבצים הנמצאים במכשיר שלך. כאשר אתה מוסיף מסלולים לספרייה, נוצרים רק קישורים למסלולים אלה, ושומרים על הקבצים הממשיים במיקומיהם המקוריים לחיסכון בשטח הדיסק. אם ברצונך להפוך מסלולים לזמינים לא מקוון, אתה יכול להשתמש בפעולת ההורדה מתפריט האפשרויות או להפעיל מצב לא מקוון עבור פלייליסטים ואוספי מסלולים.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="הוסף שירים לספריית המוזיקה" image="/docs/guide/evermusic/evermusic-guide-music-library/img/music-library-add-songs.webp" >}}
+  {{< ls-card title="" subtitle="הוסף שירים לספריית המוזיקה" image="/docs/guide/evermusic/evermusic-guide-music-library/img/music-library-add-songs.webp" >}}
 {{< /cards >}}
 
 ## גישה מהירה
@@ -75,7 +75,7 @@ readingTime: 11
 הממוקם ממש מתחת לסרגל הניווט, סרגל הכלים העליון מציע מספר פעולות נוחות: "חיפוש", "נגן הכל", "נגן באקראי" ו"המשך ניגון". אתה יכול לגלות או להסתיר סרגל כלים זה עם תנועת החלקה פשוטה כלפי מטה.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="תצוגת אלבומים — מקובץ לפי תגיות מוזיקה" image="/docs/guide/evermusic/evermusic-guide-music-library/img/music-library-albums.webp" >}}
+  {{< ls-card title="" subtitle="תצוגת אלבומים — מקובץ לפי תגיות מוזיקה" image="/docs/guide/evermusic/evermusic-guide-music-library/img/music-library-albums.webp" >}}
 {{< /cards >}}
 
 ## חיפוש
@@ -83,7 +83,7 @@ readingTime: 11
 תכונת החיפוש מעצימה אותך לאתר מסלול, אמן, אלבום או ז'אנר ספציפי בספריית המוזיקה שלך. ב"מסך החיפוש", יש לך גישה לפעולות הבאות: "מיון", "סינון", "רשת/רשימה".
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="תוצאות חיפוש בספריית המוזיקה" image="/docs/guide/evermusic/evermusic-guide-music-library/img/music-library-search.webp" >}}
+  {{< ls-card title="" subtitle="תוצאות חיפוש בספריית המוזיקה" image="/docs/guide/evermusic/evermusic-guide-music-library/img/music-library-search.webp" >}}
 {{< /cards >}}
 
 ## תפריט אפשרויות
@@ -91,7 +91,7 @@ readingTime: 11
 לכל שיר בספריית המוזיקה שלך יש תפריט עם פעולות נוספות, נגיש על ידי הקשה על כפתור שלוש הנקודות ליד כותרת השיר. פעולות אלה משתנות בהתאם לאם מדובר בשיר בודד או חלק מאוסף.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="עוד פעולות עבור פריט ספרייה" image="/docs/guide/evermusic/evermusic-guide-music-library/img/music-library-item-more-actions.webp" >}}
+  {{< ls-card title="" subtitle="עוד פעולות עבור פריט ספרייה" image="/docs/guide/evermusic/evermusic-guide-music-library/img/music-library-item-more-actions.webp" >}}
 {{< /cards >}}
 
 ### עבור שירים בודדים
@@ -125,7 +125,7 @@ readingTime: 11
 אתה יכול להפעיל מצב בחירה באמצעות כפתור עוד פעולות בפינה הימנית העליונה. במצב זה, אתה יכול לבחור מספר מסלולים ולבצע פעולות שונות.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="מצב בחירה בספריית המוזיקה" image="/docs/guide/evermusic/evermusic-guide-music-library/img/music-library-selection-mode.webp" >}}
+  {{< ls-card title="" subtitle="מצב בחירה בספריית המוזיקה" image="/docs/guide/evermusic/evermusic-guide-music-library/img/music-library-selection-mode.webp" >}}
 {{< /cards >}}
 
 ## קיבוץ לפי תגיות
@@ -145,7 +145,7 @@ readingTime: 11
 כאשר אתה פותח את סעיפי האמן, אמן האלבום, או המלחין, אתה יכול לראות מתג לשירים/כל האלבומים/אלבומים בלעדיים/אלבומים סולו.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="פרטי אלבום עם מתג שירים / כל / בלעדי / סולו" image="/docs/guide/evermusic/evermusic-guide-music-library/img/music-library-album-details.webp" >}}
+  {{< ls-card title="" subtitle="פרטי אלבום עם מתג שירים / כל / בלעדי / סולו" image="/docs/guide/evermusic/evermusic-guide-music-library/img/music-library-album-details.webp" >}}
 {{< /cards >}}
 
 - **שירים**: מציג את כל השירים שבהם אמן/אמן אלבום/מלחין זה מוגדר בתגיות השמע.
@@ -166,7 +166,7 @@ readingTime: 11
 הקש על פריט התפריט "הגדרות" כדי להגדיר את העדפות ספריית המוזיקה שלך.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="הגדרות ספריית המוזיקה" image="/docs/guide/evermusic/evermusic-guide-music-library/img/music-library-settings.webp" >}}
+  {{< ls-card title="" subtitle="הגדרות ספריית המוזיקה" image="/docs/guide/evermusic/evermusic-guide-music-library/img/music-library-settings.webp" >}}
 {{< /cards >}}
 
 #### קריאת מטאדטה

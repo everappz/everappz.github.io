@@ -23,7 +23,7 @@ readingTime: 14
 ניתן להגיע לנגן מסך מלא משורת המיני נגן. ב-iPhone, המיני נגן נמצא בתחתית המסך הראשי. ב-iPad וב-Mac, הוא נמצא בצד השמאלי. להסתרת המיני נגן ב-iPhone, הקישו עליו פעם אחת והחליקו כלפי מטה. לסגירה מלאה של נגן מסך מלא, הקישו על כפתור הסגירה בפינה הימנית התחתונה.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="המסך הראשי של נגן האודיו של Flacbox" image="/docs/guide/flacbox/img/audio-player-main-screen.webp" >}}
+  {{< ls-card title="" subtitle="המסך הראשי של נגן האודיו של Flacbox" image="/docs/guide/flacbox/img/audio-player-main-screen.webp" >}}
 {{< /cards >}}
 
 ## פורמטי אודיו נתמכים
@@ -66,7 +66,7 @@ Flacbox משמיע את פורמטי האודיו הפופולריים ביות�
 Flacbox כולל **איקולייזר 10 פסים** עם פריסטים בסגנון iPod. הקישו על איקולייזר בתצוגת עוצמת קול, ולאחר מכן הפעילו אותו בפינה הימנית העליונה. ניתן להשתמש בפריסטים כמו אקוסטי ומגבר בסים, או לכוונן כל פס תדרים עם מחוונים. צרו פריסטים משלכם, שמרו אותם תחת כל שם, והגבירו את עוצמת הקול הכללית עם הפריאמפליפייר. יש לנו הוראות מפורטות יותר על שימוש באיקולייזר [כאן](/docs/howto/how-to-use-the-audio-equalizer-on-your-iphone-ipad-mac-with-evermusic-and-flacbox).
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="איקולייזר נגן האודיו של Flacbox" image="/docs/guide/flacbox/img/audio-player-equalizer.webp" >}}
+  {{< ls-card title="" subtitle="איקולייזר נגן האודיו של Flacbox" image="/docs/guide/flacbox/img/audio-player-equalizer.webp" >}}
 {{< /cards >}}
 
 ## סרגל כלים מצב נגן
@@ -82,7 +82,7 @@ Flacbox כולל **איקולייזר 10 פסים** עם פריסטים בסגנ
 לראיית תור הנגן שלכם, הקישו על כפתור התור בצד הימני של השיר הנוכחי. לכל שיר בתור יש פעולות נוספות — הקישו על שלוש הנקודות לצפייה בהן. לסידור מחדש של שיר בתור, השתמשו במחוון הסדר מחדש ליד הכותרת וגררו אותו למיקום חדש.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="תור השמעה ב-Flacbox" image="/docs/guide/flacbox/img/playback_queue.webp" >}}
+  {{< ls-card title="" subtitle="תור השמעה ב-Flacbox" image="/docs/guide/flacbox/img/playback_queue.webp" >}}
 {{< /cards >}}
 
 ## תגובות / מילות שיר
@@ -98,7 +98,7 @@ Flacbox כולל **איקולייזר 10 פסים** עם פריסטים בסגנ
 לאחר זאת, הקישו על כפתור תור הנגן בתחתית המסך מספר פעמים כדי לעבור מתצוגת אמנות / תור לתצוגת תגובות. במסך התגובות, גללו ימינה כדי לעבור בין **תגובות**, **מילות שיר מוטמעות** ו-**קובץ LRC**. הוראות מלאות זמינות [כאן](/docs/howto/how-to-add-and-view-comments-to-your-audio-tracks-on-iphone-ipad-and-mac-with-evermusic-and-flacbox).
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="מסך מילות שיר ותגובות ב-Flacbox" image="/docs/guide/flacbox/img/lyrics-screen.webp" >}}
+  {{< ls-card title="" subtitle="מסך מילות שיר ותגובות ב-Flacbox" image="/docs/guide/flacbox/img/lyrics-screen.webp" >}}
 {{< /cards >}}
 
 ## תפריט אפשרויות
@@ -121,7 +121,7 @@ Flacbox כולל **איקולייזר 10 פסים** עם פריסטים בסגנ
 אותן אפשרויות זמינות עבור הפריט המושמע כעת בתור נגן האודיו, אליהן ניתן לגשת על ידי הקשה על סמל **עוד פעולות** ליד כותרת הרצועה.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="אפשרויות עבור פריט בתור השמעה ב-Flacbox" image="/docs/guide/flacbox/img/options-for-item-in-playback-queue.webp" >}}
+  {{< ls-card title="" subtitle="אפשרויות עבור פריט בתור השמעה ב-Flacbox" image="/docs/guide/flacbox/img/options-for-item-in-playback-queue.webp" >}}
 {{< /cards >}}
 
 ## פעולות נגן נוספות
@@ -143,7 +143,7 @@ Flacbox כולל **איקולייזר 10 פסים** עם פריסטים בסגנ
 - **עזרה** — מצאו סיוע והדרכה.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="מסך עוד פעולות של נגן האודיו ב-Flacbox" image="/docs/guide/flacbox/img/audio-player-more-actions-screen.webp" >}}
+  {{< ls-card title="" subtitle="מסך עוד פעולות של נגן האודיו ב-Flacbox" image="/docs/guide/flacbox/img/audio-player-more-actions-screen.webp" >}}
 {{< /cards >}}
 
 ## סימניות אודיו
@@ -161,7 +161,7 @@ Flacbox כולל **איקולייזר 10 פסים** עם פריסטים בסגנ
 עריכת סימניות לרצועה הנוכחית קלה: הקישו על ערוך בפינה הימנית העליונה כדי להיכנס למצב עריכה. במצב זה, ניתן לסדר מחדש סימניות, למחוק אותן, לכוונן את זמן הסימנייה ולשנות כותרות סימניות. הוראות מפורטות יותר על סימניות אודיו זמינות [כאן](/docs/howto/how-to-listen-to-audiobooks-on-iphone-ipad-mac-using-evermusic).
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="מסך סימניות אודיו ב-Flacbox" image="/docs/guide/flacbox/img/audio-bookmarks.webp" >}}
+  {{< ls-card title="" subtitle="מסך סימניות אודיו ב-Flacbox" image="/docs/guide/flacbox/img/audio-bookmarks.webp" >}}
 {{< /cards >}}
 
 ## עדכונים אחרונים ומועדפים
@@ -175,7 +175,7 @@ Flacbox כולל **איקולייזר 10 פסים** עם פריסטים בסגנ
 [קראו את מדריך CarPlay המלא](/docs/howto/how-to-play-your-own-music-on-iphone-using-carplay/).
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox על Apple CarPlay" image="/docs/guide/flacbox/img/carplay-main.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox על Apple CarPlay" image="/docs/guide/flacbox/img/carplay-main.webp" >}}
 {{< /cards >}}
 
 ## ווידג'טים של מסך הבית (iPhone וiPad)
@@ -243,7 +243,7 @@ Flacbox תומך בווידג'טים של מסך הבית ומסך הנעילה 
 כווננו את מהירות ההשמעה של נגן האודיו מ-**0.02× עד 3.00×**. הקישו על סמל התצורה בפינה הימנית העליונה כדי לעבור ל-**מצב מדויק** לכוונונים עדינים יותר.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="מסך מהירות השמעה ב-Flacbox" image="/docs/guide/flacbox/img/playback-speed.webp" >}}
+  {{< ls-card title="" subtitle="מסך מהירות השמעה ב-Flacbox" image="/docs/guide/flacbox/img/playback-speed.webp" >}}
 {{< /cards >}}
 
 ### תיקון גובה צליל

@@ -74,18 +74,18 @@ Evervideo 使用每個雲端服務商的官方 SDK 和基於 OAuth 的登入，�
 
 {{< cards cols="2">}}
 
-{{< card icon="map" link="/docs/guide/evervideo/evervideo-guide-navigation" title="導覽" subtitle="iPhone 上的標籤列，iPad 和 Mac 上的左側選單，常駐迷你媒體播放器。" >}}
+{{< ls-card icon="map" link="/docs/guide/evervideo/evervideo-guide-navigation" title="導覽" subtitle="iPhone 上的標籤列，iPad 和 Mac 上的左側選單，常駐迷你媒體播放器。" >}}
 
-{{< card icon="folder" link="/docs/guide/evervideo/evervideo-guide-files" title="檔案" subtitle="雲端、NAS、RTSP 串流、本機檔案、USB 磁碟機和傳輸佇列的統一標籤頁。" >}}
+{{< ls-card icon="folder" link="/docs/guide/evervideo/evervideo-guide-files" title="檔案" subtitle="雲端、NAS、RTSP 串流、本機檔案、USB 磁碟機和傳輸佇列的統一標籤頁。" >}}
 
-{{< card icon="collection" link="/docs/guide/evervideo/evervideo-guide-video-library" title="媒體資料庫" subtitle="按專輯、流派、最近使用的、最愛項目瀏覽——以及 iOS Photos 資料庫和 Apple Music 資料庫。" >}}
+{{< ls-card icon="collection" link="/docs/guide/evervideo/evervideo-guide-video-library" title="媒體資料庫" subtitle="按專輯、流派、最近使用的、最愛項目瀏覽——以及 iOS Photos 資料庫和 Apple Music 資料庫。" >}}
 
-{{< card icon="music-note" link="/docs/guide/evervideo/evervideo-guide-playlists" title="播放清單" subtitle="從雲端、本機、Photos 或 Music 資料庫建立播放清單，匯入 M3U / M3U8 / CUE。" >}}
+{{< ls-card icon="music-note" link="/docs/guide/evervideo/evervideo-guide-playlists" title="播放清單" subtitle="從雲端、本機、Photos 或 Music 資料庫建立播放清單，匯入 M3U / M3U8 / CUE。" >}}
 
-{{< card icon="play" link="/docs/guide/evervideo/evervideo-guide-player" title="媒體播放器" subtitle="子母畫面、音訊和視訊軌道、字幕、音訊和視訊等化器、AirPlay、Chromecast。" >}}
+{{< ls-card icon="play" link="/docs/guide/evervideo/evervideo-guide-player" title="媒體播放器" subtitle="子母畫面、音訊和視訊軌道、字幕、音訊和視訊等化器、AirPlay、Chromecast。" >}}
 
-{{< card icon="adjustments" link="/docs/guide/evervideo/evervideo-guide-settings" title="設定" subtitle="音訊引擎、視訊解碼器、字幕、資料庫、檔案管理員、小工具、個人化、語言、備份。" >}}
+{{< ls-card icon="adjustments" link="/docs/guide/evervideo/evervideo-guide-settings" title="設定" subtitle="音訊引擎、視訊解碼器、字幕、資料庫、檔案管理員、小工具、個人化、語言、備份。" >}}
 
-{{< card icon="question-mark-circle" link="/docs/faq/evervideo" title="常見問題" subtitle="尋找有關 Evervideo 最常見問題的解答。" >}}
+{{< ls-card icon="question-mark-circle" link="/docs/faq/evervideo" title="常見問題" subtitle="尋找有關 Evervideo 最常見問題的解答。" >}}
 
 {{< /cards >}}

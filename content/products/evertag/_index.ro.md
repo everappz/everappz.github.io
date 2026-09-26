@@ -15,14 +15,14 @@ screenshots:
   - "https://everappz.com/products/evertag/screenshots/2048x2732/3.png"
 ---
 
-{{% sr-only %}}
+{{% ls-sr-only %}}
 Evertag este un editor de taguri muzicale pentru iPhone și Mac, dezvoltat de Everappz, o companie de software spaniolă. Evertag permite utilizatorilor să editeze peste 120 de taguri de metadate audio, inclusiv titlu, artist, album, artistul albumului, gen, an, numărul piesei, numărul discului, compozitor, BPM, versuri, comentarii și altele. Aplicația suportă editarea tagurilor în lot, permițând utilizatorilor să actualizeze metadatele pentru mai multe fișiere simultan. Evertag include un căutător automat de taguri alimentat de baza de date MusicBrainz care identifică melodiile și completează metadatele lipsă, precum și un căutător de coperți de album care caută și aplică artwork pe piese. Aplicația suportă peste 30 de formate audio, inclusiv MP3, FLAC, OGG, OPUS, M4A, WAV, WMA, APE, AIFF, ALAC, MKA, MOD, XM, IT și S3M. Evertag poate accesa fișiere din servicii de stocare în cloud, inclusiv iCloud Drive, Google Drive, Dropbox și OneDrive, precum și de pe unități flash USB și locații din rețeaua locală prin SMB și WebDAV. Aplicația dispune, de asemenea, de un manager de fișiere integrat, transfer de fișiere prin Wi-Fi, corecție de codificare pentru tagurile afișate incorect în scripturi non-latine și un editor de versuri. Evertag este disponibil ca descărcare gratuită pe App Store cu achiziții opționale în aplicație care includ un abonament lunar la $2.99, un abonament anual la $9.99 sau o achiziție unică pe viață la $29.99.
-{{% /sr-only %}}
+{{% /ls-sr-only %}}
 
 
-{{< force-dark >}}
+{{< ls-force-dark >}}
 
-{{< hextra/hero-container
+{{< ls-hero-container
   image="/products/evertag/heroimage/evertag_mac_600_345.png"
   imageWidth="600"
 >}}
@@ -30,37 +30,37 @@ Evertag este un editor de taguri muzicale pentru iPhone și Mac, dezvoltat de Ev
 <div class="hx:w-full hx:text-center">
 
 <div class="hx:mt-4">
-{{< downloads-badge >}}
+{{< ls-downloads-badge >}}
 </div>
 
 <div class="hx:mt-6 hx:mb-6">
 <div class="hx:flex hx:gap-4 hx:items-center hx:justify-center">
-  {{< app-icon src="/images/app_icons/png/Evertag_Icon-App-1024x1024.png" alt="Evertag Icon" class="hero-headline-icon" size="80" >}}
-  {{< hextra/hero-headline >}}
+  {{< ls-app-icon src="/images/app_icons/png/Evertag_Icon-App-1024x1024.png" alt="Evertag Icon" class="hero-headline-icon" size="80" >}}
+  {{< ls-hero-headline >}}
   Evertag
-  {{< /hextra/hero-headline >}}
+  {{< /ls-hero-headline >}}
 </div>
 </div>
 
 <div class="hx:mb-6">
-{{< hextra/hero-centered-subtitle >}}
+{{< ls-hero-centered-subtitle >}}
 <strong>Păstrați-vă Biblioteca Muzicală Organizată</strong>
-{{< /hextra/hero-centered-subtitle >}}
+{{< /ls-hero-centered-subtitle >}}
 </div>
 
 <div class="hx:mb-6">
-{{< hextra/hero-paragraph >}}
+{{< ls-hero-paragraph >}}
 • Adăugați sau actualizați coperțile albumelor  
 • Editați tagurile pentru mai multe melodii simultan  
 • Reparați codificarea defectă și completați automat tagurile lipsă  
-{{< /hextra/hero-paragraph >}}
+{{< /ls-hero-paragraph >}}
 </div>
 
-{{< app-store-badges products="evertag:ios, evertag:macos" >}}
+{{< ls-app-store-badges products="evertag:ios, evertag:macos" >}}
 
 </div>
 
-{{< /hextra/hero-container >}}
+{{< /ls-hero-container >}}
 
 <div class="hx:mt-6"></div>
 
@@ -68,63 +68,63 @@ Evertag este un editor de taguri muzicale pentru iPhone și Mac, dezvoltat de Ev
 
 {{< hextra/feature-grid >}}
 
-  {{< hextra/feature-card
+  {{< ls-glass-feature-card
     title="Editare Peste 120+ Taguri"
     subtitle="Editați rapid taguri muzicale precum Titlu, Artist, Album, Artist Album, BPM, Comentariu, Compozitor, Număr Disc, Gen, Versuri, Evaluare, Număr Pistă, An și multe altele."
     icon="pencil"
     style="background: radial-gradient(ellipse at 50% 80%, rgba(59,130,246,0.15), hsla(0,0%,100%,0));"
   >}}
 
-  {{< hextra/feature-card
+  {{< ls-glass-feature-card
     title="Editare Taguri în Lot"
     subtitle="Actualizați metadatele pentru mai multe fișiere simultan. Economisiți timp și păstrați biblioteca muzicală bine organizată cu doar câteva atingeri."
     icon="database"
     style="background: radial-gradient(ellipse at 50% 80%, rgba(192,38,211,0.15), hsla(0,0%,100%,0));"
   >}}
 
-  {{< hextra/feature-card
+  {{< ls-glass-feature-card
     title="Găsiți Coperți de Album"
     subtitle="Găsiți și adăugați automat ilustrațiile de album lipsă pentru melodiile dvs. Faceți colecția de muzică completă vizual."
     icon="camera"
     style="background: radial-gradient(ellipse at 50% 80%, rgba(234,88,12,0.15), hsla(0,0%,100%,0));"
   >}}
 
-  {{< hextra/feature-card
+  {{< ls-glass-feature-card
     title="Funcționează cu Peste 30 de Formate"
     subtitle="Suportă MP3, FLAC, OGG, OPUS, M4A, WAV, WMA, APE, AIFF, MOD, XM, IT și multe altele."
     icon="music-note"
     style="background: radial-gradient(ellipse at 50% 80%, rgba(236,72,153,0.15), hsla(0,0%,100%,0));"
   >}}
 
-  {{< hextra/feature-card
+  {{< ls-glass-feature-card
     title="Căutare Automată Taguri"
     subtitle="Detectați informațiile lipsă ale melodiilor și completați-le automat folosind baza de date MusicBrainz. Alegeți să revizuiți modificările sau să le aplicați instant."
     icon="search"
     style="background: radial-gradient(ellipse at 50% 80%, rgba(34,197,94,0.15), hsla(0,0%,100%,0));"
   >}}
 
-  {{< hextra/feature-card
+  {{< ls-glass-feature-card
     title="Reparare Probleme de Codificare"
     subtitle="Reparați caracterele defecte sau ilizibile din metadatele dvs. Evertag păstrează tagurile curate și clare în orice limbă."
     icon="translate"
     style="background: radial-gradient(ellipse at 50% 80%, rgba(251,191,36,0.15), hsla(0,0%,100%,0));"
   >}}
 
-  {{< hextra/feature-card
+  {{< ls-glass-feature-card
     title="Acces Cloud și USB"
     subtitle="Editați muzica direct din iCloud Drive, Google Drive, Dropbox, OneDrive, unități flash USB sau foldere partajate — fără a fi necesară copierea."
     icon="cloud"
     style="background: radial-gradient(ellipse at 50% 80%, rgba(6,182,212,0.15), hsla(0,0%,100%,0));"
   >}}
 
-  {{< hextra/feature-card
+  {{< ls-glass-feature-card
     title="Transfer Muzică prin Wi-Fi"
     subtitle="Încărcați cu ușurință muzică pe iPhone sau iPad de pe computer folosind o conexiune Wi-Fi. Nu sunt necesare cabluri."
     icon="wifi"
     style="background: radial-gradient(ellipse at 50% 80%, rgba(245,158,11,0.15), hsla(0,0%,100%,0));"
   >}}
 
-  {{< hextra/feature-card
+  {{< ls-glass-feature-card
     title="Manager de Fișiere Integrat"
     subtitle="Organizați-vă fișierele muzicale cu instrumente integrate. Redenumiți, Mutați, Ștergeți, Marcați Favorite și Vizualizați Activitatea Recentă — totul într-o singură aplicație."
     icon="folder-open"
@@ -139,47 +139,47 @@ Evertag este un editor de taguri muzicale pentru iPhone și Mac, dezvoltat de Ev
 <div class="hx:mt-6"></div>
 
 <div class="hx:w-full">
-{{< appstore-reviews apps="1450763230,1594027661" stars="5,4"  app="Evertag" >}}
+{{< ls-appstore-reviews apps="1450763230,1594027661" stars="5,4"  app="Evertag" >}}
 </div>
 
 <div class="hx:mt-6"></div>
 
-{{< hextra/section-headline >}}
+{{< ls-section-headline >}}
   Planuri de Prețuri
-{{< /hextra/section-headline >}}
+{{< /ls-section-headline >}}
 
 <div class="hx:mt-6"></div>
 
 <div class="hx:w-full">
 
-{{< pricing-plans >}}
+{{< ls-pricing-plans >}}
 
 </div>
 
 <div class="hx:mt-6"></div>
 
 <div class="hx:w-full hx:mx-auto hx:flex hx:flex-col hx:items-center">
-  {{< hextra/info-paragraph border="true" >}}
+  {{< ls-info-paragraph border="true" >}}
    <strong>Partajare Familială</strong>: Toate achizițiile și abonamentele acceptă Partajarea Familială, permițându-vă să partajați accesul Premium cu familia dvs.<br><strong>Acces Universal</strong>: Planurile pe viață și de abonament sunt partajate între dispozitivele iOS și Mac folosind sincronizarea iCloud.<br><strong>Prețuri</strong>: Prețurile sunt afișate în dolari americani pentru Statele Unite. Prețul final poate varia în funcție de regiunea dvs.  
-  {{< /hextra/info-paragraph >}}
+  {{< /ls-info-paragraph >}}
 </div>
 
 <div class="hx:mt-6"></div>
 
 <div class="hx:w-full">
-{{< app-details heading="true" >}}
+{{< ls-app-details heading="true" >}}
 </div>
 
 <div class="hx:mt-6"></div>
 
-{{< hextra/section-headline >}}
+{{< ls-section-headline >}}
   Întrebări Frecvente
-{{< /hextra/section-headline >}}
+{{< /ls-section-headline >}}
 
 <div class="hx:mt-6"></div>
 
 <div class="hx:w-full">
-{{% details title="Ce este Evertag?" closed="true" %}}
+{{% ls-details title="Ce este Evertag?" closed="true" %}}
 Evertag este un editor puternic de metadate muzicale și manager de ilustrații de album conceput pentru iOS și macOS. Vă oferă instrumentele necesare pentru a vă organiza colecția de muzică ca un profesionist, indiferent dacă fișierele sunt stocate local sau în cloud. Cu o interfață curată și funcții avansate de editare, Evertag facilitează repararea tagurilor lipsă, adăugarea de coperți de album de înaltă calitate și asigurarea că biblioteca dvs. muzicală arată excelent și rămâne consecventă.<br><br>
 
 Aplicația suportă o gamă largă de formate audio populare, inclusiv MP3, FLAC, WAV, M4A, WMA, OGG și multe altele. Permite editarea tagurilor comune precum titlu, artist, album, gen, an, număr pistă, precum și câmpuri extinse precum BPM, număr disc, versuri, ID-uri MusicBrainz și altele. Puteți lucra cu un fișier la un moment dat sau puteți trece la modul lot pentru a edita mai multe piste simultan — perfect pentru organizarea albumelor sau playlisturilor complete.<br><br>
@@ -187,14 +187,14 @@ Aplicația suportă o gamă largă de formate audio populare, inclusiv MP3, FLAC
 Una dintre caracteristicile remarcabile ale Evertag este capacitatea sa de a prelua coperți de album lipsă direct de pe internet sau de a vă permite să le adăugați manual. Puteți folosi și editorul de versuri pentru a adăuga versuri nesincronizate melodiilor dvs., îmbunătățind redarea în playerele compatibile. Aplicația suportă editarea pe loc, astfel încât puteți modifica tagurile audio fără a fi nevoie să copiați sau să mutați fișierele.<br><br>
 
 Fie că gestionați muzica pe dispozitiv sau în cloud folosind Dropbox, OneDrive, MEGA sau alte servicii, Evertag oferă acces și editare fără probleme. Este soluția perfectă pentru muzicieni, DJ-i și colecționari care doresc să mențină o bibliotecă muzicală curată și bine organizată pe iPhone, iPad fără a avea nevoie de un computer desktop.<br><br>
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Este Evertag gratuit?" closed="true" %}}
+{{% ls-details title="Este Evertag gratuit?" closed="true" %}}
 Evertag este o aplicație gratuită cu unele limite pe care le puteți elimina după actualizarea la versiunea Premium. Aplicația oferă o achiziție pe viață și două opțiuni de abonament (1 lună și 1 an) pentru a elimina toate restricțiile, permițându-vă să alegeți cel mai bun și optim preț pentru dvs. Prețurile pot varia în funcție de țara sau teritoriul dvs. De asemenea, vă rugăm să rețineți că Partajarea Familială este activată pentru toate achizițiile și planurile, astfel încât puteți partaja versiunea Premium cu membrii familiei dvs.<br><br>
 Achizițiile pe viață și abonamentele sunt partajate între iOS și Mac, folosind iCloud pentru sincronizarea acestor informații. Dacă aveți versiunea Premium pe dispozitivul iOS, asigurați-vă că aveți instalată cea mai recentă versiune și că iCloud este activat. Porniți aplicația pe iOS și așteptați un minut pentru ca informațiile despre achiziție să fie încărcate pe iCloud.<br><br>
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Care este diferența între Evertag Gratuit și Evertag Premium?" closed="true" %}}
+{{% ls-details title="Care este diferența între Evertag Gratuit și Evertag Premium?" closed="true" %}}
 
 **Evertag Gratuit**  <br>
 Evertag Gratuit vă oferă acces la funcții puternice de editare a metadatelor muzicale cu unele limitări funcționale. Include reclame și permite utilizarea de bază a editorului de taguri, editorului de coperți de album și editării în lot. Puteți repara problemele de codificare, conecta 1 cont de stocare cloud și marca până la 10 fișiere favorite. În plus, puteți efectua 20 de căutări automate de taguri și 20 de căutări de coperți de album pe zi.<br><br>
@@ -213,9 +213,9 @@ Utilizatorii Premium au acces și la setări complete de personalizare, inclusiv
 
 Fiecare opțiune premium include același set de funcții, astfel încât puteți alege planul care se potrivește nevoilor și bugetului dvs.<br><br>
 
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Este Evertag sigur?" closed="true" %}}
+{{% ls-details title="Este Evertag sigur?" closed="true" %}}
 Evertag folosește doar SDK oficial și conexiuni securizate pentru a interacționa cu serviciile cloud conectate. Datele dvs. de autentificare nu sunt accesibile aplicației. Toate cererile de la aplicație către serviciul cloud sunt criptate.<br>
 Când introduceți datele de autentificare, aplicația vă arată pagina oficială de autorizare furnizată de furnizorul serviciului cloud și întregul proces de autorizare se face în afara aplicației. Furnizorul serviciului cloud trimite un token de autentificare aplicației după autorizarea cu succes, iar acel token este utilizat pentru a efectua apeluri API.<br><br>
 
@@ -226,9 +226,9 @@ Pentru a respinge tokenul de autentificare, conectați-vă la contul dvs. în br
 
 Puteți de asemenea deconecta conturile cloud conectate în aplicație și tokenul de autentificare va fi eliminat de pe dispozitivul dvs. Dacă eliminați aplicația de pe dispozitiv, toate datele descărcate și tokenurile de acces vor fi eliminate.<br><br>
 
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Cum editez metadatele fișierelor din muzica descărcată local pe iPhone?" closed="true" %}}
+{{% ls-details title="Cum editez metadatele fișierelor din muzica descărcată local pe iPhone?" closed="true" %}}
 După ce ați instalat aplicația, deschideți ecranul „Fișiere Locale" și derulați în jos la secțiunea „Fișiere pe acest iPhone".<br>
 De acolo, alegeți „Deschide fișiere..." dacă trebuie să selectați mai multe fișiere audio sau „Deschide folder..." dacă doriți să alegeți un folder de muzică.<br>
 Aplicația va scana conținutul folderului și toate fișierele audio găsite vor fi selectate.<br>
@@ -242,9 +242,9 @@ Deschideți ecranul „Fișiere locale".<br>
 Derulați în jos la secțiunea „Fișiere pe acest dispozitiv" și atingeți „Conectare folder".<br>
 Selectați un folder situat pe dispozitiv și atingeți „Deschide" pentru a confirma selecția.<br>
 Folderul dvs. va fi adăugat la secțiunea „Fișiere pe acest iPhone" oferind acces rapid la fișierele audio.<br><br>
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Cum adaug versuri pentru melodii în Evertag?" closed="true" %}}
+{{% ls-details title="Cum adaug versuri pentru melodii în Evertag?" closed="true" %}}
 Puteți adăuga versuri încorporate pieselor dvs. în aplicația Evertag urmând acești pași:<br><br>
 * Începeți editarea unui fișier audio atingându-l.<br>
 * Atingeți „Afișare taguri extinse" pentru a comuta editorul de taguri în modul avansat.<br>
@@ -258,9 +258,9 @@ Puteți adăuga versuri încorporate pieselor dvs. în aplicația Evertag urmân
 Tutorial mai detaliat disponibil aici:<br>
 [Cum să editați versuri pentru fișiere audio pe iPhone sau MAC](/docs/howto/how-to-edit-lyrics-for-audio-files-on-iphone-mac/)<br><br>
 
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Cum transfer muzică în Evertag de pe computer?" closed="true" %}}
+{{% ls-details title="Cum transfer muzică în Evertag de pe computer?" closed="true" %}}
 Puteți conecta computerul sau NAS-ul personal folosind SMB, WebDAV. Alternativ, utilizați iTunes File Sharing pentru a transfera muzica.<br><br>
 
 Pentru a conecta un computer folosind protocolul **SMB**, atingeți „Conectare la stocare cloud" → SMB.<br>
@@ -295,23 +295,23 @@ Copiați fișierele de pe computer în folderul partajat de pe dispozitiv.<br><b
 Instrucțiuni detaliate disponibile aici:<br>
 [Cum să redați fișiere locale (fișiere iTunes) pe iPhone](/docs/howto/how-to-play-local-itunes-files-on-my-iphone)<br><br>
 
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Ce formate audio suportă Evertag?" closed="true" %}}
+{{% ls-details title="Ce formate audio suportă Evertag?" closed="true" %}}
 Iată lista completă a formatelor audio suportate și extensiile de fișiere corespunzătoare:<br><br>
 
 MP3, OGG, OGA, FLAC, MPC, WV, SPX, OPUS, TTA, M4A, M4R, M4B, M4P, MP4, 3G2, M4V, WMA, ASF, AIF, AIFF, AFC, AIFC, WAV, APE, MOD, MODULE, NTS, WOW, S3M, IT, XM.<br>
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Ce taguri audio suportă Evertag?" closed="true" %}}
+{{% ls-details title="Ce taguri audio suportă Evertag?" closed="true" %}}
 Iată lista completă a tagurilor audio suportate:<br><br>
 
 ASIN, AcoustID: Fingerprint, AcoustID: Identifier, Album, Album Artist, Album Artist Sort Order, Album Cover, Album Sort Order, Arranger, Artist, Artist Sort Order, Artists, Barcode, Beats Per Minute, Catalog Number, Comment, Compilation, Composer, Composer Sort Order, Conductor, Content Group, Copyright, Description, Director, Disk Number, Disk Subtitle, Disk Total, Encoded By, Encoder Settings, Encoding Time, Engineer, File Owner, File Type, Genre, Grouping, ISRC, Initial Key, Involved People, Language, Length, License, Lyricist, Lyrics Advisory Rating, Lyrics Unsynced, Media Type, Mix DJ, Mixer, Mood, Movement Name, Movement Number, Movement Total, MusicBrainz: Album Artist ID, MusicBrainz: Album ID, MusicBrainz: Album Release Country, MusicBrainz: Album Status, MusicBrainz: Album Type, MusicBrainz: Artist ID, MusicBrainz: Disc ID, MusicBrainz: Original Album ID, MusicBrainz: Original Artist ID, MusicBrainz: Release Group ID, MusicBrainz: Release Track ID, MusicBrainz: TRM ID, MusicBrainz: Track ID, MusicBrainz: Work ID, MusicIP: Fingerprint, MusicIP: PUID, Musician Credits, Narrator, Net Radio Owner, Net Radio Station, Original Album, Original Artist, Original File Name, Original Lyricist, Original Release Date, Original Release Year, Performer, Podcast, Podcast Category, Podcast Description, Podcast ID, Podcast Keywords, Podcast URL, Producer, Publisher, Rating, Record Label, Release Country, Release Status, Release Type, Remixed By, Replay Gain: Album Gain, Replay Gain: Album Peak, Replay Gain: Album Range, Replay Gain: Reference Loudness, Replay Gain: Track Gain, Replay Gain: Track Peak, Replay Gain: Track Range, Script, Show Movement, Show Name, Show Name Sort Order, Subtitle, Track Number, Track Title, Track Title Sort Order, Track Total, WWW, WWW: Artist, WWW: Audio File, WWW: Audio Source, WWW: Commercial Info, WWW: Copyright, WWW: Payment, WWW: Publisher, WWW: Radio Page, Website, Work Title, Writer, Year<br><br>
 
 [Citiți mai mult](/docs/guide/evertag/evertag-tag-field-mappings/)
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Cum descarc fișiere?" closed="true" %}}
+{{% ls-details title="Cum descarc fișiere?" closed="true" %}}
 Înainte de a putea descărca fișiere audio și edita taguri audio, trebuie să conectați un serviciu de stocare cloud.<br>
 Deschideți ecranul „Conexiuni" și adăugați furnizorul de stocare cloud.<br>
 Odată adăugat, puteți începe descărcarea fișierelor în aplicație.<br><br>
@@ -321,10 +321,10 @@ Pentru a descărca fișiere din cloud:<br>
 – Navigați la folderul pe care doriți să-l descărcați.<br>
 – Atingeți butonul „Mai multe acțiuni" („...") din colțul din dreapta sus și selectați elementul de meniu „Selectare".<br>
 – Alegeți fișierele sau folderele pe care doriți să le descărcați și atingeți acțiunea „Descărcare".<br>
-{{% /details %}}
+{{% /ls-details %}}
 
 
-{{% details title="Ce servicii cloud sunt suportate?" closed="true" %}}
+{{% ls-details title="Ce servicii cloud sunt suportate?" closed="true" %}}
 Dacă biblioteca dvs. muzicală este stocată în cloud, puteți conecta cele mai populare servicii cloud direct în aplicație:<br>
 Dropbox, OneDrive, Box, MEGA, Yandex.Disk, MediaFire, pCloud, HiDrive.<br><br>
 
@@ -332,9 +332,9 @@ Puteți naviga și gestiona fișierele folosind managerul de fișiere integrat. 
 
 Puteți de asemenea edita fișiere audio stocate local pe dispozitiv folosind funcția de editare pe loc. Nu este nevoie să le copiați din alte aplicații — pur și simplu deschideți-le și editați-le direct.<br><br>
 
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Cum actualizez automat metadatele fișierului pe un serviciu cloud?" closed="true" %}}
+{{% ls-details title="Cum actualizez automat metadatele fișierului pe un serviciu cloud?" closed="true" %}}
 După ce terminați editarea metadatelor, atingeți butonul „Salvare" din colțul din dreapta sus pentru a aplica modificările fișierelor selectate.<br><br>
 
 Dacă editați un fișier stocat în cloud, aplicația vă oferă mai multe opțiuni pentru actualizarea metadatelor fișierului. Aceste comportamente pot fi personalizate în setări:<br><br>
@@ -344,10 +344,10 @@ Dacă editați un fișier stocat în cloud, aplicația vă oferă mai multe opț
 • **Nu actualiza metadatele fișierului** – Când este activat, aplicația va omite actualizarea metadatelor fișierului cloud după editare.<br><br>
 
 Puteți găsi și modifica aceste opțiuni în setările Evertag din secțiunea preferințe de actualizare a metadatelor.
-{{% /details %}}
+{{% /ls-details %}}
 
 
-{{% details title="Cum adaug un cont nou?" closed="true" %}}
+{{% ls-details title="Cum adaug un cont nou?" closed="true" %}}
 Pentru a conecta un serviciu cloud, deschideți fila „Conexiuni" → selectați elementul de meniu „Conectare la stocare cloud" → alegeți un serviciu de stocare cloud din listă → introduceți datele de autentificare și atingeți „Terminat".<br><br>
 
 Dacă întâmpinați probleme, asigurați-vă că conexiunea la internet este activă și verificați din nou datele de autentificare.<br><br>
@@ -355,9 +355,9 @@ Dacă întâmpinați probleme, asigurați-vă că conexiunea la internet este ac
 Serviciile suportate în prezent includ: Dropbox, OneDrive, Box, MEGA, Yandex.Disk, Media Fire, PCloud și HiDrive.<br><br>
 
 În versiunea Premium a aplicației, puteți adăuga un număr nelimitat de conturi cloud.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Cum gestionez fișierele mele în stocarea de rețea?" closed="true" %}}
+{{% ls-details title="Cum gestionez fișierele mele în stocarea de rețea?" closed="true" %}}
 Dacă trebuie să editați mai multe fișiere situate în stocarea cloud, activați modul de selectare atingând butonul „..." din colțul din dreapta sus.<br><br>
 
 Odată activat, casetele de selectare vor apărea lângă fiecare fișier. Puteți apoi efectua acțiuni asupra fișierelor individuale sau selecta mai multe fișiere pentru a aplica acțiuni în masă.<br><br>
@@ -371,10 +371,10 @@ Acțiuni disponibile pentru fișierele selectate:<br>
 • <strong>Grilă/Listă</strong> – Comutați între modurile de vizualizare tabel și miniatură.<br><br>
 
 Dacă nu este suficient spațiu pentru a afișa toate opțiunile, va apărea un buton „Mai multe acțiuni". Atingeți-l pentru a accesa lista completă a acțiunilor disponibile.
-{{% /details %}}
+{{% /ls-details %}}
 
 
-{{% details title="Cum editez mai multe fișiere ca un singur fișier?" closed="true" %}}
+{{% ls-details title="Cum editez mai multe fișiere ca un singur fișier?" closed="true" %}}
 Cu „modul lot", puteți edita mai multe fișiere simultan și aplica modificări de metadate partajate rapid și eficient.<br><br>
 
 Pentru a activa modul lot:<br>
@@ -382,38 +382,38 @@ Pentru a activa modul lot:<br>
 • Atingeți butonul „Editare mai multe fișiere simultan".<br><br>
 
 Acest mod este deosebit de util când trebuie să aplicați același nume de album, artist, gen sau alte câmpuri de metadate pe mai multe fișiere audio.
-{{% /details %}}
+{{% /ls-details %}}
 
 </div>
 
 <div class="hx:mt-6"></div>
 
-{{< hextra/section-headline >}}
+{{< ls-section-headline >}}
   Ghid de Utilizare
-{{< /hextra/section-headline >}}
+{{< /ls-section-headline >}}
 
 <div class="hx:mt-6"></div>
 
 <div class="hx:w-full">
 
 <div class="hx:w-full hx:mx-auto hx:flex hx:flex-col hx:items-center hx:text-center">
-  {{< hextra/info-paragraph border="false" >}}
+  {{< ls-info-paragraph border="false" >}}
   În acest ghid, veți descoperi cum să valorificați puterea Evertag pe iPhone, iPad și Mac, făcând experiența de gestionare a muzicii fără probleme și plăcută.
-  {{< /hextra/info-paragraph >}}
+  {{< /ls-info-paragraph >}}
 </div>
 
 {{< cards >}}
-  {{< feature-card icon="location-marker" title="Navigare" subtitle="Aflați cum să navigați fără efort în aplicația noastră folosind Bara de File (pentru utilizatorii iPhone) sau Meniul din Stânga (pentru utilizatorii iPad și Mac) pentru a accesa și explora toate funcțiile aplicației." link="/docs/guide/evertag/evertag-guide-navigation" >}}
+  {{< ls-feature-card icon="location-marker" title="Navigare" subtitle="Aflați cum să navigați fără efort în aplicația noastră folosind Bara de File (pentru utilizatorii iPhone) sau Meniul din Stânga (pentru utilizatorii iPad și Mac) pentru a accesa și explora toate funcțiile aplicației." link="/docs/guide/evertag/evertag-guide-navigation" >}}
 
-  {{< feature-card icon="cloud" title="Conexiuni" subtitle="Conectați fără efort toate conturile cloud disponibile cu fișierele audio prețioase. Puteți chiar edita fișierele online fără efort folosind managerul de fișiere integrat." link="/docs/guide/evertag/evertag-guide-connections" >}}
+  {{< ls-feature-card icon="cloud" title="Conexiuni" subtitle="Conectați fără efort toate conturile cloud disponibile cu fișierele audio prețioase. Puteți chiar edita fișierele online fără efort folosind managerul de fișiere integrat." link="/docs/guide/evertag/evertag-guide-connections" >}}
 
-  {{< feature-card icon="folder" title="Fișiere Locale" subtitle="Vizualizați și organizați fișierele stocate în folderul Documents al aplicației sau pe dispozitiv. Utilizați managerul de fișiere integrat pentru a edita și gestiona fișierele audio cu ușurință." link="/docs/guide/evertag/evertag-guide-local-files" >}}
+  {{< ls-feature-card icon="folder" title="Fișiere Locale" subtitle="Vizualizați și organizați fișierele stocate în folderul Documents al aplicației sau pe dispozitiv. Utilizați managerul de fișiere integrat pentru a edita și gestiona fișierele audio cu ușurință." link="/docs/guide/evertag/evertag-guide-local-files" >}}
 
-  {{< feature-card icon="pencil-alt" title="Editor Taguri" subtitle="Stăpâniți arta manipulării metadatelor fișierelor audio. Aflați cum să editați metadatele, să transformați coperțile albumelor și să gestionați fără probleme mai multe fișiere simultan." link="/docs/guide/evertag/evertag-guide-tag-editor" >}}
+  {{< ls-feature-card icon="pencil-alt" title="Editor Taguri" subtitle="Stăpâniți arta manipulării metadatelor fișierelor audio. Aflați cum să editați metadatele, să transformați coperțile albumelor și să gestionați fără probleme mai multe fișiere simultan." link="/docs/guide/evertag/evertag-guide-tag-editor" >}}
 
-  {{< feature-card icon="code" title="Mapări Câmpuri Taguri" subtitle="Explorați lista completă a câmpurilor de taguri audio suportate de aplicația Evertag, inclusiv numele interne ale câmpurilor și mapările între formatele principale de metadate." link="/docs/guide/evertag/evertag-tag-field-mappings" >}}
+  {{< ls-feature-card icon="code" title="Mapări Câmpuri Taguri" subtitle="Explorați lista completă a câmpurilor de taguri audio suportate de aplicația Evertag, inclusiv numele interne ale câmpurilor și mapările între formatele principale de metadate." link="/docs/guide/evertag/evertag-tag-field-mappings" >}}
 
-  {{< feature-card icon="adjustments" title="Setări" subtitle="Descoperiți cum să personalizați experiența aplicației, să ajustați performanța, să gestionați utilizarea datelor și să adaptați preferințele de limbă și interfață utilizator după gustul dvs." link="/docs/guide/evertag/evertag-guide-settings" >}}
+  {{< ls-feature-card icon="adjustments" title="Setări" subtitle="Descoperiți cum să personalizați experiența aplicației, să ajustați performanța, să gestionați utilizarea datelor și să adaptați preferințele de limbă și interfață utilizator după gustul dvs." link="/docs/guide/evertag/evertag-guide-settings" >}}
 
 {{< /cards >}}
 

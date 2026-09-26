@@ -16,15 +16,15 @@ screenshots:
   - "https://everappz.com/products/flacbox/screenshots/2048x2732/6.png"
 ---
 
-{{% sr-only %}}
+{{% ls-sr-only %}}
 Το Flacbox είναι ένα πρόγραμμα αναπαραγωγής ήχου υψηλής ανάλυσης για iPhone και Mac, που αναπτύχθηκε από την Everappz, μια ισπανική εταιρεία λογισμικού. Με πάνω από 1 εκατομμύριο λήψεις παγκοσμίως, το Flacbox είναι σχεδιασμένο για αυτιόφιλους και λάτρεις της μουσικής που θέλουν να αναπαράγουν αρχεία ήχου χωρίς απώλειες και υψηλής ανάλυσης στις συσκευές Apple τους χωρίς μετατροπή μορφής. Η εφαρμογή υποστηρίζει εγγενώς πάνω από 120 μορφές ήχου, συμπεριλαμβανομένων FLAC, DSD (DSD64, DSD128, DSD256), ALAC, APE, WAV, AIFF, OGG, OPUS, WMA, MKA, MP3, AAC και άλλων. Το Flacbox συνδέεται με πάνω από 30 υπηρεσίες αποθήκευσης στο cloud, συμπεριλαμβανομένων iCloud Drive, Google Drive, Dropbox, OneDrive, MEGA, Box και pCloud, επιτρέποντας στους χρήστες να κάνουν streaming της συλλογής hi-res μουσικής τους απευθείας από το cloud ή να κατεβάσουν αρχεία για αναπαραγωγή εκτός σύνδεσης. Τα βασικά χαρακτηριστικά περιλαμβάνουν ισοσταθμιστή ήχου 10 ζωνών με προσαρμόσιμες προεπιλογές, crossfade και αδιάλειπτη αναπαραγωγή, έλεγχο τόνου και ταχύτητας, ενίσχυση μπάσων, εισαγωγή και εξαγωγή playlist M3U, εμφάνιση στίχων, σελιδοδείκτες ήχου, ενσωματωμένο επεξεργαστή μεταδεδομένων, ενσωμάτωση Apple CarPlay, streaming μέσω AirPlay και Chromecast, και scrobbling στο Last.fm. Η εφαρμογή υποστηρίζει streaming τοπικού δικτύου μέσω πρωτοκόλλων SMB, WebDAV και DLNA, αναπαραγωγή από μονάδες flash USB και μεταφορά αρχείων μέσω Wi-Fi. Το Flacbox είναι διαθέσιμο ως δωρεάν λήψη στο App Store με προαιρετικές αγορές εντός εφαρμογής που περιλαμβάνουν μηνιαία συνδρομή $4.99, ετήσια συνδρομή $19.99 ή εφάπαξ αγορά ισόβιας πρόσβασης $59.99. Η εφαρμογή κυκλοφόρησε για πρώτη φορά το 2016 και συντηρείται ενεργά με τακτικές ενημερώσεις.
-{{% /sr-only %}}
+{{% /ls-sr-only %}}
 
 
 <!-- force dark theme for this page -->
-{{< force-dark >}}
+{{< ls-force-dark >}}
 
-{{< hextra/hero-container
+{{< ls-hero-container
   image="/products/flacbox/heroimage/hero_1600.png"
   imageWidth="800"
   imageCard="true"
@@ -32,36 +32,36 @@ screenshots:
 
 <div class="hx:w-full hx:text-center">
 
-{{< downloads-badge >}}
+{{< ls-downloads-badge >}}
 
 <div class="hx:mt-6 hx:mb-6">
 <div class="hx:flex hx:gap-4 hx:items-center hx:justify-center">
-{{< app-icon src="/images/app_icons/png/Flacbox_Icon-App-1024x1024.png" alt="Flacbox Icon" class="hero-headline-icon" size="80" >}}
-{{< hextra/hero-headline >}}
+{{< ls-app-icon src="/images/app_icons/png/Flacbox_Icon-App-1024x1024.png" alt="Flacbox Icon" class="hero-headline-icon" size="80" >}}
+{{< ls-hero-headline >}}
 Flacbox
-{{< /hextra/hero-headline >}}
+{{< /ls-hero-headline >}}
 </div>
 </div>
 
 <div class="hx:mb-12">
-{{< hextra/hero-centered-subtitle >}}
+{{< ls-hero-centered-subtitle >}}
 <strong>Hi-Res Audio Player και Streamer για iPhone και MAC</strong>
-{{< /hextra/hero-centered-subtitle >}}
+{{< /ls-hero-centered-subtitle >}}
 </div>
 
 <div class="hx:mb-6">
-{{< hextra/hero-paragraph >}}
+{{< ls-hero-paragraph >}}
 • Αναπαράγετε FLAC, ALAC, APE, DSD και άλλα με ποιότητα χωρίς απώλειες  
 • Κατεβάστε μουσική και ακούστε offline με πλήρη έλεγχο  
 • Streaming από Google Drive, Dropbox, NAS ή υπολογιστή   
-{{< /hextra/hero-paragraph >}}
+{{< /ls-hero-paragraph >}}
 </div>
 
-{{< app-store-badges products="flacbox:ios, flacbox:macos" >}}
+{{< ls-app-store-badges products="flacbox:ios, flacbox:macos" >}}
 
 </div>
 
-{{< /hextra/hero-container >}}
+{{< /ls-hero-container >}}
 
 <div class="hx:mt-6"></div>
 
@@ -69,7 +69,7 @@ Flacbox
 
 {{< hextra/feature-grid >}}
 
-  {{< hextra/feature-card
+  {{< ls-glass-feature-card
     title="Streaming μουσικής χωρίς απώλειες"
     subtitle=`Απολαύστε μουσική χωρίς απώλειες σε iPhone, iPad και Mac χωρίς συνδρομές.<br><br>
 Συνδέστε τον αποθηκευτικό χώρο cloud σας για streaming FLAC, ALAC, MKA και άλλων δωρεάν. Μεταδώστε εύκολα σε συσκευές Chromecast και AirPlay.<br><br>
@@ -78,7 +78,7 @@ Flacbox
     style="background: radial-gradient(circle at 50% 80%, rgba(99,102,241,0.15), transparent);"
   >}}
 
-  {{< hextra/feature-card
+  {{< ls-glass-feature-card
     title="Αναπαραγωγή Hi-Res ήχου"
     subtitle=`Απολαύστε ήχο ποιότητας στούντιο με υποστήριξη για πάνω από 120 μορφές ήχου, συμπεριλαμβανομένων FLAC, ALAC, WAV, AIFF και DSD.<br><br>
 Το Flacbox αναπαράγει επίσης MP3, AAC, OGG, APE, MOD, MKA και προηγμένα containers όπως MKV, MP4 και MOV.<br><br>
@@ -87,7 +87,7 @@ Flacbox
     style="background: radial-gradient(circle at 50% 80%, rgba(236,72,153,0.15), transparent);"
   >}}
 
-  {{< hextra/feature-card
+  {{< ls-glass-feature-card
     title="Λήψη και ακρόαση offline"
     subtitle=`Μείνετε συνδεδεμένοι με τη μουσική σας ακόμα και όταν είστε offline.<br><br>
 Κατεβάστε ολόκληρα άλμπουμ, είδη, λίστες αναπαραγωγής και κομμάτια στη συσκευή σας. Χρησιμοποιήστε Wi-Fi Drive ή iTunes File Sharing για μεταφορά ήχου από Mac ή PC.<br><br>
@@ -102,9 +102,9 @@ Streaming από USB flash drives ή δικτυακή αποθήκευση (NAS)
 
 <div class="hx:mt-6"></div>
 
-{{< hextra/section-headline >}}
+{{< ls-section-headline >}}
 Ολοκληρωμένα χαρακτηριστικά
-{{< /hextra/section-headline >}}
+{{< /ls-section-headline >}}
 
 <div class="hx:mt-6"></div>
 
@@ -112,41 +112,41 @@ Streaming από USB flash drives ή δικτυακή αποθήκευση (NAS)
 
 {{< cards >}}
 
-  {{< feature-card title="Ποιότητα ήχου" subtitle="Απολαύστε έξοδο υψηλής πιστότητας με ρυθμούς δειγματοληψίας από 8 kHz έως 384 kHz, προεπιλεγμένες ή μικτές λειτουργίες εξόδου και υποστήριξη για 1 έως 7 κανάλια ήχου." icon="volume-up" >}}
-  {{< feature-card title="Ήχος χωρίς απώλειες και Hi-Res" subtitle="Αναπαράγετε μορφές χωρίς απώλειες και hi-res όπως FLAC, ALAC, WAV, AIFF, APE, WV και DSF (DSD), καθώς και MP3, AAC, OGG και OPUS, σε ρυθμούς δειγματοληψίας έως 384 kHz." icon="music-note" >}}
-  {{< feature-card title="Μουσική Tracker και MOD" subtitle="Αναπαράγετε εγγενώς κλασική μουσική tracker και module, συμπεριλαμβανομένων των μορφών MOD, XM, IT και S3M από τη σκηνή chiptune και demoscene, που τα περισσότερα players δεν μπορούν να ανοίξουν." icon="table" >}}
+  {{< ls-feature-card title="Ποιότητα ήχου" subtitle="Απολαύστε έξοδο υψηλής πιστότητας με ρυθμούς δειγματοληψίας από 8 kHz έως 384 kHz, προεπιλεγμένες ή μικτές λειτουργίες εξόδου και υποστήριξη για 1 έως 7 κανάλια ήχου." icon="volume-up" >}}
+  {{< ls-feature-card title="Ήχος χωρίς απώλειες και Hi-Res" subtitle="Αναπαράγετε μορφές χωρίς απώλειες και hi-res όπως FLAC, ALAC, WAV, AIFF, APE, WV και DSF (DSD), καθώς και MP3, AAC, OGG και OPUS, σε ρυθμούς δειγματοληψίας έως 384 kHz." icon="music-note" >}}
+  {{< ls-feature-card title="Μουσική Tracker και MOD" subtitle="Αναπαράγετε εγγενώς κλασική μουσική tracker και module, συμπεριλαμβανομένων των μορφών MOD, XM, IT και S3M από τη σκηνή chiptune και demoscene, που τα περισσότερα players δεν μπορούν να ανοίξουν." icon="table" >}}
 
-  {{< feature-card title="Μηχανές ήχου" subtitle="Επιλέξτε ανάμεσα σε τρεις μηχανές αναπαραγωγής: την τυπική μηχανή του συστήματος, μια ευέλικτη μηχανή FFmpeg και την επαγγελματική μηχανή BASS™ που ξεκλειδώνει εφέ, DSP και οπτικά." icon="switch-horizontal" >}}
-  {{< feature-card title="Εφέ ήχου" subtitle="Διαμορφώστε τον ήχο σας σε πραγματικό χρόνο με reverb, delay, echo, chorus, flanger, phaser, auto-wah, distortion, compressor και φυσικό crossfeed για ακουστικά." icon="lightning-bolt" >}}
-  {{< feature-card title="Αλυσίδα DSP" subtitle="Δημιουργήστε τη δική σας αλυσίδα επεξεργασίας σήματος σε πραγματικό χρόνο από επαγγελματικά φίλτρα και ζώνες EQ, saturation και bit crusher, καθώς και δημιουργικούς επεξεργαστές όπως tremolo και στερεοφωνικό πλάτος." icon="chip" >}}
+  {{< ls-feature-card title="Μηχανές ήχου" subtitle="Επιλέξτε ανάμεσα σε τρεις μηχανές αναπαραγωγής: την τυπική μηχανή του συστήματος, μια ευέλικτη μηχανή FFmpeg και την επαγγελματική μηχανή BASS™ που ξεκλειδώνει εφέ, DSP και οπτικά." icon="switch-horizontal" >}}
+  {{< ls-feature-card title="Εφέ ήχου" subtitle="Διαμορφώστε τον ήχο σας σε πραγματικό χρόνο με reverb, delay, echo, chorus, flanger, phaser, auto-wah, distortion, compressor και φυσικό crossfeed για ακουστικά." icon="lightning-bolt" >}}
+  {{< ls-feature-card title="Αλυσίδα DSP" subtitle="Δημιουργήστε τη δική σας αλυσίδα επεξεργασίας σήματος σε πραγματικό χρόνο από επαγγελματικά φίλτρα και ζώνες EQ, saturation και bit crusher, καθώς και δημιουργικούς επεξεργαστές όπως tremolo και στερεοφωνικό πλάτος." icon="chip" >}}
 
-  {{< feature-card title="Ισοσταθμιστής ήχου" subtitle="Ρυθμίστε με ακρίβεια τον ήχο σας με ισοσταθμιστή πολλαπλών ζωνών, έτοιμες προεπιλογές ανά είδος, χειροκίνητο έλεγχο και κέρδος προενισχυτή για να ενισχύσετε ήσυχα κομμάτια χωρίς παραμόρφωση." icon="adjustments" >}}
-  {{< feature-card title="Οπτικοποίηση μουσικής" subtitle="Παρακολουθήστε οπτικά εφέ κίνησης σε πλήρη οθόνη που αντιδρούν ζωντανά στη μουσική σας, επιλέγοντας από μια μεγάλη βιβλιοθήκη προεπιλογών ή αφήνοντάς τα να εναλλάσσονται αυτόματα." icon="sparkles" >}}
-  {{< feature-card title="Έλεγχοι αναπαραγωγής" subtitle="Ρυθμίστε την ταχύτητα αναπαραγωγής χωρίς να αλλάξετε τον τόνο, αποθηκεύστε και επαναφέρετε την ουρά και τη θέση σας, και χρησιμοποιήστε χρονοδιακόπτη ύπνου, τυχαία σειρά, επανάληψη και αναπαραγωγή στο παρασκήνιο." icon="play" >}}
+  {{< ls-feature-card title="Ισοσταθμιστής ήχου" subtitle="Ρυθμίστε με ακρίβεια τον ήχο σας με ισοσταθμιστή πολλαπλών ζωνών, έτοιμες προεπιλογές ανά είδος, χειροκίνητο έλεγχο και κέρδος προενισχυτή για να ενισχύσετε ήσυχα κομμάτια χωρίς παραμόρφωση." icon="adjustments" >}}
+  {{< ls-feature-card title="Οπτικοποίηση μουσικής" subtitle="Παρακολουθήστε οπτικά εφέ κίνησης σε πλήρη οθόνη που αντιδρούν ζωντανά στη μουσική σας, επιλέγοντας από μια μεγάλη βιβλιοθήκη προεπιλογών ή αφήνοντάς τα να εναλλάσσονται αυτόματα." icon="sparkles" >}}
+  {{< ls-feature-card title="Έλεγχοι αναπαραγωγής" subtitle="Ρυθμίστε την ταχύτητα αναπαραγωγής χωρίς να αλλάξετε τον τόνο, αποθηκεύστε και επαναφέρετε την ουρά και τη θέση σας, και χρησιμοποιήστε χρονοδιακόπτη ύπνου, τυχαία σειρά, επανάληψη και αναπαραγωγή στο παρασκήνιο." icon="play" >}}
 
-  {{< feature-card title="Cloud streaming" subtitle="Κάντε streaming απευθείας από iCloud Drive, Google Drive, Dropbox, OneDrive, Box, MEGA και pCloud, καθώς και από cloud με έμφαση στην ιδιωτικότητα όπως Internxt και Proton Drive." icon="cloud" >}}
-  {{< feature-card title="Διακομιστές πολυμέσων" subtitle="Συνδέστε τους προσωπικούς σας διακομιστές πολυμέσων, συμπεριλαμβανομένων των Plex, Subsonic, Navidrome, Jellyfin και Emby, για να ανοίξετε και να κάνετε streaming ολόκληρη τη μουσική σας βιβλιοθήκη." icon="server" >}}
-  {{< feature-card title="Υπολογιστής και NAS" subtitle="Συνδέστε υπολογιστή ή NAS μέσω SMB, WebDAV, DLNA, FTP, SFTP ή NFS, με εγγενή υποστήριξη για QNAP, Synology, Nextcloud και WD My Cloud Home." icon="desktop-computer" >}}
+  {{< ls-feature-card title="Cloud streaming" subtitle="Κάντε streaming απευθείας από iCloud Drive, Google Drive, Dropbox, OneDrive, Box, MEGA και pCloud, καθώς και από cloud με έμφαση στην ιδιωτικότητα όπως Internxt και Proton Drive." icon="cloud" >}}
+  {{< ls-feature-card title="Διακομιστές πολυμέσων" subtitle="Συνδέστε τους προσωπικούς σας διακομιστές πολυμέσων, συμπεριλαμβανομένων των Plex, Subsonic, Navidrome, Jellyfin και Emby, για να ανοίξετε και να κάνετε streaming ολόκληρη τη μουσική σας βιβλιοθήκη." icon="server" >}}
+  {{< ls-feature-card title="Υπολογιστής και NAS" subtitle="Συνδέστε υπολογιστή ή NAS μέσω SMB, WebDAV, DLNA, FTP, SFTP ή NFS, με εγγενή υποστήριξη για QNAP, Synology, Nextcloud και WD My Cloud Home." icon="desktop-computer" >}}
 
-  {{< feature-card title="Κάρτες USB flash" subtitle="Αναπαράγετε μουσική απευθείας από κάρτες SD και μονάδες USB flash χρησιμοποιώντας εξωτερικούς αναγνώστες όπως το SanDisk iXpand, χωρίς εισαγωγή ή συγχρονισμό." icon="inbox" >}}
-  {{< feature-card title="AirPlay και Chromecast" subtitle="Στείλτε τη μουσική σας ασύρματα σε Apple TV, HomePod, έξυπνα ηχεία και άλλα, με ενσωματωμένη υποστήριξη AirPlay, AirPlay 2 και Google Chromecast." icon="device-mobile" >}}
-  {{< feature-card title="Apple CarPlay" subtitle="Οδηγήστε και ακούστε με ασφάλεια με μια απλή, αποκλειστική οθόνη Apple CarPlay για επιλογή και έλεγχο μουσικής από cloud, τοπικές και offline πηγές." icon="map" >}}
+  {{< ls-feature-card title="Κάρτες USB flash" subtitle="Αναπαράγετε μουσική απευθείας από κάρτες SD και μονάδες USB flash χρησιμοποιώντας εξωτερικούς αναγνώστες όπως το SanDisk iXpand, χωρίς εισαγωγή ή συγχρονισμό." icon="inbox" >}}
+  {{< ls-feature-card title="AirPlay και Chromecast" subtitle="Στείλτε τη μουσική σας ασύρματα σε Apple TV, HomePod, έξυπνα ηχεία και άλλα, με ενσωματωμένη υποστήριξη AirPlay, AirPlay 2 και Google Chromecast." icon="device-mobile" >}}
+  {{< ls-feature-card title="Apple CarPlay" subtitle="Οδηγήστε και ακούστε με ασφάλεια με μια απλή, αποκλειστική οθόνη Apple CarPlay για επιλογή και έλεγχο μουσικής από cloud, τοπικές και offline πηγές." icon="map" >}}
 
-  {{< feature-card title="Ακρόαση offline" subtitle="Κατεβάστε τραγούδια, άλμπουμ και ολόκληρους καλλιτέχνες για ακρόαση χωρίς σύνδεση, ή ενεργοποιήστε την προσωρινή μνήμη ήχου για αυτόματη αποθήκευση των πρόσφατα αναπαραχθέντων κομματιών." icon="download" >}}
-  {{< feature-card title="Αυτόματος συγχρονισμός" subtitle="Διατηρήστε τη βιβλιοθήκη σας συγχρονισμένη αυτόματα μεταξύ του cloud storage και των τοπικών φακέλων, ώστε τα νέα αρχεία να εμφανίζονται χωρίς καμία χειροκίνητη εργασία." icon="refresh" >}}
-  {{< feature-card title="Μουσική βιβλιοθήκη" subtitle="Προσθέστε τη μουσική σας και οργανώστε την αυτόματα ανά άλμπουμ, καλλιτέχνη, καλλιτέχνη άλμπουμ, είδος και συνθέτη χρησιμοποιώντας τα tags που είναι ενσωματωμένα στα αρχεία σας." icon="library" >}}
+  {{< ls-feature-card title="Ακρόαση offline" subtitle="Κατεβάστε τραγούδια, άλμπουμ και ολόκληρους καλλιτέχνες για ακρόαση χωρίς σύνδεση, ή ενεργοποιήστε την προσωρινή μνήμη ήχου για αυτόματη αποθήκευση των πρόσφατα αναπαραχθέντων κομματιών." icon="download" >}}
+  {{< ls-feature-card title="Αυτόματος συγχρονισμός" subtitle="Διατηρήστε τη βιβλιοθήκη σας συγχρονισμένη αυτόματα μεταξύ του cloud storage και των τοπικών φακέλων, ώστε τα νέα αρχεία να εμφανίζονται χωρίς καμία χειροκίνητη εργασία." icon="refresh" >}}
+  {{< ls-feature-card title="Μουσική βιβλιοθήκη" subtitle="Προσθέστε τη μουσική σας και οργανώστε την αυτόματα ανά άλμπουμ, καλλιτέχνη, καλλιτέχνη άλμπουμ, είδος και συνθέτη χρησιμοποιώντας τα tags που είναι ενσωματωμένα στα αρχεία σας." icon="library" >}}
 
-  {{< feature-card title="Προσαρμοσμένες λίστες αναπαραγωγής" subtitle="Δημιουργήστε, επεξεργαστείτε και αναδιατάξτε τις δικές σας λίστες αναπαραγωγής, κάντε τις διαθέσιμες offline και εισαγάγετε ή εξαγάγετέ τις σε μορφές M3U, M3U8 και CUE." icon="collection" >}}
-  {{< feature-card title="Διαχείριση αρχείων" subtitle="Διαχειριστείτε τη μουσική σας με τον ενσωματωμένο διαχειριστή αρχείων, εκτελώντας καθημερινές λειτουργίες όπως αντιγραφή, μετακίνηση, μετονομασία και διαγραφή για να κρατάτε τα αρχεία σε τάξη." icon="folder" >}}
-  {{< feature-card title="Επεξεργαστής ID3 Tags" subtitle="Διορθώστε λανθασμένα ή ελλιπή μεταδεδομένα με τον ενσωματωμένο επεξεργαστή ID3 tags, ενημερώνοντας τον τίτλο, τον καλλιτέχνη, το άλμπουμ, το είδος και άλλα με λίγα μόνο αγγίγματα." icon="pencil-alt" >}}
+  {{< ls-feature-card title="Προσαρμοσμένες λίστες αναπαραγωγής" subtitle="Δημιουργήστε, επεξεργαστείτε και αναδιατάξτε τις δικές σας λίστες αναπαραγωγής, κάντε τις διαθέσιμες offline και εισαγάγετε ή εξαγάγετέ τις σε μορφές M3U, M3U8 και CUE." icon="collection" >}}
+  {{< ls-feature-card title="Διαχείριση αρχείων" subtitle="Διαχειριστείτε τη μουσική σας με τον ενσωματωμένο διαχειριστή αρχείων, εκτελώντας καθημερινές λειτουργίες όπως αντιγραφή, μετακίνηση, μετονομασία και διαγραφή για να κρατάτε τα αρχεία σε τάξη." icon="folder" >}}
+  {{< ls-feature-card title="Επεξεργαστής ID3 Tags" subtitle="Διορθώστε λανθασμένα ή ελλιπή μεταδεδομένα με τον ενσωματωμένο επεξεργαστή ID3 tags, ενημερώνοντας τον τίτλο, τον καλλιτέχνη, το άλμπουμ, το είδος και άλλα με λίγα μόνο αγγίγματα." icon="pencil-alt" >}}
 
-  {{< feature-card title="Προηγμένη αναζήτηση" subtitle="Βρείτε γρήγορα οποιοδήποτε τραγούδι, καλλιτέχνη ή άλμπουμ σε ολόκληρη τη συλλογή σας με μια έξυπνη, γρήγορη αναζήτηση φτιαγμένη για πολύ μεγάλες μουσικές βιβλιοθήκες." icon="search" >}}
-  {{< feature-card title="Γρήγορη πρόσβαση" subtitle="Επιστρέψτε αμέσως σε ό,τι έχει σημασία με τα Πρόσφατα, τα Αγαπημένα και τους Σελιδοδείκτες, κρατώντας τα αγαπημένα σας κομμάτια πάντα ένα άγγιγμα μακριά." icon="clock" >}}
-  {{< feature-card title="Στίχοι και σχόλια" subtitle="Δείτε συγχρονισμένους στίχους και σημειώσεις τραγουδιών μέσα σε κάθε κομμάτι καθώς παίζει, και προσθέστε το widget στίχων στην Αρχική οθόνη για γρήγορη, άμεση πρόσβαση." icon="annotation" >}}
+  {{< ls-feature-card title="Προηγμένη αναζήτηση" subtitle="Βρείτε γρήγορα οποιοδήποτε τραγούδι, καλλιτέχνη ή άλμπουμ σε ολόκληρη τη συλλογή σας με μια έξυπνη, γρήγορη αναζήτηση φτιαγμένη για πολύ μεγάλες μουσικές βιβλιοθήκες." icon="search" >}}
+  {{< ls-feature-card title="Γρήγορη πρόσβαση" subtitle="Επιστρέψτε αμέσως σε ό,τι έχει σημασία με τα Πρόσφατα, τα Αγαπημένα και τους Σελιδοδείκτες, κρατώντας τα αγαπημένα σας κομμάτια πάντα ένα άγγιγμα μακριά." icon="clock" >}}
+  {{< ls-feature-card title="Στίχοι και σχόλια" subtitle="Δείτε συγχρονισμένους στίχους και σημειώσεις τραγουδιών μέσα σε κάθε κομμάτι καθώς παίζει, και προσθέστε το widget στίχων στην Αρχική οθόνη για γρήγορη, άμεση πρόσβαση." icon="annotation" >}}
 
-  {{< feature-card title="Widgets" subtitle="Προσθέστε widgets στην Αρχική οθόνη που εμφανίζουν την ουρά αναπαραγωγής σας και σας επιτρέπουν να επιστρέψετε αμέσως, συνεχίζοντας ακριβώς από εκεί που σταματήσατε." icon="view-grid" >}}
-  {{< feature-card title="Υποστήριξη ηχοβιβλίων" subtitle="Ακούστε ηχοβιβλία με σελιδοδείκτες, χρονοδιακόπτη ύπνου, ρυθμιζόμενη ταχύτητα και συνέχιση αναπαραγωγής που ξεκινά ακριβώς από εκεί που σταματήσατε τελευταία." icon="book-open" >}}
-  {{< feature-card title="Ενσωμάτωση Last.fm" subtitle="Συνδέστε τον λογαριασμό σας Last.fm για να κάνετε scrobble κομμάτια, να παρακολουθείτε τα στατιστικά ακρόασής σας και να λαμβάνετε εξατομικευμένες προτάσεις μουσικής με την πάροδο του χρόνου." icon="chart-bar" >}}
+  {{< ls-feature-card title="Widgets" subtitle="Προσθέστε widgets στην Αρχική οθόνη που εμφανίζουν την ουρά αναπαραγωγής σας και σας επιτρέπουν να επιστρέψετε αμέσως, συνεχίζοντας ακριβώς από εκεί που σταματήσατε." icon="view-grid" >}}
+  {{< ls-feature-card title="Υποστήριξη ηχοβιβλίων" subtitle="Ακούστε ηχοβιβλία με σελιδοδείκτες, χρονοδιακόπτη ύπνου, ρυθμιζόμενη ταχύτητα και συνέχιση αναπαραγωγής που ξεκινά ακριβώς από εκεί που σταματήσατε τελευταία." icon="book-open" >}}
+  {{< ls-feature-card title="Ενσωμάτωση Last.fm" subtitle="Συνδέστε τον λογαριασμό σας Last.fm για να κάνετε scrobble κομμάτια, να παρακολουθείτε τα στατιστικά ακρόασής σας και να λαμβάνετε εξατομικευμένες προτάσεις μουσικής με την πάροδο του χρόνου." icon="chart-bar" >}}
 
 {{< /cards >}}
 
@@ -154,9 +154,9 @@ Streaming από USB flash drives ή δικτυακή αποθήκευση (NAS)
 
 <div class="hx:mt-6"></div>
 
-{{< hextra/section-headline >}}
+{{< ls-section-headline >}}
 Διαισθητικός σχεδιασμός
-{{< /hextra/section-headline >}}
+{{< /ls-section-headline >}}
 
 <div class="hx:mt-6"></div>
 
@@ -164,7 +164,7 @@ Streaming από USB flash drives ή δικτυακή αποθήκευση (NAS)
 
 {{< cards cols="4">}}
 
-  {{< design-feature-card 
+  {{< ls-design-feature-card 
     image="/products/flacbox/screenshots/2048x2732/1.png" 
     title="Audio Player" 
     method="Fill"
@@ -173,7 +173,7 @@ Streaming από USB flash drives ή δικτυακή αποθήκευση (NAS)
     icon="play"
   >}}
 
-  {{< design-feature-card 
+  {{< ls-design-feature-card 
     image="/products/flacbox/screenshots/2048x2732/2.png"  
     title="Ισοσταθμιστής ήχου" 
     method="Fill"
@@ -182,7 +182,7 @@ Streaming από USB flash drives ή δικτυακή αποθήκευση (NAS)
     icon="adjustments"
   >}}
 
-  {{< design-feature-card 
+  {{< ls-design-feature-card 
     image="/products/flacbox/screenshots/2048x2732/3.png"  
     title="Διαχείριση λιστών" 
     method="Fill"
@@ -191,7 +191,7 @@ Streaming από USB flash drives ή δικτυακή αποθήκευση (NAS)
     icon="collection"
   >}}
 
-  {{< design-feature-card 
+  {{< ls-design-feature-card 
     image="/products/flacbox/screenshots/2048x2732/5.png"  
     title="Μουσική βιβλιοθήκη" 
     method="Fill"
@@ -200,7 +200,7 @@ Streaming από USB flash drives ή δικτυακή αποθήκευση (NAS)
     icon="library"
   >}}
 
-  {{< design-feature-card 
+  {{< ls-design-feature-card 
     image="/products/flacbox/screenshots/2048x2732/7.png"  
     title="Cloud αποθήκευση" 
     method="Fill"
@@ -209,7 +209,7 @@ Streaming από USB flash drives ή δικτυακή αποθήκευση (NAS)
     icon="cloud"
   >}}
 
-  {{< design-feature-card 
+  {{< ls-design-feature-card 
     image="/products/flacbox/screenshots/2048x2732/8.png"  
     title="iCloud Drive" 
     method="Fill"
@@ -227,48 +227,48 @@ Streaming από USB flash drives ή δικτυακή αποθήκευση (NAS)
 <div class="hx:mt-6"></div>
 
 <div class="hx:w-full">
-{{< appstore-reviews apps="1097564256,1594027432" stars="5,4"  app="Flacbox" >}}
+{{< ls-appstore-reviews apps="1097564256,1594027432" stars="5,4"  app="Flacbox" >}}
 </div>
 
 <div class="hx:mt-6"></div>
 
-{{< hextra/section-headline >}}
+{{< ls-section-headline >}}
    Πλάνα τιμολόγησης
-{{< /hextra/section-headline >}}
+{{< /ls-section-headline >}}
 
 <div class="hx:mt-6"></div>
 
 <div class="hx:w-full">
 
-{{< pricing-plans >}}
+{{< ls-pricing-plans >}}
 
 </div>
 
 <div class="hx:mt-6"></div>
 
 <div class="hx:w-full hx:mx-auto hx:flex hx:flex-col hx:items-center">
-  {{< hextra/info-paragraph border="true" >}}
+  {{< ls-info-paragraph border="true" >}}
    <strong>Οικογενειακή κοινή χρήση</strong>: Όλες οι αγορές και συνδρομές υποστηρίζουν Οικογενειακή κοινή χρήση, επιτρέποντάς σας να μοιραστείτε την πρόσβαση Premium με την οικογένειά σας.<br><strong>Καθολική πρόσβαση</strong>: Τα πλάνα εφ' όρου ζωής και συνδρομής μοιράζονται μεταξύ συσκευών iOS και Mac χρησιμοποιώντας συγχρονισμό iCloud.<br><strong>Τιμολόγηση</strong>: Οι τιμές εμφανίζονται σε δολάρια ΗΠΑ για τις Ηνωμένες Πολιτείες. Η τελική τιμή μπορεί να διαφέρει ανάλογα με την περιοχή σας.  
-  {{< /hextra/info-paragraph >}}
+  {{< /ls-info-paragraph >}}
 </div>
 
 <div class="hx:mt-6"></div>
 
 <div class="hx:w-full">
-{{< app-details heading="true" >}}
+{{< ls-app-details heading="true" >}}
 </div>
 
 <div class="hx:mt-6"></div>
 
-{{< hextra/section-headline >}}
+{{< ls-section-headline >}}
    Συχνές ερωτήσεις
-{{< /hextra/section-headline >}}
+{{< /ls-section-headline >}}
 
 <div class="hx:mt-6"></div>
 
 <div class="hx:w-full">
 
-{{% details title="Πώς λειτουργεί το Flacbox;" closed="true" %}}
+{{% ls-details title="Πώς λειτουργεί το Flacbox;" closed="true" %}}
 Το Flacbox είναι ένα hi-res music player που σας επιτρέπει να διαχειρίζεστε ηχητικά κομμάτια σαν κανονικά αρχεία.<br>
 Μπορείτε να ανεβάσετε ολόκληρη τη μουσική σας συλλογή σε υπηρεσίες cloud όπως Dropbox, Google Drive ή ένα προσωπικό NAS και να αναπαράγετε μουσική απευθείας από το cloud με πλήρη έλεγχο.<br><br>
 Δεν χρειάζεται συγχρονισμός iTunes — απλά ανεβάστε από τον PC ή Mac σας όπως κάνετε με οποιοδήποτε αρχείο.<br>
@@ -282,9 +282,9 @@ Streaming από USB flash drives ή δικτυακή αποθήκευση (NAS)
 - [Πώς να μεταφέρετε αρχεία ασύρματα από υπολογιστή σε iPhone χρησιμοποιώντας WiFi-Drive.](/docs/howto/how-to-transfer-files-wirelessly-from-a-computer-to-an-iphone-using-wifi-drive)<br>
 - [Πώς να συνδέσετε μια κάρτα USB flash στο iPhone και να ακούσετε μουσική ή να διαχειριστείτε αρχεία.](/docs/howto/how-to-connect-a-usb-flashcard-to-the-iphone-and-listen-to-music-or-manage-files-located-on-it)<br>
 - [Πώς να αναπαράγετε μουσική στο iPhone από WD My Cloud Home.](/docs/howto/how-to-play-music-on-iphone-from-wd-my-cloud-home)
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Είναι δωρεάν το Flacbox;" closed="true" %}}
+{{% ls-details title="Είναι δωρεάν το Flacbox;" closed="true" %}}
 Το Flacbox είναι δωρεάν στη χρήση με ορισμένους περιορισμούς, οι οποίοι μπορούν να αφαιρεθούν με αναβάθμιση στην έκδοση Premium.<br>
 Μπορείτε να επιλέξετε μεταξύ μιας εφάπαξ αγοράς εφ' όρου ζωής ή δύο επιλογών συνδρομής (μηνιαία ή ετήσια). Οι τιμές μπορεί να διαφέρουν ανάλογα με την περιοχή σας.<br><br>
 
@@ -293,10 +293,10 @@ Streaming από USB flash drives ή δικτυακή αποθήκευση (NAS)
 Οι αγορές και συνδρομές Premium μοιράζονται μεταξύ iOS και Mac μέσω iCloud. Για να συγχρονίσετε την αγορά σας, βεβαιωθείτε ότι το iCloud είναι ενεργοποιημένο, ανοίξτε την εφαρμογή στη συσκευή iOS σας και περιμένετε ένα λεπτό για να ολοκληρωθεί ο συγχρονισμός.<br><br>
 
 [Διαβάστε περισσότερα για τις διαφορές μεταξύ Flacbox και Flacbox Premium](/docs/faq/flacbox/what-is-the-difference-between-flacbox-and-flacbox-premium/)
-{{% /details %}}
+{{% /ls-details %}}
 
 
-{{% details title="Ποια είναι η διαφορά μεταξύ Flacbox και Evermusic;" closed="true" %}}
+{{% ls-details title="Ποια είναι η διαφορά μεταξύ Flacbox και Evermusic;" closed="true" %}}
 Το **Flacbox** είναι σχεδιασμένο για να υποστηρίζει όλες τις προεπιλεγμένες μορφές ήχου iOS μαζί με πολλές επιπλέον μορφές που δεν υποστηρίζονται εγγενώς στο iPhone, όπως WMA, OGG, M4A, DSD και άλλα.<br>
 Χρησιμοποιεί μια προσαρμοσμένη μηχανή ήχου για να χειρίζεται σχεδόν όλες τις μορφές και προσφέρει χαρακτηριστικά όπως ρυθμιζόμενο ρυθμό δειγματοληψίας εξόδου ήχου και διόρθωση τόνου.<br><br>
 
@@ -306,9 +306,9 @@ Streaming από USB flash drives ή δικτυακή αποθήκευση (NAS)
 Αν χρειάζεστε ευρεία συμβατότητα με διάφορους τύπους αρχείων ήχου, το **Flacbox** είναι η σωστή επιλογή.<br><br>
 
 [Μάθετε περισσότερα για τις διαφορές μεταξύ Flacbox και Evermusic](/docs/faq/evermusic/what-is-the-difference-between-evermusic-and-flacbox/)
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Πώς συγχρονίζω το Flacbox;" closed="true" %}}
+{{% ls-details title="Πώς συγχρονίζω το Flacbox;" closed="true" %}}
 
 **Συγχρονισμός μεταδεδομένων**  
 Όταν προσθέτετε κομμάτια στη βιβλιοθήκη σας, ένας αναγνώστης μεταδεδομένων στο παρασκήνιο σαρώνει τα αρχεία σας και τα οργανώνει κατά Καλλιτέχνη, Άλμπουμ, Είδος και Συνθέτη.<br>
@@ -345,10 +345,10 @@ Streaming από USB flash drives ή δικτυακή αποθήκευση (NAS)
 
 [Διαβάστε περισσότερα](/docs/guide/flacbox/flacbox-guide-music-library)
 
-{{% /details %}}
+{{% /ls-details %}}
 
 
-{{% details title="Πώς χρησιμοποιώ το Flacbox;" closed="true" %}}
+{{% ls-details title="Πώς χρησιμοποιώ το Flacbox;" closed="true" %}}
 
 **Εγκαταστήστε το Flacbox**<br>
 Κατεβάστε και εγκαταστήστε την εφαρμογή Flacbox από το app store της συσκευής σας. Είναι διαθέσιμη για συσκευές iOS και Mac.<br><br>
@@ -408,10 +408,10 @@ Streaming από USB flash drives ή δικτυακή αποθήκευση (NAS)
 • [Σύνδεση κάρτας USB flash](/docs/howto/how-to-connect-a-usb-flashcard-to-the-iphone-and-listen-to-music-or-manage-files-located-on-it)<br>
 • [Ασύρματη μεταφορά WiFi-Drive](/docs/howto/how-to-transfer-files-wirelessly-from-a-computer-to-an-iphone-using-wifi-drive)
 
-{{% /details %}}
+{{% /ls-details %}}
 
 
-{{% details title="Είναι ασφαλές το Flacbox;" closed="true" %}}
+{{% ls-details title="Είναι ασφαλές το Flacbox;" closed="true" %}}
 Το Flacbox χρησιμοποιεί μόνο επίσημο SDK και ασφαλείς συνδέσεις για να αλληλεπιδρά με τις συνδεδεμένες υπηρεσίες cloud. Το όνομα χρήστη και ο κωδικός πρόσβασής σας δεν είναι διαθέσιμα στην εφαρμογή. Όλα τα αιτήματα από την εφαρμογή στην υπηρεσία cloud είναι κρυπτογραφημένα.<br>
 Όταν εισάγετε όνομα χρήστη και κωδικό πρόσβασης, η εφαρμογή σας δείχνει την επίσημη σελίδα εξουσιοδότησης που παρέχεται από τον πάροχο υπηρεσιών cloud και όλη η διαδικασία εξουσιοδότησης γίνεται εκτός της εφαρμογής. Ο πάροχος υπηρεσιών cloud στέλνει ένα auth-token στην εφαρμογή μετά από επιτυχή εξουσιοδότηση και αυτό το token χρησιμοποιείται για κλήσεις API.<br><br>
 
@@ -423,24 +423,24 @@ Streaming από USB flash drives ή δικτυακή αποθήκευση (NAS)
 Μπορείτε επίσης να αποσυνδέσετε τους συνδεδεμένους λογαριασμούς cloud στην εφαρμογή και το auth-token θα αφαιρεθεί επίσης από τη συσκευή σας. Αν αφαιρέσετε την εφαρμογή από τη συσκευή σας, όλα τα δεδομένα που έχουν κατεβεί και τα tokens πρόσβασης θα αφαιρεθούν επίσης.<br><br>
 
 [Διαβάστε περισσότερα](/docs/guide/flacbox/flacbox-guide-connections)
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Πώς δημιουργώ μια λίστα αναπαραγωγής στο Flacbox;" closed="true" %}}
+{{% ls-details title="Πώς δημιουργώ μια λίστα αναπαραγωγής στο Flacbox;" closed="true" %}}
 - Ανοίξτε την ενότητα Λίστες αναπαραγωγής.<br>
 - Πατήστε το κουμπί "+" ή το κουμπί "..." στην πάνω δεξιά γωνία και επιλέξτε "Νέα λίστα αναπαραγωγής".<br>
 - Εισαγάγετε ένα όνομα για τη λίστα αναπαραγωγής και πατήστε "Αποθήκευση". Θα εμφανιστεί το παράθυρο "Προσθήκη τραγουδιών".<br>
 - Επιλέξτε τα κομμάτια που θέλετε να προσθέσετε στη λίστα αναπαραγωγής.<br><br>
 
 [Διαβάστε περισσότερα](/docs/guide/flacbox/flacbox-guide-playlists)
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Ποιες υπηρεσίες cloud υποστηρίζει το Flacbox;" closed="true" %}}
+{{% ls-details title="Ποιες υπηρεσίες cloud υποστηρίζει το Flacbox;" closed="true" %}}
 Αυτή τη στιγμή, η εφαρμογή υποστηρίζει τις πιο δημοφιλείς υπηρεσίες cloud: iCloud Drive, Google Drive, Dropbox, OneDrive, Box, MEGA, Yandex.Disk, WD MyCloud Home, DLNA, MediaFire, WebDAV, SMB, pCloud, HiDrive, My Cloud Home, InfiniCLOUD, Cloud Mail.ru, Put.io, MyDrive.<br><br>
 
 [Διαβάστε περισσότερα](/docs/guide/flacbox/flacbox-guide-connections)
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Πώς μπορώ να χρησιμοποιήσω τον ισοσταθμιστή;" closed="true" %}}
+{{% ls-details title="Πώς μπορώ να χρησιμοποιήσω τον ισοσταθμιστή;" closed="true" %}}
 - Ανοίξτε την οθόνη του Audio Player.<br>
 - Πατήστε στο εικονίδιο "Ισοσταθμιστής" στο κάτω μέρος της οθόνης.<br>
 - Ενεργοποιήστε τον διακόπτη στην πάνω δεξιά γωνία της οθόνης ισοσταθμιστή για να τον ενεργοποιήσετε.<br>
@@ -448,9 +448,9 @@ Streaming από USB flash drives ή δικτυακή αποθήκευση (NAS)
 
 Πλήρης οδηγός διαθέσιμος εδώ:<br>
 [Πώς να χρησιμοποιήσετε τον ισοσταθμιστή ήχου στο iPhone, iPad, Mac σας με Evermusic και Flacbox](/docs/howto/how-to-use-the-audio-equalizer-on-your-iphone-ipad-mac-with-evermusic-and-flacbox)
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Πώς ενεργοποιώ τη λειτουργία offline στο Flacbox;" closed="true" %}}
+{{% ls-details title="Πώς ενεργοποιώ τη λειτουργία offline στο Flacbox;" closed="true" %}}
 - Συνδέστε μια υπηρεσία cloud:<br>
  • Μεταβείτε στην καρτέλα "Συνδέσεις".<br>
  • Επιλέξτε "Σύνδεση υπηρεσίας cloud" και ακολουθήστε τις οδηγίες για σύνδεση της επιθυμητής υπηρεσίας.<br><br>
@@ -476,9 +476,9 @@ Streaming από USB flash drives ή δικτυακή αποθήκευση (NAS)
  • Πατήστε "Περισσότερες ενέργειες" και επιλέξτε "Έναρξη συγχρονισμού".<br><br>
 
 [Διαβάστε περισσότερα](/docs/howto/play-offline-music-in-evermusic-flacbox-download-sync-from-cloud-to-local-files/)
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Πώς να αναπαράγετε τοπικά κατεβασμένη μουσική στο iPhone;" closed="true" %}}
+{{% ls-details title="Πώς να αναπαράγετε τοπικά κατεβασμένη μουσική στο iPhone;" closed="true" %}}
 Μόλις εγκαταστήσετε την εφαρμογή, ανοίξτε την οθόνη "Τοπικά αρχεία" και μετακινηθείτε προς τα κάτω στην ενότητα "Αρχεία σε αυτό το iPhone". Από εκεί, επιλέξτε "Άνοιγμα αρχείων..." αν χρειάζεται να επιλέξετε πολλά αρχεία ήχου ή "Άνοιγμα φακέλου..." αν θέλετε να επιλέξετε έναν φάκελο μουσικής. Η εφαρμογή θα σαρώσει τα περιεχόμενα του φακέλου και όλα τα αρχεία ήχου που βρέθηκαν θα επιλεγούν. Πλοηγηθείτε στον φάκελο μουσικής σας, πατήστε "Άνοιγμα" για να επιβεβαιώσετε την επιλογή σας και τα αρχεία θα προστεθούν στην ουρά του player. Αυτά τα αρχεία θα αναπαραχθούν απευθείας από την επιλεγμένη τοποθεσία χωρίς να αντιγραφούν στο πακέτο της εφαρμογής.<br><br>
 
 **Προσθήκη φακέλου στα αγαπημένα για γρήγορη πρόσβαση**<br>
@@ -493,13 +493,13 @@ Streaming από USB flash drives ή δικτυακή αποθήκευση (NAS)
 Με αυτά τα απλά βήματα, μπορείτε να ξεκλειδώσετε τις πλήρεις δυνατότητες του iPhone και Mac σας ως τις απόλυτες πλατφόρμες για να απολαύσετε την αγαπημένη σας τοπική μουσική συλλογή.<br><br>
 
 [Διαβάστε περισσότερα](/docs/howto/how-to-play-local-music-stored-on-your-iphone-or-mac)
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Πώς μπορώ να συνεχίσω μια λίστα αναπαραγωγής από εκεί που σταμάτησα;" closed="true" %}}
+{{% ls-details title="Πώς μπορώ να συνεχίσω μια λίστα αναπαραγωγής από εκεί που σταμάτησα;" closed="true" %}}
 Πρώτα, βεβαιωθείτε ότι η "Αποθήκευση κατάστασης Audio Player" είναι ενεργοποιημένη στις Ρυθμίσεις > Audio Player > Γενικά. Όταν αλλάζετε σε άλλη λίστα αναπαραγωγής και επιστρέφετε, θα δείτε τέσσερις ενέργειες στην πάνω γραμμή εργαλείων κάτω από το εξώφυλλο του άλμπουμ: "Αναζήτηση", "Συνέχιση αναπαραγωγής", "Αναπαραγωγή όλων" και "Τυχαία σειρά". Πατήστε "Συνέχιση αναπαραγωγής" για να συνεχίσετε τη λίστα αναπαραγωγής από την τελευταία αποθηκευμένη κατάσταση και θέση πολυμέσου.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Πώς να δείτε στίχους τραγουδιών στο Flacbox;" closed="true" %}}
+{{% ls-details title="Πώς να δείτε στίχους τραγουδιών στο Flacbox;" closed="true" %}}
 Μπορείτε να δείτε ενσωματωμένους στίχους για κομμάτια στην εφαρμογή **ακολουθώντας αυτά τα βήματα**:<br>
 1. Ξεκινήστε την αναπαραγωγή ενός αρχείου ήχου πατώντας πάνω του.<br>
 2. Ανοίξτε τον audio player σε πλήρη οθόνη.<br>
@@ -513,9 +513,9 @@ Streaming από USB flash drives ή δικτυακή αποθήκευση (NAS)
 3. Λειτουργία αρχείου LRC: Αντί να επεξεργάζεστε αρχεία ήχου, μπορείτε να τοποθετήσετε ένα αρχείο LRC στον ίδιο φάκελο με το αρχικό αρχείο ήχου. Και τα δύο αρχεία πρέπει να έχουν το ίδιο όνομα αλλά διαφορετικές επεκτάσεις. Όταν σύρετε στην τρίτη σελίδα της οθόνης σχολίων, η εφαρμογή θα αναζητήσει το αρχείο LRC στον ίδιο κατάλογο και θα εμφανίσει τα περιεχόμενά του.<br><br>
 
 [Διαβάστε περισσότερα](/docs/howto/how-to-add-and-view-comments-to-your-audio-tracks-on-iphone-ipad-and-mac-with-evermusic-and-flacbox)
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Πώς μεταφέρω μουσική στο Flacbox από τον υπολογιστή μου;" closed="true" %}}
+{{% ls-details title="Πώς μεταφέρω μουσική στο Flacbox από τον υπολογιστή μου;" closed="true" %}}
 Μπορείτε να συνδέσετε τον υπολογιστή ή το προσωπικό σας NAS χρησιμοποιώντας πρωτόκολλα SMB, WebDAV ή DLNA. Εναλλακτικά, χρησιμοποιήστε iTunes File Sharing για μεταφορά μουσικής.<br><br>
 
 Για σύνδεση υπολογιστή χρησιμοποιώντας πρωτόκολλο SMB πατήστε "Σύνδεση υπηρεσίας cloud" → SMB. Εισαγάγετε τη διεύθυνση IP του υπολογιστή και το όνομα του κοινόχρηστου φακέλου στο πεδίο URL με τη μορφή smb://ip-υπολογιστή/κοινόχρηστος-φάκελος, εισαγάγετε όνομα χρήστη και κωδικό πρόσβασης και πατήστε "Τέλος". Αν η σύνδεση είναι επιτυχής θα δείτε τον συνδεδεμένο αποθηκευτικό χώρο στην ενότητα "Υπηρεσίες cloud".<br><br>
@@ -536,9 +536,9 @@ Streaming από USB flash drives ή δικτυακή αποθήκευση (NAS)
 
 DLNA Μπορείτε επίσης να ρυθμίσετε έναν DLNA media server και να κάνετε streaming της μουσικής σας από Windows PC όπως περιγράφεται εδώ:<br>
 [Πώς να ενεργοποιήσετε τον DLNA Media Server στα Windows 10 και να αναπαράγετε τη μουσική σας στο iPhone](/docs/howto/how-to-enable-dlna-media-server-on-windows-10-and-play-your-music-on-iphone)
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Πώς να κατεβάσετε μουσική;" closed="true" %}}
+{{% ls-details title="Πώς να κατεβάσετε μουσική;" closed="true" %}}
 Πριν μπορέσετε να κατεβάσετε μουσική και να ακούσετε τη μουσική σας offline, πρέπει να συνδέσετε έναν λογαριασμό δικτύου.<br>
 Απλά ανοίξτε την οθόνη "Συνδέσεις" και προσθέστε τον λογαριασμό σας.<br>
 Μόλις προσθέσετε έναν λογαριασμό δικτύου, μπορείτε να κατεβάσετε τη μουσική σας από το cloud.<br><br>
@@ -559,15 +559,15 @@ DLNA Μπορείτε επίσης να ρυθμίσετε έναν DLNA media s
 
 Μια άλλη διαθέσιμη επιλογή είναι να κατεβάσετε μουσική από υπηρεσίες cloud και να την εισαγάγετε στο Evermusic όπως περιγράφεται εδώ:<br>
 [Πώς να κατεβάσετε μουσική από YouTube και να ακούσετε offline μουσική στο iPhone](/docs/howto/how-to-download-music-from-youtube-and-listen-to-offline-music-on-iphone)
-{{% /details %}}
+{{% /ls-details %}}
 
 
-{{% details title="Ποιες μορφές ήχου υποστηρίζει το Flacbox;" closed="true" %}}
+{{% ls-details title="Ποιες μορφές ήχου υποστηρίζει το Flacbox;" closed="true" %}}
 Αυτή η εφαρμογή υποστηρίζει τους προεπιλεγμένους **κωδικοποιητές ήχου συστήματος** και πρόσθετους **κωδικοποιητές λογισμικού ffmpeg**:<br><br>
 3g2, 3gp, 3gp2, 3gpp, 8svx, aa, aac, aax, ac3, act, adt, adts, aif, aifc, aiff, alac, amr, amv, ape, asf, au, avi, awb, caf, cavs, cdda, cue, dct, dff, drc, dsf, dss, dvf, "dvr-ms", ec3, f4a, f4b, f4p, f4v, flac, flv, gif, gifv, gsm, gxf, h261, h263, h264, ifv, iklax, ivf, ivs, l16, latm, loas, m2t, m2ts, m2v, m3u, m3u8, m4a, m4b, m4p, m4r, m4v, mka, mkv, mmf, mng, mod, mogg, mov, mp1, mp2, mp3, mp4, mp4v, mpa, mpc, mpe, mpeg, mpg, mpv, msv, mts, mxf, nsf, nsv, nut, oga, ogg, ogv, opus, pcm, pls, qt, ra, raw, rm, rmvb, roq, rv, sln, snd, svi, tod, tta, vob, voc, vox, vtt, w64, wav, wave, webm, wma, wmv, wv, xhe, xmv, y4m, yuv.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Μπορώ να χρησιμοποιήσω το Flacbox για αναπαραγωγή ηχοβιβλίων;" closed="true" %}}
+{{% ls-details title="Μπορώ να χρησιμοποιήσω το Flacbox για αναπαραγωγή ηχοβιβλίων;" closed="true" %}}
 
 Ναι, το Flacbox μπορεί να χρησιμοποιηθεί ως ισχυρός αναπαραγωγέας ηχοβιβλίων.<br><br>
 
@@ -590,11 +590,11 @@ DLNA Μπορείτε επίσης να ρυθμίσετε έναν DLNA media s
 
 [Διαβάστε περισσότερα](/docs/howto/how-to-listen-to-audiobooks-on-iphone-ipad-mac-using-evermusic)
 
-{{% /details %}}
+{{% /ls-details %}}
 
 
 
-{{% details title="Λειτουργεί το Flacbox με συσκευές NAS;" closed="true" %}}
+{{% ls-details title="Λειτουργεί το Flacbox με συσκευές NAS;" closed="true" %}}
 
 Ναι, το Flacbox υποστηρίζει συνδέσεις NAS χρησιμοποιώντας πρωτόκολλα **SMB**, **WebDAV** και **DLNA**.<br><br>
 
@@ -625,10 +625,10 @@ DLNA Μπορείτε επίσης να ρυθμίσετε έναν DLNA media s
 • [Σύνδεση αποθηκευτικού χώρου Bluesound Vault](/docs/howto/how-to-connect-bluesound-vault-s-internal-storage-from-the-evermusic-flacbox-evertag)<br>
 • [Σύνδεση αποθηκευτικού χώρου NAS μέσω WebDAV](/docs/howto/how-to-connect-nas-storage-using-webdav-and-listen-to-music-on-your-iphone-or-mac)
 
-{{% /details %}}
+{{% /ls-details %}}
 
 
-{{% details title="Πώς εισάγω μουσική στο Flacbox;" closed="true" %}}
+{{% ls-details title="Πώς εισάγω μουσική στο Flacbox;" closed="true" %}}
 
 **Συνδέστε την υπηρεσία cloud σας**<br>
 • Ανοίξτε την καρτέλα **Συνδέσεις**.<br>
@@ -674,10 +674,10 @@ DLNA Μπορείτε επίσης να ρυθμίσετε έναν DLNA media s
 • [Ασύρματη μεταφορά αρχείων με WiFi-Drive](/docs/howto/how-to-transfer-files-wirelessly-from-a-computer-to-an-iphone-using-wifi-drive)<br>
 • [Μεταφορά αρχείων μέσω πρωτοκόλλου SMB](/docs/howto/transfer-your-files-from-the-computer-to-iphone-using-smb-protocol/)
 
-{{% /details %}}
+{{% /ls-details %}}
 
 
-{{% details title="Πώς χρησιμοποιώ τη λειτουργία Wi-Fi Drive στο Flacbox;" closed="true" %}}
+{{% ls-details title="Πώς χρησιμοποιώ τη λειτουργία Wi-Fi Drive στο Flacbox;" closed="true" %}}
 
 **Ασύρματη μεταφορά μέσω desktop browser**<br>
 1. Εκκινήστε την εφαρμογή: Ανοίξτε το Flacbox.<br>
@@ -702,9 +702,9 @@ DLNA Μπορείτε επίσης να ρυθμίσετε έναν DLNA media s
 
 [Διαβάστε περισσότερα](/docs/howto/how-to-transfer-files-wirelessly-from-a-computer-to-an-iphone-using-wifi-drive)
 
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Υποστηρίζει το Flacbox Apple CarPlay;" closed="true" %}}
+{{% ls-details title="Υποστηρίζει το Flacbox Apple CarPlay;" closed="true" %}}
 Ναι, **το Flacbox υποστηρίζει πλήρως το Apple CarPlay**. Μπορείτε να περιηγηθείτε στη μουσική σας βιβλιοθήκη, να αναπαράγετε τοπικά ή offline αρχεία, να συνδεθείτε σε αποθηκευτικό χώρο cloud και να ελέγξετε την αναπαραγωγή απευθείας από την οθόνη infotainment του αυτοκινήτου σας.
 
 Η διεπαφή CarPlay περιλαμβάνει αποκλειστικές καρτέλες για **Βιβλιοθήκη**, **Συνδέσεις**, **Τοπικά αρχεία** και **Ρυθμίσεις**, δίνοντάς σας πλήρη έλεγχο της μουσικής σας στο δρόμο. Είναι επίσης διαθέσιμοι έλεγχοι αναπαραγωγής, τυχαία σειρά, επανάληψη και διαχείριση ουράς.
@@ -712,42 +712,42 @@ DLNA Μπορείτε επίσης να ρυθμίσετε έναν DLNA media s
 Για να χρησιμοποιήσετε το CarPlay, βεβαιωθείτε ότι η Siri είναι ενεργοποιημένη και το iPhone σας είναι συνδεδεμένο μέσω USB ή ασύρματα.
 
 [Διαβάστε τον πλήρη οδηγό](/docs/howto/how-to-play-your-own-music-on-iphone-using-carplay/)
-{{% /details %}}
+{{% /ls-details %}}
 
 </div>
 
 
 <div class="hx:mt-6"></div>
 
-{{< hextra/section-headline >}}
+{{< ls-section-headline >}}
   Οδηγός χρήστη
-{{< /hextra/section-headline >}}
+{{< /ls-section-headline >}}
 
 <div class="hx:mt-6"></div>
 
 <div class="hx:w-full">
 
 <div class="hx:w-full hx:mx-auto hx:flex hx:flex-col hx:items-center hx:text-center">
-  {{< hextra/info-paragraph border="false" >}}
+  {{< ls-info-paragraph border="false" >}}
   Αυτός ο οδηγός θα σας βοηθήσει να αξιοποιήσετε στο μέγιστο το Flacbox στο iPhone, iPad ή Mac σας. Μάθετε πώς να κάνετε streaming μουσικής υψηλής ανάλυσης από το cloud, να οργανώσετε τη βιβλιοθήκη σας, να διαχειριστείτε ηχοβιβλία και να μεταφέρετε μουσική μεταξύ συσκευών.
-  {{< /hextra/info-paragraph >}}
+  {{< /ls-info-paragraph >}}
 </div>
 
 {{< cards >}}
 
-{{< feature-card icon="map" link="/docs/guide/flacbox/flacbox-guide-navigation" title="Πλοήγηση" subtitle="Χρησιμοποιήστε τη γραμμή καρτελών στο iPhone ή το αριστερό μενού σε iPad και Mac." >}}
+{{< ls-feature-card icon="map" link="/docs/guide/flacbox/flacbox-guide-navigation" title="Πλοήγηση" subtitle="Χρησιμοποιήστε τη γραμμή καρτελών στο iPhone ή το αριστερό μενού σε iPad και Mac." >}}
 
-{{< feature-card icon="cloud" link="/docs/guide/flacbox/flacbox-guide-connections" title="Συνδέσεις" subtitle="Συνδέστε Dropbox, Google Drive, iCloud ή το NAS σας." >}}
+{{< ls-feature-card icon="cloud" link="/docs/guide/flacbox/flacbox-guide-connections" title="Συνδέσεις" subtitle="Συνδέστε Dropbox, Google Drive, iCloud ή το NAS σας." >}}
 
-{{< feature-card icon="collection" link="/docs/guide/flacbox/flacbox-guide-music-library" title="Μουσική βιβλιοθήκη" subtitle="Διαχειριστείτε και αναζητήστε κομμάτια κατά καλλιτέχνη, άλμπουμ ή είδος." >}}
+{{< ls-feature-card icon="collection" link="/docs/guide/flacbox/flacbox-guide-music-library" title="Μουσική βιβλιοθήκη" subtitle="Διαχειριστείτε και αναζητήστε κομμάτια κατά καλλιτέχνη, άλμπουμ ή είδος." >}}
 
-{{< feature-card icon="music-note" link="/docs/guide/flacbox/flacbox-guide-playlists" title="Λίστες αναπαραγωγής" subtitle="Δημιουργήστε και οργανώστε λίστες αναπαραγωγής για κάθε διάθεση ή περίσταση." >}}
+{{< ls-feature-card icon="music-note" link="/docs/guide/flacbox/flacbox-guide-playlists" title="Λίστες αναπαραγωγής" subtitle="Δημιουργήστε και οργανώστε λίστες αναπαραγωγής για κάθε διάθεση ή περίσταση." >}}
 
-{{< feature-card icon="folder" link="/docs/guide/flacbox/flacbox-guide-local-files" title="Τοπικά αρχεία" subtitle="Επεξεργαστείτε και αναπαράγετε offline μουσική με τον ενσωματωμένο διαχειριστή αρχείων." >}}
+{{< ls-feature-card icon="folder" link="/docs/guide/flacbox/flacbox-guide-local-files" title="Τοπικά αρχεία" subtitle="Επεξεργαστείτε και αναπαράγετε offline μουσική με τον ενσωματωμένο διαχειριστή αρχείων." >}}
 
-{{< feature-card icon="play" link="/docs/guide/flacbox/flacbox-guide-player" title="Audio Player" subtitle="Ελέγξτε την αναπαραγωγή, ρυθμίστε την ταχύτητα, ορίστε σελιδοδείκτες και άλλα." >}}
+{{< ls-feature-card icon="play" link="/docs/guide/flacbox/flacbox-guide-player" title="Audio Player" subtitle="Ελέγξτε την αναπαραγωγή, ρυθμίστε την ταχύτητα, ορίστε σελιδοδείκτες και άλλα." >}}
 
-{{< feature-card icon="adjustments" link="/docs/guide/flacbox/flacbox-guide-settings" title="Ρυθμίσεις" subtitle="Προσαρμόστε τον ισοσταθμιστή, την εμφάνιση και τη συμπεριφορά της εφαρμογής." >}}
+{{< ls-feature-card icon="adjustments" link="/docs/guide/flacbox/flacbox-guide-settings" title="Ρυθμίσεις" subtitle="Προσαρμόστε τον ισοσταθμιστή, την εμφάνιση και τη συμπεριφορά της εφαρμογής." >}}
 
 {{< /cards >}}
 

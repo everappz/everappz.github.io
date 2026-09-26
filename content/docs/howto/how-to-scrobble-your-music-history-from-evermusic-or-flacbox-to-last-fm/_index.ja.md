@@ -17,7 +17,7 @@ keywords: [
 readingTime: 2
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **要約:** EvermusieとFlacboxの両方にLast.fmスクロブリング機能が内蔵されています。**接続**セクションでアカウントを接続すると、再生したすべてのトラックが自動的に記録されます -- オフラインの時でも。セットアップは1分もかかりません。
@@ -66,22 +66,22 @@ EvermusieまたはFlacboxから[Last.fm](http://Last.fm)に音楽履歴をスク
 
 ## よくある質問
 
-{{% details title="Last.fmのスクロブリングは無料ですか？" closed="true" %}}
+{{% ls-details title="Last.fmのスクロブリングは無料ですか？" closed="true" %}}
 はい。Last.fmは、完全なスクロブリング、リスニング履歴、基本的なおすすめを含む無料アカウントを提供しています。有料のLast.fm Proサブスクリプションは、Last.fmウェブサイトに追加機能を提供しますが、EvermusieまたはFlacboxからのスクロブリングには必要ありません。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="オフラインの時もスクロブリングは機能しますか？" closed="true" %}}
+{{% ls-details title="オフラインの時もスクロブリングは機能しますか？" closed="true" %}}
 はい。EvermusieとFlacboxの両方が再生履歴をローカルに保存します。オンラインに戻ると、アプリは自動的にキューに入ったスクロブルをLast.fmにアップロードします。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Last.fmの認証情報はアプリに保存されますか？" closed="true" %}}
+{{% ls-details title="Last.fmの認証情報はアプリに保存されますか？" closed="true" %}}
 いいえ。アプリはデバイスのキーチェーンに安全なアクセストークンのみを保存します。ユーザー名とパスワードは保存されません。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="iPhoneとMacの両方からスクロブルできますか？" closed="true" %}}
+{{% ls-details title="iPhoneとMacの両方からスクロブルできますか？" closed="true" %}}
 はい。EvermusieとFlacboxは、iPhone、iPad、MacでLast.fmスクロブリングをサポートしています。再生を追跡したい各デバイスでアカウントを接続してください。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Last.fmアカウントを削除せずにスクロブリングを停止するにはどうすればよいですか？" closed="true" %}}
+{{% ls-details title="Last.fmアカウントを削除せずにスクロブリングを停止するにはどうすればよいですか？" closed="true" %}}
 EvermusieまたはFlacboxの接続セクションを開き、Last.fmの横にある切断するをタップします。これによりアクセストークンが削除され、スクロブリングが停止しますが、Last.fmアカウントと履歴はそのまま維持されます。
-{{% /details %}}
+{{% /ls-details %}}

@@ -7,7 +7,7 @@ tags: ["音频", "iphone", "mp3", "歌词", "lrc", "嵌入式", "查看", "显�
 keywords: ["查看嵌入式歌词 iPhone", "Evermusic 显示歌词", "LRC 文件 Evermusic", "评论标签音频", "歌词显示 Flacbox", "歌词 iOS 音乐应用", "音频播放器显示歌词"]
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **TL;DR:** Evermusic for iPhone 和 Mac 可显示任何音频曲目的嵌入式歌词、评论标签和外部 .lrc 文件。打开播放器，点击**更多操作**，然后选择**评论**，即可以三种模式查看歌词：评论、嵌入式歌词和 LRC 文件。
@@ -68,22 +68,22 @@ keywords: ["查看嵌入式歌词 iPhone", "Evermusic 显示歌词", "LRC 文件
 
 ## 常见问题
 
-{{% details title="如何在 iPhone 上查看嵌入式歌词？" closed="true" %}}
+{{% ls-details title="如何在 iPhone 上查看嵌入式歌词？" closed="true" %}}
 打开 Evermusic，播放一首歌曲，在全屏播放器中点击更多操作，然后选择评论。滑动到嵌入式歌词标签页，查看存储在音频文件标签中的歌词。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="什么是 LRC 文件，它是如何工作的？" closed="true" %}}
+{{% ls-details title="什么是 LRC 文件，它是如何工作的？" closed="true" %}}
 LRC 文件是包含定时歌词的文本文件。当与音频文件放在同一文件夹中且具有相同的文件名时，Evermusic 会读取它并显示在播放过程中滚动的同步歌词。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="我可以在 iPhone 上为音乐文件添加歌词吗？" closed="true" %}}
+{{% ls-details title="我可以在 iPhone 上为音乐文件添加歌词吗？" closed="true" %}}
 可以。使用 Evertag 应用编辑 ID3 标签，直接在 iPhone 上添加或更新嵌入式歌词。您可以粘贴定时 LRC 格式的文本以获取同步歌词。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Evermusic 支持同步（定时）歌词吗？" closed="true" %}}
+{{% ls-details title="Evermusic 支持同步（定时）歌词吗？" closed="true" %}}
 支持。Evermusic 支持 LRC 格式的定时歌词，无论是嵌入在音频标签中还是作为单独的 `.lrc` 文件提供。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="哪些音频格式支持嵌入式歌词？" closed="true" %}}
+{{% ls-details title="哪些音频格式支持嵌入式歌词？" closed="true" %}}
 MP3、FLAC、AAC、M4A、OGG 和大多数其他常见格式都通过各自的标签标准支持嵌入式歌词。
-{{% /details %}}
+{{% /ls-details %}}

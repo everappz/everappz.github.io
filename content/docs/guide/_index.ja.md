@@ -7,7 +7,7 @@ tags: ["ユーザーガイド", "アプリチュートリアル", "evermusic", "
 ---
 
 
-{{< lottie src="/images/juicy-json/juicy-woman-with-graph-chart.json" width="75%" >}}
+{{< ls-lottie src="/images/juicy-json/juicy-woman-with-graph-chart.json" width="75%" >}}
 
 ## アプリの使い方を学びましょう
 
@@ -19,4 +19,4 @@ iPhone、iPad、または Mac で Everappz アプリを設定して使う方法�
 
 ## 製品を選んでください
 
-{{< product-doc-cards section="guide" >}}
+{{< ls-product-doc-cards section="guide" >}}

@@ -21,7 +21,7 @@ readingTime: 16
 Ayarlar ekranı Flacbox'ın kontrol merkezidir. Buradan Premium'a yükseltebilir, ses motorunu (sistem kodekleri veya FFmpeg) yapılandırabilir, müzik kitaplığınızı yönetebilir, dosya yöneticisini kurabilir, ses etiketleri düzenleyicisini özelleştirebilir, Ana Ekran widget'larını ve Apple CarPlay'i etkinleştirebilir, verilerinizi yedekleyebilir ve yardım ile yasal bilgilere erişebilirsiniz. Bölümler şu başlıklar altında gruplandırılmıştır: Satın Almalar ve Güncellemeler, Uygulama Tercihleri, Yardım ile Yasal ve Gizlilik.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox Ayarlar Ana Ekranı" image="/docs/guide/flacbox/img/settings-main.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox Ayarlar Ana Ekranı" image="/docs/guide/flacbox/img/settings-main.webp" >}}
 {{< /cards >}}
 
 ## Premium'a Yükseltin
@@ -29,13 +29,13 @@ Ayarlar ekranı Flacbox'ın kontrol merkezidir. Buradan Premium'a yükseltebilir
 Tüm sınırları kaldırmak için uygulamayı Premium sürümüne yükseltin. Uygulamanın ücretsiz sürümü, tüm kısıtlamaları kaldırmak ve Premium'a yükseltmek için tek seferlik ömür boyu uygulama içi satın alma ve iki abonelik seçeneği (1 ay ve 1 yıl) sunar.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox Premium'a Yükselt" image="/docs/guide/flacbox/img/upgrade-to-premium.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox Premium'a Yükselt" image="/docs/guide/flacbox/img/upgrade-to-premium.webp" >}}
 {{< /cards >}}
 
 **Family Sharing**, tüm satın almalar ve planlar için etkinleştirilmiştir; dolayısıyla Premium sürümü ek ücret ödemeden ailenizin en fazla beş üyesiyle paylaşabilirsiniz.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox Premium Plan Seçme" image="/docs/guide/flacbox/img/select-premium-plan.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox Premium Plan Seçme" image="/docs/guide/flacbox/img/select-premium-plan.webp" >}}
 {{< /cards >}}
 
 Satın almalar ve Premium sürüm hakkında daha fazla bilgiyi burada okuyabilirsiniz: [Flacbox ile Flacbox Premium arasındaki fark nedir?](/docs/faq/flacbox/what-is-the-difference-between-flacbox-and-flacbox-premium/)

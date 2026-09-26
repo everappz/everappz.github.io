@@ -184,3 +184,5 @@ everdiskFeatAdvancedServerSettings: "Pokročilá nastavení serveru"
 everdiskFeatSMB3Encryption: "Šifrování SMB3"
 everdiskFeatAutomaticSharing: "Automatické sdílení"
 everdiskFeatDevicePersonalization: "Přizpůsobení zařízení"
+
+searchDocsPlaceholder: "Hledat v dokumentaci, častých dotazech a návodech…"

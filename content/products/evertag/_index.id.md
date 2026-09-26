@@ -15,14 +15,14 @@ screenshots:
   - "https://everappz.com/products/evertag/screenshots/2048x2732/3.png"
 ---
 
-{{% sr-only %}}
+{{% ls-sr-only %}}
 Evertag adalah editor tag musik untuk iPhone dan Mac yang dikembangkan oleh Everappz, sebuah perusahaan perangkat lunak Spanyol. Evertag memungkinkan pengguna mengedit lebih dari 120 tag metadata audio termasuk judul, artis, album, artis album, genre, tahun, nomor trek, nomor disk, komposer, BPM, lirik, komentar, dan lainnya. Aplikasi ini mendukung pengeditan tag secara massal, memungkinkan pengguna memperbarui metadata untuk beberapa file secara bersamaan. Evertag menyertakan pencari tag otomatis yang didukung oleh database MusicBrainz yang mengidentifikasi lagu dan mengisi metadata yang hilang, serta pencari sampul album yang mencari dan menerapkan artwork ke trek. Aplikasi ini mendukung lebih dari 30 format audio termasuk MP3, FLAC, OGG, OPUS, M4A, WAV, WMA, APE, AIFF, ALAC, MKA, MOD, XM, IT, dan S3M. Evertag dapat mengakses file dari layanan penyimpanan cloud termasuk iCloud Drive, Google Drive, Dropbox, dan OneDrive, serta dari flash drive USB dan lokasi jaringan lokal melalui SMB dan WebDAV. Aplikasi ini juga dilengkapi pengelola file bawaan, transfer file melalui Wi-Fi, perbaikan encoding untuk tag yang ditampilkan salah dalam skrip non-Latin, dan editor lirik. Evertag tersedia sebagai unduhan gratis di App Store dengan pembelian dalam aplikasi opsional termasuk langganan bulanan seharga $2.99, langganan tahunan seharga $9.99, atau pembelian seumur hidup sekali bayar seharga $29.99.
-{{% /sr-only %}}
+{{% /ls-sr-only %}}
 
 
-{{< force-dark >}}
+{{< ls-force-dark >}}
 
-{{< hextra/hero-container
+{{< ls-hero-container
   image="/products/evertag/heroimage/evertag_mac_600_345.png"
   imageWidth="600"
 >}}
@@ -30,37 +30,37 @@ Evertag adalah editor tag musik untuk iPhone dan Mac yang dikembangkan oleh Ever
 <div class="hx:w-full hx:text-center">
 
 <div class="hx:mt-4">
-{{< downloads-badge >}}
+{{< ls-downloads-badge >}}
 </div>
 
 <div class="hx:mt-6 hx:mb-6">
 <div class="hx:flex hx:gap-4 hx:items-center hx:justify-center">
-  {{< app-icon src="/images/app_icons/png/Evertag_Icon-App-1024x1024.png" alt="Evertag Icon" class="hero-headline-icon" size="80" >}}
-  {{< hextra/hero-headline >}}
+  {{< ls-app-icon src="/images/app_icons/png/Evertag_Icon-App-1024x1024.png" alt="Evertag Icon" class="hero-headline-icon" size="80" >}}
+  {{< ls-hero-headline >}}
   Evertag
-  {{< /hextra/hero-headline >}}
+  {{< /ls-hero-headline >}}
 </div>
 </div>
 
 <div class="hx:mb-6">
-{{< hextra/hero-centered-subtitle >}}
+{{< ls-hero-centered-subtitle >}}
 <strong>Jaga Perpustakaan Musik Anda Tetap Terorganisir</strong>
-{{< /hextra/hero-centered-subtitle >}}
+{{< /ls-hero-centered-subtitle >}}
 </div>
 
 <div class="hx:mb-6">
-{{< hextra/hero-paragraph >}}
+{{< ls-hero-paragraph >}}
 • Tambah atau perbarui sampul album  
 • Edit tag secara massal untuk banyak lagu sekaligus  
 • Perbaiki encoding yang rusak dan isi otomatis tag yang hilang  
-{{< /hextra/hero-paragraph >}}
+{{< /ls-hero-paragraph >}}
 </div>
 
-{{< app-store-badges products="evertag:ios, evertag:macos" >}}
+{{< ls-app-store-badges products="evertag:ios, evertag:macos" >}}
 
 </div>
 
-{{< /hextra/hero-container >}}
+{{< /ls-hero-container >}}
 
 <div class="hx:mt-6"></div>
 
@@ -68,63 +68,63 @@ Evertag adalah editor tag musik untuk iPhone dan Mac yang dikembangkan oleh Ever
 
 {{< hextra/feature-grid >}}
 
-  {{< hextra/feature-card
+  {{< ls-glass-feature-card
     title="Edit Lebih dari 120+ Tag"
     subtitle="Edit tag musik dengan cepat seperti Judul, Artis, Album, Artis Album, BPM, Komentar, Komposer, Nomor Disk, Genre, Lirik, Peringkat, Nomor Trek, Tahun, dan lainnya."
     icon="pencil"
     style="background: radial-gradient(ellipse at 50% 80%, rgba(59,130,246,0.15), hsla(0,0%,100%,0));"
   >}}
 
-  {{< hextra/feature-card
+  {{< ls-glass-feature-card
     title="Pengeditan Tag Massal"
     subtitle="Perbarui metadata untuk beberapa file sekaligus. Hemat waktu dan jaga perpustakaan musik Anda tetap terorganisir hanya dengan beberapa ketukan."
     icon="database"
     style="background: radial-gradient(ellipse at 50% 80%, rgba(192,38,211,0.15), hsla(0,0%,100%,0));"
   >}}
 
-  {{< hextra/feature-card
+  {{< ls-glass-feature-card
     title="Temukan Sampul Album"
     subtitle="Temukan dan tambahkan artwork album yang hilang ke lagu-lagu Anda secara otomatis. Buat koleksi musik Anda lengkap secara visual."
     icon="camera"
     style="background: radial-gradient(ellipse at 50% 80%, rgba(234,88,12,0.15), hsla(0,0%,100%,0));"
   >}}
 
-  {{< hextra/feature-card
+  {{< ls-glass-feature-card
     title="Mendukung 30+ Format"
     subtitle="Mendukung MP3, FLAC, OGG, OPUS, M4A, WAV, WMA, APE, AIFF, MOD, XM, IT, dan lainnya."
     icon="music-note"
     style="background: radial-gradient(ellipse at 50% 80%, rgba(236,72,153,0.15), hsla(0,0%,100%,0));"
   >}}
 
-  {{< hextra/feature-card
+  {{< ls-glass-feature-card
     title="Pencari Tag Otomatis"
     subtitle="Deteksi informasi lagu yang hilang dan isi secara otomatis menggunakan database MusicBrainz. Tinjau perubahan atau terapkan langsung."
     icon="search"
     style="background: radial-gradient(ellipse at 50% 80%, rgba(34,197,94,0.15), hsla(0,0%,100%,0));"
   >}}
 
-  {{< hextra/feature-card
+  {{< ls-glass-feature-card
     title="Perbaiki Masalah Encoding"
     subtitle="Perbaiki karakter yang rusak atau tidak terbaca di metadata Anda. Evertag menjaga tag Anda tetap bersih dan jelas dalam bahasa apa pun."
     icon="translate"
     style="background: radial-gradient(ellipse at 50% 80%, rgba(251,191,36,0.15), hsla(0,0%,100%,0));"
   >}}
 
-  {{< hextra/feature-card
+  {{< ls-glass-feature-card
     title="Akses Cloud dan USB"
     subtitle="Edit musik langsung dari iCloud Drive, Google Drive, Dropbox, OneDrive, flash drive USB, atau folder bersama — tanpa perlu menyalin."
     icon="cloud"
     style="background: radial-gradient(ellipse at 50% 80%, rgba(6,182,212,0.15), hsla(0,0%,100%,0));"
   >}}
 
-  {{< hextra/feature-card
+  {{< ls-glass-feature-card
     title="Transfer Musik Wi-Fi"
     subtitle="Unggah musik ke iPhone atau iPad Anda dari komputer dengan mudah menggunakan koneksi Wi-Fi. Tidak perlu kabel."
     icon="wifi"
     style="background: radial-gradient(ellipse at 50% 80%, rgba(245,158,11,0.15), hsla(0,0%,100%,0));"
   >}}
 
-  {{< hextra/feature-card
+  {{< ls-glass-feature-card
     title="Pengelola File Bawaan"
     subtitle="Atur file musik Anda dengan alat bawaan. Ganti nama, Pindahkan, Hapus, Tandai Favorit, dan Lihat Aktivitas Terkini — semua dalam satu aplikasi."
     icon="folder-open"
@@ -139,47 +139,47 @@ Evertag adalah editor tag musik untuk iPhone dan Mac yang dikembangkan oleh Ever
 <div class="hx:mt-6"></div>
 
 <div class="hx:w-full">
-{{< appstore-reviews apps="1450763230,1594027661" stars="5,4"  app="Evertag" >}}
+{{< ls-appstore-reviews apps="1450763230,1594027661" stars="5,4"  app="Evertag" >}}
 </div>
 
 <div class="hx:mt-6"></div>
 
-{{< hextra/section-headline >}}
+{{< ls-section-headline >}}
   Paket Harga
-{{< /hextra/section-headline >}}
+{{< /ls-section-headline >}}
 
 <div class="hx:mt-6"></div>
 
 <div class="hx:w-full">
 
-{{< pricing-plans >}}
+{{< ls-pricing-plans >}}
 
 </div>
 
 <div class="hx:mt-6"></div>
 
 <div class="hx:w-full hx:mx-auto hx:flex hx:flex-col hx:items-center">
-  {{< hextra/info-paragraph border="true" >}}
+  {{< ls-info-paragraph border="true" >}}
    <strong>Berbagi Keluarga</strong>: Semua pembelian dan langganan mendukung Berbagi Keluarga, memungkinkan Anda berbagi akses Premium dengan keluarga Anda.<br><strong>Akses Universal</strong>: Paket seumur hidup dan langganan dibagikan antara perangkat iOS dan Mac menggunakan sinkronisasi iCloud.<br><strong>Harga</strong>: Harga ditampilkan dalam dolar AS untuk Amerika Serikat. Harga akhir dapat bervariasi berdasarkan wilayah Anda.  
-  {{< /hextra/info-paragraph >}}
+  {{< /ls-info-paragraph >}}
 </div>
 
 <div class="hx:mt-6"></div>
 
 <div class="hx:w-full">
-{{< app-details heading="true" >}}
+{{< ls-app-details heading="true" >}}
 </div>
 
 <div class="hx:mt-6"></div>
 
-{{< hextra/section-headline >}}
+{{< ls-section-headline >}}
   Pertanyaan yang Sering Diajukan
-{{< /hextra/section-headline >}}
+{{< /ls-section-headline >}}
 
 <div class="hx:mt-6"></div>
 
 <div class="hx:w-full">
-{{% details title="Apa itu Evertag?" closed="true" %}}
+{{% ls-details title="Apa itu Evertag?" closed="true" %}}
 Evertag adalah editor metadata musik dan pengelola artwork album yang kuat, dirancang untuk iOS dan macOS. Aplikasi ini memberi Anda alat untuk mengorganisir koleksi musik Anda secara profesional, baik file Anda disimpan secara lokal maupun di cloud. Dengan antarmuka yang bersih dan fitur pengeditan canggih, Evertag memudahkan perbaikan tag yang hilang, penambahan artwork sampul berkualitas tinggi, dan memastikan perpustakaan musik Anda terlihat bagus dan tetap konsisten.<br><br>
 
 Aplikasi ini mendukung berbagai format audio populer, termasuk MP3, FLAC, WAV, M4A, WMA, OGG, dan banyak lagi. Anda dapat mengedit tag umum seperti judul, artis, album, genre, tahun, nomor trek, serta field yang diperluas seperti BPM, nomor disk, lirik, ID MusicBrainz, dan lainnya. Anda dapat bekerja dengan satu file sekaligus atau beralih ke mode massal untuk mengedit beberapa trek secara bersamaan — sempurna untuk mengorganisir album atau playlist lengkap.<br><br>
@@ -187,14 +187,14 @@ Aplikasi ini mendukung berbagai format audio populer, termasuk MP3, FLAC, WAV, M
 Salah satu fitur unggulan Evertag adalah kemampuannya untuk mengambil sampul album yang hilang langsung dari internet atau memungkinkan Anda menambahkan milik Anda secara manual. Anda juga dapat menggunakan editor lirik untuk menambahkan lirik yang tidak disinkronkan ke lagu Anda, meningkatkan pemutaran di pemutar yang kompatibel. Aplikasi ini mendukung pengeditan langsung di tempat, sehingga Anda dapat memodifikasi tag audio tanpa perlu menyalin atau memindahkan file Anda.<br><br>
 
 Baik Anda mengelola musik di perangkat Anda atau di cloud menggunakan Dropbox, OneDrive, MEGA, atau layanan lainnya, Evertag menawarkan akses file dan pengeditan yang mulus. Ini adalah solusi sempurna untuk musisi, DJ, dan kolektor yang ingin memelihara perpustakaan musik yang bersih dan terorganisir di iPhone, iPad tanpa memerlukan komputer desktop.<br><br>
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Apakah Evertag gratis?" closed="true" %}}
+{{% ls-details title="Apakah Evertag gratis?" closed="true" %}}
 Evertag adalah aplikasi gratis dengan beberapa batasan yang dapat Anda hapus setelah meningkatkan ke versi Premium. Aplikasi ini menawarkan pembelian dalam aplikasi seumur hidup sekali bayar dan dua opsi langganan (1 bulan dan 1 tahun) untuk menghapus semua pembatasan, memungkinkan Anda memilih harga terbaik dan paling optimal untuk Anda. Harga dapat bervariasi tergantung pada negara atau wilayah Anda. Juga, perlu diingat bahwa Berbagi Keluarga diaktifkan untuk semua pembelian dan paket, sehingga Anda dapat berbagi versi Premium dengan anggota keluarga Anda.<br><br>
 Pembelian seumur hidup dan langganan dibagikan antara iOS dan Mac, menggunakan iCloud untuk menyinkronkan informasi ini. Jika Anda memiliki versi Premium di perangkat iOS Anda, pastikan Anda memiliki versi terbaru yang diinstal dan iCloud diaktifkan. Mulai aplikasi di iOS dan tunggu satu menit agar informasi pembelian Anda diunggah ke iCloud.<br><br>
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Apa perbedaan antara Evertag Free dan Evertag Premium?" closed="true" %}}
+{{% ls-details title="Apa perbedaan antara Evertag Free dan Evertag Premium?" closed="true" %}}
 
 **Evertag Free**  <br>
 Evertag Free memberi Anda akses ke fitur pengeditan metadata musik yang kuat dengan beberapa batasan fungsional. Ini termasuk iklan dan memungkinkan penggunaan dasar editor tag, editor sampul album, dan pengeditan massal. Anda dapat memperbaiki masalah encoding, menghubungkan 1 akun penyimpanan cloud, dan menandai hingga 10 file favorit. Selain itu, Anda dapat melakukan 20 pencarian tag otomatis dan 20 pencarian sampul album per hari.<br><br>
@@ -213,9 +213,9 @@ Pengguna Premium juga mendapatkan akses ke pengaturan personalisasi penuh, terma
 
 Setiap opsi premium mencakup set fitur yang sama, sehingga Anda dapat memilih paket yang sesuai dengan kebutuhan dan anggaran Anda.<br><br>
 
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Apakah Evertag aman?" closed="true" %}}
+{{% ls-details title="Apakah Evertag aman?" closed="true" %}}
 Evertag hanya menggunakan SDK resmi dan koneksi aman untuk berinteraksi dengan layanan cloud yang terhubung. Login dan kata sandi Anda tidak tersedia untuk aplikasi. Semua permintaan dari aplikasi ke layanan cloud dienkripsi.<br>
 Saat Anda memasukkan login dan kata sandi, aplikasi menampilkan halaman otorisasi resmi yang disediakan oleh penyedia layanan cloud dan seluruh proses otorisasi dilakukan di luar aplikasi. Penyedia layanan cloud mengirimkan auth-token ke aplikasi setelah otorisasi berhasil dan token tersebut digunakan untuk membuat panggilan API.<br><br>
 
@@ -226,9 +226,9 @@ Untuk menolak auth-token, masuk ke akun Anda di browser web dan navigasi ke hala
 
 Anda juga dapat memutuskan koneksi akun cloud yang terhubung di aplikasi dan auth-token juga akan dihapus dari perangkat Anda. Jika Anda menghapus aplikasi dari perangkat Anda, semua data yang diunduh dan token akses juga akan dihapus.<br><br>
 
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Bagaimana cara mengedit metadata untuk musik yang diunduh secara lokal di iPhone?" closed="true" %}}
+{{% ls-details title="Bagaimana cara mengedit metadata untuk musik yang diunduh secara lokal di iPhone?" closed="true" %}}
 Setelah Anda menginstal aplikasi, buka layar "Local Files" dan gulir ke bawah ke bagian "Files on this iPhone".<br>
 Dari sana, pilih "Open files..." jika Anda perlu memilih beberapa file audio atau "Open folder..." jika Anda ingin memilih folder musik.<br>
 Aplikasi akan memindai konten folder, dan semua file audio yang ditemukan akan dipilih.<br>
@@ -242,9 +242,9 @@ Buka layar "Local files".<br>
 Gulir ke bawah ke bagian "Files on this device" dan ketuk "Connect a folder".<br>
 Pilih folder yang terletak di perangkat Anda dan ketuk "Open" untuk mengkonfirmasi pilihan.<br>
 Folder Anda akan ditambahkan ke bagian "Files on this iPhone" yang menyediakan akses cepat ke file audio Anda.<br><br>
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Bagaimana cara menambahkan lirik untuk lagu di Evertag?" closed="true" %}}
+{{% ls-details title="Bagaimana cara menambahkan lirik untuk lagu di Evertag?" closed="true" %}}
 Anda dapat menambahkan lirik tertanam ke trek Anda di aplikasi Evertag dengan mengikuti langkah-langkah berikut:<br><br>
 * Mulai mengedit file audio dengan mengetuknya.<br>
 * Ketuk "Show extended tags" untuk mengalihkan editor tag ke mode lanjutan.<br>
@@ -258,9 +258,9 @@ Anda dapat menambahkan lirik tertanam ke trek Anda di aplikasi Evertag dengan me
 Tutorial lebih detail tersedia di sini:<br>
 [Cara Mengedit Lirik untuk File Audio di iPhone atau MAC](/docs/howto/how-to-edit-lyrics-for-audio-files-on-iphone-mac/)<br><br>
 
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Bagaimana cara mentransfer musik ke Evertag dari komputer saya?" closed="true" %}}
+{{% ls-details title="Bagaimana cara mentransfer musik ke Evertag dari komputer saya?" closed="true" %}}
 Anda dapat menghubungkan komputer atau NAS pribadi Anda menggunakan SMB, WebDAV. Atau, gunakan iTunes File Sharing untuk mentransfer musik.<br><br>
 
 Untuk menghubungkan komputer menggunakan protokol **SMB**, ketuk "Connect to cloud storage" → SMB.<br>
@@ -295,23 +295,23 @@ Salin file dari komputer ke folder bersama di perangkat.<br><br>
 Instruksi detail tersedia di sini:<br>
 [Cara memutar file lokal (file iTunes) di iPhone saya](/docs/howto/how-to-play-local-itunes-files-on-my-iphone)<br><br>
 
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Format audio apa yang didukung Evertag?" closed="true" %}}
+{{% ls-details title="Format audio apa yang didukung Evertag?" closed="true" %}}
 Berikut daftar lengkap format audio yang didukung dan ekstensi file yang sesuai:<br><br>
 
 MP3, OGG, OGA, FLAC, MPC, WV, SPX, OPUS, TTA, M4A, M4R, M4B, M4P, MP4, 3G2, M4V, WMA, ASF, AIF, AIFF, AFC, AIFC, WAV, APE, MOD, MODULE, NTS, WOW, S3M, IT, XM.<br>
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Tag audio apa yang didukung Evertag?" closed="true" %}}
+{{% ls-details title="Tag audio apa yang didukung Evertag?" closed="true" %}}
 Berikut daftar lengkap tag audio yang didukung:<br><br>
 
 ASIN, AcoustID: Fingerprint, AcoustID: Identifier, Album, Album Artist, Album Artist Sort Order, Album Cover, Album Sort Order, Arranger, Artist, Artist Sort Order, Artists, Barcode, Beats Per Minute, Catalog Number, Comment, Compilation, Composer, Composer Sort Order, Conductor, Content Group, Copyright, Description, Director, Disk Number, Disk Subtitle, Disk Total, Encoded By, Encoder Settings, Encoding Time, Engineer, File Owner, File Type, Genre, Grouping, ISRC, Initial Key, Involved People, Language, Length, License, Lyricist, Lyrics Advisory Rating, Lyrics Unsynced, Media Type, Mix DJ, Mixer, Mood, Movement Name, Movement Number, Movement Total, MusicBrainz: Album Artist ID, MusicBrainz: Album ID, MusicBrainz: Album Release Country, MusicBrainz: Album Status, MusicBrainz: Album Type, MusicBrainz: Artist ID, MusicBrainz: Disc ID, MusicBrainz: Original Album ID, MusicBrainz: Original Artist ID, MusicBrainz: Release Group ID, MusicBrainz: Release Track ID, MusicBrainz: TRM ID, MusicBrainz: Track ID, MusicBrainz: Work ID, MusicIP: Fingerprint, MusicIP: PUID, Musician Credits, Narrator, Net Radio Owner, Net Radio Station, Original Album, Original Artist, Original File Name, Original Lyricist, Original Release Date, Original Release Year, Performer, Podcast, Podcast Category, Podcast Description, Podcast ID, Podcast Keywords, Podcast URL, Producer, Publisher, Rating, Record Label, Release Country, Release Status, Release Type, Remixed By, Replay Gain: Album Gain, Replay Gain: Album Peak, Replay Gain: Album Range, Replay Gain: Reference Loudness, Replay Gain: Track Gain, Replay Gain: Track Peak, Replay Gain: Track Range, Script, Show Movement, Show Name, Show Name Sort Order, Subtitle, Track Number, Track Title, Track Title Sort Order, Track Total, WWW, WWW: Artist, WWW: Audio File, WWW: Audio Source, WWW: Commercial Info, WWW: Copyright, WWW: Payment, WWW: Publisher, WWW: Radio Page, Website, Work Title, Writer, Year<br><br>
 
 [Baca selengkapnya](/docs/guide/evertag/evertag-tag-field-mappings/)
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Bagaimana cara mengunduh file?" closed="true" %}}
+{{% ls-details title="Bagaimana cara mengunduh file?" closed="true" %}}
 Sebelum Anda dapat mengunduh file audio dan mengedit tag audio, Anda perlu menghubungkan layanan penyimpanan cloud.<br>
 Buka layar "Connections" dan tambahkan penyedia penyimpanan cloud Anda.<br>
 Setelah ditambahkan, Anda dapat mulai mengunduh file ke aplikasi.<br><br>
@@ -321,10 +321,10 @@ Untuk mengunduh file dari cloud:<br>
 – Navigasi ke folder yang ingin Anda unduh.<br>
 – Ketuk tombol "More actions" ("...") di pojok kanan atas dan pilih item menu "Select".<br>
 – Pilih file atau folder yang ingin Anda unduh dan ketuk aksi "Download".<br>
-{{% /details %}}
+{{% /ls-details %}}
 
 
-{{% details title="Layanan cloud apa yang didukung?" closed="true" %}}
+{{% ls-details title="Layanan cloud apa yang didukung?" closed="true" %}}
 Jika perpustakaan musik Anda disimpan di cloud, Anda dapat menghubungkan layanan cloud paling populer langsung di aplikasi:<br>
 Dropbox, OneDrive, Box, MEGA, Yandex.Disk, MediaFire, pCloud, HiDrive.<br><br>
 
@@ -332,9 +332,9 @@ Anda dapat menelusuri dan mengelola file Anda menggunakan pengelola file bawaan.
 
 Anda juga dapat mengedit file audio yang disimpan secara lokal di perangkat Anda menggunakan fitur buka langsung di tempat. Tidak perlu menyalinnya dari aplikasi lain — cukup buka dan edit langsung.<br><br>
 
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Bagaimana cara memperbarui metadata file secara otomatis di layanan cloud?" closed="true" %}}
+{{% ls-details title="Bagaimana cara memperbarui metadata file secara otomatis di layanan cloud?" closed="true" %}}
 Setelah selesai mengedit metadata, ketuk tombol "Save" di pojok kanan atas untuk menerapkan perubahan ke file yang dipilih.<br><br>
 
 Jika Anda mengedit file yang disimpan di cloud, aplikasi memberi Anda beberapa opsi untuk memperbarui metadata file. Perilaku ini dapat disesuaikan di pengaturan:<br><br>
@@ -344,10 +344,10 @@ Jika Anda mengedit file yang disimpan di cloud, aplikasi memberi Anda beberapa o
 • **Jangan perbarui metadata file** – Saat diaktifkan, aplikasi akan melewati pembaruan metadata file cloud setelah pengeditan.<br><br>
 
 Anda dapat menemukan dan mengubah opsi ini di pengaturan Evertag di bagian preferensi pembaruan metadata.
-{{% /details %}}
+{{% /ls-details %}}
 
 
-{{% details title="Bagaimana cara menambahkan akun baru?" closed="true" %}}
+{{% ls-details title="Bagaimana cara menambahkan akun baru?" closed="true" %}}
 Untuk menghubungkan layanan cloud, buka tab "Connections" → pilih item menu "Connect to cloud storage" → pilih layanan penyimpanan cloud dari daftar → masukkan kredensial Anda dan ketuk "Done".<br><br>
 
 Jika Anda mengalami masalah, pastikan koneksi internet Anda aktif dan periksa kembali login dan kata sandi Anda.<br><br>
@@ -355,9 +355,9 @@ Jika Anda mengalami masalah, pastikan koneksi internet Anda aktif dan periksa ke
 Layanan yang saat ini didukung meliputi: Dropbox, OneDrive, Box, MEGA, Yandex.Disk, Media Fire, PCloud, dan HiDrive.<br><br>
 
 Di versi Premium aplikasi, Anda dapat menambahkan akun cloud dalam jumlah tak terbatas.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Bagaimana cara mengelola file saya di penyimpanan jaringan?" closed="true" %}}
+{{% ls-details title="Bagaimana cara mengelola file saya di penyimpanan jaringan?" closed="true" %}}
 Jika Anda perlu mengedit beberapa file yang terletak di penyimpanan cloud Anda, aktifkan mode pilih dengan mengetuk tombol "..." di pojok kanan atas.<br><br>
 
 Setelah diaktifkan, kotak centang akan muncul di samping setiap file. Anda kemudian dapat melakukan tindakan pada file individual atau memilih beberapa file untuk menerapkan tindakan massal.<br><br>
@@ -371,10 +371,10 @@ Tindakan yang tersedia untuk file yang dipilih:<br>
 • <strong>Grid/Daftar</strong> – Beralih antara tampilan tabel dan tampilan thumbnail.<br><br>
 
 Jika tidak ada cukup ruang untuk menampilkan semua opsi, tombol "More actions" akan muncul. Ketuk untuk mengakses daftar lengkap tindakan yang tersedia.
-{{% /details %}}
+{{% /ls-details %}}
 
 
-{{% details title="Bagaimana cara mengedit beberapa file sebagai satu file?" closed="true" %}}
+{{% ls-details title="Bagaimana cara mengedit beberapa file sebagai satu file?" closed="true" %}}
 Dengan "mode massal", Anda dapat mengedit beberapa file sekaligus dan menerapkan perubahan metadata bersama dengan cepat dan efisien.<br><br>
 
 Untuk mengaktifkan mode massal:<br>
@@ -382,38 +382,38 @@ Untuk mengaktifkan mode massal:<br>
 • Ketuk tombol "Edit several files simultaneously".<br><br>
 
 Mode ini sangat berguna ketika Anda perlu menerapkan nama album, artis, genre, atau field metadata lainnya yang sama ke beberapa file audio.
-{{% /details %}}
+{{% /ls-details %}}
 
 </div>
 
 <div class="hx:mt-6"></div>
 
-{{< hextra/section-headline >}}
+{{< ls-section-headline >}}
   Panduan Pengguna
-{{< /hextra/section-headline >}}
+{{< /ls-section-headline >}}
 
 <div class="hx:mt-6"></div>
 
 <div class="hx:w-full">
 
 <div class="hx:w-full hx:mx-auto hx:flex hx:flex-col hx:items-center hx:text-center">
-  {{< hextra/info-paragraph border="false" >}}
+  {{< ls-info-paragraph border="false" >}}
   Dalam panduan ini, Anda akan menemukan cara memanfaatkan kekuatan Evertag di iPhone, iPad, dan Mac Anda, menjadikan pengalaman manajemen musik Anda mulus dan menyenangkan.
-  {{< /hextra/info-paragraph >}}
+  {{< /ls-info-paragraph >}}
 </div>
 
 {{< cards >}}
-  {{< feature-card icon="location-marker" title="Navigasi" subtitle="Pelajari cara menavigasi aplikasi kami dengan mudah menggunakan Tab Bar (untuk pengguna iPhone) atau Left Menu (untuk pengguna iPad dan Mac) untuk mengakses dan menjelajahi semua fitur aplikasi." link="/docs/guide/evertag/evertag-guide-navigation" >}}
+  {{< ls-feature-card icon="location-marker" title="Navigasi" subtitle="Pelajari cara menavigasi aplikasi kami dengan mudah menggunakan Tab Bar (untuk pengguna iPhone) atau Left Menu (untuk pengguna iPad dan Mac) untuk mengakses dan menjelajahi semua fitur aplikasi." link="/docs/guide/evertag/evertag-guide-navigation" >}}
 
-  {{< feature-card icon="cloud" title="Koneksi" subtitle="Hubungkan semua akun cloud yang tersedia dengan file audio berharga Anda dengan mudah. Anda bahkan dapat mengedit file online Anda dengan mudah menggunakan pengelola file terintegrasi kami." link="/docs/guide/evertag/evertag-guide-connections" >}}
+  {{< ls-feature-card icon="cloud" title="Koneksi" subtitle="Hubungkan semua akun cloud yang tersedia dengan file audio berharga Anda dengan mudah. Anda bahkan dapat mengedit file online Anda dengan mudah menggunakan pengelola file terintegrasi kami." link="/docs/guide/evertag/evertag-guide-connections" >}}
 
-  {{< feature-card icon="folder" title="File Lokal" subtitle="Lihat dan atur file yang disimpan di folder Documents aplikasi atau di perangkat Anda. Gunakan pengelola file bawaan untuk mengedit dan mengelola file audio Anda dengan mudah." link="/docs/guide/evertag/evertag-guide-local-files" >}}
+  {{< ls-feature-card icon="folder" title="File Lokal" subtitle="Lihat dan atur file yang disimpan di folder Documents aplikasi atau di perangkat Anda. Gunakan pengelola file bawaan untuk mengedit dan mengelola file audio Anda dengan mudah." link="/docs/guide/evertag/evertag-guide-local-files" >}}
 
-  {{< feature-card icon="pencil-alt" title="Editor Tag" subtitle="Kuasai seni manipulasi metadata file audio. Temukan cara mengedit metadata, mengubah sampul album, dan mengelola beberapa file secara bersamaan dengan mulus." link="/docs/guide/evertag/evertag-guide-tag-editor" >}}
+  {{< ls-feature-card icon="pencil-alt" title="Editor Tag" subtitle="Kuasai seni manipulasi metadata file audio. Temukan cara mengedit metadata, mengubah sampul album, dan mengelola beberapa file secara bersamaan dengan mulus." link="/docs/guide/evertag/evertag-guide-tag-editor" >}}
 
-  {{< feature-card icon="code" title="Pemetaan Field Tag" subtitle="Jelajahi daftar lengkap field tag audio yang didukung oleh aplikasi Evertag, termasuk nama field internal dan pemetaan lintas format metadata utama." link="/docs/guide/evertag/evertag-tag-field-mappings" >}}
+  {{< ls-feature-card icon="code" title="Pemetaan Field Tag" subtitle="Jelajahi daftar lengkap field tag audio yang didukung oleh aplikasi Evertag, termasuk nama field internal dan pemetaan lintas format metadata utama." link="/docs/guide/evertag/evertag-tag-field-mappings" >}}
 
-  {{< feature-card icon="adjustments" title="Pengaturan" subtitle="Temukan cara menyesuaikan pengalaman aplikasi Anda, mengoptimalkan performa, mengelola penggunaan data, dan menyesuaikan preferensi bahasa dan antarmuka pengguna sesuai keinginan Anda." link="/docs/guide/evertag/evertag-guide-settings" >}}
+  {{< ls-feature-card icon="adjustments" title="Pengaturan" subtitle="Temukan cara menyesuaikan pengalaman aplikasi Anda, mengoptimalkan performa, mengelola penggunaan data, dan menyesuaikan preferensi bahasa dan antarmuka pengguna sesuai keinginan Anda." link="/docs/guide/evertag/evertag-guide-settings" >}}
 
 {{< /cards >}}
 

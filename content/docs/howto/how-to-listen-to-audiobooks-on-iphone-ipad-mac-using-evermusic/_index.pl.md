@@ -7,7 +7,7 @@ tags: ["audiobooki", "odtwarzanie", "offline", "evermusic", "zakładka"]
 readingTime: 5
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **W skrócie:** Evermusic pełni również funkcję w pełni funkcjonalnego odtwarzacza audiobooków na iOS i macOS. Przesyłaj audiobooki przez iTunes, WiFi lub chmurę, a następnie korzystaj z kontroli prędkości odtwarzania, przycisków przeskakiwania, zakładek audio, kontynuacji odtwarzania i pobierania offline, aby uzyskać płynne wrażenia ze słuchania.
@@ -151,26 +151,26 @@ Miłego słuchania!
 
 ## Często zadawane pytania
 
-{{% details title="Jakie formaty audiobooków obsługuje Evermusic?" closed="true" %}}
+{{% ls-details title="Jakie formaty audiobooków obsługuje Evermusic?" closed="true" %}}
 Evermusic obsługuje MP3, M4A, M4B, FLAC, WAV, AIFF, OGG i inne popularne formaty audio. Każdy plik audio odtwarzany w Evermusic działa jako audiobook.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Czy mogę słuchać audiobooków z chmury?" closed="true" %}}
+{{% ls-details title="Czy mogę słuchać audiobooków z chmury?" closed="true" %}}
 Tak. Evermusic łączy się z iCloud Drive, Google Drive, Dropbox, OneDrive, Box i serwerami WebDAV. Możesz strumieniować audiobooki bezpośrednio lub pobrać je do słuchania offline.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Czy moje zakładki zostaną przeniesione na nowe urządzenie?" closed="true" %}}
+{{% ls-details title="Czy moje zakładki zostaną przeniesione na nowe urządzenie?" closed="true" %}}
 Tak. Evermusic zapisuje zakładki audio w metadanych pliku, więc są automatycznie przenoszone, gdy przenosisz pliki na nowe urządzenie.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Czy Evermusic pamięta, gdzie przestałem słuchać?" closed="true" %}}
+{{% ls-details title="Czy Evermusic pamięta, gdzie przestałem słuchać?" closed="true" %}}
 Tak. Włącz "Zapisz pozycję odtwarzania" i "Zapisz stan odtwarzacza audio" w Ustawienia > Odtwarzacz audio > Ogólne. Aplikacja zapisuje i przywraca dokładną pozycję między sesjami.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Czy mogę dostosować prędkość odtwarzania audiobooków?" closed="true" %}}
+{{% ls-details title="Czy mogę dostosować prędkość odtwarzania audiobooków?" closed="true" %}}
 Tak. Przejdź do Ustawienia > Odtwarzacz audio > Prędkość odtwarzania, aby ustawić preferowaną prędkość. Możesz przyspieszyć lub spowolnić narrację, aby dopasować ją do swoich preferencji.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Jak przesłać audiobooki do Evermusic?" closed="true" %}}
+{{% ls-details title="Jak przesłać audiobooki do Evermusic?" closed="true" %}}
 Możesz przesyłać pliki przez udostępnianie plików iTunes/Finder, WiFi Drive (wbudowane w aplikację) lub łącząc konto chmury w Evermusic.
-{{% /details %}}
+{{% /ls-details %}}

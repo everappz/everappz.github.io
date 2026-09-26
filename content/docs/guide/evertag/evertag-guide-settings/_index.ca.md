@@ -21,7 +21,7 @@ En aquesta pantalla, pots accedir a la configuració de l'aplicació i actualitz
 - **Legal i privadesa** — Condicions, Política de privadesa, Avisos legals, Anàlisi i recollida de dades
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Pantalla de Configuració d'Evertag" image="/docs/guide/evertag/img/settings.webp" >}}
+  {{< ls-card title="" subtitle="Pantalla de Configuració d'Evertag" image="/docs/guide/evertag/img/settings.webp" >}}
 {{< /cards >}}
 
 ## Actualitzar a Premium
@@ -63,7 +63,7 @@ Activa la pantalla de protecció per contrasenya si vols protegir les dades de l
 El gestor de fitxers permet l'accés als comptes d'emmagatzematge al núvol connectats i ofereix operacions per lots per a la gestió ràpida de múltiples fitxers.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Pantalla de Configuració del Gestor de fitxers d'Evertag" image="/docs/guide/evertag/img/settings-file-manager.webp" >}}
+  {{< ls-card title="" subtitle="Pantalla de Configuració del Gestor de fitxers d'Evertag" image="/docs/guide/evertag/img/settings-file-manager.webp" >}}
 {{< /cards >}}
 
 ### Transferències de fitxers
@@ -103,7 +103,7 @@ Buida la carpeta de memòria cau de l'aplicació per recuperar espai d'emmagatze
 En aquesta secció, pots configurar l'editor d'etiquetes d'àudio integrat.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Pantalla de Configuració de l'Editor d'etiquetes d'Evertag" image="/docs/guide/evertag/img/settings-tag-editor.webp" >}}
+  {{< ls-card title="" subtitle="Pantalla de Configuració de l'Editor d'etiquetes d'Evertag" image="/docs/guide/evertag/img/settings-tag-editor.webp" >}}
 {{< /cards >}}
 
 ### Escalat de la portada
@@ -136,7 +136,7 @@ En aquesta secció, pots activar la funció WiFi Drive, que et permet transferir
 En aquesta secció, pots personalitzar la configuració de la interfície d'usuari per adaptar-la a les teves preferències.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Pantalla de Configuració de Personalització d'Evertag" image="/docs/guide/evertag/img/settings-personalization.webp" >}}
+  {{< ls-card title="" subtitle="Pantalla de Configuració de Personalització d'Evertag" image="/docs/guide/evertag/img/settings-personalization.webp" >}}
 {{< /cards >}}
 
 ### Icona de l'aplicació

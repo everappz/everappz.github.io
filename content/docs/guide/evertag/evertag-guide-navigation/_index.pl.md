@@ -16,7 +16,7 @@ readingTime: 3
 Evertag oferuje intuicyjny interfejs użytkownika. To, co wyróżnia go spośród wielu popularnych aplikacji, to wbudowany menedżer plików, dający użytkownikom możliwość edycji plików audio i płynnego transferu ich do i z chmury.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evertag Screen" image="/docs/guide/evertag/img/tag-editor.webp" >}}
+  {{< ls-card title="" subtitle="Evertag Screen" image="/docs/guide/evertag/img/tag-editor.webp" >}}
 {{< /cards >}}
 
 ## Sekcje
@@ -42,7 +42,7 @@ Sekcja Pliki lokalne jest podzielona na dwie kategorie: **Pliki w tej aplikacji*
 Praktycznie każdy element zawartości na ekranie ma przycisk „Więcej akcji". Naciśnij go, aby uzyskać dostęp do wszystkich dostępnych akcji.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evertag More Actions" image="/docs/guide/evertag/img/downloads-file-actions.webp" >}}
+  {{< ls-card title="" subtitle="Evertag More Actions" image="/docs/guide/evertag/img/downloads-file-actions.webp" >}}
 {{< /cards >}}
 
 ## Górny pasek narzędzi

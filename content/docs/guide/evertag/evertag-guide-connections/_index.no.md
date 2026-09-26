@@ -15,7 +15,7 @@ readingTime: 11
 På dette skjermbildet kan du koble til ulike kilder som inneholder lydfilene dine. Du kan integrere populære skytjenester som Google Drive, Dropbox, OneDrive, iCloud og andre, samt koble til Mac eller PC. I tillegg har du muligheten til å redigere lydfiler i Apple Time Capsule, WD Cloud Home eller en NAS som støtter SMB eller WebDAV.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evertag Tilkoblinger-skjerm" image="/docs/guide/evertag/img/connections.webp" >}}
+  {{< ls-card title="" subtitle="Evertag Tilkoblinger-skjerm" image="/docs/guide/evertag/img/connections.webp" >}}
 {{< /cards >}}
 
 ## Hurtigtilgang
@@ -151,7 +151,7 @@ Her er en beskrivelse av disse handlingene:
 - **Rutenett/Listevisning**: Bytt mellom to visningsmoduser: tabellvisning og miniatyrbildevisning. Tabellvisningen presenterer filer i en liste, mens miniatyrbildevisningen viser visuelle representasjoner av filene, noe som gjør det enklere å identifisere innhold med et blikk.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evertag Skymappe Sorter" image="/docs/guide/evertag/img/cloud-storage-sort.webp" >}}
+  {{< ls-card title="" subtitle="Evertag Skymappe Sorter" image="/docs/guide/evertag/img/cloud-storage-sort.webp" >}}
 {{< /cards >}}
 
 ## Rediger nettfiler
@@ -163,7 +163,7 @@ Når du trenger å administrere flere filer i skylagringen din i denne appen, ka
 - **Utfør ulike handlinger**: Når du har valgt filene eller mappene du vil administrere, vil du ha tilgang til flere handlinger tilpasset dine behov:
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evertag Velg fil" image="/docs/guide/evertag/img/cloud-storage-file-select.webp" >}}
+  {{< ls-card title="" subtitle="Evertag Velg fil" image="/docs/guide/evertag/img/cloud-storage-file-select.webp" >}}
 {{< /cards >}}
 
 ## Filhandlinger
@@ -180,7 +180,7 @@ Trykk på det for å vise en liste over tilgjengelige handlinger:
 - **Slette**: Vær forsiktig med denne handlingen, da den permanent fjerner filen fra skylagringen din. **Denne slettingen kan ikke angres**.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evertag Filalternativer" image="/docs/guide/evertag/img/cloud-storage-file-options.webp" >}}
+  {{< ls-card title="" subtitle="Evertag Filalternativer" image="/docs/guide/evertag/img/cloud-storage-file-options.webp" >}}
 {{< /cards >}}
 
 Hvis handlingslisten overskrider den tilgjengelige skjermplassen, blar du bare ned i handlingsmenyen for å få tilgang til flere alternativer.
@@ -196,5 +196,5 @@ For hver mappe i skylagringen din er det ulike handlinger tilgjengelige. For å 
 - **Slette**: Vær forsiktig med denne handlingen, da den permanent fjerner mappen og innholdet fra skylagringen din. **Denne handlingen kan ikke angres**.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evertag Mappealternativer" image="/docs/guide/evertag/img/cloud-storage-folder-options.webp" >}}
+  {{< ls-card title="" subtitle="Evertag Mappealternativer" image="/docs/guide/evertag/img/cloud-storage-folder-options.webp" >}}
 {{< /cards >}}

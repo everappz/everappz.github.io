@@ -7,7 +7,7 @@ tags: ["evermusic", "conectare", "bluesound vault"]
 readingTime: 1
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **Rezumat:** Conectați-vă la stocarea internă a Bluesound VAULT prin SMB folosind Evermusic, Flacbox sau Evertag. Găsiți adresa IP a VAULT în aplicația BluOS, introduceți-o ca o conexiune SMB cu acces pentru oaspeți și începeți să redați sau să gestionați fișierele muzicale.
@@ -58,18 +58,18 @@ Cu acești pași simpli, puteți accesa cu ușurință hard disk-ul intern al Bl
 
 ## Întrebări frecvente
 
-{{% details title="Am nevoie de un nume de utilizator și o parolă pentru a mă conecta la Bluesound VAULT?" closed="true" %}}
+{{% ls-details title="Am nevoie de un nume de utilizator și o parolă pentru a mă conecta la Bluesound VAULT?" closed="true" %}}
 Nu. Bluesound VAULT suportă acces pentru oaspeți (anonim) prin SMB. Lăsați câmpurile Autentificare și Parolă goale la configurarea conexiunii.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Pot edita etichetele muzicale pe Bluesound VAULT?" closed="true" %}}
+{{% ls-details title="Pot edita etichetele muzicale pe Bluesound VAULT?" closed="true" %}}
 Da. Folosind Evertag, puteți edita etichetele de metadate (titlu, artist, album etc.) pentru fișierele audio stocate direct pe hard disk-ul intern al VAULT.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Ce protocoale suportă Bluesound VAULT?" closed="true" %}}
+{{% ls-details title="Ce protocoale suportă Bluesound VAULT?" closed="true" %}}
 Bluesound VAULT expune stocarea internă prin SMB (Server Message Block). Evermusic, Flacbox și Evertag suportă toate conexiunile SMB, făcând conectarea simplă.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Pot reda muzică în streaming de pe VAULT fără a copia fișiere pe iPhone-ul meu?" closed="true" %}}
+{{% ls-details title="Pot reda muzică în streaming de pe VAULT fără a copia fișiere pe iPhone-ul meu?" closed="true" %}}
 Da. Odată conectat prin SMB, puteți reda în streaming fișiere audio direct de pe unitatea internă a VAULT fără a le copia pe dispozitivul dvs.
-{{% /details %}}
+{{% /ls-details %}}

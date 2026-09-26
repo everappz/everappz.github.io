@@ -12,7 +12,7 @@ authors:
     image: "/images/about/artem-meleshko-founder-everappz.webp"
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 ## Neden Wix'ten Blog Yazılarını Dışa Aktarmalısınız?
 
@@ -331,33 +331,33 @@ Bu tek komut ortamı kurar, sitemap'teki tüm blog yazılarını scrape eder, g�
 Proje açık kaynaklıdır. Hata raporları, özellik önerileri ve pull request'ler hoş karşılanır.
 
 {{< cards cols="1" >}}
-  {{< card link="https://github.com/everappz/wix-blog-export" title="GitHub'da Proje" icon="github" tag="open source" >}}
+  {{< ls-card link="https://github.com/everappz/wix-blog-export" title="GitHub'da Proje" icon="github" tag="open source" >}}
 {{< /cards >}}
 
 ---
 
 ## Sık Sorulan Sorular
 
-{{% details title="Wix blog yazılarını scrape etmek için neden sadece `requests` kullanamıyorum?" closed="true" %}}
+{{% ls-details title="Wix blog yazılarını scrape etmek için neden sadece `requests` kullanamıyorum?" closed="true" %}}
 Wix içeriği JavaScript ile dinamik olarak işler. Standart bir HTTP isteği boş bir sayfa kabuğu döndürür. Selenium, tam olarak işlenmiş HTML'yi almak için bir headless tarayıcı çalıştırır.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Bu herhangi bir Wix bloguyla çalışır mı?" closed="true" %}}
+{{% ls-details title="Bu herhangi bir Wix bloguyla çalışır mı?" closed="true" %}}
 Evet. Scraper blog sitemap XML'ini okur ve her URL'yi işler. Sadece `parse_blog_sitemap.py`'deki `SITEMAP_URL` değişkenini sitenizin sitemap'ine yönlendirmek yeterlidir.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Hangi OpenAI modelini kullanıyor?" closed="true" %}}
+{{% ls-details title="Hangi OpenAI modelini kullanıyor?" closed="true" %}}
 Betik varsayılan olarak GPT-4o kullanır. Farklı bir model kullanmak için `generate_md.py`'deki `API_MODEL` değişkenini değiştirebilirsiniz.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Bunu Wix'ten Hugo'ya geçiş için kullanabilir miyim?" closed="true" %}}
+{{% ls-details title="Bunu Wix'ten Hugo'ya geçiş için kullanabilir miyim?" closed="true" %}}
 Evet. Çıktı, yerel görsel yollarıyla standart Markdown'dır ve doğrudan Hugo, Jekyll, Astro ve diğer statik site oluşturucularla çalışır. Geçişi tamamlamak için oluşturulan `_index.md` dosyalarına front matter ekleyin.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="OpenAI API bunun için ne kadar tutar?" closed="true" %}}
+{{% ls-details title="OpenAI API bunun için ne kadar tutar?" closed="true" %}}
 Maliyet, blog yazılarınızın sayısına ve uzunluğuna bağlıdır. Orta uzunlukta 50 yazılı tipik bir blog, GPT-4o ile birkaç dolarlık API kullanımına mal olur.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Bu araç açık kaynak mı?" closed="true" %}}
+{{% ls-details title="Bu araç açık kaynak mı?" closed="true" %}}
 Evet. Tam kaynak kodu [GitHub](https://github.com/everappz/wix-blog-export)'da açık kaynak lisansı altında mevcuttur.
-{{% /details %}}
+{{% /ls-details %}}

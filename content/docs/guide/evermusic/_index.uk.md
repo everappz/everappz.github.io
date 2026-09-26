@@ -72,19 +72,19 @@ Evermusic включає повний 10-смуговий аудіоеквала
 
 
 {{< cards >}}
-  {{< card icon="location-marker" title="Навігація" subtitle="Дізнайтеся, як орієнтуватися в Evermusic за допомогою панелі вкладок на iPhone або лівого меню на iPad та Mac." link="/docs/guide/evermusic/evermusic-guide-navigation" >}}
+  {{< ls-card icon="location-marker" title="Навігація" subtitle="Дізнайтеся, як орієнтуватися в Evermusic за допомогою панелі вкладок на iPhone або лівого меню на iPad та Mac." link="/docs/guide/evermusic/evermusic-guide-navigation" >}}
 
-  {{< card icon="cloud" title="З'єднання" subtitle="Підключіть хмарні акаунти та керуйте онлайн-файлами за допомогою вбудованого файлового менеджера." link="/docs/guide/evermusic/evermusic-guide-connections" >}}
+  {{< ls-card icon="cloud" title="З'єднання" subtitle="Підключіть хмарні акаунти та керуйте онлайн-файлами за допомогою вбудованого файлового менеджера." link="/docs/guide/evermusic/evermusic-guide-connections" >}}
 
-  {{< card icon="collection" title="Музична бібліотека" subtitle="Організовуйте та досліджуйте треки, альбоми та виконавців у Музичній бібліотеці." link="/docs/guide/evermusic/evermusic-guide-music-library" >}}
+  {{< ls-card icon="collection" title="Музична бібліотека" subtitle="Організовуйте та досліджуйте треки, альбоми та виконавців у Музичній бібліотеці." link="/docs/guide/evermusic/evermusic-guide-music-library" >}}
 
-  {{< card icon="music-note" title="Плейлисти" subtitle="Створюйте та упорядковуйте плейлисти відповідно до вашого настрою або події." link="/docs/guide/evermusic/evermusic-guide-playlists" >}}
+  {{< ls-card icon="music-note" title="Плейлисти" subtitle="Створюйте та упорядковуйте плейлисти відповідно до вашого настрою або події." link="/docs/guide/evermusic/evermusic-guide-playlists" >}}
 
-  {{< card icon="folder" title="Локальні файли" subtitle="Отримуйте доступ до офлайн-музики та керуйте нею через розділ «Локальні файли»." link="/docs/guide/evermusic/evermusic-guide-local-files" >}}
+  {{< ls-card icon="folder" title="Локальні файли" subtitle="Отримуйте доступ до офлайн-музики та керуйте нею через розділ «Локальні файли»." link="/docs/guide/evermusic/evermusic-guide-local-files" >}}
 
-  {{< card icon="play" title="Аудіоплеєр" subtitle="Керуйте відтворенням, чергою та аудіоналаштуваннями, такими як еквалайзер і таймер сну." link="/docs/guide/evermusic/evermusic-guide-player" >}}
+  {{< ls-card icon="play" title="Аудіоплеєр" subtitle="Керуйте відтворенням, чергою та аудіоналаштуваннями, такими як еквалайзер і таймер сну." link="/docs/guide/evermusic/evermusic-guide-player" >}}
 
-  {{< card icon="adjustments" title="Налаштування" subtitle="Налаштуйте вигляд, функції та параметри продуктивності Evermusic." link="/docs/guide/evermusic/evermusic-guide-settings" >}}
+  {{< ls-card icon="adjustments" title="Налаштування" subtitle="Налаштуйте вигляд, функції та параметри продуктивності Evermusic." link="/docs/guide/evermusic/evermusic-guide-settings" >}}
 
-  {{< card icon="question-mark-circle" title="FAQ" subtitle="Знайдіть швидкі відповіді на поширені запитання в нашому розділі FAQ." link="/docs/faq/evermusic" >}}
+  {{< ls-card icon="question-mark-circle" title="FAQ" subtitle="Знайдіть швидкі відповіді на поширені запитання в нашому розділі FAQ." link="/docs/faq/evermusic" >}}
 {{< /cards >}}

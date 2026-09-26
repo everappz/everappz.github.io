@@ -7,7 +7,7 @@ tags: ["audió", "iphone", "mp3", "dalszövegek", "lrc", "beágyazott", "megteki
 keywords: ["beágyazott dalszövegek megtekintése iPhone", "Evermusic dalszövegek megjelenítése", "LRC fájl Evermusic", "megjegyzés tag audió", "dalszöveg megjelenítés Flacbox", "dalszövegek iOS zenei alkalmazás", "audiolejátszó dalszövegek megjelenítése"]
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **Röviden:** Az Evermusic iPhone-ra és Macre megjeleníti a beágyazott dalszövegeket, megjegyzés tageket és külső .lrc fájlokat bármely hangsávhoz. Nyissa meg a lejátszót, koppintson a **További műveletek** gombra, majd válassza a **Megjegyzések** lehetőséget a dalszövegek megtekintéséhez három módban: Megjegyzések, Beágyazott dalszövegek és LRC fájl.
@@ -68,22 +68,22 @@ A beágyazott dalszövegek, megjegyzések vagy szinkronizált `.lrc` fájlok meg
 
 ## GYIK
 
-{{% details title="Hogyan tekinthetem meg a beágyazott dalszövegeket az iPhone-omon?" closed="true" %}}
+{{% ls-details title="Hogyan tekinthetem meg a beágyazott dalszövegeket az iPhone-omon?" closed="true" %}}
 Nyissa meg az Evermusicot, játsszon le egy dalt, koppintson a További műveletek gombra a teljes képernyős lejátszóban, és válassza a Megjegyzések lehetőséget. Húzza az ujját a Beágyazott dalszövegek fülre a hangfájl tagjeiben tárolt dalszövegek megtekintéséhez.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Mi az LRC fájl és hogyan működik?" closed="true" %}}
+{{% ls-details title="Mi az LRC fájl és hogyan működik?" closed="true" %}}
 Az LRC fájl egy szöveges fájl, amely időbélyeges dalszövegeket tartalmaz. Ha ugyanabba a mappába helyezi, mint a hangfájlt, ugyanazzal a fájlnévvel, az Evermusic beolvassa és szinkronizált dalszövegeket jelenít meg, amelyek a lejátszás során görgetődnek.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Hozzáadhatok dalszövegeket a zenefájljaimhoz iPhone-on?" closed="true" %}}
+{{% ls-details title="Hozzáadhatok dalszövegeket a zenefájljaimhoz iPhone-on?" closed="true" %}}
 Igen. Használja az Evertag alkalmazást az ID3 tagek szerkesztéséhez, valamint beágyazott dalszövegek hozzáadásához vagy frissítéséhez közvetlenül iPhone-ján. Időzített LRC formátumú szöveget illeszthet be szinkronizált dalszövegekhez.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Támogatja az Evermusic a szinkronizált (időzített) dalszövegeket?" closed="true" %}}
+{{% ls-details title="Támogatja az Evermusic a szinkronizált (időzített) dalszövegeket?" closed="true" %}}
 Igen. Az Evermusic támogatja az LRC formátumú időzített dalszövegeket, mind az audió tagekbe beágyazva, mind külön `.lrc` fájlként megadva.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Mely audió formátumok támogatják a beágyazott dalszövegeket?" closed="true" %}}
+{{% ls-details title="Mely audió formátumok támogatják a beágyazott dalszövegeket?" closed="true" %}}
 Az MP3, FLAC, AAC, M4A, OGG és a legtöbb más elterjedt formátum támogatja a beágyazott dalszövegeket a megfelelő tag szabványokon keresztül.
-{{% /details %}}
+{{% /ls-details %}}

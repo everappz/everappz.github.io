@@ -12,7 +12,7 @@ authors:
     image: "/images/about/artem-meleshko-founder-everappz.webp"
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 ## Quel lecteur de musique cloud est le meilleur pour iPhone ?
 
@@ -91,22 +91,22 @@ Pour les audiophiles et tous ceux qui maintiennent une collection musicale perso
 
 ## Foire aux questions
 
-{{% details title="Puis-je lire des fichiers FLAC sur iPhone sans les convertir ?" closed="true" %}}
+{{% ls-details title="Puis-je lire des fichiers FLAC sur iPhone sans les convertir ?" closed="true" %}}
 Oui. Evermusic lit les fichiers FLAC, DSD, WAV, ALAC et d'autres formats sans perte de manière native sur iPhone. Aucune conversion de fichiers n'est nécessaire. Connectez simplement votre compte de stockage cloud et diffusez ou téléchargez vos fichiers FLAC directement.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Quel lecteur de musique cloud fonctionne avec Dropbox et Google Drive ?" closed="true" %}}
+{{% ls-details title="Quel lecteur de musique cloud fonctionne avec Dropbox et Google Drive ?" closed="true" %}}
 Evermusic prend en charge Dropbox, Google Drive, OneDrive, Box, MEGA, pCloud, WebDAV, SMB et plus -- plus de 12 services cloud au total. La plupart des applications de streaming grand public comme Spotify et Apple Music ne se connectent pas au stockage cloud tiers.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Ai-je besoin d'un abonnement pour utiliser un lecteur de musique cloud ?" closed="true" %}}
+{{% ls-details title="Ai-je besoin d'un abonnement pour utiliser un lecteur de musique cloud ?" closed="true" %}}
 Cela dépend de l'application. Spotify, Apple Music et Deezer nécessitent des abonnements mensuels. Evermusic offre un niveau gratuit et un achat Premium unique sans frais récurrents. Vous utilisez votre propre stockage cloud pour héberger vos fichiers musicaux.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Quel est le meilleur lecteur musical pour l'écoute hors ligne sur iPhone ?" closed="true" %}}
+{{% ls-details title="Quel est le meilleur lecteur musical pour l'écoute hors ligne sur iPhone ?" closed="true" %}}
 Tous les grands lecteurs prennent en charge les téléchargements hors ligne, mais l'approche diffère. Spotify et Apple Music vous permettent de télécharger des pistes de leurs catalogues. Evermusic vous permet de télécharger vos propres fichiers depuis le stockage cloud pour une lecture hors ligne -- idéal pour les vols, les trajets ou les zones sans connectivité.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Puis-je utiliser un lecteur de musique cloud avec mon NAS ou serveur domestique ?" closed="true" %}}
+{{% ls-details title="Puis-je utiliser un lecteur de musique cloud avec mon NAS ou serveur domestique ?" closed="true" %}}
 Oui. Evermusic prend en charge les protocoles WebDAV et SMB, ce qui signifie qu'il peut se connecter à la plupart des périphériques NAS de Synology, QNAP et Western Digital. Cela transforme votre iPhone en lecteur distant pour toute votre bibliothèque musicale domestique.
-{{% /details %}}
+{{% /ls-details %}}

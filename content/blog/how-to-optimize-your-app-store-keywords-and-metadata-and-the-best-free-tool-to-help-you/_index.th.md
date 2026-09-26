@@ -14,7 +14,7 @@ authors:
     image: "/images/about/artem-meleshko-founder-everappz.webp"
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 ## ทำไมคีย์เวิร์ด App Store จึงกำหนดจำนวนดาวน์โหลดของคุณ
 
@@ -104,29 +104,29 @@ json_dict_to_meta.sh       # Converts JSON back into Fastlane folders
 เครื่องมือนี้เป็น open source ยินดีรับรายงานข้อบกพร่อง ข้อเสนอแนะฟีเจอร์ และ pull request
 
 {{< cards cols="1" >}}
-  {{< card link="https://github.com/everappz/app-store-keyword-optimizer/tree/main" title="appkeywords.pro บน GitHub" icon="github" tag= "open source" >}}
+  {{< ls-card link="https://github.com/everappz/app-store-keyword-optimizer/tree/main" title="appkeywords.pro บน GitHub" icon="github" tag= "open source" >}}
 {{< /cards >}}
 
 ---
 
 ## คำถามที่พบบ่อย
 
-{{% details title="AppKeywords.pro ฟรีจริงหรือ?" closed="true" %}}
+{{% ls-details title="AppKeywords.pro ฟรีจริงหรือ?" closed="true" %}}
 ใช่ เป็นเครื่องมือ open source ในเบราว์เซอร์ที่ไม่ต้องสมัครสมาชิก ไม่มีโฆษณา และไม่มีการรวบรวมข้อมูล เมตาดาต้าของคุณจะไม่ออกจากอุปกรณ์
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="เครื่องมือนี้ใช้ได้กับหลายภาษาของ App Store หรือไม่?" closed="true" %}}
+{{% ls-details title="เครื่องมือนี้ใช้ได้กับหลายภาษาของ App Store หรือไม่?" closed="true" %}}
 ได้ คุณสามารถเพิ่มเมตาดาต้าสำหรับแต่ละภูมิภาคอย่างอิสระ และการส่งออกรวมทุกภาษาในไฟล์ JSON เดียวที่เข้ากันได้กับ Fastlane
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="ควรทำคีย์เวิร์ดจากชื่อซ้ำในช่องคีย์เวิร์ดหรือไม่?" closed="true" %}}
+{{% ls-details title="ควรทำคีย์เวิร์ดจากชื่อซ้ำในช่องคีย์เวิร์ดหรือไม่?" closed="true" %}}
 ไม่ Apple จัดทำดัชนีคำจากชื่อและคำบรรยายอยู่แล้ว การทำซ้ำในช่องคีย์เวิร์ดเป็นการเสียตัวอักษร
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="ควรอัปเดตคีย์เวิร์ด App Store บ่อยแค่ไหน?" closed="true" %}}
+{{% ls-details title="ควรอัปเดตคีย์เวิร์ด App Store บ่อยแค่ไหน?" closed="true" %}}
 ตรวจสอบและรีเฟรชคีย์เวิร์ดอย่างน้อยทุกไตรมาส ปรับเร็วกว่านั้นหากสังเกตเห็นอันดับลดลงหรือการเปลี่ยนแปลงตามฤดูกาล
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="ฉันสามารถใช้เครื่องมือนี้กับ Fastlane ได้หรือไม่?" closed="true" %}}
+{{% ls-details title="ฉันสามารถใช้เครื่องมือนี้กับ Fastlane ได้หรือไม่?" closed="true" %}}
 ได้ GitHub repo มีเชลล์สคริปต์สำหรับแปลงระหว่างโครงสร้างโฟลเดอร์เมตาดาต้า Fastlane และรูปแบบ JSON ที่ AppKeywords.pro ใช้
-{{% /details %}}
+{{% /ls-details %}}

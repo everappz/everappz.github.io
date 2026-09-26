@@ -16,16 +16,16 @@ screenshots:
   - "https://everappz.com/products/evervideo/screenshots/2880x1800/6.png"
 ---
 
-{{% sr-only %}}
+{{% ls-sr-only %}}
 Evervideo เป็นแอปเล่นวิดีโอ HD ฟรีสำหรับ iPhone และ Mac พัฒนาโดย Everappz บริษัทซอฟต์แวร์จากสเปน Evervideo เล่นได้แทบทุกรูปแบบวิดีโอ ได้แก่ MKV, AVI, MP4, MOV, FLV, WMV, WEBM, M4V, TS และ 3GP โดยไม่ต้องแปลงรูปแบบ แอปมีคุณสมบัติการเล่นวิดีโอ 360 องศาและ VR โหมด Picture-in-Picture อีควอไลเซอร์วิดีโอและเสียงพร้อมพรีเซ็ตกว่า 50 แบบ รองรับคำบรรยายในรูปแบบ SRT, SSA และ ASS รวมถึงการควบคุมความเร็วในการเล่น Evervideo เชื่อมต่อกับบริการจัดเก็บข้อมูลบนคลาวด์ รวมถึง iCloud Drive, Google Drive, Dropbox, OneDrive และ MEGA ทำให้ผู้ใช้สามารถสตรีมวิดีโอโดยตรงจากคลาวด์หรือดาวน์โหลดเพื่อดูแบบออฟไลน์ แอปยังรองรับการสตรีมผ่านเครือข่ายท้องถิ่นด้วยโปรโตคอล SMB, WebDAV และ DLNA การเล่นจาก USB แฟลชไดรฟ์ผ่านอะแดปเตอร์ Lightning หรือ USB-C และการถ่ายโอนไฟล์ผ่าน Wi-Fi จากคอมพิวเตอร์ คุณสมบัติเพิ่มเติมรวมถึงไลบรารีสื่อพร้อมเพลย์ลิสต์ การแคสต์ผ่าน AirPlay และ Chromecast และตัวจัดการไฟล์ในตัว Evervideo พร้อมให้ดาวน์โหลดฟรีบน App Store พร้อมตัวเลือกการซื้อในแอปรวมถึงสมาชิกรายเดือนราคา $2.99 สมาชิกรายปีราคา $14.99 หรือซื้อขาดตลอดชีพราคา $29.99
-{{% /sr-only %}}
+{{% /ls-sr-only %}}
 
 
 
 <!-- force dark theme for this page -->
-{{< force-dark >}}
+{{< ls-force-dark >}}
 
-{{< hextra/hero-container
+{{< ls-hero-container
   image="/products/evervideo/heroimage/hero_1600.png"
   imageWidth="800"
   imageCard="true"
@@ -33,38 +33,38 @@ Evervideo เป็นแอปเล่นวิดีโอ HD ฟรีสำ
 
 <div class="hx:w-full hx:text-center">
 
-{{< downloads-badge >}}
+{{< ls-downloads-badge >}}
 
 <div class="hx:mt-6 hx:mb-6">
 <div class="hx:flex hx:gap-4 hx:items-center hx:justify-center">
-{{< app-icon src="/images/app_icons/png/Evervideo_Icon-App-1024x1024.png" alt="Evervideo Icon" class="hero-headline-icon" size="80" >}}
-{{< hextra/hero-headline >}}
+{{< ls-app-icon src="/images/app_icons/png/Evervideo_Icon-App-1024x1024.png" alt="Evervideo Icon" class="hero-headline-icon" size="80" >}}
+{{< ls-hero-headline >}}
 Evervideo
-{{< /hextra/hero-headline >}}
+{{< /ls-hero-headline >}}
 </div>
 </div>
 
 <div class="hx:mb-12">
-{{< hextra/hero-centered-subtitle >}}
+{{< ls-hero-centered-subtitle >}}
 <strong>เครื่องเล่นวิดีโอ HD และสตรีมเมอร์ สำหรับ iPhone และ MAC ของคุณ</strong>
-{{< /hextra/hero-centered-subtitle >}}
+{{< /ls-hero-centered-subtitle >}}
 </div>
 
 
 <div class="hx:mb-6">
-{{< hextra/hero-paragraph >}}
+{{< ls-hero-paragraph >}}
 • ดูวิดีโอ 360° และวิดีโอความละเอียดสูงในทุกรูปแบบ<br>
 • สตรีมจาก iCloud, Google Drive, Dropbox, NAS หรือคอมพิวเตอร์ของคุณ<br>
 • ดาวน์โหลดวิดีโอเพื่อดูแบบออฟไลน์ได้ทุกที่ทุกเวลา<br>
 • เปิดคำบรรยาย ใช้อีควอไลเซอร์วิดีโอ และจัดระเบียบวิดีโอด้วยเพลย์ลิสต์
-{{< /hextra/hero-paragraph >}}
+{{< /ls-hero-paragraph >}}
 </div>
 
-{{< app-store-badges products="evervideo:ios, evervideo:macos" >}}
+{{< ls-app-store-badges products="evervideo:ios, evervideo:macos" >}}
 
 </div>
 
-{{< /hextra/hero-container >}}
+{{< /ls-hero-container >}}
 
 <div class="hx:mt-6"></div>
 
@@ -72,42 +72,42 @@ Evervideo
 
 {{< hextra/feature-grid >}}
 
-  {{< hextra/feature-card
+  {{< ls-glass-feature-card
     title="เล่นวิดีโอและเสียงทุกรูปแบบ"
     subtitle=`ดูวิดีโอและฟังเพลงโดยไม่ต้องแปลงไฟล์ รองรับ MP4, MOV, MKV, AVI, FLV, WMV, WEBM, M4V, MP3, FLAC, AAC, ALAC, OGG, OPUS, WAV, WMA และอื่นๆ อีกมากมาย`
     icon="film"
     style="background: radial-gradient(circle at 50% 80%, rgba(255,99,71,0.15), rgba(17,24,39,0));"  
   >}}
 
-  {{< hextra/feature-card
+  {{< ls-glass-feature-card
     title="ไลบรารีสื่อและเพลย์ลิสต์"
     subtitle=`จัดระเบียบไลบรารีสื่อโดยจัดกลุ่มแทร็กตามอัลบั้ม แนวเพลง หรือระยะเวลา ซิงค์อัตโนมัติกับการเปลี่ยนแปลงในคลาวด์ สร้าง แก้ไข และส่งออกเพลย์ลิสต์ M3U พร้อมการจัดเรียงแบบกำหนดเอง`
     icon="collection"
     style="background: radial-gradient(circle at 50% 80%, rgba(255,165,0,0.15), rgba(17,24,39,0));"  
   >}}
 
-  {{< hextra/feature-card
+  {{< ls-glass-feature-card
     title="อีควอไลเซอร์เสียงและวิดีโอ"
     subtitle=`ปรับแต่งรูปลักษณ์และเสียงของวิดีโอโดยปรับเบส ระดับเสียง ความสว่าง แกมมา ความอิ่มตัว คอนทราสต์ และอื่นๆ พร้อมพรีเซ็ตวิดีโอมากกว่า 50 แบบ และพรีเซ็ตเสียงมากกว่า 20 แบบ หรือสร้างพรีเซ็ตของคุณเอง`
     icon="adjustments"
     style="background: radial-gradient(circle at 50% 80%, rgba(255,255,0,0.15), rgba(17,24,39,0));" 
   >}}
 
-  {{< hextra/feature-card
+  {{< ls-glass-feature-card
     title="ภาพซ้อนภาพ"
     subtitle=`ภาพซ้อนภาพ (PiP) ให้คุณดูวิดีโอต่อในหน้าต่างลอยเล็กๆ ขณะใช้แอปอื่น รองรับรูปแบบหลักทั้งหมดเช่น MKV, AVI, MP4 และ MOV การเปลี่ยนวิดีโอในคิวอย่างราบรื่น อัปเดตการเล่นอัตโนมัติ และคำบรรยายที่ใช้งานอยู่จะมองเห็นได้ตลอดเวลา`
     icon="duplicate"
     style="background: radial-gradient(circle at 50% 80%, rgba(0,128,0,0.15), rgba(17,24,39,0));" 
   >}}
 
-  {{< hextra/feature-card
+  {{< ls-glass-feature-card
     title="วิดีโอ 360° และโหมด VR"
     subtitle=`สัมผัสประสบการณ์วิดีโอ 360° และ VR อย่างที่ไม่เคยมีมาก่อน — เคลื่อนโทรศัพท์เพื่อสำรวจทุกมุมหรือดื่มด่ำอย่างเต็มที่ด้วยชุด VR เพื่อการดื่มด่ำทั้งหมด เล่นวิดีโอ 360° จากกล้อง Insta360 และอุปกรณ์ที่คล้ายกันได้ทันทีพร้อมการเล่นที่ราบรื่นโดยไม่ต้องตั้งค่า`
     icon="video-camera"
     style="background: radial-gradient(circle at 50% 80%, rgba(0,191,255,0.15), rgba(17,24,39,0));"  
   >}}
 
-  {{< hextra/feature-card
+  {{< ls-glass-feature-card
     title="สตรีมมิ่งไร้รอยต่อและการเชื่อมต่อคลาวด์"
     subtitle=`สตรีมวิดีโอโดยตรงจาก Mac, PC, NAS, USB แฟลชไดรฟ์ หรือที่เก็บข้อมูลคลาวด์ และถ่ายโอนไฟล์สื่อโดยใช้ Wi-Fi Drive หรือ iTunes File Sharing เพลิดเพลินกับการเข้าถึงคลังวิดีโอทั้งหมดของคุณได้ทุกที่ แม้จากระยะไกล ผ่าน Synology Drive, WD My Cloud Home และอุปกรณ์ NAS ที่คล้ายกัน`
     icon="cloud"
@@ -120,9 +120,9 @@ Evervideo
 
 <div class="hx:mt-6"></div>
 
-{{< hextra/section-headline >}}
+{{< ls-section-headline >}}
 ฟีเจอร์ทั้งหมด
-{{< /hextra/section-headline >}}
+{{< /ls-section-headline >}}
 
 <div class="hx:mt-6"></div>
 
@@ -130,35 +130,35 @@ Evervideo
 
 {{< cards >}}
 
-{{< feature-card title="เล่นวิดีโอและเสียงทุกรูปแบบ" subtitle="ดูสื่อโดยไม่ต้องแปลงไฟล์ Evervideo รองรับรูปแบบหลักทั้งหมด รวมถึง MKV, AVI, MP4, MOV, FLAC, MP3, AAC, OGG, WAV, WMV และอื่นๆ อีกมากมาย" icon="film">}}
+{{< ls-feature-card title="เล่นวิดีโอและเสียงทุกรูปแบบ" subtitle="ดูสื่อโดยไม่ต้องแปลงไฟล์ Evervideo รองรับรูปแบบหลักทั้งหมด รวมถึง MKV, AVI, MP4, MOV, FLAC, MP3, AAC, OGG, WAV, WMV และอื่นๆ อีกมากมาย" icon="film">}}
 
-{{< feature-card title="โหมดออฟไลน์" subtitle="ดาวน์โหลดวิดีโอ อัลบั้ม และเพลย์ลิสต์เพื่อดูโดยไม่ต้องเชื่อมต่ออินเทอร์เน็ต พกคอลเลกชันวิดีโอทั้งหมดไปได้ทุกที่" icon="download">}}
+{{< ls-feature-card title="โหมดออฟไลน์" subtitle="ดาวน์โหลดวิดีโอ อัลบั้ม และเพลย์ลิสต์เพื่อดูโดยไม่ต้องเชื่อมต่ออินเทอร์เน็ต พกคอลเลกชันวิดีโอทั้งหมดไปได้ทุกที่" icon="download">}}
 
-{{< feature-card title="วิดีโอ 360° และโหมด VR" subtitle="ดูวิดีโอ 360° และ VR อย่างสนุกและง่ายดาย เคลื่อนโทรศัพท์เพื่อมองไปในทิศทางใดก็ได้ หรือใส่ลงในชุด VR เพื่อรู้สึกเหมือนอยู่ในวิดีโอ" icon="video-camera">}}
+{{< ls-feature-card title="วิดีโอ 360° และโหมด VR" subtitle="ดูวิดีโอ 360° และ VR อย่างสนุกและง่ายดาย เคลื่อนโทรศัพท์เพื่อมองไปในทิศทางใดก็ได้ หรือใส่ลงในชุด VR เพื่อรู้สึกเหมือนอยู่ในวิดีโอ" icon="video-camera">}}
 
-{{< feature-card title="ภาพซ้อนภาพ" subtitle="ดูวิดีโอต่อในหน้าต่างลอยเล็กๆ ขณะใช้แอปอื่น ควบคุมการเล่นและดูคำบรรยายพร้อมกัน – เหมาะสำหรับการทำงานหลายอย่างพร้อมกัน" icon="duplicate">}}
+{{< ls-feature-card title="ภาพซ้อนภาพ" subtitle="ดูวิดีโอต่อในหน้าต่างลอยเล็กๆ ขณะใช้แอปอื่น ควบคุมการเล่นและดูคำบรรยายพร้อมกัน – เหมาะสำหรับการทำงานหลายอย่างพร้อมกัน" icon="duplicate">}}
 
-{{< feature-card title="อีควอไลเซอร์วิดีโอและเสียง" subtitle="ปรับแต่งรูปลักษณ์และเสียงของวิดีโอ ปรับเบส ระดับเสียง ความสว่าง แกมมา ความอิ่มตัว คอนทราสต์ และอื่นๆ เลือกจากพรีเซ็ตวิดีโอมากกว่า 50 แบบ และพรีเซ็ตเสียงมากกว่า 20 แบบ หรือสร้างพรีเซ็ตของคุณเอง" icon="adjustments">}}
+{{< ls-feature-card title="อีควอไลเซอร์วิดีโอและเสียง" subtitle="ปรับแต่งรูปลักษณ์และเสียงของวิดีโอ ปรับเบส ระดับเสียง ความสว่าง แกมมา ความอิ่มตัว คอนทราสต์ และอื่นๆ เลือกจากพรีเซ็ตวิดีโอมากกว่า 50 แบบ และพรีเซ็ตเสียงมากกว่า 20 แบบ หรือสร้างพรีเซ็ตของคุณเอง" icon="adjustments">}}
 
-{{< feature-card title="คำบรรยาย" subtitle="ดูคำบรรยายที่ฝังอยู่ เลือกหมายเลขแทร็กคำบรรยาย และเพลิดเพลินกับการรองรับคำบรรยายอย่างเต็มรูปแบบแม้ในโหมดภาพซ้อนภาพ" icon="annotation" >}}
+{{< ls-feature-card title="คำบรรยาย" subtitle="ดูคำบรรยายที่ฝังอยู่ เลือกหมายเลขแทร็กคำบรรยาย และเพลิดเพลินกับการรองรับคำบรรยายอย่างเต็มรูปแบบแม้ในโหมดภาพซ้อนภาพ" icon="annotation" >}}
 
-{{< feature-card title="เล่นโดยตรงจากคลาวด์" subtitle="ดูวิดีโอโดยตรงจากที่เก็บข้อมูลคลาวด์โดยไม่ต้องใช้พื้นที่อุปกรณ์ รองรับ iCloud Drive, Google Drive, Dropbox, OneDrive, MEGA, Synology Drive, pCloud และอื่นๆ" icon="cloud">}}
+{{< ls-feature-card title="เล่นโดยตรงจากคลาวด์" subtitle="ดูวิดีโอโดยตรงจากที่เก็บข้อมูลคลาวด์โดยไม่ต้องใช้พื้นที่อุปกรณ์ รองรับ iCloud Drive, Google Drive, Dropbox, OneDrive, MEGA, Synology Drive, pCloud และอื่นๆ" icon="cloud">}}
 
-{{< feature-card title="เชื่อมต่อคอมพิวเตอร์ / NAS" subtitle="เชื่อมต่อ NAS, Mac หรือ PC ผ่านเครือข่ายในบ้านอย่างง่ายดายโดยใช้ SMB, WebDAV หรือ DLNA รองรับการเข้าถึงระยะไกลสำหรับ Synology Drive และ WD MyCloud Home ถ่ายโอนไฟล์สื่อไปยังอุปกรณ์ผ่าน Wi-Fi หรือ iTunes File Sharing" icon="desktop-computer">}}
+{{< ls-feature-card title="เชื่อมต่อคอมพิวเตอร์ / NAS" subtitle="เชื่อมต่อ NAS, Mac หรือ PC ผ่านเครือข่ายในบ้านอย่างง่ายดายโดยใช้ SMB, WebDAV หรือ DLNA รองรับการเข้าถึงระยะไกลสำหรับ Synology Drive และ WD MyCloud Home ถ่ายโอนไฟล์สื่อไปยังอุปกรณ์ผ่าน Wi-Fi หรือ iTunes File Sharing" icon="desktop-computer">}}
 
-{{< feature-card title="ไลบรารีสื่อ" subtitle="จัดระเบียบตามอัลบั้ม แนวเพลง หรือระยะเวลา ซิงค์อัตโนมัติกับการเปลี่ยนแปลงในคลาวด์ สร้าง แก้ไข และส่งออกเพลย์ลิสต์ M3U พร้อมการจัดเรียงแบบกำหนดเอง" icon="library" >}}
+{{< ls-feature-card title="ไลบรารีสื่อ" subtitle="จัดระเบียบตามอัลบั้ม แนวเพลง หรือระยะเวลา ซิงค์อัตโนมัติกับการเปลี่ยนแปลงในคลาวด์ สร้าง แก้ไข และส่งออกเพลย์ลิสต์ M3U พร้อมการจัดเรียงแบบกำหนดเอง" icon="library" >}}
 
-{{< feature-card title="บุ๊กมาร์กและบันทึกตำแหน่งการเล่น" subtitle="บันทึกตำแหน่งในวิดีโอใดก็ได้ด้วยบุ๊กมาร์กและเล่นต่อจากจุดที่คุณหยุดไว้ ปรับความเร็วการเล่น ทำเครื่องหมายรายการโปรด และจัดเรียงวิดีโอตามที่เล่นมากที่สุดเพื่อการเข้าถึงที่ง่าย" icon="book-open">}}
+{{< ls-feature-card title="บุ๊กมาร์กและบันทึกตำแหน่งการเล่น" subtitle="บันทึกตำแหน่งในวิดีโอใดก็ได้ด้วยบุ๊กมาร์กและเล่นต่อจากจุดที่คุณหยุดไว้ ปรับความเร็วการเล่น ทำเครื่องหมายรายการโปรด และจัดเรียงวิดีโอตามที่เล่นมากที่สุดเพื่อการเข้าถึงที่ง่าย" icon="book-open">}}
 
-{{< feature-card title="AirPlay และ Chromecast" subtitle="เล่นวิดีโอบนหน้าจอที่ใหญ่ขึ้นโดยสตรีมไปยัง Apple TV, Chromecast หรือจอแสดงผลภายนอกที่เข้ากันได้" icon="device-mobile">}}
+{{< ls-feature-card title="AirPlay และ Chromecast" subtitle="เล่นวิดีโอบนหน้าจอที่ใหญ่ขึ้นโดยสตรีมไปยัง Apple TV, Chromecast หรือจอแสดงผลภายนอกที่เข้ากันได้" icon="device-mobile">}}
 
-{{< feature-card title="นำเข้าจากไฟล์และไลบรารี" subtitle="นำเข้าวิดีโอโดยตรงจากแอป Files, Photos หรือไลบรารี iTunes ของคุณ เข้าถึงเนื้อหาทั้งหมดทั้งในเครื่องและคลาวด์ในไลบรารีสื่อที่จัดระเบียบเดียว" icon="database">}}
+{{< ls-feature-card title="นำเข้าจากไฟล์และไลบรารี" subtitle="นำเข้าวิดีโอโดยตรงจากแอป Files, Photos หรือไลบรารี iTunes ของคุณ เข้าถึงเนื้อหาทั้งหมดทั้งในเครื่องและคลาวด์ในไลบรารีสื่อที่จัดระเบียบเดียว" icon="database">}}
 
-{{< feature-card title="ตัวจัดการไฟล์" subtitle="ย้าย เปลี่ยนชื่อ ลบ และจัดระเบียบไฟล์โดยตรงภายในแอป" icon="folder">}}
+{{< ls-feature-card title="ตัวจัดการไฟล์" subtitle="ย้าย เปลี่ยนชื่อ ลบ และจัดระเบียบไฟล์โดยตรงภายในแอป" icon="folder">}}
 
-{{< feature-card title="การปรับแต่ง" subtitle="ปรับแต่งแอปให้เหมาะกับความชอบของคุณ เลือกธีม แสดงหรือซ่อนฟีเจอร์ และปรับอินเทอร์เฟซตามความต้องการ" icon="sun">}}
+{{< ls-feature-card title="การปรับแต่ง" subtitle="ปรับแต่งแอปให้เหมาะกับความชอบของคุณ เลือกธีม แสดงหรือซ่อนฟีเจอร์ และปรับอินเทอร์เฟซตามความต้องการ" icon="sun">}}
 
-{{< feature-card title="ค้นหาอัจฉริยะ" subtitle="ค้นหาวิดีโอ อัลบั้ม หรือเพลย์ลิสต์ในไลบรารีสื่อของคุณอย่างรวดเร็วโดยใช้คำสำคัญหรือตัวกรอง" icon="search" >}}
+{{< ls-feature-card title="ค้นหาอัจฉริยะ" subtitle="ค้นหาวิดีโอ อัลบั้ม หรือเพลย์ลิสต์ในไลบรารีสื่อของคุณอย่างรวดเร็วโดยใช้คำสำคัญหรือตัวกรอง" icon="search" >}}
 
 
 
@@ -168,9 +168,9 @@ Evervideo
 
 <div class="hx:mt-6"></div>
 
-{{< hextra/section-headline >}}
+{{< ls-section-headline >}}
 ดีไซน์ที่ใช้งานง่าย
-{{< /hextra/section-headline >}}
+{{< /ls-section-headline >}}
 
 <div class="hx:mt-6"></div>
 
@@ -178,7 +178,7 @@ Evervideo
 
 {{< cards cols="4">}}
 
-  {{< design-feature-card 
+  {{< ls-design-feature-card 
     image="/products/evervideo/screenshots/2880x1800/1.png" 
     title="เครื่องเล่นวิดีโอ" 
     method="Fill"
@@ -187,7 +187,7 @@ Evervideo
     icon="play"
   >}}
 
-  {{< design-feature-card 
+  {{< ls-design-feature-card 
     image="/products/evervideo/screenshots/2880x1800/3.png" 
     title="อีควอไลเซอร์เสียงและวิดีโอ" 
     method="Fill"
@@ -196,7 +196,7 @@ Evervideo
     icon="adjustments"
   >}}
 
-  {{< design-feature-card 
+  {{< ls-design-feature-card 
     image="/products/evervideo/screenshots/2880x1800/6.png" 
     title="ตัวจัดการเพลย์ลิสต์" 
     method="Fill"
@@ -205,7 +205,7 @@ Evervideo
     icon="collection"
   >}}
 
-  {{< design-feature-card 
+  {{< ls-design-feature-card 
     image="/products/evervideo/screenshots/2880x1800/5.png" 
     title="ไลบรารีสื่อ" 
     method="Fill"
@@ -214,7 +214,7 @@ Evervideo
     icon="library"
   >}}
 
-  {{< design-feature-card 
+  {{< ls-design-feature-card 
     image="/products/evervideo/screenshots/2880x1800/7.png"  
     title="ที่เก็บข้อมูลคลาวด์" 
     method="Fill"
@@ -223,7 +223,7 @@ Evervideo
     icon="cloud"
   >}}
 
-  {{< design-feature-card 
+  {{< ls-design-feature-card 
     image="/products/evervideo/screenshots/2880x1800/9.png"  
     title="ตัวจัดการไฟล์" 
     method="Fill"
@@ -241,49 +241,49 @@ Evervideo
 <div class="hx:mt-6"></div>
 
 <div class="hx:w-full">
-{{< appstore-reviews apps="6602897336,6743504109" stars="5,4"  app="Evervideo" >}}
+{{< ls-appstore-reviews apps="6602897336,6743504109" stars="5,4"  app="Evervideo" >}}
 </div>
 
 
 <div class="hx:mt-6"></div>
 
-{{< hextra/section-headline >}}
+{{< ls-section-headline >}}
    แผนราคา
-{{< /hextra/section-headline >}}
+{{< /ls-section-headline >}}
 
 <div class="hx:mt-6"></div>
 
 <div class="hx:w-full">
 
-{{< pricing-plans >}}
+{{< ls-pricing-plans >}}
 
 </div>
 
 <div class="hx:mt-6"></div>
 
 <div class="hx:w-full hx:mx-auto hx:flex hx:flex-col hx:items-center">
-  {{< hextra/info-paragraph border="true" >}}
+  {{< ls-info-paragraph border="true" >}}
    <strong>การแชร์ครอบครัว</strong>: การซื้อและการสมัครสมาชิกทั้งหมดรองรับการแชร์ครอบครัว ให้คุณแชร์การเข้าถึง Premium กับครอบครัวของคุณ<br><strong>การเข้าถึงแบบยูนิเวอร์แซล</strong>: แผนตลอดชีพและการสมัครสมาชิกจะแชร์ระหว่างอุปกรณ์ iOS และ Mac โดยใช้การซิงค์ iCloud<br><strong>ราคา</strong>: ราคาแสดงเป็นดอลลาร์สหรัฐสำหรับสหรัฐอเมริกา ราคาสุดท้ายอาจแตกต่างกันตามภูมิภาคของคุณ  
-  {{< /hextra/info-paragraph >}}
+  {{< /ls-info-paragraph >}}
 </div>
 
 <div class="hx:mt-6"></div>
 
 <div class="hx:w-full">
-{{< app-details heading="true" >}}
+{{< ls-app-details heading="true" >}}
 </div>
 
 <div class="hx:mt-6"></div>
 
-{{< hextra/section-headline >}}
+{{< ls-section-headline >}}
    คำถามที่พบบ่อย
-{{< /hextra/section-headline >}}
+{{< /ls-section-headline >}}
 
 <div class="hx:mt-6"></div>
 
 <div class="hx:w-full">
 
-{{% details title="Evervideo ทำงานอย่างไร?" closed="true" %}}
+{{% ls-details title="Evervideo ทำงานอย่างไร?" closed="true" %}}
 Evervideo เป็นเครื่องเล่นวิดีโอ HD ที่ให้คุณจัดการแทร็กวิดีโอเหมือนไฟล์ทั่วไป<br>
 คุณสามารถอัปโหลดคอลเลกชันวิดีโอทั้งหมดไปยังบริการคลาวด์เช่น Dropbox, OneDrive, iCloud หรือ NAS ส่วนตัว และเล่นวิดีโอโดยตรงจากคลาวด์พร้อมการควบคุมเต็มรูปแบบ<br><br>
 ไม่จำเป็นต้องซิงค์กับ iTunes — เพียงอัปโหลดจาก PC หรือ Mac เหมือนกับไฟล์อื่นๆ<br>
@@ -293,9 +293,9 @@ Evervideo เป็นเครื่องเล่นวิดีโอ HD ท
 - [คู่มือ Evervideo](/docs/guide/evervideo/)<br>
 - [วิธีถ่ายโอนไฟล์แบบไร้สายจากคอมพิวเตอร์ไปยัง iPhone โดยใช้ WiFi-Drive](/docs/howto/how-to-transfer-files-wirelessly-from-a-computer-to-an-iphone-using-wifi-drive)<br>
 
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Evervideo ฟรีหรือไม่?" closed="true" %}}
+{{% ls-details title="Evervideo ฟรีหรือไม่?" closed="true" %}}
 Evervideo ใช้งานฟรีโดยมีข้อจำกัดบางประการ ซึ่งสามารถปลดล็อกได้โดยอัปเกรดเป็นเวอร์ชัน Premium<br>
 คุณสามารถเลือกระหว่างการซื้อตลอดชีพครั้งเดียวหรือสองตัวเลือกการสมัครสมาชิก (รายเดือนหรือรายปี) ราคาอาจแตกต่างกันตามภูมิภาคของคุณ<br><br>
 
@@ -304,9 +304,9 @@ Evervideo ใช้งานฟรีโดยมีข้อจำกัดบ�
 การซื้อและการสมัครสมาชิก Premium จะแชร์ระหว่าง iOS และ Mac ผ่าน iCloud ในการซิงค์การซื้อ ตรวจสอบว่า iCloud เปิดใช้งานอยู่ เปิดแอปบนอุปกรณ์ iOS และรอสักครู่เพื่อให้การซิงค์เสร็จสมบูรณ์<br><br>
 
 [อ่านเพิ่มเติมเกี่ยวกับความแตกต่างระหว่าง Evervideo และ Evervideo Premium](/docs/faq/evervideo/what-is-the-difference-between-evervideo-and-evervideo-premium/)
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="ฉันจะใช้ Evervideo อย่างไร?" closed="true" %}}
+{{% ls-details title="ฉันจะใช้ Evervideo อย่างไร?" closed="true" %}}
 
 **ติดตั้ง Evervideo**<br>
 ดาวน์โหลดและติดตั้งแอป Evervideo จาก App Store ของอุปกรณ์คุณ มีให้ใช้งานสำหรับอุปกรณ์ iOS และ Mac<br><br>
@@ -355,9 +355,9 @@ Evervideo ใช้งานฟรีโดยมีข้อจำกัดบ�
 **เพลิดเพลินกับวิดีโอของคุณ**<br>
 เมื่อวิดีโอของคุณถูกจัดระเบียบแล้ว ใช้แถบเครื่องมือด้านบนสำหรับการดำเนินการด่วนเช่น **ค้นหา** **เล่นทั้งหมด** **สุ่ม** และ **เล่นต่อ**<br><br>
 
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Evervideo ปลอดภัยหรือไม่?" closed="true" %}}
+{{% ls-details title="Evervideo ปลอดภัยหรือไม่?" closed="true" %}}
 Evervideo ใช้เฉพาะ SDK อย่างเป็นทางการและการเชื่อมต่อที่ปลอดภัยเพื่อโต้ตอบกับบริการคลาวด์ที่เชื่อมต่อ ชื่อผู้ใช้และรหัสผ่านของคุณไม่สามารถเข้าถึงได้โดยแอปพลิเคชัน คำขอทั้งหมดจากแอปพลิเคชันไปยังบริการคลาวด์ถูกเข้ารหัส<br>
 เมื่อคุณป้อนชื่อผู้ใช้และรหัสผ่าน แอปพลิเคชันจะแสดงหน้าอนุญาตอย่างเป็นทางการที่จัดเตรียมโดยผู้ให้บริการคลาวด์ และกระบวนการอนุญาตทั้งหมดเกิดขึ้นนอกแอปพลิเคชัน ผู้ให้บริการคลาวด์จะส่งโทเค็นการอนุญาตไปยังแอปพลิเคชันหลังจากการอนุญาตสำเร็จ และโทเค็นนั้นจะถูกใช้เพื่อทำการเรียก API<br><br>
 
@@ -368,22 +368,22 @@ Evervideo ใช้เฉพาะ SDK อย่างเป็นทางก�
 
 คุณยังสามารถยกเลิกการเชื่อมต่อบัญชีคลาวด์ที่เชื่อมต่อในแอปพลิเคชัน และโทเค็นการอนุญาตจะถูกลบออกจากอุปกรณ์ของคุณด้วย หากคุณลบแอปพลิเคชันออกจากอุปกรณ์ ข้อมูลที่ดาวน์โหลดทั้งหมดและโทเค็นการเข้าถึงจะถูกลบออกด้วย<br><br>
 
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="ฉันจะสร้างเพลย์ลิสต์ใน Evervideo ได้อย่างไร?" closed="true" %}}
+{{% ls-details title="ฉันจะสร้างเพลย์ลิสต์ใน Evervideo ได้อย่างไร?" closed="true" %}}
 - เปิดส่วนเพลย์ลิสต์<br>
 - แตะปุ่ม "+" หรือปุ่ม "..." ที่มุมขวาบนและเลือก "เพลย์ลิสต์ใหม่"<br>
 - ป้อนชื่อเพลย์ลิสต์และแตะ "บันทึก" กล่องโต้ตอบ "เพิ่มไฟล์สื่อ" จะปรากฏขึ้น<br>
 - เลือกแทร็กที่คุณต้องการเพิ่มในเพลย์ลิสต์<br><br>
 
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Evervideo รองรับบริการคลาวด์อะไรบ้าง?" closed="true" %}}
+{{% ls-details title="Evervideo รองรับบริการคลาวด์อะไรบ้าง?" closed="true" %}}
 ปัจจุบันแอปพลิเคชันรองรับบริการคลาวด์ยอดนิยม: iCloud Drive, Google Drive, Dropbox, OneDrive, Box, MEGA, Yandex.Disk, DLNA, MediaFire, WebDAV, SMB, pCloud, Cloud Mail.ru, Put.io<br><br>
 
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="ฉันจะเปิดโหมดออฟไลน์ใน Evervideo ได้อย่างไร?" closed="true" %}}
+{{% ls-details title="ฉันจะเปิดโหมดออฟไลน์ใน Evervideo ได้อย่างไร?" closed="true" %}}
 - เชื่อมต่อกับที่เก็บข้อมูลคลาวด์:<br>
  • ไปที่แท็บ "ไฟล์"<br>
  • เลือก "เชื่อมต่อกับที่เก็บข้อมูลคลาวด์" และทำตามคำแนะนำเพื่อเชื่อมต่อบริการที่ต้องการ<br><br>
@@ -408,9 +408,9 @@ Evervideo ใช้เฉพาะ SDK อย่างเป็นทางก�
  • สำหรับการซิงค์ด้วยตนเอง ไปที่ "การตั้งค่า" > "ตัวจัดการไฟล์" > "โฟลเดอร์ออฟไลน์" > "โฟลเดอร์ออฟไลน์ที่ซิงค์"<br>
  • แตะ "การดำเนินการเพิ่มเติม" และเลือก "เริ่มการซิงค์"<br><br>
 
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="วิธีเล่นวิดีโอที่ดาวน์โหลดในเครื่องบน iPhone?" closed="true" %}}
+{{% ls-details title="วิธีเล่นวิดีโอที่ดาวน์โหลดในเครื่องบน iPhone?" closed="true" %}}
 เมื่อคุณติดตั้งแอปพลิเคชันแล้ว เปิดหน้าจอ "ไฟล์" และเลื่อนลงไปที่ส่วน "ไฟล์บน iPhone เครื่องนี้" จากนั้นเลือก "เปิดไฟล์..." หากคุณต้องการเลือกหลายไฟล์ หรือ "เปิดโฟลเดอร์..." หากคุณต้องการเลือกโฟลเดอร์สื่อ แอปจะสแกนเนื้อหาของโฟลเดอร์ และไฟล์สื่อทั้งหมดที่พบจะถูกเลือก ไปยังโฟลเดอร์สื่อ แตะ "เปิด" เพื่อยืนยันการเลือก และไฟล์จะถูกเพิ่มในคิวเครื่องเล่น ไฟล์เหล่านี้จะถูกเล่นโดยตรงจากตำแหน่งที่เลือกโดยไม่ถูกคัดลอกไปยังบันเดิลของแอปพลิเคชัน<br><br>
 
 **เพิ่มโฟลเดอร์ในรายการโปรดเพื่อเข้าถึงอย่างรวดเร็ว**<br>
@@ -422,13 +422,13 @@ Evervideo ใช้เฉพาะ SDK อย่างเป็นทางก�
 **เพิ่มไฟล์ในเครื่องในเพลย์ลิสต์**<br>
 เพื่อเพิ่มไฟล์ในเครื่องในเพลย์ลิสต์ เปิดหน้าจอ "เพลย์ลิสต์" และแตะปุ่มเพิ่มเติมที่มุมขวาบน เลือก "+ เพลย์ลิสต์ใหม่" ป้อนชื่อสำหรับเพลย์ลิสต์ใหม่ และในหน้าจอถัดไป เลือกตัวเลือก "ไฟล์บนอุปกรณ์นี้" และแตะ "เปิดไฟล์..." เลือกไฟล์สื่อที่คุณต้องการเพิ่มและแตะ "เปิด" เพื่อยืนยัน ไฟล์จะถูกเพิ่มในเพลย์ลิสต์ของคุณ ที่คุณสามารถเปลี่ยนลำดับแทร็กและดำเนินการอื่นๆ โดยใช้ปุ่มเพิ่มเติม<br><br>
 
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="ฉันจะเล่นเพลย์ลิสต์ต่อจากจุดที่หยุดไว้ได้อย่างไร?" closed="true" %}}
+{{% ls-details title="ฉันจะเล่นเพลย์ลิสต์ต่อจากจุดที่หยุดไว้ได้อย่างไร?" closed="true" %}}
 ก่อนอื่น ตรวจสอบว่า "บันทึกสถานะเครื่องเล่นสื่อ" เปิดใช้งานอยู่ในการตั้งค่า > เครื่องเล่นสื่อ > ทั่วไป เมื่อคุณสลับไปยังเพลย์ลิสต์อื่นและกลับมา คุณจะเห็นสี่การดำเนินการบนแถบเครื่องมือด้านบนใต้ภาพปกอัลบั้ม: "ค้นหา" "เล่นต่อ" "เล่นทั้งหมด" และ "สุ่มทั้งหมด" แตะ "เล่นต่อ" เพื่อเล่นเพลย์ลิสต์ต่อจากสถานะและตำแหน่งสื่อที่บันทึกไว้ล่าสุด
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="ฉันจะถ่ายโอนวิดีโอไปยัง Evervideo จากคอมพิวเตอร์ได้อย่างไร?" closed="true" %}}
+{{% ls-details title="ฉันจะถ่ายโอนวิดีโอไปยัง Evervideo จากคอมพิวเตอร์ได้อย่างไร?" closed="true" %}}
 คุณสามารถเชื่อมต่อคอมพิวเตอร์หรือ NAS ส่วนตัวโดยใช้โปรโตคอล SMB, WebDAV หรือ DLNA หรือใช้ iTunes File Sharing เพื่อถ่ายโอนไฟล์สื่อ<br><br>
 
 เพื่อเชื่อมต่อคอมพิวเตอร์โดยใช้โปรโตคอล SMB แตะ "ไฟล์" "เชื่อมต่อกับที่เก็บข้อมูลคลาวด์" → SMB ป้อนที่อยู่ IP ของคอมพิวเตอร์และชื่อโฟลเดอร์ที่แชร์ในช่อง URL โดยใช้รูปแบบ smb://ที่อยู่-ip-คอมพิวเตอร์/ชื่อ-โฟลเดอร์-ที่แชร์ ป้อนชื่อผู้ใช้และรหัสผ่าน และแตะ "เสร็จสิ้น" หากการเชื่อมต่อสำเร็จ คุณจะเห็นที่เก็บข้อมูลที่เชื่อมต่อในส่วน "ที่เก็บข้อมูลคลาวด์"<br><br>
@@ -447,9 +447,9 @@ iTunes File Sharing เป็นอีกเทคโนโลยีหนึ่
 คำแนะนำรายละเอียดอยู่ที่นี่:<br>
 [วิธีเล่นไฟล์ในเครื่อง (ไฟล์ iTunes) บน iPhone ของฉัน](/docs/howto/how-to-play-local-itunes-files-on-my-iphone)<br><br>
 
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="วิธีดาวน์โหลดวิดีโอ?" closed="true" %}}
+{{% ls-details title="วิธีดาวน์โหลดวิดีโอ?" closed="true" %}}
 ก่อนที่คุณจะดาวน์โหลดวิดีโอและดูแบบออฟไลน์ คุณต้องเชื่อมต่อที่เก็บข้อมูลคลาวด์<br>
 เพียงเปิดหน้าจอ "ไฟล์" และเชื่อมต่อที่เก็บข้อมูลคลาวด์ของคุณ<br>
 เมื่อคุณเพิ่มแล้ว คุณสามารถดาวน์โหลดวิดีโอจากคลาวด์ได้<br><br>
@@ -465,14 +465,14 @@ iTunes File Sharing เป็นอีกเทคโนโลยีหนึ่
 – แตะช่องกาเครื่องหมาย "โหมดออฟไลน์"<br>
 – ศิลปิน/อัลบั้ม/เพลย์ลิสต์ออฟไลน์จะปรากฏในส่วน "ไฟล์" -> "โฟลเดอร์ออฟไลน์"<br><br>
 
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Evervideo รองรับรูปแบบเสียงอะไรบ้าง?" closed="true" %}}
+{{% ls-details title="Evervideo รองรับรูปแบบเสียงอะไรบ้าง?" closed="true" %}}
 แอปนี้รองรับ **ตัวแปลงสัญญาณเสียงระบบ** เริ่มต้นและ **ตัวแปลงสัญญาณซอฟต์แวร์ ffmpeg** เพิ่มเติม:<br><br>
 3g2, 3gp, 3gp2, 3gpp, 8svx, aa, aac, aax, ac3, act, adt, adts, aif, aifc, aiff, alac, amr, amv, ape, asf, au, avi, awb, caf, cavs, cdda, cue, dct, dff, drc, dsf, dss, dvf, "dvr-ms", ec3, f4a, f4b, f4p, f4v, flac, flv, gif, gifv, gsm, gxf, h261, h263, h264, ifv, iklax, ivf, ivs, l16, latm, loas, m2t, m2ts, m2v, m3u, m3u8, m4a, m4b, m4p, m4r, m4v, mka, mkv, mmf, mng, mod, mogg, mov, mp1, mp2, mp3, mp4, mp4v, mpa, mpc, mpe, mpeg, mpg, mpv, msv, mts, mxf, nsf, nsv, nut, oga, ogg, ogv, opus, pcm, pls, qt, ra, raw, rm, rmvb, roq, rv, sln, snd, svi, tod, tta, vob, voc, vox, vtt, w64, wav, wave, webm, wma, wmv, wv, xhe, xmv, y4m, yuv.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Evervideo ใช้งานร่วมกับอุปกรณ์ NAS ได้หรือไม่?" closed="true" %}}
+{{% ls-details title="Evervideo ใช้งานร่วมกับอุปกรณ์ NAS ได้หรือไม่?" closed="true" %}}
 
 ใช่ Evervideo รองรับการเชื่อมต่อ NAS โดยใช้โปรโตคอล **SMB**, **WebDAV** และ **DLNA**<br><br>
 
@@ -496,9 +496,9 @@ iTunes File Sharing เป็นอีกเทคโนโลยีหนึ่
 • แสดงอุปกรณ์ NAS ทั้งหมดที่ค้นพบได้บนเครือข่ายท้องถิ่นของคุณ<br>
 • แตะชื่ออุปกรณ์เพื่อเชื่อมต่อ จากนั้นป้อนข้อมูลรับรองเข้าสู่ระบบหากจำเป็น<br><br>
 
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="ฉันจะใช้ฟีเจอร์ Wi-Fi Drive ใน Evervideo ได้อย่างไร?" closed="true" %}}
+{{% ls-details title="ฉันจะใช้ฟีเจอร์ Wi-Fi Drive ใน Evervideo ได้อย่างไร?" closed="true" %}}
 
 **การถ่ายโอนแบบไร้สายโดยใช้เบราว์เซอร์เดสก์ท็อป**<br>
 1. เปิดแอป: เปิด Evervideo<br>
@@ -523,39 +523,39 @@ iTunes File Sharing เป็นอีกเทคโนโลยีหนึ่
 
 [อ่านเพิ่มเติม](/docs/howto/how-to-transfer-files-wirelessly-from-a-computer-to-an-iphone-using-wifi-drive)
 
-{{% /details %}}
+{{% /ls-details %}}
 
 </div>
 
 
 <div class="hx:mt-6"></div>
 
-{{< hextra/section-headline >}}
+{{< ls-section-headline >}}
   คู่มือผู้ใช้
-{{< /hextra/section-headline >}}
+{{< /ls-section-headline >}}
 
 <div class="hx:mt-6"></div>
 
 <div class="hx:w-full">
 
 <div class="hx:w-full hx:mx-auto hx:flex hx:flex-col hx:items-center hx:text-center">
-  {{< hextra/info-paragraph border="false" >}}
+  {{< ls-info-paragraph border="false" >}}
   คู่มือนี้จะช่วยให้คุณใช้ Evervideo บน iPhone, iPad หรือ Mac ได้อย่างเต็มประสิทธิภาพ เรียนรู้วิธีสตรีมวิดีโอจากที่จัดเก็บข้อมูลบนคลาวด์และ NAS ใช้โหมดภาพในภาพ จัดการคำบรรยาย และปรับอีควอไลเซอร์เสียงและวิดีโอ Evervideo ให้คุณควบคุมคลังวิดีโอทั้งหมดของคุณจากทุกแหล่งได้อย่างเต็มที่ในแอปเดียวที่ใช้งานง่าย
-  {{< /hextra/info-paragraph >}}
+  {{< /ls-info-paragraph >}}
 </div>
 
 {{< cards >}}
-  {{< feature-card icon="location-marker" title="การนำทาง" subtitle="เรียนรู้วิธีนำทางใน Evervideo โดยใช้แถบแท็บบน iPhone หรือเมนูทางซ้ายบน iPad และ Mac พร้อมโปรแกรมเล่นวิดีโอแบบกะทัดรัดที่แสดงตลอดเวลา" link="/docs/guide/evervideo/evervideo-guide-navigation" >}}
+  {{< ls-feature-card icon="location-marker" title="การนำทาง" subtitle="เรียนรู้วิธีนำทางใน Evervideo โดยใช้แถบแท็บบน iPhone หรือเมนูทางซ้ายบน iPad และ Mac พร้อมโปรแกรมเล่นวิดีโอแบบกะทัดรัดที่แสดงตลอดเวลา" link="/docs/guide/evervideo/evervideo-guide-navigation" >}}
 
-  {{< feature-card icon="folder" title="ไฟล์" subtitle="เชื่อมต่อบัญชีคลาวด์ การแชร์ NAS เซิร์ฟเวอร์สื่อ (Plex, Jellyfin, Emby, Subsonic, Navidrome) สตรีม RTSP และไฟล์ในเครื่องในแท็บเดียวที่รวมเข้าด้วยกัน" link="/docs/guide/evervideo/evervideo-guide-files" >}}
+  {{< ls-feature-card icon="folder" title="ไฟล์" subtitle="เชื่อมต่อบัญชีคลาวด์ การแชร์ NAS เซิร์ฟเวอร์สื่อ (Plex, Jellyfin, Emby, Subsonic, Navidrome) สตรีม RTSP และไฟล์ในเครื่องในแท็บเดียวที่รวมเข้าด้วยกัน" link="/docs/guide/evervideo/evervideo-guide-files" >}}
 
-  {{< feature-card icon="library" title="คลังสื่อ" subtitle="จัดระเบียบและสำรวจวิดีโอและเพลงของคุณตามอัลบั้ม แนวเพลง รายการล่าสุด และรายการโปรด รวมถึงคลังภาพถ่ายของ iOS และคลัง Apple Music" link="/docs/guide/evervideo/evervideo-guide-video-library" >}}
+  {{< ls-feature-card icon="library" title="คลังสื่อ" subtitle="จัดระเบียบและสำรวจวิดีโอและเพลงของคุณตามอัลบั้ม แนวเพลง รายการล่าสุด และรายการโปรด รวมถึงคลังภาพถ่ายของ iOS และคลัง Apple Music" link="/docs/guide/evervideo/evervideo-guide-video-library" >}}
 
-  {{< feature-card icon="collection" title="รายการเล่น" subtitle="สร้างและจัดเรียงรายการเล่นสำหรับวิดีโอ เพลง ซีรีส์ หรือคอร์สเรียน และนำเข้าไฟล์ M3U / M3U8 / CUE" link="/docs/guide/evervideo/evervideo-guide-playlists" >}}
+  {{< ls-feature-card icon="collection" title="รายการเล่น" subtitle="สร้างและจัดเรียงรายการเล่นสำหรับวิดีโอ เพลง ซีรีส์ หรือคอร์สเรียน และนำเข้าไฟล์ M3U / M3U8 / CUE" link="/docs/guide/evervideo/evervideo-guide-playlists" >}}
 
-  {{< feature-card icon="play" title="เครื่องเล่นสื่อ" subtitle="ควบคุมการเล่น คิว ภาพในภาพ แทร็กเสียงและวิดีโอ คำบรรยายหลักและรอง และอีควอไลเซอร์เสียง + วิดีโอ" link="/docs/guide/evervideo/evervideo-guide-player" >}}
+  {{< ls-feature-card icon="play" title="เครื่องเล่นสื่อ" subtitle="ควบคุมการเล่น คิว ภาพในภาพ แทร็กเสียงและวิดีโอ คำบรรยายหลักและรอง และอีควอไลเซอร์เสียง + วิดีโอ" link="/docs/guide/evervideo/evervideo-guide-player" >}}
 
-  {{< feature-card icon="adjustments" title="การตั้งค่า" subtitle="ปรับแต่งรูปลักษณ์ ตัวถอดรหัส อีควอไลเซอร์ คำบรรยาย วิดเจ็ต ภาษา รหัสผ่าน การสำรองข้อมูล และการตั้งค่าประสิทธิภาพของ Evervideo" link="/docs/guide/evervideo/evervideo-guide-settings" >}}
+  {{< ls-feature-card icon="adjustments" title="การตั้งค่า" subtitle="ปรับแต่งรูปลักษณ์ ตัวถอดรหัส อีควอไลเซอร์ คำบรรยาย วิดเจ็ต ภาษา รหัสผ่าน การสำรองข้อมูล และการตั้งค่าประสิทธิภาพของ Evervideo" link="/docs/guide/evervideo/evervideo-guide-settings" >}}
 
 {{< /cards >}}
 

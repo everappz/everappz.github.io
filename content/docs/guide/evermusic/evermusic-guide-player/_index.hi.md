@@ -17,7 +17,7 @@ Player main application screen है जहां आप player queue और pl
 ## Player Access करना
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evermusic Audio Player स्क्रीन" image="/docs/guide/evermusic/evermusic-guide-player/img/player-main.webp" >}}
+  {{< ls-card title="" subtitle="Evermusic Audio Player स्क्रीन" image="/docs/guide/evermusic/evermusic-guide-player/img/player-main.webp" >}}
 {{< /cards >}}
 
 आप mini-player view से full-screen player access कर सकते हैं। अपने iPhone पर, आप main screen पर tab bar के ऊपर mini player find करेंगे। अपने iPad या Mac पर, यह left menu से accessible है। Mini player को tuck away करने के लिए, उसके icon पर टैप करें और downwards swipe करें। Full-screen player को completely hide करने के लिए, simply bottom right corner पर located close button टैप करें।
@@ -44,7 +44,7 @@ Player screen के bottom पर, आपको playback controls मिले�
 ## Volume Control
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="AirPlay और Google Cast के साथ Volume Control" image="/docs/guide/evermusic/evermusic-guide-player/img/player-volume-control.webp" >}}
+  {{< ls-card title="" subtitle="AirPlay और Google Cast के साथ Volume Control" image="/docs/guide/evermusic/evermusic-guide-player/img/player-volume-control.webp" >}}
 {{< /cards >}}
 
 Playback controls के नीचे sound icon टैप करके Audio Settings screen पर volume slider find करें। आप इस slider या अपने device पर standard volume buttons का उपयोग करके volume change कर सकते हैं। इसके अलावा, आपको कुछ handy streaming buttons मिलेंगे:
@@ -63,7 +63,7 @@ Google Cast use करने वालों के लिए, आपको audi
 ## Audio Equalizer
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="10-Band Audio Equalizer" image="/docs/guide/evermusic/evermusic-guide-player/img/player-equalizer.webp" >}}
+  {{< ls-card title="" subtitle="10-Band Audio Equalizer" image="/docs/guide/evermusic/evermusic-guide-player/img/player-equalizer.webp" >}}
 {{< /cards >}}
 
 Evermusic iPod-style presets, preamplifier, और manual equalizer settings के साथ एक 10-band equalizer के साथ packed है। Equalizer activate करने के लिए, simply bottom toolbar पर "Equalizer" button टैप करें और top right corner में switch control toggle करें। आप "Acoustic", "Bass Booster", "Classical," और अधिक जैसे predefined equalizer presets की range से select कर सकते हैं। अगर आप sound enthusiast हैं, तो आप sliders का उपयोग करके हर frequency band fine-tune करने की ability appreciate करेंगे। अपने खुद के audio equalizer presets create और save करने के लिए free रहें। अगर कोई track loud enough नहीं है, तो आप preamplifier gain भी adjust कर सकते हैं। हमारे पास equalizer use करने के बारे में अधिक detailed instructions [यहां](/docs/howto/how-to-use-the-audio-equalizer-on-your-iphone-ipad-mac-with-evermusic-and-flacbox) हैं।
@@ -71,7 +71,7 @@ Evermusic iPod-style presets, preamplifier, और manual equalizer settings क
 ## Player Mode Toolbar
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Search और Speed के साथ Player Top Toolbar" image="/docs/guide/evermusic/evermusic-guide-player/img/player-top-toolbar.webp" >}}
+  {{< ls-card title="" subtitle="Search और Speed के साथ Player Top Toolbar" image="/docs/guide/evermusic/evermusic-guide-player/img/player-top-toolbar.webp" >}}
 {{< /cards >}}
 
 Select few player screen styles के लिए आपको player screen के top पर, navigation bar के right below एक player mode toolbar मिलेगा। यह handy toolbar तीन buttons house करता है।
@@ -82,7 +82,7 @@ Select few player screen styles के लिए आपको player screen क�
 ## Audio Bookmarks
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Audiobooks और Lectures के लिए Audio Bookmarks" image="/docs/guide/evermusic/evermusic-guide-player/img/player-bookmarks.webp" >}}
+  {{< ls-card title="" subtitle="Audiobooks और Lectures के लिए Audio Bookmarks" image="/docs/guide/evermusic/evermusic-guide-player/img/player-bookmarks.webp" >}}
 {{< /cards >}}
 
 यहां आप अपनी music library के tracks के लिए multiple bookmarks create कर सकते हैं। Bookmarks use करने के बारे में हमारे पास complete instruction [यहां](/docs/howto/how-to-listen-to-audiobooks-on-iphone-ipad-mac-using-evermusic) है।
@@ -90,7 +90,7 @@ Select few player screen styles के लिए आपको player screen क�
 ## Player Queue
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Player Queue" image="/docs/guide/evermusic/evermusic-guide-player/img/player-queue.webp" >}}
+  {{< ls-card title="" subtitle="Player Queue" image="/docs/guide/evermusic/evermusic-guide-player/img/player-queue.webp" >}}
 {{< /cards >}}
 
 अपना player queue access करने के लिए, simply bottom toolbar पर located player queue button टैप करें। Queue में song move करने के लिए, title के पास reorder indicator use करें।
@@ -98,7 +98,7 @@ Select few player screen styles के लिए आपको player screen क�
 ## Comments / Lyrics
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Comments, Embedded Lyrics, और LRC Files" image="/docs/guide/evermusic/evermusic-guide-player/img/player-lyrics.webp" >}}
+  {{< ls-card title="" subtitle="Comments, Embedded Lyrics, और LRC Files" image="/docs/guide/evermusic/evermusic-guide-player/img/player-lyrics.webp" >}}
 {{< /cards >}}
 
 Track comments और embedded lyrics, साथ ही LRC files देखने के लिए, इन steps follow करें:
@@ -114,7 +114,7 @@ Lyrics view करने के बारे में हमारे पास
 ## Options Menu
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Queue Item के लिए Options Menu" image="/docs/guide/evermusic/evermusic-guide-player/img/player-queue-item-options-menu.webp" >}}
+  {{< ls-card title="" subtitle="Queue Item के लिए Options Menu" image="/docs/guide/evermusic/evermusic-guide-player/img/player-queue-item-options-menu.webp" >}}
 {{< /cards >}}
 
 आपके audio player queue के हर song में एक more actions menu है, जिसे आप song title के पास three dots button टैप करके access कर सकते हैं। Available actions हैं:
@@ -153,7 +153,7 @@ Currently played song title के left side पर more actions button "..." �
 ## Recents और Favorites
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Player से Recently Played Songs" image="/docs/guide/evermusic/evermusic-guide-player/img/player-recents.webp" >}}
+  {{< ls-card title="" subtitle="Player से Recently Played Songs" image="/docs/guide/evermusic/evermusic-guide-player/img/player-recents.webp" >}}
 {{< /cards >}}
 
 Player screen पर, आप More Actions button '…' टैप करके और respective menu item select करके 'हाल के' और 'पसंदीदा' sections access कर सकते हैं। दोनों sections में, आप songs search कर सकते हैं, सभी tracks play कर सकते हैं, सभी tracks shuffle कर सकते हैं, list export कर सकते हैं, और list delete कर सकते हैं। Song lists export करने के बारे में हमारे पास detailed instructions [यहां](/docs/howto/export-tracks-collection-from-evermusic-flacbox-to-m3u-csv-txt/) हैं।
@@ -161,7 +161,7 @@ Player screen पर, आप More Actions button '…' टैप करके �
 ## Mini Player Window (Mac Exclusive)
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Mac Mini Player Window" image="/docs/guide/evermusic/evermusic-guide-player/img/player-mini-mac.webp" >}}
+  {{< ls-card title="" subtitle="Mac Mini Player Window" image="/docs/guide/evermusic/evermusic-guide-player/img/player-mini-mac.webp" >}}
 {{< /cards >}}
 
 Mac users के लिए, एक handy mini-player window है। इसे access करने के लिए, simply अपना cursor app window के bottom-right edge पर move करें और इसे smallest possible size पर resize करें। फिर, mini-player window activate करने के लिए collapse button (downward arrow के रूप में depicted) टैप करें। अगर आप इसे अन्य windows के ऊपर रखना चाहते हैं, तो अपने Mac के top menu bar पर जाएं, 'Window,' select करें, और 'Show Window Always On Top' choose करें। यह feature especially convenient है जब आप audio lectures सुन रहे हों और कोई interruption नहीं चाहते।
@@ -169,7 +169,7 @@ Mac users के लिए, एक handy mini-player window है। इसे 
 ## Keyboard Shortcuts (Mac Exclusive)
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Keyboard Shortcuts के साथ Mac Status Bar Playback Menu" image="/docs/guide/evermusic/evermusic-guide-player/img/player-mac-shortcuts.webp" >}}
+  {{< ls-card title="" subtitle="Keyboard Shortcuts के साथ Mac Status Bar Playback Menu" image="/docs/guide/evermusic/evermusic-guide-player/img/player-mac-shortcuts.webp" >}}
 {{< /cards >}}
 
 Mac users के लिए, status bar पर keyboard shortcuts के साथ एक system playback menu available है। उदाहरण के लिए, Play/Pause करने के लिए, बस अपने keyboard पर spacebar टैप करें। Stop, Next Song, Previous Song, Skip Time, Repeat, Shuffle, और Playback Speed के shortcuts screenshot में shown अनुसार available हैं।
@@ -177,7 +177,7 @@ Mac users के लिए, status bar पर keyboard shortcuts के सा�
 ## Audio Player सेटिंग्स
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Audio Player सेटिंग्स" image="/docs/guide/evermusic/evermusic-guide-player/img/player-settings.webp" >}}
+  {{< ls-card title="" subtitle="Audio Player सेटिंग्स" image="/docs/guide/evermusic/evermusic-guide-player/img/player-settings.webp" >}}
 {{< /cards >}}
 
 Audio player settings access करने के लिए, audio player screen पर More button टैप करें और drop-down menu से "सेटिंग्स" select करें। यहां, आपको functionality द्वारा grouped विभिन्न sections मिलेंगे:

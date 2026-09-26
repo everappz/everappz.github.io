@@ -74,18 +74,18 @@ Ez az útmutató végigvezeti az Evervideo minden részén iPhone-on, iPaden és
 
 {{< cards cols="2">}}
 
-{{< card icon="map" link="/docs/guide/evervideo/evervideo-guide-navigation" title="Navigáció" subtitle="Tab sáv iPhone-on, Bal menü iPaden és Macon, kompakt, mindig látható médialejátszó." >}}
+{{< ls-card icon="map" link="/docs/guide/evervideo/evervideo-guide-navigation" title="Navigáció" subtitle="Tab sáv iPhone-on, Bal menü iPaden és Macon, kompakt, mindig látható médialejátszó." >}}
 
-{{< card icon="folder" link="/docs/guide/evervideo/evervideo-guide-files" title="Fájlok" subtitle="Egységes lap a felhőhöz, NAS-hoz, RTSP streamekhez, helyi fájlokhoz, USB meghajtókhoz és az átviteli sorhoz." >}}
+{{< ls-card icon="folder" link="/docs/guide/evervideo/evervideo-guide-files" title="Fájlok" subtitle="Egységes lap a felhőhöz, NAS-hoz, RTSP streamekhez, helyi fájlokhoz, USB meghajtókhoz és az átviteli sorhoz." >}}
 
-{{< card icon="collection" link="/docs/guide/evervideo/evervideo-guide-video-library" title="Médiakönyvtár" subtitle="Böngészés albumok, műfajok, legutóbbi, kedvencek szerint — valamint az iOS Fotók könyvtár és az Apple Music könyvtár." >}}
+{{< ls-card icon="collection" link="/docs/guide/evervideo/evervideo-guide-video-library" title="Médiakönyvtár" subtitle="Böngészés albumok, műfajok, legutóbbi, kedvencek szerint — valamint az iOS Fotók könyvtár és az Apple Music könyvtár." >}}
 
-{{< card icon="music-note" link="/docs/guide/evervideo/evervideo-guide-playlists" title="Lejátszási listák" subtitle="Lejátszási listák készítése felhőből, helyi, Fotók vagy Music könyvtárból, M3U / M3U8 / CUE importálása." >}}
+{{< ls-card icon="music-note" link="/docs/guide/evervideo/evervideo-guide-playlists" title="Lejátszási listák" subtitle="Lejátszási listák készítése felhőből, helyi, Fotók vagy Music könyvtárból, M3U / M3U8 / CUE importálása." >}}
 
-{{< card icon="play" link="/docs/guide/evervideo/evervideo-guide-player" title="Médialejátszó" subtitle="Kép-a-képben, hang- és videósávok, feliratok, hang- és videóegyenlítők, AirPlay, Chromecast." >}}
+{{< ls-card icon="play" link="/docs/guide/evervideo/evervideo-guide-player" title="Médialejátszó" subtitle="Kép-a-képben, hang- és videósávok, feliratok, hang- és videóegyenlítők, AirPlay, Chromecast." >}}
 
-{{< card icon="adjustments" link="/docs/guide/evervideo/evervideo-guide-settings" title="Beállítások" subtitle="Hangmotor, videódekóder, feliratok, könyvtár, fájlkezelő, widgetek, személyre szabás, nyelv, biztonsági mentés." >}}
+{{< ls-card icon="adjustments" link="/docs/guide/evervideo/evervideo-guide-settings" title="Beállítások" subtitle="Hangmotor, videódekóder, feliratok, könyvtár, fájlkezelő, widgetek, személyre szabás, nyelv, biztonsági mentés." >}}
 
-{{< card icon="question-mark-circle" link="/docs/faq/evervideo" title="GYIK" subtitle="Találja meg a leggyakoribb Evervideóval kapcsolatos kérdések válaszait." >}}
+{{< ls-card icon="question-mark-circle" link="/docs/faq/evervideo" title="GYIK" subtitle="Találja meg a leggyakoribb Evervideóval kapcsolatos kérdések válaszait." >}}
 
 {{< /cards >}}

@@ -7,7 +7,7 @@ keywords: ["tallenna videota musiikin soidessa iPhonella", "miten soittaa musiik
 readingTime: 1
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **Lyhyesti:** Aseta Evermusicin ääniulostulo tilaan "Sekamoodi", aloita kappaleen toisto ja avaa sitten Kamera-sovellus ja tallenna. Musiikki jatkaa sointia taustalla. Toimii TikTokin, Instagramin ja minkä tahansa kamerasovelluksen kanssa.
@@ -45,22 +45,22 @@ Tämä temppu toimii jokaisessa iPhonessa.
 
 ## Usein kysytyt kysymykset
 
-{{% details title="Tallentuuko taustamusiikki videoon?" closed="true" %}}
+{{% ls-details title="Tallentuuko taustamusiikki videoon?" closed="true" %}}
 Musiikki soi iPhonen kaiuttimen kautta, joten mikrofoni poimii sen muiden ympäristöäänien kanssa. Puhtaamman äänen saamiseksi harkitse ulkoisen kaiuttimen käyttöä mikrofonin lähellä.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Toimiiko tämä TikTokin ja Instagramin kanssa?" closed="true" %}}
+{{% ls-details title="Toimiiko tämä TikTokin ja Instagramin kanssa?" closed="true" %}}
 Kyllä. Kun Evermusic on asetettu Sekamoodiin ja kappale soi, musiikki jatkuu, kun avaat TikTokin, Instagramin tai minkä tahansa muun kamera- tai tallennussovelluksen.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Mikä on Sekamoodi Evermusicissa?" closed="true" %}}
+{{% ls-details title="Mikä on Sekamoodi Evermusicissa?" closed="true" %}}
 Sekamoodi on äänen ulostulotila-asetus, joka sallii Evermusicin jakaa ääni-istunnon muiden sovellusten kanssa. Tämä estää musiikin pysähtymisen, kun toinen sovellus käyttää mikrofonia tai kameraa.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Voinko käyttää Flacboxia Evermusicin sijaan tähän?" closed="true" %}}
+{{% ls-details title="Voinko käyttää Flacboxia Evermusicin sijaan tähän?" closed="true" %}}
 Kyllä. Flacbox tukee myös sekamoodin ääniulostuloa. Vaiheet ovat samat: ota Sekamoodi käyttöön Asetuksissa, aloita toisto ja avaa kamerasovellus.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Voinko pelata peliä samalla kun Evermusicin musiikki soi taustalla?" closed="true" %}}
+{{% ls-details title="Voinko pelata peliä samalla kun Evermusicin musiikki soi taustalla?" closed="true" %}}
 Kyllä. Kun Sekamoodi on käytössä, Evermusicin musiikki jatkaa sointia, kun avaat minkä tahansa pelin tai sovelluksen. Sekä pelin ääni että musiikkisi soivat samanaikaisesti.
-{{% /details %}}
+{{% /ls-details %}}

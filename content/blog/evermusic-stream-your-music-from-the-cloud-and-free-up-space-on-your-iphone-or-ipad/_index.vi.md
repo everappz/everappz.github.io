@@ -12,7 +12,7 @@ authors:
     image: "/images/about/artem-meleshko-founder-everappz.webp"
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 ![](/blog/evermusic-stream-your-music-from-the-cloud-and-free-up-space-on-your-iphone-or-ipad/21260c_00c5356db3a24db6a6a37e353b774d56~mv2.jpg)
 
@@ -82,22 +82,22 @@ Duyệt tài khoản đám mây đã kết nối, mở thư mục nhạc và nh�
 
 ## Câu hỏi thường gặp
 
-{{% details title="Evermusic có miễn phí không?" closed="true" %}}
+{{% ls-details title="Evermusic có miễn phí không?" closed="true" %}}
 Evermusic miễn phí tải xuống với các tính năng cao cấp tùy chọn. Phát trực tuyến đám mây cơ bản và phát ngoại tuyến có sẵn trong phiên bản miễn phí.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Evermusic hỗ trợ những dịch vụ đám mây nào?" closed="true" %}}
+{{% ls-details title="Evermusic hỗ trợ những dịch vụ đám mây nào?" closed="true" %}}
 Google Drive, Dropbox, Box, OneDrive, MediaFire, MEGA, Yandex.Disk, pCloud, HiDrive, MyDrive, chia sẻ tệp SMB và máy chủ WebDAV.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Tôi có thể nghe nhạc ngoại tuyến với Evermusic không?" closed="true" %}}
+{{% ls-details title="Tôi có thể nghe nhạc ngoại tuyến với Evermusic không?" closed="true" %}}
 Có. Tải bất kỳ album, nghệ sĩ, danh sách phát hoặc bài hát riêng lẻ nào để phát ngoại tuyến trực tiếp trong ứng dụng.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Evermusic phát những định dạng âm thanh nào?" closed="true" %}}
+{{% ls-details title="Evermusic phát những định dạng âm thanh nào?" closed="true" %}}
 Evermusic hỗ trợ MP3, FLAC, AAC, WAV, ALAC, AIFF, OPUS, OGG và nhiều định dạng khác.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Tôi vẫn cần iTunes để chuyển nhạc không?" closed="true" %}}
+{{% ls-details title="Tôi vẫn cần iTunes để chuyển nhạc không?" closed="true" %}}
 Không. Tải nhạc lên bất kỳ dịch vụ đám mây được hỗ trợ nào từ máy tính, sau đó phát trực tuyến hoặc tải xuống qua Evermusic trên iPhone hoặc iPad.
-{{% /details %}}
+{{% /ls-details %}}

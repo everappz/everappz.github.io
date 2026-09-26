@@ -19,7 +19,7 @@ readingTime: 11
 Gérer votre bibliothèque musicale est un jeu d'enfant avec Flacbox, qui vous permet d'organiser sans effort toutes vos pistes — FLAC, ALAC, DSD, MP3, M4A, OGG, WMA, APE et des dizaines d'autres formats locaux — dans une collection unique et consultable. Vous avez deux options pour constituer votre bibliothèque musicale : l'ajout manuel (vous choisissez exactement ce qui est ajouté) ou la synchronisation automatique (Flacbox analyse les dossiers cloud désignés et ajoute automatiquement les nouveaux fichiers au fur et à mesure qu'ils apparaissent).
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Vue Albums de la bibliothèque musicale Flacbox" image="/docs/guide/flacbox/img/media-library-albums.webp" >}}
+  {{< ls-card title="" subtitle="Vue Albums de la bibliothèque musicale Flacbox" image="/docs/guide/flacbox/img/media-library-albums.webp" >}}
 {{< /cards >}}
 
 ## Ajout manuel
@@ -27,7 +27,7 @@ Gérer votre bibliothèque musicale est un jeu d'enfant avec Flacbox, qui vous p
 Pour ajouter des pistes manuellement, appuyez sur l'icône **Ajouter de la musique** située dans le coin supérieur gauche et choisissez des dossiers ou des fichiers depuis un service de stockage en nuage connecté ou des fichiers situés sur votre appareil. Lorsque vous ajoutez des pistes à la bibliothèque, seuls des liens vers ces pistes sont créés — les fichiers réels restent dans leurs emplacements d'origine pour économiser l'espace disque précieux. Si vous souhaitez rendre des pistes disponibles hors ligne, vous pouvez utiliser l'action Télécharger du menu options ou activer le mode hors ligne pour les listes de lecture et les collections de pistes.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox — Ajouter des chansons à la bibliothèque musicale" image="/docs/guide/flacbox/img/library-add-songs.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox — Ajouter des chansons à la bibliothèque musicale" image="/docs/guide/flacbox/img/library-add-songs.webp" >}}
 {{< /cards >}}
 
 Vous pouvez également glisser-déposer des fichiers dans la bibliothèque sur la version Mac, ou utiliser **Ouvrir des fichiers…** / **Ouvrir un dossier…** depuis le sélecteur de fichiers système sur iPhone et iPad.
@@ -89,7 +89,7 @@ Située juste sous la barre de navigation, la barre d'outils supérieure propose
 La fonctionnalité de recherche vous permet de localiser une piste, un artiste, un album ou un genre spécifique dans votre bibliothèque musicale. Dans l'écran de recherche, vous avez accès aux actions Trier, Filtrer et vue Grille / Liste. La recherche s'effectue localement dans la base de données de la bibliothèque musicale, ce qui lui permet de fonctionner entièrement hors ligne et de renvoyer des résultats au fur et à mesure que vous tapez.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Recherche dans la bibliothèque musicale Flacbox" image="/docs/guide/flacbox/img/media-library-search.webp" >}}
+  {{< ls-card title="" subtitle="Recherche dans la bibliothèque musicale Flacbox" image="/docs/guide/flacbox/img/media-library-search.webp" >}}
 {{< /cards >}}
 
 ## Menu Options
@@ -140,7 +140,7 @@ Lorsque vous ouvrez les sections Artiste, Artiste d'album ou Compositeur, vous p
 Cela est particulièrement utile pour nettoyer les compilations «&nbsp;Artistes divers&nbsp;» encombrées dans les grandes bibliothèques.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox — Écran de détail d'un album" image="/docs/guide/flacbox/img/media-library-album-details-screen.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox — Écran de détail d'un album" image="/docs/guide/flacbox/img/media-library-album-details-screen.webp" >}}
 {{< /cards >}}
 
 ## Paramètres

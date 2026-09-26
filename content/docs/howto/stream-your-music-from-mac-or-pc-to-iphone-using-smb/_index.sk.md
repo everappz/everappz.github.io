@@ -7,7 +7,7 @@ tags: ["cloud", "streaming", "computer", "mp3", "file", "downloader", "manager",
 keywords: ["streamovanie hudby z Mac na iPhone", "SMB audio streaming iOS", "nastavenie Evermusic SMB", "pripojenie hudby z PC na iPhone", "zdieľanie hudby Mac iOS", "SMB Windows streamovanie súborov", "prístup Evermusic k priečinkom PC"]
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **Zhrnutie:** Použite aplikáciu Evermusic pre iPhone alebo iPad na streamovanie hudby z vášho Macu alebo Windows PC cez lokálnu sieť pomocou SMB. Žiadna synchronizácia, žiadne kopírovanie -- stačí povoliť zdieľanie súborov na počítači, pripojiť sa v aplikácii a prehrávať. Nastavenie trvá menej ako 5 minút.
@@ -102,26 +102,26 @@ P.S. Môžete tiež preniesť audio súbory z MAC/PC na iPhone pomocou zdieľani
 
 ## Často kladené otázky
 
-{{% details title="Môžem streamovať hudbu z PC na iPhone bez iTunes?" closed="true" %}}
+{{% ls-details title="Môžem streamovať hudbu z PC na iPhone bez iTunes?" closed="true" %}}
 Áno. Evermusic sa pripojí k vášmu PC cez SMB vo vašej lokálnej Wi-Fi sieti. iTunes nie je potrebný. Stačí povoliť zdieľanie súborov na PC a pripojiť sa v aplikácii.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Používa SMB streaming mobilné dáta?" closed="true" %}}
+{{% ls-details title="Používa SMB streaming mobilné dáta?" closed="true" %}}
 Nie. SMB funguje cez vašu lokálnu Wi-Fi sieť. Nie je potrebné internetové pripojenie ani mobilné dáta.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Aké audio formáty Evermusic podporuje cez SMB?" closed="true" %}}
+{{% ls-details title="Aké audio formáty Evermusic podporuje cez SMB?" closed="true" %}}
 Evermusic podporuje MP3, FLAC, AAC, WAV, AIFF, OGG, WMA, ALAC a ďalšie bežné audio formáty. Súbory sa prehrávajú priamo zo zdieľania SMB.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Môžem streamovať hudbu z NAS na iPhone?" closed="true" %}}
+{{% ls-details title="Môžem streamovať hudbu z NAS na iPhone?" closed="true" %}}
 Áno. Ak váš NAS podporuje SMB (väčšina áno, vrátane Synology, QNAP a WD My Cloud), môžete sa k nemu pripojiť pomocou rovnakých krokov v tomto sprievodcovi.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Musím mať počítač zapnutý počas streamovania?" closed="true" %}}
+{{% ls-details title="Musím mať počítač zapnutý počas streamovania?" closed="true" %}}
 Áno. Keďže Evermusic streamuje súbory priamo z vášho počítača, musí byť zapnutý a pripojený k rovnakej sieti ako váš iPhone.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Existuje limit veľkosti súboru pre SMB streaming?" closed="true" %}}
+{{% ls-details title="Existuje limit veľkosti súboru pre SMB streaming?" closed="true" %}}
 Nie. Evermusic streamuje súbory akejkoľvek veľkosti cez SMB. Veľké bezstratové súbory (FLAC, WAV) fungujú bez problémov.
-{{% /details %}}
+{{% /ls-details %}}

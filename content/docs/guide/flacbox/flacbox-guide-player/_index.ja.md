@@ -23,7 +23,7 @@ readingTime: 14
 ミニプレーヤーバーからフルスクリーンプレーヤーにアクセスできます。iPhoneでは、ミニプレーヤーはメイン画面の下部にあります。iPadとMacでは左側にあります。iPhoneでミニプレーヤーを非表示にするには、一度タップして下にスワイプします。フルスクリーンプレーヤーを完全に閉じるには、右下角の閉じるボタンをタップします。
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacboxオーディオプレーヤーメイン画面" image="/docs/guide/flacbox/img/audio-player-main-screen.webp" >}}
+  {{< ls-card title="" subtitle="Flacboxオーディオプレーヤーメイン画面" image="/docs/guide/flacbox/img/audio-player-main-screen.webp" >}}
 {{< /cards >}}
 
 ## 対応オーディオフォーマット
@@ -66,7 +66,7 @@ AirPlayの場合、プレーヤーの下部にある **AirPlay** ボタンを探
 Flacboxには iPodスタイルのプリセットを備えた **10バンドイコライザー** が含まれています。音量ビューでイコライザーをタップし、右上角でオンにします。アコースティックやバスブースターなどのプリセットを使用するか、スライダーで各周波数バンドを調整できます。独自のプリセットを作成し、任意の名前で保存し、プリアンプで全体音量を上げることができます。イコライザーの使い方についての詳しい説明は[こちら](/docs/howto/how-to-use-the-audio-equalizer-on-your-iphone-ipad-mac-with-evermusic-and-flacbox)をご覧ください。
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacboxオーディオプレーヤーイコライザー" image="/docs/guide/flacbox/img/audio-player-equalizer.webp" >}}
+  {{< ls-card title="" subtitle="Flacboxオーディオプレーヤーイコライザー" image="/docs/guide/flacbox/img/audio-player-equalizer.webp" >}}
 {{< /cards >}}
 
 ## プレーヤーモードツールバー
@@ -82,7 +82,7 @@ Flacboxには iPodスタイルのプリセットを備えた **10バンドイコ
 プレーヤーキューを表示するには、現在の曲の右側にあるキューボタンをタップします。キュー内の各曲にはその他のアクションがあります — 3つの点をタップして表示します。キュー内の曲を並べ替えるには、タイトル近くの並べ替えインジケーターを使用して新しい位置にドラッグします。
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox再生キュー" image="/docs/guide/flacbox/img/playback_queue.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox再生キュー" image="/docs/guide/flacbox/img/playback_queue.webp" >}}
 {{< /cards >}}
 
 ## コメント / 歌詞
@@ -98,7 +98,7 @@ Flacboxには iPodスタイルのプリセットを備えた **10バンドイコ
 その後、画面下部のプレーヤーキューボタンを数回タップして、アートワーク / キュービューからコメントビューに切り替えます。コメント画面で右にスクロールすると、**コメント**、**埋め込み歌詞**、**LRCファイル**を切り替えられます。詳しい説明は[こちら](/docs/howto/how-to-add-and-view-comments-to-your-audio-tracks-on-iphone-ipad-and-mac-with-evermusic-and-flacbox)をご覧ください。
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox歌詞とコメント画面" image="/docs/guide/flacbox/img/lyrics-screen.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox歌詞とコメント画面" image="/docs/guide/flacbox/img/lyrics-screen.webp" >}}
 {{< /cards >}}
 
 ## オプションメニュー
@@ -121,7 +121,7 @@ Flacboxには iPodスタイルのプリセットを備えた **10バンドイコ
 同じオプションは、オーディオプレーヤーキューの現在再生中のアイテムでも利用できます（トラックタイトル近くの**その他のアクション**アイコンをタップしてアクセスします）。
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox再生キューのアイテムのオプション" image="/docs/guide/flacbox/img/options-for-item-in-playback-queue.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox再生キューのアイテムのオプション" image="/docs/guide/flacbox/img/options-for-item-in-playback-queue.webp" >}}
 {{< /cards >}}
 
 ## 追加のプレーヤーアクション
@@ -143,7 +143,7 @@ Flacboxには iPodスタイルのプリセットを備えた **10バンドイコ
 - **ヘルプ** — サポートとガイダンスを見つけます。
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacboxオーディオプレーヤーその他のアクション画面" image="/docs/guide/flacbox/img/audio-player-more-actions-screen.webp" >}}
+  {{< ls-card title="" subtitle="Flacboxオーディオプレーヤーその他のアクション画面" image="/docs/guide/flacbox/img/audio-player-more-actions-screen.webp" >}}
 {{< /cards >}}
 
 ## オーディオブックマーク
@@ -161,7 +161,7 @@ Flacboxには iPodスタイルのプリセットを備えた **10バンドイコ
 現在のトラックのブックマークの編集は簡単です。右上角の「編集」をタップして編集モードに入ります。このモードでは、ブックマークの並べ替え、削除、時間の調整、タイトルの変更ができます。オーディオブックマークの詳しい説明は[こちら](/docs/howto/how-to-listen-to-audiobooks-on-iphone-ipad-mac-using-evermusic)をご覧ください。
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacboxオーディオブックマーク画面" image="/docs/guide/flacbox/img/audio-bookmarks.webp" >}}
+  {{< ls-card title="" subtitle="Flacboxオーディオブックマーク画面" image="/docs/guide/flacbox/img/audio-bookmarks.webp" >}}
 {{< /cards >}}
 
 ## 最近再生とお気に入り
@@ -175,7 +175,7 @@ iPhoneをUSBまたはワイヤレスApple CarPlayで車に接続すると、Flac
 [CarPlayの完全ガイドを読む](/docs/howto/how-to-play-your-own-music-on-iphone-using-carplay/)。
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="FlacboxとApple CarPlay" image="/docs/guide/flacbox/img/carplay-main.webp" >}}
+  {{< ls-card title="" subtitle="FlacboxとApple CarPlay" image="/docs/guide/flacbox/img/carplay-main.webp" >}}
 {{< /cards >}}
 
 ## ホーム画面ウィジェット（iPhone & iPad）
@@ -243,7 +243,7 @@ Macユーザーには、キーボードショートカット付きのシステ�
 オーディオプレーヤーの再生速度を **0.02×から3.00×** まで調整します。右上角の設定アイコンをタップして**精密モード**に切り替えると、より細かい調整ができます。
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox再生速度画面" image="/docs/guide/flacbox/img/playback-speed.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox再生速度画面" image="/docs/guide/flacbox/img/playback-speed.webp" >}}
 {{< /cards >}}
 
 ### ピッチ補正

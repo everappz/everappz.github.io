@@ -7,7 +7,7 @@ tags: ["cărți audio", "redare", "offline", "evermusic", "marcaj"]
 readingTime: 5
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **Pe scurt:** Evermusic funcționează și ca un player complet de cărți audio pe iOS și macOS. Transferați cărți audio prin iTunes, WiFi sau stocare în cloud, apoi folosiți controlul vitezei de redare, butoanele de salt, marcajele audio, continuarea redării și descărcările offline pentru o experiență de ascultare perfectă.
@@ -151,26 +151,26 @@ Ascultare plăcută!
 
 ## Întrebări Frecvente
 
-{{% details title="Ce formate de cărți audio suportă Evermusic?" closed="true" %}}
+{{% ls-details title="Ce formate de cărți audio suportă Evermusic?" closed="true" %}}
 Evermusic suportă MP3, M4A, M4B, FLAC, WAV, AIFF, OGG și alte formate audio comune. Orice fișier audio care se redă în Evermusic funcționează ca o carte audio.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Pot asculta cărți audio din stocarea în cloud?" closed="true" %}}
+{{% ls-details title="Pot asculta cărți audio din stocarea în cloud?" closed="true" %}}
 Da. Evermusic se conectează la iCloud Drive, Google Drive, Dropbox, OneDrive, Box și servere WebDAV. Puteți transmite cărți audio direct sau le puteți descărca pentru ascultare offline.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Marcajele mele se vor transfera pe un dispozitiv nou?" closed="true" %}}
+{{% ls-details title="Marcajele mele se vor transfera pe un dispozitiv nou?" closed="true" %}}
 Da. Evermusic salvează marcajele audio în metadatele fișierului, astfel încât se transferă automat când mutați fișierele pe un dispozitiv nou.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Evermusic își amintește unde am oprit ascultarea?" closed="true" %}}
+{{% ls-details title="Evermusic își amintește unde am oprit ascultarea?" closed="true" %}}
 Da. Activați "Salvare Poziție de Redare" și "Salvare Stare Player Audio" în Setări > Player Audio > General. Aplicația salvează și restaurează poziția exactă între sesiuni.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Pot ajusta viteza de redare a cărților audio?" closed="true" %}}
+{{% ls-details title="Pot ajusta viteza de redare a cărților audio?" closed="true" %}}
 Da. Accesați Setări > Player Audio > Viteza de Redare pentru a seta viteza preferată. Puteți accelera sau încetini nararea pentru a se potrivi preferinței dvs. de ascultare.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Cum transfer cărți audio în Evermusic?" closed="true" %}}
+{{% ls-details title="Cum transfer cărți audio în Evermusic?" closed="true" %}}
 Puteți transfera fișiere prin partajarea fișierelor iTunes/Finder, WiFi Drive (integrat în aplicație) sau prin conectarea unui cont de stocare în cloud în Evermusic.
-{{% /details %}}
+{{% /ls-details %}}

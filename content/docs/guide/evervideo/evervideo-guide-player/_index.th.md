@@ -31,7 +31,7 @@ readingTime: 14
 โปรแกรมเล่นขนาดกะทัดรัดยังคงมองเห็นได้ขณะเรียกดูไลบรารี, ตัวจัดการไฟล์ หรือการตั้งค่า เพื่อไม่ให้คุณสูญเสียวิดีโอขณะค้นหาวิดีโอถัดไป
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evervideo โปรแกรมเล่นมีเดียแบบเต็มหน้าจอ" image="/docs/guide/evervideo/img/evervideo-media-player-fullscreen.webp" >}}
+  {{< ls-card title="" subtitle="Evervideo โปรแกรมเล่นมีเดียแบบเต็มหน้าจอ" image="/docs/guide/evervideo/img/evervideo-media-player-fullscreen.webp" >}}
 {{< /cards >}}
 
 ## รูปแบบวิดีโอและเสียงที่รองรับ
@@ -72,7 +72,7 @@ PiP ทำงานกับทุกรูปแบบวิดีโอที�
 โปรแกรมเล่นขนาดกะทัดรัดคือ mini-player ถาวรที่ยังคงมองเห็นได้ที่ด้านบนของทุกหน้าจอในแอปขณะที่คุณเรียกดูไลบรารี, ตัวจัดการไฟล์ หรือการตั้งค่า แตะเพื่อขยายเป็นโปรแกรมเล่นแบบเต็มหน้าจอ ปัดลงเพื่อยุบกลับ
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evervideo การตั้งค่าวิดีโอจากโปรแกรมเล่นขนาดกะทัดรัดบนหน้าจอหลัก" image="/docs/guide/evervideo/img/evervideo-video-settings-from-compact-player-view-on-the-main-screen.webp" >}}
+  {{< ls-card title="" subtitle="Evervideo การตั้งค่าวิดีโอจากโปรแกรมเล่นขนาดกะทัดรัดบนหน้าจอหลัก" image="/docs/guide/evervideo/img/evervideo-video-settings-from-compact-player-view-on-the-main-screen.webp" >}}
 {{< /cards >}}
 
 ## AirPlay 2
@@ -115,7 +115,7 @@ Evervideo มีอีควอไลเซอร์เสียงแบบเ�
 สำหรับการปรับแต่งภาพ Evervideo มีอีควอไลเซอร์วิดีโอแบบเฉพาะ — ปรับความสว่าง, คอนทราสต์, ความอิ่มตัวของสี และสีโทนแบบเรียลไทม์ระหว่างการเล่น เหมือน อีควอไลเซอร์เสียง preset วิดีโอกำหนดเองสามารถส่งออกและนำเข้าได้เพื่อแชร์หรือสำรองข้อมูล ใช้เพื่อทำให้ฉากมืดสว่างขึ้นในวันที่แดดออก, เพิ่มความอิ่มตัวบนเนื้อหาที่ซีดจาง หรือให้ความอบอุ่นกับสีโทนเย็น
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evervideo อีควอไลเซอร์วิดีโอ" image="/docs/guide/evervideo/img/evervideo-video-equalizer.webp" >}}
+  {{< ls-card title="" subtitle="Evervideo อีควอไลเซอร์วิดีโอ" image="/docs/guide/evervideo/img/evervideo-video-equalizer.webp" >}}
 {{< /cards >}}
 
 ## โหมดการปรับขนาดวิดีโอ
@@ -144,7 +144,7 @@ Evervideo มี VR / 360° viewport สำหรับไฟล์วิดี�
 แตะตัวควบคุมความเร็วบนแถบเครื่องมือโปรแกรมเล่นเพื่อเปลี่ยนความเร็วการเล่น — ชะลอสำหรับการวิเคราะห์ (0.25× หรือ 0.5×) หรือเร่งสำหรับบทแนะนำและการบรรยาย (1.25×, 1.5×, 2× และสูงสุด 3×) แตะไอคอนการกำหนดค่าที่มุมขวาบนของหน้าจอความเร็วเพื่อสลับเป็นโหมดแม่นยำพร้อมการปรับแต่งที่ละเอียดกว่า มีการแก้ไขระดับเสียงต่อแทร็กด้วย
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="ความเร็วการเล่น Evervideo บนแถบเครื่องมือหลัก" image="/docs/guide/evervideo/img/evervideo-media-player-playback-speed-on-main-toolbar.webp" >}}
+  {{< ls-card title="" subtitle="ความเร็วการเล่น Evervideo บนแถบเครื่องมือหลัก" image="/docs/guide/evervideo/img/evervideo-media-player-playback-speed-on-main-toolbar.webp" >}}
 {{< /cards >}}
 
 ## คิวโปรแกรมเล่น
@@ -152,7 +152,7 @@ Evervideo มี VR / 360° viewport สำหรับไฟล์วิดี�
 หากต้องการดูคิวโปรแกรมเล่น แตะปุ่มคิวบนโปรแกรมเล่น วิดีโอแต่ละรายการในคิวมีการดำเนินการเพิ่มเติม — แตะสามจุดเพื่อดู หากต้องการจัดเรียงวิดีโอในคิวใหม่ ใช้ตัวบ่งชี้การจัดเรียงใหม่ใกล้ชื่อและลากไปยังตำแหน่งใหม่
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evervideo คิวการเล่น" image="/docs/guide/evervideo/img/evervideo-playback-queue.webp" >}}
+  {{< ls-card title="" subtitle="Evervideo คิวการเล่น" image="/docs/guide/evervideo/img/evervideo-playback-queue.webp" >}}
 {{< /cards >}}
 
 ## ตัวจับเวลาการนอน
@@ -189,7 +189,7 @@ Evervideo มี VR / 360° viewport สำหรับไฟล์วิดี�
 - **ความช่วยเหลือ** — เปิดคำแนะนำ
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evervideo หน้าจอดำเนินการเพิ่มเติมของโปรแกรมเล่น" image="/docs/guide/evervideo/img/evervideo-media-player-more-actions.webp" >}}
+  {{< ls-card title="" subtitle="Evervideo หน้าจอดำเนินการเพิ่มเติมของโปรแกรมเล่น" image="/docs/guide/evervideo/img/evervideo-media-player-more-actions.webp" >}}
 {{< /cards >}}
 
 ## การตั้งค่าโปรแกรมเล่น

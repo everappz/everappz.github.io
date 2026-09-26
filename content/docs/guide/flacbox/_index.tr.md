@@ -71,20 +71,20 @@ Bu kılavuz, iPhone, iPad ve Mac'te Flacbox'ın her bölümünü anlatır — bu
 
 {{< cards cols="2">}}
 
-{{< card icon="map" link="/docs/guide/flacbox/flacbox-guide-navigation" title="Gezinme" subtitle="iPhone'da Sekme Çubuğu, iPad ve Mac'te Sol Menü, mini oynatıcı, widget'lar, CarPlay." >}}
+{{< ls-card icon="map" link="/docs/guide/flacbox/flacbox-guide-navigation" title="Gezinme" subtitle="iPhone'da Sekme Çubuğu, iPad ve Mac'te Sol Menü, mini oynatıcı, widget'lar, CarPlay." >}}
 
-{{< card icon="cloud" link="/docs/guide/flacbox/flacbox-guide-connections" title="Bağlantılar" subtitle="iCloud, Google Drive, Dropbox, OneDrive, NAS, WebDAV, SMB, DLNA." >}}
+{{< ls-card icon="cloud" link="/docs/guide/flacbox/flacbox-guide-connections" title="Bağlantılar" subtitle="iCloud, Google Drive, Dropbox, OneDrive, NAS, WebDAV, SMB, DLNA." >}}
 
-{{< card icon="collection" link="/docs/guide/flacbox/flacbox-guide-music-library" title="Müzik Kütüphanesi" subtitle="Şarkılar, albümler, sanatçılar, türler, besteciler — senkronizasyon, arama, meta veri düzenleme." >}}
+{{< ls-card icon="collection" link="/docs/guide/flacbox/flacbox-guide-music-library" title="Müzik Kütüphanesi" subtitle="Şarkılar, albümler, sanatçılar, türler, besteciler — senkronizasyon, arama, meta veri düzenleme." >}}
 
-{{< card icon="music-note" link="/docs/guide/flacbox/flacbox-guide-playlists" title="Çalma Listeleri" subtitle="Oluştur, M3U / M3U8 / CUE içe aktar, yeniden sırala ve M3U / CSV / TXT olarak dışa aktar." >}}
+{{< ls-card icon="music-note" link="/docs/guide/flacbox/flacbox-guide-playlists" title="Çalma Listeleri" subtitle="Oluştur, M3U / M3U8 / CUE içe aktar, yeniden sırala ve M3U / CSV / TXT olarak dışa aktar." >}}
 
-{{< card icon="folder" link="/docs/guide/flacbox/flacbox-guide-local-files" title="Yerel Dosyalar" subtitle="Çevrimdışı müzik, USB sürücüler, Wi-Fi Drive, dosya yöneticisi, çevrimdışı klasörler." >}}
+{{< ls-card icon="folder" link="/docs/guide/flacbox/flacbox-guide-local-files" title="Yerel Dosyalar" subtitle="Çevrimdışı müzik, USB sürücüler, Wi-Fi Drive, dosya yöneticisi, çevrimdışı klasörler." >}}
 
-{{< card icon="play" link="/docs/guide/flacbox/flacbox-guide-player" title="Ses Çalar" subtitle="Hi-res çıkış, ekolayzer, ses tonu, yer imleri, AirPlay, Chromecast, hız, uyku zamanlayıcısı." >}}
+{{< ls-card icon="play" link="/docs/guide/flacbox/flacbox-guide-player" title="Ses Çalar" subtitle="Hi-res çıkış, ekolayzer, ses tonu, yer imleri, AirPlay, Chromecast, hız, uyku zamanlayıcısı." >}}
 
-{{< card icon="adjustments" link="/docs/guide/flacbox/flacbox-guide-settings" title="Ayarlar" subtitle="Ses motoru, kütüphane, dosya yöneticisi, CarPlay, widget'lar, kişiselleştirme, dil, yedekleme." >}}
+{{< ls-card icon="adjustments" link="/docs/guide/flacbox/flacbox-guide-settings" title="Ayarlar" subtitle="Ses motoru, kütüphane, dosya yöneticisi, CarPlay, widget'lar, kişiselleştirme, dil, yedekleme." >}}
 
-{{< card icon="question-mark-circle" link="/docs/faq/flacbox" title="SSS" subtitle="Flacbox hakkındaki en sık sorulan 50 soruya yanıt bulun." >}}
+{{< ls-card icon="question-mark-circle" link="/docs/faq/flacbox" title="SSS" subtitle="Flacbox hakkındaki en sık sorulan 50 soruya yanıt bulun." >}}
 
 {{< /cards >}}

@@ -12,7 +12,7 @@ authors:
     image: "/images/about/artem-meleshko-founder-everappz.webp"
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 ## Mengapa Mengekspor Postingan Blog dari Wix?
 
@@ -78,33 +78,33 @@ bash fetch_blog_posts.sh
 Proyek ini open source.
 
 {{< cards cols="1" >}}
-  {{< card link="https://github.com/everappz/wix-blog-export" title="Proyek di GitHub" icon="github" tag="open source" >}}
+  {{< ls-card link="https://github.com/everappz/wix-blog-export" title="Proyek di GitHub" icon="github" tag="open source" >}}
 {{< /cards >}}
 
 ---
 
 ## Pertanyaan yang Sering Diajukan
 
-{{% details title="Mengapa tidak bisa menggunakan `requests` untuk meng-scrape postingan blog Wix?" closed="true" %}}
+{{% ls-details title="Mengapa tidak bisa menggunakan `requests` untuk meng-scrape postingan blog Wix?" closed="true" %}}
 Wix merender konten secara dinamis dengan JavaScript. Permintaan HTTP standar mengembalikan shell halaman kosong. Selenium menjalankan browser headless untuk mendapatkan HTML yang sepenuhnya dirender.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Apakah ini berfungsi dengan blog Wix mana pun?" closed="true" %}}
+{{% ls-details title="Apakah ini berfungsi dengan blog Wix mana pun?" closed="true" %}}
 Ya. Scraper membaca XML sitemap blog dan memproses setiap URL. Cukup perbarui variabel `SITEMAP_URL` di `parse_blog_sitemap.py`.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Model OpenAI mana yang digunakan?" closed="true" %}}
+{{% ls-details title="Model OpenAI mana yang digunakan?" closed="true" %}}
 Skrip menggunakan GPT-4o secara default. Ubah variabel `API_MODEL` di `generate_md.py` untuk model berbeda.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Bisakah menggunakan ini untuk migrasi dari Wix ke Hugo?" closed="true" %}}
+{{% ls-details title="Bisakah menggunakan ini untuk migrasi dari Wix ke Hugo?" closed="true" %}}
 Ya. Output-nya adalah Markdown standar dengan path gambar lokal, yang berfungsi langsung dengan Hugo, Jekyll, Astro, dan generator situs statis lainnya.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Berapa biaya API OpenAI untuk ini?" closed="true" %}}
+{{% ls-details title="Berapa biaya API OpenAI untuk ini?" closed="true" %}}
 Biaya tergantung pada jumlah dan panjang postingan blog Anda. Blog khas dengan 50 postingan panjang sedang menghabiskan beberapa dolar penggunaan API dengan GPT-4o.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Apakah alat ini open source?" closed="true" %}}
+{{% ls-details title="Apakah alat ini open source?" closed="true" %}}
 Ya. Kode sumber lengkap tersedia di [GitHub](https://github.com/everappz/wix-blog-export) di bawah lisensi open source.
-{{% /details %}}
+{{% /ls-details %}}

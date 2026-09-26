@@ -7,7 +7,7 @@ tags: ["evermusic", "підключення", "bluesound vault"]
 readingTime: 1
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **Коротко:** Підключіться до внутрішнього сховища Bluesound VAULT через SMB за допомогою Evermusic, Flacbox або Evertag. Знайдіть IP-адресу VAULT у додатку BluOS, введіть її як SMB-з'єднання з гостьовим доступом і почніть відтворювати або керувати своїми музичними файлами.
@@ -58,18 +58,18 @@ Bluesound VAULT має внутрішній жорсткий диск і пра�
 
 ## Поширені запитання
 
-{{% details title="Чи потрібні мені ім'я користувача та пароль для підключення до Bluesound VAULT?" closed="true" %}}
+{{% ls-details title="Чи потрібні мені ім'я користувача та пароль для підключення до Bluesound VAULT?" closed="true" %}}
 Ні. Bluesound VAULT підтримує гостьовий (анонімний) доступ через SMB. Залиште поля Логін та Пароль порожніми при налаштуванні з'єднання.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Чи можу я редагувати музичні теги на Bluesound VAULT?" closed="true" %}}
+{{% ls-details title="Чи можу я редагувати музичні теги на Bluesound VAULT?" closed="true" %}}
 Так. За допомогою Evertag ви можете редагувати теги метаданих (назва, виконавець, альбом тощо) аудіофайлів, збережених безпосередньо на внутрішньому жорсткому диску VAULT.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Які протоколи підтримує Bluesound VAULT?" closed="true" %}}
+{{% ls-details title="Які протоколи підтримує Bluesound VAULT?" closed="true" %}}
 Bluesound VAULT надає доступ до свого внутрішнього сховища через SMB (Server Message Block). Evermusic, Flacbox та Evertag підтримують SMB-з'єднання, що робить підключення простим.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Чи можу я транслювати музику з VAULT без копіювання файлів на iPhone?" closed="true" %}}
+{{% ls-details title="Чи можу я транслювати музику з VAULT без копіювання файлів на iPhone?" closed="true" %}}
 Так. Після підключення через SMB ви можете транслювати аудіофайли безпосередньо з внутрішнього диска VAULT без копіювання їх на ваш пристрій.
-{{% /details %}}
+{{% /ls-details %}}

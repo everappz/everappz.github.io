@@ -7,7 +7,7 @@ tags: ["mp3", "redigerare", "iPhone", "taggar", "metadata", "id3"]
 readingTime: 2
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **Sammanfattning:** Använd den inbyggda taggredigeraren i Evermusic eller Flacbox för att redigera ID3-taggar på iPhone eller Mac -- för både moln- och lokala filer. Behöver du massredigering eller 120+ taggfält? Använd [Evertag](https://apps.apple.com/app/apple-store/id1450763230?pt=95781850&ct=everappzcom&mt=8) istället.
@@ -21,8 +21,8 @@ När du importerar låtar till ditt musikbibliotek grupperas de intelligent efte
 Medan många skrivbordsappar erbjuder metadataredigering, tar Evermusic och Flacbox enkelheten till nästa nivå genom att inkludera en ID3-taggredigerare. Nu kan du använda en enda app för att bygga ditt musikbibliotek, njuta av dina spår och fixa ljudtaggar.
 
 {{< cards cols="2">}}
-{{< card link="https://apps.apple.com/app/apple-store/id885367198?pt=95781850&ct=everappzcom&mt=8" title="Ladda ner Evermusic" icon="download" tag="Free" >}}
-{{< card link="https://apps.apple.com/app/apple-store/id1097564256?pt=95781850&ct=everappzcom&mt=8" title="Ladda ner Flacbox" icon="download" tag="Free" >}}
+{{< ls-card link="https://apps.apple.com/app/apple-store/id885367198?pt=95781850&ct=everappzcom&mt=8" title="Ladda ner Evermusic" icon="download" tag="Free" >}}
+{{< ls-card link="https://apps.apple.com/app/apple-store/id1097564256?pt=95781850&ct=everappzcom&mt=8" title="Ladda ner Flacbox" icon="download" tag="Free" >}}
 {{< /cards >}}
 
 ## Professionell redigerare
@@ -30,7 +30,7 @@ Medan många skrivbordsappar erbjuder metadataredigering, tar Evermusic och Flac
 Men innan du börjar, kolla in appen **Evertag** — den stöder **120+ ljudtaggar**, **30+ ljudformat** och erbjuder kraftfull **massredigering**. Om du letar efter ett fullständigt tagghanteringsverktyg är Evertag rätt val. Om du bara behöver en **enkel taggredigerare** kan du fortsätta med denna guide.
 
 {{< cards >}}
-{{< card link="https://apps.apple.com/app/apple-store/id1450763230?pt=95781850&ct=everappzcom&mt=8" title="Ladda ner Evertag" icon="download" tag="Free" >}}
+{{< ls-card link="https://apps.apple.com/app/apple-store/id1450763230?pt=95781850&ct=everappzcom&mt=8" title="Ladda ner Evertag" icon="download" tag="Free" >}}
 {{< /cards >}}
 
 
@@ -38,21 +38,21 @@ Men innan du börjar, kolla in appen **Evertag** — den stöder **120+ ljudtagg
 Länka ditt föredragna molnkonto i appen.
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Anslut molnserver" image="/docs/howto/how-to-edit-id3-tags-on-iphone/connect_cloud_server.webp" >}}
+{{< ls-card title="" subtitle="Anslut molnserver" image="/docs/howto/how-to-edit-id3-tags-on-iphone/connect_cloud_server.webp" >}}
 {{< /cards >}}
 
 ## Navigera till dina ljudfiler  
 Öppna mappen som innehåller dina ljudfiler i det anslutna molnkontot.
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Molnmappar" image="/docs/howto/how-to-edit-id3-tags-on-iphone/cloud_server_folders.webp" >}}
+{{< ls-card title="" subtitle="Molnmappar" image="/docs/howto/how-to-edit-id3-tags-on-iphone/cloud_server_folders.webp" >}}
 {{< /cards >}}
 
 ## Öppna filalternativ  
 Tryck på knappen "Mer" ('...') bredvid filen du vill redigera.
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Fler åtgärder" image="/docs/howto/how-to-edit-id3-tags-on-iphone/cloud_server_audio_more_actions.webp" >}}
+{{< ls-card title="" subtitle="Fler åtgärder" image="/docs/howto/how-to-edit-id3-tags-on-iphone/cloud_server_audio_more_actions.webp" >}}
 {{< /cards >}}
 
 ## Välj "Redigera ljudtaggar"  
@@ -70,7 +70,7 @@ På skärmen "Taggredigerare" ändrar du metadatafält som Titel, Artist, Album,
 När du är klar med redigeringen trycker du på knappen "Spara" för att spara dina ändringar.
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Taggredigerare" image="/docs/howto/how-to-edit-id3-tags-on-iphone/tags_editor.webp" >}}
+{{< ls-card title="" subtitle="Taggredigerare" image="/docs/howto/how-to-edit-id3-tags-on-iphone/tags_editor.webp" >}}
 {{< /cards >}}
 
 ## Smart autokomplettering  
@@ -88,7 +88,7 @@ Du kan redigera ljudtaggar för filer som lagras **direkt på din enhet** — ut
 - **Gå till avsnittet "Lokala filer"**, scrolla sedan ner till **"Filer på denna enhet."**
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Filer på denna enhet" image="/docs/howto/how-to-edit-id3-tags-on-iphone/local_files.webp" >}}
+{{< ls-card title="" subtitle="Filer på denna enhet" image="/docs/howto/how-to-edit-id3-tags-on-iphone/local_files.webp" >}}
 {{< /cards >}}
 
 - Tryck på **"Anslut en mapp"**.
@@ -96,25 +96,25 @@ Du kan redigera ljudtaggar för filer som lagras **direkt på din enhet** — ut
 - I mappväljaren väljer du katalogen du vill komma åt och trycker på **"Öppna"** för att bekräfta.
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Anslut extern mapp" image="/docs/howto/how-to-edit-id3-tags-on-iphone/connect_external_folder.webp" >}}
+{{< ls-card title="" subtitle="Anslut extern mapp" image="/docs/howto/how-to-edit-id3-tags-on-iphone/connect_external_folder.webp" >}}
 {{< /cards >}}
 
 - Efter att ha lagt till mappen trycker du på den för att visa filerna inuti.
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Extern mappinnehåll" image="/docs/howto/how-to-edit-id3-tags-on-iphone/connected_external_folder.webp" >}}
+{{< ls-card title="" subtitle="Extern mappinnehåll" image="/docs/howto/how-to-edit-id3-tags-on-iphone/connected_external_folder.webp" >}}
 {{< /cards >}}
 
 - Precis som med molnfiler trycker du på knappen **"Fler åtgärder"** bredvid en ljudfil och väljer **"Redigera ljudtaggar".**
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Fler åtgärder - Lokal fil" image="/docs/howto/how-to-edit-id3-tags-on-iphone/more_actions_local_file.webp" >}}
+{{< ls-card title="" subtitle="Fler åtgärder - Lokal fil" image="/docs/howto/how-to-edit-id3-tags-on-iphone/more_actions_local_file.webp" >}}
 {{< /cards >}}
 
 - Taggredigeraren öppnas. Gör dina ändringar och tryck på **"Spara"**. Klart! Dina redigeringar tillämpas direkt på filen — inget behov av att kopiera eller flytta.
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Taggredigerare - Lokal fil" image="/docs/howto/how-to-edit-id3-tags-on-iphone/tag_editor_local_file.webp" >}}
+{{< ls-card title="" subtitle="Taggredigerare - Lokal fil" image="/docs/howto/how-to-edit-id3-tags-on-iphone/tag_editor_local_file.webp" >}}
 {{< /cards >}}
 
 ## Redigera albumomslag
@@ -126,7 +126,7 @@ För att ändra ett albumomslag:
 3. Välj en bild att använda som omslag.
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Välj bild" image="/docs/howto/how-to-edit-id3-tags-on-iphone/tags_editor_choose_image.webp" >}}
+{{< ls-card title="" subtitle="Välj bild" image="/docs/howto/how-to-edit-id3-tags-on-iphone/tags_editor_choose_image.webp" >}}
 {{< /cards >}}
 
 ## Fler åtgärder i taggredigeraren
@@ -134,7 +134,7 @@ För att ändra ett albumomslag:
 Extra redigeringsalternativ finns tillgängliga via verktygsfältet under omslagsvisningen.
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Meny för fler åtgärder" image="/docs/howto/how-to-edit-id3-tags-on-iphone/tags_edito_more_actions.webp" >}}
+{{< ls-card title="" subtitle="Meny för fler åtgärder" image="/docs/howto/how-to-edit-id3-tags-on-iphone/tags_edito_more_actions.webp" >}}
 {{< /cards >}}
 
 ### Automatisk sökning av ljudtaggar
@@ -195,22 +195,22 @@ Förenkla din musikbibliotekshantering och taggredigering med Evermusic och Flac
 
 ## Vanliga frågor
 
-{{% details title="Vilka ljudformat kan jag redigera taggar för?" closed="true" %}}
+{{% ls-details title="Vilka ljudformat kan jag redigera taggar för?" closed="true" %}}
 Evermusic och Flacbox stöder taggredigering för MP3, FLAC, AAC, OGG och andra vanliga ljudformat. Evertag stöder 30+ format inklusive WAV, AIFF, WMA och APE.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Kan jag redigera taggar för filer lagrade i molntjänster?" closed="true" %}}
+{{% ls-details title="Kan jag redigera taggar för filer lagrade i molntjänster?" closed="true" %}}
 Ja. Anslut ditt Dropbox-, Google Drive-, OneDrive- eller annat molnkonto. Appen laddar ner filen, låter dig redigera taggar och laddar automatiskt upp den ändrade filen tillbaka till molnet.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Vad är skillnaden mellan Evermusic/Flacbox och Evertag?" closed="true" %}}
+{{% ls-details title="Vad är skillnaden mellan Evermusic/Flacbox och Evertag?" closed="true" %}}
 Evermusic och Flacbox är musikspelare med en inbyggd grundläggande taggredigerare. Evertag är en dedikerad taggredigerare som stöder 120+ ljudtaggar, massredigering och 30+ format -- idealisk för hantering av stora bibliotek.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Kräver autosökfunktionen en internetanslutning?" closed="true" %}}
+{{% ls-details title="Kräver autosökfunktionen en internetanslutning?" closed="true" %}}
 Ja. Funktionen Automatisk sökning av ljudtaggar frågar MusicBrainz onlinedatabas för att hitta och fylla i metadata. En aktiv internetanslutning krävs för denna funktion.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Kommer redigering av taggar att ändra min ljudkvalitet?" closed="true" %}}
+{{% ls-details title="Kommer redigering av taggar att ändra min ljudkvalitet?" closed="true" %}}
 Nej. Taggredigering ändrar bara metadata som är inbäddade i filen. Själva ljuddatan förblir orörd — ingen omkodning sker.
-{{% /details %}}
+{{% /ls-details %}}

@@ -12,7 +12,7 @@ authors:
     image: "/images/about/artem-meleshko-founder-everappz.webp"
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 **ملخص:** تجاوز Evermusic 11 مليون تحميل حول العالم. تشمل الميزات الرئيسية معادل صوت ذو 10 نطاقات وتشغيل بدون اتصال وبث من iCloud Drive ودعم أكثر من 10 خدمات سحابية ومزامنة بين الأجهزة ومحرر علامات ID3 مدمج.
 
@@ -70,22 +70,22 @@ authors:
 
 ## الأسئلة الشائعة
 
-{{% details title="ما هي صيغ الصوت التي يدعمها Evermusic؟" closed="true" %}}
+{{% ls-details title="ما هي صيغ الصوت التي يدعمها Evermusic؟" closed="true" %}}
 يشغل Evermusic MP3 وFLAC وWAV وAAC وM4A وAIFF وOGG وWMA وصيغ صوتية شائعة أخرى.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="هل يمكنني استخدام Evermusic بدون اتصال بالإنترنت؟" closed="true" %}}
+{{% ls-details title="هل يمكنني استخدام Evermusic بدون اتصال بالإنترنت؟" closed="true" %}}
 نعم. حمّل المسارات من تخزينك السحابي للتشغيل بدون اتصال. بمجرد التحميل، لا حاجة للإنترنت.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="هل يعمل Evermusic على Mac؟" closed="true" %}}
+{{% ls-details title="هل يعمل Evermusic على Mac؟" closed="true" %}}
 نعم. Evermusic متاح على كل من iOS (iPhone/iPad) وmacOS، مع مزامنة المكتبة عبر جميع الأجهزة.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="هل Evermusic مجاني للتحميل؟" closed="true" %}}
+{{% ls-details title="هل Evermusic مجاني للتحميل؟" closed="true" %}}
 نعم. Evermusic مجاني للتحميل مع ميزات متميزة اختيارية متاحة من خلال الشراء داخل التطبيق.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="كيف يعمل بث iCloud Drive في Evermusic؟" closed="true" %}}
+{{% ls-details title="كيف يعمل بث iCloud Drive في Evermusic؟" closed="true" %}}
 اربط حساب iCloud Drive الخاص بك في التطبيق، وتصفح ملفات الموسيقى، واضغط للتشغيل. يتم بث المسارات مباشرة دون الحاجة للتحميل أولاً.
-{{% /details %}}
+{{% /ls-details %}}

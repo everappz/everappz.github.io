@@ -7,7 +7,7 @@ tags: ["音樂", "音訊", "播放器", "離線", "模式", "下載", "資料夾
 keywords: ["iPhone 離線音樂", "雲端音樂同步", "Evermusic 離線", "Flacbox 同步音樂", "無網路播放音樂", "從雲端下載音訊", "iOS 本機檔案播放"]
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **概要：** Evermusic 和 Flacbox 允許您從雲端儲存（Google Drive、Dropbox、OneDrive 等）下載音樂到 iPhone 或 iPad 以供離線播放。您可以使用三種方法：直接下載、帶自動同步的離線模式或音訊播放器快取。本指南逐步介紹了所有三種方法。
@@ -140,26 +140,26 @@ keywords: ["iPhone 離線音樂", "雲端音樂同步", "Evermusic 離線", "Fla
 
 ## 常見問題
 
-{{% details title="Evermusic 和 Flacbox 支援哪些雲端服務？" closed="true" %}}
+{{% ls-details title="Evermusic 和 Flacbox 支援哪些雲端服務？" closed="true" %}}
 兩款應用程式都支援 Google Drive、Dropbox、OneDrive、Box、MEGA、Yandex.Disk 和其他主要雲端儲存提供商。您可以同時連接多個服務。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="我可以自動將音樂從雲端儲存同步到 iPhone 嗎？" closed="true" %}}
+{{% ls-details title="我可以自動將音樂從雲端儲存同步到 iPhone 嗎？" closed="true" %}}
 可以。為任何資料夾、播放列表、專輯或藝人啟用離線模式。應用程式以可配置的間隔（預設：每天一次）執行從雲端到裝置的單向同步。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="離線模式會佔用裝置很多儲存空間嗎？" closed="true" %}}
+{{% ls-details title="離線模式會佔用裝置很多儲存空間嗎？" closed="true" %}}
 儲存使用量取決於您的音樂合集大小和檔案格式。您可以透過選擇要同步的特定資料夾、設定快取大小限制以及在應用程式設定中監控儲存來控制此問題。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="離線播放支援哪些音訊格式？" closed="true" %}}
+{{% ls-details title="離線播放支援哪些音訊格式？" closed="true" %}}
 Evermusic 和 Flacbox 支援 MP3、FLAC、AAC、ALAC、WAV、AIFF、OGG、WMA 和許多其他格式。Flacbox 針對 FLAC 和 ALAC 等無損格式進行了最佳化。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="如果我關閉應用程式，離線音樂會繼續播放嗎？" closed="true" %}}
+{{% ls-details title="如果我關閉應用程式，離線音樂會繼續播放嗎？" closed="true" %}}
 會的。下載的檔案儲存在裝置本機，無論網路連線如何，都可以透過應用程式的音訊播放器播放。完全支援背景播放。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="如何釋放離線音樂佔用的空間？" closed="true" %}}
+{{% ls-details title="如何釋放離線音樂佔用的空間？" closed="true" %}}
 在設定 > 檔案管理員 > 同步離線資料夾中停用特定資料夾的離線模式。這將從您的裝置中刪除本機副本。您還可以清除音訊播放器快取或手動刪除已下載的檔案。
-{{% /details %}}
+{{% /ls-details %}}

@@ -7,14 +7,14 @@ keywords: ["iTunes 없이 음악 전송", "wifi drive iphone", "iPhone에 무선
 readingTime: 2
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **요약:** Evermusic, Flacbox 또는 Evertag의 Wi-Fi Drive를 사용하여 컴퓨터에서 iPhone 또는 iPad로 음악을 전송하세요. iTunes가 필요 없습니다. 두 기기 모두 동일한 Wi-Fi 네트워크에 연결되어 있어야 합니다. 웹 브라우저 또는 WebDAV(Mac Finder / Windows 파일 탐색기)를 통해 전송하세요.
 
 [**TECHGUYPH**](https://www.youtube.com/channel/UCgpf09gGFE_c_3pPTtTpnzg)의 동영상 튜토리얼을 시청하거나 아래 텍스트 버전을 읽을 수 있습니다.
 <br><br>
-{{< youtubecard id="CqdqrQ0ge70" title="Can We Wirelessly Put Offline Music on iPhones?" >}}
+{{< ls-youtubecard id="CqdqrQ0ge70" title="Can We Wirelessly Put Offline Music on iPhones?" >}}
 
 Wi-Fi Drive는 iTunes 없이 컴퓨터에서 iPhone 또는 iPad로 음악 컬렉션을 원활하게 전송하기 위한 최고의 솔루션입니다. 이 간편한 방법을 사용하면 로컬 Wi-Fi 연결을 통해 여러 오디오 파일과 전체 폴더까지 쉽게 다운로드하거나 업로드할 수 있습니다. 이 기능이 완벽하게 작동하려면 컴퓨터와 iOS 기기가 동일한 Wi-Fi 네트워크에 연결되어 있어야 합니다.
 
@@ -84,22 +84,22 @@ Wi-Fi Drive를 사용하면 iTunes로 고생하던 시대는 끝났습니다. �
 
 ## 자주 묻는 질문
 
-{{% details title="Wi-Fi Drive로 어떤 오디오 형식을 전송할 수 있나요?" closed="true" %}}
+{{% ls-details title="Wi-Fi Drive로 어떤 오디오 형식을 전송할 수 있나요?" closed="true" %}}
 Wi-Fi Drive는 모든 파일 유형을 전송합니다. Evermusic과 Flacbox는 MP3, FLAC, AAC, WAV, AIFF, OGG, WMA 및 기타 많은 오디오 형식의 재생을 지원합니다.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="iPhone에 음악을 넣으려면 iTunes가 필요한가요?" closed="true" %}}
+{{% ls-details title="iPhone에 음악을 넣으려면 iTunes가 필요한가요?" closed="true" %}}
 아니요. Wi-Fi Drive는 로컬 Wi-Fi 네트워크를 통해 직접 음악을 전송합니다. iTunes는 필요하지 않습니다.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="한 번에 전체 음악 폴더를 전송할 수 있나요?" closed="true" %}}
+{{% ls-details title="한 번에 전체 음악 폴더를 전송할 수 있나요?" closed="true" %}}
 예. 웹 브라우저 방법은 하위 폴더를 포함한 전체 폴더의 업로드를 지원합니다.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="음악 전송은 안전한가요?" closed="true" %}}
+{{% ls-details title="음악 전송은 안전한가요?" closed="true" %}}
 Wi-Fi Drive는 로컬 네트워크에서만 실행됩니다. 추가 보안을 위해 사용자 이름과 비밀번호를 설정할 수도 있습니다.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="어떤 앱이 음악용 Wi-Fi Drive를 지원하나요?" closed="true" %}}
+{{% ls-details title="어떤 앱이 음악용 Wi-Fi Drive를 지원하나요?" closed="true" %}}
 Evermusic, Flacbox 및 Evertag 모두 컴퓨터에서 오디오 파일을 전송하기 위한 Wi-Fi Drive를 포함하고 있습니다.
-{{% /details %}}
+{{% /ls-details %}}

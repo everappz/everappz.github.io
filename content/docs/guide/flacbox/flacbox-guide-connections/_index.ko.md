@@ -19,7 +19,7 @@ readingTime: 12
 이 화면에서는 음악이 저장된 모든 소스를 연결할 수 있습니다. Dropbox, Google Drive, iCloud Drive, OneDrive, MEGA, Box, pCloud, Yandex Disk, Synology Drive 등 인기 있는 클라우드 서비스와 표준 프로토콜을 통해 Mac, PC 또는 NAS를 통합할 수 있습니다. 컬렉션이 Dropbox와 같은 스트리밍 친화적인 서비스에 있든, Synology, QNAP, Buffalo, Apple Time Capsule, WD My Cloud Home과 같은 개인 NAS에 있든, Flacbox는 단일 화면에서 모두 연결합니다.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox 연결하기 화면" image="/docs/guide/flacbox/img/connections-main.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox 연결하기 화면" image="/docs/guide/flacbox/img/connections-main.webp" >}}
 {{< /cards >}}
 
 ## 클라우드 스토리지 연결
@@ -30,7 +30,7 @@ readingTime: 12
 - 클라우드 제공업체가 제공하는 공식 인증 페이지에서 자격 증명을 입력한 다음 **완료됨**을 탭합니다.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox 클라우드 스토리지 서비스 추가" image="/docs/guide/flacbox/img/add-cloud-storage.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox 클라우드 스토리지 서비스 추가" image="/docs/guide/flacbox/img/add-cloud-storage.webp" >}}
 {{< /cards >}}
 
 문제가 발생하면 인터넷 연결과 로그인 / 비밀번호를 확인하세요. 앱의 프리미엄 버전에서는 무제한 서비스를 추가할 수 있으며, 무료 버전은 최대 3개까지 지원합니다.
@@ -134,7 +134,7 @@ Flacbox는 Subsonic API를 지원하므로 **Subsonic** 자체, **Navidrome** �
 이것은 IP 주소를 수동으로 입력하지 않고 홈 네트워크에서 SMB, WebDAV, DLNA 공유를 검색하는 가장 빠른 방법입니다.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox 로컬 네트워크의 사용 가능한 기기" image="/docs/guide/flacbox/img/available-devies.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox 로컬 네트워크의 사용 가능한 기기" image="/docs/guide/flacbox/img/available-devies.webp" >}}
 {{< /cards >}}
 
 ## Wi-Fi Drive
@@ -149,7 +149,7 @@ Wi-Fi Drive는 모든 데스크톱 브라우저를 통해 컴퓨터에서 iOS �
 - **Wi-Fi Drive 시작**을 탭하여 Wi-Fi Drive를 활성화합니다.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox Wi-Fi Drive" image="/docs/guide/flacbox/img/wifi-drive.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox Wi-Fi Drive" image="/docs/guide/flacbox/img/wifi-drive.webp" >}}
 {{< /cards >}}
 
 ### 컴퓨터에서 Wi-Fi Drive 액세스
@@ -234,7 +234,7 @@ iPhone에 USB 플래시 드라이브를 연결하고 그 안에 있는 음악을
 - **삭제하기** — 클라우드 스토리지에서 파일을 영구적으로 제거합니다. **이 작업은 취소할 수 없습니다.**
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox 연결된 클라우드 스토리지의 파일에 대한 추가 작업" image="/docs/guide/flacbox/img/more-actions-for-file-in-connected-cloud-storage.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox 연결된 클라우드 스토리지의 파일에 대한 추가 작업" image="/docs/guide/flacbox/img/more-actions-for-file-in-connected-cloud-storage.webp" >}}
 {{< /cards >}}
 
 작업 목록이 사용 가능한 화면 공간을 초과하면 작업 메뉴 내에서 아래로 스크롤하여 추가 옵션에 액세스하세요.
@@ -261,7 +261,7 @@ iPhone에 USB 플래시 드라이브를 연결하고 그 안에 있는 음악을
 빠른 액세스 섹션은 화면 상단에 있습니다. 연결된 클라우드 서비스에서 즐겨찾기 및 최근에 열린 파일에 빠르게 액세스할 수 있습니다. 클라우드에서 파일이나 폴더를 열 때마다 최근에 열린 목록에 추가됩니다. 이 목록을 지우려면 최근 항목을 열고 추가 작업 버튼을 탭한 다음 목록 삭제를 선택합니다.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox 온라인 링크 및 빠른 액세스" image="/docs/guide/flacbox/img/online-links.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox 온라인 링크 및 빠른 액세스" image="/docs/guide/flacbox/img/online-links.webp" >}}
 {{< /cards >}}
 
 ## 기타 서비스
@@ -269,5 +269,5 @@ iPhone에 USB 플래시 드라이브를 연결하고 그 안에 있는 음악을
 이 섹션은 경험을 향상시키는 추가 기능을 표시합니다. 현재 앱은 **Last.fm** 스크로블링을 지원합니다 — 연결되면 재생 통계가 자동으로 Last.fm 계정으로 전송됩니다. 자세한 설정 지침은 [여기](/docs/howto/how-to-scrobble-your-music-history-from-evermusic-or-flacbox-to-last-fm)에서 확인할 수 있습니다.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox Last.fm 연결" image="/docs/guide/flacbox/img/last-fm-connect.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox Last.fm 연결" image="/docs/guide/flacbox/img/last-fm-connect.webp" >}}
 {{< /cards >}}

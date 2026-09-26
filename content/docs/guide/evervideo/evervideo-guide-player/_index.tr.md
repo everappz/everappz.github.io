@@ -31,7 +31,7 @@ Tam ekran oynatıcıya kompakt oynatıcı çubuğundan ulaşabilirsiniz. iPhone'
 Kitaplığınıza, dosya yöneticinize veya ayarlarınıza göz atarken kompakt oynatıcı görünür kalır; böylece bir sonrakini ararken asla videonuzu kaybetmezsiniz.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evervideo tam ekran medya oynatıcı" image="/docs/guide/evervideo/img/evervideo-media-player-fullscreen.webp" >}}
+  {{< ls-card title="" subtitle="Evervideo tam ekran medya oynatıcı" image="/docs/guide/evervideo/img/evervideo-media-player-fullscreen.webp" >}}
 {{< /cards >}}
 
 ## Desteklenen Video ve Ses Formatları
@@ -72,7 +72,7 @@ PiP, Evervideo'nun oynadığı her video formatıyla çalışır; bulut akışl�
 Kompakt oynatıcı, kütüphaneye, dosya yöneticinize veya ayarlara göz atarken uygulamadaki her ekranın üst kısmında görünür kalan kalıcı bir mini oynatıcıdır. Tam ekran oynatıcıya genişletmek için dokunun; tekrar daraltmak için aşağı kaydırın.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evervideo ana ekranda kompakt oynatıcı görünümünden video ayarları" image="/docs/guide/evervideo/img/evervideo-video-settings-from-compact-player-view-on-the-main-screen.webp" >}}
+  {{< ls-card title="" subtitle="Evervideo ana ekranda kompakt oynatıcı görünümünden video ayarları" image="/docs/guide/evervideo/img/evervideo-video-settings-from-compact-player-view-on-the-main-screen.webp" >}}
 {{< /cards >}}
 
 ## AirPlay 2
@@ -115,7 +115,7 @@ Evervideo, video ses parçalarını kulaklıklarınız, hoparlörleriniz veya hi
 Görüntüyü ayarlamak için Evervideo, özel bir video ekolayzer sağlar — oynatma sırasında gerçek zamanlı olarak parlaklık, kontrast, doygunluk ve tonu ayarlayın. Ses ekolayzerı gibi, özel video ön ayarları da paylaşım veya yedekleme için dışa ve içe aktarılabilir. Güneşli bir günde karanlık bir sahneyi aydınlatmak, soluk içerikteki doygunluğu artırmak veya soğuk renk kaymasını ısıtmak için kullanın.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evervideo video ekolayzer" image="/docs/guide/evervideo/img/evervideo-video-equalizer.webp" >}}
+  {{< ls-card title="" subtitle="Evervideo video ekolayzer" image="/docs/guide/evervideo/img/evervideo-video-equalizer.webp" >}}
 {{< /cards >}}
 
 ## Video Ölçekleme Modu
@@ -144,7 +144,7 @@ Evervideo, küresel video dosyaları için bir VR / 360° görüntü alanı içe
 Oynatma hızını değiştirmek için oynatıcı araç çubuğundaki Hız kontrolüne dokunun — analiz için yavaşlatın (0,25× veya 0,5×) veya öğreticiler ve dersler için hızlandırın (1,25×, 1,5×, 2× ve 3×'e kadar). Daha ince ayarlamalar için hassas moda geçmek üzere Hız ekranının sağ üst köşesindeki yapılandırma simgesine dokunun. Parça başına perde düzeltmesi de mevcuttur.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evervideo ana araç çubuğundaki oynatma hızı" image="/docs/guide/evervideo/img/evervideo-media-player-playback-speed-on-main-toolbar.webp" >}}
+  {{< ls-card title="" subtitle="Evervideo ana araç çubuğundaki oynatma hızı" image="/docs/guide/evervideo/img/evervideo-media-player-playback-speed-on-main-toolbar.webp" >}}
 {{< /cards >}}
 
 ## Oynatıcı Kuyruğu
@@ -152,7 +152,7 @@ Oynatma hızını değiştirmek için oynatıcı araç çubuğundaki Hız kontro
 Oynatıcı kuyruğunuzu görmek için oynatıcıdaki kuyruk düğmesine dokunun. Kuyruktaki her videonun daha fazla eylemi vardır — bunları görüntülemek için üç noktaya dokunun. Kuyruktaki bir videoyu yeniden sıralamak için başlığın yanındaki yeniden sıralama göstergesini kullanın ve yeni bir konuma sürükleyin.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evervideo oynatma kuyruğu" image="/docs/guide/evervideo/img/evervideo-playback-queue.webp" >}}
+  {{< ls-card title="" subtitle="Evervideo oynatma kuyruğu" image="/docs/guide/evervideo/img/evervideo-playback-queue.webp" >}}
 {{< /cards >}}
 
 ## Uyku Zamanlayıcısı
@@ -189,7 +189,7 @@ Ek işlevlere erişmek için oynatıcıdaki **Daha fazla eylem "..."** düğmesi
 - **Yardım** — rehberlik açın.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evervideo oynatıcı Daha Fazla Eylem ekranı" image="/docs/guide/evervideo/img/evervideo-media-player-more-actions.webp" >}}
+  {{< ls-card title="" subtitle="Evervideo oynatıcı Daha Fazla Eylem ekranı" image="/docs/guide/evervideo/img/evervideo-media-player-more-actions.webp" >}}
 {{< /cards >}}
 
 ## Oynatıcı Ayarları

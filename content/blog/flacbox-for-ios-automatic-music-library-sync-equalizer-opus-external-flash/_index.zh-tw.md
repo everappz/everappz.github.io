@@ -12,7 +12,7 @@ authors:
     image: "/images/about/artem-meleshko-founder-everappz.webp"
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 **Flacbox 1.6** 為 iPhone 和 iPad 的 FLAC 音樂播放器帶來了重大新功能。
 
@@ -68,18 +68,18 @@ Flacbox 1.6 現已在 App Store 上提供。[下載 Flacbox](https://itunes.appl
 
 ## 常見問題
 
-{{% details title="Flacbox 支援哪些音訊格式？" closed="true" %}}
+{{% ls-details title="Flacbox 支援哪些音訊格式？" closed="true" %}}
 Flacbox 支援 FLAC、ALAC、MP3、AAC、OGG、OPUS、WAV、AIFF、DSD 和其他熱門音訊格式。所有格式均可使用內建等化器。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="我可以在 iPhone 上從 SD 卡播放音樂嗎？" closed="true" %}}
+{{% ls-details title="我可以在 iPhone 上從 SD 卡播放音樂嗎？" closed="true" %}}
 可以。使用 Lightning to SD Card Camera Reader Adapter 連接 SD 或 microSD 卡。Flacbox 自動偵測卡片，讓您直接從外部儲存裝置瀏覽和播放檔案。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Flacbox 能自動與雲端儲存同步嗎？" closed="true" %}}
+{{% ls-details title="Flacbox 能自動與雲端儲存同步嗎？" closed="true" %}}
 能。從 1.6 版本開始，Flacbox 可以自動從雲端資料夾同步您的音樂庫。在設定中啟用自動同步並選擇要監控的資料夾。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Flacbox 等化器可以自訂嗎？" closed="true" %}}
+{{% ls-details title="Flacbox 等化器可以自訂嗎？" closed="true" %}}
 可以。10 段等化器允許您在 -12 dB 和 +12 dB 之間調整各個頻率級別。您可以使用內建預設或儲存自己的自訂設定。
-{{% /details %}}
+{{% /ls-details %}}

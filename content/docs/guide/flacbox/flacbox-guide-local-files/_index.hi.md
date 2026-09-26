@@ -19,7 +19,7 @@ Local Files सेक्शन एप्लिकेशन के Documents फ�
 यह बिल्ट-इन फ़ाइल मैनेजर आपको फाइलें संपादित करने (नाम बदलना, मूव, कॉपी, अपलोड, डिलीट), ट्रांसफर मॉनिटर करने, और ऐप में ऑडियो फाइलें इम्पोर्ट करने के कई तरीके प्रदान करता है — क्लाउड से सीधे डाउनलोड, ऑफलाइन-मोड सिंक, USB फ्लैश ड्राइव, Wi-Fi Drive, और Finder File Sharing।
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox Local Files Screen" image="/docs/guide/flacbox/img/local-files.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox Local Files Screen" image="/docs/guide/flacbox/img/local-files.webp" >}}
 {{< /cards >}}
 
 ## क्लाउड स्टोरेज से फाइलें डाउनलोड करें
@@ -102,7 +102,7 @@ Local Files स्क्रीन दो अलग-अलग सेक्शन�
 आपके डिवाइस पर लेकिन अलग-अलग एप्लिकेशनों में स्थित फाइलें दिखाता है। आप सिस्टम फ़ाइल पिकर का उपयोग करके उन्हें इस एप्लिकेशन में इम्पोर्ट कर सकते हैं। पिकर सक्रिय करने के लिए, फाइलें चुनने के लिए **Open Files…** या फ़ोल्डर चुनने के लिए **Open Folders…** चुनें। अपने iPhone या Mac पर संग्रहीत स्थानीय म्यूज़िक इम्पोर्ट करने के विस्तृत निर्देश [यहाँ](/docs/howto/how-to-play-local-music-stored-on-your-iphone-or-mac) उपलब्ध हैं।
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox Connected Device Folders" image="/docs/guide/flacbox/img/connected-device-folders.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox Connected Device Folders" image="/docs/guide/flacbox/img/connected-device-folders.webp" >}}
 {{< /cards >}}
 
 आप अपने डिवाइस पर स्थित एक फ़ोल्डर भी कनेक्ट कर सकते हैं और उसकी सामग्री तक त्वरित पहुंच प्राप्त कर सकते हैं। **Connect a Folder** मेनू आइटम का उपयोग करें और अपने डिवाइस पर स्थित एक फ़ोल्डर चुनें। **पूर्ण करना** टैप करें, और ऐप उस फ़ोल्डर का रीड / राइट एक्सेस के साथ लिंक बनाता है, जिससे आप इस ऐप से सीधे फाइलें प्रबंधित कर सकते हैं। अपने डिवाइस पर स्थित फ़ोल्डर डिस्कनेक्ट करने के लिए, **More Actions** बटन टैप करें और **Disconnect** चुनें।
@@ -137,7 +137,7 @@ Local Files स्क्रीन दो अलग-अलग सेक्शन�
 - **हटाना** — चयनित फ़ाइल या फ़ोल्डर डिवाइस से हटाएं। **यह क्रिया अपरिवर्तनीय है।**
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox Local Files Selection Mode" image="/docs/guide/flacbox/img/local-files-selection-mode.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox Local Files Selection Mode" image="/docs/guide/flacbox/img/local-files-selection-mode.webp" >}}
 {{< /cards >}}
 
 ## विकल्प मेनू
@@ -161,7 +161,7 @@ Local Files स्क्रीन दो अलग-अलग सेक्शन�
 - **हटाना** — डिवाइस से फ़ाइल या फ़ोल्डर हटाएं। **यह क्रिया अपरिवर्तनीय है** और आप हटाई गई फाइलें पुनर्स्थापित नहीं कर सकते।
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox More Actions for a Local File" image="/docs/guide/flacbox/img/local-files-more-actions-for-file.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox More Actions for a Local File" image="/docs/guide/flacbox/img/local-files-more-actions-for-file.webp" >}}
 {{< /cards >}}
 
 ## ऑफलाइन फ़ोल्डर

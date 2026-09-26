@@ -12,7 +12,7 @@ authors:
     image: "/images/about/artem-meleshko-founder-everappz.webp"
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 **Podsumowanie:** Zainstaluj [Flacbox z App Store](https://apps.apple.com/us/app/flacbox-flac-player-music/id1097564256?mt=8), aby odtwarzać FLAC, DSD, ALAC i ponad 120 innych formatów audio na iPhone i Mac. Importuj pliki przez iTunes File Sharing, Wi-Fi Drive lub chmurę. Bez konwersji plików. Flacbox dekoduje formaty bezstratne natywnie dla pełnej jakości studyjnej.
 
@@ -114,26 +114,26 @@ Pobierz Flacbox z Mac App Store. Wersja macOS oferuje taką samą jakość odtwa
 
 ## Często Zadawane Pytania
 
-{{< details title="Czy Flacbox wymaga subskrypcji do odtwarzania plików bezstratnych?" closed="true" >}}
+{{< ls-details title="Czy Flacbox wymaga subskrypcji do odtwarzania plików bezstratnych?" closed="true" >}}
 Flacbox oferuje podstawową funkcjonalność odtwarzania bez subskrypcji. Możesz importować i odtwarzać FLAC, DSD, ALAC i inne formaty bezstratne zaraz po pobraniu aplikacji. Niektóre zaawansowane funkcje, takie jak strumieniowanie z chmury i dodatkowe opcje personalizacji, mogą wymagać aktualizacji premium, ale podstawowe odtwarzanie bezstratne jest dostępne natychmiast.
-{{< /details >}}
+{{< /ls-details >}}
 
-{{< details title="Czy Flacbox może odtwarzać pliki DSD bez konwersji ich do PCM?" closed="true" >}}
+{{< ls-details title="Czy Flacbox może odtwarzać pliki DSD bez konwersji ich do PCM?" closed="true" >}}
 Tak, Flacbox obsługuje natywne odtwarzanie DSD, w tym formaty DSD64, DSD128 i DSD256. Aplikacja dekoduje strumienie DSD bezpośrednio, zachowując unikalne cechy dźwiękowe formatu. Dla najlepszych rezultatów sparuj urządzenie z kompatybilnym zewnętrznym DAC DSD.
-{{< /details >}}
+{{< /ls-details >}}
 
-{{< details title="Jak przenieść duże kolekcje muzyki bezstratnej na iPhone?" closed="true" >}}
+{{< ls-details title="Jak przenieść duże kolekcje muzyki bezstratnej na iPhone?" closed="true" >}}
 Flacbox oferuje kilka opcji transferu dla dużych bibliotek. Wi-Fi Drive pozwala przesyłać pliki z dowolnej przeglądarki w sieci lokalnej. Można też użyć iTunes File Sharing przez Finder na Mac lub połączyć usługi chmurowe jak Google Drive lub Dropbox. Dla najszybszego transferu bardzo dużych kolekcji podłącz dysk zewnętrzny bezpośrednio za pomocą adaptera Lightning lub USB-C.
-{{< /details >}}
+{{< /ls-details >}}
 
-{{< details title="Czy jest różnica w jakości dźwięku między FLAC a ALAC w Flacbox?" closed="true" >}}
+{{< ls-details title="Czy jest różnica w jakości dźwięku między FLAC a ALAC w Flacbox?" closed="true" >}}
 Zarówno FLAC, jak i ALAC są kodekami bezstratnymi, co oznacza, że produkują identyczne wyjście audio po zdekodowaniu. Różnica polega na kompatybilności i wydajności kompresji. FLAC jest szerzej używany na różnych platformach i ogólnie osiąga nieco lepsze współczynniki kompresji, podczas gdy ALAC jest natywnym formatem bezstratnym Apple. Flacbox obsługuje oba z równą wiernością.
-{{< /details >}}
+{{< /ls-details >}}
 
-{{< details title="Jaki jest najlepszy sposób na odtwarzanie plików FLAC na iPhone?" closed="true" >}}
+{{< ls-details title="Jaki jest najlepszy sposób na odtwarzanie plików FLAC na iPhone?" closed="true" >}}
 Zainstaluj Flacbox z App Store, a następnie zaimportuj pliki FLAC za pomocą iTunes File Sharing, Wi-Fi Drive, chmury lub zewnętrznego dysku USB/Lightning. Flacbox dekoduje FLAC natywnie bez konwersji, obsługując rozdzielczości do 32-bit/384 kHz. Dla najlepszej jakości audio sparuj iPhone z dedykowanym DAC USB-C lub Lightning.
-{{< /details >}}
+{{< /ls-details >}}
 
-{{< details title="Czy Flacbox działa z NAS i serwerami domowymi?" closed="true" >}}
+{{< ls-details title="Czy Flacbox działa z NAS i serwerami domowymi?" closed="true" >}}
 Tak. Flacbox łączy się z urządzeniami NAS i serwerami domowymi przez protokoły SMB, WebDAV i DLNA. Na Mac można bezpośrednio dodać lokalizacje sieciowe. Na iOS połącz przez menu źródeł chmury/sieci. Pozwala to strumieniować bibliotekę bezstratną bez kopiowania plików na urządzenie.
-{{< /details >}}
+{{< /ls-details >}}

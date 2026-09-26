@@ -7,7 +7,7 @@ tags: ["evermusic", "flacbox", "cloud", "file", "akun", "manajer", "koneksi", "j
 keywords: ["menghubungkan layanan cloud ke Evermusic", "mengunggah file ke Google Drive", "integrasi cloud Flacbox", "menggunakan OneDrive dengan Evermusic", "akses file cloud Evertag", "menghubungkan Dropbox ke pemutar musik iOS", "manajer file untuk layanan cloud"]
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **Ringkasan:** Unggah file musik atau media Anda ke layanan cloud yang didukung (Google Drive, Dropbox, OneDrive, dan lainnya), lalu hubungkan layanan tersebut di dalam Evermusic, Flacbox, atau Evertag untuk streaming atau mengunduh file Anda langsung di iPhone, iPad, atau Mac.
@@ -76,38 +76,38 @@ Ucapkan selamat tinggal pada keterbatasan penyimpanan dan sambut kemudahan!
 
 ## Pertanyaan yang Sering Diajukan
 
-{{% details title="Layanan cloud apa saja yang didukung?" closed="true" %}}
+{{% ls-details title="Layanan cloud apa saja yang didukung?" closed="true" %}}
 Evermusic, Flacbox, dan Evertag mendukung Google Drive, Dropbox, OneDrive, Box, MediaFire, Yandex.Disk, MEGA, MyDrive, pCloud, dan penyedia cloud lainnya. Anda juga dapat menghubungkan server WebDAV, SMB, dan FTP kustom.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Bisakah saya streaming musik langsung dari cloud tanpa mengunduh?" closed="true" %}}
+{{% ls-details title="Bisakah saya streaming musik langsung dari cloud tanpa mengunduh?" closed="true" %}}
 Ya. Ketiga aplikasi mendukung streaming file audio langsung dari penyimpanan cloud yang terhubung. Anda juga dapat mengunduh file untuk pemutaran offline saat tidak memiliki akses internet.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Apakah ada batas ukuran file atau penyimpanan di aplikasi?" closed="true" %}}
+{{% ls-details title="Apakah ada batas ukuran file atau penyimpanan di aplikasi?" closed="true" %}}
 Aplikasi tidak memberlakukan batas ukuran file atau penyimpanan sendiri. Penyimpanan yang tersedia tergantung pada paket layanan cloud Anda dan penyimpanan lokal perangkat Anda untuk file yang diunduh.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Bisakah saya menghubungkan beberapa akun cloud secara bersamaan?" closed="true" %}}
+{{% ls-details title="Bisakah saya menghubungkan beberapa akun cloud secara bersamaan?" closed="true" %}}
 Ya. Anda dapat menghubungkan beberapa layanan cloud dan beberapa akun dari penyedia yang sama secara bersamaan. Semua akun yang terhubung muncul di tab Koneksi untuk beralih dengan mudah.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Apakah saya perlu mengunggah ulang file jika beralih ke aplikasi lain?" closed="true" %}}
+{{% ls-details title="Apakah saya perlu mengunggah ulang file jika beralih ke aplikasi lain?" closed="true" %}}
 Tidak. Karena file Anda disimpan di cloud, Anda dapat menghubungkan akun cloud yang sama ke Evermusic, Flacbox, atau Evertag tanpa mengunggah ulang apa pun. Setiap aplikasi mengakses file yang sama dari penyimpanan cloud Anda.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Apakah data akun cloud saya aman?" closed="true" %}}
+{{% ls-details title="Apakah data akun cloud saya aman?" closed="true" %}}
 Ya. Aplikasi hanya menggunakan SDK resmi dan koneksi terenkripsi untuk berinteraksi dengan layanan cloud. Login dan kata sandi Anda tidak pernah disimpan oleh aplikasi. Saat masuk, aplikasi menampilkan halaman otorisasi resmi yang disediakan oleh layanan cloud. Setelah otorisasi berhasil, penyedia cloud mengirimkan token autentikasi ke aplikasi, yang disimpan dengan aman di Keychain perangkat. Token ini digunakan untuk semua permintaan API.<br><br>
 Aplikasi tidak membagikan informasi apa pun dari akun cloud Anda. Anda dapat mencabut akses kapan saja dari halaman pengaturan akun cloud Anda di browser web, atau memutuskan koneksi akun di dalam aplikasi.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Bagaimana cara memutuskan koneksi layanan cloud atau mengubah konfigurasinya?" closed="true" %}}
+{{% ls-details title="Bagaimana cara memutuskan koneksi layanan cloud atau mengubah konfigurasinya?" closed="true" %}}
 Temukan penyimpanan cloud di tab **Koneksi** aplikasi dan ketuk tombol **...** di sebelahnya. Anda akan melihat opsi berikut:<br>
 - **Ganti nama** -- ubah nama tampilan layanan cloud<br>
 - **Pengaturan** -- ubah konfigurasi atau otorisasi ulang jika token telah kedaluwarsa<br>
 - **Putuskan Koneksi** -- hapus koneksi sepenuhnya. Ini menghapus semua lagu dari layanan cloud ini dari pustaka musik aplikasi, tetapi file tetap ada di server
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Bagaimana cara mencabut akses aplikasi ke akun cloud saya?" closed="true" %}}
+{{% ls-details title="Bagaimana cara mencabut akses aplikasi ke akun cloud saya?" closed="true" %}}
 Masuk ke akun cloud Anda di browser web dan buka halaman pengaturan akun atau keamanan. Temukan daftar aplikasi pihak ketiga yang terhubung dan hapus aplikasi yang tidak lagi ingin Anda otorisasi. Anda juga dapat memutuskan koneksi akun cloud di dalam aplikasi -- ini menghapus token autentikasi dari perangkat Anda. Jika Anda menghapus aplikasi sepenuhnya, semua data yang diunduh dan token akses dihapus secara otomatis.
-{{% /details %}}
+{{% /ls-details %}}

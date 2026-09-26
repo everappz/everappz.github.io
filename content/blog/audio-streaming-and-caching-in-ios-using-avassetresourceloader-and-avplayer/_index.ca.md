@@ -12,7 +12,7 @@ authors:
     image: "/images/about/artem-meleshko-founder-everappz.webp"
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 ![](/blog/audio-streaming-and-caching-in-ios-using-avassetresourceloader-and-avplayer/diagram.png)
 
@@ -140,18 +140,18 @@ Aquest enfocament impulsa el motor de streaming d'àudio d'[Evermusic](https://a
 
 ## Preguntes freqüents
 
-{{% details title="Quan hauria d'utilitzar AVAssetResourceLoaderDelegate en lloc d'una URL directa?" closed="true" %}}
+{{% ls-details title="Quan hauria d'utilitzar AVAssetResourceLoaderDelegate en lloc d'una URL directa?" closed="true" %}}
 Utilitza'l quan el servei al núvol requereixi capçaleres d'autorització personalitzades, quan necessitis memòria cau en disc per a l'àudio en streaming, o quan vulguis un control detallat sobre com es carreguen i s'emmagatzemen en buffer les dades.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Aquest enfocament funciona amb Swift?" closed="true" %}}
+{{% ls-details title="Aquest enfocament funciona amb Swift?" closed="true" %}}
 Sí. El protocol `AVAssetResourceLoaderDelegate` funciona de la mateixa manera en Swift. Els exemples en Objective-C d'aquí es tradueixen directament.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Puc utilitzar-lo per al streaming de vídeo també?" closed="true" %}}
+{{% ls-details title="Puc utilitzar-lo per al streaming de vídeo també?" closed="true" %}}
 Sí. `AVAssetResourceLoaderDelegate` funciona amb qualsevol tipus de mitjans que AVPlayer admeti, inclòs el vídeo. S'aplica el mateix enfocament d'esquema personalitzat.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Admet la reproducció d'àudio en segon pla?" closed="true" %}}
+{{% ls-details title="Admet la reproducció d'àudio en segon pla?" closed="true" %}}
 Sí, sempre que activis el mode de segon pla "Audio, AirPlay, and Picture in Picture" en les capacitats de la teva aplicació i configuris correctament el teu `AVAudioSession`.
-{{% /details %}}
+{{% /ls-details %}}

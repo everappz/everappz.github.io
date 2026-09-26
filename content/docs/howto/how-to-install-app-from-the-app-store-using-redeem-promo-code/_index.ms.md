@@ -7,7 +7,7 @@ tags: ["promo", "appstore", "pasang", "tebus", "kod", "percuma"]
 readingTime: 2
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **Ringkasan:** Kod promo membolehkan anda memuat turun aplikasi berbayar secara percuma atau membuka kunci pembelian dalam aplikasi. Pada iOS: App Store > Ikon Akaun > Tebus Kad Hadiah atau Kod > masukkan kod. Pada Mac: App Store > Akaun > Tebus Kad Hadiah > masukkan kod. Kemudian buka aplikasi dan pulihkan pembelian jika perlu.
@@ -94,22 +94,22 @@ Nikmati aplikasi percuma atau peningkatan dalam aplikasi anda!
 
 ## Soalan Lazim
 
-{{% details title="Di mana saya boleh mendapatkan kod promo?" closed="true" %}}
+{{% ls-details title="Di mana saya boleh mendapatkan kod promo?" closed="true" %}}
 Kod promo disediakan oleh pembangun aplikasi untuk ulasan, pemberian hadiah, atau promosi. Hubungi pembangun secara terus untuk meminta satu.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Adakah kod promo mempunyai tarikh luput?" closed="true" %}}
+{{% ls-details title="Adakah kod promo mempunyai tarikh luput?" closed="true" %}}
 Ya. Kod promo Apple App Store tamat tempoh 28 hari selepas ia dijana dan hanya boleh ditebus sekali.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Bolehkah saya menggunakan kod promo di mana-mana negara?" closed="true" %}}
+{{% ls-details title="Bolehkah saya menggunakan kod promo di mana-mana negara?" closed="true" %}}
 Kod promo adalah khusus untuk rantau tertentu. Kod mesti sepadan dengan negara App Store Apple ID anda.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Bagaimana cara mengaktifkan pembelian dalam aplikasi dengan kod promo?" closed="true" %}}
+{{% ls-details title="Bagaimana cara mengaktifkan pembelian dalam aplikasi dengan kod promo?" closed="true" %}}
 Selepas menebus kod di App Store, buka aplikasi dan pergi ke Tetapan > Pulihkan Pembelian. Kandungan premium akan dibuka kunci secara automatik.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Kod promo mengatakan ia sudah ditebus. Apa yang perlu saya lakukan?" closed="true" %}}
+{{% ls-details title="Kod promo mengatakan ia sudah ditebus. Apa yang perlu saya lakukan?" closed="true" %}}
 Setiap kod promo hanya boleh digunakan sekali. Hubungi pembangun untuk meminta kod baharu.
-{{% /details %}}
+{{% /ls-details %}}

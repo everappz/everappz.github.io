@@ -21,7 +21,7 @@ readingTime: 16
 Màn hình Cài đặt là trung tâm điều khiển của Flacbox. Từ đây bạn có thể nâng cấp lên Premium, cấu hình bộ máy âm thanh (codec hệ thống hoặc FFmpeg), quản lý thư viện nhạc, thiết lập trình quản lý file, tùy chỉnh trình chỉnh sửa thẻ âm thanh, bật widget màn hình chính và Apple CarPlay, sao lưu dữ liệu, và truy cập trợ giúp và thông tin pháp lý. Các phần được nhóm theo tiêu đề: Mua hàng & Cập nhật, Tùy chọn ứng dụng, Trợ giúp và Pháp lý & Quyền riêng tư.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Màn hình chính Cài đặt Flacbox" image="/docs/guide/flacbox/img/settings-main.webp" >}}
+  {{< ls-card title="" subtitle="Màn hình chính Cài đặt Flacbox" image="/docs/guide/flacbox/img/settings-main.webp" >}}
 {{< /cards >}}
 
 ## Nâng cấp lên Premium
@@ -29,13 +29,13 @@ Màn hình Cài đặt là trung tâm điều khiển của Flacbox. Từ đây 
 Nâng cấp ứng dụng lên phiên bản Premium để xóa tất cả giới hạn. Phiên bản miễn phí cung cấp một lần mua trong ứng dụng trọn đời và hai tùy chọn đăng ký (1 tháng và 1 năm) để xóa tất cả hạn chế và nâng cấp lên Premium.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Nâng cấp Flacbox lên Premium" image="/docs/guide/flacbox/img/upgrade-to-premium.webp" >}}
+  {{< ls-card title="" subtitle="Nâng cấp Flacbox lên Premium" image="/docs/guide/flacbox/img/upgrade-to-premium.webp" >}}
 {{< /cards >}}
 
 **Chia sẻ Gia đình** được bật cho tất cả mua hàng và gói, vì vậy bạn có thể chia sẻ phiên bản Premium với tối đa năm thành viên gia đình mà không tốn thêm chi phí.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Chọn Gói Premium Flacbox" image="/docs/guide/flacbox/img/select-premium-plan.webp" >}}
+  {{< ls-card title="" subtitle="Chọn Gói Premium Flacbox" image="/docs/guide/flacbox/img/select-premium-plan.webp" >}}
 {{< /cards >}}
 
 Bạn có thể đọc thêm về mua hàng và phiên bản Premium tại đây: [Sự khác biệt giữa Flacbox và Flacbox Premium là gì](/docs/faq/flacbox/what-is-the-difference-between-flacbox-and-flacbox-premium/).

@@ -12,7 +12,7 @@ authors:
     image: "/images/about/artem-meleshko-founder-everappz.webp"
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 ![](/blog/evermusic-sync-your-music-library-save-playback-position-correct-music-tags/21260c_641f376e779e47d4927b43c210d3c87f~mv2.jpeg)
 
@@ -67,22 +67,22 @@ Evermusic обнаруживает и исправляет некорректн�
 
 ## Часто задаваемые вопросы
 
-{{% details title="Работает ли автосинхронизация Evermusic со всеми облачными сервисами?" closed="true" %}}
+{{% ls-details title="Работает ли автосинхронизация Evermusic со всеми облачными сервисами?" closed="true" %}}
 Да. Автоматическая синхронизация работает с Dropbox, Google Drive, OneDrive, MEGA, WebDAV и SMB. Выберите папки для мониторинга, и Evermusic будет поддерживать вашу библиотеку в актуальном состоянии.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Может ли Evermusic сохранить позицию моей аудиокниги?" closed="true" %}}
+{{% ls-details title="Может ли Evermusic сохранить позицию моей аудиокниги?" closed="true" %}}
 Да. Включите сохранение позиции воспроизведения в настройках аудио. Evermusic запоминает, где вы остановились для каждого файла, чтобы вы могли продолжить без ручных закладок.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Как работает чтение метаданных в фоновом режиме?" closed="true" %}}
+{{% ls-details title="Как работает чтение метаданных в фоновом режиме?" closed="true" %}}
 Evermusic читает теги ID3 и метаданные файлов в фоновом режиме, пока вы используете другие функции. Он автоматически организует библиотеку по Исполнителю, Альбому и Жанру.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Исправит ли Evermusic повреждённые музыкальные теги?" closed="true" %}}
+{{% ls-details title="Исправит ли Evermusic повреждённые музыкальные теги?" closed="true" %}}
 Да. Функция автоматического исправления тегов проверяет ваши файлы по онлайн-базам данных и исправляет некорректные, неполные или отсутствующие метаданные ID3.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Можно ли скачать Evermusic бесплатно?" closed="true" %}}
+{{% ls-details title="Можно ли скачать Evermusic бесплатно?" closed="true" %}}
 Evermusic можно скачать бесплатно с дополнительными премиум-функциями, доступными через встроенные покупки.
-{{% /details %}}
+{{% /ls-details %}}

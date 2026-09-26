@@ -22,7 +22,7 @@ The Local Files section serves as a hub for managing files located in the applic
 This built-in file manager allows you to edit files (rename, move, copy, upload, delete), monitor transfers, and offers several methods to import audio files into the app — direct downloads from the cloud, offline-mode sync, USB flash drives, Wi-Fi Drive, and Finder File Sharing.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox Local Files Screen" image="/docs/guide/flacbox/img/local-files.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox Local Files Screen" image="/docs/guide/flacbox/img/local-files.webp" >}}
 {{< /cards >}}
 
 ## Download Files from Cloud Storage
@@ -105,7 +105,7 @@ Shows files and folders stored in the app’s Documents directory and iCloud Dri
 Shows files located on your device but in different applications. You can import them into this application using the system file picker. To activate the picker, choose **Open Files…** to select files or **Open Folders…** to select folders. Detailed instructions on how to import local music stored on your iPhone or Mac are available [here](/docs/howto/how-to-play-local-music-stored-on-your-iphone-or-mac).
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox Connected Device Folders" image="/docs/guide/flacbox/img/connected-device-folders.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox Connected Device Folders" image="/docs/guide/flacbox/img/connected-device-folders.webp" >}}
 {{< /cards >}}
 
 You can also connect a folder located on your device and have quick access to its content. Use the **Connect a Folder** menu item and choose a folder located on your device. Tap **Done**, and the app creates a link to that folder with read / write access, allowing you to manage files directly from this app. To disconnect a folder located on your device, tap the **More Actions** button and choose **Disconnect**.
@@ -140,7 +140,7 @@ If you need to edit several files, activate selection mode by tapping the **More
 - **Delete** — remove the selected file or folder from the device. **This action is irreversible.**
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox Local Files Selection Mode" image="/docs/guide/flacbox/img/local-files-selection-mode.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox Local Files Selection Mode" image="/docs/guide/flacbox/img/local-files-selection-mode.webp" >}}
 {{< /cards >}}
 
 ## Options Menu
@@ -164,7 +164,7 @@ For every file or folder in the app, several actions are available, accessible b
 - **Delete** — delete the file or folder from the device. **This action is irreversible** and you cannot restore deleted files.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox More Actions for a Local File" image="/docs/guide/flacbox/img/local-files-more-actions-for-file.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox More Actions for a Local File" image="/docs/guide/flacbox/img/local-files-more-actions-for-file.webp" >}}
 {{< /cards >}}
 
 ## Offline Folders

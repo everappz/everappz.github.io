@@ -1,9 +1,10 @@
 ---
+excludeSearch: true
 date: '2025-06-12T17:00:00+00:00'
 title: 'Свяжитесь с нами'
 ---
 
-{{< lottie src="/images/juicy-json/juicy-girl-typing-on-phone.json" width="60%" >}}
+{{< ls-lottie src="/images/juicy-json/juicy-girl-typing-on-phone.json" width="60%" >}}
 
 ## Почтовый адрес
 
@@ -27,4 +28,4 @@ title: 'Свяжитесь с нами'
 
 Подписывайтесь на нас в социальных сетях, чтобы получать самые свежие новости, обновления приложений, советы и полезную информацию:
 
-{{< social-cards >}}
+{{< ls-social-cards >}}

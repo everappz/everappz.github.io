@@ -15,7 +15,7 @@ readingTime: 11
 في هذه الشاشة، يمكنك توصيل مصادر متنوعة تحتوي على ملفاتك الصوتية. يمكنك دمج خدمات السحابة الشائعة مثل Google Drive وDropbox وOneDrive وiCloud وغيرها، فضلًا عن توصيل Mac أو PC. بالإضافة إلى ذلك، لديك خيار تعديل ملفات الصوت الموجودة في Apple Time Capsule أو WD Cloud Home أو أي NAS يدعم SMB أو WebDAV.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="شاشة اتصالات Evertag" image="/docs/guide/evertag/img/connections.webp" >}}
+  {{< ls-card title="" subtitle="شاشة اتصالات Evertag" image="/docs/guide/evertag/img/connections.webp" >}}
 {{< /cards >}}
 
 ## الوصول السريع
@@ -151,7 +151,7 @@ iTunes File Sharing هي تقنية أخرى تتيح لك نقل الملفات
 - **عرض شبكي/قائمة**: التبديل بين وضعين للعرض: عرض جدول وعرض مصغرات. يعرض عرض الجدول الملفات في قائمة، بينما يعرض عرض المصغرات تمثيلات مرئية للملفات، مما يسهل تحديد المحتوى بنظرة خاطفة.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="ترتيب مجلد سحابي في Evertag" image="/docs/guide/evertag/img/cloud-storage-sort.webp" >}}
+  {{< ls-card title="" subtitle="ترتيب مجلد سحابي في Evertag" image="/docs/guide/evertag/img/cloud-storage-sort.webp" >}}
 {{< /cards >}}
 
 ## تعديل الملفات الإلكترونية
@@ -163,7 +163,7 @@ iTunes File Sharing هي تقنية أخرى تتيح لك نقل الملفات
 - **تنفيذ إجراءات متنوعة**: بمجرد تحديد الملفات أو المجلدات التي تريد إدارتها، ستتمكن من الوصول إلى عدة إجراءات مصممة لاحتياجاتك:
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="اختيار ملف في Evertag" image="/docs/guide/evertag/img/cloud-storage-file-select.webp" >}}
+  {{< ls-card title="" subtitle="اختيار ملف في Evertag" image="/docs/guide/evertag/img/cloud-storage-file-select.webp" >}}
 {{< /cards >}}
 
 ## إجراءات الملف
@@ -180,7 +180,7 @@ iTunes File Sharing هي تقنية أخرى تتيح لك نقل الملفات
 - **حذف**: كن حذرًا مع هذا الإجراء، حيث يزيل الملف نهائيًا من تخزينك السحابي. **لا يمكن التراجع عن هذا الحذف**.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="خيارات ملف Evertag" image="/docs/guide/evertag/img/cloud-storage-file-options.webp" >}}
+  {{< ls-card title="" subtitle="خيارات ملف Evertag" image="/docs/guide/evertag/img/cloud-storage-file-options.webp" >}}
 {{< /cards >}}
 
 إذا تجاوزت قائمة الإجراءات المساحة المتاحة على الشاشة، فما عليك سوى التمرير لأسفل داخل قائمة الإجراءات للوصول إلى خيارات إضافية.
@@ -196,5 +196,5 @@ iTunes File Sharing هي تقنية أخرى تتيح لك نقل الملفات
 - **حذف**: كن حذرًا مع هذا الإجراء، حيث يزيل المجلد ومحتوياته نهائيًا من تخزينك السحابي. **لا يمكن التراجع عن هذا الإجراء**.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="خيارات مجلد Evertag" image="/docs/guide/evertag/img/cloud-storage-folder-options.webp" >}}
+  {{< ls-card title="" subtitle="خيارات مجلد Evertag" image="/docs/guide/evertag/img/cloud-storage-folder-options.webp" >}}
 {{< /cards >}}

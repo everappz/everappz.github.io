@@ -7,7 +7,7 @@ keywords: ["Evermusic müzik kütüphanesi aktarma", "Evermusic çalma listesi y
 readingTime: 3
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **Özet:** Evermusic kütüphanenizi yeni bir cihaza aktarmak için kaynak cihazda bir yedek oluşturun, Wi-Fi Drive'ı başlatın, ikinci cihazı aynı ağ üzerinden bağlayın, yedeği ve müzik dosyalarını indirin, ardından yedekten geri yükleyin. Tüm süreç kütüphane boyutuna bağlı olarak yaklaşık 10 dakika sürer.
@@ -144,22 +144,22 @@ Bu adımları izleyerek müzik kütüphanenizi, çalma listelerinizi ve ayarlar�
 
 ## Sıkça Sorulan Sorular
 
-{{% details title="Evermusic kütüphanemi Wi-Fi olmadan aktarabilir miyim?" closed="true" %}}
+{{% ls-details title="Evermusic kütüphanemi Wi-Fi olmadan aktarabilir miyim?" closed="true" %}}
 Wi-Fi Drive, her iki cihazın aynı Wi-Fi ağında olmasını gerektirir. Şu anda Bluetooth veya hücresel aktarım seçeneği yoktur. Alternatif olarak AirDrop veya Dosyalar uygulamasını kullanarak yedek dosyasını ve müzik klasörlerini cihazlar arasında manuel olarak taşıyabilirsiniz.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Bulut hizmeti bağlantılarım yedekle birlikte aktarılır mı?" closed="true" %}}
+{{% ls-details title="Bulut hizmeti bağlantılarım yedekle birlikte aktarılır mı?" closed="true" %}}
 Yedek, veritabanınızı, çalma listelerinizi, albüm kapaklarınızı ve ayarlarınızı içerir. Bulut hizmeti giriş bilgileri güvenlik nedeniyle dahil edilmez. Geri yüklemeden sonra yeni cihazda bulut hesaplarınızı yeniden bağlamanız gerekecektir.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="İkinci cihazdaki mevcut kütüphaneme ne olur?" closed="true" %}}
+{{% ls-details title="İkinci cihazdaki mevcut kütüphaneme ne olur?" closed="true" %}}
 Bir yedeği geri yüklemek, ikinci cihazdaki mevcut tüm müzik kütüphanesi verilerini, çalma listelerini, ayarları ve albüm kapaklarını değiştirir. Verilerini korumak istiyorsanız önce ikinci cihazın ayrı bir yedeğini alın.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Bu işlem iPhone ve Mac arasında çalışır mı?" closed="true" %}}
+{{% ls-details title="Bu işlem iPhone ve Mac arasında çalışır mı?" closed="true" %}}
 Evet. Evermusic, iPhone, iPad ve Mac'in herhangi bir kombinasyonu arasında Wi-Fi Drive aktarımını destekler. Her iki cihazın sadece aynı Wi-Fi ağında olması gerekir.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Aktarım ne kadar sürer?" closed="true" %}}
+{{% ls-details title="Aktarım ne kadar sürer?" closed="true" %}}
 Aktarım süresi müzik kütüphanenizin boyutuna ve Wi-Fi hızınıza bağlıdır. Birkaç gigabaytlık tipik bir kütüphane, standart bir ev ağı üzerinden 5-15 dakika içinde aktarılır.
-{{% /details %}}
+{{% /ls-details %}}

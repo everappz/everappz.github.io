@@ -7,7 +7,7 @@ tags: ["müzik", "ses", "çalar", "iphone", "oynatma", "çevrimdışı", "indirm
 readingTime: 5
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **Özet:** YouTube videolarını tarayıcı tabanlı bir dönüştürücü veya ücretsiz ClipGrab masaüstü uygulaması kullanarak MP3'e dönüştürün. Ardından ses dosyalarını çevrimdışı oynatma için iPhone veya Mac'inizdeki Evermusic uygulamasına aktarın -- internet gerekmez.
@@ -221,30 +221,30 @@ Seçeneklerinizden emin değilseniz, bir telif hakkı hukuku uzmanından daha fa
 
 Not: YouTube'da ayrıca birkaç **video eğitimi** mevcuttur:
 <br><br>
-{{< youtubecard id="TlVpbRvAiwA" title="Descargar Música Gratis Para IOS" >}}
+{{< ls-youtubecard id="TlVpbRvAiwA" title="Descargar Música Gratis Para IOS" >}}
 <br><br>
-{{< youtubecard id="jSDuNguZZNE" title="Evermusic: Free Offline Music Player for iOS (iPhone/iPod/iPad) | Music Files Organization" >}}
+{{< ls-youtubecard id="jSDuNguZZNE" title="Evermusic: Free Offline Music Player for iOS (iPhone/iPod/iPad) | Music Files Organization" >}}
 <br><br>
-{{< youtubecard id="-kY48ktbo2M" title="テクノロジー塾】おすすめiPhone 音楽アプリ「ever music」ストック型篇" >}}
+{{< ls-youtubecard id="-kY48ktbo2M" title="テクノロジー塾】おすすめiPhone 音楽アプリ「ever music」ストック型篇" >}}
 
 ## SSS
 
-{{% details title="YouTube'dan müzik indirmek yasal mı?" closed="true" %}}
+{{% ls-details title="YouTube'dan müzik indirmek yasal mı?" closed="true" %}}
 Bu, içeriğin telif hakkı durumuna bağlıdır. Telifsiz ve Creative Commons içerikleri genellikle kişisel kullanım için indirilebilir. Telif hakkıyla korunan müzik, uygun lisans veya izin gerektirir.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Evermusic hangi ses formatlarını destekliyor?" closed="true" %}}
+{{% ls-details title="Evermusic hangi ses formatlarını destekliyor?" closed="true" %}}
 Evermusic; MP3, FLAC, AAC, WAV, OGG, AIFF ve diğer birçok ses formatını destekler. İndirdiğiniz hemen hemen her ses dosyasını oynatabilirsiniz.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Evermusic'i internet bağlantısı olmadan kullanabilir miyim?" closed="true" %}}
+{{% ls-details title="Evermusic'i internet bağlantısı olmadan kullanabilir miyim?" closed="true" %}}
 Evet. Ses dosyaları Evermusic'e aktarıldıktan sonra, tamamen çevrimdışı olarak oynatabilirsiniz -- internet bağlantısı gerekmez.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="ClipGrab ücretsiz mi?" closed="true" %}}
+{{% ls-details title="ClipGrab ücretsiz mi?" closed="true" %}}
 Evet. ClipGrab ücretsizdir ve hem Mac hem de Windows için mevcuttur. İndirmeler için açık kaynaklı youtube-dlp kütüphanesini kullanır.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="İndirilen müziği Mac'ten iPhone'a nasıl aktarırım?" closed="true" %}}
+{{% ls-details title="İndirilen müziği Mac'ten iPhone'a nasıl aktarırım?" closed="true" %}}
 Ses dosyalarını Mac'inizden iPhone'unuza aktarmak için AirDrop, iTunes Dosya Paylaşımı veya Evermusic'in yerleşik Wi-Fi Drive özelliğini kullanabilirsiniz.
-{{% /details %}}
+{{% /ls-details %}}

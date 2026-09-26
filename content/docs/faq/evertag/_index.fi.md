@@ -21,7 +21,7 @@ Evertag on musiikkimetatietojen muokkain **iPhonelle, iPadille ja Macille**, jon
 
 <div class="hx:w-full">
 
-{{% details title="Mikä on Evertag?" closed="true" %}}
+{{% ls-details title="Mikä on Evertag?" closed="true" %}}
 Evertag on musiikkimetatietojen muokkain ja albumikansikuvien hallinta **iOS:lle ja macOS:lle**, jonka avulla voit korjata tageja, lisätä kansikuvataidetta ja siivota laitteellesi tai pilveen tallennettuja äänitiedostoja.<br><br>
 
 Sovellus tukee laajaa valikoimaa suosittuja ääniformaatteja — MP3, FLAC, WAV, M4A, AIFF, OGG, OPUS, WMA, APE ja monia muita — ja antaa sinun muokata yleisiä tageja, kuten **TITLE**, **ARTIST**, **ALBUM**, **GENRE**, **YEAR**, **TRACK NUMBER**, sekä laajennettuja kenttiä, kuten **BPM**, **DISC NUMBER**, **LYRICS**, **MUSICBRAINZ IDs**, **REPLAY-GAIN**-arvot ja **PARENTAL ADVISORY** -luokitukset. Voit työskennellä yhden tiedoston kerrallaan tai siirtyä **erätilaan** muokataksesi useita raitoja samanaikaisesti — täydellinen kokonaisten albumien tai soittolistojen järjestämiseen.<br><br>
@@ -29,21 +29,21 @@ Sovellus tukee laajaa valikoimaa suosittuja ääniformaatteja — MP3, FLAC, WAV
 Yksi Evertag-sovelluksen merkittävimmistä ominaisuuksista on sen kyky hakea puuttuvia albumikansikuvia internetistä (MusicBrainzin kautta) tai antaa sinun lisätä omia Kuvat-kirjastosta. Sisäänrakennettu lyriikoiden muokkain tukee sekä tavallisia että **synkronoituja (LRC)** lyriikoita ja sisältää yhden napautuksen pikakuvakkeet Lrclibiin, Geniukseen, Lyricsifyyn ja Google-hakuun. Sovellus tukee **paikallaan**-muokkausta, joten voit muuttaa äänisiritteitä kopioimatta tiedostoja.<br><br>
 
 Olitpa hallinnoimassa musiikkia laitteellasi tai pilvipalvelussa (iCloud Drive, Google Drive, Dropbox, OneDrive, MEGA, Synology, pCloud ja paljon muuta), Evertag tarjoaa saumattoman tiedostopääsyn ja muokkauksen — ihanteellinen muusikoille, DJ:ille, podcasterille ja keräilijöille, jotka haluavat siistin, hyvin järjestetyn kirjaston iPhonella, iPadilla tai Macilla ilman tietokoneen tagieditoria. Katso koko [käyttöopas](/docs/guide/evertag/) kuvakaappauksista ja opetusohjelmista.<br><br>
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Toimiiko Evertag iPhonessa, iPadissa ja Macissa?" closed="true" %}}
+{{% ls-details title="Toimiiko Evertag iPhonessa, iPadissa ja Macissa?" closed="true" %}}
 Kyllä — Evertag on **universaali sovellus**. Sama ostos kattaa iPhonen, iPadin ja Macin (sekä Intel että Apple Silicon Mac Catalystin kautta), ja asetukset, suosikit ja Premium-tila synkronoidaan laitteiden välillä iCloudin kautta.<br><br>
 
 Asettelu mukautuu laitteeseen: alaosaan sijoitettu välilehtipalkki iPhonessa, jaettu näkymä sivupalkilla iPadissa ja Macissa, sekä täydellinen näppäimistöpikanäppäintuki Macissa. Kaikki tagieditorin ominaisuudet — mukaan lukien erätila, lyriikoiden haku, laajennetut kentät ja pilvintegraatio — ovat saatavilla jokaisella alustalla.<br><br>
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Onko Evertag ilmainen?" closed="true" %}}
+{{% ls-details title="Onko Evertag ilmainen?" closed="true" %}}
 Kyllä, Evertag on **ladattavissa ilmaiseksi** valinnaisilla sovelluksen sisäisillä ostoilla rajoitusten poistamiseksi. Sovellus tarjoaa **kertakaikkisen elinikäisen** oston ja kaksi tilausvaihtoehtoa (kuukausittain ja vuosittain), jotta voit valita itsellesi parhaiten sopivan suunnitelman. Hinnat voivat vaihdella maan tai alueen mukaan, ja **Perhejako on käytössä** jokaiselle suunnitelmalle — jaa Premium enintään viidelle perheenjäsenelle.<br><br>
 
 Elinikäiset ostot ja tilaukset jaetaan iOS:n ja Macin välillä iCloudin kautta. Jos olet jo maksanut iOS:lla, asenna sovelluksen uusin versio, varmista, että iCloud on käytössä, ja odota noin minuutti, jotta ostosi latautuu — käynnistä sitten sovellus Macilla (sama Apple ID + iCloud) ja Premium aktivoituu automaattisesti. Voit myös napauttaa **Asetukset → Ostot → Palauta ostot** milloin tahansa.<br><br>
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Mikä on ero Evertag Freen ja Evertag Premiumin välillä?" closed="true" %}}
+{{% ls-details title="Mikä on ero Evertag Freen ja Evertag Premiumin välillä?" closed="true" %}}
 
 **Evertag Free** antaa sinulle pääsyn keskeisiin tagien muokkausominaisuuksiin joillakin rajoituksilla. Se sisältää mainoksia ja antaa sinun käyttää tagieditoria, albumikansikuvan editoria ja erätilaa rajoitetusti: 1 yhdistetty pilvitili, enintään 10 suosikkia, enintään 20 automaattista tagihakua päivässä ja enintään 20 albumikansikuvan hakua päivässä. Voit silti muokata yli 120 äänisiriitettä ja hallita tiedostoja paikallisesti tai sisäänrakennetun tiedostonhallinnan kautta.<br><br>
 
@@ -55,9 +55,9 @@ Elinikäiset ostot ja tilaukset jaetaan iOS:n ja Macin välillä iCloudin kautta
 • Premium Elinikäinen — 24,99 $ (kertaostos)<br><br>
 
 Kaikki Premium-vaihtoehdot avaavat saman ominaisuusjoukon. [Erillinen vertailusivu](/docs/faq/evertag/what-is-the-difference-between-evertag-and-evertag-premium/) näyttää erot yksityiskohtaisesti.<br><br>
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Kuinka palautan Premium-ostot uudessa iPhonessa, iPadissa tai Macissa?" closed="true" %}}
+{{% ls-details title="Kuinka palautan Premium-ostot uudessa iPhonessa, iPadissa tai Macissa?" closed="true" %}}
 Kirjaudu sisään samalla **Apple ID:llä** jota käytit alkuperäiseen ostoon ja napauta Evertagissa **Asetukset → Ostot → Palauta ostot**.<br><br>
 
 Jos palautus ei palauta Premium-tilaasi:<br>
@@ -67,9 +67,9 @@ Jos palautus ei palauta Premium-tilaasi:<br>
 • Tarkista, että laitteellasi on aktiivinen internet-yhteys ja että App Store -tili kohdassa **iOS-asetukset → Apple ID → Media ja ostot** vastaa sitä, jolla päivitys ostettiin.<br><br>
 
 Tilaukset ja elinikäiset ostot jaetaan iOS:n ja Macin (Mac Catalyst) välillä, ja **Perhejako** antaa enintään viidelle perheenjäsenelle mahdollisuuden käyttää samaa Premium-suunnitelmaa.<br><br>
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Onko Evertag turvallinen?" closed="true" %}}
+{{% ls-details title="Onko Evertag turvallinen?" closed="true" %}}
 Kyllä. Evertag käyttää vain **virallisia pilvipalveluntarjoajien SDK:ita ja salattuja yhteyksiä** tilien käyttämiseen, eikä salasanasi koskaan jaeta sovelluksen kanssa. Kun yhdistät pilvipalvelun, näytetään pilvipalveluntarjoajan virallinen valtuutussivu — koko kirjautumisprosessi tapahtuu Evertag-sovelluksen ulkopuolella, ja palveluntarjoaja palauttaa todennustokenin, jota sovellus käyttää API-kutsuihin.<br><br>
 
 Todennustoken tallennetaan laitteellesi turvalliseen järjestelmän **Avainnippuun**, eikä sitä koskaan lähetetä palvelimillemme. Yhdistetystä pilvipalvelusta lataamasi tiedostot sijoitetaan sovelluksen 'Asiakirjat'-hakemistoon, ja voit poistaa ne milloin tahansa sisäänrakennetusta tiedostonhallinnasta.<br><br>
@@ -79,29 +79,29 @@ Evertag ei jaa mitään tietoa yhdistetystä pilvitililtäsi. Voit peruuttaa pä
 • Pilvipalveluntarjoajan verkkosivustolla — kirjaudu sisään, mene kolmannen osapuolen sovellusten / yhdistettyjen sovellusten sivulle ja poista Evertag listalta.<br><br>
 
 Jos poistat Evertag-sovelluksen laitteeltasi, kaikki ladatut tiedot ja pääsytunnukset poistetaan sen mukana.<br><br>
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Kerääkö tai jakaako Evertag henkilötietojani?" closed="true" %}}
+{{% ls-details title="Kerääkö tai jakaako Evertag henkilötietojani?" closed="true" %}}
 Sovellus ei tallenna mitään musiikkikirjastostasi palvelimillemme; kaikki muokkaamasi pysyy laitteellasi tai omassa pilvitilissäsi.<br><br>
 
 Evertag käyttää minimaalista joukkoa palveluja analytiikkaan ja kaatumisraportointiin (Firebase Analytics ja Crashlytics) ja näyttää mainoksia ilmaisessa versiossa AdMobin kautta. Voit tarkastella ja poistaa nämä palvelut käytöstä kohdasta **Asetukset → Analytiikka ja tiedonkeruu**. Applen App Tracking Transparency -kehote antaa sinulle myös mahdollisuuden kieltäytyä seurannasta, kun sovellus käynnistyy ensimmäistä kertaa. Katso [Tietosuojakäytäntömme](/legal/privacy-policy/) täydellistä erittelyä varten.<br><br>
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Voinko suojata Evertag-sovelluksen pääsykoodilla tai Face ID:llä?" closed="true" %}}
+{{% ls-details title="Voinko suojata Evertag-sovelluksen pääsykoodilla tai Face ID:llä?" closed="true" %}}
 Kyllä. Avaa **Asetukset → Pääsykoodi** ja aseta 4- tai 6-numeroinen koodi. Kun se on otettu käyttöön, Evertag pyytää pääsykoodia (tai Face ID / Touch ID:tä, jos olet valinnut sen) aina, kun sovellus tulee etualalle.<br><br>
 
 Pääsykoodi tallennetaan paikallisesti iOS:n Avainnippuun — online-palautusta ei ole. Poista se käytöstä samasta Asetukset-näytöltä, jos et enää tarvitse suojausta.<br><br>
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Mitä ääniformaatteja Evertag tukee?" closed="true" %}}
+{{% ls-details title="Mitä ääniformaatteja Evertag tukee?" closed="true" %}}
 Evertag lukee ja kirjoittaa tageja yli 30 ääniformaatissa:<br><br>
 
 **MP3, OGG, OGA, FLAC, MPC, WV, SPX, OPUS, TTA, M4A, M4R, M4B, M4P, MP4, 3G2, M4V, WMA, ASF, AIF, AIFF, AFC, AIFC, WAV, APE, MOD, MODULE, NTS, WOW, S3M, IT, XM.**<br><br>
 
 Tämä kattaa kaiken yleisimmistä häviöttömistä formaateista (FLAC, WAV, AIFF, ALAC M4A:n sisällä, APE) häviöllisiin (MP3, AAC M4A:n sisällä, OGG Vorbis, OPUS, WMA) ja jopa klassisiin tracker-formaatteihin (MOD, S3M, IT, XM). Jos tarvitsemasi formaatti puuttuu, kerro meille kohdasta **Asetukset → Lähetä palautetta**.<br><br>
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Mitä äänisiritteitä Evertag tukee?" closed="true" %}}
+{{% ls-details title="Mitä äänisiritteitä Evertag tukee?" closed="true" %}}
 Evertag tukee yli **120 tagikentää** kaikissa tärkeimmissä metatietostandardeissa — **ID3v1, ID3v2.3, ID3v2.4, MP4 / iTunes, Vorbis Comments, APE ja ASF / Windows Media**.<br><br>
 
 Täydellinen aakkosjärjestyksessä oleva luettelo:<br><br>
@@ -109,18 +109,18 @@ Täydellinen aakkosjärjestyksessä oleva luettelo:<br><br>
 ASIN, AcoustID: Fingerprint, AcoustID: Identifier, Album, Album Artist, Album Artist Sort Order, Album Cover, Album Sort Order, Arranger, Artist, Artist Sort Order, Artists, Barcode, Beats Per Minute, Catalog Number, Comment, Compilation, Composer, Composer Sort Order, Conductor, Content Group, Copyright, Description, Director, Disk Number, Disk Subtitle, Disk Total, Encoded By, Encoder Settings, Encoding Time, Engineer, File Owner, File Type, Genre, Grouping, ISRC, Initial Key, Involved People, Language, Length, License, Lyricist, Lyrics Advisory Rating, Lyrics Unsynced, Media Type, Mix DJ, Mixer, Mood, Movement Name, Movement Number, Movement Total, MusicBrainz: Album Artist ID, MusicBrainz: Album ID, MusicBrainz: Album Release Country, MusicBrainz: Album Status, MusicBrainz: Album Type, MusicBrainz: Artist ID, MusicBrainz: Disc ID, MusicBrainz: Original Album ID, MusicBrainz: Original Artist ID, MusicBrainz: Release Group ID, MusicBrainz: Release Track ID, MusicBrainz: TRM ID, MusicBrainz: Track ID, MusicBrainz: Work ID, MusicIP: Fingerprint, MusicIP: PUID, Musician Credits, Narrator, Net Radio Owner, Net Radio Station, Original Album, Original Artist, Original File Name, Original Lyricist, Original Release Date, Original Release Year, Performer, Podcast, Podcast Category, Podcast Description, Podcast ID, Podcast Keywords, Podcast URL, Producer, Publisher, Rating, Record Label, Release Country, Release Status, Release Type, Remixed By, Replay Gain: Album Gain, Replay Gain: Album Peak, Replay Gain: Album Range, Replay Gain: Reference Loudness, Replay Gain: Track Gain, Replay Gain: Track Peak, Replay Gain: Track Range, Script, Show Movement, Show Name, Show Name Sort Order, Subtitle, Track Number, Track Title, Track Title Sort Order, Track Total, WWW, WWW: Artist, WWW: Audio File, WWW: Audio Source, WWW: Commercial Info, WWW: Copyright, WWW: Payment, WWW: Publisher, WWW: Radio Page, Website, Work Title, Writer, Year.<br><br>
 
 Katso [Tagikentän kartoitus](/docs/guide/evertag/evertag-tag-field-mappings/) -viite kunkin formaatin tarkoista kenttänimistä.<br><br>
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Voiko Evertag kirjoittaa tageja ID3v2.3- tai ID3v2.4-muodossa?" closed="true" %}}
+{{% ls-details title="Voiko Evertag kirjoittaa tageja ID3v2.3- tai ID3v2.4-muodossa?" closed="true" %}}
 Kyllä. Avaa **Asetukset → Äänisiritemuokkain → Tagin tallennusasetukset** ja ota **ID3v2.4** käyttöön tai poista se käytöstä.<br><br>
 
 • **ID3v2.4 päällä** (oletus) — moderni standardi täydellisellä UTF-8-tuella, moniarvo-kehyksillä ja rikkaammalla metatiedolla. Ihanteellinen nykyaikaisille tietokoneen soittimille, musiikinhallinnoille ja useimmille nykyaikaisille autostereolaitteille.<br>
 • **ID3v2.4 pois päältä** — tallentaa tagit laajemmin tuettuun **ID3v2.3**-muotoon. Käytä tätä, jos vanhempi laite, auton yksikkö tai DJ-ohjelmisto näyttää tyhjiä tageja muokkauksen jälkeen.<br><br>
 
 Sama asetussivu paljastaa **Kaksoistagit**-vaihtoehdon, joka kirjoittaa yleisiä metatietoja tiedoston molempiin ID3-osioihin maksimaalisen yhteensopivuuden saavuttamiseksi vanhojen soittimien kanssa.<br><br>
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Voiko Evertag korjata sotkuisia tai vioittuneita merkkejä äänisiriitteissä (kyrillinen, kiinalainen, japanilainen jne.)?" closed="true" %}}
+{{% ls-details title="Voiko Evertag korjata sotkuisia tai vioittuneita merkkejä äänisiriitteissä (kyrillinen, kiinalainen, japanilainen jne.)?" closed="true" %}}
 Kyllä. Evertag sisältää sisäänrakennetun **koodauksen normalisoijan**, joka muuntaa virheellisesti koodatun tekstin (esimerkiksi kyrilliset, kiinalaiset, japanilaiset tai korealaiset tagit, jotka näkyvät sekavana tekstinä kuten `Ðàñêîëüíèêîâ`) takaisin luettavaksi UTF-8:ksi.<br><br>
 
 Käyttääksesi sitä:<br>
@@ -129,23 +129,23 @@ Käyttääksesi sitä:<br>
 3. Tallenna tiedosto.<br><br>
 
 Jos et näe painiketta, ota se käyttöön kohdasta **Asetukset → Äänisiritemuokkain → Painikkeet päänäytöllä**. Koodauskorjaukset ovat erityisen hyödyllisiä kirjastoille, jotka on alun perin tagitettu Windowsissa, missä tagien lukijat käyttävät oletuksena ANSI / CP-1251 / Shift-JIS:iä UTF-8:n sijaan.<br><br>
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Mitä pilvipalveluja tuetaan?" closed="true" %}}
+{{% ls-details title="Mitä pilvipalveluja tuetaan?" closed="true" %}}
 Evertag muodostaa yhteyden täyteen valikoimaan suosittuja pilvipalveluja ja antaa sinun muokata tageja suoraan etätiedostoissa:<br><br>
 
 **iCloud Drive, Google Drive, Dropbox, OneDrive, Box, MEGA, Yandex.Disk, pCloud, Synology Drive, MediaFire, WD My Cloud Home, InfiniCLOUD (TeraCLOUD), HiDrive, OpenDrive, MyDrive, Put.io, Cloud Mail.ru, Baidu Pan (百度网盘)**.<br><br>
 
 Voit myös yhdistää minkä tahansa henkilökohtaisen NAS-laitteen, Apple Time Capsulen tai tietokoneen, joka tukee **SMB**:tä tai **WebDAV**:tä — katso [Yhteydet-opas](/docs/guide/evertag/evertag-guide-connections/) vaiheittaista asennusta varten. Ilmaisessa versiossa voit lisätä yhden pilitilin; **Premium** antaa sinun yhdistää niin monta tiliä kuin tarvitset.<br><br>
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Kuinka lisään uuden pilitilin?" closed="true" %}}
+{{% ls-details title="Kuinka lisään uuden pilitilin?" closed="true" %}}
 Avaa **Yhteydet**-välilehti → napauta **Yhdistä pilvisäilöön** → valitse palveluntarjoaja listalta (iCloud Drive, Google Drive, Dropbox, OneDrive, Box, MEGA, Yandex.Disk, pCloud, Synology Drive, MediaFire, WD My Cloud Home, InfiniCLOUD, HiDrive, OpenDrive, MyDrive, Put.io, Cloud Mail.ru tai Baidu Pan) → kirjaudu sisään palveluntarjoajan virallisella sivulla → napauta **Valmis**.<br><br>
 
 Jos yhteys epäonnistuu, tarkista internet-yhteytesi ja kirjautumistietosi sekä varmista, että kaksivaiheinen todennus on määritetty oikein kyseiselle palvelulle. **Premium**-versiossa voit lisätä rajattoman määrän tilejä ja kiinnittää syvästi sisäkkäisiä kansioita **Pikakäyttö**-listaan Yhteydet-näytön yläosassa yhdellä napautuksella selaamista varten.<br><br>
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Voinko muokata äänisiritteitä Google Drivessa, Dropboxissa tai iCloud Drivessa lataamatta koko kirjastoa?" closed="true" %}}
+{{% ls-details title="Voinko muokata äänisiritteitä Google Drivessa, Dropboxissa tai iCloud Drivessa lataamatta koko kirjastoa?" closed="true" %}}
 Kyllä. Kun olet yhdistänyt pilitilin, Evertag lähettää vain muokattavan tiedoston — koko kirjastoa ei tarvitse peilata paikallisesti.<br><br>
 
 Kun napautat etätiedostoa:<br>
@@ -155,9 +155,9 @@ Kun napautat etätiedostoa:<br>
 4. Väliaikainen kopio poistetaan (tai säilytetään, riippuen kohdasta **Asetukset → Äänisiritemuokkain → Muokkaa online-tiedostoja**).<br><br>
 
 Voit hallita tallentamisen toimintaa kohdasta **Asetukset → Äänisiritemuokkain → Päivitä online-tiedostot**: kysy ennen jokaista tallennusta, lataa aina automaattisesti tai ohita lataaminen kokonaan (vain paikalliset muokkaukset).<br><br>
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Voinko käyttää Evertag-sovellusta NAS-laitteen kuten Synologyn, QNAPin, Asustorin tai Apple Time Capsulen kanssa?" closed="true" %}}
+{{% ls-details title="Voinko käyttää Evertag-sovellusta NAS-laitteen kuten Synologyn, QNAPin, Asustorin tai Apple Time Capsulen kanssa?" closed="true" %}}
 Kyllä. Yhdistä mikä tahansa NAS käyttämällä **SMB**:tä tai **WebDAV**:tä — ne ovat kaksi protokollaa, joita jokainen suuri NAS-valmistaja (Synology, QNAP, Asustor, TerraMaster, Western Digital, Buffalo, Apple Time Capsule) tukee oletuksena.<br><br>
 
 • **SMB** — napauta **Yhdistä pilvisäilöön → SMB**, syötä `smb://nas-ip-address/shared-folder-name`, valitse protokollaversio (Auto / SMB1 / SMB2), syötä kirjautumistunnus + salasana, napauta **Valmis**. Täydellinen opetusohjelma: [Suoratoista musiikkia Macista tai PC:ltä SMB:n kautta](/docs/howto/stream-your-music-from-mac-or-pc-to-iphone-using-smb/).<br>
@@ -165,9 +165,9 @@ Kyllä. Yhdistä mikä tahansa NAS käyttämällä **SMB**:tä tai **WebDAV**:t�
 • **Synology Drive** — tuetaan ensiluokkaisena integraationa (erillään yleisestä WebDAV:sta). Täydellinen opetusohjelma: [Yhdistä Synology NAS ja kuuntele musiikkia iPhonella tai Macilla](/docs/howto/how-to-connect-synology-nas-and-listen-to-music-on-your-iphone-or-mac/).<br><br>
 
 Paikallisessa verkossa lähettävät laitteet näkyvät myös automaattisesti Yhteydet-näytön **Saatavilla olevat laitteet** -osiossa.<br><br>
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Kuinka päivitän tiedoston metatiedot automaattisesti pilvipalvelussa muokkauksen jälkeen?" closed="true" %}}
+{{% ls-details title="Kuinka päivitän tiedoston metatiedot automaattisesti pilvipalvelussa muokkauksen jälkeen?" closed="true" %}}
 Pilvipalvelutiedostojen tallentamistoiminta ohjataan kohdasta **Asetukset → Äänisiritemuokkain → Päivitä online-tiedostot** kolmella vaihtoehdolla:<br><br>
 
 • **Näytä vahvistusviesti** *(oletus)* — sovellus kehottaa sinua ennen muokatun tiedoston lataamista takaisin pilveen.<br>
@@ -175,9 +175,9 @@ Pilvipalvelutiedostojen tallentamistoiminta ohjataan kohdasta **Asetukset → Ä
 • **Älä päivitä tiedoston metatietoja** — sovellus ohittaa lataamisen kokonaan; muutoksesi pysyvät paikallisina eikä pilvikopiota muuteta.<br><br>
 
 Yhdistä tämä kohtaan **Asetukset → Äänisiritemuokkain → Muokkaa online-tiedostoja** päättääksesi, poistetaanko paikallisesti ladattu kopio (säästää tilaa) vai pidetäänkö se (nopeampi uudelleenavaami) jokaisen muokkauksen jälkeen.<br><br>
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Miksi muutokseni eivät näy pilvetiedoston muokkauksen jälkeen?" closed="true" %}}
+{{% ls-details title="Miksi muutokseni eivät näy pilvetiedoston muokkauksen jälkeen?" closed="true" %}}
 Tarkista ensin, ettei **Päivitä online-tiedostot** -asetuksesi ole asetettu kohtaan **Älä päivitä tiedoston metatietoja** — tässä tilassa muutokset pysyvät paikallisina eikä niitä koskaan ladata uudelleen pilveen. Avaa **Asetukset → Äänisiritemuokkain → Päivitä online-tiedostot** ja valitse sen sijaan **Näytä vahvistusviesti** tai **Päivitä tiedoston metatiedot automaattisesti**.<br><br>
 
 Muita asioita tarkistettavaksi:<br>
@@ -187,9 +187,9 @@ Muita asioita tarkistettavaksi:<br>
 • Jos käytät **iCloud Drivea**, tiedosto saattaa vielä ladata toiselta laitteelta. Avaa tiedosto iOS:n Tiedostot-sovelluksessa ja vahvista, ettei synkronointiindikaattori enää pyöri.<br><br>
 
 Yhä jumissa? Käytä **Asetukset → Lähetä palautetta** tiedostoformaatilla, pilvipalvelulla ja lyhyellä kuvauksella.<br><br>
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Kuinka lataan tiedostoja pilvisäilöstä?" closed="true" %}}
+{{% ls-details title="Kuinka lataan tiedostoja pilvisäilöstä?" closed="true" %}}
 Tarvitset ensin vähintään yhden yhdistetyn pilitilin — avaa **Yhteydet**-näyttö ja lisää palveluntarjoaja.<br><br>
 
 Tiedostojen tai kansioiden lataamiseksi:<br>
@@ -199,9 +199,9 @@ Tiedostojen tai kansioiden lataamiseksi:<br>
 4. Tarkista tarvitsemasi tiedostot tai kansiot ja napauta sitten **Ladata**.<br><br>
 
 Lataukset päätyvät **Paikalliset tiedostot → Lataukset** -kansioon ja näkyvät **siirtojono**ssa — avaa se pyörivien nuolten kuvakkeesta Paikalliset tiedostot -näytön vasemmassa yläkulmassa. Voit muuttaa oletuskohteen kohdasta **Asetukset → Tiedostonhallinta → Tallenna ladatut tiedostot kohteeseen** ja vaihtaa taustalla tapahtuvia siirtoja samalta näytöltä.<br><br>
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Kuinka hallitsen tiedostoja verkkosäilössä?" closed="true" %}}
+{{% ls-details title="Kuinka hallitsen tiedostoja verkkosäilössä?" closed="true" %}}
 Avaa pilvikansio, napauta **…**-painiketta oikeassa yläkulmassa ja valitse **Valita** siirtyäksesi valintatilaan. Valintaruudut näkyvät jokaisen tiedoston ja kansion vieressä, jotta voit valita yhden tai useamman kohteen.<br><br>
 
 Valinnan käytettävissä olevat toiminnot:<br>
@@ -214,9 +214,9 @@ Valinnan käytettävissä olevat toiminnot:<br>
 • **Ruudukko / Lista** — vaihda taulukko- ja pikkukuvanäkymän välillä.<br><br>
 
 Jos kaikkille toiminnoille ei ole tilaa, työkalupalkissa näkyy **Lisää toimintoja** -ylimäärää-painike — napauta sitä nähdäksesi koko luettelon.<br><br>
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Kuinka muokkaan metatietoja iPhonella tai iPadilla paikallisesti tallennetuille musiikkitiedostoille?" closed="true" %}}
+{{% ls-details title="Kuinka muokkaan metatietoja iPhonella tai iPadilla paikallisesti tallennetuille musiikkitiedostoille?" closed="true" %}}
 Avaa **Paikalliset tiedostot** ja selaa **Tiedostot tässä iPhonessa** (tai iPad / Mac) -osioon.<br><br>
 
 • Valitse **Avaa tiedostoja…** valitaksesi yhden tai useamman äänitiedoston mistä tahansa laitteella, tai **Avaa kansio…** valitaksesi kokonaisen kansion.<br>
@@ -228,9 +228,9 @@ Avaa **Paikalliset tiedostot** ja selaa **Tiedostot tässä iPhonessa** (tai iPa
 3. Valitse musiikkikansio ja napauta **Avaa**.<br><br>
 
 Kansio näkyy **Tiedostot tässä iPhonessa** -listassa luku/kirjoitus-oikeuksilla — ihanteellinen järjestelmän Tiedostot-sovelluksen alle tai toisen sovelluksen näkyvässä kansiossa tallennetuille musiikkikirjastoille. Yhteyden katkaisemiseksi myöhemmin napauta **…** kansion vieressä ja valitse **Irrottaa**. Yksityiskohtainen opetusohjelma: [Toista paikallista musiikkia iPhonella tai Macilla](/docs/howto/how-to-play-local-music-stored-on-your-iphone-or-mac).<br><br>
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Kuinka siirtää musiikkia tietokoneelta Evertagiin?" closed="true" %}}
+{{% ls-details title="Kuinka siirtää musiikkia tietokoneelta Evertagiin?" closed="true" %}}
 Voit yhdistää tietokoneesi tai NAS-laitteesi käyttämällä **SMB**:tä, **WebDAV**:tä, **Wi-Fi Drivea** tai **Finderin tiedostonjakoa** (iTunes File Sharing vanhemmassa macOS:ssa).<br><br>
 
 **SMB** — napauta **Yhdistä pilvisäilöön → SMB**, syötä `smb://computer-ip-address/shared-folder-name`, aseta tunnistetiedot, napauta **Valmis**. Täydellinen opetusohjelma: [Siirrä tiedostoja tietokoneelta iPhonelle SMB-protokollan avulla](/docs/howto/transfer-your-files-from-the-computer-to-iphone-using-smb-protocol/).<br><br>
@@ -240,15 +240,15 @@ Voit yhdistää tietokoneesi tai NAS-laitteesi käyttämällä **SMB**:tä, **We
 **Wi-Fi Drive** — täysin langaton. Avaa **Yhteydet → Tietokone → Yhdistä Wi-Fi-verkon kautta** ja käynnistä palvelin, avaa sitten tietokoneesi selaimessa näkyvä URL ja **vedä ja pudota** tiedostoja sivulle. Molempien laitteiden on oltava samassa Wi-Fi-verkossa. Täydellinen opetusohjelma: [Siirrä tiedostoja langattomasti Wi-Fi Driven avulla](/docs/howto/how-to-transfer-files-wirelessly-from-a-computer-to-an-iphone-using-wifi-drive).<br><br>
 
 **Finderin tiedostonjako** (tai iTunes File Sharing vanhemmassa macOS:ssa / Windowsissa) — kytke iPhonesi/iPadisi tietokoneeseen kaapelilla, avaa **Finder → laitteesi → Tiedostot → Evertag** ja vedä tiedostoja jaettuun kansioon. Täydellinen opetusohjelma: [Toista paikallisia iTunes-tiedostoja iPhonellani](/docs/howto/how-to-play-local-itunes-files-on-my-iphone).<br><br>
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Voinko muokata äänisiritteitä offline-tilassa ilman internet-yhteyttä?" closed="true" %}}
+{{% ls-details title="Voinko muokata äänisiritteitä offline-tilassa ilman internet-yhteyttä?" closed="true" %}}
 Kyllä. Paikallisten tiedostojen muokkaaminen toimii täysin offline-tilassa — tagieditori, erätila, albumikansikuvan vaihto, koodauskorjaus ja lyriikoiden muokkain eivät vaadi internet-yhteyttä.<br><br>
 
 Toiminnot, jotka tarvitsevat internetin, on selkeästi merkitty: MusicBrainz-automaattihaku, manuaalinen MusicBrainz-tagihaku, albumikansikuvan verkkohaku ja lyriikoiden haun pikakuvakkeet (Lrclib, Genius, Lyricsify, Google). Jos menet offline-tilaan istunnon puolivälissä, nämä palvelut yksinkertaisesti poistetaan käytöstä — paikalliset muokkauksesi eivät vaikutu.<br><br>
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Kuinka muokkaan useita tiedostoja kerralla (erätila)?" closed="true" %}}
+{{% ls-details title="Kuinka muokkaan useita tiedostoja kerralla (erätila)?" closed="true" %}}
 Käytä **erätilaa** saman metatietosisällön muutoksen soveltamiseen moniin raitoihin kerralla. Sen voi aloittaa kahdella tavalla:<br><br>
 
 **Tiedostonhallinnasta**<br>
@@ -263,9 +263,9 @@ Käytä **erätilaa** saman metatietosisällön muutoksen soveltamiseen moniin r
 3. Napauta **Muokkaa tiedostoja samanaikaisesti** — kaikki äänitiedostot samassa kansiossa ladataan yhteen.<br><br>
 
 Tee muutoksesi kerran ja napauta **Tallentaa** — uudet arvot kirjoitetaan jokaiseen valittuun tiedostoon. Ihanteellinen albumin nimen, albumin artistin, genren, vuoden tai raitojen kokonaismäärän korjaamiseen koko albumissa.<br><br>
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Kuinka vaihdan albumikansikuvan useissa kappaleissa kerralla?" closed="true" %}}
+{{% ls-details title="Kuinka vaihdan albumikansikuvan useissa kappaleissa kerralla?" closed="true" %}}
 Aktivoi **erätila** (katso yllä), napauta **kameran kuvaketta** kansikuvan karusellissa ja valitse uusi kuva — sama kansikuva kirjoitetaan jokaiseen valittuun tiedostoon yhdellä tallennuksella.<br><br>
 
 Voit hankkia uuden kannen:<br>
@@ -274,17 +274,17 @@ Voit hankkia uuden kannen:<br>
 • **Yhdistetystä pilitilestä** — osoita Evertag pilvessäsi olevaan JPG/PNG-tiedostoon.<br><br>
 
 Hallitse tallennetun kuvan laatua kohdasta **Asetukset → Äänisiritemuokkain → Albumikansikuvan skaalaus** — Pieni / Keskikokoinen / Suuri / Erittäin suuri tai 'Poissa käytöstä' (Premium) alkuperäiskoon säilyttämiseksi.<br><br>
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Kuinka löydän puuttuvan albumikansikuvan automaattisesti?" closed="true" %}}
+{{% ls-details title="Kuinka löydän puuttuvan albumikansikuvan automaattisesti?" closed="true" %}}
 Napauta **Hae albumikansikuva** -painiketta kansikuvan alla tagieditorissa. Evertag käyttää raidan nykyistä artisti- ja albumimetatietoa löytääkseen sopivan kansikuvataiteen verkosta.<br><br>
 
 Kun hakutulokset näkyvät, paina pitkään haluamaasi kuvaa ja valitse järjestelmävalikosta **Tallenna kuviin**. Palaa Evertagiin, napauta **kameran kuvaketta** kansikuvassa, valitse **Kuvat-kirjasto** ja valitse tallennettu kuva — kansi lisätään tiedostoon. Albumikansikuvan tallenna -painike (saman valikon alla) antaa sinun myös varmuuskopioida nykyisen kansikuvan Asiakirjat-kansioon myöhempää käyttöä varten.<br><br>
 
 Jos 'Hae albumikansikuva' -painike ei ole näkyvissä, ota se käyttöön kohdasta **Asetukset → Äänisiritemuokkain → Painikkeet päänäytöllä**.<br><br>
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Käyttääkö Evertag MusicBrainzia?" closed="true" %}}
+{{% ls-details title="Käyttääkö Evertag MusicBrainzia?" closed="true" %}}
 Kyllä. Evertag-sovelluksen automaattiset ja manuaaliset tagihaut perustuvat **MusicBrainz**-tietokantaan — yhteen suurimmista avoimen lähdekoodin musiikkimetatietoprojekteista, jossa on yli 50 miljoonaa raitaa.<br><br>
 
 Kaksi hakuprosessia on saatavilla tagieditorin alatyökalupalkista:<br>
@@ -292,9 +292,9 @@ Kaksi hakuprosessia on saatavilla tagieditorin alatyökalupalkista:<br>
 • **Manuaalinen äänisiritteiden haku** — valitse albumi, kappale ja tarkka sovellettavien kenttien joukko.<br><br>
 
 Voit myös tallentaa MusicBrainz-tunnuksia suoraan: Album ID, Album Artist ID, Artist ID, Disc ID, Release Group ID, Release Track ID, Track ID, Work ID ja paljon muuta (katso [Tagikentän kartoitus](/docs/guide/evertag/evertag-tag-field-mappings/) -viite). Nämä tunnukset antavat muille MusicBrainz-yhteensopiville sovelluksille (Picard, MusicBrainz Browser, Roon, Plex) ristiviitata raitojasi luotettavasti.<br><br>
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Kuinka lisään lyriikoita kappaleisiin Evertagissa?" closed="true" %}}
+{{% ls-details title="Kuinka lisään lyriikoita kappaleisiin Evertagissa?" closed="true" %}}
 Lyriikat löytyvät **laajennetusta tagieditorista**. Tässä on nopea polku:<br><br>
 
 1. Napauta tiedostoa avataksesi tagieditorin.<br>
@@ -313,15 +313,15 @@ Lyriikat löytyvät **laajennetusta tagieditorista**. Tässä on nopea polku:<br
 Jokainen painike näkyy vain, kun vastaava palvelu on tavoitettavissa. Täydellinen opastus: [Kuinka muokata lyriikoita äänitiedostoille iPhonella tai Macilla](/docs/howto/how-to-edit-lyrics-for-audio-files-on-iphone-mac/).<br><br>
 
 **Synkronoidut (LRC) lyriikat.** Muokkain hyväksyy pelkotekstiä **ja** LRC-muotoisia lyriikoita (rivitason `[mm:ss.ms]`-aikaleimat) — liitä LRC-teksti kenttään ja tallenna, niin äänitiedoston lyriikoiden tagi tallentaa sen sellaisenaan, valmiina mihin tahansa LRC-yhteensopivaan soittimeen. Sisäänrakennetut **Lrclib**- ja **Lyricsify**-pikakuvakkeet palauttavat LRC-merkkijonoja oletuksena, joten voit rakentaa täysin synkronoidun lyriikoiden kirjaston sekunneissa poistumatta sovelluksesta.<br><br>
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Kuinka ilmoitan bugista tai otan yhteyttä tukeen?" closed="true" %}}
+{{% ls-details title="Kuinka ilmoitan bugista tai otan yhteyttä tukeen?" closed="true" %}}
 Avaa **Asetukset → Lähetä palautetta** lähettääksesi sähköpostin tukitiimiimme liitettyjen lokien kanssa. Tiedostoformaatin (esim. FLAC), pilvipalvelun (jos olennainen) ja iOS / macOS -version ilmoittaminen nopeuttaa diagnostiikkaa huomattavasti.<br><br>
 
 Itseavun vastauksiin katso [Käyttöopas](/docs/guide/evertag/), [Kuinka-artikkeleita](/docs/howto/) tai nämä UKK:t. Jos huomaat kirjoitusvirheen tai puuttuvan aiheen dokumentaatiossa, kerro meille samalla tavalla — päivitämme opasta säännöllisesti.<br><br>
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Kuinka poistan Evertag-sovelluksen ja kaikki tietoni?" closed="true" %}}
+{{% ls-details title="Kuinka poistan Evertag-sovelluksen ja kaikki tietoni?" closed="true" %}}
 Sovelluksen poistaminen iOS:lta, iPadOS:lta tai macOS:lta poistaa **kaikki** Evertag-sovelluksen luomat tiedostot, mukaan lukien ladatut kappaleet, välimuistissa olevat pikkukuvat, albumikansikuvat, asetukset, pääsykoodi ja yhdistettyjen pilitilien todennustunnukset.<br><br>
 
 Jos haluat mieluummin pitää sovelluksen mutta vapauttaa tilaa poistamatta sitä:<br>
@@ -331,6 +331,6 @@ Jos haluat mieluummin pitää sovelluksen mutta vapauttaa tilaa poistamatta sit�
 • Katkaise pilitilien yhteydet **Yhteydet**-näytöltä poistaaksesi niiden todennustunnukset.<br><br>
 
 Pilven tiedostoja ei koskaan poisteta Evertag-sovellusta asennettaessa — ne pysyvät pilvipalveluntarjoajan palvelimilla ja ovat käytettävissä mistä tahansa verkkoasiakasohjelmasta.<br><br>
-{{% /details %}}
+{{% /ls-details %}}
 
 </div>

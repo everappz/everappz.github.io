@@ -16,7 +16,7 @@ readingTime: 3
 Evertag có giao diện người dùng trực quan. Điều làm nó khác biệt so với nhiều ứng dụng phổ biến là trình quản lý tệp tích hợp, cho phép người dùng chỉnh sửa tệp âm thanh và truyền chúng đến và từ bộ nhớ đám mây một cách liền mạch.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evertag Screen" image="/docs/guide/evertag/img/tag-editor.webp" >}}
+  {{< ls-card title="" subtitle="Evertag Screen" image="/docs/guide/evertag/img/tag-editor.webp" >}}
 {{< /cards >}}
 
 ## Các phần
@@ -42,7 +42,7 @@ Phần Tệp cục bộ được chia thành hai danh mục: **Tệp trong ứng
 Hầu hết mọi mục nội dung trên màn hình đều có nút «Thêm hành động». Nhấn vào để truy cập tất cả các hành động có sẵn.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evertag More Actions" image="/docs/guide/evertag/img/downloads-file-actions.webp" >}}
+  {{< ls-card title="" subtitle="Evertag More Actions" image="/docs/guide/evertag/img/downloads-file-actions.webp" >}}
 {{< /cards >}}
 
 ## Thanh công cụ trên cùng

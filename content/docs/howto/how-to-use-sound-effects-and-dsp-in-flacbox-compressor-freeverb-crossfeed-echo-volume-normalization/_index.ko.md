@@ -7,9 +7,9 @@ tags: ["Flacbox", "오디오 효과", "사용법", "BASS", "이퀄라이저", "�
 readingTime: 30
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
-{{< full-width-tables >}}
+{{< ls-full-width-tables >}}
 
 **간단한 답변:** Flacbox에서는 **설정 > 오디오 플레이어**에서 하나의 **재생 엔진**을 선택합니다. **Standard**(Apple의 시스템 엔진), **Universal**(FFmpeg 엔진), 또는 **Sound FX**(**BASS™ 엔진**)입니다. 선택한 엔진이 어떤 파일 형식을 재생할지 결정하므로 선택이 중요합니다. **Sound FX** 엔진은 대부분의 iPhone 앱이 건너뛰는 추가 형식(FLAC, DSD, WavPack, APE, Musepack, TrueAudio, Opus, 그리고 MOD, XM, IT, S3M 같은 오래된 **MOD 및 트래커 음악**)을 재생하며, 사운드 도구를 구동하는 유일한 엔진입니다. 즉 **10밴드 이퀄라이저**, **볼륨 정규화**, **컴프레서**, **Freeverb**, **오토 와우**, **페이저**, **플랜저**, **에코**, **코러스**, **디스토션**, **로테이트**, **크로스피드**, 그리고 직접 만드는 **DSP 체인**입니다. 따라서 이 가이드의 효과를 사용하려면 먼저 재생 엔진을 **Sound FX**로 설정하세요. 각 도구에는 미리 만들어진 **프리셋**이 있습니다. **설정 > 오디오 플레이어**(오디오 효과, 오디오 이퀄라이저, 신호 처리)에서 열거나, 플레이어에서 **⋯ (추가 작업)** 버튼을 누르고 **오디오 효과**를 선택하세요. 여기서 하는 어떤 작업도 파일을 변경하지 않습니다.
 
@@ -657,93 +657,93 @@ Flacbox는 사운드 도구를 오디오 플레이어 설정 안에 있는 세 �
 
 ## 자주 묻는 질문
 
-{{% details title="Flacbox는 어떤 사운드 엔진을 사용하나요?" closed="true" %}}
+{{% ls-details title="Flacbox는 어떤 사운드 엔진을 사용하나요?" closed="true" %}}
 설정 > 오디오 플레이어에서 하나의 재생 엔진을 선택합니다. Standard(Apple의 시스템 엔진), Universal(FFmpeg 엔진), 또는 Sound FX(Un4seen Developments의 BASS™ 엔진, un4seen.com)입니다. 선택한 엔진이 어떤 파일 형식을 재생할지 결정합니다. Sound FX는 FLAC, DSD, WavPack, APE, Musepack, TrueAudio, Opus, 그리고 MOD 또는 트래커 음악 같은 추가 형식을 재생하는 엔진이며, 실시간 효과, 10밴드 이퀄라이저, DSP 체인을 제공하는 유일한 엔진입니다. 효과를 사용하려면 재생 엔진을 Sound FX로 설정하세요.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Flacbox는 MOD, XM, IT, 그리고 다른 트래커 또는 모듈 음악을 재생할 수 있나요?" closed="true" %}}
+{{% ls-details title="Flacbox는 MOD, XM, IT, 그리고 다른 트래커 또는 모듈 음악을 재생할 수 있나요?" closed="true" %}}
 네. BASS™ 엔진에는 MOD, XM, IT, S3M, MTM, UMX, MO3 파일을 로드하고 트래커 음악이 재생되도록 의도된 방식대로 패턴과 악기 소리로부터 노래를 실시간으로 재구성하는 내장 모듈 플레이어가 있습니다. 일반 iPhone 플레이어는 이를 할 수 없습니다. 효과와 이퀄라이저는 모듈 음악에도 작동합니다.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Flacbox는 DSD와 고해상도 파일을 지원하나요?" closed="true" %}}
+{{% ls-details title="Flacbox는 DSD와 고해상도 파일을 지원하나요?" closed="true" %}}
 네. Flacbox는 DSD 파일(DSF 및 DFF)을 DSD over PCM을 사용하여 BASS™ 엔진을 통해 재생하므로 일반 출력 하드웨어에서 작동하며, 무손실 재생을 위한 FLAC, WavPack, Monkey's Audio (APE), Musepack, TrueAudio도 재생합니다.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Flacbox에는 어떤 음향 효과가 있나요?" closed="true" %}}
+{{% ls-details title="Flacbox에는 어떤 음향 효과가 있나요?" closed="true" %}}
 10밴드 이퀄라이저, 볼륨 정규화, 컴프레서, Freeverb, 오토 와우, 페이저, 플랜저, 에코, 코러스, 디스토션, 로테이트, 크로스피드, 그리고 필터, 셸프, 게인, 소프트 클립, 비트 크러셔, 링 모듈레이터, 트레몰로, 딜레이, 스테레오 폭을 갖춘 직접 만드는 DSP 체인이 있습니다. 각각은 별개이며 다른 것들과 결합할 수 있습니다.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="프리셋이란 무엇인가요?" closed="true" %}}
+{{% ls-details title="프리셋이란 무엇인가요?" closed="true" %}}
 프리셋은 효과를 위해 미리 만들어진 설정입니다. 직접 슬라이더를 움직이는 대신, 프리셋을 누르면 사운드가 그에 맞게 바뀝니다. Flacbox의 모든 효과에는 여러 프리셋이 있으며, 이 가이드는 각각이 무엇을 하는지 나열합니다. 프리셋을 선택한 후 슬라이더를 움직이면, 효과에 «Manual»이 표시되어 이제 자신만의 값을 사용하고 있음을 알려줍니다.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Flacbox에서 오디오 효과를 어떻게 여나요?" closed="true" %}}
+{{% ls-details title="Flacbox에서 오디오 효과를 어떻게 여나요?" closed="true" %}}
 Now Playing 플레이어를 열고, ⋯ (추가 작업) 버튼을 누른 다음, 오디오 효과를 선택하세요. 또는 설정 > 오디오 플레이어 > 오디오 효과로 이동하세요. 효과를 누르고, 스위치를 켜고, 프리셋을 선택하거나, 슬라이더를 열어 미세 조정하세요.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="이퀄라이저는 어디에 있고, 최고의 설정은 무엇인가요?" closed="true" %}}
+{{% ls-details title="이퀄라이저는 어디에 있고, 최고의 설정은 무엇인가요?" closed="true" %}}
 설정 > 오디오 플레이어 > 오디오 이퀄라이저로 이동하세요. 32 Hz에서 16 kHz까지 10개 밴드가 있으며, 각각 -12에서 +12 dB, 여기에 -24에서 +24 dB 프리앰프와 22개 프리셋이 있습니다. 더 많은 저음을 위해서는 Bass Booster를 사용하세요. 더 선명한 목소리를 위해서는 Vocal Booster나 Pop을 사용하세요. 더 밝은 사운드를 위해서는 Treble Booster를 사용하세요. 그런 다음 개별 밴드를 취향에 맞게 조정하세요.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Flacbox에서 저음을 어떻게 부스트하나요?" closed="true" %}}
+{{% ls-details title="Flacbox에서 저음을 어떻게 부스트하나요?" closed="true" %}}
 두 가지 쉬운 방법이 있습니다. 오디오 이퀄라이저에서 Bass Booster를 선택하세요(또는 32 Hz와 64 Hz 밴드를 몇 dB 올리세요). 또는 신호 처리에서 Bass Boost로 설정된 Low Shelf 블록을 추가하세요. 두 경우 모두, 저음이 깔끔하게 유지되고 왜곡되지 않도록 프리앰프를 낮추거나 Gain 블록을 1~2 dB 추가하세요.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="내 음악에 가장 좋은 이퀄라이저 프리셋은 무엇인가요?" closed="true" %}}
+{{% ls-details title="내 음악에 가장 좋은 이퀄라이저 프리셋은 무엇인가요?" closed="true" %}}
 Rock과 Electronic은 강한 저음과 고음으로 에너지를 더합니다. Acoustic, Jazz, Classical은 따뜻하고 자연스럽게 유지됩니다. Pop과 Vocal Booster는 목소리를 앞으로 밉니다. Bass Booster와 Hip-Hop은 무게를 더합니다. Deep과 Loudness는 낮은 볼륨에서 더 풍성하게 들립니다. 장르에 맞는 것으로 시작한 다음, 미세 조정하세요.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="볼륨 정규화란 무엇이고, ReplayGain과 어떻게 다른가요?" closed="true" %}}
+{{% ls-details title="볼륨 정규화란 무엇이고, ReplayGain과 어떻게 다른가요?" closed="true" %}}
 모든 트랙이 거의 같은 음량으로 재생되게 합니다. EBU R128 표준(스트리밍 서비스처럼 LUFS로)을 사용해 실제 음량을 측정하고, 최대 부스트 한계와 함께 각 트랙을 목표치에 맞게 조정합니다. ReplayGain과 달리, 파일에 태그가 필요 없으며 오디오를 변경하지 않고 모든 소스에서 실시간으로 작동합니다. 프리셋: Light, Standard, Strong, Night.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="크로스피드란 무엇이고, 사용해야 하나요?" closed="true" %}}
+{{% ls-details title="크로스피드란 무엇이고, 사용해야 하나요?" closed="true" %}}
 크로스피드는 좌우 채널을 조금 섞어 헤드폰이 실제 스피커처럼 느껴지고 소리가 머릿속에 갇혀 있는 느낌을 덜 줍니다. 헤드폰 전용이므로 스피커에서는 꺼두세요. Flacbox는 Chu Moy와 Jan Meier 같은 프리셋과 함께 bs2b (Bauer) 방식을 사용합니다.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="컴프레서와 볼륨 정규화의 차이는 무엇인가요?" closed="true" %}}
+{{% ls-details title="컴프레서와 볼륨 정규화의 차이는 무엇인가요?" closed="true" %}}
 볼륨 정규화는 서로 다른 곡 사이의 음량을 맞춥니다. 컴프레서는 한 곡 안의 크고 작은 부분을 고릅니다. 이들은 서로 다른 문제를 해결하며, 특히 차 안이나 시끄러운 곳에서 함께 잘 작동합니다.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="신호 처리 (DSP) 체인이란 무엇인가요?" closed="true" %}}
+{{% ls-details title="신호 처리 (DSP) 체인이란 무엇인가요?" closed="true" %}}
 설정 > 오디오 플레이어 > 신호 처리에 있는 직접 만드는 랙입니다. 필터, 셸프, 게인, 소프트 클립, 비트 크러셔, 링 모듈레이터, 트레몰로, 딜레이, 스테레오 폭 같은 블록을 추가하고, 원하는 순서로 배치하고, 각각을 켜거나 끄고, 체인을 모든 채널, 왼쪽, 또는 오른쪽으로 향하게 하세요. 순서가 중요하므로, 원하는 사운드를 정확히 디자인할 수 있습니다.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="이퀄라이저, 효과, DSP 체인의 차이는 무엇인가요?" closed="true" %}}
+{{% ls-details title="이퀄라이저, 효과, DSP 체인의 차이는 무엇인가요?" closed="true" %}}
 이퀄라이저는 단순한 10밴드 음색 컨트롤입니다. 오디오 효과는 프리셋을 갖춘 미리 만들어진 도구(컴프레서, 리버브, 에코 등)입니다. DSP 체인은 개별 블록으로 자신만의 효과 순서를 만드는 곳입니다. 세 가지를 동시에 실행할 수 있습니다.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="효과가 내 음악 파일을 변경하거나 손상시키나요?" closed="true" %}}
+{{% ls-details title="효과가 내 음악 파일을 변경하거나 손상시키나요?" closed="true" %}}
 아니요. 모든 것은 음악이 재생되는 동안 실시간으로 적용됩니다. 파일은 절대 변경되거나 다시 저장되지 않습니다. 효과를 끄면 원래 사운드가 즉시 돌아옵니다.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="동시에 두 개 이상의 효과를 사용할 수 있나요?" closed="true" %}}
+{{% ls-details title="동시에 두 개 이상의 효과를 사용할 수 있나요?" closed="true" %}}
 네. 각 효과에는 자체 스위치가 있고 마스터 스위치가 없으므로, 어떤 조합도 작동합니다. 예를 들어 고른 청취를 위한 볼륨 정규화와 컴프레서, 또는 헤드폰에서 Freeverb와 크로스피드에 이퀄라이저를 더한 것입니다.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="효과 컨트롤이 왜 회색으로 표시되나요?" closed="true" %}}
+{{% ls-details title="효과 컨트롤이 왜 회색으로 표시되나요?" closed="true" %}}
 효과가 꺼져 있습니다. 컨트롤을 사용하려면 편집기 상단의 스위치를 켜세요. 모든 효과는 기본적으로 꺼져 있습니다.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Manual 라벨은 무엇을 의미하나요?" closed="true" %}}
+{{% ls-details title="Manual 라벨은 무엇을 의미하나요?" closed="true" %}}
 슬라이더를 프리셋에서 벗어나게 움직였다는 뜻이므로, 효과가 이제 이름 붙은 프리셋 대신 자신만의 사용자 지정 값을 사용하고 있습니다. 모든 슬라이더에는 재설정 버튼이 있으며, 프리셋을 다시 선택하면 수동 값이 대체됩니다.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="내 이퀄라이저 프리셋을 저장하고 공유할 수 있나요?" closed="true" %}}
+{{% ls-details title="내 이퀄라이저 프리셋을 저장하고 공유할 수 있나요?" closed="true" %}}
 네. 22개의 내장 프리셋 외에도, 자신만의 프리셋을 만들고, 순서를 바꾸고, 다른 장치로 설정을 옮기기 위해 내보내거나 가져올 수 있습니다.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="효과가 CarPlay, 스트리밍, 백그라운드 재생에서 작동하나요?" closed="true" %}}
+{{% ls-details title="효과가 CarPlay, 스트리밍, 백그라운드 재생에서 작동하나요?" closed="true" %}}
 네. 효과는 BASS™ 엔진 안에서 실행되므로, 로컬 파일, 클라우드 드라이브, 미디어 서버, 스트림, 모듈 음악에 적용되며, CarPlay와 백그라운드 재생 중에도 계속 작동합니다.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="오디오 출력 품질을 바꿀 수 있나요?" closed="true" %}}
+{{% ls-details title="오디오 출력 품질을 바꿀 수 있나요?" closed="true" %}}
 네. 설정 > 오디오 플레이어에서 헤드폰, 스피커, DAC에 맞게 출력 샘플 레이트, 채널 수, 버퍼 크기를 설정할 수 있습니다.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="헤드폰을 위한 좋은 시작 설정은 무엇인가요?" closed="true" %}}
+{{% ls-details title="헤드폰을 위한 좋은 시작 설정은 무엇인가요?" closed="true" %}}
 볼륨 정규화(Standard)를 켜고, 가벼운 컴프레서(Soft)를 추가하고, 좋아하는 이퀄라이저 프리셋을 선택하고, 크로스피드(Chu Moy 또는 Jan Meier)를 켜세요. 창의적인 사운드를 원하지 않는 한 리버브, 에코, 디스토션은 꺼두세요.
-{{% /details %}}
+{{% /ls-details %}}
 
 ---
 

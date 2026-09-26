@@ -7,7 +7,7 @@ tags: ["mp3", "trình chỉnh sửa", "iPhone", "thẻ", "siêu dữ liệu", "i
 readingTime: 2
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **Tóm tắt:** Sử dụng trình chỉnh sửa thẻ tích hợp trong Evermusic hoặc Flacbox để chỉnh sửa thẻ ID3 trên iPhone hoặc Mac -- cho cả tệp đám mây và tệp cục bộ. Cần chỉnh sửa hàng loạt hoặc hơn 120 trường thẻ? Sử dụng [Evertag](https://apps.apple.com/app/apple-store/id1450763230?pt=95781850&ct=everappzcom&mt=8) thay thế.
@@ -21,8 +21,8 @@ Khi bạn nhập bài hát vào thư viện nhạc, chúng được nhóm thông
 Trong khi nhiều ứng dụng desktop cung cấp chỉnh sửa siêu dữ liệu, Evermusic và Flacbox đưa sự đơn giản lên tầm cao mới bằng cách tích hợp trình chỉnh sửa thẻ ID3. Giờ đây, bạn có thể sử dụng một ứng dụng duy nhất để xây dựng thư viện nhạc, thưởng thức các bản nhạc và sửa thẻ âm thanh.
 
 {{< cards cols="2">}}
-{{< card link="https://apps.apple.com/app/apple-store/id885367198?pt=95781850&ct=everappzcom&mt=8" title="Tải Evermusic" icon="download" tag="Free" >}}
-{{< card link="https://apps.apple.com/app/apple-store/id1097564256?pt=95781850&ct=everappzcom&mt=8" title="Tải Flacbox" icon="download" tag="Free" >}}
+{{< ls-card link="https://apps.apple.com/app/apple-store/id885367198?pt=95781850&ct=everappzcom&mt=8" title="Tải Evermusic" icon="download" tag="Free" >}}
+{{< ls-card link="https://apps.apple.com/app/apple-store/id1097564256?pt=95781850&ct=everappzcom&mt=8" title="Tải Flacbox" icon="download" tag="Free" >}}
 {{< /cards >}}
 
 ## Trình chỉnh sửa chuyên nghiệp
@@ -30,7 +30,7 @@ Trong khi nhiều ứng dụng desktop cung cấp chỉnh sửa siêu dữ liệ
 Nhưng trước khi bắt đầu, hãy xem ứng dụng **Evertag** — hỗ trợ **hơn 120 thẻ âm thanh**, **hơn 30 định dạng âm thanh** và cung cấp **chỉnh sửa hàng loạt** mạnh mẽ. Nếu bạn đang tìm kiếm công cụ quản lý thẻ đầy đủ tính năng, Evertag là lựa chọn phù hợp. Tuy nhiên, nếu bạn chỉ cần một **trình chỉnh sửa thẻ đơn giản**, hãy tiếp tục với hướng dẫn này.
 
 {{< cards >}}
-{{< card link="https://apps.apple.com/app/apple-store/id1450763230?pt=95781850&ct=everappzcom&mt=8" title="Tải Evertag" icon="download" tag="Free" >}}
+{{< ls-card link="https://apps.apple.com/app/apple-store/id1450763230?pt=95781850&ct=everappzcom&mt=8" title="Tải Evertag" icon="download" tag="Free" >}}
 {{< /cards >}}
 
 
@@ -38,21 +38,21 @@ Nhưng trước khi bắt đầu, hãy xem ứng dụng **Evertag** — hỗ tr�
 Liên kết tài khoản đám mây ưa thích trong ứng dụng.
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Kết nối máy chủ đám mây" image="/docs/howto/how-to-edit-id3-tags-on-iphone/connect_cloud_server.webp" >}}
+{{< ls-card title="" subtitle="Kết nối máy chủ đám mây" image="/docs/howto/how-to-edit-id3-tags-on-iphone/connect_cloud_server.webp" >}}
 {{< /cards >}}
 
 ## Điều hướng đến tệp âm thanh  
 Mở thư mục chứa tệp âm thanh trong tài khoản đám mây đã kết nối.
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Thư mục đám mây" image="/docs/howto/how-to-edit-id3-tags-on-iphone/cloud_server_folders.webp" >}}
+{{< ls-card title="" subtitle="Thư mục đám mây" image="/docs/howto/how-to-edit-id3-tags-on-iphone/cloud_server_folders.webp" >}}
 {{< /cards >}}
 
 ## Truy cập tùy chọn tệp  
 Nhấn nút 'Thêm' ('...') bên cạnh tệp bạn muốn chỉnh sửa.
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Thêm hành động" image="/docs/howto/how-to-edit-id3-tags-on-iphone/cloud_server_audio_more_actions.webp" >}}
+{{< ls-card title="" subtitle="Thêm hành động" image="/docs/howto/how-to-edit-id3-tags-on-iphone/cloud_server_audio_more_actions.webp" >}}
 {{< /cards >}}
 
 ## Chọn 'Chỉnh sửa thẻ âm thanh'  
@@ -70,7 +70,7 @@ Trên màn hình 'Trình chỉnh sửa thẻ', sửa đổi các trường siêu
 Sau khi chỉnh sửa xong, nhấn nút 'Lưu' để lưu các thay đổi.
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Trình chỉnh sửa thẻ" image="/docs/howto/how-to-edit-id3-tags-on-iphone/tags_editor.webp" >}}
+{{< ls-card title="" subtitle="Trình chỉnh sửa thẻ" image="/docs/howto/how-to-edit-id3-tags-on-iphone/tags_editor.webp" >}}
 {{< /cards >}}
 
 ## Tự động hoàn thành thông minh  
@@ -88,7 +88,7 @@ Bạn có thể chỉnh sửa thẻ âm thanh cho các tệp được lưu **tr�
 - **Đi đến phần "Tệp cục bộ"**, sau đó cuộn xuống **"Tệp trên thiết bị này."**
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Tệp trên thiết bị này" image="/docs/howto/how-to-edit-id3-tags-on-iphone/local_files.webp" >}}
+{{< ls-card title="" subtitle="Tệp trên thiết bị này" image="/docs/howto/how-to-edit-id3-tags-on-iphone/local_files.webp" >}}
 {{< /cards >}}
 
 - Nhấn **"Kết nối thư mục"**.
@@ -96,25 +96,25 @@ Bạn có thể chỉnh sửa thẻ âm thanh cho các tệp được lưu **tr�
 - Trong trình chọn thư mục, chọn thư mục bạn muốn truy cập và nhấn **"Mở"** để xác nhận.
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Kết nối thư mục bên ngoài" image="/docs/howto/how-to-edit-id3-tags-on-iphone/connect_external_folder.webp" >}}
+{{< ls-card title="" subtitle="Kết nối thư mục bên ngoài" image="/docs/howto/how-to-edit-id3-tags-on-iphone/connect_external_folder.webp" >}}
 {{< /cards >}}
 
 - Sau khi thêm thư mục, nhấn vào nó để xem các tệp bên trong.
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Nội dung thư mục bên ngoài" image="/docs/howto/how-to-edit-id3-tags-on-iphone/connected_external_folder.webp" >}}
+{{< ls-card title="" subtitle="Nội dung thư mục bên ngoài" image="/docs/howto/how-to-edit-id3-tags-on-iphone/connected_external_folder.webp" >}}
 {{< /cards >}}
 
 - Giống như với tệp đám mây, nhấn nút **"Thêm hành động"** bên cạnh tệp âm thanh và chọn **"Chỉnh sửa thẻ âm thanh".**
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Thêm hành động - Tệp cục bộ" image="/docs/howto/how-to-edit-id3-tags-on-iphone/more_actions_local_file.webp" >}}
+{{< ls-card title="" subtitle="Thêm hành động - Tệp cục bộ" image="/docs/howto/how-to-edit-id3-tags-on-iphone/more_actions_local_file.webp" >}}
 {{< /cards >}}
 
 - Trình chỉnh sửa thẻ sẽ mở. Thực hiện thay đổi và nhấn **"Lưu"**. Vậy là xong! Các chỉnh sửa được áp dụng trực tiếp vào tệp — không cần sao chép hay di chuyển.
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Trình chỉnh sửa thẻ - Tệp cục bộ" image="/docs/howto/how-to-edit-id3-tags-on-iphone/tag_editor_local_file.webp" >}}
+{{< ls-card title="" subtitle="Trình chỉnh sửa thẻ - Tệp cục bộ" image="/docs/howto/how-to-edit-id3-tags-on-iphone/tag_editor_local_file.webp" >}}
 {{< /cards >}}
 
 ## Chỉnh sửa ảnh bìa album
@@ -126,7 +126,7 @@ Bạn có thể chỉnh sửa thẻ âm thanh cho các tệp được lưu **tr�
 3. Chọn hình ảnh để áp dụng làm ảnh bìa.
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Chọn hình ảnh" image="/docs/howto/how-to-edit-id3-tags-on-iphone/tags_editor_choose_image.webp" >}}
+{{< ls-card title="" subtitle="Chọn hình ảnh" image="/docs/howto/how-to-edit-id3-tags-on-iphone/tags_editor_choose_image.webp" >}}
 {{< /cards >}}
 
 ## Thêm hành động trong trình chỉnh sửa thẻ
@@ -134,7 +134,7 @@ Bạn có thể chỉnh sửa thẻ âm thanh cho các tệp được lưu **tr�
 Các tùy chọn chỉnh sửa bổ sung có sẵn qua thanh công cụ bên dưới chế độ xem ảnh bìa.
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Menu thêm hành động" image="/docs/howto/how-to-edit-id3-tags-on-iphone/tags_edito_more_actions.webp" >}}
+{{< ls-card title="" subtitle="Menu thêm hành động" image="/docs/howto/how-to-edit-id3-tags-on-iphone/tags_edito_more_actions.webp" >}}
 {{< /cards >}}
 
 ### Tự động tìm kiếm thẻ âm thanh
@@ -195,22 +195,22 @@ Tùy chỉnh các hành động xuất hiện trên màn hình chính của trì
 
 ## Câu hỏi thường gặp
 
-{{% details title="Tôi có thể chỉnh sửa thẻ của những định dạng âm thanh nào?" closed="true" %}}
+{{% ls-details title="Tôi có thể chỉnh sửa thẻ của những định dạng âm thanh nào?" closed="true" %}}
 Evermusic và Flacbox hỗ trợ chỉnh sửa thẻ cho MP3, FLAC, AAC, OGG và các định dạng âm thanh phổ biến khác. Evertag hỗ trợ hơn 30 định dạng bao gồm WAV, AIFF, WMA và APE.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Tôi có thể chỉnh sửa thẻ cho tệp được lưu trong dịch vụ đám mây không?" closed="true" %}}
+{{% ls-details title="Tôi có thể chỉnh sửa thẻ cho tệp được lưu trong dịch vụ đám mây không?" closed="true" %}}
 Có. Kết nối tài khoản Dropbox, Google Drive, OneDrive hoặc tài khoản đám mây khác. Ứng dụng tải tệp xuống, cho phép bạn chỉnh sửa thẻ và tự động tải tệp đã sửa đổi lên đám mây.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Sự khác biệt giữa Evermusic/Flacbox và Evertag là gì?" closed="true" %}}
+{{% ls-details title="Sự khác biệt giữa Evermusic/Flacbox và Evertag là gì?" closed="true" %}}
 Evermusic và Flacbox là trình phát nhạc với trình chỉnh sửa thẻ cơ bản tích hợp. Evertag là trình chỉnh sửa thẻ chuyên dụng hỗ trợ hơn 120 thẻ âm thanh, chỉnh sửa hàng loạt và hơn 30 định dạng -- lý tưởng để quản lý thư viện lớn.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Tính năng tự động tìm kiếm có yêu cầu kết nối internet không?" closed="true" %}}
+{{% ls-details title="Tính năng tự động tìm kiếm có yêu cầu kết nối internet không?" closed="true" %}}
 Có. Tính năng Tự động tìm kiếm thẻ âm thanh truy vấn cơ sở dữ liệu trực tuyến MusicBrainz để tìm và điền siêu dữ liệu. Cần có kết nối internet hoạt động cho tính năng này.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Chỉnh sửa thẻ có thay đổi chất lượng âm thanh không?" closed="true" %}}
+{{% ls-details title="Chỉnh sửa thẻ có thay đổi chất lượng âm thanh không?" closed="true" %}}
 Không. Chỉnh sửa thẻ chỉ sửa đổi siêu dữ liệu được nhúng trong tệp. Dữ liệu âm thanh vẫn không bị thay đổi -- không có mã hóa lại nào xảy ra.
-{{% /details %}}
+{{% /ls-details %}}

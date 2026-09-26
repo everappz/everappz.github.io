@@ -7,7 +7,7 @@ tags: ["evermusic", "música", "nuvem", "iphone", "armazenamento", "local", "nas
 readingTime: 2
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **Resumo:** O Windows 10 tem um servidor DLNA integrado. Ative-o nas configurações de Rede e Compartilhamento e depois use o aplicativo gratuito **Evermusic** no seu iPhone para transmitir toda a sua biblioteca musical via Wi-Fi. Nenhum software de servidor de terceiros é necessário.
@@ -96,22 +96,22 @@ Com o servidor de mídia DLNA no Windows 10 e o Evermusic no seu iPhone, você p
 
 ## Perguntas frequentes
 
-{{% details title="Preciso instalar software de servidor no Windows 10?" closed="true" %}}
+{{% ls-details title="Preciso instalar software de servidor no Windows 10?" closed="true" %}}
 Não. O Windows 10 inclui um servidor de mídia DLNA integrado. Você só precisa ativar o streaming de mídia nas configurações da Central de Rede e Compartilhamento. Nenhum software de terceiros é necessário.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Meu iPhone precisa estar na mesma rede Wi-Fi?" closed="true" %}}
+{{% ls-details title="Meu iPhone precisa estar na mesma rede Wi-Fi?" closed="true" %}}
 Sim. O streaming DLNA funciona pela sua rede local. Tanto o PC com Windows 10 quanto o iPhone devem estar conectados à mesma rede Wi-Fi para que o Evermusic descubra o servidor DLNA.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Quais formatos de áudio posso transmitir via DLNA?" closed="true" %}}
+{{% ls-details title="Quais formatos de áudio posso transmitir via DLNA?" closed="true" %}}
 O servidor Windows DLNA compartilha arquivos da pasta Música independentemente do formato. O Evermusic suporta MP3, FLAC, AAC, WAV, OGG, AIFF e muitos outros formatos, então você pode reproduzir praticamente qualquer arquivo de áudio do servidor.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Posso usar o Flacbox em vez do Evermusic?" closed="true" %}}
+{{% ls-details title="Posso usar o Flacbox em vez do Evermusic?" closed="true" %}}
 Sim. O Flacbox também suporta navegação e reprodução DLNA/UPnP. Você pode usar qualquer um dos aplicativos para descobrir e reproduzir música do seu servidor Windows DLNA.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="O streaming DLNA usa dados móveis?" closed="true" %}}
+{{% ls-details title="O streaming DLNA usa dados móveis?" closed="true" %}}
 Não. O DLNA opera inteiramente na sua rede Wi-Fi local. Não usa nenhum dado móvel. No entanto, ambos os dispositivos devem permanecer conectados à mesma rede durante a reprodução.
-{{% /details %}}
+{{% /ls-details %}}

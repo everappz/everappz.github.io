@@ -7,7 +7,7 @@ keywords: ["iPhone DLNA 伺服器", "iPad UPnP 伺服器", "如何在 iPhone 設
 readingTime: 9
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 DLNA（也叫 UPnP AV）是大多數智慧電視背後那位默默工作的功臣。它是一種共通語言，讓電視或媒體播放器找到同一個 Wi-Fi 上的媒體庫並從中播放，電視上完全不必安裝任何東西。只要你的 iPhone 或 iPad 能扮演那個媒體庫，你的相片、影片和音樂就會自己出現在大螢幕上。
 
@@ -127,44 +127,44 @@ DLNA 會把檔案原封不動地交給電視，而電視必須有能力解碼它
 
 ## 常見問題
 
-{{% details title="DLNA 和 UPnP 有什麼差別？" closed="true" %}}
+{{% ls-details title="DLNA 和 UPnP 有什麼差別？" closed="true" %}}
 它們關係非常密切。UPnP 是底層的網路標準，而 DLNA 是建立在它之上、供電視和播放器用來分享和播放相片、影片和音樂的媒體設定檔。在日常使用上，這兩個詞可以互換。當你在 Everdisk 裡開啟「電視與媒體中心」時，你的裝置就成為任何 DLNA 用戶端都能瀏覽的 DLNA/UPnP 媒體伺服器。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="我需要在電視上安裝任何東西嗎？" closed="true" %}}
+{{% ls-details title="我需要在電視上安裝任何東西嗎？" closed="true" %}}
 不用。如果你的電視支援 DLNA，它已經有一個能在 Wi-Fi 上找到你裝置的媒體播放器。你只需要在存放內容的那支 iPhone 或 iPad 上安裝 Everdisk。如果你的電視不支援 DLNA，就在連接它的裝置上安裝像 VLC 或 Kodi 這樣的播放器。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="為什麼我的 iPhone 沒有出現在電視上？" closed="true" %}}
+{{% ls-details title="為什麼我的 iPhone 沒有出現在電視上？" closed="true" %}}
 請檢查兩台裝置是否在同一個 Wi-Fi 網路上。訪客網路以及某些辦公室或飯店網路會阻止裝置彼此看見對方，這會讓 DLNA 無法運作。接著確認 Everdisk 有開著而且已開始分享，以及在「設定」、「共享」、「連線」裡「電視與媒體中心」是開啟的。如果電視還是找不到它，請用那個以 /device-desc.xml 結尾的裝置描述位址手動加入伺服器。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="DLNA 串流需要密碼嗎？" closed="true" %}}
+{{% ls-details title="DLNA 串流需要密碼嗎？" closed="true" %}}
 不需要。DLNA 在開啟時，永遠對同一個 Wi-Fi 上的任何人開放，這就是為什麼電視那一端不用登入。在你信任的家庭網路上這沒問題。在你不信任的網路上，用完後就把「電視與媒體中心」關掉，或改用有加密的 SMB 伺服器。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="我可以串流到 Chromecast 或 Roku 嗎？" closed="true" %}}
+{{% ls-details title="我可以串流到 Chromecast 或 Roku 嗎？" closed="true" %}}
 Chromecast 和 Roku 開箱狀態下不會扮演 DLNA 播放器，所以它們不會直接找到你的裝置。變通做法是安裝一個能投放的 DLNA App，例如手機上的 VLC 或 BubbleUPnP，再從那裡把播放推送到 Chromecast 或 Roku。在大多數其他智慧電視上，DLNA 不用這些就能運作。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="影片播放時沒有聲音或無法打開，我該怎麼辦？" closed="true" %}}
+{{% ls-details title="影片播放時沒有聲音或無法打開，我該怎麼辦？" closed="true" %}}
 那是電視無法解碼的格式。在 Everdisk 裡打開「設定」、「共享」、「影片」，把「品質」調低，讓 App 在串流時把影片轉換成更相容的格式。你也可以透過瀏覽器連結打開同一個檔案，它能處理更多格式。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="我可以只串流音樂，而不是影片嗎？" closed="true" %}}
+{{% ls-details title="我可以只串流音樂，而不是影片嗎？" closed="true" %}}
 可以。開啟「允許存取整個音樂資料庫」，或加入特定的歌曲，然後開始分享。你的歌曲就會出現在任何 DLNA 喇叭、AV 擴大機或電視上，並附有封面和曲目資訊。音樂永遠以原始品質分享。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="我觀看時 App 必須一直開著嗎？" closed="true" %}}
+{{% ls-details title="我觀看時 App 必須一直開著嗎？" closed="true" %}}
 是的。你的 iPhone 是在扮演伺服器，而 iOS 會暫停被完全推到背景太久的 App。串流時請讓 Everdisk 保持開在畫面上，長時間播放時把手機接上電源。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="我要怎麼從一支 iPhone 串流到另一台 iPad？" closed="true" %}}
+{{% ls-details title="我要怎麼從一支 iPhone 串流到另一台 iPad？" closed="true" %}}
 在 iPhone 上開始分享，然後在 iPad 上打開 Everdisk，前往「裝置」分頁。那支 iPhone 會以媒體伺服器的身分出現在「可用裝置」底下。點一下它就能瀏覽和播放。Everdisk 既是 DLNA 用戶端也是伺服器，所以你不需要另外的 App。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Everdisk 是免費的嗎？" closed="true" %}}
+{{% ls-details title="Everdisk 是免費的嗎？" closed="true" %}}
 是的，Everdisk 免費下載，而且內含 DLNA 媒體伺服器。選購的一次性 Premium 終身版會加入一些額外功能，例如給較舊電視的相片和影片轉換、自訂連接埠等等。你不用付費就能設定並使用 DLNA 串流。
-{{% /details %}}
+{{% /ls-details %}}
 
 準備好試試看了嗎？[從 App Store 下載 Everdisk](https://apps.apple.com/app/apple-store/id6751851132?pt=95781850&ct=everappzcom&mt=8)，幾分鐘內就把你的第一張專輯串流到電視上。有問題或建議嗎？寄信給我們：**support@everappz.com**。

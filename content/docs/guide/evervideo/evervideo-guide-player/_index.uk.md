@@ -31,7 +31,7 @@ readingTime: 14
 Компактний плеєр залишається видимим, поки ви переглядаєте бібліотеку, файловий менеджер або налаштування, тому ви ніколи не втратите відео під час пошуку наступного.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Повноекранний медіаплеєр Evervideo" image="/docs/guide/evervideo/img/evervideo-media-player-fullscreen.webp" >}}
+  {{< ls-card title="" subtitle="Повноекранний медіаплеєр Evervideo" image="/docs/guide/evervideo/img/evervideo-media-player-fullscreen.webp" >}}
 {{< /cards >}}
 
 ## Підтримувані відео- та аудіоформати
@@ -72,7 +72,7 @@ PiP працює з усіма відеоформатами, що підтрим
 Компактний плеєр — постійний міні-плеєр, що залишається видимим у верхній частині кожного екрана застосунку під час перегляду бібліотеки, файлового менеджера або налаштувань. Натисніть, щоб розгорнути до повноекранного плеєра; проведіть вниз, щоб згорнути назад.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Налаштування відео Evervideo з компактного плеєра на головному екрані" image="/docs/guide/evervideo/img/evervideo-video-settings-from-compact-player-view-on-the-main-screen.webp" >}}
+  {{< ls-card title="" subtitle="Налаштування відео Evervideo з компактного плеєра на головному екрані" image="/docs/guide/evervideo/img/evervideo-video-settings-from-compact-player-view-on-the-main-screen.webp" >}}
 {{< /cards >}}
 
 ## AirPlay 2
@@ -115,7 +115,7 @@ Evervideo включає повний аудіоеквалайзер для на
 Для налаштування зображення Evervideo надає спеціальний відеоеквалайзер — регулюйте яскравість, контраст, насиченість і відтінок у реальному часі під час відтворення. Як і аудіоеквалайзер, власні відеопресети можна експортувати та імпортувати для спільного використання або резервного копіювання. Використовуйте його, щоб освітлити темну сцену в сонячний день, підвищити насиченість вицвілого контенту або прибрати холодний колірний відтінок.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Відеоеквалайзер Evervideo" image="/docs/guide/evervideo/img/evervideo-video-equalizer.webp" >}}
+  {{< ls-card title="" subtitle="Відеоеквалайзер Evervideo" image="/docs/guide/evervideo/img/evervideo-video-equalizer.webp" >}}
 {{< /cards >}}
 
 ## Режим масштабування відео
@@ -144,7 +144,7 @@ Evervideo включає VR / 360° вьюпорт для сферичних в�
 Натисніть елемент керування «Швидкість» на панелі інструментів плеєра, щоб змінити швидкість відтворення — уповільніть для аналізу (0,25× або 0,5×) або прискоріть для навчальних матеріалів та лекцій (1,25×, 1,5×, 2× і до 3×). Натисніть значок налаштування у верхньому правому куті екрана «Швидкість» для переключення в точний режим із дрібнішими налаштуваннями. Також доступна корекція тональності для кожної доріжки.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Швидкість відтворення Evervideo на головній панелі інструментів" image="/docs/guide/evervideo/img/evervideo-media-player-playback-speed-on-main-toolbar.webp" >}}
+  {{< ls-card title="" subtitle="Швидкість відтворення Evervideo на головній панелі інструментів" image="/docs/guide/evervideo/img/evervideo-media-player-playback-speed-on-main-toolbar.webp" >}}
 {{< /cards >}}
 
 ## Черга плеєра
@@ -152,7 +152,7 @@ Evervideo включає VR / 360° вьюпорт для сферичних в�
 Щоб переглянути чергу плеєра, натисніть кнопку черги на плеєрі. Для кожного відео в черзі є додаткові дії — натисніть три крапки, щоб переглянути їх. Щоб змінити порядок відео в черзі, використовуйте індикатор змінення порядку біля назви та перетягніть на нову позицію.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Черга відтворення Evervideo" image="/docs/guide/evervideo/img/evervideo-playback-queue.webp" >}}
+  {{< ls-card title="" subtitle="Черга відтворення Evervideo" image="/docs/guide/evervideo/img/evervideo-playback-queue.webp" >}}
 {{< /cards >}}
 
 ## Таймер сну
@@ -189,7 +189,7 @@ Evervideo включає VR / 360° вьюпорт для сферичних в�
 - **Довідка** — відкрити посібник.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Екран «Більше дій» плеєра Evervideo" image="/docs/guide/evervideo/img/evervideo-media-player-more-actions.webp" >}}
+  {{< ls-card title="" subtitle="Екран «Більше дій» плеєра Evervideo" image="/docs/guide/evervideo/img/evervideo-media-player-more-actions.webp" >}}
 {{< /cards >}}
 
 ## Налаштування плеєра

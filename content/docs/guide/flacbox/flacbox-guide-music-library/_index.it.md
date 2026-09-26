@@ -19,7 +19,7 @@ readingTime: 11
 Gestire la libreria musicale è semplicissimo con Flacbox, dove puoi organizzare facilmente tutte le tracce — FLAC locale, ALAC, DSD, MP3, M4A, OGG, WMA, APE e decine di altri formati — in un'unica collezione ricercabile. Hai due opzioni per costruire la libreria musicale: aggiunta manuale (scegli esattamente cosa aggiungere) o sincronizzazione automatica (Flacbox scansiona le cartelle cloud designate e aggiunge i nuovi file automaticamente man mano che appaiono).
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Vista Album della Libreria Musicale di Flacbox" image="/docs/guide/flacbox/img/media-library-albums.webp" >}}
+  {{< ls-card title="" subtitle="Vista Album della Libreria Musicale di Flacbox" image="/docs/guide/flacbox/img/media-library-albums.webp" >}}
 {{< /cards >}}
 
 ## Aggiunta Manuale
@@ -27,7 +27,7 @@ Gestire la libreria musicale è semplicissimo con Flacbox, dove puoi organizzare
 Per aggiungere tracce manualmente, tocca l'icona **Aggiungi Musica** nell'angolo in alto a sinistra e scegli cartelle o file da un servizio cloud storage connesso o da file sul tuo dispositivo. Quando aggiungi tracce alla libreria, vengono creati solo link a quelle tracce — i file effettivi rimangono nelle loro posizioni originali per risparmiare spazio su disco.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox Aggiungi Brani alla Libreria Musicale" image="/docs/guide/flacbox/img/library-add-songs.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox Aggiungi Brani alla Libreria Musicale" image="/docs/guide/flacbox/img/library-add-songs.webp" >}}
 {{< /cards >}}
 
 Puoi anche trascinare e rilasciare file nella libreria nella versione Mac, o usare **Apri File…** / **Apri Cartella…** dal selettore file di sistema su iPhone e iPad.
@@ -89,7 +89,7 @@ Situata appena sotto la barra di navigazione, la barra degli strumenti superiore
 La funzione di ricerca ti consente di trovare una traccia, artista, album o genere specifico nella libreria musicale. La ricerca viene eseguita localmente sul database della libreria musicale, quindi funziona completamente offline e restituisce risultati mentre digiti.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Ricerca nella Libreria Musicale di Flacbox" image="/docs/guide/flacbox/img/media-library-search.webp" >}}
+  {{< ls-card title="" subtitle="Ricerca nella Libreria Musicale di Flacbox" image="/docs/guide/flacbox/img/media-library-search.webp" >}}
 {{< /cards >}}
 
 ## Menu Opzioni
@@ -136,7 +136,7 @@ Quando apri le sezioni Artista, Album Artist o Compositore, puoi vedere un selet
 - **Album da Solista** — mostra gli album dove appaiono solo le tracce dell'artista specificato.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Schermata Dettaglio Album di Flacbox" image="/docs/guide/flacbox/img/media-library-album-details-screen.webp" >}}
+  {{< ls-card title="" subtitle="Schermata Dettaglio Album di Flacbox" image="/docs/guide/flacbox/img/media-library-album-details-screen.webp" >}}
 {{< /cards >}}
 
 ## Impostazioni

@@ -1,9 +1,10 @@
 ---
+excludeSearch: true
 date: '2025-06-12T17:00:00+00:00'
 title: 'Kontaktieren Sie uns'
 ---
 
-{{< lottie src="/images/juicy-json/juicy-girl-typing-on-phone.json" width="60%" >}}
+{{< ls-lottie src="/images/juicy-json/juicy-girl-typing-on-phone.json" width="60%" >}}
 
 ## Postanschrift
 
@@ -27,4 +28,4 @@ Mit dem Versand einer E-Mail bestätigen Sie, dass Sie unsere [Datenschutzrichtl
 
 Folgen Sie uns in den sozialen Netzwerken, um die aktuellsten Nachrichten, App-Updates, Tipps und nützliche Informationen zu erhalten:
 
-{{< social-cards >}}
+{{< ls-social-cards >}}

@@ -29,7 +29,7 @@ tags: [
 readingTime: 3
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **In breve:** Incolla qualsiasi URL di Internet Archive su [archivetom3u.com](https://archivetom3u.com), scegli il formato audio (MP3, FLAC, OGG) e scarica una playlist M3U pronta per la riproduzione -- non serve un account. Poi importala in [Evermusic](https://apps.apple.com/app/apple-store/id885367198?pt=95781850&ct=everappzcom&mt=8) su iPhone o Mac per la riproduzione istantanea.
@@ -69,7 +69,7 @@ Puoi scegliere tra i seguenti formati:
 Vai su [archive.org](https://archive.org), tocca **Audio** e seleziona **Live Music Archive**. Usa la barra di ricerca per trovare un genere, artista o concerto che desideri.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Cerca musica su Internet Archive" image="/docs/howto/how-to-create-m3u-playlist-for-internet-archive-or-live-music-archive/1.internet-archive-search.webp" >}}
+  {{< ls-card title="" subtitle="Cerca musica su Internet Archive" image="/docs/howto/how-to-create-m3u-playlist-for-internet-archive-or-live-music-archive/1.internet-archive-search.webp" >}}
 {{< /cards >}}
 
 ### 2. Copia l'URL dell'elemento
@@ -77,7 +77,7 @@ Vai su [archive.org](https://archive.org), tocca **Audio** e seleziona **Live Mu
 Clicca sull'elemento desiderato e copia il suo URL dalla barra degli indirizzi del browser.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Copia l'URL dell'elemento da Internet Archive" image="/docs/howto/how-to-create-m3u-playlist-for-internet-archive-or-live-music-archive/2.internet-archive-copy-item-url.webp" >}}
+  {{< ls-card title="" subtitle="Copia l'URL dell'elemento da Internet Archive" image="/docs/howto/how-to-create-m3u-playlist-for-internet-archive-or-live-music-archive/2.internet-archive-copy-item-url.webp" >}}
 {{< /cards >}}
 
 ### 3. Incolla l'URL nel generatore
@@ -85,7 +85,7 @@ Clicca sull'elemento desiderato e copia il suo URL dalla barra degli indirizzi d
 Torna su [archivetom3u.com](https://archivetom3u.com) e incolla l'URL copiato nel campo di input.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Incolla l'URL dell'elemento nel generatore M3U" image="/docs/howto/how-to-create-m3u-playlist-for-internet-archive-or-live-music-archive/3.archive-to-m3u-paste-item-url.webp" >}}
+  {{< ls-card title="" subtitle="Incolla l'URL dell'elemento nel generatore M3U" image="/docs/howto/how-to-create-m3u-playlist-for-internet-archive-or-live-music-archive/3.archive-to-m3u-paste-item-url.webp" >}}
 {{< /cards >}}
 
 ### 4. Seleziona il formato audio
@@ -93,7 +93,7 @@ Torna su [archivetom3u.com](https://archivetom3u.com) e incolla l'URL copiato ne
 Scegli il formato desiderato (MP3, FLAC, ecc.).
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Scegli il tuo formato audio preferito" image="/docs/howto/how-to-create-m3u-playlist-for-internet-archive-or-live-music-archive/4.archive-to-m3u-select-format.webp" >}}
+  {{< ls-card title="" subtitle="Scegli il tuo formato audio preferito" image="/docs/howto/how-to-create-m3u-playlist-for-internet-archive-or-live-music-archive/4.archive-to-m3u-select-format.webp" >}}
 {{< /cards >}}
 
 ### 5. Genera la playlist
@@ -101,7 +101,7 @@ Scegli il formato desiderato (MP3, FLAC, ecc.).
 Clicca su **Generate Playlist**. Il contenuto `.m3u` verrà visualizzato di seguito. Puoi copiarlo o scaricarlo.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="La playlist M3U viene generata automaticamente" image="/docs/howto/how-to-create-m3u-playlist-for-internet-archive-or-live-music-archive/5.archive-to-m3u-generated-playlist.webp" >}}
+  {{< ls-card title="" subtitle="La playlist M3U viene generata automaticamente" image="/docs/howto/how-to-create-m3u-playlist-for-internet-archive-or-live-music-archive/5.archive-to-m3u-generated-playlist.webp" >}}
 {{< /cards >}}
 
 ### 6. Anteprima delle tracce
@@ -109,7 +109,7 @@ Clicca su **Generate Playlist**. Il contenuto `.m3u` verrà visualizzato di segu
 Scorri verso il basso per visualizzare l'anteprima di ogni traccia. Assicurati che tutto venga riprodotto correttamente.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Anteprima di tutte le tracce prima del download" image="/docs/howto/how-to-create-m3u-playlist-for-internet-archive-or-live-music-archive/6.archive-to-m3u-tracks-preview.webp" >}}
+  {{< ls-card title="" subtitle="Anteprima di tutte le tracce prima del download" image="/docs/howto/how-to-create-m3u-playlist-for-internet-archive-or-live-music-archive/6.archive-to-m3u-tracks-preview.webp" >}}
 {{< /cards >}}
 
 ### 7. Scarica la playlist
@@ -117,7 +117,7 @@ Scorri verso il basso per visualizzare l'anteprima di ogni traccia. Assicurati c
 Clicca su **Download Playlist** per salvare il file `.m3u` sul tuo dispositivo. Non serve login o account.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Scarica la playlist M3U sul tuo dispositivo" image="/docs/howto/how-to-create-m3u-playlist-for-internet-archive-or-live-music-archive/7.downloaded-m3u-playlist.webp" >}}
+  {{< ls-card title="" subtitle="Scarica la playlist M3U sul tuo dispositivo" image="/docs/howto/how-to-create-m3u-playlist-for-internet-archive-or-live-music-archive/7.downloaded-m3u-playlist.webp" >}}
 {{< /cards >}}
 
 ## Come riprodurre una playlist M3U su macOS o iOS
@@ -125,14 +125,14 @@ Clicca su **Download Playlist** per salvare il file `.m3u` sul tuo dispositivo. 
 Per riprodurre il file `.m3u` scaricato sul tuo dispositivo Apple, usa l'app **Evermusic** (download gratuito):
 
 {{< cards cols="1">}}
-{{< card link="https://apps.apple.com/app/apple-store/id1564384601?pt=95781850&ct=everappzcom&mt=8" title="Evermusic macOS" icon="download" tag="Free" >}}
-{{< card link="https://apps.apple.com/app/apple-store/id885367198?pt=95781850&ct=everappzcom&mt=8" title="Evermusic iOS" icon="download" tag="Free" >}}
+{{< ls-card link="https://apps.apple.com/app/apple-store/id1564384601?pt=95781850&ct=everappzcom&mt=8" title="Evermusic macOS" icon="download" tag="Free" >}}
+{{< ls-card link="https://apps.apple.com/app/apple-store/id885367198?pt=95781850&ct=everappzcom&mt=8" title="Evermusic iOS" icon="download" tag="Free" >}}
 {{< /cards >}}
 
 ### 1. Apri Evermusic e vai alle Playlist
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Apri Evermusic e vai alle Playlist" image="/docs/howto/how-to-create-m3u-playlist-for-internet-archive-or-live-music-archive/8.evermusic-app-playlists.webp" >}}
+  {{< ls-card title="" subtitle="Apri Evermusic e vai alle Playlist" image="/docs/howto/how-to-create-m3u-playlist-for-internet-archive-or-live-music-archive/8.evermusic-app-playlists.webp" >}}
 {{< /cards >}}
 
 ### 2. Importa la playlist
@@ -140,7 +140,7 @@ Per riprodurre il file `.m3u` scaricato sul tuo dispositivo Apple, usa l'app **E
 Tocca **Add Playlist**, poi scegli **Import Playlist**.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Tocca Import Playlist per aggiungere l'M3U scaricato" image="/docs/howto/how-to-create-m3u-playlist-for-internet-archive-or-live-music-archive/9.evermusic-app-import-playlist.webp" >}}
+  {{< ls-card title="" subtitle="Tocca Import Playlist per aggiungere l'M3U scaricato" image="/docs/howto/how-to-create-m3u-playlist-for-internet-archive-or-live-music-archive/9.evermusic-app-import-playlist.webp" >}}
 {{< /cards >}}
 
 ### 3. Seleziona la posizione della playlist
@@ -148,7 +148,7 @@ Tocca **Add Playlist**, poi scegli **Import Playlist**.
 Scegli **Files on this Mac** (o un'altra posizione dove hai salvato il file).
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Seleziona la posizione del file scaricato" image="/docs/howto/how-to-create-m3u-playlist-for-internet-archive-or-live-music-archive/10.select-location.webp" >}}
+  {{< ls-card title="" subtitle="Seleziona la posizione del file scaricato" image="/docs/howto/how-to-create-m3u-playlist-for-internet-archive-or-live-music-archive/10.select-location.webp" >}}
 {{< /cards >}}
 
 ### 4. Concedi l'accesso alla cartella
@@ -156,7 +156,7 @@ Scegli **Files on this Mac** (o un'altra posizione dove hai salvato il file).
 Evermusic può accedere ai file solo se consenti l'accesso a livello di cartella. Seleziona la cartella che contiene il tuo file `.m3u` **e** i file audio collegati al suo interno.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Collega la cartella presente sul tuo dispositivo" image="/docs/howto/how-to-create-m3u-playlist-for-internet-archive-or-live-music-archive/11.connect-folder-located-on-your-device.webp" >}}
+  {{< ls-card title="" subtitle="Collega la cartella presente sul tuo dispositivo" image="/docs/howto/how-to-create-m3u-playlist-for-internet-archive-or-live-music-archive/11.connect-folder-located-on-your-device.webp" >}}
 {{< /cards >}}
 
 ### 5. Scegli la cartella Download
@@ -164,13 +164,13 @@ Evermusic può accedere ai file solo se consenti l'accesso a livello di cartella
 Nella maggior parte dei casi, la playlist viene salvata nella tua cartella **Downloads**.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Seleziona la cartella Download" image="/docs/howto/how-to-create-m3u-playlist-for-internet-archive-or-live-music-archive/12.select-downloads-folder.webp" >}}
+  {{< ls-card title="" subtitle="Seleziona la cartella Download" image="/docs/howto/how-to-create-m3u-playlist-for-internet-archive-or-live-music-archive/12.select-downloads-folder.webp" >}}
 {{< /cards >}}
 
 Tocca **Open** per confermare la selezione.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="La tua cartella Download è ora collegata" image="/docs/howto/how-to-create-m3u-playlist-for-internet-archive-or-live-music-archive/13.downloads-folder-connected.webp" >}}
+  {{< ls-card title="" subtitle="La tua cartella Download è ora collegata" image="/docs/howto/how-to-create-m3u-playlist-for-internet-archive-or-live-music-archive/13.downloads-folder-connected.webp" >}}
 {{< /cards >}}
 
 ### 6. Seleziona il file della playlist
@@ -180,7 +180,7 @@ Una volta collegata la cartella, trova e seleziona il tuo file `.m3u`.
 Tocca **Done** per confermare la selezione.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Seleziona il file playlist M3U dalla cartella" image="/docs/howto/how-to-create-m3u-playlist-for-internet-archive-or-live-music-archive/14.m3u-playlist-selected-from-connected-folder.webp" >}}
+  {{< ls-card title="" subtitle="Seleziona il file playlist M3U dalla cartella" image="/docs/howto/how-to-create-m3u-playlist-for-internet-archive-or-live-music-archive/14.m3u-playlist-selected-from-connected-folder.webp" >}}
 {{< /cards >}}
 
 ### 7. Playlist importata con successo
@@ -188,7 +188,7 @@ Tocca **Done** per confermare la selezione.
 L'app analizzerà la playlist e la aggiungerà alla tua libreria.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="La playlist è stata importata con successo" image="/docs/howto/how-to-create-m3u-playlist-for-internet-archive-or-live-music-archive/15.playlist-imported.webp" >}}
+  {{< ls-card title="" subtitle="La playlist è stata importata con successo" image="/docs/howto/how-to-create-m3u-playlist-for-internet-archive-or-live-music-archive/15.playlist-imported.webp" >}}
 {{< /cards >}}
 
 ### 8. Apri e riproduci la playlist
@@ -196,13 +196,13 @@ L'app analizzerà la playlist e la aggiungerà alla tua libreria.
 Tocca la playlist per vedere tutte le tracce e avviare la riproduzione.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Apri la playlist e visualizza l'elenco delle tracce" image="/docs/howto/how-to-create-m3u-playlist-for-internet-archive-or-live-music-archive/16.playlist-opened.webp" >}}
+  {{< ls-card title="" subtitle="Apri la playlist e visualizza l'elenco delle tracce" image="/docs/howto/how-to-create-m3u-playlist-for-internet-archive-or-live-music-archive/16.playlist-opened.webp" >}}
 {{< /cards >}}
 
 Dopo pochi secondi, Evermusic caricherà tutti i metadati e aggiornerà la visualizzazione delle tracce.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="La tua playlist è pronta per la riproduzione" image="/docs/howto/how-to-create-m3u-playlist-for-internet-archive-or-live-music-archive/17.playlist-opened-2.webp" >}}
+  {{< ls-card title="" subtitle="La tua playlist è pronta per la riproduzione" image="/docs/howto/how-to-create-m3u-playlist-for-internet-archive-or-live-music-archive/17.playlist-opened-2.webp" >}}
 {{< /cards >}}
 
 ## Privacy e open source
@@ -221,22 +221,22 @@ Ora sai come creare e importare playlist M3U da Internet Archive e Live Music Ar
 
 ## FAQ
 
-{{% details title="Lo strumento generatore M3U è gratuito?" closed="true" %}}
+{{% ls-details title="Lo strumento generatore M3U è gratuito?" closed="true" %}}
 Sì. Lo strumento su [archivetom3u.com](https://archivetom3u.com) è completamente gratuito, non richiede account e funziona interamente nel tuo browser.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Quali formati audio posso includere nella playlist M3U?" closed="true" %}}
+{{% ls-details title="Quali formati audio posso includere nella playlist M3U?" closed="true" %}}
 Puoi scegliere VBR MP3, FLAC, 24-bit FLAC o OGG Vorbis. Solo le tracce disponibili nel formato selezionato appariranno nella playlist.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Posso riprodurre playlist M3U su iPhone o Mac?" closed="true" %}}
+{{% ls-details title="Posso riprodurre playlist M3U su iPhone o Mac?" closed="true" %}}
 Sì. Scarica l'app gratuita Evermusic per iOS o macOS, poi usa la funzione Import Playlist per caricare il tuo file `.m3u`.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Lo strumento memorizza i miei dati o ospita musica?" closed="true" %}}
+{{% ls-details title="Lo strumento memorizza i miei dati o ospita musica?" closed="true" %}}
 No. Tutta l'elaborazione avviene localmente nel tuo browser. Nessun dato viene memorizzato e tutti gli stream audio provengono direttamente da archive.org.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Questo strumento è affiliato con Internet Archive?" closed="true" %}}
+{{% ls-details title="Questo strumento è affiliato con Internet Archive?" closed="true" %}}
 No. È un progetto open source indipendente creato per comodità. Utilizza l'API ufficiale dei metadati di Internet Archive per generare le playlist.
-{{% /details %}}
+{{% /ls-details %}}

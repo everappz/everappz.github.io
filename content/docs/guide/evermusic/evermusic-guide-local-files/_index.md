@@ -23,7 +23,7 @@ The Local Files section serves as a hub for managing files located in the applic
 This built-in file manager allows you to edit files and offers various methods to import audio files into the app.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evermusic Local Files Screen" image="/docs/guide/evermusic/evermusic-guide-local-files/img/local-files-main.webp" >}}
+  {{< ls-card title="" subtitle="Evermusic Local Files Screen" image="/docs/guide/evermusic/evermusic-guide-local-files/img/local-files-main.webp" >}}
 {{< /cards >}}
 
 ## Download files from cloud storage
@@ -43,7 +43,7 @@ Easily import files from your device as described [here](/docs/howto/how-to-play
 Transfer files using a cable connection as described [here](/docs/howto/how-to-transfer-files-from-my-mac-to-iphone-or-ipad-using-finder).
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="iTunes / Finder File Sharing" image="/docs/guide/evermusic/evermusic-guide-local-files/img/local-files-itunes-file-sharing.webp" >}}
+  {{< ls-card title="" subtitle="iTunes / Finder File Sharing" image="/docs/guide/evermusic/evermusic-guide-local-files/img/local-files-itunes-file-sharing.webp" >}}
 {{< /cards >}}
 
 ## Wi-Fi Drive
@@ -51,7 +51,7 @@ Transfer files using a cable connection as described [here](/docs/howto/how-to-t
 Transfer files wirelessly as described [here](/docs/howto/how-to-transfer-files-wirelessly-from-a-computer-to-an-iphone-using-wifi-drive).
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Wi-Fi Drive Server Settings" image="/docs/guide/evermusic/evermusic-guide-local-files/img/local-files-wifidrive-settings.webp" >}}
+  {{< ls-card title="" subtitle="Wi-Fi Drive Server Settings" image="/docs/guide/evermusic/evermusic-guide-local-files/img/local-files-wifidrive-settings.webp" >}}
 {{< /cards >}}
 
 ## Transfers Queue
@@ -59,7 +59,7 @@ Transfer files wirelessly as described [here](/docs/howto/how-to-transfer-files-
 In the top left corner of the navigation bar, you'll find a 'Transfers' button. Tap it to access the transfers queue, where you can monitor and manage all your downloads and uploads. Additionally, you have the flexibility to adjust transfer queue speed and network type in the app settings.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="File Transfers Queue" image="/docs/guide/evermusic/evermusic-guide-local-files/img/local-files-file-transfers.webp" >}}
+  {{< ls-card title="" subtitle="File Transfers Queue" image="/docs/guide/evermusic/evermusic-guide-local-files/img/local-files-file-transfers.webp" >}}
 {{< /cards >}}
 
 ## Quick Access Section
@@ -71,7 +71,7 @@ At the top of the screen, a quick access section provides convenient links to yo
 This section displays all recently opened files or folders.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Recently Opened Files and Folders" image="/docs/guide/evermusic/evermusic-guide-local-files/img/local-files-recents.webp" >}}
+  {{< ls-card title="" subtitle="Recently Opened Files and Folders" image="/docs/guide/evermusic/evermusic-guide-local-files/img/local-files-recents.webp" >}}
 {{< /cards >}}
 
 ## Favorites
@@ -79,7 +79,7 @@ This section displays all recently opened files or folders.
 You can mark files or folders as favorites and access them in this section. Moreover, you can add a folder located on your device to your favorites. To do this, open the favorites section, tap the three dots in the top right corner, and choose the "Add folder" menu item. Follow the prompts to add a folder from your device to your favorites for quick access.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Favorites — Add Folder From Your Device" image="/docs/guide/evermusic/evermusic-guide-local-files/img/local-files-favorites.webp" >}}
+  {{< ls-card title="" subtitle="Favorites — Add Folder From Your Device" image="/docs/guide/evermusic/evermusic-guide-local-files/img/local-files-favorites.webp" >}}
 {{< /cards >}}
 
 ## Top Toolbar
@@ -94,7 +94,7 @@ The top toolbar, located under the navigation bar, offers several actions:
 You can show or hide the top toolbar using a swipe-to-bottom gesture.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Top Toolbar for the Current Folder" image="/docs/guide/evermusic/evermusic-guide-local-files/img/local-files-top-toolbar.webp" >}}
+  {{< ls-card title="" subtitle="Top Toolbar for the Current Folder" image="/docs/guide/evermusic/evermusic-guide-local-files/img/local-files-top-toolbar.webp" >}}
 {{< /cards >}}
 
 ## Special Folders
@@ -131,7 +131,7 @@ Shows files and folders stored in the app’s Documents directory and iCloud Dri
 Shows files located on your device but in different applications. You can import them into this application using the system file picker. To activate the picker, choose "Open files..." to select files or "Open folders..." to select folders. Detailed instructions on how to import local music stored on your iPhone or Mac are available [here](/docs/howto/how-to-play-local-music-stored-on-your-iphone-or-mac). You can also connect a folder located on your device and have quick access to the folder's content. Use "Connect a folder" menu item and choose a folder located on your device. Tap "Done" and the app will create link to that folder with read/write access and you can manage files directly from this app. To disconnect folder located on your device tap "More actions" button and choose "Disconnect".
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Files on This iPhone / iPad / Mac" image="/docs/guide/evermusic/evermusic-guide-local-files/img/local-files-on-this-device.webp" >}}
+  {{< ls-card title="" subtitle="Files on This iPhone / iPad / Mac" image="/docs/guide/evermusic/evermusic-guide-local-files/img/local-files-on-this-device.webp" >}}
 {{< /cards >}}
 
 ## Import Files Located on Connected USB Flashcards
@@ -154,7 +154,7 @@ More actions menu for the currently opened folder located in the top right corne
 If you need to edit several files, activate selection mode by tapping the more actions button "..." on the navigation bar in the top right corner and then choose the "Select" menu item. This will display checkboxes near each file. Select the desired files by tapping their checkboxes. You can perform the following actions on the selected files.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Selection Mode Actions for Local Files" image="/docs/guide/evermusic/evermusic-guide-local-files/img/local-files-selection-mode.webp" >}}
+  {{< ls-card title="" subtitle="Selection Mode Actions for Local Files" image="/docs/guide/evermusic/evermusic-guide-local-files/img/local-files-selection-mode.webp" >}}
 {{< /cards >}}
 
 - **Play next:** Add selected files or folders to the top of the player queue with the current sort order.
@@ -189,7 +189,7 @@ For every file or folder in the app, several actions are available, accessible b
 ## Offline Folders
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Offline Folder More Actions Menu" image="/docs/guide/evermusic/evermusic-guide-local-files/img/local-files-offline-folders.webp" >}}
+  {{< ls-card title="" subtitle="Offline Folder More Actions Menu" image="/docs/guide/evermusic/evermusic-guide-local-files/img/local-files-offline-folders.webp" >}}
 {{< /cards >}}
 
 Offline mode is a handy feature that lets you access your favorite music even when you're not connected to the internet. When you enable offline mode for any album, artist, playlist, genre, or remote folder, all the files within that collection will be automatically downloaded to your device for offline playback. You can conveniently access these files in the "Offline Folders" section of the app.
@@ -207,7 +207,7 @@ Detailed instructions about How to Play Offline Music in Evermusic & Flacbox: Do
 Almost every behavior of the Local Files screen — from network bandwidth to where downloads land to how thumbnails are cached — is configurable under **Settings → File manager**. Open it whenever you want to fine-tune transfer speed, save storage space, or restrict the app to Wi-Fi only.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="File Manager Settings Screen" image="/docs/guide/evermusic/evermusic-guide-local-files/img/local-files-file-manager-settings.webp" >}}
+  {{< ls-card title="" subtitle="File Manager Settings Screen" image="/docs/guide/evermusic/evermusic-guide-local-files/img/local-files-file-manager-settings.webp" >}}
 {{< /cards >}}
 
 The screen exposes every option grouped into clearly-labeled sections:

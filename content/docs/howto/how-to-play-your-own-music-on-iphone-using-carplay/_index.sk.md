@@ -7,7 +7,7 @@ tags: ["carplay", "iphone", "lokálna hudba", "offline prehrávanie", "evermusic
 readingTime: 5
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **TL;DR:** Použite [Evermusic](https://apps.apple.com/app/apple-store/id885367198?pt=95781850&ct=everappzcom&mt=8) alebo [Flacbox](https://apps.apple.com/app/apple-store/id1097564256?pt=95781850&ct=everappzcom&mt=8) na prehrávanie vlastných súborov MP3, FLAC alebo iných audio súborov na iPhone cez Apple CarPlay. Pridajte hudbu z cloudového úložiska, USB alebo Wi-Fi prenosu a potom prechádzajte svoju knižnicu, prehrávače a priečinky priamo na obrazovke vášho auta.
@@ -17,7 +17,7 @@ readingTime: 5
 Chcete prehrávať vlastnú hudbu v aute pomocou Apple CarPlay? Či už sú vaše piesne uložené na iPhone, v cloudovom úložisku alebo offline — aplikácie ako **Evermusic** a **Flacbox** uľahčujú počúvanie vašej osobnej hudobnej zbierky počas jazdy.
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Rad CarPlay" image="/docs/howto/how-to-play-your-own-music-on-iphone-using-carplay/carplay-nowplaying-5.webp" imageStyle="border-radius: clamp(14px, 2vw, 28px);" >}}
+{{< ls-card title="" subtitle="Rad CarPlay" image="/docs/howto/how-to-play-your-own-music-on-iphone-using-carplay/carplay-nowplaying-5.webp" imageStyle="border-radius: clamp(14px, 2vw, 28px);" >}}
 {{< /cards >}}
 
 V tomto návode vám ukážeme, ako pripraviť hudobné súbory pre CarPlay, organizovať ich so správnymi obalmi albumov a informáciami o skladbách a bezpečne ich prehrávať z iPhonu. S Evermusic alebo Flacbox môžete vytvárať prehrávače a streamovať alebo sťahovať piesne zo služieb ako **Google Drive**, **Dropbox**, **OneDrive**, **NAS** alebo váš domáci počítač.
@@ -25,8 +25,8 @@ V tomto návode vám ukážeme, ako pripraviť hudobné súbory pre CarPlay, org
 Tieto aplikácie sú ideálne pre každého, kto chce mať plnú kontrolu nad svojou hudobnou knižnicou.
 
 {{< cards cols="2">}}
-{{< card link="https://apps.apple.com/app/apple-store/id885367198?pt=95781850&ct=everappzcom&mt=8" title="Stiahnuť Evermusic" icon="download" tag="Free" >}}
-{{< card link="https://apps.apple.com/app/apple-store/id1097564256?pt=95781850&ct=everappzcom&mt=8" title="Stiahnuť Flacbox" icon="download" tag="Free" >}}
+{{< ls-card link="https://apps.apple.com/app/apple-store/id885367198?pt=95781850&ct=everappzcom&mt=8" title="Stiahnuť Evermusic" icon="download" tag="Free" >}}
+{{< ls-card link="https://apps.apple.com/app/apple-store/id1097564256?pt=95781850&ct=everappzcom&mt=8" title="Stiahnuť Flacbox" icon="download" tag="Free" >}}
 {{< /cards >}}
 
 ## Pridajte súbory do aplikácie
@@ -106,7 +106,7 @@ Bezdrôtový prenos súborov je opísaný [tu](/docs/howto/how-to-transfer-files
 Po spustení našich aplikácií Evermusic alebo Flacbox v režime CarPlay uvidíte hlavné rozhranie rozdelené do 4 hlavných kariet: Knižnica, **Pripojenia**, Lokálne súbory, **Nastavenia**.
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Hlavné menu CarPlay" image="/docs/howto/how-to-play-your-own-music-on-iphone-using-carplay/library-with-images.webp" imageStyle="border-radius: clamp(14px, 2vw, 28px);" >}}
+{{< ls-card title="" subtitle="Hlavné menu CarPlay" image="/docs/howto/how-to-play-your-own-music-on-iphone-using-carplay/library-with-images.webp" imageStyle="border-radius: clamp(14px, 2vw, 28px);" >}}
 {{< /cards >}}
 
 ## Knižnica
@@ -116,7 +116,7 @@ Karta **Knižnica** v Evermusic je centrálne miesto, kde je celá vaša hudba o
 Táto obrazovka poskytuje rýchly prístup k obľúbeným, nedávnym, prehrávačom, záložkám a všetkým pridaným skladbám. Môžete tiež pokračovať v prehrávaní z poslednej relácie, zobraziť neprehraté piesne a preskúmať hudbu podľa značiek alebo typu zdroja.
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Knižnica" image="/docs/howto/how-to-play-your-own-music-on-iphone-using-carplay/library-with-images-3.webp" imageStyle="border-radius: clamp(14px, 2vw, 28px);" >}}
+{{< ls-card title="" subtitle="Knižnica" image="/docs/howto/how-to-play-your-own-music-on-iphone-using-carplay/library-with-images-3.webp" imageStyle="border-radius: clamp(14px, 2vw, 28px);" >}}
 {{< /cards >}}
 
 Sekcia **Knižnica** obsahuje nasledujúce kategórie:
@@ -139,7 +139,7 @@ Sekcia **Knižnica** obsahuje nasledujúce kategórie:
 - **Online súbory** – Hudba streamovaná priamo z cloudových služieb
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Zobrazenie albumov" image="/docs/howto/how-to-play-your-own-music-on-iphone-using-carplay/albums.webp" imageStyle="border-radius: clamp(14px, 2vw, 28px);" >}}
+{{< ls-card title="" subtitle="Zobrazenie albumov" image="/docs/howto/how-to-play-your-own-music-on-iphone-using-carplay/albums.webp" imageStyle="border-radius: clamp(14px, 2vw, 28px);" >}}
 {{< /cards >}}
 
 Môžete otvoriť ľubovoľné podmenu a klepnúť na skladbu na okamžité spustenie prehrávania. Podrobnejšie informácie nájdete v kompletnom [Návode na hudobnú knižnicu](/docs/guide/evermusic/evermusic-guide-music-library/).
@@ -150,7 +150,7 @@ Môžete otvoriť ľubovoľné podmenu a klepnúť na skladbu na okamžité spus
 Karta **Pripojenia** je vaše centrálne miesto na prístup a správu všetkých pripojených služieb cloudového úložiska a zariadení lokálnej siete.
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Pripojenia" image="/docs/howto/how-to-play-your-own-music-on-iphone-using-carplay/connections-with-images-3.webp" imageStyle="border-radius: clamp(14px, 2vw, 28px);" >}}
+{{< ls-card title="" subtitle="Pripojenia" image="/docs/howto/how-to-play-your-own-music-on-iphone-using-carplay/connections-with-images-3.webp" imageStyle="border-radius: clamp(14px, 2vw, 28px);" >}}
 {{< /cards >}}
 
 Odtiaľto sa môžete pripojiť k populárnym cloudovým platformám ako Dropbox, Google Drive, OneDrive, MEGA, iCloud Drive a dokonca sieťovým diskom ako SMB, DLNA a WebDAV. Po pripojení môžete prechádzať, streamovať, sťahovať a spravovať súbory priamo z aplikácie.
@@ -172,7 +172,7 @@ Viac informácií o všetkých spôsoboch pripojenia a správy cloudových a sie
 Sekcia **Lokálne súbory** je vaše centrálne miesto na správu audio súborov uložených priamo na vašom zariadení alebo v adresári **Dokumenty** aplikácie Evermusic. Zahŕňa tiež offline súbory stiahnuté z cloudového úložiska, súbory vyrovnávacej pamäte audio prehrávača a priečinky, ktoré ste sprístupnili na offline prehrávanie. Táto sekcia zabezpečuje, že si môžete vychutnať svoju hudobnú knižnicu aj bez internetového pripojenia.
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Lokálne súbory" image="/docs/howto/how-to-play-your-own-music-on-iphone-using-carplay/local-files-with-images.webp" imageStyle="border-radius: clamp(14px, 2vw, 28px);" >}}
+{{< ls-card title="" subtitle="Lokálne súbory" image="/docs/howto/how-to-play-your-own-music-on-iphone-using-carplay/local-files-with-images.webp" imageStyle="border-radius: clamp(14px, 2vw, 28px);" >}}
 {{< /cards >}}
 
 Obrazovka **Lokálne súbory** je organizovaná do nasledujúcich kľúčových sekcií:
@@ -186,7 +186,7 @@ Obrazovka **Lokálne súbory** je organizovaná do nasledujúcich kľúčových 
 - **Audio prehrávač** – Priečinok vyrovnávacej pamäte používaný na crossfade a optimalizáciu výkonu. Dá sa vypnúť alebo vymazať v nastaveniach.
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Priečinky zariadenia v Lokálnych súboroch" image="/docs/howto/how-to-play-your-own-music-on-iphone-using-carplay/local-files-device-folders.webp" imageStyle="border-radius: clamp(14px, 2vw, 28px);" >}}
+{{< ls-card title="" subtitle="Priečinky zariadenia v Lokálnych súboroch" image="/docs/howto/how-to-play-your-own-music-on-iphone-using-carplay/local-files-device-folders.webp" imageStyle="border-radius: clamp(14px, 2vw, 28px);" >}}
 {{< /cards >}}
 
 Viac informácií nájdete v kompletnom [Návode na lokálne súbory](/docs/guide/evermusic/evermusic-guide-local-files/).
@@ -194,7 +194,7 @@ Viac informácií nájdete v kompletnom [Návode na lokálne súbory](/docs/guid
 ## Zobrazenie priečinka
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Lokálny priečinok s obalmi" image="/docs/howto/how-to-play-your-own-music-on-iphone-using-carplay/local-folder-with-images-2.webp" imageStyle="border-radius: clamp(14px, 2vw, 28px);" >}}
+{{< ls-card title="" subtitle="Lokálny priečinok s obalmi" image="/docs/howto/how-to-play-your-own-music-on-iphone-using-carplay/local-folder-with-images-2.webp" imageStyle="border-radius: clamp(14px, 2vw, 28px);" >}}
 {{< /cards >}}
 
 Po otvorení priečinka nájdete v hornej časti sadu užitočných akcií:
@@ -206,7 +206,7 @@ Po otvorení priečinka nájdete v hornej časti sadu užitočných akcií:
 ## Limit hĺbky obsahu
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Limit hĺbky obsahu" image="/docs/howto/how-to-play-your-own-music-on-iphone-using-carplay/content-depth-limit.webp" imageStyle="border-radius: clamp(14px, 2vw, 28px);" >}}
+{{< ls-card title="" subtitle="Limit hĺbky obsahu" image="/docs/howto/how-to-play-your-own-music-on-iphone-using-carplay/content-depth-limit.webp" imageStyle="border-radius: clamp(14px, 2vw, 28px);" >}}
 {{< /cards >}}
 
 Pri používaní CarPlay sa môžete stretnúť s chybou **"Limit hĺbky obsahu"** — najmä ak vaša hudobná knižnica obsahuje veľa hlboko vnorených priečinkov.  
@@ -227,7 +227,7 @@ Toto riešenie zabezpečuje bezproblémový zážitok pri prehliadaní hudby v a
 ## Práve sa prehráva
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="CarPlay Práve sa prehráva" image="/docs/howto/how-to-play-your-own-music-on-iphone-using-carplay/carplay-nowplaying.webp" imageStyle="border-radius: clamp(14px, 2vw, 28px);" >}}
+{{< ls-card title="" subtitle="CarPlay Práve sa prehráva" image="/docs/howto/how-to-play-your-own-music-on-iphone-using-carplay/carplay-nowplaying.webp" imageStyle="border-radius: clamp(14px, 2vw, 28px);" >}}
 {{< /cards >}}
 
 Po klepnutí na ľubovoľný audio súbor sa automaticky pridá do **radu prehrávača**.  
@@ -244,7 +244,7 @@ Táto obrazovka vám umožňuje mať kontrolu nad zážitkom z počúvania poča
 ## Nastavenia
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Menu Nastavenia" image="/docs/howto/how-to-play-your-own-music-on-iphone-using-carplay/settings-2.webp" imageStyle="border-radius: clamp(14px, 2vw, 28px);" >}}
+{{< ls-card title="" subtitle="Menu Nastavenia" image="/docs/howto/how-to-play-your-own-music-on-iphone-using-carplay/settings-2.webp" imageStyle="border-radius: clamp(14px, 2vw, 28px);" >}}
 {{< /cards >}}
 
 Sekcia **Nastavenia** v rozhraní CarPlay vám umožňuje prispôsobiť správanie aplikácie počas jazdy. Tieto nastavenia pomáhajú zlepšiť výkon, znížiť rušivé elementy a poskytnúť plynulejší zážitok z počúvania.
@@ -260,7 +260,7 @@ Sekcia **Nastavenia** v rozhraní CarPlay vám umožňuje prispôsobiť správan
 - **Zoradenie** – Úprava spôsobu zoradenia obsahu v ponukách CarPlay ako súbory, hudobná knižnica a pripojenia.
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Menu možností zoradenia" image="/docs/howto/how-to-play-your-own-music-on-iphone-using-carplay/settings-sort.webp" imageStyle="border-radius: clamp(14px, 2vw, 28px);" >}}
+{{< ls-card title="" subtitle="Menu možností zoradenia" image="/docs/howto/how-to-play-your-own-music-on-iphone-using-carplay/settings-sort.webp" imageStyle="border-radius: clamp(14px, 2vw, 28px);" >}}
 {{< /cards >}}
 
 - **Limit načítania obsahu** – Nastavte, koľko položiek sa má zobraziť na obrazovke. Nižšie limity zlepšujú rýchlosť načítania a znižujú potrebu posúvania.
@@ -271,19 +271,19 @@ Sekcia **Nastavenia** v rozhraní CarPlay vám umožňuje prispôsobiť správan
 - **Audio ekvalizér**
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Panel konfigurácie ekvalizéra" image="/docs/howto/how-to-play-your-own-music-on-iphone-using-carplay/settings-eq-configuration.webp" imageStyle="border-radius: clamp(14px, 2vw, 28px);" >}}
+{{< ls-card title="" subtitle="Panel konfigurácie ekvalizéra" image="/docs/howto/how-to-play-your-own-music-on-iphone-using-carplay/settings-eq-configuration.webp" imageStyle="border-radius: clamp(14px, 2vw, 28px);" >}}
 {{< /cards >}}
 
 Zapnite vstavaný audio ekvalizér, upravte frekvenčné pásma a vyberte z predkonfigurovaných predvolieb pre personalizovaný zvukový zážitok.
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Zoznam predvolieb ekvalizéra" image="/docs/howto/how-to-play-your-own-music-on-iphone-using-carplay/settings-equalizer.webp" imageStyle="border-radius: clamp(14px, 2vw, 28px);" >}}
+{{< ls-card title="" subtitle="Zoznam predvolieb ekvalizéra" image="/docs/howto/how-to-play-your-own-music-on-iphone-using-carplay/settings-equalizer.webp" imageStyle="border-radius: clamp(14px, 2vw, 28px);" >}}
 {{< /cards >}}
 
 - **Prehrávanie s crossfade**
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Prehrávanie s crossfade" image="/docs/howto/how-to-play-your-own-music-on-iphone-using-carplay/settings-crossfade-playback.webp" imageStyle="border-radius: clamp(14px, 2vw, 28px);" >}}
+{{< ls-card title="" subtitle="Prehrávanie s crossfade" image="/docs/howto/how-to-play-your-own-music-on-iphone-using-carplay/settings-crossfade-playback.webp" imageStyle="border-radius: clamp(14px, 2vw, 28px);" >}}
 {{< /cards >}}
 
 Vytvorte plynulé prechody medzi piesňami prekrývaním konca jednej skladby so začiatkom ďalšej. Dĺžka crossfade sa dá prispôsobiť.
@@ -291,7 +291,7 @@ Vytvorte plynulé prechody medzi piesňami prekrývaním konca jednej skladby so
 - **Prehrávanie bez medzier**
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Prehrávanie bez medzier" image="/docs/howto/how-to-play-your-own-music-on-iphone-using-carplay/settings-gapless-playback.webp" imageStyle="border-radius: clamp(14px, 2vw, 28px);" >}}
+{{< ls-card title="" subtitle="Prehrávanie bez medzier" image="/docs/howto/how-to-play-your-own-music-on-iphone-using-carplay/settings-gapless-playback.webp" imageStyle="border-radius: clamp(14px, 2vw, 28px);" >}}
 {{< /cards >}}
 
 Prehrávajte skladby plynule bez prestávok — ideálne pre živé nahrávky, DJ mixy a konceptuálne albumy.
@@ -307,7 +307,7 @@ Viac informácií nájdete v kompletnom [Návode na nastavenia](/docs/guide/ever
 S **Evermusic** a **Flacbox** sa prehrávanie vlastnej hudby v aute pomocou Apple CarPlay stáva jednoduchým, flexibilným a spoľahlivým. Či už streamujete z cloudového úložiska, pristupujete k lokálnym súborom alebo prehrávate stiahnuté skladby offline — tieto aplikácie sú vytvorené tak, aby vám poskytli úplnú kontrolu nad zážitkom z počúvania počas jazdy.
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Obrazovka CarPlay Práve sa prehráva" image="/docs/howto/how-to-play-your-own-music-on-iphone-using-carplay/carplay-nowplaying-2.webp" imageStyle="border-radius: clamp(14px, 2vw, 28px);" >}}
+{{< ls-card title="" subtitle="Obrazovka CarPlay Práve sa prehráva" image="/docs/howto/how-to-play-your-own-music-on-iphone-using-carplay/carplay-nowplaying-2.webp" imageStyle="border-radius: clamp(14px, 2vw, 28px);" >}}
 {{< /cards >}}
 
 Od bezproblémovej integrácie s cloudom po synchronizáciu offline priečinkov, od hlbokej organizácie hudobnej knižnice po prispôsobiteľné prehrávanie s ekvalizérmi a crossfade — tieto funkcie robia z Evermusic a Flacbox viac než len audio prehrávače. Sú to inteligentní spoločníci pre CarPlay navrhnutí pre audiofilov, dochádzajúcich aj bežných používateľov.
@@ -325,22 +325,22 @@ Preskúmajte ďalšie funkcie, nastavenia a návody v našom kompletnom [Použí
 
 ## Často kladené otázky
 
-{{% details title="Aké formáty hudobných súborov fungujú s CarPlay v Evermusic a Flacbox?" closed="true" %}}
+{{% ls-details title="Aké formáty hudobných súborov fungujú s CarPlay v Evermusic a Flacbox?" closed="true" %}}
 Evermusic a Flacbox podporujú širokú škálu audio formátov vrátane MP3, FLAC, AAC, WAV, AIFF, OGG, WMA a ďalších. Všetky podporované formáty fungujú cez CarPlay bez akejkoľvek konverzie.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Môžem prehrávať hudbu z Google Drive alebo Dropbox na CarPlay?" closed="true" %}}
+{{% ls-details title="Môžem prehrávať hudbu z Google Drive alebo Dropbox na CarPlay?" closed="true" %}}
 Áno. Evermusic aj Flacbox vám umožňujú pripojiť sa k službám cloudového úložiska ako Google Drive, Dropbox, OneDrive, MEGA a ďalším. Môžete streamovať hudbu priamo alebo ju stiahnuť na offline prehrávanie cez CarPlay.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Potrebujem internetové pripojenie na prehrávanie hudby na CarPlay?" closed="true" %}}
+{{% ls-details title="Potrebujem internetové pripojenie na prehrávanie hudby na CarPlay?" closed="true" %}}
 Nie. Hudbu si môžete stiahnuť z cloudového úložiska na offline prehrávanie. Keď sú súbory uložené lokálne na iPhone, prehrávajú sa cez CarPlay bez akéhokoľvek internetového pripojenia.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Prečo sa mi zobrazuje chyba Limit hĺbky obsahu na CarPlay?" closed="true" %}}
+{{% ls-details title="Prečo sa mi zobrazuje chyba Limit hĺbky obsahu na CarPlay?" closed="true" %}}
 CarPlay obmedzuje počet úrovní priečinkov, ktoré môže zobraziť. Ak je vaša hudba v hlboko vnorených priečinkoch, pridajte tieto priečinky do Obľúbených, aby ste k nim mali priamy prístup z ponuky Obľúbené v CarPlay.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Je Evermusic alebo Flacbox zadarmo na používanie s CarPlay?" closed="true" %}}
+{{% ls-details title="Je Evermusic alebo Flacbox zadarmo na používanie s CarPlay?" closed="true" %}}
 Obe aplikácie sú zadarmo na stiahnutie s plnou podporou CarPlay, ekvalizérom a funkciami prehrávania. Bezplatné verzie majú limity na cloudové pripojenia (3), prehrávače (10) a offline priečinky (1). Premium odstraňuje všetky limity.
-{{% /details %}}
+{{% /ls-details %}}

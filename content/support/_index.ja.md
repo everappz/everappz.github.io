@@ -3,7 +3,9 @@ date: '2025-06-12T17:00:00+00:00'
 title: 'サポート'
 ---
 
-{{< lottie src="/images/juicy-json/juicy-girl-is-working-on-laptop-at-a-remote-job.json" width="80%" >}}
+{{< ls-lottie src="/images/juicy-json/juicy-girl-is-working-on-laptop-at-a-remote-job.json" width="80%" >}}
+
+{{< ls-docs-search >}}
 
 ## お困りですか？私たちがお手伝いします
 
@@ -19,9 +21,9 @@ title: 'サポート'
 時間を節約し、すぐに回答を得るために、最も役立つリソースをご確認ください。よくある質問の多くはすでに回答されています：
 
 {{< cards >}}
-  {{< card icon="book-open" link="/docs/guide" title="ユーザーガイド" >}}
-  {{< card icon="question-mark-circle" link="/docs/faq" title="よくある質問" >}}
-  {{< card icon="light-bulb" link="/docs/howto" title="使い方ガイド" >}}
+  {{< ls-card icon="book-open" link="/docs/guide" title="ユーザーガイド" >}}
+  {{< ls-card icon="question-mark-circle" link="/docs/faq" title="よくある質問" >}}
+  {{< ls-card icon="light-bulb" link="/docs/howto" title="使い方ガイド" >}}
 {{< /cards >}}
 
 これらのガイドは、セットアップから高度な機能まで、アプリを最大限に活用するために作られています。

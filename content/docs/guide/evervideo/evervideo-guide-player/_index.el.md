@@ -31,7 +31,7 @@ readingTime: 14
 Ο compact player παραμένει ορατός ενώ περιηγείστε στη βιβλιοθήκη, τον διαχειριστή αρχείων ή τις ρυθμίσεις, ώστε να μην χάνετε ποτέ το βίντεο ενώ ψάχνετε για το επόμενο.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evervideo Media Player Πλήρους Οθόνης" image="/docs/guide/evervideo/img/evervideo-media-player-fullscreen.webp" >}}
+  {{< ls-card title="" subtitle="Evervideo Media Player Πλήρους Οθόνης" image="/docs/guide/evervideo/img/evervideo-media-player-fullscreen.webp" >}}
 {{< /cards >}}
 
 ## Υποστηριζόμενες Μορφές Βίντεο και Ήχου
@@ -72,7 +72,7 @@ readingTime: 14
 Ο compact player είναι ένας επίμονος mini-player που παραμένει ορατός στην κορυφή κάθε οθόνης στην εφαρμογή ενώ περιηγείστε στη βιβλιοθήκη, τον διαχειριστή αρχείων ή τις ρυθμίσεις. Πατήστε τον για να επεκταθεί στον player πλήρους οθόνης· σύρετε προς τα κάτω για να τον συμπτύξετε ξανά.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Ρυθμίσεις βίντεο Evervideo από τον Compact Player στην Κύρια Οθόνη" image="/docs/guide/evervideo/img/evervideo-video-settings-from-compact-player-view-on-the-main-screen.webp" >}}
+  {{< ls-card title="" subtitle="Ρυθμίσεις βίντεο Evervideo από τον Compact Player στην Κύρια Οθόνη" image="/docs/guide/evervideo/img/evervideo-video-settings-from-compact-player-view-on-the-main-screen.webp" >}}
 {{< /cards >}}
 
 ## AirPlay 2
@@ -115,7 +115,7 @@ readingTime: 14
 Για ρύθμιση εικόνας, το Evervideo παρέχει έναν αφιερωμένο ισοσταθμιστή βίντεο — ρυθμίστε φωτεινότητα, αντίθεση, κορεσμό και απόχρωση σε πραγματικό χρόνο κατά τη διάρκεια αναπαραγωγής. Όπως ο ισοσταθμιστής ήχου, προσαρμοσμένες προεπιλογές βίντεο μπορούν να εξαχθούν και να εισαχθούν. Χρησιμοποιήστε τον για να φωτίσετε μια σκοτεινή σκηνή σε ηλιόλουστη μέρα, να αυξήσετε τον κορεσμό σε ξεθωριασμένο περιεχόμενο ή να ζεστάνετε ψυχρή χρωματική απόχρωση.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Ισοσταθμιστής Βίντεο Evervideo" image="/docs/guide/evervideo/img/evervideo-video-equalizer.webp" >}}
+  {{< ls-card title="" subtitle="Ισοσταθμιστής Βίντεο Evervideo" image="/docs/guide/evervideo/img/evervideo-video-equalizer.webp" >}}
 {{< /cards >}}
 
 ## Λειτουργία Κλιμάκωσης Βίντεο
@@ -144,7 +144,7 @@ readingTime: 14
 Πατήστε τον έλεγχο Ταχύτητα στη γραμμή εργαλείων player για να αλλάξετε ταχύτητα αναπαραγωγής — επιβραδύνετε για ανάλυση (0,25× ή 0,5×) ή επιταχύνετε για οδηγίες και διαλέξεις (1,25×, 1,5×, 2× και έως 3×). Πατήστε το εικονίδιο ρύθμισης στην επάνω δεξιά γωνία της οθόνης Ταχύτητας για μετάβαση σε ακριβή λειτουργία με λεπτότερες ρυθμίσεις. Διαθέσιμη επίσης διόρθωση τόνου ανά τράκ.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Ταχύτητα Αναπαραγωγής Evervideo στη Κύρια Γραμμή Εργαλείων" image="/docs/guide/evervideo/img/evervideo-media-player-playback-speed-on-main-toolbar.webp" >}}
+  {{< ls-card title="" subtitle="Ταχύτητα Αναπαραγωγής Evervideo στη Κύρια Γραμμή Εργαλείων" image="/docs/guide/evervideo/img/evervideo-media-player-playback-speed-on-main-toolbar.webp" >}}
 {{< /cards >}}
 
 ## Ουρά Player
@@ -152,7 +152,7 @@ readingTime: 14
 Για να δείτε την ουρά player, πατήστε το κουμπί ουράς στον player. Κάθε βίντεο στην ουρά έχει περισσότερες ενέργειες — πατήστε τις τρεις τελείες για να τις δείτε. Για αναδιάταξη βίντεο στην ουρά, χρησιμοποιήστε τον δείκτη αναδιάταξης κοντά στον τίτλο και σύρετέ τον σε νέα θέση.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Ουρά Αναπαραγωγής Evervideo" image="/docs/guide/evervideo/img/evervideo-playback-queue.webp" >}}
+  {{< ls-card title="" subtitle="Ουρά Αναπαραγωγής Evervideo" image="/docs/guide/evervideo/img/evervideo-playback-queue.webp" >}}
 {{< /cards >}}
 
 ## Χρονοδιακόπτης Ύπνου
@@ -189,7 +189,7 @@ readingTime: 14
 - **Βοήθεια** — άνοιγμα οδηγιών.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Οθόνη Περισσότερων Ενεργειών Player Evervideo" image="/docs/guide/evervideo/img/evervideo-media-player-more-actions.webp" >}}
+  {{< ls-card title="" subtitle="Οθόνη Περισσότερων Ενεργειών Player Evervideo" image="/docs/guide/evervideo/img/evervideo-media-player-more-actions.webp" >}}
 {{< /cards >}}
 
 ## Ρυθμίσεις Player

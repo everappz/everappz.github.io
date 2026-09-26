@@ -12,7 +12,7 @@ authors:
     image: "/images/about/artem-meleshko-founder-everappz.webp"
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 **摘要：** Flacbox 全球下載量已超過 100 萬次。支援 FLAC、ALAC、APE、DSD 和其他無損格式，配備 10 段等化器、M3U/CUE 播放清單、離線播放和 iPhone、iPad 及 Mac 跨裝置同步。
 
@@ -78,26 +78,26 @@ Flacbox 按錄製原樣播放您的音樂。支援的格式：
 
 ## 常見問題
 
-{{% details title="Flacbox 支援哪些音訊格式？" closed="true" %}}
+{{% ls-details title="Flacbox 支援哪些音訊格式？" closed="true" %}}
 Flacbox 播放 FLAC、ALAC、APE、DSD、WavPack、TTA、RealAudio、MP3、AAC、OGG 和許多其他格式。它主要為無損和 hi-res 音訊設計。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Flacbox 有等化器嗎？" closed="true" %}}
+{{% ls-details title="Flacbox 有等化器嗎？" closed="true" %}}
 有。Flacbox 包含一個 10 段等化器，帶有風格預設和手動頻率調節。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="我可以用 Flacbox 離線聽音樂嗎？" closed="true" %}}
+{{% ls-details title="我可以用 Flacbox 離線聽音樂嗎？" closed="true" %}}
 可以。從雲端儲存下載檔案或直接傳輸到應用程式，無需網路連線即可離線播放。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Flacbox 在 Mac 上能用嗎？" closed="true" %}}
+{{% ls-details title="Flacbox 在 Mac 上能用嗎？" closed="true" %}}
 能。Flacbox 在 iPhone、iPad 和 Mac 上運行，所有裝置上的音樂庫和播放歷史保持同步。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="什麼是 CUE 檔案支援？" closed="true" %}}
+{{% ls-details title="什麼是 CUE 檔案支援？" closed="true" %}}
 CUE 檔案定義單個音訊檔案中的曲目邊界。Flacbox 讀取 CUE 檔案，將專輯翻錄分割為帶有正確中繼資料的單獨曲目。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Flacbox 免費嗎？" closed="true" %}}
+{{% ls-details title="Flacbox 免費嗎？" closed="true" %}}
 Flacbox 免費下載，可選的進階功能可透過應用程式內購買取得。
-{{% /details %}}
+{{% /ls-details %}}

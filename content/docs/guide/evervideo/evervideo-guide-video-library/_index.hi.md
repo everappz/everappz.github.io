@@ -21,7 +21,7 @@ readingTime: 8
 आपके पास लाइब्रेरी में मीडिया जोड़ने के दो तरीके हैं: **मैन्युअल जोड़ना** (आप चुनते हैं कि क्या जोड़ा जाता है) या **स्वचालित सिंक्रनाइज़ेशन** (Evervideo निर्दिष्ट क्लाउड फ़ोल्डर स्कैन करता है और नई फ़ाइलें स्वचालित रूप से जोड़ता है जैसे वे दिखाई देती हैं)।
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evervideo मीडिया लाइब्रेरी" image="/docs/guide/evervideo/img/evervideo-genres-in-media-library.webp" >}}
+  {{< ls-card title="" subtitle="Evervideo मीडिया लाइब्रेरी" image="/docs/guide/evervideo/img/evervideo-genres-in-media-library.webp" >}}
 {{< /cards >}}
 
 ## मैन्युअल जोड़ना
@@ -92,7 +92,7 @@ Evervideo Music ऐप लाइब्रेरी से वीडियो भ
 यह सेक्शन उनकी अंतिम प्लेबैक स्थिति के साथ हाल ही में चलाए गए सभी वीडियो दिखाता है, ताकि आप एक टैप से किसी भी को फिर से शुरू कर सकें। आप सेटिंग्स → मीडिया लाइब्रेरी → हालिया → सूची आकार बदलें में बदल सकते हैं कि सूची कितनी प्रविष्टियां रखती है, और अपनी वॉच हिस्ट्री बैकअप करने के लिए सूची को M3U / CSV / TXT में एक्सपोर्ट करें।
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evervideo हालिया — हाल ही में देखे गए वीडियो" image="/docs/guide/evervideo/img/evervideo-recents.webp" >}}
+  {{< ls-card title="" subtitle="Evervideo हालिया — हाल ही में देखे गए वीडियो" image="/docs/guide/evervideo/img/evervideo-recents.webp" >}}
 {{< /cards >}}
 
 ## पसंदीदा
@@ -104,7 +104,7 @@ Evervideo Music ऐप लाइब्रेरी से वीडियो भ
 Evervideo आपके द्वारा देखे जाने वाले हर वीडियो की प्लेबैक स्थिति ट्रैक करता है। किसी भी सूची में हर वीडियो — हालिया, पसंदीदा, एल्बम, जेनर, प्लेलिस्ट, फ़ोल्डर — एक छोटी प्रोग्रेस बार दिखाता है ताकि आप एक नज़र में देख सकें कि आप कितना देख चुके हैं। यह लंबे TV-शो सीज़न, कोर्स प्लेलिस्ट और बिंज-वॉच नाइट्स को आसानी से प्रबंधित करता है।
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evervideo जेनर विवरण प्रति-फ़ाइल वॉच प्रोग्रेस के साथ" image="/docs/guide/evervideo/img/evervideo-genre-detail-with-playback-progress-for-watched-files.webp" >}}
+  {{< ls-card title="" subtitle="Evervideo जेनर विवरण प्रति-फ़ाइल वॉच प्रोग्रेस के साथ" image="/docs/guide/evervideo/img/evervideo-genre-detail-with-playback-progress-for-watched-files.webp" >}}
 {{< /cards >}}
 
 ## टॉप टूलबार
@@ -116,7 +116,7 @@ Evervideo आपके द्वारा देखे जाने वाले
 खोज सुविधा आपको मीडिया लाइब्रेरी के भीतर एक विशिष्ट टाइटल, एल्बम, जेनर, या प्लेलिस्ट खोजने में सक्षम बनाती है। खोज स्क्रीन में, आपके पास सॉर्ट, फ़िल्टर और ग्रिड / सूची व्यू क्रियाओं तक पहुँच है। खोज मीडिया लाइब्रेरी डेटाबेस के खिलाफ स्थानीय रूप से चलती है, इसलिए यह पूरी तरह से ऑफलाइन काम करती है और आपके टाइप करते ही परिणाम देती है।
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evervideo मीडिया लाइब्रेरी खोज" image="/docs/guide/evervideo/img/evervideo-library-search.webp" >}}
+  {{< ls-card title="" subtitle="Evervideo मीडिया लाइब्रेरी खोज" image="/docs/guide/evervideo/img/evervideo-library-search.webp" >}}
 {{< /cards >}}
 
 ## विकल्प मेनू

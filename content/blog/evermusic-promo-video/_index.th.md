@@ -12,7 +12,7 @@ authors:
     image: "/images/about/artem-meleshko-founder-everappz.webp"
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 ## Evermusic: เครื่องเล่นเพลงคลาวด์สำหรับ iPhone และ iPad
 
@@ -22,7 +22,7 @@ Evermusic เป็นเครื่องเล่นเพลงคลาว�
 
 ## ชมวิดีโอโปรโมท
 
-{{< youtubecard id="BwD0XLgdzEE" title="Evermusic Promo Video" >}}
+{{< ls-youtubecard id="BwD0XLgdzEE" title="Evermusic Promo Video" >}}
 
 ## ฟีเจอร์หลักที่แสดงในวิดีโอ
 
@@ -36,14 +36,14 @@ Evermusic เป็นเครื่องเล่นเพลงคลาว�
 
 ## คำถามที่พบบ่อย
 
-{{% details title="Evermusic คืออะไร?" closed="true" %}}
+{{% ls-details title="Evermusic คืออะไร?" closed="true" %}}
 Evermusic เป็นเครื่องเล่นเพลงคลาวด์สำหรับ iPhone และ iPad เชื่อมต่อกับบริการคลาวด์สตอเรจเช่น Dropbox, Google Drive และ OneDrive ให้คุณสตรีมและดาวน์โหลดไฟล์เพลงของคุณเอง รองรับ FLAC, MP3, AAC, WAV และรูปแบบเสียงอื่นๆ
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Evermusic ดาวน์โหลดฟรีหรือไม่?" closed="true" %}}
+{{% ls-details title="Evermusic ดาวน์โหลดฟรีหรือไม่?" closed="true" %}}
 ใช่ Evermusic ดาวน์โหลดฟรีพร้อมฟีเจอร์พื้นฐาน การอัปเกรด Premium แบบจ่ายครั้งเดียวจะปลดล็อกอีควอไลเซอร์ crossfade และการเชื่อมต่อบัญชีคลาวด์เพิ่มเติม
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Evermusic รองรับบริการคลาวด์ใดบ้าง?" closed="true" %}}
+{{% ls-details title="Evermusic รองรับบริการคลาวด์ใดบ้าง?" closed="true" %}}
 Evermusic รองรับแพลตฟอร์มคลาวด์มากกว่า 12 แห่ง รวมถึง iCloud Drive, Dropbox, Google Drive, OneDrive, Box, MEGA, Yandex.Disk, pCloud และเซิร์ฟเวอร์ใดก็ได้ที่ใช้โปรโตคอล WebDAV หรือ SMB
-{{% /details %}}
+{{% /ls-details %}}

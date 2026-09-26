@@ -12,7 +12,7 @@ authors:
     image: "/images/about/artem-meleshko-founder-everappz.webp"
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 ## Evermusic: pilvimusiikkisoitin iPhonelle ja iPadille
 
@@ -22,7 +22,7 @@ Evermusic on pilvimusiikkisoitin, joka yhdistää henkilökohtaiseen pilvipalvel
 
 ## Katso promovideo
 
-{{< youtubecard id="BwD0XLgdzEE" title="Evermusic Promo Video" >}}
+{{< ls-youtubecard id="BwD0XLgdzEE" title="Evermusic Promo Video" >}}
 
 ## Videossa esitellyt tärkeimmät ominaisuudet
 
@@ -36,14 +36,14 @@ Evermusic on pilvimusiikkisoitin, joka yhdistää henkilökohtaiseen pilvipalvel
 
 ## Usein kysytyt kysymykset
 
-{{% details title="Mikä on Evermusic?" closed="true" %}}
+{{% ls-details title="Mikä on Evermusic?" closed="true" %}}
 Evermusic on pilvimusiikkisoitin iPhonelle ja iPadille. Se yhdistää pilvipalveluihin kuten Dropbox, Google Drive ja OneDrive, jolloin voit suoratoistaa ja ladata omia musiikkitiedostojasi. Se tukee FLAC-, MP3-, AAC-, WAV- ja muita ääniformaatteja.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Onko Evermusic ilmainen ladata?" closed="true" %}}
+{{% ls-details title="Onko Evermusic ilmainen ladata?" closed="true" %}}
 Kyllä. Evermusic on ilmainen ladata perusominaisuuksilla. Kertaluonteinen Premium-päivitys avaa taajuuskorjaimen, crossfaden ja lisäpilvipalveluyhteydet.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Mitä pilvipalveluita Evermusic tukee?" closed="true" %}}
+{{% ls-details title="Mitä pilvipalveluita Evermusic tukee?" closed="true" %}}
 Evermusic tukee yli 12 pilvialustaa mukaan lukien iCloud Drive, Dropbox, Google Drive, OneDrive, Box, MEGA, Yandex.Disk, pCloud ja kaikki WebDAV- tai SMB-protokollia käyttävät palvelimet.
-{{% /details %}}
+{{% /ls-details %}}

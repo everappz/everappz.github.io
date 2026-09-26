@@ -19,7 +19,7 @@ readingTime: 8
 Встроенный менеджер файлов позволяет редактировать файлы (переименовывать, перемещать, копировать, загружать, удалять), отслеживать передачи и предлагает несколько методов импорта аудиофайлов в приложение — прямые загрузки из облака, синхронизация в офлайн-режиме, USB-флешки, Wi-Fi Drive и Общий доступ к файлам Finder.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Экран «Локальные файлы» Flacbox" image="/docs/guide/flacbox/img/local-files.webp" >}}
+  {{< ls-card title="" subtitle="Экран «Локальные файлы» Flacbox" image="/docs/guide/flacbox/img/local-files.webp" >}}
 {{< /cards >}}
 
 ## Загрузка файлов из облачного хранилища
@@ -102,7 +102,7 @@ readingTime: 8
 Показывает файлы, находящиеся на устройстве, но в других приложениях. Их можно импортировать в это приложение с помощью системного выбора файлов. Для активации выбора файлов нажмите **Открыть файлы…** для выбора файлов или **Открыть папки…** для выбора папок. Подробные инструкции по импорту локальной музыки с iPhone или Mac доступны [здесь](/docs/howto/how-to-play-local-music-stored-on-your-iphone-or-mac).
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox: папки подключённого устройства" image="/docs/guide/flacbox/img/connected-device-folders.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox: папки подключённого устройства" image="/docs/guide/flacbox/img/connected-device-folders.webp" >}}
 {{< /cards >}}
 
 Также можно подключить папку на устройстве и иметь быстрый доступ к её содержимому. Используйте пункт меню **Подключить папку** и выберите папку на устройстве. Нажмите **Готово**, и приложение создаёт ссылку на эту папку с доступом для чтения/записи, позволяя управлять файлами прямо из этого приложения. Для отключения папки на устройстве нажмите кнопку **Другие действия** и выберите **Отключить**.
@@ -137,7 +137,7 @@ readingTime: 8
 - **Удалить** — удалить выбранный файл или папку с устройства. **Это действие необратимо.**
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox: режим выбора локальных файлов" image="/docs/guide/flacbox/img/local-files-selection-mode.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox: режим выбора локальных файлов" image="/docs/guide/flacbox/img/local-files-selection-mode.webp" >}}
 {{< /cards >}}
 
 ## Меню параметров
@@ -161,7 +161,7 @@ readingTime: 8
 - **Удалить** — удалить файл или папку с устройства. **Это действие необратимо**, и восстановить удалённые файлы невозможно.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox: другие действия для локального файла" image="/docs/guide/flacbox/img/local-files-more-actions-for-file.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox: другие действия для локального файла" image="/docs/guide/flacbox/img/local-files-more-actions-for-file.webp" >}}
 {{< /cards >}}
 
 ## Офлайн папки

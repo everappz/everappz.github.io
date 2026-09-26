@@ -20,7 +20,7 @@ V sekcii Prehrávače nájdete užitočné nástroje na správu hudobných zbier
 Prehrávače vo Flacbox môžu obsahovať zmesou online cloudových skladieb, stiahnutých offline súborov a lokálnych súborov zo zariadenia — všetko v jednom prehrávači — a prehrávajú sa bez problémov spolu.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox — hlavná obrazovka prehrávačov" image="/docs/guide/flacbox/img/playlists-main.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox — hlavná obrazovka prehrávačov" image="/docs/guide/flacbox/img/playlists-main.webp" >}}
 {{< /cards >}}
 
 ## Vytvorenie prehrávača
@@ -63,7 +63,7 @@ Keď otvoríte prehrávač, zobrazí sa obrazovka Detailu prehrávača. Nájdete
 - **Offline režim** — stiahne všetky skladby z tohto prehrávača do lokálnych súborov. Všetky nové položky pridané do prehrávača sa tiež automaticky stiahnu.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox — obrazovka detailu prehrávača" image="/docs/guide/flacbox/img/playlist-details-screen.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox — obrazovka detailu prehrávača" image="/docs/guide/flacbox/img/playlist-details-screen.webp" >}}
 {{< /cards >}}
 
 ## Ďalšie akcie pre prehrávač na hlavnej obrazovke prehrávačov
@@ -82,7 +82,7 @@ K akciám prehrávača môžete pristupovať klepnutím na tlačidlo **„..."**
 - **Vymazať prehrávač** — vymaže prehrávač z hudobnej knižnice. **Túto akciu nie je možné vrátiť späť.**
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox — ďalšie akcie pre prehrávač na hlavnej obrazovke prehrávačov" image="/docs/guide/flacbox/img/more-actions-for-playlist-in-playlists-main-screen.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox — ďalšie akcie pre prehrávač na hlavnej obrazovke prehrávačov" image="/docs/guide/flacbox/img/more-actions-for-playlist-in-playlists-main-screen.webp" >}}
 {{< /cards >}}
 
 ## Ďalšie akcie pre prehrávač na obrazovke detailu prehrávača
@@ -110,7 +110,7 @@ Ak chcete zmeniť poradie skladieb v prehrávači, klepnite na tlačidlo **„..
 Pre ešte jednoduchší pracovný postup pri dlhých prehrávačoch vyberte Viac akcií → Preusporiadať skladby a vstúpte do vyhradeného režimu drag-and-drop preusporiadania.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox — preusporiadanie skladieb v prehrávači" image="/docs/guide/flacbox/img/playlist-details-rearange-songs.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox — preusporiadanie skladieb v prehrávači" image="/docs/guide/flacbox/img/playlist-details-rearange-songs.webp" >}}
 {{< /cards >}}
 
 ## Zmena obrázka obalu prehrávača
@@ -126,7 +126,7 @@ Otvorte prehrávač a klepnite na tlačidlo **„..."** v pravom hornom rohu, po
 Otvorte prehrávač, klepnite na tlačidlo **„..."** v pravom hornom rohu a výberom **Vybrať** vstúpte do režimu výberu. Vyberte skladby, ktoré chcete vymazať, a klepnite na **Vymazať z prehrávača** v dolnej časti obrazovky. Potvrďte klepnutím na **Hotovo**.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox — režim výberu na obrazovke detailu prehrávača" image="/docs/guide/flacbox/img/selection-mode-playlist-details-screen.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox — režim výberu na obrazovke detailu prehrávača" image="/docs/guide/flacbox/img/selection-mode-playlist-details-screen.webp" >}}
 {{< /cards >}}
 
 ## Možnosti skladby

@@ -7,7 +7,7 @@ keywords: ["העברת קבצים אלחוטית לאייפון", "העברת ק
 readingTime: 2
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **בקצרה:** Wi-Fi Drive מאפשר להעביר קבצים מכל מחשב לאייפון או אייפד שלכם דרך Wi-Fi -- ללא iTunes או כבלים. השתמשו בדפדפן אינטרנט, Mac Finder או Windows File Explorer. שני המכשירים חייבים להיות על אותה רשת Wi-Fi.
@@ -18,7 +18,7 @@ Wi-Fi Drive הוא הדרך הקלה ביותר להעביר קבצים מהמח
 
 תוכלו לצפות בסרטון הדרכה מאת [**TECHGUYPH**](https://www.youtube.com/channel/UCgpf09gGFE_c_3pPTtTpnzg) או לקרוא את גרסת הטקסט למטה.
 <br><br>
-{{< youtubecard id="CqdqrQ0ge70" title="Can We Wirelessly Put Offline Music on iPhones?" >}}
+{{< ls-youtubecard id="CqdqrQ0ge70" title="Can We Wirelessly Put Offline Music on iPhones?" >}}
 
 ## העברת קבצים מהמחשב אלחוטית באמצעות דפדפן אינטרנט שולחני
 
@@ -90,26 +90,26 @@ Wi-Fi Drive הוא הדרך הקלה ביותר להעביר קבצים מהמח
 
 ## שאלות נפוצות
 
-{{% details title="האם אני צריך iTunes כדי להעביר קבצים לאייפון שלי?" closed="true" %}}
+{{% ls-details title="האם אני צריך iTunes כדי להעביר קבצים לאייפון שלי?" closed="true" %}}
 לא. Wi-Fi Drive מעביר קבצים ישירות דרך רשת ה-Wi-Fi המקומית שלכם. אין צורך ב-iTunes.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="אילו אפליקציות תומכות ב-Wi-Fi Drive?" closed="true" %}}
+{{% ls-details title="אילו אפליקציות תומכות ב-Wi-Fi Drive?" closed="true" %}}
 Wi-Fi Drive זמין ב-Evermusic, Flacbox, Evertag ו-Evervideo ל-iOS.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="האם שני המכשירים צריכים להיות על אותה רשת Wi-Fi?" closed="true" %}}
+{{% ls-details title="האם שני המכשירים צריכים להיות על אותה רשת Wi-Fi?" closed="true" %}}
 כן. המחשב והאייפון או האייפד שלכם חייבים להיות מחוברים לאותה רשת Wi-Fi מקומית כדי ש-Wi-Fi Drive יעבוד.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="האם אני יכול להעביר תיקיות שלמות, לא רק קבצים בודדים?" closed="true" %}}
+{{% ls-details title="האם אני יכול להעביר תיקיות שלמות, לא רק קבצים בודדים?" closed="true" %}}
 כן. Wi-Fi Drive תומך בהעלאה והורדה של תיקיות שלמות דרך ממשק הדפדפן.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="האם Wi-Fi Drive עובד עם Windows?" closed="true" %}}
+{{% ls-details title="האם Wi-Fi Drive עובד עם Windows?" closed="true" %}}
 כן. תוכלו להשתמש בכל דפדפן אינטרנט ב-Windows או להתחבר דרך Windows File Explorer באמצעות פרוטוקול WebDAV.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="האם אני יכול להשתמש בכבל USB כדי להאיץ את ההעברה?" closed="true" %}}
+{{% ls-details title="האם אני יכול להשתמש בכבל USB כדי להאיץ את ההעברה?" closed="true" %}}
 כן. אם האייפון שלכם מחובר ל-Mac דרך USB בזמן ש-Wi-Fi Drive פועל, ההעברה תשתמש בחיבור הכבל למהירויות מהירות יותר.
-{{% /details %}}
+{{% /ls-details %}}

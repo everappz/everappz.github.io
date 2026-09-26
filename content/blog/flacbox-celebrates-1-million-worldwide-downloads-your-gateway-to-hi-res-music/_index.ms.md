@@ -12,7 +12,7 @@ authors:
     image: "/images/about/artem-meleshko-founder-everappz.webp"
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 **Ringkasan:** Flacbox telah melepasi 1 juta muat turun di seluruh dunia. Ia menyokong FLAC, ALAC, APE, DSD dan format lossless lain dengan penyama 10 jalur, senarai main M3U/CUE, main balik luar talian dan penyegerakan merentas peranti pada iPhone, iPad dan Mac.
 
@@ -78,26 +78,26 @@ Pembangunan akan datang memberi tumpuan kepada:
 
 ## Soalan Lazim
 
-{{% details title="Apakah format audio yang disokong Flacbox?" closed="true" %}}
+{{% ls-details title="Apakah format audio yang disokong Flacbox?" closed="true" %}}
 Flacbox memainkan FLAC, ALAC, APE, DSD, WavPack, TTA, RealAudio, MP3, AAC, OGG dan banyak format lain. Ia direka terutamanya untuk audio lossless dan hi-res.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Adakah Flacbox mempunyai penyama?" closed="true" %}}
+{{% ls-details title="Adakah Flacbox mempunyai penyama?" closed="true" %}}
 Ya. Flacbox termasuk penyama 10 jalur dengan pratetap genre dan pelarasan frekuensi manual.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Bolehkah saya mendengar muzik luar talian dengan Flacbox?" closed="true" %}}
+{{% ls-details title="Bolehkah saya mendengar muzik luar talian dengan Flacbox?" closed="true" %}}
 Ya. Muat turun fail dari storan awan atau pindahkan terus ke aplikasi untuk main balik luar talian tanpa sambungan internet.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Adakah Flacbox berfungsi pada Mac?" closed="true" %}}
+{{% ls-details title="Adakah Flacbox berfungsi pada Mac?" closed="true" %}}
 Ya. Flacbox berjalan pada iPhone, iPad dan Mac dengan perpustakaan dan sejarah main balik yang disegerakkan merentas semua peranti.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Apakah sokongan helaian CUE?" closed="true" %}}
+{{% ls-details title="Apakah sokongan helaian CUE?" closed="true" %}}
 Helaian CUE mentakrifkan sempadan trek dalam satu fail audio. Flacbox membaca fail CUE untuk memisahkan salinan album kepada trek individu dengan metadata yang betul.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Adakah Flacbox percuma?" closed="true" %}}
+{{% ls-details title="Adakah Flacbox percuma?" closed="true" %}}
 Flacbox percuma untuk dimuat turun dengan ciri premium pilihan yang tersedia melalui pembelian dalam aplikasi.
-{{% /details %}}
+{{% /ls-details %}}

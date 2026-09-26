@@ -7,7 +7,7 @@ tags: ["promocja", "appstore", "instalacja", "realizacja", "kod", "darmowe"]
 readingTime: 2
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **W skrócie:** Kod promocyjny pozwala pobrać płatną aplikację za darmo lub odblokować zakupy w aplikacji. Na iOS: App Store > ikona Konta > Zrealizuj kartę podarunkową lub kod > wpisz kod. Na Mac: App Store > Konto > Zrealizuj kartę podarunkową > wpisz kod. Następnie otwórz aplikację i przywróć zakupy, jeśli to konieczne.
@@ -94,22 +94,22 @@ Ciesz się darmową aplikacją lub ulepszeniem w aplikacji!
 
 ## Często zadawane pytania
 
-{{% details title="Gdzie mogę uzyskać kod promocyjny?" closed="true" %}}
+{{% ls-details title="Gdzie mogę uzyskać kod promocyjny?" closed="true" %}}
 Kody promocyjne są udostępniane przez twórców aplikacji w celach recenzji, rozdań lub promocji. Skontaktuj się bezpośrednio z twórcą, aby poprosić o kod.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Czy kody promocyjne wygasają?" closed="true" %}}
+{{% ls-details title="Czy kody promocyjne wygasają?" closed="true" %}}
 Tak. Kody promocyjne Apple App Store wygasają 28 dni po ich wygenerowaniu i mogą być zrealizowane tylko raz.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Czy mogę użyć kodu promocyjnego w dowolnym kraju?" closed="true" %}}
+{{% ls-details title="Czy mogę użyć kodu promocyjnego w dowolnym kraju?" closed="true" %}}
 Kody promocyjne są przypisane do regionu. Kod musi odpowiadać krajowi App Store Twojego Apple ID.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Jak aktywować zakupy w aplikacji za pomocą kodu promocyjnego?" closed="true" %}}
+{{% ls-details title="Jak aktywować zakupy w aplikacji za pomocą kodu promocyjnego?" closed="true" %}}
 Po zrealizowaniu kodu w App Store otwórz aplikację i przejdź do Ustawienia > Przywróć zakupy. Zawartość premium zostanie odblokowana automatycznie.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Kod promocyjny mówi, że został już zrealizowany. Co powinienem zrobić?" closed="true" %}}
+{{% ls-details title="Kod promocyjny mówi, że został już zrealizowany. Co powinienem zrobić?" closed="true" %}}
 Każdy kod promocyjny może być użyty tylko raz. Skontaktuj się z twórcą, aby poprosić o nowy kod.
-{{% /details %}}
+{{% /ls-details %}}

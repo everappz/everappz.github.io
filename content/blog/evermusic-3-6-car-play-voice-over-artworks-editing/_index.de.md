@@ -12,7 +12,7 @@ authors:
     image: "/images/about/artem-meleshko-founder-everappz.webp"
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 **Zusammenfassung:** Evermusic 3.6 bietet Apple CarPlay-Integration, vollständige VoiceOver-Barrierefreiheit, gemischte Audioausgabe, automatische Wiedergabefortsetzung, Cover- und Tag-Bearbeitung für FLAC/MP3/AIFF sowie Dateiimport aus iCloud Drive.
 
@@ -78,18 +78,18 @@ Importieren Sie Musikdateien direkt aus iCloud Drive und anderen Apps:
 
 ## Häufig gestellte Fragen
 
-{{% details title="Funktioniert Evermusic mit CarPlay?" closed="true" %}}
+{{% ls-details title="Funktioniert Evermusic mit CarPlay?" closed="true" %}}
 Ja. Ab Version 3.6 unterstützt Evermusic Apple CarPlay vollständig. Sie können Ihre Musikbibliothek über das eingebaute Display Ihres Autos durchsuchen und abspielen.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Ist Evermusic für blinde oder sehbehinderte Benutzer zugänglich?" closed="true" %}}
+{{% ls-details title="Ist Evermusic für blinde oder sehbehinderte Benutzer zugänglich?" closed="true" %}}
 Ja. Evermusic 3.6 bietet vollständige VoiceOver-Unterstützung mit beschreibenden Bezeichnungen, Hinweisen und einem vereinfachten Oberflächenmodus.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Kann ich FLAC-Tags auf dem iPhone mit Evermusic bearbeiten?" closed="true" %}}
+{{% ls-details title="Kann ich FLAC-Tags auf dem iPhone mit Evermusic bearbeiten?" closed="true" %}}
 Ja. Evermusic enthält einen integrierten Tag-Editor, der mit FLAC-, MP3- und AIFF-Dateien funktioniert. Sie können Titel, Künstler, Alben und Cover bearbeiten.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Merkt sich Evermusic, wo ich aufgehört habe zu hören?" closed="true" %}}
+{{% ls-details title="Merkt sich Evermusic, wo ich aufgehört habe zu hören?" closed="true" %}}
 Ja. Wenn „Audioplayer-Status speichern" aktiviert ist, stellt Evermusic Ihre Warteschlange, den aktuellen Titel und die genaue Wiedergabeposition wieder her, wenn Sie die App erneut öffnen.
-{{% /details %}}
+{{% /ls-details %}}

@@ -14,7 +14,7 @@ authors:
     image: "/images/about/artem-meleshko-founder-everappz.webp"
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 **TL;DR:** [Everdisk](/products/everdisk) is our new app that turns your **iPhone or iPad into a wireless drive**, and a hub that connects to your other devices too. Tap **Start** and Everdisk runs **four servers at once**: **DLNA** for smart TVs and media players, **HTTP** for any web browser, **WebDAV** for Finder, Windows and Linux, and **FTP** for file apps. Every device connects the way it likes. Share your files, photos, videos and music with anything on your network, stream to a TV without cables, mount your device as a network drive, or move files over a **USB cable** when there is no Wi-Fi. Everdisk also connects out to **DLNA, WebDAV, FTP and SFTP** servers, has a built-in **file manager** with zip and unzip, and can **scan documents to PDF**, **mark up and sign PDFs**, and run a full **PDF toolkit**. No accounts, no cloud, and no extra app to install on the other side. Everything stays on your local network. Free to download, with an optional one-time Premium Lifetime purchase.
 
@@ -135,46 +135,46 @@ If you like the app, please leave a rating on the App Store. It really helps. Ha
 
 ## Frequently Asked Questions
 
-{{% details title="What is Everdisk?" closed="true" %}}
+{{% ls-details title="What is Everdisk?" closed="true" %}}
 Everdisk is a new app that turns your iPhone or iPad into a wireless drive and a hub that connects to your other devices too. You can share your files, photos, videos and music with anything on your network, browse and stream from other servers, and manage everything right on your device. No accounts, no cloud, and no extra app to install on the other side. You just tap Start and you are ready. The app runs four servers at the same time: DLNA for smart TVs and media players, HTTP for any web browser, WebDAV for Finder, Windows and Linux, and FTP for file apps and power users.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="How much does Everdisk cost?" closed="true" %}}
+{{% ls-details title="How much does Everdisk cost?" closed="true" %}}
 Everdisk is a free download. You can turn your device into a wireless drive, share your files four ways, stream to a TV, mount a network drive, transfer over USB, connect to other servers, use the file manager, scan documents and use the PDF tools at no cost. There is an optional one-time Premium Lifetime purchase, a single payment with no subscription, that unlocks unlimited shared folders and saved connections, photo and video conversion, custom ports, auto-start sharing, and device customization. Prices may vary by region.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Do I need to install anything on the other device?" closed="true" %}}
+{{% ls-details title="Do I need to install anything on the other device?" closed="true" %}}
 No. That is the whole point. The other device connects using tools it already has. A smart TV finds your library over DLNA on its own, any computer or phone opens a link in a web browser, and Mac Finder, Windows and Linux mount your device as a network drive over WebDAV. Nothing to install on the other side.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="How do I stream photos and videos to my TV?" closed="true" %}}
+{{% ls-details title="How do I stream photos and videos to my TV?" closed="true" %}}
 Put your TV or media player and your device on the same Wi-Fi network, then tap Start in Everdisk with your photos, videos or music shared. Your device shows up by itself in the TV's list of media servers, with preview thumbnails. Open it on the TV and enjoy your library on the big screen. No cables and no extra apps.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="How do I connect Everdisk from my Mac or PC?" closed="true" %}}
+{{% ls-details title="How do I connect Everdisk from my Mac or PC?" closed="true" %}}
 Everdisk makes your device show up as a normal network drive over WebDAV. On a Mac, open Finder and choose Go, then Connect to Server, and enter the WebDAV address shown in the app. On Windows, map a network drive using the same address. On Linux, connect to the WebDAV address from your file manager. Once connected, you can drag and drop both ways. If you would rather not mount a drive, just open the HTTP link in any web browser.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Can I transfer files without Wi-Fi?" closed="true" %}}
+{{% ls-details title="Can I transfer files without Wi-Fi?" closed="true" %}}
 Yes. Connect your device to a Mac with the same USB cable you use to charge it, and files move straight through the cable, faster than Wi-Fi. Because it does not need a wireless network, this keeps working on a plane, in a hotel, or on any locked or public network where Wi-Fi sharing is blocked.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Can I send files from one iPhone to another?" closed="true" %}}
+{{% ls-details title="Can I send files from one iPhone to another?" closed="true" %}}
 Yes. Start sharing on one device and open the link in a web browser on the other, or connect over WebDAV or FTP. You can browse, stream and download both ways, and even upload photos, documents and whole folders back to the sharing device.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="What can Everdisk connect to?" closed="true" %}}
+{{% ls-details title="What can Everdisk connect to?" closed="true" %}}
 Everdisk is also a client for other devices on your network. You can find and connect to DLNA, WebDAV, FTP and SFTP servers, including NAS devices and media servers. Once connected, you can browse their folders, stream audio and video, download files, and create folders, upload, rename, move or delete when the server allows it.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Can I scan documents and edit PDFs in Everdisk?" closed="true" %}}
+{{% ls-details title="Can I scan documents and edit PDFs in Everdisk?" closed="true" %}}
 Yes. Everdisk can scan paper documents with your camera. It finds the edges on its own, straightens every page, and saves them as a clean multi-page PDF. You can also open a PDF or photo and mark it up (draw, highlight, add text and shapes, and sign with your finger), with changes saved back to the file. A full PDF toolkit adds compression, text recognition (OCR) into a searchable PDF, password protection, permissions review, metadata editing, and flattening.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Is Everdisk private and safe?" closed="true" %}}
+{{% ls-details title="Is Everdisk private and safe?" closed="true" %}}
 Yes. Everything stays on your local network and never touches the internet, so your files never leave home. No accounts and no cloud in the middle. You can protect access with a login and password so connected devices must enter the same details before they can see your files, and you can block any device with a single tap. For the best privacy, turn sharing on only while you are connected to a Wi-Fi network you know and trust.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Which devices does Everdisk run on?" closed="true" %}}
+{{% ls-details title="Which devices does Everdisk run on?" closed="true" %}}
 Everdisk runs on iPhone and iPad. It shares with, and connects to, smart TVs, media players, Mac, Windows and Linux computers, web browsers, other phones and tablets, NAS drives, and any DLNA, WebDAV, FTP or SFTP server on your network.
-{{% /details %}}
+{{% /ls-details %}}

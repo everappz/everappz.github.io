@@ -19,7 +19,7 @@ readingTime: 12
 บนหน้าจอนี้ คุณสามารถเชื่อมต่อทุกแหล่งที่เก็บเพลงของคุณ คุณสามารถผสานรวมบริการคลาวด์ยอดนิยมอย่าง Dropbox, Google Drive, iCloud Drive, OneDrive, MEGA, Box, pCloud, Yandex Disk, Synology Drive และอีกมากมาย รวมถึง Mac, PC หรือ NAS ผ่านโปรโตคอลมาตรฐาน ไม่ว่าคอลเลกชันของคุณจะอยู่บนบริการที่เหมาะกับการสตรีมอย่าง Dropbox หรือบน NAS ส่วนตัวอย่าง Synology, QNAP, Buffalo, Apple Time Capsule หรือ WD My Cloud Home Flacbox เชื่อมต่อทั้งหมดนั้นจากหน้าจอเดียว
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="หน้าจอการเชื่อมต่อ Flacbox" image="/docs/guide/flacbox/img/connections-main.webp" >}}
+  {{< ls-card title="" subtitle="หน้าจอการเชื่อมต่อ Flacbox" image="/docs/guide/flacbox/img/connections-main.webp" >}}
 {{< /cards >}}
 
 ## เชื่อมต่อกับที่เก็บข้อมูลคลาวด์
@@ -30,7 +30,7 @@ readingTime: 12
 - กรอกข้อมูลประจำตัวบนหน้าการอนุญาตอย่างเป็นทางการที่ผู้ให้บริการคลาวด์จัดเตรียมไว้ แล้วแตะ **เสร็จสิ้น**
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox เพิ่มบริการคลาวด์สตอเรจ" image="/docs/guide/flacbox/img/add-cloud-storage.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox เพิ่มบริการคลาวด์สตอเรจ" image="/docs/guide/flacbox/img/add-cloud-storage.webp" >}}
 {{< /cards >}}
 
 หากพบปัญหาใดๆ ให้ตรวจสอบการเชื่อมต่ออินเทอร์เน็ตและชื่อผู้ใช้ / รหัสผ่านของคุณ ในเวอร์ชัน Premium ของแอป คุณสามารถเพิ่มบริการได้ไม่จำกัด เวอร์ชันฟรีรองรับได้สูงสุดสามบริการ
@@ -134,7 +134,7 @@ Flacbox ใช้ Subsonic API ซึ่งหมายความว่าม�
 นี่คือวิธีที่เร็วที่สุดในการค้นพบ SMB, WebDAV, DLNA share บนเครือข่ายในบ้านโดยไม่ต้องพิมพ์ที่อยู่ IP ด้วยตนเอง
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="อุปกรณ์ที่มีให้บริการบนเครือข่ายท้องถิ่นใน Flacbox" image="/docs/guide/flacbox/img/available-devies.webp" >}}
+  {{< ls-card title="" subtitle="อุปกรณ์ที่มีให้บริการบนเครือข่ายท้องถิ่นใน Flacbox" image="/docs/guide/flacbox/img/available-devies.webp" >}}
 {{< /cards >}}
 
 ## Wi-Fi Drive
@@ -149,7 +149,7 @@ Wi-Fi Drive เป็นเทคโนโลยีที่สะดวกซ�
 - แตะ **เริ่ม Wi-Fi Drive** เพื่อเปิดใช้งาน Wi-Fi Drive
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox Wi-Fi Drive" image="/docs/guide/flacbox/img/wifi-drive.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox Wi-Fi Drive" image="/docs/guide/flacbox/img/wifi-drive.webp" >}}
 {{< /cards >}}
 
 ### เข้าถึง Wi-Fi Drive บนคอมพิวเตอร์ของคุณ
@@ -234,7 +234,7 @@ iTunes File Sharing (ปัจจุบันคือ Finder File Sharing บ�
 - **ลบ** — ลบไฟล์ออกจากคลาวด์สตอเรจของคุณอย่างถาวร **การดำเนินการนี้ไม่สามารถยกเลิกได้**
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox การดำเนินการเพิ่มเติมสำหรับไฟล์ในคลาวด์สตอเรจที่เชื่อมต่อ" image="/docs/guide/flacbox/img/more-actions-for-file-in-connected-cloud-storage.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox การดำเนินการเพิ่มเติมสำหรับไฟล์ในคลาวด์สตอเรจที่เชื่อมต่อ" image="/docs/guide/flacbox/img/more-actions-for-file-in-connected-cloud-storage.webp" >}}
 {{< /cards >}}
 
 หากรายการการดำเนินการเกินพื้นที่หน้าจอที่มีอยู่ เพียงเลื่อนลงภายในเมนูการดำเนินการเพื่อเข้าถึงตัวเลือกเพิ่มเติม
@@ -261,7 +261,7 @@ iTunes File Sharing (ปัจจุบันคือ Finder File Sharing บ�
 ส่วนการเข้าถึงด่วนอยู่ที่ด้านบนของหน้าจอ มันให้การเข้าถึงอย่างรวดเร็วไปยังไฟล์และโฟลเดอร์โปรดและที่เปิดล่าสุดจากบริการคลาวด์ที่เชื่อมต่อ เมื่อใดก็ตามที่คุณเปิดไฟล์หรือโฟลเดอร์จากคลาวด์ ไฟล์นั้นจะถูกเพิ่มในรายการที่เปิดล่าสุด ในการล้างรายการนี้ ให้เปิดรายการล่าสุด แตะปุ่มการดำเนินการเพิ่มเติม และเลือก ลบรายการ คุณยังสามารถทำเครื่องหมายโฟลเดอร์ที่ซ้อนลึกเป็นรายการโปรดเพื่อเข้าถึงอย่างรวดเร็วโดยไม่ต้องขุดผ่านโครงสร้างไดเรกทอรี
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="ลิงก์ออนไลน์และการเข้าถึงด่วนใน Flacbox" image="/docs/guide/flacbox/img/online-links.webp" >}}
+  {{< ls-card title="" subtitle="ลิงก์ออนไลน์และการเข้าถึงด่วนใน Flacbox" image="/docs/guide/flacbox/img/online-links.webp" >}}
 {{< /cards >}}
 
 ## บริการอื่นๆ
@@ -269,5 +269,5 @@ iTunes File Sharing (ปัจจุบันคือ Finder File Sharing บ�
 ส่วนนี้แสดงคุณสมบัติเพิ่มเติมที่ช่วยยกระดับประสบการณ์ของคุณ ปัจจุบันแอปรองรับการ scrobble ของ **Last.fm** — เมื่อเชื่อมต่อแล้ว สถิติการเล่นของคุณจะถูกส่งไปยังบัญชี Last.fm ของคุณโดยอัตโนมัติ คุณสามารถเยี่ยมชมโปรไฟล์ Last.fm ของคุณในภายหลังเพื่อดูการวิเคราะห์การฟังและรับคำแนะนำเพลงส่วนตัว คำแนะนำการตั้งค่าโดยละเอียดมีอยู่ [ที่นี่](/docs/howto/how-to-scrobble-your-music-history-from-evermusic-or-flacbox-to-last-fm)
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox Last.fm เชื่อมต่อ" image="/docs/guide/flacbox/img/last-fm-connect.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox Last.fm เชื่อมต่อ" image="/docs/guide/flacbox/img/last-fm-connect.webp" >}}
 {{< /cards >}}

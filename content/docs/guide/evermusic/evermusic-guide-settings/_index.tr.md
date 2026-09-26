@@ -18,7 +18,7 @@ readingTime: 16
 Ayarlar ekranı Evermusic'in kontrol merkezidir. Buradan Premium'a yükseltebilir, ses oynatıcıyı yapılandırabilir, müzik kütüphanenizi yönetebilir, dosya yöneticisini kurabilir, arayüzü özelleştirebilir, widget'ları ve CarPlay'i etkinleştirebilir, verilerinizi yedekleyebilir ve yardım ile yasal bilgilere erişebilirsiniz. Bölümler şu başlıklar altında gruplandırılmıştır: **Satın almalar ve güncellemeler**, uygulama tercihleri, **Yardım** ve **Yasal ve gizlilik**.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evermusic Ayarlar Ekranı" image="/docs/guide/evermusic/evermusic-guide-settings/img/settings-main-screen.webp" >}}
+  {{< ls-card title="" subtitle="Evermusic Ayarlar Ekranı" image="/docs/guide/evermusic/evermusic-guide-settings/img/settings-main-screen.webp" >}}
 {{< /cards >}}
 
 ## Satın Almalar ve Güncellemeler

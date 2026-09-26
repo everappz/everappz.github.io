@@ -7,7 +7,7 @@ tags: ["evermusic", "flacbox", "archiv", "backup", "export", "wiedergabeliste", 
 readingTime: 2
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **Zusammenfassung:** Evermusic und Flacbox können jede Wiedergabeliste, jedes Album, jeden Künstler oder jedes Genre in eine ZIP-Datei mit einer M3U-Wiedergabeliste, Album-Artwork und allen Audiodateien archivieren. Übertragen Sie die ZIP-Datei auf ein anderes Gerät, entpacken Sie sie und importieren Sie die M3U, um die Wiedergabeliste sofort wiederherzustellen.
@@ -104,22 +104,22 @@ Mit dieser Anleitung können Sie Ihre Wiedergabelisten, Alben, Künstler oder Ge
 
 ## Häufig gestellte Fragen
 
-{{% details title="Was ist im ZIP-Archiv enthalten?" closed="true" %}}
+{{% ls-details title="Was ist im ZIP-Archiv enthalten?" closed="true" %}}
 Das Archiv enthält alle Audiodateien, eine M3U-Wiedergabelistendatei, die die Titelreihenfolge beibehält, und das Album-Artwork der Wiedergabeliste, gespeichert als separate Bilddatei.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Funktioniert die Archivierung mit Cloud-Dateien?" closed="true" %}}
+{{% ls-details title="Funktioniert die Archivierung mit Cloud-Dateien?" closed="true" %}}
 Ja. Die App lädt automatisch alle in der Cloud gespeicherten Dateien herunter, bevor sie zum Archiv hinzugefügt werden. Sie können den Download-Fortschritt im Bereich Dateiübertragungen verfolgen.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Kann ich auch Alben, Künstler und Genres archivieren?" closed="true" %}}
+{{% ls-details title="Kann ich auch Alben, Künstler und Genres archivieren?" closed="true" %}}
 Ja. Die Option «Zum Archiv hinzufügen» ist für Wiedergabelisten, Alben, Künstler und Genres verfügbar. Der Vorgang ist für alle identisch.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Wie übertrage ich das Archiv auf ein anderes Gerät?" closed="true" %}}
+{{% ls-details title="Wie übertrage ich das Archiv auf ein anderes Gerät?" closed="true" %}}
 Sie können die ZIP-Datei in einen Cloud-Speicher hochladen (Google Drive, Dropbox usw.), AirDrop verwenden oder drahtlos über die integrierte Wi-Fi Drive-Funktion in Evermusic und Flacbox übertragen.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Bleibt die Struktur der Wiedergabeliste nach der Übertragung erhalten?" closed="true" %}}
+{{% ls-details title="Bleibt die Struktur der Wiedergabeliste nach der Übertragung erhalten?" closed="true" %}}
 Ja. Die M3U-Datei speichert die Struktur der Wiedergabeliste mit relativen Pfaden. Nach dem Entpacken auf dem neuen Gerät importieren Sie die M3U-Datei, um die Wiedergabeliste mit allen Titeln in der ursprünglichen Reihenfolge wiederherzustellen.
-{{% /details %}}
+{{% /ls-details %}}

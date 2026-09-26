@@ -7,7 +7,7 @@ tags: ["google", "turvallisuus", "yksityisyys", "sovellukset", "tili", "käyttö
 readingTime: 2
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **Lyhyesti:** Siirry osoitteeseen [myaccount.google.com](https://myaccount.google.com/) > Turvallisuus > Kolmannen osapuolen sovellukset ja palvelut. Napsauta poistettavaa sovellusta ja valitse "Poista käyttöoikeus" tai "Poista kaikki yhteydet." Toista jokaiselle sovellukselle.
@@ -75,18 +75,18 @@ Muista, että vaikka kolmannen osapuolen sovellukset voivat parantaa digitaalist
 
 ## UKK
 
-{{% details title="Poistaako sovelluksen irrottaminen tietoni kyseisestä sovelluksesta?" closed="true" %}}
+{{% ls-details title="Poistaako sovelluksen irrottaminen tietoni kyseisestä sovelluksesta?" closed="true" %}}
 Ei. Käyttöoikeuden poistaminen estää sovellusta vain käyttämästä Google-tiliäsi jatkossa. Sovelluksen kanssa jo jaetut tiedot voivat edelleen olla olemassa heidän palvelimillaan. Tarkista sovelluksen omat yksityisyysasetukset poistaaksesi nuo tiedot.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Voinko yhdistää sovelluksen uudelleen irrottamisen jälkeen?" closed="true" %}}
+{{% ls-details title="Voinko yhdistää sovelluksen uudelleen irrottamisen jälkeen?" closed="true" %}}
 Kyllä. Jos tarvitset sovellusta uudelleen, kirjaudu vain sisään Googlella pyydettäessä. Sovellus pyytää käyttöoikeuksia uudelleen, ja voit tarkistaa ne ennen käyttöoikeuden myöntämistä.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Kuinka usein minun tulisi tarkistaa kolmannen osapuolen sovellusten käyttöoikeudet?" closed="true" %}}
+{{% ls-details title="Kuinka usein minun tulisi tarkistaa kolmannen osapuolen sovellusten käyttöoikeudet?" closed="true" %}}
 Tarkista yhdistetyt sovelluksesi 3–6 kuukauden välein tai heti palvelun käytön lopettamisen jälkeen. Säännölliset tarkistukset auttavat pitämään tilisi turvassa.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Vaikuttaako tämä sovelluksiin kuten Evermusic, jotka yhdistyvät Google Driveen?" closed="true" %}}
+{{% ls-details title="Vaikuttaako tämä sovelluksiin kuten Evermusic, jotka yhdistyvät Google Driveen?" closed="true" %}}
 Kyllä. Jos irrotat sovelluksen kuten Evermusic tai Flacbox Google-tililtäsi, se menettää pääsyn Google Drive -tiedostoihisi. Voit yhdistää uudelleen milloin tahansa sovelluksen sisältä.
-{{% /details %}}
+{{% /ls-details %}}

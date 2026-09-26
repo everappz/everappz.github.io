@@ -7,7 +7,7 @@ tags: ["evermusic", "muziek", "cloud", "iphone", "opslag", "lokaal", "nas", "win
 readingTime: 2
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **Samenvatting:** Windows 10 heeft een ingebouwde DLNA-server. Schakel deze in bij Netwerk- en deelcentrum-instellingen en gebruik vervolgens de gratis **Evermusic**-app op je iPhone om je hele muziekbibliotheek te streamen via Wi-Fi. Geen serversoftware van derden nodig.
@@ -96,22 +96,22 @@ Met DLNA Media Server op Windows 10 en Evermusic op je iPhone kun je genieten va
 
 ## Veelgestelde vragen
 
-{{% details title="Moet ik serversoftware installeren op Windows 10?" closed="true" %}}
+{{% ls-details title="Moet ik serversoftware installeren op Windows 10?" closed="true" %}}
 Nee. Windows 10 bevat een ingebouwde DLNA-mediaserver. Je hoeft alleen mediastreaming in te schakelen in de instellingen van het Netwerkcentrum. Geen software van derden vereist.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Moet mijn iPhone op hetzelfde Wi-Fi-netwerk zijn?" closed="true" %}}
+{{% ls-details title="Moet mijn iPhone op hetzelfde Wi-Fi-netwerk zijn?" closed="true" %}}
 Ja. DLNA-streaming werkt via je lokale netwerk. Zowel je Windows 10-pc als je iPhone moeten verbonden zijn met hetzelfde Wi-Fi-netwerk zodat Evermusic de DLNA-server kan ontdekken.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Welke audioformaten kan ik streamen via DLNA?" closed="true" %}}
+{{% ls-details title="Welke audioformaten kan ik streamen via DLNA?" closed="true" %}}
 De Windows DLNA-server deelt bestanden uit je Muziekmap ongeacht het formaat. Evermusic ondersteunt MP3, FLAC, AAC, WAV, OGG, AIFF en vele andere formaten, zodat je vrijwel elk audiobestand van de server kunt afspelen.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Kan ik Flacbox gebruiken in plaats van Evermusic?" closed="true" %}}
+{{% ls-details title="Kan ik Flacbox gebruiken in plaats van Evermusic?" closed="true" %}}
 Ja. Flacbox ondersteunt ook DLNA/UPnP-browsen en afspelen. Je kunt beide apps gebruiken om muziek te ontdekken en af te spelen van je Windows DLNA-server.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Gebruikt DLNA-streaming mobiele data?" closed="true" %}}
+{{% ls-details title="Gebruikt DLNA-streaming mobiele data?" closed="true" %}}
 Nee. DLNA werkt volledig op je lokale Wi-Fi-netwerk. Het gebruikt geen mobiele data. Beide apparaten moeten echter verbonden blijven met hetzelfde netwerk tijdens het afspelen.
-{{% /details %}}
+{{% /ls-details %}}

@@ -7,7 +7,7 @@ tags: ["musiikki", "ääni", "soitin", "iphone", "toisto", "offline", "lataus", 
 readingTime: 5
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **Tiivistelmä:** Muunna YouTube-videoita MP3-muotoon käyttämällä selainpohjaista muuntajaa tai ilmaista ClipGrab-työpöytäsovellusta. Tuo sitten äänitiedostot Evermusic-sovellukseen iPhonellasi tai Macillasi offline-toistoa varten -- internetiä ei tarvita.
@@ -221,30 +221,30 @@ Jos olet epävarma vaihtoehdoistasi, harkitse lisätietojen pyytämistä tekijä
 
 P.S. YouTubessa on myös useita **video-oppaita** saatavilla:
 <br><br>
-{{< youtubecard id="TlVpbRvAiwA" title="Descargar Música Gratis Para IOS" >}}
+{{< ls-youtubecard id="TlVpbRvAiwA" title="Descargar Música Gratis Para IOS" >}}
 <br><br>
-{{< youtubecard id="jSDuNguZZNE" title="Evermusic: Free Offline Music Player for iOS (iPhone/iPod/iPad) | Music Files Organization" >}}
+{{< ls-youtubecard id="jSDuNguZZNE" title="Evermusic: Free Offline Music Player for iOS (iPhone/iPod/iPad) | Music Files Organization" >}}
 <br><br>
-{{< youtubecard id="-kY48ktbo2M" title="テクノロジー塾】おすすめiPhone 音楽アプリ「ever music」ストック型篇" >}}
+{{< ls-youtubecard id="-kY48ktbo2M" title="テクノロジー塾】おすすめiPhone 音楽アプリ「ever music」ストック型篇" >}}
 
 ## Usein kysytyt kysymykset
 
-{{% details title="Onko musiikin lataaminen YouTubesta laillista?" closed="true" %}}
+{{% ls-details title="Onko musiikin lataaminen YouTubesta laillista?" closed="true" %}}
 Se riippuu sisällön tekijänoikeusstatuksesta. Rojaltitonta ja Creative Commons -sisältöä voidaan yleensä ladata henkilökohtaiseen käyttöön. Tekijänoikeudella suojattu musiikki vaatii asianmukaisen lisenssin tai luvan.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Mitä äänimuotoja Evermusic tukee?" closed="true" %}}
+{{% ls-details title="Mitä äänimuotoja Evermusic tukee?" closed="true" %}}
 Evermusic tukee MP3-, FLAC-, AAC-, WAV-, OGG-, AIFF- ja monia muita äänimuotoja. Voit toistaa käytännössä minkä tahansa lataamasi äänitiedoston.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Voinko käyttää Evermusicia ilman internetyhteyttä?" closed="true" %}}
+{{% ls-details title="Voinko käyttää Evermusicia ilman internetyhteyttä?" closed="true" %}}
 Kyllä. Kun äänitiedostot on tuotu Evermusiciin, voit toistaa niitä täysin offline -- internetyhteyttä ei tarvita.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Onko ClipGrab ilmainen?" closed="true" %}}
+{{% ls-details title="Onko ClipGrab ilmainen?" closed="true" %}}
 Kyllä. ClipGrab on ilmainen ja saatavilla sekä Macille että Windowsille. Se käyttää avoimen lähdekoodin youtube-dlp-kirjastoa latauksiin.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Kuinka siirrän ladattua musiikkia Macista iPhoneen?" closed="true" %}}
+{{% ls-details title="Kuinka siirrän ladattua musiikkia Macista iPhoneen?" closed="true" %}}
 Voit käyttää AirDropia, iTunes File Sharingia tai Evermusicin sisäänrakennettua Wi-Fi Drive -ominaisuutta äänitiedostojen siirtämiseen Macistasi iPhoneen.
-{{% /details %}}
+{{% /ls-details %}}

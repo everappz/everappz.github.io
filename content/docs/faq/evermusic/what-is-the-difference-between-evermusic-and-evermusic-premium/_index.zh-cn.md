@@ -62,7 +62,7 @@ Evermusic 和 Evermusic Premium 是同一款音乐播放器应用的两个不同
 
 ### 在 App Store 上下载
 
-{{< app-details ids="885367198, 905746421, 1564384601" >}}
+{{< ls-app-details ids="885367198, 905746421, 1564384601" >}}
 
 ### App Store 打包方式
 
@@ -142,7 +142,7 @@ Evermusic 和 Evermusic Premium 是同一款音乐播放器应用的两个不同
 
 ## 常见问题
 
-{{% details title="我用旧的 Apple 账户购买了 Evermusic Pro（或 Premium）。我可以把它转移到新的 Apple 账户吗？" closed="true" %}}
+{{% ls-details title="我用旧的 Apple 账户购买了 Evermusic Pro（或 Premium）。我可以把它转移到新的 Apple 账户吗？" closed="true" %}}
 根据 Apple 的官方文档，来自另一个 Apple 账户的购买项目可以通过家人共享 / 购买项目共享进行共享，前提是这些账户在同一个家人共享群组内进行了适当的配置。
 
 如果 Evermusic Pro 是使用您旧的 Apple 账户购买的，Apple 提供了一个选项，可将该账户用作购买项目共享的次要 Apple 账户。
@@ -202,30 +202,30 @@ https://apps.apple.com/us/app/evermusic-cloud-music-player/id885367198?uo=4
 请注意，Apple 家人共享、购买项目共享、Apple 账户和 App Store 购买记录完全由 Apple 管理。我们无权访问用户的 Apple 账户，也无法从我们这边将 App Store 购买项目从一个 Apple 账户转移到另一个 Apple 账户。
 
 如果您在家人共享或访问使用旧 Apple 账户进行的购买时遇到任何具体问题，需要由 Apple 支持来检查这些账户的配置。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="我已经将 Evermusic 免费版（蓝色）升级到了 Premium。我还需要 Evermusic Pro（红色）吗？" closed="true" %}}
+{{% ls-details title="我已经将 Evermusic 免费版（蓝色）升级到了 Premium。我还需要 Evermusic Pro（红色）吗？" closed="true" %}}
 不需要。Evermusic Pro（红色图标）与 Evermusic 免费版（蓝色图标）是同一款应用，只是已经解锁了 Premium。如果您已经将蓝色应用升级到 Premium，您就已经拥有 Pro 所提供的一切，因此无需安装或购买红色应用。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="是否支持家人共享，有多少人可以使用我的购买项目？" closed="true" %}}
+{{% ls-details title="是否支持家人共享，有多少人可以使用我的购买项目？" closed="true" %}}
 是的。家人共享适用于所有 Evermusic 购买项目和订阅，因此您可以与最多五位家庭成员共享 Premium。在您设备上的设置 → 家人中打开购买项目共享。每位家庭成员使用自己的 Apple 账户下载该应用，即可自动获得 Premium。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="我在 iPhone 上升级到了 Premium，但我的 Mac 仍然显示免费版。我该如何解决？" closed="true" %}}
+{{% ls-details title="我在 iPhone 上升级到了 Premium，但我的 Mac 仍然显示免费版。我该如何解决？" closed="true" %}}
 Premium 通过 iCloud 在 iPhone 和 Mac 之间共享。首先，请确保两台设备使用相同的 Apple 账户并已打开 iCloud。在您的 iPhone 上，打开最新版本的 Evermusic 并等待约一分钟，让您的购买项目上传到 iCloud。您也可以在设置中点按「恢复购买项目」。然后在您的 Mac 上打开最新版本，连接到互联网，并等待约一分钟。Premium 应会自行开启。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="我该如何在新设备上恢复我的购买项目？" closed="true" %}}
+{{% ls-details title="我该如何在新设备上恢复我的购买项目？" closed="true" %}}
 在应用中打开设置并点按「恢复购买项目」。您将看到您的购买项目，Premium 会重新开启。如果缺少某个购买项目，请确保该设备使用您购买时所用的同一 Apple 账户，并且已打开 iCloud。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="如果我安装了 Evermusic Pro（红色），它会解锁 Evermusic Free（蓝色）中的 Premium 吗？" closed="true" %}}
+{{% ls-details title="如果我安装了 Evermusic Pro（红色），它会解锁 Evermusic Free（蓝色）中的 Premium 吗？" closed="true" %}}
 会的。如果您在某台设备上安装了红色的 Evermusic Pro，同一台设备上的蓝色 Evermusic Free 会检测到它，并自动开启 Premium。您无需在蓝色应用中再次购买 Premium。您只需保持红色应用处于安装状态即可。
 
 但反过来则行不通。在蓝色应用中购买 Premium 并不会让红色的 Evermusic Pro 变成免费，因为它们是 App Store 上两款独立的应用。蓝色应用中的购买项目通过 iCloud 在蓝色 iPhone 应用和蓝色 Mac 应用之间同步。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="我可以在 Intel Mac 上使用 Premium 吗？" closed="true" %}}
+{{% ls-details title="我可以在 Intel Mac 上使用 Premium 吗？" closed="true" %}}
 可以。请使用蓝色的 Evermusic 免费版应用并升级到 Premium。蓝色 Mac 应用同时可运行于 Apple 芯片和 Intel Mac。红色的 Evermusic Pro 仅可运行于 Apple 芯片 Mac（M1 及更新机型），无法安装在 Intel Mac 上。
-{{% /details %}}
+{{% /ls-details %}}

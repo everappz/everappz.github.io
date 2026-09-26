@@ -17,7 +17,7 @@ readingTime: 6
 ส่วนเพลย์ลิสต์ให้เครื่องมือในการจัดระเบียบแทร็กของคุณเป็นรายการ ประกอบด้วยมุมมองเนื้อหาที่แสดงเพลย์ลิสต์ที่สร้างทั้งหมด ปุ่ม "..." ในแถบนำทางที่มีการดำเนินการต่างๆ ที่เกี่ยวข้องกับเพลย์ลิสต์ และแถบเครื่องมือนำทางพร้อมปุ่ม "ค้นหา", "เล่นทั้งหมด" และ "สุ่มทั้งหมด" นอกจากนี้ เพลย์ลิสต์แต่ละรายการยังมีปุ่ม "..." ใกล้กับชื่อเพลย์ลิสต์ ซึ่งมีการดำเนินการต่างๆ ที่เฉพาะเจาะจงสำหรับเพลย์ลิสต์นั้น
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="หน้าจอเพลย์ลิสต์ Evermusic" image="/docs/guide/evermusic/evermusic-guide-playlists/img/playlists-main.webp" >}}
+  {{< ls-card title="" subtitle="หน้าจอเพลย์ลิสต์ Evermusic" image="/docs/guide/evermusic/evermusic-guide-playlists/img/playlists-main.webp" >}}
 {{< /cards >}}
 
 ## การสร้างเพลย์ลิสต์
@@ -25,7 +25,7 @@ readingTime: 6
 หากต้องการสร้างเพลย์ลิสต์ใหม่ แตะปุ่ม "+" หรือปุ่ม "..." ที่มุมขวาบนของแถบนำทาง เลือก "เพลย์ลิสต์ใหม่" และตั้งชื่อให้กับเพลย์ลิสต์ของคุณ หลังจากตั้งชื่อแล้ว แตะ "บันทึก"
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="สร้างเพลย์ลิสต์ใหม่" image="/docs/guide/evermusic/evermusic-guide-playlists/img/playlists-add-new.webp" >}}
+  {{< ls-card title="" subtitle="สร้างเพลย์ลิสต์ใหม่" image="/docs/guide/evermusic/evermusic-guide-playlists/img/playlists-add-new.webp" >}}
 {{< /cards >}}
 
 นี่จะเปิดกล่องโต้ตอบ "เพิ่มเพลง" ซึ่งคุณสามารถเลือกแทร็กที่จะเพิ่มในเพลย์ลิสต์ใหม่ แทร็กจะถูกจัดหมวดหมู่ตามประเภทแหล่งที่มา และคุณมีตัวเลือกหลายอย่าง:
@@ -42,7 +42,7 @@ readingTime: 6
 ใน Evermusic เราได้เพิ่มฟังก์ชันการนำเข้าไฟล์ M3U เพื่อที่คุณจะไม่ต้องสร้างเพลย์ลิสต์ด้วยตนเอง
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="นำเข้าเพลย์ลิสต์จากแหล่งไฟล์" image="/docs/guide/evermusic/evermusic-guide-playlists/img/playlists-import-from-files.webp" >}}
+  {{< ls-card title="" subtitle="นำเข้าเพลย์ลิสต์จากแหล่งไฟล์" image="/docs/guide/evermusic/evermusic-guide-playlists/img/playlists-import-from-files.webp" >}}
 {{< /cards >}}
 
 อันดับแรก ไปที่ส่วน 'เพลย์ลิสต์' จากนั้นแตะปุ่ม 'เพิ่มเติม' ที่มุมขวาบน จากเมนูที่ปรากฏ ให้เลือกตัวเลือก 'นำเข้าเพลย์ลิสต์'
@@ -62,7 +62,7 @@ readingTime: 6
 เมื่อคุณเปิดเพลย์ลิสต์ "หน้าจอรายละเอียดเพลย์ลิสต์" จะปรากฏขึ้น บนหน้าจอนี้ คุณจะพบปุ่ม "..." ที่มุมขวาบนพร้อมตัวเลือกเพลย์ลิสต์ และปุ่มสามปุ่มใต้รูปภาพปก: "ค้นหา", "เล่นต่อ", "เล่นทั้งหมด" และ "สุ่มทั้งหมด" นอกจากนี้ยังมีช่องทำเครื่องหมาย "โหมดออฟไลน์"
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="หน้าจอรายละเอียดเพลย์ลิสต์" image="/docs/guide/evermusic/evermusic-guide-playlists/img/playlists-detail-screen.webp" >}}
+  {{< ls-card title="" subtitle="หน้าจอรายละเอียดเพลย์ลิสต์" image="/docs/guide/evermusic/evermusic-guide-playlists/img/playlists-detail-screen.webp" >}}
 {{< /cards >}}
 
 - **เล่นต่อ**: กู้คืนตำแหน่งการเล่นสำหรับเพลย์ลิสต์นี้
@@ -87,7 +87,7 @@ readingTime: 6
 - **ลบเพลย์ลิสต์:** ลบเพลย์ลิสต์ออกจากคลังเพลง โปรดทราบว่าการดำเนินการนี้ไม่สามารถยกเลิกได้
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="เมนูดำเนินการเพิ่มเติมสำหรับเพลย์ลิสต์" image="/docs/guide/evermusic/evermusic-guide-playlists/img/playlists-more-actions-for-separate-playlist.webp" >}}
+  {{< ls-card title="" subtitle="เมนูดำเนินการเพิ่มเติมสำหรับเพลย์ลิสต์" image="/docs/guide/evermusic/evermusic-guide-playlists/img/playlists-more-actions-for-separate-playlist.webp" >}}
 {{< /cards >}}
 
 ## ดำเนินการเพิ่มเติมสำหรับเพลย์ลิสต์ในหน้าจอรายละเอียดเพลย์ลิสต์
@@ -113,7 +113,7 @@ readingTime: 6
 หากต้องการเปลี่ยนลำดับเพลงในเพลย์ลิสต์ ให้แตะปุ่ม "..." ที่มุมขวาบนและเลือก "เลือก" เพื่อเข้าสู่โหมดการเลือก ใช้การควบคุมการจัดเรียงและท่าทางลากและวางใกล้กับแต่ละแทร็กเพื่อย้ายขึ้นหรือลง การแตะบนการควบคุมการจัดเรียงจะย้ายแทร็กไปที่ด้านบนของรายการ หากต้องการออกจากโหมดการเลือกและใช้การเปลี่ยนแปลง ให้แตะ "เสร็จสิ้น"
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="เปลี่ยนลำดับเพลงในเพลย์ลิสต์" image="/docs/guide/evermusic/evermusic-guide-playlists/img/playlists-change-songs-order.webp" >}}
+  {{< ls-card title="" subtitle="เปลี่ยนลำดับเพลงในเพลย์ลิสต์" image="/docs/guide/evermusic/evermusic-guide-playlists/img/playlists-change-songs-order.webp" >}}
 {{< /cards >}}
 
 ## การเปลี่ยนรูปภาพปกเพลย์ลิสต์
@@ -129,7 +129,7 @@ readingTime: 6
 เปิดเพลย์ลิสต์ แตะปุ่ม "..." ที่มุมขวาบน และเลือก "เลือก" เพื่อเข้าสู่โหมดการเลือก เลือกแทร็กที่คุณต้องการลบและแตะปุ่ม "ลบออกจากเพลย์ลิสต์" ที่ด้านล่างของหน้าจอ ยืนยันการเปลี่ยนแปลงโดยแตะ "เสร็จสิ้น"
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="โหมดการเลือกภายในเพลย์ลิสต์" image="/docs/guide/evermusic/evermusic-guide-playlists/img/playlists-selection-mode-in-playlist-details-screen.webp" >}}
+  {{< ls-card title="" subtitle="โหมดการเลือกภายในเพลย์ลิสต์" image="/docs/guide/evermusic/evermusic-guide-playlists/img/playlists-selection-mode-in-playlist-details-screen.webp" >}}
 {{< /cards >}}
 
 ## ตัวเลือกแทร็ก
@@ -137,7 +137,7 @@ readingTime: 6
 แทร็กแต่ละรายการในเพลย์ลิสต์มีรายการการดำเนินการที่เข้าถึงได้โดยแตะปุ่ม "..." หากคุณไม่เห็นการดำเนินการทั้งหมด ให้เลื่อนลงเพื่อดู คุณสามารถลบแทร็กออกจากเพลย์ลิสต์ ดาวน์โหลด แก้ไขแท็กเสียง และอื่นๆ
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="เมนูตัวเลือกแทร็กในเพลย์ลิสต์" image="/docs/guide/evermusic/evermusic-guide-playlists/img/playlists-track-options.webp" >}}
+  {{< ls-card title="" subtitle="เมนูตัวเลือกแทร็กในเพลย์ลิสต์" image="/docs/guide/evermusic/evermusic-guide-playlists/img/playlists-track-options.webp" >}}
 {{< /cards >}}
 
 - **เล่นถัดไป:** เพิ่มแทร็กไปด้านบนของคิวเพลเยอร์

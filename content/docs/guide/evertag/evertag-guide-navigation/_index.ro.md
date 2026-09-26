@@ -16,7 +16,7 @@ readingTime: 3
 Evertag oferă o interfață de utilizator intuitivă. Ceea ce îl diferențiază de multe aplicații populare este managerul de fișiere integrat, oferind utilizatorilor puterea de a edita fișiere audio și de a le transfera de și la stocarea în cloud.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evertag Screen" image="/docs/guide/evertag/img/tag-editor.webp" >}}
+  {{< ls-card title="" subtitle="Evertag Screen" image="/docs/guide/evertag/img/tag-editor.webp" >}}
 {{< /cards >}}
 
 ## Secțiuni
@@ -42,7 +42,7 @@ Secțiunea Fișiere Locale este împărțită în două categorii: **Fișiere î
 Practic fiecare element de conținut de pe ecran are un buton "Mai multe acțiuni". Apăsați-l pentru a accesa toate acțiunile disponibile.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evertag More Actions" image="/docs/guide/evertag/img/downloads-file-actions.webp" >}}
+  {{< ls-card title="" subtitle="Evertag More Actions" image="/docs/guide/evertag/img/downloads-file-actions.webp" >}}
 {{< /cards >}}
 
 ## Bara de Instrumente Superioară

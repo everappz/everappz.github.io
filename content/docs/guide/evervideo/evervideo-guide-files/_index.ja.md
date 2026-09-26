@@ -33,7 +33,7 @@ readingTime: 14
 ファイル画面の右上隅には転送ボタン（回転する矢印のアイコン）があります。タップして転送キューを開くと、すべてのソースのすべてのダウンロードとアップロードを監視できます。
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="接続されたストレージ上のEvervideoファイル" image="/docs/guide/evervideo/img/evervideo-files-connected-storages.webp" >}}
+  {{< ls-card title="" subtitle="接続されたストレージ上のEvervideoファイル" image="/docs/guide/evervideo/img/evervideo-files-connected-storages.webp" >}}
 {{< /cards >}}
 
 ## クラウドストレージへの接続
@@ -41,7 +41,7 @@ readingTime: 14
 ファイルタブのクラウドストレージセクションは、接続されたすべてのアカウント、NAS、メディアサーバー、ストリームが並んで1つのスクロール可能なリストに収まる場所です。
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="ファイルタブのEvervideoクラウドストレージセクション" image="/docs/guide/evervideo/img/evervideo-connections.webp" >}}
+  {{< ls-card title="" subtitle="ファイルタブのEvervideoクラウドストレージセクション" image="/docs/guide/evervideo/img/evervideo-connections.webp" >}}
 {{< /cards >}}
 
 - **ファイル**タブを開きます。
@@ -51,7 +51,7 @@ readingTime: 14
 - クラウドプロバイダーが提供する公式認証ページで認証情報を入力し、**完了**をタップします。
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evervideoクラウドストレージサービスの接続" image="/docs/guide/evervideo/img/evervideo-connect-cloud-storage.webp" >}}
+  {{< ls-card title="" subtitle="Evervideoクラウドストレージサービスの接続" image="/docs/guide/evervideo/img/evervideo-connect-cloud-storage.webp" >}}
 {{< /cards >}}
 
 問題が発生した場合は、インターネット接続とログイン / パスワードを確認してください。アプリのPremiumバージョンでは無制限のサービスを追加できます。無料バージョンは最大3つまで対応しています。
@@ -161,7 +161,7 @@ EvervideoにはネイティブRTSPサポートがあるため、任意のRTSPソ
 - 必要に応じて、ログイン詳細を入力して接続を完了します。
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="ローカルネットワーク上のEvervideo利用可能なデバイス" image="/docs/guide/evervideo/img/evervideo-available-devices.webp" >}}
+  {{< ls-card title="" subtitle="ローカルネットワーク上のEvervideo利用可能なデバイス" image="/docs/guide/evervideo/img/evervideo-available-devices.webp" >}}
 {{< /cards >}}
 
 ## Wi-Fi Drive
@@ -169,7 +169,7 @@ EvervideoにはネイティブRTSPサポートがあるため、任意のRTSPソ
 Wi-Fi Driveを使用すると、デスクトップブラウザ、Finder、またはファイルエクスプローラーを介してコンピューターからiOSデバイスへファイルをワイヤレスで転送できます。デバイスとコンピューターは同じWi-Fiネットワーク上にある必要があります。
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="EvervideoのWi-Fi Drive" image="/docs/guide/evervideo/img/evervideo-wifi-drive.webp" >}}
+  {{< ls-card title="" subtitle="EvervideoのWi-Fi Drive" image="/docs/guide/evervideo/img/evervideo-wifi-drive.webp" >}}
 {{< /cards >}}
 
 ### Wi-Fi Driveの有効化
@@ -201,7 +201,7 @@ LightningからUSB / USB-Cアダプターまたはカードリーダーを介し
 接続されたクラウドサービスをタップしてファイルブラウザを開きます。フォルダーは利用可能な場合はビデオサムネイルを表示し、ビデオをタップすると即座に再生が開始され、バックグラウンドでファイルの残りのストリーミングが続きます。
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evervideo接続されたストレージ内のフォルダー閲覧" image="/docs/guide/evervideo/img/evervideo-all-connected-device-folders.webp" >}}
+  {{< ls-card title="" subtitle="Evervideo接続されたストレージ内のフォルダー閲覧" image="/docs/guide/evervideo/img/evervideo-all-connected-device-folders.webp" >}}
 {{< /cards >}}
 
 ## クイックアクセス
@@ -209,7 +209,7 @@ LightningからUSB / USB-Cアダプターまたはカードリーダーを介し
 クイックアクセスセクションはファイルタブの上部にあります。クラウドサービスとデバイスのストレージの両方から、お気に入りと最近開いたファイルやフォルダーへの素早いアクセスを提供します。クラウドからファイルやフォルダーを開くたびに、最近開いたリストに追加されます。深くネストされたフォルダーをお気に入りとしてマークして、ディレクトリ構造を掘り下げることなく素早くアクセスできます。
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evervideoオンラインリンクとクイックアクセス" image="/docs/guide/evervideo/img/evervideo-connections-online-links.webp" >}}
+  {{< ls-card title="" subtitle="Evervideoオンラインリンクとクイックアクセス" image="/docs/guide/evervideo/img/evervideo-connections-online-links.webp" >}}
 {{< /cards >}}
 
 ## このアプリのファイル
@@ -217,7 +217,7 @@ LightningからUSB / USB-Cアダプターまたはカードリーダーを介し
 このセクションには、Evervideoのサンドボックス化されたドキュメントディレクトリに保存されているファイルとフォルダーが表示されます — クラウドからダウンロードしたもの、Wi-Fi Drive経由で転送したもの、Finderファイル共有でコピーしたもの、または別のアプリからインポートしたもの。
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evervideoのこのアプリのファイル" image="/docs/guide/evervideo/img/evervideo-files-in-this-application.webp" >}}
+  {{< ls-card title="" subtitle="Evervideoのこのアプリのファイル" image="/docs/guide/evervideo/img/evervideo-files-in-this-application.webp" >}}
 {{< /cards >}}
 
 ### ドキュメントフォルダー
@@ -225,7 +225,7 @@ LightningからUSB / USB-Cアダプターまたはカードリーダーを介し
 ドキュメントフォルダーは、このアプリのファイル内のすべてのものの根元です。サブフォルダーを作成し、ファイルの名前を変更し、移動し、好きなようにグループ化できます。
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evervideoローカルファイル — ドキュメントフォルダー" image="/docs/guide/evervideo/img/evervideo-local-files-documents.webp" >}}
+  {{< ls-card title="" subtitle="Evervideoローカルファイル — ドキュメントフォルダー" image="/docs/guide/evervideo/img/evervideo-local-files-documents.webp" >}}
 {{< /cards >}}
 
 ## このiPhone / iPad / Mac上のファイル
@@ -238,7 +238,7 @@ LightningからUSB / USB-Cアダプターまたはカードリーダーを介し
 フォルダーを接続を使用して、デバイス上のフォルダーへの読み取り / 書き込みアクセス付きリンクを作成することもできます — iCloud Drive上のフォルダーや接続されたUSBドライブで何もコピーせずに作業するのに最適です。
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evervideoのこのデバイス上のファイル" image="/docs/guide/evervideo/img/evervideo-files-on-this-device.webp" >}}
+  {{< ls-card title="" subtitle="Evervideoのこのデバイス上のファイル" image="/docs/guide/evervideo/img/evervideo-files-on-this-device.webp" >}}
 {{< /cards >}}
 
 ## 特別なフォルダー
@@ -276,7 +276,7 @@ LightningからUSB / USB-Cアダプターまたはカードリーダーを介し
 右上隅の**「...」**をタップして**選択する**を選択すると選択モードに入ります。すべてのファイルとフォルダーの横にチェックボックスが表示されます。タップして1つまたは複数のアイテムを選択し、バッチアクションを実行します：次に再生、後で再生、メディアライブラリに追加、プレイリストに追加、コピー、アップロード、移動、名前変更、または削除。
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evervideoファイルマネージャーの選択モード" image="/docs/guide/evervideo/img/evervideo-selection-mode-in-files.webp" >}}
+  {{< ls-card title="" subtitle="Evervideoファイルマネージャーの選択モード" image="/docs/guide/evervideo/img/evervideo-selection-mode-in-files.webp" >}}
 {{< /cards >}}
 
 接続されたクラウドストレージを読み取り専用として扱いたい場合（誤った削除を防ぐため）、設定 → ファイルマネージャー → オンラインファイルを編集 → オフを有効にしてUIからすべての破壊的な操作を非表示にします。
@@ -318,13 +318,13 @@ LightningからUSB / USB-Cアダプターまたはカードリーダーを介し
 ファイルタブの右上隅には**転送**ボタン（回転する矢印のアイコン）があります。タップして転送キューを開きます — すべてのソースのすべてのアクティブなダウンロードとアップロードのリストで、ファイルごとのリアルタイムの進捗、速度、ETAが表示されます。
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evervideoファイル転送キュー" image="/docs/guide/evervideo/img/evervideo-file-transfers.webp" >}}
+  {{< ls-card title="" subtitle="Evervideoファイル転送キュー" image="/docs/guide/evervideo/img/evervideo-file-transfers.webp" >}}
 {{< /cards >}}
 
 転送を一時停止、再開、失敗した転送を再試行したり、特定のダウンロードを優先するようにアイテムを並べ替えたり、個別にキャンセルしたりできます。設定 → ファイルマネージャーで転送キューの速度（最大並列タスク数）、ネットワークタイプ（Wi-Fiのみ、またはWi-Fi + モバイル通信）、バックグラウンド転送を調整することもできます。
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evervideoファイル転送キューのアクション" image="/docs/guide/evervideo/img/evervideo-file-transfers-actions.webp" >}}
+  {{< ls-card title="" subtitle="Evervideoファイル転送キューのアクション" image="/docs/guide/evervideo/img/evervideo-file-transfers-actions.webp" >}}
 {{< /cards >}}
 
 ## オフラインモードと同期されたオフラインフォルダー

@@ -12,7 +12,7 @@ authors:
     image: "/images/about/artem-meleshko-founder-everappz.webp"
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 **Flacbox 1.6**はiPhone・iPad向けFLAC音楽プレーヤーに主要な新機能をもたらします。
 
@@ -68,18 +68,18 @@ Flacbox 1.6はApp Storeで利用可能です。[Flacboxをダウンロード](ht
 
 ## よくある質問
 
-{{% details title="Flacboxはどのオーディオフォーマットに対応していますか？" closed="true" %}}
+{{% ls-details title="Flacboxはどのオーディオフォーマットに対応していますか？" closed="true" %}}
 FlacboxはFLAC、ALAC、MP3、AAC、OGG、OPUS、WAV、AIFF、DSDなどの人気オーディオフォーマットに対応しています。すべてのフォーマットが内蔵イコライザーで動作します。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="iPhoneでSDカードから音楽を再生できますか？" closed="true" %}}
+{{% ls-details title="iPhoneでSDカードから音楽を再生できますか？" closed="true" %}}
 はい。Lightning to SD Card Camera Readerアダプタを使用してSDまたはmicroSDカードを接続します。Flacboxはカードを自動的に検出し、外部ストレージから直接ファイルを閲覧・再生できます。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Flacboxはクラウドストレージと自動的に同期しますか？" closed="true" %}}
+{{% ls-details title="Flacboxはクラウドストレージと自動的に同期しますか？" closed="true" %}}
 はい。バージョン1.6から、Flacboxはクラウドフォルダから音楽ライブラリを自動的に同期できます。設定で自動同期を有効にし、監視するフォルダを選択してください。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Flacboxのイコライザーはカスタマイズできますか？" closed="true" %}}
+{{% ls-details title="Flacboxのイコライザーはカスタマイズできますか？" closed="true" %}}
 はい。10バンドイコライザーでは、-12 dBから+12 dBの間で個別の周波数レベルを調整できます。内蔵プリセットを使用するか、独自のカスタム設定を保存できます。
-{{% /details %}}
+{{% /ls-details %}}

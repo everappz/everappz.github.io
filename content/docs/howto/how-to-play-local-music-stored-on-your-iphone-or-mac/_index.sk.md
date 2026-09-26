@@ -6,7 +6,7 @@ tags: ["lokalna hudba", "offline hudba", "hudobny prehravac", "iPhone", "Mac", "
 keywords: ["ako prehravat lokalnu hudbu na iPhone", "prehravanie hudby z uloziska zariadenia", "offline hudobny prehravac iOS", "navod na aplikaciu Evermusic", "FLAC prehravac Flacbox", "prehravanie lokalnych suborov iOS", "hudobna kniznica Mac", "hudobna aplikacia pre lokalne subory", "iPhone prehravanie stiahnutych piesni", "ako pouzivat Evermusic s lokalnymi subormi"]
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **Zhrnutie:** Nainstalujtesi [Evermusic](/products/evermusic) (MP3/WAV) alebo [Flacbox](/products/flacbox) (FLAC/DSD), otvorte lubovolny lokalny zvukovy subor alebo priecinok a zacnite prehravat. Pridajte priecinky do **Oblubene** pre rychly pristup, importujte skladby do Hudobnej kniznice alebo vytvorte **Prehravace**.
@@ -24,10 +24,10 @@ Preskumame metody a nastroje na bezproblemove prehravanie vasej lokalnej hudby n
 Ak chcete zacat svoju cestu do sveta lokalnej hudby na iPhone a Mac, zacnite instalacnou Evermusic (pre standardne zvukove formaty ako mp3 a wav) alebo Flacbox (pre bezstratovu hudbu v dsd a flac). Obe aplikacie su dostupne pre iOS a MacOS a mozete ich stiahnut zadarmo.
 
 {{< cards >}}
-  {{< card link="https://apps.apple.com/us/app/evermusic-cloud-music-player/id885367198?pt=95781850&ct=everappzcom&mt=8" title="Stiahnut Evermusic pre iOS" tag="iOS" >}}
-  {{< card link="https://apps.apple.com/us/app/flacbox-hi-res-equalizer/id1097564256?pt=95781850&ct=everappzcom&mt=8" title="Stiahnut Flacbox pre iOS" tag="iOS" >}}
-  {{< card link="https://apps.apple.com/us/app/evermusic-hi-res-music-player/id1564384601?pt=95781850&ct=everappzcom&mt=8" title="Stiahnut Evermusic pre Mac" tag="macOS" >}}
-  {{< card link="https://apps.apple.com/us/app/flacbox-hi-res-music-player/id1594027432?pt=95781850&ct=everappzcom&mt=8" title="Stiahnut Flacbox pre Mac" tag="macOS" >}}
+  {{< ls-card link="https://apps.apple.com/us/app/evermusic-cloud-music-player/id885367198?pt=95781850&ct=everappzcom&mt=8" title="Stiahnut Evermusic pre iOS" tag="iOS" >}}
+  {{< ls-card link="https://apps.apple.com/us/app/flacbox-hi-res-equalizer/id1097564256?pt=95781850&ct=everappzcom&mt=8" title="Stiahnut Flacbox pre iOS" tag="iOS" >}}
+  {{< ls-card link="https://apps.apple.com/us/app/evermusic-hi-res-music-player/id1564384601?pt=95781850&ct=everappzcom&mt=8" title="Stiahnut Evermusic pre Mac" tag="macOS" >}}
+  {{< ls-card link="https://apps.apple.com/us/app/flacbox-hi-res-music-player/id1594027432?pt=95781850&ct=everappzcom&mt=8" title="Stiahnut Flacbox pre Mac" tag="macOS" >}}
 {{< /cards >}}
 
 
@@ -135,22 +135,22 @@ S tymito jednoduchymi krokmi mozete odomknut plny potencial vasho iPhone a Mac a
 
 ## FAQ
 
-{{% details title="Ake zvukove formaty mozu Evermusic a Flacbox prehravat?" closed="true" %}}
+{{% ls-details title="Ake zvukove formaty mozu Evermusic a Flacbox prehravat?" closed="true" %}}
 Evermusic prehrava MP3, WAV, AAC, M4A a dalsie standardne formaty. Flacbox pridava podporu pre FLAC, DSD, OGG, OPUS, APE, WMA a ALAC.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Kopiruju tieto aplikacie subory do uloziska aplikacie?" closed="true" %}}
+{{% ls-details title="Kopiruju tieto aplikacie subory do uloziska aplikacie?" closed="true" %}}
 V predvolenom nastaveni sa subory prehravaju z ich povodneho umiestnenia bez kopirovaniea. Ak chcete zmenit toto spravanie, aktivujte "Always copy files during opening" v **Nastavenia** > File manager.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Mozem organizovat lokalnu hudbu podla interpreta a albumu?" closed="true" %}}
+{{% ls-details title="Mozem organizovat lokalnu hudbu podla interpreta a albumu?" closed="true" %}}
 Ano. Importujte subory do Hudobnej kniznice (Krok 4) a aplikacia precita metadata na zoskupenie skladieb podla Interpreta, Albumu, Zanru a Skladatela.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Ako prenesiem hudbu z pocitaca na iPhone?" closed="true" %}}
+{{% ls-details title="Ako prenesiem hudbu z pocitaca na iPhone?" closed="true" %}}
 Pouzite iTunes File Sharing (USB), WiFi Drive (bezdrôtovo) alebo SMB (streamovanie). Pozrite si nas podrobny navod: [Prenos a prehravanie lokalnych suborov na iPhone](/docs/howto/how-to-play-local-itunes-files-on-my-iphone/).
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Su Evermusic a Flacbox zadarmo?" closed="true" %}}
+{{% ls-details title="Su Evermusic a Flacbox zadarmo?" closed="true" %}}
 Ano, obe aplikacie su zadarmo na stiahnutie so zakladnymi funkciami vratane prehravania, ekvalizera a cloudoveho streamovania. Bezplatne verzie maju niektore obmedzenia (pocet **Prehravacov**, cloudovych uctov, offline priecinkov). Upgrade na Premium tieto obmedzenia odstrani.
-{{% /details %}}
+{{% /ls-details %}}

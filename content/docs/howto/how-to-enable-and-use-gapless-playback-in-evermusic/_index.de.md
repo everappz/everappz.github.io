@@ -7,7 +7,7 @@ tags: ["Evermusic", "Lückenlose Wiedergabe", "Anleitung", "Audio", "Wiedergabe"
 readingTime: 4
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 **Kurzfassung:** Öffnen Sie **Einstellungen > Audioplayer > Lückenlose Wiedergabe** und schalten Sie den Schalter **EIN**. Von da an werden Songs ohne Pause, Klicken oder Knacken hintereinander abgespielt. Evermusic puffert und dekodiert den nächsten Titel bereits vor, während der aktuelle noch läuft, und übergibt dann zwischen den Audiosamples auf einem kontinuierlichen Puffer, sodass der Übergang wirklich nahtlos ist. Es handelt sich um eine echte, sample-genaue lückenlose Wiedergabe und nicht um eine Überblendung.
 
@@ -73,30 +73,30 @@ Das Ergebnis ist, dass ein Live-Album, ein taktgenaues DJ-Set oder eine Konzeptp
 
 ## FAQ
 
-{{% details title="Wie schalte ich die lückenlose Wiedergabe in Evermusic ein?" closed="true" %}}
+{{% ls-details title="Wie schalte ich die lückenlose Wiedergabe in Evermusic ein?" closed="true" %}}
 Öffnen Sie Evermusic, gehen Sie zu Einstellungen > Audioplayer > Lückenlose Wiedergabe und schalten Sie den Schalter EIN. Sie ist standardmäßig ausgeschaltet. Einmal aktiviert, gilt sie für alles, was Sie abspielen, und bleibt eingeschaltet, bis Sie sie wieder ausschalten.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Ist die lückenlose Wiedergabe von Evermusic echt lückenlos oder nur eine Überblendung?" closed="true" %}}
+{{% ls-details title="Ist die lückenlose Wiedergabe von Evermusic echt lückenlos oder nur eine Überblendung?" closed="true" %}}
 Es ist eine echte, sample-genaue lückenlose Wiedergabe. Evermusic dekodiert und puffert den nächsten Titel vor, während der aktuelle läuft, und übergibt dann zwischen den Audiosamples auf einem kontinuierlichen Puffer, sodass keine Stille, kein Klicken und kein Padding eingefügt werden und keine Lücke durch einen Decoder-Neustart entsteht. Die Überblendung ist eine separate, andere Funktion, die Titel überlagert und vermischt; die lückenlose Wiedergabe bewahrt das Audiomaterial genau so, wie es gemastert wurde, und entfernt nur die Lücke.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Warum höre ich zwischen manchen Titeln immer noch eine Lücke?" closed="true" %}}
+{{% ls-details title="Warum höre ich zwischen manchen Titeln immer noch eine Lücke?" closed="true" %}}
 Stellen Sie sicher, dass die lückenlose Wiedergabe unter Einstellungen > Audioplayer > Lückenlose Wiedergabe eingeschaltet ist. Wenn dennoch eine Lücke bleibt, ist sie möglicherweise in die Aufnahme selbst eingebaut (manche Dateien enthalten ein paar Sekunden echte Stille am Anfang oder Ende eines Titels). Die lückenlose Wiedergabe entfernt die Lücke, die der Player normalerweise zwischen den Titeln einfügen würde; sie kann keine Stille entfernen, die Teil der Audiodatei ist.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Funktioniert die lückenlose Wiedergabe mit FLAC und anderen verlustfreien Dateien?" closed="true" %}}
+{{% ls-details title="Funktioniert die lückenlose Wiedergabe mit FLAC und anderen verlustfreien Dateien?" closed="true" %}}
 Ja. Die lückenlose Wiedergabe funktioniert mit FLAC, Apple Lossless (ALAC) sowie verlustbehafteten Formaten wie MP3 und AAC, egal ob die Dateien lokal, in der Cloud oder auf einem Medienserver gespeichert sind.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Kann ich lückenlose Wiedergabe und Überblendung gleichzeitig verwenden?" closed="true" %}}
+{{% ls-details title="Kann ich lückenlose Wiedergabe und Überblendung gleichzeitig verwenden?" closed="true" %}}
 Nein. Sie bewirken gegensätzliche Dinge, daher deaktiviert das Einschalten der lückenlosen Wiedergabe automatisch die Überblendung. Verwenden Sie die lückenlose Wiedergabe für Live-Alben, DJ-Mixe und Konzeptplatten, bei denen das Audiomaterial exakt erhalten bleiben soll; verwenden Sie die Überblendung, wenn Sie möchten, dass Songs ineinander übergehen.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Funktioniert die lückenlose Wiedergabe beim Streaming aus der Cloud?" closed="true" %}}
+{{% ls-details title="Funktioniert die lückenlose Wiedergabe beim Streaming aus der Cloud?" closed="true" %}}
 Ja. Evermusic beginnt frühzeitig mit dem Puffern und Dekodieren des nächsten Titels, auch bei Cloud-Laufwerken und Medienservern, sodass die Übergabe nahtlos bleibt. Bei langsameren Verbindungen beginnt es einfach etwas früher mit der Vorbereitung des nächsten Titels.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Verringert die lückenlose Wiedergabe die Audioqualität?" closed="true" %}}
+{{% ls-details title="Verringert die lückenlose Wiedergabe die Audioqualität?" closed="true" %}}
 Nein. Die lückenlose Wiedergabe kodiert oder verarbeitet Ihr Audiomaterial nicht neu. Sie ändert lediglich, wie Titel geplant und gepuffert werden, sodass keine Lücke zwischen ihnen entsteht. Jedes Sample wird genau so abgespielt, wie es in der Datei vorliegt.
-{{% /details %}}
+{{% /ls-details %}}

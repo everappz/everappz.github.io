@@ -71,20 +71,20 @@ Denna guide går igenom varje del av Flacbox på iPhone, iPad och Mac — från 
 
 {{< cards cols="2">}}
 
-{{< card icon="map" link="/docs/guide/flacbox/flacbox-guide-navigation" title="Navigering" subtitle="Flikfältet på iPhone, vänster meny på iPad och Mac, minispelare, widgetar, CarPlay." >}}
+{{< ls-card icon="map" link="/docs/guide/flacbox/flacbox-guide-navigation" title="Navigering" subtitle="Flikfältet på iPhone, vänster meny på iPad och Mac, minispelare, widgetar, CarPlay." >}}
 
-{{< card icon="cloud" link="/docs/guide/flacbox/flacbox-guide-connections" title="Anslutningar" subtitle="iCloud, Google Drive, Dropbox, OneDrive, NAS, WebDAV, SMB, DLNA." >}}
+{{< ls-card icon="cloud" link="/docs/guide/flacbox/flacbox-guide-connections" title="Anslutningar" subtitle="iCloud, Google Drive, Dropbox, OneDrive, NAS, WebDAV, SMB, DLNA." >}}
 
-{{< card icon="collection" link="/docs/guide/flacbox/flacbox-guide-music-library" title="Musikbibliotek" subtitle="Låtar, album, artister, genrer, kompositörer — synkronisering, sökning, redigering av metadata." >}}
+{{< ls-card icon="collection" link="/docs/guide/flacbox/flacbox-guide-music-library" title="Musikbibliotek" subtitle="Låtar, album, artister, genrer, kompositörer — synkronisering, sökning, redigering av metadata." >}}
 
-{{< card icon="music-note" link="/docs/guide/flacbox/flacbox-guide-playlists" title="Spellistor" subtitle="Bygg, importera M3U / M3U8 / CUE, ordna om och exportera till M3U / CSV / TXT." >}}
+{{< ls-card icon="music-note" link="/docs/guide/flacbox/flacbox-guide-playlists" title="Spellistor" subtitle="Bygg, importera M3U / M3U8 / CUE, ordna om och exportera till M3U / CSV / TXT." >}}
 
-{{< card icon="folder" link="/docs/guide/flacbox/flacbox-guide-local-files" title="Lokala filer" subtitle="Offline-musik, USB-enheter, Wi-Fi Drive, filhanterare, offline-mappar." >}}
+{{< ls-card icon="folder" link="/docs/guide/flacbox/flacbox-guide-local-files" title="Lokala filer" subtitle="Offline-musik, USB-enheter, Wi-Fi Drive, filhanterare, offline-mappar." >}}
 
-{{< card icon="play" link="/docs/guide/flacbox/flacbox-guide-player" title="Ljudspelaren" subtitle="Hi-res-utgång, equalizer, tonhöjd, bokmärken, AirPlay, Chromecast, hastighet, sovtimer." >}}
+{{< ls-card icon="play" link="/docs/guide/flacbox/flacbox-guide-player" title="Ljudspelaren" subtitle="Hi-res-utgång, equalizer, tonhöjd, bokmärken, AirPlay, Chromecast, hastighet, sovtimer." >}}
 
-{{< card icon="adjustments" link="/docs/guide/flacbox/flacbox-guide-settings" title="Inställningar" subtitle="Ljudmotor, bibliotek, filhanterare, CarPlay, widgetar, personalisering, språk, säkerhetskopiering." >}}
+{{< ls-card icon="adjustments" link="/docs/guide/flacbox/flacbox-guide-settings" title="Inställningar" subtitle="Ljudmotor, bibliotek, filhanterare, CarPlay, widgetar, personalisering, språk, säkerhetskopiering." >}}
 
-{{< card icon="question-mark-circle" link="/docs/faq/flacbox" title="FAQ" subtitle="Hitta svar på de 50 vanligaste frågorna om Flacbox." >}}
+{{< ls-card icon="question-mark-circle" link="/docs/faq/flacbox" title="FAQ" subtitle="Hitta svar på de 50 vanligaste frågorna om Flacbox." >}}
 
 {{< /cards >}}

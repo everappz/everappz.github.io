@@ -17,7 +17,7 @@ readingTime: 11
 ## גישה לנגן
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="מסך נגן השמע של Evermusic" image="/docs/guide/evermusic/evermusic-guide-player/img/player-main.webp" >}}
+  {{< ls-card title="" subtitle="מסך נגן השמע של Evermusic" image="/docs/guide/evermusic/evermusic-guide-player/img/player-main.webp" >}}
 {{< /cards >}}
 
 ניתן לגשת לנגן במסך מלא מתצוגת המיני-נגן. ב-iPhone שלך, תמצא את המיני-נגן מעל סרגל הכרטיסיות במסך הראשי. ב-iPad או Mac שלך, הוא נגיש מהתפריט השמאלי. כדי לאחסן את המיני-נגן, הקש על סמלו והחלק כלפי מטה. להסתרה מוחלטת של הנגן במסך מלא, פשוט הקש על כפתור הסגירה הממוקם בפינה הימנית התחתונה.
@@ -44,7 +44,7 @@ readingTime: 11
 ## בקרת עוצמת קול
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="בקרת עוצמת קול עם AirPlay ו-Google Cast" image="/docs/guide/evermusic/evermusic-guide-player/img/player-volume-control.webp" >}}
+  {{< ls-card title="" subtitle="בקרת עוצמת קול עם AirPlay ו-Google Cast" image="/docs/guide/evermusic/evermusic-guide-player/img/player-volume-control.webp" >}}
 {{< /cards >}}
 
 מצא את מחוון עוצמת הקול במסך הגדרות השמע על ידי הקשה על סמל הצליל מתחת לפקדי הניגון. ניתן לשנות את עוצמת הקול באמצעות מחוון זה או כפתורי עוצמת הקול הסטנדרטיים במכשיר. בנוסף, תמצא כפתורי הזרמה שימושיים:
@@ -63,7 +63,7 @@ readingTime: 11
 ## אקולייזר שמע
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="אקולייזר שמע 10 פסים" image="/docs/guide/evermusic/evermusic-guide-player/img/player-equalizer.webp" >}}
+  {{< ls-card title="" subtitle="אקולייזר שמע 10 פסים" image="/docs/guide/evermusic/evermusic-guide-player/img/player-equalizer.webp" >}}
 {{< /cards >}}
 
 Evermusic מגיע עם אקולייזר 10 פסים, מלא בפריסטים בסגנון iPod, מגבר קדם, והגדרות אקולייזר ידניות. להפעלת האקולייזר, פשוט הקש על כפתור "אקולייזר" בסרגל הכלים התחתון ועבור על בקרת המתג בפינה הימנית העליונה. ניתן לבחור ממגוון פריסטים מוגדרים מראש של אקולייזר כמו "Acoustic", "Bass Booster", "Classical" ועוד. אם אתה חובב צליל, תעריך את היכולת לכוונן כל פס תדר באמצעות מחוונים. אל תהסס ליצור ולשמור את הפריסטים האישיים שלך לאקולייזר השמע. אם מסלול אינו מספיק חזק, ניתן גם לכוונן את הגבר מגבר הקדם. יש לנו הוראות מפורטות יותר על כיצד להשתמש באקולייזר [כאן](/docs/howto/how-to-use-the-audio-equalizer-on-your-iphone-ipad-mac-with-evermusic-and-flacbox).
@@ -71,7 +71,7 @@ Evermusic מגיע עם אקולייזר 10 פסים, מלא בפריסטים ב
 ## סרגל כלים מצב נגן
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="סרגל הכלים העליון של הנגן עם חיפוש ומהירות" image="/docs/guide/evermusic/evermusic-guide-player/img/player-top-toolbar.webp" >}}
+  {{< ls-card title="" subtitle="סרגל הכלים העליון של הנגן עם חיפוש ומהירות" image="/docs/guide/evermusic/evermusic-guide-player/img/player-top-toolbar.webp" >}}
 {{< /cards >}}
 
 עבור מספר נבחר של סגנונות מסך נגן תמצא סרגל כלים של מצב נגן בחלק העליון של מסך הנגן, ממש מתחת לסרגל הניווט. סרגל כלים שימושי זה כולל שלושה כפתורים.
@@ -82,7 +82,7 @@ Evermusic מגיע עם אקולייזר 10 פסים, מלא בפריסטים ב
 ## סימניות שמע
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="סימניות שמע לספרי שמע והרצאות" image="/docs/guide/evermusic/evermusic-guide-player/img/player-bookmarks.webp" >}}
+  {{< ls-card title="" subtitle="סימניות שמע לספרי שמע והרצאות" image="/docs/guide/evermusic/evermusic-guide-player/img/player-bookmarks.webp" >}}
 {{< /cards >}}
 
 כאן ניתן ליצור מספר סימניות למסלולים בספריית המוזיקה שלך. יש לנו הוראה מלאה על כיצד להשתמש בסימניות [כאן](/docs/howto/how-to-listen-to-audiobooks-on-iphone-ipad-mac-using-evermusic).
@@ -90,7 +90,7 @@ Evermusic מגיע עם אקולייזר 10 פסים, מלא בפריסטים ב
 ## תור הנגן
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="תור הנגן" image="/docs/guide/evermusic/evermusic-guide-player/img/player-queue.webp" >}}
+  {{< ls-card title="" subtitle="תור הנגן" image="/docs/guide/evermusic/evermusic-guide-player/img/player-queue.webp" >}}
 {{< /cards >}}
 
 לגישה לתור הנגן שלך, פשוט הקש על כפתור תור הנגן הממוקם בסרגל הכלים התחתון. להזזת שיר בתור, השתמש במחוון הסידור מחדש ליד הכותרת.
@@ -98,7 +98,7 @@ Evermusic מגיע עם אקולייזר 10 פסים, מלא בפריסטים ב
 ## תגובות / מילים
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="תגובות, מילים משובצות וקבצי LRC" image="/docs/guide/evermusic/evermusic-guide-player/img/player-lyrics.webp" >}}
+  {{< ls-card title="" subtitle="תגובות, מילים משובצות וקבצי LRC" image="/docs/guide/evermusic/evermusic-guide-player/img/player-lyrics.webp" >}}
 {{< /cards >}}
 
 לצפייה בתגובות מסלול ומילים משובצות, כמו גם קבצי LRC, בצע את השלבים הבאים:
@@ -114,7 +114,7 @@ Evermusic מגיע עם אקולייזר 10 פסים, מלא בפריסטים ב
 ## תפריט אפשרויות
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="תפריט אפשרויות עבור פריט בתור" image="/docs/guide/evermusic/evermusic-guide-player/img/player-queue-item-options-menu.webp" >}}
+  {{< ls-card title="" subtitle="תפריט אפשרויות עבור פריט בתור" image="/docs/guide/evermusic/evermusic-guide-player/img/player-queue-item-options-menu.webp" >}}
 {{< /cards >}}
 
 לכל שיר בתור נגן השמע שלך יש תפריט עם פעולות נוספות, אליו ניתן לגשת על ידי הקשה על כפתור שלוש הנקודות ליד כותרת השיר. הפעולות הזמינות הן:
@@ -153,7 +153,7 @@ Evermusic מגיע עם אקולייזר 10 פסים, מלא בפריסטים ב
 ## עדכונים אחרונים ומועדפים
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="שירים שנוגנו לאחרונה מהנגן" image="/docs/guide/evermusic/evermusic-guide-player/img/player-recents.webp" >}}
+  {{< ls-card title="" subtitle="שירים שנוגנו לאחרונה מהנגן" image="/docs/guide/evermusic/evermusic-guide-player/img/player-recents.webp" >}}
 {{< /cards >}}
 
 במסך הנגן, ניתן לגשת לסעיפים 'עדכונים אחרונים' ו'מועדפים' על ידי הקשה על כפתור עוד פעולות '…' ובחירת פריט התפריט המתאים. בשני הסעיפים, ניתן לחפש שירים, לנגן את כל המסלולים, לערבב את כל המסלולים, לייצא את הרשימה ולמחוק את הרשימה. יש לנו הוראות מפורטות על כיצד לייצא רשימות שירים [כאן](/docs/howto/export-tracks-collection-from-evermusic-flacbox-to-m3u-csv-txt/).
@@ -161,7 +161,7 @@ Evermusic מגיע עם אקולייזר 10 פסים, מלא בפריסטים ב
 ## חלון מיני-נגן (בלעדי ל-Mac)
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="חלון מיני-נגן Mac" image="/docs/guide/evermusic/evermusic-guide-player/img/player-mini-mac.webp" >}}
+  {{< ls-card title="" subtitle="חלון מיני-נגן Mac" image="/docs/guide/evermusic/evermusic-guide-player/img/player-mini-mac.webp" >}}
 {{< /cards >}}
 
 עבור משתמשי Mac, יש חלון מיני-נגן שימושי. לגישה אליו, פשוט הזז את הסמן לקצה הימני התחתון של חלון האפליקציה ושנה את גודלו לגודל הקטן ביותר האפשרי. לאחר מכן, הקש על כפתור הכיווץ (המוצג כחץ כלפי מטה) כדי להפעיל את חלון המיני-נגן. אם ברצונך לשמור אותו מעל חלונות אחרים, עבור לסרגל התפריטים העליון של ה-Mac שלך, בחר 'חלון' ובחר 'הצג חלון תמיד על גבי'. תכונה זו שימושית במיוחד כאשר אתה מאזין להרצאות שמע ואין ברצונך הפרעות.
@@ -169,7 +169,7 @@ Evermusic מגיע עם אקולייזר 10 פסים, מלא בפריסטים ב
 ## קיצורי מקלדת (בלעדי ל-Mac)
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="תפריט ניגון בסרגל המצב של Mac עם קיצורי מקלדת" image="/docs/guide/evermusic/evermusic-guide-player/img/player-mac-shortcuts.webp" >}}
+  {{< ls-card title="" subtitle="תפריט ניגון בסרגל המצב של Mac עם קיצורי מקלדת" image="/docs/guide/evermusic/evermusic-guide-player/img/player-mac-shortcuts.webp" >}}
 {{< /cards >}}
 
 עבור משתמשי Mac, יש תפריט ניגון מערכת זמין בסרגל המצב עם קיצורי מקלדת. לדוגמה, לנגן/להשהות, פשוט הקש על מקש הרווח במקלדת שלך. קיצורי דרך לעצור, שיר הבא, שיר קודם, דלג זמן, חזרה, ניגון אקראי ומהירות ניגון זמינים כפי שמוצג בצילום המסך.
@@ -177,7 +177,7 @@ Evermusic מגיע עם אקולייזר 10 פסים, מלא בפריסטים ב
 ## הגדרות נגן שמע
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="הגדרות נגן שמע" image="/docs/guide/evermusic/evermusic-guide-player/img/player-settings.webp" >}}
+  {{< ls-card title="" subtitle="הגדרות נגן שמע" image="/docs/guide/evermusic/evermusic-guide-player/img/player-settings.webp" >}}
 {{< /cards >}}
 
 לגישה להגדרות נגן השמע, הקש על כפתור עוד במסך נגן השמע ובחר "הגדרות" מהתפריט הנפתח. כאן תמצא סעיפים שונים מקובצים לפי פונקציונליות:

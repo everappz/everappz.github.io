@@ -7,7 +7,7 @@ tags: ["khuyến mãi", "appstore", "cài đặt", "đổi mã", "mã", "miễn 
 readingTime: 2
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **Tóm tắt:** Mã khuyến mãi cho phép bạn tải ứng dụng trả phí miễn phí hoặc mở khóa mua hàng trong ứng dụng. Trên iOS: App Store > biểu tượng Tài khoản > Đổi thẻ quà tặng hoặc mã > nhập mã. Trên Mac: App Store > Tài khoản > Đổi thẻ quà tặng > nhập mã. Sau đó mở ứng dụng và khôi phục giao dịch mua nếu cần.
@@ -94,22 +94,22 @@ Hãy tận hưởng ứng dụng miễn phí hoặc nâng cấp trong ứng dụ
 
 ## Câu hỏi thường gặp
 
-{{% details title="Tôi lấy mã khuyến mãi ở đâu?" closed="true" %}}
+{{% ls-details title="Tôi lấy mã khuyến mãi ở đâu?" closed="true" %}}
 Mã khuyến mãi được cung cấp bởi nhà phát triển ứng dụng cho mục đích đánh giá, tặng quà hoặc khuyến mãi. Liên hệ trực tiếp với nhà phát triển để yêu cầu mã.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Mã khuyến mãi có hết hạn không?" closed="true" %}}
+{{% ls-details title="Mã khuyến mãi có hết hạn không?" closed="true" %}}
 Có. Mã khuyến mãi Apple App Store hết hạn 28 ngày sau khi được tạo và chỉ có thể đổi một lần.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Tôi có thể sử dụng mã khuyến mãi ở bất kỳ quốc gia nào không?" closed="true" %}}
+{{% ls-details title="Tôi có thể sử dụng mã khuyến mãi ở bất kỳ quốc gia nào không?" closed="true" %}}
 Mã khuyến mãi dành riêng cho từng khu vực. Mã phải khớp với quốc gia App Store của Apple ID của bạn.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Làm cách nào để kích hoạt mua hàng trong ứng dụng bằng mã khuyến mãi?" closed="true" %}}
+{{% ls-details title="Làm cách nào để kích hoạt mua hàng trong ứng dụng bằng mã khuyến mãi?" closed="true" %}}
 Sau khi đổi mã trong App Store, mở ứng dụng và đi đến Cài đặt > Khôi phục giao dịch mua. Nội dung cao cấp sẽ được mở khóa tự động.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Mã khuyến mãi thông báo đã được đổi rồi. Tôi nên làm gì?" closed="true" %}}
+{{% ls-details title="Mã khuyến mãi thông báo đã được đổi rồi. Tôi nên làm gì?" closed="true" %}}
 Mỗi mã khuyến mãi chỉ có thể sử dụng một lần. Liên hệ với nhà phát triển để yêu cầu mã mới.
-{{% /details %}}
+{{% /ls-details %}}

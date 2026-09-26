@@ -7,7 +7,7 @@ keywords: ["nahrávanie videa počas prehrávania hudby na iPhone", "ako prehrá
 readingTime: 1
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **Zhrnutie:** Nastavte zvukový výstup Evermusic na "Zmiešaný režim," spustite prehrávanie skladby, potom otvorte aplikáciu Fotoaparát a nahrávajte. Hudba bude naďalej hrať na pozadí. Funguje s TikTok, Instagram a akoukoľvek aplikáciou fotoaparátu.
@@ -45,22 +45,22 @@ Tento trik funguje na každom iPhone.
 
 ## Často kladené otázky
 
-{{% details title="Nahráva sa hudba na pozadí do videa?" closed="true" %}}
+{{% ls-details title="Nahráva sa hudba na pozadí do videa?" closed="true" %}}
 Hudba sa prehráva cez reproduktor iPhone, takže mikrofón ju zachytí spolu s ostatnými okolitými zvukmi. Pre čistejší zvuk zvážte použitie externého reproduktora umiestneného blízko mikrofónu.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Funguje to s TikTok a Instagram?" closed="true" %}}
+{{% ls-details title="Funguje to s TikTok a Instagram?" closed="true" %}}
 Áno. Keď je Evermusic nastavený na Zmiešaný režim a skladba sa prehráva, hudba pokračuje, keď otvoríte TikTok, Instagram alebo akúkoľvek inú aplikáciu fotoaparátu či nahrávania.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Čo je Zmiešaný režim v Evermusic?" closed="true" %}}
+{{% ls-details title="Čo je Zmiešaný režim v Evermusic?" closed="true" %}}
 Zmiešaný režim je nastavenie zvukového výstupu, ktoré umožňuje Evermusic zdieľať zvukovú reláciu s inými aplikáciami. Zabraňuje to zastaveniu hudby, keď iná aplikácia pristupuje k mikrofónu alebo fotoaparátu.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Môžem namiesto Evermusic použiť Flacbox?" closed="true" %}}
+{{% ls-details title="Môžem namiesto Evermusic použiť Flacbox?" closed="true" %}}
 Áno. Flacbox tiež podporuje zmiešaný režim zvukového výstupu. Kroky sú rovnaké: povoľte Zmiešaný režim v Nastaveniach, spustite prehrávanie a otvorte aplikáciu fotoaparátu.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Môžem hrať hru, zatiaľ čo hudba z Evermusic hrá na pozadí?" closed="true" %}}
+{{% ls-details title="Môžem hrať hru, zatiaľ čo hudba z Evermusic hrá na pozadí?" closed="true" %}}
 Áno. S povoleným Zmiešaným režimom hudba z Evermusic pokračuje v prehrávaní, keď otvoríte akúkoľvek hru alebo aplikáciu. Zvuk hry aj vaša hudba sa budú prehrávať súčasne.
-{{% /details %}}
+{{% /ls-details %}}

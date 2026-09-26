@@ -11,7 +11,7 @@ readingTime: 3
 Evervideoは特定の使用制限のある無料版と、アプリ内購入でアンロックできる追加機能を持つプレミアム版の両方を提供しています。
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="デフォルトプランアップグレード画面" image="/docs/faq/evervideo/what-is-the-difference-between-evervideo-and-evervideo-premium/upgrade-default.webp" >}}
+  {{< ls-card title="" subtitle="デフォルトプランアップグレード画面" image="/docs/faq/evervideo/what-is-the-difference-between-evervideo-and-evervideo-premium/upgrade-default.webp" >}}
 {{< /cards >}}
 
 ## プレミアムプランを選択する
@@ -19,7 +19,7 @@ Evervideoは特定の使用制限のある無料版と、アプリ内購入で�
 アプリの無料版は、すべての制限を解除してプレミアム版にアップグレードするための一度限りの生涯アプリ内購入と2つのサブスクリプションオプション（1ヶ月と1年）を提供しており、最適な価格を選択できます。価格はお住まいの国や地域によって異なる場合があります。また、**ファミリー共有**はすべての購入とプランで有効になっており、プレミアム版を家族のメンバーと共有できることを覚えておいてください。
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evervideoプラン選択画面" image="/docs/faq/evervideo/what-is-the-difference-between-evervideo-and-evervideo-premium/plan-select.webp" >}}
+  {{< ls-card title="" subtitle="Evervideoプラン選択画面" image="/docs/faq/evervideo/what-is-the-difference-between-evervideo-and-evervideo-premium/plan-select.webp" >}}
 {{< /cards >}}
 
 ## iOSとMac間での購入の共有
@@ -31,13 +31,13 @@ Evervideoは特定の使用制限のある無料版と、アプリ内購入で�
 新しいデバイスで購入を復元するには、「購入を復元する」メニューを使用するだけです。購入のリストが表示されます。すべての購入が表示されない場合は、デバイスが購入に使用したのと同じiTunesアカウントに接続されているかどうかを確認し、iCloudが有効になっていることを確認してください。
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="購入が復元されました画面" image="/docs/faq/evervideo/what-is-the-difference-between-evervideo-and-evervideo-premium/purchase-restored.webp" >}}
+  {{< ls-card title="" subtitle="購入が復元されました画面" image="/docs/faq/evervideo/what-is-the-difference-between-evervideo-and-evervideo-premium/purchase-restored.webp" >}}
 {{< /cards >}}
 
 アプリをアップグレードすると、現在の購入の詳細がわかるプレミアムステータス画面が表示されます。
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Premiumを使用中画面" image="/docs/faq/evervideo/what-is-the-difference-between-evervideo-and-evervideo-premium/you-are-using-premium.webp" >}}
+  {{< ls-card title="" subtitle="Premiumを使用中画面" image="/docs/faq/evervideo/what-is-the-difference-between-evervideo-and-evervideo-premium/you-are-using-premium.webp" >}}
 {{< /cards >}}
 
 ## Premiumを無料でお試し
@@ -45,7 +45,7 @@ Evervideoは特定の使用制限のある無料版と、アプリ内購入で�
 さらに、「**Premiumを無料でお試し**」の限定的な機会があります。この機能には「Premiumを無料でお試し」メニューからアクセスできます。広告を見るか、アプリについて友達に広めるだけで、このプロモーション期間中にプレミアム版を無料でアンロックできます。これにより、財政的なコミットメントなしにプレミアム機能を体験する機会が提供されます。
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Premiumを無料でお試し画面" image="/docs/faq/evervideo/what-is-the-difference-between-evervideo-and-evervideo-premium/premium-for-free.webp" >}}
+  {{< ls-card title="" subtitle="Premiumを無料でお試し画面" image="/docs/faq/evervideo/what-is-the-difference-between-evervideo-and-evervideo-premium/premium-for-free.webp" >}}
 {{< /cards >}}
 
 ## Evervideo 無料版
@@ -62,7 +62,7 @@ Evervideoは特定の使用制限のある無料版と、アプリ内購入で�
 - カスタマイズまたはパーソナライズのオプションはありません。
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="クラウドストレージアップグレード画面" image="/docs/faq/evervideo/what-is-the-difference-between-evervideo-and-evervideo-premium/upgrade-cloud-storage.webp" >}}
+  {{< ls-card title="" subtitle="クラウドストレージアップグレード画面" image="/docs/faq/evervideo/what-is-the-difference-between-evervideo-and-evervideo-premium/upgrade-cloud-storage.webp" >}}
 {{< /cards >}}
 
 ## Evervideo Premium
@@ -106,7 +106,7 @@ Evervideoは特定の使用制限のある無料版と、アプリ内購入で�
 一方、**Evervideo Premium**は完全な体験をアンロックします。広告なしのインターフェース、無制限のプレイリストとキューのサポート、完全なオフライン機能、クラウドの柔軟性、高度なエクスポートとパーソナライズのオプションを楽しめます。大きな動画ライブラリを持つユーザー、複数のソースからコンテンツを視聴する方、またはより専門的でシームレスなメディアプレーヤーを求める方に最適なオプションです。
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Premiumを購入しました画面" image="/docs/faq/evervideo/what-is-the-difference-between-evervideo-and-evervideo-premium/you-have-purchased-premium.webp" >}}
+  {{< ls-card title="" subtitle="Premiumを購入しました画面" image="/docs/faq/evervideo/what-is-the-difference-between-evervideo-and-evervideo-premium/you-have-purchased-premium.webp" >}}
 {{< /cards >}}
 
 柔軟性を求めている方は**月次プラン**をお試しください。長期的な価値のためには**年次**または**生涯**アップグレードをご利用ください。どちらもより良い価格で完全なアクセスを提供します。

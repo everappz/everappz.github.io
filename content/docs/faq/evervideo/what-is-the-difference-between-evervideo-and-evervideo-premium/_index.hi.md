@@ -11,7 +11,7 @@ readingTime: 3
 Evervideo कुछ उपयोग सीमाओं के साथ एक मुफ़्त संस्करण और added features के साथ एक premium संस्करण दोनों प्रदान करता है, जिसे in-app purchases के माध्यम से unlock किया जा सकता है।
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Upgrade Default Plan Screen" image="/docs/faq/evervideo/what-is-the-difference-between-evervideo-and-evervideo-premium/upgrade-default.webp" >}}
+  {{< ls-card title="" subtitle="Upgrade Default Plan Screen" image="/docs/faq/evervideo/what-is-the-difference-between-evervideo-and-evervideo-premium/upgrade-default.webp" >}}
 {{< /cards >}}
 
 ## अपना Premium Plan चुनें
@@ -19,7 +19,7 @@ Evervideo कुछ उपयोग सीमाओं के साथ एक �
 Application का मुफ़्त संस्करण सभी restrictions हटाने और Premium version में upgrade करने के लिए एक one-time lifetime in-app purchase और दो subscription options (1 month और 1 year) प्रदान करता है, जिससे आप अपने लिए सबसे अच्छी और सबसे optimal price चुन सकते हैं। आपके देश या territory के अनुसार कीमतें भिन्न हो सकती हैं। साथ ही, कृपया ध्यान रखें कि **Family Sharing** सभी purchases और plans के लिए सक्षम है, इसलिए आप Premium version को अपने परिवार के members के साथ share कर सकते हैं।
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evervideo Plan Selection Screen" image="/docs/faq/evervideo/what-is-the-difference-between-evervideo-and-evervideo-premium/plan-select.webp" >}}
+  {{< ls-card title="" subtitle="Evervideo Plan Selection Screen" image="/docs/faq/evervideo/what-is-the-difference-between-evervideo-and-evervideo-premium/plan-select.webp" >}}
 {{< /cards >}}
 
 ## iOS और Mac के बीच Purchases Share करना
@@ -31,13 +31,13 @@ Lifetime purchases और subscriptions iOS और Mac के बीच shared �
 नए device पर अपनी purchase restore करने के लिए बस "Restore purchases" menu का उपयोग करें। आप अपनी purchases की list देखेंगे। यदि आप अपनी सभी purchases नहीं देखते हैं तो कृपया check करें कि device उसी iTunes account से connected है जो purchases करने के लिए उपयोग किया गया था, और सुनिश्चित करें कि iCloud सक्षम है।
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Purchase Restored Screen" image="/docs/faq/evervideo/what-is-the-difference-between-evervideo-and-evervideo-premium/purchase-restored.webp" >}}
+  {{< ls-card title="" subtitle="Purchase Restored Screen" image="/docs/faq/evervideo/what-is-the-difference-between-evervideo-and-evervideo-premium/purchase-restored.webp" >}}
 {{< /cards >}}
 
 एक बार आप अपना ऐप upgrade करने के बाद, आप अपनी current purchases के details के साथ Premium status screen देखेंगे।
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="You Are Using Premium Screen" image="/docs/faq/evervideo/what-is-the-difference-between-evervideo-and-evervideo-premium/you-are-using-premium.webp" >}}
+  {{< ls-card title="" subtitle="You Are Using Premium Screen" image="/docs/faq/evervideo/what-is-the-difference-between-evervideo-and-evervideo-premium/you-are-using-premium.webp" >}}
 {{< /cards >}}
 
 ## Premium को मुफ़्त में आज़माएं
@@ -45,7 +45,7 @@ Lifetime purchases और subscriptions iOS और Mac के बीच shared �
 इसके अतिरिक्त, "**Try Premium for Free**" का एक limited-time opportunity है। आप इस feature को "Try Premium for Free" menu के माध्यम से access कर सकते हैं। बस एक advertisement देखकर या app के बारे में अपने दोस्तों को बताकर, आप इस promotional period के दौरान Premium version मुफ़्त में unlock कर सकते हैं। यह आपको कोई financial commitment किए बिना premium features अनुभव करने का मौका देता है।
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Try Premium For Free Screen" image="/docs/faq/evervideo/what-is-the-difference-between-evervideo-and-evervideo-premium/premium-for-free.webp" >}}
+  {{< ls-card title="" subtitle="Try Premium For Free Screen" image="/docs/faq/evervideo/what-is-the-difference-between-evervideo-and-evervideo-premium/premium-for-free.webp" >}}
 {{< /cards >}}
 
 ## Evervideo Free
@@ -62,7 +62,7 @@ Lifetime purchases और subscriptions iOS और Mac के बीच shared �
 - कोई customization या personalization options नहीं।
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Upgrade Cloud Storage Screen" image="/docs/faq/evervideo/what-is-the-difference-between-evervideo-and-evervideo-premium/upgrade-cloud-storage.webp" >}}
+  {{< ls-card title="" subtitle="Upgrade Cloud Storage Screen" image="/docs/faq/evervideo/what-is-the-difference-between-evervideo-and-evervideo-premium/upgrade-cloud-storage.webp" >}}
 {{< /cards >}}
 
 ## Evervideo Premium
@@ -106,7 +106,7 @@ Lifetime purchases और subscriptions iOS और Mac के बीच shared �
 दूसरी ओर, **Evervideo Premium** पूरा experience unlock करता है। आप ad-free interface, unlimited playlist और queue support, full offline functionality, cloud flexibility, और advanced exporting और personalization options enjoy करेंगे। यह बड़ी video libraries वाले users, multiple sources से content देखने वालों, या एक अधिक professional और seamless media player की तलाश करने वाले किसी के लिए best option है।
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="You Have Purchased Premium Screen" image="/docs/faq/evervideo/what-is-the-difference-between-evervideo-and-evervideo-premium/you-have-purchased-premium.webp" >}}
+  {{< ls-card title="" subtitle="You Have Purchased Premium Screen" image="/docs/faq/evervideo/what-is-the-difference-between-evervideo-and-evervideo-premium/you-have-purchased-premium.webp" >}}
 {{< /cards >}}
 
 यदि आप flexibility की तलाश में हैं, तो **monthly plan** आज़माएं। Long-term value के लिए, **yearly** या **lifetime** upgrade के साथ जाएं — दोनों बेहतर कीमत पर full access प्रदान करते हैं।

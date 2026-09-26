@@ -7,7 +7,7 @@ tags: ["evermusic", "připojení", "bluesound vault"]
 readingTime: 1
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **Shrnutí:** Připojte se k internímu úložišti Bluesound VAULT přes SMB pomocí Evermusic, Flacbox nebo Evertag. Najděte IP adresu VAULT v aplikaci BluOS, zadejte ji jako SMB připojení s přístupem hosta a začněte přehrávat nebo spravovat své hudební soubory.
@@ -58,18 +58,18 @@ Pomocí těchto jednoduchých kroků můžete snadno přistupovat k internímu p
 
 ## Často kladené dotazy
 
-{{% details title="Potřebuji uživatelské jméno a heslo pro připojení k Bluesound VAULT?" closed="true" %}}
+{{% ls-details title="Potřebuji uživatelské jméno a heslo pro připojení k Bluesound VAULT?" closed="true" %}}
 Ne. Bluesound VAULT podporuje přístup hosta (anonymní) přes SMB. Při konfiguraci připojení ponechte pole Přihlášení a Heslo prázdná.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Mohu upravovat hudební tagy na Bluesound VAULT?" closed="true" %}}
+{{% ls-details title="Mohu upravovat hudební tagy na Bluesound VAULT?" closed="true" %}}
 Ano. Pomocí Evertag můžete upravovat tagy metadat (název, interpret, album atd.) zvukových souborů uložených přímo na interním pevném disku VAULT.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Jaké protokoly Bluesound VAULT podporuje?" closed="true" %}}
+{{% ls-details title="Jaké protokoly Bluesound VAULT podporuje?" closed="true" %}}
 Bluesound VAULT zpřístupňuje své interní úložiště přes SMB (Server Message Block). Evermusic, Flacbox a Evertag všechny podporují SMB připojení, takže připojení je jednoduché.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Mohu streamovat hudbu z VAULT bez kopírování souborů do iPhonu?" closed="true" %}}
+{{% ls-details title="Mohu streamovat hudbu z VAULT bez kopírování souborů do iPhonu?" closed="true" %}}
 Ano. Po připojení přes SMB můžete streamovat zvukové soubory přímo z interního disku VAULT bez jejich kopírování do vašeho zařízení.
-{{% /details %}}
+{{% /ls-details %}}

@@ -12,7 +12,7 @@ authors:
     image: "/images/about/artem-meleshko-founder-everappz.webp"
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 **Ukratko:** [Everdisk](/products/everdisk) je naša nova aplikacija koja vaš **iPhone ili iPad pretvara u bežični disk**, te u središte koje se povezuje i s vašim drugim uređajima. Dodirnite **Pokreni** i Everdisk pokreće **četiri poslužitelja odjednom**: **DLNA** za pametne televizore i medijske uređaje, **HTTP** za bilo koji web preglednik, **WebDAV** za Finder, Windows i Linux, te **FTP** za aplikacije za datoteke. Svaki uređaj se povezuje na način koji mu odgovara. Dijelite svoje datoteke, fotografije, videe i glazbu s bilo čime na vašoj mreži, strujite na TV bez kabela, montirajte svoj uređaj kao mrežni disk ili premještajte datoteke putem **USB kabela** kada nema Wi-Fi mreže. Everdisk se povezuje i prema van na poslužitelje **DLNA, WebDAV, FTP i SFTP**, ima ugrađeni **upravitelj datoteka** sa zip i unzip funkcijom, te može **skenirati dokumente u PDF**, **označavati i potpisivati PDF-ove** i pokretati potpuni **PDF komplet alata**. Bez računa, bez oblaka i bez dodatne aplikacije koju treba instalirati na drugoj strani. Sve ostaje na vašoj lokalnoj mreži. Besplatno preuzimanje, uz neobveznu jednokratnu kupnju Premium Lifetime.
 
@@ -133,46 +133,46 @@ Ako vam se aplikacija sviđa, molimo ostavite ocjenu u App Storeu. To stvarno po
 
 ## Često postavljana pitanja
 
-{{% details title="Što je Everdisk?" closed="true" %}}
+{{% ls-details title="Što je Everdisk?" closed="true" %}}
 Everdisk je nova aplikacija koja vaš iPhone ili iPad pretvara u bežični disk i središte koje se povezuje i s vašim drugim uređajima. Možete dijeliti svoje datoteke, fotografije, videe i glazbu s bilo čime na vašoj mreži, pregledavati i strujiti s drugih poslužitelja te upravljati svime izravno na svom uređaju. Bez računa, bez oblaka i bez dodatne aplikacije koju treba instalirati na drugoj strani. Samo dodirnete Pokreni i spremni ste. Aplikacija pokreće četiri poslužitelja istovremeno: DLNA za pametne televizore i medijske uređaje, HTTP za bilo koji web preglednik, WebDAV za Finder, Windows i Linux, te FTP za aplikacije za datoteke i napredne korisnike.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Koliko košta Everdisk?" closed="true" %}}
+{{% ls-details title="Koliko košta Everdisk?" closed="true" %}}
 Everdisk je besplatno preuzimanje. Možete pretvoriti svoj uređaj u bežični disk, dijeliti svoje datoteke na četiri načina, strujiti na TV, montirati mrežni disk, prenositi putem USB-a, povezati se s drugim poslužiteljima, koristiti upravitelj datoteka, skenirati dokumente i koristiti PDF alate bez naknade. Postoji neobvezna jednokratna kupnja Premium Lifetime, jedno plaćanje bez pretplate, koja otključava neograničene dijeljene mape i spremljene veze, pretvorbu fotografija i videa, prilagođene priključke, automatsko pokretanje dijeljenja i prilagodbu uređaja. Cijene se mogu razlikovati ovisno o regiji.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Moram li nešto instalirati na drugom uređaju?" closed="true" %}}
+{{% ls-details title="Moram li nešto instalirati na drugom uređaju?" closed="true" %}}
 Ne. To je cijela poanta. Drugi se uređaj povezuje pomoću alata koje već ima. Pametni TV sam pronalazi vašu biblioteku putem DLNA, bilo koje računalo ili telefon otvara poveznicu u web pregledniku, a Mac Finder, Windows i Linux montiraju vaš uređaj kao mrežni disk putem WebDAV-a. Ništa za instalirati na drugoj strani.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Kako strujim fotografije i videe na svoj TV?" closed="true" %}}
+{{% ls-details title="Kako strujim fotografije i videe na svoj TV?" closed="true" %}}
 Stavite svoj TV ili medijski uređaj i svoj uređaj na istu Wi-Fi mrežu, zatim dodirnite Pokreni u Everdisku s podijeljenim fotografijama, videima ili glazbom. Vaš se uređaj sam pojavi na TV-ovom popisu medijskih poslužitelja, s minijaturama za pregled. Otvorite ga na TV-u i uživajte u svojoj biblioteci na velikom ekranu. Bez kabela i bez dodatnih aplikacija.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Kako povezujem Everdisk sa svog Maca ili računala?" closed="true" %}}
+{{% ls-details title="Kako povezujem Everdisk sa svog Maca ili računala?" closed="true" %}}
 Everdisk čini da se vaš uređaj prikaže kao običan mrežni disk putem WebDAV-a. Na Macu otvorite Finder i odaberite Idi, zatim Poveži se s poslužiteljem i unesite WebDAV adresu prikazanu u aplikaciji. Na Windowsima mapirajte mrežni disk pomoću iste adrese. Na Linuxu se povežite na WebDAV adresu iz svog upravitelja datoteka. Nakon povezivanja možete povlačiti i ispuštati u oba smjera. Ako radije ne biste montirali disk, samo otvorite HTTP poveznicu u bilo kojem web pregledniku.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Mogu li prenositi datoteke bez Wi-Fi mreže?" closed="true" %}}
+{{% ls-details title="Mogu li prenositi datoteke bez Wi-Fi mreže?" closed="true" %}}
 Da. Povežite svoj uređaj s Macom istim USB kabelom kojim ga punite i datoteke idu izravno kroz kabel, brže nego putem Wi-Fi mreže. Budući da mu ne treba bežična mreža, to nastavlja raditi u avionu, u hotelu ili na bilo kojoj zaključanoj ili javnoj mreži gdje je dijeljenje putem Wi-Fi mreže blokirano.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Mogu li slati datoteke s jednog iPhonea na drugi?" closed="true" %}}
+{{% ls-details title="Mogu li slati datoteke s jednog iPhonea na drugi?" closed="true" %}}
 Da. Pokrenite dijeljenje na jednom uređaju i otvorite poveznicu u web pregledniku na drugom, ili se povežite putem WebDAV-a ili FTP-a. Možete pregledavati, strujiti i preuzimati u oba smjera te čak prenositi fotografije, dokumente i cijele mape natrag na uređaj koji dijeli.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Na što se Everdisk može povezati?" closed="true" %}}
+{{% ls-details title="Na što se Everdisk može povezati?" closed="true" %}}
 Everdisk je i klijent za druge uređaje na vašoj mreži. Možete pronaći i povezati se na poslužitelje DLNA, WebDAV, FTP i SFTP, uključujući NAS uređaje i medijske poslužitelje. Nakon povezivanja možete pregledavati njihove mape, strujiti audio i video, preuzimati datoteke te stvarati mape, prenositi, preimenovati, premještati ili brisati kada poslužitelj to dopušta.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Mogu li skenirati dokumente i uređivati PDF-ove u Everdisku?" closed="true" %}}
+{{% ls-details title="Mogu li skenirati dokumente i uređivati PDF-ove u Everdisku?" closed="true" %}}
 Da. Everdisk može skenirati papirnate dokumente vašom kamerom. Sam pronalazi rubove, izravnava svaku stranicu i sprema ih kao uredan višestranični PDF. Možete i otvoriti PDF ili fotografiju te ih označiti (crtati, isticati, dodavati tekst i oblike te potpisati prstom), a izmjene se spremaju natrag u datoteku. Potpuni PDF komplet alata dodaje sažimanje, prepoznavanje teksta (OCR) u PDF u kojem se može pretraživati, zaštitu lozinkom, pregled dopuštenja, uređivanje metapodataka i spljoštavanje.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Je li Everdisk privatan i siguran?" closed="true" %}}
+{{% ls-details title="Je li Everdisk privatan i siguran?" closed="true" %}}
 Da. Sve ostaje na vašoj lokalnoj mreži i nikada ne dodiruje internet, pa vaše datoteke nikada ne napuštaju dom. Bez računa i bez oblaka u sredini. Pristup možete zaštititi korisničkim imenom i lozinkom tako da povezani uređaji moraju unijeti iste podatke prije nego što mogu vidjeti vaše datoteke, a bilo koji uređaj možete blokirati jednim dodirom. Za najbolju privatnost, uključite dijeljenje samo dok ste povezani na Wi-Fi mrežu koju poznajete i kojoj vjerujete.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Na kojim uređajima Everdisk radi?" closed="true" %}}
+{{% ls-details title="Na kojim uređajima Everdisk radi?" closed="true" %}}
 Everdisk radi na iPhoneu i iPadu. Dijeli s pametnim televizorima, medijskim uređajima, Mac, Windows i Linux računalima, web preglednicima, drugim telefonima i tabletima, NAS diskovima te bilo kojim DLNA, WebDAV, FTP ili SFTP poslužiteljem na vašoj mreži, i povezuje se s njima.
-{{% /details %}}
+{{% /ls-details %}}

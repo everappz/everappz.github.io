@@ -12,7 +12,7 @@ authors:
     image: "/images/about/artem-meleshko-founder-everappz.webp"
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 **Zhrnutie:** Flacbox prekonal 1 milión stiahnutí po celom svete. Podporuje FLAC, ALAC, APE, DSD a ďalšie bezstratové formáty s 10-pásmovým ekvalizérom, M3U/CUE playlistami, offline prehrávaním a synchronizáciou medzi zariadeniami na iPhone, iPad a Mac.
 
@@ -78,26 +78,26 @@ Nadchádzajúci vývoj sa zameriava na:
 
 ## Často kladené otázky
 
-{{% details title="Aké audio formáty Flacbox podporuje?" closed="true" %}}
+{{% ls-details title="Aké audio formáty Flacbox podporuje?" closed="true" %}}
 Flacbox prehráva FLAC, ALAC, APE, DSD, WavPack, TTA, RealAudio, MP3, AAC, OGG a mnoho ďalších formátov. Je navrhnutý primárne pre bezstratový a hi-res zvuk.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Má Flacbox ekvalizér?" closed="true" %}}
+{{% ls-details title="Má Flacbox ekvalizér?" closed="true" %}}
 Áno. Flacbox obsahuje 10-pásmový ekvalizér so žánrovými presetmi a manuálnym nastavením frekvencií.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Môžem počúvať hudbu offline s Flacbox?" closed="true" %}}
+{{% ls-details title="Môžem počúvať hudbu offline s Flacbox?" closed="true" %}}
 Áno. Stiahnite súbory z cloudového úložiska alebo ich preneste priamo do aplikácie na offline prehrávanie bez internetového pripojenia.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Funguje Flacbox na Mac?" closed="true" %}}
+{{% ls-details title="Funguje Flacbox na Mac?" closed="true" %}}
 Áno. Flacbox funguje na iPhone, iPad a Mac so synchronizovanými knižnicami a históriou prehrávania na všetkých zariadeniach.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Čo je podpora CUE súborov?" closed="true" %}}
+{{% ls-details title="Čo je podpora CUE súborov?" closed="true" %}}
 CUE súbory definujú hranice skladieb v rámci jedného audio súboru. Flacbox číta CUE súbory na rozdelenie albumových ripov na jednotlivé skladby so správnymi metadátami.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Je Flacbox zadarmo?" closed="true" %}}
+{{% ls-details title="Je Flacbox zadarmo?" closed="true" %}}
 Flacbox je zadarmo na stiahnutie s voliteľnými prémiovými funkciami dostupnými prostredníctvom nákupu v aplikácii.
-{{% /details %}}
+{{% /ls-details %}}

@@ -7,7 +7,7 @@ tags: ["cloud", "streaming", "computer", "mp3", "file", "downloader", "manager",
 keywords: ["iPhoneにファイル転送 SMB", "PCの音楽をiPhoneでストリーミング", "MacをiPhoneに接続 SMB", "Evermusic SMB設定", "コンピュータのファイルにiPhoneからアクセス", "Windows音楽共有 iOS", "SMBファイル転送 Evermusic"]
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **要約:** iPhoneまたはiPadでEvermusicを使用して、SMB経由でローカルネットワーク上のMacまたはWindows PCに保存されたファイルにアクセスできます。ケーブル不要、iTunes不要、クラウドアップロード不要。コンピュータでファイル共有を有効にし、アプリで接続して、ワイヤレスでファイルを閲覧または再生できます。
@@ -142,26 +142,26 @@ SMB2プロトコルを使用する際、特殊文字を含むフォルダで問�
 
 ## よくある質問
 
-{{% details title="iTunesなしでiPhoneからPCのファイルにアクセスできますか？" closed="true" %}}
+{{% ls-details title="iTunesなしでiPhoneからPCのファイルにアクセスできますか？" closed="true" %}}
 はい。Evermusicはローカルの Wi-Fiネットワーク上でSMBを通じてコンピュータに接続します。iTunesやFinderの同期は不要です。PCでファイル共有を有効にし、アプリから直接接続してください。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="SMBファイルアクセスはインターネット経由で動作しますか？" closed="true" %}}
+{{% ls-details title="SMBファイルアクセスはインターネット経由で動作しますか？" closed="true" %}}
 いいえ。SMBはローカルネットワークプロトコルです。iPhoneとコンピュータは同じWi-Fiネットワーク上にある必要があります。リモートアクセスの場合は、ファイルをGoogle DriveやDropboxなどのクラウドサービスにアップロードし、Evermusicで接続してください。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="SMBでどのようなファイルタイプにアクセスできますか？" closed="true" %}}
+{{% ls-details title="SMBでどのようなファイルタイプにアクセスできますか？" closed="true" %}}
 EvermusicはMP3、FLAC、AAC、WAV、AIFF、OGG、WMA、ALACおよびその他のオーディオ形式をサポートしています。内蔵のファイルマネージャーを使用して、非オーディオファイルも閲覧・管理できます。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="SMBを使用してNASからiPhoneにファイルを転送できますか？" closed="true" %}}
+{{% ls-details title="SMBを使用してNASからiPhoneにファイルを転送できますか？" closed="true" %}}
 はい。ほとんどのNASデバイス（Synology、QNAP、WD My Cloudなど）はSMBをサポートしています。このガイドの同じ手順を使用してNASに接続してください。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="ファイルを再生するためにiPhoneにコピーする必要がありますか？" closed="true" %}}
+{{% ls-details title="ファイルを再生するためにiPhoneにコピーする必要がありますか？" closed="true" %}}
 いいえ。Evermusicはネットワーク経由でコンピュータやNASから直接ファイルをストリーミングします。オフライン再生のためにダウンロードすることを選択しない限り、ファイルはiPhoneにコピーされません。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="SMBファイル共有は安全ですか？" closed="true" %}}
+{{% ls-details title="SMBファイル共有は安全ですか？" closed="true" %}}
 SMBファイル共有はローカルネットワーク上でのみ動作します。異なるネットワーク上の他のデバイスは共有フォルダにアクセスできません。セキュリティを強化するには、匿名（全員）アクセスの代わりにログインとパスワードを使用してください。
-{{% /details %}}
+{{% /ls-details %}}

@@ -7,7 +7,7 @@ tags: ["mp3", "szerkesztő", "iPhone", "címkék", "metaadatok", "id3"]
 readingTime: 2
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **Összefoglaló:** Használd az Evermusic vagy Flacbox beépített címkeszerkesztőjét az ID3 címkék szerkesztéséhez iPhone-on vagy Mac-en -- felhő- és helyi fájlokhoz egyaránt. Kötegelt szerkesztésre vagy 120+ címkemezőre van szükséged? Használd helyette az [Evertag](https://apps.apple.com/app/apple-store/id1450763230?pt=95781850&ct=everappzcom&mt=8) alkalmazást.
@@ -21,8 +21,8 @@ Amikor dalokat importálsz a zenei könyvtáradba, azok intelligensen csoportos�
 Míg sok asztali alkalmazás kínál metaadat-szerkesztést, az Evermusic és Flacbox az egyszerűséget a következő szintre emeli egy ID3 címkeszerkesztő beépítésével. Most egyetlen alkalmazást használhatsz a zenei könyvtárad felépítéséhez, a számaid élvezetéhez és az audió címkék javításához.
 
 {{< cards cols="2">}}
-{{< card link="https://apps.apple.com/app/apple-store/id885367198?pt=95781850&ct=everappzcom&mt=8" title="Evermusic letöltése" icon="download" tag="Free" >}}
-{{< card link="https://apps.apple.com/app/apple-store/id1097564256?pt=95781850&ct=everappzcom&mt=8" title="Flacbox letöltése" icon="download" tag="Free" >}}
+{{< ls-card link="https://apps.apple.com/app/apple-store/id885367198?pt=95781850&ct=everappzcom&mt=8" title="Evermusic letöltése" icon="download" tag="Free" >}}
+{{< ls-card link="https://apps.apple.com/app/apple-store/id1097564256?pt=95781850&ct=everappzcom&mt=8" title="Flacbox letöltése" icon="download" tag="Free" >}}
 {{< /cards >}}
 
 ## Profi szerkesztő
@@ -30,7 +30,7 @@ Míg sok asztali alkalmazás kínál metaadat-szerkesztést, az Evermusic és Fl
 De mielőtt elkezdenéd, nézd meg az **Evertag** alkalmazást — **120+ audió címkét**, **30+ audió formátumot** támogat, és hatékony **kötegelt szerkesztést** kínál. Ha teljes funkcionalitású címkekezelő eszközt keresel, az Evertag a legjobb választás. Ha azonban csak egy **egyszerű címkeszerkesztőre** van szükséged, folytasd ezzel az útmutatóval.
 
 {{< cards >}}
-{{< card link="https://apps.apple.com/app/apple-store/id1450763230?pt=95781850&ct=everappzcom&mt=8" title="Evertag letöltése" icon="download" tag="Free" >}}
+{{< ls-card link="https://apps.apple.com/app/apple-store/id1450763230?pt=95781850&ct=everappzcom&mt=8" title="Evertag letöltése" icon="download" tag="Free" >}}
 {{< /cards >}}
 
 
@@ -38,21 +38,21 @@ De mielőtt elkezdenéd, nézd meg az **Evertag** alkalmazást — **120+ audió
 Kapcsold össze a preferált felhőfiókodat az alkalmazásban.
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Felhőszerver csatlakoztatása" image="/docs/howto/how-to-edit-id3-tags-on-iphone/connect_cloud_server.webp" >}}
+{{< ls-card title="" subtitle="Felhőszerver csatlakoztatása" image="/docs/howto/how-to-edit-id3-tags-on-iphone/connect_cloud_server.webp" >}}
 {{< /cards >}}
 
 ## Navigálj az audió fájljaidhoz  
 Nyisd meg az audió fájljaidat tartalmazó mappát a csatlakoztatott felhőfiókban.
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Felhőmappák" image="/docs/howto/how-to-edit-id3-tags-on-iphone/cloud_server_folders.webp" >}}
+{{< ls-card title="" subtitle="Felhőmappák" image="/docs/howto/how-to-edit-id3-tags-on-iphone/cloud_server_folders.webp" >}}
 {{< /cards >}}
 
 ## Fájlbeállítások elérése  
 Koppints a 'Továbbiak' gombra ('...') a szerkeszteni kívánt fájl mellett.
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="További műveletek" image="/docs/howto/how-to-edit-id3-tags-on-iphone/cloud_server_audio_more_actions.webp" >}}
+{{< ls-card title="" subtitle="További műveletek" image="/docs/howto/how-to-edit-id3-tags-on-iphone/cloud_server_audio_more_actions.webp" >}}
 {{< /cards >}}
 
 ## Válaszd az 'Audió címkék szerkesztése' lehetőséget  
@@ -70,7 +70,7 @@ A 'Címkeszerkesztő' képernyőn módosítsd a metaadat-mezőket, mint Cím, El
 Ha végeztél a szerkesztéssel, koppints a 'Mentés' gombra a változtatások mentéséhez.
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Címkeszerkesztő" image="/docs/howto/how-to-edit-id3-tags-on-iphone/tags_editor.webp" >}}
+{{< ls-card title="" subtitle="Címkeszerkesztő" image="/docs/howto/how-to-edit-id3-tags-on-iphone/tags_editor.webp" >}}
 {{< /cards >}}
 
 ## Intelligens automatikus kiegészítés  
@@ -88,7 +88,7 @@ Szerkesztheted az **közvetlenül az eszközödön** tárolt fájlok audió cím
 - **Menj a "Helyi fájlok" részhez**, majd görgess le az **"Fájlok ezen az eszközön"** részhez.
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Fájlok ezen az eszközön" image="/docs/howto/how-to-edit-id3-tags-on-iphone/local_files.webp" >}}
+{{< ls-card title="" subtitle="Fájlok ezen az eszközön" image="/docs/howto/how-to-edit-id3-tags-on-iphone/local_files.webp" >}}
 {{< /cards >}}
 
 - Koppints a **"Mappa csatlakoztatása"** gombra.
@@ -96,25 +96,25 @@ Szerkesztheted az **közvetlenül az eszközödön** tárolt fájlok audió cím
 - A mappaválasztóban válaszd ki az elérni kívánt könyvtárat és koppints a **"Megnyitás"** gombra a megerősítéshez.
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Külső mappa csatlakoztatása" image="/docs/howto/how-to-edit-id3-tags-on-iphone/connect_external_folder.webp" >}}
+{{< ls-card title="" subtitle="Külső mappa csatlakoztatása" image="/docs/howto/how-to-edit-id3-tags-on-iphone/connect_external_folder.webp" >}}
 {{< /cards >}}
 
 - A mappa hozzáadása után koppints rá a benne lévő fájlok megtekintéséhez.
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Külső mappa tartalma" image="/docs/howto/how-to-edit-id3-tags-on-iphone/connected_external_folder.webp" >}}
+{{< ls-card title="" subtitle="Külső mappa tartalma" image="/docs/howto/how-to-edit-id3-tags-on-iphone/connected_external_folder.webp" >}}
 {{< /cards >}}
 
 - Ugyanúgy, mint a felhőfájloknál, koppints a **"További műveletek"** gombra egy audió fájl mellett és válaszd az **"Audió címkék szerkesztése"** lehetőséget.
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="További műveletek - Helyi fájl" image="/docs/howto/how-to-edit-id3-tags-on-iphone/more_actions_local_file.webp" >}}
+{{< ls-card title="" subtitle="További műveletek - Helyi fájl" image="/docs/howto/how-to-edit-id3-tags-on-iphone/more_actions_local_file.webp" >}}
 {{< /cards >}}
 
 - Megnyílik a címkeszerkesztő. Végezd el a módosításokat és koppints a **"Mentés"** gombra. Ennyi! A szerkesztéseid közvetlenül a fájlra vonatkoznak — nem kell másolni vagy áthelyezni semmit.
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Címkeszerkesztő - Helyi fájl" image="/docs/howto/how-to-edit-id3-tags-on-iphone/tag_editor_local_file.webp" >}}
+{{< ls-card title="" subtitle="Címkeszerkesztő - Helyi fájl" image="/docs/howto/how-to-edit-id3-tags-on-iphone/tag_editor_local_file.webp" >}}
 {{< /cards >}}
 
 ## Albumborító szerkesztése
@@ -126,7 +126,7 @@ Albumborító megváltoztatásához:
 3. Válassz egy képet borítóként való alkalmazáshoz.
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Kép kiválasztása" image="/docs/howto/how-to-edit-id3-tags-on-iphone/tags_editor_choose_image.webp" >}}
+{{< ls-card title="" subtitle="Kép kiválasztása" image="/docs/howto/how-to-edit-id3-tags-on-iphone/tags_editor_choose_image.webp" >}}
 {{< /cards >}}
 
 ## További műveletek a címkeszerkesztőben
@@ -134,7 +134,7 @@ Albumborító megváltoztatásához:
 További szerkesztési lehetőségek érhetők el az eszköztáron a borítónézet alatt.
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="További műveletek menü" image="/docs/howto/how-to-edit-id3-tags-on-iphone/tags_edito_more_actions.webp" >}}
+{{< ls-card title="" subtitle="További műveletek menü" image="/docs/howto/how-to-edit-id3-tags-on-iphone/tags_edito_more_actions.webp" >}}
 {{< /cards >}}
 
 ### Audió címkék automatikus keresése
@@ -195,22 +195,22 @@ Egyszerűsítsd a zenei könyvtárad kezelését és a címkeszerkesztést az Ev
 
 ## GYIK
 
-{{% details title="Milyen audió formátumok címkéit szerkeszthetem?" closed="true" %}}
+{{% ls-details title="Milyen audió formátumok címkéit szerkeszthetem?" closed="true" %}}
 Az Evermusic és Flacbox támogatja a címkeszerkesztést MP3, FLAC, AAC, OGG és más gyakori audió formátumokhoz. Az Evertag 30+ formátumot támogat, beleértve a WAV, AIFF, WMA és APE formátumokat.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Szerkeszthetem a felhőszolgáltatásokban tárolt fájlok címkéit?" closed="true" %}}
+{{% ls-details title="Szerkeszthetem a felhőszolgáltatásokban tárolt fájlok címkéit?" closed="true" %}}
 Igen. Csatlakoztasd a Dropbox, Google Drive, OneDrive vagy más felhőfiókodat. Az alkalmazás letölti a fájlt, lehetővé teszi a címkék szerkesztését és automatikusan feltölti a módosított fájlt a felhőbe.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Mi a különbség az Evermusic/Flacbox és az Evertag között?" closed="true" %}}
+{{% ls-details title="Mi a különbség az Evermusic/Flacbox és az Evertag között?" closed="true" %}}
 Az Evermusic és Flacbox zenelejátszók beépített alapvető címkeszerkesztővel. Az Evertag egy dedikált címkeszerkesztő, amely 120+ audió címkét, kötegelt szerkesztést és 30+ formátumot támogat -- ideális nagy könyvtárak kezeléséhez.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Az automatikus keresés funkció igényel internetkapcsolatot?" closed="true" %}}
+{{% ls-details title="Az automatikus keresés funkció igényel internetkapcsolatot?" closed="true" %}}
 Igen. Az Audió címkék automatikus keresése funkció a MusicBrainz online adatbázist kérdezi le metaadatok kereséséhez és kitöltéséhez. Ehhez a funkcióhoz aktív internetkapcsolat szükséges.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Megváltoztatja a címkék szerkesztése az audió minőséget?" closed="true" %}}
+{{% ls-details title="Megváltoztatja a címkék szerkesztése az audió minőséget?" closed="true" %}}
 Nem. A címkeszerkesztés csak a fájlba ágyazott metaadatokat módosítja. Az audió adat maga érintetlen marad -- nem történik újrakódolás.
-{{% /details %}}
+{{% /ls-details %}}

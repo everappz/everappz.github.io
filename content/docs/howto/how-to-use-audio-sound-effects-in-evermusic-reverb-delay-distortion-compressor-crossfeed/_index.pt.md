@@ -7,7 +7,7 @@ tags: ["Evermusic", "Efeitos de áudio", "Como fazer", "Reverb", "Delay", "Disto
 readingTime: 8
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 **Resumo:** O Evermusic inclui seis efeitos de áudio em tempo real — **normalização de volume, compressor, reverb, crossfeed, delay e distorção**. Abra-os pelo **menu ⋯ (Mais) > Efeitos de áudio** do reprodutor ou por **Ajustes > Reprodutor de áudio > Efeitos de áudio**. Toque em um efeito, ative seu interruptor (canto superior direito), escolha um **preset** e, opcionalmente, abra o **modo avançado** para ajustar os controles deslizantes. Cada efeito funciona de forma independente e se aplica em tempo real a tudo o que você toca — arquivos locais, streams na nuvem e rádio pela internet — sem recodificação.
 
@@ -162,38 +162,38 @@ Eles também funcionam junto com o **equalizador gráfico de 10 bandas** do Ever
 
 ## Perguntas frequentes
 
-{{% details title="Como adiciono reverb, delay ou outros efeitos à minha música no Evermusic?" closed="true" %}}
+{{% ls-details title="Como adiciono reverb, delay ou outros efeitos à minha música no Evermusic?" closed="true" %}}
 Abra o reprodutor, toque no botão ⋯ (Mais) e escolha Efeitos de áudio (ou vá em Ajustes > Reprodutor de áudio > Efeitos de áudio). Toque no efeito desejado, ative seu interruptor no canto superior direito e escolha um preset. Abra o modo avançado para ajustar os controles deslizantes. O efeito se aplica imediatamente ao que estiver tocando.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Quais efeitos de áudio o Evermusic tem?" closed="true" %}}
+{{% ls-details title="Quais efeitos de áudio o Evermusic tem?" closed="true" %}}
 Seis efeitos em tempo real: normalização de volume (nivelamento de loudness EBU R128), compressor (dinâmica), reverb (espaço e cauda de eco), crossfeed (imagem natural em fones de ouvido), delay (eco) e distorção (aspereza lo-fi). Cada um é independente e pode ser usado sozinho ou combinado.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Os efeitos alteram ou danificam meus arquivos de áudio?" closed="true" %}}
+{{% ls-details title="Os efeitos alteram ou danificam meus arquivos de áudio?" closed="true" %}}
 Não. Todos os efeitos são aplicados em tempo real apenas durante a reprodução. Eles nunca modificam ou recodificam seus arquivos. Desligue um efeito e seu som original retorna instantaneamente.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Posso usar mais de um efeito ao mesmo tempo?" closed="true" %}}
+{{% ls-details title="Posso usar mais de um efeito ao mesmo tempo?" closed="true" %}}
 Sim. Todo efeito é independente — não há interruptor mestre — então você pode ativar qualquer combinação. Por exemplo, normalização de volume mais compressor para uma audição consistente e fácil, ou reverb mais crossfeed em fones de ouvido.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="O que é o crossfeed e devo usá-lo?" closed="true" %}}
+{{% ls-details title="O que é o crossfeed e devo usá-lo?" closed="true" %}}
 O crossfeed mistura uma pequena quantidade filtrada de cada canal estéreo no outro para que os fones de ouvido soem mais como alto-falantes reais, reduzindo a sensação de "dentro da cabeça" das mixagens com panorâmica extrema. É um efeito para fones de ouvido (deixe-o desligado para alto-falantes). É construído sobre o algoritmo Bauer stereophonic-to-binaural (bs2b) e inclui presets como Chu Moy e Jan Meier.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="O que é a normalização de volume e como ela difere do ReplayGain?" closed="true" %}}
+{{% ls-details title="O que é a normalização de volume e como ela difere do ReplayGain?" closed="true" %}}
 A normalização de volume mantém cada faixa em um loudness consistente, medindo o loudness percebido com o padrão EBU R128 e nivelando em direção a um alvo. Ao contrário do ReplayGain, ela não precisa de tags de loudness nos seus arquivos e não altera o áudio — funciona ao vivo em qualquer fonte, incluindo streams na nuvem e rádio pela internet. Presets: Leve, Padrão, Forte e Noturno.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Qual é a diferença entre o modo Simples e o Avançado?" closed="true" %}}
+{{% ls-details title="Qual é a diferença entre o modo Simples e o Avançado?" closed="true" %}}
 O modo Simples mostra uma lista de presets com descrições simples, então você pode obter um bom som com um toque. O modo Avançado adiciona os controles deslizantes de parâmetros (por exemplo, Mix para o reverb, ou os sete controles do compressor) para ajuste fino preciso. Alterne entre eles com o botão de modo no canto superior direito de cada editor de efeito.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Por que os controles do efeito estão acinzentados?" closed="true" %}}
+{{% ls-details title="Por que os controles do efeito estão acinzentados?" closed="true" %}}
 O efeito está desligado. Ative o interruptor do efeito no canto superior direito do seu editor para ativar os controles. Todo efeito vem desligado por padrão.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Os efeitos funcionam com streaming e CarPlay?" closed="true" %}}
+{{% ls-details title="Os efeitos funcionam com streaming e CarPlay?" closed="true" %}}
 Sim. Os efeitos rodam dentro do motor de reprodução, então se aplicam a arquivos locais, unidades na nuvem, servidores de mídia e rádio pela internet, e continuam funcionando durante a reprodução no CarPlay.
-{{% /details %}}
+{{% /ls-details %}}

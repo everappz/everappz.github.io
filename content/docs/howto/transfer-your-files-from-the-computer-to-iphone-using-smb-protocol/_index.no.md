@@ -7,7 +7,7 @@ tags: ["cloud", "streaming", "computer", "mp3", "file", "downloader", "manager",
 keywords: ["overføre filer til iPhone SMB", "strømme PC-musikk på iPhone", "koble Mac til iPhone SMB", "Evermusic SMB-oppsett", "tilgang til datafiler iPhone", "Windows musikkdeling iOS", "SMB filoverføring Evermusic"]
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **Sammendrag:** Bruk Evermusic på iPhone eller iPad for å få tilgang til filer lagret på Mac eller Windows PC over det lokale nettverket via SMB. Ingen kabler, ingen iTunes, ingen skyopplasting nødvendig. Aktiver fildeling på datamaskinen, koble til i appen, og bla gjennom eller spill av filene dine trådløst.
@@ -142,26 +142,26 @@ Med disse trinnene kan du enkelt få tilgang til din store samling av filer fra 
 
 ## Ofte stilte spørsmål
 
-{{% details title="Kan jeg få tilgang til filer på PC-en min fra iPhone uten iTunes?" closed="true" %}}
+{{% ls-details title="Kan jeg få tilgang til filer på PC-en min fra iPhone uten iTunes?" closed="true" %}}
 Ja. Evermusic kobler til datamaskinen din via SMB på det lokale Wi-Fi-nettverket. Ingen iTunes- eller Finder-synkronisering er nødvendig. Aktiver fildeling på PC-en og koble til direkte fra appen.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Fungerer SMB-filtilgang over internett?" closed="true" %}}
+{{% ls-details title="Fungerer SMB-filtilgang over internett?" closed="true" %}}
 Nei. SMB er en lokal nettverksprotokoll. iPhone og datamaskinen din må være på samme Wi-Fi-nettverk. For ekstern tilgang kan du laste opp filer til en skytjeneste som Google Drive eller Dropbox og koble til den i Evermusic.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Hvilke filtyper kan jeg få tilgang til via SMB?" closed="true" %}}
+{{% ls-details title="Hvilke filtyper kan jeg få tilgang til via SMB?" closed="true" %}}
 Evermusic støtter MP3, FLAC, AAC, WAV, AIFF, OGG, WMA, ALAC og andre lydformater. Du kan også bla gjennom og administrere ikke-lydfiler ved hjelp av den innebygde filbehandleren.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Kan jeg overføre filer fra en NAS til iPhone med SMB?" closed="true" %}}
+{{% ls-details title="Kan jeg overføre filer fra en NAS til iPhone med SMB?" closed="true" %}}
 Ja. De fleste NAS-enheter (Synology, QNAP, WD My Cloud og andre) støtter SMB. Koble til NAS-en din med de samme trinnene i denne guiden.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Må jeg kopiere filer til iPhone for å spille dem?" closed="true" %}}
+{{% ls-details title="Må jeg kopiere filer til iPhone for å spille dem?" closed="true" %}}
 Nei. Evermusic strømmer filer direkte fra datamaskinen eller NAS-en din over nettverket. Filer kopieres ikke til iPhone med mindre du velger å laste dem ned for frakoblet avspilling.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Er SMB-fildeling sikkert?" closed="true" %}}
+{{% ls-details title="Er SMB-fildeling sikkert?" closed="true" %}}
 SMB-fildeling fungerer bare på det lokale nettverket ditt. Andre enheter på forskjellige nettverk kan ikke få tilgang til de delte mappene dine. For ekstra sikkerhet kan du bruke brukernavn og passord i stedet for anonym (Alle) tilgang.
-{{% /details %}}
+{{% /ls-details %}}

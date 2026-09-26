@@ -31,7 +31,7 @@ Sie gelangen zum Vollbild-Player über die kompakte Player-Leiste. Auf iPhone be
 Der kompakte Player bleibt sichtbar, während Sie Ihre Mediathek, Ihren Dateimanager oder Ihre Einstellungen durchsuchen, sodass Sie Ihr Video nie verlieren, während Sie nach dem nächsten suchen.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evervideo Vollbild-Media-Player" image="/docs/guide/evervideo/img/evervideo-media-player-fullscreen.webp" >}}
+  {{< ls-card title="" subtitle="Evervideo Vollbild-Media-Player" image="/docs/guide/evervideo/img/evervideo-media-player-fullscreen.webp" >}}
 {{< /cards >}}
 
 ## Unterstützte Video- und Audioformate
@@ -72,7 +72,7 @@ PiP funktioniert mit jedem Videoformat, das Evervideo abspielt, einschließlich 
 Der kompakte Player ist ein dauerhafter Mini-Player, der oben auf jedem Bildschirm in der App sichtbar bleibt, während Sie die Mediathek, den Dateimanager oder die Einstellungen durchsuchen. Tippen Sie darauf, um ihn auf den Vollbild-Player zu erweitern; nach unten wischen, um ihn wieder zu reduzieren.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evervideo Video-Einstellungen vom kompakten Player auf dem Hauptbildschirm" image="/docs/guide/evervideo/img/evervideo-video-settings-from-compact-player-view-on-the-main-screen.webp" >}}
+  {{< ls-card title="" subtitle="Evervideo Video-Einstellungen vom kompakten Player auf dem Hauptbildschirm" image="/docs/guide/evervideo/img/evervideo-video-settings-from-compact-player-view-on-the-main-screen.webp" >}}
 {{< /cards >}}
 
 ## AirPlay 2
@@ -115,7 +115,7 @@ Evervideo enthält einen vollständigen Audio-Equalizer zum Abstimmen von Video-
 Zur Bildanpassung bietet Evervideo einen dedizierten Video-Equalizer — passen Sie Helligkeit, Kontrast, Sättigung und Farbton in Echtzeit während der Wiedergabe an. Wie der Audio-Equalizer können benutzerdefinierte Video-Presets für die gemeinsame Nutzung oder Sicherung exportiert und importiert werden. Verwenden Sie ihn, um eine dunkle Szene an einem sonnigen Tag aufzuhellen, die Sättigung bei ausgewaschenem Inhalt zu erhöhen oder eine kalte Farbtemperatur aufzuwärmen.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evervideo Video-Equalizer" image="/docs/guide/evervideo/img/evervideo-video-equalizer.webp" >}}
+  {{< ls-card title="" subtitle="Evervideo Video-Equalizer" image="/docs/guide/evervideo/img/evervideo-video-equalizer.webp" >}}
 {{< /cards >}}
 
 ## Video-Skalierungsmodus
@@ -144,7 +144,7 @@ Evervideo enthält einen VR / 360°-Viewport für sphärische Videodateien. Beim
 Tippen Sie auf die Geschwindigkeitssteuerung in der Player-Symbolleiste, um die Wiedergabegeschwindigkeit zu ändern — verlangsamen Sie für Analysen (0,25× oder 0,5×) oder beschleunigen Sie für Tutorials und Vorlesungen (1,25×, 1,5×, 2× und bis zu 3×). Tippen Sie auf das Konfigurationssymbol in der oberen rechten Ecke des Geschwindigkeitsbildschirms, um in den Präzisionsmodus mit feineren Anpassungen zu wechseln. Pro-Spur-Tonhöhenkorrektur ist ebenfalls verfügbar.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evervideo Wiedergabegeschwindigkeit in der Hauptsymbolleiste" image="/docs/guide/evervideo/img/evervideo-media-player-playback-speed-on-main-toolbar.webp" >}}
+  {{< ls-card title="" subtitle="Evervideo Wiedergabegeschwindigkeit in der Hauptsymbolleiste" image="/docs/guide/evervideo/img/evervideo-media-player-playback-speed-on-main-toolbar.webp" >}}
 {{< /cards >}}
 
 ## Player-Warteschlange
@@ -152,7 +152,7 @@ Tippen Sie auf die Geschwindigkeitssteuerung in der Player-Symbolleiste, um die 
 Um Ihre Player-Warteschlange zu sehen, tippen Sie auf die Warteschlangen-Schaltfläche auf dem Player. Jedes Video in der Warteschlange hat weitere Aktionen — tippen Sie auf die drei Punkte, um sie anzuzeigen. Um ein Video in der Warteschlange neu anzuordnen, verwenden Sie den Neuanordnungs-Indikator neben dem Titel und ziehen Sie es auf eine neue Position.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evervideo Wiedergabewarteschlange" image="/docs/guide/evervideo/img/evervideo-playback-queue.webp" >}}
+  {{< ls-card title="" subtitle="Evervideo Wiedergabewarteschlange" image="/docs/guide/evervideo/img/evervideo-playback-queue.webp" >}}
 {{< /cards >}}
 
 ## Schlaf-Timer
@@ -189,7 +189,7 @@ Tippen Sie auf die Weitere Aktionen "..."-Schaltfläche auf dem Player, um auf z
 - **Hilfe** — Anleitungen öffnen.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evervideo Player Weitere Aktionen Bildschirm" image="/docs/guide/evervideo/img/evervideo-media-player-more-actions.webp" >}}
+  {{< ls-card title="" subtitle="Evervideo Player Weitere Aktionen Bildschirm" image="/docs/guide/evervideo/img/evervideo-media-player-more-actions.webp" >}}
 {{< /cards >}}
 
 ## Player-Einstellungen

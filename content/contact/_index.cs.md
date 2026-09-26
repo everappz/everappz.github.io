@@ -1,9 +1,10 @@
 ---
+excludeSearch: true
 date: '2025-06-12T17:00:00+00:00'
 title: 'Kontaktujte nás'
 ---
 
-{{< lottie src="/images/juicy-json/juicy-girl-typing-on-phone.json" width="60%" >}}
+{{< ls-lottie src="/images/juicy-json/juicy-girl-typing-on-phone.json" width="60%" >}}
 
 ## Poštovní adresa
 
@@ -27,4 +28,4 @@ Odesláním e-mailu potvrzujete, že jste si přečetli a souhlasíte s našimi 
 
 Sledujte nás na sociálních sítích a získejte nejnovější zprávy, aktualizace aplikací, tipy a užitečné informace:
 
-{{< social-cards >}}
+{{< ls-social-cards >}}

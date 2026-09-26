@@ -12,7 +12,7 @@ authors:
     image: "/images/about/artem-meleshko-founder-everappz.webp"
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 **Pe scurt:** [Evermusic 8.7](/products/evermusic) este o versiune axată pe calitatea sunetului pentru iPhone, iPad și Mac. Aduce **redare fără pauze reală** (fără pauze, clicuri sau pârâituri între piese), un set complet de **efecte audio de studio** — reverb, delay, distorsiune, compresor și crossfeed — și **normalizarea volumului EBU R128** care menține intensitatea sonoră constantă de la o melodie la alta fără etichete ReplayGain. **Egalizatorul cu 10 benzi** este reproiectat cu glisoare noi, comutare mai rapidă a preseturilor, preseturi personalizate pe care le poți importa și exporta, și un aspect mai bun în modul peisaj și pe iPad. În profunzime, un **motor de streaming AVAudioEngine reconstruit** îmbunătățește fiabilitatea și suportul pentru formate, inclusiv **FLAC** și **Ogg Vorbis**. **CarPlay** și **Se redă acum** sunt mai rapide și mai precise pe ecranul blocat, în mașină și de la telecomenzile căștilor.
 
@@ -129,50 +129,50 @@ Dacă îți place aplicația, te rugăm să lași o evaluare în App Store — c
 
 ## Întrebări frecvente
 
-{{% details title="Ce este nou în Evermusic 8.7?" closed="true" %}}
+{{% ls-details title="Ce este nou în Evermusic 8.7?" closed="true" %}}
 Evermusic 8.7 adaugă redare fără pauze reală, cinci efecte audio de studio (reverb, delay, distorsiune, compresor și crossfeed), normalizarea volumului EBU R128, un egalizator cu 10 benzi reproiectat cu preseturi personalizate și import/export, un motor de streaming AVAudioEngine reconstruit cu suport îmbunătățit pentru formate (inclusiv FLAC și Ogg Vorbis), CarPlay și Se redă acum mai rapide și mai precise, actualizări ale designului Liquid Glass, widgeturi reîmprospătate pentru ecranul principal și corecții de erori și de localizare.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Are Evermusic redare fără pauze reală?" closed="true" %}}
+{{% ls-details title="Are Evermusic redare fără pauze reală?" closed="true" %}}
 Da. Începând cu Evermusic 8.7, redarea este cu adevărat fără pauze: nu există pauză, clic sau pârâit între piese. Motorul pre-încarcă în buffer și decodează piesa următoare în timp ce cea curentă se redă și face trecerea între eșantioane audio pe un buffer inelar continuu, astfel încât tranziția este inaudibilă. Funcționează cu fișiere locale, fluxuri din cloud și servere media și este ideală pentru albume live, mixuri DJ și albume conceptuale.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Ce efecte audio include Evermusic 8.7?" closed="true" %}}
+{{% ls-details title="Ce efecte audio include Evermusic 8.7?" closed="true" %}}
 Cinci efecte în timp real: **reverb** (13 preseturi de încăpere, mix wet/dry), **delay/ecou** (10 preseturi cu timp de delay, feedback, trece-jos și mix), **distorsiune** (22 de preseturi de caracter cu pre-amplificare și mix), **compresor** (un procesor de dinamică complet cu prag, raport, atac, eliberare, expansiune și amplificare de compensare, plus 10 preseturi) și **crossfeed** (crossfeed pentru căști Bauer bs2b cu comenzi de nivel și tăiere și 6 preseturi). Fiecare efect vine cu preseturi selectate, iar setările tale personalizate sunt reținute între sesiuni.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Ce este crossfeed și de ce l-aș folosi?" closed="true" %}}
+{{% ls-details title="Ce este crossfeed și de ce l-aș folosi?" closed="true" %}}
 Crossfeed amestecă o cantitate mică, filtrată din fiecare canal stereo în celălalt, așa cum urechile tale aud în mod natural difuzoare reale într-o cameră. La căști, acest lucru reduce separarea exagerată, „în cap", a înregistrărilor cu panoramare extremă și face ascultarea îndelungată mai confortabilă. Evermusic folosește binecunoscutul algoritm Bauer stereophonic-to-binaural (bs2b) și include preseturi precum Chu Moy și Jan Meier. Este deosebit de eficient pe mixajele stereo mai vechi din anii 1960 și 1970.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Cum funcționează normalizarea volumului în Evermusic?" closed="true" %}}
+{{% ls-details title="Cum funcționează normalizarea volumului în Evermusic?" closed="true" %}}
 Evermusic 8.7 măsoară intensitatea sonoră percepută a fiecărei piese folosind standardul EBU R128 (ITU-R BS.1770) în timp real și ajustează ușor nivelul către o țintă constantă, astfel încât piesele să nu sară în volum. Nu necesită etichete ReplayGain și nu îți modifică fișierele. Sunt disponibile patru preseturi — Ușor (−20 LUFS), Standard (−16 LUFS), Puternic (−14 LUFS) și Nocturn (−23 LUFS) — iar normalizarea se resetează curat când derulezi sau schimbi piesele.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Normalizarea volumului din Evermusic este același lucru cu ReplayGain?" closed="true" %}}
+{{% ls-details title="Normalizarea volumului din Evermusic este același lucru cu ReplayGain?" closed="true" %}}
 Atinge același scop — intensitate sonoră constantă între piese — dar funcționează diferit. ReplayGain se bazează pe etichete de intensitate sonoră stocate în fișierele tale. Normalizatorul Evermusic măsoară intensitatea sonoră live folosind EBU R128, așa că funcționează pe orice sursă, inclusiv fluxuri din cloud și radio pe internet, chiar și când fișierele nu au deloc etichete.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Câte benzi are egalizatorul Evermusic și pot crea propriile preseturi?" closed="true" %}}
+{{% ls-details title="Câte benzi are egalizatorul Evermusic și pot crea propriile preseturi?" closed="true" %}}
 Egalizatorul Evermusic este un egalizator grafic cu 10 benzi care acoperă de la 32 Hz la 16 kHz, cu fiecare bandă reglabilă de la −12 dB la +12 dB în pași de 0,1 dB și un preamp de la −24 dB la +24 dB. Include preseturi integrate, îți permite să creezi și să salvezi preseturi personalizate și acceptă importul și exportul preseturilor ca fișiere .eqp, astfel încât să le poți muta sau partaja între dispozitive.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Ce s-a schimbat la egalizatorul Evermusic 8.7?" closed="true" %}}
+{{% ls-details title="Ce s-a schimbat la egalizatorul Evermusic 8.7?" closed="true" %}}
 Egalizatorul a fost reproiectat cu glisoare noi, mai precise, care adoptă aspectul glisorului sistemului iOS 26 și Liquid Glass, comutare a preseturilor mai rapidă și mai fluidă, și un aspect mai bun în modul peisaj și pe iPad (o bară de preseturi orizontală în modul portret și o coloană de preseturi verticală în modul peisaj). Sunt acceptate preseturi personalizate și import/export .eqp.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Evermusic 8.7 acceptă FLAC și Ogg Vorbis?" closed="true" %}}
+{{% ls-details title="Evermusic 8.7 acceptă FLAC și Ogg Vorbis?" closed="true" %}}
 Da. Motorul reconstruit redă FLAC (prin Core Audio) și Ogg Vorbis (prin libvorbisfile), alături de MP3, AAC, Apple Lossless (ALAC), WAV, AIFF, AC-3, CAF și altele, din fișiere locale, drive-uri în cloud și servere media.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Ce s-a îmbunătățit la CarPlay și pe ecranul blocat?" closed="true" %}}
+{{% ls-details title="Ce s-a îmbunătățit la CarPlay și pe ecranul blocat?" closed="true" %}}
 Coperțile de album CarPlay se încarcă de câteva ori mai rapid pe listele lungi și apar acum în rândurile compacte de listă din iOS 26 care anterior nu afișau niciuna. Informațiile Se redă acum de pe ecranul blocat și din CarPlay sunt mai precise — titlul, timpul scurs, durata și starea de redare/pauză sunt captate împreună, astfel încât să nu poată fi în dezacord, iar stările de buffering sunt raportate corect. Comenzile la distanță (redare, pauză, următoarea, anterioara, derulare, aleatoriu, repetare, viteză) răspund fiabil de la căști și din mașină, iar sortarea CarPlay pe bibliotecile mari este mai rapidă.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Efectele audio și egalizatorul funcționează cu streaming din cloud și CarPlay?" closed="true" %}}
+{{% ls-details title="Efectele audio și egalizatorul funcționează cu streaming din cloud și CarPlay?" closed="true" %}}
 Da. Efectele, egalizatorul și normalizarea volumului rulează nativ în interiorul motorului de redare, așa că se aplică la tot ce redă Evermusic — fișiere locale, drive-uri în cloud, servere media și radio pe internet — și continuă să funcționeze în timpul redării prin CarPlay și, unde este acceptat, prin AirPlay și Chromecast.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Actualizarea la Evermusic 8.7 este gratuită și ce dispozitive acceptă?" closed="true" %}}
+{{% ls-details title="Actualizarea la Evermusic 8.7 este gratuită și ce dispozitive acceptă?" closed="true" %}}
 Da. Evermusic este o descărcare gratuită din App Store, iar 8.7 este o actualizare gratuită pentru utilizatorii existenți, cu upgrade-uri opționale în aplicație pentru funcții avansate. Rulează pe iPhone, iPad și Mac. CarPlay necesită un vehicul sau o unitate centrală compatibilă cu CarPlay.
-{{% /details %}}
+{{% /ls-details %}}

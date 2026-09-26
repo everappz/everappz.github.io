@@ -7,7 +7,7 @@ tags: ["korisnički vodič", "vodič za aplikaciju", "evermusic", "flacbox", "ev
 ---
 
 
-{{< lottie src="/images/juicy-json/juicy-woman-with-graph-chart.json" width="75%" >}}
+{{< ls-lottie src="/images/juicy-json/juicy-woman-with-graph-chart.json" width="75%" >}}
 
 ## Naučite koristiti naše aplikacije
 
@@ -19,4 +19,4 @@ Odaberite aplikaciju u nastavku za početak.
 
 ## Odaberite svoj proizvod
 
-{{< product-doc-cards section="guide" >}}
+{{< ls-product-doc-cards section="guide" >}}

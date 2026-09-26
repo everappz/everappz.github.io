@@ -33,7 +33,7 @@ Tab File dibagi menjadi bagian-bagian yang jelas yang muncul dalam urutan ini di
 Di pojok kanan atas layar File terdapat tombol Transfer (ikon panah berputar). Ketuk untuk membuka Antrean Transfer tempat Anda memantau setiap unduhan dan unggahan dari semua sumber Anda.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="File Evervideo di Semua Penyimpanan yang Terhubung" image="/docs/guide/evervideo/img/evervideo-files-connected-storages.webp" >}}
+  {{< ls-card title="" subtitle="File Evervideo di Semua Penyimpanan yang Terhubung" image="/docs/guide/evervideo/img/evervideo-files-connected-storages.webp" >}}
 {{< /cards >}}
 
 ## Hubungkan ke Penyimpanan Cloud
@@ -41,7 +41,7 @@ Di pojok kanan atas layar File terdapat tombol Transfer (ikon panah berputar). K
 Bagian Penyimpanan Cloud dari tab File adalah tempat setiap akun yang terhubung, NAS, server media, dan stream berada — berdampingan, dalam satu daftar yang dapat digulir.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Bagian Penyimpanan Cloud Evervideo di Tab File" image="/docs/guide/evervideo/img/evervideo-connections.webp" >}}
+  {{< ls-card title="" subtitle="Bagian Penyimpanan Cloud Evervideo di Tab File" image="/docs/guide/evervideo/img/evervideo-connections.webp" >}}
 {{< /cards >}}
 
 - Buka tab **File**.
@@ -51,7 +51,7 @@ Bagian Penyimpanan Cloud dari tab File adalah tempat setiap akun yang terhubung,
 - Masukkan kredensial Anda di halaman otorisasi resmi yang disediakan oleh penyedia cloud, lalu ketuk **Selesai**.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evervideo Menghubungkan Layanan Penyimpanan Cloud" image="/docs/guide/evervideo/img/evervideo-connect-cloud-storage.webp" >}}
+  {{< ls-card title="" subtitle="Evervideo Menghubungkan Layanan Penyimpanan Cloud" image="/docs/guide/evervideo/img/evervideo-connect-cloud-storage.webp" >}}
 {{< /cards >}}
 
 Jika Anda mengalami masalah, periksa koneksi internet dan login / kata sandi Anda. Pada versi Premium aplikasi, Anda dapat menambahkan jumlah layanan yang tidak terbatas; versi gratis mendukung hingga tiga.
@@ -161,7 +161,7 @@ Bagian ini menampilkan setiap perangkat di jaringan lokal Anda yang dapat Anda h
 - Jika diperlukan, masukkan detail login Anda untuk menyelesaikan koneksi.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Perangkat yang Tersedia Evervideo di Jaringan Lokal" image="/docs/guide/evervideo/img/evervideo-available-devices.webp" >}}
+  {{< ls-card title="" subtitle="Perangkat yang Tersedia Evervideo di Jaringan Lokal" image="/docs/guide/evervideo/img/evervideo-available-devices.webp" >}}
 {{< /cards >}}
 
 ## Wi-Fi Drive
@@ -169,7 +169,7 @@ Bagian ini menampilkan setiap perangkat di jaringan lokal Anda yang dapat Anda h
 Wi-Fi Drive memungkinkan Anda mentransfer file secara nirkabel dari komputer ke perangkat iOS melalui browser desktop mana pun, Finder, atau File Explorer. Perangkat dan komputer Anda harus berada di jaringan Wi-Fi yang sama.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Wi-Fi Drive Evervideo" image="/docs/guide/evervideo/img/evervideo-wifi-drive.webp" >}}
+  {{< ls-card title="" subtitle="Wi-Fi Drive Evervideo" image="/docs/guide/evervideo/img/evervideo-wifi-drive.webp" >}}
 {{< /cards >}}
 
 ### Aktifkan Wi-Fi Drive
@@ -201,7 +201,7 @@ Pasang drive USB atau kartu SD ke iPhone, iPad, atau Mac Anda melalui adaptor Li
 Ketuk layanan cloud yang terhubung untuk membuka browser filenya. Folder menampilkan thumbnail video jika tersedia, dan mengetuk video langsung memulai pemutaran sambil terus melakukan streaming sisa file di latar belakang.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evervideo Menjelajahi Folder di Penyimpanan yang Terhubung" image="/docs/guide/evervideo/img/evervideo-all-connected-device-folders.webp" >}}
+  {{< ls-card title="" subtitle="Evervideo Menjelajahi Folder di Penyimpanan yang Terhubung" image="/docs/guide/evervideo/img/evervideo-all-connected-device-folders.webp" >}}
 {{< /cards >}}
 
 ## Akses Cepat
@@ -209,7 +209,7 @@ Ketuk layanan cloud yang terhubung untuk membuka browser filenya. Folder menampi
 Bagian Akses Cepat terletak di bagian atas tab File. Ini memberi Anda akses cepat ke file dan folder favorit dan yang baru dibuka — baik dari layanan cloud maupun dari penyimpanan di perangkat. Setiap kali Anda membuka file atau folder dari cloud, file tersebut ditambahkan ke daftar Baru Dibuka. Anda dapat menandai folder yang bersarang dalam sebagai Favorit untuk mengaksesnya dengan cepat tanpa menggali melalui struktur direktori.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Tautan Online Evervideo dan Akses Cepat" image="/docs/guide/evervideo/img/evervideo-connections-online-links.webp" >}}
+  {{< ls-card title="" subtitle="Tautan Online Evervideo dan Akses Cepat" image="/docs/guide/evervideo/img/evervideo-connections-online-links.webp" >}}
 {{< /cards >}}
 
 ## File di Aplikasi Ini
@@ -217,7 +217,7 @@ Bagian Akses Cepat terletak di bagian atas tab File. Ini memberi Anda akses cepa
 Bagian ini menampilkan file dan folder yang disimpan di direktori Dokumen terisolasi Evervideo — semua yang telah Anda unduh dari cloud, transfer melalui Wi-Fi Drive, disalin melalui Finder File Sharing, atau diimpor dari aplikasi lain.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="File di Aplikasi Ini Evervideo" image="/docs/guide/evervideo/img/evervideo-files-in-this-application.webp" >}}
+  {{< ls-card title="" subtitle="File di Aplikasi Ini Evervideo" image="/docs/guide/evervideo/img/evervideo-files-in-this-application.webp" >}}
 {{< /cards >}}
 
 ### Folder Dokumen
@@ -225,7 +225,7 @@ Bagian ini menampilkan file dan folder yang disimpan di direktori Dokumen teriso
 Folder Dokumen adalah akar dari semua yang ada di File di Aplikasi Ini. Anda dapat membuat subfolder, mengganti nama file, memindahkannya, dan mengelompokkannya sesuai keinginan.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="File Lokal Evervideo — Folder Dokumen" image="/docs/guide/evervideo/img/evervideo-local-files-documents.webp" >}}
+  {{< ls-card title="" subtitle="File Lokal Evervideo — Folder Dokumen" image="/docs/guide/evervideo/img/evervideo-local-files-documents.webp" >}}
 {{< /cards >}}
 
 ## File di iPhone / iPad / Mac Ini
@@ -238,7 +238,7 @@ Bagian ini menampilkan video yang ada di perangkat Anda tetapi di aplikasi yang 
 Anda juga dapat menggunakan Hubungkan Folder untuk membuat tautan ke folder di perangkat Anda dengan akses baca / tulis — sempurna untuk bekerja dengan folder di iCloud Drive atau drive USB yang terpasang tanpa menyalin apa pun.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="File Evervideo di Perangkat Ini" image="/docs/guide/evervideo/img/evervideo-files-on-this-device.webp" >}}
+  {{< ls-card title="" subtitle="File Evervideo di Perangkat Ini" image="/docs/guide/evervideo/img/evervideo-files-on-this-device.webp" >}}
 {{< /cards >}}
 
 ## Folder Khusus
@@ -276,7 +276,7 @@ Saat Anda membuka folder, ketuk tombol **"..."** di pojok kanan atas untuk tinda
 Ketuk **"..."** di pojok kanan atas dan pilih **Pilih** untuk masuk ke mode seleksi. Kotak centang muncul di sebelah setiap file dan folder. Ketuk untuk memilih satu atau beberapa item, lalu lakukan tindakan batch: Putar Berikutnya, Putar Nanti, Tambahkan ke Perpustakaan Media, Tambahkan ke Daftar Putar, Salin, Unggah, Pindahkan, Ganti Nama, atau Hapus.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Mode Seleksi Evervideo di Manajer File" image="/docs/guide/evervideo/img/evervideo-selection-mode-in-files.webp" >}}
+  {{< ls-card title="" subtitle="Mode Seleksi Evervideo di Manajer File" image="/docs/guide/evervideo/img/evervideo-selection-mode-in-files.webp" >}}
 {{< /cards >}}
 
 Jika Anda lebih suka memperlakukan penyimpanan cloud yang terhubung sebagai hanya-baca (untuk mencegah penghapusan tidak sengaja), aktifkan Pengaturan → Manajer File → Edit File Online → Nonaktif untuk menyembunyikan semua operasi destruktif dari UI.
@@ -318,13 +318,13 @@ Untuk setiap folder di penyimpanan cloud Anda, tersedia banyak tindakan dengan m
 Di pojok kanan atas tab File terdapat tombol **Transfer** (ikon panah berputar). Ketuk untuk membuka Antrean Transfer — daftar setiap unduhan dan unggahan aktif dari semua sumber Anda, dengan kemajuan waktu nyata, kecepatan, dan ETA per file.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Antrean Transfer File Evervideo" image="/docs/guide/evervideo/img/evervideo-file-transfers.webp" >}}
+  {{< ls-card title="" subtitle="Antrean Transfer File Evervideo" image="/docs/guide/evervideo/img/evervideo-file-transfers.webp" >}}
 {{< /cards >}}
 
 Anda dapat menjeda, melanjutkan, mencoba ulang transfer yang gagal, menyusun ulang item untuk memprioritaskan unduhan tertentu, atau membatalkannya satu per satu. Anda juga dapat menyesuaikan kecepatan antrean transfer (jumlah tugas paralel maksimum), jenis jaringan (hanya Wi-Fi atau Wi-Fi + Seluler), dan transfer latar belakang di Pengaturan → Manajer File.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Tindakan Evervideo pada Antrean Transfer File" image="/docs/guide/evervideo/img/evervideo-file-transfers-actions.webp" >}}
+  {{< ls-card title="" subtitle="Tindakan Evervideo pada Antrean Transfer File" image="/docs/guide/evervideo/img/evervideo-file-transfers-actions.webp" >}}
 {{< /cards >}}
 
 ## Mode Offline dan Folder Offline yang Disinkronkan

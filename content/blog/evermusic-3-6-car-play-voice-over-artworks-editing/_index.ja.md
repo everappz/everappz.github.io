@@ -12,7 +12,7 @@ authors:
     image: "/images/about/artem-meleshko-founder-everappz.webp"
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 **要約：** Evermusic 3.6ではApple CarPlay統合、完全なVoiceOverアクセシビリティ、ミックスオーディオ出力、自動再生再開、FLAC/MP3/AIFFのアートワークとタグ編集、iCloud Driveファイルインポートが追加されました。
 
@@ -78,18 +78,18 @@ iCloud Driveや他のアプリから直接音楽ファイルをインポート�
 
 ## FAQ
 
-{{% details title="EvermusicはCarPlayで動作しますか？" closed="true" %}}
+{{% ls-details title="EvermusicはCarPlayで動作しますか？" closed="true" %}}
 はい。バージョン3.6から、EvermusicはApple CarPlayを完全にサポートしています。車の内蔵ディスプレイから音楽ライブラリを閲覧・再生できます。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Evermusicは視覚障害のあるユーザーにアクセシブルですか？" closed="true" %}}
+{{% ls-details title="Evermusicは視覚障害のあるユーザーにアクセシブルですか？" closed="true" %}}
 はい。Evermusic 3.6には説明ラベル、ヒント、簡素化されたインターフェースモードを備えた完全なVoiceOverサポートが含まれています。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="EvermusicでiPhoneのFLACタグを編集できますか？" closed="true" %}}
+{{% ls-details title="EvermusicでiPhoneのFLACタグを編集できますか？" closed="true" %}}
 はい。EvermusicにはFLAC、MP3、AIFFファイルに対応する内蔵タグエディタが含まれています。タイトル、アーティスト、アルバム、アートワークを編集できます。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Evermusicは聴取を中断した位置を記憶しますか？" closed="true" %}}
+{{% ls-details title="Evermusicは聴取を中断した位置を記憶しますか？" closed="true" %}}
 はい。「Save Audio Player State」が有効な場合、Evermusicはアプリを再度開いたときにキュー、現在のトラック、正確な再生位置を復元します。
-{{% /details %}}
+{{% /ls-details %}}

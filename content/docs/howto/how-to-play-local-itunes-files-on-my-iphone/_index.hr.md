@@ -7,7 +7,7 @@ tags: ["audio", "player", "računalo", "datoteke", "datoteka", "pc", "mac", "dij
 keywords: ["itunes dijeljenje datoteka", "reprodukcija lokalne glazbe", "prijenos glazbe na iphone", "kopiranje datoteka na ios", "audio s mac na iphone", "lokalne datoteke na iphone", "evermusic", "flacbox", "glazbeni player", "dijeljenje datoteka", "wifi drive", "smb streaming glazbe", "iphone glazbena aplikacija", "uvoz glazbe na ios"]
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **Ukratko:** Prenesite glazbu s računala na iPhone koristeći jednu od tri metode: **iTunes/Finder dijeljenje datoteka** (USB kabel), **[WiFi Drive](/docs/howto/how-to-transfer-music-from-computer-to-iphone-without-itunes)** (bežično, bez kabela), ili **[SMB](/docs/howto/stream-your-music-from-mac-or-pc-to-iphone-using-smb/)** (izravno strujanje bez kopiranja). Zatim reproducirajte s [Evermusic](/products/evermusic) ili [Flacbox](/products/flacbox).
@@ -134,22 +134,22 @@ Također možete povezati računalo koristeći SMB protokol za izravno strujanje
 
 ## FAQ
 
-{{% details title="Koji je najbrži način prijenosa glazbe na iPhone?" closed="true" %}}
+{{% ls-details title="Koji je najbrži način prijenosa glazbe na iPhone?" closed="true" %}}
 iTunes/Finder dijeljenje datoteka putem USB-a najbrža je metoda za velike glazbene knjižnice. Za manje prijenose, WiFi Drive je praktičniji jer ne zahtijeva kabel.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Mogu li prenijeti FLAC datoteke na svoj iPhone?" closed="true" %}}
+{{% ls-details title="Mogu li prenijeti FLAC datoteke na svoj iPhone?" closed="true" %}}
 Da. I Evermusic i Flacbox prihvaćaju FLAC datoteke putem iTunes dijeljenja datoteka, WiFi Drivea ili SMB-a. Flacbox se preporučuje za formate bez gubitaka.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Trebam li iTunes na macOS Catalina ili novijem?" closed="true" %}}
+{{% ls-details title="Trebam li iTunes na macOS Catalina ili novijem?" closed="true" %}}
 Ne. Apple je zamijenio iTunes s Finderom za upravljanje uređajima počevši od macOS Catalina. Koristite karticu Datoteke u Finderu za dijeljenje datoteka.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Mogu li strujati glazbu bez kopiranja datoteka na iPhone?" closed="true" %}}
+{{% ls-details title="Mogu li strujati glazbu bez kopiranja datoteka na iPhone?" closed="true" %}}
 Da. Koristite SMB protokol za izravno strujanje glazbe s vašeg Maca ili PC-a. To štedi prostor za pohranu na uređaju i zadržava vašu knjižnicu na računalu.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Koju aplikaciju trebam koristiti -- Evermusic ili Flacbox?" closed="true" %}}
+{{% ls-details title="Koju aplikaciju trebam koristiti -- Evermusic ili Flacbox?" closed="true" %}}
 Koristite Evermusic za standardne formate poput MP3, WAV i AAC. Odaberite Flacbox ako vaša knjižnica uključuje formate bez gubitaka poput FLAC, DSD ili OGG.
-{{% /details %}}
+{{% /ls-details %}}

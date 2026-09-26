@@ -21,7 +21,7 @@ readingTime: 8
 Есть два способа добавить медиа в библиотеку: **ручное добавление** (вы выбираете, что именно добавляется) или **автоматическая синхронизация** (Evervideo сканирует указанные папки в облаке и автоматически добавляет новые файлы по мере их появления).
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Медиатека Evervideo" image="/docs/guide/evervideo/img/evervideo-genres-in-media-library.webp" >}}
+  {{< ls-card title="" subtitle="Медиатека Evervideo" image="/docs/guide/evervideo/img/evervideo-genres-in-media-library.webp" >}}
 {{< /cards >}}
 
 ## Ручное добавление
@@ -92,7 +92,7 @@ Evervideo также читает видео из библиотеки прил�
 В этом разделе отображаются все недавно просмотренные видео с их последней позицией воспроизведения, чтобы можно было продолжить любое из них одним нажатием. Количество записей в списке можно изменить в Настройки → Медиатека → Последние → Изменить размер списка, а также экспортировать список в M3U / CSV / TXT для сохранения истории просмотров.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Последние Evervideo — недавно просмотренные видео" image="/docs/guide/evervideo/img/evervideo-recents.webp" >}}
+  {{< ls-card title="" subtitle="Последние Evervideo — недавно просмотренные видео" image="/docs/guide/evervideo/img/evervideo-recents.webp" >}}
 {{< /cards >}}
 
 ## Избранное
@@ -104,7 +104,7 @@ Evervideo также читает видео из библиотеки прил�
 Evervideo отслеживает позицию воспроизведения каждого просматриваемого видео. Каждое видео в любом списке — Последние, Избранное, альбом, жанр, плейлист, папка — отображает небольшую полосу прогресса, чтобы с первого взгляда видеть, сколько уже просмотрено. Это значительно упрощает управление длинными сезонами сериалов, курсовыми плейлистами и ночами марафонов.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Детали жанра Evervideo с прогрессом просмотра для каждого файла" image="/docs/guide/evervideo/img/evervideo-genre-detail-with-playback-progress-for-watched-files.webp" >}}
+  {{< ls-card title="" subtitle="Детали жанра Evervideo с прогрессом просмотра для каждого файла" image="/docs/guide/evervideo/img/evervideo-genre-detail-with-playback-progress-for-watched-files.webp" >}}
 {{< /cards >}}
 
 ## Верхняя панель инструментов
@@ -116,7 +116,7 @@ Evervideo отслеживает позицию воспроизведения �
 Функция поиска позволяет найти конкретное название, альбом, жанр или плейлист в медиатеке. На экране поиска доступны действия Сортировка, Фильтр и вид Сетка / Список. Поиск выполняется локально по базе данных медиатеки, поэтому работает полностью офлайн и выдаёт результаты по мере ввода.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Поиск в медиатеке Evervideo" image="/docs/guide/evervideo/img/evervideo-library-search.webp" >}}
+  {{< ls-card title="" subtitle="Поиск в медиатеке Evervideo" image="/docs/guide/evervideo/img/evervideo-library-search.webp" >}}
 {{< /cards >}}
 
 ## Меню опций

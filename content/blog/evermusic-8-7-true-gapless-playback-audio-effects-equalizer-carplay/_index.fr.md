@@ -12,7 +12,7 @@ authors:
     image: "/images/about/artem-meleshko-founder-everappz.webp"
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 **En bref :** [Evermusic 8.7](/products/evermusic) est une mise à jour axée sur la qualité sonore pour iPhone, iPad et Mac. Elle apporte une **vraie lecture sans blanc** (aucune pause, aucun clic ni craquement entre les morceaux), un ensemble complet d'**effets audio de studio** — réverbération, delay, distorsion, compresseur et crossfeed — et la **normalisation du volume EBU R128** qui maintient un niveau sonore constant d'un morceau à l'autre sans tags ReplayGain. L'**égaliseur à 10 bandes** est redessiné avec de nouveaux curseurs, un changement de préréglage plus rapide, des préréglages personnalisés que vous pouvez importer et exporter, et une meilleure disposition en mode paysage et sur iPad. En coulisses, un **moteur de streaming AVAudioEngine reconstruit** améliore la fiabilité et la prise en charge des formats, notamment **FLAC** et **Ogg Vorbis**. **CarPlay** et **Lecture en cours** sont plus rapides et plus précis sur l'écran verrouillé, en voiture et depuis les télécommandes des écouteurs.
 
@@ -129,50 +129,50 @@ Si vous appréciez l'application, laissez une note sur l'App Store — cela aide
 
 ## Foire aux questions
 
-{{% details title="Quoi de neuf dans Evermusic 8.7 ?" closed="true" %}}
+{{% ls-details title="Quoi de neuf dans Evermusic 8.7 ?" closed="true" %}}
 Evermusic 8.7 ajoute une vraie lecture sans blanc, cinq effets audio de studio (réverbération, delay, distorsion, compresseur et crossfeed), la normalisation du volume EBU R128, un égaliseur à 10 bandes redessiné avec préréglages personnalisés et import/export, un moteur de streaming AVAudioEngine reconstruit avec une prise en charge des formats améliorée (dont FLAC et Ogg Vorbis), un CarPlay et un Lecture en cours plus rapides et plus précis, des mises à jour de design Liquid Glass, des widgets d'écran d'accueil rafraîchis, ainsi que des corrections de bugs et de localisation.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Evermusic propose-t-il une vraie lecture sans blanc ?" closed="true" %}}
+{{% ls-details title="Evermusic propose-t-il une vraie lecture sans blanc ?" closed="true" %}}
 Oui. À partir d'Evermusic 8.7, la lecture est vraiment sans blanc : il n'y a aucune pause, aucun clic ni craquement entre les morceaux. Le moteur met en mémoire tampon et décode à l'avance le morceau suivant pendant que le morceau en cours joue et effectue le relais entre les échantillons audio sur un tampon circulaire continu, de sorte que la transition est inaudible. Cela fonctionne pour les fichiers locaux, les flux cloud et les serveurs multimédias, et c'est idéal pour les albums live, les mix DJ et les albums concepts.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Quels effets audio Evermusic 8.7 inclut-il ?" closed="true" %}}
+{{% ls-details title="Quels effets audio Evermusic 8.7 inclut-il ?" closed="true" %}}
 Cinq effets en temps réel : **Réverbération** (13 préréglages de pièce, mix wet/dry), **Delay/Écho** (10 préréglages avec temps de delay, feedback, passe-bas et mix), **Distorsion** (22 préréglages de caractère avec pré-gain et mix), **Compresseur** (un processeur de dynamique complet avec seuil, ratio, attaque, relâchement, expansion et gain de compensation, plus 10 préréglages) et **Crossfeed** (crossfeed pour casque Bauer bs2b avec commandes de niveau et de coupure et 6 préréglages). Chaque effet est livré avec des préréglages soignés, et vos réglages personnalisés sont mémorisés d'une session à l'autre.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Qu'est-ce que le Crossfeed et pourquoi l'utiliser ?" closed="true" %}}
+{{% ls-details title="Qu'est-ce que le Crossfeed et pourquoi l'utiliser ?" closed="true" %}}
 Le Crossfeed mélange une petite quantité filtrée de chaque canal stéréo dans l'autre, comme vos oreilles entendent naturellement de vrais haut-parleurs dans une pièce. Au casque, cela réduit la séparation exagérée, « dans la tête », des enregistrements fortement panoramiqués et rend les longues écoutes plus confortables. Evermusic utilise le célèbre algorithme Bauer stereophonic-to-binaural (bs2b) et inclut des préréglages comme Chu Moy et Jan Meier. Il est particulièrement efficace sur les vieux mixages stéréo des années 1960 et 1970.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Comment fonctionne la normalisation du volume dans Evermusic ?" closed="true" %}}
+{{% ls-details title="Comment fonctionne la normalisation du volume dans Evermusic ?" closed="true" %}}
 Evermusic 8.7 mesure le niveau sonore perçu de chaque morceau à l'aide du standard EBU R128 (ITU-R BS.1770) en temps réel et ajuste doucement le niveau vers une cible constante pour que les morceaux ne sautent pas en volume. Il ne nécessite pas de tags ReplayGain et n'altère pas vos fichiers. Quatre préréglages sont disponibles — Léger (−20 LUFS), Standard (−16 LUFS), Fort (−14 LUFS) et Nuit (−23 LUFS) — et la normalisation se réinitialise proprement lorsque vous vous déplacez dans un morceau ou changez de piste.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="La normalisation du volume d'Evermusic est-elle la même chose que ReplayGain ?" closed="true" %}}
+{{% ls-details title="La normalisation du volume d'Evermusic est-elle la même chose que ReplayGain ?" closed="true" %}}
 Elle atteint le même objectif — un niveau sonore constant entre les morceaux — mais fonctionne différemment. ReplayGain s'appuie sur des tags de niveau sonore stockés dans vos fichiers. Le normaliseur d'Evermusic mesure le niveau sonore en direct avec EBU R128, il fonctionne donc sur n'importe quelle source, y compris les flux cloud et la radio Internet, même lorsque les fichiers n'ont aucun tag.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Combien de bandes l'égaliseur d'Evermusic a-t-il, et puis-je créer mes propres préréglages ?" closed="true" %}}
+{{% ls-details title="Combien de bandes l'égaliseur d'Evermusic a-t-il, et puis-je créer mes propres préréglages ?" closed="true" %}}
 L'égaliseur d'Evermusic est un égaliseur graphique à 10 bandes couvrant 32 Hz à 16 kHz, chaque bande étant réglable de −12 dB à +12 dB par pas de 0,1 dB et avec un préampli de −24 dB à +24 dB. Il comprend des préréglages intégrés, vous permet de créer et d'enregistrer des préréglages personnalisés, et prend en charge l'import et l'export de préréglages sous forme de fichiers .eqp pour les déplacer ou les partager entre appareils.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Qu'est-ce qui a changé dans l'égaliseur d'Evermusic 8.7 ?" closed="true" %}}
+{{% ls-details title="Qu'est-ce qui a changé dans l'égaliseur d'Evermusic 8.7 ?" closed="true" %}}
 L'égaliseur a été redessiné avec de nouveaux curseurs plus précis qui adoptent l'apparence du curseur système d'iOS 26 et le look Liquid Glass, un changement de préréglage plus rapide et plus fluide, et une meilleure disposition en mode paysage et sur iPad (une barre de préréglages horizontale en portrait et une colonne de préréglages verticale en paysage). Les préréglages personnalisés et l'import/export .eqp sont pris en charge.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Evermusic 8.7 prend-il en charge FLAC et Ogg Vorbis ?" closed="true" %}}
+{{% ls-details title="Evermusic 8.7 prend-il en charge FLAC et Ogg Vorbis ?" closed="true" %}}
 Oui. Le moteur reconstruit lit FLAC (via Core Audio) et Ogg Vorbis (via libvorbisfile), ainsi que MP3, AAC, Apple Lossless (ALAC), WAV, AIFF, AC-3, CAF et plus encore, depuis les fichiers locaux, les espaces cloud et les serveurs multimédias.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Qu'est-ce qui a été amélioré dans CarPlay et sur l'écran verrouillé ?" closed="true" %}}
+{{% ls-details title="Qu'est-ce qui a été amélioré dans CarPlay et sur l'écran verrouillé ?" closed="true" %}}
 Les pochettes d'album CarPlay se chargent plusieurs fois plus vite sur les longues listes et apparaissent désormais dans les lignes de liste compactes d'iOS 26 qui n'en affichaient aucune. Les infos Lecture en cours sur l'écran verrouillé et dans CarPlay sont plus précises — le titre, le temps écoulé, la durée et l'état lecture/pause sont capturés ensemble pour qu'ils ne puissent pas se contredire, et les états de mise en mémoire tampon sont correctement signalés. Les télécommandes (lecture, pause, suivant, précédent, avance, aléatoire, répétition, vitesse) répondent de manière fiable depuis les écouteurs et la voiture, et le tri CarPlay sur les grandes bibliothèques est plus rapide.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Les effets audio et l'égaliseur fonctionnent-ils avec le streaming cloud et CarPlay ?" closed="true" %}}
+{{% ls-details title="Les effets audio et l'égaliseur fonctionnent-ils avec le streaming cloud et CarPlay ?" closed="true" %}}
 Oui. Les effets, l'égaliseur et la normalisation du volume s'exécutent nativement dans le moteur de lecture, ils s'appliquent donc à tout ce qu'Evermusic lit — fichiers locaux, espaces cloud, serveurs multimédias et radio Internet — et continuent de fonctionner pendant la lecture avec CarPlay et, là où c'est pris en charge, via AirPlay et Chromecast.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Evermusic 8.7 est-il gratuit à mettre à jour, et quels appareils prend-il en charge ?" closed="true" %}}
+{{% ls-details title="Evermusic 8.7 est-il gratuit à mettre à jour, et quels appareils prend-il en charge ?" closed="true" %}}
 Oui. Evermusic est en téléchargement gratuit sur l'App Store, et la 8.7 est une mise à jour gratuite pour les utilisateurs existants, avec des améliorations facultatives via des achats intégrés pour les fonctions avancées. Elle fonctionne sur iPhone, iPad et Mac. CarPlay nécessite un véhicule ou un autoradio compatible CarPlay.
-{{% /details %}}
+{{% /ls-details %}}

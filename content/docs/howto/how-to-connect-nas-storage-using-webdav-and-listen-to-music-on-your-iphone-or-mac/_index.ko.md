@@ -7,7 +7,7 @@ tags: ["음악", "스트리밍", "스토리지", "nas", "연결", "webdav"]
 readingTime: 2
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **요약:** Synology NAS에 WebDAV를 설치하고 활성화하고, 공유 폴더 권한을 구성한 다음, NAS IP 주소와 WebDAV 포트(기본값 5005/5006)를 사용하여 Evermusic 또는 Flacbox에서 연결합니다. 기기에 파일을 복사하지 않고도 전체 음악 라이브러리를 스트리밍하고 관리할 수 있습니다.
@@ -87,22 +87,22 @@ WebDAV를 사용하여 NAS 스토리지를 연결하고 음악 라이브러리�
 
 ## FAQ
 
-{{% details title="어떤 NAS 장치가 WebDAV를 지원하나요?" closed="true" %}}
+{{% ls-details title="어떤 NAS 장치가 WebDAV를 지원하나요?" closed="true" %}}
 Synology, QNAP, TrueNAS, Western Digital을 포함한 대부분의 인기 NAS 브랜드가 WebDAV를 지원합니다. WebDAV 설정 지침은 NAS 제조업체의 문서를 확인하세요.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="NAS 음악 스트리밍에서 WebDAV와 SMB의 차이점은 무엇인가요?" closed="true" %}}
+{{% ls-details title="NAS 음악 스트리밍에서 WebDAV와 SMB의 차이점은 무엇인가요?" closed="true" %}}
 WebDAV는 HTTP/HTTPS를 통해 작동하며 인터넷을 통한 원격 액세스에 더 적합합니다. SMB는 일반적으로 로컬 네트워크에서 더 빠릅니다. Evermusic과 Flacbox는 두 프로토콜을 모두 지원하므로, 로컬 또는 원격 액세스 필요에 따라 선택하세요.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Synology에서 WebDAV에 사용자 이름과 비밀번호가 필요한가요?" closed="true" %}}
+{{% ls-details title="Synology에서 WebDAV에 사용자 이름과 비밀번호가 필요한가요?" closed="true" %}}
 익명 WebDAV 액세스를 활성화하고 공유 폴더에 게스트 권한을 구성하면 필요하지 않습니다. 보안을 강화하려면 Synology 자격 증명을 대신 사용할 수 있습니다.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="WebDAV를 통해 NAS에서 FLAC 및 기타 고해상도 포맷을 스트리밍할 수 있나요?" closed="true" %}}
+{{% ls-details title="WebDAV를 통해 NAS에서 FLAC 및 기타 고해상도 포맷을 스트리밍할 수 있나요?" closed="true" %}}
 네. Evermusic과 Flacbox 모두 WebDAV를 통해 NAS 스토리지에서 스트리밍할 때 FLAC, ALAC, WAV, DSD 및 기타 고해상도 포맷을 지원합니다.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="사용 가능한 장치에서 내 NAS를 찾을 수 없는 이유는 무엇인가요?" closed="true" %}}
+{{% ls-details title="사용 가능한 장치에서 내 NAS를 찾을 수 없는 이유는 무엇인가요?" closed="true" %}}
 iPhone/Mac과 NAS가 같은 Wi-Fi 네트워크에 있는지 확인하세요. 자동 검색이 작동하지 않으면 수동 연결 옵션을 사용하여 NAS IP 주소와 WebDAV 포트를 직접 입력하세요.
-{{% /details %}}
+{{% /ls-details %}}

@@ -7,7 +7,7 @@ tags: ["cloud", "streaming", "computer", "mp3", "file", "downloader", "manager",
 keywords: ["reproduir música de Mac a iPhone", "streaming àudio SMB iOS", "configuració Evermusic SMB", "connectar música PC iPhone", "compartir música Mac iOS", "streaming fitxers SMB Windows", "accés Evermusic carpetes PC"]
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **Resum:** Utilitza l'aplicació Evermusic per a iPhone o iPad per reproduir música des del teu Mac o Windows PC a través de la teva xarxa local amb SMB. Sense sincronització, sense còpies -- simplement activa la compartició de fitxers al teu ordinador, connecta't a l'aplicació i reprodueix. La configuració triga menys de 5 minuts.
@@ -102,26 +102,26 @@ P.D. També pots transferir fitxers d'àudio del teu MAC/PC al teu iPhone utilit
 
 ## Preguntes freqüents
 
-{{% details title="Puc reproduir música del meu PC al meu iPhone sense iTunes?" closed="true" %}}
+{{% ls-details title="Puc reproduir música del meu PC al meu iPhone sense iTunes?" closed="true" %}}
 Sí. Evermusic es connecta al teu PC via SMB a la teva xarxa Wi-Fi local. No cal iTunes. Simplement activa la compartició de fitxers al teu PC i connecta't a l'aplicació.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="El streaming SMB utilitza dades mòbils?" closed="true" %}}
+{{% ls-details title="El streaming SMB utilitza dades mòbils?" closed="true" %}}
 No. SMB funciona a través de la teva xarxa Wi-Fi local. No cal connexió a Internet ni dades mòbils.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Quins formats d'àudio suporta Evermusic via SMB?" closed="true" %}}
+{{% ls-details title="Quins formats d'àudio suporta Evermusic via SMB?" closed="true" %}}
 Evermusic suporta MP3, FLAC, AAC, WAV, AIFF, OGG, WMA, ALAC i altres formats d'àudio comuns. Els fitxers es reprodueixen directament des del recurs compartit SMB.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Puc reproduir música des d'un NAS al meu iPhone?" closed="true" %}}
+{{% ls-details title="Puc reproduir música des d'un NAS al meu iPhone?" closed="true" %}}
 Sí. Si el teu NAS suporta SMB (la majoria ho fan, incloent Synology, QNAP i WD My Cloud), pots connectar-t'hi utilitzant els mateixos passos d'aquesta guia.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="He de mantenir el meu ordinador encès mentre reprodueixo?" closed="true" %}}
+{{% ls-details title="He de mantenir el meu ordinador encès mentre reprodueixo?" closed="true" %}}
 Sí. Com que Evermusic reprodueix els fitxers directament des del teu ordinador, ha d'estar encès i connectat a la mateixa xarxa que el teu iPhone.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Hi ha un límit de mida de fitxer per al streaming SMB?" closed="true" %}}
+{{% ls-details title="Hi ha un límit de mida de fitxer per al streaming SMB?" closed="true" %}}
 No. Evermusic reprodueix fitxers de qualsevol mida via SMB. Els fitxers grans sense pèrdua (FLAC, WAV) funcionen sense problemes.
-{{% /details %}}
+{{% /ls-details %}}

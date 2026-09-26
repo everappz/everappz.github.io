@@ -17,7 +17,7 @@ keywords: [
 readingTime: 2
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **בקצרה:** גם Evermusic וגם Flacbox כוללים scrobbling מובנה של Last.fm. חבר את חשבונך בקטע **חיבורים**, וכל רצועה שתנגן תירשם אוטומטית -- גם כשאתה לא מחובר לאינטרנט. ההגדרה לוקחת פחות מדקה.
@@ -66,22 +66,22 @@ readingTime: 2
 
 ## שאלות נפוצות
 
-{{% details title="האם scrobbling של Last.fm חינמי?" closed="true" %}}
+{{% ls-details title="האם scrobbling של Last.fm חינמי?" closed="true" %}}
 כן. Last.fm מציע חשבון חינמי הכולל scrobbling מלא, היסטוריית האזנה והמלצות בסיסיות. מנוי בתשלום Last.fm Pro מוסיף תכונות נוספות באתר Last.fm אך אינו נדרש ל-scrobbling מ-Evermusic או Flacbox.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="האם scrobbling עובד כשאני לא מחובר לאינטרנט?" closed="true" %}}
+{{% ls-details title="האם scrobbling עובד כשאני לא מחובר לאינטרנט?" closed="true" %}}
 כן. גם Evermusic וגם Flacbox שומרים את היסטוריית ההשמעה שלך באופן מקומי. כשאתה חוזר להיות מקוון, האפליקציות מעלות אוטומטית את ה-scrobbles שבתור ל-Last.fm.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="האם האפליקציה שומרת את פרטי הכניסה שלי ל-Last.fm?" closed="true" %}}
+{{% ls-details title="האם האפליקציה שומרת את פרטי הכניסה שלי ל-Last.fm?" closed="true" %}}
 לא. האפליקציה שומרת רק אסימון גישה מאובטח בצרור המפתחות של המכשיר שלך. שם המשתמש והסיסמה שלך אינם נשמרים.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="האם אפשר לעשות scrobble גם מ-iPhone וגם מ-Mac?" closed="true" %}}
+{{% ls-details title="האם אפשר לעשות scrobble גם מ-iPhone וגם מ-Mac?" closed="true" %}}
 כן. Evermusic ו-Flacbox תומכים ב-scrobbling של Last.fm ב-iPhone, iPad ו-Mac. חבר את חשבונך בכל מכשיר בו תרצה לעקוב אחר השמעות.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="כיצד אני מפסיק scrobbling מבלי למחוק את חשבון ה-Last.fm שלי?" closed="true" %}}
+{{% ls-details title="כיצד אני מפסיק scrobbling מבלי למחוק את חשבון ה-Last.fm שלי?" closed="true" %}}
 פתח את קטע החיבורים ב-Evermusic או Flacbox ולחץ על לנתק ליד Last.fm. פעולה זו מסירה את אסימון הגישה ומפסיקה את ה-scrobbling תוך שמירה על חשבון ה-Last.fm וההיסטוריה שלך.
-{{% /details %}}
+{{% /ls-details %}}

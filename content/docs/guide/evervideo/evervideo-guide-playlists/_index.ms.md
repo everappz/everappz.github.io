@@ -19,7 +19,7 @@ Dalam bahagian Senarai Main, anda akan menemui alat yang berguna untuk mengurus 
 Senarai main dalam Evervideo boleh mengandungi campuran video awan dalam talian, fail yang dimuat turun secara luar talian, fail tempatan, video perpustakaan Foto, dan video perpustakaan Muzik iOS — semuanya dalam satu senarai main — dan dimainkan bersama dengan lancar.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Senarai Main Evervideo dalam Perpustakaan Media" image="/docs/guide/evervideo/img/evervideo-playlists-in-media-library.webp" >}}
+  {{< ls-card title="" subtitle="Senarai Main Evervideo dalam Perpustakaan Media" image="/docs/guide/evervideo/img/evervideo-playlists-in-media-library.webp" >}}
 {{< /cards >}}
 
 ## Mencipta Senarai Main

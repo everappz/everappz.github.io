@@ -12,7 +12,7 @@ authors:
     image: "/images/about/artem-meleshko-founder-everappz.webp"
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 ## Evermusic: נגן המוזיקה בענן לאייפון ואייפד
 
@@ -22,7 +22,7 @@ Evermusic הוא נגן מוזיקה ענן שמתחבר לאחסון הענן �
 
 ## צפו בסרטון הפרסומי
 
-{{< youtubecard id="BwD0XLgdzEE" title="Evermusic Promo Video" >}}
+{{< ls-youtubecard id="BwD0XLgdzEE" title="Evermusic Promo Video" >}}
 
 ## תכונות מפתח שמוצגות בסרטון
 
@@ -36,14 +36,14 @@ Evermusic הוא נגן מוזיקה ענן שמתחבר לאחסון הענן �
 
 ## שאלות נפוצות
 
-{{% details title="מהו Evermusic?" closed="true" %}}
+{{% ls-details title="מהו Evermusic?" closed="true" %}}
 Evermusic הוא נגן מוזיקה ענן לאייפון ואייפד. הוא מתחבר לשירותי אחסון ענן כמו Dropbox, Google Drive ו-OneDrive, ומאפשר לכם להזרים ולהוריד את קבצי המוזיקה שלכם. הוא תומך בפורמטים FLAC, MP3, AAC, WAV ופורמטי שמע אחרים.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="האם Evermusic חינמי להורדה?" closed="true" %}}
+{{% ls-details title="האם Evermusic חינמי להורדה?" closed="true" %}}
 כן. Evermusic חינמי להורדה עם תכונות בסיסיות. שדרוג Premium חד-פעמי פותח את האקולייזר, מעבר חלק וחיבורי חשבון ענן נוספים.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="אילו שירותי ענן Evermusic תומך?" closed="true" %}}
+{{% ls-details title="אילו שירותי ענן Evermusic תומך?" closed="true" %}}
 Evermusic תומך ביותר מ-12 פלטפורמות ענן כולל iCloud Drive, Dropbox, Google Drive, OneDrive, Box, MEGA, Yandex.Disk, pCloud וכל שרת המריץ פרוטוקולי WebDAV או SMB.
-{{% /details %}}
+{{% /ls-details %}}

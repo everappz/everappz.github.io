@@ -12,7 +12,7 @@ authors:
     image: "/images/about/artem-meleshko-founder-everappz.webp"
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 **Кратко:** Evermusic 6.8 добавляет интеграцию с Aliyun Drive и Synology NAS (с QuickConnect), шесть новых эффектов прокрутки обложек альбомов, минимальный полноэкранный плеер, управление файлами перетаскиванием и более быструю загрузку обложек альбомов. Доступно сейчас для iOS и macOS.
 
@@ -77,18 +77,18 @@ Evermusic 6.8 сосредоточен на трёх направлениях: �
 
 ## Часто Задаваемые Вопросы
 
-{{% details title="Как подключить Synology NAS к Evermusic?" closed="true" %}}
+{{% ls-details title="Как подключить Synology NAS к Evermusic?" closed="true" %}}
 Перейдите на вкладку Подключения, выберите Synology и введите свой QuickConnectID. Evermusic подключается напрямую без необходимости указания IP-адресов или настройки VPN.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Бесплатно ли использование Aliyun Drive с Evermusic?" closed="true" %}}
+{{% ls-details title="Бесплатно ли использование Aliyun Drive с Evermusic?" closed="true" %}}
 Да. Если у вас есть аккаунт Aliyun Drive, вы можете подключить его к Evermusic без дополнительной оплаты. Лимиты хранилища зависят от вашего тарифного плана Aliyun Drive.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Могу ли я настроить стиль прокрутки обложек альбомов?" closed="true" %}}
+{{% ls-details title="Могу ли я настроить стиль прокрутки обложек альбомов?" closed="true" %}}
 Да. Перейдите в Settings > Audio Player > Personalization > Album Covers Scrolling Style и выберите из шести вариантов: MacDoc, Linear, Rotary, Inverted Rotary, Cylinder или CoverFlow.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Работает ли минимальный экран плеера на всех устройствах?" closed="true" %}}
+{{% ls-details title="Работает ли минимальный экран плеера на всех устройствах?" closed="true" %}}
 Да. Полноэкранный стиль обложки альбома доступен на всех поддерживаемых iPhone, iPad и Mac с Evermusic 6.8 или новее.
-{{% /details %}}
+{{% /ls-details %}}

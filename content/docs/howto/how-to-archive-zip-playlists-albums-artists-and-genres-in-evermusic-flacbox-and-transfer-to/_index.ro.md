@@ -7,7 +7,7 @@ tags: ["evermusic", "flacbox", "arhivă", "backup", "exportare", "listă de reda
 readingTime: 2
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **Rezumat:** Evermusic și Flacbox pot arhiva orice listă de redare, album, artist sau gen într-un fișier ZIP cu o listă de redare M3U, coperta albumului și toate fișierele audio. Transferați ZIP-ul pe alt dispozitiv, dezarhivați-l și importați M3U pentru a reconstrui lista de redare instantaneu.
@@ -104,22 +104,22 @@ Urmând acest ghid, puteți arhiva și transfera eficient listele de redare, alb
 
 ## Întrebări frecvente
 
-{{% details title="Ce este inclus în arhiva ZIP?" closed="true" %}}
+{{% ls-details title="Ce este inclus în arhiva ZIP?" closed="true" %}}
 Arhiva conține toate fișierele audio, un fișier de listă de redare M3U care păstrează ordinea pistelor și coperta albumului listei de redare salvată ca fișier de imagine separat.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Funcționează arhivarea cu fișierele din cloud?" closed="true" %}}
+{{% ls-details title="Funcționează arhivarea cu fișierele din cloud?" closed="true" %}}
 Da. Aplicația descarcă automat toate fișierele stocate în cloud înainte de a le adăuga la arhivă. Puteți monitoriza progresul descărcării în secțiunea de transferuri de fișiere.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Pot arhiva și albume, artiști și genuri?" closed="true" %}}
+{{% ls-details title="Pot arhiva și albume, artiști și genuri?" closed="true" %}}
 Da. Opțiunea «Adăugare la arhivă» este disponibilă pentru liste de redare, albume, artiști și genuri. Procesul este identic pentru toate.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Cum transfer arhiva pe alt dispozitiv?" closed="true" %}}
+{{% ls-details title="Cum transfer arhiva pe alt dispozitiv?" closed="true" %}}
 Puteți încărca ZIP-ul în stocarea cloud (Google Drive, Dropbox etc.), puteți folosi AirDrop sau puteți transfera wireless prin funcția Wi-Fi Drive integrată în Evermusic și Flacbox.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Va fi păstrată structura listei de redare după transfer?" closed="true" %}}
+{{% ls-details title="Va fi păstrată structura listei de redare după transfer?" closed="true" %}}
 Da. Fișierul M3U stochează structura listei de redare cu căi relative. După dezarhivare pe dispozitivul nou, importați fișierul M3U pentru a reconstrui lista de redare cu toate pistele în ordinea originală.
-{{% /details %}}
+{{% /ls-details %}}

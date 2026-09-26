@@ -7,7 +7,7 @@ keywords: ["server FTP iPhone", "server FTP iPad", "cara menyiapkan FTP di iPhon
 readingTime: 9
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 FTP adalah andalan lama transfer file. Sudah ada selama beberapa dekade, dan justru itulah yang membuatnya begitu berguna: hampir apa pun yang bisa berbicara dengan server memahaminya. Kamera, smart TV, router, network drive, alat otomasi, dan setiap aplikasi FTP desktop berbicara FTP. Dengan [Everdisk](/products/everdisk) Anda bisa menjalankan server FTP di iPhone atau iPad Anda, sehingga ponsel menjadi tempat yang bisa disambungi perangkat dan aplikasi tersebut untuk memindahkan file.
 
@@ -118,45 +118,45 @@ Sakelar **Pengeditan Berkas** di Pengaturan, Berbagi, Akses mengendalikan ini. A
 
 ## Pertanyaan yang Sering Diajukan
 
-{{% details title="Berapa alamat dan port FTP untuk iPhone saya?" closed="true" %}}
+{{% ls-details title="Berapa alamat dan port FTP untuk iPhone saya?" closed="true" %}}
 Setelah Anda mulai berbagi, Everdisk menampilkan alamatnya di layar Berbagi. Tampilannya seperti ftp://192.168.1.20:2121. Angka 2121 adalah port yang dipakai Everdisk untuk FTP, dan bagian pertama adalah alamat iPhone Anda di Wi-Fi, jadi milik Anda akan berbeda.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Bagaimana cara menyambungkan FileZilla atau Cyberduck ke iPhone saya?" closed="true" %}}
+{{% ls-details title="Bagaimana cara menyambungkan FileZilla atau Cyberduck ke iPhone saya?" closed="true" %}}
 Buka aplikasi dan buat koneksi baru. Atur Host ke alamat Wi-Fi iPhone Anda dan Port ke 2121. Masukkan Info Masuk dan Kata Sandi Anda, atau pilih Anonymous jika Anda tidak mengaturnya di Everdisk. Sambung, dan Anda bisa menyeret file ke dua arah saat Pengeditan Berkas aktif.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Bisakah saya menyambung ke FTP iPhone dari Windows?" closed="true" %}}
+{{% ls-details title="Bisakah saya menyambung ke FTP iPhone dari Windows?" closed="true" %}}
 Ya. Buka File Explorer, klik bilah alamat, ketik alamat FTP dari Everdisk (misalnya ftp://192.168.1.20:2121), lalu tekan Enter. Masukkan login Anda jika Anda mengaturnya, atau lanjutkan sebagai tamu. Untuk unggahan dan kendali lebih, gunakan aplikasi FTP seperti FileZilla sebagai gantinya.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Apakah saya perlu login untuk FTP?" closed="true" %}}
+{{% ls-details title="Apakah saya perlu login untuk FTP?" closed="true" %}}
 Tidak, login bersifat opsional. Biarkan Info Masuk dan Kata Sandi kosong di Pengaturan, Berbagi, Akses, dan sambung sebagai Anonymous, yang ditawarkan sebagian besar klien FTP. Atur login jika Anda ingin koneksi masuk terlebih dahulu.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Mengapa saya hanya bisa mengunduh dan tidak bisa mengunggah lewat FTP?" closed="true" %}}
+{{% ls-details title="Mengapa saya hanya bisa mengunduh dan tidak bisa mengunggah lewat FTP?" closed="true" %}}
 Dua alasan yang umum. Pertama, sakelar Pengeditan Berkas di Pengaturan, Berbagi, Akses harus aktif untuk mengizinkan unggahan, penggantian nama, dan penghapusan. Kedua, Mac Finder membuka FTP sebagai hanya-baca, jadi gunakan aplikasi FTP seperti FileZilla atau Cyberduck saat Anda ingin mengunggah.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Bisakah saya memakai FTP antara dua iPhone?" closed="true" %}}
+{{% ls-details title="Bisakah saya memakai FTP antara dua iPhone?" closed="true" %}}
 Ya. Mulai server FTP di iPhone pertama. Di iPhone kedua, buka Everdisk, masuk ke tab Perangkat, ketuk Koneksi Baru, pilih FTP, dan masukkan alamat yang ditampilkan di ponsel pertama. Aplikasi FTP khusus untuk iOS juga berfungsi, karena aplikasi Files iOS tidak menyertakan klien FTP.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Apakah FTP aman?" closed="true" %}}
+{{% ls-details title="Apakah FTP aman?" closed="true" %}}
 FTP polos tidak mengenkripsi lalu lintasnya, jadi perlakukan sebagai alat untuk jaringan yang Anda percayai, seperti Wi-Fi rumah Anda. Di jaringan yang tidak Anda kendalikan, gunakan server SMB dengan Wajibkan enkripsi SMB diaktifkan, yang melindungi setiap transfer.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Perangkat mana yang bisa menyambung lewat FTP?" closed="true" %}}
+{{% ls-details title="Perangkat mana yang bisa menyambung lewat FTP?" closed="true" %}}
 Hampir apa pun dengan klien FTP. Itu mencakup komputer Mac, Windows, dan Linux, aplikasi FTP seperti FileZilla dan Cyberduck, pengelola file Android, serta perangkat keras seperti kamera, smart TV, router, kotak NAS, dan alat otomasi. Jangkauan luas itulah alasan utama memilih FTP.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Mengapa koneksi FTP saya terputus?" closed="true" %}}
+{{% ls-details title="Mengapa koneksi FTP saya terputus?" closed="true" %}}
 iPhone Anda adalah server, dan iOS menjeda aplikasi yang terlalu lama berada di latar belakang. Biarkan Everdisk tetap terbuka di layar saat sebuah perangkat terhubung, dan colokkan ke sumber daya untuk transfer yang panjang. Pastikan juga kedua perangkat masih berada di Wi-Fi yang sama.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Apakah Everdisk gratis?" closed="true" %}}
+{{% ls-details title="Apakah Everdisk gratis?" closed="true" %}}
 Ya, Everdisk gratis diunduh dan server FTP sudah termasuk. Pembelian Premium sekali bayar opsional menambahkan ekstra seperti port kustom serta konversi foto dan video. Anda bisa menyiapkan FTP dan mentransfer file tanpa membayar.
-{{% /details %}}
+{{% /ls-details %}}
 
 Siap mencobanya? [Unduh Everdisk dari App Store](https://apps.apple.com/app/apple-store/id6751851132?pt=95781850&ct=everappzcom&mt=8) dan sambungkan klien FTP pertama Anda dalam beberapa menit. Ada pertanyaan atau masukan? Kirim email ke **support@everappz.com**.
 </content>

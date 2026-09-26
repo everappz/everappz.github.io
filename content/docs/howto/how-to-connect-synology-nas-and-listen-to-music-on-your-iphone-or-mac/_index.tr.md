@@ -7,7 +7,7 @@ tags: ["müzik", "yayın", "nas", "synology", "quickconnect"]
 readingTime: 4
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **Özet:** Synology NAS'ınızı Synology'nin yerel API'si ile Evermusic veya Flacbox'a bağlayın -- IP adresi ile manuel olarak veya QuickConnect ID ile otomatik olarak. QuickConnect, port yönlendirme olmadan uzaktan müzik yayınlamanıza olanak tanır. Her iki uygulama da FLAC, MP3, WAV ve diğer yüksek çözünürlüklü formatları destekler.
@@ -140,22 +140,22 @@ QuickConnect aracılığıyla güvenli uzaktan erişim ve geniş ses formatı de
 
 ## FAQ
 
-{{% details title="Manuel bağlantı ile QuickConnect arasındaki fark nedir?" closed="true" %}}
+{{% ls-details title="Manuel bağlantı ile QuickConnect arasındaki fark nedir?" closed="true" %}}
 Manuel bağlantı, yerel ağınızda çalışan NAS IP adresi ve portunu kullanır. QuickConnect, port yönlendirme olmadan internet üzerinden her yerden bağlantı kurmak için Synology'nin aktarma hizmetini kullanır.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Ev ağımın dışında Synology NAS'tan müzik yayınlayabilir miyim?" closed="true" %}}
+{{% ls-details title="Ev ağımın dışında Synology NAS'tan müzik yayınlayabilir miyim?" closed="true" %}}
 Evet. Synology NAS'ınızda QuickConnect'i etkinleştirin ve internet bağlantısı olan her yerden müzik yayınlamak için Evermusic veya Flacbox'ta QuickConnect ID'yi kullanın.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Synology NAS'tan yayın yaparken hangi ses formatları desteklenir?" closed="true" %}}
+{{% ls-details title="Synology NAS'tan yayın yaparken hangi ses formatları desteklenir?" closed="true" %}}
 Evermusic ve Flacbox, FLAC, MP3, AAC, WAV, ALAC, OGG, WMA, DSD ve diğer birçok formatı destekler. Synology NAS'tan yayın yaparken tüm desteklenen formatlar çalışır.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Bağlanmak için iki faktörlü kimlik doğrulama gerekiyor mu?" closed="true" %}}
+{{% ls-details title="Bağlanmak için iki faktörlü kimlik doğrulama gerekiyor mu?" closed="true" %}}
 Hayır, 2FA isteğe bağlıdır. Ancak Synology DSM'nizde 2 adımlı doğrulamayı etkinleştirdiyseniz, uygulama giriş sırasında tek kullanımlık şifre isteyecektir. Oturum sona erdiğinde yeniden yetkilendirmeniz gerekecektir.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Bağlanmak için Synology yerel API, WebDAV veya SMB mi kullanmalıyım?" closed="true" %}}
+{{% ls-details title="Bağlanmak için Synology yerel API, WebDAV veya SMB mi kullanmalıyım?" closed="true" %}}
 QuickConnect ile Synology yerel API, uzaktan erişim için en iyi seçimdir. Yerel ağ kullanımı için SMB genellikle en hızlı seçenektir. WebDAV hem yerel hem de uzaktan erişim için iyi çalışır. Evermusic ve Flacbox üç protokolü de destekler.
-{{% /details %}}
+{{% /ls-details %}}

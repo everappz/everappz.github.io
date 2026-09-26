@@ -19,7 +19,7 @@ I avsnittet Spellistor hittar du användbara verktyg för att hantera dina video
 Spellistor i Evervideo kan innehålla en blandning av online-molnvideor, offline-nedladdade filer, lokala filer, Photos-bibliotekvideor och iOS Music-bibliotekvideor — allt i en spellista — och spelas upp sömlöst tillsammans.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evervideo Spellistor i Mediebiblioteket" image="/docs/guide/evervideo/img/evervideo-playlists-in-media-library.webp" >}}
+  {{< ls-card title="" subtitle="Evervideo Spellistor i Mediebiblioteket" image="/docs/guide/evervideo/img/evervideo-playlists-in-media-library.webp" >}}
 {{< /cards >}}
 
 ## Skapa en spellista

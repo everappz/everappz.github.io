@@ -55,17 +55,17 @@ Descansa tranquilo sabiendo que tus datos están seguros. Evertag te permite est
 En esta guía, descubrirás cómo aprovechar el poder de Evertag en tu iPhone, iPad y Mac, haciendo que tu experiencia de gestión musical sea fluida y agradable.
 
 {{< cards >}}
-  {{< card icon="location-marker" title="Navegación" subtitle="Aprende a navegar por nuestra app sin esfuerzo usando la Barra de Pestañas (para usuarios de iPhone) o el Menú Izquierdo (para usuarios de iPad y Mac) para acceder y explorar todas las funciones de la app." link="/docs/guide/evertag/evertag-guide-navigation" >}}
+  {{< ls-card icon="location-marker" title="Navegación" subtitle="Aprende a navegar por nuestra app sin esfuerzo usando la Barra de Pestañas (para usuarios de iPhone) o el Menú Izquierdo (para usuarios de iPad y Mac) para acceder y explorar todas las funciones de la app." link="/docs/guide/evertag/evertag-guide-navigation" >}}
 
-  {{< card icon="cloud" title="Conexiones" subtitle="Vincula sin esfuerzo todas tus cuentas en la nube disponibles con tus preciados archivos de audio. Incluso puedes editar tus archivos en línea sin esfuerzo usando nuestro gestor de archivos integrado." link="/docs/guide/evertag/evertag-guide-connections" >}}
+  {{< ls-card icon="cloud" title="Conexiones" subtitle="Vincula sin esfuerzo todas tus cuentas en la nube disponibles con tus preciados archivos de audio. Incluso puedes editar tus archivos en línea sin esfuerzo usando nuestro gestor de archivos integrado." link="/docs/guide/evertag/evertag-guide-connections" >}}
 
-  {{< card icon="folder" title="Archivos Locales" subtitle="Visualiza y organiza los archivos almacenados en la carpeta Documentos de la app o en tu dispositivo. Usa el gestor de archivos integrado para editar y gestionar tus archivos de audio con facilidad." link="/docs/guide/evertag/evertag-guide-local-files" >}}
+  {{< ls-card icon="folder" title="Archivos Locales" subtitle="Visualiza y organiza los archivos almacenados en la carpeta Documentos de la app o en tu dispositivo. Usa el gestor de archivos integrado para editar y gestionar tus archivos de audio con facilidad." link="/docs/guide/evertag/evertag-guide-local-files" >}}
 
-  {{< card icon="pencil-alt" title="Editor de Etiquetas" subtitle="Domina el arte de la manipulación de metadatos de archivos de audio. Descubre cómo editar metadatos, transformar portadas de álbumes y gestionar varios archivos simultáneamente de forma fluida." link="/docs/guide/evertag/evertag-guide-tag-editor" >}}
+  {{< ls-card icon="pencil-alt" title="Editor de Etiquetas" subtitle="Domina el arte de la manipulación de metadatos de archivos de audio. Descubre cómo editar metadatos, transformar portadas de álbumes y gestionar varios archivos simultáneamente de forma fluida." link="/docs/guide/evertag/evertag-guide-tag-editor" >}}
 
-  {{< card icon="code" title="Asignaciones de Campos de Etiquetas" subtitle="Explora la lista completa de campos de etiquetas de audio compatibles con la app Evertag, incluidos los nombres de campos internos y las asignaciones entre los principales formatos de metadatos." link="/docs/guide/evertag/evertag-tag-field-mappings" >}}
+  {{< ls-card icon="code" title="Asignaciones de Campos de Etiquetas" subtitle="Explora la lista completa de campos de etiquetas de audio compatibles con la app Evertag, incluidos los nombres de campos internos y las asignaciones entre los principales formatos de metadatos." link="/docs/guide/evertag/evertag-tag-field-mappings" >}}
 
-  {{< card icon="adjustments" title="Ajustes" subtitle="Descubre cómo personalizar tu experiencia de app, ajustar el rendimiento, gestionar el uso de datos y adaptar las preferencias de idioma e interfaz de usuario a tu gusto." link="/docs/guide/evertag/evertag-guide-settings" >}}
+  {{< ls-card icon="adjustments" title="Ajustes" subtitle="Descubre cómo personalizar tu experiencia de app, ajustar el rendimiento, gestionar el uso de datos y adaptar las preferencias de idioma e interfaz de usuario a tu gusto." link="/docs/guide/evertag/evertag-guide-settings" >}}
 
-  {{< card icon="question-mark-circle" title="Preguntas Frecuentes" subtitle="Encuentra respuestas rápidas a preguntas comunes en nuestra sección de Preguntas Frecuentes." link="/docs/faq/evertag" >}}
+  {{< ls-card icon="question-mark-circle" title="Preguntas Frecuentes" subtitle="Encuentra respuestas rápidas a preguntas comunes en nuestra sección de Preguntas Frecuentes." link="/docs/faq/evertag" >}}
 {{< /cards >}}

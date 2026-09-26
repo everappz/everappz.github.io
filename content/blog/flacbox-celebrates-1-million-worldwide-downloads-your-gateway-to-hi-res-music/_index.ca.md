@@ -12,7 +12,7 @@ authors:
     image: "/images/about/artem-meleshko-founder-everappz.webp"
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 **Resum:** Flacbox ha superat 1 milió de descàrregues a tot el món. Suporta FLAC, ALAC, APE, DSD i altres formats sense pèrdua amb un equalitzador de 10 bandes, llistes M3U/CUE, reproducció sense connexió i sincronització entre dispositius a iPhone, iPad i Mac.
 
@@ -78,26 +78,26 @@ El desenvolupament futur se centra en:
 
 ## Preguntes freqüents
 
-{{% details title="Quins formats d'àudio suporta Flacbox?" closed="true" %}}
+{{% ls-details title="Quins formats d'àudio suporta Flacbox?" closed="true" %}}
 Flacbox reprodueix FLAC, ALAC, APE, DSD, WavPack, TTA, RealAudio, MP3, AAC, OGG i molts altres formats. Està dissenyat principalment per a àudio sense pèrdua i d'alta resolució.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Flacbox té equalitzador?" closed="true" %}}
+{{% ls-details title="Flacbox té equalitzador?" closed="true" %}}
 Sí. Flacbox inclou un equalitzador de 10 bandes amb preajustos de gènere i ajust manual de freqüència.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Puc escoltar música sense connexió amb Flacbox?" closed="true" %}}
+{{% ls-details title="Puc escoltar música sense connexió amb Flacbox?" closed="true" %}}
 Sí. Descarrega arxius de l'emmagatzematge al núvol o transfereix-los directament a l'aplicació per a reproducció sense connexió a internet.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Flacbox funciona a Mac?" closed="true" %}}
+{{% ls-details title="Flacbox funciona a Mac?" closed="true" %}}
 Sí. Flacbox funciona a iPhone, iPad i Mac amb biblioteques sincronitzades i historial de reproducció a tots els dispositius.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Què és el suport de fulls CUE?" closed="true" %}}
+{{% ls-details title="Què és el suport de fulls CUE?" closed="true" %}}
 Els fulls CUE defineixen els límits de les pistes dins d'un únic arxiu d'àudio. Flacbox llegeix els arxius CUE per dividir les gravacions d'àlbums en pistes individuals amb metadades correctes.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Flacbox és gratuït?" closed="true" %}}
+{{% ls-details title="Flacbox és gratuït?" closed="true" %}}
 Flacbox és gratuït per descarregar amb funcions premium opcionals disponibles mitjançant compra dins l'aplicació.
-{{% /details %}}
+{{% /ls-details %}}

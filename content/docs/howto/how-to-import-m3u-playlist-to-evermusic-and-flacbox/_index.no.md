@@ -7,7 +7,7 @@ tags: ["evermusic", "importere", "spillelister", "m3u", "cue"]
 readingTime: 3
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **Sammendrag:** Evermusic og Flacbox støtter importering av M3U-, M3U8- og CUE-spillelistefiler fra skylagring, lokale appfiler eller enheten din. Gå til Spillelister > Mer > Importer spilleliste, velg en kilde, velg filen din, og appen bygger spillelisten automatisk.
@@ -84,22 +84,22 @@ I tillegg kan du importere flere spillelister samtidig ved å trykke på "Flere 
 
 ## Ofte stilte spørsmål
 
-{{% details title="Hvilke spillelisteformater støtter Evermusic og Flacbox?" closed="true" %}}
+{{% ls-details title="Hvilke spillelisteformater støtter Evermusic og Flacbox?" closed="true" %}}
 Begge appene støtter M3U-, M3U8- og CUE-spillelistefilformater. Disse dekker de vanligste spillelistestandardene som brukes av musikkspillere og medieprogramvare.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Kan jeg importere spillelister fra skylagring?" closed="true" %}}
+{{% ls-details title="Kan jeg importere spillelister fra skylagring?" closed="true" %}}
 Ja. Du kan importere spillelistefiler fra enhver tilkoblet skylagringstjeneste, inkludert Google Drive, Dropbox, OneDrive og WebDAV-servere.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Hvorfor mangler noen spor etter import?" closed="true" %}}
+{{% ls-details title="Hvorfor mangler noen spor etter import?" closed="true" %}}
 Spillelistefilen må inneholde riktige baner til mediefilene dine, og disse filene må eksistere på de angitte plasseringene på lagringen din. Dobbeltsjekk at filbanene i M3U- eller CUE-filen din samsvarer med de faktiske filplasseringene.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Kan jeg importere flere spillelister samtidig?" closed="true" %}}
+{{% ls-details title="Kan jeg importere flere spillelister samtidig?" closed="true" %}}
 Ja. Bruk knappen Flere handlinger og velg "Importer spillelister fra en mappe." Appen skanner mappen for alle støttede spillelistefiler og importerer dem i ett trinn.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Må jeg opprette spillelister manuelt?" closed="true" %}}
+{{% ls-details title="Må jeg opprette spillelister manuelt?" closed="true" %}}
 Nei. Importfunksjonen eliminerer manuell oppretting av spillelister. Bare pek appen til din eksisterende M3U-, M3U8- eller CUE-fil, og den bygger spillelisten automatisk.
-{{% /details %}}
+{{% /ls-details %}}

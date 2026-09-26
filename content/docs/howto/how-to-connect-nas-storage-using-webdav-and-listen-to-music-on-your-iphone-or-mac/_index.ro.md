@@ -7,7 +7,7 @@ tags: ["muzică", "streaming", "stocare", "nas", "conectare", "webdav"]
 readingTime: 2
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **Pe scurt:** Instalează și activează WebDAV pe Synology NAS, configurează permisiunile folderului partajat, apoi conectează-te din Evermusic sau Flacbox folosind adresa IP a NAS-ului și portul WebDAV (implicit 5005/5006). Poți transmite și gestiona întreaga bibliotecă muzicală fără să copiezi fișiere pe dispozitiv.
@@ -87,22 +87,22 @@ Urmând acești pași, poți configura cu ușurință o conexiune WebDAV pe Syno
 
 ## Întrebări frecvente
 
-{{% details title="Ce dispozitive NAS suportă WebDAV?" closed="true" %}}
+{{% ls-details title="Ce dispozitive NAS suportă WebDAV?" closed="true" %}}
 Majoritatea brandurilor populare de NAS suportă WebDAV, inclusiv Synology, QNAP, TrueNAS și Western Digital. Verifică documentația producătorului NAS-ului tău pentru instrucțiuni de configurare WebDAV.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Care este diferența dintre WebDAV și SMB pentru streaming de muzică de pe NAS?" closed="true" %}}
+{{% ls-details title="Care este diferența dintre WebDAV și SMB pentru streaming de muzică de pe NAS?" closed="true" %}}
 WebDAV funcționează prin HTTP/HTTPS și este mai potrivit pentru acces la distanță prin internet. SMB este de obicei mai rapid pe rețelele locale. Evermusic și Flacbox suportă ambele protocoale, deci alege în funcție de necesitatea accesului local sau la distanță.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Am nevoie de nume de utilizator și parolă pentru WebDAV pe Synology?" closed="true" %}}
+{{% ls-details title="Am nevoie de nume de utilizator și parolă pentru WebDAV pe Synology?" closed="true" %}}
 Nu, dacă activezi accesul anonim WebDAV și configurezi permisiunile de oaspete pe folderul partajat. Pentru o securitate mai bună, poți folosi credențialele Synology.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Pot transmite FLAC și alte formate de înaltă rezoluție de pe NAS prin WebDAV?" closed="true" %}}
+{{% ls-details title="Pot transmite FLAC și alte formate de înaltă rezoluție de pe NAS prin WebDAV?" closed="true" %}}
 Da. Atât Evermusic, cât și Flacbox suportă FLAC, ALAC, WAV, DSD și alte formate de înaltă rezoluție la transmiterea de pe stocarea NAS prin WebDAV.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="De ce aplicația nu poate găsi NAS-ul meu în Dispozitive disponibile?" closed="true" %}}
+{{% ls-details title="De ce aplicația nu poate găsi NAS-ul meu în Dispozitive disponibile?" closed="true" %}}
 Asigură-te că iPhone-ul/Mac-ul și NAS-ul sunt pe aceeași rețea Wi-Fi. Dacă descoperirea automată nu funcționează, folosește opțiunea de conexiune manuală și introdu adresa IP a NAS-ului și portul WebDAV direct.
-{{% /details %}}
+{{% /ls-details %}}

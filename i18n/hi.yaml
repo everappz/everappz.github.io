@@ -186,3 +186,5 @@ everdiskFeatAdvancedServerSettings: "उन्नत सर्वर सेट�
 everdiskFeatSMB3Encryption: "SMB3 एन्क्रिप्शन"
 everdiskFeatAutomaticSharing: "स्वचालित साझाकरण"
 everdiskFeatDevicePersonalization: "डिवाइस वैयक्तिकरण"
+
+searchDocsPlaceholder: "दस्तावेज़, अक्सर पूछे जाने वाले प्रश्न और गाइड खोजें…"

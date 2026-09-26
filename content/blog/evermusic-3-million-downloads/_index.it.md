@@ -12,7 +12,7 @@ authors:
     image: "/images/about/artem-meleshko-founder-everappz.webp"
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 ## 3 milioni di download
 
@@ -98,22 +98,22 @@ Evermusic è gratuito sull'App Store con funzionalità premium opzionali.
 
 ## Domande frequenti
 
-{{% details title="Evermusic è gratuito?" closed="true" %}}
+{{% ls-details title="Evermusic è gratuito?" closed="true" %}}
 Sì. Evermusic è gratuito da scaricare con le funzionalità di base disponibili senza costi. Le funzionalità premium come l'equalizzatore e le opzioni cloud avanzate sono disponibili tramite un upgrade opzionale.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Evermusic può riprodurre audiolibri?" closed="true" %}}
+{{% ls-details title="Evermusic può riprodurre audiolibri?" closed="true" %}}
 Sì. Evermusic salva la posizione di riproduzione, supporta segnalibri, velocità di riproduzione regolabile (da 0,5x a 2,0x) e timer di spegnimento, rendendolo adatto per audiolibri e podcast.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="A quali servizi cloud si collega Evermusic?" closed="true" %}}
+{{% ls-details title="A quali servizi cloud si collega Evermusic?" closed="true" %}}
 Dropbox, Google Drive, OneDrive, Box, MEGA, Yandex.Disk, MyDrive, pCloud, HiDrive, condivisioni file SMB e server WebDAV.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Posso usare una scheda SD con Evermusic?" closed="true" %}}
+{{% ls-details title="Posso usare una scheda SD con Evermusic?" closed="true" %}}
 Sì. Collega un lettore di schede SD Lightning o USB-C al tuo iPhone o iPad e ascolta musica in streaming direttamente dalla scheda tramite Evermusic.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Evermusic funziona su Mac?" closed="true" %}}
+{{% ls-details title="Evermusic funziona su Mac?" closed="true" %}}
 Sì. Evermusic è disponibile sia per iOS che per macOS, con streaming cloud e riproduzione offline su tutte le piattaforme.
-{{% /details %}}
+{{% /ls-details %}}

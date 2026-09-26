@@ -15,7 +15,7 @@ readingTime: 11
 På den här skärmen kan du ansluta olika källor som innehåller dina ljudfiler. Du kan integrera populära molntjänster som Google Drive, Dropbox, OneDrive, iCloud och andra, samt ansluta din Mac eller PC. Dessutom har du möjlighet att redigera ljudfiler som finns på Apple Time Capsule, WD Cloud Home eller valfri NAS som stödjer SMB eller WebDAV.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evertag Anslutningsskärm" image="/docs/guide/evertag/img/connections.webp" >}}
+  {{< ls-card title="" subtitle="Evertag Anslutningsskärm" image="/docs/guide/evertag/img/connections.webp" >}}
 {{< /cards >}}
 
 ## Snabbåtkomst
@@ -151,7 +151,7 @@ Här är en genomgång av dessa åtgärder:
 - **Rutnät-/listvy**: Växla mellan två visningslägen: tabellvy och miniatyrvy. Tabellvyn presenterar filer i en lista, medan miniatyrvyn visar visuella representationer av filerna, vilket gör det lättare att identifiera innehåll på en blick.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evertag Molnmappssortering" image="/docs/guide/evertag/img/cloud-storage-sort.webp" >}}
+  {{< ls-card title="" subtitle="Evertag Molnmappssortering" image="/docs/guide/evertag/img/cloud-storage-sort.webp" >}}
 {{< /cards >}}
 
 ## Redigera onlinefiler
@@ -163,7 +163,7 @@ När du behöver hantera flera filer i din molnlagring i den här appen kan du a
 - **Utför olika åtgärder**: När du har valt de filer eller mappar du vill hantera, har du tillgång till flera åtgärder anpassade efter dina behov:
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evertag Filval" image="/docs/guide/evertag/img/cloud-storage-file-select.webp" >}}
+  {{< ls-card title="" subtitle="Evertag Filval" image="/docs/guide/evertag/img/cloud-storage-file-select.webp" >}}
 {{< /cards >}}
 
 ## Filåtgärder
@@ -180,7 +180,7 @@ Tryck på den för att visa en lista med tillgängliga åtgärder:
 - **Ta bort**: Var försiktig med den här åtgärden, eftersom den permanent tar bort filen från din molnlagring. **Borttagningen kan inte ångras**.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evertag Filalternativ" image="/docs/guide/evertag/img/cloud-storage-file-options.webp" >}}
+  {{< ls-card title="" subtitle="Evertag Filalternativ" image="/docs/guide/evertag/img/cloud-storage-file-options.webp" >}}
 {{< /cards >}}
 
 Om listan med åtgärder överstiger det tillgängliga skärmutrymmet, rulla helt enkelt nedåt i åtgärdsmenyn för att komma åt ytterligare alternativ.
@@ -196,5 +196,5 @@ För varje mapp i din molnlagring har du olika åtgärder tillgängliga. För at
 - **Ta bort**: Var försiktig med den här åtgärden, eftersom den permanent tar bort mappen och dess innehåll från din molnlagring. **Åtgärden kan inte ångras**.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evertag Mappalternativ" image="/docs/guide/evertag/img/cloud-storage-folder-options.webp" >}}
+  {{< ls-card title="" subtitle="Evertag Mappalternativ" image="/docs/guide/evertag/img/cloud-storage-folder-options.webp" >}}
 {{< /cards >}}

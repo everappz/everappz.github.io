@@ -8,7 +8,7 @@ readingTime: 5
 ---
 
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **요약:** Evermusic 또는 Flacbox에서 청취 기록을 CSV 파일로 내보낸 다음 Windows에서 무료 Last.fm-Scrubbler-WPF 도구를 사용하여 Last.fm에 업로드하세요. 자동 스크로블링도 두 앱에서 기본적으로 사용할 수 있습니다.
@@ -135,22 +135,22 @@ Evermusic 앱에서 이전에 생성된 CSV 파일을 'File:' 필드에서 선�
 
 ## 자주 묻는 질문
 
-{{% details title="CSV 파일을 내보내지 않고 자동으로 스크로블할 수 있나요?" closed="true" %}}
+{{% ls-details title="CSV 파일을 내보내지 않고 자동으로 스크로블할 수 있나요?" closed="true" %}}
 네. Evermusic과 Flacbox 모두 이제 자동 Last.fm 스크로블링을 지원합니다. 가이드를 참조하세요: [Last.fm에 스크로블하는 방법](/docs/howto/how-to-scrobble-your-music-history-from-evermusic-or-flacbox-to-last-fm).
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="CSV에 14일 이상 된 트랙이 있으면 어떻게 하나요?" closed="true" %}}
+{{% ls-details title="CSV에 14일 이상 된 트랙이 있으면 어떻게 하나요?" closed="true" %}}
 Last.fm-Scrubbler-WPF에서 가져오기 모드를 사용하세요. 종료 시간에서 타임스탬프를 재계산하여 원래 날짜에 관계없이 트랙을 스크로블할 수 있습니다.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Windows 컴퓨터가 없습니다. Last.fm-Scrubbler를 사용할 수 있나요?" closed="true" %}}
+{{% ls-details title="Windows 컴퓨터가 없습니다. Last.fm-Scrubbler를 사용할 수 있나요?" closed="true" %}}
 네. Mac에 VirtualBox를 설치하고 Microsoft에서 무료 Windows 개발 환경 이미지를 다운로드하세요. 가상 머신 내에서 Last.fm-Scrubbler-WPF를 실행하세요.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="일부 스크로블이 구문 분석되지 않는 이유는 무엇인가요?" closed="true" %}}
+{{% ls-details title="일부 스크로블이 구문 분석되지 않는 이유는 무엇인가요?" closed="true" %}}
 필수 메타데이터(예: 아티스트 이름)가 누락된 트랙은 구문 분석할 수 없습니다. 이는 예상된 것이며 파일의 다른 트랙에는 영향을 미치지 않습니다.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="일일 스크로블 제한이 있나요?" closed="true" %}}
+{{% ls-details title="일일 스크로블 제한이 있나요?" closed="true" %}}
 네. Last.fm-Scrubbler-WPF는 하루 최대 2,800 스크로블을 허용합니다. 더 많이 스크로블해야 하는 경우 프로세스를 여러 날에 나누세요.
-{{% /details %}}
+{{% /ls-details %}}

@@ -11,7 +11,7 @@ readingTime: 3
 Evervideo cung cấp cả phiên bản miễn phí với một số giới hạn sử dụng và phiên bản Premium với các tính năng bổ sung, có thể mở khóa thông qua mua hàng trong ứng dụng.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Màn hình nâng cấp gói mặc định" image="/docs/faq/evervideo/what-is-the-difference-between-evervideo-and-evervideo-premium/upgrade-default.webp" >}}
+  {{< ls-card title="" subtitle="Màn hình nâng cấp gói mặc định" image="/docs/faq/evervideo/what-is-the-difference-between-evervideo-and-evervideo-premium/upgrade-default.webp" >}}
 {{< /cards >}}
 
 ## Chọn gói Premium của bạn
@@ -19,7 +19,7 @@ Evervideo cung cấp cả phiên bản miễn phí với một số giới hạn
 Phiên bản miễn phí của ứng dụng cung cấp mua hàng vĩnh viễn một lần trong ứng dụng và hai tùy chọn đăng ký (1 tháng và 1 năm) để xóa tất cả các hạn chế và nâng cấp lên phiên bản Premium, cho phép bạn chọn mức giá tốt nhất và tối ưu nhất cho bạn. Giá có thể thay đổi tùy thuộc vào quốc gia hoặc lãnh thổ của bạn. Ngoài ra, hãy nhớ rằng **Family Sharing** được bật cho tất cả các mua hàng và gói, vì vậy bạn có thể chia sẻ phiên bản Premium với các thành viên trong gia đình.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Màn hình chọn gói Evervideo" image="/docs/faq/evervideo/what-is-the-difference-between-evervideo-and-evervideo-premium/plan-select.webp" >}}
+  {{< ls-card title="" subtitle="Màn hình chọn gói Evervideo" image="/docs/faq/evervideo/what-is-the-difference-between-evervideo-and-evervideo-premium/plan-select.webp" >}}
 {{< /cards >}}
 
 ## Chia sẻ mua hàng giữa iOS và Mac
@@ -31,13 +31,13 @@ Bạn cũng có thể thử nhấn nút 'Khôi phục mua hàng' trong cài đ�
 Để khôi phục mua hàng trên thiết bị mới, chỉ cần sử dụng menu 'Khôi phục mua hàng'. Bạn sẽ thấy danh sách mua hàng của mình. Nếu bạn không thấy tất cả mua hàng, hãy kiểm tra xem thiết bị có được kết nối với cùng tài khoản iTunes được sử dụng để mua hàng không, và đảm bảo iCloud được bật.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Màn hình mua hàng đã khôi phục" image="/docs/faq/evervideo/what-is-the-difference-between-evervideo-and-evervideo-premium/purchase-restored.webp" >}}
+  {{< ls-card title="" subtitle="Màn hình mua hàng đã khôi phục" image="/docs/faq/evervideo/what-is-the-difference-between-evervideo-and-evervideo-premium/purchase-restored.webp" >}}
 {{< /cards >}}
 
 Sau khi nâng cấp ứng dụng, bạn sẽ thấy màn hình trạng thái Premium với chi tiết về mua hàng hiện tại của bạn.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Màn hình bạn đang dùng Premium" image="/docs/faq/evervideo/what-is-the-difference-between-evervideo-and-evervideo-premium/you-are-using-premium.webp" >}}
+  {{< ls-card title="" subtitle="Màn hình bạn đang dùng Premium" image="/docs/faq/evervideo/what-is-the-difference-between-evervideo-and-evervideo-premium/you-are-using-premium.webp" >}}
 {{< /cards >}}
 
 ## Dùng thử Premium miễn phí
@@ -45,7 +45,7 @@ Sau khi nâng cấp ứng dụng, bạn sẽ thấy màn hình trạng thái Pre
 Ngoài ra, có cơ hội có giới hạn thời gian để '**Dùng thử Premium miễn phí**'. Bạn có thể truy cập tính năng này qua menu 'Dùng thử Premium miễn phí'. Chỉ cần xem một quảng cáo hoặc giới thiệu ứng dụng với bạn bè, bạn có thể mở khóa phiên bản Premium miễn phí trong giai đoạn khuyến mãi này. Điều này cung cấp cho bạn cơ hội trải nghiệm các tính năng Premium mà không có cam kết tài chính.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Màn hình dùng thử Premium miễn phí" image="/docs/faq/evervideo/what-is-the-difference-between-evervideo-and-evervideo-premium/premium-for-free.webp" >}}
+  {{< ls-card title="" subtitle="Màn hình dùng thử Premium miễn phí" image="/docs/faq/evervideo/what-is-the-difference-between-evervideo-and-evervideo-premium/premium-for-free.webp" >}}
 {{< /cards >}}
 
 ## Evervideo Miễn phí
@@ -62,7 +62,7 @@ Ngoài ra, có cơ hội có giới hạn thời gian để '**Dùng thử Premi
 - Không có tùy chọn tùy chỉnh hoặc cá nhân hóa.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Màn hình nâng cấp lưu trữ đám mây" image="/docs/faq/evervideo/what-is-the-difference-between-evervideo-and-evervideo-premium/upgrade-cloud-storage.webp" >}}
+  {{< ls-card title="" subtitle="Màn hình nâng cấp lưu trữ đám mây" image="/docs/faq/evervideo/what-is-the-difference-between-evervideo-and-evervideo-premium/upgrade-cloud-storage.webp" >}}
 {{< /cards >}}
 
 ## Evervideo Premium
@@ -106,7 +106,7 @@ Nếu bạn mới bắt đầu hoặc chỉ cần các tính năng phát lại v
 Mặt khác, **Evervideo Premium** mở khóa trải nghiệm đầy đủ. Bạn sẽ thích giao diện không quảng cáo, hỗ trợ danh sách phát và hàng đợi không giới hạn, chức năng ngoại tuyến đầy đủ, linh hoạt đám mây và các tùy chọn xuất và cá nhân hóa nâng cao. Đây là lựa chọn tốt nhất cho người dùng có thư viện video lớn, những người xem nội dung từ nhiều nguồn, hoặc bất kỳ ai đang tìm kiếm trình phát media chuyên nghiệp và liền mạch hơn.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Màn hình bạn đã mua Premium" image="/docs/faq/evervideo/what-is-the-difference-between-evervideo-and-evervideo-premium/you-have-purchased-premium.webp" >}}
+  {{< ls-card title="" subtitle="Màn hình bạn đã mua Premium" image="/docs/faq/evervideo/what-is-the-difference-between-evervideo-and-evervideo-premium/you-have-purchased-premium.webp" >}}
 {{< /cards >}}
 
 Nếu bạn muốn linh hoạt, hãy thử **gói hàng tháng**. Để có giá trị lâu dài, hãy chọn **hàng năm** hoặc nâng cấp **vĩnh viễn** — cả hai đều cung cấp quyền truy cập đầy đủ với giá tốt hơn.

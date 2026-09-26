@@ -12,7 +12,7 @@ authors:
     image: "/images/about/artem-meleshko-founder-everappz.webp"
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 ## Evermusic 3.1: què ha canviat i per què importa
 
@@ -89,22 +89,22 @@ L'**Editor d'etiquetes d'àudio** ara gestiona la correcció de metadades de man
 
 ## Preguntes freqüents
 
-{{% details title="Què és la reproducció amb crossfade a Evermusic?" closed="true" %}}
+{{% ls-details title="Què és la reproducció amb crossfade a Evermusic?" closed="true" %}}
 La reproducció amb crossfade barreja el final d'una pista amb l'inici de la següent, creant transicions fluides. Podeu configurar la durada entre 3 i 15 segons a Settings → Audio Player → Crossfade Playback.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Puc fer còpia de seguretat de les meves llistes de reproducció d'Evermusic a l'emmagatzematge al núvol?" closed="true" %}}
+{{% ls-details title="Puc fer còpia de seguretat de les meves llistes de reproducció d'Evermusic a l'emmagatzematge al núvol?" closed="true" %}}
 Sí. Evermusic 3.1 us permet fer còpia de seguretat de tota la vostra biblioteca — incloent llistes de reproducció, metadades, caràtules i configuracions — a qualsevol servei al núvol connectat com un únic fitxer.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Evermusic admet la navegació per la biblioteca iPod?" closed="true" %}}
+{{% ls-details title="Evermusic admet la navegació per la biblioteca iPod?" closed="true" %}}
 Sí. Podeu navegar per la vostra biblioteca iPod per llistes de reproducció, àlbums, artistes i gèneres directament des de la pantalla principal d'Evermusic i afegir pistes a la cua.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Com puc corregir etiquetes de cançons incorrectes a Evermusic?" closed="true" %}}
+{{% ls-details title="Com puc corregir etiquetes de cançons incorrectes a Evermusic?" closed="true" %}}
 Utilitzeu l'Editor d'etiquetes integrat i toqueu l'acció Identificar. Evermusic escaneja els noms dels vostres fitxers i actualitza les etiquetes ID3 amb metadades corregides automàticament.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Quins serveis al núvol admet Evermusic?" closed="true" %}}
+{{% ls-details title="Quins serveis al núvol admet Evermusic?" closed="true" %}}
 Evermusic funciona amb Dropbox, Google Drive, OneDrive, MEGA, Box, Yandex.Disk, WebDAV, SMB/CIFS i servidors FTP.
-{{% /details %}}
+{{% /ls-details %}}

@@ -12,7 +12,7 @@ authors:
     image: "/images/about/artem-meleshko-founder-everappz.webp"
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 ## 3 miliony pobrań
 
@@ -98,22 +98,22 @@ Evermusic jest darmowy w App Store z opcjonalnymi funkcjami premium.
 
 ## Najczęściej zadawane pytania
 
-{{% details title="Czy Evermusic jest darmowy?" closed="true" %}}
+{{% ls-details title="Czy Evermusic jest darmowy?" closed="true" %}}
 Tak. Evermusic jest darmowy do pobrania z podstawowymi funkcjami dostępnymi bezpłatnie. Funkcje premium, takie jak korektor i zaawansowane opcje chmury, są dostępne poprzez opcjonalną aktualizację.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Czy Evermusic może odtwarzać audiobooki?" closed="true" %}}
+{{% ls-details title="Czy Evermusic może odtwarzać audiobooki?" closed="true" %}}
 Tak. Evermusic zapisuje pozycję odtwarzania, obsługuje zakładki, regulowaną prędkość odtwarzania (0,5x do 2,0x) i wyłączniki czasowe — co czyni go odpowiednim do audiobooków i podcastów.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Z jakimi usługami chmurowymi łączy się Evermusic?" closed="true" %}}
+{{% ls-details title="Z jakimi usługami chmurowymi łączy się Evermusic?" closed="true" %}}
 Dropbox, Google Drive, OneDrive, Box, MEGA, Yandex.Disk, MyDrive, pCloud, HiDrive, udziały plików SMB i serwery WebDAV.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Czy mogę używać karty SD z Evermusic?" closed="true" %}}
+{{% ls-details title="Czy mogę używać karty SD z Evermusic?" closed="true" %}}
 Tak. Podłącz czytnik kart SD Lightning lub USB-C do iPhone lub iPad i strumieniuj muzykę bezpośrednio z karty przez Evermusic.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Czy Evermusic działa na Macu?" closed="true" %}}
+{{% ls-details title="Czy Evermusic działa na Macu?" closed="true" %}}
 Tak. Evermusic jest dostępny zarówno na iOS, jak i macOS, ze strumieniowaniem z chmury i odtwarzaniem offline na wszystkich platformach.
-{{% /details %}}
+{{% /ls-details %}}

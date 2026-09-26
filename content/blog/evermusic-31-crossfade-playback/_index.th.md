@@ -12,7 +12,7 @@ authors:
     image: "/images/about/artem-meleshko-founder-everappz.webp"
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 ## Evermusic 3.1: มีอะไรเปลี่ยนแปลงและทำไมจึงสำคัญ
 
@@ -89,22 +89,22 @@ Crossfade กำจัดความเงียบระหว่างแท�
 
 ## คำถามที่พบบ่อย
 
-{{% details title="การเล่น crossfade ใน Evermusic คืออะไร?" closed="true" %}}
+{{% ls-details title="การเล่น crossfade ใน Evermusic คืออะไร?" closed="true" %}}
 การเล่น crossfade ผสมผสานตอนจบของแทร็กหนึ่งเข้ากับตอนเริ่มต้นของแทร็กถัดไป สร้างการเปลี่ยนแปลงที่ราบรื่น คุณสามารถตั้งระยะเวลาระหว่าง 3 ถึง 15 วินาทีใน Settings → Audio Player → Crossfade Playback
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="ฉันสามารถสำรองเพลย์ลิสต์ Evermusic ไปยังคลาวด์สตอเรจได้หรือไม่?" closed="true" %}}
+{{% ls-details title="ฉันสามารถสำรองเพลย์ลิสต์ Evermusic ไปยังคลาวด์สตอเรจได้หรือไม่?" closed="true" %}}
 ได้ Evermusic 3.1 ให้คุณสำรองคลังทั้งหมด — รวมถึงเพลย์ลิสต์ เมตาดาต้า ภาพปก และการตั้งค่า — ไปยังบริการคลาวด์ที่เชื่อมต่อใดก็ได้เป็นไฟล์เดียว
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Evermusic รองรับการเรียกดูคลัง iPod หรือไม่?" closed="true" %}}
+{{% ls-details title="Evermusic รองรับการเรียกดูคลัง iPod หรือไม่?" closed="true" %}}
 รองรับ คุณสามารถเรียกดูคลัง iPod ตามเพลย์ลิสต์ อัลบั้ม ศิลปิน และแนวเพลงโดยตรงจากหน้าจอหลัก Evermusic และเพิ่มแทร็กไปยังคิวของคุณ
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="ฉันจะแก้ไขแท็กเพลงที่ไม่ถูกต้องใน Evermusic ได้อย่างไร?" closed="true" %}}
+{{% ls-details title="ฉันจะแก้ไขแท็กเพลงที่ไม่ถูกต้องใน Evermusic ได้อย่างไร?" closed="true" %}}
 ใช้ Tags Editor ในตัวแล้วแตะการดำเนินการ Identify Evermusic จะสแกนชื่อไฟล์ของคุณและอัปเดตแท็ก ID3 ด้วยเมตาดาต้าที่แก้ไขแล้วโดยอัตโนมัติ
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Evermusic รองรับบริการคลาวด์ใดบ้าง?" closed="true" %}}
+{{% ls-details title="Evermusic รองรับบริการคลาวด์ใดบ้าง?" closed="true" %}}
 Evermusic ใช้งานได้กับ Dropbox, Google Drive, OneDrive, MEGA, Box, Yandex.Disk, WebDAV, SMB/CIFS และเซิร์ฟเวอร์ FTP
-{{% /details %}}
+{{% /ls-details %}}

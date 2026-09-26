@@ -7,7 +7,7 @@ tags: ["evermusic", "flacbox", "cloud", "fișier", "cont", "manager", "conectare
 keywords: ["conectare serviciu cloud la Evermusic", "încărcare fișiere în Google Drive", "integrare cloud Flacbox", "utilizare OneDrive cu Evermusic", "acces fișiere cloud Evertag", "conectare Dropbox la player muzică iOS", "manager fișiere pentru servicii cloud"]
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **Pe scurt:** Încărcați fișierele de muzică sau media în orice serviciu cloud acceptat (Google Drive, Dropbox, OneDrive și altele), apoi conectați serviciul respectiv în Evermusic, Flacbox sau Evertag pentru a transmite sau descărca fișierele direct pe iPhone, iPad sau Mac.
@@ -76,38 +76,38 @@ Spuneți adio limitărilor de stocare și bun venit comodității!
 
 ## Întrebări frecvente
 
-{{% details title="Ce servicii cloud sunt acceptate?" closed="true" %}}
+{{% ls-details title="Ce servicii cloud sunt acceptate?" closed="true" %}}
 Evermusic, Flacbox și Evertag acceptă Google Drive, Dropbox, OneDrive, Box, MediaFire, Yandex.Disk, MEGA, MyDrive, pCloud și alți furnizori cloud. De asemenea, puteți conecta servere personalizate WebDAV, SMB și FTP.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Pot transmite muzica direct din cloud fără a o descărca?" closed="true" %}}
+{{% ls-details title="Pot transmite muzica direct din cloud fără a o descărca?" closed="true" %}}
 Da. Toate cele trei aplicații acceptă transmiterea fișierelor audio direct din stocarea cloud conectată. De asemenea, puteți descărca fișiere pentru redare offline când nu aveți acces la internet.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Există o limită de dimensiune a fișierelor sau de stocare în aplicație?" closed="true" %}}
+{{% ls-details title="Există o limită de dimensiune a fișierelor sau de stocare în aplicație?" closed="true" %}}
 Aplicațiile nu impun propriile limite de dimensiune a fișierelor sau de stocare. Spațiul de stocare disponibil depinde de planul serviciului dvs. cloud și de stocarea locală a dispozitivului pentru fișierele descărcate.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Pot conecta mai multe conturi cloud în același timp?" closed="true" %}}
+{{% ls-details title="Pot conecta mai multe conturi cloud în același timp?" closed="true" %}}
 Da. Puteți conecta mai multe servicii cloud și mai multe conturi de la același furnizor simultan. Toate conturile conectate apar în fila Conexiuni pentru comutare ușoară.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Trebuie să reîncarc fișierele dacă trec la o altă aplicație?" closed="true" %}}
+{{% ls-details title="Trebuie să reîncarc fișierele dacă trec la o altă aplicație?" closed="true" %}}
 Nu. Deoarece fișierele dvs. sunt stocate în cloud, puteți conecta același cont cloud la Evermusic, Flacbox sau Evertag fără a reîncărca nimic. Fiecare aplicație accesează aceleași fișiere din stocarea dvs. cloud.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Datele contului meu cloud sunt în siguranță?" closed="true" %}}
+{{% ls-details title="Datele contului meu cloud sunt în siguranță?" closed="true" %}}
 Da. Aplicația folosește doar SDK-uri oficiale și conexiuni criptate pentru a interacționa cu serviciile cloud. Datele dvs. de autentificare și parola nu sunt niciodată stocate de aplicație. Când vă autentificați, aplicația afișează pagina oficială de autorizare furnizată de serviciul cloud. După autorizarea cu succes, furnizorul cloud trimite un token de autorizare aplicației, care este stocat în siguranță în Keychain-ul dispozitivului. Acest token este utilizat pentru toate solicitările API.<br><br>
 Aplicația nu partajează nicio informație din contul dvs. cloud. Puteți revoca accesul oricând din pagina de setări a contului cloud într-un browser web sau puteți deconecta contul din aplicație.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Cum deconectez un serviciu cloud sau îi modific configurația?" closed="true" %}}
+{{% ls-details title="Cum deconectez un serviciu cloud sau îi modific configurația?" closed="true" %}}
 Localizați stocarea cloud în fila Conexiuni a aplicației și apăsați butonul **...** de lângă aceasta. Veți vedea aceste opțiuni:<br>
 - **Redenumire** -- schimbați numele afișat al serviciului cloud<br>
 - **Setări** -- modificați configurația sau reautorizați dacă token-ul a expirat<br>
 - **Deconectare** -- eliminați conexiunea complet. Aceasta elimină toate melodiile din acest serviciu cloud din biblioteca muzicală a aplicației, dar fișierele rămân pe server
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Cum revoc accesul aplicației la contul meu cloud?" closed="true" %}}
+{{% ls-details title="Cum revoc accesul aplicației la contul meu cloud?" closed="true" %}}
 Autentificați-vă în contul dvs. cloud într-un browser web și deschideți pagina de setări a contului sau de securitate. Găsiți lista de aplicații terțe conectate și eliminați aplicația pe care nu mai doriți să o autorizați. De asemenea, puteți deconecta contul cloud din aplicație -- aceasta elimină token-ul de autorizare de pe dispozitivul dvs. Dacă ștergeți complet aplicația, toate datele descărcate și token-urile de acces sunt eliminate automat.
-{{% /details %}}
+{{% /ls-details %}}

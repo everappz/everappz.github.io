@@ -7,7 +7,7 @@ tags: ["evermusic", "الاتصال", "bluesound vault"]
 readingTime: 1
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **ملخص:** اتصل بوحدة التخزين الداخلية لجهاز Bluesound VAULT عبر SMB باستخدام Evermusic أو Flacbox أو Evertag. ابحث عن عنوان IP الخاص بجهاز VAULT في تطبيق BluOS، وأدخله كاتصال SMB مع وصول الضيف، وابدأ تشغيل ملفات الموسيقى أو إدارتها.
@@ -58,18 +58,18 @@ readingTime: 1
 
 ## الأسئلة الشائعة
 
-{{% details title="هل أحتاج إلى اسم مستخدم وكلمة مرور للاتصال بجهاز Bluesound VAULT؟" closed="true" %}}
+{{% ls-details title="هل أحتاج إلى اسم مستخدم وكلمة مرور للاتصال بجهاز Bluesound VAULT؟" closed="true" %}}
 لا. يدعم Bluesound VAULT الوصول كضيف (مجهول) عبر SMB. اترك حقلي تسجيل الدخول وكلمة المرور فارغين عند إعداد الاتصال.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="هل يمكنني تحرير علامات الموسيقى على Bluesound VAULT؟" closed="true" %}}
+{{% ls-details title="هل يمكنني تحرير علامات الموسيقى على Bluesound VAULT؟" closed="true" %}}
 نعم. باستخدام Evertag، يمكنك تحرير علامات البيانات الوصفية (العنوان، الفنان، الألبوم، إلخ) لملفات الصوت المخزنة مباشرة على القرص الصلب الداخلي لجهاز VAULT.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="ما البروتوكولات التي يدعمها Bluesound VAULT؟" closed="true" %}}
+{{% ls-details title="ما البروتوكولات التي يدعمها Bluesound VAULT؟" closed="true" %}}
 يكشف Bluesound VAULT عن تخزينه الداخلي عبر SMB (Server Message Block). تدعم Evermusic وFlacbox وEvertag جميعها اتصالات SMB، مما يجعل الاتصال سهلاً.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="هل يمكنني بث الموسيقى من VAULT دون نسخ الملفات إلى iPhone؟" closed="true" %}}
+{{% ls-details title="هل يمكنني بث الموسيقى من VAULT دون نسخ الملفات إلى iPhone؟" closed="true" %}}
 نعم. بمجرد الاتصال عبر SMB، يمكنك بث ملفات الصوت مباشرة من محرك الأقراص الداخلي لجهاز VAULT دون نسخها إلى جهازك.
-{{% /details %}}
+{{% /ls-details %}}

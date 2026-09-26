@@ -15,7 +15,7 @@ readingTime: 11
 この画面では、オーディオファイルを含むさまざまなソースを接続できます。Google Drive、Dropbox、OneDrive、iCloudなどの人気クラウドサービスを統合したり、MacやPCを接続したりできます。さらに、Apple Time Capsule、WD Cloud Home、またはSMBやWebDAVをサポートするNAS上のオーディオファイルを編集することもできます。
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evertag 接続画面" image="/docs/guide/evertag/img/connections.webp" >}}
+  {{< ls-card title="" subtitle="Evertag 接続画面" image="/docs/guide/evertag/img/connections.webp" >}}
 {{< /cards >}}
 
 ## クイックアクセス
@@ -151,7 +151,7 @@ SDカードまたはUSBスティックがある場合は、iPhone/iPadでLightni
 - **グリッド/リスト表示**：テーブルビューとサムネイルビューの2つの表示モードを切り替えます。
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evertagクラウドフォルダー並び替え" image="/docs/guide/evertag/img/cloud-storage-sort.webp" >}}
+  {{< ls-card title="" subtitle="Evertagクラウドフォルダー並び替え" image="/docs/guide/evertag/img/cloud-storage-sort.webp" >}}
 {{< /cards >}}
 
 ## オンラインファイルの編集
@@ -163,7 +163,7 @@ SDカードまたはUSBスティックがある場合は、iPhone/iPadでLightni
 - **さまざまなアクションの実行**：管理したいファイルまたはフォルダーを選択したら、いくつかのアクションにアクセスできます：
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evertagファイル選択" image="/docs/guide/evertag/img/cloud-storage-file-select.webp" >}}
+  {{< ls-card title="" subtitle="Evertagファイル選択" image="/docs/guide/evertag/img/cloud-storage-file-select.webp" >}}
 {{< /cards >}}
 
 ## ファイルアクション
@@ -180,7 +180,7 @@ SDカードまたはUSBスティックがある場合は、iPhone/iPadでLightni
 - **削除する**：このアクションには注意が必要です。クラウドストレージからファイルを永久に削除します。**この削除は元に戻せません**。
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evertagファイルオプション" image="/docs/guide/evertag/img/cloud-storage-file-options.webp" >}}
+  {{< ls-card title="" subtitle="Evertagファイルオプション" image="/docs/guide/evertag/img/cloud-storage-file-options.webp" >}}
 {{< /cards >}}
 
 アクションのリストが画面スペースを超える場合は、アクションメニュー内を下にスクロールして追加オプションにアクセスします。
@@ -196,5 +196,5 @@ SDカードまたはUSBスティックがある場合は、iPhone/iPadでLightni
 - **削除する**：このアクションには注意が必要です。クラウドストレージからフォルダーとその内容を永久に削除します。**このアクションは元に戻せません**。
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evertagフォルダーオプション" image="/docs/guide/evertag/img/cloud-storage-folder-options.webp" >}}
+  {{< ls-card title="" subtitle="Evertagフォルダーオプション" image="/docs/guide/evertag/img/cloud-storage-folder-options.webp" >}}
 {{< /cards >}}

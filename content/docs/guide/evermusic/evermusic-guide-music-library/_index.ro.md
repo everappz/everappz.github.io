@@ -15,7 +15,7 @@ readingTime: 11
 Gestionarea bibliotecii muzicale este simplă cu Evermusic, unde puteți organiza fără efort toate melodiile dvs. Aveți două opțiuni pentru construirea bibliotecii muzicale: adăugare manuală sau sincronizare automată.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Ecranul Bibliotecii Muzicale Evermusic" image="/docs/guide/evermusic/evermusic-guide-music-library/img/music-library-main.webp" >}}
+  {{< ls-card title="" subtitle="Ecranul Bibliotecii Muzicale Evermusic" image="/docs/guide/evermusic/evermusic-guide-music-library/img/music-library-main.webp" >}}
 {{< /cards >}}
 
 ## Adăugare Manuală
@@ -23,7 +23,7 @@ Gestionarea bibliotecii muzicale este simplă cu Evermusic, unde puteți organiz
 Pentru a adăuga manual melodii, atingeți elementul de meniu "Adaugă muzică" și selectați foldere/fișiere din serviciul de stocare cloud conectat sau fișiere localizate pe dispozitivul dvs. Când adăugați melodii în bibliotecă, sunt create doar link-uri către acele melodii, păstrând fișierele reale în locațiile lor originale pentru a economisi spațiu pe disc. Dacă doriți să faceți melodiile disponibile offline, puteți folosi acțiunea de descărcare din meniul de opțiuni sau activa modul offline pentru liste de redare și colecții de melodii.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Adăugați Melodii în Biblioteca Muzicală" image="/docs/guide/evermusic/evermusic-guide-music-library/img/music-library-add-songs.webp" >}}
+  {{< ls-card title="" subtitle="Adăugați Melodii în Biblioteca Muzicală" image="/docs/guide/evermusic/evermusic-guide-music-library/img/music-library-add-songs.webp" >}}
 {{< /cards >}}
 
 ## Acces Rapid
@@ -75,7 +75,7 @@ Când adăugați melodii în biblioteca muzicală, aplicația citește automat e
 Situată chiar sub bara de navigare, bara de instrumente superioară oferă mai multe acțiuni convenabile: "Căutare", "Redare toate", "Amestecare toate" și "Continuare redare". Puteți dezvălui sau ascunde această bară de instrumente cu un simplu gest de glisare în jos.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Vizualizare Albume — Grupate după Etichete Muzicale" image="/docs/guide/evermusic/evermusic-guide-music-library/img/music-library-albums.webp" >}}
+  {{< ls-card title="" subtitle="Vizualizare Albume — Grupate după Etichete Muzicale" image="/docs/guide/evermusic/evermusic-guide-music-library/img/music-library-albums.webp" >}}
 {{< /cards >}}
 
 ## Căutare
@@ -83,7 +83,7 @@ Situată chiar sub bara de navigare, bara de instrumente superioară oferă mai 
 Funcția de căutare vă permite să localizați o anumită melodie, artist, album sau gen în biblioteca muzicală. Pe "ecranul de Căutare", aveți acces la următoarele acțiuni: "Sortare", "Filtrare", "Grilă/Listă".
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Rezultatele Căutării în Biblioteca Muzicală" image="/docs/guide/evermusic/evermusic-guide-music-library/img/music-library-search.webp" >}}
+  {{< ls-card title="" subtitle="Rezultatele Căutării în Biblioteca Muzicală" image="/docs/guide/evermusic/evermusic-guide-music-library/img/music-library-search.webp" >}}
 {{< /cards >}}
 
 ## Meniu Opțiuni
@@ -91,7 +91,7 @@ Funcția de căutare vă permite să localizați o anumită melodie, artist, alb
 Fiecare melodie din biblioteca muzicală are un meniu cu mai multe acțiuni, accesibil atingând butonul cu trei puncte de lângă titlul melodiei. Aceste acțiuni variază în funcție de dacă este o melodie individuală sau parte a unei colecții.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Mai Multe Acțiuni pentru un Element din Bibliotecă" image="/docs/guide/evermusic/evermusic-guide-music-library/img/music-library-item-more-actions.webp" >}}
+  {{< ls-card title="" subtitle="Mai Multe Acțiuni pentru un Element din Bibliotecă" image="/docs/guide/evermusic/evermusic-guide-music-library/img/music-library-item-more-actions.webp" >}}
 {{< /cards >}}
 
 ### Pentru Melodii Individuale
@@ -125,7 +125,7 @@ Pentru colecțiile de melodii precum Albume, Artiști, Genuri sau Compozitori, m
 Puteți activa modul de selectare folosind butonul Mai Multe Acțiuni din colțul din dreapta sus. În acest mod, puteți selecta mai multe melodii și efectua diverse acțiuni.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Modul de Selectare în Biblioteca Muzicală" image="/docs/guide/evermusic/evermusic-guide-music-library/img/music-library-selection-mode.webp" >}}
+  {{< ls-card title="" subtitle="Modul de Selectare în Biblioteca Muzicală" image="/docs/guide/evermusic/evermusic-guide-music-library/img/music-library-selection-mode.webp" >}}
 {{< /cards >}}
 
 ## Gruparea Etichetelor
@@ -145,7 +145,7 @@ Aceste categorii vă ajută să vă organizați melodiile după etichete muzical
 Când deschideți secțiunile Artist, Artist Album sau Compozitor, puteți vedea un comutator pentru Melodii/Toate Albumele/Albume Exclusive/Albume Solo.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Detaliile Albumului cu Comutator Melodii / Toate / Exclusive / Solo" image="/docs/guide/evermusic/evermusic-guide-music-library/img/music-library-album-details.webp" >}}
+  {{< ls-card title="" subtitle="Detaliile Albumului cu Comutator Melodii / Toate / Exclusive / Solo" image="/docs/guide/evermusic/evermusic-guide-music-library/img/music-library-album-details.webp" >}}
 {{< /cards >}}
 
 - **Melodii**: Afișează toate melodiile unde acest Artist/Artist Album/Compozitor este setat în etichetele audio.
@@ -166,7 +166,7 @@ Puteți folosi această funcție pentru a găsi rapid orice melodie, artist, alb
 Atingeți elementul de meniu "Setări" pentru a configura preferințele bibliotecii muzicale.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Setările Bibliotecii Muzicale" image="/docs/guide/evermusic/evermusic-guide-music-library/img/music-library-settings.webp" >}}
+  {{< ls-card title="" subtitle="Setările Bibliotecii Muzicale" image="/docs/guide/evermusic/evermusic-guide-music-library/img/music-library-settings.webp" >}}
 {{< /cards >}}
 
 #### Citire Metadate

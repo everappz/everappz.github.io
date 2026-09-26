@@ -12,7 +12,7 @@ authors:
     image: "/images/about/artem-meleshko-founder-everappz.webp"
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 **Ringkasan:** Pemain muzik iPhone terbaik bergantung pada keperluan anda. **Evermusic** sesuai untuk main balik storan awan dan fleksibiliti format. **Apple Music** sesuai untuk mereka yang mendalam dalam ekosistem Apple. **Spotify** cemerlang dalam penemuan muzik. **VLC** mengendalikan setiap format fail secara percuma. **Amazon Music** sesuai dipasangkan dengan Alexa dan Prime.
 
@@ -128,22 +128,22 @@ Amazon Music berintegrasi dengan ekosistem Amazon, menawarkan kawalan suara mela
 
 ## FAQ
 
-{{% details title="Apakah pemain muzik percuma terbaik untuk iPhone?" closed="true" %}}
+{{% ls-details title="Apakah pemain muzik percuma terbaik untuk iPhone?" closed="true" %}}
 Untuk memainkan fail anda sendiri, Evermusic dan VLC kedua-duanya adalah pilihan percuma. Evermusic menambah integrasi storan awan, manakala VLC menyokong julat format fail yang paling luas.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Bolehkah saya memainkan fail FLAC di iPhone?" closed="true" %}}
+{{% ls-details title="Bolehkah saya memainkan fail FLAC di iPhone?" closed="true" %}}
 Ya. Evermusic dan VLC kedua-duanya menyokong main balik FLAC di iPhone. Apple Music dan Spotify tidak memainkan fail FLAC secara langsung.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Aplikasi pemain muzik mana yang berfungsi dengan storan awan?" closed="true" %}}
+{{% ls-details title="Aplikasi pemain muzik mana yang berfungsi dengan storan awan?" closed="true" %}}
 Evermusic ialah pemain muzik iPhone terkemuka dengan sokongan storan awan terbina dalam. Ia bersambung ke iCloud Drive, Dropbox, Google Drive, OneDrive, pCloud dan perkhidmatan lain.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Adakah Evermusic lebih baik daripada Apple Music?" closed="true" %}}
+{{% ls-details title="Adakah Evermusic lebih baik daripada Apple Music?" closed="true" %}}
 Mereka mempunyai tujuan yang berbeza. Evermusic memainkan fail muzik anda sendiri dari storan awan dan storan tempatan. Apple Music ialah perkhidmatan penstriman langganan dengan katalog 100J+ lagu. Jika anda memiliki fail muzik anda sendiri, Evermusic adalah pilihan yang lebih baik.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Bolehkah saya menggunakan Spotify secara luar talian di iPhone?" closed="true" %}}
+{{% ls-details title="Bolehkah saya menggunakan Spotify secara luar talian di iPhone?" closed="true" %}}
 Ya, tetapi hanya dengan langganan Spotify Premium. Pengguna Spotify percuma tidak boleh memuat turun lagu untuk main balik luar talian.
-{{% /details %}}
+{{% /ls-details %}}

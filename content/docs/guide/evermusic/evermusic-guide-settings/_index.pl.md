@@ -18,7 +18,7 @@ readingTime: 16
 Ekran Ustawień to centrum sterowania Evermusic. Stąd możesz przejść na Premium, skonfigurować odtwarzacz audio, zarządzać biblioteką muzyki, skonfigurować menedżer plików, dostosować interfejs, włączyć widgety i CarPlay, tworzyć kopie zapasowe danych oraz uzyskać dostęp do pomocy i informacji prawnych. Sekcje są pogrupowane pod nagłówkami: **Zakupy i aktualizacje**, preferencje aplikacji, **Pomoc** oraz **Informacje prawne i prywatność**.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Ekran ustawień Evermusic" image="/docs/guide/evermusic/evermusic-guide-settings/img/settings-main-screen.webp" >}}
+  {{< ls-card title="" subtitle="Ekran ustawień Evermusic" image="/docs/guide/evermusic/evermusic-guide-settings/img/settings-main-screen.webp" >}}
 {{< /cards >}}
 
 ## Zakupy i aktualizacje

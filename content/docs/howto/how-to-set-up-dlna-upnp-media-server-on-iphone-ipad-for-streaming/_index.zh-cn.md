@@ -7,7 +7,7 @@ keywords: ["iPhone DLNA 服务器", "iPad UPnP 服务器", "如何在 iPhone 上
 readingTime: 9
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 DLNA (也叫 UPnP AV) 是大多数智能电视背后默默工作的主力。它是一种共享语言，让电视或媒体播放器在同一个 Wi-Fi 上找到媒体库并从中播放，电视上什么都不用装。如果你的 iPhone 或 iPad 可以充当那个媒体库，你的照片、视频和音乐就会自动出现在大屏上。
 
@@ -127,44 +127,44 @@ DLNA 会原样把文件交给电视，而电视得能解码它。如果某段视
 
 ## 常见问题
 
-{{% details title="DLNA 和 UPnP 有什么区别？" closed="true" %}}
+{{% ls-details title="DLNA 和 UPnP 有什么区别？" closed="true" %}}
 它们关系密切。UPnP 是底层的网络标准，而 DLNA 是构建在它之上的媒体规范，电视和播放器用它来共享和播放照片、视频和音乐。在日常使用中，这两个词可以互换。当你在 Everdisk 中开启电视与媒体中心时，你的设备就成了一台任何 DLNA 客户端都能浏览的 DLNA/UPnP 媒体服务器。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="我需要在电视上安装什么吗？" closed="true" %}}
+{{% ls-details title="我需要在电视上安装什么吗？" closed="true" %}}
 不需要。如果你的电视支持 DLNA，它已经有一个能在 Wi-Fi 上找到你设备的媒体播放器了。你只需在存放内容的那部 iPhone 或 iPad 上安装 Everdisk。如果你的电视不支持 DLNA，就在与它相连的设备上安装一个像 VLC 或 Kodi 这样的播放器。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="为什么我的 iPhone 没有出现在电视上？" closed="true" %}}
+{{% ls-details title="为什么我的 iPhone 没有出现在电视上？" closed="true" %}}
 检查两台设备是否在同一个 Wi-Fi 网络上。访客网络以及某些办公室或酒店网络会阻止设备之间互相发现，这会中断 DLNA。然后确认 Everdisk 已打开且共享已开始，并且电视与媒体中心在设置、共享、连接中已开启。如果电视还是找不到它，就用以 /device-desc.xml 结尾的设备描述地址手动添加服务器。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="DLNA 流媒体需要密码吗？" closed="true" %}}
+{{% ls-details title="DLNA 流媒体需要密码吗？" closed="true" %}}
 不需要。DLNA 开启时始终对同一 Wi-Fi 上的任何人开放，这就是为什么电视那端没有登录。在你信任的家庭网络上这没问题。在你不信任的网络上，用完后关掉电视与媒体中心，或改用带加密的 SMB 服务器。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="我能流式播放到 Chromecast 或 Roku 吗？" closed="true" %}}
+{{% ls-details title="我能流式播放到 Chromecast 或 Roku 吗？" closed="true" %}}
 Chromecast 和 Roku 开箱即用时并不充当 DLNA 播放器，所以它们不会直接找到你的设备。变通办法是安装一个能投屏的 DLNA 应用，比如手机上的 VLC 或 BubbleUPnP，然后从那里把播放推送到 Chromecast 或 Roku。在大多数其他智能电视上，DLNA 无需这些操作即可工作。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="视频播放时没有声音或无法打开，我该怎么办？" closed="true" %}}
+{{% ls-details title="视频播放时没有声音或无法打开，我该怎么办？" closed="true" %}}
 那是一种电视无法解码的格式。在 Everdisk 中打开设置、共享、视频，调低质量，让应用在流式播放时把视频转换成更兼容的格式。你也可以通过浏览器链接打开同一个文件，它能处理更多格式。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="我能只播放音乐，而不只是视频吗？" closed="true" %}}
+{{% ls-details title="我能只播放音乐，而不只是视频吗？" closed="true" %}}
 可以。开启允许访问整个音乐资料库，或添加特定的歌曲，然后开始共享。你的歌曲会出现在任何 DLNA 音箱、AV 功放或电视上，并附有专辑封面和曲目详情。音乐始终以原始质量共享。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="观看时应用必须一直开着吗？" closed="true" %}}
+{{% ls-details title="观看时应用必须一直开着吗？" closed="true" %}}
 是的。你的 iPhone 正充当服务器，而 iOS 会暂停被长时间完全推入后台的应用。流式播放时让 Everdisk 保持在屏幕上，长时间观看时接上电源。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="如何从一部 iPhone 流式播放到另一部 iPad？" closed="true" %}}
+{{% ls-details title="如何从一部 iPhone 流式播放到另一部 iPad？" closed="true" %}}
 在 iPhone 上开始共享，然后在 iPad 上打开 Everdisk 并进入设备标签页。iPhone 会作为一台媒体服务器出现在可用设备下。点击它即可浏览和播放。Everdisk 既能当 DLNA 客户端也能当服务器，所以你不需要另一个应用。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Everdisk 免费吗？" closed="true" %}}
+{{% ls-details title="Everdisk 免费吗？" closed="true" %}}
 是的，Everdisk 可免费下载，且已包含 DLNA 媒体服务器。可选的一次性 Premium Lifetime 购买会增加一些额外功能，比如为旧电视做照片和视频转换、自定义端口等等。你无需付费就能设置和使用 DLNA 流媒体。
-{{% /details %}}
+{{% /ls-details %}}
 
 想试试吗？[从 App Store 下载 Everdisk](https://apps.apple.com/app/apple-store/id6751851132?pt=95781850&ct=everappzcom&mt=8)，几分钟内就能把第一张专辑流式播放到电视上。有疑问或反馈？发邮件给我们：**support@everappz.com**。

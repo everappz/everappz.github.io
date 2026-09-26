@@ -6,7 +6,7 @@ keywords: ["evermusic 匯出", "flacbox 匯出", "匯出為 m3u", "匯出播放�
 tags: ["evermusic", "recents", "favorites", "export", "m3u", "playlist", "csv", "txt", "album"]
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **摘要：** Evermusic 和 Flacbox 允許您將任何曲目合集（最近使用的、最愛項目、播放清單、專輯）匯出為 CSV、TXT 或 M3U 檔案。使用這些匯出檔案可以向 Last.fm 記錄播放歷史、備份音樂庫或在其他裝置上播放您的播放清單。
@@ -157,22 +157,22 @@ https://cloud.com/dfgfdguh45tgkbfgr/filecontent
 
 ## 常見問題
 
-{{% details title="Last.fm 記錄應該使用哪種匯出格式？" closed="true" %}}
+{{% ls-details title="Last.fm 記錄應該使用哪種匯出格式？" closed="true" %}}
 使用 CSV。它包含 Last.fm-Scrubbler-WPF 等記錄工具所需的時間戳記和完整中繼資料。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="除了播放清單，我能匯出其他曲目合集嗎？" closed="true" %}}
+{{% ls-details title="除了播放清單，我能匯出其他曲目合集嗎？" closed="true" %}}
 可以。您可以使用相同的步驟匯出應用程式中的最近使用的、最愛項目、專輯、播放清單以及任何其他曲目合集。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="我的 M3U 播放清單能在其他裝置上使用嗎？" closed="true" %}}
+{{% ls-details title="我的 M3U 播放清單能在其他裝置上使用嗎？" closed="true" %}}
 如果您在匯出時選擇了絕對 URL 選項，M3U 檔案可以在任何支援 M3U 播放清單的裝置上播放。請注意，某些雲端 URL 可能會隨時間過期。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="匯出功能是免費的嗎？" closed="true" %}}
+{{% ls-details title="匯出功能是免費的嗎？" closed="true" %}}
 是的。將曲目合集匯出為 M3U、CSV 和 TXT 在 Evermusic 和 Flacbox 的免費版和進階版中均可使用。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="哪些雲端服務支援絕對 URL 匯出？" closed="true" %}}
+{{% ls-details title="哪些雲端服務支援絕對 URL 匯出？" closed="true" %}}
 絕對 URL 匯出支援 iCloud Drive、pCloud、PanBaidu、MyCloudHome、DLNA、MediaFire、OneDrive、Box、Dropbox、Google Drive 和 WebDAV（訪客模式）。
-{{% /details %}}
+{{% /ls-details %}}

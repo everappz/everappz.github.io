@@ -7,7 +7,7 @@ keywords: ["iPhone上播放音乐同时录制视频", "iPhone拍摄时如何播�
 readingTime: 1
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **简介：** 将Evermusic的音频输出设置为"混合模式"，开始播放曲目，然后打开相机应用并录制。音乐将在后台继续播放。适用于TikTok、Instagram和任何相机应用。
@@ -45,22 +45,22 @@ readingTime: 1
 
 ## 常见问题
 
-{{% details title="背景音乐会被录入视频吗？" closed="true" %}}
+{{% ls-details title="背景音乐会被录入视频吗？" closed="true" %}}
 音乐通过iPhone扬声器播放，因此麦克风会将其与其他环境声音一起录入。要获得更清晰的音频，请考虑使用放置在麦克风附近的外部扬声器。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="这在TikTok和Instagram上有效吗？" closed="true" %}}
+{{% ls-details title="这在TikTok和Instagram上有效吗？" closed="true" %}}
 是的。一旦Evermusic设置为混合模式并且正在播放曲目，当您打开TikTok、Instagram或任何其他相机或录制应用时，音乐会继续播放。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Evermusic中的混合模式是什么？" closed="true" %}}
+{{% ls-details title="Evermusic中的混合模式是什么？" closed="true" %}}
 混合模式是一种音频输出设置，允许Evermusic与其他应用共享音频会话。这可以防止当其他应用访问麦克风或相机时音乐停止。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="我可以使用Flacbox代替Evermusic吗？" closed="true" %}}
+{{% ls-details title="我可以使用Flacbox代替Evermusic吗？" closed="true" %}}
 可以。Flacbox也支持混合音频输出模式。步骤相同：在设置中启用混合模式，开始播放，然后打开相机应用。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Evermusic在后台播放音乐时可以玩游戏吗？" closed="true" %}}
+{{% ls-details title="Evermusic在后台播放音乐时可以玩游戏吗？" closed="true" %}}
 可以。启用混合模式后，打开任何游戏或应用时，Evermusic的音乐会继续播放。游戏音频和您的音乐将同时播放。
-{{% /details %}}
+{{% /ls-details %}}

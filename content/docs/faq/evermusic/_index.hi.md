@@ -26,7 +26,7 @@ Evermusic iPhone, iPad और Mac के लिए एक क्लाउड म
 
 <div class="hx:w-full">
 
-{{% details title="Evermusic क्या है?" closed="true" %}}
+{{% ls-details title="Evermusic क्या है?" closed="true" %}}
 Evermusic iPhone, iPad और Mac के लिए एक **क्लाउड म्यूजिक प्लेयर** है जो आपको कई क्लाउड सेवाओं, NAS डिवाइस और लोकल स्टोरेज से ट्रैक स्ट्रीम, डाउनलोड और व्यवस्थित करने देता है — एक एकीकृत लाइब्रेरी से।<br><br>
 
 आप आसानी से ऑफलाइन प्लेबैक के लिए संगीत डाउनलोड कर सकते हैं, प्लेलिस्ट बना और प्रबंधित कर सकते हैं, और अपने सुनने के अनुभव को बेहतर बनाने के लिए बिल्ट-इन इक्वलाइज़र का उपयोग कर सकते हैं। ऐप **Google Drive, Dropbox, OneDrive, iCloud Drive, MEGA, Box, pCloud, Yandex Disk** और कई अन्य सेवाओं के साथ काम करता है।<br><br>
@@ -34,9 +34,9 @@ Evermusic iPhone, iPad और Mac के लिए एक **क्लाउड �
 Evermusic ऑडियो प्रारूपों की एक विस्तृत श्रृंखला का समर्थन करता है और आपको **कलाकार, एल्बम, शैली और संगीतकार** द्वारा अपनी संगीत लाइब्रेरी व्यवस्थित करने देता है।<br><br>
 
 **गैपलेस प्लेबैक, क्रॉसफेड, ऑडियो इक्वलाइज़र, गीत, विजेट, Apple CarPlay, AirPlay और Google Chromecast स्ट्रीमिंग** जैसी सुविधाओं के साथ, Evermusic किसी भी iPhone, iPad या Mac उपयोगकर्ता के लिए एक संपूर्ण संगीत समाधान है।
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Evermusic कैसे काम करता है?" closed="true" %}}
+{{% ls-details title="Evermusic कैसे काम करता है?" closed="true" %}}
 **Evermusic आपके क्लाउड स्टोरेज अकाउंट और पर्सनल NAS को आपके डिवाइस पर एक खोजने योग्य म्यूजिक लाइब्रेरी से जोड़कर काम करता है।** एक बार अकाउंट कनेक्ट होने के बाद, आप सीधे क्लाउड से ट्रैक ब्राउज़ और स्ट्रीम कर सकते हैं, या ऑफलाइन प्लेबैक के लिए अपने पसंदीदा गाने, एल्बम और प्लेलिस्ट डाउनलोड कर सकते हैं।<br><br>
 
 ऐप कई ऑडियो प्रारूपों का समर्थन करता है — MP3, FLAC, ALAC, AAC, WAV, AIFF, या दर्जनों अन्य प्रारूपों में से कोई भी। क्लाउड कनेक्शन **आधिकारिक SDK और OAuth** फ्लो का उपयोग करते हैं, इसलिए आपका पासवर्ड कभी ऐप तक नहीं पहुंचता।<br><br>
@@ -50,9 +50,9 @@ Evermusic ऑडियो प्रारूपों की एक विस्
 - [WiFi-Drive का उपयोग करके कंप्यूटर से iPhone पर वायरलेस तरीके से फ़ाइलें कैसे स्थानांतरित करें](/docs/howto/how-to-transfer-files-wirelessly-from-a-computer-to-an-iphone-using-wifi-drive)<br>
 - [iPhone से USB फ्लैश ड्राइव कैसे कनेक्ट करें और संगीत कैसे सुनें](/docs/howto/how-to-connect-a-usb-flashcard-to-the-iphone-and-listen-to-music-or-manage-files-located-on-it)<br>
 - [WD My Cloud Home से iPhone पर संगीत कैसे चलाएं](/docs/howto/how-to-play-music-on-iphone-from-wd-my-cloud-home)
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="क्या Evermusic मुफ्त है?" closed="true" %}}
+{{% ls-details title="क्या Evermusic मुफ्त है?" closed="true" %}}
 **हाँ — Evermusic एक मुफ्त एप्लिकेशन है** कुछ सीमाओं के साथ जिन्हें Premium संस्करण में अपग्रेड करके हटाया जा सकता है।<br><br>
 
 एप्लिकेशन एक **एकमुश्त आजीवन इन-ऐप खरीद** और **दो सब्सक्रिप्शन विकल्प (1 महीना और 1 साल)** प्रदान करता है। **Family Sharing** सभी खरीद और प्लान के लिए सक्षम है, इसलिए आप बिना किसी अतिरिक्त लागत के अपने परिवार के पांच अन्य सदस्यों के साथ Premium संस्करण शेयर कर सकते हैं।<br><br>
@@ -62,9 +62,9 @@ Evermusic ऑडियो प्रारूपों की एक विस्
 यदि सक्रियण अपने आप नहीं होता, तो **सेटिंग्स → खरीद → खरीद पुनर्स्थापित करें** खोलें।<br><br>
 
 [और पढ़ें](/docs/faq/evermusic/what-is-the-difference-between-evermusic-and-evermusic-premium/)
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Evermusic Free और Evermusic Premium में क्या अंतर है?" closed="true" %}}
+{{% ls-details title="Evermusic Free और Evermusic Premium में क्या अंतर है?" closed="true" %}}
 **Evermusic Premium मुफ्त संस्करण की हर सीमा हटाता है**: विज्ञापन हटाता है, असीमित प्लेलिस्ट, क्लाउड सेवाएं, पसंदीदा और ऑफलाइन डाउनलोड अनलॉक करता है, पूर्ण व्यक्तिगतकरण सक्षम करता है।<br><br>
 
 **Evermusic Free**<br>
@@ -93,9 +93,9 @@ Evermusic ऑडियो प्रारूपों की एक विस्
 • **पूर्ण व्यक्तिगतकरण:** वैकल्पिक ऐप आइकन सहित सभी व्यक्तिगतकरण विकल्प अनलॉक।<br><br>
 
 [पूरी तुलना पढ़ें](/docs/faq/evermusic/what-is-the-difference-between-evermusic-and-evermusic-premium/)
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Evermusic Free (नीला आइकन) और Evermusic Pro (लाल आइकन) में क्या अंतर है?" closed="true" %}}
+{{% ls-details title="Evermusic Free (नीला आइकन) और Evermusic Pro (लाल आइकन) में क्या अंतर है?" closed="true" %}}
 **Evermusic Pro (लाल आइकन) में Evermusic Free (नीला आइकन) के समान ही सुविधाएं हैं जिसमें Premium इन-ऐप खरीद सक्रिय है, समान सुविधाएं, समान लुक। अंतर यह है कि ऐप्स App Store पर कैसे पैकेज किए गए हैं, Mac संगतता, मूल्य और गोपनीयता डिफ़ॉल्ट।**<br><br>
 
 **App Store पैकेजिंग:**<br>
@@ -113,9 +113,9 @@ Evermusic ऑडियो प्रारूपों की एक विस्
 - **Evermusic Pro (लाल)** — सर्वोत्तम यदि आप केवल iPhone, iPad और Apple Silicon Mac (M1 या बाद के) उपयोग करते हैं, कम प्रारंभिक मूल्य पसंद करते हैं, और **कोई analytics या diagnostics बिल्कुल संग्रहीत नहीं** (कोई opt-in विकल्प नहीं) वाला build चाहते हैं।<br><br>
 
 [पूरी तुलना पढ़ें](/docs/faq/evermusic/what-is-the-difference-between-evermusic-and-evermusic-premium/)
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="क्या Evermusic सुरक्षित है?" closed="true" %}}
+{{% ls-details title="क्या Evermusic सुरक्षित है?" closed="true" %}}
 **हाँ — Evermusic कनेक्टेड क्लाउड सेवाओं के साथ बातचीत करने के लिए केवल आधिकारिक SDK और सुरक्षित कनेक्शन का उपयोग करता है। आपका लॉगिन और पासवर्ड कभी भी एप्लिकेशन को दिखाई नहीं देता, और सभी अनुरोध एन्क्रिप्टेड हैं।**<br><br>
 
 जब आप अपना लॉगिन और पासवर्ड दर्ज करते हैं, तो एप्लिकेशन आपको **क्लाउड सेवा द्वारा प्रदान किया गया आधिकारिक प्राधिकरण पृष्ठ** दिखाता है। क्लाउड प्रदाता तब सफल प्राधिकरण के बाद ऐप को एक **auth-token** वापस भेजता है। auth-token आपके डिवाइस पर **Apple के सुरक्षित सिस्टम स्टोरेज (Keychain)** में संग्रहीत होता है।<br><br>
@@ -123,9 +123,9 @@ Evermusic ऑडियो प्रारूपों की एक विस्
 एप्लिकेशन Everappz, विज्ञापनदाताओं, या किसी तीसरे पक्ष के साथ आपके कनेक्टेड क्लाउड अकाउंट से **कोई जानकारी शेयर नहीं करता।**<br><br>
 
 [क्लाउड कनेक्शन के बारे में और पढ़ें](/docs/guide/evermusic/evermusic-guide-connections/)
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Evermusic में प्लेलिस्ट कैसे बनाएं?" closed="true" %}}
+{{% ls-details title="Evermusic में प्लेलिस्ट कैसे बनाएं?" closed="true" %}}
 **प्लेलिस्ट बनाने के लिए, प्लेलिस्ट टैब खोलें, '+' या '...' मेनू टैप करें, 'नई प्लेलिस्ट' चुनें, उसे नाम दें और जोड़ने के लिए ट्रैक चुनें।**<br><br>
 
 - मुख्य नेविगेशन से **प्लेलिस्ट्स** अनुभाग खोलें।<br>
@@ -139,60 +139,60 @@ Evermusic ऑडियो प्रारूपों की एक विस्
 - अपना चयन सहेजने के लिए **पूर्ण करना** टैप करें।<br><br>
 
 [पूरी प्लेलिस्ट गाइड पढ़ें](/docs/guide/evermusic/evermusic-guide-playlists/)
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Evermusic में M3U प्लेलिस्ट कैसे आयात करें?" closed="true" %}}
+{{% ls-details title="Evermusic में M3U प्लेलिस्ट कैसे आयात करें?" closed="true" %}}
 **M3U प्लेलिस्ट आयात करने के लिए, प्लेलिस्ट अनुभाग खोलें, '...' मेनू टैप करें, 'प्लेलिस्ट आयात करें' चुनें, फिर क्लाउड स्टोरेज या डिवाइस से .m3u, .m3u8, या .cue फ़ाइल चुनें।**<br><br>
 
 समर्थित फ़ाइल एक्सटेंशन **M3U**, **M3U8** और **CUE** हैं।<br><br>
 
 [पूरी गाइड पढ़ें](/docs/howto/how-to-import-m3u-playlist-to-evermusic-and-flacbox)
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="M3U, CSV या TXT में प्लेलिस्ट कैसे निर्यात करें?" closed="true" %}}
+{{% ls-details title="M3U, CSV या TXT में प्लेलिस्ट कैसे निर्यात करें?" closed="true" %}}
 **प्लेलिस्ट खोलें, '...' मेनू टैप करें और 'गाने की सूची निर्यात करें' चुनें — आप परिणाम को M3U, M3U8, CSV, या TXT के रूप में सहेज सकते हैं।**<br><br>
 
 [पूरी गाइड पढ़ें](/docs/howto/export-tracks-collection-from-evermusic-flacbox-to-m3u-csv-txt/)
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Evermusic कौन सी क्लाउड सेवाओं का समर्थन करता है?" closed="true" %}}
+{{% ls-details title="Evermusic कौन सी क्लाउड सेवाओं का समर्थन करता है?" closed="true" %}}
 **Evermusic सबसे लोकप्रिय क्लाउड स्टोरेज प्रदाताओं और पर्सनल NAS डिवाइस से कनेक्ट होता है** — iCloud Drive, Google Drive, Dropbox, OneDrive (Personal और Business), Box, MEGA, Yandex Disk, WD My Cloud Home, MediaFire, pCloud, HiDrive, 百度网盘 (Baidu), InfiniCLOUD, Cloud Mail.ru, Put.io, MyDrive और कई अन्य सहित।<br><br>
 
 Evermusic मानक नेटवर्क प्रोटोकॉल **WebDAV**, **SMB**, **FTP / SFTP**, **NFS** और **DLNA / UPnP** का भी समर्थन करता है।<br><br>
 
 [कनेक्शन के बारे में और पढ़ें](/docs/guide/evermusic/evermusic-guide-connections/)
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="SMB के माध्यम से Evermusic से NAS कैसे कनेक्ट करें?" closed="true" %}}
+{{% ls-details title="SMB के माध्यम से Evermusic से NAS कैसे कनेक्ट करें?" closed="true" %}}
 **NAS को SMB के माध्यम से कनेक्ट करने के लिए, 'क्लाउड सेवा कनेक्ट करें' → SMB टैप करें, `smb://<ip-address>/<shared-folder>`, अपना लॉगिन और पासवर्ड दर्ज करें, फिर Done टैप करें।**<br><br>
 
 [पूरा SMB ट्यूटोरियल](/docs/howto/transfer-your-files-from-the-computer-to-iphone-using-smb-protocol/)
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Evermusic से WebDAV सर्वर कैसे कनेक्ट करें?" closed="true" %}}
+{{% ls-details title="Evermusic से WebDAV सर्वर कैसे कनेक्ट करें?" closed="true" %}}
 **WebDAV सर्वर कनेक्ट करने के लिए, 'क्लाउड सेवा कनेक्ट करें' → WebDAV टैप करें, `http://server` या `https://server` फॉर्म में URL दर्ज करें, अपना लॉगिन और पासवर्ड दर्ज करें, फिर Done टैप करें।**<br><br>
 
 [पूरा WebDAV ट्यूटोरियल](/docs/howto/how-to-connect-nas-storage-using-webdav-and-listen-to-music-on-your-iphone-or-mac)
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="क्या Evermusic Plex, Jellyfin, Emby, Subsonic और Navidrome का समर्थन करता है?" closed="true" %}}
+{{% ls-details title="क्या Evermusic Plex, Jellyfin, Emby, Subsonic और Navidrome का समर्थन करता है?" closed="true" %}}
 **हाँ — Evermusic Plex Media Server, Jellyfin, Emby, Subsonic और Navidrome से नेटिव रूप से कनेक्ट होता है।**<br><br>
 
 - **Plex Media Server** — **क्लाउड सेवा कनेक्ट करें → Plex** टैप करें, अपने Plex अकाउंट से साइन इन करें और सर्वर चुनें।<br>
 - **Jellyfin** (ओपन-सोर्स) — **क्लाउड सेवा कनेक्ट करें → Jellyfin** टैप करें, अपना सर्वर URL दर्ज करें।<br>
 - **Emby** (कमर्शियल) — **क्लाउड सेवा कनेक्ट करें → Emby** टैप करें।<br>
 - **Subsonic और Subsonic-संगत सर्वर** — **क्लाउड सेवा कनेक्ट करें → Subsonic** टैप करें। यही API पथ **Navidrome**, **Airsonic**, **Funkwhale**, **Gonic**, **Logitech Media Server (LMS)** और **Ampache** के साथ काम करता है।
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="अपने कंप्यूटर से Evermusic में संगीत कैसे स्थानांतरित करें?" closed="true" %}}
+{{% ls-details title="अपने कंप्यूटर से Evermusic में संगीत कैसे स्थानांतरित करें?" closed="true" %}}
 **आप SMB, WebDAV, FTP / SFTP, DLNA, Wi-Fi Drive, या iTunes / Finder File Sharing के माध्यम से Evermusic में संगीत स्थानांतरित कर सकते हैं।**<br><br>
 
 **Wi-Fi Drive** एक लोकप्रिय तकनीक है जो आपको किसी भी डेस्कटॉप वेब ब्राउज़र का उपयोग करके वायरलेस तरीके से कंप्यूटर से iOS डिवाइस पर फ़ाइलें स्थानांतरित करने देती है। **संपर्क → कंप्यूटर → Wi-Fi का उपयोग करके कनेक्ट करें** खोलें और सर्वर सक्षम करें।<br><br>
 
 [SMB प्रोटोकॉल का उपयोग करके कंप्यूटर से iPhone पर फ़ाइलें स्थानांतरित करें](/docs/howto/transfer-your-files-from-the-computer-to-iphone-using-smb-protocol/)
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Evermusic कौन से ऑडियो प्रारूपों का समर्थन करता है?" closed="true" %}}
+{{% ls-details title="Evermusic कौन से ऑडियो प्रारूपों का समर्थन करता है?" closed="true" %}}
 **Evermusic MP3, ALAC, AAC, M4A, WAV, AIFF, AC3, AMR और कई अन्य चलाता है।**<br><br>
 
 **समर्थित ऑडियो प्रारूप:**<br>
@@ -209,9 +209,9 @@ Evermusic मानक नेटवर्क प्रोटोकॉल **WebDA
 **समर्थित ऑडियो फ़ाइल एक्सटेंशन:**<br>
 mpeg, aifc, 3gp, avi, aif, latm, 3gpp, m4a, loas, cdda, aac, m4p, m4b, ac3, pls, mp4v, m3u, m4r, aiff, xhe, mp1, snd, mp2, wav, qt, wave, m3u8, m4v, mp3, 3g2, caf, mp4, au, w64, ec3, adts, amr, vtt, mpa, aa<br><br>
 
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Evermusic में ऑडियो इक्वलाइज़र कैसे उपयोग करें?" closed="true" %}}
+{{% ls-details title="Evermusic में ऑडियो इक्वलाइज़र कैसे उपयोग करें?" closed="true" %}}
 **ऑडियो प्लेयर स्क्रीन खोलें, इक्वलाइज़र आइकन टैप करें, इक्वलाइज़र चालू करें, और या तो प्रीसेट चुनें या अपना खुद का बनाने के लिए स्लाइडर्स घुमाएं।**<br><br>
 
 - अभी-बज-रहे बार टैप करके **ऑडियो प्लेयर** स्क्रीन खोलें।<br>
@@ -221,170 +221,170 @@ mpeg, aifc, 3gp, avi, aif, latm, 3gpp, m4a, loas, cdda, aac, m4p, m4b, ac3, pls,
 - कस्टम प्रीसेट सहेजने के लिए **सहेजें** टैप करें।<br><br>
 
 [पूरा ट्यूटोरियल](/docs/howto/how-to-use-the-audio-equalizer-on-your-iphone-ipad-mac-with-evermusic-and-flacbox)
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="क्या Evermusic गैपलेस प्लेबैक का समर्थन करता है?" closed="true" %}}
+{{% ls-details title="क्या Evermusic गैपलेस प्लेबैक का समर्थन करता है?" closed="true" %}}
 **हाँ — Evermusic सच्चे गैपलेस प्लेबैक का समर्थन करता है**, शास्त्रीय संगीत, लाइव रिकॉर्डिंग, DJ मिक्स और कॉन्सेप्ट एल्बम के लिए आदर्श।<br><br>
 
 **सेटिंग्स → ऑडियो प्लेयर → गैपलेस प्लेबैक** में इसे सक्षम करें।
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="क्या Evermusic क्रॉसफेड प्लेबैक का समर्थन करता है?" closed="true" %}}
+{{% ls-details title="क्या Evermusic क्रॉसफेड प्लेबैक का समर्थन करता है?" closed="true" %}}
 **हाँ — Evermusic क्रॉसफेड प्लेबैक का समर्थन करता है** ताकि अगला ट्रैक वर्तमान के समाप्त होने से पहले मिलना शुरू हो जाए।<br><br>
 
 **सेटिंग्स → ऑडियो प्लेयर → क्रॉसफेड प्लेबैक** खोलें और ओवरलैप के कितने सेकंड चाहते हैं चुनें।
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Evermusic में प्लेबैक गति कैसे बदलें?" closed="true" %}}
+{{% ls-details title="Evermusic में प्लेबैक गति कैसे बदलें?" closed="true" %}}
 **ऑडियो प्लेयर खोलें, स्पीड कंट्रोल टैप करें और स्लाइडर खींचें — या 0.05× चरणों में सटीक समायोजन के लिए सटीक स्लाइडर उपयोग करें।**<br><br>
 
 आप **सेटिंग्स → ऑडियो प्लेयर → प्लेबैक स्पीड** में डिफ़ॉल्ट गति भी बदल सकते हैं।
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Evermusic में स्लीप टाइमर कैसे सेट करें?" closed="true" %}}
+{{% ls-details title="Evermusic में स्लीप टाइमर कैसे सेट करें?" closed="true" %}}
 **सेटिंग्स → ऑडियो प्लेयर → स्लीप टाइमर खोलें, इसे चालू करें, और चुनें कि संगीत रुकने से पहले कितने समय तक चलाना है।**
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Evermusic में ऑफलाइन मोड कैसे सक्षम करें?" closed="true" %}}
+{{% ls-details title="Evermusic में ऑफलाइन मोड कैसे सक्षम करें?" closed="true" %}}
 **क्लाउड सेवा कनेक्ट करें, म्यूजिक फ़ोल्डर ढूंढें, 'अधिक क्रियाएँ → ऑफलाइन मोड सक्षम करें' टैप करें — फ़ोल्डर और उसमें जोड़ी गई नई फ़ाइलें स्वचालित रूप से लोकल फ़ाइलें → ऑफलाइन फ़ोल्डर में डाउनलोड हो जाती हैं।**<br><br>
 
 [और पढ़ें](/docs/howto/play-offline-music-in-evermusic-flacbox-download-sync-from-cloud-to-local-files/)
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Evermusic में क्लाउड स्टोरेज से संगीत कैसे डाउनलोड करें?" closed="true" %}}
+{{% ls-details title="Evermusic में क्लाउड स्टोरेज से संगीत कैसे डाउनलोड करें?" closed="true" %}}
 **कनेक्टेड क्लाउड सेवा खोलें, फ़ोल्डर में ब्राउज़ करें, '...' → चुनें टैप करें, फ़ाइलें चुनें, फिर डाउनलोड करें टैप करें — वे ऑफलाइन प्लेबैक के लिए लोकल फ़ाइलों में सहेजे जाते हैं।**<br><br>
 
 [ऑफलाइन मोड गाइड पढ़ें](/docs/howto/play-offline-music-in-evermusic-flacbox-download-sync-from-cloud-to-local-files/)
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="क्या मैं इंटरनेट कनेक्शन के बिना Evermusic उपयोग कर सकता हूं?" closed="true" %}}
+{{% ls-details title="क्या मैं इंटरनेट कनेक्शन के बिना Evermusic उपयोग कर सकता हूं?" closed="true" %}}
 **हाँ — एक बार जब आपने संगीत डाउनलोड किया या किसी फ़ोल्डर के लिए ऑफलाइन मोड सक्षम किया, Evermusic सब कुछ पूरी तरह से ऑफलाइन चलाता है।**<br><br>
 
 ऑफलाइन सामग्री **लोकल फ़ाइलें** के अंतर्गत रहती है और एयरप्लेन मोड में, उड़ानों में और Wi-Fi या सेलुलर डेटा के बिना कहीं भी काम करती है।
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="अपने iPhone या Mac पर लोकल रूप से संग्रहीत संगीत कैसे चलाएं?" closed="true" %}}
+{{% ls-details title="अपने iPhone या Mac पर लोकल रूप से संग्रहीत संगीत कैसे चलाएं?" closed="true" %}}
 **लोकल फ़ाइलें खोलें, 'इस iPhone पर फ़ाइलें' (या 'इस Mac पर फ़ाइलें') तक स्क्रॉल करें, 'फ़ाइलें खोलें...' या 'फ़ोल्डर खोलें...' टैप करें, और चलाने के लिए ऑडियो फ़ाइलें या फ़ोल्डर चुनें।**<br><br>
 
 [और पढ़ें](/docs/howto/how-to-play-local-music-stored-on-your-iphone-or-mac)
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="iTunes या Apple Music से Evermusic में संगीत कैसे आयात करें?" closed="true" %}}
+{{% ls-details title="iTunes या Apple Music से Evermusic में संगीत कैसे आयात करें?" closed="true" %}}
 **अपनी लोकल Apple Music / iTunes लाइब्रेरी ब्राउज़ करने के लिए म्यूजिक लाइब्रेरी → iTunes Music खोलें।**<br><br>
 
 [पूरी गाइड पढ़ें](/docs/howto/how-to-play-local-itunes-files-on-my-iphone)
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="मैंने जहाँ छोड़ा था वहाँ से प्लेलिस्ट या एल्बम कैसे फिर से शुरू करें?" closed="true" %}}
+{{% ls-details title="मैंने जहाँ छोड़ा था वहाँ से प्लेलिस्ट या एल्बम कैसे फिर से शुरू करें?" closed="true" %}}
 **सेटिंग्स → ऑडियो प्लेयर → सामान्य में ऑडियो प्लेयर स्थिति सहेजें सक्षम करें, फिर सटीक अंतिम स्थिति से फिर शुरू करने के लिए किसी भी प्लेलिस्ट या एल्बम के शीर्ष पर प्लेबैक जारी रखें टैप करें।**
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Evermusic में गाने के बोल कैसे देखें?" closed="true" %}}
+{{% ls-details title="Evermusic में गाने के बोल कैसे देखें?" closed="true" %}}
 **फुल-स्क्रीन ऑडियो प्लेयर खोलें, '...' → टिप्पणियाँ देखें टैप करें, फिर टिप्पणियाँ, एम्बेडेड गीत और LRC फ़ाइल मोड के बीच स्वाइप करें।**
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="क्या Evermusic Apple CarPlay का समर्थन करता है?" closed="true" %}}
+{{% ls-details title="क्या Evermusic Apple CarPlay का समर्थन करता है?" closed="true" %}}
 **हाँ — Evermusic Apple CarPlay का पूरी तरह से समर्थन करता है।** आप अपनी म्यूजिक लाइब्रेरी ब्राउज़ कर सकते हैं, लोकल या ऑफलाइन फ़ाइलें चला सकते हैं, और सीधे अपनी कार के इन्फोटेनमेंट स्क्रीन से प्लेबैक नियंत्रित कर सकते हैं।<br><br>
 
 [पूरी गाइड पढ़ें](/docs/howto/how-to-play-your-own-music-on-iphone-using-carplay/)
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Evermusic से Google Chromecast या AirPlay पर संगीत कैसे कास्ट करें?" closed="true" %}}
+{{% ls-details title="Evermusic से Google Chromecast या AirPlay पर संगीत कैसे कास्ट करें?" closed="true" %}}
 **iPhone या iPad पर, ऑडियो प्लेयर खोलें, AirPlay या Chromecast आइकन टैप करें, और सूची से अपना स्पीकर या TV चुनें।**
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="अपने iPhone होम स्क्रीन या लॉक स्क्रीन पर Evermusic विजेट कैसे सक्षम करें?" closed="true" %}}
+{{% ls-details title="अपने iPhone होम स्क्रीन या लॉक स्क्रीन पर Evermusic विजेट कैसे सक्षम करें?" closed="true" %}}
 **सेटिंग्स → विजेट में विजेट अपडेट सक्षम करें, फिर अपनी होम स्क्रीन या लॉक स्क्रीन पर लंबे समय तक दबाएं, '+' टैप करें, 'Evermusic' खोजें, और एक विजेट साइज़ चुनें।**
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Evermusic से MP3 टैग कैसे संपादित करें?" closed="true" %}}
+{{% ls-details title="Evermusic से MP3 टैग कैसे संपादित करें?" closed="true" %}}
 **किसी भी ट्रैक पर '...' टैप करें और ऑडियो टैग संपादित करें चुनें — आप शीर्षक, कलाकार, एल्बम, वर्ष, शैली, गीत, एल्बम कवर और अधिक बदल सकते हैं।**<br><br>
 
 बैच संपादन के लिए हमारा कंपेनियन ऐप **Evertag** इंस्टॉल करें। [Evertag के बारे में और जानें](/products/evertag/).
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Evermusic में गुम एल्बम कवर कैसे ठीक करें?" closed="true" %}}
+{{% ls-details title="Evermusic में गुम एल्बम कवर कैसे ठीक करें?" closed="true" %}}
 **सेटिंग्स → लाइब्रेरी → एल्बम कवर खोलें, 'ऑनलाइन फ़ाइलों के लिए एल्बम कवर लोड करें' और 'फ़ोल्डर में खोजें' सक्षम करें।**
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Evermusic में गाने कैसे रेट करें?" closed="true" %}}
+{{% ls-details title="Evermusic में गाने कैसे रेट करें?" closed="true" %}}
 **ऑडियो प्लेयर या किसी भी ट्रैक का '...' मेनू खोलें, ऑडियो टैग संपादित करें चुनें, फिर 1 से 5 स्टार की रेटिंग सेट करें।**
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Evermusic में गाने को पसंदीदा में कैसे जोड़ें?" closed="true" %}}
+{{% ls-details title="Evermusic में गाने को पसंदीदा में कैसे जोड़ें?" closed="true" %}}
 **किसी भी ट्रैक पर '...' टैप करें और पसंदीदा में जोड़ें चुनें — पसंदीदा म्यूजिक लाइब्रेरी → पसंदीदा के अंतर्गत दिखाई देते हैं।**
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="हाल ही में चलाए गए गाने कैसे देखें?" closed="true" %}}
+{{% ls-details title="हाल ही में चलाए गए गाने कैसे देखें?" closed="true" %}}
 **म्यूजिक लाइब्रेरी → हाल के खोलें; आप सूची साफ़ कर सकते हैं या M3U, CSV, या TXT में निर्यात कर सकते हैं।**
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="क्लाउड स्टोरेज से हटाए बिना Evermusic से गाना कैसे डिलीट करें?" closed="true" %}}
+{{% ls-details title="क्लाउड स्टोरेज से हटाए बिना Evermusic से गाना कैसे डिलीट करें?" closed="true" %}}
 **किसी भी ट्रैक पर '...' → म्यूजिक लाइब्रेरी से डिलीट करें टैप करें — यह आपके लाइब्रेरी डेटाबेस से गाना हटाता है लेकिन फ़ाइल को क्लाउड स्टोरेज और लोकल फ़ाइलों में अछूता छोड़ता है।**
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="अपनी Evermusic म्यूजिक लाइब्रेरी का बैकअप और रिस्टोर कैसे करें?" closed="true" %}}
+{{% ls-details title="अपनी Evermusic म्यूजिक लाइब्रेरी का बैकअप और रिस्टोर कैसे करें?" closed="true" %}}
 **सेटिंग्स → बैकअप और रिस्टोर खोलें, क्या शामिल करना है (डेटाबेस, एल्बम कवर, सेटिंग्स) चुनें, 'एप्लिकेशन डेटा बैकअप करें' टैप करें, और बैकअप फ़ाइल सहेजें — रिस्टोर करने के लिए किसी अन्य डिवाइस पर इसे खोलें।**<br><br>
 
 [पूरी गाइड](/docs/howto/how-to-transfer-your-music-library-between-devices-in-evermusic-step-by-step-guide)
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="अपने परिवार के साथ Evermusic Premium कैसे शेयर करें?" closed="true" %}}
+{{% ls-details title="अपने परिवार के साथ Evermusic Premium कैसे शेयर करें?" closed="true" %}}
 **सभी Evermusic Premium प्लान — आजीवन, मासिक और वार्षिक — Apple Family Sharing के साथ काम करते हैं।**<br><br>
 
 iOS / macOS **सेटिंग्स → परिवार** में Family Sharing सेट करें।
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="अपना Evermusic Premium सब्सक्रिप्शन कैसे रद्द करें?" closed="true" %}}
+{{% ls-details title="अपना Evermusic Premium सब्सक्रिप्शन कैसे रद्द करें?" closed="true" %}}
 **iOS या macOS सेटिंग्स → [आपका नाम] → सब्सक्रिप्शन खोलें, Evermusic ढूंढें, और सब्सक्रिप्शन रद्द करें टैप करें।**<br><br>
 
 रिफंड के लिए, Apple की **एक समस्या रिपोर्ट करें** पृष्ठ (`reportaproblem.apple.com`) उपयोग करें।
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Evermusic को पासकोड से कैसे सुरक्षित करें?" closed="true" %}}
+{{% ls-details title="Evermusic को पासकोड से कैसे सुरक्षित करें?" closed="true" %}}
 **सेटिंग्स → पासकोड खोलें, सक्षम करें टैप करें, और 4-अंक कोड चुनें।**
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Evermusic में डार्क मोड कैसे सक्षम करें?" closed="true" %}}
+{{% ls-details title="Evermusic में डार्क मोड कैसे सक्षम करें?" closed="true" %}}
 **सेटिंग्स → व्यक्तिगतकरण → रंग योजना खोलें, फिर डार्क, लाइट, या डिफ़ॉल्ट चुनें।**
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Evermusic द्वारा उपयोग किए गए स्टोरेज को कैसे खाली करें?" closed="true" %}}
+{{% ls-details title="Evermusic द्वारा उपयोग किए गए स्टोरेज को कैसे खाली करें?" closed="true" %}}
 **सेटिंग्स → फ़ाइल प्रबंधक → अस्थायी फ़ाइलें डिलीट करें और सेटिंग्स → लाइब्रेरी → एल्बम कवर → सभी डिलीट करें खोलें; डाउनलोड किए गए संगीत को डिलीट करने के लिए लोकल फ़ाइलें उपयोग करें।**
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Evermusic में मेरा क्लाउड संगीत सिंक क्यों नहीं हो रहा?" closed="true" %}}
+{{% ls-details title="Evermusic में मेरा क्लाउड संगीत सिंक क्यों नहीं हो रहा?" closed="true" %}}
 **अधिकांश सिंक समस्याएं समाप्त हो गए auth token, ऐप बैकग्राउंडिंग, या कोई सक्रिय इंटरनेट कनेक्शन नहीं होने के कारण होती हैं — संपर्क खोलें, सेवा को पुनः-अधिकृत करें, फिर सेटिंग्स → लाइब्रेरी → ऑनलाइन सिंक्रनाइज़ेशन से मैन्युअल रूप से सिंक चलाएं।**
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Evermusic सपोर्ट से कैसे संपर्क करें?" closed="true" %}}
+{{% ls-details title="Evermusic सपोर्ट से कैसे संपर्क करें?" closed="true" %}}
 **ऐप से सीधे हमारी सपोर्ट टीम को ईमेल करने के लिए सेटिंग्स → फीडबैक भेजें खोलें।**<br><br>
 
 आप [हेल्प सेंटर](/docs/), [How-to गाइड](/docs/howto/), या व्यापक [FAQ](/docs/faq/) भी देख सकते हैं।
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Evermusic में गाना, एल्बम या कलाकार कैसे खोजें?" closed="true" %}}
+{{% ls-details title="Evermusic में गाना, एल्बम या कलाकार कैसे खोजें?" closed="true" %}}
 **किसी भी सूची में मैग्नीफाइंग-ग्लास आइकन टैप करें और परिणाम तुरंत फ़िल्टर करने के लिए नाम टाइप करें।**
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="क्या मैं Evermusic के साथ ऑडियोबुक या पॉडकास्ट चला सकता हूं?" closed="true" %}}
+{{% ls-details title="क्या मैं Evermusic के साथ ऑडियोबुक या पॉडकास्ट चला सकता हूं?" closed="true" %}}
 **हाँ — Evermusic बुकमार्क, परिवर्तनीय प्लेबैक गति और स्लीप टाइमर के साथ MP3, M4A, M4B, AAC, WAV, AIFF और अन्य समर्थित प्रारूपों में कोई भी ऑडियोबुक या पॉडकास्ट फ़ाइल चलाता है।**
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="ट्रैक या ऑडियोबुक में किसी विशिष्ट स्थिति को कैसे बुकमार्क करें?" closed="true" %}}
+{{% ls-details title="ट्रैक या ऑडियोबुक में किसी विशिष्ट स्थिति को कैसे बुकमार्क करें?" closed="true" %}}
 **ऑडियो प्लेयर खोलें और वर्तमान प्लेबैक स्थिति सहेजने के लिए बुकमार्क जोड़ें बटन टैप करें — बुकमार्क ट्रैक के '...' मेनू में बुकमार्क्स के अंतर्गत दिखाई देते हैं।**
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="क्या Evermusic Bluetooth हेडफ़ोन, AirPods और बाहरी DAC के साथ काम करता है?" closed="true" %}}
+{{% ls-details title="क्या Evermusic Bluetooth हेडफ़ोन, AirPods और बाहरी DAC के साथ काम करता है?" closed="true" %}}
 **हाँ — Evermusic किसी भी ऑडियो आउटपुट के माध्यम से चलाता है जो आपका iPhone, iPad, या Mac उपयोग कर सकता है: बिल्ट-इन स्पीकर, वायर्ड हेडफ़ोन, Bluetooth डिवाइस (AirPods, Beats, Sony, Bose, आदि), और USB / Lightning DAC।**
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="iPhone या iPad पर Evermusic के साथ USB फ्लैश ड्राइव या SD कार्ड कैसे उपयोग करें?" closed="true" %}}
+{{% ls-details title="iPhone या iPad पर Evermusic के साथ USB फ्लैश ड्राइव या SD कार्ड कैसे उपयोग करें?" closed="true" %}}
 **Lightning-to-USB या USB-C एडाप्टर के माध्यम से iPhone या iPad में ड्राइव प्लग करें, फिर Evermusic में लोकल फ़ाइलें → इस iPhone पर फ़ाइलें → फ़ोल्डर खोलें खोलें, ड्राइव पर नेविगेट करें, और म्यूजिक फ़ोल्डर चुनें।**
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Evermusic इंटरफ़ेस की भाषा कैसे बदलें?" closed="true" %}}
+{{% ls-details title="Evermusic इंटरफ़ेस की भाषा कैसे बदलें?" closed="true" %}}
 **सेटिंग्स → भाषा खोलें, 120 से अधिक समर्थित भाषाओं में से चुनें, फिर बदलाव लागू करने के लिए ऐप को पुनः आरंभ करें।**
-{{% /details %}}
+{{% /ls-details %}}
 
 </div>

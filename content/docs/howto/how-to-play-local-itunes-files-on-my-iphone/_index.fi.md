@@ -7,7 +7,7 @@ tags: ["ääni", "soitin", "tietokone", "tiedostot", "tiedosto", "pc", "mac", "j
 keywords: ["itunes tiedostonjako", "toista paikallista musiikkia", "siirrä musiikkia iphoneen", "kopioi tiedostoja iosiin", "ääni macista iphoneen", "paikalliset tiedostot iphonessa", "evermusic", "flacbox", "musiikkisoitin", "tiedostonjako", "wifi drive", "smb musiikin suoratoisto", "iphone musiikkisovellus", "tuo musiikkia iosiin"]
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **Lyhyesti:** Siirrä musiikkia tietokoneeltasi iPhoneen yhdellä kolmesta menetelmästä: **iTunes/Finder-tiedostonjako** (USB-kaapeli), **[WiFi Drive](/docs/howto/how-to-transfer-music-from-computer-to-iphone-without-itunes)** (langaton, ei kaapelia), tai **[SMB](/docs/howto/stream-your-music-from-mac-or-pc-to-iphone-using-smb/)** (suoratoisto suoraan ilman kopiointia). Toista sitten [Evermusic](/products/evermusic)- tai [Flacbox](/products/flacbox)-sovelluksella.
@@ -134,22 +134,22 @@ Voit myös yhdistää tietokoneesi SMB-protokollalla suoratoistaaksesi musiikkia
 
 ## FAQ
 
-{{% details title="Mikä on nopein tapa siirtää musiikkia iPhoneen?" closed="true" %}}
+{{% ls-details title="Mikä on nopein tapa siirtää musiikkia iPhoneen?" closed="true" %}}
 iTunes/Finder-tiedostonjako USB:n kautta on nopein menetelmä suurille musiikkikirjastoille. Pienemmille siirroille WiFi Drive on kätevämpi, koska se ei vaadi kaapelia.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Voinko siirtää FLAC-tiedostoja iPhoneeni?" closed="true" %}}
+{{% ls-details title="Voinko siirtää FLAC-tiedostoja iPhoneeni?" closed="true" %}}
 Kyllä. Sekä Evermusic että Flacbox hyväksyvät FLAC-tiedostoja iTunes-tiedostonjaon, WiFi Driven tai SMB:n kautta. Flacboxia suositellaan häviöttömille muodoille.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Tarvitsenko iTunesia macOS Catalinassa tai uudemmassa?" closed="true" %}}
+{{% ls-details title="Tarvitsenko iTunesia macOS Catalinassa tai uudemmassa?" closed="true" %}}
 Ei. Apple korvasi iTunesin Finderillä laitteiden hallintaan macOS Catalinasta alkaen. Käytä Finderin Tiedostot-välilehteä tiedostonjakoon.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Voinko suoratoistaa musiikkia kopioimatta tiedostoja iPhoneeni?" closed="true" %}}
+{{% ls-details title="Voinko suoratoistaa musiikkia kopioimatta tiedostoja iPhoneeni?" closed="true" %}}
 Kyllä. Käytä SMB-protokollaa musiikin suoratoistoon suoraan Macistasi tai PC:ltäsi. Tämä säästää laitteen tallennustilaa ja pitää kirjastosi tietokoneellasi.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Mitä sovellusta minun pitäisi käyttää -- Evermusic vai Flacbox?" closed="true" %}}
+{{% ls-details title="Mitä sovellusta minun pitäisi käyttää -- Evermusic vai Flacbox?" closed="true" %}}
 Käytä Evermusicia vakiomuodoille kuten MP3, WAV ja AAC. Valitse Flacbox, jos kirjastosi sisältää häviöttömiä muotoja kuten FLAC, DSD tai OGG.
-{{% /details %}}
+{{% /ls-details %}}

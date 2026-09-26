@@ -12,7 +12,7 @@ authors:
     image: "/images/about/artem-meleshko-founder-everappz.webp"
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 ![](/blog/evermusic-stream-your-music-from-the-cloud-and-free-up-space-on-your-iphone-or-ipad/21260c_00c5356db3a24db6a6a37e353b774d56~mv2.jpg)
 
@@ -82,22 +82,22 @@ Prehliadajte pripojený cloudový účet, otvorte priečinok s hudbou a ťuknite
 
 ## Často kladené otázky
 
-{{% details title="Je Evermusic zadarmo?" closed="true" %}}
+{{% ls-details title="Je Evermusic zadarmo?" closed="true" %}}
 Evermusic je zadarmo na stiahnutie s voliteľnými prémiovými funkciami. Základné cloudové streamovanie a offline prehrávanie sú dostupné v bezplatnej verzii.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Ktoré cloudové služby Evermusic podporuje?" closed="true" %}}
+{{% ls-details title="Ktoré cloudové služby Evermusic podporuje?" closed="true" %}}
 Google Drive, Dropbox, Box, OneDrive, MediaFire, MEGA, Yandex.Disk, pCloud, HiDrive, MyDrive, SMB zdieľané priečinky a WebDAV servery.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Môžem počúvať hudbu offline s Evermusic?" closed="true" %}}
+{{% ls-details title="Môžem počúvať hudbu offline s Evermusic?" closed="true" %}}
 Áno. Stiahnite si akýkoľvek album, interpreta, playlist alebo jednotlivú skladbu na offline prehrávanie priamo v aplikácii.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Aké audio formáty Evermusic prehráva?" closed="true" %}}
+{{% ls-details title="Aké audio formáty Evermusic prehráva?" closed="true" %}}
 Evermusic podporuje MP3, FLAC, AAC, WAV, ALAC, AIFF, OPUS, OGG a mnohé ďalšie formáty.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Potrebujem ešte iTunes na prenos hudby?" closed="true" %}}
+{{% ls-details title="Potrebujem ešte iTunes na prenos hudby?" closed="true" %}}
 Nie. Nahrajte svoju hudbu do akejkoľvek podporovanej cloudovej služby z počítača a potom ju streamujte alebo stiahnite cez Evermusic na vašom iPhone alebo iPad.
-{{% /details %}}
+{{% /ls-details %}}

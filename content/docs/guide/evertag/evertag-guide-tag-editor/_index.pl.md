@@ -15,7 +15,7 @@ readingTime: 5
 **Edytor tagów** to główny ekran aplikacji Evertag, gdzie możesz przeglądać i edytować metadane plików audio. Otwórz ten ekran, naciskając plik z sekcji **Pliki lokalne** lub z dowolnego podłączonego konta **chmury**.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evertag Tag Editor Screen" image="/docs/guide/evertag/img/tag-editor.webp" >}}
+  {{< ls-card title="" subtitle="Evertag Tag Editor Screen" image="/docs/guide/evertag/img/tag-editor.webp" >}}
 {{< /cards >}}
 
 ## Tryby edycji
@@ -38,7 +38,7 @@ Domyślnie aplikacja otwiera edytor tagów w trybie pojedynczego pliku z włącz
 Aby uzyskać dostęp do wszystkich dostępnych tagów, przewiń na dół ekranu i naciśnij opcję **Pokaż rozszerzone tagi**. Przełączy to edytor do trybu rozszerzonego, umożliwiając edycję ponad **120 pól metadanych**, w tym **Tagów MusicBrainz**, **Tekstów piosenek**, **Klasyfikacji doradczych**, wartości replay-gain, porządku sortowania, metadanych podcastów i nie tylko. Użyj **Ustawienia → Edytor tagów audio → Przyciski na ekranie głównym**, aby trwale włączyć Pokaż rozszerzone tagi, tak aby był zawsze widoczny.
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Bottom Actions Panel" image="/docs/guide/evertag/img/tag-editor-bottom-actions.webp" >}}
+{{< ls-card title="" subtitle="Bottom Actions Panel" image="/docs/guide/evertag/img/tag-editor-bottom-actions.webp" >}}
 {{< /cards >}}
 
 ## Tryb wsadowy
@@ -53,7 +53,7 @@ Możesz wejść w tryb wsadowy na dwa sposoby:
    - Otwórz dowolny plik, przewiń na dół i naciśnij **Edytuj pliki jednocześnie**, aby załadować wszystkie pliki z tego samego folderu.
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Batch Editing Mode" image="/docs/guide/evertag/img/tag-editor-batch-editing.webp" >}}
+{{< ls-card title="" subtitle="Batch Editing Mode" image="/docs/guide/evertag/img/tag-editor-batch-editing.webp" >}}
 {{< /cards >}}
 
 Po edycji naciśnij **Zapisz**, aby zastosować zmiany.
@@ -72,19 +72,19 @@ Nie musisz wpisywać tekstów od zera. Edytor zawiera skróty do wyszukiwania je
 Każdy skrót pojawia się tylko wtedy, gdy odpowiednia usługa jest dostępna z urządzenia. Naciśnij usługę, skopiuj żądane teksty (lub sygnatury czasowe LRC), wróć do Evertag i wklej je w pole tekstowe — następnie naciśnij **Zapisz**, aby zapisać teksty z powrotem w tagach pliku audio.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Lyrics Pages" image="/docs/guide/evertag/img/tag-editor-lyrics-pages.webp" >}}
+  {{< ls-card title="" subtitle="Lyrics Pages" image="/docs/guide/evertag/img/tag-editor-lyrics-pages.webp" >}}
 {{< /cards >}}
 
 Wybierz język z selektora:
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Lyrics Language Selector" image="/docs/guide/evertag/img/tag-editor-lyrics-language-select.webp" >}}
+  {{< ls-card title="" subtitle="Lyrics Language Selector" image="/docs/guide/evertag/img/tag-editor-lyrics-language-select.webp" >}}
 {{< /cards >}}
 
 Następnie wklej lub wpisz tekst piosenek. Evertag obsługuje zarówno zwykły tekst, jak i zsynchronizowane teksty — pole placeholder pokazuje przykład formatu LRC, który jest dokładnie tym, co Lrclib i Lyricsify zwracają dla zsynchronizowanych wyników.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Lyrics Text Editor" image="/docs/guide/evertag/img/tag-editor-lyrics-text.webp" >}}
+  {{< ls-card title="" subtitle="Lyrics Text Editor" image="/docs/guide/evertag/img/tag-editor-lyrics-text.webp" >}}
 {{< /cards >}}
 
 ## Ustaw Ocenę i Klasyfikację doradczą
@@ -96,7 +96,7 @@ Rozszerzony edytor oferuje gwiazdkową kontrolę **Oceny** wraz z segmentowaną 
 Użyj pola **Ocena**, aby przyznać utworowi osobisty wynik od jednej do pięciu gwiazdek. Wartość jest zapisywana w standardowym polu oceny pliku (POPM dla ID3, `rate` dla MP4, `RATING` dla Vorbis/APE itd.), więc inne aplikacje odczytujące ten tag — w tym aplikacja Music, Plex, Roon i większość desktopowych edytorów tagów — od razu zobaczą twoje oceny.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Rating" image="/docs/guide/evertag/img/tag-editor-rating.webp" >}}
+  {{< ls-card title="" subtitle="Rating" image="/docs/guide/evertag/img/tag-editor-rating.webp" >}}
 {{< /cards >}}
 
 ### Klasyfikacja doradcza
@@ -117,7 +117,7 @@ Powinieneś ustawić lub poprawić to pole, gdy:
 Wartość jest przechowywana w standardowym polu klasyfikacji doradczej dla formatu pliku (`rtng` dla MP4, `TXXX:ITUNESADVISORY` dla ID3, `ITUNESADVISORY` dla Vorbis), więc każdy odtwarzacz, który odczytuje metadane porad rodzicielskich, zobaczy twoją aktualizację.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Lyrics Advisory Rating" image="/docs/guide/evertag/img/lyrics-advisory-rating.webp" >}}
+  {{< ls-card title="" subtitle="Lyrics Advisory Rating" image="/docs/guide/evertag/img/lyrics-advisory-rating.webp" >}}
 {{< /cards >}}
 
 ## Edytuj okładkę albumu
@@ -129,7 +129,7 @@ Aby zmienić okładkę albumu:
 3. Wybierz obraz, który ma być zastosowany jako okładka.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Select Image" image="/docs/guide/evertag/img/select-image.webp" >}}
+  {{< ls-card title="" subtitle="Select Image" image="/docs/guide/evertag/img/select-image.webp" >}}
 {{< /cards >}}
 
 ## Więcej akcji w edytorze tagów
@@ -137,7 +137,7 @@ Aby zmienić okładkę albumu:
 Dodatkowe opcje edycji są dostępne przez pasek narzędzi pod widokiem okładek.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="More Actions Menu" image="/docs/guide/evertag/img/tag-editor-more-actions.webp" >}}
+  {{< ls-card title="" subtitle="More Actions Menu" image="/docs/guide/evertag/img/tag-editor-more-actions.webp" >}}
 {{< /cards >}}
 
 ### Automatyczne wyszukiwanie tagów audio
@@ -150,13 +150,13 @@ Aplikacja korzysta z bazy danych MusicBrainz — jednej z najbardziej kompleksow
 Użyj metadanych do wyszukania w internecie właściwej okładki albumu.  
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Search Album Cover" image="/docs/guide/evertag/img/search-album-cover.webp" >}}
+  {{< ls-card title="" subtitle="Search Album Cover" image="/docs/guide/evertag/img/search-album-cover.webp" >}}
 {{< /cards >}}
 
 Po znalezieniu zapisz obraz do **Zdjęć** za pomocą systemowego menu kontekstowego.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Add Image to Photos" image="/docs/guide/evertag/img/add-image-to-photos.webp" >}}
+  {{< ls-card title="" subtitle="Add Image to Photos" image="/docs/guide/evertag/img/add-image-to-photos.webp" >}}
 {{< /cards >}}
 
 Następnie wróć do edytora tagów, naciśnij ikonę Aparatu, przejdź do **Biblioteki zdjęć** i wybierz zapisany obraz. Aplikacja ustawi go jako okładkę pliku audio.
@@ -178,19 +178,19 @@ Ręczne wyszukiwanie metadanych albumu za pomocą bazy danych MusicBrainz.
 - Wybierz album  
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Select Album" image="/docs/guide/evertag/img/select-album-results.webp" >}}
+  {{< ls-card title="" subtitle="Select Album" image="/docs/guide/evertag/img/select-album-results.webp" >}}
 {{< /cards >}}
 
 - Wybierz właściwy utwór  
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Select Song" image="/docs/guide/evertag/img/select-a-song.webp" >}}
+  {{< ls-card title="" subtitle="Select Song" image="/docs/guide/evertag/img/select-a-song.webp" >}}
 {{< /cards >}}
 
 - Wybierz, które tagi zastosować  
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Select Audio Tags" image="/docs/guide/evertag/img/select-audio-tags.webp" >}}
+  {{< ls-card title="" subtitle="Select Audio Tags" image="/docs/guide/evertag/img/select-audio-tags.webp" >}}
 {{< /cards >}}
 
 Naciśnij **Zrobione**, aby zastosować wybrane metadane do swojego utworu.

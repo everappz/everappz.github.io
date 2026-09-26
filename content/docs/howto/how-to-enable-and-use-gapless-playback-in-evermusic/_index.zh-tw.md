@@ -7,7 +7,7 @@ tags: ["Evermusic", "無縫播放", "操作指南", "音訊", "播放", "交叉�
 readingTime: 4
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 **重點速覽：** 開啟 **設定 > 音訊播放器 > 無縫播放**，將開關撥到 **開啟**。從此以後，歌曲之間播放時不再有停頓、喀噠聲或滴答聲。Evermusic 會在目前曲目仍在播放時預先緩衝並解碼下一首，然後在連續的緩衝區上於音訊取樣之間完成交接，因此切換真正做到無縫。這是精確到取樣的真正無縫播放，而不是交叉淡入淡出。
 
@@ -73,30 +73,30 @@ Evermusic 的播放引擎會**同時保持兩首曲目處於執行狀態**：你
 
 ## 常見問題
 
-{{% details title="如何在 Evermusic 中開啟無縫播放？" closed="true" %}}
+{{% ls-details title="如何在 Evermusic 中開啟無縫播放？" closed="true" %}}
 開啟 Evermusic，前往 設定 > 音訊播放器 > 無縫播放，將開關撥到開啟。它預設關閉。啟用後，它會套用於你播放的所有內容，並一直保持開啟，直到你手動關閉。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Evermusic 的無縫播放是真正的無縫，還是只是交叉淡入淡出？" closed="true" %}}
+{{% ls-details title="Evermusic 的無縫播放是真正的無縫，還是只是交叉淡入淡出？" closed="true" %}}
 它是精確到取樣的真正無縫播放。Evermusic 在目前曲目播放時解碼並預先緩衝下一首，然後在連續的緩衝區上於音訊取樣之間完成交接，因此不會插入任何靜音、喀噠聲或填充，也不會出現解碼器重新啟動造成的間隙。交叉淡入淡出是另一項不同的功能，它會將曲目重疊並混合；無縫播放則將音訊完全保留為母帶時的樣子，只移除間隙。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="為什麼我在某些曲目之間仍然聽到間隙？" closed="true" %}}
+{{% ls-details title="為什麼我在某些曲目之間仍然聽到間隙？" closed="true" %}}
 請確認無縫播放已在 設定 > 音訊播放器 > 無縫播放 中開啟。如果間隙仍然存在，它可能已被錄進錄音本身（某些檔案在曲目開頭或結尾包含幾秒真實的靜音）。無縫播放消除的是播放器通常在曲目之間加入的間隙；它無法移除屬於音訊檔案本身一部分的靜音。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="無縫播放對 FLAC 和其他無損檔案有效嗎？" closed="true" %}}
+{{% ls-details title="無縫播放對 FLAC 和其他無損檔案有效嗎？" closed="true" %}}
 有效。無縫播放適用於 FLAC、Apple Lossless (ALAC) 以及 MP3、AAC 等有損格式，無論檔案儲存在本機、雲端還是媒體伺服器上。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="我能同時使用無縫播放和交叉淡入淡出嗎？" closed="true" %}}
+{{% ls-details title="我能同時使用無縫播放和交叉淡入淡出嗎？" closed="true" %}}
 不能。它們作用相反，因此開啟無縫播放會自動關閉交叉淡入淡出。對於需要完整保留音訊的現場專輯、DJ 混音和概念唱片，請使用無縫播放；如果你希望歌曲彼此淡入淡出，請使用交叉淡入淡出。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="從雲端串流播放時無縫播放有效嗎？" closed="true" %}}
+{{% ls-details title="從雲端串流播放時無縫播放有效嗎？" closed="true" %}}
 有效。Evermusic 會提前開始緩衝並解碼下一首，雲端硬碟和媒體伺服器也不例外，因此交接依然保持無縫。在較慢的連線上，它只是稍微提早開始準備下一首。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="無縫播放會降低音質嗎？" closed="true" %}}
+{{% ls-details title="無縫播放會降低音質嗎？" closed="true" %}}
 不會。無縫播放不會重新編碼或處理你的音訊。它只改變曲目被排程和緩衝的方式，從而使它們之間沒有間隙。每一個取樣都按檔案中原樣播放。
-{{% /details %}}
+{{% /ls-details %}}

@@ -12,7 +12,7 @@ authors:
     image: "/images/about/artem-meleshko-founder-everappz.webp"
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 **Ringkasan:** Evermusic 3.6 menambahkan integrasi Apple CarPlay, aksesibilitas VoiceOver penuh, output audio campuran, lanjutan pemutaran otomatis, pengeditan artwork dan tag untuk FLAC/MP3/AIFF, dan impor file dari iCloud Drive.
 
@@ -78,18 +78,18 @@ Impor file musik langsung dari iCloud Drive dan aplikasi lain:
 
 ## FAQ
 
-{{% details title="Apakah Evermusic bekerja dengan CarPlay?" closed="true" %}}
+{{% ls-details title="Apakah Evermusic bekerja dengan CarPlay?" closed="true" %}}
 Ya. Mulai versi 3.6, Evermusic sepenuhnya mendukung Apple CarPlay. Anda dapat menjelajahi dan memutar perpustakaan musik Anda dari layar bawaan mobil.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Apakah Evermusic dapat diakses oleh pengguna tunanetra atau low vision?" closed="true" %}}
+{{% ls-details title="Apakah Evermusic dapat diakses oleh pengguna tunanetra atau low vision?" closed="true" %}}
 Ya. Evermusic 3.6 menyertakan dukungan VoiceOver penuh dengan label deskriptif, petunjuk, dan mode antarmuka yang disederhanakan.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Bisakah saya mengedit tag FLAC di iPhone dengan Evermusic?" closed="true" %}}
+{{% ls-details title="Bisakah saya mengedit tag FLAC di iPhone dengan Evermusic?" closed="true" %}}
 Ya. Evermusic menyertakan editor tag bawaan yang bekerja dengan file FLAC, MP3, dan AIFF. Anda dapat mengedit judul, artis, album, dan artwork.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Apakah Evermusic mengingat di mana saya berhenti mendengarkan?" closed="true" %}}
+{{% ls-details title="Apakah Evermusic mengingat di mana saya berhenti mendengarkan?" closed="true" %}}
 Ya. Saat "Save Audio Player State" diaktifkan, Evermusic memulihkan antrean, trek saat ini, dan posisi pemutaran yang tepat saat Anda membuka kembali aplikasi.
-{{% /details %}}
+{{% /ls-details %}}

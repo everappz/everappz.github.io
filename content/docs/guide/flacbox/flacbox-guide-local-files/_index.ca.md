@@ -19,7 +19,7 @@ La secció Fitxers locals serveix com a centre per gestionar els fitxers ubicats
 Aquest gestor de fitxers integrat et permet editar fitxers (canviar nom, moure, copiar, pujar, eliminar), supervisar transferències, i ofereix diversos mètodes per importar fitxers d'àudio a l'app — descàrregues directes des del núvol, sincronització en mode offline, unitats de memòria USB, Wi-Fi Drive i compartició de fitxers Finder.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Pantalla Fitxers locals de Flacbox" image="/docs/guide/flacbox/img/local-files.webp" >}}
+  {{< ls-card title="" subtitle="Pantalla Fitxers locals de Flacbox" image="/docs/guide/flacbox/img/local-files.webp" >}}
 {{< /cards >}}
 
 ## Descarregar Fitxers des de l'Emmagatzematge al Núvol
@@ -102,7 +102,7 @@ Mostra fitxers i carpetes emmagatzemades al directori Documents de l'app i iClou
 Mostra fitxers ubicats al teu dispositiu però en aplicacions diferents. Pots importar-los a aquesta aplicació usant el selector de fitxers del sistema. Per activar el selector, tria **Obrir fitxers…** per seleccionar fitxers o **Obrir carpetes…** per seleccionar carpetes. Hi ha instruccions detallades sobre com importar música local emmagatzemada al teu iPhone o Mac disponibles [aquí](/docs/howto/how-to-play-local-music-stored-on-your-iphone-or-mac).
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Carpetes de dispositiu connectat a Flacbox" image="/docs/guide/flacbox/img/connected-device-folders.webp" >}}
+  {{< ls-card title="" subtitle="Carpetes de dispositiu connectat a Flacbox" image="/docs/guide/flacbox/img/connected-device-folders.webp" >}}
 {{< /cards >}}
 
 També pots connectar una carpeta ubicada al teu dispositiu i tenir accés ràpid al seu contingut. Usa l'element de menú **Connectar una carpeta** i tria una carpeta del teu dispositiu. Toca **Fet**, i l'app crea un enllaç a aquesta carpeta amb accés de lectura / escriptura, permetent-te gestionar fitxers directament des d'aquesta app. Per desconnectar una carpeta ubicada al teu dispositiu, toca el botó **Més accions** i tria **Desconnectar**.
@@ -137,7 +137,7 @@ Si necessites editar diversos fitxers, activa el mode de selecció tocant el bot
 - **Eliminar** — elimina el fitxer o carpeta seleccionats del dispositiu. **Aquesta acció és irreversible.**
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Mode de selecció de fitxers locals a Flacbox" image="/docs/guide/flacbox/img/local-files-selection-mode.webp" >}}
+  {{< ls-card title="" subtitle="Mode de selecció de fitxers locals a Flacbox" image="/docs/guide/flacbox/img/local-files-selection-mode.webp" >}}
 {{< /cards >}}
 
 ## Menú d'Opcions
@@ -161,7 +161,7 @@ Per a cada fitxer o carpeta de l'app, hi ha disponibles diverses accions accessi
 - **Eliminar** — elimina el fitxer o carpeta del dispositiu. **Aquesta acció és irreversible** i no pots restaurar els fitxers eliminats.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Més accions per a un fitxer local a Flacbox" image="/docs/guide/flacbox/img/local-files-more-actions-for-file.webp" >}}
+  {{< ls-card title="" subtitle="Més accions per a un fitxer local a Flacbox" image="/docs/guide/flacbox/img/local-files-more-actions-for-file.webp" >}}
 {{< /cards >}}
 
 ## Carpetes fora de línia

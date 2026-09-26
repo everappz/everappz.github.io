@@ -7,7 +7,7 @@ tags: ["widgets", "ios17", "dynamisch", "nu aan het afspelen", "startscherm", "s
 keywords: ["Evermusic widget", "Flacbox widget", "Nu Aan Het Afspelen widget iOS", "macOS Sonoma bureaublad widget", "audio bladwijzers iPhone", "muziek widget Evermusic", "afspeelbediening startscherm", "dynamische widgets iOS 17"]
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **Samenvatting:** Evermusic en Flacbox bieden interactieve Nu Aan Het Afspelen-widgets op iOS 17+ en macOS 14 Sonoma+. Je kunt het afspelen bedienen, nummers overslaan, favorieten toevoegen en audiobladwijzers maken rechtstreeks vanaf je iPhone-startscherm of Mac-bureaublad — zonder de app te openen.
@@ -78,22 +78,22 @@ Geniet van de update en veel luisterplezier!
 
 ## Veelgestelde Vragen
 
-{{% details title="Werken de widgets zonder de app te openen?" closed="true" %}}
+{{% ls-details title="Werken de widgets zonder de app te openen?" closed="true" %}}
 Ja. Op iOS 17 en macOS 14 Sonoma zijn widgetknoppen interactief en bedienen ze het afspelen rechtstreeks. De app hoeft niet op de voorgrond te staan.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Welke widgetgrootte moet ik kiezen?" closed="true" %}}
+{{% ls-details title="Welke widgetgrootte moet ik kiezen?" closed="true" %}}
 Kies Klein voor basis afspelen/pauzeren en favorieten. Kies Medium als je knoppen voor overslaan wilt. Kies Groot als je ook audiobladwijzers wilt.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Kan ik de widget gebruiken om een audioboek te hervatten?" closed="true" %}}
+{{% ls-details title="Kan ik de widget gebruiken om een audioboek te hervatten?" closed="true" %}}
 Ja. Schakel "Audiospelerstatus Opslaan" in bij Instellingen, en de widget hervat het afspelen vanaf je laatste positie, zelfs nadat de app is gesloten.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Zijn de widgets beschikbaar op iPad?" closed="true" %}}
+{{% ls-details title="Zijn de widgets beschikbaar op iPad?" closed="true" %}}
 Ja. iPadOS 17 ondersteunt dezelfde interactieve widgets als iPhone.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Hebben zowel Evermusic als Flacbox deze widgets?" closed="true" %}}
+{{% ls-details title="Hebben zowel Evermusic als Flacbox deze widgets?" closed="true" %}}
 Ja. De Nu Aan Het Afspelen-widget is beschikbaar in zowel Evermusic als Flacbox met identieke functionaliteit.
-{{% /details %}}
+{{% /ls-details %}}

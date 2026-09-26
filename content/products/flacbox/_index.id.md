@@ -16,15 +16,15 @@ screenshots:
   - "https://everappz.com/products/flacbox/screenshots/2048x2732/6.png"
 ---
 
-{{% sr-only %}}
+{{% ls-sr-only %}}
 Flacbox adalah pemutar audio resolusi tinggi untuk iPhone dan Mac yang dikembangkan oleh Everappz, sebuah perusahaan perangkat lunak Spanyol. Dengan lebih dari 1 juta unduhan di seluruh dunia, Flacbox dirancang untuk para audiofil dan penggemar musik yang ingin memutar file audio lossless dan resolusi tinggi di perangkat Apple mereka tanpa mengonversi format. Aplikasi ini secara native mendukung lebih dari 120 format audio termasuk FLAC, DSD (DSD64, DSD128, DSD256), ALAC, APE, WAV, AIFF, OGG, OPUS, WMA, MKA, MP3, AAC, dan lainnya. Flacbox terhubung ke lebih dari 30 layanan penyimpanan cloud termasuk iCloud Drive, Google Drive, Dropbox, OneDrive, MEGA, Box, dan pCloud, memungkinkan pengguna untuk streaming koleksi musik resolusi tinggi mereka langsung dari cloud atau mengunduh file untuk pemutaran offline. Fitur utama meliputi equalizer audio 10-band dengan preset yang dapat disesuaikan, crossfade dan pemutaran tanpa jeda, kontrol nada dan kecepatan, penguatan bass, impor dan ekspor playlist M3U, tampilan lirik, penanda audio, editor tag metadata bawaan, integrasi Apple CarPlay, streaming AirPlay dan Chromecast, serta scrobbling Last.fm. Aplikasi ini mendukung streaming jaringan lokal melalui protokol SMB, WebDAV, dan DLNA, pemutaran dari flash drive USB, dan transfer file melalui Wi-Fi. Flacbox tersedia sebagai unduhan gratis di App Store dengan pembelian dalam aplikasi opsional termasuk langganan bulanan seharga $4.99, langganan tahunan seharga $19.99, atau pembelian seumur hidup sekali bayar seharga $59.99. Aplikasi ini pertama kali dirilis pada tahun 2016 dan terus diperbarui secara aktif.
-{{% /sr-only %}}
+{{% /ls-sr-only %}}
 
 
 <!-- force dark theme for this page -->
-{{< force-dark >}}
+{{< ls-force-dark >}}
 
-{{< hextra/hero-container
+{{< ls-hero-container
   image="/products/flacbox/heroimage/hero_1600.png"
   imageWidth="800"
   imageCard="true"
@@ -32,36 +32,36 @@ Flacbox adalah pemutar audio resolusi tinggi untuk iPhone dan Mac yang dikembang
 
 <div class="hx:w-full hx:text-center">
 
-{{< downloads-badge >}}
+{{< ls-downloads-badge >}}
 
 <div class="hx:mt-6 hx:mb-6">
 <div class="hx:flex hx:gap-4 hx:items-center hx:justify-center">
-{{< app-icon src="/images/app_icons/png/Flacbox_Icon-App-1024x1024.png" alt="Flacbox Icon" class="hero-headline-icon" size="80" >}}
-{{< hextra/hero-headline >}}
+{{< ls-app-icon src="/images/app_icons/png/Flacbox_Icon-App-1024x1024.png" alt="Flacbox Icon" class="hero-headline-icon" size="80" >}}
+{{< ls-hero-headline >}}
 Flacbox
-{{< /hextra/hero-headline >}}
+{{< /ls-hero-headline >}}
 </div>
 </div>
 
 <div class="hx:mb-12">
-{{< hextra/hero-centered-subtitle >}}
+{{< ls-hero-centered-subtitle >}}
 <strong>Pemutar dan Streamer Audio Hi-Res untuk iPhone dan MAC</strong>
-{{< /hextra/hero-centered-subtitle >}}
+{{< /ls-hero-centered-subtitle >}}
 </div>
 
 <div class="hx:mb-6">
-{{< hextra/hero-paragraph >}}
+{{< ls-hero-paragraph >}}
 • Putar FLAC, ALAC, APE, DSD dan lainnya dengan kualitas lossless  
 • Unduh musik dan dengarkan offline dengan kontrol penuh  
 • Streaming dari Google Drive, Dropbox, NAS, atau komputer   
-{{< /hextra/hero-paragraph >}}
+{{< /ls-hero-paragraph >}}
 </div>
 
-{{< app-store-badges products="flacbox:ios, flacbox:macos" >}}
+{{< ls-app-store-badges products="flacbox:ios, flacbox:macos" >}}
 
 </div>
 
-{{< /hextra/hero-container >}}
+{{< /ls-hero-container >}}
 
 <div class="hx:mt-6"></div>
 
@@ -69,7 +69,7 @@ Flacbox
 
 {{< hextra/feature-grid >}}
 
-  {{< hextra/feature-card
+  {{< ls-glass-feature-card
     title="Streaming Musik Lossless"
     subtitle=`Nikmati musik lossless di iPhone, iPad, dan Mac tanpa langganan.<br><br>
 Hubungkan penyimpanan cloud Anda untuk streaming FLAC, ALAC, MKA dan lainnya secara gratis. Mudah melakukan cast ke perangkat Chromecast dan AirPlay.<br><br>
@@ -78,7 +78,7 @@ Bangun pustaka musik Anda, atur lagu berdasarkan album, artis, dan genre. Tingka
     style="background: radial-gradient(circle at 50% 80%, rgba(99,102,241,0.15), transparent);"
   >}}
 
-  {{< hextra/feature-card
+  {{< ls-glass-feature-card
     title="Putar Audio Hi-Res"
     subtitle=`Nikmati suara berkualitas studio dengan dukungan lebih dari 120 format audio, termasuk FLAC, ALAC, WAV, AIFF, dan DSD.<br><br>
 Flacbox juga memutar MP3, AAC, OGG, APE, MOD, MKA, dan kontainer canggih seperti MKV, MP4, dan MOV.<br><br>
@@ -87,7 +87,7 @@ Dengan kompatibilitas codec yang luas, seluruh koleksi Anda dapat diakses tanpa 
     style="background: radial-gradient(circle at 50% 80%, rgba(236,72,153,0.15), transparent);"
   >}}
 
-  {{< hextra/feature-card
+  {{< ls-glass-feature-card
     title="Unduh & Dengarkan Offline"
     subtitle=`Tetap terhubung dengan musik Anda bahkan saat offline.<br><br>
 Unduh seluruh album, genre, playlist, dan lagu ke perangkat Anda. Gunakan Wi-Fi Drive atau iTunes File Sharing untuk mentransfer audio dari Mac atau PC.<br><br>
@@ -102,9 +102,9 @@ Streaming dari USB flash drive atau penyimpanan jaringan (NAS) dan nikmati selur
 
 <div class="hx:mt-6"></div>
 
-{{< hextra/section-headline >}}
+{{< ls-section-headline >}}
 Fitur Lengkap
-{{< /hextra/section-headline >}}
+{{< /ls-section-headline >}}
 
 <div class="hx:mt-6"></div>
 
@@ -112,41 +112,41 @@ Fitur Lengkap
 
 {{< cards >}}
 
-  {{< feature-card title="Kualitas Audio" subtitle="Nikmati keluaran fidelitas tinggi dengan sample rate dari 8 kHz hingga 384 kHz, mode keluaran default atau campuran, serta dukungan untuk 1 hingga 7 kanal audio." icon="volume-up" >}}
-  {{< feature-card title="Audio Lossless & Hi-Res" subtitle="Putar format lossless dan hi-res seperti FLAC, ALAC, WAV, AIFF, APE, WV, dan DSF (DSD), ditambah MP3, AAC, OGG, dan OPUS, pada sample rate hingga 384 kHz." icon="music-note" >}}
-  {{< feature-card title="Musik Tracker & MOD" subtitle="Putar musik tracker dan modul klasik secara native, termasuk format MOD, XM, IT, dan S3M dari dunia chiptune dan demoscene yang tak bisa dibuka kebanyakan pemutar." icon="table" >}}
+  {{< ls-feature-card title="Kualitas Audio" subtitle="Nikmati keluaran fidelitas tinggi dengan sample rate dari 8 kHz hingga 384 kHz, mode keluaran default atau campuran, serta dukungan untuk 1 hingga 7 kanal audio." icon="volume-up" >}}
+  {{< ls-feature-card title="Audio Lossless & Hi-Res" subtitle="Putar format lossless dan hi-res seperti FLAC, ALAC, WAV, AIFF, APE, WV, dan DSF (DSD), ditambah MP3, AAC, OGG, dan OPUS, pada sample rate hingga 384 kHz." icon="music-note" >}}
+  {{< ls-feature-card title="Musik Tracker & MOD" subtitle="Putar musik tracker dan modul klasik secara native, termasuk format MOD, XM, IT, dan S3M dari dunia chiptune dan demoscene yang tak bisa dibuka kebanyakan pemutar." icon="table" >}}
 
-  {{< feature-card title="Mesin Audio" subtitle="Pilih dari tiga mesin pemutaran: mesin sistem standar, mesin FFmpeg yang serbaguna, dan mesin BASS™ profesional yang membuka efek, DSP, dan visual." icon="switch-horizontal" >}}
-  {{< feature-card title="Efek Audio" subtitle="Bentuk suara Anda secara real-time dengan reverb, delay, echo, chorus, flanger, phaser, auto-wah, distorsi, kompresor, dan crossfeed headphone yang alami." icon="lightning-bolt" >}}
-  {{< feature-card title="Rantai DSP" subtitle="Bangun rantai sinyal real-time Anda sendiri dari filter profesional dan band EQ, saturasi dan bit crusher, ditambah prosesor kreatif seperti tremolo dan lebar stereo." icon="chip" >}}
+  {{< ls-feature-card title="Mesin Audio" subtitle="Pilih dari tiga mesin pemutaran: mesin sistem standar, mesin FFmpeg yang serbaguna, dan mesin BASS™ profesional yang membuka efek, DSP, dan visual." icon="switch-horizontal" >}}
+  {{< ls-feature-card title="Efek Audio" subtitle="Bentuk suara Anda secara real-time dengan reverb, delay, echo, chorus, flanger, phaser, auto-wah, distorsi, kompresor, dan crossfeed headphone yang alami." icon="lightning-bolt" >}}
+  {{< ls-feature-card title="Rantai DSP" subtitle="Bangun rantai sinyal real-time Anda sendiri dari filter profesional dan band EQ, saturasi dan bit crusher, ditambah prosesor kreatif seperti tremolo dan lebar stereo." icon="chip" >}}
 
-  {{< feature-card title="Equalizer Audio" subtitle="Sempurnakan suara Anda dengan equalizer multi-band, preset genre siap pakai, kontrol manual, dan gain preamp untuk mengangkat lagu pelan tanpa clipping." icon="adjustments" >}}
-  {{< feature-card title="Visualizer Musik" subtitle="Saksikan visual animasi layar penuh yang bereaksi langsung terhadap musik Anda, memilih dari pustaka preset yang luas atau membiarkannya berputar otomatis." icon="sparkles" >}}
-  {{< feature-card title="Kontrol Pemutaran" subtitle="Sesuaikan kecepatan pemutaran tanpa mengubah pitch, simpan dan pulihkan antrean serta posisi Anda, dan gunakan timer tidur, acak, ulang, serta putar di latar belakang." icon="play" >}}
+  {{< ls-feature-card title="Equalizer Audio" subtitle="Sempurnakan suara Anda dengan equalizer multi-band, preset genre siap pakai, kontrol manual, dan gain preamp untuk mengangkat lagu pelan tanpa clipping." icon="adjustments" >}}
+  {{< ls-feature-card title="Visualizer Musik" subtitle="Saksikan visual animasi layar penuh yang bereaksi langsung terhadap musik Anda, memilih dari pustaka preset yang luas atau membiarkannya berputar otomatis." icon="sparkles" >}}
+  {{< ls-feature-card title="Kontrol Pemutaran" subtitle="Sesuaikan kecepatan pemutaran tanpa mengubah pitch, simpan dan pulihkan antrean serta posisi Anda, dan gunakan timer tidur, acak, ulang, serta putar di latar belakang." icon="play" >}}
 
-  {{< feature-card title="Streaming Cloud" subtitle="Streaming langsung dari iCloud Drive, Google Drive, Dropbox, OneDrive, Box, MEGA, dan pCloud, ditambah cloud yang mengutamakan privasi seperti Internxt dan Proton Drive." icon="cloud" >}}
-  {{< feature-card title="Server Media" subtitle="Hubungkan server media pribadi Anda, termasuk Plex, Subsonic, Navidrome, Jellyfin, dan Emby, untuk membuka dan streaming seluruh pustaka musik Anda." icon="server" >}}
-  {{< feature-card title="Komputer & NAS" subtitle="Hubungkan komputer atau NAS melalui SMB, WebDAV, DLNA, FTP, SFTP, atau NFS, dengan dukungan native untuk QNAP, Synology, Nextcloud, dan WD My Cloud Home." icon="desktop-computer" >}}
+  {{< ls-feature-card title="Streaming Cloud" subtitle="Streaming langsung dari iCloud Drive, Google Drive, Dropbox, OneDrive, Box, MEGA, dan pCloud, ditambah cloud yang mengutamakan privasi seperti Internxt dan Proton Drive." icon="cloud" >}}
+  {{< ls-feature-card title="Server Media" subtitle="Hubungkan server media pribadi Anda, termasuk Plex, Subsonic, Navidrome, Jellyfin, dan Emby, untuk membuka dan streaming seluruh pustaka musik Anda." icon="server" >}}
+  {{< ls-feature-card title="Komputer & NAS" subtitle="Hubungkan komputer atau NAS melalui SMB, WebDAV, DLNA, FTP, SFTP, atau NFS, dengan dukungan native untuk QNAP, Synology, Nextcloud, dan WD My Cloud Home." icon="desktop-computer" >}}
 
-  {{< feature-card title="Kartu Flash USB" subtitle="Putar musik langsung dari kartu SD dan USB flash drive menggunakan pembaca eksternal seperti SanDisk iXpand, tanpa perlu mengimpor atau menyinkronkan." icon="inbox" >}}
-  {{< feature-card title="AirPlay & Chromecast" subtitle="Kirim musik Anda secara nirkabel ke Apple TV, HomePod, speaker pintar, dan lainnya dengan dukungan AirPlay, AirPlay 2, dan Google Chromecast bawaan." icon="device-mobile" >}}
-  {{< feature-card title="Apple CarPlay" subtitle="Berkendara dan mendengarkan dengan aman lewat layar Apple CarPlay khusus yang sederhana untuk memilih dan mengontrol musik dari sumber cloud, lokal, dan offline." icon="map" >}}
+  {{< ls-feature-card title="Kartu Flash USB" subtitle="Putar musik langsung dari kartu SD dan USB flash drive menggunakan pembaca eksternal seperti SanDisk iXpand, tanpa perlu mengimpor atau menyinkronkan." icon="inbox" >}}
+  {{< ls-feature-card title="AirPlay & Chromecast" subtitle="Kirim musik Anda secara nirkabel ke Apple TV, HomePod, speaker pintar, dan lainnya dengan dukungan AirPlay, AirPlay 2, dan Google Chromecast bawaan." icon="device-mobile" >}}
+  {{< ls-feature-card title="Apple CarPlay" subtitle="Berkendara dan mendengarkan dengan aman lewat layar Apple CarPlay khusus yang sederhana untuk memilih dan mengontrol musik dari sumber cloud, lokal, dan offline." icon="map" >}}
 
-  {{< feature-card title="Mendengarkan Offline" subtitle="Unduh lagu, album, dan seluruh artis untuk didengarkan tanpa internet, atau aktifkan cache audio untuk menyimpan lagu yang baru diputar secara otomatis." icon="download" >}}
-  {{< feature-card title="Sinkronisasi Otomatis" subtitle="Jaga pustaka Anda tetap sinkron secara otomatis antara penyimpanan cloud dan folder lokal, sehingga file yang baru ditambahkan muncul tanpa kerja manual." icon="refresh" >}}
-  {{< feature-card title="Pustaka Media" subtitle="Tambahkan musik Anda dan atur secara otomatis berdasarkan album, artis, artis album, genre, dan komposer menggunakan tag yang tertanam dalam file Anda." icon="library" >}}
+  {{< ls-feature-card title="Mendengarkan Offline" subtitle="Unduh lagu, album, dan seluruh artis untuk didengarkan tanpa internet, atau aktifkan cache audio untuk menyimpan lagu yang baru diputar secara otomatis." icon="download" >}}
+  {{< ls-feature-card title="Sinkronisasi Otomatis" subtitle="Jaga pustaka Anda tetap sinkron secara otomatis antara penyimpanan cloud dan folder lokal, sehingga file yang baru ditambahkan muncul tanpa kerja manual." icon="refresh" >}}
+  {{< ls-feature-card title="Pustaka Media" subtitle="Tambahkan musik Anda dan atur secara otomatis berdasarkan album, artis, artis album, genre, dan komposer menggunakan tag yang tertanam dalam file Anda." icon="library" >}}
 
-  {{< feature-card title="Playlist Kustom" subtitle="Buat, edit, dan susun ulang playlist Anda sendiri, jadikan tersedia offline, serta impor atau ekspor dalam format M3U, M3U8, dan CUE." icon="collection" >}}
-  {{< feature-card title="Pengelola File" subtitle="Kelola musik Anda dengan pengelola file bawaan, menangani operasi sehari-hari seperti salin, pindahkan, ganti nama, dan hapus agar file tetap teratur." icon="folder" >}}
-  {{< feature-card title="Editor Tag ID3" subtitle="Perbaiki metadata yang salah atau hilang dengan editor tag ID3 bawaan, memperbarui judul, artis, album, genre, dan lainnya hanya dalam beberapa ketukan." icon="pencil-alt" >}}
+  {{< ls-feature-card title="Playlist Kustom" subtitle="Buat, edit, dan susun ulang playlist Anda sendiri, jadikan tersedia offline, serta impor atau ekspor dalam format M3U, M3U8, dan CUE." icon="collection" >}}
+  {{< ls-feature-card title="Pengelola File" subtitle="Kelola musik Anda dengan pengelola file bawaan, menangani operasi sehari-hari seperti salin, pindahkan, ganti nama, dan hapus agar file tetap teratur." icon="folder" >}}
+  {{< ls-feature-card title="Editor Tag ID3" subtitle="Perbaiki metadata yang salah atau hilang dengan editor tag ID3 bawaan, memperbarui judul, artis, album, genre, dan lainnya hanya dalam beberapa ketukan." icon="pencil-alt" >}}
 
-  {{< feature-card title="Pencarian Lanjutan" subtitle="Temukan lagu, artis, atau album apa pun di seluruh koleksi Anda dengan pencarian pintar dan cepat yang dirancang untuk pustaka musik yang sangat besar." icon="search" >}}
-  {{< feature-card title="Akses Cepat" subtitle="Langsung kembali ke yang penting dengan Terbaru Diputar, Favorit, dan Penanda, menjaga lagu andalan Anda selalu satu ketukan saja." icon="clock" >}}
-  {{< feature-card title="Lirik & Komentar" subtitle="Lihat lirik berjangka waktu dan catatan lagu di dalam setiap trek saat diputar, serta tambahkan widget Lirik ke Layar Utama untuk akses sekilas yang cepat." icon="annotation" >}}
+  {{< ls-feature-card title="Pencarian Lanjutan" subtitle="Temukan lagu, artis, atau album apa pun di seluruh koleksi Anda dengan pencarian pintar dan cepat yang dirancang untuk pustaka musik yang sangat besar." icon="search" >}}
+  {{< ls-feature-card title="Akses Cepat" subtitle="Langsung kembali ke yang penting dengan Terbaru Diputar, Favorit, dan Penanda, menjaga lagu andalan Anda selalu satu ketukan saja." icon="clock" >}}
+  {{< ls-feature-card title="Lirik & Komentar" subtitle="Lihat lirik berjangka waktu dan catatan lagu di dalam setiap trek saat diputar, serta tambahkan widget Lirik ke Layar Utama untuk akses sekilas yang cepat." icon="annotation" >}}
 
-  {{< feature-card title="Widget" subtitle="Tambahkan widget Layar Utama yang menampilkan antrean pemutaran Anda dan memungkinkan Anda langsung melanjutkan tepat dari tempat terakhir Anda berhenti." icon="view-grid" >}}
-  {{< feature-card title="Dukungan Buku Audio" subtitle="Dengarkan buku audio dengan penanda, timer tidur, kecepatan yang dapat disesuaikan, dan lanjutkan pemutaran yang melanjutkan tepat dari tempat terakhir Anda berhenti." icon="book-open" >}}
-  {{< feature-card title="Integrasi Last.fm" subtitle="Hubungkan akun Last.fm Anda untuk scrobble lagu, memantau statistik pendengaran Anda, dan mendapatkan rekomendasi musik yang dipersonalisasi seiring waktu." icon="chart-bar" >}}
+  {{< ls-feature-card title="Widget" subtitle="Tambahkan widget Layar Utama yang menampilkan antrean pemutaran Anda dan memungkinkan Anda langsung melanjutkan tepat dari tempat terakhir Anda berhenti." icon="view-grid" >}}
+  {{< ls-feature-card title="Dukungan Buku Audio" subtitle="Dengarkan buku audio dengan penanda, timer tidur, kecepatan yang dapat disesuaikan, dan lanjutkan pemutaran yang melanjutkan tepat dari tempat terakhir Anda berhenti." icon="book-open" >}}
+  {{< ls-feature-card title="Integrasi Last.fm" subtitle="Hubungkan akun Last.fm Anda untuk scrobble lagu, memantau statistik pendengaran Anda, dan mendapatkan rekomendasi musik yang dipersonalisasi seiring waktu." icon="chart-bar" >}}
 
 {{< /cards >}}
 
@@ -154,9 +154,9 @@ Fitur Lengkap
 
 <div class="hx:mt-6"></div>
 
-{{< hextra/section-headline >}}
+{{< ls-section-headline >}}
 Desain Intuitif
-{{< /hextra/section-headline >}}
+{{< /ls-section-headline >}}
 
 <div class="hx:mt-6"></div>
 
@@ -164,7 +164,7 @@ Desain Intuitif
 
 {{< cards cols="4">}}
 
-  {{< design-feature-card 
+  {{< ls-design-feature-card 
     image="/products/flacbox/screenshots/2048x2732/1.png" 
     title="Pemutar Audio" 
     method="Fill"
@@ -173,7 +173,7 @@ Desain Intuitif
     icon="play"
   >}}
 
-  {{< design-feature-card 
+  {{< ls-design-feature-card 
     image="/products/flacbox/screenshots/2048x2732/2.png"  
     title="Equalizer Audio" 
     method="Fill"
@@ -182,7 +182,7 @@ Desain Intuitif
     icon="adjustments"
   >}}
 
-  {{< design-feature-card 
+  {{< ls-design-feature-card 
     image="/products/flacbox/screenshots/2048x2732/3.png"  
     title="Pengelola Playlist" 
     method="Fill"
@@ -191,7 +191,7 @@ Desain Intuitif
     icon="collection"
   >}}
 
-  {{< design-feature-card 
+  {{< ls-design-feature-card 
     image="/products/flacbox/screenshots/2048x2732/5.png"  
     title="Pustaka Media" 
     method="Fill"
@@ -200,7 +200,7 @@ Desain Intuitif
     icon="library"
   >}}
 
-  {{< design-feature-card 
+  {{< ls-design-feature-card 
     image="/products/flacbox/screenshots/2048x2732/7.png"  
     title="Penyimpanan Cloud" 
     method="Fill"
@@ -209,7 +209,7 @@ Desain Intuitif
     icon="cloud"
   >}}
 
-  {{< design-feature-card 
+  {{< ls-design-feature-card 
     image="/products/flacbox/screenshots/2048x2732/8.png"  
     title="iCloud Drive" 
     method="Fill"
@@ -227,48 +227,48 @@ Desain Intuitif
 <div class="hx:mt-6"></div>
 
 <div class="hx:w-full">
-{{< appstore-reviews apps="1097564256,1594027432" stars="5,4"  app="Flacbox" >}}
+{{< ls-appstore-reviews apps="1097564256,1594027432" stars="5,4"  app="Flacbox" >}}
 </div>
 
 <div class="hx:mt-6"></div>
 
-{{< hextra/section-headline >}}
+{{< ls-section-headline >}}
    Paket Harga
-{{< /hextra/section-headline >}}
+{{< /ls-section-headline >}}
 
 <div class="hx:mt-6"></div>
 
 <div class="hx:w-full">
 
-{{< pricing-plans >}}
+{{< ls-pricing-plans >}}
 
 </div>
 
 <div class="hx:mt-6"></div>
 
 <div class="hx:w-full hx:mx-auto hx:flex hx:flex-col hx:items-center">
-  {{< hextra/info-paragraph border="true" >}}
+  {{< ls-info-paragraph border="true" >}}
    <strong>Berbagi Keluarga</strong>: Semua pembelian dan langganan mendukung Berbagi Keluarga, memungkinkan Anda berbagi akses Premium dengan keluarga Anda.<br><strong>Akses Universal</strong>: Paket seumur hidup dan langganan dibagikan antara perangkat iOS dan Mac menggunakan sinkronisasi iCloud.<br><strong>Harga</strong>: Harga ditampilkan dalam dolar AS untuk Amerika Serikat. Harga akhir dapat bervariasi berdasarkan wilayah Anda.  
-  {{< /hextra/info-paragraph >}}
+  {{< /ls-info-paragraph >}}
 </div>
 
 <div class="hx:mt-6"></div>
 
 <div class="hx:w-full">
-{{< app-details heading="true" >}}
+{{< ls-app-details heading="true" >}}
 </div>
 
 <div class="hx:mt-6"></div>
 
-{{< hextra/section-headline >}}
+{{< ls-section-headline >}}
    Pertanyaan yang Sering Diajukan
-{{< /hextra/section-headline >}}
+{{< /ls-section-headline >}}
 
 <div class="hx:mt-6"></div>
 
 <div class="hx:w-full">
 
-{{% details title="Bagaimana cara kerja Flacbox?" closed="true" %}}
+{{% ls-details title="Bagaimana cara kerja Flacbox?" closed="true" %}}
 Flacbox adalah pemutar musik hi-res yang memungkinkan Anda mengelola trek audio seperti file biasa.<br>
 Anda dapat mengunggah seluruh koleksi musik ke layanan cloud seperti Dropbox, Google Drive, atau NAS pribadi dan memutar musik langsung dari cloud dengan kontrol penuh.<br><br>
 Tidak perlu sinkronisasi iTunes—cukup unggah dari PC atau Mac seperti file biasa.<br>
@@ -282,9 +282,9 @@ Jelajahi panduan cara kami untuk detail lebih lanjut:<br>
 - [Cara mentransfer file secara nirkabel dari komputer ke iPhone menggunakan WiFi-Drive.](/docs/howto/how-to-transfer-files-wirelessly-from-a-computer-to-an-iphone-using-wifi-drive)<br>
 - [Cara menghubungkan kartu flash USB ke iPhone dan mendengarkan musik atau mengelola file di dalamnya.](/docs/howto/how-to-connect-a-usb-flashcard-to-the-iphone-and-listen-to-music-or-manage-files-located-on-it)<br>
 - [Cara memutar musik di iPhone dari WD My Cloud Home.](/docs/howto/how-to-play-music-on-iphone-from-wd-my-cloud-home)
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Apakah Flacbox Gratis?" closed="true" %}}
+{{% ls-details title="Apakah Flacbox Gratis?" closed="true" %}}
 Flacbox gratis digunakan dengan beberapa batasan, yang dapat dihapus dengan meningkatkan ke versi Premium.<br>
 Anda dapat memilih antara pembelian seumur hidup sekali bayar atau dua opsi langganan (bulanan atau tahunan). Harga dapat bervariasi berdasarkan wilayah Anda.<br><br>
 
@@ -293,10 +293,10 @@ Berbagi Keluarga diaktifkan untuk semua paket, sehingga Anda dapat berbagi versi
 Pembelian dan langganan Premium dibagikan antara iOS dan Mac melalui iCloud. Untuk menyinkronkan pembelian Anda, pastikan iCloud diaktifkan, buka aplikasi di perangkat iOS Anda, dan tunggu satu menit untuk sinkronisasi selesai.<br><br>
 
 [Baca selengkapnya tentang perbedaan antara Flacbox dan Flacbox Premium](/docs/faq/flacbox/what-is-the-difference-between-flacbox-and-flacbox-premium/)
-{{% /details %}}
+{{% /ls-details %}}
 
 
-{{% details title="Apa perbedaan antara Flacbox dan Evermusic?" closed="true" %}}
+{{% ls-details title="Apa perbedaan antara Flacbox dan Evermusic?" closed="true" %}}
 **Flacbox** dibuat untuk mendukung semua format audio iOS default bersama dengan banyak format tambahan yang tidak didukung secara native di iPhone, seperti WMA, OGG, M4A, DSD, dan lainnya.<br>
 Menggunakan mesin audio kustom untuk menangani hampir semua format dan menawarkan fitur seperti sample rate output audio yang dapat disesuaikan dan koreksi pitch.<br><br>
 
@@ -306,9 +306,9 @@ Jika Anda terutama menggunakan MP3, ALAC, atau FLAC, **Evermusic** mungkin menja
 Jika Anda membutuhkan kompatibilitas luas dengan berbagai jenis file audio, **Flacbox** adalah pilihan yang tepat.<br><br>
 
 [Pelajari lebih lanjut tentang perbedaan antara Flacbox dan Evermusic](/docs/faq/evermusic/what-is-the-difference-between-evermusic-and-flacbox/)
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Bagaimana cara menyinkronkan Flacbox?" closed="true" %}}
+{{% ls-details title="Bagaimana cara menyinkronkan Flacbox?" closed="true" %}}
 
 **Sinkronisasi Metadata**  
 Saat Anda menambahkan trek ke pustaka, pembaca metadata latar belakang memindai file Anda dan mengaturnya berdasarkan Artis, Album, Genre, dan Komposer.<br>
@@ -345,10 +345,10 @@ Anda juga dapat menyesuaikan **interval timeout sinkronisasi** di pengaturan unt
 
 [Baca selengkapnya](/docs/guide/flacbox/flacbox-guide-music-library)
 
-{{% /details %}}
+{{% /ls-details %}}
 
 
-{{% details title="Bagaimana cara menggunakan Flacbox?" closed="true" %}}
+{{% ls-details title="Bagaimana cara menggunakan Flacbox?" closed="true" %}}
 
 **Instal Flacbox**<br>
 Unduh dan instal aplikasi Flacbox dari app store perangkat Anda. Tersedia untuk perangkat iOS dan Mac.<br><br>
@@ -408,10 +408,10 @@ Jelajahi tutorial dalam aplikasi atau kunjungi panduan ini:<br><br>
 • [Hubungkan Kartu Flash USB](/docs/howto/how-to-connect-a-usb-flashcard-to-the-iphone-and-listen-to-music-or-manage-files-located-on-it)<br>
 • [Transfer Nirkabel WiFi-Drive](/docs/howto/how-to-transfer-files-wirelessly-from-a-computer-to-an-iphone-using-wifi-drive)
 
-{{% /details %}}
+{{% /ls-details %}}
 
 
-{{% details title="Apakah Flacbox Aman?" closed="true" %}}
+{{% ls-details title="Apakah Flacbox Aman?" closed="true" %}}
 Flacbox hanya menggunakan SDK resmi dan koneksi aman untuk berinteraksi dengan layanan cloud yang terhubung. Login dan kata sandi Anda tidak tersedia untuk aplikasi. Semua permintaan dari aplikasi ke layanan cloud dienkripsi.<br>
 Saat Anda memasukkan login dan kata sandi, aplikasi menampilkan halaman otorisasi resmi yang disediakan oleh penyedia layanan cloud dan seluruh proses otorisasi dilakukan di luar aplikasi. Penyedia layanan cloud mengirimkan auth-token ke aplikasi setelah otorisasi berhasil dan token tersebut digunakan untuk melakukan panggilan API.<br><br>
 
@@ -423,24 +423,24 @@ Untuk menolak auth-token, masuk ke akun Anda di browser web dan navigasi ke hala
 Anda juga dapat memutuskan akun cloud yang terhubung di aplikasi dan auth-token juga akan dihapus dari perangkat Anda. Jika Anda menghapus aplikasi dari perangkat, semua data yang diunduh dan token akses juga akan dihapus.<br><br>
 
 [Baca selengkapnya](/docs/guide/flacbox/flacbox-guide-connections)
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Bagaimana cara membuat playlist di Flacbox?" closed="true" %}}
+{{% ls-details title="Bagaimana cara membuat playlist di Flacbox?" closed="true" %}}
 - Buka bagian Playlist.<br>
 - Ketuk tombol "+" atau tombol "..." di pojok kanan atas dan pilih "Playlist Baru."<br>
 - Masukkan nama untuk playlist dan ketuk "Simpan." Dialog "Tambah Lagu" akan muncul.<br>
 - Pilih trek yang ingin Anda tambahkan ke playlist.<br><br>
 
 [Baca selengkapnya](/docs/guide/flacbox/flacbox-guide-playlists)
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Layanan cloud apa yang didukung Flacbox?" closed="true" %}}
+{{% ls-details title="Layanan cloud apa yang didukung Flacbox?" closed="true" %}}
 Saat ini, aplikasi mendukung layanan cloud paling populer: iCloud Drive, Google Drive, Dropbox, OneDrive, Box, MEGA, Yandex.Disk, WD MyCloud Home, DLNA, MediaFire, WebDAV, SMB, pCloud, HiDrive, My Cloud Home, InfiniCLOUD, Cloud Mail.ru, Put.io, MyDrive.<br><br>
 
 [Baca selengkapnya](/docs/guide/flacbox/flacbox-guide-connections)
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Bagaimana cara menggunakan equalizer?" closed="true" %}}
+{{% ls-details title="Bagaimana cara menggunakan equalizer?" closed="true" %}}
 - Buka Layar Pemutar Audio.<br>
 - Ketuk ikon "Equalizer" di bagian bawah layar.<br>
 - Alihkan kontrol saklar di pojok kanan atas layar equalizer untuk mengaktifkan equalizer.<br>
@@ -448,9 +448,9 @@ Saat ini, aplikasi mendukung layanan cloud paling populer: iCloud Drive, Google 
 
 Tutorial lengkap tersedia di sini:<br>
 [Cara menggunakan equalizer audio di iPhone, iPad, Mac dengan Evermusic dan Flacbox](/docs/howto/how-to-use-the-audio-equalizer-on-your-iphone-ipad-mac-with-evermusic-and-flacbox)
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Bagaimana cara mengaktifkan mode offline di Flacbox?" closed="true" %}}
+{{% ls-details title="Bagaimana cara mengaktifkan mode offline di Flacbox?" closed="true" %}}
 - Hubungkan Layanan Cloud:<br>
  • Buka tab "Koneksi".<br>
  • Pilih "Hubungkan layanan cloud" dan ikuti petunjuk untuk menghubungkan layanan yang diinginkan.<br><br>
@@ -476,9 +476,9 @@ Tutorial lengkap tersedia di sini:<br>
  • Ketuk "Tindakan lainnya" dan pilih "Mulai sinkronisasi."<br><br>
 
 [Baca selengkapnya](/docs/howto/play-offline-music-in-evermusic-flacbox-download-sync-from-cloud-to-local-files/)
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Bagaimana cara memutar musik yang diunduh secara lokal di iPhone?" closed="true" %}}
+{{% ls-details title="Bagaimana cara memutar musik yang diunduh secara lokal di iPhone?" closed="true" %}}
 Setelah Anda menginstal aplikasi, buka layar "File Lokal" dan gulir ke bawah ke bagian "File di iPhone ini". Dari sana, pilih "Buka file..." jika Anda perlu memilih beberapa file audio atau "Buka folder..." jika Anda ingin memilih folder musik. Aplikasi akan memindai konten folder, dan semua file audio yang ditemukan akan dipilih. Navigasi ke folder musik Anda, ketuk "Buka" untuk mengonfirmasi pilihan Anda, dan file akan ditambahkan ke antrean pemutar. File-file ini akan diputar langsung dari lokasi yang dipilih tanpa disalin ke bundel aplikasi.<br><br>
 
 **Menambahkan Folder ke Favorit untuk Akses Cepat**<br>
@@ -493,13 +493,13 @@ Untuk menambahkan file lokal ke playlist, buka layar "Playlist" dan ketuk tombol
 Dengan langkah-langkah sederhana ini, Anda dapat membuka potensi penuh iPhone dan Mac Anda sebagai platform terbaik untuk menikmati koleksi musik lokal kesayangan Anda.<br><br>
 
 [Baca selengkapnya](/docs/howto/how-to-play-local-music-stored-on-your-iphone-or-mac)
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Bagaimana cara melanjutkan playlist dari tempat saya berhenti?" closed="true" %}}
+{{% ls-details title="Bagaimana cara melanjutkan playlist dari tempat saya berhenti?" closed="true" %}}
 Pertama, pastikan "Simpan Status Pemutar Audio" diaktifkan di Pengaturan > Pemutar Audio > Umum. Saat Anda beralih ke playlist lain dan kembali, Anda akan melihat empat tindakan di toolbar atas di bawah sampul album: "Pencarian," "Lanjutkan Pemutaran," "Putar Semua," dan "Acak Semua." Ketuk "Lanjutkan Pemutaran" untuk melanjutkan playlist dari status dan posisi media terakhir yang disimpan.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Bagaimana cara melihat lirik lagu di Flacbox?" closed="true" %}}
+{{% ls-details title="Bagaimana cara melihat lirik lagu di Flacbox?" closed="true" %}}
 Anda dapat melihat lirik yang tertanam untuk trek di aplikasi dengan **mengikuti langkah-langkah ini**:<br>
 1. Mulai memutar file audio dengan mengetuknya.<br>
 2. Buka pemutar audio layar penuh.<br>
@@ -513,9 +513,9 @@ Anda dapat melihat lirik yang tertanam untuk trek di aplikasi dengan **mengikuti
 3. Mode File LRC: Alih-alih mengedit file audio, Anda dapat menempatkan file LRC di folder yang sama dengan file audio asli. Kedua file harus memiliki nama yang sama tetapi ekstensi yang berbeda. Saat Anda menggeser ke halaman ketiga di layar Komentar, aplikasi akan mencari file LRC di direktori yang sama dan menampilkan kontennya.<br><br>
 
 [Baca selengkapnya](/docs/howto/how-to-add-and-view-comments-to-your-audio-tracks-on-iphone-ipad-and-mac-with-evermusic-and-flacbox)
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Bagaimana cara mentransfer musik ke Flacbox dari komputer saya?" closed="true" %}}
+{{% ls-details title="Bagaimana cara mentransfer musik ke Flacbox dari komputer saya?" closed="true" %}}
 Anda dapat menghubungkan komputer atau NAS pribadi menggunakan protokol SMB, WebDAV, atau DLNA. Alternatifnya, gunakan iTunes File Sharing untuk mentransfer musik.<br><br>
 
 Untuk menghubungkan komputer menggunakan protokol SMB ketuk "Hubungkan layanan cloud" → SMB. Masukkan alamat IP komputer dan nama folder bersama di bidang URL menggunakan format smb://alamat-ip-komputer/nama-folder-bersama, masukkan login dan kata sandi dan ketuk "Selesai". Jika koneksi berhasil, Anda akan melihat penyimpanan yang terhubung di bagian "Layanan cloud".<br><br>
@@ -536,9 +536,9 @@ Instruksi detail tersedia di sini:<br>
 
 DLNA Anda juga dapat mengatur server media DLNA dan streaming musik dari Windows PC seperti yang dijelaskan di sini:<br>
 [Cara Mengaktifkan DLNA Media Server di Windows 10 dan Memutar Musik di iPhone](/docs/howto/how-to-enable-dlna-media-server-on-windows-10-and-play-your-music-on-iphone)
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Bagaimana cara mengunduh musik?" closed="true" %}}
+{{% ls-details title="Bagaimana cara mengunduh musik?" closed="true" %}}
 Sebelum Anda dapat mengunduh musik dan mendengarkan musik offline, Anda harus menghubungkan akun jaringan.<br>
 Cukup buka layar "Koneksi" dan tambahkan akun Anda.<br>
 Setelah Anda menambahkan akun jaringan, Anda dapat mengunduh musik dari cloud.<br><br>
@@ -559,15 +559,15 @@ Instruksi lebih detail tentang mode offline tersedia di sini:<br>
 
 Opsi lain yang tersedia adalah mengunduh musik dari layanan cloud dan mengimpornya ke Evermusic seperti yang dijelaskan di sini:<br>
 [Cara Mengunduh Musik dari YouTube dan Mendengarkan Musik Offline di iPhone](/docs/howto/how-to-download-music-from-youtube-and-listen-to-offline-music-on-iphone)
-{{% /details %}}
+{{% /ls-details %}}
 
 
-{{% details title="Format audio apa yang didukung Flacbox?" closed="true" %}}
+{{% ls-details title="Format audio apa yang didukung Flacbox?" closed="true" %}}
 Aplikasi ini mendukung **codec audio sistem** default dan **codec perangkat lunak ffmpeg** tambahan:<br><br>
 3g2, 3gp, 3gp2, 3gpp, 8svx, aa, aac, aax, ac3, act, adt, adts, aif, aifc, aiff, alac, amr, amv, ape, asf, au, avi, awb, caf, cavs, cdda, cue, dct, dff, drc, dsf, dss, dvf, "dvr-ms", ec3, f4a, f4b, f4p, f4v, flac, flv, gif, gifv, gsm, gxf, h261, h263, h264, ifv, iklax, ivf, ivs, l16, latm, loas, m2t, m2ts, m2v, m3u, m3u8, m4a, m4b, m4p, m4r, m4v, mka, mkv, mmf, mng, mod, mogg, mov, mp1, mp2, mp3, mp4, mp4v, mpa, mpc, mpe, mpeg, mpg, mpv, msv, mts, mxf, nsf, nsv, nut, oga, ogg, ogv, opus, pcm, pls, qt, ra, raw, rm, rmvb, roq, rv, sln, snd, svi, tod, tta, vob, voc, vox, vtt, w64, wav, wave, webm, wma, wmv, wv, xhe, xmv, y4m, yuv.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Bisakah saya menggunakan Flacbox untuk memutar buku audio?" closed="true" %}}
+{{% ls-details title="Bisakah saya menggunakan Flacbox untuk memutar buku audio?" closed="true" %}}
 
 Ya, Flacbox dapat digunakan sebagai pemutar buku audio yang andal.<br><br>
 
@@ -590,11 +590,11 @@ Flacbox menyediakan solusi lengkap untuk pecinta buku audio di iPhone, iPad, dan
 
 [Baca selengkapnya](/docs/howto/how-to-listen-to-audiobooks-on-iphone-ipad-mac-using-evermusic)
 
-{{% /details %}}
+{{% /ls-details %}}
 
 
 
-{{% details title="Apakah Flacbox bekerja dengan perangkat NAS?" closed="true" %}}
+{{% ls-details title="Apakah Flacbox bekerja dengan perangkat NAS?" closed="true" %}}
 
 Ya, Flacbox mendukung koneksi NAS menggunakan protokol **SMB**, **WebDAV**, dan **DLNA**.<br><br>
 
@@ -625,10 +625,10 @@ Jika koneksi berhasil, Anda akan melihat NAS Anda di bagian **Layanan cloud**.<b
 • [Hubungkan penyimpanan Bluesound Vault](/docs/howto/how-to-connect-bluesound-vault-s-internal-storage-from-the-evermusic-flacbox-evertag)<br>
 • [Hubungkan Penyimpanan NAS Menggunakan WebDAV](/docs/howto/how-to-connect-nas-storage-using-webdav-and-listen-to-music-on-your-iphone-or-mac)
 
-{{% /details %}}
+{{% /ls-details %}}
 
 
-{{% details title="Bagaimana cara mengimpor musik ke Flacbox?" closed="true" %}}
+{{% ls-details title="Bagaimana cara mengimpor musik ke Flacbox?" closed="true" %}}
 
 **Hubungkan Layanan Cloud Anda**<br>
 • Buka tab **Koneksi**.<br>
@@ -674,10 +674,10 @@ Jelajahi tutorial ini untuk bantuan lebih lanjut:<br><br>
 • [Transfer File Secara Nirkabel Menggunakan WiFi-Drive](/docs/howto/how-to-transfer-files-wirelessly-from-a-computer-to-an-iphone-using-wifi-drive)<br>
 • [Transfer File Menggunakan Protokol SMB](/docs/howto/transfer-your-files-from-the-computer-to-iphone-using-smb-protocol/)
 
-{{% /details %}}
+{{% /ls-details %}}
 
 
-{{% details title="Bagaimana cara menggunakan fitur Wi-Fi Drive di Flacbox?" closed="true" %}}
+{{% ls-details title="Bagaimana cara menggunakan fitur Wi-Fi Drive di Flacbox?" closed="true" %}}
 
 **Transfer nirkabel menggunakan browser desktop**<br>
 1. Luncurkan aplikasi: Buka Flacbox.<br>
@@ -702,9 +702,9 @@ Catatan: Pastikan JavaScript diaktifkan dan Anda menggunakan versi browser terba
 
 [Baca selengkapnya](/docs/howto/how-to-transfer-files-wirelessly-from-a-computer-to-an-iphone-using-wifi-drive)
 
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Apakah Flacbox mendukung Apple CarPlay?" closed="true" %}}
+{{% ls-details title="Apakah Flacbox mendukung Apple CarPlay?" closed="true" %}}
 Ya, **Flacbox sepenuhnya mendukung Apple CarPlay**. Anda dapat menjelajahi pustaka musik, memutar file lokal atau offline, menghubungkan ke penyimpanan cloud, dan mengontrol pemutaran langsung dari layar infotainment mobil Anda.
 
 Antarmuka CarPlay menyertakan tab khusus untuk **Pustaka**, **Koneksi**, **File Lokal**, dan **Pengaturan**, memberi Anda kontrol penuh atas musik di perjalanan. Kontrol pemutaran, acak, ulangi, dan manajemen antrean juga tersedia.
@@ -712,42 +712,42 @@ Antarmuka CarPlay menyertakan tab khusus untuk **Pustaka**, **Koneksi**, **File 
 Untuk menggunakan CarPlay, pastikan Siri diaktifkan dan iPhone Anda terhubung melalui USB atau nirkabel.
 
 [Baca panduan lengkap](/docs/howto/how-to-play-your-own-music-on-iphone-using-carplay/)
-{{% /details %}}
+{{% /ls-details %}}
 
 </div>
 
 
 <div class="hx:mt-6"></div>
 
-{{< hextra/section-headline >}}
+{{< ls-section-headline >}}
   Panduan Pengguna
-{{< /hextra/section-headline >}}
+{{< /ls-section-headline >}}
 
 <div class="hx:mt-6"></div>
 
 <div class="hx:w-full">
 
 <div class="hx:w-full hx:mx-auto hx:flex hx:flex-col hx:items-center hx:text-center">
-  {{< hextra/info-paragraph border="false" >}}
+  {{< ls-info-paragraph border="false" >}}
   Panduan ini akan membantu Anda mendapatkan hasil maksimal dari Flacbox di iPhone, iPad, atau Mac Anda. Pelajari cara streaming musik resolusi tinggi dari cloud, mengatur pustaka Anda, mengelola buku audio, dan mentransfer musik antar perangkat.
-  {{< /hextra/info-paragraph >}}
+  {{< /ls-info-paragraph >}}
 </div>
 
 {{< cards >}}
 
-{{< feature-card icon="map" link="/docs/guide/flacbox/flacbox-guide-navigation" title="Navigasi" subtitle="Gunakan Tab Bar di iPhone atau Menu Kiri di iPad & Mac." >}}
+{{< ls-feature-card icon="map" link="/docs/guide/flacbox/flacbox-guide-navigation" title="Navigasi" subtitle="Gunakan Tab Bar di iPhone atau Menu Kiri di iPad & Mac." >}}
 
-{{< feature-card icon="cloud" link="/docs/guide/flacbox/flacbox-guide-connections" title="Koneksi" subtitle="Hubungkan Dropbox, Google Drive, iCloud, atau NAS Anda." >}}
+{{< ls-feature-card icon="cloud" link="/docs/guide/flacbox/flacbox-guide-connections" title="Koneksi" subtitle="Hubungkan Dropbox, Google Drive, iCloud, atau NAS Anda." >}}
 
-{{< feature-card icon="collection" link="/docs/guide/flacbox/flacbox-guide-music-library" title="Pustaka Musik" subtitle="Kelola dan cari trek berdasarkan artis, album, atau genre." >}}
+{{< ls-feature-card icon="collection" link="/docs/guide/flacbox/flacbox-guide-music-library" title="Pustaka Musik" subtitle="Kelola dan cari trek berdasarkan artis, album, atau genre." >}}
 
-{{< feature-card icon="music-note" link="/docs/guide/flacbox/flacbox-guide-playlists" title="Playlist" subtitle="Buat dan atur playlist untuk setiap suasana hati atau kesempatan." >}}
+{{< ls-feature-card icon="music-note" link="/docs/guide/flacbox/flacbox-guide-playlists" title="Playlist" subtitle="Buat dan atur playlist untuk setiap suasana hati atau kesempatan." >}}
 
-{{< feature-card icon="folder" link="/docs/guide/flacbox/flacbox-guide-local-files" title="File Lokal" subtitle="Edit dan putar musik offline dengan pengelola file bawaan." >}}
+{{< ls-feature-card icon="folder" link="/docs/guide/flacbox/flacbox-guide-local-files" title="File Lokal" subtitle="Edit dan putar musik offline dengan pengelola file bawaan." >}}
 
-{{< feature-card icon="play" link="/docs/guide/flacbox/flacbox-guide-player" title="Pemutar Audio" subtitle="Kontrol pemutaran, sesuaikan kecepatan, atur penanda, dan lainnya." >}}
+{{< ls-feature-card icon="play" link="/docs/guide/flacbox/flacbox-guide-player" title="Pemutar Audio" subtitle="Kontrol pemutaran, sesuaikan kecepatan, atur penanda, dan lainnya." >}}
 
-{{< feature-card icon="adjustments" link="/docs/guide/flacbox/flacbox-guide-settings" title="Pengaturan" subtitle="Sesuaikan equalizer, tampilan, dan perilaku aplikasi." >}}
+{{< ls-feature-card icon="adjustments" link="/docs/guide/flacbox/flacbox-guide-settings" title="Pengaturan" subtitle="Sesuaikan equalizer, tampilan, dan perilaku aplikasi." >}}
 
 {{< /cards >}}
 

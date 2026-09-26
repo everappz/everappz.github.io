@@ -7,7 +7,7 @@ tags: ["mp3", "editor", "iPhone", "tags", "metadata", "id3"]
 readingTime: 2
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **Samenvatting:** Gebruik de ingebouwde tag-editor in Evermusic of Flacbox om ID3-tags te bewerken op iPhone of Mac -- voor zowel cloud- als lokale bestanden. Heb je batchbewerking of 120+ tagvelden nodig? Gebruik dan [Evertag](https://apps.apple.com/app/apple-store/id1450763230?pt=95781850&ct=everappzcom&mt=8).
@@ -21,8 +21,8 @@ Wanneer je nummers importeert in je muziekbibliotheek, worden ze intelligent geg
 Terwijl veel desktop-apps metadata-bewerking bieden, tillen Evermusic en Flacbox eenvoud naar een hoger niveau door een ID3-tag-editor op te nemen. Nu kun je één app gebruiken om je muziekbibliotheek op te bouwen, van je tracks te genieten en audiotags te corrigeren.
 
 {{< cards cols="2">}}
-{{< card link="https://apps.apple.com/app/apple-store/id885367198?pt=95781850&ct=everappzcom&mt=8" title="Download Evermusic" icon="download" tag="Free" >}}
-{{< card link="https://apps.apple.com/app/apple-store/id1097564256?pt=95781850&ct=everappzcom&mt=8" title="Download Flacbox" icon="download" tag="Free" >}}
+{{< ls-card link="https://apps.apple.com/app/apple-store/id885367198?pt=95781850&ct=everappzcom&mt=8" title="Download Evermusic" icon="download" tag="Free" >}}
+{{< ls-card link="https://apps.apple.com/app/apple-store/id1097564256?pt=95781850&ct=everappzcom&mt=8" title="Download Flacbox" icon="download" tag="Free" >}}
 {{< /cards >}}
 
 ## Professionele editor
@@ -30,7 +30,7 @@ Terwijl veel desktop-apps metadata-bewerking bieden, tillen Evermusic en Flacbox
 Maar voordat je begint, bekijk de **Evertag**-app — deze ondersteunt **120+ audiotags**, **30+ audioformaten** en biedt krachtige **batchbewerking**. Als je op zoek bent naar een volledig uitgerust tagbeheertool, is Evertag de juiste keuze. Als je echter alleen een **eenvoudige tag-editor** nodig hebt, ga dan verder met deze handleiding.
 
 {{< cards >}}
-{{< card link="https://apps.apple.com/app/apple-store/id1450763230?pt=95781850&ct=everappzcom&mt=8" title="Download Evertag" icon="download" tag="Free" >}}
+{{< ls-card link="https://apps.apple.com/app/apple-store/id1450763230?pt=95781850&ct=everappzcom&mt=8" title="Download Evertag" icon="download" tag="Free" >}}
 {{< /cards >}}
 
 
@@ -38,21 +38,21 @@ Maar voordat je begint, bekijk de **Evertag**-app — deze ondersteunt **120+ au
 Koppel je voorkeurs-cloudaccount binnen de app.
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Cloudserver verbinden" image="/docs/howto/how-to-edit-id3-tags-on-iphone/connect_cloud_server.webp" >}}
+{{< ls-card title="" subtitle="Cloudserver verbinden" image="/docs/howto/how-to-edit-id3-tags-on-iphone/connect_cloud_server.webp" >}}
 {{< /cards >}}
 
 ## Navigeer naar je audiobestanden  
 Open de map met je audiobestanden in het verbonden cloudaccount.
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Cloudmappen" image="/docs/howto/how-to-edit-id3-tags-on-iphone/cloud_server_folders.webp" >}}
+{{< ls-card title="" subtitle="Cloudmappen" image="/docs/howto/how-to-edit-id3-tags-on-iphone/cloud_server_folders.webp" >}}
 {{< /cards >}}
 
 ## Bestandsopties openen  
 Tik op de knop 'Meer' ('...') bij het bestand dat je wilt bewerken.
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Meer acties" image="/docs/howto/how-to-edit-id3-tags-on-iphone/cloud_server_audio_more_actions.webp" >}}
+{{< ls-card title="" subtitle="Meer acties" image="/docs/howto/how-to-edit-id3-tags-on-iphone/cloud_server_audio_more_actions.webp" >}}
 {{< /cards >}}
 
 ## Kies 'Audiotags bewerken'  
@@ -70,7 +70,7 @@ Op het scherm 'Tag-editor' wijzig je metadatavelden zoals Titel, Artiest, Album,
 Als je klaar bent met bewerken, tik je op de knop 'Bewaar' om je wijzigingen op te slaan.
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Tag-editor" image="/docs/howto/how-to-edit-id3-tags-on-iphone/tags_editor.webp" >}}
+{{< ls-card title="" subtitle="Tag-editor" image="/docs/howto/how-to-edit-id3-tags-on-iphone/tags_editor.webp" >}}
 {{< /cards >}}
 
 ## Slimme automatische aanvulling  
@@ -88,7 +88,7 @@ Je kunt audiotags bewerken voor bestanden die **direct op je apparaat** zijn opg
 - **Ga naar het gedeelte "Lokale bestanden"**, scroll vervolgens naar beneden naar **"Bestanden op dit apparaat."**
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Bestanden op dit apparaat" image="/docs/howto/how-to-edit-id3-tags-on-iphone/local_files.webp" >}}
+{{< ls-card title="" subtitle="Bestanden op dit apparaat" image="/docs/howto/how-to-edit-id3-tags-on-iphone/local_files.webp" >}}
 {{< /cards >}}
 
 - Tik op **"Map verbinden"**.
@@ -96,25 +96,25 @@ Je kunt audiotags bewerken voor bestanden die **direct op je apparaat** zijn opg
 - Kies in de mapkiezer de directory die je wilt openen en tik op **"Open"** om te bevestigen.
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Externe map verbinden" image="/docs/howto/how-to-edit-id3-tags-on-iphone/connect_external_folder.webp" >}}
+{{< ls-card title="" subtitle="Externe map verbinden" image="/docs/howto/how-to-edit-id3-tags-on-iphone/connect_external_folder.webp" >}}
 {{< /cards >}}
 
 - Na het toevoegen van de map, tik erop om de bestanden erin te bekijken.
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Inhoud externe map" image="/docs/howto/how-to-edit-id3-tags-on-iphone/connected_external_folder.webp" >}}
+{{< ls-card title="" subtitle="Inhoud externe map" image="/docs/howto/how-to-edit-id3-tags-on-iphone/connected_external_folder.webp" >}}
 {{< /cards >}}
 
 - Net als bij cloudbestanden, tik op de knop **"Meer acties"** naast een audiobestand en selecteer **"Audiotags bewerken".**
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Meer acties - Lokaal bestand" image="/docs/howto/how-to-edit-id3-tags-on-iphone/more_actions_local_file.webp" >}}
+{{< ls-card title="" subtitle="Meer acties - Lokaal bestand" image="/docs/howto/how-to-edit-id3-tags-on-iphone/more_actions_local_file.webp" >}}
 {{< /cards >}}
 
 - De tag-editor wordt geopend. Breng je wijzigingen aan en tik op **"Bewaar"**. Dat is het! Je bewerkingen worden direct op het bestand toegepast — geen kopiëren of verplaatsen nodig.
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Tag-editor - Lokaal bestand" image="/docs/howto/how-to-edit-id3-tags-on-iphone/tag_editor_local_file.webp" >}}
+{{< ls-card title="" subtitle="Tag-editor - Lokaal bestand" image="/docs/howto/how-to-edit-id3-tags-on-iphone/tag_editor_local_file.webp" >}}
 {{< /cards >}}
 
 ## Albumhoes bewerken
@@ -126,7 +126,7 @@ Om een albumhoes te wijzigen:
 3. Selecteer een afbeelding om als hoes toe te passen.
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Afbeelding selecteren" image="/docs/howto/how-to-edit-id3-tags-on-iphone/tags_editor_choose_image.webp" >}}
+{{< ls-card title="" subtitle="Afbeelding selecteren" image="/docs/howto/how-to-edit-id3-tags-on-iphone/tags_editor_choose_image.webp" >}}
 {{< /cards >}}
 
 ## Meer acties in de tag-editor
@@ -134,7 +134,7 @@ Om een albumhoes te wijzigen:
 Extra bewerkingsopties zijn beschikbaar via de werkbalk onder de artwork-weergave.
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Menu meer acties" image="/docs/howto/how-to-edit-id3-tags-on-iphone/tags_edito_more_actions.webp" >}}
+{{< ls-card title="" subtitle="Menu meer acties" image="/docs/howto/how-to-edit-id3-tags-on-iphone/tags_edito_more_actions.webp" >}}
 {{< /cards >}}
 
 ### Automatisch audiotags zoeken
@@ -195,22 +195,22 @@ Vereenvoudig je muziekbibliotheekbeheer en tagbewerking met Evermusic en Flacbox
 
 ## Veelgestelde vragen
 
-{{% details title="Welke audioformaten kan ik bewerken?" closed="true" %}}
+{{% ls-details title="Welke audioformaten kan ik bewerken?" closed="true" %}}
 Evermusic en Flacbox ondersteunen tagbewerking voor MP3, FLAC, AAC, OGG en andere gangbare audioformaten. Evertag ondersteunt 30+ formaten inclusief WAV, AIFF, WMA en APE.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Kan ik tags bewerken voor bestanden in clouddiensten?" closed="true" %}}
+{{% ls-details title="Kan ik tags bewerken voor bestanden in clouddiensten?" closed="true" %}}
 Ja. Verbind je Dropbox-, Google Drive-, OneDrive- of ander cloudaccount. De app downloadt het bestand, laat je tags bewerken en uploadt het gewijzigde bestand automatisch terug naar de cloud.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Wat is het verschil tussen Evermusic/Flacbox en Evertag?" closed="true" %}}
+{{% ls-details title="Wat is het verschil tussen Evermusic/Flacbox en Evertag?" closed="true" %}}
 Evermusic en Flacbox zijn muziekspelers met een ingebouwde basis tag-editor. Evertag is een speciale tag-editor die 120+ audiotags, batchbewerking en 30+ formaten ondersteunt -- ideaal voor het beheren van grote bibliotheken.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Vereist de automatische zoekfunctie een internetverbinding?" closed="true" %}}
+{{% ls-details title="Vereist de automatische zoekfunctie een internetverbinding?" closed="true" %}}
 Ja. De functie Automatisch audiotags zoeken bevraagt de MusicBrainz online database om metadata te vinden en in te vullen. Een actieve internetverbinding is vereist voor deze functie.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Verandert het bewerken van tags mijn audiokwaliteit?" closed="true" %}}
+{{% ls-details title="Verandert het bewerken van tags mijn audiokwaliteit?" closed="true" %}}
 Nee. Tagbewerking wijzigt alleen de metadata die in het bestand is ingebed. De audiodata zelf blijft onaangetast -- er vindt geen hercodering plaats.
-{{% /details %}}
+{{% /ls-details %}}

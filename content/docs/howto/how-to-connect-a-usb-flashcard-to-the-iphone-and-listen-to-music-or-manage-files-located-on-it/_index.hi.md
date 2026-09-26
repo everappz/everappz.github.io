@@ -7,7 +7,7 @@ tags: ["संगीत", "फ़ाइलें", "usb", "फ्लैश", "�
 readingTime: 2
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **सारांश:** Apple एडेप्टर या SanDisk iXpand ड्राइव का उपयोग करके USB फ्लैश ड्राइव या SD कार्ड को अपने iPhone से कनेक्ट करें, फिर बाहरी स्टोरेज से सीधे अपनी ऑडियो फ़ाइलों को ब्राउज़ करने, चलाने और प्रबंधित करने के लिए Evermusic, Flacbox या Evertag का उपयोग करें।
@@ -72,18 +72,18 @@ iPhone से USB फ्लैश या SD कार्ड कनेक्ट �
 
 ## अक्सर पूछे जाने वाले प्रश्न
 
-{{% details title="संगीत प्लेबैक के लिए iPhone के साथ कौन से USB एडेप्टर काम करते हैं?" closed="true" %}}
+{{% ls-details title="संगीत प्लेबैक के लिए iPhone के साथ कौन से USB एडेप्टर काम करते हैं?" closed="true" %}}
 Apple का Lightning to SD Card Camera Reader और Lightning to USB 3 Camera Adapter दोनों काम करते हैं। USB-C एडेप्टर USB-C पोर्ट वाले नए iPhones पर काम करते हैं। SanDisk iXpand Flash ड्राइव (V1-V7) भी Evermusic, Flacbox और Evertag द्वारा मूल रूप से समर्थित हैं।
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="क्या मैं फ़ाइलें कॉपी किए बिना सीधे USB ड्राइव से संगीत चला सकता हूं?" closed="true" %}}
+{{% ls-details title="क्या मैं फ़ाइलें कॉपी किए बिना सीधे USB ड्राइव से संगीत चला सकता हूं?" closed="true" %}}
 हां। SanDisk iXpand ड्राइव के साथ, आप अपने iPhone में फ़ाइलें कॉपी किए बिना सीधे ड्राइव से संगीत चला सकते हैं। Apple एडेप्टर का उपयोग करते समय, फ़ाइलें आयात की जाती हैं लेकिन आप चुन सकते हैं कि उन्हें स्थानीय स्टोरेज में कॉपी करना है या नहीं।
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="USB ड्राइव से कौन से ऑडियो प्रारूप समर्थित हैं?" closed="true" %}}
+{{% ls-details title="USB ड्राइव से कौन से ऑडियो प्रारूप समर्थित हैं?" closed="true" %}}
 Evermusic और Flacbox FLAC, MP3, AAC, WAV, ALAC, OGG, WMA और अधिक सहित प्रारूपों की एक विस्तृत श्रृंखला का समर्थन करते हैं। USB स्टोरेज से चलाते समय सभी समर्थित प्रारूप काम करते हैं।
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="मेरा SanDisk iXpand 'व्यस्त' त्रुटि दिखाता है। मुझे क्या करना चाहिए?" closed="true" %}}
+{{% ls-details title="मेरा SanDisk iXpand 'व्यस्त' त्रुटि दिखाता है। मुझे क्या करना चाहिए?" closed="true" %}}
 कोई अन्य ऐप ड्राइव तक पहुंच रहा हो सकता है। फ्लैश ड्राइव का उपयोग करने वाले सभी अन्य ऐप्स बंद करें, या इसे अनप्लग करें और फिर से डालें। फिर Evermusic, Flacbox या Evertag को फिर से खोलें।
-{{% /details %}}
+{{% /ls-details %}}

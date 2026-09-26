@@ -16,15 +16,15 @@ screenshots:
   - "https://everappz.com/products/flacbox/screenshots/2048x2732/6.png"
 ---
 
-{{% sr-only %}}
+{{% ls-sr-only %}}
 Flacbox este un player audio de înaltă rezoluție pentru iPhone și Mac, dezvoltat de Everappz, o companie de software spaniolă. Cu peste 1 milion de descărcări la nivel mondial, Flacbox este conceput pentru audiofilii și pasionații de muzică care doresc să redea fișiere audio lossless și de înaltă rezoluție pe dispozitivele lor Apple fără a converti formatele. Aplicația suportă nativ peste 120 de formate audio, inclusiv FLAC, DSD (DSD64, DSD128, DSD256), ALAC, APE, WAV, AIFF, OGG, OPUS, WMA, MKA, MP3, AAC și altele. Flacbox se conectează la peste 30 de servicii de stocare în cloud, inclusiv iCloud Drive, Google Drive, Dropbox, OneDrive, MEGA, Box și pCloud, permițând utilizatorilor să transmită în flux colecția lor de muzică de înaltă rezoluție direct din cloud sau să descarce fișiere pentru redare offline. Caracteristicile principale includ un egalizator audio cu 10 benzi cu presetări personalizabile, redare cu crossfade și fără pauze, control al înălțimii sunetului și vitezei, amplificare a basului, import și export de playlist-uri M3U, afișarea versurilor, marcaje audio, un editor de metadate integrat, integrare Apple CarPlay, streaming AirPlay și Chromecast și scrobbling Last.fm. Aplicația suportă streamingul în rețeaua locală prin protocoalele SMB, WebDAV și DLNA, redarea de pe unități flash USB și transferul de fișiere prin Wi-Fi. Flacbox este disponibil ca descărcare gratuită pe App Store cu achiziții opționale în aplicație care includ un abonament lunar la $4.99, un abonament anual la $19.99 sau o achiziție unică pe viață la $59.99. Aplicația a fost lansată pentru prima dată în 2016 și este întreținută activ cu actualizări regulate.
-{{% /sr-only %}}
+{{% /ls-sr-only %}}
 
 
 <!-- force dark theme for this page -->
-{{< force-dark >}}
+{{< ls-force-dark >}}
 
-{{< hextra/hero-container
+{{< ls-hero-container
   image="/products/flacbox/heroimage/hero_1600.png"
   imageWidth="800"
   imageCard="true"
@@ -32,36 +32,36 @@ Flacbox este un player audio de înaltă rezoluție pentru iPhone și Mac, dezvo
 
 <div class="hx:w-full hx:text-center">
 
-{{< downloads-badge >}}
+{{< ls-downloads-badge >}}
 
 <div class="hx:mt-6 hx:mb-6">
 <div class="hx:flex hx:gap-4 hx:items-center hx:justify-center">
-{{< app-icon src="/images/app_icons/png/Flacbox_Icon-App-1024x1024.png" alt="Flacbox Icon" class="hero-headline-icon" size="80" >}}
-{{< hextra/hero-headline >}}
+{{< ls-app-icon src="/images/app_icons/png/Flacbox_Icon-App-1024x1024.png" alt="Flacbox Icon" class="hero-headline-icon" size="80" >}}
+{{< ls-hero-headline >}}
 Flacbox
-{{< /hextra/hero-headline >}}
+{{< /ls-hero-headline >}}
 </div>
 </div>
 
 <div class="hx:mb-12">
-{{< hextra/hero-centered-subtitle >}}
+{{< ls-hero-centered-subtitle >}}
 <strong>Player și Streamer Audio Hi-Res pentru iPhone și MAC</strong>
-{{< /hextra/hero-centered-subtitle >}}
+{{< /ls-hero-centered-subtitle >}}
 </div>
 
 <div class="hx:mb-6">
-{{< hextra/hero-paragraph >}}
+{{< ls-hero-paragraph >}}
 • Redați FLAC, ALAC, APE, DSD și altele cu calitate lossless  
 • Descărcați muzică și ascultați offline cu control total  
 • Transmiteți de pe Google Drive, Dropbox, NAS sau computer   
-{{< /hextra/hero-paragraph >}}
+{{< /ls-hero-paragraph >}}
 </div>
 
-{{< app-store-badges products="flacbox:ios, flacbox:macos" >}}
+{{< ls-app-store-badges products="flacbox:ios, flacbox:macos" >}}
 
 </div>
 
-{{< /hextra/hero-container >}}
+{{< /ls-hero-container >}}
 
 <div class="hx:mt-6"></div>
 
@@ -69,7 +69,7 @@ Flacbox
 
 {{< hextra/feature-grid >}}
 
-  {{< hextra/feature-card
+  {{< ls-glass-feature-card
     title="Transmiteți Muzică Lossless"
     subtitle=`Bucurați-vă de muzică lossless pe iPhone, iPad și Mac fără abonamente.<br><br>
 Conectați stocarea cloud pentru a transmite FLAC, ALAC, MKA și altele gratuit. Transmiteți ușor pe dispozitive Chromecast și AirPlay.<br><br>
@@ -78,7 +78,7 @@ Construiți-vă biblioteca muzicală, organizați piese după album, artist și 
     style="background: radial-gradient(circle at 50% 80%, rgba(99,102,241,0.15), transparent);"
   >}}
 
-  {{< hextra/feature-card
+  {{< ls-glass-feature-card
     title="Redați Audio High-Res"
     subtitle=`Bucurați-vă de sunet de calitate studio cu suport pentru peste 120 formate audio, inclusiv FLAC, ALAC, WAV, AIFF și DSD.<br><br>
 Flacbox redă și MP3, AAC, OGG, APE, MOD, MKA și containere avansate precum MKV, MP4 și MOV.<br><br>
@@ -87,7 +87,7 @@ Cu compatibilitate largă de codecuri, întreaga colecție este accesibilă — 
     style="background: radial-gradient(circle at 50% 80%, rgba(236,72,153,0.15), transparent);"
   >}}
 
-  {{< hextra/feature-card
+  {{< ls-glass-feature-card
     title="Descărcați și Ascultați Offline"
     subtitle=`Rămâneți conectat la muzica dvs. chiar și când sunteți offline.<br><br>
 Descărcați albume complete, genuri, playlisturi și piese pe dispozitiv. Folosiți Wi-Fi Drive sau Partajarea fișierelor iTunes pentru a transfera audio de pe Mac sau PC.<br><br>
@@ -102,9 +102,9 @@ Transmiteți de pe unități flash USB sau stocare de rețea (NAS) și bucurați
 
 <div class="hx:mt-6"></div>
 
-{{< hextra/section-headline >}}
+{{< ls-section-headline >}}
 Funcții Complete
-{{< /hextra/section-headline >}}
+{{< /ls-section-headline >}}
 
 <div class="hx:mt-6"></div>
 
@@ -112,41 +112,41 @@ Funcții Complete
 
 {{< cards >}}
 
-  {{< feature-card title="Calitate Audio" subtitle="Bucurați-vă de o ieșire de înaltă fidelitate cu rate de eșantionare de la 8 kHz la 384 kHz, moduri de ieșire implicite sau mixte și suport pentru 1 până la 7 canale audio." icon="volume-up" >}}
-  {{< feature-card title="Audio Lossless și Hi-Res" subtitle="Redați formate lossless și hi-res precum FLAC, ALAC, WAV, AIFF, APE, WV și DSF (DSD), plus MP3, AAC, OGG și OPUS, la rate de eșantionare de până la 384 kHz." icon="music-note" >}}
-  {{< feature-card title="Muzică Tracker și MOD" subtitle="Redați nativ muzică clasică tracker și module, inclusiv formatele MOD, XM, IT și S3M din scena chiptune și demoscene, pe care majoritatea playerelor nu le pot deschide." icon="table" >}}
+  {{< ls-feature-card title="Calitate Audio" subtitle="Bucurați-vă de o ieșire de înaltă fidelitate cu rate de eșantionare de la 8 kHz la 384 kHz, moduri de ieșire implicite sau mixte și suport pentru 1 până la 7 canale audio." icon="volume-up" >}}
+  {{< ls-feature-card title="Audio Lossless și Hi-Res" subtitle="Redați formate lossless și hi-res precum FLAC, ALAC, WAV, AIFF, APE, WV și DSF (DSD), plus MP3, AAC, OGG și OPUS, la rate de eșantionare de până la 384 kHz." icon="music-note" >}}
+  {{< ls-feature-card title="Muzică Tracker și MOD" subtitle="Redați nativ muzică clasică tracker și module, inclusiv formatele MOD, XM, IT și S3M din scena chiptune și demoscene, pe care majoritatea playerelor nu le pot deschide." icon="table" >}}
 
-  {{< feature-card title="Motoare Audio" subtitle="Alegeți dintre trei motoare de redare: motorul standard de sistem, un motor FFmpeg versatil și motorul profesional BASS™ care deblochează efecte, DSP și vizualizări." icon="switch-horizontal" >}}
-  {{< feature-card title="Efecte Audio" subtitle="Modelați-vă sunetul în timp real cu reverb, delay, echo, chorus, flanger, phaser, auto-wah, distorsiune, un compresor și crossfeed natural pentru căști." icon="lightning-bolt" >}}
-  {{< feature-card title="Lanț DSP" subtitle="Construiți-vă propriul lanț de semnal în timp real din filtre profesionale și benzi de egalizare, saturație și un bit crusher, plus procesoare creative precum tremolo și lățime stereo." icon="chip" >}}
+  {{< ls-feature-card title="Motoare Audio" subtitle="Alegeți dintre trei motoare de redare: motorul standard de sistem, un motor FFmpeg versatil și motorul profesional BASS™ care deblochează efecte, DSP și vizualizări." icon="switch-horizontal" >}}
+  {{< ls-feature-card title="Efecte Audio" subtitle="Modelați-vă sunetul în timp real cu reverb, delay, echo, chorus, flanger, phaser, auto-wah, distorsiune, un compresor și crossfeed natural pentru căști." icon="lightning-bolt" >}}
+  {{< ls-feature-card title="Lanț DSP" subtitle="Construiți-vă propriul lanț de semnal în timp real din filtre profesionale și benzi de egalizare, saturație și un bit crusher, plus procesoare creative precum tremolo și lățime stereo." icon="chip" >}}
 
-  {{< feature-card title="Egalizator Audio" subtitle="Reglați-vă fin sunetul cu un egalizator cu benzi multiple, presetări gata făcute pe genuri, control manual și câștig de preamplificare pentru a amplifica piesele slabe fără clipping." icon="adjustments" >}}
-  {{< feature-card title="Vizualizator Muzical" subtitle="Urmăriți vizualuri animate pe tot ecranul care reacționează live la muzica dvs., alegând dintr-o bibliotecă mare de presetări sau lăsându-le să se schimbe automat." icon="sparkles" >}}
-  {{< feature-card title="Controale de Redare" subtitle="Ajustați viteza de redare fără a schimba tonul, salvați și restaurați coada și poziția, folosiți un cronometru de somn, redare aleatorie, repetare și redare în fundal." icon="play" >}}
+  {{< ls-feature-card title="Egalizator Audio" subtitle="Reglați-vă fin sunetul cu un egalizator cu benzi multiple, presetări gata făcute pe genuri, control manual și câștig de preamplificare pentru a amplifica piesele slabe fără clipping." icon="adjustments" >}}
+  {{< ls-feature-card title="Vizualizator Muzical" subtitle="Urmăriți vizualuri animate pe tot ecranul care reacționează live la muzica dvs., alegând dintr-o bibliotecă mare de presetări sau lăsându-le să se schimbe automat." icon="sparkles" >}}
+  {{< ls-feature-card title="Controale de Redare" subtitle="Ajustați viteza de redare fără a schimba tonul, salvați și restaurați coada și poziția, folosiți un cronometru de somn, redare aleatorie, repetare și redare în fundal." icon="play" >}}
 
-  {{< feature-card title="Streaming Cloud" subtitle="Transmiteți direct de pe iCloud Drive, Google Drive, Dropbox, OneDrive, Box, MEGA și pCloud, plus cloud-uri axate pe confidențialitate precum Internxt și Proton Drive." icon="cloud" >}}
-  {{< feature-card title="Servere Media" subtitle="Conectați-vă serverele media personale, inclusiv Plex, Subsonic, Navidrome, Jellyfin și Emby, pentru a deschide și transmite întreaga bibliotecă muzicală." icon="server" >}}
-  {{< feature-card title="Computer și NAS" subtitle="Conectați un computer sau NAS prin SMB, WebDAV, DLNA, FTP, SFTP sau NFS, cu suport nativ pentru QNAP, Synology, Nextcloud și WD My Cloud Home." icon="desktop-computer" >}}
+  {{< ls-feature-card title="Streaming Cloud" subtitle="Transmiteți direct de pe iCloud Drive, Google Drive, Dropbox, OneDrive, Box, MEGA și pCloud, plus cloud-uri axate pe confidențialitate precum Internxt și Proton Drive." icon="cloud" >}}
+  {{< ls-feature-card title="Servere Media" subtitle="Conectați-vă serverele media personale, inclusiv Plex, Subsonic, Navidrome, Jellyfin și Emby, pentru a deschide și transmite întreaga bibliotecă muzicală." icon="server" >}}
+  {{< ls-feature-card title="Computer și NAS" subtitle="Conectați un computer sau NAS prin SMB, WebDAV, DLNA, FTP, SFTP sau NFS, cu suport nativ pentru QNAP, Synology, Nextcloud și WD My Cloud Home." icon="desktop-computer" >}}
 
-  {{< feature-card title="Carduri Flash USB" subtitle="Redați muzică direct de pe carduri SD și unități flash USB folosind cititoare externe precum SanDisk iXpand, fără import sau sincronizare necesare." icon="inbox" >}}
-  {{< feature-card title="AirPlay și Chromecast" subtitle="Trimiteți muzica wireless către Apple TV, HomePod, boxe inteligente și altele cu suport integrat AirPlay, AirPlay 2 și Google Chromecast." icon="device-mobile" >}}
-  {{< feature-card title="Apple CarPlay" subtitle="Conduceți și ascultați în siguranță cu un ecran Apple CarPlay simplu și dedicat pentru alegerea și controlul muzicii din surse cloud, locale și offline." icon="map" >}}
+  {{< ls-feature-card title="Carduri Flash USB" subtitle="Redați muzică direct de pe carduri SD și unități flash USB folosind cititoare externe precum SanDisk iXpand, fără import sau sincronizare necesare." icon="inbox" >}}
+  {{< ls-feature-card title="AirPlay și Chromecast" subtitle="Trimiteți muzica wireless către Apple TV, HomePod, boxe inteligente și altele cu suport integrat AirPlay, AirPlay 2 și Google Chromecast." icon="device-mobile" >}}
+  {{< ls-feature-card title="Apple CarPlay" subtitle="Conduceți și ascultați în siguranță cu un ecran Apple CarPlay simplu și dedicat pentru alegerea și controlul muzicii din surse cloud, locale și offline." icon="map" >}}
 
-  {{< feature-card title="Ascultare Offline" subtitle="Descărcați melodii, albume și artiști întregi pentru a asculta fără internet sau activați cache-ul audio pentru a salva automat piesele redate recent." icon="download" >}}
-  {{< feature-card title="Sincronizare Automată" subtitle="Mențineți-vă biblioteca sincronizată automat între stocarea cloud și folderele locale, astfel încât fișierele nou adăugate apar fără nicio muncă manuală." icon="refresh" >}}
-  {{< feature-card title="Bibliotecă Media" subtitle="Adăugați-vă muzica și organizați-o automat după album, artist, artist album, gen și compozitor folosind tagurile încorporate în fișiere." icon="library" >}}
+  {{< ls-feature-card title="Ascultare Offline" subtitle="Descărcați melodii, albume și artiști întregi pentru a asculta fără internet sau activați cache-ul audio pentru a salva automat piesele redate recent." icon="download" >}}
+  {{< ls-feature-card title="Sincronizare Automată" subtitle="Mențineți-vă biblioteca sincronizată automat între stocarea cloud și folderele locale, astfel încât fișierele nou adăugate apar fără nicio muncă manuală." icon="refresh" >}}
+  {{< ls-feature-card title="Bibliotecă Media" subtitle="Adăugați-vă muzica și organizați-o automat după album, artist, artist album, gen și compozitor folosind tagurile încorporate în fișiere." icon="library" >}}
 
-  {{< feature-card title="Playlisturi Personalizate" subtitle="Creați, editați și reordonați-vă propriile playlisturi, faceți-le disponibile offline și importați-le sau exportați-le în formatele M3U, M3U8 și CUE." icon="collection" >}}
-  {{< feature-card title="Manager de Fișiere" subtitle="Gestionați-vă muzica cu managerul de fișiere integrat, efectuând operațiuni zilnice precum copiere, mutare, redenumire și ștergere pentru a menține fișierele ordonate." icon="folder" >}}
-  {{< feature-card title="Editor Taguri ID3" subtitle="Corectați metadatele greșite sau lipsă cu editorul de taguri ID3 integrat, actualizând titlul, artistul, albumul, genul și altele din câteva atingeri." icon="pencil-alt" >}}
+  {{< ls-feature-card title="Playlisturi Personalizate" subtitle="Creați, editați și reordonați-vă propriile playlisturi, faceți-le disponibile offline și importați-le sau exportați-le în formatele M3U, M3U8 și CUE." icon="collection" >}}
+  {{< ls-feature-card title="Manager de Fișiere" subtitle="Gestionați-vă muzica cu managerul de fișiere integrat, efectuând operațiuni zilnice precum copiere, mutare, redenumire și ștergere pentru a menține fișierele ordonate." icon="folder" >}}
+  {{< ls-feature-card title="Editor Taguri ID3" subtitle="Corectați metadatele greșite sau lipsă cu editorul de taguri ID3 integrat, actualizând titlul, artistul, albumul, genul și altele din câteva atingeri." icon="pencil-alt" >}}
 
-  {{< feature-card title="Căutare Avansată" subtitle="Găsiți rapid orice melodie, artist sau album din întreaga colecție cu o căutare inteligentă și rapidă, construită pentru biblioteci muzicale foarte mari." icon="search" >}}
-  {{< feature-card title="Acces Rapid" subtitle="Reveniți direct la ce contează cu Redate Recent, Favorite și Marcaje, păstrând piesele preferate mereu la o singură atingere distanță." icon="clock" >}}
-  {{< feature-card title="Versuri și Comentarii" subtitle="Vizualizați versuri sincronizate și note ale melodiilor în fiecare piesă în timp ce se redă și adăugați widgetul Versuri pe ecranul principal pentru acces rapid dintr-o privire." icon="annotation" >}}
+  {{< ls-feature-card title="Căutare Avansată" subtitle="Găsiți rapid orice melodie, artist sau album din întreaga colecție cu o căutare inteligentă și rapidă, construită pentru biblioteci muzicale foarte mari." icon="search" >}}
+  {{< ls-feature-card title="Acces Rapid" subtitle="Reveniți direct la ce contează cu Redate Recent, Favorite și Marcaje, păstrând piesele preferate mereu la o singură atingere distanță." icon="clock" >}}
+  {{< ls-feature-card title="Versuri și Comentarii" subtitle="Vizualizați versuri sincronizate și note ale melodiilor în fiecare piesă în timp ce se redă și adăugați widgetul Versuri pe ecranul principal pentru acces rapid dintr-o privire." icon="annotation" >}}
 
-  {{< feature-card title="Widgeturi" subtitle="Adăugați widgeturi pe ecranul principal care afișează coada de redare și vă permit să reveniți imediat, continuând exact de unde ați rămas ultima dată." icon="view-grid" >}}
-  {{< feature-card title="Suport Cărți Audio" subtitle="Ascultați cărți audio cu marcaje, un cronometru de somn, viteză ajustabilă și reluarea redării care continuă exact de unde ați oprit ultima dată." icon="book-open" >}}
-  {{< feature-card title="Integrare Last.fm" subtitle="Conectați-vă contul Last.fm pentru a face scrobbling la piese, a urmări statisticile de ascultare și a primi recomandări muzicale personalizate în timp." icon="chart-bar" >}}
+  {{< ls-feature-card title="Widgeturi" subtitle="Adăugați widgeturi pe ecranul principal care afișează coada de redare și vă permit să reveniți imediat, continuând exact de unde ați rămas ultima dată." icon="view-grid" >}}
+  {{< ls-feature-card title="Suport Cărți Audio" subtitle="Ascultați cărți audio cu marcaje, un cronometru de somn, viteză ajustabilă și reluarea redării care continuă exact de unde ați oprit ultima dată." icon="book-open" >}}
+  {{< ls-feature-card title="Integrare Last.fm" subtitle="Conectați-vă contul Last.fm pentru a face scrobbling la piese, a urmări statisticile de ascultare și a primi recomandări muzicale personalizate în timp." icon="chart-bar" >}}
 
 {{< /cards >}}
 
@@ -154,9 +154,9 @@ Funcții Complete
 
 <div class="hx:mt-6"></div>
 
-{{< hextra/section-headline >}}
+{{< ls-section-headline >}}
 Design Intuitiv
-{{< /hextra/section-headline >}}
+{{< /ls-section-headline >}}
 
 <div class="hx:mt-6"></div>
 
@@ -164,7 +164,7 @@ Design Intuitiv
 
 {{< cards cols="4">}}
 
-  {{< design-feature-card 
+  {{< ls-design-feature-card 
     image="/products/flacbox/screenshots/2048x2732/1.png" 
     title="Player Audio" 
     method="Fill"
@@ -173,7 +173,7 @@ Design Intuitiv
     icon="play"
   >}}
 
-  {{< design-feature-card 
+  {{< ls-design-feature-card 
     image="/products/flacbox/screenshots/2048x2732/2.png"  
     title="Egalizator Audio" 
     method="Fill"
@@ -182,7 +182,7 @@ Design Intuitiv
     icon="adjustments"
   >}}
 
-  {{< design-feature-card 
+  {{< ls-design-feature-card 
     image="/products/flacbox/screenshots/2048x2732/3.png"  
     title="Manager Playlisturi" 
     method="Fill"
@@ -191,7 +191,7 @@ Design Intuitiv
     icon="collection"
   >}}
 
-  {{< design-feature-card 
+  {{< ls-design-feature-card 
     image="/products/flacbox/screenshots/2048x2732/5.png"  
     title="Bibliotecă Media" 
     method="Fill"
@@ -200,7 +200,7 @@ Design Intuitiv
     icon="library"
   >}}
 
-  {{< design-feature-card 
+  {{< ls-design-feature-card 
     image="/products/flacbox/screenshots/2048x2732/7.png"  
     title="Stocare Cloud" 
     method="Fill"
@@ -209,7 +209,7 @@ Design Intuitiv
     icon="cloud"
   >}}
 
-  {{< design-feature-card 
+  {{< ls-design-feature-card 
     image="/products/flacbox/screenshots/2048x2732/8.png"  
     title="iCloud Drive" 
     method="Fill"
@@ -227,48 +227,48 @@ Design Intuitiv
 <div class="hx:mt-6"></div>
 
 <div class="hx:w-full">
-{{< appstore-reviews apps="1097564256,1594027432" stars="5,4"  app="Flacbox" >}}
+{{< ls-appstore-reviews apps="1097564256,1594027432" stars="5,4"  app="Flacbox" >}}
 </div>
 
 <div class="hx:mt-6"></div>
 
-{{< hextra/section-headline >}}
+{{< ls-section-headline >}}
    Planuri de Prețuri
-{{< /hextra/section-headline >}}
+{{< /ls-section-headline >}}
 
 <div class="hx:mt-6"></div>
 
 <div class="hx:w-full">
 
-{{< pricing-plans >}}
+{{< ls-pricing-plans >}}
 
 </div>
 
 <div class="hx:mt-6"></div>
 
 <div class="hx:w-full hx:mx-auto hx:flex hx:flex-col hx:items-center">
-  {{< hextra/info-paragraph border="true" >}}
+  {{< ls-info-paragraph border="true" >}}
    <strong>Partajare Familială</strong>: Toate achizițiile și abonamentele suportă Partajarea Familială, permițându-vă să partajați accesul Premium cu familia.<br><strong>Acces Universal</strong>: Planurile pe viață și de abonament sunt partajate între dispozitivele iOS și Mac folosind sincronizarea iCloud.<br><strong>Prețuri</strong>: Prețurile sunt afișate în dolari americani pentru Statele Unite. Prețul final poate varia în funcție de regiunea dvs.  
-  {{< /hextra/info-paragraph >}}
+  {{< /ls-info-paragraph >}}
 </div>
 
 <div class="hx:mt-6"></div>
 
 <div class="hx:w-full">
-{{< app-details heading="true" >}}
+{{< ls-app-details heading="true" >}}
 </div>
 
 <div class="hx:mt-6"></div>
 
-{{< hextra/section-headline >}}
+{{< ls-section-headline >}}
    Întrebări Frecvente
-{{< /hextra/section-headline >}}
+{{< /ls-section-headline >}}
 
 <div class="hx:mt-6"></div>
 
 <div class="hx:w-full">
 
-{{% details title="Cum funcționează Flacbox?" closed="true" %}}
+{{% ls-details title="Cum funcționează Flacbox?" closed="true" %}}
 Flacbox este un player muzical hi-res care vă permite să gestionați piesele audio ca fișiere obișnuite.<br>
 Puteți încărca întreaga colecție muzicală în servicii cloud precum Dropbox, Google Drive sau un NAS personal și reda muzica direct din cloud cu control total.<br><br>
 Nu este necesară sincronizarea iTunes — pur și simplu încărcați de pe PC sau Mac ca orice fișier.<br>
@@ -282,9 +282,9 @@ Explorați ghidurile noastre pentru mai multe detalii:<br>
 - [Cum să transferați fișiere wireless de pe computer pe iPhone folosind WiFi-Drive.](/docs/howto/how-to-transfer-files-wirelessly-from-a-computer-to-an-iphone-using-wifi-drive)<br>
 - [Cum să conectați un card de memorie USB la iPhone și să ascultați muzică sau să gestionați fișiere.](/docs/howto/how-to-connect-a-usb-flashcard-to-the-iphone-and-listen-to-music-or-manage-files-located-on-it)<br>
 - [Cum să redați muzică pe iPhone de pe WD My Cloud Home.](/docs/howto/how-to-play-music-on-iphone-from-wd-my-cloud-home)
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Este Flacbox gratuit?" closed="true" %}}
+{{% ls-details title="Este Flacbox gratuit?" closed="true" %}}
 Flacbox este gratuit cu unele limitări, care pot fi eliminate prin upgrade la versiunea Premium.<br>
 Puteți alege între o achiziție pe viață unică sau două opțiuni de abonament (lunar sau anual). Prețurile pot varia în funcție de regiunea dvs.<br><br>
 
@@ -293,10 +293,10 @@ Partajarea Familială este activată pentru toate planurile, astfel încât pute
 Achizițiile și abonamentele Premium sunt partajate între iOS și Mac prin iCloud. Pentru a sincroniza achiziția, asigurați-vă că iCloud este activat, deschideți aplicația pe dispozitivul iOS și așteptați un minut pentru finalizarea sincronizării.<br><br>
 
 [Citiți mai multe despre diferențele dintre Flacbox și Flacbox Premium](/docs/faq/flacbox/what-is-the-difference-between-flacbox-and-flacbox-premium/)
-{{% /details %}}
+{{% /ls-details %}}
 
 
-{{% details title="Care este diferența dintre Flacbox și Evermusic?" closed="true" %}}
+{{% ls-details title="Care este diferența dintre Flacbox și Evermusic?" closed="true" %}}
 **Flacbox** este construit pentru a suporta toate formatele audio implicite iOS împreună cu multe formate suplimentare nesuportate nativ pe iPhone, cum ar fi WMA, OGG, M4A, DSD și altele.<br>
 Folosește un motor audio personalizat pentru a gestiona aproape toate formatele și oferă funcții precum rata de eșantionare ajustabilă și corecția tonului.<br><br>
 
@@ -306,9 +306,9 @@ Dacă folosiți în principal MP3, ALAC sau FLAC, **Evermusic** poate fi opțiun
 Dacă aveți nevoie de compatibilitate largă cu diverse tipuri de fișiere audio, **Flacbox** este alegerea potrivită.<br><br>
 
 [Aflați mai multe despre diferențele dintre Flacbox și Evermusic](/docs/faq/evermusic/what-is-the-difference-between-evermusic-and-flacbox/)
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Cum sincronizez Flacbox?" closed="true" %}}
+{{% ls-details title="Cum sincronizez Flacbox?" closed="true" %}}
 
 **Sincronizare Metadate**  
 Când adăugați piese în bibliotecă, un cititor de metadate în fundal scanează fișierele și le organizează după Artist, Album, Gen și Compozitor.<br>
@@ -345,10 +345,10 @@ De asemenea, puteți personaliza **intervalele de timeout pentru sincronizare** 
 
 [Citiți mai multe](/docs/guide/flacbox/flacbox-guide-music-library)
 
-{{% /details %}}
+{{% /ls-details %}}
 
 
-{{% details title="Cum folosesc Flacbox?" closed="true" %}}
+{{% ls-details title="Cum folosesc Flacbox?" closed="true" %}}
 
 **Instalați Flacbox**<br>
 Descărcați și instalați aplicația Flacbox din magazinul de aplicații al dispozitivului. Este disponibilă atât pentru dispozitive iOS, cât și Mac.<br><br>
@@ -408,10 +408,10 @@ Explorați tutorialele din aplicație sau vizitați aceste ghiduri:<br><br>
 • [Conectați Card de Memorie USB](/docs/howto/how-to-connect-a-usb-flashcard-to-the-iphone-and-listen-to-music-or-manage-files-located-on-it)<br>
 • [Transfer Wireless WiFi-Drive](/docs/howto/how-to-transfer-files-wirelessly-from-a-computer-to-an-iphone-using-wifi-drive)
 
-{{% /details %}}
+{{% /ls-details %}}
 
 
-{{% details title="Este Flacbox sigur?" closed="true" %}}
+{{% ls-details title="Este Flacbox sigur?" closed="true" %}}
 Flacbox folosește doar SDK oficial și conexiuni securizate pentru a interacționa cu serviciile cloud conectate. Datele de autentificare nu sunt disponibile pentru aplicație. Toate solicitările din aplicație către serviciul cloud sunt criptate.<br>
 Când introduceți datele de autentificare, aplicația vă arată pagina oficială de autorizare furnizată de furnizorul serviciului cloud, iar întregul proces de autorizare se desfășoară în afara aplicației. Furnizorul serviciului cloud trimite un token de autentificare aplicației după autorizarea reușită, iar acel token este folosit pentru a efectua apeluri API.<br><br>
 
@@ -423,24 +423,24 @@ Pentru a respinge tokenul de autentificare, conectați-vă la contul dvs. în br
 De asemenea, puteți deconecta conturile cloud conectate din aplicație, iar tokenul de autentificare va fi eliminat și de pe dispozitiv. Dacă eliminați aplicația de pe dispozitiv, toate datele descărcate și tokenurile de acces vor fi eliminate.<br><br>
 
 [Citiți mai multe](/docs/guide/flacbox/flacbox-guide-connections)
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Cum creez un playlist în Flacbox?" closed="true" %}}
+{{% ls-details title="Cum creez un playlist în Flacbox?" closed="true" %}}
 - Deschideți secțiunea Playlisturi.<br>
 - Atingeți butonul "+" sau butonul "..." din colțul din dreapta sus și selectați "Playlist Nou."<br>
 - Introduceți un nume pentru playlist și atingeți "Salvare." Va apărea dialogul "Adaugă Piese".<br>
 - Selectați piesele pe care doriți să le adăugați în playlist.<br><br>
 
 [Citiți mai multe](/docs/guide/flacbox/flacbox-guide-playlists)
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Ce servicii cloud suportă Flacbox?" closed="true" %}}
+{{% ls-details title="Ce servicii cloud suportă Flacbox?" closed="true" %}}
 În prezent, aplicația suportă cele mai populare servicii cloud: iCloud Drive, Google Drive, Dropbox, OneDrive, Box, MEGA, Yandex.Disk, WD MyCloud Home, DLNA, MediaFire, WebDAV, SMB, pCloud, HiDrive, My Cloud Home, InfiniCLOUD, Cloud Mail.ru, Put.io, MyDrive.<br><br>
 
 [Citiți mai multe](/docs/guide/flacbox/flacbox-guide-connections)
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Cum pot folosi un egalizator?" closed="true" %}}
+{{% ls-details title="Cum pot folosi un egalizator?" closed="true" %}}
 - Deschideți Ecranul Playerului Audio.<br>
 - Atingeți pictograma "Egalizator" din partea de jos a ecranului.<br>
 - Activați comutatorul din colțul din dreapta sus al ecranului egalizatorului pentru a activa egalizatorul.<br>
@@ -448,9 +448,9 @@ De asemenea, puteți deconecta conturile cloud conectate din aplicație, iar tok
 
 Tutorial complet disponibil aici:<br>
 [Cum să folosiți egalizatorul audio pe iPhone, iPad, Mac cu Evermusic și Flacbox](/docs/howto/how-to-use-the-audio-equalizer-on-your-iphone-ipad-mac-with-evermusic-and-flacbox)
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Cum activez modul offline în Flacbox?" closed="true" %}}
+{{% ls-details title="Cum activez modul offline în Flacbox?" closed="true" %}}
 - Conectați un Serviciu Cloud:<br>
  • Mergeți la fila "Conexiuni".<br>
  • Selectați "Conectare serviciu cloud" și urmați instrucțiunile pentru a conecta serviciul dorit.<br><br>
@@ -476,9 +476,9 @@ Tutorial complet disponibil aici:<br>
  • Atingeți "Mai multe acțiuni" și selectați "Pornire sincronizare."<br><br>
 
 [Citiți mai multe](/docs/howto/play-offline-music-in-evermusic-flacbox-download-sync-from-cloud-to-local-files/)
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Cum redau muzica descărcată local pe iPhone?" closed="true" %}}
+{{% ls-details title="Cum redau muzica descărcată local pe iPhone?" closed="true" %}}
 După ce ați instalat aplicația, deschideți ecranul "Fișiere Locale" și derulați în jos până la secțiunea "Fișiere pe acest iPhone". De acolo, alegeți "Deschide fișiere..." dacă trebuie să selectați mai multe fișiere audio sau "Deschide folder..." dacă doriți să alegeți un folder de muzică. Aplicația va scana conținutul folderului și toate fișierele audio găsite vor fi selectate. Navigați la folderul de muzică, atingeți "Deschide" pentru a confirma selecția, iar fișierele vor fi adăugate în coada playerului. Aceste fișiere vor fi redate direct din locația selectată fără a fi copiate în pachetul aplicației.<br><br>
 
 **Adăugarea unui Folder la Favorite pentru Acces Rapid**<br>
@@ -493,13 +493,13 @@ Pentru a adăuga fișiere locale la un playlist, deschideți ecranul "Playlistur
 Cu acești pași simpli, puteți debloca întregul potențial al iPhone-ului și Mac-ului ca platforme ultime pentru a vă bucura de colecția de muzică locală.<br><br>
 
 [Citiți mai multe](/docs/howto/how-to-play-local-music-stored-on-your-iphone-or-mac)
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Cum pot relua un playlist de unde am rămas?" closed="true" %}}
+{{% ls-details title="Cum pot relua un playlist de unde am rămas?" closed="true" %}}
 Mai întâi, asigurați-vă că "Salvare Stare Player Audio" este activat în Setări > Player Audio > General. Când treceți la alt playlist și reveniți, veți vedea patru acțiuni pe bara de instrumente superioară sub coperta albumului: "Căutare", "Continuare Redare", "Redare Tot" și "Aleatoriu Tot." Atingeți "Continuare Redare" pentru a relua playlistul de la ultima stare și poziție media salvate.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Cum vizualizez versurile pieselor în Flacbox?" closed="true" %}}
+{{% ls-details title="Cum vizualizez versurile pieselor în Flacbox?" closed="true" %}}
 Puteți vizualiza versurile încorporate pentru piese în aplicație **urmând acești pași**:<br>
 1. Începeți redarea unui fișier audio atingându-l.<br>
 2. Deschideți playerul audio pe ecran complet.<br>
@@ -513,9 +513,9 @@ Puteți vizualiza versurile încorporate pentru piese în aplicație **urmând a
 3. Mod Fișier LRC: În loc să editați fișierele audio, puteți plasa un fișier LRC în același folder cu fișierul audio original. Ambele fișiere trebuie să aibă același nume dar extensii diferite. Când glisați la a treia pagină pe ecranul Comentarii, aplicația va căuta fișierul LRC în același director și va afișa conținutul său.<br><br>
 
 [Citiți mai multe](/docs/howto/how-to-add-and-view-comments-to-your-audio-tracks-on-iphone-ipad-and-mac-with-evermusic-and-flacbox)
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Cum transfer muzică în Flacbox de pe computer?" closed="true" %}}
+{{% ls-details title="Cum transfer muzică în Flacbox de pe computer?" closed="true" %}}
 Puteți conecta computerul sau NAS-ul personal folosind protocoale SMB, WebDAV sau DLNA. Alternativ, folosiți Partajarea Fișierelor iTunes pentru a transfera muzică.<br><br>
 
 Pentru a conecta un computer folosind protocolul SMB, atingeți "Conectare serviciu cloud" → SMB. Introduceți adresa IP a computerului și numele folderului partajat în câmpul URL folosind formatul smb://adresa-ip-computer/numele-folderului-partajat, introduceți datele de autentificare și atingeți "Gata". Dacă conexiunea este reușită, veți vedea stocarea conectată în secțiunea "Servicii cloud".<br><br>
@@ -536,9 +536,9 @@ Instrucțiuni detaliate disponibile aici:<br>
 
 DLNA De asemenea, puteți configura un server media DLNA și transmite muzica de pe un PC Windows conform descrierii de aici:<br>
 [Cum să activați serverul media DLNA pe Windows 10 și să redați muzica pe iPhone](/docs/howto/how-to-enable-dlna-media-server-on-windows-10-and-play-your-music-on-iphone)
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Cum descarc muzică?" closed="true" %}}
+{{% ls-details title="Cum descarc muzică?" closed="true" %}}
 Înainte de a putea descărca muzică și asculta offline, trebuie să conectați un cont de rețea.<br>
 Deschideți ecranul "Conexiuni" și adăugați contul dvs.<br>
 După ce ați adăugat un cont de rețea, puteți descărca muzica din cloud.<br><br>
@@ -559,15 +559,15 @@ Instrucțiuni mai detaliate despre modul offline disponibile aici:<br>
 
 O altă opțiune disponibilă este descărcarea muzicii din serviciile cloud și importarea în Evermusic conform descrierii de aici:<br>
 [Cum să Descărcați Muzică de pe YouTube și să Ascultați Muzică Offline pe iPhone](/docs/howto/how-to-download-music-from-youtube-and-listen-to-offline-music-on-iphone)
-{{% /details %}}
+{{% /ls-details %}}
 
 
-{{% details title="Ce formate audio suportă Flacbox?" closed="true" %}}
+{{% ls-details title="Ce formate audio suportă Flacbox?" closed="true" %}}
 Această aplicație suportă **codecuri audio de sistem** implicite și **codecuri software ffmpeg** suplimentare:<br><br>
 3g2, 3gp, 3gp2, 3gpp, 8svx, aa, aac, aax, ac3, act, adt, adts, aif, aifc, aiff, alac, amr, amv, ape, asf, au, avi, awb, caf, cavs, cdda, cue, dct, dff, drc, dsf, dss, dvf, "dvr-ms", ec3, f4a, f4b, f4p, f4v, flac, flv, gif, gifv, gsm, gxf, h261, h263, h264, ifv, iklax, ivf, ivs, l16, latm, loas, m2t, m2ts, m2v, m3u, m3u8, m4a, m4b, m4p, m4r, m4v, mka, mkv, mmf, mng, mod, mogg, mov, mp1, mp2, mp3, mp4, mp4v, mpa, mpc, mpe, mpeg, mpg, mpv, msv, mts, mxf, nsf, nsv, nut, oga, ogg, ogv, opus, pcm, pls, qt, ra, raw, rm, rmvb, roq, rv, sln, snd, svi, tod, tta, vob, voc, vox, vtt, w64, wav, wave, webm, wma, wmv, wv, xhe, xmv, y4m, yuv.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Pot folosi Flacbox pentru a reda cărți audio?" closed="true" %}}
+{{% ls-details title="Pot folosi Flacbox pentru a reda cărți audio?" closed="true" %}}
 
 Da, Flacbox poate fi folosit ca un player puternic de cărți audio.<br><br>
 
@@ -590,11 +590,11 @@ Flacbox oferă o soluție completă pentru iubitorii de cărți audio pe iPhone,
 
 [Citiți mai multe](/docs/howto/how-to-listen-to-audiobooks-on-iphone-ipad-mac-using-evermusic)
 
-{{% /details %}}
+{{% /ls-details %}}
 
 
 
-{{% details title="Funcționează Flacbox cu dispozitive NAS?" closed="true" %}}
+{{% ls-details title="Funcționează Flacbox cu dispozitive NAS?" closed="true" %}}
 
 Da, Flacbox suportă conexiuni NAS folosind protocoale **SMB**, **WebDAV** și **DLNA**.<br><br>
 
@@ -625,10 +625,10 @@ Dacă conexiunea este reușită, veți vedea NAS-ul în secțiunea **Servicii cl
 • [Conectați stocarea Bluesound Vault](/docs/howto/how-to-connect-bluesound-vault-s-internal-storage-from-the-evermusic-flacbox-evertag)<br>
 • [Conectați Stocare NAS Folosind WebDAV](/docs/howto/how-to-connect-nas-storage-using-webdav-and-listen-to-music-on-your-iphone-or-mac)
 
-{{% /details %}}
+{{% /ls-details %}}
 
 
-{{% details title="Cum import muzică în Flacbox?" closed="true" %}}
+{{% ls-details title="Cum import muzică în Flacbox?" closed="true" %}}
 
 **Conectați Serviciul Cloud**<br>
 • Deschideți fila **Conexiuni**.<br>
@@ -674,10 +674,10 @@ Explorați aceste tutoriale pentru mai multă ajutor:<br><br>
 • [Transferați Fișiere Wireless Folosind WiFi-Drive](/docs/howto/how-to-transfer-files-wirelessly-from-a-computer-to-an-iphone-using-wifi-drive)<br>
 • [Transferați Fișiere Folosind Protocolul SMB](/docs/howto/transfer-your-files-from-the-computer-to-iphone-using-smb-protocol/)
 
-{{% /details %}}
+{{% /ls-details %}}
 
 
-{{% details title="Cum folosesc funcția Wi-Fi Drive în Flacbox?" closed="true" %}}
+{{% ls-details title="Cum folosesc funcția Wi-Fi Drive în Flacbox?" closed="true" %}}
 
 **Transfer wireless folosind un browser desktop**<br>
 1. Lansați aplicația: Deschideți Flacbox.<br>
@@ -702,9 +702,9 @@ Notă: Asigurați-vă că JavaScript este activat și folosiți cea mai recentă
 
 [Citiți mai multe](/docs/howto/how-to-transfer-files-wirelessly-from-a-computer-to-an-iphone-using-wifi-drive)
 
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Suportă Flacbox Apple CarPlay?" closed="true" %}}
+{{% ls-details title="Suportă Flacbox Apple CarPlay?" closed="true" %}}
 Da, **Flacbox suportă complet Apple CarPlay**. Puteți naviga prin biblioteca muzicală, reda fișiere locale sau offline, conecta la stocarea cloud și controla redarea direct de pe ecranul infotainment al mașinii.
 
 Interfața CarPlay include file dedicate pentru **Bibliotecă**, **Conexiuni**, **Fișiere Locale** și **Setări**, oferindu-vă control total asupra muzicii pe drum. Controalele de redare, aleatoriu, repetare și gestionarea cozii sunt de asemenea disponibile.
@@ -712,42 +712,42 @@ Interfața CarPlay include file dedicate pentru **Bibliotecă**, **Conexiuni**, 
 Pentru a folosi CarPlay, asigurați-vă că Siri este activat și iPhone-ul este conectat prin USB sau wireless.
 
 [Citiți ghidul complet](/docs/howto/how-to-play-your-own-music-on-iphone-using-carplay/)
-{{% /details %}}
+{{% /ls-details %}}
 
 </div>
 
 
 <div class="hx:mt-6"></div>
 
-{{< hextra/section-headline >}}
+{{< ls-section-headline >}}
   Ghid Utilizator
-{{< /hextra/section-headline >}}
+{{< /ls-section-headline >}}
 
 <div class="hx:mt-6"></div>
 
 <div class="hx:w-full">
 
 <div class="hx:w-full hx:mx-auto hx:flex hx:flex-col hx:items-center hx:text-center">
-  {{< hextra/info-paragraph border="false" >}}
+  {{< ls-info-paragraph border="false" >}}
   Acest ghid vă va ajuta să profitați la maximum de Flacbox pe iPhone, iPad sau Mac. Aflați cum să transmiteți muzică de înaltă rezoluție din cloud, să vă organizați biblioteca, să gestionați cărțile audio și să transferați muzică între dispozitive.
-  {{< /hextra/info-paragraph >}}
+  {{< /ls-info-paragraph >}}
 </div>
 
 {{< cards >}}
 
-{{< feature-card icon="map" link="/docs/guide/flacbox/flacbox-guide-navigation" title="Navigare" subtitle="Folosiți bara de file pe iPhone sau meniul din stânga pe iPad și Mac." >}}
+{{< ls-feature-card icon="map" link="/docs/guide/flacbox/flacbox-guide-navigation" title="Navigare" subtitle="Folosiți bara de file pe iPhone sau meniul din stânga pe iPad și Mac." >}}
 
-{{< feature-card icon="cloud" link="/docs/guide/flacbox/flacbox-guide-connections" title="Conexiuni" subtitle="Conectați Dropbox, Google Drive, iCloud sau NAS-ul dvs." >}}
+{{< ls-feature-card icon="cloud" link="/docs/guide/flacbox/flacbox-guide-connections" title="Conexiuni" subtitle="Conectați Dropbox, Google Drive, iCloud sau NAS-ul dvs." >}}
 
-{{< feature-card icon="collection" link="/docs/guide/flacbox/flacbox-guide-music-library" title="Bibliotecă Muzicală" subtitle="Gestionați și căutați piese după artist, album sau gen." >}}
+{{< ls-feature-card icon="collection" link="/docs/guide/flacbox/flacbox-guide-music-library" title="Bibliotecă Muzicală" subtitle="Gestionați și căutați piese după artist, album sau gen." >}}
 
-{{< feature-card icon="music-note" link="/docs/guide/flacbox/flacbox-guide-playlists" title="Playlisturi" subtitle="Creați și organizați playlisturi pentru orice stare sau ocazie." >}}
+{{< ls-feature-card icon="music-note" link="/docs/guide/flacbox/flacbox-guide-playlists" title="Playlisturi" subtitle="Creați și organizați playlisturi pentru orice stare sau ocazie." >}}
 
-{{< feature-card icon="folder" link="/docs/guide/flacbox/flacbox-guide-local-files" title="Fișiere Locale" subtitle="Editați și redați muzică offline cu managerul de fișiere integrat." >}}
+{{< ls-feature-card icon="folder" link="/docs/guide/flacbox/flacbox-guide-local-files" title="Fișiere Locale" subtitle="Editați și redați muzică offline cu managerul de fișiere integrat." >}}
 
-{{< feature-card icon="play" link="/docs/guide/flacbox/flacbox-guide-player" title="Player Audio" subtitle="Controlați redarea, ajustați viteza, setați marcaje și altele." >}}
+{{< ls-feature-card icon="play" link="/docs/guide/flacbox/flacbox-guide-player" title="Player Audio" subtitle="Controlați redarea, ajustați viteza, setați marcaje și altele." >}}
 
-{{< feature-card icon="adjustments" link="/docs/guide/flacbox/flacbox-guide-settings" title="Setări" subtitle="Personalizați egalizatorul, aspectul și comportamentul aplicației." >}}
+{{< ls-feature-card icon="adjustments" link="/docs/guide/flacbox/flacbox-guide-settings" title="Setări" subtitle="Personalizați egalizatorul, aspectul și comportamentul aplicației." >}}
 
 {{< /cards >}}
 

@@ -20,7 +20,7 @@ Sekce Lokální soubory slouží jako centrum pro správu souborů umístěných
 Tento vestavěný správce souborů umožňuje upravovat soubory a nabízí různé metody importu zvukových souborů do aplikace.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Obrazovka Lokální soubory Evermusic" image="/docs/guide/evermusic/evermusic-guide-local-files/img/local-files-main.webp" >}}
+  {{< ls-card title="" subtitle="Obrazovka Lokální soubory Evermusic" image="/docs/guide/evermusic/evermusic-guide-local-files/img/local-files-main.webp" >}}
 {{< /cards >}}
 
 ## Stahování souborů z cloudového úložiště
@@ -40,7 +40,7 @@ Snadno importujte soubory ze zařízení, jak je popsáno [zde](/docs/howto/how-
 Přenášejte soubory pomocí kabelového připojení, jak je popsáno [zde](/docs/howto/how-to-transfer-files-from-my-mac-to-iphone-or-ipad-using-finder).
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Sdílení souborů iTunes / Finder" image="/docs/guide/evermusic/evermusic-guide-local-files/img/local-files-itunes-file-sharing.webp" >}}
+  {{< ls-card title="" subtitle="Sdílení souborů iTunes / Finder" image="/docs/guide/evermusic/evermusic-guide-local-files/img/local-files-itunes-file-sharing.webp" >}}
 {{< /cards >}}
 
 ## Wi-Fi Drive
@@ -48,7 +48,7 @@ Přenášejte soubory pomocí kabelového připojení, jak je popsáno [zde](/do
 Přenášejte soubory bezdrátově, jak je popsáno [zde](/docs/howto/how-to-transfer-files-wirelessly-from-a-computer-to-an-iphone-using-wifi-drive).
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Nastavení serveru Wi-Fi Drive" image="/docs/guide/evermusic/evermusic-guide-local-files/img/local-files-wifidrive-settings.webp" >}}
+  {{< ls-card title="" subtitle="Nastavení serveru Wi-Fi Drive" image="/docs/guide/evermusic/evermusic-guide-local-files/img/local-files-wifidrive-settings.webp" >}}
 {{< /cards >}}
 
 ## Fronta přenosů
@@ -56,7 +56,7 @@ Přenášejte soubory bezdrátově, jak je popsáno [zde](/docs/howto/how-to-tra
 V levém horním rohu navigační lišty najdete tlačítko "Přenosy". Klepnutím na něj získáte přístup k frontě přenosů, kde můžete sledovat a spravovat všechna stahování a nahrávání. Navíc máte flexibilitu upravit rychlost fronty přenosů a typ sítě v nastavení aplikace.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Fronta přenosů souborů" image="/docs/guide/evermusic/evermusic-guide-local-files/img/local-files-file-transfers.webp" >}}
+  {{< ls-card title="" subtitle="Fronta přenosů souborů" image="/docs/guide/evermusic/evermusic-guide-local-files/img/local-files-file-transfers.webp" >}}
 {{< /cards >}}
 
 ## Sekce Rychlý přístup
@@ -68,7 +68,7 @@ V horní části obrazovky sekce rychlého přístupu poskytuje praktické odkaz
 Tato sekce zobrazuje všechny nedávno otevřené soubory nebo složky.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Nedávno otevřené soubory a složky" image="/docs/guide/evermusic/evermusic-guide-local-files/img/local-files-recents.webp" >}}
+  {{< ls-card title="" subtitle="Nedávno otevřené soubory a složky" image="/docs/guide/evermusic/evermusic-guide-local-files/img/local-files-recents.webp" >}}
 {{< /cards >}}
 
 ## Oblíbené
@@ -76,7 +76,7 @@ Tato sekce zobrazuje všechny nedávno otevřené soubory nebo složky.
 Soubory nebo složky můžete označit jako oblíbené a přistupovat k nim v této sekci. Navíc můžete přidat složku umístěnou na zařízení do oblíbených. Chcete-li to provést, otevřete sekci oblíbených, klepněte na tři tečky v pravém horním rohu a zvolte položku nabídky "Přidat složku". Podle pokynů přidejte složku ze zařízení do oblíbených pro rychlý přístup.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Oblíbené — Přidat složku ze zařízení" image="/docs/guide/evermusic/evermusic-guide-local-files/img/local-files-favorites.webp" >}}
+  {{< ls-card title="" subtitle="Oblíbené — Přidat složku ze zařízení" image="/docs/guide/evermusic/evermusic-guide-local-files/img/local-files-favorites.webp" >}}
 {{< /cards >}}
 
 ## Horní panel nástrojů
@@ -91,7 +91,7 @@ Horní panel nástrojů, umístěný pod navigační lištou, nabízí několik 
 Horní panel nástrojů můžete zobrazit nebo skrýt gestem přejetí dolů.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Horní panel nástrojů pro aktuální složku" image="/docs/guide/evermusic/evermusic-guide-local-files/img/local-files-top-toolbar.webp" >}}
+  {{< ls-card title="" subtitle="Horní panel nástrojů pro aktuální složku" image="/docs/guide/evermusic/evermusic-guide-local-files/img/local-files-top-toolbar.webp" >}}
 {{< /cards >}}
 
 ## Speciální složky
@@ -128,7 +128,7 @@ Zobrazuje soubory a složky uložené v adresáři Dokumenty aplikace a iCloud D
 Zobrazuje soubory umístěné na zařízení, ale v různých aplikacích. Můžete je importovat do této aplikace pomocí systémového výběru souborů. Pro aktivaci výběru zvolte "Otevřít soubory..." pro výběr souborů nebo "Otevřít složky..." pro výběr složek. Podrobné instrukce o importu lokální hudby uložené na iPhone nebo Macu jsou dostupné [zde](/docs/howto/how-to-play-local-music-stored-on-your-iphone-or-mac). Můžete také připojit složku umístěnou na zařízení a mít rychlý přístup k obsahu složky. Použijte položku nabídky "Připojit složku" a vyberte složku umístěnou na zařízení. Klepněte na "Hotovo" a aplikace vytvoří odkaz na tuto složku s přístupem pro čtení/zápis a můžete přímo z této aplikace spravovat soubory. Pro odpojení složky umístěné na zařízení klepněte na tlačítko "Další akce" a zvolte "Odpojit".
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Soubory na tomto iPhone / iPad / Macu" image="/docs/guide/evermusic/evermusic-guide-local-files/img/local-files-on-this-device.webp" >}}
+  {{< ls-card title="" subtitle="Soubory na tomto iPhone / iPad / Macu" image="/docs/guide/evermusic/evermusic-guide-local-files/img/local-files-on-this-device.webp" >}}
 {{< /cards >}}
 
 ## Import souborů umístěných na připojených USB flash discích
@@ -151,7 +151,7 @@ Nabídka dalších akcí pro aktuálně otevřenou složku umístěnou v pravém
 Pokud potřebujete upravit několik souborů, aktivujte režim výběru klepnutím na tlačítko dalších akcí "..." na navigační liště v pravém horním rohu a poté zvolte položku nabídky "Vybrat". Tím se zobrazí zaškrtávací políčka vedle každého souboru. Vyberte požadované soubory klepnutím na jejich zaškrtávací políčka. Na vybraných souborech můžete provádět následující akce.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Akce režimu výběru pro lokální soubory" image="/docs/guide/evermusic/evermusic-guide-local-files/img/local-files-selection-mode.webp" >}}
+  {{< ls-card title="" subtitle="Akce režimu výběru pro lokální soubory" image="/docs/guide/evermusic/evermusic-guide-local-files/img/local-files-selection-mode.webp" >}}
 {{< /cards >}}
 
 - **Přehrát jako další:** Přidejte vybrané soubory nebo složky na začátek fronty přehrávače s aktuálním pořadím řazení.
@@ -186,7 +186,7 @@ Pro každý soubor nebo složku v aplikaci je k dispozici několik akcí, dostup
 ## Offline složky
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Nabídka Další akce pro offline složku" image="/docs/guide/evermusic/evermusic-guide-local-files/img/local-files-offline-folders.webp" >}}
+  {{< ls-card title="" subtitle="Nabídka Další akce pro offline složku" image="/docs/guide/evermusic/evermusic-guide-local-files/img/local-files-offline-folders.webp" >}}
 {{< /cards >}}
 
 Offline režim je praktická funkce, která vám umožňuje přístup k oblíbené hudbě i bez připojení k internetu. Když aktivujete offline režim pro jakékoli album, interpreta, playlist, žánr nebo vzdálenou složku, všechny soubory v dané sbírce budou automaticky staženy do zařízení pro offline přehrávání. Tyto soubory můžete pohodlně přistupovat v sekci "Offline složky" aplikace.
@@ -204,7 +204,7 @@ Podrobné instrukce o přehrávání offline hudby v Evermusic a Flacbox: Stahov
 Téměř každé chování obrazovky Lokální soubory — od šířky pásma sítě po místo, kam stahování směřuje, až po ukládání náhledů do mezipaměti — lze nakonfigurovat v **Nastavení → Správce souborů**. Otevřete jej kdykoli, když chcete doladit rychlost přenosu, ušetřit úložný prostor nebo omezit aplikaci pouze na Wi-Fi.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Obrazovka nastavení správce souborů" image="/docs/guide/evermusic/evermusic-guide-local-files/img/local-files-file-manager-settings.webp" >}}
+  {{< ls-card title="" subtitle="Obrazovka nastavení správce souborů" image="/docs/guide/evermusic/evermusic-guide-local-files/img/local-files-file-manager-settings.webp" >}}
 {{< /cards >}}
 
 Obrazovka zobrazuje každou možnost seskupenou do přehledně označených sekcí:

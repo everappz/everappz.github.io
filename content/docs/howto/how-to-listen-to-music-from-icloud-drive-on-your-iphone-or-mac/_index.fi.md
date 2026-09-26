@@ -7,7 +7,7 @@ tags: ["musiikki", "pilvi", "suoratoisto", "soitin", "asema", "icloud"]
 readingTime: 5
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **Lyhyesti:** Lataa musiikkia iCloud Driveen, asenna [Evermusic](/products/evermusic) (MP3/WAV) tai [Flacbox](/products/flacbox) (FLAC/DSD), yhdistä iCloud Drive -kansiosi ja suoratoista suoraan käyttämättä laitteen tallennustilaa.
@@ -29,8 +29,8 @@ Ennen kuin voit alkaa nauttia iCloud Drive -musiikistasi iPhonella tai Macilla, 
 1. Siirry App Storeen ja lataa **Evermusic**, jos musiikkisi on tallennettu vakioäänimuodoissa kuten mp3 tai wav. Jos sinulla on häviötöntä musiikkia dsd- tai flac-muodossa, valitse **Flacbox**. Molemmat sovellukset ovat saatavilla iOS:lle ja MacOS:lle.
 
 {{< cards >}}
-  {{< card link="https://apps.apple.com/us/app/evermusic-cloud-music-player/id885367198" title="Lataa Evermusic iOS:lle" icon="download" tag="Ilmainen" >}}
-  {{< card link="https://apps.apple.com/us/app/flacbox-flac-player-equalizer/id1097564256" title="Lataa Flacbox iOS:lle" icon="download" tag="Ilmainen" >}}
+  {{< ls-card link="https://apps.apple.com/us/app/evermusic-cloud-music-player/id885367198" title="Lataa Evermusic iOS:lle" icon="download" tag="Ilmainen" >}}
+  {{< ls-card link="https://apps.apple.com/us/app/flacbox-flac-player-equalizer/id1097564256" title="Lataa Flacbox iOS:lle" icon="download" tag="Ilmainen" >}}
 {{< /cards >}}
 
 - MacOS:lle:
@@ -38,8 +38,8 @@ Ennen kuin voit alkaa nauttia iCloud Drive -musiikistasi iPhonella tai Macilla, 
 1. Käy App Storessa Macillasi ja asenna **Evermusic** tai **Flacbox** musiikkimuototoiveidesi mukaan.
 
 {{< cards >}}
-  {{< card link="https://apps.apple.com/us/app/evermusic-cloud-music-player/id1564384601" title="Lataa Evermusic Macille" icon="download" tag="Ilmainen" >}}
-  {{< card link="https://apps.apple.com/us/app/flacbox-hires-music-player/id1594027432" title="Lataa Flacbox Macille" icon="download" tag="Ilmainen" >}}
+  {{< ls-card link="https://apps.apple.com/us/app/evermusic-cloud-music-player/id1564384601" title="Lataa Evermusic Macille" icon="download" tag="Ilmainen" >}}
+  {{< ls-card link="https://apps.apple.com/us/app/flacbox-hires-music-player/id1594027432" title="Lataa Flacbox Macille" icon="download" tag="Ilmainen" >}}
 {{< /cards >}}
 
 Kun olet asentanut sovelluksen iPhonellesi tai Macillesi, olet valmis jatkamaan.
@@ -215,22 +215,22 @@ Nyt, aloita suoratoisto ja anna musiikin soida!
 
 ## FAQ
 
-{{% details title="Mitä äänimuotoja voin suoratoistaa iCloud Drivestä?" closed="true" %}}
+{{% ls-details title="Mitä äänimuotoja voin suoratoistaa iCloud Drivestä?" closed="true" %}}
 Evermusic tukee MP3-, WAV-, AAC- ja muita vakiomuotoja. Flacbox lisää tuen FLAC-, DSD-, OGG- ja OPUS-muodoille. Valitse sovellus, joka vastaa musiikkikokoelmaasi.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Käyttääkö suoratoisto iCloud Drivestä laitteen tallennustilaa?" closed="true" %}}
+{{% ls-details title="Käyttääkö suoratoisto iCloud Drivestä laitteen tallennustilaa?" closed="true" %}}
 Ei. Sekä Evermusic että Flacbox suoratoistavat ääntä suoraan iCloud Drivestasi lataamatta tiedostoja laitteellesi. Voit halutessasi ladata yksittäisiä kappaleita offline-kuuntelua varten.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Voinko käyttää iCloud Drive -musiikkia offline-tilassa?" closed="true" %}}
+{{% ls-details title="Voinko käyttää iCloud Drive -musiikkia offline-tilassa?" closed="true" %}}
 Kyllä. Napauta minkä tahansa kappaleen kolmen pisteen valikkoa ja valitse latausvaihtoehto. Tiedosto tallennetaan paikallisesti offline-toistoa varten.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Miksi musiikkini pysähtyy tai puskuroi toiston aikana?" closed="true" %}}
+{{% ls-details title="Miksi musiikkini pysähtyy tai puskuroi toiston aikana?" closed="true" %}}
 Tämä johtuu yleensä hitaasta tai epävakaasta internetyhteydestä. Ota äänisoittimen välimuisti käyttöön Asetuksissa ladataksesi tulevat kappaleet etukäteen ja estääksesi keskeytykset.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Onko musiikin suoratoisto iCloud Drivestä ilmaista?" closed="true" %}}
+{{% ls-details title="Onko musiikin suoratoisto iCloud Drivestä ilmaista?" closed="true" %}}
 Sekä Evermusic että Flacbox ovat ilmaisia ladattavia. iCloud Drive tarjoaa 5 Gt ilmaista tallennustilaa. Voit päivittää iCloud-tallennussuunnitelmasi Applen kautta, jos tarvitset lisää tilaa.
-{{% /details %}}
+{{% /ls-details %}}

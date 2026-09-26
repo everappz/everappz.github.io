@@ -12,7 +12,7 @@ authors:
     image: "/images/about/artem-meleshko-founder-everappz.webp"
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 **简介：** Evermusic 是一款适用于 iPhone 和 iPad 的云端音乐播放器，可连接 Dropbox、Google Drive、OneDrive 及其他9个以上的云服务。支持播放 FLAC、MP3、WAV 等格式，支持离线下载，并内置均衡器和 ID3 标签编辑器。免费下载，一次性解锁 Premium。超过1100万次下载，App Store 4.6星评分。
 
@@ -20,7 +20,7 @@ authors:
 
 观看 [@Massi_Media](https://www.youtube.com/@Massi_Media) 的完整视频评测：
 
-{{< youtubecard id="pKUZmHy9dxc" >}}
+{{< ls-youtubecard id="pKUZmHy9dxc" >}}
 
 ## iPhone 最佳云端音乐播放器是哪款？
 
@@ -67,18 +67,18 @@ Evermusic 专为那些更愿意拥有和管理自己的音乐，而不是租用�
 
 ## 常见问题
 
-{{% details title="Evermusic 真的是免费的吗？" closed="true" %}}
+{{% ls-details title="Evermusic 真的是免费的吗？" closed="true" %}}
 是的，Evermusic 提供免费层，包括云连接、流媒体和离线下载。免费版支持基本播放功能和有限数量的云账户连接。Evermusic Pro 可作为一次性购买或订阅，解锁完整均衡器、交叉淡入淡出、额外云账户和其他高级功能。访问您自己的音乐文件无需任何订阅。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="没有网络连接可以使用 Evermusic 吗？" closed="true" %}}
+{{% ls-details title="没有网络连接可以使用 Evermusic 吗？" closed="true" %}}
 当然可以。Evermusic 允许您将任何已连接云服务中的曲目直接下载到设备以供离线播放。一旦下载，文件将存储在本地，即使没有 Wi-Fi 或移动数据也可使用。这使 Evermusic 非常适合飞行、穿越隧道通勤或任何网络不稳定的情况。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Evermusic 支持 FLAC 等无损音频格式吗？" closed="true" %}}
+{{% ls-details title="Evermusic 支持 FLAC 等无损音频格式吗？" closed="true" %}}
 是的。Evermusic 支持广泛的音频格式，包括 FLAC、ALAC、WAV、AIFF、OGG、MP3、AAC 和 M4A。该应用以原始质量播放无损文件，无需重新编码，因此发烧友可以完全按照预期欣赏高分辨率收藏。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="如何将 NAS 或家庭服务器连接到 Evermusic？" closed="true" %}}
+{{% ls-details title="如何将 NAS 或家庭服务器连接到 Evermusic？" closed="true" %}}
 如果您的 NAS 或家庭服务器支持 WebDAV 或 SMB 协议，您可以通过在应用的云连接设置中输入服务器地址、端口和凭据来将其连接到 Evermusic。包括 Synology、QNAS 和 Western Digital MyCloud 在内的大多数主流 NAS 品牌都原生支持这些协议。连接后，Evermusic 将像任何其他云源一样扫描并索引您的音乐文件。
-{{% /details %}}
+{{% /ls-details %}}

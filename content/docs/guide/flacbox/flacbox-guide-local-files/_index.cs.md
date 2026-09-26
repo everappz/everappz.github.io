@@ -19,7 +19,7 @@ Sekce Místní soubory slouží jako centrum pro správu souborů umístěných 
 Tento vestavěný správce souborů vám umožňuje upravovat soubory (přejmenovat, přesunout, kopírovat, nahrávat, mazat), sledovat přenosy a nabízí několik způsobů importu zvukových souborů do aplikace — přímé stahování z cloudu, synchronizace offline režimu, USB flash disky, Wi-Fi Drive a sdílení souborů Finder.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Obrazovka Místní soubory Flacbox" image="/docs/guide/flacbox/img/local-files.webp" >}}
+  {{< ls-card title="" subtitle="Obrazovka Místní soubory Flacbox" image="/docs/guide/flacbox/img/local-files.webp" >}}
 {{< /cards >}}
 
 ## Stahování Souborů z Cloudového Úložiště
@@ -102,7 +102,7 @@ Zobrazuje soubory a složky uložené v adresáři Documents aplikace a na iClou
 Zobrazuje soubory umístěné na vašem zařízení, ale v jiných aplikacích. Můžete je importovat do této aplikace pomocí systémového výběru souborů. Chcete-li aktivovat výběr, zvolte **Otevřít soubory…** pro výběr souborů nebo **Otevřít složky…** pro výběr složek. Podrobné pokyny k importu místní hudby uložené na iPhonu nebo Macu jsou k dispozici [zde](/docs/howto/how-to-play-local-music-stored-on-your-iphone-or-mac).
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Složky připojeného zařízení ve Flacboxu" image="/docs/guide/flacbox/img/connected-device-folders.webp" >}}
+  {{< ls-card title="" subtitle="Složky připojeného zařízení ve Flacboxu" image="/docs/guide/flacbox/img/connected-device-folders.webp" >}}
 {{< /cards >}}
 
 Také můžete připojit složku umístěnou ve vašem zařízení a mít rychlý přístup k jejímu obsahu. Použijte položku nabídky **Připojit složku** a zvolte složku na svém zařízení. Klepněte na **Hotovo** a aplikace vytvoří odkaz na tuto složku s přístupem pro čtení / zápis, což vám umožní spravovat soubory přímo z této aplikace. Chcete-li odpojit složku umístěnou ve vašem zařízení, klepněte na tlačítko **Další akce** a zvolte **Odpojit**.
@@ -137,7 +137,7 @@ Pokud potřebujete upravit několik souborů, aktivujte režim výběru klepnut�
 - **Smazat** — odebrat vybraný soubor nebo složku ze zařízení. **Tato akce je nevratná.**
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Režim výběru místních souborů ve Flacboxu" image="/docs/guide/flacbox/img/local-files-selection-mode.webp" >}}
+  {{< ls-card title="" subtitle="Režim výběru místních souborů ve Flacboxu" image="/docs/guide/flacbox/img/local-files-selection-mode.webp" >}}
 {{< /cards >}}
 
 ## Nabídka Možností
@@ -161,7 +161,7 @@ Pro každý soubor nebo složku v aplikaci je k dispozici několik akcí příst
 - **Smazat** — smaže soubor nebo složku ze zařízení. **Tato akce je nevratná** a smazané soubory nelze obnovit.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Další akce pro místní soubor ve Flacboxu" image="/docs/guide/flacbox/img/local-files-more-actions-for-file.webp" >}}
+  {{< ls-card title="" subtitle="Další akce pro místní soubor ve Flacboxu" image="/docs/guide/flacbox/img/local-files-more-actions-for-file.webp" >}}
 {{< /cards >}}
 
 ## Offline Složky

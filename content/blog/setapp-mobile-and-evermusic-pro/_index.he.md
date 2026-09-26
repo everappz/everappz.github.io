@@ -12,7 +12,7 @@ authors:
     image: "/images/about/artem-meleshko-founder-everappz.webp"
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 ![](/blog/setapp-mobile-and-evermusic-pro/21260c_766c4fbc81e6433cb8fc21b9c2862ce0~mv2.png)
 
@@ -70,27 +70,27 @@ Evermusic Pro כלול במנוי Setapp Mobile. אתם מקבלים את הגר
 מוכנים לנסות? קבלו Evermusic Pro דרך Setapp Mobile והתחילו להזרים את ספריית המוזיקה בענן שלכם היום.
 
 {{< cards cols="1" >}}
-  {{< card link="https://go.setapp.com/stp435?_target=https://www.setapp.com/setapp-mobile&stc=mobile" title="הורדת Evermusic Pro עם Setapp Mobile" icon="download" >}}
+  {{< ls-card link="https://go.setapp.com/stp435?_target=https://www.setapp.com/setapp-mobile&stc=mobile" title="הורדת Evermusic Pro עם Setapp Mobile" icon="download" >}}
 {{< /cards >}}
 
 ## שאלות נפוצות
 
-{{% details title="האם Evermusic Pro חינמי עם Setapp Mobile?" closed="true" %}}
+{{% ls-details title="האם Evermusic Pro חינמי עם Setapp Mobile?" closed="true" %}}
 כן. Evermusic Pro כלול במנוי Setapp Mobile ללא עלות נוספת. אתם מקבלים את הגרסה הפרימיום המלאה עם כל התכונות פתוחות.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="באילו שירותי ענן Evermusic Pro תומך?" closed="true" %}}
+{{% ls-details title="באילו שירותי ענן Evermusic Pro תומך?" closed="true" %}}
 Evermusic Pro מתחבר ל-Google Drive, Dropbox, OneDrive, iCloud, Box, MEGA, Yandex.Disk, pCloud, HiDrive ושרתי WebDAV. הוא גם תומך בשיתופי קבצים SMB ומכשירי NAS.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="האם ניתן להאזין לא מקוון עם Evermusic Pro?" closed="true" %}}
+{{% ls-details title="האם ניתן להאזין לא מקוון עם Evermusic Pro?" closed="true" %}}
 כן. תוכלו להוריד רצועות בודדות, אלבומים, אמנים או רשימות השמעה שלמות להשמעה לא מקוונת ישירות בתוך האפליקציה.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="באילו פורמטי אודיו Evermusic Pro מנגן?" closed="true" %}}
+{{% ls-details title="באילו פורמטי אודיו Evermusic Pro מנגן?" closed="true" %}}
 Evermusic Pro תומך ב-FLAC, MP3, AAC, WAV, ALAC, AIFF, OPUS, OGG ופורמטים רבים אחרים. הוא מטפל גם בקבצי שמע lossless וגם lossy.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="האם אני צריך מנוי Setapp נפרד ל-iPhone?" closed="true" %}}
+{{% ls-details title="האם אני צריך מנוי Setapp נפרד ל-iPhone?" closed="true" %}}
 Setapp Mobile זמין כחלק מתוכנית המנוי של Setapp הכוללת אפליקציות iOS. בדקו את אתר Setapp לתמחור ואפשרויות תוכנית עדכניים.
-{{% /details %}}
+{{% /ls-details %}}

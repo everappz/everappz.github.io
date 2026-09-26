@@ -7,7 +7,7 @@ tags: ["google", "beveiliging", "privacy", "apps", "account", "toegang"]
 readingTime: 2
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **Samenvatting:** Ga naar [myaccount.google.com](https://myaccount.google.com/) > Beveiliging > Apps en services van derden. Klik op de app die je wilt verwijderen en selecteer vervolgens "Toegang verwijderen" of "Alle verbindingen verwijderen." Herhaal dit voor elke app.
@@ -75,18 +75,18 @@ Onthoud dat hoewel apps van derden je digitale ervaring kunnen verbeteren, het c
 
 ## Veelgestelde vragen
 
-{{% details title="Worden mijn gegevens uit de app verwijderd als ik deze loskoppel?" closed="true" %}}
+{{% ls-details title="Worden mijn gegevens uit de app verwijderd als ik deze loskoppel?" closed="true" %}}
 Nee. Het verwijderen van toegang voorkomt alleen dat de app in de toekomst toegang krijgt tot je Google-account. Gegevens die al met de app zijn gedeeld, kunnen nog steeds op hun servers bestaan. Controleer de eigen privacy-instellingen van de app om die gegevens te verwijderen.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Kan ik een app opnieuw koppelen nadat ik deze heb losgekoppeld?" closed="true" %}}
+{{% ls-details title="Kan ik een app opnieuw koppelen nadat ik deze heb losgekoppeld?" closed="true" %}}
 Ja. Als je de app opnieuw nodig hebt, log dan gewoon in met Google wanneer daarom wordt gevraagd. De app zal opnieuw om machtigingen vragen en je kunt deze bekijken voordat je toegang verleent.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Hoe vaak moet ik de toegang van apps van derden controleren?" closed="true" %}}
+{{% ls-details title="Hoe vaak moet ik de toegang van apps van derden controleren?" closed="true" %}}
 Controleer je gekoppelde apps elke 3-6 maanden, of direct nadat je stopt met het gebruik van een service. Regelmatige controles helpen je account veilig te houden.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Heeft dit invloed op apps zoals Evermusic die verbinding maken met Google Drive?" closed="true" %}}
+{{% ls-details title="Heeft dit invloed op apps zoals Evermusic die verbinding maken met Google Drive?" closed="true" %}}
 Ja. Als je een app zoals Evermusic of Flacbox loskoppelt van je Google-account, verliest deze de toegang tot je Google Drive-bestanden. Je kunt op elk moment opnieuw verbinding maken vanuit de app.
-{{% /details %}}
+{{% /ls-details %}}

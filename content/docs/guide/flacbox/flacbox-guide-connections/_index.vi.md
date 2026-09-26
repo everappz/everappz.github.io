@@ -19,7 +19,7 @@ readingTime: 12
 Trên màn hình này, bạn có thể kết nối với tất cả nguồn lưu trữ nhạc. Bạn có thể tích hợp các dịch vụ đám mây phổ biến như Dropbox, Google Drive, iCloud Drive, OneDrive, MEGA, Box, pCloud, Yandex Disk, Synology Drive và nhiều dịch vụ khác, cũng như Mac, PC hoặc NAS qua các giao thức chuẩn. Cho dù bộ sưu tập của bạn nằm trên dịch vụ Dropbox hay NAS cá nhân như Synology, QNAP, Buffalo, Apple Time Capsule hoặc WD My Cloud Home, Flacbox đều kết nối tất cả từ một màn hình duy nhất.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Màn hình Kết nối Flacbox" image="/docs/guide/flacbox/img/connections-main.webp" >}}
+  {{< ls-card title="" subtitle="Màn hình Kết nối Flacbox" image="/docs/guide/flacbox/img/connections-main.webp" >}}
 {{< /cards >}}
 
 ## Kết nối với Lưu trữ Đám mây
@@ -30,7 +30,7 @@ Trên màn hình này, bạn có thể kết nối với tất cả nguồn lưu
 - Nhập thông tin đăng nhập trên trang ủy quyền chính thức của nhà cung cấp, sau đó nhấn **Hoàn tất**.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox Thêm Dịch vụ Lưu trữ Đám mây" image="/docs/guide/flacbox/img/add-cloud-storage.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox Thêm Dịch vụ Lưu trữ Đám mây" image="/docs/guide/flacbox/img/add-cloud-storage.webp" >}}
 {{< /cards >}}
 
 Nếu gặp sự cố, hãy kiểm tra kết nối internet và thông tin đăng nhập. Phiên bản Premium của ứng dụng cho phép thêm không giới hạn dịch vụ; phiên bản miễn phí hỗ trợ tối đa ba dịch vụ.
@@ -130,7 +130,7 @@ Phần này hiển thị mọi thiết bị trên mạng nội bộ mà bạn c�
 - Nếu cần, nhập thông tin đăng nhập để hoàn tất kết nối.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox Thiết bị có sẵn trên Mạng nội bộ" image="/docs/guide/flacbox/img/available-devies.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox Thiết bị có sẵn trên Mạng nội bộ" image="/docs/guide/flacbox/img/available-devies.webp" >}}
 {{< /cards >}}
 
 ## Wi-Fi Drive
@@ -145,7 +145,7 @@ Wi-Fi Drive là công nghệ tiện lợi cho phép truyền file không dây t�
 - Nhấn **Khởi động Wi-Fi Drive** để bật Wi-Fi Drive.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox Wi-Fi Drive" image="/docs/guide/flacbox/img/wifi-drive.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox Wi-Fi Drive" image="/docs/guide/flacbox/img/wifi-drive.webp" >}}
 {{< /cards >}}
 
 ### Truy cập Wi-Fi Drive trên Máy tính
@@ -228,7 +228,7 @@ Nhấn biểu tượng **«...»** bên cạnh tiêu đề file để hiển th�
 - **Xóa** — xóa vĩnh viễn file khỏi lưu trữ đám mây. **Không thể hoàn tác hành động này.**
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox Thêm Hành động cho File trong Lưu trữ Đám mây Đã kết nối" image="/docs/guide/flacbox/img/more-actions-for-file-in-connected-cloud-storage.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox Thêm Hành động cho File trong Lưu trữ Đám mây Đã kết nối" image="/docs/guide/flacbox/img/more-actions-for-file-in-connected-cloud-storage.webp" >}}
 {{< /cards >}}
 
 ## Hành động Thư mục
@@ -253,7 +253,7 @@ Nhấn biểu tượng **«...»** bên cạnh tiêu đề file để hiển th�
 Phần Truy cập Nhanh nằm ở đầu màn hình. Nó cung cấp truy cập nhanh đến các file và thư mục yêu thích và mới mở từ các dịch vụ đám mây đã kết nối.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox Liên kết Trực tuyến và Truy cập Nhanh" image="/docs/guide/flacbox/img/online-links.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox Liên kết Trực tuyến và Truy cập Nhanh" image="/docs/guide/flacbox/img/online-links.webp" >}}
 {{< /cards >}}
 
 ## Dịch vụ Khác
@@ -261,5 +261,5 @@ Phần Truy cập Nhanh nằm ở đầu màn hình. Nó cung cấp truy cập n
 Phần này hiển thị các tính năng bổ sung. Hiện tại, ứng dụng hỗ trợ scrobbling **Last.fm** — khi được kết nối, thống kê phát nhạc của bạn tự động được gửi đến tài khoản Last.fm. Hướng dẫn thiết lập chi tiết có sẵn [tại đây](/docs/howto/how-to-scrobble-your-music-history-from-evermusic-or-flacbox-to-last-fm).
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox Kết nối Last.fm" image="/docs/guide/flacbox/img/last-fm-connect.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox Kết nối Last.fm" image="/docs/guide/flacbox/img/last-fm-connect.webp" >}}
 {{< /cards >}}

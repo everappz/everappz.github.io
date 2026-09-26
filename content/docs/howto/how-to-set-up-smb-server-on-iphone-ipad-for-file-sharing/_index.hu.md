@@ -7,7 +7,7 @@ keywords: ["SMB szerver iPhone", "SMB szerver iPad", "hogyan állíts be SMB-t i
 readingTime: 10
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 Az SMB a macOS-be, a Windowsba és a Linuxba, valamint szinte minden hálózati meghajtóba (NAS) beépített fájlmegosztás. Amikor egy másik számítógép megosztott mappájához csatlakozol és az normál lemezként nyílik meg a Finderben vagy a Fájlkezelőben, azt az SMB végzi. Az [Everdisk](/products/everdisk) segítségével elhelyezhetsz egy SMB-megosztást az iPhone-odon vagy iPad-eden, így maga a telefon jelenik meg hálózati meghajtóként, amelyet a többi eszköz böngész, amelyről másol, és amelyre másol.
 
@@ -136,44 +136,44 @@ A **Fájlszerkesztés** kapcsoló a Beállítások, Megosztás, Hozzáférés me
 
 ## Gyakran ismételt kérdések
 
-{{% details title="Mi az iPhone-om SMB-címe és portja?" closed="true" %}}
+{{% ls-details title="Mi az iPhone-om SMB-címe és portja?" closed="true" %}}
 Miután elindítod a megosztást, az Everdisk mutatja a címet a Megosztás képernyőn. Így néz ki: smb://192.168.1.20:4455/Share. A 4455 az a port, amelyet az Everdisk az SMB-hez használ, a Share pedig a megosztott mappa neve. Az első rész az iPhone-od Wi-Fi-címe, így a tiéd más lesz.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Csatlakozhatok az iPhone-om SMB-megosztásához Windowsról?" closed="true" %}}
+{{% ls-details title="Csatlakozhatok az iPhone-om SMB-megosztásához Windowsról?" closed="true" %}}
 A Windows Fájlkezelő csak a szabványos porton csatlakozik SMB-hez és nem fogad el egyéni portot az elérési útban, az Everdisk pedig a 4455-ös portot használja. Így a sima Hálózati meghajtó csatlakoztatása útvonal gyakran nem éri el. Használj egy olyan fájlkezelőt, amely lehetővé teszi egyéni port beállítását, vagy csatlakozz Windowsról inkább WebDAV-val, FTP-vel vagy a böngészőlinkkel. Ezek mind portgondok nélkül működnek Windowsról.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Hogyan osztok meg fájlokat két iPhone között SMB-vel?" closed="true" %}}
+{{% ls-details title="Hogyan osztok meg fájlokat két iPhone között SMB-vel?" closed="true" %}}
 Indítsd el az SMB szervert az első iPhone-on az Everdiskben. A második iPhone-on nyisd meg a Fájlok appot, érintsd meg a továbbiak gombot, válaszd a Connect to Server lehetőséget, és add meg az Everdiskben megjelenő smb-címet (például smb://192.168.1.20:4455/Share). Csatlakozz Guest lehetőséggel vagy a bejelentkezéseddel, és a megosztás megjelenik a Fájlokban. Használhatod az Everdisk saját Eszközök fülét is a második telefonon.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Automatikusan megjelenik az iPhone-om a Mac Finder oldalsávjában?" closed="true" %}}
+{{% ls-details title="Automatikusan megjelenik az iPhone-om a Mac Finder oldalsávjában?" closed="true" %}}
 Általában igen. Az Everdisk bejelenti az SMB-megosztást a Wi-Fi hálózatodon, így az iPhone-od gyakran megjelenik a Locations vagy a Network alatt a Finder oldalsávjában. Kattints rá és válaszd a Connect As, majd a Guest lehetőséget vagy a bejelentkezésedet. Ha nem jelenik meg, csatlakozz kézzel a Go, Connect to Server lehetőséggel és a teljes smb-címmel.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Kell jelszó az SMB használatához?" closed="true" %}}
+{{% ls-details title="Kell jelszó az SMB használatához?" closed="true" %}}
 Nem, a bejelentkezés opcionális. Hagyd a Felhasználónevet és a Jelszót üresen a Beállítások, Megosztás, Hozzáférés menüben a vendéghozzáférés engedélyezéséhez. Állítsd be őket, ha azt szeretnéd, hogy a kapcsolatok bejelentkezzenek. Felhasználónév és jelszó csak akkor kötelező, ha bekapcsolod az SMB-titkosítás megkövetelése lehetőséget, mert a titkosított kapcsolatok nem lehetnek névtelenek.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Titkosított az SMB kapcsolat?" closed="true" %}}
+{{% ls-details title="Titkosított az SMB kapcsolat?" closed="true" %}}
 Lehet. Az SMB az egyetlen Everdisk-kapcsolat, amely támogatja a titkosítást. Állíts be egy felhasználónevet és jelszót, majd kapcsold be az SMB-titkosítás megkövetelése lehetőséget a Beállítások, Megosztás menüben. Ekkor minden átvitelt SMB3 (AES) véd. A másik eszköznek támogatnia kell az SMB3-at, amit a modern Macek és a Windows 10 vagy újabb megtesznek. A titkosítás Premium funkció.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Módosíthatják vagy törölhetik mások a fájljaimat SMB felett?" closed="true" %}}
+{{% ls-details title="Módosíthatják vagy törölhetik mások a fájljaimat SMB felett?" closed="true" %}}
 Csak ha megengeded. A Fájlszerkesztés kapcsoló a Beállítások, Megosztás, Hozzáférés menüben szabályozza ezt. Bekapcsolva a csatlakozó eszközök feltölthetnek, átnevezhetnek és törölhetnek. Kikapcsolva a megosztás csak olvasható, és mások böngészhetnek és lemásolhatnak fájlokat a telefonodról, de nem módosíthatnak semmit.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Miért szakadt meg az SMB kapcsolatom?" closed="true" %}}
+{{% ls-details title="Miért szakadt meg az SMB kapcsolatom?" closed="true" %}}
 Az iPhone-od a szerver, és az iOS szünetelteti a túl sokáig a háttérben maradó alkalmazásokat. Tartsd az Everdisket a képernyőn, amíg egy eszköz csatlakozik, és csatlakoztasd a telefont a hálózathoz a hosszú átvitelek alatt. Győződj meg arról is, hogy mindkét eszköz ugyanazon a Wi-Fi hálózaton maradt.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="SMB, WebDAV vagy FTP, melyiket használjam?" closed="true" %}}
+{{% ls-details title="SMB, WebDAV vagy FTP, melyiket használjam?" closed="true" %}}
 Használd az SMB-t, amikor azt szeretnéd, hogy a telefon valódi hálózati meghajtóként viselkedjen egy Macen, egy másik iPhone-on, Linuxon vagy egy NAS-on, és amikor titkosítást szeretnél. Használd a WebDAV-ot, amikor egy olyan hálózati meghajtót szeretnél, amely Windowsról is jól működik. Használd az FTP-t a legszélesebb kompatibilitáshoz régebbi eszközökkel és alkalmazásokkal. Az Everdisk mindegyiket egyszerre futtatja, így nem vagy egyhez kötve.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Ingyenes az Everdisk?" closed="true" %}}
+{{% ls-details title="Ingyenes az Everdisk?" closed="true" %}}
 Igen, az Everdisk ingyenesen letölthető és az SMB szerver benne van. Az opcionális egyszeri Premium vásárlás hozzáadja az SMB-titkosítást, az egyéni portokat és néhány más extrát. Az SMB-t fizetés nélkül beállíthatod és megoszthatsz fájlokat.
-{{% /details %}}
+{{% /ls-details %}}
 
 Készen állsz kipróbálni? [Töltsd le az Everdisket az App Store-ból](https://apps.apple.com/app/apple-store/id6751851132?pt=95781850&ct=everappzcom&mt=8) és körülbelül egy perc alatt nyisd meg az iPhone-odat a Finderben. Kérdés vagy visszajelzés? Írj nekünk a **support@everappz.com** címre.

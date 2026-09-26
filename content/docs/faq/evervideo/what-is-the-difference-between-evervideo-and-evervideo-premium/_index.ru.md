@@ -11,7 +11,7 @@ readingTime: 3
 Evervideo предлагает как бесплатную версию с определёнными ограничениями использования, так и premium-версию с дополнительными функциями, которые можно разблокировать через встроенные покупки.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Экран обновления плана по умолчанию" image="/docs/faq/evervideo/what-is-the-difference-between-evervideo-and-evervideo-premium/upgrade-default.webp" >}}
+  {{< ls-card title="" subtitle="Экран обновления плана по умолчанию" image="/docs/faq/evervideo/what-is-the-difference-between-evervideo-and-evervideo-premium/upgrade-default.webp" >}}
 {{< /cards >}}
 
 ## Выберите свой Premium-план
@@ -19,7 +19,7 @@ Evervideo предлагает как бесплатную версию с оп�
 Бесплатная версия приложения предлагает единовременную пожизненную покупку и два варианта подписки (1 месяц и 1 год) для снятия всех ограничений и обновления до Premium, что позволяет выбрать наиболее подходящую цену. Цены могут различаться в зависимости от страны или региона. Также имейте в виду, что **Семейный доступ** включён для всех покупок и планов, поэтому вы можете поделиться Premium с членами своей семьи.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Экран выбора плана Evervideo" image="/docs/faq/evervideo/what-is-the-difference-between-evervideo-and-evervideo-premium/plan-select.webp" >}}
+  {{< ls-card title="" subtitle="Экран выбора плана Evervideo" image="/docs/faq/evervideo/what-is-the-difference-between-evervideo-and-evervideo-premium/plan-select.webp" >}}
 {{< /cards >}}
 
 ## Общий доступ к покупкам между iOS и Mac
@@ -31,13 +31,13 @@ Evervideo предлагает как бесплатную версию с оп�
 Для восстановления покупки на новом устройстве просто воспользуйтесь меню «Восстановить покупки». Вы увидите список ваших покупок. Если вы не видите всех покупок, проверьте, подключено ли устройство к тому же аккаунту iTunes, который использовался для совершения покупок, и убедитесь, что iCloud включён.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Экран восстановленной покупки" image="/docs/faq/evervideo/what-is-the-difference-between-evervideo-and-evervideo-premium/purchase-restored.webp" >}}
+  {{< ls-card title="" subtitle="Экран восстановленной покупки" image="/docs/faq/evervideo/what-is-the-difference-between-evervideo-and-evervideo-premium/purchase-restored.webp" >}}
 {{< /cards >}}
 
 После обновления приложения вы увидите экран статуса Premium с деталями текущих покупок.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Экран «Вы используете Premium»" image="/docs/faq/evervideo/what-is-the-difference-between-evervideo-and-evervideo-premium/you-are-using-premium.webp" >}}
+  {{< ls-card title="" subtitle="Экран «Вы используете Premium»" image="/docs/faq/evervideo/what-is-the-difference-between-evervideo-and-evervideo-premium/you-are-using-premium.webp" >}}
 {{< /cards >}}
 
 ## Попробуйте Premium бесплатно
@@ -45,7 +45,7 @@ Evervideo предлагает как бесплатную версию с оп�
 Кроме того, есть ограниченная по времени возможность «**Попробовать Premium бесплатно**». Воспользоваться этой функцией можно через меню «Попробовать Premium бесплатно». Просто просмотрев рекламу или рассказав о приложении друзьям, вы можете разблокировать Premium-версию бесплатно в течение этого акционного периода. Это даёт вам возможность оценить premium-функции без каких-либо финансовых обязательств.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Экран «Попробовать Premium бесплатно»" image="/docs/faq/evervideo/what-is-the-difference-between-evervideo-and-evervideo-premium/premium-for-free.webp" >}}
+  {{< ls-card title="" subtitle="Экран «Попробовать Premium бесплатно»" image="/docs/faq/evervideo/what-is-the-difference-between-evervideo-and-evervideo-premium/premium-for-free.webp" >}}
 {{< /cards >}}
 
 ## Evervideo Free
@@ -62,7 +62,7 @@ Evervideo предлагает как бесплатную версию с оп�
 - Нет опций персонализации.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Экран обновления облачного хранилища" image="/docs/faq/evervideo/what-is-the-difference-between-evervideo-and-evervideo-premium/upgrade-cloud-storage.webp" >}}
+  {{< ls-card title="" subtitle="Экран обновления облачного хранилища" image="/docs/faq/evervideo/what-is-the-difference-between-evervideo-and-evervideo-premium/upgrade-cloud-storage.webp" >}}
 {{< /cards >}}
 
 ## Evervideo Premium
@@ -106,7 +106,7 @@ Evervideo предлагает как бесплатную версию с оп�
 С другой стороны, **Evervideo Premium** открывает полный функционал. Вы получите интерфейс без рекламы, неограниченную поддержку плейлистов и очереди, полную офлайн-функциональность, гибкость облачных подключений, а также расширенные параметры экспорта и персонализации. Это лучший вариант для пользователей с большими видеобиблиотеками, тех, кто смотрит контент из нескольких источников, или всех, кто ищет более профессиональный и удобный медиаплеер.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Экран «Вы приобрели Premium»" image="/docs/faq/evervideo/what-is-the-difference-between-evervideo-and-evervideo-premium/you-have-purchased-premium.webp" >}}
+  {{< ls-card title="" subtitle="Экран «Вы приобрели Premium»" image="/docs/faq/evervideo/what-is-the-difference-between-evervideo-and-evervideo-premium/you-have-purchased-premium.webp" >}}
 {{< /cards >}}
 
 Если вам нужна гибкость, попробуйте **ежемесячный план**. Для долгосрочной выгоды выберите **годовое** или **пожизненное** обновление — оба предлагают полный доступ по более выгодной цене.

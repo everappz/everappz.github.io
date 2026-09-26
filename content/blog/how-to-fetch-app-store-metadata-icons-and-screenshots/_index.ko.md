@@ -23,7 +23,7 @@ authors:
     image: "/images/about/artem-meleshko-founder-everappz.webp"
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 ## App Store 데이터를 몇 초 만에 가져오기
 
@@ -134,53 +134,53 @@ App Store 데이터를 검사하는 데 API 키, 개발자 계정 또는 유료 
 AppLookup.pro는 오픈 소스입니다. 버그 리포트, 국가 추가 및 풀 리퀘스트를 환영합니다.
 
 {{< cards cols="1" >}}
-  {{< card link="https://github.com/everappz/AppStoreLookup" title="GitHub의 AppLookup.pro" icon="github" tag="오픈 소스" >}}
+  {{< ls-card link="https://github.com/everappz/AppStoreLookup" title="GitHub의 AppLookup.pro" icon="github" tag="오픈 소스" >}}
 {{< /cards >}}
 
 ---
 
 ## 자주 묻는 질문
 
-{{% details title="AppLookup.pro는 정말 무료인가요?" closed="true" %}}
+{{% ls-details title="AppLookup.pro는 정말 무료인가요?" closed="true" %}}
 네. AppLookup.pro는 100% 무료이며 오픈 소스입니다. 브라우저에서 실행됩니다. 가입, 유료 티어, Apple 자체 iTunes Search API 한도 이외의 사용량 제한이 없습니다.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="데이터는 어디에서 가져오나요?" closed="true" %}}
+{{% ls-details title="데이터는 어디에서 가져오나요?" closed="true" %}}
 모든 결과는 Apple의 공식 [iTunes Search API](https://developer.apple.com/library/archive/documentation/AudioVideo/Conceptual/iTuneSearchAPI/index.html) 에서 실시간으로 가져옵니다. 이 도구는 App Store 페이지를 스크래핑하지 않으며 어떤 서버에도 응답을 캐싱하지 않습니다.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="앱 아이콘을 고해상도로 다운로드할 수 있나요?" closed="true" %}}
+{{% ls-details title="앱 아이콘을 고해상도로 다운로드할 수 있나요?" closed="true" %}}
 네. **App Icon** 섹션에는 Apple이 반환하는 모든 아이콘 URL이 표시됩니다. 각 카드에는 Direct Link 및 Download 버튼이 있으며, Download All Icons ZIP 버튼이 그것들을 하나의 아카이브로 묶어줍니다.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="모든 App Store 스크린샷을 한 번에 다운로드할 수 있나요?" closed="true" %}}
+{{% ls-details title="모든 App Store 스크린샷을 한 번에 다운로드할 수 있나요?" closed="true" %}}
 네. 각 스크린샷 섹션(iPhone, iPad, macOS, Apple TV)에는 모든 스크린샷을 전체 해상도로 묶는 **Download All (ZIP)** 버튼이 있습니다.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="다른 국가에서 앱이 어떻게 보이는지 확인하려면 어떻게 하나요?" closed="true" %}}
+{{% ls-details title="다른 국가에서 앱이 어떻게 보이는지 확인하려면 어떻게 하나요?" closed="true" %}}
 페이지 상단의 드롭다운에서 국가를 선택합니다. 40개 이상의 스토어프론트가 지원됩니다. **Lookup** 을 다시 클릭하면 도구가 해당 국가의 앱을 다시 가져와 현지화된 제목, 설명, 스크린샷, 새로운 기능, 가격을 표시합니다.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="번들 ID나 출시일과 같은 개별 필드를 복사할 수 있나요?" closed="true" %}}
+{{% ls-details title="번들 ID나 출시일과 같은 개별 필드를 복사할 수 있나요?" closed="true" %}}
 네. 결과의 모든 텍스트 필드에는 자체 Copy 버튼이 있습니다: 앱 이름, 개발자, 설명, 새로운 기능, 번들 ID, 버전, 가격, 파일 크기, 최소 OS, 출시일, 콘텐츠 등급, 지원 언어, 지원 기기, 원시 JSON.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="AppLookup.pro는 모든 iOS 앱에서 작동하나요?" closed="true" %}}
+{{% ls-details title="AppLookup.pro는 모든 iOS 앱에서 작동하나요?" closed="true" %}}
 최소 한 국가의 App Store에 공개적으로 등록되어 있고 iTunes Search API에서 반환되는 모든 앱에서 작동합니다. 비공개, 삭제됨 또는 엔터프라이즈 배포 앱은 표시되지 않습니다.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="macOS와 Apple TV 앱도 지원하나요?" closed="true" %}}
+{{% ls-details title="macOS와 Apple TV 앱도 지원하나요?" closed="true" %}}
 네. iTunes Search API 응답에 macOS 또는 Apple TV 스크린샷이 있는 경우, AppLookup.pro는 다운로드 버튼이 있는 자체 스크롤 가능한 패널에 표시합니다.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="원시 JSON을 내 코드에서 사용할 수 있나요?" closed="true" %}}
+{{% ls-details title="원시 JSON을 내 코드에서 사용할 수 있나요?" closed="true" %}}
 네. Raw API Response 섹션에는 Apple이 반환하는 정확한 JSON이 표시됩니다. Postman, 단위 테스트 또는 백엔드 파이프라인에 복사하세요. Apple의 API 약관과 합리적인 요청 제한을 준수하세요.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="도구에 App Store URL을 붙여넣어도 안전한가요?" closed="true" %}}
+{{% ls-details title="도구에 App Store URL을 붙여넣어도 안전한가요?" closed="true" %}}
 네. URL은 브라우저에서 파싱됩니다. 유일한 외부 네트워크 호출은 Apple의 iTunes Search API에 대한 조회입니다.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="AppLookup.pro와 AppKeywords.pro의 차이점은 무엇인가요?" closed="true" %}}
+{{% ls-details title="AppLookup.pro와 AppKeywords.pro의 차이점은 무엇인가요?" closed="true" %}}
 [AppLookup.pro](https://applookup.pro) 는 게시된 모든 앱의 App Store 메타데이터를 읽기 위한 도구입니다: 경쟁사 조사, 에셋 다운로드, 현지화 점검. [AppKeywords.pro](https://appkeywords.pro) 는 자신의 앱을 위한 App Store 메타데이터를 작성하기 위한 도구입니다: Fastlane을 지원하는 제목, 부제목, 키워드 최적화. 두 도구는 함께 잘 작동합니다.
-{{% /details %}}
+{{% /ls-details %}}

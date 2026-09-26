@@ -33,7 +33,7 @@ Tab Tệp được chia thành các phần rõ ràng xuất hiện theo thứ t�
 Ở góc trên bên phải màn hình Tệp có nút Truyền tải (biểu tượng mũi tên quay). Nhấn vào đó để mở Hàng đợi truyền tải nơi bạn theo dõi mọi lượt tải xuống và tải lên từ tất cả các nguồn của mình.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Tệp Evervideo trên các bộ nhớ đã kết nối" image="/docs/guide/evervideo/img/evervideo-files-connected-storages.webp" >}}
+  {{< ls-card title="" subtitle="Tệp Evervideo trên các bộ nhớ đã kết nối" image="/docs/guide/evervideo/img/evervideo-files-connected-storages.webp" >}}
 {{< /cards >}}
 
 ## Kết nối với lưu trữ đám mây
@@ -41,7 +41,7 @@ Tab Tệp được chia thành các phần rõ ràng xuất hiện theo thứ t�
 Phần Lưu trữ đám mây của tab Tệp là nơi tồn tại mọi tài khoản đã kết nối, NAS, máy chủ phương tiện và luồng — cạnh nhau, trong một danh sách có thể cuộn.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Phần lưu trữ đám mây trong tab Tệp của Evervideo" image="/docs/guide/evervideo/img/evervideo-connections.webp" >}}
+  {{< ls-card title="" subtitle="Phần lưu trữ đám mây trong tab Tệp của Evervideo" image="/docs/guide/evervideo/img/evervideo-connections.webp" >}}
 {{< /cards >}}
 
 - Mở tab **Tệp**.
@@ -51,7 +51,7 @@ Phần Lưu trữ đám mây của tab Tệp là nơi tồn tại mọi tài kho
 - Nhập thông tin đăng nhập trên trang ủy quyền chính thức do nhà cung cấp đám mây cung cấp, sau đó nhấn **Hoàn tất**.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Kết nối dịch vụ lưu trữ đám mây trong Evervideo" image="/docs/guide/evervideo/img/evervideo-connect-cloud-storage.webp" >}}
+  {{< ls-card title="" subtitle="Kết nối dịch vụ lưu trữ đám mây trong Evervideo" image="/docs/guide/evervideo/img/evervideo-connect-cloud-storage.webp" >}}
 {{< /cards >}}
 
 Nếu gặp sự cố, hãy kiểm tra kết nối internet và thông tin đăng nhập / mật khẩu của bạn. Trong phiên bản Premium của ứng dụng, bạn có thể thêm số lượng dịch vụ không giới hạn; phiên bản miễn phí hỗ trợ tối đa ba dịch vụ.
@@ -161,7 +161,7 @@ Phần này hiển thị mọi thiết bị trên mạng cục bộ của bạn 
 - Nếu cần, nhập thông tin đăng nhập để hoàn tất kết nối.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Thiết bị có sẵn Evervideo trên mạng cục bộ" image="/docs/guide/evervideo/img/evervideo-available-devices.webp" >}}
+  {{< ls-card title="" subtitle="Thiết bị có sẵn Evervideo trên mạng cục bộ" image="/docs/guide/evervideo/img/evervideo-available-devices.webp" >}}
 {{< /cards >}}
 
 ## Wi-Fi Drive
@@ -169,7 +169,7 @@ Phần này hiển thị mọi thiết bị trên mạng cục bộ của bạn 
 Wi-Fi Drive cho phép bạn truyền tệp không dây từ máy tính sang thiết bị iOS qua bất kỳ trình duyệt máy tính để bàn, Finder hoặc File Explorer. Thiết bị và máy tính phải ở trên cùng mạng Wi-Fi.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evervideo Wi-Fi Drive" image="/docs/guide/evervideo/img/evervideo-wifi-drive.webp" >}}
+  {{< ls-card title="" subtitle="Evervideo Wi-Fi Drive" image="/docs/guide/evervideo/img/evervideo-wifi-drive.webp" >}}
 {{< /cards >}}
 
 ### Bật Wi-Fi Drive
@@ -201,7 +201,7 @@ Cắm ổ USB hoặc thẻ SD vào iPhone, iPad hoặc Mac qua bộ chuyển đ�
 Nhấn vào bất kỳ dịch vụ đám mây đã kết nối nào để mở trình duyệt tệp của nó. Các thư mục hiển thị hình thu nhỏ video khi có sẵn, và nhấn vào video sẽ bắt đầu phát lại ngay lập tức trong khi tiếp tục phát trực tuyến phần còn lại của tệp trong nền.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Duyệt thư mục trong các bộ nhớ đã kết nối của Evervideo" image="/docs/guide/evervideo/img/evervideo-all-connected-device-folders.webp" >}}
+  {{< ls-card title="" subtitle="Duyệt thư mục trong các bộ nhớ đã kết nối của Evervideo" image="/docs/guide/evervideo/img/evervideo-all-connected-device-folders.webp" >}}
 {{< /cards >}}
 
 ## Truy cập nhanh
@@ -209,7 +209,7 @@ Nhấn vào bất kỳ dịch vụ đám mây đã kết nối nào để mở t
 Phần Truy cập nhanh nằm ở đầu tab Tệp. Nó cung cấp quyền truy cập nhanh vào các tệp và thư mục yêu thích và gần đây đã mở — cả từ dịch vụ đám mây và từ bộ nhớ trên thiết bị. Mỗi khi bạn mở tệp hoặc thư mục từ đám mây, nó được thêm vào danh sách Đã mở gần đây. Bạn có thể đánh dấu các thư mục lồng sâu là Yêu thích để truy cập nhanh mà không cần phải đào qua cấu trúc thư mục.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Liên kết trực tuyến và truy cập nhanh Evervideo" image="/docs/guide/evervideo/img/evervideo-connections-online-links.webp" >}}
+  {{< ls-card title="" subtitle="Liên kết trực tuyến và truy cập nhanh Evervideo" image="/docs/guide/evervideo/img/evervideo-connections-online-links.webp" >}}
 {{< /cards >}}
 
 ## Tệp trong ứng dụng này
@@ -217,7 +217,7 @@ Phần Truy cập nhanh nằm ở đầu tab Tệp. Nó cung cấp quyền truy 
 Phần này hiển thị các tệp và thư mục được lưu trữ trong thư mục Documents sandbox của Evervideo — mọi thứ bạn đã tải xuống từ đám mây, truyền qua Wi-Fi Drive, sao chép qua Finder File Sharing hoặc nhập từ ứng dụng khác.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Tệp trong ứng dụng Evervideo" image="/docs/guide/evervideo/img/evervideo-files-in-this-application.webp" >}}
+  {{< ls-card title="" subtitle="Tệp trong ứng dụng Evervideo" image="/docs/guide/evervideo/img/evervideo-files-in-this-application.webp" >}}
 {{< /cards >}}
 
 ### Thư mục Documents
@@ -225,7 +225,7 @@ Phần này hiển thị các tệp và thư mục được lưu trữ trong th�
 Thư mục Documents là gốc của mọi thứ bên trong Tệp trong ứng dụng này. Bạn có thể tạo thư mục con, đổi tên tệp, di chuyển chúng và sắp xếp theo ý thích.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Tệp cục bộ Evervideo — Thư mục Documents" image="/docs/guide/evervideo/img/evervideo-local-files-documents.webp" >}}
+  {{< ls-card title="" subtitle="Tệp cục bộ Evervideo — Thư mục Documents" image="/docs/guide/evervideo/img/evervideo-local-files-documents.webp" >}}
 {{< /cards >}}
 
 ## Tệp trên iPhone / iPad / Mac này
@@ -238,7 +238,7 @@ Phần này hiển thị các video nằm trên thiết bị của bạn nhưng 
 Bạn cũng có thể sử dụng Kết nối thư mục để tạo liên kết đến thư mục trên thiết bị với quyền truy cập đọc / ghi — hoàn hảo để làm việc với thư mục trên iCloud Drive hoặc ổ USB gắn kèm mà không cần sao chép bất cứ thứ gì.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Tệp trên thiết bị này trong Evervideo" image="/docs/guide/evervideo/img/evervideo-files-on-this-device.webp" >}}
+  {{< ls-card title="" subtitle="Tệp trên thiết bị này trong Evervideo" image="/docs/guide/evervideo/img/evervideo-files-on-this-device.webp" >}}
 {{< /cards >}}
 
 ## Thư mục đặc biệt
@@ -276,7 +276,7 @@ Khi bạn mở thư mục, nhấn nút **«...»** ở góc trên bên phải đ
 Nhấn **«...»** ở góc trên bên phải và chọn **Chọn** để vào chế độ chọn. Hộp kiểm xuất hiện bên cạnh mọi tệp và thư mục. Nhấn để chọn một hoặc nhiều mục, sau đó thực hiện các hành động hàng loạt: Phát tiếp theo, Phát sau, Thêm vào thư viện phương tiện, Thêm vào danh sách phát, Sao chép, Tải lên, Di chuyển, Đổi tên hoặc Xóa.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Chế độ chọn trong trình quản lý tệp Evervideo" image="/docs/guide/evervideo/img/evervideo-selection-mode-in-files.webp" >}}
+  {{< ls-card title="" subtitle="Chế độ chọn trong trình quản lý tệp Evervideo" image="/docs/guide/evervideo/img/evervideo-selection-mode-in-files.webp" >}}
 {{< /cards >}}
 
 Nếu bạn muốn coi lưu trữ đám mây đã kết nối là chỉ đọc (để ngăn xóa nhầm), hãy bật Cài đặt → Trình quản lý tệp → Chỉnh sửa tệp trực tuyến → Tắt để ẩn tất cả các thao tác phá hủy khỏi giao diện.
@@ -318,13 +318,13 @@ Nhấn biểu tượng **«...»** gần tiêu đề tệp để hiển thị me
 Ở góc trên bên phải của tab Tệp có nút **Truyền tải** (biểu tượng mũi tên quay). Nhấn vào đó để mở Hàng đợi truyền tải — danh sách mọi lượt tải xuống và tải lên đang hoạt động từ tất cả các nguồn, với tiến độ thời gian thực, tốc độ và ETA cho từng tệp.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Hàng đợi truyền tệp Evervideo" image="/docs/guide/evervideo/img/evervideo-file-transfers.webp" >}}
+  {{< ls-card title="" subtitle="Hàng đợi truyền tệp Evervideo" image="/docs/guide/evervideo/img/evervideo-file-transfers.webp" >}}
 {{< /cards >}}
 
 Bạn có thể tạm dừng, tiếp tục, thử lại các lần truyền thất bại, sắp xếp lại các mục để ưu tiên tải xuống cụ thể hoặc hủy chúng riêng lẻ. Bạn cũng có thể điều chỉnh tốc độ hàng đợi truyền (số tác vụ song song tối đa), loại mạng (chỉ Wi-Fi hoặc Wi-Fi + Mạng di động) và truyền tải nền trong Cài đặt → Trình quản lý tệp.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Hành động trên hàng đợi truyền tệp Evervideo" image="/docs/guide/evervideo/img/evervideo-file-transfers-actions.webp" >}}
+  {{< ls-card title="" subtitle="Hành động trên hàng đợi truyền tệp Evervideo" image="/docs/guide/evervideo/img/evervideo-file-transfers-actions.webp" >}}
 {{< /cards >}}
 
 ## Chế độ ngoại tuyến và thư mục ngoại tuyến đồng bộ hóa

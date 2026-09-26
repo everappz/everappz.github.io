@@ -7,7 +7,7 @@ tags: ["evermusic", "連接", "bluesound vault"]
 readingTime: 1
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **摘要：** 使用Evermusic、Flacbox或Evertag透過SMB連接到Bluesound VAULT的內部儲存。在BluOS應用程式中找到VAULT的IP位址，將其作為SMB連接輸入並使用訪客存取，然後開始播放或管理您的音樂檔案。
@@ -58,18 +58,18 @@ Bluesound VAULT擁有內部硬碟，可作為網路附加儲存（NAS）使用�
 
 ## 常見問題
 
-{{% details title="連接Bluesound VAULT需要使用者名稱和密碼嗎？" closed="true" %}}
+{{% ls-details title="連接Bluesound VAULT需要使用者名稱和密碼嗎？" closed="true" %}}
 不需要。Bluesound VAULT支援透過SMB進行訪客（匿名）存取。設定連接時將登入和密碼欄位留空即可。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="我可以在Bluesound VAULT上編輯音樂標籤嗎？" closed="true" %}}
+{{% ls-details title="我可以在Bluesound VAULT上編輯音樂標籤嗎？" closed="true" %}}
 可以。使用Evertag，您可以編輯直接儲存在VAULT內部硬碟上的音訊檔案的中繼資料標籤（標題、藝術家、專輯等）。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Bluesound VAULT支援哪些協定？" closed="true" %}}
+{{% ls-details title="Bluesound VAULT支援哪些協定？" closed="true" %}}
 Bluesound VAULT透過SMB（Server Message Block）公開其內部儲存。Evermusic、Flacbox和Evertag都支援SMB連接，使連接變得簡單。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="我可以在不將檔案複製到iPhone的情況下從VAULT串流音樂嗎？" closed="true" %}}
+{{% ls-details title="我可以在不將檔案複製到iPhone的情況下從VAULT串流音樂嗎？" closed="true" %}}
 可以。透過SMB連接後，您可以直接從VAULT的內部磁碟機串流音訊檔案，無需將其複製到您的裝置。
-{{% /details %}}
+{{% /ls-details %}}

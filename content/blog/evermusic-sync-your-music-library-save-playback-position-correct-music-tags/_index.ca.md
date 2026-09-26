@@ -12,7 +12,7 @@ authors:
     image: "/images/about/artem-meleshko-founder-everappz.webp"
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 ![](/blog/evermusic-sync-your-music-library-save-playback-position-correct-music-tags/21260c_641f376e779e47d4927b43c210d3c87f~mv2.jpeg)
 
@@ -67,22 +67,22 @@ Evermusic detecta i corregeix etiquetes ID3 no vàlides o incompletes utilitzant
 
 ## Preguntes freqüents
 
-{{% details title="La sincronització automàtica d'Evermusic funciona amb tots els serveis al núvol?" closed="true" %}}
+{{% ls-details title="La sincronització automàtica d'Evermusic funciona amb tots els serveis al núvol?" closed="true" %}}
 Sí. La sincronització automàtica funciona amb Dropbox, Google Drive, OneDrive, MEGA, WebDAV i SMB. Selecciona les carpetes que vols supervisar i Evermusic mantindrà la teva biblioteca actualitzada.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Pot Evermusic desar la posició del meu audiollibres?" closed="true" %}}
+{{% ls-details title="Pot Evermusic desar la posició del meu audiollibres?" closed="true" %}}
 Sí. Activa el desament de la posició de reproducció a la configuració d'àudio. Evermusic recorda on vas parar per a cada fitxer, així pots reprendre sense marcadors manuals.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Com funciona la lectura de metadades en segon pla?" closed="true" %}}
+{{% ls-details title="Com funciona la lectura de metadades en segon pla?" closed="true" %}}
 Evermusic llegeix les etiquetes ID3 i les metadades dels fitxers en segon pla mentre utilitzes altres funcions. Organitza la teva biblioteca per Artista, Àlbum i Gènere automàticament.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Evermusic corregirà les meves etiquetes de música malmeses?" closed="true" %}}
+{{% ls-details title="Evermusic corregirà les meves etiquetes de música malmeses?" closed="true" %}}
 Sí. La funció de correcció automàtica d'etiquetes comprova els teus fitxers contra bases de dades en línia i corregeix les metadades ID3 no vàlides, incompletes o absents.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Evermusic és gratuït per descarregar?" closed="true" %}}
+{{% ls-details title="Evermusic és gratuït per descarregar?" closed="true" %}}
 Evermusic és gratuït per descarregar amb funcions premium opcionals disponibles mitjançant compra dins l'aplicació.
-{{% /details %}}
+{{% /ls-details %}}

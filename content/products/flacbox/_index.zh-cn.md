@@ -16,15 +16,15 @@ screenshots:
   - "https://everappz.com/products/flacbox/screenshots/2048x2732/6.png"
 ---
 
-{{% sr-only %}}
+{{% ls-sr-only %}}
 Flacbox 是一款适用于 iPhone 和 Mac 的高解析度音频播放器，由西班牙软件公司 Everappz 开发。凭借全球超过 100 万次下载，Flacbox 专为发烧友和音乐爱好者设计，让他们无需转换格式即可在 Apple 设备上播放无损和高解析度音频文件。该应用原生支持超过 120 种音频格式，包括 FLAC、DSD（DSD64、DSD128、DSD256）、ALAC、APE、WAV、AIFF、OGG、OPUS、WMA、MKA、MP3、AAC 等。Flacbox 连接超过 30 种云存储服务，包括 iCloud Drive、Google Drive、Dropbox、OneDrive、MEGA、Box 和 pCloud，用户可以直接从云端串流高解析度音乐合集，或下载文件以供离线播放。主要功能包括带可自定义预设的 10 段音频均衡器、交叉淡入淡出和无缝播放、音调和速度控制、低音增强、M3U 播放列表导入和导出、歌词显示、音频书签、内置元数据标签编辑器、Apple CarPlay 集成、AirPlay 和 Chromecast 串流以及 Last.fm 记录。该应用还支持通过 SMB、WebDAV 和 DLNA 协议进行本地网络串流、USB 闪存驱动器播放和 Wi-Fi 文件传输。Flacbox 可在 App Store 免费下载，提供可选的应用内购买，包括每月订阅 $4.99、每年订阅 $19.99 或一次性终身购买 $59.99。该应用于 2016 年首次发布，并通过定期更新积极维护。
-{{% /sr-only %}}
+{{% /ls-sr-only %}}
 
 
 <!-- force dark theme for this page -->
-{{< force-dark >}}
+{{< ls-force-dark >}}
 
-{{< hextra/hero-container
+{{< ls-hero-container
   image="/products/flacbox/heroimage/hero_1600.png"
   imageWidth="800"
   imageCard="true"
@@ -32,36 +32,36 @@ Flacbox 是一款适用于 iPhone 和 Mac 的高解析度音频播放器，由�
 
 <div class="hx:w-full hx:text-center">
 
-{{< downloads-badge >}}
+{{< ls-downloads-badge >}}
 
 <div class="hx:mt-6 hx:mb-6">
 <div class="hx:flex hx:gap-4 hx:items-center hx:justify-center">
-{{< app-icon src="/images/app_icons/png/Flacbox_Icon-App-1024x1024.png" alt="Flacbox Icon" class="hero-headline-icon" size="80" >}}
-{{< hextra/hero-headline >}}
+{{< ls-app-icon src="/images/app_icons/png/Flacbox_Icon-App-1024x1024.png" alt="Flacbox Icon" class="hero-headline-icon" size="80" >}}
+{{< ls-hero-headline >}}
 Flacbox
-{{< /hextra/hero-headline >}}
+{{< /ls-hero-headline >}}
 </div>
 </div>
 
 <div class="hx:mb-12">
-{{< hextra/hero-centered-subtitle >}}
+{{< ls-hero-centered-subtitle >}}
 <strong>iPhone和MAC高解析度 音频播放器和串流器</strong>
-{{< /hextra/hero-centered-subtitle >}}
+{{< /ls-hero-centered-subtitle >}}
 </div>
 
 <div class="hx:mb-6">
-{{< hextra/hero-paragraph >}}
+{{< ls-hero-paragraph >}}
 • 以无损音质播放FLAC、ALAC、APE、DSD等格式  
 • 下载音乐并完全掌控离线收听  
 • 从Google Drive、Dropbox、NAS或计算机串流   
-{{< /hextra/hero-paragraph >}}
+{{< /ls-hero-paragraph >}}
 </div>
 
-{{< app-store-badges products="flacbox:ios, flacbox:macos" >}}
+{{< ls-app-store-badges products="flacbox:ios, flacbox:macos" >}}
 
 </div>
 
-{{< /hextra/hero-container >}}
+{{< /ls-hero-container >}}
 
 <div class="hx:mt-6"></div>
 
@@ -69,11 +69,11 @@ Flacbox
 
 {{< hextra/feature-grid >}}
 
-  {{< hextra/feature-card title="串流无损音乐" subtitle=`无需订阅，在iPhone、iPad和Mac上享受无损音乐。<br><br>连接云存储，免费串流FLAC、ALAC、MKA等格式。轻松投射到Chromecast和AirPlay设备。<br><br>建立音乐库，按专辑、艺术家和流派整理曲目。使用内置均衡器、音高/速度控制和低音增强提升音频。` icon="status-online" style="background: radial-gradient(circle at 50% 80%, rgba(99,102,241,0.15), transparent);" >}}
+  {{< ls-glass-feature-card title="串流无损音乐" subtitle=`无需订阅，在iPhone、iPad和Mac上享受无损音乐。<br><br>连接云存储，免费串流FLAC、ALAC、MKA等格式。轻松投射到Chromecast和AirPlay设备。<br><br>建立音乐库，按专辑、艺术家和流派整理曲目。使用内置均衡器、音高/速度控制和低音增强提升音频。` icon="status-online" style="background: radial-gradient(circle at 50% 80%, rgba(99,102,241,0.15), transparent);" >}}
 
-  {{< hextra/feature-card title="播放高解析度音频" subtitle=`支持120多种音频格式，享受录音室品质的声音，包括FLAC、ALAC、WAV、AIFF和DSD。<br><br>Flacbox还可播放MP3、AAC、OGG、APE、MOD、MKA以及MKV、MP4、MOV等高级容器。<br><br>凭借广泛的编解码器兼容性，您的整个收藏无需转换即可访问。` icon="volume-up" style="background: radial-gradient(circle at 50% 80%, rgba(236,72,153,0.15), transparent);" >}}
+  {{< ls-glass-feature-card title="播放高解析度音频" subtitle=`支持120多种音频格式，享受录音室品质的声音，包括FLAC、ALAC、WAV、AIFF和DSD。<br><br>Flacbox还可播放MP3、AAC、OGG、APE、MOD、MKA以及MKV、MP4、MOV等高级容器。<br><br>凭借广泛的编解码器兼容性，您的整个收藏无需转换即可访问。` icon="volume-up" style="background: radial-gradient(circle at 50% 80%, rgba(236,72,153,0.15), transparent);" >}}
 
-  {{< hextra/feature-card title="下载并离线收听" subtitle=`即使离线也能保持与音乐的连接。<br><br>将整张专辑、流派、播放列表和曲目下载到设备。使用Wi-Fi Drive或iTunes文件共享从Mac或PC传输音频。<br><br>从USB闪存驱动器或网络存储(NAS)串流，无需互联网即可享受完整的音乐库。` icon="download" style="background: radial-gradient(circle at 50% 80%, rgba(16,185,129,0.15), transparent);" >}}
+  {{< ls-glass-feature-card title="下载并离线收听" subtitle=`即使离线也能保持与音乐的连接。<br><br>将整张专辑、流派、播放列表和曲目下载到设备。使用Wi-Fi Drive或iTunes文件共享从Mac或PC传输音频。<br><br>从USB闪存驱动器或网络存储(NAS)串流，无需互联网即可享受完整的音乐库。` icon="download" style="background: radial-gradient(circle at 50% 80%, rgba(16,185,129,0.15), transparent);" >}}
 
 {{< /hextra/feature-grid >}}
 
@@ -81,9 +81,9 @@ Flacbox
 
 <div class="hx:mt-6"></div>
 
-{{< hextra/section-headline >}}
+{{< ls-section-headline >}}
 全面功能
-{{< /hextra/section-headline >}}
+{{< /ls-section-headline >}}
 
 <div class="hx:mt-6"></div>
 
@@ -91,41 +91,41 @@ Flacbox
 
 {{< cards >}}
 
-  {{< feature-card title="音频质量" subtitle="享受高保真输出，采样率从8 kHz到384 kHz，支持默认或混合输出模式，以及1到7个音频声道。" icon="volume-up" >}}
-  {{< feature-card title="无损与高解析度音频" subtitle="播放FLAC、ALAC、WAV、AIFF、APE、WV和DSF（DSD）等无损与高解析度格式，以及MP3、AAC、OGG和OPUS，采样率高达384 kHz。" icon="music-note" >}}
-  {{< feature-card title="Tracker与MOD音乐" subtitle="原生播放经典的tracker与模块音乐，包括来自芯片音乐和Demoscene领域、多数播放器无法打开的MOD、XM、IT和S3M格式。" icon="table" >}}
+  {{< ls-feature-card title="音频质量" subtitle="享受高保真输出，采样率从8 kHz到384 kHz，支持默认或混合输出模式，以及1到7个音频声道。" icon="volume-up" >}}
+  {{< ls-feature-card title="无损与高解析度音频" subtitle="播放FLAC、ALAC、WAV、AIFF、APE、WV和DSF（DSD）等无损与高解析度格式，以及MP3、AAC、OGG和OPUS，采样率高达384 kHz。" icon="music-note" >}}
+  {{< ls-feature-card title="Tracker与MOD音乐" subtitle="原生播放经典的tracker与模块音乐，包括来自芯片音乐和Demoscene领域、多数播放器无法打开的MOD、XM、IT和S3M格式。" icon="table" >}}
 
-  {{< feature-card title="音频引擎" subtitle="可选三种播放引擎：标准系统引擎、多功能的FFmpeg引擎，以及可解锁音效、DSP和视觉效果的专业BASS™引擎。" icon="switch-horizontal" >}}
-  {{< feature-card title="音频效果" subtitle="用混响、延迟、回声、合唱、镶边、移相器、自动哇音、失真、压缩器以及自然的耳机串音等效果实时塑造您的声音。" icon="lightning-bolt" >}}
-  {{< feature-card title="DSP处理链" subtitle="用专业滤波器和EQ频段、饱和度与比特压碎器，以及颤音和立体声宽度等创意处理器，构建您自己的实时信号处理链。" icon="chip" >}}
+  {{< ls-feature-card title="音频引擎" subtitle="可选三种播放引擎：标准系统引擎、多功能的FFmpeg引擎，以及可解锁音效、DSP和视觉效果的专业BASS™引擎。" icon="switch-horizontal" >}}
+  {{< ls-feature-card title="音频效果" subtitle="用混响、延迟、回声、合唱、镶边、移相器、自动哇音、失真、压缩器以及自然的耳机串音等效果实时塑造您的声音。" icon="lightning-bolt" >}}
+  {{< ls-feature-card title="DSP处理链" subtitle="用专业滤波器和EQ频段、饱和度与比特压碎器，以及颤音和立体声宽度等创意处理器，构建您自己的实时信号处理链。" icon="chip" >}}
 
-  {{< feature-card title="音频均衡器" subtitle="使用多频段均衡器、现成的流派预设、手动控制和前置放大器增益微调声音，在不削波的情况下提升安静曲目的音量。" icon="adjustments" >}}
-  {{< feature-card title="音乐可视化" subtitle="观看随音乐实时律动的全屏动画视觉效果，从大量预设中选择或让它们自动循环切换。" icon="sparkles" >}}
-  {{< feature-card title="播放控制" subtitle="在不改变音高的情况下调整播放速度，保存并恢复您的队列和位置，并使用睡眠定时器、随机播放、重复播放和后台播放。" icon="play" >}}
+  {{< ls-feature-card title="音频均衡器" subtitle="使用多频段均衡器、现成的流派预设、手动控制和前置放大器增益微调声音，在不削波的情况下提升安静曲目的音量。" icon="adjustments" >}}
+  {{< ls-feature-card title="音乐可视化" subtitle="观看随音乐实时律动的全屏动画视觉效果，从大量预设中选择或让它们自动循环切换。" icon="sparkles" >}}
+  {{< ls-feature-card title="播放控制" subtitle="在不改变音高的情况下调整播放速度，保存并恢复您的队列和位置，并使用睡眠定时器、随机播放、重复播放和后台播放。" icon="play" >}}
 
-  {{< feature-card title="云端串流" subtitle="直接从iCloud Drive、Google Drive、Dropbox、OneDrive、Box、MEGA和pCloud串流，还支持Internxt和Proton Drive等注重隐私的云服务。" icon="cloud" >}}
-  {{< feature-card title="媒体服务器" subtitle="连接您的个人媒体服务器，包括Plex、Subsonic、Navidrome、Jellyfin和Emby，打开并串流您的整个音乐库。" icon="server" >}}
-  {{< feature-card title="计算机与NAS" subtitle="通过SMB、WebDAV、DLNA、FTP、SFTP或NFS连接计算机或NAS，原生支持QNAP、Synology、Nextcloud和WD My Cloud Home。" icon="desktop-computer" >}}
+  {{< ls-feature-card title="云端串流" subtitle="直接从iCloud Drive、Google Drive、Dropbox、OneDrive、Box、MEGA和pCloud串流，还支持Internxt和Proton Drive等注重隐私的云服务。" icon="cloud" >}}
+  {{< ls-feature-card title="媒体服务器" subtitle="连接您的个人媒体服务器，包括Plex、Subsonic、Navidrome、Jellyfin和Emby，打开并串流您的整个音乐库。" icon="server" >}}
+  {{< ls-feature-card title="计算机与NAS" subtitle="通过SMB、WebDAV、DLNA、FTP、SFTP或NFS连接计算机或NAS，原生支持QNAP、Synology、Nextcloud和WD My Cloud Home。" icon="desktop-computer" >}}
 
-  {{< feature-card title="USB闪存卡" subtitle="使用SanDisk iXpand等外置读卡器，直接从SD卡和USB闪存驱动器播放音乐，无需导入或同步。" icon="inbox" >}}
-  {{< feature-card title="AirPlay与Chromecast" subtitle="通过内置的AirPlay、AirPlay 2和Google Chromecast支持，将音乐无线传送到Apple TV、HomePod、智能音箱等设备。" icon="device-mobile" >}}
-  {{< feature-card title="Apple CarPlay" subtitle="借助简洁的专用Apple CarPlay界面安全驾驶并收听，可从云端、本地和离线来源选择和控制音乐。" icon="map" >}}
+  {{< ls-feature-card title="USB闪存卡" subtitle="使用SanDisk iXpand等外置读卡器，直接从SD卡和USB闪存驱动器播放音乐，无需导入或同步。" icon="inbox" >}}
+  {{< ls-feature-card title="AirPlay与Chromecast" subtitle="通过内置的AirPlay、AirPlay 2和Google Chromecast支持，将音乐无线传送到Apple TV、HomePod、智能音箱等设备。" icon="device-mobile" >}}
+  {{< ls-feature-card title="Apple CarPlay" subtitle="借助简洁的专用Apple CarPlay界面安全驾驶并收听，可从云端、本地和离线来源选择和控制音乐。" icon="map" >}}
 
-  {{< feature-card title="离线收听" subtitle="下载歌曲、专辑和完整艺术家的作品以便无网络收听，或开启音频缓存自动保存最近播放的曲目。" icon="download" >}}
-  {{< feature-card title="自动同步" subtitle="在云存储与本地文件夹之间自动同步您的音乐库，新增的文件无需任何手动操作即可显示。" icon="refresh" >}}
-  {{< feature-card title="媒体库" subtitle="添加您的音乐，并利用文件中嵌入的标签，按专辑、艺术家、专辑艺术家、流派和作曲家自动整理。" icon="library" >}}
+  {{< ls-feature-card title="离线收听" subtitle="下载歌曲、专辑和完整艺术家的作品以便无网络收听，或开启音频缓存自动保存最近播放的曲目。" icon="download" >}}
+  {{< ls-feature-card title="自动同步" subtitle="在云存储与本地文件夹之间自动同步您的音乐库，新增的文件无需任何手动操作即可显示。" icon="refresh" >}}
+  {{< ls-feature-card title="媒体库" subtitle="添加您的音乐，并利用文件中嵌入的标签，按专辑、艺术家、专辑艺术家、流派和作曲家自动整理。" icon="library" >}}
 
-  {{< feature-card title="自定义播放列表" subtitle="创建、编辑和重新排序您自己的播放列表，让它们可离线使用，并以M3U、M3U8和CUE格式导入或导出。" icon="collection" >}}
-  {{< feature-card title="文件管理器" subtitle="使用内置文件管理器管理您的音乐，处理复制、移动、重命名和删除等日常操作，让文件井井有条。" icon="folder" >}}
-  {{< feature-card title="ID3标签编辑器" subtitle="使用内置ID3标签编辑器修复错误或缺失的元数据，只需轻点几下即可更新标题、艺术家、专辑、流派等。" icon="pencil-alt" >}}
+  {{< ls-feature-card title="自定义播放列表" subtitle="创建、编辑和重新排序您自己的播放列表，让它们可离线使用，并以M3U、M3U8和CUE格式导入或导出。" icon="collection" >}}
+  {{< ls-feature-card title="文件管理器" subtitle="使用内置文件管理器管理您的音乐，处理复制、移动、重命名和删除等日常操作，让文件井井有条。" icon="folder" >}}
+  {{< ls-feature-card title="ID3标签编辑器" subtitle="使用内置ID3标签编辑器修复错误或缺失的元数据，只需轻点几下即可更新标题、艺术家、专辑、流派等。" icon="pencil-alt" >}}
 
-  {{< feature-card title="高级搜索" subtitle="通过专为超大型音乐库打造的智能快速搜索，在整个收藏中迅速找到任何歌曲、艺术家或专辑。" icon="search" >}}
-  {{< feature-card title="快速访问" subtitle="通过最近播放、收藏和书签直接返回重要内容，让您常用的曲目始终触手可及。" icon="clock" >}}
-  {{< feature-card title="歌词与评论" subtitle="在每首曲目播放时查看同步歌词和歌曲注释，并将歌词小组件添加到主屏幕，以便快速一目了然地查看。" icon="annotation" >}}
+  {{< ls-feature-card title="高级搜索" subtitle="通过专为超大型音乐库打造的智能快速搜索，在整个收藏中迅速找到任何歌曲、艺术家或专辑。" icon="search" >}}
+  {{< ls-feature-card title="快速访问" subtitle="通过最近播放、收藏和书签直接返回重要内容，让您常用的曲目始终触手可及。" icon="clock" >}}
+  {{< ls-feature-card title="歌词与评论" subtitle="在每首曲目播放时查看同步歌词和歌曲注释，并将歌词小组件添加到主屏幕，以便快速一目了然地查看。" icon="annotation" >}}
 
-  {{< feature-card title="小组件" subtitle="添加显示播放队列的主屏幕小组件，让您直接回到上次收听的位置，从上次离开的地方继续播放。" icon="view-grid" >}}
-  {{< feature-card title="有声书支持" subtitle="收听有声书，支持书签、睡眠定时器、可调节速度，以及从上次停止处继续的恢复播放功能。" icon="book-open" >}}
-  {{< feature-card title="Last.fm集成" subtitle="连接您的Last.fm账户以记录曲目、跟踪收听统计，并随时间获得个性化音乐推荐。" icon="chart-bar" >}}
+  {{< ls-feature-card title="小组件" subtitle="添加显示播放队列的主屏幕小组件，让您直接回到上次收听的位置，从上次离开的地方继续播放。" icon="view-grid" >}}
+  {{< ls-feature-card title="有声书支持" subtitle="收听有声书，支持书签、睡眠定时器、可调节速度，以及从上次停止处继续的恢复播放功能。" icon="book-open" >}}
+  {{< ls-feature-card title="Last.fm集成" subtitle="连接您的Last.fm账户以记录曲目、跟踪收听统计，并随时间获得个性化音乐推荐。" icon="chart-bar" >}}
 
 {{< /cards >}}
 
@@ -133,21 +133,21 @@ Flacbox
 
 <div class="hx:mt-6"></div>
 
-{{< hextra/section-headline >}}
+{{< ls-section-headline >}}
 直观设计
-{{< /hextra/section-headline >}}
+{{< /ls-section-headline >}}
 
 <div class="hx:mt-6"></div>
 
 <div class="hx:w-full">
 
 {{< cards cols="4">}}
-  {{< design-feature-card image="/products/flacbox/screenshots/2048x2732/1.png" title="音频播放器" method="Fill" options="515x200 q90 webp" subtitle="高级音乐播放器，具有重复、随机播放、速度控制和音高调节功能。" icon="play" >}}
-  {{< design-feature-card image="/products/flacbox/screenshots/2048x2732/2.png" title="音频均衡器" method="Fill" options="515x200 q90 webp" subtitle="自定义均衡器，带预设、低音增强和前置放大器，提供更好的声音。" icon="adjustments" >}}
-  {{< design-feature-card image="/products/flacbox/screenshots/2048x2732/3.png" title="播放列表管理器" method="Fill" options="515x200 q90 webp" subtitle="创建播放列表，更改歌曲顺序，导出为M3U或ZIP以备份或共享。" icon="collection" >}}
-  {{< design-feature-card image="/products/flacbox/screenshots/2048x2732/5.png" title="媒体库" method="Fill" options="515x200 q90 webp" subtitle="使用音频标签和元数据按专辑、艺术家或流派整理歌曲。" icon="library" >}}
-  {{< design-feature-card image="/products/flacbox/screenshots/2048x2732/7.png" title="云存储" method="Fill" options="515x200 q90 webp" subtitle="从Google Drive、Dropbox、OneDrive和其他云服务串流音乐。" icon="cloud" >}}
-  {{< design-feature-card image="/products/flacbox/screenshots/2048x2732/8.png" title="iCloud Drive" method="Fill" options="515x200 q90 webp" subtitle="在iCloud中存储无损音乐，无需下载即可直接串流。" icon="wifi" >}}
+  {{< ls-design-feature-card image="/products/flacbox/screenshots/2048x2732/1.png" title="音频播放器" method="Fill" options="515x200 q90 webp" subtitle="高级音乐播放器，具有重复、随机播放、速度控制和音高调节功能。" icon="play" >}}
+  {{< ls-design-feature-card image="/products/flacbox/screenshots/2048x2732/2.png" title="音频均衡器" method="Fill" options="515x200 q90 webp" subtitle="自定义均衡器，带预设、低音增强和前置放大器，提供更好的声音。" icon="adjustments" >}}
+  {{< ls-design-feature-card image="/products/flacbox/screenshots/2048x2732/3.png" title="播放列表管理器" method="Fill" options="515x200 q90 webp" subtitle="创建播放列表，更改歌曲顺序，导出为M3U或ZIP以备份或共享。" icon="collection" >}}
+  {{< ls-design-feature-card image="/products/flacbox/screenshots/2048x2732/5.png" title="媒体库" method="Fill" options="515x200 q90 webp" subtitle="使用音频标签和元数据按专辑、艺术家或流派整理歌曲。" icon="library" >}}
+  {{< ls-design-feature-card image="/products/flacbox/screenshots/2048x2732/7.png" title="云存储" method="Fill" options="515x200 q90 webp" subtitle="从Google Drive、Dropbox、OneDrive和其他云服务串流音乐。" icon="cloud" >}}
+  {{< ls-design-feature-card image="/products/flacbox/screenshots/2048x2732/8.png" title="iCloud Drive" method="Fill" options="515x200 q90 webp" subtitle="在iCloud中存储无损音乐，无需下载即可直接串流。" icon="wifi" >}}
 {{< /cards >}}
 
 </div>
@@ -157,48 +157,48 @@ Flacbox
 <div class="hx:mt-6"></div>
 
 <div class="hx:w-full">
-{{< appstore-reviews apps="1097564256,1594027432" stars="5,4"  app="Flacbox" >}}
+{{< ls-appstore-reviews apps="1097564256,1594027432" stars="5,4"  app="Flacbox" >}}
 </div>
 
 <div class="hx:mt-6"></div>
 
-{{< hextra/section-headline >}}
+{{< ls-section-headline >}}
    价格方案
-{{< /hextra/section-headline >}}
+{{< /ls-section-headline >}}
 
 <div class="hx:mt-6"></div>
 
 <div class="hx:w-full">
 
-{{< pricing-plans >}}
+{{< ls-pricing-plans >}}
 
 </div>
 
 <div class="hx:mt-6"></div>
 
 <div class="hx:w-full hx:mx-auto hx:flex hx:flex-col hx:items-center">
-  {{< hextra/info-paragraph border="true" >}}
+  {{< ls-info-paragraph border="true" >}}
    <strong>家庭共享</strong>：所有购买和订阅均支持家庭共享，让您与家人共享Premium访问权限。<br><strong>通用访问</strong>：终身和订阅计划通过iCloud同步在iOS和Mac设备之间共享。<br><strong>定价</strong>：价格以美元显示，适用于美国。最终价格可能因您所在地区而异。  
-  {{< /hextra/info-paragraph >}}
+  {{< /ls-info-paragraph >}}
 </div>
 
 <div class="hx:mt-6"></div>
 
 <div class="hx:w-full">
-{{< app-details heading="true" >}}
+{{< ls-app-details heading="true" >}}
 </div>
 
 <div class="hx:mt-6"></div>
 
-{{< hextra/section-headline >}}
+{{< ls-section-headline >}}
    常见问题
-{{< /hextra/section-headline >}}
+{{< /ls-section-headline >}}
 
 <div class="hx:mt-6"></div>
 
 <div class="hx:w-full">
 
-{{% details title="Flacbox如何工作？" closed="true" %}}
+{{% ls-details title="Flacbox如何工作？" closed="true" %}}
 Flacbox是一款高解析度音乐播放器，让您像管理普通文件一样管理音频曲目。<br>
 您可以将整个音乐收藏上传到Dropbox、Google Drive或个人NAS等云服务，并直接从云端播放音乐。<br><br>
 无需iTunes同步——像上传任何文件一样从PC或Mac上传。<br>
@@ -210,32 +210,32 @@ Flacbox是一款高解析度音乐播放器，让您像管理普通文件一样�
 - [如何通过WiFi-Drive从电脑无线传输文件到iPhone](/docs/howto/how-to-transfer-files-wirelessly-from-a-computer-to-an-iphone-using-wifi-drive)<br>
 - [如何将USB闪存卡连接到iPhone](/docs/howto/how-to-connect-a-usb-flashcard-to-the-iphone-and-listen-to-music-or-manage-files-located-on-it)<br>
 - [如何从WD My Cloud Home在iPhone上播放音乐](/docs/howto/how-to-play-music-on-iphone-from-wd-my-cloud-home)
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Flacbox是免费的吗？" closed="true" %}}
+{{% ls-details title="Flacbox是免费的吗？" closed="true" %}}
 Flacbox可免费使用，但有一些限制，可通过升级到Premium版本来解除。<br>
 您可以选择一次性终身购买或两种订阅选项（月度或年度）。价格可能因地区而异。<br><br>
 家庭共享适用于所有方案。Premium购买和订阅通过iCloud在iOS和Mac之间共享。<br><br>
 [了解更多关于Flacbox和Flacbox Premium的区别](/docs/faq/flacbox/what-is-the-difference-between-flacbox-and-flacbox-premium/)
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Flacbox和Evermusic有什么区别？" closed="true" %}}
+{{% ls-details title="Flacbox和Evermusic有什么区别？" closed="true" %}}
 **Flacbox**支持所有默认iOS音频格式以及iPhone上原生不支持的许多附加格式，如WMA、OGG、M4A、DSD等。<br><br>
 **Evermusic**支持默认音频格式，包含交叉淡入淡出播放、无缝播放、音频均衡器、播放速度控制等高级功能。<br><br>
 如果您主要使用MP3、ALAC或FLAC，**Evermusic**可能是更好的选择。<br>
 如果您需要与各种音频文件类型的广泛兼容性，**Flacbox**是正确的选择。<br><br>
 [了解更多](/docs/faq/evermusic/what-is-the-difference-between-evermusic-and-flacbox/)
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="如何同步Flacbox？" closed="true" %}}
+{{% ls-details title="如何同步Flacbox？" closed="true" %}}
 **元数据同步** — 添加曲目时，后台元数据读取器会扫描文件并按艺术家、专辑、流派和作曲家整理。<br><br>
 **在线音乐同步** — 自动从云存储添加音乐到音乐库。前往**音乐库设置 → 同步文件夹**。<br><br>
 **离线音乐同步** — 扫描应用**Documents**目录中的所有文件夹并添加支持的本地文件。<br><br>
 **离线文件夹** — 为任何专辑、艺术家、流派、播放列表或远程文件夹启用离线模式将下载所有文件以供离线访问。<br><br>
 [了解更多](/docs/guide/flacbox/flacbox-guide-music-library)
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="如何使用Flacbox？" closed="true" %}}
+{{% ls-details title="如何使用Flacbox？" closed="true" %}}
 从应用商店**安装Flacbox**。可用于iOS和Mac设备。<br><br>
 **连接云服务**：打开**连接**标签 → **连接云服务** → 选择服务 → 输入凭据 → **完成**。<br><br>
 **从设备导入文件**：**本地文件**标签 → **打开文件...**或**打开文件夹...**。<br><br>
@@ -248,135 +248,135 @@ Flacbox可免费使用，但有一些限制，可通过升级到Premium版本来
 • [使用音频均衡器](/docs/howto/how-to-use-the-audio-equalizer-on-your-iphone-ipad-mac-with-evermusic-and-flacbox)<br>
 • [连接USB闪存卡](/docs/howto/how-to-connect-a-usb-flashcard-to-the-iphone-and-listen-to-music-or-manage-files-located-on-it)<br>
 • [WiFi-Drive无线传输](/docs/howto/how-to-transfer-files-wirelessly-from-a-computer-to-an-iphone-using-wifi-drive)
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Flacbox安全吗？" closed="true" %}}
+{{% ls-details title="Flacbox安全吗？" closed="true" %}}
 Flacbox仅使用官方SDK和安全连接与连接的云服务交互。您的登录名和密码对应用程序不可用。所有请求均加密。<br><br>
 Auth-token存储在设备上称为Keychain的安全系统存储中。您可以随时撤销云账户的访问权限。<br><br>
 [了解更多](/docs/guide/flacbox/flacbox-guide-connections)
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="如何在Flacbox中创建播放列表？" closed="true" %}}
+{{% ls-details title="如何在Flacbox中创建播放列表？" closed="true" %}}
 - 打开播放列表部分。<br>
 - 点击"+"按钮或右上角的"..."按钮，选择"新建播放列表"。<br>
 - 输入播放列表名称并点击"保存"。将出现"添加歌曲"对话框。<br>
 - 选择要添加的曲目。<br><br>
 [了解更多](/docs/guide/flacbox/flacbox-guide-playlists)
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Flacbox支持哪些云服务？" closed="true" %}}
+{{% ls-details title="Flacbox支持哪些云服务？" closed="true" %}}
 目前支持：iCloud Drive、Google Drive、Dropbox、OneDrive、Box、MEGA、Yandex.Disk、WD MyCloud Home、DLNA、MediaFire、WebDAV、SMB、pCloud、HiDrive、My Cloud Home、InfiniCLOUD、Cloud Mail.ru、Put.io、MyDrive。<br><br>
 [了解更多](/docs/guide/flacbox/flacbox-guide-connections)
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="如何使用均衡器？" closed="true" %}}
+{{% ls-details title="如何使用均衡器？" closed="true" %}}
 - 打开音频播放器屏幕。<br>
 - 点击屏幕底部的"均衡器"图标。<br>
 - 打开右上角的开关以激活均衡器。<br>
 - 选择预设（摇滚、流行、舞曲、迪斯科..）或调整滑块创建自定义预设。<br><br>
 [完整教程](/docs/howto/how-to-use-the-audio-equalizer-on-your-iphone-ipad-mac-with-evermusic-and-flacbox)
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="如何在Flacbox中启用离线模式？" closed="true" %}}
+{{% ls-details title="如何在Flacbox中启用离线模式？" closed="true" %}}
 连接云服务 → 找到音乐文件夹 → 点击"更多操作" → "启用离线模式"。<br>
 文件夹和内容将下载到"本地文件" > "离线文件夹"。<br>
 应用会自动扫描更改并下载新文件。<br><br>
 [了解更多](/docs/howto/play-offline-music-in-evermusic-flacbox-download-sync-from-cloud-to-local-files/)
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="如何在iPhone上播放本地下载的音乐？" closed="true" %}}
+{{% ls-details title="如何在iPhone上播放本地下载的音乐？" closed="true" %}}
 打开"本地文件" → "此iPhone上的文件" → "打开文件..."或"打开文件夹..." → 选择音乐文件夹 → 点击"打开"。文件将添加到播放队列。<br><br>
 [了解更多](/docs/howto/how-to-play-local-music-stored-on-your-iphone-or-mac)
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="如何从上次停止的位置继续播放列表？" closed="true" %}}
+{{% ls-details title="如何从上次停止的位置继续播放列表？" closed="true" %}}
 确保在设置 > 音频播放器 > 通用中启用"保存音频播放器状态"。点击"继续播放"以从上次保存的状态继续。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="如何在Flacbox中查看歌词？" closed="true" %}}
+{{% ls-details title="如何在Flacbox中查看歌词？" closed="true" %}}
 1. 点击播放音频文件。2. 打开全屏播放器。3. 点击"更多操作" → "查看评论"。4. 三种模式：评论、嵌入歌词和LRC文件。<br><br>
 [了解更多](/docs/howto/how-to-add-and-view-comments-to-your-audio-tracks-on-iphone-ipad-and-mac-with-evermusic-and-flacbox)
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="如何从电脑传输音乐到Flacbox？" closed="true" %}}
+{{% ls-details title="如何从电脑传输音乐到Flacbox？" closed="true" %}}
 通过SMB、WebDAV或DLNA协议连接。或使用iTunes文件共享或Wi-Fi Drive。<br><br>
 [通过SMB传输文件](/docs/howto/transfer-your-files-from-the-computer-to-iphone-using-smb-protocol/)<br>
 [WiFi-Drive无线传输](/docs/howto/how-to-transfer-files-wirelessly-from-a-computer-to-an-iphone-using-wifi-drive)<br>
 [播放本地iTunes文件](/docs/howto/how-to-play-local-itunes-files-on-my-iphone)<br>
 [启用DLNA媒体服务器](/docs/howto/how-to-enable-dlna-media-server-on-windows-10-and-play-your-music-on-iphone)
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="如何下载音乐？" closed="true" %}}
+{{% ls-details title="如何下载音乐？" closed="true" %}}
 连接网络账户，打开云服务，选择文件并点击"下载"。或为艺术家/播放列表/专辑/流派启用离线模式。<br><br>
 [了解更多](/docs/howto/play-offline-music-in-evermusic-flacbox-download-sync-from-cloud-to-local-files/)
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Flacbox支持哪些音频格式？" closed="true" %}}
+{{% ls-details title="Flacbox支持哪些音频格式？" closed="true" %}}
 支持默认**系统音频编解码器**和额外的**ffmpeg软件编解码器**：<br><br>
 3g2, 3gp, 3gp2, 3gpp, 8svx, aa, aac, aax, ac3, act, adt, adts, aif, aifc, aiff, alac, amr, amv, ape, asf, au, avi, awb, caf, cavs, cdda, cue, dct, dff, drc, dsf, dss, dvf, "dvr-ms", ec3, f4a, f4b, f4p, f4v, flac, flv, gif, gifv, gsm, gxf, h261, h263, h264, ifv, iklax, ivf, ivs, l16, latm, loas, m2t, m2ts, m2v, m3u, m3u8, m4a, m4b, m4p, m4r, m4v, mka, mkv, mmf, mng, mod, mogg, mov, mp1, mp2, mp3, mp4, mp4v, mpa, mpc, mpe, mpeg, mpg, mpv, msv, mts, mxf, nsf, nsv, nut, oga, ogg, ogv, opus, pcm, pls, qt, ra, raw, rm, rmvb, roq, rv, sln, snd, svi, tod, tta, vob, voc, vox, vtt, w64, wav, wave, webm, wma, wmv, wv, xhe, xmv, y4m, yuv.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="可以用Flacbox播放有声书吗？" closed="true" %}}
+{{% ls-details title="可以用Flacbox播放有声书吗？" closed="true" %}}
 可以，Flacbox可用作强大的有声书播放器，支持书签、睡眠定时器和继续播放。<br><br>
 [了解更多](/docs/howto/how-to-listen-to-audiobooks-on-iphone-ipad-mac-using-evermusic)
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Flacbox能与NAS设备配合使用吗？" closed="true" %}}
+{{% ls-details title="Flacbox能与NAS设备配合使用吗？" closed="true" %}}
 可以，Flacbox支持通过**SMB**、**WebDAV**和**DLNA**协议连接NAS。<br><br>
 • [从WD My Cloud Home播放音乐](/docs/howto/how-to-play-music-on-iphone-from-wd-my-cloud-home)<br>
 • [通过SMB从MAC或PC串流音乐](/docs/howto/stream-your-music-from-mac-or-pc-to-iphone-using-smb/)<br>
 • [连接Bluesound Vault存储](/docs/howto/how-to-connect-bluesound-vault-s-internal-storage-from-the-evermusic-flacbox-evertag)<br>
 • [通过WebDAV连接NAS存储](/docs/howto/how-to-connect-nas-storage-using-webdav-and-listen-to-music-on-your-iphone-or-mac)
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="如何将音乐导入Flacbox？" closed="true" %}}
+{{% ls-details title="如何将音乐导入Flacbox？" closed="true" %}}
 连接云服务，从设备导入文件，手动或通过自动同步添加音乐。<br><br>
 • [上传文件到云端并连接到Flacbox](/docs/howto/how-to-upload-my-files-to-the-cloud-storage-and-connect-them-to-evermusic-flacbox-evertag)<br>
 • [在iPhone或Mac上播放本地音乐](/docs/howto/how-to-play-local-music-stored-on-your-iphone-or-mac)<br>
 • [从iCloud Drive播放音乐](/docs/howto/how-to-listen-to-music-from-icloud-drive-on-your-iphone-or-mac)<br>
 • [通过SMB传输文件](/docs/howto/transfer-your-files-from-the-computer-to-iphone-using-smb-protocol/)
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="如何使用Flacbox中的Wi-Fi Drive功能？" closed="true" %}}
+{{% ls-details title="如何使用Flacbox中的Wi-Fi Drive功能？" closed="true" %}}
 1. 打开Flacbox → "连接" → "电脑" → "通过Wi-Fi连接"。<br>
 2. 点击"启动Wi-Fi Drive"并复制URL。<br>
 3. 在浏览器中打开URL。<br>
 4. 使用内置文件管理器上传、下载、重命名或删除文件。<br><br>
 [了解更多](/docs/howto/how-to-transfer-files-wirelessly-from-a-computer-to-an-iphone-using-wifi-drive)
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Flacbox支持Apple CarPlay吗？" closed="true" %}}
+{{% ls-details title="Flacbox支持Apple CarPlay吗？" closed="true" %}}
 是的，**Flacbox完全支持Apple CarPlay**。您可以浏览音乐库、播放本地或离线文件、连接云存储并直接从汽车信息娱乐屏幕控制播放。
 
 [阅读完整指南](/docs/howto/how-to-play-your-own-music-on-iphone-using-carplay/)
-{{% /details %}}
+{{% /ls-details %}}
 
 </div>
 
 <div class="hx:mt-6"></div>
 
-{{< hextra/section-headline >}}
+{{< ls-section-headline >}}
   用户指南
-{{< /hextra/section-headline >}}
+{{< /ls-section-headline >}}
 
 <div class="hx:mt-6"></div>
 
 <div class="hx:w-full">
 
 <div class="hx:w-full hx:mx-auto hx:flex hx:flex-col hx:items-center hx:text-center">
-  {{< hextra/info-paragraph border="false" >}}
+  {{< ls-info-paragraph border="false" >}}
   本指南将帮助您在iPhone、iPad或Mac上充分利用Flacbox。了解如何从云端串流高解析度音乐、整理音乐库、管理有声书以及在设备之间传输音乐。
-  {{< /hextra/info-paragraph >}}
+  {{< /ls-info-paragraph >}}
 </div>
 
 {{< cards >}}
-{{< feature-card icon="map" link="/docs/guide/flacbox/flacbox-guide-navigation" title="导航" subtitle="在iPhone上使用标签栏或在iPad和Mac上使用左侧菜单。" >}}
-{{< feature-card icon="cloud" link="/docs/guide/flacbox/flacbox-guide-connections" title="连接" subtitle="连接Dropbox、Google Drive、iCloud或您的NAS。" >}}
-{{< feature-card icon="collection" link="/docs/guide/flacbox/flacbox-guide-music-library" title="音乐库" subtitle="按艺术家、专辑或流派管理和搜索曲目。" >}}
-{{< feature-card icon="music-note" link="/docs/guide/flacbox/flacbox-guide-playlists" title="播放列表" subtitle="为任何心情或场合创建和整理播放列表。" >}}
-{{< feature-card icon="folder" link="/docs/guide/flacbox/flacbox-guide-local-files" title="本地文件" subtitle="使用内置文件管理器编辑和播放离线音乐。" >}}
-{{< feature-card icon="play" link="/docs/guide/flacbox/flacbox-guide-player" title="音频播放器" subtitle="控制播放、调整速度、设置书签等。" >}}
-{{< feature-card icon="adjustments" link="/docs/guide/flacbox/flacbox-guide-settings" title="设置" subtitle="自定义均衡器、外观和应用行为。" >}}
+{{< ls-feature-card icon="map" link="/docs/guide/flacbox/flacbox-guide-navigation" title="导航" subtitle="在iPhone上使用标签栏或在iPad和Mac上使用左侧菜单。" >}}
+{{< ls-feature-card icon="cloud" link="/docs/guide/flacbox/flacbox-guide-connections" title="连接" subtitle="连接Dropbox、Google Drive、iCloud或您的NAS。" >}}
+{{< ls-feature-card icon="collection" link="/docs/guide/flacbox/flacbox-guide-music-library" title="音乐库" subtitle="按艺术家、专辑或流派管理和搜索曲目。" >}}
+{{< ls-feature-card icon="music-note" link="/docs/guide/flacbox/flacbox-guide-playlists" title="播放列表" subtitle="为任何心情或场合创建和整理播放列表。" >}}
+{{< ls-feature-card icon="folder" link="/docs/guide/flacbox/flacbox-guide-local-files" title="本地文件" subtitle="使用内置文件管理器编辑和播放离线音乐。" >}}
+{{< ls-feature-card icon="play" link="/docs/guide/flacbox/flacbox-guide-player" title="音频播放器" subtitle="控制播放、调整速度、设置书签等。" >}}
+{{< ls-feature-card icon="adjustments" link="/docs/guide/flacbox/flacbox-guide-settings" title="设置" subtitle="自定义均衡器、外观和应用行为。" >}}
 {{< /cards >}}
 
 </div>

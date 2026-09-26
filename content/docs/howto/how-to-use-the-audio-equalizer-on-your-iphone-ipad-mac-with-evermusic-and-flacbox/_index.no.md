@@ -7,7 +7,7 @@ tags: ["musikk", "lyd", "equalizer", "10-bånds", "forsterkning", "konfigurasjon
 keywords: ["lydeequalizer iPhone", "Evermusic EQ-forhåndsinnstillinger", "Flacbox 10-bånds equalizer", "justere bass diskant iOS", "equalizer Mac musikkapp", "forsterke lyd med forforsterker", "egendefinerte lydinnstillinger"]
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **Sammendrag:** Evermusic og Flacbox inkluderer en profesjonell 10-bånds lydequalizer med forhåndsinnstillinger (Rock, Hip-Hop, Bass Booster og mer), egendefinert oppretting av forhåndsinnstillinger og en forforsterker for volumforsterkning. Tilgjengelig på iPhone, iPad og Mac.
@@ -105,26 +105,26 @@ Hev musikkopplevelsen din, tilpass lyden til ethvert scenario og nyt perfekt lyd
 
 ## Ofte stilte spørsmål
 
-{{% details title="Fungerer equalizeren med alle lydformater?" closed="true" %}}
+{{% ls-details title="Fungerer equalizeren med alle lydformater?" closed="true" %}}
 Ja. 10-bånds EQ i Evermusic og Flacbox fungerer med MP3, FLAC, AAC, WAV, ALAC, OGG og alle andre støttede formater.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Vil EQ-innstillingene gjelde for alle sanger?" closed="true" %}}
+{{% ls-details title="Vil EQ-innstillingene gjelde for alle sanger?" closed="true" %}}
 Ja. Når du aktiverer equalizeren og velger en forhåndsinnstilling, gjelder den for all avspilling til du endrer den eller slår den av.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Kan jeg lage mer enn én egendefinert forhåndsinnstilling?" closed="true" %}}
+{{% ls-details title="Kan jeg lage mer enn én egendefinert forhåndsinnstilling?" closed="true" %}}
 Ja. Du kan lage, lagre og bytte mellom flere egendefinerte forhåndsinnstillinger. Bruk eksportfunksjonen for å sikkerhetskopiere dem.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Forårsaker forforsterkeren forvrengning?" closed="true" %}}
+{{% ls-details title="Forårsaker forforsterkeren forvrengning?" closed="true" %}}
 Det kan den hvis den er satt for høyt. Se på lydnivåindikatorene mens du justerer. Hvis nivåene klipper (treffer toppen), reduser forforsterkerforsterkningen litt.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Er equalizeren tilgjengelig på både Evermusic og Flacbox?" closed="true" %}}
+{{% ls-details title="Er equalizeren tilgjengelig på både Evermusic og Flacbox?" closed="true" %}}
 Ja. Begge appene inkluderer den samme 10-bånds equalizeren med forhåndsinnstillinger, egendefinerte forhåndsinnstillinger og forforsterker.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Kan jeg dele mine EQ-forhåndsinnstillinger med noen andre?" closed="true" %}}
+{{% ls-details title="Kan jeg dele mine EQ-forhåndsinnstillinger med noen andre?" closed="true" %}}
 Ja. Bruk alternativet Eksporter konfigurasjon for å lagre forhåndsinnstillingene dine til en fil, og del den deretter. Den andre personen kan importere den ved hjelp av Importer konfigurasjon.
-{{% /details %}}
+{{% /ls-details %}}

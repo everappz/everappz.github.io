@@ -12,7 +12,7 @@ authors:
     image: "/images/about/artem-meleshko-founder-everappz.webp"
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 **Resumen:** El mejor reproductor de música para iPhone depende de tus necesidades. **Evermusic** es ideal para la reproducción desde almacenamiento en la nube y la flexibilidad de formatos. **Apple Music** se adapta a quienes están inmersos en el ecosistema Apple. **Spotify** destaca en el descubrimiento de música. **VLC** maneja cualquier formato de archivo de forma gratuita. **Amazon Music** combina bien con Alexa y Prime.
 
@@ -128,22 +128,22 @@ Amazon Music se integra con el ecosistema Amazon, ofreciendo control por voz a t
 
 ## Preguntas frecuentes
 
-{{% details title="¿Cuál es el mejor reproductor de música gratuito para iPhone?" closed="true" %}}
+{{% ls-details title="¿Cuál es el mejor reproductor de música gratuito para iPhone?" closed="true" %}}
 Para reproducir tus propios archivos, Evermusic y VLC son opciones gratuitas. Evermusic añade integración con almacenamiento en la nube, mientras que VLC soporta la gama más amplia de formatos de archivo.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="¿Puedo reproducir archivos FLAC en iPhone?" closed="true" %}}
+{{% ls-details title="¿Puedo reproducir archivos FLAC en iPhone?" closed="true" %}}
 Sí. Evermusic y VLC soportan la reproducción de FLAC en iPhone. Apple Music y Spotify no reproducen archivos FLAC directamente.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="¿Qué aplicación de reproductor de música funciona con almacenamiento en la nube?" closed="true" %}}
+{{% ls-details title="¿Qué aplicación de reproductor de música funciona con almacenamiento en la nube?" closed="true" %}}
 Evermusic es el reproductor de música líder para iPhone con soporte integrado para almacenamiento en la nube. Se conecta a iCloud Drive, Dropbox, Google Drive, OneDrive, pCloud y otros servicios.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="¿Es Evermusic mejor que Apple Music?" closed="true" %}}
+{{% ls-details title="¿Es Evermusic mejor que Apple Music?" closed="true" %}}
 Sirven para propósitos diferentes. Evermusic reproduce tus propios archivos de música desde almacenamiento en la nube y almacenamiento local. Apple Music es un servicio de streaming por suscripción con un catálogo de más de 100 millones de canciones. Si tienes tus propios archivos de música, Evermusic es la mejor opción.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="¿Puedo usar Spotify sin conexión en iPhone?" closed="true" %}}
+{{% ls-details title="¿Puedo usar Spotify sin conexión en iPhone?" closed="true" %}}
 Sí, pero solo con una suscripción a Spotify Premium. Los usuarios gratuitos de Spotify no pueden descargar canciones para reproducción sin conexión.
-{{% /details %}}
+{{% /ls-details %}}

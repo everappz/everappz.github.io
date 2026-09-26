@@ -7,7 +7,7 @@ tags: ["widgety", "ios17", "dynamické", "práve sa prehráva", "domovská obraz
 keywords: ["Widget Evermusic", "Widget Flacbox", "Widget Práve sa prehráva iOS", "widget pracovnej plochy macOS Sonoma", "audio záložky iPhone", "hudobný widget Evermusic", "ovládanie prehrávania domovská obrazovka", "dynamické widgety iOS 17"]
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **Zhrnutie:** Evermusic a Flacbox ponúkajú interaktívne widgety Práve sa prehráva na iOS 17+ a macOS 14 Sonoma+. Môžete ovládať prehrávanie, preskakovať skladby, pridávať do obľúbených a vytvárať audio záložky priamo z domovskej obrazovky iPhone alebo pracovnej plochy Mac — bez potreby otvárať aplikáciu.
@@ -78,22 +78,22 @@ Užite si aktualizáciu a príjemné počúvanie!
 
 ## Často kladené otázky
 
-{{% details title="Fungujú widgety bez otvorenia aplikácie?" closed="true" %}}
+{{% ls-details title="Fungujú widgety bez otvorenia aplikácie?" closed="true" %}}
 Áno. Na iOS 17 a macOS 14 Sonoma sú tlačidlá widgetov interaktívne a priamo ovládajú prehrávanie. Aplikácia nemusí byť v popredí.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Akú veľkosť widgetu si mám vybrať?" closed="true" %}}
+{{% ls-details title="Akú veľkosť widgetu si mám vybrať?" closed="true" %}}
 Vyberte Malý pre základné prehrávanie/pozastavenie a obľúbené. Vyberte Stredný, ak chcete tlačidlá preskokov. Vyberte Veľký, ak chcete aj audio záložky.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Môžem použiť widget na obnovenie audioknihy?" closed="true" %}}
+{{% ls-details title="Môžem použiť widget na obnovenie audioknihy?" closed="true" %}}
 Áno. Aktivujte „Uložiť stav audio prehrávača" v Nastaveniach a widget obnoví prehrávanie z vašej poslednej pozície aj po zatvorení aplikácie.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Sú widgety dostupné na iPade?" closed="true" %}}
+{{% ls-details title="Sú widgety dostupné na iPade?" closed="true" %}}
 Áno. iPadOS 17 podporuje rovnaké interaktívne widgety ako iPhone.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Majú Evermusic aj Flacbox tieto widgety?" closed="true" %}}
+{{% ls-details title="Majú Evermusic aj Flacbox tieto widgety?" closed="true" %}}
 Áno. Widget Práve sa prehráva je dostupný v Evermusic aj Flacbox s identickou funkcionalitou.
-{{% /details %}}
+{{% /ls-details %}}

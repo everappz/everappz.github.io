@@ -7,7 +7,7 @@ tags: ["evermusic", "가져오기", "재생 목록", "m3u", "cue"]
 readingTime: 3
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **요약:** Evermusic과 Flacbox는 클라우드 저장소, 로컬 앱 파일 또는 기기에서 M3U, M3U8, CUE 재생 목록 파일 가져오기를 지원합니다. 재생 목록 > 더보기 > 재생 목록 가져오기로 이동하여 소스를 선택하고 파일을 고른 후 앱이 자동으로 재생 목록을 생성합니다.
@@ -84,22 +84,22 @@ http://mywebdavserver.com/music/track3.mp3
 
 ## 자주 묻는 질문
 
-{{% details title="Evermusic과 Flacbox는 어떤 재생 목록 형식을 지원하나요?" closed="true" %}}
+{{% ls-details title="Evermusic과 Flacbox는 어떤 재생 목록 형식을 지원하나요?" closed="true" %}}
 두 앱 모두 M3U, M3U8, CUE 재생 목록 파일 형식을 지원합니다. 이는 음악 플레이어와 미디어 소프트웨어에서 사용되는 가장 일반적인 재생 목록 표준을 포함합니다.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="클라우드 저장소에서 재생 목록을 가져올 수 있나요?" closed="true" %}}
+{{% ls-details title="클라우드 저장소에서 재생 목록을 가져올 수 있나요?" closed="true" %}}
 네. Google Drive, Dropbox, OneDrive, WebDAV 서버를 포함한 모든 연결된 클라우드 저장소 서비스에서 재생 목록 파일을 가져올 수 있습니다.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="가져오기 후 일부 트랙이 누락되는 이유는 무엇인가요?" closed="true" %}}
+{{% ls-details title="가져오기 후 일부 트랙이 누락되는 이유는 무엇인가요?" closed="true" %}}
 재생 목록 파일에 미디어 파일의 올바른 경로가 포함되어 있어야 하며, 해당 파일이 저장소의 지정된 위치에 존재해야 합니다. M3U 또는 CUE 파일의 파일 경로가 실제 파일 위치와 일치하는지 다시 확인하세요.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="한 번에 여러 재생 목록을 가져올 수 있나요?" closed="true" %}}
+{{% ls-details title="한 번에 여러 재생 목록을 가져올 수 있나요?" closed="true" %}}
 네. 추가 작업 버튼을 사용하고 "폴더에서 재생 목록 가져오기"를 선택하세요. 앱이 폴더에서 지원되는 모든 재생 목록 파일을 스캔하고 한 번에 가져옵니다.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="재생 목록을 수동으로 만들어야 하나요?" closed="true" %}}
+{{% ls-details title="재생 목록을 수동으로 만들어야 하나요?" closed="true" %}}
 아니요. 가져오기 기능으로 수동 재생 목록 생성이 필요 없습니다. 기존 M3U, M3U8 또는 CUE 파일을 앱에 지정하기만 하면 자동으로 재생 목록이 생성됩니다.
-{{% /details %}}
+{{% /ls-details %}}

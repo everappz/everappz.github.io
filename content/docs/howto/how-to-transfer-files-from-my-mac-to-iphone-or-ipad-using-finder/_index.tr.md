@@ -17,7 +17,7 @@ keywords: [
 readingTime: 3
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **Özet:** iPhone veya iPad'inizi USB kablosu ile Mac'inize (veya PC'nize) bağlayın. macOS Catalina ve sonrasında Finder'ı kullanın. Eski macOS veya Windows'ta iTunes'u kullanın. Dosyaları anında aktarmak için Evermusic, Flacbox veya Evertag gibi bir uygulamaya sürükleyin.
@@ -117,26 +117,26 @@ iTunes Dosya Paylaşımı ile bilgisayarınız ve iOS uygulamaları arasında do
 
 ## Sık Sorulan Sorular
 
-{{% details title="USB ile dosya aktarmak için internet bağlantısına ihtiyacım var mı?" closed="true" %}}
+{{% ls-details title="USB ile dosya aktarmak için internet bağlantısına ihtiyacım var mı?" closed="true" %}}
 Hayır. Dosya Paylaşımı tamamen bilgisayarınız ile iOS cihazınız arasındaki USB kablo bağlantısı üzerinden çalışır. İnternet gerekli değildir.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Evermusic veya Flacbox'a hangi dosya formatlarını aktarabilirim?" closed="true" %}}
+{{% ls-details title="Evermusic veya Flacbox'a hangi dosya formatlarını aktarabilirim?" closed="true" %}}
 Her iki uygulama da MP3, FLAC, AAC, WAV, AIFF, OGG, WMA ve daha fazlası dahil olmak üzere geniş bir ses formatı yelpazesini destekler. Desteklenen formatların tam listesi için uygulamanın belgelerine bakın.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Finder'da Dosyalar sekmesini neden göremiyorum?" closed="true" %}}
+{{% ls-details title="Finder'da Dosyalar sekmesini neden göremiyorum?" closed="true" %}}
 Dosyalar sekmesi yalnızca cihazınızda Dosya Paylaşımı'nı destekleyen en az bir uygulama yüklü olduğunda görünür. Evermusic, Flacbox veya Evertag'ı yükleyin, ardından cihazınızı yeniden bağlayın.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="USB kablosu kullanmak yerine dosyaları kablosuz olarak aktarabilir miyim?" closed="true" %}}
+{{% ls-details title="USB kablosu kullanmak yerine dosyaları kablosuz olarak aktarabilir miyim?" closed="true" %}}
 Evet. Evermusic ve Flacbox ayrıca bulut depolama hizmetlerini ve Wi-Fi aktarımını da destekler. Ancak Finder veya iTunes aracılığıyla USB dosya paylaşımı, büyük müzik kütüphaneleri için genellikle daha hızlıdır.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Finder üzerinden dosya aktarmak cihazımdaki mevcut dosyaların üzerine yazar mı?" closed="true" %}}
+{{% ls-details title="Finder üzerinden dosya aktarmak cihazımdaki mevcut dosyaların üzerine yazar mı?" closed="true" %}}
 Hayır. Yeni dosyalar mevcut dosyaların yanına eklenir. Aynı ada sahip bir dosya zaten varsa, macOS yeni dosyayı otomatik olarak yeniden adlandırabilir.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Bu yöntem Windows PC'lerde çalışır mı?" closed="true" %}}
+{{% ls-details title="Bu yöntem Windows PC'lerde çalışır mı?" closed="true" %}}
 Evet. Windows'ta dosya aktarmak için iTunes'u kullanın. İşlem yukarıdaki iTunes bölümünde açıklananla aynıdır. iTunes'u Microsoft Store veya Apple'ın web sitesinden yükleyin.
-{{% /details %}}
+{{% /ls-details %}}

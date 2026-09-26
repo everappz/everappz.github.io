@@ -18,7 +18,7 @@ Odjeljak Lokalne datoteke služi kao središte za upravljanje datotekama smješt
 Ovaj ugrađeni upravitelj datoteka vam omogućuje uređivanje datoteka i pruža razne načine uvoza audio datoteka u aplikaciju. Datoteke koje ste nedavno otvorili automatski se pojavljuju na kartici **Nedavne**, a stavke koje označite zvjezdicom pojavljuju se u **Omiljenima**, tako da možete izravno ići na datoteke s kojima najčešće radite bez povratka na ovaj zaslon.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Zaslon Preuzimanja u Evertagu" image="/docs/guide/evertag/img/downloads.webp" >}}
+  {{< ls-card title="" subtitle="Zaslon Preuzimanja u Evertagu" image="/docs/guide/evertag/img/downloads.webp" >}}
 {{< /cards >}}
 
 ## Preuzimanje datoteka iz pohrane u oblaku
@@ -74,7 +74,7 @@ Prikazuje datoteke i mape pohranjene u direktoriju Documents aplikacije i iCloud
 Prikazuje datoteke smještene na uređaju, ali u različitim aplikacijama. Možete ih uvesti u ovu aplikaciju koristeći sistemski birač datoteka. Za aktiviranje birača, odaberite "Otvori datoteke..." za odabir datoteka ili "Otvori mapu..." za odabir mape. Detaljne upute za uvoz lokalne glazbe pohranjene na iPhoneu ili Macu dostupne su [ovdje](/docs/howto/how-to-play-local-music-stored-on-your-iphone-or-mac). Možete povezati mapu smještenu na uređaju i imati brz pristup sadržaju mape. Koristite stavku izbornika "Poveži mapu" i odaberite mapu smještenu na uređaju. Tapnite "Gotovo", i aplikacija će stvoriti vezu za tu mapu s pravima za čitanje/pisanje, omogućujući vam upravljanje datotekama izravno iz ove aplikacije. Za odspajanje mape smještene na uređaju, tapnite gumb "Više radnji" i odaberite "Odspoji."
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Uvoz datoteka s mog uređaja u Evertag" image="/docs/guide/evertag/img/open-files.webp" >}}
+  {{< ls-card title="" subtitle="Uvoz datoteka s mog uređaja u Evertag" image="/docs/guide/evertag/img/open-files.webp" >}}
 {{< /cards >}}
 
 ## Uvoz datoteka smještenih na priključenoj USB flash kartici
@@ -86,7 +86,7 @@ Detaljne upute za spajanje USB flash kartice na iPhone i upravljanje datotekama 
 Izbornik Više radnji za trenutno otvorenu mapu smješten je u gornjem desnom kutu i pruža pristup raznim akcijama.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Uvoz datoteka s mog uređaja u Evertag" image="/docs/guide/evertag/img/downloads-current-folder-actions.webp" >}}
+  {{< ls-card title="" subtitle="Uvoz datoteka s mog uređaja u Evertag" image="/docs/guide/evertag/img/downloads-current-folder-actions.webp" >}}
 {{< /cards >}}
 
 - **Odaberi**: Prebacite se u način odabira za datoteke i mape.

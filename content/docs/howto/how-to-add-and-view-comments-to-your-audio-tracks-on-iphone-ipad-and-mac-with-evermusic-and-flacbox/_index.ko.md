@@ -7,7 +7,7 @@ tags: ["evermusic", "오디오", "편집기", "태그", "댓글"]
 readingTime: 4
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **요약:** Evermusic과 Flacbox를 사용하면 모든 오디오 트랙에 시간 마커가 포함된 텍스트 댓글을 추가하고 재생 중에 동기화하여 표시할 수 있습니다. 내장된 가사와 LRC 파일도 볼 수 있습니다. 댓글 및 가사 기능은 두 앱 모두에서 무료입니다.
@@ -97,22 +97,22 @@ Evermusic과 Flacbox에서 오디오 트랙에 댓글을 추가하는 것은 사
 
 ## 자주 묻는 질문
 
-{{% details title="Evermusic과 Flacbox에서 댓글 기능은 무료인가요?" closed="true" %}}
+{{% ls-details title="Evermusic과 Flacbox에서 댓글 기능은 무료인가요?" closed="true" %}}
 예. 댓글과 가사의 추가, 편집, 보기는 Evermusic과 Flacbox 모두에서 무료 기능입니다.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="시간 지정 댓글에 어떤 형식을 사용해야 하나요?" closed="true" %}}
+{{% ls-details title="시간 지정 댓글에 어떤 형식을 사용해야 하나요?" closed="true" %}}
 LRC 시간 마커 형식을 사용하세요: `[MM:SS.SS]` 뒤에 텍스트를 입력합니다. 예: `[01:23.45]이것은 내 댓글입니다`. 한 줄에 여러 타임스탬프를 할당할 수 있습니다.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="같은 화면에서 가사와 LRC 파일을 볼 수 있나요?" closed="true" %}}
+{{% ls-details title="같은 화면에서 가사와 LRC 파일을 볼 수 있나요?" closed="true" %}}
 예. 댓글 화면은 스와이프로 전환할 수 있는 세 가지 모드를 지원합니다: 댓글, 내장 가사, LRC 파일.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="LRC 가사 파일은 어디서 찾을 수 있나요?" closed="true" %}}
+{{% ls-details title="LRC 가사 파일은 어디서 찾을 수 있나요?" closed="true" %}}
 무료 LRC 가사는 Lyricsify.com과 같은 웹사이트에서 이용할 수 있습니다. 오디오 파일의 가사 태그에 내장하거나 오디오 파일 옆에 별도의 `.lrc` 파일을 배치할 수 있습니다.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="가사 태그를 편집하려면 별도의 앱이 필요한가요?" closed="true" %}}
+{{% ls-details title="가사 태그를 편집하려면 별도의 앱이 필요한가요?" closed="true" %}}
 Evermusic과 Flacbox에서 직접 댓글을 편집할 수 있습니다. 가사 태그를 특별히 편집하려면 iOS 및 macOS용 무료 오디오 메타데이터 편집기인 Evertag를 사용하세요.
-{{% /details %}}
+{{% /ls-details %}}

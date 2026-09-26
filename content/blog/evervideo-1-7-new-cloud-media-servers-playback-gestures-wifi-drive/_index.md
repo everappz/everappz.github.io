@@ -14,7 +14,7 @@ authors:
     image: "/images/about/artem-meleshko-founder-everappz.webp"
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 **TL;DR:** [Evervideo 1.7](/products/evervideo) is a major update for the iPhone, iPad, and Mac HD video player. The release adds 10+ new cloud, NAS, and media-server connections — **Internxt**, **Proton Drive**, **QNAP**, **Nextcloud**, **Amazon S3**, plus the most popular media servers **Plex**, **Subsonic**, **Navidrome**, **Jellyfin**, and **Emby**, and three network protocols: **FTP**, **SFTP**, and **NFS**. New **playback gestures** let you double tap to jump forward or backward, tap and hold to run at 2x, and single tap to toggle controls — all without leaving full-screen. Wi-Fi Drive gets a refreshed UI with selection mode and a smarter upload queue. The entire app is tuned for Apple's new **Liquid Glass** design.
 
@@ -149,58 +149,58 @@ If you enjoy the app, please leave a rating on the App Store — it genuinely he
 
 ## Frequently Asked Questions
 
-{{% details title="What's new in Evervideo 1.7?" closed="true" %}}
+{{% ls-details title="What's new in Evervideo 1.7?" closed="true" %}}
 Evervideo 1.7 introduces support for 10+ new connections (Plex, Jellyfin, Emby, Subsonic, Navidrome, Internxt, Proton Drive, QNAP, Nextcloud, Amazon S3, FTP, SFTP, NFS), new playback gestures (double tap to seek, tap and hold for 2x speed, single tap to toggle controls), a redesigned Wi-Fi Drive with selection mode and a smarter upload queue, Liquid Glass design updates, updated connection libraries, and many bug fixes.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Does Evervideo work with Plex?" closed="true" %}}
+{{% ls-details title="Does Evervideo work with Plex?" closed="true" %}}
 Yes. Starting with Evervideo 1.7, you can connect to a Plex Media Server and stream your full video library — movies, TV shows, and home videos. Plex Media Server is free to run; Plex Pass is optional. Evervideo supports both free and Plex Pass setups, including direct play of MKV, MP4, AVI, MOV, and other formats without re-encoding.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Is Jellyfin or Navidrome supported in Evervideo?" closed="true" %}}
+{{% ls-details title="Is Jellyfin or Navidrome supported in Evervideo?" closed="true" %}}
 Yes. Both Jellyfin and Navidrome are fully supported in Evervideo 1.7. Jellyfin is a free, open-source media server that handles video and audio. Navidrome is a free, open-source server that implements the Subsonic API. Evervideo connects to both natively.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Are Plex, Jellyfin, Emby, Navidrome, and Subsonic free?" closed="true" %}}
+{{% ls-details title="Are Plex, Jellyfin, Emby, Navidrome, and Subsonic free?" closed="true" %}}
 - **Plex** — server is free; Plex Pass is an optional paid upgrade.
 - **Jellyfin** — completely free and open-source.
 - **Emby** — server is free; Emby Premiere is paid and unlocks mobile sync and offline.
 - **Navidrome** — completely free and open-source.
 - **Subsonic** — official server costs $1/month after a 30-day trial, but its API is open and many free servers (including Navidrome) implement it.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Can I stream from my home NAS over SFTP, FTP, or NFS?" closed="true" %}}
+{{% ls-details title="Can I stream from my home NAS over SFTP, FTP, or NFS?" closed="true" %}}
 Yes. Evervideo 1.7 adds SFTP, FTP, and NFS as native connection types. SFTP is the recommended choice for streaming from your own server over the public internet because all traffic is encrypted via SSH. FTP and NFS are best used inside your local network or behind a VPN.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="How do I connect Evervideo to a custom server using SFTP?" closed="true" %}}
+{{% ls-details title="How do I connect Evervideo to a custom server using SFTP?" closed="true" %}}
 Open Evervideo, go to the Connections tab, choose SFTP, and enter your server's hostname or IP, port (usually 22), username, and either a password or an SSH private key. Evervideo will browse your remote folders and stream video files directly with end-to-end encryption.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Does Evervideo support Internxt and Proton Drive?" closed="true" %}}
+{{% ls-details title="Does Evervideo support Internxt and Proton Drive?" closed="true" %}}
 Yes. Both privacy-focused clouds are supported as of Evervideo 1.7. They join MEGA and other privacy-first services already available in the app.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="How do the new playback gestures work?" closed="true" %}}
+{{% ls-details title="How do the new playback gestures work?" closed="true" %}}
 In full-screen video playback, **double tap the right side** to jump forward and **double tap the left side** to jump back by a configurable interval (default 10 seconds — change it in Settings). **Tap and hold** anywhere on the screen to temporarily speed up to 2x; release to return to normal. **Single tap** anywhere to toggle the playback controls (show or hide).
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Can I change the double-tap skip interval?" closed="true" %}}
+{{% ls-details title="Can I change the double-tap skip interval?" closed="true" %}}
 Yes. Go to **Settings → Playback → Gesture Skip Interval** and pick a value between 5 and 60 seconds. Most users keep it at 10 or 15 seconds.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="What is Wi-Fi Drive in Evervideo?" closed="true" %}}
+{{% ls-details title="What is Wi-Fi Drive in Evervideo?" closed="true" %}}
 Wi-Fi Drive is Evervideo's built-in wireless file transfer feature. It lets you upload videos from your computer to your iPhone or iPad over your local Wi-Fi network — no iTunes, no cables, no cloud account. You can use any desktop browser or a WebDAV client like Mac Finder or Windows File Explorer. See the [full Wi-Fi Drive guide](/docs/howto/how-to-transfer-files-wirelessly-from-a-computer-to-an-iphone-using-wifi-drive/).
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Does Evervideo play MKV, AVI, and other formats from Plex or Jellyfin?" closed="true" %}}
+{{% ls-details title="Does Evervideo play MKV, AVI, and other formats from Plex or Jellyfin?" closed="true" %}}
 Yes. Evervideo plays virtually every video format — MKV, AVI, MP4, MOV, FLV, WMV, WEBM, M4V, TS, 3GP — and streams them directly from Plex, Jellyfin, Emby, and other media servers without requiring transcoding for most codecs. This means lower CPU load on your server and faster start times.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Is Evervideo 1.7 free to update?" closed="true" %}}
+{{% ls-details title="Is Evervideo 1.7 free to update?" closed="true" %}}
 Yes. Evervideo is a free download from the App Store, and 1.7 is a free update for all existing users. The new cloud integrations, media-server support, playback gestures, Wi-Fi Drive improvements, and Liquid Glass UI are part of the base update.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Which devices is Evervideo 1.7 available on?" closed="true" %}}
+{{% ls-details title="Which devices is Evervideo 1.7 available on?" closed="true" %}}
 Evervideo 1.7 runs on iPhone, iPad, and Mac. AirPlay and Chromecast let you cast playback to a bigger screen. iCloud Drive sync keeps your library and settings consistent across devices.
-{{% /details %}}
+{{% /ls-details %}}

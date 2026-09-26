@@ -17,7 +17,7 @@ keywords: [
 readingTime: 2
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **Özet:** Hem Evermusic hem de Flacbox yerleşik Last.fm scrobbling özelliğine sahiptir. **Bağlantılar** bölümünden hesabınızı bağlayın ve çaldığınız her parça otomatik olarak kaydedilsin -- çevrimdışıyken bile. Kurulum bir dakikadan az sürer.
@@ -66,22 +66,22 @@ Müzik geçmişinizi Evermusic veya Flacbox'tan [Last.fm](http://Last.fm)'e scro
 
 ## Sıkça Sorulan Sorular
 
-{{% details title="Last.fm scrobbling ücretsiz mi?" closed="true" %}}
+{{% ls-details title="Last.fm scrobbling ücretsiz mi?" closed="true" %}}
 Evet. Last.fm, tam scrobbling, dinleme geçmişi ve temel öneriler içeren ücretsiz bir hesap sunar. Ücretli Last.fm Pro aboneliği, Last.fm web sitesinde ekstra özellikler ekler ancak Evermusic veya Flacbox'tan scrobbling için gerekli değildir.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Çevrimdışıyken scrobbling çalışır mı?" closed="true" %}}
+{{% ls-details title="Çevrimdışıyken scrobbling çalışır mı?" closed="true" %}}
 Evet. Hem Evermusic hem de Flacbox çalma geçmişinizi yerel olarak saklar. Tekrar çevrimiçi olduğunuzda, uygulamalar sıradaki scrobble'ları otomatik olarak Last.fm'e yükler.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Last.fm kimlik bilgilerim uygulama tarafından saklanıyor mu?" closed="true" %}}
+{{% ls-details title="Last.fm kimlik bilgilerim uygulama tarafından saklanıyor mu?" closed="true" %}}
 Hayır. Uygulama yalnızca cihaz anahtarlığınızda güvenli bir erişim belirteci kaydeder. Kullanıcı adınız ve şifreniz saklanmaz.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Hem iPhone hem de Mac'ten scrobble edebilir miyim?" closed="true" %}}
+{{% ls-details title="Hem iPhone hem de Mac'ten scrobble edebilir miyim?" closed="true" %}}
 Evet. Evermusic ve Flacbox, iPhone, iPad ve Mac'te Last.fm scrobbling'i destekler. Çalmaları takip etmek istediğiniz her cihazda hesabınızı bağlayın.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Last.fm hesabımı silmeden scrobbling'i nasıl durdurabilirim?" closed="true" %}}
+{{% ls-details title="Last.fm hesabımı silmeden scrobbling'i nasıl durdurabilirim?" closed="true" %}}
 Evermusic veya Flacbox'ta **Bağlantılar** bölümünü açın ve Last.fm'in yanındaki **Bağlantıyı Kesmek**'e dokunun. Bu, erişim belirtecini kaldırır ve Last.fm hesabınızı ve geçmişinizi korurken scrobbling'i durdurur.
-{{% /details %}}
+{{% /ls-details %}}

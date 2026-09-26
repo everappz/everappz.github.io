@@ -12,7 +12,7 @@ authors:
     image: "/images/about/artem-meleshko-founder-everappz.webp"
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 ## Evermusic 3.1: ما تغير ولماذا يهم
 
@@ -89,22 +89,22 @@ authors:
 
 ## الأسئلة الشائعة
 
-{{% details title="ما هو تشغيل التلاشي المتقاطع في Evermusic؟" closed="true" %}}
+{{% ls-details title="ما هو تشغيل التلاشي المتقاطع في Evermusic؟" closed="true" %}}
 يمزج تشغيل التلاشي المتقاطع نهاية مسار مع بداية المسار التالي، مما يخلق انتقالات سلسة. يمكنك ضبط المدة بين 3 و15 ثانية في Settings → Audio Player → Crossfade Playback.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="هل يمكنني نسخ قوائم تشغيل Evermusic احتياطيًا إلى التخزين السحابي؟" closed="true" %}}
+{{% ls-details title="هل يمكنني نسخ قوائم تشغيل Evermusic احتياطيًا إلى التخزين السحابي؟" closed="true" %}}
 نعم. يتيح لك Evermusic 3.1 نسخ مكتبتك بالكامل احتياطيًا — بما في ذلك قوائم التشغيل والبيانات الوصفية وأغلفة الألبومات والإعدادات — إلى أي خدمة سحابية متصلة كملف واحد.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="هل يدعم Evermusic تصفح مكتبة iPod؟" closed="true" %}}
+{{% ls-details title="هل يدعم Evermusic تصفح مكتبة iPod؟" closed="true" %}}
 نعم. يمكنك تصفح مكتبة iPod حسب قوائم التشغيل والألبومات والفنانين والأنواع مباشرة من الشاشة الرئيسية لـ Evermusic وإضافة المسارات إلى قائمة الانتظار.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="كيف أصلح علامات الأغاني غير الصحيحة في Evermusic؟" closed="true" %}}
+{{% ls-details title="كيف أصلح علامات الأغاني غير الصحيحة في Evermusic؟" closed="true" %}}
 استخدم محرر العلامات المدمج واضغط على إجراء التعرف. يمسح Evermusic أسماء ملفاتك ويحدث علامات ID3 بالبيانات الوصفية المصححة تلقائيًا.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="ما هي الخدمات السحابية التي يدعمها Evermusic؟" closed="true" %}}
+{{% ls-details title="ما هي الخدمات السحابية التي يدعمها Evermusic؟" closed="true" %}}
 يعمل Evermusic مع Dropbox وGoogle Drive وOneDrive وMEGA وBox وYandex.Disk وWebDAV وSMB/CIFS وخوادم FTP.
-{{% /details %}}
+{{% /ls-details %}}

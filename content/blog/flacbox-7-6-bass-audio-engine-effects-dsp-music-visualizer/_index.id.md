@@ -12,7 +12,7 @@ authors:
     image: "/images/about/artem-meleshko-founder-everappz.webp"
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 **TL;DR:** [Flacbox 7.6](/products/flacbox) adalah pembaruan terbesar kami sejauh ini untuk pemutar audio hi-res iPhone, iPad, dan Mac, dan dibangun di sekitar **mesin audio BASS™** yang benar-benar baru untuk mendengarkan lossless dan resolusi tinggi. Anda dapat memilih mesin BASS™ sebagai inti pemutaran alternatif untuk membuka rangkaian penuh **efek audio real-time**, **prosesor DSP 14 filter**, **visualizer musik layar penuh langsung**, serta pemutaran **musik tracker dan MOD** klasik (MOD, XM, IT, S3M, MTM, UMX, MO3). Pembaruan ini juga menambahkan **penyeragaman volume otomatis berbasis loudness**, **rangkaian studio dengan sebelas efek** (reverb, delay, multi-tap echo, chorus, flanger, phaser, auto-wah, distorsi, kompresor, rotasi stereo, dan crossfeed), **desain efek dan equalizer yang diperbarui** dengan slider bergaya kaca modern, serta **peningkatan CarPlay** termasuk pengaturan DSP di mobil dan kontrol layar kunci, jam tangan, dan mobil yang lebih akurat. Di balik layar: fondasi streaming yang lebih andal, penanganan jenis file yang lebih baik, lokalisasi yang lebih luas, serta banyak perbaikan stabilitas dan performa.
 
@@ -139,50 +139,50 @@ Terima kasih telah menggunakan Flacbox. Musik Anda kini terdengar hebat dan terl
 
 ## Pertanyaan yang Sering Diajukan
 
-{{% details title="Apa yang baru di Flacbox 7.6?" closed="true" %}}
+{{% ls-details title="Apa yang baru di Flacbox 7.6?" closed="true" %}}
 Flacbox 7.6 menambahkan **mesin audio BASS™** profesional baru yang dapat Anda pilih sebagai inti pemutaran alternatif, **penyeragaman volume otomatis berbasis loudness**, **rangkaian studio dengan sebelas efek** (reverb, delay, multi-tap echo, chorus, flanger, phaser, auto-wah, distorsi, kompresor, rotasi stereo, dan crossfeed), **prosesor DSP real-time 14 filter**, **visualizer musik real-time layar penuh**, pemutaran **tracker dan MOD** native (MOD, XM, IT, S3M, MTM, UMX, MO3), **desain efek dan equalizer yang diperbarui**, serta **peningkatan CarPlay**. Pembaruan ini juga mencakup fondasi streaming yang lebih andal, penanganan jenis file yang lebih baik, lokalisasi yang lebih luas, dan banyak perbaikan stabilitas dan performa.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Apa itu mesin audio BASS™ baru di Flacbox?" closed="true" %}}
+{{% ls-details title="Apa itu mesin audio BASS™ baru di Flacbox?" closed="true" %}}
 Mesin audio [BASS™](https://www.un4seen.com), yang dibangun di atas pustaka audio BASS™ dari un4seen Developments, adalah inti pemutaran profesional yang dapat Anda pilih sebagai **alternatif dari mesin Flacbox yang sudah ada**. Memilihnya akan membuka rangkaian penuh efek audio real-time, prosesor DSP, dan visualisasi langsung, serta menambahkan pemutaran musik tracker dan MOD klasik. Mesin ini memutar pustaka lossless dan hi-res Anda yang sudah ada (FLAC, DSD, ALAC, APE, dan lainnya) dengan **resampling berkualitas tinggi** dan **kontrol pitch dan tempo yang presisi**. Anda dapat beralih kembali ke mesin klasik kapan saja.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Format audio dan jenis tracker/MOD apa saja yang diputar Flacbox 7.6?" closed="true" %}}
+{{% ls-details title="Format audio dan jenis tracker/MOD apa saja yang diputar Flacbox 7.6?" closed="true" %}}
 Flacbox tetap menjadi pemutar hi-res dan lossless, menangani **FLAC, DSD, APE, ALAC, WAV, AIFF, MP3, AAC, Opus**, dan lainnya. Baru di 7.6, mesin BASS™ juga memutar **musik tracker dan modul** klasik: **MOD, XM, IT, S3M, MTM, UMX, dan MO3** — format pola-dan-sampel yang digunakan dalam musik chiptune dan demoscene yang tidak dapat dibuka oleh sebagian besar pemutar iPhone.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Bagaimana cara kerja penyeragaman volume otomatis di Flacbox?" closed="true" %}}
+{{% ls-details title="Bagaimana cara kerja penyeragaman volume otomatis di Flacbox?" closed="true" %}}
 Flacbox 7.6 menggunakan **pengukuran loudness EBU R128** (standar ITU-R BS.1770) untuk menjaga trek dari album berbeda pada volume yang dirasakan konsisten, sehingga Anda tidak perlu menyesuaikan volume di antara lagu. Untuk **file lokal, pustaka Anda dipindai terlebih dahulu** sehingga pemutaran dimulai sudah dalam keadaan seragam — tidak ada jeda saat aplikasi mengukur loudness setelah trek dimulai. Empat prasetel tersedia — **Ringan** (−20 LUFS), **Standar** (−16 LUFS), **Kuat** (−14 LUFS), dan **Malam** (−23 LUFS) — dan berfungsi di seluruh pustaka campuran, kompilasi, dan sesi acak.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Efek audio apa saja yang ada di Flacbox 7.6?" closed="true" %}}
+{{% ls-details title="Efek audio apa saja yang ada di Flacbox 7.6?" closed="true" %}}
 Sebelas efek real-time yang dapat Anda susun dan sesuaikan saat musik diputar: **reverb, delay, multi-tap echo, chorus, flanger, phaser, auto-wah, distorsi, kompresor, rotasi stereo, dan crossfeed**. Setiap efek memiliki **layar tersendiri, pustaka prasetel, dan tombol nyala/mati instan**, dan Flacbox mengingat pengaturan Anda di antara sesi. Crossfeed secara khusus membuat rekaman dengan panning ekstrem terdengar lebih alami di headphone.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Apa itu prosesor DSP dan filter apa saja yang disertakan?" closed="true" %}}
+{{% ls-details title="Apa itu prosesor DSP dan filter apa saja yang disertakan?" closed="true" %}}
 Prosesor DSP memungkinkan Anda **membangun rantai sinyal real-time Anda sendiri dari 14 filter**: gain, low-pass, high-pass, filter band-pass dan notch, peaking EQ, low-shelf dan high-shelf EQ, saturasi soft-clip, bit crusher, tremolo, delay, ring modulator, dan lebar stereo. Setiap filter memiliki **prasetel dan tombol nyala/mati instan**, sehingga Anda dapat mengoreksi ruangan, menjinakkan rekaman yang tajam, atau merancang nada yang sepenuhnya khusus.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Apa itu crossfeed dan mengapa saya perlu menggunakannya di headphone?" closed="true" %}}
+{{% ls-details title="Apa itu crossfeed dan mengapa saya perlu menggunakannya di headphone?" closed="true" %}}
 Crossfeed mencampur sedikit porsi terfilter dari setiap kanal stereo ke kanal lainnya, seperti cara telinga Anda secara alami mendengar loudspeaker sungguhan di sebuah ruangan. Di headphone, ini mengurangi pemisahan yang berlebihan dan terasa 'di dalam kepala' pada rekaman dengan panning ekstrem serta membuat mendengarkan dalam waktu lama lebih nyaman. Ini sangat efektif pada mix stereo lawas era 1960-an dan 1970-an.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Apakah visualizer musik Flacbox berfungsi di semua perangkat?" closed="true" %}}
+{{% ls-details title="Apakah visualizer musik Flacbox berfungsi di semua perangkat?" closed="true" %}}
 Ya. **Visualizer musik real-time** menampilkan visual animasi layar penuh yang bereaksi langsung terhadap musik Anda, dengan pustaka prasetel besar yang dapat Anda pilih atau biarkan berganti otomatis. Fitur ini **tersedia di seluruh mesin pemutaran pada semua perangkat Anda**, dan **pencegah tidur layar** bawaan menjaga tampilan tetap menyala sehingga visual tidak terputus selama lagu.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Bisakah saya mengubah pitch dan tempo tanpa memengaruhi yang lain?" closed="true" %}}
+{{% ls-details title="Bisakah saya mengubah pitch dan tempo tanpa memengaruhi yang lain?" closed="true" %}}
 Ya. Saat Anda menggunakan mesin BASS™ baru, Flacbox 7.6 menawarkan **kontrol pitch dan tempo yang presisi dan independen** — ubah kecepatan trek tanpa mengubah nadanya, atau geser nada tanpa mengubah kecepatannya. Ini berguna untuk latihan, transkripsi, dan mendengarkan ala DJ.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Apa yang ditingkatkan di CarPlay pada Flacbox 7.6?" closed="true" %}}
+{{% ls-details title="Apa yang ditingkatkan di CarPlay pada Flacbox 7.6?" closed="true" %}}
 CarPlay kini menyertakan **pengaturan DSP** sehingga Anda dapat mengakses konfigurasi Anda dari mobil, **perbaikan rendering artwork album dan Now Playing**, serta **kontrol layar kunci, Apple Watch, dan mobil yang lebih akurat** yang tetap sinkron dengan pemutaran. Dikombinasikan dengan fondasi streaming yang lebih andal, mendengarkan pustaka lossless Anda di perjalanan menjadi lebih mulus.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Apakah efek, DSP, dan equalizer berfungsi dengan streaming cloud?" closed="true" %}}
+{{% ls-details title="Apakah efek, DSP, dan equalizer berfungsi dengan streaming cloud?" closed="true" %}}
 Ya. Efek, filter DSP, equalizer, dan penyeragaman volume berjalan secara real-time di dalam mesin pemutaran BASS™, sehingga berlaku untuk semua yang diputar Flacbox — **file lokal, drive cloud (iCloud Drive, Google Drive, Dropbox, OneDrive, dan lainnya), server media, dan berbagi jaringan** — tanpa mengodekan ulang file Anda.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Apakah Flacbox 7.6 pembaruan gratis, dan perangkat apa saja yang didukungnya?" closed="true" %}}
+{{% ls-details title="Apakah Flacbox 7.6 pembaruan gratis, dan perangkat apa saja yang didukungnya?" closed="true" %}}
 Ya. Flacbox **gratis untuk diunduh** dari App Store, dan 7.6 adalah **pembaruan gratis** untuk pengguna yang sudah ada, dengan peningkatan dalam aplikasi opsional untuk fitur lanjutan. Aplikasi ini berjalan di **iPhone, iPad, dan Mac**. CarPlay memerlukan kendaraan atau head unit yang kompatibel dengan CarPlay.
-{{% /details %}}
+{{% /ls-details %}}

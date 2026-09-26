@@ -23,7 +23,7 @@ authors:
     image: "/images/about/artem-meleshko-founder-everappz.webp"
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 ## App Storeのデータを数秒で取得
 
@@ -134,53 +134,53 @@ App Storeのデータを調べるのに、APIキー、開発者アカウント�
 AppLookup.proはオープンソースです。バグレポート、国の追加、プルリクエストを歓迎します。
 
 {{< cards cols="1" >}}
-  {{< card link="https://github.com/everappz/AppStoreLookup" title="GitHubのAppLookup.pro" icon="github" tag="オープンソース" >}}
+  {{< ls-card link="https://github.com/everappz/AppStoreLookup" title="GitHubのAppLookup.pro" icon="github" tag="オープンソース" >}}
 {{< /cards >}}
 
 ---
 
 ## よくある質問
 
-{{% details title="AppLookup.proは本当に無料ですか?" closed="true" %}}
+{{% ls-details title="AppLookup.proは本当に無料ですか?" closed="true" %}}
 はい。AppLookup.proは100%無料でオープンソースです。ブラウザで動作します。サインアップ、有料プラン、Apple自身のiTunes Search API制限を超える使用上限はありません。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="データはどこから取得されますか?" closed="true" %}}
+{{% ls-details title="データはどこから取得されますか?" closed="true" %}}
 すべての結果はAppleの公式 [iTunes Search API](https://developer.apple.com/library/archive/documentation/AudioVideo/Conceptual/iTuneSearchAPI/index.html) からリアルタイムで取得されます。ツールはApp Storeのページをスクレイピングせず、サーバーにレスポンスをキャッシュしません。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="アプリアイコンを高解像度でダウンロードできますか?" closed="true" %}}
+{{% ls-details title="アプリアイコンを高解像度でダウンロードできますか?" closed="true" %}}
 はい。**App Icon** セクションには、Appleが返すすべてのアイコンURLが表示されます。各カードにはDirect LinkとDownloadボタンがあり、Download All Icons ZIPボタンですべてを1つのアーカイブにまとめられます。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="App Storeのスクリーンショットをまとめてダウンロードできますか?" closed="true" %}}
+{{% ls-details title="App Storeのスクリーンショットをまとめてダウンロードできますか?" closed="true" %}}
 はい。各スクリーンショットセクション(iPhone、iPad、macOS、Apple TV)には、すべてのスクリーンショットをフル解像度でまとめる **Download All (ZIP)** ボタンがあります。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="アプリが他の国でどのように表示されるかを確認するには?" closed="true" %}}
+{{% ls-details title="アプリが他の国でどのように表示されるかを確認するには?" closed="true" %}}
 ページ上部のドロップダウンから国を選択します。40以上のストアフロントに対応しています。**Lookup** を再度クリックすると、ツールがその国のアプリを再取得し、ローカライズされたタイトル、説明、スクリーンショット、最新情報、価格を表示します。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="バンドルIDやリリース日のような個別の項目をコピーできますか?" closed="true" %}}
+{{% ls-details title="バンドルIDやリリース日のような個別の項目をコピーできますか?" closed="true" %}}
 はい。結果のすべてのテキスト項目には独自のCopyボタンがあります: アプリ名、開発者、説明、最新情報、バンドルID、バージョン、価格、ファイルサイズ、最低OS、リリース日、コンテンツレーティング、対応言語、対応デバイス、生のJSON。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="AppLookup.proはあらゆるiOSアプリで動作しますか?" closed="true" %}}
+{{% ls-details title="AppLookup.proはあらゆるiOSアプリで動作しますか?" closed="true" %}}
 少なくとも1つのApp Store国で公開されており、iTunes Search APIから返されるアプリであれば動作します。非公開、削除済み、エンタープライズ配信のアプリは表示されません。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="macOSやApple TVのアプリにも対応していますか?" closed="true" %}}
+{{% ls-details title="macOSやApple TVのアプリにも対応していますか?" closed="true" %}}
 はい。iTunes Search APIのレスポンスにmacOSやApple TVのスクリーンショットがある場合、AppLookup.proはそれらを独自のスクロール可能なパネルにダウンロードボタン付きで表示します。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="生のJSONを自分のコードで使えますか?" closed="true" %}}
+{{% ls-details title="生のJSONを自分のコードで使えますか?" closed="true" %}}
 はい。Raw API ResponseセクションにはAppleが返す正確なJSONが表示されます。Postman、ユニットテスト、バックエンドパイプラインにコピーしてください。AppleのAPI利用規約と適切なレート制限を尊重してください。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="App Store URLをツールに貼り付けても安全ですか?" closed="true" %}}
+{{% ls-details title="App Store URLをツールに貼り付けても安全ですか?" closed="true" %}}
 はい。URLはブラウザ内で解析されます。送信されるネットワーク呼び出しはAppleのiTunes Search APIへの検索のみです。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="AppLookup.proとAppKeywords.proの違いは何ですか?" closed="true" %}}
+{{% ls-details title="AppLookup.proとAppKeywords.proの違いは何ですか?" closed="true" %}}
 [AppLookup.pro](https://applookup.pro) は、公開済みのあらゆるアプリのApp Storeメタデータを読み取るためのツールです: 競合調査、素材ダウンロード、ローカライズ確認。[AppKeywords.pro](https://appkeywords.pro) は、自分のアプリ用のApp Storeメタデータを書くためのツールです: Fastlane対応のタイトル、サブタイトル、キーワード最適化。2つのツールはうまく連携します。
-{{% /details %}}
+{{% /ls-details %}}

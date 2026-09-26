@@ -15,7 +15,7 @@ readingTime: 11
 在此屏幕上，您可以连接各种包含音频文件的来源。您可以集成 Google Drive、Dropbox、OneDrive、iCloud 等流行云服务，以及连接您的 Mac 或 PC。此外，您还可以选择编辑存储在 Apple Time Capsule、WD Cloud Home 或任何支持 SMB 或 WebDAV 的 NAS 上的音频文件。
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evertag Connections Screen" image="/docs/guide/evertag/img/connections.webp" >}}
+  {{< ls-card title="" subtitle="Evertag Connections Screen" image="/docs/guide/evertag/img/connections.webp" >}}
 {{< /cards >}}
 
 ## 快速访问
@@ -151,7 +151,7 @@ iTunes File Sharing 是另一种技术，允许您使用 Mac 上的 Finder 应�
 - **网格/列表视图**：在表格视图和缩略图视图之间切换。
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evertag Cloud Folder Sort" image="/docs/guide/evertag/img/cloud-storage-sort.webp" >}}
+  {{< ls-card title="" subtitle="Evertag Cloud Folder Sort" image="/docs/guide/evertag/img/cloud-storage-sort.webp" >}}
 {{< /cards >}}
 
 ## 编辑在线文件
@@ -163,7 +163,7 @@ iTunes File Sharing 是另一种技术，允许您使用 Mac 上的 Finder 应�
 - **执行各种操作**：选择文件或文件夹后，您将可以访问针对您需求定制的多种操作。
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evertag File Select" image="/docs/guide/evertag/img/cloud-storage-file-select.webp" >}}
+  {{< ls-card title="" subtitle="Evertag File Select" image="/docs/guide/evertag/img/cloud-storage-file-select.webp" >}}
 {{< /cards >}}
 
 ## 文件操作
@@ -180,7 +180,7 @@ iTunes File Sharing 是另一种技术，允许您使用 Mac 上的 Finder 应�
 - **删除**：此操作会从云存储中永久删除文件。**此删除操作无法撤销**。
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evertag File Options" image="/docs/guide/evertag/img/cloud-storage-file-options.webp" >}}
+  {{< ls-card title="" subtitle="Evertag File Options" image="/docs/guide/evertag/img/cloud-storage-file-options.webp" >}}
 {{< /cards >}}
 
 如果操作列表超出屏幕可用空间，只需在操作菜单中向下滚动即可访问更多选项。
@@ -196,5 +196,5 @@ iTunes File Sharing 是另一种技术，允许您使用 Mac 上的 Finder 应�
 - **删除**：此操作会从云存储中永久删除文件夹及其内容。**此操作无法撤销**。
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evertag Folder Options" image="/docs/guide/evertag/img/cloud-storage-folder-options.webp" >}}
+  {{< ls-card title="" subtitle="Evertag Folder Options" image="/docs/guide/evertag/img/cloud-storage-folder-options.webp" >}}
 {{< /cards >}}

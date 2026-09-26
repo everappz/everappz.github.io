@@ -7,7 +7,7 @@ tags: ["musik", "audio", "equalizer", "10-band", "gain", "konfigurasi", "preampl
 keywords: ["equalizer audio iPhone", "preset EQ Evermusic", "equalizer 10 band Flacbox", "atur bass treble iOS", "equalizer aplikasi musik Mac", "tingkatkan audio dengan preamplifier", "preset suara kustom"]
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **Ringkasan:** Evermusic dan Flacbox menyertakan equalizer audio profesional 10 band dengan preset (Rock, Hip-Hop, Bass Booster, dan lainnya), pembuatan preset kustom, dan preamplifier untuk peningkatan volume. Tersedia di iPhone, iPad, dan Mac.
@@ -105,26 +105,26 @@ Tingkatkan pengalaman musik Anda, sesuaikan audio Anda untuk skenario apa pun, d
 
 ## Pertanyaan yang Sering Diajukan
 
-{{% details title="Apakah equalizer bekerja dengan semua format audio?" closed="true" %}}
+{{% ls-details title="Apakah equalizer bekerja dengan semua format audio?" closed="true" %}}
 Ya. EQ 10 band di Evermusic dan Flacbox bekerja dengan MP3, FLAC, AAC, WAV, ALAC, OGG, dan semua format lain yang didukung.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Apakah pengaturan EQ berlaku untuk semua lagu?" closed="true" %}}
+{{% ls-details title="Apakah pengaturan EQ berlaku untuk semua lagu?" closed="true" %}}
 Ya. Setelah Anda mengaktifkan equalizer dan memilih preset, itu berlaku untuk semua pemutaran sampai Anda mengubahnya atau mematikannya.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Bisakah saya membuat lebih dari satu preset kustom?" closed="true" %}}
+{{% ls-details title="Bisakah saya membuat lebih dari satu preset kustom?" closed="true" %}}
 Ya. Anda dapat membuat, menyimpan, dan beralih di antara beberapa preset kustom. Gunakan fitur Ekspor untuk mencadangkannya.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Apakah preamplifier menyebabkan distorsi?" closed="true" %}}
+{{% ls-details title="Apakah preamplifier menyebabkan distorsi?" closed="true" %}}
 Bisa jika diatur terlalu tinggi. Perhatikan indikator level audio saat menyesuaikan. Jika levelnya terpotong (mencapai puncak), kurangi sedikit gain preamplifier.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Apakah equalizer tersedia di Evermusic dan Flacbox?" closed="true" %}}
+{{% ls-details title="Apakah equalizer tersedia di Evermusic dan Flacbox?" closed="true" %}}
 Ya. Kedua aplikasi menyertakan equalizer 10 band yang sama dengan preset, preset kustom, dan preamplifier.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Bisakah saya membagikan preset EQ saya dengan orang lain?" closed="true" %}}
+{{% ls-details title="Bisakah saya membagikan preset EQ saya dengan orang lain?" closed="true" %}}
 Ya. Gunakan opsi Ekspor Konfigurasi untuk menyimpan preset Anda ke file, lalu bagikan. Orang lain dapat mengimpornya menggunakan Impor Konfigurasi.
-{{% /details %}}
+{{% /ls-details %}}

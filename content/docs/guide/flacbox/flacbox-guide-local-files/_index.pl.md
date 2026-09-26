@@ -19,7 +19,7 @@ Sekcja Pliki lokalne służy jako centrum zarządzania plikami znajdującymi si�
 Ten wbudowany menedżer plików pozwala edytować pliki (zmieniać nazwy, przenosić, kopiować, przesyłać, usuwać), monitorować transfery i oferuje kilka metod importowania plików audio do aplikacji — bezpośrednie pobieranie z chmury, synchronizacja w trybie offline, dyski USB flash, Wi-Fi Drive i Udostępnianie plików Finder.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Ekran Plików Lokalnych Flacbox" image="/docs/guide/flacbox/img/local-files.webp" >}}
+  {{< ls-card title="" subtitle="Ekran Plików Lokalnych Flacbox" image="/docs/guide/flacbox/img/local-files.webp" >}}
 {{< /cards >}}
 
 ## Pobierz Pliki z Pamięci Chmurowej
@@ -102,7 +102,7 @@ Pokazuje pliki i foldery przechowywane w katalogu Dokumenty aplikacji i iCloud D
 Pokazuje pliki znajdujące się na urządzeniu, ale w różnych aplikacjach. Możesz zaimportować je do tej aplikacji za pomocą systemowego okna wyboru pliku. Aby aktywować okno wyboru, wybierz **Otwórz pliki…** do wyboru plików lub **Otwórz foldery…** do wyboru folderów. Szczegółowe instrukcje dotyczące importowania lokalnej muzyki przechowywanej na iPhone lub Mac są dostępne [tutaj](/docs/howto/how-to-play-local-music-stored-on-your-iphone-or-mac).
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox Foldery Podłączonego Urządzenia" image="/docs/guide/flacbox/img/connected-device-folders.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox Foldery Podłączonego Urządzenia" image="/docs/guide/flacbox/img/connected-device-folders.webp" >}}
 {{< /cards >}}
 
 Możesz również połączyć folder na swoim urządzeniu i mieć szybki dostęp do jego zawartości. Użyj pozycji menu **Połącz folder** i wybierz folder na swoim urządzeniu. Dotknij **Zrobione**, a aplikacja tworzy link do tego folderu z dostępem do odczytu / zapisu, umożliwiając zarządzanie plikami bezpośrednio z tej aplikacji. Aby odłączyć folder na swoim urządzeniu, dotknij przycisku **Więcej akcji** i wybierz **Rozłączyć**.
@@ -137,7 +137,7 @@ Jeśli chcesz edytować kilka plików, aktywuj tryb wyboru, dotykając przycisku
 - **Usunąć** — usuń wybrany plik lub folder z urządzenia. **Ta akcja jest nieodwracalna.**
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox Tryb Wyboru Plików Lokalnych" image="/docs/guide/flacbox/img/local-files-selection-mode.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox Tryb Wyboru Plików Lokalnych" image="/docs/guide/flacbox/img/local-files-selection-mode.webp" >}}
 {{< /cards >}}
 
 ## Menu Opcji
@@ -161,7 +161,7 @@ Dla każdego pliku lub folderu w aplikacji dostępnych jest kilka akcji, dostęp
 - **Usunąć** — usuń plik lub folder z urządzenia. **Ta akcja jest nieodwracalna** i nie można przywrócić usuniętych plików.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox Więcej Akcji dla Pliku Lokalnego" image="/docs/guide/flacbox/img/local-files-more-actions-for-file.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox Więcej Akcji dla Pliku Lokalnego" image="/docs/guide/flacbox/img/local-files-more-actions-for-file.webp" >}}
 {{< /cards >}}
 
 ## Foldery Offline

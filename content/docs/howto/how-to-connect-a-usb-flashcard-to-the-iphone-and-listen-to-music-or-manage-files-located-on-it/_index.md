@@ -9,7 +9,7 @@ aliases:
   - /post/how-to-connect-a-usb-flashcard-to-the-iphone-and-listen-to-music-or-manage-files-located-on-it/
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **TL;DR:** Connect a USB flash drive or SD card to your iPhone using an Apple adapter or SanDisk iXpand drive, then use Evermusic, Flacbox, or Evertag to browse, play, and manage your audio files directly from the external storage.
@@ -74,18 +74,18 @@ Enjoy the freedom to access and manage your music effortlessly with these simple
 
 ## FAQ
 
-{{% details title="Which USB adapters work with iPhone for music playback?" closed="true" %}}
+{{% ls-details title="Which USB adapters work with iPhone for music playback?" closed="true" %}}
 Apple's Lightning to SD Card Camera Reader and Lightning to USB 3 Camera Adapter both work. USB-C adapters work on newer iPhones with USB-C ports. SanDisk iXpand Flash Drives (V1-V7) are also supported natively by Evermusic, Flacbox, and Evertag.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Can I play music directly from the USB drive without copying files?" closed="true" %}}
+{{% ls-details title="Can I play music directly from the USB drive without copying files?" closed="true" %}}
 Yes. With SanDisk iXpand drives, you can play music directly from the drive without copying files to your iPhone. When using Apple adapters, files are imported but you can choose whether to copy them to local storage.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="What audio formats are supported from USB drives?" closed="true" %}}
+{{% ls-details title="What audio formats are supported from USB drives?" closed="true" %}}
 Evermusic and Flacbox support a wide range of formats including FLAC, MP3, AAC, WAV, ALAC, OGG, WMA, and more. All supported formats work when playing from USB storage.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="My SanDisk iXpand shows a 'busy' error. What should I do?" closed="true" %}}
+{{% ls-details title="My SanDisk iXpand shows a 'busy' error. What should I do?" closed="true" %}}
 Another app may be accessing the drive. Close all other apps that might use the flash drive, or unplug and re-insert the drive. Then reopen Evermusic, Flacbox, or Evertag.
-{{% /details %}}
+{{% /ls-details %}}

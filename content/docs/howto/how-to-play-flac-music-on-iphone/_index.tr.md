@@ -8,7 +8,7 @@ tags: ["müzik", "bulut", "çalar", "indirici", "ekolayzer", "kayıpsız", "yük
 readingTime: 8
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **Özet:** iPhone'da FLAC çalmak için üçüncü taraf bir çalara ihtiyacınız var, çünkü Apple'ın Müzik uygulaması FLAC'ı desteklemiyor. [Flacbox](/products/flacbox) uygulamasını yükleyin (ücretsizdir), ardından dosyalarınızı Wi-Fi Drive veya USB üzerinden aktarın ya da bulut depolamanızı veya NAS'ınızı bağlayın. FLAC kitaplığınız, bir USB DAC aracılığıyla 384 kHz ve 32-bit'e kadar tam kalitede çalar. Flacbox ayrıca FLAC, DSD, ALAC, APE, WAV, OGG ve OPUS dahil 120'den fazla format çalar ve 10 bantlı bir ekolayzer, gerçek zamanlı efektlere sahip profesyonel BASS ses motoru, bir DSP işlemci ve tam ekran bir müzik görselleştirici ekler.
@@ -34,7 +34,7 @@ Flacbox, iPhone, iPad ve Mac için yüksek çözünürlüklü bir müzik çalard
 
 Flacbox ücretsiz indirilir ve iPhone, iPad ve Mac üzerinde çalışır.
 
-{{< app-details product="flacbox" >}}
+{{< ls-app-details product="flacbox" >}}
 
 ### Adım 2. FLAC Dosyalarınızı İçeri Alın
 
@@ -82,7 +82,7 @@ Oynatma motorunu Ayarlar, ardından Ses Çalar, ardından Ses Kodeği bölümün
 Flacbox, Acoustic, Bass Booster, Rock, Pop, Jazz, Classical ve Dance gibi iPod tarzı hazır ayarlara sahip 10 bantlı bir grafik ekolayzer içerir. Sessiz parçaları kırpma olmadan yükseltmek için bir ön yükselteç vardır ve kendi hazır ayarlarınızı kaydedebilirsiniz. Kulak içi monitörler, bir HomePod veya bir araç stereosu için ayarlayın. Tam bir adım adım anlatım için [ekolayzer kılavuzuna](/docs/howto/how-to-use-the-audio-equalizer-on-your-iphone-ipad-mac-with-evermusic-and-flacbox) bakın.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox Ses Çalar Ekolayzeri" image="/docs/guide/flacbox/img/audio-player-equalizer.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox Ses Çalar Ekolayzeri" image="/docs/guide/flacbox/img/audio-player-equalizer.webp" >}}
 {{< /cards >}}
 
 ## Gerçek Zamanlı Ses Efektleri
@@ -106,7 +106,7 @@ Efektlerin ötesinde, Flacbox size kendiniz kurduğunuz gerçek zamanlı 14 filt
 Flacbox'ta, müziğinizle uyumlu olarak hareket eden, renkli görseller çizen yerleşik bir müzik görselleştirici bulunur. iPhone, iPad ve Mac üzerinde OpenGL ile çizilen, 500 hazır ayarlı iyi bilinen Milkdrop motorunu (projectM) kullanır. Çalardan Daha fazla eylem düğmesine ve ardından Görselleştirme'ye dokunarak açın. Bir hazır ayar seçin veya yumuşak bir geçişle her 30 saniye bunlar arasında geçiş yapmak için Auto modunu kullanın. Adım adım yardım için, [müzik görselleştiriciyi nasıl açacağınıza](/docs/howto/how-to-turn-on-a-music-visualizer-while-playing-music-on-iphone-ipad-mac) dair kılavuza bakın.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox Müzik Görselleştirici (Milkdrop ve projectM)" image="/docs/howto/how-to-turn-on-a-music-visualizer-while-playing-music-on-iphone-ipad-mac/music-visualizer-starfield-sectors-preset.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox Müzik Görselleştirici (Milkdrop ve projectM)" image="/docs/howto/how-to-turn-on-a-music-visualizer-while-playing-music-on-iphone-ipad-mac/music-visualizer-starfield-sectors-preset.webp" >}}
 {{< /cards >}}
 
 ## Bulut, NAS ve Çevrimdışı Oynatma
@@ -127,7 +127,7 @@ Müziğinizi yanınızda istediğinizde, yerleşik indirme yöneticisi çevrimd�
 
 Flacbox ücretsiz indirilir. Premium, bulut hesapları, çalma listeleri ve çevrimdışı klasörler üzerindeki ücretsiz sürüm sınırlarını kaldırır ve Aile Paylaşımı ile birlikte tek seferlik ömür boyu satın alma veya aylık ya da yıllık abonelik olarak sunulur.
 
-{{< app-details product="flacbox" >}}
+{{< ls-app-details product="flacbox" >}}
 
 ## Seçenek 2: Müzik Uygulaması için FLAC'ı ALAC'a Dönüştürün
 
@@ -141,34 +141,34 @@ Kopyalarınızı gerçekten Apple'ın Müzik uygulamasının içinde istiyorsan�
 
 ## Sık Sorulan Sorular
 
-{{% details title="iPhone FLAC dosyalarını yerel olarak çalabilir mi?" closed="true" %}}
+{{% ls-details title="iPhone FLAC dosyalarını yerel olarak çalabilir mi?" closed="true" %}}
 Yalnızca sınırlı bir şekilde. Dosyalar uygulaması iOS 11'den bu yana tek bir FLAC dosyasını önizleyebilir, ancak kitaplık, çalma listeleri, sıra, ekolayzer veya bulut yayını yok. Gerçek dinleme için Flacbox gibi bir çalar uygulaması kullanın.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="iPhone'da 24-bit veya 96kHz (veya daha yüksek) FLAC çalabilir miyim?" closed="true" %}}
+{{% ls-details title="iPhone'da 24-bit veya 96kHz (veya daha yüksek) FLAC çalabilir miyim?" closed="true" %}}
 Evet. Flacbox, 384 kHz'e kadar yüksek çözünürlüklü çıkışı destekler. 48 kHz'in üzerinde gerçek çözünürlükte çalmak için harici bir USB DAC bağlayın, çünkü iPhone'un yerleşik çıkışı sesi her uygulama için yeniden örnekler.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Flacbox FLAC'ı başka bir formata dönüştürür mü?" closed="true" %}}
+{{% ls-details title="Flacbox FLAC'ı başka bir formata dönüştürür mü?" closed="true" %}}
 Hayır. Flacbox, FLAC'ı orijinal kayıpsız kalitesinde, dönüştürme olmadan çalar. Efektler ve DSP yalnızca oynatma sırasında canlı olarak uygulanır ve dosyalarınızı asla değiştirmez.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="FLAC'ı ALAC'a dönüştürürken kalite kaybeder miyim?" closed="true" %}}
+{{% ls-details title="FLAC'ı ALAC'a dönüştürürken kalite kaybeder miyim?" closed="true" %}}
 Hayır. FLAC ve ALAC'ın ikisi de kayıpsızdır, dolayısıyla dönüşüm bit-perfect'tir. Yalnızca zaman harcarsınız ve kolaylıktan vazgeçersiniz, çünkü sonunda bakımını yapmanız gereken iki kitaplığınız olur ve düzenlemelerden sonra yeniden eşitlemeniz gerekir.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Flacbox hangi ses formatlarını destekler?" closed="true" %}}
+{{% ls-details title="Flacbox hangi ses formatlarını destekler?" closed="true" %}}
 120'den fazla format, FLAC, DSD (DSF ve DFF), ALAC, APE, WAV, AIFF, WV, OGG, OPUS, MP3, AAC, M4A, WMA ve hatta MOD, XM, IT ve S3M gibi tracker ve MOD müziği dahil.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Flacbox'ta ekolayzer, efektler ve bir görselleştirici var mı?" closed="true" %}}
+{{% ls-details title="Flacbox'ta ekolayzer, efektler ve bir görselleştirici var mı?" closed="true" %}}
 Evet. Hazır ayarlara sahip 10 bantlı bir ekolayzer ve bir ön yükselteç var. Ayrıca on bir gerçek zamanlı efekte sahip profesyonel bir BASS motoru (reverb, delay, multi-tap echo, crossfeed, compressor, chorus, flanger, phaser, auto-wah, distortion ve stereo rotation), artı EBU R128 ses seviyesi dengeleme, 14 filtreli bir DSP işlemci ve 500 hazır ayarlı tam ekran bir Milkdrop görselleştirici var.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="NAS'ımdan veya bulutumdan FLAC yayını yapabilir miyim?" closed="true" %}}
+{{% ls-details title="NAS'ımdan veya bulutumdan FLAC yayını yapabilir miyim?" closed="true" %}}
 Evet. Flacbox, 30'dan fazla bulut hizmetine ve SMB, WebDAV, DLNA, FTP, SFTP ve NFS üzerinden bir NAS'a veya bilgisayara bağlanır. Tüm kitaplığınız, dosyaları iPhone'unuza kopyalamadan kullanılabilir ve parçaları çevrimdışı oynatma için istediğiniz zaman indirebilirsiniz.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Flacbox gerçekten ücretsiz mi?" closed="true" %}}
+{{% ls-details title="Flacbox gerçekten ücretsiz mi?" closed="true" %}}
 Flacbox, ekolayzer, bulut yayını ve çevrimdışı oynatma gibi temel özelliklerle ücretsiz indirilir. Premium, bulut hesapları, çalma listeleri ve çevrimdışı klasörler üzerindeki ücretsiz sürüm sınırlarını kaldırır ve Aile Paylaşımı ile birlikte tek seferlik ömür boyu satın alma veya aylık ya da yıllık abonelik olarak gelir.
-{{% /details %}}
+{{% /ls-details %}}

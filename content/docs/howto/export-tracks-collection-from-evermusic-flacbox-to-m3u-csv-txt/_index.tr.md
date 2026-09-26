@@ -6,7 +6,7 @@ keywords: ["evermusic dışa aktarma", "flacbox dışa aktarma", "m3u dışa akt
 tags: ["evermusic", "recents", "favorites", "export", "m3u", "playlist", "csv", "txt", "album"]
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **Özet:** Evermusic ve Flacbox, herhangi bir parça koleksiyonunu (sonlar, favoriler, çalma listeleri, albümler) CSV, TXT veya M3U dosyalarına dışa aktarmanıza olanak tanır. Bu dışa aktarmaları Last.fm'e scrobble yapmak, kütüphanenizi yedeklemek veya çalma listelerinizi diğer cihazlarda dinlemek için kullanabilirsiniz.
@@ -157,22 +157,22 @@ Parçalarınızı Evermusic ve Flacbox'tan dışa aktarmak, müzik verileriniz �
 
 ## SSS
 
-{{% details title="Last.fm scrobbling için hangi dışa aktarma formatını kullanmalıyım?" closed="true" %}}
+{{% ls-details title="Last.fm scrobbling için hangi dışa aktarma formatını kullanmalıyım?" closed="true" %}}
 CSV kullanın. Last.fm-Scrubbler-WPF gibi scrobbling araçlarının gerektirdiği zaman damgalarını ve tam meta verileri içerir.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Sadece çalma listeleri değil, herhangi bir parça koleksiyonunu dışa aktarabilir miyim?" closed="true" %}}
+{{% ls-details title="Sadece çalma listeleri değil, herhangi bir parça koleksiyonunu dışa aktarabilir miyim?" closed="true" %}}
 Evet. Aynı adımları kullanarak uygulamadaki sonları, favorileri, albümleri, çalma listelerini ve diğer herhangi bir parça koleksiyonunu dışa aktarabilirsiniz.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="M3U çalma listem diğer cihazlarda çalışır mı?" closed="true" %}}
+{{% ls-details title="M3U çalma listem diğer cihazlarda çalışır mı?" closed="true" %}}
 Dışa aktarma sırasında Mutlak URL seçeneğini seçerseniz, M3U dosyası M3U çalma listelerini destekleyen herhangi bir cihazda çalınabilir. Bazı bulut URL'lerinin zamanla süresinin dolabileceğini unutmayın.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Dışa aktarma özelliği ücretsiz mi?" closed="true" %}}
+{{% ls-details title="Dışa aktarma özelliği ücretsiz mi?" closed="true" %}}
 Evet. Parça koleksiyonlarını M3U, CSV ve TXT olarak dışa aktarma, Evermusic ve Flacbox'ın hem ücretsiz hem de premium sürümlerinde mevcuttur.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Hangi bulut hizmetleri Mutlak URL dışa aktarmayı destekler?" closed="true" %}}
+{{% ls-details title="Hangi bulut hizmetleri Mutlak URL dışa aktarmayı destekler?" closed="true" %}}
 Mutlak URL dışa aktarma; iCloud Drive, pCloud, PanBaidu, MyCloudHome, DLNA, MediaFire, OneDrive, Box, Dropbox, Google Drive ve WebDAV (konuk modu) için desteklenir.
-{{% /details %}}
+{{% /ls-details %}}

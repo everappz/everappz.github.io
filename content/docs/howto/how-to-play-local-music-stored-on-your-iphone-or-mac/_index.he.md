@@ -6,7 +6,7 @@ tags: ["מוזיקה מקומית", "מוזיקה לא מקוונת", "נגן מ
 keywords: ["כיצד להשמיע מוזיקה מקומית ב-iPhone", "השמעת מוזיקה מאחסון המכשיר", "נגן מוזיקה לא מקוון iOS", "מדריך אפליקציית Evermusic", "נגן FLAC Flacbox", "השמעת קבצים מקומיים iOS", "ספריית מוזיקה Mac", "אפליקציית מוזיקה לקבצים מקומיים", "iPhone השמעת שירים שהורדו", "כיצד להשתמש ב-Evermusic עם קבצים מקומיים"]
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **תקציר:** התקן את [Evermusic](/products/evermusic) (MP3/WAV) או [Flacbox](/products/flacbox) (FLAC/DSD), פתח כל קובץ אודיו מקומי או תיקייה, והתחל להשמיע. הוסף תיקיות ל**מועדפים** לגישה מהירה, ייבא רצועות לספריית המוזיקה שלך, או צור רשימות השמעה.
@@ -24,10 +24,10 @@ keywords: ["כיצד להשמיע מוזיקה מקומית ב-iPhone", "השמ�
 כדי להתחיל את המסע שלך בעולם המוזיקה המקומית ב-iPhone וב-Mac שלך, התחל בהתקנת Evermusic (לפורמטי אודיו סטנדרטיים כמו mp3 ו-wav) או Flacbox (למוזיקה ללא אובדן ב-dsd ו-flac). שתי האפליקציות זמינות ל-iOS ול-macOS, ותוכל להוריד אותן בחינם.
 
 {{< cards >}}
-  {{< card link="https://apps.apple.com/us/app/evermusic-cloud-music-player/id885367198?pt=95781850&ct=everappzcom&mt=8" title="הורד Evermusic ל-iOS" tag="iOS" >}}
-  {{< card link="https://apps.apple.com/us/app/flacbox-hi-res-equalizer/id1097564256?pt=95781850&ct=everappzcom&mt=8" title="הורד Flacbox ל-iOS" tag="iOS" >}}
-  {{< card link="https://apps.apple.com/us/app/evermusic-hi-res-music-player/id1564384601?pt=95781850&ct=everappzcom&mt=8" title="הורד Evermusic ל-Mac" tag="macOS" >}}
-  {{< card link="https://apps.apple.com/us/app/flacbox-hi-res-music-player/id1594027432?pt=95781850&ct=everappzcom&mt=8" title="הורד Flacbox ל-Mac" tag="macOS" >}}
+  {{< ls-card link="https://apps.apple.com/us/app/evermusic-cloud-music-player/id885367198?pt=95781850&ct=everappzcom&mt=8" title="הורד Evermusic ל-iOS" tag="iOS" >}}
+  {{< ls-card link="https://apps.apple.com/us/app/flacbox-hi-res-equalizer/id1097564256?pt=95781850&ct=everappzcom&mt=8" title="הורד Flacbox ל-iOS" tag="iOS" >}}
+  {{< ls-card link="https://apps.apple.com/us/app/evermusic-hi-res-music-player/id1564384601?pt=95781850&ct=everappzcom&mt=8" title="הורד Evermusic ל-Mac" tag="macOS" >}}
+  {{< ls-card link="https://apps.apple.com/us/app/flacbox-hi-res-music-player/id1594027432?pt=95781850&ct=everappzcom&mt=8" title="הורד Flacbox ל-Mac" tag="macOS" >}}
 {{< /cards >}}
 
 
@@ -135,22 +135,22 @@ keywords: ["כיצד להשמיע מוזיקה מקומית ב-iPhone", "השמ�
 
 ## שאלות נפוצות
 
-{{% details title="אילו פורמטי אודיו יכולים Evermusic ו-Flacbox להשמיע?" closed="true" %}}
+{{% ls-details title="אילו פורמטי אודיו יכולים Evermusic ו-Flacbox להשמיע?" closed="true" %}}
 Evermusic משמיע MP3, WAV, AAC, M4A ופורמטים סטנדרטיים אחרים. Flacbox מוסיף תמיכה ב-FLAC, DSD, OGG, OPUS, APE, WMA ו-ALAC.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="האם אפליקציות אלה מעתיקות קבצים לאחסון האפליקציה?" closed="true" %}}
+{{% ls-details title="האם אפליקציות אלה מעתיקות קבצים לאחסון האפליקציה?" closed="true" %}}
 כברירת מחדל, קבצים מושמעים מהמיקום המקורי שלהם ללא העתקה. כדי לשנות התנהגות זו, הפעל "העתק תמיד קבצים בעת פתיחה" ב**הגדרות** > מנהל קבצים.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="האם אוכל לארגן מוזיקה מקומית לפי אמן ואלבום?" closed="true" %}}
+{{% ls-details title="האם אוכל לארגן מוזיקה מקומית לפי אמן ואלבום?" closed="true" %}}
 כן. ייבא קבצים לספריית המוזיקה (שלב 4) והאפליקציה קוראת מטא-נתונים כדי לקבץ רצועות לפי אמן, אלבום, ז'אנר ומלחין.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="כיצד אעביר מוזיקה מהמחשב שלי ל-iPhone?" closed="true" %}}
+{{% ls-details title="כיצד אעביר מוזיקה מהמחשב שלי ל-iPhone?" closed="true" %}}
 השתמש בשיתוף קבצי iTunes (USB), WiFi Drive (אלחוטי) או SMB (סטרימינג). ראה את המדריך המפורט שלנו: [העברה והשמעה של קבצים מקומיים ב-iPhone](/docs/howto/how-to-play-local-itunes-files-on-my-iphone/).
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="האם Evermusic ו-Flacbox חינמיים?" closed="true" %}}
+{{% ls-details title="האם Evermusic ו-Flacbox חינמיים?" closed="true" %}}
 כן, שתי האפליקציות חינמיות להורדה עם תכונות ליבה הכוללות השמעה, אקולייזר וסטרימינג בענן. הגרסאות החינמיות כוללות מגבלות מסוימות (מספר רשימות השמעה, חשבונות ענן, תיקיות לא מקוונות). שדרוג ל-Premium מסיר מגבלות אלה.
-{{% /details %}}
+{{% /ls-details %}}

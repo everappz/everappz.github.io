@@ -20,7 +20,7 @@ readingTime: 7
 Flacboxのプレイリストには、オンラインのクラウドトラック、オフラインでダウンロードしたファイル、デバイスのローカルファイルを混在させることができ、すべてが1つのプレイリストにまとめてシームレスに再生されます。
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacboxプレイリストメイン画面" image="/docs/guide/flacbox/img/playlists-main.webp" >}}
+  {{< ls-card title="" subtitle="Flacboxプレイリストメイン画面" image="/docs/guide/flacbox/img/playlists-main.webp" >}}
 {{< /cards >}}
 
 ## プレイリストの作成
@@ -63,7 +63,7 @@ Flacboxでは、M3U / M3U8 / CUEファイルのインポートを追加してい
 - **オフラインモード** — このプレイリストのすべてのトラックをローカルファイルにダウンロードします。プレイリストに追加された新しいアイテムも自動的にダウンロードされます。
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacboxプレイリスト詳細画面" image="/docs/guide/flacbox/img/playlist-details-screen.webp" >}}
+  {{< ls-card title="" subtitle="Flacboxプレイリスト詳細画面" image="/docs/guide/flacbox/img/playlist-details-screen.webp" >}}
 {{< /cards >}}
 
 ## プレイリスト画面でのプレイリストのその他のアクション
@@ -82,7 +82,7 @@ Flacboxでは、M3U / M3U8 / CUEファイルのインポートを追加してい
 - **プレイリストを削除** — 音楽ライブラリからプレイリストを削除します。**この操作は取り消せません。**
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacboxプレイリストメイン画面でのプレイリストのその他のアクション" image="/docs/guide/flacbox/img/more-actions-for-playlist-in-playlists-main-screen.webp" >}}
+  {{< ls-card title="" subtitle="Flacboxプレイリストメイン画面でのプレイリストのその他のアクション" image="/docs/guide/flacbox/img/more-actions-for-playlist-in-playlists-main-screen.webp" >}}
 {{< /cards >}}
 
 ## プレイリスト詳細画面でのプレイリストのその他のアクション
@@ -110,7 +110,7 @@ Flacboxでは、M3U / M3U8 / CUEファイルのインポートを追加してい
 長いプレイリストでのさらに簡単なワークフローとして、その他のアクション → 曲を並べ替えを選択して専用のドラッグアンドドロップ並べ替えモードに入ることができます。
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacboxプレイリスト内の曲の並べ替え" image="/docs/guide/flacbox/img/playlist-details-rearange-songs.webp" >}}
+  {{< ls-card title="" subtitle="Flacboxプレイリスト内の曲の並べ替え" image="/docs/guide/flacbox/img/playlist-details-rearange-songs.webp" >}}
 {{< /cards >}}
 
 ## プレイリストカバー画像の変更
@@ -126,7 +126,7 @@ Flacboxでは、M3U / M3U8 / CUEファイルのインポートを追加してい
 プレイリストを開き、右上角の **"..."** ボタンをタップして **選択** を選択し、選択モードに入ります。削除したいトラックを選択し、画面下部の **プレイリストから削除** をタップします。**完了**をタップして確認します。
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacboxプレイリスト詳細画面の選択モード" image="/docs/guide/flacbox/img/selection-mode-playlist-details-screen.webp" >}}
+  {{< ls-card title="" subtitle="Flacboxプレイリスト詳細画面の選択モード" image="/docs/guide/flacbox/img/selection-mode-playlist-details-screen.webp" >}}
 {{< /cards >}}
 
 ## トラックオプション

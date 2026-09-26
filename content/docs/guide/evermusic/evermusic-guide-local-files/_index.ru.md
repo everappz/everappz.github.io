@@ -20,7 +20,7 @@ readingTime: 8
 Встроенный файловый менеджер позволяет редактировать файлы и предлагает различные способы импорта аудиофайлов в приложение.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Экран «Локальные файлы» Evermusic" image="/docs/guide/evermusic/evermusic-guide-local-files/img/local-files-main.webp" >}}
+  {{< ls-card title="" subtitle="Экран «Локальные файлы» Evermusic" image="/docs/guide/evermusic/evermusic-guide-local-files/img/local-files-main.webp" >}}
 {{< /cards >}}
 
 ## Загрузка файлов из облачного хранилища
@@ -40,7 +40,7 @@ readingTime: 8
 Передавайте файлы через кабельное подключение, как описано [здесь](/docs/howto/how-to-transfer-files-from-my-mac-to-iphone-or-ipad-using-finder).
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="iTunes / Finder File Sharing" image="/docs/guide/evermusic/evermusic-guide-local-files/img/local-files-itunes-file-sharing.webp" >}}
+  {{< ls-card title="" subtitle="iTunes / Finder File Sharing" image="/docs/guide/evermusic/evermusic-guide-local-files/img/local-files-itunes-file-sharing.webp" >}}
 {{< /cards >}}
 
 ## Wi-Fi Drive
@@ -48,7 +48,7 @@ readingTime: 8
 Передавайте файлы по беспроводной сети, как описано [здесь](/docs/howto/how-to-transfer-files-wirelessly-from-a-computer-to-an-iphone-using-wifi-drive).
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Настройки сервера Wi-Fi Drive" image="/docs/guide/evermusic/evermusic-guide-local-files/img/local-files-wifidrive-settings.webp" >}}
+  {{< ls-card title="" subtitle="Настройки сервера Wi-Fi Drive" image="/docs/guide/evermusic/evermusic-guide-local-files/img/local-files-wifidrive-settings.webp" >}}
 {{< /cards >}}
 
 ## Очередь передачи
@@ -56,7 +56,7 @@ readingTime: 8
 В левом верхнем углу навигационной панели вы найдёте кнопку «Передачи». Нажмите её для доступа к очереди передачи, где можно отслеживать и управлять всеми загрузками и выгрузками. Кроме того, в настройках приложения можно регулировать скорость очереди передачи и тип сети.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Очередь передачи файлов" image="/docs/guide/evermusic/evermusic-guide-local-files/img/local-files-file-transfers.webp" >}}
+  {{< ls-card title="" subtitle="Очередь передачи файлов" image="/docs/guide/evermusic/evermusic-guide-local-files/img/local-files-file-transfers.webp" >}}
 {{< /cards >}}
 
 ## Раздел быстрого доступа
@@ -68,7 +68,7 @@ readingTime: 8
 В этом разделе отображаются все недавно открытые файлы или папки.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Недавно открытые файлы и папки" image="/docs/guide/evermusic/evermusic-guide-local-files/img/local-files-recents.webp" >}}
+  {{< ls-card title="" subtitle="Недавно открытые файлы и папки" image="/docs/guide/evermusic/evermusic-guide-local-files/img/local-files-recents.webp" >}}
 {{< /cards >}}
 
 ## Избранное
@@ -76,7 +76,7 @@ readingTime: 8
 Вы можете отмечать файлы или папки как избранные и получать к ним доступ в этом разделе. Кроме того, можно добавить папку с устройства в избранное. Для этого откройте раздел «Избранное», нажмите три точки в правом верхнем углу и выберите пункт меню «Добавить папку». Следуйте инструкциям для добавления папки с устройства в избранное.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Избранное — Добавить папку с устройства" image="/docs/guide/evermusic/evermusic-guide-local-files/img/local-files-favorites.webp" >}}
+  {{< ls-card title="" subtitle="Избранное — Добавить папку с устройства" image="/docs/guide/evermusic/evermusic-guide-local-files/img/local-files-favorites.webp" >}}
 {{< /cards >}}
 
 ## Верхняя панель инструментов
@@ -91,7 +91,7 @@ readingTime: 8
 Вы можете показывать или скрывать верхнюю панель инструментов жестом смахивания вниз.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Верхняя панель инструментов для текущей папки" image="/docs/guide/evermusic/evermusic-guide-local-files/img/local-files-top-toolbar.webp" >}}
+  {{< ls-card title="" subtitle="Верхняя панель инструментов для текущей папки" image="/docs/guide/evermusic/evermusic-guide-local-files/img/local-files-top-toolbar.webp" >}}
 {{< /cards >}}
 
 ## Специальные папки
@@ -128,7 +128,7 @@ readingTime: 8
 Показывает файлы, находящиеся на устройстве, но в других приложениях. Вы можете импортировать их в это приложение с помощью системного выбора файлов. Для активации выбора нажмите «Открыть файлы...» для выбора файлов или «Открыть папки...» для выбора папок. Подробные инструкции по импорту локальной музыки на iPhone или Mac доступны [здесь](/docs/howto/how-to-play-local-music-stored-on-your-iphone-or-mac). Вы также можете подключить папку с устройства для быстрого доступа к её содержимому. Используйте пункт меню «Подключить папку» и выберите папку на устройстве. Нажмите «Готово», и приложение создаст ссылку на эту папку с доступом на чтение/запись, позволяя управлять файлами прямо из приложения. Для отключения папки с устройства нажмите кнопку «Другие действия» и выберите «Отключить».
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Файлы на этом iPhone / iPad / Mac" image="/docs/guide/evermusic/evermusic-guide-local-files/img/local-files-on-this-device.webp" >}}
+  {{< ls-card title="" subtitle="Файлы на этом iPhone / iPad / Mac" image="/docs/guide/evermusic/evermusic-guide-local-files/img/local-files-on-this-device.webp" >}}
 {{< /cards >}}
 
 ## Импорт файлов с подключённых USB-флешек
@@ -151,7 +151,7 @@ readingTime: 8
 Для редактирования нескольких файлов активируйте режим выбора, нажав кнопку «...» на навигационной панели в правом верхнем углу, затем выберите пункт меню «Выбрать». Рядом с каждым файлом появятся флажки. Выберите нужные файлы, нажимая их флажки. Вы можете выполнять следующие действия с выбранными файлами.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Действия режима выбора для локальных файлов" image="/docs/guide/evermusic/evermusic-guide-local-files/img/local-files-selection-mode.webp" >}}
+  {{< ls-card title="" subtitle="Действия режима выбора для локальных файлов" image="/docs/guide/evermusic/evermusic-guide-local-files/img/local-files-selection-mode.webp" >}}
 {{< /cards >}}
 
 - **Воспроизвести следующим:** Добавить выбранные файлы или папки в начало очереди плеера в текущем порядке сортировки.
@@ -186,7 +186,7 @@ readingTime: 8
 ## Офлайн папки
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Меню «Другие действия» для офлайн-папки" image="/docs/guide/evermusic/evermusic-guide-local-files/img/local-files-offline-folders.webp" >}}
+  {{< ls-card title="" subtitle="Меню «Другие действия» для офлайн-папки" image="/docs/guide/evermusic/evermusic-guide-local-files/img/local-files-offline-folders.webp" >}}
 {{< /cards >}}
 
 Офлайн-режим — это удобная функция, позволяющая получать доступ к любимой музыке даже без подключения к интернету. Когда вы переводите альбом, исполнителя, плейлист, жанр или удалённую папку в офлайн-режим, все файлы этой коллекции автоматически загружаются на устройство для офлайн-воспроизведения. Вы можете удобно получать доступ к этим файлам в разделе «Офлайн папки» приложения.
@@ -204,7 +204,7 @@ readingTime: 8
 Практически каждое поведение экрана «Локальные файлы» — от пропускной способности сети до места назначения загрузок и способа кэширования миниатюр — настраивается в разделе **Настройки → Файловый менеджер**. Открывайте его, когда нужно настроить скорость передачи, сэкономить место или ограничить приложение только Wi-Fi.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Экран настроек файлового менеджера" image="/docs/guide/evermusic/evermusic-guide-local-files/img/local-files-file-manager-settings.webp" >}}
+  {{< ls-card title="" subtitle="Экран настроек файлового менеджера" image="/docs/guide/evermusic/evermusic-guide-local-files/img/local-files-file-manager-settings.webp" >}}
 {{< /cards >}}
 
 Экран содержит все опции, сгруппированные в чётко обозначенные разделы:

@@ -19,7 +19,7 @@ readingTime: 12
 Bu ekranda müziğinizin bulunduğu her kaynağı bağlayabilirsiniz. Dropbox, Google Drive, iCloud Drive, OneDrive, MEGA, Box, pCloud, Yandex Disk, Synology Drive gibi popüler bulut hizmetlerini ve standart protokoller üzerinden Mac, PC veya NAS'ınızı entegre edebilirsiniz. Koleksiyonunuz Dropbox gibi akış dostu bir hizmette mi, yoksa Synology, QNAP, Buffalo, Apple Time Capsule veya WD My Cloud Home gibi kişisel bir NAS'ta mı olursa olsun, Flacbox tek bir ekrandan hepsine bağlanır.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox Bağlantılar Ekranı" image="/docs/guide/flacbox/img/connections-main.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox Bağlantılar Ekranı" image="/docs/guide/flacbox/img/connections-main.webp" >}}
 {{< /cards >}}
 
 ## Bulut Depolama Alanına Bağlan
@@ -30,7 +30,7 @@ Bu ekranda müziğinizin bulunduğu her kaynağı bağlayabilirsiniz. Dropbox, G
 - Bulut sağlayıcısının sunduğu resmi yetkilendirme sayfasına kimlik bilgilerinizi girin, ardından **Tamamlandı** seçeneğine dokunun.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox Bulut Depolama Hizmeti Ekleme" image="/docs/guide/flacbox/img/add-cloud-storage.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox Bulut Depolama Hizmeti Ekleme" image="/docs/guide/flacbox/img/add-cloud-storage.webp" >}}
 {{< /cards >}}
 
 Herhangi bir sorunla karşılaşırsanız internet bağlantınızı ve giriş / şifrenizi kontrol edin. Uygulamanın Premium sürümünde sınırsız sayıda hizmet ekleyebilirsiniz; ücretsiz sürüm en fazla üç hizmeti destekler.
@@ -134,7 +134,7 @@ Bu bölüm, Bonjour keşfi aracılığıyla Flacbox'tan bağlanabileceğiniz yer
 Bu, IP adreslerini manuel olarak yazmadan ev ağınızdaki bir SMB, WebDAV veya DLNA paylaşımını keşfetmenin en hızlı yoludur.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox Yerel Ağdaki Mevcut Cihazlar" image="/docs/guide/flacbox/img/available-devies.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox Yerel Ağdaki Mevcut Cihazlar" image="/docs/guide/flacbox/img/available-devies.webp" >}}
 {{< /cards >}}
 
 ## Wi-Fi Drive
@@ -149,7 +149,7 @@ Wi-Fi Drive, bilgisayarınızdan iOS cihazınıza herhangi bir masaüstü taray�
 - Wi-Fi Drive'ı etkinleştirmek için **Wi-Fi Drive'ı Başlat** seçeneğine dokunun.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox Wi-Fi Drive" image="/docs/guide/flacbox/img/wifi-drive.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox Wi-Fi Drive" image="/docs/guide/flacbox/img/wifi-drive.webp" >}}
 {{< /cards >}}
 
 ### Bilgisayarınızdan Wi-Fi Drive'a Erişme
@@ -234,7 +234,7 @@ Bir dosyanın eylemler menüsünü açmak için dosya başlığının yanındaki
 - **Sil** — dosyayı bulut depolama alanınızdan kalıcı olarak kaldırır. **Bu işlem geri alınamaz.**
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox Bağlı Bulut Depolamadaki Dosya İçin Daha Fazla Eylem" image="/docs/guide/flacbox/img/more-actions-for-file-in-connected-cloud-storage.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox Bağlı Bulut Depolamadaki Dosya İçin Daha Fazla Eylem" image="/docs/guide/flacbox/img/more-actions-for-file-in-connected-cloud-storage.webp" >}}
 {{< /cards >}}
 
 Eylemler listesi mevcut ekran alanını aşarsa, ek seçeneklere ulaşmak için eylemler menüsünde aşağı kaydırın.
@@ -261,7 +261,7 @@ Bulut depolama alanınızdaki her klasör için, klasör başlığının yanınd
 Hızlı Erişim bölümü ekranın üst kısmında yer alır. Bağlı bulut hizmetlerindeki en sevdiğiniz ve son açtığınız dosyalara hızlı erişim sağlar. Buluttan bir dosya veya klasör her açtığınızda Son Açılanlar listesine eklenir. Bu listeyi temizlemek için Son Açılanlar'ı açın, Daha Fazla Eylem düğmesine dokunun ve Listeyi Sil seçeneğini belirleyin. Dizin yapısında derinlere gömülü klasörleri Favorilere de ekleyerek onlara hızla erişebilirsiniz.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox Çevrimiçi Bağlantılar ve Hızlı Erişim" image="/docs/guide/flacbox/img/online-links.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox Çevrimiçi Bağlantılar ve Hızlı Erişim" image="/docs/guide/flacbox/img/online-links.webp" >}}
 {{< /cards >}}
 
 ## Diğer Hizmetler
@@ -269,5 +269,5 @@ Hızlı Erişim bölümü ekranın üst kısmında yer alır. Bağlı bulut hizm
 Bu bölüm, deneyiminizi zenginleştiren ek özellikleri gösterir. Şu anda uygulama **Last.fm** scrobbling'i destekler — bağlandığında oynatma istatistikleriniz otomatik olarak Last.fm hesabınıza gönderilir. Daha sonra Last.fm profilinizi ziyaret ederek dinleme analizlerini görüntüleyebilir ve kişiselleştirilmiş müzik önerileri alabilirsiniz. Ayrıntılı kurulum talimatları [burada](/docs/howto/how-to-scrobble-your-music-history-from-evermusic-or-flacbox-to-last-fm) mevcuttur.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox Last.fm Bağlantısı" image="/docs/guide/flacbox/img/last-fm-connect.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox Last.fm Bağlantısı" image="/docs/guide/flacbox/img/last-fm-connect.webp" >}}
 {{< /cards >}}

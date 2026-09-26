@@ -7,7 +7,7 @@ tags: ["ウィジェット", "ios17", "ダイナミック", "再生中", "ホー
 keywords: ["Evermusic ウィジェット", "Flacbox ウィジェット", "再生中ウィジェット iOS", "macOS Sonoma デスクトップウィジェット", "オーディオブックマーク iPhone", "音楽ウィジェット Evermusic", "再生制御ホーム画面", "ダイナミックウィジェット iOS 17"]
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **要約:** Evermusic と Flacbox は iOS 17+ と macOS 14 Sonoma+ でインタラクティブな再生中ウィジェットを提供しています。iPhone のホーム画面や Mac のデスクトップから直接、再生の制御、トラックのスキップ、お気に入りの追加、オーディオブックマークの作成が可能です — アプリを開く必要はありません。
@@ -78,22 +78,22 @@ iOS でウィジェットを追加するには：
 
 ## よくある質問
 
-{{% details title="アプリを開かずにウィジェットは機能しますか？" closed="true" %}}
+{{% ls-details title="アプリを開かずにウィジェットは機能しますか？" closed="true" %}}
 はい。iOS 17 と macOS 14 Sonoma では、ウィジェットのボタンはインタラクティブで、直接再生を制御します。アプリがフォアグラウンドにある必要はありません。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="どのウィジェットサイズを選ぶべきですか？" closed="true" %}}
+{{% ls-details title="どのウィジェットサイズを選ぶべきですか？" closed="true" %}}
 基本的な再生/一時停止とお気に入りには小を選びます。スキップボタンが必要な場合は中を選びます。オーディオブックマークも必要な場合は大を選びます。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="ウィジェットを使ってオーディオブックを再開できますか？" closed="true" %}}
+{{% ls-details title="ウィジェットを使ってオーディオブックを再開できますか？" closed="true" %}}
 はい。設定で「オーディオプレーヤーの状態を保存」を有効にすると、アプリが閉じられた後でも、ウィジェットは最後の位置から再生を再開します。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="ウィジェットは iPad で利用できますか？" closed="true" %}}
+{{% ls-details title="ウィジェットは iPad で利用できますか？" closed="true" %}}
 はい。iPadOS 17 は iPhone と同じインタラクティブウィジェットをサポートしています。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Evermusic と Flacbox の両方にこれらのウィジェットがありますか？" closed="true" %}}
+{{% ls-details title="Evermusic と Flacbox の両方にこれらのウィジェットがありますか？" closed="true" %}}
 はい。再生中ウィジェットは Evermusic と Flacbox の両方で同一の機能で利用可能です。
-{{% /details %}}
+{{% /ls-details %}}

@@ -17,7 +17,7 @@ readingTime: 11
 ## 存取播放器
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evermusic 音訊播放器畫面" image="/docs/guide/evermusic/evermusic-guide-player/img/player-main.webp" >}}
+  {{< ls-card title="" subtitle="Evermusic 音訊播放器畫面" image="/docs/guide/evermusic/evermusic-guide-player/img/player-main.webp" >}}
 {{< /cards >}}
 
 您可以從迷你播放器檢視存取全螢幕播放器。在 iPhone 上，您會在主畫面標籤列上方找到迷你播放器。在 iPad 或 Mac 上，可以從左側選單存取。要收起迷你播放器，請點選其圖示並向下滑動。要完全隱藏全螢幕播放器，只需點選右下角的關閉按鈕。
@@ -44,7 +44,7 @@ readingTime: 11
 ## 音量控制
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="帶 AirPlay 和 Google Cast 的音量控制" image="/docs/guide/evermusic/evermusic-guide-player/img/player-volume-control.webp" >}}
+  {{< ls-card title="" subtitle="帶 AirPlay 和 Google Cast 的音量控制" image="/docs/guide/evermusic/evermusic-guide-player/img/player-volume-control.webp" >}}
 {{< /cards >}}
 
 在播放控制下方點選聲音圖示，在音訊設定畫面上找到音量滑桿。您可以使用此滑桿或裝置上的標準音量按鈕更改音量。此外，您還會發現一些便捷的串流媒體按鈕：
@@ -63,7 +63,7 @@ readingTime: 11
 ## 音訊等化器
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="10 段音訊等化器" image="/docs/guide/evermusic/evermusic-guide-player/img/player-equalizer.webp" >}}
+  {{< ls-card title="" subtitle="10 段音訊等化器" image="/docs/guide/evermusic/evermusic-guide-player/img/player-equalizer.webp" >}}
 {{< /cards >}}
 
 Evermusic 配備了 10 段等化器，包含 iPod 風格預設、前置放大器和手動等化器設定。要啟動等化器，只需點選底部工具列上的「等化器」按鈕，然後切換右上角的開關控制項。您可以從「聲學」、「重低音增強」、「古典」等一系列預定義等化器預設中進行選擇。如果您是音訊發燒友，您會欣賞使用滑桿對每個頻段進行精細調整的能力。您可以自由建立並儲存自己的音訊等化器預設。如果曲目音量不夠大，您也可以調整前置放大器增益。我們有關於如何使用等化器的更詳細說明，請見[此處](/docs/howto/how-to-use-the-audio-equalizer-on-your-iphone-ipad-mac-with-evermusic-and-flacbox)。
@@ -71,7 +71,7 @@ Evermusic 配備了 10 段等化器，包含 iPod 風格預設、前置放大器
 ## 播放器模式工具列
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="帶搜尋和速度的播放器頂部工具列" image="/docs/guide/evermusic/evermusic-guide-player/img/player-top-toolbar.webp" >}}
+  {{< ls-card title="" subtitle="帶搜尋和速度的播放器頂部工具列" image="/docs/guide/evermusic/evermusic-guide-player/img/player-top-toolbar.webp" >}}
 {{< /cards >}}
 
 對於少數播放器畫面樣式，您會在播放器畫面頂部（導覽列正下方）找到播放器模式工具列。這個便捷的工具列包含三個按鈕。
@@ -82,7 +82,7 @@ Evermusic 配備了 10 段等化器，包含 iPod 風格預設、前置放大器
 ## 音訊書籤
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="有聲書和講座的音訊書籤" image="/docs/guide/evermusic/evermusic-guide-player/img/player-bookmarks.webp" >}}
+  {{< ls-card title="" subtitle="有聲書和講座的音訊書籤" image="/docs/guide/evermusic/evermusic-guide-player/img/player-bookmarks.webp" >}}
 {{< /cards >}}
 
 在這裡，您可以為音樂庫中的曲目建立多個書籤。我們有關於如何使用書籤的完整說明，請見[此處](/docs/howto/how-to-listen-to-audiobooks-on-iphone-ipad-mac-using-evermusic)。
@@ -90,7 +90,7 @@ Evermusic 配備了 10 段等化器，包含 iPod 風格預設、前置放大器
 ## 播放器佇列
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="播放器佇列" image="/docs/guide/evermusic/evermusic-guide-player/img/player-queue.webp" >}}
+  {{< ls-card title="" subtitle="播放器佇列" image="/docs/guide/evermusic/evermusic-guide-player/img/player-queue.webp" >}}
 {{< /cards >}}
 
 要存取播放器佇列，只需點選底部工具列上的播放器佇列按鈕。要移動佇列中的歌曲，請使用標題旁邊的重新排序指示器。
@@ -98,7 +98,7 @@ Evermusic 配備了 10 段等化器，包含 iPod 風格預設、前置放大器
 ## 評論 / 歌詞
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="評論、嵌入歌詞和 LRC 檔案" image="/docs/guide/evermusic/evermusic-guide-player/img/player-lyrics.webp" >}}
+  {{< ls-card title="" subtitle="評論、嵌入歌詞和 LRC 檔案" image="/docs/guide/evermusic/evermusic-guide-player/img/player-lyrics.webp" >}}
 {{< /cards >}}
 
 要查看曲目評論和嵌入歌詞以及 LRC 檔案，請按照以下步驟操作：
@@ -114,7 +114,7 @@ Evermusic 配備了 10 段等化器，包含 iPod 風格預設、前置放大器
 ## 選項選單
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="佇列項目的選項選單" image="/docs/guide/evermusic/evermusic-guide-player/img/player-queue-item-options-menu.webp" >}}
+  {{< ls-card title="" subtitle="佇列項目的選項選單" image="/docs/guide/evermusic/evermusic-guide-player/img/player-queue-item-options-menu.webp" >}}
 {{< /cards >}}
 
 您音訊播放器佇列中的每首歌曲都有更多動作的選單，您可以透過點選歌曲標題附近的三點按鈕存取。可用動作有：
@@ -153,7 +153,7 @@ Evermusic 配備了 10 段等化器，包含 iPod 風格預設、前置放大器
 ## 最近使用的和最愛項目
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="播放器中最近播放的歌曲" image="/docs/guide/evermusic/evermusic-guide-player/img/player-recents.webp" >}}
+  {{< ls-card title="" subtitle="播放器中最近播放的歌曲" image="/docs/guide/evermusic/evermusic-guide-player/img/player-recents.webp" >}}
 {{< /cards >}}
 
 在播放器畫面上，您可以透過點選「更多動作」按鈕「…」並選擇相應選單項來存取「最近使用的」和「最愛項目」部分。在這兩個部分中，您可以搜尋歌曲、播放所有曲目、隨機播放所有曲目、匯出清單和刪除清單。我們有關於如何匯出歌曲清單的詳細說明，請見[此處](/docs/howto/export-tracks-collection-from-evermusic-flacbox-to-m3u-csv-txt/)。
@@ -161,7 +161,7 @@ Evermusic 配備了 10 段等化器，包含 iPod 風格預設、前置放大器
 ## 迷你播放器視窗（Mac 專屬）
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Mac 迷你播放器視窗" image="/docs/guide/evermusic/evermusic-guide-player/img/player-mini-mac.webp" >}}
+  {{< ls-card title="" subtitle="Mac 迷你播放器視窗" image="/docs/guide/evermusic/evermusic-guide-player/img/player-mini-mac.webp" >}}
 {{< /cards >}}
 
 對於 Mac 使用者，有一個便捷的迷你播放器視窗。要存取它，只需將游標移到應用程式視窗的右下角並將其調整為最小可能的尺寸。然後，點選折疊按鈕（顯示為向下箭頭）以啟動迷你播放器視窗。如果您想讓它始終位於其他視窗之上，請前往 Mac 頂部選單列，選擇「視窗」，並選擇「始終在頂部顯示視窗」。當您在收聽音訊講座時不想有任何干擾，此功能特別方便。
@@ -169,7 +169,7 @@ Evermusic 配備了 10 段等化器，包含 iPod 風格預設、前置放大器
 ## 鍵盤快捷鍵（Mac 專屬）
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="帶鍵盤快捷鍵的 Mac 狀態列播放選單" image="/docs/guide/evermusic/evermusic-guide-player/img/player-mac-shortcuts.webp" >}}
+  {{< ls-card title="" subtitle="帶鍵盤快捷鍵的 Mac 狀態列播放選單" image="/docs/guide/evermusic/evermusic-guide-player/img/player-mac-shortcuts.webp" >}}
 {{< /cards >}}
 
 對於 Mac 使用者，狀態列上有一個系統播放選單，帶有鍵盤快捷鍵。例如，要播放/暫停，只需點選鍵盤上的空格鍵。停止、下一首歌曲、上一首歌曲、跳過時間、重複、隨機播放和播放速度的快捷鍵如螢幕截圖所示。
@@ -177,7 +177,7 @@ Evermusic 配備了 10 段等化器，包含 iPod 風格預設、前置放大器
 ## 音訊播放器設定
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="音訊播放器設定" image="/docs/guide/evermusic/evermusic-guide-player/img/player-settings.webp" >}}
+  {{< ls-card title="" subtitle="音訊播放器設定" image="/docs/guide/evermusic/evermusic-guide-player/img/player-settings.webp" >}}
 {{< /cards >}}
 
 要存取音訊播放器設定，請點選音訊播放器畫面上的「更多」按鈕，然後從下拉選單中選擇「設定」。在這裡，您會找到按功能分組的各個部分：

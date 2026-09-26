@@ -21,7 +21,7 @@ readingTime: 16
 O ecrã de Configurações é o centro de controlo do Flacbox. A partir daqui pode atualizar para Premium, configurar o motor de áudio (codecs do sistema ou FFmpeg), gerir a sua biblioteca musical, configurar o gestor de ficheiros, personalizar o editor de tags de áudio, ativar widgets do ecrã inicial e Apple CarPlay, fazer cópias de segurança dos seus dados, e aceder a ajuda e informações legais. As secções estão agrupadas sob cabeçalhos: Compras e Atualizações, Preferências da Aplicação, Ajuda e Legal & Privacidade.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox Settings Main Screen" image="/docs/guide/flacbox/img/settings-main.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox Settings Main Screen" image="/docs/guide/flacbox/img/settings-main.webp" >}}
 {{< /cards >}}
 
 ## Atualizar para Premium
@@ -29,13 +29,13 @@ O ecrã de Configurações é o centro de controlo do Flacbox. A partir daqui po
 Atualize a aplicação para a versão Premium para remover todos os limites. A versão gratuita da aplicação oferece uma compra única vitalícia dentro da aplicação e duas opções de subscrição (1 mês e 1 ano) para remover todas as restrições e atualizar para Premium.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox Upgrade to Premium" image="/docs/guide/flacbox/img/upgrade-to-premium.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox Upgrade to Premium" image="/docs/guide/flacbox/img/upgrade-to-premium.webp" >}}
 {{< /cards >}}
 
 A **Partilha em Família** está ativada para todas as compras e planos, pelo que pode partilhar a versão Premium com até cinco membros da sua família sem custos adicionais.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox Select a Premium Plan" image="/docs/guide/flacbox/img/select-premium-plan.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox Select a Premium Plan" image="/docs/guide/flacbox/img/select-premium-plan.webp" >}}
 {{< /cards >}}
 
 Pode ler mais sobre compras e a versão Premium aqui: [Qual é a diferença entre Flacbox e Flacbox Premium](/docs/faq/flacbox/what-is-the-difference-between-flacbox-and-flacbox-premium/).

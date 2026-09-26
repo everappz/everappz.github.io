@@ -7,7 +7,7 @@ keywords: ["servidor WebDAV iPhone", "servidor WebDAV iPad", "com configurar Web
 readingTime: 9
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 WebDAV converteix una carpeta en una unitat de xarxa que un ordinador pot obrir amb el seu gestor d'arxius habitual. Funciona amb el mateix protocol web que fa servir el teu navegador, i per això viatja bé entre Mac, Windows i Linux sense controladors especials. Amb [Everdisk](/products/everdisk) pots fer funcionar un servidor WebDAV al teu iPhone o iPad, de manera que el telèfon apareix com una unitat que pots explorar, de la qual copies i a la qual copies des de gairebé qualsevol ordinador.
 
@@ -104,40 +104,40 @@ L'interruptor **Edició de fitxers** a Configuració, Compartició, Accés decid
 
 ## Preguntes freqüents
 
-{{% details title="Quina és l'adreça i el port WebDAV del meu iPhone?" closed="true" %}}
+{{% ls-details title="Quina és l'adreça i el port WebDAV del meu iPhone?" closed="true" %}}
 Després que comencis a compartir, Everdisk mostra l'adreça a la pantalla Compartició. Té l'aspecte http://192.168.1.20:8080. El 8080 és el port que Everdisk fa servir per a WebDAV, i la primera part és l'adreça del teu iPhone a la Wi-Fi, així que la teva serà diferent.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Com em connecto al WebDAV del meu iPhone des de Windows?" closed="true" %}}
+{{% ls-details title="Com em connecto al WebDAV del meu iPhone des de Windows?" closed="true" %}}
 Obre l'Explorador d'arxius, fes clic dret a Aquest ordinador, i tria Afegir una ubicació de xarxa o Assignar una unitat de xarxa. Introdueix l'adreça WebDAV d'Everdisk, per exemple http://192.168.1.20:8080, i després introdueix el teu inici de sessió si n'has definit un. Si Windows no es connecta, assegura't que el servei WebClient s'està executant (busca Serveis, troba WebClient, inicia'l) i torna-ho a provar.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Puc fer servir WebDAV entre dos iPhones?" closed="true" %}}
+{{% ls-details title="Puc fer servir WebDAV entre dos iPhones?" closed="true" %}}
 Sí, però l'app Arxius d'iOS no té client WebDAV, així que fes servir Everdisk al segon dispositiu. Obre la pestanya Dispositius, toca Connexió nova, tria WebDAV, i introdueix l'adreça que es mostra al primer telèfon. Una app WebDAV com Documents by Readdle també funciona.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="WebDAV necessita contrasenya?" closed="true" %}}
+{{% ls-details title="WebDAV necessita contrasenya?" closed="true" %}}
 No, un inici de sessió és opcional. Deixa l'Inici de sessió i la Contrasenya buits a Configuració, Compartició, Accés per a l'accés de convidats, o defineix-los si vols que les connexions iniciïn sessió.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Altres persones poden canviar els meus arxius per WebDAV?" closed="true" %}}
+{{% ls-details title="Altres persones poden canviar els meus arxius per WebDAV?" closed="true" %}}
 Només si ho permets. L'interruptor Edició de fitxers a Configuració, Compartició, Accés controla això. Activat deixa que els dispositius connectats pugin, canviïn de nom i eliminin. Desactivat fa que la unitat sigui de només lectura, així que els altres poden veure i copiar però no canviar res.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="WebDAV o SMB, quina diferència hi ha?" closed="true" %}}
+{{% ls-details title="WebDAV o SMB, quina diferència hi ha?" closed="true" %}}
 Tots dos munten el teu iPhone com una unitat de xarxa. WebDAV funciona amb el protocol web i es connecta netament des de l'Explorador d'arxius de Windows, cosa que és el seu punt fort principal. SMB és la compartició d'arxius nativa a Mac, Linux i dispositius NAS, sol ser més ràpid en un Mac, i és l'única connexió d'Everdisk que pot xifrar les transferències. Everdisk pot fer funcionar tots dos alhora.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Per què es desconnecta la meva unitat WebDAV?" closed="true" %}}
+{{% ls-details title="Per què es desconnecta la meva unitat WebDAV?" closed="true" %}}
 El teu iPhone és el servidor, i iOS posa en pausa les apps que estan massa estona en segon pla. Mantén Everdisk obert a la pantalla mentre hi hagi un dispositiu connectat, i connecta'l a l'electricitat durant les transferències llargues. També confirma que tots dos dispositius encara són a la mateixa Wi-Fi.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Puc connectar-me per WebDAV sense Wi-Fi?" closed="true" %}}
+{{% ls-details title="Puc connectar-me per WebDAV sense Wi-Fi?" closed="true" %}}
 Sí, si connectes el teu iPhone a un Mac amb un cable. Everdisk mostra aleshores una adreça de connexió per cable addicional que el Mac connectat pot obrir al Finder, cosa que funciona fins i tot sense gens de Wi-Fi. Pel cable, només aquell Mac pot arribar al dispositiu.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Everdisk és gratis?" closed="true" %}}
+{{% ls-details title="Everdisk és gratis?" closed="true" %}}
 Sí, Everdisk es baixa gratis i el servidor WebDAV hi està inclòs. Una compra opcional única Premium afegeix extres com ports personalitzats i la conversió de fotos i vídeos. Pots configurar WebDAV i compartir arxius sense pagar.
-{{% /details %}}
+{{% /ls-details %}}
 
 Vols provar-ho? [Baixa Everdisk de l'App Store](https://apps.apple.com/app/apple-store/id6751851132?pt=95781850&ct=everappzcom&mt=8) i munta el teu iPhone com una unitat en un parell de minuts. Preguntes o comentaris? Escriu-nos a **support@everappz.com**.

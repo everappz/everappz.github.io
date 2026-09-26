@@ -72,19 +72,19 @@ Evermusic में iPod-style presets (Acoustic, Bass Booster, Classical, Dance
 
 
 {{< cards >}}
-  {{< card icon="location-marker" title="नेविगेशन" subtitle="iPhone पर Tab Bar या iPad और Mac पर Left Menu का उपयोग करके Evermusic नेविगेट करना सीखें।" link="/docs/guide/evermusic/evermusic-guide-navigation" >}}
+  {{< ls-card icon="location-marker" title="नेविगेशन" subtitle="iPhone पर Tab Bar या iPad और Mac पर Left Menu का उपयोग करके Evermusic नेविगेट करना सीखें।" link="/docs/guide/evermusic/evermusic-guide-navigation" >}}
 
-  {{< card icon="cloud" title="संपर्क" subtitle="अपने क्लाउड अकाउंट कनेक्ट करें और built-in file manager का उपयोग करके ऑनलाइन फाइलें मैनेज करें।" link="/docs/guide/evermusic/evermusic-guide-connections" >}}
+  {{< ls-card icon="cloud" title="संपर्क" subtitle="अपने क्लाउड अकाउंट कनेक्ट करें और built-in file manager का उपयोग करके ऑनलाइन फाइलें मैनेज करें।" link="/docs/guide/evermusic/evermusic-guide-connections" >}}
 
-  {{< card icon="collection" title="म्यूजिक लाइब्रेरी" subtitle="Music Library में अपने tracks, albums, और artists को organize और explore करें।" link="/docs/guide/evermusic/evermusic-guide-music-library" >}}
+  {{< ls-card icon="collection" title="म्यूजिक लाइब्रेरी" subtitle="Music Library में अपने tracks, albums, और artists को organize और explore करें।" link="/docs/guide/evermusic/evermusic-guide-music-library" >}}
 
-  {{< card icon="music-note" title="प्लेलिस्ट्स" subtitle="अपने mood या occasion के अनुसार playlists बनाएं और arrange करें।" link="/docs/guide/evermusic/evermusic-guide-playlists" >}}
+  {{< ls-card icon="music-note" title="प्लेलिस्ट्स" subtitle="अपने mood या occasion के अनुसार playlists बनाएं और arrange करें।" link="/docs/guide/evermusic/evermusic-guide-playlists" >}}
 
-  {{< card icon="folder" title="स्थानीय फाइलें" subtitle="Local Files सेक्शन के माध्यम से ऑफलाइन म्यूजिक access और manage करें।" link="/docs/guide/evermusic/evermusic-guide-local-files" >}}
+  {{< ls-card icon="folder" title="स्थानीय फाइलें" subtitle="Local Files सेक्शन के माध्यम से ऑफलाइन म्यूजिक access और manage करें।" link="/docs/guide/evermusic/evermusic-guide-local-files" >}}
 
-  {{< card icon="play" title="ऑडियो प्लेयर" subtitle="अपने playback, queue, और equalizer और sleep timer जैसी audio settings control करें।" link="/docs/guide/evermusic/evermusic-guide-player" >}}
+  {{< ls-card icon="play" title="ऑडियो प्लेयर" subtitle="अपने playback, queue, और equalizer और sleep timer जैसी audio settings control करें।" link="/docs/guide/evermusic/evermusic-guide-player" >}}
 
-  {{< card icon="adjustments" title="सेटिंग्स" subtitle="Evermusic के look, features, और performance settings customize करें।" link="/docs/guide/evermusic/evermusic-guide-settings" >}}
+  {{< ls-card icon="adjustments" title="सेटिंग्स" subtitle="Evermusic के look, features, और performance settings customize करें।" link="/docs/guide/evermusic/evermusic-guide-settings" >}}
 
-  {{< card icon="question-mark-circle" title="FAQ" subtitle="हमारे FAQ सेक्शन में सामान्य प्रश्नों के त्वरित उत्तर खोजें।" link="/docs/faq/evermusic" >}}
+  {{< ls-card icon="question-mark-circle" title="FAQ" subtitle="हमारे FAQ सेक्शन में सामान्य प्रश्नों के त्वरित उत्तर खोजें।" link="/docs/faq/evermusic" >}}
 {{< /cards >}}

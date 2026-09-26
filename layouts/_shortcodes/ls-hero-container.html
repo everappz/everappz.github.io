@@ -1,0 +1,142 @@
+{{- $class := .Get "class" -}}
+{{- $cols := .Get "cols" | default 2 -}}
+{{- $image := .Get "image" -}}
+{{- $imageCard := .Get "imageCard" | default false -}}
+{{- $imageClass := .Get "imageClass" -}}
+{{- $imageLink := .Get "imageLink" -}}
+{{- $imageLinkExternal := hasPrefix $imageLink "http" -}}
+{{- $imageStyle := .Get "imageStyle" -}}
+{{- $imageTitle := .Get "imageTitle" -}}
+{{- $imageWidth := .Get "imageWidth" | default 350 -}}
+{{- $imageHeight := .Get "imageHeight" | default 350 -}}
+{{- $style := .Get "style" -}}
+
+{{- $lottie := .Get "lottie" -}}
+{{- $lottieList := .Get "lottieList" -}}
+{{- $lottieWidth := .Get "lottieWidth" | default "100%" }}
+{{- $lottieHeight := .Get "lottieHeight" | default "auto" }}
+{{- $lottieID := printf "lottie-%d" now.UnixNano }}
+
+{{- $css := printf "--hextra-feature-grid-cols: %v; %s" $cols $style -}}
+{{- $href := cond (hasPrefix $imageLink "/") ($imageLink | relURL) $imageLink -}}
+{{- $imgResource := false -}}
+{{- if and $image (not (urls.Parse $image).Scheme) -}}
+  {{- $imgPath := strings.TrimPrefix "/" $image -}}
+  {{- with resources.Get $imgPath -}}
+    {{- $imgResource = . -}}
+  {{- else -}}
+    {{- if hasPrefix $image "/" -}}
+      {{- $image = relURL (strings.TrimPrefix "/" $image) -}}
+    {{- end -}}
+  {{- end -}}
+{{- end -}}
+
+<style>
+.hextra-hero-buttons{display:flex;flex-wrap:wrap;gap:1rem}
+.hextra-hero-buttons .hextra-hero-button{display:flex!important;flex:1 1 0%;min-width:fit-content;justify-content:center;margin:0!important;white-space:nowrap}
+/* Two-column hero only at >=960px; single-column compact layout below. */
+.hextra-feature-grid.hero-grid{grid-template-columns:1fr}
+@media(min-width:960px){.hextra-feature-grid.hero-grid{grid-template-columns:repeat(var(--hextra-feature-grid-cols),minmax(0,1fr))}}
+@media(max-width:959px){.hextra-hero-content{padding-bottom:1.5rem}}
+</style>
+<div
+  class="{{ $class }} hextra-feature-grid hero-grid hx:grid hx:gap-4 hx:w-full not-prose hx:items-center"
+  {{ with $css }}style="{{ . | safeCSS }}" {{ end }}>
+  <div class="hextra-hero-content hx:w-full">
+    {{ .Inner }}
+  </div>
+
+  {{- $lottieCard := .Get "lottieCard" | default false -}}
+  {{- $lottieCardSize := .Get "lottieCardSize" | default "400px" -}}
+  {{- if or $lottie $lottieList }}
+  <div class="hx:mx-auto" style="display:flex;align-items:center;justify-content:center;width:100%;">
+    {{- $lottieCardPadding := .Get "lottieCardPadding" | default "1.5rem" -}}
+    {{ if $lottieCard }}<div class="hextra-feature-card not-prose hx:block hx:relative hx:overflow-hidden hx:rounded-3xl hx:border hx:border-gray-200 hx:hover:border-gray-300 hx:dark:border-neutral-800 hx:dark:hover:border-neutral-700 hx:before:pointer-events-none hx:before:absolute hx:before:inset-0 hx:before:bg-glass-gradient" style="width:{{ $lottieCardSize }};height:{{ $lottieCardSize }};max-width:100%;aspect-ratio:1/1;display:flex;align-items:center;justify-content:center;padding:{{ $lottieCardPadding }};">{{ end }}
+    <div id="{{ $lottieID }}" style="{{ if $lottieCard }}width:100%;height:100%;display:flex;align-items:center;justify-content:center;{{ else }}width:{{ $lottieWidth }};height:{{ $lottieHeight }};{{ if $lottieList }}aspect-ratio:1/1;display:flex;align-items:center;justify-content:center;overflow:hidden;{{ end }}{{ end }}"></div>
+    {{ if $lottieCard }}</div>{{ end }}
+
+    <script>
+      if (!window._lottieScriptLoaded) {
+        const script = document.createElement("script");
+        script.src = "https://unpkg.com/lottie-web@5.12.0/build/player/lottie.min.js";
+        script.onload = () => window._lottieScriptLoaded = true;
+        document.head.appendChild(script);
+      }
+
+      (function() {
+        {{- if $lottieList }}
+        var paths = "{{ $lottieList }}".split(",");
+        var seen = [];
+        try { seen = JSON.parse(localStorage.getItem("lottie_seen") || "[]"); } catch(e) {}
+        var unseen = paths.filter(function(p) { return seen.indexOf(p) === -1; });
+        if (unseen.length === 0) { seen = []; unseen = paths; }
+        var lottiePath = unseen[Math.floor(Math.random() * unseen.length)];
+        seen.push(lottiePath);
+        try { localStorage.setItem("lottie_seen", JSON.stringify(seen)); } catch(e) {}
+        {{- else }}
+        var lottiePath = "{{ $lottie }}";
+        {{- end }}
+
+        var waitForLottie = setInterval(function() {
+          if (window.lottie) {
+            window.lottie.loadAnimation({
+              container: document.getElementById("{{ $lottieID }}"),
+              renderer: "svg",
+              loop: true,
+              autoplay: true,
+              path: lottiePath
+            });
+            clearInterval(waitForLottie);
+          }
+        }, 100);
+      })();
+    </script>
+  </div>
+
+  {{- else if $image }}
+  <div class="hx:mx-auto">
+    <a {{ with $imageLink }}href="{{ $href }}" {{ with $imageLinkExternal }} target="_blank" rel="noreferrer" {{ end
+      }}{{ end }} {{ with $imageStyle }}style="{{ . | safeCSS }}" {{ end }}
+      class="{{ $imageClass }} {{ if $imageCard }}hextra-feature-card not-prose hx:block hx:relative hx:p-6 hx:overflow-hidden hx:rounded-3xl hx:border hx:border-gray-200 hx:hover:border-gray-300 hx:dark:border-neutral-800 hx:dark:hover:border-neutral-700 hx:before:pointer-events-none hx:before:absolute hx:before:inset-0 hx:before:bg-glass-gradient{{ end }}">
+      {{- if $imgResource -}}
+        {{- $specs := slice -}}
+        {{- if not (eq $imgResource.MediaType.SubType "svg") -}}
+          {{- $cands := slice 480 800 1200 1600 -}}
+          {{- if lt $imgResource.Width 1600 -}}{{- $cands = $cands | append $imgResource.Width -}}{{- end -}}
+          {{- $seen := slice -}}
+          {{- range (sort $cands) -}}
+            {{- if and (le . $imgResource.Width) (not (in $seen .)) -}}
+              {{- $seen = $seen | append . -}}
+              {{- $specs = $specs | append (printf "Resize %dx q80 webp" .) -}}
+            {{- end -}}
+          {{- end -}}
+          {{- if not $specs -}}{{- $specs = slice (printf "Resize %dx q80 webp" $imgResource.Width) -}}{{- end -}}
+        {{- end -}}
+        {{- partial "ls-responsive-image.html" (dict
+          "image" $imgResource
+          "specs" $specs
+          "sizes" "(max-width: 768px) 100vw, 600px"
+          "fallback" 800
+          "alt" $imageTitle
+          "loading" "eager"
+        ) -}}
+      {{- else -}}
+        <img src="{{ $image }}" width="{{ $imageWidth }}" height="{{ $imageHeight }}" {{ with $imageTitle
+          }}alt="{{ $imageTitle }}" {{ end }} />
+      {{- end -}}
+    </a>
+  </div>
+
+  {{ end -}}
+</div>
+<script>
+(function(){
+  var btns=document.querySelectorAll('.hextra-hero-content .hextra-hero-button');
+  if(btns.length<2)return;
+  var parent=btns[0].parentNode;
+  var wrap=document.createElement('div');
+  wrap.className='hextra-hero-buttons';
+  parent.insertBefore(wrap,btns[0]);
+  btns.forEach(function(b){wrap.appendChild(b)});
+})();
+</script>

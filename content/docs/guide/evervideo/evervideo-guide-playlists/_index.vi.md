@@ -19,7 +19,7 @@ Trong phần Danh sách phát, bạn sẽ tìm thấy các công cụ hữu ích
 Danh sách phát trong Evervideo có thể chứa hỗn hợp video đám mây trực tuyến, tệp đã tải xuống ngoại tuyến, tệp cục bộ, video thư viện Photos và video thư viện iOS Music — tất cả trong một danh sách phát — và phát liền mạch cùng nhau.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Danh sách phát Evervideo trong thư viện phương tiện" image="/docs/guide/evervideo/img/evervideo-playlists-in-media-library.webp" >}}
+  {{< ls-card title="" subtitle="Danh sách phát Evervideo trong thư viện phương tiện" image="/docs/guide/evervideo/img/evervideo-playlists-in-media-library.webp" >}}
 {{< /cards >}}
 
 ## Tạo danh sách phát

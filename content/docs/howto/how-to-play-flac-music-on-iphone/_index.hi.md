@@ -8,7 +8,7 @@ tags: ["संगीत", "क्लाउड", "प्लेयर", "डाउ
 readingTime: 8
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **संक्षेप में:** iPhone पर FLAC चलाने के लिए आपको एक थर्ड-पार्टी प्लेयर की ज़रूरत होती है, क्योंकि Apple का Music ऐप FLAC को सपोर्ट नहीं करता। [Flacbox](/products/flacbox) इंस्टॉल करें (यह मुफ़्त है), फिर या तो अपनी फ़ाइलें Wi-Fi Drive या USB के ज़रिए ट्रांसफ़र करें, या अपना क्लाउड स्टोरेज या NAS कनेक्ट करें। आपकी FLAC लाइब्रेरी पूरी क्वालिटी में चलती है, USB DAC के ज़रिए 384 kHz और 32-bit तक। Flacbox 120 से अधिक फ़ॉर्मेट भी चलाता है, जिनमें FLAC, DSD, ALAC, APE, WAV, OGG और OPUS शामिल हैं, और यह एक 10-बैंड इक्वलाइज़र, रियल-टाइम इफ़ेक्ट के साथ पेशेवर BASS ऑडियो इंजन, एक DSP प्रोसेसर और एक फ़ुल-स्क्रीन म्यूज़िक विज़ुअलाइज़र जोड़ता है।
@@ -34,7 +34,7 @@ Flacbox iPhone, iPad और Mac के लिए एक हाई-रेस म�
 
 Flacbox मुफ़्त डाउनलोड है और iPhone, iPad और Mac पर चलता है।
 
-{{< app-details product="flacbox" >}}
+{{< ls-app-details product="flacbox" >}}
 
 ### चरण 2. अपनी FLAC फ़ाइलें अंदर लाएँ
 
@@ -82,7 +82,7 @@ FLAC के साथ-साथ, Flacbox FFmpeg को बंडल करता
 Flacbox में एक 10-बैंड ग्राफ़िक इक्वलाइज़र शामिल है जिसमें iPod-शैली के प्रीसेट हैं जैसे Acoustic, Bass Booster, Rock, Pop, Jazz, Classical और Dance। बिना क्लिपिंग के शांत ट्रैक को ऊपर उठाने के लिए एक प्रीएम्प्लीफ़ायर है, और आप अपने खुद के प्रीसेट सहेज सकते हैं। इसे इन-ईयर मॉनिटर, एक HomePod, या एक कार स्टीरियो के लिए ट्यून करें। पूरे मार्गदर्शन के लिए, [इक्वलाइज़र गाइड](/docs/howto/how-to-use-the-audio-equalizer-on-your-iphone-ipad-mac-with-evermusic-and-flacbox) देखें।
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox ऑडियो प्लेयर इक्वलाइज़र" image="/docs/guide/flacbox/img/audio-player-equalizer.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox ऑडियो प्लेयर इक्वलाइज़र" image="/docs/guide/flacbox/img/audio-player-equalizer.webp" >}}
 {{< /cards >}}
 
 ## रियल-टाइम ऑडियो इफ़ेक्ट
@@ -106,7 +106,7 @@ Flacbox में ब्रॉडकास्ट-ग्रेड EBU R128 ला
 Flacbox में एक अंतर्निहित म्यूज़िक विज़ुअलाइज़र है जो आपके संगीत के साथ ताल में चलते-फिरते, रंगीन विज़ुअल बनाता है। यह प्रसिद्ध Milkdrop इंजन (projectM) का उपयोग करता है जिसमें 500 प्रीसेट हैं, जो iPhone, iPad और Mac पर OpenGL से बनाए जाते हैं। इसे प्लेयर से अधिक क्रियाएँ बटन और फिर Visualization पर टैप करके खोलें। एक प्रीसेट चुनें, या एक सहज crossfade के साथ हर 30 सेकंड में उन्हें बदलने के लिए Auto मोड का उपयोग करें। चरण-दर-चरण मदद के लिए, [म्यूज़िक विज़ुअलाइज़र को कैसे चालू करें](/docs/howto/how-to-turn-on-a-music-visualizer-while-playing-music-on-iphone-ipad-mac) पर गाइड देखें।
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox म्यूज़िक विज़ुअलाइज़र (Milkdrop और projectM)" image="/docs/howto/how-to-turn-on-a-music-visualizer-while-playing-music-on-iphone-ipad-mac/music-visualizer-starfield-sectors-preset.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox म्यूज़िक विज़ुअलाइज़र (Milkdrop और projectM)" image="/docs/howto/how-to-turn-on-a-music-visualizer-while-playing-music-on-iphone-ipad-mac/music-visualizer-starfield-sectors-preset.webp" >}}
 {{< /cards >}}
 
 ## क्लाउड, NAS और ऑफ़लाइन प्लेबैक
@@ -127,7 +127,7 @@ Flacbox में एक अंतर्निहित म्यूज़िक
 
 Flacbox मुफ़्त डाउनलोड है। Premium क्लाउड खातों, प्लेलिस्ट और ऑफ़लाइन फ़ोल्डर पर मुफ़्त-संस्करण की सीमाओं को हटा देता है, और यह एक बार की आजीवन खरीद या एक मासिक या वार्षिक सब्सक्रिप्शन के रूप में उपलब्ध है, फ़ैमिली शेयरिंग के साथ।
 
-{{< app-details product="flacbox" >}}
+{{< ls-app-details product="flacbox" >}}
 
 ## विकल्प 2: Music ऐप के लिए FLAC को ALAC में बदलें
 
@@ -141,34 +141,34 @@ Flacbox मुफ़्त डाउनलोड है। Premium क्ला�
 
 ## अक्सर पूछे जाने वाले प्रश्न
 
-{{% details title="क्या iPhone FLAC फ़ाइलें मूल रूप से चला सकता है?" closed="true" %}}
+{{% ls-details title="क्या iPhone FLAC फ़ाइलें मूल रूप से चला सकता है?" closed="true" %}}
 केवल सीमित तरीके से। Files ऐप iOS 11 से एक अकेली FLAC फ़ाइल का पूर्वावलोकन कर सकता है, लेकिन कोई लाइब्रेरी, प्लेलिस्ट, क़तार, इक्वलाइज़र या क्लाउड स्ट्रीमिंग नहीं है। असली सुनने के लिए, Flacbox जैसे प्लेयर ऐप का उपयोग करें।
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="क्या मैं iPhone पर 24-bit या 96kHz (या उससे अधिक) FLAC चला सकता हूँ?" closed="true" %}}
+{{% ls-details title="क्या मैं iPhone पर 24-bit या 96kHz (या उससे अधिक) FLAC चला सकता हूँ?" closed="true" %}}
 हाँ। Flacbox 384 kHz तक हाई-रेस आउटपुट का समर्थन करता है। 48 kHz से ऊपर सही रिज़ॉल्यूशन पर चलाने के लिए, एक बाहरी USB DAC कनेक्ट करें, क्योंकि iPhone का अंतर्निहित आउटपुट हर ऐप के लिए ऑडियो को रीसैंपल करता है।
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="क्या Flacbox FLAC को किसी अन्य फ़ॉर्मेट में बदलता है?" closed="true" %}}
+{{% ls-details title="क्या Flacbox FLAC को किसी अन्य फ़ॉर्मेट में बदलता है?" closed="true" %}}
 नहीं। Flacbox FLAC को उसकी मूल लॉसलेस क्वालिटी में बिना किसी कन्वर्ज़न के चलाता है। इफ़ेक्ट और DSP केवल प्लेबैक के दौरान लाइव लागू होते हैं, और वे कभी भी आपकी फ़ाइलों को नहीं बदलते।
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="क्या FLAC को ALAC में बदलने पर मैं क्वालिटी खोता हूँ?" closed="true" %}}
+{{% ls-details title="क्या FLAC को ALAC में बदलने पर मैं क्वालिटी खोता हूँ?" closed="true" %}}
 नहीं। FLAC और ALAC दोनों लॉसलेस हैं, इसलिए कन्वर्ज़न बिट-परफ़ेक्ट है। आप केवल समय खर्च करते हैं और सुविधा छोड़ देते हैं, क्योंकि आपके पास बनाए रखने के लिए दो लाइब्रेरी हो जाती हैं और संपादन के बाद आपको फिर से सिंक करना पड़ता है।
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Flacbox किन ऑडियो फ़ॉर्मेट का समर्थन करता है?" closed="true" %}}
+{{% ls-details title="Flacbox किन ऑडियो फ़ॉर्मेट का समर्थन करता है?" closed="true" %}}
 120 से अधिक फ़ॉर्मेट, जिनमें FLAC, DSD (DSF और DFF), ALAC, APE, WAV, AIFF, WV, OGG, OPUS, MP3, AAC, M4A, WMA, और यहाँ तक कि MOD, XM, IT और S3M जैसे ट्रैकर और MOD संगीत शामिल हैं।
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="क्या Flacbox में इक्वलाइज़र, इफ़ेक्ट और विज़ुअलाइज़र है?" closed="true" %}}
+{{% ls-details title="क्या Flacbox में इक्वलाइज़र, इफ़ेक्ट और विज़ुअलाइज़र है?" closed="true" %}}
 हाँ। इसमें प्रीसेट और एक प्रीएम्प के साथ एक 10-बैंड इक्वलाइज़र है। इसमें ग्यारह रियल-टाइम इफ़ेक्ट (रीवर्ब, delay, multi-tap echo, crossfeed, कंप्रेसर, chorus, flanger, phaser, auto-wah, distortion और स्टीरियो रोटेशन) के साथ एक पेशेवर BASS इंजन भी है, साथ ही EBU R128 वॉल्यूम लेवलिंग, एक 14-फ़िल्टर DSP प्रोसेसर और 500 प्रीसेट के साथ एक फ़ुल-स्क्रीन Milkdrop विज़ुअलाइज़र।
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="क्या मैं अपने NAS या क्लाउड से FLAC स्ट्रीम कर सकता हूँ?" closed="true" %}}
+{{% ls-details title="क्या मैं अपने NAS या क्लाउड से FLAC स्ट्रीम कर सकता हूँ?" closed="true" %}}
 हाँ। Flacbox 30 से अधिक क्लाउड सेवाओं और SMB, WebDAV, DLNA, FTP, SFTP और NFS के ज़रिए एक NAS या कंप्यूटर से जुड़ता है। आपकी पूरी लाइब्रेरी आपके iPhone पर फ़ाइलें कॉपी किए बिना उपलब्ध है, और आप किसी भी समय ऑफ़लाइन प्लेबैक के लिए ट्रैक डाउनलोड कर सकते हैं।
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="क्या Flacbox वाकई मुफ़्त है?" closed="true" %}}
+{{% ls-details title="क्या Flacbox वाकई मुफ़्त है?" closed="true" %}}
 Flacbox मुफ़्त डाउनलोड है, इक्वलाइज़र, क्लाउड स्ट्रीमिंग और ऑफ़लाइन प्लेबैक जैसी मुख्य सुविधाओं के साथ। Premium क्लाउड खातों, प्लेलिस्ट और ऑफ़लाइन फ़ोल्डर पर मुफ़्त-संस्करण की सीमाओं को हटा देता है, और यह एक बार की आजीवन खरीद या एक मासिक या वार्षिक सब्सक्रिप्शन के रूप में आता है, फ़ैमिली शेयरिंग के साथ।
-{{% /details %}}
+{{% /ls-details %}}

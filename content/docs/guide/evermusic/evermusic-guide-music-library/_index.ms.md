@@ -15,7 +15,7 @@ readingTime: 11
 Mengurus perpustakaan muzik anda adalah mudah dengan Evermusic, di mana anda boleh mengatur semua trek anda dengan mudah. Anda mempunyai dua pilihan untuk membina perpustakaan muzik anda: penambahan manual atau penyegerakan automatik.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Skrin Perpustakaan Muzik Evermusic" image="/docs/guide/evermusic/evermusic-guide-music-library/img/music-library-main.webp" >}}
+  {{< ls-card title="" subtitle="Skrin Perpustakaan Muzik Evermusic" image="/docs/guide/evermusic/evermusic-guide-music-library/img/music-library-main.webp" >}}
 {{< /cards >}}
 
 ## Penambahan Manual
@@ -23,7 +23,7 @@ Mengurus perpustakaan muzik anda adalah mudah dengan Evermusic, di mana anda bol
 Untuk menambah trek secara manual, ketuk item menu "Tambah muzik" dan pilih folder/fail dari perkhidmatan storan awan yang disambungkan atau fail yang terletak pada peranti anda. Apabila anda menambah trek ke perpustakaan, hanya pautan ke trek tersebut yang dicipta, mengekalkan fail sebenar di lokasi asalnya untuk menjimatkan ruang cakera yang berharga. Jika anda ingin menjadikan trek tersedia secara luar talian, anda boleh menggunakan tindakan muat turun dari menu pilihan atau mengaktifkan mod luar talian untuk senarai main dan koleksi trek.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Tambah Lagu ke Perpustakaan Muzik" image="/docs/guide/evermusic/evermusic-guide-music-library/img/music-library-add-songs.webp" >}}
+  {{< ls-card title="" subtitle="Tambah Lagu ke Perpustakaan Muzik" image="/docs/guide/evermusic/evermusic-guide-music-library/img/music-library-add-songs.webp" >}}
 {{< /cards >}}
 
 ## Akses Pantas
@@ -75,7 +75,7 @@ Apabila anda menambah trek ke perpustakaan muzik anda, apl secara automatik memb
 Terletak tepat di bawah bar navigasi, bar alat atas menawarkan beberapa tindakan yang mudah: "Cari," "Main semua," "Kocok semua," dan "Teruskan main balik." Anda boleh mendedahkan atau menyembunyikan bar alat ini dengan isyarat luncur ke bawah yang mudah.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Paparan Album — Dikumpulkan mengikut Tag Muzik" image="/docs/guide/evermusic/evermusic-guide-music-library/img/music-library-albums.webp" >}}
+  {{< ls-card title="" subtitle="Paparan Album — Dikumpulkan mengikut Tag Muzik" image="/docs/guide/evermusic/evermusic-guide-music-library/img/music-library-albums.webp" >}}
 {{< /cards >}}
 
 ## Cari
@@ -83,7 +83,7 @@ Terletak tepat di bawah bar navigasi, bar alat atas menawarkan beberapa tindakan
 Ciri carian membolehkan anda mencari trek, artis, album, atau genre tertentu dalam perpustakaan muzik anda. Dalam "Skrin Carian," anda mempunyai akses kepada tindakan berikut: "Susun," "Tapis," "Grid/Senarai."
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Keputusan Carian Perpustakaan Muzik" image="/docs/guide/evermusic/evermusic-guide-music-library/img/music-library-search.webp" >}}
+  {{< ls-card title="" subtitle="Keputusan Carian Perpustakaan Muzik" image="/docs/guide/evermusic/evermusic-guide-music-library/img/music-library-search.webp" >}}
 {{< /cards >}}
 
 ## Menu Pilihan
@@ -91,7 +91,7 @@ Ciri carian membolehkan anda mencari trek, artis, album, atau genre tertentu dal
 Setiap lagu dalam perpustakaan muzik anda mempunyai menu dengan lebih banyak tindakan, diakses dengan mengetuk butang tiga titik berhampiran tajuk lagu. Tindakan-tindakan ini berbeza bergantung pada sama ada ia lagu tunggal atau sebahagian daripada koleksi.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Lebih Banyak Tindakan untuk Item Perpustakaan" image="/docs/guide/evermusic/evermusic-guide-music-library/img/music-library-item-more-actions.webp" >}}
+  {{< ls-card title="" subtitle="Lebih Banyak Tindakan untuk Item Perpustakaan" image="/docs/guide/evermusic/evermusic-guide-music-library/img/music-library-item-more-actions.webp" >}}
 {{< /cards >}}
 
 ### Untuk Lagu Individu
@@ -126,7 +126,7 @@ Untuk koleksi lagu seperti Album, Artis, Genre, atau Komposer, menu pilihan term
 Anda boleh mengaktifkan mod pemilihan menggunakan butang Lebih banyak tindakan di penjuru kanan atas. Dalam mod ini, anda boleh memilih beberapa trek dan melaksanakan pelbagai tindakan.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Mod Pemilihan dalam Perpustakaan Muzik" image="/docs/guide/evermusic/evermusic-guide-music-library/img/music-library-selection-mode.webp" >}}
+  {{< ls-card title="" subtitle="Mod Pemilihan dalam Perpustakaan Muzik" image="/docs/guide/evermusic/evermusic-guide-music-library/img/music-library-selection-mode.webp" >}}
 {{< /cards >}}
 
 ## Pengumpulan Tag
@@ -146,7 +146,7 @@ Kategori-kategori ini membantu anda mengatur trek anda mengikut tag muzik: Lagu,
 Apabila anda membuka bahagian Artis, Artis Album, atau Komposer, anda boleh melihat pensuisan untuk Lagu/Semua Album/Album Eksklusif/Album Solo.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Butiran Album dengan Pensuisan Lagu / Semua / Eksklusif / Solo" image="/docs/guide/evermusic/evermusic-guide-music-library/img/music-library-album-details.webp" >}}
+  {{< ls-card title="" subtitle="Butiran Album dengan Pensuisan Lagu / Semua / Eksklusif / Solo" image="/docs/guide/evermusic/evermusic-guide-music-library/img/music-library-album-details.webp" >}}
 {{< /cards >}}
 
 - **Lagu**: Memaparkan semua lagu di mana Artis/Artis Album/Komposer ini ditetapkan dalam tag audio.
@@ -167,7 +167,7 @@ Anda boleh menggunakan ciri ini untuk mencari dengan cepat mana-mana lagu, artis
 Ketuk item menu "Tetapan" untuk mengkonfigurasi keutamaan perpustakaan muzik anda.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Tetapan Perpustakaan Muzik" image="/docs/guide/evermusic/evermusic-guide-music-library/img/music-library-settings.webp" >}}
+  {{< ls-card title="" subtitle="Tetapan Perpustakaan Muzik" image="/docs/guide/evermusic/evermusic-guide-music-library/img/music-library-settings.webp" >}}
 {{< /cards >}}
 
 #### Pembacaan Metadata

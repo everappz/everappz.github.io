@@ -18,7 +18,7 @@ readingTime: 16
 Der Einstellungsbildschirm ist das Kontrollzentrum von Evermusic. Von hier aus kannst du auf Premium upgraden, den Audioplayer konfigurieren, deine Musikbibliothek verwalten, den Dateimanager einrichten, die Benutzeroberfläche anpassen, Widgets und CarPlay aktivieren, deine Daten sichern und auf Hilfe sowie rechtliche Informationen zugreifen. Bereiche sind unter Überschriften gruppiert: **Käufe & Updates**, App-Einstellungen, **Hilfe** und **Rechtliches & Datenschutz**.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evermusic Einstellungsbildschirm" image="/docs/guide/evermusic/evermusic-guide-settings/img/settings-main-screen.webp" >}}
+  {{< ls-card title="" subtitle="Evermusic Einstellungsbildschirm" image="/docs/guide/evermusic/evermusic-guide-settings/img/settings-main-screen.webp" >}}
 {{< /cards >}}
 
 ## Käufe & Updates

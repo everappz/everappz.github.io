@@ -22,7 +22,7 @@ In the Playlists section, you'll find helpful tools to manage your video collect
 Playlists in Evervideo can contain a mix of online cloud videos, offline downloaded files, local files, Photos library videos, and iOS Music library videos — all in one playlist — and play seamlessly together.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evervideo Playlists in the Media Library" image="/docs/guide/evervideo/img/evervideo-playlists-in-media-library.webp" >}}
+  {{< ls-card title="" subtitle="Evervideo Playlists in the Media Library" image="/docs/guide/evervideo/img/evervideo-playlists-in-media-library.webp" >}}
 {{< /cards >}}
 
 ## Creating a Playlist

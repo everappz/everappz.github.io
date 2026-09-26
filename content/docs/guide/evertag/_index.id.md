@@ -55,17 +55,17 @@ Tenang saja, data Anda aman. Evertag memungkinkan Anda menetapkan kata sandi unt
 Dalam panduan ini, Anda akan menemukan cara memanfaatkan kekuatan Evertag di iPhone, iPad, dan Mac Anda, membuat pengalaman manajemen musik Anda lancar dan menyenangkan.
 
 {{< cards >}}
-  {{< card icon="location-marker" title="Navigasi" subtitle="Pelajari cara menavigasi aplikasi kami dengan mudah menggunakan Tab Bar (untuk pengguna iPhone) atau Menu Kiri (untuk pengguna iPad dan Mac) untuk mengakses semua fitur aplikasi." link="/docs/guide/evertag/evertag-guide-navigation" >}}
+  {{< ls-card icon="location-marker" title="Navigasi" subtitle="Pelajari cara menavigasi aplikasi kami dengan mudah menggunakan Tab Bar (untuk pengguna iPhone) atau Menu Kiri (untuk pengguna iPad dan Mac) untuk mengakses semua fitur aplikasi." link="/docs/guide/evertag/evertag-guide-navigation" >}}
 
-  {{< card icon="cloud" title="Koneksi" subtitle="Hubungkan semua akun cloud Anda yang tersedia dengan file audio berharga Anda dengan mudah. Anda bahkan dapat mengedit file online Anda dengan mudah menggunakan pengelola file terintegrasi kami." link="/docs/guide/evertag/evertag-guide-connections" >}}
+  {{< ls-card icon="cloud" title="Koneksi" subtitle="Hubungkan semua akun cloud Anda yang tersedia dengan file audio berharga Anda dengan mudah. Anda bahkan dapat mengedit file online Anda dengan mudah menggunakan pengelola file terintegrasi kami." link="/docs/guide/evertag/evertag-guide-connections" >}}
 
-  {{< card icon="folder" title="File Lokal" subtitle="Lihat dan atur file yang tersimpan di folder Dokumen aplikasi atau di perangkat Anda. Gunakan pengelola file bawaan untuk mengedit dan mengelola file audio Anda dengan mudah." link="/docs/guide/evertag/evertag-guide-local-files" >}}
+  {{< ls-card icon="folder" title="File Lokal" subtitle="Lihat dan atur file yang tersimpan di folder Dokumen aplikasi atau di perangkat Anda. Gunakan pengelola file bawaan untuk mengedit dan mengelola file audio Anda dengan mudah." link="/docs/guide/evertag/evertag-guide-local-files" >}}
 
-  {{< card icon="pencil-alt" title="Editor Tag" subtitle="Kuasai seni manipulasi metadata file audio. Cari tahu cara mengedit metadata, mengubah sampul album, dan mengelola beberapa file secara bersamaan." link="/docs/guide/evertag/evertag-guide-tag-editor" >}}
+  {{< ls-card icon="pencil-alt" title="Editor Tag" subtitle="Kuasai seni manipulasi metadata file audio. Cari tahu cara mengedit metadata, mengubah sampul album, dan mengelola beberapa file secara bersamaan." link="/docs/guide/evertag/evertag-guide-tag-editor" >}}
 
-  {{< card icon="code" title="Pemetaan Bidang Tag" subtitle="Jelajahi daftar lengkap bidang tag audio yang didukung oleh aplikasi Evertag, termasuk nama bidang internal dan pemetaan di berbagai format metadata utama." link="/docs/guide/evertag/evertag-tag-field-mappings" >}}
+  {{< ls-card icon="code" title="Pemetaan Bidang Tag" subtitle="Jelajahi daftar lengkap bidang tag audio yang didukung oleh aplikasi Evertag, termasuk nama bidang internal dan pemetaan di berbagai format metadata utama." link="/docs/guide/evertag/evertag-tag-field-mappings" >}}
 
-  {{< card icon="adjustments" title="Pengaturan" subtitle="Temukan cara menyesuaikan pengalaman aplikasi Anda, menyempurnakan performa, mengelola penggunaan data, dan menyesuaikan preferensi bahasa dan antarmuka pengguna." link="/docs/guide/evertag/evertag-guide-settings" >}}
+  {{< ls-card icon="adjustments" title="Pengaturan" subtitle="Temukan cara menyesuaikan pengalaman aplikasi Anda, menyempurnakan performa, mengelola penggunaan data, dan menyesuaikan preferensi bahasa dan antarmuka pengguna." link="/docs/guide/evertag/evertag-guide-settings" >}}
 
-  {{< card icon="question-mark-circle" title="FAQ" subtitle="Temukan jawaban cepat untuk pertanyaan umum di bagian FAQ kami." link="/docs/faq/evertag" >}}
+  {{< ls-card icon="question-mark-circle" title="FAQ" subtitle="Temukan jawaban cepat untuk pertanyaan umum di bagian FAQ kami." link="/docs/faq/evertag" >}}
 {{< /cards >}}

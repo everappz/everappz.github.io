@@ -8,7 +8,7 @@ tags: ["موسيقى", "سحابة", "مشغل", "أداة تنزيل", "معا�
 readingTime: 8
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **باختصار:** لتشغيل FLAC على iPhone تحتاج إلى مشغّل من طرف ثالث، لأن تطبيق Music من Apple لا يدعم FLAC. ثبّت [Flacbox](/products/flacbox) (فهو مجاني)، ثم انقل ملفاتك عبر Wi-Fi Drive أو USB، أو قم بتوصيل تخزينك السحابي أو NAS. تُشغَّل مكتبة FLAC الخاصة بك بجودة كاملة، تصل إلى 384 kHz و32-bit عبر USB DAC. كما يشغّل Flacbox أكثر من 120 صيغة، بما في ذلك FLAC وDSD وALAC وAPE وWAV وOGG وOPUS، ويضيف معادل صوت من 10 نطاقات، ومحرك الصوت الاحترافي BASS مع مؤثرات فورية، ومعالج DSP، ومصوّر موسيقى بملء الشاشة.
@@ -34,7 +34,7 @@ Flacbox هو مشغّل موسيقى عالي الدقة لأجهزة iPhone وi
 
 Flacbox متاح للتنزيل مجانًا ويعمل على iPhone وiPad وMac.
 
-{{< app-details product="flacbox" >}}
+{{< ls-app-details product="flacbox" >}}
 
 ### الخطوة 2. إدخال ملفات FLAC الخاصة بك
 
@@ -82,7 +82,7 @@ Flacbox متاح للتنزيل مجانًا ويعمل على iPhone وiPad وM
 يتضمن Flacbox معادل صوت رسومي من 10 نطاقات مع إعدادات مسبقة على طراز iPod مثل Acoustic وBass Booster وRock وPop وJazz وClassical وDance. يوجد مضخّم أولي لرفع المقاطع الهادئة دون قص، ويمكنك حفظ إعداداتك المسبقة الخاصة. اضبطه لسماعات الأذن الداخلية أو HomePod أو مشغّل صوت السيارة. للحصول على شرح كامل، راجع [دليل معادل الصوت](/docs/howto/how-to-use-the-audio-equalizer-on-your-iphone-ipad-mac-with-evermusic-and-flacbox).
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="معادل صوت مشغّل Flacbox" image="/docs/guide/flacbox/img/audio-player-equalizer.webp" >}}
+  {{< ls-card title="" subtitle="معادل صوت مشغّل Flacbox" image="/docs/guide/flacbox/img/audio-player-equalizer.webp" >}}
 {{< /cards >}}
 
 ## مؤثرات صوتية فورية
@@ -106,7 +106,7 @@ Flacbox متاح للتنزيل مجانًا ويعمل على iPhone وiPad وM
 يحتوي Flacbox على مصوّر موسيقى مدمج يرسم عناصر مرئية متحركة وملونة على إيقاع موسيقاك. يستخدم محرك Milkdrop المعروف (projectM) مع 500 إعداد مسبق، مرسومة بـ OpenGL على iPhone وiPad وMac. افتحه من المشغّل بالنقر على زر المزيد من الإجراءات ثم Visualization. اختر إعدادًا مسبقًا، أو استخدم وضع Auto للتبديل بينها كل 30 ثانية مع انتقال سلس. للحصول على مساعدة خطوة بخطوة، راجع دليل [كيفية تشغيل مصوّر الموسيقى](/docs/howto/how-to-turn-on-a-music-visualizer-while-playing-music-on-iphone-ipad-mac).
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="مصوّر موسيقى Flacbox (Milkdrop and projectM)" image="/docs/howto/how-to-turn-on-a-music-visualizer-while-playing-music-on-iphone-ipad-mac/music-visualizer-starfield-sectors-preset.webp" >}}
+  {{< ls-card title="" subtitle="مصوّر موسيقى Flacbox (Milkdrop and projectM)" image="/docs/howto/how-to-turn-on-a-music-visualizer-while-playing-music-on-iphone-ipad-mac/music-visualizer-starfield-sectors-preset.webp" >}}
 {{< /cards >}}
 
 ## السحابة وNAS والتشغيل دون اتصال
@@ -127,7 +127,7 @@ Flacbox متاح للتنزيل مجانًا ويعمل على iPhone وiPad وM
 
 Flacbox مجاني للتنزيل. تزيل النسخة المميزة قيود النسخة المجانية على الحسابات السحابية وقوائم التشغيل والمجلدات غير المتصلة، وهي متاحة كعملية شراء لمرة واحدة مدى الحياة أو اشتراك شهري أو سنوي، مع مشاركة العائلة.
 
-{{< app-details product="flacbox" >}}
+{{< ls-app-details product="flacbox" >}}
 
 ## الخيار 2: تحويل FLAC إلى ALAC لتطبيق Music
 
@@ -141,34 +141,34 @@ Flacbox مجاني للتنزيل. تزيل النسخة المميزة قيود
 
 ## الأسئلة الشائعة
 
-{{% details title="هل يستطيع iPhone تشغيل ملفات FLAC بشكل أصلي؟" closed="true" %}}
+{{% ls-details title="هل يستطيع iPhone تشغيل ملفات FLAC بشكل أصلي؟" closed="true" %}}
 بطريقة محدودة فقط. يستطيع تطبيق Files معاينة ملف FLAC واحد منذ iOS 11، لكن لا توجد مكتبة أو قوائم تشغيل أو قائمة انتظار أو معادل صوت أو بث سحابي. للاستماع الحقيقي، استخدم تطبيق مشغّل مثل Flacbox.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="هل يمكنني تشغيل FLAC بدقة 24-bit أو 96kHz (أو أعلى) على iPhone؟" closed="true" %}}
+{{% ls-details title="هل يمكنني تشغيل FLAC بدقة 24-bit أو 96kHz (أو أعلى) على iPhone؟" closed="true" %}}
 نعم. يدعم Flacbox إخراجًا عالي الدقة يصل إلى 384 kHz. لتشغيل ما فوق 48 kHz بالدقة الحقيقية، قم بتوصيل USB DAC خارجي، لأن الإخراج المدمج في iPhone يعيد تحويل معدل عينات الصوت لكل تطبيق.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="هل يحوّل Flacbox صيغة FLAC إلى صيغة أخرى؟" closed="true" %}}
+{{% ls-details title="هل يحوّل Flacbox صيغة FLAC إلى صيغة أخرى؟" closed="true" %}}
 لا. يشغّل Flacbox صيغة FLAC بجودتها الأصلية بدون فقدان الجودة ودون أي تحويل. تُطبَّق المؤثرات وDSP مباشرة أثناء التشغيل فقط، وهي لا تغيّر ملفاتك أبدًا.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="هل أفقد الجودة عند تحويل FLAC إلى ALAC؟" closed="true" %}}
+{{% ls-details title="هل أفقد الجودة عند تحويل FLAC إلى ALAC؟" closed="true" %}}
 لا. كل من FLAC وALAC بدون فقدان الجودة، لذا فإن التحويل مثالي على مستوى البت. أنت تنفق الوقت وتتنازل عن الراحة فقط، لأنك تنتهي بمكتبتين للصيانة وعليك إعادة المزامنة بعد التعديلات.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="ما صيغ الصوت التي يدعمها Flacbox؟" closed="true" %}}
+{{% ls-details title="ما صيغ الصوت التي يدعمها Flacbox؟" closed="true" %}}
 أكثر من 120 صيغة، بما في ذلك FLAC وDSD (DSF وDFF) وALAC وAPE وWAV وAIFF وWV وOGG وOPUS وMP3 وAAC وM4A وWMA، وحتى موسيقى tracker وMOD مثل MOD وXM وIT وS3M.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="هل يحتوي Flacbox على معادل صوت ومؤثرات ومصوّر؟" closed="true" %}}
+{{% ls-details title="هل يحتوي Flacbox على معادل صوت ومؤثرات ومصوّر؟" closed="true" %}}
 نعم. يحتوي على معادل صوت من 10 نطاقات مع إعدادات مسبقة ومضخّم أولي. يحتوي أيضًا على محرك BASS احترافي مع أحد عشر مؤثرًا فوريًا (reverb وdelay وmulti-tap echo وcrossfeed وcompressor وchorus وflanger وphaser وauto-wah وdistortion وstereo rotation)، بالإضافة إلى موازنة صوت EBU R128، ومعالج DSP من 14 مرشحًا، ومصوّر Milkdrop بملء الشاشة مع 500 إعداد مسبق.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="هل يمكنني بث FLAC من NAS أو السحابة الخاصة بي؟" closed="true" %}}
+{{% ls-details title="هل يمكنني بث FLAC من NAS أو السحابة الخاصة بي؟" closed="true" %}}
 نعم. يتصل Flacbox بأكثر من 30 خدمة سحابية وبـ NAS أو حاسوب عبر SMB وWebDAV وDLNA وFTP وSFTP وNFS. تكون مكتبتك بأكملها متاحة دون نسخ الملفات إلى iPhone، ويمكنك تنزيل المقاطع للتشغيل دون اتصال في أي وقت.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="هل Flacbox مجاني حقًا؟" closed="true" %}}
+{{% ls-details title="هل Flacbox مجاني حقًا؟" closed="true" %}}
 Flacbox مجاني للتنزيل، مع ميزات أساسية مثل معادل الصوت والبث السحابي والتشغيل دون اتصال. تزيل النسخة المميزة قيود النسخة المجانية على الحسابات السحابية وقوائم التشغيل والمجلدات غير المتصلة، وتأتي كعملية شراء لمرة واحدة مدى الحياة أو اشتراك شهري أو سنوي، مع مشاركة العائلة.
-{{% /details %}}
+{{% /ls-details %}}

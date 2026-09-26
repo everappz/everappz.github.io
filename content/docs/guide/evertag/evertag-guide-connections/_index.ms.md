@@ -15,7 +15,7 @@ readingTime: 11
 Pada skrin ini, anda boleh menyambungkan pelbagai sumber yang mengandungi fail audio anda. Anda boleh menyepadukan perkhidmatan awan popular seperti Google Drive, Dropbox, OneDrive, iCloud, dan lain-lain, serta menyambungkan Mac atau PC anda. Selain itu, anda mempunyai pilihan untuk menyunting fail audio yang terletak di Apple Time Capsule, WD Cloud Home, atau mana-mana NAS yang menggunakan SMB atau WebDAV.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Skrin Sambungan Evertag" image="/docs/guide/evertag/img/connections.webp" >}}
+  {{< ls-card title="" subtitle="Skrin Sambungan Evertag" image="/docs/guide/evertag/img/connections.webp" >}}
 {{< /cards >}}
 
 ## Akses pantas
@@ -151,7 +151,7 @@ Berikut adalah pecahan tindakan ini:
 - **Paparan Grid/Senarai**: Tukar antara dua mod paparan: paparan jadual dan paparan lakaran kecil. Paparan jadual menyajikan fail dalam senarai, manakala paparan lakaran kecil memaparkan representasi visual fail, memudahkan pengenalpastian kandungan secara sekilas.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Isih Folder Awan Evertag" image="/docs/guide/evertag/img/cloud-storage-sort.webp" >}}
+  {{< ls-card title="" subtitle="Isih Folder Awan Evertag" image="/docs/guide/evertag/img/cloud-storage-sort.webp" >}}
 {{< /cards >}}
 
 ## Sunting Fail Dalam Talian
@@ -163,7 +163,7 @@ Apabila anda perlu mengurus berbilang fail dalam storan awan anda pada aplikasi 
 - **Lakukan Pelbagai Tindakan**: Setelah anda memilih fail atau folder yang ingin anda urus, anda akan mempunyai akses kepada beberapa tindakan yang disesuaikan mengikut keperluan anda:
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Pilih Fail Evertag" image="/docs/guide/evertag/img/cloud-storage-file-select.webp" >}}
+  {{< ls-card title="" subtitle="Pilih Fail Evertag" image="/docs/guide/evertag/img/cloud-storage-file-select.webp" >}}
 {{< /cards >}}
 
 ## Tindakan fail
@@ -180,7 +180,7 @@ Ketik padanya untuk mendedahkan senarai tindakan yang tersedia:
 - **Padam**: Berhati-hati dengan tindakan ini, kerana ia membuang fail dari storan awan anda secara kekal. **Pemadaman ini tidak boleh dibatalkan**.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Pilihan Fail Evertag" image="/docs/guide/evertag/img/cloud-storage-file-options.webp" >}}
+  {{< ls-card title="" subtitle="Pilihan Fail Evertag" image="/docs/guide/evertag/img/cloud-storage-file-options.webp" >}}
 {{< /cards >}}
 
 Jika senarai tindakan melebihi ruang skrin yang tersedia, tatal ke bawah dalam menu tindakan untuk mengakses pilihan tambahan.
@@ -196,5 +196,5 @@ Untuk setiap folder dalam storan awan anda, pelbagai tindakan tersedia. Untuk me
 - **Padam**: Berhati-hati dengan tindakan ini, kerana ia membuang folder dan kandungannya dari storan awan anda secara kekal. **Tindakan ini tidak boleh dibatalkan**.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Pilihan Folder Evertag" image="/docs/guide/evertag/img/cloud-storage-folder-options.webp" >}}
+  {{< ls-card title="" subtitle="Pilihan Folder Evertag" image="/docs/guide/evertag/img/cloud-storage-folder-options.webp" >}}
 {{< /cards >}}

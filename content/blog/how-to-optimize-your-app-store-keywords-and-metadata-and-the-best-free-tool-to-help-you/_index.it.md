@@ -14,7 +14,7 @@ authors:
     image: "/images/about/artem-meleshko-founder-everappz.webp"
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 ## Perché le parole chiave dell'App Store determinano i tuoi download
 
@@ -74,29 +74,29 @@ Con [AppKeywords.pro](https://appkeywords.pro), puoi migliorare la visibilità d
 Lo strumento è open source.
 
 {{< cards cols="1" >}}
-  {{< card link="https://github.com/everappz/app-store-keyword-optimizer/tree/main" title="appkeywords.pro su GitHub" icon="github" tag= "open source" >}}
+  {{< ls-card link="https://github.com/everappz/app-store-keyword-optimizer/tree/main" title="appkeywords.pro su GitHub" icon="github" tag= "open source" >}}
 {{< /cards >}}
 
 ---
 
 ## Domande frequenti
 
-{{% details title="AppKeywords.pro è davvero gratuito?" closed="true" %}}
+{{% ls-details title="AppKeywords.pro è davvero gratuito?" closed="true" %}}
 Sì. È uno strumento completamente open source, basato su browser, senza registrazione, pubblicità o raccolta dati.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Questo strumento funziona per più localizzazioni dell'App Store?" closed="true" %}}
+{{% ls-details title="Questo strumento funziona per più localizzazioni dell'App Store?" closed="true" %}}
 Sì. Puoi aggiungere metadati per ogni locale indipendentemente, e l'export include tutte le lingue in un unico file JSON compatibile con Fastlane.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Devo ripetere le parole chiave del titolo nel campo parole chiave?" closed="true" %}}
+{{% ls-details title="Devo ripetere le parole chiave del titolo nel campo parole chiave?" closed="true" %}}
 No. Apple indicizza già le parole dal titolo e sottotitolo. Ripeterle spreca caratteri.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Con quale frequenza devo aggiornare le parole chiave dell'App Store?" closed="true" %}}
+{{% ls-details title="Con quale frequenza devo aggiornare le parole chiave dell'App Store?" closed="true" %}}
 Rivedi e aggiorna le parole chiave almeno una volta a trimestre.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Posso usare questo strumento con Fastlane?" closed="true" %}}
+{{% ls-details title="Posso usare questo strumento con Fastlane?" closed="true" %}}
 Sì. Il repository GitHub include script shell per convertire tra la struttura di cartelle dei metadati Fastlane e il formato JSON di AppKeywords.pro.
-{{% /details %}}
+{{% /ls-details %}}

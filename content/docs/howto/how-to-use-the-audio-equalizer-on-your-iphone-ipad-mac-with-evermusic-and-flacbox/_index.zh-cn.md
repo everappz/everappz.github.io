@@ -7,7 +7,7 @@ tags: ["音乐", "音频", "均衡器", "10段", "增益", "配置", "前置放�
 keywords: ["音频均衡器 iPhone", "Evermusic EQ 预设", "Flacbox 10段均衡器", "调节低音高音 iOS", "均衡器 Mac 音乐应用", "前置放大器增强音频", "自定义声音预设"]
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **摘要：** Evermusic 和 Flacbox 包含专业的 10 段音频均衡器，带有预设（Rock、Hip-Hop、Bass Booster 等）、自定义预设创建和用于音量增强的前置放大器。适用于 iPhone、iPad 和 Mac。
@@ -105,26 +105,26 @@ Evermusic 和 Flacbox 包含 22 个内置预设。10 个频段对应频率：32 
 
 ## 常见问题
 
-{{% details title="均衡器是否适用于所有音频格式？" closed="true" %}}
+{{% ls-details title="均衡器是否适用于所有音频格式？" closed="true" %}}
 是的。Evermusic 和 Flacbox 中的 10 段 EQ 适用于 MP3、FLAC、AAC、WAV、ALAC、OGG 和所有其他支持的格式。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="EQ 设置会应用于所有歌曲吗？" closed="true" %}}
+{{% ls-details title="EQ 设置会应用于所有歌曲吗？" closed="true" %}}
 是的。一旦您激活均衡器并选择预设，它将应用于所有播放，直到您更改或关闭它。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="我可以创建多个自定义预设吗？" closed="true" %}}
+{{% ls-details title="我可以创建多个自定义预设吗？" closed="true" %}}
 是的。您可以创建、保存并在多个自定义预设之间切换。使用导出功能进行备份。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="前置放大器会导致失真吗？" closed="true" %}}
+{{% ls-details title="前置放大器会导致失真吗？" closed="true" %}}
 如果设置过高可能会。调整时注意音频电平指示器。如果电平出现削波（达到顶部），请稍微降低前置放大器增益。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="均衡器在 Evermusic 和 Flacbox 上都可用吗？" closed="true" %}}
+{{% ls-details title="均衡器在 Evermusic 和 Flacbox 上都可用吗？" closed="true" %}}
 是的。两个应用都包含相同的 10 段均衡器，带有预设、自定义预设和前置放大器。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="我可以与他人分享我的 EQ 预设吗？" closed="true" %}}
+{{% ls-details title="我可以与他人分享我的 EQ 预设吗？" closed="true" %}}
 是的。使用导出配置选项将预设保存到文件，然后分享。对方可以使用导入配置进行导入。
-{{% /details %}}
+{{% /ls-details %}}

@@ -28,19 +28,19 @@ Panduan ini menerangkan setiap bahagian aplikasi langkah demi langkah. Pilih bah
 
 
 {{< cards >}}
-  {{< card icon="play" title="Perkongsian" subtitle="Ketik Mula, pilih apa yang hendak dikongsi, dan jalankan kelima-lima pelayan sekali gus. Pelajari skrin Perkongsian dari hujung ke hujung." link="/docs/guide/everdisk/everdisk-guide-sharing" >}}
+  {{< ls-card icon="play" title="Perkongsian" subtitle="Ketik Mula, pilih apa yang hendak dikongsi, dan jalankan kelima-lima pelayan sekali gus. Pelajari skrin Perkongsian dari hujung ke hujung." link="/docs/guide/everdisk/everdisk-guide-sharing" >}}
 
-  {{< card icon="desktop-computer" title="Sambung Peranti Anda" subtitle="Cara TV, Mac atau PC, pelayar web, telefon lain, atau kabel USB menyambung ke fail kongsian anda." link="/docs/guide/everdisk/everdisk-guide-connect" >}}
+  {{< ls-card icon="desktop-computer" title="Sambung Peranti Anda" subtitle="Cara TV, Mac atau PC, pelayar web, telefon lain, atau kabel USB menyambung ke fail kongsian anda." link="/docs/guide/everdisk/everdisk-guide-connect" >}}
 
-  {{< card icon="server" title="Sambung ke Pelayan" subtitle="Capai pelayan DLNA, WebDAV, FTP, SFTP dan SMB serta pemacu NAS lain pada rangkaian anda untuk melayari, menstrim dan memuat turun." link="/docs/guide/everdisk/everdisk-guide-devices" >}}
+  {{< ls-card icon="server" title="Sambung ke Pelayan" subtitle="Capai pelayan DLNA, WebDAV, FTP, SFTP dan SMB serta pemacu NAS lain pada rangkaian anda untuk melayari, menstrim dan memuat turun." link="/docs/guide/everdisk/everdisk-guide-devices" >}}
 
-  {{< card icon="folder" title="Fail & Dokumen" subtitle="Layari, cipta folder, namakan semula, alih, salin dan padam, zip dan nyahzip, sambung folder luaran, serta imbas menjadi PDF." link="/docs/guide/everdisk/everdisk-guide-files" >}}
+  {{< ls-card icon="folder" title="Fail & Dokumen" subtitle="Layari, cipta folder, namakan semula, alih, salin dan padam, zip dan nyahzip, sambung folder luaran, serta imbas menjadi PDF." link="/docs/guide/everdisk/everdisk-guide-files" >}}
 
-  {{< card icon="music-note" title="Foto, Muzik & Video" subtitle="Kongsikan seluruh pustaka foto dan muzik anda, mainkan audio dalam pemain mini, dan tonton video skrin penuh." link="/docs/guide/everdisk/everdisk-guide-media" >}}
+  {{< ls-card icon="music-note" title="Foto, Muzik & Video" subtitle="Kongsikan seluruh pustaka foto dan muzik anda, mainkan audio dalam pemain mini, dan tonton video skrin penuh." link="/docs/guide/everdisk/everdisk-guide-media" >}}
 
-  {{< card icon="lock-closed" title="Akses & Privasi" subtitle="Lindungi perkongsian dengan log masuk dan kata laluan, benarkan atau sekat penyuntingan, sekat peranti, dan pastikan semuanya kekal tempatan." link="/docs/guide/everdisk/everdisk-guide-access" >}}
+  {{< ls-card icon="lock-closed" title="Akses & Privasi" subtitle="Lindungi perkongsian dengan log masuk dan kata laluan, benarkan atau sekat penyuntingan, sekat peranti, dan pastikan semuanya kekal tempatan." link="/docs/guide/everdisk/everdisk-guide-access" >}}
 
-  {{< card icon="adjustments" title="Tetapan" subtitle="Setiap tetapan dijelaskan: profil peranti, sambungan, kualiti foto dan video, port, pemindahan, dan banyak lagi." link="/docs/guide/everdisk/everdisk-guide-settings" >}}
+  {{< ls-card icon="adjustments" title="Tetapan" subtitle="Setiap tetapan dijelaskan: profil peranti, sambungan, kualiti foto dan video, port, pemindahan, dan banyak lagi." link="/docs/guide/everdisk/everdisk-guide-settings" >}}
 
-  {{< card icon="question-mark-circle" title="Soalan Lazim" subtitle="Jawapan pantas untuk soalan yang paling kerap ditanya dan senario dunia sebenar." link="/docs/faq/everdisk" >}}
+  {{< ls-card icon="question-mark-circle" title="Soalan Lazim" subtitle="Jawapan pantas untuk soalan yang paling kerap ditanya dan senario dunia sebenar." link="/docs/faq/everdisk" >}}
 {{< /cards >}}

@@ -8,7 +8,7 @@ tags: ["音乐", "云端", "播放器", "下载器", "均衡器", "无损", "高
 readingTime: 8
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **摘要:** 要在iPhone上播放FLAC,你需要一款第三方播放器,因为Apple的Music应用不支持FLAC。安装[Flacbox](/products/flacbox)(免费),然后通过Wi-Fi Drive或USB传输文件,或者连接你的云存储或NAS。你的FLAC库将以完整质量播放,通过USB DAC可达384 kHz和32-bit。Flacbox还能播放120多种格式,包括FLAC、DSD、ALAC、APE、WAV、OGG和OPUS,并加入了10段均衡器、带实时效果的专业BASS音频引擎、DSP处理器以及全屏音乐可视化工具。
@@ -34,7 +34,7 @@ Flacbox是一款适用于iPhone、iPad和Mac的高解析度音乐播放器。它
 
 Flacbox可免费下载,并可在iPhone、iPad和Mac上运行。
 
-{{< app-details product="flacbox" >}}
+{{< ls-app-details product="flacbox" >}}
 
 ### 第2步。导入你的FLAC文件
 
@@ -82,7 +82,7 @@ Flacbox专为在意音质的人打造,而不仅仅是随意播放:
 Flacbox包含一个10段图形均衡器,带有类似iPod的预设,如Acoustic、Bass Booster、Rock、Pop、Jazz、Classical和Dance。有一个前置放大器可在不削波的情况下提升安静曲目的音量,你还可以保存自己的预设。为入耳式监听耳机、HomePod或车载音响进行调音。有关完整教程,请参阅[均衡器指南](/docs/howto/how-to-use-the-audio-equalizer-on-your-iphone-ipad-mac-with-evermusic-and-flacbox)。
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox音频播放器均衡器" image="/docs/guide/flacbox/img/audio-player-equalizer.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox音频播放器均衡器" image="/docs/guide/flacbox/img/audio-player-equalizer.webp" >}}
 {{< /cards >}}
 
 ## 实时音频效果
@@ -106,7 +106,7 @@ Flacbox还具备基于广播级EBU R128响度标准的自动音量平衡功能�
 Flacbox内置一个音乐可视化工具,可随着你的音乐节奏绘制流动、多彩的视觉效果。它使用著名的Milkdrop引擎(projectM),带有500个预设,在iPhone、iPad和Mac上用OpenGL绘制。在播放器中点击更多操作按钮,然后选择可视化即可打开。选择一个预设,或使用Auto模式每30 秒切换一次并平滑交叉淡入淡出。有关分步帮助,请参阅关于[如何开启音乐可视化工具](/docs/howto/how-to-turn-on-a-music-visualizer-while-playing-music-on-iphone-ipad-mac)的指南。
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox音乐可视化工具 (Milkdrop and projectM)" image="/docs/howto/how-to-turn-on-a-music-visualizer-while-playing-music-on-iphone-ipad-mac/music-visualizer-starfield-sectors-preset.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox音乐可视化工具 (Milkdrop and projectM)" image="/docs/howto/how-to-turn-on-a-music-visualizer-while-playing-music-on-iphone-ipad-mac/music-visualizer-starfield-sectors-preset.webp" >}}
 {{< /cards >}}
 
 ## 云端、NAS与离线播放
@@ -127,7 +127,7 @@ Flacbox内置一个音乐可视化工具,可随着你的音乐节奏绘制流动
 
 Flacbox可免费下载。Premium会解除免费版对云账户、播放列表和离线文件夹的限制,并提供一次性终身购买或按月/按年订阅,支持家庭共享。
 
-{{< app-details product="flacbox" >}}
+{{< ls-app-details product="flacbox" >}}
 
 ## 选择2:将FLAC转换为ALAC以用于Music应用
 
@@ -141,34 +141,34 @@ Flacbox可免费下载。Premium会解除免费版对云账户、播放列表和
 
 ## 常见问题
 
-{{% details title="iPhone可以原生播放FLAC文件吗?" closed="true" %}}
+{{% ls-details title="iPhone可以原生播放FLAC文件吗?" closed="true" %}}
 仅在有限范围内。自iOS 11起,Files应用可以预览单个FLAC文件,但没有音乐库、播放列表、播放队列、均衡器或云端流式播放。要真正聆听,请使用像Flacbox这样的播放器应用。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="我可以在iPhone上播放24-bit或96kHz(或更高)的FLAC吗?" closed="true" %}}
+{{% ls-details title="我可以在iPhone上播放24-bit或96kHz(或更高)的FLAC吗?" closed="true" %}}
 可以。Flacbox支持高达384 kHz的高解析度输出。要以真实解析度播放高于48 kHz的内容,请连接外置USB DAC,因为iPhone的内置输出会为每个应用重新采样音频。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Flacbox会将FLAC转换为其他格式吗?" closed="true" %}}
+{{% ls-details title="Flacbox会将FLAC转换为其他格式吗?" closed="true" %}}
 不会。Flacbox以其原始无损质量播放FLAC,无需转换。效果和DSP仅在播放期间实时应用,它们从不改变你的文件。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="将FLAC转换为ALAC会损失质量吗?" closed="true" %}}
+{{% ls-details title="将FLAC转换为ALAC会损失质量吗?" closed="true" %}}
 不会。FLAC和ALAC都是无损格式,因此转换是比特完美的。你只是花费时间并放弃便利,因为你最终会有两个需要维护的音乐库,并且在编辑后必须重新同步。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Flacbox支持哪些音频格式?" closed="true" %}}
+{{% ls-details title="Flacbox支持哪些音频格式?" closed="true" %}}
 超过120种格式,包括FLAC、DSD(DSF和DFF)、ALAC、APE、WAV、AIFF、WV、OGG、OPUS、MP3、AAC、M4A、WMA,甚至还有MOD、XM、IT和S3M等Tracker和MOD音乐。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Flacbox有均衡器、效果和可视化工具吗?" closed="true" %}}
+{{% ls-details title="Flacbox有均衡器、效果和可视化工具吗?" closed="true" %}}
 有。它有一个带预设和前置放大器的10段均衡器。它还有一个专业的BASS引擎,带有十一种实时效果(混响、延迟、多重回声、交叉馈送、压缩器、chorus、flanger、phaser、auto-wah、distortion和stereo rotation),外加EBU R128音量平衡、一个14滤波器DSP处理器,以及一个带500个预设的全屏Milkdrop可视化工具。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="我可以从我的NAS或云端流式播放FLAC吗?" closed="true" %}}
+{{% ls-details title="我可以从我的NAS或云端流式播放FLAC吗?" closed="true" %}}
 可以。Flacbox可连接到30多种云服务,并可通过SMB、WebDAV、DLNA、FTP、SFTP和NFS连接到NAS或电脑。你的整个音乐库无需将文件复制到iPhone即可使用,而且你可以随时下载曲目以供离线播放。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Flacbox真的免费吗?" closed="true" %}}
+{{% ls-details title="Flacbox真的免费吗?" closed="true" %}}
 Flacbox可免费下载,包含均衡器、云端流式播放和离线播放等核心功能。Premium会解除免费版对云账户、播放列表和离线文件夹的限制,并以一次性终身购买或按月/按年订阅的形式提供,支持家庭共享。
-{{% /details %}}
+{{% /ls-details %}}

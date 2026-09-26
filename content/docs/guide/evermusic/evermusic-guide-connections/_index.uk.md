@@ -17,7 +17,7 @@ readingTime: 11
 Екран розділений на чітко позначені секції, що дозволяє масштабувати від єдиного акаунту iCloud Drive до бібліотеки, розподіленої між кількома хмарами та NAS-пристроями: Швидкий доступ вгорі (ваші улюблені хмарні папки), Хмарне сховище (додані акаунти), Локальна мережа (пристрої, виявлені через Bonjour), Комп'ютер (Wi-Fi Drive, iTunes File Sharing, SMB), Зовнішні аксесуари (підключені USB-флешки) та Інші сервіси (Last.fm тощо).
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Екран «З'єднання» в Evermusic" image="/docs/guide/evermusic/evermusic-guide-connections/img/connect-main.webp" >}}
+  {{< ls-card title="" subtitle="Екран «З'єднання» в Evermusic" image="/docs/guide/evermusic/evermusic-guide-connections/img/connect-main.webp" >}}
 {{< /cards >}}
 
 ## Підключення до хмарного сховища
@@ -29,7 +29,7 @@ readingTime: 11
 - Натисніть «Готово».
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Вибір провайдера хмарного сховища" image="/docs/guide/evermusic/evermusic-guide-connections/img/connect-add-storage.webp" >}}
+  {{< ls-card title="" subtitle="Вибір провайдера хмарного сховища" image="/docs/guide/evermusic/evermusic-guide-connections/img/connect-add-storage.webp" >}}
 {{< /cards >}}
 
 Якщо виникають проблеми, перевірте інтернет-з'єднання та облікові дані, а також переконайтеся, що двофакторна автентифікація налаштована правильно для цього сервісу.  
@@ -70,7 +70,7 @@ Auth-токен — це цифровий ключ, що дозволяє сто
   - **Відключити**: якщо ви хочете повністю від'єднати додаток від хмарного сервісу, виберіть «Відключити». Зверніть увагу, що цей параметр видалить усі пісні, пов'язані з цим хмарним сервісом, з музичної бібліотеки додатку, але вони залишаться на сервері.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Меню «Більше дій» для підключеного хмарного сховища" image="/docs/guide/evermusic/evermusic-guide-connections/img/connect-storage-more-actions.webp" >}}
+  {{< ls-card title="" subtitle="Меню «Більше дій» для підключеного хмарного сховища" image="/docs/guide/evermusic/evermusic-guide-connections/img/connect-storage-more-actions.webp" >}}
 {{< /cards >}}
 
 ## Підключення до комп'ютера або NAS
@@ -89,7 +89,7 @@ Auth-токен — це цифровий ключ, що дозволяє сто
 Повний посібник про те, як підключити ваш Mac або PC через SMB, доступний [тут](/docs/howto/stream-your-music-from-mac-or-pc-to-iphone-using-smb/).
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Налаштування з'єднання SMB" image="/docs/guide/evermusic/evermusic-guide-connections/img/connect-smb-settings.webp" >}}
+  {{< ls-card title="" subtitle="Налаштування з'єднання SMB" image="/docs/guide/evermusic/evermusic-guide-connections/img/connect-smb-settings.webp" >}}
 {{< /cards >}}
 
 ## Підключення до NAS через WebDAV
@@ -99,7 +99,7 @@ URL повинен бути у форматі http://server-name або https://
 Повний посібник про те, як підключити NAS за допомогою протоколу WebDAV, доступний [тут](/docs/howto/how-to-connect-nas-storage-using-webdav-and-listen-to-music-on-your-iphone-or-mac).
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Налаштування з'єднання WebDAV" image="/docs/guide/evermusic/evermusic-guide-connections/img/connect-webdav-settings.webp" >}}
+  {{< ls-card title="" subtitle="Налаштування з'єднання WebDAV" image="/docs/guide/evermusic/evermusic-guide-connections/img/connect-webdav-settings.webp" >}}
 {{< /cards >}}
 
 ## Підключення до комп'ютера або NAS через DLNA
@@ -107,7 +107,7 @@ URL повинен бути у форматі http://server-name або https://
 Ви також можете надати спільний доступ до музичної бібліотеки, розташованої на вашому Windows PC або особистому NAS, за допомогою протоколу DLNA та отримати доступ до неї в додатку, як описано [тут](/docs/howto/how-to-enable-dlna-media-server-on-windows-10-and-play-your-music-on-iphone). DLNA — це популярний і широко використовуваний протокол, але він дозволяє лише відтворювати або завантажувати музику. Ви не можете завантажувати файли на сервер або створювати нові папки.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Налаштування з'єднання DLNA" image="/docs/guide/evermusic/evermusic-guide-connections/img/connect-dlna-settings.webp" >}}
+  {{< ls-card title="" subtitle="Налаштування з'єднання DLNA" image="/docs/guide/evermusic/evermusic-guide-connections/img/connect-dlna-settings.webp" >}}
 {{< /cards >}}
 
 ## Доступні пристрої
@@ -120,7 +120,7 @@ URL повинен бути у форматі http://server-name або https://
 - Якщо потрібно, введіть облікові дані для завершення підключення.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Доступні пристрої в локальній мережі" image="/docs/guide/evermusic/evermusic-guide-connections/img/connect-available-devices.webp" >}}
+  {{< ls-card title="" subtitle="Доступні пристрої в локальній мережі" image="/docs/guide/evermusic/evermusic-guide-connections/img/connect-available-devices.webp" >}}
 {{< /cards >}}
 
 ## Wi-Fi Drive
@@ -146,7 +146,7 @@ Wi-Fi Drive — це зручна технологія, що дозволяє з
 Перетягнуті файли почнуть передаватися на ваш пристрій iOS і будуть доступні в додатку.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Налаштування сервера Wi-Fi Drive" image="/docs/guide/evermusic/evermusic-guide-connections/img/connect-wifidrive-settings.webp" >}}
+  {{< ls-card title="" subtitle="Налаштування сервера Wi-Fi Drive" image="/docs/guide/evermusic/evermusic-guide-connections/img/connect-wifidrive-settings.webp" >}}
 {{< /cards >}}
 
 Детальні інструкції про те, як бездротово передавати файли за допомогою WiFi-Drive, доступні [тут](/docs/howto/how-to-transfer-files-wirelessly-from-a-computer-to-an-iphone-using-wifi-drive).
@@ -162,7 +162,7 @@ iTunes File Sharing — ще одна технологія, що дозволя�
 Детальні інструкції про те, як використовувати iTunes File Sharing, доступні [тут](/docs/howto/how-to-play-local-itunes-files-on-my-iphone/).
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="iTunes / Finder File Sharing на Mac" image="/docs/guide/evermusic/evermusic-guide-connections/img/connect-itunes-file-sharing.webp" >}}
+  {{< ls-card title="" subtitle="iTunes / Finder File Sharing на Mac" image="/docs/guide/evermusic/evermusic-guide-connections/img/connect-itunes-file-sharing.webp" >}}
 {{< /cards >}}
 
 ## Підключення USB-флешки
@@ -183,7 +183,7 @@ iTunes File Sharing — ще одна технологія, що дозволя�
 - **Перемішати все**: аналогічно «Відтворити все», але перемішує файли перед додаванням до черги аудіоплеєра. Чудовий спосіб насолоджуватися музикою у випадковому порядку.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Верхня панель інструментів у хмарній папці" image="/docs/guide/evermusic/evermusic-guide-connections/img/connect-top-toolbar.webp" >}}
+  {{< ls-card title="" subtitle="Верхня панель інструментів у хмарній папці" image="/docs/guide/evermusic/evermusic-guide-connections/img/connect-top-toolbar.webp" >}}
 {{< /cards >}}
 
 ## Параметри папки
@@ -200,7 +200,7 @@ iTunes File Sharing — ще одна технологія, що дозволя�
 - **Вид сітки/списку**: переключитися між двома режимами перегляду: табличним і мініатюрним.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Меню «Більше дій» для поточної папки" image="/docs/guide/evermusic/evermusic-guide-connections/img/connect-folder-options.webp" >}}
+  {{< ls-card title="" subtitle="Меню «Більше дій» для поточної папки" image="/docs/guide/evermusic/evermusic-guide-connections/img/connect-folder-options.webp" >}}
 {{< /cards >}}
 
 ## Редагування онлайн-файлів
@@ -212,7 +212,7 @@ iTunes File Sharing — ще одна технологія, що дозволя�
 - **Виконати різні дії**: після вибору файлів або папок ви матимете доступ до кількох дій.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Режим вибору для онлайн-файлів" image="/docs/guide/evermusic/evermusic-guide-connections/img/connect-selection-mode.webp" >}}
+  {{< ls-card title="" subtitle="Режим вибору для онлайн-файлів" image="/docs/guide/evermusic/evermusic-guide-connections/img/connect-selection-mode.webp" >}}
 {{< /cards >}}
 
 ## Дії з файлами
@@ -233,7 +233,7 @@ iTunes File Sharing — ще одна технологія, що дозволя�
 - **Видалити**: цю дію слід використовувати обережно, оскільки вона безповоротно видаляє файл із вашого хмарного сховища.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Меню «Більше дій» для окремого файлу" image="/docs/guide/evermusic/evermusic-guide-connections/img/connect-single-folder-more-options.webp" >}}
+  {{< ls-card title="" subtitle="Меню «Більше дій» для окремого файлу" image="/docs/guide/evermusic/evermusic-guide-connections/img/connect-single-folder-more-options.webp" >}}
 {{< /cards >}}
 
 Якщо список дій виходить за межі екрана, просто прокрутіть вниз у меню дій для доступу до додаткових параметрів.

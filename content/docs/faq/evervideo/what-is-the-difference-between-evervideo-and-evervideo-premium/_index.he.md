@@ -11,7 +11,7 @@ readingTime: 3
 Evervideo מציע גם גרסה חינמית עם מגבלות שימוש מסוימות וגם גרסת Premium עם תכונות נוספות, הניתנות לפתיחה דרך רכישות בתוך האפליקציה.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="מסך שדרוג התוכנית הברירת מחדל" image="/docs/faq/evervideo/what-is-the-difference-between-evervideo-and-evervideo-premium/upgrade-default.webp" >}}
+  {{< ls-card title="" subtitle="מסך שדרוג התוכנית הברירת מחדל" image="/docs/faq/evervideo/what-is-the-difference-between-evervideo-and-evervideo-premium/upgrade-default.webp" >}}
 {{< /cards >}}
 
 ## בחר את תוכנית Premium שלך
@@ -19,7 +19,7 @@ Evervideo מציע גם גרסה חינמית עם מגבלות שימוש מס�
 הגרסה החינמית של האפליקציה מציעה רכישה חד-פעמית לכל החיים בתוך האפליקציה ושתי אפשרויות מנוי (חודש אחד ושנה אחת) להסרת כל ההגבלות ולמעבר לגרסת Premium, המאפשרת לך לבחור את המחיר הטוב והאופטימלי ביותר עבורך. המחירים עשויים להשתנות בהתאם למדינה או לשטח שלך. כמו כן, אנא זכור ש**שיתוף משפחתי** מופעל לכל הרכישות והתוכניות, כדי שתוכל לשתף את גרסת Premium עם בני משפחתך.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="מסך בחירת תוכנית Evervideo" image="/docs/faq/evervideo/what-is-the-difference-between-evervideo-and-evervideo-premium/plan-select.webp" >}}
+  {{< ls-card title="" subtitle="מסך בחירת תוכנית Evervideo" image="/docs/faq/evervideo/what-is-the-difference-between-evervideo-and-evervideo-premium/plan-select.webp" >}}
 {{< /cards >}}
 
 ## שיתוף רכישות בין iOS ל-Mac
@@ -31,13 +31,13 @@ Evervideo מציע גם גרסה חינמית עם מגבלות שימוש מס�
 כדי לשחזר את הרכישה שלך במכשיר החדש, פשוט השתמש בתפריט "שחזר רכישות". תראה את רשימת הרכישות שלך. אם אינך רואה את כל הרכישות שלך, בדוק אם המכשיר מחובר לאותו חשבון iTunes ששימש לביצוע רכישות, וודא ש-iCloud מופעל.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="מסך רכישה שוחזרה" image="/docs/faq/evervideo/what-is-the-difference-between-evervideo-and-evervideo-premium/purchase-restored.webp" >}}
+  {{< ls-card title="" subtitle="מסך רכישה שוחזרה" image="/docs/faq/evervideo/what-is-the-difference-between-evervideo-and-evervideo-premium/purchase-restored.webp" >}}
 {{< /cards >}}
 
 לאחר שתשדרג את האפליקציה, תראה את מסך מצב Premium עם פרטי הרכישות הנוכחיות שלך.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="מסך אתה משתמש ב-Premium" image="/docs/faq/evervideo/what-is-the-difference-between-evervideo-and-evervideo-premium/you-are-using-premium.webp" >}}
+  {{< ls-card title="" subtitle="מסך אתה משתמש ב-Premium" image="/docs/faq/evervideo/what-is-the-difference-between-evervideo-and-evervideo-premium/you-are-using-premium.webp" >}}
 {{< /cards >}}
 
 ## נסה Premium בחינם
@@ -45,7 +45,7 @@ Evervideo מציע גם גרסה חינמית עם מגבלות שימוש מס�
 בנוסף, יש הזדמנות מוגבלת בזמן "**נסה Premium בחינם**". תוכל לגשת לתכונה זו דרך תפריט "נסה Premium בחינם". על ידי צפייה בפרסומת או הפצת הידיעה על האפליקציה לחבריך, תוכל לפתוח את גרסת Premium בחינם במהלך תקופת קידום זו. זה מעניק לך הזדמנות לחוות את תכונות Premium ללא כל התחייבות כספית.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="מסך נסה Premium בחינם" image="/docs/faq/evervideo/what-is-the-difference-between-evervideo-and-evervideo-premium/premium-for-free.webp" >}}
+  {{< ls-card title="" subtitle="מסך נסה Premium בחינם" image="/docs/faq/evervideo/what-is-the-difference-between-evervideo-and-evervideo-premium/premium-for-free.webp" >}}
 {{< /cards >}}
 
 ## Evervideo חינמי
@@ -62,7 +62,7 @@ Evervideo מציע גם גרסה חינמית עם מגבלות שימוש מס�
 - אין אפשרויות התאמה אישית.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="מסך שדרוג אחסון ענן" image="/docs/faq/evervideo/what-is-the-difference-between-evervideo-and-evervideo-premium/upgrade-cloud-storage.webp" >}}
+  {{< ls-card title="" subtitle="מסך שדרוג אחסון ענן" image="/docs/faq/evervideo/what-is-the-difference-between-evervideo-and-evervideo-premium/upgrade-cloud-storage.webp" >}}
 {{< /cards >}}
 
 ## Evervideo Premium
@@ -106,7 +106,7 @@ Evervideo מציע גם גרסה חינמית עם מגבלות שימוש מס�
 מצד שני, **Evervideo Premium** פותח את החוויה המלאה. תיהנה מממשק ללא פרסומות, תמיכה ברשימות השמעה ותורים ללא הגבלה, פונקציונליות לא מקוונת מלאה, גמישות ענן ואפשרויות ייצוא והתאמה אישית מתקדמות. זוהי האפשרות הטובה ביותר למשתמשים עם ספריות וידאו גדולות, אלה שצופים בתוכן ממספר מקורות, או כל מי שמחפש נגן מדיה מקצועי וחלק יותר.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="מסך רכשת Premium" image="/docs/faq/evervideo/what-is-the-difference-between-evervideo-and-evervideo-premium/you-have-purchased-premium.webp" >}}
+  {{< ls-card title="" subtitle="מסך רכשת Premium" image="/docs/faq/evervideo/what-is-the-difference-between-evervideo-and-evervideo-premium/you-have-purchased-premium.webp" >}}
 {{< /cards >}}
 
 אם אתה מחפש גמישות, נסה את **התוכנית החודשית**. לערך לטווח ארוך, עבור לשדרוג **השנתי** או **לכל החיים** — שניהם מציעים גישה מלאה במחיר טוב יותר.

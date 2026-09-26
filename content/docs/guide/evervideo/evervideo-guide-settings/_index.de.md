@@ -23,7 +23,7 @@ readingTime: 16
 Der Einstellungsbildschirm ist die Steuerzentrale von Evervideo. Von hier aus können Sie auf Premium upgraden, die Video- und Audio-Engines konfigurieren (System-Codecs oder FFmpeg), Bild-in-Bild verwalten, Untertitel einrichten (primär, sekundär, libass, externe Dateien, Schriftarten), die Mediathek organisieren, den Dateimanager einrichten, Home-Screen-Widgets aktivieren, Ihre Daten sichern und auf Hilfe und rechtliche Informationen zugreifen. Die Abschnitte sind unter Überschriften gruppiert: Käufe & Updates, App-Einstellungen, Hilfe, Rechtliches & Datenschutz.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evervideo Einstellungen Hauptbildschirm" image="/docs/guide/evervideo/img/evervideo-settings.webp" >}}
+  {{< ls-card title="" subtitle="Evervideo Einstellungen Hauptbildschirm" image="/docs/guide/evervideo/img/evervideo-settings.webp" >}}
 {{< /cards >}}
 
 ## Auf Premium upgraden
@@ -31,13 +31,13 @@ Der Einstellungsbildschirm ist die Steuerzentrale von Evervideo. Von hier aus k�
 Upgraden Sie die App auf die Premium-Version, um alle Einschränkungen zu entfernen. Die kostenlose Version bietet einen einmaligen Lebzeiten-In-App-Kauf und zwei Abonnementoptionen (1 Monat und 1 Jahr), um alle Einschränkungen zu entfernen und auf Premium upzugraden.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evervideo Auf Premium upgraden" image="/docs/guide/evervideo/img/evervideo-upgrade-to-premium.webp" >}}
+  {{< ls-card title="" subtitle="Evervideo Auf Premium upgraden" image="/docs/guide/evervideo/img/evervideo-upgrade-to-premium.webp" >}}
 {{< /cards >}}
 
 **Familienfreigabe** ist für alle Käufe und Tarife aktiviert, sodass Sie die Premium-Version mit bis zu fünf Familienmitgliedern ohne zusätzliche Kosten teilen können.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evervideo Premium-Tarif auswählen" image="/docs/guide/evervideo/img/evervideo-select-premium-plan.webp" >}}
+  {{< ls-card title="" subtitle="Evervideo Premium-Tarif auswählen" image="/docs/guide/evervideo/img/evervideo-select-premium-plan.webp" >}}
 {{< /cards >}}
 
 ## Käufe zwischen iOS und Mac teilen
@@ -51,7 +51,7 @@ Sie können auch auf die Schaltfläche **Käufe wiederherstellen** in den App-Ei
 Um Ihren Kauf auf einem neuen Gerät wiederherzustellen, verwenden Sie das Menü **Käufe → Käufe wiederherstellen**. Sie sehen die Liste Ihrer Käufe. Wenn nicht alle angezeigt werden, bestätigen Sie, dass das Gerät mit derselben Apple-ID verbunden ist, die für die Käufe verwendet wurde, und stellen Sie sicher, dass iCloud aktiviert ist.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evervideo Käufe-Menü in den Einstellungen" image="/docs/guide/evervideo/img/evervideo-purhases-menu-in-settings.webp" >}}
+  {{< ls-card title="" subtitle="Evervideo Käufe-Menü in den Einstellungen" image="/docs/guide/evervideo/img/evervideo-purhases-menu-in-settings.webp" >}}
 {{< /cards >}}
 
 ## Premium kostenlos testen

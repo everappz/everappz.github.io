@@ -15,7 +15,7 @@ readingTime: 11
 บนหน้าจอนี้ คุณสามารถเชื่อมต่อแหล่งต่าง ๆ ที่มีไฟล์เสียงของคุณ คุณสามารถรวมบริการคลาวด์ยอดนิยม เช่น Google Drive, Dropbox, OneDrive, iCloud และอื่น ๆ รวมถึงเชื่อมต่อ Mac หรือ PC ของคุณ นอกจากนี้ คุณยังมีตัวเลือกในการแก้ไขไฟล์เสียงที่อยู่ใน Apple Time Capsule, WD Cloud Home หรือ NAS ใด ๆ ที่รองรับ SMB หรือ WebDAV
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="หน้าจอการเชื่อมต่อ Evertag" image="/docs/guide/evertag/img/connections.webp" >}}
+  {{< ls-card title="" subtitle="หน้าจอการเชื่อมต่อ Evertag" image="/docs/guide/evertag/img/connections.webp" >}}
 {{< /cards >}}
 
 ## การเข้าถึงด่วน
@@ -151,7 +151,7 @@ iTunes File Sharing เป็นเทคโนโลยีอีกอย่า
 - **มุมมองตาราง/รายการ**: สลับระหว่างสองโหมดการดู: มุมมองตารางและมุมมองภาพขนาดย่อ มุมมองตารางแสดงไฟล์ในรายการ ในขณะที่มุมมองภาพขนาดย่อแสดงการแสดงภาพของไฟล์ ทำให้ง่ายต่อการระบุเนื้อหาได้อย่างรวดเร็ว
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="การจัดเรียงโฟลเดอร์คลาวด์ Evertag" image="/docs/guide/evertag/img/cloud-storage-sort.webp" >}}
+  {{< ls-card title="" subtitle="การจัดเรียงโฟลเดอร์คลาวด์ Evertag" image="/docs/guide/evertag/img/cloud-storage-sort.webp" >}}
 {{< /cards >}}
 
 ## แก้ไขไฟล์ออนไลน์
@@ -163,7 +163,7 @@ iTunes File Sharing เป็นเทคโนโลยีอีกอย่า
 - **ดำเนินการต่าง ๆ**: เมื่อคุณเลือกไฟล์หรือโฟลเดอร์ที่ต้องการจัดการแล้ว คุณจะมีสิทธิ์เข้าถึงการดำเนินการหลายอย่างที่ปรับแต่งตามความต้องการของคุณ:
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="การเลือกไฟล์ Evertag" image="/docs/guide/evertag/img/cloud-storage-file-select.webp" >}}
+  {{< ls-card title="" subtitle="การเลือกไฟล์ Evertag" image="/docs/guide/evertag/img/cloud-storage-file-select.webp" >}}
 {{< /cards >}}
 
 ## การดำเนินการกับไฟล์
@@ -180,7 +180,7 @@ iTunes File Sharing เป็นเทคโนโลยีอีกอย่า
 - **ลบ**: ระวังการดำเนินการนี้ เนื่องจากจะลบไฟล์ออกจากที่จัดเก็บข้อมูลบนคลาวด์ของคุณอย่างถาวร **การลบนี้ไม่สามารถยกเลิกได้**
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="ตัวเลือกไฟล์ Evertag" image="/docs/guide/evertag/img/cloud-storage-file-options.webp" >}}
+  {{< ls-card title="" subtitle="ตัวเลือกไฟล์ Evertag" image="/docs/guide/evertag/img/cloud-storage-file-options.webp" >}}
 {{< /cards >}}
 
 หากรายการการดำเนินการเกินพื้นที่หน้าจอที่มี เพียงเลื่อนลงในเมนูการดำเนินการเพื่อเข้าถึงตัวเลือกเพิ่มเติม
@@ -196,5 +196,5 @@ iTunes File Sharing เป็นเทคโนโลยีอีกอย่า
 - **ลบ**: ระวังการดำเนินการนี้ เนื่องจากจะลบโฟลเดอร์และเนื้อหาออกจากที่จัดเก็บข้อมูลบนคลาวด์ของคุณอย่างถาวร **การดำเนินการนี้ไม่สามารถยกเลิกได้**
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="ตัวเลือกโฟลเดอร์ Evertag" image="/docs/guide/evertag/img/cloud-storage-folder-options.webp" >}}
+  {{< ls-card title="" subtitle="ตัวเลือกโฟลเดอร์ Evertag" image="/docs/guide/evertag/img/cloud-storage-folder-options.webp" >}}
 {{< /cards >}}

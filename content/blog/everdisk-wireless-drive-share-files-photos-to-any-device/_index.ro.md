@@ -12,7 +12,7 @@ authors:
     image: "/images/about/artem-meleshko-founder-everappz.webp"
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 **Pe scurt:** [Everdisk](/products/everdisk) este noua noastră aplicație care îți transformă **iPhone-ul sau iPad-ul într-un disc wireless** și într-un hub care se conectează și la celelalte dispozitive ale tale. Apasă **Start** și Everdisk pornește **patru servere deodată**: **DLNA** pentru televizoare smart și playere media, **HTTP** pentru orice browser web, **WebDAV** pentru Finder, Windows și Linux și **FTP** pentru aplicațiile de fișiere. Fiecare dispozitiv se conectează așa cum îi place. Partajează-ți fișierele, fotografiile, videoclipurile și muzica cu orice din rețeaua ta, transmite pe un televizor fără cabluri, montează-ți dispozitivul ca disc de rețea sau mută fișiere printr-un **cablu USB** atunci când nu există Wi-Fi. Everdisk se conectează și în afară, la servere **DLNA, WebDAV, FTP și SFTP**, are un **manager de fișiere** integrat cu arhivare și dezarhivare și poate **scana documente în PDF**, **adnota și semna fișiere PDF** și rula un set complet de **instrumente PDF**. Fără conturi, fără cloud și fără nicio aplicație suplimentară de instalat pe partea cealaltă. Totul rămâne în rețeaua ta locală. Descărcare gratuită, cu o achiziție opțională unică Premium Lifetime.
 
@@ -133,46 +133,46 @@ Dacă îți place aplicația, te rugăm să lași o evaluare în App Store. Chia
 
 ## Întrebări frecvente
 
-{{% details title="Ce este Everdisk?" closed="true" %}}
+{{% ls-details title="Ce este Everdisk?" closed="true" %}}
 Everdisk este o aplicație nouă care îți transformă iPhone-ul sau iPad-ul într-un disc wireless și într-un hub care se conectează și la celelalte dispozitive ale tale. Poți partaja fișierele, fotografiile, videoclipurile și muzica ta cu orice din rețeaua ta, poți naviga și transmite de pe alte servere și poți gestiona totul direct pe dispozitivul tău. Fără conturi, fără cloud și fără nicio aplicație suplimentară de instalat pe partea cealaltă. Apeși doar Start și ești gata. Aplicația rulează patru servere în același timp: DLNA pentru televizoare smart și playere media, HTTP pentru orice browser web, WebDAV pentru Finder, Windows și Linux și FTP pentru aplicațiile de fișiere și utilizatorii avansați.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Cât costă Everdisk?" closed="true" %}}
+{{% ls-details title="Cât costă Everdisk?" closed="true" %}}
 Everdisk este o descărcare gratuită. Poți să îți transformi dispozitivul într-un disc wireless, să îți partajezi fișierele în patru moduri, să transmiți pe un televizor, să montezi un disc de rețea, să transferi prin USB, să te conectezi la alte servere, să folosești managerul de fișiere, să scanezi documente și să folosești instrumentele PDF fără niciun cost. Există o achiziție opțională unică Premium Lifetime, o singură plată fără abonament, care deblochează foldere partajate și conexiuni salvate nelimitate, conversia fotografiilor și a videoclipurilor, porturi personalizate, pornirea automată a partajării și personalizarea dispozitivului. Prețurile pot varia în funcție de regiune.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Trebuie să instalez ceva pe celălalt dispozitiv?" closed="true" %}}
+{{% ls-details title="Trebuie să instalez ceva pe celălalt dispozitiv?" closed="true" %}}
 Nu. Exact acesta este scopul. Celălalt dispozitiv se conectează folosind instrumentele pe care le are deja. Un televizor smart îți găsește singur biblioteca prin DLNA, orice computer sau telefon deschide o legătură într-un browser web, iar Finder pe Mac, Windows și Linux montează dispozitivul tău ca disc de rețea prin WebDAV. Nimic de instalat pe partea cealaltă.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Cum transmit fotografii și videoclipuri pe televizorul meu?" closed="true" %}}
+{{% ls-details title="Cum transmit fotografii și videoclipuri pe televizorul meu?" closed="true" %}}
 Pune televizorul sau playerul media și dispozitivul tău pe aceeași rețea Wi-Fi, apoi apasă Start în Everdisk cu fotografiile, videoclipurile sau muzica ta partajate. Dispozitivul tău apare singur în lista de servere media a televizorului, cu miniaturi de previzualizare. Deschide-l pe televizor și bucură-te de biblioteca ta pe ecranul mare. Fără cabluri și fără aplicații suplimentare.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Cum conectez Everdisk de pe Mac sau PC?" closed="true" %}}
+{{% ls-details title="Cum conectez Everdisk de pe Mac sau PC?" closed="true" %}}
 Everdisk face ca dispozitivul tău să apară ca un disc de rețea obișnuit prin WebDAV. Pe un Mac, deschide Finder și alege Go, apoi Connect to Server, și introdu adresa WebDAV afișată în aplicație. Pe Windows, mapează un disc de rețea folosind aceeași adresă. Pe Linux, conectează-te la adresa WebDAV din managerul tău de fișiere. După conectare, poți trage și plasa în ambele sensuri. Dacă preferi să nu montezi un disc, deschide doar legătura HTTP în orice browser web.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Pot transfera fișiere fără Wi-Fi?" closed="true" %}}
+{{% ls-details title="Pot transfera fișiere fără Wi-Fi?" closed="true" %}}
 Da. Conectează-ți dispozitivul la un Mac cu același cablu USB pe care îl folosești pentru încărcare, iar fișierele trec direct prin cablu, mai rapid decât prin Wi-Fi. Deoarece nu are nevoie de o rețea wireless, acest lucru continuă să funcționeze în avion, la hotel sau în orice rețea blocată sau publică unde partajarea prin Wi-Fi este oprită.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Pot trimite fișiere de la un iPhone la altul?" closed="true" %}}
+{{% ls-details title="Pot trimite fișiere de la un iPhone la altul?" closed="true" %}}
 Da. Pornește partajarea pe un dispozitiv și deschide legătura într-un browser web pe celălalt, sau conectează-te prin WebDAV ori FTP. Poți naviga, transmite și descărca în ambele sensuri și poți chiar încărca fotografii, documente și foldere întregi înapoi pe dispozitivul care partajează.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="La ce se poate conecta Everdisk?" closed="true" %}}
+{{% ls-details title="La ce se poate conecta Everdisk?" closed="true" %}}
 Everdisk este și un client pentru alte dispozitive din rețeaua ta. Poți găsi și conecta la servere DLNA, WebDAV, FTP și SFTP, inclusiv la dispozitive NAS și servere media. După conectare, poți naviga prin folderele lor, transmite audio și video, descărca fișiere și crea foldere, încărca, redenumi, muta sau șterge atunci când serverul permite.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Pot scana documente și edita fișiere PDF în Everdisk?" closed="true" %}}
+{{% ls-details title="Pot scana documente și edita fișiere PDF în Everdisk?" closed="true" %}}
 Da. Everdisk poate scana documente pe hârtie cu camera ta. Găsește singur marginile, îndreaptă fiecare pagină și le salvează ca un PDF curat, cu mai multe pagini. Poți deschide și un PDF sau o fotografie și le poți adnota (desena, evidenția, adăuga text și forme și semna cu degetul), modificările fiind salvate înapoi în fișier. Un set complet de instrumente PDF adaugă comprimare, recunoașterea textului (OCR) într-un PDF în care se poate căuta, protecție prin parolă, verificarea permisiunilor, editarea metadatelor și aplatizare.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Este Everdisk privat și sigur?" closed="true" %}}
+{{% ls-details title="Este Everdisk privat și sigur?" closed="true" %}}
 Da. Totul rămâne în rețeaua ta locală și nu atinge niciodată internetul, așa că fișierele tale nu părăsesc niciodată casa. Fără conturi și fără cloud la mijloc. Poți proteja accesul cu un nume de utilizator și o parolă, astfel încât dispozitivele conectate să trebuiască să introducă aceleași date înainte de a-ți putea vedea fișierele, și poți bloca orice dispozitiv cu o singură atingere. Pentru cea mai bună confidențialitate, activează partajarea doar atunci când ești conectat la o rețea Wi-Fi pe care o cunoști și în care ai încredere.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Pe ce dispozitive funcționează Everdisk?" closed="true" %}}
+{{% ls-details title="Pe ce dispozitive funcționează Everdisk?" closed="true" %}}
 Everdisk funcționează pe iPhone și iPad. Partajează și se conectează la televizoare smart, playere media, computere Mac, Windows și Linux, browsere web, alte telefoane și tablete, unități NAS și orice server DLNA, WebDAV, FTP sau SFTP din rețeaua ta.
-{{% /details %}}
+{{% /ls-details %}}

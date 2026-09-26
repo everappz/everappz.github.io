@@ -15,7 +15,7 @@ readingTime: 11
 Na tejto obrazovke môžete pripojiť rôzne zdroje obsahujúce vaše audio súbory. Môžete integrovať populárne cloudové služby ako Google Drive, Dropbox, OneDrive, iCloud a ďalšie, ako aj pripojiť váš Mac alebo PC. Okrem toho máte možnosť upravovať audio súbory umiestnené v Apple Time Capsule, WD Cloud Home alebo akomkoľvek NAS, ktorý podporuje SMB alebo WebDAV.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Obrazovka Pripojenia Evertag" image="/docs/guide/evertag/img/connections.webp" >}}
+  {{< ls-card title="" subtitle="Obrazovka Pripojenia Evertag" image="/docs/guide/evertag/img/connections.webp" >}}
 {{< /cards >}}
 
 ## Rýchly prístup
@@ -151,7 +151,7 @@ Tu je prehľad týchto akcií:
 - **Zobrazenie mriežky/zoznamu**: Prepínanie medzi dvoma režimami zobrazenia: tabuľkovým zobrazením a zobrazením miniatúr. Tabuľkové zobrazenie predstavuje súbory v zozname, zatiaľ čo zobrazenie miniatúr zobrazuje vizuálne reprezentácie súborov, čo uľahčuje identifikáciu obsahu na pohľad.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Zoradenie cloudového priečinka Evertag" image="/docs/guide/evertag/img/cloud-storage-sort.webp" >}}
+  {{< ls-card title="" subtitle="Zoradenie cloudového priečinka Evertag" image="/docs/guide/evertag/img/cloud-storage-sort.webp" >}}
 {{< /cards >}}
 
 ## Úprava online súborov
@@ -163,7 +163,7 @@ Keď potrebujete spravovať viacero súborov v cloudovom úložisku v tejto apli
 - **Vykonanie rôznych akcií**: Po výbere súborov alebo priečinkov, ktoré chcete spravovať, budete mať prístup k niekoľkým akciám prispôsobeným vašim potrebám:
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Výber súboru Evertag" image="/docs/guide/evertag/img/cloud-storage-file-select.webp" >}}
+  {{< ls-card title="" subtitle="Výber súboru Evertag" image="/docs/guide/evertag/img/cloud-storage-file-select.webp" >}}
 {{< /cards >}}
 
 ## Akcie súboru
@@ -180,7 +180,7 @@ Klepnutím naň zobrazíte zoznam dostupných akcií:
 - **Vymazať**: S touto akciou buďte opatrní, pretože natrvalo odstráni súbor z cloudového úložiska. **Toto vymazanie nie je možné vrátiť**.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Možnosti súboru Evertag" image="/docs/guide/evertag/img/cloud-storage-file-options.webp" >}}
+  {{< ls-card title="" subtitle="Možnosti súboru Evertag" image="/docs/guide/evertag/img/cloud-storage-file-options.webp" >}}
 {{< /cards >}}
 
 Ak zoznam akcií presahuje dostupný priestor na obrazovke, jednoducho posuňte ponuku akcií nadol pre prístup k ďalším možnostiam.
@@ -196,5 +196,5 @@ Pre každý priečinok v cloudovom úložisku máte k dispozícii rôzne akcie. 
 - **Vymazať**: S touto akciou buďte opatrní, pretože natrvalo odstráni priečinok a jeho obsah z cloudového úložiska. **Túto akciu nie je možné vrátiť**.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Možnosti priečinka Evertag" image="/docs/guide/evertag/img/cloud-storage-folder-options.webp" >}}
+  {{< ls-card title="" subtitle="Možnosti priečinka Evertag" image="/docs/guide/evertag/img/cloud-storage-folder-options.webp" >}}
 {{< /cards >}}

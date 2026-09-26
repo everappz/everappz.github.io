@@ -16,7 +16,7 @@ readingTime: 3
 Evertag biedt een intuïtieve gebruikersinterface. Wat het onderscheidt van veel populaire apps is de ingebouwde bestandsbeheerder, die gebruikers de mogelijkheid geeft om audiobestanden te bewerken en ze naadloos over te dragen naar en van cloudopslag.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evertag Scherm" image="/docs/guide/evertag/img/tag-editor.webp" >}}
+  {{< ls-card title="" subtitle="Evertag Scherm" image="/docs/guide/evertag/img/tag-editor.webp" >}}
 {{< /cards >}}
 
 ## Secties
@@ -42,7 +42,7 @@ Het gedeelte Lokale bestanden is verdeeld in twee categorieën: **Bestanden in d
 Vrijwel elk inhoudsitem op het scherm heeft een knop "Meer acties". Tik erop voor toegang tot alle beschikbare acties.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evertag Meer acties" image="/docs/guide/evertag/img/downloads-file-actions.webp" >}}
+  {{< ls-card title="" subtitle="Evertag Meer acties" image="/docs/guide/evertag/img/downloads-file-actions.webp" >}}
 {{< /cards >}}
 
 ## Bovenste werkbalk

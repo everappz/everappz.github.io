@@ -15,7 +15,7 @@ authors:
     image: "/images/about/artem-meleshko-founder-everappz.webp"
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 ## Evermusic 3.1: What Changed and Why It Matters
 
@@ -92,22 +92,22 @@ The **Audio Tags Editor** now handles metadata correction more reliably:
 
 ## Frequently Asked Questions
 
-{{% details title="What is crossfade playback in Evermusic?" closed="true" %}}
+{{% ls-details title="What is crossfade playback in Evermusic?" closed="true" %}}
 Crossfade playback blends the ending of one track into the beginning of the next, creating seamless transitions. You can set the duration between 3 and 15 seconds in Settings → Audio Player → Crossfade Playback.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Can I back up my Evermusic playlists to cloud storage?" closed="true" %}}
+{{% ls-details title="Can I back up my Evermusic playlists to cloud storage?" closed="true" %}}
 Yes. Evermusic 3.1 lets you back up your entire library — including playlists, metadata, cover art, and settings — to any connected cloud service as a single file.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Does Evermusic support iPod library browsing?" closed="true" %}}
+{{% ls-details title="Does Evermusic support iPod library browsing?" closed="true" %}}
 Yes. You can browse your iPod library by playlists, albums, artists, and genres directly from the Evermusic home screen and add tracks to your queue.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="How do I fix incorrect song tags in Evermusic?" closed="true" %}}
+{{% ls-details title="How do I fix incorrect song tags in Evermusic?" closed="true" %}}
 Use the built-in Tags Editor and tap the Identify action. Evermusic scans your filenames and updates ID3 tags with corrected metadata automatically.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Which cloud services does Evermusic support?" closed="true" %}}
+{{% ls-details title="Which cloud services does Evermusic support?" closed="true" %}}
 Evermusic works with Dropbox, Google Drive, OneDrive, MEGA, Box, Yandex.Disk, WebDAV, SMB/CIFS, and FTP servers.
-{{% /details %}}
+{{% /ls-details %}}

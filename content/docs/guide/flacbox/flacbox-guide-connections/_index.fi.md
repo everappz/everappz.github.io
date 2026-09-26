@@ -19,7 +19,7 @@ readingTime: 12
 Tällä näytöllä voit yhdistää jokaisen lähteen, joka sisältää musiikkiasi. Voit integroida suosittuja pilvipalveluja kuten Dropbox, Google Drive, iCloud Drive, OneDrive, MEGA, Box, pCloud, Yandex Disk, Synology Drive ja paljon muuta, sekä Mac-, PC- tai NAS-laitteesi vakioprotokollia käyttäen.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox Yhteydet-näyttö" image="/docs/guide/flacbox/img/connections-main.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox Yhteydet-näyttö" image="/docs/guide/flacbox/img/connections-main.webp" >}}
 {{< /cards >}}
 
 ## Yhdistäminen Pilvivarastoon
@@ -30,7 +30,7 @@ Tällä näytöllä voit yhdistää jokaisen lähteen, joka sisältää musiikki
 - Anna tunnistetietosi pilvipalveluntarjoajan virallisella valtuutussivulla ja napauta sitten **Valmis**.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox Lisää Pilvivarastopalvelu" image="/docs/guide/flacbox/img/add-cloud-storage.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox Lisää Pilvivarastopalvelu" image="/docs/guide/flacbox/img/add-cloud-storage.webp" >}}
 {{< /cards >}}
 
 Jos kohtaat ongelmia, tarkista internet-yhteytesi ja kirjautumistietosi. Premium-versiossa voit lisätä rajattoman määrän palveluja; ilmaisversiossa enintään kolme.
@@ -126,7 +126,7 @@ Tässä osiossa näkyy jokainen laite paikallisverkossasi, johon voit yhdistää
 - Syötä tarvittaessa kirjautumistietosi.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox Saatavilla Olevat Laitteet Paikallisverkossa" image="/docs/guide/flacbox/img/available-devies.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox Saatavilla Olevat Laitteet Paikallisverkossa" image="/docs/guide/flacbox/img/available-devies.webp" >}}
 {{< /cards >}}
 
 ## Wi-Fi Drive
@@ -141,7 +141,7 @@ Wi-Fi Drive on kätevä teknologia, joka mahdollistaa langattoman tiedostonsiirr
 - Napauta **Käynnistä Wi-Fi Drive**.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox Wi-Fi Drive" image="/docs/guide/flacbox/img/wifi-drive.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox Wi-Fi Drive" image="/docs/guide/flacbox/img/wifi-drive.webp" >}}
 {{< /cards >}}
 
 ### Wi-Fi Driven Käyttö Tietokoneella
@@ -224,7 +224,7 @@ Napauta tiedoston nimen vieressä olevaa **"..."**-kuvaketta avataksesi toiminto
 - **Poistaa** — poista tiedosto pysyvästi pilvivarastostasi. **Tätä toimintoa ei voi peruuttaa.**
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox Lisää toimintoja tiedostolle yhdistetyssä pilvivarastossa" image="/docs/guide/flacbox/img/more-actions-for-file-in-connected-cloud-storage.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox Lisää toimintoja tiedostolle yhdistetyssä pilvivarastossa" image="/docs/guide/flacbox/img/more-actions-for-file-in-connected-cloud-storage.webp" >}}
 {{< /cards >}}
 
 ## Kansiotoiminnot
@@ -249,7 +249,7 @@ Jokaiselle kansiolle napauta **"..."**-kuvaketta kansion nimen vieressä:
 Pikakäyttö-osio sijaitsee näytön yläosassa ja antaa nopean pääsyn suosikki- ja äskettäin avattuihin tiedostoihin yhdistettyistä pilvipalveluista.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox Online-linkit ja Pikakäyttö" image="/docs/guide/flacbox/img/online-links.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox Online-linkit ja Pikakäyttö" image="/docs/guide/flacbox/img/online-links.webp" >}}
 {{< /cards >}}
 
 ## Muut Palvelut
@@ -257,5 +257,5 @@ Pikakäyttö-osio sijaitsee näytön yläosassa ja antaa nopean pääsyn suosikk
 Tässä osiossa näytetään lisäominaisuuksia. Tällä hetkellä sovellus tukee **Last.fm**-scrobblausta — kun se on yhdistetty, toistotilastosi lähetetään automaattisesti Last.fm-tilillesi. Yksityiskohtaiset asennusohjeet ovat saatavilla [täällä](/docs/howto/how-to-scrobble-your-music-history-from-evermusic-or-flacbox-to-last-fm).
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox Last.fm Yhdistäminen" image="/docs/guide/flacbox/img/last-fm-connect.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox Last.fm Yhdistäminen" image="/docs/guide/flacbox/img/last-fm-connect.webp" >}}
 {{< /cards >}}

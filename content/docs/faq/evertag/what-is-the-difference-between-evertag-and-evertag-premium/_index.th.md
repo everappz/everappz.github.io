@@ -11,7 +11,7 @@ tags: ["Evertag", "Premium", "ความแตกต่าง", "Pro", "ฟร
 Evertag และ Evertag Premium คือสองเวอร์ชันของแอปแก้ไขแท็กที่ทรงพลังเดียวกัน ในขณะที่ Evertag Free ให้คุณเข้าถึงเครื่องมือแก้ไขข้อมูลเมตาที่จำเป็น Evertag Premium ปลดล็อกประสบการณ์เต็มรูปแบบ — ปลอดโฆษณา ไม่จำกัด และปรับแต่งได้
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evertag Upgrade To Premium Screen" image="/docs/faq/evertag/what-is-the-difference-between-evertag-and-evertag-premium/upgrade-to-premium.webp" >}}
+  {{< ls-card title="" subtitle="Evertag Upgrade To Premium Screen" image="/docs/faq/evertag/what-is-the-difference-between-evertag-and-evertag-premium/upgrade-to-premium.webp" >}}
 {{< /cards >}}
 
 ## เลือกแผน Premium ของคุณ
@@ -19,7 +19,7 @@ Evertag และ Evertag Premium คือสองเวอร์ชันข�
 เวอร์ชันฟรีของแอปมีตัวเลือกซื้อครั้งเดียวตลอดชีพในแอปและสองตัวเลือกการสมัครสมาชิก (1 เดือนและ 1 ปี) เพื่อลบข้อจำกัดทั้งหมดและอัปเกรดเป็นเวอร์ชัน Premium ให้คุณเลือกราคาที่ดีที่สุดและเหมาะสมที่สุดสำหรับคุณ ราคาอาจแตกต่างกันขึ้นอยู่กับประเทศหรือภูมิภาคของคุณ นอกจากนี้ โปรดจำไว้ว่า **การแชร์ครอบครัว** **เปิดใช้งาน** สำหรับการซื้อและแผนทั้งหมด เพื่อให้คุณแชร์เวอร์ชัน Premium กับสมาชิกในครอบครัวได้
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evertag Select Your Premium Plan Screen" image="/docs/faq/evertag/what-is-the-difference-between-evertag-and-evertag-premium/select-your-plan.webp" >}}
+  {{< ls-card title="" subtitle="Evertag Select Your Premium Plan Screen" image="/docs/faq/evertag/what-is-the-difference-between-evertag-and-evertag-premium/select-your-plan.webp" >}}
 {{< /cards >}}
 
 ## การแชร์การซื้อระหว่าง iOS และ Mac
@@ -79,7 +79,7 @@ Evertag และ Evertag Premium คือสองเวอร์ชันข�
 คุณสามารถอัปเกรดเป็นเวอร์ชัน Premium ได้ฟรีแต่ในเวลาจำกัดเท่านั้นโดยใช้เมนู 'ลองพรีเมียมฟรี' เพียงดูโฆษณาหรือบอกเพื่อนเกี่ยวกับแอปนี้เพื่อรับเวอร์ชัน Premium ฟรี
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evertag Try Premium For Free Screen" image="/docs/faq/evertag/what-is-the-difference-between-evertag-and-evertag-premium/try-premium-for-free.webp" >}}
+  {{< ls-card title="" subtitle="Evertag Try Premium For Free Screen" image="/docs/faq/evertag/what-is-the-difference-between-evertag-and-evertag-premium/try-premium-for-free.webp" >}}
 {{< /cards >}}
 
 ## จะเลือกอะไรดี?

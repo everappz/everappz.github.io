@@ -12,7 +12,7 @@ authors:
     image: "/images/about/artem-meleshko-founder-everappz.webp"
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 **Resumen:** Evermusic ha superado los 11 millones de descargas en todo el mundo. Las funciones clave incluyen un ecualizador de 10 bandas, reproducción sin conexión, transmisión desde iCloud Drive, soporte para más de 10 servicios en la nube, sincronización entre dispositivos y un editor de etiquetas ID3 integrado.
 
@@ -70,22 +70,22 @@ Evermusic está diseñado para cualquier persona que almacene música en la nube
 
 ## Preguntas frecuentes
 
-{{% details title="¿Qué formatos de audio soporta Evermusic?" closed="true" %}}
+{{% ls-details title="¿Qué formatos de audio soporta Evermusic?" closed="true" %}}
 Evermusic reproduce MP3, FLAC, WAV, AAC, M4A, AIFF, OGG, WMA y otros formatos de audio populares.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="¿Puedo usar Evermusic sin conexión a internet?" closed="true" %}}
+{{% ls-details title="¿Puedo usar Evermusic sin conexión a internet?" closed="true" %}}
 Sí. Descarga pistas de tu almacenamiento en la nube para reproducción sin conexión. Una vez descargadas, no se necesita internet.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="¿Funciona Evermusic en Mac?" closed="true" %}}
+{{% ls-details title="¿Funciona Evermusic en Mac?" closed="true" %}}
 Sí. Evermusic está disponible tanto en iOS (iPhone/iPad) como en macOS, con sincronización de biblioteca en todos los dispositivos.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="¿Es Evermusic gratuito para descargar?" closed="true" %}}
+{{% ls-details title="¿Es Evermusic gratuito para descargar?" closed="true" %}}
 Sí. Evermusic es gratuito para descargar con funciones premium opcionales disponibles mediante compra dentro de la aplicación.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="¿Cómo funciona la transmisión desde iCloud Drive en Evermusic?" closed="true" %}}
+{{% ls-details title="¿Cómo funciona la transmisión desde iCloud Drive en Evermusic?" closed="true" %}}
 Conecta tu cuenta de iCloud Drive en la aplicación, navega por tus archivos de música y toca para reproducir. Las pistas se transmiten directamente sin necesidad de descargarlas primero.
-{{% /details %}}
+{{% /ls-details %}}

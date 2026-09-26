@@ -7,7 +7,7 @@ tags: ["mp3", "עורך", "iPhone", "תגיות", "מטא-נתונים", "id3"]
 readingTime: 2
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **תקציר:** השתמש בעורך התגיות המובנה ב-Evermusic או Flacbox כדי לערוך תגיות ID3 ב-iPhone או Mac -- גם לקבצי ענן וגם לקבצים מקומיים. צריך עריכה בכמויות או יותר מ-120 שדות תגיות? השתמש ב-[Evertag](https://apps.apple.com/app/apple-store/id1450763230?pt=95781850&ct=everappzcom&mt=8) במקום.
@@ -21,8 +21,8 @@ readingTime: 2
 בעוד שאפליקציות שולחן עבודה רבות מציעות עריכת מטא-נתונים, Evermusic ו-Flacbox לוקחים את הפשטות לרמה הבאה על ידי הכללת עורך תגיות ID3. כעת, תוכל להשתמש באפליקציה אחת כדי לבנות את ספריית המוזיקה שלך, ליהנות מהרצועות שלך ולתקן תגיות שמע.
 
 {{< cards cols="2">}}
-{{< card link="https://apps.apple.com/app/apple-store/id885367198?pt=95781850&ct=everappzcom&mt=8" title="הורד Evermusic" icon="download" tag="Free" >}}
-{{< card link="https://apps.apple.com/app/apple-store/id1097564256?pt=95781850&ct=everappzcom&mt=8" title="הורד Flacbox" icon="download" tag="Free" >}}
+{{< ls-card link="https://apps.apple.com/app/apple-store/id885367198?pt=95781850&ct=everappzcom&mt=8" title="הורד Evermusic" icon="download" tag="Free" >}}
+{{< ls-card link="https://apps.apple.com/app/apple-store/id1097564256?pt=95781850&ct=everappzcom&mt=8" title="הורד Flacbox" icon="download" tag="Free" >}}
 {{< /cards >}}
 
 ## עורך מקצועי
@@ -30,7 +30,7 @@ readingTime: 2
 אך לפני שתתחיל, בדוק את אפליקציית **Evertag** — היא תומכת ב-**יותר מ-120 תגיות שמע**, **יותר מ-30 פורמטי שמע**, ומציעה **עריכה בכמויות** עוצמתית. אם אתה מחפש כלי מלא לניהול תגיות, Evertag הוא הבחירה הנכונה. עם זאת, אם אתה רק צריך **עורך תגיות פשוט**, המשך עם המדריך הזה.
 
 {{< cards >}}
-{{< card link="https://apps.apple.com/app/apple-store/id1450763230?pt=95781850&ct=everappzcom&mt=8" title="הורד Evertag" icon="download" tag="Free" >}}
+{{< ls-card link="https://apps.apple.com/app/apple-store/id1450763230?pt=95781850&ct=everappzcom&mt=8" title="הורד Evertag" icon="download" tag="Free" >}}
 {{< /cards >}}
 
 
@@ -38,21 +38,21 @@ readingTime: 2
 קשר את חשבון הענן המועדף עליך בתוך האפליקציה.
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="חיבור שרת ענן" image="/docs/howto/how-to-edit-id3-tags-on-iphone/connect_cloud_server.webp" >}}
+{{< ls-card title="" subtitle="חיבור שרת ענן" image="/docs/howto/how-to-edit-id3-tags-on-iphone/connect_cloud_server.webp" >}}
 {{< /cards >}}
 
 ## נווט לקבצי השמע שלך  
 פתח את התיקייה המכילה את קבצי השמע שלך בחשבון הענן המחובר.
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="תיקיות ענן" image="/docs/howto/how-to-edit-id3-tags-on-iphone/cloud_server_folders.webp" >}}
+{{< ls-card title="" subtitle="תיקיות ענן" image="/docs/howto/how-to-edit-id3-tags-on-iphone/cloud_server_folders.webp" >}}
 {{< /cards >}}
 
 ## גישה לאפשרויות הקובץ  
 הקש על כפתור 'עוד' ('...') ליד הקובץ שברצונך לערוך.
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="פעולות נוספות" image="/docs/howto/how-to-edit-id3-tags-on-iphone/cloud_server_audio_more_actions.webp" >}}
+{{< ls-card title="" subtitle="פעולות נוספות" image="/docs/howto/how-to-edit-id3-tags-on-iphone/cloud_server_audio_more_actions.webp" >}}
 {{< /cards >}}
 
 ## בחר 'ערוך תגיות שמע'  
@@ -70,7 +70,7 @@ readingTime: 2
 לאחר שסיימת לערוך, הקש על כפתור 'שמור' כדי לשמור את השינויים שלך.
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="עורך תגיות" image="/docs/howto/how-to-edit-id3-tags-on-iphone/tags_editor.webp" >}}
+{{< ls-card title="" subtitle="עורך תגיות" image="/docs/howto/how-to-edit-id3-tags-on-iphone/tags_editor.webp" >}}
 {{< /cards >}}
 
 ## השלמה אוטומטית חכמה  
@@ -88,7 +88,7 @@ readingTime: 2
 - **עבור לסעיף "קבצים מקומיים"**, ואז גלול למטה אל **"קבצים במכשיר זה."**
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="קבצים במכשיר זה" image="/docs/howto/how-to-edit-id3-tags-on-iphone/local_files.webp" >}}
+{{< ls-card title="" subtitle="קבצים במכשיר זה" image="/docs/howto/how-to-edit-id3-tags-on-iphone/local_files.webp" >}}
 {{< /cards >}}
 
 - הקש על **"חבר תיקייה"**.
@@ -96,25 +96,25 @@ readingTime: 2
 - בבורר התיקיות, בחר את הספרייה שאליה ברצונך לגשת והקש על **"פתח"** לאישור.
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="חיבור תיקייה חיצונית" image="/docs/howto/how-to-edit-id3-tags-on-iphone/connect_external_folder.webp" >}}
+{{< ls-card title="" subtitle="חיבור תיקייה חיצונית" image="/docs/howto/how-to-edit-id3-tags-on-iphone/connect_external_folder.webp" >}}
 {{< /cards >}}
 
 - לאחר הוספת התיקייה, הקש עליה כדי לצפות בקבצים שבתוכה.
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="תוכן תיקייה חיצונית" image="/docs/howto/how-to-edit-id3-tags-on-iphone/connected_external_folder.webp" >}}
+{{< ls-card title="" subtitle="תוכן תיקייה חיצונית" image="/docs/howto/how-to-edit-id3-tags-on-iphone/connected_external_folder.webp" >}}
 {{< /cards >}}
 
 - בדיוק כמו עם קבצי ענן, הקש על כפתור **"פעולות נוספות"** ליד קובץ שמע ובחר **"ערוך תגיות שמע".**
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="פעולות נוספות - קובץ מקומי" image="/docs/howto/how-to-edit-id3-tags-on-iphone/more_actions_local_file.webp" >}}
+{{< ls-card title="" subtitle="פעולות נוספות - קובץ מקומי" image="/docs/howto/how-to-edit-id3-tags-on-iphone/more_actions_local_file.webp" >}}
 {{< /cards >}}
 
 - עורך התגיות ייפתח. בצע את השינויים שלך והקש על **"שמור"**. זהו! העריכות שלך מוחלות ישירות על הקובץ — אין צורך להעתיק או להזיז דבר.
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="עורך תגיות - קובץ מקומי" image="/docs/howto/how-to-edit-id3-tags-on-iphone/tag_editor_local_file.webp" >}}
+{{< ls-card title="" subtitle="עורך תגיות - קובץ מקומי" image="/docs/howto/how-to-edit-id3-tags-on-iphone/tag_editor_local_file.webp" >}}
 {{< /cards >}}
 
 ## עריכת עטיפת אלבום
@@ -126,7 +126,7 @@ readingTime: 2
 3. בחר תמונה להחלה כעטיפה.
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="בחירת תמונה" image="/docs/howto/how-to-edit-id3-tags-on-iphone/tags_editor_choose_image.webp" >}}
+{{< ls-card title="" subtitle="בחירת תמונה" image="/docs/howto/how-to-edit-id3-tags-on-iphone/tags_editor_choose_image.webp" >}}
 {{< /cards >}}
 
 ## פעולות נוספות בעורך התגיות
@@ -134,7 +134,7 @@ readingTime: 2
 אפשרויות עריכה נוספות זמינות דרך סרגל הכלים מתחת לתצוגת הגרפיקה.
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="תפריט פעולות נוספות" image="/docs/howto/how-to-edit-id3-tags-on-iphone/tags_edito_more_actions.webp" >}}
+{{< ls-card title="" subtitle="תפריט פעולות נוספות" image="/docs/howto/how-to-edit-id3-tags-on-iphone/tags_edito_more_actions.webp" >}}
 {{< /cards >}}
 
 ### חיפוש אוטומטי של תגיות שמע
@@ -195,22 +195,22 @@ readingTime: 2
 
 ## שאלות נפוצות
 
-{{% details title="אילו פורמטי שמע אני יכול לערוך?" closed="true" %}}
+{{% ls-details title="אילו פורמטי שמע אני יכול לערוך?" closed="true" %}}
 Evermusic ו-Flacbox תומכים בעריכת תגיות עבור MP3, FLAC, AAC, OGG ופורמטי שמע נפוצים אחרים. Evertag תומך ביותר מ-30 פורמטים כולל WAV, AIFF, WMA ו-APE.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="האם אני יכול לערוך תגיות עבור קבצים המאוחסנים בשירותי ענן?" closed="true" %}}
+{{% ls-details title="האם אני יכול לערוך תגיות עבור קבצים המאוחסנים בשירותי ענן?" closed="true" %}}
 כן. חבר את חשבון ה-Dropbox, Google Drive, OneDrive או חשבון ענן אחר שלך. האפליקציה מורידה את הקובץ, מאפשרת לך לערוך תגיות ומעלה אוטומטית את הקובץ המשונה בחזרה לענן.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="מה ההבדל בין Evermusic/Flacbox ל-Evertag?" closed="true" %}}
+{{% ls-details title="מה ההבדל בין Evermusic/Flacbox ל-Evertag?" closed="true" %}}
 Evermusic ו-Flacbox הם נגני מוזיקה עם עורך תגיות בסיסי מובנה. Evertag הוא עורך תגיות ייעודי התומך ביותר מ-120 תגיות שמע, עריכה בכמויות ויותר מ-30 פורמטים -- אידיאלי לניהול ספריות גדולות.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="האם תכונת החיפוש האוטומטי דורשת חיבור לאינטרנט?" closed="true" %}}
+{{% ls-details title="האם תכונת החיפוש האוטומטי דורשת חיבור לאינטרנט?" closed="true" %}}
 כן. תכונת החיפוש האוטומטי של תגיות שמע שולחת שאילתות למסד הנתונים המקוון MusicBrainz כדי למצוא ולמלא מטא-נתונים. נדרש חיבור אינטרנט פעיל לתכונה זו.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="האם עריכת תגיות תשנה את איכות השמע שלי?" closed="true" %}}
+{{% ls-details title="האם עריכת תגיות תשנה את איכות השמע שלי?" closed="true" %}}
 לא. עריכת תגיות משנה רק את המטא-נתונים המוטבעים בקובץ. נתוני השמע עצמם נשארים ללא שינוי -- לא מתבצע קידוד מחדש.
-{{% /details %}}
+{{% /ls-details %}}

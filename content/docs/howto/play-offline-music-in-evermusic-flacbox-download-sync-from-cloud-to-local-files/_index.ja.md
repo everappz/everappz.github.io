@@ -7,7 +7,7 @@ tags: ["音楽", "オーディオ", "プレーヤー", "オフライン", "モ�
 keywords: ["オフライン音楽 iPhone", "クラウド音楽同期", "Evermusic オフライン", "Flacbox 音楽同期", "インターネットなしで音楽再生", "クラウドからオーディオダウンロード", "ローカルファイル再生 iOS"]
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **要約:** EvermusicとFlacboxを使用すると、クラウドストレージ（Google Drive、Dropbox、OneDriveなど）からiPhoneやiPadに音楽をダウンロードしてオフライン再生できます。直接ダウンロード、自動同期付きオフラインモード、オーディオプレーヤーキャッシュの3つの方法を使用できます。このガイドでは、3つのアプローチすべてをステップバイステップで説明します。
@@ -140,26 +140,26 @@ keywords: ["オフライン音楽 iPhone", "クラウド音楽同期", "Evermusi
 
 ## よくある質問
 
-{{% details title="EvermusicとFlacboxはどのクラウドサービスに対応していますか？" closed="true" %}}
+{{% ls-details title="EvermusicとFlacboxはどのクラウドサービスに対応していますか？" closed="true" %}}
 両方のアプリはGoogle Drive、Dropbox、OneDrive、Box、MEGA、Yandex.Disk、その他の主要なクラウドストレージプロバイダーに対応しています。複数のサービスを同時に接続できます。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="クラウドストレージからiPhoneに自動的に音楽を同期できますか？" closed="true" %}}
+{{% ls-details title="クラウドストレージからiPhoneに自動的に音楽を同期できますか？" closed="true" %}}
 はい。任意のフォルダー、プレイリスト、アルバム、またはアーティストのオフラインモードを有効にします。アプリは設定可能な間隔（デフォルト：1日1回）でクラウドからデバイスへの一方向同期を実行します。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="オフラインモードはデバイスのストレージを大量に使用しますか？" closed="true" %}}
+{{% ls-details title="オフラインモードはデバイスのストレージを大量に使用しますか？" closed="true" %}}
 ストレージの使用量は、音楽コレクションのサイズとファイル形式によって異なります。同期する特定のフォルダーを選択し、キャッシュサイズの制限を設定し、アプリの設定でストレージを監視することで制御できます。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="オフライン再生にはどのオーディオ形式がサポートされていますか？" closed="true" %}}
+{{% ls-details title="オフライン再生にはどのオーディオ形式がサポートされていますか？" closed="true" %}}
 EvermusicとFlacboxはMP3、FLAC、AAC、ALAC、WAV、AIFF、OGG、WMA、その他多くの形式をサポートしています。FlacboxはFLACやALACなどのロスレス形式に最適化されています。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="アプリを閉じてもオフライン音楽は再生され続けますか？" closed="true" %}}
+{{% ls-details title="アプリを閉じてもオフライン音楽は再生され続けますか？" closed="true" %}}
 はい。ダウンロードされたファイルはデバイスにローカルに保存され、インターネット接続に関係なくアプリのオーディオプレーヤーで再生されます。バックグラウンド再生は完全にサポートされています。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="オフライン音楽が占めるスペースを解放するにはどうすればよいですか？" closed="true" %}}
+{{% ls-details title="オフライン音楽が占めるスペースを解放するにはどうすればよいですか？" closed="true" %}}
 **設定** > ファイルマネージャー > **同期されたオフラインフォルダー**で特定のフォルダーのオフラインモードを無効にします。これにより、デバイスからローカルコピーが削除されます。オーディオプレーヤーキャッシュをクリアしたり、ダウンロードしたファイルを手動で削除することもできます。
-{{% /details %}}
+{{% /ls-details %}}

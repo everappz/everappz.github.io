@@ -62,7 +62,7 @@ Det som skiller blått og rødt er **hvordan de er pakket i App Store**, hvilke 
 
 ### Last ned i App Store
 
-{{< app-details ids="885367198, 905746421, 1564384601" >}}
+{{< ls-app-details ids="885367198, 905746421, 1564384601" >}}
 
 ### App Store-pakking
 
@@ -142,7 +142,7 @@ Gratisversjonen er flott for uformelle lyttere, mens Premium og Pro er rettet mo
 
 ## Ofte stilte spørsmål
 
-{{% details title="Jeg kjøpte Evermusic Pro (eller Premium) med en gammel Apple-konto. Kan jeg overføre det til en ny Apple-konto?" closed="true" %}}
+{{% ls-details title="Jeg kjøpte Evermusic Pro (eller Premium) med en gammel Apple-konto. Kan jeg overføre det til en ny Apple-konto?" closed="true" %}}
 I følge Apples offisielle dokumentasjon kan kjøp fra en annen Apple-konto deles gjennom Familiedeling / Kjøpsdeling, forutsatt at kontoene er konfigurert riktig innenfor den samme Familiedeling-gruppen.
 
 Hvis Evermusic Pro ble kjøpt med den gamle Apple-kontoen din, gir Apple et alternativ for å bruke den kontoen som en sekundær Apple-konto for Kjøpsdeling.
@@ -202,30 +202,30 @@ Derfor, hvis det er upraktisk å konfigurere Apple Familiedeling med den gamle k
 Vær oppmerksom på at Apple Familiedeling, Kjøpsdeling, Apple-kontoer og App Store-kjøpshistorikk administreres helt og holdent av Apple. Vi har ikke tilgang til brukernes Apple-kontoer og kan ikke overføre App Store-kjøp fra én Apple-konto til en annen fra vår side.
 
 Hvis du opplever problemer spesifikt med Familiedeling eller med å få tilgang til kjøpet gjort med den gamle Apple-kontoen din, må Apple Support sjekke konfigurasjonen av kontoene.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Jeg har allerede oppgradert Evermusic Free (blått) til Premium. Trenger jeg også Evermusic Pro (rødt)?" closed="true" %}}
+{{% ls-details title="Jeg har allerede oppgradert Evermusic Free (blått) til Premium. Trenger jeg også Evermusic Pro (rødt)?" closed="true" %}}
 Nei. Evermusic Pro (rødt ikon) er den samme appen som Evermusic Free (blått ikon) med Premium allerede låst opp. Hvis du allerede har oppgradert den blå appen til Premium, har du alt Pro tilbyr, så det er ingen grunn til å installere eller kjøpe den røde appen.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Støttes Familiedeling, og hvor mange personer kan bruke kjøpet mitt?" closed="true" %}}
+{{% ls-details title="Støttes Familiedeling, og hvor mange personer kan bruke kjøpet mitt?" closed="true" %}}
 Ja. Familiedeling fungerer med alle Evermusic-kjøp og -abonnementer, slik at du kan dele Premium med opptil fem familiemedlemmer. Slå på Kjøpsdeling i Innstillinger → Familie på enheten din. Hvert familiemedlem laster ned appen med sin egen Apple-konto og får Premium automatisk.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Jeg oppgraderte til Premium på iPhone-en min, men Mac-en min viser fortsatt gratisversjonen. Hvordan fikser jeg det?" closed="true" %}}
+{{% ls-details title="Jeg oppgraderte til Premium på iPhone-en min, men Mac-en min viser fortsatt gratisversjonen. Hvordan fikser jeg det?" closed="true" %}}
 Premium deles mellom iPhone og Mac gjennom iCloud. Sørg først for at begge enhetene bruker samme Apple-konto og har iCloud slått på. På iPhone-en din åpner du den nyeste versjonen av Evermusic og venter omtrent ett minutt slik at kjøpet ditt lastes opp til iCloud. Du kan også trykke på Gjenopprett kjøp i Innstillinger. Åpne deretter den nyeste versjonen på Mac-en din, koble til internett, og vent omtrent ett minutt. Premium skal slå seg på av seg selv.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Hvordan gjenoppretter jeg kjøpet mitt på en ny enhet?" closed="true" %}}
+{{% ls-details title="Hvordan gjenoppretter jeg kjøpet mitt på en ny enhet?" closed="true" %}}
 Åpne Innstillinger i appen og trykk på Gjenopprett kjøp. Du vil se kjøpene dine, og Premium slår seg på igjen. Hvis et kjøp mangler, sørg for at enheten bruker den samme Apple-kontoen du kjøpte med, og at iCloud er slått på.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Hvis jeg installerer Evermusic Pro (rødt), låser det opp Premium i Evermusic Free (blått)?" closed="true" %}}
+{{% ls-details title="Hvis jeg installerer Evermusic Pro (rødt), låser det opp Premium i Evermusic Free (blått)?" closed="true" %}}
 Ja. Hvis du installerer den røde Evermusic Pro på en enhet, oppdager den blå Evermusic Free på den samme enheten den og slår på Premium automatisk. Du trenger ikke å kjøpe Premium på nytt i den blå appen. Du trenger bare å holde den røde appen installert.
 
 Det fungerer ikke omvendt. Å kjøpe Premium inne i den blå appen gjør ikke den røde Evermusic Pro gratis, fordi de er separate apper i App Store. Kjøp i de blå appene synkroniseres gjennom iCloud mellom den blå iPhone-appen og den blå Mac-appen.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Kan jeg bruke Premium på en Intel-Mac?" closed="true" %}}
+{{% ls-details title="Kan jeg bruke Premium på en Intel-Mac?" closed="true" %}}
 Ja. Bruk den blå Evermusic Free-appen og oppgrader til Premium. Den blå Mac-appen kjører på både Apple Silicon- og Intel-Macer. Den røde Evermusic Pro kjører bare på Apple Silicon-Macer (M1 og senere) og kan ikke installeres på Intel-Macer.
-{{% /details %}}
+{{% /ls-details %}}

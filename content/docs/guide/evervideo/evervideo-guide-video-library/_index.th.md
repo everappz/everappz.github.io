@@ -21,7 +21,7 @@ readingTime: 8
 คุณมีสองวิธีในการเพิ่มสื่อในไลบรารี: **การเพิ่มด้วยตนเอง** (คุณเลือกเองว่าจะเพิ่มอะไร) หรือ **การซิงค์อัตโนมัติ** (Evervideo สแกนโฟลเดอร์คลาวด์ที่กำหนดและเพิ่มไฟล์ใหม่โดยอัตโนมัติเมื่อปรากฏขึ้น)
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="ไลบรารีสื่อ Evervideo" image="/docs/guide/evervideo/img/evervideo-genres-in-media-library.webp" >}}
+  {{< ls-card title="" subtitle="ไลบรารีสื่อ Evervideo" image="/docs/guide/evervideo/img/evervideo-genres-in-media-library.webp" >}}
 {{< /cards >}}
 
 ## การเพิ่มด้วยตนเอง
@@ -92,7 +92,7 @@ Evervideo ยังอ่านวิดีโอจากไลบรารี�
 ส่วนนี้แสดงวิดีโอที่เล่นล่าสุดทั้งหมดพร้อมตำแหน่งการเล่นล่าสุด เพื่อให้คุณกลับมาดูต่อได้ด้วยการแตะครั้งเดียว คุณสามารถเปลี่ยนจำนวนรายการที่รายการเก็บได้ใน การตั้งค่า → ไลบรารีสื่อ → ล่าสุด → เปลี่ยนขนาดรายการ และส่งออกรายการเป็น M3U / CSV / TXT เพื่อสำรองประวัติการรับชม
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evervideo ล่าสุด — วิดีโอที่ดูล่าสุด" image="/docs/guide/evervideo/img/evervideo-recents.webp" >}}
+  {{< ls-card title="" subtitle="Evervideo ล่าสุด — วิดีโอที่ดูล่าสุด" image="/docs/guide/evervideo/img/evervideo-recents.webp" >}}
 {{< /cards >}}
 
 ## รายการโปรด
@@ -104,7 +104,7 @@ Evervideo ยังอ่านวิดีโอจากไลบรารี�
 Evervideo ติดตามตำแหน่งการเล่นของวิดีโอทุกรายการที่คุณดู วิดีโอทุกรายการในรายการใดก็ตาม — ล่าสุด รายการโปรด อัลบั้ม ประเภท เพลย์ลิสต์ โฟลเดอร์ — แสดงแถบความคืบหน้าเล็กๆ เพื่อให้คุณเห็นในทันทีว่าดูไปแล้วเท่าไหร่ ซึ่งทำให้จัดการซีซันรายการทีวียาวๆ เพลย์ลิสต์หลักสูตร และคืนการรับชมแบบต่อเนื่องได้อย่างง่ายดาย
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="รายละเอียดประเภท Evervideo พร้อมความคืบหน้าการรับชมต่อไฟล์" image="/docs/guide/evervideo/img/evervideo-genre-detail-with-playback-progress-for-watched-files.webp" >}}
+  {{< ls-card title="" subtitle="รายละเอียดประเภท Evervideo พร้อมความคืบหน้าการรับชมต่อไฟล์" image="/docs/guide/evervideo/img/evervideo-genre-detail-with-playback-progress-for-watched-files.webp" >}}
 {{< /cards >}}
 
 ## แถบเครื่องมือด้านบน
@@ -116,7 +116,7 @@ Evervideo ติดตามตำแหน่งการเล่นของ�
 ฟีเจอร์ค้นหาช่วยให้คุณค้นหาชื่อเรื่อง อัลบั้ม ประเภท หรือเพลย์ลิสต์เฉพาะภายในไลบรารีสื่อของคุณ ในหน้าจอค้นหา คุณมีสิทธิ์เข้าถึงการดำเนินการ จัดเรียง กรอง และมุมมองตาราง / รายการ การค้นหาจะทำงานในเครื่องกับฐานข้อมูลไลบรารีสื่อ ดังนั้นจึงทำงานออฟไลน์ได้อย่างสมบูรณ์และส่งคืนผลลัพธ์ขณะที่คุณพิมพ์
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="การค้นหาไลบรารีสื่อ Evervideo" image="/docs/guide/evervideo/img/evervideo-library-search.webp" >}}
+  {{< ls-card title="" subtitle="การค้นหาไลบรารีสื่อ Evervideo" image="/docs/guide/evervideo/img/evervideo-library-search.webp" >}}
 {{< /cards >}}
 
 ## เมนูตัวเลือก

@@ -8,7 +8,7 @@ aliases:
   - /post/export-tracks-collection-from-evermusic-flacbox-to-m3u-csv-txt/
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **TL;DR:** Evermusic and Flacbox let you export any track collection (recents, favorites, playlists, albums) to CSV, TXT, or M3U files. Use these exports to scrobble to Last.fm, back up your library, or play your playlists on other devices.
@@ -159,22 +159,22 @@ Exporting your tracks from Evermusic and Flacbox gives you complete control over
 
 ## FAQ
 
-{{% details title="Which export format should I use for Last.fm scrobbling?" closed="true" %}}
+{{% ls-details title="Which export format should I use for Last.fm scrobbling?" closed="true" %}}
 Use CSV. It includes timestamps and full metadata required by scrobbling tools like Last.fm-Scrubbler-WPF.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Can I export any track collection, not just playlists?" closed="true" %}}
+{{% ls-details title="Can I export any track collection, not just playlists?" closed="true" %}}
 Yes. You can export recents, favorites, albums, playlists, and any other track collection in the app using the same steps.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Will my M3U playlist work on other devices?" closed="true" %}}
+{{% ls-details title="Will my M3U playlist work on other devices?" closed="true" %}}
 If you choose the Absolute URL option during export, the M3U file can be played on any device that supports M3U playlists. Note that some cloud URLs may expire over time.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Is the export feature free?" closed="true" %}}
+{{% ls-details title="Is the export feature free?" closed="true" %}}
 Yes. Exporting track collections to M3U, CSV, and TXT is available in both the free and premium versions of Evermusic and Flacbox.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="What cloud services support Absolute URL export?" closed="true" %}}
+{{% ls-details title="What cloud services support Absolute URL export?" closed="true" %}}
 Absolute URL export is supported for iCloud Drive, pCloud, PanBaidu, MyCloudHome, DLNA, MediaFire, OneDrive, Box, Dropbox, Google Drive, and WebDAV (guest mode).
-{{% /details %}}
+{{% /ls-details %}}

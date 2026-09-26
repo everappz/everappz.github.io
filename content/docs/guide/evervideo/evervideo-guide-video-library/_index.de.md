@@ -21,7 +21,7 @@ Die **Mediathek** ist das Herzstück von Evervideo. Sie bringt jede Video- und M
 Sie haben zwei Möglichkeiten, Medien zu Ihrer Bibliothek hinzuzufügen: **Manuelle Hinzufügung** (Sie wählen genau aus, was hinzugefügt wird) oder **Automatische Synchronisierung** (Evervideo scannt bestimmte Cloud-Ordner und fügt neue Dateien automatisch hinzu, wenn sie erscheinen).
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evervideo Mediathek" image="/docs/guide/evervideo/img/evervideo-genres-in-media-library.webp" >}}
+  {{< ls-card title="" subtitle="Evervideo Mediathek" image="/docs/guide/evervideo/img/evervideo-genres-in-media-library.webp" >}}
 {{< /cards >}}
 
 ## Manuelle Hinzufügung
@@ -92,7 +92,7 @@ Wenn nicht alle Ihre Titel angezeigt werden, stellen Sie sicher, dass die App je
 Dieser Abschnitt zeigt alle kürzlich abgespielten Videos mit ihrer letzten Wiedergabeposition an, sodass Sie jedes von ihnen mit einem Tippen fortsetzen können. Sie können ändern, wie viele Einträge die Liste behält in Einstellungen → Mediathek → Zuletzt gespielt → Listengröße ändern, und die Liste als M3U / CSV / TXT exportieren, um Ihren Wiederschauverlauf zu sichern.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evervideo Zuletzt gespielt — Kürzlich angesehene Videos" image="/docs/guide/evervideo/img/evervideo-recents.webp" >}}
+  {{< ls-card title="" subtitle="Evervideo Zuletzt gespielt — Kürzlich angesehene Videos" image="/docs/guide/evervideo/img/evervideo-recents.webp" >}}
 {{< /cards >}}
 
 ## Favoriten
@@ -104,7 +104,7 @@ Markieren Sie Videos als Favoriten auf dem Player-Bildschirm oder über das Opti
 Evervideo verfolgt die Wiedergabeposition jedes Videos, das Sie ansehen. Jedes Video in einer Liste — Zuletzt gespielt, Favoriten, ein Album, ein Genre, eine Wiedergabeliste, ein Ordner — zeigt einen kleinen Fortschrittsbalken an, damit Sie auf einen Blick sehen können, wie viel davon Sie bereits gesehen haben. Das macht lange TV-Staffeln, Kurswiedergabelisten und Binge-Watch-Nächte mühelos zu verwalten.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evervideo Genre-Detail mit Wiederschaufortschritt pro Datei" image="/docs/guide/evervideo/img/evervideo-genre-detail-with-playback-progress-for-watched-files.webp" >}}
+  {{< ls-card title="" subtitle="Evervideo Genre-Detail mit Wiederschaufortschritt pro Datei" image="/docs/guide/evervideo/img/evervideo-genre-detail-with-playback-progress-for-watched-files.webp" >}}
 {{< /cards >}}
 
 ## Obere Symbolleiste
@@ -116,7 +116,7 @@ Die obere Symbolleiste befindet sich direkt unter der Navigationsleiste und biet
 Die Suchfunktion ermöglicht es Ihnen, einen bestimmten Titel, ein Album, ein Genre oder eine Wiedergabeliste in Ihrer Mediathek zu finden. Im Suchbildschirm haben Sie Zugriff auf Sortieren, Filtern und Raster/Listen-Ansicht. Die Suche läuft lokal gegen die Mediathek-Datenbank, funktioniert also vollständig offline und liefert Ergebnisse, während Sie tippen.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evervideo Mediathek-Suche" image="/docs/guide/evervideo/img/evervideo-library-search.webp" >}}
+  {{< ls-card title="" subtitle="Evervideo Mediathek-Suche" image="/docs/guide/evervideo/img/evervideo-library-search.webp" >}}
 {{< /cards >}}
 
 ## Optionsmenü

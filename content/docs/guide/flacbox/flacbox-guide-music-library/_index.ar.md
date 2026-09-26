@@ -19,7 +19,7 @@ readingTime: 11
 إدارة مكتبة الموسيقى الخاصة بك أمر سهل مع Flacbox، حيث يمكنك تنظيم جميع مساراتك بسهولة — FLAC وALAC وDSD وMP3 وM4A وOGG وWMA وAPE وعشرات الصيغ الأخرى محلياً — في مجموعة واحدة قابلة للبحث. لديك خياران لبناء مكتبة الموسيقى: الإضافة اليدوية (تختار بالضبط ما يُضاف) أو المزامنة التلقائية (يفحص Flacbox المجلدات السحابية المخصصة ويضيف الملفات الجديدة تلقائياً عند ظهورها).
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="عرض ألبومات مكتبة الموسيقى في Flacbox" image="/docs/guide/flacbox/img/media-library-albums.webp" >}}
+  {{< ls-card title="" subtitle="عرض ألبومات مكتبة الموسيقى في Flacbox" image="/docs/guide/flacbox/img/media-library-albums.webp" >}}
 {{< /cards >}}
 
 ## الإضافة اليدوية
@@ -27,7 +27,7 @@ readingTime: 11
 لإضافة المسارات يدوياً، انقر على أيقونة **إضافة موسيقى** في الزاوية العلوية اليسرى واختر المجلدات أو الملفات من خدمة تخزين سحابي متصلة أو ملفات موجودة على جهازك. عند إضافة المسارات إلى المكتبة، لا تُنشأ سوى روابط لتلك المسارات — تبقى الملفات الفعلية في مواقعها الأصلية لتوفير مساحة القرص الثمينة. إذا أردت أن تتوفر المسارات غير متصلة، يمكنك استخدام إجراء التنزيل من قائمة الخيارات أو تفعيل وضع عدم الاتصال لقوائم التشغيل ومجموعات المسارات.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="إضافة أغاني إلى مكتبة الموسيقى في Flacbox" image="/docs/guide/flacbox/img/library-add-songs.webp" >}}
+  {{< ls-card title="" subtitle="إضافة أغاني إلى مكتبة الموسيقى في Flacbox" image="/docs/guide/flacbox/img/library-add-songs.webp" >}}
 {{< /cards >}}
 
 يمكنك أيضاً سحب الملفات وإفلاتها في المكتبة على إصدار Mac، أو استخدام **فتح الملفات…** / **فتح المجلد…** من منتقي الملفات النظامي على iPhone وiPad.
@@ -89,7 +89,7 @@ readingTime: 11
 تمكّنك ميزة البحث من تحديد موقع مسار أو فنان أو ألبوم أو نوع معين ضمن مكتبة الموسيقى. ضمن شاشة البحث، لديك وصول إلى إجراءات الفرز والتصفية وعرض الشبكة / القائمة. يعمل البحث محلياً ضد قاعدة بيانات مكتبة الموسيقى، لذا يعمل بالكامل غير متصل ويُرجع نتائج أثناء الكتابة.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="بحث مكتبة الموسيقى في Flacbox" image="/docs/guide/flacbox/img/media-library-search.webp" >}}
+  {{< ls-card title="" subtitle="بحث مكتبة الموسيقى في Flacbox" image="/docs/guide/flacbox/img/media-library-search.webp" >}}
 {{< /cards >}}
 
 ## قائمة الخيارات
@@ -140,7 +140,7 @@ readingTime: 11
 هذا مفيد بشكل خاص لتنظيف تجميعات "فنانون متعددون" المتشابكة في المكتبات الكبيرة.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="شاشة تفاصيل الألبوم في Flacbox" image="/docs/guide/flacbox/img/media-library-album-details-screen.webp" >}}
+  {{< ls-card title="" subtitle="شاشة تفاصيل الألبوم في Flacbox" image="/docs/guide/flacbox/img/media-library-album-details-screen.webp" >}}
 {{< /cards >}}
 
 ## الإعدادات

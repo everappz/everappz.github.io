@@ -8,7 +8,7 @@ tags: ["zene", "felhő", "lejátszó", "letöltő", "hangszínszabályzó", "ves
 readingTime: 8
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **Röviden:** Ahhoz, hogy FLAC fájlt játssz le iPhone-on, harmadik féltől származó lejátszóra van szükséged, mert az Apple Zene alkalmazása nem támogatja a FLAC-ot. Telepítsd a [Flacbox](/products/flacbox) alkalmazást (ingyenes), majd vagy vidd át a fájljaidat Wi-Fi Drive-on vagy USB-n keresztül, vagy csatlakoztasd a felhőtárhelyedet vagy NAS-odat. A FLAC gyűjteményed teljes minőségben szól, akár 384 kHz és 32-bit felbontásban egy USB DAC-on keresztül. A Flacbox több mint 120 formátumot is lejátszik, köztük FLAC, DSD, ALAC, APE, WAV, OGG és OPUS fájlokat, és hozzáad egy 10 sávos hangszínszabályzót, a professzionális BASS hangmotort valós idejű effektekkel, egy DSP processzort és egy teljes képernyős zenei vizualizálót.
@@ -34,7 +34,7 @@ A Flacbox egy hi-res zenelejátszó iPhone-ra, iPadre és Macre. A felhőtárhel
 
 A Flacbox ingyenesen letölthető, és iPhone-on, iPaden és Macen fut.
 
-{{< app-details product="flacbox" >}}
+{{< ls-app-details product="flacbox" >}}
 
 ### 2. lépés. A FLAC fájljaid behozása
 
@@ -82,7 +82,7 @@ A lejátszási motort a Beállítások, majd Audiolejátszó, majd Audiokodek me
 A Flacbox tartalmaz egy 10 sávos grafikus hangszínszabályzót iPod stílusú beállításokkal, például Acoustic, Bass Booster, Rock, Pop, Jazz, Classical és Dance. Van egy előerősítő a halk számok kiemelésére vágás nélkül, és elmentheted a saját beállításaidat. Hangold be fülhallgatóhoz, HomePodhoz vagy autórádióhoz. A teljes útmutatóért lásd a [hangszínszabályzó útmutatót](/docs/howto/how-to-use-the-audio-equalizer-on-your-iphone-ipad-mac-with-evermusic-and-flacbox).
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox Audiolejátszó hangszínszabályzó" image="/docs/guide/flacbox/img/audio-player-equalizer.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox Audiolejátszó hangszínszabályzó" image="/docs/guide/flacbox/img/audio-player-equalizer.webp" >}}
 {{< /cards >}}
 
 ## Valós idejű hangeffektek
@@ -106,7 +106,7 @@ Az effekteken túl a Flacbox egy valós idejű, 14 szűrős DSP processzort ad n
 A Flacboxnak van egy beépített zenei vizualizálója, amely mozgó, színes vizuális elemeket fest a zenéddel összhangban. A jól ismert Milkdrop motort (projectM) használja 500 beállítással, OpenGL-lel megrajzolva iPhone-on, iPaden és Macen. Nyisd meg a lejátszóból a Továbbiak gombra, majd a Vizualizáció menüpontra koppintva. Válassz egy beállítást, vagy használd az Auto módot, hogy 30 másodpercenként végigpörgesd őket sima áttűnéssel. Lépésről lépésre segítségért lásd az útmutatót arról, [hogyan kapcsold be a zenei vizualizálót](/docs/howto/how-to-turn-on-a-music-visualizer-while-playing-music-on-iphone-ipad-mac).
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox zenei vizualizáló (Milkdrop és projectM)" image="/docs/howto/how-to-turn-on-a-music-visualizer-while-playing-music-on-iphone-ipad-mac/music-visualizer-starfield-sectors-preset.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox zenei vizualizáló (Milkdrop és projectM)" image="/docs/howto/how-to-turn-on-a-music-visualizer-while-playing-music-on-iphone-ipad-mac/music-visualizer-starfield-sectors-preset.webp" >}}
 {{< /cards >}}
 
 ## Felhő, NAS és offline lejátszás
@@ -127,7 +127,7 @@ Amikor magaddal akarod vinni a zenédet, a beépített letöltéskezelő teljes 
 
 A Flacbox ingyenesen letölthető. A Premium eltávolítja az ingyenes verzió korlátait a felhőfiókokra, lejátszási listákra és offline mappákra vonatkozóan, és elérhető egyszeri, élethosszig tartó vásárlásként vagy havi, illetve éves előfizetésként, Családi megosztással.
 
-{{< app-details product="flacbox" >}}
+{{< ls-app-details product="flacbox" >}}
 
 ## 2. lehetőség: FLAC konvertálása ALAC-ra a Zene alkalmazáshoz
 
@@ -141,34 +141,34 @@ A kompromisszumok valósak. Mostantól két másolatot tartasz a könyvtáradbó
 
 ## GYIK
 
-{{% details title="Le tudja játszani az iPhone natívan a FLAC fájlokat?" closed="true" %}}
+{{% ls-details title="Le tudja játszani az iPhone natívan a FLAC fájlokat?" closed="true" %}}
 Csak korlátozottan. A Fájlok alkalmazás az iOS 11 óta képes egyetlen FLAC fájl előnézetére, de nincs könyvtár, lejátszási listák, sor, hangszínszabályzó vagy felhőstreamelés. A valódi zenehallgatáshoz használj egy lejátszó alkalmazást, például a Flacboxot.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Le tudok játszani 24-bites vagy 96kHz-es (vagy magasabb) FLAC-ot iPhone-on?" closed="true" %}}
+{{% ls-details title="Le tudok játszani 24-bites vagy 96kHz-es (vagy magasabb) FLAC-ot iPhone-on?" closed="true" %}}
 Igen. A Flacbox akár 384 kHz-ig támogatja a hi-res kimenetet. Ahhoz, hogy 48 kHz felett valódi felbontásban játssz le, csatlakoztass egy külső USB DAC-ot, mert az iPhone beépített kimenete minden alkalmazásnál újramintavételezi a hangot.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Konvertálja a Flacbox a FLAC-ot egy másik formátumra?" closed="true" %}}
+{{% ls-details title="Konvertálja a Flacbox a FLAC-ot egy másik formátumra?" closed="true" %}}
 Nem. A Flacbox a FLAC-ot az eredeti veszteségmentes minőségében játssza le konvertálás nélkül. Az effekteket és a DSP-t csak élőben, lejátszás közben alkalmazza, és soha nem változtatják meg a fájljaidat.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Vesztek minőséget, ha FLAC-ot ALAC-ra konvertálok?" closed="true" %}}
+{{% ls-details title="Vesztek minőséget, ha FLAC-ot ALAC-ra konvertálok?" closed="true" %}}
 Nem. A FLAC és az ALAC egyaránt veszteségmentes, így a konvertálás bit-tökéletes. Csak időt fordítasz rá, és lemondasz a kényelemről, mivel két könyvtárral kell foglalkoznod, és a szerkesztések után újra kell szinkronizálnod.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Milyen hangformátumokat támogat a Flacbox?" closed="true" %}}
+{{% ls-details title="Milyen hangformátumokat támogat a Flacbox?" closed="true" %}}
 Több mint 120 formátumot, köztük FLAC, DSD (DSF és DFF), ALAC, APE, WAV, AIFF, WV, OGG, OPUS, MP3, AAC, M4A, WMA, sőt tracker és MOD zenét is, mint a MOD, XM, IT és S3M.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Van a Flacboxnak hangszínszabályzója, effektjei és vizualizálója?" closed="true" %}}
+{{% ls-details title="Van a Flacboxnak hangszínszabályzója, effektjei és vizualizálója?" closed="true" %}}
 Igen. Van egy 10 sávos hangszínszabályzó beállításokkal és egy előerősítő. Van egy professzionális BASS motorja is tizenegy valós idejű effekttel (zengetés, késleltetés, multi-tap visszhang, crossfeed, kompresszor, chorus, flanger, phaser, auto-wah, distortion és stereo rotation), valamint EBU R128 hangerő-kiegyenlítés, egy 14 szűrős DSP processzor és egy teljes képernyős Milkdrop vizualizáló 500 beállítással.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Tudok FLAC-ot streamelni a NAS-omról vagy a felhőből?" closed="true" %}}
+{{% ls-details title="Tudok FLAC-ot streamelni a NAS-omról vagy a felhőből?" closed="true" %}}
 Igen. A Flacbox több mint 30 felhőszolgáltatáshoz és egy NAS-hoz vagy számítógéphez csatlakozik SMB, WebDAV, DLNA, FTP, SFTP és NFS protokollon keresztül. A teljes könyvtárad elérhető anélkül, hogy fájlokat másolnál az iPhone-odra, és bármikor letölthetsz számokat offline lejátszáshoz.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Tényleg ingyenes a Flacbox?" closed="true" %}}
+{{% ls-details title="Tényleg ingyenes a Flacbox?" closed="true" %}}
 A Flacbox ingyenesen letölthető, olyan alapfunkciókkal, mint a hangszínszabályzó, a felhőstreamelés és az offline lejátszás. A Premium eltávolítja az ingyenes verzió korlátait a felhőfiókokra, lejátszási listákra és offline mappákra vonatkozóan, és egyszeri, élethosszig tartó vásárlásként vagy havi, illetve éves előfizetésként érkezik, Családi megosztással.
-{{% /details %}}
+{{% /ls-details %}}

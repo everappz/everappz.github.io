@@ -7,7 +7,7 @@ keywords: ["WebDAV sunucusu iPhone", "WebDAV sunucusu iPad", "iPhone'da WebDAV n
 readingTime: 9
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 WebDAV, bir klasörü, bir bilgisayarın normal dosya yöneticisinde açabileceği bir ağ sürücüsüne dönüştürür. Tarayıcınızın kullandığı aynı web protokolü üzerinden çalışır; bu yüzden özel sürücüler olmadan Mac, Windows ve Linux arasında iyi taşınır. [Everdisk](/products/everdisk) ile iPhone veya iPad cihazınızda bir WebDAV sunucusu çalıştırabilirsiniz; böylece telefon, neredeyse her bilgisayardan göz atabileceğiniz, kopyalayabileceğiniz ve içine kopyalayabileceğiniz bir sürücü olarak görünür.
 
@@ -104,40 +104,40 @@ Ayarlar, Paylaşım, Erişim'deki **Dosya Düzenleme** anahtarı buna karar veri
 
 ## Sıkça Sorulan Sorular
 
-{{% details title="iPhone'um için WebDAV adresi ve bağlantı noktası nedir?" closed="true" %}}
+{{% ls-details title="iPhone'um için WebDAV adresi ve bağlantı noktası nedir?" closed="true" %}}
 Paylaşımı başlattıktan sonra Everdisk adresi Paylaşım ekranında gösterir. http://192.168.1.20:8080 gibi görünür. 8080, Everdisk'in WebDAV için kullandığı bağlantı noktasıdır ve ilk kısım iPhone'unuzun Wi-Fi'deki adresidir; bu nedenle sizinki farklı olacaktır.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="iPhone WebDAV'ıma Windows'tan nasıl bağlanırım?" closed="true" %}}
+{{% ls-details title="iPhone WebDAV'ıma Windows'tan nasıl bağlanırım?" closed="true" %}}
 Dosya Gezgini'ni açın, Bu Bilgisayar'a sağ tıklayın ve Ağ konumu ekle veya Ağ sürücüsü eşle'yi seçin. Everdisk'teki WebDAV adresini girin, örneğin http://192.168.1.20:8080, ardından ayarladıysanız oturum açma bilgilerinizi girin. Windows bağlanmazsa, WebClient hizmetinin çalıştığından emin olun (Hizmetler'i arayın, WebClient'i bulun, başlatın) ve yeniden deneyin.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="İki iPhone arasında WebDAV kullanabilir miyim?" closed="true" %}}
+{{% ls-details title="İki iPhone arasında WebDAV kullanabilir miyim?" closed="true" %}}
 Evet, ama iOS Dosyalar uygulamasında WebDAV istemcisi yoktur; bu nedenle ikinci cihazda Everdisk'i kullanın. Cihazlar sekmesini açın, Yeni Bağlantı'ya dokunun, WebDAV'ı seçin ve ilk telefonda gösterilen adresi girin. Documents by Readdle gibi bir WebDAV uygulaması da çalışır.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="WebDAV bir parola gerektirir mi?" closed="true" %}}
+{{% ls-details title="WebDAV bir parola gerektirir mi?" closed="true" %}}
 Hayır, oturum açma isteğe bağlıdır. Konuk erişimi için Ayarlar, Paylaşım, Erişim'de Kullanıcı Adı ve Parola'yı boş bırakın veya bağlantıların oturum açmasını istiyorsanız onları ayarlayın.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Başkaları WebDAV üzerinden dosyalarımı değiştirebilir mi?" closed="true" %}}
+{{% ls-details title="Başkaları WebDAV üzerinden dosyalarımı değiştirebilir mi?" closed="true" %}}
 Yalnızca izin verirseniz. Ayarlar, Paylaşım, Erişim'deki Dosya Düzenleme anahtarı bunu kontrol eder. Açık, bağlı cihazların yüklemesine, yeniden adlandırmasına ve silmesine izin verir. Kapalı, sürücüyü salt okunur yapar; böylece diğerleri görüntüleyip kopyalayabilir ancak hiçbir şeyi değiştiremez.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="WebDAV veya SMB, fark nedir?" closed="true" %}}
+{{% ls-details title="WebDAV veya SMB, fark nedir?" closed="true" %}}
 Her ikisi de iPhone'unuzu bir ağ sürücüsü olarak bağlar. WebDAV, web protokolü üzerinden çalışır ve Windows Dosya Gezgini'nden sorunsuz bağlanır; bu onun ana gücüdür. SMB, Mac, Linux ve NAS cihazlarındaki yerel dosya paylaşımıdır, bir Mac'te genellikle daha hızlıdır ve aktarımları şifreleyebilen tek Everdisk bağlantısıdır. Everdisk her ikisini de aynı anda çalıştırabilir.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="WebDAV sürücüm neden bağlantısı kesiliyor?" closed="true" %}}
+{{% ls-details title="WebDAV sürücüm neden bağlantısı kesiliyor?" closed="true" %}}
 iPhone'unuz sunucudur ve iOS çok uzun süre arka planda kalan uygulamaları duraklatır. Bir cihaz bağlıyken Everdisk'i ekranda açık tutun ve uzun aktarımlar için güce takın. Ayrıca her iki cihazın da hâlâ aynı Wi-Fi'de olduğunu doğrulayın.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Wi-Fi olmadan WebDAV üzerinden bağlanabilir miyim?" closed="true" %}}
+{{% ls-details title="Wi-Fi olmadan WebDAV üzerinden bağlanabilir miyim?" closed="true" %}}
 Evet, iPhone'unuzu bir Mac'e kabloyla takarsanız. Everdisk daha sonra, bağlı Mac'in Finder'da açabileceği ekstra bir kablo bağlantı adresi gösterir; bu, hiç Wi-Fi olmasa bile çalışır. Kabloda cihaza yalnızca o Mac ulaşabilir.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Everdisk ücretsiz mi?" closed="true" %}}
+{{% ls-details title="Everdisk ücretsiz mi?" closed="true" %}}
 Evet, Everdisk ücretsiz indirilir ve WebDAV sunucusu dahildir. İsteğe bağlı, tek seferlik Premium satın alma, özel bağlantı noktaları ve fotoğraf ve video dönüştürme gibi ekstralar ekler. WebDAV'ı ödeme yapmadan kurabilir ve dosya paylaşabilirsiniz.
-{{% /details %}}
+{{% /ls-details %}}
 
 Denemeye hazır mısınız? [Everdisk'i App Store'dan indirin](https://apps.apple.com/app/apple-store/id6751851132?pt=95781850&ct=everappzcom&mt=8) ve birkaç dakika içinde iPhone'unuzu bir sürücü olarak bağlayın. Sorularınız veya geri bildiriminiz mi var? Bize **support@everappz.com** adresinden e-posta gönderin.

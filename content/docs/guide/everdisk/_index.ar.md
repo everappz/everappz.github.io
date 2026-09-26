@@ -28,19 +28,19 @@ Everdisk متاح للتنزيل مجانا مع إمكانية شراء Premium
 
 
 {{< cards >}}
-  {{< card icon="play" title="المشاركة" subtitle="اضغط على بدء، واختر ما تريد مشاركته، وشغّل الخوادم الخمسة دفعة واحدة. تعرّف على شاشة المشاركة من أولها إلى آخرها." link="/docs/guide/everdisk/everdisk-guide-sharing" >}}
+  {{< ls-card icon="play" title="المشاركة" subtitle="اضغط على بدء، واختر ما تريد مشاركته، وشغّل الخوادم الخمسة دفعة واحدة. تعرّف على شاشة المشاركة من أولها إلى آخرها." link="/docs/guide/everdisk/everdisk-guide-sharing" >}}
 
-  {{< card icon="desktop-computer" title="توصيل أجهزتك" subtitle="كيف يتصل تلفزيون أو جهاز Mac أو PC أو متصفح ويب أو هاتف آخر أو كابل USB بملفاتك المشتركة." link="/docs/guide/everdisk/everdisk-guide-connect" >}}
+  {{< ls-card icon="desktop-computer" title="توصيل أجهزتك" subtitle="كيف يتصل تلفزيون أو جهاز Mac أو PC أو متصفح ويب أو هاتف آخر أو كابل USB بملفاتك المشتركة." link="/docs/guide/everdisk/everdisk-guide-connect" >}}
 
-  {{< card icon="server" title="الاتصال بالخوادم" subtitle="اوصل إلى خوادم DLNA وWebDAV وFTP وSFTP وSMB وأقراص NAS الأخرى على شبكتك لتصفح ملفاتها وبثها وتنزيلها." link="/docs/guide/everdisk/everdisk-guide-devices" >}}
+  {{< ls-card icon="server" title="الاتصال بالخوادم" subtitle="اوصل إلى خوادم DLNA وWebDAV وFTP وSFTP وSMB وأقراص NAS الأخرى على شبكتك لتصفح ملفاتها وبثها وتنزيلها." link="/docs/guide/everdisk/everdisk-guide-devices" >}}
 
-  {{< card icon="folder" title="الملفات والمستندات" subtitle="تصفّح وأنشئ المجلدات وأعد التسمية وانقل وانسخ واحذف واضغط وفك الضغط ووصّل المجلدات الخارجية وامسح ضوئيا إلى PDF." link="/docs/guide/everdisk/everdisk-guide-files" >}}
+  {{< ls-card icon="folder" title="الملفات والمستندات" subtitle="تصفّح وأنشئ المجلدات وأعد التسمية وانقل وانسخ واحذف واضغط وفك الضغط ووصّل المجلدات الخارجية وامسح ضوئيا إلى PDF." link="/docs/guide/everdisk/everdisk-guide-files" >}}
 
-  {{< card icon="music-note" title="الصور والموسيقى والفيديو" subtitle="شارك مكتبة صورك وموسيقاك بالكامل، وشغّل الصوت في المشغّل المصغّر، وشاهد الفيديو بملء الشاشة." link="/docs/guide/everdisk/everdisk-guide-media" >}}
+  {{< ls-card icon="music-note" title="الصور والموسيقى والفيديو" subtitle="شارك مكتبة صورك وموسيقاك بالكامل، وشغّل الصوت في المشغّل المصغّر، وشاهد الفيديو بملء الشاشة." link="/docs/guide/everdisk/everdisk-guide-media" >}}
 
-  {{< card icon="lock-closed" title="الوصول والخصوصية" subtitle="احمِ المشاركة باسم دخول وكلمة مرور، واسمح بالتعديل أو امنعه، واحظر الأجهزة، وأبقِ كل شيء محليا." link="/docs/guide/everdisk/everdisk-guide-access" >}}
+  {{< ls-card icon="lock-closed" title="الوصول والخصوصية" subtitle="احمِ المشاركة باسم دخول وكلمة مرور، واسمح بالتعديل أو امنعه، واحظر الأجهزة، وأبقِ كل شيء محليا." link="/docs/guide/everdisk/everdisk-guide-access" >}}
 
-  {{< card icon="adjustments" title="الإعدادات" subtitle="شرح لكل إعداد: ملف الجهاز والاتصالات وجودة الصور والفيديو والمنافذ وعمليات النقل والمزيد." link="/docs/guide/everdisk/everdisk-guide-settings" >}}
+  {{< ls-card icon="adjustments" title="الإعدادات" subtitle="شرح لكل إعداد: ملف الجهاز والاتصالات وجودة الصور والفيديو والمنافذ وعمليات النقل والمزيد." link="/docs/guide/everdisk/everdisk-guide-settings" >}}
 
-  {{< card icon="question-mark-circle" title="الأسئلة الشائعة" subtitle="إجابات سريعة عن أكثر الأسئلة شيوعا وسيناريوهات من الواقع." link="/docs/faq/everdisk" >}}
+  {{< ls-card icon="question-mark-circle" title="الأسئلة الشائعة" subtitle="إجابات سريعة عن أكثر الأسئلة شيوعا وسيناريوهات من الواقع." link="/docs/faq/everdisk" >}}
 {{< /cards >}}

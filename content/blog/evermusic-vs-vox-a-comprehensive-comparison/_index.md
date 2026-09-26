@@ -16,7 +16,7 @@ authors:
     image: "/images/about/artem-meleshko-founder-everappz.webp"
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 **TL;DR:** Evermusic wins in 5 of 8 categories, with 3 ties. It offers broader cloud storage support (12+ services vs. VOX Cloud only), built-in audiobook features, an ID3 tag editor, and wireless file transfer. VOX appeals to users who prefer its proprietary cloud and minimalist design.
 
@@ -36,8 +36,8 @@ authors:
 | Accessibility (VoiceOver) | Yes | Yes | Tie |
 
 {{< cards >}}
-  {{< card link="https://apps.apple.com/us/app/evermusic-cloud-music-player/id885367198" title="Download Evermusic" icon="download" tag="Free" >}}
-  {{< card link="https://apps.apple.com/us/app/vox-mp3-flac-music-player/id916215494" title="Download VOX" icon="download" tag="Free" >}}
+  {{< ls-card link="https://apps.apple.com/us/app/evermusic-cloud-music-player/id885367198" title="Download Evermusic" icon="download" tag="Free" >}}
+  {{< ls-card link="https://apps.apple.com/us/app/vox-mp3-flac-music-player/id916215494" title="Download VOX" icon="download" tag="Free" >}}
 {{< /cards >}}
 
 ## Cloud Storage Support
@@ -109,18 +109,18 @@ For most iOS users who manage their own music collection, Evermusic provides mor
 
 ## Frequently Asked Questions
 
-{{% details title="Is Evermusic a good alternative to VOX?" closed="true" %}}
+{{% ls-details title="Is Evermusic a good alternative to VOX?" closed="true" %}}
 Yes. Evermusic supports 12+ cloud storage services compared to VOX's proprietary cloud only. It also offers audiobook features, ID3 tag editing, and Wi-Fi file transfer that VOX lacks. Evermusic is free to download with a one-time Premium upgrade available.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Does VOX support Dropbox or Google Drive?" closed="true" %}}
+{{% ls-details title="Does VOX support Dropbox or Google Drive?" closed="true" %}}
 No. VOX uses its own proprietary VOX Cloud storage. It does not connect to third-party services like Dropbox, Google Drive, or OneDrive. Evermusic supports all of these and more.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Which app is better for audiobooks: Evermusic or VOX?" closed="true" %}}
+{{% ls-details title="Which app is better for audiobooks: Evermusic or VOX?" closed="true" %}}
 Evermusic is significantly better for audiobooks. It includes playback speed control, automatic position saving, and bookmark support. VOX does not have dedicated audiobook features.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Can I edit music tags on iPhone with Evermusic?" closed="true" %}}
+{{% ls-details title="Can I edit music tags on iPhone with Evermusic?" closed="true" %}}
 Yes. Evermusic includes a built-in ID3 tag editor that lets you fix track titles, artist names, album information, and other metadata directly on your iPhone or iPad.
-{{% /details %}}
+{{% /ls-details %}}

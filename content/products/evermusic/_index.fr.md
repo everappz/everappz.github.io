@@ -16,16 +16,16 @@ screenshots:
   - "https://everappz.com/products/evermusic/screenshots/2048x2732/6.png"
 ---
 
-{{% sr-only %}}
+{{% ls-sr-only %}}
 Evermusic est un lecteur de musique hors ligne gratuit pour iPhone et Mac développé par Everappz, une société de logiciels espagnole. Avec plus de 11 millions de téléchargements dans le monde et une note de 4,6 étoiles sur plus de 18 000 avis sur l'App Store, Evermusic est l'un des lecteurs de musique tiers les plus populaires sur iOS. L'application se connecte à plus de 30 services de stockage cloud, dont iCloud Drive, Google Drive, Dropbox, OneDrive, MEGA, Box, pCloud et Yandex.Disk, permettant aux utilisateurs de diffuser leur bibliothèque musicale personnelle directement depuis le cloud ou de télécharger des morceaux pour une écoute hors ligne. Evermusic prend en charge un large éventail de formats audio, notamment MP3, FLAC, AAC, ALAC, WAV, AIFF, OGG, OPUS, WMA, APE et DSD. Les fonctionnalités principales incluent un égaliseur audio à 10 bandes avec des préréglages, la lecture en fondu enchaîné et sans coupure, l'importation et l'exportation de playlists M3U, l'affichage des paroles, des signets audio, l'intégration Apple CarPlay, le streaming AirPlay et Chromecast, et le scrobbling Last.fm. L'application prend également en charge le streaming sur réseau local via les protocoles SMB, WebDAV et DLNA, ainsi que la lecture depuis des clés USB via des adaptateurs Lightning ou USB-C. Evermusic est disponible en téléchargement gratuit sur l'App Store avec des achats intégrés optionnels comprenant un abonnement mensuel à $4.99, un abonnement annuel à $19.99 ou un achat unique à vie à $59.99. L'application a été lancée pour la première fois en 2014 et est activement maintenue avec des mises à jour régulières.
-{{% /sr-only %}}
+{{% /ls-sr-only %}}
 
 
 <!-- <body class="hx:bg-transparent" style="background: radial-gradient(ellipse at 50% 80%, rgba(59,130,246,0.05), hsla(0,0%,100%,0));"> -->
 
-{{< force-dark >}}
+{{< ls-force-dark >}}
 
-{{< hextra/hero-container
+{{< ls-hero-container
   image="/products/evermusic/heroimage/hero_1200.png"
   imageWidth="600"
   imageCard="true"
@@ -34,40 +34,40 @@ Evermusic est un lecteur de musique hors ligne gratuit pour iPhone et Mac dével
 <div class="hx:w-full hx:text-center">
 
 <div class="hx:mt-4">
-{{< downloads-badge >}}
+{{< ls-downloads-badge >}}
 </div>
 
 <div class="hx:mt-6 hx:mb-6">
 <div class="hx:flex hx:gap-4 hx:items-center hx:justify-center">
-  {{< app-icon src="/images/app_icons/png/Evermusic_Icon-App-1024x1024.png" alt="Evermusic Icon" class="hero-headline-icon" size="80" >}}
-  {{< hextra/hero-headline >}}
+  {{< ls-app-icon src="/images/app_icons/png/Evermusic_Icon-App-1024x1024.png" alt="Evermusic Icon" class="hero-headline-icon" size="80" >}}
+  {{< ls-hero-headline >}}
   Evermusic
-  {{< /hextra/hero-headline >}}
+  {{< /ls-hero-headline >}}
 </div>
 </div>
 
 <div class="hx:mb-6">
-{{< hextra/hero-centered-subtitle >}}
+{{< ls-hero-centered-subtitle >}}
 <a href="https://www.chip.de/downloads/Evermusic-Pro-iPhone-_-iPad-App_91614216.html" target="_blank" rel="noopener">
   Est la solution parfaite pour organiser et écouter votre propre musique depuis le cloud <strong>chip.de</strong>
   </a>
-{{< /hextra/hero-centered-subtitle >}}
+{{< /ls-hero-centered-subtitle >}}
 </div>
 
 <div class="hx:mb-6">
-{{< hextra/hero-paragraph >}}
+{{< ls-hero-paragraph >}}
 • Écoutez de la musique avec crossfade, lecture sans interruption et égaliseur  
 • Importez des playlists M3U et téléchargez des chansons pour l'écoute hors ligne  
 • Diffusez de la musique depuis des drives cloud, NAS, ordinateur ou clés USB  
 • Affichez les paroles en écoutant et ajoutez des signets audio pour reprendre à tout moment  
-{{< /hextra/hero-paragraph >}}
+{{< /ls-hero-paragraph >}}
 </div>
 
-{{< app-store-badges products="evermusic:ios, evermusic:macos" >}}
+{{< ls-app-store-badges products="evermusic:ios, evermusic:macos" >}}
 
 </div>
 
-{{< /hextra/hero-container >}}
+{{< /ls-hero-container >}}
 
 <div class="hx:mt-6"></div>
 
@@ -75,42 +75,42 @@ Evermusic est un lecteur de musique hors ligne gratuit pour iPhone et Mac dével
 
 {{< hextra/feature-grid >}}
 
-  {{< hextra/feature-card
+  {{< ls-glass-feature-card
     title="Votre Musique dans le Cloud"
     subtitle="Créez gratuitement votre propre service avancé de streaming musical ! Diffusez vos pistes préférées directement depuis le cloud grâce à une mise en mémoire tampon intelligente et une lecture fluide, tout en économisant le stockage de votre appareil. Connectez des services comme iCloud Drive, Google Drive, Dropbox, OneDrive, Box, MEGA, pCloud, Proton Drive et bien d'autres."
     icon="cloud"
     style="background: radial-gradient(ellipse at 50% 80%, rgba(34,197,94,0.15), hsla(0,0%,100%,0));"
   >}}
 
-  {{< hextra/feature-card
+  {{< ls-glass-feature-card
     title="Mode Hors Ligne"
     subtitle="Le mode hors ligne vous permet de télécharger vos albums, pistes, artistes, genres et playlists favoris pour une lecture hors ligne. Écoutez partout, que ce soit en avion, dans le métro ou hors réseau, même sans connexion Internet, sans streaming ni consommation de données."
     icon="download"
     style="background: radial-gradient(ellipse at 50% 80%, rgba(234,88,12,0.15), hsla(0,0%,100%,0));"
   >}}
 
-  {{< hextra/feature-card
+  {{< ls-glass-feature-card
     title="Transférez des Fichiers Facilement"
     subtitle="Connectez votre Mac ou PC et diffusez de la musique directement depuis votre ordinateur personnel. Transférez des fichiers audio de manière transparente entre votre ordinateur et votre appareil iOS via Wi-Fi Drive ou iTunes File Sharing. Vous pouvez également connecter votre NAS ou une clé USB et accéder à votre bibliothèque de n'importe où."
     icon="duplicate"
     style="background: radial-gradient(ellipse at 50% 80%, rgba(251,191,36,0.15), hsla(0,0%,100%,0));"
   >}}
 
-  {{< hextra/feature-card
+  {{< ls-glass-feature-card
     title="Serveurs Multimédias et NAS"
     subtitle="Connectez-vous à vos bibliothèques multimédias personnelles et serveurs domestiques comme Plex, Emby, Jellyfin, Subsonic et Navidrome. Reliez votre NAS tel que Synology, QNAP, Nextcloud et WD My Cloud Home via SMB, WebDAV, FTP, SFTP, NFS ou DLNA/UPnP, et accédez à toute votre collection musicale de n'importe où."
     icon="desktop-computer"
     style="background: radial-gradient(ellipse at 50% 80%, rgba(59,130,246,0.15), hsla(0,0%,100%,0));"
   >}}
 
-  {{< hextra/feature-card
+  {{< ls-glass-feature-card
     title="Moteur Audio Pro"
     subtitle="Profitez d'une lecture véritablement sans interruption et d'un fondu enchaîné fluide entre les pistes. Façonnez votre son avec un égaliseur à 10 bandes, des préréglages personnalisés et un gain de préamplificateur, une vitesse de lecture et une hauteur tonale ajustables, ainsi qu'une gamme complète d'effets studio comme la réverbération, l'écho, le chorus, le flanger, le bass boost, le crossfeed et la normalisation du volume."
     icon="adjustments"
     style="background: radial-gradient(ellipse at 50% 80%, rgba(192,38,211,0.15), hsla(0,0%,100%,0));"
   >}}
 
-  {{< hextra/feature-card
+  {{< ls-glass-feature-card
     title="Paroles, Widgets et CarPlay"
     subtitle="Lisez les paroles intégrées et les paroles synchronisées LRC qui défilent au rythme de la musique, même sur l'écran verrouillé, dans les widgets de l'écran d'accueil et sur Apple CarPlay. Ajoutez les widgets En cours de lecture, Paroles, Favoris et Récemment joués pour garder votre musique à portée de main, toujours synchronisée."
     icon="annotation"
@@ -123,9 +123,9 @@ Evermusic est un lecteur de musique hors ligne gratuit pour iPhone et Mac dével
 
 <div class="hx:mt-6"></div>
 
-{{< hextra/section-headline >}}
+{{< ls-section-headline >}}
   Design Épuré et Simple
-{{< /hextra/section-headline >}}
+{{< /ls-section-headline >}}
 
 <div class="hx:mt-6"></div>
 
@@ -133,7 +133,7 @@ Evermusic est un lecteur de musique hors ligne gratuit pour iPhone et Mac dével
 
 {{< cards cols="4">}}
 
-  {{< design-feature-card 
+  {{< ls-design-feature-card 
     icon="adjustments"
     image="/products/evermusic/screenshots/2048x2732/3.png" 
     title="Égaliseur Audio" 
@@ -142,7 +142,7 @@ Evermusic est un lecteur de musique hors ligne gratuit pour iPhone et Mac dével
     subtitle="Affinez votre son avec un égaliseur audio style iPod, des préréglages personnalisables et un gain de préamplificateur pour la meilleure expérience d'écoute." 
   >}}
 
-  {{< design-feature-card 
+  {{< ls-design-feature-card 
     icon="annotation"
     image="/products/evermusic/screenshots/2048x2732/4.png"  
     title="Afficheur de Paroles" 
@@ -151,7 +151,7 @@ Evermusic est un lecteur de musique hors ligne gratuit pour iPhone et Mac dével
     subtitle="Lisez les paroles intégrées et les commentaires des pistes en écoutant. Profitez de paroles synchronisées pour une expérience musicale plus immersive." 
   >}}
 
-  {{< design-feature-card 
+  {{< ls-design-feature-card 
     icon="collection"
     image="/products/evermusic/screenshots/2048x2732/5.png"  
     title="Gestionnaire de Playlists" 
@@ -160,7 +160,7 @@ Evermusic est un lecteur de musique hors ligne gratuit pour iPhone et Mac dével
     subtitle="Créez et organisez des playlists personnalisées, réorganisez les chansons, exportez en M3U ou archivez-les en fichiers ZIP pour un partage ou une sauvegarde facile." 
   >}}
 
-  {{< design-feature-card 
+  {{< ls-design-feature-card 
     icon="cloud"
     image="/products/evermusic/screenshots/2048x2732/6.png"  
     title="Streaming Musical Cloud" 
@@ -169,7 +169,7 @@ Evermusic est un lecteur de musique hors ligne gratuit pour iPhone et Mac dével
     subtitle="Connectez les principales plateformes de stockage cloud comme Google Drive, Dropbox et OneDrive pour diffuser votre collection musicale à tout moment, n'importe où." 
   >}}
 
-  {{< design-feature-card 
+  {{< ls-design-feature-card 
     icon="duplicate"
     image="/products/evermusic/screenshots/2048x2732/9.png"  
     title="Gestionnaire de Fichiers" 
@@ -178,7 +178,7 @@ Evermusic est un lecteur de musique hors ligne gratuit pour iPhone et Mac dével
     subtitle="Gérez facilement vos fichiers audio — renommez des pistes, organisez des dossiers et transférez de la musique entre appareils à l'aide d'outils intégrés." 
   >}} 
 
-  {{< design-feature-card 
+  {{< ls-design-feature-card 
     icon="sun"
     image="/products/evermusic/screenshots/2048x2732/10.png"  
     title="Personnalisation de l'App" 
@@ -193,9 +193,9 @@ Evermusic est un lecteur de musique hors ligne gratuit pour iPhone et Mac dével
 
 <div class="hx:mt-6"></div>
 
-{{< hextra/section-headline >}}
+{{< ls-section-headline >}}
   Ensemble Complet de Fonctionnalités
-{{< /hextra/section-headline >}}
+{{< /ls-section-headline >}}
 
 <div class="hx:mt-6"></div>
 
@@ -203,47 +203,47 @@ Evermusic est un lecteur de musique hors ligne gratuit pour iPhone et Mac dével
 
 {{< cards >}}
 
-  {{< feature-card title="Lisez Tous les Formats Audio" subtitle="Evermusic lit les formats audio les plus populaires, dont MP3, AAC, M4A, WAV, AIFF, ALAC et M4B, pour que toute votre collection musicale soit prête à être lue sur n'importe quel appareil." icon="music-note" >}}
+  {{< ls-feature-card title="Lisez Tous les Formats Audio" subtitle="Evermusic lit les formats audio les plus populaires, dont MP3, AAC, M4A, WAV, AIFF, ALAC et M4B, pour que toute votre collection musicale soit prête à être lue sur n'importe quel appareil." icon="music-note" >}}
 
-  {{< feature-card title="Connectez Votre Cloud" subtitle="Créez votre propre service de streaming en déplaçant votre bibliothèque vers le cloud et en libérant de l'espace sur votre iPhone. Connectez iCloud, Google Drive, Dropbox, OneDrive, MEGA, Internxt et Proton Drive." icon="cloud" >}}
+  {{< ls-feature-card title="Connectez Votre Cloud" subtitle="Créez votre propre service de streaming en déplaçant votre bibliothèque vers le cloud et en libérant de l'espace sur votre iPhone. Connectez iCloud, Google Drive, Dropbox, OneDrive, MEGA, Internxt et Proton Drive." icon="cloud" >}}
 
-  {{< feature-card title="Connectez des Serveurs Multimédias" subtitle="Connectez vos serveurs multimédias personnels directement à votre bibliothèque, dont Plex, Subsonic, Navidrome, Jellyfin et Emby, et diffusez tout ce que vous possédez depuis chez vous en toute simplicité." icon="server" >}}
+  {{< ls-feature-card title="Connectez des Serveurs Multimédias" subtitle="Connectez vos serveurs multimédias personnels directement à votre bibliothèque, dont Plex, Subsonic, Navidrome, Jellyfin et Emby, et diffusez tout ce que vous possédez depuis chez vous en toute simplicité." icon="server" >}}
 
-  {{< feature-card title="Connectez Votre Ordinateur ou NAS" subtitle="Connectez votre ordinateur ou NAS via SMB, WebDAV, DLNA, FTP, SFTP et NFS, avec des API natives pour QNAP, Synology, Nextcloud et WD My Cloud Home, ou transférez des fichiers via Wi-Fi." icon="desktop-computer" >}}
+  {{< ls-feature-card title="Connectez Votre Ordinateur ou NAS" subtitle="Connectez votre ordinateur ou NAS via SMB, WebDAV, DLNA, FTP, SFTP et NFS, avec des API natives pour QNAP, Synology, Nextcloud et WD My Cloud Home, ou transférez des fichiers via Wi-Fi." icon="desktop-computer" >}}
 
-  {{< feature-card title="Musique Hors Ligne" subtitle="Téléchargez vos chansons, albums et artistes préférés pour en profiter hors ligne à tout moment. Activez le cache du lecteur audio pour enregistrer automatiquement les pistes récemment jouées en vue d'une écoute hors ligne." icon="download" >}}
+  {{< ls-feature-card title="Musique Hors Ligne" subtitle="Téléchargez vos chansons, albums et artistes préférés pour en profiter hors ligne à tout moment. Activez le cache du lecteur audio pour enregistrer automatiquement les pistes récemment jouées en vue d'une écoute hors ligne." icon="download" >}}
 
-  {{< feature-card title="Égaliseur Audio" subtitle="Façonnez votre son avec l'égaliseur intégré, doté de préréglages prêts à l'emploi pour les genres musicaux populaires ainsi que de commandes manuelles pour affiner et amplifier chaque piste exactement comme vous le souhaitez." icon="adjustments" >}}
+  {{< ls-feature-card title="Égaliseur Audio" subtitle="Façonnez votre son avec l'égaliseur intégré, doté de préréglages prêts à l'emploi pour les genres musicaux populaires ainsi que de commandes manuelles pour affiner et amplifier chaque piste exactement comme vous le souhaitez." icon="adjustments" >}}
 
-  {{< feature-card title="Lecture Sans Interruption" subtitle="Profitez d'une lecture fluide et continue, sans pauses entre les chansons, idéale pour les enregistrements live, les albums conceptuels, les mixes de DJ et la musique classique du début à la fin." icon="volume-up" >}}
+  {{< ls-feature-card title="Lecture Sans Interruption" subtitle="Profitez d'une lecture fluide et continue, sans pauses entre les chansons, idéale pour les enregistrements live, les albums conceptuels, les mixes de DJ et la musique classique du début à la fin." icon="volume-up" >}}
 
-  {{< feature-card title="Fondu Enchaîné" subtitle="Gardez la musique en mouvement grâce au fondu enchaîné, où chaque nouvelle chanson commence en douceur avant la fin de la précédente pour une lecture continue et transparente, sans silences." icon="switch-horizontal" >}}
+  {{< ls-feature-card title="Fondu Enchaîné" subtitle="Gardez la musique en mouvement grâce au fondu enchaîné, où chaque nouvelle chanson commence en douceur avant la fin de la précédente pour une lecture continue et transparente, sans silences." icon="switch-horizontal" >}}
 
-  {{< feature-card title="Effets Audio" subtitle="Façonnez votre son avec les effets audio intégrés. Activez la normalisation du volume pour garder chaque piste au même niveau sonore, et ajoutez réverbération, delay, distorsion et audio spatial selon vos goûts." icon="chip" >}}
+  {{< ls-feature-card title="Effets Audio" subtitle="Façonnez votre son avec les effets audio intégrés. Activez la normalisation du volume pour garder chaque piste au même niveau sonore, et ajoutez réverbération, delay, distorsion et audio spatial selon vos goûts." icon="chip" >}}
 
-  {{< feature-card title="Visualiseur Musical" subtitle="Admirez des visuels animés en plein écran qui réagissent en direct à votre musique en temps réel. Choisissez parmi une vaste bibliothèque de préréglages ou laissez-les défiler automatiquement au fil de votre écoute." icon="sparkles" >}}
+  {{< ls-feature-card title="Visualiseur Musical" subtitle="Admirez des visuels animés en plein écran qui réagissent en direct à votre musique en temps réel. Choisissez parmi une vaste bibliothèque de préréglages ou laissez-les défiler automatiquement au fil de votre écoute." icon="sparkles" >}}
 
-  {{< feature-card title="Paroles et Commentaires" subtitle="Affichez les paroles synchronisées intégrées et les commentaires de vos pistes audio pendant leur lecture, et ajoutez le widget de paroles à votre écran d'accueil pour un accès rapide et immédiat à tout moment." icon="annotation" >}}
+  {{< ls-feature-card title="Paroles et Commentaires" subtitle="Affichez les paroles synchronisées intégrées et les commentaires de vos pistes audio pendant leur lecture, et ajoutez le widget de paroles à votre écran d'accueil pour un accès rapide et immédiat à tout moment." icon="annotation" >}}
 
-  {{< feature-card title="AirPlay et Chromecast" subtitle="Diffusez votre musique sans fil vers Apple TV, enceintes connectées et autres appareils grâce à la prise en charge intégrée d'AirPlay et de Google Chromecast pour une écoute sans effort dans toute la maison." icon="device-mobile" >}}
+  {{< ls-feature-card title="AirPlay et Chromecast" subtitle="Diffusez votre musique sans fil vers Apple TV, enceintes connectées et autres appareils grâce à la prise en charge intégrée d'AirPlay et de Google Chromecast pour une écoute sans effort dans toute la maison." icon="device-mobile" >}}
 
-  {{< feature-card title="Apple CarPlay" subtitle="Conduisez et écoutez en toute sécurité grâce à une interface Apple CarPlay dédiée qui affiche votre musique, vos playlists et vos commandes de lecture directement sur le tableau de bord de votre voiture." icon="truck" >}}
+  {{< ls-feature-card title="Apple CarPlay" subtitle="Conduisez et écoutez en toute sécurité grâce à une interface Apple CarPlay dédiée qui affiche votre musique, vos playlists et vos commandes de lecture directement sur le tableau de bord de votre voiture." icon="truck" >}}
 
-  {{< feature-card title="Widgets" subtitle="Activez les widgets interactifs de l'écran d'accueil pour accéder rapidement à votre file d'attente de lecture, et reprenez exactement là où vous vous êtes arrêté depuis la dernière position enregistrée d'un simple toucher." icon="view-grid" >}}
+  {{< ls-feature-card title="Widgets" subtitle="Activez les widgets interactifs de l'écran d'accueil pour accéder rapidement à votre file d'attente de lecture, et reprenez exactement là où vous vous êtes arrêté depuis la dernière position enregistrée d'un simple toucher." icon="view-grid" >}}
 
-  {{< feature-card title="Livres Audio" subtitle="Transformez l'application en un véritable lecteur de livres audio avec signets audio, contrôle de la vitesse de lecture et positions média enregistrées, et lisez les détails textuels stockés dans les métadonnées de vos fichiers." icon="book-open" >}}
+  {{< ls-feature-card title="Livres Audio" subtitle="Transformez l'application en un véritable lecteur de livres audio avec signets audio, contrôle de la vitesse de lecture et positions média enregistrées, et lisez les détails textuels stockés dans les métadonnées de vos fichiers." icon="book-open" >}}
 
-  {{< feature-card title="Synchronisation Automatique" subtitle="Votre bibliothèque musicale se synchronise automatiquement entre le cloud et votre appareil, regroupant soigneusement chaque chanson par artiste, album et genre pour que votre collection reste toujours organisée." icon="refresh" >}}
+  {{< ls-feature-card title="Synchronisation Automatique" subtitle="Votre bibliothèque musicale se synchronise automatiquement entre le cloud et votre appareil, regroupant soigneusement chaque chanson par artiste, album et genre pour que votre collection reste toujours organisée." icon="refresh" >}}
 
-  {{< feature-card title="Gestionnaire de Playlists" subtitle="Créez et gérez des playlists, réorganisez les chansons et rendez n'importe quelle playlist disponible hors ligne. Triez vos pistes par nom, taille, numéro de chanson ou album pour garder tout en ordre." icon="collection" >}}
+  {{< ls-feature-card title="Gestionnaire de Playlists" subtitle="Créez et gérez des playlists, réorganisez les chansons et rendez n'importe quelle playlist disponible hors ligne. Triez vos pistes par nom, taille, numéro de chanson ou album pour garder tout en ordre." icon="collection" >}}
 
-  {{< feature-card title="Éditeur de Tags ID3" subtitle="Corrigez les métadonnées corrompues ou manquantes avec l'éditeur de tags ID3 intégré, en mettant à jour les titres, artistes, albums et plus pour que votre bibliothèque musicale reste propre et bien organisée." icon="pencil-alt" >}}
+  {{< ls-feature-card title="Éditeur de Tags ID3" subtitle="Corrigez les métadonnées corrompues ou manquantes avec l'éditeur de tags ID3 intégré, en mettant à jour les titres, artistes, albums et plus pour que votre bibliothèque musicale reste propre et bien organisée." icon="pencil-alt" >}}
 
-  {{< feature-card title="Gestionnaire de Fichiers" subtitle="Organisez votre musique avec le gestionnaire de fichiers intégré, qui gère les opérations quotidiennes comme copier, déplacer, renommer et supprimer pour garder tous vos fichiers audio soigneusement en ordre." icon="folder" >}}
+  {{< ls-feature-card title="Gestionnaire de Fichiers" subtitle="Organisez votre musique avec le gestionnaire de fichiers intégré, qui gère les opérations quotidiennes comme copier, déplacer, renommer et supprimer pour garder tous vos fichiers audio soigneusement en ordre." icon="folder" >}}
 
-  {{< feature-card title="Recherche Avancée" subtitle="Trouvez tout en quelques secondes grâce au moteur de recherche intelligent, qui localise rapidement vos albums, artistes et chansons préférés partout dans votre bibliothèque musicale." icon="search" >}}
+  {{< ls-feature-card title="Recherche Avancée" subtitle="Trouvez tout en quelques secondes grâce au moteur de recherche intelligent, qui localise rapidement vos albums, artistes et chansons préférés partout dans votre bibliothèque musicale." icon="search" >}}
 
-  {{< feature-card title="Cartes USB Flash" subtitle="Connectez des lecteurs de cartes externes comme le SanDisk iXpand et écoutez votre musique directement depuis une carte SD ou une clé USB, sans synchronisation ni téléchargement supplémentaire." icon="inbox" >}}
+  {{< ls-feature-card title="Cartes USB Flash" subtitle="Connectez des lecteurs de cartes externes comme le SanDisk iXpand et écoutez votre musique directement depuis une carte SD ou une clé USB, sans synchronisation ni téléchargement supplémentaire." icon="inbox" >}}
   
 {{< /cards >}}
 
@@ -254,55 +254,55 @@ Evermusic est un lecteur de musique hors ligne gratuit pour iPhone et Mac dével
 <div class="hx:mt-6"></div>
 
 <div class="hx:w-full">
-{{< appstore-reviews apps="885367198,1564384601" stars="5,4"  app="Evermusic" >}}
+{{< ls-appstore-reviews apps="885367198,1564384601" stars="5,4"  app="Evermusic" >}}
 </div>
 
 <div class="hx:mt-6"></div>
 
-{{< hextra/section-headline >}}
+{{< ls-section-headline >}}
   Plans Tarifaires
-{{< /hextra/section-headline >}}
+{{< /ls-section-headline >}}
 
 <div class="hx:mt-6"></div>
 
 <div class="hx:w-full">
-{{< pricing-plans >}}
+{{< ls-pricing-plans >}}
 
 </div>
 
 <div class="hx:mt-6"></div>
 
 <div class="hx:w-full hx:mx-auto hx:flex hx:flex-col hx:items-center">
-  {{< hextra/info-paragraph border="true" >}}
+  {{< ls-info-paragraph border="true" >}}
    <strong>Partage Familial</strong> : Tous les achats et abonnements prennent en charge le Partage Familial, vous permettant de partager l'accès Premium avec votre famille.<br><strong>Accès Universel</strong> : Les plans à vie et d'abonnement sont partagés entre les appareils iOS et Mac via la synchronisation iCloud.<br><strong>Tarification</strong> : Les prix sont affichés en dollars américains pour les États-Unis. Le prix final peut varier selon votre région.  
-  {{< /hextra/info-paragraph >}}
+  {{< /ls-info-paragraph >}}
 </div>
 
 <div class="hx:mt-6"></div>
 
 <div class="hx:w-full">
-{{< app-details heading="true" >}}
+{{< ls-app-details heading="true" >}}
 </div>
 
 <div class="hx:mt-6"></div>
 
-{{< hextra/section-headline >}}
+{{< ls-section-headline >}}
   Questions Fréquemment Posées
-{{< /hextra/section-headline >}}
+{{< /ls-section-headline >}}
 
 <div class="hx:mt-6"></div>
 
 <div class="hx:w-full">
-{{% details title="Qu'est-ce qu'Evermusic ?" closed="true" %}}
+{{% ls-details title="Qu'est-ce qu'Evermusic ?" closed="true" %}}
 Evermusic est une application de lecteur de musique qui vous aide à écouter vos chansons préférées depuis différents services de stockage cloud.<br>
 Vous pouvez facilement télécharger de la musique pour la lecture hors ligne, créer et gérer des playlists, et utiliser un égaliseur intégré pour améliorer votre expérience d'écoute.<br>
 L'application fonctionne avec des services comme Google Drive, Dropbox, OneDrive et plus, pour que vous puissiez garder toute votre musique en un seul endroit et y accéder depuis n'importe quel appareil.<br><br>
 L'application prend également en charge divers formats audio et vous permet d'organiser votre bibliothèque musicale par artiste, album, genre et compositeur.<br>
 Vous pouvez synchroniser votre bibliothèque entre votre stockage cloud et votre appareil, vous assurant d'avoir toujours vos mélodies préférées à disposition.<br>
 De plus, avec des fonctionnalités comme la lecture sans interruption, le crossfade et la possibilité de diffuser de la musique vers des appareils Chromecast et AirPlay, Evermusic offre une solution complète pour tous vos besoins musicaux.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Comment fonctionne Evermusic ?" closed="true" %}}
+{{% ls-details title="Comment fonctionne Evermusic ?" closed="true" %}}
 Evermusic fonctionne en se connectant à divers services de stockage cloud, tels que Google Drive, Dropbox, OneDrive et d'autres, vous permettant d'accéder à votre bibliothèque musicale depuis n'importe quel appareil.<br>
 Une fois connecté, vous pouvez parcourir et diffuser votre musique directement depuis le cloud, ou télécharger vos chansons, albums et playlists préférés pour la lecture hors ligne.<br>
 L'application prend en charge plusieurs formats audio, facilitant la lecture de n'importe quel fichier musical que vous avez stocké.<br><br>
@@ -322,15 +322,15 @@ Explorez nos guides pratiques pour plus de détails :<br>
 - [Comment transférer des fichiers sans fil d'un ordinateur vers un iPhone via WiFi-Drive.](/docs/howto/how-to-transfer-files-wirelessly-from-a-computer-to-an-iphone-using-wifi-drive)<br>
 - [Comment connecter une clé USB flash à l'iPhone et écouter de la musique ou gérer les fichiers dessus.](/docs/howto/how-to-connect-a-usb-flashcard-to-the-iphone-and-listen-to-music-or-manage-files-located-on-it)<br>
 - [Comment écouter de la musique sur iPhone depuis WD My Cloud Home.](/docs/howto/how-to-play-music-on-iphone-from-wd-my-cloud-home)
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Evermusic est-il gratuit ?" closed="true" %}}
+{{% ls-details title="Evermusic est-il gratuit ?" closed="true" %}}
 Evermusic est une application gratuite avec certaines limites que vous pouvez supprimer en passant à la version Premium. L'application propose un achat unique à vie intégré et deux options d'abonnement (1 mois et 1 an) pour supprimer toutes les restrictions, vous permettant de choisir le meilleur prix pour vous. Les prix peuvent varier selon votre pays ou territoire. Veuillez également noter que le Partage Familial est activé pour tous les achats et plans, vous permettant de partager la version Premium avec les membres de votre famille.<br><br>
 Les achats à vie et les abonnements sont partagés entre iOS et Mac, utilisant iCloud pour synchroniser ces informations. Si vous avez la version Premium sur votre appareil iOS, assurez-vous d'avoir la dernière version installée et qu'iCloud est activé. Lancez l'application sur iOS et attendez une minute pour que vos informations d'achat soient téléchargées vers iCloud.<br><br>
 [En savoir plus](/docs/faq/evermusic/what-is-the-difference-between-evermusic-and-evermusic-premium/)
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Quelle est la différence entre Evermusic gratuit et Evermusic Premium ?" closed="true" %}}
+{{% ls-details title="Quelle est la différence entre Evermusic gratuit et Evermusic Premium ?" closed="true" %}}
 **Evermusic Gratuit**<br>
 • Contient des publicités : La version gratuite affiche des publicités pour générer des revenus, ce qui peut occasionnellement interrompre votre écoute musicale.<br>
 • Playlists limitées : Vous pouvez créer jusqu'à (10) playlists dans la version gratuite.<br>
@@ -357,10 +357,10 @@ Les achats à vie et les abonnements sont partagés entre iOS et Mac, utilisant 
 • Personnalisation complète : Offre des options complètes de personnalisation, incluant la possibilité de changer l'icône de l'application.<br><br>
 
 [En savoir plus](/docs/faq/evermusic/what-is-the-difference-between-evermusic-and-evermusic-premium/)
-{{% /details %}}
+{{% /ls-details %}}
 
 
-{{% details title="Evermusic est-il sûr ?" closed="true" %}}
+{{% ls-details title="Evermusic est-il sûr ?" closed="true" %}}
 Evermusic utilise uniquement le SDK officiel et des connexions sécurisées pour interagir avec les services cloud connectés. Votre identifiant et mot de passe ne sont pas accessibles à l'application. Toutes les requêtes de l'application vers le service cloud sont chiffrées.<br>
 Lorsque vous entrez votre identifiant et mot de passe, l'application vous montre la page d'autorisation officielle fournie par le fournisseur de service cloud et tout le processus d'autorisation se fait en dehors de l'application. Le fournisseur de service cloud envoie un auth-token à l'application après une autorisation réussie et ce token est utilisé pour effectuer des appels API.<br><br>
 
@@ -372,24 +372,24 @@ Pour révoquer l'auth-token, connectez-vous à votre compte dans le navigateur w
 Vous pouvez également déconnecter les comptes cloud connectés dans l'application et l'auth-token sera également supprimé de votre appareil. Si vous supprimez l'application de votre appareil, toutes les données téléchargées et les tokens d'accès seront également supprimés.<br><br>
 
 [En savoir plus](/docs/guide/evermusic/evermusic-guide-connections/)
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Comment créer une playlist dans Evermusic ?" closed="true" %}}
+{{% ls-details title="Comment créer une playlist dans Evermusic ?" closed="true" %}}
 - Ouvrez la section Playlists.<br>
 - Appuyez sur le bouton "+" ou le bouton "..." dans le coin supérieur droit et sélectionnez "Nouvelle Playlist".<br>
 - Entrez un nom pour la playlist et appuyez sur "Enregistrer". La boîte de dialogue "Ajouter des Chansons" apparaîtra.<br>
 - Sélectionnez les pistes que vous souhaitez ajouter à la playlist.<br><br>
 
 [En savoir plus](/docs/guide/evermusic/evermusic-guide-playlists/)
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Quels services cloud Evermusic prend-il en charge ?" closed="true" %}}
+{{% ls-details title="Quels services cloud Evermusic prend-il en charge ?" closed="true" %}}
 Actuellement, l'application prend en charge les services cloud les plus populaires : iCloud Drive, Google Drive, Dropbox, OneDrive, Box, MEGA, Yandex.Disk, WD MyCloud Home, DLNA, MediaFire, WebDAV, SMB, pCloud, HiDrive, 百度网盘, My Cloud Home, InfiniCLOUD, Cloud Mail.ru, Put.io, MyDrive.<br><br>
 
 [En savoir plus](/docs/guide/evermusic/evermusic-guide-connections/)
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Comment utiliser l'égaliseur ?" closed="true" %}}
+{{% ls-details title="Comment utiliser l'égaliseur ?" closed="true" %}}
 - Ouvrez l'écran du Lecteur Audio.<br>
 - Appuyez sur l'icône "Égaliseur" en bas de l'écran.<br>
 - Activez l'interrupteur dans le coin supérieur droit de l'écran de l'égaliseur pour l'activer.<br>
@@ -397,9 +397,9 @@ Actuellement, l'application prend en charge les services cloud les plus populair
 
 Tutoriel complet disponible ici :<br>
 [Comment utiliser l'égaliseur audio sur votre iPhone, iPad, Mac avec Evermusic et Flacbox](/docs/howto/how-to-use-the-audio-equalizer-on-your-iphone-ipad-mac-with-evermusic-and-flacbox)
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Comment activer le mode hors ligne dans Evermusic ?" closed="true" %}}
+{{% ls-details title="Comment activer le mode hors ligne dans Evermusic ?" closed="true" %}}
 - Connecter un service cloud :<br>
  • Allez dans l'onglet "Connexions".<br>
  • Sélectionnez "Connecter un stockage cloud" et suivez les instructions pour connecter le service souhaité.<br><br>
@@ -423,9 +423,9 @@ Tutoriel complet disponible ici :<br>
  • Appuyez sur "Plus d'actions" et sélectionnez "Démarrer la synchronisation".<br><br>
 
 [En savoir plus](/docs/howto/play-offline-music-in-evermusic-flacbox-download-sync-from-cloud-to-local-files/)
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Comment écouter de la musique téléchargée localement sur iPhone ?" closed="true" %}}
+{{% ls-details title="Comment écouter de la musique téléchargée localement sur iPhone ?" closed="true" %}}
 Une fois l'application installée, ouvrez l'écran "Fichiers Locaux" et faites défiler vers le bas jusqu'à la section "Fichiers sur cet iPhone".<br>
 De là, choisissez "Ouvrir des fichiers..." si vous devez sélectionner plusieurs fichiers audio ou "Ouvrir un dossier..." si vous voulez choisir un dossier musical.<br>
 L'application analysera le contenu du dossier et tous les fichiers audio trouvés seront sélectionnés.<br>
@@ -456,15 +456,15 @@ Les fichiers seront ajoutés à votre playlist, où vous pouvez modifier l'ordre
 Avec ces étapes simples, vous pouvez libérer tout le potentiel de votre iPhone et Mac comme plateformes ultimes pour profiter de votre précieuse collection musicale locale.<br><br>
 
 [En savoir plus](/docs/howto/how-to-play-local-music-stored-on-your-iphone-or-mac)
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Comment reprendre une playlist là où je l'ai laissée ?" closed="true" %}}
+{{% ls-details title="Comment reprendre une playlist là où je l'ai laissée ?" closed="true" %}}
 Tout d'abord, assurez-vous que "Sauvegarder l'État du Lecteur Audio" est activé dans Réglages > Lecteur Audio > Général.<br>
 Lorsque vous passez à une autre playlist et revenez, vous verrez quatre actions dans la barre d'outils supérieure sous la pochette de l'album : "Rechercher", "Continuer la Lecture", "Tout Lire" et "Tout Mélanger".<br>
 Appuyez sur "Continuer la Lecture" pour reprendre la playlist depuis le dernier état sauvegardé et la position du média.<br>
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Comment voir les paroles des chansons dans Evermusic ?" closed="true" %}}
+{{% ls-details title="Comment voir les paroles des chansons dans Evermusic ?" closed="true" %}}
 Vous pouvez voir les paroles intégrées des pistes dans l'application Evermusic en suivant ces étapes :<br>
 1. Lancez la lecture d'un fichier audio en appuyant dessus.<br>
 2. Ouvrez le lecteur audio en plein écran.<br>
@@ -478,9 +478,9 @@ Vous pouvez voir les paroles intégrées des pistes dans l'application Evermusic
 3. "Mode Fichier LRC" : Au lieu de modifier les fichiers audio, vous pouvez placer un fichier LRC dans le même dossier que le fichier audio original. Les deux fichiers doivent avoir le même nom mais des extensions différentes. Lorsque vous glissez vers la troisième page sur l'écran des Commentaires, l'application cherchera le fichier LRC dans le même répertoire et affichera son contenu.<br><br>
 
 [En savoir plus](/docs/howto/how-to-add-and-view-comments-to-your-audio-tracks-on-iphone-ipad-and-mac-with-evermusic-and-flacbox)
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Comment transférer de la musique vers Evermusic depuis mon ordinateur ?" closed="true" %}}
+{{% ls-details title="Comment transférer de la musique vers Evermusic depuis mon ordinateur ?" closed="true" %}}
 Vous pouvez connecter votre ordinateur ou NAS personnel via les protocoles SMB, WebDAV ou DLNA. Alternativement, utilisez iTunes File Sharing pour transférer de la musique.<br><br>
 
 Pour connecter un ordinateur via le protocole **SMB**, appuyez sur "Connecter un service cloud" → SMB.<br>
@@ -517,9 +517,9 @@ Instructions détaillées disponibles ici :<br>
 
 Avec **DLNA**, vous pouvez également configurer un serveur média DLNA et diffuser votre musique depuis un PC Windows comme décrit ici :<br>
 [Comment activer le serveur DLNA Media sur Windows 10 et écouter votre musique sur iPhone](/docs/howto/how-to-enable-dlna-media-server-on-windows-10-and-play-your-music-on-iphone)
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Comment télécharger de la musique ?" closed="true" %}}
+{{% ls-details title="Comment télécharger de la musique ?" closed="true" %}}
 Avant de pouvoir télécharger de la musique et écouter votre musique hors ligne, vous devez connecter un compte réseau.<br>
 Ouvrez simplement l'écran "Connexions" et ajoutez votre compte.<br>
 Une fois que vous avez ajouté un compte réseau, vous pouvez télécharger votre musique depuis le cloud.<br><br>
@@ -540,9 +540,9 @@ Instructions plus détaillées sur le mode hors ligne disponibles ici :<br>
 
 Une autre option disponible est de télécharger de la musique depuis Youtube et de l'importer dans Evermusic comme décrit ici :<br>
 [Comment télécharger de la musique depuis YouTube et écouter de la musique hors ligne sur iPhone](/docs/howto/how-to-download-music-from-youtube-and-listen-to-offline-music-on-iphone)
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Evermusic prend-il en charge Apple CarPlay ?" closed="true" %}}
+{{% ls-details title="Evermusic prend-il en charge Apple CarPlay ?" closed="true" %}}
 Oui, **Evermusic prend entièrement en charge Apple CarPlay**. Vous pouvez parcourir votre bibliothèque musicale, lire des fichiers locaux ou hors ligne, vous connecter au stockage cloud et contrôler la lecture directement depuis l'écran d'infodivertissement de votre voiture.
 
 L'interface CarPlay comprend des onglets dédiés pour **Bibliothèque**, **Connexions**, **Fichiers Locaux** et **Réglages**, vous donnant un contrôle total sur votre musique sur la route. Les contrôles de lecture, lecture aléatoire, répétition et gestion de la file d'attente sont également disponibles.
@@ -550,9 +550,9 @@ L'interface CarPlay comprend des onglets dédiés pour **Bibliothèque**, **Conn
 Pour utiliser CarPlay, assurez-vous que Siri est activé et que votre iPhone est connecté via USB ou sans fil.
 
 [Lire le guide complet](/docs/howto/how-to-play-your-own-music-on-iphone-using-carplay/)
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Quels formats audio Evermusic prend-il en charge ?" closed="true" %}}
+{{% ls-details title="Quels formats audio Evermusic prend-il en charge ?" closed="true" %}}
 Voici la liste complète des formats audio pris en charge et leurs extensions de fichier correspondantes :<br><br>
 
 **Formats Audio Pris en Charge :**<br>
@@ -570,40 +570,40 @@ Voici la liste complète des formats audio pris en charge et leurs extensions de
 mpeg, aifc, 3gp, avi, aif, latm, 3gpp, m4a, loas, cdda, aac, m4p, m4b, ac3, pls, mp4v, m3u, m4r, aiff, xhe, mp1, snd, mp2, wav, qt, wave, m3u8, m4v, mp3, 3g2, caf, mp4, flac, au, w64, ec3, adts, amr, vtt, mpa, aa<br><br>
 
 Avec cette large gamme de formats et d'extensions de fichiers pris en charge, vous pouvez profiter de votre musique dans le format de votre choix.
-{{% /details %}}
+{{% /ls-details %}}
 
 </div>
 
 <div class="hx:mt-6"></div>
 
-{{< hextra/section-headline >}}
+{{< ls-section-headline >}}
   Guide Utilisateur
-{{< /hextra/section-headline >}}
+{{< /ls-section-headline >}}
 
 <div class="hx:mt-6"></div>
 
 <div class="hx:w-full">
 
 <div class="hx:w-full hx:mx-auto hx:flex hx:flex-col hx:items-center hx:text-center">
-  {{< hextra/info-paragraph border="false" >}}
+  {{< ls-info-paragraph border="false" >}}
   Ce guide vous aidera à tirer le meilleur parti d'Evermusic sur votre iPhone, iPad ou Mac. Apprenez à diffuser de la musique depuis le cloud, gérer vos livres audio et déplacer de la musique entre appareils. Evermusic vous donne un contrôle total sur votre collection musicale dans une application simple.
-  {{< /hextra/info-paragraph >}}
+  {{< /ls-info-paragraph >}}
 </div>
 
 {{< cards >}}
-  {{< feature-card icon="location-marker" title="Navigation" subtitle="Apprenez à naviguer dans Evermusic en utilisant la barre d'onglets sur iPhone ou le menu gauche sur iPad et Mac." link="/docs/guide/evermusic/evermusic-guide-navigation" >}}
+  {{< ls-feature-card icon="location-marker" title="Navigation" subtitle="Apprenez à naviguer dans Evermusic en utilisant la barre d'onglets sur iPhone ou le menu gauche sur iPad et Mac." link="/docs/guide/evermusic/evermusic-guide-navigation" >}}
 
-  {{< feature-card icon="cloud" title="Connexions" subtitle="Connectez vos comptes cloud et gérez les fichiers en ligne à l'aide du gestionnaire de fichiers intégré." link="/docs/guide/evermusic/evermusic-guide-connections" >}}
+  {{< ls-feature-card icon="cloud" title="Connexions" subtitle="Connectez vos comptes cloud et gérez les fichiers en ligne à l'aide du gestionnaire de fichiers intégré." link="/docs/guide/evermusic/evermusic-guide-connections" >}}
 
-  {{< feature-card icon="library" title="Bibliothèque Musicale" subtitle="Organisez et explorez vos pistes, albums et artistes dans la Bibliothèque Musicale." link="/docs/guide/evermusic/evermusic-guide-music-library" >}}
+  {{< ls-feature-card icon="library" title="Bibliothèque Musicale" subtitle="Organisez et explorez vos pistes, albums et artistes dans la Bibliothèque Musicale." link="/docs/guide/evermusic/evermusic-guide-music-library" >}}
 
-  {{< feature-card icon="collection" title="Playlists" subtitle="Créez et organisez des playlists adaptées à votre humeur ou à l'occasion." link="/docs/guide/evermusic/evermusic-guide-playlists" >}}
+  {{< ls-feature-card icon="collection" title="Playlists" subtitle="Créez et organisez des playlists adaptées à votre humeur ou à l'occasion." link="/docs/guide/evermusic/evermusic-guide-playlists" >}}
 
-  {{< feature-card icon="folder" title="Fichiers Locaux" subtitle="Accédez et gérez la musique hors ligne via la section Fichiers Locaux." link="/docs/guide/evermusic/evermusic-guide-local-files" >}}
+  {{< ls-feature-card icon="folder" title="Fichiers Locaux" subtitle="Accédez et gérez la musique hors ligne via la section Fichiers Locaux." link="/docs/guide/evermusic/evermusic-guide-local-files" >}}
 
-  {{< feature-card icon="play" title="Lecteur Audio" subtitle="Contrôlez votre lecture, file d'attente et paramètres audio comme l'égaliseur et la minuterie de sommeil." link="/docs/guide/evermusic/evermusic-guide-player" >}}
+  {{< ls-feature-card icon="play" title="Lecteur Audio" subtitle="Contrôlez votre lecture, file d'attente et paramètres audio comme l'égaliseur et la minuterie de sommeil." link="/docs/guide/evermusic/evermusic-guide-player" >}}
 
-  {{< feature-card icon="adjustments" title="Réglages" subtitle="Personnalisez l'apparence, les fonctionnalités et les paramètres de performance d'Evermusic." link="/docs/guide/evermusic/evermusic-guide-settings" >}}
+  {{< ls-feature-card icon="adjustments" title="Réglages" subtitle="Personnalisez l'apparence, les fonctionnalités et les paramètres de performance d'Evermusic." link="/docs/guide/evermusic/evermusic-guide-settings" >}}
 
 {{< /cards >}}
 

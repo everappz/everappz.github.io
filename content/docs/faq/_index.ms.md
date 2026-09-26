@@ -15,7 +15,7 @@ tags: [
 ---
 
 
-{{< lottie src="/images/juicy-json/juicy-woman-focused-on-online-learning.json" width="85%" >}}
+{{< ls-lottie src="/images/juicy-json/juicy-woman-focused-on-online-learning.json" width="85%" >}}
 
 ## Ketahui Cara Menggunakan Aplikasi Kami
 
@@ -27,7 +27,7 @@ Terokai FAQ untuk aplikasi anda di bawah untuk bermula, atau semak soalan dan ja
 
 ## Pilih Aplikasi Anda
 
-{{< product-doc-cards section="faq" >}}
+{{< ls-product-doc-cards section="faq" >}}
 
 ## Masalah Umum dan Jawapan
 
@@ -35,7 +35,7 @@ Terokai FAQ untuk aplikasi anda di bawah untuk bermula, atau semak soalan dan ja
 
 <div class="hx:w-full">
 
-{{% details title="Mengapa saya tidak boleh log masuk ke pCloud pada versi iOS yang lebih lama (15.8.4)?" closed="true" %}}
+{{% ls-details title="Mengapa saya tidak boleh log masuk ke pCloud pada versi iOS yang lebih lama (15.8.4)?" closed="true" %}}
 Halaman log masuk web pCloud mungkin tidak dipaparkan dengan betul pada versi iOS yang lebih lama seperti 15.8.4, yang menghalang anda daripada memasukkan e-mel dan kata laluan dalam skrin sambungan awan.<br><br>
 
 Sebagai penyelesaian, anda boleh menggunakan protokol **WebDAV**, yang disokong oleh pCloud dan berfungsi dengan baik pada semua versi iOS.
@@ -49,9 +49,9 @@ Sebagai penyelesaian, anda boleh menggunakan protokol **WebDAV**, yang disokong 
 Buka Aplikasi → Sambungan → Sambung ke Storan Awan → Pilih **WebDAV** → Masukkan kelayakan dan URL pelayan anda.
 
 Kaedah ini membolehkan anda menyambung ke storan pCloud dan mengakses fail anda tanpa masalah pada peranti lama.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Cara memainkan muzik pada AirPlay dari Mac (macOS)?" closed="true" %}}
+{{% ls-details title="Cara memainkan muzik pada AirPlay dari Mac (macOS)?" closed="true" %}}
 Versi macOS aplikasi tidak mempunyai butang sambungan AirPlay, Chromecast, atau Bluetooth terbina dalam seperti pada iOS.<br><br>
 
 Untuk menggunakan **AirPlay** pada MacBook Pro anda, ikuti langkah-langkah berikut:
@@ -62,9 +62,9 @@ Untuk menggunakan **AirPlay** pada MacBook Pro anda, ikuti langkah-langkah berik
 4. Pilih peranti yang dikehendaki untuk mula memstrim muzik anda.  
 
 Ini akan menghalakan semua audio sistem (termasuk dari Evermusic atau Flacbox) ke peranti AirPlay yang anda pilih.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Mengapa pembelian Premium saya tidak diaktifkan pada Mac jika saya membelinya pada iPhone?" closed="true" %}}
+{{% ls-details title="Mengapa pembelian Premium saya tidak diaktifkan pada Mac jika saya membelinya pada iPhone?" closed="true" %}}
 Pembelian seumur hidup dan langganan disegerakkan antara iOS dan Mac melalui **iCloud**.<br><br>
 
 Untuk mengaktifkan Premium pada Mac anda:<br>
@@ -76,9 +76,9 @@ Untuk mengaktifkan Premium pada Mac anda:<br>
 - Atau, ketik **Pulihkan Pembelian** dalam tetapan aplikasi pada kedua-dua peranti<br><br>
 
 Ciri-ciri Premium anda kemudiannya akan diaktifkan pada Mac secara automatik.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Bagaimana saya boleh menyegerakkan senarai main secara automatik antara peranti?" closed="true" %}}
+{{% ls-details title="Bagaimana saya boleh menyegerakkan senarai main secara automatik antara peranti?" closed="true" %}}
 Pada masa ini **tiada penyegerakan automatik** untuk senarai main.<br><br>
 
 Anda boleh menggunakan salah satu pilihan berikut:<br>
@@ -88,9 +88,9 @@ Anda boleh menggunakan salah satu pilihan berikut:<br>
   - [Cara Mengimport Senarai Main](/docs/howto/how-to-import-m3u-playlist-to-evermusic-and-flacbox/)<br>
 - **Arkib senarai main atau album** dan pindahkan melalui ZIP:<br>
   - [Panduan Arkib Senarai Main](/docs/howto/how-to-archive-zip-playlists-albums-artists-and-genres-in-evermusic-flacbox-and-transfer-to/)
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Adakah selamat menggunakan aplikasi anda? Bolehkah saya melumpuhkan analitik?" closed="true" %}}
+{{% ls-details title="Adakah selamat menggunakan aplikasi anda? Bolehkah saya melumpuhkan analitik?" closed="true" %}}
 Ya, privasi anda adalah keutamaan utama kami.<br><br>
 
 - Semua data—fail muzik, tetapan, log masuk awan—kekal pada peranti anda<br>
@@ -104,18 +104,18 @@ Maklumat lanjut:<br>
 
 Jika menggunakan iklan diperibadikan, Google Mobile Ads memerlukan tetapan persetujuan untuk ditunjukkan.<br>
 Pengguna Premium tidak melihat iklan dan SDK iklan dilumpuhkan sepenuhnya.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Adakah aplikasi anda menyokong Perkongsian Keluarga?" closed="true" %}}
+{{% ls-details title="Adakah aplikasi anda menyokong Perkongsian Keluarga?" closed="true" %}}
 Ya, Perkongsian Keluarga disokong.<br><br>
 
 Untuk berkongsi pembelian dalam aplikasi:<br>
 - Pastikan pembelian ditetapkan untuk dikongsi dengan kumpulan keluarga anda<br>
 - Pada peranti ahli keluarga, pergi ke **Tetapan > Pembelian > Pulihkan Pembelian**<br>
 - Ini akan meminta data pembelian dari pelayan Apple dan mengaktifkannya pada peranti mereka
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Cara mempercepatkan metadata dan penyegerakan awan?" closed="true" %}}
+{{% ls-details title="Cara mempercepatkan metadata dan penyegerakan awan?" closed="true" %}}
 Untuk meningkatkan kelajuan segerak, aktifkan tugas latar belakang:<br><br>
 
 - **Tetapan → Pustaka Muzik → Pembacaan Metadata → Pembacaan Metadata dalam Latar Belakang**<br>
@@ -123,14 +123,14 @@ Untuk meningkatkan kelajuan segerak, aktifkan tugas latar belakang:<br><br>
 
 Juga, pada macOS, tingkatkan kelajuan baca metadata melalui **Tetapan → Pustaka Muzik**.<br>
 Jika pemain aktif (audio dimainkan), iOS tidak akan menggantung aplikasi, membolehkan penyegerakan berterusan.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Bagaimana saya boleh membatalkan langganan saya?" closed="true" %}}
+{{% ls-details title="Bagaimana saya boleh membatalkan langganan saya?" closed="true" %}}
 Anda boleh membatalkan langganan anda dari arahan rasmi Apple:<br>
 👉 [Cara membatalkan langganan](https://support.apple.com/en-us/118428)
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Bagaimana cara menyambung dan memstrim audio dari WD MyCloud EX2 Ultra?" closed="true" %}}
+{{% ls-details title="Bagaimana cara menyambung dan memstrim audio dari WD MyCloud EX2 Ultra?" closed="true" %}}
 
 Apabila anda menambah sambungan dalam aplikasi melalui **Sambungan > Sambung ke Storan Awan > My Cloud Home**, ia direka secara rasmi untuk menyokong peranti **WD MyCloud Home**.<br>
 WD MyCloud EX2 Ultra menggunakan akses terhad untuk aplikasi.<br><br>
@@ -144,16 +144,16 @@ Walau bagaimanapun, jika anda berjaya menyambung ke **WD MyCloud EX2 Ultra**, **
 5. Anda kini boleh memstrim atau memuat turunnya secara langsung<br><br>
 
 ⚠️ Hanya folder yang dibuat melalui aplikasi akan boleh diakses dari NAS.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Bagaimana cara menyambung ke Koofr.eu?" closed="true" %}}
+{{% ls-details title="Bagaimana cara menyambung ke Koofr.eu?" closed="true" %}}
 Anda boleh menyambung Koofr menggunakan **WebDAV**.<br><br>
 
 - Panduan persediaan Koofr WebDAV: [blog koofr.eu](https://koofr.eu/blog/posts/3-ways-to-map-koofr-as-a-network-drive-explained)<br>
 - Panduan WebDAV Evermusic/Flacbox: [Cara Menyambung Storan NAS Menggunakan WebDAV dan Mendengar Muzik pada iPhone atau Mac Anda](/docs/howto/how-to-connect-nas-storage-using-webdav-and-listen-to-music-on-your-iphone-or-mac/)
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Apakah skema URL aplikasi?" closed="true" %}}
+{{% ls-details title="Apakah skema URL aplikasi?" closed="true" %}}
 Berikut adalah skema yang disokong:<br><br>
 
 **Evermusic**<br>
@@ -172,35 +172,35 @@ Berikut adalah skema yang disokong:<br><br>
 **Evervideo**<br>
 - iOS: `lsevervideo://`<br>
 - macOS: `lsevervideomac://`
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Muzik berhenti dimainkan apabila aplikasi berada di latar belakang — cara membetulkan?" closed="true" %}}
+{{% ls-details title="Muzik berhenti dimainkan apabila aplikasi berada di latar belakang — cara membetulkan?" closed="true" %}}
 Jika aplikasi ranap atau berhenti seketika di latar belakang:<br>
 - Pergi ke **Tetapan > Pustaka Muzik > Segerak Muzik Dalam Talian > Segerak Latar Belakang → Lumpuhkan**<br>
 - **Tetapan > Pustaka Muzik > Pembacaan Metadata > Pembacaan Metadata dalam Latar Belakang → Lumpuhkan**<br>
 - **Tetapan > Pengurus Fail > Pemindahan Latar Belakang → Lumpuhkan**
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Main balik tanpa jurang tidak berfungsi — cara membetulkan?" closed="true" %}}
+{{% ls-details title="Main balik tanpa jurang tidak berfungsi — cara membetulkan?" closed="true" %}}
 Main balik tanpa jurang bergantung pada versi iOS dan enjin audio.<br>
 Cuba tukar enjin audio:<br>
 - Pergi ke **Tetapan → Pemain Audio → Umum → Pemproses Audio**<br>
 - Pilih **Core Audio** untuk sokongan tanpa jurang yang lebih baik
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Mengapa aplikasi hanya menunjukkan 100 item dalam senarai?" closed="true" %}}
+{{% ls-details title="Mengapa aplikasi hanya menunjukkan 100 item dalam senarai?" closed="true" %}}
 Aplikasi menggunakan penomboran halaman untuk prestasi.<br>
 Untuk melumpuhkannya:<br>
 - Pergi ke **Tetapan → Pemperibadian → Had Pemuatan Kandungan → Dinyahaktifkan**<br>
 Sekarang semua item akan dimuatkan sekaligus.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Mengapa terdapat aksara pelik dalam metadata?" closed="true" %}}
+{{% ls-details title="Mengapa terdapat aksara pelik dalam metadata?" closed="true" %}}
 Cuba aktifkan penormalan metadata:<br>
 - **Tetapan → Pustaka Muzik → Pembacaan Metadata → Normalkan Pengekodan Metadata**
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Mengapa aplikasi tidak boleh membaca nama folder dengan aksara khas?" closed="true" %}}
+{{% ls-details title="Mengapa aplikasi tidak boleh membaca nama folder dengan aksara khas?" closed="true" %}}
 Ini adalah masalah yang diketahui dengan **protokol SMB2**.<br><br>
 
 Cuba penyelesaian berikut:<br>
@@ -210,9 +210,9 @@ Cuba penyelesaian berikut:<br>
   - Pilih folder/fail menggunakan menu natif Apple<br><br>
 
 Sebagai alternatif, sambung menggunakan **WebDAV** atau **DLNA** jika NAS anda menyokongnya.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Bagaimana cara memuat naik dan mengurus muzik dalam iCloud?" closed="true" %}}
+{{% ls-details title="Bagaimana cara memuat naik dan mengurus muzik dalam iCloud?" closed="true" %}}
 – **Bagaimana cara memuat naik muzik ke iCloud?**  <br>
 Pergi ke [https://www.icloud.com](https://www.icloud.com) dalam pelayar anda, buat folder, dan muat naik fail muzik anda terus dari Mac atau PC anda.<br>
 
@@ -225,9 +225,9 @@ Anda mempunyai dua pilihan:  <br>
 
 Ketahui lebih lanjut di sini: [Cara Memstrim Muzik dari iCloud Drive pada iPhone atau Mac Saya](/docs/howto/how-to-listen-to-music-from-icloud-drive-on-your-iphone-or-mac/)
 
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Bagaimana cara memindahkan pustaka muzik 10GB saya dari Windows 11 ke iPhone untuk main balik luar talian?" closed="true" %}}
+{{% ls-details title="Bagaimana cara memindahkan pustaka muzik 10GB saya dari Windows 11 ke iPhone untuk main balik luar talian?" closed="true" %}}
 
 Anda mempunyai beberapa pilihan yang boleh dipercayai untuk memindahkan pustaka muzik anda dari PC Windows 11 ke iPhone dan menggunakannya secara luar talian dalam aplikasi. Pilih kaedah yang paling sesuai untuk anda:
 
@@ -253,6 +253,6 @@ Anda mempunyai beberapa pilihan yang boleh dipercayai untuk memindahkan pustaka 
 
 ⚠️ Apabila memindahkan pustaka besar (10GB+), pemindahan USB berwayar biasanya merupakan pilihan yang paling pantas dan paling stabil.
 
-{{% /details %}}
+{{% /ls-details %}}
 
 </div>

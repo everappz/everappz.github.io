@@ -7,7 +7,7 @@ tags: ["hudba", "zvuk", "přehrávač", "iphone", "přehrávání", "offline", "
 readingTime: 5
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **Shrnutí:** Převeďte videa z YouTube na MP3 pomocí online převodníku v prohlížeči nebo bezplatné desktopové aplikace ClipGrab. Poté importujte zvukové soubory do Evermusic na vašem iPhone nebo Mac pro offline přehrávání -- není potřeba internet.
@@ -221,30 +221,30 @@ Pokud si nejste jisti svými možnostmi, zvažte, zda požádat o více informac
 
 P.S. Na YouTube je také k dispozici několik **video tutoriálů**:
 <br><br>
-{{< youtubecard id="TlVpbRvAiwA" title="Descargar Música Gratis Para IOS" >}}
+{{< ls-youtubecard id="TlVpbRvAiwA" title="Descargar Música Gratis Para IOS" >}}
 <br><br>
-{{< youtubecard id="jSDuNguZZNE" title="Evermusic: Free Offline Music Player for iOS (iPhone/iPod/iPad) | Music Files Organization" >}}
+{{< ls-youtubecard id="jSDuNguZZNE" title="Evermusic: Free Offline Music Player for iOS (iPhone/iPod/iPad) | Music Files Organization" >}}
 <br><br>
-{{< youtubecard id="-kY48ktbo2M" title="テクノロジー塾】おすすめiPhone 音楽アプリ「ever music」ストック型篇" >}}
+{{< ls-youtubecard id="-kY48ktbo2M" title="テクノロジー塾】おすすめiPhone 音楽アプリ「ever music」ストック型篇" >}}
 
 ## Často kladené otázky
 
-{{% details title="Je legální stahovat hudbu z YouTube?" closed="true" %}}
+{{% ls-details title="Je legální stahovat hudbu z YouTube?" closed="true" %}}
 Záleží na stavu autorských práv obsahu. Obsah bez licenčních poplatků a Creative Commons lze obvykle stáhnout pro osobní použití. Hudba chráněná autorským právem vyžaduje řádnou licenci nebo povolení.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Jaké audio formáty Evermusic podporuje?" closed="true" %}}
+{{% ls-details title="Jaké audio formáty Evermusic podporuje?" closed="true" %}}
 Evermusic podporuje MP3, FLAC, AAC, WAV, OGG, AIFF a mnoho dalších audio formátů. Můžete přehrát prakticky jakýkoli zvukový soubor, který stáhnete.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Mohu používat Evermusic bez internetového připojení?" closed="true" %}}
+{{% ls-details title="Mohu používat Evermusic bez internetového připojení?" closed="true" %}}
 Ano. Jakmile jsou zvukové soubory importovány do Evermusic, můžete je přehrávat zcela offline -- není potřeba internetové připojení.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Je ClipGrab zdarma?" closed="true" %}}
+{{% ls-details title="Je ClipGrab zdarma?" closed="true" %}}
 Ano. ClipGrab je zdarma a dostupný pro Mac i Windows. Používá open-source knihovnu youtube-dlp pro stahování.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Jak přenesu staženou hudbu z Mac na iPhone?" closed="true" %}}
+{{% ls-details title="Jak přenesu staženou hudbu z Mac na iPhone?" closed="true" %}}
 Můžete použít AirDrop, iTunes File Sharing nebo vestavěnou funkci Wi-Fi Drive v Evermusic k přenosu zvukových souborů z vašeho Mac na iPhone.
-{{% /details %}}
+{{% /ls-details %}}

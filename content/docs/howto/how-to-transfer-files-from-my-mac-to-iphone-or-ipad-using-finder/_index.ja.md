@@ -17,7 +17,7 @@ keywords: [
 readingTime: 3
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **要約:** iPhoneまたはiPadをUSBケーブルでMac（またはPC）に接続します。macOS Catalina以降ではFinderを使用します。古いmacOSまたはWindowsではiTunesを使用します。Evermusic、Flacbox、Evertagなどのアプリにファイルをドラッグして、即座に転送します。
@@ -117,26 +117,26 @@ iTunesファイル共有を使用すると、コンピュータとiOSアプリ�
 
 ## よくある質問
 
-{{% details title="USBでファイルを転送するのにインターネット接続は必要ですか？" closed="true" %}}
+{{% ls-details title="USBでファイルを転送するのにインターネット接続は必要ですか？" closed="true" %}}
 いいえ。ファイル共有は、コンピュータとiOSデバイス間のUSBケーブル接続のみで動作します。インターネットは不要です。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="EvermusicまたはFlacboxにどのファイル形式を転送できますか？" closed="true" %}}
+{{% ls-details title="EvermusicまたはFlacboxにどのファイル形式を転送できますか？" closed="true" %}}
 両方のアプリは、MP3、FLAC、AAC、WAV、AIFF、OGG、WMAなど、幅広いオーディオ形式をサポートしています。サポートされている形式の完全なリストについては、アプリのドキュメントを確認してください。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Finderにファイルタブが表示されないのはなぜですか？" closed="true" %}}
+{{% ls-details title="Finderにファイルタブが表示されないのはなぜですか？" closed="true" %}}
 ファイルタブは、デバイスにファイル共有をサポートするアプリが少なくとも1つインストールされている場合にのみ表示されます。Evermusic、Flacbox、またはEvertagをインストールしてから、デバイスを再接続してください。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="USBケーブルの代わりにワイヤレスでファイルを転送できますか？" closed="true" %}}
+{{% ls-details title="USBケーブルの代わりにワイヤレスでファイルを転送できますか？" closed="true" %}}
 はい。EvermusicとFlacboxは、クラウドストレージサービスやWi-Fi転送もサポートしています。ただし、FinderまたはiTunesを使用したUSBファイル共有は、大規模な音楽ライブラリの場合、通常より高速です。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Finderでファイルを転送すると、デバイス上の既存のファイルが上書きされますか？" closed="true" %}}
+{{% ls-details title="Finderでファイルを転送すると、デバイス上の既存のファイルが上書きされますか？" closed="true" %}}
 いいえ。新しいファイルは既存のファイルの横に追加されます。同じ名前のファイルがすでに存在する場合、macOSが新しいファイルの名前を自動的に変更する場合があります。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="この方法はWindows PCでも使えますか？" closed="true" %}}
+{{% ls-details title="この方法はWindows PCでも使えますか？" closed="true" %}}
 はい。Windowsでは、iTunesを使用してファイルを転送します。プロセスは上記のiTunesセクションで説明したものと同じです。Microsoft StoreまたはAppleのウェブサイトからiTunesをインストールしてください。
-{{% /details %}}
+{{% /ls-details %}}

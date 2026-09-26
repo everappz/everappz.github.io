@@ -7,7 +7,7 @@ keywords: ["DLNA server iPhone", "UPnP server iPad", "jak nastavit DLNA na iPhon
 readingTime: 9
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 DLNA (označované také jako UPnP AV) je tichým tahounem většiny chytrých TV. Je to sdílený jazyk, který umožňuje televizi nebo přehrávači médií najít mediální knihovnu ve stejné Wi-Fi a přehrávat z ní, aniž byste do TV cokoli instalovali. Pokud může vaše zařízení iPhone nebo iPad fungovat jako tato knihovna, vaše fotky, videa a hudba se na velké obrazovce objeví samy.
 
@@ -127,44 +127,44 @@ DLNA předá soubor TV tak, jak je, a TV ho musí umět dekódovat. Pokud se kli
 
 ## Často kladené otázky
 
-{{% details title="Jaký je rozdíl mezi DLNA a UPnP?" closed="true" %}}
+{{% ls-details title="Jaký je rozdíl mezi DLNA a UPnP?" closed="true" %}}
 Jsou úzce příbuzné. UPnP je základní síťový standard a DLNA je mediální profil postavený na něm, který TV a přehrávače používají ke sdílení a přehrávání fotek, videí a hudby. V běžném použití jsou tato slova zaměnitelná. Když v Everdisku zapnete Televizi a mediální centrum, vaše zařízení se stane mediálním serverem DLNA/UPnP, který může procházet jakýkoli klient DLNA.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Musím na TV něco instalovat?" closed="true" %}}
+{{% ls-details title="Musím na TV něco instalovat?" closed="true" %}}
 Ne. Pokud vaše TV podporuje DLNA, už má přehrávač médií, který dokáže vaše zařízení najít na Wi-Fi. Everdisk instalujete jen na iPhone nebo iPad, který obsahuje obsah. Pokud vaše TV DLNA nepodporuje, nainstalujte přehrávač jako VLC nebo Kodi na zařízení, které je k ní připojené.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Proč se můj iPhone na TV nezobrazí?" closed="true" %}}
+{{% ls-details title="Proč se můj iPhone na TV nezobrazí?" closed="true" %}}
 Zkontrolujte, že jsou obě zařízení ve stejné síti Wi-Fi. Hostovské sítě a některé firemní nebo hotelové sítě brání zařízením ve vzájemném vidění, což DLNA zastaví. Poté ověřte, že je Everdisk otevřený se spuštěným sdílením a že je v Nastavení, Sdílení, Připojení zapnuté Televize a mediální centrum. Pokud TV stále nemůže zařízení najít, přidejte server ručně pomocí adresy s popisem zařízení, která končí na /device-desc.xml.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Vyžaduje streamování přes DLNA heslo?" closed="true" %}}
+{{% ls-details title="Vyžaduje streamování přes DLNA heslo?" closed="true" %}}
 Ne. DLNA je, dokud je zapnuté, vždy otevřené komukoli ve stejné Wi-Fi, a proto na straně TV není žádné přihlášení. To je v pořádku na domácí síti, které důvěřujete. Na síti, které nedůvěřujete, po dokončení Televizi a mediální centrum vypněte, nebo místo toho použijte server SMB se šifrováním.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Můžu streamovat na Chromecast nebo Roku?" closed="true" %}}
+{{% ls-details title="Můžu streamovat na Chromecast nebo Roku?" closed="true" %}}
 Chromecast a Roku ve výchozím stavu jako přehrávače DLNA nefungují, takže vaše zařízení přímo nenajdou. Řešením je nainstalovat aplikaci DLNA, která umí odesílat obraz, například VLC nebo BubbleUPnP na telefonu, a přehrávání na Chromecast nebo Roku posílat odtud. Na většině ostatních chytrých TV DLNA funguje bez čehokoli z toho.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Video se přehrává bez zvuku nebo se neotevře. Co mohu dělat?" closed="true" %}}
+{{% ls-details title="Video se přehrává bez zvuku nebo se neotevře. Co mohu dělat?" closed="true" %}}
 To je formát, který TV nedokáže dekódovat. Otevřete v Everdisku Nastavení, Sdílení, Videa a snižte Kvalitu, aby aplikace video při streamování převedla do kompatibilnějšího formátu. Stejný soubor můžete také otevřít přes odkaz na prohlížeč, který zvládá více formátů.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Můžu streamovat hudbu, ne jen video?" closed="true" %}}
+{{% ls-details title="Můžu streamovat hudbu, ne jen video?" closed="true" %}}
 Ano. Zapněte Povolit přístup k celé hudební knihovně, nebo přidejte konkrétní skladby, a poté spusťte sdílení. Vaše skladby se objeví na jakémkoli reproduktoru DLNA, AV receiveru nebo TV, s obalem a údaji o skladbě. Hudba se vždy sdílí v původní kvalitě.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Musí aplikace během sledování zůstat otevřená?" closed="true" %}}
+{{% ls-details title="Musí aplikace během sledování zůstat otevřená?" closed="true" %}}
 Ano. Váš iPhone funguje jako server a iOS pozastavuje aplikace, které se na dlouhou dobu úplně přesunou na pozadí. Během streamování mějte Everdisk na obrazovce a při dlouhých seancích ho připojte k napájení.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Jak streamuji z jednoho iPhonu na druhý iPad?" closed="true" %}}
+{{% ls-details title="Jak streamuji z jednoho iPhonu na druhý iPad?" closed="true" %}}
 Spusťte sdílení na iPhonu, poté otevřete Everdisk na iPadu a přejděte na kartu Zařízení. iPhone se objeví pod Dostupná zařízení jako mediální server. Klepnutím na něj procházejte a přehrávejte. Everdisk funguje jako klient DLNA i jako server, takže nepotřebujete další aplikaci.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Je Everdisk zdarma?" closed="true" %}}
+{{% ls-details title="Je Everdisk zdarma?" closed="true" %}}
 Ano, Everdisk je zdarma ke stažení a mediální server DLNA je součástí. Volitelný jednorázový nákup Premium Lifetime přidává doplňky, jako je převod fotek a videí pro starší TV, vlastní porty a další. Streamování přes DLNA můžete nastavit a používat bez placení.
-{{% /details %}}
+{{% /ls-details %}}
 
 Chcete to vyzkoušet? [Stáhněte si Everdisk z App Store](https://apps.apple.com/app/apple-store/id6751851132?pt=95781850&ct=everappzcom&mt=8) a během pár minut streamujte na TV své první album. Máte dotazy nebo zpětnou vazbu? Napište nám na **support@everappz.com**.

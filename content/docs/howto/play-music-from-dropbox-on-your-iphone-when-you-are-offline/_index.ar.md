@@ -7,7 +7,7 @@ tags: ["سحابة", "بث", "آيفون", "mp3", "تخزين", "دروبوكس"
 keywords: ["تشغيل موسيقى Dropbox iPhone", "موسيقى بدون اتصال Dropbox iOS", "Evermusic Dropbox", "مشغل mp3 سحابي", "بث صوت Dropbox", "مدير ملفات Evermusic", "Dropbox iOS صوت"]
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **ملخص:** ارفع الموسيقى إلى Dropbox، وثبّت تطبيق Evermusic المجاني على iPhone، واربط حساب Dropbox الخاص بك، ثم شغّل أو حمّل مقاطعك الموسيقية للاستماع دون اتصال. يدعم Evermusic صيغ MP3 وFLAC وWAV وAAC وغيرها. يتضمن معادل صوت 10 نطاقات وقوائم تشغيل وإدارة ملفات.
@@ -35,7 +35,7 @@ Evermusic مجاني تماماً ومتاح لكل من iPhone وiPad، ومت�
 
 {{< cards cols="1">}}
 
-  {{< card title="تحميل Evermusic" subtitle="مشغل موسيقى بدون اتصال وأداة بث من التخزين السحابي لـ iPhone وiPad." icon="download" link="https://itunes.apple.com/us/app/evermusic-offline-music/id885367198?mt=8" >}}
+  {{< ls-card title="تحميل Evermusic" subtitle="مشغل موسيقى بدون اتصال وأداة بث من التخزين السحابي لـ iPhone وiPad." icon="download" link="https://itunes.apple.com/us/app/evermusic-offline-music/id885367198?mt=8" >}}
 
 {{< /cards >}}
 
@@ -67,26 +67,26 @@ Evermusic هو أيضاً مدير ملفات كامل الميزات يدعم �
 
 ## الأسئلة الشائعة
 
-{{% details title="هل يمكنني تشغيل موسيقى Dropbox دون اتصال على iPhone؟" closed="true" %}}
+{{% ls-details title="هل يمكنني تشغيل موسيقى Dropbox دون اتصال على iPhone؟" closed="true" %}}
 نعم. استخدم Evermusic لربط Dropbox الخاص بك، ثم حمّل أي مقطع أو قائمة تشغيل للاستماع دون اتصال. تُخزّن الملفات المحملة على جهازك وتُشغّل بدون اتصال بالإنترنت.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="هل Evermusic مجاني؟" closed="true" %}}
+{{% ls-details title="هل Evermusic مجاني؟" closed="true" %}}
 Evermusic مجاني للتحميل مع ميزات أساسية تشمل المعادل الصوتي والبث السحابي والتشغيل دون اتصال. تدعم النسخة المجانية ما يصل إلى 3 اتصالات سحابية و10 قوائم تشغيل. الترقية إلى Premium تزيل جميع القيود.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="ما هي صيغ الصوت التي يدعمها Evermusic من Dropbox؟" closed="true" %}}
+{{% ls-details title="ما هي صيغ الصوت التي يدعمها Evermusic من Dropbox؟" closed="true" %}}
 يشغل Evermusic صيغ MP3 وFLAC وWAV وAAC وAIFF وOGG وWMA والعديد من الصيغ الأخرى مباشرة من Dropbox.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="هل يمكنني ربط خدمات سحابية متعددة؟" closed="true" %}}
+{{% ls-details title="هل يمكنني ربط خدمات سحابية متعددة؟" closed="true" %}}
 نعم. يدعم Evermusic خدمات Dropbox وGoogle Drive وOneDrive وBox وWebDAV وSMB وMEGA وغيرها. يمكنك ربط حسابات غير محدودة وتصفحها جميعاً في مكتبة واحدة.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="هل يزامن Evermusic قوائم التشغيل عبر الأجهزة؟" closed="true" %}}
+{{% ls-details title="هل يزامن Evermusic قوائم التشغيل عبر الأجهزة؟" closed="true" %}}
 قوائم التشغيل التي تم إنشاؤها في Evermusic تُخزّن محلياً على جهازك. تبقى ملفات Dropbox متزامنة عبر جميع الأجهزة من خلال Dropbox نفسه.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="كيف أحرر مساحة تخزين iPhone باستخدام موسيقى Dropbox؟" closed="true" %}}
+{{% ls-details title="كيف أحرر مساحة تخزين iPhone باستخدام موسيقى Dropbox؟" closed="true" %}}
 انقل ملفات الموسيقى إلى Dropbox وابثها عبر Evermusic بدلاً من تخزينها على iPhone. حمّل فقط المقاطع التي تحتاجها للاستماع دون اتصال.
-{{% /details %}}
+{{% /ls-details %}}

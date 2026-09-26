@@ -14,7 +14,7 @@ authors:
     image: "/images/about/artem-meleshko-founder-everappz.webp"
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 **Περίληψη:** Το Evermusic κερδίζει σε 5 από 8 κατηγορίες, με 3 ισοπαλίες. Προσφέρει ευρύτερη υποστήριξη αποθήκευσης cloud (12+ υπηρεσίες έναντι μόνο VOX Cloud), ενσωματωμένες λειτουργίες ηχητικών βιβλίων, επεξεργαστή ετικετών ID3 και ασύρματη μεταφορά αρχείων. Το VOX απευθύνεται σε χρήστες που προτιμούν το ιδιόκτητο cloud του και τον μινιμαλιστικό σχεδιασμό.
 
@@ -34,8 +34,8 @@ authors:
 | Προσβασιμότητα (VoiceOver) | Ναι | Ναι | Ισοπαλία |
 
 {{< cards >}}
-  {{< card link="https://apps.apple.com/us/app/evermusic-cloud-music-player/id885367198" title="Λήψη Evermusic" icon="download" tag="Δωρεάν" >}}
-  {{< card link="https://apps.apple.com/us/app/vox-mp3-flac-music-player/id916215494" title="Λήψη VOX" icon="download" tag="Δωρεάν" >}}
+  {{< ls-card link="https://apps.apple.com/us/app/evermusic-cloud-music-player/id885367198" title="Λήψη Evermusic" icon="download" tag="Δωρεάν" >}}
+  {{< ls-card link="https://apps.apple.com/us/app/vox-mp3-flac-music-player/id916215494" title="Λήψη VOX" icon="download" tag="Δωρεάν" >}}
 {{< /cards >}}
 
 ## Υποστήριξη αποθήκευσης cloud
@@ -107,18 +107,18 @@ authors:
 
 ## Συχνές ερωτήσεις
 
-{{% details title="Είναι το Evermusic καλή εναλλακτική στο VOX;" closed="true" %}}
+{{% ls-details title="Είναι το Evermusic καλή εναλλακτική στο VOX;" closed="true" %}}
 Ναι. Το Evermusic υποστηρίζει 12+ υπηρεσίες αποθήκευσης cloud σε σύγκριση με το ιδιόκτητο cloud μόνο του VOX. Προσφέρει επίσης λειτουργίες ηχητικών βιβλίων, επεξεργασία ετικετών ID3 και μεταφορά αρχείων Wi-Fi που λείπουν από το VOX. Το Evermusic είναι δωρεάν για λήψη με διαθέσιμη εφάπαξ αναβάθμιση Premium.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Υποστηρίζει το VOX Dropbox ή Google Drive;" closed="true" %}}
+{{% ls-details title="Υποστηρίζει το VOX Dropbox ή Google Drive;" closed="true" %}}
 Όχι. Το VOX χρησιμοποιεί τη δική του ιδιόκτητη αποθήκευση VOX Cloud. Δεν συνδέεται με υπηρεσίες τρίτων όπως Dropbox, Google Drive ή OneDrive. Το Evermusic υποστηρίζει όλες αυτές και περισσότερες.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Ποια εφαρμογή είναι καλύτερη για ηχητικά βιβλία: Evermusic ή VOX;" closed="true" %}}
+{{% ls-details title="Ποια εφαρμογή είναι καλύτερη για ηχητικά βιβλία: Evermusic ή VOX;" closed="true" %}}
 Το Evermusic είναι σημαντικά καλύτερο για ηχητικά βιβλία. Περιλαμβάνει έλεγχο ταχύτητας αναπαραγωγής, αυτόματη αποθήκευση θέσης και υποστήριξη σελιδοδεικτών. Το VOX δεν διαθέτει αποκλειστικές λειτουργίες ηχητικών βιβλίων.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Μπορώ να επεξεργαστώ ετικέτες μουσικής στο iPhone με το Evermusic;" closed="true" %}}
+{{% ls-details title="Μπορώ να επεξεργαστώ ετικέτες μουσικής στο iPhone με το Evermusic;" closed="true" %}}
 Ναι. Το Evermusic περιλαμβάνει ενσωματωμένο επεξεργαστή ετικετών ID3 που σας επιτρέπει να διορθώνετε τίτλους κομματιών, ονόματα καλλιτεχνών, πληροφορίες άλμπουμ και άλλα μεταδεδομένα απευθείας στο iPhone ή iPad σας.
-{{% /details %}}
+{{% /ls-details %}}

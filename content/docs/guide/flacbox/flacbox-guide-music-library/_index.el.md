@@ -19,7 +19,7 @@ readingTime: 11
 Η διαχείριση της μουσικής σας βιβλιοθήκης είναι εύκολη με το Flacbox, όπου μπορείτε να οργανώνετε όλα τα κομμάτια σας — τοπικά FLAC, ALAC, DSD, MP3, M4A, OGG, WMA, APE και δεκάδες άλλες μορφές — σε μια ενιαία, αναζητήσιμη συλλογή.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox Προβολή Άλμπουμ Μουσικής Βιβλιοθήκης" image="/docs/guide/flacbox/img/media-library-albums.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox Προβολή Άλμπουμ Μουσικής Βιβλιοθήκης" image="/docs/guide/flacbox/img/media-library-albums.webp" >}}
 {{< /cards >}}
 
 ## Χειροκίνητη Προσθήκη
@@ -27,7 +27,7 @@ readingTime: 11
 Για χειροκίνητη προσθήκη κομματιών, πατήστε το εικονίδιο **Προσθήκη Μουσικής** πάνω αριστερά και επιλέξτε φακέλους ή αρχεία. Κατά την προσθήκη κομματιών, δημιουργούνται μόνο σύνδεσμοι — τα πραγματικά αρχεία παραμένουν στις αρχικές τους τοποθεσίες.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox Προσθήκη Τραγουδιών στη Μουσική Βιβλιοθήκη" image="/docs/guide/flacbox/img/library-add-songs.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox Προσθήκη Τραγουδιών στη Μουσική Βιβλιοθήκη" image="/docs/guide/flacbox/img/library-add-songs.webp" >}}
 {{< /cards >}}
 
 ## Συνέχεια Αναπαραγωγής
@@ -85,7 +85,7 @@ readingTime: 11
 Η λειτουργία αναζήτησης σας επιτρέπει να εντοπίζετε ένα συγκεκριμένο κομμάτι, καλλιτέχνη, άλμπουμ ή είδος στη μουσική σας βιβλιοθήκη.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox Αναζήτηση Μουσικής Βιβλιοθήκης" image="/docs/guide/flacbox/img/media-library-search.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox Αναζήτηση Μουσικής Βιβλιοθήκης" image="/docs/guide/flacbox/img/media-library-search.webp" >}}
 {{< /cards >}}
 
 ## Μενού Επιλογών
@@ -127,7 +127,7 @@ readingTime: 11
 Όταν ανοίγετε τις ενότητες Καλλιτέχνης, Καλλιτέχνης Άλμπουμ ή Συνθέτης, μπορείτε να δείτε ένα διακόπτη για Τραγούδια / Όλα τα Άλμπουμ / Αποκλειστικά Άλμπουμ / Solo Άλμπουμ.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox Οθόνη Λεπτομέρειας Άλμπουμ" image="/docs/guide/flacbox/img/media-library-album-details-screen.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox Οθόνη Λεπτομέρειας Άλμπουμ" image="/docs/guide/flacbox/img/media-library-album-details-screen.webp" >}}
 {{< /cards >}}
 
 ## Ρυθμίσεις

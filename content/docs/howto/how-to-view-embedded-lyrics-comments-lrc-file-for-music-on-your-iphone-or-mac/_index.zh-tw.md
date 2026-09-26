@@ -7,7 +7,7 @@ tags: ["音訊", "iphone", "mp3", "歌詞", "lrc", "嵌入式", "檢視", "顯�
 keywords: ["檢視嵌入式歌詞 iPhone", "Evermusic 顯示歌詞", "LRC 檔案 Evermusic", "評論標籤音訊", "歌詞顯示 Flacbox", "歌詞 iOS 音樂應用程式", "音訊播放器顯示歌詞"]
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **TL;DR:** Evermusic for iPhone 和 Mac 可顯示任何音訊曲目的嵌入式歌詞、評論標籤和外部 .lrc 檔案。開啟播放器，點選**更多操作**，然後選擇**評論**，即可以三種模式檢視歌詞：評論、嵌入式歌詞和 LRC 檔案。
@@ -68,22 +68,22 @@ keywords: ["檢視嵌入式歌詞 iPhone", "Evermusic 顯示歌詞", "LRC 檔案
 
 ## 常見問題
 
-{{% details title="如何在 iPhone 上檢視嵌入式歌詞？" closed="true" %}}
+{{% ls-details title="如何在 iPhone 上檢視嵌入式歌詞？" closed="true" %}}
 開啟 Evermusic，播放一首歌曲，在全螢幕播放器中點選更多操作，然後選擇評論。滑動到嵌入式歌詞標籤頁，檢視儲存在音訊檔案標籤中的歌詞。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="什麼是 LRC 檔案，它是如何運作的？" closed="true" %}}
+{{% ls-details title="什麼是 LRC 檔案，它是如何運作的？" closed="true" %}}
 LRC 檔案是包含計時歌詞的文字檔案。當與音訊檔案放在同一資料夾中且具有相同的檔案名稱時，Evermusic 會讀取它並顯示在播放過程中捲動的同步歌詞。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="我可以在 iPhone 上為音樂檔案新增歌詞嗎？" closed="true" %}}
+{{% ls-details title="我可以在 iPhone 上為音樂檔案新增歌詞嗎？" closed="true" %}}
 可以。使用 Evertag 應用程式編輯 ID3 標籤，直接在 iPhone 上新增或更新嵌入式歌詞。您可以貼上計時 LRC 格式的文字以取得同步歌詞。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Evermusic 支援同步（計時）歌詞嗎？" closed="true" %}}
+{{% ls-details title="Evermusic 支援同步（計時）歌詞嗎？" closed="true" %}}
 支援。Evermusic 支援 LRC 格式的計時歌詞，無論是嵌入在音訊標籤中還是作為單獨的 `.lrc` 檔案提供。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="哪些音訊格式支援嵌入式歌詞？" closed="true" %}}
+{{% ls-details title="哪些音訊格式支援嵌入式歌詞？" closed="true" %}}
 MP3、FLAC、AAC、M4A、OGG 和大多數其他常見格式都透過各自的標籤標準支援嵌入式歌詞。
-{{% /details %}}
+{{% /ls-details %}}

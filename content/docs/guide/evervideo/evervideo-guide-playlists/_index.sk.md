@@ -19,7 +19,7 @@ V sekcii Playlisty nájdete praktické nástroje na správu vašich video kolekc
 Playlisty v aplikácii Evervideo môžu obsahovať kombináciu online cloudových videí, offline stiahnutých súborov, lokálnych súborov, videí z knižnice Photos a videí z knižnice iOS Music — všetko v jednom playliste — a plynulo sa prehrávajú.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evervideo Playlisty v Mediálnej knižnici" image="/docs/guide/evervideo/img/evervideo-playlists-in-media-library.webp" >}}
+  {{< ls-card title="" subtitle="Evervideo Playlisty v Mediálnej knižnici" image="/docs/guide/evervideo/img/evervideo-playlists-in-media-library.webp" >}}
 {{< /cards >}}
 
 ## Vytvorenie playlistu

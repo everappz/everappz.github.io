@@ -7,9 +7,9 @@ tags: ["Flacbox", "Hangeffektek", "Útmutató", "BASS", "Hangszínszabályzó", 
 readingTime: 30
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
-{{< full-width-tables >}}
+{{< ls-full-width-tables >}}
 
 **Rövid válasz:** A Flacboxban egyetlen **Lejátszási motort** választasz a **Beállítások > Audiolejátszó** menüben: **Standard** (az Apple rendszermotorja), **Universal** (az FFmpeg motor) vagy **Sound FX** (a **BASS™ motor**). A választott motor dönti el, mely fájlformátumok játszhatók le, ezért a döntés számít. A **Sound FX** motor olyan extra formátumokat játszik le, amelyeket a legtöbb iPhone-alkalmazás kihagy (FLAC, DSD, WavPack, APE, Musepack, TrueAudio, Opus, és régi **MOD és tracker zenét**, mint a MOD, XM, IT és S3M), és ez az egyetlen motor, amely a hangeszközöket működteti: egy **10 sávos hangszínszabályzót**, **hangerő-normalizálást**, **kompresszort**, **Freeverbet**, **Auto Wah-t**, **Phasert**, **Flangert**, **visszhangot**, **Chorust**, **torzítást**, **Rotate-et**, **Crossfeedet** és egy saját összeállítású **DSP-láncot**. Tehát ahhoz, hogy ebben az útmutatóban szereplő effekteket használd, először állítsd a Lejátszási motort **Sound FX**-re. Minden eszköznek vannak kész **presetjei**. Nyisd meg őket a **Beállítások > Audiolejátszó** menüben (Hangeffektek, Hangszínszabályzó, Jelfeldolgozás), vagy koppints a lejátszón a **⋯ (Több)** gombra, és válaszd a **Hangeffektek** lehetőséget. Semmi, amit itt teszel, sosem változtatja meg a fájljaidat.
 
@@ -657,93 +657,93 @@ Mivel mindez élőben fut, miközben a zene szól, az effektek:
 
 ## GYIK
 
-{{% details title="Milyen hangmotort használ a Flacbox?" closed="true" %}}
+{{% ls-details title="Milyen hangmotort használ a Flacbox?" closed="true" %}}
 Egyetlen Lejátszási motort választasz a Beállítások > Audiolejátszó menüben: Standard (az Apple rendszermotorja), Universal (az FFmpeg motor) vagy Sound FX (a BASS™ motor az Un4seen Developmentstől, un4seen.com). A választott motor dönti el, mely fájlformátumok játszanak le. A Sound FX az, amely olyan extra formátumokat játszik le, mint a FLAC, DSD, WavPack, APE, Musepack, TrueAudio, Opus és a MOD vagy tracker zene, és ez az egyetlen motor, amely biztosítja az élő effekteket, a 10 sávos hangszínszabályzót és a DSP-láncot. Az effektek használatához állítsd a Lejátszási motort Sound FX-re.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Le tud játszani a Flacbox MOD, XM, IT és egyéb tracker vagy modul zenét?" closed="true" %}}
+{{% ls-details title="Le tud játszani a Flacbox MOD, XM, IT és egyéb tracker vagy modul zenét?" closed="true" %}}
 Igen. A BASS™ motornak van egy beépített modul lejátszója, amely betölti a MOD, XM, IT, S3M, MTM, UMX és MO3 fájlokat, és élőben újraépíti a dalt a mintáiból és hangszerhangjaiból, ahogyan a tracker zenét lejátszani szánták. A szokványos iPhone-lejátszók erre nem képesek. Az effektek és a hangszínszabályzó a modul zenén is működnek.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Támogatja a Flacbox a DSD és nagy felbontású fájlokat?" closed="true" %}}
+{{% ls-details title="Támogatja a Flacbox a DSD és nagy felbontású fájlokat?" closed="true" %}}
 Igen. A Flacbox lejátssza a DSD fájlokat (DSF és DFF) a BASS™ motoron keresztül DSD over PCM segítségével, hogy normál kimeneti hardveren működjenek, plusz FLAC, WavPack, Monkey's Audio (APE), Musepack és TrueAudio a veszteségmentes lejátszáshoz.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Milyen hangeffektjei vannak a Flacboxnak?" closed="true" %}}
+{{% ls-details title="Milyen hangeffektjei vannak a Flacboxnak?" closed="true" %}}
 Egy 10 sávos hangszínszabályzó, hangerő-normalizálás, kompresszor, Freeverb, Auto Wah, Phaser, Flanger, visszhang, Chorus, torzítás, Rotate és Crossfeed, plusz egy saját összeállítású DSP-lánc szűrőkkel, polcokkal, erősítéssel, lágy klippel, bit crusherrel, gyűrűmodulátorral, tremolóval, késleltetéssel és sztereó szélességgel. Mindegyik külön van, és kombinálható a többivel.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Mi az a preset?" closed="true" %}}
+{{% ls-details title="Mi az a preset?" closed="true" %}}
 A preset egy kész beállítás egy effekthez. Ahelyett, hogy magad mozgatnád a csúszkákat, koppintasz egy presetre, és a hangzás annak megfelelően megváltozik. A Flacbox minden effektjének több presetje van, és ez az útmutató felsorolja, mit csinál mindegyik. Ha egy preset kiválasztása után elmozdítasz egy csúszkát, az effekt «Manuális» állapotot mutat, hogy jelezze, most a saját értékeidet használja.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Hogyan nyitom meg a hangeffekteket a Flacboxban?" closed="true" %}}
+{{% ls-details title="Hogyan nyitom meg a hangeffekteket a Flacboxban?" closed="true" %}}
 Nyisd meg az Épp játszott lejátszót, koppints a ⋯ (Több) gombra, és válaszd a Hangeffektek lehetőséget. Vagy menj a Beállítások > Audiolejátszó > Hangeffektek menübe. Koppints egy effektre, kapcsold be a kapcsolóját, és válassz presetet, vagy nyisd meg a csúszkákat a finomhangoláshoz.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Hol van a hangszínszabályzó, és melyek a legjobb beállítások?" closed="true" %}}
+{{% ls-details title="Hol van a hangszínszabályzó, és melyek a legjobb beállítások?" closed="true" %}}
 Menj a Beállítások > Audiolejátszó > Hangszínszabályzó menübe. 10 sávja van 32 Hz-től 16 kHz-ig, mindegyik -12-től +12 dB-ig, plusz egy -24-től +24 dB-ig terjedő Előerősítő és 22 preset. Több basszushoz használd a Bass Boostert. Tisztább hangokhoz használd a Vocal Boostert vagy a Popot. Fényesebb hangzáshoz használd a Treble Boostert. Aztán állítsd az egyes sávokat ízlés szerint.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Hogyan emelem ki a basszust a Flacboxban?" closed="true" %}}
+{{% ls-details title="Hogyan emelem ki a basszust a Flacboxban?" closed="true" %}}
 Két egyszerű módon. A Hangszínszabályzóban válaszd a Bass Boostert (vagy emeld meg a 32 Hz-es és 64 Hz-es sávokat néhány dB-lel). Vagy a Jelfeldolgozásban adj hozzá egy Basszuspolc blokkot Bass Boost beállításon. Mindkét esetben csökkentsd az Előerősítőt, vagy adj hozzá egy Erősítés blokkot 1-2 dB-lel, hogy a basszus tiszta maradjon és ne torzuljon.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Melyik hangszínszabályzó preset a legjobb a zenémhez?" closed="true" %}}
+{{% ls-details title="Melyik hangszínszabályzó preset a legjobb a zenémhez?" closed="true" %}}
 A Rock és Electronic energiát ad erős mélyekkel és magasakkal. Az Acoustic, Jazz és Classical meleg és természetes marad. A Pop és Vocal Booster előretolja a hangokat. A Bass Booster és Hip-Hop súlyt ad. A Deep és Loudness teljesebben szól alacsony hangerőn. Kezdd azzal, amelyik illik a műfajodhoz, aztán finomhangolj.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Mi az a hangerő-normalizálás, és miben különbözik a ReplayGaintől?" closed="true" %}}
+{{% ls-details title="Mi az a hangerő-normalizálás, és miben különbözik a ReplayGaintől?" closed="true" %}}
 Minden számot nagyjából ugyanolyan hangosságon szólaltat meg. Méri a valós hangosságot az EBU R128 szabvány segítségével (LUFS-ban, mint a streaming szolgáltatások), és minden számot a célértéked felé igazít, egy max-kiemelés korláttal. A ReplayGaintől eltérően nem igényel címkéket a fájljaidban, és bármely forráson működik, élőben, a hang megváltoztatása nélkül. Presetek: Light, Standard, Strong és Night.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Mi az a Crossfeed, és használjam?" closed="true" %}}
+{{% ls-details title="Mi az a Crossfeed, és használjam?" closed="true" %}}
 A Crossfeed egy kicsit összekever a bal és jobb csatornából, hogy a fejhallgató inkább valós hangszóróknak érződjön, és kevésbé úgy, mintha a hangzás a fejedben ragadt volna. Csak fejhallgatóra való, ezért kapcsold ki hangszórókhoz. A Flacbox a bs2b (Bauer) módszert használja, olyan presetekkel, mint a Chu Moy és Jan Meier.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Mi a különbség a Kompresszor és a hangerő-normalizálás között?" closed="true" %}}
+{{% ls-details title="Mi a különbség a Kompresszor és a hangerő-normalizálás között?" closed="true" %}}
 A hangerő-normalizálás a különböző dalok közötti hangosságot illeszti. A Kompresszor a hangos és halk részeket egyenlíti ki egyetlen dalon belül. Különböző problémákat oldanak meg, és jól működnek együtt, különösen autóban vagy zajos helyen.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Mi az a Jelfeldolgozás (DSP) lánc?" closed="true" %}}
+{{% ls-details title="Mi az a Jelfeldolgozás (DSP) lánc?" closed="true" %}}
 Ez egy saját összeállítású állvány a Beállítások > Audiolejátszó > Jelfeldolgozás menüben. Adj hozzá blokkokat, mint szűrők, polcok, erősítés, lágy klipp, bit crusher, gyűrűmodulátor, tremolo, késleltetés és sztereó szélesség, tedd őket bármilyen sorrendbe, kapcsold be vagy ki mindegyiket, és irányítsd a láncot az összes csatornára, a balra vagy a jobbra. Mivel a sorrend számít, pontosan azt a hangzást tervezheted meg, amit szeretnél.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Mi a különbség a hangszínszabályzó, az effektek és a DSP-lánc között?" closed="true" %}}
+{{% ls-details title="Mi a különbség a hangszínszabályzó, az effektek és a DSP-lánc között?" closed="true" %}}
 A hangszínszabályzó egy egyszerű 10 sávos tónusvezérlő. A Hangeffektek kész eszközök (kompresszor, reverb, visszhang és így tovább) presetekkel. A DSP-lánc az, ahol saját effektsorrendedet építed meg egyedi blokkokból. Mindhármat futtathatod egyszerre.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Megváltoztatják vagy károsítják az effektek a zenei fájljaimat?" closed="true" %}}
+{{% ls-details title="Megváltoztatják vagy károsítják az effektek a zenei fájljaimat?" closed="true" %}}
 Nem. Minden élőben alkalmazódik, miközben a zene szól. A fájljaid sosem változnak meg vagy mentődnek újra. Kapcsolj ki egy effektet, és az eredeti hangzás azonnal visszatér.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Használhatok egyszerre egynél több effektet?" closed="true" %}}
+{{% ls-details title="Használhatok egyszerre egynél több effektet?" closed="true" %}}
 Igen. Minden effektnek saját kapcsolója van, és nincs fő kapcsoló, így bármely kombináció működik. Például hangerő-normalizálás plusz Kompresszor az egyenletes hallgatáshoz, vagy Freeverb plusz Crossfeed fejhallgatón, a hangszínszabályzóval a tetején.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Miért szürkék az effekt vezérlői?" closed="true" %}}
+{{% ls-details title="Miért szürkék az effekt vezérlői?" closed="true" %}}
 Az effekt ki van kapcsolva. Kapcsold be a kapcsolóját a szerkesztő tetején a vezérlők használatához. Minden effekt alapból ki van kapcsolva.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Mit jelent a Manuális címke?" closed="true" %}}
+{{% ls-details title="Mit jelent a Manuális címke?" closed="true" %}}
 Azt jelenti, hogy elmozdítottál egy csúszkát egy presettől, így az effekt most a saját egyéni értékeidet használja egy megnevezett preset helyett. Minden csúszkának van visszaállító gombja, és egy preset újbóli kiválasztása felülírja a manuális értékeidet.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Elmenthetem és megoszthatom a hangszínszabályzó presetjeimet?" closed="true" %}}
+{{% ls-details title="Elmenthetem és megoszthatom a hangszínszabályzó presetjeimet?" closed="true" %}}
 Igen. A 22 beépített preset mellett készíthetsz sajátokat, átrendezheted őket, és exportálhatod vagy importálhatod őket, hogy áthelyezd a beállításaidat egy másik eszközre.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Működnek az effektek CarPlayjal, streaminggel és háttérlejátszással?" closed="true" %}}
+{{% ls-details title="Működnek az effektek CarPlayjal, streaminggel és háttérlejátszással?" closed="true" %}}
 Igen. Az effektek a BASS™ motoron belül futnak, így alkalmazódnak a helyi fájlokra, felhőmeghajtókra, médiaszerverekre, adásokra és a modul zenére, és tovább működnek a CarPlay és a háttérlejátszás alatt.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Megváltoztathatom a hangkimenet minőségét?" closed="true" %}}
+{{% ls-details title="Megváltoztathatom a hangkimenet minőségét?" closed="true" %}}
 Igen. A Beállítások > Audiolejátszó menüben beállíthatod a kimeneti mintavételi frekvenciát, a csatornák számát és a puffer méretét, hogy illeszkedjen a fejhallgatódhoz, hangszóróidhoz vagy DAC-odhoz.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Mi egy jó kiinduló beállítás fejhallgatóhoz?" closed="true" %}}
+{{% ls-details title="Mi egy jó kiinduló beállítás fejhallgatóhoz?" closed="true" %}}
 Kapcsold be a hangerő-normalizálást (Standard), adj hozzá egy könnyű Kompresszort (Soft), válassz egy hangszínszabályzó presetet, amit szeretsz, és kapcsold be a Crossfeedet (Chu Moy vagy Jan Meier). Hagyd kikapcsolva a reverbet, visszhangot és torzítást, hacsak nem szeretnél kreatív hangzást.
-{{% /details %}}
+{{% /ls-details %}}
 
 ---
 

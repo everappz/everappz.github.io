@@ -17,7 +17,7 @@ På skärmen Anslutningar kan du ansluta alla källor som innehåller din musik 
 Skärmen är uppdelad i tydligt märkta avsnitt så att den skalas från ett enda iCloud Drive-konto till ett bibliotek spritt över flera moln och NAS-enheter: Snabbåtkomst längst upp (dina favoritcloudmappar), Molnlagring (de konton du har lagt till), Lokalt nätverk (Bonjour-identifierade enheter), Dator (Wi-Fi Drive, iTunes-fildelning, SMB), Externa tillbehör (anslutna USB-minnen) och Andra tjänster (Last.fm och liknande).
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evermusic Connections Screen" image="/docs/guide/evermusic/evermusic-guide-connections/img/connect-main.webp" >}}
+  {{< ls-card title="" subtitle="Evermusic Connections Screen" image="/docs/guide/evermusic/evermusic-guide-connections/img/connect-main.webp" >}}
 {{< /cards >}}
 
 ## Anslut till molnlagring
@@ -29,7 +29,7 @@ Skärmen är uppdelad i tydligt märkta avsnitt så att den skalas från ett end
 - Tryck på Färdig.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Connect Cloud Storage Provider Picker" image="/docs/guide/evermusic/evermusic-guide-connections/img/connect-add-storage.webp" >}}
+  {{< ls-card title="" subtitle="Connect Cloud Storage Provider Picker" image="/docs/guide/evermusic/evermusic-guide-connections/img/connect-add-storage.webp" >}}
 {{< /cards >}}
 
 Om du stöter på problem, dubbelkolla din internetanslutning och inloggningsuppgifter och se till att tvåfaktorsautentisering är korrekt konfigurerad för den tjänsten.  
@@ -70,7 +70,7 @@ Du kan också koppla bort de anslutna molnkontona i applikationen och auth-token
   - **Koppla bort**: Om du vill helt avbryta anslutningen mellan appen och molntjänsten, välj 'Koppla bort.' Tänk på att detta alternativ tar bort alla låtar associerade med den här molntjänsten från appens musikbibliotek, men de finns kvar på servern.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Connected Cloud Storage More Actions Menu" image="/docs/guide/evermusic/evermusic-guide-connections/img/connect-storage-more-actions.webp" >}}
+  {{< ls-card title="" subtitle="Connected Cloud Storage More Actions Menu" image="/docs/guide/evermusic/evermusic-guide-connections/img/connect-storage-more-actions.webp" >}}
 {{< /cards >}}
 
 ## Anslut till dator eller NAS
@@ -89,7 +89,7 @@ Om din anslutning lyckades ser du ansluten lagring i avsnittet "Molnlagring".
 En fullständig guide om hur du ansluter din MAC eller PC med SMB finns [här](/docs/howto/stream-your-music-from-mac-or-pc-to-iphone-using-smb/).
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="SMB Connection Settings" image="/docs/guide/evermusic/evermusic-guide-connections/img/connect-smb-settings.webp" >}}
+  {{< ls-card title="" subtitle="SMB Connection Settings" image="/docs/guide/evermusic/evermusic-guide-connections/img/connect-smb-settings.webp" >}}
 {{< /cards >}}
 
 ## Anslut till NAS med WebDAV
@@ -99,7 +99,7 @@ URL ska vara i formatet http://server-name, eller https://server-name om servern
 En fullständig guide om hur du ansluter NAS med WebDAV-protokollet finns [här](/docs/howto/how-to-connect-nas-storage-using-webdav-and-listen-to-music-on-your-iphone-or-mac).
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="WebDAV Connection Settings" image="/docs/guide/evermusic/evermusic-guide-connections/img/connect-webdav-settings.webp" >}}
+  {{< ls-card title="" subtitle="WebDAV Connection Settings" image="/docs/guide/evermusic/evermusic-guide-connections/img/connect-webdav-settings.webp" >}}
 {{< /cards >}}
 
 ## Anslut till dator eller NAS med DLNA
@@ -107,7 +107,7 @@ En fullständig guide om hur du ansluter NAS med WebDAV-protokollet finns [här]
 Du kan också dela ett musikbibliotek på din Windows-PC eller personliga NAS med DLNA-protokollet och komma åt det biblioteket i appen som beskrivs [här](/docs/howto/how-to-enable-dlna-media-server-on-windows-10-and-play-your-music-on-iphone). DLNA är ett populärt och brett använt protokoll, men det låter dig bara spela eller ladda ner musik. Du kan inte ladda upp filer eller skapa nya mappar på servern.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="DLNA Connection Settings" image="/docs/guide/evermusic/evermusic-guide-connections/img/connect-dlna-settings.webp" >}}
+  {{< ls-card title="" subtitle="DLNA Connection Settings" image="/docs/guide/evermusic/evermusic-guide-connections/img/connect-dlna-settings.webp" >}}
 {{< /cards >}}
 
 ## Tillgängliga enheter
@@ -120,7 +120,7 @@ Följ dessa steg för att upprätta en anslutning med en enhet:
 - Om det behövs anger du dina inloggningsuppgifter för att slutföra anslutningen.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Available Devices on the Local Network" image="/docs/guide/evermusic/evermusic-guide-connections/img/connect-available-devices.webp" >}}
+  {{< ls-card title="" subtitle="Available Devices on the Local Network" image="/docs/guide/evermusic/evermusic-guide-connections/img/connect-available-devices.webp" >}}
 {{< /cards >}}
 
 ## Wi-Fi Drive
@@ -146,7 +146,7 @@ När webbsidan som motsvarar din iOS-enhet öppnas i webbläsaren kan du enkelt 
 Filerna du drar och släpper börjar överföras till din iOS-enhet och är tillgängliga i applikationen.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Wi-Fi Drive Server Settings" image="/docs/guide/evermusic/evermusic-guide-connections/img/connect-wifidrive-settings.webp" >}}
+  {{< ls-card title="" subtitle="Wi-Fi Drive Server Settings" image="/docs/guide/evermusic/evermusic-guide-connections/img/connect-wifidrive-settings.webp" >}}
 {{< /cards >}}
 
 Detaljerade instruktioner om hur du överför filer trådlöst med WiFi-Drive finns [här](/docs/howto/how-to-transfer-files-wirelessly-from-a-computer-to-an-iphone-using-wifi-drive).
@@ -162,7 +162,7 @@ iTunes-fildelning är en annan teknik som låter dig överföra filer från dato
 Detaljerade instruktioner om hur du använder iTunes-fildelning finns [här](/docs/howto/how-to-play-local-itunes-files-on-my-iphone/).
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="iTunes / Finder File Sharing on Mac" image="/docs/guide/evermusic/evermusic-guide-connections/img/connect-itunes-file-sharing.webp" >}}
+  {{< ls-card title="" subtitle="iTunes / Finder File Sharing on Mac" image="/docs/guide/evermusic/evermusic-guide-connections/img/connect-itunes-file-sharing.webp" >}}
 {{< /cards >}}
 
 ## Anslut ett USB-minne
@@ -183,7 +183,7 @@ Det övre verktygsfältet, som bekvämt finns under navigeringsfältet, erbjuder
 - **Blanda alla**: Liknar "Spela alla", men den här åtgärden skannar den aktuella mappen och dess undermappar men blandar filerna innan de läggs till i ljudspelarens kö. Det är ett bra sätt att njuta av din musik i slumpmässig ordning för lite variation.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Top Toolbar Inside a Cloud Folder" image="/docs/guide/evermusic/evermusic-guide-connections/img/connect-top-toolbar.webp" >}}
+  {{< ls-card title="" subtitle="Top Toolbar Inside a Cloud Folder" image="/docs/guide/evermusic/evermusic-guide-connections/img/connect-top-toolbar.webp" >}}
 {{< /cards >}}
 
 ## Mappalternativ
@@ -200,7 +200,7 @@ Här är en beskrivning av dessa åtgärder:
 - **Rutnät/listvy**: Växla mellan två visningslägen: tabellvy och miniatyrvy. Tabellvyn presenterar filer i en lista, medan miniatyrvyn visar visuella representationer av filerna, vilket gör det lättare att identifiera innehåll på ett ögonkast.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Current Folder More Actions Menu" image="/docs/guide/evermusic/evermusic-guide-connections/img/connect-folder-options.webp" >}}
+  {{< ls-card title="" subtitle="Current Folder More Actions Menu" image="/docs/guide/evermusic/evermusic-guide-connections/img/connect-folder-options.webp" >}}
 {{< /cards >}}
 
 ## Redigera onlinefiler
@@ -212,7 +212,7 @@ När du behöver hantera flera filer i din molnlagring på Evermusic kan du anv�
 - **Utför olika åtgärder**: När du har valt de filer eller mappar du vill hantera har du tillgång till flera åtgärder anpassade till dina behov:
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Selection Mode for Online Files" image="/docs/guide/evermusic/evermusic-guide-connections/img/connect-selection-mode.webp" >}}
+  {{< ls-card title="" subtitle="Selection Mode for Online Files" image="/docs/guide/evermusic/evermusic-guide-connections/img/connect-selection-mode.webp" >}}
 {{< /cards >}}
 
 ## Filåtgärder
@@ -233,7 +233,7 @@ Tryck på den för att visa en lista med tillgängliga åtgärder:
 - **Ta bort**: Var försiktig med den här åtgärden, eftersom den permanent tar bort filen från din molnlagring. Denna borttagning kan inte ångras.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="More Actions Menu for a Single File" image="/docs/guide/evermusic/evermusic-guide-connections/img/connect-single-folder-more-options.webp" >}}
+  {{< ls-card title="" subtitle="More Actions Menu for a Single File" image="/docs/guide/evermusic/evermusic-guide-connections/img/connect-single-folder-more-options.webp" >}}
 {{< /cards >}}
 
 Om listan med åtgärder överskrider det tillgängliga skärmutrymmet, bläddra helt enkelt ner i åtgärdsmenyn för att komma åt ytterligare alternativ.

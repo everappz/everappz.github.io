@@ -7,7 +7,7 @@ keywords: ["pelayan WebDAV iPhone", "pelayan WebDAV iPad", "cara menyediakan Web
 readingTime: 9
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 WebDAV mengubah folder menjadi pemacu rangkaian yang boleh dibuka oleh komputer dalam pengurus fail biasanya. Ia berjalan pada protokol web yang sama seperti yang digunakan oleh pelayar anda, itulah sebabnya ia merentasi Mac, Windows dan Linux dengan baik tanpa pemacu khas. Dengan [Everdisk](/products/everdisk) anda boleh menjalankan pelayan WebDAV pada iPhone atau iPad anda, jadi telefon muncul sebagai pemacu yang boleh anda layari, salin daripadanya, dan salin kepadanya daripada hampir mana-mana komputer.
 
@@ -104,40 +104,40 @@ Suis **Penyuntingan Fail** dalam Tetapan, Perkongsian, Akses menentukan ini. Dih
 
 ## Soalan Lazim
 
-{{% details title="Apakah alamat dan port WebDAV untuk iPhone saya?" closed="true" %}}
+{{% ls-details title="Apakah alamat dan port WebDAV untuk iPhone saya?" closed="true" %}}
 Selepas anda mula berkongsi, Everdisk menunjukkan alamat pada skrin Perkongsian. Ia kelihatan seperti http://192.168.1.20:8080. 8080 ialah port yang Everdisk gunakan untuk WebDAV, dan bahagian pertama ialah alamat iPhone anda pada Wi-Fi, jadi milik anda akan berbeza.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Bagaimana saya sambung ke WebDAV iPhone saya daripada Windows?" closed="true" %}}
+{{% ls-details title="Bagaimana saya sambung ke WebDAV iPhone saya daripada Windows?" closed="true" %}}
 Buka File Explorer, klik kanan This PC, dan pilih Add a network location atau Map network drive. Masukkan alamat WebDAV daripada Everdisk, contohnya http://192.168.1.20:8080, kemudian masukkan log masuk anda jika anda menetapkannya. Jika Windows tidak mahu menyambung, pastikan perkhidmatan WebClient sedang berjalan (cari Services, cari WebClient, mulakannya) dan cuba lagi.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Boleh saya guna WebDAV antara dua iPhone?" closed="true" %}}
+{{% ls-details title="Boleh saya guna WebDAV antara dua iPhone?" closed="true" %}}
 Ya, tetapi aplikasi Files iOS tidak mempunyai klien WebDAV, jadi gunakan Everdisk pada peranti kedua. Buka tab Peranti, ketik Sambungan Baharu, pilih WebDAV, dan masukkan alamat yang ditunjukkan pada telefon pertama. Aplikasi WebDAV seperti Documents by Readdle turut berfungsi.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Adakah WebDAV memerlukan kata laluan?" closed="true" %}}
+{{% ls-details title="Adakah WebDAV memerlukan kata laluan?" closed="true" %}}
 Tidak, log masuk adalah pilihan. Biarkan Log Masuk dan Kata Laluan kosong dalam Tetapan, Perkongsian, Akses untuk akses tetamu, atau tetapkannya jika anda mahu sambungan log masuk.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Boleh orang lain mengubah fail saya melalui WebDAV?" closed="true" %}}
+{{% ls-details title="Boleh orang lain mengubah fail saya melalui WebDAV?" closed="true" %}}
 Hanya jika anda membenarkannya. Suis Penyuntingan Fail dalam Tetapan, Perkongsian, Akses mengawal ini. Dihidupkan membenarkan peranti yang disambung memuat naik, menamakan semula dan memadam. Dimatikan menjadikan pemacu baca sahaja, jadi orang lain boleh melihat dan menyalin tetapi tidak boleh mengubah apa-apa.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="WebDAV atau SMB, apakah bezanya?" closed="true" %}}
+{{% ls-details title="WebDAV atau SMB, apakah bezanya?" closed="true" %}}
 Kedua-duanya melekapkan iPhone anda sebagai pemacu rangkaian. WebDAV berjalan pada protokol web dan menyambung dengan bersih daripada Windows File Explorer, itulah kekuatan utamanya. SMB ialah perkongsian fail asli pada Mac, Linux dan peranti NAS, biasanya lebih laju pada Mac, dan ialah satu-satunya sambungan Everdisk yang boleh menyulitkan pemindahan. Everdisk boleh menjalankan kedua-duanya serentak.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Mengapa pemacu WebDAV saya terputus?" closed="true" %}}
+{{% ls-details title="Mengapa pemacu WebDAV saya terputus?" closed="true" %}}
 iPhone anda ialah pelayan, dan iOS menjeda aplikasi yang berada di latar belakang terlalu lama. Kekalkan Everdisk terbuka pada skrin semasa peranti disambung, dan palamkan ke sumber kuasa untuk pemindahan yang panjang. Sahkan juga kedua-dua peranti masih berada pada Wi-Fi yang sama.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Boleh saya sambung melalui WebDAV tanpa Wi-Fi?" closed="true" %}}
+{{% ls-details title="Boleh saya sambung melalui WebDAV tanpa Wi-Fi?" closed="true" %}}
 Ya, jika anda palamkan iPhone anda ke Mac dengan kabel. Everdisk kemudian menunjukkan alamat sambungan kabel tambahan yang boleh dibuka oleh Mac yang disambung dalam Finder, yang berfungsi walaupun tanpa Wi-Fi langsung. Pada kabel, hanya Mac itu boleh mencapai peranti.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Adakah Everdisk percuma?" closed="true" %}}
+{{% ls-details title="Adakah Everdisk percuma?" closed="true" %}}
 Ya, Everdisk percuma untuk dimuat turun dan pelayan WebDAV disertakan. Pembelian Premium sekali sahaja pilihan menambah tambahan seperti port tersuai dan penukaran foto dan video. Anda boleh menyediakan WebDAV dan berkongsi fail tanpa membayar.
-{{% /details %}}
+{{% /ls-details %}}
 
 Sedia untuk mencuba? [Muat turun Everdisk dari App Store](https://apps.apple.com/app/apple-store/id6751851132?pt=95781850&ct=everappzcom&mt=8) dan lekapkan iPhone anda sebagai pemacu dalam masa beberapa minit. Ada soalan atau maklum balas? E-mel kami di **support@everappz.com**.

@@ -7,7 +7,7 @@ tags: ["evermusic", "zene", "felhő", "iphone", "tárhely", "helyi", "nas", "win
 readingTime: 2
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **Röviden:** A Windows 10 beépített DLNA szerverrel rendelkezik. Engedélyezd a Hálózati és megosztási beállításokban, majd használd az ingyenes **Evermusic** alkalmazást iPhone-odon a teljes zenei könyvtárad streameléséhez Wi-Fi-n keresztül. Nincs szükség harmadik féltől származó szerverszoftverre.
@@ -96,22 +96,22 @@ A Windows 10 DLNA Media Serverével és az Evermusic-kal iPhone-odon zökkenőme
 
 ## Gyakran ismételt kérdések
 
-{{% details title="Kell szerverszoftvert telepítenem Windows 10-re?" closed="true" %}}
+{{% ls-details title="Kell szerverszoftvert telepítenem Windows 10-re?" closed="true" %}}
 Nem. A Windows 10 beépített DLNA médiaszerverrel rendelkezik. Csak a média streaminget kell engedélyezned a Hálózati és megosztási központ beállításaiban. Nem szükséges harmadik féltől származó szoftver.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Ugyanazon a Wi-Fi hálózaton kell lennie az iPhone-omnak?" closed="true" %}}
+{{% ls-details title="Ugyanazon a Wi-Fi hálózaton kell lennie az iPhone-omnak?" closed="true" %}}
 Igen. A DLNA streaming a helyi hálózatodon működik. Mind a Windows 10 PC-dnek, mind az iPhone-odnak ugyanahhoz a Wi-Fi hálózathoz kell csatlakoznia, hogy az Evermusic felfedezhesse a DLNA szervert.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Milyen hangformátumokat streamelhetek DLNA-n keresztül?" closed="true" %}}
+{{% ls-details title="Milyen hangformátumokat streamelhetek DLNA-n keresztül?" closed="true" %}}
 A Windows DLNA szerver formátumtól függetlenül megosztja a Zene mappád fájljait. Az Evermusic támogatja az MP3, FLAC, AAC, WAV, OGG, AIFF és sok más formátumot, így gyakorlatilag bármilyen hangfájlt lejátszhatsz a szerverről.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Használhatom a Flacbox-ot az Evermusic helyett?" closed="true" %}}
+{{% ls-details title="Használhatom a Flacbox-ot az Evermusic helyett?" closed="true" %}}
 Igen. A Flacbox is támogatja a DLNA/UPnP böngészést és lejátszást. Bármelyik alkalmazást használhatod zenék felfedezéséhez és lejátszásához a Windows DLNA szerveredről.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="A DLNA streaming használ mobiladatot?" closed="true" %}}
+{{% ls-details title="A DLNA streaming használ mobiladatot?" closed="true" %}}
 Nem. A DLNA kizárólag a helyi Wi-Fi hálózatodon működik. Nem használ mobiladatot. Mindkét eszköznek azonban a lejátszás alatt ugyanahhoz a hálózathoz kell csatlakozva maradnia.
-{{% /details %}}
+{{% /ls-details %}}

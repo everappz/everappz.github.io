@@ -14,7 +14,7 @@ authors:
     image: "/images/about/artem-meleshko-founder-everappz.webp"
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 **Resum:** Mira el vídeo promocional oficial d'Evermusic per veure la reproducció de música al núvol, la reproducció fora de línia i la personalització d'àudio en acció a iPhone i Mac.
 
@@ -24,7 +24,7 @@ Estem encantats de compartir el vídeo promocional oficial d'Evermusic, creat am
 
 Mira Evermusic en acció -- reproduint música des del núvol, gestionant llistes de reproducció i oferint àudio d'alta qualitat a iPhone:
 
-{{< youtubecard id="6mm3LVT4rtA" title="Evermusic Promo Video" >}}
+{{< ls-youtubecard id="6mm3LVT4rtA" title="Evermusic Promo Video" >}}
 
 ## Què veuràs al vídeo
 
@@ -41,14 +41,14 @@ Si t'agrada el vídeo, comparteix-lo amb els teus amics i amants de la música.
 
 ## Preguntes freqüents
 
-{{% details title="Què és Evermusic?" closed="true" %}}
+{{% ls-details title="Què és Evermusic?" closed="true" %}}
 Evermusic és un reproductor de música per a iOS i macOS que reprodueix àudio des de serveis al núvol com Dropbox, Google Drive, OneDrive i iCloud Drive. També admet la reproducció fora de línia i inclou un equalitzador integrat.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Quins serveis al núvol admet Evermusic?" closed="true" %}}
+{{% ls-details title="Quins serveis al núvol admet Evermusic?" closed="true" %}}
 Evermusic es connecta a Dropbox, Google Drive, OneDrive, iCloud Drive, pCloud, Yandex.Disk i diversos altres proveïdors d'emmagatzematge al núvol.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Evermusic és gratuït?" closed="true" %}}
+{{% ls-details title="Evermusic és gratuït?" closed="true" %}}
 Evermusic és gratuït per descarregar amb funcions premium opcionals disponibles mitjançant compra dins de l'aplicació.
-{{% /details %}}
+{{% /ls-details %}}

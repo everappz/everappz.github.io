@@ -25,7 +25,7 @@ Evermusic מציע ממשק משתמש אינטואיטיבי הדומה מאו�
 בין אם אתה משתמש ב-iPhone, iPad, או מצב קומפקטי ב-Mac, כל תכונות האפליקציה נגישות בקלות דרך סרגל הכרטיסיות בתחתית המסך. עבור משתמשי iPad ו-Mac, אותו תפריט נמצא בצד שמאל של המסך. ארגון מחשבתי זה מסווג את כל תכונות האפליקציה לסעיפים נגישים בקלות, המבטיחים חוויה ידידותית למשתמש ויעילה.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="סרגל צדדי שמאלי של Evermusic ב-iPad וב-Mac" image="/docs/guide/evermusic/evermusic-guide-navigation/img/navigation-left-sidebar.webp" >}}
+  {{< ls-card title="" subtitle="סרגל צדדי שמאלי של Evermusic ב-iPad וב-Mac" image="/docs/guide/evermusic/evermusic-guide-navigation/img/navigation-left-sidebar.webp" >}}
 {{< /cards >}}
 
 **חיבורים:** תוכל לחבר בקלות שירותי אחסון ענן כגון Google Drive, MEGA, OneDrive ו-Dropbox, כמו גם המחשב ו-NAS האישי שלך במסך זה.
@@ -47,7 +47,7 @@ Evermusic מציע ממשק משתמש אינטואיטיבי הדומה מאו�
 הפעל נגן מסך מלא על ידי הקשה על סמל המיני-נגן ושימוש בתנועת החלקה כלפי מטה כדי להסתירו. ב-iPad וב-Mac, מסך המיני-נגן ממוקם בחלק העליון של המסך וניתן להסתירו בעת פתיחת הנגן במסך מלא דרך התפריט הראשי.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="סרגל כרטיסיות iPhone" image="/docs/guide/evermusic/evermusic-guide-navigation/img/navigation-bottom-tabbar.webp" >}}
+  {{< ls-card title="" subtitle="סרגל כרטיסיות iPhone" image="/docs/guide/evermusic/evermusic-guide-navigation/img/navigation-bottom-tabbar.webp" >}}
 {{< /cards >}}
 
 ## חלון מיני-נגן (בלעדי ל-Mac)
@@ -55,7 +55,7 @@ Evermusic מציע ממשק משתמש אינטואיטיבי הדומה מאו�
 לגישה לחלון מיני-הנגן ב-Mac שלך, פשוט הזז את הסמן לקצה הימני התחתון של חלון האפליקציה ושנה את גודלו לגודל הקטן ביותר האפשרי. לאחר מכן, הקש על כפתור הכיווץ (המוצג כחץ כלפי מטה) כדי להפעיל את חלון המיני-נגן. כדי לשמור על חלון המיני-נגן תמיד מעל חלונות אחרים, נווט לסרגל התפריטים העליון של ה-Mac שלך, בחר 'חלון', ולאחר מכן בחר 'הצג חלון תמיד על גבי'. תכונה זו שימושית להאזנה להרצאות שמע ללא הפרעות.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="חלון מיני-נגן Mac" image="/docs/guide/evermusic/evermusic-guide-navigation/img/navigation-mac-exclusive-miniplayer.webp" >}}
+  {{< ls-card title="" subtitle="חלון מיני-נגן Mac" image="/docs/guide/evermusic/evermusic-guide-navigation/img/navigation-mac-exclusive-miniplayer.webp" >}}
 {{< /cards >}}
 
 ## עוד פעולות
@@ -63,7 +63,7 @@ Evermusic מציע ממשק משתמש אינטואיטיבי הדומה מאו�
 כמעט כל פריט תוכן במסך כולל כפתור "עוד פעולות". הקש עליו לגישה לכל הפעולות הזמינות.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="תפריט הקשר עוד פעולות" image="/docs/guide/evermusic/evermusic-guide-navigation/img/navigation-more-actions.webp" >}}
+  {{< ls-card title="" subtitle="תפריט הקשר עוד פעולות" image="/docs/guide/evermusic/evermusic-guide-navigation/img/navigation-more-actions.webp" >}}
 {{< /cards >}}
 
 ## סרגל הכלים העליון
@@ -77,7 +77,7 @@ Evermusic מציע ממשק משתמש אינטואיטיבי הדומה מאו�
 - **נגן באקראי:** הוסף את כל המסלולים מהעמוד הנוכחי לתור נגן השמע, תוך ערבובם לפני הוספה לחוויית האזנה נעימה.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="סרגל הכלים העליון עם חיפוש, נגן הכל ונגן באקראי" image="/docs/guide/evermusic/evermusic-guide-navigation/img/navigation-top-toolbar.webp" >}}
+  {{< ls-card title="" subtitle="סרגל הכלים העליון עם חיפוש, נגן הכל ונגן באקראי" image="/docs/guide/evermusic/evermusic-guide-navigation/img/navigation-top-toolbar.webp" >}}
 {{< /cards >}}
 
 ## תפריט הקשר
@@ -91,7 +91,7 @@ Evermusic מציע ממשק משתמש אינטואיטיבי הדומה מאו�
 **לחיצה ימנית של עכבר:** לחץ לחיצה ימנית על תאים, המיני-נגן, או הנגן הקומפקטי להצגת תפריט ההקשר.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="תפריט הקשר ב-macOS" image="/docs/guide/evermusic/evermusic-guide-navigation/img/navigation-context-menu-macos.webp" >}}
+  {{< ls-card title="" subtitle="תפריט הקשר ב-macOS" image="/docs/guide/evermusic/evermusic-guide-navigation/img/navigation-context-menu-macos.webp" >}}
 {{< /cards >}}
 
 ## נגישות
@@ -125,7 +125,7 @@ Evermusic מגיע עם ארבעה וידג'טים של מסך הבית / מסך
 כל ארבעת הוידג'טים זמינים בגדלים קטן, בינוני וגדול כדי שתוכל לבחור את הפריסה המתאימה למסך שלך.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="הוספת וידג'טים של Evermusic" image="/docs/guide/evermusic/evermusic-guide-navigation/img/navigation-add-widgets.webp" >}}
+  {{< ls-card title="" subtitle="הוספת וידג'טים של Evermusic" image="/docs/guide/evermusic/evermusic-guide-navigation/img/navigation-add-widgets.webp" >}}
 {{< /cards >}}
 
 ### הוספת וידג'ט ב-iPhone (מסך הבית)
@@ -175,7 +175,7 @@ iPad תומך בוידג'טים של Today View ובוידג'טים של מסך 
 Evermusic כולל ממשק **Apple CarPlay** מלא תכונות (iOS בלבד) המותאם לתצוגת הרכב. לאחר שה-iPhone שלך מחובר ליחידת ראש תואמת CarPlay — דרך USB או באופן אלחוטי — Evermusic מופיע לצד Apple Music ו-Spotify ברשת אפליקציות CarPlay, מוכן להזרים את ספריית הענן שלך על הכביש.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evermusic במסך CarPlay" image="/docs/guide/evermusic/evermusic-guide-navigation/img/navigation-carplay-menu.webp" >}}
+  {{< ls-card title="" subtitle="Evermusic במסך CarPlay" image="/docs/guide/evermusic/evermusic-guide-navigation/img/navigation-carplay-menu.webp" >}}
 {{< /cards >}}
 
 ### מה שתקבל ב-CarPlay

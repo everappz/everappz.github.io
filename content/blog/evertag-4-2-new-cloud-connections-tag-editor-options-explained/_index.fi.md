@@ -12,7 +12,7 @@ authors:
     image: "/images/about/artem-meleshko-founder-everappz.webp"
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 **Tiivistelmä:** [Evertag 4.2](/products/evertag) on iso päivitys äänen tunnistemerkintäeditoriin iPhonelle, iPadille ja Macille. Korjasimme keskeiset tunnisteenmuokkausvirheet ja lisäsimme yli 6 uutta pilvi- ja palvelinyhteyttä — **Internxt**, **Proton Drive**, **QNAP**, **Nextcloud**, **Amazon S3** ja protokollat **FTP**, **SFTP** ja **NFS**. Wi-Fi Drive sai päivitetyn käyttöliittymän, monivalintatilan, fiksumman lähetysjonon ja nopeammat siirrot. Koko sovellus on viritetty **Liquid Glass** -suunnittelua varten. Tämä julkaisu pureutuu syvällisesti myös Evertagin tunnistemerkintäeditorin asetuksiin — selittäen **ID3v2.4 vs ID3v2.3**, **albumin kannen skaalauksen**, **tunnisteiden kahdennuksen**, **pilvilatausmuodot**, **ladatun tiedoston poiston** ja tarkalleen mitkä asetukset valita, jos valmistelet ääntä **Spotifyyn**, **Apple Musiciin**, **Plexiin**, **Jellyfiniin** tai johonkin muuhun suoratoistopalveluun.
 
@@ -229,50 +229,50 @@ Jos pidät sovelluksesta, jätä arvio App Storeen — se auttaa todella. Onko p
 
 ## Usein kysytyt kysymykset
 
-{{% details title="Mitä uutta Evertag 4.2:ssa on?" closed="true" %}}
+{{% ls-details title="Mitä uutta Evertag 4.2:ssa on?" closed="true" %}}
 Evertag 4.2 lisää yli 6 uutta pilvi- ja palvelinyhteyttä (Internxt, Proton Drive, QNAP, Nextcloud, Amazon S3, FTP, SFTP, NFS), päivitetyn Wi-Fi Driven monivalinnalla ja fiksummalla lähetysjonolla, Liquid Glass UI -päivityksiä, päivitetyt yhteyskirjastot, keskeiset tunnisteenmuokkausvirheiden korjaukset ja käännösparannuksia.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Pitäisikö minun käyttää ID3v2.4:ää vai ID3v2.3:ää Evertagissa?" closed="true" %}}
+{{% ls-details title="Pitäisikö minun käyttää ID3v2.4:ää vai ID3v2.3:ää Evertagissa?" closed="true" %}}
 Käytä **ID3v2.4:ää** moderneille soittimille (Evermusic, Plex, Jellyfin, Apple Music, foobar2000, VLC, modernit Android-sovellukset) ja kirjastoille, joissa on ei-latinalaisia merkkejä — UTF-8-tuki tarkoittaa puhtaampia tunnisteita kiinaksi, koreaksi, japaniksi, venäjäksi, arabiaksi ja hepreaksi. Käytä **ID3v2.3:ää**, jos tunnisteesi näkyvät väärin joissakin sovelluksissa, jos kohdistat vanhempiin autoradioihin tai jos suoratoistojakelijan putkisto hylkää v2.4:n. Voit aina vaihtaa ja tallentaa uudelleen.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Miksi tunnisteeni ovat väärin Spotifyssä muokkauksen jälkeen?" closed="true" %}}
+{{% ls-details title="Miksi tunnisteeni ovat väärin Spotifyssä muokkauksen jälkeen?" closed="true" %}}
 Spotify näyttää enimmäkseen metatietoja omasta luettelostaan — paikallisia tunnisteitasi käytetään vain «Local Filesissa» tai sisällössä, jonka olet ladannut artistina. Jos taggaat tiedostoja Spotify Local Filesia varten ja ne eivät näy oikein, kokeile poistaa ID3v2.4 käytöstä Evertagissa ja tallentaa ID3v2.3:na — Spotifyn jäsentäjä on historiallisesti suhtautunut konservatiivisesti v2.4:ään.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Minkä kokoisen albumin kannen valitsen Evertagissa?" closed="true" %}}
+{{% ls-details title="Minkä kokoisen albumin kannen valitsen Evertagissa?" closed="true" %}}
 Useimmille käyttäjille: **Suuri**. Näyttää hyvältä puhelimissa, iPadeissa, Maceissa ja moderneissa autonäytöissä paisuttamatta tiedostoja liikaa. Käytä **Keskikokoista**, jos kirjastosi on valtava ja haluat säästää levyä. Käytä **Alkuperäistä** (ei skaalausta) vain arkistomastereille tai kun todella tarvitset maksimilaadun — mutta huomaa, että jotkut vanhemmat soittimet kamppailevat erittäin suurten upotettujen kansien kanssa. **Alkuperäinen** kuuluu Evertagin premium-personointipäivitykseen.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Tekevätkö suuremmat albumin kannet tiedostoistani isompia?" closed="true" %}}
+{{% ls-details title="Tekevätkö suuremmat albumin kannet tiedostoistani isompia?" closed="true" %}}
 Kyllä. 3 000 × 3 000 px:n kannen upottaminen voi lisätä useita megatavuja yhteen äänitiedostoon. 1 000 kappaleen kirjastossa se kasvaa gigatavuiksi. Jos tila on tiukalla, käytä Keskikokoista tai Suurta; jos suoratoistat NAS:lta, jossa koolla ei ole väliä, Erittäin suuri tai Alkuperäinen ovat hyviä.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Mikä on Tunnisteiden kahdennus ja pitäisikö se ottaa käyttöön?" closed="true" %}}
+{{% ls-details title="Mikä on Tunnisteiden kahdennus ja pitäisikö se ottaa käyttöön?" closed="true" %}}
 Tunnisteiden kahdennus kirjoittaa ydinmetadatan sekä ID3v1- (legacy 128-tavun) että ID3v2- (moderniin) osioon tiedostossa. Ota se käyttöön vain, jos kohdistat erittäin vanhoihin soittimiin tai laitteistoihin, jotka lukevat ID3v1:tä. Kaikkeen moderniin (älypuhelimet, tietokoneet, uudemmat autoradiot) jätä se pois.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Muokkaako Evertag tunnisteita suoraan pilvitiedostoissa?" closed="true" %}}
+{{% ls-details title="Muokkaako Evertag tunnisteita suoraan pilvitiedostoissa?" closed="true" %}}
 Kyllä. Yhdistä pilveesi (Google Drive, Dropbox, OneDrive, iCloud Drive, Internxt, Proton Drive, QNAP, Nextcloud, Amazon S3 jne.) tai FTP/SFTP/NFS:n kautta, avaa tiedosto ja muokkaa tunnisteita ikään kuin se olisi paikallinen. Evertag lataa tiedoston, soveltaa muokkauksesi ja lähettää päivitetyn version takaisin. Voit valita asetuksissa «Kysy aina», «Lähetä automaattisesti» tai «Älä lähetä» -tilojen välillä.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Voinko muokata FLAC-tunnisteita iPhonella Evertagilla?" closed="true" %}}
+{{% ls-details title="Voinko muokata FLAC-tunnisteita iPhonella Evertagilla?" closed="true" %}}
 Kyllä. Evertag tukee FLAC, MP3, M4A/MP4, AIFF, WAV, OGG, APE ja muita tärkeitä formaatteja täydellä tunnisteiden luku-/kirjoitustuella, mukaan lukien upotettu kansi.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Kuinka muokkaan tunnisteita turvallisesti kotipalvelimellani SFTP:llä?" closed="true" %}}
+{{% ls-details title="Kuinka muokkaan tunnisteita turvallisesti kotipalvelimellani SFTP:llä?" closed="true" %}}
 Avaa Evertag, mene Yhteydet-kohtaan, valitse SFTP ja syötä palvelimesi isäntänimi tai IP, portti (yleensä 22), käyttäjätunnus ja joko salasana tai SSH-yksityisavain. Evertag selaa etäkansiosi ja muokkaa tunnisteita suoraan SSH:n päälle päästä-päähän-salauksella.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Voinko muokata tunnisteita useissa tiedostoissa kerralla?" closed="true" %}}
+{{% ls-details title="Voinko muokata tunnisteita useissa tiedostoissa kerralla?" closed="true" %}}
 Kyllä. Ota **Muokkaa tiedostoja samanaikaisesti** käyttöön asetuksissa. Valitse useita tiedostoja, avaa tunnistemerkintäeditori, ja jokainen muuttamasi kenttä koskee kaikkia valittuja tiedostoja. Tämä on nopein tapa asettaa sama album artist, vuosi tai genre koko albumille.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Onko päivitys Evertag 4.2:een ilmainen?" closed="true" %}}
+{{% ls-details title="Onko päivitys Evertag 4.2:een ilmainen?" closed="true" %}}
 Kyllä. Evertag on ilmainen lataus App Storesta, ja 4.2 on ilmainen päivitys kaikille olemassa oleville käyttäjille. Uudet pilvi-integraatiot, Wi-Fi Driven parannukset ja Liquid Glass -käyttöliittymä kuuluvat perustepäivitykseen.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Millä laitteilla Evertag 4.2 on saatavilla?" closed="true" %}}
+{{% ls-details title="Millä laitteilla Evertag 4.2 on saatavilla?" closed="true" %}}
 Evertag 4.2 toimii iPhonella, iPadilla ja Macilla. iCloud Drive -synkronointi pitää tunnistemerkintäeditorin asetuksesi yhdenmukaisina laitteiden välillä.
-{{% /details %}}
+{{% /ls-details %}}

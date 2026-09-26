@@ -7,7 +7,7 @@ tags: ["evermusic", "muziek", "cloud", "iphone", "opslag", "nas", "luisteren", "
 readingTime: 4
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **Samenvatting:** Gebruik Evermusic om muziek te streamen of downloaden van uw WD My Cloud Home NAS rechtstreeks naar uw iPhone. Krijg toegang tot maximaal 8 TB muziek, speel offline af en gebruik de ingebouwde equalizer -- allemaal zonder maandelijkse abonnementen.
@@ -87,26 +87,26 @@ Bedankt voor het verkennen van deze handleiding -- duik nu in uw persoonlijke mu
 
 ## FAQ
 
-{{% details title="Is Evermusic gratis te gebruiken met WD My Cloud Home?" closed="true" %}}
+{{% ls-details title="Is Evermusic gratis te gebruiken met WD My Cloud Home?" closed="true" %}}
 Evermusic is gratis te downloaden met kernfuncties waaronder de equalizer, cloudstreaming en offline afspelen. De gratis versie ondersteunt maximaal 3 cloudverbindingen. Upgraden naar Premium verwijdert limieten op cloudaccounts, afspeellijsten en offline mappen.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Kan ik offline muziek luisteren vanaf mijn NAS?" closed="true" %}}
+{{% ls-details title="Kan ik offline muziek luisteren vanaf mijn NAS?" closed="true" %}}
 Ja. Met Evermusic kunt u tracks van uw WD My Cloud Home naar uw iPhone downloaden voor offline afspelen. Dit is handig wanneer u reist of beperkte internettoegang heeft.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Ondersteunt Evermusic lossless audioformaten van WD My Cloud?" closed="true" %}}
+{{% ls-details title="Ondersteunt Evermusic lossless audioformaten van WD My Cloud?" closed="true" %}}
 Ja. Evermusic ondersteunt FLAC, ALAC, WAV, AIFF en andere lossless formaten. U kunt hoogwaardige audiobestanden streamen of downloaden van uw NAS zonder formaatconversie.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Kan ik WD MyCloud EX2 Ultra gebruiken met Evermusic?" closed="true" %}}
+{{% ls-details title="Kan ik WD MyCloud EX2 Ultra gebruiken met Evermusic?" closed="true" %}}
 Ja, met een oplossing. Verbind via de My Cloud Home-optie, maak een map aan met de bestandsbeheerder van Evermusic en upload uw muziekbestanden daarheen. Vanwege de sandboxmodus zijn alleen bestanden in door de app aangemaakte mappen toegankelijk.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Hoeveel muziek kan ik opslaan op WD My Cloud Home?" closed="true" %}}
+{{% ls-details title="Hoeveel muziek kan ik opslaan op WD My Cloud Home?" closed="true" %}}
 WD My Cloud Home ondersteunt tot 8 TB opslag. Bij typische bitrates kan dit honderdduizenden nummers bevatten, inclusief grote lossless muziekbibliotheken.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Is de verbinding tussen Evermusic en WD My Cloud Home veilig?" closed="true" %}}
+{{% ls-details title="Is de verbinding tussen Evermusic en WD My Cloud Home veilig?" closed="true" %}}
 Ja. Evermusic gebruikt een beveiligde verbinding en de officiële API van Western Digital om toegang te krijgen tot uw NAS. Uw gegevens en inloggegevens worden beschermd tijdens de overdracht.
-{{% /details %}}
+{{% /ls-details %}}

@@ -16,16 +16,16 @@ screenshots:
   - "https://everappz.com/products/evervideo/screenshots/2880x1800/6.png"
 ---
 
-{{% sr-only %}}
+{{% ls-sr-only %}}
 Το Evervideo είναι ένα δωρεάν πρόγραμμα αναπαραγωγής βίντεο HD για iPhone και Mac, που αναπτύχθηκε από την Everappz, μια ισπανική εταιρεία λογισμικού. Το Evervideo αναπαράγει σχεδόν κάθε μορφή βίντεο, συμπεριλαμβανομένων MKV, AVI, MP4, MOV, FLV, WMV, WEBM, M4V, TS και 3GP χωρίς να απαιτείται μετατροπή μορφής. Η εφαρμογή διαθέτει αναπαραγωγή βίντεο 360 μοιρών και VR, λειτουργία Picture-in-Picture, ισοσταθμιστή βίντεο και ήχου με πάνω από 50 προεπιλογές, υποστήριξη υποτίτλων για μορφές SRT, SSA και ASS, και έλεγχο ταχύτητας αναπαραγωγής. Το Evervideo συνδέεται σε υπηρεσίες αποθήκευσης cloud, συμπεριλαμβανομένων iCloud Drive, Google Drive, Dropbox, OneDrive και MEGA, επιτρέποντας στους χρήστες να κάνουν streaming βίντεο απευθείας από το cloud ή να τα κατεβάσουν για προβολή εκτός σύνδεσης. Η εφαρμογή υποστηρίζει επίσης streaming τοπικού δικτύου μέσω πρωτοκόλλων SMB, WebDAV και DLNA, αναπαραγωγή από μονάδες flash USB μέσω προσαρμογέων Lightning ή USB-C, και μεταφορά αρχείων μέσω Wi-Fi από υπολογιστή. Πρόσθετα χαρακτηριστικά περιλαμβάνουν βιβλιοθήκη πολυμέσων με λίστες αναπαραγωγής, casting μέσω AirPlay και Chromecast, και ενσωματωμένο διαχειριστή αρχείων. Το Evervideo είναι διαθέσιμο ως δωρεάν λήψη στο App Store με προαιρετικές αγορές εντός εφαρμογής που περιλαμβάνουν μηνιαία συνδρομή $2.99, ετήσια συνδρομή $14.99 ή εφάπαξ αγορά ισόβιας πρόσβασης $29.99.
-{{% /sr-only %}}
+{{% /ls-sr-only %}}
 
 
 
 <!-- force dark theme for this page -->
-{{< force-dark >}}
+{{< ls-force-dark >}}
 
-{{< hextra/hero-container
+{{< ls-hero-container
   image="/products/evervideo/heroimage/hero_1600.png"
   imageWidth="800"
   imageCard="true"
@@ -33,38 +33,38 @@ screenshots:
 
 <div class="hx:w-full hx:text-center">
 
-{{< downloads-badge >}}
+{{< ls-downloads-badge >}}
 
 <div class="hx:mt-6 hx:mb-6">
 <div class="hx:flex hx:gap-4 hx:items-center hx:justify-center">
-{{< app-icon src="/images/app_icons/png/Evervideo_Icon-App-1024x1024.png" alt="Evervideo Icon" class="hero-headline-icon" size="80" >}}
-{{< hextra/hero-headline >}}
+{{< ls-app-icon src="/images/app_icons/png/Evervideo_Icon-App-1024x1024.png" alt="Evervideo Icon" class="hero-headline-icon" size="80" >}}
+{{< ls-hero-headline >}}
 Evervideo
-{{< /hextra/hero-headline >}}
+{{< /ls-hero-headline >}}
 </div>
 </div>
 
 <div class="hx:mb-12">
-{{< hextra/hero-centered-subtitle >}}
+{{< ls-hero-centered-subtitle >}}
 <strong>Πρόγραμμα αναπαραγωγής βίντεο HD και Streamer για το iPhone και MAC σας</strong>
-{{< /hextra/hero-centered-subtitle >}}
+{{< /ls-hero-centered-subtitle >}}
 </div>
 
 
 <div class="hx:mb-6">
-{{< hextra/hero-paragraph >}}
+{{< ls-hero-paragraph >}}
 • Δείτε βίντεο 360° και υψηλής ευκρίνειας σε όλες τις μορφές<br>
 • Κάντε streaming από iCloud, Google Drive, Dropbox, NAS ή τον υπολογιστή σας<br>
 • Κατεβάστε βίντεο για να τα δείτε εκτός σύνδεσης οποτεδήποτε, οπουδήποτε<br>
 • Ενεργοποιήστε υπότιτλους, χρησιμοποιήστε τον ισοσταθμιστή βίντεο και οργανώστε βίντεο με λίστες αναπαραγωγής
-{{< /hextra/hero-paragraph >}}
+{{< /ls-hero-paragraph >}}
 </div>
 
-{{< app-store-badges products="evervideo:ios, evervideo:macos" >}}
+{{< ls-app-store-badges products="evervideo:ios, evervideo:macos" >}}
 
 </div>
 
-{{< /hextra/hero-container >}}
+{{< /ls-hero-container >}}
 
 <div class="hx:mt-6"></div>
 
@@ -72,42 +72,42 @@ Evervideo
 
 {{< hextra/feature-grid >}}
 
-  {{< hextra/feature-card
+  {{< ls-glass-feature-card
     title="Αναπαραγωγή όλων των μορφών βίντεο και ήχου"
     subtitle=`Δείτε τα βίντεό σας και ακούστε μουσική χωρίς μετατροπή αρχείων. Υποστηρίζει MP4, MOV, MKV, AVI, FLV, WMV, WEBM, M4V, MP3, FLAC, AAC, ALAC, OGG, OPUS, WAV, WMA και άλλα.`
     icon="film"
     style="background: radial-gradient(circle at 50% 80%, rgba(255,99,71,0.15), rgba(17,24,39,0));"  
   >}}
 
-  {{< hextra/feature-card
+  {{< ls-glass-feature-card
     title="Βιβλιοθήκη πολυμέσων και λίστες αναπαραγωγής"
     subtitle=`Οργανώστε τη βιβλιοθήκη πολυμέσων με κομμάτια ομαδοποιημένα ανά άλμπουμ, είδος ή διάρκεια. Αυτόματος συγχρονισμός με αλλαγές στο cloud. Δημιουργήστε, επεξεργαστείτε και εξάγετε λίστες αναπαραγωγής M3U με προσαρμοσμένη ταξινόμηση.`
     icon="collection"
     style="background: radial-gradient(circle at 50% 80%, rgba(255,165,0,0.15), rgba(17,24,39,0));"  
   >}}
 
-  {{< hextra/feature-card
+  {{< ls-glass-feature-card
     title="Ισοσταθμιστής ήχου και βίντεο"
     subtitle=`Προσαρμόστε την εμφάνιση και τον ήχο των βίντεό σας ρυθμίζοντας μπάσα, τόνο, φωτεινότητα, γάμμα, κορεσμό, αντίθεση και πολλά άλλα, με 50+ προεπιλογές βίντεο και 20+ προεπιλογές ήχου ή την επιλογή να δημιουργήσετε τις δικές σας.`
     icon="adjustments"
     style="background: radial-gradient(circle at 50% 80%, rgba(255,255,0,0.15), rgba(17,24,39,0));" 
   >}}
 
-  {{< hextra/feature-card
+  {{< ls-glass-feature-card
     title="Εικόνα σε εικόνα"
     subtitle=`Η Εικόνα σε εικόνα (PiP) σας επιτρέπει να συνεχίσετε να παρακολουθείτε βίντεο σε ένα μικρό αιωρούμενο παράθυρο ενώ χρησιμοποιείτε άλλες εφαρμογές, με πλήρη υποστήριξη όλων των κύριων μορφών όπως MKV, AVI, MP4 και MOV, ομαλές μεταβάσεις βίντεο στην ουρά, αυτόματες ενημερώσεις αναπαραγωγής και ενεργούς υπότιτλους πάντα ορατούς.`
     icon="duplicate"
     style="background: radial-gradient(circle at 50% 80%, rgba(0,128,0,0.15), rgba(17,24,39,0));" 
   >}}
 
-  {{< hextra/feature-card
+  {{< ls-glass-feature-card
     title="Βίντεο 360° και λειτουργία VR"
     subtitle=`Ζήστε βίντεο 360° και VR όπως ποτέ πριν — μετακινήστε το τηλέφωνό σας για να εξερευνήσετε κάθε γωνία ή βυθιστείτε πλήρως με ένα VR headset για ολική εμβύθιση. Αναπαράγετε άμεσα βίντεο 360° από κάμερες Insta360 και παρόμοιες συσκευές με ομαλή, αβίαστη αναπαραγωγή χωρίς ρύθμιση.`
     icon="video-camera"
     style="background: radial-gradient(circle at 50% 80%, rgba(0,191,255,0.15), rgba(17,24,39,0));"  
   >}}
 
-  {{< hextra/feature-card
+  {{< ls-glass-feature-card
     title="Απρόσκοπτο streaming και συνδεσιμότητα cloud"
     subtitle=`Κάντε streaming βίντεο απευθείας από το Mac, PC, NAS, USB flash drive ή cloud αποθηκευτικό χώρο σας και μεταφέρετε αρχεία πολυμέσων χρησιμοποιώντας Wi-Fi Drive ή iTunes File Sharing. Απολαύστε πλήρη πρόσβαση σε ολόκληρη τη βιβλιοθήκη βίντεο οπουδήποτε, ακόμη και εξ αποστάσεως, μέσω Synology Drive, WD My Cloud Home και παρόμοιες συσκευές NAS.`
     icon="cloud"
@@ -120,9 +120,9 @@ Evervideo
 
 <div class="hx:mt-6"></div>
 
-{{< hextra/section-headline >}}
+{{< ls-section-headline >}}
 Όλα τα χαρακτηριστικά
-{{< /hextra/section-headline >}}
+{{< /ls-section-headline >}}
 
 <div class="hx:mt-6"></div>
 
@@ -130,35 +130,35 @@ Evervideo
 
 {{< cards >}}
 
-{{< feature-card title="Αναπαραγωγή όλων των μορφών βίντεο και ήχου" subtitle="Δείτε τα πολυμέσα σας χωρίς μετατροπή αρχείων. Το Evervideo υποστηρίζει όλες τις κύριες μορφές, συμπεριλαμβανομένων MKV, AVI, MP4, MOV, FLAC, MP3, AAC, OGG, WAV, WMV και άλλα." icon="film">}}
+{{< ls-feature-card title="Αναπαραγωγή όλων των μορφών βίντεο και ήχου" subtitle="Δείτε τα πολυμέσα σας χωρίς μετατροπή αρχείων. Το Evervideo υποστηρίζει όλες τις κύριες μορφές, συμπεριλαμβανομένων MKV, AVI, MP4, MOV, FLAC, MP3, AAC, OGG, WAV, WMV και άλλα." icon="film">}}
 
-{{< feature-card title="Λειτουργία εκτός σύνδεσης" subtitle="Κατεβάστε βίντεο, άλμπουμ και λίστες αναπαραγωγής για προβολή χωρίς σύνδεση στο internet. Πάρτε ολόκληρη τη συλλογή βίντεο μαζί σας οπουδήποτε." icon="download">}}
+{{< ls-feature-card title="Λειτουργία εκτός σύνδεσης" subtitle="Κατεβάστε βίντεο, άλμπουμ και λίστες αναπαραγωγής για προβολή χωρίς σύνδεση στο internet. Πάρτε ολόκληρη τη συλλογή βίντεο μαζί σας οπουδήποτε." icon="download">}}
 
-{{< feature-card title="Βίντεο 360° και λειτουργία VR" subtitle="Δείτε βίντεο 360° και VR με διασκεδαστικό και εύκολο τρόπο. Μετακινήστε το τηλέφωνό σας για να κοιτάξετε σε οποιαδήποτε κατεύθυνση ή τοποθετήστε το σε ένα VR headset για να νιώσετε σαν να βρίσκεστε μέσα στο βίντεο." icon="video-camera">}}
+{{< ls-feature-card title="Βίντεο 360° και λειτουργία VR" subtitle="Δείτε βίντεο 360° και VR με διασκεδαστικό και εύκολο τρόπο. Μετακινήστε το τηλέφωνό σας για να κοιτάξετε σε οποιαδήποτε κατεύθυνση ή τοποθετήστε το σε ένα VR headset για να νιώσετε σαν να βρίσκεστε μέσα στο βίντεο." icon="video-camera">}}
 
-{{< feature-card title="Εικόνα σε εικόνα" subtitle="Συνεχίστε να παρακολουθείτε βίντεο σε ένα μικρό αιωρούμενο παράθυρο ενώ χρησιμοποιείτε άλλες εφαρμογές. Ελέγξτε την αναπαραγωγή και δείτε υπότιτλους ταυτόχρονα — ιδανικό για multitasking." icon="duplicate">}}
+{{< ls-feature-card title="Εικόνα σε εικόνα" subtitle="Συνεχίστε να παρακολουθείτε βίντεο σε ένα μικρό αιωρούμενο παράθυρο ενώ χρησιμοποιείτε άλλες εφαρμογές. Ελέγξτε την αναπαραγωγή και δείτε υπότιτλους ταυτόχρονα — ιδανικό για multitasking." icon="duplicate">}}
 
-{{< feature-card title="Ισοσταθμιστής βίντεο και ήχου" subtitle="Προσαρμόστε την εμφάνιση και τον ήχο των βίντεό σας. Ρυθμίστε μπάσα, τόνο, φωτεινότητα, γάμμα, κορεσμό, αντίθεση και πολλά άλλα. Επιλέξτε από 50+ προεπιλογές βίντεο και 20+ προεπιλογές ήχου ή δημιουργήστε τις δικές σας." icon="adjustments">}}
+{{< ls-feature-card title="Ισοσταθμιστής βίντεο και ήχου" subtitle="Προσαρμόστε την εμφάνιση και τον ήχο των βίντεό σας. Ρυθμίστε μπάσα, τόνο, φωτεινότητα, γάμμα, κορεσμό, αντίθεση και πολλά άλλα. Επιλέξτε από 50+ προεπιλογές βίντεο και 20+ προεπιλογές ήχου ή δημιουργήστε τις δικές σας." icon="adjustments">}}
 
-{{< feature-card title="Υπότιτλοι" subtitle="Προβάλετε ενσωματωμένους υπότιτλους, επιλέξτε αριθμό κομματιού υπότιτλων και απολαύστε πλήρη υποστήριξη υπότιτλων ακόμη και σε λειτουργία Εικόνα σε εικόνα." icon="annotation" >}}
+{{< ls-feature-card title="Υπότιτλοι" subtitle="Προβάλετε ενσωματωμένους υπότιτλους, επιλέξτε αριθμό κομματιού υπότιτλων και απολαύστε πλήρη υποστήριξη υπότιτλων ακόμη και σε λειτουργία Εικόνα σε εικόνα." icon="annotation" >}}
 
-{{< feature-card title="Αναπαραγωγή απευθείας από το cloud" subtitle="Δείτε βίντεο απευθείας από τον αποθηκευτικό χώρο cloud χωρίς χρήση χώρου στη συσκευή. Υποστηρίζει iCloud Drive, Google Drive, Dropbox, OneDrive, MEGA, Synology Drive, pCloud και άλλα." icon="cloud">}}
+{{< ls-feature-card title="Αναπαραγωγή απευθείας από το cloud" subtitle="Δείτε βίντεο απευθείας από τον αποθηκευτικό χώρο cloud χωρίς χρήση χώρου στη συσκευή. Υποστηρίζει iCloud Drive, Google Drive, Dropbox, OneDrive, MEGA, Synology Drive, pCloud και άλλα." icon="cloud">}}
 
-{{< feature-card title="Σύνδεση υπολογιστή / NAS" subtitle="Συνδέστε εύκολα το NAS, Mac ή PC σας μέσω του οικιακού δικτύου χρησιμοποιώντας SMB, WebDAV ή DLNA. Η απομακρυσμένη πρόσβαση υποστηρίζεται για Synology Drive και WD MyCloud Home. Μεταφέρετε αρχεία πολυμέσων στη συσκευή σας μέσω Wi-Fi ή iTunes File Sharing." icon="desktop-computer">}}
+{{< ls-feature-card title="Σύνδεση υπολογιστή / NAS" subtitle="Συνδέστε εύκολα το NAS, Mac ή PC σας μέσω του οικιακού δικτύου χρησιμοποιώντας SMB, WebDAV ή DLNA. Η απομακρυσμένη πρόσβαση υποστηρίζεται για Synology Drive και WD MyCloud Home. Μεταφέρετε αρχεία πολυμέσων στη συσκευή σας μέσω Wi-Fi ή iTunes File Sharing." icon="desktop-computer">}}
 
-{{< feature-card title="Βιβλιοθήκη πολυμέσων" subtitle="Οργανώστε ανά άλμπουμ, είδος ή διάρκεια. Αυτόματος συγχρονισμός με αλλαγές στο cloud. Δημιουργήστε, επεξεργαστείτε και εξάγετε λίστες αναπαραγωγής M3U με προσαρμοσμένη ταξινόμηση." icon="library" >}}
+{{< ls-feature-card title="Βιβλιοθήκη πολυμέσων" subtitle="Οργανώστε ανά άλμπουμ, είδος ή διάρκεια. Αυτόματος συγχρονισμός με αλλαγές στο cloud. Δημιουργήστε, επεξεργαστείτε και εξάγετε λίστες αναπαραγωγής M3U με προσαρμοσμένη ταξινόμηση." icon="library" >}}
 
-{{< feature-card title="Σελιδοδείκτες και αποθήκευση θέσης αναπαραγωγής" subtitle="Αποθηκεύστε τη θέση σας σε οποιοδήποτε βίντεο με σελιδοδείκτες και συνεχίστε την αναπαραγωγή από εκεί που σταματήσατε. Ρυθμίστε την ταχύτητα αναπαραγωγής, σημειώστε αγαπημένα και ταξινομήστε βίντεο κατά τα πιο παιγμένα για εύκολη πρόσβαση." icon="book-open">}}
+{{< ls-feature-card title="Σελιδοδείκτες και αποθήκευση θέσης αναπαραγωγής" subtitle="Αποθηκεύστε τη θέση σας σε οποιοδήποτε βίντεο με σελιδοδείκτες και συνεχίστε την αναπαραγωγή από εκεί που σταματήσατε. Ρυθμίστε την ταχύτητα αναπαραγωγής, σημειώστε αγαπημένα και ταξινομήστε βίντεο κατά τα πιο παιγμένα για εύκολη πρόσβαση." icon="book-open">}}
 
-{{< feature-card title="AirPlay και Chromecast" subtitle="Αναπαράγετε βίντεο σε μεγαλύτερη οθόνη κάνοντας streaming σε Apple TV, Chromecast ή οποιαδήποτε συμβατή εξωτερική οθόνη." icon="device-mobile">}}
+{{< ls-feature-card title="AirPlay και Chromecast" subtitle="Αναπαράγετε βίντεο σε μεγαλύτερη οθόνη κάνοντας streaming σε Apple TV, Chromecast ή οποιαδήποτε συμβατή εξωτερική οθόνη." icon="device-mobile">}}
 
-{{< feature-card title="Εισαγωγή από αρχεία και βιβλιοθήκες" subtitle="Εισάγετε βίντεο απευθείας από την εφαρμογή Αρχεία, Φωτογραφίες ή τη βιβλιοθήκη iTunes. Αποκτήστε πρόσβαση σε όλο το τοπικό και cloud περιεχόμενο σε μία οργανωμένη βιβλιοθήκη πολυμέσων." icon="database">}}
+{{< ls-feature-card title="Εισαγωγή από αρχεία και βιβλιοθήκες" subtitle="Εισάγετε βίντεο απευθείας από την εφαρμογή Αρχεία, Φωτογραφίες ή τη βιβλιοθήκη iTunes. Αποκτήστε πρόσβαση σε όλο το τοπικό και cloud περιεχόμενο σε μία οργανωμένη βιβλιοθήκη πολυμέσων." icon="database">}}
 
-{{< feature-card title="Διαχειριστής αρχείων" subtitle="Μετακινήστε, μετονομάστε, διαγράψτε και οργανώστε αρχεία απευθείας μέσα στην εφαρμογή." icon="folder">}}
+{{< ls-feature-card title="Διαχειριστής αρχείων" subtitle="Μετακινήστε, μετονομάστε, διαγράψτε και οργανώστε αρχεία απευθείας μέσα στην εφαρμογή." icon="folder">}}
 
-{{< feature-card title="Εξατομίκευση" subtitle="Προσαρμόστε την εφαρμογή στις προτιμήσεις σας. Επιλέξτε θέματα, εμφανίστε ή κρύψτε χαρακτηριστικά και ρυθμίστε τη διεπαφή στις ανάγκες σας." icon="sun">}}
+{{< ls-feature-card title="Εξατομίκευση" subtitle="Προσαρμόστε την εφαρμογή στις προτιμήσεις σας. Επιλέξτε θέματα, εμφανίστε ή κρύψτε χαρακτηριστικά και ρυθμίστε τη διεπαφή στις ανάγκες σας." icon="sun">}}
 
-{{< feature-card title="Έξυπνη αναζήτηση" subtitle="Βρείτε γρήγορα βίντεο, άλμπουμ ή λίστες αναπαραγωγής στη βιβλιοθήκη πολυμέσων σας χρησιμοποιώντας λέξεις-κλειδιά ή φίλτρα." icon="search" >}}
+{{< ls-feature-card title="Έξυπνη αναζήτηση" subtitle="Βρείτε γρήγορα βίντεο, άλμπουμ ή λίστες αναπαραγωγής στη βιβλιοθήκη πολυμέσων σας χρησιμοποιώντας λέξεις-κλειδιά ή φίλτρα." icon="search" >}}
 
 
 
@@ -168,9 +168,9 @@ Evervideo
 
 <div class="hx:mt-6"></div>
 
-{{< hextra/section-headline >}}
+{{< ls-section-headline >}}
 Διαισθητικός σχεδιασμός
-{{< /hextra/section-headline >}}
+{{< /ls-section-headline >}}
 
 <div class="hx:mt-6"></div>
 
@@ -178,7 +178,7 @@ Evervideo
 
 {{< cards cols="4">}}
 
-  {{< design-feature-card 
+  {{< ls-design-feature-card 
     image="/products/evervideo/screenshots/2880x1800/1.png" 
     title="Πρόγραμμα αναπαραγωγής βίντεο" 
     method="Fill"
@@ -187,7 +187,7 @@ Evervideo
     icon="play"
   >}}
 
-  {{< design-feature-card 
+  {{< ls-design-feature-card 
     image="/products/evervideo/screenshots/2880x1800/3.png" 
     title="Ισοσταθμιστής ήχου και βίντεο" 
     method="Fill"
@@ -196,7 +196,7 @@ Evervideo
     icon="adjustments"
   >}}
 
-  {{< design-feature-card 
+  {{< ls-design-feature-card 
     image="/products/evervideo/screenshots/2880x1800/6.png" 
     title="Διαχειριστής λιστών αναπαραγωγής" 
     method="Fill"
@@ -205,7 +205,7 @@ Evervideo
     icon="collection"
   >}}
 
-  {{< design-feature-card 
+  {{< ls-design-feature-card 
     image="/products/evervideo/screenshots/2880x1800/5.png" 
     title="Βιβλιοθήκη πολυμέσων" 
     method="Fill"
@@ -214,7 +214,7 @@ Evervideo
     icon="library"
   >}}
 
-  {{< design-feature-card 
+  {{< ls-design-feature-card 
     image="/products/evervideo/screenshots/2880x1800/7.png"  
     title="Αποθηκευτικός χώρος cloud" 
     method="Fill"
@@ -223,7 +223,7 @@ Evervideo
     icon="cloud"
   >}}
 
-  {{< design-feature-card 
+  {{< ls-design-feature-card 
     image="/products/evervideo/screenshots/2880x1800/9.png"  
     title="Διαχειριστής αρχείων" 
     method="Fill"
@@ -241,49 +241,49 @@ Evervideo
 <div class="hx:mt-6"></div>
 
 <div class="hx:w-full">
-{{< appstore-reviews apps="6602897336,6743504109" stars="5,4"  app="Evervideo" >}}
+{{< ls-appstore-reviews apps="6602897336,6743504109" stars="5,4"  app="Evervideo" >}}
 </div>
 
 
 <div class="hx:mt-6"></div>
 
-{{< hextra/section-headline >}}
+{{< ls-section-headline >}}
    Σχέδια τιμολόγησης
-{{< /hextra/section-headline >}}
+{{< /ls-section-headline >}}
 
 <div class="hx:mt-6"></div>
 
 <div class="hx:w-full">
 
-{{< pricing-plans >}}
+{{< ls-pricing-plans >}}
 
 </div>
 
 <div class="hx:mt-6"></div>
 
 <div class="hx:w-full hx:mx-auto hx:flex hx:flex-col hx:items-center">
-  {{< hextra/info-paragraph border="true" >}}
+  {{< ls-info-paragraph border="true" >}}
    <strong>Οικογενειακή κοινή χρήση</strong>: Όλες οι αγορές και συνδρομές υποστηρίζουν την Οικογενειακή κοινή χρήση, επιτρέποντάς σας να μοιράζεστε την πρόσβαση Premium με την οικογένειά σας.<br><strong>Καθολική πρόσβαση</strong>: Τα σχέδια εφ' όρου ζωής και συνδρομής μοιράζονται μεταξύ συσκευών iOS και Mac μέσω συγχρονισμού iCloud.<br><strong>Τιμές</strong>: Οι τιμές εμφανίζονται σε δολάρια ΗΠΑ για τις Ηνωμένες Πολιτείες. Οι τελικές τιμές μπορεί να διαφέρουν ανάλογα με την περιοχή σας.  
-  {{< /hextra/info-paragraph >}}
+  {{< /ls-info-paragraph >}}
 </div>
 
 <div class="hx:mt-6"></div>
 
 <div class="hx:w-full">
-{{< app-details heading="true" >}}
+{{< ls-app-details heading="true" >}}
 </div>
 
 <div class="hx:mt-6"></div>
 
-{{< hextra/section-headline >}}
+{{< ls-section-headline >}}
    Συχνές ερωτήσεις
-{{< /hextra/section-headline >}}
+{{< /ls-section-headline >}}
 
 <div class="hx:mt-6"></div>
 
 <div class="hx:w-full">
 
-{{% details title="Πώς λειτουργεί το Evervideo;" closed="true" %}}
+{{% ls-details title="Πώς λειτουργεί το Evervideo;" closed="true" %}}
 Το Evervideo είναι ένα πρόγραμμα αναπαραγωγής βίντεο HD που σας επιτρέπει να διαχειρίζεστε τα κομμάτια βίντεο σαν κανονικά αρχεία.<br>
 Μπορείτε να ανεβάσετε ολόκληρη τη συλλογή βίντεό σας σε υπηρεσίες cloud όπως Dropbox, OneDrive, iCloud ή ένα προσωπικό NAS και να αναπαράγετε βίντεο απευθείας από το cloud με πλήρη έλεγχο.<br><br>
 Δεν απαιτείται συγχρονισμός iTunes — απλά ανεβάστε από τον υπολογιστή ή Mac σας όπως κάνετε με οποιοδήποτε αρχείο.<br>
@@ -293,9 +293,9 @@ Evervideo
 - [Οδηγός Evervideo](/docs/guide/evervideo/)<br>
 - [Πώς να μεταφέρετε αρχεία ασύρματα από υπολογιστή σε iPhone χρησιμοποιώντας WiFi-Drive.](/docs/howto/how-to-transfer-files-wirelessly-from-a-computer-to-an-iphone-using-wifi-drive)<br>
 
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Είναι το Evervideo δωρεάν;" closed="true" %}}
+{{% ls-details title="Είναι το Evervideo δωρεάν;" closed="true" %}}
 Το Evervideo είναι δωρεάν με ορισμένους περιορισμούς, οι οποίοι μπορούν να αφαιρεθούν αναβαθμίζοντας στην έκδοση Premium.<br>
 Μπορείτε να επιλέξετε ανάμεσα σε μια εφάπαξ αγορά εφ' όρου ζωής ή δύο επιλογές συνδρομής (μηνιαία ή ετήσια). Οι τιμές μπορεί να διαφέρουν ανάλογα με την περιοχή σας.<br><br>
 
@@ -304,9 +304,9 @@ Evervideo
 Οι αγορές και συνδρομές Premium μοιράζονται μεταξύ iOS και Mac μέσω iCloud. Για να συγχρονίσετε την αγορά σας, βεβαιωθείτε ότι το iCloud είναι ενεργοποιημένο, ανοίξτε την εφαρμογή στη συσκευή iOS σας και περιμένετε ένα λεπτό για να ολοκληρωθεί ο συγχρονισμός.<br><br>
 
 [Διαβάστε περισσότερα για τις διαφορές μεταξύ Evervideo και Evervideo Premium](/docs/faq/evervideo/what-is-the-difference-between-evervideo-and-evervideo-premium/)
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Πώς χρησιμοποιώ το Evervideo;" closed="true" %}}
+{{% ls-details title="Πώς χρησιμοποιώ το Evervideo;" closed="true" %}}
 
 **Εγκατάσταση του Evervideo**<br>
 Κατεβάστε και εγκαταστήστε την εφαρμογή Evervideo από το κατάστημα εφαρμογών της συσκευής σας. Είναι διαθέσιμη τόσο για iOS όσο και για Mac.<br><br>
@@ -355,9 +355,9 @@ Evervideo
 **Απολαύστε το βίντεό σας**<br>
 Μόλις το βίντεό σας οργανωθεί, χρησιμοποιήστε την επάνω γραμμή εργαλείων για γρήγορες ενέργειες όπως **Αναζήτηση**, **Αναπαραγωγή όλων**, **Τυχαία σειρά** και **Συνέχιση αναπαραγωγής**.<br><br>
 
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Είναι ασφαλές το Evervideo;" closed="true" %}}
+{{% ls-details title="Είναι ασφαλές το Evervideo;" closed="true" %}}
 Το Evervideo χρησιμοποιεί μόνο επίσημα SDK και ασφαλείς συνδέσεις για αλληλεπίδραση με τις συνδεδεμένες υπηρεσίες cloud. Το όνομα χρήστη και ο κωδικός σας δεν είναι διαθέσιμα στην εφαρμογή. Όλα τα αιτήματα από την εφαρμογή προς την υπηρεσία cloud είναι κρυπτογραφημένα.<br>
 Όταν εισάγετε όνομα χρήστη και κωδικό, η εφαρμογή σας δείχνει την επίσημη σελίδα εξουσιοδότησης που παρέχεται από τον πάροχο υπηρεσίας cloud και όλη η διαδικασία εξουσιοδότησης γίνεται εκτός της εφαρμογής. Ο πάροχος υπηρεσίας cloud στέλνει ένα token εξουσιοδότησης στην εφαρμογή μετά την επιτυχή εξουσιοδότηση και αυτό το token χρησιμοποιείται για κλήσεις API.<br><br>
 
@@ -368,22 +368,22 @@ Evervideo
 
 Μπορείτε επίσης να αποσυνδέσετε τους συνδεδεμένους λογαριασμούς cloud στην εφαρμογή και το token εξουσιοδότησης θα αφαιρεθεί επίσης από τη συσκευή σας. Αν αφαιρέσετε την εφαρμογή από τη συσκευή σας, όλα τα ληφθέντα δεδομένα και τα tokens πρόσβασης θα αφαιρεθούν επίσης.<br><br>
 
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Πώς δημιουργώ μια λίστα αναπαραγωγής στο Evervideo;" closed="true" %}}
+{{% ls-details title="Πώς δημιουργώ μια λίστα αναπαραγωγής στο Evervideo;" closed="true" %}}
 - Ανοίξτε την ενότητα Λίστες αναπαραγωγής.<br>
 - Πατήστε το κουμπί «+» ή το κουμπί «...» στην επάνω δεξιά γωνία και επιλέξτε «Νέα λίστα αναπαραγωγής».<br>
 - Εισάγετε ένα όνομα για τη λίστα αναπαραγωγής και πατήστε «Αποθήκευση». Θα εμφανιστεί το παράθυρο διαλόγου «Προσθήκη αρχείων πολυμέσων».<br>
 - Επιλέξτε τα κομμάτια που θέλετε να προσθέσετε στη λίστα αναπαραγωγής.<br><br>
 
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Ποιες υπηρεσίες cloud υποστηρίζει το Evervideo;" closed="true" %}}
+{{% ls-details title="Ποιες υπηρεσίες cloud υποστηρίζει το Evervideo;" closed="true" %}}
 Αυτή τη στιγμή, η εφαρμογή υποστηρίζει τις πιο δημοφιλείς υπηρεσίες cloud: iCloud Drive, Google Drive, Dropbox, OneDrive, Box, MEGA, Yandex.Disk, DLNA, MediaFire, WebDAV, SMB, pCloud, Cloud Mail.ru, Put.io.<br><br>
 
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Πώς ενεργοποιώ τη λειτουργία εκτός σύνδεσης στο Evervideo;" closed="true" %}}
+{{% ls-details title="Πώς ενεργοποιώ τη λειτουργία εκτός σύνδεσης στο Evervideo;" closed="true" %}}
 - Σύνδεση σε αποθηκευτικό χώρο cloud:<br>
  • Μεταβείτε στην καρτέλα «Αρχεία».<br>
  • Επιλέξτε «Σύνδεση σε αποθηκευτικό χώρο cloud» και ακολουθήστε τις οδηγίες για σύνδεση στην επιθυμητή υπηρεσία.<br><br>
@@ -408,9 +408,9 @@ Evervideo
  • Για χειροκίνητο συγχρονισμό, μεταβείτε στις «Ρυθμίσεις» > «Διαχειριστής αρχείων» > «Φάκελοι εκτός σύνδεσης» > «Συγχρονισμένοι φάκελοι εκτός σύνδεσης».<br>
  • Πατήστε «Περισσότερες ενέργειες» και επιλέξτε «Έναρξη συγχρονισμού».<br><br>
 
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Πώς να αναπαράγετε τοπικά ληφθέντα βίντεο στο iPhone;" closed="true" %}}
+{{% ls-details title="Πώς να αναπαράγετε τοπικά ληφθέντα βίντεο στο iPhone;" closed="true" %}}
 Μόλις εγκαταστήσετε την εφαρμογή, ανοίξτε την οθόνη «Αρχεία» και μετακινηθείτε προς τα κάτω στην ενότητα «Αρχεία σε αυτό το iPhone». Από εκεί, επιλέξτε «Άνοιγμα αρχείων...» αν χρειάζεται να επιλέξετε πολλά αρχεία ή «Άνοιγμα φακέλου...» αν θέλετε να επιλέξετε έναν φάκελο πολυμέσων. Η εφαρμογή θα σαρώσει τα περιεχόμενα του φακέλου και όλα τα αρχεία πολυμέσων που βρεθούν θα επιλεγούν. Μεταβείτε στον φάκελο πολυμέσων, πατήστε «Άνοιγμα» για επιβεβαίωση της επιλογής σας και τα αρχεία θα προστεθούν στην ουρά αναπαραγωγής. Αυτά τα αρχεία θα αναπαραχθούν απευθείας από την επιλεγμένη τοποθεσία χωρίς αντιγραφή στο bundle της εφαρμογής.<br><br>
 
 **Προσθήκη φακέλου στα αγαπημένα για γρήγορη πρόσβαση**<br>
@@ -422,13 +422,13 @@ Evervideo
 **Προσθήκη τοπικών αρχείων σε λίστα αναπαραγωγής**<br>
 Για να προσθέσετε τοπικά αρχεία σε λίστα αναπαραγωγής, ανοίξτε την οθόνη «Λίστες αναπαραγωγής» και πατήστε το κουμπί περισσότερων στην επάνω δεξιά γωνία. Επιλέξτε «+ Νέα λίστα αναπαραγωγής», εισάγετε ένα όνομα και στην επόμενη οθόνη επιλέξτε «Αρχεία σε αυτή τη συσκευή» και πατήστε «Άνοιγμα αρχείων...». Επιλέξτε τα αρχεία πολυμέσων που θέλετε να προσθέσετε και πατήστε «Άνοιγμα» για επιβεβαίωση. Τα αρχεία θα προστεθούν στη λίστα αναπαραγωγής σας, όπου μπορείτε να αλλάξετε τη σειρά των κομματιών και να εκτελέσετε άλλες ενέργειες με το κουμπί περισσότερων.<br><br>
 
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Πώς μπορώ να συνεχίσω μια λίστα αναπαραγωγής από εκεί που σταμάτησα;" closed="true" %}}
+{{% ls-details title="Πώς μπορώ να συνεχίσω μια λίστα αναπαραγωγής από εκεί που σταμάτησα;" closed="true" %}}
 Πρώτα, βεβαιωθείτε ότι η «Αποθήκευση κατάστασης αναπαραγωγέα πολυμέσων» είναι ενεργοποιημένη στις Ρυθμίσεις > Αναπαραγωγέας πολυμέσων > Γενικά. Όταν αλλάξετε σε άλλη λίστα αναπαραγωγής και επιστρέψετε, θα δείτε τέσσερις ενέργειες στην επάνω γραμμή εργαλείων κάτω από το εξώφυλλο του άλμπουμ: «Αναζήτηση», «Συνέχιση αναπαραγωγής», «Αναπαραγωγή όλων» και «Τυχαία σειρά». Πατήστε «Συνέχιση αναπαραγωγής» για να συνεχίσετε τη λίστα αναπαραγωγής από την τελευταία αποθηκευμένη κατάσταση και θέση πολυμέσων.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Πώς μεταφέρω βίντεο στο Evervideo από τον υπολογιστή μου;" closed="true" %}}
+{{% ls-details title="Πώς μεταφέρω βίντεο στο Evervideo από τον υπολογιστή μου;" closed="true" %}}
 Μπορείτε να συνδέσετε τον υπολογιστή ή το προσωπικό NAS σας χρησιμοποιώντας πρωτόκολλα SMB, WebDAV ή DLNA. Εναλλακτικά, χρησιμοποιήστε το iTunes File Sharing για μεταφορά αρχείων πολυμέσων.<br><br>
 
 Για σύνδεση υπολογιστή χρησιμοποιώντας πρωτόκολλο SMB, πατήστε «Αρχεία» «Σύνδεση σε αποθηκευτικό χώρο cloud» → SMB. Εισάγετε τη διεύθυνση IP του υπολογιστή και το όνομα του κοινόχρηστου φακέλου στο πεδίο URL με τη μορφή smb://ip-υπολογιστή/όνομα-κοινόχρηστου-φακέλου, εισάγετε όνομα χρήστη και κωδικό και πατήστε «Τέλος». Αν η σύνδεση είναι επιτυχής, θα δείτε τον συνδεδεμένο αποθηκευτικό χώρο στην ενότητα «Αποθηκευτικός χώρος cloud».<br><br>
@@ -447,9 +447,9 @@ Evervideo
 Λεπτομερείς οδηγίες διαθέσιμες εδώ:<br>
 [Πώς να αναπαράγετε τοπικά αρχεία (αρχεία iTunes) στο iPhone](/docs/howto/how-to-play-local-itunes-files-on-my-iphone)<br><br>
 
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Πώς να κατεβάσετε βίντεο;" closed="true" %}}
+{{% ls-details title="Πώς να κατεβάσετε βίντεο;" closed="true" %}}
 Πριν μπορέσετε να κατεβάσετε βίντεο και να το δείτε εκτός σύνδεσης, πρέπει να συνδέσετε έναν αποθηκευτικό χώρο cloud.<br>
 Απλά ανοίξτε την οθόνη «Αρχεία» και συνδέστε τον αποθηκευτικό χώρο cloud σας.<br>
 Μόλις τον προσθέσετε, μπορείτε να κατεβάσετε τα βίντεό σας από το cloud.<br><br>
@@ -465,14 +465,14 @@ Evervideo
 – Πατήστε το πλαίσιο ελέγχου «Λειτουργία εκτός σύνδεσης»<br>
 – Ο εκτός σύνδεσης Καλλιτέχνης/Άλμπουμ/Λίστα αναπαραγωγής θα εμφανιστεί στην ενότητα «Αρχεία» -> «Φάκελοι εκτός σύνδεσης».<br><br>
 
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Ποιες μορφές ήχου υποστηρίζει το Evervideo;" closed="true" %}}
+{{% ls-details title="Ποιες μορφές ήχου υποστηρίζει το Evervideo;" closed="true" %}}
 Αυτή η εφαρμογή υποστηρίζει προεπιλεγμένους **κωδικοποιητές ήχου συστήματος** και πρόσθετους **κωδικοποιητές λογισμικού ffmpeg**:<br><br>
 3g2, 3gp, 3gp2, 3gpp, 8svx, aa, aac, aax, ac3, act, adt, adts, aif, aifc, aiff, alac, amr, amv, ape, asf, au, avi, awb, caf, cavs, cdda, cue, dct, dff, drc, dsf, dss, dvf, "dvr-ms", ec3, f4a, f4b, f4p, f4v, flac, flv, gif, gifv, gsm, gxf, h261, h263, h264, ifv, iklax, ivf, ivs, l16, latm, loas, m2t, m2ts, m2v, m3u, m3u8, m4a, m4b, m4p, m4r, m4v, mka, mkv, mmf, mng, mod, mogg, mov, mp1, mp2, mp3, mp4, mp4v, mpa, mpc, mpe, mpeg, mpg, mpv, msv, mts, mxf, nsf, nsv, nut, oga, ogg, ogv, opus, pcm, pls, qt, ra, raw, rm, rmvb, roq, rv, sln, snd, svi, tod, tta, vob, voc, vox, vtt, w64, wav, wave, webm, wma, wmv, wv, xhe, xmv, y4m, yuv.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Λειτουργεί το Evervideo με συσκευές NAS;" closed="true" %}}
+{{% ls-details title="Λειτουργεί το Evervideo με συσκευές NAS;" closed="true" %}}
 
 Ναι, το Evervideo υποστηρίζει συνδέσεις NAS χρησιμοποιώντας πρωτόκολλα **SMB**, **WebDAV** και **DLNA**.<br><br>
 
@@ -496,9 +496,9 @@ Evervideo
 • Εμφανίζει όλες τις ανιχνεύσιμες συσκευές NAS στο τοπικό δίκτυό σας.<br>
 • Πατήστε σε ένα όνομα συσκευής για σύνδεση και εισάγετε διαπιστευτήρια αν χρειάζεται.<br><br>
 
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Πώς χρησιμοποιώ τη λειτουργία Wi-Fi Drive στο Evervideo;" closed="true" %}}
+{{% ls-details title="Πώς χρησιμοποιώ τη λειτουργία Wi-Fi Drive στο Evervideo;" closed="true" %}}
 
 **Ασύρματη μεταφορά χρησιμοποιώντας browser επιτραπέζιου**<br>
 1. Εκκινήστε την εφαρμογή: Ανοίξτε το Evervideo.<br>
@@ -523,39 +523,39 @@ Evervideo
 
 [Διαβάστε περισσότερα](/docs/howto/how-to-transfer-files-wirelessly-from-a-computer-to-an-iphone-using-wifi-drive)
 
-{{% /details %}}
+{{% /ls-details %}}
 
 </div>
 
 
 <div class="hx:mt-6"></div>
 
-{{< hextra/section-headline >}}
+{{< ls-section-headline >}}
   Οδηγός χρήσης
-{{< /hextra/section-headline >}}
+{{< /ls-section-headline >}}
 
 <div class="hx:mt-6"></div>
 
 <div class="hx:w-full">
 
 <div class="hx:w-full hx:mx-auto hx:flex hx:flex-col hx:items-center hx:text-center">
-  {{< hextra/info-paragraph border="false" >}}
+  {{< ls-info-paragraph border="false" >}}
   Αυτός ο οδηγός θα σας βοηθήσει να αξιοποιήσετε στο έπακρο το Evervideo στο iPhone, iPad ή Mac σας. Μάθετε πώς να μεταδίδετε βίντεο από αποθήκευση cloud και NAS, να χρησιμοποιείτε λειτουργία Εικόνα-σε-Εικόνα, να διαχειρίζεστε υπότιτλους και να ρυθμίζετε τους ισοσταθμιστές ήχου και βίντεο. Το Evervideo σας δίνει πλήρη έλεγχο σε ολόκληρη τη συλλογή βίντεό σας, από οποιαδήποτε πηγή, σε μία εύκολη εφαρμογή.
-  {{< /hextra/info-paragraph >}}
+  {{< /ls-info-paragraph >}}
 </div>
 
 {{< cards >}}
-  {{< feature-card icon="location-marker" title="Πλοήγηση" subtitle="Μάθετε πώς να πλοηγείστε στο Evervideo μέσω της γραμμής καρτελών στο iPhone ή του αριστερού μενού σε iPad και Mac, καθώς και του συμπαγούς πάντοτε ορατού player βίντεο." link="/docs/guide/evervideo/evervideo-guide-navigation" >}}
+  {{< ls-feature-card icon="location-marker" title="Πλοήγηση" subtitle="Μάθετε πώς να πλοηγείστε στο Evervideo μέσω της γραμμής καρτελών στο iPhone ή του αριστερού μενού σε iPad και Mac, καθώς και του συμπαγούς πάντοτε ορατού player βίντεο." link="/docs/guide/evervideo/evervideo-guide-navigation" >}}
 
-  {{< feature-card icon="folder" title="Αρχεία" subtitle="Συνδέστε λογαριασμούς cloud, κοινόχρηστα NAS, διακομιστές πολυμέσων (Plex, Jellyfin, Emby, Subsonic, Navidrome), ροές RTSP και τοπικά αρχεία σε μία ενοποιημένη καρτέλα." link="/docs/guide/evervideo/evervideo-guide-files" >}}
+  {{< ls-feature-card icon="folder" title="Αρχεία" subtitle="Συνδέστε λογαριασμούς cloud, κοινόχρηστα NAS, διακομιστές πολυμέσων (Plex, Jellyfin, Emby, Subsonic, Navidrome), ροές RTSP και τοπικά αρχεία σε μία ενοποιημένη καρτέλα." link="/docs/guide/evervideo/evervideo-guide-files" >}}
 
-  {{< feature-card icon="library" title="Βιβλιοθήκη πολυμέσων" subtitle="Οργανώστε και εξερευνήστε τα βίντεο και τη μουσική σας ανά Άλμπουμ, Είδη, Πρόσφατα και Αγαπημένα — μαζί με τη βιβλιοθήκη Φωτογραφιών iOS και τη βιβλιοθήκη Apple Music." link="/docs/guide/evervideo/evervideo-guide-video-library" >}}
+  {{< ls-feature-card icon="library" title="Βιβλιοθήκη πολυμέσων" subtitle="Οργανώστε και εξερευνήστε τα βίντεο και τη μουσική σας ανά Άλμπουμ, Είδη, Πρόσφατα και Αγαπημένα — μαζί με τη βιβλιοθήκη Φωτογραφιών iOS και τη βιβλιοθήκη Apple Music." link="/docs/guide/evervideo/evervideo-guide-video-library" >}}
 
-  {{< feature-card icon="collection" title="Λίστες αναπαραγωγής" subtitle="Δημιουργήστε και οργανώστε λίστες αναπαραγωγής για βίντεο, μουσική, σειρές ή μαθήματα και εισαγάγετε αρχεία M3U / M3U8 / CUE." link="/docs/guide/evervideo/evervideo-guide-playlists" >}}
+  {{< ls-feature-card icon="collection" title="Λίστες αναπαραγωγής" subtitle="Δημιουργήστε και οργανώστε λίστες αναπαραγωγής για βίντεο, μουσική, σειρές ή μαθήματα και εισαγάγετε αρχεία M3U / M3U8 / CUE." link="/docs/guide/evervideo/evervideo-guide-playlists" >}}
 
-  {{< feature-card icon="play" title="Συσκευή αναπαραγωγής πολυμέσων" subtitle="Ελέγξτε την αναπαραγωγή, την ουρά, την Εικόνα-σε-Εικόνα, τα κανάλια ήχου και βίντεο, τους κύριους και δευτερεύοντες υπότιτλους και τους ισοσταθμιστές ήχου και βίντεο." link="/docs/guide/evervideo/evervideo-guide-player" >}}
+  {{< ls-feature-card icon="play" title="Συσκευή αναπαραγωγής πολυμέσων" subtitle="Ελέγξτε την αναπαραγωγή, την ουρά, την Εικόνα-σε-Εικόνα, τα κανάλια ήχου και βίντεο, τους κύριους και δευτερεύοντες υπότιτλους και τους ισοσταθμιστές ήχου και βίντεο." link="/docs/guide/evervideo/evervideo-guide-player" >}}
 
-  {{< feature-card icon="adjustments" title="Ρυθμίσεις" subtitle="Προσαρμόστε την εμφάνιση, τον αποκωδικοποιητή, τους ισοσταθμιστές, τους υπότιτλους, τα widgets, τη γλώσσα, τον κωδικό πρόσβασης, τα αντίγραφα ασφαλείας και τις ρυθμίσεις απόδοσης του Evervideo." link="/docs/guide/evervideo/evervideo-guide-settings" >}}
+  {{< ls-feature-card icon="adjustments" title="Ρυθμίσεις" subtitle="Προσαρμόστε την εμφάνιση, τον αποκωδικοποιητή, τους ισοσταθμιστές, τους υπότιτλους, τα widgets, τη γλώσσα, τον κωδικό πρόσβασης, τα αντίγραφα ασφαλείας και τις ρυθμίσεις απόδοσης του Evervideo." link="/docs/guide/evervideo/evervideo-guide-settings" >}}
 
 {{< /cards >}}
 

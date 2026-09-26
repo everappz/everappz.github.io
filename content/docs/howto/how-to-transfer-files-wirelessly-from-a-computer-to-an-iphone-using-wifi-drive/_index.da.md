@@ -7,7 +7,7 @@ keywords: ["trådløs filoverførsel til iPhone", "wifi drive filoverførsel", "
 readingTime: 2
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **Kort sagt:** Wi-Fi Drive lader dig overføre filer fra enhver computer til din iPhone eller iPad via Wi-Fi -- ingen iTunes eller kabler nødvendige. Brug en webbrowser, Mac Finder eller Windows File Explorer. Begge enheder skal være på det samme Wi-Fi-netværk.
@@ -18,7 +18,7 @@ Du kan overføre filer trådløst ved hjælp af en desktop webbrowser eller WebD
 
 Du kan se en videovejledning fra [**TECHGUYPH**](https://www.youtube.com/channel/UCgpf09gGFE_c_3pPTtTpnzg) eller læse tekstversionen nedenfor.
 <br><br>
-{{< youtubecard id="CqdqrQ0ge70" title="Can We Wirelessly Put Offline Music on iPhones?" >}}
+{{< ls-youtubecard id="CqdqrQ0ge70" title="Can We Wirelessly Put Offline Music on iPhones?" >}}
 
 ## Overfør filer fra computeren trådløst med en desktop webbrowser
 
@@ -90,26 +90,26 @@ Ingen iTunes nødvendig!
 
 ## Ofte stillede spørgsmål
 
-{{% details title="Har jeg brug for iTunes til at overføre filer til min iPhone?" closed="true" %}}
+{{% ls-details title="Har jeg brug for iTunes til at overføre filer til min iPhone?" closed="true" %}}
 Nej. Wi-Fi Drive overfører filer direkte over dit lokale Wi-Fi-netværk. iTunes er ikke nødvendig.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Hvilke apps understøtter Wi-Fi Drive?" closed="true" %}}
+{{% ls-details title="Hvilke apps understøtter Wi-Fi Drive?" closed="true" %}}
 Wi-Fi Drive er tilgængelig i Evermusic, Flacbox, Evertag og Evervideo til iOS.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Skal begge enheder være på det samme Wi-Fi-netværk?" closed="true" %}}
+{{% ls-details title="Skal begge enheder være på det samme Wi-Fi-netværk?" closed="true" %}}
 Ja. Din computer og iPhone eller iPad skal være forbundet til det samme lokale Wi-Fi-netværk, for at Wi-Fi Drive kan fungere.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Kan jeg overføre hele mapper, ikke kun individuelle filer?" closed="true" %}}
+{{% ls-details title="Kan jeg overføre hele mapper, ikke kun individuelle filer?" closed="true" %}}
 Ja. Wi-Fi Drive understøtter upload og download af hele mapper gennem webbrowsergrænsefladen.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Fungerer Wi-Fi Drive med Windows?" closed="true" %}}
+{{% ls-details title="Fungerer Wi-Fi Drive med Windows?" closed="true" %}}
 Ja. Du kan bruge enhver webbrowser på Windows eller forbinde via Windows File Explorer ved hjælp af WebDAV-protokollen.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Kan jeg bruge et USB-kabel til at fremskynde overførslen?" closed="true" %}}
+{{% ls-details title="Kan jeg bruge et USB-kabel til at fremskynde overførslen?" closed="true" %}}
 Ja. Hvis din iPhone er forbundet til din Mac via USB, mens Wi-Fi Drive kører, vil overførslen bruge kabelforbindelsen til hurtigere hastigheder.
-{{% /details %}}
+{{% /ls-details %}}

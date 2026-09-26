@@ -7,7 +7,7 @@ tags: ["evermusic", "flacbox", "עדכונים אחרונים", "lastfm", "יי�
 readingTime: 5
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **תקציר:** ייצאו את היסטוריית ההאזנה שלכם מ-Evermusic או Flacbox כקובץ CSV, ואז העלו אותו ל-Last.fm באמצעות הכלי החינמי Last.fm-Scrubbler-WPF ב-Windows. Scrobbling אוטומטי זמין גם באופן מובנה בשתי האפליקציות.
@@ -134,22 +134,22 @@ M3U: פורמט זה הוא למעשה הבחירה המובילה ליצירת 
 
 ## שאלות נפוצות
 
-{{% details title="האם אני יכול לעשות scrobble אוטומטית ללא ייצוא קבצי CSV?" closed="true" %}}
+{{% ls-details title="האם אני יכול לעשות scrobble אוטומטית ללא ייצוא קבצי CSV?" closed="true" %}}
 כן. גם Evermusic וגם Flacbox תומכים כעת ב-scrobbling אוטומטי ל-Last.fm. ראו את המדריך: [כיצד לעשות scrobble ל-Last.fm](/docs/howto/how-to-scrobble-your-music-history-from-evermusic-or-flacbox-to-last-fm).
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="מה אם ה-CSV שלי מכיל שירים ישנים מ-14 יום?" closed="true" %}}
+{{% ls-details title="מה אם ה-CSV שלי מכיל שירים ישנים מ-14 יום?" closed="true" %}}
 השתמשו במצב ייבוא ב-Last.fm-Scrubbler-WPF. הוא מחשב מחדש חותמות זמן מזמן הסיום, ומאפשר לכם לעשות scrobble לשירים ללא קשר לתאריך המקורי שלהם.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="אין לי מחשב Windows. האם אני עדיין יכול להשתמש ב-Last.fm-Scrubbler?" closed="true" %}}
+{{% ls-details title="אין לי מחשב Windows. האם אני עדיין יכול להשתמש ב-Last.fm-Scrubbler?" closed="true" %}}
 כן. התקינו VirtualBox ב-Mac שלכם והורידו את תמונת סביבת הפיתוח החינמית של Windows מ-Microsoft. הפעילו את Last.fm-Scrubbler-WPF בתוך המכונה הווירטואלית.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="למה חלק מה-scrobbles לא מנותחים?" closed="true" %}}
+{{% ls-details title="למה חלק מה-scrobbles לא מנותחים?" closed="true" %}}
 שירים שחסרים להם מטא-נתונים חיוניים (כמו שם האמן) לא ניתנים לניתוח. זה צפוי ואינו משפיע על שירים אחרים בקובץ.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="האם יש מגבלת scrobbling יומית?" closed="true" %}}
+{{% ls-details title="האם יש מגבלת scrobbling יומית?" closed="true" %}}
 כן. Last.fm-Scrubbler-WPF מאפשר עד 2,800 scrobbles ביום. אם אתם צריכים לעשות scrobble ליותר, חלקו את התהליך על פני מספר ימים.
-{{% /details %}}
+{{% /ls-details %}}

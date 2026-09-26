@@ -12,7 +12,7 @@ authors:
     image: "/images/about/artem-meleshko-founder-everappz.webp"
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 ![](/blog/evermusic-stream-your-music-from-the-cloud-and-free-up-space-on-your-iphone-or-ipad/21260c_00c5356db3a24db6a6a37e353b774d56~mv2.jpg)
 
@@ -82,22 +82,22 @@ Przeglądaj połączone konto chmurowe, otwórz folder z muzyką i dotknij pliku
 
 ## Często zadawane pytania
 
-{{% details title="Czy Evermusic jest darmowy?" closed="true" %}}
+{{% ls-details title="Czy Evermusic jest darmowy?" closed="true" %}}
 Evermusic jest darmowy do pobrania z opcjonalnymi funkcjami premium. Podstawowe strumieniowanie z chmury i odtwarzanie offline są dostępne w darmowej wersji.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Jakie usługi chmurowe obsługuje Evermusic?" closed="true" %}}
+{{% ls-details title="Jakie usługi chmurowe obsługuje Evermusic?" closed="true" %}}
 Google Drive, Dropbox, Box, OneDrive, MediaFire, MEGA, Yandex.Disk, pCloud, HiDrive, MyDrive, udziały plików SMB i serwery WebDAV.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Czy mogę słuchać muzyki offline z Evermusic?" closed="true" %}}
+{{% ls-details title="Czy mogę słuchać muzyki offline z Evermusic?" closed="true" %}}
 Tak. Pobierz dowolny album, wykonawcę, playlistę lub pojedynczy utwór do odtwarzania offline bezpośrednio w aplikacji.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Jakie formaty audio odtwarza Evermusic?" closed="true" %}}
+{{% ls-details title="Jakie formaty audio odtwarza Evermusic?" closed="true" %}}
 Evermusic obsługuje MP3, FLAC, AAC, WAV, ALAC, AIFF, OPUS, OGG i wiele innych formatów.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Czy nadal potrzebuję iTunes do przesyłania muzyki?" closed="true" %}}
+{{% ls-details title="Czy nadal potrzebuję iTunes do przesyłania muzyki?" closed="true" %}}
 Nie. Prześlij muzykę do dowolnej obsługiwanej usługi chmurowej z komputera, a następnie strumieniuj lub pobieraj przez Evermusic na iPhone lub iPad.
-{{% /details %}}
+{{% /ls-details %}}

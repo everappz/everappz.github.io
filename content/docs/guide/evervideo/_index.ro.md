@@ -74,18 +74,18 @@ Acest ghid vă prezintă fiecare parte din Evervideo pe iPhone, iPad și Mac —
 
 {{< cards cols="2">}}
 
-{{< card icon="map" link="/docs/guide/evervideo/evervideo-guide-navigation" title="Navigare" subtitle="Bara de file pe iPhone, meniu stânga pe iPad și Mac, player media compact mereu pe ecran." >}}
+{{< ls-card icon="map" link="/docs/guide/evervideo/evervideo-guide-navigation" title="Navigare" subtitle="Bara de file pe iPhone, meniu stânga pe iPad și Mac, player media compact mereu pe ecran." >}}
 
-{{< card icon="folder" link="/docs/guide/evervideo/evervideo-guide-files" title="Fișiere" subtitle="O filă unificată pentru cloud, NAS, fluxuri RTSP, fișiere locale, unități USB și coada de transferuri." >}}
+{{< ls-card icon="folder" link="/docs/guide/evervideo/evervideo-guide-files" title="Fișiere" subtitle="O filă unificată pentru cloud, NAS, fluxuri RTSP, fișiere locale, unități USB și coada de transferuri." >}}
 
-{{< card icon="collection" link="/docs/guide/evervideo/evervideo-guide-video-library" title="Biblioteca Media" subtitle="Navigați după Albume, Genuri, Recente, Preferințe — plus biblioteca Fotografii iOS și Apple Music." >}}
+{{< ls-card icon="collection" link="/docs/guide/evervideo/evervideo-guide-video-library" title="Biblioteca Media" subtitle="Navigați după Albume, Genuri, Recente, Preferințe — plus biblioteca Fotografii iOS și Apple Music." >}}
 
-{{< card icon="music-note" link="/docs/guide/evervideo/evervideo-guide-playlists" title="Liste de redare" subtitle="Creați liste de redare din cloud, fișiere locale, Fotografii sau biblioteca Muzică, importați M3U / M3U8 / CUE." >}}
+{{< ls-card icon="music-note" link="/docs/guide/evervideo/evervideo-guide-playlists" title="Liste de redare" subtitle="Creați liste de redare din cloud, fișiere locale, Fotografii sau biblioteca Muzică, importați M3U / M3U8 / CUE." >}}
 
-{{< card icon="play" link="/docs/guide/evervideo/evervideo-guide-player" title="Player Media" subtitle="Picture-in-Picture, piste audio și video, subtitrări, egalizatoare audio și video, AirPlay, Chromecast." >}}
+{{< ls-card icon="play" link="/docs/guide/evervideo/evervideo-guide-player" title="Player Media" subtitle="Picture-in-Picture, piste audio și video, subtitrări, egalizatoare audio și video, AirPlay, Chromecast." >}}
 
-{{< card icon="adjustments" link="/docs/guide/evervideo/evervideo-guide-settings" title="Setări" subtitle="Motor audio, decodor video, subtitrări, bibliotecă, manager de fișiere, widget-uri, personalizare, limbă, backup." >}}
+{{< ls-card icon="adjustments" link="/docs/guide/evervideo/evervideo-guide-settings" title="Setări" subtitle="Motor audio, decodor video, subtitrări, bibliotecă, manager de fișiere, widget-uri, personalizare, limbă, backup." >}}
 
-{{< card icon="question-mark-circle" link="/docs/faq/evervideo" title="FAQ" subtitle="Găsiți răspunsuri la cele mai frecvente întrebări despre Evervideo." >}}
+{{< ls-card icon="question-mark-circle" link="/docs/faq/evervideo" title="FAQ" subtitle="Găsiți răspunsuri la cele mai frecvente întrebări despre Evervideo." >}}
 
 {{< /cards >}}

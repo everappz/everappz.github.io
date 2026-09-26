@@ -11,7 +11,7 @@ Evermusic ו-Flacbox הם שני נגני מוזיקה מתקדמים מבית E
 
 **תשובה קצרה:** בחרו ב-**Evermusic** אם אתם רוצים את ההאזנה הכוללת החלקה ביותר, מעברים רציפים חלקים ומעבר מדורג, וגישה לספריית Apple Music שלכם. בחרו ב-**Flacbox** אם אתם אודיופילים הרוצים עיצוב צליל מעמיק (מדף אפקטים ושרשרת DSP), מנוע אודיו מקצועי הניתן לבחירה, וכיסוי מרבי של פורמטים ברזולוציה גבוהה ונטולי אובדן, כולל DSD, APE ו-WavPack.
 
-{{< app-details ids="885367198, 1097564256" >}}
+{{< ls-app-details ids="885367198, 1097564256" >}}
 
 ## טבלת השוואת תכונות
 
@@ -129,38 +129,38 @@ Evermusic ו-Flacbox הם שני נגני מוזיקה מתקדמים מבית E
 
 ## שאלות נפוצות
 
-{{% details title="מה ההבדל העיקרי בין Evermusic ל-Flacbox?" closed="true" %}}
+{{% ls-details title="מה ההבדל העיקרי בין Evermusic ל-Flacbox?" closed="true" %}}
 הם חולקים את אותה פלטפורמה ואותם חיבורים, אך צד האודיו שונה. Evermusic פועל על AVPlayer ו-Core Audio של Apple והוא הנגן היומיומי רחב הפורמטים, עם ניגון רציף אמיתי ללא הפסקות, מעבר מדורג, אודיו מרחבי וייבוא ספריית Apple Music. Flacbox מוסיף מנוע אודיו BASS™ מקצועי ופענוח FFmpeg, שמביאים שרשרת DSP בת 14 מסננים, יותר אפקטים בזמן אמת, ניגון tracker/MOD ותמיכה רחבה ביותר בפורמטים ברזולוציה גבוהה ונטולי אובדן, כולל DSD, APE ו-WavPack.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="מה טוב יותר, Evermusic או Flacbox?" closed="true" %}}
+{{% ls-details title="מה טוב יותר, Evermusic או Flacbox?" closed="true" %}}
 אף אחד מהם אינו טוב יותר באופן מוחלט; הם מכווננים למאזינים שונים. Evermusic טוב יותר להאזנה חלקה ויומיומית ולאנשים שמשתמשים גם בספריית Apple Music שלהם, בזכות ניגון רציף ללא הפסקות, מעבר מדורג ואודיו מרחבי. Flacbox טוב יותר לאודיופילים הרוצים עיצוב צליל מעמיק, מנוע אודיו מקצועי הניתן לבחירה, וכיסוי מרבי של פורמטים ברזולוציה גבוהה ונטולי אובדן.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="האם Evermusic משתמש ב-FFmpeg?" closed="true" %}}
+{{% ls-details title="האם Evermusic משתמש ב-FFmpeg?" closed="true" %}}
 לא. Evermusic מנגן כולו דרך מחסנית האודיו המקורית של Apple, AVPlayer ו-Core Audio, כאשר Core Audio מטפל באפקטים ובעיבוד שלו. פענוח FFmpeg הוא תכונה של Flacbox, לצד מנוע BASS הניתן לבחירה של Flacbox.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="האם ל-Flacbox יש ניגון רציף ללא הפסקות או מעבר מדורג?" closed="true" %}}
+{{% ls-details title="האם ל-Flacbox יש ניגון רציף ללא הפסקות או מעבר מדורג?" closed="true" %}}
 לא. ניגון רציף אמיתי ללא הפסקות ומעבר מדורג (1 עד 30 שניות) הם תכונות של Evermusic. Flacbox מתמקד במקום זאת בניגון ברזולוציה גבוהה, מנוע BASS מקצועי, מדף אפקטים ושרשרת DSP.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="איזה יישום טוב יותר ל-FLAC, DSD ו-APE?" closed="true" %}}
+{{% ls-details title="איזה יישום טוב יותר ל-FLAC, DSD ו-APE?" closed="true" %}}
 Flacbox. שני היישומים מנגנים FLAC, אך Flacbox הוא המומחה לרזולוציה גבוהה ולאודיו נטול אובדן, עם תמיכה מובנית ב-FLAC, ALAC, DSD (DSF/DFF), APE, WavPack (WV), TTA, OPUS ועוד באמצעות FFmpeg ומנוע BASS™ שלו. הוא גם מציע שליטת פלט עדינה יותר להאזנה קריטית.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="לאיזה יישום יש יותר אפקטים אודיו ושרשרת DSP?" closed="true" %}}
+{{% ls-details title="לאיזה יישום יש יותר אפקטים אודיו ושרשרת DSP?" closed="true" %}}
 Flacbox. ל-Evermusic יש 6 אפקטים (Reverb, Delay, Distortion, Compressor, Crossfeed ונרמול עוצמה). ל-Flacbox יש 11 אפקטים (בתוספת Chorus, Flanger, Phaser, Auto-Wah, Stereo rotation ו-Multi-tap echo) בתוספת שרשרת DSP לבנייה עצמית בת 14 מסננים. שרשרת ה-DSP בלעדית ל-Flacbox.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="האם שני היישומים תומכים באותם שירותי ענן, שרתי מדיה ו-CarPlay?" closed="true" %}}
+{{% ls-details title="האם שני היישומים תומכים באותם שירותי ענן, שרתי מדיה ו-CarPlay?" closed="true" %}}
 כן. Evermusic ו-Flacbox מתחברים לאותו אחסון בענן (iCloud Drive, Google Drive, Dropbox, OneDrive, MEGA, pCloud, Internxt, Proton Drive ועוד), לאותם שרתי מדיה (Plex, Subsonic, Navidrome, Jellyfin, Emby), ולאותם פרוטוקולי מחשב ו-NAS (SMB, WebDAV, FTP, SFTP, NFS, DLNA), עם תמיכה מובנית ב-QNAP, Synology, Nextcloud ו-WD My Cloud Home. שניהם תומכים גם ב-Apple CarPlay, AirPlay ו-Google Chromecast.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="האם Evermusic יכול לנגן את ספריית Apple Music או iTunes שלי?" closed="true" %}}
+{{% ls-details title="האם Evermusic יכול לנגן את ספריית Apple Music או iTunes שלי?" closed="true" %}}
 כן. Evermusic יכול לייבא ולנגן מוזיקה מספריית Apple Music / iTunes שלכם בנוסף למקורות ענן ורשת. Flacbox מיועד לקבצים שלכם ממקורות ענן, NAS ואחסון מקומי, ואינו מייבא את ספריית Apple Music.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="האם אפשר להשתמש ב-Evermusic וב-Flacbox יחד?" closed="true" %}}
+{{% ls-details title="האם אפשר להשתמש ב-Evermusic וב-Flacbox יחד?" closed="true" %}}
 כן, ואנשים רבים עושים זאת. הגדרה נפוצה היא Evermusic לניגון יומיומי ורציף ולגישה לספריית Apple Music, ו-Flacbox להאזנה קריטית ברזולוציה גבוהה עם מנוע BASS, אפקטים ושרשרת DSP. שניהם קוראים מאותם מקורות ענן ו-NAS, כך שהספרייה שלכם זמינה בכל אחד מהיישומים. שניהם חינמיים להורדה עם שדרוגי Premium אופציונליים בתוך היישום.
-{{% /details %}}
+{{% /ls-details %}}

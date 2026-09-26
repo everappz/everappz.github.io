@@ -7,7 +7,7 @@ tags: ["ऑडियो", "प्लेयर", "कंप्यूटर", "फ
 keywords: ["itunes फाइल शेयरिंग", "लोकल म्यूजिक चलाएं", "म्यूजिक iphone में ट्रांसफर करें", "ios में फाइलें कॉपी करें", "mac से iphone ऑडियो", "iphone पर लोकल फाइलें", "evermusic", "flacbox", "म्यूजिक प्लेयर", "फाइल शेयरिंग", "wifi drive", "smb म्यूजिक स्ट्रीमिंग", "iphone म्यूजिक ऐप", "ios में म्यूजिक इम्पोर्ट करें"]
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **संक्षेप में:** तीन तरीकों में से किसी एक का उपयोग करके अपने कंप्यूटर से iPhone में म्यूजिक ट्रांसफर करें: **iTunes/Finder फाइल शेयरिंग** (USB केबल), **[WiFi Drive](/docs/howto/how-to-transfer-music-from-computer-to-iphone-without-itunes)** (वायरलेस, केबल की जरूरत नहीं), या **[SMB](/docs/howto/stream-your-music-from-mac-or-pc-to-iphone-using-smb/)** (बिना कॉपी किए सीधे स्ट्रीम करें)। फिर [Evermusic](/products/evermusic) या [Flacbox](/products/flacbox) से प्ले करें।
@@ -134,22 +134,22 @@ macOS Catalina या नए संस्करण के साथ, आप अ�
 
 ## FAQ
 
-{{% details title="iPhone में म्यूजिक ट्रांसफर करने का सबसे तेज तरीका क्या है?" closed="true" %}}
+{{% ls-details title="iPhone में म्यूजिक ट्रांसफर करने का सबसे तेज तरीका क्या है?" closed="true" %}}
 USB पर iTunes/Finder फाइल शेयरिंग बड़ी म्यूजिक लाइब्रेरी के लिए सबसे तेज तरीका है। छोटे ट्रांसफर के लिए, WiFi Drive अधिक सुविधाजनक है क्योंकि इसमें केबल की आवश्यकता नहीं होती।
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="क्या मैं FLAC फाइलें अपने iPhone में ट्रांसफर कर सकता हूं?" closed="true" %}}
+{{% ls-details title="क्या मैं FLAC फाइलें अपने iPhone में ट्रांसफर कर सकता हूं?" closed="true" %}}
 हां। Evermusic और Flacbox दोनों iTunes फाइल शेयरिंग, WiFi Drive या SMB के माध्यम से FLAC फाइलें स्वीकार करते हैं। लॉसलेस फॉर्मेट के लिए Flacbox की सिफारिश की जाती है।
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="क्या मुझे macOS Catalina या बाद के संस्करण पर iTunes की जरूरत है?" closed="true" %}}
+{{% ls-details title="क्या मुझे macOS Catalina या बाद के संस्करण पर iTunes की जरूरत है?" closed="true" %}}
 नहीं। Apple ने macOS Catalina से शुरू करके डिवाइस प्रबंधन के लिए iTunes को Finder से बदल दिया। फाइल शेयरिंग के लिए Finder की फाइलें टैब का उपयोग करें।
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="क्या मैं अपने iPhone में फाइलें कॉपी किए बिना म्यूजिक स्ट्रीम कर सकता हूं?" closed="true" %}}
+{{% ls-details title="क्या मैं अपने iPhone में फाइलें कॉपी किए बिना म्यूजिक स्ट्रीम कर सकता हूं?" closed="true" %}}
 हां। अपने Mac या PC से सीधे म्यूजिक स्ट्रीम करने के लिए SMB प्रोटोकॉल का उपयोग करें। यह डिवाइस स्टोरेज बचाता है और आपकी लाइब्रेरी को आपके कंप्यूटर पर रखता है।
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="मुझे कौन सा ऐप उपयोग करना चाहिए -- Evermusic या Flacbox?" closed="true" %}}
+{{% ls-details title="मुझे कौन सा ऐप उपयोग करना चाहिए -- Evermusic या Flacbox?" closed="true" %}}
 MP3, WAV और AAC जैसे मानक फॉर्मेट के लिए Evermusic का उपयोग करें। यदि आपकी लाइब्रेरी में FLAC, DSD या OGG जैसे लॉसलेस फॉर्मेट शामिल हैं तो Flacbox चुनें।
-{{% /details %}}
+{{% /ls-details %}}

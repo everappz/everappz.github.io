@@ -15,7 +15,7 @@ readingTime: 11
 Zarządzanie biblioteką muzyki to pestka w Evermusic, gdzie możesz bez wysiłku organizować wszystkie swoje utwory. Masz dwie opcje budowania biblioteki muzyki: ręczne dodawanie lub automatyczna synchronizacja.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Ekran biblioteki muzyki Evermusic" image="/docs/guide/evermusic/evermusic-guide-music-library/img/music-library-main.webp" >}}
+  {{< ls-card title="" subtitle="Ekran biblioteki muzyki Evermusic" image="/docs/guide/evermusic/evermusic-guide-music-library/img/music-library-main.webp" >}}
 {{< /cards >}}
 
 ## Ręczne dodawanie
@@ -23,7 +23,7 @@ Zarządzanie biblioteką muzyki to pestka w Evermusic, gdzie możesz bez wysiłk
 Aby ręcznie dodać utwory, dotknij elementu menu „Dodaj muzykę" i wybierz foldery/pliki z połączonej usługi pamięci w chmurze lub pliki znajdujące się na urządzeniu. Gdy dodajesz utwory do biblioteki, tworzone są tylko linki do tych utworów, a rzeczywiste pliki pozostają w oryginalnych lokalizacjach, oszczędzając cenne miejsce na dysku. Jeśli chcesz, aby utwory były dostępne offline, możesz skorzystać z akcji pobierania w menu opcji lub włączyć tryb offline dla list odtwarzania i kolekcji utworów.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Dodaj utwory do biblioteki muzyki" image="/docs/guide/evermusic/evermusic-guide-music-library/img/music-library-add-songs.webp" >}}
+  {{< ls-card title="" subtitle="Dodaj utwory do biblioteki muzyki" image="/docs/guide/evermusic/evermusic-guide-music-library/img/music-library-add-songs.webp" >}}
 {{< /cards >}}
 
 ## Szybki dostęp
@@ -75,7 +75,7 @@ Gdy dodajesz utwory do biblioteki muzyki, aplikacja automatycznie odczytuje ich 
 Umieszczony tuż poniżej paska nawigacyjnego górny pasek narzędzi oferuje kilka wygodnych akcji: „Szukaj", „Odtwórz wszystko", „Odtwórz losowo" i „Kontynuuj odtwarzanie". Możesz pokazać lub ukryć ten pasek narzędzi prostym gestem przesunięcia w dół.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Widok albumów — pogrupowane według tagów muzycznych" image="/docs/guide/evermusic/evermusic-guide-music-library/img/music-library-albums.webp" >}}
+  {{< ls-card title="" subtitle="Widok albumów — pogrupowane według tagów muzycznych" image="/docs/guide/evermusic/evermusic-guide-music-library/img/music-library-albums.webp" >}}
 {{< /cards >}}
 
 ## Szukaj
@@ -83,7 +83,7 @@ Umieszczony tuż poniżej paska nawigacyjnego górny pasek narzędzi oferuje kil
 Funkcja wyszukiwania umożliwia znalezienie konkretnego utworu, artysty, albumu lub gatunku w bibliotece muzyki. Na „Ekranie wyszukiwania" masz dostęp do następujących akcji: „Sortuj", „Filtruj", „Siatka/Lista".
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Wyniki wyszukiwania w bibliotece muzyki" image="/docs/guide/evermusic/evermusic-guide-music-library/img/music-library-search.webp" >}}
+  {{< ls-card title="" subtitle="Wyniki wyszukiwania w bibliotece muzyki" image="/docs/guide/evermusic/evermusic-guide-music-library/img/music-library-search.webp" >}}
 {{< /cards >}}
 
 ## Menu opcji
@@ -91,7 +91,7 @@ Funkcja wyszukiwania umożliwia znalezienie konkretnego utworu, artysty, albumu 
 Każdy utwór w bibliotece muzyki ma menu z większą liczbą akcji, dostępne po dotknięciu przycisku z trzema kropkami obok tytułu utworu. Te akcje różnią się w zależności od tego, czy jest to pojedynczy utwór, czy część kolekcji.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Więcej akcji dla elementu biblioteki" image="/docs/guide/evermusic/evermusic-guide-music-library/img/music-library-item-more-actions.webp" >}}
+  {{< ls-card title="" subtitle="Więcej akcji dla elementu biblioteki" image="/docs/guide/evermusic/evermusic-guide-music-library/img/music-library-item-more-actions.webp" >}}
 {{< /cards >}}
 
 ### Dla pojedynczych utworów
@@ -125,7 +125,7 @@ Dla kolekcji utworów, takich jak Albumy, Artyści, Gatunki lub Kompozytorzy, me
 Możesz aktywować tryb wyboru za pomocą przycisku Więcej Akcji w prawym górnym rogu. W tym trybie możesz wybierać wiele utworów i wykonywać różne akcje.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Tryb wyboru w bibliotece muzyki" image="/docs/guide/evermusic/evermusic-guide-music-library/img/music-library-selection-mode.webp" >}}
+  {{< ls-card title="" subtitle="Tryb wyboru w bibliotece muzyki" image="/docs/guide/evermusic/evermusic-guide-music-library/img/music-library-selection-mode.webp" >}}
 {{< /cards >}}
 
 ## Grupowanie tagów
@@ -145,7 +145,7 @@ Te kategorie pomagają organizować utwory według tagów muzycznych: Utwory, Al
 Po otwarciu sekcji Artysta, Artysta Albumowy lub Kompozytor, możesz zobaczyć przełącznik dla Utworów/Wszystkie Albumy/Ekskluzywne Albumy/Solowe Albumy.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Szczegóły albumu z przełącznikiem Utwory / Wszystkie / Ekskluzywne / Solo" image="/docs/guide/evermusic/evermusic-guide-music-library/img/music-library-album-details.webp" >}}
+  {{< ls-card title="" subtitle="Szczegóły albumu z przełącznikiem Utwory / Wszystkie / Ekskluzywne / Solo" image="/docs/guide/evermusic/evermusic-guide-music-library/img/music-library-album-details.webp" >}}
 {{< /cards >}}
 
 - **Utwory**: Wyświetla wszystkie utwory, dla których ten Artysta/Artysta Albumowy/Kompozytor jest ustawiony w tagach audio.
@@ -166,7 +166,7 @@ Możesz używać tej funkcji do szybkiego znajdowania dowolnego utworu, artysty,
 Dotknij elementu menu „Ustawienia", aby skonfigurować preferencje biblioteki muzyki.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Ustawienia biblioteki muzyki" image="/docs/guide/evermusic/evermusic-guide-music-library/img/music-library-settings.webp" >}}
+  {{< ls-card title="" subtitle="Ustawienia biblioteki muzyki" image="/docs/guide/evermusic/evermusic-guide-music-library/img/music-library-settings.webp" >}}
 {{< /cards >}}
 
 #### Czytanie metadanych

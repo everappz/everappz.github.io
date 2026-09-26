@@ -20,7 +20,7 @@ readingTime: 7
 เพลย์ลิสต์ใน Flacbox สามารถมีแทร็คคลาวด์ออนไลน์, ไฟล์ที่ดาวน์โหลดออฟไลน์ และไฟล์ในเครื่องจากอุปกรณ์ของคุณ — ทั้งหมดในเพลย์ลิสต์เดียว — และเล่นได้อย่างราบรื่นร่วมกัน
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="หน้าจอหลักเพลย์ลิสต์ Flacbox" image="/docs/guide/flacbox/img/playlists-main.webp" >}}
+  {{< ls-card title="" subtitle="หน้าจอหลักเพลย์ลิสต์ Flacbox" image="/docs/guide/flacbox/img/playlists-main.webp" >}}
 {{< /cards >}}
 
 ## การสร้างเพลย์ลิสต์
@@ -63,7 +63,7 @@ readingTime: 7
 - **โหมดออฟไลน์** — ดาวน์โหลดแทร็คทั้งหมดจากเพลย์ลิสต์นี้ไปยังไฟล์ในเครื่อง รายการใหม่ที่เพิ่มในเพลย์ลิสต์จะถูกดาวน์โหลดโดยอัตโนมัติด้วย
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="หน้าจอรายละเอียดเพลย์ลิสต์ Flacbox" image="/docs/guide/flacbox/img/playlist-details-screen.webp" >}}
+  {{< ls-card title="" subtitle="หน้าจอรายละเอียดเพลย์ลิสต์ Flacbox" image="/docs/guide/flacbox/img/playlist-details-screen.webp" >}}
 {{< /cards >}}
 
 ## การดำเนินการเพิ่มเติมสำหรับเพลย์ลิสต์ในหน้าจอเพลย์ลิสต์
@@ -82,7 +82,7 @@ readingTime: 7
 - **ลบเพลย์ลิสต์** — ลบเพลย์ลิสต์ออกจากคลังเพลง **การดำเนินการนี้ไม่สามารถยกเลิกได้**
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox การดำเนินการเพิ่มเติมสำหรับเพลย์ลิสต์บนหน้าจอหลักเพลย์ลิสต์" image="/docs/guide/flacbox/img/more-actions-for-playlist-in-playlists-main-screen.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox การดำเนินการเพิ่มเติมสำหรับเพลย์ลิสต์บนหน้าจอหลักเพลย์ลิสต์" image="/docs/guide/flacbox/img/more-actions-for-playlist-in-playlists-main-screen.webp" >}}
 {{< /cards >}}
 
 ## การดำเนินการเพิ่มเติมสำหรับเพลย์ลิสต์ในหน้าจอรายละเอียดเพลย์ลิสต์
@@ -110,7 +110,7 @@ readingTime: 7
 สำหรับเวิร์กโฟลว์ที่ง่ายกว่าบนเพลย์ลิสต์ยาว ให้เลือก การดำเนินการเพิ่มเติม → จัดเรียงเพลงใหม่ เพื่อเข้าสู่โหมดการจัดเรียงด้วยการลากและวางโดยเฉพาะ
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox จัดเรียงเพลงในเพลย์ลิสต์" image="/docs/guide/flacbox/img/playlist-details-rearange-songs.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox จัดเรียงเพลงในเพลย์ลิสต์" image="/docs/guide/flacbox/img/playlist-details-rearange-songs.webp" >}}
 {{< /cards >}}
 
 ## การเปลี่ยนภาพปกเพลย์ลิสต์
@@ -126,7 +126,7 @@ readingTime: 7
 เปิดเพลย์ลิสต์ แตะปุ่ม **"..."** ในมุมบนขวา และเลือก **เลือก** เพื่อเข้าสู่โหมดการเลือก เลือกแทร็คที่คุณต้องการลบและแตะ **ลบออกจากเพลย์ลิสต์** ที่ด้านล่างของหน้าจอ ยืนยันโดยแตะ **เสร็จสิ้น**
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox โหมดการเลือกในหน้าจอรายละเอียดเพลย์ลิสต์" image="/docs/guide/flacbox/img/selection-mode-playlist-details-screen.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox โหมดการเลือกในหน้าจอรายละเอียดเพลย์ลิสต์" image="/docs/guide/flacbox/img/selection-mode-playlist-details-screen.webp" >}}
 {{< /cards >}}
 
 ## ตัวเลือกแทร็ค

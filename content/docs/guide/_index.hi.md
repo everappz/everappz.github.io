@@ -7,7 +7,7 @@ tags: ["उपयोगकर्ता गाइड", "ऐप ट्यूटो
 ---
 
 
-{{< lottie src="/images/juicy-json/juicy-woman-with-graph-chart.json" width="75%" >}}
+{{< ls-lottie src="/images/juicy-json/juicy-woman-with-graph-chart.json" width="75%" >}}
 
 ## हमारे ऐप्स का उपयोग करना सीखें
 
@@ -19,4 +19,4 @@ tags: ["उपयोगकर्ता गाइड", "ऐप ट्यूटो
 
 ## अपना उत्पाद चुनें
 
-{{< product-doc-cards section="guide" >}}
+{{< ls-product-doc-cards section="guide" >}}

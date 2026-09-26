@@ -21,7 +21,7 @@ La **Biblioteca multimedia** es el corazón de Evervideo. Reúne todos los archi
 Tienes dos formas de añadir contenido a tu biblioteca: **Adición manual** (tú eliges exactamente qué se añade) o **Sincronización automática** (Evervideo escanea carpetas designadas en la nube y añade nuevos archivos automáticamente a medida que aparecen).
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Biblioteca multimedia de Evervideo" image="/docs/guide/evervideo/img/evervideo-genres-in-media-library.webp" >}}
+  {{< ls-card title="" subtitle="Biblioteca multimedia de Evervideo" image="/docs/guide/evervideo/img/evervideo-genres-in-media-library.webp" >}}
 {{< /cards >}}
 
 ## Adición manual
@@ -92,7 +92,7 @@ Si no ves todos tus títulos, asegúrate de que la app haya escaneado cada archi
 Esta sección muestra todos los vídeos reproducidos recientemente con su última posición de reproducción, para que puedas retomar cualquiera de ellos con un toque. Puedes cambiar cuántas entradas guarda la lista en Ajustes → Biblioteca multimedia → Recientes → Cambiar tamaño de lista, y exportar la lista a M3U / CSV / TXT para hacer una copia de seguridad de tu historial de visualización.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evervideo Recientes — Vídeos vistos recientemente" image="/docs/guide/evervideo/img/evervideo-recents.webp" >}}
+  {{< ls-card title="" subtitle="Evervideo Recientes — Vídeos vistos recientemente" image="/docs/guide/evervideo/img/evervideo-recents.webp" >}}
 {{< /cards >}}
 
 ## Favoritos
@@ -104,7 +104,7 @@ Marca vídeos como favoritos en la pantalla del reproductor o a través del men�
 Evervideo rastrea la posición de reproducción de cada vídeo que ves. Cada vídeo en cualquier lista — Recientes, Favoritos, un álbum, un género, una lista de reproducción, una carpeta — muestra una pequeña barra de progreso para que puedas ver de un vistazo cuánto ya has visto. Esto hace que las largas temporadas de series de televisión, listas de reproducción de cursos y noches de maratón sean fáciles de gestionar.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Detalle de género de Evervideo con progreso de visualización por archivo" image="/docs/guide/evervideo/img/evervideo-genre-detail-with-playback-progress-for-watched-files.webp" >}}
+  {{< ls-card title="" subtitle="Detalle de género de Evervideo con progreso de visualización por archivo" image="/docs/guide/evervideo/img/evervideo-genre-detail-with-playback-progress-for-watched-files.webp" >}}
 {{< /cards >}}
 
 ## Barra de herramientas superior
@@ -116,7 +116,7 @@ Situada justo debajo de la barra de navegación, la barra de herramientas superi
 La función de búsqueda te permite localizar un título, álbum, género o lista de reproducción específicos dentro de tu biblioteca multimedia. En la pantalla de búsqueda tienes acceso a acciones de Ordenar, Filtrar y vista en Cuadrícula/Lista. La búsqueda se ejecuta localmente contra la base de datos de la biblioteca multimedia, por lo que funciona completamente sin conexión y devuelve resultados mientras escribes.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Búsqueda de biblioteca multimedia de Evervideo" image="/docs/guide/evervideo/img/evervideo-library-search.webp" >}}
+  {{< ls-card title="" subtitle="Búsqueda de biblioteca multimedia de Evervideo" image="/docs/guide/evervideo/img/evervideo-library-search.webp" >}}
 {{< /cards >}}
 
 ## Menú de opciones

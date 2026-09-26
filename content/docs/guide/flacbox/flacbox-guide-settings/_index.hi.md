@@ -21,7 +21,7 @@ readingTime: 16
 Settings स्क्रीन Flacbox का नियंत्रण केंद्र है। यहाँ से आप Premium में अपग्रेड कर सकते हैं, ऑडियो इंजन (सिस्टम कोडेक्स या FFmpeg) कॉन्फ़िगर कर सकते हैं, अपनी म्यूज़िक लाइब्रेरी प्रबंधित कर सकते हैं, फ़ाइल मैनेजर सेट अप कर सकते हैं, ऑडियो टैग एडिटर कस्टमाइज़ कर सकते हैं, होम स्क्रीन विजेट्स और Apple CarPlay सक्षम कर सकते हैं, अपने डेटा का बैकअप ले सकते हैं, और सहायता एवं कानूनी जानकारी एक्सेस कर सकते हैं। सेक्शन हेडर के अंतर्गत समूहित हैं: Purchases & Updates, App Preferences, Help, और Legal & Privacy।
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox Settings Main Screen" image="/docs/guide/flacbox/img/settings-main.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox Settings Main Screen" image="/docs/guide/flacbox/img/settings-main.webp" >}}
 {{< /cards >}}
 
 ## Premium में अपग्रेड करें
@@ -29,13 +29,13 @@ Settings स्क्रीन Flacbox का नियंत्रण कें
 सभी सीमाएं हटाने के लिए एप्लिकेशन को Premium संस्करण में अपग्रेड करें। एप्लिकेशन का निःशुल्क संस्करण सभी प्रतिबंध हटाने और Premium में अपग्रेड करने के लिए एक बार का आजीवन इन-ऐप खरीदारी और दो सदस्यता विकल्प (1 माह और 1 वर्ष) प्रदान करता है।
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox Upgrade to Premium" image="/docs/guide/flacbox/img/upgrade-to-premium.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox Upgrade to Premium" image="/docs/guide/flacbox/img/upgrade-to-premium.webp" >}}
 {{< /cards >}}
 
 **Family Sharing** सभी खरीदारियों और योजनाओं के लिए सक्षम है, इसलिए आप बिना किसी अतिरिक्त लागत के अपने परिवार के पांच सदस्यों तक Premium संस्करण शेयर कर सकते हैं।
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox Select a Premium Plan" image="/docs/guide/flacbox/img/select-premium-plan.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox Select a Premium Plan" image="/docs/guide/flacbox/img/select-premium-plan.webp" >}}
 {{< /cards >}}
 
 खरीदारी और Premium संस्करण के बारे में अधिक यहाँ पढ़ें: [Flacbox और Flacbox Premium में क्या अंतर है](/docs/faq/flacbox/what-is-the-difference-between-flacbox-and-flacbox-premium/)।

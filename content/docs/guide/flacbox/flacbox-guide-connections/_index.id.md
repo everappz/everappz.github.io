@@ -19,7 +19,7 @@ readingTime: 12
 Di layar ini, Anda dapat menghubungkan setiap sumber yang menyimpan musik Anda. Anda dapat mengintegrasikan layanan cloud populer seperti Dropbox, Google Drive, iCloud Drive, OneDrive, MEGA, Box, pCloud, Yandex Disk, Synology Drive, dan banyak lagi, serta Mac, PC, atau NAS Anda melalui protokol standar. Apakah koleksi Anda berada di layanan ramah streaming seperti Dropbox atau di NAS pribadi seperti Synology, QNAP, Buffalo, Apple Time Capsule, atau WD My Cloud Home, Flacbox terhubung ke semuanya dari satu layar.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Layar Koneksi Flacbox" image="/docs/guide/flacbox/img/connections-main.webp" >}}
+  {{< ls-card title="" subtitle="Layar Koneksi Flacbox" image="/docs/guide/flacbox/img/connections-main.webp" >}}
 {{< /cards >}}
 
 ## Menghubungkan ke Cloud Storage
@@ -30,7 +30,7 @@ Di layar ini, Anda dapat menghubungkan setiap sumber yang menyimpan musik Anda. 
 - Masukkan kredensial Anda di halaman otorisasi resmi yang disediakan oleh penyedia cloud, lalu ketuk **Selesai**.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox Menambahkan Layanan Cloud Storage" image="/docs/guide/flacbox/img/add-cloud-storage.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox Menambahkan Layanan Cloud Storage" image="/docs/guide/flacbox/img/add-cloud-storage.webp" >}}
 {{< /cards >}}
 
 Jika Anda mengalami masalah, periksa koneksi internet dan login / kata sandi Anda. Dalam versi Premium aplikasi, Anda dapat menambahkan layanan tanpa batas; versi gratis mendukung hingga tiga layanan.
@@ -134,7 +134,7 @@ Bagian ini menampilkan setiap perangkat di jaringan lokal Anda yang dapat Anda h
 Ini adalah cara tercepat untuk menemukan SMB, WebDAV, berbagi DLNA di jaringan rumah Anda tanpa mengetik alamat IP secara manual.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox Perangkat yang Tersedia di Jaringan Lokal" image="/docs/guide/flacbox/img/available-devies.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox Perangkat yang Tersedia di Jaringan Lokal" image="/docs/guide/flacbox/img/available-devies.webp" >}}
 {{< /cards >}}
 
 ## Wi-Fi Drive
@@ -149,7 +149,7 @@ Wi-Fi Drive adalah teknologi yang memudahkan transfer file nirkabel dari kompute
 - Ketuk **Mulai Wi-Fi Drive** untuk mengaktifkan Wi-Fi Drive.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox Wi-Fi Drive" image="/docs/guide/flacbox/img/wifi-drive.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox Wi-Fi Drive" image="/docs/guide/flacbox/img/wifi-drive.webp" >}}
 {{< /cards >}}
 
 ### Mengakses Wi-Fi Drive di Komputer Anda
@@ -234,7 +234,7 @@ Ketuk ikon **"..."** di dekat judul file untuk menampilkan menu tindakannya:
 - **Hapus** — hapus file secara permanen dari cloud storage Anda. **Tindakan ini tidak dapat dibatalkan.**
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox Lebih banyak tindakan untuk File di Cloud Storage yang Terhubung" image="/docs/guide/flacbox/img/more-actions-for-file-in-connected-cloud-storage.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox Lebih banyak tindakan untuk File di Cloud Storage yang Terhubung" image="/docs/guide/flacbox/img/more-actions-for-file-in-connected-cloud-storage.webp" >}}
 {{< /cards >}}
 
 Jika daftar tindakan melebihi ruang layar yang tersedia, cukup gulir ke bawah dalam menu tindakan untuk mengakses opsi tambahan.
@@ -261,7 +261,7 @@ Untuk setiap folder di cloud storage Anda, berbagai tindakan tersedia dengan men
 Bagian Akses Cepat terletak di bagian atas layar. Ini memberi Anda akses cepat ke file dan folder favorit serta yang baru dibuka dari layanan cloud yang terhubung. Setiap kali Anda membuka file atau folder dari cloud, itu ditambahkan ke daftar Baru Dibuka. Untuk menghapus daftar ini, buka Terbaru, ketuk tombol Lebih banyak tindakan, dan pilih Hapus Daftar.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox Tautan Online dan Akses Cepat" image="/docs/guide/flacbox/img/online-links.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox Tautan Online dan Akses Cepat" image="/docs/guide/flacbox/img/online-links.webp" >}}
 {{< /cards >}}
 
 ## Layanan Lainnya
@@ -269,5 +269,5 @@ Bagian Akses Cepat terletak di bagian atas layar. Ini memberi Anda akses cepat k
 Bagian ini menampilkan fitur tambahan yang meningkatkan pengalaman Anda. Saat ini, aplikasi mendukung scrobbling **Last.fm** — saat terhubung, statistik pemutaran Anda secara otomatis dikirim ke akun Last.fm Anda. Instruksi pengaturan terperinci tersedia [di sini](/docs/howto/how-to-scrobble-your-music-history-from-evermusic-or-flacbox-to-last-fm).
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox Koneksi Last.fm" image="/docs/guide/flacbox/img/last-fm-connect.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox Koneksi Last.fm" image="/docs/guide/flacbox/img/last-fm-connect.webp" >}}
 {{< /cards >}}

@@ -9,7 +9,7 @@ aliases:
   - /post/how-to-add-and-view-comments-to-your-audio-tracks-on-iphone-ipad-and-mac-with-evermusic-and-flacbox/
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **TL;DR:** Evermusic and Flacbox let you add text comments with time markers to any audio track, then display them in sync during playback. You can also view embedded lyrics and LRC files. The comments and lyrics features are free in both apps.
@@ -99,22 +99,22 @@ The addition of comments to audio tracks in Evermusic and Flacbox marks a signif
 
 ## FAQ
 
-{{% details title="Is the comments feature free in Evermusic and Flacbox?" closed="true" %}}
+{{% ls-details title="Is the comments feature free in Evermusic and Flacbox?" closed="true" %}}
 Yes. Adding, editing, and viewing comments and lyrics is a free feature in both Evermusic and Flacbox.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="What format should I use for timed comments?" closed="true" %}}
+{{% ls-details title="What format should I use for timed comments?" closed="true" %}}
 Use the LRC time marker format: `[MM:SS.SS]` followed by your text. For example: `[01:23.45]This is my comment`. You can assign multiple timestamps to a single line.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Can I view lyrics and LRC files in the same screen?" closed="true" %}}
+{{% ls-details title="Can I view lyrics and LRC files in the same screen?" closed="true" %}}
 Yes. The Comments screen supports three modes you can swipe between: Comments, Embedded Lyrics, and LRC File.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Where can I find LRC lyrics files?" closed="true" %}}
+{{% ls-details title="Where can I find LRC lyrics files?" closed="true" %}}
 Free LRC lyrics are available on websites like Lyricsify.com. You can either embed them in your audio file's lyrics tag or place a separate `.lrc` file alongside your audio file.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Do I need a separate app to edit lyrics tags?" closed="true" %}}
+{{% ls-details title="Do I need a separate app to edit lyrics tags?" closed="true" %}}
 You can edit comments directly in Evermusic and Flacbox. For editing the lyrics tag specifically, use Evertag, a free audio metadata editor for iOS and macOS.
-{{% /details %}}
+{{% /ls-details %}}

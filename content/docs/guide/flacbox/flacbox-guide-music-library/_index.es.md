@@ -19,7 +19,7 @@ readingTime: 11
 Gestionar tu biblioteca musical es muy sencillo con Flacbox, donde puedes organizar sin esfuerzo todas tus pistas — FLAC, ALAC, DSD, MP3, M4A, OGG, WMA, APE locales y docenas de otros formatos — en una colección única y con función de búsqueda.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox Vista de Álbumes de la Biblioteca Musical" image="/docs/guide/flacbox/img/media-library-albums.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox Vista de Álbumes de la Biblioteca Musical" image="/docs/guide/flacbox/img/media-library-albums.webp" >}}
 {{< /cards >}}
 
 ## Adición Manual
@@ -27,7 +27,7 @@ Gestionar tu biblioteca musical es muy sencillo con Flacbox, donde puedes organi
 Para añadir pistas manualmente, pulsa el icono **Añadir Música** en la esquina superior izquierda y elige carpetas o archivos. Al añadir pistas, solo se crean enlaces a esas pistas — los archivos reales permanecen en sus ubicaciones originales.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox Añadir Canciones a la Biblioteca Musical" image="/docs/guide/flacbox/img/library-add-songs.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox Añadir Canciones a la Biblioteca Musical" image="/docs/guide/flacbox/img/library-add-songs.webp" >}}
 {{< /cards >}}
 
 También puedes arrastrar y soltar archivos en la biblioteca en la versión Mac, o usar **Abrir Archivos…** / **Abrir Carpeta…** del selector de archivos del sistema en iPhone y iPad.
@@ -87,7 +87,7 @@ La barra de herramientas superior ofrece varias acciones convenientes: Buscar, R
 La función de búsqueda te permite localizar una pista, artista, álbum o género específico en tu biblioteca musical.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox Búsqueda en la Biblioteca Musical" image="/docs/guide/flacbox/img/media-library-search.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox Búsqueda en la Biblioteca Musical" image="/docs/guide/flacbox/img/media-library-search.webp" >}}
 {{< /cards >}}
 
 ## Menú de Opciones
@@ -129,7 +129,7 @@ Puedes activar el modo de selección usando el botón Más Acciones en la esquin
 Cuando abres las secciones Artista, Artista de Álbum o Compositor, puedes ver un selector de Canciones / Todos los Álbumes / Álbumes Exclusivos / Álbumes en Solitario.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox Pantalla de Detalle del Álbum" image="/docs/guide/flacbox/img/media-library-album-details-screen.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox Pantalla de Detalle del Álbum" image="/docs/guide/flacbox/img/media-library-album-details-screen.webp" >}}
 {{< /cards >}}
 
 ## Ajustes

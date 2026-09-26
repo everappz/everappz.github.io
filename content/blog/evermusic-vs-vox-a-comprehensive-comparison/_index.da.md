@@ -14,7 +14,7 @@ authors:
     image: "/images/about/artem-meleshko-founder-everappz.webp"
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 **Resumé:** Evermusic vinder i 5 ud af 8 kategorier med 3 uafgjorte. Det tilbyder bredere cloud-lagringssupport (12+ tjenester vs. kun VOX Cloud), indbyggede lydbogsfunktioner, en ID3 tag-editor og trådløs filoverførsel. VOX appellerer til brugere, der foretrækker dets proprietære cloud og minimalistiske design.
 
@@ -34,8 +34,8 @@ authors:
 | Tilgængelighed (VoiceOver) | Ja | Ja | Uafgjort |
 
 {{< cards >}}
-  {{< card link="https://apps.apple.com/us/app/evermusic-cloud-music-player/id885367198" title="Download Evermusic" icon="download" tag="Gratis" >}}
-  {{< card link="https://apps.apple.com/us/app/vox-mp3-flac-music-player/id916215494" title="Download VOX" icon="download" tag="Gratis" >}}
+  {{< ls-card link="https://apps.apple.com/us/app/evermusic-cloud-music-player/id885367198" title="Download Evermusic" icon="download" tag="Gratis" >}}
+  {{< ls-card link="https://apps.apple.com/us/app/vox-mp3-flac-music-player/id916215494" title="Download VOX" icon="download" tag="Gratis" >}}
 {{< /cards >}}
 
 ## Cloud-lagringssupport
@@ -107,18 +107,18 @@ For de fleste iOS-brugere, der administrerer deres egen musiksamling, giver Ever
 
 ## Ofte stillede spørgsmål
 
-{{% details title="Er Evermusic et godt alternativ til VOX?" closed="true" %}}
+{{% ls-details title="Er Evermusic et godt alternativ til VOX?" closed="true" %}}
 Ja. Evermusic understøtter 12+ cloud-lagringstjenester sammenlignet med VOX's proprietære cloud alene. Det tilbyder også lydbogsfunktioner, ID3 tag-redigering og Wi-Fi-filoverførsel, som VOX mangler. Evermusic er gratis at downloade med en engangsbetaling for Premium-opgradering.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Understøtter VOX Dropbox eller Google Drive?" closed="true" %}}
+{{% ls-details title="Understøtter VOX Dropbox eller Google Drive?" closed="true" %}}
 Nej. VOX bruger sin egen proprietære VOX Cloud-lagring. Det forbinder ikke til tredjepartstjenester som Dropbox, Google Drive eller OneDrive. Evermusic understøtter alle disse og mere.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Hvilken app er bedre til lydbøger: Evermusic eller VOX?" closed="true" %}}
+{{% ls-details title="Hvilken app er bedre til lydbøger: Evermusic eller VOX?" closed="true" %}}
 Evermusic er markant bedre til lydbøger. Det inkluderer afspilningshastighedskontrol, automatisk positionslagring og bogmærkesupport. VOX har ikke dedikerede lydbogsfunktioner.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Kan jeg redigere musiktags på iPhone med Evermusic?" closed="true" %}}
+{{% ls-details title="Kan jeg redigere musiktags på iPhone med Evermusic?" closed="true" %}}
 Ja. Evermusic inkluderer en indbygget ID3 tag-editor, der lader dig rette sportitler, kunstnernavne, albuminformation og andre metadata direkte på din iPhone eller iPad.
-{{% /details %}}
+{{% /ls-details %}}

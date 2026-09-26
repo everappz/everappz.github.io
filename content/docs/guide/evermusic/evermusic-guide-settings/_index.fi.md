@@ -18,7 +18,7 @@ readingTime: 16
 **Asetukset**-näyttö on Evermusic-sovelluksen ohjauskeskus. Täältä voit päivittää Premiumiin, määrittää äänentoistolaitteet, hallita musiikkikirjastoasi, määrittää tiedostonhallinnan, mukauttaa käyttöliittymää, ottaa käyttöön widgetit ja CarPlay, varmuuskopioida tietosi ja käyttää ohjeita sekä juridisia tietoja. Osiot on ryhmitelty otsikoiden alle: **Ostokset ja päivitykset**, sovellusasetukset, **Ohje** ja **Juridiset tiedot ja yksityisyys**.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evermusic Asetukset-näyttö" image="/docs/guide/evermusic/evermusic-guide-settings/img/settings-main-screen.webp" >}}
+  {{< ls-card title="" subtitle="Evermusic Asetukset-näyttö" image="/docs/guide/evermusic/evermusic-guide-settings/img/settings-main-screen.webp" >}}
 {{< /cards >}}
 
 ## Ostokset ja Päivitykset

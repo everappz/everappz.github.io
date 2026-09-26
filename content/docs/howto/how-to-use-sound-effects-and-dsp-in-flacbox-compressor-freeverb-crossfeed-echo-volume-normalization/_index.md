@@ -7,9 +7,9 @@ tags: ["Flacbox", "Audio Effects", "How To", "BASS", "Equalizer", "Bass Boost", 
 readingTime: 30
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
-{{< full-width-tables >}}
+{{< ls-full-width-tables >}}
 
 **Short answer:** In Flacbox you choose one **Playback engine** in **Settings > Audio player**: **Standard** (Apple's system engine), **Universal** (the FFmpeg engine), or **Sound FX** (the **BASS™ engine**). The engine you pick decides which file formats play, so the choice matters. The **Sound FX** engine plays extra formats that most iPhone apps skip (FLAC, DSD, WavPack, APE, Musepack, TrueAudio, Opus, and old **MOD and tracker music** like MOD, XM, IT, and S3M), and it is the only engine that powers the sound tools: a **10-band equalizer**, **Volume Normalization**, **Compressor**, **Freeverb**, **Auto Wah**, **Phaser**, **Flanger**, **Echo**, **Chorus**, **Distortion**, **Rotate**, **Crossfeed**, and a build-your-own **DSP chain**. So to use the effects in this guide, set your Playback engine to **Sound FX** first. Each tool has ready-made **presets**. Open them in **Settings > Audio player** (Audio effects, Audio equalizer, Signal processing), or tap the **⋯ (More)** button on the player and choose **Audio effects**. Nothing you do here ever changes your files.
 
@@ -657,93 +657,93 @@ Because all of this runs live while the music plays, the effects:
 
 ## FAQ
 
-{{% details title="What sound engine does Flacbox use?" closed="true" %}}
+{{% ls-details title="What sound engine does Flacbox use?" closed="true" %}}
 You choose one Playback engine in Settings > Audio player: Standard (Apple's system engine), Universal (the FFmpeg engine), or Sound FX (the BASS™ engine from Un4seen Developments, un4seen.com). The engine you pick decides which file formats play. Sound FX is the one that plays extra formats like FLAC, DSD, WavPack, APE, Musepack, TrueAudio, Opus, and MOD or tracker music, and it is the only engine that provides the live effects, the 10-band equalizer, and the DSP chain. To use the effects, set the Playback engine to Sound FX.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Can Flacbox play MOD, XM, IT, and other tracker or module music?" closed="true" %}}
+{{% ls-details title="Can Flacbox play MOD, XM, IT, and other tracker or module music?" closed="true" %}}
 Yes. The BASS™ engine has a built-in module player that loads MOD, XM, IT, S3M, MTM, UMX, and MO3 files and rebuilds the song live from its patterns and instrument sounds, the way tracker music is meant to play. Regular iPhone players cannot do this. Effects and the equalizer work on module music too.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Does Flacbox support DSD and high-resolution files?" closed="true" %}}
+{{% ls-details title="Does Flacbox support DSD and high-resolution files?" closed="true" %}}
 Yes. Flacbox plays DSD files (DSF and DFF) through the BASS™ engine using DSD over PCM so they work on normal output hardware, plus FLAC, WavPack, Monkey's Audio (APE), Musepack, and TrueAudio for lossless playback.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="What sound effects does Flacbox have?" closed="true" %}}
+{{% ls-details title="What sound effects does Flacbox have?" closed="true" %}}
 A 10-band equalizer, Volume Normalization, Compressor, Freeverb, Auto Wah, Phaser, Flanger, Echo, Chorus, Distortion, Rotate, and Crossfeed, plus a build-your-own DSP chain with filters, shelves, gain, soft clip, bit crusher, ring modulator, tremolo, delay, and stereo width. Each one is separate and can be combined with the others.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="What is a preset?" closed="true" %}}
+{{% ls-details title="What is a preset?" closed="true" %}}
 A preset is a ready-made setting for an effect. Instead of moving sliders yourself, you tap a preset and the sound changes to match. Every effect in Flacbox has several presets, and this guide lists what each one does. If you move a slider after picking a preset, the effect shows "Manual" to tell you it is now using your own values.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="How do I open the audio effects in Flacbox?" closed="true" %}}
+{{% ls-details title="How do I open the audio effects in Flacbox?" closed="true" %}}
 Open the Now Playing player, tap the ⋯ (More) button, and choose Audio effects. Or go to Settings > Audio player > Audio effects. Tap an effect, turn on its switch, and pick a preset, or open the sliders to fine-tune.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Where is the equalizer, and what are the best settings?" closed="true" %}}
+{{% ls-details title="Where is the equalizer, and what are the best settings?" closed="true" %}}
 Go to Settings > Audio player > Audio equalizer. It has 10 bands from 32 Hz to 16 kHz, each from -12 to +12 dB, plus a -24 to +24 dB Preamplifier and 22 presets. For more bass, use Bass Booster. For clearer voices, use Vocal Booster or Pop. For a brighter sound, use Treble Booster. Then adjust single bands to taste.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="How do I boost the bass in Flacbox?" closed="true" %}}
+{{% ls-details title="How do I boost the bass in Flacbox?" closed="true" %}}
 Two easy ways. In the Audio equalizer, pick Bass Booster (or raise the 32 Hz and 64 Hz bands a few dB). Or, in Signal processing, add a Low Shelf block set to Bass Boost. In both cases, lower the Preamplifier or add a Gain block 1 to 2 dB so the bass stays clean and does not distort.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Which equalizer preset is best for my music?" closed="true" %}}
+{{% ls-details title="Which equalizer preset is best for my music?" closed="true" %}}
 Rock and Electronic add energy with strong lows and highs. Acoustic, Jazz, and Classical stay warm and natural. Pop and Vocal Booster push voices forward. Bass Booster and Hip-Hop add weight. Deep and Loudness sound fuller at low volume. Start with the one that matches your genre, then fine-tune.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="What is Volume Normalization, and how is it different from ReplayGain?" closed="true" %}}
+{{% ls-details title="What is Volume Normalization, and how is it different from ReplayGain?" closed="true" %}}
 It makes every track play at about the same loudness. It measures the real loudness using the EBU R128 standard (in LUFS, like streaming services) and adjusts each track toward your target, with a max-boost limit. Unlike ReplayGain, it needs no tags in your files and works on any source, live, without changing the audio. Presets: Light, Standard, Strong, and Night.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="What is Crossfeed, and should I use it?" closed="true" %}}
+{{% ls-details title="What is Crossfeed, and should I use it?" closed="true" %}}
 Crossfeed mixes a little of the left and right channels together so headphones feel more like real speakers and less like the sound is stuck in your head. It is only for headphones, so turn it off for speakers. Flacbox uses the bs2b (Bauer) method, with presets like Chu Moy and Jan Meier.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="What is the difference between the Compressor and Volume Normalization?" closed="true" %}}
+{{% ls-details title="What is the difference between the Compressor and Volume Normalization?" closed="true" %}}
 Volume Normalization matches the loudness between different songs. The Compressor evens out the loud and quiet parts inside a single song. They solve different problems and work well together, especially in a car or a noisy place.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="What is the Signal processing (DSP) chain?" closed="true" %}}
+{{% ls-details title="What is the Signal processing (DSP) chain?" closed="true" %}}
 It is a build-your-own rack in Settings > Audio player > Signal processing. Add blocks like filters, shelves, gain, soft clip, bit crusher, ring modulator, tremolo, delay, and stereo width, put them in any order, turn each on or off, and point the chain at all channels, left, or right. Because order matters, you can design exactly the sound you want.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="What is the difference between the Equalizer, the effects, and the DSP chain?" closed="true" %}}
+{{% ls-details title="What is the difference between the Equalizer, the effects, and the DSP chain?" closed="true" %}}
 The Equalizer is a simple 10-band tone control. The Audio effects are ready-made tools (compressor, reverb, echo, and so on) with presets. The DSP chain is where you build your own effect order from individual blocks. You can run all three at the same time.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Do the effects change or damage my music files?" closed="true" %}}
+{{% ls-details title="Do the effects change or damage my music files?" closed="true" %}}
 No. Everything is applied live while the music plays. Your files are never changed or re-saved. Turn an effect off and the original sound returns at once.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Can I use more than one effect at the same time?" closed="true" %}}
+{{% ls-details title="Can I use more than one effect at the same time?" closed="true" %}}
 Yes. Each effect has its own switch and there is no master switch, so any combination works. For example, Volume Normalization plus Compressor for even listening, or Freeverb plus Crossfeed on headphones, with the equalizer on top.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Why are the effect controls greyed out?" closed="true" %}}
+{{% ls-details title="Why are the effect controls greyed out?" closed="true" %}}
 The effect is turned off. Turn on its switch at the top of the editor to use the controls. Every effect is off by default.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="What does the Manual label mean?" closed="true" %}}
+{{% ls-details title="What does the Manual label mean?" closed="true" %}}
 It means you moved a slider away from a preset, so the effect is now using your own custom values instead of a named preset. Every slider has a reset button, and picking a preset again replaces your manual values.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Can I save and share my equalizer presets?" closed="true" %}}
+{{% ls-details title="Can I save and share my equalizer presets?" closed="true" %}}
 Yes. Besides the 22 built-in presets, you can make your own, reorder them, and export or import them to move your settings to another device.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Do the effects work with CarPlay, streaming, and background play?" closed="true" %}}
+{{% ls-details title="Do the effects work with CarPlay, streaming, and background play?" closed="true" %}}
 Yes. The effects run inside the BASS™ engine, so they apply to local files, cloud drives, media servers, streams, and module music, and they keep working during CarPlay and background playback.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Can I change the audio output quality?" closed="true" %}}
+{{% ls-details title="Can I change the audio output quality?" closed="true" %}}
 Yes. In Settings > Audio player you can set the output sample rate, the number of channels, and the buffer size to match your headphones, speakers, or DAC.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="What is a good starting setup for headphones?" closed="true" %}}
+{{% ls-details title="What is a good starting setup for headphones?" closed="true" %}}
 Turn on Volume Normalization (Standard), add a light Compressor (Soft), pick an equalizer preset you like, and turn on Crossfeed (Chu Moy or Jan Meier). Leave reverb, echo, and distortion off unless you want a creative sound.
-{{% /details %}}
+{{% /ls-details %}}
 
 ---
 

@@ -12,7 +12,7 @@ authors:
     image: "/images/about/artem-meleshko-founder-everappz.webp"
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 ![](/blog/evermusic-sync-your-music-library-save-playback-position-correct-music-tags/21260c_641f376e779e47d4927b43c210d3c87f~mv2.jpeg)
 
@@ -67,22 +67,22 @@ Evermusic 使用在线数据库检测并修正无效或不完整的 ID3 标签�
 
 ## 常见问题
 
-{{% details title="Evermusic 自动同步适用于所有云服务吗？" closed="true" %}}
+{{% ls-details title="Evermusic 自动同步适用于所有云服务吗？" closed="true" %}}
 是的。自动同步适用于 Dropbox、Google Drive、OneDrive、MEGA、WebDAV 和 SMB。选择要监控的文件夹，Evermusic 会保持音乐库处于最新状态。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Evermusic 可以保存有声书位置吗？" closed="true" %}}
+{{% ls-details title="Evermusic 可以保存有声书位置吗？" closed="true" %}}
 可以。在音频设置中启用播放位置保存。Evermusic 会记住每个文件停止的位置，让你无需手动书签即可继续。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="后台元数据读取如何工作？" closed="true" %}}
+{{% ls-details title="后台元数据读取如何工作？" closed="true" %}}
 Evermusic 在你使用其他功能时在后台读取 ID3 标签和文件元数据。它会自动按艺术家、专辑和流派组织音乐库。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Evermusic 会修复损坏的音乐标签吗？" closed="true" %}}
+{{% ls-details title="Evermusic 会修复损坏的音乐标签吗？" closed="true" %}}
 会。自动标签修正功能会将你的文件与在线数据库进行比对，修复无效、不完整或缺失的 ID3 元数据。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Evermusic 可以免费下载吗？" closed="true" %}}
+{{% ls-details title="Evermusic 可以免费下载吗？" closed="true" %}}
 Evermusic 可免费下载，提供可通过应用内购买获取的可选高级功能。
-{{% /details %}}
+{{% /ls-details %}}

@@ -20,7 +20,7 @@ I avsnittet Spellistor hittar du användbara verktyg för att hantera dina musik
 Spellistor i Flacbox kan innehålla en blandning av onlinemolnspår, nedladdade offlinefiler och lokala filer från din enhet — allt i en spellista — och spelas sömlöst tillsammans.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox spellistors huvudskärm" image="/docs/guide/flacbox/img/playlists-main.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox spellistors huvudskärm" image="/docs/guide/flacbox/img/playlists-main.webp" >}}
 {{< /cards >}}
 
 ## Skapa en spellista
@@ -63,7 +63,7 @@ När du öppnar en spellista visas spellistedetaljskärmen. Du hittar en knapp *
 - **Offline-läge** — ladda ner alla spår från den här spellistan till lokala filer. Alla nya objekt som läggs till i spellistan laddas också automatiskt ner.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox spellistedetaljskärm" image="/docs/guide/flacbox/img/playlist-details-screen.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox spellistedetaljskärm" image="/docs/guide/flacbox/img/playlist-details-screen.webp" >}}
 {{< /cards >}}
 
 ## Fler åtgärder för en spellista på spellisteskärmen
@@ -82,7 +82,7 @@ Du kan komma åt åtgärder för en spellista genom att trycka på knappen **"..
 - **Ta bort spellista** — ta bort spellistan från musikbiblioteket. **Den här åtgärden kan inte ångras.**
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox fler åtgärder för en spellista på spellistornas huvudskärm" image="/docs/guide/flacbox/img/more-actions-for-playlist-in-playlists-main-screen.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox fler åtgärder för en spellista på spellistornas huvudskärm" image="/docs/guide/flacbox/img/more-actions-for-playlist-in-playlists-main-screen.webp" >}}
 {{< /cards >}}
 
 ## Fler åtgärder för en spellista på spellistedetaljskärmen
@@ -110,7 +110,7 @@ För att ändra ordningen på låtar i en spellista, tryck på knappen **"..."**
 För ett ännu enklare arbetsflöde på långa spellistor, välj Fler åtgärder → Ändra ordning på låtar för att gå in i dedikerat dra-och-släpp-ordningsläge.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox ändra ordning på låtar i en spellista" image="/docs/guide/flacbox/img/playlist-details-rearange-songs.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox ändra ordning på låtar i en spellista" image="/docs/guide/flacbox/img/playlist-details-rearange-songs.webp" >}}
 {{< /cards >}}
 
 ## Ändra spellistans omslagsbild
@@ -126,7 +126,7 @@ För att ändra omslagsbilden för en spellista, tryck på knappen **"..."** i d
 Öppna spellistan, tryck på knappen **"..."** i det övre högra hörnet och välj **Välja** för att gå in i markeringsläge. Välj de spår du vill ta bort och tryck på **Ta bort från spellista** längst ned på skärmen. Bekräfta genom att trycka på **Färdig**.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox markeringsläge i spellistedetaljskärmen" image="/docs/guide/flacbox/img/selection-mode-playlist-details-screen.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox markeringsläge i spellistedetaljskärmen" image="/docs/guide/flacbox/img/selection-mode-playlist-details-screen.webp" >}}
 {{< /cards >}}
 
 ## Spåralternativ

@@ -7,7 +7,7 @@ tags: ["аудио", "плеер", "компьютер", "файлы", "файл
 keywords: ["iTunes file sharing", "воспроизведение локальной музыки", "перенос музыки на iPhone", "копирование файлов на iOS", "Mac на iPhone аудио", "локальные файлы на iPhone", "Evermusic", "Flacbox", "музыкальный плеер", "общий доступ к файлам", "WiFi Drive", "потоковое воспроизведение музыки SMB", "музыкальное приложение iPhone", "импорт музыки на iOS"]
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **Кратко:** Перенесите музыку с компьютера на iPhone одним из трёх способов: **iTunes/Finder File Sharing** (USB-кабель), **[WiFi Drive](/docs/howto/how-to-transfer-music-from-computer-to-iphone-without-itunes)** (беспроводной, кабель не нужен), или **[SMB](/docs/howto/stream-your-music-from-mac-or-pc-to-iphone-using-smb/)** (потоковое воспроизведение напрямую без копирования). Затем воспроизводите с помощью [Evermusic](/products/evermusic) или [Flacbox](/products/flacbox).
@@ -134,22 +134,22 @@ iTunes File Sharing позволяет легко копировать ауди�
 
 ## FAQ
 
-{{% details title="Какой самый быстрый способ перенести музыку на iPhone?" closed="true" %}}
+{{% ls-details title="Какой самый быстрый способ перенести музыку на iPhone?" closed="true" %}}
 iTunes/Finder File Sharing через USB -- самый быстрый метод для больших музыкальных библиотек. Для небольших передач WiFi Drive удобнее, так как не требует кабеля.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Можно ли перенести файлы FLAC на iPhone?" closed="true" %}}
+{{% ls-details title="Можно ли перенести файлы FLAC на iPhone?" closed="true" %}}
 Да. И Evermusic, и Flacbox принимают файлы FLAC через iTunes File Sharing, WiFi Drive или SMB. Для форматов без потерь рекомендуется Flacbox.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Нужен ли iTunes на macOS Catalina или новее?" closed="true" %}}
+{{% ls-details title="Нужен ли iTunes на macOS Catalina или новее?" closed="true" %}}
 Нет. Apple заменила iTunes на Finder для управления устройствами начиная с macOS Catalina. Используйте вкладку «Файлы» в Finder для обмена файлами.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Можно ли транслировать музыку без копирования файлов на iPhone?" closed="true" %}}
+{{% ls-details title="Можно ли транслировать музыку без копирования файлов на iPhone?" closed="true" %}}
 Да. Используйте протокол SMB для потокового воспроизведения музыки напрямую с Mac или ПК. Это экономит место на устройстве и сохраняет библиотеку на компьютере.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Какое приложение выбрать -- Evermusic или Flacbox?" closed="true" %}}
+{{% ls-details title="Какое приложение выбрать -- Evermusic или Flacbox?" closed="true" %}}
 Используйте Evermusic для стандартных форматов, таких как MP3, WAV и AAC. Выберите Flacbox, если ваша библиотека включает форматы без потерь, такие как FLAC, DSD или OGG.
-{{% /details %}}
+{{% /ls-details %}}

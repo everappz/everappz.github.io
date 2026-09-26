@@ -33,7 +33,7 @@ La pestanya Fitxers es divideix en seccions clares que apareixen en aquest ordre
 A la cantonada superior dreta de la pantalla Fitxers hi ha un botó Transferències (icona de fletxes giratòries). Toca'l per obrir la cua de transferències on monitoritzes cada descàrrega i càrrega de totes les fonts.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Fitxers d'Evervideo en emmagatzemaments connectats" image="/docs/guide/evervideo/img/evervideo-files-connected-storages.webp" >}}
+  {{< ls-card title="" subtitle="Fitxers d'Evervideo en emmagatzemaments connectats" image="/docs/guide/evervideo/img/evervideo-files-connected-storages.webp" >}}
 {{< /cards >}}
 
 ## Connectar a l'emmagatzematge al núvol
@@ -41,7 +41,7 @@ A la cantonada superior dreta de la pantalla Fitxers hi ha un botó Transferènc
 La secció d'emmagatzematge al núvol de la pestanya Fitxers és on viu cada compte connectat, NAS, servidor multimèdia i transmissió — un al costat de l'altre, en una llista desplaçable.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Secció d'emmagatzematge al núvol a la pestanya Fitxers d'Evervideo" image="/docs/guide/evervideo/img/evervideo-connections.webp" >}}
+  {{< ls-card title="" subtitle="Secció d'emmagatzematge al núvol a la pestanya Fitxers d'Evervideo" image="/docs/guide/evervideo/img/evervideo-connections.webp" >}}
 {{< /cards >}}
 
 - Obre la pestanya **Fitxers**.
@@ -51,7 +51,7 @@ La secció d'emmagatzematge al núvol de la pestanya Fitxers és on viu cada com
 - Introdueix les teves credencials a la pàgina d'autorització oficial del proveïdor al núvol i toca **Fet**.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Connectar un servei d'emmagatzematge al núvol a Evervideo" image="/docs/guide/evervideo/img/evervideo-connect-cloud-storage.webp" >}}
+  {{< ls-card title="" subtitle="Connectar un servei d'emmagatzematge al núvol a Evervideo" image="/docs/guide/evervideo/img/evervideo-connect-cloud-storage.webp" >}}
 {{< /cards >}}
 
 Si trobes algun problema, comprova la teva connexió a Internet i les teves credencials. A la versió Premium de l'app, pots afegir un nombre il·limitat de serveis; la versió gratuïta admet fins a tres.
@@ -161,7 +161,7 @@ Aquesta secció mostra tots els dispositius a la xarxa local als quals et pots c
 - Si cal, introdueix les teves dades d'inici de sessió per completar la connexió.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Dispositius disponibles a la xarxa local a Evervideo" image="/docs/guide/evervideo/img/evervideo-available-devices.webp" >}}
+  {{< ls-card title="" subtitle="Dispositius disponibles a la xarxa local a Evervideo" image="/docs/guide/evervideo/img/evervideo-available-devices.webp" >}}
 {{< /cards >}}
 
 ## Wi-Fi Drive
@@ -169,7 +169,7 @@ Aquesta secció mostra tots els dispositius a la xarxa local als quals et pots c
 Wi-Fi Drive et permet transferir fitxers sense fils des de l'ordinador al dispositiu iOS via qualsevol navegador d'escriptori, Finder o Explorador de fitxers. El dispositiu i l'ordinador han d'estar a la mateixa xarxa Wi-Fi.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Wi-Fi Drive a Evervideo" image="/docs/guide/evervideo/img/evervideo-wifi-drive.webp" >}}
+  {{< ls-card title="" subtitle="Wi-Fi Drive a Evervideo" image="/docs/guide/evervideo/img/evervideo-wifi-drive.webp" >}}
 {{< /cards >}}
 
 ### Activar Wi-Fi Drive
@@ -201,7 +201,7 @@ Connecta una unitat USB o targeta SD a l'iPhone, iPad o Mac via l'adaptador Ligh
 Toca qualsevol servei al núvol connectat per obrir el seu navegador de fitxers. Les carpetes mostren miniatures de vídeo quan estan disponibles, i tocar un vídeo inicia la reproducció immediatament mentre continua transmetent la resta del fitxer en segon pla.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Navegació per carpetes en emmagatzemaments connectats a Evervideo" image="/docs/guide/evervideo/img/evervideo-all-connected-device-folders.webp" >}}
+  {{< ls-card title="" subtitle="Navegació per carpetes en emmagatzemaments connectats a Evervideo" image="/docs/guide/evervideo/img/evervideo-all-connected-device-folders.webp" >}}
 {{< /cards >}}
 
 ## Accés ràpid
@@ -209,7 +209,7 @@ Toca qualsevol servei al núvol connectat per obrir el seu navegador de fitxers.
 La secció d'accés ràpid es troba a la part superior de la pestanya Fitxers. Et proporciona accés ràpid als fitxers i carpetes preferits i oberts recentment — tant de serveis al núvol com d'emmagatzematge al dispositiu. Quan obres un fitxer o carpeta del núvol, s'afegeix a la llista d'obertures recents. Pots marcar carpetes profundament niades com a Preferits per accedir-hi ràpidament sense haver de navegar per l'estructura de directoris.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Enllaços en línia i accés ràpid a Evervideo" image="/docs/guide/evervideo/img/evervideo-connections-online-links.webp" >}}
+  {{< ls-card title="" subtitle="Enllaços en línia i accés ràpid a Evervideo" image="/docs/guide/evervideo/img/evervideo-connections-online-links.webp" >}}
 {{< /cards >}}
 
 ## Fitxers d'aquesta aplicació
@@ -217,7 +217,7 @@ La secció d'accés ràpid es troba a la part superior de la pestanya Fitxers. E
 Aquesta secció mostra els fitxers i carpetes emmagatzemats al directori Documents protegit per sandbox d'Evervideo — tot el que has descarregat del núvol, transferit via Wi-Fi Drive, copiat a través de Compartició de fitxers Finder o importat d'una altra app.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Fitxers d'aquesta aplicació a Evervideo" image="/docs/guide/evervideo/img/evervideo-files-in-this-application.webp" >}}
+  {{< ls-card title="" subtitle="Fitxers d'aquesta aplicació a Evervideo" image="/docs/guide/evervideo/img/evervideo-files-in-this-application.webp" >}}
 {{< /cards >}}
 
 ### Carpeta Documents
@@ -225,7 +225,7 @@ Aquesta secció mostra els fitxers i carpetes emmagatzemats al directori Documen
 La carpeta Documents és l'arrel de tot dins de Fitxers d'aquesta aplicació. Pots crear subcarpetes, reanomenar fitxers, moure'ls i organitzar-los com vulguis.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Fitxers locals d'Evervideo — Carpeta Documents" image="/docs/guide/evervideo/img/evervideo-local-files-documents.webp" >}}
+  {{< ls-card title="" subtitle="Fitxers locals d'Evervideo — Carpeta Documents" image="/docs/guide/evervideo/img/evervideo-local-files-documents.webp" >}}
 {{< /cards >}}
 
 ## Fitxers en aquest iPhone/iPad/Mac
@@ -238,7 +238,7 @@ Aquesta secció mostra els vídeos ubicats al dispositiu però en aplicacions di
 També pots usar Connectar una carpeta per crear un enllaç a una carpeta del dispositiu amb accés de lectura/escriptura — perfecte per treballar amb una carpeta a iCloud Drive o una unitat USB adjunta sense copiar res.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Fitxers en aquest dispositiu a Evervideo" image="/docs/guide/evervideo/img/evervideo-files-on-this-device.webp" >}}
+  {{< ls-card title="" subtitle="Fitxers en aquest dispositiu a Evervideo" image="/docs/guide/evervideo/img/evervideo-files-on-this-device.webp" >}}
 {{< /cards >}}
 
 ## Carpetes especials
@@ -276,7 +276,7 @@ Quan obres una carpeta, toca el botó **"..."** a la cantonada superior dreta pe
 Toca **"..."** a la cantonada superior dreta i tria **Seleccionar** per entrar al mode de selecció. Apareixen caselles de verificació al costat de cada fitxer i carpeta. Toca per seleccionar un o diversos elements i realitza accions en lot: Reproduir a continuació, Reproduir més tard, Afegir a la biblioteca multimèdia, Afegir a una llista de reproducció, Copiar, Carregar, Moure, Reanomenar o Eliminar.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Mode de selecció al gestor de fitxers d'Evervideo" image="/docs/guide/evervideo/img/evervideo-selection-mode-in-files.webp" >}}
+  {{< ls-card title="" subtitle="Mode de selecció al gestor de fitxers d'Evervideo" image="/docs/guide/evervideo/img/evervideo-selection-mode-in-files.webp" >}}
 {{< /cards >}}
 
 Si prefereixes tractar l'emmagatzematge al núvol connectat com a només lectura (per evitar eliminacions accidentals), activa Configuració → Gestor de fitxers → Editar fitxers en línia → Desactivat per amagar totes les operacions destructives de la interfície.
@@ -318,13 +318,13 @@ Per a cada carpeta de l'emmagatzematge al núvol, tens moltes accions disponible
 A la cantonada superior dreta de la pestanya Fitxers hi ha un botó **Transferències** (icona de fletxes giratòries). Toca'l per obrir la cua de transferències — una llista de cada descàrrega i càrrega activa de totes les fonts, amb progrés en temps real, velocitat i ETA per fitxer.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Cua de transferències de fitxers d'Evervideo" image="/docs/guide/evervideo/img/evervideo-file-transfers.webp" >}}
+  {{< ls-card title="" subtitle="Cua de transferències de fitxers d'Evervideo" image="/docs/guide/evervideo/img/evervideo-file-transfers.webp" >}}
 {{< /cards >}}
 
 Pots pausar, reprendre, reintentar transferències fallides, reordenar elements per prioritzar descàrregues específiques o cancel·lar-les individualment. També pots ajustar la velocitat de la cua de transferències (màxim de tasques en paral·lel), el tipus de xarxa (només Wi-Fi o Wi-Fi + Dades mòbils) i les transferències en segon pla a Configuració → Gestor de fitxers.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Accions a la cua de transferències de fitxers d'Evervideo" image="/docs/guide/evervideo/img/evervideo-file-transfers-actions.webp" >}}
+  {{< ls-card title="" subtitle="Accions a la cua de transferències de fitxers d'Evervideo" image="/docs/guide/evervideo/img/evervideo-file-transfers-actions.webp" >}}
 {{< /cards >}}
 
 ## Mode fora de línia i carpetes fora de línia sincronitzades

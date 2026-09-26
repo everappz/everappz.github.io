@@ -11,7 +11,7 @@ tags: ["Evertag", "Premium", "Különbség", "Pro", "Ingyenes vs Fizetős", "Tag
 Az Evertag és az Evertag Premium ugyanazon erőteljes tag szerkesztő alkalmazás két verziója. Míg az Evertag Free hozzáférést biztosít az alapvető metaadat-szerkesztő eszközökhöz, az Evertag Premium feloldja a teljes élményt — hirdetésmentes, korlátlan és testreszabható.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evertag Upgrade To Premium Screen" image="/docs/faq/evertag/what-is-the-difference-between-evertag-and-evertag-premium/upgrade-to-premium.webp" >}}
+  {{< ls-card title="" subtitle="Evertag Upgrade To Premium Screen" image="/docs/faq/evertag/what-is-the-difference-between-evertag-and-evertag-premium/upgrade-to-premium.webp" >}}
 {{< /cards >}}
 
 ## Válassza ki Premium csomagját
@@ -19,7 +19,7 @@ Az Evertag és az Evertag Premium ugyanazon erőteljes tag szerkesztő alkalmaz�
 Az alkalmazás ingyenes verziója egyszeri élettartamra szóló alkalmazáson belüli vásárlást és két előfizetési lehetőséget kínál (1 hónap és 1 év) az összes korlátozás eltávolításához és a Premium verzióra való frissítéshez, lehetővé téve a legjobb és legoptimálisabb ár kiválasztását. Az árak az ország vagy a terület függvényében eltérhetnek. Kérjük, vegye figyelembe, hogy a **Családi megosztás** **engedélyezett** minden vásárláshoz és csomaghoz, így megoszthatja a Premium verziót a család tagjaival.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evertag Select Your Premium Plan Screen" image="/docs/faq/evertag/what-is-the-difference-between-evertag-and-evertag-premium/select-your-plan.webp" >}}
+  {{< ls-card title="" subtitle="Evertag Select Your Premium Plan Screen" image="/docs/faq/evertag/what-is-the-difference-between-evertag-and-evertag-premium/select-your-plan.webp" >}}
 {{< /cards >}}
 
 ## Vásárlások megosztása iOS és Mac között
@@ -79,7 +79,7 @@ Az alkalmazás frissítése után látni fogja a Premium státusz képernyőt az
 Korlátozott ideig ingyenesen frissíthet a Premium verzióra a "Próbálja ki ingyen a Premiumot" menü segítségével. Egyszerűen nézzen meg egy hirdetést, vagy meséljen barátainak erről az alkalmazásról, hogy ingyen megkapja a Premium verziót.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evertag Try Premium For Free Screen" image="/docs/faq/evertag/what-is-the-difference-between-evertag-and-evertag-premium/try-premium-for-free.webp" >}}
+  {{< ls-card title="" subtitle="Evertag Try Premium For Free Screen" image="/docs/faq/evertag/what-is-the-difference-between-evertag-and-evertag-premium/try-premium-for-free.webp" >}}
 {{< /cards >}}
 
 ## Mit válasszunk?

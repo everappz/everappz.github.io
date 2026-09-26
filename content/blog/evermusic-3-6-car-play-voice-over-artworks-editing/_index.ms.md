@@ -12,7 +12,7 @@ authors:
     image: "/images/about/artem-meleshko-founder-everappz.webp"
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 **Ringkasan:** Evermusic 3.6 menambah integrasi Apple CarPlay, kebolehcapaian VoiceOver penuh, output audio campuran, sambung semula main balik automatik, penyuntingan karya seni dan tag untuk FLAC/MP3/AIFF, serta import fail iCloud Drive.
 
@@ -78,18 +78,18 @@ Import fail muzik terus dari iCloud Drive dan aplikasi lain:
 
 ## FAQ
 
-{{% details title="Adakah Evermusic berfungsi dengan CarPlay?" closed="true" %}}
+{{% ls-details title="Adakah Evermusic berfungsi dengan CarPlay?" closed="true" %}}
 Ya. Bermula dengan versi 3.6, Evermusic menyokong sepenuhnya Apple CarPlay. Anda boleh melayari dan memainkan pustaka muzik anda dari paparan terbina dalam kereta anda.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Adakah Evermusic boleh diakses oleh pengguna buta atau kurang penglihatan?" closed="true" %}}
+{{% ls-details title="Adakah Evermusic boleh diakses oleh pengguna buta atau kurang penglihatan?" closed="true" %}}
 Ya. Evermusic 3.6 termasuk sokongan VoiceOver penuh dengan label deskriptif, petunjuk dan mod antara muka ringkas.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Bolehkah saya mengedit tag FLAC di iPhone dengan Evermusic?" closed="true" %}}
+{{% ls-details title="Bolehkah saya mengedit tag FLAC di iPhone dengan Evermusic?" closed="true" %}}
 Ya. Evermusic termasuk editor tag terbina dalam yang berfungsi dengan fail FLAC, MP3 dan AIFF. Anda boleh mengedit tajuk, artis, album dan karya seni.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Adakah Evermusic mengingati di mana saya berhenti mendengar?" closed="true" %}}
+{{% ls-details title="Adakah Evermusic mengingati di mana saya berhenti mendengar?" closed="true" %}}
 Ya. Apabila "Save Audio Player State" diaktifkan, Evermusic memulihkan baris gilir, trek semasa dan kedudukan main balik tepat anda apabila anda membuka semula aplikasi.
-{{% /details %}}
+{{% /ls-details %}}

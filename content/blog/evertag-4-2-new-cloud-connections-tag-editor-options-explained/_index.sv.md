@@ -12,7 +12,7 @@ authors:
     image: "/images/about/artem-meleshko-founder-everappz.webp"
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 **Kort sagt:** [Evertag 4.2](/products/evertag) är en stor uppdatering för ljudtaggredigeraren på iPhone, iPad och Mac. Vi krossade viktiga buggar i taggredigering och lade till över 6 nya moln- och serveranslutningar — **Internxt**, **Proton Drive**, **QNAP**, **Nextcloud**, **Amazon S3** plus protokollen **FTP**, **SFTP** och **NFS**. Wi-Fi Drive fick ett uppfräschat gränssnitt, flerval-läge, en smartare uppladdningskö och snabbare överföringar. Hela appen är inställd på **Liquid Glass**-designen. Det här inlägget gräver också djupt i Evertags taggredigerar-inställningar — förklarar **ID3v2.4 vs ID3v2.3**, **skalning av albumomslag**, **dubblerade taggar**, **molnuppladdningslägen**, **ta bort nedladdad fil** och precis vilka alternativ du ska välja om du förbereder ljud för **Spotify**, **Apple Music**, **Plex**, **Jellyfin** eller någon annan strömningstjänst.
 
@@ -229,50 +229,50 @@ Om du gillar appen, lämna gärna ett betyg i App Store — det hjälper verklig
 
 ## Vanliga frågor
 
-{{% details title="Vad är nytt i Evertag 4.2?" closed="true" %}}
+{{% ls-details title="Vad är nytt i Evertag 4.2?" closed="true" %}}
 Evertag 4.2 lägger till över 6 nya moln- och serveranslutningar (Internxt, Proton Drive, QNAP, Nextcloud, Amazon S3, FTP, SFTP, NFS), en uppfräschad Wi-Fi Drive med flerval och smartare uppladdningskö, Liquid Glass UI-uppdateringar, uppdaterade anslutningsbibliotek, viktiga taggredigeringsbuggfixar och översättningsförbättringar.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Ska jag använda ID3v2.4 eller ID3v2.3 i Evertag?" closed="true" %}}
+{{% ls-details title="Ska jag använda ID3v2.4 eller ID3v2.3 i Evertag?" closed="true" %}}
 Använd **ID3v2.4** för moderna spelare (Evermusic, Plex, Jellyfin, Apple Music, foobar2000, VLC, moderna Android-appar) och för bibliotek med icke-latinska tecken — UTF-8-stöd betyder renare taggar på kinesiska, koreanska, japanska, ryska, arabiska och hebreiska. Använd **ID3v2.3** om dina taggar visas felaktigt i vissa appar, om du siktar på äldre bilstereo eller om en strömnings-distributörspipeline avvisar v2.4. Du kan alltid byta och spara om.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Varför är mina taggar fel i Spotify efter redigering?" closed="true" %}}
+{{% ls-details title="Varför är mina taggar fel i Spotify efter redigering?" closed="true" %}}
 Spotify visar mestadels metadata från sin egen katalog — dina lokala taggar används bara för «Local Files» eller innehåll du har laddat upp som artist. Om du taggar filer för Spotify Local Files och de inte visas korrekt, prova att inaktivera ID3v2.4 i Evertag och spara som ID3v2.3 — Spotifys parser har historiskt varit konservativ gentemot v2.4.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Vilken albumomslagsstorlek ska jag välja i Evertag?" closed="true" %}}
+{{% ls-details title="Vilken albumomslagsstorlek ska jag välja i Evertag?" closed="true" %}}
 För de flesta användare: **Stor**. Det ser bra ut på telefoner, iPads, Macs och moderna bildisplayer utan att blåsa upp filerna för mycket. Använd **Mellan** om du har ett stort bibliotek och vill spara diskutrymme. Använd **Original** (ingen skalning) endast för arkivmastrar eller när du verkligen behöver maximal kvalitet — men var medveten om att vissa äldre spelare kämpar med mycket stora inbäddade omslag. **Original** är en del av Evertags premium-personaliseringsuppgradering.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Kommer större albumomslag göra mina filer större?" closed="true" %}}
+{{% ls-details title="Kommer större albumomslag göra mina filer större?" closed="true" %}}
 Ja. Att bädda in ett 3 000 × 3 000 px omslag kan lägga till flera megabyte till en enskild ljudfil. På ett bibliotek med 1 000 spår blir det gigabyte. Om lagringsutrymmet är knappt, använd Mellan eller Stor; om du strömmar från en NAS där storleken inte spelar roll är Extra stor eller Original okej.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Vad är Dubblera taggar och bör jag aktivera det?" closed="true" %}}
+{{% ls-details title="Vad är Dubblera taggar och bör jag aktivera det?" closed="true" %}}
 Dubblera taggar skriver kärnmetadata till både ID3v1- (legacy 128-byte) och ID3v2-sektionerna (modern) av filen. Aktivera det bara om du siktar på mycket gamla spelare eller hårdvara som läser ID3v1. För allt modernt (smartphones, datorer, nyare bilstereo) lämna det av.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Redigerar Evertag taggar direkt på molnfiler?" closed="true" %}}
+{{% ls-details title="Redigerar Evertag taggar direkt på molnfiler?" closed="true" %}}
 Ja. Anslut till ditt moln (Google Drive, Dropbox, OneDrive, iCloud Drive, Internxt, Proton Drive, QNAP, Nextcloud, Amazon S3 osv.) eller via FTP/SFTP/NFS, öppna en fil och redigera taggar som om den vore lokal. Evertag laddar ner filen, applicerar dina ändringar och laddar upp den uppdaterade versionen tillbaka. Du kan välja mellan lägena «Fråga alltid», «Auto-uppladdning» eller «Ladda inte upp» i inställningarna.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Kan jag redigera FLAC-taggar på iPhone med Evertag?" closed="true" %}}
+{{% ls-details title="Kan jag redigera FLAC-taggar på iPhone med Evertag?" closed="true" %}}
 Ja. Evertag stödjer FLAC, MP3, M4A/MP4, AIFF, WAV, OGG, APE och andra viktiga format med fullt läs-/skrivstöd för taggar inklusive inbäddat omslag.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Hur redigerar jag taggar säkert på min hemmaserver med SFTP?" closed="true" %}}
+{{% ls-details title="Hur redigerar jag taggar säkert på min hemmaserver med SFTP?" closed="true" %}}
 Öppna Evertag, gå till Anslutningar, välj SFTP och ange serverns värdnamn eller IP, port (vanligtvis 22), användarnamn och antingen ett lösenord eller en privat SSH-nyckel. Evertag bläddrar i dina fjärrmappar och redigerar taggar direkt med end-to-end-kryptering över SSH.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Kan jag redigera taggar på flera filer samtidigt?" closed="true" %}}
+{{% ls-details title="Kan jag redigera taggar på flera filer samtidigt?" closed="true" %}}
 Ja. Aktivera **Redigera filer samtidigt** i inställningarna. Välj flera filer, öppna taggredigeraren, och alla fält du ändrar appliceras på alla valda filer. Det här är det snabbaste sättet att sätta samma album-artist, år eller genre på ett helt album.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Är uppdateringen till Evertag 4.2 gratis?" closed="true" %}}
+{{% ls-details title="Är uppdateringen till Evertag 4.2 gratis?" closed="true" %}}
 Ja. Evertag är en gratis nedladdning från App Store, och 4.2 är en gratis uppdatering för alla befintliga användare. De nya molnintegrationerna, Wi-Fi Drive-förbättringarna och Liquid Glass-UI:t är en del av basuppdateringen.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="På vilka enheter är Evertag 4.2 tillgängligt?" closed="true" %}}
+{{% ls-details title="På vilka enheter är Evertag 4.2 tillgängligt?" closed="true" %}}
 Evertag 4.2 körs på iPhone, iPad och Mac. iCloud Drive-synkronisering håller dina taggredigerar-inställningar konsekventa över enheter.
-{{% /details %}}
+{{% /ls-details %}}

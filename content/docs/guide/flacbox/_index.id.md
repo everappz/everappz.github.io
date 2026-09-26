@@ -71,20 +71,20 @@ Panduan ini memandu Anda melalui setiap bagian Flacbox di iPhone, iPad, dan Mac 
 
 {{< cards cols="2">}}
 
-{{< card icon="map" link="/docs/guide/flacbox/flacbox-guide-navigation" title="Navigasi" subtitle="Tab Bar di iPhone, Menu Kiri di iPad dan Mac, mini player, widget, CarPlay." >}}
+{{< ls-card icon="map" link="/docs/guide/flacbox/flacbox-guide-navigation" title="Navigasi" subtitle="Tab Bar di iPhone, Menu Kiri di iPad dan Mac, mini player, widget, CarPlay." >}}
 
-{{< card icon="cloud" link="/docs/guide/flacbox/flacbox-guide-connections" title="Koneksi" subtitle="iCloud, Google Drive, Dropbox, OneDrive, NAS, WebDAV, SMB, DLNA." >}}
+{{< ls-card icon="cloud" link="/docs/guide/flacbox/flacbox-guide-connections" title="Koneksi" subtitle="iCloud, Google Drive, Dropbox, OneDrive, NAS, WebDAV, SMB, DLNA." >}}
 
-{{< card icon="collection" link="/docs/guide/flacbox/flacbox-guide-music-library" title="Perpustakaan Musik" subtitle="Lagu, Album, Artis, Genre, Komposer — sinkronisasi, pencarian, edit metadata." >}}
+{{< ls-card icon="collection" link="/docs/guide/flacbox/flacbox-guide-music-library" title="Perpustakaan Musik" subtitle="Lagu, Album, Artis, Genre, Komposer — sinkronisasi, pencarian, edit metadata." >}}
 
-{{< card icon="music-note" link="/docs/guide/flacbox/flacbox-guide-playlists" title="Daftar Putar" subtitle="Buat, impor M3U / M3U8 / CUE, susun ulang, dan ekspor ke M3U / CSV / TXT." >}}
+{{< ls-card icon="music-note" link="/docs/guide/flacbox/flacbox-guide-playlists" title="Daftar Putar" subtitle="Buat, impor M3U / M3U8 / CUE, susun ulang, dan ekspor ke M3U / CSV / TXT." >}}
 
-{{< card icon="folder" link="/docs/guide/flacbox/flacbox-guide-local-files" title="File Lokal" subtitle="Musik offline, drive USB, Wi-Fi Drive, manajer file, folder offline." >}}
+{{< ls-card icon="folder" link="/docs/guide/flacbox/flacbox-guide-local-files" title="File Lokal" subtitle="Musik offline, drive USB, Wi-Fi Drive, manajer file, folder offline." >}}
 
-{{< card icon="play" link="/docs/guide/flacbox/flacbox-guide-player" title="Pemutar Audio" subtitle="Output hi-res, equalizer, pitch, bookmark, AirPlay, Chromecast, kecepatan, sleep timer." >}}
+{{< ls-card icon="play" link="/docs/guide/flacbox/flacbox-guide-player" title="Pemutar Audio" subtitle="Output hi-res, equalizer, pitch, bookmark, AirPlay, Chromecast, kecepatan, sleep timer." >}}
 
-{{< card icon="adjustments" link="/docs/guide/flacbox/flacbox-guide-settings" title="Pengaturan" subtitle="Mesin audio, perpustakaan, manajer file, CarPlay, widget, personalisasi, bahasa, backup." >}}
+{{< ls-card icon="adjustments" link="/docs/guide/flacbox/flacbox-guide-settings" title="Pengaturan" subtitle="Mesin audio, perpustakaan, manajer file, CarPlay, widget, personalisasi, bahasa, backup." >}}
 
-{{< card icon="question-mark-circle" link="/docs/faq/flacbox" title="FAQ" subtitle="Temukan jawaban untuk 50 pertanyaan paling umum tentang Flacbox." >}}
+{{< ls-card icon="question-mark-circle" link="/docs/faq/flacbox" title="FAQ" subtitle="Temukan jawaban untuk 50 pertanyaan paling umum tentang Flacbox." >}}
 
 {{< /cards >}}

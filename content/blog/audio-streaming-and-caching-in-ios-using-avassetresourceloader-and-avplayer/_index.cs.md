@@ -12,7 +12,7 @@ authors:
     image: "/images/about/artem-meleshko-founder-everappz.webp"
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 ![](/blog/audio-streaming-and-caching-in-ios-using-avassetresourceloader-and-avplayer/diagram.png)
 
@@ -140,18 +140,18 @@ Tento přístup pohání engine pro streamování zvuku v aplikaci [Evermusic](h
 
 ## Nejčastější dotazy
 
-{{% details title="Kdy bych měl použít AVAssetResourceLoaderDelegate místo přímé URL?" closed="true" %}}
+{{% ls-details title="Kdy bych měl použít AVAssetResourceLoaderDelegate místo přímé URL?" closed="true" %}}
 Použijte jej, když cloudová služba vyžaduje vlastní autorizační hlavičky, když potřebujete ukládání streamovaného zvuku do mezipaměti na disk, nebo když chcete podrobnou kontrolu nad tím, jak jsou data načítána a ukládána do bufferu.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Funguje tento přístup se Swiftem?" closed="true" %}}
+{{% ls-details title="Funguje tento přístup se Swiftem?" closed="true" %}}
 Ano. Protokol `AVAssetResourceLoaderDelegate` funguje v Swiftu stejně. Příklady v Objective-C zde se přímo přeloží.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Mohu to použít i pro streamování videa?" closed="true" %}}
+{{% ls-details title="Mohu to použít i pro streamování videa?" closed="true" %}}
 Ano. `AVAssetResourceLoaderDelegate` funguje s jakýmkoli typem médií, který AVPlayer podporuje, včetně videa. Použije se stejný přístup s vlastním schématem.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Podporuje přehrávání zvuku na pozadí?" closed="true" %}}
+{{% ls-details title="Podporuje přehrávání zvuku na pozadí?" closed="true" %}}
 Ano, pokud povolíte režim pozadí "Audio, AirPlay, and Picture in Picture" v možnostech vaší aplikace a správně nakonfigurujete `AVAudioSession`.
-{{% /details %}}
+{{% /ls-details %}}

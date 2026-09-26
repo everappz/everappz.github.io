@@ -7,7 +7,7 @@ tags: ["موسيقى", "سحابة", "بث", "مشغل", "محرك", "icloud"]
 readingTime: 5
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **ملخص:** قم بتحميل الموسيقى إلى iCloud Drive، وثبّت [Evermusic](/products/evermusic) (لملفات MP3/WAV) أو [Flacbox](/products/flacbox) (لملفات FLAC/DSD)، واربط مجلد iCloud Drive الخاص بك، وابدأ البث مباشرة دون استخدام مساحة تخزين الجهاز.
@@ -29,8 +29,8 @@ readingTime: 5
 1. توجه إلى App Store وقم بتنزيل **Evermusic** إذا كانت موسيقاك مخزنة بتنسيقات صوتية قياسية مثل mp3 أو wav. إذا كانت لديك موسيقى بجودة عالية بتنسيق dsd أو flac، اختر **Flacbox**. كلا التطبيقين متاحان لنظامي iOS وMacOS.
 
 {{< cards >}}
-  {{< card link="https://apps.apple.com/us/app/evermusic-cloud-music-player/id885367198" title="تحميل Evermusic لنظام iOS" icon="download" tag="مجاني" >}}
-  {{< card link="https://apps.apple.com/us/app/flacbox-flac-player-equalizer/id1097564256" title="تحميل Flacbox لنظام iOS" icon="download" tag="مجاني" >}}
+  {{< ls-card link="https://apps.apple.com/us/app/evermusic-cloud-music-player/id885367198" title="تحميل Evermusic لنظام iOS" icon="download" tag="مجاني" >}}
+  {{< ls-card link="https://apps.apple.com/us/app/flacbox-flac-player-equalizer/id1097564256" title="تحميل Flacbox لنظام iOS" icon="download" tag="مجاني" >}}
 {{< /cards >}}
 
 - لنظام MacOS:
@@ -38,8 +38,8 @@ readingTime: 5
 1. قم بزيارة App Store على جهاز Mac وثبّت **Evermusic** أو **Flacbox** حسب تفضيلاتك لتنسيقات الموسيقى.
 
 {{< cards >}}
-  {{< card link="https://apps.apple.com/us/app/evermusic-cloud-music-player/id1564384601" title="تحميل Evermusic لنظام Mac" icon="download" tag="مجاني" >}}
-  {{< card link="https://apps.apple.com/us/app/flacbox-hires-music-player/id1594027432" title="تحميل Flacbox لنظام Mac" icon="download" tag="مجاني" >}}
+  {{< ls-card link="https://apps.apple.com/us/app/evermusic-cloud-music-player/id1564384601" title="تحميل Evermusic لنظام Mac" icon="download" tag="مجاني" >}}
+  {{< ls-card link="https://apps.apple.com/us/app/flacbox-hires-music-player/id1594027432" title="تحميل Flacbox لنظام Mac" icon="download" tag="مجاني" >}}
 {{< /cards >}}
 
 بمجرد تثبيت التطبيق على iPhone أو Mac، ستكون جاهزًا للمتابعة.
@@ -215,22 +215,22 @@ readingTime: 5
 
 ## الأسئلة الشائعة
 
-{{% details title="ما هي تنسيقات الصوت التي يمكنني بثها من iCloud Drive؟" closed="true" %}}
+{{% ls-details title="ما هي تنسيقات الصوت التي يمكنني بثها من iCloud Drive؟" closed="true" %}}
 يدعم Evermusic تنسيقات MP3 وWAV وAAC وتنسيقات قياسية أخرى. يضيف Flacbox دعمًا لتنسيقات FLAC وDSD وOGG وOPUS. اختر التطبيق الذي يتوافق مع مجموعتك الموسيقية.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="هل يستخدم البث من iCloud Drive مساحة تخزين الجهاز؟" closed="true" %}}
+{{% ls-details title="هل يستخدم البث من iCloud Drive مساحة تخزين الجهاز؟" closed="true" %}}
 لا. يقوم كل من Evermusic وFlacbox ببث الصوت مباشرة من iCloud Drive دون تنزيل الملفات على جهازك. يمكنك اختياريًا تنزيل المسارات الفردية للاستماع دون اتصال بالإنترنت.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="هل يمكنني استخدام موسيقى iCloud Drive دون اتصال بالإنترنت؟" closed="true" %}}
+{{% ls-details title="هل يمكنني استخدام موسيقى iCloud Drive دون اتصال بالإنترنت؟" closed="true" %}}
 نعم. اضغط على قائمة النقاط الثلاث على أي مسار واختر خيار التنزيل. سيتم حفظ الملف محليًا للتشغيل دون اتصال بالإنترنت.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="لماذا تتوقف موسيقاي أو تتقطع أثناء التشغيل؟" closed="true" %}}
+{{% ls-details title="لماذا تتوقف موسيقاي أو تتقطع أثناء التشغيل؟" closed="true" %}}
 يحدث هذا عادةً بسبب اتصال إنترنت بطيء أو غير مستقر. قم بتفعيل ذاكرة التخزين المؤقت لمشغل الصوت في الإعدادات لتنزيل المسارات القادمة مسبقًا ومنع الانقطاعات.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="هل بث موسيقى iCloud Drive مجاني؟" closed="true" %}}
+{{% ls-details title="هل بث موسيقى iCloud Drive مجاني؟" closed="true" %}}
 كل من Evermusic وFlacbox مجانيان للتنزيل. يوفر iCloud Drive مساحة تخزين مجانية بحجم 5 غيغابايت. يمكنك ترقية خطة تخزين iCloud الخاصة بك من خلال Apple إذا كنت بحاجة إلى مساحة أكبر.
-{{% /details %}}
+{{% /ls-details %}}

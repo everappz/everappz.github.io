@@ -12,7 +12,7 @@ authors:
     image: "/images/about/artem-meleshko-founder-everappz.webp"
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 ## Miért exportáljunk blogbejegyzéseket a Wixből?
 
@@ -78,33 +78,33 @@ bash fetch_blog_posts.sh
 A projekt nyílt forráskódú.
 
 {{< cards cols="1" >}}
-  {{< card link="https://github.com/everappz/wix-blog-export" title="Projekt a GitHubon" icon="github" tag="open source" >}}
+  {{< ls-card link="https://github.com/everappz/wix-blog-export" title="Projekt a GitHubon" icon="github" tag="open source" >}}
 {{< /cards >}}
 
 ---
 
 ## Gyakran ismételt kérdések
 
-{{% details title="Miért nem használhatok egyszerűen `requests`-et a Wix blogbejegyzések scrape-eléséhez?" closed="true" %}}
+{{% ls-details title="Miért nem használhatok egyszerűen `requests`-et a Wix blogbejegyzések scrape-eléséhez?" closed="true" %}}
 A Wix dinamikusan rendereli a tartalmat JavaScripttel. Egy standard HTTP kérés üres oldalhéjat ad vissza. A Selenium headless böngészőt futtat a teljesen renderelt HTML-ért.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Működik ez bármely Wix bloggal?" closed="true" %}}
+{{% ls-details title="Működik ez bármely Wix bloggal?" closed="true" %}}
 Igen. A scraper beolvassa a blog sitemap XML-jét és feldolgozza az összes URL-t. Csak frissítsd a `SITEMAP_URL` változót a `parse_blog_sitemap.py`-ban.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Melyik OpenAI modellt használja?" closed="true" %}}
+{{% ls-details title="Melyik OpenAI modellt használja?" closed="true" %}}
 A szkript alapértelmezetten GPT-4o-t használ. Változtasd meg az `API_MODEL` változót a `generate_md.py`-ban más modell használatához.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Használhatom ezt Wixről Hugóra való migrációhoz?" closed="true" %}}
+{{% ls-details title="Használhatom ezt Wixről Hugóra való migrációhoz?" closed="true" %}}
 Igen. A kimenet standard Markdown helyi képútvonalakkal, amely közvetlenül működik Hugóval, Jekyllel, Astroval és más statikus oldalgenerátorokkal.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Mennyibe kerül ehhez az OpenAI API?" closed="true" %}}
+{{% ls-details title="Mennyibe kerül ehhez az OpenAI API?" closed="true" %}}
 A költség a blogbejegyzéseid számától és hosszától függ. Egy tipikus blog 50 közepes hosszúságú bejegyzéssel néhány dollárba kerül API használattal GPT-4o-val.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Nyílt forráskódú ez az eszköz?" closed="true" %}}
+{{% ls-details title="Nyílt forráskódú ez az eszköz?" closed="true" %}}
 Igen. A teljes forráskód elérhető a [GitHubon](https://github.com/everappz/wix-blog-export) nyílt forráskódú licenc alatt.
-{{% /details %}}
+{{% /ls-details %}}

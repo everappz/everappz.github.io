@@ -17,7 +17,7 @@ readingTime: 6
 La sezione Playlist ti fornisce gli strumenti per organizzare i tuoi brani in elenchi. Include una visualizzazione del contenuto che mostra tutte le playlist create, un pulsante "..." nella barra di navigazione che offre varie azioni relative alle playlist, e una toolbar di navigazione con i pulsanti "Cerca", "Riproduci tutto" e "Mescola tutto". Inoltre, ogni singola playlist ha un pulsante "..." vicino al titolo della playlist, che offre una serie di azioni specifiche per quella playlist.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Schermata Playlist Evermusic" image="/docs/guide/evermusic/evermusic-guide-playlists/img/playlists-main.webp" >}}
+  {{< ls-card title="" subtitle="Schermata Playlist Evermusic" image="/docs/guide/evermusic/evermusic-guide-playlists/img/playlists-main.webp" >}}
 {{< /cards >}}
 
 ## Creare una Playlist
@@ -25,7 +25,7 @@ La sezione Playlist ti fornisce gli strumenti per organizzare i tuoi brani in el
 Per creare una nuova playlist, tocca il pulsante "+" o il pulsante "..." nell'angolo in alto a destra della barra di navigazione, seleziona "Nuova playlist" e assegna un nome alla tua playlist. Dopo averla nominata, tocca "Salva".
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Crea una Nuova Playlist" image="/docs/guide/evermusic/evermusic-guide-playlists/img/playlists-add-new.webp" >}}
+  {{< ls-card title="" subtitle="Crea una Nuova Playlist" image="/docs/guide/evermusic/evermusic-guide-playlists/img/playlists-add-new.webp" >}}
 {{< /cards >}}
 
 Questo apre la finestra di dialogo "Aggiungi canzoni", dove puoi scegliere quali brani aggiungere alla nuova playlist. I brani sono categorizzati per tipo di sorgente e hai diverse opzioni:
@@ -42,7 +42,7 @@ Per impostazione predefinita, puoi aggiungere un brano a una playlist solo una v
 In Evermusic, abbiamo aggiunto la funzionalità di importazione file M3U, così non devi creare playlist manualmente.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Importa Playlist da una Sorgente File" image="/docs/guide/evermusic/evermusic-guide-playlists/img/playlists-import-from-files.webp" >}}
+  {{< ls-card title="" subtitle="Importa Playlist da una Sorgente File" image="/docs/guide/evermusic/evermusic-guide-playlists/img/playlists-import-from-files.webp" >}}
 {{< /cards >}}
 
 Prima di tutto, vai alla sezione 'Playlist'. Poi, tocca il pulsante 'Altro' nell'angolo in alto a destra. Dal menu che appare, seleziona l'opzione 'Importa Playlist'.
@@ -62,7 +62,7 @@ L'app analizzerà il file della playlist, creerà un elenco di brani e localizze
 Quando apri una playlist, appare la "Schermata dettaglio playlist". In questa schermata troverai un pulsante "..." nell'angolo in alto a destra con le opzioni della playlist e tre pulsanti sotto l'immagine dell'artwork: "Cerca", "Continua riproduzione", "Riproduci tutto" e "Mescola tutto". Inoltre, c'è una casella di controllo "Modalità offline".
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Schermata Dettaglio Playlist" image="/docs/guide/evermusic/evermusic-guide-playlists/img/playlists-detail-screen.webp" >}}
+  {{< ls-card title="" subtitle="Schermata Dettaglio Playlist" image="/docs/guide/evermusic/evermusic-guide-playlists/img/playlists-detail-screen.webp" >}}
 {{< /cards >}}
 
 - **Continua riproduzione**: Ripristina la posizione di riproduzione per questa playlist.
@@ -87,7 +87,7 @@ Puoi accedere alle azioni per una playlist toccando il pulsante "..." vicino al 
 - **Elimina playlist:** Elimina la playlist dalla Libreria musicale. Nota che questa azione non può essere annullata.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Menu Altre Azioni per una Playlist" image="/docs/guide/evermusic/evermusic-guide-playlists/img/playlists-more-actions-for-separate-playlist.webp" >}}
+  {{< ls-card title="" subtitle="Menu Altre Azioni per una Playlist" image="/docs/guide/evermusic/evermusic-guide-playlists/img/playlists-more-actions-for-separate-playlist.webp" >}}
 {{< /cards >}}
 
 ## Altre Azioni per la Playlist nella Schermata Dettaglio Playlist
@@ -113,7 +113,7 @@ Puoi accedere alle azioni per una playlist toccando il pulsante "..." nell'angol
 Per cambiare l'ordine delle canzoni in una playlist, tocca il pulsante "..." nell'angolo in alto a destra e seleziona "Seleziona" per entrare in modalità selezione. Usa il controllo di riordinamento e i gesti di trascinamento vicino a ogni brano per spostarli su o giù. Toccando il controllo di riordinamento il brano verrà spostato in cima all'elenco. Per uscire dalla modalità selezione e applicare le modifiche, tocca "Fine".
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Cambia Ordine Canzoni in una Playlist" image="/docs/guide/evermusic/evermusic-guide-playlists/img/playlists-change-songs-order.webp" >}}
+  {{< ls-card title="" subtitle="Cambia Ordine Canzoni in una Playlist" image="/docs/guide/evermusic/evermusic-guide-playlists/img/playlists-change-songs-order.webp" >}}
 {{< /cards >}}
 
 ## Cambiare l'Immagine di Copertina della Playlist
@@ -129,7 +129,7 @@ Apri la playlist e tocca il pulsante "..." nell'angolo in alto a destra, poi sel
 Apri la playlist, tocca il pulsante "..." nell'angolo in alto a destra e seleziona "Seleziona" per entrare in modalità selezione. Scegli i brani che vuoi eliminare e tocca il pulsante "Elimina dalla playlist" nella parte inferiore della schermata. Conferma le modifiche toccando "Fine".
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Modalità Selezione all'Interno di una Playlist" image="/docs/guide/evermusic/evermusic-guide-playlists/img/playlists-selection-mode-in-playlist-details-screen.webp" >}}
+  {{< ls-card title="" subtitle="Modalità Selezione all'Interno di una Playlist" image="/docs/guide/evermusic/evermusic-guide-playlists/img/playlists-selection-mode-in-playlist-details-screen.webp" >}}
 {{< /cards >}}
 
 ## Opzioni Brano
@@ -137,7 +137,7 @@ Apri la playlist, tocca il pulsante "..." nell'angolo in alto a destra e selezio
 Ogni brano in una playlist ha un elenco di azioni, accessibile toccando il pulsante "...". Se non riesci a vedere tutte le azioni, scorri verso il basso per visualizzarle. Puoi eliminare il brano dalla playlist, scaricarlo, modificare i tag audio e altro ancora.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Menu Opzioni Brano in una Playlist" image="/docs/guide/evermusic/evermusic-guide-playlists/img/playlists-track-options.webp" >}}
+  {{< ls-card title="" subtitle="Menu Opzioni Brano in una Playlist" image="/docs/guide/evermusic/evermusic-guide-playlists/img/playlists-track-options.webp" >}}
 {{< /cards >}}
 
 - **Riproduci successivo:** Aggiunge il brano in cima alla coda del lettore.

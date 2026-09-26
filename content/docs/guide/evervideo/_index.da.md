@@ -74,18 +74,18 @@ Denne guide fører dig igennem alle dele af Evervideo på iPhone, iPad og Mac �
 
 {{< cards cols="2">}}
 
-{{< card icon="map" link="/docs/guide/evervideo/evervideo-guide-navigation" title="Navigation" subtitle="Fanebjælke på iPhone, venstre menu på iPad og Mac, kompakt altid-synlig medieafspiller." >}}
+{{< ls-card icon="map" link="/docs/guide/evervideo/evervideo-guide-navigation" title="Navigation" subtitle="Fanebjælke på iPhone, venstre menu på iPad og Mac, kompakt altid-synlig medieafspiller." >}}
 
-{{< card icon="folder" link="/docs/guide/evervideo/evervideo-guide-files" title="Filer" subtitle="Én samlet fane til cloud, NAS, RTSP-streams, lokale filer, USB-drev og overførselskøen." >}}
+{{< ls-card icon="folder" link="/docs/guide/evervideo/evervideo-guide-files" title="Filer" subtitle="Én samlet fane til cloud, NAS, RTSP-streams, lokale filer, USB-drev og overførselskøen." >}}
 
-{{< card icon="collection" link="/docs/guide/evervideo/evervideo-guide-video-library" title="Mediebibliotek" subtitle="Gennemse efter Albums, Genrer, Seneste, Favoritter — plus iOS Photos-biblioteket og Apple Music-biblioteket." >}}
+{{< ls-card icon="collection" link="/docs/guide/evervideo/evervideo-guide-video-library" title="Mediebibliotek" subtitle="Gennemse efter Albums, Genrer, Seneste, Favoritter — plus iOS Photos-biblioteket og Apple Music-biblioteket." >}}
 
-{{< card icon="music-note" link="/docs/guide/evervideo/evervideo-guide-playlists" title="Afspilningslister" subtitle="Byg afspilningslister fra cloud, lokale, Photos eller Musik-bibliotek, importer M3U / M3U8 / CUE." >}}
+{{< ls-card icon="music-note" link="/docs/guide/evervideo/evervideo-guide-playlists" title="Afspilningslister" subtitle="Byg afspilningslister fra cloud, lokale, Photos eller Musik-bibliotek, importer M3U / M3U8 / CUE." >}}
 
-{{< card icon="play" link="/docs/guide/evervideo/evervideo-guide-player" title="Medieafspiller" subtitle="Picture-in-Picture, lyd- og videospor, undertekster, lyd- + videoequalizers, AirPlay, Chromecast." >}}
+{{< ls-card icon="play" link="/docs/guide/evervideo/evervideo-guide-player" title="Medieafspiller" subtitle="Picture-in-Picture, lyd- og videospor, undertekster, lyd- + videoequalizers, AirPlay, Chromecast." >}}
 
-{{< card icon="adjustments" link="/docs/guide/evervideo/evervideo-guide-settings" title="Indstillinger" subtitle="Lydmotor, videodekoder, undertekster, bibliotek, filhåndtering, widgets, personalisering, sprog, sikkerhedskopi." >}}
+{{< ls-card icon="adjustments" link="/docs/guide/evervideo/evervideo-guide-settings" title="Indstillinger" subtitle="Lydmotor, videodekoder, undertekster, bibliotek, filhåndtering, widgets, personalisering, sprog, sikkerhedskopi." >}}
 
-{{< card icon="question-mark-circle" link="/docs/faq/evervideo" title="FAQ" subtitle="Find svar på de mest almindelige spørgsmål om Evervideo." >}}
+{{< ls-card icon="question-mark-circle" link="/docs/faq/evervideo" title="FAQ" subtitle="Find svar på de mest almindelige spørgsmål om Evervideo." >}}
 
 {{< /cards >}}

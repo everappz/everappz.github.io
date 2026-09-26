@@ -7,7 +7,7 @@ tags: ["evermusic", "flacbox", "arhiva", "sigurnosna kopija", "izvoz", "popis pj
 readingTime: 2
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **Sažetak:** Evermusic i Flacbox mogu arhivirati bilo koji popis pjesama, album, izvođača ili žanr u ZIP datoteku s M3U popisom pjesama, omotom albuma i svim audio datotekama. Prenesite ZIP na drugi uređaj, raspakirajte ga i uvezite M3U za trenutnu obnovu popisa pjesama.
@@ -104,22 +104,22 @@ Slijedeći ovaj vodič, možete učinkovito arhivirati i prenositi svoje popise 
 
 ## Često postavljana pitanja
 
-{{% details title="Što je uključeno u ZIP arhivu?" closed="true" %}}
+{{% ls-details title="Što je uključeno u ZIP arhivu?" closed="true" %}}
 Arhiva sadrži sve audio datoteke, M3U datoteku popisa pjesama koja čuva redoslijed pjesama i omot albuma popisa pjesama spremljen kao zasebna slikovna datoteka.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Radi li arhiviranje s datotekama iz oblaka?" closed="true" %}}
+{{% ls-details title="Radi li arhiviranje s datotekama iz oblaka?" closed="true" %}}
 Da. Aplikacija automatski preuzima sve datoteke pohranjene u oblaku prije nego ih doda u arhivu. Napredak preuzimanja možete pratiti u odjeljku prijenosa datoteka.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Mogu li arhivirati i albume, izvođače i žanrove?" closed="true" %}}
+{{% ls-details title="Mogu li arhivirati i albume, izvođače i žanrove?" closed="true" %}}
 Da. Opcija «Dodaj u arhivu» dostupna je za popise pjesama, albume, izvođače i žanrove. Proces je identičan za sve.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Kako prenijeti arhivu na drugi uređaj?" closed="true" %}}
+{{% ls-details title="Kako prenijeti arhivu na drugi uređaj?" closed="true" %}}
 Možete prenijeti ZIP na pohranu u oblaku (Google Drive, Dropbox itd.), koristiti AirDrop ili prenijeti bežično putem ugrađene značajke Wi-Fi Drive u Evermusic i Flacbox.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Hoće li struktura popisa pjesama biti očuvana nakon prijenosa?" closed="true" %}}
+{{% ls-details title="Hoće li struktura popisa pjesama biti očuvana nakon prijenosa?" closed="true" %}}
 Da. M3U datoteka pohranjuje strukturu popisa pjesama s relativnim putanjama. Nakon raspakiravanja na novom uređaju, uvezite M3U datoteku za obnovu popisa pjesama sa svim pjesmama u izvornom redoslijedu.
-{{% /details %}}
+{{% /ls-details %}}

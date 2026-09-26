@@ -15,7 +15,7 @@ tags: [
 ---
 
 
-{{< lottie src="/images/juicy-json/juicy-woman-focused-on-online-learning.json" width="85%" >}}
+{{< ls-lottie src="/images/juicy-json/juicy-woman-focused-on-online-learning.json" width="85%" >}}
 
 ## Tìm hiểu cách sử dụng ứng dụng của chúng tôi
 
@@ -27,7 +27,7 @@ Khám phá FAQ cho ứng dụng của bạn bên dưới để bắt đầu, ho�
 
 ## Chọn ứng dụng của bạn
 
-{{< product-doc-cards section="faq" >}}
+{{< ls-product-doc-cards section="faq" >}}
 
 ## Vấn đề thường gặp và câu trả lời
 
@@ -35,7 +35,7 @@ Khám phá FAQ cho ứng dụng của bạn bên dưới để bắt đầu, ho�
 
 <div class="hx:w-full">
 
-{{% details title="Tại sao tôi không thể đăng nhập vào pCloud trên phiên bản iOS cũ hơn (15.8.4)?" closed="true" %}}
+{{% ls-details title="Tại sao tôi không thể đăng nhập vào pCloud trên phiên bản iOS cũ hơn (15.8.4)?" closed="true" %}}
 Trang đăng nhập web của pCloud có thể không hiển thị đúng trên các phiên bản iOS cũ như 15.8.4, khiến bạn không thể nhập email và mật khẩu trong màn hình kết nối đám mây.<br><br>
 
 Để khắc phục, bạn có thể sử dụng giao thức **WebDAV**, được pCloud hỗ trợ và hoạt động ổn định trên tất cả các phiên bản iOS.
@@ -49,9 +49,9 @@ Trang đăng nhập web của pCloud có thể không hiển thị đúng trên 
 Mở ứng dụng → Kết nối → Kết nối với Bộ nhớ đám mây → Chọn **WebDAV** → Nhập thông tin đăng nhập và URL máy chủ.
 
 Phương pháp này sẽ cho phép bạn kết nối với bộ nhớ pCloud và truy cập các tệp của bạn mà không gặp sự cố trên các thiết bị cũ.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Cách phát nhạc qua AirPlay từ Mac (macOS)?" closed="true" %}}
+{{% ls-details title="Cách phát nhạc qua AirPlay từ Mac (macOS)?" closed="true" %}}
 Phiên bản macOS của ứng dụng không có nút kết nối AirPlay, Chromecast hoặc Bluetooth tích hợp như trên iOS.<br><br>
 
 Để sử dụng **AirPlay** trên MacBook Pro, hãy thực hiện theo các bước sau:
@@ -62,9 +62,9 @@ Phiên bản macOS của ứng dụng không có nút kết nối AirPlay, Chrom
 4. Chọn thiết bị mong muốn để bắt đầu phát nhạc.  
 
 Thao tác này sẽ chuyển tất cả âm thanh hệ thống (bao gồm từ Evermusic hoặc Flacbox) đến thiết bị AirPlay bạn đã chọn.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Tại sao gói Premium của tôi chưa được kích hoạt trên Mac dù tôi đã mua trên iPhone?" closed="true" %}}
+{{% ls-details title="Tại sao gói Premium của tôi chưa được kích hoạt trên Mac dù tôi đã mua trên iPhone?" closed="true" %}}
 Các giao dịch mua trọn đời và đăng ký được đồng bộ giữa iOS và Mac qua **iCloud**.<br><br>
 
 Để kích hoạt Premium trên Mac:<br>
@@ -76,9 +76,9 @@ Các giao dịch mua trọn đời và đăng ký được đồng bộ giữa i
 - Ngoài ra, nhấn **Khôi phục giao dịch mua** trong cài đặt ứng dụng trên cả hai thiết bị<br><br>
 
 Các tính năng Premium của bạn sẽ tự động kích hoạt trên Mac.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Làm cách nào để đồng bộ danh sách phát tự động giữa các thiết bị?" closed="true" %}}
+{{% ls-details title="Làm cách nào để đồng bộ danh sách phát tự động giữa các thiết bị?" closed="true" %}}
 Hiện tại **không có tính năng đồng bộ tự động** cho danh sách phát.<br><br>
 
 Bạn có thể sử dụng một trong các tùy chọn sau:<br>
@@ -88,9 +88,9 @@ Bạn có thể sử dụng một trong các tùy chọn sau:<br>
   - [Cách nhập danh sách phát](/docs/howto/how-to-import-m3u-playlist-to-evermusic-and-flacbox/)<br>
 - **Lưu trữ danh sách phát hoặc album** và chuyển qua ZIP:<br>
   - [Hướng dẫn lưu trữ danh sách phát](/docs/howto/how-to-archive-zip-playlists-albums-artists-and-genres-in-evermusic-flacbox-and-transfer-to/)
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Các ứng dụng của bạn có an toàn không? Tôi có thể tắt phân tích không?" closed="true" %}}
+{{% ls-details title="Các ứng dụng của bạn có an toàn không? Tôi có thể tắt phân tích không?" closed="true" %}}
 Có, quyền riêng tư của bạn là ưu tiên hàng đầu của chúng tôi.<br><br>
 
 - Tất cả dữ liệu — tệp nhạc, cài đặt, thông tin đăng nhập đám mây — được lưu trữ trên thiết bị của bạn<br>
@@ -104,18 +104,18 @@ Thông tin thêm:<br>
 
 Nếu sử dụng quảng cáo được cá nhân hóa, Google Mobile Ads yêu cầu hiển thị cài đặt đồng ý.<br>
 Người dùng Premium không thấy quảng cáo và SDK quảng cáo hoàn toàn bị tắt.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Các ứng dụng của bạn có hỗ trợ Chia sẻ gia đình không?" closed="true" %}}
+{{% ls-details title="Các ứng dụng của bạn có hỗ trợ Chia sẻ gia đình không?" closed="true" %}}
 Có, Chia sẻ gia đình được hỗ trợ.<br><br>
 
 Để chia sẻ giao dịch mua trong ứng dụng:<br>
 - Đảm bảo giao dịch mua được đặt để chia sẻ với nhóm gia đình của bạn<br>
 - Trên thiết bị của thành viên gia đình, đi đến **Cài đặt > Giao dịch mua > Khôi phục giao dịch mua**<br>
 - Thao tác này sẽ yêu cầu dữ liệu mua hàng từ máy chủ Apple và kích hoạt trên thiết bị của họ
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Cách tăng tốc độ đồng bộ siêu dữ liệu và đám mây?" closed="true" %}}
+{{% ls-details title="Cách tăng tốc độ đồng bộ siêu dữ liệu và đám mây?" closed="true" %}}
 Để cải thiện tốc độ đồng bộ, hãy bật các tác vụ nền:<br><br>
 
 - **Cài đặt → Thư viện nhạc → Đọc siêu dữ liệu → Đọc siêu dữ liệu trong nền**<br>
@@ -123,14 +123,14 @@ Có, Chia sẻ gia đình được hỗ trợ.<br><br>
 
 Ngoài ra, trên macOS, tăng tốc độ đọc siêu dữ liệu qua **Cài đặt → Thư viện nhạc**.<br>
 Nếu trình phát đang hoạt động (đang phát âm thanh), iOS sẽ không tạm dừng ứng dụng, cho phép đồng bộ liên tục.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Làm cách nào để hủy đăng ký?" closed="true" %}}
+{{% ls-details title="Làm cách nào để hủy đăng ký?" closed="true" %}}
 Bạn có thể hủy đăng ký theo hướng dẫn chính thức của Apple:<br>
 👉 [Cách hủy đăng ký](https://support.apple.com/en-us/118428)
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Làm cách nào để kết nối và phát âm thanh từ WD MyCloud EX2 Ultra?" closed="true" %}}
+{{% ls-details title="Làm cách nào để kết nối và phát âm thanh từ WD MyCloud EX2 Ultra?" closed="true" %}}
 
 Khi bạn thêm kết nối trong ứng dụng qua **Kết nối > Kết nối với Bộ nhớ đám mây > My Cloud Home**, tính năng này được thiết kế chính thức để hỗ trợ các thiết bị **WD MyCloud Home**.<br>
 WD MyCloud EX2 Ultra sử dụng quyền truy cập hạn chế cho các ứng dụng.<br><br>
@@ -144,16 +144,16 @@ Tuy nhiên, nếu bạn đã kết nối thành công với **WD MyCloud EX2 Ult
 5. Bạn có thể phát trực tuyến hoặc tải xuống chúng trực tiếp<br><br>
 
 ⚠️ Chỉ các thư mục được tạo qua ứng dụng mới có thể truy cập từ NAS.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Cách kết nối với Koofr.eu?" closed="true" %}}
+{{% ls-details title="Cách kết nối với Koofr.eu?" closed="true" %}}
 Bạn có thể kết nối Koofr bằng **WebDAV**.<br><br>
 
 - Hướng dẫn cài đặt WebDAV của Koofr: [blog koofr.eu](https://koofr.eu/blog/posts/3-ways-to-map-koofr-as-a-network-drive-explained)<br>
 - Hướng dẫn WebDAV Evermusic/Flacbox: [Cách kết nối bộ nhớ NAS bằng WebDAV và nghe nhạc trên iPhone hoặc Mac](/docs/howto/how-to-connect-nas-storage-using-webdav-and-listen-to-music-on-your-iphone-or-mac/)
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Các URL scheme của ứng dụng là gì?" closed="true" %}}
+{{% ls-details title="Các URL scheme của ứng dụng là gì?" closed="true" %}}
 Dưới đây là các scheme được hỗ trợ:<br><br>
 
 **Evermusic**<br>
@@ -172,35 +172,35 @@ Dưới đây là các scheme được hỗ trợ:<br><br>
 **Evervideo**<br>
 - iOS: `lsevervideo://`<br>
 - macOS: `lsevervideomac://`
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Nhạc dừng phát khi ứng dụng ở nền — cách khắc phục?" closed="true" %}}
+{{% ls-details title="Nhạc dừng phát khi ứng dụng ở nền — cách khắc phục?" closed="true" %}}
 Nếu ứng dụng bị treo hoặc tạm dừng ở nền:<br>
 - Đi đến **Cài đặt > Thư viện nhạc > Đồng bộ nhạc trực tuyến > Đồng bộ nền → Tắt**<br>
 - **Cài đặt > Thư viện nhạc > Đọc siêu dữ liệu > Đọc siêu dữ liệu trong nền → Tắt**<br>
 - **Cài đặt > Trình quản lý tệp > Chuyển dữ liệu nền → Tắt**
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Phát lại liên tục không hoạt động — cách khắc phục?" closed="true" %}}
+{{% ls-details title="Phát lại liên tục không hoạt động — cách khắc phục?" closed="true" %}}
 Phát lại liên tục phụ thuộc vào phiên bản iOS và công cụ âm thanh.<br>
 Hãy thử chuyển đổi công cụ âm thanh:<br>
 - Đi đến **Cài đặt → Trình phát âm thanh → Chung → Bộ xử lý âm thanh**<br>
 - Chọn **Core Audio** để hỗ trợ phát lại liên tục tốt hơn
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Tại sao ứng dụng chỉ hiển thị 100 mục trong danh sách?" closed="true" %}}
+{{% ls-details title="Tại sao ứng dụng chỉ hiển thị 100 mục trong danh sách?" closed="true" %}}
 Ứng dụng sử dụng phân trang để tối ưu hiệu suất.<br>
 Để tắt tính năng này:<br>
 - Đi đến **Cài đặt → Cá nhân hóa → Giới hạn tải nội dung → Đã tắt**<br>
 Lúc này tất cả các mục sẽ được tải cùng một lúc.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Tại sao có ký tự lạ trong siêu dữ liệu?" closed="true" %}}
+{{% ls-details title="Tại sao có ký tự lạ trong siêu dữ liệu?" closed="true" %}}
 Hãy thử bật tính năng chuẩn hóa siêu dữ liệu:<br>
 - **Cài đặt → Thư viện nhạc → Đọc siêu dữ liệu → Chuẩn hóa mã hóa siêu dữ liệu**
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Tại sao ứng dụng không thể đọc tên thư mục có ký tự đặc biệt?" closed="true" %}}
+{{% ls-details title="Tại sao ứng dụng không thể đọc tên thư mục có ký tự đặc biệt?" closed="true" %}}
 Đây là sự cố đã biết với **giao thức SMB2**.<br><br>
 
 Hãy thử các giải pháp sau:<br>
@@ -210,9 +210,9 @@ Hãy thử các giải pháp sau:<br>
   - Chọn thư mục/tệp bằng menu gốc của Apple<br><br>
 
 Ngoài ra, kết nối bằng **WebDAV** hoặc **DLNA** nếu NAS của bạn hỗ trợ chúng.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Cách tải lên và quản lý nhạc trong iCloud?" closed="true" %}}
+{{% ls-details title="Cách tải lên và quản lý nhạc trong iCloud?" closed="true" %}}
 – **Cách tải nhạc lên iCloud?**  <br>
 Truy cập [https://www.icloud.com](https://www.icloud.com) trong trình duyệt, tạo thư mục và tải tệp nhạc trực tiếp từ Mac hoặc PC của bạn.<br>
 
@@ -225,9 +225,9 @@ Bạn có hai lựa chọn:  <br>
 
 Tìm hiểu thêm tại đây: [Cách phát trực tuyến nhạc từ iCloud Drive trên iPhone hoặc Mac](/docs/howto/how-to-listen-to-music-from-icloud-drive-on-your-iphone-or-mac/)
 
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Làm cách nào để chuyển thư viện nhạc 10GB từ Windows 11 sang iPhone để phát lại ngoại tuyến?" closed="true" %}}
+{{% ls-details title="Làm cách nào để chuyển thư viện nhạc 10GB từ Windows 11 sang iPhone để phát lại ngoại tuyến?" closed="true" %}}
 
 Bạn có nhiều tùy chọn đáng tin cậy để chuyển thư viện nhạc từ PC Windows 11 sang iPhone và sử dụng ngoại tuyến trong ứng dụng. Hãy chọn phương pháp phù hợp nhất với bạn:
 
@@ -253,6 +253,6 @@ Bạn có nhiều tùy chọn đáng tin cậy để chuyển thư viện nhạc
 
 ⚠️ Khi chuyển thư viện lớn (10GB+), chuyển qua USB có dây thường nhanh nhất và ổn định nhất.
 
-{{% /details %}}
+{{% /ls-details %}}
 
 </div>

@@ -15,7 +15,7 @@ readingTime: 11
 Op dit scherm kun je verschillende bronnen verbinden die je audiobestanden bevatten. Je kunt populaire cloudservices zoals Google Drive, Dropbox, OneDrive, iCloud en andere integreren, maar ook je Mac of PC verbinden. Daarnaast heb je de mogelijkheid om audiobestanden te bewerken die zich in Apple Time Capsule, WD Cloud Home of een NAS bevinden die SMB of WebDAV ondersteunt.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evertag Verbindingen Scherm" image="/docs/guide/evertag/img/connections.webp" >}}
+  {{< ls-card title="" subtitle="Evertag Verbindingen Scherm" image="/docs/guide/evertag/img/connections.webp" >}}
 {{< /cards >}}
 
 ## Snelle toegang
@@ -151,7 +151,7 @@ Dit zijn de beschikbare acties:
 - **Raster/Lijstweergave**: Schakel tussen twee weergavemodi: tabelweergave en miniatuurweergave. De tabelweergave toont bestanden in een lijst, terwijl de miniatuurweergave visuele weergaven van de bestanden toont, waardoor het gemakkelijker is om inhoud in één oogopslag te identificeren.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evertag Cloudmap Sorteren" image="/docs/guide/evertag/img/cloud-storage-sort.webp" >}}
+  {{< ls-card title="" subtitle="Evertag Cloudmap Sorteren" image="/docs/guide/evertag/img/cloud-storage-sort.webp" >}}
 {{< /cards >}}
 
 ## Online bestanden bewerken
@@ -163,7 +163,7 @@ Wanneer je meerdere bestanden in je cloudopslag in deze app wilt beheren, kun je
 - **Verschillende acties uitvoeren**: Nadat je de bestanden of mappen hebt geselecteerd die je wilt beheren, heb je toegang tot verschillende op je behoeften afgestemde acties:
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evertag Bestand Selecteren" image="/docs/guide/evertag/img/cloud-storage-file-select.webp" >}}
+  {{< ls-card title="" subtitle="Evertag Bestand Selecteren" image="/docs/guide/evertag/img/cloud-storage-file-select.webp" >}}
 {{< /cards >}}
 
 ## Bestandsacties
@@ -180,7 +180,7 @@ Tik erop om een lijst met beschikbare acties te onthullen:
 - **Verwijderen**: Wees voorzichtig met deze actie, want hiermee wordt het bestand permanent verwijderd uit je cloudopslag. **Dit verwijderen kan niet ongedaan worden gemaakt**.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evertag Bestandsopties" image="/docs/guide/evertag/img/cloud-storage-file-options.webp" >}}
+  {{< ls-card title="" subtitle="Evertag Bestandsopties" image="/docs/guide/evertag/img/cloud-storage-file-options.webp" >}}
 {{< /cards >}}
 
 Als de lijst met acties de beschikbare schermruimte overschrijdt, scrol dan gewoon omlaag in het actiemenu voor toegang tot extra opties.
@@ -196,5 +196,5 @@ Voor elke map in je cloudopslag zijn er verschillende acties beschikbaar. Om dez
 - **Verwijderen**: Wees voorzichtig met deze actie, want hiermee wordt de map en de inhoud ervan permanent verwijderd uit je cloudopslag. **Deze actie kan niet ongedaan worden gemaakt**.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evertag Mapopties" image="/docs/guide/evertag/img/cloud-storage-folder-options.webp" >}}
+  {{< ls-card title="" subtitle="Evertag Mapopties" image="/docs/guide/evertag/img/cloud-storage-folder-options.webp" >}}
 {{< /cards >}}

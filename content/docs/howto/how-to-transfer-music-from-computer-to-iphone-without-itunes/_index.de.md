@@ -7,14 +7,14 @@ keywords: ["Musik ohne iTunes übertragen", "wifi drive iphone", "Musik drahtlos
 readingTime: 2
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **Zusammenfassung:** Verwenden Sie Wi-Fi Drive in Evermusic, Flacbox oder Evertag, um Musik von Ihrem Computer auf Ihr iPhone oder iPad zu übertragen. Kein iTunes erforderlich. Beide Geräte müssen sich im selben Wi-Fi-Netzwerk befinden. Übertragen Sie per Webbrowser oder WebDAV (Mac Finder / Windows Datei-Explorer).
 
 Sie können sich ein Video-Tutorial von [**TECHGUYPH**](https://www.youtube.com/channel/UCgpf09gGFE_c_3pPTtTpnzg) ansehen oder die Textversion unten lesen.
 <br><br>
-{{< youtubecard id="CqdqrQ0ge70" title="Can We Wirelessly Put Offline Music on iPhones?" >}}
+{{< ls-youtubecard id="CqdqrQ0ge70" title="Can We Wirelessly Put Offline Music on iPhones?" >}}
 
 Wi-Fi Drive ist die ultimative Lösung, um Ihre Musiksammlung nahtlos von Ihrem Computer auf Ihr iPhone oder iPad zu übertragen, ohne iTunes zu benötigen. Diese unkomplizierte Methode ermöglicht es Ihnen, mühelos mehrere Audio-Dateien und sogar ganze Ordner über Ihre lokale Wi-Fi-Verbindung herunter- oder hochzuladen. Sowohl Ihr Computer als auch Ihr iOS-Gerät sollten mit demselben Wi-Fi-Netzwerk verbunden sein, damit alles reibungslos funktioniert.
 
@@ -84,22 +84,22 @@ Mit Wi-Fi Drive gehören die Tage des Kampfes mit iTunes der Vergangenheit an. G
 
 ## Häufig gestellte Fragen
 
-{{% details title="Welche Audioformate kann ich mit Wi-Fi Drive übertragen?" closed="true" %}}
+{{% ls-details title="Welche Audioformate kann ich mit Wi-Fi Drive übertragen?" closed="true" %}}
 Wi-Fi Drive überträgt jeden Dateityp. Evermusic und Flacbox unterstützen die Wiedergabe von MP3, FLAC, AAC, WAV, AIFF, OGG, WMA und vielen anderen Audioformaten.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Brauche ich iTunes, um Musik auf mein iPhone zu laden?" closed="true" %}}
+{{% ls-details title="Brauche ich iTunes, um Musik auf mein iPhone zu laden?" closed="true" %}}
 Nein. Wi-Fi Drive überträgt Musik direkt über Ihr lokales Wi-Fi-Netzwerk. iTunes wird nicht benötigt.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Kann ich ganze Musikordner auf einmal übertragen?" closed="true" %}}
+{{% ls-details title="Kann ich ganze Musikordner auf einmal übertragen?" closed="true" %}}
 Ja. Die Webbrowser-Methode unterstützt das Hochladen ganzer Ordner, einschließlich verschachtelter Unterordner.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Ist meine Musikübertragung sicher?" closed="true" %}}
+{{% ls-details title="Ist meine Musikübertragung sicher?" closed="true" %}}
 Wi-Fi Drive läuft nur in Ihrem lokalen Netzwerk. Sie können auch einen Benutzernamen und ein Passwort für zusätzliche Sicherheit festlegen.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Welche Apps unterstützen Wi-Fi Drive für Musik?" closed="true" %}}
+{{% ls-details title="Welche Apps unterstützen Wi-Fi Drive für Musik?" closed="true" %}}
 Evermusic, Flacbox und Evertag enthalten alle Wi-Fi Drive zum Übertragen von Audio-Dateien von Ihrem Computer.
-{{% /details %}}
+{{% /ls-details %}}

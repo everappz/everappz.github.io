@@ -72,19 +72,19 @@ Den här guiden hjälper dig att få ut det mesta av Evermusic på din iPhone, i
 
 
 {{< cards >}}
-  {{< card icon="location-marker" title="Navigering" subtitle="Lär dig navigera i Evermusic med hjälp av flikfältet på iPhone eller vänstermenyn på iPad och Mac." link="/docs/guide/evermusic/evermusic-guide-navigation" >}}
+  {{< ls-card icon="location-marker" title="Navigering" subtitle="Lär dig navigera i Evermusic med hjälp av flikfältet på iPhone eller vänstermenyn på iPad och Mac." link="/docs/guide/evermusic/evermusic-guide-navigation" >}}
 
-  {{< card icon="cloud" title="Anslutningar" subtitle="Anslut dina molnkonton och hantera onlinefiler med den inbyggda filhanteraren." link="/docs/guide/evermusic/evermusic-guide-connections" >}}
+  {{< ls-card icon="cloud" title="Anslutningar" subtitle="Anslut dina molnkonton och hantera onlinefiler med den inbyggda filhanteraren." link="/docs/guide/evermusic/evermusic-guide-connections" >}}
 
-  {{< card icon="collection" title="Musikbibliotek" subtitle="Organisera och utforska dina spår, album och artister i musikbiblioteket." link="/docs/guide/evermusic/evermusic-guide-music-library" >}}
+  {{< ls-card icon="collection" title="Musikbibliotek" subtitle="Organisera och utforska dina spår, album och artister i musikbiblioteket." link="/docs/guide/evermusic/evermusic-guide-music-library" >}}
 
-  {{< card icon="music-note" title="Spellistor" subtitle="Skapa och arrangera spellistor som passar ditt humör eller tillfälle." link="/docs/guide/evermusic/evermusic-guide-playlists" >}}
+  {{< ls-card icon="music-note" title="Spellistor" subtitle="Skapa och arrangera spellistor som passar ditt humör eller tillfälle." link="/docs/guide/evermusic/evermusic-guide-playlists" >}}
 
-  {{< card icon="folder" title="Lokala filer" subtitle="Öppna och hantera offlinemusik via avsnittet Lokala filer." link="/docs/guide/evermusic/evermusic-guide-local-files" >}}
+  {{< ls-card icon="folder" title="Lokala filer" subtitle="Öppna och hantera offlinemusik via avsnittet Lokala filer." link="/docs/guide/evermusic/evermusic-guide-local-files" >}}
 
-  {{< card icon="play" title="Musikspelare" subtitle="Styr uppspelning, kö och ljudinställningar som equalizer och sömntimer." link="/docs/guide/evermusic/evermusic-guide-player" >}}
+  {{< ls-card icon="play" title="Musikspelare" subtitle="Styr uppspelning, kö och ljudinställningar som equalizer och sömntimer." link="/docs/guide/evermusic/evermusic-guide-player" >}}
 
-  {{< card icon="adjustments" title="Inställningar" subtitle="Anpassa Evermusics utseende, funktioner och prestandainställningar." link="/docs/guide/evermusic/evermusic-guide-settings" >}}
+  {{< ls-card icon="adjustments" title="Inställningar" subtitle="Anpassa Evermusics utseende, funktioner och prestandainställningar." link="/docs/guide/evermusic/evermusic-guide-settings" >}}
 
-  {{< card icon="question-mark-circle" title="FAQ" subtitle="Hitta snabba svar på vanliga frågor i vår FAQ-sektion." link="/docs/faq/evermusic" >}}
+  {{< ls-card icon="question-mark-circle" title="FAQ" subtitle="Hitta snabba svar på vanliga frågor i vår FAQ-sektion." link="/docs/faq/evermusic" >}}
 {{< /cards >}}

@@ -12,7 +12,7 @@ authors:
     image: "/images/about/artem-meleshko-founder-everappz.webp"
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 **En bref :** Evermusic 6.8 ajoute l'intégration d'Aliyun Drive et Synology NAS (avec QuickConnect), six nouveaux effets de défilement des pochettes d'album, un lecteur plein écran minimaliste, la gestion des fichiers par glisser-déposer et un chargement plus rapide des illustrations. Disponible maintenant pour iOS et macOS.
 
@@ -77,18 +77,18 @@ Evermusic 6.8 se concentre sur trois domaines : une compatibilité cloud élargi
 
 ## Questions fréquemment posées
 
-{{% details title="Comment connecter un Synology NAS à Evermusic ?" closed="true" %}}
+{{% ls-details title="Comment connecter un Synology NAS à Evermusic ?" closed="true" %}}
 Allez dans l'onglet Connexions, sélectionnez Synology et entrez votre QuickConnectID. Evermusic se connecte directement sans nécessiter d'adresses IP ni de configuration VPN.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="L'utilisation d'Aliyun Drive avec Evermusic est-elle gratuite ?" closed="true" %}}
+{{% ls-details title="L'utilisation d'Aliyun Drive avec Evermusic est-elle gratuite ?" closed="true" %}}
 Oui. Si vous avez un compte Aliyun Drive, vous pouvez le connecter à Evermusic sans coût supplémentaire. Les limites de stockage dépendent de votre abonnement Aliyun Drive.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Puis-je personnaliser le style de défilement des pochettes d'album ?" closed="true" %}}
+{{% ls-details title="Puis-je personnaliser le style de défilement des pochettes d'album ?" closed="true" %}}
 Oui. Allez dans Settings > Audio Player > Personalization > Album Covers Scrolling Style et choisissez parmi six options : MacDoc, Linear, Rotary, Inverted Rotary, Cylinder ou CoverFlow.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="L'écran de lecteur minimaliste fonctionne-t-il avec tous les appareils ?" closed="true" %}}
+{{% ls-details title="L'écran de lecteur minimaliste fonctionne-t-il avec tous les appareils ?" closed="true" %}}
 Oui. Le style de pochette d'album plein écran est disponible sur tous les iPhones, iPads et Macs pris en charge exécutant Evermusic 6.8 ou version ultérieure.
-{{% /details %}}
+{{% /ls-details %}}

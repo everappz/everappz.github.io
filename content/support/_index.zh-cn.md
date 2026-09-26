@@ -3,7 +3,9 @@ date: '2025-06-12T17:00:00+00:00'
 title: '支持'
 ---
 
-{{< lottie src="/images/juicy-json/juicy-girl-is-working-on-laptop-at-a-remote-job.json" width="80%" >}}
+{{< ls-lottie src="/images/juicy-json/juicy-girl-is-working-on-laptop-at-a-remote-job.json" width="80%" >}}
+
+{{< ls-docs-search >}}
 
 ## 需要帮助？我们随时为您服务
 
@@ -19,9 +21,9 @@ title: '支持'
 为了节省时间并获得即时解答，请查看我们最实用的资源。许多常见问题已在其中得到解答：
 
 {{< cards >}}
-  {{< card icon="book-open" link="/docs/guide" title="用户指南" >}}
-  {{< card icon="question-mark-circle" link="/docs/faq" title="常见问题" >}}
-  {{< card icon="light-bulb" link="/docs/howto" title="使用教程" >}}
+  {{< ls-card icon="book-open" link="/docs/guide" title="用户指南" >}}
+  {{< ls-card icon="question-mark-circle" link="/docs/faq" title="常见问题" >}}
+  {{< ls-card icon="light-bulb" link="/docs/howto" title="使用教程" >}}
 {{< /cards >}}
 
 这些指南旨在帮助您充分利用我们的应用——从设置到高级功能。

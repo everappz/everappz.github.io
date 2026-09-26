@@ -74,18 +74,18 @@ Evervideo ใช้ SDK อย่างเป็นทางการและ�
 
 {{< cards cols="2">}}
 
-{{< card icon="map" link="/docs/guide/evervideo/evervideo-guide-navigation" title="การนำทาง" subtitle="แถบแท็บบน iPhone, เมนูซ้ายบน iPad และ Mac, โปรแกรมเล่นมีเดียขนาดกะทัดรัดที่แสดงตลอดเวลา" >}}
+{{< ls-card icon="map" link="/docs/guide/evervideo/evervideo-guide-navigation" title="การนำทาง" subtitle="แถบแท็บบน iPhone, เมนูซ้ายบน iPad และ Mac, โปรแกรมเล่นมีเดียขนาดกะทัดรัดที่แสดงตลอดเวลา" >}}
 
-{{< card icon="folder" link="/docs/guide/evervideo/evervideo-guide-files" title="ไฟล์" subtitle="แท็บรวมสำหรับคลาวด์, NAS, สตรีม RTSP, ไฟล์ในเครื่อง, USB drive และคิวการถ่ายโอน" >}}
+{{< ls-card icon="folder" link="/docs/guide/evervideo/evervideo-guide-files" title="ไฟล์" subtitle="แท็บรวมสำหรับคลาวด์, NAS, สตรีม RTSP, ไฟล์ในเครื่อง, USB drive และคิวการถ่ายโอน" >}}
 
-{{< card icon="collection" link="/docs/guide/evervideo/evervideo-guide-video-library" title="คลังมีเดีย" subtitle="เรียกดูตาม Albums, Genres, ล่าสุด, รายการโปรด — รวมถึงไลบรารี iOS Photos และ Apple Music" >}}
+{{< ls-card icon="collection" link="/docs/guide/evervideo/evervideo-guide-video-library" title="คลังมีเดีย" subtitle="เรียกดูตาม Albums, Genres, ล่าสุด, รายการโปรด — รวมถึงไลบรารี iOS Photos และ Apple Music" >}}
 
-{{< card icon="music-note" link="/docs/guide/evervideo/evervideo-guide-playlists" title="เพลย์ลิสต์" subtitle="สร้างเพลย์ลิสต์จากคลาวด์, ไฟล์ในเครื่อง, Photos หรือ Music library นำเข้า M3U / M3U8 / CUE" >}}
+{{< ls-card icon="music-note" link="/docs/guide/evervideo/evervideo-guide-playlists" title="เพลย์ลิสต์" subtitle="สร้างเพลย์ลิสต์จากคลาวด์, ไฟล์ในเครื่อง, Photos หรือ Music library นำเข้า M3U / M3U8 / CUE" >}}
 
-{{< card icon="play" link="/docs/guide/evervideo/evervideo-guide-player" title="โปรแกรมเล่นมีเดีย" subtitle="Picture-in-Picture, แทร็กเสียงและวิดีโอ, ซับไตเติ้ล, อีควอไลเซอร์เสียงและวิดีโอ, AirPlay, Chromecast" >}}
+{{< ls-card icon="play" link="/docs/guide/evervideo/evervideo-guide-player" title="โปรแกรมเล่นมีเดีย" subtitle="Picture-in-Picture, แทร็กเสียงและวิดีโอ, ซับไตเติ้ล, อีควอไลเซอร์เสียงและวิดีโอ, AirPlay, Chromecast" >}}
 
-{{< card icon="adjustments" link="/docs/guide/evervideo/evervideo-guide-settings" title="การตั้งค่า" subtitle="เครื่องยนต์เสียง, ตัวถอดรหัสวิดีโอ, ซับไตเติ้ล, ไลบรารี, ตัวจัดการไฟล์, วิดเจ็ต, การปรับแต่ง, ภาษา, สำรองข้อมูล" >}}
+{{< ls-card icon="adjustments" link="/docs/guide/evervideo/evervideo-guide-settings" title="การตั้งค่า" subtitle="เครื่องยนต์เสียง, ตัวถอดรหัสวิดีโอ, ซับไตเติ้ล, ไลบรารี, ตัวจัดการไฟล์, วิดเจ็ต, การปรับแต่ง, ภาษา, สำรองข้อมูล" >}}
 
-{{< card icon="question-mark-circle" link="/docs/faq/evervideo" title="FAQ" subtitle="ค้นหาคำตอบสำหรับคำถามทั่วไปเกี่ยวกับ Evervideo" >}}
+{{< ls-card icon="question-mark-circle" link="/docs/faq/evervideo" title="FAQ" subtitle="ค้นหาคำตอบสำหรับคำถามทั่วไปเกี่ยวกับ Evervideo" >}}
 
 {{< /cards >}}

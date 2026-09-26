@@ -7,7 +7,7 @@ keywords: ["FTP szerver iPhone", "FTP szerver iPad", "hogyan állíts be FTP-t i
 readingTime: 9
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 Az FTP a fájlátvitel régi megbízható eszköze. Évtizedek óta létezik, éppen ezért annyira hasznos: szinte minden, ami képes egy szerverrel kommunikálni, érti. A kamerák, a smart TV-k, a routerek, a hálózati meghajtók, az automatizálási eszközök és minden asztali FTP-alkalmazás beszéli az FTP-t. Az [Everdisk](/products/everdisk) segítségével FTP szervert futtathatsz az iPhone-odon vagy iPad-eden, így a telefon olyan hellyé válik, amelyhez ezek az eszközök és alkalmazások csatlakozhatnak és fájlokat mozgathatnak.
 
@@ -118,44 +118,44 @@ A **Fájlszerkesztés** kapcsoló a Beállítások, Megosztás, Hozzáférés me
 
 ## Gyakran ismételt kérdések
 
-{{% details title="Mi az iPhone-om FTP-címe és portja?" closed="true" %}}
+{{% ls-details title="Mi az iPhone-om FTP-címe és portja?" closed="true" %}}
 Miután elindítod a megosztást, az Everdisk mutatja a címet a Megosztás képernyőn. Így néz ki: ftp://192.168.1.20:2121. A 2121 az a port, amelyet az Everdisk az FTP-hez használ, az első rész pedig az iPhone-od Wi-Fi-címe, így a tiéd más lesz.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Hogyan csatlakoztatom a FileZillát vagy a Cyberduckot az iPhone-omhoz?" closed="true" %}}
+{{% ls-details title="Hogyan csatlakoztatom a FileZillát vagy a Cyberduckot az iPhone-omhoz?" closed="true" %}}
 Nyisd meg az alkalmazást és hozz létre egy új kapcsolatot. Állítsd be a Host mezőt az iPhone-od Wi-Fi-címére, a Port mezőt pedig 2121-re. Add meg a Felhasználónevedet és Jelszavadat, vagy válaszd az Anonymous lehetőséget, ha nem állítottál be egyet az Everdiskben. Csatlakozz, és mindkét irányba húzhatsz fájlokat, amikor a Fájlszerkesztés be van kapcsolva.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Csatlakozhatok az iPhone-om FTP-jéhez Windowsról?" closed="true" %}}
+{{% ls-details title="Csatlakozhatok az iPhone-om FTP-jéhez Windowsról?" closed="true" %}}
 Igen. Nyisd meg a Fájlkezelőt, kattints a címsorra, írd be az Everdiskből származó FTP-címet (például ftp://192.168.1.20:2121), és nyomd meg az Enter billentyűt. Add meg a bejelentkezésedet, ha beállítottál egyet, vagy folytasd vendégként. Feltöltésekhez és több vezérléshez használj inkább egy FTP-alkalmazást, mint a FileZilla.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Kell bejelentkezés az FTP-hez?" closed="true" %}}
+{{% ls-details title="Kell bejelentkezés az FTP-hez?" closed="true" %}}
 Nem, a bejelentkezés opcionális. Hagyd a Felhasználónevet és a Jelszót üresen a Beállítások, Megosztás, Hozzáférés menüben, és csatlakozz Anonymous módon, amelyet a legtöbb FTP-kliens kínál. Állíts be egy bejelentkezést, ha azt szeretnéd, hogy a kapcsolatok először bejelentkezzenek.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Miért csak letölteni tudok, feltölteni nem FTP felett?" closed="true" %}}
+{{% ls-details title="Miért csak letölteni tudok, feltölteni nem FTP felett?" closed="true" %}}
 Két gyakori ok van. Először, a Fájlszerkesztés kapcsolónak a Beállítások, Megosztás, Hozzáférés menüben be kell kapcsolva lennie a feltöltések, átnevezések és törlések engedélyezéséhez. Másodszor, a Mac Finder az FTP-t csak olvashatóként nyitja meg, ezért használj egy FTP-alkalmazást, mint a FileZilla vagy a Cyberduck, amikor fel szeretnél tölteni.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Használhatok FTP-t két iPhone között?" closed="true" %}}
+{{% ls-details title="Használhatok FTP-t két iPhone között?" closed="true" %}}
 Igen. Indítsd el az FTP szervert az első iPhone-on. A másodikon nyisd meg az Everdisket, lépj az Eszközök fülre, érintsd meg az Új kapcsolat lehetőséget, válaszd az FTP lehetőséget, és add meg az első telefonon megjelenő címet. Egy dedikált FTP-alkalmazás iOS-re szintén működik, mivel az iOS Fájlok appja nem tartalmaz FTP-klienst.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Biztonságos az FTP?" closed="true" %}}
+{{% ls-details title="Biztonságos az FTP?" closed="true" %}}
 A sima FTP nem titkosítja a forgalmát, ezért kezeld olyan hálózatokhoz való eszközként, amelyekben megbízol, mint az otthoni Wi-Fi-d. Egy olyan hálózaton, amelyet nem irányítasz, használd az SMB szervert bekapcsolt SMB-titkosítás megkövetelése lehetőséggel, amely minden átvitelt véd.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Mely eszközök csatlakozhatnak FTP felett?" closed="true" %}}
+{{% ls-details title="Mely eszközök csatlakozhatnak FTP felett?" closed="true" %}}
 Szinte minden FTP-klienssel rendelkező eszköz. Ide tartoznak a Mac, Windows és Linux számítógépek, az FTP-alkalmazások, mint a FileZilla és a Cyberduck, az Android fájlkezelők, és a hardverek, mint a kamerák, smart TV-k, routerek, NAS-dobozok és automatizálási eszközök. Ez a széles körű elérhetőség a fő ok az FTP választására.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Miért szakadt meg az FTP kapcsolatom?" closed="true" %}}
+{{% ls-details title="Miért szakadt meg az FTP kapcsolatom?" closed="true" %}}
 Az iPhone-od a szerver, és az iOS szünetelteti a túl sokáig a háttérben maradó alkalmazásokat. Tartsd az Everdisket a képernyőn, amíg egy eszköz csatlakozik, és csatlakoztasd a hálózathoz a hosszú átvitelekhez. Győződj meg arról is, hogy mindkét eszköz még mindig ugyanazon a Wi-Fi hálózaton van.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Ingyenes az Everdisk?" closed="true" %}}
+{{% ls-details title="Ingyenes az Everdisk?" closed="true" %}}
 Igen, az Everdisk ingyenesen letölthető és az FTP szerver benne van. Egy opcionális egyszeri Premium vásárlás olyan extrákat ad hozzá, mint az egyéni portok és a fénykép- és videóátalakítás. Az FTP-t fizetés nélkül beállíthatod és átvihetsz fájlokat.
-{{% /details %}}
+{{% /ls-details %}}
 
 Készen állsz kipróbálni? [Töltsd le az Everdisket az App Store-ból](https://apps.apple.com/app/apple-store/id6751851132?pt=95781850&ct=everappzcom&mt=8) és pár perc alatt csatlakoztasd az első FTP-klienst. Kérdés vagy visszajelzés? Írj nekünk a **support@everappz.com** címre.

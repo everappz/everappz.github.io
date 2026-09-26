@@ -12,7 +12,7 @@ authors:
     image: "/images/about/artem-meleshko-founder-everappz.webp"
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 **Röviden:** Az [Evertag 4.2](/products/evertag) jelentős frissítés iPhone-ra, iPadre és Macre az audió tag-szerkesztőhöz. Megoldottuk a tag-szerkesztés kulcsfontosságú hibáit, és több mint 6 új felhő- és szerverkapcsolatot adtunk hozzá — **Internxt**, **Proton Drive**, **QNAP**, **Nextcloud**, **Amazon S3**, valamint **FTP**, **SFTP** és **NFS** protokollok. A Wi-Fi Drive frissített felületet, többszörös kiválasztási módot, okosabb feltöltési sort és gyorsabb átviteleket kapott. Az egész app a **Liquid Glass** dizájnhoz van hangolva. Ez a bejegyzés mélyebbre is megy az Evertag tag-szerkesztő beállításaiban — elmagyarázva az **ID3v2.4 vs ID3v2.3**, **albumborító skálázás**, **tag duplikáció**, **felhő feltöltési módok**, **letöltött fájl törlése** és pontosan, hogy mely opciókat válaszd, ha audiót készítesz a **Spotify**, **Apple Music**, **Plex**, **Jellyfin** vagy bármilyen más streamingszolgáltatás számára.
 
@@ -229,50 +229,50 @@ Ha tetszik az alkalmazás, kérjük, hagyj értékelést az App Store-ban — ez
 
 ## Gyakran ismételt kérdések
 
-{{% details title="Mi újság az Evertag 4.2-ben?" closed="true" %}}
+{{% ls-details title="Mi újság az Evertag 4.2-ben?" closed="true" %}}
 Az Evertag 4.2 több mint 6 új felhő- és szerverkapcsolatot ad hozzá (Internxt, Proton Drive, QNAP, Nextcloud, Amazon S3, FTP, SFTP, NFS), frissített Wi-Fi Drive-ot többszörös kiválasztással és okosabb feltöltési sorral, Liquid Glass UI frissítéseket, frissített kapcsolati könyvtárakat, kulcsfontosságú tag-szerkesztési hibajavításokat és fordítási fejlesztéseket.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="ID3v2.4-et vagy ID3v2.3-at használjak az Evertagben?" closed="true" %}}
+{{% ls-details title="ID3v2.4-et vagy ID3v2.3-at használjak az Evertagben?" closed="true" %}}
 Használj **ID3v2.4-et** modern lejátszókhoz (Evermusic, Plex, Jellyfin, Apple Music, foobar2000, VLC, modern Android alkalmazások) és nem latin karaktereket tartalmazó könyvtárakhoz — az UTF-8 támogatás tisztább kínai, koreai, japán, orosz, arab és héber tag-eket jelent. Használj **ID3v2.3-at**, ha a tag-jeid helytelenül jelennek meg egyes appokban, ha régebbi autórádiókat célzol meg, vagy ha egy streaming terjesztői pipeline elutasítja a v2.4-et. Mindig válthatsz és újramenthetsz.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Miért rosszak a tag-jeim a Spotifyban szerkesztés után?" closed="true" %}}
+{{% ls-details title="Miért rosszak a tag-jeim a Spotifyban szerkesztés után?" closed="true" %}}
 A Spotify többnyire saját katalógusából jelenít meg metaadatokat — a helyi tag-jeidet csak a «Local Files»-hez vagy az általad művészként feltöltött tartalomhoz használja. Ha Spotify Local Files-hoz tagelsz fájlokat, és nem jelennek meg helyesen, próbáld meg letiltani az ID3v2.4-et az Evertagben, és menteni ID3v2.3-ként — a Spotify értelmezője történelmileg konzervatív volt a v2.4-gyel.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Melyik albumborító-méretet válasszam az Evertagben?" closed="true" %}}
+{{% ls-details title="Melyik albumborító-méretet válasszam az Evertagben?" closed="true" %}}
 A felhasználók többségének: **Nagy**. Telefonokon, iPadeken, Maceken és modern autókijelzőkön remekül néz ki anélkül, hogy túlságosan felfújná a fájlokat. Használd a **Közepest**, ha hatalmas könyvtárad van, és lemezt szeretnél spórolni. Csak archív masterekhez vagy ha tényleg maximális minőségre van szükséged, használd az **Eredetit** (skálázás nélkül) — de tudd, hogy néhány régebbi lejátszó küzd a nagyon nagy beágyazott borítókkal. Az **Eredeti** az Evertag prémium személyre szabás-frissítésének része.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="A nagyobb albumborítók nagyobbá teszik a fájlokat?" closed="true" %}}
+{{% ls-details title="A nagyobb albumborítók nagyobbá teszik a fájlokat?" closed="true" %}}
 Igen. Egy 3000 × 3000 px-es borító beágyazása több megabájttal növelheti egyetlen audiofájl méretét. 1000 számos könyvtár esetén ez gigabájtokra rúg. Ha szűkös a tárhely, használd a Közepest vagy Nagyot; ha NAS-ról streamelsz, ahol a méret nem számít, az Extra nagy vagy Eredeti is jó.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Mik a tag-ek duplikálása, és engedélyezzem őket?" closed="true" %}}
+{{% ls-details title="Mik a tag-ek duplikálása, és engedélyezzem őket?" closed="true" %}}
 A tag-ek duplikálása a fő metaadatokat a fájl ID3v1 (legacy 128 bájt) és ID3v2 (modern) szakaszaiba is beírja. Csak akkor engedélyezd, ha nagyon régi lejátszókat vagy ID3v1-et olvasó hardvert célzol meg. A modern dolgokhoz (okostelefonok, számítógépek, újabb autórádiók) hagyd kikapcsolva.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Az Evertag közvetlenül szerkeszti a tag-eket a felhőfájlokon?" closed="true" %}}
+{{% ls-details title="Az Evertag közvetlenül szerkeszti a tag-eket a felhőfájlokon?" closed="true" %}}
 Igen. Csatlakozz a felhődhöz (Google Drive, Dropbox, OneDrive, iCloud Drive, Internxt, Proton Drive, QNAP, Nextcloud, Amazon S3 stb.) vagy FTP/SFTP/NFS-en keresztül, nyiss meg egy fájlt, és szerkeszd a tag-eket úgy, mintha helyi lenne. Az Evertag letölti a fájlt, alkalmazza a szerkesztéseidet, és visszatölti a frissített verziót. A beállításokban választhatsz a «Mindig kérdezzen», «Automatikus feltöltés» vagy «Ne töltse fel» módok közül.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Tudok FLAC tag-eket szerkeszteni iPhone-on az Evertaggel?" closed="true" %}}
+{{% ls-details title="Tudok FLAC tag-eket szerkeszteni iPhone-on az Evertaggel?" closed="true" %}}
 Igen. Az Evertag támogatja a FLAC, MP3, M4A/MP4, AIFF, WAV, OGG, APE és más fontos formátumokat teljes olvasási/írási tag támogatással, beleértve a beágyazott borítót.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Hogyan szerkeszthetem biztonságosan a tag-eket az otthoni szerveremen SFTP-vel?" closed="true" %}}
+{{% ls-details title="Hogyan szerkeszthetem biztonságosan a tag-eket az otthoni szerveremen SFTP-vel?" closed="true" %}}
 Nyisd meg az Evertaget, lépj a Connections menüpontra, válaszd az SFTP-t, és add meg a szerver hostnevét vagy IP-jét, portját (általában 22), felhasználónevet, valamint jelszót vagy SSH magánkulcsot. Az Evertag böngészi a távoli mappáidat, és a tag-eket közvetlenül szerkeszti SSH-n keresztüli végpontok közötti titkosítással.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Tudok tag-eket szerkeszteni több fájlon egyszerre?" closed="true" %}}
+{{% ls-details title="Tudok tag-eket szerkeszteni több fájlon egyszerre?" closed="true" %}}
 Igen. Engedélyezd a **Fájlok egyidejű szerkesztése** opciót a beállításokban. Válassz több fájlt, nyisd meg a tag-szerkesztőt, és bármilyen mezőt is változtatsz, az alkalmazódik az összes kiválasztott fájlra. Ez a leggyorsabb módja annak, hogy egy egész albumra ugyanazt az album artist, év vagy műfaj értéket állítsd be.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Ingyenes az Evertag 4.2-re való frissítés?" closed="true" %}}
+{{% ls-details title="Ingyenes az Evertag 4.2-re való frissítés?" closed="true" %}}
 Igen. Az Evertag ingyenesen letölthető az App Store-ból, és a 4.2 ingyenes frissítés minden meglévő felhasználó számára. Az új felhőintegrációk, Wi-Fi Drive fejlesztések és Liquid Glass UI az alapfrissítés részei.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Mely eszközökön érhető el az Evertag 4.2?" closed="true" %}}
+{{% ls-details title="Mely eszközökön érhető el az Evertag 4.2?" closed="true" %}}
 Az Evertag 4.2 iPhone-on, iPaden és Macen fut. Az iCloud Drive szinkronizáció eszközök között konzisztensen tartja a tag-szerkesztő beállításaidat.
-{{% /details %}}
+{{% /ls-details %}}

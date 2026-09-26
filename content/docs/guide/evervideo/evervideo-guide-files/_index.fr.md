@@ -33,7 +33,7 @@ L'onglet Fichiers est divisé en sections claires qui apparaissent dans cet ordr
 Dans le coin supérieur droit de l'écran Fichiers se trouve un bouton Transferts (icône de flèches tournantes). Appuyez dessus pour ouvrir la File des transferts où vous surveillez chaque téléchargement et envoi sur toutes vos sources.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Fichiers Evervideo sur les stockages connectés" image="/docs/guide/evervideo/img/evervideo-files-connected-storages.webp" >}}
+  {{< ls-card title="" subtitle="Fichiers Evervideo sur les stockages connectés" image="/docs/guide/evervideo/img/evervideo-files-connected-storages.webp" >}}
 {{< /cards >}}
 
 ## Se connecter au stockage cloud
@@ -41,7 +41,7 @@ Dans le coin supérieur droit de l'écran Fichiers se trouve un bouton Transfert
 La section Stockage cloud de l'onglet Fichiers est l'endroit où vivent chaque compte connecté, NAS, serveur multimédia et flux — côte à côte, dans une liste défilable unique.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Section Stockage cloud d'Evervideo dans l'onglet Fichiers" image="/docs/guide/evervideo/img/evervideo-connections.webp" >}}
+  {{< ls-card title="" subtitle="Section Stockage cloud d'Evervideo dans l'onglet Fichiers" image="/docs/guide/evervideo/img/evervideo-connections.webp" >}}
 {{< /cards >}}
 
 - Ouvrez l'onglet **Fichiers**.
@@ -51,7 +51,7 @@ La section Stockage cloud de l'onglet Fichiers est l'endroit où vivent chaque c
 - Entrez vos identifiants sur la page d'autorisation officielle fournie par le fournisseur cloud, puis appuyez sur **Fait**.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evervideo — Connecter un service de stockage cloud" image="/docs/guide/evervideo/img/evervideo-connect-cloud-storage.webp" >}}
+  {{< ls-card title="" subtitle="Evervideo — Connecter un service de stockage cloud" image="/docs/guide/evervideo/img/evervideo-connect-cloud-storage.webp" >}}
 {{< /cards >}}
 
 Si vous rencontrez des problèmes, vérifiez votre connexion internet et vos identifiants. Dans la version Premium de l'application, vous pouvez ajouter un nombre illimité de services ; la version gratuite prend en charge jusqu'à trois.
@@ -161,7 +161,7 @@ Cette section affiche chaque appareil sur votre réseau local auquel vous pouvez
 - Si nécessaire, entrez vos coordonnées pour compléter la connexion.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Appareils disponibles Evervideo sur le réseau local" image="/docs/guide/evervideo/img/evervideo-available-devices.webp" >}}
+  {{< ls-card title="" subtitle="Appareils disponibles Evervideo sur le réseau local" image="/docs/guide/evervideo/img/evervideo-available-devices.webp" >}}
 {{< /cards >}}
 
 ## Wi-Fi Drive
@@ -169,7 +169,7 @@ Cette section affiche chaque appareil sur votre réseau local auquel vous pouvez
 Wi-Fi Drive vous permet de transférer des fichiers sans fil de votre ordinateur vers votre appareil iOS via n'importe quel navigateur de bureau, Finder ou File Explorer. Votre appareil et votre ordinateur doivent être sur le même réseau Wi-Fi.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evervideo Wi-Fi Drive" image="/docs/guide/evervideo/img/evervideo-wifi-drive.webp" >}}
+  {{< ls-card title="" subtitle="Evervideo Wi-Fi Drive" image="/docs/guide/evervideo/img/evervideo-wifi-drive.webp" >}}
 {{< /cards >}}
 
 ### Activer Wi-Fi Drive
@@ -201,7 +201,7 @@ Branchez un lecteur USB ou une carte SD dans votre iPhone, iPad ou Mac via l'ada
 Appuyez sur n'importe quel service cloud connecté pour ouvrir son navigateur de fichiers. Les dossiers affichent des miniatures vidéo lorsqu'elles sont disponibles, et appuyer sur une vidéo démarre immédiatement la lecture tout en continuant à diffuser le reste du fichier en arrière-plan.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evervideo — Navigation dans les dossiers des stockages connectés" image="/docs/guide/evervideo/img/evervideo-all-connected-device-folders.webp" >}}
+  {{< ls-card title="" subtitle="Evervideo — Navigation dans les dossiers des stockages connectés" image="/docs/guide/evervideo/img/evervideo-all-connected-device-folders.webp" >}}
 {{< /cards >}}
 
 ## Accès rapide
@@ -209,7 +209,7 @@ Appuyez sur n'importe quel service cloud connecté pour ouvrir son navigateur de
 La section Accès rapide se trouve en haut de l'onglet Fichiers. Elle vous donne un accès rapide à vos fichiers et dossiers favoris et récemment ouverts — à la fois depuis les services cloud et depuis le stockage sur l'appareil. Chaque fois que vous ouvrez un fichier ou un dossier depuis le cloud, il est ajouté à la liste Récemment ouverts. Vous pouvez marquer les dossiers profondément imbriqués comme Favoris pour y accéder rapidement sans creuser dans la structure de répertoires.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evervideo — Liens en ligne et accès rapide" image="/docs/guide/evervideo/img/evervideo-connections-online-links.webp" >}}
+  {{< ls-card title="" subtitle="Evervideo — Liens en ligne et accès rapide" image="/docs/guide/evervideo/img/evervideo-connections-online-links.webp" >}}
 {{< /cards >}}
 
 ## Fichiers dans cette application
@@ -217,7 +217,7 @@ La section Accès rapide se trouve en haut de l'onglet Fichiers. Elle vous donne
 Cette section affiche les fichiers et dossiers stockés dans le répertoire Documents sandboxé d'Evervideo — tout ce que vous avez téléchargé depuis le cloud, transféré via Wi-Fi Drive, copié via Finder File Sharing, ou importé depuis une autre application.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evervideo — Fichiers dans cette application" image="/docs/guide/evervideo/img/evervideo-files-in-this-application.webp" >}}
+  {{< ls-card title="" subtitle="Evervideo — Fichiers dans cette application" image="/docs/guide/evervideo/img/evervideo-files-in-this-application.webp" >}}
 {{< /cards >}}
 
 ### Dossier Documents
@@ -225,7 +225,7 @@ Cette section affiche les fichiers et dossiers stockés dans le répertoire Docu
 Le dossier Documents est la racine de tout ce qui se trouve dans Fichiers dans cette application. Vous pouvez créer des sous-dossiers, renommer des fichiers, les déplacer et les regrouper comme vous le souhaitez.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evervideo — Fichiers locaux — Dossier Documents" image="/docs/guide/evervideo/img/evervideo-local-files-documents.webp" >}}
+  {{< ls-card title="" subtitle="Evervideo — Fichiers locaux — Dossier Documents" image="/docs/guide/evervideo/img/evervideo-local-files-documents.webp" >}}
 {{< /cards >}}
 
 ## Fichiers sur cet iPhone / iPad / Mac
@@ -238,7 +238,7 @@ Cette section affiche les vidéos situées sur votre appareil mais dans des appl
 Vous pouvez également utiliser Connecter un dossier pour créer un lien vers un dossier sur votre appareil avec un accès lecture / écriture — idéal pour travailler avec un dossier sur iCloud Drive ou un lecteur USB attaché sans rien copier.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evervideo — Fichiers sur cet appareil" image="/docs/guide/evervideo/img/evervideo-files-on-this-device.webp" >}}
+  {{< ls-card title="" subtitle="Evervideo — Fichiers sur cet appareil" image="/docs/guide/evervideo/img/evervideo-files-on-this-device.webp" >}}
 {{< /cards >}}
 
 ## Dossiers spéciaux
@@ -276,7 +276,7 @@ Lorsque vous ouvrez un dossier, appuyez sur le bouton **« ... »** dans le coin
 Appuyez sur **« ... »** dans le coin supérieur droit et choisissez **Sélectionner** pour entrer en mode sélection. Des cases à cocher apparaissent à côté de chaque fichier et dossier. Appuyez pour sélectionner un ou plusieurs éléments, puis effectuez des actions par lots : Lire ensuite, Lire plus tard, Ajouter à la médiathèque, Ajouter à une liste de lecture, Copier, Téléverser, Déplacer, Renommer ou Supprimer.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evervideo — Mode sélection dans le gestionnaire de fichiers" image="/docs/guide/evervideo/img/evervideo-selection-mode-in-files.webp" >}}
+  {{< ls-card title="" subtitle="Evervideo — Mode sélection dans le gestionnaire de fichiers" image="/docs/guide/evervideo/img/evervideo-selection-mode-in-files.webp" >}}
 {{< /cards >}}
 
 Si vous préférez traiter le stockage cloud connecté en lecture seule (pour éviter les suppressions accidentelles), activez Paramètres → Gestionnaire de fichiers → Modifier les fichiers en ligne → Désactivé pour masquer toutes les opérations destructives de l'interface.
@@ -318,13 +318,13 @@ Pour chaque dossier dans votre stockage cloud, vous avez de nombreuses actions d
 Dans le coin supérieur droit de l'onglet Fichiers se trouve un bouton **Transferts** (icône de flèches tournantes). Appuyez dessus pour ouvrir la File des transferts — une liste de chaque téléchargement et envoi actif sur toutes vos sources, avec la progression en temps réel, la vitesse et l'heure d'arrivée estimée par fichier.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evervideo — File de transferts de fichiers" image="/docs/guide/evervideo/img/evervideo-file-transfers.webp" >}}
+  {{< ls-card title="" subtitle="Evervideo — File de transferts de fichiers" image="/docs/guide/evervideo/img/evervideo-file-transfers.webp" >}}
 {{< /cards >}}
 
 Vous pouvez mettre en pause, reprendre, réessayer les transferts échoués, réorganiser les éléments pour prioriser des téléchargements spécifiques, ou les annuler individuellement. Vous pouvez également ajuster la vitesse de la file de transferts (tâches parallèles maximales), le type de réseau (Wi-Fi uniquement ou Wi-Fi + cellulaire) et les transferts en arrière-plan dans Paramètres → Gestionnaire de fichiers.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evervideo — Actions sur la file de transferts de fichiers" image="/docs/guide/evervideo/img/evervideo-file-transfers-actions.webp" >}}
+  {{< ls-card title="" subtitle="Evervideo — Actions sur la file de transferts de fichiers" image="/docs/guide/evervideo/img/evervideo-file-transfers-actions.webp" >}}
 {{< /cards >}}
 
 ## Mode hors ligne et dossiers hors ligne synchronisés

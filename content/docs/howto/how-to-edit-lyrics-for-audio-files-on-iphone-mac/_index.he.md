@@ -7,7 +7,7 @@ tags: ["lyrics", "mp3", "id3", "metadata", "iphone", "audio editing"]
 readingTime: 2
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **תקציר:** השתמשו באפליקציית **Evertag** החינמית לעריכת מילות שירים לא מסונכרנות, דירוגי תוכן ולמעלה מ-120 תגיות אודיו ב-iPhone או Mac. עובד עם קבצים מקומיים ומאוחסנים בענן, תומך בעריכה קבוצתית ושומר מילות שירים הנראות ב-Evermusic, Flacbox ונגנים אחרים.
@@ -23,8 +23,8 @@ readingTime: 2
 התחילו בהורדת אפליקציית **Evertag** מ-App Store. היא זמינה הן ל-**iOS** והן ל-**macOS**, וחינמית לשימוש.
 
 {{< cards cols="2">}}
-{{< card link="https://apps.apple.com/app/apple-store/id1450763230?pt=95781850&ct=everappzcom&mt=8" title="Evertag ל-iOS" icon="download" tag="Free" >}}
-{{< card link="https://apps.apple.com/app/apple-store/id1594027661?pt=95781850&ct=everappzcom&mt=8" title="Evertag ל-macOS" icon="download" tag="Free" >}}
+{{< ls-card link="https://apps.apple.com/app/apple-store/id1450763230?pt=95781850&ct=everappzcom&mt=8" title="Evertag ל-iOS" icon="download" tag="Free" >}}
+{{< ls-card link="https://apps.apple.com/app/apple-store/id1594027661?pt=95781850&ct=everappzcom&mt=8" title="Evertag ל-macOS" icon="download" tag="Free" >}}
 {{< /cards >}}
 
 ## חיבור חשבון הענן שלכם
@@ -38,13 +38,13 @@ readingTime: 2
 - הקישו על **חיבור לאחסון ענן**
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="חיבור לאחסון ענן" image="/docs/howto/how-to-edit-lyrics-for-audio-files-on-iphone-mac/connect-to-cloud-storage.webp" >}}
+{{< ls-card title="" subtitle="חיבור לאחסון ענן" image="/docs/howto/how-to-edit-lyrics-for-audio-files-on-iphone-mac/connect-to-cloud-storage.webp" >}}
 {{< /cards >}}
 
 - בחרו ספק נתמך, הזינו את פרטי ההתחברות שלכם והקישו על **סיום**
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="חיבור לאחסון ענן" image="/docs/howto/how-to-edit-lyrics-for-audio-files-on-iphone-mac/connect-to-cloud-storage.webp" >}}
+{{< ls-card title="" subtitle="חיבור לאחסון ענן" image="/docs/howto/how-to-edit-lyrics-for-audio-files-on-iphone-mac/connect-to-cloud-storage.webp" >}}
 {{< /cards >}}
 
 - לאחר החיבור, אחסון הענן שלכם יופיע בסעיף **אחסון ענן** באפליקציה.
@@ -52,7 +52,7 @@ readingTime: 2
 - הקישו על אחסון הענן המחובר שלכם כדי לעיין ולטעון את תוכן התיקיות שלו.
   
 {{< cards cols="1">}}
-{{< card title="" subtitle="רשימת קבצי אחסון ענן" image="/docs/howto/how-to-edit-lyrics-for-audio-files-on-iphone-mac/cloud-storage-list-audio-files.webp" >}}
+{{< ls-card title="" subtitle="רשימת קבצי אחסון ענן" image="/docs/howto/how-to-edit-lyrics-for-audio-files-on-iphone-mac/cloud-storage-list-audio-files.webp" >}}
 {{< /cards >}}
 
 ## חיבור תיקייה מקומית
@@ -74,7 +74,7 @@ readingTime: 2
 - גללו למטה אל **קבצים במכשיר זה** בתפריט סרגל הצד
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="תיקיות מכשיר" image="/docs/howto/how-to-edit-lyrics-for-audio-files-on-iphone-mac/device-folders.webp" >}}
+{{< ls-card title="" subtitle="תיקיות מכשיר" image="/docs/howto/how-to-edit-lyrics-for-audio-files-on-iphone-mac/device-folders.webp" >}}
 {{< /cards >}}
   
 - הקישו על פריט התפריט **כל תיקיות המכשיר**
@@ -91,7 +91,7 @@ readingTime: 2
 **עורך התגיות** הוא המסך הראשי של אפליקציית Evertag בו תוכלו לצפות ולערוך מטא-נתונים של קבצי אודיו. פתחו מסך זה על ידי הקשה על קובץ מסעיף **קבצים מקומיים** או מכל חשבון **אחסון ענן** מחובר.
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="מסך עורך התגיות של Evertag" image="/docs/howto/how-to-edit-lyrics-for-audio-files-on-iphone-mac/cloud-storage-audio-file-tag-editor.webp" >}}
+{{< ls-card title="" subtitle="מסך עורך התגיות של Evertag" image="/docs/howto/how-to-edit-lyrics-for-audio-files-on-iphone-mac/cloud-storage-audio-file-tag-editor.webp" >}}
 {{< /cards >}}
 
 ## מצבי עריכה
@@ -112,7 +112,7 @@ Evertag מספק שני מצבי עריכה:
 לגישה לכל התגיות הזמינות, גללו לתחתית המסך והקישו על האפשרות **הצגת תגיות מורחבות**. זה יעביר את העורך למצב מורחב, ויאפשר לכם לערוך למעלה מ-**120 שדות מטא-נתונים**, כולל **תגיות MusicBrainz**, **מילות שירים**, **דירוגי תוכן** ועוד.
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="פאנל פעולות תחתון" image="/docs/howto/how-to-edit-lyrics-for-audio-files-on-iphone-mac/show-extended-tags.webp" >}}
+{{< ls-card title="" subtitle="פאנל פעולות תחתון" image="/docs/howto/how-to-edit-lyrics-for-audio-files-on-iphone-mac/show-extended-tags.webp" >}}
 {{< /cards >}}
 
 ## מצב קבוצתי
@@ -137,7 +137,7 @@ Evertag מספק שני מצבי עריכה:
 במצב **תגיות מורחבות**, גללו למטה והקישו על שדה הטקסט **מילות שירים לא מסונכרנות**.
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="שדה טקסט מילות שירים לא מסונכרנות" image="/docs/howto/how-to-edit-lyrics-for-audio-files-on-iphone-mac/advisory-rating-2.webp" >}}
+{{< ls-card title="" subtitle="שדה טקסט מילות שירים לא מסונכרנות" image="/docs/howto/how-to-edit-lyrics-for-audio-files-on-iphone-mac/advisory-rating-2.webp" >}}
 {{< /cards >}}
 
 > קבצי אודיו התומכים ב**תגיות ID3** (כמו `.mp3` או `.wav`) מאפשרים להוסיף מילות שירים במספר שפות. אם אתם עורכים קובץ עם תגיות ID3, Evertag מאפשר תמיכה מלאה בריבוי שפות.  
@@ -148,7 +148,7 @@ Evertag מספק שני מצבי עריכה:
 אם אתם עורכים תגיות ID3, המסך הבא יציג כפתור **הוספת עמוד חדש**. הקישו עליו כדי להתחיל להוסיף רשומת מילות שירים חדשה.
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="הוספת עמוד מילות שירים חדש" image="/docs/howto/how-to-edit-lyrics-for-audio-files-on-iphone-mac/add-new-page.webp" >}}
+{{< ls-card title="" subtitle="הוספת עמוד מילות שירים חדש" image="/docs/howto/how-to-edit-lyrics-for-audio-files-on-iphone-mac/add-new-page.webp" >}}
 {{< /cards >}}
 
 ### בחירת שפה, הערה ותוכן מילות שירים
@@ -159,7 +159,7 @@ Evertag מספק שני מצבי עריכה:
 - להזין את **טקסט מילות השירים** בפועל
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="בחירת שפה" image="/docs/howto/how-to-edit-lyrics-for-audio-files-on-iphone-mac/choose-language.webp" >}}
+{{< ls-card title="" subtitle="בחירת שפה" image="/docs/howto/how-to-edit-lyrics-for-audio-files-on-iphone-mac/choose-language.webp" >}}
 {{< /cards >}}
 
 ### הזנת מילות השירים
@@ -169,7 +169,7 @@ Evertag מספק שני מצבי עריכה:
 > טיפ: מחפשים מילות שירים באיכות גבוהה? בקרו ב-[lyricsify.com](https://www.lyricsify.com) כדי למצוא מילות שירים בפורמט LRC לאלפי שירים.
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="מילות שירים שנוספו" image="/docs/howto/how-to-edit-lyrics-for-audio-files-on-iphone-mac/added-lyrics.webp" >}}
+{{< ls-card title="" subtitle="מילות שירים שנוספו" image="/docs/howto/how-to-edit-lyrics-for-audio-files-on-iphone-mac/added-lyrics.webp" >}}
 {{< /cards >}}
 
 ### הקישו על "סיום" לאישור
@@ -177,7 +177,7 @@ Evertag מספק שני מצבי עריכה:
 לאחר הזנת מילות השירים, הקישו על **סיום** בעמוד מילות השירים. ואז הקישו על **סיום** שוב במסך הקודם כדי לאשר את השינויים שלכם.
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="מילות שירים שנשמרו" image="/docs/howto/how-to-edit-lyrics-for-audio-files-on-iphone-mac/saved-lyrics.webp" >}}
+{{< ls-card title="" subtitle="מילות שירים שנשמרו" image="/docs/howto/how-to-edit-lyrics-for-audio-files-on-iphone-mac/saved-lyrics.webp" >}}
 {{< /cards >}}
 
 ### שמירת שינויי התגיות
@@ -185,7 +185,7 @@ Evertag מספק שני מצבי עריכה:
 לבסוף, במסך **עורך התגיות**, הקישו על **שמירה** כדי לכתוב את התגיות המעודכנות — כולל מילות השירים החדשות — חזרה לקובץ.
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="עורך תגיות עם מילות שירים" image="/docs/howto/how-to-edit-lyrics-for-audio-files-on-iphone-mac/tags-editor-with-lyrics.webp" >}}
+{{< ls-card title="" subtitle="עורך תגיות עם מילות שירים" image="/docs/howto/how-to-edit-lyrics-for-audio-files-on-iphone-mac/tags-editor-with-lyrics.webp" >}}
 {{< /cards >}}
 
 ### הגדרת דירוג תוכן מילות שירים
@@ -204,22 +204,22 @@ Evertag מספק שני מצבי עריכה:
 
 ## שאלות נפוצות
 
-{{% details title="אילו פורמטי אודיו Evertag תומך לעריכת מילות שירים?" closed="true" %}}
+{{% ls-details title="אילו פורמטי אודיו Evertag תומך לעריכת מילות שירים?" closed="true" %}}
 Evertag תומך ביותר מ-30 פורמטי אודיו, כולל MP3, FLAC, WAV, M4A, OGG, AIFF ועוד. תוכלו לערוך מילות שירים ותגיות מטא-נתונים אחרות בכל אחד מהפורמטים הללו.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="האם אוכל להוסיף מילות שירים במספר שפות?" closed="true" %}}
+{{% ls-details title="האם אוכל להוסיף מילות שירים במספר שפות?" closed="true" %}}
 כן, אך רק לקבצי אודיו המשתמשים בתגיות ID3 (כמו MP3 ו-WAV). לפורמטים אחרים כמו FLAC או M4A, נתמכת רק רשומת מילות שירים אחת.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="האם Evertag תומך בעריכה קבוצתית של מילות שירים?" closed="true" %}}
+{{% ls-details title="האם Evertag תומך בעריכה קבוצתית של מילות שירים?" closed="true" %}}
 כן. תוכלו להיכנס למצב קבוצתי כדי לערוך מטא-נתונים של מספר קבצים בו-זמנית. זה שימושי להחלת אותו דירוג תוכן מילות שירים או תגיות משותפות אחרות על אלבום שלם.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="האם מילות שירים ערוכות יופיעו ב-Apple Music או Spotify?" closed="true" %}}
+{{% ls-details title="האם מילות שירים ערוכות יופיעו ב-Apple Music או Spotify?" closed="true" %}}
 מילות שירים שנערכו עם Evertag מוטבעות במטא-נתונים של קובץ האודיו. הן יופיעו בכל נגן מוזיקה שקורא תגיות מילות שירים מוטבעות, כמו Evermusic, Flacbox, VLC ו-foobar2000. אפליקציות סטרימינג כמו Spotify ו-Apple Music משתמשות במאגרי מילות שירים משלהן ואינן קוראות תגיות מוטבעות.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="האם אוכל לערוך תגיות לקבצים המאוחסנים באחסון ענן?" closed="true" %}}
+{{% ls-details title="האם אוכל לערוך תגיות לקבצים המאוחסנים באחסון ענן?" closed="true" %}}
 כן. Evertag תומך בחיבור לשירותי אחסון ענן. האפליקציה מורידה את הקובץ, מאפשרת לכם לערוך את התגיות ומעלה אוטומטית את הקובץ המעודכן חזרה לענן.
-{{% /details %}}
+{{% /ls-details %}}

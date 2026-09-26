@@ -7,7 +7,7 @@ tags: ["audio", "iphone", "mp3", "sangtekster", "lrc", "innebygd", "vis", "visni
 keywords: ["vis innebygde sangtekster iPhone", "Evermusic vis sangtekster", "LRC-fil Evermusic", "kommentartag audio", "sangtekstvisning Flacbox", "sangtekster iOS musikkapp", "lydspiller vis sangtekster"]
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **TL;DR:** Evermusic for iPhone og Mac viser innebygde sangtekster, kommentartagger og eksterne .lrc-filer for alle lydspor. Åpne spilleren, trykk på **Flere handlinger**, og velg deretter **Kommentarer** for å se sangtekster i tre moduser: Kommentarer, Innebygde sangtekster og LRC-fil.
@@ -68,22 +68,22 @@ Gå tilbake til hovedspilleren og trykk på **lydkøknappen** flere ganger for �
 
 ## Vanlige spørsmål
 
-{{% details title="Hvordan ser jeg innebygde sangtekster på iPhonen min?" closed="true" %}}
+{{% ls-details title="Hvordan ser jeg innebygde sangtekster på iPhonen min?" closed="true" %}}
 Åpne Evermusic, spill en sang, trykk på Flere handlinger i fullskjermspilleren, og velg Kommentarer. Sveip til fanen Innebygde sangtekster for å se sangtekster lagret i lydfilens tagger.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Hva er en LRC-fil og hvordan fungerer den?" closed="true" %}}
+{{% ls-details title="Hva er en LRC-fil og hvordan fungerer den?" closed="true" %}}
 En LRC-fil er en tekstfil som inneholder tidskodede sangtekster. Når den plasseres i samme mappe som en lydfil med samme filnavn, leser Evermusic den og viser synkroniserte sangtekster som ruller under avspilling.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Kan jeg legge til sangtekster i musikkfilene mine på iPhone?" closed="true" %}}
+{{% ls-details title="Kan jeg legge til sangtekster i musikkfilene mine på iPhone?" closed="true" %}}
 Ja. Bruk Evertag-appen til å redigere ID3-tagger og legge til eller oppdatere innebygde sangtekster direkte på iPhonen din. Du kan lime inn tidskodet LRC-tekst for synkroniserte sangtekster.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Støtter Evermusic synkroniserte (tidskodede) sangtekster?" closed="true" %}}
+{{% ls-details title="Støtter Evermusic synkroniserte (tidskodede) sangtekster?" closed="true" %}}
 Ja. Evermusic støtter tidskodede sangtekster i LRC-format, både når de er innebygd i lydtagger og når de leveres som en separat `.lrc`-fil.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Hvilke lydformater støtter innebygde sangtekster?" closed="true" %}}
+{{% ls-details title="Hvilke lydformater støtter innebygde sangtekster?" closed="true" %}}
 MP3, FLAC, AAC, M4A, OGG og de fleste andre vanlige formater støtter innebygde sangtekster gjennom sine respektive taggstandarder.
-{{% /details %}}
+{{% /ls-details %}}

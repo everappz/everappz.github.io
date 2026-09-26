@@ -12,7 +12,7 @@ authors:
     image: "/images/about/artem-meleshko-founder-everappz.webp"
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 **Pe scurt:** Cel mai bun player de muzică iPhone depinde de nevoile tale. **Evermusic** este ideal pentru redarea din stocare cloud și flexibilitatea formatelor. **Apple Music** se potrivește celor implicați profund în ecosistemul Apple. **Spotify** excelează la descoperirea muzicii. **VLC** gestionează orice format de fișier gratuit. **Amazon Music** se asociază bine cu Alexa și Prime.
 
@@ -128,22 +128,22 @@ Amazon Music se integrează cu ecosistemul Amazon, oferind control vocal prin Al
 
 ## FAQ
 
-{{% details title="Care este cel mai bun player de muzică gratuit pentru iPhone?" closed="true" %}}
+{{% ls-details title="Care este cel mai bun player de muzică gratuit pentru iPhone?" closed="true" %}}
 Pentru redarea propriilor fișiere, Evermusic și VLC sunt ambele opțiuni gratuite. Evermusic adaugă integrare cu stocarea cloud, în timp ce VLC suportă cea mai largă gamă de formate de fișiere.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Pot reda fișiere FLAC pe iPhone?" closed="true" %}}
+{{% ls-details title="Pot reda fișiere FLAC pe iPhone?" closed="true" %}}
 Da. Evermusic și VLC suportă ambele redarea FLAC pe iPhone. Apple Music și Spotify nu redau fișiere FLAC direct.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Ce aplicație player de muzică funcționează cu stocarea cloud?" closed="true" %}}
+{{% ls-details title="Ce aplicație player de muzică funcționează cu stocarea cloud?" closed="true" %}}
 Evermusic este principalul player de muzică iPhone cu suport integrat pentru stocare cloud. Se conectează la iCloud Drive, Dropbox, Google Drive, OneDrive, pCloud și alte servicii.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Este Evermusic mai bun decât Apple Music?" closed="true" %}}
+{{% ls-details title="Este Evermusic mai bun decât Apple Music?" closed="true" %}}
 Servesc scopuri diferite. Evermusic redă propriile tale fișiere muzicale din stocare cloud și stocare locală. Apple Music este un serviciu de streaming cu abonament cu un catalog de 100M+ melodii. Dacă deții propriile fișiere muzicale, Evermusic este alegerea mai bună.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Pot folosi Spotify offline pe iPhone?" closed="true" %}}
+{{% ls-details title="Pot folosi Spotify offline pe iPhone?" closed="true" %}}
 Da, dar doar cu un abonament Spotify Premium. Utilizatorii Spotify gratuiți nu pot descărca melodii pentru redare offline.
-{{% /details %}}
+{{% /ls-details %}}

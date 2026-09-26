@@ -19,7 +19,7 @@ Evervideo มีอินเทอร์เฟซที่สะอาดแล�
 ต่างจากแอปมีเดียส่วนใหญ่ Evervideo รวมบัญชีคลาวด์, NAS share, มีเดียเซิร์ฟเวอร์ และไฟล์ในเครื่องเข้าเป็นแท็บไฟล์เดียวที่เป็นหนึ่งเดียว — เพื่อไม่ให้คุณต้องกระโดดระหว่างหน้าจอแยกต่างหาก ทำให้การย้ายวิดีโอจากเซิร์ฟเวอร์ Plex ไปยังโฟลเดอร์ iCloud Drive ไปยังโฟลเดอร์ Documents ของ iPhone เป็นการดำเนินการหนึ่งหน้าจอ หนึ่งแตะ
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="หน้าจอหลัก Evervideo" image="/docs/guide/evervideo/img/evervideo-main.webp" >}}
+  {{< ls-card title="" subtitle="หน้าจอหลัก Evervideo" image="/docs/guide/evervideo/img/evervideo-main.webp" >}}
 {{< /cards >}}
 
 ## แท็บ
@@ -53,7 +53,7 @@ PiP ทำงานกับทุกรูปแบบวิดีโอที�
 เนื้อหาเกือบทุกรายการบนหน้าจอมีปุ่มดำเนินการเพิ่มเติม (ไอคอน "⋯" สามจุด) แตะเพื่อเปิดเมนูที่ตอบสนองต่อบริบทพร้อมทุกการดำเนินการที่มีสำหรับรายการนั้น — เล่นถัดไป, เล่นทีหลัง, เพิ่มในเพลย์ลิสต์, เพิ่มในรายการโปรด, แก้ไขแท็ก, ดาวน์โหลด, แชร์, เปลี่ยนชื่อ, ย้าย และอื่นๆ รายการยาวจะเลื่อนแนวตั้ง เพื่อให้คุณเข้าถึงการดำเนินการที่พบน้อยกว่าได้โดยไม่ทำให้ UI หลักแออัด
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evervideo รายการโปรด เมนูดำเนินการเพิ่มเติม" image="/docs/guide/evervideo/img/evervideo-favorites-more-actions.webp" >}}
+  {{< ls-card title="" subtitle="Evervideo รายการโปรด เมนูดำเนินการเพิ่มเติม" image="/docs/guide/evervideo/img/evervideo-favorites-more-actions.webp" >}}
 {{< /cards >}}
 
 ## แถบเครื่องมือด้านบน

@@ -7,7 +7,7 @@ tags: ["muzik", "fail", "usb", "kilat", "luaran", "ixpand", "main", "kad", "peny
 readingTime: 2
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **Ringkasan:** Sambungkan pemacu kilat USB atau kad SD ke iPhone anda menggunakan penyesuai Apple atau pemacu SanDisk iXpand, kemudian gunakan Evermusic, Flacbox, atau Evertag untuk melayari, memainkan, dan mengurus fail audio anda terus dari storan luaran.
@@ -72,18 +72,18 @@ Nikmati kebebasan mengakses dan mengurus muzik anda dengan mudah menggunakan lan
 
 ## Soalan Lazim
 
-{{% details title="Penyesuai USB mana yang berfungsi dengan iPhone untuk main balik muzik?" closed="true" %}}
+{{% ls-details title="Penyesuai USB mana yang berfungsi dengan iPhone untuk main balik muzik?" closed="true" %}}
 Lightning to SD Card Camera Reader dan Lightning to USB 3 Camera Adapter dari Apple kedua-duanya berfungsi. Penyesuai USB-C berfungsi pada iPhone yang lebih baharu dengan port USB-C. Pemacu SanDisk iXpand Flash (V1-V7) juga disokong secara asli oleh Evermusic, Flacbox, dan Evertag.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Bolehkah saya memainkan muzik terus dari pemacu USB tanpa menyalin fail?" closed="true" %}}
+{{% ls-details title="Bolehkah saya memainkan muzik terus dari pemacu USB tanpa menyalin fail?" closed="true" %}}
 Ya. Dengan pemacu SanDisk iXpand, anda boleh memainkan muzik terus dari pemacu tanpa menyalin fail ke iPhone anda. Apabila menggunakan penyesuai Apple, fail diimport tetapi anda boleh memilih sama ada mahu menyalinnya ke storan tempatan.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Format audio apa yang disokong dari pemacu USB?" closed="true" %}}
+{{% ls-details title="Format audio apa yang disokong dari pemacu USB?" closed="true" %}}
 Evermusic dan Flacbox menyokong pelbagai format termasuk FLAC, MP3, AAC, WAV, ALAC, OGG, WMA, dan lain-lain. Semua format yang disokong berfungsi apabila memainkan dari storan USB.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="SanDisk iXpand saya menunjukkan ralat 'sibuk'. Apa yang perlu saya lakukan?" closed="true" %}}
+{{% ls-details title="SanDisk iXpand saya menunjukkan ralat 'sibuk'. Apa yang perlu saya lakukan?" closed="true" %}}
 Aplikasi lain mungkin mengakses pemacu. Tutup semua aplikasi lain yang mungkin menggunakan pemacu kilat, atau cabut dan masukkan semula. Kemudian buka semula Evermusic, Flacbox, atau Evertag.
-{{% /details %}}
+{{% /ls-details %}}

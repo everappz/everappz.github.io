@@ -20,7 +20,7 @@ In de sectie Afspeellijsten vind je handige tools om je muziekcollecties te behe
 Afspeellijsten in Flacbox kunnen een mix bevatten van online cloudtracks, offline gedownloade bestanden en lokale bestanden van je apparaat — allemaal in één afspeellijst — en spelen naadloos samen af.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox Afspeellijsten Hoofdscherm" image="/docs/guide/flacbox/img/playlists-main.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox Afspeellijsten Hoofdscherm" image="/docs/guide/flacbox/img/playlists-main.webp" >}}
 {{< /cards >}}
 
 ## Een Afspeellijst Maken
@@ -63,7 +63,7 @@ Wanneer je een afspeellijst opent, verschijnt het Afspeellijst Detailscherm. Je 
 - **Offline modus** — download alle tracks van deze afspeellijst naar lokale bestanden. Nieuwe items die aan de afspeellijst worden toegevoegd, worden ook automatisch gedownload.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox Afspeellijst Detailscherm" image="/docs/guide/flacbox/img/playlist-details-screen.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox Afspeellijst Detailscherm" image="/docs/guide/flacbox/img/playlist-details-screen.webp" >}}
 {{< /cards >}}
 
 ## Meer Acties voor een Afspeellijst op het Afspeellijsten Scherm
@@ -82,7 +82,7 @@ Je kunt acties voor een afspeellijst openen door op de knop **"..."** bij de afs
 - **Afspeellijst verwijderen** — verwijder de afspeellijst uit de muziekbibliotheek. **Deze actie kan niet ongedaan worden gemaakt.**
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox Meer Acties voor een Afspeellijst op het Afspeellijsten Hoofdscherm" image="/docs/guide/flacbox/img/more-actions-for-playlist-in-playlists-main-screen.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox Meer Acties voor een Afspeellijst op het Afspeellijsten Hoofdscherm" image="/docs/guide/flacbox/img/more-actions-for-playlist-in-playlists-main-screen.webp" >}}
 {{< /cards >}}
 
 ## Meer Acties voor een Afspeellijst op het Afspeellijst Detailscherm
@@ -110,7 +110,7 @@ Om de volgorde van nummers in een afspeellijst te wijzigen, tik op de knop **"..
 Voor een nog eenvoudigere workflow op lange afspeellijsten, kies Meer acties → Nummers herordenen om de speciale slepen-en-neerzetten herordening-modus te openen.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox Nummers Herordenen in een Afspeellijst" image="/docs/guide/flacbox/img/playlist-details-rearange-songs.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox Nummers Herordenen in een Afspeellijst" image="/docs/guide/flacbox/img/playlist-details-rearange-songs.webp" >}}
 {{< /cards >}}
 
 ## Afspeellijst Omslagafbeelding Wijzigen
@@ -126,7 +126,7 @@ Open de afspeellijst en tik op de knop **"..."** in de rechterbovenhoek, selecte
 Open de afspeellijst, tik op de knop **"..."** in de rechterbovenhoek en selecteer **Selecteren** om de selectiemodus te openen. Kies de tracks die je wilt verwijderen en tik op **Verwijderen uit afspeellijst** onderaan het scherm. Bevestig door op **Gereed** te tikken.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox Selectiemodus in het Afspeellijst Detailscherm" image="/docs/guide/flacbox/img/selection-mode-playlist-details-screen.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox Selectiemodus in het Afspeellijst Detailscherm" image="/docs/guide/flacbox/img/selection-mode-playlist-details-screen.webp" >}}
 {{< /cards >}}
 
 ## Trackopties

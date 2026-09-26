@@ -19,7 +19,7 @@ readingTime: 11
 Gestionarea bibliotecii muzicale este simplă cu Flacbox, unde puteți organiza fără efort toate piesele dvs. — FLAC, ALAC, DSD, MP3, M4A, OGG, WMA, APE locale și zeci de alte formate — într-o colecție unică, căutabilă. Aveți două opțiuni pentru a construi biblioteca muzicală: adăugare manuală (alegeți exact ce se adaugă) sau sincronizare automată (Flacbox scanează foldere cloud desemnate și adaugă automat fișiere noi pe măsură ce apar).
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Vizualizare Albume Bibliotecă Muzicală Flacbox" image="/docs/guide/flacbox/img/media-library-albums.webp" >}}
+  {{< ls-card title="" subtitle="Vizualizare Albume Bibliotecă Muzicală Flacbox" image="/docs/guide/flacbox/img/media-library-albums.webp" >}}
 {{< /cards >}}
 
 ## Adăugare Manuală
@@ -27,7 +27,7 @@ Gestionarea bibliotecii muzicale este simplă cu Flacbox, unde puteți organiza 
 Pentru a adăuga manual piese, atingeți pictograma **Adăugare Muzică** situată în colțul din stânga sus și alegeți foldere sau fișiere dintr-un serviciu de stocare cloud conectat sau fișiere situate pe dispozitivul dvs. Când adăugați piese la bibliotecă, se creează doar linkuri la acele piese — fișierele reale rămân în locațiile lor originale pentru a economisi spațiu de stocare valoros. Dacă doriți să faceți piesele disponibile offline, puteți folosi acțiunea Descărcare din meniul de opțiuni sau activa Modul Offline pentru liste de redare și colecții de piese.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox Adăugare Cântece la Biblioteca Muzicală" image="/docs/guide/flacbox/img/library-add-songs.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox Adăugare Cântece la Biblioteca Muzicală" image="/docs/guide/flacbox/img/library-add-songs.webp" >}}
 {{< /cards >}}
 
 Puteți, de asemenea, să glisați și să plasați fișiere în bibliotecă pe versiunea Mac, sau să folosiți **Deschidere Fișiere…** / **Deschidere Folder…** din selectorul de fișiere al sistemului pe iPhone și iPad.
@@ -89,7 +89,7 @@ Situată imediat sub bara de navigare, bara de instrumente superioară oferă ma
 Funcția de căutare vă dă puterea să localizați o piesă, artist, album sau gen specific în biblioteca muzicală. Pe ecranul de Căutare, aveți acces la acțiunile Sortare, Filtrare și vedere Grilă / Listă. Căutarea rulează local față de baza de date a bibliotecii muzicale, deci funcționează complet offline și returnează rezultate pe măsură ce tastați.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox Căutare în Biblioteca Muzicală" image="/docs/guide/flacbox/img/media-library-search.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox Căutare în Biblioteca Muzicală" image="/docs/guide/flacbox/img/media-library-search.webp" >}}
 {{< /cards >}}
 
 ## Meniu Opțiuni
@@ -140,7 +140,7 @@ Când deschideți secțiunile Artist, Artist de Album sau Compozitor, puteți ve
 Aceasta este deosebit de utilă pentru curățarea compilațiilor aglomerate de «Artiști Diferiți» în biblioteci mari.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox Ecran Detaliu Album" image="/docs/guide/flacbox/img/media-library-album-details-screen.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox Ecran Detaliu Album" image="/docs/guide/flacbox/img/media-library-album-details-screen.webp" >}}
 {{< /cards >}}
 
 ## Setări

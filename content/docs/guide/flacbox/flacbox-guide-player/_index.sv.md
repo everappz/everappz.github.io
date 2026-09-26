@@ -23,7 +23,7 @@ Ljudspelaren är appens huvudskärm där du kontrollerar musiken och de flesta u
 Du kan komma till helskärmsspelaren från minispelarfältet. På iPhone sitter minispelaren längst ned på huvudskärmen. På iPad och Mac är den på vänster sida. För att dölja minispelaren på iPhone, tryck på den en gång och svep nedåt. För att stänga helskärmsspelaren helt, tryck på stängknappen i det nedre högra hörnet.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox ljudspelares huvudskärm" image="/docs/guide/flacbox/img/audio-player-main-screen.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox ljudspelares huvudskärm" image="/docs/guide/flacbox/img/audio-player-main-screen.webp" >}}
 {{< /cards >}}
 
 ## Stödda ljudformat
@@ -66,7 +66,7 @@ För AirPlay, leta efter **AirPlay**-knappen längst ned på spelaren. Tryck på
 Flacbox inkluderar en **10-bands equalizer** med iPod-liknande förinställningar. Tryck på Equalizer i volymvyn och aktivera den sedan i det övre högra hörnet. Du kan använda förinställningar som Acoustic och Bass Booster, eller justera varje frekvensbands med reglage. Gör dina egna förinställningar, spara dem under valfritt namn och öka den totala volymen med förförstärkaren. Vi har mer detaljerade instruktioner om hur du använder equalizern [här](/docs/howto/how-to-use-the-audio-equalizer-on-your-iphone-ipad-mac-with-evermusic-and-flacbox).
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox ljudspelarequalizer" image="/docs/guide/flacbox/img/audio-player-equalizer.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox ljudspelarequalizer" image="/docs/guide/flacbox/img/audio-player-equalizer.webp" >}}
 {{< /cards >}}
 
 ## Verktygsfält för spelarläge
@@ -82,7 +82,7 @@ För vissa spelarstiler finns det ett dedikerat verktygsfält längst upp i hels
 För att se din spelarkö, tryck på köknappen till höger om den aktuella låten. Varje låt i kön har fler åtgärder — tryck på tre punkter för att visa dem. För att ändra ordning på en låt i kön, använd ordningsomkopplaren nära titeln och dra den till en ny position.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox uppspelningskö" image="/docs/guide/flacbox/img/playback_queue.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox uppspelningskö" image="/docs/guide/flacbox/img/playback_queue.webp" >}}
 {{< /cards >}}
 
 ## Kommentarer / Texter
@@ -98,7 +98,7 @@ För att visa spårkommentarer och inbyggda texter, samt LRC-filer, följ dessa 
 Tryck sedan på köknappen längst ned på skärmen flera gånger för att växla från omslags- / kövyn till kommentarsvyn. På skärmen Kommentarer, rulla åt höger för att växla mellan **Kommentarer**, **Inbyggda texter** och **LRC-filen**. Fullständiga instruktioner finns [här](/docs/howto/how-to-add-and-view-comments-to-your-audio-tracks-on-iphone-ipad-and-mac-with-evermusic-and-flacbox).
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox texter och kommentarskärm" image="/docs/guide/flacbox/img/lyrics-screen.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox texter och kommentarskärm" image="/docs/guide/flacbox/img/lyrics-screen.webp" >}}
 {{< /cards >}}
 
 ## Alternativmeny
@@ -121,7 +121,7 @@ Varje låt i ljudspelarens kö har en meny med fler åtgärder, nåbar genom att
 Samma alternativ är tillgängliga för det nu spelande objektet i ljudspelarens kö, som du kan komma åt genom att trycka på ikonen **Fler åtgärder** nära spårtiteln.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox alternativ för ett objekt i uppspelningskön" image="/docs/guide/flacbox/img/options-for-item-in-playback-queue.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox alternativ för ett objekt i uppspelningskön" image="/docs/guide/flacbox/img/options-for-item-in-playback-queue.webp" >}}
 {{< /cards >}}
 
 ## Ytterligare spelaråtgärder
@@ -143,7 +143,7 @@ Tryck på knappen **Fler åtgärder** "..." på vänster sida av den nu spelande
 - **Hjälp** — hitta hjälp och vägledning.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox ljudspelares fler åtgärder-skärm" image="/docs/guide/flacbox/img/audio-player-more-actions-screen.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox ljudspelares fler åtgärder-skärm" image="/docs/guide/flacbox/img/audio-player-more-actions-screen.webp" >}}
 {{< /cards >}}
 
 ## Ljudbokmärken
@@ -161,7 +161,7 @@ Så här skapar du ett nytt bokmärke:
 Redigering av bokmärken för det aktuella spåret är enkelt: tryck på Redigera i det övre högra hörnet för att gå in i redigeringsläge. I det här läget kan du ordna om bokmärken, ta bort dem, justera bokmärkestid och ändra bokmärkestitlar. Mer detaljerade instruktioner om ljudbokmärken finns [här](/docs/howto/how-to-listen-to-audiobooks-on-iphone-ipad-mac-using-evermusic).
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox ljudbokmärkesskärm" image="/docs/guide/flacbox/img/audio-bookmarks.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox ljudbokmärkesskärm" image="/docs/guide/flacbox/img/audio-bookmarks.webp" >}}
 {{< /cards >}}
 
 ## Senaste och favoriter
@@ -175,7 +175,7 @@ Anslut din iPhone till din bil via USB eller trådlös Apple CarPlay och Flacbox
 [Läs den fullständiga CarPlay-guiden](/docs/howto/how-to-play-your-own-music-on-iphone-using-carplay/).
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox på Apple CarPlay" image="/docs/guide/flacbox/img/carplay-main.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox på Apple CarPlay" image="/docs/guide/flacbox/img/carplay-main.webp" >}}
 {{< /cards >}}
 
 ## Hemskärmswidgetar (iPhone och iPad)
@@ -243,7 +243,7 @@ Anpassa inställningarna för audioequalizern. Du kan läsa mer om konfiguration
 Justera uppspelningshastigheten för ljudspelaren från **0,02× till 3,00×**. Tryck på konfigurationsikonen i det övre högra hörnet för att växla till **precist läge** för finare justeringar.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox uppspelningshastighetsskärm" image="/docs/guide/flacbox/img/playback-speed.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox uppspelningshastighetsskärm" image="/docs/guide/flacbox/img/playback-speed.webp" >}}
 {{< /cards >}}
 
 ### Tonhöjdskorrigering

@@ -19,7 +19,7 @@ A secção Ficheiros Locais serve como centro para gerir ficheiros localizados n
 Este gestor de ficheiros integrado permite editar ficheiros (renomear, mover, copiar, enviar, eliminar), monitorizar transferências e oferece vários métodos para importar ficheiros de áudio para a aplicação — transferências diretas da nuvem, sincronização em modo offline, pen drives USB, Wi-Fi Drive e Partilha de Ficheiros Finder.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Ecrã de Ficheiros Locais do Flacbox" image="/docs/guide/flacbox/img/local-files.webp" >}}
+  {{< ls-card title="" subtitle="Ecrã de Ficheiros Locais do Flacbox" image="/docs/guide/flacbox/img/local-files.webp" >}}
 {{< /cards >}}
 
 ## Descarregar Ficheiros do Armazenamento na Nuvem
@@ -102,7 +102,7 @@ Mostra ficheiros e pastas armazenados no diretório Documentos da aplicação e 
 Mostra ficheiros localizados no seu dispositivo mas noutras aplicações. Pode importá-los para esta aplicação usando o seletor de ficheiros do sistema. Para ativar o seletor, escolha **Abrir Ficheiros…** para selecionar ficheiros ou **Abrir Pastas…** para selecionar pastas. Instruções detalhadas sobre como importar música local armazenada no seu iPhone ou Mac estão disponíveis [aqui](/docs/howto/how-to-play-local-music-stored-on-your-iphone-or-mac).
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox Pastas do Dispositivo Ligado" image="/docs/guide/flacbox/img/connected-device-folders.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox Pastas do Dispositivo Ligado" image="/docs/guide/flacbox/img/connected-device-folders.webp" >}}
 {{< /cards >}}
 
 Também pode ligar uma pasta localizada no seu dispositivo e ter acesso rápido ao seu conteúdo. Use o item de menu **Ligar uma Pasta** e escolha uma pasta localizada no seu dispositivo. Toque em **Concluído**, e a aplicação cria um link para essa pasta com acesso de leitura / escrita, permitindo-lhe gerir ficheiros diretamente desta aplicação. Para desligar uma pasta localizada no seu dispositivo, toque no botão **Mais Ações** e escolha **Desconectar**.
@@ -137,7 +137,7 @@ Se precisar de editar vários ficheiros, ative o modo de seleção tocando no bo
 - **Excluir** — remover o ficheiro ou pasta selecionado do dispositivo. **Esta ação é irreversível.**
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox Modo de Seleção de Ficheiros Locais" image="/docs/guide/flacbox/img/local-files-selection-mode.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox Modo de Seleção de Ficheiros Locais" image="/docs/guide/flacbox/img/local-files-selection-mode.webp" >}}
 {{< /cards >}}
 
 ## Menu de Opções
@@ -161,7 +161,7 @@ Para cada ficheiro ou pasta na aplicação, estão disponíveis várias ações,
 - **Excluir** — eliminar o ficheiro ou pasta do dispositivo. **Esta ação é irreversível** e não pode restaurar ficheiros eliminados.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox Mais Ações para um Ficheiro Local" image="/docs/guide/flacbox/img/local-files-more-actions-for-file.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox Mais Ações para um Ficheiro Local" image="/docs/guide/flacbox/img/local-files-more-actions-for-file.webp" >}}
 {{< /cards >}}
 
 ## Pastas Offline

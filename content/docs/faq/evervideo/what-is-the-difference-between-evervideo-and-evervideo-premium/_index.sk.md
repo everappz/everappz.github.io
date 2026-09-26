@@ -11,7 +11,7 @@ readingTime: 3
 Evervideo ponúka bezplatnú verziu s určitými obmedzeniami používania aj prémiovú verziu s pridanými funkciami, ktorú je možné odomknúť prostredníctvom nákupov v aplikácii.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Obrazovka inovácie predvoleného plánu" image="/docs/faq/evervideo/what-is-the-difference-between-evervideo-and-evervideo-premium/upgrade-default.webp" >}}
+  {{< ls-card title="" subtitle="Obrazovka inovácie predvoleného plánu" image="/docs/faq/evervideo/what-is-the-difference-between-evervideo-and-evervideo-premium/upgrade-default.webp" >}}
 {{< /cards >}}
 
 ## Vyberte si svoj prémiový plán
@@ -19,7 +19,7 @@ Evervideo ponúka bezplatnú verziu s určitými obmedzeniami používania aj pr
 Bezplatná verzia aplikácie ponúka jednorazový doživotný nákup v aplikácii a dve možnosti predplatného (1 mesiac a 1 rok) na odstránenie všetkých obmedzení a inováciu na prémiovú verziu, čo vám umožní vybrať si najlepšiu a najoptimálnejšiu cenu. Ceny sa môžu líšiť v závislosti od vašej krajiny alebo územia. Majte tiež na pamäti, že **Family Sharing** je povolený pre všetky nákupy a plány, takže môžete zdieľať prémiovú verziu s členmi vašej rodiny.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Obrazovka výberu plánu Evervideo" image="/docs/faq/evervideo/what-is-the-difference-between-evervideo-and-evervideo-premium/plan-select.webp" >}}
+  {{< ls-card title="" subtitle="Obrazovka výberu plánu Evervideo" image="/docs/faq/evervideo/what-is-the-difference-between-evervideo-and-evervideo-premium/plan-select.webp" >}}
 {{< /cards >}}
 
 ## Zdieľanie nákupov medzi iOS a Mac
@@ -31,13 +31,13 @@ Môžete tiež skúsiť stlačiť tlačidlo „Obnoviť nákupy" v nastaveniach 
 Ak chcete obnoviť nákup na novom zariadení, jednoducho použite ponuku „Obnoviť nákupy". Uvidíte zoznam vašich nákupov. Ak nevidíte všetky nákupy, skontrolujte, či je zariadenie pripojené k rovnakému iTunes účtu, ktorý bol použitý na nákup, a uistite sa, že je povolený iCloud.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Obrazovka obnoveného nákupu" image="/docs/faq/evervideo/what-is-the-difference-between-evervideo-and-evervideo-premium/purchase-restored.webp" >}}
+  {{< ls-card title="" subtitle="Obrazovka obnoveného nákupu" image="/docs/faq/evervideo/what-is-the-difference-between-evervideo-and-evervideo-premium/purchase-restored.webp" >}}
 {{< /cards >}}
 
 Po inovácii aplikácie sa zobrazí obrazovka prémiového stavu s podrobnosťami o vašich aktuálnych nákupoch.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Obrazovka: Používate prémium" image="/docs/faq/evervideo/what-is-the-difference-between-evervideo-and-evervideo-premium/you-are-using-premium.webp" >}}
+  {{< ls-card title="" subtitle="Obrazovka: Používate prémium" image="/docs/faq/evervideo/what-is-the-difference-between-evervideo-and-evervideo-premium/you-are-using-premium.webp" >}}
 {{< /cards >}}
 
 ## Vyskúšajte Prémium zadarmo
@@ -45,7 +45,7 @@ Po inovácii aplikácie sa zobrazí obrazovka prémiového stavu s podrobnosťam
 Navyše, je tu časovo obmedzená príležitosť „**Vyskúšajte Prémium zadarmo**". K tejto funkcii môžete pristupovať cez ponuku „Vyskúšajte Prémium zadarmo". Jednoduchým sledovaním reklamy alebo šírením informácií o aplikácii medzi priateľov môžete počas tohto propagačného obdobia odomknúť prémiovú verziu zadarmo. To vám poskytuje šancu vyskúšať prémiové funkcie bez akéhokoľvek finančného záväzku.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Obrazovka: Vyskúšajte prémium zadarmo" image="/docs/faq/evervideo/what-is-the-difference-between-evervideo-and-evervideo-premium/premium-for-free.webp" >}}
+  {{< ls-card title="" subtitle="Obrazovka: Vyskúšajte prémium zadarmo" image="/docs/faq/evervideo/what-is-the-difference-between-evervideo-and-evervideo-premium/premium-for-free.webp" >}}
 {{< /cards >}}
 
 ## Evervideo Free (bezplatné)
@@ -62,7 +62,7 @@ Navyše, je tu časovo obmedzená príležitosť „**Vyskúšajte Prémium zada
 - Žiadne možnosti prispôsobenia ani personalizácie.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Obrazovka inovácie cloudového úložiska" image="/docs/faq/evervideo/what-is-the-difference-between-evervideo-and-evervideo-premium/upgrade-cloud-storage.webp" >}}
+  {{< ls-card title="" subtitle="Obrazovka inovácie cloudového úložiska" image="/docs/faq/evervideo/what-is-the-difference-between-evervideo-and-evervideo-premium/upgrade-cloud-storage.webp" >}}
 {{< /cards >}}
 
 ## Evervideo Premium (prémiové)
@@ -106,7 +106,7 @@ Ak začínate alebo potrebujete iba základné funkcie prehrávania videa, **Eve
 Na druhej strane, **Evervideo Premium** odomkne plný zážitok. Budete sa tešiť z rozhrania bez reklám, neobmedzenej podpory playlistu a radu, plnej offline funkčnosti, flexibility cloudu a pokročilých možností exportu a personalizácie. Je to najlepšia možnosť pre používateľov s veľkými videotékami, tých, ktorí sledujú obsah z viacerých zdrojov, alebo tých, ktorí hľadajú profesionálnejší a plynulejší media player.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Obrazovka: Kúpili ste si prémium" image="/docs/faq/evervideo/what-is-the-difference-between-evervideo-and-evervideo-premium/you-have-purchased-premium.webp" >}}
+  {{< ls-card title="" subtitle="Obrazovka: Kúpili ste si prémium" image="/docs/faq/evervideo/what-is-the-difference-between-evervideo-and-evervideo-premium/you-have-purchased-premium.webp" >}}
 {{< /cards >}}
 
 Ak hľadáte flexibilitu, vyskúšajte **mesačný plán**. Pre dlhodobú hodnotu zvoľte **ročnú** alebo **doživotnú** inováciu — obe ponúkajú plný prístup za lepšiu cenu.

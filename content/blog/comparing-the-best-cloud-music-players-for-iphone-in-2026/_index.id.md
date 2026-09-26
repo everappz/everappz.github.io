@@ -12,7 +12,7 @@ authors:
     image: "/images/about/artem-meleshko-founder-everappz.webp"
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 ## Pemutar Musik Cloud Mana yang Terbaik untuk iPhone?
 
@@ -91,22 +91,22 @@ Bagi para audiofil dan siapa pun yang memiliki koleksi musik pribadi di penyimpa
 
 ## Pertanyaan yang Sering Diajukan
 
-{{% details title="Bisakah saya memutar file FLAC di iPhone tanpa mengonversinya?" closed="true" %}}
+{{% ls-details title="Bisakah saya memutar file FLAC di iPhone tanpa mengonversinya?" closed="true" %}}
 Ya. Evermusic memutar FLAC, DSD, WAV, ALAC, dan format lossless lainnya secara native di iPhone. Tidak diperlukan konversi file. Cukup hubungkan akun penyimpanan cloud Anda dan streaming atau unduh file FLAC Anda secara langsung.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Pemutar musik cloud mana yang berfungsi dengan Dropbox dan Google Drive?" closed="true" %}}
+{{% ls-details title="Pemutar musik cloud mana yang berfungsi dengan Dropbox dan Google Drive?" closed="true" %}}
 Evermusic mendukung Dropbox, Google Drive, OneDrive, Box, MEGA, pCloud, WebDAV, SMB, dan lainnya -- lebih dari 12 layanan cloud secara total. Sebagian besar aplikasi streaming utama seperti Spotify dan Apple Music tidak terhubung ke penyimpanan cloud pihak ketiga.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Apakah saya perlu berlangganan untuk menggunakan pemutar musik cloud?" closed="true" %}}
+{{% ls-details title="Apakah saya perlu berlangganan untuk menggunakan pemutar musik cloud?" closed="true" %}}
 Tergantung pada aplikasinya. Spotify, Apple Music, dan Deezer memerlukan langganan bulanan. Evermusic menawarkan tingkat gratis dan pembelian Premium sekali bayar tanpa biaya berulang. Anda menggunakan penyimpanan cloud Anda sendiri untuk menyimpan file musik Anda.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Apa pemutar musik terbaik untuk mendengarkan offline di iPhone?" closed="true" %}}
+{{% ls-details title="Apa pemutar musik terbaik untuk mendengarkan offline di iPhone?" closed="true" %}}
 Semua pemutar utama mendukung unduhan offline, tetapi pendekatannya berbeda. Spotify dan Apple Music memungkinkan Anda mengunduh trek dari katalog mereka. Evermusic memungkinkan Anda mengunduh file Anda sendiri dari penyimpanan cloud untuk pemutaran offline -- ideal untuk penerbangan, perjalanan, atau area tanpa konektivitas.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Bisakah saya menggunakan pemutar musik cloud dengan NAS atau server rumah saya?" closed="true" %}}
+{{% ls-details title="Bisakah saya menggunakan pemutar musik cloud dengan NAS atau server rumah saya?" closed="true" %}}
 Ya. Evermusic mendukung protokol WebDAV dan SMB, yang berarti dapat terhubung ke sebagian besar perangkat NAS dari Synology, QNAP, dan Western Digital. Ini mengubah iPhone Anda menjadi pemutar jarak jauh untuk seluruh perpustakaan musik rumah Anda.
-{{% /details %}}
+{{% /ls-details %}}

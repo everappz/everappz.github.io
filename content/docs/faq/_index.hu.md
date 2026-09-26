@@ -15,7 +15,7 @@ tags: [
 ---
 
 
-{{< lottie src="/images/juicy-json/juicy-woman-focused-on-online-learning.json" width="85%" >}}
+{{< ls-lottie src="/images/juicy-json/juicy-woman-focused-on-online-learning.json" width="85%" >}}
 
 ## Ismerje meg alkalmazásainkat
 
@@ -27,7 +27,7 @@ Tekintse meg az alkalmazásához tartozó GYIK-et alább a kezdéshez, vagy bön
 
 ## Válassza ki alkalmazását
 
-{{< product-doc-cards section="faq" >}}
+{{< ls-product-doc-cards section="faq" >}}
 
 ## Általános problémák és válaszok
 
@@ -35,7 +35,7 @@ Tekintse meg az alkalmazásához tartozó GYIK-et alább a kezdéshez, vagy bön
 
 <div class="hx:w-full">
 
-{{% details title="Miért nem tudok bejelentkezni a pCloudba régebbi iOS verzión (15.8.4)?" closed="true" %}}
+{{% ls-details title="Miért nem tudok bejelentkezni a pCloudba régebbi iOS verzión (15.8.4)?" closed="true" %}}
 A pCloud webes bejelentkezési oldala előfordulhat, hogy nem jelenik meg helyesen régebbi iOS verziókon, például a 15.8.4-en, ami megakadályozza az e-mail és jelszó megadását a felhőkapcsolat képernyőjén.<br><br>
 
 Megkerülő megoldásként a **WebDAV** protokollt használhatja, amelyet a pCloud támogat, és megbízhatóan működik minden iOS verzión.
@@ -49,9 +49,9 @@ Megkerülő megoldásként a **WebDAV** protokollt használhatja, amelyet a pClo
 Nyissa meg az alkalmazást → Kapcsolatok → Csatlakozás felhőtárhelyhez → Válassza a **WebDAV** lehetőséget → Adja meg hitelesítő adatait és a szerver URL-jét.
 
 Ez a módszer lehetővé teszi, hogy csatlakozzon a pCloud tárhelyéhez és hozzáférjen fájljaihoz gond nélkül régebbi eszközökön is.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Hogyan játszhatok zenét AirPlay-en Mac-en (macOS)?" closed="true" %}}
+{{% ls-details title="Hogyan játszhatok zenét AirPlay-en Mac-en (macOS)?" closed="true" %}}
 Az alkalmazás macOS verziója nem tartalmaz beépített AirPlay, Chromecast vagy Bluetooth csatlakozási gombokat, mint az iOS verzió.<br><br>
 
 Az **AirPlay** MacBook Pro-n való használatához kövesse ezeket a lépéseket:
@@ -62,9 +62,9 @@ Az **AirPlay** MacBook Pro-n való használatához kövesse ezeket a lépéseket
 4. Válassza ki a kívánt eszközt a zene streamelésének megkezdéséhez.  
 
 Ez az összes rendszerhangot (beleértve az Evermusic vagy Flacbox hangját) a kiválasztott AirPlay eszközre irányítja.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Miért nincs aktiválva a Premium vásárlásom Mac-en, ha iPhone-on vettem?" closed="true" %}}
+{{% ls-details title="Miért nincs aktiválva a Premium vásárlásom Mac-en, ha iPhone-on vettem?" closed="true" %}}
 Az élethosszig tartó vásárlások és előfizetések iOS és Mac között az **iCloud** segítségével szinkronizálódnak.<br><br>
 
 A Premium Mac-en való aktiválásához:<br>
@@ -76,9 +76,9 @@ A Premium Mac-en való aktiválásához:<br>
 - Alternatívaként érintse meg a **Vásárlások visszaállítása** lehetőséget mindkét eszköz alkalmazásbeállításaiban<br><br>
 
 Ezután a Premium funkciók automatikusan aktiválódnak Mac-en.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Hogyan szinkronizálhatom automatikusan a lejátszási listákat az eszközök között?" closed="true" %}}
+{{% ls-details title="Hogyan szinkronizálhatom automatikusan a lejátszási listákat az eszközök között?" closed="true" %}}
 Jelenleg **nincs automatikus szinkronizálás** lejátszási listákhoz.<br><br>
 
 Az alábbi lehetőségek egyikét használhatja:<br>
@@ -88,9 +88,9 @@ Az alábbi lehetőségek egyikét használhatja:<br>
   - [Lejátszási listák importálása](/docs/howto/how-to-import-m3u-playlist-to-evermusic-and-flacbox/)<br>
 - **Lejátszási lista vagy albumok archiválása** és átvitel ZIP-en keresztül:<br>
   - [Lejátszási lista archiválási útmutató](/docs/howto/how-to-archive-zip-playlists-albums-artists-and-genres-in-evermusic-flacbox-and-transfer-to/)
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Biztonságos az alkalmazásait használni? Ki lehet kapcsolni az analitikát?" closed="true" %}}
+{{% ls-details title="Biztonságos az alkalmazásait használni? Ki lehet kapcsolni az analitikát?" closed="true" %}}
 Igen, az Ön adatvédelme a legfontosabb számunkra.<br><br>
 
 - Minden adat — zenefájlok, beállítások, felhő bejelentkezések — az eszközén marad<br>
@@ -104,18 +104,18 @@ További információ:<br>
 
 Személyre szabott hirdetések esetén a Google Mobile Ads megköveteli az adatkezelési hozzájárulás megjelenítését.<br>
 A Premium felhasználók nem látnak hirdetéseket, és a hirdetési SDK teljesen le van tiltva.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Támogatják az alkalmazásai a Családi megosztást?" closed="true" %}}
+{{% ls-details title="Támogatják az alkalmazásai a Családi megosztást?" closed="true" %}}
 Igen, a Családi megosztás támogatott.<br><br>
 
 Az alkalmazáson belüli vásárlások megosztásához:<br>
 - Győződjön meg arról, hogy a vásárlás be van állítva a családi csoportjával való megosztásra<br>
 - A családtag eszközén lépjen a **Beállítások > Vásárlások > Vásárlások visszaállítása** menüpontba<br>
 - Ez kéri az Apple szervereiről a vásárlási adatokat, és aktiválja azokat az eszközén
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Hogyan gyorsíthatom fel a metaadat- és felhőszinkronizálást?" closed="true" %}}
+{{% ls-details title="Hogyan gyorsíthatom fel a metaadat- és felhőszinkronizálást?" closed="true" %}}
 A szinkronizálás sebességének javításához engedélyezze a háttérfeladatokat:<br><br>
 
 - **Beállítások → Zenei könyvtár → Metaadat olvasás → Metaadat olvasás háttérben**<br>
@@ -123,14 +123,14 @@ A szinkronizálás sebességének javításához engedélyezze a háttérfeladat
 
 Ezenkívül macOS-en növelje a metaadat olvasási sebességet a **Beállítások → Zenei könyvtár** menüpontban.<br>
 Ha a lejátszó aktív (hang lejátszódik), az iOS nem felfüggeszti az alkalmazást, lehetővé téve a folyamatos szinkronizálást.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Hogyan mondhatom le az előfizetésemet?" closed="true" %}}
+{{% ls-details title="Hogyan mondhatom le az előfizetésemet?" closed="true" %}}
 Az előfizetését az Apple hivatalos utasításai alapján mondhatja le:<br>
 👉 [Hogyan lehet lemondani egy előfizetést](https://support.apple.com/en-us/118428)
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Hogyan csatlakozhatom és streamelhetem a hangot a WD MyCloud EX2 Ultra-ból?" closed="true" %}}
+{{% ls-details title="Hogyan csatlakozhatom és streamelhetem a hangot a WD MyCloud EX2 Ultra-ból?" closed="true" %}}
 
 Amikor az alkalmazásban kapcsolatot ad hozzá a **Kapcsolatok > Csatlakozás felhőtárhelyhez > My Cloud Home** menüponton keresztül, ez hivatalosan a **WD MyCloud Home** eszközök támogatására lett tervezve.<br>
 A WD MyCloud EX2 Ultra korlátozott hozzáférést alkalmaz az alkalmazások számára.<br><br>
@@ -144,16 +144,16 @@ Ha azonban sikeresen csatlakozott egy **WD MyCloud EX2 Ultra**, **WD MyCloud Mir
 5. Most már közvetlenül streamelheti vagy letöltheti ezeket<br><br>
 
 ⚠️ Csak az alkalmazáson keresztül létrehozott mappák lesznek elérhetők a NAS-ból.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Hogyan csatlakozhatom a Koofr.eu-hoz?" closed="true" %}}
+{{% ls-details title="Hogyan csatlakozhatom a Koofr.eu-hoz?" closed="true" %}}
 A Koofrt a **WebDAV** segítségével csatlakoztathatja.<br><br>
 
 - Koofr WebDAV beállítási útmutató: [koofr.eu blog](https://koofr.eu/blog/posts/3-ways-to-map-koofr-as-a-network-drive-explained)<br>
 - Evermusic/Flacbox WebDAV útmutató: [Hogyan csatlakoztassunk NAS tárolót WebDAV-on keresztül és hallgassunk zenét iPhone-on vagy Mac-en](/docs/howto/how-to-connect-nas-storage-using-webdav-and-listen-to-music-on-your-iphone-or-mac/)
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Mik az alkalmazás URL sémái?" closed="true" %}}
+{{% ls-details title="Mik az alkalmazás URL sémái?" closed="true" %}}
 Az alábbi sémák támogatottak:<br><br>
 
 **Evermusic**<br>
@@ -172,35 +172,35 @@ Az alábbi sémák támogatottak:<br><br>
 **Evervideo**<br>
 - iOS: `lsevervideo://`<br>
 - macOS: `lsevervideomac://`
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="A zene leáll, amikor az alkalmazás a háttérben van — hogyan javítható?" closed="true" %}}
+{{% ls-details title="A zene leáll, amikor az alkalmazás a háttérben van — hogyan javítható?" closed="true" %}}
 Ha az alkalmazás összeomlik vagy szünetel a háttérben:<br>
 - Lépjen a **Beállítások > Zenei könyvtár > Online zene szinkronizálása > Háttér szinkronizálás → Letiltás** menüpontba<br>
 - **Beállítások > Zenei könyvtár > Metaadat olvasás > Metaadat olvasás háttérben → Letiltás**<br>
 - **Beállítások > Fájlkezelő > Háttér átvitelek → Letiltás**
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="A zökkenőmentes lejátszás nem működik — hogyan javítható?" closed="true" %}}
+{{% ls-details title="A zökkenőmentes lejátszás nem működik — hogyan javítható?" closed="true" %}}
 A zökkenőmentes lejátszás az iOS verziótól és a hangmotortól függ.<br>
 Próbálja meg átváltani a hangmotort:<br>
 - Lépjen a **Beállítások → Audiolejátszó → Általános → Audioprocesszor** menüpontba<br>
 - Válassza a **Core Audio** lehetőséget a jobb zökkenőmentes támogatáshoz
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Miért csak 100 elemet mutat az alkalmazás egy listában?" closed="true" %}}
+{{% ls-details title="Miért csak 100 elemet mutat az alkalmazás egy listában?" closed="true" %}}
 Az alkalmazás lapozást alkalmaz a teljesítmény érdekében.<br>
 A letiltáshoz:<br>
 - Lépjen a **Beállítások → Személyre szabás → Tartalombetöltési korlát → Inaktív** menüpontba<br>
 Most minden elem egyszerre töltődik be.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Miért vannak furcsa karakterek a metaadatokban?" closed="true" %}}
+{{% ls-details title="Miért vannak furcsa karakterek a metaadatokban?" closed="true" %}}
 Próbálja engedélyezni a metaadat normalizálást:<br>
 - **Beállítások → Zenei könyvtár → Metaadat olvasás → Metaadat kódolás normalizálása**
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Miért nem tudja az alkalmazás olvasni a különleges karaktereket tartalmazó mappaneveket?" closed="true" %}}
+{{% ls-details title="Miért nem tudja az alkalmazás olvasni a különleges karaktereket tartalmazó mappaneveket?" closed="true" %}}
 Ez egy ismert probléma az **SMB2 protokollal**.<br><br>
 
 Próbálja az alábbi megoldásokat:<br>
@@ -210,9 +210,9 @@ Próbálja az alábbi megoldásokat:<br>
   - Válasszon mappákat/fájlokat az Apple natív menüjét használva<br><br>
 
 Alternatívaként csatlakozzon **WebDAV** vagy **DLNA** segítségével, ha a NAS támogatja ezeket.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Hogyan tölthetek fel és kezelhetek zenét az iCloudban?" closed="true" %}}
+{{% ls-details title="Hogyan tölthetek fel és kezelhetek zenét az iCloudban?" closed="true" %}}
 – **Hogyan tölthetek fel zenét az iCloudba?**  <br>
 Lépjen a [https://www.icloud.com](https://www.icloud.com) oldalra böngészőjében, hozzon létre egy mappát, és töltse fel zenefájljait közvetlenül Mac-ről vagy PC-ről.<br>
 
@@ -225,9 +225,9 @@ Két lehetősége van:  <br>
 
 Tudjon meg többet itt: [Hogyan streameljünk zenét az iCloud Drive-ból iPhone-on vagy Mac-en](/docs/howto/how-to-listen-to-music-from-icloud-drive-on-your-iphone-or-mac/)
 
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Hogyan vihetem át 10 GB-os zenei könyvtáramat Windows 11-ről iPhone-ra offline lejátszáshoz?" closed="true" %}}
+{{% ls-details title="Hogyan vihetem át 10 GB-os zenei könyvtáramat Windows 11-ről iPhone-ra offline lejátszáshoz?" closed="true" %}}
 
 Számos megbízható lehetőség áll rendelkezésére a zenei könyvtár átviteléhez Windows 11 PC-ről iPhone-ra és offline használathoz az alkalmazásban. Válassza az Önnek legjobban megfelelő módszert:
 
@@ -253,6 +253,6 @@ Számos megbízható lehetőség áll rendelkezésére a zenei könyvtár átvit
 
 ⚠️ Nagy könyvtárak (10 GB+) átvitelekor a kábeles USB átvitel általában a leggyorsabb és legstabilabb lehetőség.
 
-{{% /details %}}
+{{% /ls-details %}}
 
 </div>

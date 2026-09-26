@@ -7,7 +7,7 @@ tags: ["nhạc", "tệp", "usb", "flash", "ngoài", "ixpand", "phát", "thẻ", 
 readingTime: 2
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **Tóm tắt:** Kết nối USB flash drive hoặc thẻ SD với iPhone của bạn bằng bộ chuyển đổi Apple hoặc ổ SanDisk iXpand, sau đó sử dụng Evermusic, Flacbox hoặc Evertag để duyệt, phát và quản lý các tệp âm thanh trực tiếp từ bộ nhớ ngoài.
@@ -72,18 +72,18 @@ Tận hưởng sự tự do truy cập và quản lý nhạc của bạn một c
 
 ## Câu hỏi thường gặp
 
-{{% details title="Bộ chuyển đổi USB nào hoạt động với iPhone để phát nhạc?" closed="true" %}}
+{{% ls-details title="Bộ chuyển đổi USB nào hoạt động với iPhone để phát nhạc?" closed="true" %}}
 Cả Lightning to SD Card Camera Reader và Lightning to USB 3 Camera Adapter của Apple đều hoạt động. Bộ chuyển đổi USB-C hoạt động trên các iPhone mới hơn có cổng USB-C. Ổ SanDisk iXpand Flash (V1-V7) cũng được hỗ trợ tự nhiên bởi Evermusic, Flacbox và Evertag.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Tôi có thể phát nhạc trực tiếp từ ổ USB mà không cần sao chép tệp không?" closed="true" %}}
+{{% ls-details title="Tôi có thể phát nhạc trực tiếp từ ổ USB mà không cần sao chép tệp không?" closed="true" %}}
 Có. Với ổ SanDisk iXpand, bạn có thể phát nhạc trực tiếp từ ổ mà không cần sao chép tệp vào iPhone. Khi sử dụng bộ chuyển đổi Apple, tệp được nhập nhưng bạn có thể chọn có sao chép chúng vào bộ nhớ cục bộ hay không.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Những định dạng âm thanh nào được hỗ trợ từ ổ USB?" closed="true" %}}
+{{% ls-details title="Những định dạng âm thanh nào được hỗ trợ từ ổ USB?" closed="true" %}}
 Evermusic và Flacbox hỗ trợ nhiều định dạng bao gồm FLAC, MP3, AAC, WAV, ALAC, OGG, WMA và nhiều hơn nữa. Tất cả các định dạng được hỗ trợ đều hoạt động khi phát từ bộ nhớ USB.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="SanDisk iXpand của tôi hiển thị lỗi 'bận'. Tôi nên làm gì?" closed="true" %}}
+{{% ls-details title="SanDisk iXpand của tôi hiển thị lỗi 'bận'. Tôi nên làm gì?" closed="true" %}}
 Một ứng dụng khác có thể đang truy cập ổ. Đóng tất cả các ứng dụng khác có thể đang sử dụng ổ flash, hoặc rút ra và cắm lại. Sau đó mở lại Evermusic, Flacbox hoặc Evertag.
-{{% /details %}}
+{{% /ls-details %}}

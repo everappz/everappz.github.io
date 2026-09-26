@@ -7,7 +7,7 @@ tags: ["evermusic", "flacbox", "legutóbbiak", "lastfm", "exportálás", "scrobb
 readingTime: 5
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **Összefoglaló:** Exportálja hallgatási előzményeit az Evermusicból vagy Flacboxból CSV fájlként, majd töltse fel a Last.fm-re az ingyenes Last.fm-Scrubbler-WPF eszközzel Windowson. Az automatikus scrobbling natívan is elérhető mindkét alkalmazásban.
@@ -134,22 +134,22 @@ Most megnyithatja profilját a [Last.fm](http://Last.fm) oldalon és ellenőrizh
 
 ## Gyakran ismételt kérdések
 
-{{% details title="Scrobblálhatok automatikusan CSV fájlok exportálása nélkül?" closed="true" %}}
+{{% ls-details title="Scrobblálhatok automatikusan CSV fájlok exportálása nélkül?" closed="true" %}}
 Igen. Mind az Evermusic, mind a Flacbox most támogatja az automatikus Last.fm scrobblálást. Lásd az útmutatót: [Hogyan scrobbláljon a Last.fm-re](/docs/howto/how-to-scrobble-your-music-history-from-evermusic-or-flacbox-to-last-fm).
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Mi van, ha a CSV-mben 14 napnál régebbi számok vannak?" closed="true" %}}
+{{% ls-details title="Mi van, ha a CSV-mben 14 napnál régebbi számok vannak?" closed="true" %}}
 Használja az Importálás módot a Last.fm-Scrubbler-WPF-ben. Újraszámítja az időbélyegeket a Befejezési időből, lehetővé téve a számok scrobblálását az eredeti dátumtól függetlenül.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Nincs Windows számítógépem. Használhatom még a Last.fm-Scrubblert?" closed="true" %}}
+{{% ls-details title="Nincs Windows számítógépem. Használhatom még a Last.fm-Scrubblert?" closed="true" %}}
 Igen. Telepítse a VirtualBoxot Mac-re és töltse le az ingyenes Windows fejlesztői környezet képet a Microsofttól. Futtassa a Last.fm-Scrubbler-WPF-t a virtuális gépen belül.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Miért nem elemezhetők egyes scrobble-ok?" closed="true" %}}
+{{% ls-details title="Miért nem elemezhetők egyes scrobble-ok?" closed="true" %}}
 A lényeges metaadatokkal (mint az előadó neve) nem rendelkező számok nem elemezhetők. Ez várható, és nem befolyásolja a fájl többi számát.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Van napi scrobble korlát?" closed="true" %}}
+{{% ls-details title="Van napi scrobble korlát?" closed="true" %}}
 Igen. A Last.fm-Scrubbler-WPF naponta legfeljebb 2800 scrobble-t engedélyez. Ha többet kell scrobblálnia, ossza el a folyamatot több napra.
-{{% /details %}}
+{{% /ls-details %}}

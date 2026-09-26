@@ -7,7 +7,7 @@ tags: ["cloud", "streaming", "computer", "mp3", "file", "downloader", "manager",
 keywords: ["strømme musikk fra Mac til iPhone", "SMB lydstrømming iOS", "Evermusic SMB oppsett", "koble PC musikk iPhone", "Mac musikkdeling iOS", "SMB Windows filstrømming", "Evermusic PC mappetilgang"]
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **Kort fortalt:** Bruk Evermusic-appen for iPhone eller iPad til å strømme musikk fra Mac eller Windows PC over det lokale nettverket ditt ved hjelp av SMB. Ingen synkronisering, ingen kopiering -- bare aktiver fildeling på datamaskinen din, koble til i appen og spill av. Oppsettet tar under 5 minutter.
@@ -102,26 +102,26 @@ P.S. Du kan også overføre lydfiler fra MAC/PC-en din til iPhone ved hjelp av i
 
 ## Ofte stilte spørsmål
 
-{{% details title="Kan jeg strømme musikk fra PC-en min til iPhone uten iTunes?" closed="true" %}}
+{{% ls-details title="Kan jeg strømme musikk fra PC-en min til iPhone uten iTunes?" closed="true" %}}
 Ja. Evermusic kobler til PC-en din via SMB på det lokale Wi-Fi-nettverket ditt. iTunes er ikke nødvendig. Bare aktiver fildeling på PC-en din og koble til i appen.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Bruker SMB-strømming mobildata?" closed="true" %}}
+{{% ls-details title="Bruker SMB-strømming mobildata?" closed="true" %}}
 Nei. SMB fungerer over det lokale Wi-Fi-nettverket ditt. Ingen internettforbindelse eller mobildata er nødvendig.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Hvilke lydformater støtter Evermusic via SMB?" closed="true" %}}
+{{% ls-details title="Hvilke lydformater støtter Evermusic via SMB?" closed="true" %}}
 Evermusic støtter MP3, FLAC, AAC, WAV, AIFF, OGG, WMA, ALAC og andre vanlige lydformater. Filer spilles av direkte fra SMB-delingen.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Kan jeg strømme musikk fra en NAS til iPhone?" closed="true" %}}
+{{% ls-details title="Kan jeg strømme musikk fra en NAS til iPhone?" closed="true" %}}
 Ja. Hvis NAS-en din støtter SMB (de fleste gjør det, inkludert Synology, QNAP og WD My Cloud), kan du koble til den med de samme stegene i denne guiden.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Må jeg holde datamaskinen min påslått under strømming?" closed="true" %}}
+{{% ls-details title="Må jeg holde datamaskinen min påslått under strømming?" closed="true" %}}
 Ja. Siden Evermusic strømmer filer direkte fra datamaskinen din, må den være påslått og koblet til det samme nettverket som iPhone.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Er det en filstørrelsesgrense for SMB-strømming?" closed="true" %}}
+{{% ls-details title="Er det en filstørrelsesgrense for SMB-strømming?" closed="true" %}}
 Nei. Evermusic strømmer filer av enhver størrelse via SMB. Store tapsfrie filer (FLAC, WAV) fungerer uten problemer.
-{{% /details %}}
+{{% /ls-details %}}

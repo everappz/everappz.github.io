@@ -31,7 +31,7 @@ readingTime: 14
 緊湊播放器在您瀏覽資料庫、檔案管理員或設定時保持可見，因此您在查找下一個視訊時永遠不會失去當前視訊。
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evervideo 全螢幕媒體播放器" image="/docs/guide/evervideo/img/evervideo-media-player-fullscreen.webp" >}}
+  {{< ls-card title="" subtitle="Evervideo 全螢幕媒體播放器" image="/docs/guide/evervideo/img/evervideo-media-player-fullscreen.webp" >}}
 {{< /cards >}}
 
 ## 支援的視訊和音訊格式
@@ -72,7 +72,7 @@ PiP 適用於 Evervideo 播放的每種視訊格式，包括雲端串流檔案�
 緊湊播放器是一個持久的迷你播放器，在您瀏覽資料庫、檔案管理員或設定時始終顯示在應用程式的每個畫面頂部。點選它展開到全螢幕播放器；向下滑動再次折疊。
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evervideo 主畫面緊湊播放器視圖中的視訊設定" image="/docs/guide/evervideo/img/evervideo-video-settings-from-compact-player-view-on-the-main-screen.webp" >}}
+  {{< ls-card title="" subtitle="Evervideo 主畫面緊湊播放器視圖中的視訊設定" image="/docs/guide/evervideo/img/evervideo-video-settings-from-compact-player-view-on-the-main-screen.webp" >}}
 {{< /cards >}}
 
 ## AirPlay 2
@@ -115,7 +115,7 @@ Evervideo 包含完整的音訊等化器，用於為您的耳機、音箱或高�
 為了調整畫面，Evervideo 提供專用的視訊等化器——在播放過程中即時調整亮度、對比度、飽和度和色調。與音訊等化器一樣，自訂視訊預設可以匯出和匯入以便共享或備份。使用它在晴天亮化暗景、增強褪色內容的飽和度，或暖化冷色調。
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evervideo 視訊等化器" image="/docs/guide/evervideo/img/evervideo-video-equalizer.webp" >}}
+  {{< ls-card title="" subtitle="Evervideo 視訊等化器" image="/docs/guide/evervideo/img/evervideo-video-equalizer.webp" >}}
 {{< /cards >}}
 
 ## 視訊縮放模式
@@ -144,7 +144,7 @@ Evervideo 包含用於球形視訊檔案的 VR / 360° 視口。播放 360° 視
 點選播放器工具列上的速度控制來更改播放速度——放慢用於分析（0.25× 或 0.5×）或加速用於教學和講座（1.25×、1.5×、2× 和高達 3×）。點選速度畫面右上角的設定圖示切換到具有更精細調整的精確模式。還提供每軌道音調校正。
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evervideo 主工具列上的播放速度" image="/docs/guide/evervideo/img/evervideo-media-player-playback-speed-on-main-toolbar.webp" >}}
+  {{< ls-card title="" subtitle="Evervideo 主工具列上的播放速度" image="/docs/guide/evervideo/img/evervideo-media-player-playback-speed-on-main-toolbar.webp" >}}
 {{< /cards >}}
 
 ## 播放器佇列
@@ -152,7 +152,7 @@ Evervideo 包含用於球形視訊檔案的 VR / 360° 視口。播放 360° 視
 要查看播放器佇列，點選播放器上的佇列按鈕。佇列中的每個視訊都有更多操作——點選三個點查看它們。要重新排序佇列中的視訊，使用標題旁邊的重新排序指示器並拖到新位置。
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evervideo 播放佇列" image="/docs/guide/evervideo/img/evervideo-playback-queue.webp" >}}
+  {{< ls-card title="" subtitle="Evervideo 播放佇列" image="/docs/guide/evervideo/img/evervideo-playback-queue.webp" >}}
 {{< /cards >}}
 
 ## 睡眠定時器
@@ -189,7 +189,7 @@ Evervideo 包含用於球形視訊檔案的 VR / 360° 視口。播放 360° 視
 - **說明** — 開啟指南。
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evervideo 播放器更多操作畫面" image="/docs/guide/evervideo/img/evervideo-media-player-more-actions.webp" >}}
+  {{< ls-card title="" subtitle="Evervideo 播放器更多操作畫面" image="/docs/guide/evervideo/img/evervideo-media-player-more-actions.webp" >}}
 {{< /cards >}}
 
 ## 播放器設定

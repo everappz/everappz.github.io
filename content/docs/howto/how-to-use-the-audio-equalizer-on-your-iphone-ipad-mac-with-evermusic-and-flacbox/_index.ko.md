@@ -7,7 +7,7 @@ tags: ["음악", "오디오", "이퀄라이저", "10밴드", "게인", "구성",
 keywords: ["오디오 이퀄라이저 iPhone", "Evermusic EQ 프리셋", "Flacbox 10밴드 이퀄라이저", "베이스 트레블 조정 iOS", "이퀄라이저 Mac 음악 앱", "프리앰프로 오디오 부스트", "맞춤 사운드 프리셋"]
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **요약:** Evermusic 및 Flacbox에는 프리셋(Rock, Hip-Hop, Bass Booster 등), 맞춤 프리셋 생성 및 볼륨 부스트를 위한 프리앰프가 포함된 전문 10밴드 오디오 이퀄라이저가 있습니다. iPhone, iPad 및 Mac에서 사용할 수 있습니다.
@@ -105,26 +105,26 @@ Evermusic 및 Flacbox의 다재다능한 이퀄라이저로 음악 경험을 향
 
 ## 자주 묻는 질문
 
-{{% details title="이퀄라이저는 모든 오디오 형식에서 작동하나요?" closed="true" %}}
+{{% ls-details title="이퀄라이저는 모든 오디오 형식에서 작동하나요?" closed="true" %}}
 네. Evermusic 및 Flacbox의 10밴드 EQ는 MP3, FLAC, AAC, WAV, ALAC, OGG 및 기타 모든 지원 형식에서 작동합니다.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="EQ 설정이 모든 노래에 적용되나요?" closed="true" %}}
+{{% ls-details title="EQ 설정이 모든 노래에 적용되나요?" closed="true" %}}
 네. 이퀄라이저를 활성화하고 프리셋을 선택하면 변경하거나 끌 때까지 모든 재생에 적용됩니다.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="맞춤 프리셋을 여러 개 만들 수 있나요?" closed="true" %}}
+{{% ls-details title="맞춤 프리셋을 여러 개 만들 수 있나요?" closed="true" %}}
 네. 여러 개의 맞춤 프리셋을 만들고 저장하며 전환할 수 있습니다. 내보내기 기능을 사용하여 백업하세요.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="프리앰프가 왜곡을 일으키나요?" closed="true" %}}
+{{% ls-details title="프리앰프가 왜곡을 일으키나요?" closed="true" %}}
 너무 높게 설정하면 왜곡이 발생할 수 있습니다. 조정하는 동안 오디오 레벨 표시기를 확인하세요. 레벨이 클리핑(상단에 도달)되면 프리앰프 게인을 약간 줄이세요.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="이퀄라이저는 Evermusic과 Flacbox 모두에서 사용할 수 있나요?" closed="true" %}}
+{{% ls-details title="이퀄라이저는 Evermusic과 Flacbox 모두에서 사용할 수 있나요?" closed="true" %}}
 네. 두 앱 모두 프리셋, 맞춤 프리셋 및 프리앰프가 포함된 동일한 10밴드 이퀄라이저를 제공합니다.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="EQ 프리셋을 다른 사람과 공유할 수 있나요?" closed="true" %}}
+{{% ls-details title="EQ 프리셋을 다른 사람과 공유할 수 있나요?" closed="true" %}}
 네. 구성 내보내기 옵션을 사용하여 프리셋을 파일로 저장한 다음 공유하세요. 상대방은 구성 가져오기를 사용하여 가져올 수 있습니다.
-{{% /details %}}
+{{% /ls-details %}}

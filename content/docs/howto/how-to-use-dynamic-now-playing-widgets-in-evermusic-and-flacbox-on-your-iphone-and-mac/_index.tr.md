@@ -7,7 +7,7 @@ tags: ["widget'lar", "ios17", "dinamik", "şu an çalınan", "ana ekran", "sonom
 keywords: ["Evermusic widget", "Flacbox widget", "Şu An Çalınan widget iOS", "macOS Sonoma masaüstü widget", "ses yer imleri iPhone", "müzik widget Evermusic", "çalma kontrolü ana ekran", "dinamik widget'lar iOS 17"]
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **Özet:** Evermusic ve Flacbox, iOS 17+ ve macOS 14 Sonoma+'da etkileşimli Şu An Çalınan widget'ları sunuyor. Uygulamayı açmadan iPhone ana ekranınızdan veya Mac masaüstünüzden doğrudan çalmayı kontrol edebilir, parça atlayabilir, favorilere ekleyebilir ve ses yer imleri oluşturabilirsiniz.
@@ -78,22 +78,22 @@ Güncellemenin keyfini çıkarın ve keyifli dinlemeler!
 
 ## Sıkça Sorulan Sorular
 
-{{% details title="Widget'lar uygulamayı açmadan çalışır mı?" closed="true" %}}
+{{% ls-details title="Widget'lar uygulamayı açmadan çalışır mı?" closed="true" %}}
 Evet. iOS 17 ve macOS 14 Sonoma'da widget düğmeleri etkileşimlidir ve çalmayı doğrudan kontrol eder. Uygulamanın ön planda olması gerekmez.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Hangi widget boyutunu seçmeliyim?" closed="true" %}}
+{{% ls-details title="Hangi widget boyutunu seçmeliyim?" closed="true" %}}
 Temel çalma/duraklatma ve favoriler için Küçük'ü seçin. Atlama düğmeleri istiyorsanız Orta'yı seçin. Ses yer imleri de istiyorsanız Büyük'ü seçin.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Widget'ı bir sesli kitaba devam etmek için kullanabilir miyim?" closed="true" %}}
+{{% ls-details title="Widget'ı bir sesli kitaba devam etmek için kullanabilir miyim?" closed="true" %}}
 Evet. Ayarlar'da "Ses Oynatıcı Durumunu Kaydet" seçeneğini etkinleştirin, widget uygulama kapatıldıktan sonra bile son konumunuzdan çalmaya devam edecektir.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Widget'lar iPad'de kullanılabilir mi?" closed="true" %}}
+{{% ls-details title="Widget'lar iPad'de kullanılabilir mi?" closed="true" %}}
 Evet. iPadOS 17, iPhone ile aynı etkileşimli widget'ları destekler.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Hem Evermusic hem de Flacbox bu widget'lara sahip mi?" closed="true" %}}
+{{% ls-details title="Hem Evermusic hem de Flacbox bu widget'lara sahip mi?" closed="true" %}}
 Evet. Şu An Çalınan widget'ı hem Evermusic hem de Flacbox'ta aynı işlevsellikle mevcuttur.
-{{% /details %}}
+{{% /ls-details %}}

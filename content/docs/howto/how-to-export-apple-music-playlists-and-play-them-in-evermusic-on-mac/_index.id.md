@@ -29,7 +29,7 @@ tags: [
 readingTime: 5
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **Ringkasan:** Gunakan fitur bawaan Apple Music **File > Library > Export Playlist** untuk menyimpan playlist apa pun sebagai file M3U. Kemudian impor ke **Evermusic** atau **Flacbox** di Mac. Anda juga dapat mengarsipkan playlist sebagai file ZIP untuk transfer mudah ke perangkat lain.
@@ -45,13 +45,13 @@ Dengan cara ini, Anda dapat terus mendengarkan playlist favorit Anda dengan fitu
 Mulai dengan membuka playlist di aplikasi Apple Music di Mac Anda.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Buka playlist di Apple Music" image="/docs/howto/how-to-export-apple-music-playlists-and-play-them-in-evermusic-on-mac/1-apple-music-playlist.webp" >}}
+  {{< ls-card title="" subtitle="Buka playlist di Apple Music" image="/docs/howto/how-to-export-apple-music-playlists-and-play-them-in-evermusic-on-mac/1-apple-music-playlist.webp" >}}
 {{< /cards >}}
 
 Buka **File → Library → Export Playlist** dari menu atas.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Ekspor playlist dari Perpustakaan Anda" image="/docs/howto/how-to-export-apple-music-playlists-and-play-them-in-evermusic-on-mac/2-library-export-playlist.webp" >}}
+  {{< ls-card title="" subtitle="Ekspor playlist dari Perpustakaan Anda" image="/docs/howto/how-to-export-apple-music-playlists-and-play-them-in-evermusic-on-mac/2-library-export-playlist.webp" >}}
 {{< /cards >}}
 
 Pilih tujuan di mana file M3U akan disimpan.  
@@ -61,7 +61,7 @@ Pilih tujuan di mana file M3U akan disimpan.
 > Karena aplikasi berjalan dalam mode sandbox di macOS, **file playlist** dan **file media** harus berada di folder yang sama untuk impor yang berhasil.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Pilih tujuan untuk file M3U" image="/docs/howto/how-to-export-apple-music-playlists-and-play-them-in-evermusic-on-mac/3-select-m3u-destination.webp" >}}
+  {{< ls-card title="" subtitle="Pilih tujuan untuk file M3U" image="/docs/howto/how-to-export-apple-music-playlists-and-play-them-in-evermusic-on-mac/3-select-m3u-destination.webp" >}}
 {{< /cards >}}
 
 ## Mengimpor Playlist ke Evermusic atau Flacbox
@@ -69,26 +69,26 @@ Pilih tujuan di mana file M3U akan disimpan.
 Unduh salah satu aplikasi dari Mac App Store:
 
 {{< cards cols="1">}}
-{{< card link="https://apps.apple.com/app/apple-store/id1564384601?pt=95781850&ct=everappzcom&mt=8" title="Evermusic" icon="download" tag="Free" >}}
-{{< card link="https://apps.apple.com/app/apple-store/id1594027432?pt=95781850&ct=everappzcom&mt=8" title="Flacbox" icon="download" tag="Free" >}}
+{{< ls-card link="https://apps.apple.com/app/apple-store/id1564384601?pt=95781850&ct=everappzcom&mt=8" title="Evermusic" icon="download" tag="Free" >}}
+{{< ls-card link="https://apps.apple.com/app/apple-store/id1594027432?pt=95781850&ct=everappzcom&mt=8" title="Flacbox" icon="download" tag="Free" >}}
 {{< /cards >}}
 
 Buka **tab Playlist** di aplikasi.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Buka Playlist di Evermusic" image="/docs/howto/how-to-export-apple-music-playlists-and-play-them-in-evermusic-on-mac/4-evermusic-playlists.webp" >}}
+  {{< ls-card title="" subtitle="Buka Playlist di Evermusic" image="/docs/howto/how-to-export-apple-music-playlists-and-play-them-in-evermusic-on-mac/4-evermusic-playlists.webp" >}}
 {{< /cards >}}
 
 Ketuk tombol **Tambah** dan pilih **Impor Playlist**.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Impor playlist di Evermusic" image="/docs/howto/how-to-export-apple-music-playlists-and-play-them-in-evermusic-on-mac/5-evermusic-import-playlist.webp" >}}
+  {{< ls-card title="" subtitle="Impor playlist di Evermusic" image="/docs/howto/how-to-export-apple-music-playlists-and-play-them-in-evermusic-on-mac/5-evermusic-import-playlist.webp" >}}
 {{< /cards >}}
 
 Selanjutnya, pilih **File di Mac ini** untuk mengimpor file yang disimpan secara lokal.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Pilih lokasi impor di Evermusic" image="/docs/howto/how-to-export-apple-music-playlists-and-play-them-in-evermusic-on-mac/6-evermusic-select-location.webp" >}}
+  {{< ls-card title="" subtitle="Pilih lokasi impor di Evermusic" image="/docs/howto/how-to-export-apple-music-playlists-and-play-them-in-evermusic-on-mac/6-evermusic-select-location.webp" >}}
 {{< /cards >}}
 
 Sekarang, hubungkan **folder Musik** Anda (tempat Anda menyimpan playlist M3U).  
@@ -98,37 +98,37 @@ Ini diperlukan karena macOS mengharuskan Anda secara eksplisit memberikan akses 
 > Pastikan file playlist dan file media terkait berada di folder yang sama.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Pilih File di Mac Ini" image="/docs/howto/how-to-export-apple-music-playlists-and-play-them-in-evermusic-on-mac/7-files-on-this-mac.webp" >}}
+  {{< ls-card title="" subtitle="Pilih File di Mac Ini" image="/docs/howto/how-to-export-apple-music-playlists-and-play-them-in-evermusic-on-mac/7-files-on-this-mac.webp" >}}
 {{< /cards >}}
 
 Pilih **folder Musik** Anda (tempat Anda menyimpan playlist M3U) dan ketuk **Buka** untuk mengonfirmasi pilihan.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Pilih folder Musik Anda" image="/docs/howto/how-to-export-apple-music-playlists-and-play-them-in-evermusic-on-mac/8-select-music-folder-location.webp" >}}
+  {{< ls-card title="" subtitle="Pilih folder Musik Anda" image="/docs/howto/how-to-export-apple-music-playlists-and-play-them-in-evermusic-on-mac/8-select-music-folder-location.webp" >}}
 {{< /cards >}}
 
 Setelah terhubung, buka folder dan pilih file **M3U** yang diekspor.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Pilih file M3U" image="/docs/howto/how-to-export-apple-music-playlists-and-play-them-in-evermusic-on-mac/9-select-m3u-file.webp" >}}
+  {{< ls-card title="" subtitle="Pilih file M3U" image="/docs/howto/how-to-export-apple-music-playlists-and-play-them-in-evermusic-on-mac/9-select-m3u-file.webp" >}}
 {{< /cards >}}
 
 Aplikasi akan mulai mengimpor semua trek dari playlist.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Tunggu sementara playlist diimpor" image="/docs/howto/how-to-export-apple-music-playlists-and-play-them-in-evermusic-on-mac/10-importing-playlist.webp" >}}
+  {{< ls-card title="" subtitle="Tunggu sementara playlist diimpor" image="/docs/howto/how-to-export-apple-music-playlists-and-play-them-in-evermusic-on-mac/10-importing-playlist.webp" >}}
 {{< /cards >}}
 
 Setelah selesai, Anda akan melihat playlist Anda siap digunakan.  
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Playlist berhasil diimpor" image="/docs/howto/how-to-export-apple-music-playlists-and-play-them-in-evermusic-on-mac/11-playlist-imported.webp" >}}
+  {{< ls-card title="" subtitle="Playlist berhasil diimpor" image="/docs/howto/how-to-export-apple-music-playlists-and-play-them-in-evermusic-on-mac/11-playlist-imported.webp" >}}
 {{< /cards >}}
 
 Ketuk untuk melihat isinya atau mulai pemutaran segera.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Buka playlist yang diimpor" image="/docs/howto/how-to-export-apple-music-playlists-and-play-them-in-evermusic-on-mac/12-opened-playlist.webp" >}}
+  {{< ls-card title="" subtitle="Buka playlist yang diimpor" image="/docs/howto/how-to-export-apple-music-playlists-and-play-them-in-evermusic-on-mac/12-opened-playlist.webp" >}}
 {{< /cards >}}
 
 ## Mengarsipkan dan Mentransfer Playlist
@@ -140,26 +140,26 @@ Ini membuat transfer playlist ke perangkat lain cepat dan andal.
 Cukup pilih **Tindakan Lainnya → Tambahkan ke Arsip** dari menu playlist.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Buka tindakan lainnya untuk playlist" image="/docs/howto/how-to-export-apple-music-playlists-and-play-them-in-evermusic-on-mac/14-more-actions-playlist.webp" >}}
+  {{< ls-card title="" subtitle="Buka tindakan lainnya untuk playlist" image="/docs/howto/how-to-export-apple-music-playlists-and-play-them-in-evermusic-on-mac/14-more-actions-playlist.webp" >}}
 {{< /cards >}}
 
 Setelah memilih **Tambahkan ke Arsip**, tunggu sebentar sementara aplikasi memproses playlist.  
 Setelah pengarsipan selesai, Anda akan melihat **peringatan berhasil**. Ketuk **Tampilkan File** agar aplikasi menampilkan arsip ZIP yang baru dibuat.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Pengarsipan selesai" image="/docs/howto/how-to-export-apple-music-playlists-and-play-them-in-evermusic-on-mac/15-archiving-completed.webp" >}}
+  {{< ls-card title="" subtitle="Pengarsipan selesai" image="/docs/howto/how-to-export-apple-music-playlists-and-play-them-in-evermusic-on-mac/15-archiving-completed.webp" >}}
 {{< /cards >}}
 
 Aplikasi kemudian akan membuka **folder Ekspor**, tempat semua arsip yang dibuat disimpan.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Buka folder ekspor" image="/docs/howto/how-to-export-apple-music-playlists-and-play-them-in-evermusic-on-mac/16-export-folder.webp" >}}
+  {{< ls-card title="" subtitle="Buka folder ekspor" image="/docs/howto/how-to-export-apple-music-playlists-and-play-them-in-evermusic-on-mac/16-export-folder.webp" >}}
 {{< /cards >}}
 
 Temukan arsip yang baru dibuat, ketuk tombol **Tindakan Lainnya** di sebelahnya, dan pilih **Tampilkan di Finder**.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Gunakan Tindakan Lainnya pada file ZIP" image="/docs/howto/how-to-export-apple-music-playlists-and-play-them-in-evermusic-on-mac/17-more-actions-menu-zip-file.webp" >}}
+  {{< ls-card title="" subtitle="Gunakan Tindakan Lainnya pada file ZIP" image="/docs/howto/how-to-export-apple-music-playlists-and-play-them-in-evermusic-on-mac/17-more-actions-menu-zip-file.webp" >}}
 {{< /cards >}}
 
 Anda sekarang akan melihat **lokasi sebenarnya dari file ZIP** di Mac Anda.  
@@ -167,13 +167,13 @@ Pada titik ini, Anda dapat dengan mudah mentransfer arsip ke perangkat lain.
 Tapi sebelum itu, mari kita lihat lebih dekat isinya. Klik dua kali file untuk mengekstraknya.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Tampilkan file ZIP di Finder" image="/docs/howto/how-to-export-apple-music-playlists-and-play-them-in-evermusic-on-mac/18-zip-file-revealed-in-finder.webp" >}}
+  {{< ls-card title="" subtitle="Tampilkan file ZIP di Finder" image="/docs/howto/how-to-export-apple-music-playlists-and-play-them-in-evermusic-on-mac/18-zip-file-revealed-in-finder.webp" >}}
 {{< /cards >}}
 
 Di dalamnya, Anda akan menemukan **konten playlist lengkap** — semua file audio yang termasuk dalam playlist, serta **file playlist M3U**.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Ekstrak file ZIP" image="/docs/howto/how-to-export-apple-music-playlists-and-play-them-in-evermusic-on-mac/19-unarchived-zip-file.webp" >}}
+  {{< ls-card title="" subtitle="Ekstrak file ZIP" image="/docs/howto/how-to-export-apple-music-playlists-and-play-them-in-evermusic-on-mac/19-unarchived-zip-file.webp" >}}
 {{< /cards >}}
 
 Terakhir, buka **file M3U** untuk memeriksa isinya.  
@@ -181,7 +181,7 @@ File ini diformat dengan benar, jadi ketika Anda memindahkan arsip ZIP ini ke pe
 Aplikasi akan memulihkan playlist dengan **urutan trek yang benar** dan **semua file media terkait**.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Lihat isi playlist M3U" image="/docs/howto/how-to-export-apple-music-playlists-and-play-them-in-evermusic-on-mac/20-m3u-playlist-content.webp" >}}
+  {{< ls-card title="" subtitle="Lihat isi playlist M3U" image="/docs/howto/how-to-export-apple-music-playlists-and-play-them-in-evermusic-on-mac/20-m3u-playlist-content.webp" >}}
 {{< /cards >}}
 
 ## Kesimpulan
@@ -199,22 +199,22 @@ Sebaliknya, nikmati pengalaman musik yang mulus dengan kontrol lebih, fitur lebi
 
 ## Pertanyaan yang Sering Diajukan
 
-{{% details title="Format playlist apa yang diekspor Apple Music?" closed="true" %}}
+{{% ls-details title="Format playlist apa yang diekspor Apple Music?" closed="true" %}}
 Apple Music mengekspor playlist dalam format M3U, yang merupakan format playlist standar yang didukung oleh sebagian besar pemutar musik termasuk Evermusic, Flacbox, VLC, dan foobar2000.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Mengapa file M3U dan file audio harus berada di folder yang sama?" closed="true" %}}
+{{% ls-details title="Mengapa file M3U dan file audio harus berada di folder yang sama?" closed="true" %}}
 Evermusic dan Flacbox berjalan dalam mode sandbox macOS, yang membatasi akses file ke folder yang Anda berikan izin secara eksplisit. Menyimpan file M3U dan file audio di folder yang sama memastikan aplikasi dapat membaca keduanya selama impor.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Bisakah saya mentransfer playlist antara Mac dan iPhone?" closed="true" %}}
+{{% ls-details title="Bisakah saya mentransfer playlist antara Mac dan iPhone?" closed="true" %}}
 Ya. Gunakan fitur pengarsipan playlist untuk membuat file ZIP yang berisi playlist dan semua trek. Transfer ZIP ke iPhone Anda melalui AirDrop, iCloud Drive, atau metode lainnya, lalu impor di Evermusic atau Flacbox di iOS.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Apakah ini berfungsi dengan trek streaming Apple Music?" closed="true" %}}
+{{% ls-details title="Apakah ini berfungsi dengan trek streaming Apple Music?" closed="true" %}}
 Metode ini berfungsi dengan file audio lokal yang telah Anda tambahkan ke Apple Music. Trek streaming yang dilindungi DRM dari Apple Music tidak dapat diekspor sebagai playlist M3U.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Format audio apa yang didukung Evermusic dan Flacbox?" closed="true" %}}
+{{% ls-details title="Format audio apa yang didukung Evermusic dan Flacbox?" closed="true" %}}
 Kedua aplikasi mendukung berbagai format termasuk MP3, FLAC, AAC, WAV, OGG, AIFF, ALAC, WMA, APE, dan lainnya. Mereka juga mendukung pemutaran audio resolusi tinggi untuk format lossless.
-{{% /details %}}
+{{% /ls-details %}}

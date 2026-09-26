@@ -23,7 +23,7 @@ Pemain Audio ialah skrin utama aplikasi tempat anda mengawal muzik dan kebanyaka
 Anda boleh ke pemain skrin penuh dari bar pemain mini. Pada iPhone, pemain mini berada di bahagian bawah skrin utama. Pada iPad dan Mac, ia berada di sebelah kiri. Untuk menyembunyikan pemain mini pada iPhone, ketiknya sekali dan leret ke bawah. Untuk menutup sepenuhnya pemain skrin penuh, ketik butang tutup di sudut kanan bawah.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Skrin Utama Pemain Audio Flacbox" image="/docs/guide/flacbox/img/audio-player-main-screen.webp" >}}
+  {{< ls-card title="" subtitle="Skrin Utama Pemain Audio Flacbox" image="/docs/guide/flacbox/img/audio-player-main-screen.webp" >}}
 {{< /cards >}}
 
 ## Format Audio yang Disokong
@@ -66,7 +66,7 @@ Untuk AirPlay, cari butang **AirPlay** di bahagian bawah pemain. Ketiknya dan pi
 Flacbox merangkumi **equalizer 10 jalur** dengan pratetap bergaya iPod. Ketik Equalizer pada paparan kelantangan, kemudian hidupkannya di sudut kanan atas. Anda boleh menggunakan pratetap seperti Akustik dan Penguat Bass, atau melaraskan setiap jalur frekuensi dengan slaid. Buat pratetap anda sendiri, simpannya dengan sebarang nama dan tingkatkan kelantangan keseluruhan dengan preamplifier. Kami mempunyai arahan lebih terperinci tentang cara menggunakan equalizer [di sini](/docs/howto/how-to-use-the-audio-equalizer-on-your-iphone-ipad-mac-with-evermusic-and-flacbox).
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Equalizer Pemain Audio Flacbox" image="/docs/guide/flacbox/img/audio-player-equalizer.webp" >}}
+  {{< ls-card title="" subtitle="Equalizer Pemain Audio Flacbox" image="/docs/guide/flacbox/img/audio-player-equalizer.webp" >}}
 {{< /cards >}}
 
 ## Bar Alat Mod Pemain
@@ -82,7 +82,7 @@ Untuk sesetengah gaya pemain, terdapat bar alat khusus di bahagian atas pemain s
 Untuk melihat baris gilir pemain anda, ketik butang baris gilir di sebelah kanan lagu semasa. Setiap lagu dalam baris gilir mempunyai lebih banyak tindakan — ketik tiga titik untuk melihatnya. Untuk menyusun semula lagu dalam baris gilir, gunakan penunjuk susunan semula berhampiran tajuk dan seretnya ke kedudukan baru.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Baris Gilir Main Balik Flacbox" image="/docs/guide/flacbox/img/playback_queue.webp" >}}
+  {{< ls-card title="" subtitle="Baris Gilir Main Balik Flacbox" image="/docs/guide/flacbox/img/playback_queue.webp" >}}
 {{< /cards >}}
 
 ## Komen / Lirik
@@ -98,7 +98,7 @@ Untuk melihat komen trek dan lirik terbenam, serta fail LRC, ikuti langkah-langk
 Selepas ini, ketik butang baris gilir pemain di bahagian bawah skrin beberapa kali untuk beralih dari paparan karya seni / baris gilir ke paparan komen. Pada skrin Komen, tatal ke kanan untuk bertukar antara **Komen**, **Lirik Terbenam** dan **Fail LRC**. Arahan penuh tersedia [di sini](/docs/howto/how-to-add-and-view-comments-to-your-audio-tracks-on-iphone-ipad-and-mac-with-evermusic-and-flacbox).
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Skrin Lirik dan Komen Flacbox" image="/docs/guide/flacbox/img/lyrics-screen.webp" >}}
+  {{< ls-card title="" subtitle="Skrin Lirik dan Komen Flacbox" image="/docs/guide/flacbox/img/lyrics-screen.webp" >}}
 {{< /cards >}}
 
 ## Menu Pilihan
@@ -121,7 +121,7 @@ Setiap lagu dalam baris gilir pemain audio mempunyai menu dengan lebih banyak ti
 Pilihan yang sama tersedia untuk item yang sedang dimainkan dalam baris gilir pemain audio, yang boleh anda akses dengan mengetik ikon **Lebih Banyak Tindakan** berhampiran tajuk trek.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Pilihan Flacbox untuk Item dalam Baris Gilir Main Balik" image="/docs/guide/flacbox/img/options-for-item-in-playback-queue.webp" >}}
+  {{< ls-card title="" subtitle="Pilihan Flacbox untuk Item dalam Baris Gilir Main Balik" image="/docs/guide/flacbox/img/options-for-item-in-playback-queue.webp" >}}
 {{< /cards >}}
 
 ## Tindakan Pemain Tambahan
@@ -143,7 +143,7 @@ Ketik butang **Lebih Banyak Tindakan** "..." di sebelah kiri tajuk lagu yang sed
 - **Bantuan** — cari bantuan dan panduan.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Skrin Lebih Banyak Tindakan Pemain Audio Flacbox" image="/docs/guide/flacbox/img/audio-player-more-actions-screen.webp" >}}
+  {{< ls-card title="" subtitle="Skrin Lebih Banyak Tindakan Pemain Audio Flacbox" image="/docs/guide/flacbox/img/audio-player-more-actions-screen.webp" >}}
 {{< /cards >}}
 
 ## Penanda Buku Audio
@@ -161,7 +161,7 @@ Untuk membuat penanda buku baru:
 Mengedit penanda buku untuk trek semasa adalah mudah: ketik Edit di sudut kanan atas untuk memasuki mod edit. Dalam mod ini, anda boleh menyusun semula penanda buku, memadamnya, melaraskan masa penanda buku dan mengubah tajuk penanda buku. Arahan lebih terperinci tentang penanda buku audio tersedia [di sini](/docs/howto/how-to-listen-to-audiobooks-on-iphone-ipad-mac-using-evermusic).
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Skrin Penanda Buku Audio Flacbox" image="/docs/guide/flacbox/img/audio-bookmarks.webp" >}}
+  {{< ls-card title="" subtitle="Skrin Penanda Buku Audio Flacbox" image="/docs/guide/flacbox/img/audio-bookmarks.webp" >}}
 {{< /cards >}}
 
 ## Terkini dan Kegemaran
@@ -175,7 +175,7 @@ Sambungkan iPhone anda ke kereta melalui USB atau Apple CarPlay wayarles dan Fla
 [Baca panduan CarPlay penuh](/docs/howto/how-to-play-your-own-music-on-iphone-using-carplay/).
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox pada Apple CarPlay" image="/docs/guide/flacbox/img/carplay-main.webp" >}}
+  {{< ls-card title="" subtitle="Flacbox pada Apple CarPlay" image="/docs/guide/flacbox/img/carplay-main.webp" >}}
 {{< /cards >}}
 
 ## Widget Skrin Utama (iPhone & iPad)
@@ -243,7 +243,7 @@ Sesuaikan tetapan equalizer audio. Anda boleh membaca lebih lanjut tentang mengk
 Laraskan kelajuan main balik pemain audio dari **0.02× hingga 3.00×**. Ketik ikon konfigurasi di sudut kanan atas untuk beralih ke **mod tepat** untuk pelarasan yang lebih halus.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Skrin Kelajuan Main Balik Flacbox" image="/docs/guide/flacbox/img/playback-speed.webp" >}}
+  {{< ls-card title="" subtitle="Skrin Kelajuan Main Balik Flacbox" image="/docs/guide/flacbox/img/playback-speed.webp" >}}
 {{< /cards >}}
 
 ### Pembetulan Pic

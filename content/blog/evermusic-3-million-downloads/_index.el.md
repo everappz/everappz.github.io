@@ -12,7 +12,7 @@ authors:
     image: "/images/about/artem-meleshko-founder-everappz.webp"
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 ## 3 εκατομμύρια λήψεις
 
@@ -98,22 +98,22 @@ authors:
 
 ## Συχνές ερωτήσεις
 
-{{% details title="Είναι δωρεάν το Evermusic;" closed="true" %}}
+{{% ls-details title="Είναι δωρεάν το Evermusic;" closed="true" %}}
 Ναι. Το Evermusic είναι δωρεάν για λήψη με βασικά χαρακτηριστικά διαθέσιμα χωρίς κόστος. Premium χαρακτηριστικά όπως ο ισοσταθμιστής και οι προηγμένες επιλογές cloud είναι διαθέσιμα μέσω προαιρετικής αναβάθμισης.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Μπορεί το Evermusic να αναπαράγει ηχητικά βιβλία;" closed="true" %}}
+{{% ls-details title="Μπορεί το Evermusic να αναπαράγει ηχητικά βιβλία;" closed="true" %}}
 Ναι. Το Evermusic αποθηκεύει τη θέση αναπαραγωγής σας, υποστηρίζει σελιδοδείκτες, ρυθμιζόμενη ταχύτητα αναπαραγωγής (0,5x έως 2,0x) και χρονοδιακόπτες ύπνου — καθιστώντας το κατάλληλο για ηχητικά βιβλία και podcasts.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Σε ποιες υπηρεσίες cloud συνδέεται το Evermusic;" closed="true" %}}
+{{% ls-details title="Σε ποιες υπηρεσίες cloud συνδέεται το Evermusic;" closed="true" %}}
 Dropbox, Google Drive, OneDrive, Box, MEGA, Yandex.Disk, MyDrive, pCloud, HiDrive, κοινόχρηστα αρχεία SMB και διακομιστές WebDAV.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Μπορώ να χρησιμοποιήσω κάρτα SD με το Evermusic;" closed="true" %}}
+{{% ls-details title="Μπορώ να χρησιμοποιήσω κάρτα SD με το Evermusic;" closed="true" %}}
 Ναι. Συνδέστε έναν αναγνώστη καρτών SD Lightning ή USB-C στο iPhone ή iPad σας και κάντε ροή μουσικής απευθείας από την κάρτα μέσω του Evermusic.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Λειτουργεί το Evermusic σε Mac;" closed="true" %}}
+{{% ls-details title="Λειτουργεί το Evermusic σε Mac;" closed="true" %}}
 Ναι. Το Evermusic είναι διαθέσιμο τόσο για iOS όσο και για macOS, με ροή cloud και αναπαραγωγή εκτός σύνδεσης σε όλες τις πλατφόρμες.
-{{% /details %}}
+{{% /ls-details %}}

@@ -12,7 +12,7 @@ authors:
     image: "/images/about/artem-meleshko-founder-everappz.webp"
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 **TL;DR:** Evermusic har passerat 11 miljoner nedladdningar världen över. Nyckelfunktioner inkluderar en 10-bands equalizer, offlineuppspelning, iCloud Drive-streaming, stöd för 10+ molntjänster, synk mellan enheter och en inbyggd ID3-taggredigerare.
 
@@ -70,22 +70,22 @@ Evermusic är byggt för alla som lagrar musik i molnet eller på lokal lagring.
 
 ## FAQ
 
-{{% details title="Vilka ljudformat stöder Evermusic?" closed="true" %}}
+{{% ls-details title="Vilka ljudformat stöder Evermusic?" closed="true" %}}
 Evermusic spelar MP3, FLAC, WAV, AAC, M4A, AIFF, OGG, WMA och andra populära ljudformat.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Kan jag använda Evermusic utan internetanslutning?" closed="true" %}}
+{{% ls-details title="Kan jag använda Evermusic utan internetanslutning?" closed="true" %}}
 Ja. Ladda ner spår från din molnlagring för offlineuppspelning. När de väl är nedladdade krävs ingen internet.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Fungerar Evermusic på Mac?" closed="true" %}}
+{{% ls-details title="Fungerar Evermusic på Mac?" closed="true" %}}
 Ja. Evermusic finns tillgänglig på både iOS (iPhone/iPad) och macOS, med bibliotekssynk mellan alla enheter.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Är Evermusic gratis att ladda ner?" closed="true" %}}
+{{% ls-details title="Är Evermusic gratis att ladda ner?" closed="true" %}}
 Ja. Evermusic är gratis att ladda ner med valfria premiumfunktioner tillgängliga via köp i appen.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Hur fungerar iCloud Drive-streaming i Evermusic?" closed="true" %}}
+{{% ls-details title="Hur fungerar iCloud Drive-streaming i Evermusic?" closed="true" %}}
 Anslut ditt iCloud Drive-konto i appen, bläddra bland dina musikfiler och tryck för att spela. Spår streamar direkt utan att behöva laddas ner först.
-{{% /details %}}
+{{% /ls-details %}}

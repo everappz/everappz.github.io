@@ -7,7 +7,7 @@ tags: ["evermusic", "flacbox", "arxiu", "còpia de seguretat", "exportar", "llis
 readingTime: 2
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **Resum:** Evermusic i Flacbox poden arxivar qualsevol llista de reproducció, àlbum, artista o gènere en un fitxer ZIP amb una llista de reproducció M3U, la portada de l'àlbum i tots els fitxers d'àudio. Transfereix el ZIP a un altre dispositiu, descomprimeix-lo i importa el M3U per reconstruir la llista de reproducció instantàniament.
@@ -104,22 +104,22 @@ Seguint aquesta guia, pots arxivar i transferir eficientment les teves llistes d
 
 ## Preguntes freqüents
 
-{{% details title="Què s'inclou a l'arxiu ZIP?" closed="true" %}}
+{{% ls-details title="Què s'inclou a l'arxiu ZIP?" closed="true" %}}
 L'arxiu conté tots els fitxers d'àudio, un fitxer de llista de reproducció M3U que preserva l'ordre de les pistes i la portada de l'àlbum de la llista de reproducció desada com un fitxer d'imatge separat.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Funciona l'arxivament amb fitxers del núvol?" closed="true" %}}
+{{% ls-details title="Funciona l'arxivament amb fitxers del núvol?" closed="true" %}}
 Sí. L'aplicació descarrega automàticament tots els fitxers emmagatzemats al núvol abans d'afegir-los a l'arxiu. Pots monitoritzar el progrés de descàrrega a la secció de transferències de fitxers.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Puc arxivar àlbums, artistes i gèneres també?" closed="true" %}}
+{{% ls-details title="Puc arxivar àlbums, artistes i gèneres també?" closed="true" %}}
 Sí. L'opció «Afegir a l'arxiu» està disponible per a llistes de reproducció, àlbums, artistes i gèneres. El procés és idèntic per a tots ells.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Com transfereixo l'arxiu a un altre dispositiu?" closed="true" %}}
+{{% ls-details title="Com transfereixo l'arxiu a un altre dispositiu?" closed="true" %}}
 Pots pujar el ZIP a l'emmagatzematge al núvol (Google Drive, Dropbox, etc.), utilitzar AirDrop o transferir sense fils mitjançant la funció integrada Wi-Fi Drive a Evermusic i Flacbox.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Es preservarà l'estructura de la llista de reproducció després de la transferència?" closed="true" %}}
+{{% ls-details title="Es preservarà l'estructura de la llista de reproducció després de la transferència?" closed="true" %}}
 Sí. El fitxer M3U emmagatzema l'estructura de la llista de reproducció amb rutes relatives. Després de descomprimir al nou dispositiu, importa el fitxer M3U per reconstruir la llista de reproducció amb totes les pistes en l'ordre original.
-{{% /details %}}
+{{% /ls-details %}}

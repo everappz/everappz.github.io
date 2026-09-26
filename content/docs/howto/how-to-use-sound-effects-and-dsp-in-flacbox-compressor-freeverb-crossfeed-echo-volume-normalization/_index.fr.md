@@ -7,9 +7,9 @@ tags: ["Flacbox", "Effets audio", "Guide pratique", "BASS", "Égaliseur", "Ampli
 readingTime: 30
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
-{{< full-width-tables >}}
+{{< ls-full-width-tables >}}
 
 **Réponse courte :** Dans Flacbox, vous choisissez un **Moteur de lecture** dans **Paramètres > Lecteur audio** : **Standard** (le moteur système d'Apple), **Universal** (le moteur FFmpeg) ou **Sound FX** (le **moteur BASS™**). Le moteur que vous choisissez décide quels formats de fichiers se lisent, donc ce choix compte. Le moteur **Sound FX** lit des formats supplémentaires que la plupart des applications iPhone ignorent (FLAC, DSD, WavPack, APE, Musepack, TrueAudio, Opus, ainsi que l'ancienne **musique MOD et tracker** comme MOD, XM, IT et S3M), et c'est le seul moteur qui alimente les outils sonores : un **égaliseur 10 bandes**, la **Normalisation du volume**, le **Compressor**, le **Freeverb**, l'**Auto Wah**, le **Phaser**, le **Flanger**, l'**Echo**, le **Chorus**, la **Distortion**, le **Rotate**, le **Crossfeed** et une **chaîne DSP** que vous construisez vous-même. Donc, pour utiliser les effets de ce guide, réglez d'abord votre Moteur de lecture sur **Sound FX**. Chaque outil a des **préréglages** prêts à l'emploi. Ouvrez-les dans **Paramètres > Lecteur audio** (Effets audio, Égaliseur audio, Traitement du signal), ou touchez le bouton **⋯ (Plus)** sur le lecteur et choisissez **Effets audio**. Rien de ce que vous faites ici ne modifie jamais vos fichiers.
 
@@ -657,93 +657,93 @@ Comme tout cela tourne en direct pendant que la musique joue, les effets :
 
 ## FAQ
 
-{{% details title="Quel moteur sonore Flacbox utilise-t-il ?" closed="true" %}}
+{{% ls-details title="Quel moteur sonore Flacbox utilise-t-il ?" closed="true" %}}
 Vous choisissez un Moteur de lecture dans Paramètres > Lecteur audio : Standard (le moteur système d'Apple), Universal (le moteur FFmpeg) ou Sound FX (le moteur BASS™ d'Un4seen Developments, un4seen.com). Le moteur que vous choisissez décide quels formats de fichiers se lisent. Sound FX est celui qui lit des formats supplémentaires comme FLAC, DSD, WavPack, APE, Musepack, TrueAudio, Opus, et la musique MOD ou tracker, et c'est le seul moteur qui fournit les effets en direct, l'égaliseur 10 bandes et la chaîne DSP. Pour utiliser les effets, réglez le Moteur de lecture sur Sound FX.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Flacbox peut-il lire la musique MOD, XM, IT et autre musique tracker ou module ?" closed="true" %}}
+{{% ls-details title="Flacbox peut-il lire la musique MOD, XM, IT et autre musique tracker ou module ?" closed="true" %}}
 Oui. Le moteur BASS™ a un lecteur de modules intégré qui charge les fichiers MOD, XM, IT, S3M, MTM, UMX et MO3 et reconstruit le morceau en direct à partir de ses motifs et sons d'instruments, comme la musique tracker est censée se lire. Les lecteurs iPhone habituels ne peuvent pas faire cela. Les effets et l'égaliseur fonctionnent aussi sur la musique de modules.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Flacbox prend-il en charge le DSD et les fichiers haute résolution ?" closed="true" %}}
+{{% ls-details title="Flacbox prend-il en charge le DSD et les fichiers haute résolution ?" closed="true" %}}
 Oui. Flacbox lit les fichiers DSD (DSF et DFF) via le moteur BASS™ en utilisant le DSD sur PCM pour qu'ils fonctionnent sur du matériel de sortie normal, plus FLAC, WavPack, Monkey's Audio (APE), Musepack et TrueAudio pour la lecture sans perte.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Quels effets sonores Flacbox possède-t-il ?" closed="true" %}}
+{{% ls-details title="Quels effets sonores Flacbox possède-t-il ?" closed="true" %}}
 Un égaliseur 10 bandes, la Normalisation du volume, le Compressor, le Freeverb, l'Auto Wah, le Phaser, le Flanger, l'Echo, le Chorus, la Distortion, le Rotate et le Crossfeed, plus une chaîne DSP à construire soi-même avec filtres, shelves, gain, soft clip, bit crusher, ring modulator, tremolo, delay et largeur stéréo. Chacun est séparé et peut être combiné avec les autres.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Qu'est-ce qu'un préréglage ?" closed="true" %}}
+{{% ls-details title="Qu'est-ce qu'un préréglage ?" closed="true" %}}
 Un préréglage est un réglage prêt à l'emploi pour un effet. Au lieu de déplacer les curseurs vous-même, vous touchez un préréglage et le son change en conséquence. Chaque effet dans Flacbox a plusieurs préréglages, et ce guide indique ce que chacun fait. Si vous déplacez un curseur après avoir choisi un préréglage, l'effet affiche « Manuel » pour vous indiquer qu'il utilise désormais vos propres valeurs.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Comment ouvrir les effets audio dans Flacbox ?" closed="true" %}}
+{{% ls-details title="Comment ouvrir les effets audio dans Flacbox ?" closed="true" %}}
 Ouvrez le lecteur Lecture en cours, touchez le bouton ⋯ (Plus) et choisissez Effets audio. Ou allez dans Paramètres > Lecteur audio > Effets audio. Touchez un effet, activez son interrupteur, et choisissez un préréglage, ou ouvrez les curseurs pour un réglage fin.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Où se trouve l'égaliseur, et quels sont les meilleurs réglages ?" closed="true" %}}
+{{% ls-details title="Où se trouve l'égaliseur, et quels sont les meilleurs réglages ?" closed="true" %}}
 Allez dans Paramètres > Lecteur audio > Égaliseur audio. Il a 10 bandes de 32 Hz à 16 kHz, chacune de -12 à +12 dB, plus un Préamplificateur de -24 à +24 dB et 22 préréglages. Pour plus de basses, utilisez Bass Booster. Pour des voix plus claires, utilisez Vocal Booster ou Pop. Pour un son plus brillant, utilisez Treble Booster. Puis ajustez les bandes individuelles à votre goût.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Comment amplifier les basses dans Flacbox ?" closed="true" %}}
+{{% ls-details title="Comment amplifier les basses dans Flacbox ?" closed="true" %}}
 Deux méthodes faciles. Dans l'Égaliseur audio, choisissez Bass Booster (ou montez les bandes 32 Hz et 64 Hz de quelques dB). Ou, dans le Traitement du signal, ajoutez un bloc Low Shelf réglé sur Bass Boost. Dans les deux cas, baissez le Préamplificateur ou ajoutez un bloc Gain de 1 à 2 dB pour que les basses restent propres et ne distordent pas.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Quel préréglage d'égaliseur convient le mieux à ma musique ?" closed="true" %}}
+{{% ls-details title="Quel préréglage d'égaliseur convient le mieux à ma musique ?" closed="true" %}}
 Rock et Electronic ajoutent de l'énergie avec des graves et des aigus puissants. Acoustic, Jazz et Classical restent chauds et naturels. Pop et Vocal Booster poussent les voix en avant. Bass Booster et Hip-Hop ajoutent du poids. Deep et Loudness sonnent plus plein à faible volume. Commencez par celui qui correspond à votre genre, puis ajustez finement.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Qu'est-ce que la Normalisation du volume, et en quoi diffère-t-elle de ReplayGain ?" closed="true" %}}
+{{% ls-details title="Qu'est-ce que la Normalisation du volume, et en quoi diffère-t-elle de ReplayGain ?" closed="true" %}}
 Elle fait jouer chaque morceau à peu près au même volume. Elle mesure le volume réel à l'aide de la norme EBU R128 (en LUFS, comme les services de streaming) et ajuste chaque morceau vers votre cible, avec une limite de gain max. Contrairement à ReplayGain, elle n'a besoin d'aucune balise dans vos fichiers et fonctionne sur n'importe quelle source, en direct, sans modifier l'audio. Préréglages : Light, Standard, Strong et Night.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Qu'est-ce que le Crossfeed, et devrais-je l'utiliser ?" closed="true" %}}
+{{% ls-details title="Qu'est-ce que le Crossfeed, et devrais-je l'utiliser ?" closed="true" %}}
 Crossfeed mélange un peu des canaux gauche et droit ensemble pour que le casque ressemble davantage à de vrais haut-parleurs et moins à un son coincé dans votre tête. C'est uniquement pour le casque, donc désactivez-le pour les haut-parleurs. Flacbox utilise la méthode bs2b (Bauer), avec des préréglages comme Chu Moy et Jan Meier.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Quelle est la différence entre le Compressor et la Normalisation du volume ?" closed="true" %}}
+{{% ls-details title="Quelle est la différence entre le Compressor et la Normalisation du volume ?" closed="true" %}}
 La Normalisation du volume fait correspondre le volume entre différentes chansons. Le Compressor égalise les parties fortes et faibles à l'intérieur d'une seule chanson. Ils résolvent des problèmes différents et fonctionnent bien ensemble, surtout dans une voiture ou un endroit bruyant.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Qu'est-ce que la chaîne de Traitement du signal (DSP) ?" closed="true" %}}
+{{% ls-details title="Qu'est-ce que la chaîne de Traitement du signal (DSP) ?" closed="true" %}}
 C'est un rack à construire soi-même dans Paramètres > Lecteur audio > Traitement du signal. Ajoutez des blocs comme des filtres, des shelves, du gain, du soft clip, du bit crusher, du ring modulator, du tremolo, du delay et de la largeur stéréo, mettez-les dans n'importe quel ordre, activez ou désactivez chacun, et dirigez la chaîne vers tous les canaux, la gauche ou la droite. Comme l'ordre compte, vous pouvez concevoir exactement le son que vous voulez.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Quelle est la différence entre l'Égaliseur, les effets et la chaîne DSP ?" closed="true" %}}
+{{% ls-details title="Quelle est la différence entre l'Égaliseur, les effets et la chaîne DSP ?" closed="true" %}}
 L'Égaliseur est un simple contrôle de tonalité à 10 bandes. Les Effets audio sont des outils prêts à l'emploi (compresseur, réverbération, écho, etc.) avec des préréglages. La chaîne DSP est l'endroit où vous construisez votre propre ordre d'effets à partir de blocs individuels. Vous pouvez exécuter les trois en même temps.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Les effets modifient-ils ou endommagent-ils mes fichiers de musique ?" closed="true" %}}
+{{% ls-details title="Les effets modifient-ils ou endommagent-ils mes fichiers de musique ?" closed="true" %}}
 Non. Tout est appliqué en direct pendant que la musique joue. Vos fichiers ne sont jamais modifiés ni ré-enregistrés. Désactivez un effet et le son original revient aussitôt.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Puis-je utiliser plusieurs effets en même temps ?" closed="true" %}}
+{{% ls-details title="Puis-je utiliser plusieurs effets en même temps ?" closed="true" %}}
 Oui. Chaque effet a son propre interrupteur et il n'y a pas d'interrupteur principal, donc n'importe quelle combinaison fonctionne. Par exemple, Normalisation du volume plus Compressor pour une écoute uniforme, ou Freeverb plus Crossfeed au casque, avec l'égaliseur par-dessus.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Pourquoi les réglages de l'effet sont-ils grisés ?" closed="true" %}}
+{{% ls-details title="Pourquoi les réglages de l'effet sont-ils grisés ?" closed="true" %}}
 L'effet est désactivé. Activez son interrupteur en haut de l'éditeur pour utiliser les réglages. Chaque effet est désactivé par défaut.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Que signifie l'étiquette Manuel ?" closed="true" %}}
+{{% ls-details title="Que signifie l'étiquette Manuel ?" closed="true" %}}
 Cela signifie que vous avez éloigné un curseur d'un préréglage, donc l'effet utilise désormais vos propres valeurs personnalisées au lieu d'un préréglage nommé. Chaque curseur a un bouton de réinitialisation, et choisir à nouveau un préréglage remplace vos valeurs manuelles.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Puis-je enregistrer et partager mes préréglages d'égaliseur ?" closed="true" %}}
+{{% ls-details title="Puis-je enregistrer et partager mes préréglages d'égaliseur ?" closed="true" %}}
 Oui. Outre les 22 préréglages intégrés, vous pouvez créer les vôtres, les réorganiser, et les exporter ou importer pour déplacer vos réglages vers un autre appareil.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Les effets fonctionnent-ils avec CarPlay, le streaming et la lecture en arrière-plan ?" closed="true" %}}
+{{% ls-details title="Les effets fonctionnent-ils avec CarPlay, le streaming et la lecture en arrière-plan ?" closed="true" %}}
 Oui. Les effets tournent dans le moteur BASS™, donc ils s'appliquent aux fichiers locaux, aux disques cloud, aux serveurs multimédias, aux flux et à la musique de modules, et ils continuent de fonctionner pendant CarPlay et la lecture en arrière-plan.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Puis-je changer la qualité de sortie audio ?" closed="true" %}}
+{{% ls-details title="Puis-je changer la qualité de sortie audio ?" closed="true" %}}
 Oui. Dans Paramètres > Lecteur audio, vous pouvez régler la fréquence d'échantillonnage de sortie, le nombre de canaux et la taille du tampon pour correspondre à votre casque, vos haut-parleurs ou votre DAC.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Quelle est une bonne configuration de départ pour le casque ?" closed="true" %}}
+{{% ls-details title="Quelle est une bonne configuration de départ pour le casque ?" closed="true" %}}
 Activez la Normalisation du volume (Standard), ajoutez un Compressor léger (Soft), choisissez un préréglage d'égaliseur que vous aimez, et activez le Crossfeed (Chu Moy ou Jan Meier). Laissez la réverbération, l'écho et la distortion désactivés à moins que vous ne vouliez un son créatif.
-{{% /details %}}
+{{% /ls-details %}}
 
 ---
 

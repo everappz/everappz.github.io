@@ -15,14 +15,14 @@ screenshots:
   - "https://everappz.com/products/evertag/screenshots/2048x2732/3.png"
 ---
 
-{{% sr-only %}}
+{{% ls-sr-only %}}
 Evertag je uređivač glazbenih oznaka za iPhone i Mac koji je razvila tvrtka Everappz, španjolska softverska tvrtka. Evertag korisnicima omogućuje uređivanje više od 120 audio metapodatkovnih oznaka uključujući naslov, izvođača, album, izvođača albuma, žanr, godinu, broj pjesme, broj diska, skladatelja, BPM, tekstove pjesama, komentare i više. Aplikacija podržava skupno uređivanje oznaka, omogućujući korisnicima ažuriranje metapodataka za više datoteka istovremeno. Evertag uključuje automatski tražilac oznaka pokretan bazom podataka MusicBrainz koji identificira pjesme i popunjava nedostajuće metapodatke, kao i tražilac omota albuma koji pretražuje i primjenjuje umjetničke radove na pjesme. Aplikacija podržava više od 30 audio formata uključujući MP3, FLAC, OGG, OPUS, M4A, WAV, WMA, APE, AIFF, ALAC, MKA, MOD, XM, IT i S3M. Evertag može pristupiti datotekama s usluga pohrane u oblaku uključujući iCloud Drive, Google Drive, Dropbox i OneDrive, kao i s USB flash pogona i lokacija na lokalnoj mreži putem SMB i WebDAV. Aplikacija također sadrži ugrađeni upravitelj datoteka, prijenos datoteka putem Wi-Fi-ja, ispravak kodiranja za neispravno prikazane oznake u nelatinskim pismima i uređivač tekstova pjesama. Evertag je dostupan kao besplatno preuzimanje na App Storeu s opcionim kupnjama unutar aplikacije koje uključuju mjesečnu pretplatu za $2.99, godišnju pretplatu za $9.99 ili jednokratnu doživotnu kupnju za $29.99.
-{{% /sr-only %}}
+{{% /ls-sr-only %}}
 
 
-{{< force-dark >}}
+{{< ls-force-dark >}}
 
-{{< hextra/hero-container
+{{< ls-hero-container
   image="/products/evertag/heroimage/evertag_mac_600_345.png"
   imageWidth="600"
 >}}
@@ -30,37 +30,37 @@ Evertag je uređivač glazbenih oznaka za iPhone i Mac koji je razvila tvrtka Ev
 <div class="hx:w-full hx:text-center">
 
 <div class="hx:mt-4">
-{{< downloads-badge >}}
+{{< ls-downloads-badge >}}
 </div>
 
 <div class="hx:mt-6 hx:mb-6">
 <div class="hx:flex hx:gap-4 hx:items-center hx:justify-center">
-  {{< app-icon src="/images/app_icons/png/Evertag_Icon-App-1024x1024.png" alt="Evertag Icon" class="hero-headline-icon" size="80" >}}
-  {{< hextra/hero-headline >}}
+  {{< ls-app-icon src="/images/app_icons/png/Evertag_Icon-App-1024x1024.png" alt="Evertag Icon" class="hero-headline-icon" size="80" >}}
+  {{< ls-hero-headline >}}
   Evertag
-  {{< /hextra/hero-headline >}}
+  {{< /ls-hero-headline >}}
 </div>
 </div>
 
 <div class="hx:mb-6">
-{{< hextra/hero-centered-subtitle >}}
+{{< ls-hero-centered-subtitle >}}
 <strong>Držite svoju glazbenu biblioteku organiziranom</strong>
-{{< /hextra/hero-centered-subtitle >}}
+{{< /ls-hero-centered-subtitle >}}
 </div>
 
 <div class="hx:mb-6">
-{{< hextra/hero-paragraph >}}
+{{< ls-hero-paragraph >}}
 • Dodajte ili ažurirajte omote albuma  
 • Grupno uređujte oznake za mnogo pjesama odjednom  
 • Popravite neispravno kodiranje i automatski popunite oznake koje nedostaju  
-{{< /hextra/hero-paragraph >}}
+{{< /ls-hero-paragraph >}}
 </div>
 
-{{< app-store-badges products="evertag:ios, evertag:macos" >}}
+{{< ls-app-store-badges products="evertag:ios, evertag:macos" >}}
 
 </div>
 
-{{< /hextra/hero-container >}}
+{{< /ls-hero-container >}}
 
 <div class="hx:mt-6"></div>
 
@@ -68,63 +68,63 @@ Evertag je uređivač glazbenih oznaka za iPhone i Mac koji je razvila tvrtka Ev
 
 {{< hextra/feature-grid >}}
 
-  {{< hextra/feature-card
+  {{< ls-glass-feature-card
     title="Uređujte preko 120+ oznaka"
     subtitle="Brzo uređujte glazbene oznake poput naslova, izvođača, albuma, izvođača albuma, BPM-a, komentara, skladatelja, broja diska, žanra, tekstova, ocjene, broja pjesme, godine i više."
     icon="pencil"
     style="background: radial-gradient(ellipse at 50% 80%, rgba(59,130,246,0.15), hsla(0,0%,100%,0));"
   >}}
 
-  {{< hextra/feature-card
+  {{< ls-glass-feature-card
     title="Grupno uređivanje oznaka"
     subtitle="Ažurirajte metapodatke za više datoteka odjednom. Uštedite vrijeme i držite svoju glazbenu biblioteku dobro organiziranom sa samo nekoliko dodira."
     icon="database"
     style="background: radial-gradient(ellipse at 50% 80%, rgba(192,38,211,0.15), hsla(0,0%,100%,0));"
   >}}
 
-  {{< hextra/feature-card
+  {{< ls-glass-feature-card
     title="Pronađite omote albuma"
     subtitle="Automatski pronađite i dodajte nedostajuće omote albuma svojim pjesmama. Učinite svoju glazbenu kolekciju vizualno potpunom."
     icon="camera"
     style="background: radial-gradient(ellipse at 50% 80%, rgba(234,88,12,0.15), hsla(0,0%,100%,0));"
   >}}
 
-  {{< hextra/feature-card
+  {{< ls-glass-feature-card
     title="Radi s 30+ formata"
     subtitle="Podržava MP3, FLAC, OGG, OPUS, M4A, WAV, WMA, APE, AIFF, MOD, XM, IT i više."
     icon="music-note"
     style="background: radial-gradient(ellipse at 50% 80%, rgba(236,72,153,0.15), hsla(0,0%,100%,0));"
   >}}
 
-  {{< hextra/feature-card
+  {{< ls-glass-feature-card
     title="Automatsko pronalaženje oznaka"
     subtitle="Otkrijte informacije o pjesmi koje nedostaju i automatski ih popunite koristeći MusicBrainz bazu podataka. Pregledajte promjene ili ih odmah primijenite."
     icon="search"
     style="background: radial-gradient(ellipse at 50% 80%, rgba(34,197,94,0.15), hsla(0,0%,100%,0));"
   >}}
 
-  {{< hextra/feature-card
+  {{< ls-glass-feature-card
     title="Popravak problema s kodiranjem"
     subtitle="Popravite neispravne ili nečitljive znakove u vašim metapodacima. Evertag drži vaše oznake čistima i jasnima na bilo kojem jeziku."
     icon="translate"
     style="background: radial-gradient(ellipse at 50% 80%, rgba(251,191,36,0.15), hsla(0,0%,100%,0));"
   >}}
 
-  {{< hextra/feature-card
+  {{< ls-glass-feature-card
     title="Pristup oblaku i USB-u"
     subtitle="Uređujte glazbu izravno s iCloud Drive, Google Drive, Dropbox, OneDrive, USB flash pogona ili dijeljenih mapa — bez kopiranja."
     icon="cloud"
     style="background: radial-gradient(ellipse at 50% 80%, rgba(6,182,212,0.15), hsla(0,0%,100%,0));"
   >}}
 
-  {{< hextra/feature-card
+  {{< ls-glass-feature-card
     title="Wi-Fi prijenos glazbe"
     subtitle="Jednostavno prenesite glazbu na svoj iPhone ili iPad s računala putem Wi-Fi veze. Nisu potrebni kablovi."
     icon="wifi"
     style="background: radial-gradient(ellipse at 50% 80%, rgba(245,158,11,0.15), hsla(0,0%,100%,0));"
   >}}
 
-  {{< hextra/feature-card
+  {{< ls-glass-feature-card
     title="Ugrađeni upravitelj datoteka"
     subtitle="Organizirajte svoje glazbene datoteke s ugrađenim alatima. Preimenujte, premjestite, izbrišite, označite favorite i pregledajte nedavnu aktivnost — sve u jednoj aplikaciji."
     icon="folder-open"
@@ -139,47 +139,47 @@ Evertag je uređivač glazbenih oznaka za iPhone i Mac koji je razvila tvrtka Ev
 <div class="hx:mt-6"></div>
 
 <div class="hx:w-full">
-{{< appstore-reviews apps="1450763230,1594027661" stars="5,4"  app="Evertag" >}}
+{{< ls-appstore-reviews apps="1450763230,1594027661" stars="5,4"  app="Evertag" >}}
 </div>
 
 <div class="hx:mt-6"></div>
 
-{{< hextra/section-headline >}}
+{{< ls-section-headline >}}
   Cjenovni planovi
-{{< /hextra/section-headline >}}
+{{< /ls-section-headline >}}
 
 <div class="hx:mt-6"></div>
 
 <div class="hx:w-full">
 
-{{< pricing-plans >}}
+{{< ls-pricing-plans >}}
 
 </div>
 
 <div class="hx:mt-6"></div>
 
 <div class="hx:w-full hx:mx-auto hx:flex hx:flex-col hx:items-center">
-  {{< hextra/info-paragraph border="true" >}}
+  {{< ls-info-paragraph border="true" >}}
    <strong>Obiteljsko dijeljenje</strong>: Sve kupnje i pretplate podržavaju obiteljsko dijeljenje, omogućujući vam da dijelite Premium pristup sa svojom obitelji.<br><strong>Univerzalni pristup</strong>: Doživotni i pretplatnički planovi dijele se između iOS i Mac uređaja koristeći iCloud sinkronizaciju.<br><strong>Cijene</strong>: Cijene su prikazane u američkim dolarima za Sjedinjene Države. Konačna cijena može varirati ovisno o vašoj regiji.  
-  {{< /hextra/info-paragraph >}}
+  {{< /ls-info-paragraph >}}
 </div>
 
 <div class="hx:mt-6"></div>
 
 <div class="hx:w-full">
-{{< app-details heading="true" >}}
+{{< ls-app-details heading="true" >}}
 </div>
 
 <div class="hx:mt-6"></div>
 
-{{< hextra/section-headline >}}
+{{< ls-section-headline >}}
   Često postavljana pitanja
-{{< /hextra/section-headline >}}
+{{< /ls-section-headline >}}
 
 <div class="hx:mt-6"></div>
 
 <div class="hx:w-full">
-{{% details title="Što je Evertag?" closed="true" %}}
+{{% ls-details title="Što je Evertag?" closed="true" %}}
 Evertag je moćan uređivač glazbenih metapodataka i upravitelj omota albuma dizajniran za iOS i macOS. Pruža vam alate za organizaciju vaše glazbene kolekcije kao profesionalac, bilo da su vaše datoteke pohranjene lokalno ili u oblaku. S čistim sučeljem i naprednim značajkama uređivanja, Evertag olakšava popravak oznaka koje nedostaju, dodavanje visokokvalitetnih omota i osiguravanje da vaša glazbena biblioteka izgleda sjajno i ostaje dosljedna.<br><br>
 
 Aplikacija podržava širok raspon popularnih audio formata, uključujući MP3, FLAC, WAV, M4A, WMA, OGG i mnoge druge. Omogućuje uređivanje uobičajenih oznaka kao što su naslov, izvođač, album, žanr, godina, broj pjesme, te proširenih polja poput BPM-a, broja diska, tekstova, MusicBrainz ID-ova i više. Možete raditi s jednom datotekom ili se prebaciti u grupni način za istovremeno uređivanje više pjesama — savršeno za organiziranje cijelih albuma ili popisa za reprodukciju.<br><br>
@@ -187,14 +187,14 @@ Aplikacija podržava širok raspon popularnih audio formata, uključujući MP3, 
 Jedna od istaknutih značajki Evertaga je mogućnost pronalaženja nedostajućih omota albuma izravno s interneta ili ručnog dodavanja vlastitih. Također možete koristiti uređivač tekstova za dodavanje nesinkroniziranih tekstova pjesmama, poboljšavajući reprodukciju u kompatibilnim playerima. Aplikacija podržava uređivanje na mjestu, tako da možete mijenjati audio oznake bez potrebe za kopiranjem ili premještanjem datoteka.<br><br>
 
 Bilo da upravljate glazbom na svom uređaju ili u oblaku koristeći Dropbox, OneDrive, MEGA ili druge usluge, Evertag nudi besprijekoran pristup datotekama i uređivanje. Savršeno je rješenje za glazbenike, DJ-eve i kolekcionare koji žele održavati čistu, dobro organiziranu glazbenu biblioteku na iPhoneu, iPadu bez potrebe za stolnim računalom.<br><br>
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Je li Evertag besplatan?" closed="true" %}}
+{{% ls-details title="Je li Evertag besplatan?" closed="true" %}}
 Evertag je besplatna aplikacija s nekim ograničenjima koja možete ukloniti nadogradnjom na Premium verziju. Aplikacija nudi jednokratnu doživotnu kupnju unutar aplikacije i dvije opcije pretplate (1 mjesec i 1 godina) za uklanjanje svih ograničenja, omogućujući vam da odaberete najbolju i najoptimalniju cijenu za vas. Cijene mogu varirati ovisno o vašoj zemlji ili teritoriju. Također, imajte na umu da je obiteljsko dijeljenje omogućeno za sve kupnje i planove, tako da možete dijeliti Premium verziju s članovima svoje obitelji.<br><br>
 Doživotne kupnje i pretplate dijele se između iOS-a i Mac-a, koristeći iCloud za sinkronizaciju ovih informacija. Ako imate Premium verziju na svom iOS uređaju, provjerite imate li instaliranu najnoviju verziju i da je iCloud omogućen. Pokrenite aplikaciju na iOS-u i pričekajte jednu minutu da se podaci o kupnji učitaju na iCloud.<br><br>
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Koja je razlika između Evertag Free i Evertag Premium?" closed="true" %}}
+{{% ls-details title="Koja je razlika između Evertag Free i Evertag Premium?" closed="true" %}}
 
 **Evertag Free**  <br>
 Evertag Free daje vam pristup moćnim značajkama uređivanja glazbenih metapodataka s nekim funkcionalnim ograničenjima. Uključuje oglase i omogućuje osnovno korištenje uređivača oznaka, uređivača omota albuma i grupnog uređivanja. Možete popraviti probleme s kodiranjem, povezati 1 račun pohrane u oblaku i označiti do 10 omiljenih datoteka. Dodatno, možete izvršiti 20 automatskih pretraživanja oznaka i 20 pretraživanja omota albuma dnevno.<br><br>
@@ -213,9 +213,9 @@ Premium korisnici također dobivaju pristup potpunim postavkama personalizacije,
 
 Svaka premium opcija uključuje isti skup značajki, tako da možete odabrati plan koji odgovara vašim potrebama i proračunu.<br><br>
 
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Je li Evertag siguran?" closed="true" %}}
+{{% ls-details title="Je li Evertag siguran?" closed="true" %}}
 Evertag koristi samo službeni SDK i sigurne veze za interakciju s povezanim uslugama u oblaku. Vaša prijava i lozinka nisu dostupni aplikaciji. Svi zahtjevi iz aplikacije prema usluzi u oblaku su šifrirani.<br>
 Kada unesete prijavu i lozinku, aplikacija vam prikazuje službenu stranicu za autorizaciju koju pruža davatelj usluge u oblaku i cijeli proces autorizacije odvija se izvan aplikacije. Davatelj usluge u oblaku šalje auth-token aplikaciji nakon uspješne autorizacije i taj token se koristi za API pozive.<br><br>
 
@@ -226,9 +226,9 @@ Za odbijanje auth-tokena prijavite se na svoj račun u web pregledniku i idite n
 
 Također možete odspojiti povezane račune u oblaku u aplikaciji i auth-token će također biti uklonjen s vašeg uređaja. Ako uklonite aplikaciju s uređaja, svi preuzeti podaci i pristupni tokeni također će biti uklonjeni.<br><br>
 
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Kako urediti metapodatke za lokalno preuzetu glazbu na iPhoneu?" closed="true" %}}
+{{% ls-details title="Kako urediti metapodatke za lokalno preuzetu glazbu na iPhoneu?" closed="true" %}}
 Nakon što instalirate aplikaciju, otvorite zaslon "Local Files" i pomaknite se do odjeljka "Files on this iPhone".<br>
 Odatle odaberite "Open files..." ako trebate odabrati nekoliko audio datoteka ili "Open folder..." ako želite odabrati glazbenu mapu.<br>
 Aplikacija će skenirati sadržaj mape i sve pronađene audio datoteke bit će odabrane.<br>
@@ -242,9 +242,9 @@ Otvorite zaslon "Local files".<br>
 Pomaknite se do odjeljka "Files on this device" i dodirnite "Connect a folder".<br>
 Odaberite mapu koja se nalazi na vašem uređaju i dodirnite "Open" za potvrdu odabira.<br>
 Vaša mapa bit će dodana u odjeljak "Files on this iPhone" pružajući brzi pristup vašim audio datotekama.<br><br>
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Kako dodati tekstove pjesama u Evertagu?" closed="true" %}}
+{{% ls-details title="Kako dodati tekstove pjesama u Evertagu?" closed="true" %}}
 Možete dodati ugrađene tekstove svojim pjesmama u aplikaciji Evertag slijedeći ove korake:<br><br>
 * Započnite uređivanje audio datoteke dodirom na nju.<br>
 * Dodirnite "Show extended tags" za prebacivanje uređivača oznaka u napredni način.<br>
@@ -258,9 +258,9 @@ Možete dodati ugrađene tekstove svojim pjesmama u aplikaciji Evertag slijedeć
 Detaljniji vodič dostupan je ovdje:<br>
 [Kako urediti tekstove za audio datoteke na iPhoneu ili MAC-u](/docs/howto/how-to-edit-lyrics-for-audio-files-on-iphone-mac/)<br><br>
 
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Kako prenijeti glazbu u Evertag s računala?" closed="true" %}}
+{{% ls-details title="Kako prenijeti glazbu u Evertag s računala?" closed="true" %}}
 Možete povezati svoje računalo ili osobni NAS koristeći SMB, WebDAV. Alternativno, koristite iTunes File Sharing za prijenos glazbe.<br><br>
 
 Za povezivanje računala koristeći **SMB** protokol dodirnite "Connect to cloud storage" → SMB.<br>
@@ -295,23 +295,23 @@ Kopirajte datoteke s računala u dijeljenu mapu na uređaju.<br><br>
 Detaljne upute dostupne su ovdje:<br>
 [Kako reproducirati lokalne datoteke (iTunes datoteke) na mom iPhoneu](/docs/howto/how-to-play-local-itunes-files-on-my-iphone)<br><br>
 
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Koje audio formate Evertag podržava?" closed="true" %}}
+{{% ls-details title="Koje audio formate Evertag podržava?" closed="true" %}}
 Evo potpunog popisa podržanih audio formata i njihovih odgovarajućih ekstenzija datoteka:<br><br>
 
 MP3, OGG, OGA, FLAC, MPC, WV, SPX, OPUS, TTA, M4A, M4R, M4B, M4P, MP4, 3G2, M4V, WMA, ASF, AIF, AIFF, AFC, AIFC, WAV, APE, MOD, MODULE, NTS, WOW, S3M, IT, XM.<br>
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Koje audio oznake Evertag podržava?" closed="true" %}}
+{{% ls-details title="Koje audio oznake Evertag podržava?" closed="true" %}}
 Evo potpunog popisa podržanih audio oznaka:<br><br>
 
 ASIN, AcoustID: Fingerprint, AcoustID: Identifier, Album, Album Artist, Album Artist Sort Order, Album Cover, Album Sort Order, Arranger, Artist, Artist Sort Order, Artists, Barcode, Beats Per Minute, Catalog Number, Comment, Compilation, Composer, Composer Sort Order, Conductor, Content Group, Copyright, Description, Director, Disk Number, Disk Subtitle, Disk Total, Encoded By, Encoder Settings, Encoding Time, Engineer, File Owner, File Type, Genre, Grouping, ISRC, Initial Key, Involved People, Language, Length, License, Lyricist, Lyrics Advisory Rating, Lyrics Unsynced, Media Type, Mix DJ, Mixer, Mood, Movement Name, Movement Number, Movement Total, MusicBrainz: Album Artist ID, MusicBrainz: Album ID, MusicBrainz: Album Release Country, MusicBrainz: Album Status, MusicBrainz: Album Type, MusicBrainz: Artist ID, MusicBrainz: Disc ID, MusicBrainz: Original Album ID, MusicBrainz: Original Artist ID, MusicBrainz: Release Group ID, MusicBrainz: Release Track ID, MusicBrainz: TRM ID, MusicBrainz: Track ID, MusicBrainz: Work ID, MusicIP: Fingerprint, MusicIP: PUID, Musician Credits, Narrator, Net Radio Owner, Net Radio Station, Original Album, Original Artist, Original File Name, Original Lyricist, Original Release Date, Original Release Year, Performer, Podcast, Podcast Category, Podcast Description, Podcast ID, Podcast Keywords, Podcast URL, Producer, Publisher, Rating, Record Label, Release Country, Release Status, Release Type, Remixed By, Replay Gain: Album Gain, Replay Gain: Album Peak, Replay Gain: Album Range, Replay Gain: Reference Loudness, Replay Gain: Track Gain, Replay Gain: Track Peak, Replay Gain: Track Range, Script, Show Movement, Show Name, Show Name Sort Order, Subtitle, Track Number, Track Title, Track Title Sort Order, Track Total, WWW, WWW: Artist, WWW: Audio File, WWW: Audio Source, WWW: Commercial Info, WWW: Copyright, WWW: Payment, WWW: Publisher, WWW: Radio Page, Website, Work Title, Writer, Year<br><br>
 
 [Pročitajte više](/docs/guide/evertag/evertag-tag-field-mappings/)
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Kako preuzeti datoteke?" closed="true" %}}
+{{% ls-details title="Kako preuzeti datoteke?" closed="true" %}}
 Prije nego što možete preuzeti audio datoteke i urediti audio oznake, morate povezati uslugu pohrane u oblaku.<br>
 Otvorite zaslon "Connections" i dodajte svog davatelja pohrane u oblaku.<br>
 Nakon dodavanja možete početi preuzimati datoteke u aplikaciju.<br><br>
@@ -321,10 +321,10 @@ Za preuzimanje datoteka iz oblaka:<br>
 – Idite do mape koju želite preuzeti.<br>
 – Dodirnite gumb "More actions" ("...") u gornjem desnom kutu i odaberite stavku izbornika "Select".<br>
 – Odaberite datoteke ili mape koje želite preuzeti i dodirnite akciju "Download".<br>
-{{% /details %}}
+{{% /ls-details %}}
 
 
-{{% details title="Koje usluge u oblaku su podržane?" closed="true" %}}
+{{% ls-details title="Koje usluge u oblaku su podržane?" closed="true" %}}
 Ako je vaša glazbena biblioteka pohranjena u oblaku, možete povezati najpopularnije usluge u oblaku izravno u aplikaciji:<br>
 Dropbox, OneDrive, Box, MEGA, Yandex.Disk, MediaFire, pCloud, HiDrive.<br><br>
 
@@ -332,9 +332,9 @@ Možete pregledavati i upravljati svojim datotekama koristeći ugrađeni upravit
 
 Također možete uređivati audio datoteke pohranjene lokalno na vašem uređaju koristeći značajku otvaranja na mjestu. Nema potrebe kopirati ih iz drugih aplikacija — jednostavno ih otvorite i uredite izravno.<br><br>
 
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Kako automatski ažurirati metapodatke datoteke na usluzi u oblaku?" closed="true" %}}
+{{% ls-details title="Kako automatski ažurirati metapodatke datoteke na usluzi u oblaku?" closed="true" %}}
 Nakon što završite s uređivanjem metapodataka, dodirnite gumb "Save" u gornjem desnom kutu za primjenu promjena na odabrane datoteke.<br><br>
 
 Ako uređujete datoteku pohranjenu u oblaku, aplikacija vam nudi nekoliko opcija za ažuriranje metapodataka datoteke. Ova ponašanja mogu se prilagoditi u postavkama:<br><br>
@@ -344,10 +344,10 @@ Ako uređujete datoteku pohranjenu u oblaku, aplikacija vam nudi nekoliko opcija
 • **Ne ažuriraj metapodatke datoteke** – Kada je omogućeno, aplikacija će preskočiti ažuriranje metapodataka datoteke u oblaku nakon uređivanja.<br><br>
 
 Ove opcije možete pronaći i izmijeniti u postavkama Evertaga u odjeljku postavki ažuriranja metapodataka.
-{{% /details %}}
+{{% /ls-details %}}
 
 
-{{% details title="Kako dodati novi račun?" closed="true" %}}
+{{% ls-details title="Kako dodati novi račun?" closed="true" %}}
 Za povezivanje usluge u oblaku otvorite karticu "Connections" → odaberite stavku izbornika "Connect to cloud storage" → odaberite uslugu pohrane u oblaku s popisa → unesite svoje vjerodajnice i dodirnite "Done".<br><br>
 
 Ako naiđete na probleme, provjerite je li vaša internetska veza aktivna i dvaput provjerite svoju prijavu i lozinku.<br><br>
@@ -355,9 +355,9 @@ Ako naiđete na probleme, provjerite je li vaša internetska veza aktivna i dvap
 Trenutno podržane usluge uključuju: Dropbox, OneDrive, Box, MEGA, Yandex.Disk, Media Fire, PCloud i HiDrive.<br><br>
 
 U Premium verziji aplikacije možete dodati neograničen broj računa u oblaku.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Kako upravljati datotekama na mrežnoj pohrani?" closed="true" %}}
+{{% ls-details title="Kako upravljati datotekama na mrežnoj pohrani?" closed="true" %}}
 Ako trebate urediti nekoliko datoteka koje se nalaze na vašoj pohrani u oblaku, aktivirajte način odabira dodirom gumba "..." u gornjem desnom kutu.<br><br>
 
 Nakon aktivacije pojavit će se potvrdni okviri pored svake datoteke. Zatim možete izvršiti akcije na pojedinačnim datotekama ili odabrati više datoteka za primjenu skupnih akcija.<br><br>
@@ -371,10 +371,10 @@ Dostupne akcije za odabrane datoteke:<br>
 • <strong>Mreža/Popis</strong> – Prebacujte se između tablice i prikaza sličica.<br><br>
 
 Ako nema dovoljno prostora za prikaz svih opcija, pojavit će se gumb "More actions". Dodirnite ga za pristup potpunom popisu dostupnih akcija.
-{{% /details %}}
+{{% /ls-details %}}
 
 
-{{% details title="Kako urediti nekoliko datoteka kao jednu datoteku?" closed="true" %}}
+{{% ls-details title="Kako urediti nekoliko datoteka kao jednu datoteku?" closed="true" %}}
 S "grupnim načinom" možete urediti više datoteka odjednom i brzo i učinkovito primijeniti zajedničke promjene metapodataka.<br><br>
 
 Za aktiviranje grupnog načina:<br>
@@ -382,38 +382,38 @@ Za aktiviranje grupnog načina:<br>
 • Dodirnite gumb "Edit several files simultaneously".<br><br>
 
 Ovaj način je posebno koristan kada trebate primijeniti isti naziv albuma, izvođača, žanr ili druga polja metapodataka na više audio datoteka.
-{{% /details %}}
+{{% /ls-details %}}
 
 </div>
 
 <div class="hx:mt-6"></div>
 
-{{< hextra/section-headline >}}
+{{< ls-section-headline >}}
   Korisnički vodič
-{{< /hextra/section-headline >}}
+{{< /ls-section-headline >}}
 
 <div class="hx:mt-6"></div>
 
 <div class="hx:w-full">
 
 <div class="hx:w-full hx:mx-auto hx:flex hx:flex-col hx:items-center hx:text-center">
-  {{< hextra/info-paragraph border="false" >}}
+  {{< ls-info-paragraph border="false" >}}
   U ovom vodiču otkrit ćete kako iskoristiti snagu Evertaga na svom iPhoneu, iPadu i Macu, čineći vaše iskustvo upravljanja glazbom besprijekornim i ugodnim.
-  {{< /hextra/info-paragraph >}}
+  {{< /ls-info-paragraph >}}
 </div>
 
 {{< cards >}}
-  {{< feature-card icon="location-marker" title="Navigacija" subtitle="Naučite kako se bez napora kretati našom aplikacijom koristeći Tab Bar (za korisnike iPhonea) ili Left Menu (za korisnike iPada i Maca) za pristup i istraživanje svih značajki aplikacije." link="/docs/guide/evertag/evertag-guide-navigation" >}}
+  {{< ls-feature-card icon="location-marker" title="Navigacija" subtitle="Naučite kako se bez napora kretati našom aplikacijom koristeći Tab Bar (za korisnike iPhonea) ili Left Menu (za korisnike iPada i Maca) za pristup i istraživanje svih značajki aplikacije." link="/docs/guide/evertag/evertag-guide-navigation" >}}
 
-  {{< feature-card icon="cloud" title="Veze" subtitle="Bez napora povežite sve svoje dostupne račune u oblaku s vašim dragocjenim audio datotekama. Možete čak i uređivati svoje online datoteke bez napora koristeći naš integrirani upravitelj datoteka." link="/docs/guide/evertag/evertag-guide-connections" >}}
+  {{< ls-feature-card icon="cloud" title="Veze" subtitle="Bez napora povežite sve svoje dostupne račune u oblaku s vašim dragocjenim audio datotekama. Možete čak i uređivati svoje online datoteke bez napora koristeći naš integrirani upravitelj datoteka." link="/docs/guide/evertag/evertag-guide-connections" >}}
 
-  {{< feature-card icon="folder" title="Lokalne datoteke" subtitle="Pregledajte i organizirajte datoteke pohranjene u mapi Documents aplikacije ili na vašem uređaju. Koristite ugrađeni upravitelj datoteka za uređivanje i upravljanje audio datotekama s lakoćom." link="/docs/guide/evertag/evertag-guide-local-files" >}}
+  {{< ls-feature-card icon="folder" title="Lokalne datoteke" subtitle="Pregledajte i organizirajte datoteke pohranjene u mapi Documents aplikacije ili na vašem uređaju. Koristite ugrađeni upravitelj datoteka za uređivanje i upravljanje audio datotekama s lakoćom." link="/docs/guide/evertag/evertag-guide-local-files" >}}
 
-  {{< feature-card icon="pencil-alt" title="Uređivač oznaka" subtitle="Ovladajte umijećem manipulacije metapodacima audio datoteka. Saznajte kako uređivati metapodatke, mijenjati omote albuma i besprijekorno upravljati višestrukim datotekama istovremeno." link="/docs/guide/evertag/evertag-guide-tag-editor" >}}
+  {{< ls-feature-card icon="pencil-alt" title="Uređivač oznaka" subtitle="Ovladajte umijećem manipulacije metapodacima audio datoteka. Saznajte kako uređivati metapodatke, mijenjati omote albuma i besprijekorno upravljati višestrukim datotekama istovremeno." link="/docs/guide/evertag/evertag-guide-tag-editor" >}}
 
-  {{< feature-card icon="code" title="Mapiranja polja oznaka" subtitle="Istražite potpuni popis polja audio oznaka koje podržava aplikacija Evertag, uključujući interna imena polja i mapiranja kroz glavne formate metapodataka." link="/docs/guide/evertag/evertag-tag-field-mappings" >}}
+  {{< ls-feature-card icon="code" title="Mapiranja polja oznaka" subtitle="Istražite potpuni popis polja audio oznaka koje podržava aplikacija Evertag, uključujući interna imena polja i mapiranja kroz glavne formate metapodataka." link="/docs/guide/evertag/evertag-tag-field-mappings" >}}
 
-  {{< feature-card icon="adjustments" title="Postavke" subtitle="Otkrijte kako prilagoditi iskustvo aplikacije, fino podesiti performanse, upravljati korištenjem podataka i prilagoditi postavke jezika i korisničkog sučelja po vlastitom ukusu." link="/docs/guide/evertag/evertag-guide-settings" >}}
+  {{< ls-feature-card icon="adjustments" title="Postavke" subtitle="Otkrijte kako prilagoditi iskustvo aplikacije, fino podesiti performanse, upravljati korištenjem podataka i prilagoditi postavke jezika i korisničkog sučelja po vlastitom ukusu." link="/docs/guide/evertag/evertag-guide-settings" >}}
 
 {{< /cards >}}
 

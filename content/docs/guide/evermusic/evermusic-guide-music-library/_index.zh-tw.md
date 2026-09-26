@@ -15,7 +15,7 @@ readingTime: 11
 使用 Evermusic 管理您的音樂庫非常簡便，您可以輕鬆整理所有曲目。您有兩種選擇來建構音樂庫：手動新增或自動同步。
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evermusic 音樂庫螢幕" image="/docs/guide/evermusic/evermusic-guide-music-library/img/music-library-main.webp" >}}
+  {{< ls-card title="" subtitle="Evermusic 音樂庫螢幕" image="/docs/guide/evermusic/evermusic-guide-music-library/img/music-library-main.webp" >}}
 {{< /cards >}}
 
 ## 手動新增
@@ -23,7 +23,7 @@ readingTime: 11
 要手動新增曲目，請點選「新增音樂」選單項，從已連接的雲端儲存服務或裝置上的檔案中選擇資料夾/檔案。當您將曲目新增到媒體庫時，只會建立指向這些曲目的連結，將實際檔案保留在其原始位置以節省寶貴的磁碟空間。如果您想讓曲目可離線使用，可以使用選項選單中的下載操作，或為播放清單和曲目集合啟用離線模式。
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="將歌曲新增到音樂庫" image="/docs/guide/evermusic/evermusic-guide-music-library/img/music-library-add-songs.webp" >}}
+  {{< ls-card title="" subtitle="將歌曲新增到音樂庫" image="/docs/guide/evermusic/evermusic-guide-music-library/img/music-library-add-songs.webp" >}}
 {{< /cards >}}
 
 ## 快速存取
@@ -75,7 +75,7 @@ readingTime: 11
 位於導覽列正下方，頂部工具列提供幾個便捷操作：「搜尋」、「全部播放」、「隨機播放」和「繼續播放」。您可以通過簡單的向下滑動手勢顯示或隱藏此工具列。
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="專輯視圖 — 按音樂標籤分組" image="/docs/guide/evermusic/evermusic-guide-music-library/img/music-library-albums.webp" >}}
+  {{< ls-card title="" subtitle="專輯視圖 — 按音樂標籤分組" image="/docs/guide/evermusic/evermusic-guide-music-library/img/music-library-albums.webp" >}}
 {{< /cards >}}
 
 ## 搜尋
@@ -83,7 +83,7 @@ readingTime: 11
 搜尋功能使您能夠在音樂庫中找到特定曲目、藝術家、專輯或類型。在「搜尋螢幕」中，您可以存取以下操作：「排序」、「過濾」、「網格/清單」。
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="音樂庫搜尋結果" image="/docs/guide/evermusic/evermusic-guide-music-library/img/music-library-search.webp" >}}
+  {{< ls-card title="" subtitle="音樂庫搜尋結果" image="/docs/guide/evermusic/evermusic-guide-music-library/img/music-library-search.webp" >}}
 {{< /cards >}}
 
 ## 選項選單
@@ -91,7 +91,7 @@ readingTime: 11
 音樂庫中的每首歌曲都有更多操作的選單，通過點選歌曲標題附近的三個點按鈕存取。這些操作根據是單首歌曲還是集合的一部分而有所不同。
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="媒體庫項目的更多操作" image="/docs/guide/evermusic/evermusic-guide-music-library/img/music-library-item-more-actions.webp" >}}
+  {{< ls-card title="" subtitle="媒體庫項目的更多操作" image="/docs/guide/evermusic/evermusic-guide-music-library/img/music-library-item-more-actions.webp" >}}
 {{< /cards >}}
 
 ### 對於單首歌曲
@@ -125,7 +125,7 @@ readingTime: 11
 您可以使用右上角的更多操作按鈕啟用選擇模式。在此模式下，您可以選擇多首曲目並執行各種操作。
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="音樂庫中的選擇模式" image="/docs/guide/evermusic/evermusic-guide-music-library/img/music-library-selection-mode.webp" >}}
+  {{< ls-card title="" subtitle="音樂庫中的選擇模式" image="/docs/guide/evermusic/evermusic-guide-music-library/img/music-library-selection-mode.webp" >}}
 {{< /cards >}}
 
 ## 標籤分組
@@ -145,7 +145,7 @@ readingTime: 11
 當您開啟藝術家、專輯藝術家或作曲家部分時，您可以看到歌曲/所有專輯/獨家專輯/獨唱專輯的切換器。
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="帶有歌曲 / 全部 / 獨家 / 獨唱切換器的專輯詳情" image="/docs/guide/evermusic/evermusic-guide-music-library/img/music-library-album-details.webp" >}}
+  {{< ls-card title="" subtitle="帶有歌曲 / 全部 / 獨家 / 獨唱切換器的專輯詳情" image="/docs/guide/evermusic/evermusic-guide-music-library/img/music-library-album-details.webp" >}}
 {{< /cards >}}
 
 - **歌曲**：顯示該藝術家/專輯藝術家/作曲家在音訊標籤中設定的所有歌曲。
@@ -166,7 +166,7 @@ readingTime: 11
 點選「設定」選單項以配置您的音樂庫偏好設定。
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="音樂庫設定" image="/docs/guide/evermusic/evermusic-guide-music-library/img/music-library-settings.webp" >}}
+  {{< ls-card title="" subtitle="音樂庫設定" image="/docs/guide/evermusic/evermusic-guide-music-library/img/music-library-settings.webp" >}}
 {{< /cards >}}
 
 #### 元數據讀取

@@ -19,7 +19,7 @@ readingTime: 5
 เพลย์ลิสต์ใน Evervideo สามารถมีส่วนผสมของวิดีโอคลาวด์ออนไลน์ ไฟล์ที่ดาวน์โหลดออฟไลน์ ไฟล์ในเครื่อง วิดีโอไลบรารี Photos และวิดีโอไลบรารี iOS Music ทั้งหมดในเพลย์ลิสต์เดียวกัน และเล่นได้อย่างราบรื่น
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evervideo เพลย์ลิสต์ในไลบรารีสื่อ" image="/docs/guide/evervideo/img/evervideo-playlists-in-media-library.webp" >}}
+  {{< ls-card title="" subtitle="Evervideo เพลย์ลิสต์ในไลบรารีสื่อ" image="/docs/guide/evervideo/img/evervideo-playlists-in-media-library.webp" >}}
 {{< /cards >}}
 
 ## การสร้างเพลย์ลิสต์

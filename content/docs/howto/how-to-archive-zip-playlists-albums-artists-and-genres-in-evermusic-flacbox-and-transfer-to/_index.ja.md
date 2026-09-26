@@ -7,7 +7,7 @@ tags: ["evermusic", "flacbox", "アーカイブ", "バックアップ", "エク�
 readingTime: 2
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **要約:** Evermusic と Flacbox は、任意のプレイリスト、アルバム、アーティスト、またはジャンルを M3U プレイリスト、アルバムアートワーク、およびすべてのオーディオファイルとともに ZIP ファイルにアーカイブできます。ZIP を別のデバイスに転送し、展開して M3U をインポートすると、プレイリストを即座に再構築できます。
@@ -104,22 +104,22 @@ readingTime: 2
 
 ## よくある質問
 
-{{% details title="ZIPアーカイブには何が含まれますか？" closed="true" %}}
+{{% ls-details title="ZIPアーカイブには何が含まれますか？" closed="true" %}}
 アーカイブには、すべてのオーディオファイル、トラック順序を保持する M3U プレイリストファイル、および別の画像ファイルとして保存されたプレイリストのアルバムアートワークが含まれます。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="クラウドファイルでもアーカイブは機能しますか？" closed="true" %}}
+{{% ls-details title="クラウドファイルでもアーカイブは機能しますか？" closed="true" %}}
 はい。アプリはアーカイブに追加する前に、クラウドに保存されたすべてのファイルを自動的にダウンロードします。ダウンロードの進捗はファイル転送セクションで監視できます。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="アルバム、アーティスト、ジャンルもアーカイブできますか？" closed="true" %}}
+{{% ls-details title="アルバム、アーティスト、ジャンルもアーカイブできますか？" closed="true" %}}
 はい。「アーカイブに追加」オプションは、プレイリスト、アルバム、アーティスト、ジャンルで利用できます。プロセスはすべて同じです。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="アーカイブを別のデバイスに転送するには？" closed="true" %}}
+{{% ls-details title="アーカイブを別のデバイスに転送するには？" closed="true" %}}
 ZIP をクラウドストレージ（Google Drive、Dropbox など）にアップロードしたり、AirDrop を使用したり、Evermusic と Flacbox の組み込み Wi-Fi Drive 機能を使用してワイヤレスで転送できます。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="転送後もプレイリストの構造は保持されますか？" closed="true" %}}
+{{% ls-details title="転送後もプレイリストの構造は保持されますか？" closed="true" %}}
 はい。M3U ファイルは相対パスでプレイリストの構造を保存します。新しいデバイスで展開した後、M3U ファイルをインポートして、元の順序ですべてのトラックを含むプレイリストを再構築できます。
-{{% /details %}}
+{{% /ls-details %}}

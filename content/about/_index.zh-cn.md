@@ -1,10 +1,11 @@
 ---
+excludeSearch: true
 date: '2025-06-12T17:00:00+00:00'
 title: '关于我们'
 description: 'Everappz S.L. 是一家西班牙软件公司，专注于开发 iOS 和 macOS 音视频应用。旗下产品 Evermusic（1100万次下载）、Flacbox、EverTag、EverVideo 在全球累计下载量超过 1400 万次。'
 ---
 
-{{< lottie src="/images/juicy-json/juicy-girl-and-guy-preparing-start-up-rocket-to-launch-with-ideas.json" width="65%" >}}
+{{< ls-lottie src="/images/juicy-json/juicy-girl-and-guy-preparing-start-up-rocket-to-launch-with-ideas.json" width="65%" >}}
 
 ## 我们是谁
 
@@ -35,7 +36,7 @@ Everappz S.L. 是一家总部位于西班牙的独立软件公司。我们是一
 ### Artem Meleshko
 
 {{< cards cols="1" >}}
-  {{< card
+  {{< ls-card
     link="https://www.linkedin.com/in/artem-meleshko-s/"
     title="Artem Meleshko"
     tag="创始人兼工程师"
@@ -60,7 +61,7 @@ Artem Meleshko 是 Everappz 的资深工程师兼创始人。Everappz 是一家�
 ### Anna Kosenko
 
 {{< cards cols="1" >}}
-  {{< card
+  {{< ls-card
     link="https://www.linkedin.com/in/anna-kosenko-kosenko/"
     title="Anna Kosenko"
     tag="总监"
@@ -86,4 +87,4 @@ Anna 以优异成绩（Matrícula de Honor）毕业于 Colegio Internacional Lop
 
 在社交网络上关注我们，获取最新资讯、应用更新、使用技巧和实用信息：
 
-{{< social-cards >}}
+{{< ls-social-cards >}}

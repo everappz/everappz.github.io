@@ -19,7 +19,7 @@ readingTime: 12
 En aquesta pantalla, pots connectar totes les fonts que contenen la teva música. Pots integrar serveis al núvol populars com Dropbox, Google Drive, iCloud Drive, OneDrive, MEGA, Box, pCloud, Yandex Disk, Synology Drive i molts més, així com el teu Mac, PC o NAS a través de protocols estàndard. Tant si la teva col·lecció viu en un servei compatible amb streaming com Dropbox o en un NAS personal com un Synology, QNAP, Buffalo, Apple Time Capsule o WD My Cloud Home, Flacbox es connecta a tots ells des d'una sola pantalla.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Pantalla de Connexions de Flacbox" image="/docs/guide/flacbox/img/connections-main.webp" >}}
+  {{< ls-card title="" subtitle="Pantalla de Connexions de Flacbox" image="/docs/guide/flacbox/img/connections-main.webp" >}}
 {{< /cards >}}
 
 ## Connectar a l'Emmagatzematge al Núvol
@@ -30,7 +30,7 @@ En aquesta pantalla, pots connectar totes les fonts que contenen la teva música
 - Introdueix les teves credencials a la pàgina d'autorització oficial proporcionada pel proveïdor del núvol i toca **Fet**.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Afegir un servei d'emmagatzematge al núvol a Flacbox" image="/docs/guide/flacbox/img/add-cloud-storage.webp" >}}
+  {{< ls-card title="" subtitle="Afegir un servei d'emmagatzematge al núvol a Flacbox" image="/docs/guide/flacbox/img/add-cloud-storage.webp" >}}
 {{< /cards >}}
 
 Si trobes algun problema, comprova la teva connexió a Internet i el teu usuari / contrasenya. En la versió Premium de l'app, pots afegir un nombre il·limitat de serveis; la versió gratuïta admet fins a tres.
@@ -134,7 +134,7 @@ Aquesta secció mostra tots els dispositius a la teva xarxa local als quals pots
 Aquesta és la manera més ràpida de descobrir una compartició SMB, WebDAV o DLNA a la teva xarxa domèstica sense escriure adreces IP manualment.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Dispositius disponibles a la xarxa local a Flacbox" image="/docs/guide/flacbox/img/available-devies.webp" >}}
+  {{< ls-card title="" subtitle="Dispositius disponibles a la xarxa local a Flacbox" image="/docs/guide/flacbox/img/available-devies.webp" >}}
 {{< /cards >}}
 
 ## Wi-Fi Drive
@@ -149,7 +149,7 @@ Wi-Fi Drive és una tecnologia convenient que permet transferències de fitxers 
 - Toca **Iniciar Wi-Fi Drive** per activar Wi-Fi Drive.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Wi-Fi Drive de Flacbox" image="/docs/guide/flacbox/img/wifi-drive.webp" >}}
+  {{< ls-card title="" subtitle="Wi-Fi Drive de Flacbox" image="/docs/guide/flacbox/img/wifi-drive.webp" >}}
 {{< /cards >}}
 
 ### Accedir a Wi-Fi Drive al teu Ordinador
@@ -234,7 +234,7 @@ Toca la icona **"..."** prop del títol d'un fitxer per revelar el seu menú d'a
 - **Eliminar** — elimina permanentment el fitxer del teu emmagatzematge al núvol. **Aquesta acció no es pot desfer.**
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Més accions per a un fitxer a l'emmagatzematge al núvol connectat a Flacbox" image="/docs/guide/flacbox/img/more-actions-for-file-in-connected-cloud-storage.webp" >}}
+  {{< ls-card title="" subtitle="Més accions per a un fitxer a l'emmagatzematge al núvol connectat a Flacbox" image="/docs/guide/flacbox/img/more-actions-for-file-in-connected-cloud-storage.webp" >}}
 {{< /cards >}}
 
 Si la llista d'accions supera l'espai de pantalla disponible, simplement desplaça't cap avall dins del menú d'accions per accedir a les opcions addicionals.
@@ -261,7 +261,7 @@ Per a cada carpeta del teu emmagatzematge al núvol, tens una gran varietat d'ac
 La secció Accés ràpid es troba a la part superior de la pantalla. Et dona accés ràpid als teus fitxers favorits i oberts recentment dels serveis al núvol connectats. Sempre que obres un fitxer o carpeta del núvol, s'afegeix a la llista d'Oberts recentment. Per netejar aquesta llista, obre Recents, toca el botó Més accions i tria Eliminar llista. També pots marcar carpetes profundament niades com a Favorits per accedir-hi ràpidament sense navegar per l'estructura de directoris.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Enllaços en línia i accés ràpid a Flacbox" image="/docs/guide/flacbox/img/online-links.webp" >}}
+  {{< ls-card title="" subtitle="Enllaços en línia i accés ràpid a Flacbox" image="/docs/guide/flacbox/img/online-links.webp" >}}
 {{< /cards >}}
 
 ## Altres Serveis
@@ -269,5 +269,5 @@ La secció Accés ràpid es troba a la part superior de la pantalla. Et dona acc
 Aquesta secció mostra funcions extra que milloren la teva experiència. Actualment, l'app admet el scrobbling de **Last.fm** — quan está connectat, les teves estadístiques de reproducció s'envien automàticament al teu compte de Last.fm. Després pots visitar el teu perfil de Last.fm per veure anàlisi d'escolta i obtenir recomanacions de música personalitzades. Hi ha instruccions de configuració detallades disponibles [aquí](/docs/howto/how-to-scrobble-your-music-history-from-evermusic-or-flacbox-to-last-fm).
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Connexió a Last.fm a Flacbox" image="/docs/guide/flacbox/img/last-fm-connect.webp" >}}
+  {{< ls-card title="" subtitle="Connexió a Last.fm a Flacbox" image="/docs/guide/flacbox/img/last-fm-connect.webp" >}}
 {{< /cards >}}

@@ -12,7 +12,7 @@ authors:
     image: "/images/about/artem-meleshko-founder-everappz.webp"
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 **Flacbox 1.6** trae nuevas funciones importantes al reproductor de música FLAC para iPhone y iPad.
 
@@ -68,18 +68,18 @@ Flacbox 1.6 está disponible ahora en la App Store. [Descarga Flacbox](https://i
 
 ## Preguntas frecuentes
 
-{{% details title="¿Qué formatos de audio soporta Flacbox?" closed="true" %}}
+{{% ls-details title="¿Qué formatos de audio soporta Flacbox?" closed="true" %}}
 Flacbox soporta FLAC, ALAC, MP3, AAC, OGG, OPUS, WAV, AIFF, DSD y otros formatos de audio populares. Todos los formatos funcionan con el ecualizador integrado.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="¿Puedo reproducir música desde una tarjeta SD en mi iPhone?" closed="true" %}}
+{{% ls-details title="¿Puedo reproducir música desde una tarjeta SD en mi iPhone?" closed="true" %}}
 Sí. Conecta una tarjeta SD o microSD usando un Lightning to SD Card Camera Reader Adapter. Flacbox detecta la tarjeta automáticamente y te permite navegar y reproducir archivos directamente desde el almacenamiento externo.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="¿Flacbox sincroniza con el almacenamiento en la nube automáticamente?" closed="true" %}}
+{{% ls-details title="¿Flacbox sincroniza con el almacenamiento en la nube automáticamente?" closed="true" %}}
 Sí. A partir de la versión 1.6, Flacbox puede sincronizar automáticamente tu biblioteca musical desde carpetas en la nube. Activa la sincronización automática en los ajustes y selecciona las carpetas que quieres monitorizar.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="¿Es personalizable el ecualizador de Flacbox?" closed="true" %}}
+{{% ls-details title="¿Es personalizable el ecualizador de Flacbox?" closed="true" %}}
 Sí. El ecualizador de 10 bandas te permite ajustar niveles de frecuencia individuales entre -12 dB y +12 dB. Puedes usar preajustes integrados o guardar tus propias configuraciones personalizadas.
-{{% /details %}}
+{{% /ls-details %}}

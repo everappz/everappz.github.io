@@ -7,7 +7,7 @@ tags: ["evermusic", "yhdistä", "bluesound vault"]
 readingTime: 1
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **Yhteenveto:** Yhdistä Bluesound VAULTin sisäiseen tallennustilaan SMB:n kautta käyttämällä Evermusicia, Flacboxia tai Evertagia. Etsi VAULTin IP-osoite BluOS-sovelluksesta, syötä se SMB-yhteytenä vieraskäyttöoikeudella ja aloita musiikkitiedostojesi toistaminen tai hallinta.
@@ -58,18 +58,18 @@ Näillä yksinkertaisilla vaiheilla voit vaivattomasti käyttää Bluesound VAUL
 
 ## UKK
 
-{{% details title="Tarvitsenko käyttäjätunnuksen ja salasanan yhdistääkseni Bluesound VAULTiin?" closed="true" %}}
+{{% ls-details title="Tarvitsenko käyttäjätunnuksen ja salasanan yhdistääkseni Bluesound VAULTiin?" closed="true" %}}
 Ei. Bluesound VAULT tukee vieraskäyttöä (anonyymiä) SMB:n kautta. Jätä Kirjautumistunnus- ja Salasana-kentät tyhjiksi yhteyden määrittämisen yhteydessä.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Voinko muokata musiikkitunnisteita Bluesound VAULTissa?" closed="true" %}}
+{{% ls-details title="Voinko muokata musiikkitunnisteita Bluesound VAULTissa?" closed="true" %}}
 Kyllä. Evertag-sovelluksella voit muokata metatietotunnisteita (nimi, esittäjä, albumi jne.) suoraan VAULTin sisäiselle kiintolevylle tallennetuista äänitiedostoista.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Mitä protokollia Bluesound VAULT tukee?" closed="true" %}}
+{{% ls-details title="Mitä protokollia Bluesound VAULT tukee?" closed="true" %}}
 Bluesound VAULT tarjoaa sisäisen tallennustilansa SMB:n (Server Message Block) kautta. Evermusic, Flacbox ja Evertag tukevat kaikki SMB-yhteyksiä, mikä tekee yhdistämisestä helppoa.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Voinko suoratoistaa musiikkia VAULTista kopioimatta tiedostoja iPhoneen?" closed="true" %}}
+{{% ls-details title="Voinko suoratoistaa musiikkia VAULTista kopioimatta tiedostoja iPhoneen?" closed="true" %}}
 Kyllä. Kun olet yhdistänyt SMB:n kautta, voit suoratoistaa äänitiedostoja suoraan VAULTin sisäiseltä asemalta kopioimatta niitä laitteeseesi.
-{{% /details %}}
+{{% /ls-details %}}

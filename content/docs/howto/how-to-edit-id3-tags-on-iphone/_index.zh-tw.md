@@ -7,7 +7,7 @@ tags: ["mp3", "編輯器", "iPhone", "標籤", "元數據", "id3"]
 readingTime: 2
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **摘要：** 使用 Evermusic 或 Flacbox 內建的標籤編輯器，在 iPhone 或 Mac 上編輯 ID3 標籤——適用於雲端和本機檔案。需要批次編輯或 120 多個標籤欄位？請改用 [Evertag](https://apps.apple.com/app/apple-store/id1450763230?pt=95781850&ct=everappzcom&mt=8)。
@@ -21,8 +21,8 @@ readingTime: 2
 雖然許多桌面應用程式提供元數據編輯功能，但 Evermusic 和 Flacbox 透過內建 ID3 標籤編輯器將簡便性提升到了新的層次。現在，您可以使用一個應用程式來建立音樂資料庫、享受音樂並修正音訊標籤。
 
 {{< cards cols="2">}}
-{{< card link="https://apps.apple.com/app/apple-store/id885367198?pt=95781850&ct=everappzcom&mt=8" title="下載 Evermusic" icon="download" tag="Free" >}}
-{{< card link="https://apps.apple.com/app/apple-store/id1097564256?pt=95781850&ct=everappzcom&mt=8" title="下載 Flacbox" icon="download" tag="Free" >}}
+{{< ls-card link="https://apps.apple.com/app/apple-store/id885367198?pt=95781850&ct=everappzcom&mt=8" title="下載 Evermusic" icon="download" tag="Free" >}}
+{{< ls-card link="https://apps.apple.com/app/apple-store/id1097564256?pt=95781850&ct=everappzcom&mt=8" title="下載 Flacbox" icon="download" tag="Free" >}}
 {{< /cards >}}
 
 ## 專業編輯器
@@ -30,7 +30,7 @@ readingTime: 2
 在開始之前，請先了解 **Evertag** 應用程式——它支援 **120 多個音訊標籤**、**30 多種音訊格式**，並提供強大的**批次編輯**功能。如果您需要功能完整的標籤管理工具，Evertag 是最佳選擇。不過，如果您只需要一個**簡單的標籤編輯器**，請繼續閱讀本指南。
 
 {{< cards >}}
-{{< card link="https://apps.apple.com/app/apple-store/id1450763230?pt=95781850&ct=everappzcom&mt=8" title="下載 Evertag" icon="download" tag="Free" >}}
+{{< ls-card link="https://apps.apple.com/app/apple-store/id1450763230?pt=95781850&ct=everappzcom&mt=8" title="下載 Evertag" icon="download" tag="Free" >}}
 {{< /cards >}}
 
 
@@ -38,21 +38,21 @@ readingTime: 2
 在應用程式中連結您偏好的雲端帳號。
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="連接雲端伺服器" image="/docs/howto/how-to-edit-id3-tags-on-iphone/connect_cloud_server.webp" >}}
+{{< ls-card title="" subtitle="連接雲端伺服器" image="/docs/howto/how-to-edit-id3-tags-on-iphone/connect_cloud_server.webp" >}}
 {{< /cards >}}
 
 ## 瀏覽您的音訊檔案  
 在已連接的雲端帳號中開啟包含音訊檔案的資料夾。
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="雲端資料夾" image="/docs/howto/how-to-edit-id3-tags-on-iphone/cloud_server_folders.webp" >}}
+{{< ls-card title="" subtitle="雲端資料夾" image="/docs/howto/how-to-edit-id3-tags-on-iphone/cloud_server_folders.webp" >}}
 {{< /cards >}}
 
 ## 存取檔案選項  
 點擊您要編輯的檔案旁邊的「更多操作」按鈕（「...」）。
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="更多操作" image="/docs/howto/how-to-edit-id3-tags-on-iphone/cloud_server_audio_more_actions.webp" >}}
+{{< ls-card title="" subtitle="更多操作" image="/docs/howto/how-to-edit-id3-tags-on-iphone/cloud_server_audio_more_actions.webp" >}}
 {{< /cards >}}
 
 ## 選擇「編輯音訊標籤」  
@@ -70,7 +70,7 @@ readingTime: 2
 完成編輯後，點擊「儲存」按鈕以儲存您的變更。
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="標籤編輯器" image="/docs/howto/how-to-edit-id3-tags-on-iphone/tags_editor.webp" >}}
+{{< ls-card title="" subtitle="標籤編輯器" image="/docs/howto/how-to-edit-id3-tags-on-iphone/tags_editor.webp" >}}
 {{< /cards >}}
 
 ## 智慧自動完成  
@@ -88,7 +88,7 @@ readingTime: 2
 - **前往「本機檔案」區段**，然後向下捲動到**「此裝置上的檔案」。**
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="此裝置上的檔案" image="/docs/howto/how-to-edit-id3-tags-on-iphone/local_files.webp" >}}
+{{< ls-card title="" subtitle="此裝置上的檔案" image="/docs/howto/how-to-edit-id3-tags-on-iphone/local_files.webp" >}}
 {{< /cards >}}
 
 - 點擊**「連接資料夾」**。
@@ -96,25 +96,25 @@ readingTime: 2
 - 在資料夾選擇器中，選擇您要存取的目錄，然後點擊**「開啟」**以確認。
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="連接外部資料夾" image="/docs/howto/how-to-edit-id3-tags-on-iphone/connect_external_folder.webp" >}}
+{{< ls-card title="" subtitle="連接外部資料夾" image="/docs/howto/how-to-edit-id3-tags-on-iphone/connect_external_folder.webp" >}}
 {{< /cards >}}
 
 - 新增資料夾後，點擊它以查看其中的檔案。
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="外部資料夾內容" image="/docs/howto/how-to-edit-id3-tags-on-iphone/connected_external_folder.webp" >}}
+{{< ls-card title="" subtitle="外部資料夾內容" image="/docs/howto/how-to-edit-id3-tags-on-iphone/connected_external_folder.webp" >}}
 {{< /cards >}}
 
 - 如同處理雲端檔案一樣，點擊音訊檔案旁邊的**「更多操作」**按鈕，然後選擇**「編輯音訊標籤」。**
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="更多操作 - 本機檔案" image="/docs/howto/how-to-edit-id3-tags-on-iphone/more_actions_local_file.webp" >}}
+{{< ls-card title="" subtitle="更多操作 - 本機檔案" image="/docs/howto/how-to-edit-id3-tags-on-iphone/more_actions_local_file.webp" >}}
 {{< /cards >}}
 
 - 標籤編輯器將會開啟。進行變更後，點擊**「儲存」**。就是這樣！您的編輯會直接套用到檔案——無需複製或移動任何內容。
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="標籤編輯器 - 本機檔案" image="/docs/howto/how-to-edit-id3-tags-on-iphone/tag_editor_local_file.webp" >}}
+{{< ls-card title="" subtitle="標籤編輯器 - 本機檔案" image="/docs/howto/how-to-edit-id3-tags-on-iphone/tag_editor_local_file.webp" >}}
 {{< /cards >}}
 
 ## 編輯專輯封面
@@ -126,7 +126,7 @@ readingTime: 2
 3. 選擇一張圖片作為封面。
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="選擇圖片" image="/docs/howto/how-to-edit-id3-tags-on-iphone/tags_editor_choose_image.webp" >}}
+{{< ls-card title="" subtitle="選擇圖片" image="/docs/howto/how-to-edit-id3-tags-on-iphone/tags_editor_choose_image.webp" >}}
 {{< /cards >}}
 
 ## 標籤編輯器中的更多操作
@@ -134,7 +134,7 @@ readingTime: 2
 額外的編輯選項可透過封面下方的工具列使用。
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="更多操作選單" image="/docs/howto/how-to-edit-id3-tags-on-iphone/tags_edito_more_actions.webp" >}}
+{{< ls-card title="" subtitle="更多操作選單" image="/docs/howto/how-to-edit-id3-tags-on-iphone/tags_edito_more_actions.webp" >}}
 {{< /cards >}}
 
 ### 自動搜尋音訊標籤
@@ -195,22 +195,22 @@ readingTime: 2
 
 ## 常見問題
 
-{{% details title="我可以編輯哪些音訊格式的標籤？" closed="true" %}}
+{{% ls-details title="我可以編輯哪些音訊格式的標籤？" closed="true" %}}
 Evermusic 和 Flacbox 支援編輯 MP3、FLAC、AAC、OGG 及其他常見音訊格式的標籤。Evertag 支援 30 多種格式，包括 WAV、AIFF、WMA 和 APE。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="我可以編輯儲存在雲端服務中的檔案標籤嗎？" closed="true" %}}
+{{% ls-details title="我可以編輯儲存在雲端服務中的檔案標籤嗎？" closed="true" %}}
 可以。連接您的 Dropbox、Google Drive、OneDrive 或其他雲端帳號。應用程式會下載檔案，讓您編輯標籤，並自動將修改後的檔案上傳回雲端。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Evermusic/Flacbox 和 Evertag 有什麼區別？" closed="true" %}}
+{{% ls-details title="Evermusic/Flacbox 和 Evertag 有什麼區別？" closed="true" %}}
 Evermusic 和 Flacbox 是內建基本標籤編輯器的音樂播放器。Evertag 是專用的標籤編輯器，支援 120 多個音訊標籤、批次編輯和 30 多種格式——非常適合管理大型資料庫。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="自動搜尋功能需要網路連線嗎？" closed="true" %}}
+{{% ls-details title="自動搜尋功能需要網路連線嗎？" closed="true" %}}
 是的。自動搜尋音訊標籤功能會查詢 MusicBrainz 線上資料庫以尋找並填入元數據。此功能需要有效的網路連線。
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="編輯標籤會影響我的音質嗎？" closed="true" %}}
+{{% ls-details title="編輯標籤會影響我的音質嗎？" closed="true" %}}
 不會。標籤編輯僅修改嵌入在檔案中的元數據。音訊資料本身保持不變——不會進行重新編碼。
-{{% /details %}}
+{{% /ls-details %}}

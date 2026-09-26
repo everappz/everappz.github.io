@@ -7,7 +7,7 @@ tags: ["lyrics", "mp3", "id3", "metadata", "iphone", "audio editing"]
 readingTime: 2
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 
 **ملخص:** استخدم تطبيق **Evertag** المجاني لتعديل كلمات الأغاني غير المتزامنة وتقييمات المحتوى وأكثر من 120 علامة صوتية على iPhone أو Mac. يعمل مع الملفات المحلية والمخزنة سحابياً، ويدعم التعديل الدفعي، ويحفظ كلمات الأغاني المرئية في Evermusic وFlacbox ومشغلات أخرى.
@@ -23,8 +23,8 @@ readingTime: 2
 ابدأ بتحميل تطبيق **Evertag** من App Store. متاح لكل من **iOS** و**macOS**، ومجاني الاستخدام.
 
 {{< cards cols="2">}}
-{{< card link="https://apps.apple.com/app/apple-store/id1450763230?pt=95781850&ct=everappzcom&mt=8" title="Evertag لـ iOS" icon="download" tag="Free" >}}
-{{< card link="https://apps.apple.com/app/apple-store/id1594027661?pt=95781850&ct=everappzcom&mt=8" title="Evertag لـ macOS" icon="download" tag="Free" >}}
+{{< ls-card link="https://apps.apple.com/app/apple-store/id1450763230?pt=95781850&ct=everappzcom&mt=8" title="Evertag لـ iOS" icon="download" tag="Free" >}}
+{{< ls-card link="https://apps.apple.com/app/apple-store/id1594027661?pt=95781850&ct=everappzcom&mt=8" title="Evertag لـ macOS" icon="download" tag="Free" >}}
 {{< /cards >}}
 
 ## ربط حساب التخزين السحابي
@@ -38,13 +38,13 @@ readingTime: 2
 - اضغط على **الاتصال بالتخزين السحابي**
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="الاتصال بالتخزين السحابي" image="/docs/howto/how-to-edit-lyrics-for-audio-files-on-iphone-mac/connect-to-cloud-storage.webp" >}}
+{{< ls-card title="" subtitle="الاتصال بالتخزين السحابي" image="/docs/howto/how-to-edit-lyrics-for-audio-files-on-iphone-mac/connect-to-cloud-storage.webp" >}}
 {{< /cards >}}
 
 - اختر مزوداً مدعوماً، أدخل بيانات الاعتماد الخاصة بك، واضغط على **تم**
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="الاتصال بالتخزين السحابي" image="/docs/howto/how-to-edit-lyrics-for-audio-files-on-iphone-mac/connect-to-cloud-storage.webp" >}}
+{{< ls-card title="" subtitle="الاتصال بالتخزين السحابي" image="/docs/howto/how-to-edit-lyrics-for-audio-files-on-iphone-mac/connect-to-cloud-storage.webp" >}}
 {{< /cards >}}
 
 - بمجرد الاتصال، سيظهر تخزينك السحابي في قسم **التخزين السحابي** في التطبيق.
@@ -52,7 +52,7 @@ readingTime: 2
 - اضغط على تخزينك السحابي المتصل لتصفح وتحميل محتويات مجلداته.
   
 {{< cards cols="1">}}
-{{< card title="" subtitle="قائمة ملفات التخزين السحابي" image="/docs/howto/how-to-edit-lyrics-for-audio-files-on-iphone-mac/cloud-storage-list-audio-files.webp" >}}
+{{< ls-card title="" subtitle="قائمة ملفات التخزين السحابي" image="/docs/howto/how-to-edit-lyrics-for-audio-files-on-iphone-mac/cloud-storage-list-audio-files.webp" >}}
 {{< /cards >}}
 
 ## ربط مجلد محلي
@@ -74,7 +74,7 @@ readingTime: 2
 - مرر لأسفل إلى **الملفات على هذا الجهاز** في قائمة الشريط الجانبي
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="مجلدات الجهاز" image="/docs/howto/how-to-edit-lyrics-for-audio-files-on-iphone-mac/device-folders.webp" >}}
+{{< ls-card title="" subtitle="مجلدات الجهاز" image="/docs/howto/how-to-edit-lyrics-for-audio-files-on-iphone-mac/device-folders.webp" >}}
 {{< /cards >}}
   
 - اضغط على عنصر القائمة **جميع مجلدات الجهاز**
@@ -91,7 +91,7 @@ readingTime: 2
 **محرر العلامات** هو الشاشة الرئيسية لتطبيق Evertag حيث يمكنك عرض وتعديل البيانات الوصفية لملفات الصوت. افتح هذه الشاشة بالضغط على ملف من قسم **الملفات المحلية** أو من أي حساب **تخزين سحابي** متصل.
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="شاشة محرر العلامات في Evertag" image="/docs/howto/how-to-edit-lyrics-for-audio-files-on-iphone-mac/cloud-storage-audio-file-tag-editor.webp" >}}
+{{< ls-card title="" subtitle="شاشة محرر العلامات في Evertag" image="/docs/howto/how-to-edit-lyrics-for-audio-files-on-iphone-mac/cloud-storage-audio-file-tag-editor.webp" >}}
 {{< /cards >}}
 
 ## أوضاع التعديل
@@ -112,7 +112,7 @@ readingTime: 2
 للوصول إلى جميع العلامات المتاحة، مرر لأسفل الشاشة واضغط على خيار **إظهار العلامات الموسعة**. سيؤدي ذلك إلى تحويل المحرر إلى الوضع الموسع، مما يتيح لك تعديل أكثر من **120 حقل بيانات وصفية**، بما في ذلك **علامات MusicBrainz** و**كلمات الأغاني** و**تقييمات المحتوى** والمزيد.
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="لوحة الإجراءات السفلية" image="/docs/howto/how-to-edit-lyrics-for-audio-files-on-iphone-mac/show-extended-tags.webp" >}}
+{{< ls-card title="" subtitle="لوحة الإجراءات السفلية" image="/docs/howto/how-to-edit-lyrics-for-audio-files-on-iphone-mac/show-extended-tags.webp" >}}
 {{< /cards >}}
 
 ## الوضع الدفعي
@@ -137,7 +137,7 @@ readingTime: 2
 في وضع **العلامات الموسعة**، مرر لأسفل واضغط على حقل النص **كلمات الأغاني غير المتزامنة**.
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="حقل نص كلمات الأغاني غير المتزامنة" image="/docs/howto/how-to-edit-lyrics-for-audio-files-on-iphone-mac/advisory-rating-2.webp" >}}
+{{< ls-card title="" subtitle="حقل نص كلمات الأغاني غير المتزامنة" image="/docs/howto/how-to-edit-lyrics-for-audio-files-on-iphone-mac/advisory-rating-2.webp" >}}
 {{< /cards >}}
 
 > ملفات الصوت التي تدعم **علامات ID3** (مثل `.mp3` أو `.wav`) تتيح لك إضافة كلمات الأغاني بلغات متعددة. إذا كنت تعدّل ملفاً بعلامات ID3، يتيح Evertag دعم اللغات المتعددة بالكامل.  
@@ -148,7 +148,7 @@ readingTime: 2
 إذا كنت تعدّل علامات ID3، ستظهر الشاشة التالية زر **إضافة صفحة جديدة**. اضغط عليه لبدء إضافة إدخال كلمات أغاني جديد.
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="إضافة صفحة كلمات أغاني جديدة" image="/docs/howto/how-to-edit-lyrics-for-audio-files-on-iphone-mac/add-new-page.webp" >}}
+{{< ls-card title="" subtitle="إضافة صفحة كلمات أغاني جديدة" image="/docs/howto/how-to-edit-lyrics-for-audio-files-on-iphone-mac/add-new-page.webp" >}}
 {{< /cards >}}
 
 ### اختيار اللغة والتعليق ومحتوى كلمات الأغاني
@@ -159,7 +159,7 @@ readingTime: 2
 - إدخال **نص كلمات الأغاني** الفعلي
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="اختيار اللغة" image="/docs/howto/how-to-edit-lyrics-for-audio-files-on-iphone-mac/choose-language.webp" >}}
+{{< ls-card title="" subtitle="اختيار اللغة" image="/docs/howto/how-to-edit-lyrics-for-audio-files-on-iphone-mac/choose-language.webp" >}}
 {{< /cards >}}
 
 ### إدخال كلمات الأغاني
@@ -169,7 +169,7 @@ readingTime: 2
 > نصيحة: تبحث عن كلمات أغاني عالية الجودة؟ قم بزيارة [lyricsify.com](https://www.lyricsify.com) للعثور على كلمات الأغاني بتنسيق LRC لآلاف المسارات.
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="كلمات الأغاني المضافة" image="/docs/howto/how-to-edit-lyrics-for-audio-files-on-iphone-mac/added-lyrics.webp" >}}
+{{< ls-card title="" subtitle="كلمات الأغاني المضافة" image="/docs/howto/how-to-edit-lyrics-for-audio-files-on-iphone-mac/added-lyrics.webp" >}}
 {{< /cards >}}
 
 ### اضغط على "تم" للتأكيد
@@ -177,7 +177,7 @@ readingTime: 2
 بعد إدخال كلمات الأغاني، اضغط على **تم** في صفحة كلمات الأغاني. ثم اضغط على **تم** مرة أخرى في الشاشة السابقة لتأكيد تغييراتك.
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="كلمات الأغاني المحفوظة" image="/docs/howto/how-to-edit-lyrics-for-audio-files-on-iphone-mac/saved-lyrics.webp" >}}
+{{< ls-card title="" subtitle="كلمات الأغاني المحفوظة" image="/docs/howto/how-to-edit-lyrics-for-audio-files-on-iphone-mac/saved-lyrics.webp" >}}
 {{< /cards >}}
 
 ### حفظ تغييرات العلامات
@@ -185,7 +185,7 @@ readingTime: 2
 أخيراً، في شاشة **محرر العلامات**، اضغط على **حفظ** لكتابة العلامات المحدثة - بما في ذلك كلمات الأغاني الجديدة - مرة أخرى إلى الملف.
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="محرر العلامات مع كلمات الأغاني" image="/docs/howto/how-to-edit-lyrics-for-audio-files-on-iphone-mac/tags-editor-with-lyrics.webp" >}}
+{{< ls-card title="" subtitle="محرر العلامات مع كلمات الأغاني" image="/docs/howto/how-to-edit-lyrics-for-audio-files-on-iphone-mac/tags-editor-with-lyrics.webp" >}}
 {{< /cards >}}
 
 ### تعيين تقييم كلمات الأغاني
@@ -204,22 +204,22 @@ readingTime: 2
 
 ## الأسئلة الشائعة
 
-{{% details title="ما تنسيقات الصوت التي يدعمها Evertag لتعديل كلمات الأغاني؟" closed="true" %}}
+{{% ls-details title="ما تنسيقات الصوت التي يدعمها Evertag لتعديل كلمات الأغاني؟" closed="true" %}}
 يدعم Evertag أكثر من 30 تنسيقاً صوتياً، بما في ذلك MP3 وFLAC وWAV وM4A وOGG وAIFF والمزيد. يمكنك تعديل كلمات الأغاني وعلامات البيانات الوصفية الأخرى في أي من هذه التنسيقات.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="هل يمكنني إضافة كلمات أغاني بلغات متعددة؟" closed="true" %}}
+{{% ls-details title="هل يمكنني إضافة كلمات أغاني بلغات متعددة؟" closed="true" %}}
 نعم، ولكن فقط لملفات الصوت التي تستخدم علامات ID3 (مثل MP3 وWAV). بالنسبة للتنسيقات الأخرى مثل FLAC أو M4A، يتم دعم إدخال كلمات أغاني واحد فقط.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="هل يدعم Evertag التعديل الدفعي لكلمات الأغاني؟" closed="true" %}}
+{{% ls-details title="هل يدعم Evertag التعديل الدفعي لكلمات الأغاني؟" closed="true" %}}
 نعم. يمكنك الدخول إلى الوضع الدفعي لتعديل البيانات الوصفية عبر ملفات متعددة في وقت واحد. هذا مفيد لتطبيق نفس تقييم كلمات الأغاني أو العلامات المشتركة الأخرى على ألبوم كامل.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="هل ستظهر كلمات الأغاني المعدلة في Apple Music أو Spotify؟" closed="true" %}}
+{{% ls-details title="هل ستظهر كلمات الأغاني المعدلة في Apple Music أو Spotify؟" closed="true" %}}
 كلمات الأغاني المعدلة باستخدام Evertag مضمنة في البيانات الوصفية لملف الصوت. ستظهر في أي مشغل موسيقى يقرأ علامات كلمات الأغاني المضمنة، مثل Evermusic وFlacbox وVLC وfoobar2000. تطبيقات البث مثل Spotify وApple Music تستخدم قواعد بيانات كلمات الأغاني الخاصة بها ولا تقرأ العلامات المضمنة.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="هل يمكنني تعديل العلامات للملفات المخزنة في التخزين السحابي؟" closed="true" %}}
+{{% ls-details title="هل يمكنني تعديل العلامات للملفات المخزنة في التخزين السحابي؟" closed="true" %}}
 نعم. يدعم Evertag الاتصال بخدمات التخزين السحابي. يقوم التطبيق بتنزيل الملف، ويتيح لك تعديل العلامات، ويرفع الملف المحدث مرة أخرى إلى السحابة تلقائياً.
-{{% /details %}}
+{{% /ls-details %}}

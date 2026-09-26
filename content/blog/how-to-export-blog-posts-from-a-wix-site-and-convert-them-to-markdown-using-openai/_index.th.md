@@ -12,7 +12,7 @@ authors:
     image: "/images/about/artem-meleshko-founder-everappz.webp"
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 ## ทำไมต้องส่งออกบล็อกโพสต์จาก Wix?
 
@@ -332,33 +332,33 @@ bash fetch_blog_posts.sh
 โปรเจกต์นี้เป็น open source ยินดีรับรายงานข้อบกพร่อง ข้อเสนอแนะฟีเจอร์ และ pull request
 
 {{< cards cols="1" >}}
-  {{< card link="https://github.com/everappz/wix-blog-export" title="โปรเจกต์บน GitHub" icon="github" tag="open source" >}}
+  {{< ls-card link="https://github.com/everappz/wix-blog-export" title="โปรเจกต์บน GitHub" icon="github" tag="open source" >}}
 {{< /cards >}}
 
 ---
 
 ## คำถามที่พบบ่อย
 
-{{% details title="ทำไมฉันไม่สามารถใช้ `requests` เพื่อ scrape บล็อกโพสต์ Wix ได้?" closed="true" %}}
+{{% ls-details title="ทำไมฉันไม่สามารถใช้ `requests` เพื่อ scrape บล็อกโพสต์ Wix ได้?" closed="true" %}}
 Wix เรนเดอร์เนื้อหาแบบไดนามิกด้วย JavaScript คำขอ HTTP มาตรฐานจะส่งคืนหน้าเปล่า Selenium เรียกใช้เบราว์เซอร์แบบ headless เพื่อให้ได้ HTML ที่เรนเดอร์สมบูรณ์
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="ใช้ได้กับบล็อก Wix ทุกบล็อกหรือไม่?" closed="true" %}}
+{{% ls-details title="ใช้ได้กับบล็อก Wix ทุกบล็อกหรือไม่?" closed="true" %}}
 ใช่ Scraper อ่าน sitemap XML ของบล็อกและประมวลผลแต่ละ URL คุณเพียงแค่ต้องอัปเดตตัวแปร `SITEMAP_URL` ใน `parse_blog_sitemap.py` ให้ชี้ไปยัง sitemap ของเว็บไซต์คุณ
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="ใช้โมเดล OpenAI ตัวไหน?" closed="true" %}}
+{{% ls-details title="ใช้โมเดล OpenAI ตัวไหน?" closed="true" %}}
 สคริปต์ใช้ GPT-4o เป็นค่าเริ่มต้น คุณสามารถเปลี่ยนตัวแปร `API_MODEL` ใน `generate_md.py` เพื่อใช้โมเดลอื่น
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="ฉันสามารถใช้สิ่งนี้เพื่อย้ายจาก Wix ไป Hugo ได้หรือไม่?" closed="true" %}}
+{{% ls-details title="ฉันสามารถใช้สิ่งนี้เพื่อย้ายจาก Wix ไป Hugo ได้หรือไม่?" closed="true" %}}
 ได้ ผลลัพธ์เป็น Markdown มาตรฐานพร้อมเส้นทางรูปภาพในเครื่อง ซึ่งใช้ได้โดยตรงกับ Hugo, Jekyll, Astro และตัวสร้างเว็บไซต์แบบสถิตอื่นๆ เพิ่ม front matter ให้ไฟล์ `_index.md` ที่สร้างขึ้นเพื่อทำการย้ายให้เสร็จสมบูรณ์
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="OpenAI API สำหรับสิ่งนี้มีค่าใช้จ่ายเท่าไหร่?" closed="true" %}}
+{{% ls-details title="OpenAI API สำหรับสิ่งนี้มีค่าใช้จ่ายเท่าไหร่?" closed="true" %}}
 ค่าใช้จ่ายขึ้นอยู่กับจำนวนและความยาวของบล็อกโพสต์ บล็อกทั่วไปที่มี 50 โพสต์ความยาวปานกลางจะมีค่าใช้จ่ายไม่กี่ดอลลาร์ในการใช้ API กับ GPT-4o
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="เครื่องมือนี้เป็น open source หรือไม่?" closed="true" %}}
+{{% ls-details title="เครื่องมือนี้เป็น open source หรือไม่?" closed="true" %}}
 ใช่ ซอร์สโค้ดทั้งหมดมีอยู่บน [GitHub](https://github.com/everappz/wix-blog-export) ภายใต้สัญญาอนุญาต open source
-{{% /details %}}
+{{% /ls-details %}}

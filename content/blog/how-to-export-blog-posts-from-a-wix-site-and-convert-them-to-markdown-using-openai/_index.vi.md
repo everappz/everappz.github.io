@@ -12,7 +12,7 @@ authors:
     image: "/images/about/artem-meleshko-founder-everappz.webp"
 ---
 
-{{< author-byline >}}
+{{< ls-author-byline >}}
 
 ## Tại sao cần xuất bài viết blog từ Wix?
 
@@ -259,33 +259,33 @@ Lệnh duy nhất này thiết lập môi trường, scrape tất cả bài vi�
 Dự án là mã nguồn mở. Báo cáo lỗi, đề xuất tính năng và pull request đều được hoan nghênh.
 
 {{< cards cols="1" >}}
-  {{< card link="https://github.com/everappz/wix-blog-export" title="Dự án trên GitHub" icon="github" tag="open source" >}}
+  {{< ls-card link="https://github.com/everappz/wix-blog-export" title="Dự án trên GitHub" icon="github" tag="open source" >}}
 {{< /cards >}}
 
 ---
 
 ## Câu hỏi thường gặp
 
-{{% details title="Tại sao tôi không thể dùng `requests` để scrape bài viết blog Wix?" closed="true" %}}
+{{% ls-details title="Tại sao tôi không thể dùng `requests` để scrape bài viết blog Wix?" closed="true" %}}
 Wix render nội dung động bằng JavaScript. Yêu cầu HTTP tiêu chuẩn trả về trang trống. Selenium chạy trình duyệt headless để lấy HTML đã render đầy đủ.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Điều này có hoạt động với bất kỳ blog Wix nào không?" closed="true" %}}
+{{% ls-details title="Điều này có hoạt động với bất kỳ blog Wix nào không?" closed="true" %}}
 Có. Scraper đọc sitemap XML của blog và xử lý từng URL. Bạn chỉ cần cập nhật biến `SITEMAP_URL` trong `parse_blog_sitemap.py` trỏ đến sitemap của trang web bạn.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Sử dụng mô hình OpenAI nào?" closed="true" %}}
+{{% ls-details title="Sử dụng mô hình OpenAI nào?" closed="true" %}}
 Script mặc định dùng GPT-4o. Bạn có thể thay đổi biến `API_MODEL` trong `generate_md.py` để dùng mô hình khác.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Tôi có thể dùng để di chuyển từ Wix sang Hugo không?" closed="true" %}}
+{{% ls-details title="Tôi có thể dùng để di chuyển từ Wix sang Hugo không?" closed="true" %}}
 Có. Đầu ra là Markdown chuẩn với đường dẫn ảnh cục bộ, hoạt động trực tiếp với Hugo, Jekyll, Astro và các trình tạo trang tĩnh khác. Thêm front matter vào các tệp `_index.md` được tạo để hoàn tất di chuyển.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="OpenAI API tốn bao nhiêu cho việc này?" closed="true" %}}
+{{% ls-details title="OpenAI API tốn bao nhiêu cho việc này?" closed="true" %}}
 Chi phí phụ thuộc vào số lượng và độ dài bài viết. Blog điển hình với 50 bài viết độ dài trung bình tốn vài đô la sử dụng API với GPT-4o.
-{{% /details %}}
+{{% /ls-details %}}
 
-{{% details title="Công cụ này có phải mã nguồn mở không?" closed="true" %}}
+{{% ls-details title="Công cụ này có phải mã nguồn mở không?" closed="true" %}}
 Có. Toàn bộ mã nguồn có sẵn trên [GitHub](https://github.com/everappz/wix-blog-export) theo giấy phép mã nguồn mở.
-{{% /details %}}
+{{% /ls-details %}}
